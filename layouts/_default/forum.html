@@ -1,0 +1,25 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+{{ $sticky := where .Pages "Params.sticky" true }}
+{{ $normal := where .Pages "Params.sticky" "!=" true }}
+
+{{ if $sticky }}
+<h2>Announcements</h2>
+<ul>
+  {{ range (.Pages.ByParam "last_activity").Reverse }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <small>{{ .Params.post_count }} posts · last {{ .Params.last_activity }}</small></li>
+  {{ end }}
+</ul>
+{{ end }}
+
+<h2>Topics</h2>
+<ul>
+  {{ range (.Pages.ByParam "last_activity").Reverse }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <small>{{ .Params.post_count }} posts · last {{ .Params.last_activity }}</small></li>
+  {{ end }}
+</ul>
+{{ end }}

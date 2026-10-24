@@ -1,0 +1,27 @@
+/* Make table width consistent and add basic readability styles */
+.forum-index {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+  font-size: 0.9rem;
+}
+
+.forum-index th,
+.forum-index td {
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+  text-align: left;
+  vertical-align: top;
+}
+
+.forum-index th {
+  font-weight: 600;
+  border-bottom-width: 2px;
+}
+
+/* Slightly smaller description text */
+.forum-desc {
+  font-size: 0.85em;
+  opacity: 0.75;
+  margin-top: 0.25rem;
+}
