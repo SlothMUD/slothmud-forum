@@ -1,0 +1,6 @@
+[submodule "themes/slothmud-theme"]
+	path = themes/slothmud-theme
+	url = https://github.com/SlothMUD/slothmud-theme.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
