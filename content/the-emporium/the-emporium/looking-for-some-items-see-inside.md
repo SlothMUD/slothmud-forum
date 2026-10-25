@@ -1,0 +1,25 @@
+---
+title: "Looking for some items (see inside)"
+topic_id: 715
+author: "Darx"
+date: 2005-01-02T10:45:41+00:00
+last_activity: 2005-01-02T10:45:41+00:00
+last_author: "Darx"
+sticky: false
+locked: false
+post_count: 1
+---
+
+<div class="post" data-post-id="3596" data-author="Darx" data-date="2005-01-02T10:45:41+00:00">
+
+I am looking for some items unfortunately yet I cannot solo :) And those are (will pay well):
+
+2x Platinum Chain
+
+serpent skin robe or tattered linen robe
+
+Thank you and Happy New Year :)
+
+~Darx
+
+</div>

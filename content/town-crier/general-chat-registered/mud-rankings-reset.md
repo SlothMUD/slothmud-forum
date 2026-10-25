@@ -1,0 +1,73 @@
+---
+title: "Mud Rankings Reset"
+topic_id: 3068
+author: "Jag"
+date: 2009-04-02T13:08:04+00:00
+last_activity: 2009-04-04T02:47:54+00:00
+last_author: "Jag"
+sticky: false
+locked: false
+post_count: 8
+---
+
+<div class="post" data-post-id="28652" data-author="Jag" data-date="2009-04-02T13:08:04+00:00">
+
+[b:1gz3817h]The voting has been reset. Please Vote[/b:1gz3817h]
+
+</div>
+
+<div class="post" data-post-id="28653" data-author="Yasik2" data-date="2009-04-02T16:33:46+00:00">
+
+Not untile Someone attaches "target=_blank[/color:32mzxf5i]" to that button in the top-right corner on main page!  :evil:
+
+</div>
+
+<div class="post" data-post-id="28655" data-author="Weasel" data-date="2009-04-02T17:50:06+00:00">
+
+Not untile Someone attaches "target=_blank[/color:2fu847lw]" to that button in the top-right corner on main page!  :evil:[/quote:2fu847lw]
+
+LOL yeah, because it's too hard to right-click and select open in a new tab/window.
+
+</div>
+
+<div class="post" data-post-id="28656" data-author="Yasik2" data-date="2009-04-02T19:52:17+00:00">
+
+Not untile Someone attaches "target=_blank[/color:3exwhbl1]" to that button in the top-right corner on main page!  :evil:[/quote:3exwhbl1]
+
+LOL yeah, because it's too hard to right-click and select open in a new tab/window.[/quote:3exwhbl1]
+
+Yeah, coz my middle finger on right hand usually busy when smart ones like you around! :D
+
+</div>
+
+<div class="post" data-post-id="28657" data-author="Weasel" data-date="2009-04-02T21:23:10+00:00">
+
+Not untile Someone attaches "target=_blank[/color:1qw3h53v]" to that button in the top-right corner on main page!  :evil:[/quote:1qw3h53v]
+
+LOL yeah, because it's too hard to right-click and select open in a new tab/window.[/quote:1qw3h53v]
+
+Yeah, coz my middle finger on right hand usually busy when smart ones like you around! :D[/quote:1qw3h53v]
+
+ :shock:  remind me to never shake your hand should I ever meet you.
+
+</div>
+
+<div class="post" data-post-id="28658" data-author="Rynquald" data-date="2009-04-02T22:09:56+00:00">
+
+In Firefox you can click on a link with your middle mouse button (or scroll wheel button or whatever) to open it in a new tab.
+
+I tend to find it easier to use the middle button if I want a new tab rather than even finding out if the link would have done it :)
+
+</div>
+
+<div class="post" data-post-id="28663" data-author="Jag" data-date="2009-04-03T15:44:41+00:00">
+
+Voting link seems broken.  I believe it is a problem on their site, but someone may want to look at it.
+
+</div>
+
+<div class="post" data-post-id="28664" data-author="Jag" data-date="2009-04-04T02:47:54+00:00">
+
+Voting link is working now.  So go vote.    :)
+
+</div>

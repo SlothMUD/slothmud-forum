@@ -1,0 +1,149 @@
+---
+title: "Goodbye Sloth"
+topic_id: 3039
+author: "Gimlet"
+date: 2009-02-12T17:25:55+00:00
+last_activity: 2009-02-20T22:30:14+00:00
+last_author: "13"
+sticky: false
+locked: false
+post_count: 15
+---
+
+<div class="post" data-post-id="28073" data-author="Gimlet" data-date="2009-02-12T17:25:55+00:00">
+
+anyone who knows me knows that I've been having rl problems of late
+
+I've decided that I can no longer mud... I just wish I'd decided on it years or months ago... nothing against the ppl here, i've made some great friends from here
+
+but there're things I need to do with my life, and I cannot allow myself to come back to the mud
+
+wish me luck
+
+g'bye mud
+
+</div>
+
+<div class="post" data-post-id="28074" data-author="*juggleblood*" data-date="2009-02-12T17:30:13+00:00">
+
+Good Luck man. I'm sure u can do whatever you put your mind to.
+
+</div>
+
+<div class="post" data-post-id="28075" data-author="Bazilus" data-date="2009-02-12T17:44:28+00:00">
+
+Good luck Al.
+
+Bazilus
+
+</div>
+
+<div class="post" data-post-id="28076" data-author="Vixn" data-date="2009-02-12T18:08:55+00:00">
+
+Why to make bids on auction if you gonna quit?
+
+Anyway, good bye, Al.
+
+Hope you'll be fine.
+
+Vixn
+
+</div>
+
+<div class="post" data-post-id="28077" data-author="Sheng" data-date="2009-02-12T18:17:12+00:00">
+
+Good luck!  My brothers and I have all quit many times.  Only my older brother has ever intentionally left forever -- and he hasn't been back.  It can be done!
+
+I got lucky and married a wife that likes to stab things, so MUD-ing isn't very likely to wreck my relationship with her :roll:
+
+I just have to worry about getting stabbed... one of her favorite classes in college was called 'knife skills.'
+
+</div>
+
+<div class="post" data-post-id="28078" data-author="Sind" data-date="2009-02-12T18:37:38+00:00">
+
+gimme ur eq, i will save it till better times
+
+and take care :)
+
+</div>
+
+<div class="post" data-post-id="28080" data-author="Weasel" data-date="2009-02-12T21:56:53+00:00">
+
+wish me luck[/quote:2wfo4v98]
+
+luck
+
+</div>
+
+<div class="post" data-post-id="28081" data-author="Rynquald" data-date="2009-02-12T21:57:36+00:00">
+
+Good luck Al. The mud was a better place for having you around.
+
+</div>
+
+<div class="post" data-post-id="28084" data-author="Leaf" data-date="2009-02-12T23:51:14+00:00">
+
+Good luck Al. The mud was a better place for having you around.[/quote:8drjuyst]
+
+What kind of weed laced cocaine u smoking there Joe?
+
+Anyways, take care Al.  I know u have quit several times, like the most/
+
+best of us.  So see u around :)
+
+</div>
+
+<div class="post" data-post-id="28089" data-author="Jag" data-date="2009-02-13T13:56:33+00:00">
+
+good luck.
+
+</div>
+
+<div class="post" data-post-id="28092" data-author="Medios" data-date="2009-02-13T20:35:29+00:00">
+
+I'm damn glad I gave you those boots and tried to help with your eq.  There are others things I could say, but in light of the situation I will keep my mouth shut.
+
+</div>
+
+<div class="post" data-post-id="28111" data-author="Gimlet" data-date="2009-02-14T17:53:08+00:00">
+
+it wasn't a case of me getting bored of the game and trading my stuff for a cse of beer like aaron did, mike
+
+i appreciate everything you did for me, and everyone else too.
+
+but there's something I need to do in rl and i need to be away from this game forever...
+
+it's done more damage to my life than i care to admit
+
+</div>
+
+<div class="post" data-post-id="28152" data-author="reboog" data-date="2009-02-17T06:26:22+00:00">
+
+Gimlet: hi
+
+</div>
+
+<div class="post" data-post-id="28155" data-author="Yasik2" data-date="2009-02-17T10:06:31+00:00">
+
+anyone who knows me knows that I've been having rl problems of late
+
+I've decided that I can no longer mud... I just wish I'd decided on it years or months ago... nothing against the ppl here, i've made some great friends from here
+
+but there're things I need to do with my life, and I cannot allow myself to come back to the mud
+
+wish me luck
+
+g'bye mud[/quote:bppaymxu]
+
+[img:bppaymxu]http://yasik.kiev.ua/4chan/Kthxbai.jpg[/img:bppaymxu]
+
+</div>
+
+<div class="post" data-post-id="28234" data-author="13" data-date="2009-02-20T22:30:14+00:00">
+
+what's wrong with trading a couple items for a case of beer?
+
+real shit > 1's and 0's....hellO?
+
+</div>

@@ -1,0 +1,105 @@
+---
+title: "Favorite gnames"
+topic_id: 2469
+author: "Medios"
+date: 2007-04-29T14:37:22+00:00
+last_activity: 2007-05-02T21:44:39+00:00
+last_author: "Akasha"
+sticky: false
+locked: false
+post_count: 8
+---
+
+<div class="post" data-post-id="18236" data-author="Medios" data-date="2007-04-29T14:37:22+00:00">
+
+Lob is leading 'Lob's Brave Posse' on Lyme:
+
+Aint no posse like a brave posse, cuz New York posses aint shit.
+
+Mike
+
+</div>
+
+<div class="post" data-post-id="18240" data-author="*juggleblood*" data-date="2007-04-29T16:47:46+00:00">
+
+I would prefer: Minstrel is leading 'Desert' on Lyme
+
+</div>
+
+<div class="post" data-post-id="18241" data-author="Malison" data-date="2007-04-29T19:10:14+00:00">
+
+A bit dated, but still good:
+
+Shyla is leading 'a bunch of slackers' on Thordfalan:
+
+            (Cl:5.40)   Shyla
+
+            (Ma:3.20)   Hakon
+
+            (Wa:5.40)   Bit
+
+            (Ma:5.40)   Rynquald
+
+            (Cl:2.30)   Yinao
+
+</div>
+
+<div class="post" data-post-id="18244" data-author="12345" data-date="2007-04-30T03:06:28+00:00">
+
+Stolen from the Pirate's site:
+
+Acme is leading 'Truth and Reason shall win the day' on The Island:
+
+            (Ne:5.40)   Acme
+
+            (Ma:5.40)   Truth
+
+            (Ne:1.35)   Reason
+
+</div>
+
+<div class="post" data-post-id="18245" data-author="Autolycos" data-date="2007-04-30T03:12:05+00:00">
+
+Stolen from the Pirate's site:
+
+[/quote:30fulzh4]
+
+THIEF!!!!!!!   :x
+
+you have to admit... was pretty damn funny....
+
+</div>
+
+<div class="post" data-post-id="18246" data-author="13" data-date="2007-04-30T16:39:28+00:00">
+
+check ghost/shival's wrap for the two best gname's ever
+
+:)
+
+peace
+
+</div>
+
+<div class="post" data-post-id="18268" data-author="Akasha" data-date="2007-05-02T21:41:46+00:00">
+
+Jian is leading 'Jian's Dandy Duo' somewhere:
+
+            (Cl:0.15)   Jian
+
+            (Wa:0.14)   Xiaomai
+
+aint that just dandy? :P
+
+</div>
+
+<div class="post" data-post-id="18269" data-author="Akasha" data-date="2007-05-02T21:44:39+00:00">
+
+check ghost/shival's wrap for the two best gname's ever
+
+:)
+
+peace[/quote:2kb5kbiu]
+
+nice one
+
+</div>

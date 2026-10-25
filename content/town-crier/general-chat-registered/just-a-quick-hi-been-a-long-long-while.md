@@ -1,0 +1,31 @@
+---
+title: "Just a quick hi, been a long long while"
+topic_id: 4054
+author: "impz"
+date: 2013-03-07T15:27:17+00:00
+last_activity: 2013-03-07T17:04:21+00:00
+last_author: "Ker"
+sticky: false
+locked: false
+post_count: 2
+---
+
+<div class="post" data-post-id="34125" data-author="impz" data-date="2013-03-07T15:27:17+00:00">
+
+Hi all :D Probably the really really old folks might remember me, maybe not :)
+
+Anyway, I was checking some of my old stuff and realise that I used to play this game in the early to mid 2000s. Just glad that I enjoyed my time then, and really glad that some players are still roaming around the area I created, Kozakura.
+
+Cheers and continue to have fun guys!~
+
+</div>
+
+<div class="post" data-post-id="34126" data-author="Ker" data-date="2013-03-07T17:04:21+00:00">
+
+Hiiiiii Impz <3
+
+Dr
+
+Formerly Chi/Ker/Abone/Bomb from SIII.
+
+</div>

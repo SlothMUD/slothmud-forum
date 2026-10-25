@@ -1,0 +1,17 @@
+---
+title: "new spell"
+topic_id: 278
+author: "brand"
+date: 2004-07-12T02:50:59+00:00
+last_activity: 2004-07-12T02:50:59+00:00
+last_author: "brand"
+sticky: false
+locked: false
+post_count: 1
+---
+
+<div class="post" data-post-id="1029" data-author="brand" data-date="2004-07-12T02:50:59+00:00">
+
+any ideas who pops the necrology book? :evil:  :?:
+
+</div>

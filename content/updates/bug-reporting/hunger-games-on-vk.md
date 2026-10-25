@@ -1,0 +1,385 @@
+---
+title: "Hunger games on VK"
+topic_id: 4262
+author: "Yasik"
+date: 2014-05-30T09:44:39+00:00
+last_activity: 2015-03-15T09:57:40+00:00
+last_author: "Yasik"
+sticky: false
+locked: false
+post_count: 11
+---
+
+<div class="post" data-post-id="35197" data-author="Yasik" data-date="2014-05-30T09:44:39+00:00">
+
+Its something broke itself on its own, or food store moved to another vendor?
+
+**look
+
+Newbatia's Supply Shop
+
+   Made of pure ivory, a beautiful counter runs along the back of the
+
+little supply shop.  The walls have wooden shelves fastened to them.
+
+Containing all sorts of different items.  The ceiling is covered in a fancy
+
+mural, painted in exquisite colors.  The floor is made of solid stone,
+
+complete with a ring cut into the middle for a roaring fire.
+
+Exits: West  
+
+Mikala the supply clerk painfully stocks the shop shelves.
+
+<552hp 176ma 259mv>   +9   -6.8   19,171,966   336,493   indoors   Newbatia
+
+You are hungry.
+
+<552hp 177ma 260mv>   +9   -6.8   19,171,966   336,493   indoors   Newbatia
+
+You are hungry.
+
+<552hp 181ma 266mv>   +9   -6.8   19,171,966   336,493   indoors   Newbatia
+
+li
+
+You can buy:
+
+ Price     Item
+
+----------------------
+
+ 35        a tuft of fur
+
+ 300       a mummified finger
+
+ 150       some tears of a dogman
+
+ 1500      a milk bucket..It has a soft glowing aura!
+
+ 785       some sapphire dust
+
+ 100       a strip of cut maple
+
+ 500       a frozen ray of sunlight
+
+ 5         a torn page from a note book [3]
+
+ 58000     a mana flux
+
+----------------------
+
+* means you need more levels to use it.
+
+! means you are not strong enough to use it.
+
+& means you have studied this spellbook or manual to its max.
+
+Query may also be of use to you, please refer to help query.
+
+<552hp 181ma 266mv>   +9   -6.8   19,171,966   336,493   indoors   Newbatia
+
+buy ration
+
+Mikala tells you 'I'm sorry sir, I am currently out of those.'**
+
+PS. In her responce, after "sorry" should be a comma, no?
+
+</div>
+
+<div class="post" data-post-id="35198" data-author="Yasik" data-date="2014-05-30T09:49:18+00:00">
+
+Found temporary solution, but still...
+
+**Captain Gregory's Bakery
+
+Exits: East  
+
+Shyche is here trying furiously to keep up with his orders.
+
+<552hp 201ma 292mv>   +9   -6.8   19,171,966   336,493   indoors   Newbatia
+
+li
+
+You can buy:
+
+ Price     Item
+
+----------------------
+
+ 9         a blueberry muffin
+
+ 9         a raisin muffin
+
+ 9         a banana muffin
+
+ 9         a bran muffin
+
+ 9         a prune muffin
+
+ 9         a cranberry muffin
+
+ 12        a cinnamon roll
+
+ 12        a fresh loaf of bread
+
+ 12        a sweet roll
+
+ 12        a soft bun
+
+ 12        a croissant
+
+ 12        a sweet pastry
+
+ 15        an apple pie
+
+ 15        a cherry pie
+
+ 15        a blueberry pie
+
+ 15        a lemon pie
+
+ 15        a mincemeat pie
+
+ 6         a sugar cookie
+
+ 6         a lemon cookie
+
+ 6         a gingerbread cookie
+
+ 30        a birthday cake
+
+ 24        a yummy cupcake
+
+----------------------
+
+* means you need more levels to use it.
+
+! means you are not strong enough to use it.
+
+& means you have studied this spellbook or manual to its max.
+
+Query may also be of use to you, please refer to help query.
+
+<552hp 201ma 294mv>   +9   -6.8   19,171,966   336,493   indoors   Newbatia
+
+buy soft-bun
+
+Shyche tells you 'You are so lucky, enjoy your food.'
+
+You now have a soft bun.
+
+<552hp 201ma 295mv>   +9   -6.8   19,171,966   336,481   indoors   Newbatia
+
+eat bun
+
+You eat a soft bun.**
+
+</div>
+
+<div class="post" data-post-id="35737" data-author="Yasik" data-date="2015-03-12T08:58:00+00:00">
+
+What do I do wrong ?
+
+Newbatia's Supply Shop
+
+Exits: West  
+
+Mikala the supply clerk painfully stocks the shop shelves.
+
+<586hp 181ma 279mv>   +9   -7.0   29,700,091   448,848   indoors   Newbatia
+
+buy 6 ration
+
+Mikala tells you 'I don't carry that many!'
+
+<586hp 181ma 279mv>   +9   -7.0   29,700,091   448,848   indoors   Newbatia
+
+You are hungry.
+
+You are thirsty.
+
+<586hp 182ma 280mv>   +9   -7.0   29,700,091   448,848   indoors   Newbatia
+
+li
+
+You can buy:
+
+ Price     Item
+
+----------------------
+
+ 3000      a hot lava stone [3]..It has a soft glowing aura!
+
+ 1         a small waterskin [2]
+
+ 100       a small cloth sack
+
+ 58000     a mana flux [2]
+
+ 13000     a strange triangular shaped token
+
+ 35        a bundle of straw
+
+ 500       a kender ration
+
+ 400       a turtle statue [2]
+
+ 800       a glowing chunk of metal
+
+ 20        a hooded brass lantern
+
+ 20        a water barrel
+
+ 50        a canteen
+
+ 2         a torch
+
+ 35        a large leather backpack
+
+ 15        a bag
+
+ 10        iron rations
+
+ 20        a jar of pickles
+
+ 1500      a bamboo fishing pole
+
+ 10        a Get-Rich-Quick pamphlet
+
+----------------------
+
+* means you need more levels to use it.
+
+! means you are not strong enough to use it.
+
+& means you have studied this spellbook or manual to its max.
+
+Query may also be of use to you, please refer to help query.
+
+<586hp 182ma 280mv>   +9   -7.0   29,700,091   448,848   indoors   Newbatia
+
+buy 6 ration
+
+Mikala tells you 'I don't carry that many!'
+
+<586hp 182ma 281mv>   +9   -7.0   29,700,091   448,848   indoors   Newbatia
+
+buy 6 iron-ration
+
+Mikala tells you 'Thank you sir! Your total comes to 60.'
+
+You now have 6 of iron rations.
+
+BTW, vendors still running out of money and refure to buy things. I'm not sure if I complained about this before and if their cash amount was raised or no, but anyway, increasing it even more would be nice and less annoyances.
+
+</div>
+
+<div class="post" data-post-id="35738" data-author="*Breeze*" data-date="2015-03-12T09:09:36+00:00">
+
+you are trying to buy 6 kender rations
+
+500 a kender ration
+
+</div>
+
+<div class="post" data-post-id="35741" data-author="*juggleblood*" data-date="2015-03-12T16:22:11+00:00">
+
+> **Yasik wrote:**
+> Mikala tells you 'I'm sorry sir, I am currently out of those.'
+> 
+> 
+> 
+> PS. In her responce, after "sorry" should be a comma, no?
+
+No, those are two independent clauses and thus require a full stop, as in:
+
+I'm sorry sir. I am currently out of those.
+
+or a semicolon, as in:
+
+I'm sorry sir; I am currently out of those.
+
+Unless we except that the mud uses standard rules of email etiquette in which the comma is placed to indicate a short natural pause in speech.
+
+The pedant in me prefers the semicolon, because it is arguably a textbook example of how semicolons can / should be used. However, aesthetically, I much prefer the single comma because it has a subtler profile than a semicolon. The full stop just looks to heavy and halts the flow of the thought. My suggestion would be to keep the comma, but change "I am" to "I'm" to make it more natural and give it a better flow.
+
+ :mrgreen:
+
+</div>
+
+<div class="post" data-post-id="35742" data-author="*Breeze*" data-date="2015-03-12T16:26:30+00:00">
+
+/begin annoy jb :)
+
+knock urself out. iirc u shud b abl 2 chng that urself.
+
+/end annoy jb :)
+
+</div>
+
+<div class="post" data-post-id="35743" data-author="Yasik" data-date="2015-03-12T16:33:05+00:00">
+
+Ideas:  newly sold items appear at the bottom of the list.
+
+Will decrease chance of buying wrong expensive items instead of cheap necessary ones, saving newbs' hard earned coins.
+
+The comma is needed. At current spelling we learn that Mikala is a sorry (pained, grieved, chagrined, disappointed, afflicted, regretful, rueful, remorseful) sir (lord, master, gentleman, mister, governor).
+
+</div>
+
+<div class="post" data-post-id="35744" data-author="*juggleblood*" data-date="2015-03-12T16:38:12+00:00">
+
+> **Yasik wrote:**
+> The comma is needed. At current spelling we learn that Mikala is a sorry (pained, grieved, chagrined, disappointed, afflicted, regretful, rueful, remorseful) sir (lord, master, gentleman, mister, governor).
+
+I'm sorry. I don't see the indefinite article "a" which you refer to. If it existed, you would be correct, but alas...
+
+</div>
+
+<div class="post" data-post-id="35748" data-author="Yasik" data-date="2015-03-13T16:18:21+00:00">
+
+[http://www.grammarbook.com/punctuation/commas.asp](http://www.grammarbook.com/punctuation/commas.asp)
+
+***Rule 5. Use commas to set off the name, nickname, term of endearment, or title of a person directly addressed.
+
+Examples:
+
+Will you, Aisha, do that assignment for me?
+
+Yes, old friend, I will.
+
+Good day, Captain.***
+
+"sir" in that sentence is obviously a title of a person (the player) directly addressed, therefore it should be separated by commas.
+
+Will you, sir, please put the comma where it belongs?
+
+Thank you, sir, very much.
+
+</div>
+
+<div class="post" data-post-id="35751" data-author="*juggleblood*" data-date="2015-03-14T12:06:41+00:00">
+
+Yes those examples are correct. However, in the original example we have two separate independent clauses each with its own subject and its own verb. (Subject 1: I Verb 1: am Subject 2: I Verb 2: am)
+
+Therefore, if you were to connect them with a comma, it would be a comma splice. Meaning you would have to use a semicolon or full stop, if you wanted it to be grammatically correct.
+
+"I'm sorry, sir, I am currently out of those." is a comma splice. <-------grammar fail
+
+"I'm sorry, sir; I am currently out of those."<-----correct, but ugly
+
+"I'm sorry, sir. I am currently out of those."<-----correct, but choppy
+
+"I'm sorry sir, I am currently out of those."<------incorrect, but aesthetically pleasing and acceptable netiquette 
+
+"I'm sorry sir, but I am currently out of those."<----ideal? conjunction ftw
+
+</div>
+
+<div class="post" data-post-id="35755" data-author="Yasik" data-date="2015-03-15T09:57:40+00:00">
+
+Let's cut off "sorry sir" part and leave with "I am currently out of those.", or any re-phrased variance.
+
+</div>

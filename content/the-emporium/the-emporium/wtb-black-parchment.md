@@ -1,0 +1,19 @@
+---
+title: "WTB black parchment :)"
+topic_id: 2962
+author: "Sind"
+date: 2008-10-28T17:11:03+00:00
+last_activity: 2008-10-28T17:11:03+00:00
+last_author: "Sind"
+sticky: false
+locked: false
+post_count: 1
+---
+
+<div class="post" data-post-id="26872" data-author="Sind" data-date="2008-10-28T17:11:03+00:00">
+
+wtb/wtt black parchment, iridescent shroud.
+
+contact me ingame as xev or stream plx :)
+
+</div>

@@ -1,0 +1,25 @@
+---
+title: "WTS: Red-Tassled Leggings"
+topic_id: 241
+author: "Ezekiel"
+date: 2004-07-01T03:13:00+00:00
+last_activity: 2004-07-01T05:29:11+00:00
+last_author: "Alberich"
+sticky: false
+locked: false
+post_count: 2
+---
+
+<div class="post" data-post-id="890" data-author="Ezekiel" data-date="2004-07-01T03:13:00+00:00">
+
+wts: red-tassled leggings 2 mil min
+
+</div>
+
+<div class="post" data-post-id="893" data-author="Alberich" data-date="2004-07-01T05:29:11+00:00">
+
+don't you like the chopping block? :)
+
+2mil
+
+</div>

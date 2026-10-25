@@ -1,0 +1,39 @@
+---
+title: "TMC Reset"
+topic_id: 2881
+author: "Virus"
+date: 2008-08-01T13:05:48+00:00
+last_activity: 2008-08-03T15:43:50+00:00
+last_author: "Yasik2"
+sticky: false
+locked: false
+post_count: 4
+---
+
+<div class="post" data-post-id="25518" data-author="Virus" data-date="2008-08-01T13:05:48+00:00">
+
+TMC Reset....go vote
+
+</div>
+
+<div class="post" data-post-id="25550" data-author="Yasik2" data-date="2008-08-03T12:44:12+00:00">
+
+[img:2m09vuqy]http://yasik.kiev.ua/4chan/Uninterested_Cat.jpg[/img:2m09vuqy]
+
+... in your silly reminders!
+
+I DO vote everyday, mostly, from a few different IPs, so post some tits or gtfo.  :D
+
+</div>
+
+<div class="post" data-post-id="25556" data-author="Virus" data-date="2008-08-03T15:18:26+00:00">
+
+( . ) ( . ) <------ here you go pervert!
+
+</div>
+
+<div class="post" data-post-id="25558" data-author="Yasik2" data-date="2008-08-03T15:43:50+00:00">
+
+BEWBS!!!!!11  :D
+
+</div>

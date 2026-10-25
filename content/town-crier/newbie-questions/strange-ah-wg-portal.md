@@ -1,0 +1,107 @@
+---
+title: "Strange AH WG portal"
+topic_id: 4100
+author: "Yasik"
+date: 2013-07-10T16:34:48+00:00
+last_activity: 2013-07-16T15:29:27+00:00
+last_author: "Tuck"
+sticky: false
+locked: false
+post_count: 6
+---
+
+<div class="post" data-post-id="34346" data-author="Yasik" data-date="2013-07-10T16:34:48+00:00">
+
+**look**
+
+The Wide Gate
+
+   This is the northern gate of Aisholm, a small human settlement in the
+
+frozen continent of Thule.  A set of wide double gates opens in the wall,
+
+and there is a building to the south.  The street is unpaved, its loosely
+
+packed clay as naked as when the humans first arrived to Thule.  The whole
+
+town must turn into a mudhole when the snow melts.  A high walkway runs
+
+the length of the stockade.
+
+Exits: North  East  West  
+
+A stalk of celery grows in a patch of well-kept soil. [2]
+
+A bright orange carrot top can just barely be seen growing in some soil.
+
+A magical spring gurgles out fresh water. [2]
+
+A tomato vine grows out of a patch of soil, bearing a single ripe tomato.
+
+A soiled sheet from some notebook shifts here in the wind.
+
+A hastily wrapped brown parcel lies here on the floor.
+
+**AN OPEN PORTAL IS HERE!**
+
+Fallen Looking for 1x Chrysoprase is sleeping here.
+
+A frost giantess is guarding the gate.
+
+A frost giant is guarding the gate.
+
+<209hp 197ma 62mv>  [+0]  AC: 4.5  EXP: 1717582  COINS: 76082  [raining]  [Aisholm Town]
+
+**enter portal**
+
+**There are no visible portals here.**
+
+<210hp 200ma 63mv>  [+0]  AC: 4.5  EXP: 1717582  COINS: 76082  [raining]  [Aisholm Town]
+
+**look portal**
+
+**There's no portal to look through here!**
+
+=====
+
+**How's that possible?**
+
+</div>
+
+<div class="post" data-post-id="34348" data-author="Tuck" data-date="2013-07-12T00:08:40+00:00">
+
+Confirmed.
+
+Cursed and invised ;-)
+
+</div>
+
+<div class="post" data-post-id="34349" data-author="Yasik" data-date="2013-07-12T08:46:08+00:00">
+
+I had Detect Invisibility on.
+
+</div>
+
+<div class="post" data-post-id="34353" data-author="Tuck" data-date="2013-07-15T01:55:07+00:00">
+
+silly yasik,
+
+i invised it.
+
+and cursed.
+
+dork
+
+</div>
+
+<div class="post" data-post-id="34355" data-author="Yasik" data-date="2013-07-15T05:33:35+00:00">
+
+That was not the question. The question is why it is even there, who opened it and why I cannot look through it or enter it, and why it persists so long - few days already.
+
+</div>
+
+<div class="post" data-post-id="34357" data-author="Tuck" data-date="2013-07-16T15:29:27+00:00">
+
+it's magic :P
+
+</div>

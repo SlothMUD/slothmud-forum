@@ -1,0 +1,119 @@
+---
+title: "MXP and ZMUD"
+topic_id: 1853
+author: "Nascosto"
+date: 2006-04-16T22:41:02+00:00
+last_activity: 2008-12-16T22:56:42+00:00
+last_author: "*Splork*"
+sticky: false
+locked: false
+post_count: 7
+---
+
+<div class="post" data-post-id="12119" data-author="Nascosto" data-date="2006-04-16T22:41:02+00:00">
+
+finally took a look at MXP, seems kind of interesting. Anyway, took me a while to figure out how to use it in ZMUD so I thought I'd share
+
+for ZMUD 7.21 since that's all I have -
+
+to see what elements/entities sloth is defining you can go to VIEW -> Preferences -> General and scroll down to the MXP section.
+
+to access the value of an entity such as gold, or currentalign you use:
+
+%mud.gold or %mud.currentalign for example
+
+to trigger off of elements such as rdesc (room description):
+
+#mxptrig {rdesc} {#var room_descrip %0} to set the variable room_descrip to its tagged value.
+
+I'm assuming the mxp tags also help for more accurate config of the automapper, which otherwise might take some tweaking to get working (although haven't tested this)
+
+</div>
+
+<div class="post" data-post-id="12120" data-author="Nascosto" data-date="2006-04-17T03:52:11+00:00">
+
+also, thanks to the imms for putting this in. always fun to have new toys to play with.
+
+and speaking of the automapper, one thing i prefer is to use diagonals directions for up and down instead of the mappers height levels - to use this takes a little work, if anyone wants to know how to set zmud to use diagonals for up|down let me know and i'll write it up
+
+</div>
+
+<div class="post" data-post-id="12121" data-author="Clink" data-date="2006-04-17T11:58:11+00:00">
+
+I'd be interested in the diagonals.  That's one of the few reason I don't use the automapper.  The other one was that it often repeated rooms, but that may happen less often now, especially with the mxp variables.
+
+</div>
+
+<div class="post" data-post-id="12132" data-author="Nascosto" data-date="2006-04-18T03:51:11+00:00">
+
+yeah, the automapper can be a little strange although mostly i've learnt to work around or live with most of its oddness.
+
+2 ways to do this.
+
+1) I email a file with it already configured
+
+2) there may be a better way, but this is what I did -
+
+zmud stores buttons, alias, triggers in files with .mud extension.
+
+generally there are 3 files loaded: Zmud/default.mud, Zmud/global.mud, and then your primary mud file, probably Zmud/SlothmudIII/SlothmudIII.mud 
+
+the default values for how directions work are stored in default.mud
+
+you're supposed to be able to override them, but in my experience the automapper reads both values, the overridden value and the new value and creates 2 exits for any up or down exit
+
+a) first, make a backup copy of default.mud (say default.bak)
+
+b) start ZMUD. click the new button.
+
+c) for host type: NULL. click the save button
+
+d) double click on your new mud NULL button
+
+e) it'll fail to find the host and show a warning. click cancel so that you're at the non connected NULL window.
+
+f) go to EDIT, SETTINGS so it brings up the edit settings window
+
+g) in the edit settings window, go to view and make sure that view hidden and view inherited are turned on
+
+h) if you view all there should be a blue folder called system, go inside that
+
+i) inside that there are 2 folders of interest, directions, and directions diag
+
+j) go into directionsdiag. delete all the directions in there that are black. leave the blue ones alone, they'll be overwritten soon enough.
+
+k) go back and into the directions folder. 
+
+click on the black 'u' entry and change it's map property to Northwest
+
+click on the black 'd' entry and change it's map property to Southeast
+
+l) err, quit zmud
+
+m) copy zmud/null/null.mud to zmud/default.mud
+
+yeah, hopefully that was somewhat coherent.
+
+</div>
+
+<div class="post" data-post-id="12134" data-author="Nascosto" data-date="2006-04-18T04:09:14+00:00">
+
+left out some steps,
+
+once you create the NULL mud and open it once (step e), quit ZMUD and copy the default.mud over NULL.mud, then go back to step e and continue
+
+</div>
+
+<div class="post" data-post-id="27479" data-author="Ordin" data-date="2008-12-16T18:45:43+00:00">
+
+#mxptrig {rdesc} {#var room_descrip %0} to set the variable room_descrip to its tagged value. 
+
+can this be manipulated for other games or does the game have to have mxp?
+
+</div>
+
+<div class="post" data-post-id="27484" data-author="*Splork*" data-date="2008-12-16T22:56:42+00:00">
+
+The game has to have mxp...
+
+</div>
