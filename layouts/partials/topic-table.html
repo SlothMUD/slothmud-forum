@@ -19,7 +19,7 @@
       {{ range . }}
       <tr>
         <td><a class="forum-name" href="{{ .RelPermalink }}">{{ .Title }}</a></td>
-        <td class="num">{{ default 0 .Params.post_count }}</td>
+        <td class="num" data-label="Posts">{{ default 0 .Params.post_count }}</td>
         <td>
           {{- with .Params.last_activity }}{{ . | time.Format "Jan 2, 2006" }}{{ else }}—{{ end }}
           {{- with .Params.last_author }}<div class="forum-meta">by {{ . }}</div>{{ end }}

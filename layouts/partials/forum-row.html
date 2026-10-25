@@ -7,8 +7,8 @@
     <a class="forum-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
     {{ with .Content }}<div class="forum-desc">{{ . | plainify | truncate 120 }}</div>{{ end }}
   </td>
-  <td class="num">{{ len $topics }}</td>
-  <td class="num">{{ $posts }}</td>
+  <td class="num" data-label="Topics">{{ len $topics }}</td>
+  <td class="num" data-label="Posts">{{ $posts }}</td>
   <td>
     {{- with $topics }}
       {{- $latest := index (.ByParam "last_activity").Reverse 0 -}}

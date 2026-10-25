@@ -1,5 +1,6 @@
-/* Forum index tables (layouts/index.html). Uses Blowfish's colour variables
-   so it follows the active colour scheme and light/dark mode. */
+/* Forum index tables (layouts/index.html, layouts/_default/forum.html).
+   Uses Blowfish's colour variables so it follows the active colour scheme
+   and light/dark mode. */
 
 .forum-table {
   --ft-border:   rgb(var(--color-neutral-300, 212 212 212));
@@ -8,11 +9,13 @@
   --ft-cols-bg:  rgb(var(--color-neutral-100, 245 245 245));
   --ft-row-line: rgb(var(--color-neutral-200, 229 229 229));
   --ft-link:     rgb(var(--color-primary-700, 29 78 216));
+  --ft-body-bg:  rgb(var(--color-neutral, 255 255 255));     /* solid, so a canvas/background image doesn't show through */
 
   width: 100%;                 /* same width as the content area */
   margin: 0 0 1.5rem;
   border: 1px solid var(--ft-border);
   border-radius: 0.75rem;
+  background: var(--ft-body-bg);
   overflow-x: auto;            /* also clips the corners to the radius */
 }
 
@@ -23,6 +26,7 @@ html.dark .forum-table {
   --ft-cols-bg:  rgb(var(--color-neutral-700, 64 64 64));
   --ft-row-line: rgb(var(--color-neutral-700, 64 64 64));
   --ft-link:     rgb(var(--color-primary-400, 96 165 250));
+  --ft-body-bg:  rgb(var(--color-neutral-800, 38 38 38));
 }
 
 .forum-table table {
@@ -80,71 +84,47 @@ html.dark .forum-table {
   opacity: 0.75;
 }
 
-/* Individual phpBB posts/replies inside each exported topic. */
-.prose .post {
-  --post-border: rgb(var(--color-neutral-300, 212 212 212));
-  --post-bg-a: rgb(var(--color-neutral-50, 250 250 250));
-  --post-bg-b: rgb(var(--color-neutral-100, 245 245 245));
-  --post-meta: rgb(var(--color-neutral-500, 115 115 115));
+/* Narrow screens: drop the table grid and stack each row as a card */
+@media (max-width: 40rem) {
+  .forum-table { overflow: hidden; }   /* cards don't scroll; clip to the rounded corners */
 
-  display: flow-root;
-  margin: 1rem 0;
-  padding: 0.9rem 1.1rem;
-  border: 1px solid var(--post-border);
-  border-radius: 0.75rem;
-  background: var(--post-bg-a);
-  overflow-wrap: anywhere;
-  white-space: pre-wrap;
-}
+  .forum-table table,
+  .forum-table thead,
+  .forum-table tbody {
+    display: block;
+    min-width: 0;
+  }
 
-/* Alternate light and dark backgrounds. */
-.prose .post:nth-of-type(even) {
-  background: var(--post-bg-b);
-}
+  .forum-table colgroup,
+  .forum-table .forum-cols { display: none; }   /* labels move inline */
 
-/* Posts with a subject: subject, then author and timestamp. */
-.prose .post[data-subject]:not([data-subject=""])::before {
-  content: attr(data-subject) "\A" attr(data-author) " · " attr(data-date);
-  display: block;
-  white-space: pre-line;
-  margin: 0 0 0.75rem;
-  padding: 0 0 0.65rem;
-  border-bottom: 1px solid var(--post-border);
-  font-size: 0.9rem;
-  font-weight: 600;
-  line-height: 1.5;
-  width: 100%;
-  max-width: none;
-  box-sizing: border-box;  
-}
+  .forum-table .forum-cat,
+  .forum-table .forum-cat th { display: block; }
 
-/* Replies without a subject: author and timestamp only. */
-.prose .post[data-subject=""]::before,
-.prose .post:not([data-subject])::before {
-  content: attr(data-author) " · " attr(data-date);
-  display: block;
-  margin: 0 0 0.75rem;
-  padding: 0 0 0.65rem;
-  border-bottom: 1px solid var(--post-border);
-  color: var(--post-meta);
-  font-size: 0.85rem;
-  font-weight: 600;
-  line-height: 1.5;
-}
+  .forum-table tbody tr {
+    display: grid;
+    grid-template-columns: max-content max-content 1fr;
+    column-gap: 1.25rem;
+    row-gap: 0.25rem;
+    padding: 0.6rem 0.9rem;
+  }
+  .forum-table tbody tr + tr { border-top: 1px solid var(--ft-row-line); }
 
-/* Blowfish dark mode. */
-html.dark .prose .post {
-  --post-border: rgb(var(--color-neutral-600, 82 82 82));
-  --post-bg-a: rgb(var(--color-neutral-800, 38 38 38));
-  --post-bg-b: rgb(var(--color-neutral-700, 64 64 64));
-  --post-meta: rgb(var(--color-neutral-400, 163 163 163));
-}
+  .forum-table tbody td,
+  .forum-table tbody tr + tr td {
+    padding: 0;
+    border: 0;
+    min-width: 0;
+  }
 
-/* Avoid extra paragraph spacing at the top and bottom. */
-.prose .post p:first-child {
-  margin-top: 0;
-}
+  /* name and last-activity take the full width; counts sit side by side */
+  .forum-table tbody td:first-child,
+  .forum-table tbody td:last-child { grid-column: 1 / -1; }
 
-.prose .post p:last-child {
-  margin-bottom: 0;
+  .forum-table .num {
+    text-align: left;
+    font-size: 0.85rem;
+    opacity: 0.75;
+  }
+  .forum-table .num::before { content: attr(data-label) ": "; }
 }
