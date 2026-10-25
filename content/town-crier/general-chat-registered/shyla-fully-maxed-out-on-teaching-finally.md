@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="28705" data-author="Shyla" data-date="2009-04-11T00:39:49+00:00">
+<div class="post" data-post-id="28705" data-author="Shyla" data-date="2009-04-11T00:39:49+00:00" data-subject="shyla fully maxed out on teaching finally :)">
 
 Mage Abilities:
 
@@ -588,7 +588,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="28707" data-author="madmax" data-date="2009-04-11T01:31:47+00:00">
+<div class="post" data-post-id="28707" data-author="madmax" data-date="2009-04-11T01:31:47+00:00" data-subject="">
 
 CONGRATZ to Shyla - What an accomplishment!
 

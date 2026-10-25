@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29295" data-author="sirrico1" data-date="2009-05-26T11:28:49+00:00">
+<div class="post" data-post-id="29295" data-author="sirrico1" data-date="2009-05-26T11:28:49+00:00" data-subject="Tiger claw or Eagle claw">
 
 just a thought of maybe making a skill for monks something like Deathblow of the warrior but for monk prime a weaponless atk to gut mobs.
 

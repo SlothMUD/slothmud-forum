@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="6023" data-author="guest" data-date="2005-05-07T00:54:58+00:00">
+<div class="post" data-post-id="6023" data-author="guest" data-date="2005-05-07T00:54:58+00:00" data-subject="Bard songs behaviour">
 
 Hi all ..
 

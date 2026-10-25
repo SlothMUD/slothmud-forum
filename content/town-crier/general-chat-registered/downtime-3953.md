@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33700" data-author="*Splork*" data-date="2012-10-31T23:29:28+00:00">
+<div class="post" data-post-id="33700" data-author="*Splork*" data-date="2012-10-31T23:29:28+00:00" data-subject="Downtime">
 
 Halloween has struck and I am working on the issue.
 

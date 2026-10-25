@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="11074" data-author="jezer" data-date="2006-03-06T13:44:44+00:00">
+<div class="post" data-post-id="11074" data-author="jezer" data-date="2006-03-06T13:44:44+00:00" data-subject="WTB/WTT Monk Eq">
 
 WANTED TO BUY:
 
@@ -32,7 +32,7 @@ Black Orcskin Boots
 
 </div>
 
-<div class="post" data-post-id="11194" data-author="jezer" data-date="2006-03-13T09:42:26+00:00">
+<div class="post" data-post-id="11194" data-author="jezer" data-date="2006-03-13T09:42:26+00:00" data-subject="">
 
 I also want to trade a long grey cloak for a patched black cloak.
 

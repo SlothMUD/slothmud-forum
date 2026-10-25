@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="29650" data-author="Vixn" data-date="2009-07-03T21:05:29+00:00">
+<div class="post" data-post-id="29650" data-author="Vixn" data-date="2009-07-03T21:05:29+00:00" data-subject="raise dead exp bug">
 
 cast 'raise dead' gilt
 
@@ -38,7 +38,7 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="29651" data-author="Medios" data-date="2009-07-03T23:05:35+00:00">
+<div class="post" data-post-id="29651" data-author="Medios" data-date="2009-07-03T23:05:35+00:00" data-subject="Re: raise dead exp bug">
 
 cast 'raise dead' gilt
 
@@ -76,13 +76,13 @@ Where in the hell do you get -600?
 
 </div>
 
-<div class="post" data-post-id="29652" data-author="Leaf" data-date="2009-07-03T23:49:36+00:00">
+<div class="post" data-post-id="29652" data-author="Leaf" data-date="2009-07-03T23:49:36+00:00" data-subject="">
 
 Come on Mikey, u play long enough ur brain turns to mush
 
 </div>
 
-<div class="post" data-post-id="29653" data-author="Vixn" data-date="2009-07-04T06:24:18+00:00">
+<div class="post" data-post-id="29653" data-author="Vixn" data-date="2009-07-04T06:24:18+00:00" data-subject="Re: raise dead exp bug">
 
 22697304
 
@@ -102,7 +102,7 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="29657" data-author="Yasik2" data-date="2009-07-04T08:50:00+00:00">
+<div class="post" data-post-id="29657" data-author="Yasik2" data-date="2009-07-04T08:50:00+00:00" data-subject="Re: raise dead exp bug">
 
 22697304
 

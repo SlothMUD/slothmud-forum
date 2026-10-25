@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31599" data-author="*Isabo*" data-date="2010-08-26T01:04:02+00:00">
+<div class="post" data-post-id="31599" data-author="*Isabo*" data-date="2010-08-26T01:04:02+00:00" data-subject="MXP variables">
 
 Good day, mortals.
 
@@ -36,7 +36,7 @@ Pd. If you are using a client that is not MXP capable, you should try one.  Wint
 
 </div>
 
-<div class="post" data-post-id="31620" data-author="*Isabo*" data-date="2010-08-26T15:42:22+00:00">
+<div class="post" data-post-id="31620" data-author="*Isabo*" data-date="2010-08-26T15:42:22+00:00" data-subject="Re: MXP variables">
 
 Good day, mortals.
 
@@ -52,7 +52,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="31623" data-author="*Isabo*" data-date="2010-08-27T01:25:45+00:00">
+<div class="post" data-post-id="31623" data-author="*Isabo*" data-date="2010-08-27T01:25:45+00:00" data-subject="Re: MXP variables">
 
 Good day, mortals.
 

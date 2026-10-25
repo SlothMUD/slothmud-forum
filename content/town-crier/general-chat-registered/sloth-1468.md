@@ -10,13 +10,13 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="8859" data-author="Corwin" data-date="2005-09-29T16:25:47+00:00">
+<div class="post" data-post-id="8859" data-author="Corwin" data-date="2005-09-29T16:25:47+00:00" data-subject="Sloth">
 
 I think the mud is hungup or something...felt like a crash, then i hungup and when i try to connect i connect but never get login...
 
 </div>
 
-<div class="post" data-post-id="8860" data-author="13" data-date="2005-09-29T16:28:26+00:00">
+<div class="post" data-post-id="8860" data-author="13" data-date="2005-09-29T16:28:26+00:00" data-subject="">
 
 ok i need to do housework anyway
 
@@ -74,7 +74,7 @@ web
 
 </div>
 
-<div class="post" data-post-id="8861" data-author="markg" data-date="2005-09-29T16:28:42+00:00">
+<div class="post" data-post-id="8861" data-author="markg" data-date="2005-09-29T16:28:42+00:00" data-subject="">
 
 ditto :(
 

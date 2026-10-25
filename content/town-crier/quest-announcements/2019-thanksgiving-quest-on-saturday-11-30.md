@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39316" data-author="*Idjit*" data-date="2019-11-23T03:16:49+00:00">
+<div class="post" data-post-id="39316" data-author="*Idjit*" data-date="2019-11-23T03:16:49+00:00" data-subject="2019 Thanksgiving Quest on Saturday 11/30">
 
 Good day to you all,
 

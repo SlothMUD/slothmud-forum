@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31727" data-author="Kismet" data-date="2010-09-07T06:18:27+00:00">
+<div class="post" data-post-id="31727" data-author="Kismet" data-date="2010-09-07T06:18:27+00:00" data-subject="Warrior Help/Question">
 
 Hello,
 
@@ -32,7 +32,7 @@ Hello,
 
 </div>
 
-<div class="post" data-post-id="31737" data-author="mahkra" data-date="2010-09-08T00:58:36+00:00">
+<div class="post" data-post-id="31737" data-author="mahkra" data-date="2010-09-08T00:58:36+00:00" data-subject="Re: Warrior Help/Question">
 
 You will be fine.  Not Uber but fine. It's more important to enjoy your classo than be uber.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="21505" data-author="Assirian" data-date="2007-12-01T12:13:19+00:00">
+<div class="post" data-post-id="21505" data-author="Assirian" data-date="2007-12-01T12:13:19+00:00" data-subject="20 Av. lvl supplicants">
 
 Anyone noticed any use of deva/asura?
 
@@ -20,7 +20,7 @@ Or my brains are too weak? :)
 
 </div>
 
-<div class="post" data-post-id="21511" data-author="Vixn" data-date="2007-12-01T20:18:14+00:00">
+<div class="post" data-post-id="21511" data-author="Vixn" data-date="2007-12-01T20:18:14+00:00" data-subject="">
 
 they have pretty nice descriptions. what else do you want?
 
@@ -28,13 +28,13 @@ they have pretty nice descriptions. what else do you want?
 
 </div>
 
-<div class="post" data-post-id="21514" data-author="brady" data-date="2007-12-02T05:09:53+00:00">
+<div class="post" data-post-id="21514" data-author="brady" data-date="2007-12-02T05:09:53+00:00" data-subject="">
 
 Deva kisses male opponenents.  I've been meaning to check the effect in the arena but i never got around to it.
 
 </div>
 
-<div class="post" data-post-id="21517" data-author="Vixn" data-date="2007-12-02T08:16:41+00:00">
+<div class="post" data-post-id="21517" data-author="Vixn" data-date="2007-12-02T08:16:41+00:00" data-subject="">
 
 hm, succubus/incubus kiss opponents too.
 
@@ -46,7 +46,7 @@ but be careful - don't summon behemoth for that!
 
 </div>
 
-<div class="post" data-post-id="21518" data-author="Assirian" data-date="2007-12-02T12:02:04+00:00">
+<div class="post" data-post-id="21518" data-author="Assirian" data-date="2007-12-02T12:02:04+00:00" data-subject="">
 
 thanks for response, Brady, Vixn
 
@@ -56,7 +56,7 @@ and, unfortunetly, can't summon behemoth yet 8)
 
 </div>
 
-<div class="post" data-post-id="21519" data-author="Vixn" data-date="2007-12-02T14:14:50+00:00">
+<div class="post" data-post-id="21519" data-author="Vixn" data-date="2007-12-02T14:14:50+00:00" data-subject="">
 
 np, pirates always glad to help
 
@@ -64,7 +64,7 @@ np, pirates always glad to help
 
 </div>
 
-<div class="post" data-post-id="21520" data-author="Blastem" data-date="2007-12-02T15:05:08+00:00">
+<div class="post" data-post-id="21520" data-author="Blastem" data-date="2007-12-02T15:05:08+00:00" data-subject="">
 
 [quote:b1fofh8s]Deva kisses male opponenents. I've been meaning to check the effect in the arena but i never got around to it.[/quote:b1fofh8s]
 

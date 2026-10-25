@@ -10,13 +10,13 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="36345" data-author="*teker*" data-date="2015-12-22T18:03:37+00:00">
+<div class="post" data-post-id="36345" data-author="*teker*" data-date="2015-12-22T18:03:37+00:00" data-subject="How do _you_ carry multiple sets of equipment?">
 
 I'm about 90% of the way through some new code that will make it easier to switch between different sets of equipment.  The last part I need to figure out is what to do with items that are removed as a result of wearing new gear.  So for players that carry around multiple sets of equipment:  How do you manage them as far as containers go?  I tend to just shove everything into my cloak all together.  Do you guys do the same?  Or do you put different outfits in different containers?  Like I said, I've got an easy way to wear new gear - the question is what to do with the old equipment that comes off as a result.
 
 </div>
 
-<div class="post" data-post-id="36346" data-author="Sam" data-date="2015-12-22T18:24:28+00:00">
+<div class="post" data-post-id="36346" data-author="Sam" data-date="2015-12-22T18:24:28+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
 HI, personally I use different containers,
 
@@ -24,7 +24,7 @@ a separate container for each set for permament storage and one container for te
 
 </div>
 
-<div class="post" data-post-id="36347" data-author="Filk" data-date="2015-12-22T18:37:00+00:00">
+<div class="post" data-post-id="36347" data-author="Filk" data-date="2015-12-22T18:37:00+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
 Just keeping everything in one main robe. Just to avoid problems when item exists in multiple eq sets at same time.
 
@@ -54,7 +54,7 @@ Maybe that command even should ignore, that robe is weared on you atm and still 
 
 </div>
 
-<div class="post" data-post-id="36348" data-author="alris" data-date="2015-12-22T18:45:07+00:00">
+<div class="post" data-post-id="36348" data-author="alris" data-date="2015-12-22T18:45:07+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
 Concerning eq sets, separate robe for each set, robe keyword essential. Each robe contains its own set, all the robes with equip are inside the robe i am currently wearing. Nothing else, only robes in current robe.
 
@@ -64,7 +64,7 @@ By the way, will this new feature properly switch clasps? largely missing detach
 
 </div>
 
-<div class="post" data-post-id="36349" data-author="*teker*" data-date="2015-12-22T19:27:30+00:00">
+<div class="post" data-post-id="36349" data-author="*teker*" data-date="2015-12-22T19:27:30+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
 > **Quote:**
 > And other ppl should just see single message about you switching some eq...
@@ -80,7 +80,7 @@ Does anyone use multiple containers of the same type to store different sets?  F
 
 </div>
 
-<div class="post" data-post-id="36350" data-author="Dragoth" data-date="2015-12-22T19:30:59+00:00">
+<div class="post" data-post-id="36350" data-author="Dragoth" data-date="2015-12-22T19:30:59+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
 I use a mix- 
 
@@ -92,7 +92,7 @@ I use a mix-
 
 </div>
 
-<div class="post" data-post-id="36351" data-author="alris" data-date="2015-12-22T20:16:45+00:00">
+<div class="post" data-post-id="36351" data-author="alris" data-date="2015-12-22T20:16:45+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
 > ***teker* wrote:**
 > I hadn't thought about swapping clasps or removable runes.
@@ -105,7 +105,7 @@ Also, for changing clasps - for me thats slowest part of changing sets, as doing
 
 </div>
 
-<div class="post" data-post-id="36352" data-author="*teker*" data-date="2015-12-22T22:05:10+00:00">
+<div class="post" data-post-id="36352" data-author="*teker*" data-date="2015-12-22T22:05:10+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
 > **Quote:**
 > Thats probably a mistype, but we don't swap runes on changing eq sets, right?
@@ -114,7 +114,7 @@ I had heard that some equipment (maybe the 3x40 gear?) allowed you to remove run
 
 </div>
 
-<div class="post" data-post-id="36353" data-author="cyprimus" data-date="2015-12-22T22:45:11+00:00">
+<div class="post" data-post-id="36353" data-author="cyprimus" data-date="2015-12-22T22:45:11+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
 I do not keep a lot of eq sets, just one or two for each alt.. and yeah, separate contianers with unique names.
 
@@ -130,7 +130,7 @@ Thanks! great changes!
 
 </div>
 
-<div class="post" data-post-id="36354" data-author="Yasik" data-date="2015-12-23T04:26:43+00:00">
+<div class="post" data-post-id="36354" data-author="Yasik" data-date="2015-12-23T04:26:43+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
 I carry 4 modes (AC, mana regen, +dam, rent) in one robe, which is AC-<worn_about> at the same time.
 
@@ -151,7 +151,7 @@ For 4 modes, only six scripts needed; for 5 modes, it will be ten.
 
 </div>
 
-<div class="post" data-post-id="36355" data-author="Teron" data-date="2015-12-23T09:09:13+00:00">
+<div class="post" data-post-id="36355" data-author="Teron" data-date="2015-12-23T09:09:13+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
 I use the following containers:
 

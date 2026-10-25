@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="24887" data-author="angel" data-date="2008-06-11T15:56:54+00:00">
+<div class="post" data-post-id="24887" data-author="angel" data-date="2008-06-11T15:56:54+00:00" data-subject="Mystica">
 
 Object 'girdle demon', Item type: ARMOR
 
@@ -106,25 +106,25 @@ this item.
 
 </div>
 
-<div class="post" data-post-id="24892" data-author="Weasel" data-date="2008-06-11T16:31:57+00:00">
+<div class="post" data-post-id="24892" data-author="Weasel" data-date="2008-06-11T16:31:57+00:00" data-subject="">
 
 Awesome thanks for posting. I like that demon mage charm - hard pop?
 
 </div>
 
-<div class="post" data-post-id="24894" data-author="angel" data-date="2008-06-11T17:16:55+00:00">
+<div class="post" data-post-id="24894" data-author="angel" data-date="2008-06-11T17:16:55+00:00" data-subject="">
 
 thats the result of forging 4 forges :) good luck :)
 
 </div>
 
-<div class="post" data-post-id="25048" data-author="angel" data-date="2008-06-16T18:57:35+00:00">
+<div class="post" data-post-id="25048" data-author="angel" data-date="2008-06-16T18:57:35+00:00" data-subject="">
 
 :)
 
 </div>
 
-<div class="post" data-post-id="26047" data-author="Lis" data-date="2008-08-31T20:04:41+00:00">
+<div class="post" data-post-id="26047" data-author="Lis" data-date="2008-08-31T20:04:41+00:00" data-subject="">
 
 Posting cps list on demand. 4 forge items (trade) can be traded for clasp
 
@@ -216,7 +216,7 @@ crystal falcon (monk elder)
 
 </div>
 
-<div class="post" data-post-id="26190" data-author="angel" data-date="2008-09-08T09:06:15+00:00">
+<div class="post" data-post-id="26190" data-author="angel" data-date="2008-09-08T09:06:15+00:00" data-subject="">
 
 Captain Tahgrin gives Lis a small little item.
 
@@ -224,7 +224,7 @@ gratz lis.
 
 </div>
 
-<div class="post" data-post-id="27782" data-author="jezer" data-date="2009-01-20T13:00:48+00:00">
+<div class="post" data-post-id="27782" data-author="jezer" data-date="2009-01-20T13:00:48+00:00" data-subject="">
 
 Something doesn't seem the same about mystica... I haven't popped a single dagger in about 40 kills... not even a bats. Rats you kill at a repop point don't seem to repop at the same place, rats are getting caught up the top, and glumg seems bigger. Just me?
 
@@ -234,7 +234,7 @@ What dagger do you think pops where, has it changed, or is it random?
 
 </div>
 
-<div class="post" data-post-id="27850" data-author="jezer" data-date="2009-01-24T07:36:43+00:00">
+<div class="post" data-post-id="27850" data-author="jezer" data-date="2009-01-24T07:36:43+00:00" data-subject="">
 
 Staff of the Demon Mage..It has a soft glowing aura!
 
@@ -388,7 +388,7 @@ Thanks to Sa, Lis and Stryx who did all the pioneering work, and Tox for making 
 
 </div>
 
-<div class="post" data-post-id="38470" data-author="Gorka" data-date="2017-11-09T15:08:12+00:00">
+<div class="post" data-post-id="38470" data-author="Gorka" data-date="2017-11-09T15:08:12+00:00" data-subject="Re: Mystica">
 
 I'm a bit disappointed to see that Mystica has been changed from Sloth 3 to have no less that 15 baboons, 6 trolls and 4 apes keen to gang bang anyone in scan range of there room. I mean this change was akin to putting a sign at the entrance saying "don't come here anymore except in large groups." I think that's exactly whats happened. Although it's possible to kill in Mystica solo if your God's wrath to sloth kind (aka Suna) or some other player with a clever bag of tricks... at the very least it no longer represents how it was originally designed by Toxis to have something for everyone. I enjoy the technical side of the area, ferreting, stealthing, dark cloaking around, magestyling cowardly underneath a banshee... but the area no longer offers anything once the clasp is forged... it's just like... thank god that's over... back to shadow keep... what a shame.
 

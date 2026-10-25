@@ -10,7 +10,7 @@ locked: false
 post_count: 50
 ---
 
-<div class="post" data-post-id="17473" data-author="Marchessa_red_witch" data-date="2007-03-26T00:57:02+00:00">
+<div class="post" data-post-id="17473" data-author="Marchessa_red_witch" data-date="2007-03-26T00:57:02+00:00" data-subject="Another bug">
 
 Pannalal has had enough: he attacks you!
 
@@ -64,13 +64,13 @@ Expected behavior - if mob "attacks" and bounces backstab, then other noncombat 
 
 </div>
 
-<div class="post" data-post-id="17474" data-author="Rynquald" data-date="2007-03-26T02:08:15+00:00">
+<div class="post" data-post-id="17474" data-author="Rynquald" data-date="2007-03-26T02:08:15+00:00" data-subject="">
 
 That prompt is scary...
 
 </div>
 
-<div class="post" data-post-id="17475" data-author="Atwell" data-date="2007-03-26T02:18:13+00:00">
+<div class="post" data-post-id="17475" data-author="Atwell" data-date="2007-03-26T02:18:13+00:00" data-subject="Re: Another bug">
 
 This isn't actually a bug.
 
@@ -94,7 +94,7 @@ you are not yet fighting him.  After the first round, you will be fighting him a
 
 </div>
 
-<div class="post" data-post-id="17476" data-author="Medios" data-date="2007-03-26T03:23:57+00:00">
+<div class="post" data-post-id="17476" data-author="Medios" data-date="2007-03-26T03:23:57+00:00" data-subject="">
 
 The same thing occurs if you try to dispel.  Sometimes the mob will attack you but it pauses for a few seconds before the first round.  You cannot stab or disengage, only flee.  The mob does not hate because you haven't hit it yet.  I believe one of the monk skills will still work, possibly death touch.
 
@@ -102,7 +102,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17478" data-author="Marchessa_red_witch" data-date="2007-03-26T10:59:27+00:00">
+<div class="post" data-post-id="17478" data-author="Marchessa_red_witch" data-date="2007-03-26T10:59:27+00:00" data-subject="Re: Another bug">
 
 This isn't actually a bug.  The game is working as designed here.[/quote:2am1n9vd]
 
@@ -110,7 +110,7 @@ I will wait for a immort to say that before writing script that exploit the beha
 
 </div>
 
-<div class="post" data-post-id="17479" data-author="Marchessa_red_witch" data-date="2007-03-26T11:23:36+00:00">
+<div class="post" data-post-id="17479" data-author="Marchessa_red_witch" data-date="2007-03-26T11:23:36+00:00" data-subject="All the information I need">
 
 That prompt is scary...[/quote:5byikbqc]
 
@@ -118,7 +118,7 @@ in one place.
 
 </div>
 
-<div class="post" data-post-id="17481" data-author="Shazuko" data-date="2007-03-26T15:46:34+00:00">
+<div class="post" data-post-id="17481" data-author="Shazuko" data-date="2007-03-26T15:46:34+00:00" data-subject="">
 
 I was recently cycling crimson appie, and after my dispel, i was always able to get a curse in...didn't try to grip though, but it seems theres a few seconds there to do something if your quick...never got that 'you are already in combat' mssg until he was actually on me...*shrug*
 
@@ -130,7 +130,7 @@ I was recently cycling crimson appie, and after my dispel, i was always able to 
 
 </div>
 
-<div class="post" data-post-id="17485" data-author="alias" data-date="2007-03-26T18:55:22+00:00">
+<div class="post" data-post-id="17485" data-author="alias" data-date="2007-03-26T18:55:22+00:00" data-subject="">
 
 You cant backstab a wounded mob, most people would have actually hit the mob in the first round and made it wounded so as not to be able to backstab,
 
@@ -142,7 +142,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="17486" data-author="Marchessa_red_witch" data-date="2007-03-26T19:20:55+00:00">
+<div class="post" data-post-id="17486" data-author="Marchessa_red_witch" data-date="2007-03-26T19:20:55+00:00" data-subject="">
 
 You cant backstab a wounded mob, most people would have actually hit the mob in the first round and made it wounded so as not to be able to backstab,
 
@@ -152,7 +152,7 @@ Read the excerpt again, there was no backstab, let alone a whiff.
 
 </div>
 
-<div class="post" data-post-id="17487" data-author="Autolycos" data-date="2007-03-26T19:55:36+00:00">
+<div class="post" data-post-id="17487" data-author="Autolycos" data-date="2007-03-26T19:55:36+00:00" data-subject="">
 
 Marchessa, damn no wonder u miss a lot of the game that prompt is almost as long as the list of brads alts.[/color:vw7l7k7r]Alias[/quote:vw7l7k7r]
 
@@ -162,7 +162,7 @@ but seriously.. that prompt is friggen whacked   :x
 
 </div>
 
-<div class="post" data-post-id="17489" data-author="Marchessa_red_witch" data-date="2007-03-26T20:10:37+00:00">
+<div class="post" data-post-id="17489" data-author="Marchessa_red_witch" data-date="2007-03-26T20:10:37+00:00" data-subject="prompt score bug">
 
 1-> $h/$H/$Bhp $m/$M/$Rma $v/$V/$bmv $I/$D $n2-> $aac  $xxp $ggp $Aalign $Q $w $c.$Z
 
@@ -172,19 +172,19 @@ Text mudding lives.
 
 </div>
 
-<div class="post" data-post-id="17490" data-author="Guinex" data-date="2007-03-26T20:11:48+00:00">
+<div class="post" data-post-id="17490" data-author="Guinex" data-date="2007-03-26T20:11:48+00:00" data-subject="">
 
 I have read that about six times, and i am unable to see anything wrong with it.
 
 </div>
 
-<div class="post" data-post-id="17491" data-author="tincts" data-date="2007-03-26T20:14:08+00:00">
+<div class="post" data-post-id="17491" data-author="tincts" data-date="2007-03-26T20:14:08+00:00" data-subject="">
 
 With regards to "has had enough; he attacks!!".  There are plenty of dispel mobs.  Ya go dispel dispel south. North.  Dispel dispel south.  North.  and so on as long as you feel like it.  He'll "have enough" each time, but as long as you get out before he hits you, you can wonder back in again and keep teasing him without being smacked.
 
 </div>
 
-<div class="post" data-post-id="17493" data-author="Marchessa_red_witch" data-date="2007-03-26T20:39:35+00:00">
+<div class="post" data-post-id="17493" data-author="Marchessa_red_witch" data-date="2007-03-26T20:39:35+00:00" data-subject="Script">
 
 With regards to "has had enough; he attacks!!".  There are plenty of dispel mobs.  Ya go dispel dispel south. North.  Dispel dispel south.  North.  and so on as long as you feel like it.  He'll "have enough" each time, but as long as you get out before he hits you, you can wonder back in again and keep teasing him without being smacked.[/quote:sin21tp5]
 
@@ -196,13 +196,13 @@ Personally, if i were the immorts I would set the hate flag, so that if you come
 
 </div>
 
-<div class="post" data-post-id="17495" data-author="Rynquald" data-date="2007-03-26T21:30:09+00:00">
+<div class="post" data-post-id="17495" data-author="Rynquald" data-date="2007-03-26T21:30:09+00:00" data-subject="">
 
 As far as I know the only way mobs hate you is if you try to do them some damage, and as you allmost pointed out yourself, everyone that can stab/grip can just sneak/presage anyway.
 
 </div>
 
-<div class="post" data-post-id="17497" data-author="Marchessa_red_witch" data-date="2007-03-26T21:42:10+00:00">
+<div class="post" data-post-id="17497" data-author="Marchessa_red_witch" data-date="2007-03-26T21:42:10+00:00" data-subject="Sneak doesn&#x27;t">
 
 avoid mobs that hate you, stealth is much higher level and has a 40mv cost - that is, as it stands, recycling costs almost nothing - no backstab happened merely the cost of walking out and back in again - which is all most always trivial.  Which is why I now have a script that checks whether I want to recycle in the event of a blown dispel, and walks back out leaving me to decide how to go back in.  
 
@@ -214,7 +214,7 @@ If this is the intention - that is, have people write a trigger - ok. But someho
 
 </div>
 
-<div class="post" data-post-id="17499" data-author="Medios" data-date="2007-03-26T22:14:56+00:00">
+<div class="post" data-post-id="17499" data-author="Medios" data-date="2007-03-26T22:14:56+00:00" data-subject="">
 
 So Marchessa is saying that sneak does not work against hated mobs?  I would have to disagree, the rate of sneakiness might be lower but it still works afaik.  Stealth is surefire, sneak is not.  Bot scripts are lame, playing sloth has made my hand eye coordination go way up with the keyboard.  My typing has improved greatly in the last 5 years.  The only triggers I use have to do with irritating stuff like eating food, grouptells about aegis down, prot order, exiting boats, etc.  Using scripts all the time would take away from my gaming experience.  Its sad you guys script every command.
 
@@ -222,7 +222,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17500" data-author="Autolycos" data-date="2007-03-26T22:46:01+00:00">
+<div class="post" data-post-id="17500" data-author="Autolycos" data-date="2007-03-26T22:46:01+00:00" data-subject="">
 
 Using scripts all the time would take away from my gaming experience.  Its sad you guys script every command.[/[/color:360bnibo]quote]
 
@@ -230,7 +230,7 @@ i absofuckinlutely agree..
 
 </div>
 
-<div class="post" data-post-id="17503" data-author="Marchessa_red_witch" data-date="2007-03-27T00:14:48+00:00">
+<div class="post" data-post-id="17503" data-author="Marchessa_red_witch" data-date="2007-03-27T00:14:48+00:00" data-subject="Scripts Work">
 
 Its sad you guys script every command.
 
@@ -448,7 +448,7 @@ That's right, he slaps me the second time in. The mobs are bringing an emote to 
 
 </div>
 
-<div class="post" data-post-id="17504" data-author="Rynquald" data-date="2007-03-27T00:54:25+00:00">
+<div class="post" data-post-id="17504" data-author="Rynquald" data-date="2007-03-27T00:54:25+00:00" data-subject="">
 
 [quote:e4nz9o9i]Had the attack trigger simply had him swing his claw, then walking out would not have worked.
 
@@ -458,7 +458,7 @@ Would it really matter if you had to flee instead of walk out to have the mob no
 
 </div>
 
-<div class="post" data-post-id="17506" data-author="Marchessa_red_witch" data-date="2007-03-27T01:24:56+00:00">
+<div class="post" data-post-id="17506" data-author="Marchessa_red_witch" data-date="2007-03-27T01:24:56+00:00" data-subject="Differences">
 
 Flee doesn't always work. This is a straight move.
 
@@ -478,7 +478,7 @@ If they are happy with the status quo on this, so am I.
 
 </div>
 
-<div class="post" data-post-id="17509" data-author="Shazuko" data-date="2007-03-27T04:37:45+00:00">
+<div class="post" data-post-id="17509" data-author="Shazuko" data-date="2007-03-27T04:37:45+00:00" data-subject="">
 
 I never left the room, even when it 'had enough'...once i actually counted the seconds and got to 2-onethousand (2.5). Seems like i coulda gripped it if I wanted...just didnt because of the type of mob...I guess what you all are saying is that there is a difference between casting another spell and doing a physical attack on a mob thats 'had enough'??
 
@@ -492,7 +492,7 @@ On a side note, presage added to sneak/stealth can help alot...its worked for me
 
 </div>
 
-<div class="post" data-post-id="17510" data-author="Mike" data-date="2007-03-27T10:06:20+00:00">
+<div class="post" data-post-id="17510" data-author="Mike" data-date="2007-03-27T10:06:20+00:00" data-subject="">
 
 March, soon enough you will find out that it is not 100% garantee that your bot trigger will work. If you cast dispel at the end of the round, mob will hit you right after you dispel him, so all you'll get is a few Its not impossible messages. 
 
@@ -500,13 +500,13 @@ Its so good you start notice things like that after becoming tard, but spaming c
 
 </div>
 
-<div class="post" data-post-id="17511" data-author="13" data-date="2007-03-27T12:32:53+00:00">
+<div class="post" data-post-id="17511" data-author="13" data-date="2007-03-27T12:32:53+00:00" data-subject="">
 
 Fleeing isn't necessary.  What you need to do is type w.  Then go back in after like 1/2 seconds and start the fight as you wish.  No-one's guts are hated until someone gets hit.   That prompt plus all this talk of scripting just confirms my already-formed opinion.  You kids today rely too much on clients and shit..it's sad.
 
 </div>
 
-<div class="post" data-post-id="17512" data-author="Marchessa_red_witch" data-date="2007-03-27T13:07:01+00:00">
+<div class="post" data-post-id="17512" data-author="Marchessa_red_witch" data-date="2007-03-27T13:07:01+00:00" data-subject="Improve the odds">
 
 March, soon enough you will find out that it is not 100% garantee that your bot trigger will work. If you cast dispel at the end of the round, mob will hit you right after you dispel him, so all you'll get is a few Its not impossible messages. 
 
@@ -522,7 +522,7 @@ I've reported the behavior, others have confirmed it, I've written and tested an
 
 </div>
 
-<div class="post" data-post-id="17513" data-author="Avatar" data-date="2007-03-27T13:43:26+00:00">
+<div class="post" data-post-id="17513" data-author="Avatar" data-date="2007-03-27T13:43:26+00:00" data-subject="summary?">
 
 This is all opinion, of course.  This isn't a bug, it's the way the game works.  If you have better ideas, there's an IDEAS command in-game.  I guess that most of us would rather see more people use the in-game commands for bugs and ideas rather than posting to the crier.  Again, just an opinion.
 
@@ -530,7 +530,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="17514" data-author="Marchessa_red_witch" data-date="2007-03-27T13:51:44+00:00">
+<div class="post" data-post-id="17514" data-author="Marchessa_red_witch" data-date="2007-03-27T13:51:44+00:00" data-subject="Summary">
 
 1. it is exploitable, and is widely exploited.
 
@@ -546,13 +546,13 @@ I will further note that anyone who wasn't aware of the behavior and is reading 
 
 </div>
 
-<div class="post" data-post-id="17515" data-author="alias" data-date="2007-03-27T14:09:54+00:00">
+<div class="post" data-post-id="17515" data-author="alias" data-date="2007-03-27T14:09:54+00:00" data-subject="">
 
 If you feel its a bug why did you post it here and not just report it on bugs?
 
 </div>
 
-<div class="post" data-post-id="17516" data-author="Marchessa_red_witch" data-date="2007-03-27T14:17:13+00:00">
+<div class="post" data-post-id="17516" data-author="Marchessa_red_witch" data-date="2007-03-27T14:17:13+00:00" data-subject="As explained">
 
 I didn't fit in bugs and takes too long to explain.
 
@@ -560,13 +560,13 @@ I don't think it deserves being pkilled for either.
 
 </div>
 
-<div class="post" data-post-id="17517" data-author="13" data-date="2007-03-27T15:05:45+00:00">
+<div class="post" data-post-id="17517" data-author="13" data-date="2007-03-27T15:05:45+00:00" data-subject="">
 
 There's just something about Marchessa that gets under my skin.
 
 </div>
 
-<div class="post" data-post-id="17519" data-author="Mosaix" data-date="2007-03-27T16:53:13+00:00">
+<div class="post" data-post-id="17519" data-author="Mosaix" data-date="2007-03-27T16:53:13+00:00" data-subject="">
 
 I agree with aaron, there is a element of uncomfort when you read her stuff.
 
@@ -596,13 +596,13 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="17522" data-author="Weasel" data-date="2007-03-27T17:51:27+00:00">
+<div class="post" data-post-id="17522" data-author="Weasel" data-date="2007-03-27T17:51:27+00:00" data-subject="">
 
 :shock:     OMG the sky is blue???
 
 </div>
 
-<div class="post" data-post-id="17523" data-author="Marchessa_red_witch" data-date="2007-03-27T17:57:14+00:00">
+<div class="post" data-post-id="17523" data-author="Marchessa_red_witch" data-date="2007-03-27T17:57:14+00:00" data-subject="Obviously">
 
 :shock:     OMG the sky is blue???[/quote:i72326y6]
 
@@ -610,7 +610,7 @@ You haven't been to China much recently, the sky isn't often blue in the major c
 
 </div>
 
-<div class="post" data-post-id="17525" data-author="Autolycos" data-date="2007-03-27T18:14:43+00:00">
+<div class="post" data-post-id="17525" data-author="Autolycos" data-date="2007-03-27T18:14:43+00:00" data-subject="Re: Obviously">
 
 You haven't been to China much recently, the sky isn't often blue in the major cities.[/quote:qk77911s]
 
@@ -624,7 +624,7 @@ RIP  (c) Douglas Adams
 
 </div>
 
-<div class="post" data-post-id="17532" data-author="Mosaix" data-date="2007-03-27T18:40:28+00:00">
+<div class="post" data-post-id="17532" data-author="Mosaix" data-date="2007-03-27T18:40:28+00:00" data-subject="">
 
 Marchessa's answer to the sky is blue, truly sums it up.
 
@@ -636,19 +636,19 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="17533" data-author="Weasel" data-date="2007-03-27T19:12:31+00:00">
+<div class="post" data-post-id="17533" data-author="Weasel" data-date="2007-03-27T19:12:31+00:00" data-subject="">
 
 bloody Vogons...
 
 </div>
 
-<div class="post" data-post-id="17534" data-author="Autolycos" data-date="2007-03-27T20:17:03+00:00">
+<div class="post" data-post-id="17534" data-author="Autolycos" data-date="2007-03-27T20:17:03+00:00" data-subject="">
 
 It was only then that we realized that marchessa was a dreadful shade of burnt umber and that she was hanging gracefully mid air in the very same way that bricks don't....
 
 </div>
 
-<div class="post" data-post-id="17535" data-author="Medios" data-date="2007-03-27T21:01:39+00:00">
+<div class="post" data-post-id="17535" data-author="Medios" data-date="2007-03-27T21:01:39+00:00" data-subject="">
 
 To put it simply.  Most of the smart mudders knew about this years ago.  It is not a bug, its a feature.  A long time ago mobs would do nothing if you dispelled them.  This slap and attack proc was put in to keep players on their toes.  You cannot just go in and spam 100 dispels and the backstab.  Now you need to pay attn or write a bot script to mud for you.
 
@@ -656,7 +656,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17538" data-author="12345" data-date="2007-03-27T21:33:58+00:00">
+<div class="post" data-post-id="17538" data-author="12345" data-date="2007-03-27T21:33:58+00:00" data-subject="">
 
 In other news, I've discovered that you can put stuff in your robe and wear it.  This is great, because it allows you to pick up more stuff!  I picked up all kinds of stuff today... like iron rations, regen gear, Auto's viginity, and cps!  They're in my robe!  I even wrote a script to take things out of my robe and wear them, and put other stuff in the robe!  I've found this makes the game much easier.  The imms should take a look at this.
 
@@ -664,25 +664,25 @@ I think we can let this die...
 
 </div>
 
-<div class="post" data-post-id="17541" data-author="13" data-date="2007-03-27T22:32:53+00:00">
+<div class="post" data-post-id="17541" data-author="13" data-date="2007-03-27T22:32:53+00:00" data-subject="">
 
 You guys rock :)
 
 </div>
 
-<div class="post" data-post-id="17547" data-author="Weasel" data-date="2007-03-27T23:26:08+00:00">
+<div class="post" data-post-id="17547" data-author="Weasel" data-date="2007-03-27T23:26:08+00:00" data-subject="">
 
 :shock:   You can put stuff in your robe??? AND the sky is blue??? This is all just a little too much for me to take in one day - I think I'd better find some nice quiet corner and go whimper in it for a while.
 
 </div>
 
-<div class="post" data-post-id="17551" data-author="alias" data-date="2007-03-28T00:07:55+00:00">
+<div class="post" data-post-id="17551" data-author="alias" data-date="2007-03-28T00:07:55+00:00" data-subject="">
 
 No way you found Auto's virginity, I took that from him a long time ago.
 
 </div>
 
-<div class="post" data-post-id="17552" data-author="Gimlet" data-date="2007-03-28T01:30:29+00:00">
+<div class="post" data-post-id="17552" data-author="Gimlet" data-date="2007-03-28T01:30:29+00:00" data-subject="">
 
 hey marchessa wrote scripts to travel back in time to chop in 1984 before choppers even existed, who are we to argue with her?
 
@@ -690,7 +690,7 @@ on another note,  why the hell do ppl need to be informed of the continent and a
 
 </div>
 
-<div class="post" data-post-id="17560" data-author="banedon" data-date="2007-03-28T03:35:44+00:00">
+<div class="post" data-post-id="17560" data-author="banedon" data-date="2007-03-28T03:35:44+00:00" data-subject="">
 
 on another note,  why the hell do ppl need to be informed of the continent and area they are in via their prompt? [/quote:2lxwvkcz]
 
@@ -700,31 +700,31 @@ Just my $.02, flame away
 
 </div>
 
-<div class="post" data-post-id="17562" data-author="Gimlet" data-date="2007-03-28T04:37:06+00:00">
+<div class="post" data-post-id="17562" data-author="Gimlet" data-date="2007-03-28T04:37:06+00:00" data-subject="">
 
 yeah, but is that information so vital u need to know every single round which continent you are on?
 
 </div>
 
-<div class="post" data-post-id="17563" data-author="Weasel" data-date="2007-03-28T04:52:16+00:00">
+<div class="post" data-post-id="17563" data-author="Weasel" data-date="2007-03-28T04:52:16+00:00" data-subject="">
 
 hmm.. I guess you could log that info and extract a list of the room names and corresponding areas, which could come in very handy when trying to locate eq, spellbooks etc...
 
 </div>
 
-<div class="post" data-post-id="17568" data-author="13" data-date="2007-03-28T12:57:08+00:00">
+<div class="post" data-post-id="17568" data-author="13" data-date="2007-03-28T12:57:08+00:00" data-subject="">
 
 Mosaix wins though.
 
 </div>
 
-<div class="post" data-post-id="18289" data-author="freakna" data-date="2007-05-04T18:35:42+00:00">
+<div class="post" data-post-id="18289" data-author="freakna" data-date="2007-05-04T18:35:42+00:00" data-subject="">
 
 Well personaly I love knowing where I am. I don't know why but I seem to take the wrong turn all the time and I end up in some realy stupid places. Or ill phase door or cast 'fortune' and get teleported somewhere. Yep, that was funny. Buffing up for battle. About to go in.. The next thing I new a dragon was eating me. Where did all the zombie's go? Oh shit! So yes very usful for asking for a sos.
 
 </div>
 
-<div class="post" data-post-id="18290" data-author="Gimlet" data-date="2007-05-05T00:36:06+00:00">
+<div class="post" data-post-id="18290" data-author="Gimlet" data-date="2007-05-05T00:36:06+00:00" data-subject="">
 
 Well personaly I love knowing where I am. I don't know why but I seem to take the wrong turn all the time and I end up in some realy stupid places. Or ill phase door or cast 'fortune' and get teleported somewhere. Yep, that was funny. Buffing up for battle. About to go in.. The next thing I new a dragon was eating me. Where did all the zombie's go? Oh shit! So yes very usful for asking for a sos.[/quote:2fub0bbh]
 
@@ -732,7 +732,7 @@ That's coz you're a friggin noob
 
 </div>
 
-<div class="post" data-post-id="18292" data-author="13" data-date="2007-05-05T14:46:32+00:00">
+<div class="post" data-post-id="18292" data-author="13" data-date="2007-05-05T14:46:32+00:00" data-subject="">
 
 if you didxnt mud from a goddamn palm pilot or sidekick or something you might know where you were
 

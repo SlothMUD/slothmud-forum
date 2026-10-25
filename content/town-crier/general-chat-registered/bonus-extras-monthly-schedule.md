@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38200" data-author="Gorka" data-date="2017-03-31T21:53:56+00:00">
+<div class="post" data-post-id="38200" data-author="Gorka" data-date="2017-03-31T21:53:56+00:00" data-subject="Bonus/Extras Monthly Schedule">
 
 Is this still up to date?
 
@@ -22,13 +22,13 @@ Also, I see recently you have the ability to add Lyme into the bonus schedule, i
 
 </div>
 
-<div class="post" data-post-id="38201" data-author="cyprimus" data-date="2017-04-01T15:56:30+00:00">
+<div class="post" data-post-id="38201" data-author="cyprimus" data-date="2017-04-01T15:56:30+00:00" data-subject="Re: Bonus/Extras Monthly Schedule">
 
 its mostly good.  16th is offlyme chop day though
 
 </div>
 
-<div class="post" data-post-id="38202" data-author="Ker" data-date="2017-04-01T16:32:13+00:00">
+<div class="post" data-post-id="38202" data-author="Ker" data-date="2017-04-01T16:32:13+00:00" data-subject="Re: Bonus/Extras Monthly Schedule">
 
 Hi,
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 25
 ---
 
-<div class="post" data-post-id="21584" data-author="jezer" data-date="2007-12-09T10:15:16+00:00">
+<div class="post" data-post-id="21584" data-author="jezer" data-date="2007-12-09T10:15:16+00:00" data-subject="EQ Modes">
 
 I'm getting one of my chars to that stage where I am developing a regen EQ mode. Regen to me has previously just meant sleeping in your fighting EQ, but now that I play a "can't solo kobolds wthout mana" 4 x Caster, mana regen is essential.
 
@@ -116,7 +116,7 @@ How about "GET RING RING BRACER LEGGINGS ROBE"? It's a bit better than GET ALL.R
 
 </div>
 
-<div class="post" data-post-id="21585" data-author="jezer" data-date="2007-12-09T10:30:36+00:00">
+<div class="post" data-post-id="21585" data-author="jezer" data-date="2007-12-09T10:30:36+00:00" data-subject="">
 
 Ok... I'm just thinking a bit deeper about the issues at hand here...
 
@@ -128,7 +128,7 @@ Maybe the strength and inventory coding of sloth, has remained mostly unchanged 
 
 </div>
 
-<div class="post" data-post-id="21586" data-author="Tap" data-date="2007-12-09T12:05:29+00:00">
+<div class="post" data-post-id="21586" data-author="Tap" data-date="2007-12-09T12:05:29+00:00" data-subject="Cake walk if your&#x27;e a bag of flour">
 
 Might take an extra sec or two but why not forget the get all/rem all method of re-organizing? Your Ac Robe should be just that... inside it is 2-3 seperate robes according to what mode you want to be in.. then you could....
 
@@ -172,13 +172,13 @@ Don't get chilled
 
 </div>
 
-<div class="post" data-post-id="21587" data-author="Roadrunr" data-date="2007-12-09T14:24:50+00:00">
+<div class="post" data-post-id="21587" data-author="Roadrunr" data-date="2007-12-09T14:24:50+00:00" data-subject="">
 
 getting each item individually from a robe is much much slower than get all  the way you run into problems tends to be if youhave too much crap in inventory.
 
 </div>
 
-<div class="post" data-post-id="21588" data-author="Widow" data-date="2007-12-09T14:54:16+00:00">
+<div class="post" data-post-id="21588" data-author="Widow" data-date="2007-12-09T14:54:16+00:00" data-subject="">
 
 Jezer,
 
@@ -190,7 +190,7 @@ Your best bet is to carry multiple robes/containers (I love the dirty lunch pail
 
 </div>
 
-<div class="post" data-post-id="21589" data-author="Autolycos" data-date="2007-12-09T15:02:11+00:00">
+<div class="post" data-post-id="21589" data-author="Autolycos" data-date="2007-12-09T15:02:11+00:00" data-subject="Re: EQ Modes">
 
 I'm not asking to remove lag penalties or anything... add them all up and hit me at the end with them like they are at the moment... I'm just wanting a little bit more flexibility to change my eq with scripts.[/quote:m047ra33]
 
@@ -202,7 +202,7 @@ Eq scripts are a neccesary evil that most only write once and lightly modify ove
 
 </div>
 
-<div class="post" data-post-id="21590" data-author="Alberich" data-date="2007-12-09T15:26:10+00:00">
+<div class="post" data-post-id="21590" data-author="Alberich" data-date="2007-12-09T15:26:10+00:00" data-subject="Re: EQ Modes">
 
 Eq scripts are a neccesary evil that most only write once and lightly modify over the years.  So stfu, suck it up and deal with it.[/quote:30dtpxfu]
 
@@ -210,7 +210,7 @@ Eq scripts are a neccesary evil that most only write once and lightly modify ove
 
 </div>
 
-<div class="post" data-post-id="21591" data-author="brady" data-date="2007-12-09T15:39:21+00:00">
+<div class="post" data-post-id="21591" data-author="brady" data-date="2007-12-09T15:39:21+00:00" data-subject="">
 
 First off, Autolycos is an ornery prick.
 
@@ -230,7 +230,7 @@ ps...my dirty lunch pail is small and full.
 
 </div>
 
-<div class="post" data-post-id="21593" data-author="jezer" data-date="2007-12-09T22:08:44+00:00">
+<div class="post" data-post-id="21593" data-author="jezer" data-date="2007-12-09T22:08:44+00:00" data-subject="">
 
 Thanks Tap, I'll give that idea a shot later tonight and I'll post back what I came up with for critism... 
 
@@ -238,7 +238,7 @@ The ideas about avoiding the ALL tag and naming individual parts should cut down
 
 </div>
 
-<div class="post" data-post-id="21595" data-author="Malison" data-date="2007-12-10T00:33:34+00:00">
+<div class="post" data-post-id="21595" data-author="Malison" data-date="2007-12-10T00:33:34+00:00" data-subject="">
 
 You might try something like this:
 
@@ -292,13 +292,13 @@ This was designed keeping in mind you seem to use your mystical-cloak in multipl
 
 </div>
 
-<div class="post" data-post-id="21596" data-author="Yinao" data-date="2007-12-10T04:32:43+00:00">
+<div class="post" data-post-id="21596" data-author="Yinao" data-date="2007-12-10T04:32:43+00:00" data-subject="">
 
 .... AC, Max mana, mana regen, raise, heal, heal 2, shift, dam, and no complaints  :shock:
 
 </div>
 
-<div class="post" data-post-id="21597" data-author="Teron" data-date="2007-12-10T08:24:24+00:00">
+<div class="post" data-post-id="21597" data-author="Teron" data-date="2007-12-10T08:24:24+00:00" data-subject="">
 
 Jezer, start small, write scripts yourself and eventually you'll come up with what suits you best.
 
@@ -308,7 +308,7 @@ It requires play experience or at least some thinking at what scripting approach
 
 </div>
 
-<div class="post" data-post-id="21600" data-author="Hotara" data-date="2007-12-10T11:51:40+00:00">
+<div class="post" data-post-id="21600" data-author="Hotara" data-date="2007-12-10T11:51:40+00:00" data-subject="">
 
 Shrugs, I gave up eq shifting years ago, and nowadays I 2.tank epic mobs with -2 ac, and sometimes live.
 
@@ -332,7 +332,7 @@ My advice, fight it off with using a _Default_ gear, which would be able to chan
 
 </div>
 
-<div class="post" data-post-id="21601" data-author="jezer" data-date="2007-12-10T12:40:30+00:00">
+<div class="post" data-post-id="21601" data-author="jezer" data-date="2007-12-10T12:40:30+00:00" data-subject="">
 
 So I made a script which uses robes as modes... heavily based on the information provided by Malison.
 
@@ -522,7 +522,7 @@ Notice how I set the #var eqmode to "regen" but when I run the "puton" command i
 
 </div>
 
-<div class="post" data-post-id="21603" data-author="Malison" data-date="2007-12-10T15:28:20+00:00">
+<div class="post" data-post-id="21603" data-author="Malison" data-date="2007-12-10T15:28:20+00:00" data-subject="">
 
 [quote:dp05z8gy]#alias {puton} {#var changerobe $$eqmode$robe;get $changerobe $mainrobe;get all $changerobe;put $changerobe $mainrobe;wear all;get all $invrobe;} {G|Mode} {T|WT} 
 
@@ -534,7 +534,7 @@ Not sure how to fix the double $$ problem, being a Wintin95 user instead of .net
 
 </div>
 
-<div class="post" data-post-id="21605" data-author="Leaf" data-date="2007-12-10T16:39:06+00:00">
+<div class="post" data-post-id="21605" data-author="Leaf" data-date="2007-12-10T16:39:06+00:00" data-subject="">
 
 First off, Autolycos is an ornery prick.
 
@@ -550,7 +550,7 @@ for it to go away, or pay a Mage on VK.
 
 </div>
 
-<div class="post" data-post-id="21607" data-author="brady" data-date="2007-12-10T17:00:22+00:00">
+<div class="post" data-post-id="21607" data-author="brady" data-date="2007-12-10T17:00:22+00:00" data-subject="">
 
 Ok.
 
@@ -724,7 +724,7 @@ You are affected by the following spells:
 
 </div>
 
-<div class="post" data-post-id="21608" data-author="mahkra" data-date="2007-12-10T17:10:45+00:00">
+<div class="post" data-post-id="21608" data-author="mahkra" data-date="2007-12-10T17:10:45+00:00" data-subject="">
 
 For what it is worth I made all my EQ slots variable so when I get a new piece of EQ I just change the variable, instead of fishing thru huge aliases. It took a while to setup but has saved me hours of screwing with it since itâ€™s rare I need to change a eq switch alias.
 
@@ -762,13 +762,13 @@ I'm not a fan of the new changes but if I ever had the time I could make the cha
 
 </div>
 
-<div class="post" data-post-id="21609" data-author="Leaf" data-date="2007-12-10T17:31:20+00:00">
+<div class="post" data-post-id="21609" data-author="Leaf" data-date="2007-12-10T17:31:20+00:00" data-subject="">
 
 Interesting, thanks for testing it out Brady
 
 </div>
 
-<div class="post" data-post-id="21623" data-author="13" data-date="2007-12-11T14:18:21+00:00">
+<div class="post" data-post-id="21623" data-author="13" data-date="2007-12-11T14:18:21+00:00" data-subject="">
 
 this is a good idea
 
@@ -800,7 +800,7 @@ thats the wintin experience for me.
 
 </div>
 
-<div class="post" data-post-id="21625" data-author="Autolycos" data-date="2007-12-11T18:03:41+00:00">
+<div class="post" data-post-id="21625" data-author="Autolycos" data-date="2007-12-11T18:03:41+00:00" data-subject="">
 
 oddly enough mine is similar to that as well.
 
@@ -810,7 +810,7 @@ it also nulls the worry of what gear i'm in when i switch.
 
 </div>
 
-<div class="post" data-post-id="21644" data-author="Rodek" data-date="2007-12-12T20:45:56+00:00">
+<div class="post" data-post-id="21644" data-author="Rodek" data-date="2007-12-12T20:45:56+00:00" data-subject="">
 
 You can string removes or wears together now instead of using wear all, remove all, try something like this:
 
@@ -824,7 +824,7 @@ In other words, take everything off, put into main robe, pull new items by name,
 
 </div>
 
-<div class="post" data-post-id="21646" data-author="jezer" data-date="2007-12-12T22:44:17+00:00">
+<div class="post" data-post-id="21646" data-author="jezer" data-date="2007-12-12T22:44:17+00:00" data-subject="">
 
 Thanks to Malison about wintin info. I put both vars together and it works sweet now. 
 
@@ -840,7 +840,7 @@ Your thoughts...?
 
 </div>
 
-<div class="post" data-post-id="21660" data-author="strider" data-date="2007-12-13T15:43:22+00:00">
+<div class="post" data-post-id="21660" data-author="strider" data-date="2007-12-13T15:43:22+00:00" data-subject="">
 
 eq switches might be the only unique things we have left for everyone's characters. always fun to just play with them till ya get one you like. as for your inventory questions. large container, raft, recall, keychain, and drink container are about all i usually carry, (cept necro has his juju charm, and casters tend to carry the flux, and thief his pouch.) don't keep recall in inventory and then pull out to use, it'll get ya killed. go the other way around. alias that recalls you, then gets one out of container. only need to have one out and this way you always do, plus you'll notice when you run out. this won't help your str problems a whole lot, except that you can rem robe and put inventory container in it, wear robe, and you're strong again!! pick up all ya want, remove robe, get inv container out, and you've got all you wanted to carry on ya. 
 
@@ -848,7 +848,7 @@ peace out
 
 </div>
 
-<div class="post" data-post-id="21662" data-author="Weasel" data-date="2007-12-14T02:22:36+00:00">
+<div class="post" data-post-id="21662" data-author="Weasel" data-date="2007-12-14T02:22:36+00:00" data-subject="">
 
 You can string removes or wears together now instead of using wear all, remove all, try something like this:
 

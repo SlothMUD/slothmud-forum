@@ -10,7 +10,7 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="15681" data-author="Autolycos" data-date="2006-12-20T00:23:47+00:00">
+<div class="post" data-post-id="15681" data-author="Autolycos" data-date="2006-12-20T00:23:47+00:00" data-subject="Bard suggestion">
 
 would it be possible to make either a way to add the number of players affected in score stats like (You have mastered the basics of weaving songs) - [b:20cbvlzg]* you can affect 6 people *[/b:20cbvlzg]
 
@@ -34,19 +34,19 @@ I think that could be very useful to the Bard during groups to see which songs a
 
 </div>
 
-<div class="post" data-post-id="15683" data-author="13" data-date="2006-12-20T14:11:53+00:00">
+<div class="post" data-post-id="15683" data-author="13" data-date="2006-12-20T14:11:53+00:00" data-subject="">
 
 Tht's a good idea.  Here's another one.  How about a bard song that helps you find mobs that offer autos like wealth and glory?  My wife was just asking about that, and I like it :)
 
 </div>
 
-<div class="post" data-post-id="15744" data-author="kjartan" data-date="2006-12-24T03:37:28+00:00">
+<div class="post" data-post-id="15744" data-author="kjartan" data-date="2006-12-24T03:37:28+00:00" data-subject="">
 
 I'll do the thing Auto suggested.  13's suggestion is a good idea but it sort of contradicts some other stuff we're working on, so we're not going to do that at least for the moment.
 
 </div>
 
-<div class="post" data-post-id="15745" data-author="Toxis" data-date="2006-12-24T05:40:51+00:00">
+<div class="post" data-post-id="15745" data-author="Toxis" data-date="2006-12-24T05:40:51+00:00" data-subject="bardsongs">
 
 Bards at the moment only have two uses in groups while fighting... gods of war and valor.. damage and tohit... as I see in group score as songs affected by.  My idea would be this for bards, just some cool ideas...
 
@@ -60,7 +60,7 @@ sing "Seraphius Siren" +2 mana regen to group standing.
 
 </div>
 
-<div class="post" data-post-id="15771" data-author="Autolycos" data-date="2006-12-26T16:00:15+00:00">
+<div class="post" data-post-id="15771" data-author="Autolycos" data-date="2006-12-26T16:00:15+00:00" data-subject="">
 
 I'll do the thing Auto suggested. [/quote:1ox7amkx]
 
@@ -70,7 +70,7 @@ cool,  that rocks..  thanx  Kj.
 
 </div>
 
-<div class="post" data-post-id="15780" data-author="Autolycos" data-date="2006-12-27T01:42:42+00:00">
+<div class="post" data-post-id="15780" data-author="Autolycos" data-date="2006-12-27T01:42:42+00:00" data-subject="Another Bard Suggestion :)">
 
 along a similar lines as the +hit and +dam songs.. 
 
@@ -80,7 +80,7 @@ is it possible to have songs that could lightly increase the healbonuses or spel
 
 </div>
 
-<div class="post" data-post-id="15826" data-author="Autolycos" data-date="2006-12-28T21:40:59+00:00">
+<div class="post" data-post-id="15826" data-author="Autolycos" data-date="2006-12-28T21:40:59+00:00" data-subject="Re: Another Bard Suggestion :)">
 
 along a similar lines as the +hit and +dam songs.. 
 
@@ -94,13 +94,13 @@ cause i like it
 
 </div>
 
-<div class="post" data-post-id="15827" data-author="13" data-date="2006-12-28T22:29:16+00:00">
+<div class="post" data-post-id="15827" data-author="13" data-date="2006-12-28T22:29:16+00:00" data-subject="">
 
 agree
 
 </div>
 
-<div class="post" data-post-id="15828" data-author="kjartan" data-date="2006-12-29T00:05:08+00:00">
+<div class="post" data-post-id="15828" data-author="kjartan" data-date="2006-12-29T00:05:08+00:00" data-subject="">
 
 It is a reasonable suggestion - certainly bards might do something like that.  But, it's not like bards are no good in groups now... all groups want bards.  We are more interested in stuff for warriors and thieves atm.  But I will keep in it mind for the next time I'm looking for bard ideas.
 
@@ -112,7 +112,7 @@ EDIT: oh or (3) because the voices in my head tell me to, e.g. the recent behold
 
 </div>
 
-<div class="post" data-post-id="15837" data-author="Mike" data-date="2006-12-29T12:42:25+00:00">
+<div class="post" data-post-id="15837" data-author="Mike" data-date="2006-12-29T12:42:25+00:00" data-subject="">
 
 Kj, would it be possible to add bards song that will increase aegis/sanc/moon effectiveness. So it would be base 50% of damage + some % depend on charisma or bard lvls. 
 
@@ -120,19 +120,19 @@ And it would be great to add the thing was posted long ago about bards can sing 
 
 </div>
 
-<div class="post" data-post-id="15838" data-author="13" data-date="2006-12-29T13:34:06+00:00">
+<div class="post" data-post-id="15838" data-author="13" data-date="2006-12-29T13:34:06+00:00" data-subject="">
 
 harmonize as a bard skill thing!  good
 
 </div>
 
-<div class="post" data-post-id="15849" data-author="12345" data-date="2006-12-29T22:28:12+00:00">
+<div class="post" data-post-id="15849" data-author="12345" data-date="2006-12-29T22:28:12+00:00" data-subject="">
 
 I think a bard skill that made the voices in Kj's head happier would be cool.  Can you code that one?
 
 </div>
 
-<div class="post" data-post-id="15858" data-author="Vixn" data-date="2006-12-30T20:10:48+00:00">
+<div class="post" data-post-id="15858" data-author="Vixn" data-date="2006-12-30T20:10:48+00:00" data-subject="">
 
 Is it possible to make 'dreams of the castle' work for resting ppl? Monks often have more regen while resting, but they don't get bonus from bards song.
 
@@ -144,13 +144,13 @@ Edd aka Kida
 
 </div>
 
-<div class="post" data-post-id="15859" data-author="Vixn" data-date="2006-12-30T20:34:56+00:00">
+<div class="post" data-post-id="15859" data-author="Vixn" data-date="2006-12-30T20:34:56+00:00" data-subject="">
 
 And one more - when I sing 'gods of war' song and cast any spell (say 'glamour'), I stop to sing/play 'gods of war' but it has long effect. If I start to sing/play again while gods effect still up I don't see any affecting ppl in 'score' even myself. Though it seems effect from new song  is up. When I start to sing/play after this message 'The song ends and you are less inspired by the deeds of the war gods.' - I can see affecting ppl. Is it bug or something and could u fix it pls.
 
 </div>
 
-<div class="post" data-post-id="15860" data-author="Leaf" data-date="2006-12-30T21:41:47+00:00">
+<div class="post" data-post-id="15860" data-author="Leaf" data-date="2006-12-30T21:41:47+00:00" data-subject="">
 
 Hey Vixn do what I do.  Cast glamour wait for gods to fall and sing gods 
 
@@ -160,7 +160,7 @@ group of ppl.  So just wait it out and then sing gods, its only like 30 seconds.
 
 </div>
 
-<div class="post" data-post-id="15861" data-author="Medios" data-date="2006-12-31T00:13:22+00:00">
+<div class="post" data-post-id="15861" data-author="Medios" data-date="2006-12-31T00:13:22+00:00" data-subject="">
 
 I rarely sing a song thats already affecting me.  Whats the point, seems likea waste of mana.
 
@@ -168,7 +168,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15862" data-author="13" data-date="2006-12-31T00:38:46+00:00">
+<div class="post" data-post-id="15862" data-author="13" data-date="2006-12-31T00:38:46+00:00" data-subject="weird">
 
 <670hp 273ma 201mv><23208549xp>
 
@@ -232,7 +232,7 @@ Rub -- '*Rub* -       [hp: 795 / 987 ]  (-140 hp) *Aegis: 369*'
 
 </div>
 
-<div class="post" data-post-id="15913" data-author="13" data-date="2007-01-02T22:34:33+00:00">
+<div class="post" data-post-id="15913" data-author="13" data-date="2007-01-02T22:34:33+00:00" data-subject="">
 
 I'm curious if charisma affects anything other than the damage of your cries
 
@@ -240,13 +240,13 @@ and whether mobs fail saves.
 
 </div>
 
-<div class="post" data-post-id="15914" data-author="12345" data-date="2007-01-03T00:30:31+00:00">
+<div class="post" data-post-id="15914" data-author="12345" data-date="2007-01-03T00:30:31+00:00" data-subject="">
 
 I thought it was used to affect more folks with the Bros/Gods/Dreams spells as well.
 
 </div>
 
-<div class="post" data-post-id="15931" data-author="Leaf" data-date="2007-01-03T15:06:06+00:00">
+<div class="post" data-post-id="15931" data-author="Leaf" data-date="2007-01-03T15:06:06+00:00" data-subject="">
 
 Nope it doesn't Kieth.  I use to thought the more Charisma the more ppl
 
@@ -262,19 +262,19 @@ charisma.
 
 </div>
 
-<div class="post" data-post-id="15966" data-author="Avatar" data-date="2007-01-04T14:12:07+00:00">
+<div class="post" data-post-id="15966" data-author="Avatar" data-date="2007-01-04T14:12:07+00:00" data-subject="charisma?">
 
 As I understood it, charisma doesn't even directly affect damage.  Charisma affects saves, which means the target is less likely to make their save vs. the effect of a song.  So, with high charisma cries are more likely to cause the full average damage of the song, rather than the saved half damage of the song.
 
 </div>
 
-<div class="post" data-post-id="15969" data-author="13" data-date="2007-01-04T15:55:09+00:00">
+<div class="post" data-post-id="15969" data-author="13" data-date="2007-01-04T15:55:09+00:00" data-subject="">
 
 Ok we're gonna need to test that in the arena.
 
 </div>
 
-<div class="post" data-post-id="16157" data-author="Weasel" data-date="2007-01-10T02:15:07+00:00">
+<div class="post" data-post-id="16157" data-author="Weasel" data-date="2007-01-10T02:15:07+00:00" data-subject="">
 
 But, it's not like bards are no good in groups now... all groups want bards.  We are more interested in stuff for warriors and thieves atm.  But I will keep in it mind for the next time I'm looking for bard ideas.
 

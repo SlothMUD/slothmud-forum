@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="34209" data-author="*juggleblood*" data-date="2013-04-03T13:49:26+00:00">
+<div class="post" data-post-id="34209" data-author="*juggleblood*" data-date="2013-04-03T13:49:26+00:00" data-subject="Avatar Light Thread">
 
 I'm sorry. I didn't even realize players couldn't post to the New Stuff forum. That's why I deleted the other thread on Avatar Lights. I was expecting people to comment on the other thread. (duh) Very sorry bout that.
 
@@ -24,7 +24,7 @@ Thanks for input and once again sorry about the misunderstanding / removing the 
 
 </div>
 
-<div class="post" data-post-id="34210" data-author="Ker" data-date="2013-04-05T05:45:08+00:00">
+<div class="post" data-post-id="34210" data-author="Ker" data-date="2013-04-05T05:45:08+00:00" data-subject="Re: Avatar Light Thread">
 
 Sooooooooooooooooooooooooooooooooooooooooooooooooo, are we still going to see some stat balance/change between the available held high forges as to compared with the ones introduced? 
 
@@ -32,7 +32,7 @@ Now that stats contra with mob difficulty, duh?, this can happen too?
 
 </div>
 
-<div class="post" data-post-id="34211" data-author="*juggleblood*" data-date="2013-04-05T09:49:20+00:00">
+<div class="post" data-post-id="34211" data-author="*juggleblood*" data-date="2013-04-05T09:49:20+00:00" data-subject="Re: Avatar Light Thread">
 
 I just plan on acting on whatever good suggestions come from the players. 
 
@@ -40,7 +40,7 @@ Tell me what lights are too easy to get and I'll make the mobs harder.
 
 </div>
 
-<div class="post" data-post-id="34212" data-author="alris" data-date="2013-04-05T10:57:07+00:00">
+<div class="post" data-post-id="34212" data-author="alris" data-date="2013-04-05T10:57:07+00:00" data-subject="Re: Avatar Light Thread">
 
 I was going to post it when i seen all lights stats, but pyroskeleton and master john were stingy for me, so it goes without last 2.
 
@@ -176,7 +176,7 @@ though maybe some variations of 1handdam light might work.
 
 </div>
 
-<div class="post" data-post-id="34213" data-author="alris" data-date="2013-04-05T11:20:26+00:00">
+<div class="post" data-post-id="34213" data-author="alris" data-date="2013-04-05T11:20:26+00:00" data-subject="Re: Avatar Light Thread">
 
 Not a very serious idea of change for cool chaos gem name:
 
@@ -184,7 +184,7 @@ How about make it pick stats randomly when it loads from all the items, which co
 
 </div>
 
-<div class="post" data-post-id="34214" data-author="Magi" data-date="2013-04-05T16:47:30+00:00">
+<div class="post" data-post-id="34214" data-author="Magi" data-date="2013-04-05T16:47:30+00:00" data-subject="Re: Avatar Light Thread">
 
 Re: warriors
 
@@ -212,7 +212,7 @@ A light (or an instrument if prime only is desired) that played itself would be 
 
 </div>
 
-<div class="post" data-post-id="34215" data-author="Ker" data-date="2013-04-05T22:58:22+00:00">
+<div class="post" data-post-id="34215" data-author="Ker" data-date="2013-04-05T22:58:22+00:00" data-subject="Re: Avatar Light Thread">
 
 Agreed with all above.
 
@@ -220,7 +220,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="34216" data-author="Oboe" data-date="2013-04-06T12:40:07+00:00">
+<div class="post" data-post-id="34216" data-author="Oboe" data-date="2013-04-06T12:40:07+00:00" data-subject="Re: Avatar Light Thread">
 
 Juggleblood, I appreciate your willingness to put effort into the MUD's areas, equipment and quests.  However, this is simply far too much equipment quality to add at one time and mostly as pops, not forges.  The degree of increase exceeds all other combined equipment improvements made since SlothMUD replaced SlothMUD III.
 
@@ -272,7 +272,7 @@ That's about 16 tough mobs to cycle, along with smaller cycle targets and miscel
 
 </div>
 
-<div class="post" data-post-id="34217" data-author="Marvel" data-date="2013-04-06T12:42:16+00:00">
+<div class="post" data-post-id="34217" data-author="Marvel" data-date="2013-04-06T12:42:16+00:00" data-subject="Re: Avatar Light Thread">
 
 I will only comment on the bard lights. Given that there um, isn't a bard light for lower levels... but that's aside the point.
 
@@ -296,7 +296,7 @@ Maybe Oboe will weigh in... and Blackmore too.
 
 </div>
 
-<div class="post" data-post-id="34218" data-author="*Splork*" data-date="2013-04-06T12:59:26+00:00">
+<div class="post" data-post-id="34218" data-author="*Splork*" data-date="2013-04-06T12:59:26+00:00" data-subject="Re: Avatar Light Thread">
 
 I see no issue with most of these items being single item pops. A pop with high restrictions should be better than a 3x40 or 4x40 forge( especially when you consider that this was the highest level in the last version ), at least in my opinion. 
 
@@ -308,7 +308,7 @@ We have been being extra cautious with the max_stat eq but are trying to continu
 
 </div>
 
-<div class="post" data-post-id="34219" data-author="*juggleblood*" data-date="2013-04-06T18:58:09+00:00">
+<div class="post" data-post-id="34219" data-author="*juggleblood*" data-date="2013-04-06T18:58:09+00:00" data-subject="Re: Avatar Light Thread">
 
 @Oboe 
 
@@ -340,7 +340,7 @@ Thanks again for all the input. Be patient for changes because it's a complicate
 
 </div>
 
-<div class="post" data-post-id="34221" data-author="war" data-date="2013-04-07T00:04:43+00:00">
+<div class="post" data-post-id="34221" data-author="war" data-date="2013-04-07T00:04:43+00:00" data-subject="Re: Avatar Light Thread">
 
 My suggestion for  Avatar Light is kind a self serving but here goes
 
@@ -354,13 +354,13 @@ Just my 2 cents
 
 </div>
 
-<div class="post" data-post-id="34222" data-author="Marvel" data-date="2013-04-07T01:31:39+00:00">
+<div class="post" data-post-id="34222" data-author="Marvel" data-date="2013-04-07T01:31:39+00:00" data-subject="Re: Avatar Light Thread">
 
 In response to raise gear... well, +sysshock works for the person getting raised as well. Warriors do tend to die a lot. And if it's on a light, they wouldn't be losing ac to marginally increase their chance of being raised.
 
 </div>
 
-<div class="post" data-post-id="34223" data-author="alris" data-date="2013-04-07T06:37:11+00:00">
+<div class="post" data-post-id="34223" data-author="alris" data-date="2013-04-07T06:37:11+00:00" data-subject="Re: Avatar Light Thread">
 
 re: AC
 
@@ -408,7 +408,7 @@ As it is now, it just renders crap all the 3mr lights which existed before those
 
 </div>
 
-<div class="post" data-post-id="34224" data-author="*juggleblood*" data-date="2013-04-07T12:03:40+00:00">
+<div class="post" data-post-id="34224" data-author="*juggleblood*" data-date="2013-04-07T12:03:40+00:00" data-subject="Re: Avatar Light Thread">
 
 "As it is now, it just renders <obsolete> all the 3mr lights which existed before those new lights as well as few new lights too. "
 
@@ -422,7 +422,7 @@ Why are you concerned that an item restricted 25 avatar supersedes an item restr
 
 </div>
 
-<div class="post" data-post-id="34225" data-author="Magi" data-date="2013-04-07T16:59:44+00:00">
+<div class="post" data-post-id="34225" data-author="Magi" data-date="2013-04-07T16:59:44+00:00" data-subject="Re: Avatar Light Thread">
 
 > ***juggleblood* wrote:**
 > "As it is now, it just renders <obsolete> all the 3mr lights which existed before those new lights as well as few new lights too. "
@@ -444,7 +444,7 @@ Finally, to Oboe's concern that five pieces of eq were added to the game that he
 
 </div>
 
-<div class="post" data-post-id="34226" data-author="blackmore" data-date="2013-04-07T17:34:43+00:00">
+<div class="post" data-post-id="34226" data-author="blackmore" data-date="2013-04-07T17:34:43+00:00" data-subject="Re: Avatar Light Thread">
 
 The attempt to add higher level eq is much, much appreciated.
 

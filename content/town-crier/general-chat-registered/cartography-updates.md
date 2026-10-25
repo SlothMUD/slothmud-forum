@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="28263" data-author="*juggleblood*" data-date="2009-02-23T01:31:29+00:00">
+<div class="post" data-post-id="28263" data-author="*juggleblood*" data-date="2009-02-23T01:31:29+00:00" data-subject="cartography updates">
 
 Tox is generously updating the cartography and eq section of the website. 
 
@@ -26,7 +26,7 @@ If you do remap something, take the time to check for spellbook pops that might 
 
 </div>
 
-<div class="post" data-post-id="28264" data-author="Toxis" data-date="2009-02-23T13:50:07+00:00">
+<div class="post" data-post-id="28264" data-author="Toxis" data-date="2009-02-23T13:50:07+00:00" data-subject="">
 
 There is equipment out there that has never been submitted to the eqlist.  Equipment that's been in game for quite some time.  It would be much appreciated if people would do that so I could add it to the eqlist.
 
@@ -36,7 +36,7 @@ Tox
 
 </div>
 
-<div class="post" data-post-id="28265" data-author="Vixn" data-date="2009-02-23T18:13:29+00:00">
+<div class="post" data-post-id="28265" data-author="Vixn" data-date="2009-02-23T18:13:29+00:00" data-subject="">
 
 Do you think we start to cycle all the fukking mobs in all that stupid areas?
 
@@ -50,7 +50,7 @@ p.s. If you do this I promise I'll sing with my bard all that EQ and will post h
 
 </div>
 
-<div class="post" data-post-id="28266" data-author="jezer" data-date="2009-02-23T22:32:36+00:00">
+<div class="post" data-post-id="28266" data-author="jezer" data-date="2009-02-23T22:32:36+00:00" data-subject="">
 
 I suspect the new mobs in dweb pop more than whats been posted, and quite possibly it's what Tox is refering too. But I'm certainly not about to solo 4 run mobs 20 times, in about 10 different spots to find out. If someone really wants to be the awesomeness go ahead... I'll clap your achievement afterward. :roll:
 
@@ -58,7 +58,7 @@ However if ya give Kida a new song that informs the bard that a mob does in fact
 
 </div>
 
-<div class="post" data-post-id="28267" data-author="*juggleblood*" data-date="2009-02-23T22:34:23+00:00">
+<div class="post" data-post-id="28267" data-author="*juggleblood*" data-date="2009-02-23T22:34:23+00:00" data-subject="">
 
 How does wealth and glory work anyway? I've only fooled around with it a little with Napoleon and didn't find it to be very helpful. I thought maybe it was because I don't have much charisma gear. As it is now, you pretty much have to already know the name of the item that pops? For example, you can't just sing 'wealth and glory' spellbook right? You get some message like please be more specific or something?
 
@@ -66,19 +66,19 @@ And btw, the answer is no. I don't expect you to do anything. But if someone wou
 
 </div>
 
-<div class="post" data-post-id="28268" data-author="jezer" data-date="2009-02-23T22:37:50+00:00">
+<div class="post" data-post-id="28268" data-author="jezer" data-date="2009-02-23T22:37:50+00:00" data-subject="">
 
 I think you need two of the keywords in the item name... Kind of hard to use to your advantage when you don't know them. Mob descriptions about what they wear are an exception generally rather than the rule.
 
 </div>
 
-<div class="post" data-post-id="28269" data-author="reboog" data-date="2009-02-23T23:01:20+00:00">
+<div class="post" data-post-id="28269" data-author="reboog" data-date="2009-02-23T23:01:20+00:00" data-subject="">
 
 jugglieblood: Don't go into Russia.  Your troops can't handle the severe weather and you are going to get cut off.
 
 </div>
 
-<div class="post" data-post-id="28270" data-author="jezer" data-date="2009-02-23T23:19:27+00:00">
+<div class="post" data-post-id="28270" data-author="jezer" data-date="2009-02-23T23:19:27+00:00" data-subject="">
 
 [img:1repj5dj]http://www.worldlanguage.com/ProductScreenShots/104364-2.jpg[/img:1repj5dj]
 
@@ -100,13 +100,13 @@ Batteries Not Included.[/size:1repj5dj]
 
 </div>
 
-<div class="post" data-post-id="28274" data-author="reboog" data-date="2009-02-24T03:56:29+00:00">
+<div class="post" data-post-id="28274" data-author="reboog" data-date="2009-02-24T03:56:29+00:00" data-subject="">
 
 jezer: nick length
 
 </div>
 
-<div class="post" data-post-id="28278" data-author="Vixn" data-date="2009-02-24T17:39:23+00:00">
+<div class="post" data-post-id="28278" data-author="Vixn" data-date="2009-02-24T17:39:23+00:00" data-subject="">
 
 How does wealth and glory work anyway? I've only fooled around with it a little with Napoleon and didn't find it to be very helpful. I thought maybe it was because I don't have much charisma gear. As it is now, you pretty much have to already know the name of the item that pops? For example, you can't just sing 'wealth and glory' spellbook right? You get some message like please be more specific or something?
 
@@ -128,7 +128,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="28279" data-author="Toxis" data-date="2009-02-24T19:07:10+00:00">
+<div class="post" data-post-id="28279" data-author="Toxis" data-date="2009-02-24T19:07:10+00:00" data-subject="">
 
 Imms work for free, have real life problems, and get distracted on other projects.  I've wanted access to EQ and MAPS for ages and now I've finally gotten that access and have been trying to fix things up.  I understand and feel your frustration.  You could probably ask any imm how easily I have gotten frustrated in the past.  But we all want the same thing and that's for Sloth to be a good mud, and add to it so it can grow.
 
@@ -138,7 +138,7 @@ So we have had people who have quit or are taken time away from Sloth.  It happe
 
 </div>
 
-<div class="post" data-post-id="28280" data-author="Weasel" data-date="2009-02-24T19:27:57+00:00">
+<div class="post" data-post-id="28280" data-author="Weasel" data-date="2009-02-24T19:27:57+00:00" data-subject="">
 
 Thanks Tox.
 
@@ -146,7 +146,7 @@ btw, anyone coding vaults atm, or still waiting to see if other bugs ironed out 
 
 </div>
 
-<div class="post" data-post-id="28284" data-author="jezer" data-date="2009-02-24T22:39:29+00:00">
+<div class="post" data-post-id="28284" data-author="jezer" data-date="2009-02-24T22:39:29+00:00" data-subject="">
 
 Well, first of all, sorry for my rude tone.
 
@@ -158,7 +158,7 @@ Your posts number amongst the best I read... always a nice dosage of sarcasm and
 
 </div>
 
-<div class="post" data-post-id="28288" data-author="*juggleblood*" data-date="2009-02-24T23:58:08+00:00">
+<div class="post" data-post-id="28288" data-author="*juggleblood*" data-date="2009-02-24T23:58:08+00:00" data-subject="">
 
 It's hard to find people to do this stuff. Not that no one listens to the ideas. I wish some coder would go to town on bards. I think bard songs need some work, but I know the few coders we have are busy working on other stuff like finding crash bugs.
 
@@ -168,7 +168,7 @@ I wish we could somehow draw Alias/Pooka back into the game and convince him to 
 
 </div>
 
-<div class="post" data-post-id="28289" data-author="jezer" data-date="2009-02-25T00:09:02+00:00">
+<div class="post" data-post-id="28289" data-author="jezer" data-date="2009-02-25T00:09:02+00:00" data-subject="">
 
 Blackmore is Taliesin... often found dead under an elemental fury in Drexel or a Terracotta Solider in CK.  :twisted: In fact maybe we should make a special marking for his favorite corpse spots on the new maps.
 

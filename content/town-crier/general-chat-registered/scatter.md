@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="8976" data-author="daedalus" data-date="2005-10-09T03:26:15+00:00">
+<div class="post" data-post-id="8976" data-author="daedalus" data-date="2005-10-09T03:26:15+00:00" data-subject="Scatter">
 
 n
 
@@ -38,7 +38,7 @@ Daedalus
 
 </div>
 
-<div class="post" data-post-id="8977" data-author="13" data-date="2005-10-09T09:37:33+00:00">
+<div class="post" data-post-id="8977" data-author="13" data-date="2005-10-09T09:37:33+00:00" data-subject="">
 
 I always fucking miss this shit..
 

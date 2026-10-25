@@ -10,19 +10,19 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="38299" data-author="Gorka" data-date="2017-06-20T05:34:33+00:00">
+<div class="post" data-post-id="38299" data-author="Gorka" data-date="2017-06-20T05:34:33+00:00" data-subject="Fortune">
 
 For as long as I can remember the spell "Fortune" has been indiscreet about what it actually does. For what reason is anyone's guess! Usually a player types score before they "Fortune" and then afterwards to find out what the difference was. Isn't it time the spell just informed the player what it did and by how much? How hard can it be? What's the point to the "secret squirrel" business when it can be worked out anyway. I simply can't be bothered comparing an increasing amount of score lines to see what the difference is... and so I don't.
 
 </div>
 
-<div class="post" data-post-id="38300" data-author="Teron" data-date="2017-06-23T07:00:39+00:00">
+<div class="post" data-post-id="38300" data-author="Teron" data-date="2017-06-23T07:00:39+00:00" data-subject="Re: Fortune">
 
 I agree, keeping the change secret - sometimes it's not seen in score - is a major point against buying the spell, which actually costs drachma to get. I've seen just 1 person buy the spell - and it was in s3.
 
 </div>
 
-<div class="post" data-post-id="39643" data-author="cnl" data-date="2020-12-21T21:42:15+00:00">
+<div class="post" data-post-id="39643" data-author="cnl" data-date="2020-12-21T21:42:15+00:00" data-subject="Re: Fortune">
 
 I don't know if this was true at the time of this post - but can't you just read it now out of msdp?
 
@@ -36,7 +36,7 @@ Lv  source                      time              pt  modify
 
 </div>
 
-<div class="post" data-post-id="39644" data-author="Gorka" data-date="2020-12-22T09:07:27+00:00">
+<div class="post" data-post-id="39644" data-author="Gorka" data-date="2020-12-22T09:07:27+00:00" data-subject="Re: Fortune">
 
 Not all effects of fortune show in MSDP, but most will. IIRC there is one that will just restore you - that's not going to show up... I think another gives you a disease... some diseases don't show on MSDP.
 
@@ -44,7 +44,7 @@ I don't recommend using this spell. I have a list of all the effects somewhere, 
 
 </div>
 
-<div class="post" data-post-id="39649" data-author="*Idjit*" data-date="2020-12-24T16:46:28+00:00">
+<div class="post" data-post-id="39649" data-author="*Idjit*" data-date="2020-12-24T16:46:28+00:00" data-subject="Re: Fortune">
 
 It's rumored that Fortune was there as a mascot for how lack of transparency was baked into the game's philosophy in earlier times, but there's an astounding lack of transparency about the details of that.
 

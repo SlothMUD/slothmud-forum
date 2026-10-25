@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30132" data-author="hounds" data-date="2009-10-19T00:23:47+00:00">
+<div class="post" data-post-id="30132" data-author="hounds" data-date="2009-10-19T00:23:47+00:00" data-subject="stab question">
 
 A mummifed greyhound hates your guts!
 
@@ -30,13 +30,13 @@ i dont understand how the 3rd stab can miss on a morted mob if some one could ex
 
 </div>
 
-<div class="post" data-post-id="30133" data-author="jezer" data-date="2009-10-19T00:41:30+00:00">
+<div class="post" data-post-id="30133" data-author="jezer" data-date="2009-10-19T00:41:30+00:00" data-subject="">
 
 haha, that's a pretty valid question.
 
 </div>
 
-<div class="post" data-post-id="30135" data-author="Tap" data-date="2009-10-19T09:52:27+00:00">
+<div class="post" data-post-id="30135" data-author="Tap" data-date="2009-10-19T09:52:27+00:00" data-subject="">
 
 You ever chop wood? or hammer a nail?
 

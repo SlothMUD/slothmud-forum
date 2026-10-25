@@ -10,19 +10,19 @@ locked: false
 post_count: 190
 ---
 
-<div class="post" data-post-id="26640" data-author="brady" data-date="2008-10-11T02:02:13+00:00">
+<div class="post" data-post-id="26640" data-author="brady" data-date="2008-10-11T02:02:13+00:00" data-subject="Game, set, match.">
 
 [<LINK_TEXT text="http://www.cnn.com/2008/POLITICS/10/10/ ... index.html">http://www.cnn.com/2008/POLITICS/10/10/palin.investigation/index.html</LINK_TEXT>](http://www.cnn.com/2008/POLITICS/10/10/palin.investigation/index.html)
 
 </div>
 
-<div class="post" data-post-id="26642" data-author="Tap" data-date="2008-10-11T03:02:10+00:00">
+<div class="post" data-post-id="26642" data-author="Tap" data-date="2008-10-11T03:02:10+00:00" data-subject="Check!">
 
 [url:3mqr63qn]http://vodpod.com/watch/1072189-louis-farrakhan-calls-obama-the-messiah[/url:3mqr63qn]
 
 </div>
 
-<div class="post" data-post-id="26643" data-author="Tap" data-date="2008-10-11T03:12:52+00:00">
+<div class="post" data-post-id="26643" data-author="Tap" data-date="2008-10-11T03:12:52+00:00" data-subject="All your ACORN R belong to Barry &quot;Barack&quot; Hussein">
 
 A radical group Barack Obama used to work for is committing voter-registration fraud in several states, ahead of the election. What does Obama know about this scam?
 
@@ -58,7 +58,7 @@ change from the bailout. With regards to Sarah Palin, the ex-Brother In law in q
 
 </div>
 
-<div class="post" data-post-id="26644" data-author="Weasel" data-date="2008-10-11T03:56:55+00:00">
+<div class="post" data-post-id="26644" data-author="Weasel" data-date="2008-10-11T03:56:55+00:00" data-subject="">
 
 Of course you realize the entire Palin investigation group was 'relived of their duties' and replaced with a bunch of liberal democrats, don't you? This, much like Obama's ACORN, is just more evidence of huge election fraud. In any other state that pig would have been kicked out of the force and probably had some jail time added on as well. Even he knows damn well he got off lightly, and that it was probably because of Palin that he is still a cop today.
 
@@ -74,7 +74,7 @@ BTW, I don't think much at all of McCain, but Obama? Seriously, this is suicide 
 
 </div>
 
-<div class="post" data-post-id="26645" data-author="Weasel" data-date="2008-10-11T04:11:56+00:00">
+<div class="post" data-post-id="26645" data-author="Weasel" data-date="2008-10-11T04:11:56+00:00" data-subject="">
 
 btw, if you missed it, there's homeless guys now admitting that ACORN have been giving them cigarettes and cash to register over and over with different names and addresses supplied to them by ACORN staff. One guy that was interviewed said he had filled out 72 registration forms. There's another video of an ACORN worker who didn't realize he was being taped, and he's sitting there altering a pile of (previously valid) registration forms that had been filled out already. Another video of a girl not even old enough to vote saying she is harassed into filling out registration forms up to 5 times every day by ACORN workers. When she tells then she's already registered they just tell her to do it anyway and change the date of birth.
 
@@ -82,13 +82,13 @@ For each one of these registrations that gets accepted (which is almost all of t
 
 </div>
 
-<div class="post" data-post-id="26646" data-author="jezer" data-date="2008-10-11T04:19:07+00:00">
+<div class="post" data-post-id="26646" data-author="jezer" data-date="2008-10-11T04:19:07+00:00" data-subject="">
 
 Are you irish weasel?
 
 </div>
 
-<div class="post" data-post-id="26647" data-author="Weasel" data-date="2008-10-11T04:26:08+00:00">
+<div class="post" data-post-id="26647" data-author="Weasel" data-date="2008-10-11T04:26:08+00:00" data-subject="">
 
 I'm a mongrel. I think a little bit of Irish, definitely Danish and some German blood, some Swedish, some French and some English. Some American and New Zealand too, but I consider both countries too young to really count as a bloodline..
 
@@ -96,13 +96,13 @@ I'm just pissed at the tiniest thing such as the color of Palin's jacket being s
 
 </div>
 
-<div class="post" data-post-id="26648" data-author="brady" data-date="2008-10-11T08:12:32+00:00">
+<div class="post" data-post-id="26648" data-author="brady" data-date="2008-10-11T08:12:32+00:00" data-subject="">
 
 I remember now why I avoid talking politics here.  Oh and I think you're stupid too.
 
 </div>
 
-<div class="post" data-post-id="26649" data-author="Tap" data-date="2008-10-11T08:54:29+00:00">
+<div class="post" data-post-id="26649" data-author="Tap" data-date="2008-10-11T08:54:29+00:00" data-subject="">
 
 Laff.
 
@@ -112,13 +112,13 @@ You started a thread bashing Palin, yet don't like the overwhelming negative inf
 
 </div>
 
-<div class="post" data-post-id="26651" data-author="brady" data-date="2008-10-11T12:02:33+00:00">
+<div class="post" data-post-id="26651" data-author="brady" data-date="2008-10-11T12:02:33+00:00" data-subject="">
 
 I didn't start a bashing anything.  I posted an article and you can disagree all you like.  I just don't think "you're stupid" is going to win you any arguments.
 
 </div>
 
-<div class="post" data-post-id="26654" data-author="*juggleblood*" data-date="2008-10-11T14:36:12+00:00">
+<div class="post" data-post-id="26654" data-author="*juggleblood*" data-date="2008-10-11T14:36:12+00:00" data-subject="">
 
 Weasel, 
 
@@ -130,7 +130,7 @@ Weasel,
 
 </div>
 
-<div class="post" data-post-id="26655" data-author="Weasel" data-date="2008-10-11T14:51:39+00:00">
+<div class="post" data-post-id="26655" data-author="Weasel" data-date="2008-10-11T14:51:39+00:00" data-subject="">
 
 Weasel, 
 
@@ -150,7 +150,7 @@ Weasel,
 
 </div>
 
-<div class="post" data-post-id="26656" data-author="Weasel" data-date="2008-10-11T14:59:54+00:00">
+<div class="post" data-post-id="26656" data-author="Weasel" data-date="2008-10-11T14:59:54+00:00" data-subject="">
 
 Back to Palin,  the investigation was "a partisan-led inquiry" run by supporters of Democratic presidential candidate Sen. Barack Obama. [b:c8onazvu]The inquiry found that Monegan's firing broke no law.[/b:c8onazvu]
 
@@ -170,7 +170,7 @@ Once again, if you don't see this for the Obama-promoting smear that it is, you'
 
 </div>
 
-<div class="post" data-post-id="26657" data-author="Mosaix" data-date="2008-10-11T16:01:02+00:00">
+<div class="post" data-post-id="26657" data-author="Mosaix" data-date="2008-10-11T16:01:02+00:00" data-subject="">
 
 No-one has to prove anything to you. 
 
@@ -178,13 +178,13 @@ Try to play and enjoy a slothmud game.
 
 </div>
 
-<div class="post" data-post-id="26658" data-author="Medios" data-date="2008-10-11T16:33:46+00:00">
+<div class="post" data-post-id="26658" data-author="Medios" data-date="2008-10-11T16:33:46+00:00" data-subject="">
 
 At this point neither side will care what comes out about either candidate.  I will be glad when the election is over with so we can get back to ruining the country with deficit spending and more government.
 
 </div>
 
-<div class="post" data-post-id="26659" data-author="Weasel" data-date="2008-10-11T19:57:16+00:00">
+<div class="post" data-post-id="26659" data-author="Weasel" data-date="2008-10-11T19:57:16+00:00" data-subject="">
 
 I will be glad when the election is over with so we can get back to ruining the country with deficit spending and more government.[/quote:tzobzcwj]
 
@@ -192,7 +192,7 @@ LOL.. true that.  :D
 
 </div>
 
-<div class="post" data-post-id="26660" data-author="Weasel" data-date="2008-10-11T19:58:55+00:00">
+<div class="post" data-post-id="26660" data-author="Weasel" data-date="2008-10-11T19:58:55+00:00" data-subject="">
 
 I just don't think "you're stupid" is going to win you any arguments.[/quote:2626er3f]
 
@@ -202,7 +202,7 @@ Fair enough, that was a bad call on my part. I'll rephrase it: Obama thinks most
 
 </div>
 
-<div class="post" data-post-id="26661" data-author="*juggleblood*" data-date="2008-10-11T21:13:59+00:00">
+<div class="post" data-post-id="26661" data-author="*juggleblood*" data-date="2008-10-11T21:13:59+00:00" data-subject="">
 
 Already been proven...  
 
@@ -210,7 +210,7 @@ edit: prove you aren't.
 
 </div>
 
-<div class="post" data-post-id="26662" data-author="Weasel" data-date="2008-10-11T21:15:31+00:00">
+<div class="post" data-post-id="26662" data-author="Weasel" data-date="2008-10-11T21:15:31+00:00" data-subject="">
 
 Already been proven...  [/quote:clmwdgiq]
 
@@ -218,7 +218,7 @@ Apparently so, judging by the fact he's currently leading the polls.
 
 </div>
 
-<div class="post" data-post-id="26664" data-author="Weasel" data-date="2008-10-11T21:24:40+00:00">
+<div class="post" data-post-id="26664" data-author="Weasel" data-date="2008-10-11T21:24:40+00:00" data-subject="">
 
 edit: prove you aren't.[/quote:20d08yy8]
 
@@ -226,7 +226,7 @@ LOL.. easy - I can see through Obama's BS cultist personality and read the facts
 
 </div>
 
-<div class="post" data-post-id="26667" data-author="jezer" data-date="2008-10-12T01:51:35+00:00">
+<div class="post" data-post-id="26667" data-author="jezer" data-date="2008-10-12T01:51:35+00:00" data-subject="">
 
 [img:3f8r1ta2]http://www.bboy.org/forums/attachments/general-discussion/20330d1208461064-motivational-posters-superhero.jpg[/img:3f8r1ta2]
 
@@ -236,7 +236,7 @@ Vote Broly, he won't let you down.
 
 </div>
 
-<div class="post" data-post-id="26668" data-author="Yasik2" data-date="2008-10-12T20:39:10+00:00">
+<div class="post" data-post-id="26668" data-author="Yasik2" data-date="2008-10-12T20:39:10+00:00" data-subject="">
 
 This thread needs moar tits!
 
@@ -246,7 +246,7 @@ I deliver.
 
 </div>
 
-<div class="post" data-post-id="26679" data-author="Weasel" data-date="2008-10-13T21:59:13+00:00">
+<div class="post" data-post-id="26679" data-author="Weasel" data-date="2008-10-13T21:59:13+00:00" data-subject="">
 
 From the horse's mouth:
 
@@ -256,7 +256,7 @@ You want socialism? Vote Obama.
 
 </div>
 
-<div class="post" data-post-id="26683" data-author="*juggleblood*" data-date="2008-10-14T01:10:27+00:00">
+<div class="post" data-post-id="26683" data-author="*juggleblood*" data-date="2008-10-14T01:10:27+00:00" data-subject="">
 
 [url:o2wgxl5x]http://www.youtube.com/watch?v=V_SPcMJASdk[/url:o2wgxl5x]
 
@@ -264,7 +264,7 @@ pawned
 
 </div>
 
-<div class="post" data-post-id="26684" data-author="Weasel" data-date="2008-10-14T04:39:55+00:00">
+<div class="post" data-post-id="26684" data-author="Weasel" data-date="2008-10-14T04:39:55+00:00" data-subject="">
 
 [url:1miwyxsf][http://www.youtube.com/watch?v=V_SPcMJASdk](http://www.youtube.com/watch?v=V_SPcMJASdk)[/url:1miwyxsf]
 
@@ -284,7 +284,7 @@ You want socialism? Vote Obama.
 
 </div>
 
-<div class="post" data-post-id="26685" data-author="tincts" data-date="2008-10-14T05:44:19+00:00">
+<div class="post" data-post-id="26685" data-author="tincts" data-date="2008-10-14T05:44:19+00:00" data-subject="">
 
 You want socialism? Vote Obama.[/quote:1fll8ygq]
 
@@ -296,7 +296,7 @@ That's some beautiful socialism there.
 
 </div>
 
-<div class="post" data-post-id="26686" data-author="Weasel" data-date="2008-10-14T05:57:22+00:00">
+<div class="post" data-post-id="26686" data-author="Weasel" data-date="2008-10-14T05:57:22+00:00" data-subject="">
 
 You want socialism? Vote Obama.[/quote:8b9o4ouz]
 
@@ -314,13 +314,13 @@ In short, your argument that government is already socialist actually supports w
 
 </div>
 
-<div class="post" data-post-id="26692" data-author="*juggleblood*" data-date="2008-10-14T21:09:34+00:00">
+<div class="post" data-post-id="26692" data-author="*juggleblood*" data-date="2008-10-14T21:09:34+00:00" data-subject="">
 
 In short, you are a right wing nutjob, just like the people who have been ruining our country for the last 8 years.
 
 </div>
 
-<div class="post" data-post-id="26695" data-author="Tap" data-date="2008-10-15T00:01:11+00:00">
+<div class="post" data-post-id="26695" data-author="Tap" data-date="2008-10-15T00:01:11+00:00" data-subject="">
 
 Hello, typical white person here clinging to my gun and Bible. Still doubt NObama is a Marxist?
 
@@ -328,13 +328,13 @@ Hello, typical white person here clinging to my gun and Bible. Still doubt NObam
 
 </div>
 
-<div class="post" data-post-id="26696" data-author="jezer" data-date="2008-10-15T00:15:32+00:00">
+<div class="post" data-post-id="26696" data-author="jezer" data-date="2008-10-15T00:15:32+00:00" data-subject="">
 
 Why do you make people out to be black or white? Can't they be a shade of grey?
 
 </div>
 
-<div class="post" data-post-id="26697" data-author="Tap" data-date="2008-10-15T01:27:05+00:00">
+<div class="post" data-post-id="26697" data-author="Tap" data-date="2008-10-15T01:27:05+00:00" data-subject="">
 
 I don't trust Greys, they like forcing things up your bum.
 
@@ -342,7 +342,7 @@ I don't trust Greys, they like forcing things up your bum.
 
 </div>
 
-<div class="post" data-post-id="26698" data-author="*juggleblood*" data-date="2008-10-15T02:27:12+00:00">
+<div class="post" data-post-id="26698" data-author="*juggleblood*" data-date="2008-10-15T02:27:12+00:00" data-subject="">
 
 Maybe you could label Obama a Marxist, but then what should we call the Republicans? The fascist party? 
 
@@ -356,7 +356,7 @@ edit: I hate grey people.
 
 </div>
 
-<div class="post" data-post-id="26700" data-author="Weasel" data-date="2008-10-15T03:18:09+00:00">
+<div class="post" data-post-id="26700" data-author="Weasel" data-date="2008-10-15T03:18:09+00:00" data-subject="">
 
 In short, you are a right wing nutjob, just like the people who have been ruining our country for the last 8 years.[/quote:2pr2hg4i]
 
@@ -398,7 +398,7 @@ Socialism has never worked anywhere. It keeps the poor poor, turns the middle cl
 
 </div>
 
-<div class="post" data-post-id="26701" data-author="jezer" data-date="2008-10-15T03:37:22+00:00">
+<div class="post" data-post-id="26701" data-author="jezer" data-date="2008-10-15T03:37:22+00:00" data-subject="">
 
 Who does one vote for, if you believe in some ideals of Capitalism and Socialism to certain degrees? You need balance! 
 
@@ -414,7 +414,7 @@ This is like a war over +1 mana regen per tick... sure it's nice, but it's effec
 
 </div>
 
-<div class="post" data-post-id="26702" data-author="Weasel" data-date="2008-10-15T03:50:49+00:00">
+<div class="post" data-post-id="26702" data-author="Weasel" data-date="2008-10-15T03:50:49+00:00" data-subject="">
 
 Yeah it's weird J[b:33fntbwj]ezer[/b:33fntbwj]. When I came here from NZ I was laughing at the 'eww you're a democrat' 'eww you're a republican' bollox that goes on here. I mean seriously, people base their entire group of friends on their political affiliation, it's really bizarre, I just couldn't figure it out. I guess I've lived here long enough now that I've got sucked into it too, because it [i:33fntbwj]will[/i:33fntbwj] effect how we live, way more than it ever did when I lived in NZ. Thanks for the reminder of where I come from though - down under - and that's where we'll be heading when it really turns to custard here. 
 
@@ -424,7 +424,7 @@ What say you?
 
 </div>
 
-<div class="post" data-post-id="26703" data-author="*juggleblood*" data-date="2008-10-15T04:13:39+00:00">
+<div class="post" data-post-id="26703" data-author="*juggleblood*" data-date="2008-10-15T04:13:39+00:00" data-subject="">
 
 This is the single most important election that will occur in our lifetimes. What we are observing is a not just a political realignment of the parties, but a revaluing of our national priorities as a nation. Meanwhile we all hold our breath hoping the entire economic order doesn't come crashing down on our heads. 
 
@@ -434,7 +434,7 @@ I don't buy the argument that the harmony of the mud is affected by political bi
 
 </div>
 
-<div class="post" data-post-id="26704" data-author="Weasel" data-date="2008-10-15T04:18:22+00:00">
+<div class="post" data-post-id="26704" data-author="Weasel" data-date="2008-10-15T04:18:22+00:00" data-subject="">
 
 Wow. I don't appreciate having that olive branch shoved up my a$$ - what an arrogant a$$hole you are.
 
@@ -444,7 +444,7 @@ There - that's probably a response you can relate too huh, d[b:2menzgjb]i[/b:2me
 
 </div>
 
-<div class="post" data-post-id="26705" data-author="jezer" data-date="2008-10-15T04:18:38+00:00">
+<div class="post" data-post-id="26705" data-author="jezer" data-date="2008-10-15T04:18:38+00:00" data-subject="">
 
 ignorant crap they spew on this forum.[/quote:1ax8lil4]
 
@@ -458,19 +458,19 @@ Oh, and btw, we climb up those shingle screes on the side of the mountain and ru
 
 </div>
 
-<div class="post" data-post-id="26706" data-author="Weasel" data-date="2008-10-15T04:20:51+00:00">
+<div class="post" data-post-id="26706" data-author="Weasel" data-date="2008-10-15T04:20:51+00:00" data-subject="">
 
 Nice - Mount Cook I believe.  :)
 
 </div>
 
-<div class="post" data-post-id="26707" data-author="Tap" data-date="2008-10-15T04:22:45+00:00">
+<div class="post" data-post-id="26707" data-author="Tap" data-date="2008-10-15T04:22:45+00:00" data-subject="Time to drop the &quot;F&quot; bomb">
 
 [img:2mz4xq5t]http://www.roflcat.com/images/cats/keyboard.jpg[/img:2mz4xq5t]
 
 </div>
 
-<div class="post" data-post-id="26709" data-author="brady" data-date="2008-10-15T12:44:10+00:00">
+<div class="post" data-post-id="26709" data-author="brady" data-date="2008-10-15T12:44:10+00:00" data-subject="">
 
 what an arrogant a$$hole you are.[/quote:3mh5fysb]
 
@@ -478,7 +478,7 @@ That's just hilarious.
 
 </div>
 
-<div class="post" data-post-id="26710" data-author="Weasel" data-date="2008-10-15T13:44:06+00:00">
+<div class="post" data-post-id="26710" data-author="Weasel" data-date="2008-10-15T13:44:06+00:00" data-subject="">
 
 Yeah yeah whatever, make this about me then and call me racist and retarded if that helps you deny the issues with Obama. Still nobody has offered [b:21xhnla1]anything[/b:21xhnla1] to refute the facts about Obama, or to persuade me I'm wrong.
 
@@ -488,13 +488,13 @@ What Juggleblood did say (which I agree with), is that "What we are observing is
 
 </div>
 
-<div class="post" data-post-id="26711" data-author="brady" data-date="2008-10-15T13:58:43+00:00">
+<div class="post" data-post-id="26711" data-author="brady" data-date="2008-10-15T13:58:43+00:00" data-subject="">
 
 You're respect isn't important to me.  Neither is this discussion.
 
 </div>
 
-<div class="post" data-post-id="26712" data-author="Weasel" data-date="2008-10-15T14:17:10+00:00">
+<div class="post" data-post-id="26712" data-author="Weasel" data-date="2008-10-15T14:17:10+00:00" data-subject="">
 
 You're respect isn't important to me.  Neither is this discussion.[/quote:w80do0wl]
 
@@ -504,7 +504,7 @@ Guilty conscience perhaps?
 
 </div>
 
-<div class="post" data-post-id="26714" data-author="Poggle" data-date="2008-10-15T17:06:11+00:00">
+<div class="post" data-post-id="26714" data-author="Poggle" data-date="2008-10-15T17:06:11+00:00" data-subject="">
 
 Hi
 
@@ -522,7 +522,7 @@ Or at least a link to someone who has that evidence.
 
 </div>
 
-<div class="post" data-post-id="26718" data-author="jezer" data-date="2008-10-15T23:49:52+00:00">
+<div class="post" data-post-id="26718" data-author="jezer" data-date="2008-10-15T23:49:52+00:00" data-subject="">
 
 I have not seen any evidence, just claims.[/quote:1tkgv05c]
 
@@ -534,13 +534,13 @@ Republican! Democrat! Socialism! Take that you scurvy dog!
 
 </div>
 
-<div class="post" data-post-id="26719" data-author="Poggle" data-date="2008-10-16T00:35:07+00:00">
+<div class="post" data-post-id="26719" data-author="Poggle" data-date="2008-10-16T00:35:07+00:00" data-subject="">
 
 My hope was simply to remove the stupid claims without real evidence, not make sure the stupid claims had stupid evidence to back them up.
 
 </div>
 
-<div class="post" data-post-id="26721" data-author="reboog" data-date="2008-10-16T00:53:12+00:00">
+<div class="post" data-post-id="26721" data-author="reboog" data-date="2008-10-16T00:53:12+00:00" data-subject="">
 
 To Weasel:
 
@@ -558,7 +558,7 @@ Reboog
 
 </div>
 
-<div class="post" data-post-id="26723" data-author="reboog" data-date="2008-10-16T01:03:55+00:00">
+<div class="post" data-post-id="26723" data-author="reboog" data-date="2008-10-16T01:03:55+00:00" data-subject="">
 
 Arnold Kling says that there is a huge divide between those who make the policies, and those who actually understand the policies.  I doubt anyone in the house truly understood what they were passing.  He calls it "suits vs. geeks."
 
@@ -568,7 +568,7 @@ On a side note, take any politician, Republican or Democrat, and find one who wo
 
 </div>
 
-<div class="post" data-post-id="26724" data-author="Tap" data-date="2008-10-16T03:04:16+00:00">
+<div class="post" data-post-id="26724" data-author="Tap" data-date="2008-10-16T03:04:16+00:00" data-subject="">
 
 Not all banks "participated" but more than enough gave in to loans that shouldn't have to avoid negative publicity ala "that bank is racist" blah, blah, blah. It's a proven fact that the government had policies that penalized banks and pulled funding if said bank didn't "approve" certain loans.
 
@@ -582,7 +582,7 @@ GMAFB
 
 </div>
 
-<div class="post" data-post-id="26725" data-author="Weasel" data-date="2008-10-16T11:28:27+00:00">
+<div class="post" data-post-id="26725" data-author="Weasel" data-date="2008-10-16T11:28:27+00:00" data-subject="">
 
 â€œThe National Homeownership Strategy: Partners in the American Dreamâ€ is a Clinton-era document. The National Homeownership Strategy began in 1994 when Clinton directed HUD Secretary Henry Cisneros to come up with a plan, and Cisneros convened what HUD called a "historic meeting" of private and public housing-industry organizations in August 1994. His administration went to ridiculous lengths to increase the national homeownership rate - it promoted paper-thin downpayments and pushed for ways to get lenders to give mortgage loans to first-time buyers with shaky financing and incomes. Itâ€™s clear now that the erosion of lending standards pushed prices up by increasing demand, and later led to waves of defaults by people who never should have bought a home in the first place."
 
@@ -614,7 +614,7 @@ Go look up Obama's associations yourself, I'm too disgusted to read through that
 
 </div>
 
-<div class="post" data-post-id="26728" data-author="alias" data-date="2008-10-16T22:54:03+00:00">
+<div class="post" data-post-id="26728" data-author="alias" data-date="2008-10-16T22:54:03+00:00" data-subject="">
 
 Freedom from being wiretapped w/o a warrant?
 
@@ -630,7 +630,7 @@ Got pulled over the other day and first thing I told the cop was I have a permit
 
 </div>
 
-<div class="post" data-post-id="26729" data-author="*juggleblood*" data-date="2008-10-16T23:33:39+00:00">
+<div class="post" data-post-id="26729" data-author="*juggleblood*" data-date="2008-10-16T23:33:39+00:00" data-subject="">
 
 [b:i7olmdzp]Listen, if you [i:i7olmdzp]want[/i:i7olmdzp] socialism, then just say so, and we'll have nothing more to argue about.[/b:i7olmdzp] That I can accept and respect. It's the complete denial of facts that are right in front of your face that I've had a problem with.[/quote:i7olmdzp]
 
@@ -644,7 +644,7 @@ Edit: I feel your pain Todd. This summer I was accused of stealing gutters, of s
 
 </div>
 
-<div class="post" data-post-id="26731" data-author="jezer" data-date="2008-10-16T23:52:19+00:00">
+<div class="post" data-post-id="26731" data-author="jezer" data-date="2008-10-16T23:52:19+00:00" data-subject="">
 
 Got pulled over the other day and first thing I told the cop was I have a permit for personal protection and my weapon was in my center console of the car. Before I could blink I was jerked out of my vehicle and searched by one officer while another went through my car looking for "stuff". After not finding any "stuff", other than my glock, I was asked to produce my permit and on doing so was given a warning for running a yellow light and told to have a nice day.[/quote:11kf4z95]
 
@@ -652,7 +652,7 @@ Next time switch out of Undead Control Eq before you leave the house... you will
 
 </div>
 
-<div class="post" data-post-id="26733" data-author="Weasel" data-date="2008-10-17T01:49:31+00:00">
+<div class="post" data-post-id="26733" data-author="Weasel" data-date="2008-10-17T01:49:31+00:00" data-subject="">
 
 I just want you to admit that the Republican party is a joke and so is candidate McCain and Palin.[/quote:gkobmdmx]
 
@@ -668,13 +668,13 @@ Here's a link on his gun control policies, see if you can figure out how it effe
 
 </div>
 
-<div class="post" data-post-id="26734" data-author="*juggleblood*" data-date="2008-10-17T03:41:12+00:00">
+<div class="post" data-post-id="26734" data-author="*juggleblood*" data-date="2008-10-17T03:41:12+00:00" data-subject="">
 
 Yeah, but where do you get your information about what Obama represents? Do you really believe Fox News is fair and balanced? Do you really think people like Lou Dobbs on CNN are real journalists? Your commie pinko rhetoric that you like to paint Obama with is just silly.
 
 </div>
 
-<div class="post" data-post-id="26735" data-author="Weasel" data-date="2008-10-17T03:47:18+00:00">
+<div class="post" data-post-id="26735" data-author="Weasel" data-date="2008-10-17T03:47:18+00:00" data-subject="">
 
 Just edited my last comment, including adding a link if that helps. As for the media.. wouldn't trust them as far as I could spit 'em most of the time. The bulk of the MSM is clearly pro-Obama, with a few exceptions who find going against the tide equals controversy and therefor bigger ratings. Generally speaking, their motivation is neither truth nor responsible reporting, but whatever generates the most attention. That's just my opinion though.
 
@@ -682,7 +682,7 @@ I try to look at various sources and look for hard evidence or at least corrobor
 
 </div>
 
-<div class="post" data-post-id="26736" data-author="Mosaix" data-date="2008-10-17T04:26:50+00:00">
+<div class="post" data-post-id="26736" data-author="Mosaix" data-date="2008-10-17T04:26:50+00:00" data-subject="">
 
 Weasel you give the Bush Administration a free pass on its socialst actions, so your argument about Obama being one goes no-where.  
 
@@ -698,7 +698,7 @@ Thus you are seeing why McCain is getting his ass kicked in the polls.  You cant
 
 </div>
 
-<div class="post" data-post-id="26737" data-author="*juggleblood*" data-date="2008-10-17T04:31:56+00:00">
+<div class="post" data-post-id="26737" data-author="*juggleblood*" data-date="2008-10-17T04:31:56+00:00" data-subject="">
 
 so what do you think obama is going to to socialize the country? 
 
@@ -722,13 +722,13 @@ Shrink military spending? I hope so.
 
 </div>
 
-<div class="post" data-post-id="26738" data-author="jezer" data-date="2008-10-17T04:59:51+00:00">
+<div class="post" data-post-id="26738" data-author="jezer" data-date="2008-10-17T04:59:51+00:00" data-subject="">
 
 A good first start by any government would be to confiscate pooka's glock. Do you trust a necro with a hand gun?... I sure don't. That's got Socibamacainrepdem stamped all over it... and we know what that means... no almonds in the fridge.  :evil:
 
 </div>
 
-<div class="post" data-post-id="26741" data-author="Weasel" data-date="2008-10-17T13:46:42+00:00">
+<div class="post" data-post-id="26741" data-author="Weasel" data-date="2008-10-17T13:46:42+00:00" data-subject="">
 
 Weasel you give the Bush Administration a free pass on its socialst actions, so your argument about Obama being one goes no-where. [/quote:30ftjoqi]
 
@@ -742,13 +742,13 @@ This is pointless.
 
 </div>
 
-<div class="post" data-post-id="26742" data-author="Weasel" data-date="2008-10-17T13:56:52+00:00">
+<div class="post" data-post-id="26742" data-author="Weasel" data-date="2008-10-17T13:56:52+00:00" data-subject="">
 
 I'm going to try very hard not to respond to this thread any more. I can't guarantee I wont, but I'll try. The reason is simple: futility. I've tried to present what is wrong with Obama. You have failed to refute those points or barely even address them, but rather just ignore and deflect onto Bush or call me names or go on some other tangent - anything rather than deal with the issues. I sincerely hope things don't turn out the way I fear they will with Obama as POTUS, but I'm not holding my breath on that one. If that's the bed you want to sleep in without at least checking it out for bugs first, then good luck to you. Just don't say you weren't warned.
 
 </div>
 
-<div class="post" data-post-id="26746" data-author="Poggle" data-date="2008-10-17T18:59:19+00:00">
+<div class="post" data-post-id="26746" data-author="Poggle" data-date="2008-10-17T18:59:19+00:00" data-subject="">
 
 Dude, yes it is futile to try to change people's minds if they're set on something.
 
@@ -764,25 +764,25 @@ The Republican Secretary of the Treasury Henry Paulson?
 
 </div>
 
-<div class="post" data-post-id="26747" data-author="reboog" data-date="2008-10-17T19:22:48+00:00">
+<div class="post" data-post-id="26747" data-author="reboog" data-date="2008-10-17T19:22:48+00:00" data-subject="">
 
 by the way, hi
 
 </div>
 
-<div class="post" data-post-id="26752" data-author="alias" data-date="2008-10-17T22:50:23+00:00">
+<div class="post" data-post-id="26752" data-author="alias" data-date="2008-10-17T22:50:23+00:00" data-subject="">
 
 Rebog has the best post in this in thread.
 
 </div>
 
-<div class="post" data-post-id="26757" data-author="jezer" data-date="2008-10-18T13:36:40+00:00">
+<div class="post" data-post-id="26757" data-author="jezer" data-date="2008-10-18T13:36:40+00:00" data-subject="">
 
 Rebog: bad nick length.
 
 </div>
 
-<div class="post" data-post-id="26762" data-author="Tap" data-date="2008-10-18T20:11:51+00:00">
+<div class="post" data-post-id="26762" data-author="Tap" data-date="2008-10-18T20:11:51+00:00" data-subject="">
 
 Alias wrote a long time ago [quote:33t0v2r5]Got pulled over the other day and first thing I told the cop was I have a permit for personal protection and my weapon was in my center console of the car. Before I could blink I was jerked out of my vehicle and searched by one officer while another went through my car looking for "stuff". After not finding any "stuff", other than my glock, I was asked to produce my permit and on doing so was given a warning for running a yellow light and told to have a nice day.[/quote:33t0v2r5]
 
@@ -796,7 +796,7 @@ should try to "impose" a total new way of life for all..well..I'm sure someone w
 
 </div>
 
-<div class="post" data-post-id="26772" data-author="Rynquald" data-date="2008-10-19T20:43:57+00:00">
+<div class="post" data-post-id="26772" data-author="Rynquald" data-date="2008-10-19T20:43:57+00:00" data-subject="">
 
 Trouble is, it's not only one person. Democracy only protects freedom until you get the first fascist in power, then good luck using a vote to maintain (or restore) your civil liberties.
 
@@ -810,7 +810,7 @@ In the end, power does corrupt. And IMO very, very few leaders wouldn't create a
 
 </div>
 
-<div class="post" data-post-id="26784" data-author="Medios" data-date="2008-10-20T21:20:25+00:00">
+<div class="post" data-post-id="26784" data-author="Medios" data-date="2008-10-20T21:20:25+00:00" data-subject="">
 
 Alias wrote a long time ago [quote:14498rxj]Got pulled over the other day and first thing I told the cop was I have a permit for personal protection and my weapon was in my center console of the car. Before I could blink I was jerked out of my vehicle and searched by one officer while another went through my car looking for "stuff". After not finding any "stuff", other than my glock, I was asked to produce my permit and on doing so was given a warning for running a yellow light and told to have a nice day.[/quote:14498rxj]
 
@@ -830,7 +830,7 @@ The only way I see it as a possibility is this scenario.  President declares mar
 
 </div>
 
-<div class="post" data-post-id="26785" data-author="Tap" data-date="2008-10-20T22:22:57+00:00">
+<div class="post" data-post-id="26785" data-author="Tap" data-date="2008-10-20T22:22:57+00:00" data-subject="">
 
 You make valid points however,
 
@@ -842,7 +842,7 @@ Well, not only. I don't even own a gun although I do have a license...If NObama 
 
 </div>
 
-<div class="post" data-post-id="26788" data-author="Weasel" data-date="2008-10-20T22:49:11+00:00">
+<div class="post" data-post-id="26788" data-author="Weasel" data-date="2008-10-20T22:49:11+00:00" data-subject="">
 
 hmm. Your word against half a dozen cops saying you gave probable cause for entry.. sorry, you lose. And don't think the president doesn't have the power to 'temporarily' waive Constitutional Rights - we've already seen it with the Patriot Act. 
 
@@ -850,7 +850,7 @@ Think.
 
 </div>
 
-<div class="post" data-post-id="26793" data-author="jezer" data-date="2008-10-21T03:52:01+00:00">
+<div class="post" data-post-id="26793" data-author="jezer" data-date="2008-10-21T03:52:01+00:00" data-subject="">
 
 I've never been an "American Basher" (I'm still not) in fact I've been pro America when it's come to world politics and stuff. But I'm sorry to say, after analysing this thread, your countries ideals are a sorry pile of crap. It seems everyone is trying to exercise there free right to do anything they want (within reason), and they wonder why the heck they hack so many people off in the process. Go figure...
 
@@ -868,19 +868,19 @@ It just goes on and on and on... all because selfish people believe in exercisin
 
 </div>
 
-<div class="post" data-post-id="26796" data-author="Mosaix" data-date="2008-10-21T04:16:17+00:00">
+<div class="post" data-post-id="26796" data-author="Mosaix" data-date="2008-10-21T04:16:17+00:00" data-subject="">
 
 [img:12hheb3c]http://www.bloops.org/images/weasel_stfu_1.jpg[/img:12hheb3c]
 
 </div>
 
-<div class="post" data-post-id="26798" data-author="Weasel" data-date="2008-10-21T11:48:08+00:00">
+<div class="post" data-post-id="26798" data-author="Weasel" data-date="2008-10-21T11:48:08+00:00" data-subject="">
 
 [img:2upq3e7f]http://revistes.upc.es/wiki/images/f/f2/Rofl-mao.jpg[/img:2upq3e7f]
 
 </div>
 
-<div class="post" data-post-id="26803" data-author="Rynquald" data-date="2008-10-21T22:13:50+00:00">
+<div class="post" data-post-id="26803" data-author="Rynquald" data-date="2008-10-21T22:13:50+00:00" data-subject="">
 
 Oh of course, all the problems are caused by the fact that people have rights. Everything would work so much better if people would just stop going on about "freedom of expression", "habeas corpus", "right to self-defence" and all the other silly little things enshrined in the foundation laws of free nations.
 
@@ -890,7 +890,7 @@ I'm sure there are plenty of examples of nations throughout history that restric
 
 </div>
 
-<div class="post" data-post-id="26804" data-author="jezer" data-date="2008-10-21T23:38:39+00:00">
+<div class="post" data-post-id="26804" data-author="jezer" data-date="2008-10-21T23:38:39+00:00" data-subject="">
 
 Yeah my comment was idealistic... but just because idealism is unobtainable is no excuse to settle for the "lowest common denominator" crap.
 
@@ -902,13 +902,13 @@ The only thing that properly counters greed, selfishness and control is actually
 
 </div>
 
-<div class="post" data-post-id="26805" data-author="Tap" data-date="2008-10-22T01:23:28+00:00">
+<div class="post" data-post-id="26805" data-author="Tap" data-date="2008-10-22T01:23:28+00:00" data-subject="">
 
 I'm sure the people of North Korea would disagree. I don't think they had a choice of giving up their rights for the betterment of their fellow man. It was "coaxed" out of them . Better to die standing than living on your knees.
 
 </div>
 
-<div class="post" data-post-id="26808" data-author="jezer" data-date="2008-10-22T02:35:13+00:00">
+<div class="post" data-post-id="26808" data-author="jezer" data-date="2008-10-22T02:35:13+00:00" data-subject="">
 
 Point of View... Tap...
 
@@ -928,13 +928,13 @@ And we see this in America in a different way, by how everyone is concerned with
 
 </div>
 
-<div class="post" data-post-id="26809" data-author="Tap" data-date="2008-10-22T04:21:33+00:00">
+<div class="post" data-post-id="26809" data-author="Tap" data-date="2008-10-22T04:21:33+00:00" data-subject="">
 
 [img:1oloa8mt]http://www.punchlinemagazine.com/uploads/images/comedians/Ron%20White/RonWhite_Mid.jpg[/img:1oloa8mt]
 
 </div>
 
-<div class="post" data-post-id="26813" data-author="Medios" data-date="2008-10-22T20:14:33+00:00">
+<div class="post" data-post-id="26813" data-author="Medios" data-date="2008-10-22T20:14:33+00:00" data-subject="">
 
 Having "rights" and being greedy and/or mean to other people are totally unrelated.  Was Martin Luther King Jr. showing love or anger when he protested for blacks to receive the same "rights" as whites?  Your looking at this all backwards.  You fail to understand that the common denominator in corrupt governments is currency and the military power the currency gives to said leaders.  All forms of government have positive and negative aspects.  There can never be a perfect system as long as humans are involved.  
 
@@ -948,13 +948,13 @@ BTW I am damn sick of having to relog in after 5 min writing a post.
 
 </div>
 
-<div class="post" data-post-id="26814" data-author="*juggleblood*" data-date="2008-10-22T21:46:41+00:00">
+<div class="post" data-post-id="26814" data-author="*juggleblood*" data-date="2008-10-22T21:46:41+00:00" data-subject="">
 
 There was an interesting book by a reputable historian a while back called the Triumph of Conservatism in which he demonstrated that early in the history of corporate america, it was the companies themselves clamoring to be regulated and sponsoring major legislation. But one can see now where this eventually ends up, when the companies get too accustomed to writing their own rules.
 
 </div>
 
-<div class="post" data-post-id="26815" data-author="jezer" data-date="2008-10-22T23:39:40+00:00">
+<div class="post" data-post-id="26815" data-author="jezer" data-date="2008-10-22T23:39:40+00:00" data-subject="">
 
 Yeah, what I've said about rights has been quite confusing because rights is amoral... Rights can be good AND bad... so it's confuses what I've said. 
 
@@ -966,7 +966,7 @@ I like to think true power is actually the opposite of how we see it in the worl
 
 </div>
 
-<div class="post" data-post-id="26817" data-author="*juggleblood*" data-date="2008-10-23T02:42:24+00:00">
+<div class="post" data-post-id="26817" data-author="*juggleblood*" data-date="2008-10-23T02:42:24+00:00" data-subject="">
 
 I don't think human beings are any more or less greedy than they were 10k years ago.
 
@@ -974,7 +974,7 @@ The right likes to say that this mess was caused by greed, when in reality it wa
 
 </div>
 
-<div class="post" data-post-id="26819" data-author="jezer" data-date="2008-10-23T02:55:34+00:00">
+<div class="post" data-post-id="26819" data-author="jezer" data-date="2008-10-23T02:55:34+00:00" data-subject="">
 
 I don't think human beings are any more or less greedy than they were 10k years ago.[/quote:21lfm2fy]
 
@@ -982,7 +982,7 @@ There is a saying that I think is true... Times Change, People Don't.
 
 </div>
 
-<div class="post" data-post-id="26826" data-author="Medios" data-date="2008-10-23T21:01:37+00:00">
+<div class="post" data-post-id="26826" data-author="Medios" data-date="2008-10-23T21:01:37+00:00" data-subject="">
 
 I don't think human beings are any more or less greedy than they were 10k years ago.[/quote:idt6fybf]
 
@@ -992,7 +992,7 @@ I think this a bit short sighted.  I see progress in every generation.  Whether 
 
 </div>
 
-<div class="post" data-post-id="26843" data-author="Gimlet" data-date="2008-10-25T12:41:48+00:00">
+<div class="post" data-post-id="26843" data-author="Gimlet" data-date="2008-10-25T12:41:48+00:00" data-subject="">
 
 I'm no US-citizen, nor am i pro or anti USA.
 
@@ -1006,7 +1006,7 @@ I admire the panache with which most of you argue about domestic politics.  I on
 
 </div>
 
-<div class="post" data-post-id="26844" data-author="Medios" data-date="2008-10-25T16:03:20+00:00">
+<div class="post" data-post-id="26844" data-author="Medios" data-date="2008-10-25T16:03:20+00:00" data-subject="">
 
 I'm no US-citizen, nor am i pro or anti USA.
 
@@ -1022,7 +1022,7 @@ So should the government make guns illegal?  How about knives?  How about self d
 
 </div>
 
-<div class="post" data-post-id="26846" data-author="Gimlet" data-date="2008-10-25T18:23:43+00:00">
+<div class="post" data-post-id="26846" data-author="Gimlet" data-date="2008-10-25T18:23:43+00:00" data-subject="">
 
 honestly at this point, whether or not society has guns makes no difference
 
@@ -1036,7 +1036,7 @@ ignore me, having a bad day
 
 </div>
 
-<div class="post" data-post-id="26848" data-author="Weasel" data-date="2008-10-25T18:44:05+00:00">
+<div class="post" data-post-id="26848" data-author="Weasel" data-date="2008-10-25T18:44:05+00:00" data-subject="">
 
 ignore me, having a bad day[/quote:26z8rg9k]
 
@@ -1044,7 +1044,7 @@ Ok, if you insist.    :twisted:
 
 </div>
 
-<div class="post" data-post-id="26857" data-author="Rynquald" data-date="2008-10-26T23:38:28+00:00">
+<div class="post" data-post-id="26857" data-author="Rynquald" data-date="2008-10-26T23:38:28+00:00" data-subject="">
 
 Privileges? A privilege is something given to you by someone who has control over your life, and by extension, your freedom. A child is given privileges by their parents. An adult human doesn't need to be given the "privilege" of freedom.
 
@@ -1054,13 +1054,13 @@ The ongoing problem of crime is merely a smokescreen to use as an excuse for eve
 
 </div>
 
-<div class="post" data-post-id="26858" data-author="brady" data-date="2008-10-27T00:00:05+00:00">
+<div class="post" data-post-id="26858" data-author="brady" data-date="2008-10-27T00:00:05+00:00" data-subject="">
 
 [img:2fa3pqd9]http://www.voidspace.org.uk/python/articles/images/minority-report.jpg[/img:2fa3pqd9]
 
 </div>
 
-<div class="post" data-post-id="26860" data-author="v1cious" data-date="2008-10-27T00:59:28+00:00">
+<div class="post" data-post-id="26860" data-author="v1cious" data-date="2008-10-27T00:59:28+00:00" data-subject="">
 
 I'm no US-citizen, nor am i pro or anti USA.
 
@@ -1082,7 +1082,7 @@ I think it's pretty safe to conclude that the line should be drawn somewhere.
 
 </div>
 
-<div class="post" data-post-id="26861" data-author="Rynquald" data-date="2008-10-27T02:29:26+00:00">
+<div class="post" data-post-id="26861" data-author="Rynquald" data-date="2008-10-27T02:29:26+00:00" data-subject="">
 
 Bringing nuclear weapons into a discussion over the second amendment (and equivalent laws) is a clear strawman argument.
 
@@ -1090,7 +1090,7 @@ No one is saying that we should be able to buy any of the other weapons with no 
 
 </div>
 
-<div class="post" data-post-id="26862" data-author="Gimlet" data-date="2008-10-27T03:11:40+00:00">
+<div class="post" data-post-id="26862" data-author="Gimlet" data-date="2008-10-27T03:11:40+00:00" data-subject="">
 
 if freedom is a fundamental right, etc etc, then there really isn't a need for a "bill of rights" is there?
 
@@ -1098,7 +1098,7 @@ since it pretty much "limits" your rights
 
 </div>
 
-<div class="post" data-post-id="26863" data-author="Tap" data-date="2008-10-27T03:52:44+00:00">
+<div class="post" data-post-id="26863" data-author="Tap" data-date="2008-10-27T03:52:44+00:00" data-subject="">
 
 Every man, no matter the nationality, should have the right to defend themselves. Think of all the killings that have occurred because someone didn't have a right to protect themselves. I live by a simple rule, don't F*ck with anyone - don't take no sh*t from anyone. Live and let live for all you kiddies out there.I would agree that their should be a limit of what type of gun one should be allowed to have according to the times at hand. I would not want my neighbor owning a machine gun BUT should the time come when he needed it.. I would be glad he had one to help protect me and vice-versa. I dunno...in these trying time and the way everything seems to be going to shit at an ever=increasing rate, I am both saddened and somewhat comforted that just perhaps...the good Lord is getting ready to make an appearance.
 
@@ -1108,7 +1108,7 @@ Somewhere around Nov. 14, the U.S. and several other countries are meeting to di
 
 </div>
 
-<div class="post" data-post-id="26864" data-author="v1cious" data-date="2008-10-27T03:54:53+00:00">
+<div class="post" data-post-id="26864" data-author="v1cious" data-date="2008-10-27T03:54:53+00:00" data-subject="">
 
 Bringing nuclear weapons into a discussion over the second amendment (and equivalent laws) is a clear strawman argument.
 
@@ -1124,13 +1124,13 @@ So let's hear what the guiding principle of yours is.
 
 </div>
 
-<div class="post" data-post-id="26865" data-author="Weasel" data-date="2008-10-27T11:04:39+00:00">
+<div class="post" data-post-id="26865" data-author="Weasel" data-date="2008-10-27T11:04:39+00:00" data-subject="">
 
 :roll:
 
 </div>
 
-<div class="post" data-post-id="26866" data-author="Vixn" data-date="2008-10-27T17:29:00+00:00">
+<div class="post" data-post-id="26866" data-author="Vixn" data-date="2008-10-27T17:29:00+00:00" data-subject="">
 
 I live by a simple rule, don't F*ck with anyone - don't take no sh*t from anyone.[/quote:2mexybrp]
 
@@ -1144,7 +1144,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="26867" data-author="13" data-date="2008-10-27T20:08:03+00:00">
+<div class="post" data-post-id="26867" data-author="13" data-date="2008-10-27T20:08:03+00:00" data-subject="">
 
 [quote:2wzk36k0] I will be glad when the election is over with so we can get back to ruining the country with deficit spending and more government.[/quote:2wzk36k0]
 
@@ -1152,7 +1152,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="26868" data-author="13" data-date="2008-10-27T20:15:52+00:00">
+<div class="post" data-post-id="26868" data-author="13" data-date="2008-10-27T20:15:52+00:00" data-subject="">
 
 While I agree that we should be able to keep and bear arms, I recognize the numbers that Canada and the UK put up every year.  I agree with a little
 
@@ -1174,7 +1174,7 @@ and the goodness of man.  What do you think?
 
 </div>
 
-<div class="post" data-post-id="26870" data-author="jezer" data-date="2008-10-27T22:34:23+00:00">
+<div class="post" data-post-id="26870" data-author="jezer" data-date="2008-10-27T22:34:23+00:00" data-subject="">
 
 I agree with a little socialism, a little communism, some democracy (occaisionally I think people are too stupid to choose the right thing for themselves), some libertarianism and some classic republican values.  I am a liberal that is very conservative in some ways.  I hate that we use currency but I realize the need for it.
 
@@ -1184,7 +1184,7 @@ You got my vote!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="26871" data-author="Tap" data-date="2008-10-28T00:53:59+00:00">
+<div class="post" data-post-id="26871" data-author="Tap" data-date="2008-10-28T00:53:59+00:00" data-subject="Dear Vixn">
 
 I'm not a pthief. I just hang out with them. Or use too....
 
@@ -1192,7 +1192,7 @@ I'm not a pthief. I just hang out with them. Or use too....
 
 </div>
 
-<div class="post" data-post-id="26874" data-author="Rynquald" data-date="2008-10-28T22:10:21+00:00">
+<div class="post" data-post-id="26874" data-author="Rynquald" data-date="2008-10-28T22:10:21+00:00" data-subject="">
 
 Bringing nuclear weapons into a discussion over the second amendment (and equivalent laws) is a clear strawman argument.
 
@@ -1212,7 +1212,7 @@ As for an actual answer to your question, I don't have a definitive one. The onl
 
 </div>
 
-<div class="post" data-post-id="26875" data-author="*juggleblood*" data-date="2008-10-28T22:18:33+00:00">
+<div class="post" data-post-id="26875" data-author="*juggleblood*" data-date="2008-10-28T22:18:33+00:00" data-subject="">
 
 it is. just requires constant vigilance.  I wish our system had more mechanisms by which the legislative branch could constrain the power of the executive.
 
@@ -1220,7 +1220,7 @@ Edit: what do you guys think will happen to the Republican party? I'm thinking i
 
 </div>
 
-<div class="post" data-post-id="26876" data-author="Tap" data-date="2008-10-29T00:07:09+00:00">
+<div class="post" data-post-id="26876" data-author="Tap" data-date="2008-10-29T00:07:09+00:00" data-subject="">
 
 I'm reminded of the story of the woman who helped a snake across the river and later was bit and as she was dying asked,"Why did you bite me?" to which the snake replied," I'm a snake, what did you expect?"
 
@@ -1232,13 +1232,13 @@ Oh...if Obama somehow receives a head wound and manages to make a miraculous rec
 
 </div>
 
-<div class="post" data-post-id="26878" data-author="jezer" data-date="2008-10-29T02:08:12+00:00">
+<div class="post" data-post-id="26878" data-author="jezer" data-date="2008-10-29T02:08:12+00:00" data-subject="">
 
 Yeah, I reckon if Obama gets taken out by some one while he's president we will see scenes like the LA riots all over again, and this time throughout the entire country. There will be burning, looting and murder. The world will stand by and marvel at the hypocrisy of what America stood for, and what happens in there own back yard. There is a keg, and it's only a matter of time before somehow it explodes... all it needs is some event, some ignition point... KABOOM!  :shock:
 
 </div>
 
-<div class="post" data-post-id="26883" data-author="13" data-date="2008-10-30T09:37:47+00:00">
+<div class="post" data-post-id="26883" data-author="13" data-date="2008-10-30T09:37:47+00:00" data-subject="">
 
 if Obama gets elected and shot it will make Detroit and Oakland in the 60s 
 
@@ -1246,7 +1246,7 @@ look like your daughter's tea party with Carebears and my little pony.
 
 </div>
 
-<div class="post" data-post-id="26885" data-author="Medios" data-date="2008-10-30T21:27:38+00:00">
+<div class="post" data-post-id="26885" data-author="Medios" data-date="2008-10-30T21:27:38+00:00" data-subject="">
 
 if Obama gets elected and shot it will make Detroit and Oakland in the 60s 
 
@@ -1256,31 +1256,31 @@ While this might be true the sad fact is that they will burn down their own neig
 
 </div>
 
-<div class="post" data-post-id="26886" data-author="Weasel" data-date="2008-10-30T21:37:11+00:00">
+<div class="post" data-post-id="26886" data-author="Weasel" data-date="2008-10-30T21:37:11+00:00" data-subject="">
 
 Let 'em riot - heck, Philly just had riots complete with overturned and burned out vehicles, because they [i:1v4sk0w4]won[/i:1v4sk0w4] the world series. Classy town. Any excuse.
 
 </div>
 
-<div class="post" data-post-id="26899" data-author="*juggleblood*" data-date="2008-10-31T02:10:28+00:00">
+<div class="post" data-post-id="26899" data-author="*juggleblood*" data-date="2008-10-31T02:10:28+00:00" data-subject="">
 
 I heard 2 overturned vehicles. Didn't hear about the fire. As far as riots go, I'm unimpressed.
 
 </div>
 
-<div class="post" data-post-id="26989" data-author="jezer" data-date="2008-11-05T04:26:07+00:00">
+<div class="post" data-post-id="26989" data-author="jezer" data-date="2008-11-05T04:26:07+00:00" data-subject="">
 
 So weasel, looking like Obama's won... Any comment...? I want to see what kind of a sore loser you are...  :twisted: Maybe his bags are already packed to head back to NZ!
 
 </div>
 
-<div class="post" data-post-id="26990" data-author="Tap" data-date="2008-11-05T04:34:33+00:00">
+<div class="post" data-post-id="26990" data-author="Tap" data-date="2008-11-05T04:34:33+00:00" data-subject="">
 
 [img:3b68n7yf]http://farm4.static.flickr.com/3109/2826208369_86c4ffe7b7.jpg[/img:3b68n7yf]
 
 </div>
 
-<div class="post" data-post-id="26991" data-author="banedon" data-date="2008-11-05T04:44:25+00:00">
+<div class="post" data-post-id="26991" data-author="banedon" data-date="2008-11-05T04:44:25+00:00" data-subject="">
 
 (Bracing for the inevitable flames)
 
@@ -1292,13 +1292,13 @@ OK I've had my $ .02 worth, flame away
 
 </div>
 
-<div class="post" data-post-id="26993" data-author="jezer" data-date="2008-11-05T06:32:50+00:00">
+<div class="post" data-post-id="26993" data-author="jezer" data-date="2008-11-05T06:32:50+00:00" data-subject="">
 
 If you can't have a gun... and they can't have a gun either... how do you get shot?  :roll:
 
 </div>
 
-<div class="post" data-post-id="26994" data-author="banedon" data-date="2008-11-05T06:47:44+00:00">
+<div class="post" data-post-id="26994" data-author="banedon" data-date="2008-11-05T06:47:44+00:00" data-subject="">
 
 First off I didn't say criminals would have guns, there's all kinds of crimes that are prevented by potential victims having guns and their attackers not.
 
@@ -1306,7 +1306,7 @@ Second, if it became a crime to have a gun, law abiding citizens would turn in t
 
 </div>
 
-<div class="post" data-post-id="26995" data-author="jezer" data-date="2008-11-05T08:13:50+00:00">
+<div class="post" data-post-id="26995" data-author="jezer" data-date="2008-11-05T08:13:50+00:00" data-subject="">
 
 The more you give into fear, the more it overtakes you.
 
@@ -1316,7 +1316,7 @@ If you haven't noticed... every country wants nuke's these days, because another
 
 </div>
 
-<div class="post" data-post-id="26996" data-author="Leaf" data-date="2008-11-05T11:55:24+00:00">
+<div class="post" data-post-id="26996" data-author="Leaf" data-date="2008-11-05T11:55:24+00:00" data-subject="">
 
 What makes me kinda think about the country we live in, is everyone is saying
 
@@ -1332,7 +1332,7 @@ he is WHITE!!!
 
 </div>
 
-<div class="post" data-post-id="26997" data-author="Weasel" data-date="2008-11-05T13:07:42+00:00">
+<div class="post" data-post-id="26997" data-author="Weasel" data-date="2008-11-05T13:07:42+00:00" data-subject="">
 
 So weasel, looking like Obama's won... Any comment...? I want to see what kind of a sore loser you are...  :twisted: Maybe his bags are already packed to head back to NZ![/quote:t20dewi5]
 
@@ -1340,7 +1340,7 @@ It's been looking like he was going to win from the start. I was hoping it would
 
 </div>
 
-<div class="post" data-post-id="26998" data-author="Weasel" data-date="2008-11-05T13:10:02+00:00">
+<div class="post" data-post-id="26998" data-author="Weasel" data-date="2008-11-05T13:10:02+00:00" data-subject="">
 
 If you can't have a gun... and they can't have a gun either... how do you get shot?  :roll:[/quote:17ys1i9q]
 
@@ -1348,13 +1348,13 @@ LOL come live in NYC where guns are illegal. Almost every criminal has one anywa
 
 </div>
 
-<div class="post" data-post-id="26999" data-author="jezer" data-date="2008-11-05T13:35:54+00:00">
+<div class="post" data-post-id="26999" data-author="jezer" data-date="2008-11-05T13:35:54+00:00" data-subject="">
 
 So when you pull a gun on a crook, you don't get shot and he puts his weapon down right?  :roll:
 
 </div>
 
-<div class="post" data-post-id="27001" data-author="Shazuko" data-date="2008-11-05T16:45:23+00:00">
+<div class="post" data-post-id="27001" data-author="Shazuko" data-date="2008-11-05T16:45:23+00:00" data-subject="">
 
 Don't use this recent trend of universal 'political correctness'  as an excuse to asuage your constitutional rights, INCLUDING the right to protect yourself with a firearm. Everyone who just voted for this guy basically bent over and gave their asses away--and thats what he will do to the first country that wants to take it! As far as the right to bear arms, I dont need a piece of paper to tell me its common sense to keep someone else from causing me physical harm or worse! Get real, do you HONESTLY think the police are going to be there for you at a moments notice? Do you think they are your personal body guards with NOTHING to do but make sure no one attacks you?
 
@@ -1386,7 +1386,7 @@ When SECONDS count...the cops are only MINUTES away...
 
 </div>
 
-<div class="post" data-post-id="27004" data-author="Alberich" data-date="2008-11-05T17:43:07+00:00">
+<div class="post" data-post-id="27004" data-author="Alberich" data-date="2008-11-05T17:43:07+00:00" data-subject="">
 
 So weasel, looking like Obama's won... Any comment...? I want to see what kind of a sore loser you are...  :twisted: Maybe his bags are already packed to head back to NZ![/quote:3akvg0nt]
 
@@ -1398,7 +1398,7 @@ Get ready for some Democracy folks, it's best to just lie back and try to enjoy 
 
 </div>
 
-<div class="post" data-post-id="27012" data-author="Rynquald" data-date="2008-11-05T20:04:14+00:00">
+<div class="post" data-post-id="27012" data-author="Rynquald" data-date="2008-11-05T20:04:14+00:00" data-subject="">
 
 So, if someone doesn't believe that people having weapons with which to defend themselves reduces crime, but also isn't naive enough to believe that outlawing guns will stop criminals having them, what reason do they have to back gun control?
 
@@ -1412,7 +1412,7 @@ Finally, in general, the world is a safer place for many nations having nuclear 
 
 </div>
 
-<div class="post" data-post-id="27014" data-author="Stark" data-date="2008-11-05T20:11:03+00:00">
+<div class="post" data-post-id="27014" data-author="Stark" data-date="2008-11-05T20:11:03+00:00" data-subject="">
 
 Yes, the sheeple have spoken.
 
@@ -1424,7 +1424,7 @@ I wonder when people will realize that Barrack can't walk on water...
 
 </div>
 
-<div class="post" data-post-id="27020" data-author="jezer" data-date="2008-11-05T22:32:26+00:00">
+<div class="post" data-post-id="27020" data-author="jezer" data-date="2008-11-05T22:32:26+00:00" data-subject="">
 
 [img:1y37f8nl]http://www.photius.com/rogue_nations/victim.jpg[/img:1y37f8nl]
 
@@ -1438,7 +1438,7 @@ You make me really angry... I'm in half a mind to do a weasel.
 
 </div>
 
-<div class="post" data-post-id="27023" data-author="Avatar" data-date="2008-11-05T22:53:58+00:00">
+<div class="post" data-post-id="27023" data-author="Avatar" data-date="2008-11-05T22:53:58+00:00" data-subject="gun control">
 
 My opinions:
 
@@ -1450,7 +1450,7 @@ You don't punish people if they haven't performed a crime, and don't plan to.  R
 
 </div>
 
-<div class="post" data-post-id="27024" data-author="Rynquald" data-date="2008-11-05T23:16:37+00:00">
+<div class="post" data-post-id="27024" data-author="Rynquald" data-date="2008-11-05T23:16:37+00:00" data-subject="">
 
 I'm not a doctor, but the people in those images don't look like they were wounded by firearms.
 
@@ -1468,7 +1468,7 @@ Arguments that rely on provoking an emotional response rarely hold water.
 
 </div>
 
-<div class="post" data-post-id="27025" data-author="jezer" data-date="2008-11-05T23:24:43+00:00">
+<div class="post" data-post-id="27025" data-author="jezer" data-date="2008-11-05T23:24:43+00:00" data-subject="">
 
 Oh that's just lame! All violence is from the same prevailing attitude in man.
 
@@ -1476,7 +1476,7 @@ I'm out of this argument, you know you can't win when you get lame come backs li
 
 </div>
 
-<div class="post" data-post-id="27027" data-author="Avatar" data-date="2008-11-05T23:43:24+00:00">
+<div class="post" data-post-id="27027" data-author="Avatar" data-date="2008-11-05T23:43:24+00:00" data-subject="">
 
 Well, we're willing to think about it, at least.
 
@@ -1488,7 +1488,7 @@ It's not a perfect world, we just do the best we can.
 
 </div>
 
-<div class="post" data-post-id="27029" data-author="Tap" data-date="2008-11-05T23:45:33+00:00">
+<div class="post" data-post-id="27029" data-author="Tap" data-date="2008-11-05T23:45:33+00:00" data-subject="">
 
 Speaking of lame=
 
@@ -1520,7 +1520,7 @@ I'll agree with Alberich, best to sit back and watch what happens. I don't own a
 
 </div>
 
-<div class="post" data-post-id="27030" data-author="Rynquald" data-date="2008-11-05T23:45:43+00:00">
+<div class="post" data-post-id="27030" data-author="Rynquald" data-date="2008-11-05T23:45:43+00:00" data-subject="">
 
 I think everyone understands, and very likely agrees with, the position that the world would be a better place without violence, war, and so on.
 
@@ -1534,7 +1534,7 @@ That isn't rhetorical, I'm actually curious what you think.
 
 </div>
 
-<div class="post" data-post-id="27031" data-author="jezer" data-date="2008-11-06T00:05:16+00:00">
+<div class="post" data-post-id="27031" data-author="jezer" data-date="2008-11-06T00:05:16+00:00" data-subject="">
 
 Yes, short retirement... :oops: 
 
@@ -1546,7 +1546,7 @@ There is no point owning guns, if there is no use for them. And for the gun coll
 
 </div>
 
-<div class="post" data-post-id="27032" data-author="Rynquald" data-date="2008-11-06T00:26:27+00:00">
+<div class="post" data-post-id="27032" data-author="Rynquald" data-date="2008-11-06T00:26:27+00:00" data-subject="">
 
 I'm sorry but I don't fully understand the meaning of the "short retirement" comment.
 
@@ -1560,7 +1560,7 @@ In one post you complain about all the violence and death that occurs every day,
 
 </div>
 
-<div class="post" data-post-id="27033" data-author="jezer" data-date="2008-11-06T00:55:19+00:00">
+<div class="post" data-post-id="27033" data-author="jezer" data-date="2008-11-06T00:55:19+00:00" data-subject="">
 
 In one post you complain about all the violence and death that occurs every day, while in the next you accuse the people who are concerned about it happening to them of being unduly fearful.[/quote:lgduckso]
 
@@ -1574,7 +1574,7 @@ I would do all that I could to preserve my survival, while keeping the integrity
 
 </div>
 
-<div class="post" data-post-id="27034" data-author="Tap" data-date="2008-11-06T01:23:16+00:00">
+<div class="post" data-post-id="27034" data-author="Tap" data-date="2008-11-06T01:23:16+00:00" data-subject="">
 
 I think I understand where Jezer is coming from, he wants to ban people.
 
@@ -1582,7 +1582,7 @@ I think I understand where Jezer is coming from, he wants to ban people.
 
 </div>
 
-<div class="post" data-post-id="27035" data-author="Avatar" data-date="2008-11-06T01:24:07+00:00">
+<div class="post" data-post-id="27035" data-author="Avatar" data-date="2008-11-06T01:24:07+00:00" data-subject="">
 
 You do make a certain sense, and definitely have principles.  I hope the same, that I can get through life without harming others.
 
@@ -1592,7 +1592,7 @@ The disagreement comes later, when we're talking about the rights of other peopl
 
 </div>
 
-<div class="post" data-post-id="27036" data-author="Rynquald" data-date="2008-11-06T01:25:16+00:00">
+<div class="post" data-post-id="27036" data-author="Rynquald" data-date="2008-11-06T01:25:16+00:00" data-subject="">
 
 Well I think we've boiled this down beyond gun politics.
 
@@ -1602,7 +1602,7 @@ I think people with our two viewpoints can get along, they always have before. I
 
 </div>
 
-<div class="post" data-post-id="27037" data-author="jezer" data-date="2008-11-06T01:43:28+00:00">
+<div class="post" data-post-id="27037" data-author="jezer" data-date="2008-11-06T01:43:28+00:00" data-subject="">
 
 I think people with our two viewpoints can get along, they always have before. I'm not about to criticise you for not wanting to physically protect yourself, or even for wanting to put the fact that the world isn't a safe place out of your mind for the betterment of your life. Just don't attempt to stop me and others from being prepared and living life our way.[/quote:szqj4dvt]
 
@@ -1610,7 +1610,7 @@ I think that is the conclusion I have come to... and Avatar has eluded to as wel
 
 </div>
 
-<div class="post" data-post-id="27038" data-author="Weasel" data-date="2008-11-06T01:51:10+00:00">
+<div class="post" data-post-id="27038" data-author="Weasel" data-date="2008-11-06T01:51:10+00:00" data-subject="">
 
 But rynquald just proved my point... Once again... justification of owning weapons based solely on projected fears. Do you want to live your life under that weight? I choose not too.[/quote:11r2kofg]
 
@@ -1624,7 +1624,7 @@ LOL.
 
 </div>
 
-<div class="post" data-post-id="27039" data-author="jezer" data-date="2008-11-06T02:04:35+00:00">
+<div class="post" data-post-id="27039" data-author="jezer" data-date="2008-11-06T02:04:35+00:00" data-subject="">
 
 But rynquald just proved my point... Once again... justification of owning weapons based solely on projected fears. Do you want to live your life under that weight? I choose not too.[/quote:1286gumy]
 
@@ -1640,7 +1640,7 @@ There is a point when safety becomes fear... I don't think those things you sugg
 
 </div>
 
-<div class="post" data-post-id="27040" data-author="Tap" data-date="2008-11-06T02:15:37+00:00">
+<div class="post" data-post-id="27040" data-author="Tap" data-date="2008-11-06T02:15:37+00:00" data-subject="">
 
 Who? What? Where? 
 
@@ -1650,7 +1650,7 @@ But beyond gun control as far as Osama is concerned, it's just not gun control t
 
 </div>
 
-<div class="post" data-post-id="27041" data-author="Weasel" data-date="2008-11-06T02:18:08+00:00">
+<div class="post" data-post-id="27041" data-author="Weasel" data-date="2008-11-06T02:18:08+00:00" data-subject="">
 
 There is a point when safety becomes fear... I don't think those things you suggested crosses the lines... although it's a fine line. I have a strange urge to talk about Obama, why is that?  :twisted:[/quote:30oye6up]
 
@@ -1664,7 +1664,7 @@ Your opinion is likely quite valid for your situation (whatever it may be), but 
 
 </div>
 
-<div class="post" data-post-id="27042" data-author="jezer" data-date="2008-11-06T02:41:05+00:00">
+<div class="post" data-post-id="27042" data-author="jezer" data-date="2008-11-06T02:41:05+00:00" data-subject="">
 
 I can only assume you either don't understand this or have not thought of this because you don't live in an environment where the chances of being faced with violent crime is just an everyday part of life, as much as carrying an umbrella is if you live somewhere where it rains a lot. It's not a matter of fear, it's a matter of fact.[/quote:3clo3ky4]
 
@@ -1678,7 +1678,7 @@ Living with threats is life, letting it effect you, is a choice.
 
 </div>
 
-<div class="post" data-post-id="27043" data-author="Tap" data-date="2008-11-06T02:58:16+00:00">
+<div class="post" data-post-id="27043" data-author="Tap" data-date="2008-11-06T02:58:16+00:00" data-subject="">
 
 Hrm..you make the case as far as geography. We can all agree on that. I'd even say you were lucky that your two altercations only managed to bang you up. Personally, while we do have different points of view on gun control, I'd also be against forcing everyone to own a gun. The issue, you shouldn't have anything "forced" on you. Forcing someone to own/not own a gun is slavery..giving them an option (with guidelines/rules) is freedom. As someone who realises just how little freedom I have, my gut feeling is even those I might be deluded into thinking I have, well maybe not so much. I'll say it again, it's one thing to hear it on talk radio but when you hear straight from the horses mouth, hell how can you ignore it?
 
@@ -1686,7 +1686,7 @@ Hrm..you make the case as far as geography. We can all agree on that. I'd even s
 
 </div>
 
-<div class="post" data-post-id="27044" data-author="Weasel" data-date="2008-11-06T03:01:10+00:00">
+<div class="post" data-post-id="27044" data-author="Weasel" data-date="2008-11-06T03:01:10+00:00" data-subject="">
 
 So get rid of your guns, if no one has one, no firearm crime, no need to have one, it's really very simple.[/quote:o40xbroz]
 
@@ -1698,7 +1698,7 @@ And yes, as Tap says, gun ownership should not be a [i:o40xbroz]requirement[/i:o
 
 </div>
 
-<div class="post" data-post-id="27045" data-author="Tap" data-date="2008-11-06T03:05:40+00:00">
+<div class="post" data-post-id="27045" data-author="Tap" data-date="2008-11-06T03:05:40+00:00" data-subject="">
 
 [quote:24rhjc84]
 
@@ -1708,7 +1708,7 @@ Razz[/quote:24rhjc84]
 
 </div>
 
-<div class="post" data-post-id="27046" data-author="jezer" data-date="2008-11-06T04:15:29+00:00">
+<div class="post" data-post-id="27046" data-author="jezer" data-date="2008-11-06T04:15:29+00:00" data-subject="">
 
 [quote:3h6jquf8]IF there were NO guns here whatsoever, then sure, there would be no problem and no need, but the FACT is there are guns here already, and if you outlaw them, you are (again) only taking them out of the hands of those who act responsibly, not the ones who would misuse them. You're dealing with ideals, I'm dealing with reality. I wish things were the way you want, but they aren't - at least not in my neck of the woods. [/quote:3h6jquf8]
 
@@ -1724,7 +1724,7 @@ The Right thing to do? You bet!
 
 </div>
 
-<div class="post" data-post-id="27047" data-author="Rynquald" data-date="2008-11-06T04:37:49+00:00">
+<div class="post" data-post-id="27047" data-author="Rynquald" data-date="2008-11-06T04:37:49+00:00" data-subject="">
 
 This seems like a good time to point out that pretty much every freedom we still have was won by people that refused to back down even when it was going to cost lives.
 
@@ -1738,7 +1738,7 @@ Armed conflict is brutal and at the border of what we know as humanity, but it c
 
 </div>
 
-<div class="post" data-post-id="27048" data-author="Weasel" data-date="2008-11-06T04:53:32+00:00">
+<div class="post" data-post-id="27048" data-author="Weasel" data-date="2008-11-06T04:53:32+00:00" data-subject="">
 
 Oh weasel :( Once again... fear of what might be... [/quote:38m1y2zu]
 
@@ -1750,7 +1750,7 @@ Keep the moral superiority tone out of it please. If you can't handle this reali
 
 </div>
 
-<div class="post" data-post-id="27049" data-author="Tap" data-date="2008-11-06T12:02:43+00:00">
+<div class="post" data-post-id="27049" data-author="Tap" data-date="2008-11-06T12:02:43+00:00" data-subject="">
 
 [quote:2p6hx77i]someone!... somewhere!... has to back down![/quote:2p6hx77i]
 
@@ -1760,7 +1760,7 @@ Is this your ideal Jezer?
 
 </div>
 
-<div class="post" data-post-id="27051" data-author="firebrand" data-date="2008-11-06T16:02:58+00:00">
+<div class="post" data-post-id="27051" data-author="firebrand" data-date="2008-11-06T16:02:58+00:00" data-subject="">
 
 jezer, one of our "problems" is that too many people like you think that all laws are "for our own good" without taking the time to stop and ask "when did this become a problem and why am i letting someone else think for me?"  
 
@@ -1774,19 +1774,19 @@ it's closed-minded, unyielding, "government-knows-best" people like YOU, jezer, 
 
 </div>
 
-<div class="post" data-post-id="27052" data-author="alias" data-date="2008-11-06T16:48:52+00:00">
+<div class="post" data-post-id="27052" data-author="alias" data-date="2008-11-06T16:48:52+00:00" data-subject="">
 
 Laws like rules only apply to those who choose to obey them or those who get caught violating them.
 
 </div>
 
-<div class="post" data-post-id="27057" data-author="brady" data-date="2008-11-07T02:25:24+00:00">
+<div class="post" data-post-id="27057" data-author="brady" data-date="2008-11-07T02:25:24+00:00" data-subject="">
 
 [http://www.youtube.com/watch?v=zDQhaoocZPw](http://www.youtube.com/watch?v=zDQhaoocZPw)
 
 </div>
 
-<div class="post" data-post-id="27058" data-author="Tap" data-date="2008-11-07T02:44:38+00:00">
+<div class="post" data-post-id="27058" data-author="Tap" data-date="2008-11-07T02:44:38+00:00" data-subject="">
 
 Oh yeah? Two can play that game!!!!
 
@@ -1794,13 +1794,13 @@ Oh yeah? Two can play that game!!!!
 
 </div>
 
-<div class="post" data-post-id="27059" data-author="brady" data-date="2008-11-07T02:49:41+00:00">
+<div class="post" data-post-id="27059" data-author="brady" data-date="2008-11-07T02:49:41+00:00" data-subject="">
 
 :twisted:
 
 </div>
 
-<div class="post" data-post-id="27070" data-author="Weasel" data-date="2008-11-07T16:57:50+00:00">
+<div class="post" data-post-id="27070" data-author="Weasel" data-date="2008-11-07T16:57:50+00:00" data-subject="">
 
 Oh yeah? Two can play that game!!!!
 
@@ -1810,7 +1810,7 @@ ROFL that's fcuking awesome!
 
 </div>
 
-<div class="post" data-post-id="27075" data-author="Poggle" data-date="2008-11-07T21:18:27+00:00">
+<div class="post" data-post-id="27075" data-author="Poggle" data-date="2008-11-07T21:18:27+00:00" data-subject="">
 
 But rynquald just proved my point... Once again... justification of owning weapons based solely on projected fears. Do you want to live your life under that weight? I choose not too.[/quote:mmd0s9pv]
 
@@ -1832,7 +1832,7 @@ These are more relevant comparisons.
 
 </div>
 
-<div class="post" data-post-id="27076" data-author="Weasel" data-date="2008-11-07T23:16:10+00:00">
+<div class="post" data-post-id="27076" data-author="Weasel" data-date="2008-11-07T23:16:10+00:00" data-subject="">
 
 I can't quite figure out if your response is intended to attack me or back me up Poggle, LOL..   
 
@@ -1840,13 +1840,13 @@ No response is required.
 
 </div>
 
-<div class="post" data-post-id="27078" data-author="Tap" data-date="2008-11-08T00:00:12+00:00">
+<div class="post" data-post-id="27078" data-author="Tap" data-date="2008-11-08T00:00:12+00:00" data-subject="">
 
 Reboog is great.
 
 </div>
 
-<div class="post" data-post-id="27079" data-author="Weasel" data-date="2008-11-08T00:13:55+00:00">
+<div class="post" data-post-id="27079" data-author="Weasel" data-date="2008-11-08T00:13:55+00:00" data-subject="">
 
 Reboog is great.[/quote:x3c59wje]
 
@@ -1858,7 +1858,7 @@ It was a close thing, if that is of some comfort to you.
 
 </div>
 
-<div class="post" data-post-id="27098" data-author="Tap" data-date="2008-11-09T21:29:51+00:00">
+<div class="post" data-post-id="27098" data-author="Tap" data-date="2008-11-09T21:29:51+00:00" data-subject="">
 
 Obama to use executive orders for immediate impact
 
@@ -1878,7 +1878,7 @@ In a completely non-related question, I will be making my first gun purchase thi
 
 </div>
 
-<div class="post" data-post-id="27103" data-author="Weasel" data-date="2008-11-10T00:02:31+00:00">
+<div class="post" data-post-id="27103" data-author="Weasel" data-date="2008-11-10T00:02:31+00:00" data-subject="">
 
 Obama to use executive orders for immediate impact
 
@@ -1900,7 +1900,7 @@ So much for checks and balances. Hello authoritarian regime.
 
 </div>
 
-<div class="post" data-post-id="27105" data-author="Mosaix" data-date="2008-11-10T04:06:44+00:00">
+<div class="post" data-post-id="27105" data-author="Mosaix" data-date="2008-11-10T04:06:44+00:00" data-subject="">
 
 Weasel your post is again jaded and flawed.
 
@@ -1910,19 +1910,19 @@ Never heard a peep out of you about Bush.  You hate Obama we all get that alread
 
 </div>
 
-<div class="post" data-post-id="27106" data-author="*juggleblood*" data-date="2008-11-10T06:12:54+00:00">
+<div class="post" data-post-id="27106" data-author="*juggleblood*" data-date="2008-11-10T06:12:54+00:00" data-subject="">
 
 word
 
 </div>
 
-<div class="post" data-post-id="27107" data-author="jezer" data-date="2008-11-10T06:16:12+00:00">
+<div class="post" data-post-id="27107" data-author="jezer" data-date="2008-11-10T06:16:12+00:00" data-subject="">
 
 [img:39c9dxf0]http://www.highwayrobbery.net/TrcImgsAxisEvilNYPost.gif[/img:39c9dxf0]
 
 </div>
 
-<div class="post" data-post-id="27110" data-author="Weasel" data-date="2008-11-10T06:39:37+00:00">
+<div class="post" data-post-id="27110" data-author="Weasel" data-date="2008-11-10T06:39:37+00:00" data-subject="">
 
 Weasel your post is again jaded and flawed.
 
@@ -1938,7 +1938,7 @@ I sincerely hope I am wrong about Obama, but unfortunately we may all have to fi
 
 </div>
 
-<div class="post" data-post-id="27113" data-author="Tap" data-date="2008-11-10T11:06:27+00:00">
+<div class="post" data-post-id="27113" data-author="Tap" data-date="2008-11-10T11:06:27+00:00" data-subject="">
 
 Some quick points and then I'm going back to bed.
 
@@ -1948,7 +1948,7 @@ Good Times
 
 </div>
 
-<div class="post" data-post-id="27116" data-author="*juggleblood*" data-date="2008-11-10T15:10:32+00:00">
+<div class="post" data-post-id="27116" data-author="*juggleblood*" data-date="2008-11-10T15:10:32+00:00" data-subject="">
 
 they are trying to make it so that a Church can only teach certain things out of the Bible and certain topics will be considered "hate speech" in which case the Church will lose it's tax-status and be labled as a "Hate Orginization"
 
@@ -1962,19 +1962,19 @@ I was in Kentucky last weekend and I was shocked by how scared people down there
 
 </div>
 
-<div class="post" data-post-id="27119" data-author="*juggleblood*" data-date="2008-11-10T19:47:52+00:00">
+<div class="post" data-post-id="27119" data-author="*juggleblood*" data-date="2008-11-10T19:47:52+00:00" data-subject="">
 
 I read the story tap mentioned. He forgot to mention that Obama plans on using executive orders to UNDO Bush's executive orders.
 
 </div>
 
-<div class="post" data-post-id="27122" data-author="Weasel" data-date="2008-11-10T22:23:01+00:00">
+<div class="post" data-post-id="27122" data-author="Weasel" data-date="2008-11-10T22:23:01+00:00" data-subject="">
 
 I read the story tap mentioned. He forgot to mention that Obama plans on using executive orders to UNDO Bush's executive orders.[/quote:32wc45qk] LOL  irony.
 
 </div>
 
-<div class="post" data-post-id="27125" data-author="Tap" data-date="2008-11-10T23:18:00+00:00">
+<div class="post" data-post-id="27125" data-author="Tap" data-date="2008-11-10T23:18:00+00:00" data-subject="">
 
 Hey Juggles, I also wrote in same paragraph[quote:7xra94tk]Any president and I'm sure all have used executive privileges soon AFTER taking office. It's like any business, the new guy always turn over rocks to make an impression which can either be a good thing or a bad thing. [/quote:7xra94tk]
 
@@ -1990,7 +1990,7 @@ I couldn't say if that was the case at all. I don't know if Osama is a secret mu
 
 </div>
 
-<div class="post" data-post-id="27127" data-author="jezer" data-date="2008-11-10T23:28:05+00:00">
+<div class="post" data-post-id="27127" data-author="jezer" data-date="2008-11-10T23:28:05+00:00" data-subject="">
 
 I sincerely hope I am wrong about Obama[/quote:c2kgarlk]
 
@@ -1998,13 +1998,13 @@ What a load of crap... You have both a perception AND an attitude problem. He's 
 
 </div>
 
-<div class="post" data-post-id="27129" data-author="Tap" data-date="2008-11-10T23:46:32+00:00">
+<div class="post" data-post-id="27129" data-author="Tap" data-date="2008-11-10T23:46:32+00:00" data-subject="">
 
 I hope Weasel is wrong too. Come on Weasel, give fascism a chance!
 
 </div>
 
-<div class="post" data-post-id="27133" data-author="Weasel" data-date="2008-11-11T02:48:14+00:00">
+<div class="post" data-post-id="27133" data-author="Weasel" data-date="2008-11-11T02:48:14+00:00" data-subject="">
 
 I sincerely hope I am wrong about Obama[/quote:1lvqbp56]What a load of crap... You have both a perception AND an attitude problem. He's not even president yet and your still hacking away at him with your sharp little teeth. If you sincerely believed that, you'd give the guy a chance...[/quote:1lvqbp56]
 
@@ -2012,13 +2012,13 @@ WTF? Because I quote [i:1lvqbp56]Obama's own words[/i:1lvqbp56] which don't happ
 
 </div>
 
-<div class="post" data-post-id="27134" data-author="Weasel" data-date="2008-11-11T02:55:24+00:00">
+<div class="post" data-post-id="27134" data-author="Weasel" data-date="2008-11-11T02:55:24+00:00" data-subject="">
 
 I hope Weasel is wrong too. Come on Weasel, give fascism a chance![/quote:1hwutq7n] Yeah, how ignorant of me. Might as well lock me up right now.
 
 </div>
 
-<div class="post" data-post-id="27135" data-author="jezer" data-date="2008-11-11T03:03:51+00:00">
+<div class="post" data-post-id="27135" data-author="jezer" data-date="2008-11-11T03:03:51+00:00" data-subject="">
 
 I hope Weasel is wrong too. Come on Weasel, give fascism a chance![/quote:2gwfzf8k] Yeah, how ignorant of me. Might as well lock me up right now.[/quote:2gwfzf8k]
 
@@ -2026,13 +2026,13 @@ Then it's all agreed! Tap will keep Weasel company in Jail... we will no longer 
 
 </div>
 
-<div class="post" data-post-id="27137" data-author="Tap" data-date="2008-11-11T03:28:18+00:00">
+<div class="post" data-post-id="27137" data-author="Tap" data-date="2008-11-11T03:28:18+00:00" data-subject="">
 
 bump
 
 </div>
 
-<div class="post" data-post-id="27139" data-author="jezer" data-date="2008-11-11T04:40:08+00:00">
+<div class="post" data-post-id="27139" data-author="jezer" data-date="2008-11-11T04:40:08+00:00" data-subject="">
 
 You can always tell when someone is blind... everything you say only adds to there point. 
 
@@ -2040,7 +2040,7 @@ You can always tell when someone is blind... everything you say only adds to the
 
 </div>
 
-<div class="post" data-post-id="27140" data-author="Tap" data-date="2008-11-11T11:13:50+00:00">
+<div class="post" data-post-id="27140" data-author="Tap" data-date="2008-11-11T11:13:50+00:00" data-subject="">
 
 It's amazing how someone supporting Osama gets light-headed when he speaks, yet when someone repeats what Osama has said or bring attention to his words, the claws come out. Jezer, you are a perfect example of whats wrong with this country and you are not even from here. Kudos to you. I try to not find fault with you J, it's probably not your fault with the internet filter that you are stuck with so perhaps you don't have the access to information that we Americans do. Then again, you could be a Osamanist.
 
@@ -2048,7 +2048,7 @@ It's amazing how someone supporting Osama gets light-headed when he speaks, yet 
 
 </div>
 
-<div class="post" data-post-id="27141" data-author="jezer" data-date="2008-11-11T12:55:58+00:00">
+<div class="post" data-post-id="27141" data-author="jezer" data-date="2008-11-11T12:55:58+00:00" data-subject="">
 
 I'm not for or against Obama or McCain... I just play the Obama line because your anti Obama fanaticism amuses me. Like weasel was just this funny guy on the crier before all this... but the passion, attitude, resentment, fear about the future and bitterness that guy can muster over politics, has certainly made me seen him in a new light... he's scary now.  :shock: So what if he's right? Well I think he's lost too much creditability for anyone to care.
 
@@ -2058,7 +2058,7 @@ There is a saying, "What good is a man, to gain the whole world, if he loses who
 
 </div>
 
-<div class="post" data-post-id="27143" data-author="Weasel" data-date="2008-11-11T15:53:52+00:00">
+<div class="post" data-post-id="27143" data-author="Weasel" data-date="2008-11-11T15:53:52+00:00" data-subject="">
 
 [img:1wsdc81g]http://www.seedsofdoubt.com/images/cheney-fear-me.jpg[/img:1wsdc81g]
 
@@ -2068,13 +2068,13 @@ btw, Ice Age is awesome.
 
 </div>
 
-<div class="post" data-post-id="27144" data-author="Tap" data-date="2008-11-11T17:21:30+00:00">
+<div class="post" data-post-id="27144" data-author="Tap" data-date="2008-11-11T17:21:30+00:00" data-subject="">
 
 I'm going to give Jezer the benefit of the doubt. He's just ignorant.
 
 </div>
 
-<div class="post" data-post-id="27146" data-author="*juggleblood*" data-date="2008-11-12T02:49:16+00:00">
+<div class="post" data-post-id="27146" data-author="*juggleblood*" data-date="2008-11-12T02:49:16+00:00" data-subject="">
 
 [img:1abu7h5v]http://www.dark-logic.com/images/dale.jpg[/img:1abu7h5v]
 
@@ -2084,7 +2084,7 @@ I'm going to give Jezer the benefit of the doubt. He's just ignorant.
 
 </div>
 
-<div class="post" data-post-id="27147" data-author="Weasel" data-date="2008-11-12T17:01:30+00:00">
+<div class="post" data-post-id="27147" data-author="Weasel" data-date="2008-11-12T17:01:30+00:00" data-subject="">
 
 LMFAO!!! This is awesome:
 
@@ -2092,7 +2092,7 @@ LMFAO!!! This is awesome:
 
 </div>
 
-<div class="post" data-post-id="27169" data-author="Tap" data-date="2008-11-13T22:28:46+00:00">
+<div class="post" data-post-id="27169" data-author="Tap" data-date="2008-11-13T22:28:46+00:00" data-subject="I beat thy dead horse!!!!">
 
 Australian web filter to block 10,000 internet sites
 
@@ -2122,7 +2122,7 @@ Electronic Frontiers Australia board member Colin Jacobs said his civil libertie
 
 </div>
 
-<div class="post" data-post-id="27171" data-author="*juggleblood*" data-date="2008-11-13T22:49:34+00:00">
+<div class="post" data-post-id="27171" data-author="*juggleblood*" data-date="2008-11-13T22:49:34+00:00" data-subject="">
 
 i prefer this:
 
@@ -2130,7 +2130,7 @@ i prefer this:
 
 </div>
 
-<div class="post" data-post-id="27172" data-author="Weasel" data-date="2008-11-13T23:17:20+00:00">
+<div class="post" data-post-id="27172" data-author="Weasel" data-date="2008-11-13T23:17:20+00:00" data-subject="">
 
 i prefer this:
 
@@ -2144,7 +2144,7 @@ Doesn't hold a candle to
 
 </div>
 
-<div class="post" data-post-id="27174" data-author="Avatar" data-date="2008-11-14T05:35:50+00:00">
+<div class="post" data-post-id="27174" data-author="Avatar" data-date="2008-11-14T05:35:50+00:00" data-subject="Hrm">
 
 Gosh, again I'm agreeing with Jezer?!
 
@@ -2158,7 +2158,7 @@ I guess I'm just surprised that there's all this fear of Obama after what we've 
 
 </div>
 
-<div class="post" data-post-id="27175" data-author="jezer" data-date="2008-11-14T06:02:05+00:00">
+<div class="post" data-post-id="27175" data-author="jezer" data-date="2008-11-14T06:02:05+00:00" data-subject="">
 
 It's one thing to have the same opinion... but it's a whole totally different thing to agree with Jezer...  Are you MADDD!  :twisted:
 
@@ -2168,7 +2168,7 @@ Welcome to my group. Forms on the left, uniforms on the right...
 
 </div>
 
-<div class="post" data-post-id="27177" data-author="Tap" data-date="2008-11-14T10:32:19+00:00">
+<div class="post" data-post-id="27177" data-author="Tap" data-date="2008-11-14T10:32:19+00:00" data-subject="">
 
 [quote:32ywgbgn]I guess I'm just surprised that there's all this fear of Obama after what we've all experienced with Bush. At least wait until Obama actually DOES something evil, then post THAT.[/quote:32ywgbgn]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="10358" data-author="Mustang" data-date="2006-01-27T15:10:23+00:00">
+<div class="post" data-post-id="10358" data-author="Mustang" data-date="2006-01-27T15:10:23+00:00" data-subject="Guide to being a groupie">
 
 since someone started a guide to leading, how about a guide to being a groupie?
 
@@ -44,7 +44,7 @@ hope this helps...do add more if u think there should be more added
 
 </div>
 
-<div class="post" data-post-id="10359" data-author="blackmore" data-date="2006-01-27T15:57:45+00:00">
+<div class="post" data-post-id="10359" data-author="blackmore" data-date="2006-01-27T15:57:45+00:00" data-subject="">
 
 [quote:2leo02s6]
 
@@ -56,7 +56,7 @@ To go along with this, if you don't understand the instruction, speak up.  There
 
 </div>
 
-<div class="post" data-post-id="10360" data-author="12345" data-date="2006-01-27T16:00:37+00:00">
+<div class="post" data-post-id="10360" data-author="12345" data-date="2006-01-27T16:00:37+00:00" data-subject="">
 
 Not a bad idea at all, though perhaps it can get moved to the Newbie board.
 
@@ -74,7 +74,7 @@ I know there's a lot more... but that's all that's coming to mind atm.
 
 </div>
 
-<div class="post" data-post-id="10366" data-author="Deju" data-date="2006-01-28T00:28:19+00:00">
+<div class="post" data-post-id="10366" data-author="Deju" data-date="2006-01-28T00:28:19+00:00" data-subject="">
 
 Also, I'd like to add:
 
@@ -82,7 +82,7 @@ When joining up with a group, please do not follow up while the group is in the 
 
 </div>
 
-<div class="post" data-post-id="10372" data-author="Krok" data-date="2006-01-28T14:07:22+00:00">
+<div class="post" data-post-id="10372" data-author="Krok" data-date="2006-01-28T14:07:22+00:00" data-subject="">
 
 btw, things that annoy me most and I believe the other leaders too:
 
@@ -106,13 +106,13 @@ cause if your leader is shocked, you can't see who is dead, you can't see who is
 
 </div>
 
-<div class="post" data-post-id="10374" data-author="Krok" data-date="2006-01-28T16:43:23+00:00">
+<div class="post" data-post-id="10374" data-author="Krok" data-date="2006-01-28T16:43:23+00:00" data-subject="">
 
 hrm, one more little thing, which can help the leader and make you a good follower.. when you join an eq group and if you know the run to your mob, it will be very nice and polite of you to set beacon BEFORE joining. well, if you don't know the area, try to figure it out BEFORE joining as well, because umm we are all friends, but a group won't be very happy doing your cr and skipping repops on their eq mobs.
 
 </div>
 
-<div class="post" data-post-id="10378" data-author="Autolycos" data-date="2006-01-28T20:33:06+00:00">
+<div class="post" data-post-id="10378" data-author="Autolycos" data-date="2006-01-28T20:33:06+00:00" data-subject="">
 
 AMEN!!!!!
 
@@ -120,13 +120,13 @@ i hate when people join up and expect me to do all their running for them...  le
 
 </div>
 
-<div class="post" data-post-id="10379" data-author="Guinex" data-date="2006-01-28T20:49:11+00:00">
+<div class="post" data-post-id="10379" data-author="Guinex" data-date="2006-01-28T20:49:11+00:00" data-subject="">
 
 Could you someone run to kobold sage and set a beacon for me? I don't know the way and can't beacon  :(
 
 </div>
 
-<div class="post" data-post-id="10416" data-author="mudder" data-date="2006-01-30T12:03:44+00:00">
+<div class="post" data-post-id="10416" data-author="mudder" data-date="2006-01-30T12:03:44+00:00" data-subject="Group Terminology">
 
 When I started grouping I found some of the shorthand used confusing, so heres a summary of the common one I've found, this should all be second nature to all regular groupers:
 
@@ -226,7 +226,7 @@ I'm sure there's more I've missed out ... feel free to add.
 
 </div>
 
-<div class="post" data-post-id="10689" data-author="Korlan" data-date="2006-02-12T11:50:42+00:00">
+<div class="post" data-post-id="10689" data-author="Korlan" data-date="2006-02-12T11:50:42+00:00" data-subject="">
 
 Assist is your friend. Know who the tank is and 'assist tank'. Cuts down on problems.
 

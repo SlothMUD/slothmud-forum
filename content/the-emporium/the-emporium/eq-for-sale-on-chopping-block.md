@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5988" data-author="Deju" data-date="2005-05-05T12:36:22+00:00">
+<div class="post" data-post-id="5988" data-author="Deju" data-date="2005-05-05T12:36:22+00:00" data-subject="EQ For Sale on Chopping Block">
 
 Hey All -
 

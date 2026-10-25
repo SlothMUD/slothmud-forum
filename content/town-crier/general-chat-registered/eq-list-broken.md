@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36573" data-author="Madigan" data-date="2016-02-03T10:03:00+00:00">
+<div class="post" data-post-id="36573" data-author="Madigan" data-date="2016-02-03T10:03:00+00:00" data-subject="EQ List Broken">
 
 It's been a week now that the EQ list has stopped showing mob locations, looks like a failed db index?
 
@@ -20,13 +20,13 @@ Blix
 
 </div>
 
-<div class="post" data-post-id="36574" data-author="*Breeze*" data-date="2016-02-03T22:21:20+00:00">
+<div class="post" data-post-id="36574" data-author="*Breeze*" data-date="2016-02-03T22:21:20+00:00" data-subject="Re: EQ List Broken">
 
 it's being resolved
 
 </div>
 
-<div class="post" data-post-id="36583" data-author="*Breeze*" data-date="2016-02-07T22:06:48+00:00">
+<div class="post" data-post-id="36583" data-author="*Breeze*" data-date="2016-02-07T22:06:48+00:00" data-subject="Re: EQ List Broken">
 
 should be fixed since a few hours ago
 

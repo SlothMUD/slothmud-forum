@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="12615" data-author="12345" data-date="2006-05-21T22:23:36+00:00">
+<div class="post" data-post-id="12615" data-author="12345" data-date="2006-05-21T22:23:36+00:00" data-subject="Heavenly Girdle of the Ages">
 
 Found this in the shop, so no idea who pops it:
 

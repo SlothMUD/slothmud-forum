@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40065" data-author="*Idjit*" data-date="2023-08-27T11:22:00+00:00">
+<div class="post" data-post-id="40065" data-author="*Idjit*" data-date="2023-08-27T11:22:00+00:00" data-subject="2023 SlothMUD Labor Day Quest">
 
 Herro one and all,
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 34
 ---
 
-<div class="post" data-post-id="18895" data-author="Medios" data-date="2007-06-15T21:02:16+00:00">
+<div class="post" data-post-id="18895" data-author="Medios" data-date="2007-06-15T21:02:16+00:00" data-subject="If you want to visit China, do it soon :)">
 
 [http://www.washingtontimes.com/national/inring.htm](http://www.washingtontimes.com/national/inring.htm)
 
@@ -20,13 +20,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="18896" data-author="Leaf" data-date="2007-06-15T21:13:41+00:00">
+<div class="post" data-post-id="18896" data-author="Leaf" data-date="2007-06-15T21:13:41+00:00" data-subject="">
 
 Being Chinese, I say ...  Interesting!
 
 </div>
 
-<div class="post" data-post-id="18898" data-author="Autolycos" data-date="2007-06-15T21:18:14+00:00">
+<div class="post" data-post-id="18898" data-author="Autolycos" data-date="2007-06-15T21:18:14+00:00" data-subject="">
 
 Being Chinese, I say ...  Interesting![/quote:2u0hze7b]
 
@@ -36,7 +36,7 @@ cackle
 
 </div>
 
-<div class="post" data-post-id="18899" data-author="Leaf" data-date="2007-06-15T21:27:22+00:00">
+<div class="post" data-post-id="18899" data-author="Leaf" data-date="2007-06-15T21:27:22+00:00" data-subject="">
 
 Being Chinese, I say ...  Interesting![/quote:20lexlz2]
 
@@ -48,7 +48,7 @@ Will I am Chinese and my fiance is white, so I am getting white pussy!
 
 </div>
 
-<div class="post" data-post-id="18900" data-author="slobe" data-date="2007-06-15T22:04:03+00:00">
+<div class="post" data-post-id="18900" data-author="slobe" data-date="2007-06-15T22:04:03+00:00" data-subject="">
 
 China couldnt beat the U.S.A even with
 
@@ -66,7 +66,7 @@ people are still strong and if not I say leave it up to the mexicans to take hom
 
 </div>
 
-<div class="post" data-post-id="18902" data-author="Autolycos" data-date="2007-06-15T23:09:47+00:00">
+<div class="post" data-post-id="18902" data-author="Autolycos" data-date="2007-06-15T23:09:47+00:00" data-subject="">
 
 anyone who disbelieves that they can be defeated has already lost.
 
@@ -80,7 +80,7 @@ but an idea is immortal.
 
 </div>
 
-<div class="post" data-post-id="18903" data-author="Leaf" data-date="2007-06-16T00:58:57+00:00">
+<div class="post" data-post-id="18903" data-author="Leaf" data-date="2007-06-16T00:58:57+00:00" data-subject="">
 
 China couldnt beat the U.S.A even with
 
@@ -106,13 +106,13 @@ other country.  But anyways it was fun :)
 
 </div>
 
-<div class="post" data-post-id="18908" data-author="Hades" data-date="2007-06-16T02:39:47+00:00">
+<div class="post" data-post-id="18908" data-author="Hades" data-date="2007-06-16T02:39:47+00:00" data-subject="Fantastic Four: Rise of the Silver Surfer *spoiler*">
 
 So I'm sitting at the theatre eagerly awaiting the previews.  Sound booms across the auditorium but no picture.  Twiddle fingers and leer at the young teens strutting around in their tight clothes.  After about 10 minutes of 'techical difficulty', we get a picture.  Then have to suffer thru 3 of the same exact commercials in a row. Movie starts and its's *shrug* anghhh.  The nachos were good and washing it down with watered-down soda reminded me why I love going to the movies.Oh, Doom is back..Surfer loses board..Surfer re-gains board. Doom is tossed into Ocean {no doubt to be back for FF4:III or Silver Surfer Spin-off}. Surfer diverts Galactus from destroying Earth. Side note- Galactus was reduced to a faceless "cloud formation". Oh, the high point was Stan Lee playing...you guessed it.. Stan Lee trying to get into wedding.  That guy is a hoot. Oh China is going to be one of the final countries when Armegeddon occurs.  By then, America won't even be America as we know it today. It will be more likely known as Mexicanada or North American Conglamerate IF we haven't been reduced to several sub-territories.  Oh, and Democracy AND Communism will both be defeated by globalism.  Democracy first then communism will soon follow...Thank God I'm a Christian.  Oh, I got off point. FF4-Rise of the Silver Surfer was decent and will no doubt bring in some good money.  Can't wait to download it from frostwire and watch it for free.
 
 </div>
 
-<div class="post" data-post-id="18910" data-author="Mosaix" data-date="2007-06-16T03:41:39+00:00">
+<div class="post" data-post-id="18910" data-author="Mosaix" data-date="2007-06-16T03:41:39+00:00" data-subject="">
 
 The real war going on is the economic war.  China will eventually just buy up what they need, or any other country.  If you havent taken notice already most US CEO's are selling out when they can, to whomever will buy.  
 
@@ -134,7 +134,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="18911" data-author="tincts" data-date="2007-06-16T04:05:47+00:00">
+<div class="post" data-post-id="18911" data-author="tincts" data-date="2007-06-16T04:05:47+00:00" data-subject="">
 
 More power to the chinese anyway hehe.
 
@@ -142,19 +142,19 @@ but the other economic side is the massive holdings in US Treasury bills that Ch
 
 </div>
 
-<div class="post" data-post-id="18913" data-author="Weasel" data-date="2007-06-16T14:05:43+00:00">
+<div class="post" data-post-id="18913" data-author="Weasel" data-date="2007-06-16T14:05:43+00:00" data-subject="">
 
 I guess if push came to shove, the US could do a Chavez and just nationalize any foreign-owned assets inside the US.. bwahaha
 
 </div>
 
-<div class="post" data-post-id="18915" data-author="Autolycos" data-date="2007-06-16T14:38:02+00:00">
+<div class="post" data-post-id="18915" data-author="Autolycos" data-date="2007-06-16T14:38:02+00:00" data-subject="">
 
 laugh!
 
 </div>
 
-<div class="post" data-post-id="18916" data-author="Leaf" data-date="2007-06-16T15:33:29+00:00">
+<div class="post" data-post-id="18916" data-author="Leaf" data-date="2007-06-16T15:33:29+00:00" data-subject="">
 
 More power to the chinese anyway hehe.
 
@@ -174,7 +174,7 @@ leaves that country.  Itâ€™s all transferred in and out by their government
 
 </div>
 
-<div class="post" data-post-id="18932" data-author="alias" data-date="2007-06-16T22:56:11+00:00">
+<div class="post" data-post-id="18932" data-author="alias" data-date="2007-06-16T22:56:11+00:00" data-subject="">
 
 Anyone else read [u:wsy0t8h1]Business Week[/u:wsy0t8h1] besides me ?
 
@@ -194,7 +194,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="19149" data-author="Weasel" data-date="2007-07-02T21:12:07+00:00">
+<div class="post" data-post-id="19149" data-author="Weasel" data-date="2007-07-02T21:12:07+00:00" data-subject="">
 
 *ring* *ring*
 
@@ -202,13 +202,13 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="19151" data-author="Hades" data-date="2007-07-02T22:07:03+00:00">
+<div class="post" data-post-id="19151" data-author="Hades" data-date="2007-07-02T22:07:03+00:00" data-subject="">
 
 Actually, I hear the huge underground complex beneath Denver airport is the place to visit. And very,very soon :roll:
 
 </div>
 
-<div class="post" data-post-id="19326" data-author="Aleksey" data-date="2007-07-21T16:29:49+00:00">
+<div class="post" data-post-id="19326" data-author="Aleksey" data-date="2007-07-21T16:29:49+00:00" data-subject="">
 
 Check out chinese cars, in couple years thay made huge step
 
@@ -216,7 +216,7 @@ Was realy surprices whan found in internet big group of chinese companies with w
 
 </div>
 
-<div class="post" data-post-id="19362" data-author="Avatar" data-date="2007-07-23T03:43:30+00:00">
+<div class="post" data-post-id="19362" data-author="Avatar" data-date="2007-07-23T03:43:30+00:00" data-subject="Visit China">
 
 I am in China now, spending a week and a half in China near Shanghai.  China is an interesting story, and a remarkable place to visit.
 
@@ -232,7 +232,7 @@ PS.  Greetings from Shanghai!
 
 </div>
 
-<div class="post" data-post-id="19367" data-author="Alberich" data-date="2007-07-23T12:07:57+00:00">
+<div class="post" data-post-id="19367" data-author="Alberich" data-date="2007-07-23T12:07:57+00:00" data-subject="">
 
 speaking of chinese cars
 
@@ -242,7 +242,7 @@ i'd actually rather hit something with my motorcycle, i think... probably safer.
 
 </div>
 
-<div class="post" data-post-id="19512" data-author="Roadrunr" data-date="2007-07-29T01:33:52+00:00">
+<div class="post" data-post-id="19512" data-author="Roadrunr" data-date="2007-07-29T01:33:52+00:00" data-subject="">
 
 Dude I could be wrong, but China has a lot more technology then the US.
 
@@ -256,7 +256,7 @@ no, actually, China reverse engineers all the cool stuff that OTHER countries co
 
 </div>
 
-<div class="post" data-post-id="19513" data-author="Roadrunr" data-date="2007-07-29T01:35:22+00:00">
+<div class="post" data-post-id="19513" data-author="Roadrunr" data-date="2007-07-29T01:35:22+00:00" data-subject="">
 
 Check out chinese cars, in couple years thay made huge step
 
@@ -266,7 +266,7 @@ right, they made huge strides by copying from other companies because for any ca
 
 </div>
 
-<div class="post" data-post-id="19516" data-author="Aleksey" data-date="2007-07-29T06:51:03+00:00">
+<div class="post" data-post-id="19516" data-author="Aleksey" data-date="2007-07-29T06:51:03+00:00" data-subject="">
 
 To Alberich: Alberich i agree with you if look for car in terms of safty.
 
@@ -278,7 +278,7 @@ Few weeks ago i seen garage advertisment sale in Moscow (bloody hell thay asked 
 
 </div>
 
-<div class="post" data-post-id="19668" data-author="Tap" data-date="2007-08-12T11:57:37+00:00">
+<div class="post" data-post-id="19668" data-author="Tap" data-date="2007-08-12T11:57:37+00:00" data-subject="">
 
 China Enacting a High-Tech Plan to Track People
 
@@ -286,13 +286,13 @@ China Enacting a High-Tech Plan to Track People
 
 </div>
 
-<div class="post" data-post-id="19749" data-author="Tap" data-date="2007-08-18T08:40:23+00:00">
+<div class="post" data-post-id="19749" data-author="Tap" data-date="2007-08-18T08:40:23+00:00" data-subject="">
 
 [img:3ofks6as]http://www.evilmilk.com/pictures/Chinese_Doritos.jpg[/img:3ofks6as]
 
 </div>
 
-<div class="post" data-post-id="19826" data-author="Tap" data-date="2007-08-22T10:22:37+00:00">
+<div class="post" data-post-id="19826" data-author="Tap" data-date="2007-08-22T10:22:37+00:00" data-subject="">
 
 [b:2ytwloi8][u:2ytwloi8] Dirty chopsticks picked up in new China scare[/u:2ytwloi8][/b:2ytwloi8]
 
@@ -306,7 +306,7 @@ China has said the world should have faith in the "made-in-China" label and that
 
 </div>
 
-<div class="post" data-post-id="20058" data-author="Tap" data-date="2007-09-01T21:35:49+00:00">
+<div class="post" data-post-id="20058" data-author="Tap" data-date="2007-09-01T21:35:49+00:00" data-subject="">
 
 Police punished after lovers fined for a hug[\size]
 
@@ -316,7 +316,7 @@ Police in China have previously taken a dim view of public displays of affection
 
 </div>
 
-<div class="post" data-post-id="20142" data-author="Tap" data-date="2007-09-04T22:10:38+00:00">
+<div class="post" data-post-id="20142" data-author="Tap" data-date="2007-09-04T22:10:38+00:00" data-subject="">
 
 Chinese military hacked into Pentagon[/size:3l3dzt2j]
 
@@ -332,7 +332,7 @@ The Chinese foreign ministry said the government opposed and forbade â€œany 
 
 </div>
 
-<div class="post" data-post-id="20252" data-author="Tap" data-date="2007-09-09T20:59:43+00:00">
+<div class="post" data-post-id="20252" data-author="Tap" data-date="2007-09-09T20:59:43+00:00" data-subject="">
 
 Egg-walking man pulls car with ears[/size:2wiv0o7w]
 
@@ -346,7 +346,7 @@ We can't figure out what his talents are good for, but they sure are amazing
 
 </div>
 
-<div class="post" data-post-id="20254" data-author="Tap" data-date="2007-09-10T23:58:21+00:00">
+<div class="post" data-post-id="20254" data-author="Tap" data-date="2007-09-10T23:58:21+00:00" data-subject="">
 
 Dog adopts piglet[/size:1xtz2r2e][/color:1xtz2r2e]
 
@@ -358,7 +358,7 @@ A dog in China has adopted a piglet, nursing it as if it were her own puppy.
 
 </div>
 
-<div class="post" data-post-id="20293" data-author="Tap" data-date="2007-09-15T02:37:32+00:00">
+<div class="post" data-post-id="20293" data-author="Tap" data-date="2007-09-15T02:37:32+00:00" data-subject="">
 
 China: Orders to use death penalty less[/size:3qoxty70]
 
@@ -372,7 +372,7 @@ The order said crimes of passion, such as the murder of a family member or neigh
 
 </div>
 
-<div class="post" data-post-id="20580" data-author="Tap" data-date="2007-10-04T04:26:47+00:00">
+<div class="post" data-post-id="20580" data-author="Tap" data-date="2007-10-04T04:26:47+00:00" data-subject="">
 
 N.Y. human waste raises stink in Alabama[/size:87gzhmfj] 
 
@@ -396,13 +396,13 @@ Slow news day?
 
 </div>
 
-<div class="post" data-post-id="20581" data-author="tincts" data-date="2007-10-04T06:42:47+00:00">
+<div class="post" data-post-id="20581" data-author="tincts" data-date="2007-10-04T06:42:47+00:00" data-subject="">
 
 Slow post day?
 
 </div>
 
-<div class="post" data-post-id="21574" data-author="Tap" data-date="2007-12-08T01:49:31+00:00">
+<div class="post" data-post-id="21574" data-author="Tap" data-date="2007-12-08T01:49:31+00:00" data-subject="">
 
 Doctors baffled by green sweat[/size:2f788a63][/color:2f788a63]
 
@@ -424,7 +424,7 @@ They have carried out blood tests on Cheng, but found everything to be normal.
 
 </div>
 
-<div class="post" data-post-id="25130" data-author="Tap" data-date="2008-06-22T12:35:14+00:00">
+<div class="post" data-post-id="25130" data-author="Tap" data-date="2008-06-22T12:35:14+00:00" data-subject="Two good reasons to visit China now!!!!">
 
 China cop promoted for breastfeeding quake babies[/size:2tlanr69]
 

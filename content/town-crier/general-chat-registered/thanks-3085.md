@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="28748" data-author="*Splork*" data-date="2009-04-11T05:33:02+00:00">
+<div class="post" data-post-id="28748" data-author="*Splork*" data-date="2009-04-11T05:33:02+00:00" data-subject="Thanks">
 
 On a more personal note;
 
@@ -26,7 +26,7 @@ Rick
 
 </div>
 
-<div class="post" data-post-id="28750" data-author="Yasik2" data-date="2009-04-11T06:01:01+00:00">
+<div class="post" data-post-id="28750" data-author="Yasik2" data-date="2009-04-11T06:01:01+00:00" data-subject="">
 
 As we grow up - we have less and less time to spend to our hobbies.
 
@@ -44,7 +44,7 @@ Your wisdom and experience will be required too, so don't you wave you hand good
 
 </div>
 
-<div class="post" data-post-id="28755" data-author="Sind" data-date="2009-04-11T11:03:21+00:00">
+<div class="post" data-post-id="28755" data-author="Sind" data-date="2009-04-11T11:03:21+00:00" data-subject="">
 
 Whatever happens it happens.
 

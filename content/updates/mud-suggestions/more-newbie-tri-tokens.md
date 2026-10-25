@@ -10,13 +10,13 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="14201" data-author="Absu" data-date="2006-09-21T04:11:00+00:00">
+<div class="post" data-post-id="14201" data-author="Absu" data-date="2006-09-21T04:11:00+00:00" data-subject="More newbie (tri) tokens...">
 
 I really wish that it was easier to pop tri tokens. I've honestly killed something like 1500 mobs so far this week, and have popped maybe 10 tri tokens.
 
 </div>
 
-<div class="post" data-post-id="14233" data-author="Absu" data-date="2006-09-22T18:43:24+00:00">
+<div class="post" data-post-id="14233" data-author="Absu" data-date="2006-09-22T18:43:24+00:00" data-subject="">
 
 Grr... this is ridiculous... regen time, and here comes a newbie rant.
 
@@ -38,7 +38,7 @@ I'm sure people agree with me, and I don't mean people that have 100 million gol
 
 </div>
 
-<div class="post" data-post-id="14235" data-author="Autolycos" data-date="2006-09-22T20:24:50+00:00">
+<div class="post" data-post-id="14235" data-author="Autolycos" data-date="2006-09-22T20:24:50+00:00" data-subject="">
 
 to be fair, there are endless varieties now..  there used to only be tri's and hexs.  now there are octs and single sided dies to use.
 
@@ -48,7 +48,7 @@ just so you will relax, there was a time a few years back before octs and single
 
 </div>
 
-<div class="post" data-post-id="14237" data-author="Weasel" data-date="2006-09-22T21:50:23+00:00">
+<div class="post" data-post-id="14237" data-author="Weasel" data-date="2006-09-22T21:50:23+00:00" data-subject="">
 
 I agree it's very frustrating, but once you've got your stats then you're done with it forever.. or until you make a new char.
 
@@ -60,7 +60,7 @@ Perhaps coders good think about having Valk-only tokens with a higher poprate? o
 
 </div>
 
-<div class="post" data-post-id="14238" data-author="Avatar" data-date="2006-09-22T21:57:16+00:00">
+<div class="post" data-post-id="14238" data-author="Avatar" data-date="2006-09-22T21:57:16+00:00" data-subject="rolls">
 
 The availability of rerolls has fluctuated over the years.  It could be that they are more rare now than in the past.  If so, the imms may decide to increase the rate a little.  If that happens, though, the change will likely be in the fractions, not in 2x or 3x the tokens.  It will be a minor difference.
 
@@ -72,7 +72,7 @@ I think this is one reason the imms will not adjust the way rerolls work.  The f
 
 </div>
 
-<div class="post" data-post-id="14239" data-author="Absu" data-date="2006-09-22T22:25:24+00:00">
+<div class="post" data-post-id="14239" data-author="Absu" data-date="2006-09-22T22:25:24+00:00" data-subject="">
 
 I just collected up 10 tokens and rolled em up. I waited at least a minute between each roll...
 
@@ -114,13 +114,13 @@ Anyway, I'm glad to finally be done with rolling. Thanks again to everyone that 
 
 </div>
 
-<div class="post" data-post-id="14240" data-author="Absu" data-date="2006-09-22T22:27:50+00:00">
+<div class="post" data-post-id="14240" data-author="Absu" data-date="2006-09-22T22:27:50+00:00" data-subject="">
 
 BTW my classo is m/d/c/o.
 
 </div>
 
-<div class="post" data-post-id="14242" data-author="Rynquald" data-date="2006-09-22T23:44:09+00:00">
+<div class="post" data-post-id="14242" data-author="Rynquald" data-date="2006-09-22T23:44:09+00:00" data-subject="">
 
 Gratz :)
 
@@ -128,13 +128,13 @@ Nice dex, and the 17 wis won't be a problem once you get Insight anyway.
 
 </div>
 
-<div class="post" data-post-id="14243" data-author="Weasel" data-date="2006-09-23T00:18:11+00:00">
+<div class="post" data-post-id="14243" data-author="Weasel" data-date="2006-09-23T00:18:11+00:00" data-subject="">
 
 Gratz, those are good stats - basic rule of thumb is aim for at least 75, and if you get an 80+ as you just did, they're pretty much keepers for sure. You're right to try and get them while you're still able to use tri tokens too btw. Nice.
 
 </div>
 
-<div class="post" data-post-id="14244" data-author="Roadrunr" data-date="2006-09-23T00:55:42+00:00">
+<div class="post" data-post-id="14244" data-author="Roadrunr" data-date="2006-09-23T00:55:42+00:00" data-subject="">
 
 80, min.  btw, I think I'm back down to 5 or 6 chars...and no one seemed to want the last char I had with 80 total that I was trying to give away...(14 18 18 15 17, ne prime)
 
@@ -142,7 +142,7 @@ gratz on the stats btw, that 17 dex is the most important stat you just got.
 
 </div>
 
-<div class="post" data-post-id="14245" data-author="Absu" data-date="2006-09-23T07:13:13+00:00">
+<div class="post" data-post-id="14245" data-author="Absu" data-date="2006-09-23T07:13:13+00:00" data-subject="">
 
 Apparently the immortals just did a tri token rain.
 
@@ -154,7 +154,7 @@ This would have been handy...
 
 </div>
 
-<div class="post" data-post-id="14246" data-author="Agemo" data-date="2006-09-23T19:26:01+00:00">
+<div class="post" data-post-id="14246" data-author="Agemo" data-date="2006-09-23T19:26:01+00:00" data-subject="">
 
 Tri tokens can pop randomly on, I think, any mob. Thus any area with a very short reset time and where you can kill a lot of mobs is good for random tri popping.
 
@@ -168,7 +168,7 @@ Check out the Tri Token section of the Crier for incomplete lists of tri token p
 
 </div>
 
-<div class="post" data-post-id="14297" data-author="*juggleblood*" data-date="2006-09-26T09:04:03+00:00">
+<div class="post" data-post-id="14297" data-author="*juggleblood*" data-date="2006-09-26T09:04:03+00:00" data-subject="">
 
 They should decrease the pop rate on tri tokens so that newbs don't feel they're entitled to double 18's and so that they don't feel like they shouldn't level their char past twenty until they have killer stats.
 
@@ -180,7 +180,7 @@ Stop Whining.
 
 </div>
 
-<div class="post" data-post-id="14298" data-author="Gimlet" data-date="2006-09-26T09:45:29+00:00">
+<div class="post" data-post-id="14298" data-author="Gimlet" data-date="2006-09-26T09:45:29+00:00" data-subject="suggestion:)">
 
 just an idea...
 
@@ -188,7 +188,7 @@ maybe we could make tokens also forgeable from items that pop randomly ingame...
 
 </div>
 
-<div class="post" data-post-id="14303" data-author="Diazz_Dizazter" data-date="2006-09-26T13:01:05+00:00">
+<div class="post" data-post-id="14303" data-author="Diazz_Dizazter" data-date="2006-09-26T13:01:05+00:00" data-subject="">
 
 I dunno I went though rerolls at 400-600k each.  Probably a good 500+,
 
@@ -240,7 +240,7 @@ My favorite is the single sided die that loads on the hierophant in tarot.
 
 </div>
 
-<div class="post" data-post-id="14315" data-author="12345" data-date="2006-09-26T21:36:16+00:00">
+<div class="post" data-post-id="14315" data-author="12345" data-date="2006-09-26T21:36:16+00:00" data-subject="">
 
 There's a couple things you can do to make rolling easier.
 

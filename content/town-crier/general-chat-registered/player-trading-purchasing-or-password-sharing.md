@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36079" data-author="*Splork*" data-date="2015-09-08T17:44:23+00:00">
+<div class="post" data-post-id="36079" data-author="*Splork*" data-date="2015-09-08T17:44:23+00:00" data-subject="Player trading/purchasing or Password Sharing">
 
 I really don't think this is necessary because its about as obvious as it gets but...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9670" data-author="*Splork*" data-date="2005-11-29T01:07:35+00:00">
+<div class="post" data-post-id="9670" data-author="*Splork*" data-date="2005-11-29T01:07:35+00:00" data-subject="NEWS cmd online">
 
 I have added the last half years changes to the NEWS cmd online, simply type NEWS. You can not type news because it will most likely speedrun you in a few directions.
 

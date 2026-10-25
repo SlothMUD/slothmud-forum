@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3525" data-author="Leizu" data-date="2004-12-24T06:49:06+00:00">
+<div class="post" data-post-id="3525" data-author="Leizu" data-date="2004-12-24T06:49:06+00:00" data-subject="wtb crystal helm, 20m">
 
 I need a crystal helm. Can offer 20m or aura of midnight +money (atm not sure how much)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="15836" data-author="zorcon" data-date="2006-12-29T12:05:38+00:00">
+<div class="post" data-post-id="15836" data-author="zorcon" data-date="2006-12-29T12:05:38+00:00" data-subject="Zorcon has returned">
 
 How many of you consider yourselves old timers with regard to Sloth? Granted I have not been active in a very long time but I can still recall Sloth I with fond memories of 18 hour stretches of play back in 1992.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="10900" data-author="brand" data-date="2006-02-24T17:15:10+00:00">
+<div class="post" data-post-id="10900" data-author="brand" data-date="2006-02-24T17:15:10+00:00" data-subject="dead in tarot!">
 
 resolved, thanks
 
@@ -52,7 +52,7 @@ You have been KILLED!!
 
 </div>
 
-<div class="post" data-post-id="10904" data-author="Autolycos" data-date="2006-02-24T18:39:57+00:00">
+<div class="post" data-post-id="10904" data-author="Autolycos" data-date="2006-02-24T18:39:57+00:00" data-subject="Re: dead in tarot!">
 
 dear god man....  :shock: 
 

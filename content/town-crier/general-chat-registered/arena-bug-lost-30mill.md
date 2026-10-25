@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="11967" data-author="jezer" data-date="2006-04-06T09:35:57+00:00">
+<div class="post" data-post-id="11967" data-author="jezer" data-date="2006-04-06T09:35:57+00:00" data-subject="Arena Bug! Lost 30mill">
 
 Ken and I were trying stuff in the arena... after about 6 rounds of killing each other, all of a sudden something went wrong... I died... I typed quit! and it says I died before my time. Then at that instant I was then killed for real and I lost 30 mill. If at all possible can this be fixed and my 30mill xp restored.
 
@@ -108,13 +108,13 @@ quit!
 
 </div>
 
-<div class="post" data-post-id="11968" data-author="Ditheca" data-date="2006-04-06T12:34:12+00:00">
+<div class="post" data-post-id="11968" data-author="Ditheca" data-date="2006-04-06T12:34:12+00:00" data-subject="">
 
 You were probably killed by the Swarm spell of Ken's vicious Juju Zombie.  You should've let him push you back into the arena before you quit!
 
 </div>
 
-<div class="post" data-post-id="11970" data-author="*Splork*" data-date="2006-04-06T13:02:12+00:00">
+<div class="post" data-post-id="11970" data-author="*Splork*" data-date="2006-04-06T13:02:12+00:00" data-subject="">
 
 This is basically what happened-he quit, was brought to Questmaster(which is not inside the arena and does not follow the same rules)to which he was killed by ken's stuff. Necros are funny like that...
 
@@ -126,7 +126,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="11971" data-author="jezer" data-date="2006-04-06T13:05:48+00:00">
+<div class="post" data-post-id="11971" data-author="jezer" data-date="2006-04-06T13:05:48+00:00" data-subject="">
 
 Thanks Splork!
 
@@ -134,7 +134,7 @@ Bad Kenny!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11977" data-author="Autolycos" data-date="2006-04-06T20:25:10+00:00">
+<div class="post" data-post-id="11977" data-author="Autolycos" data-date="2006-04-06T20:25:10+00:00" data-subject="">
 
 kill him till he dies from it! :twisted:
 

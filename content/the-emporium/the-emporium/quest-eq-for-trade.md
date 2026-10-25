@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3060" data-author="Mullah" data-date="2004-11-26T22:43:13+00:00">
+<div class="post" data-post-id="3060" data-author="Mullah" data-date="2004-11-26T22:43:13+00:00" data-subject="Quest EQ for trade">
 
 I have shifting sleeves .6 ac +1dam +10 mv quest medium
 

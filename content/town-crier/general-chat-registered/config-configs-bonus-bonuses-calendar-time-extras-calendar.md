@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38484" data-author="*Idjit*" data-date="2017-11-17T00:44:54+00:00">
+<div class="post" data-post-id="38484" data-author="*Idjit*" data-date="2017-11-17T00:44:54+00:00" data-subject="config configs bonus bonuses Calendar time Extras  Calendar">
 
 I am posting this here because its my most recent list (without the Eu days in it)
 
@@ -126,7 +126,7 @@ Baldness, Bad Spelling, Maximum Verbosity, and General Failure in Life.
 
 </div>
 
-<div class="post" data-post-id="38486" data-author="Gorka" data-date="2017-11-17T10:10:12+00:00">
+<div class="post" data-post-id="38486" data-author="Gorka" data-date="2017-11-17T10:10:12+00:00" data-subject="Re: config Calendar time Extras  Calendar">
 
 It's amusing to me that Idjit is an immortal let he also has to post on the crier to see game config... isn't it time someone rank gained him or is the calendar just hidden? Seriously...
 
@@ -136,7 +136,7 @@ Gem pop day doesn't happen. Neither does Lyme day. Could we trade some Euridyce 
 
 </div>
 
-<div class="post" data-post-id="38487" data-author="*teker*" data-date="2017-11-17T15:12:51+00:00">
+<div class="post" data-post-id="38487" data-author="*teker*" data-date="2017-11-17T15:12:51+00:00" data-subject="Re: config Calendar time Extras  Calendar">
 
 The schedule is in the code so only people with access to the code can see it directly.  It breaks down like this:
 

@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="886" data-author="Viator" data-date="2004-06-30T18:13:19+00:00">
+<div class="post" data-post-id="886" data-author="Viator" data-date="2004-06-30T18:13:19+00:00" data-subject="Mud compression protocol">
 
 Does Sloth server support mud compression protocol? It would be nice because the compression ratio is about 3:1 (65%) and it's possible to use mcclient (or something) with any mud client to decompress mud data. It will result in less bandwith (read money :) and higher speed. Thanks.
 
 </div>
 
-<div class="post" data-post-id="895" data-author="guest" data-date="2004-07-01T13:22:09+00:00">
+<div class="post" data-post-id="895" data-author="guest" data-date="2004-07-01T13:22:09+00:00" data-subject="">
 
 Here is the link to the description of the program.
 

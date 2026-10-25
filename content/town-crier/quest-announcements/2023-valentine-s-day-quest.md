@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40010" data-author="*Idjit*" data-date="2023-02-12T05:51:04+00:00">
+<div class="post" data-post-id="40010" data-author="*Idjit*" data-date="2023-02-12T05:51:04+00:00" data-subject="2023 Valentine&#x27;s Day Quest">
 
 Good evening one and all,
 

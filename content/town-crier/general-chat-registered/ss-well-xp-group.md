@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="31759" data-author="jezer" data-date="2010-09-16T01:27:42+00:00">
+<div class="post" data-post-id="31759" data-author="jezer" data-date="2010-09-16T01:27:42+00:00" data-subject="SS Well XP Group">
 
 N  U
 
@@ -292,13 +292,13 @@ No gems popped btw, but I may be able to get you some leather harnesses if your 
 
 </div>
 
-<div class="post" data-post-id="31760" data-author="jezer" data-date="2010-09-16T09:06:09+00:00">
+<div class="post" data-post-id="31760" data-author="jezer" data-date="2010-09-16T09:06:09+00:00" data-subject="Re: SS Well XP Group">
 
 Laugh, who edited my post?  :D  Was it you again Splorkie? Am I really that dangerous? Awesome!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="31761" data-author="*Splork*" data-date="2010-09-16T13:25:34+00:00">
+<div class="post" data-post-id="31761" data-author="*Splork*" data-date="2010-09-16T13:25:34+00:00" data-subject="Re: SS Well XP Group">
 
 Sorry but the Immortal staff rather frowns upon posting ways to crash the mud, an email would of been appreciated.
 
@@ -308,7 +308,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31763" data-author="jezer" data-date="2010-09-16T19:30:53+00:00">
+<div class="post" data-post-id="31763" data-author="jezer" data-date="2010-09-16T19:30:53+00:00" data-subject="Re: SS Well XP Group">
 
 I WAS going to give you a leather harness, since I missed your birthday last year, and I know you were upset about it.  :evil:
 

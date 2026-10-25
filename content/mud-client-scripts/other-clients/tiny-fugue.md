@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="7655" data-author="smig1o" data-date="2005-06-29T08:52:58+00:00">
+<div class="post" data-post-id="7655" data-author="smig1o" data-date="2005-06-29T08:52:58+00:00" data-subject="tiny fugue">
 
 I have some tf scripts.. if anyone need it
 
@@ -18,7 +18,7 @@ Pi, the longest char
 
 </div>
 
-<div class="post" data-post-id="8739" data-author="smig1o" data-date="2005-09-19T15:13:22+00:00">
+<div class="post" data-post-id="8739" data-author="smig1o" data-date="2005-09-19T15:13:22+00:00" data-subject="">
 
 One last request....
 

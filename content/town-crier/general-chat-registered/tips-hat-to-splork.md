@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="6929" data-author="Medios" data-date="2005-06-08T18:35:45+00:00">
+<div class="post" data-post-id="6929" data-author="Medios" data-date="2005-06-08T18:35:45+00:00" data-subject="*tips hat* to Splork">
 
 [ 1w  0o  0c  0d] Flight the Untitled
 
@@ -22,19 +22,19 @@ PS. Thanks to everyone who keeps our game running like a well oiled machine.
 
 </div>
 
-<div class="post" data-post-id="6930" data-author="brand" data-date="2005-06-08T18:46:22+00:00">
+<div class="post" data-post-id="6930" data-author="brand" data-date="2005-06-08T18:46:22+00:00" data-subject="">
 
 nods
 
 </div>
 
-<div class="post" data-post-id="6937" data-author="12345" data-date="2005-06-08T19:15:16+00:00">
+<div class="post" data-post-id="6937" data-author="12345" data-date="2005-06-08T19:15:16+00:00" data-subject="">
 
 Agreed.  :D
 
 </div>
 
-<div class="post" data-post-id="6941" data-author="Avatar" data-date="2005-06-08T20:37:38+00:00">
+<div class="post" data-post-id="6941" data-author="Avatar" data-date="2005-06-08T20:37:38+00:00" data-subject="">
 
 Well said Medios.  
 
@@ -48,7 +48,7 @@ I guess I've pissed off every imm around here at least once, and I do regret it 
 
 </div>
 
-<div class="post" data-post-id="6943" data-author="Shyla" data-date="2005-06-09T00:17:53+00:00">
+<div class="post" data-post-id="6943" data-author="Shyla" data-date="2005-06-09T00:17:53+00:00" data-subject="">
 
 I don't normally post a whole lot anymore, but when it comes to bashing 
 
@@ -82,19 +82,19 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="6950" data-author="osric" data-date="2005-06-09T02:08:33+00:00">
+<div class="post" data-post-id="6950" data-author="osric" data-date="2005-06-09T02:08:33+00:00" data-subject="">
 
 Wow, I think Splork has a knack for turning arguments around (something he has even done to me a few times) so don't let him fool you, he too actually likes this mud (he may even enjoy in some small way all the whining) and many of the players.  I have no idea why Flight is down to 1st level (so lemme know all the gossip when I'm on) but I really enjoyed trash talking him when I had a free moment, I often used words like CHEAP, and CHEAT, and even NERD, and I know that at times he really disliked that, but hey thats what you get when you're the best.  I told Splork once when we were on the subject of Flight that even though I was jealous of his abilitiy (both as a character and a player) that I enjoyed grouping with him, and once even losing a Chaos Night (something they shoiuld bring back) to him, yes I actually enjoyed losing for once, at least I got to go toe to toe with the big lug!  I bring this up not to pat Splork on the back (though he deserves it) but to remind him not to let all this gushing get to his head, cuz I'll be there to trashtalk whatever great character design he comes up with next!  I say this because the imms are the creators of all things in this game good, and reactionary (read bad if you like) and they deserve feedback for the changes they make to the work of others (and their own in many cases) esepcially when they are too close to the situation to be critical.  In closing Thank You all immortals and even you Splork, my freetime wouldn't be the same without your efforts and I appreciate it, truely! Now when are we gonna get ticks back, just kidding  8)
 
 </div>
 
-<div class="post" data-post-id="6951" data-author="blackmore" data-date="2005-06-09T02:09:30+00:00">
+<div class="post" data-post-id="6951" data-author="blackmore" data-date="2005-06-09T02:09:30+00:00" data-subject="">
 
 There's a lot I could say about this, but I don't know any details behind it, so I hesitate to say too much.  However, Rick has coded most of the new warrior and thief skills, especially the avatar ones.  He could have easily made them overpowering to his own benefit.  He also added much of the quest shop equipment, and while I've jokingly accused him of it before, he didn't focus the equipment he was adding to increase Flight's power.  It's a hard line to walk, between being a skilled mortal and being a mortal who has admin responsibilities, especially when everything thinks the line belongs in a different place.
 
 </div>
 
-<div class="post" data-post-id="6956" data-author="**Jake**" data-date="2005-06-09T03:10:38+00:00">
+<div class="post" data-post-id="6956" data-author="**Jake**" data-date="2005-06-09T03:10:38+00:00" data-subject="">
 
 In the line of tipping our hats to Splork, I'll do so as well.
 
@@ -114,7 +114,7 @@ Jake
 
 </div>
 
-<div class="post" data-post-id="6987" data-author="Yasik" data-date="2005-06-09T14:14:56+00:00">
+<div class="post" data-post-id="6987" data-author="Yasik" data-date="2005-06-09T14:14:56+00:00" data-subject="">
 
 Cmon ppl, a little cynism wont hurt you! I have an explanation on whats happened :D
 
@@ -126,7 +126,7 @@ Friendly famili mud, eh?  :D
 
 </div>
 
-<div class="post" data-post-id="7061" data-author="Medios" data-date="2005-06-11T05:27:46+00:00">
+<div class="post" data-post-id="7061" data-author="Medios" data-date="2005-06-11T05:27:46+00:00" data-subject="">
 
 bump
 

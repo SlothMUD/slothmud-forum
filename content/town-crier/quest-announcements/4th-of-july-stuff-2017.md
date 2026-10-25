@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38309" data-author="*Idjit*" data-date="2017-06-28T01:00:41+00:00">
+<div class="post" data-post-id="38309" data-author="*Idjit*" data-date="2017-06-28T01:00:41+00:00" data-subject="4th of July Stuff 2017">
 
 Hello folks,
 
@@ -28,7 +28,7 @@ Happy Fourth upcoming,
 
 </div>
 
-<div class="post" data-post-id="38311" data-author="Tuck" data-date="2017-06-28T14:23:50+00:00">
+<div class="post" data-post-id="38311" data-author="Tuck" data-date="2017-06-28T14:23:50+00:00" data-subject="Re: 4th of July Stuff 2017">
 
 awesome news, can't wait for it
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="7943" data-author="Toxis" data-date="2005-07-18T18:55:16+00:00">
+<div class="post" data-post-id="7943" data-author="Toxis" data-date="2005-07-18T18:55:16+00:00" data-subject="KARKUS FOR SALE">
 
 Heya guys,
 
@@ -134,13 +134,13 @@ a glowing white key
 
 </div>
 
-<div class="post" data-post-id="7948" data-author="Toxis" data-date="2005-07-19T13:47:01+00:00">
+<div class="post" data-post-id="7948" data-author="Toxis" data-date="2005-07-19T13:47:01+00:00" data-subject="">
 
 So how bout we start the bidding at 40 mil gold?
 
 </div>
 
-<div class="post" data-post-id="7953" data-author="Taki" data-date="2005-07-20T05:18:07+00:00">
+<div class="post" data-post-id="7953" data-author="Taki" data-date="2005-07-20T05:18:07+00:00" data-subject="">
 
 I think it'd be good to see the spells and skills list too, it surely is valuable info about a character... even if I personally wouldn't trade a character myself - isn't the best part of the game the struggle to get your levels up there? ;)
 

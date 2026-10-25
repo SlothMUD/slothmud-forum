@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="31014" data-author="MudObserver" data-date="2010-04-03T12:08:08+00:00">
+<div class="post" data-post-id="31014" data-author="MudObserver" data-date="2010-04-03T12:08:08+00:00" data-subject="Group Behavior">
 
 Recentness I will having observe some disturbing behavior from so called elite players when I grouping with them.
 
@@ -28,7 +28,7 @@ I having thought this is a group mud?  So-called elite taking advantages of othe
 
 </div>
 
-<div class="post" data-post-id="31015" data-author="Toxis" data-date="2010-04-03T12:34:38+00:00">
+<div class="post" data-post-id="31015" data-author="Toxis" data-date="2010-04-03T12:34:38+00:00" data-subject="">
 
 There are no 5x40 thieves. :)
 
@@ -38,19 +38,19 @@ As far as the people who keep changing calls when mobs die and come up empty, we
 
 </div>
 
-<div class="post" data-post-id="31016" data-author="angel" data-date="2010-04-03T12:44:55+00:00">
+<div class="post" data-post-id="31016" data-author="angel" data-date="2010-04-03T12:44:55+00:00" data-subject="">
 
 for example tuk:)
 
 </div>
 
-<div class="post" data-post-id="31017" data-author="Gimlet" data-date="2010-04-03T13:43:23+00:00">
+<div class="post" data-post-id="31017" data-author="Gimlet" data-date="2010-04-03T13:43:23+00:00" data-subject="">
 
 well, poster did say elite...so that rules tuk out
 
 </div>
 
-<div class="post" data-post-id="31019" data-author="Tuck" data-date="2010-04-04T11:40:53+00:00">
+<div class="post" data-post-id="31019" data-author="Tuck" data-date="2010-04-04T11:40:53+00:00" data-subject="">
 
 1, 2 and 3 belongs to Poit last island eq group =)
 
@@ -58,19 +58,19 @@ He even called 'all island eq', what a dork.
 
 </div>
 
-<div class="post" data-post-id="31020" data-author="Gimlet" data-date="2010-04-04T11:45:52+00:00">
+<div class="post" data-post-id="31020" data-author="Gimlet" data-date="2010-04-04T11:45:52+00:00" data-subject="">
 
 ff
 
 </div>
 
-<div class="post" data-post-id="31022" data-author="13" data-date="2010-04-04T13:50:24+00:00">
+<div class="post" data-post-id="31022" data-author="13" data-date="2010-04-04T13:50:24+00:00" data-subject="">
 
 awesome
 
 </div>
 
-<div class="post" data-post-id="31023" data-author="Thraxas" data-date="2010-04-06T07:49:06+00:00">
+<div class="post" data-post-id="31023" data-author="Thraxas" data-date="2010-04-06T07:49:06+00:00" data-subject="">
 
 Someone in a group once posted the following:
 
@@ -116,7 +116,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31024" data-author="jezer" data-date="2010-04-06T20:26:58+00:00">
+<div class="post" data-post-id="31024" data-author="jezer" data-date="2010-04-06T20:26:58+00:00" data-subject="">
 
 Good post Thraxas. Another tactic employed by the greedy person is to call mobs that pop good that they don't need so they can sell the item for coins (Balor Demon for instance). They also may call a mob which pops multiple items, instead of calling one item from the mob (Marid for instance).
 
@@ -132,13 +132,13 @@ I'd be surprised if this stuff happens in Katie's groups. In fact to my mind the
 
 </div>
 
-<div class="post" data-post-id="31026" data-author="Medios" data-date="2010-04-06T21:33:38+00:00">
+<div class="post" data-post-id="31026" data-author="Medios" data-date="2010-04-06T21:33:38+00:00" data-subject="">
 
 Like you said the problem is bad leadership.  Good leaders don't want to put up with your nonsense and they move on.
 
 </div>
 
-<div class="post" data-post-id="31029" data-author="Stab" data-date="2010-04-07T01:03:34+00:00">
+<div class="post" data-post-id="31029" data-author="Stab" data-date="2010-04-07T01:03:34+00:00" data-subject="">
 
 I like Jezers 'bottleneck' theory. It hits the nail on the head for the most part. I noticed the same thing in some other areas since I restarted play. Only coming back after wipe in about September gave me a fairly wide open field to play. I compare this to peeps who started or continued on day one of S4. So I sorta caught up and not being in such hot contention for  forge cps keeps play enjoyable. There are always peeps in a big hurry and selfish, then some who forget it's just a game. Im guilty myself at times. However briefly.. I agree with the ''leader sets the rules for calling eq n cps deal''. If you don't like it dont follow. I like the wheel. Oh and charatible donations from those who are inclined to share what they dont need.
 
@@ -150,7 +150,7 @@ Stab.
 
 </div>
 
-<div class="post" data-post-id="31032" data-author="Thraxas" data-date="2010-04-07T18:29:51+00:00">
+<div class="post" data-post-id="31032" data-author="Thraxas" data-date="2010-04-07T18:29:51+00:00" data-subject="">
 
 I'm not sure we can put all the onus on the group leader to police this overt greed that actually very few display, you gotta remember there are very few who are prepared to lead productive xp groups on a regular basis and personally I'd steer very clear of suggesting they're doing anything wrong, frankly they're not, they're good for the mud, good for all who join their groups and yes good for themselves too ... why not?
 
@@ -162,7 +162,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31033" data-author="jezer" data-date="2010-04-07T20:10:52+00:00">
+<div class="post" data-post-id="31033" data-author="jezer" data-date="2010-04-07T20:10:52+00:00" data-subject="">
 
 The solution here is for it to become culturally unacceptable to all players of a mud for a single player in a group or not to act in the self interested screw the rest of you fashion that some have been. [/quote:oypd6i4k]
 
@@ -170,7 +170,7 @@ A bit Idealistic don't you think? Amounts to the same thing as police appealing 
 
 </div>
 
-<div class="post" data-post-id="31035" data-author="Thraxas" data-date="2010-04-07T21:42:11+00:00">
+<div class="post" data-post-id="31035" data-author="Thraxas" data-date="2010-04-07T21:42:11+00:00" data-subject="">
 
 A bit Idealistic don't you think?[/quote:13z1gyw1]yes
 

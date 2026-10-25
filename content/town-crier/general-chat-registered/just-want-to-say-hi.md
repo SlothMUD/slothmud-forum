@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31042" data-author="Bazilus" data-date="2010-04-09T14:00:04+00:00">
+<div class="post" data-post-id="31042" data-author="Bazilus" data-date="2010-04-09T14:00:04+00:00" data-subject="Just want to say: Hi! +)">
 
 Hey Mud, glad you still alive. Luck in your travels my friends. +)
 

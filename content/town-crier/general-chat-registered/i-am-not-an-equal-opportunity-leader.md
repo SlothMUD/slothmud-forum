@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="19330" data-author="van" data-date="2007-07-21T17:53:58+00:00">
+<div class="post" data-post-id="19330" data-author="van" data-date="2007-07-21T17:53:58+00:00" data-subject="I am not an equal opportunity leader">
 
 I've been getting a lot more whining than usual in my groups about fairness, equality, and the American way.  So let me clear a few things up:
 
@@ -34,19 +34,19 @@ P.S.  If I ever lead a quest group that gets eq, the above comments go out the w
 
 </div>
 
-<div class="post" data-post-id="19331" data-author="brady" data-date="2007-07-21T18:17:06+00:00">
+<div class="post" data-post-id="19331" data-author="brady" data-date="2007-07-21T18:17:06+00:00" data-subject="">
 
 [img:2mx8tntk]http://www.savagechickens.com/images/chickenpirate.jpg[/img:2mx8tntk]
 
 </div>
 
-<div class="post" data-post-id="19332" data-author="Corinn" data-date="2007-07-21T18:31:00+00:00">
+<div class="post" data-post-id="19332" data-author="Corinn" data-date="2007-07-21T18:31:00+00:00" data-subject="">
 
 YAR HAR!!   :twisted:
 
 </div>
 
-<div class="post" data-post-id="19333" data-author="Mosaix" data-date="2007-07-21T19:59:29+00:00">
+<div class="post" data-post-id="19333" data-author="Mosaix" data-date="2007-07-21T19:59:29+00:00" data-subject="">
 
 Van is one of the most fun an entertaining leaders on the mud.
 
@@ -60,37 +60,37 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="19338" data-author="Medios" data-date="2007-07-21T23:09:48+00:00">
+<div class="post" data-post-id="19338" data-author="Medios" data-date="2007-07-21T23:09:48+00:00" data-subject="">
 
 Don't get me started.
 
 </div>
 
-<div class="post" data-post-id="19339" data-author="Autolycos" data-date="2007-07-22T01:21:19+00:00">
+<div class="post" data-post-id="19339" data-author="Autolycos" data-date="2007-07-22T01:21:19+00:00" data-subject="">
 
 [img:322kciin]http://www.xgenco.com/pirates/capnstfu.jpg[/img:322kciin]
 
 </div>
 
-<div class="post" data-post-id="19340" data-author="Tap" data-date="2007-07-22T05:10:51+00:00">
+<div class="post" data-post-id="19340" data-author="Tap" data-date="2007-07-22T05:10:51+00:00" data-subject="More like...">
 
 [<LINK_TEXT text="http://videoclipsdump.com/mediag.php?&f ... =0&show=10">http://videoclipsdump.com/mediag.php?&file=Pirates_of_the_Caribbean_Dance.flv&sort=Date&skip=0&show=10</LINK_TEXT>](http://videoclipsdump.com/mediag.php?&file=Pirates_of_the_Caribbean_Dance.flv&sort=Date&skip=0&show=10)
 
 </div>
 
-<div class="post" data-post-id="19341" data-author="Messiaen" data-date="2007-07-22T05:16:25+00:00">
+<div class="post" data-post-id="19341" data-author="Messiaen" data-date="2007-07-22T05:16:25+00:00" data-subject="">
 
 Please, go on Mike :-)
 
 </div>
 
-<div class="post" data-post-id="19342" data-author="13" data-date="2007-07-22T06:02:09+00:00">
+<div class="post" data-post-id="19342" data-author="13" data-date="2007-07-22T06:02:09+00:00" data-subject="">
 
 I think if you let someone believe that they are calling something, then they should actually get it when it loads.  If you're looking to keep it, be up front about it right off the bat, before they waste their time thinking they're cycling for it.  That's pretty much all I have to say about that.
 
 </div>
 
-<div class="post" data-post-id="19347" data-author="Mosaix" data-date="2007-07-22T12:56:44+00:00">
+<div class="post" data-post-id="19347" data-author="Mosaix" data-date="2007-07-22T12:56:44+00:00" data-subject="">
 
 Yes Aaron your leading skills are also worthy of mention.
 
@@ -116,7 +116,7 @@ Mosaix/Broc
 
 </div>
 
-<div class="post" data-post-id="19349" data-author="alias" data-date="2007-07-22T14:47:44+00:00">
+<div class="post" data-post-id="19349" data-author="alias" data-date="2007-07-22T14:47:44+00:00" data-subject="">
 
 [quote:3w3jvpyu]I cant even think of one instance where I have seen Van do anything even close to being unfair.[/quote:3w3jvpyu]
 
@@ -126,7 +126,7 @@ Thats just too funny.
 
 </div>
 
-<div class="post" data-post-id="19354" data-author="13" data-date="2007-07-22T19:09:10+00:00">
+<div class="post" data-post-id="19354" data-author="13" data-date="2007-07-22T19:09:10+00:00" data-subject="">
 
 I wasn't aiming that at anyone at all.  It's just my take on the leading/eq situation.  Sometimes I do go afk and forget I was even playing the mud because a neighbor or friend comes over.  Sometimes I have shit to do with my kids.  All of which take precedence over some silly 15 year old text game.  I didn't split a couple times because I needed money and the two guys with me needed xp and, after asked, didn't care at all.  You joined up after the group started.  I really don't care enough anymore to get in an argument about it.  I can guarantee that I have spent more time leading than probably 85% of the people on Sloth.  I'm worn out with it and I'm worn out with you and your fu cking crying about clerics and quest eq and getting 'ripped off'.  Clan quit is a good command that might benefit you cocksucker.
 
@@ -136,13 +136,13 @@ Have a nice day
 
 </div>
 
-<div class="post" data-post-id="19355" data-author="Tap" data-date="2007-07-22T19:38:43+00:00">
+<div class="post" data-post-id="19355" data-author="Tap" data-date="2007-07-22T19:38:43+00:00" data-subject="">
 
 Someone should ban this asshole. What a load of crap. :oops:
 
 </div>
 
-<div class="post" data-post-id="19363" data-author="Avatar" data-date="2007-07-23T05:05:08+00:00">
+<div class="post" data-post-id="19363" data-author="Avatar" data-date="2007-07-23T05:05:08+00:00" data-subject="Groups">
 
 For my part, I always need XPs more than I need coins or EQ.  I've attended several groups where we allowed one person to loot and not split, if that person needed the cash badly.  I don't mind, especially if this person doesn't also call a mob for eq.
 
@@ -150,13 +150,13 @@ I don't remember who the specific leaders were in the groups where I've particip
 
 </div>
 
-<div class="post" data-post-id="19364" data-author="12345" data-date="2007-07-23T05:23:32+00:00">
+<div class="post" data-post-id="19364" data-author="12345" data-date="2007-07-23T05:23:32+00:00" data-subject="">
 
 Everyone already knows that if you don't like a leader, you don't have to follow them.  As a leader, I usually tried to keep my followers as happy as I could because I'm not going anywhere too fast without them.  I didn't always succeed, but you can't keep everyone happy all the time.  Just doesn't work.  Never hurts to try though.
 
 </div>
 
-<div class="post" data-post-id="19375" data-author="van" data-date="2007-07-24T01:41:24+00:00">
+<div class="post" data-post-id="19375" data-author="van" data-date="2007-07-24T01:41:24+00:00" data-subject="Just a minor suggestion">
 
 Just as a random note:  if you're unhappy with the way someone is leading, and you feel like you have a legitimate grievance, it helps to inform them directly.  Or at least, I like to know.
 
@@ -172,19 +172,19 @@ Van
 
 </div>
 
-<div class="post" data-post-id="19376" data-author="alias" data-date="2007-07-24T03:10:47+00:00">
+<div class="post" data-post-id="19376" data-author="alias" data-date="2007-07-24T03:10:47+00:00" data-subject="">
 
 Hurry up and lead already I need more xp on my alts.
 
 </div>
 
-<div class="post" data-post-id="19377" data-author="Karna" data-date="2007-07-24T04:24:13+00:00">
+<div class="post" data-post-id="19377" data-author="Karna" data-date="2007-07-24T04:24:13+00:00" data-subject="">
 
 I'm just glad that there are leaders like Van, Bit, Alias and all of the others that have helped get me so much xp so quickly!  Thanks for leading.
 
 </div>
 
-<div class="post" data-post-id="19391" data-author="Tap" data-date="2007-07-24T23:43:27+00:00">
+<div class="post" data-post-id="19391" data-author="Tap" data-date="2007-07-24T23:43:27+00:00" data-subject="">
 
 I have to agree.. those who gripe are usually the ones begging for someone to lead.  Catch-22
 
@@ -192,7 +192,7 @@ I have to agree.. those who gripe are usually the ones begging for someone to le
 
 </div>
 
-<div class="post" data-post-id="19471" data-author="alias" data-date="2007-07-27T17:41:29+00:00">
+<div class="post" data-post-id="19471" data-author="alias" data-date="2007-07-27T17:41:29+00:00" data-subject="">
 
 Suck up points will get you almost anywhere Karna.
 
@@ -200,7 +200,7 @@ Always happy to lead you.
 
 </div>
 
-<div class="post" data-post-id="19491" data-author="Malison" data-date="2007-07-28T01:43:09+00:00">
+<div class="post" data-post-id="19491" data-author="Malison" data-date="2007-07-28T01:43:09+00:00" data-subject="">
 
 This, on the other hand, is my style of leading :)
 

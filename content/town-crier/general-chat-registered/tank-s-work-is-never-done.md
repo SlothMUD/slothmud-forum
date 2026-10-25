@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39974" data-author="cnl" data-date="2022-10-08T04:47:34+00:00">
+<div class="post" data-post-id="39974" data-author="cnl" data-date="2022-10-08T04:47:34+00:00" data-subject="Tank&#x27;s work is never done">
 
 wut
 
@@ -80,13 +80,13 @@ An unstable cholem vibrates intensely for a moment, settles down, and then explo
 
 </div>
 
-<div class="post" data-post-id="39975" data-author="Insomnia" data-date="2022-10-08T09:14:36+00:00">
+<div class="post" data-post-id="39975" data-author="Insomnia" data-date="2022-10-08T09:14:36+00:00" data-subject="Re: Tank&#x27;s work is never done">
 
 Also happens every time with naka assassins, if you accidentally die in the Matterhorn. FIve minutes of lying dead is just enough to clear the entire area from them. :)
 
 </div>
 
-<div class="post" data-post-id="39976" data-author="Insomnia" data-date="2022-10-08T10:11:21+00:00">
+<div class="post" data-post-id="39976" data-author="Insomnia" data-date="2022-10-08T10:11:21+00:00" data-subject="Re: Tank&#x27;s work is never done">
 
 Does the damage from petrified armor show up on counters?
 

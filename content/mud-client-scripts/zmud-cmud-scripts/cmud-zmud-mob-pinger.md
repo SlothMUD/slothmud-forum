@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31083" data-author="Gladavar" data-date="2010-05-04T14:33:48+00:00">
+<div class="post" data-post-id="31083" data-author="Gladavar" data-date="2010-05-04T14:33:48+00:00" data-subject="cmud/zmud mob pinger.">
 
 Not sure if anyone still uses zmud or not but here is a semi auto pinger i've been using in cmud and made sure it worked in zmud too.  wouldn't take much to make it auto if you wanted.
 

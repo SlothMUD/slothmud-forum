@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="26039" data-author="jezer" data-date="2008-08-31T10:06:56+00:00">
+<div class="post" data-post-id="26039" data-author="jezer" data-date="2008-08-31T10:06:56+00:00" data-subject="Random XP Loss">
 
 <1599hp 319ma 142mv -11.1ac +3al 1807450251[/color:308fmoju]xp +54mr>
 
@@ -68,13 +68,13 @@ Only 90m from level too... after mudding for 8hrs... really sucks.
 
 </div>
 
-<div class="post" data-post-id="26040" data-author="brady" data-date="2008-08-31T12:36:47+00:00">
+<div class="post" data-post-id="26040" data-author="brady" data-date="2008-08-31T12:36:47+00:00" data-subject="">
 
 [http://www.youtube.com/watch?v=1KSdZyvvhoM](http://www.youtube.com/watch?v=1KSdZyvvhoM)
 
 </div>
 
-<div class="post" data-post-id="26045" data-author="Yinao" data-date="2008-08-31T18:55:17+00:00">
+<div class="post" data-post-id="26045" data-author="Yinao" data-date="2008-08-31T18:55:17+00:00" data-subject="">
 
 I've ran into this problem too and I have gotten an explination for this once apon a time and I will repeat it as close as possible as it was explained to me... 
 
@@ -84,13 +84,13 @@ Hope that helps my suggestion is dont kill mobs with choppers shifted :)
 
 </div>
 
-<div class="post" data-post-id="26049" data-author="jezer" data-date="2008-08-31T23:51:57+00:00">
+<div class="post" data-post-id="26049" data-author="jezer" data-date="2008-08-31T23:51:57+00:00" data-subject="">
 
 Oh it's a feature!...  :roll:
 
 </div>
 
-<div class="post" data-post-id="26052" data-author="jezer" data-date="2008-09-01T02:57:12+00:00">
+<div class="post" data-post-id="26052" data-author="jezer" data-date="2008-09-01T02:57:12+00:00" data-subject="">
 
 Ok, from a few accounts, this is a known â€˜feature.â€™ Basically because Iâ€™m shifted Iâ€™m seen as a mob, and mobs should loose xp when chopped according to the games rules.
 
@@ -104,19 +104,19 @@ However... I think it would be nice is this code was removed/changed. Some mobs 
 
 </div>
 
-<div class="post" data-post-id="26053" data-author="Yinao" data-date="2008-09-01T03:00:27+00:00">
+<div class="post" data-post-id="26053" data-author="Yinao" data-date="2008-09-01T03:00:27+00:00" data-subject="">
 
 Don't worry I lost over 180 mil chopping apirana and the lyme mayor :)
 
 </div>
 
-<div class="post" data-post-id="26061" data-author="Tap" data-date="2008-09-01T12:34:14+00:00">
+<div class="post" data-post-id="26061" data-author="Tap" data-date="2008-09-01T12:34:14+00:00" data-subject="">
 
 Druids are overpowered.
 
 </div>
 
-<div class="post" data-post-id="26107" data-author="Rynquald" data-date="2008-09-02T22:56:50+00:00">
+<div class="post" data-post-id="26107" data-author="Rynquald" data-date="2008-09-02T22:56:50+00:00" data-subject="">
 
 It's just the way xp works, druids didn't even exist when this stuff was written.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="8746" data-author="Shara" data-date="2005-09-20T01:45:27+00:00">
+<div class="post" data-post-id="8746" data-author="Shara" data-date="2005-09-20T01:45:27+00:00" data-subject="Help!  I can&#x27;t connect!">
 
 I just moved back to school, and I think the school may have blocked the port that you guys use :(
 
@@ -18,13 +18,13 @@ Is there any other way for me to connect?
 
 </div>
 
-<div class="post" data-post-id="8752" data-author="Yasik" data-date="2005-09-20T13:42:46+00:00">
+<div class="post" data-post-id="8752" data-author="Yasik" data-date="2005-09-20T13:42:46+00:00" data-subject="">
 
 Happy ppls... teyh cannot connect :(
 
 </div>
 
-<div class="post" data-post-id="8753" data-author="Leaf" data-date="2005-09-20T13:43:01+00:00">
+<div class="post" data-post-id="8753" data-author="Leaf" data-date="2005-09-20T13:43:01+00:00" data-subject="">
 
 Your school has a firewall.  Now if u know ur programs and such, u can
 
@@ -38,7 +38,7 @@ tunnel to the outside network.
 
 </div>
 
-<div class="post" data-post-id="8756" data-author="Shara" data-date="2005-09-20T16:36:45+00:00">
+<div class="post" data-post-id="8756" data-author="Shara" data-date="2005-09-20T16:36:45+00:00" data-subject="">
 
 I got around it...
 
@@ -50,7 +50,7 @@ Stupid school!
 
 </div>
 
-<div class="post" data-post-id="8759" data-author="Leaf" data-date="2005-09-20T17:44:00+00:00">
+<div class="post" data-post-id="8759" data-author="Leaf" data-date="2005-09-20T17:44:00+00:00" data-subject="">
 
 Hehe will if u found the program, what is it?
 

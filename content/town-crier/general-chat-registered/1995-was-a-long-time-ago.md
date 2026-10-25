@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36493" data-author="Madigan" data-date="2016-01-17T11:52:57+00:00">
+<div class="post" data-post-id="36493" data-author="Madigan" data-date="2016-01-17T11:52:57+00:00" data-subject="1995 was a LONG time ago!">
 
 It's been a long time since I was first introduced to SLoth. Jake, Chris, Kenny... doubt any of you are still around, but HEY if so. I like to drop in every 10 years or so and say HEY, lol... The last time a few years ago I think I rolled some newbs and got lost in triangle reroll hell and left yet again. 
 
@@ -22,7 +22,7 @@ Jeff aka Madi, Tiger, God, Apollo (for a while), Taco ... I'm sure I had some ot
 
 </div>
 
-<div class="post" data-post-id="36495" data-author="Teron" data-date="2016-01-17T13:04:00+00:00">
+<div class="post" data-post-id="36495" data-author="Teron" data-date="2016-01-17T13:04:00+00:00" data-subject="Re: 1995 was a LONG time ago!">
 
 Hey, Jeff!
 
@@ -34,13 +34,13 @@ This is Tr from S2/S3, Teron from S3, now Taron .)
 
 </div>
 
-<div class="post" data-post-id="36500" data-author="Madigan" data-date="2016-01-17T13:33:56+00:00">
+<div class="post" data-post-id="36500" data-author="Madigan" data-date="2016-01-17T13:33:56+00:00" data-subject="Re: 1995 was a LONG time ago!">
 
 found my old emails for registration on zMud, will see if they work for registration of cMUD too. Thx
 
 </div>
 
-<div class="post" data-post-id="36502" data-author="cyprimus" data-date="2016-01-17T16:18:54+00:00">
+<div class="post" data-post-id="36502" data-author="cyprimus" data-date="2016-01-17T16:18:54+00:00" data-subject="Re: 1995 was a LONG time ago!">
 
 for a small fee you can upgrade to cmud, it allows you to import old triggers.
 

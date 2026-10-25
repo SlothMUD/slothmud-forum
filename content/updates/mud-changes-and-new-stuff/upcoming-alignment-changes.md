@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="6343" data-author="kjartan" data-date="2005-05-21T01:52:19+00:00">
+<div class="post" data-post-id="6343" data-author="kjartan" data-date="2005-05-21T01:52:19+00:00" data-subject="Upcoming alignment changes">
 
 Some more alignment changes will be in next reboot, to refine the last batch a bit:
 

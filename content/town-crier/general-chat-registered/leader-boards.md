@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30020" data-author="firebrand" data-date="2009-09-22T05:38:15+00:00">
+<div class="post" data-post-id="30020" data-author="firebrand" data-date="2009-09-22T05:38:15+00:00" data-subject="leader boards">
 
 i see only one or more of the following: toxis, cizin, rigwarl and zuzu  on every single one of the leader boards, with one exception - there is one week where stryx got in on sac points.  i think these guys need to be taken off their thrones!  guys you need to get out there and play more!  
 
@@ -20,13 +20,13 @@ on the other hand, i look at the who list and i see many people up there with lo
 
 </div>
 
-<div class="post" data-post-id="30022" data-author="Thraxas" data-date="2009-09-22T08:44:52+00:00">
+<div class="post" data-post-id="30022" data-author="Thraxas" data-date="2009-09-22T08:44:52+00:00" data-subject="">
 
 I see a full list of entries in the 2x and 1x lists ... there are very few 3x and 4x players right now though so perhaps very few entries on them should be expected.
 
 </div>
 
-<div class="post" data-post-id="30025" data-author="Stryx" data-date="2009-09-23T14:13:03+00:00">
+<div class="post" data-post-id="30025" data-author="Stryx" data-date="2009-09-23T14:13:03+00:00" data-subject="">
 
 [quote:11yrapnv] there is one week where stryx got in on sac points[/quote:11yrapnv]
 

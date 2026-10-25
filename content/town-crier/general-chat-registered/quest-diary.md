@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="20233" data-author="Malison" data-date="2007-09-08T22:41:11+00:00">
+<div class="post" data-post-id="20233" data-author="Malison" data-date="2007-09-08T22:41:11+00:00" data-subject="Quest Diary">
 
 The 5th Day of the Month of the Spring, Year 479
 
@@ -74,7 +74,7 @@ Redbeard
 
 </div>
 
-<div class="post" data-post-id="20234" data-author="Malison" data-date="2007-09-08T22:49:06+00:00">
+<div class="post" data-post-id="20234" data-author="Malison" data-date="2007-09-08T22:49:06+00:00" data-subject="clue #1">
 
 There is something written upon it:
 
@@ -90,7 +90,7 @@ end being as fat as Seda!
 
 </div>
 
-<div class="post" data-post-id="20235" data-author="Malison" data-date="2007-09-08T23:43:38+00:00">
+<div class="post" data-post-id="20235" data-author="Malison" data-date="2007-09-08T23:43:38+00:00" data-subject="clue #2">
 
 There is something written upon it:
 
@@ -104,7 +104,7 @@ he didnt become an inmortal).
 
 </div>
 
-<div class="post" data-post-id="20236" data-author="Atwell" data-date="2007-09-08T23:52:53+00:00">
+<div class="post" data-post-id="20236" data-author="Atwell" data-date="2007-09-08T23:52:53+00:00" data-subject="">
 
 The 1th day of the Month of Winter, year 622                   sssw
 
@@ -116,7 +116,7 @@ yellow teeth ... you could make a good (and big) collar with those!
 
 </div>
 
-<div class="post" data-post-id="20237" data-author="Atwell" data-date="2007-09-08T23:55:00+00:00">
+<div class="post" data-post-id="20237" data-author="Atwell" data-date="2007-09-08T23:55:00+00:00" data-subject="">
 
 correction on second note:
 
@@ -130,7 +130,7 @@ he didnt become an inmortal).
 
 </div>
 
-<div class="post" data-post-id="20238" data-author="Malison" data-date="2007-09-09T00:11:27+00:00">
+<div class="post" data-post-id="20238" data-author="Malison" data-date="2007-09-09T00:11:27+00:00" data-subject="">
 
 The 4th day of the Month of Winter, year 622                   swss
 
@@ -142,7 +142,7 @@ And actually, who cares?
 
 </div>
 
-<div class="post" data-post-id="20239" data-author="Atwell" data-date="2007-09-09T00:26:06+00:00">
+<div class="post" data-post-id="20239" data-author="Atwell" data-date="2007-09-09T00:26:06+00:00" data-subject="">
 
 The 5th day of the Month of Winter, year 622                   ssss
 
@@ -158,7 +158,7 @@ nightmares.  He created Isabo, so figure out!
 
 </div>
 
-<div class="post" data-post-id="20240" data-author="Atwell" data-date="2007-09-09T01:04:29+00:00">
+<div class="post" data-post-id="20240" data-author="Atwell" data-date="2007-09-09T01:04:29+00:00" data-subject="">
 
 The 2th day of the Month of Winter, year 622                   wwww
 
@@ -176,7 +176,7 @@ pervert!).
 
 </div>
 
-<div class="post" data-post-id="20241" data-author="Malison" data-date="2007-09-09T01:19:48+00:00">
+<div class="post" data-post-id="20241" data-author="Malison" data-date="2007-09-09T01:19:48+00:00" data-subject="">
 
 There is something written upon it:
 
@@ -192,7 +192,7 @@ Redbeard
 
 </div>
 
-<div class="post" data-post-id="20242" data-author="Malison" data-date="2007-09-09T01:46:07+00:00">
+<div class="post" data-post-id="20242" data-author="Malison" data-date="2007-09-09T01:46:07+00:00" data-subject="">
 
 Vault list: 
 
@@ -244,7 +244,7 @@ You have gained 18 drachma.
 
 </div>
 
-<div class="post" data-post-id="20243" data-author="Atwell" data-date="2007-09-09T02:05:34+00:00">
+<div class="post" data-post-id="20243" data-author="Atwell" data-date="2007-09-09T02:05:34+00:00" data-subject="">
 
 donations:
 
@@ -268,7 +268,7 @@ a heavy iron ring
 
 </div>
 
-<div class="post" data-post-id="20244" data-author="Atwell" data-date="2007-09-09T02:10:12+00:00">
+<div class="post" data-post-id="20244" data-author="Atwell" data-date="2007-09-09T02:10:12+00:00" data-subject="">
 
 all stuff still available:
 
@@ -320,7 +320,7 @@ a pulsating hematite orb..It emits a faint humming sound!
 
 </div>
 
-<div class="post" data-post-id="20251" data-author="Tap" data-date="2007-09-09T18:21:54+00:00">
+<div class="post" data-post-id="20251" data-author="Tap" data-date="2007-09-09T18:21:54+00:00" data-subject="">
 
 :x
 

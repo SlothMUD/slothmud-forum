@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="33150" data-author="Spink" data-date="2012-02-10T20:07:12+00:00">
+<div class="post" data-post-id="33150" data-author="Spink" data-date="2012-02-10T20:07:12+00:00" data-subject="Wiki question: how much info is too much info?">
 
 Greetings!
 
@@ -26,13 +26,13 @@ Note: I have read Strago's previous thread on the topic.  I realize this is a ve
 
 </div>
 
-<div class="post" data-post-id="33151" data-author="reboog" data-date="2012-02-10T21:35:55+00:00">
+<div class="post" data-post-id="33151" data-author="reboog" data-date="2012-02-10T21:35:55+00:00" data-subject="Re: Wiki question: how much info is too much info?">
 
 If I played the game, I would want all the data.
 
 </div>
 
-<div class="post" data-post-id="33152" data-author="Stark" data-date="2012-02-11T05:28:01+00:00">
+<div class="post" data-post-id="33152" data-author="Stark" data-date="2012-02-11T05:28:01+00:00" data-subject="Re: Wiki question: how much info is too much info?">
 
 I'm all about sharing as much information as possible, but that often seems to be at odds against the sloth philosophy.  I don't think anyone ever took seriously the original (and still on the front page) sloth philosophy of "to make everybody's lives as easy as possible."   :lol:  
 
@@ -42,7 +42,7 @@ Too many roadblocks and restrictions for my taste to ever bother with the wiki, 
 
 </div>
 
-<div class="post" data-post-id="33153" data-author="Spink" data-date="2012-02-11T07:49:25+00:00">
+<div class="post" data-post-id="33153" data-author="Spink" data-date="2012-02-11T07:49:25+00:00" data-subject="Re: Wiki question: how much info is too much info?">
 
 Hrm, thanks for drawing my attention to the extended rules page.  I had only read the section quoted at the top of that page.
 
@@ -54,7 +54,7 @@ Perhaps I will make something available on request to those who care to have it.
 
 </div>
 
-<div class="post" data-post-id="33154" data-author="*Breeze*" data-date="2012-02-11T14:14:54+00:00">
+<div class="post" data-post-id="33154" data-author="*Breeze*" data-date="2012-02-11T14:14:54+00:00" data-subject="Re: Wiki question: how much info is too much info?">
 
 it's called common sense.
 
@@ -70,7 +70,7 @@ i still haven't replied to the eqlist post as i am still considering my answer.
 
 </div>
 
-<div class="post" data-post-id="33155" data-author="Spink" data-date="2012-02-11T16:36:57+00:00">
+<div class="post" data-post-id="33155" data-author="Spink" data-date="2012-02-11T16:36:57+00:00" data-subject="Re: Wiki question: how much info is too much info?">
 
 > ***Breeze* wrote:**
 > it's called common sense.
@@ -87,7 +87,7 @@ To clarify my position, I don't want to report exact numbers for damage and heal
 
 </div>
 
-<div class="post" data-post-id="33156" data-author="*Breeze*" data-date="2012-02-11T16:54:22+00:00">
+<div class="post" data-post-id="33156" data-author="*Breeze*" data-date="2012-02-11T16:54:22+00:00" data-subject="Re: Wiki question: how much info is too much info?">
 
 its a bit harder than it seems.
 
@@ -115,7 +115,7 @@ breeze
 
 </div>
 
-<div class="post" data-post-id="33205" data-author="Yasik" data-date="2012-03-14T08:48:36+00:00">
+<div class="post" data-post-id="33205" data-author="Yasik" data-date="2012-03-14T08:48:36+00:00" data-subject="Re: Wiki question: how much info is too much info?">
 
 Don't reveal anything.
 

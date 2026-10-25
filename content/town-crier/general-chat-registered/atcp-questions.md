@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="33887" data-author="dracmas" data-date="2013-01-04T10:03:48+00:00">
+<div class="post" data-post-id="33887" data-author="dracmas" data-date="2013-01-04T10:03:48+00:00" data-subject="ATCP Questions">
 
 I've fleshed out the plugin Im making for Mudlet and I'm almost certain that atcp is being sent to the client AFTER the prompt is sent. If this is the case, data is always going to be trailing behind. health/mana/moves will be off during fights as well as in movement. While traveling around it will show you the previous room you were in while moving on to the next.
 
@@ -22,7 +22,7 @@ Also, if you have any ideas I could add to this plugin I'd be happy to look into
 
 </div>
 
-<div class="post" data-post-id="33888" data-author="*Breeze*" data-date="2013-01-04T11:10:18+00:00">
+<div class="post" data-post-id="33888" data-author="*Breeze*" data-date="2013-01-04T11:10:18+00:00" data-subject="Re: ATCP Questions">
 
 pretty plugin
 
@@ -42,7 +42,7 @@ rick should be back in awhile and he can probably give you a better answer.
 
 </div>
 
-<div class="post" data-post-id="33889" data-author="dracmas" data-date="2013-01-04T12:09:15+00:00">
+<div class="post" data-post-id="33889" data-author="dracmas" data-date="2013-01-04T12:09:15+00:00" data-subject="Re: ATCP Questions">
 
 At least from what I've gathered, I can't update the msdp without a triggered event.
 
@@ -54,7 +54,7 @@ I'll post version two tonight. so  you all can play with it.
 
 </div>
 
-<div class="post" data-post-id="33890" data-author="*Breeze*" data-date="2013-01-04T13:17:19+00:00">
+<div class="post" data-post-id="33890" data-author="*Breeze*" data-date="2013-01-04T13:17:19+00:00" data-subject="Re: ATCP Questions">
 
 you cant trigger off of prompt. you have to trigger off of something else
 
@@ -62,7 +62,7 @@ or a loop of some sort that runs every 2 seconds or so.
 
 </div>
 
-<div class="post" data-post-id="33891" data-author="dracmas" data-date="2013-01-04T14:24:06+00:00">
+<div class="post" data-post-id="33891" data-author="dracmas" data-date="2013-01-04T14:24:06+00:00" data-subject="Re: ATCP Questions">
 
 I asked for help fixing it. Im just not sure how to call for it.
 
@@ -70,7 +70,7 @@ In the meantime, Here's the script if you want to see it.
 
 </div>
 
-<div class="post" data-post-id="33892" data-author="*Breeze*" data-date="2013-01-04T16:14:33+00:00">
+<div class="post" data-post-id="33892" data-author="*Breeze*" data-date="2013-01-04T16:14:33+00:00" data-subject="Re: ATCP Questions">
 
 how do you use it?
 
@@ -78,7 +78,7 @@ i load it, reconnect and it still looks the same, except i see your msdp enabled
 
 </div>
 
-<div class="post" data-post-id="33893" data-author="dracmas" data-date="2013-01-05T01:27:40+00:00">
+<div class="post" data-post-id="33893" data-author="dracmas" data-date="2013-01-05T01:27:40+00:00" data-subject="Re: ATCP Questions">
 
 Ripped out the prompt, updating to work off of events instead of prompt/timers. Now it's just WHEN to call for MSDP. Mine has no specifications yet, so It asks for it right when you try to log in. Then after you're in the game it keeps requesting, so I need to have a conditional statement to stop requesting variables as well.
 
@@ -86,7 +86,7 @@ Ripped out the prompt, updating to work off of events instead of prompt/timers. 
 
 </div>
 
-<div class="post" data-post-id="33894" data-author="dracmas" data-date="2013-01-05T06:03:29+00:00">
+<div class="post" data-post-id="33894" data-author="dracmas" data-date="2013-01-05T06:03:29+00:00" data-subject="Re: ATCP Questions">
 
 I'd be ripping out my hair if I had any. 
 
@@ -102,7 +102,7 @@ to to get t the ball rolling.
 
 </div>
 
-<div class="post" data-post-id="33895" data-author="dracmas" data-date="2013-01-06T00:13:43+00:00">
+<div class="post" data-post-id="33895" data-author="dracmas" data-date="2013-01-06T00:13:43+00:00" data-subject="Re: ATCP Questions">
 
 A few fixes to the gui plugin. 
 
@@ -118,7 +118,7 @@ A few fixes to the gui plugin.
 
 </div>
 
-<div class="post" data-post-id="33900" data-author="dracmas" data-date="2013-01-08T04:57:02+00:00">
+<div class="post" data-post-id="33900" data-author="dracmas" data-date="2013-01-08T04:57:02+00:00" data-subject="Re: ATCP Questions">
 
 My last post on this. I complained about no comments in someone elses script when I didn't say anything within my own. I've started working on more graphical guis but didn't feel like this was complete until I commented on what I've done so you can see what's happening.
 

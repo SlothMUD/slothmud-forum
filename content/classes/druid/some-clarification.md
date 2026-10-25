@@ -10,7 +10,7 @@ locked: false
 post_count: 24
 ---
 
-<div class="post" data-post-id="3018" data-author="Zeizel" data-date="2004-11-24T10:33:03+00:00">
+<div class="post" data-post-id="3018" data-author="Zeizel" data-date="2004-11-24T10:33:03+00:00" data-subject="Some clarification">
 
 I was reading through a lot of the older forum topics last night, and I saw a lot about the nerf'ing of various classes.  Since most of what I read was conjecture by players, and at least a month old (and I know there have been a lot of changes to the MUD recently), I was wondering if anyone would mind spelling out the benefits of being a Druid Prime over being, say, Druid Tertiary?
 
@@ -30,7 +30,7 @@ Thanks for everyone's input!
 
 </div>
 
-<div class="post" data-post-id="3020" data-author="Alberich" data-date="2004-11-24T10:46:07+00:00">
+<div class="post" data-post-id="3020" data-author="Alberich" data-date="2004-11-24T10:46:07+00:00" data-subject="">
 
 the major, all-around upside to dr primes are their insane regen - even nerfed, it is not hard for a lowbie druid (3x40-ish) to regen 100+ mana outdoors.  aside from that, I do believe dr primes get bonuses to their shifted forms, as well as less lag when battleshifting.
 
@@ -38,7 +38,7 @@ as for your questions about classo... it really depends on how you want to play.
 
 </div>
 
-<div class="post" data-post-id="3021" data-author="Leaf" data-date="2004-11-24T10:48:37+00:00">
+<div class="post" data-post-id="3021" data-author="Leaf" data-date="2004-11-24T10:48:37+00:00" data-subject="">
 
 I'm not sure what RP stands for ... but.  As a Druid prime now u get around
 
@@ -66,7 +66,7 @@ I'm not 100% correct, it's from what I've heard.  I hope this helpped.
 
 </div>
 
-<div class="post" data-post-id="3022" data-author="Zeizel" data-date="2004-11-24T10:58:08+00:00">
+<div class="post" data-post-id="3022" data-author="Zeizel" data-date="2004-11-24T10:58:08+00:00" data-subject="">
 
 I've noticed that I have rather poor regen rates, myself.  For being *the* regen class, I still have to wait usually around 10 ticks to completely regen my measely 300 mana (and YES, I'm regenning outside).  Is this something that's beefed up w/Dr levels?
 
@@ -80,7 +80,7 @@ As always, thanks for your responses!
 
 </div>
 
-<div class="post" data-post-id="3023" data-author="Zeizel" data-date="2004-11-24T11:01:30+00:00">
+<div class="post" data-post-id="3023" data-author="Zeizel" data-date="2004-11-24T11:01:30+00:00" data-subject="">
 
 I'm not sure what RP stands for ... but.  As a Druid prime now u get around
 
@@ -112,13 +112,13 @@ By the way, RP stands for Role Play[ing].
 
 </div>
 
-<div class="post" data-post-id="3024" data-author="Alberich" data-date="2004-11-24T11:10:37+00:00">
+<div class="post" data-post-id="3024" data-author="Alberich" data-date="2004-11-24T11:10:37+00:00" data-subject="">
 
 druid regen increases with levels, like everyone elses - regen is maxed at 2x40 (until avatar levels) I believe.  Also need to figure in regen eq - part of what gives druids their mad regen is the really, really nice +mr gear that is dr restricted.
 
 </div>
 
-<div class="post" data-post-id="3025" data-author="Zeizel" data-date="2004-11-24T11:58:00+00:00">
+<div class="post" data-post-id="3025" data-author="Zeizel" data-date="2004-11-24T11:58:00+00:00" data-subject="">
 
 Okay, so then regenning about 20 mana / tick with +6 MR worth of EQ is normal for a low-level Druid?
 
@@ -132,7 +132,7 @@ My suggestion: Either beef up Dr Primes (give us a new prime-only shape that sta
 
 </div>
 
-<div class="post" data-post-id="3027" data-author="Leaf" data-date="2004-11-24T12:35:15+00:00">
+<div class="post" data-post-id="3027" data-author="Leaf" data-date="2004-11-24T12:35:15+00:00" data-subject="">
 
 If u only regen 20mr a tick with +6regen eq... +14mr sounds WAY WAY to 
 
@@ -150,7 +150,7 @@ the flames, I want to say the -.3 neck is incorrect and worn about the body.
 
 </div>
 
-<div class="post" data-post-id="3028" data-author="Alberich" data-date="2004-11-24T12:45:01+00:00">
+<div class="post" data-post-id="3028" data-author="Alberich" data-date="2004-11-24T12:45:01+00:00" data-subject="">
 
 there's prime eq for all classes - search eqlist.
 
@@ -158,7 +158,7 @@ as for the ac thing... you can get enough to be webbable... beyond that.. i do n
 
 </div>
 
-<div class="post" data-post-id="3029" data-author="Leaf" data-date="2004-11-24T12:49:07+00:00">
+<div class="post" data-post-id="3029" data-author="Leaf" data-date="2004-11-24T12:49:07+00:00" data-subject="">
 
 there's prime eq for all classes - search eqlist.
 
@@ -176,7 +176,7 @@ shift pouch :)
 
 </div>
 
-<div class="post" data-post-id="3030" data-author="Leaf" data-date="2004-11-24T12:59:10+00:00">
+<div class="post" data-post-id="3030" data-author="Leaf" data-date="2004-11-24T12:59:10+00:00" data-subject="">
 
 there's prime eq for all classes - search eqlist.
 
@@ -194,7 +194,7 @@ shift pouch :)
 
 </div>
 
-<div class="post" data-post-id="3033" data-author="none" data-date="2004-11-24T13:19:56+00:00">
+<div class="post" data-post-id="3033" data-author="none" data-date="2004-11-24T13:19:56+00:00" data-subject="regen">
 
 I guess if they rebuilt the mana regen engine, this might no longer be correct.  The way it used to work, you got increased mana regen rates every 4 prime levels.  Levels in other classes didn't matter, only prime.
 
@@ -202,13 +202,13 @@ You don't see your regen/tick shown in your score until 2x40.
 
 </div>
 
-<div class="post" data-post-id="3034" data-author="Alberich" data-date="2004-11-24T13:25:48+00:00">
+<div class="post" data-post-id="3034" data-author="Alberich" data-date="2004-11-24T13:25:48+00:00" data-subject="">
 
 i didn't say it was possible to get the -1.0 with shifted eq, i said it would be unreasonable :)  i also seem to recall some +12 ma wrist thingies that where dr prime in cloud giants, as well as that badass hat they get for their prime auto
 
 </div>
 
-<div class="post" data-post-id="3035" data-author="Zeizel" data-date="2004-11-24T13:35:57+00:00">
+<div class="post" data-post-id="3035" data-author="Zeizel" data-date="2004-11-24T13:35:57+00:00" data-subject="">
 
 I was timing that with a Tick Counter, so it's fairly accurate.  I watched fairly closely when I was solo'ing last night, and the average I saw was 21 mana / tick.
 
@@ -222,7 +222,7 @@ Just a passing thought / pipe dream :-P
 
 </div>
 
-<div class="post" data-post-id="3038" data-author="Alexdmage" data-date="2004-11-24T16:20:45+00:00">
+<div class="post" data-post-id="3038" data-author="Alexdmage" data-date="2004-11-24T16:20:45+00:00" data-subject="">
 
 It IS possible to collect -1.0 AC shiftable eq, right now i need 4 cps to finish my, you just need to take 3x40 clasp maple leaf brooch for that.
 
@@ -242,19 +242,19 @@ it makes -1.0/-1.2 AC in total
 
 </div>
 
-<div class="post" data-post-id="3039" data-author="Prometheus" data-date="2004-11-24T16:58:45+00:00">
+<div class="post" data-post-id="3039" data-author="Prometheus" data-date="2004-11-24T16:58:45+00:00" data-subject="">
 
 Well I don't have much to contribute, but I'd just like to say zeizel, check your regen again, check if you were thirsty/hungry, poisoned, diseased, anything, because 20 is WAY too low for a druid of your levels.  Synergy, a level 32 druid with somewhere around +10 from eq gets something like 90 sleeping outside.  So, if you're getting 20 you personally are getting the shaft... the druid class holds it own I've found :)
 
 </div>
 
-<div class="post" data-post-id="3040" data-author="12345" data-date="2004-11-24T17:23:14+00:00">
+<div class="post" data-post-id="3040" data-author="12345" data-date="2004-11-24T17:23:14+00:00" data-subject="">
 
 Out of curiousity, could someone post the stats for the mythic forms?  Think all of the ones up to Dragon are pretty well known.
 
 </div>
 
-<div class="post" data-post-id="3047" data-author="Zeizel" data-date="2004-11-25T00:36:31+00:00">
+<div class="post" data-post-id="3047" data-author="Zeizel" data-date="2004-11-25T00:36:31+00:00" data-subject="">
 
 zeizel, check your regen again, check if you were thirsty/hungry[/quote:h5uvz6us]
 
@@ -262,7 +262,7 @@ BINGO!  I double checked this tonight (between a spell warning and expiry), and 
 
 </div>
 
-<div class="post" data-post-id="3054" data-author="Leaf" data-date="2004-11-25T15:55:45+00:00">
+<div class="post" data-post-id="3054" data-author="Leaf" data-date="2004-11-25T15:55:45+00:00" data-subject="">
 
 Hehe yea being hungry/thirsty will drop ur regen like mad.  Always keep
 
@@ -270,7 +270,7 @@ urself full and well hydrated.
 
 </div>
 
-<div class="post" data-post-id="6765" data-author="nexus" data-date="2005-06-03T06:45:20+00:00">
+<div class="post" data-post-id="6765" data-author="nexus" data-date="2005-06-03T06:45:20+00:00" data-subject="">
 
 The idea of giving more specific power to Prime Druid or weaking down nonprime sound really good.
 
@@ -282,7 +282,7 @@ Ne/Dr is far more powerful....
 
 </div>
 
-<div class="post" data-post-id="6767" data-author="Leaf" data-date="2005-06-03T09:49:32+00:00">
+<div class="post" data-post-id="6767" data-author="Leaf" data-date="2005-06-03T09:49:32+00:00" data-subject="">
 
 That is not fair i think. What is the point in playing Dr Prime then?
 
@@ -294,7 +294,7 @@ like Dr 2nd, 3rd, or 4th.  Same goes with Dr Prime mana regen.
 
 </div>
 
-<div class="post" data-post-id="6771" data-author="13" data-date="2005-06-03T12:33:41+00:00">
+<div class="post" data-post-id="6771" data-author="13" data-date="2005-06-03T12:33:41+00:00" data-subject="">
 
 Alexdmage is wrong.
 
@@ -314,7 +314,7 @@ yay.
 
 </div>
 
-<div class="post" data-post-id="6772" data-author="Leaf" data-date="2005-06-03T12:53:11+00:00">
+<div class="post" data-post-id="6772" data-author="Leaf" data-date="2005-06-03T12:53:11+00:00" data-subject="">
 
 I don't know if ur summons would do a massive amount of dam if they
 
@@ -326,7 +326,7 @@ long fight in the long run :)
 
 </div>
 
-<div class="post" data-post-id="6786" data-author="Avatar" data-date="2005-06-03T17:37:45+00:00">
+<div class="post" data-post-id="6786" data-author="Avatar" data-date="2005-06-03T17:37:45+00:00" data-subject="Druids etc.">
 
 Yo 13, someone resurrected a dead thread.  AlexD posted way back in 2004, there were no thorns in game at the time.
 

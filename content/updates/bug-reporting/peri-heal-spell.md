@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36743" data-author="igneus" data-date="2016-03-14T12:48:51+00:00">
+<div class="post" data-post-id="36743" data-author="igneus" data-date="2016-03-14T12:48:51+00:00" data-subject="Peri heal spell">
 
 Peri has not been healing since reboot today.
 
 </div>
 
-<div class="post" data-post-id="36744" data-author="*teker*" data-date="2016-03-14T15:55:45+00:00">
+<div class="post" data-post-id="36744" data-author="*teker*" data-date="2016-03-14T15:55:45+00:00" data-subject="Re: Peri heal spell">
 
 The mob proc issues we've been seeing should be fixed today (good and bad for players).  If there appear to be mobs that still aren't working, let us know.
 

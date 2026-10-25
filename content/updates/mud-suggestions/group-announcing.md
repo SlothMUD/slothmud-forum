@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="38110" data-author="cyprimus" data-date="2017-03-10T18:29:16+00:00">
+<div class="post" data-post-id="38110" data-author="cyprimus" data-date="2017-03-10T18:29:16+00:00" data-subject="group announcing">
 
 could we maybe get the fanatic to gossip in his own way about groups forming.. say 5+ ppl... he gossip something about 'omg gorka is leading a group!' or something along those lines
 
@@ -18,7 +18,7 @@ only when groups open
 
 </div>
 
-<div class="post" data-post-id="38111" data-author="Gorka" data-date="2017-03-11T10:20:29+00:00">
+<div class="post" data-post-id="38111" data-author="Gorka" data-date="2017-03-11T10:20:29+00:00" data-subject="Re: group announcing">
 
 50/50 call I think Cyp.
 
@@ -36,13 +36,13 @@ Don't we have an events mailing list for a similar feature?
 
 </div>
 
-<div class="post" data-post-id="38192" data-author="Tuck" data-date="2017-03-30T19:00:00+00:00">
+<div class="post" data-post-id="38192" data-author="Tuck" data-date="2017-03-30T19:00:00+00:00" data-subject="Re: group announcing">
 
 i'm trying to announce most group/epics on all resources that i have: klan, telegram, etc.
 
 </div>
 
-<div class="post" data-post-id="38199" data-author="Teron" data-date="2017-03-31T12:17:20+00:00">
+<div class="post" data-post-id="38199" data-author="Teron" data-date="2017-03-31T12:17:20+00:00" data-subject="Re: group announcing">
 
 The solution is to gossip work in sleep, because ppl miss group announcements at the rare times there are any.
 

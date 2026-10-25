@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34078" data-author="Constin" data-date="2013-02-23T10:08:37+00:00">
+<div class="post" data-post-id="34078" data-author="Constin" data-date="2013-02-23T10:08:37+00:00" data-subject="death pinger for channels">
 
 Hello. this script will autocheck all ur channel members if they left channel because they dead or just logout or for other reason. Script will alert at gossip, clan and channel channels if someone dead.
 

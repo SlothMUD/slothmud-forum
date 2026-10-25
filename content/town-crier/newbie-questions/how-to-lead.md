@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="10302" data-author="12345" data-date="2006-01-23T17:36:56+00:00">
+<div class="post" data-post-id="10302" data-author="12345" data-date="2006-01-23T17:36:56+00:00" data-subject="How to Lead">
 
 Some of the lower levels on Valk aren't too difficult to solo, depending on your classo and knowledge, but as you get up in levels, odds are that you'll want to group.  Among the many reasons for this, it's simply easier to specialize and take advantage of everyone's various strengths than to try to do everything yourself.  Also, with a well formed group, you actually eliminate the need to regen and get more xp per mob than you could get on your own, and in a shorter time.
 
@@ -128,13 +128,13 @@ Most of all, have fun :)
 
 </div>
 
-<div class="post" data-post-id="10314" data-author="Bazilus" data-date="2006-01-24T15:16:42+00:00">
+<div class="post" data-post-id="10314" data-author="Bazilus" data-date="2006-01-24T15:16:42+00:00" data-subject="">
 
 nice info :)
 
 </div>
 
-<div class="post" data-post-id="10315" data-author="Vixn" data-date="2006-01-24T17:24:05+00:00">
+<div class="post" data-post-id="10315" data-author="Vixn" data-date="2006-01-24T17:24:05+00:00" data-subject="Re: How to Lead">
 
 Tank - Easiest job going.  ..it's their job to stand there and die first.... so it helps to be suicidal..[/quote:3ov701qz]
 
@@ -144,7 +144,7 @@ p.s. Sure, I'm just kidding. It's very nice tractate and I think it should be mo
 
 </div>
 
-<div class="post" data-post-id="10316" data-author="kjartan" data-date="2006-01-24T17:58:24+00:00">
+<div class="post" data-post-id="10316" data-author="kjartan" data-date="2006-01-24T17:58:24+00:00" data-subject="Re: How to Lead">
 
 It's very nice tractate[/quote:2ljkejo1]
 
@@ -156,7 +156,7 @@ I agree.
 
 </div>
 
-<div class="post" data-post-id="10321" data-author="Medios" data-date="2006-01-24T22:16:09+00:00">
+<div class="post" data-post-id="10321" data-author="Medios" data-date="2006-01-24T22:16:09+00:00" data-subject="">
 
 Very nice post.  One thing that I disagree with is your ordering of class
 
@@ -196,7 +196,7 @@ PS Grats to all the new leaders I have seen lately, keep up the good work.
 
 </div>
 
-<div class="post" data-post-id="10335" data-author="12345" data-date="2006-01-25T13:59:38+00:00">
+<div class="post" data-post-id="10335" data-author="12345" data-date="2006-01-25T13:59:38+00:00" data-subject="">
 
 Aye, this was mostly intended to cover the basics, but those are good points.  I also forgot some things, such as how to handle weakening and silencing, and general order of debuffing.
 
@@ -212,7 +212,7 @@ On the other hand, if folks are dying/shocking on a regular basis from things ot
 
 </div>
 
-<div class="post" data-post-id="10339" data-author="Autolycos" data-date="2006-01-25T15:52:03+00:00">
+<div class="post" data-post-id="10339" data-author="Autolycos" data-date="2006-01-25T15:52:03+00:00" data-subject="">
 
 Monks after warriors due to high dmg reduction / hp / ac / dmg.  Monks can take hits alot better than thieves can etc. [/quote:2rxyzdqw]
 
@@ -224,13 +224,13 @@ personally.. i would much rather have Nab get the krap beat out of him then me..
 
 </div>
 
-<div class="post" data-post-id="38230" data-author="Teron" data-date="2017-05-02T12:26:23+00:00">
+<div class="post" data-post-id="38230" data-author="Teron" data-date="2017-05-02T12:26:23+00:00" data-subject="Re: How to Lead">
 
 Necro-upping the thread. A good start from ... who was 12345 ingame?
 
 </div>
 
-<div class="post" data-post-id="38231" data-author="Dagger" data-date="2017-05-02T16:50:57+00:00">
+<div class="post" data-post-id="38231" data-author="Dagger" data-date="2017-05-02T16:50:57+00:00" data-subject="Re: How to Lead">
 
 Nice write-up. 
 
@@ -242,7 +242,7 @@ made a cleric or necro.
 
 </div>
 
-<div class="post" data-post-id="38232" data-author="Gorka" data-date="2017-05-03T13:02:23+00:00">
+<div class="post" data-post-id="38232" data-author="Gorka" data-date="2017-05-03T13:02:23+00:00" data-subject="Re: How to Lead">
 
 https://www.youtube.com/watch?v=mLyOj_QD4a4
 

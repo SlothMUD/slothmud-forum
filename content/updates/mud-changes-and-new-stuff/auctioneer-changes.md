@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="35487" data-author="*Splork*" data-date="2014-11-03T17:03:18+00:00">
+<div class="post" data-post-id="35487" data-author="*Splork*" data-date="2014-11-03T17:03:18+00:00" data-subject="Auctioneer Changes">
 
 We have made a couple of slight adjustments to the auctioneers:
 
@@ -30,7 +30,7 @@ Splork & Breeze
 
 </div>
 
-<div class="post" data-post-id="35489" data-author="*Breeze*" data-date="2014-11-04T12:52:01+00:00">
+<div class="post" data-post-id="35489" data-author="*Breeze*" data-date="2014-11-04T12:52:01+00:00" data-subject="Re: Auctioneer Changes">
 
 In on reboot::
 
@@ -50,7 +50,7 @@ SlothMUD Auctioneer
 
 </div>
 
-<div class="post" data-post-id="35491" data-author="*Breeze*" data-date="2014-11-06T14:55:35+00:00">
+<div class="post" data-post-id="35491" data-author="*Breeze*" data-date="2014-11-06T14:55:35+00:00" data-subject="Re: Auctioneer Changes">
 
 in now
 
@@ -70,7 +70,7 @@ wider lots/status display for those who have a screen wide enough to see it (and
 
 </div>
 
-<div class="post" data-post-id="35493" data-author="*Breeze*" data-date="2014-11-07T10:49:34+00:00">
+<div class="post" data-post-id="35493" data-author="*Breeze*" data-date="2014-11-07T10:49:34+00:00" data-subject="Re: Auctioneer Changes">
 
 added:
 

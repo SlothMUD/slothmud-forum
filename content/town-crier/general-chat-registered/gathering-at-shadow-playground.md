@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30012" data-author="yoshimi" data-date="2009-09-20T14:05:30+00:00">
+<div class="post" data-post-id="30012" data-author="yoshimi" data-date="2009-09-20T14:05:30+00:00" data-subject="Gathering at Shadow Playground">
 
 I was hitting shadow playground trying to forge a raise wand and I notice all the mobs went into hiding. Could someone give me a tell online or enlighten me on how to release them from the dungeon. Tried phasing and can't get into that room. Hunt don't work. Seems like its a disjointed room that mobs may repop in
 
@@ -54,7 +54,7 @@ Shadow of Zodiac               - The Shadow Dungeon
 
 </div>
 
-<div class="post" data-post-id="30013" data-author="*juggleblood*" data-date="2009-09-21T02:21:41+00:00">
+<div class="post" data-post-id="30013" data-author="*juggleblood*" data-date="2009-09-21T02:21:41+00:00" data-subject="">
 
 Well, you are correct. There are unattached rooms where some mobs are loading.  In fact at least one mob only loads there.
 
@@ -64,7 +64,7 @@ Perhaps you can send me a pm and tell me what you know about the area. Give me s
 
 </div>
 
-<div class="post" data-post-id="30017" data-author="*Chobbs*" data-date="2009-09-21T15:56:25+00:00">
+<div class="post" data-post-id="30017" data-author="*Chobbs*" data-date="2009-09-21T15:56:25+00:00" data-subject="">
 
 Resolved.  99% sure anyhoo.
 

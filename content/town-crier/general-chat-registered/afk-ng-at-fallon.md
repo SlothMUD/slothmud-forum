@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29995" data-author="*Splork*" data-date="2009-09-16T20:35:45+00:00">
+<div class="post" data-post-id="29995" data-author="*Splork*" data-date="2009-09-16T20:35:45+00:00" data-subject="AFK&#x27;ng at Fallon!">
 
 Wed Sep 16 11:26:24 2009	** Rigwarl naively fought the berserker and lost at 7 o'clock am on the Day of the Sun
 
@@ -22,7 +22,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29996" data-author="Rigwarl" data-date="2009-09-16T20:37:54+00:00">
+<div class="post" data-post-id="29996" data-author="Rigwarl" data-date="2009-09-16T20:37:54+00:00" data-subject="">
 
 In my defence, that berserker was on steroids! And what was he doing there anyways :) It's my personal vault!
 

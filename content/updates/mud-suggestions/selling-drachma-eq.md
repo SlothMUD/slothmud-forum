@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="32179" data-author="Teron" data-date="2010-12-18T16:00:09+00:00">
+<div class="post" data-post-id="32179" data-author="Teron" data-date="2010-12-18T16:00:09+00:00" data-subject="Selling Drachma EQ">
 
 Greetings.
 
@@ -56,13 +56,13 @@ Thank you.
 
 </div>
 
-<div class="post" data-post-id="32180" data-author="blackmore" data-date="2010-12-18T17:34:23+00:00">
+<div class="post" data-post-id="32180" data-author="blackmore" data-date="2010-12-18T17:34:23+00:00" data-subject="Re: Selling Drachma EQ">
 
 While I  don't think asking to get a full refund for used eq is likely going to happen, it would be nice if you got more than 1/3.  What I want at 3x40 or 4x40 will be vastly different than what I want at 8x40 after 2 more 3x40 items and who knows how many items added/found, runes, etc.
 
 </div>
 
-<div class="post" data-post-id="32181" data-author="Thraxas" data-date="2010-12-18T23:42:14+00:00">
+<div class="post" data-post-id="32181" data-author="Thraxas" data-date="2010-12-18T23:42:14+00:00" data-subject="Re: Selling Drachma EQ">
 
 > **Teron wrote:**
 > What I suggest is that players should be able to sell the drachma equipment for the amount they paid for it.
@@ -73,7 +73,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="32182" data-author="Teron" data-date="2010-12-19T01:26:48+00:00">
+<div class="post" data-post-id="32182" data-author="Teron" data-date="2010-12-19T01:26:48+00:00" data-subject="Re: Selling Drachma EQ">
 
 Severely limiting eq change by total 40 gained is counterproductive to the change.
 
@@ -85,7 +85,7 @@ I don't see how it might cost exp, though. But having heard complains about too 
 
 </div>
 
-<div class="post" data-post-id="32183" data-author="jezer" data-date="2010-12-19T18:38:52+00:00">
+<div class="post" data-post-id="32183" data-author="jezer" data-date="2010-12-19T18:38:52+00:00" data-subject="Re: Selling Drachma EQ">
 
 I to am having to fight back laughs at the thought of the imms even CONSIDERING giving you your full drachma back when selling drachma items.
 
@@ -99,13 +99,13 @@ I think most players could easy spend 1500 drachma if they had it. However I fin
 
 </div>
 
-<div class="post" data-post-id="32184" data-author="Stab" data-date="2010-12-19T19:00:23+00:00">
+<div class="post" data-post-id="32184" data-author="Stab" data-date="2010-12-19T19:00:23+00:00" data-subject="Re: Selling Drachma EQ">
 
 Agreed, that play "will be vastly different " at 8x40. Maybe that's when a drach eq pro-rated exchange might be enabled. Something like 5 exchanges allowed at somewhat reduced rates compared to 3x40 swaps but still very substantial. Say 10% drach penalty + 10mils for the first 'refund/exchange' and forward. ? It does approach viability, albeit somewhat on the high side. It's worth ressurecting the conversation with 8x40 +40 ingame now.
 
 </div>
 
-<div class="post" data-post-id="32187" data-author="Dragoth" data-date="2010-12-20T15:40:43+00:00">
+<div class="post" data-post-id="32187" data-author="Dragoth" data-date="2010-12-20T15:40:43+00:00" data-subject="Re: Selling Drachma EQ">
 
 How about a skill that would allow for more efficient trading ?
 

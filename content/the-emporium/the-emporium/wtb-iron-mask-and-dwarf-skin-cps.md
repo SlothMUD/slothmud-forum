@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="7321" data-author="Weasel" data-date="2005-06-18T02:20:34+00:00">
+<div class="post" data-post-id="7321" data-author="Weasel" data-date="2005-06-18T02:20:34+00:00" data-subject="WTB iron mask and dwarf skin (cps)">
 
 Looking for the following 2 cps to finish a couple of forges: 
 

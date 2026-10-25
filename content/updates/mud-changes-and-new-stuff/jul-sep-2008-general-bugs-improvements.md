@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26453" data-author="Judge" data-date="2008-09-24T12:10:47+00:00">
+<div class="post" data-post-id="26453" data-author="Judge" data-date="2008-09-24T12:10:47+00:00" data-subject="Jul-Sep 2008: General Bugs/Improvements">
 
 Here are the code fixes/changes I've made since July up September... this list only includes ones that the player is likely to notice.  Of course there are about 400% more changes than the ones listed below that are to do with the overall maintenance of the system,new/updated procs/immortal commands etc...etc...
 

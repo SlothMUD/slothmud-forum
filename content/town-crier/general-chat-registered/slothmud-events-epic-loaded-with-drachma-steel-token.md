@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37072" data-author="Ker" data-date="2016-07-17T21:17:45+00:00">
+<div class="post" data-post-id="37072" data-author="Ker" data-date="2016-07-17T21:17:45+00:00" data-subject="Slothmud- EVENTS (Epic loaded with drachma steel token)">
 
 Good day brave adventurers,
 

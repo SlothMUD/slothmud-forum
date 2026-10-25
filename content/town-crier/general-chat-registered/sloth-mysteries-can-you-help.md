@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="25530" data-author="jezer" data-date="2008-08-02T13:19:40+00:00">
+<div class="post" data-post-id="25530" data-author="jezer" data-date="2008-08-02T13:19:40+00:00" data-subject="Sloth Mysteries... Can you Help?">
 
 Mystery #1, On the map for crystal falls, there is a room behind the ward... but how do I get there?
 
@@ -70,7 +70,7 @@ golden city key
 
 </div>
 
-<div class="post" data-post-id="25532" data-author="13" data-date="2008-08-03T02:35:26+00:00">
+<div class="post" data-post-id="25532" data-author="13" data-date="2008-08-03T02:35:26+00:00" data-subject="">
 
 It's a trig trap to get in, Zarc and Foogey and I included it in the area for
 
@@ -78,19 +78,19 @@ the benefit of smart pthieves.
 
 </div>
 
-<div class="post" data-post-id="25534" data-author="jezer" data-date="2008-08-03T03:05:28+00:00">
+<div class="post" data-post-id="25534" data-author="jezer" data-date="2008-08-03T03:05:28+00:00" data-subject="">
 
 I'm neither a pthief, nor am I smart...  :(
 
 </div>
 
-<div class="post" data-post-id="25568" data-author="slobe" data-date="2008-08-03T21:55:19+00:00">
+<div class="post" data-post-id="25568" data-author="slobe" data-date="2008-08-03T21:55:19+00:00" data-subject="">
 
 I think the key is just like the key 2 the city. Wich ofcourse the mayor should have
 
 </div>
 
-<div class="post" data-post-id="25570" data-author="Rynquald" data-date="2008-08-03T23:45:39+00:00">
+<div class="post" data-post-id="25570" data-author="Rynquald" data-date="2008-08-03T23:45:39+00:00" data-subject="">
 
 After playing with the Crystal Falls ward for a while, I'm pretty sure it has something to do with the west wall, for example:
 
@@ -102,7 +102,7 @@ My only real theory at this point is that it might work if you while boarded whi
 
 </div>
 
-<div class="post" data-post-id="25571" data-author="jezer" data-date="2008-08-04T01:57:16+00:00">
+<div class="post" data-post-id="25571" data-author="jezer" data-date="2008-08-04T01:57:16+00:00" data-subject="">
 
 Well if Ryn can't solve it... the rest of us are doomed... I did have the thought though about being boarded giving one entry to the ward... cause it says mere mortals can not enter... which suggests to me it was doing a check on some player flag?
 
@@ -114,7 +114,7 @@ I love sloth, but hearing stories that make me believe that the immortals in the
 
 </div>
 
-<div class="post" data-post-id="25572" data-author="Sind" data-date="2008-08-04T05:27:58+00:00">
+<div class="post" data-post-id="25572" data-author="Sind" data-date="2008-08-04T05:27:58+00:00" data-subject=":)">
 
 I bet they had endless vault in that room as well!
 
@@ -124,7 +124,7 @@ As for sloth mysteries, hmm, if I remember right, there was some mysterious room
 
 </div>
 
-<div class="post" data-post-id="25573" data-author="13" data-date="2008-08-04T05:33:33+00:00">
+<div class="post" data-post-id="25573" data-author="13" data-date="2008-08-04T05:33:33+00:00" data-subject="">
 
 It was something that anyone could figure out and I was never allowed to pth
 
@@ -162,7 +162,7 @@ I guess, once again, if you are resourceful, you can get past that as well tho. 
 
 </div>
 
-<div class="post" data-post-id="25574" data-author="Rynquald" data-date="2008-08-04T07:12:04+00:00">
+<div class="post" data-post-id="25574" data-author="Rynquald" data-date="2008-08-04T07:12:04+00:00" data-subject="">
 
 The only thing that really made pthieving unbearable imho was the fact that it was always carried out by ultra-low level chars that would rent as soon as they stole something. If it had taken a little more effort to make a workable pthief char, and there had been more than a 5 second window to kill a thief after the steal (assuming they didn't get boarded while doing it), it could have remained an enjoyable part of the game.
 
@@ -172,13 +172,13 @@ I'll have to check out Xanith and Chaeston now :)
 
 </div>
 
-<div class="post" data-post-id="25575" data-author="Weasel" data-date="2008-08-04T10:36:31+00:00">
+<div class="post" data-post-id="25575" data-author="Weasel" data-date="2008-08-04T10:36:31+00:00" data-subject="">
 
 thucking fiefs.  :evil:
 
 </div>
 
-<div class="post" data-post-id="25577" data-author="13" data-date="2008-08-04T12:31:54+00:00">
+<div class="post" data-post-id="25577" data-author="13" data-date="2008-08-04T12:31:54+00:00" data-subject="">
 
 I can't believe no-one simply asked me if I knew who had their shit
 
@@ -186,7 +186,7 @@ I can't believe no-one simply asked me if I knew who had their shit
 
 </div>
 
-<div class="post" data-post-id="25589" data-author="Sind" data-date="2008-08-05T09:54:55+00:00">
+<div class="post" data-post-id="25589" data-author="Sind" data-date="2008-08-05T09:54:55+00:00" data-subject="">
 
 [quote:1seapnsu]The pth sit.
 
@@ -198,7 +198,7 @@ enjoyed a lot. [/quote:1seapnsu]
 
 </div>
 
-<div class="post" data-post-id="25606" data-author="Jag" data-date="2008-08-05T19:35:56+00:00">
+<div class="post" data-post-id="25606" data-author="Jag" data-date="2008-08-05T19:35:56+00:00" data-subject="">
 
 Pthieving wasn't fun for me.  Maybe it was because I was a new to Sloth when things came to a head and it was eliminated.
 
@@ -212,7 +212,7 @@ After playing a few years I can see the humor and I would be fine with an opt-in
 
 </div>
 
-<div class="post" data-post-id="25607" data-author="13" data-date="2008-08-05T20:08:56+00:00">
+<div class="post" data-post-id="25607" data-author="13" data-date="2008-08-05T20:08:56+00:00" data-subject="">
 
 for the record I never stole from newbs
 
@@ -232,13 +232,13 @@ Etc
 
 </div>
 
-<div class="post" data-post-id="25611" data-author="Weasel" data-date="2008-08-05T21:17:05+00:00">
+<div class="post" data-post-id="25611" data-author="Weasel" data-date="2008-08-05T21:17:05+00:00" data-subject="">
 
 I have a much bigger list of thucking pfiefs (or ex-pthiefs as the case may be for now) ..should I publish it here?
 
 </div>
 
-<div class="post" data-post-id="25614" data-author="jezer" data-date="2008-08-05T23:50:51+00:00">
+<div class="post" data-post-id="25614" data-author="jezer" data-date="2008-08-05T23:50:51+00:00" data-subject="">
 
 Thank you Jag for making a sane post, putting a human face to the typical injustice of the pthiefing system. 
 
@@ -246,13 +246,13 @@ I think an opt in system is a good idea... but pthiefs won't like that... becaus
 
 </div>
 
-<div class="post" data-post-id="25641" data-author="13" data-date="2008-08-06T12:43:54+00:00">
+<div class="post" data-post-id="25641" data-author="13" data-date="2008-08-06T12:43:54+00:00" data-subject="">
 
 back to engrish class for you brah
 
 </div>
 
-<div class="post" data-post-id="25643" data-author="Alberich" data-date="2008-08-06T13:52:19+00:00">
+<div class="post" data-post-id="25643" data-author="Alberich" data-date="2008-08-06T13:52:19+00:00" data-subject="">
 
 Thank you Jag for making a sane post, putting a human face to the typical injustice of the pthiefing system. 
 
@@ -264,13 +264,13 @@ bonus points for the semi-veiled commie talk, grade A whine!
 
 </div>
 
-<div class="post" data-post-id="25644" data-author="13" data-date="2008-08-06T14:34:09+00:00">
+<div class="post" data-post-id="25644" data-author="13" data-date="2008-08-06T14:34:09+00:00" data-subject="">
 
 downtrodden LOL
 
 </div>
 
-<div class="post" data-post-id="25648" data-author="sirrico1" data-date="2008-08-06T16:33:26+00:00">
+<div class="post" data-post-id="25648" data-author="sirrico1" data-date="2008-08-06T16:33:26+00:00" data-subject="">
 
 After playing with the Crystal Falls ward for a while, I'm pretty sure it has something to do with the west wall, for example:
 

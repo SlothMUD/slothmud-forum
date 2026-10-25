@@ -10,7 +10,7 @@ locked: false
 post_count: 43
 ---
 
-<div class="post" data-post-id="28918" data-author="Medios" data-date="2009-04-15T03:37:24+00:00">
+<div class="post" data-post-id="28918" data-author="Medios" data-date="2009-04-15T03:37:24+00:00" data-subject="New/changed eq thread">
 
 Topiary Dragon
 
@@ -46,7 +46,7 @@ Only those who are at least novice magic users, clerics, thieves, warriors,
 
 </div>
 
-<div class="post" data-post-id="28919" data-author="Medios" data-date="2009-04-15T04:14:32+00:00">
+<div class="post" data-post-id="28919" data-author="Medios" data-date="2009-04-15T04:14:32+00:00" data-subject="">
 
 southern oaf
 
@@ -88,7 +88,7 @@ Only those who are at least novice thieves, warriors, or bards may use this
 
 </div>
 
-<div class="post" data-post-id="28925" data-author="Toxis" data-date="2009-04-15T21:16:24+00:00">
+<div class="post" data-post-id="28925" data-author="Toxis" data-date="2009-04-15T21:16:24+00:00" data-subject="">
 
 Elena pops Mystic chainmail
 
@@ -106,7 +106,7 @@ necromancers, bards, or monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="28932" data-author="Medios" data-date="2009-04-16T03:14:39+00:00">
+<div class="post" data-post-id="28932" data-author="Medios" data-date="2009-04-16T03:14:39+00:00" data-subject="">
 
 southern oaf in vk
 
@@ -126,13 +126,13 @@ Only those who are at least adept magic users and also apprentice clerics
 
 </div>
 
-<div class="post" data-post-id="28937" data-author="Thraxas" data-date="2009-04-16T16:33:36+00:00">
+<div class="post" data-post-id="28937" data-author="Thraxas" data-date="2009-04-16T16:33:36+00:00" data-subject="">
 
 lesser helm now -1.0
 
 </div>
 
-<div class="post" data-post-id="28965" data-author="Medios" data-date="2009-04-18T03:46:15+00:00">
+<div class="post" data-post-id="28965" data-author="Medios" data-date="2009-04-18T03:46:15+00:00" data-subject="">
 
 chest in thugs
 
@@ -156,7 +156,7 @@ apprentice druids, or apprentice bards, or adept monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="28966" data-author="Medios" data-date="2009-04-18T06:38:23+00:00">
+<div class="post" data-post-id="28966" data-author="Medios" data-date="2009-04-18T06:38:23+00:00" data-subject="">
 
 BH garden tangle vine could be random?
 
@@ -186,7 +186,7 @@ warriors, druids, necromancers, bards, and monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="28980" data-author="Assirian" data-date="2009-04-19T10:54:18+00:00">
+<div class="post" data-post-id="28980" data-author="Assirian" data-date="2009-04-19T10:54:18+00:00" data-subject="">
 
 amethyst necklace changed:
 
@@ -200,7 +200,7 @@ AC-apply is -0.1
 
 </div>
 
-<div class="post" data-post-id="29052" data-author="Toxis" data-date="2009-04-24T22:39:49+00:00">
+<div class="post" data-post-id="29052" data-author="Toxis" data-date="2009-04-24T22:39:49+00:00" data-subject="">
 
 ruby statue in crypt pops:
 
@@ -226,7 +226,7 @@ necromancers may use this item.
 
 </div>
 
-<div class="post" data-post-id="29080" data-author="Thraxas" data-date="2009-04-29T18:23:16+00:00">
+<div class="post" data-post-id="29080" data-author="Thraxas" data-date="2009-04-29T18:23:16+00:00" data-subject="">
 
 You recite a scroll of identify which dissolves.
 
@@ -244,7 +244,7 @@ Only those who are at least experienced warriors may use this item.
 
 </div>
 
-<div class="post" data-post-id="29088" data-author="Thraxas" data-date="2009-05-01T14:42:46+00:00">
+<div class="post" data-post-id="29088" data-author="Thraxas" data-date="2009-05-01T14:42:46+00:00" data-subject="">
 
 Granite Bracers : very very stingy pop rate and disapointing to see they've been cut to 0.7 after so much work to get them:
 
@@ -266,7 +266,7 @@ use this item.
 
 </div>
 
-<div class="post" data-post-id="29091" data-author="Magi" data-date="2009-05-02T01:51:58+00:00">
+<div class="post" data-post-id="29091" data-author="Magi" data-date="2009-05-02T01:51:58+00:00" data-subject="">
 
 Object 'bracelet runed onyx', Item type: TREASURE
 
@@ -288,7 +288,7 @@ may use this item.
 
 </div>
 
-<div class="post" data-post-id="29092" data-author="Medios" data-date="2009-05-05T14:30:16+00:00">
+<div class="post" data-post-id="29092" data-author="Medios" data-date="2009-05-05T14:30:16+00:00" data-subject="">
 
 A little snudiss cringes.
 
@@ -332,7 +332,7 @@ Stryx has lost his link.
 
 </div>
 
-<div class="post" data-post-id="29093" data-author="Medios" data-date="2009-05-05T14:33:44+00:00">
+<div class="post" data-post-id="29093" data-author="Medios" data-date="2009-05-05T14:33:44+00:00" data-subject="">
 
 #CONNECTED.
 
@@ -538,7 +538,7 @@ Only those who are at least adept magic users may use this item.
 
 </div>
 
-<div class="post" data-post-id="29095" data-author="Thraxas" data-date="2009-05-05T18:01:37+00:00">
+<div class="post" data-post-id="29095" data-author="Thraxas" data-date="2009-05-05T18:01:37+00:00" data-subject="">
 
 You recite a scroll of identify which dissolves.
 
@@ -566,7 +566,7 @@ gray-sash-zombie-lientenant (guard on East Gate)
 
 </div>
 
-<div class="post" data-post-id="29096" data-author="Toxis" data-date="2009-05-06T02:22:25+00:00">
+<div class="post" data-post-id="29096" data-author="Toxis" data-date="2009-05-06T02:22:25+00:00" data-subject="">
 
 gypsy smith:
 
@@ -602,7 +602,7 @@ use this item.
 
 </div>
 
-<div class="post" data-post-id="29097" data-author="Toxis" data-date="2009-05-06T08:45:23+00:00">
+<div class="post" data-post-id="29097" data-author="Toxis" data-date="2009-05-06T08:45:23+00:00" data-subject="">
 
 Soon, I will be fixing the new found eq.  Please keep posting in this thread, or repost eq in submitted eq.  If submiting eq, please submit eq fully, do not leave out mob area or any other info.  Thank you.
 
@@ -610,13 +610,13 @@ Soon, I will be fixing the new found eq.  Please keep posting in this thread, or
 
 </div>
 
-<div class="post" data-post-id="29099" data-author="Cizin" data-date="2009-05-06T15:59:27+00:00">
+<div class="post" data-post-id="29099" data-author="Cizin" data-date="2009-05-06T15:59:27+00:00" data-subject="">
 
 blue glass dagger is now 2d5 +2 +1
 
 </div>
 
-<div class="post" data-post-id="29105" data-author="Cizin" data-date="2009-05-07T10:35:53+00:00">
+<div class="post" data-post-id="29105" data-author="Cizin" data-date="2009-05-07T10:35:53+00:00" data-subject="">
 
 Diamond pendant is now a gold pendant adorned with a chunk of marble.
 
@@ -646,7 +646,7 @@ item.
 
 </div>
 
-<div class="post" data-post-id="29109" data-author="Thraxas" data-date="2009-05-07T23:31:59+00:00">
+<div class="post" data-post-id="29109" data-author="Thraxas" data-date="2009-05-07T23:31:59+00:00" data-subject="">
 
 You recite a scroll of identify which dissolves.
 
@@ -668,7 +668,7 @@ Thick Iron Gauntlets -0.4   AdW
 
 </div>
 
-<div class="post" data-post-id="29117" data-author="Vixn" data-date="2009-05-08T17:19:05+00:00">
+<div class="post" data-post-id="29117" data-author="Vixn" data-date="2009-05-08T17:19:05+00:00" data-subject="">
 
 You recite a scroll of identify which dissolves.
 
@@ -696,7 +696,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="29119" data-author="Vixn" data-date="2009-05-08T18:07:06+00:00">
+<div class="post" data-post-id="29119" data-author="Vixn" data-date="2009-05-08T18:07:06+00:00" data-subject="">
 
 recite identify peridot
 
@@ -720,7 +720,7 @@ warriors, druids, necromancers, bards, or monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="29128" data-author="Rigwarl" data-date="2009-05-10T15:52:39+00:00">
+<div class="post" data-post-id="29128" data-author="Rigwarl" data-date="2009-05-10T15:52:39+00:00" data-subject="">
 
 Tiny Jade Ring is now renamed as :
 
@@ -740,7 +740,7 @@ Only those who are at least apprentice magic users or clerics may use this'
 
 </div>
 
-<div class="post" data-post-id="29134" data-author="Virus" data-date="2009-05-11T14:51:18+00:00">
+<div class="post" data-post-id="29134" data-author="Virus" data-date="2009-05-11T14:51:18+00:00" data-subject="">
 
 You feel informed:
 
@@ -762,7 +762,7 @@ or monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="29178" data-author="Rigwarl" data-date="2009-05-16T06:04:55+00:00">
+<div class="post" data-post-id="29178" data-author="Rigwarl" data-date="2009-05-16T06:04:55+00:00" data-subject="">
 
 New 3x40 eq stats have been updated..
 
@@ -772,13 +772,13 @@ You may read all about it here
 
 </div>
 
-<div class="post" data-post-id="29210" data-author="Xamak" data-date="2009-05-18T21:00:58+00:00">
+<div class="post" data-post-id="29210" data-author="Xamak" data-date="2009-05-18T21:00:58+00:00" data-subject="">
 
 bump
 
 </div>
 
-<div class="post" data-post-id="29322" data-author="Filk" data-date="2009-06-01T10:38:31+00:00">
+<div class="post" data-post-id="29322" data-author="Filk" data-date="2009-06-01T10:38:31+00:00" data-subject="">
 
 You recite a scroll of identify which dissolves.
 
@@ -800,7 +800,7 @@ druids, necromancers, bards, or monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="29749" data-author="Rigwarl" data-date="2009-08-03T19:10:35+00:00">
+<div class="post" data-post-id="29749" data-author="Rigwarl" data-date="2009-08-03T19:10:35+00:00" data-subject="">
 
 Sorry, completely forgot about this thread, here are some changes.
 
@@ -818,7 +818,7 @@ I'll post more as I find them.
 
 </div>
 
-<div class="post" data-post-id="29750" data-author="jezer" data-date="2009-08-03T19:16:36+00:00">
+<div class="post" data-post-id="29750" data-author="jezer" data-date="2009-08-03T19:16:36+00:00" data-subject="">
 
 They cut the mr on the torch!!!?!?
 
@@ -826,7 +826,7 @@ Why would you do that? *shaking head*
 
 </div>
 
-<div class="post" data-post-id="29754" data-author="Rigwarl" data-date="2009-08-04T11:08:34+00:00">
+<div class="post" data-post-id="29754" data-author="Rigwarl" data-date="2009-08-04T11:08:34+00:00" data-subject="">
 
 Dolphin skin boots no longer have ac.
 
@@ -834,7 +834,7 @@ Edit: Avian claw has retained it's same stats, however the restricts are now 3X4
 
 </div>
 
-<div class="post" data-post-id="29778" data-author="Rigwarl" data-date="2009-08-07T04:50:08+00:00">
+<div class="post" data-post-id="29778" data-author="Rigwarl" data-date="2009-08-07T04:50:08+00:00" data-subject="">
 
 Finally managed the moria shield forge, it has been changed a bit.
 
@@ -846,7 +846,7 @@ Restricts are the same, 2X40 with SWA or Ba or Mo.
 
 </div>
 
-<div class="post" data-post-id="29840" data-author="Nyx" data-date="2009-08-17T04:03:35+00:00">
+<div class="post" data-post-id="29840" data-author="Nyx" data-date="2009-08-17T04:03:35+00:00" data-subject="">
 
 ring of life has been changed:
 
@@ -874,7 +874,7 @@ Tabi
 
 </div>
 
-<div class="post" data-post-id="29841" data-author="Vixn" data-date="2009-08-17T16:55:04+00:00">
+<div class="post" data-post-id="29841" data-author="Vixn" data-date="2009-08-17T16:55:04+00:00" data-subject="">
 
 Wow, what a bright idea to cut HB on rings from +5 to +3.
 
@@ -886,7 +886,7 @@ Kida.
 
 </div>
 
-<div class="post" data-post-id="29842" data-author="Vixn" data-date="2009-08-17T17:02:28+00:00">
+<div class="post" data-post-id="29842" data-author="Vixn" data-date="2009-08-17T17:02:28+00:00" data-subject="">
 
 You recite a scroll of identify which dissolves.
 
@@ -920,7 +920,7 @@ Kida*!bard*
 
 </div>
 
-<div class="post" data-post-id="29909" data-author="Cizin" data-date="2009-08-21T14:00:12+00:00">
+<div class="post" data-post-id="29909" data-author="Cizin" data-date="2009-08-21T14:00:12+00:00" data-subject="">
 
 You recite a scroll of identify which dissolves.
 
@@ -946,7 +946,7 @@ Sniff
 
 </div>
 
-<div class="post" data-post-id="29934" data-author="Tuck" data-date="2009-08-26T19:50:36+00:00">
+<div class="post" data-post-id="29934" data-author="Tuck" data-date="2009-08-26T19:50:36+00:00" data-subject="mail marred magical">
 
 You recite an identify scroll which dissolves.
 
@@ -972,7 +972,7 @@ in at least two classes may use this item.
 
 </div>
 
-<div class="post" data-post-id="29976" data-author="Cizin" data-date="2009-09-08T16:01:18+00:00">
+<div class="post" data-post-id="29976" data-author="Cizin" data-date="2009-09-08T16:01:18+00:00" data-subject="New Eq Pops and Stats">
 
 You feel informed:
 
@@ -996,7 +996,7 @@ druids, necromancers, bards, or monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="29977" data-author="Rigwarl" data-date="2009-09-08T22:44:23+00:00">
+<div class="post" data-post-id="29977" data-author="Rigwarl" data-date="2009-09-08T22:44:23+00:00" data-subject="">
 
 Finally, Kulum found the 12 mil coins to forge...
 
@@ -1030,13 +1030,13 @@ may use this item.
 
 </div>
 
-<div class="post" data-post-id="29978" data-author="*Krom*" data-date="2009-09-09T10:39:37+00:00">
+<div class="post" data-post-id="29978" data-author="*Krom*" data-date="2009-09-09T10:39:37+00:00" data-subject="">
 
 FYI ring of life is 5 heal bonus again, I am not sure how that one slipped through like that.
 
 </div>
 
-<div class="post" data-post-id="29979" data-author="Nyx" data-date="2009-09-10T02:53:08+00:00">
+<div class="post" data-post-id="29979" data-author="Nyx" data-date="2009-09-10T02:53:08+00:00" data-subject="">
 
 Thanks Krom, much appreciated!! :)
 
@@ -1044,7 +1044,7 @@ Thanks Krom, much appreciated!! :)
 
 </div>
 
-<div class="post" data-post-id="30462" data-author="Jag" data-date="2009-12-09T13:00:48+00:00">
+<div class="post" data-post-id="30462" data-author="Jag" data-date="2009-12-09T13:00:48+00:00" data-subject="">
 
 Is the "correct" database of equipment still an active project?  
 
@@ -1052,7 +1052,7 @@ I haven't heard anything and I think people stopped posting eq here,thinking the
 
 </div>
 
-<div class="post" data-post-id="30491" data-author="harik" data-date="2009-12-15T09:00:45+00:00">
+<div class="post" data-post-id="30491" data-author="harik" data-date="2009-12-15T09:00:45+00:00" data-subject="">
 
 Is the "correct" database of equipment still an active project?  
 
@@ -1064,7 +1064,7 @@ I'll go ahead and include everything in this thread (and the drachma shop thread
 
 </div>
 
-<div class="post" data-post-id="30508" data-author="Thraxas" data-date="2009-12-18T10:01:11+00:00">
+<div class="post" data-post-id="30508" data-author="Thraxas" data-date="2009-12-18T10:01:11+00:00" data-subject="">
 
 bump
 

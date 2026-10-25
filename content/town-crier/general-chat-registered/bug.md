@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16940" data-author="Marchessa_red_witch" data-date="2007-02-16T01:32:45+00:00">
+<div class="post" data-post-id="16940" data-author="Marchessa_red_witch" data-date="2007-02-16T01:32:45+00:00" data-subject="Bug?">
 
 You swear a mighty oath of victory over a blue rakasha!
 
@@ -46,7 +46,7 @@ Note how the oath of victory hps simply evaoporated without any hits landing...
 
 </div>
 
-<div class="post" data-post-id="16981" data-author="van" data-date="2007-02-18T02:30:39+00:00">
+<div class="post" data-post-id="16981" data-author="van" data-date="2007-02-18T02:30:39+00:00" data-subject="Oath of Victory - Problem ever addressed?">
 
 Now, as much as I hate to agree with Marchessa... has anybody ever responded to this concern?  I just learned victory, and this kind of thing is a little weird. 
 

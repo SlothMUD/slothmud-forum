@@ -10,7 +10,7 @@ locked: false
 post_count: 49
 ---
 
-<div class="post" data-post-id="13956" data-author="Centinex" data-date="2006-09-11T02:02:41+00:00">
+<div class="post" data-post-id="13956" data-author="Centinex" data-date="2006-09-11T02:02:41+00:00" data-subject="Newbie needs some class selection help">
 
 Hey!
 
@@ -24,7 +24,7 @@ It doesn't matter to me if a character is hard to start out with. I'm willing to
 
 </div>
 
-<div class="post" data-post-id="13959" data-author="Akasha" data-date="2006-09-11T03:53:31+00:00">
+<div class="post" data-post-id="13959" data-author="Akasha" data-date="2006-09-11T03:53:31+00:00" data-subject="">
 
 warrior/necro/mage/cleric seems a solid choice.
 
@@ -32,7 +32,7 @@ But depending on who responds, you'll get at least 50 different suggestions :)
 
 </div>
 
-<div class="post" data-post-id="13960" data-author="Shyla" data-date="2006-09-11T05:11:29+00:00">
+<div class="post" data-post-id="13960" data-author="Shyla" data-date="2006-09-11T05:11:29+00:00" data-subject="">
 
 why don't you take a look at some of the higher level characters with classos that might interest you and ask them about it what they like don't like...what they can solo , how they do in groups.  for instance ryquald is a mage druid warrior cleric who is a level 40 avatar.  ask him what he thinks of his character..why  he really likes it.  most if not all people won't mind answering questions for you.  But what it all boils down to is what YOU like because it might seem like a strange classo to me but if you love it who cares :)
 
@@ -40,7 +40,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="13961" data-author="Diazz_Dizazter" data-date="2006-09-11T12:33:47+00:00">
+<div class="post" data-post-id="13961" data-author="Diazz_Dizazter" data-date="2006-09-11T12:33:47+00:00" data-subject="">
 
 Im old school.  
 
@@ -64,7 +64,7 @@ and as such, the mud is still not prepared for necros and bards :)
 
 </div>
 
-<div class="post" data-post-id="13962" data-author="Daisy" data-date="2006-09-11T13:09:08+00:00">
+<div class="post" data-post-id="13962" data-author="Daisy" data-date="2006-09-11T13:09:08+00:00" data-subject="">
 
 lots of good advice before and I'm sure after this post, but heres my tuppence worth of wisdom:
 
@@ -104,7 +104,7 @@ As so much of the early game is all surrounded by the token hunt to get good sta
 
 </div>
 
-<div class="post" data-post-id="13963" data-author="Diazz_Dizazter" data-date="2006-09-11T13:28:29+00:00">
+<div class="post" data-post-id="13963" data-author="Diazz_Dizazter" data-date="2006-09-11T13:28:29+00:00" data-subject="">
 
 [quote:2oe8z2yp]Fluidity: Stacks with Sanctuary and does a similar job only available to Dr.[/quote:2oe8z2yp]
 
@@ -144,7 +144,7 @@ But yeah, cleric is going someplace in class order.
 
 </div>
 
-<div class="post" data-post-id="13964" data-author="Leaf" data-date="2006-09-11T17:35:10+00:00">
+<div class="post" data-post-id="13964" data-author="Leaf" data-date="2006-09-11T17:35:10+00:00" data-subject="">
 
 Actually not every1 use Cleric in their class.  I believe it's Zukt that doesn't
 
@@ -160,7 +160,7 @@ sancs are the best because they can last from 3-7 minutes.
 
 </div>
 
-<div class="post" data-post-id="13965" data-author="Centinex" data-date="2006-09-11T18:27:53+00:00">
+<div class="post" data-post-id="13965" data-author="Centinex" data-date="2006-09-11T18:27:53+00:00" data-subject="">
 
 What I'm not entirely sure about is what difference it makes it makes depending on where you put the class. Say, what's the difference between 2nd Cleric and 4th Cleric, besides what you can supplicate?
 
@@ -174,7 +174,7 @@ Sorry for the dumb questions, but I really want to get this right.
 
 </div>
 
-<div class="post" data-post-id="13966" data-author="Akasha" data-date="2006-09-11T19:03:59+00:00">
+<div class="post" data-post-id="13966" data-author="Akasha" data-date="2006-09-11T19:03:59+00:00" data-subject="">
 
 Well, spellbonus caps are in a descending order, meaning, prime mages can do more damage with spells than 2nd mages, prime cleric healing is more powerful than 2nd clerics, etc, and this descends from 1st to 4th.
 
@@ -188,25 +188,25 @@ It's all trial and error...
 
 </div>
 
-<div class="post" data-post-id="13967" data-author="kjartan" data-date="2006-09-11T19:32:04+00:00">
+<div class="post" data-post-id="13967" data-author="kjartan" data-date="2006-09-11T19:32:04+00:00" data-subject="">
 
 ma/cl/ne/dr doesn't get protect, which is a very useful thing to have in groups.  People have managed without it, but it's not a popular choice.  The other four classes all get it, so if you have any one of those you will be ok as far as that goes.
 
 </div>
 
-<div class="post" data-post-id="13968" data-author="Guinex" data-date="2006-09-11T19:38:19+00:00">
+<div class="post" data-post-id="13968" data-author="Guinex" data-date="2006-09-11T19:38:19+00:00" data-subject="">
 
 If you want to play a mage i suggest mage/cleric/warrior/necro, you will have some nice soloing abilities there and useful to a group.  Suggesting warrior as the fighter for a mage prime, since mirrors (or atleast i belive) you can't use any initiating attacks such as backstab or grip.  Druids only good use imho are for regen or killing pthieves in safe rooms.
 
 </div>
 
-<div class="post" data-post-id="13969" data-author="Krok" data-date="2006-09-11T19:43:39+00:00">
+<div class="post" data-post-id="13969" data-author="Krok" data-date="2006-09-11T19:43:39+00:00" data-subject="">
 
 quad druid is kind of useless, you only get +7mr points and, umm, rarely used shapeshifts...
 
 </div>
 
-<div class="post" data-post-id="13970" data-author="Centinex" data-date="2006-09-11T19:56:26+00:00">
+<div class="post" data-post-id="13970" data-author="Centinex" data-date="2006-09-11T19:56:26+00:00" data-subject="">
 
 If you want to play a mage i suggest mage/cleric/warrior/necro, you will have some nice soloing abilities there and useful to a group.  Suggesting warrior as the fighter for a mage prime, since mirrors (or atleast i belive) you can't use any initiating attacks such as backstab or grip.  Druids only good use imho are for regen or killing pthieves in safe rooms.[/quote:276hxgrz]
 
@@ -220,7 +220,7 @@ I don't have enough time to make a bunch of different characters. I just want to
 
 </div>
 
-<div class="post" data-post-id="13971" data-author="Akasha" data-date="2006-09-11T20:01:29+00:00">
+<div class="post" data-post-id="13971" data-author="Akasha" data-date="2006-09-11T20:01:29+00:00" data-subject="">
 
 This is the type thing we were saying:
 
@@ -234,13 +234,13 @@ Bards get almost as much AC eq as warriors, nice hp, and mana, plus they have so
 
 </div>
 
-<div class="post" data-post-id="13972" data-author="Guinex" data-date="2006-09-11T20:04:59+00:00">
+<div class="post" data-post-id="13972" data-author="Guinex" data-date="2006-09-11T20:04:59+00:00" data-subject="">
 
 Every classo can get -11 ac.
 
 </div>
 
-<div class="post" data-post-id="13973" data-author="Leaf" data-date="2006-09-11T20:08:22+00:00">
+<div class="post" data-post-id="13973" data-author="Leaf" data-date="2006-09-11T20:08:22+00:00" data-subject="">
 
 BUT a M/C/Monk/N would also help out alot.  With Monk you can Grip,
 
@@ -254,13 +254,13 @@ I for one have made about 7-8 chars and most of them have reached 3x40.
 
 </div>
 
-<div class="post" data-post-id="13974" data-author="Guinex" data-date="2006-09-11T20:09:12+00:00">
+<div class="post" data-post-id="13974" data-author="Guinex" data-date="2006-09-11T20:09:12+00:00" data-subject="">
 
 Im pretty sure i said this but clearly leaf overlooked it, you can't grip with mirrors, and mirrors are a big part of being a mage.
 
 </div>
 
-<div class="post" data-post-id="13975" data-author="Leaf" data-date="2006-09-11T20:11:15+00:00">
+<div class="post" data-post-id="13975" data-author="Leaf" data-date="2006-09-11T20:11:15+00:00" data-subject="">
 
 Im pretty sure i said this but clearly leaf overlooked it, you can't grip with mirrors, and mirrors are a big part of being a mage.[/quote:2wspii0e]
 
@@ -270,13 +270,13 @@ need without a Warrior skill to Parry.
 
 </div>
 
-<div class="post" data-post-id="13976" data-author="Guinex" data-date="2006-09-11T20:14:17+00:00">
+<div class="post" data-post-id="13976" data-author="Guinex" data-date="2006-09-11T20:14:17+00:00" data-subject="">
 
 Fair enough, and Akasha is right.  Every classo has it ups and downs, once you learn to play the classo and the ins/outs of the game you will find tricks to doing almost anything.
 
 </div>
 
-<div class="post" data-post-id="13977" data-author="Diazz_Dizazter" data-date="2006-09-11T20:18:36+00:00">
+<div class="post" data-post-id="13977" data-author="Diazz_Dizazter" data-date="2006-09-11T20:18:36+00:00" data-subject="">
 
 The problem with the 4 new classes is they are only good good with their
 
@@ -286,7 +286,7 @@ All about what ya wanna do though.
 
 </div>
 
-<div class="post" data-post-id="13978" data-author="Leaf" data-date="2006-09-11T20:26:17+00:00">
+<div class="post" data-post-id="13978" data-author="Leaf" data-date="2006-09-11T20:26:17+00:00" data-subject="">
 
 True That True That!!!
 
@@ -316,13 +316,13 @@ Sooo the 4th can either be Bard or Druid.
 
 </div>
 
-<div class="post" data-post-id="13979" data-author="Centinex" data-date="2006-09-11T20:31:31+00:00">
+<div class="post" data-post-id="13979" data-author="Centinex" data-date="2006-09-11T20:31:31+00:00" data-subject="">
 
 Ahhhhh, this is so confusing.  :lol:
 
 </div>
 
-<div class="post" data-post-id="13980" data-author="Guinex" data-date="2006-09-11T20:53:39+00:00">
+<div class="post" data-post-id="13980" data-author="Guinex" data-date="2006-09-11T20:53:39+00:00" data-subject="">
 
 No offense Diazz buy you can say that about every class.
 
@@ -330,7 +330,7 @@ Centinex your not going to get a stone cold answer, because there is no right an
 
 </div>
 
-<div class="post" data-post-id="13981" data-author="Diazz_Dizazter" data-date="2006-09-11T21:16:49+00:00">
+<div class="post" data-post-id="13981" data-author="Diazz_Dizazter" data-date="2006-09-11T21:16:49+00:00" data-subject="">
 
 [quote:2evq4v3m]No offense Diazz buy you can say that about every class.
 
@@ -346,7 +346,7 @@ there is no spoon!
 
 </div>
 
-<div class="post" data-post-id="13982" data-author="Centinex" data-date="2006-09-11T21:25:35+00:00">
+<div class="post" data-post-id="13982" data-author="Centinex" data-date="2006-09-11T21:25:35+00:00" data-subject="">
 
 I know; I'm not looking for the "best" character, because I know there isn't one. I just want a mage/spellcaster character that will be pretty good in groups and ok to solo some areas if I really wanted to.
 
@@ -360,7 +360,7 @@ Anyway, I REALLY appreciate all the input from you guys/girls. It's definately g
 
 </div>
 
-<div class="post" data-post-id="13983" data-author="Rajil" data-date="2006-09-11T21:41:58+00:00">
+<div class="post" data-post-id="13983" data-author="Rajil" data-date="2006-09-11T21:41:58+00:00" data-subject="">
 
 A few thoughts:
 
@@ -370,7 +370,7 @@ Ma/Cl/Wa/? would be a pretty good soloer at higher lvls. Groups need blasters an
 
 </div>
 
-<div class="post" data-post-id="13984" data-author="Leaf" data-date="2006-09-11T21:53:57+00:00">
+<div class="post" data-post-id="13984" data-author="Leaf" data-date="2006-09-11T21:53:57+00:00" data-subject="">
 
 Maybe it's just me, but I don't see much use of War in 3rd compare to Monk.
 
@@ -384,7 +384,7 @@ MY Suggestion and this is only me.  Mage/Cleric/Monk/Bard
 
 </div>
 
-<div class="post" data-post-id="13985" data-author="Medios" data-date="2006-09-12T00:45:13+00:00">
+<div class="post" data-post-id="13985" data-author="Medios" data-date="2006-09-12T00:45:13+00:00" data-subject="">
 
 Here are the mage classos that come to mind
 
@@ -402,7 +402,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13986" data-author="Rajil" data-date="2006-09-12T00:58:40+00:00">
+<div class="post" data-post-id="13986" data-author="Rajil" data-date="2006-09-12T00:58:40+00:00" data-subject="">
 
 Will, will, will...
 
@@ -414,7 +414,7 @@ The classo I'd suggest is Ma/Dr/Cl/Ba. I'd say why, but I'm pissed because Randy
 
 </div>
 
-<div class="post" data-post-id="13987" data-author="Leaf" data-date="2006-09-12T02:50:42+00:00">
+<div class="post" data-post-id="13987" data-author="Leaf" data-date="2006-09-12T02:50:42+00:00" data-subject="">
 
 Mark, Mark, Mark ... the guy is like +50 yrs old give him a break  :twisted: 
 
@@ -422,7 +422,7 @@ But it all depends on how u want to solo.  =)
 
 </div>
 
-<div class="post" data-post-id="13988" data-author="Centinex" data-date="2006-09-12T03:59:55+00:00">
+<div class="post" data-post-id="13988" data-author="Centinex" data-date="2006-09-12T03:59:55+00:00" data-subject="">
 
 So anyway, I made a mage/druid/cleric/monk and a mage/cleric/monk/bard just to try em out for a bit.
 
@@ -430,13 +430,13 @@ Is there problems getting equipment without bard or warrior in your classo? It s
 
 </div>
 
-<div class="post" data-post-id="13989" data-author="Akasha" data-date="2006-09-12T04:15:22+00:00">
+<div class="post" data-post-id="13989" data-author="Akasha" data-date="2006-09-12T04:15:22+00:00" data-subject="">
 
 Most things that have good armor class are going to be warrior/bard/monk/thief restricted.  There are items at higher levels that casters can wear to boost their armorclass, but easrly on, you're going to be a strict grouper till you can wear it.
 
 </div>
 
-<div class="post" data-post-id="13990" data-author="Clink" data-date="2006-09-12T10:53:54+00:00">
+<div class="post" data-post-id="13990" data-author="Clink" data-date="2006-09-12T10:53:54+00:00" data-subject="">
 
 [quote:2p3fi6bp]No offense Diazz buy you can say that about every class.
 
@@ -460,7 +460,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="13991" data-author="13" data-date="2006-09-12T12:42:04+00:00">
+<div class="post" data-post-id="13991" data-author="13" data-date="2006-09-12T12:42:04+00:00" data-subject="">
 
 you said (clinker)
 
@@ -468,7 +468,7 @@ you said (clinker)
 
 </div>
 
-<div class="post" data-post-id="13995" data-author="Centinex" data-date="2006-09-12T16:40:59+00:00">
+<div class="post" data-post-id="13995" data-author="Centinex" data-date="2006-09-12T16:40:59+00:00" data-subject="">
 
 I think I'm going to stick with the M/D/C/O. Seems pretty fun to me so far.
 
@@ -476,13 +476,13 @@ Thanks for the help. :)
 
 </div>
 
-<div class="post" data-post-id="13996" data-author="Leaf" data-date="2006-09-12T18:00:52+00:00">
+<div class="post" data-post-id="13996" data-author="Leaf" data-date="2006-09-12T18:00:52+00:00" data-subject="">
 
 Best of luck with ur new char, and have fun!
 
 </div>
 
-<div class="post" data-post-id="13999" data-author="Centinex" data-date="2006-09-12T18:54:38+00:00">
+<div class="post" data-post-id="13999" data-author="Centinex" data-date="2006-09-12T18:54:38+00:00" data-subject="">
 
 One more question...
 
@@ -498,7 +498,7 @@ What gives? I didn't use a token...
 
 </div>
 
-<div class="post" data-post-id="14000" data-author="Leaf" data-date="2006-09-12T21:12:35+00:00">
+<div class="post" data-post-id="14000" data-author="Leaf" data-date="2006-09-12T21:12:35+00:00" data-subject="">
 
 Your stats can change on the EQ u wear.  So more then likey u have some
 
@@ -514,7 +514,7 @@ The xx are ur lowest stats and doesn't much matter as a caster.
 
 </div>
 
-<div class="post" data-post-id="14002" data-author="Hades" data-date="2006-09-13T00:20:22+00:00">
+<div class="post" data-post-id="14002" data-author="Hades" data-date="2006-09-13T00:20:22+00:00" data-subject="switch 4th and go long">
 
 would swap druid 4th  choice for bard... u get prot skill for groups and songs kick ass.. plus there be a nifty use of bard I won't mention here...
 
@@ -524,7 +524,7 @@ finally, no matter what an Imm tells you...there is no sex in the champagne room
 
 </div>
 
-<div class="post" data-post-id="14004" data-author="Centinex" data-date="2006-09-13T01:33:26+00:00">
+<div class="post" data-post-id="14004" data-author="Centinex" data-date="2006-09-13T01:33:26+00:00" data-subject="">
 
 Well, I'm definately not starting over again... Anyway, I had monk 4th, not druid, don't know if you knew that or just made a typo.
 
@@ -532,7 +532,7 @@ And yeah, I plan on staying below 20 and rolling my stats for as long as it take
 
 </div>
 
-<div class="post" data-post-id="14005" data-author="Weasel" data-date="2006-09-13T02:57:46+00:00">
+<div class="post" data-post-id="14005" data-author="Weasel" data-date="2006-09-13T02:57:46+00:00" data-subject="">
 
 What's the best classo for a Cleric prime specialist - my intention is not to solo it at all - it'll be pretty much a pure group healer / raiser, so I really want to go for max mana, mana regen, and +heal and whatever else would help this kind of character.
 
@@ -540,7 +540,7 @@ I have Xopek as old school Cl, Ma, Wa, Th but am considering getting him wiped a
 
 </div>
 
-<div class="post" data-post-id="14006" data-author="Leaf" data-date="2006-09-13T03:37:15+00:00">
+<div class="post" data-post-id="14006" data-author="Leaf" data-date="2006-09-13T03:37:15+00:00" data-subject="">
 
 Thats simple Weasel: Cl/Dr/xx/Bard
 
@@ -560,7 +560,7 @@ on a newbie with the same name.
 
 </div>
 
-<div class="post" data-post-id="14008" data-author="Centinex" data-date="2006-09-13T07:02:03+00:00">
+<div class="post" data-post-id="14008" data-author="Centinex" data-date="2006-09-13T07:02:03+00:00" data-subject="">
 
 Got another question, doesn't really fit here but I didn't see the point of making a new thread.
 
@@ -570,7 +570,7 @@ Say I'm in a group of 5 people, me being a blaster and the other 4 being warrior
 
 </div>
 
-<div class="post" data-post-id="14010" data-author="Daisy" data-date="2006-09-13T10:11:18+00:00">
+<div class="post" data-post-id="14010" data-author="Daisy" data-date="2006-09-13T10:11:18+00:00" data-subject="">
 
 1.
 
@@ -598,7 +598,7 @@ The only change to this that would make sense to me would be swap cl and dr to g
 
 </div>
 
-<div class="post" data-post-id="14012" data-author="Leaf" data-date="2006-09-13T14:49:11+00:00">
+<div class="post" data-post-id="14012" data-author="Leaf" data-date="2006-09-13T14:49:11+00:00" data-subject="">
 
 Curse first and then blind.  Once it's blind just attack it, don't even worry to
 
@@ -624,25 +624,25 @@ to blast those ether or thick mobs then as a Necro :)
 
 </div>
 
-<div class="post" data-post-id="14059" data-author="Weasel" data-date="2006-09-15T18:26:00+00:00">
+<div class="post" data-post-id="14059" data-author="Weasel" data-date="2006-09-15T18:26:00+00:00" data-subject="">
 
 Thanks for the advice.. will probably go for Cl/Dr/Ma/Bard ..although having time to start up and play a new char is my problem now :/
 
 </div>
 
-<div class="post" data-post-id="14060" data-author="Leaf" data-date="2006-09-15T20:02:49+00:00">
+<div class="post" data-post-id="14060" data-author="Leaf" data-date="2006-09-15T20:02:49+00:00" data-subject="">
 
 Come on Weasel just have some1 mort u for like 1hr and u will be able to solo.
 
 </div>
 
-<div class="post" data-post-id="14061" data-author="Weasel" data-date="2006-09-15T21:16:27+00:00">
+<div class="post" data-post-id="14061" data-author="Weasel" data-date="2006-09-15T21:16:27+00:00" data-subject="">
 
 :) new charname is Medico - just rented tho
 
 </div>
 
-<div class="post" data-post-id="14062" data-author="Leaf" data-date="2006-09-15T21:49:20+00:00">
+<div class="post" data-post-id="14062" data-author="Leaf" data-date="2006-09-15T21:49:20+00:00" data-subject="">
 
 Well i'm at work so i can't mort for yea anyways.
 

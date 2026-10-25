@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="21554" data-author="Assirian" data-date="2007-12-06T07:44:41+00:00">
+<div class="post" data-post-id="21554" data-author="Assirian" data-date="2007-12-06T07:44:41+00:00" data-subject="recent crushes">
 
 today crush two times when i tried to deathblow mobs
 
@@ -64,7 +64,7 @@ Connected to host slothmud.org
 
 </div>
 
-<div class="post" data-post-id="21555" data-author="Tap" data-date="2007-12-06T09:34:47+00:00">
+<div class="post" data-post-id="21555" data-author="Tap" data-date="2007-12-06T09:34:47+00:00" data-subject="">
 
 He admitted to deliberately crashing the MUD.
 
@@ -72,19 +72,19 @@ Wipe him please :twisted:
 
 </div>
 
-<div class="post" data-post-id="21558" data-author="Weasel" data-date="2007-12-06T12:03:21+00:00">
+<div class="post" data-post-id="21558" data-author="Weasel" data-date="2007-12-06T12:03:21+00:00" data-subject="">
 
 He said crUsh, not crAsh.   :D
 
 </div>
 
-<div class="post" data-post-id="21561" data-author="Autolycos" data-date="2007-12-06T20:02:51+00:00">
+<div class="post" data-post-id="21561" data-author="Autolycos" data-date="2007-12-06T20:02:51+00:00" data-subject="">
 
 Didn't   Toxis have a crush on  (insert anything) ?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="21563" data-author="Leaf" data-date="2007-12-06T22:28:19+00:00">
+<div class="post" data-post-id="21563" data-author="Leaf" data-date="2007-12-06T22:28:19+00:00" data-subject="">
 
 Didn't   Toxis have a crush on  (insert anything) ?  :twisted:[/quote:xc8sgsjw]
 
@@ -102,7 +102,7 @@ A hole in the wall?
 
 </div>
 
-<div class="post" data-post-id="21564" data-author="Medios" data-date="2007-12-06T22:32:33+00:00">
+<div class="post" data-post-id="21564" data-author="Medios" data-date="2007-12-06T22:32:33+00:00" data-subject="">
 
 Will don't make me get Aaron on here to bring up the dildo story again.
 
@@ -110,13 +110,13 @@ I would threaten to post Jason's pic but I think it has already been done.
 
 </div>
 
-<div class="post" data-post-id="21565" data-author="Autolycos" data-date="2007-12-06T22:44:19+00:00">
+<div class="post" data-post-id="21565" data-author="Autolycos" data-date="2007-12-06T22:44:19+00:00" data-subject="">
 
 laugh
 
 </div>
 
-<div class="post" data-post-id="21567" data-author="Blastem" data-date="2007-12-07T07:55:00+00:00">
+<div class="post" data-post-id="21567" data-author="Blastem" data-date="2007-12-07T07:55:00+00:00" data-subject="">
 
 ummmm does this mean this?
 

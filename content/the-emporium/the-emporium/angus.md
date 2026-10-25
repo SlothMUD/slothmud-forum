@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="19852" data-author="Toxis" data-date="2007-08-23T11:43:44+00:00">
+<div class="post" data-post-id="19852" data-author="Toxis" data-date="2007-08-23T11:43:44+00:00" data-subject="Angus">
 
 Angus You've seen 0.0107% of the world.  (level: 40)
 
@@ -50,7 +50,7 @@ I was wondering if anyone would pay 8 mil for this character.  Someone offered m
 
 </div>
 
-<div class="post" data-post-id="19869" data-author="Tap" data-date="2007-08-23T21:35:51+00:00">
+<div class="post" data-post-id="19869" data-author="Tap" data-date="2007-08-23T21:35:51+00:00" data-subject="">
 
 Lemme know if you find someone. I have several char's/items to part with as well. :twisted:
 

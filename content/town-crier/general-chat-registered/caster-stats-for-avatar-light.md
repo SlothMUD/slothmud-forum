@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="39503" data-author="Vegetable" data-date="2020-05-24T13:12:19+00:00">
+<div class="post" data-post-id="39503" data-author="Vegetable" data-date="2020-05-24T13:12:19+00:00" data-subject="Caster stats for Avatar Light">
 
 Hi guys, with all the recent discussion to improve/balance classes and eq, can we also talk about avatar light?
 
@@ -28,7 +28,7 @@ The Vegetable Union
 
 </div>
 
-<div class="post" data-post-id="39513" data-author="*Breeze*" data-date="2020-07-03T16:57:36+00:00">
+<div class="post" data-post-id="39513" data-author="*Breeze*" data-date="2020-07-03T16:57:36+00:00" data-subject="Re: Caster stats for Avatar Light">
 
 Make a comprehensive proposal and I will consider it and discuss with the immts. 
 
@@ -40,7 +40,7 @@ If you have an idea for a difficult quest to allow you to recycle your avatar li
 
 </div>
 
-<div class="post" data-post-id="39533" data-author="Dingo" data-date="2020-07-31T10:22:26+00:00">
+<div class="post" data-post-id="39533" data-author="Dingo" data-date="2020-07-31T10:22:26+00:00" data-subject="Re: Caster stats for Avatar Light">
 
 Well Here im not that informed as to what to offer and anything total caster related (as no Druid or Necro alt) 
 
@@ -74,7 +74,7 @@ Dingo (Tinx)
 
 </div>
 
-<div class="post" data-post-id="39534" data-author="Gorka" data-date="2020-07-31T12:28:00+00:00">
+<div class="post" data-post-id="39534" data-author="Gorka" data-date="2020-07-31T12:28:00+00:00" data-subject="Re: Caster stats for Avatar Light">
 
 Avatar Light? Sure, mix it up a little, add the suggested new stuffs... However if you are a maxed rebirth avatar, the light still wouldn't offer much even with the new suggestions...
 
@@ -82,7 +82,7 @@ How about Rebirth Light, how about a perm spell... how about haste? For the pers
 
 </div>
 
-<div class="post" data-post-id="39539" data-author="*Idjit*" data-date="2020-08-03T07:33:58+00:00">
+<div class="post" data-post-id="39539" data-author="*Idjit*" data-date="2020-08-03T07:33:58+00:00" data-subject="Re: Caster stats for Avatar Light">
 
 if we add:
 
@@ -102,7 +102,7 @@ This is a valid point.
 
 </div>
 
-<div class="post" data-post-id="39540" data-author="Dingo" data-date="2020-08-06T12:15:22+00:00">
+<div class="post" data-post-id="39540" data-author="Dingo" data-date="2020-08-06T12:15:22+00:00" data-subject="Re: Caster stats for Avatar Light">
 
 Ok so please let me know if this is current thoughts from posts and group discussions about caster additions for an lights
 
@@ -128,7 +128,7 @@ Dingo
 
 </div>
 
-<div class="post" data-post-id="39541" data-author="Dingo" data-date="2020-08-06T12:17:35+00:00">
+<div class="post" data-post-id="39541" data-author="Dingo" data-date="2020-08-06T12:17:35+00:00" data-subject="Re: Caster stats for Avatar Light">
 
 Actually I think it was 
 

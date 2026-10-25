@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="29728" data-author="Nyx" data-date="2009-07-28T10:18:05+00:00">
+<div class="post" data-post-id="29728" data-author="Nyx" data-date="2009-07-28T10:18:05+00:00" data-subject="mud crashing?">
 
 Is it just me or is everyone else having connection issues? :(
 
@@ -24,7 +24,7 @@ telnet: Unable to connect to remote host
 
 </div>
 
-<div class="post" data-post-id="29729" data-author="Hitman" data-date="2009-07-28T10:25:15+00:00">
+<div class="post" data-post-id="29729" data-author="Hitman" data-date="2009-07-28T10:25:15+00:00" data-subject="">
 
 ...there goes my crackma hunt !!! =(
 
@@ -32,7 +32,7 @@ Mud has crashed apparently.
 
 </div>
 
-<div class="post" data-post-id="29730" data-author="Destruction" data-date="2009-07-28T11:25:04+00:00">
+<div class="post" data-post-id="29730" data-author="Destruction" data-date="2009-07-28T11:25:04+00:00" data-subject="">
 
 Mud still seems to be down...   eeek!!!!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36119" data-author="*Idjit*" data-date="2015-10-24T20:07:39+00:00">
+<div class="post" data-post-id="36119" data-author="*Idjit*" data-date="2015-10-24T20:07:39+00:00" data-subject="Halloween Quest 2015">
 
 Greeting, mortals. It is I, Breeze - Lord of the Winds and Keeper of the
 

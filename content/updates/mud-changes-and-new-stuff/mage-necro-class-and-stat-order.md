@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35512" data-author="*Breeze*" data-date="2014-11-18T15:43:42+00:00">
+<div class="post" data-post-id="35512" data-author="*Breeze*" data-date="2014-11-18T15:43:42+00:00" data-subject="Mage/Necro class and stat order">
 
 Max Stat caps were being incorrectly applied to Mage/Necro
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="24257" data-author="Ember" data-date="2008-05-09T07:57:18+00:00">
+<div class="post" data-post-id="24257" data-author="Ember" data-date="2008-05-09T07:57:18+00:00" data-subject="Sloth Pics">
 
 As some of you may or may not be aware, we have a player pix page at 
 
@@ -20,7 +20,7 @@ If you wish to have your pic along with your charname (and, if you wish, your re
 
 </div>
 
-<div class="post" data-post-id="24258" data-author="jezer" data-date="2008-05-09T08:35:02+00:00">
+<div class="post" data-post-id="24258" data-author="jezer" data-date="2008-05-09T08:35:02+00:00" data-subject="">
 
 You posted this in the druid forum... Maybe your just being deep, and since a lot of the people in the gallery look like shapeshifted druids... maybe your this is the appropriate place to post such a topic...
 
@@ -30,13 +30,13 @@ Have enclosed a pic of me...  :twisted:
 
 </div>
 
-<div class="post" data-post-id="24267" data-author="Ember" data-date="2008-05-09T14:38:55+00:00">
+<div class="post" data-post-id="24267" data-author="Ember" data-date="2008-05-09T14:38:55+00:00" data-subject="">
 
 Bah it was 4am...I will try to remember to get this moved over to main crier thread if anyone really cares what forum it is under.  I figured those that read the crier will see it anyway and click out of curiosity.  Thanks for the heads up though.
 
 </div>
 
-<div class="post" data-post-id="24268" data-author="jezer" data-date="2008-05-09T14:43:40+00:00">
+<div class="post" data-post-id="24268" data-author="jezer" data-date="2008-05-09T14:43:40+00:00" data-subject="">
 
 Well lets skip to the real question here...
 
@@ -48,19 +48,19 @@ Am I HOT or NOT! :twisted:
 
 </div>
 
-<div class="post" data-post-id="24273" data-author="Ember" data-date="2008-05-09T15:05:31+00:00">
+<div class="post" data-post-id="24273" data-author="Ember" data-date="2008-05-09T15:05:31+00:00" data-subject="">
 
 NOT.  If this is indeed the pic you wanna me use, you gotta submit it to my email like everyone else.
 
 </div>
 
-<div class="post" data-post-id="24277" data-author="banedon" data-date="2008-05-10T04:33:33+00:00">
+<div class="post" data-post-id="24277" data-author="banedon" data-date="2008-05-10T04:33:33+00:00" data-subject="">
 
 have you still got the picture I sent you a few months ago to put on the dragoness website?
 
 </div>
 
-<div class="post" data-post-id="24279" data-author="Ember" data-date="2008-05-10T15:57:41+00:00">
+<div class="post" data-post-id="24279" data-author="Ember" data-date="2008-05-10T15:57:41+00:00" data-subject="">
 
 If you sent it to Jintana, she has it filed somewhere.  Go ahead and send me another one.  I also forgot to remind everyone to include how many character names you want associated with the picture.
 

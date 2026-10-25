@@ -10,13 +10,13 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="18551" data-author="Hades" data-date="2007-05-19T20:17:25+00:00">
+<div class="post" data-post-id="18551" data-author="Hades" data-date="2007-05-19T20:17:25+00:00" data-subject="Low or Soft Shoulder">
 
 Post your favorite shoulders here :twisted:
 
 </div>
 
-<div class="post" data-post-id="18552" data-author="Leaf" data-date="2007-05-20T00:20:28+00:00">
+<div class="post" data-post-id="18552" data-author="Leaf" data-date="2007-05-20T00:20:28+00:00" data-subject="">
 
 AC = Vol. Guards
 
@@ -26,7 +26,7 @@ Casters = Any +2mr +Mana :)
 
 </div>
 
-<div class="post" data-post-id="18555" data-author="Hades" data-date="2007-05-20T14:14:56+00:00">
+<div class="post" data-post-id="18555" data-author="Hades" data-date="2007-05-20T14:14:56+00:00" data-subject="Update!">
 
 I was thinking more like...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="29053" data-author="Dragoth" data-date="2009-04-25T12:29:45+00:00">
+<div class="post" data-post-id="29053" data-author="Dragoth" data-date="2009-04-25T12:29:45+00:00" data-subject="Question about Armor Cap">
 
 So with 8 classes we all have a warrior in our classo, so does that mean that everyone is able to reach -11ac max? 
 
@@ -20,13 +20,13 @@ Just needs clearing up, cheers.
 
 </div>
 
-<div class="post" data-post-id="29054" data-author="Dragoth" data-date="2009-04-25T13:08:52+00:00">
+<div class="post" data-post-id="29054" data-author="Dragoth" data-date="2009-04-25T13:08:52+00:00" data-subject="">
 
 Well sorry, had a better think about it, obviously it doesnt make it useless as people with war second will be able to get -11ac sooner than someone with warrior quad etc. :idea:
 
 </div>
 
-<div class="post" data-post-id="29057" data-author="jezer" data-date="2009-04-26T02:02:15+00:00">
+<div class="post" data-post-id="29057" data-author="jezer" data-date="2009-04-26T02:02:15+00:00" data-subject="">
 
 My perception is a lot of stuff hasn't been worked out yet... It's being fixed and adjusted "ad hoc" as we go along. Who is even -8 yet? Nothing wrong with this. But you know how this game has always gone, as players found smart ways of getting ahead, immortals made changes to cut back players. I think there is going to be pain ahead with "counter adjustments" when we reach 5x40.
 
@@ -36,7 +36,7 @@ Because everyone has the same things these days... and people tend to use only t
 
 </div>
 
-<div class="post" data-post-id="29058" data-author="Leaf" data-date="2009-04-26T06:08:47+00:00">
+<div class="post" data-post-id="29058" data-author="Leaf" data-date="2009-04-26T06:08:47+00:00" data-subject="">
 
 I posted a long message, but I must of timed out.  Basically I thought the
 
@@ -58,7 +58,7 @@ This will make everyone think what classes they will pick.
 
 </div>
 
-<div class="post" data-post-id="29059" data-author="Toxis" data-date="2009-04-26T08:00:22+00:00">
+<div class="post" data-post-id="29059" data-author="Toxis" data-date="2009-04-26T08:00:22+00:00" data-subject="">
 
 Some of the coolest skills/spells are prime only, do we really have to nerf everyone?  I mean why even bother leveling past 4th class?  The beauty of this sloth is that if you work hard enough for it you can get almost every skill and spell, which is what drew me to sloth in the first place.
 
@@ -70,7 +70,7 @@ It's been pretty hard on everyone starting over, but I was losing interest.  Thi
 
 </div>
 
-<div class="post" data-post-id="29060" data-author="Rigwarl" data-date="2009-04-26T08:49:59+00:00">
+<div class="post" data-post-id="29060" data-author="Rigwarl" data-date="2009-04-26T08:49:59+00:00" data-subject="">
 
 Since how restoration, frostbolt and wraithform is prime only, it would only make sense if HAP is set to Wa Prime only.
 
@@ -78,7 +78,7 @@ Since how restoration, frostbolt and wraithform is prime only, it would only mak
 
 </div>
 
-<div class="post" data-post-id="29062" data-author="Dragoth" data-date="2009-04-26T15:54:51+00:00">
+<div class="post" data-post-id="29062" data-author="Dragoth" data-date="2009-04-26T15:54:51+00:00" data-subject="">
 
 Just looking at the who list i saw the first four classes are separated i thought it was natural for those four classes to provide main characteristics behind your character. I.e anyone with warrior out of those 4 main classes will get the skills like tert attack etc, but will not be able to have -11ac as its out of the main 4 classes.
 

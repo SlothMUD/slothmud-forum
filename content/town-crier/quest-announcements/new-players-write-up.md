@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39363" data-author="*Neptune*" data-date="2020-01-25T19:07:05+00:00">
+<div class="post" data-post-id="39363" data-author="*Neptune*" data-date="2020-01-25T19:07:05+00:00" data-subject="New Players Write-Up">
 
 Greetings
 

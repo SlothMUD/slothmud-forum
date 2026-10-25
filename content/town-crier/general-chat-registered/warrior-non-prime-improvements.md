@@ -10,7 +10,7 @@ locked: false
 post_count: 70
 ---
 
-<div class="post" data-post-id="23564" data-author="Weasel" data-date="2008-04-03T18:58:10+00:00">
+<div class="post" data-post-id="23564" data-author="Weasel" data-date="2008-04-03T18:58:10+00:00" data-subject="Warrior non-prime improvements">
 
 Thanks Krom for enhancing Warrior a little, particularly for non-primes. Note for Warrior primes not too happy with their lot at the moment, this is apparently designed as a first set of adjustments, so to me that infers more is coming..
 
@@ -40,7 +40,7 @@ So there you have it. For primes, the main thing is the frenzy stab bonus imho. 
 
 </div>
 
-<div class="post" data-post-id="23572" data-author="*juggleblood*" data-date="2008-04-03T20:42:54+00:00">
+<div class="post" data-post-id="23572" data-author="*juggleblood*" data-date="2008-04-03T20:42:54+00:00" data-subject="">
 
 I have never used berserk because for some reason you cant get a critical hit when berserk is up. So frenzy much better, even from a damage perspective.
 
@@ -48,7 +48,7 @@ Has this changed?
 
 </div>
 
-<div class="post" data-post-id="23573" data-author="Medios" data-date="2008-04-03T21:44:31+00:00">
+<div class="post" data-post-id="23573" data-author="Medios" data-date="2008-04-03T21:44:31+00:00" data-subject="">
 
 I have never used berserk because for some reason you cant get a critical hit when berserk is up. So frenzy much better, even from a damage perspective.
 
@@ -60,7 +60,7 @@ When I was testing it with Dogs both skills averaged out almost the same.  Frenz
 
 </div>
 
-<div class="post" data-post-id="23574" data-author="Leaf" data-date="2008-04-03T21:56:53+00:00">
+<div class="post" data-post-id="23574" data-author="Leaf" data-date="2008-04-03T21:56:53+00:00" data-subject="">
 
 It would be pretty good to get critical hit to work with berserk.  Was this
 
@@ -70,25 +70,25 @@ Mikey now has a very strong gripper, since bersek helps grip/touch.
 
 </div>
 
-<div class="post" data-post-id="23575" data-author="brady" data-date="2008-04-03T22:06:54+00:00">
+<div class="post" data-post-id="23575" data-author="brady" data-date="2008-04-03T22:06:54+00:00" data-subject="">
 
 I thought you had to be engaged to berserk.  No?
 
 </div>
 
-<div class="post" data-post-id="23576" data-author="Rynquald" data-date="2008-04-03T22:16:37+00:00">
+<div class="post" data-post-id="23576" data-author="Rynquald" data-date="2008-04-03T22:16:37+00:00" data-subject="">
 
 Nope, you can berserk whenever, I do it before shifting all the time.
 
 </div>
 
-<div class="post" data-post-id="23583" data-author="Weasel" data-date="2008-04-04T03:06:30+00:00">
+<div class="post" data-post-id="23583" data-author="Weasel" data-date="2008-04-04T03:06:30+00:00" data-subject="">
 
 Krom will the frenzy / berserk damage bonus apply to broadside & flail too please?
 
 </div>
 
-<div class="post" data-post-id="23585" data-author="Yasik2" data-date="2008-04-04T04:28:24+00:00">
+<div class="post" data-post-id="23585" data-author="Yasik2" data-date="2008-04-04T04:28:24+00:00" data-subject="">
 
 Krom will the frenzy / berserk damage bonus apply to broadsword & flail too please?[/quote:1erpoed4]
 
@@ -96,25 +96,25 @@ At this point i wanted to make a correction about skill name being Broadside, no
 
 </div>
 
-<div class="post" data-post-id="23587" data-author="Weasel" data-date="2008-04-04T05:40:11+00:00">
+<div class="post" data-post-id="23587" data-author="Weasel" data-date="2008-04-04T05:40:11+00:00" data-subject="">
 
 :roll:
 
 </div>
 
-<div class="post" data-post-id="23592" data-author="*Krom*" data-date="2008-04-04T22:02:17+00:00">
+<div class="post" data-post-id="23592" data-author="*Krom*" data-date="2008-04-04T22:02:17+00:00" data-subject="">
 
 Ill take a look and see what we think.
 
 </div>
 
-<div class="post" data-post-id="23595" data-author="Tap" data-date="2008-04-04T23:55:59+00:00">
+<div class="post" data-post-id="23595" data-author="Tap" data-date="2008-04-04T23:55:59+00:00" data-subject="">
 
 When we get done taking a look, can we scatter some of our tokens for those pesky mortals? :?
 
 </div>
 
-<div class="post" data-post-id="23596" data-author="Weasel" data-date="2008-04-05T00:37:54+00:00">
+<div class="post" data-post-id="23596" data-author="Weasel" data-date="2008-04-05T00:37:54+00:00" data-subject="">
 
 Ill take a look and see what we think.[/quote:3fhfj1ej]
 
@@ -122,7 +122,7 @@ Ill take a look and see what we think.[/quote:3fhfj1ej]
 
 </div>
 
-<div class="post" data-post-id="23613" data-author="Assirian" data-date="2008-04-07T10:14:13+00:00">
+<div class="post" data-post-id="23613" data-author="Assirian" data-date="2008-04-07T10:14:13+00:00" data-subject="">
 
 melee damage could be low, but it is noticeable.
 
@@ -132,13 +132,13 @@ thanks Krom
 
 </div>
 
-<div class="post" data-post-id="24017" data-author="Weasel" data-date="2008-04-24T16:05:17+00:00">
+<div class="post" data-post-id="24017" data-author="Weasel" data-date="2008-04-24T16:05:17+00:00" data-subject="Krom">
 
 Krom have you considered yet adding the frenzy / berserk damage bonus to broadside (and I guess flail if anyone uses it)? Seems kinda weird having a Warrior skill improvement that mostly applies to Warrior non-primes.
 
 </div>
 
-<div class="post" data-post-id="24054" data-author="Zukt" data-date="2008-04-26T22:21:22+00:00">
+<div class="post" data-post-id="24054" data-author="Zukt" data-date="2008-04-26T22:21:22+00:00" data-subject="">
 
 How bout fixing charge to be useful? Currently theres a full round of lag and the cleric supps that are mounts dont do anything useful like autoassist while riding.
 
@@ -146,7 +146,7 @@ Making qilin something more than just a horse would be useful. Perhaps it autoas
 
 </div>
 
-<div class="post" data-post-id="24089" data-author="Assirian" data-date="2008-04-28T15:41:31+00:00">
+<div class="post" data-post-id="24089" data-author="Assirian" data-date="2008-04-28T15:41:31+00:00" data-subject="">
 
 I agree with Zukt.. 
 
@@ -158,7 +158,7 @@ It is even weaker then 2 bolts for me
 
 </div>
 
-<div class="post" data-post-id="24162" data-author="Weasel" data-date="2008-05-03T14:38:50+00:00">
+<div class="post" data-post-id="24162" data-author="Weasel" data-date="2008-05-03T14:38:50+00:00" data-subject="Krom">
 
 Krom have you considered yet adding the frenzy / berserk damage bonus to broadside (and I guess flail if anyone uses it)? Seems kinda weird having a Warrior skill improvement that for the most part applies to Warrior non-primes.[/quote:3blpbh3m]
 
@@ -166,13 +166,13 @@ Krom have you considered yet adding the frenzy / berserk damage bonus to broadsi
 
 </div>
 
-<div class="post" data-post-id="24597" data-author="Weasel" data-date="2008-05-30T02:18:56+00:00">
+<div class="post" data-post-id="24597" data-author="Weasel" data-date="2008-05-30T02:18:56+00:00" data-subject="">
 
 *bump*  ... again.. warrior skill.. currently benefits warrior primes the [b:3iqvl9uf]least[/b:3iqvl9uf].. (relative to warrior elsewhere in classo).. effects backstab, deathgrip, deathtouch, wraithtouch, strike and circlestab, but not broadside and flail, even though those are the two warrior skills and the others are not??? ..makes little to zero sense ..please can this apply to broadside and flail, considering this is supposed to be a warrior skill....   :shock:
 
 </div>
 
-<div class="post" data-post-id="24599" data-author="jezer" data-date="2008-05-30T02:46:44+00:00">
+<div class="post" data-post-id="24599" data-author="jezer" data-date="2008-05-30T02:46:44+00:00" data-subject="">
 
 Why does this thread always get bumped when Krom posts to the board? 
 
@@ -182,7 +182,7 @@ Why does this thread always get bumped when Krom posts to the board?
 
 </div>
 
-<div class="post" data-post-id="24669" data-author="PolkAdotS" data-date="2008-06-02T06:37:13+00:00">
+<div class="post" data-post-id="24669" data-author="PolkAdotS" data-date="2008-06-02T06:37:13+00:00" data-subject="">
 
 > **Weasel wrote:**
 > Krom have you considered yet adding the frenzy / berserk damage bonus to broadside (and I guess flail if anyone uses it)?
@@ -191,7 +191,7 @@ Berserk always worked well with Stabs.  I would double-stab with berserk sometim
 
 </div>
 
-<div class="post" data-post-id="24682" data-author="PolkAdotS" data-date="2008-06-02T11:44:16+00:00">
+<div class="post" data-post-id="24682" data-author="PolkAdotS" data-date="2008-06-02T11:44:16+00:00" data-subject="">
 
 I believe that the best warrior skill is still toss.  That you can toss a Monk with slowfall down the idol, or the chasm in cano or the clouds... it's great.  Slowfall doesn't work over Toss, and if it does there's another Monk skill needing nerfed, real bad.  It bothers me to the point of just making your characters lives living hell because of not just letting me play anymore.  I was p-worded because Yinao is obviously out of his blinking mind... and I've been sober for six months.  Keep calling me out Yasik2, probably a clone of a cloned Russian, isn't Yasik russian?  So you're double-yasik?  Are you 1/8th Yasik's size?  Cause he is uhm, wel who knows he's Russian, I've never been to Russia so maybe they're like the Nordic and Vikings of Old, you know 9 feet tall.  I'd imagine at an 8th of nine feet would make you around 4 foot 2.  In fact, no more than what's left you'd be at that point something more the to sound of ...1/8 * (9*12) - (4*12+2) = your height, in brain cells.  A little of each I think as well, that you've got the brain-cells for your own personal height... that's just great Yasik2 (s).  I think that means you've got a scientifically negative notation of thoughts.  It basically (if I must be so kind to elaborate) means you're an asshole.  Take care guys, I mean all of you.
 
@@ -199,13 +199,13 @@ Stupid Jerk from Kentucky....
 
 </div>
 
-<div class="post" data-post-id="24687" data-author="*juggleblood*" data-date="2008-06-02T16:28:44+00:00">
+<div class="post" data-post-id="24687" data-author="*juggleblood*" data-date="2008-06-02T16:28:44+00:00" data-subject="warrior skills">
 
 What are peoples thoughts so far on using the tumbling skill as tank? Has anyone tried to figure out how much damage it reduces?
 
 </div>
 
-<div class="post" data-post-id="24691" data-author="Weasel" data-date="2008-06-02T16:32:56+00:00">
+<div class="post" data-post-id="24691" data-author="Weasel" data-date="2008-06-02T16:32:56+00:00" data-subject="">
 
 *bump*  ... again.. warrior skill frenzy / berserk.. currently benefits warrior primes the [b:2rr477ya]least[/b:2rr477ya].. (relative to warrior elsewhere in classo).. effects backstab, deathgrip, deathtouch, wraithtouch, strike and circlestab, but [i:2rr477ya]not[/i:2rr477ya] broadside and flail, even though those are the two warrior skills and the others are not??? ..makes little to zero sense having a warrior skill that warrior primes don't benefit from, but other classes do benefit from.. in fact that makes it anything but a warrior skill! So.. please can frenzy/berserk apply to broadside and flail, considering this is supposed to be a warrior skill....   :shock:
 
@@ -215,19 +215,19 @@ damn hijackers :P
 
 </div>
 
-<div class="post" data-post-id="26792" data-author="Weasel" data-date="2008-10-21T01:39:46+00:00">
+<div class="post" data-post-id="26792" data-author="Weasel" data-date="2008-10-21T01:39:46+00:00" data-subject="">
 
 any point even trying to bump this again?
 
 </div>
 
-<div class="post" data-post-id="26856" data-author="13" data-date="2008-10-26T18:52:00+00:00">
+<div class="post" data-post-id="26856" data-author="13" data-date="2008-10-26T18:52:00+00:00" data-subject="">
 
 how come you cant get -11 anymore, just 10-12?
 
 </div>
 
-<div class="post" data-post-id="26979" data-author="angel" data-date="2008-11-04T09:17:20+00:00">
+<div class="post" data-post-id="26979" data-author="angel" data-date="2008-11-04T09:17:20+00:00" data-subject="">
 
 help heavy
 
@@ -255,7 +255,7 @@ sarcasm?:)
 
 </div>
 
-<div class="post" data-post-id="26981" data-author="*juggleblood*" data-date="2008-11-04T13:54:26+00:00">
+<div class="post" data-post-id="26981" data-author="*juggleblood*" data-date="2008-11-04T13:54:26+00:00" data-subject="">
 
 Broad side already does massive critical hits fairly often and has a possibility of stunning the mob, preventing it from doing a special procedure. Your gripe is that frenzy doesn't stack onto it? How do you know it doesn't? The bonus is so small there'd be no way for us to even tell. I'm not saying it shouldn't stack. Just wondering how you know it doesn't.
 
@@ -263,7 +263,7 @@ Edit: if someone does go into frenzy / berserk and work on it, I'd like a room m
 
 </div>
 
-<div class="post" data-post-id="26982" data-author="Weasel" data-date="2008-11-04T17:44:50+00:00">
+<div class="post" data-post-id="26982" data-author="Weasel" data-date="2008-11-04T17:44:50+00:00" data-subject="">
 
 I asked back when it was introduced - can't even recall which coder it was now - but was advised by the implementer as I already mentioned:
 
@@ -277,7 +277,7 @@ Whatever, just call me a whiner. I'm rolling a prime thief now, so I expect they
 
 </div>
 
-<div class="post" data-post-id="27062" data-author="Weasel" data-date="2008-11-07T12:51:46+00:00">
+<div class="post" data-post-id="27062" data-author="Weasel" data-date="2008-11-07T12:51:46+00:00" data-subject="">
 
 When I see this :
 
@@ -289,7 +289,7 @@ Feel free to flame.
 
 </div>
 
-<div class="post" data-post-id="27063" data-author="jezer" data-date="2008-11-07T13:37:20+00:00">
+<div class="post" data-post-id="27063" data-author="jezer" data-date="2008-11-07T13:37:20+00:00" data-subject="">
 
 flame.
 
@@ -301,7 +301,7 @@ You wanna see shimbo in action... I bet he dishes more damage than I do.
 
 </div>
 
-<div class="post" data-post-id="27064" data-author="Tap" data-date="2008-11-07T13:38:28+00:00">
+<div class="post" data-post-id="27064" data-author="Tap" data-date="2008-11-07T13:38:28+00:00" data-subject="">
 
 [quote:ywgfmjyv]A run consists of me using 900 mana shifted (2300hp, -12ac, 7 attacks @ +26dam) [/quote:ywgfmjyv]
 
@@ -311,7 +311,7 @@ No worries....I feel a druid nerfing coming :D
 
 </div>
 
-<div class="post" data-post-id="27066" data-author="jezer" data-date="2008-11-07T14:05:16+00:00">
+<div class="post" data-post-id="27066" data-author="jezer" data-date="2008-11-07T14:05:16+00:00" data-subject="">
 
 Might I also point out my mana is actually only 670. I've made a max mana mode to get my 900. It's called working hard... being a dumb warrior your regen is probably a pearl of the rising tide.
 
@@ -321,7 +321,7 @@ I've earned 1450 drachma so far... to increase my mana regen. If you think my ro
 
 </div>
 
-<div class="post" data-post-id="27067" data-author="Toxis" data-date="2008-11-07T15:24:14+00:00">
+<div class="post" data-post-id="27067" data-author="Toxis" data-date="2008-11-07T15:24:14+00:00" data-subject="">
 
 Toxis and Stryx used to compare each other, and he used to goad me saying how weak warriors were.  But when we compared our skills, it's obvious warriors make good tanks and druids regen fast.  They each have their special skills that make them powerful in their own way.  
 
@@ -337,7 +337,7 @@ In the end, they're both decent and do what they're designed for: warriors dumb 
 
 </div>
 
-<div class="post" data-post-id="27068" data-author="Weasel" data-date="2008-11-07T16:53:10+00:00">
+<div class="post" data-post-id="27068" data-author="Weasel" data-date="2008-11-07T16:53:10+00:00" data-subject="">
 
 Might I also point out my mana is actually only 670. I've made a max mana mode to get my 900. It's called working hard... being a dumb warrior your regen is probably a pearl of the rising tide.
 
@@ -351,13 +351,13 @@ For some reason you seem to have taken my post about those stats as some kind of
 
 </div>
 
-<div class="post" data-post-id="27069" data-author="Weasel" data-date="2008-11-07T16:55:29+00:00">
+<div class="post" data-post-id="27069" data-author="Weasel" data-date="2008-11-07T16:55:29+00:00" data-subject="">
 
 Arg.. why do I ever post here?
 
 </div>
 
-<div class="post" data-post-id="27071" data-author="Stryx" data-date="2008-11-07T19:29:35+00:00">
+<div class="post" data-post-id="27071" data-author="Stryx" data-date="2008-11-07T19:29:35+00:00" data-subject="">
 
 [quote:2jduw60g]Oh, and if this is some 'who's got the biggest dick' competition,[/quote:2jduw60g]
 
@@ -371,7 +371,7 @@ But, Druids hug tree's harder than warriors do :twisted:
 
 </div>
 
-<div class="post" data-post-id="27072" data-author="Tap" data-date="2008-11-07T19:39:11+00:00">
+<div class="post" data-post-id="27072" data-author="Tap" data-date="2008-11-07T19:39:11+00:00" data-subject="">
 
 [quote:o35t4kqv]'ve earned 1450 drachma so far... to increase my mana regen. If you think my road has been easy to get to where I am.... MAKE A DRUID and find out for yourself[/quote:o35t4kqv]
 
@@ -379,7 +379,7 @@ They is still a druid bug that allows you to clone items even personal. I won't 
 
 </div>
 
-<div class="post" data-post-id="27073" data-author="firebrand" data-date="2008-11-07T20:53:49+00:00">
+<div class="post" data-post-id="27073" data-author="firebrand" data-date="2008-11-07T20:53:49+00:00" data-subject="">
 
 When I see this :
 
@@ -403,7 +403,7 @@ okay.  time to sit back and watch while this post gets flamed, picked apart and 
 
 </div>
 
-<div class="post" data-post-id="27074" data-author="Yasik2" data-date="2008-11-07T21:06:53+00:00">
+<div class="post" data-post-id="27074" data-author="Yasik2" data-date="2008-11-07T21:06:53+00:00" data-subject="">
 
 how many of you leveled a druid character higher than 1x20 ?
 
@@ -413,7 +413,7 @@ you don't know *anything* about playing druid so post some tits or gtfo, your pr
 
 </div>
 
-<div class="post" data-post-id="27080" data-author="sirrico1" data-date="2008-11-08T00:50:24+00:00">
+<div class="post" data-post-id="27080" data-author="sirrico1" data-date="2008-11-08T00:50:24+00:00" data-subject="Re: warrior skills">
 
 What are peoples thoughts so far on using the tumbling skill as tank? Has anyone tried to figure out how much damage it reduces?[/quote:2agu14qj]
 
@@ -421,7 +421,7 @@ no idea I can't seem to get tumble defense
 
 </div>
 
-<div class="post" data-post-id="27081" data-author="angel" data-date="2008-11-08T02:18:37+00:00">
+<div class="post" data-post-id="27081" data-author="angel" data-date="2008-11-08T02:18:37+00:00" data-subject="">
 
 come on reb, warriors are fun, just gotta know how to play em :)
 
@@ -431,7 +431,7 @@ well apart from epics n the once in a while quests, grouping isnt needed almost 
 
 </div>
 
-<div class="post" data-post-id="27082" data-author="strider" data-date="2008-11-08T02:39:02+00:00">
+<div class="post" data-post-id="27082" data-author="strider" data-date="2008-11-08T02:39:02+00:00" data-subject="">
 
 Guess i'll start with juggles question, tumbling sucks for tanks thieves anything that can use it. it's a great idea but i tested it quite a lot and it gave about 12dmg redux on one attack. that's if it fires which even using a thief prime is very rare. generally it will work once every other round and will get a full miss (avoid full dmg of attack) maybe once every 20 rounds. it's a cute skill but utterly pointless, sorry. 
 
@@ -453,13 +453,13 @@ There are still quite a few fun things you can do with the old tanks and even no
 
 </div>
 
-<div class="post" data-post-id="27083" data-author="angel" data-date="2008-11-08T02:56:01+00:00">
+<div class="post" data-post-id="27083" data-author="angel" data-date="2008-11-08T02:56:01+00:00" data-subject="">
 
 totally agree,but i can do pure viscous with minstrel singin gods:P with berserk of course :) n yes 5attack tanks do hit harder than a freagin piasa!
 
 </div>
 
-<div class="post" data-post-id="27087" data-author="firebrand" data-date="2008-11-08T17:19:57+00:00">
+<div class="post" data-post-id="27087" data-author="firebrand" data-date="2008-11-08T17:19:57+00:00" data-subject="">
 
 no can do.  there is more to it than just not being top tank class anymore.  i hate feeling useless in a group and firebrand in others' opinions is just that - useless - useless until you need her to go run get your dead ass out of somewhere then the song and dance changes.   that is when i will get a tell or a gossip or an im "help me! save deadass!".  so i stop my run with next to no mana, go relocating across the map to go find you, only to find that someone ELSE has gone to get you and raise you and then i have to sit and regen for 20 fuk king minutes, relocate back, etc etc wasting mana before i can go all the way back to where i was running.  and then i either die coming to help you or i die on my runs and no one can be bothered to come get me until i corpse then it's "so sorry".  yeah, you're sorry.  what about the xps or level i just lost?  nah.  not worth the frustration anymore. sorry.  
 
@@ -479,7 +479,7 @@ bah.  why do i even bother.  long story even longer, i retired my mortals - at l
 
 </div>
 
-<div class="post" data-post-id="27088" data-author="alias" data-date="2008-11-08T17:37:50+00:00">
+<div class="post" data-post-id="27088" data-author="alias" data-date="2008-11-08T17:37:50+00:00" data-subject="">
 
 Ive said it many times...all it takes is to implement a new spell to allow a prime necro to cast wraithform on another player then all your old school or hybrid tanks are now capable of tanking everything just about equally.
 
@@ -493,7 +493,7 @@ Im sure I need necro lessons but there really arent a lot of higher necros up th
 
 </div>
 
-<div class="post" data-post-id="27089" data-author="strider" data-date="2008-11-08T18:02:46+00:00">
+<div class="post" data-post-id="27089" data-author="strider" data-date="2008-11-08T18:02:46+00:00" data-subject="">
 
 just gotta love a good firebrand rant. being a tank has nothing to do w/ your first set of problems as far as helping other chars. it happens to all people regardless of class. though it is a bit more time for you to regen but probly not a whole lot since even though your regen is low so is your max mana most likely.
 
@@ -501,13 +501,13 @@ there are areas out there for tanks. one lyme one comes to mind that if you both
 
 </div>
 
-<div class="post" data-post-id="27090" data-author="strider" data-date="2008-11-08T18:11:07+00:00">
+<div class="post" data-post-id="27090" data-author="strider" data-date="2008-11-08T18:11:07+00:00" data-subject="">
 
 while i would love having wraithform castable on others. the imms probly take too much pleasure in seeing tanks waste an entire class for two spells that are helpful. wraithform and spectral. just think if tanks didn't have to waste a class for those two spells!!
 
 </div>
 
-<div class="post" data-post-id="27091" data-author="Tap" data-date="2008-11-09T00:32:18+00:00">
+<div class="post" data-post-id="27091" data-author="Tap" data-date="2008-11-09T00:32:18+00:00" data-subject="">
 
 It's a simple fix..just add new warrior skill Enhanced Maneuver
 
@@ -519,7 +519,7 @@ Problem solved
 
 </div>
 
-<div class="post" data-post-id="27092" data-author="Dragoth" data-date="2008-11-09T01:46:04+00:00">
+<div class="post" data-post-id="27092" data-author="Dragoth" data-date="2008-11-09T01:46:04+00:00" data-subject="">
 
 The grass is always greener on the other side isnt it. :idea: 
 
@@ -537,7 +537,7 @@ Im sorry but if you cant be arsed to put that effort into something, dont go cry
 
 </div>
 
-<div class="post" data-post-id="27093" data-author="*Splork*" data-date="2008-11-09T03:29:52+00:00">
+<div class="post" data-post-id="27093" data-author="*Splork*" data-date="2008-11-09T03:29:52+00:00" data-subject="">
 
 There really is nothing more that we can do to stop comparisons between the old school classes and new school except do a pwipe. Which we obviously have not wanted to go that route. Most players who feel or had felt the way Firebrand does have gone on to make a new character and put their time and effort into something different which ultimately they have enjoyed more. It makes far more sense to play a character that you have hopes for and have fun with than laboring with one that you do not enjoy playing anymore for various reasons...
 
@@ -549,7 +549,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="27094" data-author="Vixn" data-date="2008-11-09T06:51:24+00:00">
+<div class="post" data-post-id="27094" data-author="Vixn" data-date="2008-11-09T06:51:24+00:00" data-subject="">
 
 I agree with Splork and the only thing I can add is the problem I met when I started my new classo char. When it was pretty new time came to fix necro pets, then necro debuffs, then non-warrior AC. From the first sight I though immortals play new classo chars and then start to 'nerf' them when other players start to play. I even posted some crap on crier about it (my apologies to immortals). But now I believe they just tried to bring balance to Sloth and it's simply impossible to make change if you don't know strong and weak sides of the classes. I know that even bigger games development companies make changes in their commercial games to bring more balance (and as for me Sloth was and still is much better than those commercial muds).
 
@@ -561,7 +561,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="27095" data-author="Yasik2" data-date="2008-11-09T07:40:46+00:00">
+<div class="post" data-post-id="27095" data-author="Yasik2" data-date="2008-11-09T07:40:46+00:00" data-subject="">
 
 and again
 
@@ -593,13 +593,13 @@ PS. Druid mr bonus applies only in "outdoors" rooms, indoors you get regular 2xC
 
 </div>
 
-<div class="post" data-post-id="27096" data-author="Tap" data-date="2008-11-09T11:30:22+00:00">
+<div class="post" data-post-id="27096" data-author="Tap" data-date="2008-11-09T11:30:22+00:00" data-subject="">
 
 Probably falls under druids being able to solo MOB's warriors cant and more than 1 at a time....warriors should put down the sword and maybe take up fishing.
 
 </div>
 
-<div class="post" data-post-id="27097" data-author="Weasel" data-date="2008-11-09T14:20:57+00:00">
+<div class="post" data-post-id="27097" data-author="Weasel" data-date="2008-11-09T14:20:57+00:00" data-subject="">
 
 Probably falls under druids being able to solo MOB's warriors cant and more than 1 at a time....warriors should put down the sword and maybe take up fishing.[/quote:rg0d8orl]
 
@@ -607,7 +607,7 @@ Hence the [b:rg0d8orl]=[/color:rg0d8orl]sMAc=[/color:rg0d8orl][/b:rg0d8orl] clan
 
 </div>
 
-<div class="post" data-post-id="27150" data-author="Avatar" data-date="2008-11-13T00:35:08+00:00">
+<div class="post" data-post-id="27150" data-author="Avatar" data-date="2008-11-13T00:35:08+00:00" data-subject="Tanks">
 
 I've said it before, but I agree with Angel.  It's a quick fix to tank characters to allow wraithform to be cast on others.  It seems clear that this would improve the chances of players cooperating with each other.  Groups would actually welcome a necro, while for now their most powerful abilities (pets) usually effectively annoy any xp groups.
 
@@ -617,7 +617,7 @@ As for the rest of the arguments, it's clear that new class characters are very 
 
 </div>
 
-<div class="post" data-post-id="27152" data-author="Gimlet" data-date="2008-11-13T12:37:08+00:00">
+<div class="post" data-post-id="27152" data-author="Gimlet" data-date="2008-11-13T12:37:08+00:00" data-subject="">
 
 i've never failed to be ammused by the debate over old-school classos vs new classes.
 
@@ -633,7 +633,7 @@ you guys clamoured for changes to the game back then coz the game was getting st
 
 </div>
 
-<div class="post" data-post-id="27153" data-author="Autolycos" data-date="2008-11-13T13:39:24+00:00">
+<div class="post" data-post-id="27153" data-author="Autolycos" data-date="2008-11-13T13:39:24+00:00" data-subject="">
 
 You don't see autolycos stabbing in trogs.[/quote:fu8wr4k0]
 
@@ -645,19 +645,19 @@ any char classo can be great if you spend the time.
 
 </div>
 
-<div class="post" data-post-id="27154" data-author="Weasel" data-date="2008-11-13T14:27:48+00:00">
+<div class="post" data-post-id="27154" data-author="Weasel" data-date="2008-11-13T14:27:48+00:00" data-subject="">
 
 So the argument is not that old classo warrior primes aren't up to par, but that the players who have them are too lazy to be bothered scrapping their characters and starting again from scratch. Got it.
 
 </div>
 
-<div class="post" data-post-id="27155" data-author="*Splork*" data-date="2008-11-13T15:04:47+00:00">
+<div class="post" data-post-id="27155" data-author="*Splork*" data-date="2008-11-13T15:04:47+00:00" data-subject="">
 
 I think the point was: if you are not having fun with the character you are playing, start a new one :P
 
 </div>
 
-<div class="post" data-post-id="27156" data-author="Weasel" data-date="2008-11-13T15:20:01+00:00">
+<div class="post" data-post-id="27156" data-author="Weasel" data-date="2008-11-13T15:20:01+00:00" data-subject="">
 
 I think the point was: if you are not having fun with the character you are playing, start a new one :P[/quote:3qtt0qy8]
 
@@ -667,7 +667,7 @@ nods.. amounts to the same thing. It's a matter of perception. Even if the old c
 
 </div>
 
-<div class="post" data-post-id="27157" data-author="firebrand" data-date="2008-11-13T16:22:06+00:00">
+<div class="post" data-post-id="27157" data-author="firebrand" data-date="2008-11-13T16:22:06+00:00" data-subject="">
 
 I think the point was: if you are not having fun with the character you are playing, start a new one :P[/quote:2wrff7de]
 
@@ -681,7 +681,7 @@ at what point will you stop killing off the desire for anyone to stay and keep p
 
 </div>
 
-<div class="post" data-post-id="27158" data-author="Autolycos" data-date="2008-11-13T16:48:52+00:00">
+<div class="post" data-post-id="27158" data-author="Autolycos" data-date="2008-11-13T16:48:52+00:00" data-subject="">
 
 its all irrelevant  - time vs result
 
@@ -693,7 +693,7 @@ simply put.  the complaints will always come from those who act by not acting.
 
 </div>
 
-<div class="post" data-post-id="27160" data-author="Vixn" data-date="2008-11-13T17:48:15+00:00">
+<div class="post" data-post-id="27160" data-author="Vixn" data-date="2008-11-13T17:48:15+00:00" data-subject="">
 
 ... it's the frustration of knowing that some other classos are doing far more and doing it at lower levels while you are sitting there spending the bulk of the time regenning or hitting lower value mobs...[/quote:3sexyoqb]
 
@@ -703,7 +703,7 @@ p.s. BTW I believe 'make-new-char' philosophy came from Buddhism too. As for me 
 
 </div>
 
-<div class="post" data-post-id="27161" data-author="Vixn" data-date="2008-11-13T17:57:56+00:00">
+<div class="post" data-post-id="27161" data-author="Vixn" data-date="2008-11-13T17:57:56+00:00" data-subject="">
 
 that would be like someone going to school for 16 years to become a phD and then being told "all of your hard work is useless.[/quote:1skar00n]
 
@@ -711,7 +711,7 @@ Huh, probably we have very different education systems but what you said is very
 
 </div>
 
-<div class="post" data-post-id="27162" data-author="Gimlet" data-date="2008-11-13T18:21:47+00:00">
+<div class="post" data-post-id="27162" data-author="Gimlet" data-date="2008-11-13T18:21:47+00:00" data-subject="">
 
 look, nobody's saying you HAVE to make a new character.
 
@@ -727,7 +727,7 @@ anyone who wants to leave will find somehting to justify their excuse...heck jus
 
 </div>
 
-<div class="post" data-post-id="27163" data-author="Weasel" data-date="2008-11-13T18:25:21+00:00">
+<div class="post" data-post-id="27163" data-author="Weasel" data-date="2008-11-13T18:25:21+00:00" data-subject="">
 
 its all irrelevant  - time vs result
 
@@ -741,7 +741,7 @@ Wrong dude. I've started a number of new classo chars and new classo mixes, as w
 
 </div>
 
-<div class="post" data-post-id="27164" data-author="Gimlet" data-date="2008-11-13T18:25:47+00:00">
+<div class="post" data-post-id="27164" data-author="Gimlet" data-date="2008-11-13T18:25:47+00:00" data-subject="">
 
 notice it's always the warriors and clerics whining...
 
@@ -749,7 +749,7 @@ u never see old school thieves whinning about thieves with monk and bard (before
 
 </div>
 
-<div class="post" data-post-id="27165" data-author="Weasel" data-date="2008-11-13T18:30:35+00:00">
+<div class="post" data-post-id="27165" data-author="Weasel" data-date="2008-11-13T18:30:35+00:00" data-subject="">
 
 notice it's always the warriors and clerics whining...
 
@@ -761,7 +761,7 @@ That's because Thief primes are not Warrior primes. I've started a couple of thi
 
 </div>
 
-<div class="post" data-post-id="27168" data-author="Tap" data-date="2008-11-13T22:07:13+00:00">
+<div class="post" data-post-id="27168" data-author="Tap" data-date="2008-11-13T22:07:13+00:00" data-subject="">
 
 [quote:2qmva0nr]heck just the other day we had someone cryin about leaving only to return 2 hours later[/quote:2qmva0nr]
 
@@ -771,7 +771,7 @@ That's because Thief primes are not Warrior primes. I've started a couple of thi
 
 </div>
 
-<div class="post" data-post-id="27170" data-author="jezer" data-date="2008-11-13T22:39:39+00:00">
+<div class="post" data-post-id="27170" data-author="jezer" data-date="2008-11-13T22:39:39+00:00" data-subject="">
 
 Exactly! Everything in this thread supports my own opinion!
 

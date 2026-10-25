@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33897" data-author="Tuck" data-date="2013-01-08T01:28:08+00:00">
+<div class="post" data-post-id="33897" data-author="Tuck" data-date="2013-01-08T01:28:08+00:00" data-subject="CMUD MSDP Scripts! Parse MSDP right into CMUD. (ver. 1.8)">
 
 Hail fella!
 
@@ -47,7 +47,7 @@ Update 3: **Updated! New vars!**
 
 </div>
 
-<div class="post" data-post-id="38892" data-author="norks" data-date="2018-06-13T11:43:59+00:00">
+<div class="post" data-post-id="38892" data-author="norks" data-date="2018-06-13T11:43:59+00:00" data-subject="Re: CMUD MSDP Scripts! Parse MSDP right into CMUD. (ver. 1.8">
 
 Does anyone have this script  for Zmud?
 

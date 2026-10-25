@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="3626" data-author="Modello" data-date="2005-01-06T00:31:40+00:00">
+<div class="post" data-post-id="3626" data-author="Modello" data-date="2005-01-06T00:31:40+00:00" data-subject="Monk prime forge">
 
 Monk prime suit is back.  Forge note and specs on it are as follows:
 
@@ -68,7 +68,7 @@ Cackle!!!
 
 </div>
 
-<div class="post" data-post-id="3631" data-author="13" data-date="2005-01-06T13:25:20+00:00">
+<div class="post" data-post-id="3631" data-author="13" data-date="2005-01-06T13:25:20+00:00" data-subject="">
 
 Hrm, isn't the drachma robe worse than that or is it adjusted ?
 
@@ -76,13 +76,13 @@ Either way, that's cool shit, we needed a monk robe.
 
 </div>
 
-<div class="post" data-post-id="3633" data-author="Alberich" data-date="2005-01-06T13:37:15+00:00">
+<div class="post" data-post-id="3633" data-author="Alberich" data-date="2005-01-06T13:37:15+00:00" data-subject="">
 
 that's body armor, iirc
 
 </div>
 
-<div class="post" data-post-id="3634" data-author="12345" data-date="2005-01-06T14:24:46+00:00">
+<div class="post" data-post-id="3634" data-author="12345" data-date="2005-01-06T14:24:46+00:00" data-subject="Re: Monk prime forge">
 
 Worn in: TAKE ABOUT[/quote:3ska38w9]
 
@@ -90,13 +90,13 @@ Seems like a robe  :)
 
 </div>
 
-<div class="post" data-post-id="3635" data-author="12345" data-date="2005-01-06T14:26:17+00:00">
+<div class="post" data-post-id="3635" data-author="12345" data-date="2005-01-06T14:26:17+00:00" data-subject="">
 
 Bah, drachma armor.  Disregard previous.  Need sleep.
 
 </div>
 
-<div class="post" data-post-id="3636" data-author="12345" data-date="2005-01-06T14:32:09+00:00">
+<div class="post" data-post-id="3636" data-author="12345" data-date="2005-01-06T14:32:09+00:00" data-subject="">
 
 Hrm, isn't the drachma robe worse than that or is it adjusted ?[/quote:wzromz6n]
 
@@ -108,7 +108,7 @@ Back to killing kobolds for me... safer than the boards.
 
 </div>
 
-<div class="post" data-post-id="3639" data-author="Akasha2" data-date="2005-01-06T16:35:08+00:00">
+<div class="post" data-post-id="3639" data-author="Akasha2" data-date="2005-01-06T16:35:08+00:00" data-subject="Robe Recalled">
 
 Mark it on your calender, you won't see this a lot.
 
@@ -118,13 +118,13 @@ As of this time, this forge is no longer ingame.
 
 </div>
 
-<div class="post" data-post-id="3640" data-author="13" data-date="2005-01-06T18:44:39+00:00">
+<div class="post" data-post-id="3640" data-author="13" data-date="2005-01-06T18:44:39+00:00" data-subject="">
 
 aww shit
 
 </div>
 
-<div class="post" data-post-id="3641" data-author="Leaf" data-date="2005-01-06T18:57:00+00:00">
+<div class="post" data-post-id="3641" data-author="Leaf" data-date="2005-01-06T18:57:00+00:00" data-subject="">
 
 13 had his hopes up.  But we know 13 goes for +dam and not reduce :p
 

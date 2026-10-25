@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34407" data-author="*juggleblood*" data-date="2013-08-27T12:04:45+00:00">
+<div class="post" data-post-id="34407" data-author="*juggleblood*" data-date="2013-08-27T12:04:45+00:00" data-subject="typos august 2013">
 
 I thought I'd address some typos starting with August. It doesn't include hard-coded typos such as in skills or in help files.
 
@@ -50,7 +50,7 @@ west."
 
 </div>
 
-<div class="post" data-post-id="34408" data-author="*juggleblood*" data-date="2013-08-28T12:17:30+00:00">
+<div class="post" data-post-id="34408" data-author="*juggleblood*" data-date="2013-08-28T12:17:30+00:00" data-subject="Re: typos august 2013">
 
 July:
 
@@ -100,7 +100,7 @@ saps the last bit of life out of him.
 
 </div>
 
-<div class="post" data-post-id="34412" data-author="*juggleblood*" data-date="2013-08-30T22:25:36+00:00">
+<div class="post" data-post-id="34412" data-author="*juggleblood*" data-date="2013-08-30T22:25:36+00:00" data-subject="Re: typos august 2013">
 
 June typos:
 

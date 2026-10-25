@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3681" data-author="*Splork*" data-date="2005-01-09T12:42:09+00:00">
+<div class="post" data-post-id="3681" data-author="*Splork*" data-date="2005-01-09T12:42:09+00:00" data-subject="Avatar Options">
 
 Added seven more options for avatars to buy. These will be in on reboot tonight...
 

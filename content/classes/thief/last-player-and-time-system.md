@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29104" data-author="Guinex" data-date="2009-05-07T06:54:09+00:00">
+<div class="post" data-post-id="29104" data-author="Guinex" data-date="2009-05-07T06:54:09+00:00" data-subject="Last Player and Time System">
 
 It seems that lasp player * is not matching up with time s, correct me if im worng but i don't think it is working properly.
 
 </div>
 
-<div class="post" data-post-id="29107" data-author="Gimlet" data-date="2009-05-07T19:17:33+00:00">
+<div class="post" data-post-id="29107" data-author="Gimlet" data-date="2009-05-07T19:17:33+00:00" data-subject="">
 
 i believe last player always indicated the last time the player file was saved by the player
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="7575" data-author="firebrand" data-date="2005-06-25T01:31:03+00:00">
+<div class="post" data-post-id="7575" data-author="firebrand" data-date="2005-06-25T01:31:03+00:00" data-subject="can you say spam?">
 
 l
 
@@ -190,13 +190,13 @@ and that's just the ones that were found lying around town - dropped wherever (g
 
 </div>
 
-<div class="post" data-post-id="7578" data-author="Akasha2" data-date="2005-06-25T02:30:34+00:00">
+<div class="post" data-post-id="7578" data-author="Akasha2" data-date="2005-06-25T02:30:34+00:00" data-subject="">
 
 heh, oh? a Scribe's Shop isn't an appropriate place to drop books?  Silly Scribe, he learned to read and write for no reason :P
 
 </div>
 
-<div class="post" data-post-id="7584" data-author="seshi" data-date="2005-06-25T10:30:18+00:00">
+<div class="post" data-post-id="7584" data-author="seshi" data-date="2005-06-25T10:30:18+00:00" data-subject="Re: can you say spam?">
 
 l
 
@@ -206,13 +206,13 @@ Which are?
 
 </div>
 
-<div class="post" data-post-id="7590" data-author="firebrand" data-date="2005-06-25T14:26:14+00:00">
+<div class="post" data-post-id="7590" data-author="firebrand" data-date="2005-06-25T14:26:14+00:00" data-subject="">
 
 *grin* i did not mean to imply that scribes shops are not proper place to drop books - i meant places like outside in the streets - just randomly dropping/littering books anywhere but in places like scribes, inns, guild book rooms and libraries.  too many ppl are looking for those books and to have them lying around in places where they a) do not load and b) in areas where that char cannot go for whatever reason is just frustrating.  actually, the whole point of that post was to point out there was a LOT of books in the scribes shop - i thought it quite kewl that there were so many books (that and seeing that the mud had been up for over 2 days when checked time started)
 
 </div>
 
-<div class="post" data-post-id="7594" data-author="seshi" data-date="2005-06-25T15:48:52+00:00">
+<div class="post" data-post-id="7594" data-author="seshi" data-date="2005-06-25T15:48:52+00:00" data-subject="">
 
 yeah - misunderstood. Wow there were a lot of books.
 
@@ -222,7 +222,7 @@ Salan
 
 </div>
 
-<div class="post" data-post-id="7682" data-author="seshi" data-date="2005-06-30T00:32:35+00:00">
+<div class="post" data-post-id="7682" data-author="seshi" data-date="2005-06-30T00:32:35+00:00" data-subject="">
 
 See your point now Firebrand.
 
@@ -234,7 +234,7 @@ Salan
 
 </div>
 
-<div class="post" data-post-id="7687" data-author="Taki" data-date="2005-06-30T03:55:15+00:00">
+<div class="post" data-post-id="7687" data-author="Taki" data-date="2005-06-30T03:55:15+00:00" data-subject="">
 
 ... the extreme remedy could be
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="5684" data-author="Riddle" data-date="2005-04-16T14:20:33+00:00">
+<div class="post" data-post-id="5684" data-author="Riddle" data-date="2005-04-16T14:20:33+00:00" data-subject="Getting started?">
 
 Generally, I've gotten a good impression of this mud. There's been a lot of help offered and a lot of questions answered, thanks for helping out.
 
@@ -24,7 +24,7 @@ I've decided to stick around though, since in general I think it's a nice commun
 
 </div>
 
-<div class="post" data-post-id="5686" data-author="*Splork*" data-date="2005-04-16T15:07:37+00:00">
+<div class="post" data-post-id="5686" data-author="*Splork*" data-date="2005-04-16T15:07:37+00:00" data-subject="">
 
 The part about the cleric actually cracks me up because I sit and watch it happen every day and wonder if they ever realise that the cleric is awfully helpful to players. Heck it gives them food and heals them yet people insist on walking past and killing it for the coins:-)
 
@@ -38,7 +38,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="5688" data-author="Popa" data-date="2005-04-16T16:16:26+00:00">
+<div class="post" data-post-id="5688" data-author="Popa" data-date="2005-04-16T16:16:26+00:00" data-subject="">
 
 I'm glad you like our mud. Honestly you'll have a great time. I am kind of amazed no one offered to get your corpse for you.. Somtimes the higher up chars will make a newbie char. the comment on starting another char. It could have been someone just thinking you were a higher up. I'm not defending the person that said it.. just pointing out a possible reason why someone would say that to a newbie.. Also there are alot of comedians on the mud. some of them are funny.. otheres are not. I'm sorry to hear that you werent helped, in the future please send me a tell the next time and i'll see if i can rounfd you up some help
 
@@ -46,7 +46,7 @@ Popa
 
 </div>
 
-<div class="post" data-post-id="5701" data-author="Yasik" data-date="2005-04-17T06:45:19+00:00">
+<div class="post" data-post-id="5701" data-author="Yasik" data-date="2005-04-17T06:45:19+00:00" data-subject="">
 
 The part about the cleric actually cracks me up because I sit and watch it happen every day and wonder if they ever realise that the cleric is awfully helpful to players. Heck it gives them food and heals them yet people insist on walking past and killing it for the coins:-)
 
@@ -62,13 +62,13 @@ Good idea is put back 50 coins on ferrets in Newbatia town, so newbs can kill th
 
 </div>
 
-<div class="post" data-post-id="5705" data-author="12345" data-date="2005-04-18T11:20:24+00:00">
+<div class="post" data-post-id="5705" data-author="12345" data-date="2005-04-18T11:20:24+00:00" data-subject="">
 
 I'm not the person who suggested it, but making a new character is actually a great idea.  A newbie can walk almost anywhere on Valk without much fear of being attacked and it's not hated if they are.  You can create a newbie to get your corpse, use the recall scrolls you're created with to get back to town, and find a safe place to drop your corpse. Log your main character back in, take the stuff from the corpse.  Next time you die, delete the retrieve character and recreate.
 
 </div>
 
-<div class="post" data-post-id="5708" data-author="Aleksey" data-date="2005-04-18T11:49:31+00:00">
+<div class="post" data-post-id="5708" data-author="Aleksey" data-date="2005-04-18T11:49:31+00:00" data-subject="">
 
 Whan in area type where if you see some players in area ask tham get your corpse. In town nowday tons of people. 
 
@@ -86,13 +86,13 @@ Whan in area type where if you see some players in area ask tham get your corpse
 
 </div>
 
-<div class="post" data-post-id="5709" data-author="Weasel" data-date="2005-04-18T11:49:34+00:00">
+<div class="post" data-post-id="5709" data-author="Weasel" data-date="2005-04-18T11:49:34+00:00" data-subject="">
 
 We're allowed to CR our own corpse with another char?
 
 </div>
 
-<div class="post" data-post-id="5710" data-author="12345" data-date="2005-04-18T11:55:20+00:00">
+<div class="post" data-post-id="5710" data-author="12345" data-date="2005-04-18T11:55:20+00:00" data-subject="">
 
 We're allowed to CR our own corpse with another char?[/quote:ebgip8v8]
 
@@ -106,37 +106,37 @@ You can check the link yourself if you like:
 
 </div>
 
-<div class="post" data-post-id="5723" data-author="Weasel" data-date="2005-04-18T19:43:28+00:00">
+<div class="post" data-post-id="5723" data-author="Weasel" data-date="2005-04-18T19:43:28+00:00" data-subject="">
 
 No worries I believe you :) For some reason I thought that was frowned upon. Good to know, thanks.
 
 </div>
 
-<div class="post" data-post-id="5724" data-author="Autolycos" data-date="2005-04-18T19:51:27+00:00">
+<div class="post" data-post-id="5724" data-author="Autolycos" data-date="2005-04-18T19:51:27+00:00" data-subject="">
 
 could be a major case of paranoia,  cause i was under the same belief that it was not a good idea. :shock:
 
 </div>
 
-<div class="post" data-post-id="5725" data-author="Leaf" data-date="2005-04-18T19:57:56+00:00">
+<div class="post" data-post-id="5725" data-author="Leaf" data-date="2005-04-18T19:57:56+00:00" data-subject="">
 
 I multi play all the time.  I mean I get my crap with other chars all the time.
 
 </div>
 
-<div class="post" data-post-id="5726" data-author="Alberich" data-date="2005-04-18T20:00:02+00:00">
+<div class="post" data-post-id="5726" data-author="Alberich" data-date="2005-04-18T20:00:02+00:00" data-subject="">
 
 same, and I always have.. a big part of the reason I have 2 chars, and keep them at similar levels, is for that very thing.  I'd hate to be whining on gossip looking for help killing solo mobs all the time :)
 
 </div>
 
-<div class="post" data-post-id="5727" data-author="Autolycos" data-date="2005-04-18T20:33:01+00:00">
+<div class="post" data-post-id="5727" data-author="Autolycos" data-date="2005-04-18T20:33:01+00:00" data-subject="">
 
 *laff AL.. you dont whine on gossip..  you whine on ICQ!!!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="5730" data-author="impz" data-date="2005-04-19T10:41:28+00:00">
+<div class="post" data-post-id="5730" data-author="impz" data-date="2005-04-19T10:41:28+00:00" data-subject="">
 
 BTW, if any help is needed for newbies, you should look to your friendly slothie (Autolycos) for help. He will supply everything you need!
 
@@ -144,7 +144,7 @@ Muahaha.
 
 </div>
 
-<div class="post" data-post-id="5732" data-author="Leaf" data-date="2005-04-19T11:50:53+00:00">
+<div class="post" data-post-id="5732" data-author="Leaf" data-date="2005-04-19T11:50:53+00:00" data-subject="">
 
 BTW, if any help is needed for newbies, you should look to your friendly slothie (Autolycos) for help. He will supply everything you need!
 
@@ -160,7 +160,7 @@ TOOL u will ever meet!
 
 </div>
 
-<div class="post" data-post-id="5733" data-author="Autolycos" data-date="2005-04-19T12:26:21+00:00">
+<div class="post" data-post-id="5733" data-author="Autolycos" data-date="2005-04-19T12:26:21+00:00" data-subject="">
 
 WOW!  :shock: 
 
@@ -180,7 +180,7 @@ dazzeling them with my obscene abuse of colors!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="5734" data-author="Leaf" data-date="2005-04-19T12:30:04+00:00">
+<div class="post" data-post-id="5734" data-author="Leaf" data-date="2005-04-19T12:30:04+00:00" data-subject="">
 
 Took me like 2 months to get Leaf 3x40 and about 3 months for Fable to 
 
@@ -190,7 +190,7 @@ It's getting to Avatar is the trick for me hehehe.
 
 </div>
 
-<div class="post" data-post-id="5735" data-author="Autolycos" data-date="2005-04-19T12:43:40+00:00">
+<div class="post" data-post-id="5735" data-author="Autolycos" data-date="2005-04-19T12:43:40+00:00" data-subject="">
 
 i would rather have 1 av char, then all your sucky lil chars Leaf
 
@@ -202,7 +202,7 @@ Impz still sucks!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="5739" data-author="impz" data-date="2005-04-19T15:37:41+00:00">
+<div class="post" data-post-id="5739" data-author="impz" data-date="2005-04-19T15:37:41+00:00" data-subject="">
 
 oops....darn...
 
@@ -212,7 +212,7 @@ I feel sad now...Meanie cutesy autolycos!!!
 
 </div>
 
-<div class="post" data-post-id="5742" data-author="Autolycos" data-date="2005-04-19T16:49:48+00:00">
+<div class="post" data-post-id="5742" data-author="Autolycos" data-date="2005-04-19T16:49:48+00:00" data-subject="">
 
 I always thought i am the top 10 in helping newbies...
 
@@ -224,13 +224,13 @@ teaching them the top 10 methods of botting perhaps?
 
 </div>
 
-<div class="post" data-post-id="7558" data-author="firebrand" data-date="2005-06-24T14:47:49+00:00">
+<div class="post" data-post-id="7558" data-author="firebrand" data-date="2005-06-24T14:47:49+00:00" data-subject="">
 
 i have frequently seen sloth vets use a second char to cr the corpsed char.  that's not considered multip because there is only one active connection.  multip is when you have 2 or more active chars on at the same time, and this includes leaving a char in the inn to void out because you have more than 110 items and can't rent while you bring on another char to actively play.  if you are ever in doubt as to what is and is not multip, just ask on newbie channel.  ignore leaf because he's a permanewb *wickedgrin*
 
 </div>
 
-<div class="post" data-post-id="7559" data-author="Leaf" data-date="2005-06-24T15:10:50+00:00">
+<div class="post" data-post-id="7559" data-author="Leaf" data-date="2005-06-24T15:10:50+00:00" data-subject="">
 
 ignore leaf because he's a permanewb *wickedgrin*[/quote:1hqwhl01]
 
@@ -238,7 +238,7 @@ Takes one to know one!!!
 
 </div>
 
-<div class="post" data-post-id="7560" data-author="Leaf" data-date="2005-06-24T15:11:07+00:00">
+<div class="post" data-post-id="7560" data-author="Leaf" data-date="2005-06-24T15:11:07+00:00" data-subject="">
 
 ignore leaf because he's a permanewb *wickedgrin*[/quote:5zqq6pzw]
 

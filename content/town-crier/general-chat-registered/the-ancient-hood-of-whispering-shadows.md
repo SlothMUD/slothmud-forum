@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="39903" data-author="Gorka" data-date="2022-04-18T16:03:53+00:00">
+<div class="post" data-post-id="39903" data-author="Gorka" data-date="2022-04-18T16:03:53+00:00" data-subject="the ancient hood of whispering shadows">
 
 Not sure I got the "fuel" to rush forging this new artifact as I have in the past, sloth is tired for me now, but here is what I know...
 
@@ -90,7 +90,7 @@ In the context of the head slot, what it means for me as a warrior, my play styl
 
 </div>
 
-<div class="post" data-post-id="39904" data-author="Gorka" data-date="2022-04-18T21:48:04+00:00">
+<div class="post" data-post-id="39904" data-author="Gorka" data-date="2022-04-18T21:48:04+00:00" data-subject="Re: the ancient hood of whispering shadows">
 
 Somehow I have mustered the desire to cycle for the cp's. Only 5 more to go.
 
@@ -102,7 +102,7 @@ It has no popper, which suggests it's an AQ Item. Searches of all my logs, and n
 
 </div>
 
-<div class="post" data-post-id="39905" data-author="Gorka" data-date="2022-04-19T10:17:33+00:00">
+<div class="post" data-post-id="39905" data-author="Gorka" data-date="2022-04-19T10:17:33+00:00" data-subject="Re: the ancient hood of whispering shadows">
 
 Ok.
 
@@ -264,7 +264,7 @@ Be careful with the small ruby cp, you want the one from Catacombs, not pirates.
 
 </div>
 
-<div class="post" data-post-id="39906" data-author="Gorka" data-date="2022-04-22T12:51:27+00:00">
+<div class="post" data-post-id="39906" data-author="Gorka" data-date="2022-04-22T12:51:27+00:00" data-subject="Re: the ancient hood of whispering shadows">
 
 I think for the majority of players (non-prime thieves), the proc part of this item will prove to have limited use.
 

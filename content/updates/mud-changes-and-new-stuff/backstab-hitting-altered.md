@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26539" data-author="*Krom*" data-date="2008-10-02T15:07:19+00:00">
+<div class="post" data-post-id="26539" data-author="*Krom*" data-date="2008-10-02T15:07:19+00:00" data-subject="Backstab hitting altered">
 
 Some of you may have noticed it, but backstab got reworked so that in factors in 2 things better:
 

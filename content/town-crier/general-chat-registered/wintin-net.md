@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8845" data-author="*Splork*" data-date="2005-09-27T00:10:45+00:00">
+<div class="post" data-post-id="8845" data-author="*Splork*" data-date="2005-09-27T00:10:45+00:00" data-subject="Wintin.Net">
 
 Frobisher (William Lees) has just released a new Beta version of Wintin.Net.
 

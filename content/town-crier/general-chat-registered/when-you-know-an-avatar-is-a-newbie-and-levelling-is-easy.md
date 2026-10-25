@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="13515" data-author="Gimlet" data-date="2006-07-20T13:42:53+00:00">
+<div class="post" data-post-id="13515" data-author="Gimlet" data-date="2006-07-20T13:42:53+00:00" data-subject="When you know an avatar is a newbie and levelling is easy">
 
 Nomic gossips-- 'where is limbo?'
 
@@ -18,7 +18,7 @@ Nomic gossips-- 'where is limbo?'
 
 </div>
 
-<div class="post" data-post-id="13516" data-author="Leaf" data-date="2006-07-20T16:28:45+00:00">
+<div class="post" data-post-id="13516" data-author="Leaf" data-date="2006-07-20T16:28:45+00:00" data-subject="">
 
 I have Limbo as my vault :)
 

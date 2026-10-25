@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="14044" data-author="jezer" data-date="2006-09-15T04:58:48+00:00">
+<div class="post" data-post-id="14044" data-author="jezer" data-date="2006-09-15T04:58:48+00:00" data-subject="Farewell?">
 
 Heya Peeps,
 
@@ -26,13 +26,13 @@ Jezer/Ecko/Jingjitdisk
 
 </div>
 
-<div class="post" data-post-id="14046" data-author="tincts" data-date="2006-09-15T13:48:31+00:00">
+<div class="post" data-post-id="14046" data-author="tincts" data-date="2006-09-15T13:48:31+00:00" data-subject="">
 
 Don't be away for too long, man.  Loved rolling with ya.
 
 </div>
 
-<div class="post" data-post-id="14047" data-author="13" data-date="2006-09-15T13:52:52+00:00">
+<div class="post" data-post-id="14047" data-author="13" data-date="2006-09-15T13:52:52+00:00" data-subject="Interest (accidental hijack)">
 
 You'll be back Jezer.  Can't beat the sloth monkey.
 
@@ -46,7 +46,7 @@ Like interest and possible loans?
 
 </div>
 
-<div class="post" data-post-id="14050" data-author="Krok" data-date="2006-09-15T14:51:46+00:00">
+<div class="post" data-post-id="14050" data-author="Krok" data-date="2006-09-15T14:51:46+00:00" data-subject="">
 
 Cya Jezer, good luck irl :))
 
@@ -54,7 +54,7 @@ btw, I like this banking idea!
 
 </div>
 
-<div class="post" data-post-id="14051" data-author="Autolycos" data-date="2006-09-15T16:00:43+00:00">
+<div class="post" data-post-id="14051" data-author="Autolycos" data-date="2006-09-15T16:00:43+00:00" data-subject="">
 
 oh wow... 
 
@@ -76,7 +76,7 @@ so..  then sign me up too!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14052" data-author="Krok" data-date="2006-09-15T16:33:33+00:00">
+<div class="post" data-post-id="14052" data-author="Krok" data-date="2006-09-15T16:33:33+00:00" data-subject="">
 
 Hahaha, good one :)
 

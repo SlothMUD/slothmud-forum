@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33632" data-author="Shryker" data-date="2012-10-05T15:49:38+00:00">
+<div class="post" data-post-id="33632" data-author="Shryker" data-date="2012-10-05T15:49:38+00:00" data-subject="Buying Black Opal Bracelets">
 
 Don't get a chance to be in game too often to leave this in my title, so figured I would throw this up in the crier, see if I would get a bite here.
 

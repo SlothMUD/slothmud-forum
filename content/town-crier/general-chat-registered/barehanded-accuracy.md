@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="31650" data-author="jezer" data-date="2010-08-31T22:52:36+00:00">
+<div class="post" data-post-id="31650" data-author="jezer" data-date="2010-08-31T22:52:36+00:00" data-subject="Barehanded Accuracy">
 
 barehanded accuracy           - Lvl:  5,           Learned  85%
 
@@ -20,7 +20,7 @@ Skyv got +4 hitroll from it as a monk prime. I got +3 as a secondary. It appears
 
 </div>
 
-<div class="post" data-post-id="31651" data-author="*Splork*" data-date="2010-09-01T01:53:27+00:00">
+<div class="post" data-post-id="31651" data-author="*Splork*" data-date="2010-09-01T01:53:27+00:00" data-subject="Re: Barehanded Accuracy">
 
 I'm at work but I know why this isnt going to 95%.
 
@@ -32,7 +32,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31652" data-author="Skyv" data-date="2010-09-01T02:09:49+00:00">
+<div class="post" data-post-id="31652" data-author="Skyv" data-date="2010-09-01T02:09:49+00:00" data-subject="Re: Barehanded Accuracy">
 
 I'd like to echo Jezer's comments, much thanks to all involved :)
 
@@ -40,7 +40,7 @@ Skyv
 
 </div>
 
-<div class="post" data-post-id="31653" data-author="*Splork*" data-date="2010-09-01T04:40:57+00:00">
+<div class="post" data-post-id="31653" data-author="*Splork*" data-date="2010-09-01T04:40:57+00:00" data-subject="Re: Barehanded Accuracy">
 
 Sorry guys, skill only goes to 85%. I was thinking improved attack was only going to 85:)
 

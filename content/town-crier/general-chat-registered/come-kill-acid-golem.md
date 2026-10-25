@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="25552" data-author="angel" data-date="2008-08-03T13:22:15+00:00">
+<div class="post" data-post-id="25552" data-author="angel" data-date="2008-08-03T13:22:15+00:00" data-subject="Come kill Acid Golem:)">
 
 refer above
 
 </div>
 
-<div class="post" data-post-id="25557" data-author="angel" data-date="2008-08-03T15:26:15+00:00">
+<div class="post" data-post-id="25557" data-author="angel" data-date="2008-08-03T15:26:15+00:00" data-subject="">
 
 here's a funny one
 

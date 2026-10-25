@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="4163" data-author="Deju" data-date="2005-02-07T14:27:08+00:00">
+<div class="post" data-post-id="4163" data-author="Deju" data-date="2005-02-07T14:27:08+00:00" data-subject="Looking for some stuff:">
 
 Hey all -
 

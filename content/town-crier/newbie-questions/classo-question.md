@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="8065" data-author="Korlan" data-date="2005-07-27T04:57:40+00:00">
+<div class="post" data-post-id="8065" data-author="Korlan" data-date="2005-07-27T04:57:40+00:00" data-subject="Classo question">
 
 Monk/Mage/Cleric/Warrior
 
@@ -26,13 +26,13 @@ Thanks! :)
 
 </div>
 
-<div class="post" data-post-id="8066" data-author="13" data-date="2005-07-27T10:27:05+00:00">
+<div class="post" data-post-id="8066" data-author="13" data-date="2005-07-27T10:27:05+00:00" data-subject="">
 
 13 is a mo/ma/ne/cl, not far from what you've chosen.  I can tell you how I run him.  I run -8 +15 with one or two str items to get me to 1880.  Korlan should be cool much much later.  Don't fool yourself into thinking he can't be a blaster though.  You could probably run +70 spelldam easily enough if you try, and maintain about 16 or 17 hd.  The best thing to do is find out how you like to play, and go with it.
 
 </div>
 
-<div class="post" data-post-id="8067" data-author="Vixn" data-date="2005-07-27T11:22:49+00:00">
+<div class="post" data-post-id="8067" data-author="Vixn" data-date="2005-07-27T11:22:49+00:00" data-subject="">
 
 Don't put Warrior as quad in your classo. They all will laugh at you. Necros, Bard or even Druid will be much better. From old classes only Mage or Cleric could be usefull in quad positon but as for me new classes are much preferable.
 
@@ -40,13 +40,13 @@ IMHO  8)
 
 </div>
 
-<div class="post" data-post-id="8068" data-author="13" data-date="2005-07-27T11:26:06+00:00">
+<div class="post" data-post-id="8068" data-author="13" data-date="2005-07-27T11:26:06+00:00" data-subject="">
 
 Warrior is good in combination with monk, this classo is ok, he'll have 5 attacks by avatar 36, and a properly equipped monk hits goddamn hard.
 
 </div>
 
-<div class="post" data-post-id="8069" data-author="12345" data-date="2005-07-27T12:56:04+00:00">
+<div class="post" data-post-id="8069" data-author="12345" data-date="2005-07-27T12:56:04+00:00" data-subject="">
 
 Hm... I think the only issue would be warrior in classo.  Everything else looks pretty solid.  Here's what I can tell you about having warrior 4th...
 

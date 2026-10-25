@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30213" data-author="*Splork*" data-date="2009-11-03T17:41:35+00:00">
+<div class="post" data-post-id="30213" data-author="*Splork*" data-date="2009-11-03T17:41:35+00:00" data-subject="Clan pages">
 
 We will be giving each clan their very own page on our website.
 

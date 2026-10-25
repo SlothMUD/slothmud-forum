@@ -10,13 +10,13 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="9609" data-author="kjartan" data-date="2005-11-23T07:26:43+00:00">
+<div class="post" data-post-id="9609" data-author="kjartan" data-date="2005-11-23T07:26:43+00:00" data-subject="shifted druids with undead followers">
 
 Incor, shifted druids will no longer be able to order followers except for treants.  Followers that act automatically (pit fiends, eudaemons, etc.) will still act as they did.
 
 </div>
 
-<div class="post" data-post-id="9610" data-author="Zam" data-date="2005-11-23T08:15:41+00:00">
+<div class="post" data-post-id="9610" data-author="Zam" data-date="2005-11-23T08:15:41+00:00" data-subject="">
 
 hrm what can i say ... well done , time to balance the game :)
 
@@ -24,7 +24,7 @@ get ready for all that whining kids , Kj
 
 </div>
 
-<div class="post" data-post-id="9611" data-author="*Splork*" data-date="2005-11-23T12:06:27+00:00">
+<div class="post" data-post-id="9611" data-author="*Splork*" data-date="2005-11-23T12:06:27+00:00" data-subject="">
 
 While we are on this...
 
@@ -40,7 +40,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="9612" data-author="Avatar" data-date="2005-11-23T12:12:55+00:00">
+<div class="post" data-post-id="9612" data-author="Avatar" data-date="2005-11-23T12:12:55+00:00" data-subject="Welp">
 
 Maybe druids will get better nature's followers soon. 
 
@@ -48,7 +48,7 @@ Maybe druids will get better nature's followers soon.
 
 </div>
 
-<div class="post" data-post-id="9618" data-author="Rynquald" data-date="2005-11-23T20:45:07+00:00">
+<div class="post" data-post-id="9618" data-author="Rynquald" data-date="2005-11-23T20:45:07+00:00" data-subject="">
 
 Nice updates, it makes sence that if you can't even control yourself enough while shifted to protect or rescue someone that you can't order your mini army to kill things.
 
@@ -56,13 +56,13 @@ Nice updates, it makes sence that if you can't even control yourself enough whil
 
 </div>
 
-<div class="post" data-post-id="9619" data-author="Medios" data-date="2005-11-23T22:00:06+00:00">
+<div class="post" data-post-id="9619" data-author="Medios" data-date="2005-11-23T22:00:06+00:00" data-subject="">
 
 I dont see many ppl shifting anymore unless they absolutely have to.
 
 </div>
 
-<div class="post" data-post-id="9620" data-author="Pine" data-date="2005-11-23T23:34:44+00:00">
+<div class="post" data-post-id="9620" data-author="Pine" data-date="2005-11-23T23:34:44+00:00" data-subject="">
 
 So the necro/druid incapatability actually  makes sense on many levels.  The whole nature vs. decay thing and such.  It would be nice if druids could use all supplicants, but its great that they can at least use eudaemons and such.  I agree with Medios though; shifting is becoming less and less useful.
 

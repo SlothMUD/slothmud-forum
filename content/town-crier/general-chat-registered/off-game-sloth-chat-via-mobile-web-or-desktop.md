@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36871" data-author="Teron" data-date="2016-04-21T10:10:41+00:00">
+<div class="post" data-post-id="36871" data-author="Teron" data-date="2016-04-21T10:10:41+00:00" data-subject="Off-game Sloth Chat via Mobile, Web or Desktop">
 
 Greetings, slothers.
 
@@ -38,13 +38,13 @@ Breeze, feel free to post a link to the channel on the homepage and a link to th
 
 </div>
 
-<div class="post" data-post-id="37049" data-author="Hung" data-date="2016-07-12T20:09:38+00:00">
+<div class="post" data-post-id="37049" data-author="Hung" data-date="2016-07-12T20:09:38+00:00" data-subject="Re: Off-game Sloth Chat via Mobile, Web or Desktop">
 
 We've grown to 17 members. Overally this chat is great place where one can ask for help on death, ask for info from more experienced players, invite others to join a group or simply discuss in-game stuff. Join us. Instructions on how to join are at the first post.
 
 </div>
 
-<div class="post" data-post-id="38503" data-author="Teron" data-date="2017-11-23T14:55:58+00:00">
+<div class="post" data-post-id="38503" data-author="Teron" data-date="2017-11-23T14:55:58+00:00" data-subject="Re: Off-game Sloth Chat via Mobile, Web or Desktop">
 
 up
 

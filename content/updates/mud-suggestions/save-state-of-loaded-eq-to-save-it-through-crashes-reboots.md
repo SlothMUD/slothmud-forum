@@ -10,7 +10,7 @@ locked: false
 post_count: 34
 ---
 
-<div class="post" data-post-id="38284" data-author="Teron" data-date="2017-06-14T15:05:34+00:00">
+<div class="post" data-post-id="38284" data-author="Teron" data-date="2017-06-14T15:05:34+00:00" data-subject="Save state of loaded EQ to save it through crashes/reboots">
 
 Greetings.
 
@@ -96,7 +96,7 @@ However, this isn't an imm rule, more a whim, and random extra global bonuses - 
 
 </div>
 
-<div class="post" data-post-id="38285" data-author="Tuck" data-date="2017-06-14T19:47:00+00:00">
+<div class="post" data-post-id="38285" data-author="Tuck" data-date="2017-06-14T19:47:00+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 easy solution:
 
@@ -106,7 +106,7 @@ thanks in advance
 
 </div>
 
-<div class="post" data-post-id="38286" data-author="Gorka" data-date="2017-06-14T22:31:25+00:00">
+<div class="post" data-post-id="38286" data-author="Gorka" data-date="2017-06-14T22:31:25+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 I sent this is Teker, Jan 4th...
 
@@ -153,7 +153,7 @@ There was some talk that doing this might decrease the performance of the mud, b
 
 </div>
 
-<div class="post" data-post-id="38287" data-author="Teron" data-date="2017-06-15T08:56:57+00:00">
+<div class="post" data-post-id="38287" data-author="Teron" data-date="2017-06-15T08:56:57+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 Yeah, I don't see how saving state on repops (the mob will be dead just before, alive and empty or alive with item) would strain the database, it's just another point of data that doesn't have to be continuously monitored.
 
@@ -167,7 +167,7 @@ Of course, personal items would have to be dropped on the ground outside the cor
 
 </div>
 
-<div class="post" data-post-id="38288" data-author="Gorka" data-date="2017-06-15T09:42:32+00:00">
+<div class="post" data-post-id="38288" data-author="Gorka" data-date="2017-06-15T09:42:32+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 There is another side to that idea Taron, you won't be able to rally a group together based on the premise that something loaded, and players generally help each other out in those situations. That's not really a bad thing, it's just different.
 
@@ -175,7 +175,7 @@ I certainly hate how the 1st kill is nearly always empty... that's kind of stupi
 
 </div>
 
-<div class="post" data-post-id="38289" data-author="*Splork*" data-date="2017-06-15T11:46:06+00:00">
+<div class="post" data-post-id="38289" data-author="*Splork*" data-date="2017-06-15T11:46:06+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 At one time, we were saving the states of all creatures which were either A) loaded or B) dead. If the game crashed or rebooted A) the item was either placed back on the creature(if it was over a certain value) or B) the creature had a chance to load that item.
 
@@ -183,7 +183,7 @@ I can't remember what caused that code to stop working or why it stopped working
 
 </div>
 
-<div class="post" data-post-id="38290" data-author="Teron" data-date="2017-06-15T13:55:25+00:00">
+<div class="post" data-post-id="38290" data-author="Teron" data-date="2017-06-15T13:55:25+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 Gorka, you see, mobs don't pop good eq on crashes/reboots, so what you are talking about is:
 
@@ -219,7 +219,7 @@ Then again, even if there are player-induced bugs, it'd be interesting to trust 
 
 </div>
 
-<div class="post" data-post-id="38291" data-author="*Splork*" data-date="2017-06-15T14:02:34+00:00">
+<div class="post" data-post-id="38291" data-author="*Splork*" data-date="2017-06-15T14:02:34+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 At one time, we had the game coded so that any mob on reboot could load equipment. That is when we had an issue with players purposely crashing the game.
 
@@ -229,7 +229,7 @@ Also, our logs are a million times better now. Anyone caught purposely crashing 
 
 </div>
 
-<div class="post" data-post-id="38293" data-author="Teron" data-date="2017-06-15T15:51:52+00:00">
+<div class="post" data-post-id="38293" data-author="Teron" data-date="2017-06-15T15:51:52+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 Ah good.
 
@@ -243,7 +243,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="38304" data-author="Teron" data-date="2017-06-25T10:36:05+00:00">
+<div class="post" data-post-id="38304" data-author="Teron" data-date="2017-06-25T10:36:05+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 Manual reboot, June 24th.
 
@@ -253,7 +253,7 @@ Yeah, I forgot it was loaded to warn Neptune of it, but then I doubt there was e
 
 </div>
 
-<div class="post" data-post-id="38307" data-author="*teker*" data-date="2017-06-27T21:01:23+00:00">
+<div class="post" data-post-id="38307" data-author="*teker*" data-date="2017-06-27T21:01:23+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 I've written the code to save the list of mobile carried/equipped items at shutdown.  It will go in with the next reboot.  I have not added code to use that list at boot.
 
@@ -261,7 +261,7 @@ Question: What criteria should I use to repop an item?  I'm not going to repop 1
 
 </div>
 
-<div class="post" data-post-id="38308" data-author="Gorka" data-date="2017-06-27T21:15:56+00:00">
+<div class="post" data-post-id="38308" data-author="Gorka" data-date="2017-06-27T21:15:56+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 > ***teker* wrote:**
 > Question: What criteria should I use to repop an item?  I'm not going to repop 100% of what is in the file.
@@ -270,7 +270,7 @@ I don't follow what you mean here, why not load what was already loaded if the g
 
 </div>
 
-<div class="post" data-post-id="38310" data-author="Teron" data-date="2017-06-28T13:16:21+00:00">
+<div class="post" data-post-id="38310" data-author="Teron" data-date="2017-06-28T13:16:21+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 I'd load:
 
@@ -288,7 +288,7 @@ Teker, what do you think of loading eq/items/books on death?
 
 </div>
 
-<div class="post" data-post-id="38312" data-author="*Breeze*" data-date="2017-06-28T18:12:23+00:00">
+<div class="post" data-post-id="38312" data-author="*Breeze*" data-date="2017-06-28T18:12:23+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 if he reloads everything, then eventually there would be a bunch of junk loaded on monsters that no one will kill and it will make sloth use up more and more memory.
 
@@ -296,7 +296,7 @@ if he reloads everything, then eventually there would be a bunch of junk loaded 
 
 </div>
 
-<div class="post" data-post-id="38313" data-author="Gorka" data-date="2017-06-28T19:49:18+00:00">
+<div class="post" data-post-id="38313" data-author="Gorka" data-date="2017-06-28T19:49:18+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 I see what your saying, but find it hard to believe that over time the mud would incrementally load with significantly more items because no one killed since the last reboot, to the point of putting a strain on memory. Is unpopped items on unrun areas really that much of a bigger problem? I mean half the mud hardly gets run, it's not for nothing I am 9x40 and my exploration is on 50%. If it's not being run, it's likely going to be empty anyway. The information in the file will be a good indication of what not to bother loading the first few times, until some filters could be implemented. Why not wait, and see how it pans out so the filters can be properly set. 
 
@@ -304,7 +304,7 @@ The other suggestion is, perhaps there is a way to log  a timestamp when the ite
 
 </div>
 
-<div class="post" data-post-id="38314" data-author="*Splork*" data-date="2017-06-28T20:56:39+00:00">
+<div class="post" data-post-id="38314" data-author="*Splork*" data-date="2017-06-28T20:56:39+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 The last code used value of item and other flags to exclude saved items.
 
@@ -312,7 +312,7 @@ Hundreds to thousands of items can be loaded at any given time. There is no sens
 
 </div>
 
-<div class="post" data-post-id="38315" data-author="Teron" data-date="2017-06-29T07:59:50+00:00">
+<div class="post" data-post-id="38315" data-author="Teron" data-date="2017-06-29T07:59:50+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 1. I'm not sure, if I was clear.
 
@@ -330,7 +330,7 @@ The only exception I see is personal quest items, because we need to know, wheth
 
 </div>
 
-<div class="post" data-post-id="38316" data-author="Gorka" data-date="2017-06-29T12:28:42+00:00">
+<div class="post" data-post-id="38316" data-author="Gorka" data-date="2017-06-29T12:28:42+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 It's difficult to determine an item's true value these days by defining conditions based on object attributes.
 
@@ -344,7 +344,7 @@ Regarding popping the items on death... solves a lot of problems I agree... but 
 
 </div>
 
-<div class="post" data-post-id="38317" data-author="*Splork*" data-date="2017-06-29T17:41:34+00:00">
+<div class="post" data-post-id="38317" data-author="*Splork*" data-date="2017-06-29T17:41:34+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 I'm not so sure I like the idea of changing how items are popped. 
 
@@ -352,7 +352,7 @@ I think the new code will solve the majority of issues and concerns which have b
 
 </div>
 
-<div class="post" data-post-id="38318" data-author="*teker*" data-date="2017-06-29T18:55:32+00:00">
+<div class="post" data-post-id="38318" data-author="*teker*" data-date="2017-06-29T18:55:32+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 I'm hoping that once we get the code in place I can analyze a sample file and try to build rules based on the data.  I'll know a lot more once I can look at a real sample.  I've had an issue pointed out that I hadn't known about, so I'm still working on making the save function function work properly in all cases.
 
@@ -360,7 +360,7 @@ We can currently pop items on death using procs - the prisoner in Castle Zodiac 
 
 </div>
 
-<div class="post" data-post-id="38319" data-author="Teron" data-date="2017-06-30T04:09:29+00:00">
+<div class="post" data-post-id="38319" data-author="Teron" data-date="2017-06-30T04:09:29+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 The amount of totally useless worn items is minimal, afaik, since they don't all load at once.
 
@@ -372,7 +372,7 @@ The lazy, slothy way would've been to actually load items on death, so we kill m
 
 </div>
 
-<div class="post" data-post-id="38336" data-author="Teron" data-date="2017-07-20T14:51:53+00:00">
+<div class="post" data-post-id="38336" data-author="Teron" data-date="2017-07-20T14:51:53+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 07/20
 
@@ -390,7 +390,7 @@ about 13 scimitars, 6 swords, 1 pair of ant mandibles, a few macus.
 
 </div>
 
-<div class="post" data-post-id="38454" data-author="Teron" data-date="2017-10-22T06:47:16+00:00">
+<div class="post" data-post-id="38454" data-author="Teron" data-date="2017-10-22T06:47:16+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 21th Oct, crash, 4-5 day uptime
 
@@ -408,7 +408,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="38458" data-author="Teron" data-date="2017-11-02T08:03:42+00:00">
+<div class="post" data-post-id="38458" data-author="Teron" data-date="2017-11-02T08:03:42+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 20 scimitars in my vault, at least 5-10 choppers in Dragonsworn vault.
 
@@ -416,7 +416,7 @@ cps from the Cloud Giant fortress on the ground.
 
 </div>
 
-<div class="post" data-post-id="38466" data-author="*teker*" data-date="2017-11-07T19:43:03+00:00">
+<div class="post" data-post-id="38466" data-author="*teker*" data-date="2017-11-07T19:43:03+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 I've enabled my solution for this in the next reboot.  However, my solution is to the original "problem" which was mobs popping items and then losing them during the reboot.  It is not a "persist items on the ground or in vaults" solution.
 
@@ -424,7 +424,7 @@ That means that the choppers on the ground are going to go away at reboot.  It a
 
 </div>
 
-<div class="post" data-post-id="38467" data-author="Gorka" data-date="2017-11-07T19:50:56+00:00">
+<div class="post" data-post-id="38467" data-author="Gorka" data-date="2017-11-07T19:50:56+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 Will mobs that are down (killed) at the time of a reboot still have no chance to load when the game reboots?
 
@@ -432,7 +432,7 @@ If the reboot is scheduled, will we be able to dump all the choppers on a mob an
 
 </div>
 
-<div class="post" data-post-id="38468" data-author="*teker*" data-date="2017-11-08T03:19:29+00:00">
+<div class="post" data-post-id="38468" data-author="*teker*" data-date="2017-11-08T03:19:29+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 1) Yes.  I think it'll remain this way until the higher ups are confident that people can't intentionally crash the game to get hard mobs to repop item.  Or unless we figure out a way to track how long the game was up before the last crash/reboot and do something based on that.
 
@@ -440,19 +440,19 @@ If the reboot is scheduled, will we be able to dump all the choppers on a mob an
 
 </div>
 
-<div class="post" data-post-id="38469" data-author="Gorka" data-date="2017-11-08T06:31:34+00:00">
+<div class="post" data-post-id="38469" data-author="Gorka" data-date="2017-11-08T06:31:34+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 On point 1, the player still has to kill the mob in the first place to give it a chance to pop on reboot/crash anyway. I don't see the advantage of crashing the game.
 
 </div>
 
-<div class="post" data-post-id="38488" data-author="Gorka" data-date="2017-11-18T15:52:33+00:00">
+<div class="post" data-post-id="38488" data-author="Gorka" data-date="2017-11-18T15:52:33+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 Today I killed an empty chop mob 30 times, only to have to kill another empty after a reboot because my mob was down at the time of reboot. Can something be done about this? I risk my neck to solo a chop mob and run DoT solo, and to have to kill empties after a reboot because mobs were down is extremely frustrating.
 
 </div>
 
-<div class="post" data-post-id="38499" data-author="*teker*" data-date="2017-11-20T21:53:30+00:00">
+<div class="post" data-post-id="38499" data-author="*teker*" data-date="2017-11-20T21:53:30+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 Ok, so now I've got code that will log each time the mud boots to the database so I can tell how long it's been since the last boot.  Basically a way to tell if the game has been up a while or if it crashed/rebooted recently.  So now I can do one of two things:
 
@@ -466,7 +466,7 @@ So what should it be?
 
 </div>
 
-<div class="post" data-post-id="38500" data-author="Gorka" data-date="2017-11-20T22:24:47+00:00">
+<div class="post" data-post-id="38500" data-author="Gorka" data-date="2017-11-20T22:24:47+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 Probably not the smartest idea to ask our opinion Teker, I suspect we will be equally divided. You will probably just need to choose one option yourself in the end. I think the original idea is that when the mud is reloaded, it reloads as much as possible how it was. Option 1 breaks with that idea and it encourages the mud to be crashed in the hope Cthulhu or Flame etc loads on boot and whats already loaded will be lost. Option 2 is the most true to the original idea with one flaw in the fact mobs that are dead at reboot will be empty.
 
@@ -480,7 +480,7 @@ I don't know how possible it is to keep a list of dead mobs in the same manner y
 
 </div>
 
-<div class="post" data-post-id="38501" data-author="*Splork*" data-date="2017-11-21T13:10:34+00:00">
+<div class="post" data-post-id="38501" data-author="*Splork*" data-date="2017-11-21T13:10:34+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 Option #1 was tried 20 + years ago and led to the game being intentionally crashed. Giving the option for tons of high level equipment to pop, even though the majority of mobs were not cycled or dead at the time of crash/reboot, doesn't make much sense to me!
 
@@ -488,7 +488,7 @@ I actually agree with Gorka,  hidden option #3 would be ideal!
 
 </div>
 
-<div class="post" data-post-id="38682" data-author="Teron" data-date="2018-02-24T04:39:30+00:00">
+<div class="post" data-post-id="38682" data-author="Teron" data-date="2018-02-24T04:39:30+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 As far as I know, a high-end pop of lion-hearted armplates was lost in a crash.
 
@@ -524,7 +524,7 @@ This also needs to be improved to be a satisfactory change, in my opinion to the
 
 </div>
 
-<div class="post" data-post-id="38756" data-author="Teron" data-date="2018-05-04T14:46:21+00:00">
+<div class="post" data-post-id="38756" data-author="Teron" data-date="2018-05-04T14:46:21+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
 Vault floor:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="9860" data-author="12345" data-date="2005-12-18T22:10:52+00:00">
+<div class="post" data-post-id="9860" data-author="12345" data-date="2005-12-18T22:10:52+00:00" data-subject="How to have a bad day...">
 
 I post this for humor only.  This actually turned out a lot better than it could have :)
 
@@ -38,31 +38,31 @@ After rearranging the gear on my alts and a couple key donations from Nab, my ch
 
 </div>
 
-<div class="post" data-post-id="9862" data-author="Shara" data-date="2005-12-18T23:53:18+00:00">
+<div class="post" data-post-id="9862" data-author="Shara" data-date="2005-12-18T23:53:18+00:00" data-subject="">
 
 :(
 
 </div>
 
-<div class="post" data-post-id="9863" data-author="jezer" data-date="2005-12-19T00:24:13+00:00">
+<div class="post" data-post-id="9863" data-author="jezer" data-date="2005-12-19T00:24:13+00:00" data-subject="">
 
 eek! that is bad. I don't think you should loose stuff due to a reboot. Losing eq to circumstances beyond your control doesn't sound fair to me. If the reboot didn't happen, more than likely you might have eventually got it back. Good on ya for taking it on the chin but!
 
 </div>
 
-<div class="post" data-post-id="9870" data-author="Zam" data-date="2005-12-19T05:46:23+00:00">
+<div class="post" data-post-id="9870" data-author="Zam" data-date="2005-12-19T05:46:23+00:00" data-subject="">
 
 well ... now you wont have a problem with renting 130 items!
 
 </div>
 
-<div class="post" data-post-id="9871" data-author="12345" data-date="2005-12-19T11:28:04+00:00">
+<div class="post" data-post-id="9871" data-author="12345" data-date="2005-12-19T11:28:04+00:00" data-subject="">
 
 Yeah, the renting thing saves me having to regen every time I log back on :)
 
 </div>
 
-<div class="post" data-post-id="9872" data-author="Medios" data-date="2005-12-19T11:58:20+00:00">
+<div class="post" data-post-id="9872" data-author="Medios" data-date="2005-12-19T11:58:20+00:00" data-subject="">
 
 What crucial items are you missing.  DoW here to help.
 
@@ -70,7 +70,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="9874" data-author="12345" data-date="2005-12-19T23:45:46+00:00">
+<div class="post" data-post-id="9874" data-author="12345" data-date="2005-12-19T23:45:46+00:00" data-subject="">
 
 Thanks to ~DoW~ and others!  I got re-equipped with a minimum of pain and everything else I'm missing is trivial.  I sincerely thank all of you :)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="14346" data-author="alias" data-date="2006-09-28T01:06:36+00:00">
+<div class="post" data-post-id="14346" data-author="alias" data-date="2006-09-28T01:06:36+00:00" data-subject="Stat point quest.">
 
 Wow nice a quest...
 
@@ -22,7 +22,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="14348" data-author="Avatar" data-date="2006-09-28T02:31:12+00:00">
+<div class="post" data-post-id="14348" data-author="Avatar" data-date="2006-09-28T02:31:12+00:00" data-subject="quest">
 
 Well, it's like a lottery except that your skill can play a part in whether you win or lose.  If you don't like the odds, don't join.  The other players might still have a good time participating.
 

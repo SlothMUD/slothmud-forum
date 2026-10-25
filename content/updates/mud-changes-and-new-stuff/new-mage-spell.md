@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="12083" data-author="*Splork*" data-date="2006-04-13T01:22:11+00:00">
+<div class="post" data-post-id="12083" data-author="*Splork*" data-date="2006-04-13T01:22:11+00:00" data-subject="New mage spell">
 
 New mage spell called Sandstorm..
 

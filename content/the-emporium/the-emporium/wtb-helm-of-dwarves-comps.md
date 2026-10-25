@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="9290" data-author="Grue" data-date="2005-10-28T16:55:34+00:00">
+<div class="post" data-post-id="9290" data-author="Grue" data-date="2005-10-28T16:55:34+00:00" data-subject="WTB : Helm of Dwarves comps">
 
 I have a Helm of the Great Old One I'll probably never use, I'd like to try do this forge. Anyone have any of the comps they'd part with? I have coins, mybe some EQ if you are looking for something. And I think I can pop the Marble Helmet myself (barely :))
 
@@ -24,7 +24,7 @@ Pete
 
 </div>
 
-<div class="post" data-post-id="9292" data-author="13" data-date="2005-10-28T16:57:56+00:00">
+<div class="post" data-post-id="9292" data-author="13" data-date="2005-10-28T16:57:56+00:00" data-subject="">
 
 I'll be workin' on elocke and krimeah soon, we can kill elf in prison easily enough if you catch me on isle.
 

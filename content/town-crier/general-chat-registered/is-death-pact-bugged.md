@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="20852" data-author="alias" data-date="2007-10-14T14:25:52+00:00">
+<div class="post" data-post-id="20852" data-author="alias" data-date="2007-10-14T14:25:52+00:00" data-subject="Is Death Pact bugged?">
 
 This normal for anyone else? its happened to me twice already and I'm about to not use the spell anymore.
 
@@ -34,7 +34,7 @@ Pooka
 
 </div>
 
-<div class="post" data-post-id="20858" data-author="Mace" data-date="2007-10-14T21:25:14+00:00">
+<div class="post" data-post-id="20858" data-author="Mace" data-date="2007-10-14T21:25:14+00:00" data-subject="">
 
 Yeah, that happens on the last tick of death pact.
 
@@ -44,7 +44,7 @@ The GET_DEATHTICK if/then should be skipped if the player is no longer dead.
 
 </div>
 
-<div class="post" data-post-id="20934" data-author="kjartan" data-date="2007-10-18T23:17:05+00:00">
+<div class="post" data-post-id="20934" data-author="kjartan" data-date="2007-10-18T23:17:05+00:00" data-subject="">
 
 Fixed, in next crash or reboot.
 
@@ -52,7 +52,7 @@ Thanks, Mace.
 
 </div>
 
-<div class="post" data-post-id="20949" data-author="alias" data-date="2007-10-20T14:09:35+00:00">
+<div class="post" data-post-id="20949" data-author="alias" data-date="2007-10-20T14:09:35+00:00" data-subject="">
 
 Thank you very much, both of you.
 

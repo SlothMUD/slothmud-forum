@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="11867" data-author="Nightwolf" data-date="2006-03-29T13:44:46+00:00">
+<div class="post" data-post-id="11867" data-author="Nightwolf" data-date="2006-03-29T13:44:46+00:00" data-subject="Frenzy - Script .NET">
 
 Just started learning Wintin.NET, and tried writing some own scripts.... So i made this frenzy script, with most of the syntax from Jezer's stone skin script, but it somehow does not block me from frenziying again when i am already in frenzy.... 
 
@@ -40,7 +40,7 @@ Thanks, NW
 
 </div>
 
-<div class="post" data-post-id="11875" data-author="*juggleblood*" data-date="2006-03-29T23:28:20+00:00">
+<div class="post" data-post-id="11875" data-author="*juggleblood*" data-date="2006-03-29T23:28:20+00:00" data-subject="">
 
 a few possibilities:
 
@@ -60,7 +60,7 @@ think you can do that.
 
 </div>
 
-<div class="post" data-post-id="11885" data-author="Nightwolf" data-date="2006-03-30T09:48:42+00:00">
+<div class="post" data-post-id="11885" data-author="Nightwolf" data-date="2006-03-30T09:48:42+00:00" data-subject="">
 
 Thanks for the advice, Juggleblood. I disabled presub, which didnt help, I change the script directly in the ws file anyways, and i wasn't frenzied...
 

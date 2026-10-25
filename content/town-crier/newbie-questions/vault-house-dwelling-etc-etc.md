@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="33418" data-author="Yasik" data-date="2012-08-05T13:23:45+00:00">
+<div class="post" data-post-id="33418" data-author="Yasik" data-date="2012-08-05T13:23:45+00:00" data-subject="Vault, house, dwelling etc etc">
 
 Hi guys!
 
@@ -22,7 +22,7 @@ Thanks in advance.
 
 </div>
 
-<div class="post" data-post-id="33419" data-author="*juggleblood*" data-date="2012-08-05T14:06:27+00:00">
+<div class="post" data-post-id="33419" data-author="*juggleblood*" data-date="2012-08-05T14:06:27+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 Building Cost: 10M gold
 
@@ -314,7 +314,7 @@ You may also purchase extra room bonuses at any time.
 
 </div>
 
-<div class="post" data-post-id="33420" data-author="Yasik" data-date="2012-08-05T14:13:47+00:00">
+<div class="post" data-post-id="33420" data-author="Yasik" data-date="2012-08-05T14:13:47+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 Should I contact an imm when I'm ready to purchase?
 
@@ -324,7 +324,7 @@ Can I choose where the connection point will be? (in S3 my vault was somewhere i
 
 </div>
 
-<div class="post" data-post-id="33421" data-author="*Breeze*" data-date="2012-08-06T07:06:55+00:00">
+<div class="post" data-post-id="33421" data-author="*Breeze*" data-date="2012-08-06T07:06:55+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 Vault connection points are only within designated areas now.
 
@@ -344,7 +344,7 @@ Island Vaults - gotta look that one up again
 
 </div>
 
-<div class="post" data-post-id="33422" data-author="Yasik" data-date="2012-08-06T12:24:38+00:00">
+<div class="post" data-post-id="33422" data-author="Yasik" data-date="2012-08-06T12:24:38+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 Ok, I have 10M coins and willing to buy a vault.
 
@@ -352,13 +352,13 @@ What's my first move?
 
 </div>
 
-<div class="post" data-post-id="33423" data-author="*Breeze*" data-date="2012-08-06T13:06:10+00:00">
+<div class="post" data-post-id="33423" data-author="*Breeze*" data-date="2012-08-06T13:06:10+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 find the vault seller on the continent where you want to buy a vault.
 
 </div>
 
-<div class="post" data-post-id="33425" data-author="Yasik" data-date="2012-08-06T20:42:49+00:00">
+<div class="post" data-post-id="33425" data-author="Yasik" data-date="2012-08-06T20:42:49+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 > ***Breeze* wrote:**
 > find the vault seller on the continent where you want to buy a vault.
@@ -367,7 +367,7 @@ Is this seller a new addition, or olde well-known vendors?
 
 </div>
 
-<div class="post" data-post-id="33426" data-author="*Breeze*" data-date="2012-08-06T20:51:16+00:00">
+<div class="post" data-post-id="33426" data-author="*Breeze*" data-date="2012-08-06T20:51:16+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 new.
 
@@ -381,13 +381,13 @@ or something like that from recall.
 
 </div>
 
-<div class="post" data-post-id="33427" data-author="Yasik" data-date="2012-08-06T21:32:59+00:00">
+<div class="post" data-post-id="33427" data-author="Yasik" data-date="2012-08-06T21:32:59+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 So, to be able to buy a vault, I must pay 10M coins AND 30 drachmas. Not good, thanks, I'll run with my junk for awhile.
 
 </div>
 
-<div class="post" data-post-id="33428" data-author="*Breeze*" data-date="2012-08-06T22:23:33+00:00">
+<div class="post" data-post-id="33428" data-author="*Breeze*" data-date="2012-08-06T22:23:33+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 no. to buy a vault find a vault seller on the continent you want your vault on. 
 
@@ -399,19 +399,19 @@ so you can buy a vault in bh if you wanted to, but whatever.
 
 </div>
 
-<div class="post" data-post-id="33439" data-author="Tuck" data-date="2012-08-12T02:23:11+00:00">
+<div class="post" data-post-id="33439" data-author="Tuck" data-date="2012-08-12T02:23:11+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 nice imm trolling, good job yasik! :P
 
 </div>
 
-<div class="post" data-post-id="33443" data-author="Yasik" data-date="2012-08-12T09:40:42+00:00">
+<div class="post" data-post-id="33443" data-author="Yasik" data-date="2012-08-12T09:40:42+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 Noone is trolling, I just was trying to get info I didn't found in help files, and figure out how one can has vault nowadays.
 
 </div>
 
-<div class="post" data-post-id="33594" data-author="Yasik" data-date="2012-09-10T18:16:10+00:00">
+<div class="post" data-post-id="33594" data-author="Yasik" data-date="2012-09-10T18:16:10+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 Well, things are going pretty well so far, thanks all for help and advice, now I'm proud owner of private property and can finally begin to hoard equipment.
 
@@ -419,19 +419,19 @@ Btw, where can I get an admin email address just in case I need to report someth
 
 </div>
 
-<div class="post" data-post-id="33595" data-author="*juggleblood*" data-date="2012-09-10T20:08:29+00:00">
+<div class="post" data-post-id="33595" data-author="*juggleblood*" data-date="2012-09-10T20:08:29+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 playernamer@slothmud.org
 
 </div>
 
-<div class="post" data-post-id="33601" data-author="Yasik" data-date="2012-09-12T03:10:32+00:00">
+<div class="post" data-post-id="33601" data-author="Yasik" data-date="2012-09-12T03:10:32+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 How often are those being checked?
 
 </div>
 
-<div class="post" data-post-id="33602" data-author="*Breeze*" data-date="2012-09-12T04:15:28+00:00">
+<div class="post" data-post-id="33602" data-author="*Breeze*" data-date="2012-09-12T04:15:28+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
 often enough. 
 

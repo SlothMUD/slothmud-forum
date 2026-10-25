@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33164" data-author="*Splork*" data-date="2012-02-19T16:49:51+00:00">
+<div class="post" data-post-id="33164" data-author="*Splork*" data-date="2012-02-19T16:49:51+00:00" data-subject="New spell: Blessing of the Avatar">
 
 New spell has been added for an upcoming area, please refer to help blessing of the avatar.
 

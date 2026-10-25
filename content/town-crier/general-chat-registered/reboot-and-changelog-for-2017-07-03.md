@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="38320" data-author="*teker*" data-date="2017-07-02T21:03:15+00:00">
+<div class="post" data-post-id="38320" data-author="*teker*" data-date="2017-07-02T21:03:15+00:00" data-subject="Reboot and changelog for 2017-07-03">
 
 I've got it schedule to reboot in the morning which will add the following:
 
@@ -22,7 +22,7 @@ I've got it schedule to reboot in the morning which will add the following:
 
 </div>
 
-<div class="post" data-post-id="38321" data-author="*teker*" data-date="2017-07-05T18:41:22+00:00">
+<div class="post" data-post-id="38321" data-author="*teker*" data-date="2017-07-05T18:41:22+00:00" data-subject="Re: Reboot and changelog for 2017-07-03">
 
 Today's reboot cleaned up some of the issues that we saw on Monday.  "Time" is much cleaner now, for example.
 
@@ -30,13 +30,13 @@ I got my first saved item list to look at - after 48hrs of runtime there are 390
 
 </div>
 
-<div class="post" data-post-id="38322" data-author="*teker*" data-date="2017-07-05T22:49:36+00:00">
+<div class="post" data-post-id="38322" data-author="*teker*" data-date="2017-07-05T22:49:36+00:00" data-subject="Re: Reboot and changelog for 2017-07-03">
 
 I forgot to mention that I also worked on the counters command and tried to clean up the solo/group transitions.  Summon undead and supplication should leave you in solo mode now.  Please let me know if it's working better or if there are still issues.
 
 </div>
 
-<div class="post" data-post-id="38323" data-author="Gorka" data-date="2017-07-07T08:33:32+00:00">
+<div class="post" data-post-id="38323" data-author="Gorka" data-date="2017-07-07T08:33:32+00:00" data-subject="Re: Reboot and changelog for 2017-07-03">
 
 Songster -- 'This portal is from The Lightning Rod to Master Bedroom!'
 
@@ -210,7 +210,7 @@ You grouptell: 'interesting'
 
 </div>
 
-<div class="post" data-post-id="38324" data-author="Teron" data-date="2017-07-07T08:34:26+00:00">
+<div class="post" data-post-id="38324" data-author="Teron" data-date="2017-07-07T08:34:26+00:00" data-subject="Re: Reboot and changelog for 2017-07-03">
 
 7th July is still an Island day.
 

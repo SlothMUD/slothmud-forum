@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="3851" data-author="*Splork*" data-date="2005-01-20T20:43:44+00:00">
+<div class="post" data-post-id="3851" data-author="*Splork*" data-date="2005-01-20T20:43:44+00:00" data-subject="Tank Reporter Wintin.NET">
 
 Please change strings if you use this...
 
@@ -62,7 +62,7 @@ To enable the script, simply type metank charactername... If I remember right:-)
 
 </div>
 
-<div class="post" data-post-id="9899" data-author="jezer" data-date="2005-12-21T03:57:46+00:00">
+<div class="post" data-post-id="9899" data-author="jezer" data-date="2005-12-21T03:57:46+00:00" data-subject="">
 
 I was going to make my own whiner, but on more careful study of Splork's I realised just how good his actually was! However Splork's whiner incapsulated a whole bunch of things I didn't like or use, with the tank and rescue concept, so here is a mod of Splork's script that acts just as a plain old whiner. 
 

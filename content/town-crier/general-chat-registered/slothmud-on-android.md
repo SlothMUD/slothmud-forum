@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38973" data-author="Driven" data-date="2018-09-11T17:34:49+00:00">
+<div class="post" data-post-id="38973" data-author="Driven" data-date="2018-09-11T17:34:49+00:00" data-subject="Slothmud on Android">
 
 As most of you know I mud most of the time from my phone, so I have spent a fair amount of time figuring out the best way to do exactly that.  I used Blowtorch for a long time, but this got quickly replaced by tintin++ once Termux supported the tintin++ package.  Here are the basic steps you'll need to get up-and-running with tintin++ on your phone:
 
@@ -120,7 +120,7 @@ As most of you know I mud most of the time from my phone, so I have spent a fair
 
 </div>
 
-<div class="post" data-post-id="39200" data-author="Driven" data-date="2019-05-22T01:19:22+00:00">
+<div class="post" data-post-id="39200" data-author="Driven" data-date="2019-05-22T01:19:22+00:00" data-subject="Re: Slothmud on Android">
 
 After playing in Termux for a year+, I finally figured out that the PageUp keys on the Function menu of Hackers Keyboard enables you to scroll back without being interrupted by MUD output.  Oh, happy day!
 

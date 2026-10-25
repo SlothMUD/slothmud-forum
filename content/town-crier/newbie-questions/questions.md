@@ -10,7 +10,7 @@ locked: false
 post_count: 27
 ---
 
-<div class="post" data-post-id="21684" data-author="belisarius" data-date="2007-12-16T23:30:51+00:00">
+<div class="post" data-post-id="21684" data-author="belisarius" data-date="2007-12-16T23:30:51+00:00" data-subject="questions">
 
 a few questions
 
@@ -46,7 +46,7 @@ thanks for your time and any answers sorry if any of these are answered in the h
 
 </div>
 
-<div class="post" data-post-id="21685" data-author="Ah_Puch" data-date="2007-12-16T23:58:40+00:00">
+<div class="post" data-post-id="21685" data-author="Ah_Puch" data-date="2007-12-16T23:58:40+00:00" data-subject="">
 
 A few answers, hope I don't confuse ya too much..
 
@@ -72,7 +72,7 @@ A few answers, hope I don't confuse ya too much..
 
 </div>
 
-<div class="post" data-post-id="21687" data-author="Karna" data-date="2007-12-17T01:05:52+00:00">
+<div class="post" data-post-id="21687" data-author="Karna" data-date="2007-12-17T01:05:52+00:00" data-subject="">
 
 Welcome to Slothmud Belisarius.
 
@@ -100,7 +100,7 @@ Here's my random answers:
 
 </div>
 
-<div class="post" data-post-id="21689" data-author="Rynquald" data-date="2007-12-17T01:29:24+00:00">
+<div class="post" data-post-id="21689" data-author="Rynquald" data-date="2007-12-17T01:29:24+00:00" data-subject="">
 
 Oath of Victory gives you some hp when used at the start of a fight, but also prevents you from fleeing/disengaging/recalling, along with effectively making you the tank, best bet is to never use it unless tanking (or solo when you know you're not going to want to flee)
 
@@ -108,7 +108,7 @@ I think Oath of Protection makes your prot slightly better when used in a group,
 
 </div>
 
-<div class="post" data-post-id="21696" data-author="Bazilus" data-date="2007-12-17T12:04:38+00:00">
+<div class="post" data-post-id="21696" data-author="Bazilus" data-date="2007-12-17T12:04:38+00:00" data-subject="oath">
 
 help oath
 
@@ -198,7 +198,7 @@ Narmer the Paladin
 
 </div>
 
-<div class="post" data-post-id="21699" data-author="mahkra" data-date="2007-12-17T22:36:44+00:00">
+<div class="post" data-post-id="21699" data-author="mahkra" data-date="2007-12-17T22:36:44+00:00" data-subject="">
 
 that help file made me tear my hair out.
 
@@ -218,7 +218,7 @@ You can only use victory if the mob you are fighitng isn't damaged much.
 
 </div>
 
-<div class="post" data-post-id="21722" data-author="belisarius" data-date="2007-12-19T06:42:02+00:00">
+<div class="post" data-post-id="21722" data-author="belisarius" data-date="2007-12-19T06:42:02+00:00" data-subject="">
 
 1. ahh quest mode is actually quest channel ok another question on this then why isnt it just called quest channel that makes no sense to me i guess i got confused because on the wesite they are called channels heres what it says on the features link on the website:
 
@@ -284,7 +284,7 @@ thanks for all who posted and helped
 
 </div>
 
-<div class="post" data-post-id="21727" data-author="Karna" data-date="2007-12-19T14:42:43+00:00">
+<div class="post" data-post-id="21727" data-author="Karna" data-date="2007-12-19T14:42:43+00:00" data-subject="">
 
 For the area in the mystical fens you describe with the handle:
 
@@ -298,7 +298,7 @@ Good Luck and if you pop an extra astrology book, please let Xamak know!
 
 </div>
 
-<div class="post" data-post-id="21728" data-author="Widow" data-date="2007-12-19T14:50:01+00:00">
+<div class="post" data-post-id="21728" data-author="Widow" data-date="2007-12-19T14:50:01+00:00" data-subject="">
 
 I had a tough time with that trigger at the top of the waterfall as well. Running a necro made the difference because I could order my follower/s to pull lever (I think that's the command) but I could never do it myself. I don't know what a tank would do w/out a follower to do it. I saw you have cleric in your class order as well as mage, maybe a supplicant or a familiar could do what my undead pets did for me.
 
@@ -306,13 +306,13 @@ I don't know if it is intentionally set up for followers to do what players cann
 
 </div>
 
-<div class="post" data-post-id="21730" data-author="Karna" data-date="2007-12-19T14:53:19+00:00">
+<div class="post" data-post-id="21730" data-author="Karna" data-date="2007-12-19T14:53:19+00:00" data-subject="">
 
 You don't need followers.  Just pick or knock the door east ( that you can't see ) and open it.
 
 </div>
 
-<div class="post" data-post-id="21734" data-author="Lis" data-date="2007-12-19T17:32:01+00:00">
+<div class="post" data-post-id="21734" data-author="Lis" data-date="2007-12-19T17:32:01+00:00" data-subject="">
 
 Hmmm learn mud better, use your brains :P
 
@@ -340,7 +340,7 @@ Gluck
 
 </div>
 
-<div class="post" data-post-id="21736" data-author="belisarius" data-date="2007-12-19T22:40:31+00:00">
+<div class="post" data-post-id="21736" data-author="belisarius" data-date="2007-12-19T22:40:31+00:00" data-subject="">
 
 thanks for the help on this
 
@@ -360,13 +360,13 @@ and i would like to see it at higher levels but the class system is so far the o
 
 </div>
 
-<div class="post" data-post-id="21737" data-author="Rynquald" data-date="2007-12-20T00:12:07+00:00">
+<div class="post" data-post-id="21737" data-author="Rynquald" data-date="2007-12-20T00:12:07+00:00" data-subject="">
 
 Just for clarification, any line can be set up as a tt, so it's generally worth trying anything you can think of when trying to figure them out. Some of them aren't immediately obvious (as you already discovered) :)
 
 </div>
 
-<div class="post" data-post-id="21738" data-author="Leaf" data-date="2007-12-20T01:14:51+00:00">
+<div class="post" data-post-id="21738" data-author="Leaf" data-date="2007-12-20T01:14:51+00:00" data-subject="">
 
 Don't worry about Lis, he was also telling the ppl that was giving u hints.
 
@@ -376,7 +376,7 @@ BTW Don't ask Autolycos for help, he is a mean, bitter old man.
 
 </div>
 
-<div class="post" data-post-id="21744" data-author="Akasha" data-date="2007-12-20T05:03:44+00:00">
+<div class="post" data-post-id="21744" data-author="Akasha" data-date="2007-12-20T05:03:44+00:00" data-subject="">
 
 You're not a target Belisarius.
 
@@ -404,7 +404,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="21746" data-author="Mosaix" data-date="2007-12-20T06:10:21+00:00">
+<div class="post" data-post-id="21746" data-author="Mosaix" data-date="2007-12-20T06:10:21+00:00" data-subject="">
 
 Belisarius,
 
@@ -432,7 +432,7 @@ Mosaix/Osaka
 
 </div>
 
-<div class="post" data-post-id="21751" data-author="jezer" data-date="2007-12-20T07:00:14+00:00">
+<div class="post" data-post-id="21751" data-author="jezer" data-date="2007-12-20T07:00:14+00:00" data-subject="">
 
 Chin up Belisarius!
 
@@ -458,7 +458,7 @@ The truth is, the annoying players are actually a fairly small... but just loud 
 
 </div>
 
-<div class="post" data-post-id="21752" data-author="Lis" data-date="2007-12-20T07:53:02+00:00">
+<div class="post" data-post-id="21752" data-author="Lis" data-date="2007-12-20T07:53:02+00:00" data-subject="">
 
 haha evil rude Lis scared poor n00by 
 
@@ -472,7 +472,7 @@ Mosa - try to to talk with me first and understand what i ment and what i need t
 
 </div>
 
-<div class="post" data-post-id="21753" data-author="Yinao" data-date="2007-12-20T08:06:34+00:00">
+<div class="post" data-post-id="21753" data-author="Yinao" data-date="2007-12-20T08:06:34+00:00" data-subject="">
 
 [quote:32lj5r8v]* Befriend ~dragonsworn~ clan members.[/quote:32lj5r8v]
 
@@ -492,7 +492,7 @@ Enjoy your time on sloth, mine is becomming more and more limited but its still 
 
 </div>
 
-<div class="post" data-post-id="21755" data-author="Leaf" data-date="2007-12-20T14:03:45+00:00">
+<div class="post" data-post-id="21755" data-author="Leaf" data-date="2007-12-20T14:03:45+00:00" data-subject="">
 
 OH and listen to Leaf he is a bloody genius, not a newb by any stretch of the imagination  :wink: 
 
@@ -502,7 +502,7 @@ I detect a bit of sarcasm!  :evil:
 
 </div>
 
-<div class="post" data-post-id="21756" data-author="Autolycos" data-date="2007-12-20T19:42:02+00:00">
+<div class="post" data-post-id="21756" data-author="Autolycos" data-date="2007-12-20T19:42:02+00:00" data-subject="">
 
 Not quite true, Don't ask Auto for help... VERY TRUE, he is mean, VERY TRUE, bitter VERY TRUE AGAIN, old, well not so much but the rest is true enough. 
 
@@ -514,13 +514,13 @@ And again don't take anything ingame personal, Like Autolycos for instance he is
 
 </div>
 
-<div class="post" data-post-id="21799" data-author="brady" data-date="2007-12-27T07:33:32+00:00">
+<div class="post" data-post-id="21799" data-author="brady" data-date="2007-12-27T07:33:32+00:00" data-subject="">
 
 Yinao know Engrish good.
 
 </div>
 
-<div class="post" data-post-id="21800" data-author="alias" data-date="2007-12-27T15:59:43+00:00">
+<div class="post" data-post-id="21800" data-author="alias" data-date="2007-12-27T15:59:43+00:00" data-subject="">
 
 Oh Crap Auto, Were old; well now that thats out of the way, feel free to ask me anything in game. I've been here a couple of years, but I don't know anything either so we can learn together.
 
@@ -528,7 +528,7 @@ Alias/Pooka
 
 </div>
 
-<div class="post" data-post-id="21810" data-author="Mace" data-date="2007-12-28T10:17:14+00:00">
+<div class="post" data-post-id="21810" data-author="Mace" data-date="2007-12-28T10:17:14+00:00" data-subject="">
 
 >> look crack
 
@@ -548,7 +548,7 @@ Note that after you turn handle the exit doesn't show up in the room for some bu
 
 </div>
 
-<div class="post" data-post-id="21811" data-author="Mace" data-date="2007-12-28T10:19:05+00:00">
+<div class="post" data-post-id="21811" data-author="Mace" data-date="2007-12-28T10:19:05+00:00" data-subject="">
 
 Hm, I thought I canceled that unneeded post.  Oh well.
 
@@ -556,7 +556,7 @@ Nothing that can't be fixed with two useless messages instead of just one.
 
 </div>
 
-<div class="post" data-post-id="21813" data-author="Leaf" data-date="2007-12-28T15:27:30+00:00">
+<div class="post" data-post-id="21813" data-author="Leaf" data-date="2007-12-28T15:27:30+00:00" data-subject="">
 
 It at least brought ur post count up 2 more :)
 
@@ -564,7 +564,7 @@ Also do u live near Kenny/Dot?
 
 </div>
 
-<div class="post" data-post-id="21814" data-author="Leaf" data-date="2007-12-28T22:13:48+00:00">
+<div class="post" data-post-id="21814" data-author="Leaf" data-date="2007-12-28T22:13:48+00:00" data-subject="">
 
 when the shit hits the fan, that same a$$hole 
 

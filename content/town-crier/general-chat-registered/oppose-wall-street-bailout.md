@@ -10,7 +10,7 @@ locked: false
 post_count: 42
 ---
 
-<div class="post" data-post-id="26506" data-author="*juggleblood*" data-date="2008-09-30T21:33:08+00:00">
+<div class="post" data-post-id="26506" data-author="*juggleblood*" data-date="2008-09-30T21:33:08+00:00" data-subject="Oppose Wall Street Bailout">
 
 political update
 
@@ -26,7 +26,7 @@ oppose oppose oppose the bailout
 
 </div>
 
-<div class="post" data-post-id="26510" data-author="Tap" data-date="2008-10-01T01:35:59+00:00">
+<div class="post" data-post-id="26510" data-author="Tap" data-date="2008-10-01T01:35:59+00:00" data-subject="">
 
 You are scratching the surface. Another "foolish" point. Any profit derived from said bailout (as if) will NOT, I repeat NOT, be returned to the taxpayers but rather provided to special interest groups who will create further problems. I heard a good analogy on the radio today. If you pay a contractor to build you a house and he left out nails and studs and the house falls, you are not going to hire him to build you another one.
 
@@ -34,7 +34,7 @@ heh heh..I said Analogy
 
 </div>
 
-<div class="post" data-post-id="26512" data-author="jezer" data-date="2008-10-01T02:25:07+00:00">
+<div class="post" data-post-id="26512" data-author="jezer" data-date="2008-10-01T02:25:07+00:00" data-subject="">
 
 Iâ€™ve had too many crap leaders in my life. Having a disposition to problem solving and being analytical Iâ€™m quick to point out others mistakes, and tell people how to correct situations. Often, exactly the thing Iâ€™ve warned them about happens, and some leaders Iâ€™ve laughed at for being stupid and not listening, and others Iâ€™ve felt sorry for and tried to help out when it all becomes a mess. 
 
@@ -46,13 +46,13 @@ Be careful what you wish for... That ugly stick your pulling on, just might be t
 
 </div>
 
-<div class="post" data-post-id="26515" data-author="Tap" data-date="2008-10-01T09:49:17+00:00">
+<div class="post" data-post-id="26515" data-author="Tap" data-date="2008-10-01T09:49:17+00:00" data-subject="">
 
 [img:1tul23m9]http://images.cafepress.com/product/14387583v1_350x350_Front.jpg[/img:1tul23m9]
 
 </div>
 
-<div class="post" data-post-id="26551" data-author="Weasel" data-date="2008-10-04T14:49:24+00:00">
+<div class="post" data-post-id="26551" data-author="Weasel" data-date="2008-10-04T14:49:24+00:00" data-subject="">
 
 $700billion bailout voted into law, 263-171. 
 
@@ -66,25 +66,25 @@ hmm.
 
 </div>
 
-<div class="post" data-post-id="26554" data-author="jezer" data-date="2008-10-04T15:52:08+00:00">
+<div class="post" data-post-id="26554" data-author="jezer" data-date="2008-10-04T15:52:08+00:00" data-subject="">
 
 My prediction... even though it will help in the short term... it's all going to go pear shaped... and now that the government is involved in it all... it will slide with it... eventually.
 
 </div>
 
-<div class="post" data-post-id="26555" data-author="Weasel" data-date="2008-10-04T20:20:22+00:00">
+<div class="post" data-post-id="26555" data-author="Weasel" data-date="2008-10-04T20:20:22+00:00" data-subject="">
 
 The government will slide? No great loss there, especially if the alternative is Obama's socialist republic of amerika.
 
 </div>
 
-<div class="post" data-post-id="26556" data-author="Tap" data-date="2008-10-04T21:01:10+00:00">
+<div class="post" data-post-id="26556" data-author="Tap" data-date="2008-10-04T21:01:10+00:00" data-subject="">
 
 700 bil was automatically dismissed just as soon as it was announced. For those who listen to talk radio, the more "real" figure was upwards around 2 trillion dollars with an accurate prediction that as soon as the bill was passed, that within days, a new "magical number" would be announced needed  for the bailout. I'm getting into the mindset that I shall just sit back and watch the apocalypse on TV,
 
 </div>
 
-<div class="post" data-post-id="26557" data-author="Weasel" data-date="2008-10-04T21:40:01+00:00">
+<div class="post" data-post-id="26557" data-author="Weasel" data-date="2008-10-04T21:40:01+00:00" data-subject="">
 
 And now the floodgates open...
 
@@ -96,7 +96,7 @@ Obama's Amerika. We're so screwed.
 
 </div>
 
-<div class="post" data-post-id="26558" data-author="jezer" data-date="2008-10-05T01:52:06+00:00">
+<div class="post" data-post-id="26558" data-author="jezer" data-date="2008-10-05T01:52:06+00:00" data-subject="">
 
 The government will slide? No great loss there, especially if the alternative is Obama's socialist republic of amerika.[/quote:3nytun01]
 
@@ -106,7 +106,7 @@ My point was simply this... when a government gets involved in bailing out the e
 
 </div>
 
-<div class="post" data-post-id="26559" data-author="Weasel" data-date="2008-10-05T07:23:24+00:00">
+<div class="post" data-post-id="26559" data-author="Weasel" data-date="2008-10-05T07:23:24+00:00" data-subject="">
 
 Yeah I understand :)
 
@@ -114,7 +114,7 @@ Funny thing, Pelosi came marching out afterwards and made this big claim that, "
 
 </div>
 
-<div class="post" data-post-id="26561" data-author="Tap" data-date="2008-10-05T14:47:12+00:00">
+<div class="post" data-post-id="26561" data-author="Tap" data-date="2008-10-05T14:47:12+00:00" data-subject="Oppose Pirates">
 
 Pelosi. Her name alone makes me grimace.
 
@@ -124,7 +124,7 @@ I blame Auto
 
 </div>
 
-<div class="post" data-post-id="26562" data-author="Leaf" data-date="2008-10-05T15:24:46+00:00">
+<div class="post" data-post-id="26562" data-author="Leaf" data-date="2008-10-05T15:24:46+00:00" data-subject="">
 
 [url:3viil9nh]http://www.youtube.com/watch?v=7DIc8jdra0o#[/url:3viil9nh]
 
@@ -132,7 +132,7 @@ Sad but true!
 
 </div>
 
-<div class="post" data-post-id="26563" data-author="Tap" data-date="2008-10-05T18:11:36+00:00">
+<div class="post" data-post-id="26563" data-author="Tap" data-date="2008-10-05T18:11:36+00:00" data-subject="">
 
 [url:1ogam43l]http://www.youtube.com/watch?v=AHcxzBwjYHg[/url:1ogam43l]
 
@@ -140,7 +140,7 @@ Not true and yet, not unlikely
 
 </div>
 
-<div class="post" data-post-id="26564" data-author="Weasel" data-date="2008-10-05T18:14:19+00:00">
+<div class="post" data-post-id="26564" data-author="Weasel" data-date="2008-10-05T18:14:19+00:00" data-subject="">
 
 Yes, go move to Canada, enjoy their universal health care (just pray you don't get sick). It's amazing how scared Palin has made the left.. heck, she's going for #2, I'd be far more concerned about Obama being #1 if I were you..
 
@@ -156,7 +156,7 @@ be afraid, be VERY afraid.
 
 </div>
 
-<div class="post" data-post-id="26565" data-author="Weasel" data-date="2008-10-05T18:18:38+00:00">
+<div class="post" data-post-id="26565" data-author="Weasel" data-date="2008-10-05T18:18:38+00:00" data-subject="">
 
 [url:1rj3c1pn]http://www.youtube.com/watch?v=AHcxzBwjYHg[/url:1rj3c1pn]
 
@@ -166,7 +166,7 @@ damn, that is awesome. expect it.
 
 </div>
 
-<div class="post" data-post-id="26566" data-author="Autolycos" data-date="2008-10-05T19:32:14+00:00">
+<div class="post" data-post-id="26566" data-author="Autolycos" data-date="2008-10-05T19:32:14+00:00" data-subject="Re: Oppose Pirates">
 
 trying to watch FOX News and I keep seeing news about pirates becoming more aggressive.
 
@@ -176,7 +176,7 @@ I blame Auto[/quote:2h46dk13]
 
 </div>
 
-<div class="post" data-post-id="26571" data-author="Leaf" data-date="2008-10-06T19:05:12+00:00">
+<div class="post" data-post-id="26571" data-author="Leaf" data-date="2008-10-06T19:05:12+00:00" data-subject="">
 
 It's amazing how scared Palin has made the left.. heck, she's going for #2, I'd be far more concerned about Obama being #1 if I were you..
 
@@ -196,7 +196,7 @@ ppl have made up their mind, and only 15% actually ever change it.
 
 </div>
 
-<div class="post" data-post-id="26572" data-author="Poggle" data-date="2008-10-06T21:15:56+00:00">
+<div class="post" data-post-id="26572" data-author="Poggle" data-date="2008-10-06T21:15:56+00:00" data-subject="The internet is your friend and it knows everything.">
 
 15% is an optimistic estimate.
 
@@ -214,7 +214,7 @@ So yea, if your goal is to prevent as much hardship as possible, these states sh
 
 </div>
 
-<div class="post" data-post-id="26573" data-author="Weasel" data-date="2008-10-06T21:50:31+00:00">
+<div class="post" data-post-id="26573" data-author="Weasel" data-date="2008-10-06T21:50:31+00:00" data-subject="">
 
 They're going bankrupt because they can't control their spending.. and if those states in particular produce so much relative to others, then their spending must [i:16zbhuwz]really[/i:16zbhuwz] be out of control..  Gee, aren't all three of those states democrat states? What a coincidence! Spend spend spend, much like the $105billion in earmarks added to this bailout, and much like Obama wants to do - spend money we don't have, at the expense of responsible taxpayers. Lovely.
 
@@ -222,7 +222,7 @@ California in particular need to suck it in.
 
 </div>
 
-<div class="post" data-post-id="26577" data-author="Mosaix" data-date="2008-10-07T03:54:39+00:00">
+<div class="post" data-post-id="26577" data-author="Mosaix" data-date="2008-10-07T03:54:39+00:00" data-subject="">
 
 So yeah I hate the bailout, I really hate it.  Something needed to happen, but I disagree with this bailout.  Though the AMT tax reduction will be nice come tax time in April 2009.  
 
@@ -260,13 +260,13 @@ Its a real and serious financial mess out there.  Good luck.
 
 </div>
 
-<div class="post" data-post-id="26578" data-author="jezer" data-date="2008-10-07T04:23:31+00:00">
+<div class="post" data-post-id="26578" data-author="jezer" data-date="2008-10-07T04:23:31+00:00" data-subject="">
 
 [img:1yhg79dp]http://www.crabwalk.com/pix/rodent.jpg[/img:1yhg79dp]
 
 </div>
 
-<div class="post" data-post-id="26580" data-author="Weasel" data-date="2008-10-07T11:21:15+00:00">
+<div class="post" data-post-id="26580" data-author="Weasel" data-date="2008-10-07T11:21:15+00:00" data-subject="">
 
 Exactly Jezer :)
 
@@ -278,7 +278,7 @@ Credit swaps (and mark-to-market, which is also a big factor imho) is a differen
 
 </div>
 
-<div class="post" data-post-id="26584" data-author="Poggle" data-date="2008-10-07T19:37:19+00:00">
+<div class="post" data-post-id="26584" data-author="Poggle" data-date="2008-10-07T19:37:19+00:00" data-subject="">
 
 After doing some reading, I see that california is asking for a loan, not a handout, to mitigate short-term damage caused by investors calling in municipal debts to cover their losses from the credit CF.
 
@@ -290,7 +290,7 @@ So in fact, this request is not a result of excessive spending.
 
 </div>
 
-<div class="post" data-post-id="26585" data-author="Weasel" data-date="2008-10-07T20:15:52+00:00">
+<div class="post" data-post-id="26585" data-author="Weasel" data-date="2008-10-07T20:15:52+00:00" data-subject="">
 
 Well in that case, there is no bailout, because they're doing the same as AIG has done, and what many other corporates will be doing. Sorry, but you can't accuse Bush and Republicans of giving bailouts to Wall Street with taxpayer money, then say California is just getting a loan when one of the senators involved specifically said "we wanted to be treated exactly like the investment banks are". This is just the sort of cr@p I see in the MSM all the time - one spin is used to discredit Bush (and McCain by proxy), and another to make it look good for the democrats when the actual situation is no different. You really think California will pay it back? Many corporates have a far better chance than the State of California does. The corporates are victims of mark-to-market in many cases, and when those physical assets are realized they may be in pretty good shape, if allowed to survive in the meantime. California however is a victim of overspending and non-recoverable promises, such as insane pension packages for city/state employees - that alone has caused at least one city in Califonia to go bankrupt already.
 
@@ -298,7 +298,7 @@ Sorry for the rant, but these double standards REALLY piss me off.
 
 </div>
 
-<div class="post" data-post-id="26586" data-author="Poggle" data-date="2008-10-07T20:29:16+00:00">
+<div class="post" data-post-id="26586" data-author="Poggle" data-date="2008-10-07T20:29:16+00:00" data-subject="">
 
 The difference is that the California thing really is a loan, they are selling California's future tax revenues.
 
@@ -312,7 +312,7 @@ I don't know why you think I'm making this a double standard, I have not made an
 
 </div>
 
-<div class="post" data-post-id="26587" data-author="Weasel" data-date="2008-10-07T21:13:56+00:00">
+<div class="post" data-post-id="26587" data-author="Weasel" data-date="2008-10-07T21:13:56+00:00" data-subject="">
 
 Ok. AIG is being called a bailout by pretty much everyone, yet it is a $85billion loan, with a very high 11% interest rate on it. Somehow I doubt California expect to pay interest like that, but that's beside the point. There are also short term loans available to businesses (new program announced today), yet that is also being termed as a bailout throughout the MSM. Call a spade a spade - either they're loans or they're bailouts, as long as you're consistent. 
 
@@ -326,13 +326,13 @@ Sorry if this is a little disjointed.. coming down with some nasty bug at the mo
 
 </div>
 
-<div class="post" data-post-id="26588" data-author="Medios" data-date="2008-10-07T21:42:02+00:00">
+<div class="post" data-post-id="26588" data-author="Medios" data-date="2008-10-07T21:42:02+00:00" data-subject="">
 
 It is really funny to me that Republicans say that its both parties fault, and Democrats say that it is GW Bush's fault.  So here is my question.  Did GW Bush force banks to make sub prime loans?  Did GW Bush force lenders to make 120% loans on properties?  If the answer is no then why would all the blame fall on him.  There is a reason this country has checks and balances.  We are not a dictatorship(yet).  If the Democrats want to sit on their hands and play the blame game all day that is fine were used to it.  Meanwhile I hope you don't have any money in the stock market, that evil GW Bush is out to take it all.
 
 </div>
 
-<div class="post" data-post-id="26589" data-author="Medios" data-date="2008-10-07T21:44:39+00:00">
+<div class="post" data-post-id="26589" data-author="Medios" data-date="2008-10-07T21:44:39+00:00" data-subject="">
 
 Ok. AIG is being called a bailout by pretty much everyone, yet it is a $85billion loan, w[b:34ex69yu]ith a very high 11% interest rate on it. Somehow I doubt California expect to pay interest like that[/b:34ex69yu], but that's beside the point. There are also short term loans available to businesses (new program announced today), yet that is also being termed as a bailout throughout the MSM. Call a spade a spade - either they're loans or they're bailouts, as long as you're consistent. 
 
@@ -348,7 +348,7 @@ If I had to pay 8.5% on an education loan from the Fed than I fully expect Calif
 
 </div>
 
-<div class="post" data-post-id="26593" data-author="reboog" data-date="2008-10-07T23:38:50+00:00">
+<div class="post" data-post-id="26593" data-author="reboog" data-date="2008-10-07T23:38:50+00:00" data-subject="">
 
 According to the LA Times, "It's customary for California to borrow billions of dollars at the start of the fiscal year to fill its coffers until the usual flood of sales tax receipts comes in after Christmas and income tax receipts arrive in the spring."
 
@@ -364,7 +364,7 @@ Assuming that CA did not play this financial game and are just operating within 
 
 </div>
 
-<div class="post" data-post-id="26594" data-author="jezer" data-date="2008-10-07T23:47:13+00:00">
+<div class="post" data-post-id="26594" data-author="jezer" data-date="2008-10-07T23:47:13+00:00" data-subject="">
 
 [quote:1ggm3svp]It is really funny to me that Republicans say that its both parties fault, and Democrats say that it is GW Bush's fault.[/quote:1ggm3svp]
 
@@ -374,13 +374,13 @@ You can say, oh, well that guy wears a blue hat... or that guy wears a red hats 
 
 </div>
 
-<div class="post" data-post-id="26595" data-author="reboog" data-date="2008-10-08T00:02:05+00:00">
+<div class="post" data-post-id="26595" data-author="reboog" data-date="2008-10-08T00:02:05+00:00" data-subject="">
 
 But people have always been greedy.
 
 </div>
 
-<div class="post" data-post-id="26596" data-author="jezer" data-date="2008-10-08T00:10:00+00:00">
+<div class="post" data-post-id="26596" data-author="jezer" data-date="2008-10-08T00:10:00+00:00" data-subject="">
 
 Well... I think trying to make money from poorer people, with money you don't REALLY have... has taken things to new heights... Not to mention the amount of people that "got on board" this train...
 
@@ -388,7 +388,7 @@ You know what they say about momentum... mass x acceleration... but don't quote 
 
 </div>
 
-<div class="post" data-post-id="26597" data-author="reboog" data-date="2008-10-08T00:12:24+00:00">
+<div class="post" data-post-id="26597" data-author="reboog" data-date="2008-10-08T00:12:24+00:00" data-subject="">
 
 The problem is that the government constructed this train in the first place.  They built the means to buy houses with no down payment, and people hopped on.
 
@@ -400,7 +400,7 @@ momentum = mass x velocity
 
 </div>
 
-<div class="post" data-post-id="26599" data-author="jezer" data-date="2008-10-08T00:33:08+00:00">
+<div class="post" data-post-id="26599" data-author="jezer" data-date="2008-10-08T00:33:08+00:00" data-subject="">
 
 No! Don't make this about government, then people ask which! Exactly what I am trying to swing against! Times change, People don't! We are a greedy people, and we walked the plank for a better view, and now there is no more plank!
 
@@ -410,7 +410,7 @@ Reminds me of a bunch of movies I've seen about wars. How some people groups are
 
 </div>
 
-<div class="post" data-post-id="26600" data-author="reboog" data-date="2008-10-08T00:35:33+00:00">
+<div class="post" data-post-id="26600" data-author="reboog" data-date="2008-10-08T00:35:33+00:00" data-subject="">
 
 If you are suggesting that the fix is to change all of humanity, then, uh, yeah.
 
@@ -418,7 +418,7 @@ I blame the government.  I blame the Demoblicans.  Or is the Republicrats?
 
 </div>
 
-<div class="post" data-post-id="26601" data-author="Weasel" data-date="2008-10-08T00:36:41+00:00">
+<div class="post" data-post-id="26601" data-author="Weasel" data-date="2008-10-08T00:36:41+00:00" data-subject="">
 
 Maybe we should take some responsibility instead of blaming whatever/whomever we don't like. (Except if it's weasel, then it's ok)[/quote:1ri3sskc]
 
@@ -426,7 +426,7 @@ Maybe we should take some responsibility instead of blaming whatever/whomever we
 
 </div>
 
-<div class="post" data-post-id="26603" data-author="jezer" data-date="2008-10-08T00:51:27+00:00">
+<div class="post" data-post-id="26603" data-author="jezer" data-date="2008-10-08T00:51:27+00:00" data-subject="">
 
 If you are suggesting that the fix is to change all of humanity, then, uh, yeah.
 
@@ -436,7 +436,7 @@ I'm simply suggesting we stop attacking each other, because of politics. Small m
 
 </div>
 
-<div class="post" data-post-id="26604" data-author="Weasel" data-date="2008-10-08T03:57:17+00:00">
+<div class="post" data-post-id="26604" data-author="Weasel" data-date="2008-10-08T03:57:17+00:00" data-subject="">
 
 Anyone watch the McCain-Obama debate? What a snooze-fest.. boring as hell. McCain spoke as if he was telling fairy tales to a bunch of little kids and missed opportunity after opportunity to attack (I thought he said the gloves were off?), and Obama mostly managed to avoid answering questions, said the word 'fundamentally' about a kazillion times, and repeatedly broke the debate rules he had just agreed not to break. 
 
@@ -448,7 +448,7 @@ Gratz Tom for picking the most stupid question of all time. You win the debate.
 
 </div>
 
-<div class="post" data-post-id="26619" data-author="Yasik2" data-date="2008-10-08T11:17:08+00:00">
+<div class="post" data-post-id="26619" data-author="Yasik2" data-date="2008-10-08T11:17:08+00:00" data-subject="">
 
 By the way, Force = mass x acceleration
 
@@ -458,7 +458,7 @@ I sense teh massive greatness in this psto
 
 </div>
 
-<div class="post" data-post-id="26623" data-author="Tap" data-date="2008-10-08T23:33:09+00:00">
+<div class="post" data-post-id="26623" data-author="Tap" data-date="2008-10-08T23:33:09+00:00" data-subject="">
 
 Pelosi says $150B economic stimulus plan needed
 
@@ -484,7 +484,7 @@ Pelosi said a stimulus package would create jobs by investing in public works, i
 
 </div>
 
-<div class="post" data-post-id="26726" data-author="Dragoth" data-date="2008-10-16T11:33:14+00:00">
+<div class="post" data-post-id="26726" data-author="Dragoth" data-date="2008-10-16T11:33:14+00:00" data-subject="">
 
 [<LINK_TEXT text="http://video.google.com/videosearch?q=z ... ovie&emb=0">http://video.google.com/videosearch?q=zeitgeist+addendum&emb=0&aq=0&oq=zeitgeist+adde#q=zeitgeist%20addendum%20full%20movie&emb=0</LINK_TEXT>](http://video.google.com/videosearch?q=zeitgeist+addendum&emb=0&aq=0&oq=zeitgeist+adde#q=zeitgeist%20addendum%20full%20movie&emb=0)
 

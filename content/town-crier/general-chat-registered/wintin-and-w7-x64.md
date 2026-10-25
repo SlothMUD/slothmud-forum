@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30932" data-author="Roadrunr" data-date="2010-03-03T17:14:55+00:00">
+<div class="post" data-post-id="30932" data-author="Roadrunr" data-date="2010-03-03T17:14:55+00:00" data-subject="wintin and W7 x64?">
 
 So, just picked up a cheap laptop so I might be on more, problem is zmud doesnt get along with windows 7 very well (so it seems) so I guess it may finally be time to learn wintin.
 
@@ -20,7 +20,7 @@ Hopefully wintin plays nice with W7...
 
 </div>
 
-<div class="post" data-post-id="30934" data-author="*Splork*" data-date="2010-03-03T19:48:47+00:00">
+<div class="post" data-post-id="30934" data-author="*Splork*" data-date="2010-03-03T19:48:47+00:00" data-subject="browse down a few">
 
 Browse down a few posts, you will see one regarding windows 7 and wintin.net.
 

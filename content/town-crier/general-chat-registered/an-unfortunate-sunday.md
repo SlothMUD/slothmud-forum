@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="37962" data-author="Garrick" data-date="2017-01-15T21:38:51+00:00">
+<div class="post" data-post-id="37962" data-author="Garrick" data-date="2017-01-15T21:38:51+00:00" data-subject="An unfortunate Sunday">
 
 So today I woke up to hearing my friend on voice chat trying to get my attention, a chop group was happening on Sloth and he sounded excited and wanted me to come. He went on to tell me about how he planned on playing the rest of the day, which I was quite happy to hear as it's hard for me to get any of my  friends to play Sloth at all.
 
@@ -312,7 +312,7 @@ The group goes on, and he rents. That's the end. IF you guys want players to kee
 
 </div>
 
-<div class="post" data-post-id="37963" data-author="Filk" data-date="2017-01-16T04:13:28+00:00">
+<div class="post" data-post-id="37963" data-author="Filk" data-date="2017-01-16T04:13:28+00:00" data-subject="Re: An unfortunate Sunday">
 
 To be honest, i dont see any aggression here. Just unattentive Paka and silient Forky.
 
@@ -324,7 +324,7 @@ ps: And no one cares about players not entering archways. Thats players who dont
 
 </div>
 
-<div class="post" data-post-id="37964" data-author="Gorka" data-date="2017-01-16T04:38:29+00:00">
+<div class="post" data-post-id="37964" data-author="Gorka" data-date="2017-01-16T04:38:29+00:00" data-subject="Re: An unfortunate Sunday">
 
 Sorry you feel hard done by Garrick, but having led groups earlier in the week with both you and forky along with some of the other players in that group, I guess we felt that already you guys have some form for not being very attentive. I log my sloth mud too... and sure enough upon searching my logs I see whenever I asked group to recall or something, sure enough there the group was left waiting for you. We get there is a link between "knifey" and "forky" and to some degree we paint both players with the same brush and get them confused.
 
@@ -344,7 +344,7 @@ Although I understand where you are coming from, I also don't think you understa
 
 </div>
 
-<div class="post" data-post-id="37965" data-author="Teron" data-date="2017-01-16T08:10:28+00:00">
+<div class="post" data-post-id="37965" data-author="Teron" data-date="2017-01-16T08:10:28+00:00" data-subject="Re: An unfortunate Sunday">
 
 Hey, Garrick.
 
@@ -400,7 +400,7 @@ So if we want to fix the issue of hospitality, maybe we need to:
 
 </div>
 
-<div class="post" data-post-id="37968" data-author="*juggleblood*" data-date="2017-01-16T14:07:28+00:00">
+<div class="post" data-post-id="37968" data-author="*juggleblood*" data-date="2017-01-16T14:07:28+00:00" data-subject="Re: An unfortunate Sunday">
 
 "Sochi -- 'forky wont wield chopper and doesnt follow, kick him out pls'"
 
@@ -410,7 +410,7 @@ I love you man, but don't play victim. It doesn't fit.
 
 </div>
 
-<div class="post" data-post-id="37971" data-author="Garrick" data-date="2017-01-16T22:40:32+00:00">
+<div class="post" data-post-id="37971" data-author="Garrick" data-date="2017-01-16T22:40:32+00:00" data-subject="Re: An unfortunate Sunday">
 
 So ok, let me address several things, since you all attacked me instead of realize the issues at hand. First I'll respond to said attacks:
 
@@ -430,7 +430,7 @@ Me and Forky are good friends, I have known him for over a decade and I finally 
 
 </div>
 
-<div class="post" data-post-id="37972" data-author="*juggleblood*" data-date="2017-01-17T00:24:20+00:00">
+<div class="post" data-post-id="37972" data-author="*juggleblood*" data-date="2017-01-17T00:24:20+00:00" data-subject="Re: An unfortunate Sunday">
 
 I watch TV too and I'm very understanding, just like everybody else. But we all have our limits and if someone annoys us we're going to speak out. I think your friend is rather thin skinned for having left the group for such gentle treatment. No one spoke angrily at him or you. "Kill the one without a chopper next time." To me is just a silly remark like any other, merely commenting on the facts that someone got chopped, and someone is still without a chopper.
 
@@ -438,7 +438,7 @@ No one is trying to chase you or your friend out. No one is attacking you. I'm n
 
 </div>
 
-<div class="post" data-post-id="37974" data-author="Gorka" data-date="2017-01-17T10:02:54+00:00">
+<div class="post" data-post-id="37974" data-author="Gorka" data-date="2017-01-17T10:02:54+00:00" data-subject="Re: An unfortunate Sunday">
 
 Furthermore Garrick, I understand your situation with gloves, phones, jobs, tv's and bad connections. But then you must understand, that having you in my group is not an option. The survival of the group may frequently depend on your ability to be attentive. If I am leading, I will not endanger the people who are paying attention and trying not to die and loose there hard fought xp because you frequently find yourself in a difficult personal situation.
 
@@ -453,13 +453,13 @@ No Knifey, I'm sick of your attitude, and so were others. I've tried to get you 
 
 </div>
 
-<div class="post" data-post-id="37992" data-author="Tuck" data-date="2017-01-23T13:37:55+00:00">
+<div class="post" data-post-id="37992" data-author="Tuck" data-date="2017-01-23T13:37:55+00:00" data-subject="Re: An unfortunate Sunday">
 
 <irony> wtf he was blasting  8)
 
 </div>
 
-<div class="post" data-post-id="38031" data-author="Gorka" data-date="2017-02-05T02:47:47+00:00">
+<div class="post" data-post-id="38031" data-author="Gorka" data-date="2017-02-05T02:47:47+00:00" data-subject="Re: An unfortunate Sunday">
 
 Knifey accused me openly in a group last night of attempting to steal a call. But he forgets that most of us log our sloth, and what actually happened, is when the group got big enough and I asked vege about killing Iblis, Knifey ceased an opportunity to change his gjob to iblis, as mine was unchanged from a previous group and then he sort to attack my character.
 
@@ -877,7 +877,7 @@ Don't you dare come to this mud, and cast dispersion's on other players, and our
 
 </div>
 
-<div class="post" data-post-id="38035" data-author="*juggleblood*" data-date="2017-02-05T13:54:13+00:00">
+<div class="post" data-post-id="38035" data-author="*juggleblood*" data-date="2017-02-05T13:54:13+00:00" data-subject="Re: An unfortunate Sunday">
 
 Ugh, I hate this thread. Can we let it die and stop having petty fights on the crier? I don't see any point to expand in-game arguments to a wider forum. It just makes everyone look bad. 
 

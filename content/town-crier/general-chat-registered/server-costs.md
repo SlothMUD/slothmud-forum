@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38971" data-author="*Breeze*" data-date="2018-09-06T19:15:47+00:00">
+<div class="post" data-post-id="38971" data-author="*Breeze*" data-date="2018-09-06T19:15:47+00:00" data-subject="Server Costs">
 
 in the past, we have refused donations from players, but with the current tiny size of the 
 

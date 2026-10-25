@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="20382" data-author="Shazuko" data-date="2007-09-25T14:18:26+00:00">
+<div class="post" data-post-id="20382" data-author="Shazuko" data-date="2007-09-25T14:18:26+00:00" data-subject="Swim vs. twiddle">
 
 how about it...I've been thinking about it for a while...
 
@@ -28,7 +28,7 @@ my .666 cents...
 
 </div>
 
-<div class="post" data-post-id="20383" data-author="Mosaix" data-date="2007-09-25T16:21:29+00:00">
+<div class="post" data-post-id="20383" data-author="Mosaix" data-date="2007-09-25T16:21:29+00:00" data-subject="">
 
 Get relocate...
 
@@ -42,7 +42,7 @@ Use the boat and twiddle your thumbs for eternity.
 
 </div>
 
-<div class="post" data-post-id="20384" data-author="Shazuko" data-date="2007-09-25T16:44:30+00:00">
+<div class="post" data-post-id="20384" data-author="Shazuko" data-date="2007-09-25T16:44:30+00:00" data-subject="">
 
 If I wanted to do all that, I wouldn't have suggested it! Of course, those with reloc won't need it...!
 
@@ -66,7 +66,7 @@ Also, our medieval chars are far more capable then our modern counterparts, and 
 
 </div>
 
-<div class="post" data-post-id="20385" data-author="Vixn" data-date="2007-09-25T17:00:53+00:00">
+<div class="post" data-post-id="20385" data-author="Vixn" data-date="2007-09-25T17:00:53+00:00" data-subject="">
 
 Do you know all non-restricted continents have trans continental portals.
 
@@ -76,7 +76,7 @@ Vixn aka Edd.
 
 </div>
 
-<div class="post" data-post-id="20386" data-author="13" data-date="2007-09-25T17:08:36+00:00">
+<div class="post" data-post-id="20386" data-author="13" data-date="2007-09-25T17:08:36+00:00" data-subject="">
 
 [quote:3tvl7m62]swimming in the ocean a few hours is quite plausible. [/quote:3tvl7m62]
 
@@ -84,7 +84,7 @@ ever try swimming in a cuirass with a shield
 
 </div>
 
-<div class="post" data-post-id="20387" data-author="Shazuko" data-date="2007-09-25T20:30:06+00:00">
+<div class="post" data-post-id="20387" data-author="Shazuko" data-date="2007-09-25T20:30:06+00:00" data-subject="">
 
 thats actually a good point..I thought about that and all I've got for a rebuttle are the following:
 
@@ -126,7 +126,7 @@ thats all I've got....oh well...
 
 </div>
 
-<div class="post" data-post-id="20388" data-author="Alberich" data-date="2007-09-25T20:34:13+00:00">
+<div class="post" data-post-id="20388" data-author="Alberich" data-date="2007-09-25T20:34:13+00:00" data-subject="">
 
 we already have supps that act as boats, relo charms, lots of fargate days, genie bottles, trans-continent portals in some areas, and probably some other stuff I'm forgetting because it's new.
 
@@ -134,7 +134,7 @@ This hardly seems necessary.
 
 </div>
 
-<div class="post" data-post-id="20390" data-author="Weasel" data-date="2007-09-25T22:19:59+00:00">
+<div class="post" data-post-id="20390" data-author="Weasel" data-date="2007-09-25T22:19:59+00:00" data-subject="">
 
 There's also a spell/skill (if you do the forge for the books to learn it) to make the boats go faster too, once you're on it.
 
@@ -142,7 +142,7 @@ A suggestion (if you just missed the boat) is to start killing anything worthwhi
 
 </div>
 
-<div class="post" data-post-id="20395" data-author="kjartan" data-date="2007-09-26T20:15:08+00:00">
+<div class="post" data-post-id="20395" data-author="kjartan" data-date="2007-09-26T20:15:08+00:00" data-subject="">
 
 We could add mamelukes (in the Tove Jansson sense) to the possible things you catch; they just break the line, unless you have forged the Fishing Line of the Gods, in which case you still can't reel them in but they tow the boat to the next port (or, anyway, some port) immediately.  This destroys the boat; it will however be rebuilt in time for the next scheduled departure.
 

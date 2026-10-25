@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="21550" data-author="Medios" data-date="2007-12-05T23:39:47+00:00">
+<div class="post" data-post-id="21550" data-author="Medios" data-date="2007-12-05T23:39:47+00:00" data-subject="Van is famous">
 
 From the book of Urantia
 
@@ -28,7 +28,7 @@ Seraphim and cherubim and other celestial beings were involved in the decisions 
 
 </div>
 
-<div class="post" data-post-id="21551" data-author="van" data-date="2007-12-06T02:15:47+00:00">
+<div class="post" data-post-id="21551" data-author="van" data-date="2007-12-06T02:15:47+00:00" data-subject="Re: Van is famous">
 
 Never before have I been so unjustly slandered.  Distinguished my ass.
 
@@ -42,7 +42,7 @@ From the book of Urantia
 
 </div>
 
-<div class="post" data-post-id="21552" data-author="Autolycos" data-date="2007-12-06T04:16:44+00:00">
+<div class="post" data-post-id="21552" data-author="Autolycos" data-date="2007-12-06T04:16:44+00:00" data-subject="">
 
 the only thing you're heading for is the scrap heap!!!  :twisted: 
 
@@ -50,7 +50,7 @@ the only thing you're heading for is the scrap heap!!!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="21553" data-author="Yinao" data-date="2007-12-06T06:59:54+00:00">
+<div class="post" data-post-id="21553" data-author="Yinao" data-date="2007-12-06T06:59:54+00:00" data-subject="">
 
 [b:1po9yyv7][i:1po9yyv7][u:1po9yyv7]I got your back Van![/size:1po9yyv7][/color:1po9yyv7][/u:1po9yyv7][/i:1po9yyv7][/b:1po9yyv7]
 

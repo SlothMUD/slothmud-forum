@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="21249" data-author="Weasel" data-date="2007-11-09T17:43:41+00:00">
+<div class="post" data-post-id="21249" data-author="Weasel" data-date="2007-11-09T17:43:41+00:00" data-subject="mudcrash / lost connection">
 
 I sincerely hope the mud is not still up and mandi has repopped in our absence and utterly destroyed our entire group..
 
@@ -22,13 +22,13 @@ Van gives a gigantic spellbook to Kulum.
 
 </div>
 
-<div class="post" data-post-id="21250" data-author="brand" data-date="2007-11-09T17:47:21+00:00">
+<div class="post" data-post-id="21250" data-author="brand" data-date="2007-11-09T17:47:21+00:00" data-subject="">
 
 that's funny because i've been sitting here blaming you  :twisted:
 
 </div>
 
-<div class="post" data-post-id="21251" data-author="Hotara" data-date="2007-11-09T17:53:54+00:00">
+<div class="post" data-post-id="21251" data-author="Hotara" data-date="2007-11-09T17:53:54+00:00" data-subject="">
 
 I hope van saved, cause I surely didn't.
 
@@ -38,13 +38,13 @@ On top of that, I hope you had darkness up, otherwise, Here's to your corpse mat
 
 </div>
 
-<div class="post" data-post-id="21253" data-author="Weasel" data-date="2007-11-09T18:50:37+00:00">
+<div class="post" data-post-id="21253" data-author="Weasel" data-date="2007-11-09T18:50:37+00:00" data-subject="">
 
 well that kinda put an end to the group.. not many logged back on again. Maybe tonight?
 
 </div>
 
-<div class="post" data-post-id="21258" data-author="Weasel" data-date="2007-11-10T05:23:43+00:00">
+<div class="post" data-post-id="21258" data-author="Weasel" data-date="2007-11-10T05:23:43+00:00" data-subject="">
 
 ...and again?
 

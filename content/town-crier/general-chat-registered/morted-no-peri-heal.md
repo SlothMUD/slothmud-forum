@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35218" data-author="Thraxas" data-date="2014-06-03T22:08:44+00:00">
+<div class="post" data-post-id="35218" data-author="Thraxas" data-date="2014-06-03T22:08:44+00:00" data-subject="Morted - no peri heal">
 
 am currently morted - lying there waiting to die ... but I have a peri with me surely it will throw me a heal and save me? - seems not :(
 
 </div>
 
-<div class="post" data-post-id="35221" data-author="Yasik" data-date="2014-06-04T06:19:58+00:00">
+<div class="post" data-post-id="35221" data-author="Yasik" data-date="2014-06-04T06:19:58+00:00" data-subject="Re: Morted - no peri heal">
 
 The have limited mana and per-tick regen, maybe she just run off of it?
 

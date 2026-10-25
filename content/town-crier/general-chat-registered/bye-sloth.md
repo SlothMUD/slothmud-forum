@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="15323" data-author="*juggleblood*" data-date="2006-11-25T15:38:55+00:00">
+<div class="post" data-post-id="15323" data-author="*juggleblood*" data-date="2006-11-25T15:38:55+00:00" data-subject="Bye Sloth">
 
 I'm out too. 
 
@@ -26,7 +26,7 @@ Rub
 
 </div>
 
-<div class="post" data-post-id="15324" data-author="Hades" data-date="2006-11-25T16:28:41+00:00">
+<div class="post" data-post-id="15324" data-author="Hades" data-date="2006-11-25T16:28:41+00:00" data-subject="Re:">
 
 A long rant, written by a delusional ranger, has been left behind...It emits a faint humming sound.  
 
@@ -34,7 +34,7 @@ A long rant, written by a delusional ranger, has been left behind...It emits a f
 
 </div>
 
-<div class="post" data-post-id="15325" data-author="Weasel" data-date="2006-11-25T16:43:09+00:00">
+<div class="post" data-post-id="15325" data-author="Weasel" data-date="2006-11-25T16:43:09+00:00" data-subject="">
 
 thucking fiefs!
 
@@ -44,7 +44,7 @@ bah.
 
 </div>
 
-<div class="post" data-post-id="15332" data-author="13" data-date="2006-11-25T23:05:45+00:00">
+<div class="post" data-post-id="15332" data-author="13" data-date="2006-11-25T23:05:45+00:00" data-subject="">
 
 Pthieves give avatars something to do.  It's easy enough to not get your shit
 
@@ -52,7 +52,7 @@ stolen.  Plus, I really needed a keychain etc.
 
 </div>
 
-<div class="post" data-post-id="15334" data-author="Mosaix" data-date="2006-11-26T00:24:38+00:00">
+<div class="post" data-post-id="15334" data-author="Mosaix" data-date="2006-11-26T00:24:38+00:00" data-subject="">
 
 To respond to aa, and any possible pthief reading this.  If your an avatar and bored, 
 
@@ -66,7 +66,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="15338" data-author="13" data-date="2006-11-26T04:13:12+00:00">
+<div class="post" data-post-id="15338" data-author="13" data-date="2006-11-26T04:13:12+00:00" data-subject="">
 
 It was a joke, I didn't take his chain, but I'm more than willing to sit on
 
@@ -74,7 +74,7 @@ some mobs.
 
 </div>
 
-<div class="post" data-post-id="15342" data-author="broeggle" data-date="2006-11-26T11:58:49+00:00">
+<div class="post" data-post-id="15342" data-author="broeggle" data-date="2006-11-26T11:58:49+00:00" data-subject="">
 
 hey rub, 
 
@@ -88,13 +88,13 @@ brroeggle
 
 </div>
 
-<div class="post" data-post-id="15353" data-author="Krok" data-date="2006-11-26T22:17:54+00:00">
+<div class="post" data-post-id="15353" data-author="Krok" data-date="2006-11-26T22:17:54+00:00" data-subject="">
 
 wtb keychain :D
 
 </div>
 
-<div class="post" data-post-id="15356" data-author="Ingold" data-date="2006-11-27T04:47:23+00:00">
+<div class="post" data-post-id="15356" data-author="Ingold" data-date="2006-11-27T04:47:23+00:00" data-subject="Keychain">
 
 There was a Key Chain found in the scribes sometime last week.  Please ask around because I dont remember who found it, but whoever it was asked over the channels who lost it.
 

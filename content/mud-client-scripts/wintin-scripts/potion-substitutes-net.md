@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11025" data-author="*juggleblood*" data-date="2006-03-03T11:56:21+00:00">
+<div class="post" data-post-id="11025" data-author="*juggleblood*" data-date="2006-03-03T11:56:21+00:00" data-subject="Potion Substitutes - NET">
 
 This script substitutes the potion name for the effects, plus a few key words.
 

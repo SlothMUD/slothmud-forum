@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="36526" data-author="*Neptune*" data-date="2016-01-21T03:33:15+00:00">
+<div class="post" data-post-id="36526" data-author="*Neptune*" data-date="2016-01-21T03:33:15+00:00" data-subject="Area Opener">
 
 Greetings,
 
@@ -30,7 +30,7 @@ come and enjoy the fun!
 
 </div>
 
-<div class="post" data-post-id="36532" data-author="Tsuman" data-date="2016-01-22T06:59:45+00:00">
+<div class="post" data-post-id="36532" data-author="Tsuman" data-date="2016-01-22T06:59:45+00:00" data-subject="Re: Area Opener">
 
 That sucks, I have to work this weekend.  :cry: 
 
@@ -38,7 +38,7 @@ Hope you have a good time--wish I could be there.
 
 </div>
 
-<div class="post" data-post-id="36536" data-author="Josiah" data-date="2016-01-24T07:51:31+00:00">
+<div class="post" data-post-id="36536" data-author="Josiah" data-date="2016-01-24T07:51:31+00:00" data-subject="Re: Area Opener">
 
 EQ from the new formian area east of Hellwell... these were all discovered after quest.  Maybe someone tracked what was popped during the quest?
 
@@ -122,7 +122,7 @@ Only those who are at least experienced thieves may use this item.
 
 </div>
 
-<div class="post" data-post-id="36538" data-author="Dragoth" data-date="2016-01-24T10:42:51+00:00">
+<div class="post" data-post-id="36538" data-author="Dragoth" data-date="2016-01-24T10:42:51+00:00" data-subject="Re: Area Opener">
 
 Some mob stats from yesterday, Xp/t is total exp for the mob, KT is kill time, xp/s is exp per second and is basically exp I got (shared exp) divided by number of seconds it took to kill the mob, MA is mana (H) for healers (O) for others, not very useful for a quest group but i dont feel like editing stuff out.
 
@@ -178,7 +178,7 @@ The Formian Queen Mother: [28K] XP/s [207.40M][CAP] XP/t [26,182] Dam [H:-693|O:
 
 </div>
 
-<div class="post" data-post-id="36539" data-author="Teron" data-date="2016-01-24T12:56:53+00:00">
+<div class="post" data-post-id="36539" data-author="Teron" data-date="2016-01-24T12:56:53+00:00" data-subject="Re: Area Opener">
 
 Well, (http://www.slothmud.org/forum/viewtopic.php?f=28&p=36537#p36537).
 

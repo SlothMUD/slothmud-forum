@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35953" data-author="Yasik" data-date="2015-06-19T17:09:54+00:00">
+<div class="post" data-post-id="35953" data-author="Yasik" data-date="2015-06-19T17:09:54+00:00" data-subject="&#x27;map&#x27; command output">
 
 Hello!
 
@@ -32,7 +32,7 @@ Thanks in advance :)
 
 </div>
 
-<div class="post" data-post-id="35954" data-author="*Breeze*" data-date="2015-06-20T16:04:13+00:00">
+<div class="post" data-post-id="35954" data-author="*Breeze*" data-date="2015-06-20T16:04:13+00:00" data-subject="Re: &#x27;map&#x27; command output">
 
 Ping me online Monday night and I fix it
 

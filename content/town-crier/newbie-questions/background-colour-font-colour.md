@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="31315" data-author="Zinoviya" data-date="2010-06-20T04:30:34+00:00">
+<div class="post" data-post-id="31315" data-author="Zinoviya" data-date="2010-06-20T04:30:34+00:00" data-subject="Background Colour/Font Colour">
 
 Hello, I'm new here and I have a little question to ask:
 
@@ -22,19 +22,19 @@ Thank you for reading.  :)
 
 </div>
 
-<div class="post" data-post-id="31316" data-author="*Breeze*" data-date="2010-06-20T05:03:07+00:00">
+<div class="post" data-post-id="31316" data-author="*Breeze*" data-date="2010-06-20T05:03:07+00:00" data-subject="Re: Background Colour/Font Colour">
 
 mud or web?
 
 </div>
 
-<div class="post" data-post-id="31321" data-author="Zinoviya" data-date="2010-06-20T17:48:05+00:00">
+<div class="post" data-post-id="31321" data-author="Zinoviya" data-date="2010-06-20T17:48:05+00:00" data-subject="Re: Background Colour/Font Colour">
 
 Web.
 
 </div>
 
-<div class="post" data-post-id="31322" data-author="*Breeze*" data-date="2010-06-20T18:33:44+00:00">
+<div class="post" data-post-id="31322" data-author="*Breeze*" data-date="2010-06-20T18:33:44+00:00" data-subject="Re: Background Colour/Font Colour">
 
 where do you see white on black ?
 
@@ -42,13 +42,13 @@ i changed your default skin to a different one..
 
 </div>
 
-<div class="post" data-post-id="31323" data-author="Zinoviya" data-date="2010-06-21T03:21:20+00:00">
+<div class="post" data-post-id="31323" data-author="Zinoviya" data-date="2010-06-21T03:21:20+00:00" data-subject="Re: Background Colour/Font Colour">
 
 Wait ... maybe I answered that wrong ...?  I guess I don't know if it's "web" or "Mud".  Alas, I am very newbie.  All I know is that I've been playing from [http://www.slothmud.org/FMud/FMud/FMud.html](http://www.slothmud.org/FMud/FMud/FMud.html) and the web's background is white, but the game's background is black with white font.
 
 </div>
 
-<div class="post" data-post-id="31324" data-author="*Breeze*" data-date="2010-06-21T15:39:27+00:00">
+<div class="post" data-post-id="31324" data-author="*Breeze*" data-date="2010-06-21T15:39:27+00:00" data-subject="Re: Background Colour/Font Colour">
 
 i will look into that when i get time. (just got home and takin wife shopping)
 
@@ -60,13 +60,13 @@ the next thing on my todo list.
 
 </div>
 
-<div class="post" data-post-id="31325" data-author="Zinoviya" data-date="2010-06-21T17:11:35+00:00">
+<div class="post" data-post-id="31325" data-author="Zinoviya" data-date="2010-06-21T17:11:35+00:00" data-subject="Re: Background Colour/Font Colour">
 
 That is so nice!  Thank you so much!  You are officially the nicest admin I have ever encountered.
 
 </div>
 
-<div class="post" data-post-id="31326" data-author="*Breeze*" data-date="2010-06-22T18:16:17+00:00">
+<div class="post" data-post-id="31326" data-author="*Breeze*" data-date="2010-06-22T18:16:17+00:00" data-subject="Re: Background Colour/Font Colour">
 
 seems the client is ignoring its own settings.(via settings tab)
 
@@ -76,7 +76,7 @@ have you considered using a standalone client ?
 
 </div>
 
-<div class="post" data-post-id="31332" data-author="*Breeze*" data-date="2010-06-28T10:26:39+00:00">
+<div class="post" data-post-id="31332" data-author="*Breeze*" data-date="2010-06-28T10:26:39+00:00" data-subject="Re: Background Colour/Font Colour">
 
 This should be fixed.
 

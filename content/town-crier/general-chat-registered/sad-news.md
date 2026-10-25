@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="39113" data-author="Sam" data-date="2019-03-04T22:25:19+00:00">
+<div class="post" data-post-id="39113" data-author="Sam" data-date="2019-03-04T22:25:19+00:00" data-subject="Sad news">
 
 Greetings from Moscow, it is snowing here
 
@@ -52,13 +52,13 @@ Sind
 
 </div>
 
-<div class="post" data-post-id="39114" data-author="Vegetable" data-date="2019-03-04T22:44:31+00:00">
+<div class="post" data-post-id="39114" data-author="Vegetable" data-date="2019-03-04T22:44:31+00:00" data-subject="Re: Sad news">
 
 Very sad to hear that. Rest In Peace T.
 
 </div>
 
-<div class="post" data-post-id="39116" data-author="Gorka" data-date="2019-03-05T03:09:35+00:00">
+<div class="post" data-post-id="39116" data-author="Gorka" data-date="2019-03-05T03:09:35+00:00" data-subject="Re: Sad news">
 
 I'm really sad to hear about this. Taron helped me the most, I thought of him not just as a friend in the game but a real friend. I felt I understood the way he was, and could see myself in that reflection sometimes. The last time I saw him playing I asked him how he was and he said he was trying to play less. I regret we never talked longer. If only I knew that would be the last time we talked. He will always be in my thoughts when I play sloth. Rest in Peace Taron!  :(  :( 
 
@@ -68,13 +68,13 @@ Keep us informed Sam.
 
 </div>
 
-<div class="post" data-post-id="39117" data-author="Ezekiel" data-date="2019-03-05T05:02:09+00:00">
+<div class="post" data-post-id="39117" data-author="Ezekiel" data-date="2019-03-05T05:02:09+00:00" data-subject="Re: Sad news">
 
 Sad news indeed. Taron was an efficient mudder/leader, and at times with a rough exterior, he could be really kind and generous one on one. Hell, there were times when I was hesitant to learn to lead new areas I wasn't familiar with and he would volunteer to tank and say 'shrug, it's not that hard' in typical T fashion. As much as the regulars play this game, sloth becomes a mini-family here, and he will be terribly missed. Gorka has been right in the past...we all keep coming back because of the community (especially when you hit max levs and you kind of have to 'make your own fun')....it's the people that keep us here. We have one less now, and far too young. My condolences to his family, Sam/Fandral and those who knew him personally, and all of the sloth community who came to know him as part of our home away from home.
 
 </div>
 
-<div class="post" data-post-id="39118" data-author="Gorka" data-date="2019-03-05T06:25:49+00:00">
+<div class="post" data-post-id="39118" data-author="Gorka" data-date="2019-03-05T06:25:49+00:00" data-subject="Re: Sad news">
 
 Do you think it would be appropriate if we put a fixed memorial in the game for the players who have died? People like Bro and Taron. They will always be a part of our memory, and I wish there was some way they could all still be a small part of this game.
 
@@ -84,7 +84,7 @@ l tombstone would display the commemorative message.
 
 </div>
 
-<div class="post" data-post-id="39119" data-author="*Idjit*" data-date="2019-03-05T06:33:30+00:00">
+<div class="post" data-post-id="39119" data-author="*Idjit*" data-date="2019-03-05T06:33:30+00:00" data-subject="Re: Sad news">
 
 We do have statues for Doink (on the Island someplace) and Quins (in nortwestern SS town), Gorka, and i was seeking your feedback this evening concerning the memorial for Taron, you just happened not to be logged in tonight.  We just need to gather the details in one place and go from there.  Both description text for it, and where to actually place the statue (some ideas have been, Moria, Mercurial Woods, or rather where he liked to get charmed pets from either hate-filled soldiers in Phantom Creek or Zelkham Zombies on the way to Ravenloft).
 
@@ -94,7 +94,7 @@ Best to continue that discussion online rather than on the forum however probabl
 
 </div>
 
-<div class="post" data-post-id="39120" data-author="Gorka" data-date="2019-03-05T09:42:16+00:00">
+<div class="post" data-post-id="39120" data-author="Gorka" data-date="2019-03-05T09:42:16+00:00" data-subject="Re: Sad news">
 
 ```
                               _,-'_,-----------._`-._   
@@ -132,7 +132,7 @@ I'm thinking something like this... I think somewhere near the Zelkham Zombies i
 
 </div>
 
-<div class="post" data-post-id="39121" data-author="Driven" data-date="2019-03-05T13:27:09+00:00">
+<div class="post" data-post-id="39121" data-author="Driven" data-date="2019-03-05T13:27:09+00:00" data-subject="Re: Sad news">
 
 Is this him?
 
@@ -142,13 +142,13 @@ Sad :(
 
 </div>
 
-<div class="post" data-post-id="39122" data-author="Josiah" data-date="2019-03-05T18:57:00+00:00">
+<div class="post" data-post-id="39122" data-author="Josiah" data-date="2019-03-05T18:57:00+00:00" data-subject="Re: Sad news">
 
 Thank you for the news, although I'm sorry to hear it.  He'll be missed.
 
 </div>
 
-<div class="post" data-post-id="39124" data-author="Dragoth" data-date="2019-03-07T17:52:18+00:00">
+<div class="post" data-post-id="39124" data-author="Dragoth" data-date="2019-03-07T17:52:18+00:00" data-subject="Re: Sad news">
 
 Such a great guy, what a shame.
 
@@ -156,7 +156,7 @@ Rest in Peace buddy, Slothmud will be worse off without you.
 
 </div>
 
-<div class="post" data-post-id="39125" data-author="*Idjit*" data-date="2019-03-10T03:11:01+00:00">
+<div class="post" data-post-id="39125" data-author="*Idjit*" data-date="2019-03-10T03:11:01+00:00" data-subject="Re: Sad news">
 
 I took Gorka's idea for the descrip, but i placed the statue near Smaug, in a room created for the purpose.
 

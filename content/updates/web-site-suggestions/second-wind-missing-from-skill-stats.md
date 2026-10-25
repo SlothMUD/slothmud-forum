@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31961" data-author="Teron" data-date="2010-11-04T14:31:31+00:00">
+<div class="post" data-post-id="31961" data-author="Teron" data-date="2010-11-04T14:31:31+00:00" data-subject="second wind missing from skill stats">
 
 Second wind is missing from skill stats.
 

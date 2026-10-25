@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="7599" data-author="SirRobin" data-date="2005-06-26T04:57:56+00:00">
+<div class="post" data-post-id="7599" data-author="SirRobin" data-date="2005-06-26T04:57:56+00:00" data-subject="Why Don&amp;#8217;t Followers Assist?">
 
 Why Don’t Followers Assist?
 
@@ -28,7 +28,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="7600" data-author="Taki" data-date="2005-06-26T06:02:33+00:00">
+<div class="post" data-post-id="7600" data-author="Taki" data-date="2005-06-26T06:02:33+00:00" data-subject="">
 
 I don't have any experience with necros, but the same thing seems to happen with cleric's supplicants: in one or two rooms of the Gang Hideout, they fail to respond to the issued order (assist) and several time the fight ends without their support...
 
@@ -38,7 +38,7 @@ T.
 
 </div>
 
-<div class="post" data-post-id="7609" data-author="13" data-date="2005-06-26T12:01:32+00:00">
+<div class="post" data-post-id="7609" data-author="13" data-date="2005-06-26T12:01:32+00:00" data-subject="">
 
 I think you answered your own question Robin.  It's obviously the
 
@@ -46,7 +46,7 @@ Hideout.
 
 </div>
 
-<div class="post" data-post-id="7619" data-author="Medios" data-date="2005-06-26T15:48:55+00:00">
+<div class="post" data-post-id="7619" data-author="Medios" data-date="2005-06-26T15:48:55+00:00" data-subject="">
 
 I have found that some supplicants/followers dont assist due to dark rooms or something.  I sometimes cast infravision to help my eudaemon see me and heal me.  *shrug*  Try infra it might help.  Post back with any update.
 
@@ -54,13 +54,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="7620" data-author="Vixn" data-date="2005-06-26T17:26:00+00:00">
+<div class="post" data-post-id="7620" data-author="Vixn" data-date="2005-06-26T17:26:00+00:00" data-subject="">
 
 I've found my eudaemon can't report stats while being underwater (and w/o water breathing). Though it heal me anyway as i can remember.
 
 </div>
 
-<div class="post" data-post-id="7628" data-author="Ditheca" data-date="2005-06-27T17:20:55+00:00">
+<div class="post" data-post-id="7628" data-author="Ditheca" data-date="2005-06-27T17:20:55+00:00" data-subject="followers">
 
 low level animate dead's do not have darksight/infravision
 
@@ -70,7 +70,7 @@ It's good to experiment and understand the limitations of, say, your pet ghoul. 
 
 </div>
 
-<div class="post" data-post-id="7640" data-author="Aleksey" data-date="2005-06-28T07:53:55+00:00">
+<div class="post" data-post-id="7640" data-author="Aleksey" data-date="2005-06-28T07:53:55+00:00" data-subject="">
 
 Why Don’t Followers Assist? 
 
@@ -88,7 +88,7 @@ Why Don’t Followers Assist?
 
 </div>
 
-<div class="post" data-post-id="7654" data-author="Gnu" data-date="2005-06-28T20:38:16+00:00">
+<div class="post" data-post-id="7654" data-author="Gnu" data-date="2005-06-28T20:38:16+00:00" data-subject="">
 
 ...and this is a place where undead control points can be used. I don't know if a chance of succesful assisting depands on undead control eq, but it would make sence if it does. 
 
@@ -96,7 +96,7 @@ Another idea is to let CHARISMA points affect player's chance to charm mob. Or m
 
 </div>
 
-<div class="post" data-post-id="7685" data-author="SirRobin" data-date="2005-06-30T02:16:28+00:00">
+<div class="post" data-post-id="7685" data-author="SirRobin" data-date="2005-06-30T02:16:28+00:00" data-subject="">
 
 From what’s been said here and what I’ve experienced, I’m thinking it has something to do with light and/or sound, but my experiments in this area have been inconsistent, so I really have nothing definitive to report. This area does have some peculiar qualities though. The “Tell” command didn’t work for me the one time I tried it there; the response said something about the sound being absorbed if I recall correctly. Recall doesn’t work either, at least it didn’t the two times I tried it. This is probably a better area for group hunting rather than soloing with pets.
 
@@ -108,7 +108,7 @@ I wonder if this is supposed to be the Gold Fever disease?  He also howls a lot 
 
 </div>
 
-<div class="post" data-post-id="7686" data-author="12345" data-date="2005-06-30T02:35:43+00:00">
+<div class="post" data-post-id="7686" data-author="12345" data-date="2005-06-30T02:35:43+00:00" data-subject="">
 
 The master in general is a pain.  He's inpressively more powerful than anything else in the area, and the room he's in makes him difficult to fight.
 

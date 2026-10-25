@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="28453" data-author="Bazilus" data-date="2009-03-11T09:11:13+00:00">
+<div class="post" data-post-id="28453" data-author="Bazilus" data-date="2009-03-11T09:11:13+00:00" data-subject="Mudconnector Voting!">
 
 ...
 
@@ -24,7 +24,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28458" data-author="Bazilus" data-date="2009-03-11T22:32:53+00:00">
+<div class="post" data-post-id="28458" data-author="Bazilus" data-date="2009-03-11T22:32:53+00:00" data-subject="">
 
 ...
 

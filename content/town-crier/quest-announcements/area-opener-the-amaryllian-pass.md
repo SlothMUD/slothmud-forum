@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35199" data-author="*Neptune*" data-date="2014-05-31T19:13:10+00:00">
+<div class="post" data-post-id="35199" data-author="*Neptune*" data-date="2014-05-31T19:13:10+00:00" data-subject="Area Opener: The Amaryllian Pass">
 
 Greetings!
 

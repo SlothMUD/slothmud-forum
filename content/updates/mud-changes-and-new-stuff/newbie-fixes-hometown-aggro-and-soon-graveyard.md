@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35761" data-author="*Splork*" data-date="2015-03-16T12:30:28+00:00">
+<div class="post" data-post-id="35761" data-author="*Splork*" data-date="2015-03-16T12:30:28+00:00" data-subject="Newbie Fixes (Hometown, aggro, and soon graveyard)">
 
 There was a bug allowing players to level their secondary classes above level 15 and still maintain all the benefits which were targeted at helping new players. This has been fixed. The target audience for these enhancements was never our experienced players but for those new to our game.
 

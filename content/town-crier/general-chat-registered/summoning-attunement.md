@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="15456" data-author="Medios" data-date="2006-12-05T20:51:27+00:00">
+<div class="post" data-post-id="15456" data-author="Medios" data-date="2006-12-05T20:51:27+00:00" data-subject="Summoning Attunement">
 
 I was reading on attunement to figure out what I wanted to do with Dogs.  The summoning attunement really seems weak in comparison to the others. Does anyone know something im missing.  Check it out
 
@@ -162,19 +162,19 @@ Level        Name                    Minimum Mana
 
 </div>
 
-<div class="post" data-post-id="15457" data-author="13" data-date="2006-12-05T20:54:59+00:00">
+<div class="post" data-post-id="15457" data-author="13" data-date="2006-12-05T20:54:59+00:00" data-subject="">
 
 That's hella, get that man.  Brad almost did.
 
 </div>
 
-<div class="post" data-post-id="15463" data-author="Avatar" data-date="2006-12-06T14:30:27+00:00">
+<div class="post" data-post-id="15463" data-author="Avatar" data-date="2006-12-06T14:30:27+00:00" data-subject="Attunement">
 
 That 35 mana Feast is the coolest.
 
 </div>
 
-<div class="post" data-post-id="15470" data-author="Medios" data-date="2006-12-06T21:29:52+00:00">
+<div class="post" data-post-id="15470" data-author="Medios" data-date="2006-12-06T21:29:52+00:00" data-subject="">
 
 It would be cool but the food doesnt make you full.
 

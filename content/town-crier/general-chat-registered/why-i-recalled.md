@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="29281" data-author="Toxis" data-date="2009-05-25T01:06:34+00:00">
+<div class="post" data-post-id="29281" data-author="Toxis" data-date="2009-05-25T01:06:34+00:00" data-subject="Why I Recalled">
 
 The comment from Vishnu was uncalled for.  I was going to rent after run was over then my lite just fell down and the following is what happened next.  The group had no mana, tank had 80 hp, and tank was not lit.  I logged on Toxis to do raises, but group was recalled and everyone was already raised.  I'm not gonna stand there and let you kill me.
 
@@ -66,7 +66,7 @@ strange noises and some blood!
 
 </div>
 
-<div class="post" data-post-id="29282" data-author="doc" data-date="2009-05-25T01:12:31+00:00">
+<div class="post" data-post-id="29282" data-author="doc" data-date="2009-05-25T01:12:31+00:00" data-subject="">
 
 Group 'The Imperturbable Pack' is led by Zuzu and consists of:
 
@@ -100,13 +100,13 @@ Group 'The Imperturbable Pack' is led by Zuzu and consists of:
 
 </div>
 
-<div class="post" data-post-id="29283" data-author="Toxis" data-date="2009-05-25T01:17:10+00:00">
+<div class="post" data-post-id="29283" data-author="Toxis" data-date="2009-05-25T01:17:10+00:00" data-subject="">
 
 Oh I'm glad you posted that, now it shows how the group was slacking.  Even better.
 
 </div>
 
-<div class="post" data-post-id="29284" data-author="Spuffy" data-date="2009-05-25T02:02:40+00:00">
+<div class="post" data-post-id="29284" data-author="Spuffy" data-date="2009-05-25T02:02:40+00:00" data-subject="">
 
 As leader, I would have to say I defend Brad's action.  The call when and where to give him a designated sancer so there was better coverage of his sanc was up to me as head of the group.  I knew I was taking a risk pushing the group like that--looking critically at my leading skills, I function best when we have more overspill of resources than this by a long shot (the group had thinned considerably from its earlier size).  I looked only at the fact that we had a modest aggregate of mana left between Stryx and Shyla, and not at the more urgent need to get him lit/keep him lit.
 

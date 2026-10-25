@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="5126" data-author="achazia" data-date="2005-03-17T09:38:56+00:00">
+<div class="post" data-post-id="5126" data-author="achazia" data-date="2005-03-17T09:38:56+00:00" data-subject="Several attacks at once?">
 
 Hi!
 
@@ -26,7 +26,7 @@ How and when can I do that?
 
 </div>
 
-<div class="post" data-post-id="5134" data-author="Vixn" data-date="2005-03-17T10:04:25+00:00">
+<div class="post" data-post-id="5134" data-author="Vixn" data-date="2005-03-17T10:04:25+00:00" data-subject="Re: Several attacks at once?">
 
 Hi!
 
@@ -44,7 +44,7 @@ type help double attack, triple attack and maybe counter attack.
 
 </div>
 
-<div class="post" data-post-id="5135" data-author="Alberich" data-date="2005-03-17T10:10:01+00:00">
+<div class="post" data-post-id="5135" data-author="Alberich" data-date="2005-03-17T10:10:01+00:00" data-subject="">
 
 not sure i understand... if you mean he was attacking multiple times, then yah, read helpfiles on double attack and stuff like strike/circlestab.
 

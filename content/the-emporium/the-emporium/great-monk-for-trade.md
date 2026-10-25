@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="22594" data-author="Leaf" data-date="2008-02-07T04:34:50+00:00">
+<div class="post" data-post-id="22594" data-author="Leaf" data-date="2008-02-07T04:34:50+00:00" data-subject="Great Monk for Trade">
 
 Looking for Necro Eqs for this great char below:
 
@@ -78,7 +78,7 @@ You are affected by the following spells:   None.
 
 </div>
 
-<div class="post" data-post-id="22595" data-author="Leaf" data-date="2008-02-07T05:08:46+00:00">
+<div class="post" data-post-id="22595" data-author="Leaf" data-date="2008-02-07T05:08:46+00:00" data-subject="">
 
 If some didn't guess, those are his nat stats.  With Bard being in the class
 
@@ -90,7 +90,7 @@ eq is available.
 
 </div>
 
-<div class="post" data-post-id="22653" data-author="Leaf" data-date="2008-02-11T20:05:03+00:00">
+<div class="post" data-post-id="22653" data-author="Leaf" data-date="2008-02-11T20:05:03+00:00" data-subject="">
 
 Doesn't seem like anyone want Monk anymore...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="7720" data-author="12345" data-date="2005-07-02T00:31:08+00:00">
+<div class="post" data-post-id="7720" data-author="12345" data-date="2005-07-02T00:31:08+00:00" data-subject="Temple Lists">
 
 Was playing with list in the temples and had a few thoughts...
 

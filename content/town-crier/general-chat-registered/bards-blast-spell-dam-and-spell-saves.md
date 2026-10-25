@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="37061" data-author="Hung" data-date="2016-07-15T09:54:22+00:00">
+<div class="post" data-post-id="37061" data-author="Hung" data-date="2016-07-15T09:54:22+00:00" data-subject="Bards&#x27; blast, spell dam and spell saves">
 
 Greetings,
 
@@ -22,13 +22,13 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37075" data-author="*juggleblood*" data-date="2016-07-17T22:47:39+00:00">
+<div class="post" data-post-id="37075" data-author="*juggleblood*" data-date="2016-07-17T22:47:39+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 My understanding was that spell damage wasn't intended to affect the damage. Only charisma.
 
 </div>
 
-<div class="post" data-post-id="37078" data-author="Teron" data-date="2016-07-18T07:31:37+00:00">
+<div class="post" data-post-id="37078" data-author="Teron" data-date="2016-07-18T07:31:37+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 I heard that spell dam doesn't work on bard songs.
 
@@ -36,31 +36,31 @@ I heard that spell dam doesn't work on bard songs.
 
 </div>
 
-<div class="post" data-post-id="37081" data-author="*teker*" data-date="2016-07-18T21:47:14+00:00">
+<div class="post" data-post-id="37081" data-author="*teker*" data-date="2016-07-18T21:47:14+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 Different songs have different save types.  It looks to me like the appropriate APPLY_XXX modifier is used when calculating the saves on songs.  Charisma is also used.  Spell bonus is not used when calculating damage.
 
 </div>
 
-<div class="post" data-post-id="37084" data-author="Hung" data-date="2016-07-19T10:23:59+00:00">
+<div class="post" data-post-id="37084" data-author="Hung" data-date="2016-07-19T10:23:59+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 Thanks for looking into it, Teker.  Sorry I didnt understand - what is APPLY_XXX modifier?
 
 </div>
 
-<div class="post" data-post-id="37085" data-author="Teron" data-date="2016-07-19T10:42:48+00:00">
+<div class="post" data-post-id="37085" data-author="Teron" data-date="2016-07-19T10:42:48+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 When I asked Splork a month or two ago, he actually said that -saves did not apply to blast/channelling bard songs, and he promised to look into it. That's the last time I heard from him.
 
 </div>
 
-<div class="post" data-post-id="37086" data-author="*Splork*" data-date="2016-07-19T11:34:22+00:00">
+<div class="post" data-post-id="37086" data-author="*Splork*" data-date="2016-07-19T11:34:22+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 It was actually quite a few months ago and thats the last anyone heard from me :P
 
 </div>
 
-<div class="post" data-post-id="37087" data-author="*teker*" data-date="2016-07-19T14:13:42+00:00">
+<div class="post" data-post-id="37087" data-author="*teker*" data-date="2016-07-19T14:13:42+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 > **Quote:**
 > Thanks for looking into it, Teker. Sorry I didnt understand - what is APPLY_XXX modifier?
@@ -74,7 +74,7 @@ I just looked at the code again and it turns out it doesn't look at the caster's
 
 </div>
 
-<div class="post" data-post-id="37095" data-author="Teron" data-date="2016-07-20T07:11:20+00:00">
+<div class="post" data-post-id="37095" data-author="Teron" data-date="2016-07-20T07:11:20+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 > ***teker* wrote:**
 > The caster's charisma is taken into account instead of their saves value.
@@ -89,7 +89,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37097" data-author="*teker*" data-date="2016-07-20T14:39:42+00:00">
+<div class="post" data-post-id="37097" data-author="*teker*" data-date="2016-07-20T14:39:42+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 > **Teron wrote:**
 > Does it mean that if I have +20 charisma, it thinks I have -20 saves and increases my damage accordingly?
@@ -98,7 +98,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37105" data-author="Teron" data-date="2016-07-22T06:44:33+00:00">
+<div class="post" data-post-id="37105" data-author="Teron" data-date="2016-07-22T06:44:33+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 So, practically, a bard with +20 charisma has pretty high chances of making the saves?
 
@@ -112,7 +112,7 @@ Thanks a bunch for clarifying this for me/us.
 
 </div>
 
-<div class="post" data-post-id="37134" data-author="*teker*" data-date="2016-07-25T14:49:35+00:00">
+<div class="post" data-post-id="37134" data-author="*teker*" data-date="2016-07-25T14:49:35+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 > **Teron wrote:**
 > So, practically, a bard with +20 charisma has pretty high chances of making the saves?
@@ -128,7 +128,7 @@ The cap formulas for saves and charisma are fairly different.  Both are based on
 
 </div>
 
-<div class="post" data-post-id="37136" data-author="Teron" data-date="2016-07-26T10:38:11+00:00">
+<div class="post" data-post-id="37136" data-author="Teron" data-date="2016-07-26T10:38:11+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 Yeah, I've done the math in [the other bard suggestions thread](http://www.slothmud.org/forum//viewtopic.php?t=4659) and I guess the amount of charisma is ok.
 
@@ -138,13 +138,13 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37138" data-author="*juggleblood*" data-date="2016-07-26T16:41:50+00:00">
+<div class="post" data-post-id="37138" data-author="*juggleblood*" data-date="2016-07-26T16:41:50+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 Dude, you're basically asking to nerf cry of the avatar. I don't want my cry to depend on my spellsaves. My spellsaves cap is like 12. Think about it, using charisma for both the save and damage means that the bard can focus on charisma and AC. I think you're crazy for wanting it to depend on spell save. It's a bard song, not a mage spell, hence the term "SPELL_saves".
 
 </div>
 
-<div class="post" data-post-id="37144" data-author="Teron" data-date="2016-07-27T06:18:27+00:00">
+<div class="post" data-post-id="37144" data-author="Teron" data-date="2016-07-27T06:18:27+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 I was asking if adding up those saves would work.
 
@@ -152,13 +152,13 @@ If the only way to make it work is to detach charisma and saves (ie, -saves won'
 
 </div>
 
-<div class="post" data-post-id="37145" data-author="*juggleblood*" data-date="2016-07-27T14:52:28+00:00">
+<div class="post" data-post-id="37145" data-author="*juggleblood*" data-date="2016-07-27T14:52:28+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 You still dont get it. It is better for the bard that saves don't count. What you are asking for is a penalty. When I'm area blasting stuff, in chaos pit for example, I don't want to have to be geared up in a charisma+saves mode. I want to be geared up in charisma+AC. Even if you come up with some formula that combines charisma and saves, it is ultimately a penalty. What is your bard's spellsave in max_charisma? Why even focus on this issue? I find my cry to be thoroughly satisfying.
 
 </div>
 
-<div class="post" data-post-id="37149" data-author="Teron" data-date="2016-07-28T09:15:06+00:00">
+<div class="post" data-post-id="37149" data-author="Teron" data-date="2016-07-28T09:15:06+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 That's precisely the point, I find my cry thoroughly lacking in solo coliseum.
 
@@ -172,7 +172,7 @@ On the other hand, bards in the chaos pit do rock, because they possess a mini f
 
 </div>
 
-<div class="post" data-post-id="37150" data-author="*Breeze*" data-date="2016-07-29T05:17:21+00:00">
+<div class="post" data-post-id="37150" data-author="*Breeze*" data-date="2016-07-29T05:17:21+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 I can just about guarantee we will not be adjusting skills/spells/basic game play based on coliseum. 
 
@@ -186,13 +186,13 @@ Maybe we do it for sloth 5. ;)
 
 </div>
 
-<div class="post" data-post-id="37151" data-author="Ker" data-date="2016-07-29T06:03:36+00:00">
+<div class="post" data-post-id="37151" data-author="Ker" data-date="2016-07-29T06:03:36+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 Hiiiiiiiiiiiiiiiiiiiiiiiiii Breezy!
 
 </div>
 
-<div class="post" data-post-id="37153" data-author="*Breeze*" data-date="2016-07-29T12:37:11+00:00">
+<div class="post" data-post-id="37153" data-author="*Breeze*" data-date="2016-07-29T12:37:11+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 > **Ker wrote:**
 > Hiiiiiiiiiiiiiiiiiiiiiiiiii Breezy!
@@ -201,7 +201,7 @@ Hey :)
 
 </div>
 
-<div class="post" data-post-id="37164" data-author="Teron" data-date="2016-08-03T04:18:06+00:00">
+<div class="post" data-post-id="37164" data-author="Teron" data-date="2016-08-03T04:18:06+00:00" data-subject="Re: Bards&#x27; blast, spell dam and spell saves">
 
 Just to be clear, Sochi has persuaded me that it won't be coded that -saves would only add to the bard saves, which means, like he says, if there are any changes, it'll only make things worse for the bard.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32518" data-author="Insomniac" data-date="2011-03-28T01:48:02+00:00">
+<div class="post" data-post-id="32518" data-author="Insomniac" data-date="2011-03-28T01:48:02+00:00" data-subject="New Area: Darken Wood">
 
 Rita's latest area opened today in BH. 
 

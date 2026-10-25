@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="30768" data-author="*Splork*" data-date="2010-01-31T21:25:37+00:00">
+<div class="post" data-post-id="30768" data-author="*Splork*" data-date="2010-01-31T21:25:37+00:00" data-subject="January 31, 2010, almost broke 50!">
 
 *Immortals of SlothMUD*
 
@@ -112,7 +112,7 @@ Highest total since last bootup: 47.
 
 </div>
 
-<div class="post" data-post-id="30770" data-author="Toxis" data-date="2010-01-31T22:25:56+00:00">
+<div class="post" data-post-id="30770" data-author="Toxis" data-date="2010-01-31T22:25:56+00:00" data-subject="">
 
 Where'd all these new people come from?
 
@@ -122,7 +122,7 @@ Things are going well, would like to see a few more high level warriors playing,
 
 </div>
 
-<div class="post" data-post-id="30779" data-author="Xamak" data-date="2010-02-01T13:33:59+00:00">
+<div class="post" data-post-id="30779" data-author="Xamak" data-date="2010-02-01T13:33:59+00:00" data-subject="">
 
 I would ask everyone to please encourage the real newbies.  Whenever possible, I try and give them a hand, some gold and newbie equipment to get going.  Also, if you show them around their starting town, get them a god to worship and show them how to read a spellbook and get a level or two, I think many more of them will stay and help increase our playerbase.  
 
@@ -132,7 +132,7 @@ Xamak
 
 </div>
 
-<div class="post" data-post-id="30893" data-author="*Splork*" data-date="2010-02-14T20:02:01+00:00">
+<div class="post" data-post-id="30893" data-author="*Splork*" data-date="2010-02-14T20:02:01+00:00" data-subject="Feb 14th, almost 50!">
 
 *Immortals of SlothMUD*
 
@@ -242,19 +242,19 @@ Highest total since last bootup: 48.
 
 </div>
 
-<div class="post" data-post-id="30894" data-author="Toxis" data-date="2010-02-15T07:41:36+00:00">
+<div class="post" data-post-id="30894" data-author="Toxis" data-date="2010-02-15T07:41:36+00:00" data-subject="">
 
 Don't forget to keep voting every single day. :)
 
 </div>
 
-<div class="post" data-post-id="30895" data-author="jex" data-date="2010-02-17T01:08:36+00:00">
+<div class="post" data-post-id="30895" data-author="jex" data-date="2010-02-17T01:08:36+00:00" data-subject="">
 
 i think ppl more like waiting isabo giving quest :P
 
 </div>
 
-<div class="post" data-post-id="30963" data-author="*Splork*" data-date="2010-03-14T22:45:07+00:00">
+<div class="post" data-post-id="30963" data-author="*Splork*" data-date="2010-03-14T22:45:07+00:00" data-subject="March 14th, 2010- 46">
 
 Immortals of SlothMUD*
 

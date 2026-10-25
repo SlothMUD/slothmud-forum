@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="11727" data-author="*Splork*" data-date="2006-03-23T03:15:16+00:00">
+<div class="post" data-post-id="11727" data-author="*Splork*" data-date="2006-03-23T03:15:16+00:00" data-subject="Builder&#x27;s port">
 
 Ok, Ive been speaking with Jake and we will try to get a builders port up, hopefully rather soon.
 
@@ -22,7 +22,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="11729" data-author="Toxis" data-date="2006-03-23T03:30:15+00:00">
+<div class="post" data-post-id="11729" data-author="Toxis" data-date="2006-03-23T03:30:15+00:00" data-subject="">
 
 Brilliant.  I want in.  Now I don't have to deal with BS, all I have to do is just build :)
 
@@ -32,13 +32,13 @@ Toxis
 
 </div>
 
-<div class="post" data-post-id="11730" data-author="Rajil" data-date="2006-03-23T03:55:07+00:00">
+<div class="post" data-post-id="11730" data-author="Rajil" data-date="2006-03-23T03:55:07+00:00" data-subject="">
 
 Sounds good, hope it pushes through.
 
 </div>
 
-<div class="post" data-post-id="11731" data-author="Autolycos" data-date="2006-03-23T04:04:16+00:00">
+<div class="post" data-post-id="11731" data-author="Autolycos" data-date="2006-03-23T04:04:16+00:00" data-subject="">
 
 Brilliant.  I want in.  Now I don't have to deal with BS, all I have to do is just build :)
 
@@ -50,13 +50,13 @@ yeah... we would hate to see you scrub out another imm brad  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11733" data-author="Weasel" data-date="2006-03-23T05:20:04+00:00">
+<div class="post" data-post-id="11733" data-author="Weasel" data-date="2006-03-23T05:20:04+00:00" data-subject="">
 
 Good stuff.
 
 </div>
 
-<div class="post" data-post-id="11745" data-author="Alberich" data-date="2006-03-23T15:26:07+00:00">
+<div class="post" data-post-id="11745" data-author="Alberich" data-date="2006-03-23T15:26:07+00:00" data-subject="">
 
 that sounds really cool.
 
@@ -64,7 +64,7 @@ who do we see about getting an account on it? :)
 
 </div>
 
-<div class="post" data-post-id="11780" data-author="*Splork*" data-date="2006-03-24T21:32:44+00:00">
+<div class="post" data-post-id="11780" data-author="*Splork*" data-date="2006-03-24T21:32:44+00:00" data-subject="">
 
 Please either  mudmail or email me at splork@slothmud.org if you are interested in creating for SlothMUD on our builders port.
 
@@ -80,13 +80,13 @@ The port is up and running. Simply doing a few finishing touches. On a side note
 
 </div>
 
-<div class="post" data-post-id="11782" data-author="Weasel" data-date="2006-03-25T02:35:36+00:00">
+<div class="post" data-post-id="11782" data-author="Weasel" data-date="2006-03-25T02:35:36+00:00" data-subject="">
 
 I'd be keen but timing isn't good for me atm - too much study to do (which is why I'm afk so much) but good to see this opportunity out there.
 
 </div>
 
-<div class="post" data-post-id="11784" data-author="Clink" data-date="2006-03-25T04:21:14+00:00">
+<div class="post" data-post-id="11784" data-author="Clink" data-date="2006-03-25T04:21:14+00:00" data-subject="">
 
 Just think, if you had written 1 room in a new for every 10 posts on the crier you'd almost have a 100 room area!   :lol: 
 
@@ -96,13 +96,13 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="11785" data-author="Weasel" data-date="2006-03-25T05:26:48+00:00">
+<div class="post" data-post-id="11785" data-author="Weasel" data-date="2006-03-25T05:26:48+00:00" data-subject="">
 
 heh true.. but I know that once I made a start on something like that, I'd want to keep going until I finished.
 
 </div>
 
-<div class="post" data-post-id="11814" data-author="*Splork*" data-date="2006-03-26T17:19:17+00:00">
+<div class="post" data-post-id="11814" data-author="*Splork*" data-date="2006-03-26T17:19:17+00:00" data-subject="">
 
 The builder's port is open for business and I would like to congratulate Rub for being the first player accepted. 
 

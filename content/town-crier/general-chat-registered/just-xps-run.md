@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34413" data-author="Tuck" data-date="2013-09-02T03:28:46+00:00">
+<div class="post" data-post-id="34413" data-author="Tuck" data-date="2013-09-02T03:28:46+00:00" data-subject="Just xps run.">
 
 Tracking XPs for 46 minutes. XPs since start: 1185.59M. My rate: 1546.42M/hour.
 

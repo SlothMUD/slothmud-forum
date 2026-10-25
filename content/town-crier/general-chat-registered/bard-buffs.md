@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39803" data-author="Gorka" data-date="2021-09-01T05:45:48+00:00">
+<div class="post" data-post-id="39803" data-author="Gorka" data-date="2021-09-01T05:45:48+00:00" data-subject="Bard Buffs">
 
 > **Quote:**
 > For those of you who feel like your prime class needs balancing in some aspect of the game, feel free to post ideas on the forum (don't just criticize, because that's easy to do and helps nothing).
@@ -33,7 +33,7 @@ Slow incremental changes until a better balance is found.
 
 </div>
 
-<div class="post" data-post-id="39804" data-author="Gorka" data-date="2021-09-01T06:27:28+00:00">
+<div class="post" data-post-id="39804" data-author="Gorka" data-date="2021-09-01T06:27:28+00:00" data-subject="Re: Bard Buffs">
 
 A magical bag for corpses would also be useful. Not sure the best way to approach it, whether corpses in the bag could be automatically embalmed, or perhaps the bag has a corpse cap? 5? 10? Obviously the issue it is overcoming would be the games silly weight mechanics. The logistics that the game throws up regarding weight issues has always been a bit on the heavy side.
 

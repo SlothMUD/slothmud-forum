@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="31860" data-author="*Isabo*" data-date="2010-10-11T03:08:55+00:00">
+<div class="post" data-post-id="31860" data-author="*Isabo*" data-date="2010-10-11T03:08:55+00:00" data-subject="Save the maps, save the world">
 
 Greetings, mortals.
 
@@ -97,7 +97,7 @@ Pd. I had a million ideas to write down and I am prolly forgetting something, so
 
 </div>
 
-<div class="post" data-post-id="31861" data-author="*Isabo*" data-date="2010-10-11T03:10:53+00:00">
+<div class="post" data-post-id="31861" data-author="*Isabo*" data-date="2010-10-11T03:10:53+00:00" data-subject="Re: Save the maps, save the world">
 
 Greetings, mortals.
 
@@ -109,7 +109,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="31863" data-author="Tuck" data-date="2010-10-12T18:41:36+00:00">
+<div class="post" data-post-id="31863" data-author="Tuck" data-date="2010-10-12T18:41:36+00:00" data-subject="Re: Save the maps, save the world">
 
 ok, we all are considering it as a world quest. no whines.
 
@@ -117,7 +117,7 @@ ok, we all are considering it as a world quest. no whines.
 
 </div>
 
-<div class="post" data-post-id="31878" data-author="*Isabo*" data-date="2010-10-17T16:09:56+00:00">
+<div class="post" data-post-id="31878" data-author="*Isabo*" data-date="2010-10-17T16:09:56+00:00" data-subject="Re: Save the maps, save the world">
 
 Greetings, mortals.
 
@@ -135,7 +135,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="31882" data-author="*Breeze*" data-date="2010-10-18T07:45:05+00:00">
+<div class="post" data-post-id="31882" data-author="*Breeze*" data-date="2010-10-18T07:45:05+00:00" data-subject="Re: Save the maps, save the world">
 
 Graveyard map for BH is posted.
 
@@ -145,7 +145,7 @@ Thanks Luna.
 
 </div>
 
-<div class="post" data-post-id="31886" data-author="Spink" data-date="2010-10-18T18:18:03+00:00">
+<div class="post" data-post-id="31886" data-author="Spink" data-date="2010-10-18T18:18:03+00:00" data-subject="Re: Save the maps, save the world">
 
 Nice job on the map, Luna! 
 
@@ -153,7 +153,7 @@ I particularly like that you added the dark room comment.
 
 </div>
 
-<div class="post" data-post-id="31930" data-author="*Isabo*" data-date="2010-10-24T23:12:16+00:00">
+<div class="post" data-post-id="31930" data-author="*Isabo*" data-date="2010-10-24T23:12:16+00:00" data-subject="Re: Save the maps, save the world">
 
 Greetings, mortals.
 
@@ -173,7 +173,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="31931" data-author="*Breeze*" data-date="2010-10-25T03:45:45+00:00">
+<div class="post" data-post-id="31931" data-author="*Breeze*" data-date="2010-10-25T03:45:45+00:00" data-subject="Re: Save the maps, save the world">
 
 very nice Luna
 
@@ -212,7 +212,7 @@ very nice Luna
 
 </div>
 
-<div class="post" data-post-id="31949" data-author="*Isabo*" data-date="2010-10-31T19:08:17+00:00">
+<div class="post" data-post-id="31949" data-author="*Isabo*" data-date="2010-10-31T19:08:17+00:00" data-subject="Re: Save the maps, save the world">
 
 Greeting, mortals.
 
@@ -232,7 +232,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="31950" data-author="*Breeze*" data-date="2010-10-31T22:46:21+00:00">
+<div class="post" data-post-id="31950" data-author="*Breeze*" data-date="2010-10-31T22:46:21+00:00" data-subject="Re: Save the maps, save the world">
 
 Kendermoore
 
@@ -248,7 +248,7 @@ having said that, it is not 100% mandatory, but it cant hurt to sway Curtis, the
 
 </div>
 
-<div class="post" data-post-id="31992" data-author="*Isabo*" data-date="2010-11-07T21:10:06+00:00">
+<div class="post" data-post-id="31992" data-author="*Isabo*" data-date="2010-11-07T21:10:06+00:00" data-subject="Re: Save the maps, save the world">
 
 Greetings, mortals.
 
@@ -264,7 +264,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="31993" data-author="*Breeze*" data-date="2010-11-07T21:19:17+00:00">
+<div class="post" data-post-id="31993" data-author="*Breeze*" data-date="2010-11-07T21:19:17+00:00" data-subject="Re: Save the maps, save the world">
 
 Posted.  
 
@@ -274,7 +274,7 @@ Nice map Cizin.  Even if the background isn't transparent ;)
 
 </div>
 
-<div class="post" data-post-id="32030" data-author="*Isabo*" data-date="2010-11-14T17:49:06+00:00">
+<div class="post" data-post-id="32030" data-author="*Isabo*" data-date="2010-11-14T17:49:06+00:00" data-subject="Re: Save the maps, save the world">
 
 Greetings, mortals.
 
@@ -292,7 +292,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="32039" data-author="*Breeze*" data-date="2010-11-15T09:08:03+00:00">
+<div class="post" data-post-id="32039" data-author="*Breeze*" data-date="2010-11-15T09:08:03+00:00" data-subject="Re: Save the maps, save the world">
 
 Great Job on Argosian Wreckage map, Wimpy!
 
@@ -321,7 +321,7 @@ Pardon on my incoherence at times.  Been awake 20+ hours so bedtime :)
 
 </div>
 
-<div class="post" data-post-id="32095" data-author="*Isabo*" data-date="2010-11-21T18:41:05+00:00">
+<div class="post" data-post-id="32095" data-author="*Isabo*" data-date="2010-11-21T18:41:05+00:00" data-subject="Re: Save the maps, save the world">
 
 Greetings, mortals.
 
@@ -356,13 +356,13 @@ if still not, find me ingame :)
 
 </div>
 
-<div class="post" data-post-id="33161" data-author="Stark" data-date="2012-02-16T15:37:04+00:00">
+<div class="post" data-post-id="33161" data-author="Stark" data-date="2012-02-16T15:37:04+00:00" data-subject="Re: Save the maps, save the world">
 
 Necro bumping this.  I noticed things apparently got held up at the BH continent map.  Is anyone still interested in receiving this kind of map?  Because I have some interest in making one
 
 </div>
 
-<div class="post" data-post-id="33162" data-author="*Isabo*" data-date="2012-02-16T16:56:34+00:00">
+<div class="post" data-post-id="33162" data-author="*Isabo*" data-date="2012-02-16T16:56:34+00:00" data-subject="Re: Save the maps, save the world">
 
 Greetings, necro.
 

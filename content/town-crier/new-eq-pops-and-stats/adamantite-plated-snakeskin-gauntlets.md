@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33289" data-author="*Pixie*" data-date="2012-04-30T00:03:06+00:00">
+<div class="post" data-post-id="33289" data-author="*Pixie*" data-date="2012-04-30T00:03:06+00:00" data-subject="Adamantite-plated Snakeskin Gauntlets">
 
 The note for this item was missing a few lines so I decided to post those lines for you until the note is changed ingame.
 
@@ -26,7 +26,7 @@ warrior who has attained supremacy in at least six classes.
 
 </div>
 
-<div class="post" data-post-id="33294" data-author="*Pixie*" data-date="2012-05-04T00:20:50+00:00">
+<div class="post" data-post-id="33294" data-author="*Pixie*" data-date="2012-05-04T00:20:50+00:00" data-subject="Re: Adamantite-plated Snakeskin Gauntlets">
 
 Alright I hope this is the last update on this forge note!
 

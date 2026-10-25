@@ -10,7 +10,7 @@ locked: false
 post_count: 76
 ---
 
-<div class="post" data-post-id="12013" data-author="Mike" data-date="2006-04-08T15:20:37+00:00">
+<div class="post" data-post-id="12013" data-author="Mike" data-date="2006-04-08T15:20:37+00:00" data-subject="Oath and vows">
 
 Not sure if it is a bug, but it looks strange to me. 
 
@@ -46,25 +46,25 @@ It`s not a big deal anyway, but broke my reputation because mob disengage is a b
 
 </div>
 
-<div class="post" data-post-id="12014" data-author="brady" data-date="2006-04-08T16:18:22+00:00">
+<div class="post" data-post-id="12014" data-author="brady" data-date="2006-04-08T16:18:22+00:00" data-subject="">
 
 eww look, it's Nelson...sorry to hear about your brother.  :x
 
 </div>
 
-<div class="post" data-post-id="12016" data-author="Rajil" data-date="2006-04-08T18:17:18+00:00">
+<div class="post" data-post-id="12016" data-author="Rajil" data-date="2006-04-08T18:17:18+00:00" data-subject="">
 
 I'm guessing Oaths no longer crashes the mud?
 
 </div>
 
-<div class="post" data-post-id="12017" data-author="kjartan" data-date="2006-04-08T18:36:57+00:00">
+<div class="post" data-post-id="12017" data-author="kjartan" data-date="2006-04-08T18:36:57+00:00" data-subject="">
 
 Yeah, it's safe now.  And I will need to fix that disengage thing.  Probably if the mob flees that will also break the oath, need to look at that too.
 
 </div>
 
-<div class="post" data-post-id="12018" data-author="Mike" data-date="2006-04-08T20:43:11+00:00">
+<div class="post" data-post-id="12018" data-author="Mike" data-date="2006-04-08T20:43:11+00:00" data-subject="">
 
 You swear a mighty oath of victory over Lrogg!
 
@@ -122,13 +122,13 @@ Is it the same thing with disengage or some proc on mob that makes same effect? 
 
 </div>
 
-<div class="post" data-post-id="12019" data-author="kjartan" data-date="2006-04-08T20:46:51+00:00">
+<div class="post" data-post-id="12019" data-author="kjartan" data-date="2006-04-08T20:46:51+00:00" data-subject="">
 
 I can't say I know what happened there.  I'll look into it.  At some point when we have the bugs all out of the oaths, we'll have an amnesty where we forgive everybody their broken oaths.
 
 </div>
 
-<div class="post" data-post-id="12020" data-author="Mike" data-date="2006-04-09T05:48:52+00:00">
+<div class="post" data-post-id="12020" data-author="Mike" data-date="2006-04-09T05:48:52+00:00" data-subject="">
 
 Probably if the mob flees that will also break the oath, need to look at that too.[/quote:2mno7b7y]
 
@@ -142,19 +142,19 @@ You've broken your oath of victory!
 
 </div>
 
-<div class="post" data-post-id="12026" data-author="Vixn" data-date="2006-04-09T16:30:19+00:00">
+<div class="post" data-post-id="12026" data-author="Vixn" data-date="2006-04-09T16:30:19+00:00" data-subject="">
 
 Somebody stop Mike. His only target is to disconsider the idea of 'oaths and vows'. Thanks.
 
 </div>
 
-<div class="post" data-post-id="12029" data-author="kjartan" data-date="2006-04-09T21:13:28+00:00">
+<div class="post" data-post-id="12029" data-author="kjartan" data-date="2006-04-09T21:13:28+00:00" data-subject="">
 
 The flee and disengage issues should be fixed after the next crash or reboot.  I don't understand what happened with the dragon - if you see that again (after reboot), please let me know.
 
 </div>
 
-<div class="post" data-post-id="12041" data-author="Rajil" data-date="2006-04-10T14:06:03+00:00">
+<div class="post" data-post-id="12041" data-author="Rajil" data-date="2006-04-10T14:06:03+00:00" data-subject="">
 
 Another one...
 
@@ -168,7 +168,7 @@ You've broken your oath of victory!
 
 </div>
 
-<div class="post" data-post-id="12042" data-author="kjartan" data-date="2006-04-10T15:49:49+00:00">
+<div class="post" data-post-id="12042" data-author="kjartan" data-date="2006-04-10T15:49:49+00:00" data-subject="">
 
 Ok, I'll fix that, fix will go in tomorrow.
 
@@ -176,7 +176,7 @@ I am working on more oaths; probably at least one new one will go in this week a
 
 </div>
 
-<div class="post" data-post-id="12043" data-author="Krok" data-date="2006-04-10T16:19:51+00:00">
+<div class="post" data-post-id="12043" data-author="Krok" data-date="2006-04-10T16:19:51+00:00" data-subject="">
 
 A pit fiend slashes Captain Morgan extremely hard.
 
@@ -196,7 +196,7 @@ Captain Morgan misses you with his hit.
 
 </div>
 
-<div class="post" data-post-id="12048" data-author="Autolycos" data-date="2006-04-10T17:23:02+00:00">
+<div class="post" data-post-id="12048" data-author="Autolycos" data-date="2006-04-10T17:23:02+00:00" data-subject="">
 
 Next time take a 2nd bottle with you!  :twisted: 
 
@@ -204,13 +204,13 @@ Captain Morgan yells 'the rums gone?  BUT WHY IS THE RUM GONE?'
 
 </div>
 
-<div class="post" data-post-id="12075" data-author="kjartan" data-date="2006-04-11T16:31:14+00:00">
+<div class="post" data-post-id="12075" data-author="kjartan" data-date="2006-04-11T16:31:14+00:00" data-subject="">
 
 The oath of victory should be fixed now.  Please let me know if there are any more instances of it breaking spontaneously.  (In some circumstances you will neither fulfill nor break the oath, for example if an immortal shows up and stops the combat - in that case it will just end.)
 
 </div>
 
-<div class="post" data-post-id="12148" data-author="Rajil" data-date="2006-04-19T17:08:37+00:00">
+<div class="post" data-post-id="12148" data-author="Rajil" data-date="2006-04-19T17:08:37+00:00" data-subject="">
 
 I attacked a mob and successfully swore victory. Viscount Durken tossed me out of the room ... I went back in and killed him, but it seemed my oath was nullified.
 
@@ -220,7 +220,7 @@ Something wrong?
 
 </div>
 
-<div class="post" data-post-id="12150" data-author="kjartan" data-date="2006-04-19T17:34:35+00:00">
+<div class="post" data-post-id="12150" data-author="kjartan" data-date="2006-04-19T17:34:35+00:00" data-subject="">
 
 As far as the toss, no, if the combat is broken off due to some weirdness like being tossed out of the room, the oath ends, and is counted as neither a success nor a failure.  If you want you can swear victory again once you have reengaged the mob.  I don't really see any other way of handling this, as I don't want people walking around with a bunch of unfulfilled victory oaths but you could have just walked off at that point and never resolved the fight.
 
@@ -228,19 +228,19 @@ As far as the pets, I am guessing that you weren't engaged with the mob?  It wou
 
 </div>
 
-<div class="post" data-post-id="12152" data-author="Guinex" data-date="2006-04-19T17:50:06+00:00">
+<div class="post" data-post-id="12152" data-author="Guinex" data-date="2006-04-19T17:50:06+00:00" data-subject="">
 
 The last time I used oaths a couple of days ago, i was probably four down on the prot chain, and i ended up taking 3/4 of the hits and died.  I saw this happen to a few people in the group, unfortunately i did not save any logs on this.  I can test it again tonight to see if it is still doing so, from what it looks though it is pulling in the new swear with it.
 
 </div>
 
-<div class="post" data-post-id="12154" data-author="kjartan" data-date="2006-04-19T18:08:37+00:00">
+<div class="post" data-post-id="12154" data-author="kjartan" data-date="2006-04-19T18:08:37+00:00" data-subject="">
 
 Ooh, that's bad!  I'll have a look tonight.  Although possibly you just had bad luck, because oath of protection doesn't do that - it improves your ability to rescue and protect, but it doesn't make other people protecting you more likely to fail.
 
 </div>
 
-<div class="post" data-post-id="12155" data-author="Vixn" data-date="2006-04-19T18:53:04+00:00">
+<div class="post" data-post-id="12155" data-author="Vixn" data-date="2006-04-19T18:53:04+00:00" data-subject="">
 
 Edd [BH] .. Hereticus ..   (level: 40)
 
@@ -274,13 +274,13 @@ what does it mean?
 
 </div>
 
-<div class="post" data-post-id="12156" data-author="Guinex" data-date="2006-04-19T19:06:05+00:00">
+<div class="post" data-post-id="12156" data-author="Guinex" data-date="2006-04-19T19:06:05+00:00" data-subject="">
 
 I don't think it was just bad luck, it seemed pretty clear what the cause was.  It wasn't just me that it had happened to, and on numerous mobs.
 
 </div>
 
-<div class="post" data-post-id="12157" data-author="Shazuko" data-date="2006-04-19T21:23:52+00:00">
+<div class="post" data-post-id="12157" data-author="Shazuko" data-date="2006-04-19T21:23:52+00:00" data-subject="">
 
 It happened to me and Caldrick as well...at the same time...
 
@@ -292,13 +292,13 @@ Shazuko Roku Ryuu
 
 </div>
 
-<div class="post" data-post-id="12161" data-author="kjartan" data-date="2006-04-20T03:14:58+00:00">
+<div class="post" data-post-id="12161" data-author="kjartan" data-date="2006-04-20T03:14:58+00:00" data-subject="">
 
 Ah, now I remember: that's a feature, not a bug.  Or, let me put it like this: the gods do not value such oaths if you aren't in any danger.
 
 </div>
 
-<div class="post" data-post-id="12162" data-author="12345" data-date="2006-04-20T03:58:11+00:00">
+<div class="post" data-post-id="12162" data-author="12345" data-date="2006-04-20T03:58:11+00:00" data-subject="">
 
 But do the gods value helpfiles?
 
@@ -306,13 +306,13 @@ It's probably already there, but if it isn't, it should be.
 
 </div>
 
-<div class="post" data-post-id="12170" data-author="Guinex" data-date="2006-04-20T06:19:28+00:00">
+<div class="post" data-post-id="12170" data-author="Guinex" data-date="2006-04-20T06:19:28+00:00" data-subject="">
 
 what does the victory swear have to do with danger?
 
 </div>
 
-<div class="post" data-post-id="12171" data-author="Vixn" data-date="2006-04-20T06:29:14+00:00">
+<div class="post" data-post-id="12171" data-author="Vixn" data-date="2006-04-20T06:29:14+00:00" data-subject="">
 
 Oaths & vows seems very nice to me cause it bring new power to warriors and old classoes. But do we need ton of oaths that doesn't work?
 
@@ -322,13 +322,13 @@ Thanks  :twisted:
 
 </div>
 
-<div class="post" data-post-id="12193" data-author="kjartan" data-date="2006-04-20T15:54:41+00:00">
+<div class="post" data-post-id="12193" data-author="kjartan" data-date="2006-04-20T15:54:41+00:00" data-subject="">
 
 You're the only one who reported that particular bug.  I will have a look at it.  As I'm sure I have said before, we only have the patience for a limited amount of testing before we put in new features, and so some bugs slip through.  Oath of Victory had more than usual, because it is actually a very complicated feature from a code standpoint - before that, the game never really tracked whether you won, lost, or drew a combat.
 
 </div>
 
-<div class="post" data-post-id="12195" data-author="madmax" data-date="2006-04-20T17:17:14+00:00">
+<div class="post" data-post-id="12195" data-author="madmax" data-date="2006-04-20T17:17:14+00:00" data-subject="">
 
 Madmax Thanks Enea <*GT*>  (level: 40)
 
@@ -366,7 +366,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="12196" data-author="Vixn" data-date="2006-04-20T18:08:57+00:00">
+<div class="post" data-post-id="12196" data-author="Vixn" data-date="2006-04-20T18:08:57+00:00" data-subject="">
 
 You're the only one who reported that particular bug.  I will have a look at it.  As I'm sure I have said before, we only have the patience for a limited amount of testing before we put in new features, and so some bugs slip through.  Oath of Victory had more than usual, because it is actually a very complicated feature from a code standpoint - before that, the game never really tracked whether you won, lost, or drew a combat.[/quote:2f07sb6l]
 
@@ -376,7 +376,7 @@ Peace.  :roll:
 
 </div>
 
-<div class="post" data-post-id="12197" data-author="Ditheca" data-date="2006-04-20T19:46:22+00:00">
+<div class="post" data-post-id="12197" data-author="Ditheca" data-date="2006-04-20T19:46:22+00:00" data-subject="Oaths + xp bug?">
 
 This happened twice in about 3 minutes.  I killed a mob and got no xps.  I post it here because I think it likely that the oaths and vows code is causing the error.  In both cases I was not fighting the mob until I made the killing blow.
 
@@ -454,43 +454,43 @@ There were 11392 coins.
 
 </div>
 
-<div class="post" data-post-id="12198" data-author="kjartan" data-date="2006-04-20T20:37:15+00:00">
+<div class="post" data-post-id="12198" data-author="kjartan" data-date="2006-04-20T20:37:15+00:00" data-subject="">
 
 Ok, I will have a look at that too.  I will probably be able to get to these tonight, US Pacific time.
 
 </div>
 
-<div class="post" data-post-id="12325" data-author="kjartan" data-date="2006-04-22T15:50:51+00:00">
+<div class="post" data-post-id="12325" data-author="kjartan" data-date="2006-04-22T15:50:51+00:00" data-subject="">
 
 The problem with people learning the skill oath of victory should be fixed next crash or reboot.
 
 </div>
 
-<div class="post" data-post-id="12327" data-author="kjartan" data-date="2006-04-22T20:50:49+00:00">
+<div class="post" data-post-id="12327" data-author="kjartan" data-date="2006-04-22T20:50:49+00:00" data-subject="">
 
 I don't think the oaths could be causing the missing xp problem; has then continued to happen?
 
 </div>
 
-<div class="post" data-post-id="12328" data-author="Guinex" data-date="2006-04-22T22:39:39+00:00">
+<div class="post" data-post-id="12328" data-author="Guinex" data-date="2006-04-22T22:39:39+00:00" data-subject="">
 
 Ditheca isn't even a warrior, why he posted that on this thread, well we may never know.
 
 </div>
 
-<div class="post" data-post-id="12330" data-author="Choong" data-date="2006-04-23T01:30:57+00:00">
+<div class="post" data-post-id="12330" data-author="Choong" data-date="2006-04-23T01:30:57+00:00" data-subject="">
 
 Is this a wa prime only skill? Coz I when I tried to undertake the auto, it says your are not high level enough to undertake this
 
 </div>
 
-<div class="post" data-post-id="12333" data-author="kjartan" data-date="2006-04-23T03:09:46+00:00">
+<div class="post" data-post-id="12333" data-author="kjartan" data-date="2006-04-23T03:09:46+00:00" data-subject="">
 
 That's the aforementioned bug - the game hasn't rebooted yet.  After next reboot you should be ok.  It's not prime-only.
 
 </div>
 
-<div class="post" data-post-id="12338" data-author="Vixn" data-date="2006-04-23T16:34:38+00:00">
+<div class="post" data-post-id="12338" data-author="Vixn" data-date="2006-04-23T16:34:38+00:00" data-subject="">
 
 [quote:1a9nqwzf]<635hp 87ma 175mv -2.1ac -9al>
 
@@ -512,7 +512,7 @@ Is it still broken or should we just wait till another reboot?
 
 </div>
 
-<div class="post" data-post-id="12345" data-author="Vixn" data-date="2006-04-24T12:44:37+00:00">
+<div class="post" data-post-id="12345" data-author="Vixn" data-date="2006-04-24T12:44:37+00:00" data-subject="Oaths &amp; vows still broken">
 
 Last bootup: Mon Apr 24 09:30:47 2006
 
@@ -528,13 +528,13 @@ Narmer tells you 'Sadly, you aren't eligible for this quest because you must be 
 
 </div>
 
-<div class="post" data-post-id="12348" data-author="kjartan" data-date="2006-04-24T16:51:13+00:00">
+<div class="post" data-post-id="12348" data-author="kjartan" data-date="2006-04-24T16:51:13+00:00" data-subject="">
 
 Argh.  Well, it worked for me.  I will have to try it with your character.  Probably I can get to it tonight.
 
 </div>
 
-<div class="post" data-post-id="12349" data-author="deucer" data-date="2006-04-24T20:39:44+00:00">
+<div class="post" data-post-id="12349" data-author="deucer" data-date="2006-04-24T20:39:44+00:00" data-subject="">
 
 You ask Narmer about kenji.
 
@@ -546,19 +546,19 @@ Narmer tells you 'Sadly, you aren't eligible for this quest because you must be 
 
 </div>
 
-<div class="post" data-post-id="12350" data-author="kjartan" data-date="2006-04-25T03:58:15+00:00">
+<div class="post" data-post-id="12350" data-author="kjartan" data-date="2006-04-25T03:58:15+00:00" data-subject="">
 
 Ok, I think it's fixed now.  (I had changed the name of the skill to 'oath of victory', but I forgot to tell Narmer.)
 
 </div>
 
-<div class="post" data-post-id="12351" data-author="Vixn" data-date="2006-04-25T05:44:31+00:00">
+<div class="post" data-post-id="12351" data-author="Vixn" data-date="2006-04-25T05:44:31+00:00" data-subject="">
 
 Thank a lot. Narmer is just a warrior that's why I don't surprise he can't make a conjecture.
 
 </div>
 
-<div class="post" data-post-id="12356" data-author="Shyla" data-date="2006-04-25T16:32:58+00:00">
+<div class="post" data-post-id="12356" data-author="Shyla" data-date="2006-04-25T16:32:58+00:00" data-subject="">
 
 hmm since you are answering questions about oath of victory is there any reason it is on my practice unlearned list even though i did the quest when it was first put in?
 
@@ -568,19 +568,19 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="12359" data-author="kjartan" data-date="2006-04-25T19:13:08+00:00">
+<div class="post" data-post-id="12359" data-author="kjartan" data-date="2006-04-25T19:13:08+00:00" data-subject="">
 
 That's pretty strange.   (1) does it say 'oaths and vows' or 'oath of victory'?  and (2) can you do the oath?
 
 </div>
 
-<div class="post" data-post-id="12367" data-author="Vixn" data-date="2006-04-26T05:34:09+00:00">
+<div class="post" data-post-id="12367" data-author="Vixn" data-date="2006-04-26T05:34:09+00:00" data-subject="">
 
 I've done kenji quest yesterday (again thanks a lot KJ!) and now I have learned oath of victory at 100% though my dear friend Lob has it at 85%. He had done this quest some time ago, before it was changed to oath of victory. So he also has this skill in his prac unlearned list but I'm pretty sure that's just because he's a wa-prime dumbass :)
 
 </div>
 
-<div class="post" data-post-id="12372" data-author="Falsra" data-date="2006-04-26T11:12:30+00:00">
+<div class="post" data-post-id="12372" data-author="Falsra" data-date="2006-04-26T11:12:30+00:00" data-subject="">
 
 oath of victory       - Lvl: 35,           Learned  85%
 
@@ -588,7 +588,7 @@ and i am not wa-prime!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="12379" data-author="Shyla" data-date="2006-04-26T16:34:01+00:00">
+<div class="post" data-post-id="12379" data-author="Shyla" data-date="2006-04-26T16:34:01+00:00" data-subject="">
 
 <674hp 630ma 153mv>
 
@@ -604,25 +604,25 @@ I have no idea why this is all I am asking is can it be "fixed"
 
 </div>
 
-<div class="post" data-post-id="12380" data-author="kjartan" data-date="2006-04-26T16:39:06+00:00">
+<div class="post" data-post-id="12380" data-author="kjartan" data-date="2006-04-26T16:39:06+00:00" data-subject="">
 
 Yeah, I will add something to Narmer so that he will up you to 100% if you come to him with 85%.  However, I am going to be out of town for a few days, so probably not til next week.
 
 </div>
 
-<div class="post" data-post-id="12387" data-author="kjartan" data-date="2006-04-27T03:23:07+00:00">
+<div class="post" data-post-id="12387" data-author="kjartan" data-date="2006-04-27T03:23:07+00:00" data-subject="">
 
 Ok, I found some time to fix it.  If you're at 85, go talk to Narmer, he'll fix you right up.
 
 </div>
 
-<div class="post" data-post-id="12389" data-author="Shyla" data-date="2006-04-27T05:39:25+00:00">
+<div class="post" data-post-id="12389" data-author="Shyla" data-date="2006-04-27T05:39:25+00:00" data-subject="">
 
 thanks :)
 
 </div>
 
-<div class="post" data-post-id="12582" data-author="Chobbles" data-date="2006-05-18T16:38:13+00:00">
+<div class="post" data-post-id="12582" data-author="Chobbles" data-date="2006-05-18T16:38:13+00:00" data-subject="">
 
 Tiamat the dragon queen misses you with her claw.
 
@@ -690,13 +690,13 @@ Based on Kjartan's earlier post regarding tosses and oaths, I was under the impr
 
 </div>
 
-<div class="post" data-post-id="12609" data-author="kjartan" data-date="2006-05-20T15:34:28+00:00">
+<div class="post" data-post-id="12609" data-author="kjartan" data-date="2006-05-20T15:34:28+00:00" data-subject="">
 
 Fixed, in next crash or reboot.
 
 </div>
 
-<div class="post" data-post-id="12834" data-author="Mike" data-date="2006-06-01T21:48:41+00:00">
+<div class="post" data-post-id="12834" data-author="Mike" data-date="2006-06-01T21:48:41+00:00" data-subject="">
 
 <989hp 305ma 208mv -1>
 
@@ -744,19 +744,19 @@ Exits:
 
 </div>
 
-<div class="post" data-post-id="12836" data-author="kjartan" data-date="2006-06-01T22:06:16+00:00">
+<div class="post" data-post-id="12836" data-author="kjartan" data-date="2006-06-01T22:06:16+00:00" data-subject="">
 
 Ok, I'll have a look at it tonight.  I hope to eventually squash all of these.  Has anybody learned the oath of protection yet?
 
 </div>
 
-<div class="post" data-post-id="12841" data-author="kjartan" data-date="2006-06-02T01:17:29+00:00">
+<div class="post" data-post-id="12841" data-author="kjartan" data-date="2006-06-02T01:17:29+00:00" data-subject="">
 
 Fixed, incor.
 
 </div>
 
-<div class="post" data-post-id="12844" data-author="madmax" data-date="2006-06-02T02:23:54+00:00">
+<div class="post" data-post-id="12844" data-author="madmax" data-date="2006-06-02T02:23:54+00:00" data-subject="">
 
 oath of victory        - Lvl: 35,           Learned 100%
 
@@ -764,13 +764,13 @@ oath of protection    - Lvl: 37,           Learned 100%
 
 </div>
 
-<div class="post" data-post-id="12847" data-author="12345" data-date="2006-06-02T11:21:10+00:00">
+<div class="post" data-post-id="12847" data-author="12345" data-date="2006-06-02T11:21:10+00:00" data-subject="">
 
 Rynquald had protection learned.  Even had some fun learning it.  Think he pretty much broke off using it when we found out he couldn't disengage to reblind/reaegis/etc.  Seems to be a good skill for the top few of the protect chain though.
 
 </div>
 
-<div class="post" data-post-id="12849" data-author="madmax" data-date="2006-06-02T17:40:44+00:00">
+<div class="post" data-post-id="12849" data-author="madmax" data-date="2006-06-02T17:40:44+00:00" data-subject="">
 
 That is exactly what I have found for both of them.  It is impossible to disengage and cast.
 
@@ -780,7 +780,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="13017" data-author="Avatar" data-date="2006-06-18T02:55:15+00:00">
+<div class="post" data-post-id="13017" data-author="Avatar" data-date="2006-06-18T02:55:15+00:00" data-subject="Oaths">
 
 I learned Oath of Protection today, but it still shows in my PR Unlearned list.
 
@@ -796,19 +796,19 @@ Charles (char is Avatar)
 
 </div>
 
-<div class="post" data-post-id="13021" data-author="kjartan" data-date="2006-06-18T04:22:22+00:00">
+<div class="post" data-post-id="13021" data-author="kjartan" data-date="2006-06-18T04:22:22+00:00" data-subject="">
 
 That's not a bug.
 
 </div>
 
-<div class="post" data-post-id="13022" data-author="marchessa_the_red_witch" data-date="2006-06-18T07:44:18+00:00">
+<div class="post" data-post-id="13022" data-author="marchessa_the_red_witch" data-date="2006-06-18T07:44:18+00:00" data-subject="Oath of Protection">
 
 There should be some way for a tank to get the mobs attention from someone who has oath of protection. Rescue, which takes a person out of the fight, clearly isn't it. But what about "engage"?
 
 </div>
 
-<div class="post" data-post-id="13024" data-author="marchessa_the_red_witch" data-date="2006-06-18T08:26:16+00:00">
+<div class="post" data-post-id="13024" data-author="marchessa_the_red_witch" data-date="2006-06-18T08:26:16+00:00" data-subject="This should be regarded as a bug">
 
 Druscilla misses you with her claw.
 
@@ -850,7 +850,7 @@ But even putting what MIT students used to call "a screw" into it would be prefe
 
 </div>
 
-<div class="post" data-post-id="13039" data-author="Avatar" data-date="2006-06-19T05:28:01+00:00">
+<div class="post" data-post-id="13039" data-author="Avatar" data-date="2006-06-19T05:28:01+00:00" data-subject="Hmm">
 
 Well, it's interesting to have an autoquest with multiple endings.  Still, I think I think it sucks that we'd punish someone for actually listening to the content of the autoquest, then spending an extra 45 minutes performing the quest.
 
@@ -858,7 +858,7 @@ I can't believe I was chatting about how cool some of the new quests are.
 
 </div>
 
-<div class="post" data-post-id="13040" data-author="marchessa_the_red_witch" data-date="2006-06-19T16:45:24+00:00">
+<div class="post" data-post-id="13040" data-author="marchessa_the_red_witch" data-date="2006-06-19T16:45:24+00:00" data-subject="Multiple endings">
 
 The info in the quest is sufficient to make a good decision about it.
 
@@ -866,13 +866,13 @@ I listened, and while the mud alignment system is... odd ... it is pretty clear.
 
 </div>
 
-<div class="post" data-post-id="13041" data-author="kjartan" data-date="2006-06-19T17:53:09+00:00">
+<div class="post" data-post-id="13041" data-author="kjartan" data-date="2006-06-19T17:53:09+00:00" data-subject="">
 
 Yes, but now the gods can look at your level in that skill and if it's 98% instead of 100% judge you to be of better character.  From a gameplay standpoint, I'd say it doesn't make any measurable difference: you will blow the oath 1 time in 50, big deal.  And I agree with Marchessa: if all you wanted was to max out the skill, then you could have figured out from the quest info that the "jerk" ending would give you more plusses.  Ain't that just life.
 
 </div>
 
-<div class="post" data-post-id="13042" data-author="Avatar" data-date="2006-06-19T19:28:09+00:00">
+<div class="post" data-post-id="13042" data-author="Avatar" data-date="2006-06-19T19:28:09+00:00" data-subject="autoquest">
 
 I read all the information, and nothing led me to believe that it would be a worse ending.  I spent more time on the quest, found the right mob, made her happy, etc.  I guess it's not worth complaining about, except that the skill still shows up on my unlearned lists.  
 
@@ -882,7 +882,7 @@ Is there any way to reset an autoquest so I can just do it over?
 
 </div>
 
-<div class="post" data-post-id="13043" data-author="kjartan" data-date="2006-06-19T20:35:01+00:00">
+<div class="post" data-post-id="13043" data-author="kjartan" data-date="2006-06-19T20:35:01+00:00" data-subject="Re: autoquest">
 
 I guess it's not worth complaining about, except that the skill still shows up on my unlearned lists.[/quote:245p3re4]
 
@@ -890,25 +890,25 @@ How about I just make that particular skill not show up on your unlearned lists 
 
 </div>
 
-<div class="post" data-post-id="13044" data-author="Avatar" data-date="2006-06-19T21:35:11+00:00">
+<div class="post" data-post-id="13044" data-author="Avatar" data-date="2006-06-19T21:35:11+00:00" data-subject="95%">
 
 That would be fine with me.
 
 </div>
 
-<div class="post" data-post-id="13047" data-author="marchessa_the_red_witch" data-date="2006-06-20T06:16:48+00:00">
+<div class="post" data-post-id="13047" data-author="marchessa_the_red_witch" data-date="2006-06-20T06:16:48+00:00" data-subject="I think">
 
 Everyone has been set to 98% in the oath now.
 
 </div>
 
-<div class="post" data-post-id="13048" data-author="kjartan" data-date="2006-06-20T13:39:16+00:00">
+<div class="post" data-post-id="13048" data-author="kjartan" data-date="2006-06-20T13:39:16+00:00" data-subject="">
 
 Well, either way, it will now not show up on prac unlearned unless it's < 98%
 
 </div>
 
-<div class="post" data-post-id="13049" data-author="Medios" data-date="2006-06-20T21:52:41+00:00">
+<div class="post" data-post-id="13049" data-author="Medios" data-date="2006-06-20T21:52:41+00:00" data-subject="">
 
 Can someone explain to me what oaths actually does, other than get ppl in my groups killed for no reason?
 
@@ -916,7 +916,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13050" data-author="Avatar" data-date="2006-06-20T22:18:54+00:00">
+<div class="post" data-post-id="13050" data-author="Avatar" data-date="2006-06-20T22:18:54+00:00" data-subject="Oaths">
 
 I'm sorry to bring this up again KJ, but my Oath was set to 95% by the autoquest.  It's still 95%, and still on my unlearned list.
 
@@ -924,19 +924,19 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="13051" data-author="kjartan" data-date="2006-06-20T22:24:39+00:00">
+<div class="post" data-post-id="13051" data-author="kjartan" data-date="2006-06-20T22:24:39+00:00" data-subject="">
 
 Oh is it 95?  Whoops, I thought it was 98.  I will fix it to show up unlearned, sorry about that.
 
 </div>
 
-<div class="post" data-post-id="13059" data-author="marchessa_the_red_witch" data-date="2006-06-21T06:07:38+00:00">
+<div class="post" data-post-id="13059" data-author="marchessa_the_red_witch" data-date="2006-06-21T06:07:38+00:00" data-subject="Oath of Protection">
 
 Oath of victory adds about 200 hps, even going over your max - so I top out at 1080hps when uttering an oath fast against a mob that doesn't hit hard
 
 </div>
 
-<div class="post" data-post-id="13062" data-author="madmax" data-date="2006-06-21T15:42:12+00:00">
+<div class="post" data-post-id="13062" data-author="madmax" data-date="2006-06-21T15:42:12+00:00" data-subject="">
 
 KJ - can you fix this one too?
 
@@ -954,13 +954,13 @@ oath of victory       - Lvl: 35,           Learned  98%
 
 </div>
 
-<div class="post" data-post-id="13063" data-author="Weasel" data-date="2006-06-21T15:45:12+00:00">
+<div class="post" data-post-id="13063" data-author="Weasel" data-date="2006-06-21T15:45:12+00:00" data-subject="">
 
 heh yup.. I was 100% learned, now I'm 98% and it shows up as unlearned.. methinks you tweaked the wrong bit.
 
 </div>
 
-<div class="post" data-post-id="13064" data-author="kjartan" data-date="2006-06-21T16:13:01+00:00">
+<div class="post" data-post-id="13064" data-author="kjartan" data-date="2006-06-21T16:13:01+00:00" data-subject="">
 
 Argh.  Jeez, I even tested it and everything.  Well, I will try to figure it out some more later.
 

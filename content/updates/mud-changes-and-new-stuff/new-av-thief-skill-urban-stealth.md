@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5296" data-author="*Splork*" data-date="2005-03-29T00:01:11+00:00">
+<div class="post" data-post-id="5296" data-author="*Splork*" data-date="2005-03-29T00:01:11+00:00" data-subject="New Av/Thief skill: Urban Stealth">
 
 There is a new avatar thief skill called Urban stealth. Please refer to the help file for more information.
 

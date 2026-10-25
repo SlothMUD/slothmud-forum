@@ -10,7 +10,7 @@ locked: false
 post_count: 33
 ---
 
-<div class="post" data-post-id="27826" data-author="*Splork*" data-date="2009-01-22T21:18:38+00:00">
+<div class="post" data-post-id="27826" data-author="*Splork*" data-date="2009-01-22T21:18:38+00:00" data-subject="An Old WHO list">
 
 *Immortals of SlothMUD III*
 
@@ -138,13 +138,13 @@ Highest total since last bootup: 58.
 
 </div>
 
-<div class="post" data-post-id="27827" data-author="jezer" data-date="2009-01-22T22:25:57+00:00">
+<div class="post" data-post-id="27827" data-author="jezer" data-date="2009-01-22T22:25:57+00:00" data-subject="">
 
 I remember those days, all the banter over gossip between all the pirate members. They made the game fun. Oh and the coliseum worked back then...  :twisted: *nudge akasha*
 
 </div>
 
-<div class="post" data-post-id="27828" data-author="Yasik2" data-date="2009-01-22T22:48:53+00:00">
+<div class="post" data-post-id="27828" data-author="Yasik2" data-date="2009-01-22T22:48:53+00:00" data-subject="">
 
 08.11.2002[/color:26mlyxcf]
 
@@ -320,13 +320,13 @@ Link
 
 </div>
 
-<div class="post" data-post-id="27829" data-author="jezer" data-date="2009-01-22T23:00:26+00:00">
+<div class="post" data-post-id="27829" data-author="jezer" data-date="2009-01-22T23:00:26+00:00" data-subject="">
 
 Who is Helxen, do they have alts and do they still play? And who were you back then Yasik?
 
 </div>
 
-<div class="post" data-post-id="27832" data-author="Autolycos" data-date="2009-01-23T00:41:58+00:00">
+<div class="post" data-post-id="27832" data-author="Autolycos" data-date="2009-01-23T00:41:58+00:00" data-subject="">
 
 I remember those days, all the banter over gossip between all the pirate members. They made the game fun. [/quote:vig8wz8x]
 
@@ -334,7 +334,7 @@ heh  :wink:
 
 </div>
 
-<div class="post" data-post-id="27835" data-author="Tap" data-date="2009-01-23T04:58:33+00:00">
+<div class="post" data-post-id="27835" data-author="Tap" data-date="2009-01-23T04:58:33+00:00" data-subject="">
 
 [quote:zv0hg34b]29t 30w 33m 20c] Poolp wts heavy iron ring, darkened robe [/quote:zv0hg34b]
 
@@ -342,7 +342,7 @@ Good ole days...
 
 </div>
 
-<div class="post" data-post-id="27836" data-author="Bazilus" data-date="2009-01-23T06:34:52+00:00">
+<div class="post" data-post-id="27836" data-author="Bazilus" data-date="2009-01-23T06:34:52+00:00" data-subject="">
 
 Thx Yasik, was good time.  :D
 
@@ -350,7 +350,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="27849" data-author="Vixn" data-date="2009-01-24T07:34:20+00:00">
+<div class="post" data-post-id="27849" data-author="Vixn" data-date="2009-01-24T07:34:20+00:00" data-subject="">
 
 Who is Helxen, do they have alts and do they still play?[/quote:3e7fu50z]
 
@@ -364,7 +364,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="27851" data-author="jezer" data-date="2009-01-24T07:39:47+00:00">
+<div class="post" data-post-id="27851" data-author="jezer" data-date="2009-01-24T07:39:47+00:00" data-subject="">
 
 Helxen was Kitn, another russian immortal.
 
@@ -374,7 +374,7 @@ Sounds like there was a "cold war" some time ago... it's a pity there are fewer 
 
 </div>
 
-<div class="post" data-post-id="27854" data-author="Bazilus" data-date="2009-01-24T08:23:07+00:00">
+<div class="post" data-post-id="27854" data-author="Bazilus" data-date="2009-01-24T08:23:07+00:00" data-subject="">
 
 Helxen was Kitn, another russian immortal.
 
@@ -388,13 +388,13 @@ Bazilus the Crazy Pithon
 
 </div>
 
-<div class="post" data-post-id="27855" data-author="Weasel" data-date="2009-01-24T09:00:03+00:00">
+<div class="post" data-post-id="27855" data-author="Weasel" data-date="2009-01-24T09:00:03+00:00" data-subject="">
 
 Kind of a cultural thing though.. 'Cheating' as known in the US is viewed a little differently in some parts of Russia, as I understand it. It's almost honorable as you're helping out a comrade. Correct me if I'm wrong.
 
 </div>
 
-<div class="post" data-post-id="27856" data-author="Sind" data-date="2009-01-24T09:21:10+00:00">
+<div class="post" data-post-id="27856" data-author="Sind" data-date="2009-01-24T09:21:10+00:00" data-subject="">
 
 Weasel =)))
 
@@ -402,7 +402,7 @@ too bad its not 1960's :P
 
 </div>
 
-<div class="post" data-post-id="27858" data-author="Vixn" data-date="2009-01-24T13:44:38+00:00">
+<div class="post" data-post-id="27858" data-author="Vixn" data-date="2009-01-24T13:44:38+00:00" data-subject="">
 
 Too bad you got me wrong. I didn't mean there was a 'cold war'. Neither I think russians cheat less or more than any other nationalities (except weasels). That was just a funny fact of sloth's history.
 
@@ -410,7 +410,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="27876" data-author="Krok" data-date="2009-01-26T15:30:22+00:00">
+<div class="post" data-post-id="27876" data-author="Krok" data-date="2009-01-26T15:30:22+00:00" data-subject="">
 
 [20w 20m 20c 18t] Aleksey The WISH MASTER (WTB -9ac equip) 
 
@@ -418,7 +418,7 @@ Looool :)
 
 </div>
 
-<div class="post" data-post-id="27878" data-author="Autolycos" data-date="2009-01-26T22:28:36+00:00">
+<div class="post" data-post-id="27878" data-author="Autolycos" data-date="2009-01-26T22:28:36+00:00" data-subject="">
 
 'Cheating' as known in the US is viewed a little differently in some parts of Russia, as I understand it. It's almost honorable as you're helping out a comrade. [/quote:2cra4nsh]
 
@@ -430,7 +430,7 @@ the common thought is that its bad....
 
 </div>
 
-<div class="post" data-post-id="27879" data-author="jezer" data-date="2009-01-26T23:14:43+00:00">
+<div class="post" data-post-id="27879" data-author="jezer" data-date="2009-01-26T23:14:43+00:00" data-subject="">
 
 Nothing seems to surprise me about the history of this game... was it really about cheating... or was it more to do with certain immortals not liking the 'russian clique' of immortals. In my time here... there has been a number of scandals obviously involving current immortals... the rye bread doesn't just accidently change to 2 gold coins... the phoenix doesn't start popping shield and feathers practically every pop... game bonuses don't just turn on more when people on the other side of the world play... I bet these things are probably only the tip of the iceberg.
 
@@ -438,7 +438,7 @@ Which imm evented purloin aura? Thiefs stealing spells... *laughing* Whats next,
 
 </div>
 
-<div class="post" data-post-id="27880" data-author="Clink" data-date="2009-01-27T02:14:37+00:00">
+<div class="post" data-post-id="27880" data-author="Clink" data-date="2009-01-27T02:14:37+00:00" data-subject="">
 
 There's some sort of belief here this is a cat and mouse game and the mice are smarter/cooler/better? than the cats because they find some way to play the game that wasn't intended.
 
@@ -460,7 +460,7 @@ the common thought is that its bad....
 
 </div>
 
-<div class="post" data-post-id="27881" data-author="jezer" data-date="2009-01-27T02:20:05+00:00">
+<div class="post" data-post-id="27881" data-author="jezer" data-date="2009-01-27T02:20:05+00:00" data-subject="">
 
 [img:1o1l6nbr]http://catbaret.files.wordpress.com/2008/06/cat-hiding-mouse.jpg[/img:1o1l6nbr]
 
@@ -470,7 +470,7 @@ I'm also amused by the censorship of my last post...
 
 </div>
 
-<div class="post" data-post-id="27882" data-author="Autolycos" data-date="2009-01-27T04:10:28+00:00">
+<div class="post" data-post-id="27882" data-author="Autolycos" data-date="2009-01-27T04:10:28+00:00" data-subject="">
 
 I think you might have misunderstood me Clinkster.  I agree with you.
 
@@ -480,7 +480,7 @@ hence the comment. "the common thought is that its bad"   :wink:
 
 </div>
 
-<div class="post" data-post-id="27883" data-author="Tap" data-date="2009-01-27T11:03:45+00:00">
+<div class="post" data-post-id="27883" data-author="Tap" data-date="2009-01-27T11:03:45+00:00" data-subject="">
 
 [quote:1mdkwk69]the rye bread doesn't just accidently change to 2 gold coins...[/quote:1mdkwk69]
 
@@ -488,7 +488,7 @@ snicker
 
 </div>
 
-<div class="post" data-post-id="27885" data-author="*Splork*" data-date="2009-01-27T14:33:38+00:00">
+<div class="post" data-post-id="27885" data-author="*Splork*" data-date="2009-01-27T14:33:38+00:00" data-subject="">
 
 Kjartan both came up with and coded most of purlion and he has never played a character on Sloth III.
 
@@ -496,7 +496,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="27887" data-author="marge" data-date="2009-01-27T21:47:42+00:00">
+<div class="post" data-post-id="27887" data-author="marge" data-date="2009-01-27T21:47:42+00:00" data-subject="">
 
 It's kind of irritating when people post snarky comments about the admin. It is just a free game with a volunteer staff. If you find an exploit that gives you some unfair advantage, you should just report it, instead of being a punk and feeling like you 'got one over' on the admin. 
 
@@ -508,7 +508,7 @@ And the cheating immortals being dragged up are from years ago. I don't see wher
 
 </div>
 
-<div class="post" data-post-id="27891" data-author="jezer" data-date="2009-01-27T22:29:52+00:00">
+<div class="post" data-post-id="27891" data-author="jezer" data-date="2009-01-27T22:29:52+00:00" data-subject="">
 
 Kjartan both came up with and coded most of purlion and he has never played a character on Sloth III.
 
@@ -518,31 +518,31 @@ Splork[/quote:14odg8b7]
 
 </div>
 
-<div class="post" data-post-id="27892" data-author="Tap" data-date="2009-01-27T22:43:07+00:00">
+<div class="post" data-post-id="27892" data-author="Tap" data-date="2009-01-27T22:43:07+00:00" data-subject="">
 
 Marge makes a good point. I would like to remind the coders that you can still steal drachma by the new character creation bug.Have a nice day.
 
 </div>
 
-<div class="post" data-post-id="27893" data-author="jezer" data-date="2009-01-27T22:45:39+00:00">
+<div class="post" data-post-id="27893" data-author="jezer" data-date="2009-01-27T22:45:39+00:00" data-subject="">
 
 I see the wardens have given you back your internet access again tap!  :evil: Good behavior? I doubt it...  :twisted:
 
 </div>
 
-<div class="post" data-post-id="27901" data-author="Bazilus" data-date="2009-01-28T06:12:12+00:00">
+<div class="post" data-post-id="27901" data-author="Bazilus" data-date="2009-01-28T06:12:12+00:00" data-subject="">
 
 lol
 
 </div>
 
-<div class="post" data-post-id="27902" data-author="Evergreen" data-date="2009-01-28T07:02:41+00:00">
+<div class="post" data-post-id="27902" data-author="Evergreen" data-date="2009-01-28T07:02:41+00:00" data-subject="cheating">
 
 marge, then almost every1 here is cheater with bad behavior - magestyle, when I was able to solo almost all mobs with oldclasso, was up for few years until jake changed it.
 
 </div>
 
-<div class="post" data-post-id="27904" data-author="marge" data-date="2009-01-28T15:12:16+00:00">
+<div class="post" data-post-id="27904" data-author="marge" data-date="2009-01-28T15:12:16+00:00" data-subject="">
 
 I think the word I used was punk.
 
@@ -552,13 +552,13 @@ yah?
 
 </div>
 
-<div class="post" data-post-id="27906" data-author="Evergreen" data-date="2009-01-29T15:56:44+00:00">
+<div class="post" data-post-id="27906" data-author="Evergreen" data-date="2009-01-29T15:56:44+00:00" data-subject="">
 
 i believe every1 was abusing it, even imm mortals :) PUNKS!
 
 </div>
 
-<div class="post" data-post-id="27976" data-author="OldTower" data-date="2009-02-03T20:23:36+00:00">
+<div class="post" data-post-id="27976" data-author="OldTower" data-date="2009-02-03T20:23:36+00:00" data-subject="">
 
 This was taken 2-16-2001
 
@@ -622,7 +622,7 @@ There are 27 visible players.
 
 </div>
 
-<div class="post" data-post-id="39086" data-author="Werelord" data-date="2019-02-11T18:52:26+00:00">
+<div class="post" data-post-id="39086" data-author="Werelord" data-date="2019-02-11T18:52:26+00:00" data-subject="Re: An Old WHO list">
 
 Taken on 10.08.2000 
 
@@ -712,7 +712,7 @@ Highest total since last bootup: 42.
 
 </div>
 
-<div class="post" data-post-id="39087" data-author="Werelord" data-date="2019-02-11T18:53:37+00:00">
+<div class="post" data-post-id="39087" data-author="Werelord" data-date="2019-02-11T18:53:37+00:00" data-subject="Re: An Old WHO list">
 
 Taken on  07.09.2000
 
@@ -774,7 +774,7 @@ Highest total since last bootup: 50.
 
 </div>
 
-<div class="post" data-post-id="39088" data-author="Werelord" data-date="2019-02-11T19:01:34+00:00">
+<div class="post" data-post-id="39088" data-author="Werelord" data-date="2019-02-11T19:01:34+00:00" data-subject="Re: An Old WHO list">
 
 Taken on 31.07.00
 

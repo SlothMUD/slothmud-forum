@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="2768" data-author="Gul" data-date="2004-11-11T08:38:45+00:00">
+<div class="post" data-post-id="2768" data-author="Gul" data-date="2004-11-11T08:38:45+00:00" data-subject="Looking for components...">
 
 I need....
 
@@ -50,7 +50,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="2769" data-author="Gul" data-date="2004-11-11T08:41:51+00:00">
+<div class="post" data-post-id="2769" data-author="Gul" data-date="2004-11-11T08:41:51+00:00" data-subject="Have">
 
 I have...
 
@@ -62,7 +62,7 @@ I want we can make a deal...
 
 </div>
 
-<div class="post" data-post-id="2772" data-author="Gnu" data-date="2004-11-11T11:44:59+00:00">
+<div class="post" data-post-id="2772" data-author="Gnu" data-date="2004-11-11T11:44:59+00:00" data-subject="">
 
 Catch me online Gnu/Pendalf/Preemus
 
@@ -70,13 +70,13 @@ we'll make a deal :)
 
 </div>
 
-<div class="post" data-post-id="2784" data-author="Hotara" data-date="2004-11-11T20:35:42+00:00">
+<div class="post" data-post-id="2784" data-author="Hotara" data-date="2004-11-11T20:35:42+00:00" data-subject="">
 
 Have Mithril Guards.
 
 </div>
 
-<div class="post" data-post-id="2786" data-author="Gul" data-date="2004-11-11T23:30:26+00:00">
+<div class="post" data-post-id="2786" data-author="Gul" data-date="2004-11-11T23:30:26+00:00" data-subject="thanks">
 
 Got Piece of Inscribed Orc Skin 
 
@@ -84,7 +84,7 @@ Thanks :)
 
 </div>
 
-<div class="post" data-post-id="2790" data-author="Gul" data-date="2004-11-12T01:46:29+00:00">
+<div class="post" data-post-id="2790" data-author="Gul" data-date="2004-11-12T01:46:29+00:00" data-subject="thanks">
 
 Got Mithril Shoulder Guards
 
@@ -92,7 +92,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="2832" data-author="Gul" data-date="2004-11-15T07:45:50+00:00">
+<div class="post" data-post-id="2832" data-author="Gul" data-date="2004-11-15T07:45:50+00:00" data-subject="Thanks">
 
 Got a grain of black sand
 
@@ -100,7 +100,7 @@ Thanks :)
 
 </div>
 
-<div class="post" data-post-id="2833" data-author="Gul" data-date="2004-11-15T07:46:23+00:00">
+<div class="post" data-post-id="2833" data-author="Gul" data-date="2004-11-15T07:46:23+00:00" data-subject="Thanks">
 
 Got a grain of black sand
 
@@ -108,7 +108,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="2834" data-author="Gul" data-date="2004-11-15T07:48:43+00:00">
+<div class="post" data-post-id="2834" data-author="Gul" data-date="2004-11-15T07:48:43+00:00" data-subject="hmm....">
 
 I need.... 
 

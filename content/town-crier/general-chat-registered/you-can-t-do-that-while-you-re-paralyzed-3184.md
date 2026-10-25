@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="29613" data-author="Thraxas" data-date="2009-06-29T12:44:50+00:00">
+<div class="post" data-post-id="29613" data-author="Thraxas" data-date="2009-06-29T12:44:50+00:00" data-subject="You can&#x27;t do that while you&#x27;re paralyzed!">
 
 You can't do that while you're paralyzed!
 
@@ -24,13 +24,13 @@ Not sure how this adds enjoyment to the game ... if it was a more common occuran
 
 </div>
 
-<div class="post" data-post-id="29614" data-author="Thraxas" data-date="2009-06-29T12:51:04+00:00">
+<div class="post" data-post-id="29614" data-author="Thraxas" data-date="2009-06-29T12:51:04+00:00" data-subject="">
 
 btw: thanks for coming to try and help Destruction ... but can't use say or tell or emotes or anything to communicate with you ... your dispel didn't seem to work ... but thanks for trying
 
 </div>
 
-<div class="post" data-post-id="29615" data-author="Toxis" data-date="2009-06-29T13:15:10+00:00">
+<div class="post" data-post-id="29615" data-author="Toxis" data-date="2009-06-29T13:15:10+00:00" data-subject="">
 
 You are not worthy of the struggle... you are paralyzed for 20 minutes, enjoy slothmud! :P
 
@@ -38,7 +38,7 @@ Silly, isn't it?
 
 </div>
 
-<div class="post" data-post-id="29616" data-author="Rigwarl" data-date="2009-06-29T13:41:23+00:00">
+<div class="post" data-post-id="29616" data-author="Rigwarl" data-date="2009-06-29T13:41:23+00:00" data-subject="">
 
 The best part is if you're paralyzed and the group moves without you and the stabber engages the next mob and...you're the tank!
 
@@ -46,13 +46,13 @@ The best part is if you're paralyzed and the group moves without you and the sta
 
 </div>
 
-<div class="post" data-post-id="29617" data-author="Stryx" data-date="2009-06-29T14:00:19+00:00">
+<div class="post" data-post-id="29617" data-author="Stryx" data-date="2009-06-29T14:00:19+00:00" data-subject="">
 
 But surely a tank wouldn't be dumb enough to eat a spined fish, so I doubt that would ever happen.
 
 </div>
 
-<div class="post" data-post-id="29618" data-author="*Splork*" data-date="2009-06-29T14:42:01+00:00">
+<div class="post" data-post-id="29618" data-author="*Splork*" data-date="2009-06-29T14:42:01+00:00" data-subject="">
 
 All of these caches will be fixed the next reboot. Ive drastically lowered the affects of all traps.
 
@@ -60,7 +60,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29619" data-author="Kanae" data-date="2009-06-29T15:08:27+00:00">
+<div class="post" data-post-id="29619" data-author="Kanae" data-date="2009-06-29T15:08:27+00:00" data-subject="">
 
 for those interested the solution to paralysis from a trap is to remove poison.
 
@@ -68,7 +68,7 @@ there is/was a  trap in skeep that caused the same affect.
 
 </div>
 
-<div class="post" data-post-id="29620" data-author="Toxis" data-date="2009-06-29T15:53:56+00:00">
+<div class="post" data-post-id="29620" data-author="Toxis" data-date="2009-06-29T15:53:56+00:00" data-subject="">
 
 Now this is the "coming together" of sloth I so love.  It's the little things that can be aggrivating, and it's cool that Splork is making a lot of cool changes to Sloth that make sense.  I mean, who wants to stand 20 mins paralyzed, that's just a little crazy.  I just wonder who put that in game and wonder what were they thinking (2o mins?)
 
@@ -76,7 +76,7 @@ Now this is the "coming together" of sloth I so love.  It's the little things th
 
 </div>
 
-<div class="post" data-post-id="29621" data-author="Rigwarl" data-date="2009-06-29T17:09:53+00:00">
+<div class="post" data-post-id="29621" data-author="Rigwarl" data-date="2009-06-29T17:09:53+00:00" data-subject="">
 
 But surely a tank wouldn't be dumb enough to eat a spined fish, so I doubt that would ever happen.[/quote:ouvub651]
 
@@ -86,7 +86,7 @@ So which fish doesn't have a spine? ;)
 
 </div>
 
-<div class="post" data-post-id="29623" data-author="Stryx" data-date="2009-06-29T19:22:06+00:00">
+<div class="post" data-post-id="29623" data-author="Stryx" data-date="2009-06-29T19:22:06+00:00" data-subject="">
 
 A wibbly wobbly jelly fish!  :D
 

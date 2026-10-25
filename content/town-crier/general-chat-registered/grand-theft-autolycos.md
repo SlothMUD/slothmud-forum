@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="16574" data-author="Marchessa_red_witch" data-date="2007-01-29T21:18:43+00:00">
+<div class="post" data-post-id="16574" data-author="Marchessa_red_witch" data-date="2007-01-29T21:18:43+00:00" data-subject="Grand Theft Autolycos">
 
 Could not resist the joke. But here is the serious suggestion. Since boarding is now for use of in game skills, I hope the immorts will consider listing why someone is on the board, so that players can decide whether the authorities can take care of it, or whether it is time for a little Lynch Law.
 
@@ -24,7 +24,7 @@ Perhaps there could even be rewards for catching miscreants and so on, but that 
 
 </div>
 
-<div class="post" data-post-id="16575" data-author="Autolycos" data-date="2007-01-29T21:45:41+00:00">
+<div class="post" data-post-id="16575" data-author="Autolycos" data-date="2007-01-29T21:45:41+00:00" data-subject="">
 
 i like that idea.. 
 
@@ -32,7 +32,7 @@ you feeling ok?  that made sense  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16578" data-author="*juggleblood*" data-date="2007-01-29T22:45:40+00:00">
+<div class="post" data-post-id="16578" data-author="*juggleblood*" data-date="2007-01-29T22:45:40+00:00" data-subject="">
 
 Maybe the imms could tell us what they had in mind when they coded purloin aura. How did they anticipate the players using it? I'm trying to make use of it, but being wanted is such a hassle with your inventory that it doesn't seem to be worthwhile to use at all.
 
@@ -42,13 +42,13 @@ Someone has pointed out to me that the outlaw system has been in place for 15 ye
 
 </div>
 
-<div class="post" data-post-id="16579" data-author="kjartan" data-date="2007-01-29T23:07:56+00:00">
+<div class="post" data-post-id="16579" data-author="kjartan" data-date="2007-01-29T23:07:56+00:00" data-subject="">
 
 I will look into it.  Any problems with purloin aura are probably my fault.
 
 </div>
 
-<div class="post" data-post-id="16581" data-author="Marchessa_red_witch" data-date="2007-01-30T00:10:20+00:00">
+<div class="post" data-post-id="16581" data-author="Marchessa_red_witch" data-date="2007-01-30T00:10:20+00:00" data-subject="">
 
 Maybe the imms could tell us what they had in mind when they coded purloin aura. How did they anticipate the players using it? I'm trying to make use of it, but being wanted is such a hassle with your inventory that it doesn't seem to be worthwhile to use at all.
 
@@ -60,7 +60,7 @@ The only way inv fixes would be reasonable is if there is a difference between b
 
 </div>
 
-<div class="post" data-post-id="16592" data-author="Clink" data-date="2007-01-30T18:57:35+00:00">
+<div class="post" data-post-id="16592" data-author="Clink" data-date="2007-01-30T18:57:35+00:00" data-subject="">
 
 What were we thinking?
 
@@ -74,19 +74,19 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="16601" data-author="osric" data-date="2007-01-31T19:04:28+00:00">
+<div class="post" data-post-id="16601" data-author="osric" data-date="2007-01-31T19:04:28+00:00" data-subject="">
 
 Remember gang, you dont get boarded for stealing from mobs :)
 
 </div>
 
-<div class="post" data-post-id="16609" data-author="Guinex" data-date="2007-02-01T04:24:08+00:00">
+<div class="post" data-post-id="16609" data-author="Guinex" data-date="2007-02-01T04:24:08+00:00" data-subject="">
 
 I still <3 you Clinkem.
 
 </div>
 
-<div class="post" data-post-id="16637" data-author="Vixn" data-date="2007-02-03T14:19:10+00:00">
+<div class="post" data-post-id="16637" data-author="Vixn" data-date="2007-02-03T14:19:10+00:00" data-subject="">
 
 Hey guys, I can be wrong but I was sure there was a method for 100% sucessful steal (at least for coins and aura), wasn't it?
 

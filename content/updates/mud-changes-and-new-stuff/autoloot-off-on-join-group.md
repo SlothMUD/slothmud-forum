@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="31242" data-author="*Isabo*" data-date="2010-05-27T23:26:49+00:00">
+<div class="post" data-post-id="31242" data-author="*Isabo*" data-date="2010-05-27T23:26:49+00:00" data-subject="Autoloot off on join group">
 
 Good day, adventurers.
 
@@ -24,13 +24,13 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="31246" data-author="*Breeze*" data-date="2010-05-28T04:43:53+00:00">
+<div class="post" data-post-id="31246" data-author="*Breeze*" data-date="2010-05-28T04:43:53+00:00" data-subject="Re: Autoloot off on join group">
 
 thanks!  how about turning on autosplit also ? :)
 
 </div>
 
-<div class="post" data-post-id="31252" data-author="*Isabo*" data-date="2010-05-28T18:25:51+00:00">
+<div class="post" data-post-id="31252" data-author="*Isabo*" data-date="2010-05-28T18:25:51+00:00" data-subject="Re: Autoloot off on join group">
 
 Good day, Immortal.
 
@@ -40,7 +40,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="31256" data-author="*Breeze*" data-date="2010-05-28T20:01:04+00:00">
+<div class="post" data-post-id="31256" data-author="*Breeze*" data-date="2010-05-28T20:01:04+00:00" data-subject="Re: Autoloot off on join group">
 
 in case they turn on their looter again.
 

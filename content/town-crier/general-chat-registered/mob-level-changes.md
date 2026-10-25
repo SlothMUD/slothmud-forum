@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="30481" data-author="*Splork*" data-date="2009-12-14T00:45:14+00:00">
+<div class="post" data-post-id="30481" data-author="*Splork*" data-date="2009-12-14T00:45:14+00:00" data-subject="Mob level changes?">
 
 I recently fixed a bug that allowed necromancers to animate any size creature with any size corpse. Ive known this was a bug for quite a long time just did not have the time or energy to track it down because of other work we had been concentrating on.  But because of the fix players need to find higher level corpses again, which brings me to the following. 
 
@@ -24,7 +24,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30482" data-author="*juggleblood*" data-date="2009-12-14T01:47:13+00:00">
+<div class="post" data-post-id="30482" data-author="*juggleblood*" data-date="2009-12-14T01:47:13+00:00" data-subject="">
 
 There was no concerted effort to diminish the number of corpses available. 
 
@@ -34,7 +34,7 @@ I will see what I can do to make some more corpse mobs available on AH.
 
 </div>
 
-<div class="post" data-post-id="30483" data-author="*juggleblood*" data-date="2009-12-14T02:10:52+00:00">
+<div class="post" data-post-id="30483" data-author="*juggleblood*" data-date="2009-12-14T02:10:52+00:00" data-subject="">
 
 I found some areas on AH where mob levels could be raised some and made more level 40 and 41 corpses.
 
@@ -46,7 +46,7 @@ Also we may decrease the need for level 41 corpses. But that's not my department
 
 </div>
 
-<div class="post" data-post-id="30484" data-author="Thraxas" data-date="2009-12-14T09:40:38+00:00">
+<div class="post" data-post-id="30484" data-author="Thraxas" data-date="2009-12-14T09:40:38+00:00" data-subject="">
 
 Thanks both for this, good to know the imms here listen and care.
 

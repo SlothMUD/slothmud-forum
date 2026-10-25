@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="35217" data-author="Hung" data-date="2014-06-02T19:45:17+00:00">
+<div class="post" data-post-id="35217" data-author="Hung" data-date="2014-06-02T19:45:17+00:00" data-subject="nano Skyv for Sale">
 
 All information gathered during sleep east of the lyme innkeeper(outdoors), no specials.
 
@@ -308,25 +308,25 @@ Starting price: 40m
 
 </div>
 
-<div class="post" data-post-id="35220" data-author="Hung" data-date="2014-06-04T06:18:37+00:00">
+<div class="post" data-post-id="35220" data-author="Hung" data-date="2014-06-04T06:18:37+00:00" data-subject="Re: nano Skyv for Sale">
 
 UPD: I've got mujen doll. So now Hung's hit/dam in solo mode is 16/16 without any buffs.
 
 </div>
 
-<div class="post" data-post-id="35229" data-author="Hung" data-date="2014-06-05T17:41:12+00:00">
+<div class="post" data-post-id="35229" data-author="Hung" data-date="2014-06-05T17:41:12+00:00" data-subject="Re: nano Skyv for Sale">
 
 Sold.
 
 </div>
 
-<div class="post" data-post-id="35355" data-author="*Splork*" data-date="2014-06-27T22:57:23+00:00">
+<div class="post" data-post-id="35355" data-author="*Splork*" data-date="2014-06-27T22:57:23+00:00" data-subject="Re: nano Skyv for Sale">
 
 Too bad it wasn't Skyv!
 
 </div>
 
-<div class="post" data-post-id="35356" data-author="Skyv" data-date="2014-06-28T01:04:36+00:00">
+<div class="post" data-post-id="35356" data-author="Skyv" data-date="2014-06-28T01:04:36+00:00" data-subject="Re: nano Skyv for Sale">
 
 !
 

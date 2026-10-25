@@ -10,7 +10,7 @@ locked: false
 post_count: 72
 ---
 
-<div class="post" data-post-id="37207" data-author="Gorka" data-date="2016-08-08T17:00:11+00:00">
+<div class="post" data-post-id="37207" data-author="Gorka" data-date="2016-08-08T17:00:11+00:00" data-subject="So crazy it just might work...">
 
 I think most players agree parts of sloth are unbalanced, or there progression is not linear. This problem has always been a discussion of hundreds of forum posts and obviously causes friction among players, and among immortals... Is there a solution that is a "win/win" for everyone? It is after all a difficult problem to fix mid way into the game... with old players and new players and changes.
 
@@ -50,7 +50,7 @@ The decision becomes 3 ways, should I buy something from the shop, should I leve
 
 </div>
 
-<div class="post" data-post-id="37210" data-author="*Idjit*" data-date="2016-08-09T08:56:59+00:00">
+<div class="post" data-post-id="37210" data-author="*Idjit*" data-date="2016-08-09T08:56:59+00:00" data-subject="Re: So crazy it just might work...">
 
 They might consider opening some-of-the-shop at 5x40, since 5x40 was the old av40 during sloth3.
 
@@ -76,7 +76,7 @@ Done well, this might bring about the results you desire.  Some of them.
 
 </div>
 
-<div class="post" data-post-id="37211" data-author="Gorka" data-date="2016-08-09T09:34:14+00:00">
+<div class="post" data-post-id="37211" data-author="Gorka" data-date="2016-08-09T09:34:14+00:00" data-subject="Re: So crazy it just might work...">
 
 Thanks for posting.
 
@@ -88,7 +88,7 @@ I'd like to see higher caps on mana, moves and hp's as well. I know some avatars
 
 </div>
 
-<div class="post" data-post-id="37213" data-author="Teron" data-date="2016-08-09T12:15:02+00:00">
+<div class="post" data-post-id="37213" data-author="Teron" data-date="2016-08-09T12:15:02+00:00" data-subject="Re: So crazy it just might work...">
 
 What I'd suggest is to only have mana/hps/mvs and stab/circle/sb/hb/hand dam/weap dam there. Though it does look lonely without ac there for tanks.
 
@@ -98,7 +98,7 @@ And yes, I support the idea of using logorithmical scale for hps/mana/mvs after 
 
 </div>
 
-<div class="post" data-post-id="37218" data-author="*juggleblood*" data-date="2016-08-11T03:05:35+00:00">
+<div class="post" data-post-id="37218" data-author="*juggleblood*" data-date="2016-08-11T03:05:35+00:00" data-subject="Re: So crazy it just might work...">
 
 ...or so crazy it just might topple the whole mud...
 
@@ -108,7 +108,7 @@ Inflation is ultimately the death of each incarnation of the game, when content 
 
 </div>
 
-<div class="post" data-post-id="37219" data-author="Gorka" data-date="2016-08-11T05:34:19+00:00">
+<div class="post" data-post-id="37219" data-author="Gorka" data-date="2016-08-11T05:34:19+00:00" data-subject="Re: So crazy it just might work...">
 
 Inflation... I agree and disagree JB, there can be no inflation... if caps are kept the same. Opening the shop does not necessarily need to increase caps, of course players would want that, I want that... but it doesn't veto the idea that by opening the shop earlier it could allow for more linear progression towards your cap, even if caps are not increased.
 
@@ -118,7 +118,7 @@ Interestingly though, the player base is still getting smaller, even with inflat
 
 </div>
 
-<div class="post" data-post-id="37220" data-author="Dragoth" data-date="2016-08-11T09:02:10+00:00">
+<div class="post" data-post-id="37220" data-author="Dragoth" data-date="2016-08-11T09:02:10+00:00" data-subject="Re: So crazy it just might work...">
 
 Three cheers for Gorka!
 
@@ -128,7 +128,7 @@ Power inflation is always an issue and has to be weighed even when you add a new
 
 </div>
 
-<div class="post" data-post-id="37221" data-author="Teron" data-date="2016-08-11T12:19:07+00:00">
+<div class="post" data-post-id="37221" data-author="Teron" data-date="2016-08-11T12:19:07+00:00" data-subject="Re: So crazy it just might work...">
 
 As for inflation, the amount of stuff from the shop is limited and is almost the same as you can get from leveling avatar to 40, and it's cheaper to level avatar levels,  because you get so much from them.
 
@@ -140,7 +140,7 @@ If anything, that's deflation, because players get exp at lower rates at lower l
 
 </div>
 
-<div class="post" data-post-id="37222" data-author="*juggleblood*" data-date="2016-08-11T20:47:17+00:00">
+<div class="post" data-post-id="37222" data-author="*juggleblood*" data-date="2016-08-11T20:47:17+00:00" data-subject="Re: So crazy it just might work...">
 
 > **Dragoth wrote:**
 > Power inflation is always an issue and has to be weighed even when you add a new piece of EQ, but it's quite amusing hearing this from a person who introduced mana restore potions, damage potions and full group restore scrolls to the game. No offence JB  :mrgreen: .
@@ -149,7 +149,7 @@ Common misconception. Splork asked me to rehab the coliseum, which was originall
 
 </div>
 
-<div class="post" data-post-id="37223" data-author="*Splork*" data-date="2016-08-11T22:00:20+00:00">
+<div class="post" data-post-id="37223" data-author="*Splork*" data-date="2016-08-11T22:00:20+00:00" data-subject="Re: So crazy it just might work...">
 
 JB did an awesome  job at fixing up the Coliseum and pushing it to an entirely new level. It is easily one of the best features this game has to offer!
 
@@ -157,7 +157,7 @@ As for the potions, if you guys think they are overpowered, we can easily cut th
 
 </div>
 
-<div class="post" data-post-id="37224" data-author="Dragoth" data-date="2016-08-11T22:27:58+00:00">
+<div class="post" data-post-id="37224" data-author="Dragoth" data-date="2016-08-11T22:27:58+00:00" data-subject="Re: So crazy it just might work...">
 
 > ***juggleblood* wrote:**
 > Common misconception. Splork asked me to rehab the coliseum, which was originally built by Akasha. I did not create a single one of those potions or items. My actions did result in their proliferation, but I was simply doing a task requested of me by a creator. If you think they need to be nerfed say so.
@@ -170,19 +170,19 @@ And I wouldn't really want to be the one, to be blamed for this decision either,
 
 </div>
 
-<div class="post" data-post-id="37225" data-author="*juggleblood*" data-date="2016-08-11T23:14:52+00:00">
+<div class="post" data-post-id="37225" data-author="*juggleblood*" data-date="2016-08-11T23:14:52+00:00" data-subject="Re: So crazy it just might work...">
 
 Don't get me wrong, part of me thinks it would be really cool if we craft our characters like that, but I foresee the existance of supercharged high damage characters that dominate the coliseum and get way more drachma from it than people who don't go that route. And it's a common refrain around here, especially from the people most active in these discussions, that when a system is created it "forces" players to go in the optimum direction or at least creates negativity from people who don't opt to go that way. And also I stand by my previous argument about inflation. Chars crafted in this fashion would advance faster and get substantially more drachma available to them through the coliseum.
 
 </div>
 
-<div class="post" data-post-id="37226" data-author="cyprimus" data-date="2016-08-12T02:50:04+00:00">
+<div class="post" data-post-id="37226" data-author="cyprimus" data-date="2016-08-12T02:50:04+00:00" data-subject="Re: So crazy it just might work...">
 
 Yep. there overpowered. Nerf away!
 
 </div>
 
-<div class="post" data-post-id="37227" data-author="Dragoth" data-date="2016-08-12T07:42:12+00:00">
+<div class="post" data-post-id="37227" data-author="Dragoth" data-date="2016-08-12T07:42:12+00:00" data-subject="Re: So crazy it just might work...">
 
 > ***juggleblood* wrote:**
 > Don't get me wrong, part of me thinks it would be really cool if we craft our characters like that, but I foresee the existance of supercharged high damage characters that dominate the coliseum and get way more drachma from it than people who don't go that route. And it's a common refrain around here, especially from the people most active in these discussions, that when a system is created it "forces" players to go in the optimum direction or at least creates negativity from people who don't opt to go that way. And also I stand by my previous argument about inflation. Chars crafted in this fashion would advance faster and get substantially more drachma available to them through the coliseum.
@@ -195,7 +195,7 @@ I suggest avatar shop is introduced at 5x40, at 3x40 you get your 3x40 EQ, at 4x
 
 </div>
 
-<div class="post" data-post-id="37229" data-author="Teron" data-date="2016-08-12T10:50:10+00:00">
+<div class="post" data-post-id="37229" data-author="Teron" data-date="2016-08-12T10:50:10+00:00" data-subject="Re: So crazy it just might work...">
 
 > ***juggleblood* wrote:**
 > And it's a common refrain around here, especially from the people most active in these discussions, that when a system is created it "forces" players to go in the optimum direction or at least creates negativity from people who don't opt to go that way. And also I stand by my previous argument about inflation. Chars crafted in this fashion would advance faster and get substantially more drachma available to them through the coliseum.
@@ -226,7 +226,7 @@ Let the 1000 blossoms bloom, I say.
 
 </div>
 
-<div class="post" data-post-id="37230" data-author="Ker" data-date="2016-08-12T11:12:59+00:00">
+<div class="post" data-post-id="37230" data-author="Ker" data-date="2016-08-12T11:12:59+00:00" data-subject="Re: So crazy it just might work...">
 
 It was already a mistake having caps across the board inclusive of 9x40 purchases at the Avatar shop, I don't even understand why players are vouching for a 5x40 - 6x40 Avatar purchase. Doesn't this make the existing problems an even bigger one?
 
@@ -236,7 +236,7 @@ Wut?
 
 </div>
 
-<div class="post" data-post-id="37231" data-author="Gorka" data-date="2016-08-12T12:13:16+00:00">
+<div class="post" data-post-id="37231" data-author="Gorka" data-date="2016-08-12T12:13:16+00:00" data-subject="Re: So crazy it just might work...">
 
 After reading everyone's further analysis... I kind of agree that opening the avatar shop at 5x40, would ALMOST be pointless. As Taron pointed out leveling is soooooo much more beneficial to your character than buying stats. 
 
@@ -262,7 +262,7 @@ It would be a lot of analysis to totally restructure the avatar shop... it could
 
 </div>
 
-<div class="post" data-post-id="37232" data-author="Gorka" data-date="2016-08-12T13:02:39+00:00">
+<div class="post" data-post-id="37232" data-author="Gorka" data-date="2016-08-12T13:02:39+00:00" data-subject="Re: So crazy it just might work...">
 
 Here is a sample of some of the work I did in s3 to try and calculate fair stat pricing...
 
@@ -286,7 +286,7 @@ Interesting results came out of this, don't waste your money on heal bonus, buy 
 
 </div>
 
-<div class="post" data-post-id="37233" data-author="*juggleblood*" data-date="2016-08-12T13:40:56+00:00">
+<div class="post" data-post-id="37233" data-author="*juggleblood*" data-date="2016-08-12T13:40:56+00:00" data-subject="Re: So crazy it just might work...">
 
 Ok, you guys are right, it's probably not feasible for people to achieve much from the avatar shop at mid levels because of the huge numbers involved. 
 
@@ -296,7 +296,7 @@ Oh and regarding nerfing any coliseum toys, I promise I'm not going to touch the
 
 </div>
 
-<div class="post" data-post-id="37234" data-author="Teron" data-date="2016-08-12T15:13:34+00:00">
+<div class="post" data-post-id="37234" data-author="Teron" data-date="2016-08-12T15:13:34+00:00" data-subject="Re: So crazy it just might work...">
 
 Gorka,
 
@@ -312,7 +312,7 @@ I never really looked at them, because, I wasn't (and am not) a 9x40, but they b
 
 </div>
 
-<div class="post" data-post-id="37235" data-author="Gorka" data-date="2016-08-12T17:23:19+00:00">
+<div class="post" data-post-id="37235" data-author="Gorka" data-date="2016-08-12T17:23:19+00:00" data-subject="Re: So crazy it just might work...">
 
 There is something wrong in your math T. 11th stat would be 3,095,868. In any case... it was just an example for a post, not a suggestion for an initial value or ratio.
 
@@ -325,7 +325,7 @@ Using complex fight simulations, ratios, averaging results... it's even possible
 
 </div>
 
-<div class="post" data-post-id="37236" data-author="cyprimus" data-date="2016-08-12T17:35:24+00:00">
+<div class="post" data-post-id="37236" data-author="cyprimus" data-date="2016-08-12T17:35:24+00:00" data-subject="Re: So crazy it just might work...">
 
 From what i have seen i think the prices are already calculated well.  Damage is always king on muds, at least the ones that are not pure rp..
 
@@ -345,7 +345,7 @@ Yeah, its a grind with little change for months at a time, and changes get reall
 
 </div>
 
-<div class="post" data-post-id="37237" data-author="Gorka" data-date="2016-08-12T17:40:36+00:00">
+<div class="post" data-post-id="37237" data-author="Gorka" data-date="2016-08-12T17:40:36+00:00" data-subject="Re: So crazy it just might work...">
 
 > **cyprimus wrote:**
 > From what i have seen i think the prices are already calculated well.
@@ -354,7 +354,7 @@ Sorry Cyp, but that's rubbish, spend a little time and work it out... I dare you
 
 </div>
 
-<div class="post" data-post-id="37238" data-author="*juggleblood*" data-date="2016-08-12T18:51:46+00:00">
+<div class="post" data-post-id="37238" data-author="*juggleblood*" data-date="2016-08-12T18:51:46+00:00" data-subject="Re: So crazy it just might work...">
 
 What pricing did you come up with after doing all this math?
 
@@ -362,7 +362,7 @@ Doesn't do any good to say the pricing is wrong unless you can say what it shoul
 
 </div>
 
-<div class="post" data-post-id="37239" data-author="Gorka" data-date="2016-08-12T19:23:17+00:00">
+<div class="post" data-post-id="37239" data-author="Gorka" data-date="2016-08-12T19:23:17+00:00" data-subject="Re: So crazy it just might work...">
 
 It doesn't calculate prices exactly JB... it calculates a ratio of how much something should cost compared to something else... consider the following example...
 
@@ -416,7 +416,7 @@ There is always going to be a margin of error.... but 16x? or 1600%? Is this acc
 
 </div>
 
-<div class="post" data-post-id="37240" data-author="Ker" data-date="2016-08-12T20:11:58+00:00">
+<div class="post" data-post-id="37240" data-author="Ker" data-date="2016-08-12T20:11:58+00:00" data-subject="Re: So crazy it just might work...">
 
 Gorka,
 
@@ -442,7 +442,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="37242" data-author="Teron" data-date="2016-08-13T04:01:40+00:00">
+<div class="post" data-post-id="37242" data-author="Teron" data-date="2016-08-13T04:01:40+00:00" data-subject="Re: So crazy it just might work...">
 
 Yeah, it looks the shop will only be useful at 7-8x40.
 
@@ -458,7 +458,7 @@ P.S. Yes, my math was way off, what was I thinking?
 
 </div>
 
-<div class="post" data-post-id="37246" data-author="Dragoth" data-date="2016-08-15T09:50:52+00:00">
+<div class="post" data-post-id="37246" data-author="Dragoth" data-date="2016-08-15T09:50:52+00:00" data-subject="Re: So crazy it just might work...">
 
 > **Ker wrote:**
 > In an Admin's shoes, I'd be more than happy to implement the Avatar Shop for 5x40-7x40. What this translates is this: Let the mid tier players grind even more and decide for themselves on what they want. Even if ALL attribute's cost in experience points were halved, let the mid tier players soak up billions of exp, slack on levels and progress on their class. As if players were not leaving already due to the existing grind? Super counter-productive, drop the idea. The answer lies else where in reaching these gaps like the break down above, not this approach.
@@ -475,7 +475,7 @@ Imho level 5x40 and above, is just about right to accept the current costs of th
 
 </div>
 
-<div class="post" data-post-id="37247" data-author="Ker" data-date="2016-08-15T10:41:05+00:00">
+<div class="post" data-post-id="37247" data-author="Ker" data-date="2016-08-15T10:41:05+00:00" data-subject="Re: So crazy it just might work...">
 
 Burp,
 
@@ -491,7 +491,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="37248" data-author="Dragoth" data-date="2016-08-15T11:42:50+00:00">
+<div class="post" data-post-id="37248" data-author="Dragoth" data-date="2016-08-15T11:42:50+00:00" data-subject="Re: So crazy it just might work...">
 
 You are saying it like it's a done deal, it probably won't happen regardless of what we talk about here, but in any case I don't see any way of how you could adapt the idea of avatar shop to low levels if you start messing with stat exp costs to make it bearable for "lowbies". 
 
@@ -501,7 +501,7 @@ Lets not forget that it's a system that worked for years and my suggestion is to
 
 </div>
 
-<div class="post" data-post-id="37250" data-author="norks" data-date="2016-08-15T16:36:57+00:00">
+<div class="post" data-post-id="37250" data-author="norks" data-date="2016-08-15T16:36:57+00:00" data-subject="Re: So crazy it just might work...">
 
 Daft idea.
 
@@ -511,7 +511,7 @@ Norks
 
 </div>
 
-<div class="post" data-post-id="37251" data-author="cyprimus" data-date="2016-08-15T17:56:48+00:00">
+<div class="post" data-post-id="37251" data-author="cyprimus" data-date="2016-08-15T17:56:48+00:00" data-subject="Re: So crazy it just might work...">
 
 Essentially there is no way to balance it.  
 
@@ -533,7 +533,7 @@ anyways. thanks!
 
 </div>
 
-<div class="post" data-post-id="37252" data-author="Gorka" data-date="2016-08-15T21:05:39+00:00">
+<div class="post" data-post-id="37252" data-author="Gorka" data-date="2016-08-15T21:05:39+00:00" data-subject="Re: So crazy it just might work...">
 
 Well, the thread has disintegrated now... almost amusing, surprised by some fairly deep bitterness coming to the surface about the coliseum... 
 
@@ -549,7 +549,7 @@ So I'm done with this discussion, but if the immortals do agree that some change
 
 </div>
 
-<div class="post" data-post-id="37253" data-author="*Breeze*" data-date="2016-08-16T01:03:05+00:00">
+<div class="post" data-post-id="37253" data-author="*Breeze*" data-date="2016-08-16T01:03:05+00:00" data-subject="Re: So crazy it just might work...">
 
 when Splork and I coded new gempop we had 2 options.
 
@@ -575,7 +575,7 @@ if (checkgempop(var) == false ) { checkgempop(var); }
 
 </div>
 
-<div class="post" data-post-id="37254" data-author="Ker" data-date="2016-08-16T06:57:08+00:00">
+<div class="post" data-post-id="37254" data-author="Ker" data-date="2016-08-16T06:57:08+00:00" data-subject="Re: So crazy it just might work...">
 
 Ahoy!
 
@@ -597,7 +597,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="37255" data-author="*juggleblood*" data-date="2016-08-16T17:14:29+00:00">
+<div class="post" data-post-id="37255" data-author="*juggleblood*" data-date="2016-08-16T17:14:29+00:00" data-subject="Re: So crazy it just might work...">
 
 > **cyprimus wrote:**
 > I feel the same about the pit.  Its resulted in tokens... player stats, being easy, ac eq becoming pointless, instant mana and hp restores, ppl playing 39'ers.. etc... effectively it is forcing everyone to play damage based characters that abuse 39's and scripts, or become irrelevant.  But, a few ppl are enjoying it.. as any shortcut to power with less work..  
@@ -610,7 +610,7 @@ My perspective is the overall affect on the game from bird's eye view. And what 
 
 </div>
 
-<div class="post" data-post-id="37256" data-author="*juggleblood*" data-date="2016-08-16T17:24:43+00:00">
+<div class="post" data-post-id="37256" data-author="*juggleblood*" data-date="2016-08-16T17:24:43+00:00" data-subject="Re: So crazy it just might work...">
 
 @Gorka 
 
@@ -622,7 +622,7 @@ BUT DON'T YOU WANT TO FIX IT IF YOU KNOW IT MAKES NO SENSE?! ..I hear you asking
 
 </div>
 
-<div class="post" data-post-id="37257" data-author="Teron" data-date="2016-08-16T17:27:58+00:00">
+<div class="post" data-post-id="37257" data-author="Teron" data-date="2016-08-16T17:27:58+00:00" data-subject="Re: So crazy it just might work...">
 
 It's just we need to define and follow a few policies for a healthy discussion:
 
@@ -654,7 +654,7 @@ Maybe we need to do the right thing to the best of our ability, really, because 
 
 </div>
 
-<div class="post" data-post-id="37258" data-author="*juggleblood*" data-date="2016-08-16T17:51:31+00:00">
+<div class="post" data-post-id="37258" data-author="*juggleblood*" data-date="2016-08-16T17:51:31+00:00" data-subject="Re: So crazy it just might work...">
 
 > **Teron wrote:**
 > @JB,
@@ -665,7 +665,7 @@ It's not up to me, but you can have my (hypothetical) vote if you think it would
 
 </div>
 
-<div class="post" data-post-id="37259" data-author="cyprimus" data-date="2016-08-17T05:08:09+00:00">
+<div class="post" data-post-id="37259" data-author="cyprimus" data-date="2016-08-17T05:08:09+00:00" data-subject="Re: So crazy it just might work...">
 
 @taron
 
@@ -703,7 +703,7 @@ I am sorry if i am rambling... tired, and turning 46 tommorow... so for some rea
 
 </div>
 
-<div class="post" data-post-id="37260" data-author="Teron" data-date="2016-08-19T05:46:24+00:00">
+<div class="post" data-post-id="37260" data-author="Teron" data-date="2016-08-19T05:46:24+00:00" data-subject="Re: So crazy it just might work...">
 
 > **cyprimus wrote:**
 > @taron
@@ -755,7 +755,7 @@ Or, the scale could be made so that current caps would cost the same total, so h
 
 </div>
 
-<div class="post" data-post-id="37261" data-author="Gorka" data-date="2016-08-19T10:03:49+00:00">
+<div class="post" data-post-id="37261" data-author="Gorka" data-date="2016-08-19T10:03:49+00:00" data-subject="Re: So crazy it just might work...">
 
 I didn't want to post again, but sensing a great idea is dying simply because of mathematics... here we go...
 
@@ -791,7 +791,7 @@ With a clever use of mathematics, it's possible to open the shop at 3x40, have t
 
 </div>
 
-<div class="post" data-post-id="37262" data-author="Gorka" data-date="2016-08-19T11:14:47+00:00">
+<div class="post" data-post-id="37262" data-author="Gorka" data-date="2016-08-19T11:14:47+00:00" data-subject="Re: So crazy it just might work...">
 
 So Taron told me off for not going far enough... whats the point in providing the tools, you also have to provide a working example as well, he said! Well I don't like to tell people what to do exactly... I more want to inspire ideas, let people make the idea their own... this is more powerful... Anyway Taron won the argument, so here I am again...
 
@@ -823,7 +823,7 @@ Good bye again.
 
 </div>
 
-<div class="post" data-post-id="37263" data-author="cyprimus" data-date="2016-08-19T17:33:25+00:00">
+<div class="post" data-post-id="37263" data-author="cyprimus" data-date="2016-08-19T17:33:25+00:00" data-subject="Re: So crazy it just might work...">
 
 OK, taron. get to the 99 bil exp barrier... see if you can go over it.  If not, then we got a hard cap.
 
@@ -873,7 +873,7 @@ anyways, just food for thought.  I think the imms are just finding us sooooo amu
 
 </div>
 
-<div class="post" data-post-id="37265" data-author="*Breeze*" data-date="2016-08-20T01:06:40+00:00">
+<div class="post" data-post-id="37265" data-author="*Breeze*" data-date="2016-08-20T01:06:40+00:00" data-subject="Re: So crazy it just might work...">
 
 code xp cap is like 
 
@@ -881,7 +881,7 @@ code xp cap is like
 
 </div>
 
-<div class="post" data-post-id="37266" data-author="cyprimus" data-date="2016-08-20T02:32:32+00:00">
+<div class="post" data-post-id="37266" data-author="cyprimus" data-date="2016-08-20T02:32:32+00:00" data-subject="Re: So crazy it just might work...">
 
 Ok, maybe next week... 
 
@@ -895,7 +895,7 @@ afk
 
 </div>
 
-<div class="post" data-post-id="37267" data-author="*Breeze*" data-date="2016-08-20T02:37:48+00:00">
+<div class="post" data-post-id="37267" data-author="*Breeze*" data-date="2016-08-20T02:37:48+00:00" data-subject="Re: So crazy it just might work...">
 
 yeah. isabo changed it iirc. there is high xp and low xp.
 
@@ -909,7 +909,7 @@ each time low xp hits over 1 bil then xp high is incremented and low xp is decre
 
 </div>
 
-<div class="post" data-post-id="37268" data-author="cyprimus" data-date="2016-08-20T12:50:52+00:00">
+<div class="post" data-post-id="37268" data-author="cyprimus" data-date="2016-08-20T12:50:52+00:00" data-subject="Re: So crazy it just might work...">
 
 well, doest not change much on the formulas, only difference is max dex really.. would be very costly, and i suggest max stats either be limited to +3 max, or to classo limit ..thats currently unenforced by eq code.
 
@@ -921,13 +921,13 @@ Now all we need is someone to code it!
 
 </div>
 
-<div class="post" data-post-id="37269" data-author="Teron" data-date="2016-08-20T20:21:01+00:00">
+<div class="post" data-post-id="37269" data-author="Teron" data-date="2016-08-20T20:21:01+00:00" data-subject="Re: So crazy it just might work...">
 
 Just reminding you that the initial idea was to do actual fight simulations and calculate exp cost, proportional to damage healed/done. Just calling arbitrary costs doesn't cut it, we'll be back to battling high costs for low value things, again.
 
 </div>
 
-<div class="post" data-post-id="37272" data-author="*juggleblood*" data-date="2016-08-24T01:20:59+00:00">
+<div class="post" data-post-id="37272" data-author="*juggleblood*" data-date="2016-08-24T01:20:59+00:00" data-subject="Re: So crazy it just might work...">
 
 Am I the only one who sees that the avatar shop doesn't need changing? 
 
@@ -941,7 +941,7 @@ Someone back me up here pls?
 
 </div>
 
-<div class="post" data-post-id="37273" data-author="cyprimus" data-date="2016-08-24T02:32:37+00:00">
+<div class="post" data-post-id="37273" data-author="cyprimus" data-date="2016-08-24T02:32:37+00:00" data-subject="Re: So crazy it just might work...">
 
 I agree with jb.  *gow... i feel sick..*
 
@@ -949,7 +949,7 @@ But would like to see the shop expanded, for max avvies who are getting bored..
 
 </div>
 
-<div class="post" data-post-id="37274" data-author="Teron" data-date="2016-08-24T08:15:33+00:00">
+<div class="post" data-post-id="37274" data-author="Teron" data-date="2016-08-24T08:15:33+00:00" data-subject="Re: So crazy it just might work...">
 
 JB
 
@@ -967,7 +967,7 @@ Even then, I do think that recalculating stat costs and making them scale for th
 
 </div>
 
-<div class="post" data-post-id="37275" data-author="Ker" data-date="2016-08-24T16:00:57+00:00">
+<div class="post" data-post-id="37275" data-author="Ker" data-date="2016-08-24T16:00:57+00:00" data-subject="Re: So crazy it just might work...">
 
 Hello,
 
@@ -991,7 +991,7 @@ Kthxbai.
 
 </div>
 
-<div class="post" data-post-id="37276" data-author="Teron" data-date="2016-08-24T16:24:19+00:00">
+<div class="post" data-post-id="37276" data-author="Teron" data-date="2016-08-24T16:24:19+00:00" data-subject="Re: So crazy it just might work...">
 
 I had written it, but deleted: there aren't many +sb items non-mages can use. Especially, if I want to wear +dam, +hit, -saves and +sb. 
 
@@ -999,7 +999,7 @@ It seems only bard and monk have lots of eq to wear early on. And maybe warrior 
 
 </div>
 
-<div class="post" data-post-id="37277" data-author="*juggleblood*" data-date="2016-08-25T22:36:05+00:00">
+<div class="post" data-post-id="37277" data-author="*juggleblood*" data-date="2016-08-25T22:36:05+00:00" data-subject="Re: So crazy it just might work...">
 
 @Taron, Solo bard? Ok, what about eq for the guy who wants to be a mage prime tank? Or Thief prime healer? 
 
@@ -1007,7 +1007,7 @@ It seems only bard and monk have lots of eq to wear early on. And maybe warrior 
 
 </div>
 
-<div class="post" data-post-id="37278" data-author="Ker" data-date="2016-08-26T01:47:50+00:00">
+<div class="post" data-post-id="37278" data-author="Ker" data-date="2016-08-26T01:47:50+00:00" data-subject="Re: So crazy it just might work...">
 
 Wowza, finally someone who points out some common sense. Yes - EQ.
 
@@ -1015,7 +1015,7 @@ Does it feel weird that the players have opted to lean on an extended grind call
 
 </div>
 
-<div class="post" data-post-id="37279" data-author="Teron" data-date="2016-08-26T03:51:37+00:00">
+<div class="post" data-post-id="37279" data-author="Teron" data-date="2016-08-26T03:51:37+00:00" data-subject="Re: So crazy it just might work...">
 
 > ***juggleblood* wrote:**
 > @Taron, Solo bard? Ok, what about eq for the guy who wants to be a mage prime tank? Or Thief prime healer?
@@ -1038,7 +1038,7 @@ I do tend to agree that instead of spending our level exp on stats, we should be
 
 </div>
 
-<div class="post" data-post-id="37280" data-author="*juggleblood*" data-date="2016-08-26T12:48:42+00:00">
+<div class="post" data-post-id="37280" data-author="*juggleblood*" data-date="2016-08-26T12:48:42+00:00" data-subject="Re: So crazy it just might work...">
 
 What gives is that there aren't any 9x40's building areas and designing eq. Seriously I think this is the problem. The game depends on player generated content and the most addicted players aren't contributing areas. I try to contribute one a year or more. If more people tried to do just 1 a year, the eq would be a lot more flushed out, which means the classes would be more flushed out. 
 
@@ -1048,7 +1048,7 @@ Again, I'm not speaking as someone who has the authority to grant someone this j
 
 </div>
 
-<div class="post" data-post-id="37281" data-author="Ker" data-date="2016-08-26T13:55:55+00:00">
+<div class="post" data-post-id="37281" data-author="Ker" data-date="2016-08-26T13:55:55+00:00" data-subject="Re: So crazy it just might work...">
 
 Count me in for EQ, I will personally see to it a fixed time for :
 
@@ -1068,7 +1068,7 @@ OkieDokie!
 
 </div>
 
-<div class="post" data-post-id="37285" data-author="Gorka" data-date="2016-08-26T17:03:03+00:00">
+<div class="post" data-post-id="37285" data-author="Gorka" data-date="2016-08-26T17:03:03+00:00" data-subject="Re: So crazy it just might work...">
 
 > ***juggleblood* wrote:**
 > Lets fix eq.
@@ -1079,7 +1079,7 @@ I think the imms need to re-evaluate class skills and caps first, making sure th
 
 </div>
 
-<div class="post" data-post-id="37287" data-author="Gorka" data-date="2016-08-26T21:40:34+00:00">
+<div class="post" data-post-id="37287" data-author="Gorka" data-date="2016-08-26T21:40:34+00:00" data-subject="Re: So crazy it just might work...">
 
 I started work on a "Dressing Room" program tonight... a program that given your levels and requirements works out the best eq set that you can have. I only spent 1.5 hours on it, and it would need many, many more hours to work properly. It would also require help from immortals to sort out issues with the eqlist, it currently doesn't filter temp/quest/retired items. There are other issues with it... But the reason I did this was to illustrate that using a program like this... eq imbalances can actually be found programmatically and mathematically. 
 
@@ -1273,7 +1273,7 @@ This is how you start to fix the eq list! With proper analysis! Even the smartes
 
 </div>
 
-<div class="post" data-post-id="37289" data-author="Teron" data-date="2016-08-27T11:28:36+00:00">
+<div class="post" data-post-id="37289" data-author="Teron" data-date="2016-08-27T11:28:36+00:00" data-subject="Re: So crazy it just might work...">
 
 @dr, wonna cooperate on eq? two heads are better, than one, and I (or Stun) probably have played warrior more, than you .)
 
@@ -1289,7 +1289,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37290" data-author="Teron" data-date="2016-08-27T11:38:46+00:00">
+<div class="post" data-post-id="37290" data-author="Teron" data-date="2016-08-27T11:38:46+00:00" data-subject="Re: balance">
 
 Re: skill balance
 
@@ -1299,7 +1299,7 @@ So I kind of agree that it'd help to define this first, and then come up with eq
 
 </div>
 
-<div class="post" data-post-id="37291" data-author="Ker" data-date="2016-08-27T15:07:33+00:00">
+<div class="post" data-post-id="37291" data-author="Ker" data-date="2016-08-27T15:07:33+00:00" data-subject="Re: So crazy it just might work...">
 
 That is the problem with working out EQ gear, too many heads makes the situation bad. They'd need someone experienced who can clean the mess the crap is in now, with a clear goal in mind.
 
@@ -1315,7 +1315,7 @@ K <3
 
 </div>
 
-<div class="post" data-post-id="37292" data-author="*juggleblood*" data-date="2016-08-27T16:34:17+00:00">
+<div class="post" data-post-id="37292" data-author="*juggleblood*" data-date="2016-08-27T16:34:17+00:00" data-subject="Re: So crazy it just might work...">
 
 > **Ker wrote:**
 > Fixing the current EQ DB out is a piece of cake. Stop over-thinking. No cap changes, no "boundary" changes. This is the time I would personally say : I will not explain in technical terms why we need these changes. Know for a fact that, they need a change, a positive change.
@@ -1328,7 +1328,7 @@ Err.. It's not even clear which changes you're talking about. What do you want e
 
 </div>
 
-<div class="post" data-post-id="37293" data-author="Ker" data-date="2016-08-27T19:00:27+00:00">
+<div class="post" data-post-id="37293" data-author="Ker" data-date="2016-08-27T19:00:27+00:00" data-subject="Re: So crazy it just might work...">
 
 65+ posts and we are still unclear? Shaize!
 
@@ -1338,7 +1338,7 @@ Bai.
 
 </div>
 
-<div class="post" data-post-id="37294" data-author="*Breeze*" data-date="2016-08-27T21:28:01+00:00">
+<div class="post" data-post-id="37294" data-author="*Breeze*" data-date="2016-08-27T21:28:01+00:00" data-subject="Re: So crazy it just might work...">
 
 > **Ker wrote:**
 > .. Shaize ..
@@ -1351,7 +1351,7 @@ I think the confusion is with you saying eq db instead of available eq usw...
 
 </div>
 
-<div class="post" data-post-id="37295" data-author="*juggleblood*" data-date="2016-08-28T00:07:35+00:00">
+<div class="post" data-post-id="37295" data-author="*juggleblood*" data-date="2016-08-28T00:07:35+00:00" data-subject="Re: So crazy it just might work...">
 
 > **Ker wrote:**
 > 65+ posts and we are still unclear? Shaize!
@@ -1372,7 +1372,7 @@ Then this crappy remark. Wtf do you want man. Spell it out, cuz I'm curious.
 
 </div>
 
-<div class="post" data-post-id="37298" data-author="Filk" data-date="2016-08-28T18:35:58+00:00">
+<div class="post" data-post-id="37298" data-author="Filk" data-date="2016-08-28T18:35:58+00:00" data-subject="Re: So crazy it just might work...">
 
 (image: /[<LINK_TEXT text="https://encrypted-tbn1.gstatic.com/imag ... lQ2HOxJmIQ">https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGwbphujvTKSA9zWcVDIhIitidNMTJcOhyT9YErFVUlQ2HOxJmIQ</LINK_TEXT>](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGwbphujvTKSA9zWcVDIhIitidNMTJcOhyT9YErFVUlQ2HOxJmIQ))
 
@@ -1384,7 +1384,7 @@ Anyway, that script should consider char basic stats to count best variant.
 
 </div>
 
-<div class="post" data-post-id="37303" data-author="Gorka" data-date="2016-08-28T20:54:22+00:00">
+<div class="post" data-post-id="37303" data-author="Gorka" data-date="2016-08-28T20:54:22+00:00" data-subject="Re: So crazy it just might work...">
 
 Thanks Fluffy, although I'm not sure what BIS is...  :| Google tells me, Bank for International Settlements, and who am I to argue with artificial intelligence...  :roll: 
 
@@ -1434,7 +1434,7 @@ The number one mistake programmers seem to make, it make themselves "gatekeepers
 
 </div>
 
-<div class="post" data-post-id="37306" data-author="*Breeze*" data-date="2016-08-28T23:56:37+00:00">
+<div class="post" data-post-id="37306" data-author="*Breeze*" data-date="2016-08-28T23:56:37+00:00" data-subject="Re: So crazy it just might work...">
 
 I have said 1000 times that if someone codes a better eqlist I would host it   0 people took me up on the offer. 
 
@@ -1456,7 +1456,7 @@ note : I am more of an ass t g an juggleblood. ymmv
 
 </div>
 
-<div class="post" data-post-id="37309" data-author="Gorka" data-date="2016-08-29T05:44:04+00:00">
+<div class="post" data-post-id="37309" data-author="Gorka" data-date="2016-08-29T05:44:04+00:00" data-subject="Re: So crazy it just might work...">
 
 I understand Breeze, doing anything for this game can be completely thankless... May as well do what you want to do if you are going to do it. I'm interested in the Maria export option, I will contact you after your break maybe. The exports so far enable me to take it as far as I plan to take it at this point.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36299" data-author="Hung" data-date="2015-12-11T22:50:40+00:00">
+<div class="post" data-post-id="36299" data-author="Hung" data-date="2015-12-11T22:50:40+00:00" data-subject="Warrior-Monk">
 
 Warrior-monk for sale. It had developed specifically to be good both at tanking and monking. Therefore drachma had been invested into Cloak of Shadows (-.5ac +2dr) and Sacred Bracer (-.4ac +2hd +dr). Also 2nd class is druid, so it has best possible manaregen.
 
@@ -134,7 +134,7 @@ The char comes with the ah vault consisting of two rooms.
 
 </div>
 
-<div class="post" data-post-id="36312" data-author="Hung" data-date="2015-12-14T02:51:51+00:00">
+<div class="post" data-post-id="36312" data-author="Hung" data-date="2015-12-14T02:51:51+00:00" data-subject="Re: Warrior-Monk">
 
 Sold.
 

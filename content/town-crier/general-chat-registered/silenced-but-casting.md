@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39730" data-author="Insomnia" data-date="2021-06-09T13:09:36+00:00">
+<div class="post" data-post-id="39730" data-author="Insomnia" data-date="2021-06-09T13:09:36+00:00" data-subject="Silenced but casting?">
 
 Not the first time I'm seeing this:
 
@@ -56,13 +56,13 @@ Is it a bug?
 
 </div>
 
-<div class="post" data-post-id="39732" data-author="Driven" data-date="2021-06-12T18:31:27+00:00">
+<div class="post" data-post-id="39732" data-author="Driven" data-date="2021-06-12T18:31:27+00:00" data-subject="Re: Silenced but casting?">
 
 A lot of mobs made by Rita use MUDL to cast spells (instead of using the built-in mage/cleric procs), so the bug is probably that his MUDL doesn't check for silence.  I would also bet that hermetic resonance also doesn't work against the spells that those mobs cast.  It's a case of the builder trying to be too tricky and just end up creating weird corner cases that shouldn't exist.  I can look at the code to determine whether there is a missing check that will fix all of these in one fell swoop.
 
 </div>
 
-<div class="post" data-post-id="39734" data-author="Insomnia" data-date="2021-06-15T17:19:32+00:00">
+<div class="post" data-post-id="39734" data-author="Insomnia" data-date="2021-06-15T17:19:32+00:00" data-subject="Re: Silenced but casting?">
 
 If you'll be fixing something in spells, and procs, and related checks – is it also possible to fix a bug with magic immunity that doesn't work against reflected spells?
 

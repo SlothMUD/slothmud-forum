@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="2372" data-author="Deju" data-date="2004-10-18T14:30:36+00:00">
+<div class="post" data-post-id="2372" data-author="Deju" data-date="2004-10-18T14:30:36+00:00" data-subject="Need: Blue Steel Guards">
 
 Hi all -
 
@@ -24,7 +24,7 @@ Deju
 
 </div>
 
-<div class="post" data-post-id="2374" data-author="Ender" data-date="2004-10-18T16:10:25+00:00">
+<div class="post" data-post-id="2374" data-author="Ender" data-date="2004-10-18T16:10:25+00:00" data-subject="">
 
 *blink*
 
@@ -32,7 +32,7 @@ Deju
 
 </div>
 
-<div class="post" data-post-id="2375" data-author="Deju" data-date="2004-10-18T16:27:41+00:00">
+<div class="post" data-post-id="2375" data-author="Deju" data-date="2004-10-18T16:27:41+00:00" data-subject="">
 
 Hmm, perhaps I have already spoken with Leizu and have nothing that he needs... which is why i made the original post.
 

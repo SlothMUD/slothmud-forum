@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39673" data-author="*teker*" data-date="2021-01-18T19:18:13+00:00">
+<div class="post" data-post-id="39673" data-author="*teker*" data-date="2021-01-18T19:18:13+00:00" data-subject="Changelog 2021-01-18">
 
 Fixed a crash in get if you mistyped the container name.  Not sure how we went on for so long with this in place, but it's fixed now.
 
@@ -20,7 +20,7 @@ Maniac put in a fix for reading - we're hoping this solves the crash in there.  
 
 </div>
 
-<div class="post" data-post-id="39674" data-author="Gorka" data-date="2021-01-19T13:55:32+00:00">
+<div class="post" data-post-id="39674" data-author="Gorka" data-date="2021-01-19T13:55:32+00:00" data-subject="Re: Changelog 2021-01-18">
 
 Thanks Teker and Maniac for the bug fixes.
 
@@ -30,7 +30,7 @@ Perhaps if eqset could be less concerned about missing items if that is a clasp 
 
 </div>
 
-<div class="post" data-post-id="39677" data-author="cnl" data-date="2021-01-19T20:12:38+00:00">
+<div class="post" data-post-id="39677" data-author="cnl" data-date="2021-01-19T20:12:38+00:00" data-subject="Re: Changelog 2021-01-18">
 
 thanks for the update on fixes! also, really excited to have reading back
 

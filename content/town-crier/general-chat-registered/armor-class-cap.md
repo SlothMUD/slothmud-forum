@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="39735" data-author="Insomnia" data-date="2021-06-17T19:19:46+00:00">
+<div class="post" data-post-id="39735" data-author="Insomnia" data-date="2021-06-17T19:19:46+00:00" data-subject="Armor class cap">
 
 I've done some calculations, and theoretically, it should be possible to get -19ac. This makes the gap between warriors and other classes a bit... unbalanced? How about making the AC cap depend on the position of warrior in class order? Something like this:
 
@@ -38,7 +38,7 @@ I am a mage/warrior, and warrior second gives literally nothing to me. I will mo
 
 </div>
 
-<div class="post" data-post-id="39736" data-author="Ker" data-date="2021-06-18T01:36:56+00:00">
+<div class="post" data-post-id="39736" data-author="Ker" data-date="2021-06-18T01:36:56+00:00" data-subject="Re: Armor class cap">
 
 Warrior is giving you a lot more than you can imagine.
 
@@ -50,7 +50,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="39737" data-author="Gorka" data-date="2021-06-18T04:47:03+00:00">
+<div class="post" data-post-id="39737" data-author="Gorka" data-date="2021-06-18T04:47:03+00:00" data-subject="Re: Armor class cap">
 
 Care to show how -19 is possible? How much of that is potions? You should base your post on warrior MAX_AC without potions (which is currently -16) - but -15 is more intellectually honest, because -16 comes with too many disadvantages.
 
@@ -64,7 +64,7 @@ So to summarize, although I agree with you... the functional difference between 
 
 </div>
 
-<div class="post" data-post-id="39738" data-author="Insomnia" data-date="2021-06-20T11:22:46+00:00">
+<div class="post" data-post-id="39738" data-author="Insomnia" data-date="2021-06-20T11:22:46+00:00" data-subject="Re: Armor class cap">
 
 Of course, this is "theoretically" – I just took all top AC items from the eqlist, including avatar light and army clasp, and added a goblet and six +maxdex potions on top.
 

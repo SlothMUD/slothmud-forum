@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36929" data-author="Teron" data-date="2016-05-18T12:00:06+00:00">
+<div class="post" data-post-id="36929" data-author="Teron" data-date="2016-05-18T12:00:06+00:00" data-subject="EQ Merc for Hire">
 
 Greetings.
 
@@ -42,13 +42,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="36944" data-author="Teron" data-date="2016-05-30T07:54:46+00:00">
+<div class="post" data-post-id="36944" data-author="Teron" data-date="2016-05-30T07:54:46+00:00" data-subject="Re: EQ Merc for Hire">
 
 A crackled crystal ball from Marlore and a spider-shaped ring are waiting for their owners for 2.5mil and 2mil respectively.
 
 </div>
 
-<div class="post" data-post-id="36964" data-author="Teron" data-date="2016-06-17T17:59:03+00:00">
+<div class="post" data-post-id="36964" data-author="Teron" data-date="2016-06-17T17:59:03+00:00" data-subject="Re: EQ Merc for Hire">
 
 A gem of musing has been delivered to the lucky buyer for 2mil.
 

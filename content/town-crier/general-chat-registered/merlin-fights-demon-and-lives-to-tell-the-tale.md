@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="7408" data-author="Corwin" data-date="2005-06-21T15:13:22+00:00">
+<div class="post" data-post-id="7408" data-author="Corwin" data-date="2005-06-21T15:13:22+00:00" data-subject="Merlin Fights Demon and Lives to Tell the Tale">
 
 Why are players so cool? This is about the best fight I have had in an age. Please enjoy this
 
@@ -354,19 +354,19 @@ You can't see anything but stars!
 
 </div>
 
-<div class="post" data-post-id="7409" data-author="Leaf" data-date="2005-06-21T16:13:38+00:00">
+<div class="post" data-post-id="7409" data-author="Leaf" data-date="2005-06-21T16:13:38+00:00" data-subject="">
 
 U didn't really live... u got ur ass handed.  Deju had to raise u :-P
 
 </div>
 
-<div class="post" data-post-id="7411" data-author="12345" data-date="2005-06-21T16:36:58+00:00">
+<div class="post" data-post-id="7411" data-author="12345" data-date="2005-06-21T16:36:58+00:00" data-subject="">
 
 [i:1854rx9y]Death is the only adventure you have left.[/i:1854rx9y]  --Captain James Hook
 
 </div>
 
-<div class="post" data-post-id="7412" data-author="Leaf" data-date="2005-06-21T17:04:29+00:00">
+<div class="post" data-post-id="7412" data-author="Leaf" data-date="2005-06-21T17:04:29+00:00" data-subject="">
 
 [i:2mrus2pk]Death is the only adventure you have left.[/i:2mrus2pk]  --Captain James Hook[/quote:2mrus2pk]
 
@@ -374,13 +374,13 @@ As we can see 12345 is a child trapped in a teenager's body.  :)
 
 </div>
 
-<div class="post" data-post-id="7413" data-author="12345" data-date="2005-06-21T17:11:23+00:00">
+<div class="post" data-post-id="7413" data-author="12345" data-date="2005-06-21T17:11:23+00:00" data-subject="">
 
 Spend 7 years in the military and you can have a teenager's body too...  :P
 
 </div>
 
-<div class="post" data-post-id="7414" data-author="Leaf" data-date="2005-06-21T18:22:10+00:00">
+<div class="post" data-post-id="7414" data-author="Leaf" data-date="2005-06-21T18:22:10+00:00" data-subject="">
 
 Naw my gf would be upset if I was gone for 7yrs.
 

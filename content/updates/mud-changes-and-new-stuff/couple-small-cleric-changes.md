@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="12771" data-author="*Splork*" data-date="2006-05-28T22:19:29+00:00">
+<div class="post" data-post-id="12771" data-author="*Splork*" data-date="2006-05-28T22:19:29+00:00" data-subject="Couple small cleric changes">
 
 1) Improved aerial servant again...
 

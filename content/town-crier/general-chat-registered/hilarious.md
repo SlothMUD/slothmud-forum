@@ -10,13 +10,13 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="7801" data-author="Medios" data-date="2005-07-10T03:27:23+00:00">
+<div class="post" data-post-id="7801" data-author="Medios" data-date="2005-07-10T03:27:23+00:00" data-subject="Hilarious">
 
 nt
 
 </div>
 
-<div class="post" data-post-id="7805" data-author="firebrand" data-date="2005-07-10T19:50:43+00:00">
+<div class="post" data-post-id="7805" data-author="firebrand" data-date="2005-07-10T19:50:43+00:00" data-subject="Re: Hilarious">
 
 nt[/quote:c3ap8x3q]
 
@@ -24,13 +24,13 @@ i think i speak for all of us when i say "Huh?"
 
 </div>
 
-<div class="post" data-post-id="7816" data-author="12345" data-date="2005-07-11T02:25:42+00:00">
+<div class="post" data-post-id="7816" data-author="12345" data-date="2005-07-11T02:25:42+00:00" data-subject="">
 
 His original post was changed.
 
 </div>
 
-<div class="post" data-post-id="7835" data-author="Medios" data-date="2005-07-11T20:18:00+00:00">
+<div class="post" data-post-id="7835" data-author="Medios" data-date="2005-07-11T20:18:00+00:00" data-subject="">
 
 Ill repost what I put before I deleted it.
 
@@ -54,7 +54,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="7836" data-author="Weasel" data-date="2005-07-11T20:37:12+00:00">
+<div class="post" data-post-id="7836" data-author="Weasel" data-date="2005-07-11T20:37:12+00:00" data-subject="">
 
 If using 'WTF' and 'hell' and 'damn' on gossip are considered noshoutable offenses (which they are based on past experience), then most certainly 'ass' would be... 
 
@@ -62,7 +62,7 @@ bah.. don't get me started on noshouts hehe.
 
 </div>
 
-<div class="post" data-post-id="7839" data-author="brand" data-date="2005-07-12T01:56:55+00:00">
+<div class="post" data-post-id="7839" data-author="brand" data-date="2005-07-12T01:56:55+00:00" data-subject="">
 
 in some small corner of the world they are working on a way to make weasels signature a noshout crime. :twisted: 
 
@@ -78,7 +78,7 @@ yeah and...
 
 </div>
 
-<div class="post" data-post-id="7840" data-author="impz" data-date="2005-07-12T03:35:49+00:00">
+<div class="post" data-post-id="7840" data-author="impz" data-date="2005-07-12T03:35:49+00:00" data-subject="">
 
 personal opinon, whatever comes out from the mouth of a weasel should be noshouted.
 
@@ -88,13 +88,13 @@ P/S What a bad mistell.
 
 </div>
 
-<div class="post" data-post-id="7843" data-author="Krok" data-date="2005-07-12T06:49:30+00:00">
+<div class="post" data-post-id="7843" data-author="Krok" data-date="2005-07-12T06:49:30+00:00" data-subject="">
 
 Well, even avatars have stupid "need *** sb" titles. Maybe newbies think that it's ok? I suggest some big guys with such titles think a bit, go pop those sbs without a word, or call them in groups if you can't solo. That will teach newbies.
 
 </div>
 
-<div class="post" data-post-id="7844" data-author="fyrstenheart" data-date="2005-07-12T07:29:52+00:00">
+<div class="post" data-post-id="7844" data-author="fyrstenheart" data-date="2005-07-12T07:29:52+00:00" data-subject="">
 
 Since my name came up in here, I feel obliged to respond to what is likely nothing more than the utterings of someone who seems to think it's alright to generalize about people that have sbs in their title and call them wuzzes or weaks or whatever it was that was the opinion of Medios who seemed to want to make a point of this on gossip.  So I did let him know that I didn't think much of his pretentious title, and here we can see his NEED for respect.  Anyone with some background in psychology can certainly draw their own conclusions from a title like "High Lord Assassin".
 
@@ -118,7 +118,7 @@ GET A LIFE.
 
 </div>
 
-<div class="post" data-post-id="7845" data-author="Wintersdark" data-date="2005-07-12T10:13:11+00:00">
+<div class="post" data-post-id="7845" data-author="Wintersdark" data-date="2005-07-12T10:13:11+00:00" data-subject="">
 
 As to sb's in the title...   
 
@@ -134,7 +134,7 @@ Myrridon/Saphyrra
 
 </div>
 
-<div class="post" data-post-id="7846" data-author="Leaf" data-date="2005-07-12T10:20:47+00:00">
+<div class="post" data-post-id="7846" data-author="Leaf" data-date="2005-07-12T10:20:47+00:00" data-subject="">
 
 First of all Fyrstenheart, u just made urself NEWBIE of the Week.
 
@@ -182,7 +182,7 @@ Good Day :)
 
 </div>
 
-<div class="post" data-post-id="7847" data-author="Alberich" data-date="2005-07-12T10:58:41+00:00">
+<div class="post" data-post-id="7847" data-author="Alberich" data-date="2005-07-12T10:58:41+00:00" data-subject="">
 
 agreed on sbs in title - and yeah, there are plenty of avatars who are noobs - it's not real hard to sit in groups and chop and get levels without actually learning anything.  Probably 90% of sbs (maybe 70% of av sbs) are soloable, at the most 2man - so why beg others to do something you can perfectly well do yourself, or with just asking 1 other person for help?  As for the books that everyone knows take big ass groups to pop... how likely is there to be one just laying around, if it loads on some godawful 25-30mils mob?
 
@@ -190,7 +190,7 @@ as for pissing of medios... lol, that wouldn't even be a fun arena to watch, alo
 
 </div>
 
-<div class="post" data-post-id="7848" data-author="12345" data-date="2005-07-12T11:07:34+00:00">
+<div class="post" data-post-id="7848" data-author="12345" data-date="2005-07-12T11:07:34+00:00" data-subject="">
 
 I think Fyr fails to realize that Mike has more than one character.  Mike might also be a tad aggressive, but he's one hell of a good player.  Medios has helped me out of many very ugly situations.
 
@@ -202,7 +202,7 @@ Happy hunting.
 
 </div>
 
-<div class="post" data-post-id="7851" data-author="blackmore" data-date="2005-07-12T13:50:18+00:00">
+<div class="post" data-post-id="7851" data-author="blackmore" data-date="2005-07-12T13:50:18+00:00" data-subject="">
 
 I don't see why people care who has what in their title.  As far as I care, put whatever you want in it, I'll be ignoring it anyways.  When you scream on gossip 5 times in under a minute that you need something, then I care.  
 
@@ -212,7 +212,7 @@ These comments are not aimed at avatars who do this.  Go pop your own damn books
 
 </div>
 
-<div class="post" data-post-id="7861" data-author="Medios" data-date="2005-07-12T19:19:45+00:00">
+<div class="post" data-post-id="7861" data-author="Medios" data-date="2005-07-12T19:19:45+00:00" data-subject="">
 
 Just to clarify something.
 
@@ -236,7 +236,7 @@ PS Young Sir Wiliam cracks me up :)
 
 </div>
 
-<div class="post" data-post-id="7862" data-author="Avatar" data-date="2005-07-12T19:20:49+00:00">
+<div class="post" data-post-id="7862" data-author="Avatar" data-date="2005-07-12T19:20:49+00:00" data-subject="newbs">
 
 Laugh, fun thread  :)
 
@@ -246,7 +246,7 @@ Per the whole Medios / Tard / Respect deal, I think everyone should be treated w
 
 </div>
 
-<div class="post" data-post-id="7863" data-author="Leaf" data-date="2005-07-12T20:38:47+00:00">
+<div class="post" data-post-id="7863" data-author="Leaf" data-date="2005-07-12T20:38:47+00:00" data-subject="">
 
 PS Young Sir Wiliam cracks me up :)[/quote:2yzmpxe6]
 
@@ -254,7 +254,7 @@ I do my best Mikey!
 
 </div>
 
-<div class="post" data-post-id="7871" data-author="Autolycos" data-date="2005-07-13T12:25:05+00:00">
+<div class="post" data-post-id="7871" data-author="Autolycos" data-date="2005-07-13T12:25:05+00:00" data-subject="">
 
 ok, i have to jump in and comment too, mainly because i know everyone is just waiting for my bantering.
 
@@ -274,7 +274,7 @@ PS.  Fyrstenheart is weak, i wasted him several times in arena, was alot of fun 
 
 </div>
 
-<div class="post" data-post-id="7873" data-author="impz" data-date="2005-07-13T14:29:51+00:00">
+<div class="post" data-post-id="7873" data-author="impz" data-date="2005-07-13T14:29:51+00:00" data-subject="">
 
 omg, i got the respect from autolycos!!!!
 
@@ -300,7 +300,7 @@ Guess just some rantings I have to make ever since I saw some stuff...
 
 </div>
 
-<div class="post" data-post-id="7875" data-author="12345" data-date="2005-07-13T16:15:36+00:00">
+<div class="post" data-post-id="7875" data-author="12345" data-date="2005-07-13T16:15:36+00:00" data-subject="">
 
 Well... you have to give Impz some credit.  At least when he offers help he isn't picking your pocket behind your back.  :twisted: 
 
@@ -308,13 +308,13 @@ Well... you have to give Impz some credit.  At least when he offers help he isn'
 
 </div>
 
-<div class="post" data-post-id="7880" data-author="Avatar" data-date="2005-07-13T20:39:34+00:00">
+<div class="post" data-post-id="7880" data-author="Avatar" data-date="2005-07-13T20:39:34+00:00" data-subject="Talk about hilarious">
 
 I keep hearing Cartman's voice when the halfling rogue talks...
 
 </div>
 
-<div class="post" data-post-id="7881" data-author="Avatar" data-date="2005-07-13T20:40:05+00:00">
+<div class="post" data-post-id="7881" data-author="Avatar" data-date="2005-07-13T20:40:05+00:00" data-subject="bah">
 
 and for the link...
 

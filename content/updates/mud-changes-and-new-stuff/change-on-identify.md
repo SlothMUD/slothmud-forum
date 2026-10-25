@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31601" data-author="*Isabo*" data-date="2010-08-26T02:52:08+00:00">
+<div class="post" data-post-id="31601" data-author="*Isabo*" data-date="2010-08-26T02:52:08+00:00" data-subject="Change on identify">
 
 Good day, mortals.
 

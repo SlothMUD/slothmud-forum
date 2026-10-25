@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="34306" data-author="Yasik" data-date="2013-05-30T11:18:47+00:00">
+<div class="post" data-post-id="34306" data-author="Yasik" data-date="2013-05-30T11:18:47+00:00" data-subject="Spell checks for enough mana and max # of followers">
 
 **<425hp 20ma 184mv>  [+9]  AC: -7.1  EXP: 17,194,242  COINS: 398,284  [indoors]
 
@@ -38,19 +38,19 @@ You attempt to banish your undead followers, but seem to lack any.
 
 </div>
 
-<div class="post" data-post-id="34307" data-author="Sleeping Forest" data-date="2013-05-31T00:51:48+00:00">
+<div class="post" data-post-id="34307" data-author="Sleeping Forest" data-date="2013-05-31T00:51:48+00:00" data-subject="Re: Spell checks for enough mana and max # of followers">
 
 i 2nd this motion. its been driving me nuts for some time now. a fix to this would be GREATLY appreciated.
 
 </div>
 
-<div class="post" data-post-id="34308" data-author="*Splork*" data-date="2013-05-31T01:37:34+00:00">
+<div class="post" data-post-id="34308" data-author="*Splork*" data-date="2013-05-31T01:37:34+00:00" data-subject="Re: Spell checks for enough mana and max # of followers">
 
 To be honest, I can't figure out why its happening. Its not all spells but a few.
 
 </div>
 
-<div class="post" data-post-id="34310" data-author="blackmore" data-date="2013-06-01T01:39:28+00:00">
+<div class="post" data-post-id="34310" data-author="blackmore" data-date="2013-06-01T01:39:28+00:00" data-subject="Re: Spell checks for enough mana and max # of followers">
 
 I'm pretty sure it's spells that have a base cost, plus a cost depending on the parameter added.  It succeeds casting the base spell, but the added cost causes it to fail.
 

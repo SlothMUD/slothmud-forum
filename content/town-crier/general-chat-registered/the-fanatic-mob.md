@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="35861" data-author="Yasik" data-date="2015-04-24T18:22:08+00:00">
+<div class="post" data-post-id="35861" data-author="Yasik" data-date="2015-04-24T18:22:08+00:00" data-subject="The fanatic mob">
 
 I cant hold myself from not creating a special thread regarding this 'fanatic person' feature.
 
@@ -64,7 +64,7 @@ The fanatic leaves east.
 
 </div>
 
-<div class="post" data-post-id="35862" data-author="Yasik" data-date="2015-04-24T18:36:09+00:00">
+<div class="post" data-post-id="35862" data-author="Yasik" data-date="2015-04-24T18:36:09+00:00" data-subject="Re: The fanatic mob">
 
 The fanatic arrives from the east.
 
@@ -78,13 +78,13 @@ The fanatic leaves east.
 
 </div>
 
-<div class="post" data-post-id="35863" data-author="*Breeze*" data-date="2015-04-25T06:49:05+00:00">
+<div class="post" data-post-id="35863" data-author="*Breeze*" data-date="2015-04-25T06:49:05+00:00" data-subject="Re: The fanatic mob">
 
 That was Teker's first contribution to sloth :)
 
 </div>
 
-<div class="post" data-post-id="35864" data-author="Teron" data-date="2015-04-26T19:59:02+00:00">
+<div class="post" data-post-id="35864" data-author="Teron" data-date="2015-04-26T19:59:02+00:00" data-subject="Re: The fanatic mob">
 
 He was begging the auctioneer for a toy sword and, when I got him one, he didn't appreciate it. What a self-centered ass.
 
@@ -94,7 +94,7 @@ Thanks, Teker.
 
 </div>
 
-<div class="post" data-post-id="35867" data-author="*teker*" data-date="2015-04-27T14:06:17+00:00">
+<div class="post" data-post-id="35867" data-author="*teker*" data-date="2015-04-27T14:06:17+00:00" data-subject="Re: The fanatic mob">
 
 Thanks for the compliments.  With all the "open source" comments going around I thought I'd mention that the fanatic's code is written entirely in mudl and was done before I had access to the code.  I wanted to see if it were possible to build something creative into the game without coding it in C.
 

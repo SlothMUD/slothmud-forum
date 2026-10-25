@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="17183" data-author="Rosher" data-date="2007-03-06T07:19:04+00:00">
+<div class="post" data-post-id="17183" data-author="Rosher" data-date="2007-03-06T07:19:04+00:00" data-subject="Communcation filtering popups with colorized output">
 
 I want to have all grouptells, gossips etc in separate windows. It is simple to implement, but the strings being filtered are stripped of ansi color codes - so it looks all grey and boring. Below is the script that filters communications to separate windows and saves ansi colors so they look there as they look in the main mud window
 

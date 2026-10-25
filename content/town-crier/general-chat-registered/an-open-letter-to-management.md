@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="35178" data-author="van" data-date="2014-05-28T00:11:17+00:00">
+<div class="post" data-post-id="35178" data-author="van" data-date="2014-05-28T00:11:17+00:00" data-subject="An open letter to management">
 
 ETA:  The original post was a bit strident.  While I stand behind everything I say below, let me just say how incredibly offensive it is that I'm forced to beg from 9x40s in order to get gems.  Particularly, Tuk giving me a Bloodstone as a consolation for not being able to afford his vaulted Rhodochrosites was quite insulting.  I'll try some constructive criticism instead, i.e. providing a solution:
 
@@ -44,7 +44,7 @@ Van
 
 </div>
 
-<div class="post" data-post-id="35180" data-author="*Idjit*" data-date="2014-05-28T03:04:58+00:00">
+<div class="post" data-post-id="35180" data-author="*Idjit*" data-date="2014-05-28T03:04:58+00:00" data-subject="Re: An open letter to management">
 
 We need to proceed cautiously, and apply a measure that targets the speculators/hoarders and only the speculators/hoarders.
 
@@ -58,7 +58,7 @@ Something else will need to happen, I'm not sure what.
 
 </div>
 
-<div class="post" data-post-id="35181" data-author="van" data-date="2014-05-28T03:09:21+00:00">
+<div class="post" data-post-id="35181" data-author="van" data-date="2014-05-28T03:09:21+00:00" data-subject="Re: An open letter to management">
 
 > **Quote:**
 > Also legitimate non-hoarders have to wait a long time (even longer under the new repop scheme) to get five tier**1**'s to make a single rune.
@@ -67,7 +67,7 @@ Fixed that number for you.
 
 </div>
 
-<div class="post" data-post-id="35182" data-author="Hung" data-date="2014-05-28T03:49:58+00:00">
+<div class="post" data-post-id="35182" data-author="Hung" data-date="2014-05-28T03:49:58+00:00" data-subject="Re: An open letter to management">
 
 If runes forbidden to vault what will happen to absent hoarders? They return one day to find out their vaults are empty of runes? I dont think this is the solution.
 
@@ -77,7 +77,7 @@ Of course, I dont know anything. Maybe lowering runes poprate is only one step i
 
 </div>
 
-<div class="post" data-post-id="35183" data-author="*Breeze*" data-date="2014-05-28T06:13:24+00:00">
+<div class="post" data-post-id="35183" data-author="*Breeze*" data-date="2014-05-28T06:13:24+00:00" data-subject="Re: An open letter to management">
 
 when old machine died, we moved sloth to new machine.
 
@@ -109,7 +109,7 @@ breeze goes back to real life
 
 </div>
 
-<div class="post" data-post-id="35185" data-author="Hung" data-date="2014-05-28T08:17:46+00:00">
+<div class="post" data-post-id="35185" data-author="Hung" data-date="2014-05-28T08:17:46+00:00" data-subject="Re: An open letter to management">
 
 I apologize: I should've ask before pressing charges and stop believing gossips.
 
@@ -121,7 +121,7 @@ Anyway, please, clarify the situation once and for all by answering following qu
 
 </div>
 
-<div class="post" data-post-id="35186" data-author="*Breeze*" data-date="2014-05-28T08:34:19+00:00">
+<div class="post" data-post-id="35186" data-author="*Breeze*" data-date="2014-05-28T08:34:19+00:00" data-subject="Re: An open letter to management">
 
 1) yes
 
@@ -139,7 +139,7 @@ ie: 50 people vs a kobold will never pop a gem.
 
 </div>
 
-<div class="post" data-post-id="35187" data-author="*Splork*" data-date="2014-05-28T12:50:00+00:00">
+<div class="post" data-post-id="35187" data-author="*Splork*" data-date="2014-05-28T12:50:00+00:00" data-subject="Re: An open letter to management">
 
 Breeze mostly covered the main issue, which is gems are disabled upon reboot. We added a config to enable and disable gems because of the new server stuff. The Gems were disabled upon reboot/crash. When mud reboots/crashes gems need to be turned on by an Immortal. I will fix this as soon as I get home from vacation on Monday. I've been out of town for the past week.
 
@@ -149,13 +149,13 @@ We have only had the new machine for bit over a month. After a few months we wil
 
 </div>
 
-<div class="post" data-post-id="35188" data-author="van" data-date="2014-05-28T16:22:53+00:00">
+<div class="post" data-post-id="35188" data-author="van" data-date="2014-05-28T16:22:53+00:00" data-subject="Re: An open letter to management">
 
 Well, if it was sincerely a bug, then please accept my apologies for imputing desire where not intended.  Does this mean gems have legitimately been NOT on for the full 8 days since reboot?
 
 </div>
 
-<div class="post" data-post-id="35189" data-author="DarkArtist" data-date="2014-05-28T16:24:50+00:00">
+<div class="post" data-post-id="35189" data-author="DarkArtist" data-date="2014-05-28T16:24:50+00:00" data-subject="Re: An open letter to management">
 
 I think it's funny to attack Tuk because you aren't getting the gem pops you want.
 
@@ -163,7 +163,7 @@ Hoarding? Absurd notion. You got mad at the admin and launched your first salvo 
 
 </div>
 
-<div class="post" data-post-id="35190" data-author="van" data-date="2014-05-28T16:37:17+00:00">
+<div class="post" data-post-id="35190" data-author="van" data-date="2014-05-28T16:37:17+00:00" data-subject="Re: An open letter to management">
 
 > **Quote:**
 > I think it's funny to attack Tuk because you aren't getting the gem pops you want.
@@ -186,7 +186,7 @@ Van
 
 </div>
 
-<div class="post" data-post-id="35191" data-author="*Breeze*" data-date="2014-05-28T18:02:56+00:00">
+<div class="post" data-post-id="35191" data-author="*Breeze*" data-date="2014-05-28T18:02:56+00:00" data-subject="Re: An open letter to management">
 
 > **van wrote:**
 > Does this mean gems have legitimately been NOT on for the full 8 days since reboot?
@@ -201,7 +201,7 @@ I am 2 days away from my PC so I can't log in to do it.
 
 </div>
 
-<div class="post" data-post-id="35192" data-author="van" data-date="2014-05-28T19:06:37+00:00">
+<div class="post" data-post-id="35192" data-author="van" data-date="2014-05-28T19:06:37+00:00" data-subject="Re: An open letter to management">
 
 > **Quote:**
 > Yes that is correct
@@ -210,13 +210,13 @@ Thanks for confirming, and thanks for fixing the issue.  Motivates me to finish 
 
 </div>
 
-<div class="post" data-post-id="35193" data-author="*Breeze*" data-date="2014-05-28T19:16:49+00:00">
+<div class="post" data-post-id="35193" data-author="*Breeze*" data-date="2014-05-28T19:16:49+00:00" data-subject="Re: An open letter to management">
 
 a la orden
 
 </div>
 
-<div class="post" data-post-id="35195" data-author="Hung" data-date="2014-05-29T18:40:30+00:00">
+<div class="post" data-post-id="35195" data-author="Hung" data-date="2014-05-29T18:40:30+00:00" data-subject="Re: An open letter to management">
 
 While we're there, I would like to propose another idea. Add a shop, where one can buy gems for immensive coins prices. Say, 30m for first tier, 10m for 2nd and 5m for third. I understand, it sounds insane. But, please, listen to my reasons.
 
@@ -230,7 +230,7 @@ While we're there, I would like to propose another idea. Add a shop, where one c
 
 </div>
 
-<div class="post" data-post-id="35196" data-author="Popeye" data-date="2014-05-29T22:29:38+00:00">
+<div class="post" data-post-id="35196" data-author="Popeye" data-date="2014-05-29T22:29:38+00:00" data-subject="Re: An open letter to management">
 
 As with any long standing mud, there has to be some consistency with what has happened before, and as long as gem pop rates are roughly the same, there should be no reason changing anything.
 

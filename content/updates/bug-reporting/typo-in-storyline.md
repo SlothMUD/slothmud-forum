@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="6931" data-author="guest" data-date="2005-06-08T18:51:52+00:00">
+<div class="post" data-post-id="6931" data-author="guest" data-date="2005-06-08T18:51:52+00:00" data-subject="Typo in Storyline">
 
 While reading the storyline, I noticed:
 
@@ -20,7 +20,7 @@ I assume that should read "Khovak [b:3k1rjy9f]k[/b:3k1rjy9f]new now".
 
 </div>
 
-<div class="post" data-post-id="6932" data-author="kjartan" data-date="2005-06-08T18:56:35+00:00">
+<div class="post" data-post-id="6932" data-author="kjartan" data-date="2005-06-08T18:56:35+00:00" data-subject="">
 
 Thanks!  I'll fix that.
 

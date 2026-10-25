@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34618" data-author="DarkArtist" data-date="2013-12-10T22:45:23+00:00">
+<div class="post" data-post-id="34618" data-author="DarkArtist" data-date="2013-12-10T22:45:23+00:00" data-subject="Speedwalk">
 
 Alias Speedwalk
 
@@ -36,7 +36,7 @@ It'd be better to just fix the pattern tho.
 
 </div>
 
-<div class="post" data-post-id="34623" data-author="Avar" data-date="2013-12-11T18:49:23+00:00">
+<div class="post" data-post-id="34623" data-author="Avar" data-date="2013-12-11T18:49:23+00:00" data-subject="Re: Speedwalk">
 
 Maybe this will work:
 
@@ -44,7 +44,7 @@ Maybe this will work:
 
 </div>
 
-<div class="post" data-post-id="34624" data-author="DarkArtist" data-date="2013-12-12T11:41:11+00:00">
+<div class="post" data-post-id="34624" data-author="DarkArtist" data-date="2013-12-12T11:41:11+00:00" data-subject="Re: Speedwalk">
 
 Yup, thanks :)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10787" data-author="Tetsulunathaya" data-date="2006-02-18T20:10:34+00:00">
+<div class="post" data-post-id="10787" data-author="Tetsulunathaya" data-date="2006-02-18T20:10:34+00:00" data-subject="WTB/WTT Ebony Scarab">
 
 WTB/WTT for an Ebony Scarab
 

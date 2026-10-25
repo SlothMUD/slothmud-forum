@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="18560" data-author="Vixn" data-date="2007-05-20T21:31:06+00:00">
+<div class="post" data-post-id="18560" data-author="Vixn" data-date="2007-05-20T21:31:06+00:00" data-subject="acids &#x27;fixed&#x27;">
 
 [b:hitqcz5q]You weave the threads of magic masterfully!
 
@@ -54,43 +54,43 @@ Do you think it's funny: add feature (masterful casting) then make it useless?
 
 </div>
 
-<div class="post" data-post-id="18561" data-author="brady" data-date="2007-05-20T22:10:05+00:00">
+<div class="post" data-post-id="18561" data-author="brady" data-date="2007-05-20T22:10:05+00:00" data-subject="">
 
 masterful acids now have a chance of double casting.  shrug.
 
 </div>
 
-<div class="post" data-post-id="18563" data-author="Weasel" data-date="2007-05-21T03:17:28+00:00">
+<div class="post" data-post-id="18563" data-author="Weasel" data-date="2007-05-21T03:17:28+00:00" data-subject="">
 
 Brady.. huh? What about blinding the mob?
 
 </div>
 
-<div class="post" data-post-id="18565" data-author="brady" data-date="2007-05-21T04:28:24+00:00">
+<div class="post" data-post-id="18565" data-author="brady" data-date="2007-05-21T04:28:24+00:00" data-subject="">
 
 acids still work to blind the mobs.  masterfuls don't blind at 100% which I think is lame too...but masterfuls also have a chance of casting double.  If channeling attunement bonuses apply, I ain't mad.
 
 </div>
 
-<div class="post" data-post-id="18567" data-author="Weasel" data-date="2007-05-21T05:23:37+00:00">
+<div class="post" data-post-id="18567" data-author="Weasel" data-date="2007-05-21T05:23:37+00:00" data-subject="">
 
 ..so it's kinda like 'I masterfully phukt it up - it didn't do what I intended, but it still hurt like a bastard'.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="18569" data-author="Messiaen" data-date="2007-05-21T10:55:34+00:00">
+<div class="post" data-post-id="18569" data-author="Messiaen" data-date="2007-05-21T10:55:34+00:00" data-subject="">
 
 Yeah, that hurts... :(
 
 </div>
 
-<div class="post" data-post-id="18571" data-author="13" data-date="2007-05-21T12:49:08+00:00">
+<div class="post" data-post-id="18571" data-author="13" data-date="2007-05-21T12:49:08+00:00" data-subject="">
 
 it doesn't make any sense to me, why not guarantee the blind since that's like the _only_ reason acid blast gets used?
 
 </div>
 
-<div class="post" data-post-id="18576" data-author="Autolycos" data-date="2007-05-21T14:33:57+00:00">
+<div class="post" data-post-id="18576" data-author="Autolycos" data-date="2007-05-21T14:33:57+00:00" data-subject="">
 
 ..so it's kinda like 'I masterfully phukt it up - it didn't do what I intended, but it still hurt like a bastard'.  :twisted:[/quote:2r19kbhi]
 
@@ -102,7 +102,7 @@ You watch with great satisfaction as your endless decanter of water is filled to
 
 </div>
 
-<div class="post" data-post-id="18584" data-author="Weasel" data-date="2007-05-22T00:00:17+00:00">
+<div class="post" data-post-id="18584" data-author="Weasel" data-date="2007-05-22T00:00:17+00:00" data-subject="">
 
 [b:nd0ngke1]You weave the threads of magic masterfully! [/b:nd0ngke1]
 
@@ -114,7 +114,7 @@ You are drowning!
 
 </div>
 
-<div class="post" data-post-id="18587" data-author="Autolycos" data-date="2007-05-22T12:39:31+00:00">
+<div class="post" data-post-id="18587" data-author="Autolycos" data-date="2007-05-22T12:39:31+00:00" data-subject="">
 
 Exactly!!
 

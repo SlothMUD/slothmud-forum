@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="961" data-author="Ranger" data-date="2004-07-07T05:58:01+00:00">
+<div class="post" data-post-id="961" data-author="Ranger" data-date="2004-07-07T05:58:01+00:00" data-subject="Char for Sale (Ranger)">
 
 I dont really use him anymore and i need money so here he goes usd only pls btw im a pack rat so he has alot of stuff including a tank mode dam mode and regen mode my email is johnathonashley@hotmail.com
 
@@ -192,13 +192,13 @@ The teller tells you, 'You have 1197010 coins in the bank.'
 
 </div>
 
-<div class="post" data-post-id="965" data-author="Ranger" data-date="2004-07-07T07:54:23+00:00">
+<div class="post" data-post-id="965" data-author="Ranger" data-date="2004-07-07T07:54:23+00:00" data-subject="">
 
 that score is with him naked btw
 
 </div>
 
-<div class="post" data-post-id="980" data-author="Corwin" data-date="2004-07-08T00:38:05+00:00">
+<div class="post" data-post-id="980" data-author="Corwin" data-date="2004-07-08T00:38:05+00:00" data-subject="Snakes and Sparklers">
 
 Where is the good shit....
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16913" data-author="Popa" data-date="2007-02-15T17:25:07+00:00">
+<div class="post" data-post-id="16913" data-author="Popa" data-date="2007-02-15T17:25:07+00:00" data-subject="Amuzing">
 
 Second time this happened to me today
 
@@ -138,7 +138,7 @@ A Shuggoth guard grows a short, grey tube from his belly!
 
 </div>
 
-<div class="post" data-post-id="16915" data-author="Weasel" data-date="2007-02-15T19:18:13+00:00">
+<div class="post" data-post-id="16915" data-author="Weasel" data-date="2007-02-15T19:18:13+00:00" data-subject="Re: Amuzing">
 
 A Shuggoth guard grows a short, grey tube from his belly![/quote:2zcjlhos]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="12050" data-author="Caldrick" data-date="2006-04-10T18:30:15+00:00">
+<div class="post" data-post-id="12050" data-author="Caldrick" data-date="2006-04-10T18:30:15+00:00" data-subject="Clever Kenji">
 
 Kenji the wandering minstrel is lying here, mortally wounded.(Faint Blue Aura) 
 
@@ -36,13 +36,13 @@ How can a mob phase door when morted?
 
 </div>
 
-<div class="post" data-post-id="12051" data-author="kjartan" data-date="2006-04-10T18:48:54+00:00">
+<div class="post" data-post-id="12051" data-author="kjartan" data-date="2006-04-10T18:48:54+00:00" data-subject="">
 
 Sneezing is involuntary.
 
 </div>
 
-<div class="post" data-post-id="12054" data-author="Caldrick" data-date="2006-04-10T20:00:23+00:00">
+<div class="post" data-post-id="12054" data-author="Caldrick" data-date="2006-04-10T20:00:23+00:00" data-subject="">
 
 Kenji the wandering minstrel is mortally wounded, and will die soon, if not aided.
 
@@ -58,7 +58,7 @@ Now once I can accept, but twice - there has to be something wrong.....
 
 </div>
 
-<div class="post" data-post-id="12055" data-author="Medios" data-date="2006-04-10T21:15:08+00:00">
+<div class="post" data-post-id="12055" data-author="Medios" data-date="2006-04-10T21:15:08+00:00" data-subject="">
 
 What Kjartan meant to say is that Kenji has a disease called telephasia, his sneezing is unrelated to his physical status, ie if hes morted the disease can still affect him.
 
@@ -68,13 +68,13 @@ PS  Correct me if im wrong.
 
 </div>
 
-<div class="post" data-post-id="12056" data-author="kjartan" data-date="2006-04-10T21:35:37+00:00">
+<div class="post" data-post-id="12056" data-author="kjartan" data-date="2006-04-10T21:35:37+00:00" data-subject="">
 
 Nope, that's right.  No more info on this quest on the message board, please.
 
 </div>
 
-<div class="post" data-post-id="12061" data-author="Krok" data-date="2006-04-11T01:27:46+00:00">
+<div class="post" data-post-id="12061" data-author="Krok" data-date="2006-04-11T01:27:46+00:00" data-subject="">
 
 Bleah, Caldrick, that's not really hard to think another minute before asking silly questions on the crier :)
 

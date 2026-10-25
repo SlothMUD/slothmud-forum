@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="38268" data-author="Tuck" data-date="2017-05-31T17:34:26+00:00">
+<div class="post" data-post-id="38268" data-author="Tuck" data-date="2017-05-31T17:34:26+00:00" data-subject="Missing Juggleblood campaign.">
 
 Hi folks,
 
@@ -22,13 +22,13 @@ thank you.
 
 </div>
 
-<div class="post" data-post-id="38270" data-author="Tuck" data-date="2017-05-31T17:38:44+00:00">
+<div class="post" data-post-id="38270" data-author="Tuck" data-date="2017-05-31T17:38:44+00:00" data-subject="Re: Missing Juggleblood campaign.">
 
 Screen ;-)
 
 </div>
 
-<div class="post" data-post-id="38305" data-author="Tuck" data-date="2017-06-25T13:31:13+00:00">
+<div class="post" data-post-id="38305" data-author="Tuck" data-date="2017-06-25T13:31:13+00:00" data-subject="Re: Missing Juggleblood campaign.">
 
 Dear friends,
 
@@ -40,7 +40,7 @@ Your Tukster.
 
 </div>
 
-<div class="post" data-post-id="38306" data-author="Teron" data-date="2017-06-25T13:33:55+00:00">
+<div class="post" data-post-id="38306" data-author="Teron" data-date="2017-06-25T13:33:55+00:00" data-subject="Re: Missing Juggleblood campaign.">
 
 I don't think we've heard any news of JB being unpassworded, have we?
 

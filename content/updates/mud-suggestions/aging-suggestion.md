@@ -10,19 +10,19 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="5011" data-author="Best" data-date="2005-03-13T06:34:48+00:00">
+<div class="post" data-post-id="5011" data-author="Best" data-date="2005-03-13T06:34:48+00:00" data-subject="Aging suggestion">
 
 Let's make aging the way it was five years ago, dependent on MUD years passed since the character creation. This will make -age spell and youth potions useful again, and will overall improve the world's economics.
 
 </div>
 
-<div class="post" data-post-id="5012" data-author="Alberich" data-date="2005-03-13T06:49:59+00:00">
+<div class="post" data-post-id="5012" data-author="Alberich" data-date="2005-03-13T06:49:59+00:00" data-subject="">
 
 so if you can only log in for a little bit every day, you get to spend the whole time splorking mobs for poy cps, or spend all your drach buying 'em at weaver?  yeah... that sounds like alot of fun to me
 
 </div>
 
-<div class="post" data-post-id="5017" data-author="Leaf" data-date="2005-03-13T17:01:32+00:00">
+<div class="post" data-post-id="5017" data-author="Leaf" data-date="2005-03-13T17:01:32+00:00" data-subject="">
 
 I think he was saying it takes forever to age.  It's hard for newer chars
 
@@ -34,13 +34,13 @@ bad for storage chars, or ppl thats on breaks.... But it can go both ways...
 
 </div>
 
-<div class="post" data-post-id="5018" data-author="Weasel" data-date="2005-03-13T17:51:19+00:00">
+<div class="post" data-post-id="5018" data-author="Weasel" data-date="2005-03-13T17:51:19+00:00" data-subject="">
 
 Isn't there an aging potion or spell for that very reason? heh.. everyone complained about how it was set up before so the coders changed it.. now people want to change it back? Believe me, the way it is now is much better if you plan to stick around sloth for a while..
 
 </div>
 
-<div class="post" data-post-id="5019" data-author="12345" data-date="2005-03-13T18:24:10+00:00">
+<div class="post" data-post-id="5019" data-author="12345" data-date="2005-03-13T18:24:10+00:00" data-subject="">
 
 Enlightenment 
 
@@ -72,7 +72,7 @@ I know the wolf is kinda tough.  Other than that it doesn't seem too bad, cheap 
 
 </div>
 
-<div class="post" data-post-id="5021" data-author="Qa" data-date="2005-03-13T20:47:04+00:00">
+<div class="post" data-post-id="5021" data-author="Qa" data-date="2005-03-13T20:47:04+00:00" data-subject="">
 
 Please do not change againg.  Years ago it was way too quick.  (I bet I have forged 25 EoYs and used/bought an number of PoYs.)  At one point I was over 60 and my moves sucked.  I really don't want to go back to having to run EoY/PoY mobs on a regular basis.  The way it is currently, I can add EoY mobs to any exising runs and foge EoYs at a rate slightly faster than I age.
 
@@ -82,7 +82,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="5022" data-author="Qa" data-date="2005-03-13T20:50:06+00:00">
+<div class="post" data-post-id="5022" data-author="Qa" data-date="2005-03-13T20:50:06+00:00" data-subject="Ideal Age?">
 
 Speaking of age, what is the ideal age?
 
@@ -94,13 +94,13 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="5030" data-author="Weasel" data-date="2005-03-14T00:48:05+00:00">
+<div class="post" data-post-id="5030" data-author="Weasel" data-date="2005-03-14T00:48:05+00:00" data-subject="">
 
 I thinki t just effects the max mvs. Yeah, the ideal age for max mvs is low 30's, around 32 as you said. I always wondered if age affects anything else tho, like concentration etc.. hmm
 
 </div>
 
-<div class="post" data-post-id="5032" data-author="Choong" data-date="2005-03-14T05:40:24+00:00">
+<div class="post" data-post-id="5032" data-author="Choong" data-date="2005-03-14T05:40:24+00:00" data-subject=".">
 
 If I'm not mistaken, my mvs was max at 30. Anyway at the age of 40, you still have very playable mvs/ mv regen and don't really need eoy poy.  its reaching the age of 80/90 that poy are really appreciated. 
 
@@ -108,13 +108,13 @@ I've played an avatar char once that was 80+ years old. My job was to reduce its
 
 </div>
 
-<div class="post" data-post-id="5036" data-author="Avatar" data-date="2005-03-14T12:22:32+00:00">
+<div class="post" data-post-id="5036" data-author="Avatar" data-date="2005-03-14T12:22:32+00:00" data-subject="Age">
 
 It used to be quite rough if you were away for any amount of time.  I have two characters that each hit over 100 years.  Of course we used to do those fountain of youth quests so I'd try my hardest to find that fountain every time it was placed.
 
 </div>
 
-<div class="post" data-post-id="5037" data-author="Leaf" data-date="2005-03-14T12:25:42+00:00">
+<div class="post" data-post-id="5037" data-author="Leaf" data-date="2005-03-14T12:25:42+00:00" data-subject="">
 
 Those fountain was cool, I think they help restore like +30yrs of ur life...
 
@@ -122,7 +122,7 @@ Or something like that.
 
 </div>
 
-<div class="post" data-post-id="5042" data-author="Calim" data-date="2005-03-14T14:41:27+00:00">
+<div class="post" data-post-id="5042" data-author="Calim" data-date="2005-03-14T14:41:27+00:00" data-subject="">
 
 Don't change it back.  I've been here a long time and taken several leaves that lasted many months.  One of those leaves was in part due to the age of my character getting over the playable point with moves.  I could not keep up in groups and had a late stat, low int, such that I could not refresh enough either.  Of course, I came back, created Calim and have used one EoY to get him back to around 30.  
 
@@ -130,19 +130,19 @@ Of a more fun note, I have access to a char, who due to some weird bug, was 423 
 
 </div>
 
-<div class="post" data-post-id="5044" data-author="kjartan" data-date="2005-03-14T19:25:37+00:00">
+<div class="post" data-post-id="5044" data-author="kjartan" data-date="2005-03-14T19:25:37+00:00" data-subject="">
 
 I don't think there's any plans to change aging back to being based on wall-clock-time-since-character-creation.  The current aging system with age affecting nothing but moves is kind of silly, which makes it a ripe target for change, but it's not something we are actively working on changing at the moment.
 
 </div>
 
-<div class="post" data-post-id="5052" data-author="Weasel" data-date="2005-03-14T23:32:36+00:00">
+<div class="post" data-post-id="5052" data-author="Weasel" data-date="2005-03-14T23:32:36+00:00" data-subject="">
 
 heh.. yeah, you go senile and forget half your spells, or say the wrong spell and instead of casting firewind at a mob, you web yourself.. heh
 
 </div>
 
-<div class="post" data-post-id="5061" data-author="Toxis" data-date="2005-03-15T00:41:11+00:00">
+<div class="post" data-post-id="5061" data-author="Toxis" data-date="2005-03-15T00:41:11+00:00" data-subject="">
 
 Funny idea, Weasel, everyone could be a Fizban. :)
 

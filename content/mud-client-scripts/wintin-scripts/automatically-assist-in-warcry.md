@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9950" data-author="*Splork*" data-date="2005-12-31T14:48:08+00:00">
+<div class="post" data-post-id="9950" data-author="*Splork*" data-date="2005-12-31T14:48:08+00:00" data-subject="Automatically assist in warcry">
 
 Many wintin.net users have requested this because they have been hardcoding the tank's warcry. This is more generic and shouldn't ever have to be changed...
 

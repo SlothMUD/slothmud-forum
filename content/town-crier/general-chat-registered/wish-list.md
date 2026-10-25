@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="13406" data-author="The_Nameless_One" data-date="2006-07-10T04:05:00+00:00">
+<div class="post" data-post-id="13406" data-author="The_Nameless_One" data-date="2006-07-10T04:05:00+00:00" data-subject="Wish List">
 
 I am conducting a poll:
 
@@ -20,13 +20,13 @@ Please, be serious with your responses.
 
 </div>
 
-<div class="post" data-post-id="13407" data-author="Weasel" data-date="2006-07-10T04:13:17+00:00">
+<div class="post" data-post-id="13407" data-author="Weasel" data-date="2006-07-10T04:13:17+00:00" data-subject="">
 
 Stat points. Seriously. Or perma detect invis or some smaller spell like that.. but those are pretty substantial 'rewards'.
 
 </div>
 
-<div class="post" data-post-id="13408" data-author="Marchessa_red_witch" data-date="2006-07-10T06:04:04+00:00">
+<div class="post" data-post-id="13408" data-author="Marchessa_red_witch" data-date="2006-07-10T06:04:04+00:00" data-subject="Game Mojo">
 
 1. Restoration of unbesmirched honor.
 
@@ -72,7 +72,7 @@ Stat points. Seriously. Or perma detect invis or some smaller spell like that.. 
 
 </div>
 
-<div class="post" data-post-id="13427" data-author="12345" data-date="2006-07-10T20:18:28+00:00">
+<div class="post" data-post-id="13427" data-author="12345" data-date="2006-07-10T20:18:28+00:00" data-subject="">
 
 Some sort of token that prevents forges from blowing.
 

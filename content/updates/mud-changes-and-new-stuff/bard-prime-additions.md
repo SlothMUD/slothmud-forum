@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29839" data-author="*Splork*" data-date="2009-08-17T00:20:30+00:00">
+<div class="post" data-post-id="29839" data-author="*Splork*" data-date="2009-08-17T00:20:30+00:00" data-subject="bard prime additions">
 
 1) Song of the Mist
 
@@ -110,7 +110,7 @@ These are going ingame during tomorrow's reboot.
 
 </div>
 
-<div class="post" data-post-id="29863" data-author="*Splork*" data-date="2009-08-19T00:15:34+00:00">
+<div class="post" data-post-id="29863" data-author="*Splork*" data-date="2009-08-19T00:15:34+00:00" data-subject="">
 
 1) dance with the dead
 

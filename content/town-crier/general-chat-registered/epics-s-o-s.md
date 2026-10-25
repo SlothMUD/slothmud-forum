@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="22954" data-author="slobe" data-date="2008-02-25T08:53:29+00:00">
+<div class="post" data-post-id="22954" data-author="slobe" data-date="2008-02-25T08:53:29+00:00" data-subject="epics! S.O.S">
 
 Ok not bagging the epic system or atleast not to much but please change some stuff!
 
@@ -22,7 +22,7 @@ Second why are epics aggro, 3x now I have been walking through a normally safe a
 
 </div>
 
-<div class="post" data-post-id="23023" data-author="Bazilus" data-date="2008-03-01T13:09:59+00:00">
+<div class="post" data-post-id="23023" data-author="Bazilus" data-date="2008-03-01T13:09:59+00:00" data-subject="">
 
 Next time be careful and look around. Read history in tome and you know about epics more info. They going entrance to our world for battle and blood...
 
@@ -30,7 +30,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="23025" data-author="Autolycos" data-date="2008-03-01T15:42:56+00:00">
+<div class="post" data-post-id="23025" data-author="Autolycos" data-date="2008-03-01T15:42:56+00:00" data-subject="">
 
 come on really....
 
@@ -46,7 +46,7 @@ Auto.
 
 </div>
 
-<div class="post" data-post-id="23029" data-author="Toxis" data-date="2008-03-01T20:23:01+00:00">
+<div class="post" data-post-id="23029" data-author="Toxis" data-date="2008-03-01T20:23:01+00:00" data-subject="">
 
 Easy, Auto, down boy! *pulls on the leash* Bad Dawgy!!! :)~
 
@@ -60,7 +60,7 @@ Just my two cents.
 
 </div>
 
-<div class="post" data-post-id="23036" data-author="jezer" data-date="2008-03-02T02:49:09+00:00">
+<div class="post" data-post-id="23036" data-author="jezer" data-date="2008-03-02T02:49:09+00:00" data-subject="">
 
 Life is not easy, why would this game be any different?[/quote:3ogzey4d]
 
@@ -72,7 +72,7 @@ Life is not easy, why would this game be any different?[/quote:3ogzey4d]
 
 </div>
 
-<div class="post" data-post-id="23060" data-author="Autolycos" data-date="2008-03-03T13:18:37+00:00">
+<div class="post" data-post-id="23060" data-author="Autolycos" data-date="2008-03-03T13:18:37+00:00" data-subject="">
 
 Life is not easy, why would this game be any different?[/quote:1qlt4x2u]
 
@@ -86,7 +86,7 @@ laugh
 
 </div>
 
-<div class="post" data-post-id="23077" data-author="jezer" data-date="2008-03-04T01:50:52+00:00">
+<div class="post" data-post-id="23077" data-author="jezer" data-date="2008-03-04T01:50:52+00:00" data-subject="">
 
 Mon Mar 3 17:40:09 2008** Testwarrior was slain by Klklklpa at 9 o'clock am on the Day of the Deception 
 
@@ -106,7 +106,7 @@ Coming to an Epic theatre near you. (Tank not included)
 
 </div>
 
-<div class="post" data-post-id="23078" data-author="Yasik" data-date="2008-03-04T02:15:46+00:00">
+<div class="post" data-post-id="23078" data-author="Yasik" data-date="2008-03-04T02:15:46+00:00" data-subject="">
 
 From the creator of Uhhhhhhhhhhhhhl comes a new monster from the deep. Klklklpa, roughly meaning â€œTo have lost ones identityâ€ in the mythical languages, was rumored to be the love child of the Godess, Asdfgh and the mighty warrior Qwertyuiop. After being mercilessly sacrificed by the God Plorkjarblaka into a volcano, Klklklpa respawned and crawls the earth, seeking revenge on those whose traitorous ways seen him dispatched to the very center of the abyss! :shock:
 
@@ -120,7 +120,7 @@ Then cometh ancient warriors Stfu and Gtfo and cast an ancient spell 'Uber Pwn' 
 
 </div>
 
-<div class="post" data-post-id="23079" data-author="*juggleblood*" data-date="2008-03-04T02:24:12+00:00">
+<div class="post" data-post-id="23079" data-author="*juggleblood*" data-date="2008-03-04T02:24:12+00:00" data-subject="">
 
 Virus -- 'staff?'
 
@@ -158,13 +158,13 @@ Madmax -- 'yes'
 
 </div>
 
-<div class="post" data-post-id="23080" data-author="jezer" data-date="2008-03-04T02:34:07+00:00">
+<div class="post" data-post-id="23080" data-author="jezer" data-date="2008-03-04T02:34:07+00:00" data-subject="">
 
 Nevermind that... what was the epics name?!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23081" data-author="tincts" data-date="2008-03-04T02:49:10+00:00">
+<div class="post" data-post-id="23081" data-author="tincts" data-date="2008-03-04T02:49:10+00:00" data-subject="">
 
 Virus -- 'staff?'
 

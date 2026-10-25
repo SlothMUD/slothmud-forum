@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33799" data-author="Shyla" data-date="2012-11-22T07:42:06+00:00">
+<div class="post" data-post-id="33799" data-author="Shyla" data-date="2012-11-22T07:42:06+00:00" data-subject="Happy Thanksgiving">
 
 I hope everyone has a very Happy Thanksgiving...
 

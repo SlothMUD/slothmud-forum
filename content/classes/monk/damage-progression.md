@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="850" data-author="Methyx" data-date="2004-06-24T09:29:00+00:00">
+<div class="post" data-post-id="850" data-author="Methyx" data-date="2004-06-24T09:29:00+00:00" data-subject="Damage Progression">
 
 Hello All,
 
@@ -18,7 +18,7 @@ I presently play a classo T/Mo/C/M.  It's offered a nice set of skills, done fai
 
 </div>
 
-<div class="post" data-post-id="854" data-author="blackmore" data-date="2004-06-24T14:16:53+00:00">
+<div class="post" data-post-id="854" data-author="blackmore" data-date="2004-06-24T14:16:53+00:00" data-subject="">
 
 The immorts tend to not publish information to that much detail, preferring we work it out for ourselves.  The thief multiplier is pretty well known because it's been that way for 8 years or whatever.  The warrior bonus is new, and they haven't really said how much the bonus is, we just know there is a progressive bonus.  The same is true of monks.  The open hand damage does increase, but we don't know when or by how much.
 
@@ -26,7 +26,7 @@ Different bonuses are treated differently, depending on where they appear in you
 
 </div>
 
-<div class="post" data-post-id="860" data-author="Elwood" data-date="2004-06-24T19:00:07+00:00">
+<div class="post" data-post-id="860" data-author="Elwood" data-date="2004-06-24T19:00:07+00:00" data-subject="">
 
 I'm pretty sure that you don't get a bonus for thief prime, you get a reduction for not being thief prime<BR>i also believe that your stab gets worse from 1-2 2-3 3-4 etc<BR>as far as warrior dmg increase or monks i noticed that mustang did more hand damage at 30 than he did at 29<BR>25 27 29 31 34 37 40 i thought was the levels for stab damage increase<BR>but that was 4 years ago that i played a thief prime so im not sure<BR>not imm info just what i believe i could be wrong so take it with a grain of salt<BR>nice concise answer btw blackmore..kudos<BR><BR>Aaron
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 31
 ---
 
-<div class="post" data-post-id="29847" data-author="Toxis" data-date="2009-08-18T03:28:02+00:00">
+<div class="post" data-post-id="29847" data-author="Toxis" data-date="2009-08-18T03:28:02+00:00" data-subject="grouping problems">
 
 Well Splork got to finally see first hand the group chaos failure tonight and he said it was better on reboot, thank you Rick.
 
@@ -54,7 +54,7 @@ Filariel is leading 'The Fearsome Hunters' on Thordfalan:
 
 </div>
 
-<div class="post" data-post-id="29848" data-author="Toxis" data-date="2009-08-18T03:36:30+00:00">
+<div class="post" data-post-id="29848" data-author="Toxis" data-date="2009-08-18T03:36:30+00:00" data-subject="">
 
 I would strongly recommend for a quick fix get rid of front and back lines and use old group style, only make protects all automatic like s3, except protects are automatic.. Things seemed to work pretty good back then unless somone lost link and fled when hit, or didn't all up.  I think it would solve a lot.  Everyone on one line, it just doesn't work with a mud so small atm.
 
@@ -64,7 +64,7 @@ So, get rid of front/back lines.  Make protecting automatic.
 
 </div>
 
-<div class="post" data-post-id="29850" data-author="*Splork*" data-date="2009-08-18T13:04:11+00:00">
+<div class="post" data-post-id="29850" data-author="*Splork*" data-date="2009-08-18T13:04:11+00:00" data-subject="">
 
 I think your entirely forgetting that protects were not automatic and it could take up to half an hour to simply setup a group before. Now take into account half the mud is newbies and my guess is starting a group and keeping it going would be even worse. The first 3 months of this sloth clearly showed how much easier grouping and exp is when its done correctly.
 
@@ -84,7 +84,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29851" data-author="Acedia" data-date="2009-08-18T13:50:15+00:00">
+<div class="post" data-post-id="29851" data-author="Acedia" data-date="2009-08-18T13:50:15+00:00" data-subject="">
 
 "I can't heal tank, check group to see who to heal that's low, and get bashed over and over."
 
@@ -100,7 +100,7 @@ Nice group list.  Is it possible folks are doing other things than just BH exp?
 
 </div>
 
-<div class="post" data-post-id="29852" data-author="Thraxas" data-date="2009-08-18T14:46:49+00:00">
+<div class="post" data-post-id="29852" data-author="Thraxas" data-date="2009-08-18T14:46:49+00:00" data-subject="">
 
 As for one person getting hit 90% of the non tank hits, it should of been obvious months ago the mobs choose the weakest players. When this happens over and over with the same player [/quote:34nuqvkr]
 
@@ -114,7 +114,7 @@ I don't group often, but when I do I like to hope the leader dosen't play fast a
 
 </div>
 
-<div class="post" data-post-id="29853" data-author="Toxis" data-date="2009-08-18T15:52:12+00:00">
+<div class="post" data-post-id="29853" data-author="Toxis" data-date="2009-08-18T15:52:12+00:00" data-subject="">
 
 Ok, think about this... a year down the road we have a great group going, tough warriors in the front who are badass, we have a few clerics and mages in the back... and a thief who gets hit a LOT because he has a couple ac and a few hp less than the other tanks in the front.  Yeah... better put the thief in the back row and have a tank lead with curse.
 
@@ -126,7 +126,7 @@ Tox
 
 </div>
 
-<div class="post" data-post-id="29854" data-author="Medios" data-date="2009-08-18T19:19:13+00:00">
+<div class="post" data-post-id="29854" data-author="Medios" data-date="2009-08-18T19:19:13+00:00" data-subject="">
 
 How does a mob know which player is weakest.  This is a bit absurd.  First of all many monsters are not smart and just randomly hit stuff.  Secondly even players don't have a skill that tells them which mobs are tougher when your already in combat.  Sure you can consider something but we all know that this tells you little if anything.  
 
@@ -134,7 +134,7 @@ I just don't see how monsters can be smart enough and knowledgeable enough to at
 
 </div>
 
-<div class="post" data-post-id="29856" data-author="*Splork*" data-date="2009-08-18T19:37:08+00:00">
+<div class="post" data-post-id="29856" data-author="*Splork*" data-date="2009-08-18T19:37:08+00:00" data-subject="">
 
 Not all mobs are like this, the smarter mobs act smarter than they did in 3 and we( admin ) like it this way, and we would rather it doesn't change. 
 
@@ -154,7 +154,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29860" data-author="Toxis" data-date="2009-08-18T22:08:38+00:00">
+<div class="post" data-post-id="29860" data-author="Toxis" data-date="2009-08-18T22:08:38+00:00" data-subject="">
 
 The thing that bugs me the most is being bashed for 3 to 5 minutes while I'm in the back row trying to heal.  A good tank has 800 to 1000 hp, and getting hit 200 to 400 damage per round, the person is gonna die.
 
@@ -166,7 +166,7 @@ And are all mobs bashing now?
 
 </div>
 
-<div class="post" data-post-id="29862" data-author="*Splork*" data-date="2009-08-18T23:24:30+00:00">
+<div class="post" data-post-id="29862" data-author="*Splork*" data-date="2009-08-18T23:24:30+00:00" data-subject="">
 
 There have been no changes to bash or mobs using it, they are the same ones from sloth3 at the same rates as used in S3.
 
@@ -174,7 +174,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29871" data-author="Rigwarl" data-date="2009-08-20T00:00:26+00:00">
+<div class="post" data-post-id="29871" data-author="Rigwarl" data-date="2009-08-20T00:00:26+00:00" data-subject="">
 
 Mobs also bash tanks before engaging other players, fun stuff!
 
@@ -182,7 +182,7 @@ Mobs also bash tanks before engaging other players, fun stuff!
 
 </div>
 
-<div class="post" data-post-id="29872" data-author="*Splork*" data-date="2009-08-20T00:25:56+00:00">
+<div class="post" data-post-id="29872" data-author="*Splork*" data-date="2009-08-20T00:25:56+00:00" data-subject="">
 
 Oh yeah I did add that one sorry:) 
 
@@ -190,13 +190,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29875" data-author="Toxis" data-date="2009-08-20T08:36:55+00:00">
+<div class="post" data-post-id="29875" data-author="Toxis" data-date="2009-08-20T08:36:55+00:00" data-subject="">
 
 Being bashed for 3 rounds while trying to heal is harsh, especially when normally there aren't many healers seriously.
 
 </div>
 
-<div class="post" data-post-id="29876" data-author="*juggleblood*" data-date="2009-08-20T12:23:44+00:00">
+<div class="post" data-post-id="29876" data-author="*juggleblood*" data-date="2009-08-20T12:23:44+00:00" data-subject="">
 
 I'm trying to follow this, but I have to confess I haven't been playing enough. 
 
@@ -214,7 +214,7 @@ The suggestion of a very limited protect skill sounded interesting tho. Is there
 
 </div>
 
-<div class="post" data-post-id="29877" data-author="Rigwarl" data-date="2009-08-20T12:24:33+00:00">
+<div class="post" data-post-id="29877" data-author="Rigwarl" data-date="2009-08-20T12:24:33+00:00" data-subject="">
 
 I, much to the dismay of tox, actually like this sense of unpredictability.
 
@@ -224,7 +224,7 @@ I suppose it may carry some weight since I usually rake in well over 30-40 death
 
 </div>
 
-<div class="post" data-post-id="29878" data-author="*juggleblood*" data-date="2009-08-20T12:33:36+00:00">
+<div class="post" data-post-id="29878" data-author="*juggleblood*" data-date="2009-08-20T12:33:36+00:00" data-subject="">
 
 I do get where Tox is coming from... His suggestions usually revolve around the difficulties in maintaining a large group for an extended period of time, which is an important style of play (helps keep our numbers up).
 
@@ -234,7 +234,7 @@ One problem tho is that people are already leveling faster than anyone had antic
 
 </div>
 
-<div class="post" data-post-id="29879" data-author="*Splork*" data-date="2009-08-20T12:46:55+00:00">
+<div class="post" data-post-id="29879" data-author="*Splork*" data-date="2009-08-20T12:46:55+00:00" data-subject="">
 
 Ive fixed the ratio aspect awhile ago for small groups to 1 front 2 back and it helped greatly. 
 
@@ -256,7 +256,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29882" data-author="Shyla" data-date="2009-08-20T17:38:15+00:00">
+<div class="post" data-post-id="29882" data-author="Shyla" data-date="2009-08-20T17:38:15+00:00" data-subject="">
 
 I find when I am leading i try to gmove people and it won't let me ...i know there is a new command for this but since i am used to using gmove can you please put this in and allow it to work for moving people again so i don't have to tell them to man up or try and remember a new strange command to use... I like to be able to put my group in the order I like and gmove works best for this....
 
@@ -266,13 +266,13 @@ Deb
 
 </div>
 
-<div class="post" data-post-id="29887" data-author="Dragoth" data-date="2009-08-20T21:12:54+00:00">
+<div class="post" data-post-id="29887" data-author="Dragoth" data-date="2009-08-20T21:12:54+00:00" data-subject="">
 
 Hey Juggleblood, do you check your slothmud email ? I need your help with something.
 
 </div>
 
-<div class="post" data-post-id="29889" data-author="filariel" data-date="2009-08-20T22:24:57+00:00">
+<div class="post" data-post-id="29889" data-author="filariel" data-date="2009-08-20T22:24:57+00:00" data-subject="">
 
 Bashing sucks, rescue lag sucks, they are all mostly identical to S3. It isnt something new we have added.
 
@@ -282,7 +282,7 @@ Also, is it intentional that you can be bashed when you're in the back row witho
 
 </div>
 
-<div class="post" data-post-id="29892" data-author="*Splork*" data-date="2009-08-21T01:10:53+00:00">
+<div class="post" data-post-id="29892" data-author="*Splork*" data-date="2009-08-21T01:10:53+00:00" data-subject="">
 
 Ive spent an hour looking into this tonight Shyla. 
 
@@ -296,7 +296,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29895" data-author="Shyla" data-date="2009-08-21T04:03:24+00:00">
+<div class="post" data-post-id="29895" data-author="Shyla" data-date="2009-08-21T04:03:24+00:00" data-subject="">
 
 thankyou I just wanted to make sure it was something you knew about...if this is going to take time to figure out and fix that is fine at least it is known about and being worked on i can be patient if i am forced to ...thanks for the quick reply to it 
 
@@ -304,13 +304,13 @@ thankyou I just wanted to make sure it was something you knew about...if this is
 
 </div>
 
-<div class="post" data-post-id="29896" data-author="Shyla" data-date="2009-08-21T04:05:17+00:00">
+<div class="post" data-post-id="29896" data-author="Shyla" data-date="2009-08-21T04:05:17+00:00" data-subject="">
 
 one other question while you are responding to posts..when you say i can man flight rowname...is that just man flight up and man flight down or can you have multiple rows like row one row two row three etc?? so man flight rowone?
 
 </div>
 
-<div class="post" data-post-id="29900" data-author="Acedia" data-date="2009-08-21T07:44:56+00:00">
+<div class="post" data-post-id="29900" data-author="Acedia" data-date="2009-08-21T07:44:56+00:00" data-subject="">
 
 [quote:pxy5uc4p]I do get where Tox is coming from... His suggestions usually revolve around the difficulties in maintaining a large group for an extended period of time, which is an important style of play ([b:pxy5uc4p]helps keep our numbers up[/b:pxy5uc4p]).
 
@@ -332,7 +332,7 @@ Just curious, but does oath of protection still work?  Or was it rendered defunc
 
 </div>
 
-<div class="post" data-post-id="29907" data-author="Dragoth" data-date="2009-08-21T09:27:27+00:00">
+<div class="post" data-post-id="29907" data-author="Dragoth" data-date="2009-08-21T09:27:27+00:00" data-subject="">
 
 [quote:3qn27arm]  Heck, I haven't seen any bh groups blind anything in a while, save for a few old schoolish folks. 
 
@@ -344,7 +344,7 @@ Dont forget its not the same old sloth anymore, things changed.
 
 </div>
 
-<div class="post" data-post-id="29920" data-author="Thraxas" data-date="2009-08-23T07:51:09+00:00">
+<div class="post" data-post-id="29920" data-author="Thraxas" data-date="2009-08-23T07:51:09+00:00" data-subject="">
 
 "This is a group mud" <<< sort of really annoys me because I don't enjoy grouping, but that said it is kinda true at higher levels.
 
@@ -364,7 +364,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="29921" data-author="filariel" data-date="2009-08-23T08:22:20+00:00">
+<div class="post" data-post-id="29921" data-author="filariel" data-date="2009-08-23T08:22:20+00:00" data-subject="">
 
 [quote:2piol6uh]
 
@@ -378,7 +378,7 @@ I'd argue player's -shouldn't- be able to bash/kick/circle/physical attack du jo
 
 </div>
 
-<div class="post" data-post-id="29922" data-author="Acedia" data-date="2009-08-23T08:24:39+00:00">
+<div class="post" data-post-id="29922" data-author="Acedia" data-date="2009-08-23T08:24:39+00:00" data-subject="">
 
 Leaders already seem to get a heap of gold from leading large groups.  Then there's the leader exp, which while not 25% of each, does tend to build up.  And of course the first dibs on everything bit. 
 
@@ -394,7 +394,7 @@ If this is true, perhaps this is why bashing is so 'problematic' now: mobs aren'
 
 </div>
 
-<div class="post" data-post-id="29923" data-author="*Splork*" data-date="2009-08-23T10:58:46+00:00">
+<div class="post" data-post-id="29923" data-author="*Splork*" data-date="2009-08-23T10:58:46+00:00" data-subject="">
 
 [quote:3t029fry]I'd argue player's -shouldn't- be able to bash/kick/circle/physical attack du jour from the back row either.[/quote:3t029fry]
 
@@ -404,13 +404,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29924" data-author="Dragoth" data-date="2009-08-23T17:40:56+00:00">
+<div class="post" data-post-id="29924" data-author="Dragoth" data-date="2009-08-23T17:40:56+00:00" data-subject="">
 
 Not only that, but it would make those lowbie warriors thieves and monks absolutely useless in big groups.
 
 </div>
 
-<div class="post" data-post-id="29928" data-author="*juggleblood*" data-date="2009-08-25T04:00:51+00:00">
+<div class="post" data-post-id="29928" data-author="*juggleblood*" data-date="2009-08-25T04:00:51+00:00" data-subject="">
 
 "This is a group mud" <<< sort of really annoys me because I don't enjoy grouping, but that said it is kinda true at higher levels.
 

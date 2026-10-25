@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38570" data-author="Gorka" data-date="2017-12-29T07:24:54+00:00">
+<div class="post" data-post-id="38570" data-author="Gorka" data-date="2017-12-29T07:24:54+00:00" data-subject="HOWTO: Assist Tank in all Circumstances">
 
 For new players, setting up triggers to assist the tank in a fight can be a daunting process. However there is a way you can assist the tank in all circumstances, without trapping specific events. This can be done by using the msdp.GROUP variable.
 
@@ -36,7 +36,7 @@ This function is basic, and there are many ways to improve it... for example, yo
 
 </div>
 
-<div class="post" data-post-id="38582" data-author="Gorka" data-date="2018-01-02T21:22:58+00:00">
+<div class="post" data-post-id="38582" data-author="Gorka" data-date="2018-01-02T21:22:58+00:00" data-subject="Re: HOWTO: Assist Tank in all Circumstances">
 
 I promised Breeze I would update my script a bit more... (Note: Name Change - but no consequence)
 

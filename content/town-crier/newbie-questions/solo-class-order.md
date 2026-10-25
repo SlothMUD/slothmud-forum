@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="851" data-author="Methyx" data-date="2004-06-24T09:56:33+00:00">
+<div class="post" data-post-id="851" data-author="Methyx" data-date="2004-06-24T09:56:33+00:00" data-subject="Solo Class Order">
 
 Hello Everyone,
 
@@ -18,7 +18,7 @@ One of the great things I love about this mud is the flexibility in character cr
 
 </div>
 
-<div class="post" data-post-id="855" data-author="blackmore" data-date="2004-06-24T15:13:13+00:00">
+<div class="post" data-post-id="855" data-author="blackmore" data-date="2004-06-24T15:13:13+00:00" data-subject="">
 
 The issue with equipment availability is because the 4 basic classes were the only ones available until about a year ago - so there are 7 years worth of items intended for those classes, compared to 1 year and a mass update query for the new classes.
 
@@ -30,7 +30,7 @@ My personal opinion, is that to solo effectively, you do need mage and cleric.  
 
 </div>
 
-<div class="post" data-post-id="883" data-author="Aitana" data-date="2004-06-30T14:12:11+00:00">
+<div class="post" data-post-id="883" data-author="Aitana" data-date="2004-06-30T14:12:11+00:00" data-subject="">
 
 Hi Methyx,
 
@@ -50,13 +50,13 @@ Aitana
 
 </div>
 
-<div class="post" data-post-id="884" data-author="blackmore" data-date="2004-06-30T15:22:40+00:00">
+<div class="post" data-post-id="884" data-author="blackmore" data-date="2004-06-30T15:22:40+00:00" data-subject="">
 
 Show me a class at 1x40 that can compete with winds and 4 images.  A 1x40 mage can solo in some of the best xp areas offlyme because of this, when other classes can't.  Once you're 5x40, most classos are equal (though some more equal than others), and your equipment and skills are much more of an issue than your classo is.
 
 </div>
 
-<div class="post" data-post-id="930" data-author="piglet" data-date="2004-07-05T09:24:10+00:00">
+<div class="post" data-post-id="930" data-author="piglet" data-date="2004-07-05T09:24:10+00:00" data-subject="">
 
 My character that I made specifically for soloing is m/n/c/w.  Any comments?
 

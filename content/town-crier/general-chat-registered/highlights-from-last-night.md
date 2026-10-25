@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38209" data-author="Gorka" data-date="2017-04-07T08:15:29+00:00">
+<div class="post" data-post-id="38209" data-author="Gorka" data-date="2017-04-07T08:15:29+00:00" data-subject="Highlights from last night...">
 
 Last night Breeze was home alone and decided to torture us with XP! Ouch! Ahh... make him stop :p
 
@@ -448,7 +448,7 @@ Diamond in Cyprimus's hands!
 
 </div>
 
-<div class="post" data-post-id="38210" data-author="*Breeze*" data-date="2017-04-07T21:13:47+00:00">
+<div class="post" data-post-id="38210" data-author="*Breeze*" data-date="2017-04-07T21:13:47+00:00" data-subject="Re: Highlights from last night...">
 
 The funny part is that I pictured the group doing the final fantasy (nes version) dance after each kill.
 

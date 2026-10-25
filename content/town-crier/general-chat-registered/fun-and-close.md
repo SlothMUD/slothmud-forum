@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="23506" data-author="Lis" data-date="2008-03-30T14:47:06+00:00">
+<div class="post" data-post-id="23506" data-author="Lis" data-date="2008-03-30T14:47:06+00:00" data-subject="Fun and close :)">
 
 group
 
@@ -150,19 +150,19 @@ Truth splits 2500000 coins.  Your share is 312500 coins.
 
 </div>
 
-<div class="post" data-post-id="23508" data-author="jezer" data-date="2008-03-30T14:58:41+00:00">
+<div class="post" data-post-id="23508" data-author="jezer" data-date="2008-03-30T14:58:41+00:00" data-subject="">
 
 Some real nice numbers in that log... but what surprised me the most is that you typed "cast 'disintegrate' luci " nearly out in full!  :shock: I for one would be dead by the time I accomplished that feat!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23509" data-author="Medios" data-date="2008-03-30T15:22:52+00:00">
+<div class="post" data-post-id="23509" data-author="Medios" data-date="2008-03-30T15:22:52+00:00" data-subject="">
 
 What surprises me is that Madmax was alive and out of mana.
 
 </div>
 
-<div class="post" data-post-id="23514" data-author="Yinao" data-date="2008-03-30T20:53:02+00:00">
+<div class="post" data-post-id="23514" data-author="Yinao" data-date="2008-03-30T20:53:02+00:00" data-subject="">
 
 [quote:1xk1tbkg]What surprises me is that Madmax was alive and out of mana.[/quote:1xk1tbkg]
 
@@ -170,7 +170,7 @@ Rofl, First thing I thought of as well  :wink:
 
 </div>
 
-<div class="post" data-post-id="23515" data-author="Autolycos" data-date="2008-03-30T22:46:49+00:00">
+<div class="post" data-post-id="23515" data-author="Autolycos" data-date="2008-03-30T22:46:49+00:00" data-subject="">
 
 [quote:12183h97]What surprises me is that Madmax was alive and out of mana.[/quote:12183h97]
 

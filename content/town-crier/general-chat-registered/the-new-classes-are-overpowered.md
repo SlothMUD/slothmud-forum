@@ -10,7 +10,7 @@ locked: false
 post_count: 83
 ---
 
-<div class="post" data-post-id="12665" data-author="Qa" data-date="2006-05-24T20:11:04+00:00">
+<div class="post" data-post-id="12665" data-author="Qa" data-date="2006-05-24T20:11:04+00:00" data-subject="The new classes are overpowered.">
 
 In other threads, one or another of the imms have made comments something along the lines of "that's a new class spell/skill and we won't give it to the original classes because then all the classes would be the same."*
 
@@ -38,7 +38,7 @@ Let the flames begin - I am wearing my nomex suit.
 
 </div>
 
-<div class="post" data-post-id="12669" data-author="*Splork*" data-date="2006-05-24T21:08:57+00:00">
+<div class="post" data-post-id="12669" data-author="*Splork*" data-date="2006-05-24T21:08:57+00:00" data-subject="">
 
 All I can say is I disagree with the majority of this. The new classes are only powerful when combined with the old. Just as it can be said many old style classes can be overpowered when combined with new. Such as a wa mo, or a cl dr or thief bard or thief monk etc, etc.
 
@@ -164,7 +164,7 @@ Ofcourse, these are only my opinions and  look forward to them being debated :tw
 
 </div>
 
-<div class="post" data-post-id="12671" data-author="12345" data-date="2006-05-24T22:17:45+00:00">
+<div class="post" data-post-id="12671" data-author="12345" data-date="2006-05-24T22:17:45+00:00" data-subject="">
 
 Ok, I don't entirely agree with Qa, but I don't disagree with him either.  In the area of casting, there's some fairly hardcore differences between old and new schools.  Before anyone starts flaming, let's take a look...
 
@@ -206,7 +206,7 @@ That might not be a perfect assessment, but I think it will solve your issue fas
 
 </div>
 
-<div class="post" data-post-id="12673" data-author="Avatar" data-date="2006-05-24T23:05:32+00:00">
+<div class="post" data-post-id="12673" data-author="Avatar" data-date="2006-05-24T23:05:32+00:00" data-subject="Classes">
 
 I can definitely empathize with Qa.  I have multiple characters, so I'm always glad to see warriors get those new skills.  That's a huge list for warriors, and I think warriors are definitely more interesting and enjoyable to play these days.  Mages too have seen improvement.  I haven't played a mage prime, but to have multiple high-end blast spells was a nice change to see.  If mobs have more resistances to one or more type of attack, then the available variety of blasts will make mages a lot more interesting to play. 
 
@@ -222,7 +222,7 @@ Those are my opening thoughts, and I'm also ready for the debate.
 
 </div>
 
-<div class="post" data-post-id="12674" data-author="*Splork*" data-date="2006-05-24T23:20:08+00:00">
+<div class="post" data-post-id="12674" data-author="*Splork*" data-date="2006-05-24T23:20:08+00:00" data-subject="">
 
 Its rather simple, I don't view cleric primes as being soloers. I never have and I never will. So their skills and spells are pointed towards helping groups. I view them as the most overpowered class in the mud. I guess I feel this way because you can not pick a classo without it and expect much-except a great  challenge.
 
@@ -238,7 +238,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="12675" data-author="jezer" data-date="2006-05-24T23:45:14+00:00">
+<div class="post" data-post-id="12675" data-author="jezer" data-date="2006-05-24T23:45:14+00:00" data-subject="">
 
 Yes, I'm noobish but here are my thoughts in point form...
 
@@ -254,7 +254,7 @@ That way primes are more powerful... its not the cleric that is soloing the huge
 
 </div>
 
-<div class="post" data-post-id="12676" data-author="Qa" data-date="2006-05-25T00:23:04+00:00">
+<div class="post" data-post-id="12676" data-author="Qa" data-date="2006-05-25T00:23:04+00:00" data-subject="">
 
 We are trying...
 
@@ -268,7 +268,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="12677" data-author="13" data-date="2006-05-25T00:34:34+00:00">
+<div class="post" data-post-id="12677" data-author="13" data-date="2006-05-25T00:34:34+00:00" data-subject="">
 
 [quote:2spsumep]A 1x40 Druid with lowbie EQ will outregen a 5x40 Cl/Ma in regen EQ. Not by 1 or two points, but by about 15% and have a higher max mana. How can anyone call this anything close to balanced? [/quote:2spsumep]
 
@@ -282,19 +282,19 @@ soloing with an all-oldschool cl prime.
 
 </div>
 
-<div class="post" data-post-id="12678" data-author="13" data-date="2006-05-25T00:57:55+00:00">
+<div class="post" data-post-id="12678" data-author="13" data-date="2006-05-25T00:57:55+00:00" data-subject="">
 
 How about a heal-over-time with a recast timer.
 
 </div>
 
-<div class="post" data-post-id="12679" data-author="Shara" data-date="2006-05-25T01:00:34+00:00">
+<div class="post" data-post-id="12679" data-author="Shara" data-date="2006-05-25T01:00:34+00:00" data-subject="">
 
 I'd probably bet that Mace and Krok solo better than anyone without necro in his/her classo (and some who do), but maybe that's unfair cuz they're 5x40
 
 </div>
 
-<div class="post" data-post-id="12680" data-author="Mosaix" data-date="2006-05-25T03:26:54+00:00">
+<div class="post" data-post-id="12680" data-author="Mosaix" data-date="2006-05-25T03:26:54+00:00" data-subject="">
 
 I like a lot of the posts here.
 
@@ -320,7 +320,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="12681" data-author="Avatar" data-date="2006-05-25T04:06:28+00:00">
+<div class="post" data-post-id="12681" data-author="Avatar" data-date="2006-05-25T04:06:28+00:00" data-subject="Clerics again">
 
 Again, I can only echo Qa.  It's good to see that people are receptive to the general discussion, but I'm not sure what to suggest.  
 
@@ -338,13 +338,13 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="12682" data-author="12345" data-date="2006-05-25T04:10:58+00:00">
+<div class="post" data-post-id="12682" data-author="12345" data-date="2006-05-25T04:10:58+00:00" data-subject="">
 
 I know you keep mentioning good sups Charles but you may be placing too much stock in them.  I once suggested that eudaemons were helpful for her and she straight laughed at me.  Evil sups seemed to be much more to her taste.  Considering that clerics biggest drawback is physically damaging mobs, I can see how something with lots of strong attacks might be useful :)
 
 </div>
 
-<div class="post" data-post-id="12683" data-author="Cicada" data-date="2006-05-25T05:08:00+00:00">
+<div class="post" data-post-id="12683" data-author="Cicada" data-date="2006-05-25T05:08:00+00:00" data-subject="Run, klurik, run!">
 
 I suggest prime skill for clerics "Heresy" (or maybe "Free will"?  :twisted: ) that allows cleric to change his alignment at will. Can be quite useful for those who rely on their supps perhaps. I'm not sure though, never used/fixed alignment stuff.
 
@@ -352,7 +352,7 @@ Cicada
 
 </div>
 
-<div class="post" data-post-id="12684" data-author="Weasel" data-date="2006-05-25T05:11:02+00:00">
+<div class="post" data-post-id="12684" data-author="Weasel" data-date="2006-05-25T05:11:02+00:00" data-subject="">
 
 I thought clerics did get some sort of bonus for raises / heals already?
 
@@ -360,7 +360,7 @@ An idea.. perhaps coders don't want to make clerics too super-healing strong, so
 
 </div>
 
-<div class="post" data-post-id="12685" data-author="jezer" data-date="2006-05-25T05:29:48+00:00">
+<div class="post" data-post-id="12685" data-author="jezer" data-date="2006-05-25T05:29:48+00:00" data-subject="">
 
 Geahs, them some nice ideas!
 
@@ -370,13 +370,13 @@ sing 'brothers in arms'  :)
 
 </div>
 
-<div class="post" data-post-id="12686" data-author="Guinex" data-date="2006-05-25T06:28:58+00:00">
+<div class="post" data-post-id="12686" data-author="Guinex" data-date="2006-05-25T06:28:58+00:00" data-subject="">
 
 I say we give em the ability to push a canon around with them, slow their movement but give em a big punch!
 
 </div>
 
-<div class="post" data-post-id="12687" data-author="brand" data-date="2006-05-25T07:00:20+00:00">
+<div class="post" data-post-id="12687" data-author="brand" data-date="2006-05-25T07:00:20+00:00" data-subject="">
 
 cleric prime works fine for me.  
 
@@ -394,7 +394,7 @@ brand :twisted:
 
 </div>
 
-<div class="post" data-post-id="12688" data-author="ilic" data-date="2006-05-25T11:21:23+00:00">
+<div class="post" data-post-id="12688" data-author="ilic" data-date="2006-05-25T11:21:23+00:00" data-subject="">
 
 I just thought id post a reply for a change because its an interesting topic for me. as most of you know im a cleric prime and often seen wandering in groups helping and raising because thats what i enjoy. however because i live out of the timezone to most of who play this game i struggle to be in groups regularly this only leaves me the options of solo which i add is very very difficult. my only effective places are against the undeads and that is solely relying on my supplications whih with alignment changes becomes very difficult.
 
@@ -404,7 +404,7 @@ thanks
 
 </div>
 
-<div class="post" data-post-id="12689" data-author="Gimlet" data-date="2006-05-25T11:52:40+00:00">
+<div class="post" data-post-id="12689" data-author="Gimlet" data-date="2006-05-25T11:52:40+00:00" data-subject="">
 
 I disagree that clerics are viewed as the strongest class just because almost every classo needs it.  It's just that-- a strong support class, not a strong prime class.
 
@@ -418,7 +418,7 @@ like restoring mobs instead of blasting them maybe?
 
 </div>
 
-<div class="post" data-post-id="12690" data-author="Hobbes" data-date="2006-05-25T12:40:48+00:00">
+<div class="post" data-post-id="12690" data-author="Hobbes" data-date="2006-05-25T12:40:48+00:00" data-subject="">
 
 I agree with most of what's been said.  This maybe doesn't directly address the overpowered/underpowered issue but..
 
@@ -426,7 +426,7 @@ Medium sized groups can usually do fine healing with non-cleric primes(errr, cle
 
 </div>
 
-<div class="post" data-post-id="12692" data-author="12345" data-date="2006-05-25T13:11:08+00:00">
+<div class="post" data-post-id="12692" data-author="12345" data-date="2006-05-25T13:11:08+00:00" data-subject="">
 
 I have a warrior prime that I love to grip with... just not solo :)
 
@@ -440,7 +440,7 @@ I'll be going back there on nocap day :P
 
 </div>
 
-<div class="post" data-post-id="12693" data-author="Hobbes" data-date="2006-05-25T14:19:10+00:00">
+<div class="post" data-post-id="12693" data-author="Hobbes" data-date="2006-05-25T14:19:10+00:00" data-subject="">
 
 Nod 12345, that is why I said medium sized groups(I meant medium level I guess).  Before avatar bonuses kick in and before a player is capped on healbonus, mages, necros, and druids do just fine for healing.  The groups running around BH the past couple of days have been without clerics over level 20 sometimes and been able to go to all areas.  Anyway, my point is that other classes can fill in as healers much better than clerics can fill in as anything else.  Seems a bit unbalanced.
 
@@ -448,7 +448,7 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="12694" data-author="Elsie" data-date="2006-05-25T15:52:35+00:00">
+<div class="post" data-post-id="12694" data-author="Elsie" data-date="2006-05-25T15:52:35+00:00" data-subject="">
 
 hmmm, good point made by a lot of you but there seems to be an assumption you've all made that I'm not sure holds true.
 
@@ -484,7 +484,7 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="12695" data-author="Avatar" data-date="2006-05-25T16:20:52+00:00">
+<div class="post" data-post-id="12695" data-author="Avatar" data-date="2006-05-25T16:20:52+00:00" data-subject="clerics">
 
 That's a good point...err, 12345.  I forget what your name is, heh!  Anyway, that was exactly Splork's point.  Cleric makes a great support class.  On the other hand, send Bell into that area alone and see how she does against a 20 mil mob.  Or, since that was 2 man you could see how she does against a 10 mil mob.  If she's a 40 prime cleric, you might as well see how she does against a 1 mil mob.  The results will likely be the same.
 
@@ -500,7 +500,7 @@ Regarding using evil supps, I agree that they are more useful during a fight.  A
 
 </div>
 
-<div class="post" data-post-id="12696" data-author="Avatar" data-date="2006-05-25T16:31:53+00:00">
+<div class="post" data-post-id="12696" data-author="Avatar" data-date="2006-05-25T16:31:53+00:00" data-subject="">
 
 [quote:39mwknb4]hmmm, good point made by a lot of you but there seems to be an assumption you've all made that I'm not sure holds true. 
 
@@ -514,7 +514,7 @@ I guess the test would be to see if clerics make up 1/8 of the active community.
 
 </div>
 
-<div class="post" data-post-id="12697" data-author="brand" data-date="2006-05-25T16:55:56+00:00">
+<div class="post" data-post-id="12697" data-author="brand" data-date="2006-05-25T16:55:56+00:00" data-subject="">
 
 how about a thing such as...
 
@@ -526,7 +526,7 @@ and ac of course
 
 </div>
 
-<div class="post" data-post-id="12698" data-author="Zing" data-date="2006-05-25T17:12:47+00:00">
+<div class="post" data-post-id="12698" data-author="Zing" data-date="2006-05-25T17:12:47+00:00" data-subject="Prime only abilities">
 
 Thief primes should have a reasonable chance at stealing from mobs.  A unique talent for thieves.
 
@@ -538,7 +538,7 @@ Zing - Cleric Prime (totally unbiased :)
 
 </div>
 
-<div class="post" data-post-id="12699" data-author="Krok" data-date="2006-05-25T17:21:49+00:00">
+<div class="post" data-post-id="12699" data-author="Krok" data-date="2006-05-25T17:21:49+00:00" data-subject="">
 
 Hi, guys, I'm finally back and happy to see that clerics are flaming :)
 
@@ -556,7 +556,7 @@ Ok. So I have a 5x40 cleric. My 2 cents are:
 
 </div>
 
-<div class="post" data-post-id="12700" data-author="Elsie" data-date="2006-05-25T17:22:54+00:00">
+<div class="post" data-post-id="12700" data-author="Elsie" data-date="2006-05-25T17:22:54+00:00" data-subject="">
 
 new cleric skill idea:
 
@@ -568,13 +568,13 @@ Devotion once reached a certain level (needs to take a lot of effort to get ther
 
 </div>
 
-<div class="post" data-post-id="12701" data-author="Guinex" data-date="2006-05-25T17:32:44+00:00">
+<div class="post" data-post-id="12701" data-author="Guinex" data-date="2006-05-25T17:32:44+00:00" data-subject="">
 
 Correct me if im wrong, but all ive gotten out of this thread is that old classo chars suck in comparison to new classos.  I think the resolution is make a new character.
 
 </div>
 
-<div class="post" data-post-id="12702" data-author="12345" data-date="2006-05-25T17:33:52+00:00">
+<div class="post" data-post-id="12702" data-author="12345" data-date="2006-05-25T17:33:52+00:00" data-subject="">
 
 Actually, going over this, a few things have come to mind.  For starters, was Charles' point about the heals causing a damned fortune to blast with.  However, there's no such thing as a full restore spell or a full life spell.  I'm not sure how clerics managed to avoid getting a prime healing ability?!?  Aerial servant and dark mace are great, but really really don't fit the class much.  Example:
 
@@ -588,7 +588,7 @@ BTW Charles: killing a 10 mil mob is rough for me as well since I don't have any
 
 </div>
 
-<div class="post" data-post-id="12703" data-author="Avatar" data-date="2006-05-25T19:20:01+00:00">
+<div class="post" data-post-id="12703" data-author="Avatar" data-date="2006-05-25T19:20:01+00:00" data-subject="Clerics">
 
 Active discussion, I like it.
 
@@ -602,7 +602,7 @@ Guinex - I don't think we're focused on new class vs. old class.  I think most o
 
 </div>
 
-<div class="post" data-post-id="12705" data-author="Aleksey" data-date="2006-05-25T20:15:36+00:00">
+<div class="post" data-post-id="12705" data-author="Aleksey" data-date="2006-05-25T20:15:36+00:00" data-subject="">
 
 A necro prime 1x40 can solo stuff that 5x40 cannot?
 
@@ -614,7 +614,7 @@ or who that 5x40?
 
 </div>
 
-<div class="post" data-post-id="12706" data-author="13" data-date="2006-05-25T20:45:43+00:00">
+<div class="post" data-post-id="12706" data-author="13" data-date="2006-05-25T20:45:43+00:00" data-subject="">
 
 Let's see some cleric titties!
 
@@ -624,7 +624,7 @@ I agree with higher-cap self heal, that would be fuckin' rad.
 
 </div>
 
-<div class="post" data-post-id="12707" data-author="Medios" data-date="2006-05-25T21:17:23+00:00">
+<div class="post" data-post-id="12707" data-author="Medios" data-date="2006-05-25T21:17:23+00:00" data-subject="">
 
 Krok can solo bigger mobs than Medios.  Its a proven fact, theres no disputing it, nobody can argue.  Medios is Th/Ma with -8 25 damage about 20stabdam and 25 spelldam.  Krok is running with -10ac maxed in spelldam and swole on healb.  She uses what skills she has to get the job done.  I choose to wear max damage and take the ac hit.  She runs in -10 and spelldam.  Her pit fiend is tough.  My supplicants suck for fighting, its not even worth making them just wastes mana.  Eudaemon is cool but the first good mob i splork its gone, and I have to do a run of et or pyramid to get the rabbit back.
 
@@ -648,7 +648,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="12708" data-author="Malison" data-date="2006-05-25T21:32:31+00:00">
+<div class="post" data-post-id="12708" data-author="Malison" data-date="2006-05-25T21:32:31+00:00" data-subject="">
 
 about infusing souls (mentioned earlier), they really don't compare with heal spells.  You only infuse after the mob is dead, which is often too late for the healing, and even then it has to be a strongish mob to give you the 100+hp soul, otherwise you get some 20-30hp junk greater soul infusion.
 
@@ -662,7 +662,7 @@ I believe the original forum issue was that old classes are weak in relation to 
 
 </div>
 
-<div class="post" data-post-id="12709" data-author="*Splork*" data-date="2006-05-25T22:02:38+00:00">
+<div class="post" data-post-id="12709" data-author="*Splork*" data-date="2006-05-25T22:02:38+00:00" data-subject="">
 
 This is one of the more useful threads in the last month+. What  I find intriguing is...the topic of conversation has quickly gone from all the new classes being overpowered compared to old to the problem with cleric primes.  Which again, leads me to believe the majority of people feel as I do, this is the most balanced we have been in years:) There are so many great classos right now that its actually fun for me to watch players mature such as Nab or Kronk.
 
@@ -676,7 +676,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="12710" data-author="madmax" data-date="2006-05-25T22:15:12+00:00">
+<div class="post" data-post-id="12710" data-author="madmax" data-date="2006-05-25T22:15:12+00:00" data-subject="">
 
 My $.02 worth. 
 
@@ -748,7 +748,7 @@ Madmax.
 
 </div>
 
-<div class="post" data-post-id="12711" data-author="Mystery" data-date="2006-05-25T22:30:20+00:00">
+<div class="post" data-post-id="12711" data-author="Mystery" data-date="2006-05-25T22:30:20+00:00" data-subject="I blame Splork">
 
 I'm sure this base has already been covered but another cleric prime spell thats is heal based would be nice. I'm sure I'm not the only non-cleric prime char who would rather use their mana for spells/skills instead of being delegated as a backup healo. If I wanted to be healo i'd make a cleric prime.. saying that being backup healo is ok but it takes the fun out of being non-prime cleric.. so i'm all up for givign clerics more healing power.. let them heal so i can rely on my prime skills/spells.. if that makes sense
 
@@ -756,7 +756,7 @@ Maybe I should lay off the herb.. that kinda confuses me now that I read it :twi
 
 </div>
 
-<div class="post" data-post-id="12712" data-author="Shyla" data-date="2006-05-25T22:33:34+00:00">
+<div class="post" data-post-id="12712" data-author="Shyla" data-date="2006-05-25T22:33:34+00:00" data-subject="">
 
 I know this is JUST my opinion but what bothers me is a lot of these new warriors skills are made to require you to have a warrior weapon to use them and not all of us with warrior in our class use warrior weapons.  It would be nice to see more warrior skills and maybe even thief skills put in that you could use with the old classes without trying to use their weapons.  Clerics tend to use dark mace and if you have an old character like I do you can't use swordsmanship,deathblow,broadside.  I mean these are great warrior skills but can we get more skills like this added that you can use with anyweapon like a bashskull skill where you can use a blunt weapon to do more damage?  I love Shyla and I will never stop playing her, I am just saying it might be nice if the skills added could be used more universally with old character classes and not just be made more for primes.  Yes I know if I changed weapons I can use them, but that isn't the point.  It doesn't matter what I am wielding when I firewind or heal.  I would just like to see more warrior skills put in that more of the old classes can get a benefit from.  This is just MY 2 cents :)
 
@@ -764,13 +764,13 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="12714" data-author="Avatar" data-date="2006-05-25T23:20:48+00:00">
+<div class="post" data-post-id="12714" data-author="Avatar" data-date="2006-05-25T23:20:48+00:00" data-subject="Ick">
 
 Max!  Please don't base the new skills on forcing a cleric to maintain a good alignment!  I want to actually use those evil supps eventually.  Like necro's, some clerics would like to stay evil, that's the point of a cl/th!!  Of course it takes someone quite insane to play a cl/th, but it can be fun.
 
 </div>
 
-<div class="post" data-post-id="12715" data-author="kjartan" data-date="2006-05-25T23:45:57+00:00">
+<div class="post" data-post-id="12715" data-author="kjartan" data-date="2006-05-25T23:45:57+00:00" data-subject="">
 
 If you are getting too good to use the evil supplication mobs, that's very easy and quick to rectify.  Heck, charm some innocent villager and bring him with you for instant alignment fixing!  (It should really detect that and put you down to -2000 or something if you do that).  Mob level doesn't affect negative alignment swings, only positive ones.
 
@@ -782,7 +782,7 @@ We may stack more enhancements on dark mace as you get more 40s.
 
 </div>
 
-<div class="post" data-post-id="12716" data-author="jezer" data-date="2006-05-26T00:16:57+00:00">
+<div class="post" data-post-id="12716" data-author="jezer" data-date="2006-05-26T00:16:57+00:00" data-subject="">
 
 I know this is JUST my opinion but what bothers me is a lot of these new warriors skills are made to require you to have a warrior weapon to use them and not all of us with warrior in our class use warrior weapons.  It would be nice to see more warrior skills and maybe even thief skills put in that you could use with the old classes without trying to use their weapons.  Clerics tend to use dark mace and if you have an old character like I do you can't use swordsmanship,deathblow,broadside.  I mean these are great warrior skills but can we get more skills like this added that you can use with anyweapon like a bashskull skill where you can use a blunt weapon to do more damage?  I love Shyla and I will never stop playing her, I am just saying it might be nice if the skills added could be used more universally with old character classes and not just be made more for primes.  Yes I know if I changed weapons I can use them, but that isn't the point.  It doesn't matter what I am wielding when I firewind or heal.  I would just like to see more warrior skills put in that more of the old classes can get a benefit from.  This is just MY 2 cents :)
 
@@ -792,7 +792,7 @@ I know not to many people were dumb enough to have a classo that started with mo
 
 </div>
 
-<div class="post" data-post-id="12717" data-author="jezer" data-date="2006-05-26T00:29:35+00:00">
+<div class="post" data-post-id="12717" data-author="jezer" data-date="2006-05-26T00:29:35+00:00" data-subject="">
 
 The order lag for cleric supplicants is stupid!
 
@@ -806,7 +806,7 @@ Here endeth the rant!  :D
 
 </div>
 
-<div class="post" data-post-id="12718" data-author="Shazuko" data-date="2006-05-26T00:35:14+00:00">
+<div class="post" data-post-id="12718" data-author="Shazuko" data-date="2006-05-26T00:35:14+00:00" data-subject="">
 
 Up until Shyla and Kj's last posts...most of you have been focused mainly on the healing/raising aspect of clerics...but there is another type of cleric, its called a PRIEST, those who have been chosen to 'defend their faith'...as such perhaps _if_ there are any changes/improvements to be made to the class, they might be focused a bit on the combat side of the cleric. There have been many priests throughout history that have picked up a cudgel and a shield and proeeded to smite the deviants...this might make them a little more adept at soloing without tweaking the same old same old...
 
@@ -818,7 +818,7 @@ Shazuko Roku Ryuu
 
 </div>
 
-<div class="post" data-post-id="12719" data-author="*Splork*" data-date="2006-05-26T00:39:15+00:00">
+<div class="post" data-post-id="12719" data-author="*Splork*" data-date="2006-05-26T00:39:15+00:00" data-subject="">
 
 Obviously the skills were not coded for a barehanded fighter or cleric in mind. We keep track of all skills and spells used ingame and I can say without a doubt that they are being used more than most. The object is to give options in different situations, not to give skills that are going to be used by everyone 100% of the time. Check any groups off lyme and this becomes quite apparent.
 
@@ -832,7 +832,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="12720" data-author="Mosaix" data-date="2006-05-26T01:06:54+00:00">
+<div class="post" data-post-id="12720" data-author="Mosaix" data-date="2006-05-26T01:06:54+00:00" data-subject="">
 
 Again Id be looknig for more group related assistance for Cleric Prime.  I solo a little, but usually end up doing 2-3 man exp/eq, or big lyme groups.  Its more fun, and I level/gain eq faster.  
 
@@ -860,7 +860,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="12721" data-author="Avatar" data-date="2006-05-26T01:12:44+00:00">
+<div class="post" data-post-id="12721" data-author="Avatar" data-date="2006-05-26T01:12:44+00:00" data-subject="classes">
 
 I can actually see having the warrior skills dependant on the bigger weapons.  It's fun to have new skills, and warriors should be using the big weapons.  The negative aspect is that it breaks a lot of the synergy that players normally get from choosing classes in a multiclass mud.
 
@@ -870,13 +870,13 @@ I agree with Mos, current healbonus eq is a little...lackluster.  I like the ide
 
 </div>
 
-<div class="post" data-post-id="12722" data-author="13" data-date="2006-05-26T01:42:59+00:00">
+<div class="post" data-post-id="12722" data-author="13" data-date="2006-05-26T01:42:59+00:00" data-subject="">
 
 That was an excellent summation Mike.  Cheers brother.
 
 </div>
 
-<div class="post" data-post-id="12723" data-author="madmax" data-date="2006-05-26T01:57:18+00:00">
+<div class="post" data-post-id="12723" data-author="madmax" data-date="2006-05-26T01:57:18+00:00" data-subject="Re: Ick">
 
 Max!  Please don't base the new skills on forcing a cleric to maintain a good alignment!  I want to actually use those evil supps eventually.  Like necro's, some clerics would like to stay evil, that's the point of a cl/th!!  Of course it takes someone quite insane to play a cl/th, but it can be fun.[/quote:6s33qbq9]
 
@@ -890,7 +890,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="12724" data-author="12345" data-date="2006-05-26T02:13:47+00:00">
+<div class="post" data-post-id="12724" data-author="12345" data-date="2006-05-26T02:13:47+00:00" data-subject="">
 
 Well, I definately appreciate clerics in groups, because it's where they shine.  However, I was trying to come up with options that would assist with both solo and group play.  I don't see much reason that clerics shouldn't be ultra-effective against undeads.  I also agree that Druids being the ultimate healers defeats the purpose of being a cleric prime.
 
@@ -902,7 +902,7 @@ I don't think clerics should be locked into groups though, because group coins c
 
 </div>
 
-<div class="post" data-post-id="12725" data-author="Leaf" data-date="2006-05-26T02:32:18+00:00">
+<div class="post" data-post-id="12725" data-author="Leaf" data-date="2006-05-26T02:32:18+00:00" data-subject="">
 
 I only really have like maybe hum... 3-4 chars that I do like to play.
 
@@ -910,7 +910,7 @@ The rest are just collecting dust :)
 
 </div>
 
-<div class="post" data-post-id="12729" data-author="13" data-date="2006-05-26T12:16:04+00:00">
+<div class="post" data-post-id="12729" data-author="13" data-date="2006-05-26T12:16:04+00:00" data-subject="">
 
 I thought undeads were already heal_hurt, no?
 
@@ -918,7 +918,7 @@ If not I agree that a bigger self-heal and a big undead nuke would help a lot.
 
 </div>
 
-<div class="post" data-post-id="12731" data-author="madmax" data-date="2006-05-26T12:55:30+00:00">
+<div class="post" data-post-id="12731" data-author="madmax" data-date="2006-05-26T12:55:30+00:00" data-subject="">
 
 I thought undeads were already heal_hurt, no?
 
@@ -1002,7 +1002,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="12732" data-author="12345" data-date="2006-05-26T12:57:58+00:00">
+<div class="post" data-post-id="12732" data-author="12345" data-date="2006-05-26T12:57:58+00:00" data-subject="">
 
 Bah, not my specialty, but I'll try to explain what I mean by effective...
 
@@ -1016,7 +1016,7 @@ My conclusion from this is that heals_hurt is not effective and needs to be relo
 
 </div>
 
-<div class="post" data-post-id="12739" data-author="Rodek" data-date="2006-05-26T17:33:22+00:00">
+<div class="post" data-post-id="12739" data-author="Rodek" data-date="2006-05-26T17:33:22+00:00" data-subject="">
 
 I have made characters with the new classes and played my old ones.  I had been gone for about 5 years, and was pretty impressed with the balancing that has been done with the classes -- its obvious to me that a lot of thought went into this and many tweaks were made.
 
@@ -1028,7 +1028,7 @@ There is certainly room for new skills and tweaks, but my feeling is that it is 
 
 </div>
 
-<div class="post" data-post-id="12902" data-author="marchessa_the_red_witch" data-date="2006-06-07T08:48:33+00:00">
+<div class="post" data-post-id="12902" data-author="marchessa_the_red_witch" data-date="2006-06-07T08:48:33+00:00" data-subject="">
 
 Yes, the new classes are overpowered, particularly necromancer, but this is as much because of the mud, and dikumud, as it is because of a design flaw.
 
@@ -1062,7 +1062,7 @@ The reason I write this is that necrotraas, as stand, violate the long standing 
 
 </div>
 
-<div class="post" data-post-id="12903" data-author="Avatar" data-date="2006-06-07T13:32:38+00:00">
+<div class="post" data-post-id="12903" data-author="Avatar" data-date="2006-06-07T13:32:38+00:00" data-subject="Again?">
 
 I don't disagree with most of Marchessa's points.  There are a few though that I could add some discussion points to:
 
@@ -1076,7 +1076,7 @@ All that said, players can migrate to the charater types that they enjoy.
 
 </div>
 
-<div class="post" data-post-id="12904" data-author="Ditheca" data-date="2006-06-07T16:59:41+00:00">
+<div class="post" data-post-id="12904" data-author="Ditheca" data-date="2006-06-07T16:59:41+00:00" data-subject="">
 
 People are going to be upset when the stats come out for this week and they see all the xp I've gotten with my "Necrotar" :P
 
@@ -1090,7 +1090,7 @@ Marchessa, when's the last time you actually watched a "necrotar" xp?  Oh wait, 
 
 </div>
 
-<div class="post" data-post-id="12905" data-author="Guinex" data-date="2006-06-07T17:42:15+00:00">
+<div class="post" data-post-id="12905" data-author="Guinex" data-date="2006-06-07T17:42:15+00:00" data-subject="">
 
 Well here is my two cents.
 
@@ -1114,7 +1114,7 @@ Oh yea, its not always the classo, some people just don't know how to play.
 
 </div>
 
-<div class="post" data-post-id="12907" data-author="Deju" data-date="2006-06-07T20:07:01+00:00">
+<div class="post" data-post-id="12907" data-author="Deju" data-date="2006-06-07T20:07:01+00:00" data-subject="">
 
 Marchessa -
 
@@ -1124,7 +1124,7 @@ In the time it took you to write that gigantic post you could have already level
 
 </div>
 
-<div class="post" data-post-id="12908" data-author="Rajil" data-date="2006-06-07T23:09:39+00:00">
+<div class="post" data-post-id="12908" data-author="Rajil" data-date="2006-06-07T23:09:39+00:00" data-subject="">
 
 [quote:2dbga6ot]Ditheca:
 
@@ -1136,7 +1136,7 @@ There's a special case, Dith. No cap days. A necro will out xp any class on noca
 
 </div>
 
-<div class="post" data-post-id="12911" data-author="alias" data-date="2006-06-08T01:51:11+00:00">
+<div class="post" data-post-id="12911" data-author="alias" data-date="2006-06-08T01:51:11+00:00" data-subject="">
 
 K Ive been watching this old class vs new class stuff and im pulling my hair out. It really bothers me when people complain and don't do anything about it.
 
@@ -1152,19 +1152,19 @@ P.S. I dont have a cleric prime but I love the advancements that have been made 
 
 </div>
 
-<div class="post" data-post-id="12912" data-author="Guinex" data-date="2006-06-08T03:38:01+00:00">
+<div class="post" data-post-id="12912" data-author="Guinex" data-date="2006-06-08T03:38:01+00:00" data-subject="">
 
 Hmmm i have 5 different sets of eq, tank,uc,blast/heal,shock.
 
 </div>
 
-<div class="post" data-post-id="12914" data-author="12345" data-date="2006-06-08T04:06:21+00:00">
+<div class="post" data-post-id="12914" data-author="12345" data-date="2006-06-08T04:06:21+00:00" data-subject="">
 
 Shock?  I didn't think taking off your helmet counted as an eq set.
 
 </div>
 
-<div class="post" data-post-id="12915" data-author="Ezekiel" data-date="2006-06-08T07:38:54+00:00">
+<div class="post" data-post-id="12915" data-author="Ezekiel" data-date="2006-06-08T07:38:54+00:00" data-subject="">
 
 First of all, I want to say thanks for everyone actually adding valuable input and solutions where flames and incessant complaints would usually reside.
 
@@ -1178,7 +1178,7 @@ Ezekiel
 
 </div>
 
-<div class="post" data-post-id="12916" data-author="Weasel" data-date="2006-06-08T09:13:54+00:00">
+<div class="post" data-post-id="12916" data-author="Weasel" data-date="2006-06-08T09:13:54+00:00" data-subject="">
 
 Shock?  I didn't think taking off your helmet counted as an eq set.[/quote:2ctucr2g]
 
@@ -1186,7 +1186,7 @@ LMAO  :lol:
 
 </div>
 
-<div class="post" data-post-id="12922" data-author="13" data-date="2006-06-08T21:54:20+00:00">
+<div class="post" data-post-id="12922" data-author="13" data-date="2006-06-08T21:54:20+00:00" data-subject="">
 
 [quote:1zmqn7uy]<731hp 555+60ma 152mv> +0 <indoors - 711,927,430 XP - 373,219 coins> [/quote:1zmqn7uy]
 
@@ -1194,7 +1194,7 @@ jesus dude, you run with that spam?
 
 </div>
 
-<div class="post" data-post-id="12923" data-author="Medios" data-date="2006-06-08T21:59:12+00:00">
+<div class="post" data-post-id="12923" data-author="Medios" data-date="2006-06-08T21:59:12+00:00" data-subject="">
 
 Lets bring this out into the open.  The druid that everyone is talking about is Daedalus.  Chrissy doesnt have protect and is always at the bottom of the group.  Since sometimes there are other 4xnc sometimes shes not even protected.  This basically relegates her to healing.  Sure I could have her wind on stab, then die every time.  Before everyone jumps out to make judgements against druids lets do this.  Make a Cl Dr Ma Ne and level it up to 5x40.  Get max healbonus and spelldamage with all the mr you can muster.  Im not talking about cheap eq, i mean elite stuff, umm like flaming shield of midnight, ars magica, etc etc.  Then get in a group and see if your 55 mana restores with 90 healbonus, and the cheap heals that hit for like 300hp dont change things.  You guys want to compare your weakass chars to Daedalus and I just dont think its a fair assessment.  Get some eq, learn some areas and start using these "cheats" and overpowers to your advantage.  Unless everyone crying wants to come out and say they arent smart enough to figure this stuff out I really cant listen to it.    
 
@@ -1202,7 +1202,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="12927" data-author="Avatar" data-date="2006-06-09T00:05:16+00:00">
+<div class="post" data-post-id="12927" data-author="Avatar" data-date="2006-06-09T00:05:16+00:00" data-subject="nah">
 
 It's not just Daed, it happens often.  It helps that Aife wears healbonus eq, but I often see druids assigned to healo while cleric primes are either floating or blasting.  Also, it's not just classo...sometimes you need someone dependable in a healo, even if their class isn't optimal for it.
 
@@ -1210,7 +1210,7 @@ Anyway, I think the recent changes helped so I don't know that it's still an iss
 
 </div>
 
-<div class="post" data-post-id="12929" data-author="Gimlet" data-date="2006-06-09T04:17:55+00:00">
+<div class="post" data-post-id="12929" data-author="Gimlet" data-date="2006-06-09T04:17:55+00:00" data-subject="my 2 cents">
 
 Having led a bunch, there are only ever 3 people I would trust to be at the Top of the Healo, and hence at the bottom of my group.  Of course, I'm not referring to people who I've never led before.
 
@@ -1222,7 +1222,7 @@ speaking of tanks, now that I've gotten tri40, who are the tanks under 3x40?
 
 </div>
 
-<div class="post" data-post-id="12934" data-author="Ezekiel" data-date="2006-06-09T07:42:35+00:00">
+<div class="post" data-post-id="12934" data-author="Ezekiel" data-date="2006-06-09T07:42:35+00:00" data-subject="">
 
 I don't know if Medios was directing that comment at me...but I know damn well that daedalus is an exceptional char with exceptional eq...it's not the premise of Daedalus healing over others that distresses me...it's the fact that while a druid can outheal mostly due to outregen, they are still able to solo at a much greater scale than a cleric.. who can never even aspire to that same classification. I don't mind if druid healo capability exceeds cleric as long as you then give clerics that same chance to solo and quit putting them in a box. Otherwise, I was just suggesting that since the big issue is cleric primes being primarily group structured than they should have a much more distinct advantage. Just an opinion that's all...never whined nor made it sound like crying. Just a take on things, alike to the others (which I may or may not have agreed with) I lauded rather than flamed for attempting constructive input.
 
@@ -1234,7 +1234,7 @@ P.S. From what Charles said, I undoubtedly agree with the fact that attentivenes
 
 </div>
 
-<div class="post" data-post-id="12936" data-author="Avatar" data-date="2006-06-09T12:52:50+00:00">
+<div class="post" data-post-id="12936" data-author="Avatar" data-date="2006-06-09T12:52:50+00:00" data-subject="healers">
 
 Eze, just to get your input, have you grouped / healed much since the recent changes to cleric?  Valkyrie nice, but I mean rather the reduced cost for heals / greater heals / restores.  I'm just wondering if the people who play clerics think that cleric primes still need help.
 
@@ -1244,7 +1244,7 @@ I'm not sure about the numbers, but just for discussion I'll guess that clerics 
 
 </div>
 
-<div class="post" data-post-id="12939" data-author="Mosaix" data-date="2006-06-09T14:23:58+00:00">
+<div class="post" data-post-id="12939" data-author="Mosaix" data-date="2006-06-09T14:23:58+00:00" data-subject="">
 
 I like the new changes to Cleric.  Servant hps are nice now, gives me a chance to solo something for a round or 2 without getting hit.
 
@@ -1268,7 +1268,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="12940" data-author="Mosaix" data-date="2006-06-09T14:36:14+00:00">
+<div class="post" data-post-id="12940" data-author="Mosaix" data-date="2006-06-09T14:36:14+00:00" data-subject="">
 
 Would like to add that Druids do have good regen.  I dont think that is a problem.  Frankly their shifting lag needs to be worked on, some dont shift cause the lag stinks.  Waste of a good ability.
 
@@ -1282,7 +1282,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="12942" data-author="13" data-date="2006-06-09T18:41:51+00:00">
+<div class="post" data-post-id="12942" data-author="13" data-date="2006-06-09T18:41:51+00:00" data-subject="">
 
 [quote:2sicd2g7]You guys want to compare your weakass chars to Daedalus and I just dont think its a fair assessment. Get some eq, learn some areas and start using these "cheats" and overpowers to your advantage. Unless everyone crying wants to come out and say they arent smart enough to figure this stuff out I really cant listen to it. [/quote:2sicd2g7]
 
@@ -1294,7 +1294,7 @@ let the good fight commence!!
 
 </div>
 
-<div class="post" data-post-id="12944" data-author="Avatar" data-date="2006-06-09T21:09:00+00:00">
+<div class="post" data-post-id="12944" data-author="Avatar" data-date="2006-06-09T21:09:00+00:00" data-subject="Cleric-ness">
 
 I just wanted to point out that if you've got some Av bonuses or +heal eq, you might want to consider using heal during normal rounds and only using restore when the tank is in trouble.  I don't remember where the level of +heals makes the heal spell more mana efficient...  For some people, using heal instead of restore may mean a +20% effectiveness as a member of a healo.
 
@@ -1302,7 +1302,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="12948" data-author="Gimlet" data-date="2006-06-10T04:07:13+00:00">
+<div class="post" data-post-id="12948" data-author="Gimlet" data-date="2006-06-10T04:07:13+00:00" data-subject="">
 
 hee mosaix
 
@@ -1310,13 +1310,13 @@ i never said u weren't a good cleric, i just said from memory of those I've lead
 
 </div>
 
-<div class="post" data-post-id="12974" data-author="Ezekiel" data-date="2006-06-11T21:16:30+00:00">
+<div class="post" data-post-id="12974" data-author="Ezekiel" data-date="2006-06-11T21:16:30+00:00" data-subject="">
 
 Ah...I hadn't tinkered much with my cleric since the new changes. Thanks for the tip Charles. Pretty nice indeed, thx imms.
 
 </div>
 
-<div class="post" data-post-id="12975" data-author="12345" data-date="2006-06-11T21:45:25+00:00">
+<div class="post" data-post-id="12975" data-author="12345" data-date="2006-06-11T21:45:25+00:00" data-subject="">
 
 I kinda laughed when I saw a comment along the lines of 'retrain the leaders'.  There's several rolls I look for when running and group and I sometimes have people doing things that aren't intuitive to their class.
 
@@ -1332,7 +1332,7 @@ Either way, I guess the moral is you might not be doing exactly what you want to
 
 </div>
 
-<div class="post" data-post-id="12976" data-author="Elsie" data-date="2006-06-12T08:55:38+00:00">
+<div class="post" data-post-id="12976" data-author="Elsie" data-date="2006-06-12T08:55:38+00:00" data-subject="">
 
 Elsie is a Wa/Ma/Cl/Ba mostly old school there may be better or more powerful combinations out there, it may even be unfair that I can't solo as fast as other combinations, it could also be unfair that other classos have better equipment available to them and do more damage. A lot of this has occured to me over time and some of it I've found frustrating, but hell so what ... who ever said life should be fair and equal to everyone.
 
@@ -1348,7 +1348,7 @@ p.s. Thanks for the drachma scatter in UK daytime last week ... only got a few (
 
 </div>
 
-<div class="post" data-post-id="12982" data-author="Avatar" data-date="2006-06-12T14:21:54+00:00">
+<div class="post" data-post-id="12982" data-author="Avatar" data-date="2006-06-12T14:21:54+00:00" data-subject="classes">
 
 I agree with Elsie's point:  with 4 choices of very nice classes, it's hard to make a "bad" character.  They'll each have strengths and weaknesses, but learning to play to your strengths and minimize the weaknesses is part of the fun.  
 

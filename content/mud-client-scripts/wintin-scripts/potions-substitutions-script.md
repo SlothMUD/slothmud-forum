@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32372" data-author="Strago" data-date="2011-01-25T15:03:43+00:00">
+<div class="post" data-post-id="32372" data-author="Strago" data-date="2011-01-25T15:03:43+00:00" data-subject="Potions Substitutions Script">
 
 This script is a modification of the potions script from the topic [Potions Type Helper](http://www.slothmud.org/forum/viewtopic.php?f=17&t=1974&p=32107&hilit=potion#p32107) for WinTin.net
 

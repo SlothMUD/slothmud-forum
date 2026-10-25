@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="4686" data-author="wlsoon86" data-date="2005-03-01T11:10:11+00:00">
+<div class="post" data-post-id="4686" data-author="wlsoon86" data-date="2005-03-01T11:10:11+00:00" data-subject="WTB BS Shoulder Guard and Black Cloak">
 
 WTB BS Shoulder Guard and Black Cloak
 

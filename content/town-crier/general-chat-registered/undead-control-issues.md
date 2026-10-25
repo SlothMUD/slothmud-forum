@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="29799" data-author="Dragoth" data-date="2009-08-13T00:01:36+00:00">
+<div class="post" data-post-id="29799" data-author="Dragoth" data-date="2009-08-13T00:01:36+00:00" data-subject="Undead Control issues">
 
 Instead of blabbering on i'll let you do the judgements from this log. 
 
@@ -1070,13 +1070,13 @@ I used 0 frostbolts to kill A drunk man.
 
 </div>
 
-<div class="post" data-post-id="29800" data-author="Dragoth" data-date="2009-08-13T00:09:56+00:00">
+<div class="post" data-post-id="29800" data-author="Dragoth" data-date="2009-08-13T00:09:56+00:00" data-subject="">
 
 Forgot to take the robe off, which is 3 undead control in the first fight, but its irrelevant i suppose as it just doesnt make any difference anyway.
 
 </div>
 
-<div class="post" data-post-id="29801" data-author="Dragoth" data-date="2009-08-13T09:18:17+00:00">
+<div class="post" data-post-id="29801" data-author="Dragoth" data-date="2009-08-13T09:18:17+00:00" data-subject="">
 
 And yes, poltegeists are the best necro summon undead at level 2x40 34.  They have 320hp with 14 undead control and cant hit anything apart from cats and dogs in towns.
 
@@ -1084,7 +1084,7 @@ I can also summon 1 wraith, yes - one! at level 2x40 34 which has 360hp and a sl
 
 </div>
 
-<div class="post" data-post-id="29802" data-author="Dragoth" data-date="2009-08-13T10:38:37+00:00">
+<div class="post" data-post-id="29802" data-author="Dragoth" data-date="2009-08-13T10:38:37+00:00" data-subject="">
 
 And im still really puzzled why undead control bonus is not tied to the number of undead followers you can have instead of making it level based ? 
 
@@ -1092,7 +1092,7 @@ Undead control bonus is capped by the position of necro in your class, so that w
 
 </div>
 
-<div class="post" data-post-id="29804" data-author="Thraxas" data-date="2009-08-13T19:57:50+00:00">
+<div class="post" data-post-id="29804" data-author="Thraxas" data-date="2009-08-13T19:57:50+00:00" data-subject="">
 
 And im still really puzzled why undead control bonus is not tied to the number of undead followers you can have instead of making it level based ? 
 
@@ -1108,13 +1108,13 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="29805" data-author="Thraxas" data-date="2009-08-13T20:01:22+00:00">
+<div class="post" data-post-id="29805" data-author="Thraxas" data-date="2009-08-13T20:01:22+00:00" data-subject="">
 
 btw Necro is now working well without being over nor under powered please don't tinker with it.
 
 </div>
 
-<div class="post" data-post-id="29815" data-author="Dragoth" data-date="2009-08-14T08:00:26+00:00">
+<div class="post" data-post-id="29815" data-author="Dragoth" data-date="2009-08-14T08:00:26+00:00" data-subject="">
 
 How is necro balanced Thraxas ? You have been using wights which are level 36 animate dead untill you are almost 3x40. 
 
@@ -1128,7 +1128,7 @@ Undead control is not doing anything except adding HP, unlike others who dont ca
 
 </div>
 
-<div class="post" data-post-id="29821" data-author="Medios" data-date="2009-08-14T14:45:24+00:00">
+<div class="post" data-post-id="29821" data-author="Medios" data-date="2009-08-14T14:45:24+00:00" data-subject="">
 
 Dear Dragoth,
 
@@ -1138,7 +1138,7 @@ Love Mike
 
 </div>
 
-<div class="post" data-post-id="29822" data-author="Dragoth" data-date="2009-08-14T15:27:29+00:00">
+<div class="post" data-post-id="29822" data-author="Dragoth" data-date="2009-08-14T15:27:29+00:00" data-subject="">
 
 Dear Mike,
 
@@ -1146,7 +1146,7 @@ So, because swordwraiths and Juju bokor are strong (which we cannot be sure of) 
 
 </div>
 
-<div class="post" data-post-id="29823" data-author="*Splork*" data-date="2009-08-14T15:37:14+00:00">
+<div class="post" data-post-id="29823" data-author="*Splork*" data-date="2009-08-14T15:37:14+00:00" data-subject="">
 
 Hitroll is still affected. 
 
@@ -1158,7 +1158,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29824" data-author="Dragoth" data-date="2009-08-14T17:13:53+00:00">
+<div class="post" data-post-id="29824" data-author="Dragoth" data-date="2009-08-14T17:13:53+00:00" data-subject="">
 
 Alright Splork, i believe you, but i cant for the life of me see any difference between my undeads with or without undead control, so much that i no longer shift modes and summon my undeads with 0 undead control.
 
@@ -1166,7 +1166,7 @@ I guess im just not going to waste any drachma on undead control.
 
 </div>
 
-<div class="post" data-post-id="29825" data-author="Thraxas" data-date="2009-08-14T20:23:29+00:00">
+<div class="post" data-post-id="29825" data-author="Thraxas" data-date="2009-08-14T20:23:29+00:00" data-subject="">
 
 Alright Splork, i believe you, but i cant for the life of me see any difference between my undeads with or without undead control, so much that i no longer shift modes and summon my undeads with 0 undead control.
 
@@ -1186,7 +1186,7 @@ I guess we'll just have to disagree, as most here will know I've played necro qu
 
 </div>
 
-<div class="post" data-post-id="29826" data-author="Dragoth" data-date="2009-08-14T20:53:08+00:00">
+<div class="post" data-post-id="29826" data-author="Dragoth" data-date="2009-08-14T20:53:08+00:00" data-subject="">
 
 How can you possibly solo anything with poltegeists ? Just look at this ! It takes 3 poltegesists 5 rounds to kill a 4k mob ffs 
 
@@ -1296,7 +1296,7 @@ Your blood freezes as you hear a magical blaundel's death cry.
 
 </div>
 
-<div class="post" data-post-id="29832" data-author="Thraxas" data-date="2009-08-15T14:42:32+00:00">
+<div class="post" data-post-id="29832" data-author="Thraxas" data-date="2009-08-15T14:42:32+00:00" data-subject="">
 
 How can you possibly solo anything with poltegeists ? [/quote:334pcicd]
 
@@ -1306,7 +1306,7 @@ From your comments you sound like you're expecting necro to play like a stabber,
 
 </div>
 
-<div class="post" data-post-id="29835" data-author="Thraxas" data-date="2009-08-15T19:13:17+00:00">
+<div class="post" data-post-id="29835" data-author="Thraxas" data-date="2009-08-15T19:13:17+00:00" data-subject="">
 
 for interest (or lack of it) I make this 2 rounds:
 
@@ -1396,7 +1396,7 @@ Your blood freezes as you hear a magical blaundel's death cry.
 
 </div>
 
-<div class="post" data-post-id="29838" data-author="Dragoth" data-date="2009-08-16T17:32:10+00:00">
+<div class="post" data-post-id="29838" data-author="Dragoth" data-date="2009-08-16T17:32:10+00:00" data-subject="">
 
 Well alright, i rest my case, if everyone else thinks its fine then it must be fine.
 

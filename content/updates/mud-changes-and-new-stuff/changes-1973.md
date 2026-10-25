@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13450" data-author="*Splork*" data-date="2006-07-12T01:25:26+00:00">
+<div class="post" data-post-id="13450" data-author="*Splork*" data-date="2006-07-12T01:25:26+00:00" data-subject="Changes">
 
 1) All drachma books are now personalized. No more harvesting.
 

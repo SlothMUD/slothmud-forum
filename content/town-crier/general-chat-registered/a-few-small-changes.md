@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="31362" data-author="*Splork*" data-date="2010-07-20T15:32:45+00:00">
+<div class="post" data-post-id="31362" data-author="*Splork*" data-date="2010-07-20T15:32:45+00:00" data-subject="a few small changes">
 
 1) Gems will pop on ethereal mobs now ( gems will pop more more frequently on larger mobs than smaller)
 
@@ -28,7 +28,7 @@ Chobbs has been promoted to Coder.
 
 </div>
 
-<div class="post" data-post-id="31363" data-author="Jag" data-date="2010-07-20T17:20:27+00:00">
+<div class="post" data-post-id="31363" data-author="Jag" data-date="2010-07-20T17:20:27+00:00" data-subject="Re: a few small changes">
 
 Congrats to Isabo and Chobbs!  
 
@@ -38,7 +38,7 @@ My only complaint is that so many mobs have had their corpse levels lowered, hig
 
 </div>
 
-<div class="post" data-post-id="31364" data-author="jezer" data-date="2010-07-20T20:01:27+00:00">
+<div class="post" data-post-id="31364" data-author="jezer" data-date="2010-07-20T20:01:27+00:00" data-subject="Re: a few small changes">
 
 Splork,
 
@@ -50,7 +50,7 @@ Jezer
 
 </div>
 
-<div class="post" data-post-id="31365" data-author="Rynquald" data-date="2010-07-20T20:56:36+00:00">
+<div class="post" data-post-id="31365" data-author="Rynquald" data-date="2010-07-20T20:56:36+00:00" data-subject="Re: a few small changes">
 
 Congratulations Isabo and Chobbs.
 

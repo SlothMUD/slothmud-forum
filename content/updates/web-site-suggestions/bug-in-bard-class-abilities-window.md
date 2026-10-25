@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="7224" data-author="Taki" data-date="2005-06-15T08:22:32+00:00">
+<div class="post" data-post-id="7224" data-author="Taki" data-date="2005-06-15T08:22:32+00:00" data-subject="bug in Bard class abilities window">
 
 Tail and Hide links pop up a window with a code error (too many arguments....).
 

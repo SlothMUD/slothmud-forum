@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="24343" data-author="jezer" data-date="2008-05-15T01:03:43+00:00">
+<div class="post" data-post-id="24343" data-author="jezer" data-date="2008-05-15T01:03:43+00:00" data-subject="Unshift HP Loss">
 
 I've talked about this before... but I would like to get to the bottom of what causes it, as I am trying to work out my future path for spending xp tokens.
 
@@ -34,7 +34,7 @@ The easiest way to check this, is for somebody who is at least lvl 40 druid, wit
 
 </div>
 
-<div class="post" data-post-id="24347" data-author="Weasel" data-date="2008-05-15T03:26:40+00:00">
+<div class="post" data-post-id="24347" data-author="Weasel" data-date="2008-05-15T03:26:40+00:00" data-subject="">
 
 It would seem to make sense that when shifted you only get your nat Con (or any other stat for that matter), unless you have eq that you can wear while shifted to make it up, just as you do when not shifted. HOWEVER, in saying that, when we non-shifting peoples change eq which effects, for example, Con, the corresponding loss in hp degrades slowly, not all at once, which I think would be the main issue here. 
 
@@ -44,13 +44,13 @@ If you buy stats once you're 5x40, they become your new nat stats afaik (they ar
 
 </div>
 
-<div class="post" data-post-id="24350" data-author="strider" data-date="2008-05-15T05:22:33+00:00">
+<div class="post" data-post-id="24350" data-author="strider" data-date="2008-05-15T05:22:33+00:00" data-subject="">
 
 no matter what your con is if you shift into somethin at max hps, then shift back to human form, you will lose hps as you shift back. this is done soley to prevent people from shifting to ferret w/ 1hp in human form, quaffing a couple dull gold potions to heal ferret to full, then shifting back to a full hp human. because early on that's what people did, nice way to regen 700hps for the cost of a cure crit. so it got fixed and this is how they chose to do it. max out con, max out hps, max out whatever, you will always shift back to human form short of full.
 
 </div>
 
-<div class="post" data-post-id="24351" data-author="jezer" data-date="2008-05-15T05:40:53+00:00">
+<div class="post" data-post-id="24351" data-author="jezer" data-date="2008-05-15T05:40:53+00:00" data-subject="">
 
 Thanks for clearing that up... :)
 

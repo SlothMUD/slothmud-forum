@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="37016" data-author="*Idjit*" data-date="2016-07-01T03:39:51+00:00">
+<div class="post" data-post-id="37016" data-author="*Idjit*" data-date="2016-07-01T03:39:51+00:00" data-subject="4th of July Stuff 2016">
 
 Ok this is going to be less involved than same time last year.
 
@@ -42,13 +42,13 @@ Enjoy, and Happy Fourth!
 
 </div>
 
-<div class="post" data-post-id="37023" data-author="*Breeze*" data-date="2016-07-02T21:19:35+00:00">
+<div class="post" data-post-id="37023" data-author="*Breeze*" data-date="2016-07-02T21:19:35+00:00" data-subject="Re: 4th of July Stuff 2016">
 
 I did reply to you :)
 
 </div>
 
-<div class="post" data-post-id="37026" data-author="*Idjit*" data-date="2016-07-04T15:17:52+00:00">
+<div class="post" data-post-id="37026" data-author="*Idjit*" data-date="2016-07-04T15:17:52+00:00" data-subject="Re: 4th of July Stuff 2016">
 
 The Epics are deployed.
 
@@ -60,7 +60,7 @@ Go to it!
 
 </div>
 
-<div class="post" data-post-id="37027" data-author="basche" data-date="2016-07-05T14:05:18+00:00">
+<div class="post" data-post-id="37027" data-author="basche" data-date="2016-07-05T14:05:18+00:00" data-subject="Re: 4th of July Stuff 2016">
 
 Thanks for running the quests this weekend!  Good fun!
 

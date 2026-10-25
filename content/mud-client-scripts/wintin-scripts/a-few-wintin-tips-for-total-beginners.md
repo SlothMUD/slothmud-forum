@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="10834" data-author="*juggleblood*" data-date="2006-02-22T09:29:30+00:00">
+<div class="post" data-post-id="10834" data-author="*juggleblood*" data-date="2006-02-22T09:29:30+00:00" data-subject="A few WinTin Tips for Total Beginners">
 
 [u:3rl2gnkd]ClearQueue Command in Aliases[/u:3rl2gnkd]
 
@@ -88,7 +88,7 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="10871" data-author="Malrin" data-date="2006-02-23T22:59:55+00:00">
+<div class="post" data-post-id="10871" data-author="Malrin" data-date="2006-02-23T22:59:55+00:00" data-subject="">
 
 Thanks for the information.
 
@@ -102,7 +102,7 @@ BTW, not new to computers, internet and chatting, but i'm new to Mudding.
 
 </div>
 
-<div class="post" data-post-id="10873" data-author="Avatar" data-date="2006-02-23T23:59:42+00:00">
+<div class="post" data-post-id="10873" data-author="Avatar" data-date="2006-02-23T23:59:42+00:00" data-subject="scripting">
 
 Well, if you understand some basics (if...then statements, loops, setting variables, etc) those are good building blocks.  There are endless web pages describing scripting and beginner programming tips, but it sounds like you have a good general grasp of those.  The important thing then seems to be 2 parts:
 
@@ -136,7 +136,7 @@ charles
 
 </div>
 
-<div class="post" data-post-id="10875" data-author="Avatar" data-date="2006-02-24T00:12:43+00:00">
+<div class="post" data-post-id="10875" data-author="Avatar" data-date="2006-02-24T00:12:43+00:00" data-subject="hmm proofreading">
 
 I should read these again before pressing submit.  The improved code should look more like:
 
@@ -160,7 +160,7 @@ PS.  This may all be too complex.  I guess someone should work on a more basic l
 
 </div>
 
-<div class="post" data-post-id="26727" data-author="Archive_M" data-date="2008-10-16T11:33:26+00:00">
+<div class="post" data-post-id="26727" data-author="Archive_M" data-date="2008-10-16T11:33:26+00:00" data-subject="">
 
 Excellent information! Now I don't have to die every time I run out of HP and have to ditch the fireballs.
 

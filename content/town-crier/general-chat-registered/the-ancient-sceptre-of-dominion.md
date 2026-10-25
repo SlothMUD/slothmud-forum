@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="39419" data-author="Gorka" data-date="2020-04-03T15:50:23+00:00">
+<div class="post" data-post-id="39419" data-author="Gorka" data-date="2020-04-03T15:50:23+00:00" data-subject="The Ancient Sceptre of Dominion">
 
 Ok.
 
@@ -166,7 +166,7 @@ Please report all bugs to Maniac.
 
 </div>
 
-<div class="post" data-post-id="39420" data-author="Gorka" data-date="2020-04-03T17:05:31+00:00">
+<div class="post" data-post-id="39420" data-author="Gorka" data-date="2020-04-03T17:05:31+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 You raise the Ancient Sceptre of Dominion high in the air!!
 
@@ -290,13 +290,13 @@ It appears the only difference is that the mob had more hp and coins at this poi
 
 </div>
 
-<div class="post" data-post-id="39421" data-author="Driven" data-date="2020-04-03T17:45:12+00:00">
+<div class="post" data-post-id="39421" data-author="Driven" data-date="2020-04-03T17:45:12+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 The XP looks low for a legendary version of the draconian master mage.  Mob statistics show that his regular xp when grouped is 43.7 mil xp, whereas his legendary version is 142 mil xp, which you clearly did not get.  We will need to look into that.  And it's more than just hitpoints and gold.
 
 </div>
 
-<div class="post" data-post-id="39422" data-author="Gorka" data-date="2020-04-03T22:38:05+00:00">
+<div class="post" data-post-id="39422" data-author="Gorka" data-date="2020-04-03T22:38:05+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 If that was the xp for the legendary version of the mob, we'd all cap heavily defeating the purpose of killing a bigger mob. Although I am excited by the new idea, it's also kind of dangerous. Already there are many parts of the game that are old, and haven't kept up with the changes made in the past 18 months. Some of us are 2 or 3 ranks ahead in the epic system. I've finished rebirth shop to the point buying hp/mana/mvs is nearing ridiculous. Area's aren't a match for the new power of rebirth avatars, but making a new character is still really bogged down in the early stages, solo for some classes is unbearable. On the other hand rebirth avatars can already run without stopping mobs often over their cap limits. The power line between newbie and rebirth avatar is not linear, it's more exponentially curved. 
 
@@ -308,7 +308,7 @@ Eq power has more than doubled with proc weapons. Winterblade and Sphairai procs
 
 </div>
 
-<div class="post" data-post-id="39423" data-author="Driven" data-date="2020-04-04T13:22:06+00:00">
+<div class="post" data-post-id="39423" data-author="Driven" data-date="2020-04-04T13:22:06+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 I agree with you, Gorka, we are starting to outgrow the mobs, which is inevitable whenever power is added to the game.  And so yes, this system is intended to address that, while actually being fun, new, and different, trying to defeat the zone within a time period for the possibility of new rewards. 
 
@@ -318,7 +318,7 @@ I am aware that this needs to be done properly, that it will require fine-tuning
 
 </div>
 
-<div class="post" data-post-id="39424" data-author="Gorka" data-date="2020-04-04T15:04:44+00:00">
+<div class="post" data-post-id="39424" data-author="Gorka" data-date="2020-04-04T15:04:44+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 Care to tell us your ideas for the associated eq system you are talking about and how that might work? 
 
@@ -330,7 +330,7 @@ The high priest quest for fargate in my mind presents a perfect model of a rewar
 
 </div>
 
-<div class="post" data-post-id="39425" data-author="Driven" data-date="2020-04-06T13:37:50+00:00">
+<div class="post" data-post-id="39425" data-author="Driven" data-date="2020-04-06T13:37:50+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 I get your concerns over wheeling some amazingly hard item, having a newb win it, and then vanish into the ether never to be seen again.  On the other end of the spectrum, as you pointed out, having the leader arbitrarily state who is allowed to win an item is also ripe for conflict and trouble.  Favoritism creeps in and breeds contempt, and that will not be good for the game or the relationships of our player base.  For the most part we all get along, and I'd like to keep it that way.
 
@@ -338,7 +338,7 @@ We are just starting to have the conversations about all of this, so stay tuned.
 
 </div>
 
-<div class="post" data-post-id="39426" data-author="Gorka" data-date="2020-04-06T15:45:34+00:00">
+<div class="post" data-post-id="39426" data-author="Gorka" data-date="2020-04-06T15:45:34+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 I'm pleased to hear that!
 
@@ -370,7 +370,7 @@ The heart of these ideas is that it compliment's the game, not dominate's it. If
 
 </div>
 
-<div class="post" data-post-id="39427" data-author="Bandit" data-date="2020-04-06T17:57:17+00:00">
+<div class="post" data-post-id="39427" data-author="Bandit" data-date="2020-04-06T17:57:17+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 I don't really like the idea of raising every area to legendary and then clearing it solo. That just means avatars are taking away zones from lower level players, already we see zones like Shadow Keep that would be good for someone lower cleared by avatars that have no challenge at all in it. Something else would have to be resolved for this to make sense, like faster respawn times, many more zones created, or limited to some rarely killed zones like kobolds and all those other 100-500 exp mobs that nobody would ever clear.
 
@@ -384,7 +384,7 @@ Prefer some sort of new currency in the form of drachma. Each legendary kill you
 
 </div>
 
-<div class="post" data-post-id="39430" data-author="Gorka" data-date="2020-04-15T05:06:34+00:00">
+<div class="post" data-post-id="39430" data-author="Gorka" data-date="2020-04-15T05:06:34+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 New Legendary Aged - Master Mage for comparison.
 
@@ -452,7 +452,7 @@ I don't understand how at one time the price of +1 dam was 1000 drachma, and now
 
 </div>
 
-<div class="post" data-post-id="39431" data-author="Driven" data-date="2020-04-15T19:20:53+00:00">
+<div class="post" data-post-id="39431" data-author="Driven" data-date="2020-04-15T19:20:53+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 The whole point of this is to keep our content relevant as the playerbase grows.  I have said repeatedly over grouptells that this is a fluid situation that requires much tweaking.  If the right answer is to disable the sceptre on lyme and EU, then we will disable the sceptre on lyme and EU.  It's easy to do.  What I'd like to explore first, though, is how to balance things out properly.  You quoted that before the sceptre, you got 650m xp/hour, and after the sceptre you got 1 bil/hour.  Was this with the same-sized group, or just an off-the-cuff observation where you may potentially be comparing apples to oranges?  I don't know, you haven't told us.  Some questions to ask in general are as follows:
 
@@ -470,7 +470,7 @@ The whole point of this is to keep our content relevant as the playerbase grows.
 
 </div>
 
-<div class="post" data-post-id="39432" data-author="Gorka" data-date="2020-04-15T22:10:38+00:00">
+<div class="post" data-post-id="39432" data-author="Gorka" data-date="2020-04-15T22:10:38+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 Ok, let me substantiate a few things.
 
@@ -490,7 +490,7 @@ I'll get back to you with some other comments maybe tomorrow, as it's late now. 
 
 </div>
 
-<div class="post" data-post-id="39433" data-author="Driven" data-date="2020-04-16T01:56:19+00:00">
+<div class="post" data-post-id="39433" data-author="Driven" data-date="2020-04-16T01:56:19+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 Many of your points are valid and I understand the heart behind your points--you want to protect the delicate balance of the mud, which I respect as well.  For the benefit of everyone else on the forum, Gorka and I worked together today to try to rebalance chop by reducing the effect of the chop blind in heroic and legendary.  The fundamental issue with chop, as Gorka has pointed out, is that chop negates all offensive bonuses you add to mobs, so I have figured out how to reduce the effects of chop blind.
 
@@ -500,7 +500,7 @@ I think this is a step in the right direction.  We need some real Lyme leaders t
 
 </div>
 
-<div class="post" data-post-id="39434" data-author="Gorka" data-date="2020-04-16T17:30:29+00:00">
+<div class="post" data-post-id="39434" data-author="Gorka" data-date="2020-04-16T17:30:29+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 Today was chop day, so I ran a group and collected the following data to help improve the scepter system...
 
@@ -534,13 +534,13 @@ It was nice to kill some mobs that were actually "legendary" Even though they wi
 
 </div>
 
-<div class="post" data-post-id="39435" data-author="Driven" data-date="2020-04-16T18:36:29+00:00">
+<div class="post" data-post-id="39435" data-author="Driven" data-date="2020-04-16T18:36:29+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 Thanks, I will work to re-balance the xp.
 
 </div>
 
-<div class="post" data-post-id="39436" data-author="Gorka" data-date="2020-04-16T21:47:40+00:00">
+<div class="post" data-post-id="39436" data-author="Gorka" data-date="2020-04-16T21:47:40+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 Sceptre Changed... running new tests.
 
@@ -556,13 +556,13 @@ Group was slightly larger... 14 people or so. Players require more hitroll to do
 
 </div>
 
-<div class="post" data-post-id="39437" data-author="Driven" data-date="2020-04-17T12:47:16+00:00">
+<div class="post" data-post-id="39437" data-author="Driven" data-date="2020-04-17T12:47:16+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 Sceptre has been updated.  This is probably going to be the last xp update on the sceptre for legendary xp.  If we still have problems balancing Lyme wrt offlyme, then we need to look for other ways of doing that balance.  I would like to see how non-chop heroic xp looks.
 
 </div>
 
-<div class="post" data-post-id="39505" data-author="Gorka" data-date="2020-06-04T14:41:47+00:00">
+<div class="post" data-post-id="39505" data-author="Gorka" data-date="2020-06-04T14:41:47+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 For a couple of weeks I thought the issues with the sceptre might have been a thing of the past. Changes had been made, and now people had started to realise that the sceptre needed to deployed "strategically" instead of "all the time" - as in some cases it's effect was actually counterproductive. The sceptre had seemingly found a sweet spot that complimented the game - but didn't dominate it.
 
@@ -634,7 +634,7 @@ Now coincidentally the sceptre is also now being used to inflate mob coins on a 
 
 </div>
 
-<div class="post" data-post-id="39506" data-author="Guinex" data-date="2020-06-05T03:05:44+00:00">
+<div class="post" data-post-id="39506" data-author="Guinex" data-date="2020-06-05T03:05:44+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 Maybe we need to revert back to warriors only being able to tank as well the changes made to the over the past few years have probably been a little overkill.  Imagine what a group of all warriors would be capable of now.  No need to cast a spell just, toss the guy tanking every once in a while a heal.
 
@@ -646,7 +646,7 @@ PS..  Even without this sceptre we still would be leveling extremely fast.
 
 </div>
 
-<div class="post" data-post-id="39507" data-author="Driven" data-date="2020-06-05T22:46:43+00:00">
+<div class="post" data-post-id="39507" data-author="Driven" data-date="2020-06-05T22:46:43+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 The xp bonus of the sceptre is a simple bucket calculation... your total levels / total levels of group.  So an 8x20 will get half the xp as an 8x40 (assuming avatar level 0).  It's straightforward to add a scaling factor for lower levels.
 
@@ -654,13 +654,13 @@ Your bonus was 5x, not 10x.  Can you identify the crossover point where the bonu
 
 </div>
 
-<div class="post" data-post-id="39508" data-author="Guinex" data-date="2020-06-06T09:46:15+00:00">
+<div class="post" data-post-id="39508" data-author="Guinex" data-date="2020-06-06T09:46:15+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 It is somewhere around the 6x40 mark. I don't have any logged info for it, but as i recall using it the luster started to fade around 6x40.  There are still some mobs that go over 1x but generally speaking it is always below that at 9x40 on heroic.
 
 </div>
 
-<div class="post" data-post-id="39509" data-author="Driven" data-date="2020-06-06T13:37:53+00:00">
+<div class="post" data-post-id="39509" data-author="Driven" data-date="2020-06-06T13:37:53+00:00" data-subject="Re: The Ancient Sceptre of Dominion">
 
 Given that you have all of this logged, can you give me a spectrum of typical bonus values across the levels as Tonedeaf leveled up?  The scaling factor will be tiered in order to replicate the game's xp system, but I need the data to implement it.
 

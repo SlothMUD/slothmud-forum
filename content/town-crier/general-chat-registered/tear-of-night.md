@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="28610" data-author="brady" data-date="2009-03-25T13:58:17+00:00">
+<div class="post" data-post-id="28610" data-author="brady" data-date="2009-03-25T13:58:17+00:00" data-subject="Tear of Night">
 
 Anyone know what I'm missing?
 
@@ -56,13 +56,13 @@ A mad sorcerer tells you 'You don't have all of the elements needed.'
 
 </div>
 
-<div class="post" data-post-id="28611" data-author="Sheng" data-date="2009-03-25T16:20:40+00:00">
+<div class="post" data-post-id="28611" data-author="Sheng" data-date="2009-03-25T16:20:40+00:00" data-subject="">
 
 Maybe the forge note is required.  Just stab that sorcerer in the face a few times and see if he behaves.
 
 </div>
 
-<div class="post" data-post-id="28612" data-author="Vixn" data-date="2009-03-25T17:48:46+00:00">
+<div class="post" data-post-id="28612" data-author="Vixn" data-date="2009-03-25T17:48:46+00:00" data-subject="">
 
 Obsidian Jewel of Souls [Ygol, Matterhorn]
 
@@ -82,13 +82,13 @@ A speck of heavenly light [Spectral Ball, Tower of Nexialism]
 
 </div>
 
-<div class="post" data-post-id="28613" data-author="reboog" data-date="2009-03-25T23:17:35+00:00">
+<div class="post" data-post-id="28613" data-author="reboog" data-date="2009-03-25T23:17:35+00:00" data-subject="">
 
 Have you tried asking him politely
 
 </div>
 
-<div class="post" data-post-id="28614" data-author="brady" data-date="2009-03-26T01:46:55+00:00">
+<div class="post" data-post-id="28614" data-author="brady" data-date="2009-03-26T01:46:55+00:00" data-subject="">
 
 I guess the website was a little off...thanks Edik.
 

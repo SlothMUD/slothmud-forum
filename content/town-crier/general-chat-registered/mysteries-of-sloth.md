@@ -10,7 +10,7 @@ locked: false
 post_count: 39
 ---
 
-<div class="post" data-post-id="26420" data-author="Vixn" data-date="2008-09-21T20:40:03+00:00">
+<div class="post" data-post-id="26420" data-author="Vixn" data-date="2008-09-21T20:40:03+00:00" data-subject="mysteries of Sloth">
 
 As you touch the statue, you are catapulted across the river.
 
@@ -52,13 +52,13 @@ Yeah, tricky Russians are able to avoid gravity!! :)
 
 </div>
 
-<div class="post" data-post-id="26421" data-author="Tap" data-date="2008-09-21T21:29:03+00:00">
+<div class="post" data-post-id="26421" data-author="Tap" data-date="2008-09-21T21:29:03+00:00" data-subject="">
 
 Serves you right for fondling lawn statues. Btw, that wasn't the elephants trunk you pulled.Freak.
 
 </div>
 
-<div class="post" data-post-id="26466" data-author="angel" data-date="2008-09-25T02:51:08+00:00">
+<div class="post" data-post-id="26466" data-author="angel" data-date="2008-09-25T02:51:08+00:00" data-subject="">
 
 <914hp 189ma 225mv>[-12.0] [+16h - +26d] [64,347] [+9] [Desert of Despair]
 
@@ -108,7 +108,7 @@ thats just stalker...sandworm now does almost 1k damage a round now...
 
 </div>
 
-<div class="post" data-post-id="26467" data-author="angel" data-date="2008-09-25T04:51:04+00:00">
+<div class="post" data-post-id="26467" data-author="angel" data-date="2008-09-25T04:51:04+00:00" data-subject="">
 
 Rynquald utters the words, 'aque bragh'
 
@@ -124,7 +124,7 @@ Everything The eternal flame was carrying suddenly drops to the ground.
 
 </div>
 
-<div class="post" data-post-id="26469" data-author="angel" data-date="2008-09-25T05:22:44+00:00">
+<div class="post" data-post-id="26469" data-author="angel" data-date="2008-09-25T05:22:44+00:00" data-subject="">
 
 Rynquald utters the words, 'euguihzofahz'
 
@@ -194,7 +194,7 @@ interesting coins
 
 </div>
 
-<div class="post" data-post-id="26783" data-author="Vixn" data-date="2008-10-20T21:12:47+00:00">
+<div class="post" data-post-id="26783" data-author="Vixn" data-date="2008-10-20T21:12:47+00:00" data-subject="stupid lost conc!!">
 
 <920hp 281ma 61mv -10.0ac +3al 0 overcast | 361161931 exp>
 
@@ -334,19 +334,19 @@ probably it's based on some recent changes or something?
 
 </div>
 
-<div class="post" data-post-id="26786" data-author="Tap" data-date="2008-10-20T22:24:06+00:00">
+<div class="post" data-post-id="26786" data-author="Tap" data-date="2008-10-20T22:24:06+00:00" data-subject="">
 
 It's all due to your bad luck.
 
 </div>
 
-<div class="post" data-post-id="26789" data-author="Weasel" data-date="2008-10-20T22:50:22+00:00">
+<div class="post" data-post-id="26789" data-author="Weasel" data-date="2008-10-20T22:50:22+00:00" data-subject="">
 
 oh, and you suxor at muddings.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="26790" data-author="jezer" data-date="2008-10-20T23:44:11+00:00">
+<div class="post" data-post-id="26790" data-author="jezer" data-date="2008-10-20T23:44:11+00:00" data-subject="">
 
 Lost con is a complete joke. Some days things are fine, other days it's like 30-40%. I swear that piece of code is complete crap, give me it and I'll prove it. There is WAY too much variance day by day. 
 
@@ -356,13 +356,13 @@ Something is complete crap... A hundred million insects can't be wrong.
 
 </div>
 
-<div class="post" data-post-id="26791" data-author="Weasel" data-date="2008-10-20T23:55:27+00:00">
+<div class="post" data-post-id="26791" data-author="Weasel" data-date="2008-10-20T23:55:27+00:00" data-subject="">
 
 and then there's rerolling.. the bane of slothmud.
 
 </div>
 
-<div class="post" data-post-id="26797" data-author="angel" data-date="2008-10-21T05:57:07+00:00">
+<div class="post" data-post-id="26797" data-author="angel" data-date="2008-10-21T05:57:07+00:00" data-subject="">
 
 The avatar sight fades away.
 
@@ -370,7 +370,7 @@ it finally fades
 
 </div>
 
-<div class="post" data-post-id="27286" data-author="jezer" data-date="2008-11-24T23:15:51+00:00">
+<div class="post" data-post-id="27286" data-author="jezer" data-date="2008-11-24T23:15:51+00:00" data-subject="">
 
 Was wondering if anyone knows for sure, which/how many of the 8 dolphins in kuo-toans pop the dolphin skin boots.
 
@@ -386,7 +386,7 @@ Only the one in the study...
 
 </div>
 
-<div class="post" data-post-id="27287" data-author="Tap" data-date="2008-11-24T23:33:52+00:00">
+<div class="post" data-post-id="27287" data-author="Tap" data-date="2008-11-24T23:33:52+00:00" data-subject="">
 
 I've hit dolphins everytime there was a 100% poprate toggled for my druid char's. The poprate is crappy otherwise...
 
@@ -394,7 +394,7 @@ Note- The 3 times I was able to mass pop boots I garnered 2-3 sets each time. I'
 
 </div>
 
-<div class="post" data-post-id="27288" data-author="jezer" data-date="2008-11-24T23:41:43+00:00">
+<div class="post" data-post-id="27288" data-author="jezer" data-date="2008-11-24T23:41:43+00:00" data-subject="">
 
 Thanks Tap.
 
@@ -406,7 +406,7 @@ Although some mobs items never show on locate... the sphere in onyx tower for in
 
 </div>
 
-<div class="post" data-post-id="27289" data-author="Tap" data-date="2008-11-25T01:20:59+00:00">
+<div class="post" data-post-id="27289" data-author="Tap" data-date="2008-11-25T01:20:59+00:00" data-subject="">
 
 I'd like to confirm this, Can we get 100% poprate this coming Saturday around 11am eastern?
 
@@ -414,7 +414,7 @@ I'd like to confirm this, Can we get 100% poprate this coming Saturday around 11
 
 </div>
 
-<div class="post" data-post-id="27321" data-author="Vixn" data-date="2008-11-30T06:39:18+00:00">
+<div class="post" data-post-id="27321" data-author="Vixn" data-date="2008-11-30T06:39:18+00:00" data-subject="">
 
 You activate a sidhe charm of spiritual hammer.
 
@@ -438,7 +438,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="27322" data-author="jezer" data-date="2008-11-30T12:48:06+00:00">
+<div class="post" data-post-id="27322" data-author="jezer" data-date="2008-11-30T12:48:06+00:00" data-subject="">
 
 Good try there Vixn, I never thought to try that.
 
@@ -452,7 +452,7 @@ Also i've mentioned this before... make dispel magic a targetted spell. It's rea
 
 </div>
 
-<div class="post" data-post-id="27323" data-author="alias" data-date="2008-11-30T14:49:32+00:00">
+<div class="post" data-post-id="27323" data-author="alias" data-date="2008-11-30T14:49:32+00:00" data-subject="">
 
 #alias {dm} {cas 'dispel magic' $targ}
 
@@ -462,7 +462,7 @@ Now on to other things.
 
 </div>
 
-<div class="post" data-post-id="27324" data-author="Weasel" data-date="2008-11-30T16:50:15+00:00">
+<div class="post" data-post-id="27324" data-author="Weasel" data-date="2008-11-30T16:50:15+00:00" data-subject="">
 
 Good try there Vixn, I never thought to try that.
 
@@ -488,7 +488,7 @@ People have been asking for something like this for many years. Is it a coding i
 
 </div>
 
-<div class="post" data-post-id="27325" data-author="Weasel" data-date="2008-11-30T16:55:34+00:00">
+<div class="post" data-post-id="27325" data-author="Weasel" data-date="2008-11-30T16:55:34+00:00" data-subject="">
 
 #alias {dm} {cas 'dispel magic' $targ}
 
@@ -502,7 +502,7 @@ ie: cast 'dispel magic' stone-skin Jezer.
 
 </div>
 
-<div class="post" data-post-id="27331" data-author="*juggleblood*" data-date="2008-12-01T13:06:15+00:00">
+<div class="post" data-post-id="27331" data-author="*juggleblood*" data-date="2008-12-01T13:06:15+00:00" data-subject="">
 
 [b:d6mtnasi]cast 'dispel magic' stone-skin Jezer[/b:d6mtnasi].
 
@@ -514,7 +514,7 @@ Word. I've always thought this ability should come with the advanced mysteries o
 
 </div>
 
-<div class="post" data-post-id="27336" data-author="Vixn" data-date="2008-12-01T20:10:21+00:00">
+<div class="post" data-post-id="27336" data-author="Vixn" data-date="2008-12-01T20:10:21+00:00" data-subject="">
 
 If a thief can manage to steal a specific aura off another player (one the thief can't cast even), then surely a mage can manage their own auras.[/quote:aabeofhu]
 
@@ -524,7 +524,7 @@ Magic is wild.  8)
 
 </div>
 
-<div class="post" data-post-id="27342" data-author="jezer" data-date="2008-12-02T23:26:38+00:00">
+<div class="post" data-post-id="27342" data-author="jezer" data-date="2008-12-02T23:26:38+00:00" data-subject="">
 
 At avatar... 
 
@@ -534,7 +534,7 @@ Is there a difference between the Resist Fire component of Elemental Resistance 
 
 </div>
 
-<div class="post" data-post-id="27343" data-author="jezer" data-date="2008-12-02T23:32:32+00:00">
+<div class="post" data-post-id="27343" data-author="jezer" data-date="2008-12-02T23:32:32+00:00" data-subject="">
 
 Are there any situations where I would need infra vision to see something... that I couldn't see if I had dark sight up?
 
@@ -542,7 +542,7 @@ Are there any situations where I would need infra vision to see something... tha
 
 </div>
 
-<div class="post" data-post-id="27344" data-author="Weasel" data-date="2008-12-03T01:13:11+00:00">
+<div class="post" data-post-id="27344" data-author="Weasel" data-date="2008-12-03T01:13:11+00:00" data-subject="">
 
 Are there any situations where I would need infra vision to see something... that I couldn't see if I had dark sight up?
 
@@ -552,13 +552,13 @@ Not sure as to the answer to your question, but if you're thinking of buying per
 
 </div>
 
-<div class="post" data-post-id="27347" data-author="Tap" data-date="2008-12-03T04:37:08+00:00">
+<div class="post" data-post-id="27347" data-author="Tap" data-date="2008-12-03T04:37:08+00:00" data-subject="">
 
 42
 
 </div>
 
-<div class="post" data-post-id="27350" data-author="*juggleblood*" data-date="2008-12-03T14:42:34+00:00">
+<div class="post" data-post-id="27350" data-author="*juggleblood*" data-date="2008-12-03T14:42:34+00:00" data-subject="">
 
 Are there any situations where I would need infra vision to see something... that I couldn't see if I had dark sight up?
 
@@ -568,7 +568,7 @@ Darksight is better. Infravision doesn't let you see objects on the floor of the
 
 </div>
 
-<div class="post" data-post-id="27351" data-author="*juggleblood*" data-date="2008-12-03T14:45:04+00:00">
+<div class="post" data-post-id="27351" data-author="*juggleblood*" data-date="2008-12-03T14:45:04+00:00" data-subject="">
 
 At avatar... 
 
@@ -580,13 +580,13 @@ fire bane, resist fire, and elemental resistance are equal power. You can only b
 
 </div>
 
-<div class="post" data-post-id="27364" data-author="jezer" data-date="2008-12-04T23:47:22+00:00">
+<div class="post" data-post-id="27364" data-author="jezer" data-date="2008-12-04T23:47:22+00:00" data-subject="">
 
 Can a forged scroll of ethereal gods be sold for drachma?
 
 </div>
 
-<div class="post" data-post-id="27619" data-author="Vixn" data-date="2009-01-05T12:29:44+00:00">
+<div class="post" data-post-id="27619" data-author="Vixn" data-date="2009-01-05T12:29:44+00:00" data-subject="">
 
 There was an epic lag today:
 
@@ -598,7 +598,7 @@ Cizin gossips-- 'you should eat that many cookies on xmas Rov .)'
 
 </div>
 
-<div class="post" data-post-id="27637" data-author="Vixn" data-date="2009-01-05T21:32:54+00:00">
+<div class="post" data-post-id="27637" data-author="Vixn" data-date="2009-01-05T21:32:54+00:00" data-subject="">
 
 Those crows are cowards.
 
@@ -622,7 +622,7 @@ Wonderful that I can get exp from the mob dying 1w from me, but I can't get mone
 
 </div>
 
-<div class="post" data-post-id="27642" data-author="Weasel" data-date="2009-01-05T23:58:36+00:00">
+<div class="post" data-post-id="27642" data-author="Weasel" data-date="2009-01-05T23:58:36+00:00" data-subject="">
 
 Can a forged scroll of ethereal gods be sold for drachma?[/quote:2sq3d80w]
 
@@ -630,7 +630,7 @@ I doubt it. I have 3 ethereal scrolls I bought a long time ago at drachma shop a
 
 </div>
 
-<div class="post" data-post-id="27683" data-author="Vixn" data-date="2009-01-10T22:08:03+00:00">
+<div class="post" data-post-id="27683" data-author="Vixn" data-date="2009-01-10T22:08:03+00:00" data-subject="">
 
 [b:3tg6ne3z]Sloth Math:[/b:3tg6ne3z]
 
@@ -668,13 +668,13 @@ Hm, probably Stormshadow and Dawg just aren't ppl! Are they!?
 
 </div>
 
-<div class="post" data-post-id="27686" data-author="Autolycos" data-date="2009-01-11T15:24:22+00:00">
+<div class="post" data-post-id="27686" data-author="Autolycos" data-date="2009-01-11T15:24:22+00:00" data-subject="">
 
 figures.....
 
 </div>
 
-<div class="post" data-post-id="27687" data-author="Akasha" data-date="2009-01-11T17:24:39+00:00">
+<div class="post" data-post-id="27687" data-author="Akasha" data-date="2009-01-11T17:24:39+00:00" data-subject="">
 
 [b:2mype00c]Sloth Math:[/b:2mype00c]
 
@@ -686,7 +686,7 @@ up to, a max of, not always but could, etc
 
 </div>
 
-<div class="post" data-post-id="27697" data-author="Vixn" data-date="2009-01-12T20:29:57+00:00">
+<div class="post" data-post-id="27697" data-author="Vixn" data-date="2009-01-12T20:29:57+00:00" data-subject="">
 
 The Fine Art of Making Short Descriptions:
 
@@ -748,7 +748,7 @@ You deftly snatch the essence of shadow.
 
 </div>
 
-<div class="post" data-post-id="27698" data-author="jezer" data-date="2009-01-12T22:24:28+00:00">
+<div class="post" data-post-id="27698" data-author="jezer" data-date="2009-01-12T22:24:28+00:00" data-subject="">
 
 Laugh, you have a talent for picking these things out... 
 
@@ -756,13 +756,13 @@ I have just as much trouble trying to drop the thing when I get the random pop o
 
 </div>
 
-<div class="post" data-post-id="27709" data-author="marge" data-date="2009-01-14T01:11:18+00:00">
+<div class="post" data-post-id="27709" data-author="marge" data-date="2009-01-14T01:11:18+00:00" data-subject="">
 
 If anyone was stuck on a particular autoquest at Lucifer, try again, it may be working now.
 
 </div>
 
-<div class="post" data-post-id="27710" data-author="marge" data-date="2009-01-14T01:40:17+00:00">
+<div class="post" data-post-id="27710" data-author="marge" data-date="2009-01-14T01:40:17+00:00" data-subject="">
 
 zombie dust appears to work now
 

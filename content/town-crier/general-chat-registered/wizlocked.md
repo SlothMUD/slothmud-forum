@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="7605" data-author="*Splork*" data-date="2005-06-26T11:20:01+00:00">
+<div class="post" data-post-id="7605" data-author="*Splork*" data-date="2005-06-26T11:20:01+00:00" data-subject="Wizlocked">
 
 The game is wizlocked while we work on something...
 
@@ -20,7 +20,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="7606" data-author="*Splork*" data-date="2005-06-26T11:34:27+00:00">
+<div class="post" data-post-id="7606" data-author="*Splork*" data-date="2005-06-26T11:34:27+00:00" data-subject="Back up">
 
 Sorry for the downtime, we are back up...
 
@@ -28,7 +28,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="7607" data-author="Mosaix" data-date="2005-06-26T11:50:34+00:00">
+<div class="post" data-post-id="7607" data-author="Mosaix" data-date="2005-06-26T11:50:34+00:00" data-subject="">
 
 thanks for working on and fixing stuff
 

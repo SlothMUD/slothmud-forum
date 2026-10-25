@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="11028" data-author="*juggleblood*" data-date="2006-03-03T14:12:58+00:00">
+<div class="post" data-post-id="11028" data-author="*juggleblood*" data-date="2006-03-03T14:12:58+00:00" data-subject="Time to Next Tick Display -NET">
 
 This will make a counter at the lower right of your wintin terminal that counts down the seconds until the tick.
 
@@ -48,7 +48,7 @@ This is useful for making spell counters because the variable time2next updates 
 
 </div>
 
-<div class="post" data-post-id="11030" data-author="*juggleblood*" data-date="2006-03-03T15:07:03+00:00">
+<div class="post" data-post-id="11030" data-author="*juggleblood*" data-date="2006-03-03T15:07:03+00:00" data-subject="correction">
 
 Make this correction
 
@@ -66,13 +66,13 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="11043" data-author="Krok" data-date="2006-03-03T21:33:58+00:00">
+<div class="post" data-post-id="11043" data-author="Krok" data-date="2006-03-03T21:33:58+00:00" data-subject="">
 
 TICK IN 10!!! CATCH!!
 
 </div>
 
-<div class="post" data-post-id="11061" data-author="*juggleblood*" data-date="2006-03-04T17:32:37+00:00">
+<div class="post" data-post-id="11061" data-author="*juggleblood*" data-date="2006-03-04T17:32:37+00:00" data-subject="">
 
 Ok... I was learned a few things, such as:
 
@@ -86,13 +86,13 @@ Is there even any point to a tickcounter nemore since you gain hp during the min
 
 </div>
 
-<div class="post" data-post-id="11062" data-author="Weasel" data-date="2006-03-04T17:43:35+00:00">
+<div class="post" data-post-id="11062" data-author="Weasel" data-date="2006-03-04T17:43:35+00:00" data-subject="">
 
 mobs still operate on the tick system, so it's good for knowing when repops will occur and also I guess can be used to start killing a mob just after a tick so it doesn't get bonus hp midway through fight if another tick lapses...
 
 </div>
 
-<div class="post" data-post-id="11063" data-author="*Splork*" data-date="2006-03-04T18:25:09+00:00">
+<div class="post" data-post-id="11063" data-author="*Splork*" data-date="2006-03-04T18:25:09+00:00" data-subject="">
 
 Actually mob actions no longer work according to the old tick system. Mob actions are mostly random now...
 
@@ -102,7 +102,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="11064" data-author="12345" data-date="2006-03-04T19:34:32+00:00">
+<div class="post" data-post-id="11064" data-author="12345" data-date="2006-03-04T19:34:32+00:00" data-subject="">
 
 The mini ticks were designed to make ticks useless, yes.  A real quick search of my memory seems to think that boats still come and go on actual ticks.  Don't recall if areas repop on ticks or not.  The game operates on about 6 different tick systems though, so trying to wrap your head around everything is pretty difficult.
 
@@ -110,7 +110,7 @@ The messages that say whatever spell is about to fall is your best measurement. 
 
 </div>
 
-<div class="post" data-post-id="11065" data-author="Weasel" data-date="2006-03-04T20:38:53+00:00">
+<div class="post" data-post-id="11065" data-author="Weasel" data-date="2006-03-04T20:38:53+00:00" data-subject="">
 
 Actually mob actions no longer work according to the old tick system. Mob actions are mostly random now...
 
@@ -124,7 +124,7 @@ I have a heap of tick message triggers like weather and area sounds etc.. deleti
 
 </div>
 
-<div class="post" data-post-id="11066" data-author="Weasel" data-date="2006-03-04T20:42:11+00:00">
+<div class="post" data-post-id="11066" data-author="Weasel" data-date="2006-03-04T20:42:11+00:00" data-subject="">
 
 hmm.. but still useful for mob pingers, yes? Are repop times still tick based along with weather, sunrise etc? ..or at least repop duration constant within an area..
 

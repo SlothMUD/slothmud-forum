@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="10695" data-author="12345" data-date="2006-02-13T14:12:07+00:00">
+<div class="post" data-post-id="10695" data-author="12345" data-date="2006-02-13T14:12:07+00:00" data-subject="Recruiting">
 
 Howdy folks.
 
@@ -24,7 +24,7 @@ Thanks for reading and I hope you consider responding!  :D
 
 </div>
 
-<div class="post" data-post-id="10705" data-author="*juggleblood*" data-date="2006-02-14T08:53:41+00:00">
+<div class="post" data-post-id="10705" data-author="*juggleblood*" data-date="2006-02-14T08:53:41+00:00" data-subject="">
 
 I'll happily get you a picture of anyplace in Riyadh or other Saudi Arabian city.
 
@@ -38,7 +38,7 @@ Juggleblood
 
 </div>
 
-<div class="post" data-post-id="10706" data-author="Rajil" data-date="2006-02-14T09:55:35+00:00">
+<div class="post" data-post-id="10706" data-author="Rajil" data-date="2006-02-14T09:55:35+00:00" data-subject="">
 
 If you need anything in Manila, Philippines, I'll do my best to help you get it.
 

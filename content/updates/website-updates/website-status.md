@@ -10,7 +10,7 @@ locked: true
 post_count: 1
 ---
 
-<div class="post" data-post-id="38297" data-author="*Breeze*" data-date="2017-06-18T13:12:36+00:00">
+<div class="post" data-post-id="38297" data-author="*Breeze*" data-date="2017-06-18T13:12:36+00:00" data-subject="Website Status">
 
 not everything works but the maps are accessible,  (  http://www.slothmud.org/wiki/  )
 

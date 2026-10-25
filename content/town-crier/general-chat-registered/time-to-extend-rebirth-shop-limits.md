@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="39685" data-author="Gorka" data-date="2021-02-14T07:30:47+00:00">
+<div class="post" data-post-id="39685" data-author="Gorka" data-date="2021-02-14T07:30:47+00:00" data-subject="Time to Extend Rebirth Shop Limits?">
 
 I'm currently buying hp points for about 35,000,000,000 xp each. The "diminishing returns" purchasing formula of rebirth shop works, and there comes a point where buying things becomes soul destroying... it's exactly what the top players need to give themselves even the smallest way to perpetually improve... and without it, I wonder if more players wouldn't quit.
 
@@ -24,19 +24,19 @@ I'm asking the immortals to get their feet wet, not jump in the pool. Could the 
 
 </div>
 
-<div class="post" data-post-id="39688" data-author="Gorka" data-date="2021-02-22T19:05:53+00:00">
+<div class="post" data-post-id="39688" data-author="Gorka" data-date="2021-02-22T19:05:53+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 Bump! Any response from the people who run the game?
 
 </div>
 
-<div class="post" data-post-id="39689" data-author="Driven" data-date="2021-02-23T15:14:57+00:00">
+<div class="post" data-post-id="39689" data-author="Driven" data-date="2021-02-23T15:14:57+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 We have briefly discussed the possibility of this, yes.  I am currently developing a new drachma item that will hopefully address both this concern and the issue of making areas/eq/forges relevant, but it's a big project and will take me time.  Between work, family, and ministry I am at my limit, but I will continue trying to make progress on it.
 
 </div>
 
-<div class="post" data-post-id="39690" data-author="Gorka" data-date="2021-03-01T22:26:59+00:00">
+<div class="post" data-post-id="39690" data-author="Gorka" data-date="2021-03-01T22:26:59+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 Firstly, I don't see how your artifact would effect the widening of rebirth shop... surely players need to have some form of an outlet to spend xp on improvements if the immortals realistically expect the players to continue killing mobs for xp... (the principal and original objective of the game) Although the immortals seem so absent these days, it feels like expectations of anything or anyone has been lost.  :| 
 
@@ -46,7 +46,7 @@ Teker through his own posts and track record, aligns his changes with "the inten
 
 </div>
 
-<div class="post" data-post-id="39691" data-author="Driven" data-date="2021-03-02T15:02:59+00:00">
+<div class="post" data-post-id="39691" data-author="Driven" data-date="2021-03-02T15:02:59+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 I'm sorry that you don't like how I have rebalanced the classes.  Just because something "takes a leap forward" does not mean that it isn't "following the intention of the original coders".  When I made something take a leap forward, it was because those classes needed a leap forward to gain parity with the power curves of the stronger classes.  Even after all of the "leaps of power for caster items", melee classes are *still* stronger than every other class, which means we didn't overshoot.  Do you not see that mages and clerics needed a serious boost to bring them up to snuff?  Your thinking is far too simplistic.
 
@@ -60,7 +60,7 @@ This new item I'm building is not an artifact.  And no, I don't particularly wan
 
 </div>
 
-<div class="post" data-post-id="39692" data-author="Gorka" data-date="2021-03-02T15:24:53+00:00">
+<div class="post" data-post-id="39692" data-author="Gorka" data-date="2021-03-02T15:24:53+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 Thanks for taking the time out to share your ministry with us. I'll take your post to heart and get some edumacation. But give me time please, not all of us are so enlightened.
 
@@ -83,13 +83,13 @@ I'm reminded about a story about a wolf in sheeps clothing and the saying "you w
 
 </div>
 
-<div class="post" data-post-id="39693" data-author="Driven" data-date="2021-03-02T15:32:27+00:00">
+<div class="post" data-post-id="39693" data-author="Driven" data-date="2021-03-02T15:32:27+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 There's another one--live by the sword, die by the sword.  If you're willing to use words to make accusations, then you better be willing to stand up to the defense.  My intent is not to humiliate or demean, so if I came across that way, my apologies.  But the fact is, you accuse me (which you almost make a sport of it) constantly, and so yes, I'm going to defend myself.
 
 </div>
 
-<div class="post" data-post-id="39694" data-author="Gorka" data-date="2021-03-02T16:28:36+00:00">
+<div class="post" data-post-id="39694" data-author="Gorka" data-date="2021-03-02T16:28:36+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 Man up Driven, There is no malevolent conspiracy on my part to drag you down just for the hell of it.
 
@@ -97,19 +97,19 @@ Effectively you've implemented "guns" in a game about "knife fighting." You've a
 
 </div>
 
-<div class="post" data-post-id="39695" data-author="Driven" data-date="2021-03-02T17:18:32+00:00">
+<div class="post" data-post-id="39695" data-author="Driven" data-date="2021-03-02T17:18:32+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 I've given all of my reasons for what I've done.  You haven't refuted those reasons, all you do is continue to scream louder.  Pretty sure I'm not the one who needs to man up.
 
 </div>
 
-<div class="post" data-post-id="39696" data-author="Driven" data-date="2021-03-02T18:41:42+00:00">
+<div class="post" data-post-id="39696" data-author="Driven" data-date="2021-03-02T18:41:42+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 Gorka, check your email please.
 
 </div>
 
-<div class="post" data-post-id="39698" data-author="jayclimbs" data-date="2021-03-16T16:23:06+00:00">
+<div class="post" data-post-id="39698" data-author="jayclimbs" data-date="2021-03-16T16:23:06+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 My two cents:
 
@@ -139,7 +139,7 @@ Things like this expand the game without requiring a lot of 'rebalancing'. They 
 
 </div>
 
-<div class="post" data-post-id="39699" data-author="Gorka" data-date="2021-03-17T07:02:19+00:00">
+<div class="post" data-post-id="39699" data-author="Gorka" data-date="2021-03-17T07:02:19+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 Pretty fair post I think "Jayclimbs."
 
@@ -165,7 +165,7 @@ I'm rambling, as usual... let me try be concise.
 
 </div>
 
-<div class="post" data-post-id="39700" data-author="Insomnia" data-date="2021-03-17T16:36:38+00:00">
+<div class="post" data-post-id="39700" data-author="Insomnia" data-date="2021-03-17T16:36:38+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 Isn't Sloth deliberately limiting solo to encourage grouping? I mean, can kill some 100mil exp mobs, but with my ~12mil exp cap (at 9x40, I'm not a reborn yet), there's no sense in it...
 
@@ -173,7 +173,7 @@ My opinion is that if you want newcomers to stay for a longer time, you should n
 
 </div>
 
-<div class="post" data-post-id="39706" data-author="Josiah" data-date="2021-04-02T01:19:44+00:00">
+<div class="post" data-post-id="39706" data-author="Josiah" data-date="2021-04-02T01:19:44+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 Solo XP is viable for some builds when XP caps are off. When I was still active, I often timed my gaming sessions for nocap houses/days because they were a nice change of pace from the usual 'splork easy mob for cap xp' and 'semi-afk in a group for hours.' I'd be happy to see more playstyles become viable, and addressing caps is an easy start.
 
@@ -183,7 +183,7 @@ Had to laugh at Gorka demanding Driven run new ideas past the forum before imple
 
 </div>
 
-<div class="post" data-post-id="39707" data-author="Gorka" data-date="2021-04-02T04:44:30+00:00">
+<div class="post" data-post-id="39707" data-author="Gorka" data-date="2021-04-02T04:44:30+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 Thanks for your insights about the current state of things Josiah...  
 
@@ -197,7 +197,7 @@ You should login sometime, so you can pretend to understand the effect that item
 
 </div>
 
-<div class="post" data-post-id="39708" data-author="Ker" data-date="2021-04-05T02:27:14+00:00">
+<div class="post" data-post-id="39708" data-author="Ker" data-date="2021-04-05T02:27:14+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
 lel
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33837" data-author="raincrab" data-date="2012-12-11T23:26:17+00:00">
+<div class="post" data-post-id="33837" data-author="raincrab" data-date="2012-12-11T23:26:17+00:00" data-subject="tf prompt grabber">
 
 Someone asked for this on the newbie channel, here it is.
 

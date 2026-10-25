@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="13377" data-author="*Splork*" data-date="2006-07-08T00:44:16+00:00">
+<div class="post" data-post-id="13377" data-author="*Splork*" data-date="2006-07-08T00:44:16+00:00" data-subject="Lag free">
 
 I just hung up the phone with almighty Jake and he has fixed our server, lag is gone.
 
@@ -20,7 +20,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="13379" data-author="Yasik" data-date="2006-07-08T06:48:01+00:00">
+<div class="post" data-post-id="13379" data-author="Yasik" data-date="2006-07-08T06:48:01+00:00" data-subject="">
 
 7h4nx Bl4573r ! >:]
 

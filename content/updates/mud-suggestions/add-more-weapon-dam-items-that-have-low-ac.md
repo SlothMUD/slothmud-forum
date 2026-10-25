@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36331" data-author="Hung" data-date="2015-12-19T22:05:34+00:00">
+<div class="post" data-post-id="36331" data-author="Hung" data-date="2015-12-19T22:05:34+00:00" data-subject="Add more weapon dam items that have low ac">
 
 Hi,
 
@@ -44,7 +44,7 @@ Sorry for the bad English.
 
 </div>
 
-<div class="post" data-post-id="36332" data-author="Teron" data-date="2015-12-20T07:53:39+00:00">
+<div class="post" data-post-id="36332" data-author="Teron" data-date="2015-12-20T07:53:39+00:00" data-subject="Re: Add more weapon dam items that have low ac">
 
 I won't comment on these items, which seem useful, but a bit overpowered.
 
@@ -52,7 +52,7 @@ The drachma shop does need +wd items, eg, I'd welcome a shield that had +wd inst
 
 </div>
 
-<div class="post" data-post-id="36334" data-author="Hung" data-date="2015-12-20T20:39:37+00:00">
+<div class="post" data-post-id="36334" data-author="Hung" data-date="2015-12-20T20:39:37+00:00" data-subject="Re: Add more weapon dam items that have low ac">
 
 As for items, I simply took some existing hand dam and dam items and created their wd counterparts.
 

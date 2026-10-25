@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16206" data-author="luke" data-date="2007-01-11T20:36:51+00:00">
+<div class="post" data-post-id="16206" data-author="luke" data-date="2007-01-11T20:36:51+00:00" data-subject="dam in prompt">
 
 so when i stop using a weapon the damage in score switches to reflect hand damage but the prompt damage does not.
 
@@ -20,7 +20,7 @@ luke
 
 </div>
 
-<div class="post" data-post-id="16207" data-author="kjartan" data-date="2007-01-11T21:00:53+00:00">
+<div class="post" data-post-id="16207" data-author="kjartan" data-date="2007-01-11T21:00:53+00:00" data-subject="">
 
 Sure.  Fixed, in next time someone moves the code over (meaning, I am not scheduling a reboot for this.)
 

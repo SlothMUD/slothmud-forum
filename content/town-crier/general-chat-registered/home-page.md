@@ -10,7 +10,7 @@ locked: false
 post_count: 38
 ---
 
-<div class="post" data-post-id="28355" data-author="Bazilus" data-date="2009-03-01T09:29:26+00:00">
+<div class="post" data-post-id="28355" data-author="Bazilus" data-date="2009-03-01T09:29:26+00:00" data-subject="Home page...">
 
 Why slothmud.org home page changed? Put back list of forum news... +)
 
@@ -18,13 +18,13 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28474" data-author="Alberich" data-date="2009-03-12T19:30:48+00:00">
+<div class="post" data-post-id="28474" data-author="Alberich" data-date="2009-03-12T19:30:48+00:00" data-subject="">
 
 seconded btw.  This crap is annoying, fix it please.
 
 </div>
 
-<div class="post" data-post-id="28475" data-author="*juggleblood*" data-date="2009-03-12T21:51:45+00:00">
+<div class="post" data-post-id="28475" data-author="*juggleblood*" data-date="2009-03-12T21:51:45+00:00" data-subject="">
 
 The postings in the gossip section are so ugly there's no reason they should be on the front page. 
 
@@ -34,7 +34,7 @@ The change was my suggestion.
 
 </div>
 
-<div class="post" data-post-id="28476" data-author="Bazilus" data-date="2009-03-12T21:54:10+00:00">
+<div class="post" data-post-id="28476" data-author="Bazilus" data-date="2009-03-12T21:54:10+00:00" data-subject="..">
 
 Make this page somewhere else then, bc 'New since last' looks not same. +)
 
@@ -42,7 +42,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28478" data-author="Bazilus" data-date="2009-03-13T09:11:50+00:00">
+<div class="post" data-post-id="28478" data-author="Bazilus" data-date="2009-03-13T09:11:50+00:00" data-subject="...">
 
 Or give 'Link' with this page to us... It real helps read forum.
 
@@ -50,7 +50,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28479" data-author="Medios" data-date="2009-03-13T18:08:06+00:00">
+<div class="post" data-post-id="28479" data-author="Medios" data-date="2009-03-13T18:08:06+00:00" data-subject="">
 
 The postings in the gossip section are so ugly there's no reason they should be on the front page. 
 
@@ -64,7 +64,7 @@ Edit:  The live info on on main page is not working.  I checked it the night of 
 
 </div>
 
-<div class="post" data-post-id="28480" data-author="Alberich" data-date="2009-03-13T20:09:29+00:00">
+<div class="post" data-post-id="28480" data-author="Alberich" data-date="2009-03-13T20:09:29+00:00" data-subject="">
 
 The postings in the gossip section are so ugly there's no reason they should be on the front page. 
 
@@ -78,7 +78,7 @@ sorry you got your panties in a knot, but at least make it user defined so your 
 
 </div>
 
-<div class="post" data-post-id="28481" data-author="*juggleblood*" data-date="2009-03-13T20:43:47+00:00">
+<div class="post" data-post-id="28481" data-author="*juggleblood*" data-date="2009-03-13T20:43:47+00:00" data-subject="">
 
 It was just a suggestion. Obviously someone thought it was a good idea, because they implemented it. Regarding my panties, kiss my ass. You're making a mountain out of a molehill.
 
@@ -86,13 +86,13 @@ And Mike I'm not calling you a racist. I'm calling Yasik a racist. But your post
 
 </div>
 
-<div class="post" data-post-id="28482" data-author="Medios" data-date="2009-03-13T20:48:23+00:00">
+<div class="post" data-post-id="28482" data-author="Medios" data-date="2009-03-13T20:48:23+00:00" data-subject="">
 
 Thanks for the clarification.  Although I thought you were talking about Yasik when you mentions the prons.
 
 </div>
 
-<div class="post" data-post-id="28483" data-author="*juggleblood*" data-date="2009-03-13T20:57:32+00:00">
+<div class="post" data-post-id="28483" data-author="*juggleblood*" data-date="2009-03-13T20:57:32+00:00" data-subject="">
 
 Try this btw if you're a fan of the gossip...
 
@@ -104,7 +104,7 @@ Presto chango.
 
 </div>
 
-<div class="post" data-post-id="28487" data-author="Bazilus" data-date="2009-03-14T08:49:12+00:00">
+<div class="post" data-post-id="28487" data-author="Bazilus" data-date="2009-03-14T08:49:12+00:00" data-subject="...">
 
 It so hard make old top forums watcher? Nothing change. +)
 
@@ -112,7 +112,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28488" data-author="firebrand" data-date="2009-03-14T15:06:46+00:00">
+<div class="post" data-post-id="28488" data-author="firebrand" data-date="2009-03-14T15:06:46+00:00" data-subject="">
 
 why are we catering to snot-nosed, whiny "my poor eyes can't stand controversy" a55holes who don't need to be here in the first place if they don't like the conversational content on the crier?  quit kindergartening and babying everyone.  this game is not played by sheltered ninnies.  if you are on the net at all, you will at some point get exposed to non-pretty thoughts and ideas.  don't sugarcoat the truth - it is a waste of time.  
 
@@ -124,7 +124,7 @@ if you're going to take the unpleasant posts off the front page, then take down 
 
 </div>
 
-<div class="post" data-post-id="28489" data-author="*juggleblood*" data-date="2009-03-14T15:14:35+00:00">
+<div class="post" data-post-id="28489" data-author="*juggleblood*" data-date="2009-03-14T15:14:35+00:00" data-subject="">
 
 Aren't you the one who lost your imm because instead of doing anything constructive you were helping your friends cheat?
 
@@ -134,7 +134,7 @@ You are special.
 
 </div>
 
-<div class="post" data-post-id="28490" data-author="firebrand" data-date="2009-03-14T16:56:01+00:00">
+<div class="post" data-post-id="28490" data-author="firebrand" data-date="2009-03-14T16:56:01+00:00" data-subject="">
 
 lol, you clever beast!  change the subject!  remind them that i cheated with my immortal and distract them from the topic we were discussing in this thread.  yes i did cheat by god sancing and restoring a few characters...what imm DOESN'T at least once do that?  shrug.  ember is dead and buried.   now get back to the opinions i expressed and comment those, rather than dredge up my sins.  my cheating has absolutely nothing to do with the topic.
 
@@ -144,7 +144,7 @@ p.s. and if you want good pr, you would be sensible to REMOVE posts about corrup
 
 </div>
 
-<div class="post" data-post-id="28491" data-author="Toxis" data-date="2009-03-14T22:14:30+00:00">
+<div class="post" data-post-id="28491" data-author="Toxis" data-date="2009-03-14T22:14:30+00:00" data-subject="">
 
 We were getting a lot of new players and at the time there was a lot of negativity right on the home page of the website.  Normally if I log onto a place and see that sort of negative comments about the game, I become uninterested and look for a better place to go.  I just don't like seeing that much negativity, and it gets people thinking maybe the mud is really screwed.  It's not screwed, people are just very strong emotioned about things and we've known each other for quite some time.
 
@@ -158,13 +158,13 @@ Tox
 
 </div>
 
-<div class="post" data-post-id="28492" data-author="Rynquald" data-date="2009-03-14T22:19:56+00:00">
+<div class="post" data-post-id="28492" data-author="Rynquald" data-date="2009-03-14T22:19:56+00:00" data-subject="">
 
 Bring the "new since last" link back? It's still right there under "town crier" on that menu to the left. I've been using it since the new posts left the homepage.
 
 </div>
 
-<div class="post" data-post-id="28495" data-author="Weasel" data-date="2009-03-14T23:00:47+00:00">
+<div class="post" data-post-id="28495" data-author="Weasel" data-date="2009-03-14T23:00:47+00:00" data-subject="">
 
 There's actually a customizable menu on this site, and I use it and have done for a long time. It puts an additional menu box on the lower left hand side, and you can put whatever links in it you like, including external links. I have links directly to the chopping block, eq list, main maps page, and voting sites from there.
 
@@ -184,7 +184,7 @@ Save changes, and you're done. On the left hand side of any page from now on, th
 
 </div>
 
-<div class="post" data-post-id="28497" data-author="*Splork*" data-date="2009-03-15T00:16:28+00:00">
+<div class="post" data-post-id="28497" data-author="*Splork*" data-date="2009-03-15T00:16:28+00:00" data-subject="">
 
 Ember,
 
@@ -194,7 +194,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28498" data-author="Akasha" data-date="2009-03-15T00:32:19+00:00">
+<div class="post" data-post-id="28498" data-author="Akasha" data-date="2009-03-15T00:32:19+00:00" data-subject="">
 
 If I were a newbie and read half the stuff the handful of majority posters post I wouldn't play, or even log on.  Yes most newbies will be subjected to the same personalities online, but how's about we give them a chance to like the game and judge the asses after that rather than making them think everyone who plays is an ass and not even log on.  
 
@@ -208,7 +208,7 @@ I support 100% the decision to change the home page.  Could be because, other th
 
 </div>
 
-<div class="post" data-post-id="28499" data-author="Weasel" data-date="2009-03-15T02:17:41+00:00">
+<div class="post" data-post-id="28499" data-author="Weasel" data-date="2009-03-15T02:17:41+00:00" data-subject="">
 
 LOOK : SOLUTION !!  
 
@@ -248,7 +248,7 @@ on the front page. Would-be fly-by visitors can get hooked in straight away with
 
 </div>
 
-<div class="post" data-post-id="28500" data-author="Medios" data-date="2009-03-15T02:34:12+00:00">
+<div class="post" data-post-id="28500" data-author="Medios" data-date="2009-03-15T02:34:12+00:00" data-subject="">
 
 LOOK : SOLUTION !!  
 
@@ -272,7 +272,7 @@ I think some of you guys take these discussions too seriously.  I try to bring s
 
 </div>
 
-<div class="post" data-post-id="28501" data-author="Weasel" data-date="2009-03-15T02:40:50+00:00">
+<div class="post" data-post-id="28501" data-author="Weasel" data-date="2009-03-15T02:40:50+00:00" data-subject="">
 
 No worries, I think discussion is great, and political discourse is fine too. We are (most of us anyway) complex and thinking individuals. I'd much rather these sort of discussions here than on in-game gossip, that's for damn sure (not that I'm free of sin when it came to the pre-election frenzy). But if we want to expand the player base, the way the index page is now is a good way to do it.. rope them noobies in with the access links: 
 
@@ -288,19 +288,19 @@ PLAY SLOTHMUD III Myspace App
 
 </div>
 
-<div class="post" data-post-id="28502" data-author="Weasel" data-date="2009-03-15T02:51:37+00:00">
+<div class="post" data-post-id="28502" data-author="Weasel" data-date="2009-03-15T02:51:37+00:00" data-subject="">
 
 Speaking of hating, I want to apologize to someone. A week or two ago I was getting very frustrated with stupid non-popping mobs, and was trying to get the sash commander to load using Ferret (Ferret does not care about trivial things like honor). I logged Ferret off for a moment to get something with Weasel, and of course just my luck the sash reappeared and loaded during that time, and someone else was killing him when I arrived to check him. I think it was Xamak or someone like that? Anyway sorry for abusing you and tossing you into the wall dude. You got the pop anyway, and it loaded for me the next day.
 
 </div>
 
-<div class="post" data-post-id="28503" data-author="Akasha" data-date="2009-03-15T02:56:37+00:00">
+<div class="post" data-post-id="28503" data-author="Akasha" data-date="2009-03-15T02:56:37+00:00" data-subject="">
 
 hehe, i saw it weassses.  :P
 
 </div>
 
-<div class="post" data-post-id="28505" data-author="brady" data-date="2009-03-15T11:44:47+00:00">
+<div class="post" data-post-id="28505" data-author="brady" data-date="2009-03-15T11:44:47+00:00" data-subject="">
 
 If I were a newbie and read half the stuff the handful of majority posters post I wouldn't play, or even log on.  [/quote:6ux29ory]
 
@@ -308,7 +308,7 @@ If I were a newbie and read half the stuff the handful of majority posters post 
 
 </div>
 
-<div class="post" data-post-id="28506" data-author="*juggleblood*" data-date="2009-03-15T13:10:03+00:00">
+<div class="post" data-post-id="28506" data-author="*juggleblood*" data-date="2009-03-15T13:10:03+00:00" data-subject="">
 
 LOOK : SOLUTION !!  
 
@@ -322,7 +322,7 @@ word
 
 </div>
 
-<div class="post" data-post-id="28507" data-author="Tap" data-date="2009-03-15T14:18:44+00:00">
+<div class="post" data-post-id="28507" data-author="Tap" data-date="2009-03-15T14:18:44+00:00" data-subject="">
 
 I don't hate anyone...F*cker
 
@@ -330,13 +330,13 @@ I don't hate anyone...F*cker
 
 </div>
 
-<div class="post" data-post-id="28509" data-author="Alberich" data-date="2009-03-15T16:31:48+00:00">
+<div class="post" data-post-id="28509" data-author="Alberich" data-date="2009-03-15T16:31:48+00:00" data-subject="">
 
 stipulating I don't play nearly as much as I used to, the past couple times I've been around there's been on average 6-7 people?  At least with the crier threads on the front page new players know there actually is some kind of community, even if it is an occasionally dysfunctional one that has a healthy interest in the human form (you can post beefcake Reb, noone will complain I don't think).
 
 </div>
 
-<div class="post" data-post-id="28510" data-author="*Splork*" data-date="2009-03-15T18:24:49+00:00">
+<div class="post" data-post-id="28510" data-author="*Splork*" data-date="2009-03-15T18:24:49+00:00" data-subject="">
 
 This is pretty much exactly why I dont want this thread on the front page of our website. Our numbers may be lower than we are used to but they have never averaged 7 or 8 during a boot up.
 
@@ -348,7 +348,7 @@ Weasel has clearly given us all a work around that more than fits this situation
 
 </div>
 
-<div class="post" data-post-id="28511" data-author="Medios" data-date="2009-03-15T19:49:07+00:00">
+<div class="post" data-post-id="28511" data-author="Medios" data-date="2009-03-15T19:49:07+00:00" data-subject="">
 
 I hope newbies read that this is why I like Splork.
 
@@ -356,7 +356,7 @@ He handles the bizness.
 
 </div>
 
-<div class="post" data-post-id="28512" data-author="Bazilus" data-date="2009-03-15T22:02:06+00:00">
+<div class="post" data-post-id="28512" data-author="Bazilus" data-date="2009-03-15T22:02:06+00:00" data-subject="">
 
 I will not be adding this back to our main page.[/quote:3m6mw7gw]
 
@@ -366,7 +366,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28513" data-author="Weasel" data-date="2009-03-15T23:08:46+00:00">
+<div class="post" data-post-id="28513" data-author="Weasel" data-date="2009-03-15T23:08:46+00:00" data-subject="">
 
 I will not be adding this back to our main page.[/quote:11gpr2wn]
 
@@ -380,7 +380,7 @@ Bazilus the Crazy Python[/quote:11gpr2wn]
 
 </div>
 
-<div class="post" data-post-id="28515" data-author="Bazilus" data-date="2009-03-16T06:32:27+00:00">
+<div class="post" data-post-id="28515" data-author="Bazilus" data-date="2009-03-16T06:32:27+00:00" data-subject="">
 
 I will not be adding this back to our main page.[/quote:cdx59gnc]
 
@@ -398,13 +398,13 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28517" data-author="Jag" data-date="2009-03-16T11:55:23+00:00">
+<div class="post" data-post-id="28517" data-author="Jag" data-date="2009-03-16T11:55:23+00:00" data-subject="">
 
 Here I thought Bazi was being crazy, but he was only reminding us of the true nature, the heritage that is Sloth.
 
 </div>
 
-<div class="post" data-post-id="28519" data-author="Medios" data-date="2009-03-16T20:54:02+00:00">
+<div class="post" data-post-id="28519" data-author="Medios" data-date="2009-03-16T20:54:02+00:00" data-subject="">
 
 Bazilus and I have had minor problems in the past but that doesn't stop us from getting on the game and wrecking shop.  He is a good player and yes he is part of the heritage of slothmud.
 
@@ -412,7 +412,7 @@ Bazilus the Crazy Python?
 
 </div>
 
-<div class="post" data-post-id="28523" data-author="Bazilus" data-date="2009-03-16T21:32:44+00:00">
+<div class="post" data-post-id="28523" data-author="Bazilus" data-date="2009-03-16T21:32:44+00:00" data-subject="">
 
 Bazilus and I have had minor problems in the past but that doesn't stop us from getting on the game and wrecking shop.  He is a good player and yes he is part of the heritage of slothmud.[/quote:259lz1dk]
 
@@ -422,7 +422,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28621" data-author="Yinao" data-date="2009-03-27T17:34:03+00:00">
+<div class="post" data-post-id="28621" data-author="Yinao" data-date="2009-03-27T17:34:03+00:00" data-subject="">
 
 Holy bat-flaps grandma, the crier gets taken off the main page for like a couple weeks and all of a sudden I'm behind! I had to read the whole string of posts on this subject, and all I come up with is.... Hilarious... honestly... As for Tap being a hater... Eh, he's as much of a hater as Yasukz is a pron freak :)... Another thing is, Racism,  isn't that like everywhere? Some people are racist some aren't the fact is EVERYONE is prejudice, everyone looks at someone and thinks something about them... WHO CARES?! No one knew Yasik was a porn freak before he posted on the crier or opened his mouth on the gossip channel. 
 
@@ -434,7 +434,7 @@ EDIT: And just because some people rant on here more than they play the game doe
 
 </div>
 
-<div class="post" data-post-id="28622" data-author="Tap" data-date="2009-03-27T21:25:32+00:00">
+<div class="post" data-post-id="28622" data-author="Tap" data-date="2009-03-27T21:25:32+00:00" data-subject="">
 
 I don't hate anyone, now F*ck off
 

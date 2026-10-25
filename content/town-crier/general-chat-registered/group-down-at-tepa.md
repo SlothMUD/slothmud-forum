@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10151" data-author="Weasel" data-date="2006-01-16T19:03:52+00:00">
+<div class="post" data-post-id="10151" data-author="Weasel" data-date="2006-01-16T19:03:52+00:00" data-subject="group down at Tepa">
 
 pls help
 

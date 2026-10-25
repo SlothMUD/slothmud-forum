@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="31152" data-author="Gladavar" data-date="2010-05-13T04:40:29+00:00">
+<div class="post" data-post-id="31152" data-author="Gladavar" data-date="2010-05-13T04:40:29+00:00" data-subject="CMUD: EXP Tracker">
 
 This is my setup for tracking Exp across classes in CMUD.  Due to a previous bug, you need  v3.17 or later for this to work fully. Once installed type score to set the buttons up.
 
@@ -409,7 +409,7 @@ First you need a trigger for your prompt that will pull your current exp out and
 
 </div>
 
-<div class="post" data-post-id="31153" data-author="Gladavar" data-date="2010-05-13T04:51:47+00:00">
+<div class="post" data-post-id="31153" data-author="Gladavar" data-date="2010-05-13T04:51:47+00:00" data-subject="">
 
 Now for the actual gauges.  Copy the following code into a text file and save as a .xml  then use the Import XML option in CMUD's package editor and import that file into your session. Once imported and saved set @MyChar to the name of your character.  This should fire an inclueded trigger when you level that will send score to the mud and update everything with the new values.
 
@@ -601,7 +601,7 @@ Now for the actual gauges.  Copy the following code into a text file and save as
 
 </div>
 
-<div class="post" data-post-id="31154" data-author="Gladavar" data-date="2010-05-13T05:03:18+00:00">
+<div class="post" data-post-id="31154" data-author="Gladavar" data-date="2010-05-13T05:03:18+00:00" data-subject="">
 
 One additional feature I forgot to mention.  If you click any of the gauges it will show you the the total cost of that level on one line.  The next line will display the amount of exp you actually need to complete that level in red and if you have enough to level the amount will turn green and be a negative number.  And on a third and final line the amount of gold required will be displayed all colored to stand out.
 
@@ -615,7 +615,7 @@ This is set up for avatar too but since i'm not one I have no way to tell how th
 
 </div>
 
-<div class="post" data-post-id="31155" data-author="Gladavar" data-date="2010-05-13T12:28:58+00:00">
+<div class="post" data-post-id="31155" data-author="Gladavar" data-date="2010-05-13T12:28:58+00:00" data-subject="">
 
 Here is a screen shot of the tracker's layout.
 
@@ -627,13 +627,13 @@ http://i282.photobucket.com/albums/kk270/Fizgar/SSforxptracker.png
 
 </div>
 
-<div class="post" data-post-id="32714" data-author="Gladavar" data-date="2011-07-05T04:07:27+00:00">
+<div class="post" data-post-id="32714" data-author="Gladavar" data-date="2011-07-05T04:07:27+00:00" data-subject="Re: CMUD: EXP Tracker">
 
 Nothing new to see in any of the posts I edited.  Somewhere along the lines the code tags got funky and made the reading ugly, so I edited all the posts to fix the tags.
 
 </div>
 
-<div class="post" data-post-id="33517" data-author="kalidor" data-date="2012-08-26T17:34:44+00:00">
+<div class="post" data-post-id="33517" data-author="kalidor" data-date="2012-08-26T17:34:44+00:00" data-subject="Re: CMUD: EXP Tracker">
 
 works pretty well couple things that I noticed though.
 

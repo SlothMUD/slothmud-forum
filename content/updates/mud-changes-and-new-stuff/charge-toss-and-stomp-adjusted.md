@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32488" data-author="*Splork*" data-date="2011-03-17T14:57:20+00:00">
+<div class="post" data-post-id="32488" data-author="*Splork*" data-date="2011-03-17T14:57:20+00:00" data-subject="Charge, toss, and stomp adjusted">
 
 These skills were using total_levels as a base for its total damage, which was its intent when we only had 200 total levels. However, now that we have 400, this skill was incredibly overpowered and could do nearly as much as a double stab.
 

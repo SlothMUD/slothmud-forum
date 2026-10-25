@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="17564" data-author="*juggleblood*" data-date="2007-03-28T10:03:53+00:00">
+<div class="post" data-post-id="17564" data-author="*juggleblood*" data-date="2007-03-28T10:03:53+00:00" data-subject="Purloin is Nerfed">
 
 Well its not included in the help files and the immorts never posted any info about it on the crier, but here is how purloin works and why you should never bother to use it.
 
@@ -40,25 +40,25 @@ Below are some suggestions for new game features:
 
 </div>
 
-<div class="post" data-post-id="17565" data-author="tincts" data-date="2007-03-28T10:20:11+00:00">
+<div class="post" data-post-id="17565" data-author="tincts" data-date="2007-03-28T10:20:11+00:00" data-subject="">
 
 Actually, I quite like the restoration one. . .
 
 </div>
 
-<div class="post" data-post-id="17566" data-author="Ezekiel" data-date="2007-03-28T10:38:46+00:00">
+<div class="post" data-post-id="17566" data-author="Ezekiel" data-date="2007-03-28T10:38:46+00:00" data-subject="">
 
 I agree with Rub on this one...I understand reasoning for stacks...but can't see why flag doesn't disappear even when you obviously shoudln't be boarded after corpsing (further evident of being a BUG by being able to drop things normally). I think it could even remain so rigid if at least the stacked failed steals were registered on finger, but if they really are not, that's just bogus...you're giving pthieves of eq more leeway than over players who failed to steal a spell in group, for at least the pthieves get to know when their punishment ends. Obviously that would be a bug seeing as how your inventory and the outlaw board would act as if you aren't boarded, yet the mobs still recognize otherwise. Hell, why even tell us we're boarded on a failed steal then? It's not going to be accurate in any measurable sense anyway. If you were going to make the flag remain after death, which I think is flawed in itself, you should at least fix the fact that you're able to drop things normally so we can measure when the punishment has ended.
 
 </div>
 
-<div class="post" data-post-id="17567" data-author="13" data-date="2007-03-28T12:55:44+00:00">
+<div class="post" data-post-id="17567" data-author="13" data-date="2007-03-28T12:55:44+00:00" data-subject="">
 
 I think goes a long way towards making sure people don't use this skill.  Good work whomever!
 
 </div>
 
-<div class="post" data-post-id="17570" data-author="Weasel" data-date="2007-03-28T13:20:49+00:00">
+<div class="post" data-post-id="17570" data-author="Weasel" data-date="2007-03-28T13:20:49+00:00" data-subject="">
 
 Yet to learn it heh... 
 
@@ -66,7 +66,7 @@ Good way to pkill someone though - steal their lite and ironskin midfight. Wonde
 
 </div>
 
-<div class="post" data-post-id="17571" data-author="*juggleblood*" data-date="2007-03-28T15:49:58+00:00">
+<div class="post" data-post-id="17571" data-author="*juggleblood*" data-date="2007-03-28T15:49:58+00:00" data-subject="">
 
 This is getting a bit ridiculous. Its now 24 hours later and I'm still getting charmed by scar.
 
@@ -74,7 +74,7 @@ Nice Feature
 
 </div>
 
-<div class="post" data-post-id="17574" data-author="Medios" data-date="2007-03-28T21:00:38+00:00">
+<div class="post" data-post-id="17574" data-author="Medios" data-date="2007-03-28T21:00:38+00:00" data-subject="">
 
 The fix that I see best is to only allow 3 spells to be stacked.  If you steal more than 3 they don't register.  This would stop players from "abusing" purloin by stealing a spell 20 times.  The whole thing about innkeepers killing you and Scar charming and stuff really does make the skill useless.  Most of us cannot sit around and wait for hours before we rent, sometimes we need to rent in a hurry.  This is why I do not use purloin.  I would like to see it useful to help out the old school thieves.
 
@@ -82,7 +82,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17576" data-author="Hades" data-date="2007-03-29T02:56:24+00:00">
+<div class="post" data-post-id="17576" data-author="Hades" data-date="2007-03-29T02:56:24+00:00" data-subject="overpowered purloiners">
 
 It is easily overbalanced and for one, I'm glad to see some balance restored.  
 
@@ -92,13 +92,13 @@ There are ways around the negatives if you just use your noodle.
 
 </div>
 
-<div class="post" data-post-id="17577" data-author="13" data-date="2007-03-29T03:10:00+00:00">
+<div class="post" data-post-id="17577" data-author="13" data-date="2007-03-29T03:10:00+00:00" data-subject="">
 
 I wish there was an easy way around your dumb ass.  Just fucking go away, no-one is interested in your shit or wants to waste their time on you.
 
 </div>
 
-<div class="post" data-post-id="17578" data-author="Hades" data-date="2007-03-29T03:25:35+00:00">
+<div class="post" data-post-id="17578" data-author="Hades" data-date="2007-03-29T03:25:35+00:00" data-subject="13">
 
 Yest, you chose to respond..
 
@@ -106,7 +106,7 @@ You are ####### awesome 12345/13 :lol:
 
 </div>
 
-<div class="post" data-post-id="17579" data-author="Hades" data-date="2007-03-29T03:32:23+00:00">
+<div class="post" data-post-id="17579" data-author="Hades" data-date="2007-03-29T03:32:23+00:00" data-subject="13 part 2">
 
 You find offense just because I fail to see eye to eye with you on this issue?
 
@@ -118,13 +118,13 @@ Love,
 
 </div>
 
-<div class="post" data-post-id="17580" data-author="Weasel" data-date="2007-03-29T04:07:45+00:00">
+<div class="post" data-post-id="17580" data-author="Weasel" data-date="2007-03-29T04:07:45+00:00" data-subject="">
 
 deleted
 
 </div>
 
-<div class="post" data-post-id="17662" data-author="banedon" data-date="2007-03-31T23:53:02+00:00">
+<div class="post" data-post-id="17662" data-author="banedon" data-date="2007-03-31T23:53:02+00:00" data-subject="NEWS FLASH">
 
 You are ####### awesome 12345/13 :lol:[/quote:3i0hb1l9]
 
@@ -136,7 +136,7 @@ Once again, just my  $.02
 
 </div>
 
-<div class="post" data-post-id="17663" data-author="Hades" data-date="2007-04-01T00:18:31+00:00">
+<div class="post" data-post-id="17663" data-author="Hades" data-date="2007-04-01T00:18:31+00:00" data-subject="re: NEWS FLASH">
 
 Nice try 12345/13
 
@@ -144,13 +144,13 @@ I know it's you 8)
 
 </div>
 
-<div class="post" data-post-id="17669" data-author="12345" data-date="2007-04-01T05:30:13+00:00">
+<div class="post" data-post-id="17669" data-author="12345" data-date="2007-04-01T05:30:13+00:00" data-subject="">
 
 I concur with anything Hades says, on any topic for any reason. What can I say? Love does strange things to people.
 
 </div>
 
-<div class="post" data-post-id="17670" data-author="banedon" data-date="2007-04-01T05:31:52+00:00">
+<div class="post" data-post-id="17670" data-author="banedon" data-date="2007-04-01T05:31:52+00:00" data-subject="Re: re: NEWS FLASH">
 
 Nice try 12345/13
 
@@ -160,7 +160,7 @@ Ok, now I know you're either brain damaged or on drugs.  Anyone that currently p
 
 </div>
 
-<div class="post" data-post-id="17672" data-author="12345" data-date="2007-04-01T05:55:46+00:00">
+<div class="post" data-post-id="17672" data-author="12345" data-date="2007-04-01T05:55:46+00:00" data-subject="">
 
 Let it go banedon, its a continuation of a running gag I started a while back.  I declared Hades and Weasel the same person and he declared 12345 and 13 to be the same person (along with half the rest of the board).
 
@@ -168,7 +168,7 @@ Hades exists only to be ridiculed, he's useless in any other regard.
 
 </div>
 
-<div class="post" data-post-id="17673" data-author="banedon" data-date="2007-04-01T06:13:25+00:00">
+<div class="post" data-post-id="17673" data-author="banedon" data-date="2007-04-01T06:13:25+00:00" data-subject="">
 
 OK will do, seems I missed all that during one of my not having a  computer periods.
 
@@ -176,7 +176,7 @@ My humble apologies to all involved.
 
 </div>
 
-<div class="post" data-post-id="17680" data-author="13" data-date="2007-04-01T14:07:33+00:00">
+<div class="post" data-post-id="17680" data-author="13" data-date="2007-04-01T14:07:33+00:00" data-subject="">
 
 Actually I am 12345 and if you really fuck up, I'll pull out my alt 666 and take you straight to hell Banedon.
 

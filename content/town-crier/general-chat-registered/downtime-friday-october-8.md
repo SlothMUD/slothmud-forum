@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="31819" data-author="*Splork*" data-date="2010-10-06T05:58:55+00:00">
+<div class="post" data-post-id="31819" data-author="*Splork*" data-date="2010-10-06T05:58:55+00:00" data-subject="Downtime, Friday October 8">
 
 Scheduled Downtime for UPS Upgrades
 
@@ -24,7 +24,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31847" data-author="*Splork*" data-date="2010-10-08T17:24:20+00:00">
+<div class="post" data-post-id="31847" data-author="*Splork*" data-date="2010-10-08T17:24:20+00:00" data-subject="Re: Downtime, Friday October 8">
 
 Hey guys,
 
@@ -40,7 +40,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31848" data-author="Kelgar" data-date="2010-10-08T17:34:31+00:00">
+<div class="post" data-post-id="31848" data-author="Kelgar" data-date="2010-10-08T17:34:31+00:00" data-subject="Re: Downtime, Friday October 8">
 
 Splork,
 
@@ -48,7 +48,7 @@ Thank you very much )
 
 </div>
 
-<div class="post" data-post-id="31851" data-author="*Isabo*" data-date="2010-10-08T19:43:02+00:00">
+<div class="post" data-post-id="31851" data-author="*Isabo*" data-date="2010-10-08T19:43:02+00:00" data-subject="Re: Downtime, Friday October 8">
 
 Greetings, mortals.
 
@@ -58,7 +58,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="31856" data-author="*Breeze*" data-date="2010-10-09T06:21:56+00:00">
+<div class="post" data-post-id="31856" data-author="*Breeze*" data-date="2010-10-09T06:21:56+00:00" data-subject="Re: Downtime, Friday October 8">
 
 its sad when you see a forum post and you look for the non-existent 'like' button.
 

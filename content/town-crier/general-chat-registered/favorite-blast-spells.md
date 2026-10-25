@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="30485" data-author="Thraxas" data-date="2009-12-14T19:44:24+00:00">
+<div class="post" data-post-id="30485" data-author="Thraxas" data-date="2009-12-14T19:44:24+00:00" data-subject="Favorite Blast Spells">
 
 I guess frostbolt is still the best blast in game, with firewind in 2nd place.
 
@@ -24,7 +24,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30486" data-author="jezer" data-date="2009-12-15T00:01:53+00:00">
+<div class="post" data-post-id="30486" data-author="jezer" data-date="2009-12-15T00:01:53+00:00" data-subject="">
 
 I understand what your trying to dig up here... maybe some useful spell or debuff that's under used or under estimated... but I'm not sure it exists.
 
@@ -38,7 +38,7 @@ My point is... I'm not sure how useful these things REALLY are, unless we can me
 
 </div>
 
-<div class="post" data-post-id="30487" data-author="harik" data-date="2009-12-15T02:04:59+00:00">
+<div class="post" data-post-id="30487" data-author="harik" data-date="2009-12-15T02:04:59+00:00" data-subject="">
 
 I understand what your trying to dig up here... maybe some useful spell or debuff that's under used or under estimated... but I'm not sure it exists.[/quote:17efdpfv]
 
@@ -46,7 +46,7 @@ Arena?
 
 </div>
 
-<div class="post" data-post-id="30488" data-author="jezer" data-date="2009-12-15T03:09:56+00:00">
+<div class="post" data-post-id="30488" data-author="jezer" data-date="2009-12-15T03:09:56+00:00" data-subject="">
 
 Yeah, you can arena... but you can only really measure things "relatively" in the arena, as levels and prime factor too much in power. So at the end you say, how powerful is crimson...? well it's THIS measure relative to <your character prime, dam, order, level, skills> against <that characters prime dam, order, level, skills>.
 
@@ -60,7 +60,7 @@ The less someone else knows, the better you can seem, and the more advantage you
 
 </div>
 
-<div class="post" data-post-id="30489" data-author="jezer" data-date="2009-12-15T03:25:46+00:00">
+<div class="post" data-post-id="30489" data-author="jezer" data-date="2009-12-15T03:25:46+00:00" data-subject="">
 
 This is an idea I hope is taken seriously...
 
@@ -74,7 +74,7 @@ Also if bard's are given a song to say if a mob pops an item, doesn't this encou
 
 </div>
 
-<div class="post" data-post-id="30490" data-author="Thraxas" data-date="2009-12-15T06:01:50+00:00">
+<div class="post" data-post-id="30490" data-author="Thraxas" data-date="2009-12-15T06:01:50+00:00" data-subject="">
 
 This is an idea I hope is taken seriously...
 

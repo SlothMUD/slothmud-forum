@@ -10,7 +10,7 @@ locked: false
 post_count: 28
 ---
 
-<div class="post" data-post-id="14357" data-author="Arach" data-date="2006-09-28T13:00:15+00:00">
+<div class="post" data-post-id="14357" data-author="Arach" data-date="2006-09-28T13:00:15+00:00" data-subject="Selling lev 25 avatar with full eq">
 
 Selling level 25 avatar with decent stats and full tank and mana suits. Classo ma/wa/cl/th.
 
@@ -768,25 +768,25 @@ Taking offers with PayPal in $, please post offers here!
 
 </div>
 
-<div class="post" data-post-id="14366" data-author="13" data-date="2006-09-28T16:47:37+00:00">
+<div class="post" data-post-id="14366" data-author="13" data-date="2006-09-28T16:47:37+00:00" data-subject="">
 
 not bad
 
 </div>
 
-<div class="post" data-post-id="14367" data-author="Clink" data-date="2006-09-28T17:33:57+00:00">
+<div class="post" data-post-id="14367" data-author="Clink" data-date="2006-09-28T17:33:57+00:00" data-subject="">
 
 I'd bid thirty Chuck-E-Cheese tokens.  They were left over from my son's birthday party.  Not sure how to send them through paypal, though.
 
 </div>
 
-<div class="post" data-post-id="14369" data-author="Avatar" data-date="2006-09-28T18:32:49+00:00">
+<div class="post" data-post-id="14369" data-author="Avatar" data-date="2006-09-28T18:32:49+00:00" data-subject="char for sale">
 
 Seems like a nice char.  Nice stats, nicely eq'd.  I'd be more interested if I didn't currently have 4 avatar-levelled characters.  Good luck with the sale.  Are you leaving or switching to a different classo?
 
 </div>
 
-<div class="post" data-post-id="14378" data-author="Arach" data-date="2006-09-29T05:21:35+00:00">
+<div class="post" data-post-id="14378" data-author="Arach" data-date="2006-09-29T05:21:35+00:00" data-subject="Re: char for sale">
 
 Seems like a nice char.  Nice stats, nicely eq'd.  I'd be more interested if I didn't currently have 4 avatar-levelled characters.  Good luck with the sale.  Are you leaving or switching to a different classo?[/quote:1ic8e3u4]
 
@@ -794,13 +794,13 @@ I left like 3 years ago and looks like I`m not coming back so I`m selling out.
 
 </div>
 
-<div class="post" data-post-id="14379" data-author="Weasel" data-date="2006-09-29T05:41:09+00:00">
+<div class="post" data-post-id="14379" data-author="Weasel" data-date="2006-09-29T05:41:09+00:00" data-subject="">
 
 do you have a minimum bid amount?
 
 </div>
 
-<div class="post" data-post-id="14380" data-author="Arach" data-date="2006-09-29T06:16:00+00:00">
+<div class="post" data-post-id="14380" data-author="Arach" data-date="2006-09-29T06:16:00+00:00" data-subject="">
 
 do you have a minimum bid amount?[/quote:2e6k14gq]
 
@@ -808,7 +808,7 @@ min bid? ok let the min bid be 50$, this sale will last for a couple of weeks, g
 
 </div>
 
-<div class="post" data-post-id="14381" data-author="*juggleblood*" data-date="2006-09-29T13:25:31+00:00">
+<div class="post" data-post-id="14381" data-author="*juggleblood*" data-date="2006-09-29T13:25:31+00:00" data-subject="">
 
 meh why not
 
@@ -816,19 +816,19 @@ I'll bid 50 bucks.
 
 </div>
 
-<div class="post" data-post-id="14387" data-author="Rodek" data-date="2006-09-29T18:50:33+00:00">
+<div class="post" data-post-id="14387" data-author="Rodek" data-date="2006-09-29T18:50:33+00:00" data-subject="">
 
 $60!
 
 </div>
 
-<div class="post" data-post-id="14452" data-author="Ezekiel" data-date="2006-10-02T05:31:12+00:00">
+<div class="post" data-post-id="14452" data-author="Ezekiel" data-date="2006-10-02T05:31:12+00:00" data-subject="">
 
 $70
 
 </div>
 
-<div class="post" data-post-id="14458" data-author="13" data-date="2006-10-02T18:44:14+00:00">
+<div class="post" data-post-id="14458" data-author="13" data-date="2006-10-02T18:44:14+00:00" data-subject="">
 
 Josh you bought mustang and 13 and eva, and still playing Ezekiel. you sure
 
@@ -836,19 +836,19 @@ you need this old crusty bag of mage guts?
 
 </div>
 
-<div class="post" data-post-id="14460" data-author="Gimlet" data-date="2006-10-03T01:16:07+00:00">
+<div class="post" data-post-id="14460" data-author="Gimlet" data-date="2006-10-03T01:16:07+00:00" data-subject="">
 
 new brad in the making?
 
 </div>
 
-<div class="post" data-post-id="14465" data-author="Weasel" data-date="2006-10-03T03:34:39+00:00">
+<div class="post" data-post-id="14465" data-author="Weasel" data-date="2006-10-03T03:34:39+00:00" data-subject="">
 
 pretty amazing stats on it..
 
 </div>
 
-<div class="post" data-post-id="14472" data-author="Arach" data-date="2006-10-03T06:31:31+00:00">
+<div class="post" data-post-id="14472" data-author="Arach" data-date="2006-10-03T06:31:31+00:00" data-subject="">
 
 pretty amazing stats on it..[/quote:20er2sxh]
 
@@ -858,7 +858,7 @@ The highest bid is 70$ for now, anyone higher?
 
 </div>
 
-<div class="post" data-post-id="14473" data-author="Arach" data-date="2006-10-03T06:34:07+00:00">
+<div class="post" data-post-id="14473" data-author="Arach" data-date="2006-10-03T06:34:07+00:00" data-subject="">
 
 pretty amazing stats on it..[/quote:ycjdmwni]
 
@@ -868,19 +868,19 @@ The highest bid is 70$ for now, anyone higher?
 
 </div>
 
-<div class="post" data-post-id="14500" data-author="Arach" data-date="2006-10-04T08:55:59+00:00">
+<div class="post" data-post-id="14500" data-author="Arach" data-date="2006-10-04T08:55:59+00:00" data-subject="">
 
 any one higher?
 
 </div>
 
-<div class="post" data-post-id="14501" data-author="*juggleblood*" data-date="2006-10-04T09:38:35+00:00">
+<div class="post" data-post-id="14501" data-author="*juggleblood*" data-date="2006-10-04T09:38:35+00:00" data-subject="">
 
 100
 
 </div>
 
-<div class="post" data-post-id="14535" data-author="Arach" data-date="2006-10-05T06:45:10+00:00">
+<div class="post" data-post-id="14535" data-author="Arach" data-date="2006-10-05T06:45:10+00:00" data-subject="">
 
 100[/quote:1f8xj22t]
 
@@ -888,7 +888,7 @@ Thats more like it! :) the auction will be active for a week or two, send your o
 
 </div>
 
-<div class="post" data-post-id="14538" data-author="13" data-date="2006-10-05T12:42:17+00:00">
+<div class="post" data-post-id="14538" data-author="13" data-date="2006-10-05T12:42:17+00:00" data-subject="">
 
 let me remind you that i got 175 for 3 far better characters with better
 
@@ -898,7 +898,7 @@ arach is all old-class dont screw the pooch
 
 </div>
 
-<div class="post" data-post-id="14554" data-author="*juggleblood*" data-date="2006-10-05T23:27:35+00:00">
+<div class="post" data-post-id="14554" data-author="*juggleblood*" data-date="2006-10-05T23:27:35+00:00" data-subject="">
 
 shrug,
 
@@ -908,19 +908,19 @@ I'm going to tokyo for a week for the Ramadan vacation, but it shouldn't be that
 
 </div>
 
-<div class="post" data-post-id="14555" data-author="13" data-date="2006-10-05T23:34:06+00:00">
+<div class="post" data-post-id="14555" data-author="13" data-date="2006-10-05T23:34:06+00:00" data-subject="">
 
 :P
 
 </div>
 
-<div class="post" data-post-id="14603" data-author="Arach" data-date="2006-10-11T07:44:45+00:00">
+<div class="post" data-post-id="14603" data-author="Arach" data-date="2006-10-11T07:44:45+00:00" data-subject="">
 
 anyone higher than 100$? auction closes next week!
 
 </div>
 
-<div class="post" data-post-id="14604" data-author="angel" data-date="2006-10-11T09:59:21+00:00">
+<div class="post" data-post-id="14604" data-author="angel" data-date="2006-10-11T09:59:21+00:00" data-subject="peace">
 
 :) $120
 
@@ -928,7 +928,7 @@ anyone higher than 100$? auction closes next week!
 
 </div>
 
-<div class="post" data-post-id="14607" data-author="Arach" data-date="2006-10-11T12:49:11+00:00">
+<div class="post" data-post-id="14607" data-author="Arach" data-date="2006-10-11T12:49:11+00:00" data-subject="Re: peace">
 
 :) $120
 
@@ -938,7 +938,7 @@ You are highest so far, anyone higher?
 
 </div>
 
-<div class="post" data-post-id="14613" data-author="angel" data-date="2006-10-12T14:15:55+00:00">
+<div class="post" data-post-id="14613" data-author="angel" data-date="2006-10-12T14:15:55+00:00" data-subject="">
 
 hey arach,im sorry, some personal issues came up and i cant afford him.
 
@@ -946,19 +946,19 @@ wished i could.withdrawing 120...so sorry dude
 
 </div>
 
-<div class="post" data-post-id="14636" data-author="Arach" data-date="2006-10-16T06:10:53+00:00">
+<div class="post" data-post-id="14636" data-author="Arach" data-date="2006-10-16T06:10:53+00:00" data-subject="">
 
 auction closes on friday, any more bets?
 
 </div>
 
-<div class="post" data-post-id="14678" data-author="Arach" data-date="2006-10-19T10:41:45+00:00">
+<div class="post" data-post-id="14678" data-author="Arach" data-date="2006-10-19T10:41:45+00:00" data-subject="">
 
 auction closes tomorrow, anyone higher?
 
 </div>
 
-<div class="post" data-post-id="14679" data-author="Arach" data-date="2006-10-19T12:04:46+00:00">
+<div class="post" data-post-id="14679" data-author="Arach" data-date="2006-10-19T12:04:46+00:00" data-subject="">
 
 auction closed today, juggleblood got the deal :D
 

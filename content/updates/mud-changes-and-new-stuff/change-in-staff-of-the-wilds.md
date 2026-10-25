@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32392" data-author="*Isabo*" data-date="2011-01-29T01:28:41+00:00">
+<div class="post" data-post-id="32392" data-author="*Isabo*" data-date="2011-01-29T01:28:41+00:00" data-subject="Change in Staff of the Wilds">
 
 Greeting mortals.
 
@@ -22,7 +22,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="32394" data-author="*Breeze*" data-date="2011-01-29T07:05:33+00:00">
+<div class="post" data-post-id="32394" data-author="*Breeze*" data-date="2011-01-29T07:05:33+00:00" data-subject="Re: Change in Staff of the Wilds">
 
 adjusted Staff of the Wilds on stats eqlist
 

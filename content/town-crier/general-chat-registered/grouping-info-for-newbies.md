@@ -10,7 +10,7 @@ locked: false
 post_count: 25
 ---
 
-<div class="post" data-post-id="6657" data-author="rith" data-date="2005-05-30T03:40:30+00:00">
+<div class="post" data-post-id="6657" data-author="rith" data-date="2005-05-30T03:40:30+00:00" data-subject="GROUPING INFO FOR NEWBIES!">
 
 Ok i just lead a Bh group and had some difficulties with the newbies.
 
@@ -40,7 +40,7 @@ Thanks.  If i left out anything, please point it out to the other thanks.
 
 </div>
 
-<div class="post" data-post-id="6658" data-author="impz" data-date="2005-05-30T03:57:16+00:00">
+<div class="post" data-post-id="6658" data-author="impz" data-date="2005-05-30T03:57:16+00:00" data-subject="">
 
 Some personal suggestions i would like to give.
 
@@ -64,7 +64,7 @@ That's all from me today. I probably add more when i think of more possible ethi
 
 </div>
 
-<div class="post" data-post-id="6659" data-author="Aleksey" data-date="2005-05-30T05:56:13+00:00">
+<div class="post" data-post-id="6659" data-author="Aleksey" data-date="2005-05-30T05:56:13+00:00" data-subject="">
 
 Hey tards stop pressing on newbs that much
 
@@ -100,7 +100,7 @@ Nod Rith especialy webs , and especialy web from newb on unkown kill style mob. 
 
 </div>
 
-<div class="post" data-post-id="6660" data-author="impz" data-date="2005-05-30T06:03:52+00:00">
+<div class="post" data-post-id="6660" data-author="impz" data-date="2005-05-30T06:03:52+00:00" data-subject="">
 
 haha, true in a way, aleksey. But at least we give some advice. If they dont listen, there's nothing we can do anyway.
 
@@ -110,7 +110,7 @@ But i did learn the most when i died and had to self-cr, hehe.
 
 </div>
 
-<div class="post" data-post-id="6661" data-author="Aleksey" data-date="2005-05-30T06:37:50+00:00">
+<div class="post" data-post-id="6661" data-author="Aleksey" data-date="2005-05-30T06:37:50+00:00" data-subject="">
 
 Dont have exect log but: :)
 
@@ -130,7 +130,7 @@ Stelios (gtell): Give me spec
 
 </div>
 
-<div class="post" data-post-id="6663" data-author="Ozzy" data-date="2005-05-30T07:01:19+00:00">
+<div class="post" data-post-id="6663" data-author="Ozzy" data-date="2005-05-30T07:01:19+00:00" data-subject="">
 
 "Oh the newbies sit and listen
 
@@ -152,7 +152,7 @@ Me,"Facing Sloth"  :twisted:
 
 </div>
 
-<div class="post" data-post-id="6665" data-author="Vixn" data-date="2005-05-30T08:00:36+00:00">
+<div class="post" data-post-id="6665" data-author="Vixn" data-date="2005-05-30T08:00:36+00:00" data-subject="">
 
 more advices..
 
@@ -212,13 +212,13 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="6666" data-author="Vixn" data-date="2005-05-30T08:07:53+00:00">
+<div class="post" data-post-id="6666" data-author="Vixn" data-date="2005-05-30T08:07:53+00:00" data-subject="">
 
 And I forgot to say: make triggers/aliases to turn looter off and do not sacrifice corpses when you start following someone. Last night one silly player... Well I realized they gonna pkill him (or her) but he/she promise not to loot anymore and ship looted item to leader.
 
 </div>
 
-<div class="post" data-post-id="6667" data-author="Ozzy" data-date="2005-05-30T09:03:45+00:00">
+<div class="post" data-post-id="6667" data-author="Ozzy" data-date="2005-05-30T09:03:45+00:00" data-subject="">
 
 And I forgot to say: make triggers/aliases to turn looter off and do not sacrifice corpses when you start following someone. Last night one silly player... Well I realized they gonna pkill him (or her) but he/she promise not to loot anymore and ship looted item to leader.[/quote:2bepwc9f]
 
@@ -234,7 +234,7 @@ BUT! Let me remind, Autoloot works only on SOLID mobs. You turn Autoloot OFF - y
 
 </div>
 
-<div class="post" data-post-id="6668" data-author="Krok" data-date="2005-05-30T09:16:43+00:00">
+<div class="post" data-post-id="6668" data-author="Krok" data-date="2005-05-30T09:16:43+00:00" data-subject="">
 
 Well, my 2 cents. I agree with all the rules that were mentioned already. But...
 
@@ -262,7 +262,7 @@ Ok, that's my pov.
 
 </div>
 
-<div class="post" data-post-id="6670" data-author="Gnu" data-date="2005-05-30T11:09:02+00:00">
+<div class="post" data-post-id="6670" data-author="Gnu" data-date="2005-05-30T11:09:02+00:00" data-subject="">
 
 A question! why do ppl edd only 2 cents? not 5 $ or even more?
 
@@ -280,19 +280,19 @@ Good luck
 
 </div>
 
-<div class="post" data-post-id="6675" data-author="Krok" data-date="2005-05-30T12:24:23+00:00">
+<div class="post" data-post-id="6675" data-author="Krok" data-date="2005-05-30T12:24:23+00:00" data-subject="">
 
 Ummm, dear Gnu. You're talking like we really have problems with lowbies not entering portals. Well, as for me - I don't. 5,4,3,2,1 - ungroup, that's simple. But our posts were to make _newbies_  (not leaders!) understand how to make leader's life easier and to become an experienced groupmate, and then, maybe a leader.
 
 </div>
 
-<div class="post" data-post-id="6678" data-author="blackmore" data-date="2005-05-30T13:16:57+00:00">
+<div class="post" data-post-id="6678" data-author="blackmore" data-date="2005-05-30T13:16:57+00:00" data-subject="">
 
 All this is good, but it's way too much information for a newbie.  Give them the absolute basics, they'll improve once they learn those.  Anything else is overkill.
 
 </div>
 
-<div class="post" data-post-id="6681" data-author="impz" data-date="2005-05-30T13:27:16+00:00">
+<div class="post" data-post-id="6681" data-author="impz" data-date="2005-05-30T13:27:16+00:00" data-subject="">
 
 Dont have exect log but: :)
 
@@ -314,7 +314,7 @@ Ok, u totally got me there, aleksey.
 
 </div>
 
-<div class="post" data-post-id="6687" data-author="Gnu" data-date="2005-05-30T19:43:12+00:00">
+<div class="post" data-post-id="6687" data-author="Gnu" data-date="2005-05-30T19:43:12+00:00" data-subject="">
 
 But our posts were to make _newbies_  (not leaders!) understand how to make leader's life easier and to become an experienced groupmate, and then, maybe a leader.[/quote:vnpkb2o8]
 
@@ -324,7 +324,7 @@ Hm... too many words... Blackmore said everything :)
 
 </div>
 
-<div class="post" data-post-id="6692" data-author="Aleksey" data-date="2005-05-31T05:16:41+00:00">
+<div class="post" data-post-id="6692" data-author="Aleksey" data-date="2005-05-31T05:16:41+00:00" data-subject="">
 
 Basicaly, all that Rith,Impz,Krok,Vixn,Gnu wrote correct but its not answer on topic "Grouping Info For Newbies" its looks like "what newbs should do in my group" and each leader writing own desires how he wona see own group.
 
@@ -352,7 +352,7 @@ Basicaly, all that Rith,Impz,Krok,Vixn,Gnu wrote correct but its not answer on t
 
 </div>
 
-<div class="post" data-post-id="6693" data-author="Vixn" data-date="2005-05-31T06:07:25+00:00">
+<div class="post" data-post-id="6693" data-author="Vixn" data-date="2005-05-31T06:07:25+00:00" data-subject="">
 
 Some leaders without worning will ungroup newb for triping or bashing on mob reblinding[/quote:wsh6pr8b]
 
@@ -366,7 +366,7 @@ Death,CFS,Torturing,Aleksey - only teachers in sloth :)
 
 </div>
 
-<div class="post" data-post-id="6694" data-author="Aleksey" data-date="2005-05-31T06:19:32+00:00">
+<div class="post" data-post-id="6694" data-author="Aleksey" data-date="2005-05-31T06:19:32+00:00" data-subject="">
 
 Nah Vixn , whan A trying reblind and B at that time bashing or triping mob,
 
@@ -376,7 +376,7 @@ A will be draged in fight and not blind mob, he will need again flee and try reb
 
 </div>
 
-<div class="post" data-post-id="6695" data-author="Krok" data-date="2005-05-31T07:22:20+00:00">
+<div class="post" data-post-id="6695" data-author="Krok" data-date="2005-05-31T07:22:20+00:00" data-subject="">
 
 Ok. Gnu, we just have different styles, that's it. :)) I allow only ppl whom I trust do something I haven't asked to do. But, basically, I believe newbies should teach on their mistakes in small low-leves groups. :)
 
@@ -384,7 +384,7 @@ Aleks, yes, you are right  that we talk about different ways of leading, but, if
 
 </div>
 
-<div class="post" data-post-id="6696" data-author="Leaf" data-date="2005-05-31T09:50:23+00:00">
+<div class="post" data-post-id="6696" data-author="Leaf" data-date="2005-05-31T09:50:23+00:00" data-subject="">
 
 Also Vixn some leaders want a mob to stand to cast spells.  This way ppl
 
@@ -400,25 +400,25 @@ can give :)
 
 </div>
 
-<div class="post" data-post-id="6697" data-author="12345" data-date="2005-05-31T11:54:31+00:00">
+<div class="post" data-post-id="6697" data-author="12345" data-date="2005-05-31T11:54:31+00:00" data-subject="">
 
 The voices say you are scaring them... please stop.
 
 </div>
 
-<div class="post" data-post-id="6698" data-author="firebrand" data-date="2005-05-31T14:48:41+00:00">
+<div class="post" data-post-id="6698" data-author="firebrand" data-date="2005-05-31T14:48:41+00:00" data-subject="">
 
 to point out something that no group likes: someone portalling to group and following while the group is already fighting a mob.  this is a BAD idea. for one thing, you are not in the protect chain, so the mob is hitting YOU directly.  you go down and are gonna need to be raised.  or, the mob could be almost dead and you join just in time to catch exps that you did not work for and earn.  that is kill stealing, and most groups resent you for it.  anyway, it is bad form to do it.  just wait till leader gives you permission to follow.  another thing: make sure your looters are turned off before you join a group.  sometimes eq is personal restrung and only the person who is calling the eq should loot it, otherwise the eq is useless to them and there is a wasted pop.  and coming to an exps group and asking to pop eq is kinda frustrating to deal with.  i personally do not mind running eq mobs in the exps areas i am already running, but running beacons eats up precious fighting/healing mana.  first you have to have lloyds set and return, you have to gate someone, spell up, regen...not really good for making lots of exps.  (do not remind me that that is easily regenned in a tick or two.  i know.  that is not my point)  if you want to come to a group for eq, then don't join one that says exps.  there are two totally different grouping and playing styles in them and mixing them, although it can be done, is not fun for everyone.
 
 </div>
 
-<div class="post" data-post-id="6792" data-author="Alberich" data-date="2005-06-03T18:32:03+00:00">
+<div class="post" data-post-id="6792" data-author="Alberich" data-date="2005-06-03T18:32:03+00:00" data-subject="">
 
 [img:3by4gz6c]http://www.ctrlaltdel-online.com/images/comics/20041105.jpg[/img:3by4gz6c]
 
 </div>
 
-<div class="post" data-post-id="7116" data-author="Taki" data-date="2005-06-13T08:24:03+00:00">
+<div class="post" data-post-id="7116" data-author="Taki" data-date="2005-06-13T08:24:03+00:00" data-subject="">
 
 Simply great! (i mean the strip)
 
@@ -452,7 +452,7 @@ Taki the learning monk.
 
 </div>
 
-<div class="post" data-post-id="7128" data-author="seshi" data-date="2005-06-13T12:29:01+00:00">
+<div class="post" data-post-id="7128" data-author="seshi" data-date="2005-06-13T12:29:01+00:00" data-subject="">
 
 As someone fairly new to grouping let me add my bit-
 

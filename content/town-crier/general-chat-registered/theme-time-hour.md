@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="13878" data-author="Diazz_Dizazter" data-date="2006-09-01T12:39:52+00:00">
+<div class="post" data-post-id="13878" data-author="Diazz_Dizazter" data-date="2006-09-01T12:39:52+00:00" data-subject="Theme time hour.">
 
 Bob's Dylans Radio show is available for download.
 
@@ -22,19 +22,19 @@ The songs are all themed to each episode, and varies from folk, to blues.
 
 </div>
 
-<div class="post" data-post-id="13884" data-author="Weasel" data-date="2006-09-01T17:41:38+00:00">
+<div class="post" data-post-id="13884" data-author="Weasel" data-date="2006-09-01T17:41:38+00:00" data-subject="">
 
 does he play slothmud or... ?
 
 </div>
 
-<div class="post" data-post-id="13905" data-author="osric" data-date="2006-09-04T20:54:46+00:00">
+<div class="post" data-post-id="13905" data-author="osric" data-date="2006-09-04T20:54:46+00:00" data-subject="">
 
 No he does gap commercials and shit, so hes pretty much off the artistic role call! :evil:
 
 </div>
 
-<div class="post" data-post-id="13921" data-author="Avatar" data-date="2006-09-06T15:51:10+00:00">
+<div class="post" data-post-id="13921" data-author="Avatar" data-date="2006-09-06T15:51:10+00:00" data-subject="Thanks!">
 
 Thanks for posting this D_D!  I dl'd the first edition and I'm really enjoying it at work.
 

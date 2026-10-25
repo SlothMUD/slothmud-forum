@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="7517" data-author="Sian" data-date="2005-06-24T02:35:22+00:00">
+<div class="post" data-post-id="7517" data-author="Sian" data-date="2005-06-24T02:35:22+00:00" data-subject="From Akasha Temple">
 
 Sian gets an ornamental silver breast plate from the corpse of Preslyne(Princess) that's on the ground
 

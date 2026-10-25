@@ -10,7 +10,7 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="23219" data-author="Mike" data-date="2008-03-13T19:35:56+00:00">
+<div class="post" data-post-id="23219" data-author="Mike" data-date="2008-03-13T19:35:56+00:00" data-subject="to hit sucks!">
 
 You have +36 to hit and +17 on damage.
 
@@ -60,7 +60,7 @@ Can anyone explain me why this happens, maybe tohit capped at +15 and thats all 
 
 </div>
 
-<div class="post" data-post-id="23220" data-author="jezer" data-date="2008-03-13T22:21:11+00:00">
+<div class="post" data-post-id="23220" data-author="jezer" data-date="2008-03-13T22:21:11+00:00" data-subject="">
 
 I don't understand it either, +26 to hit or so in my shift mode, and I'm often missing once each round... You can't really argue the "skills 85%" argument either when your shape shifted dragon, I just don't understand, why all the missing?
 
@@ -68,13 +68,13 @@ Does anyone know the mathematics of calculating hits?
 
 </div>
 
-<div class="post" data-post-id="23222" data-author="Tap" data-date="2008-03-13T23:33:13+00:00">
+<div class="post" data-post-id="23222" data-author="Tap" data-date="2008-03-13T23:33:13+00:00" data-subject="">
 
 For what it's worth, you can drink a couple of those +hitroll potions from valk and get your HR up to 80+ and you still miss about the same ratio. On a similiar note, most of these MOB's walking around naked, it's a wonder that there aren't any anti-nudity laws.
 
 </div>
 
-<div class="post" data-post-id="23224" data-author="Rynquald" data-date="2008-03-13T23:43:26+00:00">
+<div class="post" data-post-id="23224" data-author="Rynquald" data-date="2008-03-13T23:43:26+00:00" data-subject="">
 
 I've always assumed (humanoid)mobs and pcs alike were clothed to start with, and the stuff listed in eq was just things you wouldn't normally be wearing. People aren't normally naked under armor and robes and whatnot.
 
@@ -82,19 +82,19 @@ Mobs get a desc talking about clothes too of course.
 
 </div>
 
-<div class="post" data-post-id="23225" data-author="Medios" data-date="2008-03-14T00:09:59+00:00">
+<div class="post" data-post-id="23225" data-author="Medios" data-date="2008-03-14T00:09:59+00:00" data-subject="">
 
 I see these guys running around with a bunch of +hit and I just shake my head.  I run Medios at +15 +27dmg, with -8 ac and about 45sb.  I couldnt give up the dmg or spellbonus for +hit.  As far as dropping 3 points of ac so I can miss just as many stabs, not gonna do it.
 
 </div>
 
-<div class="post" data-post-id="23226" data-author="*juggleblood*" data-date="2008-03-14T14:31:37+00:00">
+<div class="post" data-post-id="23226" data-author="*juggleblood*" data-date="2008-03-14T14:31:37+00:00" data-subject="">
 
 I think that +hit ceases to be beneficial somewhere around +20,21,22. This is just from casual observation and discussion with others though.
 
 </div>
 
-<div class="post" data-post-id="23227" data-author="Autolycos" data-date="2008-03-14T14:33:33+00:00">
+<div class="post" data-post-id="23227" data-author="Autolycos" data-date="2008-03-14T14:33:33+00:00" data-subject="">
 
 People aren't normally naked under armor and robes and whatnot.[/quote:3gtgbrrl]
 
@@ -102,31 +102,31 @@ I am  :roll:
 
 </div>
 
-<div class="post" data-post-id="23230" data-author="Leaf" data-date="2008-03-14T15:08:16+00:00">
+<div class="post" data-post-id="23230" data-author="Leaf" data-date="2008-03-14T15:08:16+00:00" data-subject="">
 
 Jason likes to Commando Style it up!
 
 </div>
 
-<div class="post" data-post-id="23231" data-author="Autolycos" data-date="2008-03-14T16:25:33+00:00">
+<div class="post" data-post-id="23231" data-author="Autolycos" data-date="2008-03-14T16:25:33+00:00" data-subject="">
 
 talk about +dex  ;)
 
 </div>
 
-<div class="post" data-post-id="23232" data-author="13" data-date="2008-03-14T23:33:07+00:00">
+<div class="post" data-post-id="23232" data-author="13" data-date="2008-03-14T23:33:07+00:00" data-subject="">
 
 I run at 34/17 and +hit's not a problem,  but i would like more dmg.  Focus is cool and plus hit just doesnt matter unless you're fighting gargs(which might br changed, kj said he fucked eitht hem to test hitrolls.
 
 </div>
 
-<div class="post" data-post-id="23233" data-author="Weasel" data-date="2008-03-15T00:47:57+00:00">
+<div class="post" data-post-id="23233" data-author="Weasel" data-date="2008-03-15T00:47:57+00:00" data-subject="">
 
 Is damage capped at all? 34dam is pretty bloody impressive.. I'd think many mobs would do a woozle and drop dead with fright just at the sight of you.
 
 </div>
 
-<div class="post" data-post-id="23234" data-author="jezer" data-date="2008-03-15T02:55:35+00:00">
+<div class="post" data-post-id="23234" data-author="jezer" data-date="2008-03-15T02:55:35+00:00" data-subject="">
 
 Would you mind posting your 34dam eq mode 13 and classo? That would be interesting!
 
@@ -142,7 +142,7 @@ A reckon an avatar druid, monk, cleric, necro could have the maddest damage abso
 
 </div>
 
-<div class="post" data-post-id="23235" data-author="*juggleblood*" data-date="2008-03-15T05:23:24+00:00">
+<div class="post" data-post-id="23235" data-author="*juggleblood*" data-date="2008-03-15T05:23:24+00:00" data-subject="">
 
 As Minstrel has said previously, its prolly unwise to sacrifice +hit for damage, unless you've got a really crappy hitroll.
 
@@ -150,7 +150,7 @@ AC was fixed to work properly on mobs about a year ago i think? I think mob AC a
 
 </div>
 
-<div class="post" data-post-id="23236" data-author="Akasha" data-date="2008-03-15T06:51:05+00:00">
+<div class="post" data-post-id="23236" data-author="Akasha" data-date="2008-03-15T06:51:05+00:00" data-subject="">
 
 yeah, ive considered several times fixing mob AC and mob hitrolls to be consistent.   But I don't really think thats what you want across the board.
 
@@ -160,7 +160,7 @@ Beware what you wish for ;)
 
 </div>
 
-<div class="post" data-post-id="23237" data-author="Zukt" data-date="2008-03-15T13:48:21+00:00">
+<div class="post" data-post-id="23237" data-author="Zukt" data-date="2008-03-15T13:48:21+00:00" data-subject="">
 
 Jezer, +26 to hit shifted is not the same as +26 unshifted. Players get thaco bonuses while mobs (shapeshifts) dont. A +26 shifted is pretty much the same as a warrior with +7 hitroll...
 
@@ -176,13 +176,13 @@ As for fluidity, it makes a very significant difference, at least greater fluidi
 
 </div>
 
-<div class="post" data-post-id="23246" data-author="Alberich" data-date="2008-03-16T18:32:50+00:00">
+<div class="post" data-post-id="23246" data-author="Alberich" data-date="2008-03-16T18:32:50+00:00" data-subject="">
 
 well, i've been tracking my stabs, i seem to hit about 82% of the time (out of about 1000 stabs) at +20 hit.  I haven't tested that much with lower hit, i ran at +18 for a little while and hit about 81% but that was only out of maybe 3-400 stabs.
 
 </div>
 
-<div class="post" data-post-id="23258" data-author="Virus" data-date="2008-03-18T01:29:48+00:00">
+<div class="post" data-post-id="23258" data-author="Virus" data-date="2008-03-18T01:29:48+00:00" data-subject="">
 
 I run at +24 hit for stabbing, and here's what I got:
 
@@ -192,7 +192,7 @@ Looks like its time to get rid of that hamster collar  :D
 
 </div>
 
-<div class="post" data-post-id="23267" data-author="jezer" data-date="2008-03-18T11:53:31+00:00">
+<div class="post" data-post-id="23267" data-author="jezer" data-date="2008-03-18T11:53:31+00:00" data-subject="">
 
 moldy leader
 
@@ -694,7 +694,7 @@ And yes... the drunken wagoneer paid for his treachery!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23277" data-author="Vixn" data-date="2008-03-18T17:24:05+00:00">
+<div class="post" data-post-id="23277" data-author="Vixn" data-date="2008-03-18T17:24:05+00:00" data-subject="">
 
 85% should be the hit rate of a plain skill without all this +hit business![/quote:od2x42e0]
 
@@ -704,7 +704,7 @@ Go track it.
 
 </div>
 
-<div class="post" data-post-id="23361" data-author="strider" data-date="2008-03-22T15:02:03+00:00">
+<div class="post" data-post-id="23361" data-author="strider" data-date="2008-03-22T15:02:03+00:00" data-subject="">
 
 I've poked 9304 holes in mobs and nearly lost 1510 fingers.
 
@@ -732,7 +732,7 @@ nice lil new item from chasm for thief types.
 
 </div>
 
-<div class="post" data-post-id="23399" data-author="Avatar" data-date="2008-03-24T18:24:28+00:00">
+<div class="post" data-post-id="23399" data-author="Avatar" data-date="2008-03-24T18:24:28+00:00" data-subject="stab to-hit">
 
 Years ago, I tested stab results by running a thief prime and collecting numbers for awhile.  My plan was to run with minimum to-hit bonus, collect numbers, then wear as much to-hit as I could find and collect numbers.  It's important to select your test mobs carefully.  If you're currently hitting all the time (no misses due to target AC) then improving your to-hit bonus wouldn't show any change.
 
@@ -744,7 +744,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="23401" data-author="Alberich" data-date="2008-03-24T18:39:27+00:00">
+<div class="post" data-post-id="23401" data-author="Alberich" data-date="2008-03-24T18:39:27+00:00" data-subject="">
 
 You feel informed:
 
@@ -768,7 +768,7 @@ where's that pop at?
 
 </div>
 
-<div class="post" data-post-id="23402" data-author="strider" data-date="2008-03-24T21:33:53+00:00">
+<div class="post" data-post-id="23402" data-author="strider" data-date="2008-03-24T21:33:53+00:00" data-subject="">
 
 alberich. i posted the pop mob on the chasm eq thread but forgot to add it
 

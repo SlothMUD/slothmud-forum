@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="13573" data-author="codetown" data-date="2006-07-26T19:39:13+00:00">
+<div class="post" data-post-id="13573" data-author="codetown" data-date="2006-07-26T19:39:13+00:00" data-subject="PThief Mechanics">
 
 Earlier today I had my pack stolen out of my inventory. It contained a sizable investment of my time in items.
 
@@ -22,7 +22,7 @@ I am not sure that any will agree that the mechanics around this are broken. It 
 
 </div>
 
-<div class="post" data-post-id="13575" data-author="Alberich" data-date="2006-07-26T19:55:46+00:00">
+<div class="post" data-post-id="13575" data-author="Alberich" data-date="2006-07-26T19:55:46+00:00" data-subject="Re: PThief Mechanics">
 
 When an individual can in an instant remove hours of my time investment without me being able to just as easily recoup that lose is not fun.
 
@@ -34,7 +34,7 @@ take it as a lesson, move on, and put stuff away properly next time - has happen
 
 </div>
 
-<div class="post" data-post-id="13576" data-author="Medios" data-date="2006-07-26T20:37:30+00:00">
+<div class="post" data-post-id="13576" data-author="Medios" data-date="2006-07-26T20:37:30+00:00" data-subject="">
 
 Alberich is right, you can store items in a container that you wear.  If you get in touch with me(Medios/Minstrel/Dogs) I can help you reclaim some things and maybe get you set in the right direction.  I dont know who your char was, but there are things that larger chars can do to pthiefs.  As you have pointed out, pthieving mainly effects lower level players that are trying to "build".  This is one item that concerned me, but imho it weeds out crybaby players that cant take a little negative gaming.  If you strictly give up because one pack was stolen, then slothmud is probably not for you.  
 
@@ -42,19 +42,19 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13583" data-author="Malison" data-date="2006-07-27T00:38:26+00:00">
+<div class="post" data-post-id="13583" data-author="Malison" data-date="2006-07-27T00:38:26+00:00" data-subject="">
 
 While attacking the pthief may not always work, some spells like web usually will.  Just be sure when you use them that it's on the right person
 
 </div>
 
-<div class="post" data-post-id="13584" data-author="Guinex" data-date="2006-07-27T03:19:15+00:00">
+<div class="post" data-post-id="13584" data-author="Guinex" data-date="2006-07-27T03:19:15+00:00" data-subject="">
 
 The idea of being able to attack anyone is great, it would allow me to attack people in safe rooms :D
 
 </div>
 
-<div class="post" data-post-id="13585" data-author="Guinex" data-date="2006-07-27T03:22:43+00:00">
+<div class="post" data-post-id="13585" data-author="Guinex" data-date="2006-07-27T03:22:43+00:00" data-subject="">
 
 But more seriously i do believe that if you know who took your stuff you should be able to kill/loot them w/o being a high level avatar.  I personally do not carry a bunch of stuff in my inventory but this whole, "you learned your lesson stuff" is getting old.  Feel free to post names of characters that have stolen from you, and I personally will do my best to make sloth unenjoyable for them.
 
@@ -62,7 +62,7 @@ But more seriously i do believe that if you know who took your stuff you should 
 
 </div>
 
-<div class="post" data-post-id="13586" data-author="Hobbes" data-date="2006-07-27T07:57:20+00:00">
+<div class="post" data-post-id="13586" data-author="Hobbes" data-date="2006-07-27T07:57:20+00:00" data-subject="">
 
 Everything codetown posted about pthiefing is correct and represents the feelings of more than a few players on the mud I'm willing to bet.  He is bowing out graciously it would appear and not being a "crybaby".  (Compare to the reactions of some following the recent monk nerfs.)  It is very easy for an avatar to say put your stuff in a robe; I agree with Guinex, the you've learned your lesson argument is very old and lame.  
 
@@ -72,7 +72,7 @@ Anyway, like I said, I was just a bit irked.  I feel better now.  Carry on.
 
 </div>
 
-<div class="post" data-post-id="13587" data-author="Gimlet" data-date="2006-07-27T08:53:26+00:00">
+<div class="post" data-post-id="13587" data-author="Gimlet" data-date="2006-07-27T08:53:26+00:00" data-subject="">
 
 I somewhat agree, that new players who aren't familiar with sloth would have no idea that items can get stolen by other players (pthiefs)
 
@@ -82,13 +82,13 @@ sure, the ppl who have been playing sloth a long time shouldn't be getting their
 
 </div>
 
-<div class="post" data-post-id="13588" data-author="Harlot" data-date="2006-07-27T10:38:38+00:00">
+<div class="post" data-post-id="13588" data-author="Harlot" data-date="2006-07-27T10:38:38+00:00" data-subject="Gimlet">
 
 Love ya :oops:
 
 </div>
 
-<div class="post" data-post-id="13589" data-author="brady" data-date="2006-07-27T13:49:52+00:00">
+<div class="post" data-post-id="13589" data-author="brady" data-date="2006-07-27T13:49:52+00:00" data-subject="">
 
 The only thing you should expect to get from voting is the satisfaction of knowing that you've done something small and positive for the game you spend so much time playing.
 
@@ -96,13 +96,13 @@ This forum is largely for the exchange of ideas and opinions between fellow play
 
 </div>
 
-<div class="post" data-post-id="13591" data-author="Weasel" data-date="2006-07-27T14:31:13+00:00">
+<div class="post" data-post-id="13591" data-author="Weasel" data-date="2006-07-27T14:31:13+00:00" data-subject="">
 
 rofl
 
 </div>
 
-<div class="post" data-post-id="13594" data-author="codetown" data-date="2006-07-27T15:38:31+00:00">
+<div class="post" data-post-id="13594" data-author="codetown" data-date="2006-07-27T15:38:31+00:00" data-subject="">
 
 I believe that Gimlet's type of solution might be all that I am looking for.
 
@@ -130,7 +130,7 @@ I am not trying to be a "cry baby" here, I realize that this is a learn to play 
 
 </div>
 
-<div class="post" data-post-id="13596" data-author="brand" data-date="2006-07-27T16:16:09+00:00">
+<div class="post" data-post-id="13596" data-author="brand" data-date="2006-07-27T16:16:09+00:00" data-subject="">
 
 ahh, for the joy of the few or the many...
 
@@ -144,7 +144,7 @@ brand :twisted:
 
 </div>
 
-<div class="post" data-post-id="13602" data-author="Medios" data-date="2006-07-27T19:51:36+00:00">
+<div class="post" data-post-id="13602" data-author="Medios" data-date="2006-07-27T19:51:36+00:00" data-subject="">
 
 This is one item that concerned me, but imho it weeds out crybaby players that cant take a little negative gaming.  If you strictly give up because one pack was stolen, then slothmud is probably not for you.  
 
@@ -156,13 +156,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13605" data-author="Harlot" data-date="2006-07-28T01:07:07+00:00">
+<div class="post" data-post-id="13605" data-author="Harlot" data-date="2006-07-28T01:07:07+00:00" data-subject="Medios">
 
 I do think you protest too much...
 
 </div>
 
-<div class="post" data-post-id="13606" data-author="12345" data-date="2006-07-28T02:23:43+00:00">
+<div class="post" data-post-id="13606" data-author="12345" data-date="2006-07-28T02:23:43+00:00" data-subject="">
 
 The next time you have a thought.. just let it go.
 

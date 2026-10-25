@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29811" data-author="Hitman" data-date="2009-08-14T03:44:05+00:00">
+<div class="post" data-post-id="29811" data-author="Hitman" data-date="2009-08-14T03:44:05+00:00" data-subject="Awesome crasheees!">
 
 Toxis gossips-- 'new gname :)~'
 
@@ -62,7 +62,7 @@ Saving items.
 
 </div>
 
-<div class="post" data-post-id="29813" data-author="Toxis" data-date="2009-08-14T07:09:36+00:00">
+<div class="post" data-post-id="29813" data-author="Toxis" data-date="2009-08-14T07:09:36+00:00" data-subject="">
 
 There was another crash right after that one:
 

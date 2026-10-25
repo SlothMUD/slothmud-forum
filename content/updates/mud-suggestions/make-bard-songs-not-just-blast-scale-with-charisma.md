@@ -10,7 +10,7 @@ locked: false
 post_count: 29
 ---
 
-<div class="post" data-post-id="37113" data-author="Teron" data-date="2016-07-22T13:43:10+00:00">
+<div class="post" data-post-id="37113" data-author="Teron" data-date="2016-07-22T13:43:10+00:00" data-subject="Make bard songs (not just blast) scale with charisma">
 
 This is a continuation of a single point from another thread.
 
@@ -52,7 +52,7 @@ Also do remember that bards may want to use any other charisma to replace low ac
 
 </div>
 
-<div class="post" data-post-id="37135" data-author="Hung" data-date="2016-07-25T16:54:23+00:00">
+<div class="post" data-post-id="37135" data-author="Hung" data-date="2016-07-25T16:54:23+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 I'll write here my bards buffing suggestions.
 
@@ -74,7 +74,7 @@ Thanks again, Teker, for hearing us. And sorry for swarming you so much with pos
 
 </div>
 
-<div class="post" data-post-id="37137" data-author="*juggleblood*" data-date="2016-07-26T15:23:05+00:00">
+<div class="post" data-post-id="37137" data-author="*juggleblood*" data-date="2016-07-26T15:23:05+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Seems out of place to worry about Bard solo xp when it's a class explicitly designed to complement a group by affecting others. I could think of many ways to improve the bard class, none of which would be related to achieving solo xp.
 
@@ -82,13 +82,13 @@ Their solo ability comes from the other classes. For example sochi can do basic 
 
 </div>
 
-<div class="post" data-post-id="37139" data-author="Hung" data-date="2016-07-26T18:39:12+00:00">
+<div class="post" data-post-id="37139" data-author="Hung" data-date="2016-07-26T18:39:12+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Well, I've made a cleric. And found out that despite being group class too it is not bad at solo xp(about two times better than bard).
 
 </div>
 
-<div class="post" data-post-id="37140" data-author="*juggleblood*" data-date="2016-07-26T22:21:42+00:00">
+<div class="post" data-post-id="37140" data-author="*juggleblood*" data-date="2016-07-26T22:21:42+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 You think lategame cleric solo's better unshifted than using makara, mymecoleon, phoenix, etc...?
 
@@ -96,7 +96,7 @@ Get Kid a couple more 40's and your druid forms' solo power will outshine what a
 
 </div>
 
-<div class="post" data-post-id="37141" data-author="Hung" data-date="2016-07-26T22:47:49+00:00">
+<div class="post" data-post-id="37141" data-author="Hung" data-date="2016-07-26T22:47:49+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Yes, I think so. Cleric's main solo xp power is aerial. Which works great when doing magestyle xp. So I think clerics will keep being superior, because blast power rises with avatar levels.
 
@@ -110,13 +110,13 @@ Certainly druid forms are powerful. However bard prime skills can't offer much t
 
 </div>
 
-<div class="post" data-post-id="37142" data-author="*juggleblood*" data-date="2016-07-27T01:16:20+00:00">
+<div class="post" data-post-id="37142" data-author="*juggleblood*" data-date="2016-07-27T01:16:20+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 If we expressing all our code wishes at this time then I'd go on about how much I hate no-fly tunnels or rather the inability to simply stop flying at will. And I'd beg for selective dispel as a mage skill. But if wishes were horses, we'd all be eating steak.
 
 </div>
 
-<div class="post" data-post-id="37143" data-author="Teron" data-date="2016-07-27T06:09:24+00:00">
+<div class="post" data-post-id="37143" data-author="Teron" data-date="2016-07-27T06:09:24+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Hey, I've ideased the custom dispel ages ago. It shouldn't be too hard to code, I'd imagine (we already have dispel web and fly).
 
@@ -128,7 +128,7 @@ How many people can *you* affect at the moment? Pretty sure a 1x40bard can affec
 
 </div>
 
-<div class="post" data-post-id="37146" data-author="*juggleblood*" data-date="2016-07-27T15:16:47+00:00">
+<div class="post" data-post-id="37146" data-author="*juggleblood*" data-date="2016-07-27T15:16:47+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Ok, well back to the original point of the thread, I think that chart of damage for gods is pretty much a non-starter, as it's insane damage. 
 
@@ -142,13 +142,13 @@ Making high charisma add bonus listeners would be an interesting idea. Altho I t
 
 </div>
 
-<div class="post" data-post-id="37147" data-author="*juggleblood*" data-date="2016-07-27T22:30:48+00:00">
+<div class="post" data-post-id="37147" data-author="*juggleblood*" data-date="2016-07-27T22:30:48+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Altho...I could see using the damage numbers suggested in his chart above, but make gods damage not multiply in stab or grip function. Then...either make ogham's give damage and hit bonus into stab/grip, or have a new song targetted at stabber/gripper. That would definitely give bards more pride in having high charisma.
 
 </div>
 
-<div class="post" data-post-id="37148" data-author="Teron" data-date="2016-07-28T07:15:09+00:00">
+<div class="post" data-post-id="37148" data-author="Teron" data-date="2016-07-28T07:15:09+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 1. The damage chart is great, but so is damage of 9x40 mage avatars or any 9x40 pumped up avatar. Yet all bards get from 9x40 is their powered up cry of the avatars.
 
@@ -237,7 +237,7 @@ My concern is that if it's only an instrument, it won't be known to new players,
 
 </div>
 
-<div class="post" data-post-id="37160" data-author="Oboe" data-date="2016-08-02T04:32:30+00:00">
+<div class="post" data-post-id="37160" data-author="Oboe" data-date="2016-08-02T04:32:30+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Regarding the original idea, no, thanks.  The songs have worked in their present
 
@@ -249,7 +249,7 @@ changes that would make your preferred strategy become the optimal one.
 
 </div>
 
-<div class="post" data-post-id="37161" data-author="Hung" data-date="2016-08-02T05:34:50+00:00">
+<div class="post" data-post-id="37161" data-author="Hung" data-date="2016-08-02T05:34:50+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Hi Oboe,
 
@@ -257,7 +257,7 @@ The original concern of Taron(please, T, correct me if I am wrong) is charisma b
 
 </div>
 
-<div class="post" data-post-id="37163" data-author="Teron" data-date="2016-08-03T04:05:54+00:00">
+<div class="post" data-post-id="37163" data-author="Teron" data-date="2016-08-03T04:05:54+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Oboe, what original idea are you talking about?
 
@@ -269,7 +269,7 @@ P.S. This thread is precisely why I'm not buying the book of tales with +3charis
 
 </div>
 
-<div class="post" data-post-id="37165" data-author="Oboe" data-date="2016-08-03T05:12:16+00:00">
+<div class="post" data-post-id="37165" data-author="Oboe" data-date="2016-08-03T05:12:16+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 > **Teron wrote:**
 > Oboe, what original idea are you talking about?
@@ -288,13 +288,13 @@ The part about making bard primes more powerful, anywhere.
 
 </div>
 
-<div class="post" data-post-id="37167" data-author="Teron" data-date="2016-08-04T06:15:49+00:00">
+<div class="post" data-post-id="37167" data-author="Teron" data-date="2016-08-04T06:15:49+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Why?
 
 </div>
 
-<div class="post" data-post-id="37169" data-author="Hung" data-date="2016-08-04T10:20:43+00:00">
+<div class="post" data-post-id="37169" data-author="Hung" data-date="2016-08-04T10:20:43+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 If someone thinks bards are powerful enough already then I dont mind of doing rebalancing instead of pure empowering.
 
@@ -302,7 +302,7 @@ I.e. I dont mind parting with the whole stash of prime bard skills: knight's ble
 
 </div>
 
-<div class="post" data-post-id="37179" data-author="*juggleblood*" data-date="2016-08-05T23:28:35+00:00">
+<div class="post" data-post-id="37179" data-author="*juggleblood*" data-date="2016-08-05T23:28:35+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Another way to look at it is, 
 
@@ -316,7 +316,7 @@ It seems like what you're mostly interested in is combat damage / coliseum score
 
 </div>
 
-<div class="post" data-post-id="37190" data-author="Teron" data-date="2016-08-07T11:29:30+00:00">
+<div class="post" data-post-id="37190" data-author="Teron" data-date="2016-08-07T11:29:30+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Yes, we do need reign occasionally, and it means that bards still need to put on near-max charisma on runs, when they don't need reign or they need to:
 
@@ -334,7 +334,7 @@ If I didn't understand you, please clarify.
 
 </div>
 
-<div class="post" data-post-id="37191" data-author="*juggleblood*" data-date="2016-08-07T13:55:07+00:00">
+<div class="post" data-post-id="37191" data-author="*juggleblood*" data-date="2016-08-07T13:55:07+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Because to me 20 is not close to max charisma. I can get like 28 or 30 (I'm not 100% sure about charisma cap, but I can make score2 say 30).  So for example in dino group I can wear saves gear and still have enough charisma to reign/reprieve reliably. Or if front row is light, I can put on AC and still have enough charisma. Or if healo is light, I can put on regen gear and still have enough charisma. I don't run in groups in max charisma much, and would rather not have to. If gods damage was based on charisma for example, everyone in the group would be concerned about whether or not I was running in max charisma because they like seeing that damage bonus. It would be annoying/not as fun.
 
@@ -342,7 +342,7 @@ Oh and regarding Rina, yes I don't care that charisma doesn't affect the success
 
 </div>
 
-<div class="post" data-post-id="37193" data-author="Hung" data-date="2016-08-07T15:05:40+00:00">
+<div class="post" data-post-id="37193" data-author="Hung" data-date="2016-08-07T15:05:40+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 I am not interesting in coliseum score, but in the xp solo. And to excel in that activity a character needs to have either strong offensive skill(like a monk's focus) or strong defensive skill(like cleric's aerial). First one helps to kill the xp mob fast. Second prevents spending half of mana on heals after receving round of beating.
 
@@ -356,7 +356,7 @@ So gods is a song only for groups. Therefore I am now against original Taron's s
 
 </div>
 
-<div class="post" data-post-id="37194" data-author="*juggleblood*" data-date="2016-08-07T16:08:08+00:00">
+<div class="post" data-post-id="37194" data-author="*juggleblood*" data-date="2016-08-07T16:08:08+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 Isn't helping the group kinda the whole point of the bard class tho? No class can have it all. For example, necro's are virtually useless in group (refer to debuff thread for reasons), but get to have strong solo skills.
 
@@ -368,13 +368,13 @@ Mostly I can't understand why you favor bard at all? You're more focused on chan
 
 </div>
 
-<div class="post" data-post-id="37195" data-author="*juggleblood*" data-date="2016-08-07T17:01:42+00:00">
+<div class="post" data-post-id="37195" data-author="*juggleblood*" data-date="2016-08-07T17:01:42+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 And regarding gods damage not multiplying into stab/grip damage, I can confirm It's contribution to stab or grip is underwhelming. It is apparently intentionally so, not a bug. Might be a good thing to mention in the wiki or something.
 
 </div>
 
-<div class="post" data-post-id="37203" data-author="Teron" data-date="2016-08-08T11:52:00+00:00">
+<div class="post" data-post-id="37203" data-author="Teron" data-date="2016-08-08T11:52:00+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 **JB**, if the group is large enough, we can afford you to move to back row and switch to max charisma.
 
@@ -418,7 +418,7 @@ I don't see how making charisma more useful will affect the skill above, because
 
 </div>
 
-<div class="post" data-post-id="37204" data-author="Teron" data-date="2016-08-08T11:55:49+00:00">
+<div class="post" data-post-id="37204" data-author="Teron" data-date="2016-08-08T11:55:49+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 > ***juggleblood* wrote:**
 > And regarding gods damage not multiplying into stab/grip damage, I can confirm It's contribution to stab or grip is underwhelming. It is apparently intentionally so, not a bug. Might be a good thing to mention in the wiki or something.
@@ -431,7 +431,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37205" data-author="Hung" data-date="2016-08-08T12:03:38+00:00">
+<div class="post" data-post-id="37205" data-author="Hung" data-date="2016-08-08T12:03:38+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 JB, it seems to me that when I write "weaker than cleric", you read it as "not as strong as monk or warrior". Forget about monks and warriors and thieves. Let's compare cl/dr with ba/dr. Both are supposed to be group support classes. Both are good at it, doing different jobs though.
 
@@ -451,7 +451,7 @@ Also I like Taron's suggestion about resonant focus. However I have some doubts 
 
 </div>
 
-<div class="post" data-post-id="37206" data-author="Hung" data-date="2016-08-08T12:20:22+00:00">
+<div class="post" data-post-id="37206" data-author="Hung" data-date="2016-08-08T12:20:22+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 After further discussion with Taron in our chat it was revealed that I read his original post inattentively. I thought he wanted to scale only gods of war. In fact he meant more songs. Including lion chorus.
 
@@ -459,7 +459,7 @@ So I wanted to take back words "I am now against original Taron's suggestion". A
 
 </div>
 
-<div class="post" data-post-id="37214" data-author="Teron" data-date="2016-08-09T13:03:29+00:00">
+<div class="post" data-post-id="37214" data-author="Teron" data-date="2016-08-09T13:03:29+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 I doubt all lion damage goes into the stab, maybe 1 or 2 at most, and I've already suggested [scaling it as well](http://www.slothmud.org/forum/viewtopic.php?f=30&t=4659#p37148). As in, if you get +3 dam to the chorus, you get maybe 1 dam towards stab (though gods of war might get 2-3 dam bonus to stab at max capacity).
 
@@ -467,7 +467,7 @@ If you want all 4 chorus damage go towards stab/grip (and maybe 10 from gods?), 
 
 </div>
 
-<div class="post" data-post-id="37215" data-author="*juggleblood*" data-date="2016-08-10T22:58:55+00:00">
+<div class="post" data-post-id="37215" data-author="*juggleblood*" data-date="2016-08-10T22:58:55+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
 If I made a list of everything I cared about, for the coders to take on, bard melee skills would not even make the list, and my main is a bard.
 

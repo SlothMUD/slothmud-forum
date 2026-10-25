@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13405" data-author="*Splork*" data-date="2006-07-10T03:25:50+00:00">
+<div class="post" data-post-id="13405" data-author="*Splork*" data-date="2006-07-10T03:25:50+00:00" data-subject="New Stuff">
 
 1) New thief skill, Excruciating Blow
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="27994" data-author="*Splork*" data-date="2009-02-05T13:47:58+00:00">
+<div class="post" data-post-id="27994" data-author="*Splork*" data-date="2009-02-05T13:47:58+00:00" data-subject="Myspace SlothMUD application">
 
 Please check out my myspace page, scan to the bottom left, and you will see the slothmud application.
 

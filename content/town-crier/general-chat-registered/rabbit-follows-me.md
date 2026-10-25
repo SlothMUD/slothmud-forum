@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="26687" data-author="Falsra" data-date="2008-10-14T11:28:54+00:00">
+<div class="post" data-post-id="26687" data-author="Falsra" data-date="2008-10-14T11:28:54+00:00" data-subject="Rabbit follows me">
 
 I so used add a space after direction [n,w,s,e,u,d] when i wish
 
@@ -28,7 +28,7 @@ with it ?
 
 </div>
 
-<div class="post" data-post-id="26688" data-author="Falsra" data-date="2008-10-14T13:11:21+00:00">
+<div class="post" data-post-id="26688" data-author="Falsra" data-date="2008-10-14T13:11:21+00:00" data-subject="">
 
 To leave pets we should use <dir> sneak. It works!
 

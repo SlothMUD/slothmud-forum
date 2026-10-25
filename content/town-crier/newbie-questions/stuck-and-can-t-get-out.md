@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="6081" data-author="Niomi" data-date="2005-05-11T11:47:03+00:00">
+<div class="post" data-post-id="6081" data-author="Niomi" data-date="2005-05-11T11:47:03+00:00" data-subject="STUCK and can&#x27;t get out!">
 
 Help! I'm in a room called 'Bottom of the Crevasse' and can't get out. I'm getting hungry and thirsty..
 
 </div>
 
-<div class="post" data-post-id="6082" data-author="Leaf" data-date="2005-05-11T12:15:31+00:00">
+<div class="post" data-post-id="6082" data-author="Leaf" data-date="2005-05-11T12:15:31+00:00" data-subject="">
 
 Sucks to be you!
 

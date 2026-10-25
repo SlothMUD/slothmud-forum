@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="24331" data-author="damu" data-date="2008-05-13T19:33:45+00:00">
+<div class="post" data-post-id="24331" data-author="damu" data-date="2008-05-13T19:33:45+00:00" data-subject="call of the sidhe">
 
 a few questions
 
@@ -26,7 +26,7 @@ since lowest level to gate is 18 mage, cluricaun will appear.
 
 </div>
 
-<div class="post" data-post-id="24332" data-author="blackmore" data-date="2008-05-13T20:43:52+00:00">
+<div class="post" data-post-id="24332" data-author="blackmore" data-date="2008-05-13T20:43:52+00:00" data-subject="Re: call of the sidhe">
 
 1. is it safe to assume that the sidhe that will appear is from the lowest level required?
 
@@ -46,7 +46,7 @@ Think simple.  Food is any food, potion or scroll can be a recall scroll or a si
 
 </div>
 
-<div class="post" data-post-id="24359" data-author="Widow" data-date="2008-05-15T19:13:57+00:00">
+<div class="post" data-post-id="24359" data-author="Widow" data-date="2008-05-15T19:13:57+00:00" data-subject="">
 
 Does the crystal used depend on the spell? I know there are several different crystals, but does it make a difference which one is used for the charm?
 
@@ -56,7 +56,7 @@ Are there restrictions on who can use a charm after it has been made? Can I crea
 
 </div>
 
-<div class="post" data-post-id="24360" data-author="Alberich" data-date="2008-05-15T19:18:48+00:00">
+<div class="post" data-post-id="24360" data-author="Alberich" data-date="2008-05-15T19:18:48+00:00" data-subject="">
 
 Does the crystal used depend on the spell? I know there are several different crystals, but does it make a difference which one is used for the charm?
 
@@ -72,13 +72,13 @@ Are there restrictions on who can use a charm after it has been made? Can I crea
 
 </div>
 
-<div class="post" data-post-id="24362" data-author="Yinao" data-date="2008-05-15T19:42:41+00:00">
+<div class="post" data-post-id="24362" data-author="Yinao" data-date="2008-05-15T19:42:41+00:00" data-subject="">
 
 Unfortunately they disabled the use of charms on Valk but however anyone can use the charms, not everyone can make them. There are different ways to find out which areas load which shards. If you run with detect magic up you already know how to locate them, other is just mud knowledge. When running with detect magic up when you enter an area that is particularly good at popping shards you'll see a message along the lines of Channelling stratum is very strong here or something of the sorts, means metallic shards pop decently there, however most of the shards are random, some mobs just pop them better than others exp and find out which do which :)
 
 </div>
 
-<div class="post" data-post-id="24363" data-author="slobe" data-date="2008-05-15T21:35:33+00:00">
+<div class="post" data-post-id="24363" data-author="slobe" data-date="2008-05-15T21:35:33+00:00" data-subject="">
 
 The shard you need depends on the kind of magic the spell your making is ie: 
 
@@ -100,7 +100,7 @@ The only sidhe question I have is does
 
 </div>
 
-<div class="post" data-post-id="24364" data-author="Widow" data-date="2008-05-15T22:27:34+00:00">
+<div class="post" data-post-id="24364" data-author="Widow" data-date="2008-05-15T22:27:34+00:00" data-subject="">
 
 Thanks guys. I'd seen the message for 'you sense the healing stratum is very strong in this place' but I thought that was a sign for the peri. I recall the captain in pirates popping the shard on a frequent basis, but he can be a tough cat for lower level folks, fyi.
 

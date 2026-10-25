@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36923" data-author="*teker*" data-date="2016-05-11T14:59:50+00:00">
+<div class="post" data-post-id="36923" data-author="*teker*" data-date="2016-05-11T14:59:50+00:00" data-subject="Minor changelog 2016-05-11">
 
 Fixed a bug in eqset when attempting to change between one handed and two handed weapons.  It properly removes the shield now before attempting to wield the two handed weapon.
 

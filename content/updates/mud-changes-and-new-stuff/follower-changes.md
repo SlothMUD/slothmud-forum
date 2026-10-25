@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33158" data-author="*Splork*" data-date="2012-02-12T05:18:19+00:00">
+<div class="post" data-post-id="33158" data-author="*Splork*" data-date="2012-02-12T05:18:19+00:00" data-subject="Follower Changes">
 
 This change affects very few of you players but is yet another change which has been a long time coming. There are a couple of players which have been using hordes (6-9) of followers to run rampant through the mud. Obviously this is the last thing we want to see happening for a variety of reasons. Ive spoken to those involved and they are alright with the changes and understand fully why they needed to be done. They have also been very helpful in balancing this and other aspects of the game. 
 

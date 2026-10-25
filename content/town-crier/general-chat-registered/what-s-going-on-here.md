@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="38688" data-author="Gorka" data-date="2018-03-05T21:20:04+00:00">
+<div class="post" data-post-id="38688" data-author="Gorka" data-date="2018-03-05T21:20:04+00:00" data-subject="What&#x27;s going on here?">
 
 Isolation Chamber
 
@@ -94,31 +94,31 @@ A gagging pox victim is standing here.
 
 </div>
 
-<div class="post" data-post-id="38689" data-author="Ezekiel" data-date="2018-03-05T22:08:50+00:00">
+<div class="post" data-post-id="38689" data-author="Ezekiel" data-date="2018-03-05T22:08:50+00:00" data-subject="Re: What&#x27;s going on here?">
 
 I've noticed the same on lounging druid in murkwood when morting there... the mob disengages (without any disengage) and then re-engages for some reason, and my damage seems all over the place just on that mob. Seems buggy, definitely used to not do that.
 
 </div>
 
-<div class="post" data-post-id="38695" data-author="Gorka" data-date="2018-03-10T03:07:49+00:00">
+<div class="post" data-post-id="38695" data-author="Gorka" data-date="2018-03-10T03:07:49+00:00" data-subject="Re: What&#x27;s going on here?">
 
 Problem still occurs frequently with this mob. Never used to happen, not sure what changed.
 
 </div>
 
-<div class="post" data-post-id="38707" data-author="Teron" data-date="2018-03-13T15:29:38+00:00">
+<div class="post" data-post-id="38707" data-author="Teron" data-date="2018-03-13T15:29:38+00:00" data-subject="Re: What&#x27;s going on here?">
 
 Saw it happen on an astral dreadnaught twice, irrc.
 
 </div>
 
-<div class="post" data-post-id="38712" data-author="*teker*" data-date="2018-03-22T14:47:14+00:00">
+<div class="post" data-post-id="38712" data-author="*teker*" data-date="2018-03-22T14:47:14+00:00" data-subject="Re: What&#x27;s going on here?">
 
 Check it after the next reboot and let me know if you still see this.
 
 </div>
 
-<div class="post" data-post-id="38728" data-author="Gorka" data-date="2018-04-11T05:47:28+00:00">
+<div class="post" data-post-id="38728" data-author="Gorka" data-date="2018-04-11T05:47:28+00:00" data-subject="Re: What&#x27;s going on here?">
 
 Still happening on various mobs...
 
@@ -160,7 +160,7 @@ You aren't even fighting anybody!
 
 </div>
 
-<div class="post" data-post-id="38735" data-author="Gorka" data-date="2018-04-16T16:42:55+00:00">
+<div class="post" data-post-id="38735" data-author="Gorka" data-date="2018-04-16T16:42:55+00:00" data-subject="Re: What&#x27;s going on here?">
 
 Still happening...
 
@@ -222,7 +222,7 @@ Strike who?
 
 </div>
 
-<div class="post" data-post-id="38738" data-author="Gorka" data-date="2018-04-21T15:33:36+00:00">
+<div class="post" data-post-id="38738" data-author="Gorka" data-date="2018-04-21T15:33:36+00:00" data-subject="Re: What&#x27;s going on here?">
 
 Not sure if anyone had a crack at this bug since the game rebooted... but here is more feedback...
 
@@ -270,13 +270,13 @@ Standing
 
 </div>
 
-<div class="post" data-post-id="38776" data-author="*teker*" data-date="2018-05-09T19:26:14+00:00">
+<div class="post" data-post-id="38776" data-author="*teker*" data-date="2018-05-09T19:26:14+00:00" data-subject="Re: What&#x27;s going on here?">
 
 Please check this again.
 
 </div>
 
-<div class="post" data-post-id="38784" data-author="Gorka" data-date="2018-05-21T05:32:45+00:00">
+<div class="post" data-post-id="38784" data-author="Gorka" data-date="2018-05-21T05:32:45+00:00" data-subject="Re: What&#x27;s going on here?">
 
 Still happening Teker. The issue is mob specific, which makes me think it must be a proc that these mobs have in common, or else it has something to do with release for deathgrip.
 
@@ -324,13 +324,13 @@ Broadside who?
 
 </div>
 
-<div class="post" data-post-id="38788" data-author="cyprimus" data-date="2018-05-21T22:15:19+00:00">
+<div class="post" data-post-id="38788" data-author="cyprimus" data-date="2018-05-21T22:15:19+00:00" data-subject="Re: What&#x27;s going on here?">
 
 Seems to be when they wimpy, they disengage, but don't actually flee.
 
 </div>
 
-<div class="post" data-post-id="38931" data-author="Gorka" data-date="2018-06-21T10:17:09+00:00">
+<div class="post" data-post-id="38931" data-author="Gorka" data-date="2018-06-21T10:17:09+00:00" data-subject="Re: What&#x27;s going on here?">
 
 Still Happening... Not even an issue with deathgrip it appears... seems to be mob specific, probably some proc that they use...
 
@@ -364,7 +364,7 @@ Strike who?
 
 </div>
 
-<div class="post" data-post-id="38933" data-author="Gorka" data-date="2018-06-22T18:06:14+00:00">
+<div class="post" data-post-id="38933" data-author="Gorka" data-date="2018-06-22T18:06:14+00:00" data-subject="Re: What&#x27;s going on here?">
 
 Sochi thinks the target is getting nulled on these mobs.
 
@@ -372,13 +372,13 @@ He also thinks someone should unpassword him from the crier as he is currently b
 
 </div>
 
-<div class="post" data-post-id="38937" data-author="*teker*" data-date="2018-06-26T15:42:19+00:00">
+<div class="post" data-post-id="38937" data-author="*teker*" data-date="2018-06-26T15:42:19+00:00" data-subject="Re: What&#x27;s going on here?">
 
 This is fixed now.  It was actually mobs that were sleeping quietly going back to sleep mid-fight.
 
 </div>
 
-<div class="post" data-post-id="38938" data-author="Gorka" data-date="2018-06-26T16:29:50+00:00">
+<div class="post" data-post-id="38938" data-author="Gorka" data-date="2018-06-26T16:29:50+00:00" data-subject="Re: What&#x27;s going on here?">
 
 You rock Teker! I see you fixed the contemplation timer issue as well, thanks very much.
 

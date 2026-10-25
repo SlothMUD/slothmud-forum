@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="35444" data-author="*Splork*" data-date="2014-10-06T14:23:36+00:00">
+<div class="post" data-post-id="35444" data-author="*Splork*" data-date="2014-10-06T14:23:36+00:00" data-subject="Mudlet 3.0.0 Beta (Native MSDP support)">
 
 A new version of Mudlet has  been released. This is the version we have been waiting for because it contains full support for MSDP. No more hacks using ATCP or parsing data, 
 
@@ -22,7 +22,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35445" data-author="*Splork*" data-date="2014-10-06T15:21:27+00:00">
+<div class="post" data-post-id="35445" data-author="*Splork*" data-date="2014-10-06T15:21:27+00:00" data-subject="Re: Mudlet 3.0.0 Beta (Native MSDP support) Variable Window">
 
 One of new additions is a variable window. In this example you can see the MSDP variable registering as they are received.
 
@@ -50,7 +50,7 @@ O stands for open.
 
 </div>
 
-<div class="post" data-post-id="35446" data-author="Akaya" data-date="2014-10-06T15:50:45+00:00">
+<div class="post" data-post-id="35446" data-author="Akaya" data-date="2014-10-06T15:50:45+00:00" data-subject="Re: Mudlet 3.0.0 Beta (Native MSDP support)">
 
 Here's a snippet of what I use to request all msdp variables from Sloth...
 
@@ -148,7 +148,7 @@ After copy/pasting this in a new script, you can enter **lua msdp** on the comma
 
 </div>
 
-<div class="post" data-post-id="35447" data-author="*Idjit*" data-date="2014-10-07T03:12:12+00:00">
+<div class="post" data-post-id="35447" data-author="*Idjit*" data-date="2014-10-07T03:12:12+00:00" data-subject="Re: Mudlet 3.0.0 Beta (Native MSDP support)">
 
 I notice that Akaya doesn't list WEAPON_DAM_CAP in his variables.
 
@@ -158,13 +158,13 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="35448" data-author="Akaya" data-date="2014-10-07T14:31:16+00:00">
+<div class="post" data-post-id="35448" data-author="Akaya" data-date="2014-10-07T14:31:16+00:00" data-subject="Re: Mudlet 3.0.0 Beta (Native MSDP support)">
 
 There are a few I'm missing, you're right. I noticed HUNGER and THIRST wasn't on there either. Let me see if I can hunt down a full list...
 
 </div>
 
-<div class="post" data-post-id="37020" data-author="Akaya" data-date="2016-07-01T07:45:18+00:00">
+<div class="post" data-post-id="37020" data-author="Akaya" data-date="2016-07-01T07:45:18+00:00" data-subject="Re: Mudlet 3.0.0 Beta (Native MSDP support)">
 
 Is there MSDP support for AREA_VNUM or something like it? I know there's AREA_NAME but a matching VNUM would do wonders.
 

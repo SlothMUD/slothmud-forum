@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="31837" data-author="jezer" data-date="2010-10-08T00:37:31+00:00">
+<div class="post" data-post-id="31837" data-author="jezer" data-date="2010-10-08T00:37:31+00:00" data-subject="Vampire_Slayer Quest">
 
 This quest used to be worth 120 drachma... but now the item is only worth 50dr - which will be worth even less when sold to the weaver.  :evil:  :evil:  :evil:  Another great moronic wth? nerfing change by the powers that be.
 
@@ -72,13 +72,13 @@ Given the amount of drachma cuts, I really don't care about giving away complete
 
 </div>
 
-<div class="post" data-post-id="31838" data-author="Tuck" data-date="2010-10-08T04:28:59+00:00">
+<div class="post" data-post-id="31838" data-author="Tuck" data-date="2010-10-08T04:28:59+00:00" data-subject="Re: Vampire_Slayer Quest">
 
 that's bad news.
 
 </div>
 
-<div class="post" data-post-id="31839" data-author="jezer" data-date="2010-10-08T04:57:40+00:00">
+<div class="post" data-post-id="31839" data-author="jezer" data-date="2010-10-08T04:57:40+00:00" data-subject="Re: Vampire_Slayer Quest">
 
 I've just been to the beach hunting gemstones in crap weather  :twisted: Good haul too! Anyways, as I am wandering along the beach pondering Life and the universe, I can't stop thinking about this thread.
 
@@ -122,7 +122,7 @@ Please fix.
 
 </div>
 
-<div class="post" data-post-id="31840" data-author="*Chobbs*" data-date="2010-10-08T05:56:15+00:00">
+<div class="post" data-post-id="31840" data-author="*Chobbs*" data-date="2010-10-08T05:56:15+00:00" data-subject="Re: Vampire_Slayer Quest">
 
 Mornin'
 
@@ -142,7 +142,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="31841" data-author="jezer" data-date="2010-10-08T06:15:26+00:00">
+<div class="post" data-post-id="31841" data-author="jezer" data-date="2010-10-08T06:15:26+00:00" data-subject="Re: Vampire_Slayer Quest">
 
 Mr Chobbs, you have tricky way about you.
 
@@ -177,7 +177,7 @@ For the record, I thought you looked hot with the light sabre.  :D
 
 </div>
 
-<div class="post" data-post-id="31842" data-author="*Splork*" data-date="2010-10-08T07:25:12+00:00">
+<div class="post" data-post-id="31842" data-author="*Splork*" data-date="2010-10-08T07:25:12+00:00" data-subject="Re: Vampire_Slayer Quest">
 
 I must admit, Im getting extremely annoyed with Jezer's wild accusations and rude comments towards the Immortals here, me included. In all seriousness, if you are not happy here, move on. If the game sucks as much as you continually say, move on. Find something fun to spend your time on. 
 
@@ -197,7 +197,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31843" data-author="Tuck" data-date="2010-10-08T13:56:02+00:00">
+<div class="post" data-post-id="31843" data-author="Tuck" data-date="2010-10-08T13:56:02+00:00" data-subject="Re: Vampire_Slayer Quest">
 
 Don't feed Je... errr trolls.
 
@@ -205,7 +205,7 @@ Don't feed Je... errr trolls.
 
 </div>
 
-<div class="post" data-post-id="31844" data-author="Toxis" data-date="2010-10-08T14:27:05+00:00">
+<div class="post" data-post-id="31844" data-author="Toxis" data-date="2010-10-08T14:27:05+00:00" data-subject="Re: Vampire_Slayer Quest">
 
 What was wrong with sins true name or sapphire gem?  They were different, and they weren't that much drachma in comparrison to what we need to buy big eq.  Now we can barely kill epics to get 1 drachma.  If you guys want to keep us at tri40, just remove the rest of the classes, there's no point.
 
@@ -213,7 +213,7 @@ What was wrong with sins true name or sapphire gem?  They were different, and th
 
 </div>
 
-<div class="post" data-post-id="31845" data-author="*Splork*" data-date="2010-10-08T14:48:56+00:00">
+<div class="post" data-post-id="31845" data-author="*Splork*" data-date="2010-10-08T14:48:56+00:00" data-subject="Re: Vampire_Slayer Quest">
 
 Drachma has no bearing on whether a player is tri40 or not, so I guess I am failing to see the connection there. It will probably make more sense to me once your mud gets up and running ( It should be near as its been in the works for what, almost a decade?).
 
@@ -225,7 +225,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31846" data-author="element" data-date="2010-10-08T15:34:02+00:00">
+<div class="post" data-post-id="31846" data-author="element" data-date="2010-10-08T15:34:02+00:00" data-subject="Re: Vampire_Slayer Quest">
 
 sometimes I don't get how people want the game made ridiculously easy.
 

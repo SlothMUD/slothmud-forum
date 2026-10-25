@@ -10,13 +10,13 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="14712" data-author="prchris47" data-date="2006-10-22T12:37:35+00:00">
+<div class="post" data-post-id="14712" data-author="prchris47" data-date="2006-10-22T12:37:35+00:00" data-subject="Starting???">
 
 Ok how do you create your charactor after you have an account. The newbie guide doesn't tell you where to go just what to do!
 
 </div>
 
-<div class="post" data-post-id="14728" data-author="Clink" data-date="2006-10-23T16:17:08+00:00">
+<div class="post" data-post-id="14728" data-author="Clink" data-date="2006-10-23T16:17:08+00:00" data-subject="">
 
 Creating a character is done separately from creating an account on the website.  To connect to the game you'll need to find your telnet application and use it.
 
@@ -34,7 +34,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="14731" data-author="Vixn" data-date="2006-10-23T18:15:54+00:00">
+<div class="post" data-post-id="14731" data-author="Vixn" data-date="2006-10-23T18:15:54+00:00" data-subject="">
 
 new addict, kewl  :twisted:
 

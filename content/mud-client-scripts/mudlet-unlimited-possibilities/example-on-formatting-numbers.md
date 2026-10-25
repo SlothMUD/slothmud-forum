@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39861" data-author="cnl" data-date="2021-11-04T06:33:42+00:00">
+<div class="post" data-post-id="39861" data-author="cnl" data-date="2021-11-04T06:33:42+00:00" data-subject="Example on Formatting numbers">
 
 Some folks were saying that they had a hard time reading numbers in sloth sometimes.
 

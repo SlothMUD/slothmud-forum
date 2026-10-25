@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="15648" data-author="12345" data-date="2006-12-16T02:20:44+00:00">
+<div class="post" data-post-id="15648" data-author="12345" data-date="2006-12-16T02:20:44+00:00" data-subject="BH Smith Note">
 
 Firon found a note on the BH smith.  Easy kill, strange note:
 
@@ -28,7 +28,7 @@ a secret hold upon the Spirit.  Your colleague in the sky castle has deciphered 
 
 </div>
 
-<div class="post" data-post-id="15649" data-author="Firon" data-date="2006-12-16T02:29:15+00:00">
+<div class="post" data-post-id="15649" data-author="Firon" data-date="2006-12-16T02:29:15+00:00" data-subject="">
 
 Lis popped this note off cb smith:
 
@@ -42,7 +42,7 @@ wont a full discription of the detales as sun as u have the scroll translate.  A
 
 </div>
 
-<div class="post" data-post-id="15650" data-author="12345" data-date="2006-12-16T02:44:09+00:00">
+<div class="post" data-post-id="15650" data-author="12345" data-date="2006-12-16T02:44:09+00:00" data-subject="">
 
 Smith in MAGIC:
 
@@ -56,13 +56,13 @@ desire.  If you provide me with this treasure, I shall make good upon my promise
 
 </div>
 
-<div class="post" data-post-id="15651" data-author="12345" data-date="2006-12-16T02:58:44+00:00">
+<div class="post" data-post-id="15651" data-author="12345" data-date="2006-12-16T02:58:44+00:00" data-subject="">
 
 Someone gossips-- 'You must find the maker of the canisters.  His home is on the island!'
 
 </div>
 
-<div class="post" data-post-id="15652" data-author="12345" data-date="2006-12-16T03:19:53+00:00">
+<div class="post" data-post-id="15652" data-author="12345" data-date="2006-12-16T03:19:53+00:00" data-subject="">
 
 Popped from Infernite Smith:
 
@@ -78,7 +78,7 @@ A messenger will be departing to retrieve them from you shortly.
 
 </div>
 
-<div class="post" data-post-id="15653" data-author="Firon" data-date="2006-12-16T03:20:02+00:00">
+<div class="post" data-post-id="15653" data-author="Firon" data-date="2006-12-16T03:20:02+00:00" data-subject="">
 
 Smith in Infernites was killed, not sure who got that note. Then the enslaved ogre blacksmith started bragging and he was easily dispatched.
 
@@ -96,7 +96,7 @@ molds to the one known as Uralt-Ubel and you shall become an immortal legend.
 
 </div>
 
-<div class="post" data-post-id="15654" data-author="Firon" data-date="2006-12-16T03:45:37+00:00">
+<div class="post" data-post-id="15654" data-author="Firon" data-date="2006-12-16T03:45:37+00:00" data-subject="">
 
 The messenger was found at last. Turns out the traitorous gold dragon was back at the BH royal smith delivering something.
 
@@ -108,7 +108,7 @@ My master, your master, Malign requests your next batch of alloy.
 
 </div>
 
-<div class="post" data-post-id="15655" data-author="Firon" data-date="2006-12-16T03:53:21+00:00">
+<div class="post" data-post-id="15655" data-author="Firon" data-date="2006-12-16T03:53:21+00:00" data-subject="">
 
 Someone found that the mage in Drac Lair had a note on him too. This is what we found:
 
@@ -120,7 +120,7 @@ your soul for it holds the demise of the wretched avatars.
 
 </div>
 
-<div class="post" data-post-id="15656" data-author="Firon" data-date="2006-12-16T04:18:42+00:00">
+<div class="post" data-post-id="15656" data-author="Firon" data-date="2006-12-16T04:18:42+00:00" data-subject="">
 
 As for the spy, we first tried killing the spy that was part of Drac Lair which had nothing. Then an elven spy started gossiping and appeared in the area along with the humming dragon from Orc Mines. We went to kill the dragon and I (with my incomplete scripts working with me) still had spy targeted and managed to irk the elven spy a bit. We killed the dragon successfully and Popa was able to spirit the information from the elven spy after he was nuked out of the room.
 
@@ -152,7 +152,7 @@ return you to the skies.
 
 </div>
 
-<div class="post" data-post-id="15657" data-author="Firon" data-date="2006-12-16T04:25:08+00:00">
+<div class="post" data-post-id="15657" data-author="Firon" data-date="2006-12-16T04:25:08+00:00" data-subject="">
 
 An item was popped off the Master Draconian Mage in Drac Lair that is related to the quest. Here is the info off it.
 
@@ -170,7 +170,7 @@ of five souls dying simultaneously...It has a soft glowing aura!
 
 </div>
 
-<div class="post" data-post-id="15658" data-author="Hotara" data-date="2006-12-16T05:22:23+00:00">
+<div class="post" data-post-id="15658" data-author="Hotara" data-date="2006-12-16T05:22:23+00:00" data-subject="">
 
 A plaque was erected at Malign with the following message
 
@@ -188,13 +188,13 @@ turned to stone.  Signed- the creators Jake, Krom, and Eon.
 
 </div>
 
-<div class="post" data-post-id="15662" data-author="13" data-date="2006-12-16T22:13:19+00:00">
+<div class="post" data-post-id="15662" data-author="13" data-date="2006-12-16T22:13:19+00:00" data-subject="">
 
 so what's going on here?
 
 </div>
 
-<div class="post" data-post-id="15663" data-author="Avatar" data-date="2006-12-17T14:42:11+00:00">
+<div class="post" data-post-id="15663" data-author="Avatar" data-date="2006-12-17T14:42:11+00:00" data-subject="notes">
 
 Seems like it was a quest - and the day before I returned too!
 
@@ -202,13 +202,13 @@ Seems like it was a quest - and the day before I returned too!
 
 </div>
 
-<div class="post" data-post-id="15665" data-author="12345" data-date="2006-12-17T17:31:12+00:00">
+<div class="post" data-post-id="15665" data-author="12345" data-date="2006-12-17T17:31:12+00:00" data-subject="">
 
 It was a surprise Friday night quest.  Malign got a bunch of smiths from around Sloth to forge up and drop anvils on us.  They did a few thousand points of damage when they fell out of the sky and pummeled you. Lots of raising, etc.
 
 </div>
 
-<div class="post" data-post-id="15666" data-author="Hotara" data-date="2006-12-17T20:02:06+00:00">
+<div class="post" data-post-id="15666" data-author="Hotara" data-date="2006-12-17T20:02:06+00:00" data-subject="">
 
 Alright, here's the gist of it.
 
@@ -380,13 +380,13 @@ Personally, I think Kheldar, Lis, Firon and Alias showed great knowledge and ski
 
 </div>
 
-<div class="post" data-post-id="15668" data-author="13" data-date="2006-12-18T13:32:41+00:00">
+<div class="post" data-post-id="15668" data-author="13" data-date="2006-12-18T13:32:41+00:00" data-subject="">
 
 so what items were given out?
 
 </div>
 
-<div class="post" data-post-id="15670" data-author="Leaf" data-date="2006-12-18T16:49:23+00:00">
+<div class="post" data-post-id="15670" data-author="Leaf" data-date="2006-12-18T16:49:23+00:00" data-subject="">
 
 10 drachma
 

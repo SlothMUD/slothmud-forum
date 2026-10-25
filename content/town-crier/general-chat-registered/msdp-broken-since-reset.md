@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="39812" data-author="Gorka" data-date="2021-09-06T19:14:50+00:00">
+<div class="post" data-post-id="39812" data-author="Gorka" data-date="2021-09-06T19:14:50+00:00" data-subject="MSDP Broken Since Reset?">
 
 ```
 Welcome back Gorka!  Press return to continue...
@@ -26,7 +26,7 @@ None of my MSDP is working since reset.
 
 </div>
 
-<div class="post" data-post-id="39813" data-author="Gorka" data-date="2021-09-06T20:25:12+00:00">
+<div class="post" data-post-id="39813" data-author="Gorka" data-date="2021-09-06T20:25:12+00:00" data-subject="Re: MSDP Broken Since Reset?">
 
 Turns out a setup trigger wasn't firing due to the Arglebargle, glop-glyf!?!
 
@@ -34,7 +34,7 @@ I fixed the trigger and everything now works... however I think the issue on log
 
 </div>
 
-<div class="post" data-post-id="39814" data-author="cnl" data-date="2021-09-07T00:31:31+00:00">
+<div class="post" data-post-id="39814" data-author="cnl" data-date="2021-09-07T00:31:31+00:00" data-subject="Re: MSDP Broken Since Reset?">
 
 I have mxp disabled in mudlet settings because it's buggy 
 
@@ -60,13 +60,13 @@ which looks like MXP plaintext mixed in for some reason even though I have it tu
 
 </div>
 
-<div class="post" data-post-id="39815" data-author="*teker*" data-date="2021-09-08T19:47:28+00:00">
+<div class="post" data-post-id="39815" data-author="*teker*" data-date="2021-09-08T19:47:28+00:00" data-subject="Re: MSDP Broken Since Reset?">
 
 I believe this will be fixed at next reboot.  I was working on cleaning up some of the comm code (to try to figure out some of the MXP issues) and I think it accidentally got put into production.
 
 </div>
 
-<div class="post" data-post-id="39837" data-author="cnl" data-date="2021-10-10T06:16:34+00:00">
+<div class="post" data-post-id="39837" data-author="cnl" data-date="2021-10-10T06:16:34+00:00" data-subject="Re: MSDP Broken Since Reset?">
 
 is there something that has broken msdp for SAVING_SPELL in CHARACTER_AFFECTS for "item-generated'
 
@@ -96,7 +96,7 @@ EDIT: Did confirm with 2 9x40s that it's not showing properly for them anymore e
 
 </div>
 
-<div class="post" data-post-id="39838" data-author="Insomnia" data-date="2021-10-10T19:32:43+00:00">
+<div class="post" data-post-id="39838" data-author="Insomnia" data-date="2021-10-10T19:32:43+00:00" data-subject="Re: MSDP Broken Since Reset?">
 
 Umm, how did you rely on a non-existent thing? Are you sure you're looking into the right place?
 
@@ -106,7 +106,7 @@ I only use msdp.CHARACTER_STATISTICS.SAVING_THROWS.SPELL.MODIFIER – what's you
 
 </div>
 
-<div class="post" data-post-id="39839" data-author="cnl" data-date="2021-10-10T23:18:41+00:00">
+<div class="post" data-post-id="39839" data-author="cnl" data-date="2021-10-10T23:18:41+00:00" data-subject="Re: MSDP Broken Since Reset?">
 
 hmmm.. I think you're right. what the heck is my script doing.
 

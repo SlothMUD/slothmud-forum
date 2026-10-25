@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35344" data-author="*Neptune*" data-date="2014-06-15T18:45:10+00:00">
+<div class="post" data-post-id="35344" data-author="*Neptune*" data-date="2014-06-15T18:45:10+00:00" data-subject="Song of Ebisu">
 
 Greetings.
 

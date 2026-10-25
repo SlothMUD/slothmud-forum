@@ -10,13 +10,13 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="25733" data-author="Alberich" data-date="2008-08-13T18:06:49+00:00">
+<div class="post" data-post-id="25733" data-author="Alberich" data-date="2008-08-13T18:06:49+00:00" data-subject="now that&#x27;s an epic">
 
 [url:e1lgkwbz]http://petfoodalpha.com/?p=1055[/url:e1lgkwbz]
 
 </div>
 
-<div class="post" data-post-id="25737" data-author="Yasik2" data-date="2008-08-13T20:15:07+00:00">
+<div class="post" data-post-id="25737" data-author="Yasik2" data-date="2008-08-13T20:15:07+00:00" data-subject="">
 
 18 hours...
 
@@ -30,7 +30,7 @@ i'm sure they picked wrong strategy
 
 </div>
 
-<div class="post" data-post-id="25740" data-author="Sind" data-date="2008-08-14T16:41:59+00:00">
+<div class="post" data-post-id="25740" data-author="Sind" data-date="2008-08-14T16:41:59+00:00" data-subject="">
 
 Speaking of games.
 
@@ -44,7 +44,7 @@ But hell, when u're young (or feel so :) its all a cake walk.
 
 </div>
 
-<div class="post" data-post-id="25743" data-author="Yasik2" data-date="2008-08-14T22:33:58+00:00">
+<div class="post" data-post-id="25743" data-author="Yasik2" data-date="2008-08-14T22:33:58+00:00" data-subject="">
 
 And even Yasik can watch cartoons for 18 hours, but when u need to focus hard all the time, its a bit different :)
 
@@ -56,7 +56,7 @@ Reading subtitles without pausing play aint shit, i'd say!  :D
 
 </div>
 
-<div class="post" data-post-id="25824" data-author="angel" data-date="2008-08-19T05:31:50+00:00">
+<div class="post" data-post-id="25824" data-author="angel" data-date="2008-08-19T05:31:50+00:00" data-subject="">
 
 u aint seen me in action:))
 

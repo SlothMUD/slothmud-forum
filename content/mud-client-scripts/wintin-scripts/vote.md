@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="3277" data-author="guest" data-date="2004-12-12T20:11:32+00:00">
+<div class="post" data-post-id="3277" data-author="guest" data-date="2004-12-12T20:11:32+00:00" data-subject="#vote">
 
 (copy/paste from wintin.net forum)
 
@@ -34,7 +34,7 @@ just double click on the file to install it.
 
 </div>
 
-<div class="post" data-post-id="3278" data-author="Qa" data-date="2004-12-12T23:44:54+00:00">
+<div class="post" data-post-id="3278" data-author="Qa" data-date="2004-12-12T23:44:54+00:00" data-subject="">
 
 Ya know, Isabo has a nice left cheek.
 
@@ -42,7 +42,7 @@ Ya know, Isabo has a nice left cheek.
 
 </div>
 
-<div class="post" data-post-id="3279" data-author="Avatar" data-date="2004-12-13T05:14:56+00:00">
+<div class="post" data-post-id="3279" data-author="Avatar" data-date="2004-12-13T05:14:56+00:00" data-subject="Isabo">
 
 I was going to say, she looks just like my Peri.  Drroooool.
 
@@ -50,7 +50,7 @@ My older brother had a print of that painting when I was a kid.  It's always bee
 
 </div>
 
-<div class="post" data-post-id="3283" data-author="Zeizel" data-date="2004-12-13T18:07:17+00:00">
+<div class="post" data-post-id="3283" data-author="Zeizel" data-date="2004-12-13T18:07:17+00:00" data-subject="">
 
 Is this available in WinTin.NET?  I just upgraded to the latest version Saturday night, but it said #vote is not a valid command... I'm running version 0.70.
 

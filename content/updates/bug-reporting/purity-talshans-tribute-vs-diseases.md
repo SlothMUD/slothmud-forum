@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36014" data-author="Dragoth" data-date="2015-08-07T10:02:31+00:00">
+<div class="post" data-post-id="36014" data-author="Dragoth" data-date="2015-08-07T10:02:31+00:00" data-subject="Purity + Talshans tribute vs diseases">
 
 I have 10 casts of Talshans tribute on me together with Purity yet when i run with Cacodaemon pet i get diseased every 2 minutes anyway, whats up with that ?
 
@@ -38,7 +38,7 @@ the stronger your resistance is.
 
 </div>
 
-<div class="post" data-post-id="36024" data-author="DarkArtist" data-date="2015-08-10T16:53:21+00:00">
+<div class="post" data-post-id="36024" data-author="DarkArtist" data-date="2015-08-10T16:53:21+00:00" data-subject="Re: Purity + Talshans tribute vs diseases">
 
 The proc on cacodaemon was only coded to consider Talshan's diablerie. I added tribute and purity.
 
@@ -48,7 +48,7 @@ Try it out.
 
 </div>
 
-<div class="post" data-post-id="36025" data-author="Dragoth" data-date="2015-08-11T08:51:00+00:00">
+<div class="post" data-post-id="36025" data-author="Dragoth" data-date="2015-08-11T08:51:00+00:00" data-subject="Re: Purity + Talshans tribute vs diseases">
 
 Thanks!
 

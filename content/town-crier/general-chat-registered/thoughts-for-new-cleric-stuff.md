@@ -10,7 +10,7 @@ locked: false
 post_count: 24
 ---
 
-<div class="post" data-post-id="12756" data-author="madmax" data-date="2006-05-28T04:03:41+00:00">
+<div class="post" data-post-id="12756" data-author="madmax" data-date="2006-05-28T04:03:41+00:00" data-subject="Thoughts for New Cleric Stuff">
 
 During Blasters quest today, I found myself yet again as a Cleric Prime religated down to Raise Duty.  I rarely had any mana.  The Druids in the group on the other hand, constantly had mana from out short regens.
 
@@ -24,25 +24,25 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="12757" data-author="kjartan" data-date="2006-05-28T07:54:01+00:00">
+<div class="post" data-post-id="12757" data-author="kjartan" data-date="2006-05-28T07:54:01+00:00" data-subject="">
 
 Try a valkyrie.
 
 </div>
 
-<div class="post" data-post-id="12758" data-author="Gimlet" data-date="2006-05-28T08:22:49+00:00">
+<div class="post" data-post-id="12758" data-author="Gimlet" data-date="2006-05-28T08:22:49+00:00" data-subject="">
 
 quite a good suggestion actually...warcry giving different bonuses depending on your prime class :)
 
 </div>
 
-<div class="post" data-post-id="12761" data-author="*Splork*" data-date="2006-05-28T18:41:04+00:00">
+<div class="post" data-post-id="12761" data-author="*Splork*" data-date="2006-05-28T18:41:04+00:00" data-subject="">
 
 I'd like to know who was ahead of you in the healo...Character names pls.
 
 </div>
 
-<div class="post" data-post-id="12762" data-author="Medios" data-date="2006-05-28T19:37:32+00:00">
+<div class="post" data-post-id="12762" data-author="Medios" data-date="2006-05-28T19:37:32+00:00" data-subject="">
 
 (Ba 5.00) Minstrel 
 
@@ -124,7 +124,7 @@ healo bottom up. shyla wasnt in and daedalus had to leave before real action.  D
 
 </div>
 
-<div class="post" data-post-id="12763" data-author="*Splork*" data-date="2006-05-28T20:18:48+00:00">
+<div class="post" data-post-id="12763" data-author="*Splork*" data-date="2006-05-28T20:18:48+00:00" data-subject="">
 
 Thats pretty much what I figured Minstrel...
 
@@ -134,13 +134,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="12765" data-author="Avatar" data-date="2006-05-28T20:38:50+00:00">
+<div class="post" data-post-id="12765" data-author="Avatar" data-date="2006-05-28T20:38:50+00:00" data-subject="Druid healers">
 
 Sorry, I wasn't online for that quest.
 
 </div>
 
-<div class="post" data-post-id="12767" data-author="*Splork*" data-date="2006-05-28T20:52:25+00:00">
+<div class="post" data-post-id="12767" data-author="*Splork*" data-date="2006-05-28T20:52:25+00:00" data-subject="">
 
 And if you had mage in your class order, chances are you would of been in the blasto. Maybe the problem lies in the fact you are not shifting...
 
@@ -150,7 +150,7 @@ Maybe druid regen is still too high...
 
 </div>
 
-<div class="post" data-post-id="12768" data-author="Mystery" data-date="2006-05-28T21:44:19+00:00">
+<div class="post" data-post-id="12768" data-author="Mystery" data-date="2006-05-28T21:44:19+00:00" data-subject="Druid Regen Too High?">
 
 I fail to see how this makes them superior to clerics when it comes to healo? Besides having quicker mana at their disposal, I say again, I'd rather let a cleric prime handle heals so I can use my mana for other stuff.. I admit not many druids play the 'shifter' role but I'm sure many would agree they'd like to use their mana as they see fit instead of being  designated prime Healo.I feel a nerfing to the druid class coming but thats not a big deal.. I've played monk and necro before those were nerfed so I'm used to it. However, whether regen rates for druid happens or not, I think the primary issue is that 
 
@@ -160,7 +160,7 @@ Once again... don't smoke and post.. it might seem scattered :twisted:
 
 </div>
 
-<div class="post" data-post-id="12769" data-author="Medios" data-date="2006-05-28T21:57:13+00:00">
+<div class="post" data-post-id="12769" data-author="Medios" data-date="2006-05-28T21:57:13+00:00" data-subject="">
 
 I doubt druid regen rates are nerfed.  The bonus only applies outdoors.  One problem I notice is that players see Daedalus in a group and they think.  Darn these druids.  Let me tell you that char is not the average run of the mill druid.  We have spent alot of time trying to figure out the best gear and getting xp.  By the argument that your putting out, Druids are best at anything that requires mana.  Better blastos since they can regen faster, better healers since they regen faster, hell they even web better!  Just remember that druids dont really get any prime only benefits, no pit fiend, no spelldamage, no healbonus, nothing other than outdoors regen, a little more powerful shifts and canopied arbor which doesnt work in 95% of applications.  If you took away druid regen what would the point of the class even be.  Like Aaron always says, fluidity and elemental resistance arent enough to even consider a class.  This is almost like mages crying that they have to heal, except its clerics whining about blasting?
 
@@ -172,7 +172,7 @@ PS   Forgot about shield of thorns, thats how much it matters.
 
 </div>
 
-<div class="post" data-post-id="12770" data-author="*Splork*" data-date="2006-05-28T21:59:16+00:00">
+<div class="post" data-post-id="12770" data-author="*Splork*" data-date="2006-05-28T21:59:16+00:00" data-subject="">
 
 That was actually my point Medios:P If a druid doesn't shift, you have to put them in another spot that is most beneficial to a group. If thats a druid cleric, than its healo, if its a druid mage than its the blasto. I don't see it as a problem. 
 
@@ -180,7 +180,7 @@ We are definately not amping heal spells anymore than they have been already. Th
 
 </div>
 
-<div class="post" data-post-id="12772" data-author="Avatar" data-date="2006-05-28T22:21:02+00:00">
+<div class="post" data-post-id="12772" data-author="Avatar" data-date="2006-05-28T22:21:02+00:00" data-subject="clerics again">
 
 If we're talking about druid regen rates, I think we may fix the wrong problem.
 
@@ -188,7 +188,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="12773" data-author="*Splork*" data-date="2006-05-28T22:36:33+00:00">
+<div class="post" data-post-id="12773" data-author="*Splork*" data-date="2006-05-28T22:36:33+00:00" data-subject="">
 
 Actually the only thing with druid regen rates is that at one time it triggered off of the sector Outside. At the time, it was a very small % of sloth rooms. The problem that has arisen is this, we have since redone all of sloth's sectors and now a great deal of sloth's rooms are within this Outside macro. 
 
@@ -198,7 +198,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="12774" data-author="Avatar" data-date="2006-05-28T23:37:28+00:00">
+<div class="post" data-post-id="12774" data-author="Avatar" data-date="2006-05-28T23:37:28+00:00" data-subject="clerics again">
 
 I can't reply to the cleric change thread, so I'll say thanks here.  I'm sure I speak for most - if not all - of the cleric primes if I say Thanks! and we appreciate the effort.
 
@@ -206,7 +206,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="12775" data-author="SirRobin" data-date="2006-05-29T00:28:49+00:00">
+<div class="post" data-post-id="12775" data-author="SirRobin" data-date="2006-05-29T00:28:49+00:00" data-subject="Don&#x27;t Neuter Druids!">
 
 If the decision is made to 'adjust' Druids to solve the Cleric problem, maybe all you really need to do is change one spell. Instead of the Heal spell, give them a new spell that heals only themselves. Call it something like Natures Boon.
 
@@ -214,7 +214,7 @@ SirRobin
 
 </div>
 
-<div class="post" data-post-id="12778" data-author="Avatar" data-date="2006-05-29T02:25:37+00:00">
+<div class="post" data-post-id="12778" data-author="Avatar" data-date="2006-05-29T02:25:37+00:00" data-subject="Valkyrie">
 
 KJ:
 
@@ -230,7 +230,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="12780" data-author="Zam" data-date="2006-05-29T04:25:10+00:00">
+<div class="post" data-post-id="12780" data-author="Zam" data-date="2006-05-29T04:25:10+00:00" data-subject="">
 
 druids , clerics ... thats not a problem , kids. SMALL QUEST GROUP W/O A THIEF!! - thaaats the problem! Time to change smth , bla bla bla ))
 
@@ -238,13 +238,13 @@ P.S. if ya dont like your classo - stfu and make a new char (c)
 
 </div>
 
-<div class="post" data-post-id="12781" data-author="Gimlet" data-date="2006-05-29T07:14:41+00:00">
+<div class="post" data-post-id="12781" data-author="Gimlet" data-date="2006-05-29T07:14:41+00:00" data-subject="">
 
 P.S.  If you don't the way ppl post on the crier STFU and choose a new mud
 
 </div>
 
-<div class="post" data-post-id="12782" data-author="Zam" data-date="2006-05-29T07:33:05+00:00">
+<div class="post" data-post-id="12782" data-author="Zam" data-date="2006-05-29T07:33:05+00:00" data-subject="">
 
 Hello Gimlet
 
@@ -254,7 +254,7 @@ thanks!
 
 </div>
 
-<div class="post" data-post-id="12783" data-author="Gimlet" data-date="2006-05-29T07:36:36+00:00">
+<div class="post" data-post-id="12783" data-author="Gimlet" data-date="2006-05-29T07:36:36+00:00" data-subject="">
 
 *yawn*
 
@@ -262,7 +262,7 @@ Lamer of the year award goes to Zam
 
 </div>
 
-<div class="post" data-post-id="12788" data-author="kjartan" data-date="2006-05-29T15:59:59+00:00">
+<div class="post" data-post-id="12788" data-author="kjartan" data-date="2006-05-29T15:59:59+00:00" data-subject="">
 
 Fixed the valkyrie bug that caused her to heal your enemies.
 
@@ -270,13 +270,13 @@ Possibly fixed the bug that made her steal kills as well; in a group, she should
 
 </div>
 
-<div class="post" data-post-id="12791" data-author="12345" data-date="2006-05-30T03:49:23+00:00">
+<div class="post" data-post-id="12791" data-author="12345" data-date="2006-05-30T03:49:23+00:00" data-subject="">
 
 Thanks for the work on supplication Kj.  Nice cleric bonus.
 
 </div>
 
-<div class="post" data-post-id="12793" data-author="Avatar" data-date="2006-05-30T14:17:48+00:00">
+<div class="post" data-post-id="12793" data-author="Avatar" data-date="2006-05-30T14:17:48+00:00" data-subject="Valkyrie">
 
 I meant to try the valkyrie again over the weekend, but it didn't work out.  I had my alignment all prepared and had a stack of evil corpses hidden away.  Unfortunately, the first two ss eq mobs we hit were both good aligned. 
 
@@ -286,7 +286,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="12795" data-author="12345" data-date="2006-05-30T15:52:11+00:00">
+<div class="post" data-post-id="12795" data-author="12345" data-date="2006-05-30T15:52:11+00:00" data-subject="">
 
 Not an uncommon problem.  Seems I spend a lot of time planning around alignment lately.  Seems a lot easier to plan on and use the evil supps though.  Nightmare being the one I see most commonly.
 

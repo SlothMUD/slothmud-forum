@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="9306" data-author="Turbo" data-date="2005-10-29T15:53:04+00:00">
+<div class="post" data-post-id="9306" data-author="Turbo" data-date="2005-10-29T15:53:04+00:00" data-subject="Turbo trip to Asia &amp; The Orient">
 
 Hello everyone!
 
@@ -56,7 +56,7 @@ Here is a link for more info on the trip:  [<LINK_TEXT text="http://www.princess
 
 </div>
 
-<div class="post" data-post-id="9448" data-author="Turbo" data-date="2005-11-10T02:25:23+00:00">
+<div class="post" data-post-id="9448" data-author="Turbo" data-date="2005-11-10T02:25:23+00:00" data-subject="">
 
 Princess updated their website, this is the new link to my itinerary
 
@@ -64,7 +64,7 @@ Princess updated their website, this is the new link to my itinerary
 
 </div>
 
-<div class="post" data-post-id="9452" data-author="Qa" data-date="2005-11-10T14:02:08+00:00">
+<div class="post" data-post-id="9452" data-author="Qa" data-date="2005-11-10T14:02:08+00:00" data-subject="">
 
 That looks like quite a trip, Al - enjoy.
 

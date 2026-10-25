@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="30809" data-author="*Splork*" data-date="2010-02-03T03:28:05+00:00">
+<div class="post" data-post-id="30809" data-author="*Splork*" data-date="2010-02-03T03:28:05+00:00" data-subject="Talking Mobs!">
 
 We are extremely excited to officially announce phase one of our talking mob code. This code will make mobs respond to players using say, tell, and ask to make statements and questions in plain English.    It works like this:
 
@@ -42,7 +42,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30811" data-author="Tuck" data-date="2010-02-03T11:00:52+00:00">
+<div class="post" data-post-id="30811" data-author="Tuck" data-date="2010-02-03T11:00:52+00:00" data-subject="">
 
 You tell Elena, Keeper of the Gardens 'who is toxis?'
 
@@ -52,7 +52,7 @@ lol
 
 </div>
 
-<div class="post" data-post-id="30816" data-author="Vixn" data-date="2010-02-04T18:43:04+00:00">
+<div class="post" data-post-id="30816" data-author="Vixn" data-date="2010-02-04T18:43:04+00:00" data-subject="">
 
 You gave them the ability to speak,
 
@@ -62,13 +62,13 @@ P.S. Do you think they could pass Turing test?
 
 </div>
 
-<div class="post" data-post-id="30820" data-author="Clink" data-date="2010-02-05T03:30:31+00:00">
+<div class="post" data-post-id="30820" data-author="Clink" data-date="2010-02-05T03:30:31+00:00" data-subject="">
 
 Pretty sure I wouldn't pass a Turing test.
 
 </div>
 
-<div class="post" data-post-id="30869" data-author="*Splork*" data-date="2010-02-08T04:10:27+00:00">
+<div class="post" data-post-id="30869" data-author="*Splork*" data-date="2010-02-08T04:10:27+00:00" data-subject="">
 
 Fixed a couple smaller bugs regarding this topic.
 

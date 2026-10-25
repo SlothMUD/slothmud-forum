@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="36839" data-author="Yasik" data-date="2016-04-15T03:24:51+00:00">
+<div class="post" data-post-id="36839" data-author="Yasik" data-date="2016-04-15T03:24:51+00:00" data-subject="Gems/Runes auction house">
 
 Since a big chunk of playerbase always looking to trade gems/runes, maybe its a good idea to provide ingame mechanics for that; BH Jeweller Shop can be a good place for this.
 
@@ -114,7 +114,7 @@ As for actually consigning gems, dont have any ideas about how to enumerate gems
 
 </div>
 
-<div class="post" data-post-id="36841" data-author="Josiah" data-date="2016-04-15T04:11:04+00:00">
+<div class="post" data-post-id="36841" data-author="Josiah" data-date="2016-04-15T04:11:04+00:00" data-subject="Re: Gems/Runes auction house">
 
 You don't have to wait for this to be implemented in game.  Any decent web developer could build a website to facilitate gem trades.  I'd like to think our immorts have more exciting plans for their limited coding time.
 
@@ -204,7 +204,7 @@ _______________________________________________________________________
 
 </div>
 
-<div class="post" data-post-id="36842" data-author="Teron" data-date="2016-04-15T04:36:07+00:00">
+<div class="post" data-post-id="36842" data-author="Teron" data-date="2016-04-15T04:36:07+00:00" data-subject="Re: Gems/Runes auction house">
 
 I've been contemplating an idea for this trade website for a while, but so far I don't want it to be a separate website, so it has to be done by Breeze for this website, because it uses WordPress (and I prefer Drupal).
 
@@ -224,7 +224,7 @@ Offers:
 
 </div>
 
-<div class="post" data-post-id="36843" data-author="Yasik" data-date="2016-04-15T04:58:55+00:00">
+<div class="post" data-post-id="36843" data-author="Yasik" data-date="2016-04-15T04:58:55+00:00" data-subject="Re: Gems/Runes auction house">
 
 Possible solution can be limiting # of lots per player to 5, for example.
 
@@ -232,7 +232,7 @@ Let them to decide what is most important to trade faster, and what can be delay
 
 </div>
 
-<div class="post" data-post-id="36851" data-author="Teron" data-date="2016-04-15T06:33:18+00:00">
+<div class="post" data-post-id="36851" data-author="Teron" data-date="2016-04-15T06:33:18+00:00" data-subject="Re: Gems/Runes auction house">
 
 Yes, preference can be a factor in trading.
 
@@ -256,7 +256,7 @@ What else do players need to trade effectively?
 
 </div>
 
-<div class="post" data-post-id="36857" data-author="*Breeze*" data-date="2016-04-18T03:13:28+00:00">
+<div class="post" data-post-id="36857" data-author="*Breeze*" data-date="2016-04-18T03:13:28+00:00" data-subject="Re: Gems/Runes auction house">
 
 not completely on topic but...
 
@@ -274,7 +274,7 @@ not completely on topic but...
 
 </div>
 
-<div class="post" data-post-id="36862" data-author="*teker*" data-date="2016-04-19T21:08:47+00:00">
+<div class="post" data-post-id="36862" data-author="*teker*" data-date="2016-04-19T21:08:47+00:00" data-subject="Re: Gems/Runes auction house">
 
 > **Quote:**
 > feel free to get teker to work on it if he has the time.

@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="31655" data-author="Dragoth" data-date="2010-09-01T09:27:52+00:00">
+<div class="post" data-post-id="31655" data-author="Dragoth" data-date="2010-09-01T09:27:52+00:00" data-subject="Testing the stab, spoiler alert!">
 
 Right, after finding this little gem in the mud i was pretty excited as i could do what i love doing most of all.. TESTING! 
 
@@ -1094,7 +1094,7 @@ I guess depending on mobs levels you can get anywhere between 50% of the damage 
 
 </div>
 
-<div class="post" data-post-id="31656" data-author="Dragoth" data-date="2010-09-01T09:48:53+00:00">
+<div class="post" data-post-id="31656" data-author="Dragoth" data-date="2010-09-01T09:48:53+00:00" data-subject="Re: Testing the stab, spoiler alert!">
 
 The idea that stab damage depends on the mobs levels is further confirmed by this
 
@@ -1204,7 +1204,7 @@ Your blood freezes as you hear the skeletal claw of a dwarven animal control off
 
 </div>
 
-<div class="post" data-post-id="31657" data-author="jezer" data-date="2010-09-01T10:17:42+00:00">
+<div class="post" data-post-id="31657" data-author="jezer" data-date="2010-09-01T10:17:42+00:00" data-subject="Re: Testing the stab, spoiler alert!">
 
 Heh, whats the bet they remove the 1d1 item, and then change the code.  :twisted: 
 
@@ -1222,7 +1222,7 @@ As for different damages for different classes, it could be inbuilt ac. But stil
 
 </div>
 
-<div class="post" data-post-id="31658" data-author="Dragoth" data-date="2010-09-01T10:29:42+00:00">
+<div class="post" data-post-id="31658" data-author="Dragoth" data-date="2010-09-01T10:29:42+00:00" data-subject="Re: Testing the stab, spoiler alert!">
 
 Actually its 7dam +4 stabdam Jez, it was a typo which i corrected - there are no bugs as far as im aware related to stabdam, it does what it does - always adding the exact damage to your stab unlike normal damage that fluctuates.
 
@@ -1230,7 +1230,7 @@ I now have absolute certainty that all the differences in damage we saw from sta
 
 </div>
 
-<div class="post" data-post-id="31659" data-author="Dragoth" data-date="2010-09-01T10:54:00+00:00">
+<div class="post" data-post-id="31659" data-author="Dragoth" data-date="2010-09-01T10:54:00+00:00" data-subject="Re: Testing the stab, spoiler alert!">
 
 However, with this test the rough multiplier pattern can now be seen, as while stabbing  different players with different dam the damage is added and reduced in the same proportion. 
 
@@ -1248,7 +1248,7 @@ So if the multiplier is 5-7 then at 20 damage i will have 100-140 damage that wo
 
 </div>
 
-<div class="post" data-post-id="31661" data-author="*Splork*" data-date="2010-09-01T15:14:22+00:00">
+<div class="post" data-post-id="31661" data-author="*Splork*" data-date="2010-09-01T15:14:22+00:00" data-subject="Re: Testing the stab, spoiler alert!">
 
 There is no saves aspects to a backstab and from what I remember( and just looked at) mob level does not play a part in the calculation( the stats are most likely showing a reduction caused by max hps, not level). LArger creatures can be stabbed for larger amounts of damage. Stabs In sloth3 were doing upwards of 1000-1250 hps and we are on pace for very similar damage, and probably more, when and if Cizin reaches Avatar 40.
 
@@ -1316,13 +1316,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31688" data-author="Thraxas" data-date="2010-09-02T19:14:27+00:00">
+<div class="post" data-post-id="31688" data-author="Thraxas" data-date="2010-09-02T19:14:27+00:00" data-subject="Re: Testing the stab, spoiler alert!">
 
 overpowered feefs
 
 </div>
 
-<div class="post" data-post-id="31696" data-author="Dragoth" data-date="2010-09-03T09:56:20+00:00">
+<div class="post" data-post-id="31696" data-author="Dragoth" data-date="2010-09-03T09:56:20+00:00" data-subject="Re: Testing the stab, spoiler alert!">
 
 Yes, thraxas , overpowered ~
 
@@ -1406,7 +1406,7 @@ Im not complaining, im happy with my thief and i think Cizin is too, but to get 
 
 </div>
 
-<div class="post" data-post-id="31708" data-author="Belion" data-date="2010-09-05T04:44:38+00:00">
+<div class="post" data-post-id="31708" data-author="Belion" data-date="2010-09-05T04:44:38+00:00" data-subject="Re: Testing the stab, spoiler alert!">
 
 Well Splork has already sorted this out, let me just add a couple of numbers from S3 code - please note the numbers most likely have changed since then, but you can get the idea anyway.
 
@@ -1422,7 +1422,7 @@ Again this most likely has been changed, and also iirc stab damage would calcula
 
 </div>
 
-<div class="post" data-post-id="31709" data-author="Dragoth" data-date="2010-09-05T07:31:20+00:00">
+<div class="post" data-post-id="31709" data-author="Dragoth" data-date="2010-09-05T07:31:20+00:00" data-subject="Re: Testing the stab, spoiler alert!">
 
 From the tests above it's pretty obvious that the multi is not 9, as you get anywhere from 5 to 9 hp damage from every damage point, so the code was changed from what you have bel.
 

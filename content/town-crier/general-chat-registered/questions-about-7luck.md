@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="37162" data-author="Hung" data-date="2016-08-02T10:48:45+00:00">
+<div class="post" data-post-id="37162" data-author="Hung" data-date="2016-08-02T10:48:45+00:00" data-subject="questions about 7luck">
 
 Sir Teker,
 
@@ -24,13 +24,13 @@ I've heard various opinions about it.
 
 </div>
 
-<div class="post" data-post-id="37166" data-author="*teker*" data-date="2016-08-03T23:07:47+00:00">
+<div class="post" data-post-id="37166" data-author="*teker*" data-date="2016-08-03T23:07:47+00:00" data-subject="Re: questions about 7luck">
 
 I don't see anything in the code that would limit the song based on continent under any circumstances.
 
 </div>
 
-<div class="post" data-post-id="37168" data-author="Hung" data-date="2016-08-04T10:19:28+00:00">
+<div class="post" data-post-id="37168" data-author="Hung" data-date="2016-08-04T10:19:28+00:00" data-subject="Re: questions about 7luck">
 
 Thanks, T!
 

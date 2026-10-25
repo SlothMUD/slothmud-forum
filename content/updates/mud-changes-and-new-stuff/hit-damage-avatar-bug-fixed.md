@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30958" data-author="*Splork*" data-date="2010-03-13T14:11:46+00:00">
+<div class="post" data-post-id="30958" data-author="*Splork*" data-date="2010-03-13T14:11:46+00:00" data-subject="hit &amp; damage Avatar bug fixed">
 
 After receiving several reports regarding Avatar 1 not giving hit and damage, the most recent by Blackmore, I checked out the charts and found the bug.
 

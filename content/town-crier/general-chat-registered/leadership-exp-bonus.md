@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34044" data-author="Dragoth" data-date="2013-02-16T16:38:47+00:00">
+<div class="post" data-post-id="34044" data-author="Dragoth" data-date="2013-02-16T16:38:47+00:00" data-subject="Leadership EXP Bonus">
 
 Offlyme:
 
@@ -40,13 +40,13 @@ This exp bonus is only given to the leader and is calculated from your share of 
 
 </div>
 
-<div class="post" data-post-id="34045" data-author="*Splork*" data-date="2013-02-16T19:49:11+00:00">
+<div class="post" data-post-id="34045" data-author="*Splork*" data-date="2013-02-16T19:49:11+00:00" data-subject="Re: Leadership EXP Bonus">
 
 Off Lyme tank experience bonus is the same as on Lyme leadership bonus.
 
 </div>
 
-<div class="post" data-post-id="34048" data-author="Tuck" data-date="2013-02-19T13:40:35+00:00">
+<div class="post" data-post-id="34048" data-author="Tuck" data-date="2013-02-19T13:40:35+00:00" data-subject="Re: Leadership EXP Bonus">
 
 Nice!
 

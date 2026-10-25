@@ -10,7 +10,7 @@ locked: false
 post_count: 35
 ---
 
-<div class="post" data-post-id="38000" data-author="Gorka" data-date="2017-01-28T18:40:00+00:00">
+<div class="post" data-post-id="38000" data-author="Gorka" data-date="2017-01-28T18:40:00+00:00" data-subject="Mudlet 3.0.0-delta Mapper">
 
 Yesterday I found the desire to start playing around with the Mudlet Mapper and after many, many hours of struggle I managed to get it functioning today... but not without problems that I thought I would share with you, as there is obviously a fair bit of interest in getting the mapper working for SlothMUD.
 
@@ -38,7 +38,7 @@ I still have more work to do, to have colors for the terrain and run scripts tha
 
 </div>
 
-<div class="post" data-post-id="38001" data-author="*teker*" data-date="2017-01-28T21:31:25+00:00">
+<div class="post" data-post-id="38001" data-author="*teker*" data-date="2017-01-28T21:31:25+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 I think there are 2 pieces to making this work better:
 
@@ -48,7 +48,7 @@ I think there are 2 pieces to making this work better:
 
 </div>
 
-<div class="post" data-post-id="38003" data-author="Filk" data-date="2017-01-29T07:24:28+00:00">
+<div class="post" data-post-id="38003" data-author="Filk" data-date="2017-01-29T07:24:28+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 > **Quote:**
 > 1) Have the game proactively send new room information each time you change rooms. I'm not sure what you'd really need other than the Vnum.
@@ -64,7 +64,7 @@ I also think thats only working idea for Sloth. Areas dont fit good into coordin
 
 </div>
 
-<div class="post" data-post-id="38004" data-author="Gorka" data-date="2017-01-29T07:46:02+00:00">
+<div class="post" data-post-id="38004" data-author="Gorka" data-date="2017-01-29T07:46:02+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 I'm not sure it's practical to share the mudlet map data from client to client, although I haven't tried. I did open one of the map data files to see it was in a binary format. I also suspect it's format might change from version to version. However I do think the XML idea is better, as this information could be used to generate map data for any client. 
 
@@ -78,7 +78,7 @@ The idea would be to open this XML area file, and change the X,Y,Z data manually
 
 </div>
 
-<div class="post" data-post-id="38006" data-author="*juggleblood*" data-date="2017-01-30T14:47:50+00:00">
+<div class="post" data-post-id="38006" data-author="*juggleblood*" data-date="2017-01-30T14:47:50+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 I don't believe it's possible to automatically generate these maps for export. 
 
@@ -88,7 +88,7 @@ If you get the mapper working to the point that people can start making and shar
 
 </div>
 
-<div class="post" data-post-id="38007" data-author="Gorka" data-date="2017-01-30T16:29:12+00:00">
+<div class="post" data-post-id="38007" data-author="Gorka" data-date="2017-01-30T16:29:12+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 > ***juggleblood* wrote:**
 > If you get the mapper working to the point that people can start making and sharing such maps, then your mission would be complete.
@@ -101,7 +101,7 @@ The difference between what you are calling a solution, and the XML idea is that
 
 </div>
 
-<div class="post" data-post-id="38008" data-author="*juggleblood*" data-date="2017-01-30T20:29:33+00:00">
+<div class="post" data-post-id="38008" data-author="*juggleblood*" data-date="2017-01-30T20:29:33+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 So you are telling me that this thing will be able to generate the maps based on the data alone, without human intervention?  How are you going to tell it what to do with different scales (what you call room collision) and how are you going to tell it to deal with areas like Hellwell and Spire, where you travel up and down on a slant. And then how is it going to cope with special exits? Currently there are a number of ways that a player can teleport, such as an old style trig trap, mob proc, obj proc, or room proc.
 
@@ -109,7 +109,7 @@ The way I see it, every map is going to require a human to help generate it, so 
 
 </div>
 
-<div class="post" data-post-id="38011" data-author="Gorka" data-date="2017-01-31T00:45:21+00:00">
+<div class="post" data-post-id="38011" data-author="Gorka" data-date="2017-01-31T00:45:21+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 I think any decision a human can make in regards to mapping an area, a program could be programmed to make in the same way. But it would be difficult and probably not worth the effort... yes I think a few areas would be extremely difficult and not worth the time to try and program rules for, but I still think it's possible.
 
@@ -117,7 +117,7 @@ Regarding more "simple" collisions like I mentioned in an area like BH town, it 
 
 </div>
 
-<div class="post" data-post-id="38012" data-author="*teker*" data-date="2017-01-31T15:05:18+00:00">
+<div class="post" data-post-id="38012" data-author="*teker*" data-date="2017-01-31T15:05:18+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 I'll try to spend some time over the next two weeks on the following:
 
@@ -131,7 +131,7 @@ We'll see where we get from there.
 
 </div>
 
-<div class="post" data-post-id="38013" data-author="Filk" data-date="2017-01-31T17:07:54+00:00">
+<div class="post" data-post-id="38013" data-author="Filk" data-date="2017-01-31T17:07:54+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 While i dont have anything against more frequent vrum updates on msdp, it could be hard to do that probably, while keeping the same server running speed and eliminating wrong vrum chance.
 
@@ -141,13 +141,13 @@ I think exits line, room name line, or even another separate line after exits co
 
 </div>
 
-<div class="post" data-post-id="38014" data-author="*teker*" data-date="2017-01-31T19:27:29+00:00">
+<div class="post" data-post-id="38014" data-author="*teker*" data-date="2017-01-31T19:27:29+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 Ok, I'll look at putting it after the description and making it toggle-able.
 
 </div>
 
-<div class="post" data-post-id="38015" data-author="*juggleblood*" data-date="2017-02-01T00:33:47+00:00">
+<div class="post" data-post-id="38015" data-author="*juggleblood*" data-date="2017-02-01T00:33:47+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 I'm really excited by this. That is great idea Fluffy about vnum. It will help a lot to have accurate vnum info.
 
@@ -155,7 +155,7 @@ Teker is there a central teleport function, which could trigger a msdp room vnum
 
 </div>
 
-<div class="post" data-post-id="38016" data-author="Gorka" data-date="2017-02-01T09:28:49+00:00">
+<div class="post" data-post-id="38016" data-author="Gorka" data-date="2017-02-01T09:28:49+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 I did think of Fluffy's idea as well... and It would work in most cases... however there are cases in slothmud with trig traps etc where you move a room and the room description is not shown... you have to "look" to get it. I guess this is why JB is asking about the central function for room changes, would there need to be a forced "look" in that function just to make the process smoother so that the VNUM can be extracted for sure in every room change?
 
@@ -163,7 +163,7 @@ For the client to pick it up could you make sure it's easily triggered and safel
 
 </div>
 
-<div class="post" data-post-id="38017" data-author="Filk" data-date="2017-02-01T11:54:12+00:00">
+<div class="post" data-post-id="38017" data-author="Filk" data-date="2017-02-01T11:54:12+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 Personally for me, i think such silient teleport is a mistake. Each room changing should have same logic. So automatical looking after any silient teleport isnt that bad idea imo. Wonder if it could be done via mudl. 
 
@@ -175,19 +175,19 @@ But if moving on already created map, doent seem as big issue, since position wi
 
 </div>
 
-<div class="post" data-post-id="38018" data-author="*juggleblood*" data-date="2017-02-01T13:21:56+00:00">
+<div class="post" data-post-id="38018" data-author="*juggleblood*" data-date="2017-02-01T13:21:56+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 Yeah, it's easy enuff to make sure there are looks after special teleports. I was thinking that an invisible msdp room vnum is preferable to displaying it, if such is possible. If there is no central function tho, then displaying it is a great option.
 
 </div>
 
-<div class="post" data-post-id="38019" data-author="Gorka" data-date="2017-02-01T13:41:28+00:00">
+<div class="post" data-post-id="38019" data-author="Gorka" data-date="2017-02-01T13:41:28+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 Off topic, but given splork's anxiety about displaying damage as part of the game, could they invisibly msdp it instead?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="38020" data-author="*teker*" data-date="2017-02-01T16:24:13+00:00">
+<div class="post" data-post-id="38020" data-author="*teker*" data-date="2017-02-01T16:24:13+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 I'm thinking that perhaps the room vnum should appear at the top of the "look" data in case clients want to capture more information.  Something like:
 
@@ -248,7 +248,7 @@ We've discussed allowing players to see this data in some form but I don't think
 
 </div>
 
-<div class="post" data-post-id="38021" data-author="Gorka" data-date="2017-02-01T17:10:50+00:00">
+<div class="post" data-post-id="38021" data-author="Gorka" data-date="2017-02-01T17:10:50+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 > **Quote:**
 > Room Vnum: 8000
@@ -257,7 +257,7 @@ That will work... as long as it is unique was all I was asking for, I doubt any 
 
 </div>
 
-<div class="post" data-post-id="38022" data-author="Filk" data-date="2017-02-01T17:45:38+00:00">
+<div class="post" data-post-id="38022" data-author="Filk" data-date="2017-02-01T17:45:38+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 I would prefer it within room name.
 
@@ -273,7 +273,7 @@ But any variant works, since i could gag anything i dont want to see.
 
 </div>
 
-<div class="post" data-post-id="38023" data-author="*teker*" data-date="2017-02-01T22:45:56+00:00">
+<div class="post" data-post-id="38023" data-author="*teker*" data-date="2017-02-01T22:45:56+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 > **Quote:**
 > West Gate [id:1234]
@@ -311,7 +311,7 @@ It gets updated every time a player is placed into a room so I think it should b
 
 </div>
 
-<div class="post" data-post-id="38024" data-author="Filk" data-date="2017-02-02T02:27:54+00:00">
+<div class="post" data-post-id="38024" data-author="Filk" data-date="2017-02-02T02:27:54+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 In terms of parsing, no big difference where specific text pattern will be placed, at start of the line or end. So putting it in end least eye breaking probably.
 
@@ -321,7 +321,7 @@ Not sure, why you want vnum displaying for items tbh. I dont see any real purpos
 
 </div>
 
-<div class="post" data-post-id="38025" data-author="*juggleblood*" data-date="2017-02-02T13:01:15+00:00">
+<div class="post" data-post-id="38025" data-author="*juggleblood*" data-date="2017-02-02T13:01:15+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 This is just my 2 cents but I like:
 
@@ -337,13 +337,13 @@ If you made that, do we even need an option to display room vnum?
 
 </div>
 
-<div class="post" data-post-id="38026" data-author="Gorka" data-date="2017-02-02T14:54:45+00:00">
+<div class="post" data-post-id="38026" data-author="Gorka" data-date="2017-02-02T14:54:45+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 You could try using the MSDP table first. A single speedrun to another area echoing the room vnum and you will find out how functional using msdp will be. I doubt it will work, msdp just doesn't update fast enough. Having the number in the room description is "bomb proof." MSDP good for some things, not for others. It's a case of using the best tool for the right job.
 
 </div>
 
-<div class="post" data-post-id="38027" data-author="*teker*" data-date="2017-02-02T20:04:29+00:00">
+<div class="post" data-post-id="38027" data-author="*teker*" data-date="2017-02-02T20:04:29+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 > **Quote:**
 > Room 8000: West Gate
@@ -362,7 +362,7 @@ At some point it'd be nice to be able to tell if there's a difference between a 
 
 </div>
 
-<div class="post" data-post-id="38029" data-author="Filk" data-date="2017-02-04T14:28:11+00:00">
+<div class="post" data-post-id="38029" data-author="Filk" data-date="2017-02-04T14:28:11+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 Checked new location update. Its funny actually. Now its so fast, that its update even before you actually enter the room  :lol: 
 
@@ -400,13 +400,13 @@ ROOM: VNUM=2, NAME=Transmutation Storage Room
 
 </div>
 
-<div class="post" data-post-id="38030" data-author="*Breeze*" data-date="2017-02-04T21:46:35+00:00">
+<div class="post" data-post-id="38030" data-author="*Breeze*" data-date="2017-02-04T21:46:35+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 those 2 rooms are the void and where your real body goes when you shapeshift.
 
 </div>
 
-<div class="post" data-post-id="38033" data-author="Filk" data-date="2017-02-05T04:30:37+00:00">
+<div class="post" data-post-id="38033" data-author="Filk" data-date="2017-02-05T04:30:37+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 Ok. Seems correct.
 
@@ -418,13 +418,13 @@ Not happens after each kill, but quite often and stable. Maybe 1/3-1/2 of kills 
 
 </div>
 
-<div class="post" data-post-id="38034" data-author="*juggleblood*" data-date="2017-02-05T13:38:17+00:00">
+<div class="post" data-post-id="38034" data-author="*juggleblood*" data-date="2017-02-05T13:38:17+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 Maybe there could be a check on the msdp room update such that if the room vnum is one of those 2 rooms, do not update msdp.ROOM?
 
 </div>
 
-<div class="post" data-post-id="38043" data-author="*teker*" data-date="2017-02-06T23:55:16+00:00">
+<div class="post" data-post-id="38043" data-author="*teker*" data-date="2017-02-06T23:55:16+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 I'll do some more testing and try to figure out how to get around these two issues.
 
@@ -442,7 +442,7 @@ Let me know if you guys have any luck building maps from these and we can consid
 
 </div>
 
-<div class="post" data-post-id="38046" data-author="Gorka" data-date="2017-02-07T12:15:06+00:00">
+<div class="post" data-post-id="38046" data-author="Gorka" data-date="2017-02-07T12:15:06+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 Well done Teker! 
 
@@ -456,7 +456,7 @@ Hmm, where do we go from here Teker?
 
 </div>
 
-<div class="post" data-post-id="38047" data-author="Gorka" data-date="2017-02-07T13:02:20+00:00">
+<div class="post" data-post-id="38047" data-author="Gorka" data-date="2017-02-07T13:02:20+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 Here are my thoughts...
 
@@ -472,7 +472,7 @@ Most of the "strangeness" of my generated map is directly due to the absence of 
 
 </div>
 
-<div class="post" data-post-id="38048" data-author="*teker*" data-date="2017-02-07T15:50:53+00:00">
+<div class="post" data-post-id="38048" data-author="*teker*" data-date="2017-02-07T15:50:53+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 > **Quote:**
 > Hmm, where do we go from here Teker?
@@ -483,7 +483,7 @@ Then I'll start looking at the mapper module.  Since there's no Z information in
 
 </div>
 
-<div class="post" data-post-id="38049" data-author="Gorka" data-date="2017-02-07T16:26:19+00:00">
+<div class="post" data-post-id="38049" data-author="Gorka" data-date="2017-02-07T16:26:19+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 Awesome!
 
@@ -493,13 +493,13 @@ Good luck trying to get millennials to stick with sloth.
 
 </div>
 
-<div class="post" data-post-id="38060" data-author="*teker*" data-date="2017-02-13T18:37:18+00:00">
+<div class="post" data-post-id="38060" data-author="*teker*" data-date="2017-02-13T18:37:18+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 Let me know if the MSDP changes are working better now.
 
 </div>
 
-<div class="post" data-post-id="38061" data-author="Gorka" data-date="2017-02-13T21:05:43+00:00">
+<div class="post" data-post-id="38061" data-author="Gorka" data-date="2017-02-13T21:05:43+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
 Almost perfect... I ran to castle echoing the msdp.LOCATION.ROOM.NAME, in a couple of cases the name of the room gets echoed before the room has changed.
 

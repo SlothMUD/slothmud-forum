@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="29133" data-author="*Splork*" data-date="2009-05-11T14:10:07+00:00">
+<div class="post" data-post-id="29133" data-author="*Splork*" data-date="2009-05-11T14:10:07+00:00" data-subject="Octagonals for sale!">
 
 The dream weaver shall sell Octagonal tokens when she reopens her shop later this morning!
 
@@ -20,7 +20,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29139" data-author="*Splork*" data-date="2009-05-12T23:18:14+00:00">
+<div class="post" data-post-id="29139" data-author="*Splork*" data-date="2009-05-12T23:18:14+00:00" data-subject="">
 
 Ive found a small bug in the code for octagonals, Ive had to remove them from the shops until I can figure it out. Hopefully I will have them added back before anyone even notices they are gone!
 
@@ -30,7 +30,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29199" data-author="*Splork*" data-date="2009-05-17T13:27:07+00:00">
+<div class="post" data-post-id="29199" data-author="*Splork*" data-date="2009-05-17T13:27:07+00:00" data-subject="">
 
 Tokens have been returned, however due to the new stat system, the lowest min roll is now an 8 and the drachma cost is 1 higher at 4 per token.
 

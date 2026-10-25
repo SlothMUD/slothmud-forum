@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38821" data-author="Vegetable" data-date="2018-05-24T14:06:27+00:00">
+<div class="post" data-post-id="38821" data-author="Vegetable" data-date="2018-05-24T14:06:27+00:00" data-subject="Fangs of the fire serpent bugged">
 
 Hi guys, smallpotato's fangs of fire serpent got bugged when it was put into a sack. Not it cant be taken out from it. Any change we can get this fix? see below for the message she get when trying to take the fangs out
 
@@ -36,7 +36,7 @@ You can't take that.
 
 </div>
 
-<div class="post" data-post-id="38824" data-author="*teker*" data-date="2018-05-24T15:23:15+00:00">
+<div class="post" data-post-id="38824" data-author="*teker*" data-date="2018-05-24T15:23:15+00:00" data-subject="Re: Fangs of the fire serpent bugged">
 
 I just updated the item template - it was missing a flag.  Hopefully it'll fix it on login but if not, let me know.
 

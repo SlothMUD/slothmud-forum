@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30406" data-author="*Splork*" data-date="2009-12-03T15:35:08+00:00">
+<div class="post" data-post-id="30406" data-author="*Splork*" data-date="2009-12-03T15:35:08+00:00" data-subject="Lyme exp bonus for leader and point">
 
 Leader gold and exp bonuses and point man's exp bonus has been added to Lyme.
 

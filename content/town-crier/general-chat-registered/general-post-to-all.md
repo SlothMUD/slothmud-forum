@@ -10,7 +10,7 @@ locked: false
 post_count: 61
 ---
 
-<div class="post" data-post-id="37591" data-author="Belrath" data-date="2016-11-30T04:12:26+00:00">
+<div class="post" data-post-id="37591" data-author="Belrath" data-date="2016-11-30T04:12:26+00:00" data-subject="General post to all">
 
 Hello
 
@@ -42,7 +42,7 @@ ps. That post was meant to be positive - I just can't express myself in english 
 
 </div>
 
-<div class="post" data-post-id="37592" data-author="Josiah" data-date="2016-11-30T05:11:16+00:00">
+<div class="post" data-post-id="37592" data-author="Josiah" data-date="2016-11-30T05:11:16+00:00" data-subject="Re: General post to all">
 
 I agree Belrath.  New players are definitely needed, and we aren't particularly good at getting them.
 
@@ -56,7 +56,7 @@ Rebirth discussions do address an important point.  Our game community is very s
 
 </div>
 
-<div class="post" data-post-id="37593" data-author="Zlodiak" data-date="2016-11-30T08:04:29+00:00">
+<div class="post" data-post-id="37593" data-author="Zlodiak" data-date="2016-11-30T08:04:29+00:00" data-subject="Re: General post to all">
 
 This time i came back to sloth with 5 friends.
 
@@ -86,7 +86,7 @@ Agree with Josiah about rebirth, it's a good way to keep 9x40 from quitting.
 
 </div>
 
-<div class="post" data-post-id="37597" data-author="Teron" data-date="2016-12-01T08:16:58+00:00">
+<div class="post" data-post-id="37597" data-author="Teron" data-date="2016-12-01T08:16:58+00:00" data-subject="Re: General post to all">
 
 0. A good number of us have English as the second language, so feel free to post more :) You it works, when you are sober, too .)
 
@@ -112,13 +112,13 @@ By the way, can we see the updated stats, since bonus exp has been going for 5 y
 
 </div>
 
-<div class="post" data-post-id="37603" data-author="*teker*" data-date="2016-12-02T16:11:50+00:00">
+<div class="post" data-post-id="37603" data-author="*teker*" data-date="2016-12-02T16:11:50+00:00" data-subject="Re: General post to all">
 
 I'd be interested to know if there are game features that people think are obviously missing that the bigger games have in place.  I've started working on the new quest code again which would provide a journal containing discovered quests and their progress.  I'm hoping I can get it to a workable state over winter.  But what else?  We can certainly do small things like "open north" for non-secret doors, but I seriously doubt little issues like that are driving lots of people away.
 
 </div>
 
-<div class="post" data-post-id="37604" data-author="Filk" data-date="2016-12-02T16:38:50+00:00">
+<div class="post" data-post-id="37604" data-author="Filk" data-date="2016-12-02T16:38:50+00:00" data-subject="Re: General post to all">
 
 1. Damage meter! Damage Meter! Damage Meter!
 
@@ -134,7 +134,7 @@ Well. Avatar rebirth thing as well. We concluded some good and easy to implement
 
 </div>
 
-<div class="post" data-post-id="37606" data-author="Teron" data-date="2016-12-02T18:16:12+00:00">
+<div class="post" data-post-id="37606" data-author="Teron" data-date="2016-12-02T18:16:12+00:00" data-subject="Re: General post to all">
 
 0. Teker, "open north" is how doors work in Aardwolf.
 
@@ -184,13 +184,13 @@ It'll only take some minutes.
 
 </div>
 
-<div class="post" data-post-id="37607" data-author="Hung" data-date="2016-12-02T18:21:51+00:00">
+<div class="post" data-post-id="37607" data-author="Hung" data-date="2016-12-02T18:21:51+00:00" data-subject="Re: General post to all">
 
 I support the damage meter idea with my whole gaming desire. And I promise never to question game mechanics behind those revealed numbers.
 
 </div>
 
-<div class="post" data-post-id="37608" data-author="Gorka" data-date="2016-12-03T02:14:16+00:00">
+<div class="post" data-post-id="37608" data-author="Gorka" data-date="2016-12-03T02:14:16+00:00" data-subject="Re: General post to all">
 
 Show damage... 
 
@@ -200,7 +200,7 @@ Without vision the people perish.
 
 </div>
 
-<div class="post" data-post-id="37609" data-author="Teron" data-date="2016-12-03T05:09:02+00:00">
+<div class="post" data-post-id="37609" data-author="Teron" data-date="2016-12-03T05:09:02+00:00" data-subject="Re: General post to all">
 
 Gorka, ingame group damage stats is what follows showing damage.
 
@@ -260,7 +260,7 @@ Another thing we should consider is **eq points**, which would help:
 
 </div>
 
-<div class="post" data-post-id="37610" data-author="Gorka" data-date="2016-12-03T06:46:37+00:00">
+<div class="post" data-post-id="37610" data-author="Gorka" data-date="2016-12-03T06:46:37+00:00" data-subject="Re: General post to all">
 
 Taron, I don't know of anyone who takes efficiency to the degree that you do. When I am in your groups I am always second guessing myself all the time... asking myself I am doing everything to the level Taron expects of me and I sometimes feel under a bit of self imposed pressure. In Knubberub/Curate groups I have the freedom to do more of what I feel is best and there is less pressure and occasionally I enjoy more. No one is going to want the break down that you are going to want... but with that said, I do feel players need some feedback about what they have contributed to a mob kill. 
 
@@ -288,7 +288,7 @@ To tie this back to the overall point I think players are making here... we want
 
 </div>
 
-<div class="post" data-post-id="37611" data-author="*juggleblood*" data-date="2016-12-03T14:10:22+00:00">
+<div class="post" data-post-id="37611" data-author="*juggleblood*" data-date="2016-12-03T14:10:22+00:00" data-subject="Re: General post to all">
 
 Yeah, I have to say that little about the game frustrates me more than not seeing my damage. When I issue a strike and sometimes see some tiny little gain of experience, I actually get angry, because I don't know if my strike actually sucked or if the stupid exp randomizer is fooling me. I basically feel intentionally lied to all the time by my exp reporter.
 
@@ -296,7 +296,7 @@ As for code which judges the performance of players in a group...that's somethin
 
 </div>
 
-<div class="post" data-post-id="37612" data-author="Josiah" data-date="2016-12-03T17:21:34+00:00">
+<div class="post" data-post-id="37612" data-author="Josiah" data-date="2016-12-03T17:21:34+00:00" data-subject="Re: General post to all">
 
 Don't worry Juggleblood... strike *never* sucks!
 
@@ -306,7 +306,7 @@ In WoW, Recount contributed to a very elitist environment, and it was regularly 
 
 </div>
 
-<div class="post" data-post-id="37614" data-author="Teron" data-date="2016-12-03T17:37:28+00:00">
+<div class="post" data-post-id="37614" data-author="Teron" data-date="2016-12-03T17:37:28+00:00" data-subject="Re: General post to all">
 
 Gorka, Josiah, I understand that you only want to see your progress.
 
@@ -328,7 +328,7 @@ JB, I can't see, how I can script my client to see what damage others are doing 
 
 </div>
 
-<div class="post" data-post-id="37626" data-author="*juggleblood*" data-date="2016-12-03T21:00:58+00:00">
+<div class="post" data-post-id="37626" data-author="*juggleblood*" data-date="2016-12-03T21:00:58+00:00" data-subject="Re: General post to all">
 
 Well, we can't even see our own actual damage, but we could count player blows. 
 
@@ -346,7 +346,7 @@ if matches[2]~=tank then deleteLine() end
 
 </div>
 
-<div class="post" data-post-id="37631" data-author="Teron" data-date="2016-12-04T00:00:48+00:00">
+<div class="post" data-post-id="37631" data-author="Teron" data-date="2016-12-04T00:00:48+00:00" data-subject="Re: General post to all">
 
 I've had that counter for myself for years and it's very imprecise.
 
@@ -370,7 +370,7 @@ I haven't been using this counter forever.
 
 </div>
 
-<div class="post" data-post-id="37632" data-author="*Splork*" data-date="2016-12-04T00:30:38+00:00">
+<div class="post" data-post-id="37632" data-author="*Splork*" data-date="2016-12-04T00:30:38+00:00" data-subject="Re: General post to all">
 
 JB has posted to TMC regarding showing exact damage per attack. 
 
@@ -382,7 +382,7 @@ Maybe we can find some middle ground? One option would be to remove most of the 
 
 </div>
 
-<div class="post" data-post-id="37638" data-author="Josiah" data-date="2016-12-04T09:06:53+00:00">
+<div class="post" data-post-id="37638" data-author="Josiah" data-date="2016-12-04T09:06:53+00:00" data-subject="Re: General post to all">
 
 Here's a middle ground suggestion:
 
@@ -396,7 +396,7 @@ I also agree with forum guy on mudconnect, code obscurity is a bit old fashioned
 
 </div>
 
-<div class="post" data-post-id="37640" data-author="Teron" data-date="2016-12-04T11:29:47+00:00">
+<div class="post" data-post-id="37640" data-author="Teron" data-date="2016-12-04T11:29:47+00:00" data-subject="Re: General post to all">
 
 A number of options would fit in the "not revealing the mysterious stats" criterion, such as:
 
@@ -419,7 +419,7 @@ Splork, what happened to:
 
 </div>
 
-<div class="post" data-post-id="37642" data-author="*Splork*" data-date="2016-12-04T13:05:46+00:00">
+<div class="post" data-post-id="37642" data-author="*Splork*" data-date="2016-12-04T13:05:46+00:00" data-subject="Re: General post to all">
 
 That is exactly what is going on. The discussion is actively taking place and no decision has been made. I've received opinons from three other Immortals at this point and 2 have similar views that I do, 
 
@@ -431,7 +431,7 @@ Now thats what the quote box is for. Quoting something that people actually say.
 
 </div>
 
-<div class="post" data-post-id="37643" data-author="Filk" data-date="2016-12-04T13:16:02+00:00">
+<div class="post" data-post-id="37643" data-author="Filk" data-date="2016-12-04T13:16:02+00:00" data-subject="Re: General post to all">
 
 I dont think that any middle compromise it posible here. If you reveal something, you actually reveal all. With enough data about any round or combat, we could gather statistic about pretty much details. It just makes this harder and available for good scripters only.
 
@@ -445,7 +445,7 @@ All ideological reasons about "thats not our old good times blabla" are nothing,
 
 </div>
 
-<div class="post" data-post-id="37644" data-author="Hung" data-date="2016-12-04T13:58:33+00:00">
+<div class="post" data-post-id="37644" data-author="Hung" data-date="2016-12-04T13:58:33+00:00" data-subject="Re: General post to all">
 
 Filk, +100
 
@@ -453,7 +453,7 @@ I would also add that if potential flow of question about damage calculation cou
 
 </div>
 
-<div class="post" data-post-id="37647" data-author="Gorka" data-date="2016-12-04T14:56:36+00:00">
+<div class="post" data-post-id="37647" data-author="Gorka" data-date="2016-12-04T14:56:36+00:00" data-subject="Re: General post to all">
 
 I'm a fan of getting integers blasted at me... especially positive integers. I'd play sloth in binary mode if you gave me the chance. The progressive and numerical eq system was what attracted me to sloth. I've always found combat tedious - you hit something hard / you hit something very hard... unexciting due to the lack of transparency, the in game puzzles an obstacle of charging ahead, and the social side of the game (grouping) with players who I wouldn't probably be friends with in real life... difficult. (more so in the past) Numbers kept me playing.
 
@@ -469,7 +469,7 @@ EDIT: A MUD Administrator has since made this response, which is well worth a re
 
 </div>
 
-<div class="post" data-post-id="37683" data-author="Riurik" data-date="2016-12-06T17:24:46+00:00">
+<div class="post" data-post-id="37683" data-author="Riurik" data-date="2016-12-06T17:24:46+00:00" data-subject="Re: General post to all">
 
 OK so letâ€™s talk realistically:
 
@@ -497,7 +497,7 @@ g)	Simplify the game structure, it is simply confusing. If you are going to have
 
 </div>
 
-<div class="post" data-post-id="37685" data-author="Josiah" data-date="2016-12-06T22:22:33+00:00">
+<div class="post" data-post-id="37685" data-author="Josiah" data-date="2016-12-06T22:22:33+00:00" data-subject="Re: General post to all">
 
 There's some good points in there.  I'm only going to talk about g)
 
@@ -509,7 +509,7 @@ On the other hand, CRs are one of the places where our players currently shine i
 
 </div>
 
-<div class="post" data-post-id="37686" data-author="*juggleblood*" data-date="2016-12-06T23:03:26+00:00">
+<div class="post" data-post-id="37686" data-author="*juggleblood*" data-date="2016-12-06T23:03:26+00:00" data-subject="Re: General post to all">
 
 Hi Riurik!
 
@@ -527,7 +527,7 @@ Regarding corpse retrieval, I would steadfast stand against any change that make
 
 </div>
 
-<div class="post" data-post-id="37687" data-author="Riurik" data-date="2016-12-06T23:31:11+00:00">
+<div class="post" data-post-id="37687" data-author="Riurik" data-date="2016-12-06T23:31:11+00:00" data-subject="Re: General post to all">
 
 An immort slamming a post on the Crier is probably another good reason not to stay here. One of the reasons that the numbers are up at that people like me have returned to try help rebuild the numbers.
 
@@ -541,7 +541,7 @@ But hey, if you want think I just came back to complain go ahead. It always amaz
 
 </div>
 
-<div class="post" data-post-id="37688" data-author="*juggleblood*" data-date="2016-12-06T23:48:00+00:00">
+<div class="post" data-post-id="37688" data-author="*juggleblood*" data-date="2016-12-06T23:48:00+00:00" data-subject="Re: General post to all">
 
 Bad analogy. Immortals are not managers, they are players and free content contributors. So yeah, I can tell you to shove it when you post such drivel, because if you really cared so much you could contribute something yourself. There's only so many active coders, of which I am not one btw, and they have jobs and lives. You can't just come in here after an 8 year hiatus and shit on everything and say, that if we did things your way, we'd go back to a 50 person who list. I call bullshit.
 
@@ -549,7 +549,7 @@ Bad analogy. Immortals are not managers, they are players and free content contr
 
 </div>
 
-<div class="post" data-post-id="37689" data-author="Riurik" data-date="2016-12-07T00:06:17+00:00">
+<div class="post" data-post-id="37689" data-author="Riurik" data-date="2016-12-07T00:06:17+00:00" data-subject="Re: General post to all">
 
 Bullshit back. I gave thousand of hours of my time over a number of years to this game, I want to see it thrive as much as anyone.
 
@@ -567,7 +567,7 @@ Most newbies are playing a while, and leaving and not commenting. If we had one 
 
 </div>
 
-<div class="post" data-post-id="37690" data-author="*Splork*" data-date="2016-12-07T00:12:24+00:00">
+<div class="post" data-post-id="37690" data-author="*Splork*" data-date="2016-12-07T00:12:24+00:00" data-subject="Re: General post to all">
 
 > **Quote:**
 > The decisions that where made when we moved to 9 classes lost the player base, and it's not getting refreshed, and that is not just text-based games because other games have 100 to 200 concurrent players. Keeping on doing more of the same will not change anything.
@@ -580,13 +580,13 @@ I am certainly not saying we can't do things better because we absolutely can. T
 
 </div>
 
-<div class="post" data-post-id="37691" data-author="*juggleblood*" data-date="2016-12-07T00:19:04+00:00">
+<div class="post" data-post-id="37691" data-author="*juggleblood*" data-date="2016-12-07T00:19:04+00:00" data-subject="Re: General post to all">
 
 And I hope you know that regardless of whatever argument or debate we have on the crier. I'm still happy to respond via telegram for ingame raises and CR on mortal side.  I don't agree that I have to kiss your ass on this forum because of my title, and so I won't. On mortal side, I'm still happy to help with wutever. Cheers.
 
 </div>
 
-<div class="post" data-post-id="37692" data-author="Riurik" data-date="2016-12-07T00:29:02+00:00">
+<div class="post" data-post-id="37692" data-author="Riurik" data-date="2016-12-07T00:29:02+00:00" data-subject="Re: General post to all">
 
 *"This is absolutely, 100% false. I tracked our average number of players for two years before we wiped. The last year of Sloth 3, we averaged 11 players and that number was consistently dropping every year. There was nothing to lose which is why we changed things up. Currently, our numbers are pretty solid, especially for a mud."*
 
@@ -594,13 +594,13 @@ And I hope you know that regardless of whatever argument or debate we have on th
 
 </div>
 
-<div class="post" data-post-id="37693" data-author="Riurik" data-date="2016-12-07T00:30:03+00:00">
+<div class="post" data-post-id="37693" data-author="Riurik" data-date="2016-12-07T00:30:03+00:00" data-subject="Re: General post to all">
 
 Oh I know that Juggle, you have been incredibly helpful online.
 
 </div>
 
-<div class="post" data-post-id="37694" data-author="Hung" data-date="2016-12-07T07:22:47+00:00">
+<div class="post" data-post-id="37694" data-author="Hung" data-date="2016-12-07T07:22:47+00:00" data-subject="Re: General post to all">
 
 I think one of the main differences between nowadays sloth and old one is non-changing game mechanics. In the old days game mechanics were changing quite often. New skills were introduced. Old skills were buffed or nerfed. New pets. Attunement. Devaks. New classes. Etc.
 
@@ -614,7 +614,7 @@ Not sure if it is related to the player base size.
 
 </div>
 
-<div class="post" data-post-id="37695" data-author="*Splork*" data-date="2016-12-07T12:30:07+00:00">
+<div class="post" data-post-id="37695" data-author="*Splork*" data-date="2016-12-07T12:30:07+00:00" data-subject="Re: General post to all">
 
 > **Quote:**
 > Not sure if it is related to the player base size.
@@ -627,7 +627,7 @@ I've actually been wondering what it would look like to add back in the code for
 
 </div>
 
-<div class="post" data-post-id="37696" data-author="Teron" data-date="2016-12-07T15:26:09+00:00">
+<div class="post" data-post-id="37696" data-author="Teron" data-date="2016-12-07T15:26:09+00:00" data-subject="Re: General post to all">
 
 By the way, I've raised [the issue of being able to sustain yourself somewhat in solo](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4635) earlier.
 
@@ -635,7 +635,7 @@ You can go discuss it there in more detail, than there.
 
 </div>
 
-<div class="post" data-post-id="37697" data-author="*juggleblood*" data-date="2016-12-07T22:56:00+00:00">
+<div class="post" data-post-id="37697" data-author="*juggleblood*" data-date="2016-12-07T22:56:00+00:00" data-subject="Re: General post to all">
 
 Taron, the fact that you need other players for best performance has been the key to our success.  We're here to play together, not to show off and compete with one another.
 
@@ -645,7 +645,7 @@ But if you are a newbie/lowbie and want to solo. I suggest:the garden, kobolds, 
 
 </div>
 
-<div class="post" data-post-id="37700" data-author="Teron" data-date="2016-12-08T07:13:58+00:00">
+<div class="post" data-post-id="37700" data-author="Teron" data-date="2016-12-08T07:13:58+00:00" data-subject="Re: General post to all">
 
 You can't solo better eq at 20-2x40 levels, you are stuck with what valk or similar mobs got you.
 
@@ -655,13 +655,13 @@ Also, you all clamour for groups, but there are no group areas for gold. Why not
 
 </div>
 
-<div class="post" data-post-id="37702" data-author="Josiah" data-date="2016-12-08T07:30:10+00:00">
+<div class="post" data-post-id="37702" data-author="Josiah" data-date="2016-12-08T07:30:10+00:00" data-subject="Re: General post to all">
 
 A group area for gold sounds awesome.  Should we be worried about players soloing there though?  There are some players that can crush content intended for groups.
 
 </div>
 
-<div class="post" data-post-id="37703" data-author="Filk" data-date="2016-12-08T08:45:40+00:00">
+<div class="post" data-post-id="37703" data-author="Filk" data-date="2016-12-08T08:45:40+00:00" data-subject="Re: General post to all">
 
 Its all about speed. If you spend 8 mins to kill one big mob for 200k-300k. And you could at same time clean hellwell for same amount. Or elemental school for double of that(and twice more time though) - its fine. Go and kill that fat mob.
 
@@ -671,7 +671,7 @@ In that way group gold areas will not be a problem(same idea - low exp/high gold
 
 </div>
 
-<div class="post" data-post-id="37707" data-author="*juggleblood*" data-date="2016-12-08T22:42:36+00:00">
+<div class="post" data-post-id="37707" data-author="*juggleblood*" data-date="2016-12-08T22:42:36+00:00" data-subject="Re: General post to all">
 
 Ok, lets try it out. Pagoda of Enlightenment is now a gold area, and I'm also boosting the xp a bit cuz those monk procs do add a lot of challenge.  Let me know if you think it's either too low to draw groups, or so high that avatars fight over it.
 
@@ -679,7 +679,7 @@ I did all the gods, humans, monkeys, and skipped the inanimate stuff and fauna m
 
 </div>
 
-<div class="post" data-post-id="37722" data-author="Teron" data-date="2016-12-09T12:58:25+00:00">
+<div class="post" data-post-id="37722" data-author="Teron" data-date="2016-12-09T12:58:25+00:00" data-subject="Re: General post to all">
 
 Josiah and I have killed a bunch of gods, humans and monkeys, and have concluded that gold in this area is terribly low.
 
@@ -699,7 +699,7 @@ Right now, 9x40s won't be fighting for it even if you double gold on monkeys. It
 
 </div>
 
-<div class="post" data-post-id="37723" data-author="Josiah" data-date="2016-12-09T13:01:06+00:00">
+<div class="post" data-post-id="37723" data-author="Josiah" data-date="2016-12-09T13:01:06+00:00" data-subject="Re: General post to all">
 
 Taron and I just cleared Pagoda to check out the new gold.  It was extremely underwhelming.  I'll post the log below.  
 
@@ -881,7 +881,7 @@ There were 165000 coins.
 
 </div>
 
-<div class="post" data-post-id="37724" data-author="Ker" data-date="2016-12-09T13:11:47+00:00">
+<div class="post" data-post-id="37724" data-author="Ker" data-date="2016-12-09T13:11:47+00:00" data-subject="Re: General post to all">
 
 Hiiiiiiiiiiiiiiiiiiiiiiiii Pixieeeeeee!
 
@@ -889,7 +889,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="37725" data-author="*juggleblood*" data-date="2016-12-09T13:13:49+00:00">
+<div class="post" data-post-id="37725" data-author="*juggleblood*" data-date="2016-12-09T13:13:49+00:00" data-subject="Re: General post to all">
 
 Well, I hadn't really anticipated that it would be great content for 2-man. An 80 mil mob is hard to chew that way, but a regular xp group chewing thru it would rack up a decent amount of gold.
 
@@ -899,7 +899,7 @@ I'm gonna let that adjustment to pagoda of enlightenment steep for a while, beca
 
 </div>
 
-<div class="post" data-post-id="37726" data-author="Teron" data-date="2016-12-09T13:22:48+00:00">
+<div class="post" data-post-id="37726" data-author="Teron" data-date="2016-12-09T13:22:48+00:00" data-subject="Re: General post to all">
 
 JB, if gold sucked for 2man, gold will suck more for more people, mob total exp won't change. We weren't measuring exp/hr, obviously that'd be low for 2man, were assessing mob thickness/damage relative to total exp, and whether it's worth leading a group here.
 
@@ -911,7 +911,7 @@ If you want Pagoda to be an exp area, then exp in mid-level gods needs to be imp
 
 </div>
 
-<div class="post" data-post-id="37728" data-author="*Splork*" data-date="2016-12-09T15:38:36+00:00">
+<div class="post" data-post-id="37728" data-author="*Splork*" data-date="2016-12-09T15:38:36+00:00" data-subject="Re: General post to all">
 
 We have 8 people on after a reboot for a total of nearly 750 million coins in the bank.
 
@@ -919,7 +919,7 @@ To an outsider, that sure doesn't look like we have a gold issue or need to be a
 
 </div>
 
-<div class="post" data-post-id="37731" data-author="Teron" data-date="2016-12-09T15:57:26+00:00">
+<div class="post" data-post-id="37731" data-author="Teron" data-date="2016-12-09T15:57:26+00:00" data-subject="Re: General post to all">
 
 The outsider isn't bored to death by doing the same unchallenging areas for the xxth time nor he cares for players' enjoyment. An outsider also doesn't understand that adding an area with the same gold/hr doesn't mean increasing gold/hr for players, because it simply adds variety and challenge.
 
@@ -937,7 +937,7 @@ How is that so?
 
 </div>
 
-<div class="post" data-post-id="37734" data-author="*Splork*" data-date="2016-12-09T16:24:02+00:00">
+<div class="post" data-post-id="37734" data-author="*Splork*" data-date="2016-12-09T16:24:02+00:00" data-subject="Re: General post to all">
 
 The game has two determining factors to level: experience and gold. For the most part, players have been gaining enough gold to level as they work towards that level. There will always be occasions when you might have enough gold to level but not experience or the other way around. I happen to think this is a good thing and not bad...
 
@@ -947,7 +947,7 @@ Gold was a huge issue issue for us in the previous version because there was sim
 
 </div>
 
-<div class="post" data-post-id="37735" data-author="Teron" data-date="2016-12-09T16:33:34+00:00">
+<div class="post" data-post-id="37735" data-author="Teron" data-date="2016-12-09T16:33:34+00:00" data-subject="Re: General post to all">
 
 How do you know that gold wasn't an issue for players? I remember talks about gold areas, and a huge uproar, when Mansion of the Mourned gold was nerfed, as well as in other areas.
 
@@ -957,7 +957,7 @@ Since it's easier to get exp, than gold, I don't understand why players should *
 
 </div>
 
-<div class="post" data-post-id="37736" data-author="*Splork*" data-date="2016-12-09T16:50:10+00:00">
+<div class="post" data-post-id="37736" data-author="*Splork*" data-date="2016-12-09T16:50:10+00:00" data-subject="Re: General post to all">
 
 There are always discussions about everything regarding the game. There is also always an outcry when an area is nerfed. However, that does not mean there is a global issue.
 
@@ -971,7 +971,7 @@ I am starting to really enjoy my time here again!
 
 </div>
 
-<div class="post" data-post-id="37737" data-author="Teron" data-date="2016-12-09T17:09:30+00:00">
+<div class="post" data-post-id="37737" data-author="Teron" data-date="2016-12-09T17:09:30+00:00" data-subject="Re: General post to all">
 
 > **Splork wrote:**
 > To an outsider, that sure doesn't look like we have a gold issue or need to be adding gold to the game.
@@ -987,7 +987,7 @@ Also, what about gold on players that left? Were they rich or poor?
 
 </div>
 
-<div class="post" data-post-id="37739" data-author="*juggleblood*" data-date="2016-12-09T20:20:02+00:00">
+<div class="post" data-post-id="37739" data-author="*juggleblood*" data-date="2016-12-09T20:20:02+00:00" data-subject="Re: General post to all">
 
 The suggestion that I agreed with and was responding to, was the concept of an area that was nice group gold. To me 2 man is not group. A "group gold" area to me would be an area like pagoda of enlightenment where the xp is a little sub-optimal, but puts a decent little chunk of gold in the pockets of everyone in a good sized group. I'm not going to load up gold on a zone that is 2-man size and call it "group gold".  I have a heck of a lot of experience adjusting mob values, and based on that experience I can say that pagoda of enlightenment is now on the upper end of gold values for large group mobs. For the idea to work, it needs to be on very thick mobs, because as Josiah pointed out, what is soloable varies wildly. 
 
@@ -995,7 +995,7 @@ I'm not reacting to a belief that there's not enough gold ingame. I'm reacting t
 
 </div>
 
-<div class="post" data-post-id="37743" data-author="Josiah" data-date="2016-12-09T23:14:58+00:00">
+<div class="post" data-post-id="37743" data-author="Josiah" data-date="2016-12-09T23:14:58+00:00" data-subject="Re: General post to all">
 
 > **Teron wrote:**
 > Since you know both the experience gain rate and the gold gain rate, can you run your stats and show us, what it currently is? Thanks.
@@ -1008,7 +1008,7 @@ Gold complaints seem to come from a few specific players, and on an infrequent b
 
 </div>
 
-<div class="post" data-post-id="37750" data-author="Gorka" data-date="2016-12-10T01:35:05+00:00">
+<div class="post" data-post-id="37750" data-author="Gorka" data-date="2016-12-10T01:35:05+00:00" data-subject="Re: General post to all">
 
 > ***Splork* wrote:**
 > I am not saying we will not add more gold to the game but I am saying we will be cautious, as we should be because we will not get ourselves in the situation we were in S3.
@@ -1017,7 +1017,7 @@ Splork, please give shop keepers (in towns) more gold. A shop keeper should at l
 
 </div>
 
-<div class="post" data-post-id="37752" data-author="*Splork*" data-date="2016-12-10T01:53:59+00:00">
+<div class="post" data-post-id="37752" data-author="*Splork*" data-date="2016-12-10T01:53:59+00:00" data-subject="Re: General post to all">
 
 Valid point Jezer and it has been brought up in the past on numerous occasions. Honestly, I don't know much about this topic other than what I keep hearing and reading from you guys.
 
@@ -1025,13 +1025,13 @@ I will reach out to Teker and see what he thinks.
 
 </div>
 
-<div class="post" data-post-id="37753" data-author="Gorka" data-date="2016-12-10T01:58:31+00:00">
+<div class="post" data-post-id="37753" data-author="Gorka" data-date="2016-12-10T01:58:31+00:00" data-subject="Re: General post to all">
 
 Thanks Splork, specifically... Rhin on SS, supplier on BH, Red Moran on AH...
 
 </div>
 
-<div class="post" data-post-id="37758" data-author="Josiah" data-date="2016-12-10T03:11:55+00:00">
+<div class="post" data-post-id="37758" data-author="Josiah" data-date="2016-12-10T03:11:55+00:00" data-subject="Re: General post to all">
 
 If you decide to give more money to shopkeepers, I'd recommend doing it gradually rather than right at reboot.
 
@@ -1041,7 +1041,7 @@ If they get a small hourly or larger daily allowance, that would be better than 
 
 </div>
 
-<div class="post" data-post-id="37761" data-author="Gorka" data-date="2016-12-10T04:53:35+00:00">
+<div class="post" data-post-id="37761" data-author="Gorka" data-date="2016-12-10T04:53:35+00:00" data-subject="Re: General post to all">
 
 Understand your thinking Jos, but your idea treats a symptom, not the problem. We are still going to bomb the shops, all you are doing is implementing a lag on us with your idea. But if the shop keepers at least had a mill, we can bomb them... AND the newb can sell his invitation to castle black.
 
@@ -1051,13 +1051,13 @@ I'll remind teker about shops, but figure he's read what Splork said here, cause
 
 </div>
 
-<div class="post" data-post-id="37769" data-author="*juggleblood*" data-date="2016-12-10T14:12:11+00:00">
+<div class="post" data-post-id="37769" data-author="*juggleblood*" data-date="2016-12-10T14:12:11+00:00" data-subject="Re: General post to all">
 
 Fixed. Supply shops will no longer buy tokens. They were never intended to honestly, I had added item type light a couple years back just on the chance that some newbie would sell a lamp or something. It wasn't so that you could fill up the shops with hexes. The other end of this problem is the excess of hexes from colibots. Will try to address that soon.
 
 </div>
 
-<div class="post" data-post-id="37771" data-author="Gorka" data-date="2016-12-10T15:56:47+00:00">
+<div class="post" data-post-id="37771" data-author="Gorka" data-date="2016-12-10T15:56:47+00:00" data-subject="Re: General post to all">
 
 Can I suggest more edits to Coliseum...
 

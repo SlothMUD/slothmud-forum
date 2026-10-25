@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39686" data-author="cnl" data-date="2021-02-16T07:39:34+00:00">
+<div class="post" data-post-id="39686" data-author="cnl" data-date="2021-02-16T07:39:34+00:00" data-subject="Display Group Window">
 
 Here's an example package of how to display GROUP using MSDP variables.
 

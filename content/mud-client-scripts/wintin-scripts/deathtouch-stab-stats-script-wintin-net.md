@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3853" data-author="*Splork*" data-date="2005-01-20T20:47:35+00:00">
+<div class="post" data-post-id="3853" data-author="*Splork*" data-date="2005-01-20T20:47:35+00:00" data-subject="Deathtouch/stab stats script Wintin.NET">
 
 Please change strings if you use this, you can easily make this work for backstabs by changing the trigger strings to the ones that work with those...
 

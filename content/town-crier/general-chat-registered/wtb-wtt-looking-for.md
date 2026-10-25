@@ -10,7 +10,7 @@ locked: false
 post_count: 73
 ---
 
-<div class="post" data-post-id="10539" data-author="Autolycos" data-date="2006-02-02T21:48:46+00:00">
+<div class="post" data-post-id="10539" data-author="Autolycos" data-date="2006-02-02T21:48:46+00:00" data-subject="WTB &amp; WTT  looking for   :)">
 
 ::::Looking for:::::
 
@@ -94,7 +94,7 @@ or catch me online, i'm always dieing somewhere..
 
 </div>
 
-<div class="post" data-post-id="10546" data-author="Autolycos" data-date="2006-02-03T13:44:59+00:00">
+<div class="post" data-post-id="10546" data-author="Autolycos" data-date="2006-02-03T13:44:59+00:00" data-subject="">
 
 >>BUMP<<
 
@@ -102,7 +102,7 @@ gimmie your stuffs!
 
 </div>
 
-<div class="post" data-post-id="10553" data-author="Firon" data-date="2006-02-03T21:45:13+00:00">
+<div class="post" data-post-id="10553" data-author="Firon" data-date="2006-02-03T21:45:13+00:00" data-subject="">
 
 I will pay more than Auto for the items listed
 
@@ -110,7 +110,7 @@ muwahaha!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10554" data-author="Autolycos" data-date="2006-02-03T22:13:12+00:00">
+<div class="post" data-post-id="10554" data-author="Autolycos" data-date="2006-02-03T22:13:12+00:00" data-subject="">
 
 not possible,  i'm killin all your coin mobs
 
@@ -118,7 +118,7 @@ all your eq's are belong to me
 
 </div>
 
-<div class="post" data-post-id="10556" data-author="brand" data-date="2006-02-04T06:57:13+00:00">
+<div class="post" data-post-id="10556" data-author="brand" data-date="2006-02-04T06:57:13+00:00" data-subject="">
 
 think i got your black hilt...
 
@@ -128,7 +128,7 @@ brand :!:  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10577" data-author="Autolycos" data-date="2006-02-06T01:12:57+00:00">
+<div class="post" data-post-id="10577" data-author="Autolycos" data-date="2006-02-06T01:12:57+00:00" data-subject="">
 
 popped my black hilt
 
@@ -196,7 +196,7 @@ a handful of fine red powder
 
 </div>
 
-<div class="post" data-post-id="10579" data-author="Vixn" data-date="2006-02-06T06:55:20+00:00">
+<div class="post" data-post-id="10579" data-author="Vixn" data-date="2006-02-06T06:55:20+00:00" data-subject="">
 
 I have Heavy Greatshield for trade, but I only need Thunderbolt from this list. Sure I can pay additional charge. The only questiion is would you trade bolt for this shield?
 
@@ -204,7 +204,7 @@ And what's that limestone statue for?
 
 </div>
 
-<div class="post" data-post-id="10613" data-author="Autolycos" data-date="2006-02-08T13:24:23+00:00">
+<div class="post" data-post-id="10613" data-author="Autolycos" data-date="2006-02-08T13:24:23+00:00" data-subject="">
 
 got the Purple Claw  :twisted: 
 
@@ -270,7 +270,7 @@ a handful of fine red powder
 
 </div>
 
-<div class="post" data-post-id="10621" data-author="Avatar" data-date="2006-02-08T19:59:23+00:00">
+<div class="post" data-post-id="10621" data-author="Avatar" data-date="2006-02-08T19:59:23+00:00" data-subject="Trading">
 
 The small, sharp scale is from the Basilisk?  That might be solo for you.
 
@@ -278,19 +278,19 @@ Anyway, I'll look tonight may have a whetstone or black parchment stored.
 
 </div>
 
-<div class="post" data-post-id="10622" data-author="Autolycos" data-date="2006-02-08T20:19:28+00:00">
+<div class="post" data-post-id="10622" data-author="Autolycos" data-date="2006-02-08T20:19:28+00:00" data-subject="WTB &amp; WTT  looking for   :)  trading lalala">
 
 sweet, that would be great  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10623" data-author="Weasel" data-date="2006-02-08T22:33:55+00:00">
+<div class="post" data-post-id="10623" data-author="Weasel" data-date="2006-02-08T22:33:55+00:00" data-subject="">
 
 Basilisk solo?  :shock:   ..damn overpowered thief primes..  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10624" data-author="Autolycos" data-date="2006-02-08T23:51:44+00:00">
+<div class="post" data-post-id="10624" data-author="Autolycos" data-date="2006-02-08T23:51:44+00:00" data-subject="Re: Trading">
 
 The small, sharp scale is from the Basilisk?  That might be solo for you.
 
@@ -334,19 +334,19 @@ You have been KILLED!!
 
 </div>
 
-<div class="post" data-post-id="10627" data-author="Guinex" data-date="2006-02-09T03:45:18+00:00">
+<div class="post" data-post-id="10627" data-author="Guinex" data-date="2006-02-09T03:45:18+00:00" data-subject="">
 
 Weak!
 
 </div>
 
-<div class="post" data-post-id="10628" data-author="Weasel" data-date="2006-02-09T04:08:01+00:00">
+<div class="post" data-post-id="10628" data-author="Weasel" data-date="2006-02-09T04:08:01+00:00" data-subject="">
 
 10 points for effort though Auto.
 
 </div>
 
-<div class="post" data-post-id="10631" data-author="Avatar" data-date="2006-02-09T19:29:25+00:00">
+<div class="post" data-post-id="10631" data-author="Avatar" data-date="2006-02-09T19:29:25+00:00" data-subject="Sorry Auto!">
 
 Sorry dude, hope you raised.
 
@@ -356,7 +356,7 @@ Sorry!
 
 </div>
 
-<div class="post" data-post-id="10632" data-author="Autolycos" data-date="2006-02-09T23:59:28+00:00">
+<div class="post" data-post-id="10632" data-author="Autolycos" data-date="2006-02-09T23:59:28+00:00" data-subject="">
 
 yeah i raised,  agemo saved my ass again... seems a growing trend lately.
 
@@ -364,7 +364,7 @@ and no, wasnt futility, but sure was damn funny!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10634" data-author="Aleksey" data-date="2006-02-10T07:18:02+00:00">
+<div class="post" data-post-id="10634" data-author="Aleksey" data-date="2006-02-10T07:18:02+00:00" data-subject="">
 
 Funny mob:) didnt know that he using blind
 
@@ -410,7 +410,7 @@ Killable but looks like hitting harder than befor
 
 </div>
 
-<div class="post" data-post-id="10637" data-author="Autolycos" data-date="2006-02-10T12:32:22+00:00">
+<div class="post" data-post-id="10637" data-author="Autolycos" data-date="2006-02-10T12:32:22+00:00" data-subject="">
 
 **applauds**
 
@@ -418,13 +418,13 @@ well done..  now pop me a scale smartass  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10643" data-author="Weasel" data-date="2006-02-10T19:12:23+00:00">
+<div class="post" data-post-id="10643" data-author="Weasel" data-date="2006-02-10T19:12:23+00:00" data-subject="">
 
 and while you're there, pop me a huge steel hoop, a flask of magic mist, and 2 iron masks so I can finish my 2 orc bracelets.. :)
 
 </div>
 
-<div class="post" data-post-id="10697" data-author="Autolycos" data-date="2006-02-13T18:58:27+00:00">
+<div class="post" data-post-id="10697" data-author="Autolycos" data-date="2006-02-13T18:58:27+00:00" data-subject="">
 
 Vixn,  hunt me down... i havent seen you on.
 
@@ -486,7 +486,7 @@ the gem of a thousand stars
 
 </div>
 
-<div class="post" data-post-id="10698" data-author="Autolycos" data-date="2006-02-13T19:19:21+00:00">
+<div class="post" data-post-id="10698" data-author="Autolycos" data-date="2006-02-13T19:19:21+00:00" data-subject="">
 
 and just to ensure that you all think i am crazy...
 
@@ -498,7 +498,7 @@ trust me, i have more coins then patience :twisted:
 
 </div>
 
-<div class="post" data-post-id="10701" data-author="Autolycos" data-date="2006-02-13T22:54:18+00:00">
+<div class="post" data-post-id="10701" data-author="Autolycos" data-date="2006-02-13T22:54:18+00:00" data-subject="">
 
 and the list slowly shrinks :twisted: 
 
@@ -554,7 +554,7 @@ the gem of a thousand stars
 
 </div>
 
-<div class="post" data-post-id="10703" data-author="Autolycos" data-date="2006-02-14T00:36:21+00:00">
+<div class="post" data-post-id="10703" data-author="Autolycos" data-date="2006-02-14T00:36:21+00:00" data-subject="">
 
 ::::Still Looking for::::: 
 
@@ -590,7 +590,7 @@ a china doll
 
 </div>
 
-<div class="post" data-post-id="10707" data-author="Avatar" data-date="2006-02-14T13:56:18+00:00">
+<div class="post" data-post-id="10707" data-author="Avatar" data-date="2006-02-14T13:56:18+00:00" data-subject="Auto">
 
 I saw a clip of Jay Leno the other day, where he says he's pretty much the president of the "more money than brains" club.  I guess Auto would be the VP.  
 
@@ -598,7 +598,7 @@ It's time to go shoot someone Auto!
 
 </div>
 
-<div class="post" data-post-id="10708" data-author="Autolycos" data-date="2006-02-14T14:37:00+00:00">
+<div class="post" data-post-id="10708" data-author="Autolycos" data-date="2006-02-14T14:37:00+00:00" data-subject="">
 
 WHOOO HOOO!!!!!   :twisted: 
 
@@ -618,7 +618,7 @@ Weasel is laying here bleeding awfully from big wounds. :twisted:
 
 </div>
 
-<div class="post" data-post-id="10709" data-author="12345" data-date="2006-02-14T14:52:33+00:00">
+<div class="post" data-post-id="10709" data-author="12345" data-date="2006-02-14T14:52:33+00:00" data-subject="">
 
 Don't encourage him... the last thing we need is Auto running around saying:
 
@@ -626,7 +626,7 @@ Don't encourage him... the last thing we need is Auto running around saying:
 
 </div>
 
-<div class="post" data-post-id="10711" data-author="Autolycos" data-date="2006-02-14T16:02:12+00:00">
+<div class="post" data-post-id="10711" data-author="Autolycos" data-date="2006-02-14T16:02:12+00:00" data-subject="">
 
 *snicker
 
@@ -636,13 +636,13 @@ although i wouldnt put such a thing past Guinex
 
 </div>
 
-<div class="post" data-post-id="10713" data-author="Weasel" data-date="2006-02-14T18:08:30+00:00">
+<div class="post" data-post-id="10713" data-author="Weasel" data-date="2006-02-14T18:08:30+00:00" data-subject="">
 
 :evil:
 
 </div>
 
-<div class="post" data-post-id="10714" data-author="Autolycos" data-date="2006-02-14T18:19:52+00:00">
+<div class="post" data-post-id="10714" data-author="Autolycos" data-date="2006-02-14T18:19:52+00:00" data-subject="">
 
 he looks so cute stuffed on my mantle  :twisted: 
 
@@ -650,7 +650,7 @@ he looks so cute stuffed on my mantle  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10715" data-author="Weasel" data-date="2006-02-14T19:05:45+00:00">
+<div class="post" data-post-id="10715" data-author="Weasel" data-date="2006-02-14T19:05:45+00:00" data-subject="">
 
 Unfortunately for you, as a final act of defiance, I swallow a nuke... and this is what happens to your mantle, your house, and more importantly, you..  :twisted: 
 
@@ -658,13 +658,13 @@ Unfortunately for you, as a final act of defiance, I swallow a nuke... and this 
 
 </div>
 
-<div class="post" data-post-id="10716" data-author="12345" data-date="2006-02-14T19:18:31+00:00">
+<div class="post" data-post-id="10716" data-author="12345" data-date="2006-02-14T19:18:31+00:00" data-subject="">
 
 How many times do I have to say it? [i:y7wyerwl]Please[/i:y7wyerwl] don't swallow the thermonuclear weapons!
 
 </div>
 
-<div class="post" data-post-id="10721" data-author="Autolycos" data-date="2006-02-14T19:49:55+00:00">
+<div class="post" data-post-id="10721" data-author="Autolycos" data-date="2006-02-14T19:49:55+00:00" data-subject="">
 
 interesting to say the least.  
 
@@ -684,19 +684,19 @@ he just couldnt stay away.....
 
 </div>
 
-<div class="post" data-post-id="10723" data-author="Guinex" data-date="2006-02-14T20:00:56+00:00">
+<div class="post" data-post-id="10723" data-author="Guinex" data-date="2006-02-14T20:00:56+00:00" data-subject="">
 
 Doesn't he always come back?
 
 </div>
 
-<div class="post" data-post-id="10724" data-author="Autolycos" data-date="2006-02-14T20:24:10+00:00">
+<div class="post" data-post-id="10724" data-author="Autolycos" data-date="2006-02-14T20:24:10+00:00" data-subject="">
 
 time will tell......
 
 </div>
 
-<div class="post" data-post-id="10736" data-author="Autolycos" data-date="2006-02-15T21:37:20+00:00">
+<div class="post" data-post-id="10736" data-author="Autolycos" data-date="2006-02-15T21:37:20+00:00" data-subject="">
 
 as my wants and needs dwindle to a light nothingness.. i reach back for a simpler time.. when i actually cared  :twisted: 
 
@@ -736,7 +736,7 @@ a china doll
 
 </div>
 
-<div class="post" data-post-id="10805" data-author="Autolycos" data-date="2006-02-21T03:46:55+00:00">
+<div class="post" data-post-id="10805" data-author="Autolycos" data-date="2006-02-21T03:46:55+00:00" data-subject="">
 
 got my Black Parchment  :twisted: 
 
@@ -780,31 +780,31 @@ a dead rat {mage4}
 
 </div>
 
-<div class="post" data-post-id="10806" data-author="Weasel" data-date="2006-02-21T07:45:55+00:00">
+<div class="post" data-post-id="10806" data-author="Weasel" data-date="2006-02-21T07:45:55+00:00" data-subject="">
 
 all your base are belong to us
 
 </div>
 
-<div class="post" data-post-id="10807" data-author="Autolycos" data-date="2006-02-21T15:45:53+00:00">
+<div class="post" data-post-id="10807" data-author="Autolycos" data-date="2006-02-21T15:45:53+00:00" data-subject="">
 
 [i:2lzwjx12][b:2lzwjx12]ALL YOUR WHETSTONE ARE BELONG TO ME!!!![/color:2lzwjx12][/size:2lzwjx12][/b:2lzwjx12][/i:2lzwjx12]
 
 </div>
 
-<div class="post" data-post-id="10825" data-author="Avatar" data-date="2006-02-21T22:21:14+00:00">
+<div class="post" data-post-id="10825" data-author="Avatar" data-date="2006-02-21T22:21:14+00:00" data-subject="WTT">
 
 I vote we leave Auto lacking one last cp for each of the forges he's working on.  What do you say?
 
 </div>
 
-<div class="post" data-post-id="10827" data-author="Autolycos" data-date="2006-02-21T22:40:28+00:00">
+<div class="post" data-post-id="10827" data-author="Autolycos" data-date="2006-02-21T22:40:28+00:00" data-subject="">
 
 STFU!!!   i already am missing 1 cmp on all my forges!!!!!!  :evil:
 
 </div>
 
-<div class="post" data-post-id="10941" data-author="Autolycos" data-date="2006-02-27T14:29:49+00:00">
+<div class="post" data-post-id="10941" data-author="Autolycos" data-date="2006-02-27T14:29:49+00:00" data-subject="">
 
 new good trading fodder added![/size:13420o7s][/color:13420o7s]
 
@@ -864,7 +864,7 @@ and [b:13420o7s]$$$$$$$$$[/b:13420o7s][/color:13420o7s][/size:13420o7s]
 
 </div>
 
-<div class="post" data-post-id="10951" data-author="Leaf" data-date="2006-02-27T21:37:34+00:00">
+<div class="post" data-post-id="10951" data-author="Leaf" data-date="2006-02-27T21:37:34+00:00" data-subject="">
 
 Don't think anyone well trade Bone Shattered Guards...
 
@@ -876,13 +876,13 @@ So good luck Jason!
 
 </div>
 
-<div class="post" data-post-id="10952" data-author="Autolycos" data-date="2006-02-27T21:58:07+00:00">
+<div class="post" data-post-id="10952" data-author="Autolycos" data-date="2006-02-27T21:58:07+00:00" data-subject="">
 
 can always try,  besides my wallet is pretty endless
 
 </div>
 
-<div class="post" data-post-id="10953" data-author="Leaf" data-date="2006-02-27T22:52:10+00:00">
+<div class="post" data-post-id="10953" data-author="Leaf" data-date="2006-02-27T22:52:10+00:00" data-subject="">
 
 Hum... that is true, selling ashen for 20mil!!!!
 
@@ -896,19 +896,19 @@ Also the forges are listed below:
 
 </div>
 
-<div class="post" data-post-id="10954" data-author="Krok" data-date="2006-02-28T08:20:00+00:00">
+<div class="post" data-post-id="10954" data-author="Krok" data-date="2006-02-28T08:20:00+00:00" data-subject="">
 
 hehe, i would never trade mine.
 
 </div>
 
-<div class="post" data-post-id="10956" data-author="Leaf" data-date="2006-02-28T12:23:39+00:00">
+<div class="post" data-post-id="10956" data-author="Leaf" data-date="2006-02-28T12:23:39+00:00" data-subject="">
 
 Look Krok as a bone guard, GET HER!!!
 
 </div>
 
-<div class="post" data-post-id="10957" data-author="Autolycos" data-date="2006-02-28T12:44:36+00:00">
+<div class="post" data-post-id="10957" data-author="Autolycos" data-date="2006-02-28T12:44:36+00:00" data-subject="">
 
 grrrrr 
 
@@ -916,13 +916,13 @@ grrrrr
 
 </div>
 
-<div class="post" data-post-id="10958" data-author="Krok" data-date="2006-02-28T15:02:42+00:00">
+<div class="post" data-post-id="10958" data-author="Krok" data-date="2006-02-28T15:02:42+00:00" data-subject="">
 
 Kiss my shiney arm bands! :P
 
 </div>
 
-<div class="post" data-post-id="10959" data-author="Autolycos" data-date="2006-02-28T15:13:00+00:00">
+<div class="post" data-post-id="10959" data-author="Autolycos" data-date="2006-02-28T15:13:00+00:00" data-subject="">
 
 You tell derro  hey.... i know this noobie thief that has some eq she dont want anymore..  :twisted: 
 
@@ -930,7 +930,7 @@ cackle  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10960" data-author="Krok" data-date="2006-02-28T15:43:56+00:00">
+<div class="post" data-post-id="10960" data-author="Krok" data-date="2006-02-28T15:43:56+00:00" data-subject="">
 
 By what name do you wish to be known? Derro
 
@@ -940,13 +940,13 @@ Password accepted.  Press return to continue...
 
 </div>
 
-<div class="post" data-post-id="10962" data-author="Autolycos" data-date="2006-02-28T16:02:50+00:00">
+<div class="post" data-post-id="10962" data-author="Autolycos" data-date="2006-02-28T16:02:50+00:00" data-subject="">
 
 cackle!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11054" data-author="Autolycos" data-date="2006-03-04T13:46:41+00:00">
+<div class="post" data-post-id="11054" data-author="Autolycos" data-date="2006-03-04T13:46:41+00:00" data-subject="">
 
 whetstone aquired..
 
@@ -1006,7 +1006,7 @@ and [b:3cr2rb7k]$$$$$$$$$[/b:3cr2rb7k][/color:3cr2rb7k][/size:3cr2rb7k]
 
 </div>
 
-<div class="post" data-post-id="11058" data-author="Autolycos" data-date="2006-03-04T14:53:12+00:00">
+<div class="post" data-post-id="11058" data-author="Autolycos" data-date="2006-03-04T14:53:12+00:00" data-subject="">
 
 new stuff added to trade..
 
@@ -1068,7 +1068,7 @@ and $$$$$$$$$
 
 </div>
 
-<div class="post" data-post-id="11094" data-author="Autolycos" data-date="2006-03-08T13:46:47+00:00">
+<div class="post" data-post-id="11094" data-author="Autolycos" data-date="2006-03-08T13:46:47+00:00" data-subject="">
 
 ok, i guess i should be more specific on coins, offering the following outright coins, if you dont have the item, then lead and pop it, i dont care how you get it  :twisted: my luck just doesnt seem in it.  
 
@@ -1126,7 +1126,7 @@ a sable cloak
 
 </div>
 
-<div class="post" data-post-id="11096" data-author="Blastem" data-date="2006-03-08T14:13:48+00:00">
+<div class="post" data-post-id="11096" data-author="Blastem" data-date="2006-03-08T14:13:48+00:00" data-subject="">
 
 Hey Auto..... 
 
@@ -1136,7 +1136,7 @@ Sounds like some good advise why dun you STFU and get poppin...
 
 </div>
 
-<div class="post" data-post-id="11097" data-author="Autolycos" data-date="2006-03-08T14:34:17+00:00">
+<div class="post" data-post-id="11097" data-author="Autolycos" data-date="2006-03-08T14:34:17+00:00" data-subject="">
 
 then lead and pop it, i dont care how you get it  :twisted: [b:17hprn2c]my luck just doesnt seem in it.  [/color:17hprn2c][/b:17hprn2c][/quote:17hprn2c]
 
@@ -1148,7 +1148,7 @@ regardless if i was leading, or following.
 
 </div>
 
-<div class="post" data-post-id="11098" data-author="Weasel" data-date="2006-03-08T14:55:54+00:00">
+<div class="post" data-post-id="11098" data-author="Weasel" data-date="2006-03-08T14:55:54+00:00" data-subject="">
 
 BTW if anyone wants to sell Volc Shoulder Guards, I'll pay more than what Auto is offering here  :twisted:
 
@@ -1156,7 +1156,7 @@ BTW if anyone wants to sell Volc Shoulder Guards, I'll pay more than what Auto i
 
 </div>
 
-<div class="post" data-post-id="11100" data-author="Qa" data-date="2006-03-08T20:56:59+00:00">
+<div class="post" data-post-id="11100" data-author="Qa" data-date="2006-03-08T20:56:59+00:00" data-subject="">
 
 BTW if anyone wants to sell Volc Shoulder Guards, I'll pay more than what Weasel or Auto is offering here  
 
@@ -1166,37 +1166,37 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="11101" data-author="Guinex" data-date="2006-03-08T21:10:36+00:00">
+<div class="post" data-post-id="11101" data-author="Guinex" data-date="2006-03-08T21:10:36+00:00" data-subject="">
 
 ZZZZzzzzZZZZzzzz
 
 </div>
 
-<div class="post" data-post-id="11104" data-author="Weasel" data-date="2006-03-08T23:05:49+00:00">
+<div class="post" data-post-id="11104" data-author="Weasel" data-date="2006-03-08T23:05:49+00:00" data-subject="">
 
 hehe  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11105" data-author="Autolycos" data-date="2006-03-09T00:03:30+00:00">
+<div class="post" data-post-id="11105" data-author="Autolycos" data-date="2006-03-09T00:03:30+00:00" data-subject="">
 
 WTT  a weasel fur coat, and the skull of a washed up cleric for a set of volc guards  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11106" data-author="Weasel" data-date="2006-03-09T00:24:34+00:00">
+<div class="post" data-post-id="11106" data-author="Weasel" data-date="2006-03-09T00:24:34+00:00" data-subject="">
 
 now -there's- a serious offer   :wink:
 
 </div>
 
-<div class="post" data-post-id="11107" data-author="Autolycos" data-date="2006-03-09T00:26:28+00:00">
+<div class="post" data-post-id="11107" data-author="Autolycos" data-date="2006-03-09T00:26:28+00:00" data-subject="">
 
 *bows*   :twisted:
 
 </div>
 
-<div class="post" data-post-id="11404" data-author="Autolycos" data-date="2006-03-17T14:54:09+00:00">
+<div class="post" data-post-id="11404" data-author="Autolycos" data-date="2006-03-17T14:54:09+00:00" data-subject="">
 
 [i:1zqs88nh][b:1zqs88nh]Last time i'll post this list..  I have added alot more stuff to trade, and increased the coins.[/color:1zqs88nh].[/b:1zqs88nh][/i:1zqs88nh]
 
@@ -1256,7 +1256,7 @@ a sable cloak
 
 </div>
 
-<div class="post" data-post-id="11441" data-author="Leaf" data-date="2006-03-17T19:58:00+00:00">
+<div class="post" data-post-id="11441" data-author="Leaf" data-date="2006-03-17T19:58:00+00:00" data-subject="">
 
 Glad this will be Auto's last post.
 
@@ -1264,7 +1264,7 @@ PS.  Bone Guards for 30mil... HAHAHAHAHA in ur dreams!
 
 </div>
 
-<div class="post" data-post-id="11443" data-author="Autolycos" data-date="2006-03-17T20:02:30+00:00">
+<div class="post" data-post-id="11443" data-author="Autolycos" data-date="2006-03-17T20:02:30+00:00" data-subject="">
 
 thats to open haggling jackass.. 
 
@@ -1272,7 +1272,7 @@ but you wouldnt know anything about good eq or values.  since all of your chars 
 
 </div>
 
-<div class="post" data-post-id="11444" data-author="Leaf" data-date="2006-03-17T20:37:26+00:00">
+<div class="post" data-post-id="11444" data-author="Leaf" data-date="2006-03-17T20:37:26+00:00" data-subject="">
 
 Who u kidding, I had a Bone Shattered Guard and I didn't sell it for 100mil.
 
@@ -1280,13 +1280,13 @@ U have a big gap there bud :)
 
 </div>
 
-<div class="post" data-post-id="11446" data-author="Autolycos" data-date="2006-03-17T20:42:04+00:00">
+<div class="post" data-post-id="11446" data-author="Autolycos" data-date="2006-03-17T20:42:04+00:00" data-subject="">
 
 and your point?   perhaps that is information that i might not have? perhaps i should just kill you and take yours?  :evil:
 
 </div>
 
-<div class="post" data-post-id="11448" data-author="Leaf" data-date="2006-03-17T20:52:35+00:00">
+<div class="post" data-post-id="11448" data-author="Leaf" data-date="2006-03-17T20:52:35+00:00" data-subject="">
 
 Key word = HAD :)
 
@@ -1294,13 +1294,13 @@ I traded mine for a bunch of eq :)
 
 </div>
 
-<div class="post" data-post-id="11453" data-author="Krok" data-date="2006-03-17T21:12:12+00:00">
+<div class="post" data-post-id="11453" data-author="Krok" data-date="2006-03-17T21:12:12+00:00" data-subject="">
 
 Will, let the newb dream about having the weeklies for 30 mils.
 
 </div>
 
-<div class="post" data-post-id="11462" data-author="Leaf" data-date="2006-03-17T22:26:20+00:00">
+<div class="post" data-post-id="11462" data-author="Leaf" data-date="2006-03-17T22:26:20+00:00" data-subject="">
 
 Well there are some weekly u can get that are under 10mil.
 
@@ -1310,13 +1310,13 @@ Would be kinda funny, or so I think.
 
 </div>
 
-<div class="post" data-post-id="11464" data-author="Krok" data-date="2006-03-17T22:51:25+00:00">
+<div class="post" data-post-id="11464" data-author="Krok" data-date="2006-03-17T22:51:25+00:00" data-subject="">
 
 Stfu, please.
 
 </div>
 
-<div class="post" data-post-id="11465" data-author="Krok" data-date="2006-03-17T22:53:48+00:00">
+<div class="post" data-post-id="11465" data-author="Krok" data-date="2006-03-17T22:53:48+00:00" data-subject="">
 
 Hrm, it was supposed to have the new signature, but it didn't work. :(((
 

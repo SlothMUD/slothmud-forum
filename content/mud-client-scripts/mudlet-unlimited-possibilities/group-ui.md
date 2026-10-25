@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="35462" data-author="Akaya" data-date="2014-10-20T19:55:05+00:00">
+<div class="post" data-post-id="35462" data-author="Akaya" data-date="2014-10-20T19:55:05+00:00" data-subject="Group UI">
 
 The new msdp.GROUP variable opened the doors for a group user interface. Very exciting! Here's a sneak peak...
 
@@ -22,19 +22,19 @@ How is this useful? Well you can now know when *anyone* in the group needs healt
 
 </div>
 
-<div class="post" data-post-id="35463" data-author="*Splork*" data-date="2014-10-20T22:09:19+00:00">
+<div class="post" data-post-id="35463" data-author="*Splork*" data-date="2014-10-20T22:09:19+00:00" data-subject="Re: Group UI">
 
 This is pretty damn sweet!
 
 </div>
 
-<div class="post" data-post-id="35470" data-author="*Breeze*" data-date="2014-10-23T15:42:47+00:00">
+<div class="post" data-post-id="35470" data-author="*Breeze*" data-date="2014-10-23T15:42:47+00:00" data-subject="Re: Group UI">
 
 Yup can't wait to get my hands on it :)
 
 </div>
 
-<div class="post" data-post-id="35481" data-author="Filk" data-date="2014-10-31T19:27:57+00:00">
+<div class="post" data-post-id="35481" data-author="Filk" data-date="2014-10-31T19:27:57+00:00" data-subject="Re: Group UI">
 
 Cant post in mud updates topic, and probably thats best place for my thoughts.
 
@@ -52,13 +52,13 @@ Thanks in advance
 
 </div>
 
-<div class="post" data-post-id="35482" data-author="Akaya" data-date="2014-10-31T21:53:05+00:00">
+<div class="post" data-post-id="35482" data-author="Akaya" data-date="2014-10-31T21:53:05+00:00" data-subject="Re: Group UI">
 
 Not a bad idea :)
 
 </div>
 
-<div class="post" data-post-id="35485" data-author="Filk" data-date="2014-11-03T05:49:02+00:00">
+<div class="post" data-post-id="35485" data-author="Filk" data-date="2014-11-03T05:49:02+00:00" data-subject="Re: Group UI">
 
 Found another moment with group msdp var.
 
@@ -80,7 +80,7 @@ ps: Thats how my interface looking right now:
 
 </div>
 
-<div class="post" data-post-id="35486" data-author="*Splork*" data-date="2014-11-03T12:47:10+00:00">
+<div class="post" data-post-id="35486" data-author="*Splork*" data-date="2014-11-03T12:47:10+00:00" data-subject="Re: Group UI">
 
 I plan on adding Class and levels when I get a chance.I can also add a value for Leader/Front(LF).
 
@@ -90,7 +90,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35488" data-author="*Splork*" data-date="2014-11-04T01:04:27+00:00">
+<div class="post" data-post-id="35488" data-author="*Splork*" data-date="2014-11-04T01:04:27+00:00" data-subject="Re: Group UI">
 
 Added GROUP.CLASS and GROUP.LEVELS
 
@@ -130,25 +130,25 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35490" data-author="Filk" data-date="2014-11-06T01:22:15+00:00">
+<div class="post" data-post-id="35490" data-author="Filk" data-date="2014-11-06T01:22:15+00:00" data-subject="Re: Group UI">
 
 Not sure if i am correct, but you posted these changes 2 days ago, and reset was, 1 day 9 hours ago. But changes still not ingame. Maybe something went wrong. Or maybe i am  dumb  :lol:
 
 </div>
 
-<div class="post" data-post-id="35492" data-author="Filk" data-date="2014-11-07T01:50:09+00:00">
+<div class="post" data-post-id="35492" data-author="Filk" data-date="2014-11-07T01:50:09+00:00" data-subject="Re: Group UI">
 
 Well. It appeared after last reboot. But now it has my own level and class values for each player in group :)
 
 </div>
 
-<div class="post" data-post-id="35494" data-author="*Splork*" data-date="2014-11-07T19:34:50+00:00">
+<div class="post" data-post-id="35494" data-author="*Splork*" data-date="2014-11-07T19:34:50+00:00" data-subject="Re: Group UI">
 
 This is fixed on reboot.
 
 </div>
 
-<div class="post" data-post-id="35506" data-author="Tuck" data-date="2014-11-13T14:37:40+00:00">
+<div class="post" data-post-id="35506" data-author="Tuck" data-date="2014-11-13T14:37:40+00:00" data-subject="Re: Group UI">
 
 Jeez, Filk's cmud look amazing! Good job Filk!
 

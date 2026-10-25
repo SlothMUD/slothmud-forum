@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="17141" data-author="Autolycos" data-date="2007-03-01T19:10:55+00:00">
+<div class="post" data-post-id="17141" data-author="Autolycos" data-date="2007-03-01T19:10:55+00:00" data-subject="Who list clan prompt">
 
 So Truth & I were kicking around some ideas... like making a type of clan promtp at either the begining or end of who entry..  would save space on writing titles. and be optional to turn on/off by users.
 
@@ -38,7 +38,7 @@ any ideas/comments?
 
 </div>
 
-<div class="post" data-post-id="17144" data-author="Weasel" data-date="2007-03-02T04:42:11+00:00">
+<div class="post" data-post-id="17144" data-author="Weasel" data-date="2007-03-02T04:42:11+00:00" data-subject="Re: Who list clan prompt">
 
 any ideas/comments?[/quote:i8mx268r]
 
@@ -48,7 +48,7 @@ bet ya didn't see that one coming...  :shock:
 
 </div>
 
-<div class="post" data-post-id="17145" data-author="Bazilus" data-date="2007-03-02T12:11:19+00:00">
+<div class="post" data-post-id="17145" data-author="Bazilus" data-date="2007-03-02T12:11:19+00:00" data-subject="">
 
 hmm better make:
 
@@ -58,13 +58,13 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="17147" data-author="13" data-date="2007-03-02T16:43:52+00:00">
+<div class="post" data-post-id="17147" data-author="13" data-date="2007-03-02T16:43:52+00:00" data-subject="">
 
 I personally like to change the color up on my clan symbol.  I wouldn't like to have to use the red and green every time.
 
 </div>
 
-<div class="post" data-post-id="17151" data-author="Autolycos" data-date="2007-03-02T22:10:17+00:00">
+<div class="post" data-post-id="17151" data-author="Autolycos" data-date="2007-03-02T22:10:17+00:00" data-subject="">
 
 hmm better make:
 
@@ -76,7 +76,7 @@ i like that idea too  8)
 
 </div>
 
-<div class="post" data-post-id="17153" data-author="Medios" data-date="2007-03-02T22:54:00+00:00">
+<div class="post" data-post-id="17153" data-author="Medios" data-date="2007-03-02T22:54:00+00:00" data-subject="">
 
 Do you people have your mom tie your shoes?  This is why our govt takes away all our rights.  People cant even breath without some intervention.  How can you be so damn lazy that you wont even change your title to reflect the clan that your in.  If its such a problem dont title your clan.
 
@@ -84,13 +84,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17154" data-author="brady" data-date="2007-03-03T00:39:46+00:00">
+<div class="post" data-post-id="17154" data-author="brady" data-date="2007-03-03T00:39:46+00:00" data-subject="">
 
 I prefer velcro.
 
 </div>
 
-<div class="post" data-post-id="17156" data-author="Medios" data-date="2007-03-03T01:42:29+00:00">
+<div class="post" data-post-id="17156" data-author="Medios" data-date="2007-03-03T01:42:29+00:00" data-subject="">
 
 {titdow} --> {tit of War \d11~\d12[\d11DoW\d12]\d11~}
 
@@ -110,7 +110,7 @@ PS  Brady sports Pro-Wings.
 
 </div>
 
-<div class="post" data-post-id="17157" data-author="Autolycos" data-date="2007-03-03T02:44:07+00:00">
+<div class="post" data-post-id="17157" data-author="Autolycos" data-date="2007-03-03T02:44:07+00:00" data-subject="">
 
 1  i didnt address you your highass
 
@@ -122,7 +122,7 @@ just cause you dont agree, doesnt mean i care.
 
 </div>
 
-<div class="post" data-post-id="17158" data-author="Medios" data-date="2007-03-03T02:52:19+00:00">
+<div class="post" data-post-id="17158" data-author="Medios" data-date="2007-03-03T02:52:19+00:00" data-subject="">
 
 *applaud*
 
@@ -132,19 +132,19 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17159" data-author="Autolycos" data-date="2007-03-03T02:58:11+00:00">
+<div class="post" data-post-id="17159" data-author="Autolycos" data-date="2007-03-03T02:58:11+00:00" data-subject="">
 
 laff
 
 </div>
 
-<div class="post" data-post-id="17160" data-author="Weasel" data-date="2007-03-03T03:54:19+00:00">
+<div class="post" data-post-id="17160" data-author="Weasel" data-date="2007-03-03T03:54:19+00:00" data-subject="">
 
 get a room
 
 </div>
 
-<div class="post" data-post-id="17161" data-author="Medios" data-date="2007-03-03T04:06:43+00:00">
+<div class="post" data-post-id="17161" data-author="Medios" data-date="2007-03-03T04:06:43+00:00" data-subject="">
 
 Weasel if you were a little bit smaller, like say a hamster.  I might let you sniff Aaron's butt.  
 
@@ -152,13 +152,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17162" data-author="Weasel" data-date="2007-03-03T05:41:12+00:00">
+<div class="post" data-post-id="17162" data-author="Weasel" data-date="2007-03-03T05:41:12+00:00" data-subject="">
 
 I'm guessing a gerbil would be the victim of choice.
 
 </div>
 
-<div class="post" data-post-id="17163" data-author="12345" data-date="2007-03-03T06:45:58+00:00">
+<div class="post" data-post-id="17163" data-author="12345" data-date="2007-03-03T06:45:58+00:00" data-subject="">
 
 That would depend on what you plan on doing with it...
 
@@ -168,13 +168,13 @@ Here's a practice course if you need it though:
 
 </div>
 
-<div class="post" data-post-id="17164" data-author="Weasel" data-date="2007-03-03T06:58:25+00:00">
+<div class="post" data-post-id="17164" data-author="Weasel" data-date="2007-03-03T06:58:25+00:00" data-subject="">
 
 HA!
 
 </div>
 
-<div class="post" data-post-id="17165" data-author="Autolycos" data-date="2007-03-03T15:17:42+00:00">
+<div class="post" data-post-id="17165" data-author="Autolycos" data-date="2007-03-03T15:17:42+00:00" data-subject="">
 
 just plain nasty :shock:
 

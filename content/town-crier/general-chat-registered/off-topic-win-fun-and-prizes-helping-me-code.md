@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="20984" data-author="Sheng" data-date="2007-10-23T15:42:40+00:00">
+<div class="post" data-post-id="20984" data-author="Sheng" data-date="2007-10-23T15:42:40+00:00" data-subject="[off topic] Win fun and prizes helping me code! :)">
 
 I'm willing to offer sloth coinage (up to a few dozen millions) or some nice eq from the Sheng Vaults to anyone who gives me good advice and/or help on my current project.  Obviously, the reward would depend on how helpful I decide your contribution is.
 
@@ -22,7 +22,7 @@ If anyone has successfully done something like this, I'll gladly take any feedba
 
 </div>
 
-<div class="post" data-post-id="20985" data-author="Weasel" data-date="2007-10-23T16:41:23+00:00">
+<div class="post" data-post-id="20985" data-author="Weasel" data-date="2007-10-23T16:41:23+00:00" data-subject="">
 
 Do you have your own server, or are you using a hosted server? Unix? Windows?
 
@@ -34,7 +34,7 @@ couple of links that may help if this is what you;re after:
 
 </div>
 
-<div class="post" data-post-id="20986" data-author="Sheng" data-date="2007-10-23T17:35:23+00:00">
+<div class="post" data-post-id="20986" data-author="Sheng" data-date="2007-10-23T17:35:23+00:00" data-subject="">
 
 Right now we're on a shared server (windows), but we'll be moving to a dedicated server as soon as we can afford it, or if it's required to get the email thing working.
 

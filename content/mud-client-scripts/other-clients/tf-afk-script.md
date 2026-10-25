@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33838" data-author="raincrab" data-date="2012-12-11T23:51:20+00:00">
+<div class="post" data-post-id="33838" data-author="raincrab" data-date="2012-12-11T23:51:20+00:00" data-subject="tf afk script">
 
 defines a /afk macro that toggles afk, updates title, and auto lurks.
 
@@ -41,7 +41,7 @@ defines a /afk macro that toggles afk, updates title, and auto lurks.
 
 </div>
 
-<div class="post" data-post-id="33841" data-author="jezer" data-date="2012-12-12T23:47:14+00:00">
+<div class="post" data-post-id="33841" data-author="jezer" data-date="2012-12-12T23:47:14+00:00" data-subject="Re: tf afk script">
 
 Can you post your Ruby dropping script?  :P  :shock:  :twisted:
 

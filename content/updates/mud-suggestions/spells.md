@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="1101" data-author="Except" data-date="2004-07-17T04:23:10+00:00">
+<div class="post" data-post-id="1101" data-author="Except" data-date="2004-07-17T04:23:10+00:00" data-subject="Spells">
 
 Many useful spells are not available for my class order, in spite of having 2 caster classes.
 
@@ -34,7 +34,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="1103" data-author="Avatar" data-date="2004-07-17T07:13:33+00:00">
+<div class="post" data-post-id="1103" data-author="Avatar" data-date="2004-07-17T07:13:33+00:00" data-subject="Spell options">
 
 There are alternatives to a few of those spells.  
 
@@ -48,7 +48,7 @@ That's all off the top of my head.  Look around a little bit more, you might fin
 
 </div>
 
-<div class="post" data-post-id="1104" data-author="Leizu" data-date="2004-07-17T07:30:40+00:00">
+<div class="post" data-post-id="1104" data-author="Leizu" data-date="2004-07-17T07:30:40+00:00" data-subject="">
 
 lloyd beacon - passage
 

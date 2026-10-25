@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30116" data-author="hounds" data-date="2009-10-15T07:39:22+00:00">
+<div class="post" data-post-id="30116" data-author="hounds" data-date="2009-10-15T07:39:22+00:00" data-subject="shrug">
 
 Bolg, Goblin King hates your guts!
 
@@ -28,7 +28,7 @@ woot woot go triple stab?
 
 </div>
 
-<div class="post" data-post-id="30117" data-author="Vixn" data-date="2009-10-16T13:11:03+00:00">
+<div class="post" data-post-id="30117" data-author="Vixn" data-date="2009-10-16T13:11:03+00:00" data-subject="Re: shrug">
 
 Your triple whiff causes Bolg, Goblin King to fall on the floor laughing his ass off![/quote:m7wjwb61]
 

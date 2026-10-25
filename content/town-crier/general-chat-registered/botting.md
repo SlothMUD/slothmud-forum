@@ -10,7 +10,7 @@ locked: false
 post_count: 34
 ---
 
-<div class="post" data-post-id="22351" data-author="Seda" data-date="2008-01-29T07:51:07+00:00">
+<div class="post" data-post-id="22351" data-author="Seda" data-date="2008-01-29T07:51:07+00:00" data-subject="Botting">
 
 Botting is breaking the rules...  
 
@@ -84,7 +84,7 @@ Seda[/color:r60d36dz]
 
 </div>
 
-<div class="post" data-post-id="22352" data-author="jezer" data-date="2008-01-29T08:02:52+00:00">
+<div class="post" data-post-id="22352" data-author="jezer" data-date="2008-01-29T08:02:52+00:00" data-subject="">
 
 *Hides from the ensuing worn out botting jokes."
 
@@ -94,13 +94,13 @@ If I set at recall, and people are "abusing" my scripts... whats the rule there?
 
 </div>
 
-<div class="post" data-post-id="22353" data-author="tincts" data-date="2008-01-29T08:41:00+00:00">
+<div class="post" data-post-id="22353" data-author="tincts" data-date="2008-01-29T08:41:00+00:00" data-subject="">
 
 Essentially, you can have fancy scripts that do the work for you, but you must be at the keyboard and able to answer questions, take over from your scripts etc.  Iron triggers etc are fine.  Sitting at recall, while a bit spammy for everyone else, is fine, although sitting at recall so that people can use your triggers to heal up, iron up etc would probably be frowned upon.
 
 </div>
 
-<div class="post" data-post-id="22356" data-author="Thraxas" data-date="2008-01-29T12:20:49+00:00">
+<div class="post" data-post-id="22356" data-author="Thraxas" data-date="2008-01-29T12:20:49+00:00" data-subject="">
 
 I did type a big message all about my take on botting ... far easier to summarise by saying :
 
@@ -110,7 +110,7 @@ btw: Seda ... only 1 post? really?
 
 </div>
 
-<div class="post" data-post-id="22357" data-author="jezer" data-date="2008-01-29T12:55:45+00:00">
+<div class="post" data-post-id="22357" data-author="jezer" data-date="2008-01-29T12:55:45+00:00" data-subject="">
 
 Botting is GOOD?  :shock: 
 
@@ -118,19 +118,19 @@ Target Thraxas!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22360" data-author="Tap" data-date="2008-01-29T13:55:44+00:00">
+<div class="post" data-post-id="22360" data-author="Tap" data-date="2008-01-29T13:55:44+00:00" data-subject="">
 
 At least Seda is patriotic. Any word on when pthieving is coming back?
 
 </div>
 
-<div class="post" data-post-id="22367" data-author="*juggleblood*" data-date="2008-01-29T14:57:47+00:00">
+<div class="post" data-post-id="22367" data-author="*juggleblood*" data-date="2008-01-29T14:57:47+00:00" data-subject="">
 
 Marge runs largely automated in groups, so I consider myself a bot and I like to joke about it openly. But I'm always sitting there watching the pretty text go by. I recently joked in a group with Seda in it that if your scripts are good enuff you won't get caught. I apologize if I've condoned botting. I don't support botting while afk. Be careful because admin has been known to make harsh examples of people. (Remember the guy who got wiped while running his kids out to the bus?)
 
 </div>
 
-<div class="post" data-post-id="22374" data-author="Thraxas" data-date="2008-01-29T17:28:22+00:00">
+<div class="post" data-post-id="22374" data-author="Thraxas" data-date="2008-01-29T17:28:22+00:00" data-subject="">
 
 Botting is GOOD?  :shock: 
 
@@ -144,7 +144,7 @@ Is this a dig at me? I'm patriotic to my own country ... dosen't mean I have to 
 
 </div>
 
-<div class="post" data-post-id="22376" data-author="Yasik" data-date="2008-01-29T17:52:46+00:00">
+<div class="post" data-post-id="22376" data-author="Yasik" data-date="2008-01-29T17:52:46+00:00" data-subject="Rules? They do nothing!">
 
 i dont want to be rude, but...
 
@@ -156,13 +156,13 @@ Imms choose by themselves when to apply rules or no deciding dependant on their 
 
 </div>
 
-<div class="post" data-post-id="22377" data-author="Vixn" data-date="2008-01-29T17:59:53+00:00">
+<div class="post" data-post-id="22377" data-author="Vixn" data-date="2008-01-29T17:59:53+00:00" data-subject="">
 
 according to text color Seda is patriot of Russia... or Holland... hm.. or France
 
 </div>
 
-<div class="post" data-post-id="22378" data-author="Alberich" data-date="2008-01-29T18:03:05+00:00">
+<div class="post" data-post-id="22378" data-author="Alberich" data-date="2008-01-29T18:03:05+00:00" data-subject="">
 
 I'm patriotic to my own country ... dosen't mean I have to have any respect for yours.[/quote:2ylgf8ti]
 
@@ -170,7 +170,7 @@ nice of you to list your alts along with that.  will keep it in mind.
 
 </div>
 
-<div class="post" data-post-id="22379" data-author="Thraxas" data-date="2008-01-29T18:39:48+00:00">
+<div class="post" data-post-id="22379" data-author="Thraxas" data-date="2008-01-29T18:39:48+00:00" data-subject="">
 
 I'm patriotic to my own country ... dosen't mean I have to have any respect for yours.[/quote:2uhaod74]
 
@@ -182,7 +182,7 @@ Anyone fancy bringing this thread back onto topic? ... nah I thought not
 
 </div>
 
-<div class="post" data-post-id="22383" data-author="Seda" data-date="2008-01-29T19:53:43+00:00">
+<div class="post" data-post-id="22383" data-author="Seda" data-date="2008-01-29T19:53:43+00:00" data-subject="To lighten the air....">
 
 [u:1nqkg18r]Remembering the Past - Botting[/u:1nqkg18r]
 
@@ -218,13 +218,13 @@ Sorry, Emergency
 
 </div>
 
-<div class="post" data-post-id="22387" data-author="jezer" data-date="2008-01-29T22:54:38+00:00">
+<div class="post" data-post-id="22387" data-author="jezer" data-date="2008-01-29T22:54:38+00:00" data-subject="">
 
 Pink Cherry Donuts for Everybody!!!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22390" data-author="Tap" data-date="2008-01-29T23:39:04+00:00">
+<div class="post" data-post-id="22390" data-author="Tap" data-date="2008-01-29T23:39:04+00:00" data-subject="">
 
 Why does some people take me to be so negative..it was a reference to the red white and blue text...but whatever..if that offends you I'll change it to...
 
@@ -232,7 +232,7 @@ At Least Seda is a Denis Rodman fan :twisted:
 
 </div>
 
-<div class="post" data-post-id="22394" data-author="Gimlet" data-date="2008-01-30T01:16:48+00:00">
+<div class="post" data-post-id="22394" data-author="Gimlet" data-date="2008-01-30T01:16:48+00:00" data-subject="">
 
 Here's my 2 cents on botting.
 
@@ -244,7 +244,7 @@ So please, do not take the thou-art-holier attitude.  You all know you welcome b
 
 </div>
 
-<div class="post" data-post-id="22398" data-author="Tap" data-date="2008-01-30T02:32:12+00:00">
+<div class="post" data-post-id="22398" data-author="Tap" data-date="2008-01-30T02:32:12+00:00" data-subject="">
 
 So?
 
@@ -254,7 +254,7 @@ Shut up...
 
 </div>
 
-<div class="post" data-post-id="22914" data-author="*juggleblood*" data-date="2008-02-24T04:08:25+00:00">
+<div class="post" data-post-id="22914" data-author="*juggleblood*" data-date="2008-02-24T04:08:25+00:00" data-subject="">
 
 2nd time in 2 days someone been found cleric botting at west gate
 
@@ -264,7 +264,7 @@ help rule 4
 
 </div>
 
-<div class="post" data-post-id="22918" data-author="Tap" data-date="2008-02-24T14:05:43+00:00">
+<div class="post" data-post-id="22918" data-author="Tap" data-date="2008-02-24T14:05:43+00:00" data-subject="">
 
 Seda wrote:
 
@@ -296,7 +296,7 @@ peace out
 
 </div>
 
-<div class="post" data-post-id="22919" data-author="Vixn" data-date="2008-02-24T14:33:45+00:00">
+<div class="post" data-post-id="22919" data-author="Vixn" data-date="2008-02-24T14:33:45+00:00" data-subject="Re: To lighten the air....">
 
 [u:3lpugn6y]Remembering the Past - Botting[/u:3lpugn6y]
 
@@ -306,7 +306,7 @@ Lis probably. If not then it's Splork for sure!
 
 </div>
 
-<div class="post" data-post-id="22920" data-author="Tap" data-date="2008-02-24T14:42:36+00:00">
+<div class="post" data-post-id="22920" data-author="Tap" data-date="2008-02-24T14:42:36+00:00" data-subject="Re:Re: To lighten the air....">
 
 I blame Splork
 
@@ -314,19 +314,19 @@ I blame Splork
 
 </div>
 
-<div class="post" data-post-id="22921" data-author="Weasel" data-date="2008-02-24T14:52:22+00:00">
+<div class="post" data-post-id="22921" data-author="Weasel" data-date="2008-02-24T14:52:22+00:00" data-subject="">
 
 Really? I blame Dot.
 
 </div>
 
-<div class="post" data-post-id="22922" data-author="Autolycos" data-date="2008-02-24T14:55:31+00:00">
+<div class="post" data-post-id="22922" data-author="Autolycos" data-date="2008-02-24T14:55:31+00:00" data-subject="">
 
 Dot loves Dybt  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22923" data-author="Medios" data-date="2008-02-24T18:05:44+00:00">
+<div class="post" data-post-id="22923" data-author="Medios" data-date="2008-02-24T18:05:44+00:00" data-subject="">
 
 You junk the transsubstantiated tail of the mana gater.
 
@@ -334,7 +334,7 @@ So now that Madmax has looted 2 of my personal cps should I glock my groups?  I 
 
 </div>
 
-<div class="post" data-post-id="22928" data-author="Toxis" data-date="2008-02-24T21:37:42+00:00">
+<div class="post" data-post-id="22928" data-author="Toxis" data-date="2008-02-24T21:37:42+00:00" data-subject="">
 
 I left because I felt the whole ordeal was a mess, and I had a horrible headache and had only gotten less than 4 hours sleep.  I was in no shape to group for something like that and that is why I left.
 
@@ -348,7 +348,7 @@ I would like to see leader "corpse guard".  The corpse would be noloot until lea
 
 </div>
 
-<div class="post" data-post-id="22929" data-author="Yasik" data-date="2008-02-24T21:47:30+00:00">
+<div class="post" data-post-id="22929" data-author="Yasik" data-date="2008-02-24T21:47:30+00:00" data-subject="">
 
 this isn't a pkill mud[/quote:3diwrnyw]
 
@@ -358,13 +358,13 @@ just not for everybody and not declared
 
 </div>
 
-<div class="post" data-post-id="22930" data-author="jezer" data-date="2008-02-24T21:56:01+00:00">
+<div class="post" data-post-id="22930" data-author="jezer" data-date="2008-02-24T21:56:01+00:00" data-subject="">
 
 I'm not sure what I missed last night, but I'm sure glad I missed it.
 
 </div>
 
-<div class="post" data-post-id="22933" data-author="*juggleblood*" data-date="2008-02-24T23:19:23+00:00">
+<div class="post" data-post-id="22933" data-author="*juggleblood*" data-date="2008-02-24T23:19:23+00:00" data-subject="">
 
 I Unless someone has a better idea...
 
@@ -374,13 +374,13 @@ Can just add a proc to room that prevents anyone from executing the 'get all' co
 
 </div>
 
-<div class="post" data-post-id="22934" data-author="jezer" data-date="2008-02-24T23:49:29+00:00">
+<div class="post" data-post-id="22934" data-author="jezer" data-date="2008-02-24T23:49:29+00:00" data-subject="">
 
 That works... but maybe a better idea is for group leaders to be able to set autoloot off for people in groups? Say for example... there are a bunch of dead corpses in a room with an aggro... the get all command is useful in that case... it could be bad to block it to get round an autoloot problem. Better to treat the cause instead of the symptom.
 
 </div>
 
-<div class="post" data-post-id="22935" data-author="Yasik" data-date="2008-02-25T00:07:18+00:00">
+<div class="post" data-post-id="22935" data-author="Yasik" data-date="2008-02-25T00:07:18+00:00" data-subject="">
 
 a bunch of dead corpses[/quote:77gxvrug]
 
@@ -390,7 +390,7 @@ now who's teh psycho here now?  :D
 
 </div>
 
-<div class="post" data-post-id="22936" data-author="tincts" data-date="2008-02-25T01:40:29+00:00">
+<div class="post" data-post-id="22936" data-author="tincts" data-date="2008-02-25T01:40:29+00:00" data-subject="">
 
 That works... but maybe a better idea is for group leaders to be able to set autoloot off for people in groups? Say for example... there are a bunch of dead corpses in a room with an aggro... the get all command is useful in that case... it could be bad to block it to get round an autoloot problem. Better to treat the cause instead of the symptom.[/quote:2us09w2h]
 
@@ -398,7 +398,7 @@ I think the game's autoloot function is only half the problem, the other half be
 
 </div>
 
-<div class="post" data-post-id="22938" data-author="jezer" data-date="2008-02-25T02:00:11+00:00">
+<div class="post" data-post-id="22938" data-author="jezer" data-date="2008-02-25T02:00:11+00:00" data-subject="">
 
 people have looters built into their script.[/quote:2cga34nr]
 
@@ -406,7 +406,7 @@ Does anyone do this? Why would you?
 
 </div>
 
-<div class="post" data-post-id="22939" data-author="Tap" data-date="2008-02-25T02:37:18+00:00">
+<div class="post" data-post-id="22939" data-author="Tap" data-date="2008-02-25T02:37:18+00:00" data-subject="">
 
 Problem scenarios
 
@@ -418,7 +418,7 @@ Only solution I can see if immediate dis-membering of offender and next time lea
 
 </div>
 
-<div class="post" data-post-id="22943" data-author="Weasel" data-date="2008-02-25T04:19:18+00:00">
+<div class="post" data-post-id="22943" data-author="Weasel" data-date="2008-02-25T04:19:18+00:00" data-subject="">
 
 Sometimes mistakes happen, but as Bush says, fool me once, shame on you, fool me again and ..and ..you can't get fooled again ..or something ..err ..THROW THE HEATHEN SCUM TO DEMOGORGON!
 

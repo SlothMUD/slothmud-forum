@@ -10,7 +10,7 @@ locked: false
 post_count: 28
 ---
 
-<div class="post" data-post-id="16369" data-author="Fenyang" data-date="2007-01-19T18:13:06+00:00">
+<div class="post" data-post-id="16369" data-author="Fenyang" data-date="2007-01-19T18:13:06+00:00" data-subject="Chop Block Yammer">
 
 I hate when someone waits for the last minute to out bid me on chop block...
 
@@ -46,7 +46,7 @@ wtb cape of infinite shadows (got tri token x20 to trade + coins)
 
 </div>
 
-<div class="post" data-post-id="16370" data-author="Alberich" data-date="2007-01-19T19:07:41+00:00">
+<div class="post" data-post-id="16370" data-author="Alberich" data-date="2007-01-19T19:07:41+00:00" data-subject="">
 
 if you want something, put a high enough bid on it that noone will go over.
 
@@ -56,7 +56,7 @@ otherwise, the bitching is just lame.  man up.
 
 </div>
 
-<div class="post" data-post-id="16371" data-author="Autolycos" data-date="2007-01-19T19:10:07+00:00">
+<div class="post" data-post-id="16371" data-author="Autolycos" data-date="2007-01-19T19:10:07+00:00" data-subject="">
 
 then chop auctions could last for months.... :shock: 
 
@@ -72,7 +72,7 @@ dear god I hope you never get on eBay..  :evil:
 
 </div>
 
-<div class="post" data-post-id="16372" data-author="Hades" data-date="2007-01-19T19:34:14+00:00">
+<div class="post" data-post-id="16372" data-author="Hades" data-date="2007-01-19T19:34:14+00:00" data-subject="My Dear dear Autolycos">
 
 stfu already...its a legitimate gripe..not everyone can/should have to get up at 3:30am in the morning to see where they stand..
 
@@ -80,7 +80,7 @@ stfu already...its a legitimate gripe..not everyone can/should have to get up at
 
 </div>
 
-<div class="post" data-post-id="16374" data-author="Autolycos" data-date="2007-01-19T20:01:33+00:00">
+<div class="post" data-post-id="16374" data-author="Autolycos" data-date="2007-01-19T20:01:33+00:00" data-subject="My beloved Hades :P">
 
 cackle....
 
@@ -88,13 +88,13 @@ and not many of us sleep much either  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16376" data-author="13" data-date="2007-01-19T20:37:23+00:00">
+<div class="post" data-post-id="16376" data-author="13" data-date="2007-01-19T20:37:23+00:00" data-subject="">
 
 It's not a legit. gripe.  If he was prepared to pay enoughg to win then he should have bid that.  If not, then tough shit.
 
 </div>
 
-<div class="post" data-post-id="16378" data-author="Clink" data-date="2007-01-19T20:43:40+00:00">
+<div class="post" data-post-id="16378" data-author="Clink" data-date="2007-01-19T20:43:40+00:00" data-subject="Re: My Dear dear Autolycos">
 
 stfu already...its a legitimate gripe..not everyone can/should have to get up at 3:30am in the morning to see where they stand..
 
@@ -114,13 +114,13 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="16379" data-author="13" data-date="2007-01-19T20:52:39+00:00">
+<div class="post" data-post-id="16379" data-author="13" data-date="2007-01-19T20:52:39+00:00" data-subject="">
 
 Clink and I agree on so much, I should probably be an admin or something.
 
 </div>
 
-<div class="post" data-post-id="16380" data-author="Autolycos" data-date="2007-01-19T20:54:30+00:00">
+<div class="post" data-post-id="16380" data-author="Autolycos" data-date="2007-01-19T20:54:30+00:00" data-subject="">
 
 well I for one really appreciate how well the chop block runs..  there were a few bugs while moving it to the new host, but that was cleaned up pretty fast. 
 
@@ -132,7 +132,7 @@ Thanks to all who thought/coded/created it!  :)
 
 </div>
 
-<div class="post" data-post-id="16381" data-author="Mosaix" data-date="2007-01-19T21:04:42+00:00">
+<div class="post" data-post-id="16381" data-author="Mosaix" data-date="2007-01-19T21:04:42+00:00" data-subject="">
 
 Real example to compare is Ebay.
 
@@ -146,7 +146,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="16383" data-author="Fenyang" data-date="2007-01-19T22:47:09+00:00">
+<div class="post" data-post-id="16383" data-author="Fenyang" data-date="2007-01-19T22:47:09+00:00" data-subject="">
 
 *lol* Hades, I did get up early... I checked auction 30 min, 10 min, 5 min, then 2 min before closing. I had the top bid. :)
 
@@ -156,7 +156,7 @@ This happens a lot, that why I think it is a good idea to post a string of low b
 
 </div>
 
-<div class="post" data-post-id="16384" data-author="Malison" data-date="2007-01-19T23:41:01+00:00">
+<div class="post" data-post-id="16384" data-author="Malison" data-date="2007-01-19T23:41:01+00:00" data-subject="">
 
 only thing I think really sucks about the block is, you're willing to pay 3m so you bid that, and some punk comes in and bids 3m+3coins and wins.  The bid increment thing is supposed to stop that but if the high bid is jumping from 2m to 3m in the last seconds it's certainly over the 1% increase it's demanding, and 3 000 003 is just as valid as 3 030 000 (which would be the next bid after 3m).
 
@@ -164,7 +164,7 @@ And sure, you trolls can say 'so bid 3m +10c yourself', and then the snipers wil
 
 </div>
 
-<div class="post" data-post-id="16385" data-author="Qa" data-date="2007-01-20T00:18:07+00:00">
+<div class="post" data-post-id="16385" data-author="Qa" data-date="2007-01-20T00:18:07+00:00" data-subject="">
 
 Wow, what a whiner.  I can't believe I wasted my time listening to Fengcrybaby.
 
@@ -174,7 +174,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="16388" data-author="Avatar" data-date="2007-01-20T02:55:09+00:00">
+<div class="post" data-post-id="16388" data-author="Avatar" data-date="2007-01-20T02:55:09+00:00" data-subject="Auction">
 
 [quote:2zsgy85p]And sure, you trolls can say 'so bid 3m +10c yourself', and then the snipers will go to +15, until you have to bid a full million extra just to be sure someone won't jump your bid by just a couple coins. that's lame.[/quote:2zsgy85p]
 
@@ -186,7 +186,7 @@ You can do the same bargain hunting.  If you see an item going for less than it'
 
 </div>
 
-<div class="post" data-post-id="16391" data-author="Hades" data-date="2007-01-20T10:56:24+00:00">
+<div class="post" data-post-id="16391" data-author="Hades" data-date="2007-01-20T10:56:24+00:00" data-subject="Your&#x27;e right of course">
 
 I did think that gauntlets of thunder were too low at 7mil so I eagerly drove the price up to 15 mil in the course of about 30 secs...
 
@@ -194,7 +194,7 @@ That's more like it :twisted:
 
 </div>
 
-<div class="post" data-post-id="16392" data-author="Alberich" data-date="2007-01-20T12:38:32+00:00">
+<div class="post" data-post-id="16392" data-author="Alberich" data-date="2007-01-20T12:38:32+00:00" data-subject="">
 
 which brings up an interesting point.
 
@@ -208,7 +208,7 @@ and if i see something i really want, i sit down for a minute, figure out the ab
 
 </div>
 
-<div class="post" data-post-id="16393" data-author="Hades" data-date="2007-01-20T12:49:25+00:00">
+<div class="post" data-post-id="16393" data-author="Hades" data-date="2007-01-20T12:49:25+00:00" data-subject="Hades blacklisted">
 
 Nope... for one...
 
@@ -222,13 +222,13 @@ Godrain sucks... it makes one having to rent to save affects which in turn costs
 
 </div>
 
-<div class="post" data-post-id="16394" data-author="13" data-date="2007-01-20T13:57:15+00:00">
+<div class="post" data-post-id="16394" data-author="13" data-date="2007-01-20T13:57:15+00:00" data-subject="">
 
 what a retard
 
 </div>
 
-<div class="post" data-post-id="16396" data-author="Clink" data-date="2007-01-20T14:18:32+00:00">
+<div class="post" data-post-id="16396" data-author="Clink" data-date="2007-01-20T14:18:32+00:00" data-subject="">
 
 which brings up an interesting point.
 
@@ -244,7 +244,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="16398" data-author="alias" data-date="2007-01-20T17:10:09+00:00">
+<div class="post" data-post-id="16398" data-author="alias" data-date="2007-01-20T17:10:09+00:00" data-subject="">
 
 hello? hello? this is an auction. if you dont bid higher before the gavel drops you dont get it. here and in real life. Ive been outbid by 1 dollar at and auction and then offered the winning bidder and extra 5 for the spare item they had and been turned down. My advice is to use auction channel and ask what you looking for. its usually cheaper too.
 
@@ -252,7 +252,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="16407" data-author="Hades" data-date="2007-01-20T23:27:31+00:00">
+<div class="post" data-post-id="16407" data-author="Hades" data-date="2007-01-20T23:27:31+00:00" data-subject="13">
 
 You, my friend, should watch your P's and Q's.
 
@@ -262,13 +262,13 @@ Nuff said :twisted:
 
 </div>
 
-<div class="post" data-post-id="16408" data-author="13" data-date="2007-01-20T23:35:06+00:00">
+<div class="post" data-post-id="16408" data-author="13" data-date="2007-01-20T23:35:06+00:00" data-subject="">
 
 Talk to me ingame or go fuck yourself Hades.  Hugs to the rest of you.
 
 </div>
 
-<div class="post" data-post-id="16414" data-author="Weasel" data-date="2007-01-21T02:27:09+00:00">
+<div class="post" data-post-id="16414" data-author="Weasel" data-date="2007-01-21T02:27:09+00:00" data-subject="">
 
 go **** yourself[/quote:2g39gvcj]
 
@@ -276,7 +276,7 @@ you sure you're from Illinois and not New York?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16418" data-author="Hades" data-date="2007-01-21T03:58:16+00:00">
+<div class="post" data-post-id="16418" data-author="Hades" data-date="2007-01-21T03:58:16+00:00" data-subject="Get a clue">
 
 Can't you smell the pig sh*t? That's Grade A farm swine.
 
@@ -286,7 +286,7 @@ Can't you smell the pig sh*t? That's Grade A farm swine.
 
 </div>
 
-<div class="post" data-post-id="16419" data-author="Hades" data-date="2007-01-21T04:00:28+00:00">
+<div class="post" data-post-id="16419" data-author="Hades" data-date="2007-01-21T04:00:28+00:00" data-subject="Get a clue">
 
 Can't you smell the pig sh*t? That's Grade A farm swine.
 
@@ -296,13 +296,13 @@ Can't you smell the pig sh*t? That's Grade A farm swine.
 
 </div>
 
-<div class="post" data-post-id="16426" data-author="13" data-date="2007-01-21T16:01:18+00:00">
+<div class="post" data-post-id="16426" data-author="13" data-date="2007-01-21T16:01:18+00:00" data-subject="">
 
 Oh hey Fyrstenheart you dumb piece of shit.   Let me invite you to continue to to go fuck yourself and maybe your mother when you're done.  You are a killable motherfucker on sloth, so you can believe I'll keep my eye peeled for you homey.
 
 </div>
 
-<div class="post" data-post-id="16431" data-author="Hades" data-date="2007-01-21T18:52:44+00:00">
+<div class="post" data-post-id="16431" data-author="Hades" data-date="2007-01-21T18:52:44+00:00" data-subject="13 is a big doo-doo head">
 
 Watch all you want, I'm not even gunning for you.  What a feather in your cap !!
 
@@ -310,7 +310,7 @@ Watch all you want, I'm not even gunning for you.  What a feather in your cap !!
 
 </div>
 
-<div class="post" data-post-id="16486" data-author="Blastem" data-date="2007-01-23T14:55:08+00:00">
+<div class="post" data-post-id="16486" data-author="Blastem" data-date="2007-01-23T14:55:08+00:00" data-subject="">
 
 [img:1yqgof0b]http://redwing.hutman.net/%7Emreed/Assets/howlers.jpg[/img:1yqgof0b]
 

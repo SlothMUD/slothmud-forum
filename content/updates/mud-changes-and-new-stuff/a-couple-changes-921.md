@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="4892" data-author="*Splork*" data-date="2005-03-08T18:29:35+00:00">
+<div class="post" data-post-id="4892" data-author="*Splork*" data-date="2005-03-08T18:29:35+00:00" data-subject="A couple changes...">
 
 1) To show you how pleased we are with the progess your characters are making, your god will now restore your character with each level gained.
 

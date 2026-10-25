@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="6848" data-author="SirRobin" data-date="2005-06-06T14:47:51+00:00">
+<div class="post" data-post-id="6848" data-author="SirRobin" data-date="2005-06-06T14:47:51+00:00" data-subject="Putrefy Messaging">
 
 Since 6/3 the response you get when you cast Putrefy has changed, or more precisely, mostly disappeared. For any mob I’ve tried on VK all I see is “ok” after I cast it. However, the spell is working as seen in the example below:
 
@@ -60,7 +60,7 @@ FYI, typo with “deterioriates,” should be deteriorates. Only noticed because
 
 </div>
 
-<div class="post" data-post-id="6850" data-author="kjartan" data-date="2005-06-06T15:27:06+00:00">
+<div class="post" data-post-id="6850" data-author="kjartan" data-date="2005-06-06T15:27:06+00:00" data-subject="">
 
 Ok, I will look into it.  It wasn't a deliberate change.
 

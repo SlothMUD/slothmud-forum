@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="7809" data-author="Blaster" data-date="2005-07-10T22:48:38+00:00">
+<div class="post" data-post-id="7809" data-author="Blaster" data-date="2005-07-10T22:48:38+00:00" data-subject="Blaster has re-enlisted into the US ARMY">
 
 Hey all,
 
@@ -34,7 +34,7 @@ Blaster
 
 </div>
 
-<div class="post" data-post-id="7811" data-author="Deju" data-date="2005-07-11T00:25:40+00:00">
+<div class="post" data-post-id="7811" data-author="Deju" data-date="2005-07-11T00:25:40+00:00" data-subject="">
 
 Just wanted to say good luck over there, and enjoy Hawaii as long as you can.  Congrats on getting engaged, and here is hoping you get to say in the US and spend as much time as possible with your new wife.
 
@@ -42,7 +42,7 @@ Good luck to both of you, and I hope to see you online occasionally.
 
 </div>
 
-<div class="post" data-post-id="7812" data-author="Ditheca" data-date="2005-07-11T01:04:34+00:00">
+<div class="post" data-post-id="7812" data-author="Ditheca" data-date="2005-07-11T01:04:34+00:00" data-subject="">
 
 Sounds like things are going your way!
 
@@ -54,7 +54,7 @@ Best of luck staying in the country with your bride-to-be.
 
 </div>
 
-<div class="post" data-post-id="7813" data-author="rith" data-date="2005-07-11T01:20:54+00:00">
+<div class="post" data-post-id="7813" data-author="rith" data-date="2005-07-11T01:20:54+00:00" data-subject="">
 
 Free boose at your wedding? Woot!!
 
@@ -62,13 +62,13 @@ Free boose at your wedding? Woot!!
 
 </div>
 
-<div class="post" data-post-id="7814" data-author="Weasel" data-date="2005-07-11T02:07:22+00:00">
+<div class="post" data-post-id="7814" data-author="Weasel" data-date="2005-07-11T02:07:22+00:00" data-subject="">
 
 Gratz to you both dude, best you take up surfing too.
 
 </div>
 
-<div class="post" data-post-id="7815" data-author="Avatar" data-date="2005-07-11T02:13:08+00:00">
+<div class="post" data-post-id="7815" data-author="Avatar" data-date="2005-07-11T02:13:08+00:00" data-subject="Hawaii">
 
 Yay Blaster!  Congratulations!
 
@@ -80,13 +80,13 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="7818" data-author="12345" data-date="2005-07-11T02:31:49+00:00">
+<div class="post" data-post-id="7818" data-author="12345" data-date="2005-07-11T02:31:49+00:00" data-subject="">
 
 Congrats on your wedding and Hawaii.  Hawaii is a great place to be on your free time.  I wish you the best on getting some free time :)
 
 </div>
 
-<div class="post" data-post-id="7828" data-author="Leaf" data-date="2005-07-11T09:55:02+00:00">
+<div class="post" data-post-id="7828" data-author="Leaf" data-date="2005-07-11T09:55:02+00:00" data-subject="">
 
 Wanted to stop on by and say Congratz B!  
 
@@ -98,7 +98,7 @@ of out u?  Cause my gf has been bring this up for the past few months.
 
 </div>
 
-<div class="post" data-post-id="7833" data-author="Blaster" data-date="2005-07-11T18:52:17+00:00">
+<div class="post" data-post-id="7833" data-author="Blaster" data-date="2005-07-11T18:52:17+00:00" data-subject="">
 
 I asked her this last Tuesday, she accepted right away, then we found out where I was going and decided not to wait till I can get home and just do it before I go so she can follow shortly after I get there.
 
@@ -106,13 +106,13 @@ Blaster
 
 </div>
 
-<div class="post" data-post-id="7834" data-author="Zam" data-date="2005-07-11T19:32:20+00:00">
+<div class="post" data-post-id="7834" data-author="Zam" data-date="2005-07-11T19:32:20+00:00" data-subject="">
 
 congratulations , Dustin! and Charsi too :)) good luck!
 
 </div>
 
-<div class="post" data-post-id="7837" data-author="Leaf" data-date="2005-07-11T20:42:51+00:00">
+<div class="post" data-post-id="7837" data-author="Leaf" data-date="2005-07-11T20:42:51+00:00" data-subject="">
 
 Ahhh I c.. Milking the process.  Uncle Sam wouldn't pay for her to come if
 
@@ -124,7 +124,7 @@ Congratz again B :)
 
 </div>
 
-<div class="post" data-post-id="7838" data-author="Blastem" data-date="2005-07-11T21:23:34+00:00">
+<div class="post" data-post-id="7838" data-author="Blastem" data-date="2005-07-11T21:23:34+00:00" data-subject="">
 
 Grats again man!  Make sure and let me know when ya come home on leave and I'll run over for a couple cold ones  :twisted: 
 
@@ -132,7 +132,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="7980" data-author="Morkeleb" data-date="2005-07-24T14:10:25+00:00">
+<div class="post" data-post-id="7980" data-author="Morkeleb" data-date="2005-07-24T14:10:25+00:00" data-subject="">
 
 Congratulations and I wish you luck.  Do you know if they're still restricting the reenlistment code folk such as R4s and is there an age limit on the reenlistment?  When I tried to get back in after having been discharged honorably, it wasn't going to happen. Actually, asking you is moot, since you've shipped out. Anybody else know?
 
@@ -144,7 +144,7 @@ Malevolent aka Sarya is doing well too!
 
 </div>
 
-<div class="post" data-post-id="7982" data-author="Weasel" data-date="2005-07-24T16:30:40+00:00">
+<div class="post" data-post-id="7982" data-author="Weasel" data-date="2005-07-24T16:30:40+00:00" data-subject="">
 
 hmm.. dunno if relevant for you, but apparently the military is thinking of upping the max age limit from 35 to 42.
 
@@ -152,7 +152,7 @@ hmm.. dunno if relevant for you, but apparently the military is thinking of uppi
 
 </div>
 
-<div class="post" data-post-id="7988" data-author="Blaster" data-date="2005-07-24T19:01:23+00:00">
+<div class="post" data-post-id="7988" data-author="Blaster" data-date="2005-07-24T19:01:23+00:00" data-subject="">
 
 Congratulations and I wish you luck.  Do you know if they're still restricting the reenlistment code folk such as R4s and is there an age limit on the reenlistment?  When I tried to get back in after having been discharged honorably, it wasn't going to happen. Actually, asking you is moot, since you've shipped out. Anybody else know?
 
@@ -168,7 +168,7 @@ Blaster
 
 </div>
 
-<div class="post" data-post-id="7989" data-author="Morkeleb" data-date="2005-07-24T20:18:01+00:00">
+<div class="post" data-post-id="7989" data-author="Morkeleb" data-date="2005-07-24T20:18:01+00:00" data-subject="">
 
 hmm.. dunno if relevant for you, but apparently the military is thinking of upping the max age limit from 35 to 42.
 
@@ -184,7 +184,7 @@ Morkeleb
 
 </div>
 
-<div class="post" data-post-id="8062" data-author="Charsi" data-date="2005-07-26T20:33:31+00:00">
+<div class="post" data-post-id="8062" data-author="Charsi" data-date="2005-07-26T20:33:31+00:00" data-subject="">
 
 Blaster made it to Kentucky. he got there at 2:30pm our time. I thought I would let everyone know that he made it and I MISS HIM TO DEATH  :cry: .
 
@@ -192,7 +192,7 @@ Charsi
 
 </div>
 
-<div class="post" data-post-id="8063" data-author="Avatar" data-date="2005-07-26T20:38:29+00:00">
+<div class="post" data-post-id="8063" data-author="Avatar" data-date="2005-07-26T20:38:29+00:00" data-subject="Heh">
 
 He's always missing me, I think he may be doing it on purpose.  I was in Kentucky all week last week  :)
 

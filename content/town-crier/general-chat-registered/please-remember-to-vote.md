@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="7939" data-author="**Jake**" data-date="2005-07-18T01:59:14+00:00">
+<div class="post" data-post-id="7939" data-author="**Jake**" data-date="2005-07-18T01:59:14+00:00" data-subject="Please remember to Vote..">
 
 Being that I'm moving into a new home, I haven't had the opportunity to bug you all to vote.  I just checked voting statistics since I've been mostly away from the internet and I wanted to share some statistics with you.
 
@@ -26,13 +26,13 @@ Jake
 
 </div>
 
-<div class="post" data-post-id="7951" data-author="Nightmare" data-date="2005-07-20T01:33:15+00:00">
+<div class="post" data-post-id="7951" data-author="Nightmare" data-date="2005-07-20T01:33:15+00:00" data-subject="dream or nightmare?">
 
 Either way you look at it, Dreams is about to overtake you on the mud connector.
 
 </div>
 
-<div class="post" data-post-id="7954" data-author="Taki" data-date="2005-07-20T05:27:17+00:00">
+<div class="post" data-post-id="7954" data-author="Taki" data-date="2005-07-20T05:27:17+00:00" data-subject="">
 
 ...maybe the drop in votes count is someway affected by the bad lag hitting the mud in these last weeks?
 
@@ -42,7 +42,7 @@ We'll vote again :)
 
 </div>
 
-<div class="post" data-post-id="7969" data-author="**Jake**" data-date="2005-07-22T16:33:55+00:00">
+<div class="post" data-post-id="7969" data-author="**Jake**" data-date="2005-07-22T16:33:55+00:00" data-subject="Slashdot article sending traffic to mudconnector">
 
 [<LINK_TEXT text="http://ask.slashdot.org/article.pl?sid= ... =209&tid=4">http://ask.slashdot.org/article.pl?sid=05/07/21/1619216&tid=209&tid=4</LINK_TEXT>](http://ask.slashdot.org/article.pl?sid=05/07/21/1619216&tid=209&tid=4)
 
@@ -54,7 +54,7 @@ Jake
 
 </div>
 
-<div class="post" data-post-id="7992" data-author="Yasik" data-date="2005-07-24T23:46:49+00:00">
+<div class="post" data-post-id="7992" data-author="Yasik" data-date="2005-07-24T23:46:49+00:00" data-subject="Re: Slashdot article sending traffic to mudconnector">
 
 [<LINK_TEXT text="http://ask.slashdot.org/article.pl?sid= ... =209&tid=4">http://ask.slashdot.org/article.pl?sid=05/07/21/1619216&tid=209&tid=4</LINK_TEXT>](http://ask.slashdot.org/article.pl?sid=05/07/21/1619216&tid=209&tid=4)
 

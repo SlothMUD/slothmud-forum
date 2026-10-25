@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="11208" data-author="12345" data-date="2006-03-13T13:59:12+00:00">
+<div class="post" data-post-id="11208" data-author="12345" data-date="2006-03-13T13:59:12+00:00" data-subject="Theris - 3-4 Man SS XP">
 
 Ok, the hardest part of any xp group is knowing what mobs to run and what it takes to kill them. SS isn't my favorite place for xp, but it's good for learning. Theris is one of the easier areas there is to run, as long as you can handle the constant stream of webs anyway.  Here's a quick guide to those that are in training to be leaders:
 
@@ -52,7 +52,7 @@ I haven't played much with the other mobs in the area, haven't heard of many oth
 
 </div>
 
-<div class="post" data-post-id="11232" data-author="jezer" data-date="2006-03-13T23:47:07+00:00">
+<div class="post" data-post-id="11232" data-author="jezer" data-date="2006-03-13T23:47:07+00:00" data-subject="">
 
 Thats some nice info there.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="8373" data-author="Zing" data-date="2005-08-23T16:54:28+00:00">
+<div class="post" data-post-id="8373" data-author="Zing" data-date="2005-08-23T16:54:28+00:00" data-subject="Best Newbie Fire Spell?">
 
 As a newbie Cleric/Mage I believe I have three "Fire Type" single target, spells available.  Burning Hands, Fireball, and Flame Strike.  
 
@@ -22,7 +22,7 @@ Zing
 
 </div>
 
-<div class="post" data-post-id="8374" data-author="12345" data-date="2005-08-23T17:29:58+00:00">
+<div class="post" data-post-id="8374" data-author="12345" data-date="2005-08-23T17:29:58+00:00" data-subject="">
 
 Several factors apply to the calculations for that... let me list a few:
 
@@ -42,7 +42,7 @@ So... final answer is, I would use colour spray until the cost of fireball is cl
 
 </div>
 
-<div class="post" data-post-id="8375" data-author="Zing" data-date="2005-08-23T17:50:56+00:00">
+<div class="post" data-post-id="8375" data-author="Zing" data-date="2005-08-23T17:50:56+00:00" data-subject="">
 
 Now that was a good answer!
 

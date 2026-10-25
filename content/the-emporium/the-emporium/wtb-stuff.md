@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8286" data-author="Boojum" data-date="2005-08-13T08:09:42+00:00">
+<div class="post" data-post-id="8286" data-author="Boojum" data-date="2005-08-13T08:09:42+00:00" data-subject="WTB stuff">
 
 Looking for few items:
 

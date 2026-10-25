@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29207" data-author="Thraxas" data-date="2009-05-18T17:27:22+00:00">
+<div class="post" data-post-id="29207" data-author="Thraxas" data-date="2009-05-18T17:27:22+00:00" data-subject="mxp variables and zmud">
 
 Anyone know how to get mxp variables to appear in zmud? 
 

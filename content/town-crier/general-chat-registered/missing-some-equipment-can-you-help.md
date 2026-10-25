@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="22971" data-author="Thraxas" data-date="2008-02-25T22:48:33+00:00">
+<div class="post" data-post-id="22971" data-author="Thraxas" data-date="2008-02-25T22:48:33+00:00" data-subject="Missing Some Equipment ... can you help?">
 
 In Summary, I had a reddish eye clasp attached to a jewelled patch looted by a female black dragon while in a group in dmount. Someone else took it, if you've still got it could you mail it to my alt Copra please.
 
@@ -26,13 +26,13 @@ Anyway if you've still got it I'd be grateful if you could mail it, if not then 
 
 </div>
 
-<div class="post" data-post-id="22972" data-author="jezer" data-date="2008-02-25T22:52:05+00:00">
+<div class="post" data-post-id="22972" data-author="jezer" data-date="2008-02-25T22:52:05+00:00" data-subject="">
 
 Or... it's the one selling on the block at the moment? :D
 
 </div>
 
-<div class="post" data-post-id="22982" data-author="Thraxas" data-date="2008-02-26T17:35:44+00:00">
+<div class="post" data-post-id="22982" data-author="Thraxas" data-date="2008-02-26T17:35:44+00:00" data-subject="">
 
 Or... it's the one selling on the block at the moment? :D[/quote:16cjlsip]
 
@@ -42,7 +42,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="23000" data-author="Yasik" data-date="2008-02-27T05:48:33+00:00">
+<div class="post" data-post-id="23000" data-author="Yasik" data-date="2008-02-27T05:48:33+00:00" data-subject="">
 
 Or... it's the one selling on the block at the moment? :D[/quote:1am6x6un]
 

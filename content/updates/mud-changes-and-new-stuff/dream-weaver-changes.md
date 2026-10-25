@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="7756" data-author="Akasha2" data-date="2005-07-06T22:09:08+00:00">
+<div class="post" data-post-id="7756" data-author="Akasha2" data-date="2005-07-06T22:09:08+00:00" data-subject="Dream Weaver changes">
 
 After today your letters of introduction will no longer work (once you rent or otherwise d/c).  
 

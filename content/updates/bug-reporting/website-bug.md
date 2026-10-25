@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="19584" data-author="Weasel" data-date="2007-08-04T17:21:58+00:00">
+<div class="post" data-post-id="19584" data-author="Weasel" data-date="2007-08-04T17:21:58+00:00" data-subject="website bug">
 
 Totro, the Fantasy Random Name Generator, currently does not put spaces or new lines between generated names, making it a little ..err.. difficult to use. Using FireFox 2.0.0.6 and Windows XPpro.
 
@@ -18,19 +18,19 @@ Totro, the Fantasy Random Name Generator, currently does not put spaces or new l
 
 </div>
 
-<div class="post" data-post-id="19585" data-author="brady" data-date="2007-08-04T20:17:43+00:00">
+<div class="post" data-post-id="19585" data-author="brady" data-date="2007-08-04T20:17:43+00:00" data-subject="">
 
 whadda ya mean?  PlihnDufeunSkawnUcinOruponKlostanKraafrunnAstribranIutaanKlascanIarkonnSreeplenOjenMabnVemnMecnUslenOecarknOipleosinGriln makes a fine name.
 
 </div>
 
-<div class="post" data-post-id="19586" data-author="Weasel" data-date="2007-08-04T20:20:01+00:00">
+<div class="post" data-post-id="19586" data-author="Weasel" data-date="2007-08-04T20:20:01+00:00" data-subject="">
 
 :D  hehe
 
 </div>
 
-<div class="post" data-post-id="19588" data-author="12345" data-date="2007-08-05T00:45:41+00:00">
+<div class="post" data-post-id="19588" data-author="12345" data-date="2007-08-05T00:45:41+00:00" data-subject="">
 
 [code:2zbq40r9]Illegal name, please try another.
 

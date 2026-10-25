@@ -10,7 +10,7 @@ locked: false
 post_count: 59
 ---
 
-<div class="post" data-post-id="13381" data-author="Hades" data-date="2006-07-09T02:23:24+00:00">
+<div class="post" data-post-id="13381" data-author="Hades" data-date="2006-07-09T02:23:24+00:00" data-subject="Abusing Drachma Must Stop NOW">
 
 It would be better to burn in hell than to keep cheating and abusing gathering drachma...
 
@@ -18,7 +18,7 @@ You have been warned.
 
 </div>
 
-<div class="post" data-post-id="13382" data-author="Zing" data-date="2006-07-09T02:26:20+00:00">
+<div class="post" data-post-id="13382" data-author="Zing" data-date="2006-07-09T02:26:20+00:00" data-subject="">
 
 Nobody tells me anything.
 
@@ -26,7 +26,7 @@ Exactly how were people abusing drachma?
 
 </div>
 
-<div class="post" data-post-id="13383" data-author="Tetsulunathaya" data-date="2006-07-09T02:34:50+00:00">
+<div class="post" data-post-id="13383" data-author="Tetsulunathaya" data-date="2006-07-09T02:34:50+00:00" data-subject="">
 
 *SMACK* "Take that, you little drachma! "
 
@@ -38,7 +38,7 @@ Exactly how were people abusing drachma?
 
 </div>
 
-<div class="post" data-post-id="13384" data-author="Medios" data-date="2006-07-09T02:41:48+00:00">
+<div class="post" data-post-id="13384" data-author="Medios" data-date="2006-07-09T02:41:48+00:00" data-subject="">
 
 Im not sure what exactly happened but drachma shops are all closed including weaver.  Apparently some players have been redoing quests that have high drachma rewards.  Doesnt anyone know that if you turn in a bug most of the time you get rewarded, if you abuse it you get punished?  Is it possible drachma shops are just closing to restock new inventory?
 
@@ -46,13 +46,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13385" data-author="Weasel" data-date="2006-07-09T02:59:39+00:00">
+<div class="post" data-post-id="13385" data-author="Weasel" data-date="2006-07-09T02:59:39+00:00" data-subject="">
 
 Surely an immort would post something about it if everyone was being punished for the actions of a few, if that is even the case...
 
 </div>
 
-<div class="post" data-post-id="13386" data-author="Hades" data-date="2006-07-09T03:22:12+00:00">
+<div class="post" data-post-id="13386" data-author="Hades" data-date="2006-07-09T03:22:12+00:00" data-subject="What you may or may not have missed...">
 
 Basically, Blaster and Splork have closed shops while the matter gets sorted out.  Not to name names, but basically, so many people were involved over the course of several if not many months than narrowing it down to who is and isn't innocent would pretty much too much of a headache.  I believe the conclusion being that if and when shops re-open, close eyes are going to be
 
@@ -64,13 +64,13 @@ Be good or be good at it :twisted:
 
 </div>
 
-<div class="post" data-post-id="13387" data-author="Weasel" data-date="2006-07-09T04:02:24+00:00">
+<div class="post" data-post-id="13387" data-author="Weasel" data-date="2006-07-09T04:02:24+00:00" data-subject="">
 
 How about rewarding those whom didn't abuse it?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="13388" data-author="Blaster" data-date="2006-07-09T04:04:25+00:00">
+<div class="post" data-post-id="13388" data-author="Blaster" data-date="2006-07-09T04:04:25+00:00" data-subject="">
 
 It is true that I closed the drachma shops, but I have re-opened them for now.  If the abuse continues and we catch more and more players abusing stuff and not reporting it, the shops may very well end up being gone.  It is a sad day when one player manages to abuse the system enough to make over 1k in drachma.  Others too have abused the system, not to the same extreme but they did so knowing they were wrong.  To many people envolved to just punish them as it would be most of the player base from what I have heard and seen so far.  We will be watching close and you will get caught if you abuse bugs.  When you get caught, everyone will pay.
 
@@ -78,19 +78,19 @@ Blaster the disapointed one.
 
 </div>
 
-<div class="post" data-post-id="13389" data-author="Zing" data-date="2006-07-09T05:26:33+00:00">
+<div class="post" data-post-id="13389" data-author="Zing" data-date="2006-07-09T05:26:33+00:00" data-subject="">
 
 Not all of us are guilty.
 
 </div>
 
-<div class="post" data-post-id="13390" data-author="Weasel" data-date="2006-07-09T06:02:10+00:00">
+<div class="post" data-post-id="13390" data-author="Weasel" data-date="2006-07-09T06:02:10+00:00" data-subject="">
 
 How did they do it?  :shock:
 
 </div>
 
-<div class="post" data-post-id="13391" data-author="brand" data-date="2006-07-09T06:17:35+00:00">
+<div class="post" data-post-id="13391" data-author="brand" data-date="2006-07-09T06:17:35+00:00" data-subject="">
 
 indeed... just who is this masked man...
 
@@ -100,7 +100,7 @@ if he's been caught, let's leak a name so proper taunting can begin...
 
 </div>
 
-<div class="post" data-post-id="13392" data-author="Blaster" data-date="2006-07-09T06:21:49+00:00">
+<div class="post" data-post-id="13392" data-author="Blaster" data-date="2006-07-09T06:21:49+00:00" data-subject="">
 
 Not all of us are guilty.[/quote:1n5ig3xy]
 
@@ -110,7 +110,7 @@ Blaster
 
 </div>
 
-<div class="post" data-post-id="13393" data-author="brand" data-date="2006-07-09T07:03:28+00:00">
+<div class="post" data-post-id="13393" data-author="brand" data-date="2006-07-09T07:03:28+00:00" data-subject="">
 
 ok all kidding aside, who's the player who got the near 1k in bad drachma.
 
@@ -126,7 +126,7 @@ is it all of the above?
 
 </div>
 
-<div class="post" data-post-id="13394" data-author="Hades" data-date="2006-07-09T12:15:58+00:00">
+<div class="post" data-post-id="13394" data-author="Hades" data-date="2006-07-09T12:15:58+00:00" data-subject="Abusing Drachma Must Stop NOW!!!">
 
 To possibly enlighten previous questions posted by Brand...
 
@@ -142,7 +142,7 @@ As far as re-running drachma quests, I think Splork/Blaster mentioned 2 such que
 
 </div>
 
-<div class="post" data-post-id="13395" data-author="Marchessa_red_witch" data-date="2006-07-09T15:04:48+00:00">
+<div class="post" data-post-id="13395" data-author="Marchessa_red_witch" data-date="2006-07-09T15:04:48+00:00" data-subject="Drachma">
 
 I can understand being upset when players abuse something intended for one purpose. But let me point something out: by making it possible to acquire a full set of "elite" eq, this is, de facto, the standard that characters will increasingly be held to. It is a red queen's race.
 
@@ -172,7 +172,7 @@ There has been a great deal of heated rhetoric, and some flaming going on on the
 
 </div>
 
-<div class="post" data-post-id="13396" data-author="Medios" data-date="2006-07-09T16:11:42+00:00">
+<div class="post" data-post-id="13396" data-author="Medios" data-date="2006-07-09T16:11:42+00:00" data-subject="">
 
 I am confused Marchessa as to why you think scatter quests should be removed.  I guess players that know the mud well should be punished.  Maybe chars that dont know anything deserve the drachma more.  We can turn Slothmud into a communist system if that is what everyone wants.  The skilled players can play all day and give the xp and coins to new players so that way they dont have to learn.  Limiting the amount of elite items is also a pretty lame concept.  Why add new autoquests or even pass out drachma.
 
@@ -182,7 +182,7 @@ PS  How come Minstrel cannot get into dream square anymore.  Ive lost my ledger.
 
 </div>
 
-<div class="post" data-post-id="13397" data-author="Weasel" data-date="2006-07-09T17:28:40+00:00">
+<div class="post" data-post-id="13397" data-author="Weasel" data-date="2006-07-09T17:28:40+00:00" data-subject="">
 
 PS  How come Minstrel cannot get into dream square anymore.  Ive lost my ledger.[/quote:iwpmub4u]
 
@@ -196,7 +196,7 @@ As far as I can tell, the issue is not with regular chars buying stuff for other
 
 </div>
 
-<div class="post" data-post-id="13398" data-author="Nascosto" data-date="2006-07-09T17:59:12+00:00">
+<div class="post" data-post-id="13398" data-author="Nascosto" data-date="2006-07-09T17:59:12+00:00" data-subject="">
 
 Personally I enjoy scatter quests - it gives even casual players a chance to earn some drachma, all you need to do is be willing to explore the mud, and it adds something to the game - fun!
 
@@ -208,19 +208,19 @@ It doesn't bother me that the uber players will achieve eq I'll never get.
 
 </div>
 
-<div class="post" data-post-id="13399" data-author="Vixn" data-date="2006-07-09T19:10:14+00:00">
+<div class="post" data-post-id="13399" data-author="Vixn" data-date="2006-07-09T19:10:14+00:00" data-subject="">
 
 What's wrong with communist system? Let's try - I guess at least it's... heh... FUNNY...  :twisted:
 
 </div>
 
-<div class="post" data-post-id="13400" data-author="12345" data-date="2006-07-09T19:21:04+00:00">
+<div class="post" data-post-id="13400" data-author="12345" data-date="2006-07-09T19:21:04+00:00" data-subject="">
 
 How about limiting the number of characters per post?  I was actually able to follow the thread until Marchessa wrote up that framebuster post...
 
 </div>
 
-<div class="post" data-post-id="13401" data-author="SirRobin" data-date="2006-07-09T20:08:24+00:00">
+<div class="post" data-post-id="13401" data-author="SirRobin" data-date="2006-07-09T20:08:24+00:00" data-subject="">
 
 I hadn’t thought about it before, but drachma scatters would be very easy to abuse. You just need to create a few scripts that take your character from room to room and pickup any drachma on the ground. You could bot a whole continent in a few minutes, provided you don’t get stopped too often by aggressive mobs.
 
@@ -228,7 +228,7 @@ I like the scatter quests too, but if a few players have the whole mud scripted 
 
 </div>
 
-<div class="post" data-post-id="13402" data-author="Atwell" data-date="2006-07-09T21:50:00+00:00">
+<div class="post" data-post-id="13402" data-author="Atwell" data-date="2006-07-09T21:50:00+00:00" data-subject="">
 
 I hadnâ€™t thought about it before, but drachma scatters would be very easy to abuse. You just need to create a few scripts that take your character from room to room and pickup any drachma on the ground. You could bot a whole continent in a few minutes, provided you donâ€™t get stopped too often by aggressive mobs.[/quote:3ef99pom]
 
@@ -240,13 +240,13 @@ Scattering drachma tokens into mob inventories would seriously favor players wit
 
 </div>
 
-<div class="post" data-post-id="13403" data-author="Hades" data-date="2006-07-10T01:48:30+00:00">
+<div class="post" data-post-id="13403" data-author="Hades" data-date="2006-07-10T01:48:30+00:00" data-subject="Staying on track">
 
 Not meant to sound like a flame but how do you expect anyone to cheat at drachma scatter?  Your'e limited to making 1-2 actions to grab drachma as you find them but making a script is damned near impossible.  Too many variables would throw the whole thing off that such an attempt would be meaningless IMHO.  The point being made that if you think what your doing is cheating then it probably is.  Not sure what IMM said that using a 2nd char to buy drachma books and such was ok but some clarification would be appreciated. Yes, I've done both so I'm not standing here with a holier than thou perspective.  In my case however, I was warned sometime back about the practice and had since then withdrawn from doing so again..
 
 </div>
 
-<div class="post" data-post-id="13409" data-author="Marchessa_red_witch" data-date="2006-07-10T06:12:33+00:00">
+<div class="post" data-post-id="13409" data-author="Marchessa_red_witch" data-date="2006-07-10T06:12:33+00:00" data-subject="Umm no">
 
 All that is required are aliased runs, and two action triggers and a running alias.
 
@@ -266,7 +266,7 @@ Since the player will be at the keyboard, and responsive, and they won't be kill
 
 </div>
 
-<div class="post" data-post-id="13410" data-author="Blaster" data-date="2006-07-10T07:18:20+00:00">
+<div class="post" data-post-id="13410" data-author="Blaster" data-date="2006-07-10T07:18:20+00:00" data-subject="Re: Umm no">
 
 Except if the immort wants to shaft the particular player for doing what I know others have done on scatters.[/quote:17kjdfz8]
 
@@ -276,7 +276,7 @@ Blaster
 
 </div>
 
-<div class="post" data-post-id="13411" data-author="Mike" data-date="2006-07-10T10:22:20+00:00">
+<div class="post" data-post-id="13411" data-author="Mike" data-date="2006-07-10T10:22:20+00:00" data-subject="">
 
 You just need to create a few scripts that take your character from room to room and pickup any drachma on the ground. You could bot a whole continent in a few minutes, provided you don’t get stopped too often by aggressive mobs.[/quote:2993smag]
 
@@ -296,7 +296,7 @@ Of course abusing bugs and earning 1k is not fair, but i dont think that all sho
 
 </div>
 
-<div class="post" data-post-id="13412" data-author="Gimlet" data-date="2006-07-10T11:40:03+00:00">
+<div class="post" data-post-id="13412" data-author="Gimlet" data-date="2006-07-10T11:40:03+00:00" data-subject="Re: Umm no">
 
 Thanks for the info saying this has already been going on.  I will not run anymore drachma scatters due to learning this is happening.
 
@@ -306,7 +306,7 @@ thanks alot marchessa u doofus
 
 </div>
 
-<div class="post" data-post-id="13413" data-author="Weasel" data-date="2006-07-10T12:19:58+00:00">
+<div class="post" data-post-id="13413" data-author="Weasel" data-date="2006-07-10T12:19:58+00:00" data-subject="Re: Umm no">
 
 Except if the immort wants to shaft the particular player for doing what I know others have done on scatters.[/quote:3baotx76]
 
@@ -318,7 +318,7 @@ Nice one Marchessa. Best you back that up with proof and a name and perhaps we w
 
 </div>
 
-<div class="post" data-post-id="13414" data-author="Marchessa_red_witch" data-date="2006-07-10T12:20:37+00:00">
+<div class="post" data-post-id="13414" data-author="Marchessa_red_witch" data-date="2006-07-10T12:20:37+00:00" data-subject="Drachma">
 
 [quote:oaefc5yb]Please tell me what makes you think this would be more fair that drachma scatters?
 
@@ -334,7 +334,7 @@ I know it is possible because I wrote the scripts out for meteorites for a singl
 
 </div>
 
-<div class="post" data-post-id="13415" data-author="Gimlet" data-date="2006-07-10T12:39:09+00:00">
+<div class="post" data-post-id="13415" data-author="Gimlet" data-date="2006-07-10T12:39:09+00:00" data-subject="Re: Drachma">
 
 [quote:g55dnu01]
 
@@ -346,7 +346,7 @@ i say punish her and leave us alone
 
 </div>
 
-<div class="post" data-post-id="13416" data-author="brand" data-date="2006-07-10T14:00:04+00:00">
+<div class="post" data-post-id="13416" data-author="brand" data-date="2006-07-10T14:00:04+00:00" data-subject="">
 
 how the hell did drachma scatters become some offhanded topic for abuse?
 
@@ -370,7 +370,7 @@ brand :twisted:
 
 </div>
 
-<div class="post" data-post-id="13417" data-author="Autolycos" data-date="2006-07-10T15:25:26+00:00">
+<div class="post" data-post-id="13417" data-author="Autolycos" data-date="2006-07-10T15:25:26+00:00" data-subject="Re: Drachma">
 
 2. End Drachma scatters, and give out drachma for "tasks", quests or other activities that benefit the mud. I'd include area designing, finding mud bugs and other ways of improving mud play as being part of this. One example is Shyla's teaching drive, it adds colour to the mud, and throwing her some drachma as a way of saying "we like this". [/quote:ip5wss8q]
 
@@ -392,7 +392,7 @@ Suggestion
 
 </div>
 
-<div class="post" data-post-id="13418" data-author="Mike" data-date="2006-07-10T15:35:06+00:00">
+<div class="post" data-post-id="13418" data-author="Mike" data-date="2006-07-10T15:35:06+00:00" data-subject="Re: Drachma">
 
 I did, at some length already. And you are absolutely wrong about programming the scripts, all that is necessary is to expand out the run scripts to separate directions - doable with an macro in word - and add a "testrooom" step in each. The client will do this so fast that you won't see the difference. 
 
@@ -408,7 +408,7 @@ Auto I really miss you ingame!  :D
 
 </div>
 
-<div class="post" data-post-id="13419" data-author="Autolycos" data-date="2006-07-10T16:59:09+00:00">
+<div class="post" data-post-id="13419" data-author="Autolycos" data-date="2006-07-10T16:59:09+00:00" data-subject="Re: Drachma">
 
 Auto I really miss you ingame!  :D[/quote:373dxli0]
 
@@ -418,7 +418,7 @@ really?  and I thought I had problems....... :twisted:
 
 </div>
 
-<div class="post" data-post-id="13421" data-author="Guinex" data-date="2006-07-10T17:17:00+00:00">
+<div class="post" data-post-id="13421" data-author="Guinex" data-date="2006-07-10T17:17:00+00:00" data-subject="">
 
 Will I get punished if i blind/web/silence/sleep marchessa on sight?
 
@@ -426,13 +426,13 @@ I don't use scripts on scatters and i pick up more than she is even stating.  Sc
 
 </div>
 
-<div class="post" data-post-id="13426" data-author="Vixn" data-date="2006-07-10T20:17:37+00:00">
+<div class="post" data-post-id="13426" data-author="Vixn" data-date="2006-07-10T20:17:37+00:00" data-subject="">
 
 cause this damn catapult is targeting right on you  :)
 
 </div>
 
-<div class="post" data-post-id="13428" data-author="12345" data-date="2006-07-10T20:33:30+00:00">
+<div class="post" data-post-id="13428" data-author="12345" data-date="2006-07-10T20:33:30+00:00" data-subject="">
 
 Well, my first thought it that there are a few areas you could do that in...  And my second one is, they're normally pretty crowded anyway.
 
@@ -440,7 +440,7 @@ I've gotten more drachma dodging around aggros than I've ever made running easy 
 
 </div>
 
-<div class="post" data-post-id="13430" data-author="13" data-date="2006-07-10T20:55:28+00:00">
+<div class="post" data-post-id="13430" data-author="13" data-date="2006-07-10T20:55:28+00:00" data-subject="">
 
 Heh, this is kind of a funny thread.  Who in the fuck is Hades? Why does
 
@@ -454,7 +454,7 @@ I have to say I pretty much agree with Auto.  It all boils down to rule #1.
 
 </div>
 
-<div class="post" data-post-id="13432" data-author="Autolycos" data-date="2006-07-10T22:28:00+00:00">
+<div class="post" data-post-id="13432" data-author="Autolycos" data-date="2006-07-10T22:28:00+00:00" data-subject="">
 
 I have to say I pretty much agree with Auto.  It all boils down to rule #1.[/quote:34z4nelc]
 
@@ -464,7 +464,7 @@ Muhahahahahahahaha!
 
 </div>
 
-<div class="post" data-post-id="13433" data-author="Mystery" data-date="2006-07-11T00:44:24+00:00">
+<div class="post" data-post-id="13433" data-author="Mystery" data-date="2006-07-11T00:44:24+00:00" data-subject="I must respond to Autolycos">
 
 stfu
 
@@ -472,13 +472,13 @@ stfu
 
 </div>
 
-<div class="post" data-post-id="13434" data-author="Hades" data-date="2006-07-11T01:06:57+00:00">
+<div class="post" data-post-id="13434" data-author="Hades" data-date="2006-07-11T01:06:57+00:00" data-subject="13">
 
 To respond to what 13 asks of me.. who I am what my relationship is to others will be divulged in my own good time.  I haven't given a second thought about scatter scripting... if someone wants to waste their time, then more power to them. I only posted what Blaster requested, so if you got a beef, take it to him. You hide behind a number but I know you well. :evil:
 
 </div>
 
-<div class="post" data-post-id="13436" data-author="Ditheca" data-date="2006-07-11T03:29:55+00:00">
+<div class="post" data-post-id="13436" data-author="Ditheca" data-date="2006-07-11T03:29:55+00:00" data-subject="drachma abuse, etc.">
 
 Cheers all!  Lots of good things happening in real life are keeping me kind of far from the game lately.
 
@@ -508,7 +508,7 @@ If anyone read down to the bottom of this, the moral is; give avatars something 
 
 </div>
 
-<div class="post" data-post-id="13437" data-author="*Splork*" data-date="2006-07-11T03:37:06+00:00">
+<div class="post" data-post-id="13437" data-author="*Splork*" data-date="2006-07-11T03:37:06+00:00" data-subject="">
 
 Actually it had nothing to do with my code...
 
@@ -520,7 +520,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="13438" data-author="Ditheca" data-date="2006-07-11T03:42:56+00:00">
+<div class="post" data-post-id="13438" data-author="Ditheca" data-date="2006-07-11T03:42:56+00:00" data-subject="">
 
 Sorry if I wronged you there Splork.  I vaguely recall Blaster telling me that you were the one that coded his little quest area for him.
 
@@ -528,13 +528,13 @@ Hurray for presents, curious what it might be!  'help nuke' is fun reading!
 
 </div>
 
-<div class="post" data-post-id="13439" data-author="Weasel" data-date="2006-07-11T05:00:04+00:00">
+<div class="post" data-post-id="13439" data-author="Weasel" data-date="2006-07-11T05:00:04+00:00" data-subject="">
 
 Better to burn out than to fade away huh? heh.
 
 </div>
 
-<div class="post" data-post-id="13444" data-author="13" data-date="2006-07-11T23:08:24+00:00">
+<div class="post" data-post-id="13444" data-author="13" data-date="2006-07-11T23:08:24+00:00" data-subject="">
 
 Hell I'm not hiding.  Everyone knows who I am and where I live.
 
@@ -568,7 +568,7 @@ cheers,
 
 </div>
 
-<div class="post" data-post-id="13446" data-author="Hades" data-date="2006-07-11T23:17:20+00:00">
+<div class="post" data-post-id="13446" data-author="Hades" data-date="2006-07-11T23:17:20+00:00" data-subject="13">
 
 Tried to call and said number was temporarily disconnected...
 
@@ -576,7 +576,7 @@ Please pay your phone bill so i can give you a sound thrashing :twisted:
 
 </div>
 
-<div class="post" data-post-id="13447" data-author="13" data-date="2006-07-11T23:41:48+00:00">
+<div class="post" data-post-id="13447" data-author="13" data-date="2006-07-11T23:41:48+00:00" data-subject="">
 
 It's my phone, for some reason half of the people who call get that 
 
@@ -588,13 +588,13 @@ at about 2 in the morning.
 
 </div>
 
-<div class="post" data-post-id="13448" data-author="Grue" data-date="2006-07-11T23:46:22+00:00">
+<div class="post" data-post-id="13448" data-author="Grue" data-date="2006-07-11T23:46:22+00:00" data-subject="">
 
 Yawn. pity, this was quite an interesting thread at one time.
 
 </div>
 
-<div class="post" data-post-id="13449" data-author="Weasel" data-date="2006-07-12T00:16:19+00:00">
+<div class="post" data-post-id="13449" data-author="Weasel" data-date="2006-07-12T00:16:19+00:00" data-subject="">
 
 I had one cordless go totally haywire last year and start flashing crazily and screeching at about 2 in the morning.[/quote:1fagc8wd]
 
@@ -602,19 +602,19 @@ Sure it wasn't your g/f?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="13451" data-author="13" data-date="2006-07-12T03:37:04+00:00">
+<div class="post" data-post-id="13451" data-author="13" data-date="2006-07-12T03:37:04+00:00" data-subject="">
 
 lmfao
 
 </div>
 
-<div class="post" data-post-id="13458" data-author="Tristaan" data-date="2006-07-13T02:47:21+00:00">
+<div class="post" data-post-id="13458" data-author="Tristaan" data-date="2006-07-13T02:47:21+00:00" data-subject="">
 
 As a newbie, one of the things I enjoy most are the drachma scatters. I probably get 4 or 6 drachma during a scatter. Just getting some drachma gives you hope of one day getting something out of the shop. As a newbie that exclusively solos's these scatters force me out of my comfort zone getting me to walk around and explore. Remember not all people are playing their third or fourth character. Sometimes people are really new. I left Valke without getting the drachma for the guild quests because I didn't know they existed.
 
 </div>
 
-<div class="post" data-post-id="13464" data-author="Rodek" data-date="2006-07-13T17:30:18+00:00">
+<div class="post" data-post-id="13464" data-author="Rodek" data-date="2006-07-13T17:30:18+00:00" data-subject="">
 
 The problem I have with all this really is that it is like insurance fraud -- everyone else gets to suffer except the person(s) who is cheating the system.  I think you need to quit playing the mud long before you feel the need to ruin it for other people.
 
@@ -630,7 +630,7 @@ Some examples:
 
 </div>
 
-<div class="post" data-post-id="13465" data-author="Autolycos" data-date="2006-07-13T18:00:13+00:00">
+<div class="post" data-post-id="13465" data-author="Autolycos" data-date="2006-07-13T18:00:13+00:00" data-subject="">
 
 the be all end all truth is..  that the imm's are so busy trying to get the things to work, that they don't have time to compulate the near infinite possiblities that the core player can adapt to.  
 
@@ -650,13 +650,13 @@ PS!  Nia would have just whiped everyone,  and Ming would have made you wish you
 
 </div>
 
-<div class="post" data-post-id="13466" data-author="kjartan" data-date="2006-07-13T18:36:16+00:00">
+<div class="post" data-post-id="13466" data-author="kjartan" data-date="2006-07-13T18:36:16+00:00" data-subject="">
 
 We would like low-level necros to be able to use undead and low-level monks to be able to use bare-hand attacks.  I will address the necro one.  Does anyone remember why we moved first undead from 8 to 10?  Was it really because of abuse, or was it just something that happened by accident as a side-effect of something else?  I think it was probably the latter, in which case I will have a look at that and see if I can move it back to 8, or even lower.
 
 </div>
 
-<div class="post" data-post-id="13467" data-author="12345" data-date="2006-07-13T20:22:04+00:00">
+<div class="post" data-post-id="13467" data-author="12345" data-date="2006-07-13T20:22:04+00:00" data-subject="">
 
 I have trouble with the claim that low level monks are better with weapons.  I tested that pretty extensively while I was on valk and the only +handdam I wore was the Elegant Leather Gloves.  I was massacring EVERY hit where with a weapon I was getting very hards and extremely hards and only the occasional massacre.
 
@@ -666,7 +666,7 @@ Even with less damage on the gloves, base handdam is the same.  There's no way i
 
 </div>
 
-<div class="post" data-post-id="13474" data-author="Akasha" data-date="2006-07-14T02:22:34+00:00">
+<div class="post" data-post-id="13474" data-author="Akasha" data-date="2006-07-14T02:22:34+00:00" data-subject="Undead vs Supplication">
 
 I seem to remember that undead for necros was raised to 10 because supplication starts at 10.  So both classes could start getting followers at the same level.
 
@@ -674,13 +674,13 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="13475" data-author="Autolycos" data-date="2006-07-14T20:52:24+00:00">
+<div class="post" data-post-id="13475" data-author="Autolycos" data-date="2006-07-14T20:52:24+00:00" data-subject="">
 
 how dare you post anything that makes sense!  :evil:
 
 </div>
 
-<div class="post" data-post-id="13482" data-author="Rodek" data-date="2006-07-16T19:25:01+00:00">
+<div class="post" data-post-id="13482" data-author="Rodek" data-date="2006-07-16T19:25:01+00:00" data-subject="">
 
 low level necros animate dead got messed up to reduce the overall power of the spell (so yes as a side effect to reducing necro power).  It was level 8, but you couldnt actually make anything until 10, so splork raised it up to 10th.
 

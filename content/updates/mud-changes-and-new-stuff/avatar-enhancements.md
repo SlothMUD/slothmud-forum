@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34096" data-author="*Splork*" data-date="2013-02-27T19:15:25+00:00">
+<div class="post" data-post-id="34096" data-author="*Splork*" data-date="2013-02-27T19:15:25+00:00" data-subject="Avatar Enhancements">
 
 We notice more and more people getting close to Avatar and wanted to address a couple of things which players have mentioned in regards to this subject:
 

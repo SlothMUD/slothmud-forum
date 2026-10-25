@@ -10,7 +10,7 @@ locked: false
 post_count: 33
 ---
 
-<div class="post" data-post-id="39317" data-author="Gorka" data-date="2019-12-20T15:15:27+00:00">
+<div class="post" data-post-id="39317" data-author="Gorka" data-date="2019-12-20T15:15:27+00:00" data-subject="Damage/Knives/Thieves">
 
 Is there a good reason why weapon damage doesn't apply to regular attacks with a knife (pierces)? Shouldn't knives be treated as weapons for regular melee attacks (pierces)? 
 
@@ -22,7 +22,7 @@ For a comparison, I do 50% less damage wearing my spear of pestilence, than I do
 
 </div>
 
-<div class="post" data-post-id="39318" data-author="Bandit" data-date="2019-12-20T21:48:50+00:00">
+<div class="post" data-post-id="39318" data-author="Bandit" data-date="2019-12-20T21:48:50+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Agreed. Thief pierce damage is incredibly low and when it comes to hitting a larger target it goes really slow after the stab.
 
@@ -32,7 +32,7 @@ A portion of stab damage would be more in line with thief gear and natural progr
 
 </div>
 
-<div class="post" data-post-id="39319" data-author="Gorka" data-date="2019-12-20T22:13:10+00:00">
+<div class="post" data-post-id="39319" data-author="Gorka" data-date="2019-12-20T22:13:10+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 So we discussed my post in my xp group tonight. 
 
@@ -48,7 +48,7 @@ As per Bandit's post, some proportion of stab dam should be applied to their pie
 
 </div>
 
-<div class="post" data-post-id="39326" data-author="Bandit" data-date="2020-01-02T23:46:00+00:00">
+<div class="post" data-post-id="39326" data-author="Bandit" data-date="2020-01-02T23:46:00+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 We were talking more about new gear, stats, and general thief things in a group again. Gorka was commenting that monks and warriors really got a nice boost with all the hand damage and weapon damage that is available, but thieves generally fall behind because +dam isn't as available.
 
@@ -68,7 +68,7 @@ I was thinking something like a main gauche, parrying dagger, or sword breaker t
 
 </div>
 
-<div class="post" data-post-id="39327" data-author="Gorka" data-date="2020-01-04T09:48:09+00:00">
+<div class="post" data-post-id="39327" data-author="Gorka" data-date="2020-01-04T09:48:09+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Nekode (1000dr) / Crystal Sleeves (1000dr) / Even the new boots at 1000+dr currently represent very poor value for drachma, and probably should have been upgraded in the drachma eq changes. I'm not saying the items aren't good, just poor value for money. Since they are really specifically thief items, they should have been packed out more. Stab dam / Circle Dam / Mv Regen etc
 
@@ -84,7 +84,7 @@ Monks did particularly well in the past year (I wonder why? :twisted: )... as al
 
 </div>
 
-<div class="post" data-post-id="39328" data-author="Driven" data-date="2020-01-06T14:07:53+00:00">
+<div class="post" data-post-id="39328" data-author="Driven" data-date="2020-01-06T14:07:53+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Oh, why not, I'll bite.  
 
@@ -112,7 +112,7 @@ I will hopefully have some time this summer to put together the thief artifact, 
 
 </div>
 
-<div class="post" data-post-id="39329" data-author="Bandit" data-date="2020-01-07T14:53:07+00:00">
+<div class="post" data-post-id="39329" data-author="Bandit" data-date="2020-01-07T14:53:07+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 I tracked my own stab rates:
 
@@ -130,7 +130,7 @@ Maybe it's more of the perception that this skill triggers so rarely, and when i
 
 </div>
 
-<div class="post" data-post-id="39330" data-author="Driven" data-date="2020-01-07T18:50:57+00:00">
+<div class="post" data-post-id="39330" data-author="Driven" data-date="2020-01-07T18:50:57+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Just so we're clear, "Triple stab triggers about 25% of the time.  Of those times it actually hits about 20% of the time", means the following--
 
@@ -142,7 +142,7 @@ Did I read that correctly?
 
 </div>
 
-<div class="post" data-post-id="39331" data-author="*Breeze*" data-date="2020-01-07T20:56:26+00:00">
+<div class="post" data-post-id="39331" data-author="*Breeze*" data-date="2020-01-07T20:56:26+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 I considered redoing triple stab ages ago but if I redo it then excruciating blow will only go off if all 3 stabs land...
 
@@ -152,7 +152,7 @@ Decided you probably prefer it as is..
 
 </div>
 
-<div class="post" data-post-id="39332" data-author="Bandit" data-date="2020-01-07T22:35:46+00:00">
+<div class="post" data-post-id="39332" data-author="Bandit" data-date="2020-01-07T22:35:46+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 That's correct Driven, the values are usually a range. Could be anywhere from 15-25% trigger rate of triple stab over a period of time, usually averages closer to 20%. And the accuracy tends to be anywhere from 20-30%. So, probably does average around 1 in 20 times it's successful.
 
@@ -164,7 +164,7 @@ I'm not really complaining about the skill, just trying to explore what makes it
 
 </div>
 
-<div class="post" data-post-id="39333" data-author="Gorka" data-date="2020-01-09T12:53:51+00:00">
+<div class="post" data-post-id="39333" data-author="Gorka" data-date="2020-01-09T12:53:51+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 I've been away finding a new apartment in the mountains. Laptop charger died, and so did my laptop when the battery ran out... I won't be back for a few more days. Good to see the conversation carry on without me. I really don't like being the only one to say things. It feels like most of the time I am talking to myself - and I bet I often am too.
 
@@ -182,7 +182,7 @@ The fact remains that I am triple stabbing, get exec blows, and second winding f
 
 </div>
 
-<div class="post" data-post-id="39334" data-author="Bandit" data-date="2020-01-09T17:24:20+00:00">
+<div class="post" data-post-id="39334" data-author="Bandit" data-date="2020-01-09T17:24:20+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Just to give us an idea of a maxed out thief, I believe the end stats would be this:
 
@@ -204,7 +204,7 @@ Checked on Swordsmanship, and it does not apply any bonus hit roll to piercing w
 
 </div>
 
-<div class="post" data-post-id="39335" data-author="Driven" data-date="2020-01-09T17:37:13+00:00">
+<div class="post" data-post-id="39335" data-author="Driven" data-date="2020-01-09T17:37:13+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Thanks for replying, Gorka.  You clearly think things through, and that's quite welcome.  If I think about the game as a whole, I like to think of it in terms of trade-offs, and I believe there are two essential trade-offs when you are playing solo, which I believe apply to all of D&D:
 
@@ -240,7 +240,7 @@ I used to watch Surfnazi solo 30mil mobs in the desert with relative ease, using
 
 </div>
 
-<div class="post" data-post-id="39336" data-author="Gorka" data-date="2020-01-09T20:11:42+00:00">
+<div class="post" data-post-id="39336" data-author="Gorka" data-date="2020-01-09T20:11:42+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 > **Driven wrote:**
 > - Warriors are 100% defense, 50% offense, 0% burst, 100% sustained, 0% risk.
@@ -261,13 +261,13 @@ Is it not possible to make 9x40 rebirth test chars and equip them to the max in 
 
 </div>
 
-<div class="post" data-post-id="39337" data-author="Driven" data-date="2020-01-09T20:41:48+00:00">
+<div class="post" data-post-id="39337" data-author="Driven" data-date="2020-01-09T20:41:48+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 I have added +4 hand dam to the game.  Legs, held low, head, and body.  I have added 2 damage for thieves, 1 in dagger, 1 in belt.  2:1 ratio between hand dam and dam is well established ratio well before I ever came along.  I had very little if nothing to do with the EU changes or the rebirth shop.  What is this nonsense you have cooked up in your mind about me?
 
 </div>
 
-<div class="post" data-post-id="39338" data-author="Driven" data-date="2020-01-09T21:44:15+00:00">
+<div class="post" data-post-id="39338" data-author="Driven" data-date="2020-01-09T21:44:15+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Oh, and for the record, I *do not* think the classes are properly balanced.  I just don't think the arena, as it stands today, is the proper ruler to measure that by.  My bigger problem is that I don't really know how to balance all of the classes with just eq.  How do you make a cleric prime as powerful as a thief, monk, or mage?  I struggle with that, because the class itself is built around healing, not offense.  You will never make a cleric a better backstabber, gripper, or blaster than a thief, monk, or mage, which are the raw materials to battle.  Because the game allows for retreating/fleeing out of battle, healing can quickly be relegated to that thing you do when you aren't in battle, if you so choose to do.  
 
@@ -275,13 +275,13 @@ Thieves may need a bump, I have already stated that, so we'll have to wait and s
 
 </div>
 
-<div class="post" data-post-id="39339" data-author="Gorka" data-date="2020-01-09T22:13:20+00:00">
+<div class="post" data-post-id="39339" data-author="Gorka" data-date="2020-01-09T22:13:20+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Seems at least 16 has been added, since EU went in, of which your 4 went in after you had the knowledge that at least 6 had already been recently added. Thieves got 2? by that time? Where is this well established 2:1 ratio? How do you explain the death proc gaunts that had to do 5,000+ damage and a weapon that removed a drachma shield from the mages, to bring them up to a mark that monks and warriors operate at, that procs 300+ free damage after a player drama which partially stated the same point that I am continuing to make. Or the fact your areas like sub palace has a mob that gives probably the most coins in the game, or necrop at least double the xp of 95% of areas in the entire game. Where is the consistency? Where is the balance? How did you forge the new damage boots you added, before me, when the forge was broken when I tried? So many questions... I don't think I am full of nonsense at all... certainly short some proper answers though.
 
 </div>
 
-<div class="post" data-post-id="39340" data-author="Bandit" data-date="2020-01-09T23:17:51+00:00">
+<div class="post" data-post-id="39340" data-author="Bandit" data-date="2020-01-09T23:17:51+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Some thoughts I've had on the thief class that may increase their power, of course these require code changes instead of just creating gear with more stats.
 
@@ -297,7 +297,7 @@ Just trying to think of things that a thief could get in avatar levels that sepa
 
 </div>
 
-<div class="post" data-post-id="39341" data-author="Driven" data-date="2020-01-10T01:31:33+00:00">
+<div class="post" data-post-id="39341" data-author="Driven" data-date="2020-01-10T01:31:33+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Your order of events are wrong.  By the time I updated the 3x40 gear (where I added 2 damage points for thief primes and 2 hand damage for monk primes), no EU gear existed yet that added to the elite endgame.  The monk prime shoulder guards were redundant with the drachma guards, so that added no additional hand damage to the game.  So after I added the 3x40 gear, thieves were given comparatively more damage than monks (1:1 ratio instead of 2:1).  When I added the drachma gear, I then added +2 more hand damage for monks, but you forget what I also added.
 
@@ -337,7 +337,7 @@ Happy mudding, I have work to do.
 
 </div>
 
-<div class="post" data-post-id="39342" data-author="Gorka" data-date="2020-01-10T08:20:00+00:00">
+<div class="post" data-post-id="39342" data-author="Gorka" data-date="2020-01-10T08:20:00+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Through accident or through conspiracy... or from whomever is to blame, the monk class has done extraordinarily well since your return and influence, or since EU was introduced... 
 
@@ -395,7 +395,7 @@ It's all gotten a bit out of control, this and proc weapons, and although us pla
 
 </div>
 
-<div class="post" data-post-id="39343" data-author="Belrath" data-date="2020-01-11T00:19:49+00:00">
+<div class="post" data-post-id="39343" data-author="Belrath" data-date="2020-01-11T00:19:49+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Hello!
 
@@ -413,7 +413,7 @@ I'm just trying to have fun in the game and help ppl to have fun. Real life is s
 
 </div>
 
-<div class="post" data-post-id="39352" data-author="Bandit" data-date="2020-01-19T00:21:45+00:00">
+<div class="post" data-post-id="39352" data-author="Bandit" data-date="2020-01-19T00:21:45+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 I've been tracking stab rates for a while now and they always seem to be about the same, or within some range. I wanted to see if being 9x40 made a difference, which it didn't, and then I wanted to see if having 25 str and 25 dex would make a difference. Sadly, it made no difference.
 
@@ -429,7 +429,7 @@ Is there anything else that I may be missing that Gorka may have that is causing
 
 </div>
 
-<div class="post" data-post-id="39353" data-author="Gorka" data-date="2020-01-19T08:05:18+00:00">
+<div class="post" data-post-id="39353" data-author="Gorka" data-date="2020-01-19T08:05:18+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 >Is there anything else that I may be missing...
 
@@ -447,7 +447,7 @@ Is there anything else that I may be missing that Gorka may have that is causing
 
 </div>
 
-<div class="post" data-post-id="39354" data-author="Bandit" data-date="2020-01-19T13:09:48+00:00">
+<div class="post" data-post-id="39354" data-author="Bandit" data-date="2020-01-19T13:09:48+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 8x40 thief dagger also has +5 hit, and the same base damage as the spear. Overall the dagger is a better weapon based on everything we can see.
 
@@ -459,13 +459,13 @@ Age is 50, not that it should matter, and for the most part a thief would want t
 
 </div>
 
-<div class="post" data-post-id="39356" data-author="Driven" data-date="2020-01-19T15:16:12+00:00">
+<div class="post" data-post-id="39356" data-author="Driven" data-date="2020-01-19T15:16:12+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 I have seen the same high trip stab rate with both Sam and Taron, so it would appear to be a warrior thing.  It needs to be root caused and the disparity needs to be fixed.  I think all of us agree that thief primes should be better stabbers than all other classes, yet that does not appear to be the case.
 
 </div>
 
-<div class="post" data-post-id="39360" data-author="Bandit" data-date="2020-01-23T00:37:17+00:00">
+<div class="post" data-post-id="39360" data-author="Bandit" data-date="2020-01-23T00:37:17+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 I purchased circle damage in the avatar shop and it is NOT bonus circle damage. There's lots of circle damage on gear and for the most part I've been at or near cap for most of my leveling. It would seem that converting the avatar shop to bonus circle damage would be useful as stab damage in the shop is bonus.
 
@@ -473,7 +473,7 @@ From Gorka's post about the rebirth shop it had everything listed as bonus. If f
 
 </div>
 
-<div class="post" data-post-id="39361" data-author="Gorka" data-date="2020-01-23T08:51:04+00:00">
+<div class="post" data-post-id="39361" data-author="Gorka" data-date="2020-01-23T08:51:04+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Bandit, It's my opinion that the changes that need to happen to thieves really needs to primarily happen at the coding level, not primarily the eq level or shop level. I completely understand why Maniac took more of an eq approach in his overhaul of the eq systems recently... (as it was the one thing within his power to change) I suspect though that this has only created more sync issues between the code, eq and shops. The only reason I say this, is because if you were looking for respite for thieves from the avatar shop... it was always going to end this way.
 
@@ -499,19 +499,19 @@ The rebirth shop I believe is robust and solid (the future), however it's kind o
 
 </div>
 
-<div class="post" data-post-id="39362" data-author="Bandit" data-date="2020-01-23T14:38:20+00:00">
+<div class="post" data-post-id="39362" data-author="Bandit" data-date="2020-01-23T14:38:20+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Right, no doubt there are things that require code changes. Just trying to point out some issues, that have probably already been pointed out in the past already. Maybe we can get the attention of the people in charge of the code for some of this, I know we have a couple builders looking at it. Neptune mentioned he was looking at the building docs and there was no mention of bonus circle damage even being a thing for gear, and he was going to look further to find out if it was something new added for the rebirth shop.
 
 </div>
 
-<div class="post" data-post-id="39365" data-author="Bandit" data-date="2020-01-26T17:43:29+00:00">
+<div class="post" data-post-id="39365" data-author="Bandit" data-date="2020-01-26T17:43:29+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 As of the last reboot Circle damage in the avatar shop is now Bonus circle damage, thanks Neptune and Teker! The stat is also available for new gear and so on.
 
 </div>
 
-<div class="post" data-post-id="39367" data-author="*teker*" data-date="2020-01-29T04:36:31+00:00">
+<div class="post" data-post-id="39367" data-author="*teker*" data-date="2020-01-29T04:36:31+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 > **Bandit wrote:**
 > As of the last reboot Circle damage in the avatar shop is now Bonus circle damage
@@ -520,7 +520,7 @@ This may revert - I was making changes hastily and the intent was to put that in
 
 </div>
 
-<div class="post" data-post-id="39387" data-author="Bandit" data-date="2020-03-11T22:29:59+00:00">
+<div class="post" data-post-id="39387" data-author="Bandit" data-date="2020-03-11T22:29:59+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Breeze mentioned something today about adjusting triple stab. Something like making it so the accuracy on the third stab was better, but that the proc for a mob taking extra damage for a couple of rounds would only trigger if all three stabs land.
 
@@ -534,7 +534,7 @@ And on the point of hitroll helping land stabs, right now we're estimating some 
 
 </div>
 
-<div class="post" data-post-id="39416" data-author="Gorka" data-date="2020-04-01T21:54:42+00:00">
+<div class="post" data-post-id="39416" data-author="Gorka" data-date="2020-04-01T21:54:42+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Also Bandit... (This is real by the way...)
 
@@ -556,7 +556,7 @@ Total exp for kill is 476346357.
 
 </div>
 
-<div class="post" data-post-id="39417" data-author="Ker" data-date="2020-04-02T17:03:33+00:00">
+<div class="post" data-post-id="39417" data-author="Ker" data-date="2020-04-02T17:03:33+00:00" data-subject="Re: Damage/Knives/Thieves">
 
 Back at ya G,
 

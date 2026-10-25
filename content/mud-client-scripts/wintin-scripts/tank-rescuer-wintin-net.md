@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="3850" data-author="*Splork*" data-date="2005-01-20T20:41:57+00:00">
+<div class="post" data-post-id="3850" data-author="*Splork*" data-date="2005-01-20T20:41:57+00:00" data-subject="Tank Rescuer Wintin.NET">
 
 Please change strings if anyone uses this...
 
@@ -62,7 +62,7 @@ Please change strings if anyone uses this...
 
 </div>
 
-<div class="post" data-post-id="13711" data-author="bibbidi" data-date="2006-08-14T14:32:22+00:00">
+<div class="post" data-post-id="13711" data-author="bibbidi" data-date="2006-08-14T14:32:22+00:00" data-subject="Rescue Scripts and Triggers">
 
 General
 
@@ -166,7 +166,7 @@ smartly steps out
 
 </div>
 
-<div class="post" data-post-id="13712" data-author="12345" data-date="2006-08-14T21:21:58+00:00">
+<div class="post" data-post-id="13712" data-author="12345" data-date="2006-08-14T21:21:58+00:00" data-subject="">
 
 I'll post mine, also far from perfect.  I honestly ignore things such as the stabber and gripper vars, partly because I shut my rescuer off when not needed and partly because in thousands of rescues, I've rescued maybe 2 people by mistake.  Both were pretty cool about it if I remember.
 
@@ -218,7 +218,7 @@ Script is for Wintin 2.04 and yes.... I run Dragonmount a lot.
 
 </div>
 
-<div class="post" data-post-id="13713" data-author="Mustang" data-date="2006-08-15T11:40:50+00:00">
+<div class="post" data-post-id="13713" data-author="Mustang" data-date="2006-08-15T11:40:50+00:00" data-subject="">
 
 it might be quite bad to use {^%1 places...blahblah} as a trigger for rescuers
 
@@ -228,7 +228,7 @@ also, instead of having #if {$tankmode=1} or aliases that sets certain triggers 
 
 </div>
 
-<div class="post" data-post-id="13714" data-author="12345" data-date="2006-08-15T22:42:45+00:00">
+<div class="post" data-post-id="13714" data-author="12345" data-date="2006-08-15T22:42:45+00:00" data-subject="">
 
 Honestly, I'm kinda against setting vars.  Mostly because as a leader I'm already keeping track of a bunch of stuff and I tend to switch people around very fluidly based on whatever plan I have rattling around in my head at the moment.  Resucing someone by mistake hasn't happened nearly enough that I'm concerned about it.  Then again, I'm not a total newbie either.
 
@@ -236,7 +236,7 @@ As far as the enable/disable thing, my triggers have various switches within the
 
 </div>
 
-<div class="post" data-post-id="13715" data-author="Mustang" data-date="2006-08-16T03:10:28+00:00">
+<div class="post" data-post-id="13715" data-author="Mustang" data-date="2006-08-16T03:10:28+00:00" data-subject="">
 
 i wasn't refering to u being a newbie :)
 
@@ -244,7 +244,7 @@ i was refering to people who might use your script
 
 </div>
 
-<div class="post" data-post-id="13716" data-author="Weasel" data-date="2006-08-16T05:25:25+00:00">
+<div class="post" data-post-id="13716" data-author="Weasel" data-date="2006-08-16T05:25:25+00:00" data-subject="">
 
 sometimes I'll swim naked in a vat of lime jello while singing the Chech national anthem....  [/quote:2ecn1me5]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="10361" data-author="Leaf" data-date="2006-01-27T17:25:21+00:00">
+<div class="post" data-post-id="10361" data-author="Leaf" data-date="2006-01-27T17:25:21+00:00" data-subject="Bards Instruments">
 
 Hello,
 
@@ -24,7 +24,7 @@ on saving for each "resing", but thats only two :)
 
 </div>
 
-<div class="post" data-post-id="10362" data-author="Shara" data-date="2006-01-27T21:43:24+00:00">
+<div class="post" data-post-id="10362" data-author="Shara" data-date="2006-01-27T21:43:24+00:00" data-subject="">
 
 %bonus effectiveness on song/%mana saved on song/# of extra people affected by song
 
@@ -32,13 +32,13 @@ At least I think so?  You think I'd know for sure :)
 
 </div>
 
-<div class="post" data-post-id="10363" data-author="blackmore" data-date="2006-01-27T22:06:47+00:00">
+<div class="post" data-post-id="10363" data-author="blackmore" data-date="2006-01-27T22:06:47+00:00" data-subject="">
 
 It's % increase in song length, % mana reduction, # of added listeners.
 
 </div>
 
-<div class="post" data-post-id="10364" data-author="Leaf" data-date="2006-01-27T22:41:23+00:00">
+<div class="post" data-post-id="10364" data-author="Leaf" data-date="2006-01-27T22:41:23+00:00" data-subject="">
 
 Humm... ok cool,
 
@@ -48,7 +48,7 @@ Also does Charsmia help add # of ppl effected by a song?
 
 </div>
 
-<div class="post" data-post-id="10365" data-author="Gnu" data-date="2006-01-27T23:07:58+00:00">
+<div class="post" data-post-id="10365" data-author="Gnu" data-date="2006-01-27T23:07:58+00:00" data-subject="">
 
 Only instruments have "%/%/%" and all these bonuses do not stack. You use the instrument with highest bonuses automatically.
 
@@ -56,19 +56,19 @@ As or charisma EQ, I am quite sure it does not affect the number of listeners...
 
 </div>
 
-<div class="post" data-post-id="10371" data-author="Tetsulunathaya" data-date="2006-01-28T05:32:52+00:00">
+<div class="post" data-post-id="10371" data-author="Tetsulunathaya" data-date="2006-01-28T05:32:52+00:00" data-subject="">
 
 You sure that Charisma doesn't effect the number of people affected by benificial songs? From what I've seen, it usually does? I could be wrong though too.
 
 </div>
 
-<div class="post" data-post-id="10376" data-author="blackmore" data-date="2006-01-28T17:20:43+00:00">
+<div class="post" data-post-id="10376" data-author="blackmore" data-date="2006-01-28T17:20:43+00:00" data-subject="">
 
 I was almost positive it did - maybe by increasing the max # or something.  I don't know why I thought this, but that was what I seemed to believe.
 
 </div>
 
-<div class="post" data-post-id="10377" data-author="Leaf" data-date="2006-01-28T17:53:15+00:00">
+<div class="post" data-post-id="10377" data-author="Leaf" data-date="2006-01-28T17:53:15+00:00" data-subject="">
 
 Just wondering, because alot of "higher" bards with +charisma eq effect
 
@@ -78,13 +78,13 @@ be able to effect the same number of ppl.  Or thats how it always seems.
 
 </div>
 
-<div class="post" data-post-id="10383" data-author="Shara" data-date="2006-01-29T01:47:04+00:00">
+<div class="post" data-post-id="10383" data-author="Shara" data-date="2006-01-29T01:47:04+00:00" data-subject="">
 
 I was always under that impression!
 
 </div>
 
-<div class="post" data-post-id="10400" data-author="Gnu" data-date="2006-01-29T12:31:23+00:00">
+<div class="post" data-post-id="10400" data-author="Gnu" data-date="2006-01-29T12:31:23+00:00" data-subject="">
 
 Well... I could be wrong with the way of testing... but I did the following thing:
 
@@ -96,7 +96,7 @@ My view of the problem. I am sure that the number of listeners depend on the ins
 
 </div>
 
-<div class="post" data-post-id="10405" data-author="Tetsulunathaya" data-date="2006-01-29T17:55:22+00:00">
+<div class="post" data-post-id="10405" data-author="Tetsulunathaya" data-date="2006-01-29T17:55:22+00:00" data-subject="">
 
 Direct from the Glamour Spell description:
 

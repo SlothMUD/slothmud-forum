@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="14911" data-author="banedon" data-date="2006-11-02T05:47:32+00:00">
+<div class="post" data-post-id="14911" data-author="banedon" data-date="2006-11-02T05:47:32+00:00" data-subject="A couple ideas">
 
 1) How about some kind of rapid transport ala gate or teleport for those of us poor schlubs that don't have those spells.  Maybe have it cost a flat x gold or even x gold pre prime level
 
@@ -22,7 +22,7 @@ Banedon
 
 </div>
 
-<div class="post" data-post-id="14912" data-author="Weasel" data-date="2006-11-02T06:47:33+00:00">
+<div class="post" data-post-id="14912" data-author="Weasel" data-date="2006-11-02T06:47:33+00:00" data-subject="">
 
 hmm.. is there a potion that can be brewed for gate? might be a good way to go if there's not one already..
 

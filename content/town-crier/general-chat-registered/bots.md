@@ -10,7 +10,7 @@ locked: false
 post_count: 36
 ---
 
-<div class="post" data-post-id="32017" data-author="*Isabo*" data-date="2010-11-13T18:29:29+00:00">
+<div class="post" data-post-id="32017" data-author="*Isabo*" data-date="2010-11-13T18:29:29+00:00" data-subject="Bots">
 
 Good day, guys.
 
@@ -32,7 +32,7 @@ Best regard.
 
 </div>
 
-<div class="post" data-post-id="32023" data-author="*Splork*" data-date="2010-11-13T22:28:13+00:00">
+<div class="post" data-post-id="32023" data-author="*Splork*" data-date="2010-11-13T22:28:13+00:00" data-subject="Re: Bots">
 
 The main emphasis for patrolling bots falls on the leader and the group itself. If a player is botting, he should be kicked out of the group and made an outcast. Also, don't be afraid to notify an Immortal and let them deal with the issue. Very seldom does a player actually get reported to us. We hear rumors and get told of situations which occur well after the fact but very rarely during.
 
@@ -44,13 +44,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32024" data-author="Dragoth" data-date="2010-11-14T00:07:22+00:00">
+<div class="post" data-post-id="32024" data-author="Dragoth" data-date="2010-11-14T00:07:22+00:00" data-subject="Re: Bots">
 
 leave us bots alone!  :evil:
 
 </div>
 
-<div class="post" data-post-id="32025" data-author="element" data-date="2010-11-14T01:21:11+00:00">
+<div class="post" data-post-id="32025" data-author="element" data-date="2010-11-14T01:21:11+00:00" data-subject="Re: Bots">
 
 nice post about bots...sad that it's tolerated at all
 
@@ -72,13 +72,13 @@ On a similar note, I've always felt that the convocation spell just encourages b
 
 </div>
 
-<div class="post" data-post-id="32032" data-author="Stab" data-date="2010-11-14T21:25:24+00:00">
+<div class="post" data-post-id="32032" data-author="Stab" data-date="2010-11-14T21:25:24+00:00" data-subject="Re: Bots">
 
 Very well stated Element. Especially reference to cleric or anyone else sitting on massive mana,no staff and things not looking good. It happens occasionally. The leader is counting on group mana and all being there when ascertaining viability for the next mob. I've found just telling the leader I need to step away briefly works just fine. I like the idea of just recalling bots, their mana is useless anyway. Maybe if one is recalled enough times it will become useless to even join unless one's ready to play. The same old excuses are worn out. The really creative will come up with new ones.. "Pkilling is not permitted." is in the rulebook. Change the rules first if selective pkilling is on the horizon.
 
 </div>
 
-<div class="post" data-post-id="32033" data-author="jezer" data-date="2010-11-14T22:52:24+00:00">
+<div class="post" data-post-id="32033" data-author="jezer" data-date="2010-11-14T22:52:24+00:00" data-subject="Re: Bots">
 
 I think the fact that an ethical player "risks" being punished for pkilling an accused "bot" is completely stupid. Backwards thinking! Why place the risk on the people trying to do the right thing? You need to empower players to deal with bots, you need to define criteria about these situations so a player can KNOW he is in NO RISK of punishment IF he follows certain guidelines.
 
@@ -100,7 +100,7 @@ Once you've dealt with that, you need to think of ideas to encourage players to 
 
 </div>
 
-<div class="post" data-post-id="32034" data-author="*Splork*" data-date="2010-11-14T23:06:42+00:00">
+<div class="post" data-post-id="32034" data-author="*Splork*" data-date="2010-11-14T23:06:42+00:00" data-subject="Re: Bots">
 
 I don't recall ever having said that I do not want to deal with botters but what I strongly feel is that it should be managed by fellow players first.
 
@@ -112,7 +112,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32035" data-author="jezer" data-date="2010-11-14T23:18:06+00:00">
+<div class="post" data-post-id="32035" data-author="jezer" data-date="2010-11-14T23:18:06+00:00" data-subject="Re: Bots">
 
 > ***Splork* wrote:**
 > Why do leaders, on a consistent basis, let these players join their groups? If groups would start policing themselves and making these players outcasts, they will either change their behavior or they will be playing by themselves.
@@ -129,7 +129,7 @@ The truth is we LOVE powerful botters, we just wish they would pay attention. (T
 
 </div>
 
-<div class="post" data-post-id="32038" data-author="element" data-date="2010-11-15T03:31:00+00:00">
+<div class="post" data-post-id="32038" data-author="element" data-date="2010-11-15T03:31:00+00:00" data-subject="Re: Bots">
 
 This is one of the reasons I stopped leading/grouping almost entirely.  
 
@@ -143,7 +143,7 @@ I have pointed out bots to several imms many times as it happens, and only once 
 
 </div>
 
-<div class="post" data-post-id="32040" data-author="Teron" data-date="2010-11-15T09:09:55+00:00">
+<div class="post" data-post-id="32040" data-author="Teron" data-date="2010-11-15T09:09:55+00:00" data-subject="Re: Bots">
 
 **Splork**, you've just said:
 
@@ -171,7 +171,7 @@ Would you suggest a way to punish botters without any imm presence besides ungro
 
 </div>
 
-<div class="post" data-post-id="32041" data-author="jezer" data-date="2010-11-15T10:18:45+00:00">
+<div class="post" data-post-id="32041" data-author="jezer" data-date="2010-11-15T10:18:45+00:00" data-subject="Re: Bots">
 
 > **Teron wrote:**
 > **Jezer**, I am in the process of creating a list of ways to detect bots in groups and punishing them and running the rules against imms to see how punishable (for me) they are, **unless imms actually suggest legal ways to do that here** before i do publish them here.
@@ -182,7 +182,7 @@ I don't think it's possible to ever totally fix botting. You would need to take 
 
 </div>
 
-<div class="post" data-post-id="32042" data-author="Thraxas" data-date="2010-11-15T10:20:32+00:00">
+<div class="post" data-post-id="32042" data-author="Thraxas" data-date="2010-11-15T10:20:32+00:00" data-subject="Re: Bots">
 
 My name is Thraxas and I bot ...
 
@@ -216,7 +216,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="32043" data-author="*Splork*" data-date="2010-11-15T11:54:53+00:00">
+<div class="post" data-post-id="32043" data-author="*Splork*" data-date="2010-11-15T11:54:53+00:00" data-subject="Re: Bots">
 
 This is not a new situation to S4 or unique in anyway to this game in general. There have always been players known to be bots and we have always attempted to deal with them the best we can, both players and Immortals.
 
@@ -236,7 +236,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32044" data-author="Dragoth" data-date="2010-11-15T13:37:16+00:00">
+<div class="post" data-post-id="32044" data-author="Dragoth" data-date="2010-11-15T13:37:16+00:00" data-subject="Re: Bots">
 
 Jezer's and Thraxas's posts are very consutrctive and well argumented and i am practically in the same boat as Thraxas. In many situations i enjoy scripting more than i enjoy the game and i do not see why people who spend alot of time on their scripts and can do their job a 100% without touching a keyboard should be punished if they are never "completely" away. 
 
@@ -248,7 +248,7 @@ Yes players that are botting 90% of their time are a problem and if you dont lik
 
 </div>
 
-<div class="post" data-post-id="32045" data-author="Dragoth" data-date="2010-11-15T13:47:44+00:00">
+<div class="post" data-post-id="32045" data-author="Dragoth" data-date="2010-11-15T13:47:44+00:00" data-subject="Re: Bots">
 
 And no, i dont care if the player is physically present at the keyboard. If a bot joins my group and does his job a 100%, but is not responding to tells or grouptells I will not ungroup him and i will not report him.  Why ? Because i would rather have a good bot instead of a bad player in my group. 
 
@@ -256,7 +256,7 @@ As Thraxas said, a good bot always does his job a 100% and in a mud where people
 
 </div>
 
-<div class="post" data-post-id="32046" data-author="*juggleblood*" data-date="2010-11-15T14:55:25+00:00">
+<div class="post" data-post-id="32046" data-author="*juggleblood*" data-date="2010-11-15T14:55:25+00:00" data-subject="Re: Bots">
 
 If it's the group leader 'accidentally' letting them die, there's not much I can do. But I strongly discourage anyone using botting as an excuse to pkill someone. Remember the 'harmony of the mud' rule.
 
@@ -266,7 +266,7 @@ And by the way, if you are a troublemaker/troll as noted in your pfile, and you 
 
 </div>
 
-<div class="post" data-post-id="32047" data-author="Thraxas" data-date="2010-11-15T15:42:38+00:00">
+<div class="post" data-post-id="32047" data-author="Thraxas" data-date="2010-11-15T15:42:38+00:00" data-subject="Re: Bots">
 
 > **juggleblood wrote:**
 > And by the way, if you are a troublemaker/troll as noted in your pfile, and you pkill someone for any reason, you will be punished as a pkiller regardless of the situation (even if it's your group). You know who you are.
@@ -277,7 +277,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="32048" data-author="Teron" data-date="2010-11-15T17:37:45+00:00">
+<div class="post" data-post-id="32048" data-author="Teron" data-date="2010-11-15T17:37:45+00:00" data-subject="Re: Bots">
 
 > **Quote:**
 > Although even if they are are completely away, how are they different from someone who just types follow leader and sits there doing nothing because what he does is not important, and why should one be punished because he has a script that does something important for the group and the other should not be punished because he doesnt have any scripts but is just sponging ?
@@ -321,7 +321,7 @@ I am really tired of afkness between regens lately. I do try to run smoothly, bu
 
 </div>
 
-<div class="post" data-post-id="32049" data-author="element" data-date="2010-11-16T09:13:29+00:00">
+<div class="post" data-post-id="32049" data-author="element" data-date="2010-11-16T09:13:29+00:00" data-subject="Overheard in groups recently">
 
 p1 -- 'p2 stop autoassisting and help debuff/blind'
 
@@ -341,7 +341,7 @@ p2 -- 'why don't you mind your own business'
 
 </div>
 
-<div class="post" data-post-id="32050" data-author="blackmore" data-date="2010-11-16T13:07:04+00:00">
+<div class="post" data-post-id="32050" data-author="blackmore" data-date="2010-11-16T13:07:04+00:00" data-subject="Re: Bots">
 
 What Element failed to post from p2:
 
@@ -351,7 +351,7 @@ No, p1 wasn't the leader.  It was pretty damn funny though.  Someone was auto-as
 
 </div>
 
-<div class="post" data-post-id="32052" data-author="element" data-date="2010-11-16T15:57:57+00:00">
+<div class="post" data-post-id="32052" data-author="element" data-date="2010-11-16T15:57:57+00:00" data-subject="Re: Bots">
 
 if he had me "gagged" how was he responding to my grouptells?
 
@@ -373,7 +373,7 @@ I think XP given for kill could be lowered, and more bonus given to actual damag
 
 </div>
 
-<div class="post" data-post-id="32053" data-author="element" data-date="2010-11-16T16:01:07+00:00">
+<div class="post" data-post-id="32053" data-author="element" data-date="2010-11-16T16:01:07+00:00" data-subject="Re: Bots">
 
 and just to clarify, I was not out to get botters/afkers.
 
@@ -383,7 +383,7 @@ do the math
 
 </div>
 
-<div class="post" data-post-id="32062" data-author="Tuck" data-date="2010-11-16T22:16:02+00:00">
+<div class="post" data-post-id="32062" data-author="Tuck" data-date="2010-11-16T22:16:02+00:00" data-subject="Re: Bots">
 
 wtf element was blasting
 
@@ -391,13 +391,13 @@ peace :lol:
 
 </div>
 
-<div class="post" data-post-id="32063" data-author="element" data-date="2010-11-17T02:02:58+00:00">
+<div class="post" data-post-id="32063" data-author="element" data-date="2010-11-17T02:02:58+00:00" data-subject="Re: Bots">
 
 hehehe silly tuckette
 
 </div>
 
-<div class="post" data-post-id="32066" data-author="mahkra" data-date="2010-11-17T15:36:20+00:00">
+<div class="post" data-post-id="32066" data-author="mahkra" data-date="2010-11-17T15:36:20+00:00" data-subject="Re: Bots">
 
 Actually this is pretty much a which hunt. It seems you have a target and you are doing everything you can to drive him out. Both in public channels and private. 
 
@@ -409,7 +409,7 @@ For a game slim on players it would seem to me a lynch mob of game cops is as bi
 
 </div>
 
-<div class="post" data-post-id="32068" data-author="element" data-date="2010-11-17T18:12:52+00:00">
+<div class="post" data-post-id="32068" data-author="element" data-date="2010-11-17T18:12:52+00:00" data-subject="Re: Bots">
 
 interesting post.
 
@@ -419,13 +419,13 @@ if he's a true n00b he should be learning, and not afking while the group is fig
 
 </div>
 
-<div class="post" data-post-id="32069" data-author="Dragoth" data-date="2010-11-17T19:56:10+00:00">
+<div class="post" data-post-id="32069" data-author="Dragoth" data-date="2010-11-17T19:56:10+00:00" data-subject="Re: Bots">
 
 All fair points tbh, just dont get overzealous and drive away players.
 
 </div>
 
-<div class="post" data-post-id="32071" data-author="Stab" data-date="2010-11-18T00:20:34+00:00">
+<div class="post" data-post-id="32071" data-author="Stab" data-date="2010-11-18T00:20:34+00:00" data-subject="Re: Bots">
 
 Agreed, don't be too critical of newb play. Sometimes one good tell or honest assistance is worth all the thread stuffs you can muster. Hope he reads the threads.  8) BM. I watched that one too but P1 and P2 will never stop that stuff. It did feel like a wet blanket had been throw over things for a moment. As I've seen elsewhere.. some just do not play well with others.
 
@@ -433,7 +433,7 @@ I think Rasufe is a true newb and group spam can be overwhelming until one get t
 
 </div>
 
-<div class="post" data-post-id="32072" data-author="element" data-date="2010-11-18T01:28:27+00:00">
+<div class="post" data-post-id="32072" data-author="element" data-date="2010-11-18T01:28:27+00:00" data-subject="Re: Bots">
 
 apparently, he's still doing it so I wouldn't bet the house mortgage on him learning if I were you.
 
@@ -445,7 +445,7 @@ yet players say "hey, don't mess with bots as long as it doesn't ruin my xp gain
 
 </div>
 
-<div class="post" data-post-id="32074" data-author="Teron" data-date="2010-11-18T03:47:34+00:00">
+<div class="post" data-post-id="32074" data-author="Teron" data-date="2010-11-18T03:47:34+00:00" data-subject="Re: Bots">
 
 Sounds like I've missed all the fun sometime, somewhere!
 
@@ -455,7 +455,7 @@ Mahkra, compare exping 2-4man with a few solid guys/gals to constant waiting or 
 
 </div>
 
-<div class="post" data-post-id="32088" data-author="Rasufe" data-date="2010-11-19T23:39:35+00:00">
+<div class="post" data-post-id="32088" data-author="Rasufe" data-date="2010-11-19T23:39:35+00:00" data-subject="Re: Bots">
 
 I didn't even realize that I was being discussed on the forums.
 
@@ -473,7 +473,7 @@ Thank you.
 
 </div>
 
-<div class="post" data-post-id="32090" data-author="Rasufe" data-date="2010-11-20T02:41:23+00:00">
+<div class="post" data-post-id="32090" data-author="Rasufe" data-date="2010-11-20T02:41:23+00:00" data-subject="Re: Bots">
 
 ![](http://img13.imageshack.us/img13/863/elementharass1.jpg)
 
@@ -481,7 +481,7 @@ Just sayin'..no bell no message just a random recall mid fight
 
 </div>
 
-<div class="post" data-post-id="32121" data-author="Teron" data-date="2010-12-07T00:45:43+00:00">
+<div class="post" data-post-id="32121" data-author="Teron" data-date="2010-12-07T00:45:43+00:00" data-subject="Re: Bots">
 
 Just bringing this up, because:
 
@@ -511,7 +511,7 @@ So, to clarify this once more, I consider botting as not responding or doing wha
 
 </div>
 
-<div class="post" data-post-id="32154" data-author="*juggleblood*" data-date="2010-12-13T22:24:34+00:00">
+<div class="post" data-post-id="32154" data-author="*juggleblood*" data-date="2010-12-13T22:24:34+00:00" data-subject="Re: Bots">
 
 This thread shows why this is such a difficult issue. Maybe Teron's standard of botting as failure to follow instructions is the only one that could possibly be enforceable by the leader. And maybe calling out botters should be left for the leader or designated persons only.  Otherwise it's going to be a contentious argument every time.  
 
@@ -519,7 +519,7 @@ By Teron's standard if the leader asked said-newb to stop auto-assist and debuff
 
 </div>
 
-<div class="post" data-post-id="32155" data-author="Teron" data-date="2010-12-14T01:44:07+00:00">
+<div class="post" data-post-id="32155" data-author="Teron" data-date="2010-12-14T01:44:07+00:00" data-subject="Re: Bots">
 
 Well, as far as forbidden botting is concerned, the only immortal problem is if whether the person is at the keyboard - as far as I understand. So that's what I'm sticking with and it's not my definition. Maybe the imm staff would like to clarify it here, if it's different from the one I presented, since clearly there probably is an **immortal standard of botting**?
 
@@ -531,7 +531,7 @@ But if the leader and the players don't do any checks - which is a vital element
 
 </div>
 
-<div class="post" data-post-id="32157" data-author="*juggleblood*" data-date="2010-12-14T03:27:05+00:00">
+<div class="post" data-post-id="32157" data-author="*juggleblood*" data-date="2010-12-14T03:27:05+00:00" data-subject="Re: Bots">
 
 Why keep putting it on the immorts tho. You still run into the same heated arguments, some angry player who's gonna disrupt the whole group until they get their satisfaction. The botter will deny, the leader will throw up their arms in exasperation. I just think people should defer to the leader to decide if someone is a botter. It's not an easy call, people aren't going to agree, and it shouldn't muck up the group.
 

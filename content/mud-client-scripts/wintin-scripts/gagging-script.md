@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="21619" data-author="Reece" data-date="2007-12-11T06:01:33+00:00">
+<div class="post" data-post-id="21619" data-author="Reece" data-date="2007-12-11T06:01:33+00:00" data-subject="Gagging Script">
 
 For all the people I know who've always wanted to Gag people. (especially me hehe) Here ya go.
 
@@ -52,7 +52,7 @@ You can replace Bro with $charname to gag anyone you choose. Hope ya have fun, E
 
 </div>
 
-<div class="post" data-post-id="21624" data-author="Blastem" data-date="2007-12-11T15:28:07+00:00">
+<div class="post" data-post-id="21624" data-author="Blastem" data-date="2007-12-11T15:28:07+00:00" data-subject="">
 
 Should really anchor those actions with a ^.
 
@@ -62,7 +62,7 @@ Just a word to the wise anchoring any of your actions/triggers that can be will 
 
 </div>
 
-<div class="post" data-post-id="21654" data-author="Reece" data-date="2007-12-13T02:31:25+00:00">
+<div class="post" data-post-id="21654" data-author="Reece" data-date="2007-12-13T02:31:25+00:00" data-subject="">
 
 aight sweet thanks for the tip :)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="39610" data-author="cnl" data-date="2020-11-12T08:15:08+00:00">
+<div class="post" data-post-id="39610" data-author="cnl" data-date="2020-11-12T08:15:08+00:00" data-subject="Map submission email addresses don&#x27;t work">
 
 Hi.
 
@@ -22,7 +22,7 @@ Both this page [http://www.slothmud.org/wp/the-world-of-slothmud](http://www.slo
 
 </div>
 
-<div class="post" data-post-id="39611" data-author="cnl" data-date="2020-11-13T08:51:21+00:00">
+<div class="post" data-post-id="39611" data-author="cnl" data-date="2020-11-13T08:51:21+00:00" data-subject="Re: Map submission email addresses don&#x27;t work">
 
 Update for Chessboard map since it was simplified at some point
 
@@ -32,13 +32,13 @@ Update for Chessboard map since it was simplified at some point
 
 </div>
 
-<div class="post" data-post-id="39615" data-author="Kida" data-date="2020-11-15T13:27:20+00:00">
+<div class="post" data-post-id="39615" data-author="Kida" data-date="2020-11-15T13:27:20+00:00" data-subject="Re: Map submission email addresses don&#x27;t work">
 
 Thanks for your efforts, very beautiful map!
 
 </div>
 
-<div class="post" data-post-id="39628" data-author="cnl" data-date="2020-12-03T20:14:49+00:00">
+<div class="post" data-post-id="39628" data-author="cnl" data-date="2020-12-03T20:14:49+00:00" data-subject="Re: Map submission email addresses don&#x27;t work">
 
 Smurf Village Map  :lol: 
 
@@ -56,7 +56,7 @@ Variant of the maps translated from ancient smurf:
 
 </div>
 
-<div class="post" data-post-id="39721" data-author="cnl" data-date="2021-05-18T20:38:46+00:00">
+<div class="post" data-post-id="39721" data-author="cnl" data-date="2021-05-18T20:38:46+00:00" data-subject="Re: Map submission email addresses don&#x27;t work">
 
 Draft map of ruins of gildebruun
 
@@ -72,13 +72,13 @@ EDIT: colorized
 
 </div>
 
-<div class="post" data-post-id="39723" data-author="*Breeze*" data-date="2021-05-23T18:39:47+00:00">
+<div class="post" data-post-id="39723" data-author="*Breeze*" data-date="2021-05-23T18:39:47+00:00" data-subject="Re: Map submission email addresses don&#x27;t work">
 
 Email me when you get a chance ; remind me to fix the wiki@.com email
 
 </div>
 
-<div class="post" data-post-id="39868" data-author="cnl" data-date="2021-11-30T07:23:14+00:00">
+<div class="post" data-post-id="39868" data-author="cnl" data-date="2021-11-30T07:23:14+00:00" data-subject="Re: Map submission email addresses don&#x27;t work">
 
 I apologize in advance for your eyes.
 
@@ -118,13 +118,13 @@ FROM RAKUST TO CARP (EPIC) -----------------------------------------------------
 
 </div>
 
-<div class="post" data-post-id="39870" data-author="cnl" data-date="2021-11-30T18:06:57+00:00">
+<div class="post" data-post-id="39870" data-author="cnl" data-date="2021-11-30T18:06:57+00:00" data-subject="Re: Map submission email addresses don&#x27;t work">
 
 It does look like the .com variant of the wiki submission email is working now for submissions.
 
 </div>
 
-<div class="post" data-post-id="39872" data-author="*Neptune*" data-date="2021-12-05T18:19:09+00:00">
+<div class="post" data-post-id="39872" data-author="*Neptune*" data-date="2021-12-05T18:19:09+00:00" data-subject="Re: Map submission email addresses don&#x27;t work">
 
 Greetings
 

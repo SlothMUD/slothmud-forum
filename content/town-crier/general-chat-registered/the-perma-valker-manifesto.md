@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="35727" data-author="rebel" data-date="2015-03-08T02:54:08+00:00">
+<div class="post" data-post-id="35727" data-author="rebel" data-date="2015-03-08T02:54:08+00:00" data-subject="The Perma-Valker Manifesto">
 
 **Intro**
 
@@ -482,7 +482,7 @@ the best continent because it has the most clowns!
 
 </div>
 
-<div class="post" data-post-id="35728" data-author="Teron" data-date="2015-03-08T13:00:08+00:00">
+<div class="post" data-post-id="35728" data-author="Teron" data-date="2015-03-08T13:00:08+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 A great intro on perma-valking. Good work.
 
@@ -506,7 +506,7 @@ As far as aggro mobs on the runs are concerned, being invis and having darkness/
 
 </div>
 
-<div class="post" data-post-id="35729" data-author="Yasik" data-date="2015-03-08T13:10:32+00:00">
+<div class="post" data-post-id="35729" data-author="Yasik" data-date="2015-03-08T13:10:32+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 very good indeed
 
@@ -516,7 +516,7 @@ quite outstanding
 
 </div>
 
-<div class="post" data-post-id="35730" data-author="Marvel" data-date="2015-03-08T14:05:45+00:00">
+<div class="post" data-post-id="35730" data-author="Marvel" data-date="2015-03-08T14:05:45+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 While this was quite a lengthy post with many good points, I would like to point out some essential concepts:
 
@@ -542,7 +542,7 @@ While this was quite a lengthy post with many good points, I would like to point
 
 </div>
 
-<div class="post" data-post-id="35732" data-author="Teron" data-date="2015-03-10T10:57:49+00:00">
+<div class="post" data-post-id="35732" data-author="Teron" data-date="2015-03-10T10:57:49+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 Marvel, why do you think thieves are good for Valk?
 
@@ -552,7 +552,7 @@ Also, the autumnal mage needs only 5k gold, unless it was changed in the last se
 
 </div>
 
-<div class="post" data-post-id="35733" data-author="Marvel" data-date="2015-03-10T11:25:17+00:00">
+<div class="post" data-post-id="35733" data-author="Marvel" data-date="2015-03-10T11:25:17+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 > **Teron wrote:**
 > Marvel, why do you think thieves are good for Valk?
@@ -569,7 +569,7 @@ I said "like" for the coins. Thanks for clarifying the exact number. MVS are nev
 
 </div>
 
-<div class="post" data-post-id="35734" data-author="klobber" data-date="2015-03-10T17:28:19+00:00">
+<div class="post" data-post-id="35734" data-author="klobber" data-date="2015-03-10T17:28:19+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 Interesting reads.  I can tell you as a new player it's helpful to see some advice.  My recent experiences have been rather frustrating at 5x20.  In general I think you're better off if you follow the route to Nx40 with your first character and then do this with a secondary.
 
@@ -587,7 +587,7 @@ There certainly is some decent equipment available on VK but beyond that you're 
 
 </div>
 
-<div class="post" data-post-id="35735" data-author="Yasik" data-date="2015-03-11T14:03:49+00:00">
+<div class="post" data-post-id="35735" data-author="Yasik" data-date="2015-03-11T14:03:49+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 Personally, I favor survivability, thats why my perma-valker is Wa/Mo.
 
@@ -599,7 +599,7 @@ Too bad VK groups close to non exist. Sad, nice eq can pop.
 
 </div>
 
-<div class="post" data-post-id="35736" data-author="Marvel" data-date="2015-03-11T16:21:08+00:00">
+<div class="post" data-post-id="35736" data-author="Marvel" data-date="2015-03-11T16:21:08+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 In terms of the AC bonus for prime warriors, you get .1 at 20, 30, and 40. You have .1 bonus for a permvalker. Doesn't seem like much to me. But yes, simply getting to -7 allows you to do stupid things on VK and get away with it.
 
@@ -607,7 +607,7 @@ In response to Klobber, you have to kill faster or go heavy tank or pet mode in 
 
 </div>
 
-<div class="post" data-post-id="35739" data-author="klobber" data-date="2015-03-12T14:27:35+00:00">
+<div class="post" data-post-id="35739" data-author="klobber" data-date="2015-03-12T14:27:35+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 Just wanted to mention that most of the items you mentioned for hand damage don't show up in the EQLIST by keyword.  You can set up the list to filter by AFF_HAND_DAMAGE and they don't show up either.  There are 13 items that do show up that are usable at level 20 - 2 worn as shields, 3 worn on arms, 4 on hands, 1 on wrist, 1 on body, and 2 runes.  Looks like you could get a +11 at once with 3 runes.  No idea on how many of these items would be realistic for a VKer - I'll probably ptest and see how hard they are to get.
 
@@ -615,7 +615,7 @@ This is one of the reasons why I said that I don't think new players should Perm
 
 </div>
 
-<div class="post" data-post-id="35740" data-author="Marvel" data-date="2015-03-12T16:21:28+00:00">
+<div class="post" data-post-id="35740" data-author="Marvel" data-date="2015-03-12T16:21:28+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 That is because all the items I listed, apart from celestial bracelet aren't handdam or dam. Dam and handdam are the same when barefisted. I listed reasonable wrist items that a Valker could expect to get, with incredibly helpful stats, +hitroll, str, and ac were all the selling points of those listed items. As we are talking about Valk, I'm going to go ahead and point out two very important things:
 
@@ -629,7 +629,7 @@ I want to stress that what seems quite obvious to veteran players isn't the case
 
 </div>
 
-<div class="post" data-post-id="35745" data-author="Teron" data-date="2015-03-13T01:45:35+00:00">
+<div class="post" data-post-id="35745" data-author="Teron" data-date="2015-03-13T01:45:35+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 Adding to the point that some eq a valker can't pop: a shield of lightning, -0.8 +dex, 1ma or 15th or 20wa or 15ba.
 
@@ -643,13 +643,13 @@ So, all in all, I'd consider -0.2 as a good trade for 1 dex on eq and it depends
 
 </div>
 
-<div class="post" data-post-id="35746" data-author="*juggleblood*" data-date="2015-03-13T05:02:01+00:00">
+<div class="post" data-post-id="35746" data-author="*juggleblood*" data-date="2015-03-13T05:02:01+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 I went through all the Mandelbrot Mansion pops and removed the no eq list flag. I'm not sure how the eq list works exactly, so I don't know when they will start appearing there.
 
 </div>
 
-<div class="post" data-post-id="35753" data-author="rebel" data-date="2015-03-14T21:56:21+00:00">
+<div class="post" data-post-id="35753" data-author="rebel" data-date="2015-03-14T21:56:21+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 > **Teron wrote:**
 > A great intro on perma-valking. Good work.
@@ -857,7 +857,7 @@ a lot, and it has built in resist cold.
 
 </div>
 
-<div class="post" data-post-id="35756" data-author="Marvel" data-date="2015-03-15T14:22:03+00:00">
+<div class="post" data-post-id="35756" data-author="Marvel" data-date="2015-03-15T14:22:03+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 Technically, the immortals are doing a massive favor by providing a limited eqlist. For many years, prior to Sloth4, there was no eqlist provided by immortals. It was a player maintained eqlist. That allowed for collaboration between players. I suggest you go down this path if you think all eq should be listed.
 
@@ -865,7 +865,7 @@ I don't understand why you say eq might as well not exist if it's not on the lis
 
 </div>
 
-<div class="post" data-post-id="35757" data-author="klobber" data-date="2015-03-15T16:16:32+00:00">
+<div class="post" data-post-id="35757" data-author="klobber" data-date="2015-03-15T16:16:32+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 I think it may come down to gameplay style and perhaps dedication to the game.  I think having items in the EQList encourages exploration because in most cases it narrows down the item location to a zone or two.  That encourages me to go to those zones to explore.  My personal style and level of dedication means I probably visit every room and take a look at what's there.  But I don't type forge or list or ask every mob I see about quests because that exceeds my style/dedication/care level/etc.  I probably won't come back and visit ten times to see what pops differently.  I know other players do or have done this and that's great for them - I just don't find that level of exploration enjoyable - I find it to be overly repetitive.
 
@@ -873,13 +873,13 @@ I agree that elite items or forges should be left off the EQList because it is r
 
 </div>
 
-<div class="post" data-post-id="35758" data-author="*Splork*" data-date="2015-03-15T18:55:04+00:00">
+<div class="post" data-post-id="35758" data-author="*Splork*" data-date="2015-03-15T18:55:04+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 The vast majority, my guess is 96%+, is available on the website eqlist.
 
 </div>
 
-<div class="post" data-post-id="35759" data-author="*Breeze*" data-date="2015-03-15T20:42:53+00:00">
+<div class="post" data-post-id="35759" data-author="*Breeze*" data-date="2015-03-15T20:42:53+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 > **klobber wrote:**
 > *SNIP*
@@ -912,7 +912,7 @@ as you can tell, the eqlist is kind of a touchy subject with me.
 
 </div>
 
-<div class="post" data-post-id="35760" data-author="*juggleblood*" data-date="2015-03-16T03:53:46+00:00">
+<div class="post" data-post-id="35760" data-author="*juggleblood*" data-date="2015-03-16T03:53:46+00:00" data-subject="Re: The Perma-Valker Manifesto">
 
 The purpose of the no-eq-list flag is generally for new areas and then once the area has been in for a while, the flag should be removed. In some cases, such as Mandelbrot's Mansion, it was just a case of me forgetting to take the flag off after some time had passed.
 

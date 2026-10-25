@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="5023" data-author="analog" data-date="2005-03-13T21:36:19+00:00">
+<div class="post" data-post-id="5023" data-author="analog" data-date="2005-03-13T21:36:19+00:00" data-subject="Help with tokens and stats">
 
 Hey all, cant seem to find information about this stuff anywhere on the website. Was hoping to get a painless explanation. 
 
@@ -20,7 +20,7 @@ Any help would be appreciated
 
 </div>
 
-<div class="post" data-post-id="5027" data-author="Si" data-date="2005-03-13T22:54:56+00:00">
+<div class="post" data-post-id="5027" data-author="Si" data-date="2005-03-13T22:54:56+00:00" data-subject="">
 
 The truth about tokens.. I'll give it a shot.
 
@@ -40,7 +40,7 @@ Si
 
 </div>
 
-<div class="post" data-post-id="5028" data-author="dt" data-date="2005-03-13T23:51:20+00:00">
+<div class="post" data-post-id="5028" data-author="dt" data-date="2005-03-13T23:51:20+00:00" data-subject="">
 
 More info on stats and tokens....
 
@@ -64,7 +64,7 @@ Last but not least... Good Luck... the roll is addicting and aggravating... but 
 
 </div>
 
-<div class="post" data-post-id="5124" data-author="achazia" data-date="2005-03-17T09:32:54+00:00">
+<div class="post" data-post-id="5124" data-author="achazia" data-date="2005-03-17T09:32:54+00:00" data-subject="...">
 
 Hi!
 
@@ -74,13 +74,13 @@ Cant I enter newbatia when I reach lvl 20????
 
 </div>
 
-<div class="post" data-post-id="5133" data-author="Alberich" data-date="2005-03-17T10:02:30+00:00">
+<div class="post" data-post-id="5133" data-author="Alberich" data-date="2005-03-17T10:02:30+00:00" data-subject="">
 
 lvl 21 actually - as long as you are level 20 or below you can get to valk
 
 </div>
 
-<div class="post" data-post-id="5138" data-author="Vixn" data-date="2005-03-17T10:22:31+00:00">
+<div class="post" data-post-id="5138" data-author="Vixn" data-date="2005-03-17T10:22:31+00:00" data-subject="">
 
 You can reach Newbatia while you are at level20 and can't reach at any level 21.
 

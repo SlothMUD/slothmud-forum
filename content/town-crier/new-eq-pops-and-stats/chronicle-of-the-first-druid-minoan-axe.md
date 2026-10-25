@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="32138" data-author="Magi" data-date="2010-12-10T12:24:40+00:00">
+<div class="post" data-post-id="32138" data-author="Magi" data-date="2010-12-10T12:24:40+00:00" data-subject="Chronicle of the First Druid - Minoan Axe">
 
 Chronicle of the First Druid
 
@@ -66,7 +66,7 @@ The axe can only be wielded in Minotaur form (not human or other shifted).  It f
 
 </div>
 
-<div class="post" data-post-id="32139" data-author="Magi" data-date="2010-12-10T12:37:05+00:00">
+<div class="post" data-post-id="32139" data-author="Magi" data-date="2010-12-10T12:37:05+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
 Just to clarify, since I got some tells right after posting this.  The quest 'leverage' was my quest to *locate *the axe. That quest has been completed now that the axe has been discovered, and had no reward other than the privilege of posting the info to the crier and bolstering my resume as master of things druidy.
 
@@ -74,7 +74,7 @@ The axe pops on the gruesome minotaur in the Labyrinth as normal equipment.
 
 </div>
 
-<div class="post" data-post-id="32145" data-author="Teron" data-date="2010-12-12T15:43:49+00:00">
+<div class="post" data-post-id="32145" data-author="Teron" data-date="2010-12-12T15:43:49+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
 Not bad. 
 
@@ -82,31 +82,31 @@ How good/bad was the poprate on the minotaur?
 
 </div>
 
-<div class="post" data-post-id="32146" data-author="Sleeping Forest" data-date="2010-12-12T23:18:17+00:00">
+<div class="post" data-post-id="32146" data-author="Sleeping Forest" data-date="2010-12-12T23:18:17+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
 it is horrible. up to 32 kills now.
 
 </div>
 
-<div class="post" data-post-id="32150" data-author="Magi" data-date="2010-12-13T18:24:52+00:00">
+<div class="post" data-post-id="32150" data-author="Magi" data-date="2010-12-13T18:24:52+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
 I killed the minotaur 3 times for my first axe, followed by 20 kills with nothing.  I'm hoping it doesn't shatter like lesser specs, but I'm too afraid to test it without having a spare.  Deathblow is too awesome to be without.
 
 </div>
 
-<div class="post" data-post-id="32156" data-author="Teron" data-date="2010-12-14T02:07:39+00:00">
+<div class="post" data-post-id="32156" data-author="Teron" data-date="2010-12-14T02:07:39+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
 Ick, I was hoping it'd be possible to use unbreakable axes to chop, while waiting for spec areas to repop.
 
 </div>
 
-<div class="post" data-post-id="32163" data-author="Magi" data-date="2010-12-14T19:07:19+00:00">
+<div class="post" data-post-id="32163" data-author="Magi" data-date="2010-12-14T19:07:19+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
 Got a second one, so pops on 3 and 22.
 
 </div>
 
-<div class="post" data-post-id="32167" data-author="Sleeping Forest" data-date="2010-12-16T01:29:41+00:00">
+<div class="post" data-post-id="32167" data-author="Sleeping Forest" data-date="2010-12-16T01:29:41+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
 Your weapon shatters as it hits your victim.
 
@@ -118,7 +118,7 @@ Broke it on Lyme chopping in Minotaur form.
 
 </div>
 
-<div class="post" data-post-id="32168" data-author="Tuck" data-date="2010-12-16T03:17:10+00:00">
+<div class="post" data-post-id="32168" data-author="Tuck" data-date="2010-12-16T03:17:10+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
 > **Sleeping Forest wrote:**
 > Your weapon shatters as it hits your victim.
@@ -139,7 +139,7 @@ that sucks. whole eqpop day for nothing. i hope that mighty imms will fix it, so
 
 </div>
 
-<div class="post" data-post-id="32169" data-author="Shyla" data-date="2010-12-16T15:37:52+00:00">
+<div class="post" data-post-id="32169" data-author="Shyla" data-date="2010-12-16T15:37:52+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
 though I agree it sucks it broke I am not sure I would make it unbreakable because you can use it to deathblow and to chop and it doesn't seem fair to me that a druid can pop an unbreakable chopper.  If you don't want to risk it breaking just don't use it for chopping.  I will however state it might be nicer if the pop rate was increased a little bit if it is going to be a breakable item.
 
@@ -149,7 +149,7 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="32170" data-author="Teron" data-date="2010-12-17T02:39:15+00:00">
+<div class="post" data-post-id="32170" data-author="Teron" data-date="2010-12-17T02:39:15+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
 For the record, you can deathblow with:
 

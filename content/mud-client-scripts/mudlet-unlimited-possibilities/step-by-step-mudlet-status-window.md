@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35036" data-author="Thraxas" data-date="2014-04-21T23:00:41+00:00">
+<div class="post" data-post-id="35036" data-author="Thraxas" data-date="2014-04-21T23:00:41+00:00" data-subject="Step by Step Mudlet Status Window">
 
 Fairly new to mudlet so still learning but thought that as I was asked in game it might be helpful to post my howto on creating a simple window showing various statuses (e.g. spells / toggles):
 
@@ -174,7 +174,7 @@ notes:
 
 </div>
 
-<div class="post" data-post-id="35073" data-author="Akaya" data-date="2014-04-23T13:35:48+00:00">
+<div class="post" data-post-id="35073" data-author="Akaya" data-date="2014-04-23T13:35:48+00:00" data-subject="Re: Step by Step Mudlet Status Window">
 
 Well done :)
 

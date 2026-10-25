@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30667" data-author="hounds" data-date="2010-01-13T04:43:55+00:00">
+<div class="post" data-post-id="30667" data-author="hounds" data-date="2010-01-13T04:43:55+00:00" data-subject="base damge">
 
 was wondering if this right i run 18 nat str  with no gera im at 4 hit 5 dam 
 

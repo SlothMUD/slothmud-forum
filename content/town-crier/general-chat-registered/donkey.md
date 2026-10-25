@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="16091" data-author="Vixn" data-date="2007-01-08T13:11:50+00:00">
+<div class="post" data-post-id="16091" data-author="Vixn" data-date="2007-01-08T13:11:50+00:00" data-subject="donkey">
 
 cast 'detect disease' kida
 
@@ -60,13 +60,13 @@ You feel better.
 
 </div>
 
-<div class="post" data-post-id="16093" data-author="Autolycos" data-date="2007-01-08T15:15:06+00:00">
+<div class="post" data-post-id="16093" data-author="Autolycos" data-date="2007-01-08T15:15:06+00:00" data-subject="">
 
 Silly Jackass  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16096" data-author="firebrand" data-date="2007-01-08T16:37:36+00:00">
+<div class="post" data-post-id="16096" data-author="firebrand" data-date="2007-01-08T16:37:36+00:00" data-subject="">
 
 all mobs by default worship jake....
 

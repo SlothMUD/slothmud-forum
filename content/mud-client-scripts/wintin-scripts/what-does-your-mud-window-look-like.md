@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="4033" data-author="Linsey" data-date="2005-01-30T01:10:29+00:00">
+<div class="post" data-post-id="4033" data-author="Linsey" data-date="2005-01-30T01:10:29+00:00" data-subject="What does your mud window look like?">
 
 Hi ...
 
@@ -28,7 +28,7 @@ P.d. : Thanks to Shivie for hosting the image.   :)
 
 </div>
 
-<div class="post" data-post-id="4034" data-author="Kulum" data-date="2005-01-30T03:10:47+00:00">
+<div class="post" data-post-id="4034" data-author="Kulum" data-date="2005-01-30T03:10:47+00:00" data-subject="">
 
 [http://www.angelfire.com/games5/hotara/zam.JPG](http://www.angelfire.com/games5/hotara/zam.JPG)
 
@@ -36,7 +36,7 @@ bleh
 
 </div>
 
-<div class="post" data-post-id="4036" data-author="Kulum" data-date="2005-01-30T03:14:43+00:00">
+<div class="post" data-post-id="4036" data-author="Kulum" data-date="2005-01-30T03:14:43+00:00" data-subject="">
 
 Sorry, that was an old one, ignore that Bot OFF button :P
 
@@ -44,13 +44,13 @@ Sorry, that was an old one, ignore that Bot OFF button :P
 
 </div>
 
-<div class="post" data-post-id="4038" data-author="guest" data-date="2005-01-30T04:02:17+00:00">
+<div class="post" data-post-id="4038" data-author="guest" data-date="2005-01-30T04:02:17+00:00" data-subject="">
 
 Very nice screen shots, both of them.
 
 </div>
 
-<div class="post" data-post-id="4042" data-author="Zenkai" data-date="2005-01-30T04:44:09+00:00">
+<div class="post" data-post-id="4042" data-author="Zenkai" data-date="2005-01-30T04:44:09+00:00" data-subject="">
 
 Silly Kulum! 
 
@@ -58,13 +58,13 @@ Linsey's post was a ruse to find illegal botters and you fell for it! :twisted:
 
 </div>
 
-<div class="post" data-post-id="4043" data-author="Akasha2" data-date="2005-01-30T04:53:02+00:00">
+<div class="post" data-post-id="4043" data-author="Akasha2" data-date="2005-01-30T04:53:02+00:00" data-subject="It&#x27;s zmud, but its a screenshot ;)">
 
 [<LINK_TEXT text="http://ibite.fateback.com/Xandora/ZmudS ... enshot.htm">http://ibite.fateback.com/Xandora/ZmudScripts/Screenshot.htm</LINK_TEXT>](http://ibite.fateback.com/Xandora/ZmudScripts/Screenshot.htm)
 
 </div>
 
-<div class="post" data-post-id="4047" data-author="Mustang" data-date="2005-01-30T09:14:08+00:00">
+<div class="post" data-post-id="4047" data-author="Mustang" data-date="2005-01-30T09:14:08+00:00" data-subject="">
 
 anyone mind posting their scripts for a status window for spells here?
 

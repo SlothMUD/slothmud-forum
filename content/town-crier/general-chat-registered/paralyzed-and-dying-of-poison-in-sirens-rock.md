@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="18038" data-author="bubba" data-date="2007-04-18T17:14:49+00:00">
+<div class="post" data-post-id="18038" data-author="bubba" data-date="2007-04-18T17:14:49+00:00" data-subject="paralyzed and dying of poison in sirens rock">
 
 help :-)
 
@@ -18,7 +18,7 @@ Bubba
 
 </div>
 
-<div class="post" data-post-id="18039" data-author="bubba" data-date="2007-04-18T17:16:08+00:00">
+<div class="post" data-post-id="18039" data-author="bubba" data-date="2007-04-18T17:16:08+00:00" data-subject="">
 
 whew, it wore off before i croaked
 

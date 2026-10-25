@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="37353" data-author="Firk" data-date="2016-09-16T07:59:14+00:00">
+<div class="post" data-post-id="37353" data-author="Firk" data-date="2016-09-16T07:59:14+00:00" data-subject="Exp/Gold Tables">
 
 I made some scripts for TamperMonkey on Chrome.
 
@@ -56,7 +56,7 @@ This one highlights a row when you mouse over:
 
 </div>
 
-<div class="post" data-post-id="37355" data-author="Teron" data-date="2016-09-16T18:46:32+00:00">
+<div class="post" data-post-id="37355" data-author="Teron" data-date="2016-09-16T18:46:32+00:00" data-subject="Re: Exp/Gold Tables">
 
 How best am I supposed to use it?
 

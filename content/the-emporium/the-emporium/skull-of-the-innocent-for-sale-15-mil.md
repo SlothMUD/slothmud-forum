@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="398" data-author="Hotara" data-date="2004-05-28T23:41:56+00:00">
+<div class="post" data-post-id="398" data-author="Hotara" data-date="2004-05-28T23:41:56+00:00" data-subject="Skull of The Innocent For Sale - 15 mil">
 
 Ok.
 
@@ -34,13 +34,13 @@ druids, necromancers, bards, or monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="421" data-author="Avatar" data-date="2004-05-30T18:22:16+00:00">
+<div class="post" data-post-id="421" data-author="Avatar" data-date="2004-05-30T18:22:16+00:00" data-subject="In-game?">
 
 Doesn't that pop in Nega?
 
 </div>
 
-<div class="post" data-post-id="428" data-author="impz" data-date="2004-05-31T01:19:43+00:00">
+<div class="post" data-post-id="428" data-author="impz" data-date="2004-05-31T01:19:43+00:00" data-subject="">
 
 yes, avatar..the poper is MOt in negative planes...Probably price is jacked up cos it's such a irritating place to get to  :roll:
 

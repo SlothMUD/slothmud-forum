@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="785" data-author="Dragoth" data-date="2004-06-18T10:15:28+00:00">
+<div class="post" data-post-id="785" data-author="Dragoth" data-date="2004-06-18T10:15:28+00:00" data-subject="Caster prime ability">
 
 Say it takes you to round to concentrate, but then you are able to blast 2 spells simultaniously
 
@@ -18,7 +18,7 @@ In fight it would be quite useless because you can cast 3 spells in 2 rounds alr
 
 </div>
 
-<div class="post" data-post-id="788" data-author="Leizu" data-date="2004-06-18T11:24:21+00:00">
+<div class="post" data-post-id="788" data-author="Leizu" data-date="2004-06-18T11:24:21+00:00" data-subject="">
 
 btw, druids can not always blast 3 times per 2 rounds. that's not good :)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3600" data-author="*Splork*" data-date="2005-01-03T03:41:05+00:00">
+<div class="post" data-post-id="3600" data-author="*Splork*" data-date="2005-01-03T03:41:05+00:00" data-subject="Two new warrior skills:Charge and deathblow">
 
 Just finished two new warrior skills: a level 3 skills called charge and a level 40 skills called deathblow.
 

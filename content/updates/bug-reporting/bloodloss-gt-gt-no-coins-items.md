@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="34371" data-author="Yasik" data-date="2013-08-05T12:57:28+00:00">
+<div class="post" data-post-id="34371" data-author="Yasik" data-date="2013-08-05T12:57:28+00:00" data-subject="Bloodloss &amp;gt;&amp;gt; no coins/items">
 
 Hello.
 
@@ -72,13 +72,13 @@ I think I reported this earlier, but the thread is either gone, or has different
 
 </div>
 
-<div class="post" data-post-id="34373" data-author="Dragoth" data-date="2013-08-06T05:45:57+00:00">
+<div class="post" data-post-id="34373" data-author="Dragoth" data-date="2013-08-06T05:45:57+00:00" data-subject="Re: Bloodloss &amp;gt;&amp;gt; no coins/items">
 
 You sure you had no  corpses in inventory ?
 
 </div>
 
-<div class="post" data-post-id="34375" data-author="Yasik" data-date="2013-08-06T09:37:51+00:00">
+<div class="post" data-post-id="34375" data-author="Yasik" data-date="2013-08-06T09:37:51+00:00" data-subject="Re: Bloodloss &amp;gt;&amp;gt; no coins/items">
 
 Yes, I'm sure, I didn't have any corpses in inventory. All those I embalm go to robe-container, scripted.
 
@@ -86,7 +86,7 @@ I do "take all" on ether mob's death, what can pick up corpses as well, but ther
 
 </div>
 
-<div class="post" data-post-id="35747" data-author="Yasik" data-date="2015-03-13T16:05:16+00:00">
+<div class="post" data-post-id="35747" data-author="Yasik" data-date="2015-03-13T16:05:16+00:00" data-subject="Re: Bloodloss &amp;gt;&amp;gt; no coins/items">
 
 It happens again.
 
@@ -166,7 +166,7 @@ a minor scroll of recall [4]
 
 </div>
 
-<div class="post" data-post-id="35768" data-author="klobber" data-date="2015-03-19T14:44:04+00:00">
+<div class="post" data-post-id="35768" data-author="klobber" data-date="2015-03-19T14:44:04+00:00" data-subject="Re: Bloodloss &amp;gt;&amp;gt; no coins/items">
 
 This happened to me today also.  A little jumbled since I use telnet at work but you get the idea:
 
@@ -280,7 +280,7 @@ l corpse
 
 </div>
 
-<div class="post" data-post-id="35769" data-author="*juggleblood*" data-date="2015-03-19T15:25:06+00:00">
+<div class="post" data-post-id="35769" data-author="*juggleblood*" data-date="2015-03-19T15:25:06+00:00" data-subject="Re: Bloodloss &amp;gt;&amp;gt; no coins/items">
 
 It's being addressed. Should see announcement soon.
 

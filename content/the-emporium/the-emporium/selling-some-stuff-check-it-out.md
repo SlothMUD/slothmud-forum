@@ -10,7 +10,7 @@ locked: false
 post_count: 136
 ---
 
-<div class="post" data-post-id="3332" data-author="Sind" data-date="2004-12-15T17:34:31+00:00">
+<div class="post" data-post-id="3332" data-author="Sind" data-date="2004-12-15T17:34:31+00:00" data-subject="Selling some stuff,check it out :)">
 
 EQ for sale:
 
@@ -128,7 +128,7 @@ a chunk of earth - plate of planes cp - 300k min
 
 </div>
 
-<div class="post" data-post-id="3333" data-author="Sind" data-date="2004-12-15T17:39:08+00:00">
+<div class="post" data-post-id="3333" data-author="Sind" data-date="2004-12-15T17:39:08+00:00" data-subject="btw">
 
 ps im looking for:
 
@@ -148,7 +148,7 @@ thanks.
 
 </div>
 
-<div class="post" data-post-id="3334" data-author="kosowar" data-date="2004-12-15T17:44:18+00:00">
+<div class="post" data-post-id="3334" data-author="kosowar" data-date="2004-12-15T17:44:18+00:00" data-subject="">
 
 plaid tartan sleeves - 500K
 
@@ -156,7 +156,7 @@ obsidian pearl - 500K
 
 </div>
 
-<div class="post" data-post-id="3336" data-author="Sind" data-date="2004-12-15T18:04:36+00:00">
+<div class="post" data-post-id="3336" data-author="Sind" data-date="2004-12-15T18:04:36+00:00" data-subject="re">
 
 ppl asking me ingame bout buying stuff,
 
@@ -166,7 +166,7 @@ if ya want to buy,post here :)
 
 </div>
 
-<div class="post" data-post-id="3337" data-author="Leaf" data-date="2004-12-15T18:07:43+00:00">
+<div class="post" data-post-id="3337" data-author="Leaf" data-date="2004-12-15T18:07:43+00:00" data-subject="">
 
 2x Diamond Bracer for 1.5mil each :)
 
@@ -176,7 +176,7 @@ Will
 
 </div>
 
-<div class="post" data-post-id="3340" data-author="Mirax" data-date="2004-12-15T19:36:30+00:00">
+<div class="post" data-post-id="3340" data-author="Mirax" data-date="2004-12-15T19:36:30+00:00" data-subject="">
 
 Wanna buy:
 
@@ -192,13 +192,13 @@ hope, i catch u online
 
 </div>
 
-<div class="post" data-post-id="3341" data-author="Weasel" data-date="2004-12-15T20:04:00+00:00">
+<div class="post" data-post-id="3341" data-author="Weasel" data-date="2004-12-15T20:04:00+00:00" data-subject="">
 
 heh.. have fun tracking all those items on one thread :)
 
 </div>
 
-<div class="post" data-post-id="3342" data-author="doug" data-date="2004-12-15T20:45:33+00:00">
+<div class="post" data-post-id="3342" data-author="doug" data-date="2004-12-15T20:45:33+00:00" data-subject="3 items">
 
 a blue steel bracelet(x2) - 500k each 
 
@@ -206,7 +206,7 @@ eye of the deep - 1.5mil
 
 </div>
 
-<div class="post" data-post-id="3343" data-author="Zenkai" data-date="2004-12-15T23:43:30+00:00">
+<div class="post" data-post-id="3343" data-author="Zenkai" data-date="2004-12-15T23:43:30+00:00" data-subject="">
 
 a jet black blade - 500k
 
@@ -214,31 +214,31 @@ a hooded wool cape - 1m
 
 </div>
 
-<div class="post" data-post-id="3344" data-author="Eagle" data-date="2004-12-15T23:51:41+00:00">
+<div class="post" data-post-id="3344" data-author="Eagle" data-date="2004-12-15T23:51:41+00:00" data-subject="">
 
 blue steel bracelets (pair) 1.2 mil
 
 </div>
 
-<div class="post" data-post-id="3345" data-author="Sian" data-date="2004-12-15T23:59:31+00:00">
+<div class="post" data-post-id="3345" data-author="Sian" data-date="2004-12-15T23:59:31+00:00" data-subject="">
 
 blue steel x 2 - 1.5mil
 
 </div>
 
-<div class="post" data-post-id="3346" data-author="impz" data-date="2004-12-16T00:52:46+00:00">
+<div class="post" data-post-id="3346" data-author="impz" data-date="2004-12-16T00:52:46+00:00" data-subject="">
 
 restring 18 mil
 
 </div>
 
-<div class="post" data-post-id="3347" data-author="Modello" data-date="2004-12-16T00:59:54+00:00">
+<div class="post" data-post-id="3347" data-author="Modello" data-date="2004-12-16T00:59:54+00:00" data-subject="">
 
 Will buy obsidian pearl - 500k
 
 </div>
 
-<div class="post" data-post-id="3348" data-author="Corwin" data-date="2004-12-16T01:22:10+00:00">
+<div class="post" data-post-id="3348" data-author="Corwin" data-date="2004-12-16T01:22:10+00:00" data-subject="">
 
 eye of the deep 2m
 
@@ -246,31 +246,31 @@ shard of vitality 500k
 
 </div>
 
-<div class="post" data-post-id="3349" data-author="Mustang" data-date="2004-12-16T01:59:08+00:00">
+<div class="post" data-post-id="3349" data-author="Mustang" data-date="2004-12-16T01:59:08+00:00" data-subject="">
 
 amulet ofprotection -- 2.5mil
 
 </div>
 
-<div class="post" data-post-id="3350" data-author="Modello" data-date="2004-12-16T02:43:48+00:00">
+<div class="post" data-post-id="3350" data-author="Modello" data-date="2004-12-16T02:43:48+00:00" data-subject="">
 
 Sorry, missed prior bid for obsidian pearl.... will buy 750k
 
 </div>
 
-<div class="post" data-post-id="3351" data-author="Sapient" data-date="2004-12-16T02:45:52+00:00">
+<div class="post" data-post-id="3351" data-author="Sapient" data-date="2004-12-16T02:45:52+00:00" data-subject="">
 
 a glowing dragon scale - 15mil
 
 </div>
 
-<div class="post" data-post-id="3352" data-author="smegol" data-date="2004-12-16T02:52:09+00:00">
+<div class="post" data-post-id="3352" data-author="smegol" data-date="2004-12-16T02:52:09+00:00" data-subject="">
 
 400k on granite tipped booties :)
 
 </div>
 
-<div class="post" data-post-id="3353" data-author="Mosaix" data-date="2004-12-16T03:14:04+00:00">
+<div class="post" data-post-id="3353" data-author="Mosaix" data-date="2004-12-16T03:14:04+00:00" data-subject="">
 
 Helm of firey radience 1mil
 
@@ -286,7 +286,7 @@ belt of the damned 1mil
 
 </div>
 
-<div class="post" data-post-id="3354" data-author="Roadrunr" data-date="2004-12-16T03:21:25+00:00">
+<div class="post" data-post-id="3354" data-author="Roadrunr" data-date="2004-12-16T03:21:25+00:00" data-subject="">
 
 Hooded Wool Cape 1.5m
 
@@ -296,31 +296,31 @@ Dwarven Broad Axe 500k
 
 </div>
 
-<div class="post" data-post-id="3355" data-author="Methyx" data-date="2004-12-16T03:58:43+00:00">
+<div class="post" data-post-id="3355" data-author="Methyx" data-date="2004-12-16T03:58:43+00:00" data-subject="">
 
 Gold Pommeled Stiletto 1.2 Mil
 
 </div>
 
-<div class="post" data-post-id="3356" data-author="Mosaix" data-date="2004-12-16T04:09:27+00:00">
+<div class="post" data-post-id="3356" data-author="Mosaix" data-date="2004-12-16T04:09:27+00:00" data-subject="">
 
 Stiletto 1.5mil
 
 </div>
 
-<div class="post" data-post-id="3357" data-author="Leaf" data-date="2004-12-16T04:30:25+00:00">
+<div class="post" data-post-id="3357" data-author="Leaf" data-date="2004-12-16T04:30:25+00:00" data-subject="">
 
 Is there a time set for these bids, or will u end it once u feel like it?
 
 </div>
 
-<div class="post" data-post-id="3358" data-author="Sian" data-date="2004-12-16T05:05:02+00:00">
+<div class="post" data-post-id="3358" data-author="Sian" data-date="2004-12-16T05:05:02+00:00" data-subject="">
 
 blue steel X 2 - 2.5mil
 
 </div>
 
-<div class="post" data-post-id="3360" data-author="Mirax" data-date="2004-12-16T06:17:08+00:00">
+<div class="post" data-post-id="3360" data-author="Mirax" data-date="2004-12-16T06:17:08+00:00" data-subject="">
 
 Hooded Wool Cape 2,0m
 
@@ -330,7 +330,7 @@ cps for plates of planes - still 300k each
 
 </div>
 
-<div class="post" data-post-id="3361" data-author="Vale" data-date="2004-12-16T07:12:24+00:00">
+<div class="post" data-post-id="3361" data-author="Vale" data-date="2004-12-16T07:12:24+00:00" data-subject="">
 
 a _spark of flame - plate of planes cp - 500k
 
@@ -338,7 +338,7 @@ a chunk of earth - plate of planes cp - 500k
 
 </div>
 
-<div class="post" data-post-id="3362" data-author="Mirax" data-date="2004-12-16T07:28:03+00:00">
+<div class="post" data-post-id="3362" data-author="Mirax" data-date="2004-12-16T07:28:03+00:00" data-subject="">
 
 1.1M for both cps of plates of the planes
 
@@ -346,7 +346,7 @@ lets stop it ;)
 
 </div>
 
-<div class="post" data-post-id="3363" data-author="Sian" data-date="2004-12-16T08:43:59+00:00">
+<div class="post" data-post-id="3363" data-author="Sian" data-date="2004-12-16T08:43:59+00:00" data-subject="">
 
 Dwarven - 1mil
 
@@ -354,7 +354,7 @@ Stiletto - 2mil
 
 </div>
 
-<div class="post" data-post-id="3364" data-author="Beagle" data-date="2004-12-16T12:27:51+00:00">
+<div class="post" data-post-id="3364" data-author="Beagle" data-date="2004-12-16T12:27:51+00:00" data-subject="">
 
 eye of the deep - 2.5m
 
@@ -366,7 +366,7 @@ a pure white stargazer lily - irda cp - 100k
 
 </div>
 
-<div class="post" data-post-id="3365" data-author="Sind" data-date="2004-12-16T13:53:37+00:00">
+<div class="post" data-post-id="3365" data-author="Sind" data-date="2004-12-16T13:53:37+00:00" data-subject="so far">
 
 Bids:
 
@@ -466,7 +466,7 @@ an arcane map tube - 100k min
 
 </div>
 
-<div class="post" data-post-id="3366" data-author="iain" data-date="2004-12-16T14:19:19+00:00">
+<div class="post" data-post-id="3366" data-author="iain" data-date="2004-12-16T14:19:19+00:00" data-subject="2 bids">
 
 eye of the deep - 2.75mil
 
@@ -474,7 +474,7 @@ blue steel greaves - 100k
 
 </div>
 
-<div class="post" data-post-id="3367" data-author="Selane" data-date="2004-12-16T15:20:54+00:00">
+<div class="post" data-post-id="3367" data-author="Selane" data-date="2004-12-16T15:20:54+00:00" data-subject="">
 
 a golden-feathered girth - 100k min 
 
@@ -482,37 +482,37 @@ eye of the deep - 3mil
 
 </div>
 
-<div class="post" data-post-id="3369" data-author="Vale" data-date="2004-12-16T20:37:47+00:00">
+<div class="post" data-post-id="3369" data-author="Vale" data-date="2004-12-16T20:37:47+00:00" data-subject="">
 
 a spark of flame + a chunk of earth = 1.5mil
 
 </div>
 
-<div class="post" data-post-id="3370" data-author="Vale" data-date="2004-12-16T20:41:38+00:00">
+<div class="post" data-post-id="3370" data-author="Vale" data-date="2004-12-16T20:41:38+00:00" data-subject="">
 
 spark of flame + chunk of earth for 1.5mil
 
 </div>
 
-<div class="post" data-post-id="3371" data-author="Mosaix" data-date="2004-12-16T21:04:23+00:00">
+<div class="post" data-post-id="3371" data-author="Mosaix" data-date="2004-12-16T21:04:23+00:00" data-subject="">
 
 blue steel bracelets pair 3mil
 
 </div>
 
-<div class="post" data-post-id="3372" data-author="Zenkai" data-date="2004-12-16T21:44:36+00:00">
+<div class="post" data-post-id="3372" data-author="Zenkai" data-date="2004-12-16T21:44:36+00:00" data-subject="">
 
 a hooded wool cape - 2.5m
 
 </div>
 
-<div class="post" data-post-id="3373" data-author="Copper" data-date="2004-12-16T22:13:00+00:00">
+<div class="post" data-post-id="3373" data-author="Copper" data-date="2004-12-16T22:13:00+00:00" data-subject="">
 
 shield of yawning death - 150K
 
 </div>
 
-<div class="post" data-post-id="3374" data-author="Akasha2" data-date="2004-12-16T22:15:49+00:00">
+<div class="post" data-post-id="3374" data-author="Akasha2" data-date="2004-12-16T22:15:49+00:00" data-subject="">
 
 You people do know the Chopping Block works, as does the Emporium.
 
@@ -520,25 +520,25 @@ Kinda hard to figure who is bidding and who is selling here :P
 
 </div>
 
-<div class="post" data-post-id="3375" data-author="Sind" data-date="2004-12-16T22:17:27+00:00">
+<div class="post" data-post-id="3375" data-author="Sind" data-date="2004-12-16T22:17:27+00:00" data-subject=":)">
 
 i like old style auction,thats y im selling here not on chop block :)
 
 </div>
 
-<div class="post" data-post-id="3376" data-author="Gul" data-date="2004-12-16T23:02:21+00:00">
+<div class="post" data-post-id="3376" data-author="Gul" data-date="2004-12-16T23:02:21+00:00" data-subject="">
 
 restring token - 20m Gul
 
 </div>
 
-<div class="post" data-post-id="3378" data-author="Malison" data-date="2004-12-16T23:59:11+00:00">
+<div class="post" data-post-id="3378" data-author="Malison" data-date="2004-12-16T23:59:11+00:00" data-subject="">
 
 emerald bracelet - 75k
 
 </div>
 
-<div class="post" data-post-id="3379" data-author="Sian" data-date="2004-12-17T02:10:06+00:00">
+<div class="post" data-post-id="3379" data-author="Sian" data-date="2004-12-17T02:10:06+00:00" data-subject="">
 
 Symbol of zodiac magic - 200k 
 
@@ -548,13 +548,13 @@ Blue steel x 2 - 3.5mil
 
 </div>
 
-<div class="post" data-post-id="3380" data-author="Mosaix" data-date="2004-12-17T02:39:56+00:00">
+<div class="post" data-post-id="3380" data-author="Mosaix" data-date="2004-12-17T02:39:56+00:00" data-subject="">
 
 obsidian guards 3mil
 
 </div>
 
-<div class="post" data-post-id="3384" data-author="Mirax" data-date="2004-12-17T09:11:12+00:00">
+<div class="post" data-post-id="3384" data-author="Mirax" data-date="2004-12-17T09:11:12+00:00" data-subject="hooded wool cape">
 
 a hooded wool cape - 3m 
 
@@ -562,7 +562,7 @@ a hooded wool cape - 3m
 
 </div>
 
-<div class="post" data-post-id="3385" data-author="dezakin" data-date="2004-12-17T09:15:04+00:00">
+<div class="post" data-post-id="3385" data-author="dezakin" data-date="2004-12-17T09:15:04+00:00" data-subject="">
 
 Granite-tipped boots: 800k
 
@@ -572,31 +572,31 @@ blue steel sleeves 250k
 
 </div>
 
-<div class="post" data-post-id="3386" data-author="kosowar" data-date="2004-12-17T10:11:38+00:00">
+<div class="post" data-post-id="3386" data-author="kosowar" data-date="2004-12-17T10:11:38+00:00" data-subject="">
 
 Symbol of zodiac magic - 250k
 
 </div>
 
-<div class="post" data-post-id="3387" data-author="Leaf" data-date="2004-12-17T10:44:21+00:00">
+<div class="post" data-post-id="3387" data-author="Leaf" data-date="2004-12-17T10:44:21+00:00" data-subject="">
 
 Ob jewel of the soul - 300k
 
 </div>
 
-<div class="post" data-post-id="3388" data-author="Zenkai" data-date="2004-12-17T12:43:15+00:00">
+<div class="post" data-post-id="3388" data-author="Zenkai" data-date="2004-12-17T12:43:15+00:00" data-subject="">
 
 a hooded wool cape - 3.5m
 
 </div>
 
-<div class="post" data-post-id="3389" data-author="Sian" data-date="2004-12-17T14:15:34+00:00">
+<div class="post" data-post-id="3389" data-author="Sian" data-date="2004-12-17T14:15:34+00:00" data-subject="">
 
 Symbol of zodiac magic - 500k
 
 </div>
 
-<div class="post" data-post-id="3390" data-author="Sind" data-date="2004-12-17T15:35:35+00:00">
+<div class="post" data-post-id="3390" data-author="Sind" data-date="2004-12-17T15:35:35+00:00" data-subject="Picture of today.Closing on Sunday so far.">
 
 Bids:
 
@@ -690,13 +690,13 @@ a multi-colored dream coat - 100k min
 
 </div>
 
-<div class="post" data-post-id="3391" data-author="Sind" data-date="2004-12-17T15:37:36+00:00">
+<div class="post" data-post-id="3391" data-author="Sind" data-date="2004-12-17T15:37:36+00:00" data-subject=".">
 
 restring is gone (cps trade)
 
 </div>
 
-<div class="post" data-post-id="3393" data-author="brady" data-date="2004-12-17T18:03:23+00:00">
+<div class="post" data-post-id="3393" data-author="brady" data-date="2004-12-17T18:03:23+00:00" data-subject="">
 
 dwarven broad axe - 1.25 million
 
@@ -704,25 +704,25 @@ belt of the damned - 1.75 million
 
 </div>
 
-<div class="post" data-post-id="3394" data-author="Leaf" data-date="2004-12-17T19:33:21+00:00">
+<div class="post" data-post-id="3394" data-author="Leaf" data-date="2004-12-17T19:33:21+00:00" data-subject="">
 
 plaid tartan sleeves - 1.1mil
 
 </div>
 
-<div class="post" data-post-id="3396" data-author="Stryker" data-date="2004-12-17T23:59:04+00:00">
+<div class="post" data-post-id="3396" data-author="Stryker" data-date="2004-12-17T23:59:04+00:00" data-subject="Re:">
 
 a _spark of flame, a chunk of earth 1.6m
 
 </div>
 
-<div class="post" data-post-id="3397" data-author="Talo/Ulrich" data-date="2004-12-18T00:04:56+00:00">
+<div class="post" data-post-id="3397" data-author="Talo/Ulrich" data-date="2004-12-18T00:04:56+00:00" data-subject="">
 
 stargazer lily 150k
 
 </div>
 
-<div class="post" data-post-id="3402" data-author="Ezekiel" data-date="2004-12-18T07:17:45+00:00">
+<div class="post" data-post-id="3402" data-author="Ezekiel" data-date="2004-12-18T07:17:45+00:00" data-subject="">
 
 a gold-pommeled stiletto â€“ 2.25 m
 
@@ -742,7 +742,7 @@ a glowing dragon scale â€“ 15.5m
 
 </div>
 
-<div class="post" data-post-id="3403" data-author="rith" data-date="2004-12-18T08:00:33+00:00">
+<div class="post" data-post-id="3403" data-author="rith" data-date="2004-12-18T08:00:33+00:00" data-subject="">
 
 Obsidian Guards 4 mil :p
 
@@ -750,7 +750,7 @@ Got cloth for iolite, catch me online.
 
 </div>
 
-<div class="post" data-post-id="3404" data-author="Mirax" data-date="2004-12-18T09:23:47+00:00">
+<div class="post" data-post-id="3404" data-author="Mirax" data-date="2004-12-18T09:23:47+00:00" data-subject="8-))">
 
 a hooded wool cape - 4m Mirax (Edd)
 
@@ -758,7 +758,7 @@ belt of the damned - 2m Mirax (Edd)
 
 </div>
 
-<div class="post" data-post-id="3405" data-author="kosowar" data-date="2004-12-18T10:36:07+00:00">
+<div class="post" data-post-id="3405" data-author="kosowar" data-date="2004-12-18T10:36:07+00:00" data-subject="">
 
 symbol of the zodiac magic - 600K
 
@@ -766,7 +766,7 @@ plaid tartan sleeves - 1.1 Mil
 
 </div>
 
-<div class="post" data-post-id="3406" data-author="kosowar" data-date="2004-12-18T10:38:26+00:00">
+<div class="post" data-post-id="3406" data-author="kosowar" data-date="2004-12-18T10:38:26+00:00" data-subject="">
 
 sorry, correction
 
@@ -776,7 +776,7 @@ plaid tartan sleeves - 1.2 Mil
 
 </div>
 
-<div class="post" data-post-id="3408" data-author="Zenkai" data-date="2004-12-18T11:46:09+00:00">
+<div class="post" data-post-id="3408" data-author="Zenkai" data-date="2004-12-18T11:46:09+00:00" data-subject="">
 
 a hooded wool cape - 4.5m
 
@@ -784,13 +784,13 @@ a jet black blade - 750k
 
 </div>
 
-<div class="post" data-post-id="3410" data-author="Vale" data-date="2004-12-18T15:34:58+00:00">
+<div class="post" data-post-id="3410" data-author="Vale" data-date="2004-12-18T15:34:58+00:00" data-subject="">
 
 a _spark of flame, a chunk of earth 1.7mil
 
 </div>
 
-<div class="post" data-post-id="3411" data-author="Beagle" data-date="2004-12-18T16:05:39+00:00">
+<div class="post" data-post-id="3411" data-author="Beagle" data-date="2004-12-18T16:05:39+00:00" data-subject="">
 
 a pair of purple shin guards â€“ 3m
 
@@ -798,31 +798,31 @@ a pure white stargazer lily â€“ 300k
 
 </div>
 
-<div class="post" data-post-id="3412" data-author="Sapient" data-date="2004-12-18T16:29:24+00:00">
+<div class="post" data-post-id="3412" data-author="Sapient" data-date="2004-12-18T16:29:24+00:00" data-subject="">
 
 a glowing dragon scale - 16mil
 
 </div>
 
-<div class="post" data-post-id="3413" data-author="Riurik" data-date="2004-12-18T17:12:48+00:00">
+<div class="post" data-post-id="3413" data-author="Riurik" data-date="2004-12-18T17:12:48+00:00" data-subject="Ack, can&#x27;t we have back the old auction board :(">
 
 It really was so much better than this mess for tracking auctions.
 
 </div>
 
-<div class="post" data-post-id="3415" data-author="Stryker" data-date="2004-12-18T18:32:18+00:00">
+<div class="post" data-post-id="3415" data-author="Stryker" data-date="2004-12-18T18:32:18+00:00" data-subject="Re:">
 
 1.8m spark/etc.
 
 </div>
 
-<div class="post" data-post-id="3416" data-author="Mirax" data-date="2004-12-18T18:55:47+00:00">
+<div class="post" data-post-id="3416" data-author="Mirax" data-date="2004-12-18T18:55:47+00:00" data-subject="hooded wool cape">
 
 a hooded wool cape - 5m
 
 </div>
 
-<div class="post" data-post-id="3417" data-author="Mirax" data-date="2004-12-18T19:31:13+00:00">
+<div class="post" data-post-id="3417" data-author="Mirax" data-date="2004-12-18T19:31:13+00:00" data-subject="dismiss bid">
 
 I recall my bid for wool cape - circs changed and i found i have a pair of it ;-)
 
@@ -834,13 +834,13 @@ Thanks Sind for using this style of auction where i can recall my bid ;-)
 
 </div>
 
-<div class="post" data-post-id="3418" data-author="Mosaix" data-date="2004-12-18T21:23:31+00:00">
+<div class="post" data-post-id="3418" data-author="Mosaix" data-date="2004-12-18T21:23:31+00:00" data-subject="">
 
 obsidian guards 5mil
 
 </div>
 
-<div class="post" data-post-id="3419" data-author="Weasel" data-date="2004-12-18T21:23:56+00:00">
+<div class="post" data-post-id="3419" data-author="Weasel" data-date="2004-12-18T21:23:56+00:00" data-subject="Re:">
 
 1.8m ******/etc.[/quote:rl8lb709]
 
@@ -848,7 +848,7 @@ wtf is that a bid for?
 
 </div>
 
-<div class="post" data-post-id="3420" data-author="Sind" data-date="2004-12-18T22:34:38+00:00">
+<div class="post" data-post-id="3420" data-author="Sind" data-date="2004-12-18T22:34:38+00:00" data-subject="Picture of today.">
 
 Im closing it on Sunday,not sure bout hour,prob
 
@@ -954,13 +954,13 @@ a multi-colored dream coat - 100k min
 
 </div>
 
-<div class="post" data-post-id="3421" data-author="Mustang" data-date="2004-12-19T00:45:19+00:00">
+<div class="post" data-post-id="3421" data-author="Mustang" data-date="2004-12-19T00:45:19+00:00" data-subject="">
 
 amulet of protection 3mil
 
 </div>
 
-<div class="post" data-post-id="3424" data-author="Corwin" data-date="2004-12-19T04:44:10+00:00">
+<div class="post" data-post-id="3424" data-author="Corwin" data-date="2004-12-19T04:44:10+00:00" data-subject="">
 
 eye of the deep 3.25m
 
@@ -968,13 +968,13 @@ obsidian bracer 1m
 
 </div>
 
-<div class="post" data-post-id="3425" data-author="rith" data-date="2004-12-19T06:16:34+00:00">
+<div class="post" data-post-id="3425" data-author="rith" data-date="2004-12-19T06:16:34+00:00" data-subject="">
 
 Obsidian Guards 5.5 mil :p
 
 </div>
 
-<div class="post" data-post-id="3426" data-author="Mirax" data-date="2004-12-19T06:51:29+00:00">
+<div class="post" data-post-id="3426" data-author="Mirax" data-date="2004-12-19T06:51:29+00:00" data-subject="">
 
 a multi-colored dream coat - 100k
 
@@ -982,19 +982,19 @@ a set of polished bone leggings - 100k
 
 </div>
 
-<div class="post" data-post-id="3427" data-author="Falsra" data-date="2004-12-19T07:15:29+00:00">
+<div class="post" data-post-id="3427" data-author="Falsra" data-date="2004-12-19T07:15:29+00:00" data-subject="">
 
 a _spark of flame, a chunk of earth 2m
 
 </div>
 
-<div class="post" data-post-id="3428" data-author="Beagle" data-date="2004-12-19T09:53:28+00:00">
+<div class="post" data-post-id="3428" data-author="Beagle" data-date="2004-12-19T09:53:28+00:00" data-subject="">
 
 a set of polished bone leggings - 200k
 
 </div>
 
-<div class="post" data-post-id="3429" data-author="Sian" data-date="2004-12-19T11:19:53+00:00">
+<div class="post" data-post-id="3429" data-author="Sian" data-date="2004-12-19T11:19:53+00:00" data-subject="">
 
 gold-pommeled stiletto - 2.5mil
 
@@ -1004,25 +1004,25 @@ obsidian jewel of souls - 500k
 
 </div>
 
-<div class="post" data-post-id="3430" data-author="Mirax" data-date="2004-12-19T12:20:27+00:00">
+<div class="post" data-post-id="3430" data-author="Mirax" data-date="2004-12-19T12:20:27+00:00" data-subject="">
 
 a set of polished bone leggings -300k
 
 </div>
 
-<div class="post" data-post-id="3431" data-author="Mosaix" data-date="2004-12-19T12:46:24+00:00">
+<div class="post" data-post-id="3431" data-author="Mosaix" data-date="2004-12-19T12:46:24+00:00" data-subject="">
 
 blue steel bracelets 4mil
 
 </div>
 
-<div class="post" data-post-id="3432" data-author="Beagle" data-date="2004-12-19T12:52:42+00:00">
+<div class="post" data-post-id="3432" data-author="Beagle" data-date="2004-12-19T12:52:42+00:00" data-subject="">
 
 a set of polished bone leggings -400k
 
 </div>
 
-<div class="post" data-post-id="3433" data-author="Sind" data-date="2004-12-19T13:33:34+00:00">
+<div class="post" data-post-id="3433" data-author="Sind" data-date="2004-12-19T13:33:34+00:00" data-subject="ok">
 
 closing in 7-10 hours when i wake up :)
 
@@ -1030,67 +1030,67 @@ thanks every1.
 
 </div>
 
-<div class="post" data-post-id="3434" data-author="Mirax" data-date="2004-12-19T13:50:54+00:00">
+<div class="post" data-post-id="3434" data-author="Mirax" data-date="2004-12-19T13:50:54+00:00" data-subject="">
 
 a set of polished bone leggings - 500k
 
 </div>
 
-<div class="post" data-post-id="3435" data-author="Talo/Ulrich" data-date="2004-12-19T14:20:34+00:00">
+<div class="post" data-post-id="3435" data-author="Talo/Ulrich" data-date="2004-12-19T14:20:34+00:00" data-subject="">
 
 stargazer lily 350k for miss cynix
 
 </div>
 
-<div class="post" data-post-id="3436" data-author="impz" data-date="2004-12-19T15:17:48+00:00">
+<div class="post" data-post-id="3436" data-author="impz" data-date="2004-12-19T15:17:48+00:00" data-subject="">
 
 200k for shield of yawning death.
 
 </div>
 
-<div class="post" data-post-id="3437" data-author="Kali" data-date="2004-12-19T15:30:26+00:00">
+<div class="post" data-post-id="3437" data-author="Kali" data-date="2004-12-19T15:30:26+00:00" data-subject="Re:">
 
 _spark of flame, a chunk of earth 2.1m
 
 </div>
 
-<div class="post" data-post-id="3438" data-author="Selane" data-date="2004-12-19T17:12:07+00:00">
+<div class="post" data-post-id="3438" data-author="Selane" data-date="2004-12-19T17:12:07+00:00" data-subject="">
 
 eye of the deep - 3.5
 
 </div>
 
-<div class="post" data-post-id="3441" data-author="Corwin" data-date="2004-12-19T18:40:58+00:00">
+<div class="post" data-post-id="3441" data-author="Corwin" data-date="2004-12-19T18:40:58+00:00" data-subject="">
 
 eye of the deep 3.75 million
 
 </div>
 
-<div class="post" data-post-id="3442" data-author="brady" data-date="2004-12-19T20:24:10+00:00">
+<div class="post" data-post-id="3442" data-author="brady" data-date="2004-12-19T20:24:10+00:00" data-subject="">
 
 dwarven broad axe 1.6
 
 </div>
 
-<div class="post" data-post-id="3443" data-author="Falsra" data-date="2004-12-19T20:30:04+00:00">
+<div class="post" data-post-id="3443" data-author="Falsra" data-date="2004-12-19T20:30:04+00:00" data-subject="">
 
 a _spark of flame, a chunk of earth 2.2m
 
 </div>
 
-<div class="post" data-post-id="3444" data-author="Qa" data-date="2004-12-19T21:19:54+00:00">
+<div class="post" data-post-id="3444" data-author="Qa" data-date="2004-12-19T21:19:54+00:00" data-subject="">
 
 2x diamond bracers - 3.5mil
 
 </div>
 
-<div class="post" data-post-id="3445" data-author="Qa" data-date="2004-12-19T21:23:51+00:00">
+<div class="post" data-post-id="3445" data-author="Qa" data-date="2004-12-19T21:23:51+00:00" data-subject="">
 
 Amulet of protection - 3m
 
 </div>
 
-<div class="post" data-post-id="3446" data-author="Qa" data-date="2004-12-19T21:37:46+00:00">
+<div class="post" data-post-id="3446" data-author="Qa" data-date="2004-12-19T21:37:46+00:00" data-subject="">
 
 Shield of Yawning Death 300k
 
@@ -1100,7 +1100,7 @@ amulet of protection 3.5 mil
 
 </div>
 
-<div class="post" data-post-id="3447" data-author="Qa" data-date="2004-12-19T21:50:17+00:00">
+<div class="post" data-post-id="3447" data-author="Qa" data-date="2004-12-19T21:50:17+00:00" data-subject="">
 
 Oh, and if nobody bid on the tube, I'll drop 100k on that.
 
@@ -1110,31 +1110,31 @@ some tube (mage stone container) 100k
 
 </div>
 
-<div class="post" data-post-id="3448" data-author="Selane" data-date="2004-12-19T22:51:54+00:00">
+<div class="post" data-post-id="3448" data-author="Selane" data-date="2004-12-19T22:51:54+00:00" data-subject="">
 
 Eye of the deep - 4mil
 
 </div>
 
-<div class="post" data-post-id="3451" data-author="Stryker" data-date="2004-12-20T00:53:44+00:00">
+<div class="post" data-post-id="3451" data-author="Stryker" data-date="2004-12-20T00:53:44+00:00" data-subject="re">
 
 _spark of flame, a chunk of earth 2.3m
 
 </div>
 
-<div class="post" data-post-id="3452" data-author="Mustang" data-date="2004-12-20T00:57:24+00:00">
+<div class="post" data-post-id="3452" data-author="Mustang" data-date="2004-12-20T00:57:24+00:00" data-subject="">
 
 amulet of protection 4mil
 
 </div>
 
-<div class="post" data-post-id="3453" data-author="Qa" data-date="2004-12-20T01:04:02+00:00">
+<div class="post" data-post-id="3453" data-author="Qa" data-date="2004-12-20T01:04:02+00:00" data-subject="">
 
 Amulet of Protection 4.5 mil
 
 </div>
 
-<div class="post" data-post-id="3454" data-author="Sian" data-date="2004-12-20T01:16:31+00:00">
+<div class="post" data-post-id="3454" data-author="Sian" data-date="2004-12-20T01:16:31+00:00" data-subject="">
 
 Dwarven broad axe - 1.65mil
 
@@ -1142,7 +1142,7 @@ Blue steel x 2 - 4.5mil
 
 </div>
 
-<div class="post" data-post-id="3457" data-author="Qa" data-date="2004-12-20T02:24:02+00:00">
+<div class="post" data-post-id="3457" data-author="Qa" data-date="2004-12-20T02:24:02+00:00" data-subject="">
 
 I just noticed that amulet is Wa Prime only.  Whoups.
 
@@ -1152,7 +1152,7 @@ Sorry about that.  -Qa
 
 </div>
 
-<div class="post" data-post-id="3458" data-author="Leaf" data-date="2004-12-20T02:41:15+00:00">
+<div class="post" data-post-id="3458" data-author="Leaf" data-date="2004-12-20T02:41:15+00:00" data-subject="">
 
 plaid tartan sleeves - 1.3m Leaf
 
@@ -1160,25 +1160,25 @@ diamond bracer(x2) - 3.6m Leaf
 
 </div>
 
-<div class="post" data-post-id="3459" data-author="Qa" data-date="2004-12-20T03:09:18+00:00">
+<div class="post" data-post-id="3459" data-author="Qa" data-date="2004-12-20T03:09:18+00:00" data-subject="">
 
 2x diamond bracers - 4mil
 
 </div>
 
-<div class="post" data-post-id="3461" data-author="Leaf" data-date="2004-12-20T03:48:46+00:00">
+<div class="post" data-post-id="3461" data-author="Leaf" data-date="2004-12-20T03:48:46+00:00" data-subject="">
 
 diamond bracer(x2) - 4.5 Leaf
 
 </div>
 
-<div class="post" data-post-id="3462" data-author="Mosaix" data-date="2004-12-20T03:57:57+00:00">
+<div class="post" data-post-id="3462" data-author="Mosaix" data-date="2004-12-20T03:57:57+00:00" data-subject="">
 
 blue steel bracelets pair 5mil
 
 </div>
 
-<div class="post" data-post-id="3463" data-author="Mustang" data-date="2004-12-20T05:51:55+00:00">
+<div class="post" data-post-id="3463" data-author="Mustang" data-date="2004-12-20T05:51:55+00:00" data-subject="">
 
 erm Qa, you either stand by your bid or you don't...
 
@@ -1192,13 +1192,13 @@ i'll bid 4.6mil if not
 
 </div>
 
-<div class="post" data-post-id="3464" data-author="Sian" data-date="2004-12-20T06:27:07+00:00">
+<div class="post" data-post-id="3464" data-author="Sian" data-date="2004-12-20T06:27:07+00:00" data-subject="">
 
 Blue steel x 2 - 5.5mil
 
 </div>
 
-<div class="post" data-post-id="3465" data-author="Sian" data-date="2004-12-20T06:41:16+00:00">
+<div class="post" data-post-id="3465" data-author="Sian" data-date="2004-12-20T06:41:16+00:00" data-subject="">
 
 mithril shoulder guards - 7mil
 
@@ -1212,7 +1212,7 @@ obsidian pearl - 1.5mil
 
 </div>
 
-<div class="post" data-post-id="3466" data-author="Sind" data-date="2004-12-20T06:59:18+00:00">
+<div class="post" data-post-id="3466" data-author="Sind" data-date="2004-12-20T06:59:18+00:00" data-subject="ok">
 
 i should have closed it earlier but i had lan problems,i see you guys 
 
@@ -1224,13 +1224,13 @@ I will close it right at 11 pm my time (gmp+3) today.
 
 </div>
 
-<div class="post" data-post-id="3467" data-author="Mirax" data-date="2004-12-20T07:24:31+00:00">
+<div class="post" data-post-id="3467" data-author="Mirax" data-date="2004-12-20T07:24:31+00:00" data-subject="">
 
 a belt of the damned - 3mil
 
 </div>
 
-<div class="post" data-post-id="3468" data-author="Mirax" data-date="2004-12-20T07:34:38+00:00">
+<div class="post" data-post-id="3468" data-author="Mirax" data-date="2004-12-20T07:34:38+00:00" data-subject="">
 
 i suddenly understood i like this style of auction. yeah, it's really funny.
 
@@ -1240,19 +1240,19 @@ i guess there will be lots of crazy bids in few last seconds before it will be c
 
 </div>
 
-<div class="post" data-post-id="3469" data-author="Sian" data-date="2004-12-20T07:40:33+00:00">
+<div class="post" data-post-id="3469" data-author="Sian" data-date="2004-12-20T07:40:33+00:00" data-subject="">
 
 belt of the damned - 3.5mil
 
 </div>
 
-<div class="post" data-post-id="3470" data-author="Mirax" data-date="2004-12-20T08:14:22+00:00">
+<div class="post" data-post-id="3470" data-author="Mirax" data-date="2004-12-20T08:14:22+00:00" data-subject="">
 
 belt of the damned - 4M
 
 </div>
 
-<div class="post" data-post-id="3471" data-author="Sind" data-date="2004-12-20T08:19:03+00:00">
+<div class="post" data-post-id="3471" data-author="Sind" data-date="2004-12-20T08:19:03+00:00" data-subject="pic of moment">
 
 the symbol of zodiac magic - 600k Kosowar
 
@@ -1338,7 +1338,7 @@ a spark of flame, a chunk of earth - 2.3m Stryker
 
 </div>
 
-<div class="post" data-post-id="3472" data-author="Sind" data-date="2004-12-20T08:24:19+00:00">
+<div class="post" data-post-id="3472" data-author="Sind" data-date="2004-12-20T08:24:19+00:00" data-subject="hm">
 
 belt of damned - 4m Mirax for sure.
 
@@ -1346,7 +1346,7 @@ sorr.
 
 </div>
 
-<div class="post" data-post-id="3473" data-author="Zam" data-date="2004-12-20T08:25:46+00:00">
+<div class="post" data-post-id="3473" data-author="Zam" data-date="2004-12-20T08:25:46+00:00" data-subject="">
 
 a ****** of flame, <>
 
@@ -1354,7 +1354,7 @@ MWAAAAAAAAAAAAAAHAHAHAHAHAHAHAHAHAAAAAAAAAA
 
 </div>
 
-<div class="post" data-post-id="3474" data-author="Mirax" data-date="2004-12-20T09:28:52+00:00">
+<div class="post" data-post-id="3474" data-author="Mirax" data-date="2004-12-20T09:28:52+00:00" data-subject="">
 
 hey, look.. player statistics updated.
 
@@ -1364,43 +1364,43 @@ but i guess Sind will be *GOLD BOY* of the year ;)
 
 </div>
 
-<div class="post" data-post-id="3475" data-author="kosowar" data-date="2004-12-20T10:05:36+00:00">
+<div class="post" data-post-id="3475" data-author="kosowar" data-date="2004-12-20T10:05:36+00:00" data-subject="">
 
 an ebony helm of blood - 500K
 
 </div>
 
-<div class="post" data-post-id="3476" data-author="kosowar" data-date="2004-12-20T10:12:18+00:00">
+<div class="post" data-post-id="3476" data-author="kosowar" data-date="2004-12-20T10:12:18+00:00" data-subject="">
 
 runed sword - 200K
 
 </div>
 
-<div class="post" data-post-id="3477" data-author="Mustang" data-date="2004-12-20T10:26:32+00:00">
+<div class="post" data-post-id="3477" data-author="Mustang" data-date="2004-12-20T10:26:32+00:00" data-subject="">
 
 amulet of protection - 5.3mil
 
 </div>
 
-<div class="post" data-post-id="3479" data-author="Mosaix" data-date="2004-12-20T12:32:26+00:00">
+<div class="post" data-post-id="3479" data-author="Mosaix" data-date="2004-12-20T12:32:26+00:00" data-subject="">
 
 blue steel bracelets pair 6mil
 
 </div>
 
-<div class="post" data-post-id="3481" data-author="Leaf" data-date="2004-12-20T14:19:52+00:00">
+<div class="post" data-post-id="3481" data-author="Leaf" data-date="2004-12-20T14:19:52+00:00" data-subject="">
 
 the obsidian jewel of souls - 600k Leaf
 
 </div>
 
-<div class="post" data-post-id="3482" data-author="Choong" data-date="2004-12-20T15:08:25+00:00">
+<div class="post" data-post-id="3482" data-author="Choong" data-date="2004-12-20T15:08:25+00:00" data-subject="Mithril guards">
 
 8 mil - choong
 
 </div>
 
-<div class="post" data-post-id="3483" data-author="Qa" data-date="2004-12-20T15:47:14+00:00">
+<div class="post" data-post-id="3483" data-author="Qa" data-date="2004-12-20T15:47:14+00:00" data-subject="">
 
 2x diamond bracers - 5mil
 
@@ -1408,7 +1408,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="3484" data-author="Leaf" data-date="2004-12-20T16:02:50+00:00">
+<div class="post" data-post-id="3484" data-author="Leaf" data-date="2004-12-20T16:02:50+00:00" data-subject="">
 
 Qa u son of a ...  :p
 
@@ -1416,7 +1416,7 @@ Qa u son of a ...  :p
 
 </div>
 
-<div class="post" data-post-id="3485" data-author="Qa" data-date="2004-12-20T16:51:15+00:00">
+<div class="post" data-post-id="3485" data-author="Qa" data-date="2004-12-20T16:51:15+00:00" data-subject="">
 
 5.5 mil
 
@@ -1426,13 +1426,13 @@ Son of a wonderful couple, btw.  *wink*
 
 </div>
 
-<div class="post" data-post-id="3486" data-author="Leaf" data-date="2004-12-20T17:17:28+00:00">
+<div class="post" data-post-id="3486" data-author="Leaf" data-date="2004-12-20T17:17:28+00:00" data-subject="">
 
 5750000 coins u better not bid anymore Qa!
 
 </div>
 
-<div class="post" data-post-id="3487" data-author="Qa" data-date="2004-12-20T17:17:36+00:00">
+<div class="post" data-post-id="3487" data-author="Qa" data-date="2004-12-20T17:17:36+00:00" data-subject="">
 
 5.5 mil 2x dbracer
 
@@ -1442,7 +1442,7 @@ Son of a wonderful couple, btw.  *wink*
 
 </div>
 
-<div class="post" data-post-id="3488" data-author="Qa" data-date="2004-12-20T17:18:54+00:00">
+<div class="post" data-post-id="3488" data-author="Qa" data-date="2004-12-20T17:18:54+00:00" data-subject="">
 
 Take it away, Leaf.  Out on the diamond bracers.
 
@@ -1450,7 +1450,7 @@ Take it away, Leaf.  Out on the diamond bracers.
 
 </div>
 
-<div class="post" data-post-id="3489" data-author="Leaf" data-date="2004-12-20T17:25:22+00:00">
+<div class="post" data-post-id="3489" data-author="Leaf" data-date="2004-12-20T17:25:22+00:00" data-subject="">
 
 Take it away, Leaf.  Out on the diamond bracers.
 
@@ -1460,7 +1460,7 @@ Take it away, Leaf.  Out on the diamond bracers.
 
 </div>
 
-<div class="post" data-post-id="3490" data-author="Mirax" data-date="2004-12-20T18:45:23+00:00">
+<div class="post" data-post-id="3490" data-author="Mirax" data-date="2004-12-20T18:45:23+00:00" data-subject="last round">
 
 chuooo! i feel it's coming! :wink:
 
@@ -1468,7 +1468,7 @@ boys & girls, last round. bang!
 
 </div>
 
-<div class="post" data-post-id="3491" data-author="Darx" data-date="2004-12-20T20:02:26+00:00">
+<div class="post" data-post-id="3491" data-author="Darx" data-date="2004-12-20T20:02:26+00:00" data-subject="Re: Sind">
 
 WTB:
 
@@ -1478,13 +1478,13 @@ Obsidian pearl 3Mil
 
 </div>
 
-<div class="post" data-post-id="3493" data-author="Sind" data-date="2004-12-20T21:13:27+00:00">
+<div class="post" data-post-id="3493" data-author="Sind" data-date="2004-12-20T21:13:27+00:00" data-subject="its closed/">
 
 closed no bids after 11pm accepted.
 
 </div>
 
-<div class="post" data-post-id="3494" data-author="Sind" data-date="2004-12-20T21:22:35+00:00">
+<div class="post" data-post-id="3494" data-author="Sind" data-date="2004-12-20T21:22:35+00:00" data-subject="ok">
 
 Here we go guys,not clear what did choong bid on
 
@@ -1576,13 +1576,13 @@ If i missed any bid, plz post it again and give me link to old one.
 
 </div>
 
-<div class="post" data-post-id="3495" data-author="Sind" data-date="2004-12-20T21:25:07+00:00">
+<div class="post" data-post-id="3495" data-author="Sind" data-date="2004-12-20T21:25:07+00:00" data-subject="meetings">
 
 well catch me ingame and via icq(22789148)
 
 </div>
 
-<div class="post" data-post-id="3497" data-author="Sind" data-date="2004-12-20T23:16:00+00:00">
+<div class="post" data-post-id="3497" data-author="Sind" data-date="2004-12-20T23:16:00+00:00" data-subject="darn :)">
 
 darn bleh
 
@@ -1592,7 +1592,7 @@ sigh :)
 
 </div>
 
-<div class="post" data-post-id="3502" data-author="Selane" data-date="2004-12-21T05:21:34+00:00">
+<div class="post" data-post-id="3502" data-author="Selane" data-date="2004-12-21T05:21:34+00:00" data-subject="">
 
 If you look at Choong's post subject re: mithril guards you'll see that he bid 8mil on em :p
 

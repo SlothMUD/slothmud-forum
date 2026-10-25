@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13896" data-author="*Splork*" data-date="2006-09-03T15:07:39+00:00">
+<div class="post" data-post-id="13896" data-author="*Splork*" data-date="2006-09-03T15:07:39+00:00" data-subject="Changes since july 8th">
 
 I have not been keeping the website up to date with ingame changes so here are a few since our last posting. I've been keeping ingame NEWS up to date for almost two years, simply type NEWS ingame for a thorough listing. Also, we will probably tie an option into live info for news which can be clicked and read the ingame news boards soon...
 

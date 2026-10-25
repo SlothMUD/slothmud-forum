@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5003" data-author="*Splork*" data-date="2005-03-11T21:12:06+00:00">
+<div class="post" data-post-id="5003" data-author="*Splork*" data-date="2005-03-11T21:12:06+00:00" data-subject="Bard Instruments">
 
 The bard prime avatar instruments have been fixed so that those who do not meet these requirements can no longer use them. 
 

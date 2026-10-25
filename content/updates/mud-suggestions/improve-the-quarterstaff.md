@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32244" data-author="Teron" data-date="2010-12-30T15:14:30+00:00">
+<div class="post" data-post-id="32244" data-author="Teron" data-date="2010-12-30T15:14:30+00:00" data-subject="Improve the Quarterstaff">
 
 Greetings.
 

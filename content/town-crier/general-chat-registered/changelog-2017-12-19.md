@@ -10,7 +10,7 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="38544" data-author="*teker*" data-date="2017-12-18T23:48:20+00:00">
+<div class="post" data-post-id="38544" data-author="*teker*" data-date="2017-12-18T23:48:20+00:00" data-subject="Changelog 2017-12-19">
 
 Tomorrow's reboot will have the following:
 
@@ -26,7 +26,7 @@ Outside the code I fixed the ticket sellers in BH so that Wendy shows both Lyme 
 
 </div>
 
-<div class="post" data-post-id="38545" data-author="Gorka" data-date="2017-12-19T06:21:14+00:00">
+<div class="post" data-post-id="38545" data-author="Gorka" data-date="2017-12-19T06:21:14+00:00" data-subject="Re: Changelog 2017-12-19">
 
 Teker, is there something you can do about the avatar shop perma sanct not working with darkcloak? The thing we would like to see was dark cloak working with this but on a normal spell timer for 8 mins. (The length of a regular aegis) 
 
@@ -38,7 +38,7 @@ There is a couple of frustrations with the way it works at the moment...
 
 </div>
 
-<div class="post" data-post-id="38546" data-author="*Breeze*" data-date="2017-12-19T10:20:53+00:00">
+<div class="post" data-post-id="38546" data-author="*Breeze*" data-date="2017-12-19T10:20:53+00:00" data-subject="Re: Changelog 2017-12-19">
 
 > **Gorka wrote:**
 > Teker, is there something you can do about the avatar shop perma sanct not working with darkcloak? The thing we would like to see was dark cloak working with this but on a normal spell timer for 8 mins. (The length of a regular aegis) 
@@ -63,13 +63,13 @@ but only after we (he, splork, I) talk about it.
 
 </div>
 
-<div class="post" data-post-id="38551" data-author="*teker*" data-date="2017-12-21T16:30:41+00:00">
+<div class="post" data-post-id="38551" data-author="*teker*" data-date="2017-12-21T16:30:41+00:00" data-subject="Re: Changelog 2017-12-19">
 
 What does it do now?  The cloak just not work?
 
 </div>
 
-<div class="post" data-post-id="38552" data-author="Gorka" data-date="2017-12-21T17:11:42+00:00">
+<div class="post" data-post-id="38552" data-author="Gorka" data-date="2017-12-21T17:11:42+00:00" data-subject="Re: Changelog 2017-12-19">
 
 I don't actually know what happens when you cast dark cloak when you are "Avatar Glowing" you'd have to ask Cyprimus exactly, I just know it doesn't work.
 
@@ -83,13 +83,13 @@ Seriously though Teker, of all the little gripes about the game, this one has a 
 
 </div>
 
-<div class="post" data-post-id="38553" data-author="*teker*" data-date="2017-12-21T18:43:20+00:00">
+<div class="post" data-post-id="38553" data-author="*teker*" data-date="2017-12-21T18:43:20+00:00" data-subject="Re: Changelog 2017-12-19">
 
 I took a look at the code and I understand why it's not working.  Started immortal discussions... stay tuned.
 
 </div>
 
-<div class="post" data-post-id="38554" data-author="*Splork*" data-date="2017-12-22T03:23:22+00:00">
+<div class="post" data-post-id="38554" data-author="*Splork*" data-date="2017-12-22T03:23:22+00:00" data-subject="Re: Changelog 2017-12-19">
 
 Its an easy fix and one which was debated time and time again for two decades. Balance used to be an issue and is why the current code is the way it is. Balance is no longer an issue here. I am fine with the change, not that anyone needs my approval :mrgreen: 
 
@@ -115,25 +115,25 @@ Verbosity:
 
 </div>
 
-<div class="post" data-post-id="38555" data-author="Gorka" data-date="2017-12-22T05:11:34+00:00">
+<div class="post" data-post-id="38555" data-author="Gorka" data-date="2017-12-22T05:11:34+00:00" data-subject="Re: Changelog 2017-12-19">
 
 That's an awesome change. Thanks very much. Merry Christmas.
 
 </div>
 
-<div class="post" data-post-id="38563" data-author="Josiah" data-date="2017-12-26T02:48:00+00:00">
+<div class="post" data-post-id="38563" data-author="Josiah" data-date="2017-12-26T02:48:00+00:00" data-subject="Re: Changelog 2017-12-19">
 
 Unlurking just long enough to say thanks for this update!
 
 </div>
 
-<div class="post" data-post-id="38565" data-author="Gorka" data-date="2017-12-27T01:59:09+00:00">
+<div class="post" data-post-id="38565" data-author="Gorka" data-date="2017-12-27T01:59:09+00:00" data-subject="Re: Changelog 2017-12-19">
 
 I should have saved 50b by the end of the day, will this change go ahead in the near future? Is it safe for me to buy?
 
 </div>
 
-<div class="post" data-post-id="38566" data-author="Gorka" data-date="2017-12-27T14:31:47+00:00">
+<div class="post" data-post-id="38566" data-author="Gorka" data-date="2017-12-27T14:31:47+00:00" data-subject="Re: Changelog 2017-12-19">
 
 So I just brought Pema Sanct, please don't leave me in the lurch on this, as 5+ areas have just become difficult for me to run.  :) 
 
@@ -141,7 +141,7 @@ First thing I noticed... other than not being able to cast dark cloak is that it
 
 </div>
 
-<div class="post" data-post-id="38567" data-author="*teker*" data-date="2017-12-27T14:58:45+00:00">
+<div class="post" data-post-id="38567" data-author="*teker*" data-date="2017-12-27T14:58:45+00:00" data-subject="Re: Changelog 2017-12-19">
 
 You should not have bought it.  It does not look like it will be fixed.  If you want a refund let me know.
 
@@ -149,7 +149,7 @@ Yes, my plan for MSDP is to retire most of the older values in favor of the newe
 
 </div>
 
-<div class="post" data-post-id="38568" data-author="Gorka" data-date="2017-12-27T23:18:20+00:00">
+<div class="post" data-post-id="38568" data-author="Gorka" data-date="2017-12-27T23:18:20+00:00" data-subject="Re: Changelog 2017-12-19">
 
 Thanks Teker for your reimbursement offer.
 
@@ -177,7 +177,7 @@ I intend to keep my perm sanct. I'll just have to lead and load vain in a group.
 
 </div>
 
-<div class="post" data-post-id="38569" data-author="*Breeze*" data-date="2017-12-28T22:59:51+00:00">
+<div class="post" data-post-id="38569" data-author="*Breeze*" data-date="2017-12-28T22:59:51+00:00" data-subject="Re: Changelog 2017-12-19">
 
 They were not ruined. It's not always about the player. 
 
@@ -187,7 +187,7 @@ It's not always about screwing a player over. Most of the time it's about balanc
 
 </div>
 
-<div class="post" data-post-id="38571" data-author="Gorka" data-date="2017-12-29T07:32:58+00:00">
+<div class="post" data-post-id="38571" data-author="Gorka" data-date="2017-12-29T07:32:58+00:00" data-subject="Re: Changelog 2017-12-19">
 
 Appreciate your position being an Immortal and having intimate knowledge of the big picture Breeze.
 
@@ -295,7 +295,7 @@ Screwed Over
 
 </div>
 
-<div class="post" data-post-id="38572" data-author="*Breeze*" data-date="2017-12-29T16:24:57+00:00">
+<div class="post" data-post-id="38572" data-author="*Breeze*" data-date="2017-12-29T16:24:57+00:00" data-subject="Re: Changelog 2017-12-19">
 
 just fyi, the poprate is not that bad.  there are worse.
 
@@ -343,19 +343,19 @@ besides, where is the fun in shapeshifting and just walking through DoT?
 
 </div>
 
-<div class="post" data-post-id="38573" data-author="Gorka" data-date="2017-12-29T17:39:48+00:00">
+<div class="post" data-post-id="38573" data-author="Gorka" data-date="2017-12-29T17:39:48+00:00" data-subject="Re: Changelog 2017-12-19">
 
 Well it's easy solved then Breeze, make me immortal.  :lol: Or gimme a way to dark cloak...  :twisted:
 
 </div>
 
-<div class="post" data-post-id="38574" data-author="*Breeze*" data-date="2017-12-29T21:02:31+00:00">
+<div class="post" data-post-id="38574" data-author="*Breeze*" data-date="2017-12-29T21:02:31+00:00" data-subject="Re: Changelog 2017-12-19">
 
 Already told teker he could change it but not to rush it because if done wrong it can break other stuff
 
 </div>
 
-<div class="post" data-post-id="38575" data-author="*Splork*" data-date="2017-12-30T02:17:25+00:00">
+<div class="post" data-post-id="38575" data-author="*Splork*" data-date="2017-12-30T02:17:25+00:00" data-subject="Re: Changelog 2017-12-19">
 
 Most of the areas being mentioned are mine and I certainly do not want them made easier.
 
@@ -363,7 +363,7 @@ If any changes go in which do alter the difficulty of said areas, I will adjust 
 
 </div>
 
-<div class="post" data-post-id="38579" data-author="*teker*" data-date="2018-01-01T22:03:04+00:00">
+<div class="post" data-post-id="38579" data-author="*teker*" data-date="2018-01-01T22:03:04+00:00" data-subject="Re: Changelog 2017-12-19">
 
 Dark cloaking w/ avatar permasanct should be in the code at next reboot.
 
@@ -383,7 +383,7 @@ Also:
 
 </div>
 
-<div class="post" data-post-id="38580" data-author="Gorka" data-date="2018-01-02T03:54:23+00:00">
+<div class="post" data-post-id="38580" data-author="Gorka" data-date="2018-01-02T03:54:23+00:00" data-subject="Re: Changelog 2017-12-19">
 
 Awesome news Teker, can't wait!
 
@@ -391,7 +391,7 @@ Been noticing a few things not being destroyed lately. There is two undestroyed 
 
 </div>
 
-<div class="post" data-post-id="38581" data-author="*Breeze*" data-date="2018-01-02T17:13:18+00:00">
+<div class="post" data-post-id="38581" data-author="*Breeze*" data-date="2018-01-02T17:13:18+00:00" data-subject="Re: Changelog 2017-12-19">
 
 The gem/rune/nicked thing isn't a bug.. 
 
@@ -403,7 +403,7 @@ Specifically I was fixing the firebird which afaik no one tested yet.
 
 </div>
 
-<div class="post" data-post-id="38583" data-author="Gorka" data-date="2018-01-02T23:18:21+00:00">
+<div class="post" data-post-id="38583" data-author="Gorka" data-date="2018-01-02T23:18:21+00:00" data-subject="Re: Changelog 2017-12-19">
 
 Will test the firebird when we can get a group together that wants to hit it.
 

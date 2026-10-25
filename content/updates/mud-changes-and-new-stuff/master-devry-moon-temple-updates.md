@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35941" data-author="*Neptune*" data-date="2015-06-08T20:01:36+00:00">
+<div class="post" data-post-id="35941" data-author="*Neptune*" data-date="2015-06-08T20:01:36+00:00" data-subject="Master Devry / Moon Temple Updates">
 
 Greetings.
 

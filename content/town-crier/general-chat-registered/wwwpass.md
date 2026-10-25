@@ -10,7 +10,7 @@ locked: false
 post_count: 31
 ---
 
-<div class="post" data-post-id="36910" data-author="*Idjit*" data-date="2016-05-06T02:20:47+00:00">
+<div class="post" data-post-id="36910" data-author="*Idjit*" data-date="2016-05-06T02:20:47+00:00" data-subject="wwwpass">
 
 Does anyone know, how long in minutes you actually have to be logged out of the game before logging back in, for the website to update wwwpass?
 
@@ -22,13 +22,13 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="36911" data-author="Teron" data-date="2016-05-06T07:58:18+00:00">
+<div class="post" data-post-id="36911" data-author="Teron" data-date="2016-05-06T07:58:18+00:00" data-subject="Re: wwwpass">
 
 Splork said it's 10 minutes, but I heard just 10 isn't enough. 15 maybe?
 
 </div>
 
-<div class="post" data-post-id="36915" data-author="*Idjit*" data-date="2016-05-08T02:31:50+00:00">
+<div class="post" data-post-id="36915" data-author="*Idjit*" data-date="2016-05-08T02:31:50+00:00" data-subject="Re: wwwpass">
 
 wwwpass still hasn't updated, since I last posted.  Must take longer than 48 hours?
 
@@ -36,13 +36,13 @@ wwwpass still hasn't updated, since I last posted.  Must take longer than 48 hou
 
 </div>
 
-<div class="post" data-post-id="36916" data-author="*Breeze*" data-date="2016-05-08T12:36:09+00:00">
+<div class="post" data-post-id="36916" data-author="*Breeze*" data-date="2016-05-08T12:36:09+00:00" data-subject="Re: wwwpass">
 
 its updated. there is a disconnect somewhere in the login code. looking into it.
 
 </div>
 
-<div class="post" data-post-id="36917" data-author="*Breeze*" data-date="2016-05-08T12:52:24+00:00">
+<div class="post" data-post-id="36917" data-author="*Breeze*" data-date="2016-05-08T12:52:24+00:00" data-subject="Re: wwwpass">
 
 ok works.
 
@@ -50,13 +50,13 @@ stupid webhost
 
 </div>
 
-<div class="post" data-post-id="36918" data-author="*Breeze*" data-date="2016-05-08T13:24:35+00:00">
+<div class="post" data-post-id="36918" data-author="*Breeze*" data-date="2016-05-08T13:24:35+00:00" data-subject="Re: wwwpass">
 
 and now its broken again..
 
 </div>
 
-<div class="post" data-post-id="36919" data-author="Yasik" data-date="2016-05-08T14:44:06+00:00">
+<div class="post" data-post-id="36919" data-author="Yasik" data-date="2016-05-08T14:44:06+00:00" data-subject="Re: wwwpass">
 
 It worked for me, once.
 
@@ -70,19 +70,19 @@ The game should provide all players ever need.
 
 </div>
 
-<div class="post" data-post-id="36920" data-author="*Breeze*" data-date="2016-05-08T14:53:45+00:00">
+<div class="post" data-post-id="36920" data-author="*Breeze*" data-date="2016-05-08T14:53:45+00:00" data-subject="Re: wwwpass">
 
 you might get your wish because i know whats wrong but not how to fix it atm.
 
 </div>
 
-<div class="post" data-post-id="36921" data-author="*Splork*" data-date="2016-05-10T16:12:45+00:00">
+<div class="post" data-post-id="36921" data-author="*Splork*" data-date="2016-05-10T16:12:45+00:00" data-subject="Re: wwwpass">
 
 We try to provide as much live information from our game on our website. I think its a great feature and hopefully we can figure it out.
 
 </div>
 
-<div class="post" data-post-id="36976" data-author="*Breeze*" data-date="2016-06-26T10:10:07+00:00">
+<div class="post" data-post-id="36976" data-author="*Breeze*" data-date="2016-06-26T10:10:07+00:00" data-subject="Re: wwwpass">
 
 wwwpass / website logins should be working again.
 
@@ -90,7 +90,7 @@ someone test :)
 
 </div>
 
-<div class="post" data-post-id="36977" data-author="Yasik" data-date="2016-06-26T12:03:23+00:00">
+<div class="post" data-post-id="36977" data-author="Yasik" data-date="2016-06-26T12:03:23+00:00" data-subject="Re: wwwpass">
 
 Nope, sorry, it doesnt.
 
@@ -106,7 +106,7 @@ Let us remind all the necessary steps.
 
 </div>
 
-<div class="post" data-post-id="36978" data-author="Yasik" data-date="2016-06-26T12:07:33+00:00">
+<div class="post" data-post-id="36978" data-author="Yasik" data-date="2016-06-26T12:07:33+00:00" data-subject="Re: wwwpass">
 
 Honestly I dont this this all is a very good idea, because its inconvenient and too much spread of attention.
 
@@ -138,7 +138,7 @@ You got the idea.
 
 </div>
 
-<div class="post" data-post-id="36979" data-author="*Breeze*" data-date="2016-06-26T13:13:40+00:00">
+<div class="post" data-post-id="36979" data-author="*Breeze*" data-date="2016-06-26T13:13:40+00:00" data-subject="Re: wwwpass">
 
 > **Yasik wrote:**
 > Nope, sorry, it doesnt.
@@ -226,13 +226,13 @@ its set to top 20 because thats what the original designer of that code did.
 
 </div>
 
-<div class="post" data-post-id="36980" data-author="Yasik" data-date="2016-06-26T13:27:56+00:00">
+<div class="post" data-post-id="36980" data-author="Yasik" data-date="2016-06-26T13:27:56+00:00" data-subject="Re: wwwpass">
 
 Do we need to rent and wait offline for wwwpass to propagate?
 
 </div>
 
-<div class="post" data-post-id="36981" data-author="*Breeze*" data-date="2016-06-26T13:39:34+00:00">
+<div class="post" data-post-id="36981" data-author="*Breeze*" data-date="2016-06-26T13:39:34+00:00" data-subject="Re: wwwpass">
 
 > **Yasik wrote:**
 > Do we need to rent and wait offline for wwwpass to propagate?
@@ -245,13 +245,13 @@ if you see rick, ask him what the sync time is and if it is syncing still.
 
 </div>
 
-<div class="post" data-post-id="36982" data-author="*Splork*" data-date="2016-06-26T14:29:54+00:00">
+<div class="post" data-post-id="36982" data-author="*Splork*" data-date="2016-06-26T14:29:54+00:00" data-subject="Re: wwwpass">
 
 I restarted my server few days ago which is why its probably not syncing. I will restart the service when I get home today.
 
 </div>
 
-<div class="post" data-post-id="36984" data-author="*Breeze*" data-date="2016-06-26T19:51:32+00:00">
+<div class="post" data-post-id="36984" data-author="*Breeze*" data-date="2016-06-26T19:51:32+00:00" data-subject="Re: wwwpass">
 
 > ***Splork* wrote:**
 > I restarted my server few days ago which is why its probably not syncing. I will restart the service when I get home today.
@@ -260,7 +260,7 @@ thanks :)
 
 </div>
 
-<div class="post" data-post-id="36985" data-author="*Breeze*" data-date="2016-06-26T20:53:50+00:00">
+<div class="post" data-post-id="36985" data-author="*Breeze*" data-date="2016-06-26T20:53:50+00:00" data-subject="Re: wwwpass">
 
 go secondary verification that old logins work.
 
@@ -268,7 +268,7 @@ if you cant login, wait for Splork to restart the sync service and ** PROFIT **
 
 </div>
 
-<div class="post" data-post-id="36993" data-author="Yasik" data-date="2016-06-27T08:33:30+00:00">
+<div class="post" data-post-id="36993" data-author="Yasik" data-date="2016-06-27T08:33:30+00:00" data-subject="Re: wwwpass">
 
 Ok, so I login back after 8+ hours of rent, and guess what - it doesnt let me in.
 
@@ -278,13 +278,13 @@ If anyone wants to investigate and get to the root of problem - I'm all yours.
 
 </div>
 
-<div class="post" data-post-id="36994" data-author="*Splork*" data-date="2016-06-27T11:03:10+00:00">
+<div class="post" data-post-id="36994" data-author="*Splork*" data-date="2016-06-27T11:03:10+00:00" data-subject="Re: wwwpass">
 
 As I most clearly stated, I need to restart the service on my end. When I do, I will let be sure to let you know, as it appears to be of much importance to you.
 
 </div>
 
-<div class="post" data-post-id="37000" data-author="Yasik" data-date="2016-06-29T14:55:51+00:00">
+<div class="post" data-post-id="37000" data-author="Yasik" data-date="2016-06-29T14:55:51+00:00" data-subject="Re: wwwpass">
 
 Thanks to Breeze I can confirm that the issue is fixed now, I was able to login and check my current char's stats page.
 
@@ -292,13 +292,13 @@ Still, there is little bugs left - ingame quests and website quests are not enti
 
 </div>
 
-<div class="post" data-post-id="37001" data-author="Yasik" data-date="2016-06-29T14:59:55+00:00">
+<div class="post" data-post-id="37001" data-author="Yasik" data-date="2016-06-29T14:59:55+00:00" data-subject="Re: wwwpass">
 
 One more question arises : in "Vaults" section - which password needs to be entered? wwwpass, character pass to login to the game, vault combo, forum password, or only the char that bought the vault can see its contents?
 
 </div>
 
-<div class="post" data-post-id="37002" data-author="*Breeze*" data-date="2016-06-29T17:38:06+00:00">
+<div class="post" data-post-id="37002" data-author="*Breeze*" data-date="2016-06-29T17:38:06+00:00" data-subject="Re: wwwpass">
 
 vaults page is linked to my mortal Whiff's vault only.
 
@@ -603,13 +603,13 @@ either way, its a dead end.   just like the epic army expansion i did and tried 
 
 </div>
 
-<div class="post" data-post-id="37004" data-author="Teron" data-date="2016-06-29T19:19:58+00:00">
+<div class="post" data-post-id="37004" data-author="Teron" data-date="2016-06-29T19:19:58+00:00" data-subject="Re: wwwpass">
 
 Aww :(
 
 </div>
 
-<div class="post" data-post-id="37007" data-author="Yasik" data-date="2016-06-29T20:09:06+00:00">
+<div class="post" data-post-id="37007" data-author="Yasik" data-date="2016-06-29T20:09:06+00:00" data-subject="Re: wwwpass">
 
 Breeze, I think there is not much stuff to actually "design" in vault section, just display vaults' content with room_number from lowest to highest just like in your code, as if you copy-paste vault content when we do "list" in vault room. Without fancy stuff, plain and simple, minimalistic effective.
 
@@ -619,7 +619,7 @@ Regarding rank/army redesign, it seems I missed something.
 
 </div>
 
-<div class="post" data-post-id="37011" data-author="*Breeze*" data-date="2016-06-30T07:32:24+00:00">
+<div class="post" data-post-id="37011" data-author="*Breeze*" data-date="2016-06-30T07:32:24+00:00" data-subject="Re: wwwpass">
 
 not doing it.
 
@@ -657,7 +657,7 @@ epic army code was on / around  May 2, 2014  according to my emails.  good luck 
 
 </div>
 
-<div class="post" data-post-id="37216" data-author="*Idjit*" data-date="2016-08-10T23:38:08+00:00">
+<div class="post" data-post-id="37216" data-author="*Idjit*" data-date="2016-08-10T23:38:08+00:00" data-subject="Re: wwwpass">
 
 wwwpass not talking to the website again.
 
@@ -669,13 +669,13 @@ Does it store pending wwwpass changes until the next time the service is synched
 
 </div>
 
-<div class="post" data-post-id="37217" data-author="*Breeze*" data-date="2016-08-10T23:46:40+00:00">
+<div class="post" data-post-id="37217" data-author="*Breeze*" data-date="2016-08-10T23:46:40+00:00" data-subject="Re: wwwpass">
 
 should be within the hour. log out/in after setting it
 
 </div>
 
-<div class="post" data-post-id="37304" data-author="*Idjit*" data-date="2016-08-28T20:58:13+00:00">
+<div class="post" data-post-id="37304" data-author="*Idjit*" data-date="2016-08-28T20:58:13+00:00" data-subject="Re: wwwpass">
 
 I don't necessarily want a whole bunch of new features for wwwpass.
 
@@ -699,7 +699,7 @@ So that folks have some idea what to expect other than trial and error.
 
 </div>
 
-<div class="post" data-post-id="37307" data-author="*Splork*" data-date="2016-08-28T23:57:35+00:00">
+<div class="post" data-post-id="37307" data-author="*Splork*" data-date="2016-08-28T23:57:35+00:00" data-subject="Re: wwwpass">
 
 An easy way to tell if WWWPass is working is to look at the live blog on the home page, if thats updating the wwwpass usually is also.
 
@@ -709,7 +709,7 @@ I will look into it more in the next few days.
 
 </div>
 
-<div class="post" data-post-id="37315" data-author="Tuck" data-date="2016-08-30T08:56:11+00:00">
+<div class="post" data-post-id="37315" data-author="Tuck" data-date="2016-08-30T08:56:11+00:00" data-subject="Re: wwwpass">
 
 Jeez, yasik's vault is full of noob sh1t.
 

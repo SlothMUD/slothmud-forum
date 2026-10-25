@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="3825" data-author="Yasik" data-date="2005-01-19T01:24:18+00:00">
+<div class="post" data-post-id="3825" data-author="Yasik" data-date="2005-01-19T01:24:18+00:00" data-subject="MUD Clients">
 
 Greetings, fellas!
 
@@ -72,7 +72,7 @@ PPS. Sorry for poor english (i tried my best) and sorry if i posted it in wrong 
 
 </div>
 
-<div class="post" data-post-id="3826" data-author="Avatar" data-date="2005-01-19T02:00:59+00:00">
+<div class="post" data-post-id="3826" data-author="Avatar" data-date="2005-01-19T02:00:59+00:00" data-subject="">
 
 There's a little bit of a learning curve when you start to use Mushclient, but once you get a little practice it gets much easier.
 
@@ -86,7 +86,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="3828" data-author="Strago" data-date="2005-01-19T04:48:01+00:00">
+<div class="post" data-post-id="3828" data-author="Strago" data-date="2005-01-19T04:48:01+00:00" data-subject="">
 
 I am using 2 right now, tintin++ from work (majority of my mud time) and Zmud at home. After the initial month of using Zmud I turned the automapper off. Once you get your head into the mud and out of graphics you are all set.
 
@@ -98,13 +98,13 @@ I guess I am still searching for that perfect client. I am leaning more and more
 
 </div>
 
-<div class="post" data-post-id="3831" data-author="Weasel" data-date="2005-01-19T11:02:55+00:00">
+<div class="post" data-post-id="3831" data-author="Weasel" data-date="2005-01-19T11:02:55+00:00" data-subject="">
 
 Been using MUSHclient for a couple of years and will certainly be sticking with it. Awesome no-holds-barred client.
 
 </div>
 
-<div class="post" data-post-id="3937" data-author="Nascosto" data-date="2005-01-25T04:49:00+00:00">
+<div class="post" data-post-id="3937" data-author="Nascosto" data-date="2005-01-25T04:49:00+00:00" data-subject="">
 
 >> Refused to run on next day. Cant even see it in Process list - dont know if its Zmud's or our 'favorite' OS' 'feature' Smile 
 

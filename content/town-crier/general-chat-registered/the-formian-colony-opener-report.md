@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36537" data-author="Teron" data-date="2016-01-24T10:38:14+00:00">
+<div class="post" data-post-id="36537" data-author="Teron" data-date="2016-01-24T10:38:14+00:00" data-subject="The Formian Colony Opener Report">
 
 Since no one is posting an opener recap, I will.
 
@@ -172,7 +172,7 @@ Thanks Josiah for tanking, Crumbs for managing healo and healing, Dr for endless
 
 </div>
 
-<div class="post" data-post-id="36540" data-author="*Neptune*" data-date="2016-01-24T19:02:27+00:00">
+<div class="post" data-post-id="36540" data-author="*Neptune*" data-date="2016-01-24T19:02:27+00:00" data-subject="Re: The Formian Colony Opener Report">
 
 Greetings,
 
@@ -192,7 +192,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36541" data-author="Teron" data-date="2016-01-25T02:04:43+00:00">
+<div class="post" data-post-id="36541" data-author="Teron" data-date="2016-01-25T02:04:43+00:00" data-subject="Re: The Formian Colony Opener Report">
 
 Right, the correct cps are:
 

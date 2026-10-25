@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34857" data-author="DarkArtist" data-date="2014-02-07T19:17:44+00:00">
+<div class="post" data-post-id="34857" data-author="DarkArtist" data-date="2014-02-07T19:17:44+00:00" data-subject="Can Room Number please update on change?">
 
 Instead of sending MSDPROOM_NUMBER on a timed interval, would it be possible to please have it update everytime it changes instead?
 
@@ -30,7 +30,7 @@ Pretty pls. Thanks for considering!
 
 </div>
 
-<div class="post" data-post-id="34858" data-author="*Splork*" data-date="2014-02-07T23:28:39+00:00">
+<div class="post" data-post-id="34858" data-author="*Splork*" data-date="2014-02-07T23:28:39+00:00" data-subject="Re: Can Room Number please update on change?">
 
 The delay is about a second, sometimes a bit more or sometimes a bit less, depending on when the last "pulse" passed. I will move the function and cut the time in half which should make it pretty much automatic. 
 
@@ -42,7 +42,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34859" data-author="DarkArtist" data-date="2014-02-08T13:26:36+00:00">
+<div class="post" data-post-id="34859" data-author="DarkArtist" data-date="2014-02-08T13:26:36+00:00" data-subject="Re: Can Room Number please update on change?">
 
 Thanks much :) Happy to test it.
 

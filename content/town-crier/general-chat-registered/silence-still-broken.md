@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10412" data-author="Shara" data-date="2006-01-30T02:38:16+00:00">
+<div class="post" data-post-id="10412" data-author="Shara" data-date="2006-01-30T02:38:16+00:00" data-subject="Silence still broken">
 
 Water golem at the exit to water planes still casts while silenced :(
 

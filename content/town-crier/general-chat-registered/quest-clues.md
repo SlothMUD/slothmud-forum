@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="29512" data-author="Chelle" data-date="2009-06-13T15:18:00+00:00">
+<div class="post" data-post-id="29512" data-author="Chelle" data-date="2009-06-13T15:18:00+00:00" data-subject="Quest clues">
 
 Hint1:
 
@@ -100,7 +100,7 @@ into solid stone like it was butter.
 
 </div>
 
-<div class="post" data-post-id="29513" data-author="Rigwarl" data-date="2009-06-13T15:22:25+00:00">
+<div class="post" data-post-id="29513" data-author="Rigwarl" data-date="2009-06-13T15:22:25+00:00" data-subject="">
 
 [indoors] [12:37 pm] [Location:The Dragon Mountain]>
 
@@ -130,7 +130,7 @@ Top of the map
 
 </div>
 
-<div class="post" data-post-id="29514" data-author="Chelle" data-date="2009-06-13T15:40:02+00:00">
+<div class="post" data-post-id="29514" data-author="Chelle" data-date="2009-06-13T15:40:02+00:00" data-subject="">
 
 Tiamat the dragon queen is dead! R.I.P.
 
@@ -228,7 +228,7 @@ ground.
 
 </div>
 
-<div class="post" data-post-id="29515" data-author="Chelle" data-date="2009-06-13T15:49:24+00:00">
+<div class="post" data-post-id="29515" data-author="Chelle" data-date="2009-06-13T15:49:24+00:00" data-subject="">
 
 a piece of a map (mob 1):
 
@@ -262,7 +262,7 @@ From the Island's dock, run east, east, north, east, south.
 
 </div>
 
-<div class="post" data-post-id="29516" data-author="Rigwarl" data-date="2009-06-13T15:51:52+00:00">
+<div class="post" data-post-id="29516" data-author="Rigwarl" data-date="2009-06-13T15:51:52+00:00" data-subject="">
 
 The immense frame of the Craw Wurm pulverizes whole skeletons beneath its 
 
@@ -290,7 +290,7 @@ a piece of a map
 
 </div>
 
-<div class="post" data-post-id="29517" data-author="Rigwarl" data-date="2009-06-13T15:58:50+00:00">
+<div class="post" data-post-id="29517" data-author="Rigwarl" data-date="2009-06-13T15:58:50+00:00" data-subject="">
 
 Small clusters of warts can be seen on the chest of the creature which 
 
@@ -318,7 +318,7 @@ an exquisite mirror..It has a soft glowing aura!
 
 </div>
 
-<div class="post" data-post-id="29518" data-author="Rigwarl" data-date="2009-06-13T16:06:02+00:00">
+<div class="post" data-post-id="29518" data-author="Rigwarl" data-date="2009-06-13T16:06:02+00:00" data-subject="">
 
 [indoors] [8:43 am] [Location:Xanthippe]>
 
@@ -348,7 +348,7 @@ a piece of a map
 
 </div>
 
-<div class="post" data-post-id="29519" data-author="Medios" data-date="2009-06-13T16:11:13+00:00">
+<div class="post" data-post-id="29519" data-author="Medios" data-date="2009-06-13T16:11:13+00:00" data-subject="">
 
 ill be back in 10 min
 
@@ -356,7 +356,7 @@ medusa looks like one
 
 </div>
 
-<div class="post" data-post-id="29520" data-author="Rigwarl" data-date="2009-06-13T16:26:42+00:00">
+<div class="post" data-post-id="29520" data-author="Rigwarl" data-date="2009-06-13T16:26:42+00:00" data-subject="">
 
 [indoors] [5:41 am] [Location:Tabaxi Wilds]>
 
@@ -392,7 +392,7 @@ a glowing sliver of steel..It emits a faint humming sound!
 
 </div>
 
-<div class="post" data-post-id="29521" data-author="Chelle" data-date="2009-06-13T16:32:39+00:00">
+<div class="post" data-post-id="29521" data-author="Chelle" data-date="2009-06-13T16:32:39+00:00" data-subject="">
 
 Dirs to Temple of Neptune:
 
@@ -400,7 +400,7 @@ Dirs to Temple of Neptune:
 
 </div>
 
-<div class="post" data-post-id="29522" data-author="Chelle" data-date="2009-06-13T16:39:21+00:00">
+<div class="post" data-post-id="29522" data-author="Chelle" data-date="2009-06-13T16:39:21+00:00" data-subject="">
 
 EQ so far...
 
@@ -578,7 +578,7 @@ Can affect you as:
 
 </div>
 
-<div class="post" data-post-id="29526" data-author="Chelle" data-date="2009-06-13T18:26:12+00:00">
+<div class="post" data-post-id="29526" data-author="Chelle" data-date="2009-06-13T18:26:12+00:00" data-subject="">
 
 The items have been split. The rule was one random to a person. A person who randoms more than once does not get his following randoms counted after the first one. The people who won must have the restricts to use it or must be close to it unless it's a cp.
 

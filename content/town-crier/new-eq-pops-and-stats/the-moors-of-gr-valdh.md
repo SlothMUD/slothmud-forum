@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="35549" data-author="Magi" data-date="2014-12-07T02:28:58+00:00">
+<div class="post" data-post-id="35549" data-author="Magi" data-date="2014-12-07T02:28:58+00:00" data-subject="The Moors of Gr&#x27;Valdh">
 
 The Moors of Gr'Valdh pops lots of potions and random sbs from an usual list... mostly lowbie ones.  Mobs are between 50k and 10 million xp, mostly 1-2 mil.
 
@@ -127,7 +127,7 @@ a page torn from the gr'valdhic adventurer's guide popped during the area opener
 
 </div>
 
-<div class="post" data-post-id="35689" data-author="Teron" data-date="2015-02-12T20:28:23+00:00">
+<div class="post" data-post-id="35689" data-author="Teron" data-date="2015-02-12T20:28:23+00:00" data-subject="Re: The Moors of Gr&#x27;Valdh">
 
 I've got curious on who pops a +hit leg plates in the area, so I did 3 full area clean ups and a few more kills of the champion during the Island day.
 
@@ -219,7 +219,7 @@ I also popped some run of the mill sbs (water breath, cure minor, familiar, infr
 
 </div>
 
-<div class="post" data-post-id="35690" data-author="Garrick" data-date="2015-02-13T14:00:09+00:00">
+<div class="post" data-post-id="35690" data-author="Garrick" data-date="2015-02-13T14:00:09+00:00" data-subject="Re: The Moors of Gr&#x27;Valdh">
 
 I went through this area several times to search for whatever gear remained unexplained about on here, and I only was able to find 1 piece, a beaver skin belt fom the giant beavers on the east side of the map. I only killed them about 3 times each (6 total beavers or so) and got 2 belts to drop. The stats of the belt are as follows: 
 
@@ -245,7 +245,7 @@ Seems likea reasonably decent caster item, but I got the drop on Island day so i
 
 </div>
 
-<div class="post" data-post-id="35691" data-author="Teron" data-date="2015-02-13T21:30:42+00:00">
+<div class="post" data-post-id="35691" data-author="Teron" data-date="2015-02-13T21:30:42+00:00" data-subject="Re: The Moors of Gr&#x27;Valdh">
 
 I wonder if larger mobs pop anything. I havent killed as many giant moas as I'd had liked.
 
@@ -253,7 +253,7 @@ Also, I didnt kill the mastadon, figuring he doesnt have the leg plates - and is
 
 </div>
 
-<div class="post" data-post-id="39189" data-author="Gorka" data-date="2019-05-05T10:37:05+00:00">
+<div class="post" data-post-id="39189" data-author="Gorka" data-date="2019-05-05T10:37:05+00:00" data-subject="Re: The Moors of Gr&#x27;Valdh">
 
 Belrath and I have been trying to crack the riddle to the stone table in Moors of Gr'Valdh. Going to every room in the current map does not give complete exploration and it seems likely (but not for sure) that there is a trig trap at the room with the stone table. As part of our attempts I cycled the mastodon which finally loaded... Item should appear on the eqlist next refresh.
 

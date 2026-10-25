@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29227" data-author="*Splork*" data-date="2009-05-19T20:40:23+00:00">
+<div class="post" data-post-id="29227" data-author="*Splork*" data-date="2009-05-19T20:40:23+00:00" data-subject="Changes next reboot">
 
 1) Mob armorclass was always rounded up or down to the even number. They are now capable of having their armorclass entail tenths like yours do.
 
@@ -32,7 +32,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29244" data-author="*Splork*" data-date="2009-05-21T02:36:10+00:00">
+<div class="post" data-post-id="29244" data-author="*Splork*" data-date="2009-05-21T02:36:10+00:00" data-subject="battle focus">
 
 help battle focus
 

@@ -10,7 +10,7 @@ locked: true
 post_count: 23
 ---
 
-<div class="post" data-post-id="32859" data-author="Dragoth" data-date="2011-09-08T10:55:03+00:00">
+<div class="post" data-post-id="32859" data-author="Dragoth" data-date="2011-09-08T10:55:03+00:00" data-subject="Spot the difference,">
 
 Another special feature i just noticed.
 
@@ -166,7 +166,7 @@ Since necromancers primarily rely on their pets to get exp, why do pets give you
 
 </div>
 
-<div class="post" data-post-id="32860" data-author="*juggleblood*" data-date="2011-09-08T15:04:07+00:00">
+<div class="post" data-post-id="32860" data-author="*juggleblood*" data-date="2011-09-08T15:04:07+00:00" data-subject="Re: Spot the difference,">
 
 I admit to being a little out of the loop. I'm trying to catch up.
 
@@ -176,7 +176,7 @@ I clearly must be misunderstanding. Please straighten me out.
 
 </div>
 
-<div class="post" data-post-id="32861" data-author="Dragoth" data-date="2011-09-08T17:12:10+00:00">
+<div class="post" data-post-id="32861" data-author="Dragoth" data-date="2011-09-08T17:12:10+00:00" data-subject="Re: Spot the difference,">
 
 You are, obviously, out of the "loop". 
 
@@ -192,7 +192,7 @@ Why does this surprise you that i'am unhappy about it ?
 
 </div>
 
-<div class="post" data-post-id="32862" data-author="*Splork*" data-date="2011-09-08T17:50:35+00:00">
+<div class="post" data-post-id="32862" data-author="*Splork*" data-date="2011-09-08T17:50:35+00:00" data-subject="Re: Spot the difference,">
 
 Since the experience boost, apparently this bug is much more noticeable now. Insomniac brought it to our attention a month or so ago.
 
@@ -204,13 +204,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32863" data-author="Dragoth" data-date="2011-09-08T18:20:49+00:00">
+<div class="post" data-post-id="32863" data-author="Dragoth" data-date="2011-09-08T18:20:49+00:00" data-subject="Re: Spot the difference,">
 
 It probably comes from the fact that monsters gain experience for killing monsters too, so they steal their share.
 
 </div>
 
-<div class="post" data-post-id="32864" data-author="Insomniac" data-date="2011-09-08T19:34:57+00:00">
+<div class="post" data-post-id="32864" data-author="Insomniac" data-date="2011-09-08T19:34:57+00:00" data-subject="Re: Spot the difference,">
 
 Splork, as you know I totally understand that balancing the necromancer class took time and was a matter of carefully weighing up different options etc.
 
@@ -236,7 +236,7 @@ Thanks for making S4 a cool MUD to play.
 
 </div>
 
-<div class="post" data-post-id="32865" data-author="*juggleblood*" data-date="2011-09-08T19:43:07+00:00">
+<div class="post" data-post-id="32865" data-author="*juggleblood*" data-date="2011-09-08T19:43:07+00:00" data-subject="Re: Spot the difference,">
 
 I'm still blown away by the fact that pet kills give you xp now. When did that happen?
 
@@ -246,7 +246,7 @@ Even as clueless as I am, I can see that.
 
 </div>
 
-<div class="post" data-post-id="32866" data-author="Insomniac" data-date="2011-09-08T20:02:45+00:00">
+<div class="post" data-post-id="32866" data-author="Insomniac" data-date="2011-09-08T20:02:45+00:00" data-subject="Re: Spot the difference,">
 
 > ***juggleblood* wrote:**
 > I don't think you're getting the Dragoth. Changing it would simply be a big bonus for necro for no good reason.
@@ -255,7 +255,7 @@ I don't think you're clueless at all, Juggleblood but I'm afraid you're really t
 
 </div>
 
-<div class="post" data-post-id="32867" data-author="*Splork*" data-date="2011-09-08T22:36:55+00:00">
+<div class="post" data-post-id="32867" data-author="*Splork*" data-date="2011-09-08T22:36:55+00:00" data-subject="Re: Spot the difference,">
 
 Ive already discussed this with you Insomniac and my opinion is not going to change. 
 
@@ -267,7 +267,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32868" data-author="*Splork*" data-date="2011-09-09T02:13:03+00:00">
+<div class="post" data-post-id="32868" data-author="*Splork*" data-date="2011-09-09T02:13:03+00:00" data-subject="Re: Spot the difference,">
 
 Ive tested the issue regarding necromancer followers and gems not popping. I set the rate for gem pops to 1/1. The followers killed the mob, and the gem loaded, as it should.
 
@@ -297,7 +297,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32869" data-author="Stark" data-date="2011-09-09T04:02:45+00:00">
+<div class="post" data-post-id="32869" data-author="Stark" data-date="2011-09-09T04:02:45+00:00" data-subject="Re: Spot the difference,">
 
 > ***Splork* wrote:**
 > Ive tested the issue regarding necromancer followers and gems not popping. I set the rate for gem pops to 1/1. The followers killed the mob, and the gem loaded, as it should.
@@ -322,7 +322,7 @@ Thanks for being awesome and actually testing and showing results of suspected i
 
 </div>
 
-<div class="post" data-post-id="32870" data-author="Dragoth" data-date="2011-09-09T05:36:01+00:00">
+<div class="post" data-post-id="32870" data-author="Dragoth" data-date="2011-09-09T05:36:01+00:00" data-subject="Re: Spot the difference,">
 
 I'm sorry but, Necro class, balanced ? In what universe is necro class balanced ? 
 
@@ -338,7 +338,7 @@ And as Insomniac is saying, it's not a big whoop that our pets steal our exp, bu
 
 </div>
 
-<div class="post" data-post-id="32872" data-author="Dragoth" data-date="2011-09-09T05:56:11+00:00">
+<div class="post" data-post-id="32872" data-author="Dragoth" data-date="2011-09-09T05:56:11+00:00" data-subject="Re: Spot the difference,">
 
 Your biggest problem is that you are too concerned, about how much experience your players are getting, while in reality, it should be the least of your worries; numerous complaints regarding the game becoming too slow and grindy after 4x40 is an obvious giveaway.
 
@@ -348,7 +348,7 @@ What you should concern yourself with instead, is whether your players are havin
 
 </div>
 
-<div class="post" data-post-id="32873" data-author="*Splork*" data-date="2011-09-09T06:20:48+00:00">
+<div class="post" data-post-id="32873" data-author="*Splork*" data-date="2011-09-09T06:20:48+00:00" data-subject="Re: Spot the difference,">
 
 Dragoth, are you serious right now? 
 
@@ -392,7 +392,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32874" data-author="jezer" data-date="2011-09-09T07:04:47+00:00">
+<div class="post" data-post-id="32874" data-author="jezer" data-date="2011-09-09T07:04:47+00:00" data-subject="Re: Spot the difference,">
 
 The real question is has Akasha redone the coliseum yet?  :wink:  :twisted:
 
@@ -400,7 +400,7 @@ Is the 250 room area Atlantis?
 
 </div>
 
-<div class="post" data-post-id="32875" data-author="Dragoth" data-date="2011-09-09T08:12:12+00:00">
+<div class="post" data-post-id="32875" data-author="Dragoth" data-date="2011-09-09T08:12:12+00:00" data-subject="Re: Spot the difference,">
 
 The issue that i raised in this topic is not about me wanting bigger exp, i plainly dont care about it, what i DO care about, however, is being ripped off for something i shouldnt be. If you want to make necro class less powerful or get less exp, then fine - reduce the damage undeads do, or make destruction cost more mana or do less damage, but i object to my prime ability giving me less experience when used correctly. It's like giving mage prime's frostbolt a 25% exp penalty every time a mage kills something with it, that is just wrong. 
 
@@ -412,7 +412,7 @@ I will say this again, I dont care if i get less exp than anybody else, i dont c
 
 </div>
 
-<div class="post" data-post-id="32876" data-author="Dragoth" data-date="2011-09-09T08:33:52+00:00">
+<div class="post" data-post-id="32876" data-author="Dragoth" data-date="2011-09-09T08:33:52+00:00" data-subject="Re: Spot the difference,">
 
 And, i do play the game when i get some spare time, and i check mud updates and read the forum regularly, but some of the issues have been unresolved for what feels like decades and it makes me wonder.
 
@@ -420,13 +420,13 @@ And would you please stop making me look like the bad guy, which immortal have I
 
 </div>
 
-<div class="post" data-post-id="32877" data-author="Toxis" data-date="2011-09-09T09:16:39+00:00">
+<div class="post" data-post-id="32877" data-author="Toxis" data-date="2011-09-09T09:16:39+00:00" data-subject="Re: Spot the difference,">
 
 Atlantis would have been 325 rooms if I had finished mobs and eq, but that area is CURSED! CURSED, I tell you!
 
 </div>
 
-<div class="post" data-post-id="32878" data-author="Insomniac" data-date="2011-09-09T09:35:00+00:00">
+<div class="post" data-post-id="32878" data-author="Insomniac" data-date="2011-09-09T09:35:00+00:00" data-subject="Re: Spot the difference,">
 
 Thank you very much for checking out of the gem bug. As I was typing this post, I popped my first ever gem from a pet kill so that clears that up :)
 
@@ -478,7 +478,7 @@ As a necro, my damage is done over many rounds and since mobs hit so hard on lym
 
 </div>
 
-<div class="post" data-post-id="32880" data-author="*juggleblood*" data-date="2011-09-09T11:51:14+00:00">
+<div class="post" data-post-id="32880" data-author="*juggleblood*" data-date="2011-09-09T11:51:14+00:00" data-subject="Re: Spot the difference,">
 
 Dragoth I'm a jerk for pointing out the obvious that necro's don't need a huge experience increase?
 
@@ -486,7 +486,7 @@ You keep saying it's not about the XP. But that's exactly what you're talking ab
 
 </div>
 
-<div class="post" data-post-id="32881" data-author="*Splork*" data-date="2011-09-09T13:49:28+00:00">
+<div class="post" data-post-id="32881" data-author="*Splork*" data-date="2011-09-09T13:49:28+00:00" data-subject="Re: Spot the difference,">
 
 Re: Dragoth quote 
 
@@ -506,7 +506,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32882" data-author="*Neptune*" data-date="2011-09-09T15:21:53+00:00">
+<div class="post" data-post-id="32882" data-author="*Neptune*" data-date="2011-09-09T15:21:53+00:00" data-subject="Re: Spot the difference,">
 
 Alas, when even the stars have spewed all that they can spew, there shall for
 
@@ -524,7 +524,7 @@ as you may as I believe you will.
 
 </div>
 
-<div class="post" data-post-id="32883" data-author="Insomniac" data-date="2011-09-09T15:58:50+00:00">
+<div class="post" data-post-id="32883" data-author="Insomniac" data-date="2011-09-09T15:58:50+00:00" data-subject="Re: Spot the difference,">
 
 OK, Splork. Thanks for listening. Will liaise with Tox with ideas.
 

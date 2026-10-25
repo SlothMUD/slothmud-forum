@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34160" data-author="*Splork*" data-date="2013-03-17T14:57:00+00:00">
+<div class="post" data-post-id="34160" data-author="*Splork*" data-date="2013-03-17T14:57:00+00:00" data-subject="Cap Increases">
 
 To piggyback off of http://www.slothmud.org/forum/viewtopic.php?f=28&t=3845
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 45
 ---
 
-<div class="post" data-post-id="26227" data-author="jezer" data-date="2008-09-11T02:37:57+00:00">
+<div class="post" data-post-id="26227" data-author="jezer" data-date="2008-09-11T02:37:57+00:00" data-subject="Shifted Crapma Eq">
 
 <REPEAT>
 
@@ -74,31 +74,31 @@ Ok...  :roll:
 
 </div>
 
-<div class="post" data-post-id="26228" data-author="alias" data-date="2008-09-11T02:51:06+00:00">
+<div class="post" data-post-id="26228" data-author="alias" data-date="2008-09-11T02:51:06+00:00" data-subject="">
 
 The answer is you are powerful enough shifted...spend your drachma on eq you need to stay alive when your not shifted.
 
 </div>
 
-<div class="post" data-post-id="26229" data-author="jezer" data-date="2008-09-11T02:51:52+00:00">
+<div class="post" data-post-id="26229" data-author="jezer" data-date="2008-09-11T02:51:52+00:00" data-subject="">
 
 [img:1fbzcgfr]http://www.epa.gov/oppt/itc/pubs/tscacbitesting/images/wrong.jpg[/img:1fbzcgfr]
 
 </div>
 
-<div class="post" data-post-id="26230" data-author="*juggleblood*" data-date="2008-09-11T03:19:23+00:00">
+<div class="post" data-post-id="26230" data-author="*juggleblood*" data-date="2008-09-11T03:19:23+00:00" data-subject="">
 
 start a new classo?
 
 </div>
 
-<div class="post" data-post-id="26231" data-author="jezer" data-date="2008-09-11T03:21:25+00:00">
+<div class="post" data-post-id="26231" data-author="jezer" data-date="2008-09-11T03:21:25+00:00" data-subject="">
 
 [img:1h0r1hhm]http://www.flint.lib.mi.us/events/poetryMonth/2005/quiz/images/incorrect.jpg[/img:1h0r1hhm]
 
 </div>
 
-<div class="post" data-post-id="26233" data-author="Weasel" data-date="2008-09-11T03:43:33+00:00">
+<div class="post" data-post-id="26233" data-author="Weasel" data-date="2008-09-11T03:43:33+00:00" data-subject="Re: Shifted Crapma Eq">
 
 Why should I pay 500 Drachma to buy shield of the rose +1 ma regen when I already have 140ma regen?[/quote:dgx5fumq]
 
@@ -108,7 +108,7 @@ Yes you're quite right - that's way too much mana regen already.
 
 </div>
 
-<div class="post" data-post-id="26234" data-author="Mosaix" data-date="2008-09-11T03:48:23+00:00">
+<div class="post" data-post-id="26234" data-author="Mosaix" data-date="2008-09-11T03:48:23+00:00" data-subject="">
 
 I think what hes trying to say is that Ars Magica should NOT be shiftable, so he can spend his drachma on a shiftable stone token.
 
@@ -116,13 +116,13 @@ Yeah thats it :)
 
 </div>
 
-<div class="post" data-post-id="26235" data-author="jezer" data-date="2008-09-11T03:52:23+00:00">
+<div class="post" data-post-id="26235" data-author="jezer" data-date="2008-09-11T03:52:23+00:00" data-subject="">
 
 [img:kygp966x]http://media.ebaumsworld.com/picture/fretshred100/Wrong.png[/img:kygp966x]
 
 </div>
 
-<div class="post" data-post-id="26236" data-author="Rynquald" data-date="2008-09-11T06:15:58+00:00">
+<div class="post" data-post-id="26236" data-author="Rynquald" data-date="2008-09-11T06:15:58+00:00" data-subject="">
 
 Not to take the non-druid side, but what stats would really be useful on shiftable drach eq?
 
@@ -132,7 +132,7 @@ Shifting chars are in the enviable position of being pretty much fine with no eq
 
 </div>
 
-<div class="post" data-post-id="26237" data-author="jezer" data-date="2008-09-11T06:48:51+00:00">
+<div class="post" data-post-id="26237" data-author="jezer" data-date="2008-09-11T06:48:51+00:00" data-subject="">
 
 [img:2ll0kqv1]http://www.gasolinealleyantiques.com/cartoon/images/opus/bk-incorrect.JPG[/img:2ll0kqv1]
 
@@ -150,7 +150,7 @@ I will have a full blown argument with some of your other points... but I'm in a
 
 </div>
 
-<div class="post" data-post-id="26238" data-author="Rynquald" data-date="2008-09-11T07:44:19+00:00">
+<div class="post" data-post-id="26238" data-author="Rynquald" data-date="2008-09-11T07:44:19+00:00" data-subject="">
 
 Sorry, I meant one piece of drachma eq. Since there are no ingame .8 necks without nc restricts. That was some poor phrasing now I re-read it :)
 
@@ -162,7 +162,7 @@ Also, I'm all for new drachma eq for all classos, I just can't see much eq that 
 
 </div>
 
-<div class="post" data-post-id="26239" data-author="jezer" data-date="2008-09-11T07:55:42+00:00">
+<div class="post" data-post-id="26239" data-author="jezer" data-date="2008-09-11T07:55:42+00:00" data-subject="">
 
 I'm still confused...  :cry: 
 
@@ -172,7 +172,7 @@ Also I don't see any -0.8ac drachma neck eq on the eq list. If there is some, I'
 
 </div>
 
-<div class="post" data-post-id="26240" data-author="Rynquald" data-date="2008-09-11T08:19:40+00:00">
+<div class="post" data-post-id="26240" data-author="Rynquald" data-date="2008-09-11T08:19:40+00:00" data-subject="">
 
 Okay, I mean all the normal shift ac eq plus one piece of drachma eq, a .8 neck.
 
@@ -190,7 +190,7 @@ Since there are no .8 necks ingame that don't need a nc class (unless something 
 
 </div>
 
-<div class="post" data-post-id="26241" data-author="jezer" data-date="2008-09-11T08:58:18+00:00">
+<div class="post" data-post-id="26241" data-author="jezer" data-date="2008-09-11T08:58:18+00:00" data-subject="">
 
 Stryx kindly showed me what he wears in his eq modes, in none of them he wears -0.8ac necks, as far as I know there are none, ingame or in questshop 4 x casters can wear...
 
@@ -236,7 +236,7 @@ Stick this in ya pipes and smoke it, all ya non-shifters!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="26242" data-author="Rynquald" data-date="2008-09-11T09:16:14+00:00">
+<div class="post" data-post-id="26242" data-author="Rynquald" data-date="2008-09-11T09:16:14+00:00" data-subject="">
 
 Out of curiosity, what does Stryx wear to get the full -1 in piasa gear?
 
@@ -244,7 +244,7 @@ I can only see how to get -.9 without some kind of .8 neckwear, so I guess I'm m
 
 </div>
 
-<div class="post" data-post-id="26243" data-author="jezer" data-date="2008-09-11T09:21:19+00:00">
+<div class="post" data-post-id="26243" data-author="jezer" data-date="2008-09-11T09:21:19+00:00" data-subject="">
 
 Would seem he wears, 
 
@@ -258,7 +258,7 @@ Would seem he wears,
 
 </div>
 
-<div class="post" data-post-id="26244" data-author="Rynquald" data-date="2008-09-11T09:40:28+00:00">
+<div class="post" data-post-id="26244" data-author="Rynquald" data-date="2008-09-11T09:40:28+00:00" data-subject="">
 
 Nods, seems to be the only way.
 
@@ -266,19 +266,19 @@ After looking around, I can't find any .8 drach neckwear without nc restricts, w
 
 </div>
 
-<div class="post" data-post-id="26245" data-author="Tap" data-date="2008-09-11T10:05:03+00:00">
+<div class="post" data-post-id="26245" data-author="Tap" data-date="2008-09-11T10:05:03+00:00" data-subject="">
 
 There is. Imm(s) will add a shift-flag to avatar light. And if it has ac to it...
 
 </div>
 
-<div class="post" data-post-id="26246" data-author="Rynquald" data-date="2008-09-11T10:20:29+00:00">
+<div class="post" data-post-id="26246" data-author="Rynquald" data-date="2008-09-11T10:20:29+00:00" data-subject="">
 
 Oh right, I always forget you can get ac on tard lights.
 
 </div>
 
-<div class="post" data-post-id="26248" data-author="Yinao" data-date="2008-09-11T12:11:47+00:00">
+<div class="post" data-post-id="26248" data-author="Yinao" data-date="2008-09-11T12:11:47+00:00" data-subject="">
 
 [quote:1f2eok7e]Fifth, small perm spells on shifted eq is nice because we can't recast them when they drop and we are shifted! [/quote:1f2eok7e]
 
@@ -286,7 +286,7 @@ Oh right, I always forget you can get ac on tard lights.
 
 </div>
 
-<div class="post" data-post-id="26249" data-author="jezer" data-date="2008-09-11T12:40:28+00:00">
+<div class="post" data-post-id="26249" data-author="jezer" data-date="2008-09-11T12:40:28+00:00" data-subject="">
 
 [quote:10fyzg4c]Fifth, small perm spells on shifted eq is nice because we can't recast them when they drop and we are shifted! [/quote:10fyzg4c]
 
@@ -296,7 +296,7 @@ More thinking darksight, detects, infra, but hey, if that's on the cards... ;)
 
 </div>
 
-<div class="post" data-post-id="26250" data-author="strider" data-date="2008-09-11T14:12:06+00:00">
+<div class="post" data-post-id="26250" data-author="strider" data-date="2008-09-11T14:12:06+00:00" data-subject="">
 
 How sad that you can't currently run at max ac with maximized regen and damage. Welcome to the real world of sloth. As a shifter you've had it easy. Want -11ac, get iron skin and an item to let ya shift and WHAM! Ya got it. XP and one item must be a rough life. If only their was drachma eq to fill up every hole and make it easy, ya that's what we need. Instead of tanks having to waste a tard lite with .4ac and a 3x40 item for a big axe, lets make some prime weapon with 5d5 dice and .4ac on it, we are tanks after all we should have it! 
 
@@ -306,7 +306,7 @@ I must be grumpy this morning cause this almost seems mean. Don't take it as suc
 
 </div>
 
-<div class="post" data-post-id="26251" data-author="alias" data-date="2008-09-11T17:02:05+00:00">
+<div class="post" data-post-id="26251" data-author="alias" data-date="2008-09-11T17:02:05+00:00" data-subject="">
 
 Icy guards are listed on eq list as 3x40 or MWa,MMo when in fact they are 3x40 and MWa or 3x40 and MMo. 
 
@@ -320,7 +320,7 @@ And let me say its way more fun for me to play a shifter than my warrior or thie
 
 </div>
 
-<div class="post" data-post-id="26252" data-author="Mosaix" data-date="2008-09-11T17:21:33+00:00">
+<div class="post" data-post-id="26252" data-author="Mosaix" data-date="2008-09-11T17:21:33+00:00" data-subject="">
 
 Angry or not, your 100% correct Strider.
 
@@ -328,7 +328,7 @@ Shops need an overhaul for many classos.  Id love some Cleric options besides a 
 
 </div>
 
-<div class="post" data-post-id="26253" data-author="Medios" data-date="2008-09-11T20:57:37+00:00">
+<div class="post" data-post-id="26253" data-author="Medios" data-date="2008-09-11T20:57:37+00:00" data-subject="">
 
 Are you seriously bitching about druids?  OMG OMG
 
@@ -336,7 +336,7 @@ Let's talk about the Bard eq in the drachma shops, now thats a joke.  There is a
 
 </div>
 
-<div class="post" data-post-id="26260" data-author="jezer" data-date="2008-09-11T23:39:50+00:00">
+<div class="post" data-post-id="26260" data-author="jezer" data-date="2008-09-11T23:39:50+00:00" data-subject="">
 
 Chuckle!
 
@@ -356,13 +356,13 @@ WE WANT SOMETHING ELSE! WE WANT SOMETHING ELSE!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="26261" data-author="jezer" data-date="2008-09-11T23:42:19+00:00">
+<div class="post" data-post-id="26261" data-author="jezer" data-date="2008-09-11T23:42:19+00:00" data-subject="">
 
 [img:6c5vpjjw]http://www.leemcewan.com/serendipitybook/images/protest.jpg[/img:6c5vpjjw]
 
 </div>
 
-<div class="post" data-post-id="26262" data-author="jezer" data-date="2008-09-11T23:48:33+00:00">
+<div class="post" data-post-id="26262" data-author="jezer" data-date="2008-09-11T23:48:33+00:00" data-subject="">
 
 [img:37awgsf5]http://brushfires2008.com/Mel-Gibson---Braveheart--C10102033.jpeg[/img:37awgsf5]
 
@@ -370,13 +370,13 @@ Oh it's good to see the Mc Hagertys, the Mc DoWls and the Mc Gaidins come togeth
 
 </div>
 
-<div class="post" data-post-id="26264" data-author="Yinao" data-date="2008-09-12T00:47:56+00:00">
+<div class="post" data-post-id="26264" data-author="Yinao" data-date="2008-09-12T00:47:56+00:00" data-subject="">
 
 I enjoy my shield of the rose :)
 
 </div>
 
-<div class="post" data-post-id="26277" data-author="Weasel" data-date="2008-09-12T13:57:45+00:00">
+<div class="post" data-post-id="26277" data-author="Weasel" data-date="2008-09-12T13:57:45+00:00" data-subject="">
 
 Stop your whining - make another character if you don't like the one you made already.
 
@@ -384,13 +384,13 @@ Stop your whining - make another character if you don't like the one you made al
 
 </div>
 
-<div class="post" data-post-id="26280" data-author="jezer" data-date="2008-09-12T14:08:06+00:00">
+<div class="post" data-post-id="26280" data-author="jezer" data-date="2008-09-12T14:08:06+00:00" data-subject="">
 
 Funny you mention making a new char, I'd probably make a bard next for fun, they are even worse off, heh.
 
 </div>
 
-<div class="post" data-post-id="26281" data-author="Weasel" data-date="2008-09-12T14:14:07+00:00">
+<div class="post" data-post-id="26281" data-author="Weasel" data-date="2008-09-12T14:14:07+00:00" data-subject="">
 
 Thief primes have heaps of drachma eq available - lots of clasps too, and for double slots too (like ring claps)... gee I wonder why that is...
 
@@ -400,7 +400,7 @@ Would love to see all the other classes have even close to an equivalent amount 
 
 </div>
 
-<div class="post" data-post-id="26285" data-author="Ezekiel" data-date="2008-09-12T17:30:45+00:00">
+<div class="post" data-post-id="26285" data-author="Ezekiel" data-date="2008-09-12T17:30:45+00:00" data-subject="">
 
 I agree with Strider. Suck it up and stop whining. Aww..you can't get -12 shifted easily..i feel so sorry for you, considering no other class other than warrior prime SHOULD be able to get -12 as intended, hence heavy armor proficiency. Awww...25/100 is something you wish was easier to achieve...even though it is not achievable by any other class. No other class can have so many attacks with so much damage with so little effort for eq and stats, which would be minimal effort for the eq and no effort for stats...easy ass forges like band of ether for regen...and those terrifying highlands mobs that pop twisted thorn necklace and clasp oh my...you really have to work hard toward ac. Ever thought that maybe you were limited BECAUSE YOU WERE POWERFUL ENOUGH ALREADY? Most shifters have a nightmare stopping mob regen to accompany their good number of 25/100 strength attacks... and some can even berserk to take a hit in ac and do ridiculous damage or let gods of war carry over for a good while before ending while in battle.  You don't have to roll stats to affect your primary fight style and minimal eq is required. Suck it up and take regen eq or take eq for a secondary fight style...if there's nothing available for you, deal with it. Maybe the imms should reduce the shift ac and actually make you work for things like -11 through drachma in form...just the way mages with warrior in classo spend their drachma for -11 in max spellbonus. Maybe, since you're overpowered and still complaining, nerfs are the only way for them to give you the sufficient amount of drachma eq you'd like.
 
@@ -408,19 +408,19 @@ I agree with Strider. Suck it up and stop whining. Aww..you can't get -12 shifte
 
 </div>
 
-<div class="post" data-post-id="26286" data-author="Medios" data-date="2008-09-12T19:11:22+00:00">
+<div class="post" data-post-id="26286" data-author="Medios" data-date="2008-09-12T19:11:22+00:00" data-subject="">
 
 I agree with most of what Eze has to say.  However Druids do not hit the hardest.  They may be able to get 7 attacks with haste, but I will put Dogs or a good Warriors damage up against piasa all day.
 
 </div>
 
-<div class="post" data-post-id="26287" data-author="Ezekiel" data-date="2008-09-12T20:37:18+00:00">
+<div class="post" data-post-id="26287" data-author="Ezekiel" data-date="2008-09-12T20:37:18+00:00" data-subject="">
 
 shrug...was awfully funny..i remember some of the wa types having to double and triple team rynquald shifted when they had that deathmatch on different port before...can't rember who it was...don't know if any were DoW.
 
 </div>
 
-<div class="post" data-post-id="26288" data-author="Rynquald" data-date="2008-09-12T22:33:34+00:00">
+<div class="post" data-post-id="26288" data-author="Rynquald" data-date="2008-09-12T22:33:34+00:00" data-subject="">
 
 At one point piasa would probably have outdone the damage of most warrior type chars. But these days I'd probably bet on the (well made) warrior, buying weapondam helps a lot, or handdam for the monk route.
 
@@ -432,19 +432,19 @@ To be completely honest, I've been expecting to see shifting nerfed in some way 
 
 </div>
 
-<div class="post" data-post-id="26291" data-author="Yinao" data-date="2008-09-12T23:30:41+00:00">
+<div class="post" data-post-id="26291" data-author="Yinao" data-date="2008-09-12T23:30:41+00:00" data-subject="">
 
 Shrug my Piasa, chopped down Sa without using any other attacks aside from Melee and sa's capped Weapondam beyond other warriors that I know of...
 
 </div>
 
-<div class="post" data-post-id="26292" data-author="Rynquald" data-date="2008-09-13T00:28:25+00:00">
+<div class="post" data-post-id="26292" data-author="Rynquald" data-date="2008-09-13T00:28:25+00:00" data-subject="">
 
 Well yeah, my piasa eats Sa too :twisted:
 
 </div>
 
-<div class="post" data-post-id="26294" data-author="jezer" data-date="2008-09-13T00:42:54+00:00">
+<div class="post" data-post-id="26294" data-author="jezer" data-date="2008-09-13T00:42:54+00:00" data-subject="">
 
 Ah yes, more rants from people who wished they had avatar druids... whine whine whine... I'm crunchy rar rar rar. You got it good... wish I was like you... boo hoo hoo.
 
@@ -464,7 +464,7 @@ My point was we have 5 crap items in the elite eq shop, and why the heck should 
 
 </div>
 
-<div class="post" data-post-id="26295" data-author="Ezekiel" data-date="2008-09-13T01:25:07+00:00">
+<div class="post" data-post-id="26295" data-author="Ezekiel" data-date="2008-09-13T01:25:07+00:00" data-subject="">
 
 Yes...we're all so jealous of you, we have nothing to complain about because we actually know how to maximize our chars with or without most drachma eq...there was a time the weaver store didn't exist and quest eq was only given from imm run quests and weeklies. Mobs were harder and often took many more people to kill and people were killing them fine with no drachma eq and no complaining. Wake up...you're a newb the more you complain because you obviously can't utilize your character correctly.
 
@@ -472,7 +472,7 @@ Yes...we're all so jealous of you, we have nothing to complain about because we 
 
 </div>
 
-<div class="post" data-post-id="26296" data-author="Tap" data-date="2008-09-13T01:27:33+00:00">
+<div class="post" data-post-id="26296" data-author="Tap" data-date="2008-09-13T01:27:33+00:00" data-subject="">
 
 Aussie U
 
@@ -486,13 +486,13 @@ In one scene the man pulls the kangaroo towards him and uses his knee to hit the
 
 </div>
 
-<div class="post" data-post-id="26300" data-author="angel" data-date="2008-09-13T11:40:52+00:00">
+<div class="post" data-post-id="26300" data-author="angel" data-date="2008-09-13T11:40:52+00:00" data-subject="">
 
 3attack +riposte vs 2k+ hps 6attack  piasa... wait till i get my 2k hps! yinao, rynquald :))
 
 </div>
 
-<div class="post" data-post-id="26301" data-author="strider" data-date="2008-09-13T14:05:22+00:00">
+<div class="post" data-post-id="26301" data-author="strider" data-date="2008-09-13T14:05:22+00:00" data-subject="">
 
 I've been out of town so i'm sorry this is a little slow. 
 
@@ -504,13 +504,13 @@ Back to druids. Jezer it's easy to sit there and dismiss everyone else and claim
 
 </div>
 
-<div class="post" data-post-id="26302" data-author="Weasel" data-date="2008-09-13T14:28:25+00:00">
+<div class="post" data-post-id="26302" data-author="Weasel" data-date="2008-09-13T14:28:25+00:00" data-subject="">
 
 There looked to be a pretty good assortment to me anyway Strider, which is why I now have a couple of Thief prime newbie characters. :) Those razors are pretty expensive though, as you said, but nice. What I like too is that there seems to be so many options to chose from for Thief drachma eq, even if, as you said, much of it is just average. Clasps are always going to be good imho no matter how minimal you might consider them, because you don't have to sacrifice existing eq to wear them. Major bonus imho.
 
 </div>
 
-<div class="post" data-post-id="26720" data-author="jezer" data-date="2008-10-16T00:35:13+00:00">
+<div class="post" data-post-id="26720" data-author="jezer" data-date="2008-10-16T00:35:13+00:00" data-subject="">
 
 I'm [b:1eif4hat]nearly[/b:1eif4hat] at the end of my drachma campaign. I've bought the shield of the rose, and I'm 30dr away from boots of the forest walker. I also have a few of the bigger quests near completed which will see me being able to get the final 3rd piece, cloak of the tainted rose.
 

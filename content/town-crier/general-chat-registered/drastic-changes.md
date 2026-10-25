@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="32578" data-author="Angels" data-date="2011-05-08T02:28:20+00:00">
+<div class="post" data-post-id="32578" data-author="Angels" data-date="2011-05-08T02:28:20+00:00" data-subject="drastic changes....">
 
 First of all I do agree a change is called for in succor, but seriously, 24 minute life of a scroll and 1 hour life of staff. It seriously seems to be a bit drastic. Wouldn't a better solution be to have them poof if dropped with a bit longer life, say 1 hour on recalls and 2 hours on staffs?
 
@@ -18,13 +18,13 @@ And secondly... why punish everyone for the behavior of a couple people?
 
 </div>
 
-<div class="post" data-post-id="32580" data-author="Tuck" data-date="2011-05-08T10:45:23+00:00">
+<div class="post" data-post-id="32580" data-author="Tuck" data-date="2011-05-08T10:45:23+00:00" data-subject="Re: drastic changes....">
 
 As brad like to say: welcome to the struggle.
 
 </div>
 
-<div class="post" data-post-id="32581" data-author="Acedia" data-date="2011-05-08T13:45:00+00:00">
+<div class="post" data-post-id="32581" data-author="Acedia" data-date="2011-05-08T13:45:00+00:00" data-subject="Re: drastic changes....">
 
 Lament!  Lament! 
 
@@ -46,7 +46,7 @@ Acedia++
 
 </div>
 
-<div class="post" data-post-id="32582" data-author="Tuck" data-date="2011-05-08T20:44:48+00:00">
+<div class="post" data-post-id="32582" data-author="Tuck" data-date="2011-05-08T20:44:48+00:00" data-subject="Re: drastic changes....">
 
 Succor was abused, so one day it should be happened. Why you make such radically changes? You completely ruined succor spell. We will get mass bitching when staff will puff during chop run resulting in CF.
 
@@ -58,7 +58,7 @@ Tukster.
 
 </div>
 
-<div class="post" data-post-id="32583" data-author="Shyla" data-date="2011-05-08T21:18:09+00:00">
+<div class="post" data-post-id="32583" data-author="Shyla" data-date="2011-05-08T21:18:09+00:00" data-subject="Re: drastic changes....">
 
 there might be a lot of solutions for the abuse but for once wouldn't it be nice if people did NOT abuse the system in the first place so nothing would have to be done at all
 
@@ -68,7 +68,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="32586" data-author="Toxis" data-date="2011-05-09T00:17:15+00:00">
+<div class="post" data-post-id="32586" data-author="Toxis" data-date="2011-05-09T00:17:15+00:00" data-subject="Re: drastic changes....">
 
 Tuk, Stryx was the one who said "Welcome to the struggle".
 
@@ -76,7 +76,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="32587" data-author="*Splork*" data-date="2011-05-09T00:17:49+00:00">
+<div class="post" data-post-id="32587" data-author="*Splork*" data-date="2011-05-09T00:17:49+00:00" data-subject="Re: drastic changes....">
 
 Succor was not meant as a replacement for buying staves and recalls. We left this spell alone far too long. I find it highly ironic that one of the biggest abusers of the spell has the audacity to post a complaint inside of this thread, however it does not surprise me.
 
@@ -86,7 +86,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32588" data-author="Tuck" data-date="2011-05-09T00:20:34+00:00">
+<div class="post" data-post-id="32588" data-author="Tuck" data-date="2011-05-09T00:20:34+00:00" data-subject="Re: drastic changes....">
 
 > ***Splork* wrote:**
 > We are looking into other suggestions by players regarding this spell.
@@ -105,7 +105,7 @@ Tukster.
 
 </div>
 
-<div class="post" data-post-id="32591" data-author="Angels" data-date="2011-05-09T03:03:25+00:00">
+<div class="post" data-post-id="32591" data-author="Angels" data-date="2011-05-09T03:03:25+00:00" data-subject="Re: drastic changes....">
 
 Acedia ..maybe you should think about my comment and perhaps log in to see my title. My complaint isn't as you would see it apparently. The comment to drastic is taking something that didn't disappear at all and change it to something that doesn't even last 24 hours. So from forever to barely lasting is not a drastic change? The changes made to succor will not affect if i buy recalls and staffs at all. Hence the reason my title requests the Imm's to remove it from my learned list.  In the future don't be so negative towards the posters and be more productive to the thread. Had you actually interpreted what i said as i posted it. You should understand I agreed it needed changing. I didn't state that it was going to ruin the mud cause of the changes but voiced my opinion that I felt it was to drastic a change and provided a possible alternative or at least a direction the Imm's could look to improve the spell and not make it so drastic a change.
 
@@ -113,7 +113,7 @@ Also I appreciate hearing the Imm's are still thinking about the spell and the c
 
 </div>
 
-<div class="post" data-post-id="32592" data-author="Ezekiel" data-date="2011-05-09T03:57:19+00:00">
+<div class="post" data-post-id="32592" data-author="Ezekiel" data-date="2011-05-09T03:57:19+00:00" data-subject="Re: drastic changes....">
 
 Funny Tuk would post on this when I saw him succoring scrolls and staffs and auto dropping them at T&D, obviously afk. Over 100 scrolls, multiple, multiple staffs, etc.
 
@@ -121,7 +121,7 @@ Could the spell have used some revision? Sure...do i think this is drastic consi
 
 </div>
 
-<div class="post" data-post-id="32595" data-author="Nobody" data-date="2011-05-09T12:41:39+00:00">
+<div class="post" data-post-id="32595" data-author="Nobody" data-date="2011-05-09T12:41:39+00:00" data-subject="Re: drastic changes....">
 
 People sure have become so spoiled with a sense of false entitlement.
 
@@ -151,13 +151,13 @@ Nobody in particular
 
 </div>
 
-<div class="post" data-post-id="32596" data-author="Ezekiel" data-date="2011-05-09T16:09:20+00:00">
+<div class="post" data-post-id="32596" data-author="Ezekiel" data-date="2011-05-09T16:09:20+00:00" data-subject="Re: drastic changes....">
 
 I don't think anyone in this thread said they felt entitled to anything...i was here when there was no succor...and i was fine then...i am just not a fan of nerfing useable spells to the point in which they become unused...i laude the fact that the imms are open to player suggestions for this and scoff at posts like Acedia/Nobody in which they choose to flame others posts and put words in the mouth of others, rather than taking posts for what they actually say.
 
 </div>
 
-<div class="post" data-post-id="32597" data-author="Angels" data-date="2011-05-09T16:57:38+00:00">
+<div class="post" data-post-id="32597" data-author="Angels" data-date="2011-05-09T16:57:38+00:00" data-subject="Re: drastic changes....">
 
 > **Angels wrote:**
 > Wouldn't a better solution be to have them poof if dropped with a bit longer life, say 1 hour on recalls and 2 hours on staffs?
@@ -166,7 +166,7 @@ i really enjoy the way people read.
 
 </div>
 
-<div class="post" data-post-id="32598" data-author="Acedia" data-date="2011-05-09T18:25:12+00:00">
+<div class="post" data-post-id="32598" data-author="Acedia" data-date="2011-05-09T18:25:12+00:00" data-subject="Re: drastic changes....">
 
 Angels, as Ezekiel has shown, you are correct in asserting that being negative towards posters is quite unproductive.  For that, I apologize to you.  At the time of my initial post, I was quite irked by both Jezer's generic 'anti-nerf/irrelevant tangent' post (which I see has since been deleted) and Tuk's prosaic response (which has since been revealed to be quite hypocritical), so I admittedly replied in haste and with largely unnecessary vitriol.  Again, my apologies.  I have nothing for nor against you.
 
@@ -186,13 +186,13 @@ Acedia++
 
 </div>
 
-<div class="post" data-post-id="32599" data-author="Ezekiel" data-date="2011-05-09T19:00:24+00:00">
+<div class="post" data-post-id="32599" data-author="Ezekiel" data-date="2011-05-09T19:00:24+00:00" data-subject="Re: drastic changes....">
 
 Actually Acedia, I said I'm glad you all posted suggestions and that the imms were hearing them. No one here, yet again, said it was unproductive to post suggestions...but rather to flame someone's complaint by twisting their words to an extremity. Once again though, you have twisted my words and implied that i find your suggestion to be 'unproductive to the thread.'
 
 </div>
 
-<div class="post" data-post-id="32600" data-author="Acedia" data-date="2011-05-09T23:33:31+00:00">
+<div class="post" data-post-id="32600" data-author="Acedia" data-date="2011-05-09T23:33:31+00:00" data-subject="Re: drastic changes....">
 
 Dear Ezekiel,
 
@@ -216,7 +216,7 @@ Acedia++
 
 </div>
 
-<div class="post" data-post-id="32601" data-author="Shyla" data-date="2011-05-10T00:55:30+00:00">
+<div class="post" data-post-id="32601" data-author="Shyla" data-date="2011-05-10T00:55:30+00:00" data-subject="Re: drastic changes....">
 
 you are more then welcome to come to my happy go lucky world acedia I could use more citizen in Debonia.  It is getting rather lonely here
 
@@ -224,7 +224,7 @@ Shyla :)
 
 </div>
 
-<div class="post" data-post-id="32602" data-author="Angels" data-date="2011-05-10T04:30:06+00:00">
+<div class="post" data-post-id="32602" data-author="Angels" data-date="2011-05-10T04:30:06+00:00" data-subject="Re: drastic changes....">
 
 Acedia i  would really like to know what you would consider a drastic change? and never once did i say it would cause a struggle nor did i tell you your suggestions where " 'unproductive to the thread'!". For give me for thinking taking that something that never ever went away changed to something that didnt last more than 24 minutes real time was a drastic change.
 
@@ -234,7 +234,7 @@ Good bye... and thanks for making me feel welcome to comment. (NOT)
 
 </div>
 
-<div class="post" data-post-id="32603" data-author="Ezekiel" data-date="2011-05-12T05:39:53+00:00">
+<div class="post" data-post-id="32603" data-author="Ezekiel" data-date="2011-05-12T05:39:53+00:00" data-subject="Re: drastic changes....">
 
 People like Acedia are the reason many don't post here. Anyways...thanks to the rest of you for actually being constructive. At least you all don't hide behind alias char names.
 
@@ -246,7 +246,7 @@ Nobody by that name has been born into this world.
 
 </div>
 
-<div class="post" data-post-id="32610" data-author="Tuck" data-date="2011-05-13T01:17:05+00:00">
+<div class="post" data-post-id="32610" data-author="Tuck" data-date="2011-05-13T01:17:05+00:00" data-subject="Re: drastic changes....">
 
 who the hell is acedia?
 

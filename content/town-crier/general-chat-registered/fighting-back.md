@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="11581" data-author="jezer" data-date="2006-03-20T23:56:15+00:00">
+<div class="post" data-post-id="11581" data-author="jezer" data-date="2006-03-20T23:56:15+00:00" data-subject="Fighting Back!">
 
 I've done some stupid things chasing pthiefs... just yesterday I windran into jail  :oops:  And another time while attempting to idol dive poolp he entered my portal and dispel magic me...  :oops: 
 
@@ -34,13 +34,13 @@ Please post helpful tips for killing pthiefs etc here...
 
 </div>
 
-<div class="post" data-post-id="11583" data-author="Dvoid" data-date="2006-03-21T00:20:54+00:00">
+<div class="post" data-post-id="11583" data-author="Dvoid" data-date="2006-03-21T00:20:54+00:00" data-subject="">
 
 Out of curiosity, is there a list of known pthieves?
 
 </div>
 
-<div class="post" data-post-id="11586" data-author="jezer" data-date="2006-03-21T00:32:52+00:00">
+<div class="post" data-post-id="11586" data-author="jezer" data-date="2006-03-21T00:32:52+00:00" data-subject="">
 
 A lot of pthiefs are posted in a list on another post...
 
@@ -50,13 +50,13 @@ Might I point out there are seemingly people on this list who are NOT pthiefs.
 
 </div>
 
-<div class="post" data-post-id="11588" data-author="Dvoid" data-date="2006-03-21T00:35:22+00:00">
+<div class="post" data-post-id="11588" data-author="Dvoid" data-date="2006-03-21T00:35:22+00:00" data-subject="">
 
 Thanks.
 
 </div>
 
-<div class="post" data-post-id="11610" data-author="Rynquald" data-date="2006-03-21T11:18:16+00:00">
+<div class="post" data-post-id="11610" data-author="Rynquald" data-date="2006-03-21T11:18:16+00:00" data-subject="">
 
 [quote:1u7v7qd8]1) A tatic I copied from someone else is charming some aggro mobs from cata's and taking them to the inn. A shadow will take a naked lvl 20 pthief. [/quote:1u7v7qd8]
 

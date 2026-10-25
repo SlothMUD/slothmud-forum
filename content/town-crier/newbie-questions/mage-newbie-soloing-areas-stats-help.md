@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="14090" data-author="Absu" data-date="2006-09-16T22:25:17+00:00">
+<div class="post" data-post-id="14090" data-author="Absu" data-date="2006-09-16T22:25:17+00:00" data-subject="Mage newbie soloing areas/stats help?">
 
 Alright, first of all:
 
@@ -36,7 +36,7 @@ Also, should I keep those stats, or aim for higher?
 
 </div>
 
-<div class="post" data-post-id="14092" data-author="12345" data-date="2006-09-16T23:25:16+00:00">
+<div class="post" data-post-id="14092" data-author="12345" data-date="2006-09-16T23:25:16+00:00" data-subject="">
 
 Melee types have quite the advantage at lower levels, to be sure.  However, once you start picking up your higher level blasting spells, get some +spelldam equipment and get attuned to channeling, you'll be running circles around the same melee types at high levels. 
 
@@ -54,7 +54,7 @@ Other places that come to mind are the starlings in Sakura at higher levels.  Th
 
 </div>
 
-<div class="post" data-post-id="14101" data-author="*juggleblood*" data-date="2006-09-17T09:15:07+00:00">
+<div class="post" data-post-id="14101" data-author="*juggleblood*" data-date="2006-09-17T09:15:07+00:00" data-subject="">
 
 Just to add to what 12345 said... There are no good mage solo areas on valk. Almost everything on VK is chop style. Your stats are pretty good, 
 
@@ -74,7 +74,7 @@ Rub
 
 </div>
 
-<div class="post" data-post-id="14103" data-author="Aleksey" data-date="2006-09-17T10:18:54+00:00">
+<div class="post" data-post-id="14103" data-author="Aleksey" data-date="2006-09-17T10:18:54+00:00" data-subject="">
 
 Absu melee on valk important but not crusual, possible good exping with mage, need -7.-8ac and kill at half blasting style.
 
@@ -88,7 +88,7 @@ Dont like your dex
 
 </div>
 
-<div class="post" data-post-id="14119" data-author="12345" data-date="2006-09-17T19:20:13+00:00">
+<div class="post" data-post-id="14119" data-author="12345" data-date="2006-09-17T19:20:13+00:00" data-subject="">
 
 Aleksey knows more about mages than I, yes :)
 
@@ -96,13 +96,13 @@ I was trying to avoid giving advice that basically said 'play like a melee'.  Ma
 
 </div>
 
-<div class="post" data-post-id="14125" data-author="Absu" data-date="2006-09-18T03:46:13+00:00">
+<div class="post" data-post-id="14125" data-author="Absu" data-date="2006-09-18T03:46:13+00:00" data-subject="">
 
 I've kinda given up on soloing for now anway. I joined one of those big exp groups off VK and in 2 hours I had about 3x the experience I got from soloing the entire week alone. :P
 
 </div>
 
-<div class="post" data-post-id="14126" data-author="Absu" data-date="2006-09-18T05:30:57+00:00">
+<div class="post" data-post-id="14126" data-author="Absu" data-date="2006-09-18T05:30:57+00:00" data-subject="">
 
 BTW what should I aim for in stats then? I'll assume that I shouldn't bother worrying about Str and Con?
 
@@ -110,13 +110,13 @@ So should I go for 18/18 int/wis? And what, like 16-17 dex?
 
 </div>
 
-<div class="post" data-post-id="14127" data-author="Krok" data-date="2006-09-18T06:53:11+00:00">
+<div class="post" data-post-id="14127" data-author="Krok" data-date="2006-09-18T06:53:11+00:00" data-subject="">
 
 don't be a fan of those exp groups, they give you easy levels, but don't teach you almost anything when you are a true newbie... you have to solo some and lead (at least vk) to learn the mud, imho.
 
 </div>
 
-<div class="post" data-post-id="14180" data-author="Absu" data-date="2006-09-20T06:47:35+00:00">
+<div class="post" data-post-id="14180" data-author="Absu" data-date="2006-09-20T06:47:35+00:00" data-subject="">
 
 Yeah, I agree. But I think grouping in small groups lets you learn the MUD as well.
 
@@ -128,13 +128,13 @@ Since str/con are my last 2 stats, I guess I can't really count on them being ve
 
 </div>
 
-<div class="post" data-post-id="14181" data-author="Akasha" data-date="2006-09-20T06:54:23+00:00">
+<div class="post" data-post-id="14181" data-author="Akasha" data-date="2006-09-20T06:54:23+00:00" data-subject="">
 
 2x18 is about 75 rolls on avg (from y mortal experiences), and 18 in both int and wis makes for a nice caster to play.  It removes a lot of headaches later when it comes to having to pass up a helluva mana/regen item for +1 int or +1 wis item.  Dex is a solo factor mostly for ac, but the mobs you'll be cycling later when you get 2x40+ , ac wont matter much anyway, they usually hit all the time regardless.  So something like 18i/18w/15+d would satisfy me in that position.
 
 </div>
 
-<div class="post" data-post-id="14182" data-author="Absu" data-date="2006-09-20T07:09:27+00:00">
+<div class="post" data-post-id="14182" data-author="Absu" data-date="2006-09-20T07:09:27+00:00" data-subject="">
 
 Alright... yeah... I'll keep gunning for 18/18 then.
 

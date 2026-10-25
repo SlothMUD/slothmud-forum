@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35560" data-author="van" data-date="2014-12-19T23:47:33+00:00">
+<div class="post" data-post-id="35560" data-author="van" data-date="2014-12-19T23:47:33+00:00" data-subject="Splork dressed me in a hurricane">
 
 Best reboot ever!  I've always wanted to wear my greaves on my body and my boots on my head.
 
@@ -18,7 +18,7 @@ My light isn't stylish though.
 
 </div>
 
-<div class="post" data-post-id="35562" data-author="*Breeze*" data-date="2014-12-20T08:51:39+00:00">
+<div class="post" data-post-id="35562" data-author="*Breeze*" data-date="2014-12-20T08:51:39+00:00" data-subject="Re: Splork dressed me in a hurricane">
 
 i can imagine van with a cuirass around the neck.
 

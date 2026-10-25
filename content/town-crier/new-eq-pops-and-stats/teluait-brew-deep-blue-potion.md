@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="14782" data-author="Marvel" data-date="2006-10-28T19:05:04+00:00">
+<div class="post" data-post-id="14782" data-author="Marvel" data-date="2006-10-28T19:05:04+00:00" data-subject="Teluait brew (deep blue potion)">
 
 Original note:
 

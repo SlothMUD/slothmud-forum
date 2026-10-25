@@ -10,19 +10,19 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="29208" data-author="Thraxas" data-date="2009-05-18T17:29:58+00:00">
+<div class="post" data-post-id="29208" data-author="Thraxas" data-date="2009-05-18T17:29:58+00:00" data-subject="Octagonals for sale!">
 
 Anyone know how good these Octs are? All that seems to have been said is that the min stat for them is 8 ... 4dr seems a high cost for that, or is there something I'm not seeing that makes them worth that?
 
 </div>
 
-<div class="post" data-post-id="29212" data-author="jezer" data-date="2009-05-19T00:24:22+00:00">
+<div class="post" data-post-id="29212" data-author="jezer" data-date="2009-05-19T00:24:22+00:00" data-subject="">
 
 Min stat of 8 for 4dr... I think your right. It's fairly obvious you'd have to be both desperate and stupid to buy them. But we see this all too often, give nice stuff and then make it crap or unusable, I don't think this will be the last time either.
 
 </div>
 
-<div class="post" data-post-id="29221" data-author="Thraxas" data-date="2009-05-19T13:28:59+00:00">
+<div class="post" data-post-id="29221" data-author="Thraxas" data-date="2009-05-19T13:28:59+00:00" data-subject="">
 
 Seems oct tokens are not 4 dr they're now 5 dr.
 
@@ -40,7 +40,7 @@ Right now I would actually like to be in reroll hell because I'd know that at th
 
 </div>
 
-<div class="post" data-post-id="29222" data-author="jezer" data-date="2009-05-19T13:51:41+00:00">
+<div class="post" data-post-id="29222" data-author="jezer" data-date="2009-05-19T13:51:41+00:00" data-subject="">
 
 (as an aside I always get worried when jezer agrees with any of my posts ... makes me think I'm expressing an unreasonable point of view)[/quote:fy67i9vi]
 
@@ -52,7 +52,7 @@ I notice Juggleblood has been mysteriously absent the past 2 weeks... any reason
 
 </div>
 
-<div class="post" data-post-id="29223" data-author="*Splork*" data-date="2009-05-19T14:15:08+00:00">
+<div class="post" data-post-id="29223" data-author="*Splork*" data-date="2009-05-19T14:15:08+00:00" data-subject="">
 
 We in no way implied or guaranteed that everyone would get great stats easily, nor are achieving and rolling great stats much easier than in S3. What we pretty much guarantee is that a player will always have playable stats through the use of a tri token.
 
@@ -76,7 +76,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29224" data-author="Thraxas" data-date="2009-05-19T14:26:57+00:00">
+<div class="post" data-post-id="29224" data-author="Thraxas" data-date="2009-05-19T14:26:57+00:00" data-subject="">
 
 Splork,
 
@@ -86,7 +86,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="29245" data-author="Thraxas" data-date="2009-05-21T15:09:27+00:00">
+<div class="post" data-post-id="29245" data-author="Thraxas" data-date="2009-05-21T15:09:27+00:00" data-subject="">
 
 Just to say I now have stats I'm much happier with:
 
@@ -102,7 +102,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="29246" data-author="*Splork*" data-date="2009-05-21T16:48:49+00:00">
+<div class="post" data-post-id="29246" data-author="*Splork*" data-date="2009-05-21T16:48:49+00:00" data-subject="">
 
 The new reroll plan was almost exclusively the brain child of Clinker but we do appreciate the compliments.
 
@@ -110,7 +110,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29247" data-author="Vixn" data-date="2009-05-21T17:40:10+00:00">
+<div class="post" data-post-id="29247" data-author="Vixn" data-date="2009-05-21T17:40:10+00:00" data-subject="">
 
 How comes it doesn't include lost conc on some rerolls? 
 

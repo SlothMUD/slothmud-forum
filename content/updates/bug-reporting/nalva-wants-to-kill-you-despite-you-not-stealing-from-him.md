@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38327" data-author="Teron" data-date="2017-07-11T13:55:18+00:00">
+<div class="post" data-post-id="38327" data-author="Teron" data-date="2017-07-11T13:55:18+00:00" data-subject="Nalva wants to kill you despite you not stealing from *him*">
 
 A disfigured bull gets a dursimite hide from inside the corpse of a scarred dursimite.
 

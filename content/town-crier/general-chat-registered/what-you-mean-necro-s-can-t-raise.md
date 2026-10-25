@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="18237" data-author="Ah_Puch" data-date="2007-04-29T15:42:55+00:00">
+<div class="post" data-post-id="18237" data-author="Ah_Puch" data-date="2007-04-29T15:42:55+00:00" data-subject="What you mean Necro&#x27;s can&#x27;t raise ?">
 
 Necro Prime Spell Suggestion
 
@@ -20,13 +20,13 @@ A person who has devoted the bulk of his/her energies in the pursuit of the dark
 
 </div>
 
-<div class="post" data-post-id="18239" data-author="alias" data-date="2007-04-29T16:43:17+00:00">
+<div class="post" data-post-id="18239" data-author="alias" data-date="2007-04-29T16:43:17+00:00" data-subject="">
 
 is this for necros who dont have clerics in their classo?
 
 </div>
 
-<div class="post" data-post-id="18242" data-author="Ah_Puch" data-date="2007-04-30T00:34:58+00:00">
+<div class="post" data-post-id="18242" data-author="Ah_Puch" data-date="2007-04-30T00:34:58+00:00" data-subject="">
 
 I was thinking more of necro's who may/may not have cleric in classo that either A) isn't high enough in level to raise or B) needs to buy some time in order to get raise mana/someone else to come help save the day.
 
@@ -36,7 +36,7 @@ Group CF's would benefit from it in that you'd be able to add a few extra ticks 
 
 </div>
 
-<div class="post" data-post-id="18243" data-author="brady" data-date="2007-04-30T02:39:48+00:00">
+<div class="post" data-post-id="18243" data-author="brady" data-date="2007-04-30T02:39:48+00:00" data-subject="">
 
 nice idea, imo.
 

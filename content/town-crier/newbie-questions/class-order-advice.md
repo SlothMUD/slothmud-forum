@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="30636" data-author="Toxis" data-date="2010-01-11T07:24:30+00:00">
+<div class="post" data-post-id="30636" data-author="Toxis" data-date="2010-01-11T07:24:30+00:00" data-subject="CLASS ORDER ADVICE">
 
 This is for the many players who ask about classes and class orders (classo or classoâ€™s), which is the order of which you pick your classes from your prime to your last.  There are many things not known to mortals yet, but this is my advice on classes and how to pick what you want to play for whatever affect you desire.
 
@@ -42,7 +42,7 @@ These are the views of a mortal who's played sloth for 18 years, has played hund
 
 </div>
 
-<div class="post" data-post-id="30638" data-author="*juggleblood*" data-date="2010-01-11T12:57:18+00:00">
+<div class="post" data-post-id="30638" data-author="*juggleblood*" data-date="2010-01-11T12:57:18+00:00" data-subject="">
 
 Thats all good advice. 
 
@@ -58,7 +58,7 @@ The worst you could do is pick 4 non-caster classes in a row. Newer players woul
 
 </div>
 
-<div class="post" data-post-id="30651" data-author="Redcross" data-date="2010-01-12T05:36:35+00:00">
+<div class="post" data-post-id="30651" data-author="Redcross" data-date="2010-01-12T05:36:35+00:00" data-subject="">
 
 What about class order and caps?
 
@@ -66,7 +66,7 @@ I know the placement of necro/cleric/druid determine the type of pets/forms you 
 
 </div>
 
-<div class="post" data-post-id="30680" data-author="Thraxas" data-date="2010-01-14T16:47:18+00:00">
+<div class="post" data-post-id="30680" data-author="Thraxas" data-date="2010-01-14T16:47:18+00:00" data-subject="">
 
 [b:1skjikbv]Top Four Classes[/b:1skjikbv]
 
@@ -108,7 +108,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="30711" data-author="mudder" data-date="2010-01-20T09:24:10+00:00">
+<div class="post" data-post-id="30711" data-author="mudder" data-date="2010-01-20T09:24:10+00:00" data-subject="Re: CLASS ORDER ADVICE">
 
 Cleric: 
 
@@ -162,7 +162,7 @@ While some caster in the top 4 is essential esp Cleric, a 4xcaster while strong 
 
 </div>
 
-<div class="post" data-post-id="30712" data-author="Toxis" data-date="2010-01-20T10:39:07+00:00">
+<div class="post" data-post-id="30712" data-author="Toxis" data-date="2010-01-20T10:39:07+00:00" data-subject="">
 
 If you read my post I suggest 3 out of 4 NC prime to be nc/nc with some alternate suggestions.
 
@@ -184,7 +184,7 @@ There's many ways to choose your classo, but I'm mainly concerned with a player 
 
 </div>
 
-<div class="post" data-post-id="30730" data-author="mudder" data-date="2010-01-21T15:11:10+00:00">
+<div class="post" data-post-id="30730" data-author="mudder" data-date="2010-01-21T15:11:10+00:00" data-subject="">
 
 To me, quad caster is not fun. You mostly end up following other people around blasting and healing. You end up relying on your shift forms for anything solo because you're not even tough enough to tank for your necro pets. I don't like relying on shift.  
 
@@ -196,7 +196,7 @@ I hear what you're saying Toxis, and it has to be said that for the best and mos
 
 </div>
 
-<div class="post" data-post-id="35684" data-author="Teron" data-date="2015-02-10T19:16:38+00:00">
+<div class="post" data-post-id="35684" data-author="Teron" data-date="2015-02-10T19:16:38+00:00" data-subject="Re: CLASS ORDER ADVICE">
 
 Note: this thread is about Sloth 3, where we had:
 
@@ -212,7 +212,7 @@ Read our updated newbie class order guide here:
 
 </div>
 
-<div class="post" data-post-id="35685" data-author="Filk" data-date="2015-02-11T01:33:19+00:00">
+<div class="post" data-post-id="35685" data-author="Filk" data-date="2015-02-11T01:33:19+00:00" data-subject="Re: CLASS ORDER ADVICE">
 
 > **Quote:**
 > Note: this thread is about Sloth 3
@@ -221,13 +221,13 @@ It is not. Topic from 2010. And its about 8 class system.
 
 </div>
 
-<div class="post" data-post-id="35686" data-author="*juggleblood*" data-date="2015-02-12T03:05:34+00:00">
+<div class="post" data-post-id="35686" data-author="*juggleblood*" data-date="2015-02-12T03:05:34+00:00" data-subject="Re: CLASS ORDER ADVICE">
 
 Why are you reviving a dead thread from 2010 about class order advice? I assume by now, this person has selected their classo.
 
 </div>
 
-<div class="post" data-post-id="35688" data-author="Teron" data-date="2015-02-12T18:29:09+00:00">
+<div class="post" data-post-id="35688" data-author="Teron" data-date="2015-02-12T18:29:09+00:00" data-subject="Re: CLASS ORDER ADVICE">
 
 I assume that anyone can be searching this forum for class order advice and find this thread, just like I did, so I put the most recent reference in the thread, so it's noticed.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 30
 ---
 
-<div class="post" data-post-id="13731" data-author="Hades" data-date="2006-08-23T11:04:55+00:00">
+<div class="post" data-post-id="13731" data-author="Hades" data-date="2006-08-23T11:04:55+00:00" data-subject="Clink is a fucking asshole">
 
 Fuck this BS... kill my char and pword me when I go afk doing a fight to put kids on buss and then call it botting? Screw it.. fun as this polace can be.. I'll find another.. sure I wont be missed by much but shrug.. those who enjoyed my company I did the same..
 
@@ -18,7 +18,7 @@ btw...... any cheats and quests u need answered can be emailed to brunoelso@hotm
 
 </div>
 
-<div class="post" data-post-id="13732" data-author="Diazz" data-date="2006-08-23T11:26:59+00:00">
+<div class="post" data-post-id="13732" data-author="Diazz" data-date="2006-08-23T11:26:59+00:00" data-subject="">
 
 1:Finding a cool place to mud: 0$
 
@@ -40,7 +40,7 @@ though since I been away)
 
 </div>
 
-<div class="post" data-post-id="13733" data-author="Clink" data-date="2006-08-23T11:33:29+00:00">
+<div class="post" data-post-id="13733" data-author="Clink" data-date="2006-08-23T11:33:29+00:00" data-subject="Botting Refresher">
 
 I am what I am, but I strive to be it consistently.
 
@@ -72,7 +72,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="13736" data-author="Hades" data-date="2006-08-23T23:31:31+00:00">
+<div class="post" data-post-id="13736" data-author="Hades" data-date="2006-08-23T23:31:31+00:00" data-subject="Brief Rebuttal">
 
 Sorry we can't see eye to eye on this Clinky but that high horse of yours stinks to high heavens.  Botting and being killed (1st) offense as you so say only holds ground if for say I left a "bot" and you took action while I was actually extremely afk say at work or sleeping.. however in this case.. you decided,without actually checking by tells or such to see if I was here and had MOB's attack him.  The timing itself was impeccable, but had I not went outside for those 2-3 minutes to watch kids load on bus, then I could have easily recalled when you sent the MOB's to attack.  Again.. this happened doing the course of 1 fight... I got up fighting a star lord.. came back to same fight and negative hitpoints... then scrolling up to see what the hell happened..well the conclusion tells itself.I'm sure you could try to back your argument with 'IMM" knowledge but your'e full of it. I've cycled star city hard over last 3 days... mainly for the coins and experience.. it is ideal for a -7 warrior..In any case.. no use complaining.. it was a shitty action to take.. the thing that really irked me was the response when I questioned what the hell were u doing you stated.. don't even begin to question me on this.. wtf
 
@@ -82,7 +82,7 @@ ps-Diazz you input is greatly appeciated but only when you know what the hell yo
 
 </div>
 
-<div class="post" data-post-id="13737" data-author="Mosaix" data-date="2006-08-24T03:16:44+00:00">
+<div class="post" data-post-id="13737" data-author="Mosaix" data-date="2006-08-24T03:16:44+00:00" data-subject="">
 
 It is said that you are not to bot.  While they seem to normally look the other way on some stuff, this specific instance kind of bothers me.
 
@@ -100,7 +100,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="13738" data-author="Hades" data-date="2006-08-24T09:57:17+00:00">
+<div class="post" data-post-id="13738" data-author="Hades" data-date="2006-08-24T09:57:17+00:00" data-subject="Admit guilt when there is none? NEVER!!!">
 
 I especially hope you pay close attention Clink
 
@@ -110,7 +110,7 @@ Enjoy
 
 </div>
 
-<div class="post" data-post-id="13739" data-author="Diazz" data-date="2006-08-24T10:59:54+00:00">
+<div class="post" data-post-id="13739" data-author="Diazz" data-date="2006-08-24T10:59:54+00:00" data-subject="">
 
 Hades, bub, I've had more chars (both mortal and immortal) wiped then you can count.
 
@@ -120,7 +120,7 @@ If you think im defending Clink, your far from wrong, but neither do I advocate 
 
 </div>
 
-<div class="post" data-post-id="13741" data-author="Malison" data-date="2006-08-24T14:28:18+00:00">
+<div class="post" data-post-id="13741" data-author="Malison" data-date="2006-08-24T14:28:18+00:00" data-subject="inconsistency">
 
 This does seem kind of suspicious to me.
 
@@ -162,7 +162,7 @@ On the other hand, group botting is definitely something to be addressed as Mosa
 
 </div>
 
-<div class="post" data-post-id="13742" data-author="brand" data-date="2006-08-24T17:02:17+00:00">
+<div class="post" data-post-id="13742" data-author="brand" data-date="2006-08-24T17:02:17+00:00" data-subject="Clink is a God">
 
 yeah that sucks to lose 5 levels...
 
@@ -180,7 +180,7 @@ brand
 
 </div>
 
-<div class="post" data-post-id="13743" data-author="Autolycos" data-date="2006-08-24T17:36:11+00:00">
+<div class="post" data-post-id="13743" data-author="Autolycos" data-date="2006-08-24T17:36:11+00:00" data-subject="">
 
 Applaud  :twisted: 
 
@@ -198,13 +198,13 @@ Yours truly,
 
 </div>
 
-<div class="post" data-post-id="13744" data-author="Leaf" data-date="2006-08-24T17:42:40+00:00">
+<div class="post" data-post-id="13744" data-author="Leaf" data-date="2006-08-24T17:42:40+00:00" data-subject="">
 
 Brand that A Team comment was some funny shit!!!
 
 </div>
 
-<div class="post" data-post-id="13745" data-author="Avatar" data-date="2006-08-24T17:55:57+00:00">
+<div class="post" data-post-id="13745" data-author="Avatar" data-date="2006-08-24T17:55:57+00:00" data-subject="">
 
 [quote:2waux193]On the other hand, group botting is definitely something to be addressed as Mosaix said.[/quote:2waux193]
 
@@ -218,7 +218,7 @@ Just my opinions.
 
 </div>
 
-<div class="post" data-post-id="13746" data-author="*Splork*" data-date="2006-08-24T20:21:56+00:00">
+<div class="post" data-post-id="13746" data-author="*Splork*" data-date="2006-08-24T20:21:56+00:00" data-subject="">
 
 To Hades;
 
@@ -240,7 +240,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="13747" data-author="12345" data-date="2006-08-24T21:23:56+00:00">
+<div class="post" data-post-id="13747" data-author="12345" data-date="2006-08-24T21:23:56+00:00" data-subject="">
 
 Laugh, this is cute.  Luckily, most the folks I group with are better players than I am.  :)
 
@@ -248,7 +248,7 @@ Most.
 
 </div>
 
-<div class="post" data-post-id="13748" data-author="Autolycos" data-date="2006-08-24T21:49:42+00:00">
+<div class="post" data-post-id="13748" data-author="Autolycos" data-date="2006-08-24T21:49:42+00:00" data-subject="">
 
 Laugh, this is cute.  Luckily, most the folks I group with are better players than I am.  :)
 
@@ -258,7 +258,7 @@ Thats not really saying much   :twisted:
 
 </div>
 
-<div class="post" data-post-id="13749" data-author="brady" data-date="2006-08-24T22:39:31+00:00">
+<div class="post" data-post-id="13749" data-author="brady" data-date="2006-08-24T22:39:31+00:00" data-subject="">
 
 #1 Autolycos is awfully noisy for a ghost.
 
@@ -266,7 +266,7 @@ Thats not really saying much   :twisted:
 
 </div>
 
-<div class="post" data-post-id="13750" data-author="Teron" data-date="2006-08-24T22:45:41+00:00">
+<div class="post" data-post-id="13750" data-author="Teron" data-date="2006-08-24T22:45:41+00:00" data-subject="">
 
 So basically Clink has just allowed us to pkill botters!
 
@@ -282,7 +282,7 @@ I can count on one hand how many botters inside of groups have been reported to 
 
 </div>
 
-<div class="post" data-post-id="13751" data-author="Clink" data-date="2006-08-24T23:34:16+00:00">
+<div class="post" data-post-id="13751" data-author="Clink" data-date="2006-08-24T23:34:16+00:00" data-subject="Re: inconsistency">
 
 This definitely seems like a much different definition of botting than the one players have the ability to see. 
 
@@ -302,7 +302,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="13752" data-author="Hades" data-date="2006-08-25T00:18:31+00:00">
+<div class="post" data-post-id="13752" data-author="Hades" data-date="2006-08-25T00:18:31+00:00" data-subject="Willing to compromise before I go medieval on thy arse...">
 
 The 5 levels and complete set of eq that I lost can be replaced easy enough.. However.. i must re-affirm my earlier statement.. botting will in its strictest terms I would be indeed found guilty however to rebute Splork's statement.. I think more than a handful of players could also under strictest terms be considered "botting".. ..
 
@@ -314,25 +314,25 @@ I await your response.
 
 </div>
 
-<div class="post" data-post-id="13753" data-author="brady" data-date="2006-08-25T00:57:12+00:00">
+<div class="post" data-post-id="13753" data-author="brady" data-date="2006-08-25T00:57:12+00:00" data-subject="">
 
 *crickets*
 
 </div>
 
-<div class="post" data-post-id="13754" data-author="Hades" data-date="2006-08-25T01:27:58+00:00">
+<div class="post" data-post-id="13754" data-author="Hades" data-date="2006-08-25T01:27:58+00:00" data-subject=".">
 
 exactamondo 8)
 
 </div>
 
-<div class="post" data-post-id="13757" data-author="Guinex" data-date="2006-08-25T04:21:21+00:00">
+<div class="post" data-post-id="13757" data-author="Guinex" data-date="2006-08-25T04:21:21+00:00" data-subject="">
 
 If anyone notices a bot please let me know, i haven't pked anyone for a while and i wouldn't mind killing a few people.  PLS and TY
 
 </div>
 
-<div class="post" data-post-id="13760" data-author="Krok" data-date="2006-08-25T10:15:24+00:00">
+<div class="post" data-post-id="13760" data-author="Krok" data-date="2006-08-25T10:15:24+00:00" data-subject="">
 
 gt fix prot, <botname>
 
@@ -354,7 +354,7 @@ Hi, Guinex!
 
 </div>
 
-<div class="post" data-post-id="13764" data-author="Rodek" data-date="2006-08-25T12:29:31+00:00">
+<div class="post" data-post-id="13764" data-author="Rodek" data-date="2006-08-25T12:29:31+00:00" data-subject="">
 
 I think you got the bottom line: go afk all you want.  Dont do it while fighting or doing something active.
 
@@ -364,7 +364,7 @@ Exp and gold are supposed to be earned, thats the whole point, right?
 
 </div>
 
-<div class="post" data-post-id="13765" data-author="Avatar" data-date="2006-08-25T13:10:26+00:00">
+<div class="post" data-post-id="13765" data-author="Avatar" data-date="2006-08-25T13:10:26+00:00" data-subject="Apologies">
 
 Well, since noone else is saying it, I'll volunteer.
 
@@ -376,13 +376,13 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="13766" data-author="Autolycos" data-date="2006-08-25T13:25:17+00:00">
+<div class="post" data-post-id="13766" data-author="Autolycos" data-date="2006-08-25T13:25:17+00:00" data-subject="">
 
 Indeed.
 
 </div>
 
-<div class="post" data-post-id="13779" data-author="Hades" data-date="2006-08-25T23:06:43+00:00">
+<div class="post" data-post-id="13779" data-author="Hades" data-date="2006-08-25T23:06:43+00:00" data-subject="Avatar and Autolycos">
 
 Point taken Avatar however.. why is it ridicolous to expect an apology...Clink killed me.. I lost some decent eq... coins.. 5 levels.. all because he chose NOT to follow up and see if I was actually botting... I'm not gonna cry over spilt milk but an acknoledgment that he may have made an error in judgement is not to much to ask.. we all fuck up
 
@@ -392,7 +392,7 @@ Auto... stfu
 
 </div>
 
-<div class="post" data-post-id="13788" data-author="Autolycos" data-date="2006-08-26T13:52:34+00:00">
+<div class="post" data-post-id="13788" data-author="Autolycos" data-date="2006-08-26T13:52:34+00:00" data-subject="">
 
 *yawn..  
 
@@ -404,13 +404,13 @@ please resume being raped by a goat. :twisted:
 
 </div>
 
-<div class="post" data-post-id="13790" data-author="Mustang" data-date="2006-08-26T14:52:05+00:00">
+<div class="post" data-post-id="13790" data-author="Mustang" data-date="2006-08-26T14:52:05+00:00" data-subject="">
 
 can clink wipe autolycos for botting on the crier?
 
 </div>
 
-<div class="post" data-post-id="13796" data-author="Hades" data-date="2006-08-26T18:20:33+00:00">
+<div class="post" data-post-id="13796" data-author="Hades" data-date="2006-08-26T18:20:33+00:00" data-subject="Clink or lucky valker...">
 
 Not sure if Clink laid hold to my equipment.. but in case he didn't.. Any valker
 

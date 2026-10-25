@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="20296" data-author="Corinn" data-date="2007-09-16T19:14:45+00:00">
+<div class="post" data-post-id="20296" data-author="Corinn" data-date="2007-09-16T19:14:45+00:00" data-subject="Iolite CP&#x27;s to trade for other Iolite CP&#x27;s">
 
 I have a spare of the following:
 

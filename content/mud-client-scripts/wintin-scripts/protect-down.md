@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="10285" data-author="*juggleblood*" data-date="2006-01-22T14:11:13+00:00">
+<div class="post" data-post-id="10285" data-author="*juggleblood*" data-date="2006-01-22T14:11:13+00:00" data-subject="Protect Down">
 
 This will automatically protect down and will also protect over your protectee if he or she dies.
 
@@ -28,7 +28,7 @@ Jugg
 
 </div>
 
-<div class="post" data-post-id="10286" data-author="*juggleblood*" data-date="2006-01-22T14:15:19+00:00">
+<div class="post" data-post-id="10286" data-author="*juggleblood*" data-date="2006-01-22T14:15:19+00:00" data-subject="">
 
 :? Oh yeah...
 
@@ -36,7 +36,7 @@ Don't forget to put your name in place of 'Rub' in the above script.
 
 </div>
 
-<div class="post" data-post-id="10527" data-author="*juggleblood*" data-date="2006-02-01T21:04:33+00:00">
+<div class="post" data-post-id="10527" data-author="*juggleblood*" data-date="2006-02-01T21:04:33+00:00" data-subject="One last tweak">
 
 Problem: the client substitutes the grouplist before it has finished capturing and reformatting it. 
 

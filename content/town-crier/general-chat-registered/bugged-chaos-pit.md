@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34004" data-author="Dragoth" data-date="2013-02-07T20:27:55+00:00">
+<div class="post" data-post-id="34004" data-author="Dragoth" data-date="2013-02-07T20:27:55+00:00" data-subject="Bugged chaos pit?">
 
 Sam leaves west.
 
@@ -300,7 +300,7 @@ But they are not fighting anyone.
 
 </div>
 
-<div class="post" data-post-id="34008" data-author="*juggleblood*" data-date="2013-02-07T23:57:07+00:00">
+<div class="post" data-post-id="34008" data-author="*juggleblood*" data-date="2013-02-07T23:57:07+00:00" data-subject="Re: Bugged chaos pit?">
 
 Seems so. 
 
@@ -308,7 +308,7 @@ So... did all the winners get recorded in the group on the board and did they re
 
 </div>
 
-<div class="post" data-post-id="34009" data-author="Dragoth" data-date="2013-02-08T00:09:55+00:00">
+<div class="post" data-post-id="34009" data-author="Dragoth" data-date="2013-02-08T00:09:55+00:00" data-subject="Re: Bugged chaos pit?">
 
 Yeah all 3 of us got recorded but noone received drachma for winning it
 

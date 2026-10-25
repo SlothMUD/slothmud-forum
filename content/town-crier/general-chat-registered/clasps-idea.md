@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="27732" data-author="firebrand" data-date="2009-01-15T15:11:44+00:00">
+<div class="post" data-post-id="27732" data-author="firebrand" data-date="2009-01-15T15:11:44+00:00" data-subject="clasps idea">
 
 what do you all think about having one basic set of eq that you don't have to ever change?  for instance, if you want to change from ac to mana to damage to regen, use appropriate clasps instead of a massive eq spam?  i am not saying to throw out all the eq and armor you already have worked so hard for.  just trying to figure out a way to not have to carry several sets of eq and/or reduce items and weight that has to be carried around.  maybe even have a clasp bag similar to a keychain or scroll satchel?  i'm not even sure this is currently possible but perhaps make it so that we change out the clasps without having to remove/wear the eq.  ideas, suggestions, flames?
 
@@ -18,7 +18,7 @@ what do you all think about having one basic set of eq that you don't have to ev
 
 </div>
 
-<div class="post" data-post-id="27734" data-author="Brujah" data-date="2009-01-15T16:49:26+00:00">
+<div class="post" data-post-id="27734" data-author="Brujah" data-date="2009-01-15T16:49:26+00:00" data-subject="">
 
 You still have to remove the item to attach/remove clasp from it.
 
@@ -26,7 +26,7 @@ Plus, instead of 2 items (one for ac, one for regen mode) you will have 3: one b
 
 </div>
 
-<div class="post" data-post-id="27735" data-author="firebrand" data-date="2009-01-15T17:21:15+00:00">
+<div class="post" data-post-id="27735" data-author="firebrand" data-date="2009-01-15T17:21:15+00:00" data-subject="">
 
 You still have to remove the item to attach/remove clasp from it.[/quote:3ulujl86]
 
@@ -42,7 +42,7 @@ maybe even have a clasp bag similar to a keychain or scroll satchel?[/quote:3ulu
 
 </div>
 
-<div class="post" data-post-id="27736" data-author="Brujah" data-date="2009-01-15T19:42:23+00:00">
+<div class="post" data-post-id="27736" data-author="Brujah" data-date="2009-01-15T19:42:23+00:00" data-subject="">
 
 You still have to remove the item to attach/remove clasp from it.[/quote:2kuq324g]
 
@@ -64,7 +64,7 @@ Actually, if you feel like doing a good thing - fix the get command so it proper
 
 </div>
 
-<div class="post" data-post-id="27737" data-author="firebrand" data-date="2009-01-15T20:29:36+00:00">
+<div class="post" data-post-id="27737" data-author="firebrand" data-date="2009-01-15T20:29:36+00:00" data-subject="">
 
 Plus, instead of 2 items (one for ac, one for regen mode) you will have 3: one basic items, and one ac/one regen clasp.[/quote:2u5m5thz]
 
@@ -74,7 +74,7 @@ you are COMPLETELY missing what i am getting at.  i am trying to say that we sho
 
 </div>
 
-<div class="post" data-post-id="27739" data-author="Weasel" data-date="2009-01-15T22:35:26+00:00">
+<div class="post" data-post-id="27739" data-author="Weasel" data-date="2009-01-15T22:35:26+00:00" data-subject="">
 
 Sorry I don't get it. It makes no difference to me if my eq modes are represented by clasps or by pieces of eq - it's still just a number of items that I would have to remove/unclasp. The action and effort involved would be no different... either that, or both Brujah and I are completely misunderstanding you.
 
@@ -82,7 +82,7 @@ Also, replacing eq sets with clasps means new clasps (as they function now) woul
 
 </div>
 
-<div class="post" data-post-id="27740" data-author="jezer" data-date="2009-01-15T22:45:52+00:00">
+<div class="post" data-post-id="27740" data-author="jezer" data-date="2009-01-15T22:45:52+00:00" data-subject="">
 
 As I previously stated... most of my fun in sloth centers around eq, and popping it... I have multiple eq modes, and about 100 eq pieces in my robe.
 
@@ -130,13 +130,13 @@ For the record, some clasps in game are a little broke... ornate glass broach wh
 
 </div>
 
-<div class="post" data-post-id="27741" data-author="Medios" data-date="2009-01-16T01:59:17+00:00">
+<div class="post" data-post-id="27741" data-author="Medios" data-date="2009-01-16T01:59:17+00:00" data-subject="">
 
 I just have to ask why a level 40 av druid prime has a damn -8 ac grouping mode.  Your grouping mode should be max healb/spellb/mr.  But that's prob just the superiority complex in me coming out.
 
 </div>
 
-<div class="post" data-post-id="27742" data-author="jezer" data-date="2009-01-16T02:16:41+00:00">
+<div class="post" data-post-id="27742" data-author="jezer" data-date="2009-01-16T02:16:41+00:00" data-subject="">
 
 I just have to ask why a level 40 av druid prime has a damn -8 ac grouping mode.  Your grouping mode should be max healb/spellb/mr.[/quote:r7t3bns2]
 
@@ -150,13 +150,13 @@ True, Shyla never trolls my posts for 'mistakes' to put me down... I guess she's
 
 </div>
 
-<div class="post" data-post-id="27743" data-author="Rynquald" data-date="2009-01-16T04:19:51+00:00">
+<div class="post" data-post-id="27743" data-author="Rynquald" data-date="2009-01-16T04:19:51+00:00" data-subject="">
 
 Standing regen adds up to create longer runs for a group. If only four casters have 20 extra mr during a 10 tick run, the group expends 800 more mana before needing to regen.
 
 </div>
 
-<div class="post" data-post-id="27744" data-author="jezer" data-date="2009-01-16T05:01:16+00:00">
+<div class="post" data-post-id="27744" data-author="jezer" data-date="2009-01-16T05:01:16+00:00" data-subject="">
 
 It costs 251 mana if I die  :twisted: (3 restores and a raise) and possible extra if my mana can no longer service the tank etc, others may die.
 
@@ -168,7 +168,7 @@ When I was smaller, often 2 mages could die in a single round on a miss stab, on
 
 </div>
 
-<div class="post" data-post-id="27746" data-author="brady" data-date="2009-01-16T13:17:28+00:00">
+<div class="post" data-post-id="27746" data-author="brady" data-date="2009-01-16T13:17:28+00:00" data-subject="">
 
 I typically die more grouping than I do solo, by 4/1. I have a low opinion of grouping.  :?[/quote:15apqpw9]
 
@@ -176,7 +176,7 @@ I'm with ya.  I vaulted, sold and traded my group mode and chose to stay in -11 
 
 </div>
 
-<div class="post" data-post-id="27748" data-author="Medios" data-date="2009-01-16T14:39:58+00:00">
+<div class="post" data-post-id="27748" data-author="Medios" data-date="2009-01-16T14:39:58+00:00" data-subject="">
 
 I know you prob don't know Annie or Daedalus.  When you got 900 mana and some healbonus you can pretty much heal out of anything.  There has been a few rare times where I see a non proter get hit first and die in one round but this is very rare.  You have to be fighting something like sandworm or Gait.  For the most part anyone paying attn can shift into a tree, or even sing and restore self 2 times.  
 
@@ -186,7 +186,7 @@ I don't understand how you can knock mr.  Would you rather run non stop for an h
 
 </div>
 
-<div class="post" data-post-id="27749" data-author="firebrand" data-date="2009-01-16T15:01:57+00:00">
+<div class="post" data-post-id="27749" data-author="firebrand" data-date="2009-01-16T15:01:57+00:00" data-subject="">
 
 I am wondering if you started grouping back when Firebrand was trying to lead Theris and Ettins.[/quote:2cn6dm25]
 
@@ -196,7 +196,7 @@ i taught them how to die and cf VERY well, tyvm!  i worked very hard to see how 
 
 </div>
 
-<div class="post" data-post-id="27750" data-author="brady" data-date="2009-01-16T15:10:26+00:00">
+<div class="post" data-post-id="27750" data-author="brady" data-date="2009-01-16T15:10:26+00:00" data-subject="">
 
 I don't understand how you can knock mr.  Would you rather run non stop for an hour, or kill for 40min then sleep for 10.  Which method do you think creates the most xp.[/quote:1lzfs820]
 
@@ -204,7 +204,7 @@ For me, running for an hour straight sounds hellish.  I hear ya but not everyone
 
 </div>
 
-<div class="post" data-post-id="27751" data-author="Roadrunr" data-date="2009-01-16T17:16:29+00:00">
+<div class="post" data-post-id="27751" data-author="Roadrunr" data-date="2009-01-16T17:16:29+00:00" data-subject="">
 
 a shift mode that gets me to -12 with max shifted damage (26)
 
@@ -216,7 +216,7 @@ oh, and on everything else, mike's right.
 
 </div>
 
-<div class="post" data-post-id="27752" data-author="brady" data-date="2009-01-16T18:21:22+00:00">
+<div class="post" data-post-id="27752" data-author="brady" data-date="2009-01-16T18:21:22+00:00" data-subject="">
 
 a shift mode that gets me to -12 with max shifted damage (26)
 
@@ -230,7 +230,7 @@ Always good to hear from the voice of reason.
 
 </div>
 
-<div class="post" data-post-id="27755" data-author="Medios" data-date="2009-01-16T21:14:15+00:00">
+<div class="post" data-post-id="27755" data-author="Medios" data-date="2009-01-16T21:14:15+00:00" data-subject="">
 
 a shift mode that gets me to -12 with max shifted damage (26)
 
@@ -244,7 +244,7 @@ Im in tears.  I really think this is the first time anyone has ever defended my 
 
 </div>
 
-<div class="post" data-post-id="27756" data-author="Alberich" data-date="2009-01-16T22:42:13+00:00">
+<div class="post" data-post-id="27756" data-author="Alberich" data-date="2009-01-16T22:42:13+00:00" data-subject="">
 
 oh, and on everything else, mike's right.[/quote:11qhn3by]
 
@@ -256,19 +256,19 @@ now that would be fun ;)
 
 </div>
 
-<div class="post" data-post-id="27758" data-author="Weasel" data-date="2009-01-16T23:12:25+00:00">
+<div class="post" data-post-id="27758" data-author="Weasel" data-date="2009-01-16T23:12:25+00:00" data-subject="">
 
 Just give everyone DEATH daggers and grenades and be done with it. Splorking everything without risk of death or dismemberment to self will become awfully boring after a short while - as would uncapped power on characters..  just saying..
 
 </div>
 
-<div class="post" data-post-id="27759" data-author="jezer" data-date="2009-01-17T02:40:52+00:00">
+<div class="post" data-post-id="27759" data-author="jezer" data-date="2009-01-17T02:40:52+00:00" data-subject="">
 
 The "American Old Boy's Club" speaking from there experience playing druids no doubt...  :roll: Here's to your retirement!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="27760" data-author="Medios" data-date="2009-01-17T02:56:19+00:00">
+<div class="post" data-post-id="27760" data-author="Medios" data-date="2009-01-17T02:56:19+00:00" data-subject="">
 
 last player Daedalus
 

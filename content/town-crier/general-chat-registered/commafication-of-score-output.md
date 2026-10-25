@@ -10,19 +10,19 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="9624" data-author="bubba" data-date="2005-11-24T23:05:38+00:00">
+<div class="post" data-post-id="9624" data-author="bubba" data-date="2005-11-24T23:05:38+00:00" data-subject="&quot;commafication&quot; of score output">
 
 I'm pretty sure tintin can't parse commafied numbers (e.g. 2,246,231) into numbers for later manipulation.  Thus, I'm hoping to see that change reverted (or toggleable would be cool).  Plus, there are many people who play this game that don't use commas as thousands separators in real life.
 
 </div>
 
-<div class="post" data-post-id="9625" data-author="Weasel" data-date="2005-11-24T23:16:07+00:00">
+<div class="post" data-post-id="9625" data-author="Weasel" data-date="2005-11-24T23:16:07+00:00" data-subject="">
 
 a toggle would be handy, yes.
 
 </div>
 
-<div class="post" data-post-id="9627" data-author="Weasel" data-date="2005-11-25T17:31:45+00:00">
+<div class="post" data-post-id="9627" data-author="Weasel" data-date="2005-11-25T17:31:45+00:00" data-subject="">
 
 Thanks for the toggle addition Splork.
 
@@ -34,7 +34,7 @@ thanks again.
 
 </div>
 
-<div class="post" data-post-id="9628" data-author="Weasel" data-date="2005-11-25T17:38:38+00:00">
+<div class="post" data-post-id="9628" data-author="Weasel" data-date="2005-11-25T17:38:38+00:00" data-subject="">
 
 oh, dunno if this has since been amended or any decision made, but the addition of WA skill 'broadside' a while back was pretty much rendered unusable because you could not use the skill with the Sword of Valor - which is the Wa prime autoquest sword that almost all Wa primes use (or will use in the case of the few that have not yet done the quest).. has this or will this Warrior skill be amended to include the Wa prime sword? This is a simple question, not a whine, so please treat it as such. I'm not ingame to test it atm, so mentioned it before I forget about it again. 
 
@@ -42,13 +42,13 @@ thanks.
 
 </div>
 
-<div class="post" data-post-id="9631" data-author="bubba" data-date="2005-11-25T22:30:26+00:00">
+<div class="post" data-post-id="9631" data-author="bubba" data-date="2005-11-25T22:30:26+00:00" data-subject="">
 
 looks like that got fixed too.  Thanks for the toggle Splork.
 
 </div>
 
-<div class="post" data-post-id="9633" data-author="jezer" data-date="2005-11-26T08:10:17+00:00">
+<div class="post" data-post-id="9633" data-author="jezer" data-date="2005-11-26T08:10:17+00:00" data-subject="">
 
 Splork asdfasd fasdfasdfasd adsfsadfasdf adsfasdfads (level: 46) 
 
@@ -82,7 +82,7 @@ Umm why do you worship blaster?!?  :shock:
 
 </div>
 
-<div class="post" data-post-id="9636" data-author="Yasik" data-date="2005-11-26T14:45:46+00:00">
+<div class="post" data-post-id="9636" data-author="Yasik" data-date="2005-11-26T14:45:46+00:00" data-subject="">
 
 Your levels: Ma: 46 Wa: 46 Th: 46 Mo: 46 Cl: 46 Dr: 46 Ne: 46 Ba: 46 Av: 46
 
@@ -92,13 +92,13 @@ He still has mana and avatar winds upgrades.
 
 </div>
 
-<div class="post" data-post-id="9637" data-author="Weasel" data-date="2005-11-26T15:34:49+00:00">
+<div class="post" data-post-id="9637" data-author="Weasel" data-date="2005-11-26T15:34:49+00:00" data-subject="">
 
 Who cares about that, just look at all the gold he's holding! Let's mug him!
 
 </div>
 
-<div class="post" data-post-id="9638" data-author="Autolycos" data-date="2005-11-26T15:54:14+00:00">
+<div class="post" data-post-id="9638" data-author="Autolycos" data-date="2005-11-26T15:54:14+00:00" data-subject="">
 
 Wanna fight huh splork? huh? Just me and you pal! *dances around punching the air wildly*  :P 
 
@@ -110,13 +110,13 @@ does anyone want to mention to jeezer just what splork means?   or maybe why tha
 
 </div>
 
-<div class="post" data-post-id="9643" data-author="Vixn" data-date="2005-11-26T20:43:58+00:00">
+<div class="post" data-post-id="9643" data-author="Vixn" data-date="2005-11-26T20:43:58+00:00" data-subject="">
 
 immortals are ethereal
 
 </div>
 
-<div class="post" data-post-id="9649" data-author="jezer" data-date="2005-11-27T13:22:54+00:00">
+<div class="post" data-post-id="9649" data-author="jezer" data-date="2005-11-27T13:22:54+00:00" data-subject="">
 
 wraithtouch splork  :wink: 
 

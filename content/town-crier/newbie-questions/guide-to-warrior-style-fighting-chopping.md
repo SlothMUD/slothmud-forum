@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="7404" data-author="12345" data-date="2005-06-21T12:44:49+00:00">
+<div class="post" data-post-id="7404" data-author="12345" data-date="2005-06-21T12:44:49+00:00" data-subject="Guide to Warrior style fighting / Chopping">
 
 This is intended primarily for newbies.  If I left out anything important, let me know, it's hard to get everything in the first attempt.  Obviously, I'm not an expert in all classes, so if others can do similar for other other classes, I'm sure newbies would find it helpful.
 
@@ -34,19 +34,19 @@ In groups, the warrior will almost always be either the tank or close behind.  T
 
 </div>
 
-<div class="post" data-post-id="7406" data-author="Weasel" data-date="2005-06-21T14:19:54+00:00">
+<div class="post" data-post-id="7406" data-author="Weasel" data-date="2005-06-21T14:19:54+00:00" data-subject="">
 
 good stuff
 
 </div>
 
-<div class="post" data-post-id="7424" data-author="SirRobin" data-date="2005-06-21T21:01:29+00:00">
+<div class="post" data-post-id="7424" data-author="SirRobin" data-date="2005-06-21T21:01:29+00:00" data-subject="">
 
 This answers a lot of questions, thanks a lot.
 
 </div>
 
-<div class="post" data-post-id="7426" data-author="Leaf" data-date="2005-06-21T22:38:28+00:00">
+<div class="post" data-post-id="7426" data-author="Leaf" data-date="2005-06-21T22:38:28+00:00" data-subject="">
 
 Coolness.  Makes me want to restart my Warrior.  Also "Weaken" is another
 

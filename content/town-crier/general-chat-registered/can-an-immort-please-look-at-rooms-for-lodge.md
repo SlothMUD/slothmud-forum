@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="32467" data-author="Shyla" data-date="2011-03-10T21:28:23+00:00">
+<div class="post" data-post-id="32467" data-author="Shyla" data-date="2011-03-10T21:28:23+00:00" data-subject="can an immort please look at rooms for lodge">
 
 there are way too many outside rooms that you can't lodge your devaks into is there any way the code can be adjusted to allow any outside room so you don't have to scurry around all over the place trying to find the ONE room in an area that might be coded to allow it. 
 
@@ -24,7 +24,7 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="32469" data-author="Teron" data-date="2011-03-11T03:04:20+00:00">
+<div class="post" data-post-id="32469" data-author="Teron" data-date="2011-03-11T03:04:20+00:00" data-subject="Re: can an immort please look at rooms for lodge">
 
 I wonder if it has something to do with outside rooms, where you can't create a freshspring.
 
@@ -32,13 +32,13 @@ I can forgive that in a vault, where I might be supposed to have a fountain or a
 
 </div>
 
-<div class="post" data-post-id="32473" data-author="Sleeping Forest" data-date="2011-03-11T09:22:52+00:00">
+<div class="post" data-post-id="32473" data-author="Sleeping Forest" data-date="2011-03-11T09:22:52+00:00" data-subject="Re: can an immort please look at rooms for lodge">
 
 The room code must be the same for using Canopied Arbor spell. I run into the same struggle looking for a room to cast it in. Would be nice to see Lodge and Arbor opened up to all outdoor rooms.  :wink:  :wink:
 
 </div>
 
-<div class="post" data-post-id="32490" data-author="*juggleblood*" data-date="2011-03-18T15:04:59+00:00">
+<div class="post" data-post-id="32490" data-author="*juggleblood*" data-date="2011-03-18T15:04:59+00:00" data-subject="Re: can an immort please look at rooms for lodge">
 
 The aforementioned rooms had incorrect sector settings. I made them forest. If you find rooms like this that seem to be marked the wrong sector, you can report them with bugs and I'll check it at random intervals.
 

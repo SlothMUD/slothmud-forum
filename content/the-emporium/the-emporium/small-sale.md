@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="458" data-author="Eagle" data-date="2004-06-01T21:13:10+00:00">
+<div class="post" data-post-id="458" data-author="Eagle" data-date="2004-06-01T21:13:10+00:00" data-subject="small sale">
 
 multicolored mantle     (robe, 6mana +con)              350k
 
@@ -24,7 +24,7 @@ thiefs lantern    (high, +dex)                                    200k
 
 </div>
 
-<div class="post" data-post-id="547" data-author="Eagle" data-date="2004-06-05T18:42:13+00:00">
+<div class="post" data-post-id="547" data-author="Eagle" data-date="2004-06-05T18:42:13+00:00" data-subject="sold">
 
 Sold to bh auction house!
 

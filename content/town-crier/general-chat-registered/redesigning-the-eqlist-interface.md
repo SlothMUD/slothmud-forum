@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="34844" data-author="van" data-date="2014-01-31T21:37:46+00:00">
+<div class="post" data-post-id="34844" data-author="van" data-date="2014-01-31T21:37:46+00:00" data-subject="Redesigning the eqlist interface">
 
 Hi all!
 
@@ -38,7 +38,7 @@ I'll be posting forum updates on this as I hit certain milestones, and I'd love 
 
 </div>
 
-<div class="post" data-post-id="34847" data-author="*Breeze*" data-date="2014-02-01T07:52:16+00:00">
+<div class="post" data-post-id="34847" data-author="*Breeze*" data-date="2014-02-01T07:52:16+00:00" data-subject="Re: Redesigning the eqlist interface">
 
 Remember to get with me  whenever you want to save or load something to/from a chars profile so I can tell you how to auth the char and access the storage linked to the char logged in, including their stats for the dressing room bits.
 
@@ -48,19 +48,19 @@ Are you going to use my database or will you need your own? (Email me)
 
 </div>
 
-<div class="post" data-post-id="34848" data-author="Marvel" data-date="2014-02-01T23:45:39+00:00">
+<div class="post" data-post-id="34848" data-author="Marvel" data-date="2014-02-01T23:45:39+00:00" data-subject="Re: Redesigning the eqlist interface">
 
 #1 on list: Make xtraflag searchable so you can find CAN-SHAPESHIFT items.
 
 </div>
 
-<div class="post" data-post-id="34853" data-author="*Breeze*" data-date="2014-02-04T23:04:11+00:00">
+<div class="post" data-post-id="34853" data-author="*Breeze*" data-date="2014-02-04T23:04:11+00:00" data-subject="Re: Redesigning the eqlist interface">
 
 you _can_ search for shapeshiftable (TYPE_SHAPESHIFT) stuff but you cant combine with other type_ filters but you should be able to use the wear_ filters with it..
 
 </div>
 
-<div class="post" data-post-id="34854" data-author="Reece" data-date="2014-02-05T09:54:30+00:00">
+<div class="post" data-post-id="34854" data-author="Reece" data-date="2014-02-05T09:54:30+00:00" data-subject="Re: Redesigning the eqlist interface">
 
 Like I already told you on the mud but you told me to put it here..
 
@@ -68,7 +68,7 @@ I would like to see a comparison feature implemented, be much easier to figure o
 
 </div>
 
-<div class="post" data-post-id="34855" data-author="*Breeze*" data-date="2014-02-05T10:43:12+00:00">
+<div class="post" data-post-id="34855" data-author="*Breeze*" data-date="2014-02-05T10:43:12+00:00" data-subject="Re: Redesigning the eqlist interface">
 
 Patrick is doing it. I am providing him the data and he is redoing it.
 
@@ -76,7 +76,7 @@ The list should have been a mortal thing anyways.
 
 </div>
 
-<div class="post" data-post-id="34870" data-author="Ezekiel" data-date="2014-02-18T08:07:05+00:00">
+<div class="post" data-post-id="34870" data-author="Ezekiel" data-date="2014-02-18T08:07:05+00:00" data-subject="Re: Redesigning the eqlist interface">
 
 I liked it when I would be helping newbs navigate the site two eq lists ago... when say they were level 20:
 

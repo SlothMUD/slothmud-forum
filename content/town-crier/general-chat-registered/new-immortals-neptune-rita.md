@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31069" data-author="*Splork*" data-date="2010-04-21T21:27:38+00:00">
+<div class="post" data-post-id="31069" data-author="*Splork*" data-date="2010-04-21T21:27:38+00:00" data-subject="New Immortals, Neptune &amp; Rita!">
 
 SlothMUD has been up for a full year since we decided to do the restart. I think we in a great place to start adding new/old blood. Thus a very fun and exciting announcement:
 
@@ -24,13 +24,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31071" data-author="Dragoth" data-date="2010-04-23T09:13:47+00:00">
+<div class="post" data-post-id="31071" data-author="Dragoth" data-date="2010-04-23T09:13:47+00:00" data-subject="">
 
 Hey to Aquaman from Soulmud's Dracula  :D
 
 </div>
 
-<div class="post" data-post-id="31074" data-author="*Neptune*" data-date="2010-04-24T17:24:59+00:00">
+<div class="post" data-post-id="31074" data-author="*Neptune*" data-date="2010-04-24T17:24:59+00:00" data-subject="&quot;&quot;">
 
 Glad to see you again there, Dragoth.  
 

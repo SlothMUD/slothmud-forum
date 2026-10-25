@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="12790" data-author="Weasel" data-date="2006-05-29T20:57:43+00:00">
+<div class="post" data-post-id="12790" data-author="Weasel" data-date="2006-05-29T20:57:43+00:00" data-subject="dead on Lyme">
 
 at docks.. beware the chicken! pls come get me
 

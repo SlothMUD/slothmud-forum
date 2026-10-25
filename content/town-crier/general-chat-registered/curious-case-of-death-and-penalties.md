@@ -10,7 +10,7 @@ locked: false
 post_count: 27
 ---
 
-<div class="post" data-post-id="31428" data-author="Dragoth" data-date="2010-08-09T21:11:11+00:00">
+<div class="post" data-post-id="31428" data-author="Dragoth" data-date="2010-08-09T21:11:11+00:00" data-subject="Curious case of death and penalties">
 
 I tried to hold myself off from writing this as its a sore point for the game, but whatever.
 
@@ -42,13 +42,13 @@ Peace
 
 </div>
 
-<div class="post" data-post-id="31430" data-author="Tuck" data-date="2010-08-09T23:34:36+00:00">
+<div class="post" data-post-id="31430" data-author="Tuck" data-date="2010-08-09T23:34:36+00:00" data-subject="Re: Curious case of death and penalties">
 
 it's sloth, dude. welcome to the struggle. no offense.
 
 </div>
 
-<div class="post" data-post-id="31432" data-author="Dragoth" data-date="2010-08-10T08:05:08+00:00">
+<div class="post" data-post-id="31432" data-author="Dragoth" data-date="2010-08-10T08:05:08+00:00" data-subject="Re: Curious case of death and penalties">
 
 If that is the way you think Jezer then its absolutely you right to do so.
 
@@ -60,7 +60,7 @@ As i have already mentioned, i would feel much better if after every death the c
 
 </div>
 
-<div class="post" data-post-id="31433" data-author="jezer" data-date="2010-08-10T10:27:14+00:00">
+<div class="post" data-post-id="31433" data-author="jezer" data-date="2010-08-10T10:27:14+00:00" data-subject="Re: Curious case of death and penalties">
 
 I risk little and die little - druid is a safe class when it comes to death... It could be the deaths are careless newbies, or players that we know to be careless, or a thief having a bad week.
 
@@ -76,7 +76,7 @@ There are only 17 active characters above 4x40, yet the most players on at any o
 
 </div>
 
-<div class="post" data-post-id="31434" data-author="Dragoth" data-date="2010-08-10T12:09:01+00:00">
+<div class="post" data-post-id="31434" data-author="Dragoth" data-date="2010-08-10T12:09:01+00:00" data-subject="Re: Curious case of death and penalties">
 
 There is some truth to what you speak, but i'll tell you what - your class order is based on very bad decisions. It's very easy to be dissapointed with the game when there is no progress to be seen in sight, and class order plays a very important part in this process.
 
@@ -104,7 +104,7 @@ Actually when you have just started your char i think i remember telling you tha
 
 </div>
 
-<div class="post" data-post-id="31435" data-author="*Splork*" data-date="2010-08-10T14:35:07+00:00">
+<div class="post" data-post-id="31435" data-author="*Splork*" data-date="2010-08-10T14:35:07+00:00" data-subject="Re: Curious case of death and penalties">
 
 Sorry but Ive been away from sloth other than fixing the other nights events or a couple bugs at suggestions from Chobbs for the last 3-4 months. If you havent noticed that Jezer, it certainly does not surprise me. Working 12 hour days 7 days a week has caused it. 
 
@@ -120,7 +120,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31436" data-author="Nobody" data-date="2010-08-10T14:52:35+00:00">
+<div class="post" data-post-id="31436" data-author="Nobody" data-date="2010-08-10T14:52:35+00:00" data-subject="Re: Curious case of death and penalties">
 
 Howdy, 
 
@@ -148,7 +148,7 @@ Nobody has ideas!
 
 </div>
 
-<div class="post" data-post-id="31438" data-author="Dragoth" data-date="2010-08-10T15:35:39+00:00">
+<div class="post" data-post-id="31438" data-author="Dragoth" data-date="2010-08-10T15:35:39+00:00" data-subject="Re: Curious case of death and penalties">
 
 I really feel like the mud could benefit from a change of the death penalty ways to some other form. Yes, its been with us from day one, but so were the complaints and quittings because of it. No other game practices such a form of death penalty and i'm pretty sure it's not because we are the only ones who thought of it. A game should be a joyful experience that has its challenging moments, but anything that pisses a player off should be avoided at all costs. 
 
@@ -170,7 +170,7 @@ Im absolutely positive that death can be made a challenge in itself, instead of 
 
 </div>
 
-<div class="post" data-post-id="31439" data-author="*Splork*" data-date="2010-08-10T15:44:17+00:00">
+<div class="post" data-post-id="31439" data-author="*Splork*" data-date="2010-08-10T15:44:17+00:00" data-subject="Re: Curious case of death and penalties">
 
 I really like the lower chance of death after one dies but when would the lower chance reset to normal? When the death counter reaches 10 or something or based on time?
 
@@ -180,7 +180,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31440" data-author="Dragoth" data-date="2010-08-10T15:51:34+00:00">
+<div class="post" data-post-id="31440" data-author="Dragoth" data-date="2010-08-10T15:51:34+00:00" data-subject="Re: Curious case of death and penalties">
 
 But how often do you die twice in a row  ? As far as i am aware, its not a matter of consequential deaths that piss people off, its the matter of losing exp.
 
@@ -192,7 +192,7 @@ I also understand that it is much easier to just adjust what's already ingame an
 
 </div>
 
-<div class="post" data-post-id="31441" data-author="*Splork*" data-date="2010-08-10T15:59:33+00:00">
+<div class="post" data-post-id="31441" data-author="*Splork*" data-date="2010-08-10T15:59:33+00:00" data-subject="Re: Curious case of death and penalties">
 
 I can assure everyone, we will never remove xp as a penalty from corpsing. 
 
@@ -204,13 +204,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31442" data-author="Dragoth" data-date="2010-08-10T16:08:59+00:00">
+<div class="post" data-post-id="31442" data-author="Dragoth" data-date="2010-08-10T16:08:59+00:00" data-subject="Re: Curious case of death and penalties">
 
 This is a terrible nightmare, Jake is the one who feeds on the sorrows of slothers then. I hope all those people who quit because of this will not come back to haunt him..
 
 </div>
 
-<div class="post" data-post-id="31443" data-author="*Splork*" data-date="2010-08-10T16:14:18+00:00">
+<div class="post" data-post-id="31443" data-author="*Splork*" data-date="2010-08-10T16:14:18+00:00" data-subject="Re: Curious case of death and penalties">
 
 We are clearly willing to work with the players on this one but we have always felt, and always will, that we need xp loss for corpsing.
 
@@ -222,7 +222,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31444" data-author="Dragoth" data-date="2010-08-10T16:45:42+00:00">
+<div class="post" data-post-id="31444" data-author="Dragoth" data-date="2010-08-10T16:45:42+00:00" data-subject="Re: Curious case of death and penalties">
 
 Well, if you really feel that exp loss is the best suited punishment for death and nothing can make you think otherwise then i am a bit dissapointed. Whatever the reductions in rate, the single purpose of this will always boil down to pissing people off and making them leave the game when that unfortunate moment comes and you die at not the right moment ( bad mood, close to level a few too many lost concs), but im pretty sure you understand all the risks after so many complaints and quits so it's your call once again, you guys know best.
 
@@ -232,7 +232,7 @@ I've said all i had to say.
 
 </div>
 
-<div class="post" data-post-id="31445" data-author="jezer" data-date="2010-08-10T19:45:26+00:00">
+<div class="post" data-post-id="31445" data-author="jezer" data-date="2010-08-10T19:45:26+00:00" data-subject="Re: Curious case of death and penalties">
 
 Dragoth, my class order is unconventional, but it's enjoyable and caters for what I lacked playing Apprentice. Just because I'm druid first and not a 4x prime caster people don't get it... I've been there and done that with Apprentice - it was fun but not very versatile, If we started the new sloth again today based on the information I had then, I would certainly choose the same order I have now. I still think time will show how versatile and powerful I can be with this dual prime classing after 6x40.
 
@@ -242,7 +242,7 @@ And I'm not attacking your PERSON splork, I'm criticising your work. Taking it p
 
 </div>
 
-<div class="post" data-post-id="31447" data-author="van" data-date="2010-08-10T20:33:14+00:00">
+<div class="post" data-post-id="31447" data-author="van" data-date="2010-08-10T20:33:14+00:00" data-subject="Re: Curious case of death and penalties">
 
 I do like the idea of a timer somebody (or was it nobody?) floated above, reducing the amount lost on successive fails (either of raises or of players).
 
@@ -250,13 +250,13 @@ Of course, we all know the REAL problem here is that clerics suck at raising me.
 
 </div>
 
-<div class="post" data-post-id="31448" data-author="reboog" data-date="2010-08-10T20:38:25+00:00">
+<div class="post" data-post-id="31448" data-author="reboog" data-date="2010-08-10T20:38:25+00:00" data-subject="Re: Curious case of death and penalties">
 
 Who is your daddy, and what does he do?  You lack discipline.  Stop whining!
 
 </div>
 
-<div class="post" data-post-id="31452" data-author="Stab" data-date="2010-08-11T17:01:24+00:00">
+<div class="post" data-post-id="31452" data-author="Stab" data-date="2010-08-11T17:01:24+00:00" data-subject="Re: Curious case of death and penalties">
 
 I liked a hint at an amiable solution Splork had "Yes, this game is planned for the long term but its probably time to add some time '(type)'? of a totol level bonus to xp gains."  I think cap was raised at 240 levels for me.
 
@@ -268,7 +268,7 @@ Stab
 
 </div>
 
-<div class="post" data-post-id="31472" data-author="Acedia" data-date="2010-08-12T10:43:21+00:00">
+<div class="post" data-post-id="31472" data-author="Acedia" data-date="2010-08-12T10:43:21+00:00" data-subject="Re: Curious case of death and penalties">
 
 Hi Jezer, your posts are idiotic.  
 
@@ -276,13 +276,13 @@ And I'm not attacking your PERSON jezer, I'm criticising your work. Taking it pe
 
 </div>
 
-<div class="post" data-post-id="34834" data-author="mrwarhammer" data-date="2014-01-28T01:14:47+00:00">
+<div class="post" data-post-id="34834" data-author="mrwarhammer" data-date="2014-01-28T01:14:47+00:00" data-subject="Re: Curious case of death and penalties">
 
 Reading this, make me take pause before I start to play.  Just wondering if there was ever any change after this?  I certainly don't want to invest months and years to get to a point where all I do is walk around talking to people, and die without being able to level up or work new areas/challenges.  So few people that have made it to 4x40, seems concerning.  Is that still the case?
 
 </div>
 
-<div class="post" data-post-id="34835" data-author="*Splork*" data-date="2014-01-28T01:40:36+00:00">
+<div class="post" data-post-id="34835" data-author="*Splork*" data-date="2014-01-28T01:40:36+00:00" data-subject="Re: Curious case of death and penalties">
 
 I can get exact numbers but I am quite sure that well over 100 players have reached 4x40, a dozen or more have reached 9x40.
 
@@ -292,7 +292,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34840" data-author="*Neptune*" data-date="2014-01-29T17:30:25+00:00">
+<div class="post" data-post-id="34840" data-author="*Neptune*" data-date="2014-01-29T17:30:25+00:00" data-subject="Re: Curious case of death and penalties">
 
 As Splork said, there are plenty of people - a significant portion of the playerbase - that have achieved Quad 40 or better. This is evident in the way that we've tried to address more EQ options for levels in those ranges moreso  than in the past. New features such as the spirit token have also gone in to address issues that avatars may have. Sometimes it's easier to set small goals rather than trying to beeline towards an ultimate endpoint several years in the future. It helps to keep the overall picture from becoming a daunting task to one of several very manageable milestones, however personal or not.
 
@@ -300,13 +300,13 @@ As Splork said, there are plenty of people - a significant portion of the player
 
 </div>
 
-<div class="post" data-post-id="34841" data-author="DarkArtist" data-date="2014-01-29T23:53:57+00:00">
+<div class="post" data-post-id="34841" data-author="DarkArtist" data-date="2014-01-29T23:53:57+00:00" data-subject="Re: Curious case of death and penalties">
 
 Van is one of the few players to make the dubious achievement of dying more than 100 times in a single week. He's looking ahead to what his losses are going to be. Hopefully 2014 won't be as deadly as 2007 van :)
 
 </div>
 
-<div class="post" data-post-id="34843" data-author="Acedia" data-date="2014-01-31T13:54:36+00:00">
+<div class="post" data-post-id="34843" data-author="Acedia" data-date="2014-01-31T13:54:36+00:00" data-subject="Re: Curious case of death and penalties">
 
 Van?  Is that you, man?
 
@@ -322,13 +322,13 @@ Moving right along!
 
 </div>
 
-<div class="post" data-post-id="34845" data-author="van" data-date="2014-01-31T21:45:30+00:00">
+<div class="post" data-post-id="34845" data-author="van" data-date="2014-01-31T21:45:30+00:00" data-subject="Re: Curious case of death and penalties">
 
 Lol yep, I'm back.  Still in the single digits for deaths this week, though!
 
 </div>
 
-<div class="post" data-post-id="34846" data-author="*Idjit*" data-date="2014-02-01T00:25:07+00:00">
+<div class="post" data-post-id="34846" data-author="*Idjit*" data-date="2014-02-01T00:25:07+00:00" data-subject="Re: Curious case of death and penalties">
 
 Not for want of me trying to kill him.  Honestly.
 
@@ -336,7 +336,7 @@ Not for want of me trying to kill him.  Honestly.
 
 </div>
 
-<div class="post" data-post-id="34860" data-author="reboog" data-date="2014-02-11T20:55:00+00:00">
+<div class="post" data-post-id="34860" data-author="reboog" data-date="2014-02-11T20:55:00+00:00" data-subject="Re: Curious case of death and penalties">
 
 > **Acedia wrote:**
 > Van?  Is that you, man?

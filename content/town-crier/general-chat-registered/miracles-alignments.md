@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="7367" data-author="Volnaib" data-date="2005-06-20T13:47:36+00:00">
+<div class="post" data-post-id="7367" data-author="Volnaib" data-date="2005-06-20T13:47:36+00:00" data-subject="Miracles alignments?">
 
 I do not understand why so alignment sharply changes. There can be somebody explain?
 
@@ -60,13 +60,13 @@ You have a heart of blackest evil.
 
 </div>
 
-<div class="post" data-post-id="7372" data-author="kjartan" data-date="2005-06-20T14:13:11+00:00">
+<div class="post" data-post-id="7372" data-author="kjartan" data-date="2005-06-20T14:13:11+00:00" data-subject="">
 
 I think discord makes your alignment fluctuate wildly.  So, basically, you were evil the whole time, but the disease was screwing you up and then when you cured it you went back to being evil.
 
 </div>
 
-<div class="post" data-post-id="7375" data-author="Ditheca" data-date="2005-06-20T16:17:39+00:00">
+<div class="post" data-post-id="7375" data-author="Ditheca" data-date="2005-06-20T16:17:39+00:00" data-subject="">
 
 Give me that disease!!!  If i'm too evil to summon a follower, i just have to wait a tick or two and then i'm filled to bursting with righteousness?  Sounds like a blessing to me, why'd you go removing it? *Grins*  Infect us all with discord!
 

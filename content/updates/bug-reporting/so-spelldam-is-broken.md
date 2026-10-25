@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="31488" data-author="Tuck" data-date="2010-08-13T21:42:15+00:00">
+<div class="post" data-post-id="31488" data-author="Tuck" data-date="2010-08-13T21:42:15+00:00" data-subject="So, Spelldam is broken?">
 
 Me and toxis was doing some research on spelldam bonus, so brief result:
 
@@ -356,7 +356,7 @@ Thanks in advance.
 
 </div>
 
-<div class="post" data-post-id="31495" data-author="*Splork*" data-date="2010-08-15T02:51:22+00:00">
+<div class="post" data-post-id="31495" data-author="*Splork*" data-date="2010-08-15T02:51:22+00:00" data-subject="Re: So, Spelldam is broken?">
 
 Please check again on reboot and let me know if you notice a difference.
 
@@ -364,7 +364,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31497" data-author="Tuck" data-date="2010-08-15T17:34:06+00:00">
+<div class="post" data-post-id="31497" data-author="Tuck" data-date="2010-08-15T17:34:06+00:00" data-subject="Re: So, Spelldam is broken?">
 
 Can you reboot game, please?  :twisted: 
 
@@ -372,7 +372,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="31498" data-author="*Splork*" data-date="2010-08-15T18:45:52+00:00">
+<div class="post" data-post-id="31498" data-author="*Splork*" data-date="2010-08-15T18:45:52+00:00" data-subject="Re: So, Spelldam is broken?">
 
 Game will reboot when it crashes, changes are not that important sorry.
 
@@ -380,7 +380,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31500" data-author="Tuck" data-date="2010-08-16T08:57:44+00:00">
+<div class="post" data-post-id="31500" data-author="Tuck" data-date="2010-08-16T08:57:44+00:00" data-subject="Re: So, Spelldam is broken?">
 
 Tested it on acme and self.
 
@@ -703,7 +703,7 @@ p.s. unedited log available upon request.
 
 </div>
 
-<div class="post" data-post-id="31501" data-author="Dragoth" data-date="2010-08-16T09:46:55+00:00">
+<div class="post" data-post-id="31501" data-author="Dragoth" data-date="2010-08-16T09:46:55+00:00" data-subject="Re: So, Spelldam is broken?">
 
 What spelldam are you running, 100? As you have no aegis that seems pretty weak, only 25 min 60 max bonus ?
 
@@ -715,7 +715,7 @@ It's good that someone actually bothered to test this, quite funny noone cared f
 
 </div>
 
-<div class="post" data-post-id="31502" data-author="Tuck" data-date="2010-08-16T10:10:11+00:00">
+<div class="post" data-post-id="31502" data-author="Tuck" data-date="2010-08-16T10:10:11+00:00" data-subject="Re: So, Spelldam is broken?">
 
 > **Dragoth wrote:**
 > What spelldam are you running, 100? As you have no aegis that seems pretty weak, only 25 min 60 max bonus ?
@@ -726,7 +726,7 @@ All test has been done without aegis or any resist/save_vs_spell up.
 
 </div>
 
-<div class="post" data-post-id="31504" data-author="*Splork*" data-date="2010-08-16T13:54:48+00:00">
+<div class="post" data-post-id="31504" data-author="*Splork*" data-date="2010-08-16T13:54:48+00:00" data-subject="Re: So, Spelldam is broken?">
 
 Spelldam does get added to every casting, however it is done before saves are made. If a player or mob saves against the spell, only half of the spell damage equipment is going to get through.
 
@@ -736,7 +736,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31505" data-author="Tuck" data-date="2010-08-16T15:53:44+00:00">
+<div class="post" data-post-id="31505" data-author="Tuck" data-date="2010-08-16T15:53:44+00:00" data-subject="Re: So, Spelldam is broken?">
 
 So, save_vs_spell working with ~90% chance if i blast someone(toxis/acme) or myself.
 

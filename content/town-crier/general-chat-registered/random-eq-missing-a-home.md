@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="25665" data-author="Acedia" data-date="2008-08-07T06:01:22+00:00">
+<div class="post" data-post-id="25665" data-author="Acedia" data-date="2008-08-07T06:01:22+00:00" data-subject="Random eq missing a home">
 
 Mornin', 
 
@@ -26,7 +26,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="25674" data-author="Acedia" data-date="2008-08-07T21:18:08+00:00">
+<div class="post" data-post-id="25674" data-author="Acedia" data-date="2008-08-07T21:18:08+00:00" data-subject="">
 
 Mornin' again, 
 
@@ -48,7 +48,7 @@ And why are all these people quiting and leaving their stuff lying everywhere?! 
 
 </div>
 
-<div class="post" data-post-id="25675" data-author="Rynquald" data-date="2008-08-07T22:43:38+00:00">
+<div class="post" data-post-id="25675" data-author="Rynquald" data-date="2008-08-07T22:43:38+00:00" data-subject="">
 
 It happens once in a while.
 

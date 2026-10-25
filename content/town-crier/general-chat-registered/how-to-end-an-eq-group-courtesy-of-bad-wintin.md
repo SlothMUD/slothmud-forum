@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="28021" data-author="Medios" data-date="2009-02-08T15:52:27+00:00">
+<div class="post" data-post-id="28021" data-author="Medios" data-date="2009-02-08T15:52:27+00:00" data-subject="How to end an eq group courtesy of bad wintin">
 
 One reason I hate when you don't know your code.
 
@@ -526,7 +526,7 @@ You flee head over heels.
 
 </div>
 
-<div class="post" data-post-id="28022" data-author="Toxis" data-date="2009-02-08T16:26:11+00:00">
+<div class="post" data-post-id="28022" data-author="Toxis" data-date="2009-02-08T16:26:11+00:00" data-subject="">
 
 I know my code, Mike.  I have never seen followers growl at mobs before.  I should have guessed, but there is too much damn spam in this mud why I've never seen it.  Mud moves fast, I don't use mud colors, and I've never seen that from followers.
 
@@ -536,7 +536,7 @@ This is just one more headache for tanks.  I'm sick of people not paying attenti
 
 </div>
 
-<div class="post" data-post-id="28023" data-author="Gimlet" data-date="2009-02-08T17:30:58+00:00">
+<div class="post" data-post-id="28023" data-author="Gimlet" data-date="2009-02-08T17:30:58+00:00" data-subject="">
 
 this could potentially be messy
 
@@ -554,7 +554,7 @@ not sure, haven't tested it out since i don't have a tank char
 
 </div>
 
-<div class="post" data-post-id="28024" data-author="Medios" data-date="2009-02-08T17:36:30+00:00">
+<div class="post" data-post-id="28024" data-author="Medios" data-date="2009-02-08T17:36:30+00:00" data-subject="">
 
 I know my code, Mike.  I have never seen followers growl at mobs before.  I should have guessed, but there is too much damn spam in this mud why I've never seen it.  Mud moves fast, I don't use mud colors, and I've never seen that from followers.
 
@@ -566,7 +566,7 @@ Im glad you got to the bottom of the problem...
 
 </div>
 
-<div class="post" data-post-id="28025" data-author="*juggleblood*" data-date="2009-02-08T19:14:42+00:00">
+<div class="post" data-post-id="28025" data-author="*juggleblood*" data-date="2009-02-08T19:14:42+00:00" data-subject="">
 
 Another fun log about user error. Too ironic.
 
@@ -818,7 +818,7 @@ Xamak bumps into a wall to the west.
 
 </div>
 
-<div class="post" data-post-id="28026" data-author="jezer" data-date="2009-02-08T22:56:32+00:00">
+<div class="post" data-post-id="28026" data-author="jezer" data-date="2009-02-08T22:56:32+00:00" data-subject="">
 
 Here is one of my fun logs...
 

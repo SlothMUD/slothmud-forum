@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="19879" data-author="Leaf" data-date="2007-08-24T04:25:22+00:00">
+<div class="post" data-post-id="19879" data-author="Leaf" data-date="2007-08-24T04:25:22+00:00" data-subject="Thalassan Royal EQ Set">
 
 Ok I have a little question regarding this set of eq.  Armor, Shield, and Plates
 
@@ -138,7 +138,7 @@ use this item.
 
 </div>
 
-<div class="post" data-post-id="19880" data-author="Weasel" data-date="2007-08-24T04:52:31+00:00">
+<div class="post" data-post-id="19880" data-author="Weasel" data-date="2007-08-24T04:52:31+00:00" data-subject="">
 
 Yeah been there.. where it says -1, it's actually -0.1, unfortunately.
 
@@ -146,7 +146,7 @@ Worked out with getting the whole set and replacing what I have, I was basically
 
 </div>
 
-<div class="post" data-post-id="19889" data-author="Medios" data-date="2007-08-24T19:56:38+00:00">
+<div class="post" data-post-id="19889" data-author="Medios" data-date="2007-08-24T19:56:38+00:00" data-subject="">
 
 You forgot the hat.
 
@@ -166,13 +166,13 @@ This set has every piece with the highest possible ac and also 1.8 leggings whic
 
 </div>
 
-<div class="post" data-post-id="19890" data-author="13" data-date="2007-08-24T19:58:19+00:00">
+<div class="post" data-post-id="19890" data-author="13" data-date="2007-08-24T19:58:19+00:00" data-subject="">
 
 It's tight I'm gonna get some.
 
 </div>
 
-<div class="post" data-post-id="19892" data-author="Weasel" data-date="2007-08-24T22:05:52+00:00">
+<div class="post" data-post-id="19892" data-author="Weasel" data-date="2007-08-24T22:05:52+00:00" data-subject="">
 
 You forgot the hat.
 
@@ -254,19 +254,19 @@ Maybe once I have bought better stats... but no, as a Warrior prime, I need ac m
 
 </div>
 
-<div class="post" data-post-id="19893" data-author="Tap" data-date="2007-08-24T22:41:09+00:00">
+<div class="post" data-post-id="19893" data-author="Tap" data-date="2007-08-24T22:41:09+00:00" data-subject="">
 
 You could spend some extra drachma on fish scale buckles and gain +waterbreath and + HP regen...and last I looked.. U can wear 4-5 buckles clasped to different pieces of armor...
 
 </div>
 
-<div class="post" data-post-id="19895" data-author="12345" data-date="2007-08-25T00:11:06+00:00">
+<div class="post" data-post-id="19895" data-author="12345" data-date="2007-08-25T00:11:06+00:00" data-subject="">
 
 +23 hp regen?  Hmmm...
 
 </div>
 
-<div class="post" data-post-id="19896" data-author="Weasel" data-date="2007-08-25T01:00:02+00:00">
+<div class="post" data-post-id="19896" data-author="Weasel" data-date="2007-08-25T01:00:02+00:00" data-subject="">
 
 +23 hp regen?  Hmmm...[/quote:3ksm4epw]
 
@@ -274,7 +274,7 @@ yeah it sounds pretty good, but 23hp per *minute* doesn't make that much of a di
 
 </div>
 
-<div class="post" data-post-id="19897" data-author="Avatar" data-date="2007-08-25T01:32:47+00:00">
+<div class="post" data-post-id="19897" data-author="Avatar" data-date="2007-08-25T01:32:47+00:00" data-subject="HP Regen">
 
 Besides that, it's almost 100 dr per +1 hp regen.  No thanks!
 
@@ -282,13 +282,13 @@ The thal gear would be nice if you had -12.9 and needed that last .1.  Otherwise
 
 </div>
 
-<div class="post" data-post-id="19898" data-author="Medios" data-date="2007-08-25T01:51:18+00:00">
+<div class="post" data-post-id="19898" data-author="Medios" data-date="2007-08-25T01:51:18+00:00" data-subject="">
 
 You only need 5 pieces.  There is no reason to trade in your Cuirass or buy the thal body armor.  Geesh.  As far as needing dex and con all I can offer is *comfort*.
 
 </div>
 
-<div class="post" data-post-id="19899" data-author="12345" data-date="2007-08-25T03:16:13+00:00">
+<div class="post" data-post-id="19899" data-author="12345" data-date="2007-08-25T03:16:13+00:00" data-subject="">
 
 +23 hp regen?  Hmmm...[/quote:ip7nyz30]
 
@@ -298,7 +298,7 @@ I have a regen of 129 standing, 172 in battle and 322 resting.  Another 23 would
 
 </div>
 
-<div class="post" data-post-id="19900" data-author="Tap" data-date="2007-08-25T03:16:37+00:00">
+<div class="post" data-post-id="19900" data-author="Tap" data-date="2007-08-25T03:16:37+00:00" data-subject="">
 
 Buy the mask... get -1.3ac AND + dex plus control undead to boot 
 
@@ -306,13 +306,13 @@ Kill 2 birds with 1 stone
 
 </div>
 
-<div class="post" data-post-id="19902" data-author="12345" data-date="2007-08-25T03:23:26+00:00">
+<div class="post" data-post-id="19902" data-author="12345" data-date="2007-08-25T03:23:26+00:00" data-subject="">
 
 You don't have the slightest idea what you're talking about do you?
 
 </div>
 
-<div class="post" data-post-id="19903" data-author="Weasel" data-date="2007-08-25T04:11:26+00:00">
+<div class="post" data-post-id="19903" data-author="Weasel" data-date="2007-08-25T04:11:26+00:00" data-subject="">
 
 You only need 5 pieces.  There is no reason to trade in your Cuirass or buy the thal body armor.  Geesh.  As far as needing dex and con all I can offer is *comfort*.[/quote:nmrhxih0]
 
@@ -344,13 +344,13 @@ Note that says "with five OTHER pieces", meaning itself and 5 others, which is 6
 
 </div>
 
-<div class="post" data-post-id="19904" data-author="Mosaix" data-date="2007-08-25T04:49:34+00:00">
+<div class="post" data-post-id="19904" data-author="Mosaix" data-date="2007-08-25T04:49:34+00:00" data-subject="">
 
 math is tough
 
 </div>
 
-<div class="post" data-post-id="19905" data-author="13" data-date="2007-08-25T05:03:17+00:00">
+<div class="post" data-post-id="19905" data-author="13" data-date="2007-08-25T05:03:17+00:00" data-subject="">
 
 I'm like, mad at numbers and stuff.
 
@@ -358,25 +358,25 @@ I'm like, mad at numbers and stuff.
 
 </div>
 
-<div class="post" data-post-id="19907" data-author="Tap" data-date="2007-08-25T22:06:10+00:00">
+<div class="post" data-post-id="19907" data-author="Tap" data-date="2007-08-25T22:06:10+00:00" data-subject="">
 
 From personal expereince, I find numbers to be a pain in the ass. :lol:
 
 </div>
 
-<div class="post" data-post-id="19910" data-author="banedon" data-date="2007-08-26T03:56:32+00:00">
+<div class="post" data-post-id="19910" data-author="banedon" data-date="2007-08-26T03:56:32+00:00" data-subject="">
 
 Sadly, numbers are gonna be my life.  I'm an accounting major - haven't decided on a specialty yet (if I even decide to specialize)
 
 </div>
 
-<div class="post" data-post-id="19911" data-author="Weasel" data-date="2007-08-26T04:28:51+00:00">
+<div class="post" data-post-id="19911" data-author="Weasel" data-date="2007-08-26T04:28:51+00:00" data-subject="">
 
 Ditto..  :shock:
 
 </div>
 
-<div class="post" data-post-id="19913" data-author="tincts" data-date="2007-08-26T05:35:58+00:00">
+<div class="post" data-post-id="19913" data-author="tincts" data-date="2007-08-26T05:35:58+00:00" data-subject="">
 
 Ditto too
 

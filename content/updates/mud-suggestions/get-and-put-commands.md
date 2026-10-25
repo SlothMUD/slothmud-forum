@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="21715" data-author="jezer" data-date="2007-12-19T00:38:48+00:00">
+<div class="post" data-post-id="21715" data-author="jezer" data-date="2007-12-19T00:38:48+00:00" data-subject="get and put commands">
 
 Can we change the get command to work like put...
 
@@ -24,19 +24,19 @@ Just wondering whether we could change get to work the same way?
 
 </div>
 
-<div class="post" data-post-id="21741" data-author="mahkra" data-date="2007-12-20T03:12:19+00:00">
+<div class="post" data-post-id="21741" data-author="mahkra" data-date="2007-12-20T03:12:19+00:00" data-subject="">
 
 it would probably be easier to code it put <container> <items> but given what was done to wear all and rem all I assume they want each item to be separate and have lag associated with each action since that is kind of the justification for adding the lag to those.
 
 </div>
 
-<div class="post" data-post-id="21743" data-author="jezer" data-date="2007-12-20T05:00:30+00:00">
+<div class="post" data-post-id="21743" data-author="jezer" data-date="2007-12-20T05:00:30+00:00" data-subject="">
 
 I'm not worried if they keep the lags the same... just makes it simpler for scripting eqmodes.
 
 </div>
 
-<div class="post" data-post-id="27548" data-author="Teron" data-date="2008-12-29T08:57:34+00:00">
+<div class="post" data-post-id="27548" data-author="Teron" data-date="2008-12-29T08:57:34+00:00" data-subject="">
 
 Atm, I don't observe the behaviour of the put command described below.
 
@@ -46,7 +46,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="27556" data-author="marge" data-date="2008-12-30T17:03:54+00:00">
+<div class="post" data-post-id="27556" data-author="marge" data-date="2008-12-30T17:03:54+00:00" data-subject="Re: get and put commands">
 
 In the put command I can...
 
@@ -60,7 +60,7 @@ um, I can't do this.
 
 </div>
 
-<div class="post" data-post-id="27557" data-author="Medios" data-date="2008-12-30T23:32:01+00:00">
+<div class="post" data-post-id="27557" data-author="Medios" data-date="2008-12-30T23:32:01+00:00" data-subject="">
 
 This only works with remove.
 

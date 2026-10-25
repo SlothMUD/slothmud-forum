@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="8440" data-author="fyrstenheart" data-date="2005-08-26T20:06:50+00:00">
+<div class="post" data-post-id="8440" data-author="fyrstenheart" data-date="2005-08-26T20:06:50+00:00" data-subject="My best wishes to almost all of you.">
 
 Medios wrote:
 
@@ -68,31 +68,31 @@ Fyrstenheart, Asteras, Astras, Ashda, Drakis, et al.
 
 </div>
 
-<div class="post" data-post-id="8443" data-author="kjartan" data-date="2005-08-26T20:50:11+00:00">
+<div class="post" data-post-id="8443" data-author="kjartan" data-date="2005-08-26T20:50:11+00:00" data-subject="">
 
 I have no idea about any of these mortal affairs, but I will say: grats on having the idea to sic a nightmare on another player.  You were the first person I heard of doing that while actually intending to annoy the victim.  The gods, at least some of us, were much amused.
 
 </div>
 
-<div class="post" data-post-id="8444" data-author="blackmore" data-date="2005-08-27T00:02:07+00:00">
+<div class="post" data-post-id="8444" data-author="blackmore" data-date="2005-08-27T00:02:07+00:00" data-subject="">
 
 I thought about it a long time ago, but I wouldn't do it to anyone - well, not until it was done to me.  Then I stormed him to awf first, then put the nightmare on him.  That would have been fun if I weren't trying to get work done at the same time.
 
 </div>
 
-<div class="post" data-post-id="8446" data-author="Pete" data-date="2005-08-27T00:17:03+00:00">
+<div class="post" data-post-id="8446" data-author="Pete" data-date="2005-08-27T00:17:03+00:00" data-subject="">
 
 Have to say, my own experuence is that the people who really leave either go very quietly, or post some little goodbye note. those who post 2 page diatrabes almost never actually go. I'd be suprised if this was the end.
 
 </div>
 
-<div class="post" data-post-id="8447" data-author="13" data-date="2005-08-27T00:35:03+00:00">
+<div class="post" data-post-id="8447" data-author="13" data-date="2005-08-27T00:35:03+00:00" data-subject="">
 
 [img:wobubw1n]http://hem.passagen.se/weeloba/bilder/scaredkitty.jpg[/img:wobubw1n]
 
 </div>
 
-<div class="post" data-post-id="8449" data-author="Chainer" data-date="2005-08-27T12:15:11+00:00">
+<div class="post" data-post-id="8449" data-author="Chainer" data-date="2005-08-27T12:15:11+00:00" data-subject="">
 
 Nice one aa, i personally liked the cat  :D 
 
@@ -100,7 +100,7 @@ Nice one aa, i personally liked the cat  :D
 
 </div>
 
-<div class="post" data-post-id="8453" data-author="Medios" data-date="2005-08-27T13:59:14+00:00">
+<div class="post" data-post-id="8453" data-author="Medios" data-date="2005-08-27T13:59:14+00:00" data-subject="">
 
 I will apologize for not being logged in 24 hours a day to know the exact details of all the grievances against you.  I do know that theres alot more stuff as well.  As far as our clan sticking up for each other there really isnt an explanation for that, its how we ride.  I understand some players have seen a nicer side of you, this is something I dont know.  I do know that I have played sloth on and off for at least 8 or 9 years and have rarely seen something like this played out.  Usually all the trouble comes from pthieves which are easily disposed of.  Sloth really isnt a good place to try and not get along with ppl.  For the most part we all like and help each other.  Since your leaving, I bid farewell.
 
@@ -108,7 +108,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="8455" data-author="dt" data-date="2005-08-27T14:59:03+00:00">
+<div class="post" data-post-id="8455" data-author="dt" data-date="2005-08-27T14:59:03+00:00" data-subject="Hopefully Fyrstenheart will get the last laugh...">
 
 I also was absent during the beginning stages of this set of events. I however, know Fyrstenheart well enough to know that he more than likely
 
@@ -120,19 +120,19 @@ unnecessary. I as well as others have enjoyed their time MUD'ding here  knowing 
 
 </div>
 
-<div class="post" data-post-id="8456" data-author="13" data-date="2005-08-27T19:38:13+00:00">
+<div class="post" data-post-id="8456" data-author="13" data-date="2005-08-27T19:38:13+00:00" data-subject="">
 
 Hi Dt!
 
 </div>
 
-<div class="post" data-post-id="8457" data-author="dt" data-date="2005-08-27T19:50:47+00:00">
+<div class="post" data-post-id="8457" data-author="dt" data-date="2005-08-27T19:50:47+00:00" data-subject="Re:13">
 
 Lo :roll:
 
 </div>
 
-<div class="post" data-post-id="8462" data-author="Avatar" data-date="2005-08-29T11:36:14+00:00">
+<div class="post" data-post-id="8462" data-author="Avatar" data-date="2005-08-29T11:36:14+00:00" data-subject="A side note, supp">
 
 Just as a side note, the first time I supp'd for a nightmare I set it on Jake.  I don't think he even noticed, I know you guys don't "regen", but a few of us got a kick out of it  :)
 

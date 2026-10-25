@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="7129" data-author="12345" data-date="2005-06-13T13:13:14+00:00">
+<div class="post" data-post-id="7129" data-author="12345" data-date="2005-06-13T13:13:14+00:00" data-subject="Newbie Primer">
 
 I've tried reading the primer about a dozen different times and I think I've gotten as far as page 8.  Could one of the gods please create a page for it on the site?  It would make it a lot easier to read for newbie and vet alike.
 
@@ -18,13 +18,13 @@ Also, newbie info is pretty scattered, though the site map does a somewhat decen
 
 </div>
 
-<div class="post" data-post-id="9972" data-author="Clink" data-date="2006-01-04T17:01:45+00:00">
+<div class="post" data-post-id="9972" data-author="Clink" data-date="2006-01-04T17:01:45+00:00" data-subject="">
 
 What primer are you talking about?
 
 </div>
 
-<div class="post" data-post-id="9974" data-author="12345" data-date="2006-01-04T17:31:02+00:00">
+<div class="post" data-post-id="9974" data-author="12345" data-date="2006-01-04T17:31:02+00:00" data-subject="">
 
 Wow... thread necromancy.
 
@@ -36,7 +36,7 @@ You can usually find several copies lying around on Valk where newbies dropped t
 
 </div>
 
-<div class="post" data-post-id="9977" data-author="Clink" data-date="2006-01-04T19:02:01+00:00">
+<div class="post" data-post-id="9977" data-author="Clink" data-date="2006-01-04T19:02:01+00:00" data-subject="">
 
 Wow... thread necromancy.[/quote:1s13b9q0]
 

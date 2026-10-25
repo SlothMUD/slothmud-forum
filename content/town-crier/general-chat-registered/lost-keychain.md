@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31331" data-author="Spink" data-date="2010-06-28T06:39:54+00:00">
+<div class="post" data-post-id="31331" data-author="Spink" data-date="2010-06-28T06:39:54+00:00" data-subject="lost keychain">
 
 I brilliantly managed to drop a backpack full of items in BH town earlier today...about 5.5 hours ago as of this post.
 

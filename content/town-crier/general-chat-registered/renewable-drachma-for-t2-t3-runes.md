@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39196" data-author="Gorka" data-date="2019-05-19T05:47:52+00:00">
+<div class="post" data-post-id="39196" data-author="Gorka" data-date="2019-05-19T05:47:52+00:00" data-subject="Renewable Drachma for T2-T3 Runes">
 
 I would like to suggest that renewable drachma for T2-T3 runes be added to the game. 
 

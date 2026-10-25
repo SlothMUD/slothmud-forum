@@ -10,7 +10,7 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="14070" data-author="Gimlet" data-date="2006-09-16T17:13:07+00:00">
+<div class="post" data-post-id="14070" data-author="Gimlet" data-date="2006-09-16T17:13:07+00:00" data-subject="Unholy str">
 
 decided to see how much unholy str would boost my str up by today
 
@@ -22,19 +22,19 @@ sucks that avatars have to be eternally dependant on orange potions
 
 </div>
 
-<div class="post" data-post-id="14075" data-author="12345" data-date="2006-09-16T18:15:46+00:00">
+<div class="post" data-post-id="14075" data-author="12345" data-date="2006-09-16T18:15:46+00:00" data-subject="">
 
 I was just thinking.  I have 3 characters without either spell.  I buy a lot of orange potions.  If we gave every class all the same skills and spells, I wouldn't have that problem.
 
 </div>
 
-<div class="post" data-post-id="14077" data-author="Diazz_Dizazter" data-date="2006-09-16T19:12:20+00:00">
+<div class="post" data-post-id="14077" data-author="Diazz_Dizazter" data-date="2006-09-16T19:12:20+00:00" data-subject="">
 
 mage > necro...
 
 </div>
 
-<div class="post" data-post-id="14096" data-author="Gimlet" data-date="2006-09-17T02:04:15+00:00">
+<div class="post" data-post-id="14096" data-author="Gimlet" data-date="2006-09-17T02:04:15+00:00" data-subject="">
 
 you missed the point.
 
@@ -42,7 +42,7 @@ I'm saying why have such a useless spell that nobody would ever ever use?
 
 </div>
 
-<div class="post" data-post-id="14097" data-author="Atwell" data-date="2006-09-17T02:22:31+00:00">
+<div class="post" data-post-id="14097" data-author="Atwell" data-date="2006-09-17T02:22:31+00:00" data-subject="">
 
 I'm saying why have such a useless spell that nobody would ever ever use?[/quote:2j3hj5c4]
 
@@ -50,7 +50,7 @@ I believe the smaller juju zombies use it.  Vicious juju and juju bokor use demo
 
 </div>
 
-<div class="post" data-post-id="14098" data-author="Diazz_Dizazter" data-date="2006-09-17T02:44:51+00:00">
+<div class="post" data-post-id="14098" data-author="Diazz_Dizazter" data-date="2006-09-17T02:44:51+00:00" data-subject="No help...">
 
 Nope. I didnt miss the point, you did.  
 
@@ -68,7 +68,7 @@ If you dont like it, dont use, and use an orange potion.
 
 </div>
 
-<div class="post" data-post-id="14102" data-author="Gimlet" data-date="2006-09-17T09:47:18+00:00">
+<div class="post" data-post-id="14102" data-author="Gimlet" data-date="2006-09-17T09:47:18+00:00" data-subject="">
 
 you obviously ARE missing the point.
 
@@ -76,7 +76,7 @@ I'm not bemoaning the fact that unholy str is less than a mage str spell, I'm sa
 
 </div>
 
-<div class="post" data-post-id="14104" data-author="13" data-date="2006-09-17T13:54:19+00:00">
+<div class="post" data-post-id="14104" data-author="13" data-date="2006-09-17T13:54:19+00:00" data-subject="">
 
 Gimlet is right, unholy str and demonic str are the stupidest shit out.
 
@@ -106,7 +106,7 @@ their followers.  And that comes with str AND vigor.
 
 </div>
 
-<div class="post" data-post-id="14109" data-author="Diazz_Dizazter" data-date="2006-09-17T15:21:46+00:00">
+<div class="post" data-post-id="14109" data-author="Diazz_Dizazter" data-date="2006-09-17T15:21:46+00:00" data-subject="">
 
 [quote:31oz7ytd]I guess that would explain why Bard AND Mage share about 1/4 of their spells? And str isn't a cleric spell.
 
@@ -160,7 +160,7 @@ Al's only legitmate gripe is how much he pays for boy toys.
 
 </div>
 
-<div class="post" data-post-id="14112" data-author="Medios" data-date="2006-09-17T17:57:29+00:00">
+<div class="post" data-post-id="14112" data-author="Medios" data-date="2006-09-17T17:57:29+00:00" data-subject="">
 
 One would think that a spell that reduces a stat would be better than a spell that doesnt.  Something else to mention is the spell is called demonic strength, have you ever checked out the strength of a demon lately.  The whole orange potion comment is a joke.  This skill isnt like freeze either, its a top shelf spell for necro.  Even if it gave +5 strength you still lose a con and that makes it < mage.  Al and Aaron are both right, nobody is using this spell.
 
@@ -170,7 +170,7 @@ PS  Name a useless avatar spell/skill.
 
 </div>
 
-<div class="post" data-post-id="14115" data-author="Diazz_Dizazter" data-date="2006-09-17T18:09:31+00:00">
+<div class="post" data-post-id="14115" data-author="Diazz_Dizazter" data-date="2006-09-17T18:09:31+00:00" data-subject="">
 
 Another point.  Not one person but Medios even offered a suggestion as to
 
@@ -192,7 +192,7 @@ Granted necro's dont get alot of spells.  But they dont seem to need them either
 
 </div>
 
-<div class="post" data-post-id="14121" data-author="12345" data-date="2006-09-17T19:41:39+00:00">
+<div class="post" data-post-id="14121" data-author="12345" data-date="2006-09-17T19:41:39+00:00" data-subject="">
 
 One would think that a spell that reduces a stat would be better than a spell that doesnt.  Something else to mention is the spell is called demonic strength, have you ever checked out the strength of a demon lately.  The whole orange potion comment is a joke.  This skill isnt like freeze either, its a top shelf spell for necro.  Even if it gave +5 strength you still lose a con and that makes it < mage.  Al and Aaron are both right, nobody is using this spell.
 
@@ -210,7 +210,7 @@ I spent a lot of time tracking down spellbooks for spells I'll never use. If you
 
 </div>
 
-<div class="post" data-post-id="14128" data-author="13" data-date="2006-09-18T11:56:35+00:00">
+<div class="post" data-post-id="14128" data-author="13" data-date="2006-09-18T11:56:35+00:00" data-subject="">
 
 I don't think it cripples it, I just think it's lame.
 
@@ -218,13 +218,13 @@ I play my necro anyway.
 
 </div>
 
-<div class="post" data-post-id="14129" data-author="13" data-date="2006-09-18T14:50:11+00:00">
+<div class="post" data-post-id="14129" data-author="13" data-date="2006-09-18T14:50:11+00:00" data-subject="">
 
 meh....
 
 </div>
 
-<div class="post" data-post-id="14133" data-author="Toxis" data-date="2006-09-18T17:33:21+00:00">
+<div class="post" data-post-id="14133" data-author="Toxis" data-date="2006-09-18T17:33:21+00:00" data-subject="point of spells">
 
 Isn't the point of having a skill or spell is that it is used at one time or another?  At level 15 prime necro, I still never used the spell.  2 strength isn't good to begin with.  Who in their right mind would take +2 str -1 con when they can pay a small ammount of coins for +3 str from potion?  The answer is obvious to everyone: No one would.  So how do we make it useful?
 
@@ -244,7 +244,7 @@ I think the chance not to lose the con every time would be a chance I would actu
 
 </div>
 
-<div class="post" data-post-id="14137" data-author="Vixn" data-date="2006-09-18T19:10:51+00:00">
+<div class="post" data-post-id="14137" data-author="Vixn" data-date="2006-09-18T19:10:51+00:00" data-subject="">
 
 ok, give em mage's str and nerf pets. or better just nerf pets.
 
@@ -252,7 +252,7 @@ thnx
 
 </div>
 
-<div class="post" data-post-id="14139" data-author="Toxis" data-date="2006-09-18T19:27:42+00:00">
+<div class="post" data-post-id="14139" data-author="Toxis" data-date="2006-09-18T19:27:42+00:00" data-subject="...">
 
 Don't forget that bards also have the strength spell.
 
@@ -262,7 +262,7 @@ I know NO intelligent player that uses it.  If it's not going to be changed, the
 
 </div>
 
-<div class="post" data-post-id="14141" data-author="Autolycos" data-date="2006-09-18T19:49:33+00:00">
+<div class="post" data-post-id="14141" data-author="Autolycos" data-date="2006-09-18T19:49:33+00:00" data-subject="">
 
 ok, give em mage's str and nerf pets. or better just nerf pets.
 
@@ -276,31 +276,31 @@ there is still so much nerf'n to be done!!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14143" data-author="Diazz_Dizazter" data-date="2006-09-18T20:00:08+00:00">
+<div class="post" data-post-id="14143" data-author="Diazz_Dizazter" data-date="2006-09-18T20:00:08+00:00" data-subject="">
 
 Mutters something about the usefullness of ventriloquate.
 
 </div>
 
-<div class="post" data-post-id="14162" data-author="Krok" data-date="2006-09-19T14:12:11+00:00">
+<div class="post" data-post-id="14162" data-author="Krok" data-date="2006-09-19T14:12:11+00:00" data-subject="">
 
 winds of fortune is a very useful spell for chopping :)
 
 </div>
 
-<div class="post" data-post-id="14164" data-author="Guinex" data-date="2006-09-19T17:36:21+00:00">
+<div class="post" data-post-id="14164" data-author="Guinex" data-date="2006-09-19T17:36:21+00:00" data-subject="">
 
 Personally myself i like putrefy *poke krok* :D
 
 </div>
 
-<div class="post" data-post-id="14170" data-author="Krok" data-date="2006-09-19T20:05:34+00:00">
+<div class="post" data-post-id="14170" data-author="Krok" data-date="2006-09-19T20:05:34+00:00" data-subject="">
 
 rofl, cough cough
 
 </div>
 
-<div class="post" data-post-id="14171" data-author="12345" data-date="2006-09-19T20:50:08+00:00">
+<div class="post" data-post-id="14171" data-author="12345" data-date="2006-09-19T20:50:08+00:00" data-subject="">
 
 winds of fortune is a very useful spell for chopping :)[/quote:3emlvsya]
 

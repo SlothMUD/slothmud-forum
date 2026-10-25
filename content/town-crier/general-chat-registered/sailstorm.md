@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="18093" data-author="Toxis" data-date="2007-04-21T07:33:11+00:00">
+<div class="post" data-post-id="18093" data-author="Toxis" data-date="2007-04-21T07:33:11+00:00" data-subject="Sailstorm">
 
 Some people were asking about my book I was writing.  It's about a young girl of sixteen, Michelle Sailstorm, who's trying to figure out who her father was and why he was a traitor.  Because he was a traitor, Michelle has been branded a traitor and is currently running from the Knights of Pradisia.  Hope you like it.
 
@@ -52,7 +52,7 @@ Some people were asking about my book I was writing.  It's about a young girl of
 
 </div>
 
-<div class="post" data-post-id="18111" data-author="banedon" data-date="2007-04-22T03:57:08+00:00">
+<div class="post" data-post-id="18111" data-author="banedon" data-date="2007-04-22T03:57:08+00:00" data-subject="">
 
 Looks pretty damn good so far Brad.  I'll definately want to get ahold of the finished book.
 

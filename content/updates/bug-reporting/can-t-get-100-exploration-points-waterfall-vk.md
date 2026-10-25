@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="33653" data-author="Yasik" data-date="2012-10-17T15:10:32+00:00">
+<div class="post" data-post-id="33653" data-author="Yasik" data-date="2012-10-17T15:10:32+00:00" data-subject="Can&#x27;t get 100% exploration points (Waterfall, VK)">
 
 Hello!
 
@@ -180,13 +180,13 @@ Thanks in advance!
 
 </div>
 
-<div class="post" data-post-id="33656" data-author="jezer" data-date="2012-10-18T02:50:56+00:00">
+<div class="post" data-post-id="33656" data-author="jezer" data-date="2012-10-18T02:50:56+00:00" data-subject="Re: Can&#x27;t get 100% exploration points (Waterfall, VK)">
 
 give gem jezer will work, we have to be in the same room though.
 
 </div>
 
-<div class="post" data-post-id="33658" data-author="*juggleblood*" data-date="2012-10-18T03:21:42+00:00">
+<div class="post" data-post-id="33658" data-author="*juggleblood*" data-date="2012-10-18T03:21:42+00:00" data-subject="Re: Can&#x27;t get 100% exploration points (Waterfall, VK)">
 
 I walked every room in the zone. I counted 75 valid rooms. 
 
@@ -194,13 +194,13 @@ When I look at your list, I see 74. I didn't see anything that looked too hard t
 
 </div>
 
-<div class="post" data-post-id="33660" data-author="Yasik" data-date="2012-10-18T04:33:44+00:00">
+<div class="post" data-post-id="33660" data-author="Yasik" data-date="2012-10-18T04:33:44+00:00" data-subject="Re: Can&#x27;t get 100% exploration points (Waterfall, VK)">
 
 Thanks JB and Jezer, I think I'll be searching for a bit more.
 
 </div>
 
-<div class="post" data-post-id="33661" data-author="*Breeze*" data-date="2012-10-18T06:32:37+00:00">
+<div class="post" data-post-id="33661" data-author="*Breeze*" data-date="2012-10-18T06:32:37+00:00" data-subject="Re: Can&#x27;t get 100% exploration points (Waterfall, VK)">
 
 I made a mudl object
 
@@ -216,7 +216,7 @@ and ask me.  mind you, you still need to do all the dirty work of running the ar
 
 </div>
 
-<div class="post" data-post-id="33662" data-author="Yasik" data-date="2012-10-18T06:53:30+00:00">
+<div class="post" data-post-id="33662" data-author="Yasik" data-date="2012-10-18T06:53:30+00:00" data-subject="Re: Can&#x27;t get 100% exploration points (Waterfall, VK)">
 
 Found it, 2 more unmapped rooms: An Obscure Clawed Hole and Fox Burrow, which you can access going down from Small Worn Path.
 
@@ -228,7 +228,7 @@ Thanks all!
 
 </div>
 
-<div class="post" data-post-id="33663" data-author="Yasik" data-date="2012-10-18T07:54:09+00:00">
+<div class="post" data-post-id="33663" data-author="Yasik" data-date="2012-10-18T07:54:09+00:00" data-subject="Re: Can&#x27;t get 100% exploration points (Waterfall, VK)">
 
 [<LINK_TEXT text="http://dl.dropbox.com/u/72105811/Pics/V ... _final.jpg">http://dl.dropbox.com/u/72105811/Pics/VK_Waterfall_map_full_final.jpg</LINK_TEXT>](http://dl.dropbox.com/u/72105811/Pics/VK_Waterfall_map_full_final.jpg)
 

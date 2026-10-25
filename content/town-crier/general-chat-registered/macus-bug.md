@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="39396" data-author="Belrath" data-date="2020-03-18T21:12:36+00:00">
+<div class="post" data-post-id="39396" data-author="Belrath" data-date="2020-03-18T21:12:36+00:00" data-subject="Macus bug">
 
 Hello!
 
@@ -28,7 +28,7 @@ Anyway, love the hard work you're doing with the mud, dear Immortals, having a g
 
 </div>
 
-<div class="post" data-post-id="39398" data-author="Josiah" data-date="2020-03-19T03:01:13+00:00">
+<div class="post" data-post-id="39398" data-author="Josiah" data-date="2020-03-19T03:01:13+00:00" data-subject="Re: Macus bug">
 
 A select few chop weapons were upgraded to proc a more intense blind.  I think it is along the lines of -10000 to hit instead of the usual -5.
 
@@ -50,7 +50,7 @@ make the more powerful debuff override the effect and duration of the lesser deb
 
 </div>
 
-<div class="post" data-post-id="39399" data-author="Belrath" data-date="2020-03-19T04:00:04+00:00">
+<div class="post" data-post-id="39399" data-author="Belrath" data-date="2020-03-19T04:00:04+00:00" data-subject="Re: Macus bug">
 
 Ok. Understandable that macus aren't that powerfull. I can live with that. What I can't live with is that when macu proc hits in, it prevents the bigger proc from hitting. Its like a shield for a mob. That's why macu is unusable. I dont care if it gives -5 hit or something as long as it can be overwritten when big fellow hits the mob with big sword.
 
@@ -58,7 +58,7 @@ Ok. Understandable that macus aren't that powerfull. I can live with that. What 
 
 </div>
 
-<div class="post" data-post-id="39400" data-author="Belrath" data-date="2020-03-19T04:07:26+00:00">
+<div class="post" data-post-id="39400" data-author="Belrath" data-date="2020-03-19T04:07:26+00:00" data-subject="Re: Macus bug">
 
 Now to think again, perhaps I'm out fo the line here and all are as they should be. Perhaps I was misscarried by the fact that Breeze told me that there is an issue. *shrug*
 
@@ -68,7 +68,7 @@ Feel free to let them as they are if they were designed that way and are working
 
 </div>
 
-<div class="post" data-post-id="39401" data-author="Josiah" data-date="2020-03-19T04:22:01+00:00">
+<div class="post" data-post-id="39401" data-author="Josiah" data-date="2020-03-19T04:22:01+00:00" data-subject="Re: Macus bug">
 
 I don't think you're out of line.  If newbies are being told not to participate, that is a legitimate problem.  Gods know we definitely don't need bored newbies.
 
@@ -78,7 +78,7 @@ If players aren't being newbie friendly and the Immortals want to intervene, thi
 
 </div>
 
-<div class="post" data-post-id="39402" data-author="Gorka" data-date="2020-03-19T06:14:40+00:00">
+<div class="post" data-post-id="39402" data-author="Gorka" data-date="2020-03-19T06:14:40+00:00" data-subject="Re: Macus bug">
 
 > **Josiah wrote:**
 > I don't think you're out of line.  If newbies are being told not to participate, that is a legitimate problem.  Gods know we definitely don't need bored newbies.
@@ -95,7 +95,7 @@ I agree with what Josiah says here for the same reasons. If macu's simply didn't
 
 </div>
 
-<div class="post" data-post-id="39403" data-author="*Neptune*" data-date="2020-03-20T03:28:52+00:00">
+<div class="post" data-post-id="39403" data-author="*Neptune*" data-date="2020-03-20T03:28:52+00:00" data-subject="Re: Macus bug">
 
 Ok, first of all, thanks to those of you who helped test a theory of mine and the staff 
 
@@ -117,7 +117,7 @@ Enjoy the changes, and we'll see you guys Saturday around noontime central US ti
 
 </div>
 
-<div class="post" data-post-id="39415" data-author="Bandit" data-date="2020-04-01T21:02:26+00:00">
+<div class="post" data-post-id="39415" data-author="Bandit" data-date="2020-04-01T21:02:26+00:00" data-subject="Re: Macus bug">
 
 Would it be possible for a chopper to also be a stab weapon? The razor sharp tiger claw seems like it would be a decent candidate to be converted into a dagger. Would certainly reduce the amount of weapon swap spam the stabber has to deal with when chopping.
 

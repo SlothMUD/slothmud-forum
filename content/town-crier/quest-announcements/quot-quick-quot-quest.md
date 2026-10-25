@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36623" data-author="*Breeze*" data-date="2016-02-20T23:28:11+00:00">
+<div class="post" data-post-id="36623" data-author="*Breeze*" data-date="2016-02-20T23:28:11+00:00" data-subject="&amp;quot;quick&amp;quot; quest">
 
 quest : kill all non innkeeper/storekeeper mobs on SS
 
@@ -35,13 +35,13 @@ after 3.5 hours they cleared about 1.1k mobs :)  great job guys!
 
 </div>
 
-<div class="post" data-post-id="36625" data-author="Sam" data-date="2016-02-21T07:46:30+00:00">
+<div class="post" data-post-id="36625" data-author="Sam" data-date="2016-02-21T07:46:30+00:00" data-subject="Re: &amp;quot;quick&amp;quot; quest">
 
 Cool quest :)
 
 </div>
 
-<div class="post" data-post-id="36626" data-author="Teron" data-date="2016-02-21T15:00:12+00:00">
+<div class="post" data-post-id="36626" data-author="Teron" data-date="2016-02-21T15:00:12+00:00" data-subject="Re: &amp;quot;quick&amp;quot; quest">
 
 Yeah, next time you need to pick Clipper :)
 

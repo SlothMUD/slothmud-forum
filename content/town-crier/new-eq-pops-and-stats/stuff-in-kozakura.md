@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="4815" data-author="Alberich" data-date="2005-03-06T14:02:43+00:00">
+<div class="post" data-post-id="4815" data-author="Alberich" data-date="2005-03-06T14:02:43+00:00" data-subject="stuff in Kozakura">
 
 cannot add this stuff to eqlist yet, no option for it :)
 
@@ -46,13 +46,13 @@ and no, it's not a container, before you all start drooling too hard :)
 
 </div>
 
-<div class="post" data-post-id="4816" data-author="blackmore" data-date="2005-03-06T15:11:14+00:00">
+<div class="post" data-post-id="4816" data-author="blackmore" data-date="2005-03-06T15:11:14+00:00" data-subject="">
 
 Kozakura added to the area list
 
 </div>
 
-<div class="post" data-post-id="4818" data-author="Alberich" data-date="2005-03-06T16:33:10+00:00">
+<div class="post" data-post-id="4818" data-author="Alberich" data-date="2005-03-06T16:33:10+00:00" data-subject="">
 
 and something else (not listing the things i popped that are in hotties post)
 
@@ -82,7 +82,7 @@ may use this item.
 
 </div>
 
-<div class="post" data-post-id="4821" data-author="Tinkles" data-date="2005-03-06T19:53:44+00:00">
+<div class="post" data-post-id="4821" data-author="Tinkles" data-date="2005-03-06T19:53:44+00:00" data-subject="">
 
 pop this at greenish kappa...
 

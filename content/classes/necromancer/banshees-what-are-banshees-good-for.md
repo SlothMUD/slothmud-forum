@@ -10,7 +10,7 @@ locked: false
 post_count: 60
 ---
 
-<div class="post" data-post-id="15389" data-author="broeggle" data-date="2006-11-30T18:07:23+00:00">
+<div class="post" data-post-id="15389" data-author="broeggle" data-date="2006-11-30T18:07:23+00:00" data-subject="Banshees - what are banshees good for">
 
 Hi,
 
@@ -24,7 +24,7 @@ Thanks,
 
 </div>
 
-<div class="post" data-post-id="15390" data-author="13" data-date="2006-11-30T18:10:07+00:00">
+<div class="post" data-post-id="15390" data-author="13" data-date="2006-11-30T18:10:07+00:00" data-subject="">
 
 Animates >>>>> Summons
 
@@ -36,7 +36,7 @@ it gets a lot better bu8ddy, have patience.
 
 </div>
 
-<div class="post" data-post-id="15391" data-author="broeggle" data-date="2006-11-30T18:32:05+00:00">
+<div class="post" data-post-id="15391" data-author="broeggle" data-date="2006-11-30T18:32:05+00:00" data-subject="">
 
 ? 
 
@@ -52,7 +52,7 @@ broeggle
 
 </div>
 
-<div class="post" data-post-id="15393" data-author="Atwell" data-date="2006-11-30T21:13:19+00:00">
+<div class="post" data-post-id="15393" data-author="Atwell" data-date="2006-11-30T21:13:19+00:00" data-subject="">
 
 Banshees have always been a tough sell before av-11, when the control horde skill allows you to get two of them.  They used to have perm wraithform, making them superior to wraiths for some targets.  That is no longer the case, and there is little reason to use banshees these days.
 
@@ -62,13 +62,13 @@ As a side note, if your pets miss a lot and you're not using unholy aura, start 
 
 </div>
 
-<div class="post" data-post-id="24844" data-author="*juggleblood*" data-date="2008-06-10T18:59:27+00:00">
+<div class="post" data-post-id="24844" data-author="*juggleblood*" data-date="2008-06-10T18:59:27+00:00" data-subject="">
 
 What if banshees had some other interesting procs. Like maybe +2 to spellsaves (penalty) against human and humanoid mobs. Other ideas I had were a fear affect of some sort, or a similar affect to sanc for the soul, or an affect like fare thee well. I'm sure theres a way banshees could be made useful again.
 
 </div>
 
-<div class="post" data-post-id="24847" data-author="Medios" data-date="2008-06-10T21:28:53+00:00">
+<div class="post" data-post-id="24847" data-author="Medios" data-date="2008-06-10T21:28:53+00:00" data-subject="">
 
 Well for one the damn things wail and won't allow you to re enter a room once you left.  Say you are fighting a mob and decide to flee.  The banshees in the room will prevent you from walking in.  I don't know if this affects mobs but it really screws up using them for eq mobs.  One time I had a small group using pets and someone brought one of those.  I fled to recast and couldn't get back in the room.
 
@@ -76,7 +76,7 @@ In short.  I wouldn't waste your mana or time ever using them.
 
 </div>
 
-<div class="post" data-post-id="24848" data-author="Medios" data-date="2008-06-10T21:30:09+00:00">
+<div class="post" data-post-id="24848" data-author="Medios" data-date="2008-06-10T21:30:09+00:00" data-subject="">
 
 What if banshees had some other interesting procs. Like maybe +2 to spellsaves (penalty) against human and humanoid mobs. Other ideas I had were a fear affect of some sort, or a similar affect to sanc for the soul, or an affect like fare thee well. I'm sure theres a way banshees could be made useful again.[/quote:2d2b2ywc] 
 
@@ -84,7 +84,7 @@ For starters, more than 300hp and being able to hit a mob would help.
 
 </div>
 
-<div class="post" data-post-id="24852" data-author="Avatar" data-date="2008-06-10T23:13:08+00:00">
+<div class="post" data-post-id="24852" data-author="Avatar" data-date="2008-06-10T23:13:08+00:00" data-subject="Banshees">
 
 A quick fix: give them -11 ac and set the message when the armor blocks a hit = The attack blows right through the banshee with no effect!
 
@@ -92,7 +92,7 @@ That would give them a 15% "ethereal" without the wraithform.
 
 </div>
 
-<div class="post" data-post-id="24864" data-author="Weasel" data-date="2008-06-11T03:40:10+00:00">
+<div class="post" data-post-id="24864" data-author="Weasel" data-date="2008-06-11T03:40:10+00:00" data-subject="">
 
 Necros need to grow a pair and fight their own fights and leave the poor banshees out of it! It's really not very classy using human shields.. or bansheee shields as the case may be.
 
@@ -100,13 +100,13 @@ Necros need to grow a pair and fight their own fights and leave the poor banshee
 
 </div>
 
-<div class="post" data-post-id="24970" data-author="alias" data-date="2008-06-14T01:30:59+00:00">
+<div class="post" data-post-id="24970" data-author="alias" data-date="2008-06-14T01:30:59+00:00" data-subject="">
 
 I don't stand behind my summons I let them hit after I attack. Banshees were severely nerfed and are about useless as they get. This isn't about Necros needing to grow a pair,  cause sir Ill stand toe to toe w/ you any day no pets. Its about the fact that there is no good summons between wraiths and swordwraiths when there used to be.
 
 </div>
 
-<div class="post" data-post-id="24972" data-author="*juggleblood*" data-date="2008-06-14T02:35:23+00:00">
+<div class="post" data-post-id="24972" data-author="*juggleblood*" data-date="2008-06-14T02:35:23+00:00" data-subject="">
 
 well the real question is not how do they suck but rather what do they need to be?
 
@@ -122,13 +122,13 @@ just a suggestion
 
 </div>
 
-<div class="post" data-post-id="24989" data-author="alias" data-date="2008-06-14T16:30:16+00:00">
+<div class="post" data-post-id="24989" data-author="alias" data-date="2008-06-14T16:30:16+00:00" data-subject="">
 
 iirc they were not wraith but eth. I never got to play w/ them personally but I saw them used.
 
 </div>
 
-<div class="post" data-post-id="24990" data-author="alias" data-date="2008-06-14T16:39:09+00:00">
+<div class="post" data-post-id="24990" data-author="alias" data-date="2008-06-14T16:39:09+00:00" data-subject="">
 
 and why would I want 15 percent reduction to dam on them at 350 + 15%= 402.5 at 2 attacks per pet. I can easily summon 3 wraiths each w/ 500 hp that get 3 attacks per round and they are 3x40 required not 4x40+25 which is what I think they were the last time I logged in.
 
@@ -136,7 +136,7 @@ my point is don't try to placate us w/ something that isn't at least better than
 
 </div>
 
-<div class="post" data-post-id="24991" data-author="*juggleblood*" data-date="2008-06-14T17:12:22+00:00">
+<div class="post" data-post-id="24991" data-author="*juggleblood*" data-date="2008-06-14T17:12:22+00:00" data-subject="">
 
 so how should banshees compare to wraiths? 
 
@@ -150,13 +150,13 @@ I've never had a necro and I don't pretend to know what I'm talking about.
 
 </div>
 
-<div class="post" data-post-id="24994" data-author="*juggleblood*" data-date="2008-06-14T21:51:24+00:00">
+<div class="post" data-post-id="24994" data-author="*juggleblood*" data-date="2008-06-14T21:51:24+00:00" data-subject="">
 
 also i was looking at the existing banshee proc...looks kinda useful if it was tweaked to not affect members of the master's group.
 
 </div>
 
-<div class="post" data-post-id="25005" data-author="alias" data-date="2008-06-15T13:47:25+00:00">
+<div class="post" data-post-id="25005" data-author="alias" data-date="2008-06-15T13:47:25+00:00" data-subject="">
 
 make the proc not affect group members and make them eth. not wraith no need to up hp or up the damage.
 
@@ -166,7 +166,7 @@ well a summon that takes 25 avatar levels should be quite a bit better than one 
 
 </div>
 
-<div class="post" data-post-id="25006" data-author="alias" data-date="2008-06-15T13:54:36+00:00">
+<div class="post" data-post-id="25006" data-author="alias" data-date="2008-06-15T13:54:36+00:00" data-subject="">
 
 please accept my apologies in this entire time I was referring to banshees I meant to be referring to phantoms.
 
@@ -176,7 +176,7 @@ I should log in more I guess.
 
 </div>
 
-<div class="post" data-post-id="25026" data-author="*juggleblood*" data-date="2008-06-15T23:07:19+00:00">
+<div class="post" data-post-id="25026" data-author="*juggleblood*" data-date="2008-06-15T23:07:19+00:00" data-subject="">
 
 I did a lil research.
 
@@ -196,7 +196,7 @@ And maybe we could get a spellsaves proc like I mentioned b4  for banshee and or
 
 </div>
 
-<div class="post" data-post-id="25030" data-author="Avatar" data-date="2008-06-16T01:54:10+00:00">
+<div class="post" data-post-id="25030" data-author="Avatar" data-date="2008-06-16T01:54:10+00:00" data-subject="ideas">
 
 [quote:2sorbnni]...banshees could be a bit on the light side and used primarily for the procs.[quote:2sorbnni]
 
@@ -208,13 +208,13 @@ My advice would be to check the stats on the Banshee and on the Swordwraith, and
 
 </div>
 
-<div class="post" data-post-id="25031" data-author="Avatar" data-date="2008-06-16T01:56:43+00:00">
+<div class="post" data-post-id="25031" data-author="Avatar" data-date="2008-06-16T01:56:43+00:00" data-subject="ideas">
 
 Well, my quote tag didn't work correctly, but I don't see an Edit tag.
 
 </div>
 
-<div class="post" data-post-id="25034" data-author="Atwell" data-date="2008-06-16T03:25:51+00:00">
+<div class="post" data-post-id="25034" data-author="Atwell" data-date="2008-06-16T03:25:51+00:00" data-subject="">
 
 Splork nerfed ether pets in Aug of 06 I guess. Ether pets are too powerful imho, but wraithform wouldn't be too bad. The diff of course being that higher level mobs would hit thru wraith more.
 
@@ -224,19 +224,19 @@ Just to set the record straight, they did have wraithform until the 2006-08 nerf
 
 </div>
 
-<div class="post" data-post-id="25123" data-author="PolkAdotS" data-date="2008-06-22T05:29:53+00:00">
+<div class="post" data-post-id="25123" data-author="PolkAdotS" data-date="2008-06-22T05:29:53+00:00" data-subject="">
 
 Gumbi would like Juggleblood to do a little research.  Sorry I'm just not Splork but it is pretty important.  Thought I would bring it up after having posted on my thread made by some random character.  You didn't look into my EQ as far as I know and each time I asked anyone (mostly Enea) he suggested I speak directly to Jake.  Jake just didn't get back to me so please, you do it the Juggleblood.  I'm asking nicely, at least look into it.  If Splork's  coding logs is available from 2006 and the NERF etc. then I'm asking you to look into something from around a month ago.  Don't bother if you're just going to be an asshole, I don't want to hear from the last line of my last post on the Polk and Yasik's thread (the most recent up until this.)  Thought I would exploit another section of the forum simply because there is a note that says you've looked into something from 2006 and I would like to know about something from 2008, with no reply from immorts.  Cya
 
 </div>
 
-<div class="post" data-post-id="25290" data-author="*juggleblood*" data-date="2008-07-07T20:33:10+00:00">
+<div class="post" data-post-id="25290" data-author="*juggleblood*" data-date="2008-07-07T20:33:10+00:00" data-subject="">
 
 *bump*
 
 </div>
 
-<div class="post" data-post-id="25292" data-author="Tap" data-date="2008-07-07T21:18:46+00:00">
+<div class="post" data-post-id="25292" data-author="Tap" data-date="2008-07-07T21:18:46+00:00" data-subject="">
 
 Here's an update from mid 2008.
 
@@ -248,7 +248,7 @@ Good day,see you ingame!!!
 
 </div>
 
-<div class="post" data-post-id="25310" data-author="Vixn" data-date="2008-07-08T20:30:35+00:00">
+<div class="post" data-post-id="25310" data-author="Vixn" data-date="2008-07-08T20:30:35+00:00" data-subject="">
 
 another feature I suppose to be fixed:
 
@@ -260,7 +260,7 @@ and what with succubus/incubus? does anybody use them? really?
 
 </div>
 
-<div class="post" data-post-id="25311" data-author="jezer" data-date="2008-07-08T23:32:02+00:00">
+<div class="post" data-post-id="25311" data-author="jezer" data-date="2008-07-08T23:32:02+00:00" data-subject="">
 
 another feature I suppose to be fixed:
 
@@ -270,19 +270,19 @@ Reminds me of the phoenix in arbo that can't fly and the eye of the deep in kuo-
 
 </div>
 
-<div class="post" data-post-id="25325" data-author="*juggleblood*" data-date="2008-07-09T16:14:32+00:00">
+<div class="post" data-post-id="25325" data-author="*juggleblood*" data-date="2008-07-09T16:14:32+00:00" data-subject="">
 
 hard to believe they haven't been fixed, given all these constructive suggestions...
 
 </div>
 
-<div class="post" data-post-id="25334" data-author="alias" data-date="2008-07-09T22:10:52+00:00">
+<div class="post" data-post-id="25334" data-author="alias" data-date="2008-07-09T22:10:52+00:00" data-subject="">
 
 yes there are some aggressive angels...you just need to know where to look.
 
 </div>
 
-<div class="post" data-post-id="25342" data-author="Assirian" data-date="2008-07-10T10:53:37+00:00">
+<div class="post" data-post-id="25342" data-author="Assirian" data-date="2008-07-10T10:53:37+00:00" data-subject="">
 
 another feature I suppose to be fixed:
 
@@ -306,7 +306,7 @@ hope, im wrong, and they have hidden advantages :)
 
 </div>
 
-<div class="post" data-post-id="25344" data-author="Vixn" data-date="2008-07-10T16:22:01+00:00">
+<div class="post" data-post-id="25344" data-author="Vixn" data-date="2008-07-10T16:22:01+00:00" data-subject="">
 
 seems like that Cthulgha's room is not underwater :( 
 
@@ -332,13 +332,13 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="25347" data-author="*juggleblood*" data-date="2008-07-10T21:50:00+00:00">
+<div class="post" data-post-id="25347" data-author="*juggleblood*" data-date="2008-07-10T21:50:00+00:00" data-subject="">
 
 How many phantoms / banshees can a necro have?
 
 </div>
 
-<div class="post" data-post-id="25348" data-author="jezer" data-date="2008-07-10T23:24:55+00:00">
+<div class="post" data-post-id="25348" data-author="jezer" data-date="2008-07-10T23:24:55+00:00" data-subject="">
 
 and kachina... yeah, this guy makes almost as much junk as Jason does  :wink: [/quote:3l9sbjf2]
 
@@ -346,13 +346,13 @@ Jason is a humanitarian, he told me he saves all those spiked helmets, clubs and
 
 </div>
 
-<div class="post" data-post-id="25349" data-author="Yinao" data-date="2008-07-11T01:50:12+00:00">
+<div class="post" data-post-id="25349" data-author="Yinao" data-date="2008-07-11T01:50:12+00:00" data-subject="Unstable Mud">
 
 Can we get a stable mud that will stay up for longer than an hour at a time? When we do let us know so we can actually cycle mobs for stuff we're looking for so we dont waste our time killing the mob mud crashes... :cry:
 
 </div>
 
-<div class="post" data-post-id="25350" data-author="Atwell" data-date="2008-07-11T03:06:54+00:00">
+<div class="post" data-post-id="25350" data-author="Atwell" data-date="2008-07-11T03:06:54+00:00" data-subject="">
 
 How many phantoms / banshees can a necro have?[/quote:5qq2lqu7]
 
@@ -368,13 +368,13 @@ If so, that's a recent change.  It was underwater in the distant past, but had t
 
 </div>
 
-<div class="post" data-post-id="25351" data-author="PolkAdotS" data-date="2008-07-11T03:10:24+00:00">
+<div class="post" data-post-id="25351" data-author="PolkAdotS" data-date="2008-07-11T03:10:24+00:00" data-subject="">
 
 Heya Atwell... :) :roll:
 
 </div>
 
-<div class="post" data-post-id="25352" data-author="Assirian" data-date="2008-07-11T07:23:07+00:00">
+<div class="post" data-post-id="25352" data-author="Assirian" data-date="2008-07-11T07:23:07+00:00" data-subject="">
 
 And succubus/incubus won't survive more then 2 rounds against any middle mob. 
 
@@ -386,7 +386,7 @@ But mare do same job a way better..
 
 </div>
 
-<div class="post" data-post-id="25363" data-author="Atwell" data-date="2008-07-13T01:40:02+00:00">
+<div class="post" data-post-id="25363" data-author="Atwell" data-date="2008-07-13T01:40:02+00:00" data-subject="">
 
 Heya Atwell... :) :roll:[/quote:3381nzz0]
 
@@ -394,7 +394,7 @@ Greetings :)
 
 </div>
 
-<div class="post" data-post-id="25364" data-author="*juggleblood*" data-date="2008-07-13T22:54:18+00:00">
+<div class="post" data-post-id="25364" data-author="*juggleblood*" data-date="2008-07-13T22:54:18+00:00" data-subject="">
 
 Ok, got the go ahead to tweak these.
 
@@ -404,19 +404,19 @@ Banshees are next.
 
 </div>
 
-<div class="post" data-post-id="25365" data-author="Widow" data-date="2008-07-13T23:08:09+00:00">
+<div class="post" data-post-id="25365" data-author="Widow" data-date="2008-07-13T23:08:09+00:00" data-subject="">
 
 Sweetness. Thanks JB. Now - off to score a control horde book!
 
 </div>
 
-<div class="post" data-post-id="25367" data-author="*juggleblood*" data-date="2008-07-14T00:55:04+00:00">
+<div class="post" data-post-id="25367" data-author="*juggleblood*" data-date="2008-07-14T00:55:04+00:00" data-subject="">
 
 Just hit the banshee as well. Increased hp substantially. Increased hitroll substantially. Wail proc will no longer affect pcs who have reached Supremacy in their primary class. The banshee will now howl at your enemies making them more susceptible to offensive magic and melee attack.
 
 </div>
 
-<div class="post" data-post-id="25368" data-author="Weasel" data-date="2008-07-14T01:35:09+00:00">
+<div class="post" data-post-id="25368" data-author="Weasel" data-date="2008-07-14T01:35:09+00:00" data-subject="">
 
 *cough* help warriors *cough*
 
@@ -424,13 +424,13 @@ Just hit the banshee as well. Increased hp substantially. Increased hitroll subs
 
 </div>
 
-<div class="post" data-post-id="25369" data-author="alias" data-date="2008-07-14T02:21:01+00:00">
+<div class="post" data-post-id="25369" data-author="alias" data-date="2008-07-14T02:21:01+00:00" data-subject="">
 
 1250 hp, -12 ac, 5 attacks, what more do you want ?
 
 </div>
 
-<div class="post" data-post-id="25373" data-author="Vixn" data-date="2008-07-14T15:57:53+00:00">
+<div class="post" data-post-id="25373" data-author="Vixn" data-date="2008-07-14T15:57:53+00:00" data-subject="">
 
 1250 hp, -12 ac, 5 attacks, what more do you want ?[/quote:1ptf5rzd]
 
@@ -440,7 +440,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="25379" data-author="Mike" data-date="2008-07-15T16:28:49+00:00">
+<div class="post" data-post-id="25379" data-author="Mike" data-date="2008-07-15T16:28:49+00:00" data-subject="">
 
 Just hit the banshee as well. Increased hp substantially. Increased hitroll substantially. Wail proc will no longer affect pcs who have reached Supremacy in their primary class. The banshee will now howl at your enemies making them more susceptible to offensive magic and melee attack.[/quote:1xm6u7k7]
 
@@ -514,13 +514,13 @@ And dam still too low on banshees, imho.
 
 </div>
 
-<div class="post" data-post-id="25383" data-author="*juggleblood*" data-date="2008-07-15T21:05:58+00:00">
+<div class="post" data-post-id="25383" data-author="*juggleblood*" data-date="2008-07-15T21:05:58+00:00" data-subject="">
 
 yes
 
 </div>
 
-<div class="post" data-post-id="25384" data-author="*juggleblood*" data-date="2008-07-15T21:15:42+00:00">
+<div class="post" data-post-id="25384" data-author="*juggleblood*" data-date="2008-07-15T21:15:42+00:00" data-subject="">
 
 er...how come i don't have an edit button to edit last msg...
 
@@ -528,7 +528,7 @@ I fixed the wail thing again, was a silly bug. Thanks for testing it. The new pr
 
 </div>
 
-<div class="post" data-post-id="25385" data-author="Mike" data-date="2008-07-16T14:13:12+00:00">
+<div class="post" data-post-id="25385" data-author="Mike" data-date="2008-07-16T14:13:12+00:00" data-subject="">
 
 Do you think it is possible to add one attack to banshees? 
 
@@ -540,7 +540,7 @@ I'm whining here, cause right now, there is a huge gap in pets powers between 1x
 
 </div>
 
-<div class="post" data-post-id="25386" data-author="Vixn" data-date="2008-07-16T16:00:35+00:00">
+<div class="post" data-post-id="25386" data-author="Vixn" data-date="2008-07-16T16:00:35+00:00" data-subject="">
 
 I'm whining here, cause right now, there is a huge gap in pets powers between 1x40 and 4x40+11.[/quote:20w8odgc]
 
@@ -550,7 +550,7 @@ Go, play warrior and you'll see how hard it is to lie still being mortally wound
 
 </div>
 
-<div class="post" data-post-id="25387" data-author="Mike" data-date="2008-07-16T16:36:19+00:00">
+<div class="post" data-post-id="25387" data-author="Mike" data-date="2008-07-16T16:36:19+00:00" data-subject="">
 
 We have Weasel to whine about warrirors here :)
 
@@ -560,19 +560,19 @@ Give all powers to necroses!  :P
 
 </div>
 
-<div class="post" data-post-id="25390" data-author="13" data-date="2008-07-16T19:59:00+00:00">
+<div class="post" data-post-id="25390" data-author="13" data-date="2008-07-16T19:59:00+00:00" data-subject="">
 
 so who cries the hardest these days?
 
 </div>
 
-<div class="post" data-post-id="25391" data-author="Tap" data-date="2008-07-16T21:35:41+00:00">
+<div class="post" data-post-id="25391" data-author="Tap" data-date="2008-07-16T21:35:41+00:00" data-subject="">
 
 Polk
 
 </div>
 
-<div class="post" data-post-id="25393" data-author="*juggleblood*" data-date="2008-07-16T23:56:39+00:00">
+<div class="post" data-post-id="25393" data-author="*juggleblood*" data-date="2008-07-16T23:56:39+00:00" data-subject="">
 
 I was wrong again when I said that Banshee's had more dam than wraiths. It was actually lower. I was going off the documentation I had, rather than looking at wut was on the mob. I raised it back up to where it's sposed to be. I think the question of whether 2 banshees or 3 wraiths are more effective will come down to mob ac. 
 
@@ -580,13 +580,13 @@ Thx for the inputs.
 
 </div>
 
-<div class="post" data-post-id="25394" data-author="Tap" data-date="2008-07-17T00:12:24+00:00">
+<div class="post" data-post-id="25394" data-author="Tap" data-date="2008-07-17T00:12:24+00:00" data-subject="">
 
 Shouldn't banshee's be better than wraiths overall? Not saying a significant boost but once one reached that level to summon banshee, wraith should take a backseat. You wouldn't have a 5x40 wasting his time on a small juju when Bokor was such an obvious alternative( and yes, he/she doesn't really have a choice...just making the case). Otherwise, thanks for tinkering and doing the adjustment. Now if somene would start working on bards.....
 
 </div>
 
-<div class="post" data-post-id="25400" data-author="Mike" data-date="2008-07-17T06:35:12+00:00">
+<div class="post" data-post-id="25400" data-author="Mike" data-date="2008-07-17T06:35:12+00:00" data-subject="">
 
 Thanks for banshees. But i still belive one attack would be nice, cause before i will have 2 banshees, theres a lot of levels. So either I have to use 3 wraith or one banshee and wraith. First choise is much more effective, second one is weak. Of course ac and hitpoints are different on wraith and banshee, but we are talking about steps forward in necro progress when he levels. So you are giving more ac, but lower dam and amount of pets. So as i said in previous post, main power is dam :)
 
@@ -596,19 +596,19 @@ Like: frostbolt deals 200 dam, i have 70 spelldam bonus eq on me (90 cap), bard 
 
 </div>
 
-<div class="post" data-post-id="25401" data-author="*juggleblood*" data-date="2008-07-17T12:38:16+00:00">
+<div class="post" data-post-id="25401" data-author="*juggleblood*" data-date="2008-07-17T12:38:16+00:00" data-subject="">
 
 banshee has better hitroll, dam, and hitpoints than wraith. Also the procs can be quite useful. You can choose to use them or not, but I don't see me getting permission to give them another attack. It'd probably be easier to get permission to nerf wraiths.
 
 </div>
 
-<div class="post" data-post-id="25402" data-author="Widow" data-date="2008-07-17T15:19:34+00:00">
+<div class="post" data-post-id="25402" data-author="Widow" data-date="2008-07-17T15:19:34+00:00" data-subject="">
 
 Don't even JOKE about that! :shock:
 
 </div>
 
-<div class="post" data-post-id="25403" data-author="Vixn" data-date="2008-07-17T17:23:14+00:00">
+<div class="post" data-post-id="25403" data-author="Vixn" data-date="2008-07-17T17:23:14+00:00" data-subject="">
 
 banshee has better hitroll, dam, and hitpoints than wraith. Also the procs can be quite useful. You can choose to use them or not, but I don't see me getting permission to give them another attack. It'd probably be easier to get permission to nerf wraiths.[/quote:2gg7avte]
 
@@ -626,7 +626,7 @@ That's why I'm very interesting where would I come with this 'easier-to-get-perm
 
 </div>
 
-<div class="post" data-post-id="25407" data-author="Tap" data-date="2008-07-17T21:53:10+00:00">
+<div class="post" data-post-id="25407" data-author="Tap" data-date="2008-07-17T21:53:10+00:00" data-subject="">
 
 [img:3aba6v8i]http://rds.yahoo.com/_ylt=A0WTb_6.vn9IkgUB6c.jzbkF/SIG=129grlpb6/EXP=1216417854/**http%3A//media.damnfunnypictures.com/dfp/permission.jpg[/img:3aba6v8i]
 
@@ -634,13 +634,13 @@ Umm..what was the question again?
 
 </div>
 
-<div class="post" data-post-id="25409" data-author="Tap" data-date="2008-07-18T02:12:03+00:00">
+<div class="post" data-post-id="25409" data-author="Tap" data-date="2008-07-18T02:12:03+00:00" data-subject="">
 
 [img:1jn7mjwy]http://www.feebleminds-gifs.com/skeleton-4.gif[/img:1jn7mjwy]
 
 </div>
 
-<div class="post" data-post-id="25418" data-author="Mike" data-date="2008-07-19T20:37:20+00:00">
+<div class="post" data-post-id="25418" data-author="Mike" data-date="2008-07-19T20:37:20+00:00" data-subject="">
 
 banshee has better hitroll, dam, and hitpoints than wraith.[/quote:2gqtfvpp]
 

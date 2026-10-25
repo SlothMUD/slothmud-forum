@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38716" data-author="*Idjit*" data-date="2018-03-31T22:09:18+00:00">
+<div class="post" data-post-id="38716" data-author="*Idjit*" data-date="2018-03-31T22:09:18+00:00" data-subject="Easter Festivities">
 
 Umm, hello!
 
@@ -28,7 +28,7 @@ Respectfully,
 
 </div>
 
-<div class="post" data-post-id="38718" data-author="Gorka" data-date="2018-04-01T07:22:44+00:00">
+<div class="post" data-post-id="38718" data-author="Gorka" data-date="2018-04-01T07:22:44+00:00" data-subject="Re: Easter Festivities">
 
 Thank you!
 

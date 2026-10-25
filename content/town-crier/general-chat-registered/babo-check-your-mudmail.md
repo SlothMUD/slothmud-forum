@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36133" data-author="Teron" data-date="2015-11-02T12:59:39+00:00">
+<div class="post" data-post-id="36133" data-author="Teron" data-date="2015-11-02T12:59:39+00:00" data-subject="Babo, check your mudmail">
 
 Hi.
 
@@ -28,7 +28,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="36143" data-author="Yasik" data-date="2015-11-06T12:48:30+00:00">
+<div class="post" data-post-id="36143" data-author="Yasik" data-date="2015-11-06T12:48:30+00:00" data-subject="Re: Babo, check your mudmail">
 
 I heard we can login second character to gossip for help if our main died and no other means to get help, but forbidden to do anything else except gossip (leaving Inn room etc).
 
@@ -36,7 +36,7 @@ Correct me if I am wrong.
 
 </div>
 
-<div class="post" data-post-id="36145" data-author="Belrath" data-date="2015-11-09T07:40:26+00:00">
+<div class="post" data-post-id="36145" data-author="Belrath" data-date="2015-11-09T07:40:26+00:00" data-subject="Re: Babo, check your mudmail">
 
 help rule 1
 

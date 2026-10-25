@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="34659" data-author="Akaya" data-date="2013-12-19T23:50:13+00:00">
+<div class="post" data-post-id="34659" data-author="Akaya" data-date="2013-12-19T23:50:13+00:00" data-subject="MSDP additons">
 
 I keep coming across ideas for MSDP variables. Figured I'd start a topic to keep them organized...
 
@@ -18,7 +18,7 @@ I keep coming across ideas for MSDP variables. Figured I'd start a topic to keep
 
 </div>
 
-<div class="post" data-post-id="34660" data-author="DarkArtist" data-date="2013-12-20T14:04:14+00:00">
+<div class="post" data-post-id="34660" data-author="DarkArtist" data-date="2013-12-20T14:04:14+00:00" data-subject="Re: MSDP additons">
 
 2. Character Position
 
@@ -26,7 +26,7 @@ I keep coming across ideas for MSDP variables. Figured I'd start a topic to keep
 
 </div>
 
-<div class="post" data-post-id="34661" data-author="*Splork*" data-date="2013-12-20T14:49:04+00:00">
+<div class="post" data-post-id="34661" data-author="*Splork*" data-date="2013-12-20T14:49:04+00:00" data-subject="Re: MSDP additons">
 
 Spell Affects and exits are already in-game but again, they are listed with the odd characters. I still can't figure out why it works for mushclient but not mudlet. I will update the helpfile today with the missing variables which are already reported.
 
@@ -36,7 +36,7 @@ We might have to look at sending each affect separably maybe.
 
 </div>
 
-<div class="post" data-post-id="34662" data-author="DarkArtist" data-date="2013-12-20T18:53:01+00:00">
+<div class="post" data-post-id="34662" data-author="DarkArtist" data-date="2013-12-20T18:53:01+00:00" data-subject="Re: MSDP additons">
 
 Separate would be a ton of new vars. I will just take the string and do a pattern match and send the matches to a new table, rather than sub out the weird chars. It should be pretty straightforward.
 
@@ -116,7 +116,7 @@ edit: maybe instead of a prefix or suffix for door status, just have the output 
 
 </div>
 
-<div class="post" data-post-id="34663" data-author="*Splork*" data-date="2013-12-20T20:17:53+00:00">
+<div class="post" data-post-id="34663" data-author="*Splork*" data-date="2013-12-20T20:17:53+00:00" data-subject="Re: MSDP additons">
 
 > **DarkArtist wrote:**
 > It would be pretty cool too btw if msdpexits added a prefix or suffix that indicates door status. Since we have to pattern match anyway, it wouldn't make it any harder.
@@ -203,7 +203,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34664" data-author="*Splork*" data-date="2013-12-20T20:40:15+00:00">
+<div class="post" data-post-id="34664" data-author="*Splork*" data-date="2013-12-20T20:40:15+00:00" data-subject="Re: MSDP additons">
 
 I figured the issue out with the above mentioned variables:
 
@@ -235,7 +235,7 @@ MSDPGROUP_LEADER = "Splork",
 
 </div>
 
-<div class="post" data-post-id="34665" data-author="DarkArtist" data-date="2013-12-20T23:06:30+00:00">
+<div class="post" data-post-id="34665" data-author="DarkArtist" data-date="2013-12-20T23:06:30+00:00" data-subject="Re: MSDP additons">
 
 So the new format for MSDPROOM_EXITS goes in on reboot too? You have it printed there as output but I still get the old format ingame.
 
@@ -351,7 +351,7 @@ end
 
 </div>
 
-<div class="post" data-post-id="34666" data-author="*Splork*" data-date="2013-12-21T01:30:37+00:00">
+<div class="post" data-post-id="34666" data-author="*Splork*" data-date="2013-12-21T01:30:37+00:00" data-subject="Re: MSDP additons">
 
 My post was missing the odd characters, they wouldn't paste for some reason. Room_exits and affects output has not changed and the current in-game outputs are the same. Sorry for the confusion.
 
@@ -361,13 +361,13 @@ Ill post any updates as they come.
 
 </div>
 
-<div class="post" data-post-id="34667" data-author="Dragoth" data-date="2013-12-21T08:36:58+00:00">
+<div class="post" data-post-id="34667" data-author="Dragoth" data-date="2013-12-21T08:36:58+00:00" data-subject="Re: MSDP additons">
 
 Any chance to add aerial servant %hp to MSDP
 
 </div>
 
-<div class="post" data-post-id="34673" data-author="Akaya" data-date="2013-12-21T16:35:14+00:00">
+<div class="post" data-post-id="34673" data-author="Akaya" data-date="2013-12-21T16:35:14+00:00" data-subject="Re: MSDP additons">
 
 DarkArtist had a good idea....
 
@@ -403,13 +403,13 @@ end
 
 </div>
 
-<div class="post" data-post-id="34674" data-author="DarkArtist" data-date="2013-12-21T17:44:26+00:00">
+<div class="post" data-post-id="34674" data-author="DarkArtist" data-date="2013-12-21T17:44:26+00:00" data-subject="Re: MSDP additons">
 
 Thanks for that, if you come up with an elegant way to assign door status values to the elements of the exits table, pls post it too. I'm not doing too bad for two weeks of studying, but the simple solution isn't clear to me on that one yet.
 
 </div>
 
-<div class="post" data-post-id="34677" data-author="Akaya" data-date="2013-12-21T22:43:58+00:00">
+<div class="post" data-post-id="34677" data-author="Akaya" data-date="2013-12-21T22:43:58+00:00" data-subject="Re: MSDP additons">
 
 Update the parseExits() function. It now returns a key-value table of each exit and it's door status. Comes out looking like this when you run it:
 
@@ -428,7 +428,7 @@ Best part: All the 'weird characters' are avoided.
 
 </div>
 
-<div class="post" data-post-id="34679" data-author="*Splork*" data-date="2013-12-23T20:13:42+00:00">
+<div class="post" data-post-id="34679" data-author="*Splork*" data-date="2013-12-23T20:13:42+00:00" data-subject="Re: MSDP additons">
 
 Please check the following format for MSDPJSON_AFFECTS AND MSDPJSON_ROOM_EXITS and see if this will be easier to parse.  I do realize this is not JSON format but its close which is why its named that. The odd characters are pushed outside the brackets and only show at the front and back of the entire line. Is this good or any ideas how to make it easier for you guys?
 
@@ -436,7 +436,7 @@ NewMSDPFormat.PNG
 
 </div>
 
-<div class="post" data-post-id="34680" data-author="Akaya" data-date="2013-12-23T20:43:19+00:00">
+<div class="post" data-post-id="34680" data-author="Akaya" data-date="2013-12-23T20:43:19+00:00" data-subject="Re: MSDP additons">
 
 Since we're trying to parse a single string here, I think it might be best to place a delimiter between each value rather than encasing it in brackets or quotes. So rather than having the string represent JSON, have it as the most simplified string possible with only the necessary info. Something like this would be ideal:
 
@@ -448,7 +448,7 @@ I know the weird characters at the beginning and end are unavoidable but they ca
 
 </div>
 
-<div class="post" data-post-id="34681" data-author="*Splork*" data-date="2013-12-23T23:14:24+00:00">
+<div class="post" data-post-id="34681" data-author="*Splork*" data-date="2013-12-23T23:14:24+00:00" data-subject="Re: MSDP additons">
 
 Variable Names :STRING_AFFECTS and STRING_PERM_AFFECTS -> Affect name followed by affect modifier
 string_affects.PNG
@@ -464,13 +464,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34682" data-author="Akaya" data-date="2013-12-24T04:38:55+00:00">
+<div class="post" data-post-id="34682" data-author="Akaya" data-date="2013-12-24T04:38:55+00:00" data-subject="Re: MSDP additons">
 
 this is beautiful. Im on my phone right now but ill write a parser for this in the morning. Thanks Splork!
 
 </div>
 
-<div class="post" data-post-id="34743" data-author="DarkArtist" data-date="2013-12-30T17:42:41+00:00">
+<div class="post" data-post-id="34743" data-author="DarkArtist" data-date="2013-12-30T17:42:41+00:00" data-subject="Re: MSDP additons">
 
 Spell affects output looks good since it can be parsed with the same algorithm as string_exits.
 
@@ -480,7 +480,7 @@ Not a priority, just a thought.
 
 </div>
 
-<div class="post" data-post-id="34824" data-author="Akaya" data-date="2014-01-24T20:10:40+00:00">
+<div class="post" data-post-id="34824" data-author="Akaya" data-date="2014-01-24T20:10:40+00:00" data-subject="Re: MSDP additons">
 
 Here's a parser for the new MSDPWEAR_<slot> additions.
 
@@ -507,7 +507,7 @@ display(parseEQ("MSDPWEAR_HEAD","VNUM:3002,DESC:a lesser helm,AC-apply:-1.0,"))
 
 </div>
 
-<div class="post" data-post-id="35343" data-author="Tuck" data-date="2014-06-15T16:35:12+00:00">
+<div class="post" data-post-id="35343" data-author="Tuck" data-date="2014-06-15T16:35:12+00:00" data-subject="Re: MSDP additons">
 
 Continued here: [http://www.slothmud.org/forum/viewtopic.php?f=30&t=4371](http://www.slothmud.org/forum/viewtopic.php?f=30&t=4371)
 

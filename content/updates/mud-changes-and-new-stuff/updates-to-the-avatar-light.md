@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39684" data-author="Driven" data-date="2021-02-01T21:14:00+00:00">
+<div class="post" data-post-id="39684" data-author="Driven" data-date="2021-02-01T21:14:00+00:00" data-subject="Updates to the avatar light">
 
 I have updated the avatar light code, though Teker will need to grab my latest code to get the finalized options.  Here is what the options will be:
 

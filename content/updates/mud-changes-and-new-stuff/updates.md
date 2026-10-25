@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29320" data-author="*Splork*" data-date="2009-05-31T15:04:31+00:00">
+<div class="post" data-post-id="29320" data-author="*Splork*" data-date="2009-05-31T15:04:31+00:00" data-subject="updates">
 
 1) MSSP support has been added, help mssp or [http://tintin.sourceforge.net/mssp/](http://tintin.sourceforge.net/mssp/)
 

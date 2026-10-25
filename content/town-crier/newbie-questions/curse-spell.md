@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="1666" data-author="El_Furax" data-date="2004-08-31T09:38:17+00:00">
+<div class="post" data-post-id="1666" data-author="El_Furax" data-date="2004-08-31T09:38:17+00:00" data-subject="Curse Spell">
 
 Eh eh yet another newbie Question by El_Furax  8) 
 
@@ -50,7 +50,7 @@ Thanks for putting up with my silly questions.
 
 </div>
 
-<div class="post" data-post-id="1668" data-author="Calim" data-date="2004-08-31T10:39:26+00:00">
+<div class="post" data-post-id="1668" data-author="Calim" data-date="2004-08-31T10:39:26+00:00" data-subject="">
 
 Nope, your english is fine.  The description is somewhat vague.  The person who the curse spell is cast on, usually the mob, is the one who will have difficulty hitting their target.
 
@@ -58,7 +58,7 @@ Short Version: -1 to Hit to the target if they fail the save roll.
 
 </div>
 
-<div class="post" data-post-id="1669" data-author="El_Furax" data-date="2004-08-31T10:54:02+00:00">
+<div class="post" data-post-id="1669" data-author="El_Furax" data-date="2004-08-31T10:54:02+00:00" data-subject="">
 
 Short Version: -1 to Hit to the target if they fail the save roll.[/quote:orbdah6l]
 
@@ -68,7 +68,7 @@ Side note : hmm -1 tohit, period ? I'm slightly disappointed, I'd have expected 
 
 </div>
 
-<div class="post" data-post-id="1672" data-author="Ender" data-date="2004-08-31T12:15:04+00:00">
+<div class="post" data-post-id="1672" data-author="Ender" data-date="2004-08-31T12:15:04+00:00" data-subject="">
 
 I'll add a newbie question to this, since I haven't figured out what it means yet.  What is 'Your curse goes awry'?
 
@@ -78,7 +78,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="1673" data-author="El_Furax" data-date="2004-08-31T12:35:49+00:00">
+<div class="post" data-post-id="1673" data-author="El_Furax" data-date="2004-08-31T12:35:49+00:00" data-subject="">
 
 Hi Ender,
 
@@ -106,7 +106,7 @@ Ps : I always play MUD with an online dictionnary, and found it an awesome way t
 
 </div>
 
-<div class="post" data-post-id="1675" data-author="impz" data-date="2004-08-31T13:01:08+00:00">
+<div class="post" data-post-id="1675" data-author="impz" data-date="2004-08-31T13:01:08+00:00" data-subject="">
 
 awry simply means the mob makes his saving throw against the curse spell. Hence, you need to cast again in order for him to be properly cursed.
 
@@ -114,7 +114,7 @@ Hope that answers your question
 
 </div>
 
-<div class="post" data-post-id="1676" data-author="Ender" data-date="2004-08-31T13:36:49+00:00">
+<div class="post" data-post-id="1676" data-author="Ender" data-date="2004-08-31T13:36:49+00:00" data-subject="">
 
 Aye.  I was thinking that it just said 'Ok.' in that case, like the blind spell does, but come to think of it, I don't miss that many curses.
 
@@ -122,7 +122,7 @@ Brain freeze, sorry.
 
 </div>
 
-<div class="post" data-post-id="1712" data-author="Altair" data-date="2004-09-02T13:54:01+00:00">
+<div class="post" data-post-id="1712" data-author="Altair" data-date="2004-09-02T13:54:01+00:00" data-subject="">
 
 There is a sliding scale for damnation - sort of.
 
@@ -132,7 +132,7 @@ For example, damnation is a bigger curse. Uhm, nastier curse :)
 
 </div>
 
-<div class="post" data-post-id="1999" data-author=".kitn" data-date="2004-09-21T03:40:04+00:00">
+<div class="post" data-post-id="1999" data-author=".kitn" data-date="2004-09-21T03:40:04+00:00" data-subject="">
 
 There is a sliding scale for damnation - sort of.
 
@@ -146,7 +146,7 @@ Also, strength itself has a sliding scale, dependant on levels
 
 </div>
 
-<div class="post" data-post-id="2001" data-author="Altair" data-date="2004-09-21T11:57:33+00:00">
+<div class="post" data-post-id="2001" data-author="Altair" data-date="2004-09-21T11:57:33+00:00" data-subject="">
 
 [quote:191jn5ik]As for strength, there is vigor  
 

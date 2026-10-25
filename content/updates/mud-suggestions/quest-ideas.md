@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37212" data-author="Teron" data-date="2016-08-09T10:40:46+00:00">
+<div class="post" data-post-id="37212" data-author="Teron" data-date="2016-08-09T10:40:46+00:00" data-subject="quest ideas">
 
 We've been discussing some quest ideas on gossip:
 

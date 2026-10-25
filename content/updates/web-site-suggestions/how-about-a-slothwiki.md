@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="32339" data-author="Strago" data-date="2011-01-20T21:46:48+00:00">
+<div class="post" data-post-id="32339" data-author="Strago" data-date="2011-01-20T21:46:48+00:00" data-subject="How about a SlothWiki">
 
 Has any thought gone into the idea of having a community developed SlothWiki?
 
@@ -36,7 +36,7 @@ Dan (currently Apoc, not sure where my older characters or their logins went)
 
 </div>
 
-<div class="post" data-post-id="32341" data-author="*Breeze*" data-date="2011-01-21T08:17:27+00:00">
+<div class="post" data-post-id="32341" data-author="*Breeze*" data-date="2011-01-21T08:17:27+00:00" data-subject="Re: How about a SlothWiki">
 
 I discussed this with Chobbs about a week ago, at which point I joined a pretty nice
 
@@ -52,7 +52,7 @@ especially considering the nice search capabilities of mediawiki
 
 </div>
 
-<div class="post" data-post-id="32342" data-author="Strago" data-date="2011-01-21T11:20:27+00:00">
+<div class="post" data-post-id="32342" data-author="Strago" data-date="2011-01-21T11:20:27+00:00" data-subject="Re: How about a SlothWiki">
 
 Awesome!
 
@@ -60,13 +60,13 @@ Let me know if you need any help with it. Feel free to drop me an email. I have 
 
 </div>
 
-<div class="post" data-post-id="32344" data-author="*Breeze*" data-date="2011-01-21T21:12:58+00:00">
+<div class="post" data-post-id="32344" data-author="*Breeze*" data-date="2011-01-21T21:12:58+00:00" data-subject="Re: How about a SlothWiki">
 
 if you would like to help out w/ the mortal wiki, chobbs is the man to talk to. :)
 
 </div>
 
-<div class="post" data-post-id="32373" data-author="Strago" data-date="2011-01-25T15:06:31+00:00">
+<div class="post" data-post-id="32373" data-author="Strago" data-date="2011-01-25T15:06:31+00:00" data-subject="Re: How about a SlothWiki">
 
 I have not see a Chobbs on the who list, and did not see for PM contact information. Could you ask him to drop me an email? or PM me?
 
@@ -76,13 +76,13 @@ Dan
 
 </div>
 
-<div class="post" data-post-id="32374" data-author="*Breeze*" data-date="2011-01-25T15:31:48+00:00">
+<div class="post" data-post-id="32374" data-author="*Breeze*" data-date="2011-01-25T15:31:48+00:00" data-subject="Re: How about a SlothWiki">
 
 sent him email
 
 </div>
 
-<div class="post" data-post-id="32385" data-author="*Chobbs*" data-date="2011-01-27T04:40:48+00:00">
+<div class="post" data-post-id="32385" data-author="*Chobbs*" data-date="2011-01-27T04:40:48+00:00" data-subject="Re: How about a SlothWiki">
 
 Mornin' folks,
 
@@ -94,7 +94,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32399" data-author="Thraxas" data-date="2011-01-31T21:37:28+00:00">
+<div class="post" data-post-id="32399" data-author="Thraxas" data-date="2011-01-31T21:37:28+00:00" data-subject="Re: How about a SlothWiki">
 
 I know this isnt strictly on topic but is related, but wonder if this should be updated?
 
@@ -102,7 +102,7 @@ http://www.mudpedia.org/wiki/SlothMUD
 
 </div>
 
-<div class="post" data-post-id="32415" data-author="*Chobbs*" data-date="2011-02-11T05:21:57+00:00">
+<div class="post" data-post-id="32415" data-author="*Chobbs*" data-date="2011-02-11T05:21:57+00:00" data-subject="Re: How about a SlothWiki">
 
 Mornin' folks,
 
@@ -118,7 +118,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="32416" data-author="Thraxas" data-date="2011-02-11T13:44:05+00:00">
+<div class="post" data-post-id="32416" data-author="Thraxas" data-date="2011-02-11T13:44:05+00:00" data-subject="Re: How about a SlothWiki">
 
 > ***Chobbs* wrote:**
 > Mornin' folks,
@@ -147,7 +147,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="32417" data-author="*Chobbs*" data-date="2011-02-11T17:29:08+00:00">
+<div class="post" data-post-id="32417" data-author="*Chobbs*" data-date="2011-02-11T17:29:08+00:00" data-subject="Re: How about a SlothWiki">
 
 Mornin' folks,
 
@@ -169,13 +169,13 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="32418" data-author="Marvel" data-date="2011-02-12T02:24:15+00:00">
+<div class="post" data-post-id="32418" data-author="Marvel" data-date="2011-02-12T02:24:15+00:00" data-subject="Re: How about a SlothWiki">
 
 Benq forwarded to you my newbie guide (which needs a lot added to it). I would be happy to help out as I can, although I'm only familiar with the nub stuff.
 
 </div>
 
-<div class="post" data-post-id="32485" data-author="*Chobbs*" data-date="2011-03-16T04:20:13+00:00">
+<div class="post" data-post-id="32485" data-author="*Chobbs*" data-date="2011-03-16T04:20:13+00:00" data-subject="Re: How about a SlothWiki">
 
 Mornin' folks,
 
@@ -199,7 +199,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32486" data-author="Teron" data-date="2011-03-16T20:22:24+00:00">
+<div class="post" data-post-id="32486" data-author="Teron" data-date="2011-03-16T20:22:24+00:00" data-subject="Re: How about a SlothWiki">
 
 So we wont be able to add any info about mobs, just the areas/mud, right?
 
@@ -221,7 +221,7 @@ I believe auto mobs would have to be monitored or its feedback filtered.
 
 </div>
 
-<div class="post" data-post-id="32487" data-author="Tuck" data-date="2011-03-17T13:36:28+00:00">
+<div class="post" data-post-id="32487" data-author="Tuck" data-date="2011-03-17T13:36:28+00:00" data-subject="Re: How about a SlothWiki">
 
 > **Teron wrote:**
 > So we wont be able to add any info about mobs, just the areas/mud, right?
@@ -254,13 +254,13 @@ Sorry, can't avoid :)
 
 </div>
 
-<div class="post" data-post-id="32540" data-author="harvey" data-date="2011-04-01T16:04:19+00:00">
+<div class="post" data-post-id="32540" data-author="harvey" data-date="2011-04-01T16:04:19+00:00" data-subject="Re: How about a SlothWiki">
 
 I really like the wiki's setup so far. I did run into a problem with it though. I accidentally used an email address that had gone inactive when I tried to register for an account. Could one of the wiki moderators please free up the username Harvey, or possibly look into making it possible to resend the verification email. Thanks in advance for any help with this.
 
 </div>
 
-<div class="post" data-post-id="32547" data-author="*Breeze*" data-date="2011-04-02T01:40:43+00:00">
+<div class="post" data-post-id="32547" data-author="*Breeze*" data-date="2011-04-02T01:40:43+00:00" data-subject="Re: How about a SlothWiki">
 
 Email me your address. Benq@slothmud...org
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="33972" data-author="Dragoth" data-date="2013-02-04T21:32:46+00:00">
+<div class="post" data-post-id="33972" data-author="Dragoth" data-date="2013-02-04T21:32:46+00:00" data-subject="2 characters for trade">
 
 **BOTH CHARS ARE FOR TRADE WITH ALL THE EQUIPMENT
 
@@ -408,13 +408,13 @@ Variable spellup removed.
 
 </div>
 
-<div class="post" data-post-id="33973" data-author="*juggleblood*" data-date="2013-02-04T23:46:10+00:00">
+<div class="post" data-post-id="33973" data-author="*juggleblood*" data-date="2013-02-04T23:46:10+00:00" data-subject="Re: Cleric for sale">
 
 Sweet stats.
 
 </div>
 
-<div class="post" data-post-id="33978" data-author="Dragoth" data-date="2013-02-05T10:22:47+00:00">
+<div class="post" data-post-id="33978" data-author="Dragoth" data-date="2013-02-05T10:22:47+00:00" data-subject="Re: Cleric for sale">
 
 All valk drachma quests were completed, 
 
@@ -428,31 +428,31 @@ Permission to enter T&D purchased
 
 </div>
 
-<div class="post" data-post-id="34051" data-author="Tuck" data-date="2013-02-19T23:08:05+00:00">
+<div class="post" data-post-id="34051" data-author="Tuck" data-date="2013-02-19T23:08:05+00:00" data-subject="Re: Cleric for sale">
 
 How much?
 
 </div>
 
-<div class="post" data-post-id="34055" data-author="Dragoth" data-date="2013-02-20T04:35:47+00:00">
+<div class="post" data-post-id="34055" data-author="Dragoth" data-date="2013-02-20T04:35:47+00:00" data-subject="Re: Cleric for sale">
 
 .
 
 </div>
 
-<div class="post" data-post-id="34117" data-author="Dragoth" data-date="2013-03-03T16:59:31+00:00">
+<div class="post" data-post-id="34117" data-author="Dragoth" data-date="2013-03-03T16:59:31+00:00" data-subject="Re: Cleric for sale">
 
 .
 
 </div>
 
-<div class="post" data-post-id="34352" data-author="Dragoth" data-date="2013-07-14T04:45:28+00:00">
+<div class="post" data-post-id="34352" data-author="Dragoth" data-date="2013-07-14T04:45:28+00:00" data-subject="Re: Cleric for sale">
 
 .
 
 </div>
 
-<div class="post" data-post-id="34354" data-author="Tuck" data-date="2013-07-15T01:56:48+00:00">
+<div class="post" data-post-id="34354" data-author="Tuck" data-date="2013-07-15T01:56:48+00:00" data-subject="Re: 2 characters for trade">
 
 Rhodo gem ~20-30mils.
 
@@ -462,7 +462,7 @@ Just answer yes or no :)
 
 </div>
 
-<div class="post" data-post-id="34356" data-author="Dragoth" data-date="2013-07-15T06:45:47+00:00">
+<div class="post" data-post-id="34356" data-author="Dragoth" data-date="2013-07-15T06:45:47+00:00" data-subject="Re: 2 characters for trade">
 
 I think those characters with that EQ and stats are worth way more than 100mils
 

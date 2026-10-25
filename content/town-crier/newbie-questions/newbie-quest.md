@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="7656" data-author="smig1o" data-date="2005-06-29T08:56:56+00:00">
+<div class="post" data-post-id="7656" data-author="smig1o" data-date="2005-06-29T08:56:56+00:00" data-subject="Newbie Quest">
 
 Hi
 
@@ -32,7 +32,7 @@ Pi, the >.............< one
 
 </div>
 
-<div class="post" data-post-id="7703" data-author="smig1o" data-date="2005-07-01T04:48:12+00:00">
+<div class="post" data-post-id="7703" data-author="smig1o" data-date="2005-07-01T04:48:12+00:00" data-subject="Re: Newbie Quest">
 
 Hi
 

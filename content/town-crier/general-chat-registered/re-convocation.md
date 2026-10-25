@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="9765" data-author="Deju" data-date="2005-12-12T16:20:51+00:00">
+<div class="post" data-post-id="9765" data-author="Deju" data-date="2005-12-12T16:20:51+00:00" data-subject="Re: convocation">
 
 Hey -
 
@@ -28,7 +28,7 @@ Deju
 
 </div>
 
-<div class="post" data-post-id="9766" data-author="Bazilus" data-date="2005-12-12T17:15:47+00:00">
+<div class="post" data-post-id="9766" data-author="Bazilus" data-date="2005-12-12T17:15:47+00:00" data-subject="">
 
 Good idea Deju.
 
@@ -36,19 +36,19 @@ If someone go afk, they must follow self? Or leader cant use new spell?..
 
 </div>
 
-<div class="post" data-post-id="9767" data-author="kjartan" data-date="2005-12-12T18:54:39+00:00">
+<div class="post" data-post-id="9767" data-author="kjartan" data-date="2005-12-12T18:54:39+00:00" data-subject="">
 
 Ok, I will add the flag thing.  I'll try to get to it tonight.
 
 </div>
 
-<div class="post" data-post-id="9768" data-author="Deju" data-date="2005-12-12T19:06:55+00:00">
+<div class="post" data-post-id="9768" data-author="Deju" data-date="2005-12-12T19:06:55+00:00" data-subject="">
 
 Cool, thanks much Kjartan!
 
 </div>
 
-<div class="post" data-post-id="9774" data-author="Bazilus" data-date="2005-12-13T08:20:15+00:00">
+<div class="post" data-post-id="9774" data-author="Bazilus" data-date="2005-12-13T08:20:15+00:00" data-subject="">
 
 Ok, I will add the flag thing.  I'll try to get to it tonight.[/quote:2o5syh5l]
 
@@ -56,7 +56,7 @@ Nice, thx Kjartan.
 
 </div>
 
-<div class="post" data-post-id="9798" data-author="kjartan" data-date="2005-12-15T05:29:46+00:00">
+<div class="post" data-post-id="9798" data-author="kjartan" data-date="2005-12-15T05:29:46+00:00" data-subject="">
 
 Ok, I have added the requested setting, in next crash or reboot.  See 'help lurk' after reboot.
 

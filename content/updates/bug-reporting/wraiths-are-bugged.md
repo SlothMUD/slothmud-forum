@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31757" data-author="Dragoth" data-date="2010-09-15T10:11:48+00:00">
+<div class="post" data-post-id="31757" data-author="Dragoth" data-date="2010-09-15T10:11:48+00:00" data-subject="Wraiths are bugged">
 
 When they fight players they have what looks like a drain life proc and yet when they fight other mobs they never seem to proc anything ?
 

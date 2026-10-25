@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="153" data-author="guest" data-date="2004-04-25T16:49:22+00:00">
+<div class="post" data-post-id="153" data-author="guest" data-date="2004-04-25T16:49:22+00:00" data-subject="Alabaster Wand">
 
 Loads on fire eater in Circus (VK), has 3 charges of colour spray.
 

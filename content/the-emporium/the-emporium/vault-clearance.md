@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="1495" data-author="impz" data-date="2004-08-19T02:24:49+00:00">
+<div class="post" data-post-id="1495" data-author="impz" data-date="2004-08-19T02:24:49+00:00" data-subject="vault clearance">
 
 Serpent skin coif - 2.5 mil min
 
@@ -72,25 +72,25 @@ this item.
 
 </div>
 
-<div class="post" data-post-id="1496" data-author="Ezekiel" data-date="2004-08-19T03:54:50+00:00">
+<div class="post" data-post-id="1496" data-author="Ezekiel" data-date="2004-08-19T03:54:50+00:00" data-subject="gimlet 2.5">
 
 2.5 mil on gimlet
 
 </div>
 
-<div class="post" data-post-id="1497" data-author="Alberich" data-date="2004-08-19T04:25:12+00:00">
+<div class="post" data-post-id="1497" data-author="Alberich" data-date="2004-08-19T04:25:12+00:00" data-subject="">
 
 2.5 on coif
 
 </div>
 
-<div class="post" data-post-id="1535" data-author="impz" data-date="2004-08-22T03:03:13+00:00">
+<div class="post" data-post-id="1535" data-author="impz" data-date="2004-08-22T03:03:13+00:00" data-subject="">
 
 Will close on wednesday...
 
 </div>
 
-<div class="post" data-post-id="1541" data-author="Dominicus" data-date="2004-08-22T14:14:40+00:00">
+<div class="post" data-post-id="1541" data-author="Dominicus" data-date="2004-08-22T14:14:40+00:00" data-subject="">
 
 1 mil on that Staff
 

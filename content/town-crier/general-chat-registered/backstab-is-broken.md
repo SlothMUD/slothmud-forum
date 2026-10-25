@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="39587" data-author="Bandit" data-date="2020-10-22T22:18:02+00:00">
+<div class="post" data-post-id="39587" data-author="Bandit" data-date="2020-10-22T22:18:02+00:00" data-subject="Backstab is broken">
 
 The black dragon queen quickly avoids your backstab, and you nearly cut your finger!
 
@@ -30,7 +30,7 @@ My monk has about a 15-20% chance to miss, and I've calculated Alias quite a bit
 
 </div>
 
-<div class="post" data-post-id="39591" data-author="Gorka" data-date="2020-10-25T07:31:54+00:00">
+<div class="post" data-post-id="39591" data-author="Gorka" data-date="2020-10-25T07:31:54+00:00" data-subject="Re: Backstab is broken">
 
 > **Bandit wrote:**
 > We've noticed a pattern with warriors that stab in the group. Those that have thief around 7th or 8th in their class order stab really well, landing nearly every third stab.
@@ -39,7 +39,7 @@ I don't count stabs, but I feel quite confident in saying that Tonedeaf's backst
 
 </div>
 
-<div class="post" data-post-id="39592" data-author="Gorka" data-date="2020-10-25T07:49:48+00:00">
+<div class="post" data-post-id="39592" data-author="Gorka" data-date="2020-10-25T07:49:48+00:00" data-subject="Re: Backstab is broken">
 
 Just grabbed some rough stats from logs for a "Gorka Day" vs a "Tonedeaf Day." Same rates more a less.
 
@@ -67,13 +67,13 @@ Bandit stated in another thread that triple stab triggers 25% of the time for hi
 
 </div>
 
-<div class="post" data-post-id="39594" data-author="Gorka" data-date="2020-10-25T14:06:45+00:00">
+<div class="post" data-post-id="39594" data-author="Gorka" data-date="2020-10-25T14:06:45+00:00" data-subject="Re: Backstab is broken">
 
 I calculated my backstab rate differently than Bandit, I calculated my trigger rate, well he is using the "to hit" rate. By using his method, my rate of landing the 3rd backstab would be 99+% for both Tonedeaf and Gorka. Given the codes frequent use of number(0, 100) I assume that perhaps the 1% correlates to the times I roll 100, perhaps a variable is outside the intended range?
 
 </div>
 
-<div class="post" data-post-id="39595" data-author="Bandit" data-date="2020-10-25T14:38:35+00:00">
+<div class="post" data-post-id="39595" data-author="Bandit" data-date="2020-10-25T14:38:35+00:00" data-subject="Re: Backstab is broken">
 
 Yeah, I wasn't suggesting this was a warrior only thing, but that was some previous speculation that we had. Mostly this comes from the only people that stab in the group are the tank or a thief prime. But, Shatterhand with thief 8th does just as well, as a warrior with thief late in the class order.
 
@@ -205,7 +205,7 @@ end
 
 </div>
 
-<div class="post" data-post-id="39620" data-author="Driven" data-date="2020-11-20T15:32:50+00:00">
+<div class="post" data-post-id="39620" data-author="Driven" data-date="2020-11-20T15:32:50+00:00" data-subject="Re: Backstab is broken">
 
 Ok, I'm determined to fix thieves, and so I ran a test with Maniac, where I had both Razyr and Bandit backstab xerxes 1000 times, and I collected only two stats:
 
@@ -231,7 +231,7 @@ Same mob, 1000 times each player executes "backstab xerxes", thief oct lands exc
 
 </div>
 
-<div class="post" data-post-id="39621" data-author="Gorka" data-date="2020-11-20T17:37:15+00:00">
+<div class="post" data-post-id="39621" data-author="Gorka" data-date="2020-11-20T17:37:15+00:00" data-subject="Re: Backstab is broken">
 
 I don't think there is anyone arguing that triple stab isn't broken.
 
@@ -239,13 +239,13 @@ I reached out to Breeze about it a while back, he's had some laptop issues latel
 
 </div>
 
-<div class="post" data-post-id="39622" data-author="Ker" data-date="2020-11-21T17:46:15+00:00">
+<div class="post" data-post-id="39622" data-author="Ker" data-date="2020-11-21T17:46:15+00:00" data-subject="Re: Backstab is broken">
 
 #makethiefgreatagain! Yay for Maniac!
 
 </div>
 
-<div class="post" data-post-id="39664" data-author="Gorka" data-date="2021-01-06T21:47:31+00:00">
+<div class="post" data-post-id="39664" data-author="Gorka" data-date="2021-01-06T21:47:31+00:00" data-subject="Re: Backstab is broken">
 
 So I noticed this...
 
@@ -261,7 +261,7 @@ Ummm, we need another favour though... the reading command is broken and has bee
 
 </div>
 
-<div class="post" data-post-id="39665" data-author="Gorka" data-date="2021-01-07T06:40:10+00:00">
+<div class="post" data-post-id="39665" data-author="Gorka" data-date="2021-01-07T06:40:10+00:00" data-subject="Re: Backstab is broken">
 
 Can a thief check their triple stab please and post results here? I talked with Bandit briefly yesterday and a very small test was returning data that showed that prime stab was not changed, only everyone else got a nerf. I'd like to confirm that info.
 
@@ -273,7 +273,7 @@ If triple stab is now 2.55% might as well call the skill prime... as everyone el
 
 </div>
 
-<div class="post" data-post-id="39667" data-author="Bandit" data-date="2021-01-07T18:44:40+00:00">
+<div class="post" data-post-id="39667" data-author="Bandit" data-date="2021-01-07T18:44:40+00:00" data-subject="Re: Backstab is broken">
 
 > **Gorka wrote:**
 > Can a thief check their triple stab please and post results here?
@@ -282,7 +282,7 @@ Probably not, nobody plays a thief and triple stab is a portion of why we don't 
 
 </div>
 
-<div class="post" data-post-id="39675" data-author="*teker*" data-date="2021-01-19T15:06:41+00:00">
+<div class="post" data-post-id="39675" data-author="*teker*" data-date="2021-01-19T15:06:41+00:00" data-subject="Re: Backstab is broken">
 
 To clarify what the changes were regarding triple stab/excruciating blow:  There was an uninitialized variable in the code for players with thief in class slots 6-8.  While I'm sure this appears to be a nerf to those players, I believe the changes are consistent with the intent of the original coder.
 
@@ -290,7 +290,7 @@ There have been other discussions regarding the skill and more changes could be 
 
 </div>
 
-<div class="post" data-post-id="39676" data-author="Gorka" data-date="2021-01-19T16:32:02+00:00">
+<div class="post" data-post-id="39676" data-author="Gorka" data-date="2021-01-19T16:32:02+00:00" data-subject="Re: Backstab is broken">
 
 > ***teker* wrote:**
 > There have been other discussions regarding the skill and more changes could be made after considerable thought and discussion.

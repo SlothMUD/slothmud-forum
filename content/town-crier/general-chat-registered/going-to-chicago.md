@@ -10,7 +10,7 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="14388" data-author="Medios" data-date="2006-09-29T21:57:04+00:00">
+<div class="post" data-post-id="14388" data-author="Medios" data-date="2006-09-29T21:57:04+00:00" data-subject="Going to Chicago">
 
 Aaron, his wife, Mike and Chrissy will be in town this weekend.  My cell is (618)889-0069 if anyone in town wants to hook up, or get that ass whooped.  Will if you call, better have some money. :P
 
@@ -18,7 +18,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="14389" data-author="13" data-date="2006-09-29T23:36:28+00:00">
+<div class="post" data-post-id="14389" data-author="13" data-date="2006-09-29T23:36:28+00:00" data-subject="">
 
 In true high-lord fashion, we've been waitin'on his ass for half an hour 
 
@@ -26,25 +26,25 @@ already.
 
 </div>
 
-<div class="post" data-post-id="14390" data-author="Weasel" data-date="2006-09-30T00:00:21+00:00">
+<div class="post" data-post-id="14390" data-author="Weasel" data-date="2006-09-30T00:00:21+00:00" data-subject="">
 
 probably morted somewhere..
 
 </div>
 
-<div class="post" data-post-id="14391" data-author="Leaf" data-date="2006-09-30T00:17:52+00:00">
+<div class="post" data-post-id="14391" data-author="Leaf" data-date="2006-09-30T00:17:52+00:00" data-subject="">
 
 How long u guys staying for?  I'll be busy on Sat, but free Sunday morning!
 
 </div>
 
-<div class="post" data-post-id="14396" data-author="Alberich" data-date="2006-09-30T15:28:38+00:00">
+<div class="post" data-post-id="14396" data-author="Alberich" data-date="2006-09-30T15:28:38+00:00" data-subject="">
 
 oh yeah ya'll should definantly call me
 
 </div>
 
-<div class="post" data-post-id="14457" data-author="13" data-date="2006-10-02T18:42:04+00:00">
+<div class="post" data-post-id="14457" data-author="13" data-date="2006-10-02T18:42:04+00:00" data-subject="">
 
 HO HO!!
 
@@ -64,7 +64,7 @@ Two-Fisting Single malt Scotch and Goose Island Oktoberfest, let the games begin
 
 </div>
 
-<div class="post" data-post-id="14484" data-author="13" data-date="2006-10-03T14:18:30+00:00">
+<div class="post" data-post-id="14484" data-author="13" data-date="2006-10-03T14:18:30+00:00" data-subject="">
 
 So Mike and I went to Chicago last year for a weekend because I+1 was on
 
@@ -306,13 +306,13 @@ Adam again.
 
 </div>
 
-<div class="post" data-post-id="14485" data-author="Diazz_Dizazter" data-date="2006-10-03T14:31:18+00:00">
+<div class="post" data-post-id="14485" data-author="Diazz_Dizazter" data-date="2006-10-03T14:31:18+00:00" data-subject="">
 
 I still say its a finger clasp and not a thumb-turban(tm).
 
 </div>
 
-<div class="post" data-post-id="14487" data-author="13" data-date="2006-10-03T14:55:56+00:00">
+<div class="post" data-post-id="14487" data-author="13" data-date="2006-10-03T14:55:56+00:00" data-subject="">
 
 I forgot to mention that on Saturday we went to SuperDawg, which is like
 
@@ -344,7 +344,7 @@ Mmmmmmm
 
 </div>
 
-<div class="post" data-post-id="14492" data-author="Avatar" data-date="2006-10-03T22:03:55+00:00">
+<div class="post" data-post-id="14492" data-author="Avatar" data-date="2006-10-03T22:03:55+00:00" data-subject="Missing Pics">
 
 The case of the missing pics.  I take it there's another person there, Leslie, aren't you two married now?  She's not in any of the pictures - is that by choice or accident?
 
@@ -354,7 +354,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="14493" data-author="Shadis" data-date="2006-10-03T22:37:36+00:00">
+<div class="post" data-post-id="14493" data-author="Shadis" data-date="2006-10-03T22:37:36+00:00" data-subject="">
 
 Remind me to Kick Adam's ass for not telling me you guys were coming to town.
 
@@ -362,19 +362,19 @@ Shadis
 
 </div>
 
-<div class="post" data-post-id="14502" data-author="13" data-date="2006-10-04T13:09:32+00:00">
+<div class="post" data-post-id="14502" data-author="13" data-date="2006-10-04T13:09:32+00:00" data-subject="">
 
 She was holding the camera a lot of the time, it's her camera.
 
 </div>
 
-<div class="post" data-post-id="14504" data-author="osric" data-date="2006-10-04T18:53:45+00:00">
+<div class="post" data-post-id="14504" data-author="osric" data-date="2006-10-04T18:53:45+00:00" data-subject="">
 
 That looks like a hell of a road trip, you guys should do that again next year, I'll venture forth across the boarder from the Land of Cheese and show you ladies how to drink!  Great photos!
 
 </div>
 
-<div class="post" data-post-id="14506" data-author="13" data-date="2006-10-04T19:07:06+00:00">
+<div class="post" data-post-id="14506" data-author="13" data-date="2006-10-04T19:07:06+00:00" data-subject="">
 
 [quote:1h6ng7h2]and show you ladies how to drink![/quote:1h6ng7h2]
 
@@ -382,7 +382,7 @@ Oh god here we go again.
 
 </div>
 
-<div class="post" data-post-id="14508" data-author="Alberich" data-date="2006-10-04T19:30:20+00:00">
+<div class="post" data-post-id="14508" data-author="Alberich" data-date="2006-10-04T19:30:20+00:00" data-subject="">
 
 oh hell no
 
@@ -394,7 +394,7 @@ don't you know what happens when cheeseheads come to chicago??
 
 </div>
 
-<div class="post" data-post-id="14514" data-author="13" data-date="2006-10-04T21:10:33+00:00">
+<div class="post" data-post-id="14514" data-author="13" data-date="2006-10-04T21:10:33+00:00" data-subject="">
 
 [quote:7lutjub5]don't you know what happens when cheeseheads come to chicago?? [/quote:7lutjub5]
 
@@ -402,7 +402,7 @@ That's my dog!
 
 </div>
 
-<div class="post" data-post-id="14522" data-author="Diazz_Dizazter" data-date="2006-10-04T23:33:19+00:00">
+<div class="post" data-post-id="14522" data-author="Diazz_Dizazter" data-date="2006-10-04T23:33:19+00:00" data-subject="">
 
 Go Vikings!!!
 
@@ -412,7 +412,7 @@ Jim, if I do, you best show up, you married type you!
 
 </div>
 
-<div class="post" data-post-id="14524" data-author="Shadis" data-date="2006-10-05T02:35:34+00:00">
+<div class="post" data-post-id="14524" data-author="Shadis" data-date="2006-10-05T02:35:34+00:00" data-subject="">
 
 Married overworked and crippled!!!
 
@@ -424,25 +424,25 @@ no respect i tell ya
 
 </div>
 
-<div class="post" data-post-id="14525" data-author="osric" data-date="2006-10-05T02:43:58+00:00">
+<div class="post" data-post-id="14525" data-author="osric" data-date="2006-10-05T02:43:58+00:00" data-subject="">
 
 Well it may be true that the bears have finally got their act together, but I seem to remember a day not too long ago, I think that day was the unveillng of the "new" Soldier Field, I seem to remember a certain team named after a certain animal that smells like the dumps the so frequently inhabit losing that day, oh yes the Packers owned the Bears that day my friends, lets not forget it! :twisted:
 
 </div>
 
-<div class="post" data-post-id="14528" data-author="Diazz_Dizazter" data-date="2006-10-05T05:52:18+00:00">
+<div class="post" data-post-id="14528" data-author="Diazz_Dizazter" data-date="2006-10-05T05:52:18+00:00" data-subject="">
 
 Brown Bay Fudge Packers?
 
 </div>
 
-<div class="post" data-post-id="14532" data-author="osric" data-date="2006-10-05T06:35:28+00:00">
+<div class="post" data-post-id="14532" data-author="osric" data-date="2006-10-05T06:35:28+00:00" data-subject="">
 
 Isn't that a Ween song?
 
 </div>
 
-<div class="post" data-post-id="23279" data-author="Alberich" data-date="2008-03-18T19:44:40+00:00">
+<div class="post" data-post-id="23279" data-author="Alberich" data-date="2008-03-18T19:44:40+00:00" data-subject="">
 
 Aaron and Mike - 
 
@@ -454,7 +454,7 @@ ya'll gonna be around?
 
 </div>
 
-<div class="post" data-post-id="23280" data-author="13" data-date="2008-03-18T19:49:25+00:00">
+<div class="post" data-post-id="23280" data-author="13" data-date="2008-03-18T19:49:25+00:00" data-subject="">
 
 yeah ill be here man gimme a call when you're otw
 

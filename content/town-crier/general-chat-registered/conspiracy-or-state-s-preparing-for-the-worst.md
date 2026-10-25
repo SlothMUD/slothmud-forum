@@ -10,7 +10,7 @@ locked: false
 post_count: 204
 ---
 
-<div class="post" data-post-id="28030" data-author="Medios" data-date="2009-02-09T22:13:18+00:00">
+<div class="post" data-post-id="28030" data-author="Medios" data-date="2009-02-09T22:13:18+00:00" data-subject="Conspiracy or State&#x27;s preparing for the worst?">
 
 I found this very interesting. All these states are sending legislation to committee to actively declare sovereignty under the 10th Amendment to the Constitution. I read most of them and put some for you to see. This is starting to get scary honestly I have never heard about this.
 
@@ -86,7 +86,7 @@ Arizona
 
 </div>
 
-<div class="post" data-post-id="28032" data-author="Mosaix" data-date="2009-02-10T02:16:52+00:00">
+<div class="post" data-post-id="28032" data-author="Mosaix" data-date="2009-02-10T02:16:52+00:00" data-subject="">
 
 Why you insist on posting politics to a text game website is equally as interesting and scary.
 
@@ -94,7 +94,7 @@ Honestly....
 
 </div>
 
-<div class="post" data-post-id="28033" data-author="Tap" data-date="2009-02-10T03:10:38+00:00">
+<div class="post" data-post-id="28033" data-author="Tap" data-date="2009-02-10T03:10:38+00:00" data-subject="">
 
 Actually, I'm glad it was posted..I'm aware of alot of things and try it follow what I can and sort out what I can..that is useful info and I'm going to research it and pass it along. Main thing I've heard is regarding Texas but that is Firebrand's backyard and she'd know more on it that what I could post. What's scary is how people are chomping at the bit to close down all forms of information in their lust for power (read:Osama and Nancy Pelosi,Harry Reed). They don't want you to know the slippery slope they are working.
 
@@ -102,13 +102,13 @@ Look, I've boned alot of fat chicks in my time, sure, but ugh as far as I can re
 
 </div>
 
-<div class="post" data-post-id="28034" data-author="Tap" data-date="2009-02-10T03:20:02+00:00">
+<div class="post" data-post-id="28034" data-author="Tap" data-date="2009-02-10T03:20:02+00:00" data-subject="">
 
 bad links
 
 </div>
 
-<div class="post" data-post-id="28035" data-author="Poggle" data-date="2009-02-10T17:14:07+00:00">
+<div class="post" data-post-id="28035" data-author="Poggle" data-date="2009-02-10T17:14:07+00:00" data-subject="">
 
 I think this was the article you read:
 
@@ -120,7 +120,7 @@ I'm rather surprised that this kind of stuff is happening now, rather than when 
 
 </div>
 
-<div class="post" data-post-id="28037" data-author="Medios" data-date="2009-02-10T20:55:46+00:00">
+<div class="post" data-post-id="28037" data-author="Medios" data-date="2009-02-10T20:55:46+00:00" data-subject="">
 
 Strange about the links, I checked the all out before I posted.  Some of them do work, ill check out the rest later.
 
@@ -132,13 +132,13 @@ Don't ask don't tell is your policy?
 
 </div>
 
-<div class="post" data-post-id="28038" data-author="Medios" data-date="2009-02-10T21:05:24+00:00">
+<div class="post" data-post-id="28038" data-author="Medios" data-date="2009-02-10T21:05:24+00:00" data-subject="">
 
 Why did my links get cut with with ... when i pasted them directly from the url.  Hell with it, happy slavery.
 
 </div>
 
-<div class="post" data-post-id="28039" data-author="Medios" data-date="2009-02-10T21:47:20+00:00">
+<div class="post" data-post-id="28039" data-author="Medios" data-date="2009-02-10T21:47:20+00:00" data-subject="">
 
 Ahha I figured it out.  I copy and pasted this from my other msg board, that is why my links got hosed.  Thanks to Poggle for posting an article with working links.  BTW I did not read this on Alex Jones's website.  His material gets attacked too much for being conspiracy minded.  That was the reason I posted the direct state legislature urls that I found in a video about the matter.  
 
@@ -156,7 +156,7 @@ Economies.
 
 </div>
 
-<div class="post" data-post-id="28040" data-author="jezer" data-date="2009-02-10T22:41:11+00:00">
+<div class="post" data-post-id="28040" data-author="jezer" data-date="2009-02-10T22:41:11+00:00" data-subject="">
 
 I read an interesting thing put forward by someone last night.
 
@@ -166,7 +166,7 @@ We recently had the worst bush fires in Australia's history last week. 181 peopl
 
 </div>
 
-<div class="post" data-post-id="28041" data-author="Rynquald" data-date="2009-02-10T22:58:29+00:00">
+<div class="post" data-post-id="28041" data-author="Rynquald" data-date="2009-02-10T22:58:29+00:00" data-subject="">
 
 To me it seems like a good thing that the states are asserting their sovereignty. It implies that they won't lie down as the federal government continues to tighten its grip.
 
@@ -176,7 +176,7 @@ It's debatable whether even with a civil war it would be worth it in the long ru
 
 </div>
 
-<div class="post" data-post-id="28042" data-author="Weasel" data-date="2009-02-11T00:52:46+00:00">
+<div class="post" data-post-id="28042" data-author="Weasel" data-date="2009-02-11T00:52:46+00:00" data-subject="">
 
 I read an interesting thing put forward by someone last night.
 
@@ -190,7 +190,7 @@ RIP to the bushfire victims, and condolences to their friends and family.
 
 </div>
 
-<div class="post" data-post-id="28043" data-author="Tap" data-date="2009-02-11T00:54:49+00:00">
+<div class="post" data-post-id="28043" data-author="Tap" data-date="2009-02-11T00:54:49+00:00" data-subject="">
 
 [url:18z6nx62]http://www.infowars.com[/url:18z6nx62]
 
@@ -200,7 +200,7 @@ or if that's a bit much to chew on at once...I like this guy
 
 </div>
 
-<div class="post" data-post-id="28044" data-author="Poggle" data-date="2009-02-11T01:57:36+00:00">
+<div class="post" data-post-id="28044" data-author="Poggle" data-date="2009-02-11T01:57:36+00:00" data-subject="">
 
 War did indeed end the great depression in the US.
 
@@ -216,19 +216,19 @@ So yes, war helped us last time, but this time things are very different.
 
 </div>
 
-<div class="post" data-post-id="28045" data-author="*juggleblood*" data-date="2009-02-11T03:40:38+00:00">
+<div class="post" data-post-id="28045" data-author="*juggleblood*" data-date="2009-02-11T03:40:38+00:00" data-subject="">
 
 The sky is falling :!:
 
 </div>
 
-<div class="post" data-post-id="28046" data-author="reboog" data-date="2009-02-11T04:34:26+00:00">
+<div class="post" data-post-id="28046" data-author="reboog" data-date="2009-02-11T04:34:26+00:00" data-subject="">
 
 Guys, I know you think we're the bad guys in Iraq, but terrorism really has to be stopped, and I think we should all get behind that.
 
 </div>
 
-<div class="post" data-post-id="28050" data-author="Mosaix" data-date="2009-02-11T06:16:30+00:00">
+<div class="post" data-post-id="28050" data-author="Mosaix" data-date="2009-02-11T06:16:30+00:00" data-subject="">
 
 Agreed the sky is falling.
 
@@ -236,7 +236,7 @@ Agreed the sky is falling.
 
 </div>
 
-<div class="post" data-post-id="28051" data-author="jezer" data-date="2009-02-11T06:36:39+00:00">
+<div class="post" data-post-id="28051" data-author="jezer" data-date="2009-02-11T06:36:39+00:00" data-subject="">
 
 Yeah, I think the sky is falling... falling... as in the process of...  I don't think it's dooms day to say so, it's just more fact. Countries are in/heading for recession and things are getting worse by the day... there is no need to start preparing food and water for your nuclear bunker... but no need to put your head in the sand either.
 
@@ -246,7 +246,7 @@ Some days I think if we stopped talking about the crisis would there be lesser o
 
 </div>
 
-<div class="post" data-post-id="28052" data-author="Poggle" data-date="2009-02-11T07:02:57+00:00">
+<div class="post" data-post-id="28052" data-author="Poggle" data-date="2009-02-11T07:02:57+00:00" data-subject="">
 
 Anyway, back to the topic...
 
@@ -260,31 +260,31 @@ So why, all of a sudden, is it so important that people are threatening civil wa
 
 </div>
 
-<div class="post" data-post-id="28054" data-author="reboog" data-date="2009-02-11T10:45:41+00:00">
+<div class="post" data-post-id="28054" data-author="reboog" data-date="2009-02-11T10:45:41+00:00" data-subject="">
 
 roe v wade
 
 </div>
 
-<div class="post" data-post-id="28063" data-author="Tap" data-date="2009-02-11T22:57:29+00:00">
+<div class="post" data-post-id="28063" data-author="Tap" data-date="2009-02-11T22:57:29+00:00" data-subject="">
 
 For all the world to hold "Americans" as being lazy and idiotic, basically many "American's" are not going to stand idly by and let a would-be-dictator take control..I expect skirmishes to happen..hell i'm kinda looking forward to it.
 
 </div>
 
-<div class="post" data-post-id="28064" data-author="Medios" data-date="2009-02-12T00:43:28+00:00">
+<div class="post" data-post-id="28064" data-author="Medios" data-date="2009-02-12T00:43:28+00:00" data-subject="">
 
 No matter how hard left they push, it will swing back right in 2010.  History shows that.
 
 </div>
 
-<div class="post" data-post-id="28065" data-author="*juggleblood*" data-date="2009-02-12T01:34:53+00:00">
+<div class="post" data-post-id="28065" data-author="*juggleblood*" data-date="2009-02-12T01:34:53+00:00" data-subject="">
 
 I can't believe that you're being like this after Obama has been president for a mere few weeks. Have you forgotten what a disaster the last administration was? Have you forgotten that the Republican party is a mess? Who you gonna run in 2012? Huckabee/Palin?
 
 </div>
 
-<div class="post" data-post-id="28066" data-author="jezer" data-date="2009-02-12T01:57:10+00:00">
+<div class="post" data-post-id="28066" data-author="jezer" data-date="2009-02-12T01:57:10+00:00" data-subject="">
 
 I can't believe that you're being like this after Obama has been president for a mere few weeks. Have you forgotten what a disaster the last administration was? Have you forgotten that the Republican party is a mess? Who you gonna run in 2012? Huckabee/Palin?[/quote:2pvwgmq1]
 
@@ -292,7 +292,7 @@ It's hard to say what movies will be hits in that time... and which of the actor
 
 </div>
 
-<div class="post" data-post-id="28067" data-author="Tap" data-date="2009-02-12T05:03:40+00:00">
+<div class="post" data-post-id="28067" data-author="Tap" data-date="2009-02-12T05:03:40+00:00" data-subject="">
 
 Seth Rogen 4 President
 
@@ -300,7 +300,7 @@ Seth Rogen 4 President
 
 </div>
 
-<div class="post" data-post-id="28083" data-author="Medios" data-date="2009-02-12T22:10:25+00:00">
+<div class="post" data-post-id="28083" data-author="Medios" data-date="2009-02-12T22:10:25+00:00" data-subject="">
 
 I can't believe that you're being like this after Obama has been president for a mere few weeks. Have you forgotten what a disaster the last administration was? Have you forgotten that the Republican party is a mess? Who you gonna run in 2012? Huckabee/Palin?[/quote:1bnxwvot]
 
@@ -310,7 +310,7 @@ You know personal liberty, less war, less taxation.  Stuff that Democrats don't 
 
 </div>
 
-<div class="post" data-post-id="28085" data-author="Leaf" data-date="2009-02-12T23:56:04+00:00">
+<div class="post" data-post-id="28085" data-author="Leaf" data-date="2009-02-12T23:56:04+00:00" data-subject="">
 
 We are getting more of a tax break then Bush gave us.  He is "trying" to
 
@@ -332,7 +332,7 @@ office for a few weeks.  He didn't cause this mess, so its not his fault.
 
 </div>
 
-<div class="post" data-post-id="28086" data-author="Tap" data-date="2009-02-13T01:31:10+00:00">
+<div class="post" data-post-id="28086" data-author="Tap" data-date="2009-02-13T01:31:10+00:00" data-subject="">
 
 That's the positive aspect of it all..he didn't cause this mess...and by the time he's done with it, we would have appreciated what we had...on a completely un-related note.. Pelosi .more or less, demanding that fellow democrats vote yes for a bill before they are allowed to see and having republicans told outright, no..they can't see the bill before hand..yeah....
 
@@ -340,7 +340,7 @@ expect this to be news for next 2 weeks like a hot potato
 
 </div>
 
-<div class="post" data-post-id="28091" data-author="Medios" data-date="2009-02-13T20:33:05+00:00">
+<div class="post" data-post-id="28091" data-author="Medios" data-date="2009-02-13T20:33:05+00:00" data-subject="">
 
 Why should Democrats release the bill before it is being voted on.  You act like this is a Democracy or something.  Here is a cool quote from Obama.
 
@@ -360,13 +360,13 @@ And Will do you know exactly what that tax cut is?  Are you sure that it is stil
 
 </div>
 
-<div class="post" data-post-id="28093" data-author="reboog" data-date="2009-02-13T21:34:58+00:00">
+<div class="post" data-post-id="28093" data-author="reboog" data-date="2009-02-13T21:34:58+00:00" data-subject="">
 
 bill is over 1000 pages, you can grep through it if you like
 
 </div>
 
-<div class="post" data-post-id="28094" data-author="Medios" data-date="2009-02-13T21:40:13+00:00">
+<div class="post" data-post-id="28094" data-author="Medios" data-date="2009-02-13T21:40:13+00:00" data-subject="">
 
 bill is over 1000 pages, you can grep through it if you like[/quote:3bot6fn1]
 
@@ -378,19 +378,19 @@ Will the President wait to sign it?  I think not.
 
 </div>
 
-<div class="post" data-post-id="28096" data-author="jezer" data-date="2009-02-14T00:43:19+00:00">
+<div class="post" data-post-id="28096" data-author="jezer" data-date="2009-02-14T00:43:19+00:00" data-subject="">
 
 Australia has just passed a 42b stimulus package... we aren't even in recession yet... It feels like we just react to every "world outlook" report that crosses the desk, when a country like Australia should be looking at things in more of a local context. Things are still steady in my industry, and the only downturn is people being scared by world hype... I just wish the people in my government would recognise we aren't like everyone else that our economy deviates from the european and american norms.
 
 </div>
 
-<div class="post" data-post-id="28097" data-author="reboog" data-date="2009-02-14T01:59:43+00:00">
+<div class="post" data-post-id="28097" data-author="reboog" data-date="2009-02-14T01:59:43+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.huffingtonpost.com/2009/02/1 ... 66793.html">http://www.huffingtonpost.com/2009/02/13/houses-passes-stimulus-no_n_166793.html</LINK_TEXT>](http://www.huffingtonpost.com/2009/02/13/houses-passes-stimulus-no_n_166793.html)
 
 </div>
 
-<div class="post" data-post-id="28100" data-author="Yasik2" data-date="2009-02-14T03:55:34+00:00">
+<div class="post" data-post-id="28100" data-author="Yasik2" data-date="2009-02-14T03:55:34+00:00" data-subject="">
 
 Hey Reboog!
 
@@ -402,7 +402,7 @@ You be no great anymore.
 
 </div>
 
-<div class="post" data-post-id="28101" data-author="Mosaix" data-date="2009-02-14T06:10:44+00:00">
+<div class="post" data-post-id="28101" data-author="Mosaix" data-date="2009-02-14T06:10:44+00:00" data-subject="">
 
 I find neo-conservative Republicans amusing, when they keep pretending to be progressive centrist voters.
 
@@ -440,7 +440,7 @@ Good Luck
 
 </div>
 
-<div class="post" data-post-id="28102" data-author="Weasel" data-date="2009-02-14T06:25:41+00:00">
+<div class="post" data-post-id="28102" data-author="Weasel" data-date="2009-02-14T06:25:41+00:00" data-subject="">
 
 I really still fail to see the necessity of posting policital rants to a text-game website. [/quote:3foinv9b]
 
@@ -452,7 +452,7 @@ LOL.. and did you also fail to see the irony in saying that immediately after wr
 
 </div>
 
-<div class="post" data-post-id="28105" data-author="Medios" data-date="2009-02-14T14:03:29+00:00">
+<div class="post" data-post-id="28105" data-author="Medios" data-date="2009-02-14T14:03:29+00:00" data-subject="">
 
 I guess this means Broc is in favor of a bill that we don't know the contents of?  And he is calling me fascist?  If you think either party gives a damn about you then wake up.  They care about power and control.  You bitch and bitch about Cheney and Haliburton, but have nothing to say about Jeff Immelt and GE.  
 
@@ -464,7 +464,7 @@ Broc I have read part of Saul Alinsky's book and I know your tactics.  They are 
 
 </div>
 
-<div class="post" data-post-id="28106" data-author="Medios" data-date="2009-02-14T14:14:54+00:00">
+<div class="post" data-post-id="28106" data-author="Medios" data-date="2009-02-14T14:14:54+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.worldnetdaily.com/index.php? ... geId=88851">http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=88851</LINK_TEXT>](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=88851)
 
@@ -482,7 +482,7 @@ At least black people won't be the only ones complaining about slavery.  We're a
 
 </div>
 
-<div class="post" data-post-id="28107" data-author="*juggleblood*" data-date="2009-02-14T14:28:59+00:00">
+<div class="post" data-post-id="28107" data-author="*juggleblood*" data-date="2009-02-14T14:28:59+00:00" data-subject="">
 
 I really still fail to see the necessity of posting policital rants to a text-game website. [/quote:23aflfnk]
 
@@ -502,13 +502,13 @@ Whats funny to me is that the right is placing the blame on the left. Whatever.
 
 </div>
 
-<div class="post" data-post-id="28109" data-author="Medios" data-date="2009-02-14T17:16:41+00:00">
+<div class="post" data-post-id="28109" data-author="Medios" data-date="2009-02-14T17:16:41+00:00" data-subject="">
 
 I am placing the blame on both of them.  What is the point in creating a few jobs when your going to make the other 95% of people pay twice as much for goods.  Inflation really hurts the poor and old people on fixed incomes.  I thought we were trying to help these people.  So we are going to create government run programs to help people and we are directly taking half their money through inflation.  Who benefits other than government?
 
 </div>
 
-<div class="post" data-post-id="28110" data-author="*juggleblood*" data-date="2009-02-14T17:41:06+00:00">
+<div class="post" data-post-id="28110" data-author="*juggleblood*" data-date="2009-02-14T17:41:06+00:00" data-subject="">
 
 When u steal from the poor and give to the rich for 8 years, you have to redistribute somehow. Inflate the currency and pass out money.
 
@@ -516,7 +516,7 @@ I know you hate that idea because its socialist, but what else you gonna do, ask
 
 </div>
 
-<div class="post" data-post-id="28115" data-author="Medios" data-date="2009-02-15T01:20:23+00:00">
+<div class="post" data-post-id="28115" data-author="Medios" data-date="2009-02-15T01:20:23+00:00" data-subject="">
 
 The money gets spent and the stuff gets built.  Then when the money and jobs are over the inflation is still present.  You can't raise minimum wage fast enough to keep up.  
 
@@ -524,7 +524,7 @@ Clue:  Zimbabwe
 
 </div>
 
-<div class="post" data-post-id="28117" data-author="Yasik2" data-date="2009-02-15T01:56:57+00:00">
+<div class="post" data-post-id="28117" data-author="Yasik2" data-date="2009-02-15T01:56:57+00:00" data-subject="">
 
 So we are going to create government run programs to help people and we are directly taking half their money through inflation.[/quote:1cje1ycd]
 
@@ -536,13 +536,13 @@ You want to start it over again? Thank you very much. Think about why all the wo
 
 </div>
 
-<div class="post" data-post-id="28122" data-author="jezer" data-date="2009-02-15T02:07:24+00:00">
+<div class="post" data-post-id="28122" data-author="jezer" data-date="2009-02-15T02:07:24+00:00" data-subject="">
 
 This thread is a cesspool... and I am trolling...  :twisted: Thanks for stopping by. Have a nice day.
 
 </div>
 
-<div class="post" data-post-id="28125" data-author="Yasik2" data-date="2009-02-15T02:14:09+00:00">
+<div class="post" data-post-id="28125" data-author="Yasik2" data-date="2009-02-15T02:14:09+00:00" data-subject="">
 
 Oh btw, just to clarify - i don't have any grudge towards any of living being.
 
@@ -550,19 +550,19 @@ As The Pope said, it's the Greed who cause all this crap.
 
 </div>
 
-<div class="post" data-post-id="28126" data-author="jezer" data-date="2009-02-15T02:20:09+00:00">
+<div class="post" data-post-id="28126" data-author="jezer" data-date="2009-02-15T02:20:09+00:00" data-subject="">
 
 [img:cqjlsuyb]http://i92.photobucket.com/albums/l30/AbsinthMonster/rock1.jpg[/img:cqjlsuyb]
 
 </div>
 
-<div class="post" data-post-id="28127" data-author="Yasik2" data-date="2009-02-15T02:24:18+00:00">
+<div class="post" data-post-id="28127" data-author="Yasik2" data-date="2009-02-15T02:24:18+00:00" data-subject="">
 
 Just exactly as I expected...  :D
 
 </div>
 
-<div class="post" data-post-id="28139" data-author="Leaf" data-date="2009-02-15T23:16:44+00:00">
+<div class="post" data-post-id="28139" data-author="Leaf" data-date="2009-02-15T23:16:44+00:00" data-subject="">
 
 I believe this is what Mikey was lookin for.  Whats in this stimulus?
 
@@ -570,13 +570,13 @@ I believe this is what Mikey was lookin for.  Whats in this stimulus?
 
 </div>
 
-<div class="post" data-post-id="28144" data-author="Tap" data-date="2009-02-16T04:58:44+00:00">
+<div class="post" data-post-id="28144" data-author="Tap" data-date="2009-02-16T04:58:44+00:00" data-subject="">
 
 Sorry..how is 300 million dollars allocated to an exhibit out west help someone on the east coast? And 50 mil set aside for "green-energy" golf carts? umm if you want to bail me out..just send me the cash..I'll handle it from there...Govt on both sides have sucked at running it's own affairs and now they deem it necessary to handle the citizens affairs as well? There's a reason while China stop investing in our debt....you did hear the story how California is giving itself a loan by buying it's own debt because no one else would.....that's just hilarious on a whole other scale
 
 </div>
 
-<div class="post" data-post-id="28151" data-author="reboog" data-date="2009-02-17T06:24:14+00:00">
+<div class="post" data-post-id="28151" data-author="reboog" data-date="2009-02-17T06:24:14+00:00" data-subject="">
 
 Obama is a SOCIALIST.  I hope you guys are happy that you got your pinko commie nation!
 
@@ -588,13 +588,13 @@ America deserves what it's got coming.
 
 </div>
 
-<div class="post" data-post-id="28153" data-author="reboog" data-date="2009-02-17T06:29:28+00:00">
+<div class="post" data-post-id="28153" data-author="reboog" data-date="2009-02-17T06:29:28+00:00" data-subject="">
 
 ps we are in DEFLATION, NOT INFLATION
 
 </div>
 
-<div class="post" data-post-id="28154" data-author="Yasik2" data-date="2009-02-17T10:05:12+00:00">
+<div class="post" data-post-id="28154" data-author="Yasik2" data-date="2009-02-17T10:05:12+00:00" data-subject="">
 
 ps we are in DEFLATION, NOT INFLATION[/quote:1tijkk5j]
 
@@ -602,7 +602,7 @@ ps we are in DEFLATION, NOT INFLATION[/quote:1tijkk5j]
 
 </div>
 
-<div class="post" data-post-id="28157" data-author="Sheng" data-date="2009-02-17T17:29:28+00:00">
+<div class="post" data-post-id="28157" data-author="Sheng" data-date="2009-02-17T17:29:28+00:00" data-subject="">
 
 I'm not excited about our new socialist majority.  I'm a taxpaying US citizen and it upsets me that Obama and his party want to redistribute my (very limited) wealth.  I'm a conservative, not a Republican -- and I think the country would be in a lot better shape right now if we'd had any conservative leadership since before Bill Clinton.
 
@@ -612,7 +612,7 @@ Stupid, stupid, stupid.  I would have bought the house anyways -- without a 'sti
 
 </div>
 
-<div class="post" data-post-id="28159" data-author="*juggleblood*" data-date="2009-02-17T22:32:35+00:00">
+<div class="post" data-post-id="28159" data-author="*juggleblood*" data-date="2009-02-17T22:32:35+00:00" data-subject="">
 
 ps we are in DEFLATION, NOT INFLATION[/quote:d77wykia]
 
@@ -620,7 +620,7 @@ True true, but I can't imagine it will be long b4 inflation hits. I just don't s
 
 </div>
 
-<div class="post" data-post-id="28164" data-author="Tap" data-date="2009-02-17T23:41:39+00:00">
+<div class="post" data-post-id="28164" data-author="Tap" data-date="2009-02-17T23:41:39+00:00" data-subject="">
 
 Right now..most [working]people pay between 33 and 42% of their salary in taxes..by 2012/2013 it will be around 60-70%.  Hopefully by 2011 people will realize and revolt.
 
@@ -628,13 +628,13 @@ Have a nice day.
 
 </div>
 
-<div class="post" data-post-id="28165" data-author="jezer" data-date="2009-02-18T00:09:54+00:00">
+<div class="post" data-post-id="28165" data-author="jezer" data-date="2009-02-18T00:09:54+00:00" data-subject="">
 
 [img:36if5nr6]http://www.boom2bust.com/wp-content/uploads/2008/07/stimulus-package.jpg[/img:36if5nr6]
 
 </div>
 
-<div class="post" data-post-id="28166" data-author="Leaf" data-date="2009-02-18T01:00:34+00:00">
+<div class="post" data-post-id="28166" data-author="Leaf" data-date="2009-02-18T01:00:34+00:00" data-subject="">
 
 As my taxes increase though, it will become increasingly difficult to break even without taking advantage of stupid government programs.  Congress just decided to hand me an $8000 check this year because I did my 'civic duty' and bought a house for the first time.
 
@@ -662,7 +662,7 @@ u have it.  Or something like that... :)
 
 </div>
 
-<div class="post" data-post-id="28167" data-author="reboog" data-date="2009-02-18T02:26:28+00:00">
+<div class="post" data-post-id="28167" data-author="reboog" data-date="2009-02-18T02:26:28+00:00" data-subject="">
 
 [quote:1wu0i75x]I could be wrong, but the gov will give u $8k.  However its not "free" money.
 
@@ -672,7 +672,7 @@ You are correct.  They are giving you cash back, but increasing marginal tax rat
 
 </div>
 
-<div class="post" data-post-id="28168" data-author="reboog" data-date="2009-02-18T02:31:37+00:00">
+<div class="post" data-post-id="28168" data-author="reboog" data-date="2009-02-18T02:31:37+00:00" data-subject="">
 
 [quote:3onohg28]
 
@@ -684,13 +684,13 @@ If you are speaking of the bailout money (we inflated the currency in 4 months w
 
 </div>
 
-<div class="post" data-post-id="28169" data-author="Poggle" data-date="2009-02-18T03:48:57+00:00">
+<div class="post" data-post-id="28169" data-author="Poggle" data-date="2009-02-18T03:48:57+00:00" data-subject="">
 
 I am not a financial expert, but I would guess it's because the banks are deleveraging.
 
 </div>
 
-<div class="post" data-post-id="28170" data-author="jezer" data-date="2009-02-18T04:16:26+00:00">
+<div class="post" data-post-id="28170" data-author="jezer" data-date="2009-02-18T04:16:26+00:00" data-subject="">
 
 [img:1dg8unrs]http://www.sceneherd.com/images/timelife2.jpg[/img:1dg8unrs]
 
@@ -702,7 +702,7 @@ Back to you in the studio...
 
 </div>
 
-<div class="post" data-post-id="28175" data-author="reboog" data-date="2009-02-18T09:39:06+00:00">
+<div class="post" data-post-id="28175" data-author="reboog" data-date="2009-02-18T09:39:06+00:00" data-subject="">
 
 Poggle: you left out the words "very" and "severe."
 
@@ -726,7 +726,7 @@ I fear this post is getting too long for people to read, so I'll stop here.
 
 </div>
 
-<div class="post" data-post-id="28177" data-author="jezer" data-date="2009-02-18T09:52:40+00:00">
+<div class="post" data-post-id="28177" data-author="jezer" data-date="2009-02-18T09:52:40+00:00" data-subject="">
 
 Juggleblood: I read some of your posts earlier about how the stimulus bill is on the right track.  I think the idea of the stimulus bill is comforting, but both the idea and the execution are flawed.  I'm posting this to you because you are not a racist like Yasik and not a partisan hack like Weasel.[/quote:c4ilvih7]
 
@@ -734,7 +734,7 @@ I didn't get a mention.  :evil:
 
 </div>
 
-<div class="post" data-post-id="28178" data-author="reboog" data-date="2009-02-18T09:56:18+00:00">
+<div class="post" data-post-id="28178" data-author="reboog" data-date="2009-02-18T09:56:18+00:00" data-subject="">
 
 On the infrastructure part (ala FDR):
 
@@ -746,13 +746,13 @@ Is getting 100% employment the ideal goal?  I can achieve 100% employment.  Get 
 
 </div>
 
-<div class="post" data-post-id="28180" data-author="Medios" data-date="2009-02-18T12:38:54+00:00">
+<div class="post" data-post-id="28180" data-author="Medios" data-date="2009-02-18T12:38:54+00:00" data-subject="">
 
 I am proud to see this thread turn into a serious debate.  I will add more after work.  It is good to have real discussions and not mud slinging.
 
 </div>
 
-<div class="post" data-post-id="28181" data-author="*juggleblood*" data-date="2009-02-18T13:12:30+00:00">
+<div class="post" data-post-id="28181" data-author="*juggleblood*" data-date="2009-02-18T13:12:30+00:00" data-subject="">
 
 I don't know wut deleveraged means, but assuming you are correct and we won't experience inflation, whats the harm in government spending that stimulates demand?
 
@@ -764,7 +764,7 @@ I don't know that the free market model is even the paradigm of success anymore.
 
 </div>
 
-<div class="post" data-post-id="28182" data-author="Weasel" data-date="2009-02-18T15:46:03+00:00">
+<div class="post" data-post-id="28182" data-author="Weasel" data-date="2009-02-18T15:46:03+00:00" data-subject="">
 
 I'm posting this to you because you are not a racist like Yasik and not a partisan hack like Weasel.[/quote:1eoxk0u7]
 
@@ -774,7 +774,7 @@ LOL.. always the same. Because I didn't support Obama, I must be a partisan hack
 
 </div>
 
-<div class="post" data-post-id="28183" data-author="Poggle" data-date="2009-02-18T16:26:57+00:00">
+<div class="post" data-post-id="28183" data-author="Poggle" data-date="2009-02-18T16:26:57+00:00" data-subject="">
 
 Say you have a million bucks and you are in the business of lending money. You could loan out your million dollars to a few responsible borrowers and expect to make a decent return.
 
@@ -794,7 +794,7 @@ Eventually the banks will leverage up again, which might be a crazy crazy time.
 
 </div>
 
-<div class="post" data-post-id="28185" data-author="reboog" data-date="2009-02-18T18:20:44+00:00">
+<div class="post" data-post-id="28185" data-author="reboog" data-date="2009-02-18T18:20:44+00:00" data-subject="">
 
 Juggleblood: Poggle described leveraging.
 
@@ -810,7 +810,7 @@ Weasel: [http://en.wikipedia.org/wiki/Straw_man](http://en.wikipedia.org/wiki/St
 
 </div>
 
-<div class="post" data-post-id="28186" data-author="reboog" data-date="2009-02-18T18:27:36+00:00">
+<div class="post" data-post-id="28186" data-author="reboog" data-date="2009-02-18T18:27:36+00:00" data-subject="">
 
 But what do they do with their bailouts? Sit on it, pretty much. Pay off their debts. And it makes sense. They don't want to repeat themselves by making a bunch more shitty loans. 
 
@@ -820,7 +820,7 @@ We would also have accepted "pay themselves bonuses," "implode their balance she
 
 </div>
 
-<div class="post" data-post-id="28188" data-author="Weasel" data-date="2009-02-18T19:07:39+00:00">
+<div class="post" data-post-id="28188" data-author="Weasel" data-date="2009-02-18T19:07:39+00:00" data-subject="">
 
 [quote:3uun4568]LOL.. always the same. Because I didn't support Obama, I must be a partisan hack. Do you know what that statement makes you? A partisan hack. Ironic isn't it. [/quote:3uun4568]
 
@@ -832,7 +832,7 @@ LOL.. you [i:3uun4568]do[/i:3uun4568] realize you just did it yourself, don't yo
 
 </div>
 
-<div class="post" data-post-id="28189" data-author="reboog" data-date="2009-02-18T19:28:53+00:00">
+<div class="post" data-post-id="28189" data-author="reboog" data-date="2009-02-18T19:28:53+00:00" data-subject="">
 
 I don't know that the free market model is even the paradigm of success anymore. The countries that are expanding the fastest have centralized control over the economy and poor regulation is exactly what got us in this mess to begin with.[/quote:34ya7f3z]
 
@@ -844,7 +844,7 @@ Also, communism/fascism doesn't work.  Despite all the failures of free market, 
 
 </div>
 
-<div class="post" data-post-id="28190" data-author="Medios" data-date="2009-02-18T21:33:07+00:00">
+<div class="post" data-post-id="28190" data-author="Medios" data-date="2009-02-18T21:33:07+00:00" data-subject="">
 
 I don't know that the free market model is even the paradigm of success anymore. The countries that are expanding the fastest have centralized control over the economy and poor regulation is exactly what got us in this mess to begin with.[/quote:2r9ag6ue]
 
@@ -858,7 +858,7 @@ Rep
 
 </div>
 
-<div class="post" data-post-id="28191" data-author="*juggleblood*" data-date="2009-02-18T22:28:37+00:00">
+<div class="post" data-post-id="28191" data-author="*juggleblood*" data-date="2009-02-18T22:28:37+00:00" data-subject="">
 
 The 'capitalist' nature of China is debatable given that 90 percent of investment assets are held by state banks. They are moving towards privatizing it, but to me it seems obvious that the success of their economy is due to good government planning rather than 'the invisible hand of the market'. Capitalism there flourishes within the confines of state control over the economy. This seems to be the direction we headed under Bush when the government bought out the banks. Same deal with the government trying to rescue the auto industry. If the auto industry is allowed to die, it's not going to come back without serious government intervention. 
 
@@ -868,7 +868,7 @@ This is why we're seeing such an emphasis on stimulating demand.  The Republican
 
 </div>
 
-<div class="post" data-post-id="28192" data-author="reboog" data-date="2009-02-18T22:48:03+00:00">
+<div class="post" data-post-id="28192" data-author="reboog" data-date="2009-02-18T22:48:03+00:00" data-subject="">
 
 I don't know enough about China to reply, only that I've heard that they are probably the most capitalist nation in the world.  If I have time, I can try to substantiate some of those claims.
 
@@ -886,7 +886,7 @@ I agree.
 
 </div>
 
-<div class="post" data-post-id="28193" data-author="jezer" data-date="2009-02-18T22:51:59+00:00">
+<div class="post" data-post-id="28193" data-author="jezer" data-date="2009-02-18T22:51:59+00:00" data-subject="">
 
 Taliban: You have two cows. You load them up with explosives and herd them onto your neighbor's property where you blow them up. Your neighbor dies. You starve to death.
 
@@ -938,7 +938,7 @@ Art: You hire two cows to model nude. You paint a triangle and do an interpretav
 
 </div>
 
-<div class="post" data-post-id="28194" data-author="jezer" data-date="2009-02-18T23:15:27+00:00">
+<div class="post" data-post-id="28194" data-author="jezer" data-date="2009-02-18T23:15:27+00:00" data-subject="">
 
 Weaselism - Your friend has more cows, you take his cows and stab him in the face!
 
@@ -966,7 +966,7 @@ Reboogism - You have 2 cattle. Cattle: Good nick length.
 
 </div>
 
-<div class="post" data-post-id="28195" data-author="Tap" data-date="2009-02-18T23:35:50+00:00">
+<div class="post" data-post-id="28195" data-author="Tap" data-date="2009-02-18T23:35:50+00:00" data-subject="">
 
 I'm not in finance at all. What i've stated is only speculation . I would only state to  look into such matters for yourself and try to sort truth from hype. I actually thought China was more like North Korea. But I see that it is not.
 
@@ -976,13 +976,13 @@ Jezerism - You have two cows but you don't realize it because no one told you.
 
 </div>
 
-<div class="post" data-post-id="28196" data-author="jezer" data-date="2009-02-18T23:42:49+00:00">
+<div class="post" data-post-id="28196" data-author="jezer" data-date="2009-02-18T23:42:49+00:00" data-subject="">
 
 Little disappointed about Jezerism there Tap, I expected a little more impact.  :evil:
 
 </div>
 
-<div class="post" data-post-id="28197" data-author="reboog" data-date="2009-02-18T23:54:02+00:00">
+<div class="post" data-post-id="28197" data-author="reboog" data-date="2009-02-18T23:54:02+00:00" data-subject="">
 
 Juggleblood:  I did a search for china capitalism and this is what I got.
 
@@ -992,7 +992,7 @@ Wall Street Journal is a reputable source.  I haven't read any articles past the
 
 </div>
 
-<div class="post" data-post-id="28201" data-author="Leaf" data-date="2009-02-19T00:46:53+00:00">
+<div class="post" data-post-id="28201" data-author="Leaf" data-date="2009-02-19T00:46:53+00:00" data-subject="">
 
 Actually i read some where that China is hurtting right now with the US.
 
@@ -1016,7 +1016,7 @@ sense....
 
 </div>
 
-<div class="post" data-post-id="28202" data-author="reboog" data-date="2009-02-19T00:51:35+00:00">
+<div class="post" data-post-id="28202" data-author="reboog" data-date="2009-02-19T00:51:35+00:00" data-subject="">
 
 China controls their inflation by locking their money into US Treasuries.
 
@@ -1024,7 +1024,7 @@ Yes, China is hurting.  They depend on exports to sustain their growth.  It has 
 
 </div>
 
-<div class="post" data-post-id="28203" data-author="jezer" data-date="2009-02-19T00:57:03+00:00">
+<div class="post" data-post-id="28203" data-author="jezer" data-date="2009-02-19T00:57:03+00:00" data-subject="">
 
 Yeah everyone talks up china and japan... but they are export economies... look at them now...
 
@@ -1032,19 +1032,19 @@ Prediction: Economic crisis will see China look internally at there markets... a
 
 </div>
 
-<div class="post" data-post-id="28205" data-author="*juggleblood*" data-date="2009-02-19T01:09:23+00:00">
+<div class="post" data-post-id="28205" data-author="*juggleblood*" data-date="2009-02-19T01:09:23+00:00" data-subject="">
 
 Reboog, I don't see the point of that question. The currently unemployed vs. the currently employed? Preventing unemployment just as good as making new jobs. What to do when all the holes are filled? I think there's more to the stimulus package than filling potholes. Hopefully the stimulus puts the economy back on positive growth and those pot hole fillers go to work fixing stuff in the private sector, building new walmarts and starbucks, all the same old stuff they did when the economy was working.
 
 </div>
 
-<div class="post" data-post-id="28206" data-author="Tap" data-date="2009-02-19T01:11:14+00:00">
+<div class="post" data-post-id="28206" data-author="Tap" data-date="2009-02-19T01:11:14+00:00" data-subject="">
 
 Don't hold your breath..America will either change for the worse or they will be a dramatic uprising. In any case, it will be dramatically different within a short period of time. I'm leaning towards the later...the "changes" coming about are from a minority of people.. I quickly see the wall approaching where unless the current course of action doesn't change direction, it will smack itself straight in the face.
 
 </div>
 
-<div class="post" data-post-id="28207" data-author="reboog" data-date="2009-02-19T01:35:35+00:00">
+<div class="post" data-post-id="28207" data-author="reboog" data-date="2009-02-19T01:35:35+00:00" data-subject="">
 
 re: filling potholes - That's what infrastructure is about.  I'm using that term tongue in cheek, but construction work is construction work.
 
@@ -1064,7 +1064,7 @@ Once the infrastructure is complete, where will they go next?  The economy was o
 
 </div>
 
-<div class="post" data-post-id="28208" data-author="Medios" data-date="2009-02-19T02:53:59+00:00">
+<div class="post" data-post-id="28208" data-author="Medios" data-date="2009-02-19T02:53:59+00:00" data-subject="">
 
 Now that the consumer and the State's are in debt, they look to the Federal government for a bailout.  Who will the Federal government turn to for a bailout?  The taxpayer is who.  All the money the government prints or borrows will be paid with interest in the form of massive inflation or a raise in taxes.  The only way the government can keep this ponzi scheme going is to make our money worth less.  That reduces debt obligations by making our debt worth less.  However once the other countries catch on it will be hell because they will stop buying our debt and look to other places to invest their capital.  Once Treasuries peak and collapse we will see the government rush to find "new money".  Remember Treasury bonds were supposed to be used to fund wars not budgets.  With a contracting GDP the amount of money needed just to pay the interest on debt increases.  They can't keep borrowing the way out.
 
@@ -1072,13 +1072,13 @@ One problem with free markets is that when you have governments of countries doi
 
 </div>
 
-<div class="post" data-post-id="28209" data-author="jezer" data-date="2009-02-19T03:22:34+00:00">
+<div class="post" data-post-id="28209" data-author="jezer" data-date="2009-02-19T03:22:34+00:00" data-subject="">
 
 I don't think there is an answer. All one can do is ride it out.
 
 </div>
 
-<div class="post" data-post-id="28210" data-author="reboog" data-date="2009-02-19T03:27:20+00:00">
+<div class="post" data-post-id="28210" data-author="reboog" data-date="2009-02-19T03:27:20+00:00" data-subject="">
 
 It's what Keynes described as the paradox of thrift.  To get out of a recession, you have to increase aggregate demand.  I am not an economist, but on what grounds do we believe that this will work?
 
@@ -1086,7 +1086,7 @@ Jezer: Yes, we have to ride it out.  What we don't have to do is lengthen that r
 
 </div>
 
-<div class="post" data-post-id="28211" data-author="jezer" data-date="2009-02-19T03:55:39+00:00">
+<div class="post" data-post-id="28211" data-author="jezer" data-date="2009-02-19T03:55:39+00:00" data-subject="">
 
 Jezer: Yes, we have to ride it out.  What we don't have to do is lengthen that ride, which is exactly what this particular stimulus and bailouts do.[/quote:1dwcym6s]
 
@@ -1096,13 +1096,13 @@ It's kind of funny how everyone is trying to cast 'phase door' at the moment... 
 
 </div>
 
-<div class="post" data-post-id="28215" data-author="*juggleblood*" data-date="2009-02-19T14:09:38+00:00">
+<div class="post" data-post-id="28215" data-author="*juggleblood*" data-date="2009-02-19T14:09:38+00:00" data-subject="">
 
 This thread is depressing.
 
 </div>
 
-<div class="post" data-post-id="28217" data-author="Vixn" data-date="2009-02-19T17:28:31+00:00">
+<div class="post" data-post-id="28217" data-author="Vixn" data-date="2009-02-19T17:28:31+00:00" data-subject="">
 
 Might be a bit old but still:
 
@@ -1132,13 +1132,13 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="28218" data-author="reboog" data-date="2009-02-19T18:34:39+00:00">
+<div class="post" data-post-id="28218" data-author="reboog" data-date="2009-02-19T18:34:39+00:00" data-subject="">
 
 Vixn's post brings up an interesting point.  The fact that we get our goods from overseas may sound like a bad thing, but it's not.  Enacting protectionism would be the bad thing to do here.
 
 </div>
 
-<div class="post" data-post-id="28219" data-author="Vixn" data-date="2009-02-19T21:45:06+00:00">
+<div class="post" data-post-id="28219" data-author="Vixn" data-date="2009-02-19T21:45:06+00:00" data-subject="">
 
 Enacting protectionism would be the bad thing to do here.[/quote:1nq1dti6]
 
@@ -1148,7 +1148,7 @@ Probably but it's too expensive to fly to Thai and buy slut there with just $600
 
 </div>
 
-<div class="post" data-post-id="28220" data-author="Poggle" data-date="2009-02-19T21:51:40+00:00">
+<div class="post" data-post-id="28220" data-author="Poggle" data-date="2009-02-19T21:51:40+00:00" data-subject="">
 
 You don't want to do that in Thailand.
 
@@ -1160,13 +1160,13 @@ Ever hear of the ladyboys?
 
 </div>
 
-<div class="post" data-post-id="28221" data-author="reboog" data-date="2009-02-19T21:55:44+00:00">
+<div class="post" data-post-id="28221" data-author="reboog" data-date="2009-02-19T21:55:44+00:00" data-subject="">
 
 your MOM is a ladyboy (owned)
 
 </div>
 
-<div class="post" data-post-id="28222" data-author="jezer" data-date="2009-02-19T23:18:40+00:00">
+<div class="post" data-post-id="28222" data-author="jezer" data-date="2009-02-19T23:18:40+00:00" data-subject="">
 
 Speaking of lady boys... our new next door neighbor is friends or related to one...  :oops: 
 
@@ -1182,43 +1182,43 @@ PS Economy stuff...
 
 </div>
 
-<div class="post" data-post-id="28223" data-author="Tap" data-date="2009-02-20T02:47:03+00:00">
+<div class="post" data-post-id="28223" data-author="Tap" data-date="2009-02-20T02:47:03+00:00" data-subject="">
 
 You left out the part where you tea-bagged and found true love.
 
 </div>
 
-<div class="post" data-post-id="28224" data-author="jezer" data-date="2009-02-20T02:48:58+00:00">
+<div class="post" data-post-id="28224" data-author="jezer" data-date="2009-02-20T02:48:58+00:00" data-subject="">
 
 I wouldn't want that though for your mom....
 
 </div>
 
-<div class="post" data-post-id="28225" data-author="reboog" data-date="2009-02-20T07:11:43+00:00">
+<div class="post" data-post-id="28225" data-author="reboog" data-date="2009-02-20T07:11:43+00:00" data-subject="">
 
 your MOM wouldn't want that for your mom (owned)
 
 </div>
 
-<div class="post" data-post-id="28226" data-author="jezer" data-date="2009-02-20T08:39:19+00:00">
+<div class="post" data-post-id="28226" data-author="jezer" data-date="2009-02-20T08:39:19+00:00" data-subject="">
 
 reboog: hi (owned)
 
 </div>
 
-<div class="post" data-post-id="28227" data-author="reboog" data-date="2009-02-20T09:33:35+00:00">
+<div class="post" data-post-id="28227" data-author="reboog" data-date="2009-02-20T09:33:35+00:00" data-subject="">
 
 reboog: hi
 
 </div>
 
-<div class="post" data-post-id="28232" data-author="*juggleblood*" data-date="2009-02-20T21:04:08+00:00">
+<div class="post" data-post-id="28232" data-author="*juggleblood*" data-date="2009-02-20T21:04:08+00:00" data-subject="">
 
 Threads don't die, they just fade away....
 
 </div>
 
-<div class="post" data-post-id="28233" data-author="sirrico1" data-date="2009-02-20T22:01:17+00:00">
+<div class="post" data-post-id="28233" data-author="sirrico1" data-date="2009-02-20T22:01:17+00:00" data-subject="">
 
 Might be a bit old but still:
 
@@ -1250,13 +1250,13 @@ personaly as I see it the only way to fix our economy in the US is to close the 
 
 </div>
 
-<div class="post" data-post-id="28235" data-author="13" data-date="2009-02-20T22:31:17+00:00">
+<div class="post" data-post-id="28235" data-author="13" data-date="2009-02-20T22:31:17+00:00" data-subject="">
 
 this is ftl
 
 </div>
 
-<div class="post" data-post-id="28240" data-author="Vixn" data-date="2009-02-21T10:42:06+00:00">
+<div class="post" data-post-id="28240" data-author="Vixn" data-date="2009-02-21T10:42:06+00:00" data-subject="">
 
 Despite problems, there is optimism in Beijing. "Our common interests are much bigger than our differences," says a government official who asked to remain anonymous. "We don't see either side making significant shifts in policies."
 
@@ -1274,7 +1274,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="28243" data-author="Medios" data-date="2009-02-21T14:29:08+00:00">
+<div class="post" data-post-id="28243" data-author="Medios" data-date="2009-02-21T14:29:08+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.treas.gov/initiatives/eesa/h ... tSheet.pdf">http://www.treas.gov/initiatives/eesa/homeowner-affordability-plan/FactSheet.pdf</LINK_TEXT>](http://www.treas.gov/initiatives/eesa/homeowner-affordability-plan/FactSheet.pdf)
 
@@ -1302,7 +1302,7 @@ Explain to me how "responsible" homeowners got in this problem?  Why should lend
 
 </div>
 
-<div class="post" data-post-id="28249" data-author="Mosaix" data-date="2009-02-21T20:19:24+00:00">
+<div class="post" data-post-id="28249" data-author="Mosaix" data-date="2009-02-21T20:19:24+00:00" data-subject="">
 
 You have it all figured out.  
 
@@ -1314,7 +1314,7 @@ You should trying visiting this game to relax sometime.  Its a great game.
 
 </div>
 
-<div class="post" data-post-id="28250" data-author="Medios" data-date="2009-02-21T20:23:05+00:00">
+<div class="post" data-post-id="28250" data-author="Medios" data-date="2009-02-21T20:23:05+00:00" data-subject="">
 
 I do come here to relax and I don't spend much time here on the board compared to in game.  You should try it.  If your letting this discussion get you worked up then maybe your Dr. can prescribe some Zanax or Valium.  I wouldn't want you to stroke out over my discussions of politics on a text based game with 50-100 people.
 
@@ -1322,7 +1322,7 @@ Love you, bye now.
 
 </div>
 
-<div class="post" data-post-id="28251" data-author="Tap" data-date="2009-02-21T20:23:19+00:00">
+<div class="post" data-post-id="28251" data-author="Tap" data-date="2009-02-21T20:23:19+00:00" data-subject="I&#x27;ve been called alot of things..but crazy?!?">
 
 A New Way to Backdoor a Gun Ban: Onerous Insurance
 
@@ -1350,19 +1350,19 @@ I heard this mentioned on Glenn Beck, a national talk-radio program that Osama w
 
 </div>
 
-<div class="post" data-post-id="28252" data-author="Medios" data-date="2009-02-21T20:54:13+00:00">
+<div class="post" data-post-id="28252" data-author="Medios" data-date="2009-02-21T20:54:13+00:00" data-subject="">
 
 When water is illegal, only criminals will drink.
 
 </div>
 
-<div class="post" data-post-id="28256" data-author="Yasik2" data-date="2009-02-22T07:59:21+00:00">
+<div class="post" data-post-id="28256" data-author="Yasik2" data-date="2009-02-22T07:59:21+00:00" data-subject="">
 
 This thread need more tits.
 
 </div>
 
-<div class="post" data-post-id="28257" data-author="reboog" data-date="2009-02-22T08:08:43+00:00">
+<div class="post" data-post-id="28257" data-author="reboog" data-date="2009-02-22T08:08:43+00:00" data-subject="">
 
 This housing bill is garbage, will keep housing prices artificially high, and will have no positive effect.
 
@@ -1370,25 +1370,25 @@ A poll showed that public opinion is against the bailouts and against the housin
 
 </div>
 
-<div class="post" data-post-id="28275" data-author="reboog" data-date="2009-02-24T04:26:46+00:00">
+<div class="post" data-post-id="28275" data-author="reboog" data-date="2009-02-24T04:26:46+00:00" data-subject="">
 
 Prepare for another Citigroup and AIG bailout.
 
 </div>
 
-<div class="post" data-post-id="28276" data-author="Weasel" data-date="2009-02-24T05:17:25+00:00">
+<div class="post" data-post-id="28276" data-author="Weasel" data-date="2009-02-24T05:17:25+00:00" data-subject="">
 
 nods.. can't believe how much AIG has sunk in the last couple of weeks..
 
 </div>
 
-<div class="post" data-post-id="28291" data-author="Medios" data-date="2009-02-25T04:08:41+00:00">
+<div class="post" data-post-id="28291" data-author="Medios" data-date="2009-02-25T04:08:41+00:00" data-subject="">
 
 Obama is going to have to buy AIG with all the talk of insuring.  I bet he said he was going to insure us about 20 times tonight in that speech.  I thought insurance was when you paid someone to prevent future losses.  Is that why we elected Obama?  So he can take the money now and the we'll have to fight and claw our way into a claim?
 
 </div>
 
-<div class="post" data-post-id="28292" data-author="reboog" data-date="2009-02-25T04:23:42+00:00">
+<div class="post" data-post-id="28292" data-author="reboog" data-date="2009-02-25T04:23:42+00:00" data-subject="">
 
 [quote:62gcunn5]â€œThe outcome of the stress test is not going to be fail or pass [for banks],â€ Benrnake told legislators, but to â€œget a clear estimate of their capital needs.â€
 
@@ -1398,7 +1398,7 @@ This explains why they sent only 100 regulators to Citigroup to perform a "stres
 
 </div>
 
-<div class="post" data-post-id="28293" data-author="Mosaix" data-date="2009-02-25T04:24:49+00:00">
+<div class="post" data-post-id="28293" data-author="Mosaix" data-date="2009-02-25T04:24:49+00:00" data-subject="">
 
 [img:112hiu1z]http://www.thesunblog.com/sports/super_high_me.jpg[/img:112hiu1z]
 
@@ -1410,7 +1410,7 @@ Roll another doobie and relax already.   Enjoy sloth and play the game.
 
 </div>
 
-<div class="post" data-post-id="28294" data-author="Medios" data-date="2009-02-25T04:35:06+00:00">
+<div class="post" data-post-id="28294" data-author="Medios" data-date="2009-02-25T04:35:06+00:00" data-subject="">
 
 I think if you didnt pay any attention to the last 8 years, really you have no grounds to start paying any attention now.  Dont bother to start now just because a Democrat is in office.
 
@@ -1424,19 +1424,19 @@ Tax cuts are always one thing I agree with...  Why would I mail money back to th
 
 </div>
 
-<div class="post" data-post-id="28305" data-author="Yasik2" data-date="2009-02-26T20:07:52+00:00">
+<div class="post" data-post-id="28305" data-author="Yasik2" data-date="2009-02-26T20:07:52+00:00" data-subject="">
 
 [img:3elhezpg]http://yasik.kiev.ua/Obama.jpg[/img:3elhezpg]
 
 </div>
 
-<div class="post" data-post-id="28306" data-author="jezer" data-date="2009-02-26T22:47:21+00:00">
+<div class="post" data-post-id="28306" data-author="jezer" data-date="2009-02-26T22:47:21+00:00" data-subject="">
 
 [img:3qandbxs]http://www.apcmag.com/images/apc/news/xpdeadend.jpg[/img:3qandbxs]
 
 </div>
 
-<div class="post" data-post-id="28313" data-author="reboog" data-date="2009-02-27T02:48:25+00:00">
+<div class="post" data-post-id="28313" data-author="reboog" data-date="2009-02-27T02:48:25+00:00" data-subject="">
 
 Bernanke assures us that the depression is canceled.
 
@@ -1444,7 +1444,7 @@ Sorry guys, gig's off.
 
 </div>
 
-<div class="post" data-post-id="28322" data-author="reboog" data-date="2009-02-27T10:48:39+00:00">
+<div class="post" data-post-id="28322" data-author="reboog" data-date="2009-02-27T10:48:39+00:00" data-subject="">
 
 Reboogism - You have 2 cattle. Cattle: Good nick length.[/quote:1yh8nf0k]
 
@@ -1452,7 +1452,7 @@ EXTREMELY good point
 
 </div>
 
-<div class="post" data-post-id="28323" data-author="reboog" data-date="2009-02-27T10:55:17+00:00">
+<div class="post" data-post-id="28323" data-author="reboog" data-date="2009-02-27T10:55:17+00:00" data-subject="">
 
 Brief history of leadup to the mortgage crisis, starting from the 70s
 
@@ -1478,7 +1478,7 @@ Brief history of leadup to the mortgage crisis, starting from the 70s
 
 </div>
 
-<div class="post" data-post-id="28326" data-author="Weasel" data-date="2009-02-27T14:18:26+00:00">
+<div class="post" data-post-id="28326" data-author="Weasel" data-date="2009-02-27T14:18:26+00:00" data-subject="">
 
 Not even 24 hours after the government reassures the markets they will not nationalize any banks under any circumstances, they make a deal with Citi which will give them 36% ownership..
 
@@ -1488,7 +1488,7 @@ It won't be pretty if it does. Watch the last half hour or so...
 
 </div>
 
-<div class="post" data-post-id="28328" data-author="reboog" data-date="2009-02-27T18:13:58+00:00">
+<div class="post" data-post-id="28328" data-author="reboog" data-date="2009-02-27T18:13:58+00:00" data-subject="">
 
 Not even 24 hours after the government reassures the markets they will not nationalize any banks under any circumstances, they make a deal with Citi which will give them 36% ownership..[/quote:1yge1yz0]
 
@@ -1496,7 +1496,7 @@ If this were a fair trade, the government would have 50.3% ownership of Citigrou
 
 </div>
 
-<div class="post" data-post-id="28329" data-author="Weasel" data-date="2009-02-27T18:18:14+00:00">
+<div class="post" data-post-id="28329" data-author="Weasel" data-date="2009-02-27T18:18:14+00:00" data-subject="">
 
 Not even 24 hours after the government reassures the markets they will not nationalize any banks under any circumstances, they make a deal with Citi which will give them 36% ownership..[/quote:2ih1r3gn]
 
@@ -1508,13 +1508,13 @@ Not to mention that the conversion severely dilutes existing coomon shares, and 
 
 </div>
 
-<div class="post" data-post-id="28330" data-author="reboog" data-date="2009-02-27T18:33:36+00:00">
+<div class="post" data-post-id="28330" data-author="reboog" data-date="2009-02-27T18:33:36+00:00" data-subject="">
 
 If the government did its job, the shareholder value would be zero.
 
 </div>
 
-<div class="post" data-post-id="28331" data-author="Weasel" data-date="2009-02-27T18:36:06+00:00">
+<div class="post" data-post-id="28331" data-author="Weasel" data-date="2009-02-27T18:36:06+00:00" data-subject="">
 
 If the government did its job, the shareholder value would be zero.[/quote:2eo0krwp]
 
@@ -1522,13 +1522,13 @@ lol.. I trust you're being sarcastic.. one can never be sure these days..
 
 </div>
 
-<div class="post" data-post-id="28332" data-author="reboog" data-date="2009-02-27T18:46:58+00:00">
+<div class="post" data-post-id="28332" data-author="reboog" data-date="2009-02-27T18:46:58+00:00" data-subject="">
 
 When an institution is bankrupt, how much are that institution's stocks and bonds worth?
 
 </div>
 
-<div class="post" data-post-id="28333" data-author="Weasel" data-date="2009-02-27T19:18:50+00:00">
+<div class="post" data-post-id="28333" data-author="Weasel" data-date="2009-02-27T19:18:50+00:00" data-subject="">
 
 When an institution is bankrupt, how much are that institution's stocks and bonds worth?[/quote:1v40ahyp]
 
@@ -1544,7 +1544,7 @@ Maybe I should ring those guys on tv with the really annoying adverts.. you know
 
 </div>
 
-<div class="post" data-post-id="28334" data-author="Poggle" data-date="2009-02-27T21:02:05+00:00">
+<div class="post" data-post-id="28334" data-author="Poggle" data-date="2009-02-27T21:02:05+00:00" data-subject="">
 
 IT'S MY MONEY AND I NEED IT NOW!!!!!111
 
@@ -1554,7 +1554,7 @@ I like the version that's an opera.
 
 </div>
 
-<div class="post" data-post-id="28335" data-author="Medios" data-date="2009-02-27T22:25:05+00:00">
+<div class="post" data-post-id="28335" data-author="Medios" data-date="2009-02-27T22:25:05+00:00" data-subject="">
 
 "Democracy is two wolves and a lamb voting on what is for lunch. Liberty is a well armed lamb contesting the vote" Benjamin Franklin
 
@@ -1582,7 +1582,7 @@ Make me one with everything.
 
 </div>
 
-<div class="post" data-post-id="28336" data-author="reboog" data-date="2009-02-27T22:33:53+00:00">
+<div class="post" data-post-id="28336" data-author="reboog" data-date="2009-02-27T22:33:53+00:00" data-subject="">
 
 heh true... but Citi aren't [i:21bg6aeq]officially[/i:21bg6aeq] bankrupt [yet], that's the difference.
 
@@ -1592,7 +1592,7 @@ I could [i:21bg6aeq]officially[/i:21bg6aeq] call myself not great, but that does
 
 </div>
 
-<div class="post" data-post-id="28345" data-author="Mosaix" data-date="2009-02-28T08:56:01+00:00">
+<div class="post" data-post-id="28345" data-author="Mosaix" data-date="2009-02-28T08:56:01+00:00" data-subject="">
 
 I think Pete Sessions Republican from Texas sums it up pretty well.
 
@@ -1606,7 +1606,7 @@ This is Pete Sessions audio clip link below
 
 </div>
 
-<div class="post" data-post-id="28346" data-author="jezer" data-date="2009-02-28T13:31:45+00:00">
+<div class="post" data-post-id="28346" data-author="jezer" data-date="2009-02-28T13:31:45+00:00" data-subject="">
 
 When I reload the homepage the crier doesn't show on the homepage any more. Good idea... If we could all just let go of flaming our opinions, might do the game some good. I'm wondering if this is deliberate... I think wise move if so. Lets face it, we just crap on and on, and mostly at each other... I like to make fun of it all... but I guess my satire of how the game works, and the relationships between certain players... is only actually adding to it.  :evil:
 
@@ -1614,7 +1614,7 @@ Guess I'll reflect on my signature some.
 
 </div>
 
-<div class="post" data-post-id="28348" data-author="Medios" data-date="2009-02-28T16:33:56+00:00">
+<div class="post" data-post-id="28348" data-author="Medios" data-date="2009-02-28T16:33:56+00:00" data-subject="">
 
 I think this sums it up better
 
@@ -1688,13 +1688,13 @@ We should never forget that everything Adolf Hitler did in Germany was "legal" a
 
 </div>
 
-<div class="post" data-post-id="28352" data-author="Tap" data-date="2009-02-28T20:12:08+00:00">
+<div class="post" data-post-id="28352" data-author="Tap" data-date="2009-02-28T20:12:08+00:00" data-subject="">
 
 Amen. Well spoken.
 
 </div>
 
-<div class="post" data-post-id="28354" data-author="Weasel" data-date="2009-02-28T20:34:56+00:00">
+<div class="post" data-post-id="28354" data-author="Weasel" data-date="2009-02-28T20:34:56+00:00" data-subject="">
 
 Nice post Medios. Unfortunately it is an exercise in futility trying to convince a fanatical Obamessiah zealot anything that may in any way discredit or contradict the teachings of The Big Zero, or their irrational interpretations of such. [b:26e6hk74]*[/color:26e6hk74][/b:26e6hk74] 
 
@@ -1706,25 +1706,25 @@ If the Obamessiah says that a padded cell is not a padded cell, then a true zeal
 
 </div>
 
-<div class="post" data-post-id="28357" data-author="reboog" data-date="2009-03-02T00:32:51+00:00">
+<div class="post" data-post-id="28357" data-author="reboog" data-date="2009-03-02T00:32:51+00:00" data-subject="">
 
 jezer: your nick length sure is wrong
 
 </div>
 
-<div class="post" data-post-id="28358" data-author="jezer" data-date="2009-03-02T00:56:10+00:00">
+<div class="post" data-post-id="28358" data-author="jezer" data-date="2009-03-02T00:56:10+00:00" data-subject="">
 
 I apologise reboog... some of us just aren't as greating as others.
 
 </div>
 
-<div class="post" data-post-id="28359" data-author="Weasel" data-date="2009-03-02T05:43:03+00:00">
+<div class="post" data-post-id="28359" data-author="Weasel" data-date="2009-03-02T05:43:03+00:00" data-subject="">
 
 Tap: your nick length is only half right.
 
 </div>
 
-<div class="post" data-post-id="28361" data-author="Poggle" data-date="2009-03-02T16:34:29+00:00">
+<div class="post" data-post-id="28361" data-author="Poggle" data-date="2009-03-02T16:34:29+00:00" data-subject="">
 
 One of your quotes disturbs me greatly...
 
@@ -1754,7 +1754,7 @@ So regardless of who you personally might fanatically support, it really doesn't
 
 </div>
 
-<div class="post" data-post-id="28365" data-author="Weasel" data-date="2009-03-02T20:01:03+00:00">
+<div class="post" data-post-id="28365" data-author="Weasel" data-date="2009-03-02T20:01:03+00:00" data-subject="">
 
 Even when Bush Jr.'s approval rating plummeted to 30% or whatever it was, there was not widespread talk of this sort.[/quote:1h8nhbl2]
 
@@ -1772,13 +1772,13 @@ There are hundreds if not thousands of much worse things written about Bush from
 
 </div>
 
-<div class="post" data-post-id="28366" data-author="reboog" data-date="2009-03-02T20:04:37+00:00">
+<div class="post" data-post-id="28366" data-author="reboog" data-date="2009-03-02T20:04:37+00:00" data-subject="">
 
 On Wednesdays I am made of sodium
 
 </div>
 
-<div class="post" data-post-id="28369" data-author="Poggle" data-date="2009-03-02T21:53:27+00:00">
+<div class="post" data-post-id="28369" data-author="Poggle" data-date="2009-03-02T21:53:27+00:00" data-subject="">
 
 I assumed that this Pete Sessions fellow is a person of some importance, since he is apparently worth talking about. I guess this might not be the case.
 
@@ -1802,7 +1802,7 @@ Edit: "Paul fellow" was actually supposed to be "Pete Sessions fellow"
 
 </div>
 
-<div class="post" data-post-id="28370" data-author="Tap" data-date="2009-03-03T01:09:00+00:00">
+<div class="post" data-post-id="28370" data-author="Tap" data-date="2009-03-03T01:09:00+00:00" data-subject="">
 
 To those  concerned:
 
@@ -1810,7 +1810,7 @@ My nick length is only half wrong.
 
 </div>
 
-<div class="post" data-post-id="28372" data-author="Medios" data-date="2009-03-03T14:50:52+00:00">
+<div class="post" data-post-id="28372" data-author="Medios" data-date="2009-03-03T14:50:52+00:00" data-subject="">
 
 Dr. Ron Paul is a champion of liberty.  He even turned down his congressional pension.  He doesn't want your money.  He wants everyone to be free from the tyranny of government.  
 
@@ -1820,7 +1820,7 @@ Freedom works.
 
 </div>
 
-<div class="post" data-post-id="28375" data-author="Vixn" data-date="2009-03-03T16:52:44+00:00">
+<div class="post" data-post-id="28375" data-author="Vixn" data-date="2009-03-03T16:52:44+00:00" data-subject="">
 
 If it is so damn good to be Communist then why are Russia and China fleeing it like rats off a sinking ship?[/quote:2nftv7s5]
 
@@ -1842,7 +1842,7 @@ Vixn.
 
 </div>
 
-<div class="post" data-post-id="28376" data-author="Yasik2" data-date="2009-03-03T17:20:05+00:00">
+<div class="post" data-post-id="28376" data-author="Yasik2" data-date="2009-03-03T17:20:05+00:00" data-subject="">
 
 The best I can say of Bush is that it's quite impressive blah blah blah[/quote:2l76oj03]
 
@@ -1850,13 +1850,13 @@ Huhuhuh he said 'bush'
 
 </div>
 
-<div class="post" data-post-id="28379" data-author="reboog" data-date="2009-03-03T20:10:36+00:00">
+<div class="post" data-post-id="28379" data-author="reboog" data-date="2009-03-03T20:10:36+00:00" data-subject="">
 
 China is not communist.
 
 </div>
 
-<div class="post" data-post-id="28380" data-author="Sheng" data-date="2009-03-03T20:44:29+00:00">
+<div class="post" data-post-id="28380" data-author="Sheng" data-date="2009-03-03T20:44:29+00:00" data-subject="">
 
 Central Planning works in China?  China sets record growth numbers? Business is booming in China?
 
@@ -1866,7 +1866,7 @@ You really think China would admit they have a problem?  The word 'problem' bare
 
 </div>
 
-<div class="post" data-post-id="28381" data-author="jezer" data-date="2009-03-03T22:48:40+00:00">
+<div class="post" data-post-id="28381" data-author="jezer" data-date="2009-03-03T22:48:40+00:00" data-subject="">
 
 I can't believe you guys point the finger at political systems and blame them for there roles in world turmoils. It's the greed in man that's the problem. Communism actually has some great ideas. There is no perfect political system... because there is no selfless man... 
 
@@ -1878,7 +1878,7 @@ Any other excuses?  :!:
 
 </div>
 
-<div class="post" data-post-id="28382" data-author="reboog" data-date="2009-03-04T01:13:29+00:00">
+<div class="post" data-post-id="28382" data-author="reboog" data-date="2009-03-04T01:13:29+00:00" data-subject="">
 
 jezer: I think we've had this conversation before.  Greed is everpresent.  You can't get rid of it.  It's here during the boom years, the bust years, always and forever.
 
@@ -1886,13 +1886,13 @@ I agree that the political mudslinging is stupid and pointless.
 
 </div>
 
-<div class="post" data-post-id="28383" data-author="Weasel" data-date="2009-03-04T02:14:00+00:00">
+<div class="post" data-post-id="28383" data-author="Weasel" data-date="2009-03-04T02:14:00+00:00" data-subject="">
 
 wow Jezer. just... wow.
 
 </div>
 
-<div class="post" data-post-id="28388" data-author="Medios" data-date="2009-03-04T14:40:29+00:00">
+<div class="post" data-post-id="28388" data-author="Medios" data-date="2009-03-04T14:40:29+00:00" data-subject="">
 
 So if greed is so rampant, then how does letting these "greedy" rulers decide more of your life help.  
 
@@ -1906,7 +1906,7 @@ I am deeply troubled that our country has went so far from our Constitution.  I 
 
 </div>
 
-<div class="post" data-post-id="28392" data-author="jezer" data-date="2009-03-04T22:56:04+00:00">
+<div class="post" data-post-id="28392" data-author="jezer" data-date="2009-03-04T22:56:04+00:00" data-subject="">
 
 Do you think that government should decide my[/color:105see2o] life?  Should they force me[/color:105see2o] into a job determined by some government test?  Should they tell me[/color:105see2o] where I[/color:105see2o] can go and who I[/color:105see2o] can see?  Should they tell me[/color:105see2o] whether I[/color:105see2o] can have children or not?  Should they tell me[/color:105see2o] I[/color:105see2o] shouldn't drink alcohol or smoke cannabis?[/quote:105see2o]
 
@@ -1918,7 +1918,7 @@ Your example about the rich giving to the poor not feeling right, only serves to
 
 </div>
 
-<div class="post" data-post-id="28393" data-author="jezer" data-date="2009-03-05T00:48:32+00:00">
+<div class="post" data-post-id="28393" data-author="jezer" data-date="2009-03-05T00:48:32+00:00" data-subject="">
 
 [url:1in90217]http://www.commondreams.org/views03/0910-10.htm[/url:1in90217]
 
@@ -1928,7 +1928,7 @@ Why can't we learn from history... it's not about being great... and trying to b
 
 </div>
 
-<div class="post" data-post-id="28394" data-author="Tap" data-date="2009-03-05T05:04:42+00:00">
+<div class="post" data-post-id="28394" data-author="Tap" data-date="2009-03-05T05:04:42+00:00" data-subject="">
 
 Jezer,
 
@@ -1938,7 +1938,7 @@ Now that Americans are starting to wake up and realize what is happening and the
 
 </div>
 
-<div class="post" data-post-id="28395" data-author="jezer" data-date="2009-03-05T06:12:06+00:00">
+<div class="post" data-post-id="28395" data-author="jezer" data-date="2009-03-05T06:12:06+00:00" data-subject="">
 
 I understand what your saying Tap. There are kind of two problems... greedy people and lazy people. Whats the point in greedy people giving over there wealth to lazy people...? Essentially both parties are at fault and the common fault is selfishness. The greedy person must learn to give. The lazy person must learn to work. Both are as bad as each other. 
 
@@ -1952,7 +1952,7 @@ Unless you get together and unite and rebuild your communities... Quite often un
 
 </div>
 
-<div class="post" data-post-id="28396" data-author="Poggle" data-date="2009-03-05T06:58:38+00:00">
+<div class="post" data-post-id="28396" data-author="Poggle" data-date="2009-03-05T06:58:38+00:00" data-subject="">
 
 Jezer, your position seems to be that ambition is bad. (greed)
 
@@ -1982,7 +1982,7 @@ Communism will never work. It destroys the self. Without the self there is nothi
 
 </div>
 
-<div class="post" data-post-id="28397" data-author="jezer" data-date="2009-03-05T07:56:19+00:00">
+<div class="post" data-post-id="28397" data-author="jezer" data-date="2009-03-05T07:56:19+00:00" data-subject="">
 
 I've kind of made my point... as non-political and idealistic as it is. It's ok with me if people don't agree.
 
@@ -1994,7 +1994,7 @@ The core of my argument is about honouring and preferring one another, it's abou
 
 </div>
 
-<div class="post" data-post-id="28400" data-author="*juggleblood*" data-date="2009-03-05T13:26:24+00:00">
+<div class="post" data-post-id="28400" data-author="*juggleblood*" data-date="2009-03-05T13:26:24+00:00" data-subject="">
 
 Lowliness is young ambition's ladder,
 
@@ -2010,7 +2010,7 @@ Lowliness is young ambition's ladder,
 
 </div>
 
-<div class="post" data-post-id="28401" data-author="*juggleblood*" data-date="2009-03-05T13:32:10+00:00">
+<div class="post" data-post-id="28401" data-author="*juggleblood*" data-date="2009-03-05T13:32:10+00:00" data-subject="">
 
 Lowliness is young ambition's ladder,
 
@@ -2034,7 +2034,7 @@ Virtue is choked with foul ambition
 
 </div>
 
-<div class="post" data-post-id="28403" data-author="Medios" data-date="2009-03-05T14:54:42+00:00">
+<div class="post" data-post-id="28403" data-author="Medios" data-date="2009-03-05T14:54:42+00:00" data-subject="">
 
 How can you argue that anyone other than the person should decide these things.  You talk about greed and selfishness and then in the same sentence assume that government knows better.  When has the government ever known better?  How often have politicians lied to us?  Seriously how can you sit here and say that they should be running our lives.
 
@@ -2052,19 +2052,19 @@ Oh wait Obama is doing this.
 
 </div>
 
-<div class="post" data-post-id="28404" data-author="reboog" data-date="2009-03-05T17:51:25+00:00">
+<div class="post" data-post-id="28404" data-author="reboog" data-date="2009-03-05T17:51:25+00:00" data-subject="">
 
 I, for one, welcome my dollars being sent to irresponsible bank executives and people who can't afford their homes.
 
 </div>
 
-<div class="post" data-post-id="28405" data-author="Tap" data-date="2009-03-05T23:22:17+00:00">
+<div class="post" data-post-id="28405" data-author="Tap" data-date="2009-03-05T23:22:17+00:00" data-subject="">
 
 That is what makes you great.
 
 </div>
 
-<div class="post" data-post-id="28419" data-author="Yasik2" data-date="2009-03-07T04:38:42+00:00">
+<div class="post" data-post-id="28419" data-author="Yasik2" data-date="2009-03-07T04:38:42+00:00" data-subject="">
 
 HARRY POTTER HINTING AT WHAT ALL OF YOU WILL NEVER GET ![/size:1tfergmc][/color:1tfergmc] (if you keep posting in this thread)
 
@@ -2072,7 +2072,7 @@ HARRY POTTER HINTING AT WHAT ALL OF YOU WILL NEVER GET ![/size:1tfergmc][/color:
 
 </div>
 
-<div class="post" data-post-id="28421" data-author="Medios" data-date="2009-03-07T15:41:48+00:00">
+<div class="post" data-post-id="28421" data-author="Medios" data-date="2009-03-07T15:41:48+00:00" data-subject="">
 
 A guy on our other board posted this.
 
@@ -2082,19 +2082,19 @@ Jesus could assemble a cabinet.
 
 </div>
 
-<div class="post" data-post-id="28436" data-author="reboog" data-date="2009-03-10T06:59:03+00:00">
+<div class="post" data-post-id="28436" data-author="reboog" data-date="2009-03-10T06:59:03+00:00" data-subject="">
 
 your very faces are the shutting up, please
 
 </div>
 
-<div class="post" data-post-id="28437" data-author="Tap" data-date="2009-03-10T10:23:26+00:00">
+<div class="post" data-post-id="28437" data-author="Tap" data-date="2009-03-10T10:23:26+00:00" data-subject="">
 
 [img:othdyt77]http://www.freewebs.com/fame-us/yoda.jpg[/img:othdyt77]
 
 </div>
 
-<div class="post" data-post-id="28442" data-author="Vixn" data-date="2009-03-10T18:06:44+00:00">
+<div class="post" data-post-id="28442" data-author="Vixn" data-date="2009-03-10T18:06:44+00:00" data-subject="">
 
 Wow, Tap, you're hairy!
 
@@ -2102,7 +2102,7 @@ Wow, Tap, you're hairy!
 
 </div>
 
-<div class="post" data-post-id="28444" data-author="Tap" data-date="2009-03-11T02:22:02+00:00">
+<div class="post" data-post-id="28444" data-author="Tap" data-date="2009-03-11T02:22:02+00:00" data-subject="">
 
 Yes, but not too hairy *wink*
 
@@ -2110,7 +2110,7 @@ Yes, but not too hairy *wink*
 
 </div>
 
-<div class="post" data-post-id="28451" data-author="reboog" data-date="2009-03-11T07:29:14+00:00">
+<div class="post" data-post-id="28451" data-author="reboog" data-date="2009-03-11T07:29:14+00:00" data-subject="What is nationalization?">
 
 Nationalizing insolvent banks is GOOD.
 
@@ -2132,7 +2132,7 @@ So the next time someone tells you that nationalization is bad, educate him.
 
 </div>
 
-<div class="post" data-post-id="28459" data-author="Tap" data-date="2009-03-12T00:50:30+00:00">
+<div class="post" data-post-id="28459" data-author="Tap" data-date="2009-03-12T00:50:30+00:00" data-subject="">
 
 Sorry Reboog but once again, you are wrong, still great, but wrong
 
@@ -2152,7 +2152,7 @@ You know who liked NATIONALISM?
 
 </div>
 
-<div class="post" data-post-id="28464" data-author="*juggleblood*" data-date="2009-03-12T12:52:10+00:00">
+<div class="post" data-post-id="28464" data-author="*juggleblood*" data-date="2009-03-12T12:52:10+00:00" data-subject="Re: What is nationalization?">
 
 Notice that in this scheme (which is one of the FDIC's main jobs, by law), the taxpayer absorbs the losses of the bank, but it also gets the upside, in the process of the auction.  Right now, we are socializing the losses and privatizing the gains.
 
@@ -2162,7 +2162,7 @@ Word.
 
 </div>
 
-<div class="post" data-post-id="28465" data-author="Medios" data-date="2009-03-12T13:23:32+00:00">
+<div class="post" data-post-id="28465" data-author="Medios" data-date="2009-03-12T13:23:32+00:00" data-subject="">
 
 Check out the link.  They even have maps of North American Union and the Super Hub in Kansas City.  I really can't believe that the government is moving this quickly.  Ron Paul voters are terrorists?  Hahahaha
 
@@ -2186,25 +2186,25 @@ The award-winning film Zeitgeist, featuring Alex Jones, is also mentioned as ter
 
 </div>
 
-<div class="post" data-post-id="28470" data-author="reboog" data-date="2009-03-12T17:27:03+00:00">
+<div class="post" data-post-id="28470" data-author="reboog" data-date="2009-03-12T17:27:03+00:00" data-subject="">
 
 Tap:  If you're not going to read a single word I wrote, don't bother replying.
 
 </div>
 
-<div class="post" data-post-id="28471" data-author="Poggle" data-date="2009-03-12T17:53:10+00:00">
+<div class="post" data-post-id="28471" data-author="Poggle" data-date="2009-03-12T17:53:10+00:00" data-subject="">
 
 [img:slkhxytr]http://totallylookslike.files.wordpress.com/2008/07/ron-paul.jpg[/img:slkhxytr]
 
 </div>
 
-<div class="post" data-post-id="28472" data-author="reboog" data-date="2009-03-12T18:16:54+00:00">
+<div class="post" data-post-id="28472" data-author="reboog" data-date="2009-03-12T18:16:54+00:00" data-subject="">
 
 Poggle is great.
 
 </div>
 
-<div class="post" data-post-id="28477" data-author="Medios" data-date="2009-03-13T04:56:29+00:00">
+<div class="post" data-post-id="28477" data-author="Medios" data-date="2009-03-13T04:56:29+00:00" data-subject="">
 
 And you guys thought were going to fight Russia!!!
 
@@ -2220,7 +2220,7 @@ Mr Obamaâ€™s decision to send an armed escort for US surveillance ships in 
 
 </div>
 
-<div class="post" data-post-id="28484" data-author="Rynquald" data-date="2009-03-13T22:00:08+00:00">
+<div class="post" data-post-id="28484" data-author="Rynquald" data-date="2009-03-13T22:00:08+00:00" data-subject="">
 
 Bet the US would have a problem with a Chinese "surveillance" ship near their waters.
 
@@ -2232,7 +2232,7 @@ They really should start making those warships waterproof.
 
 </div>
 
-<div class="post" data-post-id="28518" data-author="reboog" data-date="2009-03-16T18:06:36+00:00">
+<div class="post" data-post-id="28518" data-author="reboog" data-date="2009-03-16T18:06:36+00:00" data-subject="">
 
 Stock market continues rally.  No bank failures last Friday.
 
@@ -2240,7 +2240,7 @@ Depression is off.
 
 </div>
 
-<div class="post" data-post-id="28520" data-author="Medios" data-date="2009-03-16T20:55:20+00:00">
+<div class="post" data-post-id="28520" data-author="Medios" data-date="2009-03-16T20:55:20+00:00" data-subject="">
 
 Stock market continues rally.  No bank failures last Friday.
 
@@ -2250,7 +2250,7 @@ Good we can finally raise taxes then.
 
 </div>
 
-<div class="post" data-post-id="28521" data-author="Medios" data-date="2009-03-16T21:12:01+00:00">
+<div class="post" data-post-id="28521" data-author="Medios" data-date="2009-03-16T21:12:01+00:00" data-subject="">
 
 Why does San Francisco have so many homosexuals, while Washington has so many politicians?
 
@@ -2258,7 +2258,7 @@ San Francisco got first choice.
 
 </div>
 
-<div class="post" data-post-id="28529" data-author="reboog" data-date="2009-03-17T02:41:15+00:00">
+<div class="post" data-post-id="28529" data-author="reboog" data-date="2009-03-17T02:41:15+00:00" data-subject="">
 
 In 1994, George Akerlof (nobel prize winner) and Paul Romer wrote a paper called "Looting: The Economic Underworld of Bankruptcy for Profit."  
 
@@ -2268,13 +2268,13 @@ Translation: Bailouts need to stop.
 
 </div>
 
-<div class="post" data-post-id="28530" data-author="Tap" data-date="2009-03-17T03:10:54+00:00">
+<div class="post" data-post-id="28530" data-author="Tap" data-date="2009-03-17T03:10:54+00:00" data-subject="">
 
 I'm all for bailouts being stopped..just as soon as I get mine.. still here waiting holding the bag
 
 </div>
 
-<div class="post" data-post-id="28535" data-author="*juggleblood*" data-date="2009-03-17T13:34:36+00:00">
+<div class="post" data-post-id="28535" data-author="*juggleblood*" data-date="2009-03-17T13:34:36+00:00" data-subject="">
 
 The thing that stuns me the most is how bailed out institutions are paying corporate bonuses with bailout money with the government holding its hands up saying theres nothing it can do because these guys have contracts. 
 
@@ -2288,7 +2288,7 @@ Translation: Bailouts need to stop.[/quote:28e5eeur]
 
 </div>
 
-<div class="post" data-post-id="28540" data-author="reboog" data-date="2009-03-17T22:04:27+00:00">
+<div class="post" data-post-id="28540" data-author="reboog" data-date="2009-03-17T22:04:27+00:00" data-subject="">
 
 The thing that stuns me the most is how bailed out institutions are paying corporate bonuses with bailout money with the government holding its hands up saying theres nothing it can do because these guys have contracts. 
 
@@ -2306,7 +2306,7 @@ I should also mention that the failure of AIG will not be the end of civilizatio
 
 </div>
 
-<div class="post" data-post-id="28542" data-author="reboog" data-date="2009-03-17T22:30:11+00:00">
+<div class="post" data-post-id="28542" data-author="reboog" data-date="2009-03-17T22:30:11+00:00" data-subject="">
 
 Price controls may be making a comeback in certain states.
 
@@ -2316,7 +2316,7 @@ Super edit:  Price controls may be coming back to all states except Vermont.
 
 </div>
 
-<div class="post" data-post-id="28549" data-author="Tap" data-date="2009-03-18T04:02:20+00:00">
+<div class="post" data-post-id="28549" data-author="Tap" data-date="2009-03-18T04:02:20+00:00" data-subject="">
 
 Speaking of people in the dark....
 
@@ -2386,7 +2386,7 @@ The Governmentâ€™s internet censorship trials are due to begin shortly but 
 
 </div>
 
-<div class="post" data-post-id="28550" data-author="*juggleblood*" data-date="2009-03-18T04:55:03+00:00">
+<div class="post" data-post-id="28550" data-author="*juggleblood*" data-date="2009-03-18T04:55:03+00:00" data-subject="">
 
 I'd really like to know what leverage these jokers at AIG have that they can get away with collecting bonuses from bailout money, even those who left the company. These were supposedly retention bonuses.
 
@@ -2398,13 +2398,13 @@ is this institution crucial to the recovery of the economy?
 
 </div>
 
-<div class="post" data-post-id="28551" data-author="reboog" data-date="2009-03-18T04:59:31+00:00">
+<div class="post" data-post-id="28551" data-author="reboog" data-date="2009-03-18T04:59:31+00:00" data-subject="">
 
 Not only is the institution important to the success of the economy, the people who drove it into the ground are fundamental as well.  Without these guys, the world would end!!!!
 
 </div>
 
-<div class="post" data-post-id="28552" data-author="Weasel" data-date="2009-03-18T05:40:44+00:00">
+<div class="post" data-post-id="28552" data-author="Weasel" data-date="2009-03-18T05:40:44+00:00" data-subject="">
 
 Unless AIG declare bankruptcy, they [i:1cnkmjtp]have[/i:1cnkmjtp] to pay many of these bonuses. The retention bonuses, as I understand it, are being paid out to those who have now [i:1cnkmjtp]completed[/i:1cnkmjtp] the contract term - for example: a year ago they were offered $ if they agreed to stay for another 12 months. They have now done that and are being given the bonuses that were agreed to contractually, and they are moving on, as per the contract. 
 
@@ -2420,7 +2420,7 @@ Again, I don't like this any more than anyone else here, but I'm not letting the
 
 </div>
 
-<div class="post" data-post-id="28553" data-author="reboog" data-date="2009-03-18T06:47:36+00:00">
+<div class="post" data-post-id="28553" data-author="reboog" data-date="2009-03-18T06:47:36+00:00" data-subject="">
 
 Actually, they're trying to get the money back by finding AIG guilty of fraudulent conveyance.  In short, because the company is bankrupt, those bonus contracts are not worth the paper they're written on.
 
@@ -2430,7 +2430,7 @@ I admit that I was unsure what to think of the AIG bailout when it first occurre
 
 </div>
 
-<div class="post" data-post-id="28555" data-author="Weasel" data-date="2009-03-18T11:00:38+00:00">
+<div class="post" data-post-id="28555" data-author="Weasel" data-date="2009-03-18T11:00:38+00:00" data-subject="">
 
 Actually, they're trying to get the money back by finding AIG guilty of fraudulent conveyance.  In short, because the company is bankrupt, those bonus contracts are not worth the paper they're written on.
 
@@ -2454,7 +2454,7 @@ Have you heard about the increasing 'tea party' protests that have been going on
 
 </div>
 
-<div class="post" data-post-id="28557" data-author="reboog" data-date="2009-03-18T16:45:06+00:00">
+<div class="post" data-post-id="28557" data-author="reboog" data-date="2009-03-18T16:45:06+00:00" data-subject="">
 
 There is a huge upside to this.  The administration is spending so much time on this that they are unable to enact other stupid and damaging policies to our economy.
 
@@ -2466,7 +2466,7 @@ Weasel: AIG is OFFICIALLY bankrupt.  There, I have declared what everyone in the
 
 </div>
 
-<div class="post" data-post-id="28558" data-author="reboog" data-date="2009-03-18T19:47:51+00:00">
+<div class="post" data-post-id="28558" data-author="reboog" data-date="2009-03-18T19:47:51+00:00" data-subject="">
 
 Wherever you go, whatever you do, I will be right here bailing out you.
 
@@ -2474,7 +2474,7 @@ Whatever it takes, or how the dollar breaks, I will be right here bailing out yo
 
 </div>
 
-<div class="post" data-post-id="28559" data-author="reboog" data-date="2009-03-18T20:06:19+00:00">
+<div class="post" data-post-id="28559" data-author="reboog" data-date="2009-03-18T20:06:19+00:00" data-subject="">
 
 Every buck you take
 
@@ -2488,7 +2488,7 @@ I'll be funding you
 
 </div>
 
-<div class="post" data-post-id="28560" data-author="Weasel" data-date="2009-03-18T20:38:22+00:00">
+<div class="post" data-post-id="28560" data-author="Weasel" data-date="2009-03-18T20:38:22+00:00" data-subject="">
 
 Weasel: AIG is OFFICIALLY bankrupt.  There, I have declared what everyone in the world knows already.[/quote:3vs9uebx]
 
@@ -2502,7 +2502,7 @@ How about declaring the US government morally and ethically bankrupt?
 
 </div>
 
-<div class="post" data-post-id="28561" data-author="Medios" data-date="2009-03-18T21:15:29+00:00">
+<div class="post" data-post-id="28561" data-author="Medios" data-date="2009-03-18T21:15:29+00:00" data-subject="">
 
 I am so proud of this thread.
 
@@ -2510,7 +2510,7 @@ Juggle is actually admitting that Obama messed up!!!!!
 
 </div>
 
-<div class="post" data-post-id="28562" data-author="*juggleblood*" data-date="2009-03-18T22:24:09+00:00">
+<div class="post" data-post-id="28562" data-author="*juggleblood*" data-date="2009-03-18T22:24:09+00:00" data-subject="">
 
 It's worse than that. I'm furious. 
 
@@ -2524,7 +2524,7 @@ edit: not to mention the fact that the government and the president himself are 
 
 </div>
 
-<div class="post" data-post-id="28563" data-author="Tap" data-date="2009-03-19T00:04:50+00:00">
+<div class="post" data-post-id="28563" data-author="Tap" data-date="2009-03-19T00:04:50+00:00" data-subject="">
 
 Heard several interesting talking points on the radio today that some have already pointed out. Specifically,
 
@@ -2542,13 +2542,13 @@ Can you say FEMA camps?
 
 </div>
 
-<div class="post" data-post-id="28564" data-author="Medios" data-date="2009-03-19T20:45:08+00:00">
+<div class="post" data-post-id="28564" data-author="Medios" data-date="2009-03-19T20:45:08+00:00" data-subject="">
 
 When they put me in Gitmo for openly supporting Ron Paul I wonder if they will let me have a Koran.
 
 </div>
 
-<div class="post" data-post-id="28572" data-author="Medios" data-date="2009-03-20T21:05:59+00:00">
+<div class="post" data-post-id="28572" data-author="Medios" data-date="2009-03-20T21:05:59+00:00" data-subject="">
 
 Good times ahead.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 37
 ---
 
-<div class="post" data-post-id="37296" data-author="*juggleblood*" data-date="2016-08-28T00:31:36+00:00">
+<div class="post" data-post-id="37296" data-author="*juggleblood*" data-date="2016-08-28T00:31:36+00:00" data-subject="Monk Prime Arm, thought experiment">
 
 I'm enjoying the banter about various imbalances in the game, so here's an experiment in designing equipment by groupthink.  Let's take one slot for one prime class that is not flushed out, and flush out the rough parameters of what that equipment should look like.
 
@@ -34,7 +34,7 @@ Oh, and regarding drachma equipment. Remember that it is not a problem to introd
 
 </div>
 
-<div class="post" data-post-id="37301" data-author="Gorka" data-date="2016-08-28T20:15:34+00:00">
+<div class="post" data-post-id="37301" data-author="Gorka" data-date="2016-08-28T20:15:34+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 Nice post JB. 
 
@@ -58,13 +58,13 @@ In most cases the worst eq is near zero, or just +1 in one particular stat. So p
 
 </div>
 
-<div class="post" data-post-id="37308" data-author="*juggleblood*" data-date="2016-08-29T01:16:32+00:00">
+<div class="post" data-post-id="37308" data-author="*juggleblood*" data-date="2016-08-29T01:16:32+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 That's pretty good. I was thinking tho that the handdam on a 9x40 monk prime arm item could higher without unbalancing thief because of multiple stabs.
 
 </div>
 
-<div class="post" data-post-id="37313" data-author="Josiah" data-date="2016-08-29T17:51:30+00:00">
+<div class="post" data-post-id="37313" data-author="Josiah" data-date="2016-08-29T17:51:30+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 I like the idea of theorycrafting some equipment, but I'm not sold that monk prime sleeves is a good starting point for the following reasons:
 
@@ -78,7 +78,7 @@ Regarding #5: Are we assuming now that prime gear should be the ultimate equipme
 
 </div>
 
-<div class="post" data-post-id="37314" data-author="*juggleblood*" data-date="2016-08-29T22:42:56+00:00">
+<div class="post" data-post-id="37314" data-author="*juggleblood*" data-date="2016-08-29T22:42:56+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 > **Josiah wrote:**
 > Regarding #5: Are we assuming now that prime gear should be the ultimate equipment?  Historically speaking, prime gear has very low restrictions and is usually obsolete by the time you reach high levels.
@@ -87,13 +87,13 @@ Ah, yeah I was assuming that, mistakenly I guess.
 
 </div>
 
-<div class="post" data-post-id="37316" data-author="*teker*" data-date="2016-08-31T18:48:59+00:00">
+<div class="post" data-post-id="37316" data-author="*teker*" data-date="2016-08-31T18:48:59+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 I think the best way to achieve balance and scaling would be to assign point values to the variety of bonuses that equipment provides.  Equipment that makes stats or abilities worse would count those as negative point values.  Then compare the various pieces of equipment based on their total points.  Some sort of point range would then be defined for each category of levels (1-7, 8-14, 15-20, 20-39, 1x40, 2x, etc).  Value and rent cost would be based on the points and could be modified up or down at a particular point cost/refund.  Some RPGs use this sort of system (Hero Games in particular) to try to balance PCs, their equipment, and spells/skills.
 
 </div>
 
-<div class="post" data-post-id="37317" data-author="Teron" data-date="2016-09-01T06:54:25+00:00">
+<div class="post" data-post-id="37317" data-author="Teron" data-date="2016-09-01T06:54:25+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 Teker, that's a reasonable way of doing it.
 
@@ -101,7 +101,7 @@ However, you'd have to analyze, which abilities do/heal more damage, than others
 
 </div>
 
-<div class="post" data-post-id="37318" data-author="Gorka" data-date="2016-09-01T07:42:12+00:00">
+<div class="post" data-post-id="37318" data-author="Gorka" data-date="2016-09-01T07:42:12+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 It would be difficult to arrive at a fair value for DAM. 
 
@@ -115,7 +115,7 @@ Those who played s2, like why did you even bother... the fails must have been ex
 
 </div>
 
-<div class="post" data-post-id="37320" data-author="Teron" data-date="2016-09-01T11:07:32+00:00">
+<div class="post" data-post-id="37320" data-author="Teron" data-date="2016-09-01T11:07:32+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 1. In s5, everyone can stab, so everyone has to pay the price for dam. Though I agree that dam is more valuable to thieves/monks, than others, thanks to multipliers.
 
@@ -131,7 +131,7 @@ I don't fear changes: the game needs to evolve. However, right now the biggest i
 
 </div>
 
-<div class="post" data-post-id="37321" data-author="*juggleblood*" data-date="2016-09-02T20:44:34+00:00">
+<div class="post" data-post-id="37321" data-author="*juggleblood*" data-date="2016-09-02T20:44:34+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 > ***juggleblood* wrote:**
 > > **Josiah wrote:**
@@ -145,7 +145,7 @@ What do others think about this? Is what Josiah saying an accepted norm, or rath
 
 </div>
 
-<div class="post" data-post-id="37322" data-author="Gorka" data-date="2016-09-03T13:15:27+00:00">
+<div class="post" data-post-id="37322" data-author="Gorka" data-date="2016-09-03T13:15:27+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 Mark me down as a firm supporter of having more powerful equipment limited to the players prime class.
 
@@ -157,7 +157,7 @@ It's through our specialties all working together that all is made stronger.
 
 </div>
 
-<div class="post" data-post-id="37323" data-author="alris" data-date="2016-09-03T19:15:53+00:00">
+<div class="post" data-post-id="37323" data-author="alris" data-date="2016-09-03T19:15:53+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 I'd say diversity should lie in our characters, not in what we wear. Just to look from different point of view - Sloth is a game with mulitclass system, so nothing wrong when you try playing a game of not strictly your prime class. When you, for example, figure out you have thief in classo and make damage set, you would rather consider and discard drachma dagger, than stickicking to bolt/kris option. So I vote for real cool eq not being prime, but being the way it currently is - high restrictions, low drop chance, hard mobs or drachma value(either shop or autoquest). Also, agreeing with Josiah point, current prime equipment is somewhat good, but for a mid game(aside the sword for non-josiah-warriors).
 
@@ -165,7 +165,7 @@ K, k, thx, bye!
 
 </div>
 
-<div class="post" data-post-id="37325" data-author="Teron" data-date="2016-09-04T21:40:53+00:00">
+<div class="post" data-post-id="37325" data-author="Teron" data-date="2016-09-04T21:40:53+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 JB, why not have both?
 
@@ -193,7 +193,7 @@ Some non-prime gear can be specialized for the roles, like -ac +maxcon +dam redu
 
 </div>
 
-<div class="post" data-post-id="37327" data-author="*juggleblood*" data-date="2016-09-05T21:42:22+00:00">
+<div class="post" data-post-id="37327" data-author="*juggleblood*" data-date="2016-09-05T21:42:22+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 You can't have it both ways cuz either there exists prime eq that is best in class for the slot or it doesn't exist. You are basically on the same side of the argument as Gorka, that it would be cool to specialize the classes by making available upper end prime eq. So we have 2 responses for and 2 responses against.
 
@@ -201,7 +201,7 @@ Now that I have a better perspective on this, I'm thinking that if I introduced 
 
 </div>
 
-<div class="post" data-post-id="37328" data-author="Gorka" data-date="2016-09-06T05:17:27+00:00">
+<div class="post" data-post-id="37328" data-author="Gorka" data-date="2016-09-06T05:17:27+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 * Not so sure Taron is on my side, most independent players will be anti-prime eq, esp warriors wanting hand dam.
 
@@ -213,7 +213,7 @@ You've lost me!  :shock:
 
 </div>
 
-<div class="post" data-post-id="37329" data-author="Teron" data-date="2016-09-06T09:12:39+00:00">
+<div class="post" data-post-id="37329" data-author="Teron" data-date="2016-09-06T09:12:39+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 So, if there's a BIS prime item, won't there be a slightly worse non-prime item with similar stats? That's the assumption I have, when I suggest prime eq. 
 
@@ -223,13 +223,13 @@ Again, primes have higher caps, so they need more primary stats to reach them, w
 
 </div>
 
-<div class="post" data-post-id="37330" data-author="Gorka" data-date="2016-09-06T09:35:36+00:00">
+<div class="post" data-post-id="37330" data-author="Gorka" data-date="2016-09-06T09:35:36+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 Why don't you make a non prime item that attaches an "item specific prime clasp" with a few more bits and pieces? Best of both worlds...
 
 </div>
 
-<div class="post" data-post-id="37331" data-author="*juggleblood*" data-date="2016-09-06T14:33:32+00:00">
+<div class="post" data-post-id="37331" data-author="*juggleblood*" data-date="2016-09-06T14:33:32+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 Sleeves of Black Ice are monk prime 30. I personally think it's kinda lame that at 9x40 a player is wearing the same equipment as a newb. You guys were talking about linear progress, well to me equipment is an obvious candidate for applying some sort of linear progress.
 
@@ -245,7 +245,7 @@ Now, the question I put to you. Would the game be better off with that piece as 
 
 </div>
 
-<div class="post" data-post-id="37332" data-author="alris" data-date="2016-09-06T21:57:15+00:00">
+<div class="post" data-post-id="37332" data-author="alris" data-date="2016-09-06T21:57:15+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 I have to point out that sleeves of black ice are reward for ingame autoquest. One for monks, similar to the others for each class. And while that those quest rewards equipment probably was not intended to be used all the way up to 40 avatar, and some of those probably not good enough to be used at all... The valor sword is a a same type of prime-autoquest-reward item and its decently good, and with attached clasp it is brilliant enough to be used up to 40 av (unless you are Josiah). What I am trying to say - I always felt its a bit unfair that other classes prime aq rewards are not up to par to warrior one.  My idea to maybe revise those autoquests rewards and also add ingame clasps for every item to bring the stats even higher in later game. Of course clasps should be hard to obtain, similarly to valor sword clasp. So if you feel that those sleeves are adequate for their level, you can add clasp to boost them. Can always make those in forge1 clasps, forge2 clasps (emerald gauntlets anyone?), to break it in smaller steps than from 1x40 to 9x40.
 
@@ -253,7 +253,7 @@ P.S. I am not monk, but +hp regen on monk sleeves? seriously? 2? make it 20hps o
 
 </div>
 
-<div class="post" data-post-id="37333" data-author="*juggleblood*" data-date="2016-09-07T13:23:29+00:00">
+<div class="post" data-post-id="37333" data-author="*juggleblood*" data-date="2016-09-07T13:23:29+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 I'd rather see a variety of available clasps for a given slot, rather than taking up the clasp slot to bring lower level equipment up. For example, I'd rather see better sleeves than black ice for higher level, without having to give up the arm clasp slot to do it. 
 
@@ -261,7 +261,7 @@ How many players support using 1x40 gear all the way thru to 9x40? Such as valor
 
 </div>
 
-<div class="post" data-post-id="37334" data-author="Teron" data-date="2016-09-07T14:25:15+00:00">
+<div class="post" data-post-id="37334" data-author="Teron" data-date="2016-09-07T14:25:15+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 I've been drafting this post since the thread started, so it's a bit long.
 
@@ -333,7 +333,7 @@ I'm not sure, how to combine that with prime/non prime eq: we get prime and non-
 
 </div>
 
-<div class="post" data-post-id="37335" data-author="alris" data-date="2016-09-07T14:57:25+00:00">
+<div class="post" data-post-id="37335" data-author="alris" data-date="2016-09-07T14:57:25+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 > ***juggleblood* wrote:**
 > I'd rather see a variety of available clasps for a given slot, rather than taking up the clasp slot to bring lower level equipment up.
@@ -355,7 +355,7 @@ About drachma - there is also a matter to consider which item should be drachma 
 
 </div>
 
-<div class="post" data-post-id="37336" data-author="*juggleblood*" data-date="2016-09-07T18:23:00+00:00">
+<div class="post" data-post-id="37336" data-author="*juggleblood*" data-date="2016-09-07T18:23:00+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 > **alris wrote:**
 > so how its actually decided which top item is brought by forge and which by shop?
@@ -364,7 +364,7 @@ No clue. I think Tox was last to work drachma gear.
 
 </div>
 
-<div class="post" data-post-id="37337" data-author="*Splork*" data-date="2016-09-07T21:50:43+00:00">
+<div class="post" data-post-id="37337" data-author="*Splork*" data-date="2016-09-07T21:50:43+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 I had tried to add something similar to what teron suggested 3-4 years ago but it got too complicated so I gave up...
 
@@ -442,7 +442,7 @@ etc etc etc
 
 </div>
 
-<div class="post" data-post-id="37338" data-author="Teron" data-date="2016-09-08T03:55:44+00:00">
+<div class="post" data-post-id="37338" data-author="Teron" data-date="2016-09-08T03:55:44+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 Alris, it seems we do need some sort of a calculator/algorithm to come up with drachma prices and to see, which items are more useful and should be drachma instead of ingame.
 
@@ -450,7 +450,7 @@ Splork, where exactly did it get complicated?
 
 </div>
 
-<div class="post" data-post-id="37339" data-author="Gorka" data-date="2016-09-08T07:26:33+00:00">
+<div class="post" data-post-id="37339" data-author="Gorka" data-date="2016-09-08T07:26:33+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 To sort out some "basic" values of stats... You need to simulate battles using these variables...
 
@@ -510,7 +510,7 @@ SPELL_SAVES is potentially the same value as DAM and HAND_DAM damage multipliers
 
 </div>
 
-<div class="post" data-post-id="37340" data-author="alris" data-date="2016-09-08T10:03:25+00:00">
+<div class="post" data-post-id="37340" data-author="alris" data-date="2016-09-08T10:03:25+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 Simulating battle is somewhat lacking approach. Too much of details too easy to miss. First of all you are not taking in account that Sloth is heavily group-oriented, so worth of mana and mana regen in fight might be very high for a healer, due him not taking hits and doing damage directly. Another one - stab-splork-runs, which after heavily depending on damage would make good light of mv regen and mana regen. How are you fitting spells cast on player and mob in battle simulation, they are vaguely dependent on mana and mana regen, but most cast before fight, how attunement fits? But you are right about stats being not equal for different classes. And sometimes its actually not equal for different classorders in same prime. And sometime you would chose one stat over the other in just a different sets of equipment. 
 
@@ -522,7 +522,7 @@ It seems that discussion is a bit derailed, is it ok?
 
 </div>
 
-<div class="post" data-post-id="37341" data-author="Gorka" data-date="2016-09-08T10:22:57+00:00">
+<div class="post" data-post-id="37341" data-author="Gorka" data-date="2016-09-08T10:22:57+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 Yeah, it's only a guide Alris.
 
@@ -540,7 +540,7 @@ We haven't even discussed issues with TEMP eq either... besides forges, what is 
 
 </div>
 
-<div class="post" data-post-id="37342" data-author="Teron" data-date="2016-09-08T14:16:14+00:00">
+<div class="post" data-post-id="37342" data-author="Teron" data-date="2016-09-08T14:16:14+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 If we talk about drachma items, then these could work:
 
@@ -558,7 +558,7 @@ P.S. Alris, please break your new posts in smaller paragraphs, separated by empt
 
 </div>
 
-<div class="post" data-post-id="37343" data-author="alris" data-date="2016-09-08T20:15:25+00:00">
+<div class="post" data-post-id="37343" data-author="alris" data-date="2016-09-08T20:15:25+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 > **Gorka wrote:**
 > We haven't even discussed issues with TEMP eq either...
@@ -576,7 +576,7 @@ Something forge/autoquest for prime and same thing bought with drachma for non-p
 
 </div>
 
-<div class="post" data-post-id="37344" data-author="*juggleblood*" data-date="2016-09-08T20:43:58+00:00">
+<div class="post" data-post-id="37344" data-author="*juggleblood*" data-date="2016-09-08T20:43:58+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 > **alris wrote:**
 > That brings a question, what is a main purpose of drachma shops and drachma equipment?
@@ -585,7 +585,7 @@ Yup. I can't think of any principle to apply that would make sense. One thought 
 
 </div>
 
-<div class="post" data-post-id="37345" data-author="alris" data-date="2016-09-09T17:49:02+00:00">
+<div class="post" data-post-id="37345" data-author="alris" data-date="2016-09-09T17:49:02+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 A bit off track from the topic again, but I tried to view drachma shop eq from player point of view.
 
@@ -600,13 +600,13 @@ Seems damage reduction and mvreg are not much worth much as indepentant stats, b
 
 </div>
 
-<div class="post" data-post-id="37346" data-author="*juggleblood*" data-date="2016-09-10T01:48:41+00:00">
+<div class="post" data-post-id="37346" data-author="*juggleblood*" data-date="2016-09-10T01:48:41+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 I'm sure there's plenty of inconsistencies like that because it's such a big job to tackle in an organized fashion. One immortal tries to deal with drachma gear and then other immortals come behind and design new ingame equipment that affects the relative values of the drachma gear. There's not much to be done about it, unless there is someone who wants to take it on as a project. It's not the kind of thing that is done well piecemeal.
 
 </div>
 
-<div class="post" data-post-id="37347" data-author="Teron" data-date="2016-09-10T11:09:21+00:00">
+<div class="post" data-post-id="37347" data-author="Teron" data-date="2016-09-10T11:09:21+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 I guess a common system of value points per stat would solve that problem, because absolutely awesome items will be put in the drachma shop, while the weaker items will be ingame.
 
@@ -622,7 +622,7 @@ And the beauty of it, is that it's not that hard to come up with the point syste
 
 </div>
 
-<div class="post" data-post-id="37349" data-author="alris" data-date="2016-09-11T20:55:48+00:00">
+<div class="post" data-post-id="37349" data-author="alris" data-date="2016-09-11T20:55:48+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 You do realize that stat increments are not equal in value? Compare -.5 gauntlets to -.4 ones and then to -.3 and -.2 ones. How to assign cost to -.1 ac point?
 
@@ -630,7 +630,7 @@ Also, when you allow things like upgrade or constructing equipment with somethin
 
 </div>
 
-<div class="post" data-post-id="37350" data-author="Teron" data-date="2016-09-12T07:12:37+00:00">
+<div class="post" data-post-id="37350" data-author="Teron" data-date="2016-09-12T07:12:37+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 You can calculate how much hps you lose for every -0.1ac, there's a formula for that.
 
@@ -646,7 +646,7 @@ You do have a point that after 9x40 the game is over after a year or two, when y
 
 </div>
 
-<div class="post" data-post-id="37352" data-author="*juggleblood*" data-date="2016-09-12T23:30:41+00:00">
+<div class="post" data-post-id="37352" data-author="*juggleblood*" data-date="2016-09-12T23:30:41+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
 The 9x40 thing was just a hypothetical for discussion. I don't have plans for such.
 

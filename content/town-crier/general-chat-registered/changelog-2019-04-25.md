@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39178" data-author="*teker*" data-date="2019-04-25T16:56:33+00:00">
+<div class="post" data-post-id="39178" data-author="*teker*" data-date="2019-04-25T16:56:33+00:00" data-subject="Changelog 2019-04-25">
 
 As posted elsewhere, BONUS_WEAPON_DAMAGE is fixed.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30876" data-author="Thraxas" data-date="2010-02-10T09:11:40+00:00">
+<div class="post" data-post-id="30876" data-author="Thraxas" data-date="2010-02-10T09:11:40+00:00" data-subject="TMC - Rank #2">
 
 [quote:2phev6a5]Mud Name Connection Stats Votes Cast 
 

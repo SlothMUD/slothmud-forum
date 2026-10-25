@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="17421" data-author="Hades" data-date="2007-03-24T01:32:41+00:00">
+<div class="post" data-post-id="17421" data-author="Hades" data-date="2007-03-24T01:32:41+00:00" data-subject="Spell and Skill Idea or Help me pthief">
 
 Mage skill-- Identify spell
 
@@ -30,7 +30,7 @@ If successul, target caster will either nocast or mosscast for a certain length 
 
 </div>
 
-<div class="post" data-post-id="17422" data-author="Weasel" data-date="2007-03-24T02:32:11+00:00">
+<div class="post" data-post-id="17422" data-author="Weasel" data-date="2007-03-24T02:32:11+00:00" data-subject="Re: Spell and Skill Idea or Help me pthief">
 
 Thief Skill- Snatch<target>
 
@@ -42,7 +42,7 @@ nice try though.
 
 </div>
 
-<div class="post" data-post-id="17423" data-author="Hades" data-date="2007-03-24T02:41:35+00:00">
+<div class="post" data-post-id="17423" data-author="Hades" data-date="2007-03-24T02:41:35+00:00" data-subject="weasel">
 
 Alot of things that couldn't seen have happening are already are.
 
@@ -50,7 +50,7 @@ So there
 
 </div>
 
-<div class="post" data-post-id="17424" data-author="Weasel" data-date="2007-03-24T02:45:13+00:00">
+<div class="post" data-post-id="17424" data-author="Weasel" data-date="2007-03-24T02:45:13+00:00" data-subject="Re: weasel">
 
 Alot of things that couldn't seen have happening are already are.
 
@@ -60,7 +60,7 @@ dude.. how many beers have you had tonight?  :P
 
 </div>
 
-<div class="post" data-post-id="17425" data-author="Hades" data-date="2007-03-24T03:41:26+00:00">
+<div class="post" data-post-id="17425" data-author="Hades" data-date="2007-03-24T03:41:26+00:00" data-subject="Weasel: Re">
 
 Neno, just don't see point why is it not something that is implemented.
 
@@ -70,7 +70,7 @@ weav
 
 </div>
 
-<div class="post" data-post-id="17426" data-author="Weasel" data-date="2007-03-24T03:52:47+00:00">
+<div class="post" data-post-id="17426" data-author="Weasel" data-date="2007-03-24T03:52:47+00:00" data-subject="">
 
 Kewl. I gots an idea too: a pulse spell available to all classes which specifically targets pthieves and has a sloth-wide range, which when used wipes all pthieves online, all their alts, returns everything they ever stole back to the rightful owners, and then sends that same pulse back to fry the pthief's CPU, just to make sure they get the hint.
 
@@ -80,7 +80,7 @@ Yes, this be a good idea indeed.
 
 </div>
 
-<div class="post" data-post-id="17427" data-author="Hades" data-date="2007-03-24T04:01:48+00:00">
+<div class="post" data-post-id="17427" data-author="Hades" data-date="2007-03-24T04:01:48+00:00" data-subject="I got ya pulse right here">
 
 It's a psionist skill and no psionist class  gamein at momment.  But other skills liek they are have been in for the classes so making them usefulable would no take much to make ingame.  And since not againt the rules of pthiefing then sloth shouldnt diskouraged such changes if they game added to play 
 
@@ -88,7 +88,7 @@ such as
 
 </div>
 
-<div class="post" data-post-id="17428" data-author="Weasel" data-date="2007-03-24T04:16:53+00:00">
+<div class="post" data-post-id="17428" data-author="Weasel" data-date="2007-03-24T04:16:53+00:00" data-subject="">
 
 If I understand your suggestions correctly, your Fumble skill idea is effectively available already with the 'silence' spell, which can be very handy in the right situation.
 
@@ -100,7 +100,7 @@ The Pthief one though.. really, how do you *not* see that being excessively adva
 
 </div>
 
-<div class="post" data-post-id="17430" data-author="Yasik" data-date="2007-03-24T08:14:11+00:00">
+<div class="post" data-post-id="17430" data-author="Yasik" data-date="2007-03-24T08:14:11+00:00" data-subject="Re: Spell and Skill Idea or Help me pthief">
 
 Innate ability of any class and level, given with creation of character - [b:2gezlqoe]Uberness[/b:2gezlqoe]
 
@@ -108,7 +108,7 @@ This will transefer a targeted player to caster, force a victim rem all, give al
 
 </div>
 
-<div class="post" data-post-id="17436" data-author="12345" data-date="2007-03-24T18:43:47+00:00">
+<div class="post" data-post-id="17436" data-author="12345" data-date="2007-03-24T18:43:47+00:00" data-subject="">
 
 Well, I've finally figured it out.  Weasel = Hades.
 
@@ -116,7 +116,7 @@ targetting --> ( O)(o )
 
 </div>
 
-<div class="post" data-post-id="17437" data-author="Hades" data-date="2007-03-24T22:03:36+00:00">
+<div class="post" data-post-id="17437" data-author="Hades" data-date="2007-03-24T22:03:36+00:00" data-subject="Well, I finally figured it out">
 
 12345 is 13
 
@@ -128,7 +128,7 @@ Boo Yah
 
 </div>
 
-<div class="post" data-post-id="17438" data-author="12345" data-date="2007-03-25T01:55:44+00:00">
+<div class="post" data-post-id="17438" data-author="12345" data-date="2007-03-25T01:55:44+00:00" data-subject="">
 
 Congrats, you win a cookie!
 
@@ -136,7 +136,7 @@ Congrats, you win a cookie!
 
 </div>
 
-<div class="post" data-post-id="17439" data-author="Hades" data-date="2007-03-25T03:54:52+00:00">
+<div class="post" data-post-id="17439" data-author="Hades" data-date="2007-03-25T03:54:52+00:00" data-subject="Congrats, you win my love">
 
 Dear 12345,
 
@@ -148,13 +148,13 @@ Me
 
 </div>
 
-<div class="post" data-post-id="17440" data-author="12345" data-date="2007-03-25T05:20:09+00:00">
+<div class="post" data-post-id="17440" data-author="12345" data-date="2007-03-25T05:20:09+00:00" data-subject="">
 
 Will you marry me?
 
 </div>
 
-<div class="post" data-post-id="17441" data-author="Weasel" data-date="2007-03-25T05:34:46+00:00">
+<div class="post" data-post-id="17441" data-author="Weasel" data-date="2007-03-25T05:34:46+00:00" data-subject="">
 
 Yes, it's always nice to kick back and watch two mobs wipe each other out.
 

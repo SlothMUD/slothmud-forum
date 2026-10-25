@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="24409" data-author="*juggleblood*" data-date="2008-05-20T13:48:59+00:00">
+<div class="post" data-post-id="24409" data-author="*juggleblood*" data-date="2008-05-20T13:48:59+00:00" data-subject="classo and naked thac0">
 
 does warrior or monk position in classo affect your naked thac0? 
 

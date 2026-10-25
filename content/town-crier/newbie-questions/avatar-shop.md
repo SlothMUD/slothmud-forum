@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33610" data-author="cyprimus" data-date="2012-09-15T12:06:22+00:00">
+<div class="post" data-post-id="33610" data-author="cyprimus" data-date="2012-09-15T12:06:22+00:00" data-subject="avatar shop">
 
 Several ppl asked about what you can get as a max avvie in the avatar shop.  This is the most recent list.  Cizin posted one earlier, you can compare them to see whats possible, and get a better idea how things work.
 

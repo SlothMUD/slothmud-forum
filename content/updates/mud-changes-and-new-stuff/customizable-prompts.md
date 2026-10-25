@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="3520" data-author="*Splork*" data-date="2004-12-23T08:45:53+00:00">
+<div class="post" data-post-id="3520" data-author="*Splork*" data-date="2004-12-23T08:45:53+00:00" data-subject="Customizable prompts">
 
 We have added the ability to customize your prompt.
 
@@ -24,7 +24,7 @@ A big thanks to Kjartan for throwing this together so quickly.
 
 </div>
 
-<div class="post" data-post-id="3524" data-author="kjartan" data-date="2004-12-24T05:02:13+00:00">
+<div class="post" data-post-id="3524" data-author="kjartan" data-date="2004-12-24T05:02:13+00:00" data-subject="">
 
 After the next reboot, the $t option should work and there's also $a for armor class, if you're level 8 or above.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="39893" data-author="Gorka" data-date="2022-03-02T07:52:13+00:00">
+<div class="post" data-post-id="39893" data-author="Gorka" data-date="2022-03-02T07:52:13+00:00" data-subject="Saves Petri / Poison / Breathe / Para">
 
 A long time ago it was asked about the usefulness of the different types of saves in sloth, as it is perceived that almost all the different types of saves, except spell_saves are pretty useless. Some fairly vague answers were given... and now that we have the conquest system, the question has arisen again... should I waste conquest points on buying those extra saves. I've done some research in the nearly 20 year old code leak to try and find some answers.
 
@@ -30,7 +30,7 @@ SAVES_SPELL - Is by the far one of the most important variables in the game, and
 
 </div>
 
-<div class="post" data-post-id="39895" data-author="cnl" data-date="2022-03-03T19:53:42+00:00">
+<div class="post" data-post-id="39895" data-author="cnl" data-date="2022-03-03T19:53:42+00:00" data-subject="Re: Saves Petri / Poison / Breathe / Para">
 
 If you are a druid using forms you want the saves that go with your attack.
 
@@ -40,7 +40,7 @@ when I was a new player the thing that was confusing to me is that these SAVES a
 
 </div>
 
-<div class="post" data-post-id="40080" data-author="Insomnia" data-date="2023-11-22T11:41:23+00:00">
+<div class="post" data-post-id="40080" data-author="Insomnia" data-date="2023-11-22T11:41:23+00:00" data-subject="Re: Saves Petri / Poison / Breathe / Para">
 
 Just found this post... is there a specific reason why Paralyzation is special? Honestly looks like a bug to me, that I can't get above 3.
 
@@ -54,7 +54,7 @@ Just found this post... is there a specific reason why Paralyzation is special? 
 
 </div>
 
-<div class="post" data-post-id="40082" data-author="*Idjit*" data-date="2023-11-29T07:04:18+00:00">
+<div class="post" data-post-id="40082" data-author="*Idjit*" data-date="2023-11-29T07:04:18+00:00" data-subject="Re: Saves Petri / Poison / Breathe / Para">
 
 yes there is
 

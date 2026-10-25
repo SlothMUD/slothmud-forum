@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38433" data-author="*teker*" data-date="2017-10-05T14:24:39+00:00">
+<div class="post" data-post-id="38433" data-author="*teker*" data-date="2017-10-05T14:24:39+00:00" data-subject="Changelog 2017-10-05">
 
 Fixed a bug that was corrupting PFiles on rent.  Luckily only one person found this.
 

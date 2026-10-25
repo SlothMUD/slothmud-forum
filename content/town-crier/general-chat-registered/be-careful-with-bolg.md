@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="34183" data-author="Agni" data-date="2013-03-26T10:48:02+00:00">
+<div class="post" data-post-id="34183" data-author="Agni" data-date="2013-03-26T10:48:02+00:00" data-subject="be careful with Bolg">
 
 looks like it changed, hitting harder , more exp and something more:
 
@@ -62,7 +62,7 @@ Your breathing suddenly becomes more labored...
 
 </div>
 
-<div class="post" data-post-id="34184" data-author="Agni" data-date="2013-03-26T11:38:29+00:00">
+<div class="post" data-post-id="34184" data-author="Agni" data-date="2013-03-26T11:38:29+00:00" data-subject="Re: be careful with Bolg">
 
 not sure if it work as intended, but happened twice out of 3 times I tried it.
 
@@ -94,31 +94,31 @@ Lie still; you are DEAD!!! :-(
 
 </div>
 
-<div class="post" data-post-id="34185" data-author="*juggleblood*" data-date="2013-03-26T12:49:01+00:00">
+<div class="post" data-post-id="34185" data-author="*juggleblood*" data-date="2013-03-26T12:49:01+00:00" data-subject="Re: be careful with Bolg">
 
 I couldn't decide between removing his honor or giving him a death proc. If he's an epic mob, he's sposed to kill people. I turned the damage and frequency down a bit on the death proc tho just now.
 
 </div>
 
-<div class="post" data-post-id="34186" data-author="Dragoth" data-date="2013-03-26T14:31:13+00:00">
+<div class="post" data-post-id="34186" data-author="Dragoth" data-date="2013-03-26T14:31:13+00:00" data-subject="Re: be careful with Bolg">
 
 There are also urds in kobolds and baen sidhi's in fairies that give very nice honor, dont forget to add death procs on those.
 
 </div>
 
-<div class="post" data-post-id="34189" data-author="*juggleblood*" data-date="2013-03-26T21:53:58+00:00">
+<div class="post" data-post-id="34189" data-author="*juggleblood*" data-date="2013-03-26T21:53:58+00:00" data-subject="Re: be careful with Bolg">
 
 Good call.
 
 </div>
 
-<div class="post" data-post-id="34190" data-author="Sleeping Forest" data-date="2013-03-26T22:02:56+00:00">
+<div class="post" data-post-id="34190" data-author="Sleeping Forest" data-date="2013-03-26T22:02:56+00:00" data-subject="Re: be careful with Bolg">
 
 -1
 
 </div>
 
-<div class="post" data-post-id="34191" data-author="Toxis" data-date="2013-03-27T05:23:18+00:00">
+<div class="post" data-post-id="34191" data-author="Toxis" data-date="2013-03-27T05:23:18+00:00" data-subject="Re: be careful with Bolg">
 
 Death proc in a newbie area... let's just think about this.
 
@@ -128,7 +128,7 @@ This is sad because bolg and baen sidhes and raiders were a fun way to get honor
 
 </div>
 
-<div class="post" data-post-id="34192" data-author="*juggleblood*" data-date="2013-03-27T11:56:44+00:00">
+<div class="post" data-post-id="34192" data-author="*juggleblood*" data-date="2013-03-27T11:56:44+00:00" data-subject="Re: be careful with Bolg">
 
 It would be certain death for a newbie to try to kill bolg with or without the deathproc. No?
 

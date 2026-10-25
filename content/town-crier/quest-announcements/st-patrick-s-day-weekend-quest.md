@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39394" data-author="*Idjit*" data-date="2020-03-14T02:33:24+00:00">
+<div class="post" data-post-id="39394" data-author="*Idjit*" data-date="2020-03-14T02:33:24+00:00" data-subject="St. Patrick&#x27;s Day Weekend Quest">
 
 Good evening Slothers,
 

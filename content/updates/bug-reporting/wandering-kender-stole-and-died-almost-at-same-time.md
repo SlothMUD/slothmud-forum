@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31697" data-author="Kelgar" data-date="2010-09-03T19:51:24+00:00">
+<div class="post" data-post-id="31697" data-author="Kelgar" data-date="2010-09-03T19:51:24+00:00" data-subject="Wandering Kender stole and died almost at same time">
 
 Dear Administration,
 
@@ -22,7 +22,7 @@ Could  it be a bug?
 
 </div>
 
-<div class="post" data-post-id="31702" data-author="Kelgar" data-date="2010-09-04T06:23:16+00:00">
+<div class="post" data-post-id="31702" data-author="Kelgar" data-date="2010-09-04T06:23:16+00:00" data-subject="Re: Wandering Kender stole and died almost at same time">
 
 I am sorry, somehow my backpack was found in AF after I logged off by Greedo and Lereon. 
 

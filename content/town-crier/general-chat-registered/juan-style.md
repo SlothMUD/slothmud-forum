@@ -10,7 +10,7 @@ locked: false
 post_count: 28
 ---
 
-<div class="post" data-post-id="13997" data-author="Diazz_Dizazter" data-date="2006-09-12T18:40:00+00:00">
+<div class="post" data-post-id="13997" data-author="Diazz_Dizazter" data-date="2006-09-12T18:40:00+00:00" data-subject="Juan style...">
 
 Paying attention is good I guess.  
 
@@ -430,25 +430,25 @@ Lie still; you are DEAD!!! :-(
 
 </div>
 
-<div class="post" data-post-id="13998" data-author="Diazz_Dizazter" data-date="2006-09-12T18:41:58+00:00">
+<div class="post" data-post-id="13998" data-author="Diazz_Dizazter" data-date="2006-09-12T18:41:58+00:00" data-subject="">
 
 If You survive a juan style, post one here :)
 
 </div>
 
-<div class="post" data-post-id="14001" data-author="Leaf" data-date="2006-09-12T21:15:16+00:00">
+<div class="post" data-post-id="14001" data-author="Leaf" data-date="2006-09-12T21:15:16+00:00" data-subject="">
 
 Ur Iron Skin fell also.
 
 </div>
 
-<div class="post" data-post-id="14030" data-author="Daisy" data-date="2006-09-14T09:20:56+00:00">
+<div class="post" data-post-id="14030" data-author="Daisy" data-date="2006-09-14T09:20:56+00:00" data-subject="">
 
 excuse my ignorance ... but what is Juan style?
 
 </div>
 
-<div class="post" data-post-id="14031" data-author="Diazz_Dizazter" data-date="2006-09-14T11:05:05+00:00">
+<div class="post" data-post-id="14031" data-author="Diazz_Dizazter" data-date="2006-09-14T11:05:05+00:00" data-subject="">
 
 The accidental (or purposeful) killing of mobs with no sanc/aegis.  
 
@@ -456,7 +456,7 @@ usualy juan style of mobs results in death, though sometimes you can live.
 
 </div>
 
-<div class="post" data-post-id="14032" data-author="13" data-date="2006-09-14T12:13:15+00:00">
+<div class="post" data-post-id="14032" data-author="13" data-date="2006-09-14T12:13:15+00:00" data-subject="">
 
 There was this guy, Rick, and he played a character named Riko.  But Riko
 
@@ -468,7 +468,7 @@ Juan-style.  That would be my Wikipedia entry for it.
 
 </div>
 
-<div class="post" data-post-id="14033" data-author="Diazz_Dizazter" data-date="2006-09-14T12:32:41+00:00">
+<div class="post" data-post-id="14033" data-author="Diazz_Dizazter" data-date="2006-09-14T12:32:41+00:00" data-subject="">
 
 Billybob and Riko in the Sky Elves, who woulda thought.
 
@@ -476,7 +476,7 @@ I almost posted that earlier but opted not too.
 
 </div>
 
-<div class="post" data-post-id="14034" data-author="Krok" data-date="2006-09-14T13:00:12+00:00">
+<div class="post" data-post-id="14034" data-author="Krok" data-date="2006-09-14T13:00:12+00:00" data-subject="">
 
 Term
 
@@ -490,7 +490,7 @@ Library --> Sloth Slang
 
 </div>
 
-<div class="post" data-post-id="14035" data-author="Diazz_Dizazter" data-date="2006-09-14T14:39:40+00:00">
+<div class="post" data-post-id="14035" data-author="Diazz_Dizazter" data-date="2006-09-14T14:39:40+00:00" data-subject="Diazz style">
 
 Diazz style.  Saddly forgetting to switch to run-mode to kill a mob, and killing
 
@@ -780,7 +780,7 @@ You gossip-- 'muahahahahahahahaha'
 
 </div>
 
-<div class="post" data-post-id="14036" data-author="Alberich" data-date="2006-09-14T15:42:24+00:00">
+<div class="post" data-post-id="14036" data-author="Alberich" data-date="2006-09-14T15:42:24+00:00" data-subject="">
 
 yeah sanc helps...
 
@@ -820,7 +820,7 @@ You have been KILLED!!
 
 </div>
 
-<div class="post" data-post-id="14037" data-author="13" data-date="2006-09-14T21:33:14+00:00">
+<div class="post" data-post-id="14037" data-author="13" data-date="2006-09-14T21:33:14+00:00" data-subject="">
 
 <690hp 268ma 104mv><15541478xp>
 
@@ -962,7 +962,7 @@ A warm feeling fills your body.
 
 </div>
 
-<div class="post" data-post-id="14099" data-author="Diazz_Dizazter" data-date="2006-09-17T03:43:02+00:00">
+<div class="post" data-post-id="14099" data-author="Diazz_Dizazter" data-date="2006-09-17T03:43:02+00:00" data-subject="">
 
 <861hp 379ma 108mv> 1180943873 360025 -10.0 +9
 
@@ -1168,7 +1168,7 @@ You are affected by the following spells:
 
 </div>
 
-<div class="post" data-post-id="14111" data-author="osric" data-date="2006-09-17T17:54:11+00:00">
+<div class="post" data-post-id="14111" data-author="osric" data-date="2006-09-17T17:54:11+00:00" data-subject="">
 
 The Things I Do for a lousy 2mil xp!
 
@@ -1638,7 +1638,7 @@ Heh  :roll:
 
 </div>
 
-<div class="post" data-post-id="14116" data-author="Diazz_Dizazter" data-date="2006-09-17T18:31:18+00:00">
+<div class="post" data-post-id="14116" data-author="Diazz_Dizazter" data-date="2006-09-17T18:31:18+00:00" data-subject="">
 
 Good one!
 
@@ -1648,7 +1648,7 @@ I either do 5-6 and a couple foots/monks, or I do like 2 elites and regen.
 
 </div>
 
-<div class="post" data-post-id="14117" data-author="dieSprout" data-date="2006-09-17T18:41:41+00:00">
+<div class="post" data-post-id="14117" data-author="dieSprout" data-date="2006-09-17T18:41:41+00:00" data-subject="">
 
 "There was this guy, Rick, and he played a character named Riko. But Riko
 
@@ -1668,19 +1668,19 @@ Not that I needed it anyway.  Hence Juan style.
 
 </div>
 
-<div class="post" data-post-id="14118" data-author="Diazz_Dizazter" data-date="2006-09-17T19:15:52+00:00">
+<div class="post" data-post-id="14118" data-author="Diazz_Dizazter" data-date="2006-09-17T19:15:52+00:00" data-subject="">
 
 I remeber spin :)
 
 </div>
 
-<div class="post" data-post-id="14131" data-author="osric" data-date="2006-09-18T16:32:48+00:00">
+<div class="post" data-post-id="14131" data-author="osric" data-date="2006-09-18T16:32:48+00:00" data-subject="">
 
 Elites suck, but they are entertaining!
 
 </div>
 
-<div class="post" data-post-id="14132" data-author="Toxis" data-date="2006-09-18T17:08:02+00:00">
+<div class="post" data-post-id="14132" data-author="Toxis" data-date="2006-09-18T17:08:02+00:00" data-subject="what I remember">
 
 Here's how I recall it from my standpoint....
 
@@ -1694,7 +1694,7 @@ Someone called out "Juan style!  Juan's tanks don't need sanc!"   And that's wha
 
 </div>
 
-<div class="post" data-post-id="14163" data-author="Diazz_Dizazter" data-date="2006-09-19T16:49:34+00:00">
+<div class="post" data-post-id="14163" data-author="Diazz_Dizazter" data-date="2006-09-19T16:49:34+00:00" data-subject="">
 
 Does this count.  
 
@@ -1792,7 +1792,7 @@ Lie still; you are DEAD!!! :-(
 
 </div>
 
-<div class="post" data-post-id="14208" data-author="Diazz_Dizazter" data-date="2006-09-21T20:29:00+00:00">
+<div class="post" data-post-id="14208" data-author="Diazz_Dizazter" data-date="2006-09-21T20:29:00+00:00" data-subject="">
 
 No sanc, at +1.8 ac.  Bad Kell Bad :(
 
@@ -1898,7 +1898,7 @@ Diazz[hosers]> 'sigh'
 
 </div>
 
-<div class="post" data-post-id="14209" data-author="Clink" data-date="2006-09-21T21:36:03+00:00">
+<div class="post" data-post-id="14209" data-author="Clink" data-date="2006-09-21T21:36:03+00:00" data-subject="">
 
 For the record, I would attest to the origin as described by DieSprout.
 
@@ -1906,7 +1906,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="14230" data-author="Diazz_Dizazter" data-date="2006-09-22T13:08:49+00:00">
+<div class="post" data-post-id="14230" data-author="Diazz_Dizazter" data-date="2006-09-22T13:08:49+00:00" data-subject="">
 
 Yet another one...
 
@@ -1994,7 +1994,7 @@ You split 29000 coins.  You keep 14500 coins.
 
 </div>
 
-<div class="post" data-post-id="14669" data-author="Corinn" data-date="2006-10-18T23:27:39+00:00">
+<div class="post" data-post-id="14669" data-author="Corinn" data-date="2006-10-18T23:27:39+00:00" data-subject="">
 
 A Bone Filled Dead End
 
@@ -2062,13 +2062,13 @@ Lie still; you are DEAD!!! :-(
 
 </div>
 
-<div class="post" data-post-id="14670" data-author="13" data-date="2006-10-18T23:53:04+00:00">
+<div class="post" data-post-id="14670" data-author="13" data-date="2006-10-18T23:53:04+00:00" data-subject="">
 
 I always say, if you ain't dyin', you ain't tryin'.
 
 </div>
 
-<div class="post" data-post-id="14701" data-author="Vixn" data-date="2006-10-20T20:14:44+00:00">
+<div class="post" data-post-id="14701" data-author="Vixn" data-date="2006-10-20T20:14:44+00:00" data-subject="">
 
 [quote:32emm9uj]** Gargon fought against Gargon and lost at 1 o'clock pm on the Day of the Moon
 
@@ -2126,13 +2126,13 @@ I always say, if you ain't dyin', you ain't tryin'.
 
 </div>
 
-<div class="post" data-post-id="14703" data-author="13" data-date="2006-10-20T20:35:57+00:00">
+<div class="post" data-post-id="14703" data-author="13" data-date="2006-10-20T20:35:57+00:00" data-subject="">
 
 wtf is that edd?
 
 </div>
 
-<div class="post" data-post-id="14704" data-author="Mike" data-date="2006-10-20T21:46:52+00:00">
+<div class="post" data-post-id="14704" data-author="Mike" data-date="2006-10-20T21:46:52+00:00" data-subject="">
 
 Some spam from this list   :) 
 
@@ -2140,7 +2140,7 @@ Some spam from this list   :)
 
 </div>
 
-<div class="post" data-post-id="14705" data-author="13" data-date="2006-10-21T00:16:42+00:00">
+<div class="post" data-post-id="14705" data-author="13" data-date="2006-10-21T00:16:42+00:00" data-subject="">
 
 just what in the fuck is all that shit?
 

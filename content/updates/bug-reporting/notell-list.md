@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31932" data-author="Tuck" data-date="2010-10-27T00:18:00+00:00">
+<div class="post" data-post-id="31932" data-author="Tuck" data-date="2010-10-27T00:18:00+00:00" data-subject="Notell list">
 
 I was reporting it before, but it still does not fixed.
 
@@ -22,7 +22,7 @@ thanks in advance
 
 </div>
 
-<div class="post" data-post-id="32008" data-author="Tuck" data-date="2010-11-12T22:59:23+00:00">
+<div class="post" data-post-id="32008" data-author="Tuck" data-date="2010-11-12T22:59:23+00:00" data-subject="Re: Notell list">
 
 bump
 

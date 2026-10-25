@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="31716" data-author="*Neptune*" data-date="2010-09-06T19:05:09+00:00">
+<div class="post" data-post-id="31716" data-author="*Neptune*" data-date="2010-09-06T19:05:09+00:00" data-subject="The Legend of the Thalassian Pirates">
 
 Recently uncovered from an ancient scroll, I submit for your viewing
 
@@ -242,7 +242,7 @@ insolence, and the power of the gods.
 
 </div>
 
-<div class="post" data-post-id="31717" data-author="*Splork*" data-date="2010-09-06T19:49:22+00:00">
+<div class="post" data-post-id="31717" data-author="*Splork*" data-date="2010-09-06T19:49:22+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
 *Immortals of SlothMUD*
 
@@ -382,7 +382,7 @@ Cizin is leading 'Cizin's Unstoppable Council' on The Island:
 
 </div>
 
-<div class="post" data-post-id="31724" data-author="*Splork*" data-date="2010-09-07T02:33:53+00:00">
+<div class="post" data-post-id="31724" data-author="*Splork*" data-date="2010-09-07T02:33:53+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
 We would like comments on the equipment in Neptune's new area. Please keep them constructive. I think there were a few very nice items and I know the restrictions for some may need adjusting. 
 
@@ -392,7 +392,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31725" data-author="blackmore" data-date="2010-09-07T03:05:15+00:00">
+<div class="post" data-post-id="31725" data-author="blackmore" data-date="2010-09-07T03:05:15+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
 The max_con helm was very nice.  I'm curious how it relates to the other 1.2ac +con helm ingame (dark helm), since nobody's popped it in S4 yet.  It was one of the items I expected to find had been changed to max_con, but now there's a 1.2 +max_con helm ingame already, and probably on a mob much more likely to be run.
 
@@ -402,7 +402,7 @@ None of the others were the kind of item that you would intentionally run an are
 
 </div>
 
-<div class="post" data-post-id="31726" data-author="jezer" data-date="2010-09-07T05:34:34+00:00">
+<div class="post" data-post-id="31726" data-author="jezer" data-date="2010-09-07T05:34:34+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
 I'm unsure how much hp MAX_CON adds... but would like to point out there are plenty of good -1.2 helmets out there with +hp and in this respect I wonder if they are better than a MAX_CON helmet.
 
@@ -414,7 +414,7 @@ The monk gloves will not be considered worth wearing by serious monks, however a
 
 </div>
 
-<div class="post" data-post-id="31730" data-author="Cizin" data-date="2010-09-07T07:13:30+00:00">
+<div class="post" data-post-id="31730" data-author="Cizin" data-date="2010-09-07T07:13:30+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
 I think its great you are working on better monk eq altho I think those monk gloves really need some upgrade. I liked Robert's crimson set especially taht corset. Can't wait to try it home at home behind closed doors !
 
@@ -428,7 +428,7 @@ Cizin
 
 </div>
 
-<div class="post" data-post-id="31732" data-author="Skyv" data-date="2010-09-07T12:55:50+00:00">
+<div class="post" data-post-id="31732" data-author="Skyv" data-date="2010-09-07T12:55:50+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
 It was definitely a fun group (thanks for leading Cizin) and I was given a few options for equipment at the end which was much appreciated.  I ended up with the tri-cornered hat.  I have to admit, I was hoping for a little more than a 23 hitpoint bump for the MAX_CON when that's my primary stat (maybe has something to do with my classo being all caster after monk?) but am happy with what I got.
 
@@ -444,7 +444,7 @@ Skyv
 
 </div>
 
-<div class="post" data-post-id="31733" data-author="Thraxas" data-date="2010-09-07T15:03:33+00:00">
+<div class="post" data-post-id="31733" data-author="Thraxas" data-date="2010-09-07T15:03:33+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
 > **Skyv wrote:**
 > Is it within the realm of possibility to get some sort of rune unsocketing mob that charges an appropriately hefty amount (something similar to switching 3x40 equipment) set up to address situations like this?
@@ -453,7 +453,7 @@ well said
 
 </div>
 
-<div class="post" data-post-id="31734" data-author="blackmore" data-date="2010-09-07T18:18:41+00:00">
+<div class="post" data-post-id="31734" data-author="blackmore" data-date="2010-09-07T18:18:41+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
 A couple more thoughts...
 
@@ -463,7 +463,7 @@ One item said it was resist_light and another said it was resist_water.  None of
 
 </div>
 
-<div class="post" data-post-id="31736" data-author="blackmore" data-date="2010-09-08T00:47:43+00:00">
+<div class="post" data-post-id="31736" data-author="blackmore" data-date="2010-09-08T00:47:43+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
 2 new forges just announced  at Fornax.
 

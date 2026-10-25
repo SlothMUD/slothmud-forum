@@ -10,13 +10,13 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="11269" data-author="Guinex" data-date="2006-03-14T21:10:26+00:00">
+<div class="post" data-post-id="11269" data-author="Guinex" data-date="2006-03-14T21:10:26+00:00" data-subject="Lost/Stolen HELP!">
 
 I seem to have either lost or had my leather gloves pthieved! :( If you have them or know how I may acquire another pair please let me know at any cost.
 
 </div>
 
-<div class="post" data-post-id="11270" data-author="Autolycos" data-date="2006-03-14T21:23:53+00:00">
+<div class="post" data-post-id="11270" data-author="Autolycos" data-date="2006-03-14T21:23:53+00:00" data-subject="">
 
 oh no! *comf guinex...    who would do such a terrible thing?...   my barrel is missing too... 
 
@@ -34,13 +34,13 @@ a small cloth sack
 
 </div>
 
-<div class="post" data-post-id="11271" data-author="Guinex" data-date="2006-03-14T21:25:10+00:00">
+<div class="post" data-post-id="11271" data-author="Guinex" data-date="2006-03-14T21:25:10+00:00" data-subject="">
 
 Gdamn fockers, well i guess were on a quest to reequip J. :(
 
 </div>
 
-<div class="post" data-post-id="11272" data-author="jezer" data-date="2006-03-14T23:46:38+00:00">
+<div class="post" data-post-id="11272" data-author="jezer" data-date="2006-03-14T23:46:38+00:00" data-subject="">
 
 Haha, thats great!  :D
 
@@ -50,13 +50,13 @@ My services are offered, if you want to form a possie and go after these pthiefi
 
 </div>
 
-<div class="post" data-post-id="11288" data-author="Shara" data-date="2006-03-15T09:00:26+00:00">
+<div class="post" data-post-id="11288" data-author="Shara" data-date="2006-03-15T09:00:26+00:00" data-subject="">
 
 You chant 'killkillkill.'
 
 </div>
 
-<div class="post" data-post-id="11295" data-author="Autolycos" data-date="2006-03-15T12:48:03+00:00">
+<div class="post" data-post-id="11295" data-author="Autolycos" data-date="2006-03-15T12:48:03+00:00" data-subject="">
 
 oh geeeez... didnt anyone notice?
 
@@ -66,7 +66,7 @@ cmon guys!  i laid a good one out in the open :evil:
 
 </div>
 
-<div class="post" data-post-id="11298" data-author="jezer" data-date="2006-03-15T13:50:14+00:00">
+<div class="post" data-post-id="11298" data-author="jezer" data-date="2006-03-15T13:50:14+00:00" data-subject="">
 
 Yes auto we got ur joke... it was a classic...
 
@@ -76,13 +76,13 @@ I mean kill the shopkeeper? come on!  :roll:
 
 </div>
 
-<div class="post" data-post-id="11299" data-author="Blastem" data-date="2006-03-15T14:03:17+00:00">
+<div class="post" data-post-id="11299" data-author="Blastem" data-date="2006-03-15T14:03:17+00:00" data-subject="">
 
 Besides it's more fun to sit back and pretend we didn't see it. That way we can see what kind of incoherent babbling you come up with next...
 
 </div>
 
-<div class="post" data-post-id="11301" data-author="Autolycos" data-date="2006-03-15T14:20:29+00:00">
+<div class="post" data-post-id="11301" data-author="Autolycos" data-date="2006-03-15T14:20:29+00:00" data-subject="">
 
 I mean kill the shopkeeper? come on![/quote:2hhkixtt]
 
@@ -92,7 +92,7 @@ Hey Blastem,  care to elaborate on what happens when you kick a drach shopkeeper
 
 </div>
 
-<div class="post" data-post-id="11304" data-author="Blastem" data-date="2006-03-15T14:22:28+00:00">
+<div class="post" data-post-id="11304" data-author="Blastem" data-date="2006-03-15T14:22:28+00:00" data-subject="">
 
 laugh you die so fast the mob don't even hate ya...
 

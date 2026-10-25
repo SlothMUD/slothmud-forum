@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="37171" data-author="*teker*" data-date="2016-08-05T14:29:34+00:00">
+<div class="post" data-post-id="37171" data-author="*teker*" data-date="2016-08-05T14:29:34+00:00" data-subject="Changelog 2016-08-05 - skills / spells">
 
 I've added some logging so we can track how much damage everyone is doing with their skills.  It'll help me to see what kind of damage the skills do to make tweaking easier.  The following changes have been implemented:
 
@@ -38,7 +38,7 @@ I haven't changed the damage until I can see the log results.  It looked like fl
 
 </div>
 
-<div class="post" data-post-id="37172" data-author="Teron" data-date="2016-08-05T14:44:45+00:00">
+<div class="post" data-post-id="37172" data-author="Teron" data-date="2016-08-05T14:44:45+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 Thanks. Testing atm.
 
@@ -46,13 +46,13 @@ What about riposte with the hammer or when mist is up?
 
 </div>
 
-<div class="post" data-post-id="37173" data-author="*teker*" data-date="2016-08-05T15:17:00+00:00">
+<div class="post" data-post-id="37173" data-author="*teker*" data-date="2016-08-05T15:17:00+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 Looks to me like riposte works with mist up.  Hammer isn't the right weapon type.
 
 </div>
 
-<div class="post" data-post-id="37174" data-author="Gorka" data-date="2016-08-05T16:03:16+00:00">
+<div class="post" data-post-id="37174" data-author="Gorka" data-date="2016-08-05T16:03:16+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 Thanks Teker, you're awesome!
 
@@ -70,13 +70,13 @@ Hopefully before I reach 9x40 I will get my first piece of weapon damage. I'll e
 
 </div>
 
-<div class="post" data-post-id="37175" data-author="*teker*" data-date="2016-08-05T16:37:35+00:00">
+<div class="post" data-post-id="37175" data-author="*teker*" data-date="2016-08-05T16:37:35+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 The early results show Gorka is getting about a 30% increase in damage.  Some of the higher level warriors are seeing double to triple their original damage.
 
 </div>
 
-<div class="post" data-post-id="37176" data-author="Teron" data-date="2016-08-05T16:51:55+00:00">
+<div class="post" data-post-id="37176" data-author="Teron" data-date="2016-08-05T16:51:55+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 My initial results tell me that my broadside damage went up from 40-80 to consistent 60-80.
 
@@ -92,7 +92,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37177" data-author="Gorka" data-date="2016-08-05T17:22:42+00:00">
+<div class="post" data-post-id="37177" data-author="Gorka" data-date="2016-08-05T17:22:42+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 30%!!!  :shock:  8) 
 
@@ -102,7 +102,7 @@ Does regular dam count in the same way weapon dam counts for broadside? It's far
 
 </div>
 
-<div class="post" data-post-id="37180" data-author="cyprimus" data-date="2016-08-06T04:39:32+00:00">
+<div class="post" data-post-id="37180" data-author="cyprimus" data-date="2016-08-06T04:39:32+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 wow, i got a stun from broadsiding.  Nice.
 
@@ -112,13 +112,13 @@ Good improvement.
 
 </div>
 
-<div class="post" data-post-id="37181" data-author="Gorka" data-date="2016-08-06T05:23:00+00:00">
+<div class="post" data-post-id="37181" data-author="Gorka" data-date="2016-08-06T05:23:00+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 Falling over is still flipping annoying... I've taken it out of my coliseum scripts again, it's still more a nuisance than a help at the moment.
 
 </div>
 
-<div class="post" data-post-id="37182" data-author="Filk" data-date="2016-08-06T05:36:00+00:00">
+<div class="post" data-post-id="37182" data-author="Filk" data-date="2016-08-06T05:36:00+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 Maybe its time to move away from hidden damage numbers and show real numbers after each damage done?  :roll: 
 
@@ -126,7 +126,7 @@ So people will be able to write their own damage meters and everyone will be hap
 
 </div>
 
-<div class="post" data-post-id="37184" data-author="*teker*" data-date="2016-08-06T21:24:41+00:00">
+<div class="post" data-post-id="37184" data-author="*teker*" data-date="2016-08-06T21:24:41+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 > **Teron wrote:**
 > My initial results tell me that my broadside damage went up from 40-80 to consistent 60-80.
@@ -147,7 +147,7 @@ Ask Stun.  He's doing the best damage according to my logs.
 
 </div>
 
-<div class="post" data-post-id="37185" data-author="*juggleblood*" data-date="2016-08-06T23:24:07+00:00">
+<div class="post" data-post-id="37185" data-author="*juggleblood*" data-date="2016-08-06T23:24:07+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 > **Filk wrote:**
 > Maybe its time to move away from hidden damage numbers and show real numbers after each damage done?  :roll: 
@@ -164,7 +164,7 @@ Sorry, I forgot to start by mentioning how much I appreciate the changes mention
 
 </div>
 
-<div class="post" data-post-id="37186" data-author="*Idjit*" data-date="2016-08-07T03:25:46+00:00">
+<div class="post" data-post-id="37186" data-author="*Idjit*" data-date="2016-08-07T03:25:46+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 In that vein, are we actually happy that melee "work exp" is currently randomized relative to the damage we do?
 
@@ -176,7 +176,7 @@ Maybe we should roll this back.
 
 </div>
 
-<div class="post" data-post-id="37187" data-author="*Breeze*" data-date="2016-08-07T04:32:22+00:00">
+<div class="post" data-post-id="37187" data-author="*Breeze*" data-date="2016-08-07T04:32:22+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 > ***juggleblood* wrote:**
 > > **Filk wrote:**
@@ -208,7 +208,7 @@ after my vacation I may do a test run of something like that actually. just depe
 
 </div>
 
-<div class="post" data-post-id="37188" data-author="Ker" data-date="2016-08-07T06:48:37+00:00">
+<div class="post" data-post-id="37188" data-author="Ker" data-date="2016-08-07T06:48:37+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 Guten Tag Breeze!
 
@@ -226,7 +226,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="37189" data-author="Teron" data-date="2016-08-07T10:47:00+00:00">
+<div class="post" data-post-id="37189" data-author="Teron" data-date="2016-08-07T10:47:00+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 Teker, I'm getting my numbers from the randomized exp counter, from some hours of experience - but, unfortunately, no statistics. Overall, however, say, about 10-20-30 hits, do give a fairly objective, if blurred, picture of damage.
 
@@ -252,7 +252,7 @@ Also, I support the public damage display for skills. It adds satisfaction in se
 
 </div>
 
-<div class="post" data-post-id="37196" data-author="Gorka" data-date="2016-08-07T20:02:14+00:00">
+<div class="post" data-post-id="37196" data-author="Gorka" data-date="2016-08-07T20:02:14+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 Kiss Juggleblood.
 
@@ -274,7 +274,7 @@ That's me for this round.
 
 </div>
 
-<div class="post" data-post-id="37199" data-author="Teron" data-date="2016-08-08T06:14:06+00:00">
+<div class="post" data-post-id="37199" data-author="Teron" data-date="2016-08-08T06:14:06+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 > **Gorka wrote:**
 > Lay off teker guys! It's not his fault that our lack of weapon dam eq still renders broadside pretty undesirable for us mid-bie warriors.
@@ -287,7 +287,7 @@ And so far broadside is still lacking. Teker said there'd be a few tweaks, I hop
 
 </div>
 
-<div class="post" data-post-id="37201" data-author="Gorka" data-date="2016-08-08T09:26:04+00:00">
+<div class="post" data-post-id="37201" data-author="Gorka" data-date="2016-08-08T09:26:04+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 I think weapon damage eq is the cause of the problem though. That is the domain of the builders who add eq, not the coder's like Teker as I understand it.
 
@@ -299,7 +299,7 @@ So to summarise... weapon dam eq is weird, how can you "win" when using weapon d
 
 </div>
 
-<div class="post" data-post-id="37202" data-author="Teron" data-date="2016-08-08T10:24:33+00:00">
+<div class="post" data-post-id="37202" data-author="Teron" data-date="2016-08-08T10:24:33+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 Though Teker should know better, here's what I'd do:
 
@@ -313,7 +313,7 @@ Then again, if flail is supposed to be main damage dealing skill, then the last 
 
 </div>
 
-<div class="post" data-post-id="37208" data-author="*teker*" data-date="2016-08-08T21:31:53+00:00">
+<div class="post" data-post-id="37208" data-author="*teker*" data-date="2016-08-08T21:31:53+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 > **Teron wrote:**
 > As a tank, it means I don't want to use broadside to do miniscule damage, because it lags, or to stun mobs, because there's a chance it'll put me on my back, unable to rescue or heal self.
@@ -330,7 +330,7 @@ We haven't really discussed it on an imm level other than that I was going to tr
 
 </div>
 
-<div class="post" data-post-id="37209" data-author="cyprimus" data-date="2016-08-09T03:07:20+00:00">
+<div class="post" data-post-id="37209" data-author="cyprimus" data-date="2016-08-09T03:07:20+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
 Well. My two cents,  i feel monks have good variety... its just others got the same.. ieeveryone eventually will have grip/strike etc.. 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32693" data-author="*Breeze*" data-date="2011-06-20T09:13:40+00:00">
+<div class="post" data-post-id="32693" data-author="*Breeze*" data-date="2011-06-20T09:13:40+00:00" data-subject="Arms of the Abyss">
 
 On occasion, Arms of the Abyss would hang around after the mob died/phase doored.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="39456" data-author="Gorka" data-date="2020-05-06T09:22:28+00:00">
+<div class="post" data-post-id="39456" data-author="Gorka" data-date="2020-05-06T09:22:28+00:00" data-subject="How to charm mobs and solo entire areas.">
 
 It's recently been stated that charming mobs and wiping entire areas solo is not an exploit... So lets test the theory... ever wanted to run all of dragon mount or draconian lair solo... well it's easy! Stop spending hundreds of hours in groups, or saving 1000 drachma for +1 damage.
 
@@ -96,7 +96,7 @@ Once this is fixed, patched, or removed - make a bard... come tell us how awesom
 
 </div>
 
-<div class="post" data-post-id="39460" data-author="Josiah" data-date="2020-05-06T17:11:36+00:00">
+<div class="post" data-post-id="39460" data-author="Josiah" data-date="2020-05-06T17:11:36+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
 The benefit to being a bard in this situation is what... dance of the seven luck gods? I'm so confused why you conflate charm and bard.
 
@@ -104,13 +104,13 @@ Your list of requirements also omits the part about being strong enough to tank 
 
 </div>
 
-<div class="post" data-post-id="39466" data-author="Driven" data-date="2020-05-08T14:34:02+00:00">
+<div class="post" data-post-id="39466" data-author="Driven" data-date="2020-05-08T14:34:02+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
 IIRC, charmed mobs steal xp from you.  So yes, if you manage to survive the order lag (2 full rounds), and you manage to time the deathblow so that your charmed mob doesn't get the deathblow, then congratz on working your tail off for capped xp.  AFAIK, the only reason to do this is for equipment and/or AQ mobs, but since most of the elite equipment in the game is drachma, and we have so few equipment groups, I don't see how this discourages people from grouping.  How is this any different than mage-styling a mob, or using second wind to cancel strike lag and retreating out?  Am I missing something?
 
 </div>
 
-<div class="post" data-post-id="39467" data-author="Gorka" data-date="2020-05-08T16:41:35+00:00">
+<div class="post" data-post-id="39467" data-author="Gorka" data-date="2020-05-08T16:41:35+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
 > **Driven wrote:**
 > Am I missing something?
@@ -119,13 +119,13 @@ Yes, it's massively OP, more than anything else in the game. Funny how all you b
 
 </div>
 
-<div class="post" data-post-id="39468" data-author="Driven" data-date="2020-05-08T16:54:36+00:00">
+<div class="post" data-post-id="39468" data-author="Driven" data-date="2020-05-08T16:54:36+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
 And how is strike, second wind, retreat not just as OP?  I would argue strike/second wind/retreat is even more OP because it requires no skin in the game whatsoever, and there is literally no limit to the size of the mob you can kill, whereas followers have a very real limit.  And yet you haven't stood on your high horse and declared how OP it is, demanding that it be fixed... no, you have quietly used it.  Over and over and over again.
 
 </div>
 
-<div class="post" data-post-id="39469" data-author="Gorka" data-date="2020-05-08T17:46:31+00:00">
+<div class="post" data-post-id="39469" data-author="Gorka" data-date="2020-05-08T17:46:31+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
 Yeah, good one Driven... Wanna tell everyone who you asked to teach you the trick? You also know full well you don't need second wind to do it either... Phi demonstrated this on Lucifer yesterday. Also you will find in the topics on this forum regarding second wind that I believe it should be nerfed to only work with skills and not spells.
 
@@ -173,7 +173,7 @@ MOB : Spider Leng	LVL : 41	AREA : Valley of R'Lyeh	29366233
 
 </div>
 
-<div class="post" data-post-id="39470" data-author="Hung" data-date="2020-05-08T17:51:16+00:00">
+<div class="post" data-post-id="39470" data-author="Hung" data-date="2020-05-08T17:51:16+00:00" data-subject="Game Inbalances">
 
 I agree that charms are OP. However I agree either that this feature is justified due to struggles of making eq group nowadays.
 
@@ -197,7 +197,7 @@ I'd suggest to make higher level pets buff and even heal themselves.
 
 </div>
 
-<div class="post" data-post-id="39471" data-author="Gorka" data-date="2020-05-08T18:27:11+00:00">
+<div class="post" data-post-id="39471" data-author="Gorka" data-date="2020-05-08T18:27:11+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
 Not one of the "elite" charmable mobs matches the level of the mobs that are in the same xp group as them. It's clearly an oversight. Only mobs below/equal lvl 40 are charmable, and there aren't actually many good ones... 40's are nearly impossible to charm in most cases. The ones that are good, are mistakes or unintentional exploits by corrupted or ignorant builders. Because no sane immortal charges 1000 drachma for +1 damage, then allows for 5 vicious attacks, blasting double sized Gorka followers so cheaply. And the people who defend that clearly live outside the rules of the understandings given to the common players in this game.
 
@@ -269,7 +269,7 @@ MOB : soft shelled turtle	LVL : 41	AREA : Ch'ung Kuo	6863223
 
 </div>
 
-<div class="post" data-post-id="39473" data-author="Driven" data-date="2020-05-08T20:14:17+00:00">
+<div class="post" data-post-id="39473" data-author="Driven" data-date="2020-05-08T20:14:17+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
 You continue to evade the point, Gorka, so let me state this is as clearly as I can, because you are just as guilty of this as anyone else, so to suddenly act like you are the one with the halo is beyond me.  Charm person is just one OP technique of many that enables you to kill mobs that you otherwise wouldn't be able to solo.  The "problem", if you even want to call it that, is much larger than charm person.
 
@@ -295,7 +295,7 @@ You seem to think this one particular flavor (charm mob) is somehow worse than t
 
 </div>
 
-<div class="post" data-post-id="39474" data-author="Driven" data-date="2020-05-08T21:45:13+00:00">
+<div class="post" data-post-id="39474" data-author="Driven" data-date="2020-05-08T21:45:13+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
 And for the record, there is a limit here.  If some of the more powerful charms make it stupid simple, then let's talk about it.  These techniques should be challenging, but doable.  Try doing it with Tonedeaf against a 50m eq mob and let me know how 'easy' it is.
 

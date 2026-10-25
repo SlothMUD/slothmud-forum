@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="1163" data-author="Deju" data-date="2004-07-23T15:14:44+00:00">
+<div class="post" data-post-id="1163" data-author="Deju" data-date="2004-07-23T15:14:44+00:00" data-subject="Vault Clearance Sale! (Part 2)">
 
 Part 2:
 
@@ -106,19 +106,19 @@ Only those who are at least supreme warriors may use this item.
 
 </div>
 
-<div class="post" data-post-id="1169" data-author="Yasik" data-date="2004-07-23T15:44:12+00:00">
+<div class="post" data-post-id="1169" data-author="Yasik" data-date="2004-07-23T15:44:12+00:00" data-subject="">
 
 Elecrum cuirass 500k
 
 </div>
 
-<div class="post" data-post-id="1170" data-author="Yasik" data-date="2004-07-23T15:48:30+00:00">
+<div class="post" data-post-id="1170" data-author="Yasik" data-date="2004-07-23T15:48:30+00:00" data-subject="">
 
 Dskin 8M
 
 </div>
 
-<div class="post" data-post-id="1174" data-author="Weasel" data-date="2004-07-23T16:23:37+00:00">
+<div class="post" data-post-id="1174" data-author="Weasel" data-date="2004-07-23T16:23:37+00:00" data-subject="">
 
 Dragonskin Bracelet 8.5 mil
 
@@ -126,55 +126,55 @@ Electrum Cuirass: min 1.0 mil
 
 </div>
 
-<div class="post" data-post-id="1177" data-author="Gippal" data-date="2004-07-23T21:39:42+00:00">
+<div class="post" data-post-id="1177" data-author="Gippal" data-date="2004-07-23T21:39:42+00:00" data-subject="">
 
 Belt Of Vitality 500k
 
 </div>
 
-<div class="post" data-post-id="1178" data-author="Alberich" data-date="2004-07-24T05:16:13+00:00">
+<div class="post" data-post-id="1178" data-author="Alberich" data-date="2004-07-24T05:16:13+00:00" data-subject="">
 
 electrum cuirass 1.5mil
 
 </div>
 
-<div class="post" data-post-id="1179" data-author="Yasik" data-date="2004-07-24T06:57:23+00:00">
+<div class="post" data-post-id="1179" data-author="Yasik" data-date="2004-07-24T06:57:23+00:00" data-subject="">
 
 dskin 9M
 
 </div>
 
-<div class="post" data-post-id="1181" data-author="Deju" data-date="2004-07-24T20:19:34+00:00">
+<div class="post" data-post-id="1181" data-author="Deju" data-date="2004-07-24T20:19:34+00:00" data-subject="Platinum Mesh Overcoat removed">
 
 just a note that the overcoat has been removed from the auction.
 
 </div>
 
-<div class="post" data-post-id="1182" data-author="tis" data-date="2004-07-24T21:20:03+00:00">
+<div class="post" data-post-id="1182" data-author="tis" data-date="2004-07-24T21:20:03+00:00" data-subject="">
 
 electrum cuirass 2m<BR>belt of vitality 1m
 
 </div>
 
-<div class="post" data-post-id="1185" data-author="Vanyel" data-date="2004-07-25T05:52:38+00:00">
+<div class="post" data-post-id="1185" data-author="Vanyel" data-date="2004-07-25T05:52:38+00:00" data-subject="1 Mil - Red Leggings">
 
 Iridiscent Red Leggings: min 1mil
 
 </div>
 
-<div class="post" data-post-id="1191" data-author="Gippal" data-date="2004-07-26T01:06:52+00:00">
+<div class="post" data-post-id="1191" data-author="Gippal" data-date="2004-07-26T01:06:52+00:00" data-subject="">
 
 Belt Of Vitality 1.5m
 
 </div>
 
-<div class="post" data-post-id="1194" data-author="Kelt" data-date="2004-07-26T08:53:13+00:00">
+<div class="post" data-post-id="1194" data-author="Kelt" data-date="2004-07-26T08:53:13+00:00" data-subject="Dskin">
 
 dskin 10 mils
 
 </div>
 
-<div class="post" data-post-id="1200" data-author="Deju" data-date="2004-07-27T19:31:17+00:00">
+<div class="post" data-post-id="1200" data-author="Deju" data-date="2004-07-27T19:31:17+00:00" data-subject="Recap">
 
 Dskin: Kelt 10mil
 
@@ -188,13 +188,13 @@ I am going to move the closing time to Wednesday at 11:00pm since I'm going to b
 
 </div>
 
-<div class="post" data-post-id="1206" data-author="bubba" data-date="2004-07-28T20:57:21+00:00">
+<div class="post" data-post-id="1206" data-author="bubba" data-date="2004-07-28T20:57:21+00:00" data-subject="dskin 11 mil">
 
 subj.
 
 </div>
 
-<div class="post" data-post-id="1213" data-author="Deju" data-date="2004-07-29T03:59:33+00:00">
+<div class="post" data-post-id="1213" data-author="Deju" data-date="2004-07-29T03:59:33+00:00" data-subject="Closed">
 
 Dskin: Bubba 11mil
 

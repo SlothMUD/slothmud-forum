@@ -10,7 +10,7 @@ locked: false
 post_count: 76
 ---
 
-<div class="post" data-post-id="13273" data-author="Roadrunr" data-date="2006-07-05T03:24:04+00:00">
+<div class="post" data-post-id="13273" data-author="Roadrunr" data-date="2006-07-05T03:24:04+00:00" data-subject="Monk Changes">
 
 You missed these:
 
@@ -24,7 +24,7 @@ damn, I'm starting to sound like a necro (except I'll stop here unless something
 
 </div>
 
-<div class="post" data-post-id="13274" data-author="Melanthe" data-date="2006-07-05T03:47:00+00:00">
+<div class="post" data-post-id="13274" data-author="Melanthe" data-date="2006-07-05T03:47:00+00:00" data-subject="">
 
 As usual Splork doesn't think things through before he changes things. 5 hand dam to 2 hand dam nerf is just plain STUPID. He is trying to RUIN the monk class just as he is trying to with Necromancer.  He's made monks very unenjoyable to play now.  Lol, and he thinks he is making the game better.
 
@@ -32,13 +32,13 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13275" data-author="Medios" data-date="2006-07-05T04:04:34+00:00">
+<div class="post" data-post-id="13275" data-author="Medios" data-date="2006-07-05T04:04:34+00:00" data-subject="">
 
 Hopefully Melanthe doesnt make a bard,  I dont want Minstrel to get nerfed too. :(
 
 </div>
 
-<div class="post" data-post-id="13276" data-author="12345" data-date="2006-07-05T04:11:06+00:00">
+<div class="post" data-post-id="13276" data-author="12345" data-date="2006-07-05T04:11:06+00:00" data-subject="">
 
 As usual Splork doesn't think things through before he changes things. 5 hand dam to 2 hand dam nerf is just plain STUPID. He is trying to RUIN the monk class just as he is trying to with Necromancer.  He's made monks very unenjoyable to play now.  Lol, and he thinks he is making the game better.
 
@@ -52,7 +52,7 @@ Since you're calling this a stupid nerf, how about providing an actual reason it
 
 </div>
 
-<div class="post" data-post-id="13277" data-author="Melanthe" data-date="2006-07-05T04:43:03+00:00">
+<div class="post" data-post-id="13277" data-author="Melanthe" data-date="2006-07-05T04:43:03+00:00" data-subject="">
 
 Cause I had Aura of Pride and Gaunlets of Thunder? Cause I was going to Shield of the South Ice in a few weeks?  No, I am not *TROLLING*, I am quitting the game because idiots like Splork ruin it. I was already at 22 hand dam and would of been 29 hand dam in 2 weeks. Now I won't have enough hand dam to even kill a pronghorn or nymph follower with a grip. (Note: I am not calling it splork, cause he doesn't deserve the credit).
 
@@ -62,19 +62,19 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13278" data-author="Akasha" data-date="2006-07-05T04:44:42+00:00">
+<div class="post" data-post-id="13278" data-author="Akasha" data-date="2006-07-05T04:44:42+00:00" data-subject="">
 
 nevermind.....
 
 </div>
 
-<div class="post" data-post-id="13279" data-author="Melanthe" data-date="2006-07-05T04:48:31+00:00">
+<div class="post" data-post-id="13279" data-author="Melanthe" data-date="2006-07-05T04:48:31+00:00" data-subject="">
 
 I don't hate you Akasha. I don't hate anyone. And what you just told me, disregarding the insults, doesnt' cahnge the fact that monks are lame now.
 
 </div>
 
-<div class="post" data-post-id="13280" data-author="strider" data-date="2006-07-05T05:02:44+00:00">
+<div class="post" data-post-id="13280" data-author="strider" data-date="2006-07-05T05:02:44+00:00" data-subject="whiny lil biatch">
 
 blah, those items were overpowered. some of them still are.
 
@@ -84,13 +84,13 @@ thiefs, what a crock!! lets see some +dmg shields!
 
 </div>
 
-<div class="post" data-post-id="13281" data-author="Melanthe" data-date="2006-07-05T05:05:33+00:00">
+<div class="post" data-post-id="13281" data-author="Melanthe" data-date="2006-07-05T05:05:33+00:00" data-subject="">
 
 Thieves have much larger dmg multipliers than monks. So don't ya think it makes sense?
 
 </div>
 
-<div class="post" data-post-id="13282" data-author="Melanthe" data-date="2006-07-05T05:11:48+00:00">
+<div class="post" data-post-id="13282" data-author="Melanthe" data-date="2006-07-05T05:11:48+00:00" data-subject="">
 
 .. monk was the last to be tweaked. [/quote:16f9m41a]
 
@@ -100,7 +100,7 @@ Also going to play a mud where immortals don't insult you and call you names in 
 
 </div>
 
-<div class="post" data-post-id="13287" data-author="Alberich" data-date="2006-07-05T13:37:01+00:00">
+<div class="post" data-post-id="13287" data-author="Alberich" data-date="2006-07-05T13:37:01+00:00" data-subject="">
 
 [img:3irxgmvf]http://www.picpop.com/gallery/albums/userpics/BooHoo/boofuckinhoo.jpg[/img:3irxgmvf]
 
@@ -108,7 +108,7 @@ don't let the door hit you in the ass
 
 </div>
 
-<div class="post" data-post-id="13288" data-author="Volnaib" data-date="2006-07-05T13:43:06+00:00">
+<div class="post" data-post-id="13288" data-author="Volnaib" data-date="2006-07-05T13:43:06+00:00" data-subject="">
 
 I think it there was rather not balanced decision.
 
@@ -118,7 +118,7 @@ And to make it for all monks, without the analysis. hmm.
 
 </div>
 
-<div class="post" data-post-id="13290" data-author="Clink" data-date="2006-07-05T13:56:33+00:00">
+<div class="post" data-post-id="13290" data-author="Clink" data-date="2006-07-05T13:56:33+00:00" data-subject="">
 
 Also going to play a mud where immortals don't insult you and call you names in tells.[/quote:1vexflpm]
 
@@ -134,7 +134,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="13291" data-author="Ditheca" data-date="2006-07-05T14:09:35+00:00">
+<div class="post" data-post-id="13291" data-author="Ditheca" data-date="2006-07-05T14:09:35+00:00" data-subject="">
 
 There was a brief time when my deathtouch did more damage than a firewind.  It was kind of nice to have a useful offensive skill -- even though it had a large miss chance and lagged twice as much as casting a spell.
 
@@ -142,7 +142,7 @@ I do have to agree with the immorts on this one; the aura of pride was rather si
 
 </div>
 
-<div class="post" data-post-id="13292" data-author="Leaf" data-date="2006-07-05T15:37:02+00:00">
+<div class="post" data-post-id="13292" data-author="Leaf" data-date="2006-07-05T15:37:02+00:00" data-subject="">
 
 Have played a Monk, I think the Gaults of Thunder should be +3 hand.  U
 
@@ -164,19 +164,19 @@ as a thief now.
 
 </div>
 
-<div class="post" data-post-id="13293" data-author="Alberich" data-date="2006-07-05T15:45:08+00:00">
+<div class="post" data-post-id="13293" data-author="Alberich" data-date="2006-07-05T15:45:08+00:00" data-subject="">
 
 would this be before or after you give thieves the ability to stab ether mobs and counterattack?
 
 </div>
 
-<div class="post" data-post-id="13294" data-author="Melanthe" data-date="2006-07-05T15:54:21+00:00">
+<div class="post" data-post-id="13294" data-author="Melanthe" data-date="2006-07-05T15:54:21+00:00" data-subject="">
 
 Lol splork what ethers? With these hand dam changes a monk can barely splork a ferret.  Also only prime monks can wraithtouch/kensei remember? You are a dork. And if you want Counterattack, put a monk anywhere in your classo.
 
 </div>
 
-<div class="post" data-post-id="13295" data-author="SirRobin" data-date="2006-07-05T16:52:37+00:00">
+<div class="post" data-post-id="13295" data-author="SirRobin" data-date="2006-07-05T16:52:37+00:00" data-subject="">
 
 Why not leave the equipment the way it is and just publish the cap? That way a person can choose to use a few high level pieces for a hand damage bonus, and use the other slots for their other classos. You wouldn’t have to update the equipment list either. 
 
@@ -184,7 +184,7 @@ If you decided to stick with the changes the way they are now you may want to do
 
 </div>
 
-<div class="post" data-post-id="13296" data-author="Roadrunr" data-date="2006-07-05T17:01:36+00:00">
+<div class="post" data-post-id="13296" data-author="Roadrunr" data-date="2006-07-05T17:01:36+00:00" data-subject="">
 
 Imms:  Please ignore Melanthe, he/she/it is an idiot.  My original post was kinda in jest, I was laughing as I wrote it but I suppose I should have known better.  I actually expected (and still do) that the newbie gloves will be dropped to +1 handdam rather than the other handwear being bumped up to +3...but I had to ask (and please dont take it as whining, it wasnt meant that way)
 
@@ -198,7 +198,7 @@ I am going to have to research how much dam that thunder proc does, maybe it's w
 
 </div>
 
-<div class="post" data-post-id="13297" data-author="Mosaix" data-date="2006-07-05T17:04:46+00:00">
+<div class="post" data-post-id="13297" data-author="Mosaix" data-date="2006-07-05T17:04:46+00:00" data-subject="">
 
 Melanthe if your going to quit do it please, that would involve moving on and stop posting/attacking.
 
@@ -212,7 +212,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="13299" data-author="Vixn" data-date="2006-07-05T17:47:59+00:00">
+<div class="post" data-post-id="13299" data-author="Vixn" data-date="2006-07-05T17:47:59+00:00" data-subject="">
 
 Maybe I'll see if damage reduction is any good... there must be still be some good things about being a monk.[/quote:29ipudac]
 
@@ -220,7 +220,7 @@ We'll nerf it too. Hugs. :)
 
 </div>
 
-<div class="post" data-post-id="13300" data-author="Melanthe" data-date="2006-07-05T18:23:40+00:00">
+<div class="post" data-post-id="13300" data-author="Melanthe" data-date="2006-07-05T18:23:40+00:00" data-subject="">
 
 RR (Rude and Retarded), you have done nothing but insult me from the start. You are an asshole. So anything you say doesn't bother me. Btw, aren't you retired? No, just retarded.  Nice of you insulting Slothmud's Top 20 player of last week, who is always kind and generous to people.
 
@@ -230,25 +230,25 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13301" data-author="Alberich" data-date="2006-07-05T18:27:01+00:00">
+<div class="post" data-post-id="13301" data-author="Alberich" data-date="2006-07-05T18:27:01+00:00" data-subject="">
 
 you keep saying you're leaving, which is arguably the only post from you I've seen that made sense.  Well?    We're waiting here...
 
 </div>
 
-<div class="post" data-post-id="13302" data-author="Melanthe" data-date="2006-07-05T18:30:14+00:00">
+<div class="post" data-post-id="13302" data-author="Melanthe" data-date="2006-07-05T18:30:14+00:00" data-subject="">
 
 You haven't seen me log in have you?
 
 </div>
 
-<div class="post" data-post-id="13303" data-author="Weasel" data-date="2006-07-05T18:38:12+00:00">
+<div class="post" data-post-id="13303" data-author="Weasel" data-date="2006-07-05T18:38:12+00:00" data-subject="">
 
 So... Germany lost to Italy. That must've pissed the locals off huh.
 
 </div>
 
-<div class="post" data-post-id="13304" data-author="Krok" data-date="2006-07-05T19:25:18+00:00">
+<div class="post" data-post-id="13304" data-author="Krok" data-date="2006-07-05T19:25:18+00:00" data-subject="">
 
 1. When people really leave, they do it quietly like Orion did.
 
@@ -258,7 +258,7 @@ So... Germany lost to Italy. That must've pissed the locals off huh.
 
 </div>
 
-<div class="post" data-post-id="13305" data-author="Tetsulunathaya" data-date="2006-07-05T19:48:56+00:00">
+<div class="post" data-post-id="13305" data-author="Tetsulunathaya" data-date="2006-07-05T19:48:56+00:00" data-subject="">
 
 So they just nerfed an 'abusive' ability to Bards, I'm supposed to bitch and whine, right?  WAHH!!!! I want the nerf to Wall of Sleep undone!!!
 
@@ -272,7 +272,7 @@ It happens, get over it. Theres PLENTY to keep a player busy, challenged, and ha
 
 </div>
 
-<div class="post" data-post-id="13306" data-author="strider" data-date="2006-07-05T20:07:21+00:00">
+<div class="post" data-post-id="13306" data-author="strider" data-date="2006-07-05T20:07:21+00:00" data-subject="darn imms">
 
 heh, as far as imms insulting us and being rude. that's what makes
 
@@ -298,7 +298,7 @@ peace out hosers.
 
 </div>
 
-<div class="post" data-post-id="13307" data-author="13" data-date="2006-07-05T20:43:58+00:00">
+<div class="post" data-post-id="13307" data-author="13" data-date="2006-07-05T20:43:58+00:00" data-subject="">
 
 hey I left when I said I would
 
@@ -306,7 +306,7 @@ I just like to post :)
 
 </div>
 
-<div class="post" data-post-id="13308" data-author="12345" data-date="2006-07-05T20:58:55+00:00">
+<div class="post" data-post-id="13308" data-author="12345" data-date="2006-07-05T20:58:55+00:00" data-subject="">
 
 Yeah, we love you too Aaron :)
 
@@ -322,7 +322,7 @@ Your definition of underpowered is lacking...  You have a cap of 5 mil on Lyme r
 
 </div>
 
-<div class="post" data-post-id="13309" data-author="Melanthe" data-date="2006-07-05T21:12:45+00:00">
+<div class="post" data-post-id="13309" data-author="Melanthe" data-date="2006-07-05T21:12:45+00:00" data-subject="">
 
 Well sorry for the flame. I guess I was just a little upset that I had just gotten enough hand dam to splork a pronghorn or nymph follower, and the very next day that ability was taken away from me (-6hand dam). Had Aura of Pride and Gauntlets of Thunder and bunch of other little pieces.  I guess that the game can still be enjoyable, but I sure do need a break. This is a very hard blow to me. I had more interest in my monk than my necro to be honest. I was focusing all on the monk, ask any of my friends. I find necromancer a bit boring to pay and not all that powerful as everyone seems to think.  They were definitely overpowered when you could have 3 vilewights at 4 attacks each totalling 12 attacks per round. I agree to this. But now that has been cut in half to 2 vilewights at 3 attacks each. And I am not complaining about necromancer. I was dealign with it. Just this monk blow affects my interest quite a bit atm, cause I did have expectations for 5x40. Planned out my hand dam gear set fully etc. But if it is all for the best, then so be it. I have no idea what the dam cap will be for a quad monk but it takes 20 dam for a monk to splork a pronghorn; btw a mage can kill a pronghorn in one blast I was told.
 
@@ -332,7 +332,7 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13310" data-author="Medios" data-date="2006-07-05T21:19:05+00:00">
+<div class="post" data-post-id="13310" data-author="Medios" data-date="2006-07-05T21:19:05+00:00" data-subject="">
 
 I always thought that thieves were underhanded and lowdown.  They get all the damage on stab and have to pay mvs to circlestab.  Monks are peace loving, they dont want to assassinate stuff.  They get a multitude of damage from grip,strike, counterattack.  Strike does not cost moves and hits pretty damn hard for a "freebie".  Not only that monks get presage which allows someone to miss , be hated and easily slip back in for another try.  Umm oh yeh what about damage reduction, I guess thieves get something like that too.  Honestly the only person that is allowed to complain here is Nab.  I havent heard a bad word come out of Keiths mouth since this happened.  Yeh im sure hes not happy about it, but he understood along time ago that these items were way too powerful.  Hell when I saw the shield of south ice in the shop I got pretty upset myself.  A damage shield...  
 
@@ -342,7 +342,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13311" data-author="Melanthe" data-date="2006-07-05T21:37:20+00:00">
+<div class="post" data-post-id="13311" data-author="Melanthe" data-date="2006-07-05T21:37:20+00:00" data-subject="">
 
 Medios, wow.. that sure wasn't very nice of you to say. Anything I said "bad" about you in the past was in direct response of you insulting me. But I had forgotten about that.. and have forgiven you.  What gives you the right to talk to me like this now?  I have said nothing but kinds words to you since I returned on Melanthe.  This isn't right.  Anyways, I am not going to say anything shitty like you just said to me, cause I have forgiven you in the past as I do now.
 
@@ -352,7 +352,7 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13312" data-author="Medios" data-date="2006-07-05T21:46:30+00:00">
+<div class="post" data-post-id="13312" data-author="Medios" data-date="2006-07-05T21:46:30+00:00" data-subject="">
 
 I havent insulted you.  If that was an insult you dont know me very well.  Im getting pretty tired of the crying.  If you have read any of this thread I think you know that everyone is tired of it.  I havent changed, you havent changed.  Lets move on.
 
@@ -360,7 +360,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13313" data-author="Melanthe" data-date="2006-07-05T21:50:37+00:00">
+<div class="post" data-post-id="13313" data-author="Melanthe" data-date="2006-07-05T21:50:37+00:00" data-subject="">
 
 Well I thought I aplogized, explained why I was upset, and was moving on in the reply prior to your nasty reply about me.  And yes, you have said some very cruel things to me in the past. I don't get upset unless someone has. Anyways, I still haven't said anything bad about you since I have returned and I am not going to either; only you seem to be holding a grudge.  I still like you even though you wanna PK me.
 
@@ -370,13 +370,13 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13314" data-author="brady" data-date="2006-07-05T22:10:28+00:00">
+<div class="post" data-post-id="13314" data-author="brady" data-date="2006-07-05T22:10:28+00:00" data-subject="">
 
 Please, please, PLEASE stop replying.   My eyes hurt.  :shock:
 
 </div>
 
-<div class="post" data-post-id="13315" data-author="13" data-date="2006-07-05T22:29:42+00:00">
+<div class="post" data-post-id="13315" data-author="13" data-date="2006-07-05T22:29:42+00:00" data-subject="">
 
 [quote:w092oa3f]Melanthe you were a pain in the ass when you played Auriana.[/quote:w092oa3f]
 
@@ -386,25 +386,25 @@ that J had auri in the vault for some good old american panty chat.
 
 </div>
 
-<div class="post" data-post-id="13317" data-author="Melanthe" data-date="2006-07-05T22:38:53+00:00">
+<div class="post" data-post-id="13317" data-author="Melanthe" data-date="2006-07-05T22:38:53+00:00" data-subject="">
 
 Lol..
 
 </div>
 
-<div class="post" data-post-id="13318" data-author="Krok" data-date="2006-07-05T23:17:42+00:00">
+<div class="post" data-post-id="13318" data-author="Krok" data-date="2006-07-05T23:17:42+00:00" data-subject="">
 
 that explains it all...
 
 </div>
 
-<div class="post" data-post-id="13319" data-author="Melanthe" data-date="2006-07-05T23:38:30+00:00">
+<div class="post" data-post-id="13319" data-author="Melanthe" data-date="2006-07-05T23:38:30+00:00" data-subject="">
 
 Explains what? That you can't just let this stupid thread die. Give me a break.
 
 </div>
 
-<div class="post" data-post-id="13320" data-author="*Splork*" data-date="2006-07-05T23:56:48+00:00">
+<div class="post" data-post-id="13320" data-author="*Splork*" data-date="2006-07-05T23:56:48+00:00" data-subject="">
 
 I just wanted to say thanks to those of you who took the time to speak with me online and those of you that have supported(although maybe disliked) the last couple of nerfs to Necromancers and Monks. For the most part our playerbase is very helpful and well spoken. Overall, I think the changes have been received better than most. Most likely because the mistakes we made with necromancers and this eq was rather obvious. Hopefully we will do better in the future...
 
@@ -420,7 +420,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="13321" data-author="Mystery" data-date="2006-07-06T00:34:20+00:00">
+<div class="post" data-post-id="13321" data-author="Mystery" data-date="2006-07-06T00:34:20+00:00" data-subject="The more things change....">
 
 Aren't these two people who keep bashing each other the same two people who bashed each other in an earlier thread involving beer,crossing state lines and quest/high-end equipment... just sounds sooooo familiar..I mean gosh.. get a room already. :twisted: 
 
@@ -428,7 +428,7 @@ ps---ignore if you want.. I just wanted to add a digit to my posts total
 
 </div>
 
-<div class="post" data-post-id="13323" data-author="Roadrunr" data-date="2006-07-06T01:59:19+00:00">
+<div class="post" data-post-id="13323" data-author="Roadrunr" data-date="2006-07-06T01:59:19+00:00" data-subject="">
 
 RR (Rude and Retarded), you have done nothing but insult me from the start. You are an asshole. So anything you say doesn't bother me. Btw, aren't you retired? No, just retarded.  Nice of you insulting Slothmud's Top 20 player of last week, who is always kind and generous to people.
 
@@ -446,13 +446,13 @@ Go take two tylenol, I am sure all this thinking must be giving you a headache.
 
 </div>
 
-<div class="post" data-post-id="13324" data-author="Mystery" data-date="2006-07-06T02:03:46+00:00">
+<div class="post" data-post-id="13324" data-author="Mystery" data-date="2006-07-06T02:03:46+00:00" data-subject="Confession is good for the soul --&gt;">
 
 I rest my case :P
 
 </div>
 
-<div class="post" data-post-id="13327" data-author="Melanthe" data-date="2006-07-06T03:13:34+00:00">
+<div class="post" data-post-id="13327" data-author="Melanthe" data-date="2006-07-06T03:13:34+00:00" data-subject="">
 
 RR (rude and retarded), you insulted me first. If anyone reads that thread now, they can *plainly* see it. You said "stop asking for STUPID SHIT". So I rest my case. You are a rude jerk.  And I said 2 weeks lving that c/m, so yeah I guess you retarded cause you can't seem to remember what was said.
 
@@ -460,7 +460,7 @@ Grow up, get a life; you are a loser.
 
 </div>
 
-<div class="post" data-post-id="13328" data-author="Weasel" data-date="2006-07-06T03:23:32+00:00">
+<div class="post" data-post-id="13328" data-author="Weasel" data-date="2006-07-06T03:23:32+00:00" data-subject="">
 
 FUUUUCK!!! Enough already! Please, no more  ...daaamn.
 
@@ -468,7 +468,7 @@ No wonder Splork got so sick of me whining about how badly Warriors (especially 
 
 </div>
 
-<div class="post" data-post-id="13329" data-author="Melanthe" data-date="2006-07-06T03:42:14+00:00">
+<div class="post" data-post-id="13329" data-author="Melanthe" data-date="2006-07-06T03:42:14+00:00" data-subject="">
 
 Can an immortal please lock this thread? I am getting tired of it also. I already apologized for the flame earlier on and explained why I was upset. If the changes are for the betterment of the mud, so be it (as I said earlier).
 
@@ -478,19 +478,19 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13330" data-author="Roadrunr" data-date="2006-07-06T04:31:50+00:00">
+<div class="post" data-post-id="13330" data-author="Roadrunr" data-date="2006-07-06T04:31:50+00:00" data-subject="">
 
 mystery, stop being a post-whore  :lol:
 
 </div>
 
-<div class="post" data-post-id="13331" data-author="Guinex" data-date="2006-07-06T04:44:38+00:00">
+<div class="post" data-post-id="13331" data-author="Guinex" data-date="2006-07-06T04:44:38+00:00" data-subject="">
 
 I want Poolp to come play with Melanthe  :cry:
 
 </div>
 
-<div class="post" data-post-id="13332" data-author="Roadrunr" data-date="2006-07-06T04:47:26+00:00">
+<div class="post" data-post-id="13332" data-author="Roadrunr" data-date="2006-07-06T04:47:26+00:00" data-subject="">
 
 RR (rude and retarded), you insulted me first. If anyone reads that thread now, they can *plainly* see it. You said "stop asking for STUPID SHIT". So I rest my case. You are a rude jerk.  And I said 2 weeks lving that c/m, so yeah I guess you retarded cause you can't seem to remember what was said.
 
@@ -510,7 +510,7 @@ btw, if I'm a rude loser who needs to get a life and you're the greatest thing s
 
 </div>
 
-<div class="post" data-post-id="13334" data-author="Blaster" data-date="2006-07-06T06:16:15+00:00">
+<div class="post" data-post-id="13334" data-author="Blaster" data-date="2006-07-06T06:16:15+00:00" data-subject="">
 
 Can an immortal please lock this thread? I am getting tired of it also. I already apologized for the flame earlier on and explained why I was upset. If the changes are for the betterment of the mud, so be it (as I said earlier).
 
@@ -526,7 +526,7 @@ Blaster
 
 </div>
 
-<div class="post" data-post-id="13336" data-author="Gimlet" data-date="2006-07-06T09:16:17+00:00">
+<div class="post" data-post-id="13336" data-author="Gimlet" data-date="2006-07-06T09:16:17+00:00" data-subject="">
 
 I think everyone seriously needs a reality check.....the constant accusations that the imms are out to ruin the game is simply ridiculous.  Why would they spend countless hours coming up with new things for a game most of them don't even actively play, only to "ruin the fun" to drive away the players?  Do you have any idea how much time they put in for something they don't get paid for?  Hell, I can safely say most of us aren't even that dedicated to our paying jobs.  Sure, it was a big change in terms of numbers, but if you really bother to see how it actually affected game play, you'd realize that it isn't as drastic as melanthe said it to be.  Let's just put it this way....if the eq WERE +2 handdam to begin with, would you still consider monk a useless class?  I agree that the tweaks shouldn't end here though, as the handdam doesn't really paint the whole picture of monk-play, but I'll leave that debate to monks.
 
@@ -538,13 +538,13 @@ My 2 cents
 
 </div>
 
-<div class="post" data-post-id="13338" data-author="Melanthe" data-date="2006-07-06T14:08:58+00:00">
+<div class="post" data-post-id="13338" data-author="Melanthe" data-date="2006-07-06T14:08:58+00:00" data-subject="">
 
 Hug Gimlet, Hug Blaster, and even Hug RR. I am not gonna fire back, RR. The going in circles, cutting eachother down isn't a cool thing.  And I have already forgiven you and you should do the same.
 
 </div>
 
-<div class="post" data-post-id="13339" data-author="Melanthe" data-date="2006-07-06T14:34:34+00:00">
+<div class="post" data-post-id="13339" data-author="Melanthe" data-date="2006-07-06T14:34:34+00:00" data-subject="">
 
 I want Poolp to come play with Melanthe  :cry:[/quote:3irftc78]
 
@@ -558,7 +558,7 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13340" data-author="Gimlet" data-date="2006-07-06T16:17:29+00:00">
+<div class="post" data-post-id="13340" data-author="Gimlet" data-date="2006-07-06T16:17:29+00:00" data-subject="">
 
 hugs mel
 
@@ -570,25 +570,25 @@ peace
 
 </div>
 
-<div class="post" data-post-id="13341" data-author="Melanthe" data-date="2006-07-06T16:36:01+00:00">
+<div class="post" data-post-id="13341" data-author="Melanthe" data-date="2006-07-06T16:36:01+00:00" data-subject="">
 
 Yeah I was being a bit too bitchy about it. Sorry.
 
 </div>
 
-<div class="post" data-post-id="13342" data-author="13" data-date="2006-07-06T18:29:51+00:00">
+<div class="post" data-post-id="13342" data-author="13" data-date="2006-07-06T18:29:51+00:00" data-subject="">
 
 bump! ^^
 
 </div>
 
-<div class="post" data-post-id="13343" data-author="brady" data-date="2006-07-06T18:56:49+00:00">
+<div class="post" data-post-id="13343" data-author="brady" data-date="2006-07-06T18:56:49+00:00" data-subject="">
 
 [img:1gkjhwfx]http://www.nataliedee.com/020603/youmakemetired.jpg[/img:1gkjhwfx]
 
 </div>
 
-<div class="post" data-post-id="13344" data-author="Mystery" data-date="2006-07-06T21:45:05+00:00">
+<div class="post" data-post-id="13344" data-author="Mystery" data-date="2006-07-06T21:45:05+00:00" data-subject="I R NOT a Post Ho">
 
 what can I say about RR that he hasnt admitted.. hes just plain lazy...
 
@@ -600,7 +600,7 @@ waves
 
 </div>
 
-<div class="post" data-post-id="13348" data-author="Autolycos" data-date="2006-07-06T23:06:02+00:00">
+<div class="post" data-post-id="13348" data-author="Autolycos" data-date="2006-07-06T23:06:02+00:00" data-subject="">
 
 well at least you can be happy that you ran me off Mystery..  I mean.. how can I ever mud again?   Everytime I want to log on... I get flashbacks of seeing you raping that poor goat.   Sure sure, you blamed Guinex... said he asked you to do it for that new website you guys are working on... But truly I don't believe you... I just think your sick.. 
 
@@ -608,7 +608,7 @@ well at least you can be happy that you ran me off Mystery..  I mean.. how can I
 
 </div>
 
-<div class="post" data-post-id="13350" data-author="Mystery" data-date="2006-07-07T00:00:36+00:00">
+<div class="post" data-post-id="13350" data-author="Mystery" data-date="2006-07-07T00:00:36+00:00" data-subject="Monk Changes">
 
 Please don't make so easy for me to tell you to stfu 
 
@@ -616,13 +616,13 @@ Now please, in advice of out good friend Kim Jong II, take your pirate ass and g
 
 </div>
 
-<div class="post" data-post-id="13351" data-author="Weasel" data-date="2006-07-07T01:17:33+00:00">
+<div class="post" data-post-id="13351" data-author="Weasel" data-date="2006-07-07T01:17:33+00:00" data-subject="">
 
 hmm. Mystery, your avatar looks like one of those 'Hallowed are The Ori' freaks.
 
 </div>
 
-<div class="post" data-post-id="13353" data-author="Mystery" data-date="2006-07-07T02:00:12+00:00">
+<div class="post" data-post-id="13353" data-author="Mystery" data-date="2006-07-07T02:00:12+00:00" data-subject="Oh yeah?">
 
 Well, yours looks like a damned weasel.
 
@@ -630,25 +630,25 @@ Touche!
 
 </div>
 
-<div class="post" data-post-id="13354" data-author="Melanthe" data-date="2006-07-07T02:11:10+00:00">
+<div class="post" data-post-id="13354" data-author="Melanthe" data-date="2006-07-07T02:11:10+00:00" data-subject="">
 
 I want to get my char pic uploaded, but don't know how lol.
 
 </div>
 
-<div class="post" data-post-id="13355" data-author="12345" data-date="2006-07-07T02:47:40+00:00">
+<div class="post" data-post-id="13355" data-author="12345" data-date="2006-07-07T02:47:40+00:00" data-subject="">
 
 Generally, mailing it to blaster@slothmud.org or clink@slothmud.org is a good start.  A request asking for it to be added is sometimes useful to avoid confusion.
 
 </div>
 
-<div class="post" data-post-id="13356" data-author="Autolycos" data-date="2006-07-07T03:11:01+00:00">
+<div class="post" data-post-id="13356" data-author="Autolycos" data-date="2006-07-07T03:11:01+00:00" data-subject="">
 
 I think she was asking Weasel to get a good pic for her  :twisted:
 
 </div>
 
-<div class="post" data-post-id="13358" data-author="13" data-date="2006-07-07T05:35:31+00:00">
+<div class="post" data-post-id="13358" data-author="13" data-date="2006-07-07T05:35:31+00:00" data-subject="">
 
 [img:25wt35il]http://img.photobucket.com/albums/v481/turtle777/attention_whore.jpg[/img:25wt35il]
 
@@ -658,7 +658,7 @@ I think she was asking Weasel to get a good pic for her  :twisted:
 
 </div>
 
-<div class="post" data-post-id="13359" data-author="Melanthe" data-date="2006-07-07T06:13:24+00:00">
+<div class="post" data-post-id="13359" data-author="Melanthe" data-date="2006-07-07T06:13:24+00:00" data-subject="">
 
 13, I guess you need to make some char pics for Volnaib too:
 
@@ -668,7 +668,7 @@ However, I doubt I would think it was funny.
 
 </div>
 
-<div class="post" data-post-id="13360" data-author="*Splork*" data-date="2006-07-07T09:57:11+00:00">
+<div class="post" data-post-id="13360" data-author="*Splork*" data-date="2006-07-07T09:57:11+00:00" data-subject="">
 
 Granted, Ill be home after 5 if anyone else wishes to be wiped.
 
@@ -676,13 +676,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="13361" data-author="Shara" data-date="2006-07-07T12:02:37+00:00">
+<div class="post" data-post-id="13361" data-author="Shara" data-date="2006-07-07T12:02:37+00:00" data-subject="">
 
 Hugs and kisses all around!
 
 </div>
 
-<div class="post" data-post-id="13362" data-author="Weasel" data-date="2006-07-07T12:32:19+00:00">
+<div class="post" data-post-id="13362" data-author="Weasel" data-date="2006-07-07T12:32:19+00:00" data-subject="">
 
 [ *Overlord* ] Weasel Splork give me 100000 drachma pls
 
@@ -690,7 +690,7 @@ Hugs and kisses all around!
 
 </div>
 
-<div class="post" data-post-id="13363" data-author="Gimlet" data-date="2006-07-07T13:25:01+00:00">
+<div class="post" data-post-id="13363" data-author="Gimlet" data-date="2006-07-07T13:25:01+00:00" data-subject="">
 
 [40w 40o 40c 30n] Gimlet Splork please pwipe the mud
 
@@ -698,7 +698,7 @@ Hugs and kisses all around!
 
 </div>
 
-<div class="post" data-post-id="13367" data-author="Autolycos" data-date="2006-07-07T17:40:00+00:00">
+<div class="post" data-post-id="13367" data-author="Autolycos" data-date="2006-07-07T17:40:00+00:00" data-subject="">
 
 Splork slowly saunters up to the main control panel of the mud.
 
@@ -712,7 +712,7 @@ Splork throws his head back and cackles with insane glee as he presses the large
 
 </div>
 
-<div class="post" data-post-id="13510" data-author="Shazuko" data-date="2006-07-18T19:53:43+00:00">
+<div class="post" data-post-id="13510" data-author="Shazuko" data-date="2006-07-18T19:53:43+00:00" data-subject="!">
 
 damn, I lost 2 handdam...two...and I didn't have any +5 hand gear....thats a hard cut...and it made a dfference. I can see lowering some of the high end stuff by one point or so, but that shouldn't have affected those who didn't have that kind of stuff.  2 points is very noticable in the run...
 
@@ -724,7 +724,7 @@ Shazuko Roku Ryuu
 
 </div>
 
-<div class="post" data-post-id="13512" data-author="12345" data-date="2006-07-18T20:31:13+00:00">
+<div class="post" data-post-id="13512" data-author="12345" data-date="2006-07-18T20:31:13+00:00" data-subject="">
 
 Its not fun, but there's a general logic behind it.  For instance, the monk prime gloves are +3 now.  If you could pop the +3 gloves off the cleric in autumnal, the high end gear isn't really high end... it's just highly restricted.
 
@@ -732,7 +732,7 @@ Sorry :(
 
 </div>
 
-<div class="post" data-post-id="13513" data-author="Roadrunr" data-date="2006-07-18T20:51:46+00:00">
+<div class="post" data-post-id="13513" data-author="Roadrunr" data-date="2006-07-18T20:51:46+00:00" data-subject="">
 
 I've found the reduction makes a change in my runs with Xander however, I never really thought it was right that I could run more with X than with Ana...contemplating dumping a few chars and getting down to 5 at most, maybe 4, even had a though of just keeping the lymers...
 

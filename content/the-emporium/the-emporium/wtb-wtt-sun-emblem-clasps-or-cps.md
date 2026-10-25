@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="4651" data-author="impz" data-date="2005-02-27T14:28:16+00:00">
+<div class="post" data-post-id="4651" data-author="impz" data-date="2005-02-27T14:28:16+00:00" data-subject="WTB/ WTT sun emblem clasps or cps">
 
 Would be willing to conjure up some trade/eq for it...Will also pay for cps if you have em..Find me online on impz.
 

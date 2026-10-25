@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="20358" data-author="Jammaker" data-date="2007-09-23T23:30:04+00:00">
+<div class="post" data-post-id="20358" data-author="Jammaker" data-date="2007-09-23T23:30:04+00:00" data-subject="Help - I&#x27;m dead in duergars">
 
 I am dead in duergars at prince.  Please send help!
 

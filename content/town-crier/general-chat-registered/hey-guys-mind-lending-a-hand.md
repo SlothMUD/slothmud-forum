@@ -10,7 +10,7 @@ locked: false
 post_count: 52
 ---
 
-<div class="post" data-post-id="34583" data-author="Yasik" data-date="2013-11-27T10:16:48+00:00">
+<div class="post" data-post-id="34583" data-author="Yasik" data-date="2013-11-27T10:16:48+00:00" data-subject="Hey guys, mind lending a hand?">
 
 No time to explain!
 
@@ -24,7 +24,7 @@ Thanks in advance!
 
 </div>
 
-<div class="post" data-post-id="34593" data-author="Yasik" data-date="2013-11-30T17:14:48+00:00">
+<div class="post" data-post-id="34593" data-author="Yasik" data-date="2013-11-30T17:14:48+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Me again.
 
@@ -38,7 +38,7 @@ brb when it all is over, somewhat busy atm, if you know what I'm sayin'
 
 </div>
 
-<div class="post" data-post-id="34601" data-author="Yasik" data-date="2013-12-02T08:24:12+00:00">
+<div class="post" data-post-id="34601" data-author="Yasik" data-date="2013-12-02T08:24:12+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 (image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... e_else.jpg">https://dl.dropboxusercontent.com/u/72105811/Pics/Go_be_riot_police_somewhere_else.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Pics/Go_be_riot_police_somewhere_else.jpg))
 
@@ -60,7 +60,7 @@ PS. [http://www.youtube.com/watch?v=J1RHzYjo5tA](http://www.youtube.com/watch?v=
 
 </div>
 
-<div class="post" data-post-id="34604" data-author="Yasik" data-date="2013-12-02T15:20:04+00:00">
+<div class="post" data-post-id="34604" data-author="Yasik" data-date="2013-12-02T15:20:04+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Few photos with descriptions: [<LINK_TEXT text="http://www.buzzfeed.com/maxseddon/revol ... ussia-deal">http://www.buzzfeed.com/maxseddon/revolution-in-kiev-over-russia-deal</LINK_TEXT>](http://www.buzzfeed.com/maxseddon/revolution-in-kiev-over-russia-deal)
 
@@ -68,13 +68,13 @@ Very true because I was there and saw with my eyes.
 
 </div>
 
-<div class="post" data-post-id="34608" data-author="Yasik" data-date="2013-12-05T07:32:06+00:00">
+<div class="post" data-post-id="34608" data-author="Yasik" data-date="2013-12-05T07:32:06+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 [http://en.wikipedia.org/wiki/Euromaidan](http://en.wikipedia.org/wiki/Euromaidan)
 
 </div>
 
-<div class="post" data-post-id="34609" data-author="Yasik" data-date="2013-12-05T20:55:16+00:00">
+<div class="post" data-post-id="34609" data-author="Yasik" data-date="2013-12-05T20:55:16+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 [http://www.youtube.com/watch?v=kaap1jMjHmk](http://www.youtube.com/watch?v=kaap1jMjHmk)
 
@@ -82,7 +82,7 @@ Subway exit, people singing Ukranian National Anthem, 30 min before 1.6M meeting
 
 </div>
 
-<div class="post" data-post-id="34610" data-author="Yasik" data-date="2013-12-07T10:36:26+00:00">
+<div class="post" data-post-id="34610" data-author="Yasik" data-date="2013-12-07T10:36:26+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Pics/Euro_Maidan_Iron_Maiden.jpg)
 
@@ -92,7 +92,7 @@ I will post photo-report today at evening.
 
 </div>
 
-<div class="post" data-post-id="34611" data-author="Yasik" data-date="2013-12-07T22:15:09+00:00">
+<div class="post" data-post-id="34611" data-author="Yasik" data-date="2013-12-07T22:15:09+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 By request of some our common friends I'm posting a small photo-report.
 
@@ -290,7 +290,7 @@ By request of some our common friends I'm posting a small photo-report.
 
 </div>
 
-<div class="post" data-post-id="34613" data-author="Yasik" data-date="2013-12-08T20:23:26+00:00">
+<div class="post" data-post-id="34613" data-author="Yasik" data-date="2013-12-08T20:23:26+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 [http://www.youtube.com/watch?v=Z_OQnaDFHPA](http://www.youtube.com/watch?v=Z_OQnaDFHPA)
 
@@ -302,7 +302,7 @@ Today view from top of metal carcass supposed to be cristmas tree: [http://www.y
 
 </div>
 
-<div class="post" data-post-id="34616" data-author="Yasik" data-date="2013-12-10T18:44:50+00:00">
+<div class="post" data-post-id="34616" data-author="Yasik" data-date="2013-12-10T18:44:50+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 A bit of lyrics :)
 
@@ -310,7 +310,7 @@ A bit of lyrics :)
 
 </div>
 
-<div class="post" data-post-id="34621" data-author="Yasik" data-date="2013-12-11T17:49:28+00:00">
+<div class="post" data-post-id="34621" data-author="Yasik" data-date="2013-12-11T17:49:28+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Go be riot police somewhere else  8) 
 
@@ -320,7 +320,7 @@ Go be riot police somewhere else  8)
 
 </div>
 
-<div class="post" data-post-id="34622" data-author="Yasik" data-date="2013-12-11T18:33:04+00:00">
+<div class="post" data-post-id="34622" data-author="Yasik" data-date="2013-12-11T18:33:04+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Last night, just before riot police attack on Euromaidan.
 
@@ -332,7 +332,7 @@ I will regret to the end of my days that I was not among them. Those people cove
 
 </div>
 
-<div class="post" data-post-id="34625" data-author="Yasik" data-date="2013-12-12T13:11:57+00:00">
+<div class="post" data-post-id="34625" data-author="Yasik" data-date="2013-12-12T13:11:57+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Barricades today, after tuesday night raid by riot police and authorities' hired marauders.
 
@@ -342,7 +342,7 @@ Harder oppression leads only to even harder resistance.  8)
 
 </div>
 
-<div class="post" data-post-id="34626" data-author="Yasik" data-date="2013-12-12T20:21:59+00:00">
+<div class="post" data-post-id="34626" data-author="Yasik" data-date="2013-12-12T20:21:59+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 View from out of Euromaidan square, banner says "Riot Police! Welcome to hell!".
 
@@ -350,7 +350,7 @@ View from out of Euromaidan square, banner says "Riot Police! Welcome to hell!".
 
 </div>
 
-<div class="post" data-post-id="34629" data-author="Yasik" data-date="2013-12-13T13:15:51+00:00">
+<div class="post" data-post-id="34629" data-author="Yasik" data-date="2013-12-13T13:15:51+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Euromaidan Self-Defence Forces are training to hold the invasion of riot police in tent camp and square.
 
@@ -368,7 +368,7 @@ On 4th photo can see the newly built and reinforced barricades - piles of bags w
 
 </div>
 
-<div class="post" data-post-id="34630" data-author="Yasik" data-date="2013-12-13T22:23:05+00:00">
+<div class="post" data-post-id="34630" data-author="Yasik" data-date="2013-12-13T22:23:05+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Not loosing a sense of humour is arch-important.
 
@@ -386,7 +386,7 @@ One more nice night view.
 
 </div>
 
-<div class="post" data-post-id="34636" data-author="Yasik" data-date="2013-12-15T19:43:46+00:00">
+<div class="post" data-post-id="34636" data-author="Yasik" data-date="2013-12-15T19:43:46+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Yesterday's evening. Quadrocopter view from top of Euromaidan square.
 
@@ -394,7 +394,7 @@ Yesterday's evening. Quadrocopter view from top of Euromaidan square.
 
 </div>
 
-<div class="post" data-post-id="34641" data-author="Dragoth" data-date="2013-12-16T19:14:29+00:00">
+<div class="post" data-post-id="34641" data-author="Dragoth" data-date="2013-12-16T19:14:29+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Is sloth really a place for political discussions ?
 
@@ -406,7 +406,7 @@ Not looking very promising though ..
 
 </div>
 
-<div class="post" data-post-id="34643" data-author="Popeye" data-date="2013-12-16T22:45:37+00:00">
+<div class="post" data-post-id="34643" data-author="Popeye" data-date="2013-12-16T22:45:37+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 I find it interesting
 
@@ -414,13 +414,13 @@ It is not about the politics, it is about people's day to day lives in other cou
 
 </div>
 
-<div class="post" data-post-id="34645" data-author="Yasik" data-date="2013-12-17T06:46:46+00:00">
+<div class="post" data-post-id="34645" data-author="Yasik" data-date="2013-12-17T06:46:46+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 We're not discussing anything, I just keep my fellas informed :)
 
 </div>
 
-<div class="post" data-post-id="34657" data-author="Yasik" data-date="2013-12-19T10:06:26+00:00">
+<div class="post" data-post-id="34657" data-author="Yasik" data-date="2013-12-19T10:06:26+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 MC && HNY
 
@@ -428,7 +428,7 @@ MC && HNY
 
 </div>
 
-<div class="post" data-post-id="34750" data-author="Yasik" data-date="2014-01-02T20:15:51+00:00">
+<div class="post" data-post-id="34750" data-author="Yasik" data-date="2014-01-02T20:15:51+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 I suspect it is quite easy to guess where I've been celebrating New Year night :)
 
@@ -438,7 +438,7 @@ With all my revolutionary brothers and sisters!
 
 </div>
 
-<div class="post" data-post-id="34802" data-author="Yasik" data-date="2014-01-17T14:45:26+00:00">
+<div class="post" data-post-id="34802" data-author="Yasik" data-date="2014-01-17T14:45:26+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Long time no update, fixing that.
 
@@ -468,7 +468,7 @@ Big picture, big font - Right-Click -> Open in New tab -> View Image for closer 
 
 </div>
 
-<div class="post" data-post-id="34805" data-author="Yasik" data-date="2014-01-19T21:44:56+00:00">
+<div class="post" data-post-id="34805" data-author="Yasik" data-date="2014-01-19T21:44:56+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Situation gone wild.
 
@@ -488,7 +488,7 @@ Few photos of whats going on (taken not by me):
 
 </div>
 
-<div class="post" data-post-id="34806" data-author="Yasik" data-date="2014-01-20T10:34:16+00:00">
+<div class="post" data-post-id="34806" data-author="Yasik" data-date="2014-01-20T10:34:16+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Morning update of what was going on yesterday all day and night.
 
@@ -546,19 +546,19 @@ PS. My favorite of all time: noisome dogs of regime trying to make a sally, but 
 
 </div>
 
-<div class="post" data-post-id="34809" data-author="Akaya" data-date="2014-01-20T16:52:46+00:00">
+<div class="post" data-post-id="34809" data-author="Akaya" data-date="2014-01-20T16:52:46+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 This is crazy.
 
 </div>
 
-<div class="post" data-post-id="34810" data-author="Dragoth" data-date="2014-01-21T11:21:20+00:00">
+<div class="post" data-post-id="34810" data-author="Dragoth" data-date="2014-01-21T11:21:20+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 I find it really disturbing, Ukraine population is 45 million people. The most people that ever showed up for these protests were 200,000. This is 0.4% of the population and yet the government is allowing this minority to conduct such atrocities.Nothing good will come of this and Ukraine is well on its way to becoming the new Lybia/Syria, where a minority is going to destabilize and terrorize the lives of normal people in an otherwise stable country.
 
 </div>
 
-<div class="post" data-post-id="34811" data-author="Yasik" data-date="2014-01-21T12:37:19+00:00">
+<div class="post" data-post-id="34811" data-author="Yasik" data-date="2014-01-21T12:37:19+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 > **Dragoth wrote:**
 > I find it really disturbing, Ukraine population is 45 million people. The most people that ever showed up for these protests were 200,000. This is 0.4% of the population and yet the government is allowing this minority to conduct such atrocities.Nothing good will come of this and Ukraine is well on its way to becoming the new Lybia/Syria, where a minority is going to destabilize and terrorize the lives of normal people in an otherwise stable country.
@@ -579,7 +579,7 @@ PS. Also, lets not forget, that civil war in Lybia and Syria is very supported b
 
 </div>
 
-<div class="post" data-post-id="34812" data-author="Dragoth" data-date="2014-01-21T18:53:51+00:00">
+<div class="post" data-post-id="34812" data-author="Dragoth" data-date="2014-01-21T18:53:51+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 There is corruption in every country and there is red tape in every government. 
 
@@ -587,7 +587,7 @@ You want to try and destroy your own country and kill your own people to try and
 
 </div>
 
-<div class="post" data-post-id="34814" data-author="Yasik" data-date="2014-01-21T20:58:41+00:00">
+<div class="post" data-post-id="34814" data-author="Yasik" data-date="2014-01-21T20:58:41+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 That's not true :) To destroy our country - is the goal of Putin and his lackeys, if they wont succede to rebuild the empire.
 
@@ -607,7 +607,7 @@ What else can I do to explain to you whats going on? :)
 
 </div>
 
-<div class="post" data-post-id="34815" data-author="Yasik" data-date="2014-01-22T08:46:44+00:00">
+<div class="post" data-post-id="34815" data-author="Yasik" data-date="2014-01-22T08:46:44+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 January,22 morning: 3 people dead, gunshot by police
 
@@ -615,7 +615,7 @@ update: 4 dead, gunshot by police
 
 </div>
 
-<div class="post" data-post-id="34816" data-author="Dragoth" data-date="2014-01-22T11:07:57+00:00">
+<div class="post" data-post-id="34816" data-author="Dragoth" data-date="2014-01-22T11:07:57+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 And you thought what exactly ?  That you will try and overtake the government, attack the police and no-one will be hurt ? Are you expecting them to welcome you with their arms open and give everything up to you? 
 
@@ -639,7 +639,7 @@ And if you think everyone agrees with what you are doing, this is what your own 
 
 </div>
 
-<div class="post" data-post-id="34817" data-author="Yasik" data-date="2014-01-22T12:32:08+00:00">
+<div class="post" data-post-id="34817" data-author="Yasik" data-date="2014-01-22T12:32:08+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 I know what we're doing and we dont need your links, videos or your personal opinions. Keep them by yourself and mind your own country.
 
@@ -653,7 +653,7 @@ upd: APCs was seen from govt square:
 
 </div>
 
-<div class="post" data-post-id="34818" data-author="Yasik" data-date="2014-01-22T21:29:08+00:00">
+<div class="post" data-post-id="34818" data-author="Yasik" data-date="2014-01-22T21:29:08+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Update.
 
@@ -671,7 +671,7 @@ Will keep you informed...
 
 </div>
 
-<div class="post" data-post-id="34819" data-author="Yasik" data-date="2014-01-23T09:55:22+00:00">
+<div class="post" data-post-id="34819" data-author="Yasik" data-date="2014-01-23T09:55:22+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 January,23 morning: no reports of new dead, but 2 wounded (shot in the eye, metallis bullets removed from bodies by medics, also found on the ground).
 
@@ -683,7 +683,7 @@ Reports about police destroying cars, throwing rocks and molotovs back at Maidan
 
 </div>
 
-<div class="post" data-post-id="34820" data-author="Yasik" data-date="2014-01-23T17:35:48+00:00">
+<div class="post" data-post-id="34820" data-author="Yasik" data-date="2014-01-23T17:35:48+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 **True face of current president and his servants:** [https://www.youtube.com/watch?v=z0zD3pOG-Tk](https://www.youtube.com/watch?v=z0zD3pOG-Tk)
 
@@ -695,7 +695,7 @@ Important update: ukranian riot police commander under terms of anonimity confir
 
 </div>
 
-<div class="post" data-post-id="34821" data-author="Yasik" data-date="2014-01-24T14:09:02+00:00">
+<div class="post" data-post-id="34821" data-author="Yasik" data-date="2014-01-24T14:09:02+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 January,24 : temporary cease of fire, new barricades in capital city of Kyiv; yesterday talks with president ended w/o results - he demands to give up and disprese; today they meeting with eurocomissars Fule and Nuland; in regions, the People enter administrative buildings and peacefully force president's lackeys to resign, may of them do; Austria checks business assets of president's "close friends", Poland parlament demands personal sanctions on bloody ukranian ministers and politicians; riot police and special corps officers resign from duty, refusing to serve the dictator.
 
@@ -723,7 +723,7 @@ Not without sense of humour, cant afford to lose it atm: [https://www.youtube.co
 
 </div>
 
-<div class="post" data-post-id="34826" data-author="Yasik" data-date="2014-01-25T14:47:47+00:00">
+<div class="post" data-post-id="34826" data-author="Yasik" data-date="2014-01-25T14:47:47+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 January, 25
 
@@ -735,7 +735,7 @@ And the People express their will :
 
 </div>
 
-<div class="post" data-post-id="34827" data-author="Yasik" data-date="2014-01-25T15:57:16+00:00">
+<div class="post" data-post-id="34827" data-author="Yasik" data-date="2014-01-25T15:57:16+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Grim news - found another tortured to death activist! Hands and legs tied, all clothing frozen - was poured on water before left to die. Former minister of defence says he knows from his many friends that there a "platoon of death" doing these tortures - russian secret agents.
 
@@ -745,7 +745,7 @@ Grim news - found another tortured to death activist! Hands and legs tied, all c
 
 </div>
 
-<div class="post" data-post-id="34828" data-author="Sam" data-date="2014-01-26T08:20:49+00:00">
+<div class="post" data-post-id="34828" data-author="Sam" data-date="2014-01-26T08:20:49+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Yasik, this is forum of game named Slothmud. 
 
@@ -759,7 +759,7 @@ Don't be dumbass.
 
 </div>
 
-<div class="post" data-post-id="34829" data-author="Yasik" data-date="2014-01-26T12:56:43+00:00">
+<div class="post" data-post-id="34829" data-author="Yasik" data-date="2014-01-26T12:56:43+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 I'm posting because I was asked to, and this is very important historical events. I'm sure many will agree that crimes of currently falling dictatorship regime must be made public, people must know againt who we fight, what for and what will happen if we fail.
 
@@ -767,7 +767,7 @@ There are many threads on this forum not related to the game, I dont hear anyone
 
 </div>
 
-<div class="post" data-post-id="34830" data-author="Sam" data-date="2014-01-26T17:02:33+00:00">
+<div class="post" data-post-id="34830" data-author="Sam" data-date="2014-01-26T17:02:33+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 You hear me complain. 
 
@@ -775,7 +775,7 @@ And who has asked you to post?
 
 </div>
 
-<div class="post" data-post-id="34831" data-author="Yasik" data-date="2014-01-26T17:44:00+00:00">
+<div class="post" data-post-id="34831" data-author="Yasik" data-date="2014-01-26T17:44:00+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 > **Sam wrote:**
 > And who has asked you to post?
@@ -788,7 +788,7 @@ Complain if you want, to site admin.
 
 </div>
 
-<div class="post" data-post-id="34837" data-author="Yasik" data-date="2014-01-28T09:12:35+00:00">
+<div class="post" data-post-id="34837" data-author="Yasik" data-date="2014-01-28T09:12:35+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 January,28
 
@@ -802,7 +802,7 @@ EU and USA checking foreign assets of Ukranian PEPs (politically exposed person)
 
 </div>
 
-<div class="post" data-post-id="34839" data-author="*Splork*" data-date="2014-01-28T12:16:17+00:00">
+<div class="post" data-post-id="34839" data-author="*Splork*" data-date="2014-01-28T12:16:17+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Yasik,
 
@@ -814,7 +814,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34861" data-author="Yasik" data-date="2014-02-13T15:41:13+00:00">
+<div class="post" data-post-id="34861" data-author="Yasik" data-date="2014-02-13T15:41:13+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Since I did not get an answer if I should stop posting at all or just post less frequently and choose graphical materials more thoroughly, taking into account that there's still requests of information on what's going on, respecting people's rights to access the information, and being eye-witness and participant of events taking place, I decide to continue to inform our community using third-party hosting:
 
@@ -824,31 +824,31 @@ Enjoy! (c)  8)
 
 </div>
 
-<div class="post" data-post-id="34862" data-author="Magi" data-date="2014-02-13T17:45:10+00:00">
+<div class="post" data-post-id="34862" data-author="Magi" data-date="2014-02-13T17:45:10+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Thanks!  Good solution, and I'll be following.
 
 </div>
 
-<div class="post" data-post-id="34865" data-author="celerra7" data-date="2014-02-14T16:21:22+00:00">
+<div class="post" data-post-id="34865" data-author="celerra7" data-date="2014-02-14T16:21:22+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 I'll be watching, also.
 
 </div>
 
-<div class="post" data-post-id="34867" data-author="DarkArtist" data-date="2014-02-15T13:53:06+00:00">
+<div class="post" data-post-id="34867" data-author="DarkArtist" data-date="2014-02-15T13:53:06+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 I appreciate the information you've been providing. Very fascinating/timely stuff.
 
 </div>
 
-<div class="post" data-post-id="34889" data-author="Yasik" data-date="2014-03-04T22:31:21+00:00">
+<div class="post" data-post-id="34889" data-author="Yasik" data-date="2014-03-04T22:31:21+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 Just a reminder, I still keep updating the blog  [http://yasikmaidan.livejournal.com/](http://yasikmaidan.livejournal.com/)  on regular basis.
 
 </div>
 
-<div class="post" data-post-id="34890" data-author="Dandelo" data-date="2014-03-05T00:23:53+00:00">
+<div class="post" data-post-id="34890" data-author="Dandelo" data-date="2014-03-05T00:23:53+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 I just bookmarked the link. Stay safe.
 
@@ -856,7 +856,7 @@ Stilgar
 
 </div>
 
-<div class="post" data-post-id="35627" data-author="Yasik" data-date="2015-01-12T18:59:40+00:00">
+<div class="post" data-post-id="35627" data-author="Yasik" data-date="2015-01-12T18:59:40+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
 I think its ok to refresh this thread once in 9 month. Not going to post everything that happened, though.
 

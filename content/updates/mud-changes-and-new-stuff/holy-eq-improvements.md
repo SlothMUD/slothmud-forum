@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34121" data-author="*juggleblood*" data-date="2013-03-04T06:16:49+00:00">
+<div class="post" data-post-id="34121" data-author="*juggleblood*" data-date="2013-03-04T06:16:49+00:00" data-subject="Holy Eq Improvements">
 
 A new update as of 3/6/2013. Sleeves, bracelet, girdle heavily modified, added charisma wings, resist web shield, some other added detects.
 

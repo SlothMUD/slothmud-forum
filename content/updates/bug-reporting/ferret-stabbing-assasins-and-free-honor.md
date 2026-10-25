@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36882" data-author="Teron" data-date="2016-04-25T12:52:33+00:00">
+<div class="post" data-post-id="36882" data-author="Teron" data-date="2016-04-25T12:52:33+00:00" data-subject="ferret-stabbing assasins and free honor">
 
 Hi.
 
@@ -166,7 +166,7 @@ I'm not sure, if it's the easiest way to farm honor at the moment.
 
 </div>
 
-<div class="post" data-post-id="36884" data-author="Ker" data-date="2016-04-25T15:51:31+00:00">
+<div class="post" data-post-id="36884" data-author="Ker" data-date="2016-04-25T15:51:31+00:00" data-subject="Re: ferret-stabbing assasins and free honor">
 
 It has something to do with petrified armor I'm sure, long reported bug but oh well -
 

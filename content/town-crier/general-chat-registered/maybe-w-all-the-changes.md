@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="20764" data-author="alias" data-date="2007-10-11T18:28:28+00:00">
+<div class="post" data-post-id="20764" data-author="alias" data-date="2007-10-11T18:28:28+00:00" data-subject="Maybe w/ all the changes ?">
 
 Maybe w. all the changes the immorts would like to give characters to change 1 class in their order to another class. Many many things have been changed since the start of even the new classes. IE let some change their monk class to necro or mage class to cleric ect. Just a thought, think it over if you would.
 
@@ -20,7 +20,7 @@ alias
 
 </div>
 
-<div class="post" data-post-id="20770" data-author="Tap" data-date="2007-10-11T21:40:45+00:00">
+<div class="post" data-post-id="20770" data-author="Tap" data-date="2007-10-11T21:40:45+00:00" data-subject="Mort for remort">
 
 [quote:23z5fchc]Maybe w. all the changes the immorts would like to give characters to change 1 class in their order to another class.[/quote:23z5fchc]
 
@@ -34,19 +34,19 @@ I wish you had before you posted this. We should be able to remove our own post.
 
 </div>
 
-<div class="post" data-post-id="20777" data-author="alias" data-date="2007-10-12T02:05:17+00:00">
+<div class="post" data-post-id="20777" data-author="alias" data-date="2007-10-12T02:05:17+00:00" data-subject="">
 
 I have several alts and enjoy them all tyvm.
 
 </div>
 
-<div class="post" data-post-id="20778" data-author="Weasel" data-date="2007-10-12T02:11:15+00:00">
+<div class="post" data-post-id="20778" data-author="Weasel" data-date="2007-10-12T02:11:15+00:00" data-subject="">
 
 I'd love to change the classo on one of my alts - even it was just to rearrange the class order for their existing classes.. can't see it happening though..
 
 </div>
 
-<div class="post" data-post-id="20802" data-author="Avatar" data-date="2007-10-12T14:21:41+00:00">
+<div class="post" data-post-id="20802" data-author="Avatar" data-date="2007-10-12T14:21:41+00:00" data-subject="Change classo">
 
 I like this idea, but I'd propose a few further recommendations:
 
@@ -58,7 +58,7 @@ This is supposed to be a multi-class mud anyway.
 
 </div>
 
-<div class="post" data-post-id="20803" data-author="Leaf" data-date="2007-10-12T14:49:40+00:00">
+<div class="post" data-post-id="20803" data-author="Leaf" data-date="2007-10-12T14:49:40+00:00" data-subject="">
 
 What about stats?
 
@@ -70,7 +70,7 @@ What about MONKS!!!
 
 </div>
 
-<div class="post" data-post-id="20805" data-author="van" data-date="2007-10-12T15:54:35+00:00">
+<div class="post" data-post-id="20805" data-author="van" data-date="2007-10-12T15:54:35+00:00" data-subject="Re: Mort for remort">
 
 [quote:30grhbq4]Maybe w. all the changes the immorts would like to give characters to change 1 class in their order to another class.[/quote:30grhbq4]
 
@@ -88,13 +88,13 @@ Since it won't happen, I'll go back to stabbing and wishing I could blast when I
 
 </div>
 
-<div class="post" data-post-id="20808" data-author="13" data-date="2007-10-12T16:37:24+00:00">
+<div class="post" data-post-id="20808" data-author="13" data-date="2007-10-12T16:37:24+00:00" data-subject="">
 
 I agree I think you should be able to complete and autoquest to do this.
 
 </div>
 
-<div class="post" data-post-id="20810" data-author="Leaf" data-date="2007-10-12T16:51:50+00:00">
+<div class="post" data-post-id="20810" data-author="Leaf" data-date="2007-10-12T16:51:50+00:00" data-subject="">
 
 Maybe then all the old school class order will be updated ... However don't
 
@@ -104,13 +104,13 @@ chars and have lvl them up.
 
 </div>
 
-<div class="post" data-post-id="20812" data-author="strider" data-date="2007-10-12T16:55:25+00:00">
+<div class="post" data-post-id="20812" data-author="strider" data-date="2007-10-12T16:55:25+00:00" data-subject="">
 
 just sing lions or gods and put your slot back to use!
 
 </div>
 
-<div class="post" data-post-id="20815" data-author="van" data-date="2007-10-12T17:04:50+00:00">
+<div class="post" data-post-id="20815" data-author="van" data-date="2007-10-12T17:04:50+00:00" data-subject="">
 
 Oh, I do sing gods while soloing sometimes.  However, my mana gets depleted rather quickly by lites, rabbits, and the occasional reloc.  
 
@@ -124,13 +124,13 @@ Do the math... :)
 
 </div>
 
-<div class="post" data-post-id="20816" data-author="strider" data-date="2007-10-12T17:09:35+00:00">
+<div class="post" data-post-id="20816" data-author="strider" data-date="2007-10-12T17:09:35+00:00" data-subject="">
 
 use lions, still add some dmg and you should regen it while singing. sides, you should always be full anyway, thieves rule!
 
 </div>
 
-<div class="post" data-post-id="20817" data-author="van" data-date="2007-10-12T17:11:24+00:00">
+<div class="post" data-post-id="20817" data-author="van" data-date="2007-10-12T17:11:24+00:00" data-subject="">
 
 use lions, still add some dmg and you should regen it while singing. sides, you should always be full anyway, thieves rule![/quote:215uas3k]
 
@@ -138,13 +138,13 @@ Thanks for the tip.  As to thieves ruling... give me 1800 drachma and 2 +dam rin
 
 </div>
 
-<div class="post" data-post-id="20818" data-author="Roadrunr" data-date="2007-10-12T17:30:19+00:00">
+<div class="post" data-post-id="20818" data-author="Roadrunr" data-date="2007-10-12T17:30:19+00:00" data-subject="">
 
 hasnt this been done in the past and (iirc) it required 5x40 status, loss of tard levels and stats were rolled.  At least thats what I remember hearing about it.  nothing I'd be up for.  I'll get by with my classo thanks.
 
 </div>
 
-<div class="post" data-post-id="20819" data-author="Weasel" data-date="2007-10-12T17:41:56+00:00">
+<div class="post" data-post-id="20819" data-author="Weasel" data-date="2007-10-12T17:41:56+00:00" data-subject="">
 
 You'd certainly have to have your stats rerolled, and any prime autoquest eq completed would have to be junked.. 
 
@@ -152,13 +152,13 @@ RR I think it was discussed to some extent back when the additional 4 classes we
 
 </div>
 
-<div class="post" data-post-id="20820" data-author="13" data-date="2007-10-12T17:42:46+00:00">
+<div class="post" data-post-id="20820" data-author="13" data-date="2007-10-12T17:42:46+00:00" data-subject="">
 
 Cocaine rules w/out that shit.  I'm totally pleased with him anyway.
 
 </div>
 
-<div class="post" data-post-id="20826" data-author="Roadrunr" data-date="2007-10-12T22:33:33+00:00">
+<div class="post" data-post-id="20826" data-author="Roadrunr" data-date="2007-10-12T22:33:33+00:00" data-subject="">
 
 No, I'm fairly certain it has been done but it was before the new classos and really only involved swapping two around...
 

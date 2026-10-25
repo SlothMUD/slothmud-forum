@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="11044" data-author="*juggleblood*" data-date="2006-03-03T21:45:57+00:00">
+<div class="post" data-post-id="11044" data-author="*juggleblood*" data-date="2006-03-03T21:45:57+00:00" data-subject="Sanc Duration">
 
 How is Sanc duration caculated?
 
@@ -22,7 +22,7 @@ Anyone have any idea how it actually works?
 
 </div>
 
-<div class="post" data-post-id="11048" data-author="Weasel" data-date="2006-03-03T23:10:07+00:00">
+<div class="post" data-post-id="11048" data-author="Weasel" data-date="2006-03-03T23:10:07+00:00" data-subject="">
 
 afaik it can't be predicted other than a very vague idea of when it might fall.. too many variables. It also depends on casters level (aegis), and of course masterful casting comes into it, and it's variable duration regardless - can't remeber the exact parameters as it changed a couple of years ago now, but standard sanc can be anywhere from 2mins 45secs and up I believe. 
 
@@ -30,7 +30,7 @@ Forget even trying to make a countdown lite timer based on when the sanc was cas
 
 </div>
 
-<div class="post" data-post-id="11051" data-author="*juggleblood*" data-date="2006-03-04T10:30:06+00:00">
+<div class="post" data-post-id="11051" data-author="*juggleblood*" data-date="2006-03-04T10:30:06+00:00" data-subject="">
 
 Ok, but the average duration must be longer than 3 ticks.
 
@@ -42,7 +42,7 @@ The only astrological influence was minor long shadows, if that could even have 
 
 </div>
 
-<div class="post" data-post-id="11052" data-author="Weasel" data-date="2006-03-04T13:23:58+00:00">
+<div class="post" data-post-id="11052" data-author="Weasel" data-date="2006-03-04T13:23:58+00:00" data-subject="">
 
 yes for sure, the average is definitely more than 3 minutes, but there's still a minimum duration and you never know when it may happen, which is what makes it so difficult to create an effective sanc timer that counts from casting.
 
@@ -50,7 +50,7 @@ Another option is to have a timer just advise after every minute (ie: sanc has b
 
 </div>
 
-<div class="post" data-post-id="11055" data-author="Qa" data-date="2006-03-04T13:49:02+00:00">
+<div class="post" data-post-id="11055" data-author="Qa" data-date="2006-03-04T13:49:02+00:00" data-subject="">
 
 Being old sch00l, I had a sanc/aegis counter set up for the old tick system.  Being a lazy person, I didn't bother eliminating it when they changed the regen and spell counting methods.  The thing still works quite well.  It is usually a touch short - 30 - 45 seconds.  A masterful will be an extra tick.  It gives me a rough idea of what I have left, and then I can watch for the 60 second warning.  I find that 60 second warning to be accurate to better than 3 seconds.
 
@@ -62,7 +62,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="11067" data-author="Mace" data-date="2006-03-05T01:18:32+00:00">
+<div class="post" data-post-id="11067" data-author="Mace" data-date="2006-03-05T01:18:32+00:00" data-subject="">
 
 "10 times today and results varied from 253 seconds to 298 seconds. "
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="30143" data-author="angel" data-date="2009-10-21T12:37:53+00:00">
+<div class="post" data-post-id="30143" data-author="angel" data-date="2009-10-21T12:37:53+00:00" data-subject="Beta test mud">
 
 beware of doing things too well on s4, itll be nerfed! this mud isnt fixed up n proper yet,its shud be called a beta mud rather than a mud imo.
 
@@ -20,13 +20,13 @@ funny how ironic this turned out to be:)
 
 </div>
 
-<div class="post" data-post-id="30144" data-author="*juggleblood*" data-date="2009-10-21T12:50:33+00:00">
+<div class="post" data-post-id="30144" data-author="*juggleblood*" data-date="2009-10-21T12:50:33+00:00" data-subject="">
 
 I'm not sure exactly what your complaint is, but maybe if you hadn't devoted every waking moment to this game, you wouldn't have bumped up against the upper limits. Just a thought.
 
 </div>
 
-<div class="post" data-post-id="30145" data-author="angel" data-date="2009-10-21T13:04:55+00:00">
+<div class="post" data-post-id="30145" data-author="angel" data-date="2009-10-21T13:04:55+00:00" data-subject="">
 
 eg: 2man fallon,4 run subdued,next 2days,nerfed,dragon hits all viscous thru sanc now:) go figure.
 
@@ -34,13 +34,13 @@ some1 said it wasnt fair that u a feef and a warrior could subdue fallon..hence 
 
 </div>
 
-<div class="post" data-post-id="30146" data-author="angel" data-date="2009-10-21T13:07:33+00:00">
+<div class="post" data-post-id="30146" data-author="angel" data-date="2009-10-21T13:07:33+00:00" data-subject="">
 
 so ur saying we shud be discouraged to play sloth now?
 
 </div>
 
-<div class="post" data-post-id="30147" data-author="blackmore" data-date="2009-10-21T13:19:41+00:00">
+<div class="post" data-post-id="30147" data-author="blackmore" data-date="2009-10-21T13:19:41+00:00" data-subject="">
 
 Of course sloth is always changing and could be hit with a 'beta' tag.  It's been that way for 15 years.  When the imms stop working on it, it dies.
 
@@ -48,7 +48,7 @@ So imms should never adjust mobs if they feel their reward is too high for their
 
 </div>
 
-<div class="post" data-post-id="30148" data-author="angel" data-date="2009-10-21T13:39:13+00:00">
+<div class="post" data-post-id="30148" data-author="angel" data-date="2009-10-21T13:39:13+00:00" data-subject="">
 
 fallon has been there for ages,ppl used to solo it in s3, but no they didnt nerf it then.
 
@@ -58,7 +58,7 @@ same thing happened to magi etc,i mean fix something properly b4 u let ppl play 
 
 </div>
 
-<div class="post" data-post-id="30149" data-author="Vixn" data-date="2009-10-21T16:33:28+00:00">
+<div class="post" data-post-id="30149" data-author="Vixn" data-date="2009-10-21T16:33:28+00:00" data-subject="">
 
 Nerfing has been one of the worse things that can happen to a game.[/quote:1m75bkjm]
 
@@ -68,7 +68,7 @@ Kida.
 
 </div>
 
-<div class="post" data-post-id="30150" data-author="*Chobbs*" data-date="2009-10-21T18:54:14+00:00">
+<div class="post" data-post-id="30150" data-author="*Chobbs*" data-date="2009-10-21T18:54:14+00:00" data-subject="">
 
 [quote:1zqeoab8]"The name "Sloth" was chosen to embody the original philosophy of the mud, which was to make everybody's lives as easy as possible."
 
@@ -94,7 +94,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30151" data-author="Thraxas" data-date="2009-10-21T23:28:50+00:00">
+<div class="post" data-post-id="30151" data-author="Thraxas" data-date="2009-10-21T23:28:50+00:00" data-subject="">
 
 Nice come back Chobbs, not that you need it but you got my support for the fixing of Sloth. 
 
@@ -112,7 +112,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30152" data-author="jezer" data-date="2009-10-21T23:49:54+00:00">
+<div class="post" data-post-id="30152" data-author="jezer" data-date="2009-10-21T23:49:54+00:00" data-subject="">
 
 Other areas will be tweaked so that they are actually productive.[/quote:1nsv94fb]
 
@@ -130,7 +130,7 @@ Maybe it's time to look at implementing that bard song that gets a mob to report
 
 </div>
 
-<div class="post" data-post-id="30156" data-author="*juggleblood*" data-date="2009-10-22T03:54:07+00:00">
+<div class="post" data-post-id="30156" data-author="*juggleblood*" data-date="2009-10-22T03:54:07+00:00" data-subject="">
 
 I didn't know you were talking about a current issue angel. Actually I didn't even realize you were currently playing. I thought u bailed after the reset. My bad.
 
@@ -138,13 +138,13 @@ Welcome back :)
 
 </div>
 
-<div class="post" data-post-id="30160" data-author="Toxis" data-date="2009-10-22T11:31:08+00:00">
+<div class="post" data-post-id="30160" data-author="Toxis" data-date="2009-10-22T11:31:08+00:00" data-subject="">
 
 Don't add eq or drachma to pre-existing mobs or they'll have to be made tougher!  Forget new areas and mobs.  INCONCEIVABLE!
 
 </div>
 
-<div class="post" data-post-id="30162" data-author="*Splork*" data-date="2009-10-22T15:02:12+00:00">
+<div class="post" data-post-id="30162" data-author="*Splork*" data-date="2009-10-22T15:02:12+00:00" data-subject="">
 
 SlothMUD was built on new areas and mobs, so that might of been one of the dumbest comments Ive ever seen said in these forums.
 
@@ -152,7 +152,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30163" data-author="Thraxas" data-date="2009-10-22T15:43:42+00:00">
+<div class="post" data-post-id="30163" data-author="Thraxas" data-date="2009-10-22T15:43:42+00:00" data-subject="">
 
 Don't add eq or drachma to pre-existing mobs or they'll have to be made tougher! Forget new areas and mobs. INCONCEIVABLE!
 
@@ -166,7 +166,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30165" data-author="*juggleblood*" data-date="2009-10-22T19:02:26+00:00">
+<div class="post" data-post-id="30165" data-author="*juggleblood*" data-date="2009-10-22T19:02:26+00:00" data-subject="">
 
 This is the same crap I got when I tried to moderate potion use/abuse. 
 
@@ -186,13 +186,13 @@ I'm glad Chobbs is so involved with the mud. His enthusiasm has inspired me to b
 
 </div>
 
-<div class="post" data-post-id="30166" data-author="Rigwarl" data-date="2009-10-23T15:36:41+00:00">
+<div class="post" data-post-id="30166" data-author="Rigwarl" data-date="2009-10-23T15:36:41+00:00" data-subject="">
 
 It's all fun and games till someone kills the elder titan at level 40.
 
 </div>
 
-<div class="post" data-post-id="30167" data-author="Atwell" data-date="2009-10-24T00:58:34+00:00">
+<div class="post" data-post-id="30167" data-author="Atwell" data-date="2009-10-24T00:58:34+00:00" data-subject="">
 
 Terminology like "needs rebalancing", "broken", and "fixed" in this context implies that we have an objective standard for what  gameplay should look like, and you're trying to make the game mesh with that standard.  We'd all agree on extreme basics, for example that modifying the MUD to not crash where it currently does is a "fix".  Beyond that, I contend that a game is a standard unto itself.  We don't propose to balance the chess queen with the rook; we just play chess with knowledge of the difference.
 
@@ -200,7 +200,7 @@ Changing the game when players identify strong strategies or high-payoff mobs di
 
 </div>
 
-<div class="post" data-post-id="30168" data-author="*Chobbs*" data-date="2009-10-24T02:38:50+00:00">
+<div class="post" data-post-id="30168" data-author="*Chobbs*" data-date="2009-10-24T02:38:50+00:00" data-subject="">
 
 [quote:1cqahqv4]Terminology like "needs rebalancing", "broken", and "fixed" in this context implies that we have an objective standard for what gameplay should look like, and you're trying to make the game mesh with that standard. We'd all agree on extreme basics, for example that modifying the MUD to not crash where it currently does is a "fix". Beyond that, I contend that a game is a standard unto itself. We don't propose to balance the chess queen with the rook; we just play chess with knowledge of the difference.[/quote:1cqahqv4]
 
@@ -222,7 +222,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30169" data-author="angel" data-date="2009-10-24T08:46:31+00:00">
+<div class="post" data-post-id="30169" data-author="angel" data-date="2009-10-24T08:46:31+00:00" data-subject="">
 
 wb atwell,where u been?:) well said anyways
 
@@ -242,7 +242,7 @@ u talk about challenge, this is wat ur proposing arent u? just beef up mobs from
 
 </div>
 
-<div class="post" data-post-id="30170" data-author="angel" data-date="2009-10-24T08:50:10+00:00">
+<div class="post" data-post-id="30170" data-author="angel" data-date="2009-10-24T08:50:10+00:00" data-subject="">
 
 so lessay one find day,ill get a 4x40 n solo fallon,tiamat,all the boring crap. 
 
@@ -250,7 +250,7 @@ ur gonna beef them up as well? go ahead,do it now why wait till we start doing i
 
 </div>
 
-<div class="post" data-post-id="30171" data-author="angel" data-date="2009-10-24T10:31:49+00:00">
+<div class="post" data-post-id="30171" data-author="angel" data-date="2009-10-24T10:31:49+00:00" data-subject="">
 
 You brutally gut a purple dragon!
 
@@ -280,7 +280,7 @@ gjob, 0 xp too now?
 
 </div>
 
-<div class="post" data-post-id="30172" data-author="*juggleblood*" data-date="2009-10-24T15:37:19+00:00">
+<div class="post" data-post-id="30172" data-author="*juggleblood*" data-date="2009-10-24T15:37:19+00:00" data-subject="">
 
 Terminology like "needs rebalancing", "broken", and "fixed" in this context implies that we have an objective standard for what  gameplay should look like, and you're trying to make the game mesh with that standard.  We'd all agree on extreme basics, for example that modifying the MUD to not crash where it currently does is a "fix".  Beyond that, I contend that a game is a standard unto itself.  We don't propose to balance the chess queen with the rook; we just play chess with knowledge of the difference.
 

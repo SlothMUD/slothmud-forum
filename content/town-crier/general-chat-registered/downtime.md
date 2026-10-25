@@ -10,7 +10,7 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="9443" data-author="*Splork*" data-date="2005-11-09T22:26:45+00:00">
+<div class="post" data-post-id="9443" data-author="*Splork*" data-date="2005-11-09T22:26:45+00:00" data-subject="Downtime">
 
 Our motherboard on the game server blew, so the hosting company needed time to replace it(Once they found out). I was out of town at the time so didnt hear about it till somebody called me, I notified Jake asap and he put the ticket in. Game fixed, etc...
 
@@ -22,7 +22,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="9444" data-author="jezer" data-date="2005-11-09T23:39:34+00:00">
+<div class="post" data-post-id="9444" data-author="jezer" data-date="2005-11-09T23:39:34+00:00" data-subject="">
 
 All fixed? Nice!
 
@@ -32,7 +32,7 @@ Take our sometimes "ungreatful whining" attitude as a sign of how much we really
 
 </div>
 
-<div class="post" data-post-id="9446" data-author="dt" data-date="2005-11-10T00:04:33+00:00">
+<div class="post" data-post-id="9446" data-author="dt" data-date="2005-11-10T00:04:33+00:00" data-subject="I Blame Splork">
 
 Fact 1 --  Splork just 'happens' to be out of town
 
@@ -44,13 +44,13 @@ I Blame Splork :twisted:
 
 </div>
 
-<div class="post" data-post-id="9449" data-author="kjartan" data-date="2005-11-10T03:43:19+00:00">
+<div class="post" data-post-id="9449" data-author="kjartan" data-date="2005-11-10T03:43:19+00:00" data-subject="">
 
 I was out of town too, strangely enough.  That was some timing.
 
 </div>
 
-<div class="post" data-post-id="9450" data-author="Weasel" data-date="2005-11-10T09:16:12+00:00">
+<div class="post" data-post-id="9450" data-author="Weasel" data-date="2005-11-10T09:16:12+00:00" data-subject="">
 
 Must've been Dot then...
 
@@ -58,7 +58,7 @@ Must've been Dot then...
 
 </div>
 
-<div class="post" data-post-id="9453" data-author="Qa" data-date="2005-11-10T14:19:50+00:00">
+<div class="post" data-post-id="9453" data-author="Qa" data-date="2005-11-10T14:19:50+00:00" data-subject="">
 
 Thanks, Splork, Jake, KJ, et al.
 
@@ -70,13 +70,13 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="9456" data-author="firebrand" data-date="2005-11-10T16:29:25+00:00">
+<div class="post" data-post-id="9456" data-author="firebrand" data-date="2005-11-10T16:29:25+00:00" data-subject="">
 
 jake and a few kind people are providing the money for us to have this game for free.  they pay for the server and the costs to keep the website and game hosted.  so be nice and vote, will ya?  it's a tiny way to say thanks for all they do for us.
 
 </div>
 
-<div class="post" data-post-id="9457" data-author="Gnu" data-date="2005-11-10T17:10:21+00:00">
+<div class="post" data-post-id="9457" data-author="Gnu" data-date="2005-11-10T17:10:21+00:00" data-subject="idea">
 
 Well... Jake, Splork, Kj, Downtime, bitching etc.... we know everything about all these and there is nothing to discuss here... 
 
@@ -106,13 +106,13 @@ oppinions?
 
 </div>
 
-<div class="post" data-post-id="9458" data-author="12345" data-date="2005-11-10T18:00:19+00:00">
+<div class="post" data-post-id="9458" data-author="12345" data-date="2005-11-10T18:00:19+00:00" data-subject="">
 
 I think it'd just be easier to create a day when the entire mud (except Valk) is flagged as a wild magic zone.  I think I'd pretty much stay on Valk if that ever happened, unless xp or gold or something was raised accordingly.
 
 </div>
 
-<div class="post" data-post-id="9460" data-author="Leaf" data-date="2005-11-10T19:27:03+00:00">
+<div class="post" data-post-id="9460" data-author="Leaf" data-date="2005-11-10T19:27:03+00:00" data-subject="">
 
 Is 12345 afraid of creating a lump of coal :)
 
@@ -124,7 +124,7 @@ put on the top of his $hit list.
 
 </div>
 
-<div class="post" data-post-id="9462" data-author="*Splork*" data-date="2005-11-10T22:17:05+00:00">
+<div class="post" data-post-id="9462" data-author="*Splork*" data-date="2005-11-10T22:17:05+00:00" data-subject="">
 
 There is no reason to be concerned about our server. We are hosted by a professional hosting company on a dedicated server. The cost is mostly covered by the creators. 
 
@@ -138,7 +138,7 @@ Btw, I really like Gnu's idea.
 
 </div>
 
-<div class="post" data-post-id="9463" data-author="Argeos" data-date="2005-11-10T23:24:48+00:00">
+<div class="post" data-post-id="9463" data-author="Argeos" data-date="2005-11-10T23:24:48+00:00" data-subject="Re: idea">
 
 hm... and here is the IDEA! 
 
@@ -162,13 +162,13 @@ Argeos
 
 </div>
 
-<div class="post" data-post-id="9464" data-author="Weasel" data-date="2005-11-11T00:20:18+00:00">
+<div class="post" data-post-id="9464" data-author="Weasel" data-date="2005-11-11T00:20:18+00:00" data-subject="">
 
 Umm.. you seriously think having 'weak' days, or wild magic days or days where all raises fail is going to be a good thing? Personally I think all it would do in most cases is cause the players to logoff and come back the next day.. not really a good idea imho.
 
 </div>
 
-<div class="post" data-post-id="9465" data-author="Gnu" data-date="2005-11-11T00:23:26+00:00">
+<div class="post" data-post-id="9465" data-author="Gnu" data-date="2005-11-11T00:23:26+00:00" data-subject="idea">
 
 Honestly, I was thinking about something more simple like in the  
 
@@ -180,13 +180,13 @@ It's just the idea, it has many gaps and weak places... but anyway thanx for des
 
 </div>
 
-<div class="post" data-post-id="9466" data-author="Weasel" data-date="2005-11-11T00:31:30+00:00">
+<div class="post" data-post-id="9466" data-author="Weasel" data-date="2005-11-11T00:31:30+00:00" data-subject="">
 
 np :) if it's a helpful (advantageous) effect, then everyone will love it of course.. but if it's detrimental to gameplay, then ya just know people aren't going to take well to it, that's really all I was saying - not meant to be a put-down or anything. hehe.
 
 </div>
 
-<div class="post" data-post-id="9469" data-author="*Splork*" data-date="2005-11-11T01:00:07+00:00">
+<div class="post" data-post-id="9469" data-author="*Splork*" data-date="2005-11-11T01:00:07+00:00" data-subject="">
 
 It wouldn't have to be 'weak'days...
 
@@ -200,7 +200,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="9491" data-author="osric" data-date="2005-11-12T05:04:08+00:00">
+<div class="post" data-post-id="9491" data-author="osric" data-date="2005-11-12T05:04:08+00:00" data-subject="">
 
 Finally Splork, I thought you never got my ingame No Shave Friday email, I mean its my favorite activity in rl, so it might as well be my favorite mud day too! Basically ok, friday would be No Shave Friday, and you dont shave, and your character wont have to shave either, right, so then all the people you work with won't know that its really No Shave Friday on the mud, and itll be a huge in joke, but just for slothers. Thanks Splork! :D 
 
@@ -212,13 +212,13 @@ PS Thanks for letting us know what was up!
 
 </div>
 
-<div class="post" data-post-id="9492" data-author="Weasel" data-date="2005-11-12T08:20:31+00:00">
+<div class="post" data-post-id="9492" data-author="Weasel" data-date="2005-11-12T08:20:31+00:00" data-subject="">
 
 "skills actually work day" hehehe good call :)
 
 </div>
 
-<div class="post" data-post-id="9493" data-author="Grue" data-date="2005-11-12T17:22:34+00:00">
+<div class="post" data-post-id="9493" data-author="Grue" data-date="2005-11-12T17:22:34+00:00" data-subject="">
 
 You know I'm not sure mentioning a real life activity that is not included in the game is so wise :) 
 
@@ -254,7 +254,7 @@ Kj, what do you think :)
 
 </div>
 
-<div class="post" data-post-id="9494" data-author="Weasel" data-date="2005-11-12T17:54:03+00:00">
+<div class="post" data-post-id="9494" data-author="Weasel" data-date="2005-11-12T17:54:03+00:00" data-subject="">
 
 Hmm. And to balance it, perhaps female characters would also have 'issues' ..but only once a month ..and since male chars would have to shave their beards daily, female chars would have to suffer PMS and be totally messed up (ie: attack innkeepers and other insanely huge mobs for no reason, refuse to group with male characters etc) for a whole week each month. 
 
@@ -262,13 +262,13 @@ Hmm. And to balance it, perhaps female characters would also have 'issues' ..but
 
 </div>
 
-<div class="post" data-post-id="9495" data-author="brand" data-date="2005-11-12T18:30:18+00:00">
+<div class="post" data-post-id="9495" data-author="brand" data-date="2005-11-12T18:30:18+00:00" data-subject="">
 
 oh boy....
 
 </div>
 
-<div class="post" data-post-id="9496" data-author="Shazuko" data-date="2005-11-12T19:35:37+00:00">
+<div class="post" data-post-id="9496" data-author="Shazuko" data-date="2005-11-12T19:35:37+00:00" data-subject="">
 
 [quote:17xvotes]Practical effect - beards impair battles due to getting scratchy after a certain amount of time[/quote:17xvotes]
 
@@ -278,7 +278,7 @@ tell that to a dwarf!
 
 </div>
 
-<div class="post" data-post-id="9497" data-author="Leaf" data-date="2005-11-12T20:33:54+00:00">
+<div class="post" data-post-id="9497" data-author="Leaf" data-date="2005-11-12T20:33:54+00:00" data-subject="">
 
 I'm an Asian Male, and can go without shaving for days.
 

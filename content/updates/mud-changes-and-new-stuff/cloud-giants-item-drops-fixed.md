@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33845" data-author="*Neptune*" data-date="2012-12-14T21:43:22+00:00">
+<div class="post" data-post-id="33845" data-author="*Neptune*" data-date="2012-12-14T21:43:22+00:00" data-subject="Cloud Giants Item Drops Fixed">
 
 Fixed a problem with the random EQ loads in the Cloud Giants. The wrong list
 
@@ -36,7 +36,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="33857" data-author="*Neptune*" data-date="2012-12-21T16:17:59+00:00">
+<div class="post" data-post-id="33857" data-author="*Neptune*" data-date="2012-12-21T16:17:59+00:00" data-subject="Re: Cloud Giants Item Drops Fixed">
 
 Lowered load rates of random equipment and components in Cloud Giants.
 

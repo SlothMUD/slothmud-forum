@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="6424" data-author="SirRobin" data-date="2005-05-23T13:59:16+00:00">
+<div class="post" data-post-id="6424" data-author="SirRobin" data-date="2005-05-23T13:59:16+00:00" data-subject="Are Stat Rolls and Rerolls Random?">
 
 1) Are stat rolls completely random?
 
@@ -30,7 +30,7 @@ Someone said that at higher levels the stats don’t matter as much as your clas
 
 </div>
 
-<div class="post" data-post-id="6426" data-author="Alberich" data-date="2005-05-23T14:09:07+00:00">
+<div class="post" data-post-id="6426" data-author="Alberich" data-date="2005-05-23T14:09:07+00:00" data-subject="Re: Are Stat Rolls and Rerolls Random?">
 
 1) Are stat rolls completely random?[/quote:2pznh3ub]
 
@@ -54,7 +54,7 @@ see above :)
 
 </div>
 
-<div class="post" data-post-id="6427" data-author="Leaf" data-date="2005-05-23T14:14:28+00:00">
+<div class="post" data-post-id="6427" data-author="Leaf" data-date="2005-05-23T14:14:28+00:00" data-subject="">
 
 All tokens are based on a 3 dice 6 sides.  Hence the lowest is 3 and highest
 
@@ -62,7 +62,7 @@ is 18.  Octs lowest is 10, so there prob a factor like if 9 or under set to 10.
 
 </div>
 
-<div class="post" data-post-id="6429" data-author="12345" data-date="2005-05-23T14:20:07+00:00">
+<div class="post" data-post-id="6429" data-author="12345" data-date="2005-05-23T14:20:07+00:00" data-subject="Re: Are Stat Rolls and Rerolls Random?">
 
 1) Are stat rolls completely random?[/quote:mpxmkwnk]
 
@@ -98,7 +98,7 @@ Happy hunting.
 
 </div>
 
-<div class="post" data-post-id="6430" data-author="12345" data-date="2005-05-23T14:22:35+00:00">
+<div class="post" data-post-id="6430" data-author="12345" data-date="2005-05-23T14:22:35+00:00" data-subject="">
 
 All tokens are based on a 3 dice 6 sides.  Hence the lowest is 3 and highest
 
@@ -108,7 +108,7 @@ Actually, if you roll a nine or under, the entire batch is re-rolled.  As an exa
 
 </div>
 
-<div class="post" data-post-id="6432" data-author="Leaf" data-date="2005-05-23T14:25:55+00:00">
+<div class="post" data-post-id="6432" data-author="Leaf" data-date="2005-05-23T14:25:55+00:00" data-subject="">
 
 That sucks I think... cause it would make more sense to have anything
 
@@ -116,7 +116,7 @@ That sucks I think... cause it would make more sense to have anything
 
 </div>
 
-<div class="post" data-post-id="6444" data-author="SirRobin" data-date="2005-05-23T18:38:19+00:00">
+<div class="post" data-post-id="6444" data-author="SirRobin" data-date="2005-05-23T18:38:19+00:00" data-subject="">
 
 Thanks for all the information. Knowing all this now, I think I like my current stats just fine. :)
 
@@ -124,7 +124,7 @@ I can understand why you would want high Dex for soloing. Just recently I’ve c
 
 </div>
 
-<div class="post" data-post-id="6447" data-author="Akasha2" data-date="2005-05-23T19:07:36+00:00">
+<div class="post" data-post-id="6447" data-author="Akasha2" data-date="2005-05-23T19:07:36+00:00" data-subject="">
 
 Bards get good dex also SirRobin. But I think it goes something like 
 
@@ -140,7 +140,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="6448" data-author="12345" data-date="2005-05-23T19:08:55+00:00">
+<div class="post" data-post-id="6448" data-author="12345" data-date="2005-05-23T19:08:55+00:00" data-subject="">
 
 Actually, SirRobin had it exactly right.
 
@@ -154,13 +154,13 @@ Actually, SirRobin had it exactly right.
 
 </div>
 
-<div class="post" data-post-id="6449" data-author="Akasha2" data-date="2005-05-23T19:10:06+00:00">
+<div class="post" data-post-id="6449" data-author="Akasha2" data-date="2005-05-23T19:10:06+00:00" data-subject="">
 
 heh, I guesss you just never get AD&D stats out of your head :)
 
 </div>
 
-<div class="post" data-post-id="6450" data-author="kjartan" data-date="2005-05-23T19:32:06+00:00">
+<div class="post" data-post-id="6450" data-author="kjartan" data-date="2005-05-23T19:32:06+00:00" data-subject="">
 
 That sucks I think... cause it would make more sense to have anything 9 or lower to just be set to 10...[/quote:3dt8jp8k]
 
@@ -172,7 +172,7 @@ Why doesn't this BBCode have a [flame] tag?
 
 </div>
 
-<div class="post" data-post-id="6453" data-author="Leaf" data-date="2005-05-23T21:22:36+00:00">
+<div class="post" data-post-id="6453" data-author="Leaf" data-date="2005-05-23T21:22:36+00:00" data-subject="">
 
 Well I was just thinking in a smaller angle I guess.  Now that u explained
 

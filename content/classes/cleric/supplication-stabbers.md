@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="35111" data-author="Hung" data-date="2014-05-08T15:37:06+00:00">
+<div class="post" data-post-id="35111" data-author="Hung" data-date="2014-05-08T15:37:06+00:00" data-subject="Supplication stabbers">
 
 Today one more prime cleric quit sloth. Of course, his reasons may be personal and not related with unhappiness about prime cleric powers. But from my talks with clerics, some of them are definitely unhappy with the current situation.
 
@@ -28,7 +28,7 @@ That'll make clerics' solo lives more fun and diverse.
 
 </div>
 
-<div class="post" data-post-id="35113" data-author="DarkArtist" data-date="2014-05-08T17:52:57+00:00">
+<div class="post" data-post-id="35113" data-author="DarkArtist" data-date="2014-05-08T17:52:57+00:00" data-subject="Re: Supplication stabbers">
 
 Numbers are low because it's May and it's beautiful outside. Not because of any single game mechanic. You can safely bury this suggestion in the "Never gonna happen" pile.
 
@@ -36,7 +36,7 @@ Get some fresh air and stop worrying about such nonsense.
 
 </div>
 
-<div class="post" data-post-id="35116" data-author="Truck" data-date="2014-05-08T19:50:39+00:00">
+<div class="post" data-post-id="35116" data-author="Truck" data-date="2014-05-08T19:50:39+00:00" data-subject="Re: Supplication stabbers">
 
 While we're at it, let's let mages stab and grip with mirrors.
 
@@ -44,7 +44,7 @@ Oh and I want a Juju and a pitfiend and ariel servant and presage and second win
 
 </div>
 
-<div class="post" data-post-id="35117" data-author="Hung" data-date="2014-05-08T20:02:48+00:00">
+<div class="post" data-post-id="35117" data-author="Hung" data-date="2014-05-08T20:02:48+00:00" data-subject="Re: Supplication stabbers">
 
 Never I've met a mage unhappy about mages. Often I've met such clerics.
 
@@ -52,7 +52,7 @@ Of course, this suggestion in initial state is op. But that is customizable. I.e
 
 </div>
 
-<div class="post" data-post-id="35134" data-author="Thraxas" data-date="2014-05-09T15:30:02+00:00">
+<div class="post" data-post-id="35134" data-author="Thraxas" data-date="2014-05-09T15:30:02+00:00" data-subject="Re: Supplication stabbers">
 
 The problem with this suggestion is the same problem I saw (and imo came true) about S4 giving all chars all 8 classes ... all chars can do everything - there is no specialisation. 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="40120" data-author="Woody" data-date="2024-10-31T14:54:56+00:00">
+<div class="post" data-post-id="40120" data-author="Woody" data-date="2024-10-31T14:54:56+00:00" data-subject="msdp variables SYSTEM_TIME and WORLD_TIME">
 
 The msdp variables SYSTEM_TIME and WORLD_TIME are returning "0" for me.
 
@@ -18,7 +18,7 @@ I'm currently using DURATION on ' avatar sight' to time tick length for a lagome
 
 </div>
 
-<div class="post" data-post-id="40121" data-author="cnl" data-date="2024-11-01T01:23:31+00:00">
+<div class="post" data-post-id="40121" data-author="cnl" data-date="2024-11-01T01:23:31+00:00" data-subject="Re: msdp variables SYSTEM_TIME and WORLD_TIME">
 
 Not sure how your lag… thing works but quite a few msdp variables seem to be placeholders 
 
@@ -30,7 +30,7 @@ System time is just PST - it doesn’t lag
 
 </div>
 
-<div class="post" data-post-id="40123" data-author="Woody" data-date="2024-11-01T14:05:12+00:00">
+<div class="post" data-post-id="40123" data-author="Woody" data-date="2024-11-01T14:05:12+00:00" data-subject="Re: msdp variables SYSTEM_TIME and WORLD_TIME">
 
 The msdp.CHARACTER_AFFECTS spell DURATION is in seconds.
 
@@ -44,13 +44,13 @@ Running a big group at 3x speed is a bit too clenchy for me, but Asterix appears
 
 </div>
 
-<div class="post" data-post-id="40124" data-author="Woody" data-date="2024-11-01T14:38:35+00:00">
+<div class="post" data-post-id="40124" data-author="Woody" data-date="2024-11-01T14:38:35+00:00" data-subject="Re: msdp variables SYSTEM_TIME and WORLD_TIME">
 
 If it's a config on the server a 'catch up' tick duration of 0.5 or 0.66 would be preferable!
 
 </div>
 
-<div class="post" data-post-id="40128" data-author="cnl" data-date="2024-11-01T19:41:29+00:00">
+<div class="post" data-post-id="40128" data-author="cnl" data-date="2024-11-01T19:41:29+00:00" data-subject="Re: msdp variables SYSTEM_TIME and WORLD_TIME">
 
 msdp.CHARACTER_AFFECTS becomes bugged at high numbers of effects, spells being up - it hardly ever reports any values at all for Fuligin with my permanent buys and artifacts etc - I had to unreport it.
 

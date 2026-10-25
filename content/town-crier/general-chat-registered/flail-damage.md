@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32681" data-author="alris" data-date="2011-06-14T11:32:05+00:00">
+<div class="post" data-post-id="32681" data-author="alris" data-date="2011-06-14T11:32:05+00:00" data-subject="flail damage">
 
 Is it possible to make flail do little more damage?
 
@@ -86,13 +86,13 @@ There were 1500 coins.
 
 </div>
 
-<div class="post" data-post-id="32688" data-author="Insomniac" data-date="2011-06-16T09:56:29+00:00">
+<div class="post" data-post-id="32688" data-author="Insomniac" data-date="2011-06-16T09:56:29+00:00" data-subject="Re: flail damage">
 
 Nerf it, warriors are overpowered! :evil:
 
 </div>
 
-<div class="post" data-post-id="32689" data-author="Xamak" data-date="2011-06-16T13:36:38+00:00">
+<div class="post" data-post-id="32689" data-author="Xamak" data-date="2011-06-16T13:36:38+00:00" data-subject="Re: flail damage">
 
 Or....
 

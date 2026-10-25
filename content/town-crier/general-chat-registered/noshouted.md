@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="14089" data-author="Weasel" data-date="2006-09-16T22:14:45+00:00">
+<div class="post" data-post-id="14089" data-author="Weasel" data-date="2006-09-16T22:14:45+00:00" data-subject="Noshouted">
 
 Gumbi gossips-- 'Shenji boarded, if anyone on valk wants to kill em'
 
@@ -32,7 +32,7 @@ Gossip mode is now off.
 
 </div>
 
-<div class="post" data-post-id="14105" data-author="13" data-date="2006-09-17T13:57:14+00:00">
+<div class="post" data-post-id="14105" data-author="13" data-date="2006-09-17T13:57:14+00:00" data-subject="">
 
 A real man would have just cussed.
 
@@ -46,13 +46,13 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="14107" data-author="*Splork*" data-date="2006-09-17T14:34:36+00:00">
+<div class="post" data-post-id="14107" data-author="*Splork*" data-date="2006-09-17T14:34:36+00:00" data-subject="">
 
 I must admit, I am so tempted to post that wrap sheet :twisted:
 
 </div>
 
-<div class="post" data-post-id="14108" data-author="Toxis" data-date="2006-09-17T14:56:07+00:00">
+<div class="post" data-post-id="14108" data-author="Toxis" data-date="2006-09-17T14:56:07+00:00" data-subject="GOOD LUCK!">
 
 Good luck hunting down every character he's played. :)~
 
@@ -60,7 +60,7 @@ Good luck hunting down every character he's played. :)~
 
 </div>
 
-<div class="post" data-post-id="14110" data-author="Diazz_Dizazter" data-date="2006-09-17T17:11:36+00:00">
+<div class="post" data-post-id="14110" data-author="Diazz_Dizazter" data-date="2006-09-17T17:11:36+00:00" data-subject="">
 
 Hmm post of our wraps.  
 
@@ -70,7 +70,7 @@ all of my no shouts through the years.
 
 </div>
 
-<div class="post" data-post-id="14120" data-author="13" data-date="2006-09-17T19:33:08+00:00">
+<div class="post" data-post-id="14120" data-author="13" data-date="2006-09-17T19:33:08+00:00" data-subject="">
 
 Ramirez 2x20
 

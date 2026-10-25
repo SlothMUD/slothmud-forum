@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34039" data-author="*juggleblood*" data-date="2013-02-14T07:23:26+00:00">
+<div class="post" data-post-id="34039" data-author="*juggleblood*" data-date="2013-02-14T07:23:26+00:00" data-subject="Settlestone Library is Open">
 
 Rorik the librarian has set up shop north of the scribe in settlestone to help organize and distribute spellbooks.
 

@@ -10,13 +10,13 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="38340" data-author="Bazilus" data-date="2017-07-25T20:19:55+00:00">
+<div class="post" data-post-id="38340" data-author="Bazilus" data-date="2017-07-25T20:19:55+00:00" data-subject="Stranger from past.">
 
 Hello, dear Slothers! Just seen something about rebirth feature? Where i can read about it? Thanks.
 
 </div>
 
-<div class="post" data-post-id="38341" data-author="Gorka" data-date="2017-07-25T21:22:55+00:00">
+<div class="post" data-post-id="38341" data-author="Gorka" data-date="2017-07-25T21:22:55+00:00" data-subject="Re: Stranger from past.">
 
 > **Quote:**
 > REBIRTH REBORN
@@ -143,13 +143,13 @@ Several old players are back, or have come back. You know how it goes.
 
 </div>
 
-<div class="post" data-post-id="38342" data-author="Bazilus" data-date="2017-07-26T05:28:40+00:00">
+<div class="post" data-post-id="38342" data-author="Bazilus" data-date="2017-07-26T05:28:40+00:00" data-subject="Re: Stranger from past.">
 
 Thanks you, Gorka. Seems this feature only for new mortals, made after combine the classes. =)
 
 </div>
 
-<div class="post" data-post-id="38343" data-author="Teron" data-date="2017-07-26T16:25:57+00:00">
+<div class="post" data-post-id="38343" data-author="Teron" data-date="2017-07-26T16:25:57+00:00" data-subject="Re: Stranger from past.">
 
 Nice to see you Bazilus!
 
@@ -161,7 +161,7 @@ Granted, it's late for me, but maybe others could benefit from it.
 
 </div>
 
-<div class="post" data-post-id="38345" data-author="Bazilus" data-date="2017-07-26T22:11:03+00:00">
+<div class="post" data-post-id="38345" data-author="Bazilus" data-date="2017-07-26T22:11:03+00:00" data-subject="Re: Stranger from past.">
 
 Nice to see you too, Teron.
 
@@ -171,7 +171,7 @@ Life too short for repeats. See you around.
 
 </div>
 
-<div class="post" data-post-id="38346" data-author="Teron" data-date="2017-07-27T06:07:01+00:00">
+<div class="post" data-post-id="38346" data-author="Teron" data-date="2017-07-27T06:07:01+00:00" data-subject="Re: Stranger from past.">
 
 Yeah, I feel you.
 

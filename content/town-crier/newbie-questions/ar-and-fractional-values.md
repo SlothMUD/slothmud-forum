@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="6940" data-author="SirRobin" data-date="2005-06-08T20:35:16+00:00">
+<div class="post" data-post-id="6940" data-author="SirRobin" data-date="2005-06-08T20:35:16+00:00" data-subject="AR and Fractional Values">
 
 1) For the various rolls used in the game (To Hit for example), does the coding use only integer values?
 
@@ -20,7 +20,7 @@ post_count: 2
 
 </div>
 
-<div class="post" data-post-id="6942" data-author="Deju" data-date="2005-06-08T21:14:45+00:00">
+<div class="post" data-post-id="6942" data-author="Deju" data-date="2005-06-08T21:14:45+00:00" data-subject="Re: AR and Fractional Values">
 
 1) For the various rolls used in the game (To Hit for example), does the coding use only integer values?
 

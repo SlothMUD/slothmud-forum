@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="34162" data-author="*juggleblood*" data-date="2013-03-17T17:59:00+00:00">
+<div class="post" data-post-id="34162" data-author="*juggleblood*" data-date="2013-03-17T17:59:00+00:00" data-subject="Let there be Avatar Lights! New eq released.">
 
 On the Day of Freedom
 
@@ -86,13 +86,13 @@ a demon eye sceptre
 
 </div>
 
-<div class="post" data-post-id="34164" data-author="*Splork*" data-date="2013-03-19T08:40:26+00:00">
+<div class="post" data-post-id="34164" data-author="*Splork*" data-date="2013-03-19T08:40:26+00:00" data-subject="Re: Let there be Avatar Lights! New eq released.">
 
 The Beating Heart of King Glargrm has had its levels increased to 25 Avatar. Due to the recent additional of 30 Avatar lights, it makes very little sense to balance them around an item which jumps from zero to two. A couple of the lower level lights now fit the void from level 1 Avatar to 30. Than the Beating Heart can take over.
 
 </div>
 
-<div class="post" data-post-id="34173" data-author="*juggleblood*" data-date="2013-03-23T14:41:41+00:00">
+<div class="post" data-post-id="34173" data-author="*juggleblood*" data-date="2013-03-23T14:41:41+00:00" data-subject="Re: Let there be Avatar Lights! New eq released.">
 
 Note the correction in above list. 
 
@@ -100,13 +100,13 @@ Apologies.  :oops:
 
 </div>
 
-<div class="post" data-post-id="34181" data-author="*juggleblood*" data-date="2013-03-25T17:17:09+00:00">
+<div class="post" data-post-id="34181" data-author="*juggleblood*" data-date="2013-03-25T17:17:09+00:00" data-subject="Re: Let there be Avatar Lights! New eq released.">
 
 Bump to answer Ker's question and to eliminate the other thread.
 
 </div>
 
-<div class="post" data-post-id="34194" data-author="*juggleblood*" data-date="2013-03-27T23:34:54+00:00">
+<div class="post" data-post-id="34194" data-author="*juggleblood*" data-date="2013-03-27T23:34:54+00:00" data-subject="Re: Let there be Avatar Lights! New eq released.">
 
 Alris asks me 'Why does the best light load on the easiest mob of them all?'
 
@@ -118,13 +118,13 @@ Thx!
 
 </div>
 
-<div class="post" data-post-id="34199" data-author="*juggleblood*" data-date="2013-03-29T12:45:37+00:00">
+<div class="post" data-post-id="34199" data-author="*juggleblood*" data-date="2013-03-29T12:45:37+00:00" data-subject="Re: Let there be Avatar Lights! New eq released.">
 
 "I can forge for you a lamp of the learned healer." ~ Prince Tereus
 
 </div>
 
-<div class="post" data-post-id="34201" data-author="*juggleblood*" data-date="2013-03-29T21:26:41+00:00">
+<div class="post" data-post-id="34201" data-author="*juggleblood*" data-date="2013-03-29T21:26:41+00:00" data-subject="Re: Let there be Avatar Lights! New eq released.">
 
 Chaos gem has been moved from fire negator to Chaos Elemental. 
 
@@ -132,7 +132,7 @@ sorry for any inconvenience.
 
 </div>
 
-<div class="post" data-post-id="34208" data-author="*juggleblood*" data-date="2013-04-01T22:57:12+00:00">
+<div class="post" data-post-id="34208" data-author="*juggleblood*" data-date="2013-04-01T22:57:12+00:00" data-subject="Re: Let there be Avatar Lights! New eq released.">
 
 3 very significant changes to report on the lights.
 

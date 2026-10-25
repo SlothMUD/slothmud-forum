@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="21725" data-author="belisarius" data-date="2007-12-19T08:07:57+00:00">
+<div class="post" data-post-id="21725" data-author="belisarius" data-date="2007-12-19T08:07:57+00:00" data-subject="need some stuff to improve my character">
 
 looking to buy anything that could would be an improvement over the items i currently have:
 
@@ -100,7 +100,7 @@ oh also i could use an orange spellbook for the spell stone skin if someone want
 
 </div>
 
-<div class="post" data-post-id="21729" data-author="Karna" data-date="2007-12-19T14:52:05+00:00">
+<div class="post" data-post-id="21729" data-author="Karna" data-date="2007-12-19T14:52:05+00:00" data-subject="">
 
 Wow, nice stats. 
 
@@ -116,7 +116,7 @@ Karna
 
 </div>
 
-<div class="post" data-post-id="21732" data-author="Leaf" data-date="2007-12-19T15:26:37+00:00">
+<div class="post" data-post-id="21732" data-author="Leaf" data-date="2007-12-19T15:26:37+00:00" data-subject="">
 
 Hey belisarius,
 
@@ -154,7 +154,7 @@ If you want to stay on VK longer, try and forge a JJD, its -.5 +str +15hp low
 
 </div>
 
-<div class="post" data-post-id="21735" data-author="belisarius" data-date="2007-12-19T22:25:58+00:00">
+<div class="post" data-post-id="21735" data-author="belisarius" data-date="2007-12-19T22:25:58+00:00" data-subject="">
 
 thanks for the replys guys ill look into using the potions and getting the torcs good idea so many different potions out there i really didnt want to take the time it would take to look through them all but i think i will now plus i thought the strength potion would only give +1 str like my spell does i figured the spell gets better as i raise up mage class wasnt sure on potion though
 

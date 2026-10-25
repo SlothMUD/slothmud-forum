@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="291" data-author="Weasel" data-date="2004-05-24T15:57:32+00:00">
+<div class="post" data-post-id="291" data-author="Weasel" data-date="2004-05-24T15:57:32+00:00" data-subject="spellbonus clasps">
 
 Spellbonus clasps of some sort would be a kewl addition. ..unless they're already out there but I haven't stumbled across any info about them yet hehe.
 

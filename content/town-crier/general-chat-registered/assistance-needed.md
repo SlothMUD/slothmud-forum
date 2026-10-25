@@ -10,7 +10,7 @@ locked: false
 post_count: 24
 ---
 
-<div class="post" data-post-id="14399" data-author="Jother" data-date="2006-10-01T02:12:47+00:00">
+<div class="post" data-post-id="14399" data-author="Jother" data-date="2006-10-01T02:12:47+00:00" data-subject="Assistance Needed">
 
 Greetings, great adventurers!  I am Jother, son of Nothus.  I post this message here to enlist your assistance in searching for some lost relics.  I am only a shoemaker and not a strong warrior, so I am using this means of communication only to hide my identity from any attacks that these actions may bring forth.  
 
@@ -50,7 +50,7 @@ Jother
 
 </div>
 
-<div class="post" data-post-id="14401" data-author="Krok" data-date="2006-10-01T02:54:57+00:00">
+<div class="post" data-post-id="14401" data-author="Krok" data-date="2006-10-01T02:54:57+00:00" data-subject="">
 
 So we figured pretty easily that wizard in Ether was Elementalist, who appeard to have the rod.
 
@@ -72,7 +72,7 @@ So now we are looking for the iron-bound chest to find another rod, hoping it'll
 
 </div>
 
-<div class="post" data-post-id="14403" data-author="Jother" data-date="2006-10-01T03:10:18+00:00">
+<div class="post" data-post-id="14403" data-author="Jother" data-date="2006-10-01T03:10:18+00:00" data-subject="">
 
 It sounds as if you have made great progress, though I am somewhat fearful of you since you so quickly resorted to such measures with the Elementalist, as you call him.
 
@@ -82,13 +82,13 @@ Jother.
 
 </div>
 
-<div class="post" data-post-id="14404" data-author="brady" data-date="2006-10-01T03:58:21+00:00">
+<div class="post" data-post-id="14404" data-author="brady" data-date="2006-10-01T03:58:21+00:00" data-subject="">
 
 The Elementalist says 'I have just received word from Jother, Shallah has acknowledged the existance of a trespasser...'
 
 </div>
 
-<div class="post" data-post-id="14405" data-author="Krok" data-date="2006-10-01T04:15:07+00:00">
+<div class="post" data-post-id="14405" data-author="Krok" data-date="2006-10-01T04:15:07+00:00" data-subject="">
 
 Orkhis kindly mentioned we should listen to wise traveller Bit, who said that the rods might change the glow when we get closer to what we search.
 
@@ -96,7 +96,7 @@ Normal state of a rod is : A rod of divining fortunes glows softly with a almost
 
 </div>
 
-<div class="post" data-post-id="14406" data-author="Krok" data-date="2006-10-01T05:26:48+00:00">
+<div class="post" data-post-id="14406" data-author="Krok" data-date="2006-10-01T05:26:48+00:00" data-subject="">
 
 So Polk got a big quest group running across the mud searching for the treasures. After Shallah's hint we started checking SS areas with the rods. Suddenly, one of 2 rods spoke to Polk and asked to be give to me, Krok, the silly cleric. So with the rod speaking we started to get closer to the area we needed. Atwell suggested checking maws, which was right - rod started glowing as I was passing the area's rooms. Then rod hinted that Mandiblaton, who attacked me, was the one, who is holding the next rod we need. 
 
@@ -114,7 +114,7 @@ Well, the mob died too. We unlocked the chest and found the next rod and the sil
 
 </div>
 
-<div class="post" data-post-id="14407" data-author="Jother" data-date="2006-10-01T05:34:37+00:00">
+<div class="post" data-post-id="14407" data-author="Jother" data-date="2006-10-01T05:34:37+00:00" data-subject="">
 
 Great news!  You have found another rod.  I believe that the first two that I passed to you may have been damaged with all of the travels that they had gone through in the many years they were stashed in the bottom of that trunk.
 
@@ -124,7 +124,7 @@ Jother
 
 </div>
 
-<div class="post" data-post-id="14408" data-author="Jother" data-date="2006-10-01T13:12:36+00:00">
+<div class="post" data-post-id="14408" data-author="Jother" data-date="2006-10-01T13:12:36+00:00" data-subject="">
 
 After much consideration and deliberation, I'm no longer certain that the location of the chests are correlated.  In fact, I believe they are meant to be unrelated.  Another chest is not likely near Mandiblaton.
 
@@ -134,7 +134,7 @@ Jother
 
 </div>
 
-<div class="post" data-post-id="14409" data-author="Vixn" data-date="2006-10-01T14:06:06+00:00">
+<div class="post" data-post-id="14409" data-author="Vixn" data-date="2006-10-01T14:06:06+00:00" data-subject="">
 
 Suddenly, one of 2 rods spoke to Polk and asked to be give to me, Krok, the silly cleric.[/quote:lda8idxu]
 
@@ -142,7 +142,7 @@ So rod was talking to you? Or maybe that was jus bad mushrooms?
 
 </div>
 
-<div class="post" data-post-id="14421" data-author="12345" data-date="2006-10-01T15:12:34+00:00">
+<div class="post" data-post-id="14421" data-author="12345" data-date="2006-10-01T15:12:34+00:00" data-subject="">
 
 The rod only glows in the exact room of the item you're searching for.  SS is a smaller continent, but searching every possible room with 2 rods was a bit daunting.  So after a while, the rod got frustrated with our progress and decided to give us more blatant hints.
 
@@ -150,7 +150,7 @@ We were hoping that the staff had a few more settings than barely glowing and se
 
 </div>
 
-<div class="post" data-post-id="14423" data-author="Jother" data-date="2006-10-01T15:22:42+00:00">
+<div class="post" data-post-id="14423" data-author="Jother" data-date="2006-10-01T15:22:42+00:00" data-subject="">
 
 The information being passed below is grossly incorrect! The rod has several settings, if I remember correctly(which I believe I do).  This item has a tendency to become irritated, one might say moody. Simply running to the first rooms of an area may not work!
 
@@ -158,7 +158,7 @@ Jother
 
 </div>
 
-<div class="post" data-post-id="14434" data-author="Krok" data-date="2006-10-01T19:49:52+00:00">
+<div class="post" data-post-id="14434" data-author="Krok" data-date="2006-10-01T19:49:52+00:00" data-subject="">
 
 The brave travellers followed Polk again! We had 3 rods so far, and people started checking the "underground" areas. We spent some time on it, few of us died, desperately trying to find the desired chest. Finally, Lis noticed his rod changed the glow in the Emerald Mines, at the room with the scaled worm. He used to be a smallish creature, but now it took us a very long fight to kill him. Like yesterday, after the mob died, we did some digging and a cute puppy, err, a massive black dog rushed to protect the chest. We needed some regen, because the lovely pet wasn't too happy to welcome the new owners of the treasure. 
 
@@ -192,7 +192,7 @@ So, Jother, we have 5 (sorry, 3 old ones disappeared) rods now, and we are ready
 
 </div>
 
-<div class="post" data-post-id="14435" data-author="Jother" data-date="2006-10-01T19:53:49+00:00">
+<div class="post" data-post-id="14435" data-author="Jother" data-date="2006-10-01T19:53:49+00:00" data-subject="">
 
 Great work on finding those chests so far.  It is a shame that
 
@@ -208,7 +208,7 @@ Jother
 
 </div>
 
-<div class="post" data-post-id="14436" data-author="Krok" data-date="2006-10-01T20:32:57+00:00">
+<div class="post" data-post-id="14436" data-author="Krok" data-date="2006-10-01T20:32:57+00:00" data-subject="">
 
 "Not in the light" was obviously "in the shadows". Lis quickly found the area, Shadow Realm. The rods started to change their glows as we wandered. After we killed the wrong monster, we finally got to kill Rystoniden.
 
@@ -280,7 +280,7 @@ So far we finally found Morylthen, Jother! :)
 
 </div>
 
-<div class="post" data-post-id="14437" data-author="Jother" data-date="2006-10-01T20:38:29+00:00">
+<div class="post" data-post-id="14437" data-author="Jother" data-date="2006-10-01T20:38:29+00:00" data-subject="">
 
 Again, spectacular work finding and opening the chests.  Congratulations on finding Morylthen!  I fear it is in dire need these days.
 
@@ -292,7 +292,7 @@ Jother
 
 </div>
 
-<div class="post" data-post-id="14438" data-author="Krok" data-date="2006-10-01T21:21:18+00:00">
+<div class="post" data-post-id="14438" data-author="Krok" data-date="2006-10-01T21:21:18+00:00" data-subject="">
 
 We went to the Orc Mines. Few weird mobs met us there:
 
@@ -338,7 +338,7 @@ Polk gets a glinting shield of silver from the corpse of a massive black dog tha
 
 </div>
 
-<div class="post" data-post-id="14439" data-author="Jother" data-date="2006-10-01T21:24:44+00:00">
+<div class="post" data-post-id="14439" data-author="Jother" data-date="2006-10-01T21:24:44+00:00" data-subject="">
 
 You are now well armed!  However, I fear that Baraneth and her pride are alerted to your actions.  Slay her and perhaps there will be some small redeption for Cannactum.  Perhaps she even has a nice hoard gathered from the remains of the city.
 
@@ -346,7 +346,7 @@ Jother
 
 </div>
 
-<div class="post" data-post-id="14441" data-author="Krok" data-date="2006-10-01T22:32:16+00:00">
+<div class="post" data-post-id="14441" data-author="Krok" data-date="2006-10-01T22:32:16+00:00" data-subject="">
 
 Edd found the area where Baraneth is, Drexel and Volcano. While we were enjoying the moment of another victorious step, a massive dog came to the Island, and started killing Polk's followers. Polk decided to move away to Bal Harbor in order to avoid fighting with the furry creature, but it kept chasing us.
 
@@ -504,7 +504,7 @@ titan boots..It emits a faint humming sound!
 
 </div>
 
-<div class="post" data-post-id="14442" data-author="Jother" data-date="2006-10-01T22:34:54+00:00">
+<div class="post" data-post-id="14442" data-author="Jother" data-date="2006-10-01T22:34:54+00:00" data-subject="">
 
 Congratulations!!  Even though I am a descendent of the throne and
 
@@ -524,7 +524,7 @@ Jother the Archeologist
 
 </div>
 
-<div class="post" data-post-id="14444" data-author="Shyla" data-date="2006-10-01T22:46:33+00:00">
+<div class="post" data-post-id="14444" data-author="Shyla" data-date="2006-10-01T22:46:33+00:00" data-subject="">
 
 <697hp 490ma 195mv>
 
@@ -590,13 +590,13 @@ titan boots..It emits a faint humming sound!
 
 </div>
 
-<div class="post" data-post-id="14451" data-author="osric" data-date="2006-10-02T03:42:06+00:00">
+<div class="post" data-post-id="14451" data-author="osric" data-date="2006-10-02T03:42:06+00:00" data-subject="">
 
 This was a great quest guys, I really enjoyed it, group ran smooth, a few good deaths, great rewards, etc.  Great leadership from Polk, deadly tanking skills from Alias, Atwell, Tin, etc.  Nonstop posting from Krok (not to mention some area running). Great detective skills from the group as a whole, Lis did some good running too as I recall.  And it was all tied into the new look for the website, great way to get everyone involved! Thanks Leaders! Thanks Imms!
 
 </div>
 
-<div class="post" data-post-id="14476" data-author="Elsie" data-date="2006-10-03T11:54:38+00:00">
+<div class="post" data-post-id="14476" data-author="Elsie" data-date="2006-10-03T11:54:38+00:00" data-subject="">
 
 Agreed, it was a great quest, it was nice to be a part of it until technical problems with the site interrupted. As the talk was of it not being back up for a couple of days I went out for a meal, when I came back quest was over.
 
@@ -606,7 +606,7 @@ Is there any idea when the next one will be run? or is there a time / day when y
 
 </div>
 
-<div class="post" data-post-id="14488" data-author="Avatar" data-date="2006-10-03T15:30:32+00:00">
+<div class="post" data-post-id="14488" data-author="Avatar" data-date="2006-10-03T15:30:32+00:00" data-subject="quest etc">
 
 There were several things I really enjoyed about the quest.  I don't need to list them all here for discussion, maybe I'll post more thoughts later, but it was really fun and everyone involved seemed to have a good time.
 
@@ -620,7 +620,7 @@ Further, after each chest was found, battle was fought, and dr was rewarded Polk
 
 </div>
 
-<div class="post" data-post-id="14490" data-author="*Splork*" data-date="2006-10-03T20:24:34+00:00">
+<div class="post" data-post-id="14490" data-author="*Splork*" data-date="2006-10-03T20:24:34+00:00" data-subject="">
 
 Please check out the below link, it will explain to some degree why there was a limited number of rods and the process that we all went through to get the quest movng and this site finally launched.
 

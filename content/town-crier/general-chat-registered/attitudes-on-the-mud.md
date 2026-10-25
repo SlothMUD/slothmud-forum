@@ -10,19 +10,19 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="31238" data-author="takinogaki" data-date="2010-05-27T19:01:29+00:00">
+<div class="post" data-post-id="31238" data-author="takinogaki" data-date="2010-05-27T19:01:29+00:00" data-subject="attitudes on the mud">
 
 i have REPEATEDLY asked jabba to STOP the negativety towards new players, or even myself. my FRIEND who played aliyana WONT ever come back. she told me that the mouthing off drove her away. PLEASE do something about this,. its RIUNS my and others fun experience. thanksin advance Takimitsu The Bandit
 
 </div>
 
-<div class="post" data-post-id="31239" data-author="Tuck" data-date="2010-05-27T19:44:59+00:00">
+<div class="post" data-post-id="31239" data-author="Tuck" data-date="2010-05-27T19:44:59+00:00" data-subject="Re: attitudes on the mud">
 
 post logs here!
 
 </div>
 
-<div class="post" data-post-id="31248" data-author="Thraxas" data-date="2010-05-28T13:50:43+00:00">
+<div class="post" data-post-id="31248" data-author="Thraxas" data-date="2010-05-28T13:50:43+00:00" data-subject="Re: attitudes on the mud">
 
 Theres plenty of players here that similarly wont react well to antisocial behaviour particularly when directed at new players and will actively defend them from such attacks. This is a social cooperative mud, players who gain a reputation for anitsocial behaviour will ultimately find it works against them. If whats happening is extreme then pageing the gods (admin team) using the page command works well.
 
@@ -32,13 +32,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="31293" data-author="takinogaki" data-date="2010-06-11T19:34:09+00:00">
+<div class="post" data-post-id="31293" data-author="takinogaki" data-date="2010-06-11T19:34:09+00:00" data-subject="Re: attitudes on the mud">
 
 no need to anymore. im done. have fun everyone.
 
 </div>
 
-<div class="post" data-post-id="31296" data-author="Toxis" data-date="2010-06-12T04:04:56+00:00">
+<div class="post" data-post-id="31296" data-author="Toxis" data-date="2010-06-12T04:04:56+00:00" data-subject="Re: attitudes on the mud">
 
 Besides the fact I already dislike you, I allowed you to join my group.
 
@@ -56,7 +56,7 @@ Toxis
 
 </div>
 
-<div class="post" data-post-id="31299" data-author="Thraxas" data-date="2010-06-12T08:56:28+00:00">
+<div class="post" data-post-id="31299" data-author="Thraxas" data-date="2010-06-12T08:56:28+00:00" data-subject="Re: attitudes on the mud">
 
 I too found Taki annoying, but I also found some of the behaviour towards him abhorrant.
 
@@ -76,13 +76,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="31300" data-author="Toxis" data-date="2010-06-12T16:33:14+00:00">
+<div class="post" data-post-id="31300" data-author="Toxis" data-date="2010-06-12T16:33:14+00:00" data-subject="Re: attitudes on the mud">
 
 Right, and bring back starman cuz everyone liked him too.  Unless Tak was starman, which we've all wondered.
 
 </div>
 
-<div class="post" data-post-id="31301" data-author="Gimlet" data-date="2010-06-12T16:59:03+00:00">
+<div class="post" data-post-id="31301" data-author="Gimlet" data-date="2010-06-12T16:59:03+00:00" data-subject="Re: attitudes on the mud">
 
 obviously takimitsu fails to reflect that when he first started out I helped him quite a bit, when he was constantly dying, and when he lost his eq due to death, i helped and tried to help get his stuff back, and gave him about 200k coins to tide him by.
 
@@ -100,7 +100,7 @@ Even non-new players have been told to stfu if they spam the gossip channel with
 
 </div>
 
-<div class="post" data-post-id="31302" data-author="Thraxas" data-date="2010-06-13T09:37:10+00:00">
+<div class="post" data-post-id="31302" data-author="Thraxas" data-date="2010-06-13T09:37:10+00:00" data-subject="Re: attitudes on the mud">
 
 I guess what I'm saying is that if I had the choice between playing sloth with a socially inept annoying newbie and a more experienced player who when they feel justified sees nothing wrong with overtly bullying and hounding a newbie  til they leave I'll take the newbie every time ... from some of your responses I guess you dont all agree.
 

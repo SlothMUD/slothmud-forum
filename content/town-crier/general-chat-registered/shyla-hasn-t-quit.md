@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33607" data-author="Shyla" data-date="2012-09-14T00:58:46+00:00">
+<div class="post" data-post-id="33607" data-author="Shyla" data-date="2012-09-14T00:58:46+00:00" data-subject="shyla hasn&#x27;t quit">
 
 sorry I haven't been on so much just my computer died on me and i didn't have access to email or anything so i could post here b/c i couldn't remember password etc.  I have been very busy with my 2 year old daughter and my medical stuff but I do plan on playing once I get a new computer but not sure when that will be.
 
@@ -20,7 +20,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="33609" data-author="*juggleblood*" data-date="2012-09-15T01:32:41+00:00">
+<div class="post" data-post-id="33609" data-author="*juggleblood*" data-date="2012-09-15T01:32:41+00:00" data-subject="Re: shyla hasn&#x27;t quit">
 
 Great to hear from you. :)
 

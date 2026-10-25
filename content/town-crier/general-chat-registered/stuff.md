@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31004" data-author="Toxis" data-date="2010-03-25T18:02:58+00:00">
+<div class="post" data-post-id="31004" data-author="Toxis" data-date="2010-03-25T18:02:58+00:00" data-subject="Stuff">
 
 Exp gained last week: 4,999,947,099
 

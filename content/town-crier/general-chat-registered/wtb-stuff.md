@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="24197" data-author="Yinao" data-date="2008-05-05T00:44:51+00:00">
+<div class="post" data-post-id="24197" data-author="Yinao" data-date="2008-05-05T00:44:51+00:00" data-subject="WTB: Stuff">
 
 I'm looking for a few items listed below have a few things to trade or coins.
 
@@ -30,7 +30,7 @@ Thnx
 
 </div>
 
-<div class="post" data-post-id="24200" data-author="Autolycos" data-date="2008-05-05T01:39:27+00:00">
+<div class="post" data-post-id="24200" data-author="Autolycos" data-date="2008-05-05T01:39:27+00:00" data-subject="Re: WTB: Stuff">
 
 2) Alot of Silver Bars (Shuggoth Lord) *Auto probably has tons of em as much as he splorks lord*[/quote:wqyoxs1d]
 

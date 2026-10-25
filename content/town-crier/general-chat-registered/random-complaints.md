@@ -10,7 +10,7 @@ locked: true
 post_count: 23
 ---
 
-<div class="post" data-post-id="32519" data-author="Shyla" data-date="2011-03-29T19:28:05+00:00">
+<div class="post" data-post-id="32519" data-author="Shyla" data-date="2011-03-29T19:28:05+00:00" data-subject="Random complaints">
 
 I know for the most part my post will get ignored by immorts and flamed by others and well that is okie I am used to it, but I really need to vent
 
@@ -36,7 +36,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="32520" data-author="Insomniac" data-date="2011-03-29T21:59:16+00:00">
+<div class="post" data-post-id="32520" data-author="Insomniac" data-date="2011-03-29T21:59:16+00:00" data-subject="Re: Random complaints">
 
 First of all, I played Sloth a long time ago and only started playing S4 about a month back, and I have to say I am very impressed with many of the changes that have taken place. Lots of really, really cool things have been implemented in the game and it's a credit to the current and past immortal teams.
 
@@ -52,7 +52,7 @@ The incident that I think may have sparked Shyla's post is a large group killing
 
 </div>
 
-<div class="post" data-post-id="32521" data-author="Mug" data-date="2011-03-30T00:32:21+00:00">
+<div class="post" data-post-id="32521" data-author="Mug" data-date="2011-03-30T00:32:21+00:00" data-subject="Re: Random complaints">
 
 i have always thought with the protect system we have we should have had 3 rows anyhow, front line true tanks -10 and higher middle row 
 
@@ -68,7 +68,7 @@ since this a stringed named random complaints i want my freakin ten drachma!
 
 </div>
 
-<div class="post" data-post-id="32523" data-author="Thraxas" data-date="2011-03-30T17:13:07+00:00">
+<div class="post" data-post-id="32523" data-author="Thraxas" data-date="2011-03-30T17:13:07+00:00" data-subject="Re: Random complaints">
 
 couldnt agree more with comments on necro use of pets in groups ... I'm a necro yet in group I have to be a tank or a healer ... 
 
@@ -86,7 +86,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="32525" data-author="Acedia" data-date="2011-03-31T06:00:15+00:00">
+<div class="post" data-post-id="32525" data-author="Acedia" data-date="2011-03-31T06:00:15+00:00" data-subject="Re: Random complaints">
 
 I remember when Sloth used to be less whiny.  I miss those days.  Folks didn't complain about every minor inconvenience, or anything that made them actually have to think and plan ahead five minutes.  There was actually a challenge from time to time.  
 
@@ -128,13 +128,13 @@ Acedia
 
 </div>
 
-<div class="post" data-post-id="32526" data-author="Sleeping Forest" data-date="2011-03-31T10:26:16+00:00">
+<div class="post" data-post-id="32526" data-author="Sleeping Forest" data-date="2011-03-31T10:26:16+00:00" data-subject="Re: Random complaints">
 
 Acedia +1
 
 </div>
 
-<div class="post" data-post-id="32528" data-author="Insomniac" data-date="2011-03-31T23:20:47+00:00">
+<div class="post" data-post-id="32528" data-author="Insomniac" data-date="2011-03-31T23:20:47+00:00" data-subject="Re: Random complaints">
 
 > **Acedia wrote:**
 > I remember when Sloth used to be less whiny.  I miss those days.  Folks didn't complain about every minor inconvenience, or anything that made them actually have to think and plan ahead five minutes.  There was actually a challenge from time to time.
@@ -151,7 +151,7 @@ I think that's fair enough.
 
 </div>
 
-<div class="post" data-post-id="32529" data-author="Thraxas" data-date="2011-03-31T23:21:34+00:00">
+<div class="post" data-post-id="32529" data-author="Thraxas" data-date="2011-03-31T23:21:34+00:00" data-subject="Re: Random complaints">
 
 > **Acedia wrote:**
 > I remember when Sloth used to be less whiny.
@@ -166,7 +166,7 @@ Its a long thead but I loved the theme that in 2004 in amongst he moaning and wh
 
 </div>
 
-<div class="post" data-post-id="32530" data-author="reboog" data-date="2011-03-31T23:34:39+00:00">
+<div class="post" data-post-id="32530" data-author="reboog" data-date="2011-03-31T23:34:39+00:00" data-subject="Re: Random complaints">
 
 i remember when sloth used to have a lot less thraxas
 
@@ -176,7 +176,7 @@ Acedia +2
 
 </div>
 
-<div class="post" data-post-id="32531" data-author="Thraxas" data-date="2011-03-31T23:37:57+00:00">
+<div class="post" data-post-id="32531" data-author="Thraxas" data-date="2011-03-31T23:37:57+00:00" data-subject="Re: Random complaints">
 
 > **reboog wrote:**
 > i remember when sloth used to have a lot less thraxas
@@ -185,13 +185,13 @@ I doubt it
 
 </div>
 
-<div class="post" data-post-id="32532" data-author="reboog" data-date="2011-04-01T00:22:01+00:00">
+<div class="post" data-post-id="32532" data-author="reboog" data-date="2011-04-01T00:22:01+00:00" data-subject="Re: Random complaints">
 
 Acedia +3
 
 </div>
 
-<div class="post" data-post-id="32533" data-author="Acedia" data-date="2011-04-01T04:08:36+00:00">
+<div class="post" data-post-id="32533" data-author="Acedia" data-date="2011-04-01T04:08:36+00:00" data-subject="Re: Random complaints">
 
 Truly you are something, Thraxas, gifted with the ability to remember my memories better than I do!  Perhaps you can tell me where I left my rose colored glasses; I need to learn shocking grasp.  
 
@@ -213,13 +213,13 @@ Acedia+4
 
 </div>
 
-<div class="post" data-post-id="32534" data-author="reboog" data-date="2011-04-01T04:11:19+00:00">
+<div class="post" data-post-id="32534" data-author="reboog" data-date="2011-04-01T04:11:19+00:00" data-subject="Re: Random complaints">
 
 Acedia +5
 
 </div>
 
-<div class="post" data-post-id="32535" data-author="*Splork*" data-date="2011-04-01T05:52:37+00:00">
+<div class="post" data-post-id="32535" data-author="*Splork*" data-date="2011-04-01T05:52:37+00:00" data-subject="Re: Random complaints">
 
 Anybody who believes that necro pets & the experience regarding them is bad coding is seriously delusional. It is not an oversight and we will NEVER fix this issue because it is a balancing issue.  If there were not repercussions for this type of game play, the mud would become Necromancer dominated and small group oriented. This is exactly what Jake and I do not want to happen. 
 
@@ -235,7 +235,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32536" data-author="Insomniac" data-date="2011-04-01T08:28:52+00:00">
+<div class="post" data-post-id="32536" data-author="Insomniac" data-date="2011-04-01T08:28:52+00:00" data-subject="Re: Random complaints">
 
 > ***Splork* wrote:**
 > Anybody who believes that necro pets & the experience regarding them is bad coding is seriously delusional.
@@ -248,7 +248,7 @@ I think overall,  the pets system is coded brilliantly btw, I was commenting on 
 
 </div>
 
-<div class="post" data-post-id="32537" data-author="Thraxas" data-date="2011-04-01T12:57:21+00:00">
+<div class="post" data-post-id="32537" data-author="Thraxas" data-date="2011-04-01T12:57:21+00:00" data-subject="Re: Random complaints">
 
 not sure how the rules work on this one but lets give it a go:
 
@@ -288,7 +288,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="32538" data-author="*Splork*" data-date="2011-04-01T15:23:02+00:00">
+<div class="post" data-post-id="32538" data-author="*Splork*" data-date="2011-04-01T15:23:02+00:00" data-subject="Re: Random complaints">
 
 Yes, pets stealing experience is intentional. Changing this would require about one minute of a coder's time but like I said, this is a balancing issue and will not be changed.  The repercussions of necromancer pets in groups has the desired effect which we( administrators ) are looking for. There may be other ways to control the issue as well but we are not willing to experiment with an issue which we feel works exactly as we intend it to and does an extremely efficient job preventing problems which we do not want to become issues in regards to necromancers and grouping.
 
@@ -298,7 +298,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32539" data-author="*Chobbs*" data-date="2011-04-01T15:56:59+00:00">
+<div class="post" data-post-id="32539" data-author="*Chobbs*" data-date="2011-04-01T15:56:59+00:00" data-subject="Re: Random complaints">
 
 @Thraxas
 
@@ -364,13 +364,13 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32541" data-author="reboog" data-date="2011-04-01T18:41:36+00:00">
+<div class="post" data-post-id="32541" data-author="reboog" data-date="2011-04-01T18:41:36+00:00" data-subject="Re: Random complaints">
 
 Acedia +8
 
 </div>
 
-<div class="post" data-post-id="32542" data-author="Mug" data-date="2011-04-01T21:01:36+00:00">
+<div class="post" data-post-id="32542" data-author="Mug" data-date="2011-04-01T21:01:36+00:00" data-subject="Re: Random complaints">
 
 > **Quote:**
 > At the risk of not presenting a "cogent arguement" [sic], I will say that personally (speaking for me, not for any other immortal/the immortal staff), when folks whine, I am quite disinclined to answer. I watched as mug spammed increasingly vulgar pages to the immortals, threatening to continue to do so unless he got his 10 drachma. I myself had just gotten back from work, and didn't even know drachma was even handed out. Since I didn't know what was going on, and based on the tone, had no interest in getting involved, I must be an evil imm
@@ -385,7 +385,7 @@ in other words i did my freaking part and did not see why i could not get my dra
 
 </div>
 
-<div class="post" data-post-id="32543" data-author="Shyla" data-date="2011-04-01T21:56:55+00:00">
+<div class="post" data-post-id="32543" data-author="Shyla" data-date="2011-04-01T21:56:55+00:00" data-subject="Re: Random complaints">
 
 I was pissed when I wrote this and the truth of the matter is I should have wrote it but never hit send button and I realize I was stupid for doing it and I apologize.  In that note, I would like to ask that this subject be deleted and If no one can delete it I would ask that it be ignored and not posted to anymore.  I am starting up a new thread called changes that have been made that we love and trust me the list is HUGE
 
@@ -397,13 +397,13 @@ Shyla the every will be whiner
 
 </div>
 
-<div class="post" data-post-id="32545" data-author="reboog" data-date="2011-04-01T22:30:35+00:00">
+<div class="post" data-post-id="32545" data-author="reboog" data-date="2011-04-01T22:30:35+00:00" data-subject="Re: Random complaints">
 
 Acedia +9
 
 </div>
 
-<div class="post" data-post-id="32546" data-author="*Breeze*" data-date="2011-04-02T01:38:32+00:00">
+<div class="post" data-post-id="32546" data-author="*Breeze*" data-date="2011-04-02T01:38:32+00:00" data-subject="Re: Random complaints">
 
 Thread Locked. 
 

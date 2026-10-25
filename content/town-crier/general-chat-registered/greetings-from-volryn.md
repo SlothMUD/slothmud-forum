@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32570" data-author="Volryn" data-date="2011-04-23T18:45:32+00:00">
+<div class="post" data-post-id="32570" data-author="Volryn" data-date="2011-04-23T18:45:32+00:00" data-subject="Greetings from Volryn!">
 
 There didn't seem to be a particular forum for this so thought I'd stick a little introduction in here.
 
@@ -36,7 +36,7 @@ You die!
 
 </div>
 
-<div class="post" data-post-id="32571" data-author="Tuck" data-date="2011-04-24T15:44:13+00:00">
+<div class="post" data-post-id="32571" data-author="Tuck" data-date="2011-04-24T15:44:13+00:00" data-subject="Re: Greetings from Volryn!">
 
 Welcome, Volryn!
 

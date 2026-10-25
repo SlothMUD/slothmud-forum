@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="34064" data-author="*juggleblood*" data-date="2013-02-21T17:12:20+00:00">
+<div class="post" data-post-id="34064" data-author="*juggleblood*" data-date="2013-02-21T17:12:20+00:00" data-subject="housekeeping changes">
 
 Librarian assistants are collecting books around Lyme and Aisholm towns and depositing them at the respective libraries. The lyme book collector is just west of the Ancient Mariner. The Ah library is where it has always been, but has a librarian now.
 
@@ -26,7 +26,7 @@ Some players mentioned that garbage was in abundance, so I thought I'd clean it 
 
 </div>
 
-<div class="post" data-post-id="34094" data-author="Jecka" data-date="2013-02-27T12:15:16+00:00">
+<div class="post" data-post-id="34094" data-author="Jecka" data-date="2013-02-27T12:15:16+00:00" data-subject="Re: housekeeping changes">
 
 > ***juggleblood* wrote:**
 > The Ah library is where it has always been, but has a librarian now.
@@ -35,13 +35,13 @@ And now it has not  :lol:
 
 </div>
 
-<div class="post" data-post-id="34095" data-author="Yasik" data-date="2013-02-27T18:16:06+00:00">
+<div class="post" data-post-id="34095" data-author="Yasik" data-date="2013-02-27T18:16:06+00:00" data-subject="Re: housekeeping changes">
 
 Also, the 'Emma' person needs to be looked upon; its says she's **he** when I try to hug **her**.
 
 </div>
 
-<div class="post" data-post-id="34099" data-author="*juggleblood*" data-date="2013-02-28T06:33:40+00:00">
+<div class="post" data-post-id="34099" data-author="*juggleblood*" data-date="2013-02-28T06:33:40+00:00" data-subject="Re: housekeeping changes">
 
 Rezoned it and saved this time..
 

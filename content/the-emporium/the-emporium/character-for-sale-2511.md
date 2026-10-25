@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="18978" data-author="Mosaix" data-date="2007-06-19T14:34:53+00:00">
+<div class="post" data-post-id="18978" data-author="Mosaix" data-date="2007-06-19T14:34:53+00:00" data-subject="Character for sale">
 
 Id consider coins or some tasty eq.  You can post bids here or catch Mosaix/Osaka/Sentinel online if you want to chat about an offer.
 
@@ -128,13 +128,13 @@ Mosaix/Broc
 
 </div>
 
-<div class="post" data-post-id="18979" data-author="13" data-date="2007-06-19T14:57:31+00:00">
+<div class="post" data-post-id="18979" data-author="13" data-date="2007-06-19T14:57:31+00:00" data-subject="">
 
 Why sell it for ingame shit if your interest in playing has run its course, I don't understand.  Someone would probably give you 50 bucks for it.
 
 </div>
 
-<div class="post" data-post-id="18982" data-author="Mosaix" data-date="2007-06-19T17:17:34+00:00">
+<div class="post" data-post-id="18982" data-author="Mosaix" data-date="2007-06-19T17:17:34+00:00" data-subject="">
 
 Dear Aaron,
 

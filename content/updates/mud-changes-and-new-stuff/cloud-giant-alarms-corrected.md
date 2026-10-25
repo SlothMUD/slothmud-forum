@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33942" data-author="*Splork*" data-date="2013-01-22T01:34:04+00:00">
+<div class="post" data-post-id="33942" data-author="*Splork*" data-date="2013-01-22T01:34:04+00:00" data-subject="Cloud Giant alarms corrected">
 
 Somewhere, over the course of the last decade, the alarms in Cloud Giants have stopped working. These alarms have been replaced with one which does work.
 

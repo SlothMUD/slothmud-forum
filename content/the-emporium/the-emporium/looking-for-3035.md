@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="28028" data-author="Bazilus" data-date="2009-02-09T18:42:57+00:00">
+<div class="post" data-post-id="28028" data-author="Bazilus" data-date="2009-02-09T18:42:57+00:00" data-subject="Looking for...">
 
 Wtb:
 
@@ -26,7 +26,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28090" data-author="Bazilus" data-date="2009-02-13T14:48:15+00:00">
+<div class="post" data-post-id="28090" data-author="Bazilus" data-date="2009-02-13T14:48:15+00:00" data-subject="Re: Looking for...">
 
 Ready to pay for:
 
@@ -46,7 +46,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28132" data-author="Bazilus" data-date="2009-02-15T11:23:41+00:00">
+<div class="post" data-post-id="28132" data-author="Bazilus" data-date="2009-02-15T11:23:41+00:00" data-subject="">
 
 Got Infernite Gauntlets, still looking for other items.
 
@@ -54,7 +54,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28138" data-author="jezer" data-date="2009-02-15T23:06:17+00:00">
+<div class="post" data-post-id="28138" data-author="jezer" data-date="2009-02-15T23:06:17+00:00" data-subject="">
 
 Gratz on scoring the gauntlets Baz... I think your incredibly resourceful/lucky to pull that one off. I'd love to know whose got equipment like that to trade... ooh, unless it was Chi looting Bomb again  :twisted:
 

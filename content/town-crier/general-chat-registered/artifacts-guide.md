@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="39071" data-author="Gorka" data-date="2019-01-22T14:32:33+00:00">
+<div class="post" data-post-id="39071" data-author="Gorka" data-date="2019-01-22T14:32:33+00:00" data-subject="Artifacts Guide">
 
 So Maniac's new item type called an artifact has been in the game for a while now... at least 2 other players have one that I am aware of. Even if the item is not worthwhile for the player, there is drachma involved in the auto quest for a cp for it and therefore it should be interesting to all players. The item is forged at Preva with cp's you will need to collect.
 
@@ -168,7 +168,7 @@ I do wonder what happens at level 10, can I still get charms? Perhaps that's the
 
 </div>
 
-<div class="post" data-post-id="39072" data-author="Josiah" data-date="2019-01-22T15:56:52+00:00">
+<div class="post" data-post-id="39072" data-author="Josiah" data-date="2019-01-22T15:56:52+00:00" data-subject="Re: Artifacts Guide">
 
 For me, the artifact is superior to the relic.  It coincidentally was released the day I planned to buy a relic, which was awfully nice!
 
@@ -180,7 +180,7 @@ The Powers What Is don't seem to enjoy alternative play-styles like making mobs 
 
 </div>
 
-<div class="post" data-post-id="39073" data-author="Gorka" data-date="2019-01-22T17:51:07+00:00">
+<div class="post" data-post-id="39073" data-author="Gorka" data-date="2019-01-22T17:51:07+00:00" data-subject="Re: Artifacts Guide">
 
 > **Josiah wrote:**
 > The Powers What Is don't seem to enjoy alternative play-styles like making mobs fight each other.  I don't think your uncharmed mob will strike the phoenix unless he is native to Arbo.  Even if a mob is in their spawning area, they will still attempt to flee rather than fight.  Those protections are disabled while the mob is actually charmed, of course.
@@ -189,7 +189,7 @@ Tested and this is true. I'm sure I remember older days when it wasn't. Seems an
 
 </div>
 
-<div class="post" data-post-id="39146" data-author="Gorka" data-date="2019-04-03T07:48:17+00:00">
+<div class="post" data-post-id="39146" data-author="Gorka" data-date="2019-04-03T07:48:17+00:00" data-subject="Re: Artifacts Guide">
 
 > **Quote:**
 > You pour the crystal goblet of fiery nightmares into X's mouth.

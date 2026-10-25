@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="13518" data-author="luke" data-date="2006-07-20T19:14:19+00:00">
+<div class="post" data-post-id="13518" data-author="luke" data-date="2006-07-20T19:14:19+00:00" data-subject="luck gods help">
 
 hows it work?
 
@@ -22,7 +22,7 @@ Luke :twisted:
 
 </div>
 
-<div class="post" data-post-id="13523" data-author="Leaf" data-date="2006-07-20T21:34:04+00:00">
+<div class="post" data-post-id="13523" data-author="Leaf" data-date="2006-07-20T21:34:04+00:00" data-subject="">
 
 Nope the bard has to be there and the area is going to repop.  Most bards
 
@@ -32,7 +32,7 @@ singing.  If the area is No-Pop when ppl in it, then they song is usless.
 
 </div>
 
-<div class="post" data-post-id="13524" data-author="Autolycos" data-date="2006-07-20T21:40:14+00:00">
+<div class="post" data-post-id="13524" data-author="Autolycos" data-date="2006-07-20T21:40:14+00:00" data-subject="">
 
 the most fun is when its an uber aggro mob, and it slaughters the bard in mid-tune  :twisted:  
 
@@ -42,7 +42,7 @@ the most fun is when its an uber aggro mob, and it slaughters the bard in mid-tu
 
 </div>
 
-<div class="post" data-post-id="13525" data-author="Tetsulunathaya" data-date="2006-07-20T21:41:46+00:00">
+<div class="post" data-post-id="13525" data-author="Tetsulunathaya" data-date="2006-07-20T21:41:46+00:00" data-subject="">
 
 Hes correct that it is a useless song in area's that don't repop with people in it.
 
@@ -50,13 +50,13 @@ To use it, you have to be singing the song AT the mob you want it to effect, whe
 
 </div>
 
-<div class="post" data-post-id="13526" data-author="brady" data-date="2006-07-21T01:17:55+00:00">
+<div class="post" data-post-id="13526" data-author="brady" data-date="2006-07-21T01:17:55+00:00" data-subject="">
 
 I've caught Auto trying to make it work on a couple of occasions but Donna Sommers', "Last Dance" didn't seem to do the trick.
 
 </div>
 
-<div class="post" data-post-id="13529" data-author="Shara" data-date="2006-07-21T05:59:50+00:00">
+<div class="post" data-post-id="13529" data-author="Shara" data-date="2006-07-21T05:59:50+00:00" data-subject="">
 
 I've got my finger on the trigger,
 
@@ -68,7 +68,7 @@ I ain't lettin' go!
 
 </div>
 
-<div class="post" data-post-id="13530" data-author="Autolycos" data-date="2006-07-21T11:50:46+00:00">
+<div class="post" data-post-id="13530" data-author="Autolycos" data-date="2006-07-21T11:50:46+00:00" data-subject="">
 
 LMFAO!
 

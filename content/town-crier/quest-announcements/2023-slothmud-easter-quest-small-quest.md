@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40048" data-author="*Idjit*" data-date="2023-04-06T05:29:02+00:00">
+<div class="post" data-post-id="40048" data-author="*Idjit*" data-date="2023-04-06T05:29:02+00:00" data-subject="2023 SlothMUD Easter Quest (small quest)">
 
 Howdy.
 

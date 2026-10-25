@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="479" data-author="Leizu" data-date="2004-06-02T16:55:31+00:00">
+<div class="post" data-post-id="479" data-author="Leizu" data-date="2004-06-02T16:55:31+00:00" data-subject="zmud scripting help wanted">
 
 I know the string, and need to "analyze" next one. Depends of what following string contains zmud should take different actions.
 
@@ -30,7 +30,7 @@ P.S. atm I use zMUD 4.62
 
 </div>
 
-<div class="post" data-post-id="485" data-author="Weasel" data-date="2004-06-02T19:16:55+00:00">
+<div class="post" data-post-id="485" data-author="Weasel" data-date="2004-06-02T19:16:55+00:00" data-subject="Re: zmud scripting help wanted">
 
 I don't use zMUD, but probably works the same way as my client.. or can be adjusted accordingly.. trigger on
 
@@ -70,7 +70,7 @@ or something like that anyway heh
 
 </div>
 
-<div class="post" data-post-id="488" data-author="Leizu" data-date="2004-06-02T20:55:17+00:00">
+<div class="post" data-post-id="488" data-author="Leizu" data-date="2004-06-02T20:55:17+00:00" data-subject="">
 
 prolly I gave bad example. I'm not good in coding, so prolly missing something or understand in a wrong way.
 
@@ -80,7 +80,7 @@ lets say first string is not 'Leizu is a druid prime', but 'asdfsdfsdfasdfsdfs'.
 
 </div>
 
-<div class="post" data-post-id="491" data-author="Zenkai" data-date="2004-06-02T23:43:24+00:00">
+<div class="post" data-post-id="491" data-author="Zenkai" data-date="2004-06-02T23:43:24+00:00" data-subject="">
 
 I'm using zMUd 5.55 here.
 
@@ -126,7 +126,7 @@ Is that something like what you want to script?
 
 </div>
 
-<div class="post" data-post-id="499" data-author="Leizu" data-date="2004-06-03T08:11:33+00:00">
+<div class="post" data-post-id="499" data-author="Leizu" data-date="2004-06-03T08:11:33+00:00" data-subject="">
 
 thanks Zenkai, I'll keep it in mind. this one might be useful.
 
@@ -134,7 +134,7 @@ btw zmud stores 3 last strings in variables what could be very useful for master
 
 </div>
 
-<div class="post" data-post-id="1105" data-author="Teron!" data-date="2004-07-17T11:43:15+00:00">
+<div class="post" data-post-id="1105" data-author="Teron!" data-date="2004-07-17T11:43:15+00:00" data-subject="">
 
 I use ZMud v4.62 too, and Ive solved such a problem this way:
 
@@ -172,7 +172,7 @@ P.S. ZMud v4.62 is way better than any other version of ZMud.
 
 </div>
 
-<div class="post" data-post-id="1117" data-author="fresh" data-date="2004-07-18T12:11:54+00:00">
+<div class="post" data-post-id="1117" data-author="fresh" data-date="2004-07-18T12:11:54+00:00" data-subject="">
 
 Newbies!
 
@@ -196,7 +196,7 @@ This is it. It should work oÂ­n zmud 4.62 as well.
 
 </div>
 
-<div class="post" data-post-id="1118" data-author="fresh" data-date="2004-07-18T12:20:55+00:00">
+<div class="post" data-post-id="1118" data-author="fresh" data-date="2004-07-18T12:20:55+00:00" data-subject="">
 
 So, in addition to it, if you need to analyze the second string you will write a trigger like this:
 
@@ -206,13 +206,13 @@ and you will have all the second string in your %1 variable
 
 </div>
 
-<div class="post" data-post-id="1119" data-author="Leizu" data-date="2004-07-18T14:04:02+00:00">
+<div class="post" data-post-id="1119" data-author="Leizu" data-date="2004-07-18T14:04:02+00:00" data-subject="">
 
 zmud 4.62 doesnt support multiline triggers, newbie :)
 
 </div>
 
-<div class="post" data-post-id="1123" data-author="fresh" data-date="2004-07-18T22:51:24+00:00">
+<div class="post" data-post-id="1123" data-author="fresh" data-date="2004-07-18T22:51:24+00:00" data-subject="">
 
 Hehe, my fault, my memory is playing tricks with me, was using zmud 4.62 too long ago. Then i suppose Terons triggers should be working fine.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35051" data-author="Marvel" data-date="2014-04-22T01:35:46+00:00">
+<div class="post" data-post-id="35051" data-author="Marvel" data-date="2014-04-22T01:35:46+00:00" data-subject="Novel&#x27;s Newbie Guide Updates">
 
 Since I'd lost all my work once before (from a toddler dropping my laptop), I figured it'd be best to upload my website updates as I get them done. Some of the pages are just copies of other pages for the time being, but it'll all get updated.
 
@@ -26,7 +26,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="35053" data-author="Hung" data-date="2014-04-22T02:21:20+00:00">
+<div class="post" data-post-id="35053" data-author="Hung" data-date="2014-04-22T02:21:20+00:00" data-subject="Re: Novel&#x27;s Newbie Guide Updates">
 
 Thanks!
 

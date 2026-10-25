@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9539" data-author="Qa" data-date="2005-11-16T19:13:39+00:00">
+<div class="post" data-post-id="9539" data-author="Qa" data-date="2005-11-16T19:13:39+00:00" data-subject="Died &amp; Looted on Lyme on Monday">
 
 So I died on Monday - twice.  Level loss - yadda, yadda, yadda.  I got upset, pissed and generally unhappy.
 

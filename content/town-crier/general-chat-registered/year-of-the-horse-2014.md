@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34749" data-author="DarkArtist" data-date="2014-01-02T19:23:53+00:00">
+<div class="post" data-post-id="34749" data-author="DarkArtist" data-date="2014-01-02T19:23:53+00:00" data-subject="Year of the Horse 2014">
 
 *Immortals of SlothMUD* 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32315" data-author="*juggleblood*" data-date="2011-01-12T17:20:42+00:00">
+<div class="post" data-post-id="32315" data-author="*juggleblood*" data-date="2011-01-12T17:20:42+00:00" data-subject="Quest and forge syntax">
 
 This is just a little information to help new folk work with forger and quester mobiles. Especially when exploring new areas.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="27998" data-author="marge" data-date="2009-02-05T15:16:26+00:00">
+<div class="post" data-post-id="27998" data-author="marge" data-date="2009-02-05T15:16:26+00:00" data-subject="So you want to be a warrior.">
 
 The warrior class is suited for people who like to be able to walk up to something and beat it down without a lot of fanfare. 
 

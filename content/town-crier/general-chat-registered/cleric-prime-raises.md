@@ -10,7 +10,7 @@ locked: false
 post_count: 47
 ---
 
-<div class="post" data-post-id="7499" data-author="Cami" data-date="2005-06-23T16:08:13+00:00">
+<div class="post" data-post-id="7499" data-author="Cami" data-date="2005-06-23T16:08:13+00:00" data-subject="Cleric Prime Raises">
 
 Cleric Primes seems to shock often these days and I'm wondering if there is a bug in the equation somewhere.
 
@@ -22,7 +22,7 @@ Help!  I like this char and don't want to give up on her.
 
 </div>
 
-<div class="post" data-post-id="7500" data-author="Autolycos" data-date="2005-06-23T16:18:29+00:00">
+<div class="post" data-post-id="7500" data-author="Autolycos" data-date="2005-06-23T16:18:29+00:00" data-subject="">
 
 i always thought that the addition of RINA was to increase the percentage of raises, and also the creation of +shock for the same.  
 
@@ -34,7 +34,7 @@ WTF is goin on?  seems likes someones number crunching has been replaced by slee
 
 </div>
 
-<div class="post" data-post-id="7502" data-author="Mosaix" data-date="2005-06-23T16:55:34+00:00">
+<div class="post" data-post-id="7502" data-author="Mosaix" data-date="2005-06-23T16:55:34+00:00" data-subject="">
 
 Need to do something with Cleric Primes.  Your a total fool if you pick it at this point in time.  Useless to solo most mobs, become a raising healing gimp for most groups, and of course forget about getting any choice picks in a quest.  At Avatar 24 im still getting hand-me-down picks.  Thats total bullshit.
 
@@ -48,7 +48,7 @@ Im tired of it.  You have pinned my choice of char into a corner, and Id like to
 
 </div>
 
-<div class="post" data-post-id="7504" data-author="Alberich" data-date="2005-06-23T16:59:34+00:00">
+<div class="post" data-post-id="7504" data-author="Alberich" data-date="2005-06-23T16:59:34+00:00" data-subject="">
 
 if you "cannot solo worth a crap", that's your fault, not your class.
 
@@ -58,7 +58,7 @@ If you are only wearing +6 shock, then yeah, you're not going to raise much bett
 
 </div>
 
-<div class="post" data-post-id="7505" data-author="Autolycos" data-date="2005-06-23T17:03:06+00:00">
+<div class="post" data-post-id="7505" data-author="Autolycos" data-date="2005-06-23T17:03:06+00:00" data-subject="">
 
 i am really surprised to hear that kind of garbage coming from you alberich.  
 
@@ -70,13 +70,13 @@ SET...MATCH...POINT
 
 </div>
 
-<div class="post" data-post-id="7506" data-author="Alberich" data-date="2005-06-23T17:14:34+00:00">
+<div class="post" data-post-id="7506" data-author="Alberich" data-date="2005-06-23T17:14:34+00:00" data-subject="">
 
 I'm on the recieving end of lots of raises auto :p  I actually do notice a huge difference in how often I get shocked by cleric primes wearing maxed +shock gear and someone wearing little or none.  I don't collect data on the raises I do, but I rarely shock people with Alberich, who wears around +9shock, and Althalus wears like +6, and seems to shock people much more often.  Who said the raise thing was anyones fault?  Just my own observations, but, I don't play any cleric primes, so I'll leave it alone :)
 
 </div>
 
-<div class="post" data-post-id="7507" data-author="13" data-date="2005-06-23T17:16:56+00:00">
+<div class="post" data-post-id="7507" data-author="13" data-date="2005-06-23T17:16:56+00:00" data-subject="">
 
 I have to agree, Clerics have gotten a total fucking as a prime class, but then again most people know what they are getting into with it.
 
@@ -86,7 +86,7 @@ I have to agree, Clerics have gotten a total fucking as a prime class, but then 
 
 </div>
 
-<div class="post" data-post-id="7508" data-author="Mosaix" data-date="2005-06-23T17:20:31+00:00">
+<div class="post" data-post-id="7508" data-author="Mosaix" data-date="2005-06-23T17:20:31+00:00" data-subject="">
 
 Damn your ignorant.  Cleric primes are a joke to solo.  Most of the eq we aquire especially early on, is mana based.  Try to heal a mob to death.  Doesnt work to good.   You cant fathom the pain of levling to 20 prime as a cleric.   I dont argue that at my level I can get ac eq.  I can do that.  Hopefully most clerics have good stats like I do to even support that eq.  Maybe you can compute that cleric primes are going to roll wis and int first.  Then the rolls that keep the rest of you alive like str, dex and con come in.  Try tanking or taking any hits with a 13 con, dex, or str.  
 
@@ -98,7 +98,7 @@ Use your damn brain.
 
 </div>
 
-<div class="post" data-post-id="7509" data-author="Chainer" data-date="2005-06-23T17:21:50+00:00">
+<div class="post" data-post-id="7509" data-author="Chainer" data-date="2005-06-23T17:21:50+00:00" data-subject="">
 
 ermm.....Dork Mace rawks!!
 
@@ -116,7 +116,7 @@ GO CLERICS!!! GO!!!
 
 </div>
 
-<div class="post" data-post-id="7510" data-author="Avatar" data-date="2005-06-23T18:02:36+00:00">
+<div class="post" data-post-id="7510" data-author="Avatar" data-date="2005-06-23T18:02:36+00:00" data-subject="Cleric primes">
 
 Clerics have never been strong solo.  If you want to solo there are better classo's to choose.  If you like to heal and raise other people, then cleric prime might be a good fit for you.
 
@@ -128,7 +128,7 @@ The victim would like to be raised, but beggars can't be choosers.  If you're de
 
 </div>
 
-<div class="post" data-post-id="7514" data-author="Weasel" data-date="2005-06-23T18:45:09+00:00">
+<div class="post" data-post-id="7514" data-author="Weasel" data-date="2005-06-23T18:45:09+00:00" data-subject="">
 
 Weasel is a wa/ma/cl/th 5x40 with a raise mode too..
 
@@ -148,7 +148,7 @@ hope that is helpful for someone.
 
 </div>
 
-<div class="post" data-post-id="7515" data-author="Mosaix" data-date="2005-06-23T22:06:10+00:00">
+<div class="post" data-post-id="7515" data-author="Mosaix" data-date="2005-06-23T22:06:10+00:00" data-subject="">
 
 Alberich I apologize for coming off so harsh.  Not a good real life day, and this stuff on the mud has been bothering me for awhile.  However the principle of my thought stays the same.
 
@@ -164,7 +164,7 @@ Socially its got to change.  Something or things have to be done to boost the ef
 
 </div>
 
-<div class="post" data-post-id="7516" data-author="Avatar" data-date="2005-06-23T22:15:03+00:00">
+<div class="post" data-post-id="7516" data-author="Avatar" data-date="2005-06-23T22:15:03+00:00" data-subject="Clerics again">
 
 [quote:109t935c]Socially its got to change.[/quote:109t935c]
 
@@ -172,13 +172,13 @@ I can agree with that, at least.  You seem to be running with the wrong crowds. 
 
 </div>
 
-<div class="post" data-post-id="7518" data-author="Sind9" data-date="2005-06-24T03:56:29+00:00">
+<div class="post" data-post-id="7518" data-author="Sind9" data-date="2005-06-24T03:56:29+00:00" data-subject="hrm">
 
 u guys talking bout some other mud? single class one i guess?
 
 </div>
 
-<div class="post" data-post-id="7519" data-author="rith" data-date="2005-06-24T04:50:44+00:00">
+<div class="post" data-post-id="7519" data-author="rith" data-date="2005-06-24T04:50:44+00:00" data-subject="">
 
 There has certainly been alot of complaints so far in the mud. I too have my share to whine about. 
 
@@ -188,7 +188,7 @@ Is it time for sloth 4?
 
 </div>
 
-<div class="post" data-post-id="7520" data-author="Mace" data-date="2005-06-24T05:04:54+00:00">
+<div class="post" data-post-id="7520" data-author="Mace" data-date="2005-06-24T05:04:54+00:00" data-subject="">
 
 >> i always thought that the addition of RINA was to increase the percentage of raises, and also the creation of +shock for the same.
 
@@ -198,7 +198,7 @@ As one of the old-style cleric soloers.. :)  to me prime cleric is sort of a nul
 
 </div>
 
-<div class="post" data-post-id="7521" data-author="Krok" data-date="2005-06-24T08:39:35+00:00">
+<div class="post" data-post-id="7521" data-author="Krok" data-date="2005-06-24T08:39:35+00:00" data-subject="">
 
 Oh, come on. "Little respect, little reward, can't solo"... If you get little respect, no matter which classo you are. I have cleric prime and I'm happy to be it. Having crazy restores is kinda useful in groups and I believe ppl appreciate and _respect_ it.
 
@@ -208,7 +208,7 @@ PS I'm cleeeeric (c) - that means I can do stupid things and no one will punish 
 
 </div>
 
-<div class="post" data-post-id="7522" data-author="12345" data-date="2005-06-24T10:32:10+00:00">
+<div class="post" data-post-id="7522" data-author="12345" data-date="2005-06-24T10:32:10+00:00" data-subject="">
 
 Judging by that code leak a while back, 18 wis/con gives 85%, +5 shock raises that to 90% and only rina raises that up to 95%.  I -think- 18 wis/con was 95% before, but Jake's post on that was a very long long time ago..  :)[/quote:1071vri8]
 
@@ -220,7 +220,7 @@ The date on that was last August, and I know raise has been looked at and change
 
 </div>
 
-<div class="post" data-post-id="7523" data-author="13" data-date="2005-06-24T10:40:08+00:00">
+<div class="post" data-post-id="7523" data-author="13" data-date="2005-06-24T10:40:08+00:00" data-subject="Clerics get the hose">
 
 [quote:14ii3s4f]u guys talking bout some other mud? single class one i guess?[/quote:14ii3s4f]
 
@@ -236,13 +236,13 @@ Does that help you solo Krokie?
 
 </div>
 
-<div class="post" data-post-id="7526" data-author="firebrand" data-date="2005-06-24T11:10:13+00:00">
+<div class="post" data-post-id="7526" data-author="firebrand" data-date="2005-06-24T11:10:13+00:00" data-subject="">
 
 personally, i appreciate clerics in groups.  they keep us alive, whether we are tank or not.  they also are right on the ball to relite someone if lite drops.  there are a bunch of little nice things that clerics do that are very missed when clerics are not in groups.  i prefer to have a specified cleric in my group organize and handle the healo.  it takes a load off my shoulders and gives me time to take care of other things for the group, not to mention usually lets the group run longer because heal mana is more effectively used.  as far as soloing with a cleric goes, i can't comment on that because i have never played one.  but then again, i am an eternal n00b.  if i get shocked, yeah i might get upset - but not at the caster (unless that caster is leaf, but we all just love to harrass him :P ).  i get frustrated at the dice roll that says it's my time to shock.  to those ppl who play clerics - THX!  i don't know how many times clerics have come to my aid.  i won't even bother naming names because there are so many of you out there.  i am a wa/ma/th/cl/av and i run in NO sys shock gear.  in ac, my wis is 15 and in regen is 16.  my raise/shock percentage is i would say about 75% raises in either mode.  yeah, i do agree that it is frustrating as hell to shock - especially if you don't get many chances to group and those exps are hard to come by or if you are almost to next level.  we need people playing ALL  classes.  each one has benefits to not only the person who wants that class, but to other people as well.  for all you clerics out there who are feeling iffy about playing your clerics, please...keep playing them.  we need you guys.
 
 </div>
 
-<div class="post" data-post-id="7527" data-author="Autolycos" data-date="2005-06-24T11:12:07+00:00">
+<div class="post" data-post-id="7527" data-author="Autolycos" data-date="2005-06-24T11:12:07+00:00" data-subject="">
 
 *snicker 13.
 
@@ -254,13 +254,13 @@ not that i would ever want to publicly embarras my top 3 fav clerics.  But  for 
 
 </div>
 
-<div class="post" data-post-id="7530" data-author="Krok" data-date="2005-06-24T11:29:50+00:00">
+<div class="post" data-post-id="7530" data-author="Krok" data-date="2005-06-24T11:29:50+00:00" data-subject="">
 
 13, nope, my other 3 classes and supps help me solo :))
 
 </div>
 
-<div class="post" data-post-id="7531" data-author="firebrand" data-date="2005-06-24T11:41:16+00:00">
+<div class="post" data-post-id="7531" data-author="firebrand" data-date="2005-06-24T11:41:16+00:00" data-subject="">
 
 Its a pain in the ass to run forges you need when you are at the whim of the leader and tank running the show.  I have had to leave eq groups cause they dont care to get to the healers pop choice all the while the cleric is the one keeping them alive so they can get pops to begin with.  It happens more than not.  That shit really has to stop.[/quote:1qz8rr8h]
 
@@ -268,7 +268,7 @@ when i run groups, i put in my group title EXPS (or whatever else i happen to be
 
 </div>
 
-<div class="post" data-post-id="7533" data-author="12345" data-date="2005-06-24T11:47:43+00:00">
+<div class="post" data-post-id="7533" data-author="12345" data-date="2005-06-24T11:47:43+00:00" data-subject="">
 
 Actually, my favorite cleric frequently refers to himself as a servant but he's also one of the best players I know.  Honestly, every classo has a different playstyle.  I have a character that practically requires a group to use, and he's one of my favorite.  Not surprizingly, he almost always starts a group when he comes on.  Clerics are his favorite people.
 
@@ -280,13 +280,13 @@ If you really wanted to boost primes, you could do all kinds of fun stuff.  Holy
 
 </div>
 
-<div class="post" data-post-id="7534" data-author="12345" data-date="2005-06-24T12:14:42+00:00">
+<div class="post" data-post-id="7534" data-author="12345" data-date="2005-06-24T12:14:42+00:00" data-subject="">
 
 Stray thought... In Final Fantasy, the most insanely powerful attack in the game is Raise Dead.  Toss it at an undead and about half it's hps vanish.  Would be a cool opening move for cleric types against undeads.
 
 </div>
 
-<div class="post" data-post-id="7535" data-author="Sind9" data-date="2005-06-24T12:28:16+00:00">
+<div class="post" data-post-id="7535" data-author="Sind9" data-date="2005-06-24T12:28:16+00:00" data-subject="lol">
 
 13:go buy another character sind..occupy yourself while the smart people are busy talking.
 
@@ -294,7 +294,7 @@ lol
 
 </div>
 
-<div class="post" data-post-id="7537" data-author="Chainer" data-date="2005-06-24T12:36:25+00:00">
+<div class="post" data-post-id="7537" data-author="Chainer" data-date="2005-06-24T12:36:25+00:00" data-subject="">
 
 yeah, there are already mobs which will be dealt damage if you heal it such as Ygol, but its way to big to "heal" it down  :( 
 
@@ -304,7 +304,7 @@ GO CLERICS!!! GO!!!
 
 </div>
 
-<div class="post" data-post-id="7540" data-author="Leaf" data-date="2005-06-24T12:51:03+00:00">
+<div class="post" data-post-id="7540" data-author="Leaf" data-date="2005-06-24T12:51:03+00:00" data-subject="">
 
 12345,
 
@@ -318,7 +318,7 @@ takes way toooo long.  If they can get the balance it would be good.
 
 </div>
 
-<div class="post" data-post-id="7546" data-author="12345" data-date="2005-06-24T13:07:05+00:00">
+<div class="post" data-post-id="7546" data-author="12345" data-date="2005-06-24T13:07:05+00:00" data-subject="">
 
 Let me get this straight...  stabbing a mob and instantly killing it for a couple mil xp is ok, but knocking an undead down to half is too powerful?  Come on, you're prime char is a thief.
 
@@ -330,7 +330,7 @@ Let them do what they're good at.
 
 </div>
 
-<div class="post" data-post-id="7548" data-author="Sind9" data-date="2005-06-24T13:19:04+00:00">
+<div class="post" data-post-id="7548" data-author="Sind9" data-date="2005-06-24T13:19:04+00:00" data-subject="">
 
 war=chop,ma=ether etc
 
@@ -342,13 +342,13 @@ go play ur single classed slothmud and keep posting your ideas/
 
 </div>
 
-<div class="post" data-post-id="7550" data-author="12345" data-date="2005-06-24T13:26:05+00:00">
+<div class="post" data-post-id="7550" data-author="12345" data-date="2005-06-24T13:26:05+00:00" data-subject="">
 
 Druid necro and monk are pretty much the best choppers in the game, or hadn't you noticed?  I don't know what bards are but I do know they'll supercharge an xp group quick.
 
 </div>
 
-<div class="post" data-post-id="7551" data-author="brand" data-date="2005-06-24T13:32:37+00:00">
+<div class="post" data-post-id="7551" data-author="brand" data-date="2005-06-24T13:32:37+00:00" data-subject="">
 
 here's my 'good friends' raise eq.
 
@@ -374,7 +374,7 @@ soloing for me is now only about fear and desire.  unless i 'press my luck', i c
 
 </div>
 
-<div class="post" data-post-id="7553" data-author="Autolycos" data-date="2005-06-24T13:56:38+00:00">
+<div class="post" data-post-id="7553" data-author="Autolycos" data-date="2005-06-24T13:56:38+00:00" data-subject="">
 
 *laffs at Brand for getting killed by Lyme ticket girl*
 
@@ -386,7 +386,7 @@ could you imagine how cool that would be?  MABLE! write that down!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="7557" data-author="firebrand" data-date="2005-06-24T14:32:58+00:00">
+<div class="post" data-post-id="7557" data-author="firebrand" data-date="2005-06-24T14:32:58+00:00" data-subject="">
 
 autobot sed:  could you imagine how cool that would be? MABLE! write that down! 
 
@@ -394,7 +394,7 @@ Mable??? don't you mean Fable? i thought that will was your personal whipping bo
 
 </div>
 
-<div class="post" data-post-id="7561" data-author="Leaf" data-date="2005-06-24T15:13:55+00:00">
+<div class="post" data-post-id="7561" data-author="Leaf" data-date="2005-06-24T15:13:55+00:00" data-subject="">
 
 Ooo no Reb ur our master, who we serve and kiss the ground u walk on.
 
@@ -406,19 +406,19 @@ Oooo crap must of been sleeping :-P
 
 </div>
 
-<div class="post" data-post-id="7565" data-author="brand" data-date="2005-06-24T16:05:52+00:00">
+<div class="post" data-post-id="7565" data-author="brand" data-date="2005-06-24T16:05:52+00:00" data-subject="">
 
 yeah that bit with the ticket girl was humbling, but there is a lesson in there somewhere... yeah when your light drops and you know you should leave but you firewind anyway... and then you somehow manage to live that round and you really should leave but you firewind anyway... and then you LOSE CON!... and then you really want to leave because you're in a bloody ball at the feet of none other than THE TICKET GIRL... and then someone named autolycos remembers it and it's like it happened all over again... :evil:
 
 </div>
 
-<div class="post" data-post-id="7567" data-author="Leaf" data-date="2005-06-24T16:54:19+00:00">
+<div class="post" data-post-id="7567" data-author="Leaf" data-date="2005-06-24T16:54:19+00:00" data-subject="">
 
 Sucks to be YOU!
 
 </div>
 
-<div class="post" data-post-id="7569" data-author="Autolycos" data-date="2005-06-24T17:25:01+00:00">
+<div class="post" data-post-id="7569" data-author="Autolycos" data-date="2005-06-24T17:25:01+00:00" data-subject="">
 
 haha Brand, yeah, that is pretty bad... 
 
@@ -428,7 +428,7 @@ hehe
 
 </div>
 
-<div class="post" data-post-id="7570" data-author="Leaf" data-date="2005-06-24T17:34:56+00:00">
+<div class="post" data-post-id="7570" data-author="Leaf" data-date="2005-06-24T17:34:56+00:00" data-subject="">
 
 I think I did that once when I had Link ... as a nc/nc my hp regen was alot.
 
@@ -436,7 +436,7 @@ However I think drowning damage has been increased over the yrs.
 
 </div>
 
-<div class="post" data-post-id="7577" data-author="rith" data-date="2005-06-25T01:50:58+00:00">
+<div class="post" data-post-id="7577" data-author="rith" data-date="2005-06-25T01:50:58+00:00" data-subject="">
 
 Ill certainly look forward to sloth 4 cause ill quit altogether  :D 
 
@@ -448,7 +448,7 @@ A zombie of Chainer is limping aroud  :twisted:
 
 </div>
 
-<div class="post" data-post-id="7657" data-author="Toxis" data-date="2005-06-29T11:07:38+00:00">
+<div class="post" data-post-id="7657" data-author="Toxis" data-date="2005-06-29T11:07:38+00:00" data-subject="">
 
 Cleric is a decent class if you realize what clerics are for.  They're not solo, they're group based.  They're healers, and undead killers.  Darkmace not only is a weapon that damages undead, but it is a sanc buster AND it gives Rawr +3 mana regen at this present time, which I love.  I can't count the times when my aerial servant saved me from death only by 1 or 2 hit points in both a group or while running to an area.
 
@@ -460,7 +460,7 @@ So what if other classes are better solo, I have the abilities I want and that's
 
 </div>
 
-<div class="post" data-post-id="7658" data-author=".kitn" data-date="2005-06-29T11:48:15+00:00">
+<div class="post" data-post-id="7658" data-author=".kitn" data-date="2005-06-29T11:48:15+00:00" data-subject="">
 
 Cleric is a decent class if you realize what clerics are for.  They're not solo, they're group based.[/quote:1omxcx95]
 
@@ -470,7 +470,7 @@ exactly.
 
 </div>
 
-<div class="post" data-post-id="7660" data-author="12345" data-date="2005-06-29T12:42:48+00:00">
+<div class="post" data-post-id="7660" data-author="12345" data-date="2005-06-29T12:42:48+00:00" data-subject="">
 
 Disappointing statement, especially considering how far away it is from it's background.
 
@@ -482,7 +482,7 @@ If clerics were closer to their roots, they would be perfectly capable as a solo
 
 </div>
 
-<div class="post" data-post-id="7663" data-author="Autolycos" data-date="2005-06-29T13:30:11+00:00">
+<div class="post" data-post-id="7663" data-author="Autolycos" data-date="2005-06-29T13:30:11+00:00" data-subject="">
 
 yes, and we could argue that white is black and black is white, and all get killed at the next zebra crossing ...   (c) Douglas Adams
 
@@ -490,7 +490,7 @@ yes, and we could argue that white is black and black is white, and all get kill
 
 </div>
 
-<div class="post" data-post-id="7666" data-author="12345" data-date="2005-06-29T13:57:31+00:00">
+<div class="post" data-post-id="7666" data-author="12345" data-date="2005-06-29T13:57:31+00:00" data-subject="">
 
 Fundamentally altering a class creates balance issues.  A balance issue was raised.  Not surprisingly, it can be addressed by referring to the original template for the class.  This would also do nothing to hurt the role of cleric's in groups.
 
@@ -498,7 +498,7 @@ I'm not trying to be trivial about this.  They've done numerous things to bring 
 
 </div>
 
-<div class="post" data-post-id="7668" data-author="kjartan" data-date="2005-06-29T14:18:52+00:00">
+<div class="post" data-post-id="7668" data-author="kjartan" data-date="2005-06-29T14:18:52+00:00" data-subject="">
 
 I'm not trying to be trivial about this.  They've done numerous things to bring clerics more towards 'reality', like eliminating undeads, but for the most part continue to ignore its origin, which worked perfectly well and could be made to work in Sloth quite easily.[/quote:1zp4hswn]
 
@@ -514,7 +514,7 @@ This spell undoes all the healing that this cleric has performed on the target i
 
 </div>
 
-<div class="post" data-post-id="7669" data-author="12345" data-date="2005-06-29T14:49:00+00:00">
+<div class="post" data-post-id="7669" data-author="12345" data-date="2005-06-29T14:49:00+00:00" data-subject="">
 
 incor?
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="16097" data-author="firebrand" data-date="2007-01-08T17:03:38+00:00">
+<div class="post" data-post-id="16097" data-author="firebrand" data-date="2007-01-08T17:03:38+00:00" data-subject="second wind manual">
 
 it seems that when i typed prac unlearned this morning, i see second wind in my warrior list as warrior 32.  anyone have any ideas where manual might load?
 

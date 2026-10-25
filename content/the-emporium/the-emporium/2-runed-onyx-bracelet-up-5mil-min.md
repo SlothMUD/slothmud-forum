@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="202" data-author="Deju" data-date="2004-05-21T18:01:18+00:00">
+<div class="post" data-post-id="202" data-author="Deju" data-date="2004-05-21T18:01:18+00:00" data-subject="2.Runed Onyx Bracelet up 5mil min">
 
 Object 'bracelet runed onyx', Item type: TREASURE
 
@@ -34,13 +34,13 @@ may use this item.
 
 </div>
 
-<div class="post" data-post-id="264" data-author="Monty" data-date="2004-05-23T17:10:34+00:00">
+<div class="post" data-post-id="264" data-author="Monty" data-date="2004-05-23T17:10:34+00:00" data-subject="">
 
 <P>5mil</P>
 
 </div>
 
-<div class="post" data-post-id="353" data-author="Deju" data-date="2004-05-26T04:13:26+00:00">
+<div class="post" data-post-id="353" data-author="Deju" data-date="2004-05-26T04:13:26+00:00" data-subject="Closed">
 
 Closed.  Monty wins for 5mil
 

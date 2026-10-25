@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36742" data-author="Teron" data-date="2016-03-14T12:19:51+00:00">
+<div class="post" data-post-id="36742" data-author="Teron" data-date="2016-03-14T12:19:51+00:00" data-subject="Gandalf visits Moria and the inevitable happens">
 
 Recently, Gandalf came about on his quest to seek the balrog.
 
@@ -616,7 +616,7 @@ We'll pass on this legend along at our campires for eons.
 
 </div>
 
-<div class="post" data-post-id="36747" data-author="Yasik" data-date="2016-03-16T00:00:44+00:00">
+<div class="post" data-post-id="36747" data-author="Yasik" data-date="2016-03-16T00:00:44+00:00" data-subject="Re: Gandalf visits Moria and the inevitable happens">
 
 Roleplay is not dead.
 

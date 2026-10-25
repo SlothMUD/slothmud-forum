@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32384" data-author="*Isabo*" data-date="2011-01-26T19:25:37+00:00">
+<div class="post" data-post-id="32384" data-author="*Isabo*" data-date="2011-01-26T19:25:37+00:00" data-subject="Fix in flurry">
 
 Greeting mortals.
 
@@ -24,7 +24,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="34260" data-author="*Splork*" data-date="2013-04-26T00:32:36+00:00">
+<div class="post" data-post-id="34260" data-author="*Splork*" data-date="2013-04-26T00:32:36+00:00" data-subject="Re: Fix in flurry">
 
 Flurry has been adjusted slightly due to the lack of use and annoyance of the previous adjustment. It has had  the lag cut in half and should be much more tolerable. 
 

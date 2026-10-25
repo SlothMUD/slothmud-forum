@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="27907" data-author="OldTower" data-date="2009-01-29T18:27:18+00:00">
+<div class="post" data-post-id="27907" data-author="OldTower" data-date="2009-01-29T18:27:18+00:00" data-subject="Hi All!">
 
 I just got a completely random impulse to type "www.slothmud.org" in my browser to see what's up and if the old MUD was still running.  I can't believe how many old names I recognize.  I can't even remember how long it's been.
 
@@ -22,7 +22,7 @@ Tower
 
 </div>
 
-<div class="post" data-post-id="27908" data-author="Yasik2" data-date="2009-01-29T18:34:04+00:00">
+<div class="post" data-post-id="27908" data-author="Yasik2" data-date="2009-01-29T18:34:04+00:00" data-subject="">
 
 o hai thar, Da Bruiser T !  :D 
 
@@ -30,7 +30,7 @@ long time no see
 
 </div>
 
-<div class="post" data-post-id="27910" data-author="Bazilus" data-date="2009-01-29T18:57:52+00:00">
+<div class="post" data-post-id="27910" data-author="Bazilus" data-date="2009-01-29T18:57:52+00:00" data-subject="Re: Hi All!">
 
 I just got a completely random impulse to type "www.slothmud.org" in my browser to see what's up and if the old MUD was still running.  I can't believe how many old names I recognize.  I can't even remember how long it's been.
 
@@ -46,13 +46,13 @@ Bazilus
 
 </div>
 
-<div class="post" data-post-id="27913" data-author="Weasel" data-date="2009-01-29T19:45:22+00:00">
+<div class="post" data-post-id="27913" data-author="Weasel" data-date="2009-01-29T19:45:22+00:00" data-subject="">
 
 Hey there. What ever happened to SparkMud? Was that what it was called? I remember trying to logon a few times but to no avail. Hope you're doing well :)
 
 </div>
 
-<div class="post" data-post-id="27914" data-author="OldTower" data-date="2009-01-29T20:26:20+00:00">
+<div class="post" data-post-id="27914" data-author="OldTower" data-date="2009-01-29T20:26:20+00:00" data-subject="">
 
 Basically the people who had signed on to help build the world lost interest and stopped logging on, and I didn't have time or desire to do it all myself.  SparkMUD became a testbed of new coding ideas (like using a sql database for player/object/mob/help files) until I eventually lost interest myself, let the domain name expire and shut it down.  I still have everything associated with it except the website which somehow got lost.
 
@@ -60,7 +60,7 @@ Hey there. What ever happened to SparkMud? Was that what it was called? I rememb
 
 </div>
 
-<div class="post" data-post-id="27915" data-author="jezer" data-date="2009-01-30T01:06:33+00:00">
+<div class="post" data-post-id="27915" data-author="jezer" data-date="2009-01-30T01:06:33+00:00" data-subject="">
 
 Basically the people who had signed on to help build the world lost interest and stopped logging on, and I didn't have time or desire to do it all myself.  SparkMUD became a testbed of new coding ideas (like using a sql database for player/object/mob/help files) until I eventually lost interest myself, let the domain name expire and shut it down.  I still have everything associated with it except the website which somehow got lost.
 
@@ -70,7 +70,7 @@ MySQL is perfect for doing this kind of stuff... It would get rid of all the fil
 
 </div>
 
-<div class="post" data-post-id="27916" data-author="OldTower" data-date="2009-01-30T04:32:52+00:00">
+<div class="post" data-post-id="27916" data-author="OldTower" data-date="2009-01-30T04:32:52+00:00" data-subject="">
 
 Basically the people who had signed on to help build the world lost interest and stopped logging on, and I didn't have time or desire to do it all myself.  SparkMUD became a testbed of new coding ideas (like using a sql database for player/object/mob/help files) until I eventually lost interest myself, let the domain name expire and shut it down.  I still have everything associated with it except the website which somehow got lost.
 
@@ -86,7 +86,7 @@ Anyway, I didn't really pop in to talk shop, just thought I'd send a wave to eve
 
 </div>
 
-<div class="post" data-post-id="27924" data-author="Sind" data-date="2009-01-30T16:44:06+00:00">
+<div class="post" data-post-id="27924" data-author="Sind" data-date="2009-01-30T16:44:06+00:00" data-subject="">
 
 Hey there T, long time no see :)
 
@@ -96,7 +96,7 @@ ps and cmon, slothmud web client for masses!
 
 </div>
 
-<div class="post" data-post-id="27932" data-author="Weasel" data-date="2009-01-30T22:54:53+00:00">
+<div class="post" data-post-id="27932" data-author="Weasel" data-date="2009-01-30T22:54:53+00:00" data-subject="">
 
 Anyway, I didn't really pop in to talk shop, just thought I'd send a wave to everybody.  My second daughter is due in just over a week so I'm feeling pretty good.  And scared. :)[/quote:2sn0oej0]
 
@@ -104,7 +104,7 @@ Hey gratz Tower! Good luck with the demon spawn!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="27965" data-author="blackmore" data-date="2009-02-01T19:44:04+00:00">
+<div class="post" data-post-id="27965" data-author="blackmore" data-date="2009-02-01T19:44:04+00:00" data-subject="">
 
 Hey Matt, ltns.  Congratz on your spawn to be.  Send me an email.  dean.wagner@expensewire.com.
 

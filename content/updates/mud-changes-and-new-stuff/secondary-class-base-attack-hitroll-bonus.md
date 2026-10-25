@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29626" data-author="*Splork*" data-date="2009-06-29T20:59:45+00:00">
+<div class="post" data-post-id="29626" data-author="*Splork*" data-date="2009-06-29T20:59:45+00:00" data-subject="Secondary class base attack(hitroll) bonus">
 
 A player will gain additional base attacks(hitroll) based on their secondary class. 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="7780" data-author="Asami" data-date="2005-07-08T03:24:59+00:00">
+<div class="post" data-post-id="7780" data-author="Asami" data-date="2005-07-08T03:24:59+00:00" data-subject="Who&#x27;d a thunk it?">
 
 The day that we thought would never come has arrived.  My area is completed and attached.
 
@@ -20,13 +20,13 @@ No opener for now, but the area should be discovered shortly by one of you folks
 
 </div>
 
-<div class="post" data-post-id="7781" data-author="Vixn" data-date="2005-07-08T04:11:22+00:00">
+<div class="post" data-post-id="7781" data-author="Vixn" data-date="2005-07-08T04:11:22+00:00" data-subject="">
 
 Gratz! I'm very glad to see a bunch of new areas added in last 2 or 3 weeks. Thanks a lot to all immz for great work. Though openers should be fine too. And can you give us any clue for where is new area located?
 
 </div>
 
-<div class="post" data-post-id="7782" data-author="Asami" data-date="2005-07-08T04:24:20+00:00">
+<div class="post" data-post-id="7782" data-author="Asami" data-date="2005-07-08T04:24:20+00:00" data-subject="">
 
 Lyme.
 
@@ -36,7 +36,7 @@ You'll be looking for an invitation of sorts.
 
 </div>
 
-<div class="post" data-post-id="7783" data-author="Gnu" data-date="2005-07-08T07:37:24+00:00">
+<div class="post" data-post-id="7783" data-author="Gnu" data-date="2005-07-08T07:37:24+00:00" data-subject="">
 
 Thanks for new areas... changes, filling gaps, fixing bugs... but can't omit the following
 
@@ -50,13 +50,13 @@ The news boy says 'That's all I know...'
 
 </div>
 
-<div class="post" data-post-id="7789" data-author="Asami" data-date="2005-07-08T14:03:53+00:00">
+<div class="post" data-post-id="7789" data-author="Asami" data-date="2005-07-08T14:03:53+00:00" data-subject="">
 
 Diamonds.
 
 </div>
 
-<div class="post" data-post-id="7832" data-author="Deju" data-date="2005-07-11T17:01:44+00:00">
+<div class="post" data-post-id="7832" data-author="Deju" data-date="2005-07-11T17:01:44+00:00" data-subject="Need Help!">
 
 Well, i have died in Asami's new area on lyme.  Unfortunately a pink invitation is required to get into the area, so i cannot get my (or madmax's) corpse back.
 

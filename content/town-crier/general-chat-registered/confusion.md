@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="8036" data-author="kjartan" data-date="2005-07-26T15:43:25+00:00">
+<div class="post" data-post-id="8036" data-author="kjartan" data-date="2005-07-26T15:43:25+00:00" data-subject="Confusion">
 
 So, when you cast 'locate object' and you hit your limit in number of objects located, for example because you tried to locate "scroll" or something, it says "You are confused."  But then, there aren't any actual symptoms of being confused.  So, I was thinking it might be nice if you had say 30 seconds of actual confusion, issuing wrong commands, casting the wrong spells, wandering around aimlessly, babbling, etc.  Are you guys gonna freak out if I do this?
 
@@ -20,13 +20,13 @@ Incidentally, I've been fiddling with locate, it now in theory shouldn't show bo
 
 </div>
 
-<div class="post" data-post-id="8037" data-author="13" data-date="2005-07-26T15:46:56+00:00">
+<div class="post" data-post-id="8037" data-author="13" data-date="2005-07-26T15:46:56+00:00" data-subject="">
 
 I'm already confused enough.
 
 </div>
 
-<div class="post" data-post-id="8038" data-author="12345" data-date="2005-07-26T15:48:12+00:00">
+<div class="post" data-post-id="8038" data-author="12345" data-date="2005-07-26T15:48:12+00:00" data-subject="">
 
 Well... I've been wishing Kj would do this kinda thing for months.  Now I'm afraid to answer the question.
 
@@ -36,7 +36,7 @@ PS. Thanks for the warning.
 
 </div>
 
-<div class="post" data-post-id="8039" data-author="blackmore" data-date="2005-07-26T16:52:58+00:00">
+<div class="post" data-post-id="8039" data-author="blackmore" data-date="2005-07-26T16:52:58+00:00" data-subject="">
 
 Well, I'm all in favor of having confusion code.  There are definitely certain mobs who you would expect could hit you with a confusion ability.
 
@@ -48,7 +48,7 @@ ps - my explanation of how locate works is purely from experimentation about 5 y
 
 </div>
 
-<div class="post" data-post-id="8040" data-author="12345" data-date="2005-07-26T17:46:33+00:00">
+<div class="post" data-post-id="8040" data-author="12345" data-date="2005-07-26T17:46:33+00:00" data-subject="">
 
 I guess I have a question.
 
@@ -62,7 +62,7 @@ So anyway, there's my initial concerns.
 
 </div>
 
-<div class="post" data-post-id="8043" data-author="Wintersdark" data-date="2005-07-26T17:59:08+00:00">
+<div class="post" data-post-id="8043" data-author="Wintersdark" data-date="2005-07-26T17:59:08+00:00" data-subject="">
 
 I'd love to see real confusion code go in...    Particularly if we could get confusion spells and whatnot too :)   I'd love to see it affect mobs as well as players.
 
@@ -74,7 +74,7 @@ As it is, as a non-avatar sort, locate is nearly useless right now for most item
 
 </div>
 
-<div class="post" data-post-id="8044" data-author="kjartan" data-date="2005-07-26T18:01:34+00:00">
+<div class="post" data-post-id="8044" data-author="kjartan" data-date="2005-07-26T18:01:34+00:00" data-subject="">
 
 What I really want out of confusion is something that digs bits of speech out of your replay list, and hey maybe other random people's replay lists, and makes you say it.  (Hmm, it could also pull random commands out of your history...)  Think of the humor possibilities!
 
@@ -86,13 +86,13 @@ Probably it won't be D20's insta-death kill-your-buddies form of confusion.
 
 </div>
 
-<div class="post" data-post-id="8045" data-author="13" data-date="2005-07-26T18:07:04+00:00">
+<div class="post" data-post-id="8045" data-author="13" data-date="2005-07-26T18:07:04+00:00" data-subject="">
 
 actually thats pretty damn funny
 
 </div>
 
-<div class="post" data-post-id="8047" data-author="12345" data-date="2005-07-26T18:15:35+00:00">
+<div class="post" data-post-id="8047" data-author="12345" data-date="2005-07-26T18:15:35+00:00" data-subject="Re: Confusion">
 
 So, I was thinking it might be nice if you had say 30 seconds of actual confusion, issuing wrong commands, casting the wrong spells, wandering around aimlessly, babbling, etc.  Are you guys gonna freak out if I do this?
 
@@ -104,19 +104,19 @@ PS. Somehow I wouldn't be surprised if your history was filled with comments cur
 
 </div>
 
-<div class="post" data-post-id="8049" data-author="kjartan" data-date="2005-07-26T18:21:35+00:00">
+<div class="post" data-post-id="8049" data-author="kjartan" data-date="2005-07-26T18:21:35+00:00" data-subject="">
 
 Ah but that's the beauty of it, who knows if the "Ender" and the "such an ass" came from the same phrase, or were even said by me?
 
 </div>
 
-<div class="post" data-post-id="8052" data-author="Weasel" data-date="2005-07-26T18:48:18+00:00">
+<div class="post" data-post-id="8052" data-author="Weasel" data-date="2005-07-26T18:48:18+00:00" data-subject="">
 
 buh-bye locate spell
 
 </div>
 
-<div class="post" data-post-id="8054" data-author="Avatar" data-date="2005-07-26T19:18:41+00:00">
+<div class="post" data-post-id="8054" data-author="Avatar" data-date="2005-07-26T19:18:41+00:00" data-subject="locate">
 
 Actually with the bugfixes KJ mentioned below it sounds like Locate is becoming much more useful.
 

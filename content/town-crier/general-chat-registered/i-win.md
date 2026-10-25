@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="15043" data-author="13" data-date="2006-11-06T18:18:13+00:00">
+<div class="post" data-post-id="15043" data-author="13" data-date="2006-11-06T18:18:13+00:00" data-subject="I win!!">
 
 You get a tattered folio from a small wax-sealed chest that's on the ground.
 
@@ -68,7 +68,7 @@ Good Luck!
 
 </div>
 
-<div class="post" data-post-id="15045" data-author="13" data-date="2006-11-06T19:54:03+00:00">
+<div class="post" data-post-id="15045" data-author="13" data-date="2006-11-06T19:54:03+00:00" data-subject="">
 
 b
 
@@ -96,13 +96,13 @@ should've splorked on two, must be bad roll.
 
 </div>
 
-<div class="post" data-post-id="15048" data-author="tincts" data-date="2006-11-06T20:55:24+00:00">
+<div class="post" data-post-id="15048" data-author="tincts" data-date="2006-11-06T20:55:24+00:00" data-subject="">
 
 Gratz dude
 
 </div>
 
-<div class="post" data-post-id="15062" data-author="13" data-date="2006-11-07T16:38:54+00:00">
+<div class="post" data-post-id="15062" data-author="13" data-date="2006-11-07T16:38:54+00:00" data-subject="">
 
 And with the mighty triple-stab comes:
 
@@ -122,7 +122,7 @@ Your brutal backstab causes the king of Theris to writher in agony, opening up i
 
 </div>
 
-<div class="post" data-post-id="15064" data-author="Rynquald" data-date="2006-11-07T20:41:57+00:00">
+<div class="post" data-post-id="15064" data-author="Rynquald" data-date="2006-11-07T20:41:57+00:00" data-subject="">
 
 lol, I like it how he's writhing in agony at the thought that you allmost tri stabbed him :)
 

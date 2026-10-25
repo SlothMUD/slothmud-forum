@@ -10,13 +10,13 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="16088" data-author="Vilux" data-date="2007-01-08T06:40:16+00:00">
+<div class="post" data-post-id="16088" data-author="Vilux" data-date="2007-01-08T06:40:16+00:00" data-subject="Nomic Group Down">
 
 Nomic
 
 </div>
 
-<div class="post" data-post-id="16095" data-author="firebrand" data-date="2007-01-08T15:45:46+00:00">
+<div class="post" data-post-id="16095" data-author="firebrand" data-date="2007-01-08T15:45:46+00:00" data-subject="">
 
 sigh normally i ignore these "i am down/group down" messages on crier but this morning i am gonna be an ass and ask the obvious questions: does no one use ingame player-created channels (hosers/russians/dragonsworn/any other that might be listed when typing chann) and drop them when they die so someone else can ping/vis/gos "firebrand cf'ed her group again" "vanyel is dead"?  does no one have any instant message progs - icq/trillian/aim/msn msgr/windows live msgr/yahoo msgr/any others i didn't list here and have friends ingame as buddy list members they can i.m. for help?  it would seem to me that by the time you posted "help! i'm down" and someone else sees the post, there would be a corpse out......just my two cents for the morning *goes back to her coffee and realizes she is not awake yet*
 
@@ -24,7 +24,7 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="16102" data-author="Weasel" data-date="2007-01-08T18:31:29+00:00">
+<div class="post" data-post-id="16102" data-author="Weasel" data-date="2007-01-08T18:31:29+00:00" data-subject="">
 
 I still don't get why this seems to bother people so much...  
 
@@ -32,7 +32,7 @@ Trying not to state the obvious, but presumably all other channels failed for on
 
 </div>
 
-<div class="post" data-post-id="16105" data-author="Autolycos" data-date="2007-01-08T18:49:49+00:00">
+<div class="post" data-post-id="16105" data-author="Autolycos" data-date="2007-01-08T18:49:49+00:00" data-subject="">
 
 .
 
@@ -50,7 +50,7 @@ Get it, Use it, Live it... :!:
 
 </div>
 
-<div class="post" data-post-id="16107" data-author="firebrand" data-date="2007-01-08T19:03:14+00:00">
+<div class="post" data-post-id="16107" data-author="firebrand" data-date="2007-01-08T19:03:14+00:00" data-subject="">
 
 this forum is usually the last option for rescue requests.[/quote:3e4921ko]
 
@@ -58,7 +58,7 @@ ahem.....again i will point out that if this is last resort, then by the time so
 
 </div>
 
-<div class="post" data-post-id="16122" data-author="Weasel" data-date="2007-01-08T22:32:22+00:00">
+<div class="post" data-post-id="16122" data-author="Weasel" data-date="2007-01-08T22:32:22+00:00" data-subject="">
 
 ahem.....again i will point out that if this is last resort, then by the time someone gets to you, yer corpsed anyway[/quote:1galjh6t]
 
@@ -70,13 +70,13 @@ Regardless of these facts, I would again like to ask: why do a few people have s
 
 </div>
 
-<div class="post" data-post-id="16124" data-author="Autolycos" data-date="2007-01-08T22:38:31+00:00">
+<div class="post" data-post-id="16124" data-author="Autolycos" data-date="2007-01-08T22:38:31+00:00" data-subject="">
 
 Weasel cries out - I WANT TO LIVE!!!!!
 
 </div>
 
-<div class="post" data-post-id="16125" data-author="Medios" data-date="2007-01-08T22:38:39+00:00">
+<div class="post" data-post-id="16125" data-author="Medios" data-date="2007-01-08T22:38:39+00:00" data-subject="">
 
 Go Weasel its your birthday, gonna rant like its your birthday.
 
@@ -88,7 +88,7 @@ And I dont give a fu ck if its your birthday!
 
 </div>
 
-<div class="post" data-post-id="16126" data-author="Weasel" data-date="2007-01-08T22:41:18+00:00">
+<div class="post" data-post-id="16126" data-author="Weasel" data-date="2007-01-08T22:41:18+00:00" data-subject="">
 
 my milkshake's bigger than yours, so stfu. :P heh
 
@@ -98,13 +98,13 @@ btw FB, if my last post sounds like I'm pissed or something, I'm not.
 
 </div>
 
-<div class="post" data-post-id="16127" data-author="13" data-date="2007-01-08T22:41:26+00:00">
+<div class="post" data-post-id="16127" data-author="13" data-date="2007-01-08T22:41:26+00:00" data-subject="">
 
 it's useless spam, so naturally, I'm against it
 
 </div>
 
-<div class="post" data-post-id="16128" data-author="Weasel" data-date="2007-01-08T22:43:45+00:00">
+<div class="post" data-post-id="16128" data-author="Weasel" data-date="2007-01-08T22:43:45+00:00" data-subject="">
 
 it's useless spam, so naturally, I'm against it[/quote:17b1kurm]
 
@@ -112,7 +112,7 @@ speaking of useless spam..  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16129" data-author="Autolycos" data-date="2007-01-08T22:45:27+00:00">
+<div class="post" data-post-id="16129" data-author="Autolycos" data-date="2007-01-08T22:45:27+00:00" data-subject="">
 
 it's useless spam, so naturally, I'm against it[/quote:x2jogmlx]
 
@@ -124,19 +124,19 @@ move along.. nothing to see here
 
 </div>
 
-<div class="post" data-post-id="16130" data-author="brady" data-date="2007-01-08T22:46:06+00:00">
+<div class="post" data-post-id="16130" data-author="brady" data-date="2007-01-08T22:46:06+00:00" data-subject="">
 
 You are some white ass bitches.
 
 </div>
 
-<div class="post" data-post-id="16131" data-author="Autolycos" data-date="2007-01-08T22:47:13+00:00">
+<div class="post" data-post-id="16131" data-author="Autolycos" data-date="2007-01-08T22:47:13+00:00" data-subject="">
 
 tru dat yo
 
 </div>
 
-<div class="post" data-post-id="16132" data-author="Weasel" data-date="2007-01-08T22:47:51+00:00">
+<div class="post" data-post-id="16132" data-author="Weasel" data-date="2007-01-08T22:47:51+00:00" data-subject="">
 
 You are some white ass bitches.[/quote:gsn3mww8]
 
@@ -148,7 +148,7 @@ that doesn't sound like pirate-speak..  :shock:
 
 </div>
 
-<div class="post" data-post-id="16135" data-author="Aleksey" data-date="2007-01-08T23:36:54+00:00">
+<div class="post" data-post-id="16135" data-author="Aleksey" data-date="2007-01-08T23:36:54+00:00" data-subject="">
 
 if you'd rather just sit around waiting to corpse
 
@@ -156,7 +156,7 @@ Quit! removed from game?
 
 </div>
 
-<div class="post" data-post-id="16145" data-author="firebrand" data-date="2007-01-09T05:40:33+00:00">
+<div class="post" data-post-id="16145" data-author="firebrand" data-date="2007-01-09T05:40:33+00:00" data-subject="">
 
 btw FB, if my last post sounds like I'm pissed or something, I'm not.  
 
@@ -168,13 +168,13 @@ p.s. "fight the good fight, precious!"--preed, titan a.e.
 
 </div>
 
-<div class="post" data-post-id="16148" data-author="Weasel" data-date="2007-01-09T14:56:49+00:00">
+<div class="post" data-post-id="16148" data-author="Weasel" data-date="2007-01-09T14:56:49+00:00" data-subject="">
 
 :wink:
 
 </div>
 
-<div class="post" data-post-id="16159" data-author="Krok" data-date="2007-01-10T06:50:30+00:00">
+<div class="post" data-post-id="16159" data-author="Krok" data-date="2007-01-10T06:50:30+00:00" data-subject="Tired.">
 
 In the case you die to lame solo mobs - channels/icq is more than enough --> Die like a man and make self-cr to cover your shame.
 
@@ -184,7 +184,7 @@ In the case you die to a hard mob - are you such an idiot to post here?
 
 </div>
 
-<div class="post" data-post-id="16160" data-author="Weasel" data-date="2007-01-10T08:01:28+00:00">
+<div class="post" data-post-id="16160" data-author="Weasel" data-date="2007-01-10T08:01:28+00:00" data-subject="">
 
 you're my hero.
 

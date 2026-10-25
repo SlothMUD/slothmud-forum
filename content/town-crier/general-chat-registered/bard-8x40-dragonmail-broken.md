@@ -10,7 +10,7 @@ locked: false
 post_count: 38
 ---
 
-<div class="post" data-post-id="39442" data-author="Gorka" data-date="2020-04-24T15:01:10+00:00">
+<div class="post" data-post-id="39442" data-author="Gorka" data-date="2020-04-24T15:01:10+00:00" data-subject="Bard 8x40 Dragonmail Broken">
 
 Yesterday Tonedeaf, the newest (and soon to be greatest!) bardass, forged his elite 8x40 bard eq "Ancient Dragonmail of the Knights Order." Unfortunately it does not work as advertised...
 
@@ -48,13 +48,13 @@ Bard is filled with lost opportunities, charm person / eye of the beholder / luc
 
 </div>
 
-<div class="post" data-post-id="39443" data-author="Oboe" data-date="2020-04-26T17:37:00+00:00">
+<div class="post" data-post-id="39443" data-author="Oboe" data-date="2020-04-26T17:37:00+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Blackmore, Oboe and Sochi enjoyed their bard characteristics.  Given the choice between Oboe's class order and Gorka's class order, I would again pick Oboe's.  I think you are trying to help SlothMUD, but I am glad your views have not affected the development of the bard class.
 
 </div>
 
-<div class="post" data-post-id="39445" data-author="Gorka" data-date="2020-04-26T19:55:36+00:00">
+<div class="post" data-post-id="39445" data-author="Gorka" data-date="2020-04-26T19:55:36+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 You've peaked my interest, what do you think should be done with the bard class? If you think nothing... then how do you justify your view, given the fact that in it's current state it has next to no interest from players. If you create something that does not capture the view or desire of an audience isn't that a failure? Recently you described your view to me as being philosophical... that in games, if people don't like them, you don't simply change the game to suit them... and I think you mentioned chess as an example. It seems like your argument is strong, but I've been thinking about it the past few days, and I think it more doesn't apply. Sloth is not like chess, it has always changed and evolved... and that concept is core to it's draw to immortal and players. Sloth has always been in search of balance, and it's nearly always been "wobbly." Secondly, chess is far more balanced than sloth. Although some pieces are more powerful than others, essentially there are more weaker pieces to make up that balance. A bishop or a rook might have more ability, but it's balanced by the pawns numbers. Thirdly, what development of the bard class? 
 
@@ -70,19 +70,19 @@ For the Record, apparently the bard armor is fixed in the next reboot.
 
 </div>
 
-<div class="post" data-post-id="39446" data-author="basche" data-date="2020-04-27T17:46:10+00:00">
+<div class="post" data-post-id="39446" data-author="basche" data-date="2020-04-27T17:46:10+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 The Bard charisma problem is the same as Necromancer undead control.  They both sound like they would apply to followers but neither allows you to build a more powerful group than any other player class.
 
 </div>
 
-<div class="post" data-post-id="39447" data-author="Driven" data-date="2020-04-27T23:21:59+00:00">
+<div class="post" data-post-id="39447" data-author="Driven" data-date="2020-04-27T23:21:59+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Doesn't undead control play into hitpoints of your undrad followers?  Not saying UC is anywhere near the realm of being done properly, but I am just responding to the comment that UC doesn't give you better followers... is my understanding incorrect?
 
 </div>
 
-<div class="post" data-post-id="39448" data-author="Oboe" data-date="2020-04-28T07:02:02+00:00">
+<div class="post" data-post-id="39448" data-author="Oboe" data-date="2020-04-28T07:02:02+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Gorka, your summary of my position is complete, but I'll elaborate a bit.  For
 
@@ -108,7 +108,7 @@ Charisma is crucial for some techniques involving some songs.  So yes, it's
 
 </div>
 
-<div class="post" data-post-id="39449" data-author="Gorka" data-date="2020-04-28T08:44:42+00:00">
+<div class="post" data-post-id="39449" data-author="Gorka" data-date="2020-04-28T08:44:42+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 > **Oboe wrote:**
 > Gorka, your summary of my position is complete, but I'll elaborate a bit.  For
@@ -171,7 +171,7 @@ AFF_SAVING_PARA = -1
 
 </div>
 
-<div class="post" data-post-id="39450" data-author="Driven" data-date="2020-04-29T19:09:00+00:00">
+<div class="post" data-post-id="39450" data-author="Driven" data-date="2020-04-29T19:09:00+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Obviously I played my part in this saves-para situation on Bard eq.  I polled the master players in the game for each class when I was brainstorming about gear.  Sochi, at the time, was the most active Bard, and he expressed to me that saves-para was his wheelhouse.  I understood what he wanted it for and I chose to grant his request for a very specific reason.
 
@@ -181,7 +181,7 @@ Generally speaking, necros have the undead, whereas bards tend to choose charm p
 
 </div>
 
-<div class="post" data-post-id="39451" data-author="Josiah" data-date="2020-04-29T19:46:50+00:00">
+<div class="post" data-post-id="39451" data-author="Josiah" data-date="2020-04-29T19:46:50+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 > wake mobs up and make them sleep... because that's useful in a game where you kill things for experience.
 
@@ -215,7 +215,7 @@ What is this? I wasn't aware non-bards even have an <instrument> slot or the 'pl
 
 </div>
 
-<div class="post" data-post-id="39452" data-author="Gorka" data-date="2020-04-29T20:52:28+00:00">
+<div class="post" data-post-id="39452" data-author="Gorka" data-date="2020-04-29T20:52:28+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Well that's outrageous Josiah, at least half your points are just factually wrong. Then you have the cheek to tell me to get more experience playing a bard. And for the record Josiah is another player I believe who has a lot invested exploiting the saves para situation. There is a little group of players who play about 5mins a month at the moment, who are protecting the situation... well simultaneously trying to shut down any comment about it.
 
@@ -259,7 +259,7 @@ Outrageous, factually incorrect and hypocritical post Josiah.  :evil:
 
 </div>
 
-<div class="post" data-post-id="39453" data-author="Gorka" data-date="2020-04-29T21:05:42+00:00">
+<div class="post" data-post-id="39453" data-author="Gorka" data-date="2020-04-29T21:05:42+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 > **Driven wrote:**
 > Please don't derail the point I'm making here with the fact that non-bard primes do almost as well as bard primes in this regard. To remove charm person for Bards would be like saying 'yea, your greatest strength, that thing you've been honing all this time, I don't really want you to be able to use that in solo'.
@@ -268,7 +268,7 @@ Honing all this time? Exploiting, using immortals to add saves para to bard eq? 
 
 </div>
 
-<div class="post" data-post-id="39454" data-author="Josiah" data-date="2020-05-05T16:40:47+00:00">
+<div class="post" data-post-id="39454" data-author="Josiah" data-date="2020-05-05T16:40:47+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 I'm confused about how I was hypocritical. I assume it has something to do with an obscure piece of saves_paralysis gear that I didn't mention at all and would never consider using?
 
@@ -316,7 +316,7 @@ There was an unrelated change to fight positioning after my test, which might ha
 
 </div>
 
-<div class="post" data-post-id="39455" data-author="Gorka" data-date="2020-05-06T09:06:58+00:00">
+<div class="post" data-post-id="39455" data-author="Gorka" data-date="2020-05-06T09:06:58+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 The dragonmail is now fixed and tested on my Bard. Thank you.
 
@@ -435,7 +435,7 @@ I think this is likely. I ran some tests hitting sleeping Bakemono's. Sleeping t
 
 </div>
 
-<div class="post" data-post-id="39457" data-author="Hung" data-date="2020-05-06T10:07:59+00:00">
+<div class="post" data-post-id="39457" data-author="Hung" data-date="2020-05-06T10:07:59+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 I think that prime bard is weakest class solo-wise and charisma is quite useless.
 
@@ -443,7 +443,7 @@ Both issues could be addressed by scaling "gods of wars" damage by charisma.
 
 </div>
 
-<div class="post" data-post-id="39458" data-author="Driven" data-date="2020-05-06T13:36:17+00:00">
+<div class="post" data-post-id="39458" data-author="Driven" data-date="2020-05-06T13:36:17+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 I'm not debating that changes need to be made for bard or other less-privileged classes, but I am going to debate this point, as it shows up in your posts over and over again.  This is a narrow understanding of damage and how it plays into the overall balance of the mud.  This is taking one fact and putting a microscope on it, while completely ignoring all of the other factors at play.
 
@@ -464,7 +464,7 @@ Warriors run around with -15 ac, monks run around with -11 ac, mages run around 
 
 </div>
 
-<div class="post" data-post-id="39459" data-author="Gorka" data-date="2020-05-06T14:26:28+00:00">
+<div class="post" data-post-id="39459" data-author="Gorka" data-date="2020-05-06T14:26:28+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Driven, if you really, believed in your own point... you wouldn't have allowed any other class than the 4 caster orientated classes to wield the Sphairai. And if this weapon isn't actually over powering things... then why does practically everyone use one, or planning to buy one, are we all fools or something? And whats stopping you from doing that now? I dare you, remove the 4 ac classes from the restricts, and give us a full refund, if you really care about class balance. You have a choice, class balance, or no sphairai for us...
 
@@ -474,13 +474,13 @@ I don't just criticize this weapon, but any proc weapon that's also given to AC 
 
 </div>
 
-<div class="post" data-post-id="39461" data-author="Josiah" data-date="2020-05-06T17:15:34+00:00">
+<div class="post" data-post-id="39461" data-author="Josiah" data-date="2020-05-06T17:15:34+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Thanks for showing off the shofar! I might have to go charm some mobs and cycle for it.
 
 </div>
 
-<div class="post" data-post-id="39462" data-author="Driven" data-date="2020-05-06T21:00:19+00:00">
+<div class="post" data-post-id="39462" data-author="Driven" data-date="2020-05-06T21:00:19+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Let's talk concretely instead of throwing around conclusions... I may very well come to the same conclusion you have, but the damage #'s need to match the conclusion.  As I just learned, spell_dam does not impact the damage on disintegrate at all--that is both unexpected and a little disappointing.  The result is that the damage output of the Sphairai is impacted only by spell saves.  To illustrate this, 
 
@@ -576,13 +576,13 @@ The reality is that monks, warriors, and thieves are still doing more damage ove
 
 </div>
 
-<div class="post" data-post-id="39463" data-author="Bandit" data-date="2020-05-06T21:38:19+00:00">
+<div class="post" data-post-id="39463" data-author="Bandit" data-date="2020-05-06T21:38:19+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Slight correct on thief damage. 9x40 dagger avg. in counters is usually between 170 - 180. Shares the same "slam" counter as apply poison, but the above number is not with apply poison anyway. That seems to match up with your avg. of the 6x40 dagger though, which if I remember correctly seemed to show closer to 120 for me.
 
 </div>
 
-<div class="post" data-post-id="39464" data-author="Gorka" data-date="2020-05-06T22:30:49+00:00">
+<div class="post" data-post-id="39464" data-author="Gorka" data-date="2020-05-06T22:30:49+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Your warrior numbers are low, not surprising given your conclusions, I know you sent me a tell and asked for them, but for some weird reason I was in the middle of fighting lucifer with Phi.  :| 
 
@@ -600,13 +600,13 @@ I know what your response will be... what about the loss of ac, the spell saves,
 
 </div>
 
-<div class="post" data-post-id="39465" data-author="Driven" data-date="2020-05-06T22:41:39+00:00">
+<div class="post" data-post-id="39465" data-author="Driven" data-date="2020-05-06T22:41:39+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 The Sphairai was SUPPOSED to raise the damage for casters.  As I have clearly demonstrated, it did not do the same for thieves and monks.  So you're saying the problem is only with warriors?  If my #'s are incorrect, would you please provide the real #'s?
 
 </div>
 
-<div class="post" data-post-id="39472" data-author="Josiah" data-date="2020-05-08T19:58:45+00:00">
+<div class="post" data-post-id="39472" data-author="Josiah" data-date="2020-05-08T19:58:45+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 I'd be very surprised to see monks wearing caster dresses and wielding a silly proc weapon.
 
@@ -630,7 +630,7 @@ I'm not sure if your autoattack figures account for critical hit and massive cri
 
 </div>
 
-<div class="post" data-post-id="40156" data-author="Hung" data-date="2025-02-27T08:03:53+00:00">
+<div class="post" data-post-id="40156" data-author="Hung" data-date="2025-02-27T08:03:53+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Sorry for raising this old topic from the dead.
 
@@ -644,7 +644,7 @@ Another important question is "Sphairai vs Dark Mace". It would be great if some
 
 </div>
 
-<div class="post" data-post-id="40158" data-author="Hung" data-date="2025-03-03T04:39:00+00:00">
+<div class="post" data-post-id="40158" data-author="Hung" data-date="2025-03-03T04:39:00+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Today I got comprehensive answer on my second question, when saw a prime 9x40 cleric wielding Sphairai instead of the dark mace...
 
@@ -652,7 +652,7 @@ The drachma item that eliminated the prime skill...
 
 </div>
 
-<div class="post" data-post-id="40159" data-author="cnl" data-date="2025-03-03T06:34:53+00:00">
+<div class="post" data-post-id="40159" data-author="cnl" data-date="2025-03-03T06:34:53+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 i think it's ok that a 1000 drachma item is better than a skill a level 20 something character can learn for free at the cleric guild
 
@@ -660,7 +660,7 @@ it's a good spell at low levels and it's ok that by 6x40 there's better options.
 
 </div>
 
-<div class="post" data-post-id="40160" data-author="cnl" data-date="2025-03-03T06:46:35+00:00">
+<div class="post" data-post-id="40160" data-author="cnl" data-date="2025-03-03T06:46:35+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 i think if it was reworked somehow - it would have to be some kind of buff you cast on other weapons 
 
@@ -670,7 +670,7 @@ personally, i think if a cleric skill got reworked some it should be aerial serv
 
 </div>
 
-<div class="post" data-post-id="40161" data-author="Hung" data-date="2025-03-03T07:20:30+00:00">
+<div class="post" data-post-id="40161" data-author="Hung" data-date="2025-03-03T07:20:30+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Not that I oppose idea of turning dark mace into buff you could cast on any weapon.
 
@@ -684,7 +684,7 @@ It would be justified in this case too.
 
 </div>
 
-<div class="post" data-post-id="40164" data-author="Insomnia" data-date="2025-03-03T11:56:10+00:00">
+<div class="post" data-post-id="40164" data-author="Insomnia" data-date="2025-03-03T11:56:10+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 I am very opposed to the notion of "restoring the original game balance" in any form. It just never works – you can't bring back your golden age without breaking more things and making a complete mess.
 
@@ -702,7 +702,7 @@ I generally don't think that it's a problem that differences between prime class
 
 </div>
 
-<div class="post" data-post-id="40165" data-author="Hung" data-date="2025-03-03T14:38:33+00:00">
+<div class="post" data-post-id="40165" data-author="Hung" data-date="2025-03-03T14:38:33+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Regarding sloth's "golden age", I feel like a fan of Terminator franchize.
 
@@ -720,13 +720,13 @@ Regarding extremelly powerful items that make players extremelly powerful too, I
 
 </div>
 
-<div class="post" data-post-id="40166" data-author="Insomnia" data-date="2025-03-03T15:15:06+00:00">
+<div class="post" data-post-id="40166" data-author="Insomnia" data-date="2025-03-03T15:15:06+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Incorrect. We had 23 new areas added in December, 2022.
 
 </div>
 
-<div class="post" data-post-id="40167" data-author="Hung" data-date="2025-03-04T20:52:22+00:00">
+<div class="post" data-post-id="40167" data-author="Hung" data-date="2025-03-04T20:52:22+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 I would like to elaborate more on why prime skills are important. And why you can't simply make one obsolete.
 
@@ -742,7 +742,7 @@ Unfortunately at some stage the game took the wrong turn. And devs decided to in
 
 </div>
 
-<div class="post" data-post-id="40168" data-author="cnl" data-date="2025-03-04T21:59:10+00:00">
+<div class="post" data-post-id="40168" data-author="cnl" data-date="2025-03-04T21:59:10+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 I have to agree with Insom here. the way is forwards.
 
@@ -758,7 +758,7 @@ you think classo is missing something. then play it and get to 9x40. see how it 
 
 </div>
 
-<div class="post" data-post-id="40169" data-author="Hung" data-date="2025-03-04T22:15:45+00:00">
+<div class="post" data-post-id="40169" data-author="Hung" data-date="2025-03-04T22:15:45+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 > **Quote:**
 > but if you read the forum - there is always someone worked up about some change or another. this mythical golden age never existed except the twinkle of youth had not left our eyes. it gets tiresome.
@@ -777,7 +777,7 @@ But still that's the solution to make everyone happy.
 
 </div>
 
-<div class="post" data-post-id="40170" data-author="cnl" data-date="2025-03-04T22:43:13+00:00">
+<div class="post" data-post-id="40170" data-author="cnl" data-date="2025-03-04T22:43:13+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 interesting. there's actually a progression of dark maces built in.
 
@@ -809,13 +809,13 @@ neat
 
 </div>
 
-<div class="post" data-post-id="40171" data-author="Hung" data-date="2025-03-04T22:49:49+00:00">
+<div class="post" data-post-id="40171" data-author="Hung" data-date="2025-03-04T22:49:49+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Well, I saw 9x40 reborn cleric using Spharai. It's better than even best dark mace.
 
 </div>
 
-<div class="post" data-post-id="40185" data-author="Hung" data-date="2025-03-28T22:47:20+00:00">
+<div class="post" data-post-id="40185" data-author="Hung" data-date="2025-03-28T22:47:20+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Gonna make another post in the topic, since some people said "You dont even have a Sphairai. How could you make a judgement about it?"
 
@@ -837,7 +837,7 @@ I seriosly believe that a prime skill is supposed to be leagues above a similar 
 
 </div>
 
-<div class="post" data-post-id="40187" data-author="Driven" data-date="2025-04-25T00:29:07+00:00">
+<div class="post" data-post-id="40187" data-author="Driven" data-date="2025-04-25T00:29:07+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Sphairai was needed to rebalance all caster classes relative to non-caster classes.
 
@@ -857,7 +857,7 @@ FWIW, a bard/necro in end-game will absolutely crush a monk prime in terms of ta
 
 </div>
 
-<div class="post" data-post-id="40188" data-author="Hung" data-date="2025-04-25T08:19:33+00:00">
+<div class="post" data-post-id="40188" data-author="Hung" data-date="2025-04-25T08:19:33+00:00" data-subject="Re: Bard 8x40 Dragonmail Broken">
 
 Yeah, I got it that the original intent of adding Sphairai was to make casters more balanced.
 

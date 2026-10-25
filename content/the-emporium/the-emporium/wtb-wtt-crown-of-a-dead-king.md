@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="23243" data-author="Dragoth" data-date="2008-03-16T12:33:24+00:00">
+<div class="post" data-post-id="23243" data-author="Dragoth" data-date="2008-03-16T12:33:24+00:00" data-subject="wtb/wtt crown of a dead king">
 
 I know its a long shot, but will trade crystal helm + other eq or + money for this.
 

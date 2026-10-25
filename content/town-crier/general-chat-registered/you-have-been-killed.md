@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="17338" data-author="Hades" data-date="2007-03-17T22:01:02+00:00">
+<div class="post" data-post-id="17338" data-author="Hades" data-date="2007-03-17T22:01:02+00:00" data-subject="You have been KILLED!">
 
 Waaaaaaah !!!
 

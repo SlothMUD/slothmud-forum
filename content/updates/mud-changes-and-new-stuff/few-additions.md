@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10702" data-author="*Splork*" data-date="2006-02-14T00:16:18+00:00">
+<div class="post" data-post-id="10702" data-author="*Splork*" data-date="2006-02-14T00:16:18+00:00" data-subject="Few additions">
 
 1) New level 40 druid spell-chill bane.
 

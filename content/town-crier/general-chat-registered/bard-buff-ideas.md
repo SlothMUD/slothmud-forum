@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="39494" data-author="Aeribelle" data-date="2020-05-22T05:35:24+00:00">
+<div class="post" data-post-id="39494" data-author="Aeribelle" data-date="2020-05-22T05:35:24+00:00" data-subject="Bard Buff Ideas">
 
 Hey all,
 
@@ -28,7 +28,7 @@ Just a few suggestions to put a little more strength into bards in the group sce
 
 </div>
 
-<div class="post" data-post-id="39495" data-author="Gorka" data-date="2020-05-22T07:40:20+00:00">
+<div class="post" data-post-id="39495" data-author="Gorka" data-date="2020-05-22T07:40:20+00:00" data-subject="Re: Bard Buff Ideas">
 
 I don't think there are any coders with enough time to do anything at the moment. That's the reality. #makecodersgreatagain
 
@@ -59,7 +59,7 @@ Obviously almost EVERYTHING bard orientated should scale on charisma.
 
 </div>
 
-<div class="post" data-post-id="39496" data-author="Aeribelle" data-date="2020-05-22T08:07:50+00:00">
+<div class="post" data-post-id="39496" data-author="Aeribelle" data-date="2020-05-22T08:07:50+00:00" data-subject="Re: Bard Buff Ideas">
 
 > **Gorka wrote:**
 > Personally I don't agree with a bard song for increased gem rates. Gems are actually plentiful. You probably weren't playing in the older times when gem rates were way worse than they are now. I think the current problem is due to large and slow groups. Mobs only pop one gem - which is effectively split between 15+ people. Groups aren't the most effective way to get gems. It's better to solo lvl 41 mobs and trade with Reece. Also buying gems on auction I note is currently 3x cheaper than in days gone past. If people realised that grouping isn't the best way to get gems, there really isn't a problem here.
@@ -91,7 +91,7 @@ Those would be cool. And would be a something that could easily be added to proc
 
 </div>
 
-<div class="post" data-post-id="39566" data-author="Aeribelle" data-date="2020-08-25T01:18:56+00:00">
+<div class="post" data-post-id="39566" data-author="Aeribelle" data-date="2020-08-25T01:18:56+00:00" data-subject="Re: Bard Buff Ideas">
 
 Just had another general idea....
 
@@ -101,7 +101,7 @@ Currently Max_Dex only provides benefit to a handful of thief skills... why not 
 
 </div>
 
-<div class="post" data-post-id="39570" data-author="Gorka" data-date="2020-08-27T10:56:00+00:00">
+<div class="post" data-post-id="39570" data-author="Gorka" data-date="2020-08-27T10:56:00+00:00" data-subject="Re: Bard Buff Ideas">
 
 Tonedeaf can cap ac at -12 with max weapon damage without buying MAX_DEX from the avatar or rebirth shops. So I agree dex is mostly useless past that point. 
 

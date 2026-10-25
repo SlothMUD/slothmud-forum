@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="4505" data-author="13" data-date="2005-02-18T23:15:09+00:00">
+<div class="post" data-post-id="4505" data-author="13" data-date="2005-02-18T23:15:09+00:00" data-subject="Shattered Bone Guards for sale">
 
 Thief Prime restr
 
@@ -38,7 +38,7 @@ drachma
 
 </div>
 
-<div class="post" data-post-id="4506" data-author="Methyx" data-date="2005-02-19T00:59:44+00:00">
+<div class="post" data-post-id="4506" data-author="Methyx" data-date="2005-02-19T00:59:44+00:00" data-subject="">
 
 Hey 13,
 
@@ -52,7 +52,7 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="4507" data-author="13" data-date="2005-02-19T04:16:00+00:00">
+<div class="post" data-post-id="4507" data-author="13" data-date="2005-02-19T04:16:00+00:00" data-subject="">
 
 some people save their drachma tokens instead of giving them to 
 
@@ -60,7 +60,7 @@ the scribe the same day.
 
 </div>
 
-<div class="post" data-post-id="4508" data-author="Zam" data-date="2005-02-19T06:21:58+00:00">
+<div class="post" data-post-id="4508" data-author="Zam" data-date="2005-02-19T06:21:58+00:00" data-subject="">
 
 catch me online honey
 

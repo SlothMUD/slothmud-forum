@@ -10,13 +10,13 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="25468" data-author="*juggleblood*" data-date="2008-07-26T13:54:59+00:00">
+<div class="post" data-post-id="25468" data-author="*juggleblood*" data-date="2008-07-26T13:54:59+00:00" data-subject="Nice Items for Sale">
 
 I'm having a garage sale on the chopping block. Check it out.
 
 </div>
 
-<div class="post" data-post-id="25469" data-author="jezer" data-date="2008-07-26T14:10:49+00:00">
+<div class="post" data-post-id="25469" data-author="jezer" data-date="2008-07-26T14:10:49+00:00" data-subject="">
 
 Thought I'd be the first to whine about your prices...
 
@@ -26,7 +26,7 @@ Looks like equipment has also been effected by the oil price. Or maybe he's tryi
 
 </div>
 
-<div class="post" data-post-id="25470" data-author="jezer" data-date="2008-07-26T14:12:46+00:00">
+<div class="post" data-post-id="25470" data-author="jezer" data-date="2008-07-26T14:12:46+00:00" data-subject="Re: Nice Items for Sale">
 
 I'm having a garage sale on the chopping block. Check it out.[/quote:p69g9b81]
 
@@ -34,7 +34,7 @@ How much for the garage?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="25472" data-author="Weasel" data-date="2008-07-26T17:18:16+00:00">
+<div class="post" data-post-id="25472" data-author="Weasel" data-date="2008-07-26T17:18:16+00:00" data-subject="">
 
 wow.. some nice items, but... 
 
@@ -42,7 +42,7 @@ I'd pay 5m for scales of a sandworm and the same for monkey fist if you have eit
 
 </div>
 
-<div class="post" data-post-id="25473" data-author="Yinao" data-date="2008-07-26T21:53:04+00:00">
+<div class="post" data-post-id="25473" data-author="Yinao" data-date="2008-07-26T21:53:04+00:00" data-subject="">
 
 Personally my favorite item was:
 
@@ -52,25 +52,25 @@ Those are some badass mithril shoulder guards :)
 
 </div>
 
-<div class="post" data-post-id="25508" data-author="jezer" data-date="2008-07-31T08:50:06+00:00">
+<div class="post" data-post-id="25508" data-author="jezer" data-date="2008-07-31T08:50:06+00:00" data-subject="">
 
 JB has pulled 67 mill in his garage sale so far...  :shock: And I scorned his prices! I'm truly surprised. Maybe I'm just cheap.
 
 </div>
 
-<div class="post" data-post-id="25510" data-author="Weasel" data-date="2008-07-31T09:55:04+00:00">
+<div class="post" data-post-id="25510" data-author="Weasel" data-date="2008-07-31T09:55:04+00:00" data-subject="">
 
 Yeah surprised me too, but there ya go - the demand is there apparently.
 
 </div>
 
-<div class="post" data-post-id="25569" data-author="slobe" data-date="2008-08-03T22:00:29+00:00">
+<div class="post" data-post-id="25569" data-author="slobe" data-date="2008-08-03T22:00:29+00:00" data-subject="">
 
 picked the right time 2 chop a sign of a savvy businessman
 
 </div>
 
-<div class="post" data-post-id="25579" data-author="*juggleblood*" data-date="2008-08-04T23:48:29+00:00">
+<div class="post" data-post-id="25579" data-author="*juggleblood*" data-date="2008-08-04T23:48:29+00:00" data-subject="">
 
 I'm rich biatch :!:
 

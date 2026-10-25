@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8189" data-author="Coltrane" data-date="2005-08-08T12:51:08+00:00">
+<div class="post" data-post-id="8189" data-author="Coltrane" data-date="2005-08-08T12:51:08+00:00" data-subject="Lost some eq in Rlyeh">
 
 Hello everybody :)
 

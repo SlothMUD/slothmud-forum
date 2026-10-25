@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33573" data-author="*Splork*" data-date="2012-09-06T01:05:33+00:00">
+<div class="post" data-post-id="33573" data-author="*Splork*" data-date="2012-09-06T01:05:33+00:00" data-subject="New Immortals">
 
 We have had a slow year building wise, and we need new Immortals to keep the game moving in the right direction. Without new faces and new ideas, the game becomes stagnant and the game play becomes boring.
 

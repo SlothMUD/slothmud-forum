@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10387" data-author="*Splork*" data-date="2006-01-29T02:06:51+00:00">
+<div class="post" data-post-id="10387" data-author="*Splork*" data-date="2006-01-29T02:06:51+00:00" data-subject="New warrior skill:Swordsmanship">
 
 We have added another warrior skill, this one is called Swordsmanship. Please refer to the helpfile ingame. 
 

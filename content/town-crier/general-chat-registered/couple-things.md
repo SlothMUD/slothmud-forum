@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="16337" data-author="13" data-date="2007-01-17T14:50:19+00:00">
+<div class="post" data-post-id="16337" data-author="13" data-date="2007-01-17T14:50:19+00:00" data-subject="Couple things">
 
 Chill seems to last about an hour.  I could be just high but it seems like an awfully long time for a spell from a tiny newb mob to be on you affecting your str->dmg.
 
@@ -18,7 +18,7 @@ Mobs that can bash every round and make it stack even though you are already bas
 
 </div>
 
-<div class="post" data-post-id="16342" data-author="Assirian" data-date="2007-01-17T17:52:32+00:00">
+<div class="post" data-post-id="16342" data-author="Assirian" data-date="2007-01-17T17:52:32+00:00" data-subject="">
 
 [quote:10jgr06v]Chill seems to last about an hour. I could be just high but it seems like an awfully long time for a spell from a tiny newb mob to be on you affecting your str->dmg. [/qoute]
 
@@ -30,7 +30,7 @@ And i thought that the duration depends on the power of chill.[/quote:10jgr06v]
 
 </div>
 
-<div class="post" data-post-id="16344" data-author="kjartan" data-date="2007-01-17T19:01:59+00:00">
+<div class="post" data-post-id="16344" data-author="kjartan" data-date="2007-01-17T19:01:59+00:00" data-subject="">
 
 Second wind lets you shrug off the effects of the bash.  The manual is zoned.
 

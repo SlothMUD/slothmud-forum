@@ -10,7 +10,7 @@ locked: false
 post_count: 131
 ---
 
-<div class="post" data-post-id="35779" data-author="Teron" data-date="2015-03-30T18:48:22+00:00">
+<div class="post" data-post-id="35779" data-author="Teron" data-date="2015-03-30T18:48:22+00:00" data-subject="Your afternoon chuckle">
 
 <23hp 353ma 146mv> 3434381940, -4, 5.8, indoors You reluctantly give some items to the First Weaver, who swallows them with appetite.
 
@@ -32,13 +32,13 @@ Gossameringue is fun.
 
 </div>
 
-<div class="post" data-post-id="35780" data-author="Unsub" data-date="2015-03-31T18:35:45+00:00">
+<div class="post" data-post-id="35780" data-author="Unsub" data-date="2015-03-31T18:35:45+00:00" data-subject="Re: Your afternoon chuckle">
 
 Grats on the forge!
 
 </div>
 
-<div class="post" data-post-id="35782" data-author="Teron" data-date="2015-04-01T06:22:04+00:00">
+<div class="post" data-post-id="35782" data-author="Teron" data-date="2015-04-01T06:22:04+00:00" data-subject="Re: Your afternoon chuckle">
 
 When exploring the new tower area and attempting to kill Empyreal, this happened.
 
@@ -92,7 +92,7 @@ P.S. Thanks :)
 
 </div>
 
-<div class="post" data-post-id="35785" data-author="*Neptune*" data-date="2015-04-01T14:04:41+00:00">
+<div class="post" data-post-id="35785" data-author="*Neptune*" data-date="2015-04-01T14:04:41+00:00" data-subject="Re: Your afternoon chuckle">
 
 That seems to have happened quite a bit, but make no mistake: it's by design.
 
@@ -104,7 +104,7 @@ make that situation a bit more manageable. I hope this helps.
 
 </div>
 
-<div class="post" data-post-id="35788" data-author="Teron" data-date="2015-04-01T18:55:22+00:00">
+<div class="post" data-post-id="35788" data-author="Teron" data-date="2015-04-01T18:55:22+00:00" data-subject="Re: Your afternoon chuckle">
 
 Yes, I understand it's by design, though it did happen within 1-3 rounds after starting the fight.
 
@@ -112,7 +112,7 @@ Thanks for the fix :)
 
 </div>
 
-<div class="post" data-post-id="35790" data-author="Yasik" data-date="2015-04-03T05:51:25+00:00">
+<div class="post" data-post-id="35790" data-author="Yasik" data-date="2015-04-03T05:51:25+00:00" data-subject="Re: Your afternoon chuckle">
 
 Do I see text lines appear in the prompt line, not at the beginning?
 
@@ -124,7 +124,7 @@ Btw, modern Internet connections wide enough so this option can be set at charac
 
 </div>
 
-<div class="post" data-post-id="35791" data-author="Teron" data-date="2015-04-04T17:24:39+00:00">
+<div class="post" data-post-id="35791" data-author="Teron" data-date="2015-04-04T17:24:39+00:00" data-subject="Re: Your afternoon chuckle">
 
 Zmud has an option to trigger, when a buffer of text is received. It doesn't have to be a new line, though in this case, practically, it always is.
 
@@ -134,7 +134,7 @@ I already have compact prompt/lines enabled.
 
 </div>
 
-<div class="post" data-post-id="36591" data-author="Teron" data-date="2016-02-14T07:20:37+00:00">
+<div class="post" data-post-id="36591" data-author="Teron" data-date="2016-02-14T07:20:37+00:00" data-subject="Re: Your afternoon chuckle">
 
 I've saved a few brilliant moments over the recent months, so I thought I should share them with you, one at a time.
 
@@ -818,7 +818,7 @@ Kirei -- 'recalling them'
 
 </div>
 
-<div class="post" data-post-id="36595" data-author="Teron" data-date="2016-02-15T10:18:40+00:00">
+<div class="post" data-post-id="36595" data-author="Teron" data-date="2016-02-15T10:18:40+00:00" data-subject="a fresh one">
 
 The custodian breathes a stream of fire at you!  You are engulfed in flames!
 
@@ -878,7 +878,7 @@ You have been KILLED!!
 
 </div>
 
-<div class="post" data-post-id="36618" data-author="Teron" data-date="2016-02-19T06:34:33+00:00">
+<div class="post" data-post-id="36618" data-author="Teron" data-date="2016-02-19T06:34:33+00:00" data-subject="In which Dr asks for a defy">
 
 Vege charges and bashes into Hera.
 
@@ -1034,7 +1034,7 @@ Vege -- 'thats not gona help'
 
 </div>
 
-<div class="post" data-post-id="36651" data-author="Teron" data-date="2016-02-26T23:52:42+00:00">
+<div class="post" data-post-id="36651" data-author="Teron" data-date="2016-02-26T23:52:42+00:00" data-subject="In which a dino gets served">
 
 gt she's about to enrage
 
@@ -1200,7 +1200,7 @@ The 'resist webs' spell on you is about to wear off.
 
 </div>
 
-<div class="post" data-post-id="36669" data-author="Teron" data-date="2016-02-29T15:01:24+00:00">
+<div class="post" data-post-id="36669" data-author="Teron" data-date="2016-02-29T15:01:24+00:00" data-subject="Re: Your afternoon chuckle">
 
 Ezekiel appears in the middle of the room.
 
@@ -1526,7 +1526,7 @@ A dwarven kid gets a yellow diamond necklace from inside a golden sack.
 
 </div>
 
-<div class="post" data-post-id="36943" data-author="Teron" data-date="2016-05-26T15:58:11+00:00">
+<div class="post" data-post-id="36943" data-author="Teron" data-date="2016-05-26T15:58:11+00:00" data-subject="Re: Your afternoon chuckle">
 
 You weave the threads of magic masterfully!
 
@@ -1632,7 +1632,7 @@ Lie still; you are DEAD!!! :-(
 
 </div>
 
-<div class="post" data-post-id="36945" data-author="Teron" data-date="2016-05-30T20:24:03+00:00">
+<div class="post" data-post-id="36945" data-author="Teron" data-date="2016-05-30T20:24:03+00:00" data-subject="Re: Your afternoon chuckle">
 
 Neptune has enabled all bonuses, except nocap, chop and gems. Thanks,  Neptune!.
 
@@ -1710,7 +1710,7 @@ The wisdom of a long forgotten god shines down upon Lyme.
 
 </div>
 
-<div class="post" data-post-id="36947" data-author="Teron" data-date="2016-06-04T04:36:43+00:00">
+<div class="post" data-post-id="36947" data-author="Teron" data-date="2016-06-04T04:36:43+00:00" data-subject="Re: Your afternoon chuckle">
 
 [ pri sec ter qua qui hex sep oct ] Players
 
@@ -1734,7 +1734,7 @@ The wisdom of a long forgotten god shines down upon Lyme.
 
 </div>
 
-<div class="post" data-post-id="36957" data-author="Teron" data-date="2016-06-11T21:49:59+00:00">
+<div class="post" data-post-id="36957" data-author="Teron" data-date="2016-06-11T21:49:59+00:00" data-subject="Re: Your afternoon chuckle">
 
 We tried to kill Pale Night today, and she killed us all. Twice.
 
@@ -1900,7 +1900,7 @@ Then Breeze told us to leave her alone :(
 
 </div>
 
-<div class="post" data-post-id="36959" data-author="Teron" data-date="2016-06-14T06:33:03+00:00">
+<div class="post" data-post-id="36959" data-author="Teron" data-date="2016-06-14T06:33:03+00:00" data-subject="Re: Your afternoon chuckle">
 
 You grouptell: 'Sooochiii'
 
@@ -1958,7 +1958,7 @@ You grouptell: 'well'
 
 </div>
 
-<div class="post" data-post-id="36962" data-author="Teron" data-date="2016-06-16T13:56:17+00:00">
+<div class="post" data-post-id="36962" data-author="Teron" data-date="2016-06-16T13:56:17+00:00" data-subject="Re: Your afternoon chuckle">
 
 Ok.
 
@@ -2106,7 +2106,7 @@ Dr -- 'RUN BOYS'
 
 </div>
 
-<div class="post" data-post-id="36963" data-author="Teron" data-date="2016-06-16T23:43:55+00:00">
+<div class="post" data-post-id="36963" data-author="Teron" data-date="2016-06-16T23:43:55+00:00" data-subject="Re: Your afternoon chuckle">
 
 <1272hp 897ma 342mv> 2038920235 748871 - -14.5 +9 indoors+0 0 +0
 
@@ -2128,7 +2128,7 @@ P.S. I'm not complaining, just highlighting an event. Thanks for the lite :)
 
 </div>
 
-<div class="post" data-post-id="36967" data-author="Teron" data-date="2016-06-21T17:38:40+00:00">
+<div class="post" data-post-id="36967" data-author="Teron" data-date="2016-06-21T17:38:40+00:00" data-subject="Re: Your afternoon chuckle">
 
 You grouptell: 'hanku these are nostab'
 
@@ -2368,7 +2368,7 @@ Welcome to Lyme, Hankunaku!
 
 </div>
 
-<div class="post" data-post-id="36968" data-author="Ker" data-date="2016-06-22T02:47:17+00:00">
+<div class="post" data-post-id="36968" data-author="Ker" data-date="2016-06-22T02:47:17+00:00" data-subject="Re: Your afternoon chuckle">
 
 Now this, is another level!
 
@@ -2408,7 +2408,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36969" data-author="*Breeze*" data-date="2016-06-22T15:52:55+00:00">
+<div class="post" data-post-id="36969" data-author="*Breeze*" data-date="2016-06-22T15:52:55+00:00" data-subject="Re: Your afternoon chuckle">
 
 > **Ker wrote:**
 > Now this, is another level!
@@ -2461,7 +2461,7 @@ also, i am not a drunkard.
 
 </div>
 
-<div class="post" data-post-id="36996" data-author="Teron" data-date="2016-06-28T06:02:22+00:00">
+<div class="post" data-post-id="36996" data-author="Teron" data-date="2016-06-28T06:02:22+00:00" data-subject="Re: Your afternoon chuckle">
 
 <1174hp 454ma 359mv> 281297065 244968 - -14.5 -1 indoors+0 0 +0
 
@@ -2655,7 +2655,7 @@ And this is how General Gorka works with his sacrificial knife. Beware of him in
 
 </div>
 
-<div class="post" data-post-id="37013" data-author="Teron" data-date="2016-06-30T13:06:51+00:00">
+<div class="post" data-post-id="37013" data-author="Teron" data-date="2016-06-30T13:06:51+00:00" data-subject="Re: Your afternoon chuckle">
 
 You tell Dr 'crap, assassins want me dead in mh'
 
@@ -2799,7 +2799,7 @@ Total exp for kill is 1137419.
 
 </div>
 
-<div class="post" data-post-id="37062" data-author="Teron" data-date="2016-07-16T07:50:49+00:00">
+<div class="post" data-post-id="37062" data-author="Teron" data-date="2016-07-16T07:50:49+00:00" data-subject="Re: Your afternoon chuckle">
 
 Stun leaves north.
 
@@ -2929,7 +2929,7 @@ Ip -- 'Taron chopped Dingo'
 
 </div>
 
-<div class="post" data-post-id="37115" data-author="Teron" data-date="2016-07-22T18:15:08+00:00">
+<div class="post" data-post-id="37115" data-author="Teron" data-date="2016-07-22T18:15:08+00:00" data-subject="Re: Your afternoon chuckle">
 
 Your blood freezes as you hear the soul drinker's death cry.
 
@@ -3093,7 +3093,7 @@ P.P.S. Testing: Apple, Starbucks, Google, Papa Johns pizza, New York laundry, Bo
 
 </div>
 
-<div class="post" data-post-id="37116" data-author="Gorka" data-date="2016-07-22T20:21:51+00:00">
+<div class="post" data-post-id="37116" data-author="Gorka" data-date="2016-07-22T20:21:51+00:00" data-subject="Re: Your afternoon chuckle">
 
 WTT 
 
@@ -3111,13 +3111,13 @@ You get a Jade from Cloak of Shadows.
 
 </div>
 
-<div class="post" data-post-id="37118" data-author="*Breeze*" data-date="2016-07-22T22:29:12+00:00">
+<div class="post" data-post-id="37118" data-author="*Breeze*" data-date="2016-07-22T22:29:12+00:00" data-subject="Re: Your afternoon chuckle">
 
 didn't think anyone knew about / used "spin low"
 
 </div>
 
-<div class="post" data-post-id="37123" data-author="Ker" data-date="2016-07-23T12:00:46+00:00">
+<div class="post" data-post-id="37123" data-author="Ker" data-date="2016-07-23T12:00:46+00:00" data-subject="Re: Your afternoon chuckle">
 
 Warriors being monks, Druids being monks, Bards being monks, we found a Cleric being a Warrior!
 
@@ -3643,7 +3643,7 @@ Norks[Clan:Dragonsworn]> 'oops'
 
 </div>
 
-<div class="post" data-post-id="37154" data-author="Teron" data-date="2016-07-30T21:10:07+00:00">
+<div class="post" data-post-id="37154" data-author="Teron" data-date="2016-07-30T21:10:07+00:00" data-subject="Re: Your afternoon chuckle">
 
 Gorka -- 'sense a gem...'
 
@@ -3761,7 +3761,7 @@ Sochi pats Gorka on the back.
 
 </div>
 
-<div class="post" data-post-id="37170" data-author="Teron" data-date="2016-08-05T10:17:51+00:00">
+<div class="post" data-post-id="37170" data-author="Teron" data-date="2016-08-05T10:17:51+00:00" data-subject="what a bad trigger looks like">
 
 You can taste the impending victory!
 
@@ -3799,13 +3799,13 @@ You stop using a thunderbolt.
 
 </div>
 
-<div class="post" data-post-id="37178" data-author="*juggleblood*" data-date="2016-08-05T23:17:31+00:00">
+<div class="post" data-post-id="37178" data-author="*juggleblood*" data-date="2016-08-05T23:17:31+00:00" data-subject="Re: Your afternoon chuckle">
 
 Dunno if its the simplest/most elegant solution, but I made a 5 second cooldown timer and made the secondWind function checkit before executing, so then in scripts I can just use secondWind() wherever and not worry about that.
 
 </div>
 
-<div class="post" data-post-id="37183" data-author="Teron" data-date="2016-08-06T10:14:32+00:00">
+<div class="post" data-post-id="37183" data-author="Teron" data-date="2016-08-06T10:14:32+00:00" data-subject="Re: Your afternoon chuckle">
 
 For backstabs I add variable checks, if the event to fire has already occured since the stab, so the web gets thrown on the first seen backstab/whiff, and so does second wind now. It works fine and I don't need timers (not that my old Zmud is good with them, anyway).
 
@@ -3813,7 +3813,7 @@ Also, 5 seconds seems like a lot, isn't the round 3 seconds?
 
 </div>
 
-<div class="post" data-post-id="37192" data-author="*juggleblood*" data-date="2016-08-07T14:13:06+00:00">
+<div class="post" data-post-id="37192" data-author="*juggleblood*" data-date="2016-08-07T14:13:06+00:00" data-subject="Re: Your afternoon chuckle">
 
 The 5 seconds is to account for lag and the finite amount of movement points. 
 
@@ -3821,7 +3821,7 @@ This is on Kung and to give an example, I have a script that throws out doublest
 
 </div>
 
-<div class="post" data-post-id="37228" data-author="cyprimus" data-date="2016-08-12T08:39:55+00:00">
+<div class="post" data-post-id="37228" data-author="cyprimus" data-date="2016-08-12T08:39:55+00:00" data-subject="Re: Your afternoon chuckle">
 
 Defense Attorney: Will you please state your age?
 
@@ -3869,7 +3869,7 @@ Little Old Lady: Hell, no! He just yelled, â€œApril Fools!â€ And thatâ
 
 </div>
 
-<div class="post" data-post-id="37244" data-author="cyprimus" data-date="2016-08-13T21:07:14+00:00">
+<div class="post" data-post-id="37244" data-author="cyprimus" data-date="2016-08-13T21:07:14+00:00" data-subject="Re: Your afternoon chuckle">
 
 A priest and a nun were lost in a blizzard. After a while, they came upon a small cabin. Being exhausted, they prepared to go to sleep. There was a stack of blankets and a sleeping bag on the floor â€“ but only one bed.
 
@@ -3891,7 +3891,7 @@ To which the priest yelled out, â€œOkay then â€“ get up and get your ow
 
 </div>
 
-<div class="post" data-post-id="37249" data-author="cyprimus" data-date="2016-08-15T16:09:20+00:00">
+<div class="post" data-post-id="37249" data-author="cyprimus" data-date="2016-08-15T16:09:20+00:00" data-subject="Re: Your afternoon chuckle">
 
 A man walks into a restaurant with a full-grown ostrich behind him. The waitress asks for their orders.
 
@@ -3913,13 +3913,13 @@ The man sighs, pauses, and answers, â€œMy second wish was for a tall chick w
 
 </div>
 
-<div class="post" data-post-id="37311" data-author="Gorka" data-date="2016-08-29T06:54:27+00:00">
+<div class="post" data-post-id="37311" data-author="Gorka" data-date="2016-08-29T06:54:27+00:00" data-subject="Re: Your afternoon chuckle">
 
 ![](http://www.memepile.com/pics/8852.png)
 
 </div>
 
-<div class="post" data-post-id="37324" data-author="cyprimus" data-date="2016-09-04T03:42:04+00:00">
+<div class="post" data-post-id="37324" data-author="cyprimus" data-date="2016-09-04T03:42:04+00:00" data-subject="Re: Your afternoon chuckle">
 
 replace the word mellinial with 'jb' and it works for sloth!!!
 
@@ -3929,7 +3929,7 @@ lol
 
 </div>
 
-<div class="post" data-post-id="37326" data-author="Teron" data-date="2016-09-05T17:04:25+00:00">
+<div class="post" data-post-id="37326" data-author="Teron" data-date="2016-09-05T17:04:25+00:00" data-subject="Re: Your afternoon chuckle">
 
 Curate picks up a petrified branch.
 
@@ -4091,7 +4091,7 @@ P.P.S. Cyprimus, if you think that picking on one of the few active immorts, who
 
 </div>
 
-<div class="post" data-post-id="37351" data-author="Teron" data-date="2016-09-12T09:41:09+00:00">
+<div class="post" data-post-id="37351" data-author="Teron" data-date="2016-09-12T09:41:09+00:00" data-subject="Re: Your afternoon chuckle">
 
 Zuzu -- 'speaking of scrolls, i have a staff, i dont have a recall'
 
@@ -4259,7 +4259,7 @@ Then Dr raised us. Of course.
 
 </div>
 
-<div class="post" data-post-id="37354" data-author="Teron" data-date="2016-09-16T17:45:29+00:00">
+<div class="post" data-post-id="37354" data-author="Teron" data-date="2016-09-16T17:45:29+00:00" data-subject="where Briar dies">
 
 So we were chopping offlyme and decided to kill Briar.
 
@@ -4399,7 +4399,7 @@ Do not recommend.
 
 </div>
 
-<div class="post" data-post-id="37377" data-author="Teron" data-date="2016-10-01T02:52:36+00:00">
+<div class="post" data-post-id="37377" data-author="Teron" data-date="2016-10-01T02:52:36+00:00" data-subject="Re: Your afternoon chuckle">
 
 Sochi -- 'Sochi 19 chops'
 
@@ -4497,7 +4497,7 @@ You grouptell: 'one head shorter'
 
 </div>
 
-<div class="post" data-post-id="37381" data-author="Teron" data-date="2016-10-02T16:35:45+00:00">
+<div class="post" data-post-id="37381" data-author="Teron" data-date="2016-10-02T16:35:45+00:00" data-subject="Re: Your afternoon chuckle">
 
 As Reality hits a giant spiked lizard with a large curved scimitar it shatters into thousands of pieces.
 
@@ -4551,7 +4551,7 @@ Reality is dead! R.I.P.
 
 </div>
 
-<div class="post" data-post-id="37382" data-author="Teron" data-date="2016-10-02T17:01:00+00:00">
+<div class="post" data-post-id="37382" data-author="Teron" data-date="2016-10-02T17:01:00+00:00" data-subject="Where Sochi doesn&#x27;t let Reality go">
 
 Reality -- 'btw last run for me'
 
@@ -4631,7 +4631,7 @@ Reality is stunned, but will probably regain consciousness again.
 
 </div>
 
-<div class="post" data-post-id="37387" data-author="Teron" data-date="2016-10-03T16:14:43+00:00">
+<div class="post" data-post-id="37387" data-author="Teron" data-date="2016-10-03T16:14:43+00:00" data-subject="They told me it was funny">
 
 You skillfully parry the attack of a giant sea snail.
 
@@ -4717,13 +4717,13 @@ Lie still; you are DEAD!!! :-(
 
 </div>
 
-<div class="post" data-post-id="37388" data-author="Gorka" data-date="2016-10-03T16:18:49+00:00">
+<div class="post" data-post-id="37388" data-author="Gorka" data-date="2016-10-03T16:18:49+00:00" data-subject="Re: Your afternoon chuckle">
 
 ![](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7C8Bmb6e0OdhTA4Ntya9g3N2KaCJA9mLDXieo41Gpx0UWdx6Jug)
 
 </div>
 
-<div class="post" data-post-id="37393" data-author="Teron" data-date="2016-10-05T06:19:05+00:00">
+<div class="post" data-post-id="37393" data-author="Teron" data-date="2016-10-05T06:19:05+00:00" data-subject="This must too be funny">
 
 A shimmering angelic silhouette slowly descends through the portal.
 
@@ -4849,7 +4849,7 @@ Mage -- 'lel'
 
 </div>
 
-<div class="post" data-post-id="37394" data-author="Teron" data-date="2016-10-07T13:29:12+00:00">
+<div class="post" data-post-id="37394" data-author="Teron" data-date="2016-10-07T13:29:12+00:00" data-subject="Re: Your afternoon chuckle">
 
 Gorka wildly swings a large curved scimitar, and accidentally cuts off his own head!
 
@@ -4935,7 +4935,7 @@ Curate -- 'Taron suicided'
 
 </div>
 
-<div class="post" data-post-id="37395" data-author="Teron" data-date="2016-10-09T18:49:31+00:00">
+<div class="post" data-post-id="37395" data-author="Teron" data-date="2016-10-09T18:49:31+00:00" data-subject="Re: Your afternoon chuckle">
 
 The Empyreal of Resurrection has been banished to the astral plane!
 
@@ -5187,7 +5187,7 @@ Knubberub is dead! R.I.P.
 
 </div>
 
-<div class="post" data-post-id="37444" data-author="Teron" data-date="2016-10-23T18:28:25+00:00">
+<div class="post" data-post-id="37444" data-author="Teron" data-date="2016-10-23T18:28:25+00:00" data-subject="Re: Your afternoon chuckle">
 
 Sochi swims into the room from the north.
 
@@ -5215,7 +5215,7 @@ Firefly is dead! R.I.P.
 
 </div>
 
-<div class="post" data-post-id="37470" data-author="Gorka" data-date="2016-10-28T09:21:21+00:00">
+<div class="post" data-post-id="37470" data-author="Gorka" data-date="2016-10-28T09:21:21+00:00" data-subject="Re: Your afternoon chuckle">
 
 l
 
@@ -5259,13 +5259,13 @@ https://www.youtube.com/watch?v=OQSNhk5ICTI
 
 </div>
 
-<div class="post" data-post-id="37499" data-author="Gorka" data-date="2016-11-14T07:23:52+00:00">
+<div class="post" data-post-id="37499" data-author="Gorka" data-date="2016-11-14T07:23:52+00:00" data-subject="Re: Your afternoon chuckle">
 
 <LINK_TEXT text="http://m.nzherald.co.nz/nz/news/article ... d=11747867">http://m.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11747867</LINK_TEXT>
 
 </div>
 
-<div class="post" data-post-id="37500" data-author="Teron" data-date="2016-11-14T18:35:35+00:00">
+<div class="post" data-post-id="37500" data-author="Teron" data-date="2016-11-14T18:35:35+00:00" data-subject="Re: Your afternoon chuckle">
 
 Josiah utters the words, 'oahz'
 
@@ -5333,7 +5333,7 @@ Josiah -- 'hope he healed up'
 
 </div>
 
-<div class="post" data-post-id="37716" data-author="Teron" data-date="2016-12-09T04:26:10+00:00">
+<div class="post" data-post-id="37716" data-author="Teron" data-date="2016-12-09T04:26:10+00:00" data-subject="Re: Your afternoon chuckle">
 
 So War and I have been working on his rescue triggers on disengage:
 
@@ -5561,7 +5561,7 @@ War -- ':)'
 
 </div>
 
-<div class="post" data-post-id="37848" data-author="Teron" data-date="2016-12-16T09:47:53+00:00">
+<div class="post" data-post-id="37848" data-author="Teron" data-date="2016-12-16T09:47:53+00:00" data-subject="Re: Your afternoon chuckle">
 
 <633hp 28ma 427mv> 145245424707 949103 60 -10.3 +10 indoors+0 0 +0
 
@@ -5655,7 +5655,7 @@ Then Dr saved us all.
 
 </div>
 
-<div class="post" data-post-id="37970" data-author="Teron" data-date="2017-01-16T16:06:48+00:00">
+<div class="post" data-post-id="37970" data-author="Teron" data-date="2017-01-16T16:06:48+00:00" data-subject="Re: Your afternoon chuckle">
 
 <1173hp 154ma 258mv> 179183211497 975926 23 -13.7 -2 overcast+0 0 +0
 
@@ -5703,13 +5703,13 @@ I don't think this is a safe group area, but I guess it could work with Cizin .)
 
 </div>
 
-<div class="post" data-post-id="37973" data-author="Josiah" data-date="2017-01-17T08:46:42+00:00">
+<div class="post" data-post-id="37973" data-author="Josiah" data-date="2017-01-17T08:46:42+00:00" data-subject="Re: Your afternoon chuckle">
 
 That's an area for elite groups, and it requires an elite tank. DR > AC!
 
 </div>
 
-<div class="post" data-post-id="37975" data-author="Gorka" data-date="2017-01-17T10:21:35+00:00">
+<div class="post" data-post-id="37975" data-author="Gorka" data-date="2017-01-17T10:21:35+00:00" data-subject="Re: Your afternoon chuckle">
 
 Sorry it took so long for the group to move up to safety Taron... I think we were waiting probably waiting for someone to enter the portal...  :wink: 
 
@@ -5717,13 +5717,13 @@ Josiah is partially right... in SOME cases DR > AC. I'd be interested to hear pe
 
 </div>
 
-<div class="post" data-post-id="37977" data-author="*juggleblood*" data-date="2017-01-17T22:19:20+00:00">
+<div class="post" data-post-id="37977" data-author="*juggleblood*" data-date="2017-01-17T22:19:20+00:00" data-subject="Re: Your afternoon chuckle">
 
 Bring a bard next time so you don't have to fight 2 mobs at once. I count 12 attacks, I'm assuming 2 baboons?
 
 </div>
 
-<div class="post" data-post-id="37978" data-author="Teron" data-date="2017-01-18T00:13:42+00:00">
+<div class="post" data-post-id="37978" data-author="Teron" data-date="2017-01-18T00:13:42+00:00" data-subject="Re: Your afternoon chuckle">
 
 You guys seem to write as if there's a problem. There isn't. Just funny being splorked, that's all.
 
@@ -5741,7 +5741,7 @@ Oh, one more thing. I was splorked, when I was at a gateable spot and was gating
 
 </div>
 
-<div class="post" data-post-id="37998" data-author="Gorka" data-date="2017-01-27T14:41:21+00:00">
+<div class="post" data-post-id="37998" data-author="Gorka" data-date="2017-01-27T14:41:21+00:00" data-subject="Re: Your afternoon chuckle">
 
 [ pri sec ter qua qui hex sep oct ] Players
 
@@ -5797,7 +5797,7 @@ Cyprimus tells you 'lol'
 
 </div>
 
-<div class="post" data-post-id="38002" data-author="Teron" data-date="2017-01-28T21:52:53+00:00">
+<div class="post" data-post-id="38002" data-author="Teron" data-date="2017-01-28T21:52:53+00:00" data-subject="Re: Your afternoon chuckle">
 
 High Priest of Hades misses you with his zap.
 
@@ -5841,7 +5841,7 @@ Group 'No Ninos En La Canasta!' is led by Zuzu and consists of:
 
 </div>
 
-<div class="post" data-post-id="38009" data-author="Teron" data-date="2017-01-30T20:39:45+00:00">
+<div class="post" data-post-id="38009" data-author="Teron" data-date="2017-01-30T20:39:45+00:00" data-subject="Re: Your afternoon chuckle">
 
 You now follow Gorka.
 
@@ -5861,7 +5861,7 @@ The Red Sash City Guard leaves with him.
 
 </div>
 
-<div class="post" data-post-id="38053" data-author="Teron" data-date="2017-02-11T06:40:12+00:00">
+<div class="post" data-post-id="38053" data-author="Teron" data-date="2017-02-11T06:40:12+00:00" data-subject="Re: Your afternoon chuckle">
 
 A Cave Strewn with Feces and Carrion
 
@@ -6063,7 +6063,7 @@ Uhhhl peers about intently.
 
 </div>
 
-<div class="post" data-post-id="38054" data-author="Josiah" data-date="2017-02-11T08:28:53+00:00">
+<div class="post" data-post-id="38054" data-author="Josiah" data-date="2017-02-11T08:28:53+00:00" data-subject="Re: Your afternoon chuckle">
 
 You land a powerful strike into Wurragurr Desacratrix's side.
 
@@ -6095,7 +6095,7 @@ Your target is no longer with us.
 
 </div>
 
-<div class="post" data-post-id="38055" data-author="Teron" data-date="2017-02-11T14:00:46+00:00">
+<div class="post" data-post-id="38055" data-author="Teron" data-date="2017-02-11T14:00:46+00:00" data-subject="Re: Your afternoon chuckle">
 
 Thanks for posting, I forgot to do it.
 
@@ -6103,7 +6103,7 @@ Funny thing is that he didnt say, "I will kill Eze" or "I will hurt Eze a lot", 
 
 </div>
 
-<div class="post" data-post-id="38058" data-author="Teron" data-date="2017-02-13T16:31:34+00:00">
+<div class="post" data-post-id="38058" data-author="Teron" data-date="2017-02-13T16:31:34+00:00" data-subject="Re: Your afternoon chuckle">
 
 The chinchilla guardian hates your guts!
 
@@ -6137,7 +6137,7 @@ Ezekiel -- 'wonder if each of us saved and it doubled the damage'
 
 </div>
 
-<div class="post" data-post-id="38059" data-author="Gorka" data-date="2017-02-13T18:00:21+00:00">
+<div class="post" data-post-id="38059" data-author="Gorka" data-date="2017-02-13T18:00:21+00:00" data-subject="Re: Your afternoon chuckle">
 
 Death by mobs after they have died.
 
@@ -6149,13 +6149,13 @@ It's not funny anymore, it's just ridiculous. These issues make a mockery of the
 
 </div>
 
-<div class="post" data-post-id="38062" data-author="Vegetable" data-date="2017-02-13T21:58:20+00:00">
+<div class="post" data-post-id="38062" data-author="Vegetable" data-date="2017-02-13T21:58:20+00:00" data-subject="Re: Your afternoon chuckle">
 
 I tried out deathblow on warcry count last week. It worked for me. I got kill count for deathblow kill. Had only about 6 people in group that time iirc.
 
 </div>
 
-<div class="post" data-post-id="38065" data-author="Josiah" data-date="2017-02-14T15:46:44+00:00">
+<div class="post" data-post-id="38065" data-author="Josiah" data-date="2017-02-14T15:46:44+00:00" data-subject="Re: Your afternoon chuckle">
 
 The brutal backstab multiplied your damage.  There might have been two failed saves in there as well...
 
@@ -6163,7 +6163,7 @@ Fun stuff!
 
 </div>
 
-<div class="post" data-post-id="38080" data-author="Gorka" data-date="2017-02-19T08:37:01+00:00">
+<div class="post" data-post-id="38080" data-author="Gorka" data-date="2017-02-19T08:37:01+00:00" data-subject="Re: Your afternoon chuckle">
 
 You are brutally massacred by Tanra, mistress of spiders's rake.
 
@@ -6197,7 +6197,7 @@ You can't do that, you're paralyzed!
 
 </div>
 
-<div class="post" data-post-id="38087" data-author="Josiah" data-date="2017-02-24T19:06:16+00:00">
+<div class="post" data-post-id="38087" data-author="Josiah" data-date="2017-02-24T19:06:16+00:00" data-subject="Re: Your afternoon chuckle">
 
 That oath of victory looks silly, but it's far better than the original implementation... getting paralyzed or knocked out of combat used to dishonor you, making your oath permanently weaker.
 
@@ -6207,7 +6207,7 @@ Afternoon chuckle indeed.
 
 </div>
 
-<div class="post" data-post-id="38146" data-author="Teron" data-date="2017-03-25T05:26:45+00:00">
+<div class="post" data-post-id="38146" data-author="Teron" data-date="2017-03-25T05:26:45+00:00" data-subject="Re: Your afternoon chuckle">
 
 gt vege webbed
 
@@ -6239,7 +6239,7 @@ You also see five terracotta royal guards here.
 
 </div>
 
-<div class="post" data-post-id="38154" data-author="Gorka" data-date="2017-03-26T13:55:22+00:00">
+<div class="post" data-post-id="38154" data-author="Gorka" data-date="2017-03-26T13:55:22+00:00" data-subject="Re: Your afternoon chuckle">
 
 Ancient Dock
 
@@ -6493,7 +6493,7 @@ Highest total since last bootup: 13.
 
 </div>
 
-<div class="post" data-post-id="38165" data-author="Teron" data-date="2017-03-28T03:39:59+00:00">
+<div class="post" data-post-id="38165" data-author="Teron" data-date="2017-03-28T03:39:59+00:00" data-subject="Re: Your afternoon chuckle">
 
 You quickly play a verse of 'reign of confusion'.
 
@@ -6587,7 +6587,7 @@ Lie still; you are DEAD!!! :-(
 
 </div>
 
-<div class="post" data-post-id="38185" data-author="Teron" data-date="2017-03-29T13:15:08+00:00">
+<div class="post" data-post-id="38185" data-author="Teron" data-date="2017-03-29T13:15:08+00:00" data-subject="Re: Your afternoon chuckle">
 
 (Reborn) Tuk <<M.A.G.I>> New eq/runes added => bit.ly/15ToP2d is lying here, incapacitated.
 
@@ -6627,7 +6627,7 @@ Nobody here by that name.
 
 </div>
 
-<div class="post" data-post-id="38214" data-author="Teron" data-date="2017-04-14T14:14:36+00:00">
+<div class="post" data-post-id="38214" data-author="Teron" data-date="2017-04-14T14:14:36+00:00" data-subject="Re: Your afternoon chuckle">
 
 *Immortals of SlothMUD* 
 
@@ -6651,7 +6651,7 @@ Nobody here by that name.
 
 </div>
 
-<div class="post" data-post-id="38234" data-author="Teron" data-date="2017-05-05T16:24:19+00:00">
+<div class="post" data-post-id="38234" data-author="Teron" data-date="2017-05-05T16:24:19+00:00" data-subject="Re: Your afternoon chuckle">
 
 You grouptell: 'daemeon, gt macu me'
 
@@ -6691,7 +6691,7 @@ You grouptell: 'told you macus were good'
 
 </div>
 
-<div class="post" data-post-id="38235" data-author="Teron" data-date="2017-05-05T19:25:16+00:00">
+<div class="post" data-post-id="38235" data-author="Teron" data-date="2017-05-05T19:25:16+00:00" data-subject="Re: Your afternoon chuckle">
 
 You are brutally massacred by a giant spiked lizard's beat.
 
@@ -6837,7 +6837,7 @@ Ezekiel splits 29759 coins.  Your share is 2975 coins.
 
 </div>
 
-<div class="post" data-post-id="38236" data-author="Teron" data-date="2017-05-05T19:32:15+00:00">
+<div class="post" data-post-id="38236" data-author="Teron" data-date="2017-05-05T19:32:15+00:00" data-subject="Re: Your afternoon chuckle">
 
 Gorka -- 'heal me please'
 
@@ -6853,7 +6853,7 @@ A gorynych briefly glows with a blinding light!
 
 </div>
 
-<div class="post" data-post-id="38263" data-author="Teron" data-date="2017-05-31T06:42:46+00:00">
+<div class="post" data-post-id="38263" data-author="Teron" data-date="2017-05-31T06:42:46+00:00" data-subject="Re: Your afternoon chuckle">
 
 [      *Overlord*  Wa:9.40        ] Gorka missing Juggleblood.
 
@@ -6913,7 +6913,7 @@ You gossip-- '*fed with the meat pies, diseased with cowfutius. helpful and obno
 
 </div>
 
-<div class="post" data-post-id="38325" data-author="Teron" data-date="2017-07-08T23:28:28+00:00">
+<div class="post" data-post-id="38325" data-author="Teron" data-date="2017-07-08T23:28:28+00:00" data-subject="Re: Your afternoon chuckle">
 
 <987hp 432ma 320mv> 25512992981 582415 65 -6.0 +6 indoors
 
@@ -6951,7 +6951,7 @@ A smoke and ash maul titan clambers onto his feet.
 
 </div>
 
-<div class="post" data-post-id="38329" data-author="Gorka" data-date="2017-07-14T18:10:26+00:00">
+<div class="post" data-post-id="38329" data-author="Gorka" data-date="2017-07-14T18:10:26+00:00" data-subject="Re: Your afternoon chuckle">
 
 Suna misses Tuk with his slash.
 
@@ -6979,7 +6979,7 @@ SUNA! SUNA! SUNA!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="38330" data-author="Gorka" data-date="2017-07-16T18:35:41+00:00">
+<div class="post" data-post-id="38330" data-author="Gorka" data-date="2017-07-16T18:35:41+00:00" data-subject="Re: Your afternoon chuckle">
 
 In this weeks episode of fight club...
 
@@ -6999,13 +6999,13 @@ Sochi brutally massacres Songster with his cleave.
 
 </div>
 
-<div class="post" data-post-id="38335" data-author="Teron" data-date="2017-07-20T12:08:26+00:00">
+<div class="post" data-post-id="38335" data-author="Teron" data-date="2017-07-20T12:08:26+00:00" data-subject="How it feels to lead a large group">
 
 [http://i.imgur.com/NGcJNTV.mp4](http://i.imgur.com/NGcJNTV.mp4)
 
 </div>
 
-<div class="post" data-post-id="38337" data-author="Teron" data-date="2017-07-22T03:44:09+00:00">
+<div class="post" data-post-id="38337" data-author="Teron" data-date="2017-07-22T03:44:09+00:00" data-subject="Re: Your afternoon chuckle">
 
 <1021hp 199ma 341mv> 1876746123 61742 44 -8.6 +0 indoors
 
@@ -7195,7 +7195,7 @@ You grouptell: 'yeah it's tanks responsibility to save you yen'
 
 </div>
 
-<div class="post" data-post-id="38338" data-author="Teron" data-date="2017-07-23T11:11:41+00:00">
+<div class="post" data-post-id="38338" data-author="Teron" data-date="2017-07-23T11:11:41+00:00" data-subject="Re: Your afternoon chuckle">
 
 You are viciously massacred by a fire maul titan's hit.
 
@@ -7429,7 +7429,7 @@ Lie still; you are DEAD!!! :-(
 
 </div>
 
-<div class="post" data-post-id="38339" data-author="Teron" data-date="2017-07-24T17:41:41+00:00">
+<div class="post" data-post-id="38339" data-author="Teron" data-date="2017-07-24T17:41:41+00:00" data-subject="Re: Your afternoon chuckle">
 
 You slash the incense-maker hard.
 
@@ -7471,7 +7471,7 @@ Ezekiel -- 'celebratry slice chop'
 
 </div>
 
-<div class="post" data-post-id="38390" data-author="Teron" data-date="2017-08-09T09:08:53+00:00">
+<div class="post" data-post-id="38390" data-author="Teron" data-date="2017-08-09T09:08:53+00:00" data-subject="Re: Your afternoon chuckle">
 
 The corpse of an evil tarsir is lying here.
 
@@ -7831,7 +7831,7 @@ Xxx gossips-- 'LOL'
 
 </div>
 
-<div class="post" data-post-id="38392" data-author="Josiah" data-date="2017-08-11T20:29:07+00:00">
+<div class="post" data-post-id="38392" data-author="Josiah" data-date="2017-08-11T20:29:07+00:00" data-subject="Re: Your afternoon chuckle">
 
 <1041hp 320ma 372mv> -14.2 +16 [*: AI'] 65
 
@@ -7867,7 +7867,7 @@ You have been KILLED!!
 
 </div>
 
-<div class="post" data-post-id="38393" data-author="Teron" data-date="2017-08-12T12:29:43+00:00">
+<div class="post" data-post-id="38393" data-author="Teron" data-date="2017-08-12T12:29:43+00:00" data-subject="Re: Your afternoon chuckle">
 
 You massacre a beast with a huge gaping maw to small fragments with your slash.
 
@@ -8077,7 +8077,7 @@ Ezekiel -- 'rofl'
 
 </div>
 
-<div class="post" data-post-id="38412" data-author="Teron" data-date="2017-08-20T20:06:38+00:00">
+<div class="post" data-post-id="38412" data-author="Teron" data-date="2017-08-20T20:06:38+00:00" data-subject="Re: Your afternoon chuckle">
 
 Group 'The Most Magnificent Rangers' is led by Ezekiel and consists of:
 
@@ -8187,7 +8187,7 @@ Inle the eudaemon starts following you.
 
 </div>
 
-<div class="post" data-post-id="38422" data-author="Josiah" data-date="2017-09-04T19:51:43+00:00">
+<div class="post" data-post-id="38422" data-author="Josiah" data-date="2017-09-04T19:51:43+00:00" data-subject="Re: Your afternoon chuckle">
 
 Today in DoT:  (I won't post the log because it's too spammy)
 
@@ -8201,7 +8201,7 @@ Maybe the mud needs more pvp zones!
 
 </div>
 
-<div class="post" data-post-id="38425" data-author="Gorka" data-date="2017-09-05T09:11:13+00:00">
+<div class="post" data-post-id="38425" data-author="Gorka" data-date="2017-09-05T09:11:13+00:00" data-subject="Re: Your afternoon chuckle">
 
 I'm glad everyone sided with me!  :lol: 
 
@@ -8209,7 +8209,7 @@ I think I tracked down the problem to an open ended "circles around" trigger mea
 
 </div>
 
-<div class="post" data-post-id="38426" data-author="Teron" data-date="2017-09-12T04:47:40+00:00">
+<div class="post" data-post-id="38426" data-author="Teron" data-date="2017-09-12T04:47:40+00:00" data-subject="Re: Your afternoon chuckle">
 
 Ezekiel utters the words, 'eugszr waouq'
 
@@ -8323,7 +8323,7 @@ Cyprimus -- 'you died in one round'
 
 </div>
 
-<div class="post" data-post-id="38443" data-author="Teron" data-date="2017-10-17T05:10:25+00:00">
+<div class="post" data-post-id="38443" data-author="Teron" data-date="2017-10-17T05:10:25+00:00" data-subject="Blackbeard">
 
 Sochi -- 'he's authealing to full'
 
@@ -8439,7 +8439,7 @@ Blackbeard, Retired Captain of the High Seas snarls and salivates agitatedly but
 
 </div>
 
-<div class="post" data-post-id="38460" data-author="Gorka" data-date="2017-11-03T10:48:24+00:00">
+<div class="post" data-post-id="38460" data-author="Gorka" data-date="2017-11-03T10:48:24+00:00" data-subject="Re: Your afternoon chuckle">
 
 *Immortals of SlothMUD* 
 
@@ -8477,7 +8477,7 @@ Highest total since last bootup: 14.
 
 </div>
 
-<div class="post" data-post-id="38517" data-author="Gorka" data-date="2017-12-03T15:21:25+00:00">
+<div class="post" data-post-id="38517" data-author="Gorka" data-date="2017-12-03T15:21:25+00:00" data-subject="Re: Your afternoon chuckle">
 
 My mum would like you to buy my self titled Christmas album... 
 
@@ -8487,7 +8487,7 @@ Merry Christmas!
 
 </div>
 
-<div class="post" data-post-id="38672" data-author="Teron" data-date="2018-02-16T10:52:21+00:00">
+<div class="post" data-post-id="38672" data-author="Teron" data-date="2018-02-16T10:52:21+00:00" data-subject="visiting the temple of Mnemosyne">
 
 Behind the Bookcase
 
@@ -8681,7 +8681,7 @@ Group 'Ezekiel's Champion Council' is led by Ezekiel and consists of:
 
 </div>
 
-<div class="post" data-post-id="38673" data-author="Teron" data-date="2018-02-16T22:10:18+00:00">
+<div class="post" data-post-id="38673" data-author="Teron" data-date="2018-02-16T22:10:18+00:00" data-subject="Re: Your afternoon chuckle">
 
 You viciously massacre a sahaguin gate guard with your slash.
 
@@ -8943,7 +8943,7 @@ You report 231/1256 hp. Change: -342. Need: 1025. Spells: greater fluidity, aegi
 
 </div>
 
-<div class="post" data-post-id="38674" data-author="Teron" data-date="2018-02-16T23:47:23+00:00">
+<div class="post" data-post-id="38674" data-author="Teron" data-date="2018-02-16T23:47:23+00:00" data-subject="Re: Your afternoon chuckle">
 
 You are carrying:
 
@@ -9109,7 +9109,7 @@ You sit down and rest your tired bones
 
 </div>
 
-<div class="post" data-post-id="38675" data-author="Teron" data-date="2018-02-17T01:24:43+00:00">
+<div class="post" data-post-id="38675" data-author="Teron" data-date="2018-02-17T01:24:43+00:00" data-subject="Re: Your afternoon chuckle">
 
 After Teker reimbursed 10 scims, this happened in a bit:
 
@@ -9345,7 +9345,7 @@ A dwarven animal control officer patrols the area.
 
 </div>
 
-<div class="post" data-post-id="38693" data-author="Driven" data-date="2018-03-06T20:14:07+00:00">
+<div class="post" data-post-id="38693" data-author="Driven" data-date="2018-03-06T20:14:07+00:00" data-subject="Re: Your afternoon chuckle">
 
 Wait... this actually happened?  What the?
 
@@ -9439,13 +9439,13 @@ Lie still; you are DEAD!!! :-(
 
 </div>
 
-<div class="post" data-post-id="38694" data-author="Driven" data-date="2018-03-07T16:52:11+00:00">
+<div class="post" data-post-id="38694" data-author="Driven" data-date="2018-03-07T16:52:11+00:00" data-subject="Re: Your afternoon chuckle">
 
 I'm continuing to cycle this guy for a forge and I have confirmed that hermetic resonance simply does not work on him.  I have had hermetic resonance up for disintegrate when he decides to go crazy on me like this and all of the spells hit me instead of firing back at him.
 
 </div>
 
-<div class="post" data-post-id="38710" data-author="Teron" data-date="2018-03-16T16:26:21+00:00">
+<div class="post" data-post-id="38710" data-author="Teron" data-date="2018-03-16T16:26:21+00:00" data-subject="Re: Your afternoon chuckle">
 
 Now that notemp rooms are fixed..
 
@@ -9483,7 +9483,7 @@ Up and Up, Chop and Chop, Kill or be Killed.
 
 </div>
 
-<div class="post" data-post-id="38715" data-author="Gorka" data-date="2018-03-29T18:57:58+00:00">
+<div class="post" data-post-id="38715" data-author="Gorka" data-date="2018-03-29T18:57:58+00:00" data-subject="Re: Your afternoon chuckle">
 
 Suna begins to sing 'brothers in valor'.
 
@@ -9527,7 +9527,7 @@ You snicker softly.
 
 </div>
 
-<div class="post" data-post-id="38719" data-author="Driven" data-date="2018-04-04T13:39:42+00:00">
+<div class="post" data-post-id="38719" data-author="Driven" data-date="2018-04-04T13:39:42+00:00" data-subject="Re: Your afternoon chuckle">
 
 Moonlit Shadows
 
@@ -9571,7 +9571,7 @@ Feels good, man!
 
 </div>
 
-<div class="post" data-post-id="38732" data-author="Teron" data-date="2018-04-14T07:31:34+00:00">
+<div class="post" data-post-id="38732" data-author="Teron" data-date="2018-04-14T07:31:34+00:00" data-subject="Re: Your afternoon chuckle">
 
 <666hp 26ma 129mv> 7585635939 696205 62 -14.1 +10 indoors
 
@@ -9925,7 +9925,7 @@ Lie still; you are DEAD!!! :-(
 
 </div>
 
-<div class="post" data-post-id="38736" data-author="Driven" data-date="2018-04-17T20:36:11+00:00">
+<div class="post" data-post-id="38736" data-author="Driven" data-date="2018-04-17T20:36:11+00:00" data-subject="Re: Your afternoon chuckle">
 
 Not your ordinary chop round...
 
@@ -9975,7 +9975,7 @@ Gorka brutally massacres a beast with a huge gaping maw with his slash.
 
 </div>
 
-<div class="post" data-post-id="38743" data-author="Gorka" data-date="2018-04-24T14:01:51+00:00">
+<div class="post" data-post-id="38743" data-author="Gorka" data-date="2018-04-24T14:01:51+00:00" data-subject="Re: Your afternoon chuckle">
 
 You feel a chill run down your spine.
 
@@ -9997,7 +9997,7 @@ Ezekiel gossips-- 'i didn't know brad had gorka's password...'
 
 </div>
 
-<div class="post" data-post-id="38755" data-author="Gorka" data-date="2018-05-04T11:21:42+00:00">
+<div class="post" data-post-id="38755" data-author="Gorka" data-date="2018-05-04T11:21:42+00:00" data-subject="Re: Your afternoon chuckle">
 
 Don't know why I waited to kill him...  :lol: 
 
@@ -10091,7 +10091,7 @@ You get a roiling blue potion from the corpse of the grandmaster thug that's on 
 
 </div>
 
-<div class="post" data-post-id="38881" data-author="Gorka" data-date="2018-06-10T21:21:14+00:00">
+<div class="post" data-post-id="38881" data-author="Gorka" data-date="2018-06-10T21:21:14+00:00" data-subject="Re: Your afternoon chuckle">
 
 Roedrig, Troll Champion hates your guts!
 
@@ -10173,7 +10173,7 @@ Total exp for kill is 501727758.
 
 </div>
 
-<div class="post" data-post-id="38882" data-author="Gorka" data-date="2018-06-10T21:23:53+00:00">
+<div class="post" data-post-id="38882" data-author="Gorka" data-date="2018-06-10T21:23:53+00:00" data-subject="Re: Your afternoon chuckle">
 
 The Were-Lord Lupine hates your guts!
 
@@ -10265,7 +10265,7 @@ Total exp for kill is 626408772.
 
 </div>
 
-<div class="post" data-post-id="38899" data-author="Driven" data-date="2018-06-15T14:19:27+00:00">
+<div class="post" data-post-id="38899" data-author="Driven" data-date="2018-06-15T14:19:27+00:00" data-subject="Re: Your afternoon chuckle">
 
 Never seen this before, but makes sense... morting an ether mob with autokill on.
 
@@ -10355,7 +10355,7 @@ There were 9375 coins.
 
 </div>
 
-<div class="post" data-post-id="38901" data-author="Teron" data-date="2018-06-16T06:21:36+00:00">
+<div class="post" data-post-id="38901" data-author="Teron" data-date="2018-06-16T06:21:36+00:00" data-subject="can&#x27;t chop Brick, need better kung fu">
 
 rem pestilence
 
@@ -10429,7 +10429,7 @@ You massacre Brick Starkhaus to small fragments with your cleave.
 
 </div>
 
-<div class="post" data-post-id="38951" data-author="Teron" data-date="2018-07-17T14:31:46+00:00">
+<div class="post" data-post-id="38951" data-author="Teron" data-date="2018-07-17T14:31:46+00:00" data-subject="Re: Your afternoon chuckle">
 
 The dwarven scribe arrives from the west.
 
@@ -10637,7 +10637,7 @@ Settlestone's Well
 
 </div>
 
-<div class="post" data-post-id="38989" data-author="Driven" data-date="2018-10-17T20:00:38+00:00">
+<div class="post" data-post-id="38989" data-author="Driven" data-date="2018-10-17T20:00:38+00:00" data-subject="Re: Your afternoon chuckle">
 
 Holy solo chop, batman!
 
@@ -10681,7 +10681,7 @@ Your blood freezes as you hear the cardinal of the lost cross's death cry.
 
 </div>
 
-<div class="post" data-post-id="38990" data-author="Teron" data-date="2018-10-27T02:54:28+00:00">
+<div class="post" data-post-id="38990" data-author="Teron" data-date="2018-10-27T02:54:28+00:00" data-subject="Re: Your afternoon chuckle">
 
 The fanatic says 'Oh my gosh!  It's Inra!'
 
@@ -10701,7 +10701,7 @@ The fanatic is dead! R.I.P.
 
 </div>
 
-<div class="post" data-post-id="38993" data-author="Gorka" data-date="2018-11-03T17:13:33+00:00">
+<div class="post" data-post-id="38993" data-author="Gorka" data-date="2018-11-03T17:13:33+00:00" data-subject="Re: Your afternoon chuckle">
 
 > **Quote:**
 > Sat Nov 3 09:32:43 2018
@@ -10710,7 +10710,7 @@ The fanatic is dead! R.I.P.
 
 </div>
 
-<div class="post" data-post-id="39032" data-author="Teron" data-date="2018-12-25T06:48:43+00:00">
+<div class="post" data-post-id="39032" data-author="Teron" data-date="2018-12-25T06:48:43+00:00" data-subject="Re: Your afternoon chuckle">
 
 You sneak through the shadows of An Open Hallway.
 
@@ -10776,7 +10776,7 @@ You don't see anyone to pet.
 
 </div>
 
-<div class="post" data-post-id="39034" data-author="Josiah" data-date="2018-12-29T10:04:30+00:00">
+<div class="post" data-post-id="39034" data-author="Josiah" data-date="2018-12-29T10:04:30+00:00" data-subject="Re: Your afternoon chuckle">
 
 3 rounded Xerxes with four people chopping (and a couple crits)
 
@@ -10922,7 +10922,7 @@ Group 'Dingo's Furious Death-Dealers' is led by Dingo and consists of:
 
 </div>
 
-<div class="post" data-post-id="39054" data-author="Gorka" data-date="2019-01-17T17:44:11+00:00">
+<div class="post" data-post-id="39054" data-author="Gorka" data-date="2019-01-17T17:44:11+00:00" data-subject="Re: Your afternoon chuckle">
 
 ```
 Grouped counters elapsed time: 1 hour, 27 minutes, 41 seconds
@@ -10939,7 +10939,7 @@ Cyprimus, Josiah, Ezekiel, Driven, Padme, Gorka. 2B hours.
 
 </div>
 
-<div class="post" data-post-id="39080" data-author="Gorka" data-date="2019-01-27T13:41:42+00:00">
+<div class="post" data-post-id="39080" data-author="Gorka" data-date="2019-01-27T13:41:42+00:00" data-subject="Re: Your afternoon chuckle">
 
 ```
 Grouped counters elapsed time: 5 hours, 12 minutes (active)
@@ -10954,7 +10954,7 @@ Honor Points             240945      46.3k     772.3      12.9       406.3
 
 </div>
 
-<div class="post" data-post-id="39089" data-author="Werelord" data-date="2019-02-11T19:17:11+00:00">
+<div class="post" data-post-id="39089" data-author="Werelord" data-date="2019-02-11T19:17:11+00:00" data-subject="Re: Your afternoon chuckle">
 
 A bit old but still 
 
@@ -11286,7 +11286,7 @@ You have been KILLED!!
 
 </div>
 
-<div class="post" data-post-id="39092" data-author="*Idjit*" data-date="2019-02-17T20:03:22+00:00">
+<div class="post" data-post-id="39092" data-author="*Idjit*" data-date="2019-02-17T20:03:22+00:00" data-subject="Re: Your afternoon chuckle">
 
 Rumbles in the Deep
 
@@ -11308,7 +11308,7 @@ Swarvenstein's spell shield brightens to a glowing green.
 
 </div>
 
-<div class="post" data-post-id="39625" data-author="Insomnia" data-date="2020-11-24T19:44:29+00:00">
+<div class="post" data-post-id="39625" data-author="Insomnia" data-date="2020-11-24T19:44:29+00:00" data-subject="Re: Your afternoon chuckle">
 
 <1080/1078hp 949/809ma 442/442mv -%>
 
@@ -11430,7 +11430,7 @@ Koa -- 'quickest xerxes ever?'
 
 </div>
 
-<div class="post" data-post-id="39626" data-author="Gorka" data-date="2020-11-25T09:50:20+00:00">
+<div class="post" data-post-id="39626" data-author="Gorka" data-date="2020-11-25T09:50:20+00:00" data-subject="Re: Your afternoon chuckle">
 
 Sorry to burst your bubble Baby (RE: Monk Power), but I think you'll find Koa did nearly all of the damage with a massive critical chop on the excruciating blow. You were lucky there was anything left to kill...
 
@@ -11438,7 +11438,7 @@ As funny as this is, it also kind of makes a mockery of the game, when you consi
 
 </div>
 
-<div class="post" data-post-id="39627" data-author="DarkArtist" data-date="2020-11-26T15:57:37+00:00">
+<div class="post" data-post-id="39627" data-author="DarkArtist" data-date="2020-11-26T15:57:37+00:00" data-subject="Re: Your afternoon chuckle">
 
 > **Gorka wrote:**
 > translates to less game credibility and lazier players.
@@ -11447,13 +11447,13 @@ The game is literally called sloth, like literally literally.
 
 </div>
 
-<div class="post" data-post-id="39955" data-author="*Idjit*" data-date="2022-06-27T08:44:37+00:00">
+<div class="post" data-post-id="39955" data-author="*Idjit*" data-date="2022-06-27T08:44:37+00:00" data-subject="Re: Your afternoon chuckle">
 
 [<LINK_TEXT text="https://pbs.twimg.com/media/FWOyEogXoAE ... name=large">https://pbs.twimg.com/media/FWOyEogXoAEqIZl?format=jpg&name=large</LINK_TEXT>](https://pbs.twimg.com/media/FWOyEogXoAEqIZl?format=jpg&name=large)
 
 </div>
 
-<div class="post" data-post-id="40057" data-author="Driven" data-date="2023-08-02T00:17:30+00:00">
+<div class="post" data-post-id="40057" data-author="Driven" data-date="2023-08-02T00:17:30+00:00" data-subject="Re: Your afternoon chuckle">
 
 [<LINK_TEXT text="https://tenor.com/view/seinfeld-jason-a ... if-4735568">https://tenor.com/view/seinfeld-jason-alexander-george-costanza-slap-fight-jerry-seinfeld-gif-4735568</LINK_TEXT>](https://tenor.com/view/seinfeld-jason-alexander-george-costanza-slap-fight-jerry-seinfeld-gif-4735568)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="27788" data-author="Toxis" data-date="2009-01-20T23:42:59+00:00">
+<div class="post" data-post-id="27788" data-author="Toxis" data-date="2009-01-20T23:42:59+00:00" data-subject="Demon Web Gathering">
 
 A small scout party led by Abone went in search of rumors that demons were plotting to take over Settlestone.  The group indeed found demons that haven't shown their foul faces for ages... but the power of the demons was too strong, and the mortals were banished from the realm.
 
@@ -20,13 +20,13 @@ The people of Settlestone implore you good citizens of the world to help protect
 
 </div>
 
-<div class="post" data-post-id="27790" data-author="jezer" data-date="2009-01-21T02:44:07+00:00">
+<div class="post" data-post-id="27790" data-author="jezer" data-date="2009-01-21T02:44:07+00:00" data-subject="">
 
 Stuck at work here :evil: , someone post what and where in dweb they pop please.
 
 </div>
 
-<div class="post" data-post-id="27791" data-author="strider" data-date="2009-01-21T04:04:14+00:00">
+<div class="post" data-post-id="27791" data-author="strider" data-date="2009-01-21T04:04:14+00:00" data-subject="">
 
 ok, led a group thru dweb for a bit. fast repop was on so we got about 4 cycles in. here's what i noticed. all the old demons in the guest chambers by demo and orcus have been changed. even demo and orcus are gone!! i miss demo already btw. solid xp and if ya got a -12 tank and a couple tards it can be run pretty nicely. we popped two new items.
 
@@ -74,7 +74,7 @@ and that's all we found. looked like there were about 6-8 more newish/changed mo
 
 </div>
 
-<div class="post" data-post-id="27801" data-author="Toxis" data-date="2009-01-21T22:52:36+00:00">
+<div class="post" data-post-id="27801" data-author="Toxis" data-date="2009-01-21T22:52:36+00:00" data-subject="">
 
 Demo, Orcus, Marilith, Lolth... they're in Akasha's area Lolth now.  I decided not to touch Akasha's area since he's bigger than me and could put me into a hurt. :)
 
@@ -84,7 +84,7 @@ I hope people want to cycle the 10 new mobs in dweb, and I'd like to hear other 
 
 </div>
 
-<div class="post" data-post-id="27805" data-author="jezer" data-date="2009-01-21T23:28:32+00:00">
+<div class="post" data-post-id="27805" data-author="jezer" data-date="2009-01-21T23:28:32+00:00" data-subject="">
 
 I hit your new mobs last night... give me a hint which one pops some druid stuff. I killed 7 mobs in 4.5 hours for nothing... (4 x innek, 3 x zugg)
 
@@ -94,7 +94,7 @@ Which reminds me to flame on about a new bard song that tells a player if a mob 
 
 </div>
 
-<div class="post" data-post-id="27825" data-author="Bazilus" data-date="2009-01-22T07:38:19+00:00">
+<div class="post" data-post-id="27825" data-author="Bazilus" data-date="2009-01-22T07:38:19+00:00" data-subject="">
 
 Demo, Orcus, Marilith, Lolth... they're in Akasha's area Lolth now.  I decided not to touch Akasha's area since he's bigger than me and could put me into a hurt. :)
 
@@ -108,13 +108,13 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="27862" data-author="13" data-date="2009-01-24T22:51:06+00:00">
+<div class="post" data-post-id="27862" data-author="13" data-date="2009-01-24T22:51:06+00:00" data-subject="">
 
 would you say it is better or worse Bryan?
 
 </div>
 
-<div class="post" data-post-id="27868" data-author="Tap" data-date="2009-01-25T20:07:05+00:00">
+<div class="post" data-post-id="27868" data-author="Tap" data-date="2009-01-25T20:07:05+00:00" data-subject="">
 
 [quote:2gt1zkvt] 	
 

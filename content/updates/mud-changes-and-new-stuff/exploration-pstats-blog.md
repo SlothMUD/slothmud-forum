@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="35883" data-author="*Splork*" data-date="2015-05-01T15:26:31+00:00">
+<div class="post" data-post-id="35883" data-author="*Splork*" data-date="2015-05-01T15:26:31+00:00" data-subject="Exploration, pstats, blog">
 
 We made some changes so that all new areas for the past few years would be explorable. I had help testing with a couple of players and things seemed to have worked fine. However, today's reboot we noticed that most people exploration percentage has dropped significantly. 
 
@@ -24,7 +24,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35886" data-author="*Splork*" data-date="2015-05-01T19:29:17+00:00">
+<div class="post" data-post-id="35886" data-author="*Splork*" data-date="2015-05-01T19:29:17+00:00" data-subject="Re: Exploration, pstats, blog">
 
 Exploration should be fully fixed in the morning. Your stats should be back to normal and new area exploration imports should be fixed.
 
@@ -34,7 +34,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35887" data-author="*Splork*" data-date="2015-05-02T00:02:42+00:00">
+<div class="post" data-post-id="35887" data-author="*Splork*" data-date="2015-05-02T00:02:42+00:00" data-subject="Re: Exploration, pstats, blog">
 
 Playerstats for the 25th are now posted. Not sure why but I had to do it manually. We will track down the cause and hopefully fix it soon.
 
@@ -42,7 +42,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35891" data-author="*Splork*" data-date="2015-05-06T13:16:32+00:00">
+<div class="post" data-post-id="35891" data-author="*Splork*" data-date="2015-05-06T13:16:32+00:00" data-subject="Re: Exploration, pstats, blog">
 
 Playerstats auto-updated this week, as it should have.
 

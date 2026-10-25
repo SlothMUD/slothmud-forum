@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="37495" data-author="*juggleblood*" data-date="2016-11-06T12:57:55+00:00">
+<div class="post" data-post-id="37495" data-author="*juggleblood*" data-date="2016-11-06T12:57:55+00:00" data-subject="newbie level in coliseum repaired">
 
 The newbie level mysteriously acquired a bug whereby if u pulled chain to exit a match, it would make it such that pushing the button wouldn't work (it would think there was still a mob in there.)
 
@@ -24,7 +24,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37496" data-author="Gorka" data-date="2016-11-06T15:33:12+00:00">
+<div class="post" data-post-id="37496" data-author="Gorka" data-date="2016-11-06T15:33:12+00:00" data-subject="Re: newbie level in coliseum repaired">
 
 Back when I was in this coliseum there was a bug where you could push the button repeatedly each time spawning more mobs without having to kill the other ones first. I only noticed this in the newbie coliseum. 
 
@@ -34,19 +34,19 @@ Having said that, I think the current high scores appear to have been achieved f
 
 </div>
 
-<div class="post" data-post-id="37497" data-author="*juggleblood*" data-date="2016-11-06T18:30:43+00:00">
+<div class="post" data-post-id="37497" data-author="*juggleblood*" data-date="2016-11-06T18:30:43+00:00" data-subject="Re: newbie level in coliseum repaired">
 
 Naw, you can no longer summon multiple mobs I'm pretty sure. Also u can not get mobs into the sanctuary. And the spirit watcher thing is due to some redundant checks. The exploits do eventually get reported to me. It's pretty legit currently.
 
 </div>
 
-<div class="post" data-post-id="37498" data-author="*teker*" data-date="2016-11-07T22:16:19+00:00">
+<div class="post" data-post-id="37498" data-author="*teker*" data-date="2016-11-07T22:16:19+00:00" data-subject="Re: newbie level in coliseum repaired">
 
 I probably broke it while trying to fix the multiple mob issue.  I observed low level characters pushing the button 8-10 times and then using area blasts to kill them all.  That's how those high scores came about.
 
 </div>
 
-<div class="post" data-post-id="37504" data-author="*juggleblood*" data-date="2016-11-19T00:19:20+00:00">
+<div class="post" data-post-id="37504" data-author="*juggleblood*" data-date="2016-11-19T00:19:20+00:00" data-subject="Re: newbie level in coliseum repaired">
 
 I've been mulling over what to do about the scores, now that the bug/feature has been changed. I'm thinking no one gets punished since a reasonable argument could be made that it was a legit strategy. But the scores are compromised. So I'm thinking I'll reset it (newbie level only) at New Year, tinker around and have some fun with the mobs. And I may cap the drachma based on your prior score, may display both prior and new score. Depends how much I feel like working on it. To be clear, I'm talking newbie level only..
 
@@ -68,7 +68,7 @@ And it would help if you guys could tell me which among you used the aoe strateg
 
 </div>
 
-<div class="post" data-post-id="37505" data-author="Teron" data-date="2016-11-19T05:12:00+00:00">
+<div class="post" data-post-id="37505" data-author="Teron" data-date="2016-11-19T05:12:00+00:00" data-subject="Re: newbie level in coliseum repaired">
 
 Though I'm not all the above, I've helped 3 out of 5 achieve the goals, in a way, so let me chip in - also because Basilisk/Juggernaught is gone now.
 
@@ -94,7 +94,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37506" data-author="*juggleblood*" data-date="2016-11-19T14:22:27+00:00">
+<div class="post" data-post-id="37506" data-author="*juggleblood*" data-date="2016-11-19T14:22:27+00:00" data-subject="Re: newbie level in coliseum repaired">
 
 Ok, thanks much.
 
@@ -106,7 +106,7 @@ So for example, let's say I capped total drachma for newbie level to 80. If you'
 
 </div>
 
-<div class="post" data-post-id="37533" data-author="Zlodiak" data-date="2016-11-22T07:53:54+00:00">
+<div class="post" data-post-id="37533" data-author="Zlodiak" data-date="2016-11-22T07:53:54+00:00" data-subject="Re: newbie level in coliseum repaired">
 
 > ***juggleblood* wrote:**
 > I've been mulling over what to do about the scores, now that the bug/feature has been changed. I'm thinking no one gets punished since a reasonable argument could be made that it was a legit strategy. But the scores are compromised. So I'm thinking I'll reset it (newbie level only) at New Year, tinker around and have some fun with the mobs. And I may cap the drachma based on your prior score, may display both prior and new score. Depends how much I feel like working on it. To be clear, I'm talking newbie level only..
@@ -151,7 +151,7 @@ With these changes we will see close results in both strategy, and there will be
 
 </div>
 
-<div class="post" data-post-id="37534" data-author="*juggleblood*" data-date="2016-11-22T14:02:22+00:00">
+<div class="post" data-post-id="37534" data-author="*juggleblood*" data-date="2016-11-22T14:02:22+00:00" data-subject="Re: newbie level in coliseum repaired">
 
 I agree that it makes it interesting, but it's a non-starter. People take their coli scores a little too seriously and so any changes are just going to make a lot of people unhappy. Combine that with the fact that it's work I don't want, and it becomes a no brainer, to fix it to the original intention of 1 mob at a time.
 

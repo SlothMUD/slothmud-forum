@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34070" data-author="Constin" data-date="2013-02-22T15:50:56+00:00">
+<div class="post" data-post-id="34070" data-author="Constin" data-date="2013-02-22T15:50:56+00:00" data-subject="Run Lua code with ! prefix">
 
 Alias
 
@@ -36,7 +36,7 @@ if r then display(r) end
 
 </div>
 
-<div class="post" data-post-id="34116" data-author="Akaya" data-date="2013-03-03T07:17:52+00:00">
+<div class="post" data-post-id="34116" data-author="Akaya" data-date="2013-03-03T07:17:52+00:00" data-subject="Re: Run Lua code with ! prefix">
 
 This is now a default script that appears on every new profile. The only difference is that you use the alias **lua <whatever>** instead of **!**
 

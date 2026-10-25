@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="17073" data-author="Yinao" data-date="2007-02-23T02:53:07+00:00">
+<div class="post" data-post-id="17073" data-author="Yinao" data-date="2007-02-23T02:53:07+00:00" data-subject="Getting caught">
 
 I was about ready to strike on SS when game booted me. Oddly enough, TMC can successfully connect. So no pkilling me when I can't even run for safety, it's poor sportsmanship. 
 
@@ -24,19 +24,19 @@ Bring on the pain :twisted:  :twisted:  :twisted:
 
 </div>
 
-<div class="post" data-post-id="17077" data-author="Hades" data-date="2007-02-23T03:09:45+00:00">
+<div class="post" data-post-id="17077" data-author="Hades" data-date="2007-02-23T03:09:45+00:00" data-subject="Got Yinao?">
 
 Maybe I'll beat you back on reconnect..then all I'll have to do is find ya :evil:
 
 </div>
 
-<div class="post" data-post-id="17078" data-author="Yinao" data-date="2007-02-23T03:12:15+00:00">
+<div class="post" data-post-id="17078" data-author="Yinao" data-date="2007-02-23T03:12:15+00:00" data-subject="Catch me if you can :D">
 
 You might be able to steal that nice pretty backpack full of food in my inv or that keg full of water. *Cackle* but i hope you do try to steal from me i will enjoy the pleasure of pkilling you :twisted: :twisted: and hell if you dont and i see you i will still enjoy killing you anyways MUAHAHAHAH.
 
 </div>
 
-<div class="post" data-post-id="17079" data-author="Hades" data-date="2007-02-23T04:19:29+00:00">
+<div class="post" data-post-id="17079" data-author="Hades" data-date="2007-02-23T04:19:29+00:00" data-subject="Wretched">
 
 It's on like Donkey Kong.Target Yinao, make he rest in pieces.
 

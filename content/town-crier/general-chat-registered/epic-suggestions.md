@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40177" data-author="Hung" data-date="2025-03-13T10:59:37+00:00">
+<div class="post" data-post-id="40177" data-author="Hung" data-date="2025-03-13T10:59:37+00:00" data-subject="Epic suggestions">
 
 Let's use this topic to make suggestions about adding new epics or turning existing mobiles into epics.
 

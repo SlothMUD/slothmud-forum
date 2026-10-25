@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35926" data-author="Josiah" data-date="2015-06-02T04:14:22+00:00">
+<div class="post" data-post-id="35926" data-author="Josiah" data-date="2015-06-02T04:14:22+00:00" data-subject="the ring of fallen heroes">
 
 Found on a zealot in Tower of Gr'Valdh
 

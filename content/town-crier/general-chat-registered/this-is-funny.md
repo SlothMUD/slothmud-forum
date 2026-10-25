@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="15263" data-author="Toxis" data-date="2006-11-21T19:25:22+00:00">
+<div class="post" data-post-id="15263" data-author="Toxis" data-date="2006-11-21T19:25:22+00:00" data-subject="this is funny">
 
 Edited a tad, deleted the non essentials...
 
@@ -324,7 +324,7 @@ Note, this was shortly after we had killed Mandos already. :)~
 
 </div>
 
-<div class="post" data-post-id="15266" data-author="Autolycos" data-date="2006-11-21T19:46:57+00:00">
+<div class="post" data-post-id="15266" data-author="Autolycos" data-date="2006-11-21T19:46:57+00:00" data-subject="">
 
 ahh  good times...
 
@@ -334,7 +334,7 @@ Cheers Heck! :twisted:
 
 </div>
 
-<div class="post" data-post-id="15293" data-author="Corinn" data-date="2006-11-23T15:21:23+00:00">
+<div class="post" data-post-id="15293" data-author="Corinn" data-date="2006-11-23T15:21:23+00:00" data-subject="">
 
 [quote:1yqkdjms]TARGET ------------------->>>>> fish <<<<<------------<<< [/quote:1yqkdjms]
 

@@ -10,13 +10,13 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30587" data-author="Redcross" data-date="2010-01-08T00:35:12+00:00">
+<div class="post" data-post-id="30587" data-author="Redcross" data-date="2010-01-08T00:35:12+00:00" data-subject="Order Followers Guard">
 
 Orders your followers to enter a guard mode, which makes them attack anything that attacks you.
 
 </div>
 
-<div class="post" data-post-id="30590" data-author="Thraxas" data-date="2010-01-08T09:27:55+00:00">
+<div class="post" data-post-id="30590" data-author="Thraxas" data-date="2010-01-08T09:27:55+00:00" data-subject="">
 
 is this a new development that has come in game or simply a suggestion?
 
@@ -40,7 +40,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30598" data-author="*juggleblood*" data-date="2010-01-08T13:19:32+00:00">
+<div class="post" data-post-id="30598" data-author="*juggleblood*" data-date="2010-01-08T13:19:32+00:00" data-subject="">
 
 Order lag is a real concern for those with necro lower in classo. A trigger like that could be dangerous in some situations.
 

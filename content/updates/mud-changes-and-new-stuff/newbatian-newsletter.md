@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34131" data-author="*juggleblood*" data-date="2013-03-09T22:40:45+00:00">
+<div class="post" data-post-id="34131" data-author="*juggleblood*" data-date="2013-03-09T22:40:45+00:00" data-subject="Newbatian Newsletter">
 
 Here's some lesser news from the land of Newbatia.
 
@@ -38,7 +38,7 @@ Peace.
 
 </div>
 
-<div class="post" data-post-id="34176" data-author="*juggleblood*" data-date="2013-03-24T14:58:19+00:00">
+<div class="post" data-post-id="34176" data-author="*juggleblood*" data-date="2013-03-24T14:58:19+00:00" data-subject="Re: Newbatian Newsletter">
 
 Few new things of note in the Valkyre environs:
 

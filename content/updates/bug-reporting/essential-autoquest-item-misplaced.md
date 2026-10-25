@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36032" data-author="Dragoth" data-date="2015-08-13T13:44:56+00:00">
+<div class="post" data-post-id="36032" data-author="Dragoth" data-date="2015-08-13T13:44:56+00:00" data-subject="Essential Autoquest item misplaced">
 
 Seems that a component for a forge that is required for an autoquest no longer pops on the mob it is supposed to and went missing, cp name is bloodstained-crystal-piece.
 
@@ -84,13 +84,13 @@ Weight: 0, Value: 50000gold, Worn in: TAKE
 
 </div>
 
-<div class="post" data-post-id="36033" data-author="*Breeze*" data-date="2015-08-14T11:37:51+00:00">
+<div class="post" data-post-id="36033" data-author="*Breeze*" data-date="2015-08-14T11:37:51+00:00" data-subject="Re: Essential Autoquest item misplaced">
 
 that is not "bugs"ing it.
 
 </div>
 
-<div class="post" data-post-id="36034" data-author="cyprimus" data-date="2015-08-14T12:01:22+00:00">
+<div class="post" data-post-id="36034" data-author="cyprimus" data-date="2015-08-14T12:01:22+00:00" data-subject="Re: Essential Autoquest item misplaced">
 
 The one from Rapheal in eden?
 
@@ -98,7 +98,7 @@ zuzu poped it last!
 
 </div>
 
-<div class="post" data-post-id="36042" data-author="*Neptune*" data-date="2015-08-16T16:25:16+00:00">
+<div class="post" data-post-id="36042" data-author="*Neptune*" data-date="2015-08-16T16:25:16+00:00" data-subject="Re: Essential Autoquest item misplaced">
 
 This item should now be available once again.
 

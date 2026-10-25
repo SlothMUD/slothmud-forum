@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33902" data-author="dracmas" data-date="2013-01-09T02:32:14+00:00">
+<div class="post" data-post-id="33902" data-author="dracmas" data-date="2013-01-09T02:32:14+00:00" data-subject="Gagging messages">
 
 Text on the screen you don't want to see? Gag it!
 
@@ -50,7 +50,7 @@ Check the manual for different ways to trigger text:
 
 </div>
 
-<div class="post" data-post-id="33903" data-author="dracmas" data-date="2013-01-09T22:58:12+00:00">
+<div class="post" data-post-id="33903" data-author="dracmas" data-date="2013-01-09T22:58:12+00:00" data-subject="Re: Gagging messages">
 
 image: [http://i.troll.ws/a72cbb46.png](http://i.troll.ws/a72cbb46.png)
 

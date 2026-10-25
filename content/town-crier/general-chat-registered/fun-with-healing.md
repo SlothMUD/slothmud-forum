@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="26333" data-author="Medios" data-date="2008-09-16T01:20:13+00:00">
+<div class="post" data-post-id="26333" data-author="Medios" data-date="2008-09-16T01:20:13+00:00" data-subject="Fun with healing.">
 
 Eskimo Store
 
@@ -60,7 +60,7 @@ Someone's skin is charred by your healing touch.
 
 </div>
 
-<div class="post" data-post-id="26334" data-author="Tap" data-date="2008-09-16T03:11:04+00:00">
+<div class="post" data-post-id="26334" data-author="Tap" data-date="2008-09-16T03:11:04+00:00" data-subject="">
 
 [img:215mujcy]http://www.filmtotaal.nl/images/newscontent/019299e.jpg[/img:215mujcy]
 

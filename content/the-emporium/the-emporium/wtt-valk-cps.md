@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26823" data-author="allen" data-date="2008-10-23T14:14:50+00:00">
+<div class="post" data-post-id="26823" data-author="allen" data-date="2008-10-23T14:14:50+00:00" data-subject="WTT valk cps">
 
 willing to trade
 

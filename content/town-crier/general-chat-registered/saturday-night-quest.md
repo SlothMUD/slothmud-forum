@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="12619" data-author="QuestReporter" data-date="2006-05-22T06:26:07+00:00">
+<div class="post" data-post-id="12619" data-author="QuestReporter" data-date="2006-05-22T06:26:07+00:00" data-subject="Saturday night quest!">
 
 On a brilliant, sunny afternoon in Tokyo, mudders from around the world were surprised by a booming echo 'Quest starting in 15 minutes.'
 
@@ -44,7 +44,7 @@ and Blaster for hosting a fun quest!
 
 </div>
 
-<div class="post" data-post-id="12620" data-author="jezer" data-date="2006-05-22T06:42:02+00:00">
+<div class="post" data-post-id="12620" data-author="jezer" data-date="2006-05-22T06:42:02+00:00" data-subject="">
 
 And they all lived happily ever after! 
 
@@ -54,7 +54,7 @@ Reveal yourself QuestReporter!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="12622" data-author="Elsie" data-date="2006-05-22T13:22:11+00:00">
+<div class="post" data-post-id="12622" data-author="Elsie" data-date="2006-05-22T13:22:11+00:00" data-subject="">
 
 nice sounds like fun,
 
@@ -70,7 +70,7 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="12623" data-author="osric" data-date="2006-05-22T13:41:57+00:00">
+<div class="post" data-post-id="12623" data-author="osric" data-date="2006-05-22T13:41:57+00:00" data-subject="">
 
 Elsie,
 
@@ -78,7 +78,7 @@ Not as a flame but just a slight correction, the quest took place between US Eas
 
 </div>
 
-<div class="post" data-post-id="12624" data-author="13" data-date="2006-05-22T14:13:32+00:00">
+<div class="post" data-post-id="12624" data-author="13" data-date="2006-05-22T14:13:32+00:00" data-subject="">
 
 you turned down a dmg head??????????????????????????????????!!!!!!!!!!!!
 
@@ -88,7 +88,7 @@ omg, you pwned yourself
 
 </div>
 
-<div class="post" data-post-id="12625" data-author="12345" data-date="2006-05-22T14:22:58+00:00">
+<div class="post" data-post-id="12625" data-author="12345" data-date="2006-05-22T14:22:58+00:00" data-subject="">
 
 Laugh, first quest I've been on in months and it was 2-4 am.  I've missed out on numerous quests and at least 2 100% pops that I know of.  Sometimes you just get lucky, sometimes you don't.
 
@@ -96,7 +96,7 @@ Relax some.
 
 </div>
 
-<div class="post" data-post-id="12628" data-author="Grue" data-date="2006-05-22T16:02:09+00:00">
+<div class="post" data-post-id="12628" data-author="Grue" data-date="2006-05-22T16:02:09+00:00" data-subject="">
 
 I believe the 15 minutes notice is probably a deliberate decision. Experience  often shows that if you announce a quest on the crier 2 things happen:
 
@@ -106,7 +106,7 @@ b) 5X40s who play twice a year log on for their twice yearly quest. Seriously we
 
 </div>
 
-<div class="post" data-post-id="12630" data-author="Leaf" data-date="2006-05-22T17:15:16+00:00">
+<div class="post" data-post-id="12630" data-author="Leaf" data-date="2006-05-22T17:15:16+00:00" data-subject="">
 
 you turned down a dmg head??????????????????????????????????!!!!!!!!!!!!
 
@@ -122,7 +122,7 @@ the helm.  We all know ur response AA :)
 
 </div>
 
-<div class="post" data-post-id="12632" data-author="brady" data-date="2006-05-22T18:15:48+00:00">
+<div class="post" data-post-id="12632" data-author="brady" data-date="2006-05-22T18:15:48+00:00" data-subject="">
 
 I think surprise quests are a great idea.  And no, it wasn't a convenent time for anybody.  For once, I agree with that pinhead named grue.
 
@@ -130,7 +130,7 @@ Thanks Ditheca, Blaster and everyone else that helped!
 
 </div>
 
-<div class="post" data-post-id="12633" data-author="Rajil" data-date="2006-05-22T18:45:13+00:00">
+<div class="post" data-post-id="12633" data-author="Rajil" data-date="2006-05-22T18:45:13+00:00" data-subject="">
 
 Yeah, thanks to all those that helped!
 
@@ -140,13 +140,13 @@ You turned down a dmg head?!? That musta hurt.
 
 </div>
 
-<div class="post" data-post-id="12635" data-author="13" data-date="2006-05-22T19:52:23+00:00">
+<div class="post" data-post-id="12635" data-author="13" data-date="2006-05-22T19:52:23+00:00" data-subject="">
 
 I would have made it worthwhile for the group, I'm not saying fuck them, but a DMG helm???  WTF???
 
 </div>
 
-<div class="post" data-post-id="12636" data-author="Leaf" data-date="2006-05-22T20:03:48+00:00">
+<div class="post" data-post-id="12636" data-author="Leaf" data-date="2006-05-22T20:03:48+00:00" data-subject="">
 
 I can see a +dam helm ... HEADBUTT!!!
 
@@ -154,31 +154,31 @@ STAB STAB, Headbutt!
 
 </div>
 
-<div class="post" data-post-id="12640" data-author="Weasel" data-date="2006-05-22T22:08:46+00:00">
+<div class="post" data-post-id="12640" data-author="Weasel" data-date="2006-05-22T22:08:46+00:00" data-subject="">
 
 not only was it +1dam, it was 1.3ac and +resist fire as well..
 
 </div>
 
-<div class="post" data-post-id="12650" data-author="ken" data-date="2006-05-23T11:49:06+00:00">
+<div class="post" data-post-id="12650" data-author="ken" data-date="2006-05-23T11:49:06+00:00" data-subject="">
 
 Yeh it's a freaking NICE quest eq!!! Too bad I wasn't on to join the fun=P
 
 </div>
 
-<div class="post" data-post-id="12654" data-author="13" data-date="2006-05-23T19:35:07+00:00">
+<div class="post" data-post-id="12654" data-author="13" data-date="2006-05-23T19:35:07+00:00" data-subject="">
 
 Zam would have just shit on your head.
 
 </div>
 
-<div class="post" data-post-id="12661" data-author="Zam" data-date="2006-05-24T05:30:12+00:00">
+<div class="post" data-post-id="12661" data-author="Zam" data-date="2006-05-24T05:30:12+00:00" data-subject="">
 
 silly newbies )
 
 </div>
 
-<div class="post" data-post-id="12663" data-author="13" data-date="2006-05-24T13:07:51+00:00">
+<div class="post" data-post-id="12663" data-author="13" data-date="2006-05-24T13:07:51+00:00" data-subject="">
 
 See!  I told you.
 

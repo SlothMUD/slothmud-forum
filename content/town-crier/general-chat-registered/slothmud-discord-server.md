@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39325" data-author="Hung" data-date="2020-01-01T13:21:32+00:00">
+<div class="post" data-post-id="39325" data-author="Hung" data-date="2020-01-01T13:21:32+00:00" data-subject="SlothMUD Discord Server">
 
 Since telegram channel is under constant spammer attack, I've created discord server: [https://discord.gg/YRzSRSd](https://discord.gg/YRzSRSd)
 
@@ -18,7 +18,7 @@ Feel free to join. If you're slothmud admin, let me know, I'll grant you admin p
 
 </div>
 
-<div class="post" data-post-id="39966" data-author="Hung" data-date="2022-08-22T11:03:44+00:00">
+<div class="post" data-post-id="39966" data-author="Hung" data-date="2022-08-22T11:03:44+00:00" data-subject="Re: SlothMUD Discord Server">
 
 Up. The server is alive and has some active users.
 
@@ -28,7 +28,7 @@ I am even ready to transfer the server ownership if the requester is high rank i
 
 </div>
 
-<div class="post" data-post-id="40089" data-author="Hung" data-date="2024-02-03T04:23:19+00:00">
+<div class="post" data-post-id="40089" data-author="Hung" data-date="2024-02-03T04:23:19+00:00" data-subject="Re: SlothMUD Discord Server">
 
 Well, the discord server has been running for 4 years.
 

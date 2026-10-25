@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="9878" data-author="Hobbes" data-date="2005-12-20T14:57:21+00:00">
+<div class="post" data-post-id="9878" data-author="Hobbes" data-date="2005-12-20T14:57:21+00:00" data-subject="Druid Classo">
 
 Hello,
 
@@ -18,7 +18,7 @@ I'm thinking of creating a Druid character and I debating between Druid/Mage/Cle
 
 </div>
 
-<div class="post" data-post-id="9880" data-author="12345" data-date="2005-12-20T15:05:44+00:00">
+<div class="post" data-post-id="9880" data-author="12345" data-date="2005-12-20T15:05:44+00:00" data-subject="Re: Druid Classo">
 
 Hello,
 
@@ -32,13 +32,13 @@ Depending how you like to play, you could go either way with it.
 
 </div>
 
-<div class="post" data-post-id="9887" data-author="Avatar" data-date="2005-12-20T19:13:36+00:00">
+<div class="post" data-post-id="9887" data-author="Avatar" data-date="2005-12-20T19:13:36+00:00" data-subject="Re: Druid Classo">
 
 In addition, the Druid/Mage/Cleric/Necro does not get protect.
 
 </div>
 
-<div class="post" data-post-id="9900" data-author="Avatar" data-date="2005-12-21T15:33:33+00:00">
+<div class="post" data-post-id="9900" data-author="Avatar" data-date="2005-12-21T15:33:33+00:00" data-subject="Druid classo">
 
 I've been thinking, and can't really come up with a good druid classo.  In the past, necro was the only class that worked in combination with druid, but no longer.  Cleric probably is the next best synergy, since you can at least armor yourself and get sanctuary.  I'd suggest moving cleric to second class and mage to third.
 
@@ -46,7 +46,7 @@ That is assuming you want to shift.  I'm not even sure that's the case.  Some pe
 
 </div>
 
-<div class="post" data-post-id="9901" data-author="12345" data-date="2005-12-21T17:50:01+00:00">
+<div class="post" data-post-id="9901" data-author="12345" data-date="2005-12-21T17:50:01+00:00" data-subject="Re: Druid classo">
 
 I've been thinking, and can't really come up with a good druid classo.  In the past, necro was the only class that worked in combination with druid, but no longer.  Cleric probably is the next best synergy, since you can at least armor yourself and get sanctuary.  I'd suggest moving cleric to second class and mage to third.
 
@@ -56,7 +56,7 @@ Depends on what you're doing.  If you were making a concept character who solely
 
 </div>
 
-<div class="post" data-post-id="9903" data-author="Hobbes" data-date="2005-12-21T20:07:12+00:00">
+<div class="post" data-post-id="9903" data-author="Hobbes" data-date="2005-12-21T20:07:12+00:00" data-subject="">
 
 Thanks for all the suggestions.  I am leaning towards the Dr/Ma/Cl/Ne.  That is close to max mana for a druid and I won't have to wait forever for sanctuary and other cleric spells.  We'll see how it goes.
 
@@ -64,25 +64,25 @@ One more questions.  Does secondary mage have any benefits over tert and quad?  
 
 </div>
 
-<div class="post" data-post-id="9904" data-author="Alberich" data-date="2005-12-21T20:14:38+00:00">
+<div class="post" data-post-id="9904" data-author="Alberich" data-date="2005-12-21T20:14:38+00:00" data-subject="">
 
 sec mage does have higher spelldam cap than tert-quad, but it's completely redundant in a druid.  If you're going druid prime, make ne second, get wraithform - it's not like you're going to be doing any blasting while shfited.
 
 </div>
 
-<div class="post" data-post-id="9905" data-author="jezer" data-date="2005-12-22T00:00:59+00:00">
+<div class="post" data-post-id="9905" data-author="jezer" data-date="2005-12-22T00:00:59+00:00" data-subject="">
 
 If someone at all has it written down, could they please post the hp's, mana, and moves you gain for levelling all classes in every position. It would be nice to pick a classo and see ur final totals without eq.
 
 </div>
 
-<div class="post" data-post-id="9906" data-author="12345" data-date="2005-12-22T03:13:51+00:00">
+<div class="post" data-post-id="9906" data-author="12345" data-date="2005-12-22T03:13:51+00:00" data-subject="">
 
 It changed depending on what class you have in what position and what your Con is.  I'm also pretty sure it's considered imminfo.
 
 </div>
 
-<div class="post" data-post-id="9909" data-author="madmax" data-date="2005-12-22T13:11:39+00:00">
+<div class="post" data-post-id="9909" data-author="madmax" data-date="2005-12-22T13:11:39+00:00" data-subject="">
 
 If I remember right, it was on the old website in the Library.  Sililar to the table in the Avatar section.
 
@@ -92,7 +92,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="9912" data-author="12345" data-date="2005-12-22T21:16:51+00:00">
+<div class="post" data-post-id="9912" data-author="12345" data-date="2005-12-22T21:16:51+00:00" data-subject="">
 
 If I remember right, it was on the old website in the Library.  Sililar to the table in the Avatar section.
 

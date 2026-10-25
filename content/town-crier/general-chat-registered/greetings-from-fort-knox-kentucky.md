@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="8326" data-author="Blaster" data-date="2005-08-17T01:27:10+00:00">
+<div class="post" data-post-id="8326" data-author="Blaster" data-date="2005-08-17T01:27:10+00:00" data-subject="Greetings from Fort Knox Kentucky">
 
 Hey all,
 
@@ -22,19 +22,19 @@ Blaster
 
 </div>
 
-<div class="post" data-post-id="8327" data-author="Weasel" data-date="2005-08-17T04:12:01+00:00">
+<div class="post" data-post-id="8327" data-author="Weasel" data-date="2005-08-17T04:12:01+00:00" data-subject="">
 
 Fort Knox huh... hmm.. wanna slip me a few dozen bars of that gold bullion they got laying about around the place? I'm sure they wont notice...
 
 </div>
 
-<div class="post" data-post-id="8329" data-author="brand" data-date="2005-08-17T04:21:23+00:00">
+<div class="post" data-post-id="8329" data-author="brand" data-date="2005-08-17T04:21:23+00:00" data-subject="">
 
 hia blaster.
 
 </div>
 
-<div class="post" data-post-id="8330" data-author="13" data-date="2005-08-17T11:46:37+00:00">
+<div class="post" data-post-id="8330" data-author="13" data-date="2005-08-17T11:46:37+00:00" data-subject="">
 
 Knox is mostly tanks from what I remem.  Was stationed at 1/187inf
 
@@ -44,7 +44,7 @@ hoooah!
 
 </div>
 
-<div class="post" data-post-id="8331" data-author="12345" data-date="2005-08-17T12:39:51+00:00">
+<div class="post" data-post-id="8331" data-author="12345" data-date="2005-08-17T12:39:51+00:00" data-subject="">
 
 It's the army's armored (tank) training base.
 

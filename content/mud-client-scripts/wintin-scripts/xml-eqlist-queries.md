@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="12801" data-author="Shiv" data-date="2006-05-30T21:10:44+00:00">
+<div class="post" data-post-id="12801" data-author="Shiv" data-date="2006-05-30T21:10:44+00:00" data-subject="XML eqlist queries">
 
 Hey all,
 
@@ -26,7 +26,7 @@ Thanks,
 
 </div>
 
-<div class="post" data-post-id="12810" data-author="Frobisher" data-date="2006-05-31T15:24:30+00:00">
+<div class="post" data-post-id="12810" data-author="Frobisher" data-date="2006-05-31T15:24:30+00:00" data-subject="">
 
 Here's a script that will work with Wintin 2.x - it needs C# scripting which isn't available in v1.
 
@@ -184,13 +184,13 @@ public class Script : WintinScript
 
 </div>
 
-<div class="post" data-post-id="12811" data-author="12345" data-date="2006-05-31T15:31:41+00:00">
+<div class="post" data-post-id="12811" data-author="12345" data-date="2006-05-31T15:31:41+00:00" data-subject="">
 
 Impressive.
 
 </div>
 
-<div class="post" data-post-id="12814" data-author="Shiv" data-date="2006-05-31T16:50:47+00:00">
+<div class="post" data-post-id="12814" data-author="Shiv" data-date="2006-05-31T16:50:47+00:00" data-subject="Correction to the url line in the script">
 
 It should be
 
@@ -204,7 +204,7 @@ not
 
 </div>
 
-<div class="post" data-post-id="12958" data-author="Shiv" data-date="2006-06-10T13:00:52+00:00">
+<div class="post" data-post-id="12958" data-author="Shiv" data-date="2006-06-10T13:00:52+00:00" data-subject="Just added another xml tool">
 
 Hi everyone,
 
@@ -218,7 +218,7 @@ Once again I'll let somone else write the client-side script for it, but it's a 
 
 </div>
 
-<div class="post" data-post-id="12981" data-author="Avatar" data-date="2006-06-12T13:57:37+00:00">
+<div class="post" data-post-id="12981" data-author="Avatar" data-date="2006-06-12T13:57:37+00:00" data-subject="Eqlist tools">
 
 That's pretty nice, both of the web-based query tools.  
 
@@ -228,19 +228,19 @@ I'll have to think of the benefits, but these new tools create interesting possi
 
 </div>
 
-<div class="post" data-post-id="12987" data-author="Mannu" data-date="2006-06-13T22:49:09+00:00">
+<div class="post" data-post-id="12987" data-author="Mannu" data-date="2006-06-13T22:49:09+00:00" data-subject="eqlist scripts and proxy">
 
 I'd love to use those scripts, but I'm logged on through a socks proxy.  It seems like the connection to the website cannot be made.  Is there a way to make it work with proxy connections?
 
 </div>
 
-<div class="post" data-post-id="32301" data-author="Vekna" data-date="2011-01-09T09:13:00+00:00">
+<div class="post" data-post-id="32301" data-author="Vekna" data-date="2011-01-09T09:13:00+00:00" data-subject="Re: XML eqlist queries">
 
 Hi, immortals! Any chances to return "old" xml interface of eqlist?
 
 </div>
 
-<div class="post" data-post-id="32302" data-author="*Breeze*" data-date="2011-01-09T10:51:37+00:00">
+<div class="post" data-post-id="32302" data-author="*Breeze*" data-date="2011-01-09T10:51:37+00:00" data-subject="Re: XML eqlist queries">
 
 sorry but no time soon because if i do that, 
 
@@ -272,7 +272,7 @@ so you see, not to rant too much but there is really no feasible way to do it at
 
 </div>
 
-<div class="post" data-post-id="32304" data-author="Vekna" data-date="2011-01-09T18:50:05+00:00">
+<div class="post" data-post-id="32304" data-author="Vekna" data-date="2011-01-09T18:50:05+00:00" data-subject="Re: XML eqlist queries">
 
 > ***Benq* wrote:**
 > I would do a complete export weekly or so in xml format which could be downloaded and parsed by the clients but on the old eqlist when i did that people just linked to it directly instead of caching it which caused a ton of traffic since some moron(s) had it automatically look up every item he(they) saw, which downloaded a huge xml file each time..
@@ -281,7 +281,7 @@ It will be great!  :)
 
 </div>
 
-<div class="post" data-post-id="32305" data-author="Tuck" data-date="2011-01-10T18:32:31+00:00">
+<div class="post" data-post-id="32305" data-author="Tuck" data-date="2011-01-10T18:32:31+00:00" data-subject="Re: XML eqlist queries">
 
 > ***Benq* wrote:**
 > I would do a complete export weekly or so in xml format which could be downloaded and parsed by the clients but on the old eqlist when i did that people just linked to it directly instead of caching it which caused a ton of traffic since some moron(s) had it automatically look up every item he(they) saw, which downloaded a huge xml file each time.
@@ -290,7 +290,7 @@ You can ban morons by IP, even make it automatically.
 
 </div>
 
-<div class="post" data-post-id="32306" data-author="*Breeze*" data-date="2011-01-10T18:50:02+00:00">
+<div class="post" data-post-id="32306" data-author="*Breeze*" data-date="2011-01-10T18:50:02+00:00" data-subject="Re: XML eqlist queries">
 
 yeah that would be the first thing i work on before doing the actual output.
 

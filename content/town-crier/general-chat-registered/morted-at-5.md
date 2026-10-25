@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9932" data-author="dt" data-date="2005-12-28T01:18:32+00:00">
+<div class="post" data-post-id="9932" data-author="dt" data-date="2005-12-28T01:18:32+00:00" data-subject="morted at -5">
 
 need someone to help me with a heal or recall/heal asap... my regen isnt strong enough to raise me and straying at -5 while nice from not dying without anyone knowing.. its sucks being 'stuck'
 

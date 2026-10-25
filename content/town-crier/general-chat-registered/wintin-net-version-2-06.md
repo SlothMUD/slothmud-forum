@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="16360" data-author="*Splork*" data-date="2007-01-19T02:21:03+00:00">
+<div class="post" data-post-id="16360" data-author="*Splork*" data-date="2007-01-19T02:21:03+00:00" data-subject="Wintin.NET version 2.06">
 
 A new version of .NET has been released and it consists mostly of bug fixes.
 
@@ -20,13 +20,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="16366" data-author="java" data-date="2007-01-19T14:49:01+00:00">
+<div class="post" data-post-id="16366" data-author="java" data-date="2007-01-19T14:49:01+00:00" data-subject="Wintin 2.06 link">
 
 I could find a link to version 2.06 ?
 
 </div>
 
-<div class="post" data-post-id="16367" data-author="*Splork*" data-date="2007-01-19T15:02:17+00:00">
+<div class="post" data-post-id="16367" data-author="*Splork*" data-date="2007-01-19T15:02:17+00:00" data-subject="">
 
 [www.wintin.org](http://www.wintin.org) - download newest beta version from web on the left hand side of the website.
 
@@ -34,7 +34,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="16501" data-author="*Splork*" data-date="2007-01-24T13:53:05+00:00">
+<div class="post" data-post-id="16501" data-author="*Splork*" data-date="2007-01-24T13:53:05+00:00" data-subject="Wintin.NET version 2.07">
 
 [www.wintin.org](http://www.wintin.org) - download newest beta version from web on the left hand side of the website.
 
@@ -44,7 +44,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="16514" data-author="banedon" data-date="2007-01-24T22:58:12+00:00">
+<div class="post" data-post-id="16514" data-author="banedon" data-date="2007-01-24T22:58:12+00:00" data-subject="update available?">
 
 Is there a file to update previous versions, or will I have to install over my current version?
 
@@ -52,7 +52,7 @@ Banedon
 
 </div>
 
-<div class="post" data-post-id="16518" data-author="*Splork*" data-date="2007-01-24T23:33:08+00:00">
+<div class="post" data-post-id="16518" data-author="*Splork*" data-date="2007-01-24T23:33:08+00:00" data-subject="">
 
 Control panel/add-remove software, remove wintin.net
 
@@ -62,7 +62,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="16627" data-author="*Splork*" data-date="2007-02-02T20:08:25+00:00">
+<div class="post" data-post-id="16627" data-author="*Splork*" data-date="2007-02-02T20:08:25+00:00" data-subject="Wintin.NET benchmark tests">
 
 SOme interesting stats...
 
@@ -138,7 +138,7 @@ host: intel based Linux
 
 </div>
 
-<div class="post" data-post-id="16634" data-author="Weasel" data-date="2007-02-03T02:50:23+00:00">
+<div class="post" data-post-id="16634" data-author="Weasel" data-date="2007-02-03T02:50:23+00:00" data-subject="">
 
 I use MUSHclient :)   it's pretty damn good.
 

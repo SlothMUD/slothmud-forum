@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="29084" data-author="Vixn" data-date="2009-04-30T21:37:22+00:00">
+<div class="post" data-post-id="29084" data-author="Vixn" data-date="2009-04-30T21:37:22+00:00" data-subject="Question about new vault">
 
 list
 
@@ -48,7 +48,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="29085" data-author="*Splork*" data-date="2009-04-30T21:50:07+00:00">
+<div class="post" data-post-id="29085" data-author="*Splork*" data-date="2009-04-30T21:50:07+00:00" data-subject="">
 
 Please report all vaults in the bugs category or give me a tell.
 
@@ -58,7 +58,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29087" data-author="*juggleblood*" data-date="2009-05-01T13:22:24+00:00">
+<div class="post" data-post-id="29087" data-author="*juggleblood*" data-date="2009-05-01T13:22:24+00:00" data-subject="">
 
 be careful not to abuse this cuz anything in there when the vault gets removed will be gone. we'll eventually get to all of them.
 

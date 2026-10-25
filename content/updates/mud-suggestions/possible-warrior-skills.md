@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="2529" data-author="12345" data-date="2004-11-02T15:51:57+00:00">
+<div class="post" data-post-id="2529" data-author="12345" data-date="2004-11-02T15:51:57+00:00" data-subject="Possible Warrior Skills">
 
 Since I'm thinking on weapons....
 
@@ -26,13 +26,13 @@ Something to kick around.  Suggestions/improvements/criticism/flames appreciated
 
 </div>
 
-<div class="post" data-post-id="2546" data-author="Alexdmage" data-date="2004-11-03T08:33:51+00:00">
+<div class="post" data-post-id="2546" data-author="Alexdmage" data-date="2004-11-03T08:33:51+00:00" data-subject="">
 
 Imho, warriors lately are already given some good skills. Time to think about other classes. Your suggestion about two-weapon fighting is not bad, but i would prefer that instead of giving bonuses for not using shield to warriors, our immortals would give them to monks. Just imagining monk using shield and punching enemy with one hand and even making deathgrip one-handed makes me feel sick... How about giving another extra attack to monk w/o shield? Or giving more bonuses for Str and etc, like with warriors two-handed weapon? Tho maybe monks should receive bonuses for Dex instead of Str...
 
 </div>
 
-<div class="post" data-post-id="2547" data-author="Alberich" data-date="2004-11-03T08:52:37+00:00">
+<div class="post" data-post-id="2547" data-author="Alberich" data-date="2004-11-03T08:52:37+00:00" data-subject="">
 
 Imho, warriors lately are already given some good skills. Time to think about other classes. [/quote:1bk37ru3]
 
@@ -52,13 +52,13 @@ dex?  why?  monks roll con first
 
 </div>
 
-<div class="post" data-post-id="2549" data-author="Weasel" data-date="2004-11-03T11:59:37+00:00">
+<div class="post" data-post-id="2549" data-author="Weasel" data-date="2004-11-03T11:59:37+00:00" data-subject="">
 
 nods, and of the few skills warriors have, berserk costs 2.0ac, so the only time a warrior really ever uses this is when in a group and not tanking or even 2.tanking.
 
 </div>
 
-<div class="post" data-post-id="2550" data-author="Alexdmage" data-date="2004-11-03T12:02:48+00:00">
+<div class="post" data-post-id="2550" data-author="Alexdmage" data-date="2004-11-03T12:02:48+00:00" data-subject="">
 
 Hmm, Alberich, I know you are avatar and all, but... No offence taken, ok?
 
@@ -74,7 +74,7 @@ And yes, I think that's it's unrealistic to hold items, wear bunch of eq, wield 
 
 </div>
 
-<div class="post" data-post-id="2551" data-author="Alberich" data-date="2004-11-03T12:15:17+00:00">
+<div class="post" data-post-id="2551" data-author="Alberich" data-date="2004-11-03T12:15:17+00:00" data-subject="">
 
 dex cannot give them +hit, str does :p
 
@@ -82,7 +82,7 @@ it would make more sense to give monks their innate dam reduction bonus based on
 
 </div>
 
-<div class="post" data-post-id="2552" data-author="12345" data-date="2004-11-03T12:49:07+00:00">
+<div class="post" data-post-id="2552" data-author="12345" data-date="2004-11-03T12:49:07+00:00" data-subject="">
 
 Probably eq with hand damage bonuses can make monks attacks very powerfull, but I still think that warrior will deal more. (btw will warrior/monk benefit from berserk and criticals when fighting bare-handed?)[/quote:1a3rhip4]
 
@@ -100,7 +100,7 @@ As far as off handed weapons, it will generally cost a warrior about +1.0/1.1 AC
 
 </div>
 
-<div class="post" data-post-id="2553" data-author="Alexdmage" data-date="2004-11-03T13:23:34+00:00">
+<div class="post" data-post-id="2553" data-author="Alexdmage" data-date="2004-11-03T13:23:34+00:00" data-subject="">
 
 Ppl, my phrase about dex giving +hit was not a statement but suggestion. :)
 
@@ -110,7 +110,7 @@ Just for info: i was testing strike a day before - it deals about 60 damage with
 
 </div>
 
-<div class="post" data-post-id="2555" data-author="12345" data-date="2004-11-03T14:35:42+00:00">
+<div class="post" data-post-id="2555" data-author="12345" data-date="2004-11-03T14:35:42+00:00" data-subject="">
 
 In another regard, it would seem that proc weapons were originally intended for caster types who only get 1 attack per round.  While this isn't a bad idea, it works even better with more attacks.  Encouraging warrior types to use standard weapons, thieves to use backstab weapons, monks to use hands and caster types to use proc weapons + magic actually works to balance things out.  I'm ignoring bards for the moment because I have no idea how they work.
 
@@ -122,7 +122,7 @@ Or not.  Who knows?
 
 </div>
 
-<div class="post" data-post-id="2599" data-author="Altair" data-date="2004-11-05T15:43:24+00:00">
+<div class="post" data-post-id="2599" data-author="Altair" data-date="2004-11-05T15:43:24+00:00" data-subject="">
 
 Nah, proc weapons were created for people who can't blast the ethereal mob the group is fighting. And for when the group is out of mana in that same mob. "Cmon cmon cmon where is a magic missile when you need one!"
 

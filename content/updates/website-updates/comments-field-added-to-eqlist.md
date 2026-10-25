@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="2586" data-author="Enea" data-date="2004-11-05T02:00:28+00:00">
+<div class="post" data-post-id="2586" data-author="Enea" data-date="2004-11-05T02:00:28+00:00" data-subject="Comments field added to eqlist">
 
 The eqlist now has a 'comments' field for each eq type.  To add a comment to an existing item, email it to <A href='mailto:blackmore@surly.org'>Blackmore</A>.  To add a comment to a new item, it's just a field in the submission form.
 
@@ -22,7 +22,7 @@ Thanks for the idea Annie & Shyla :)
 
 </div>
 
-<div class="post" data-post-id="2587" data-author="Shyla" data-date="2004-11-05T02:23:50+00:00">
+<div class="post" data-post-id="2587" data-author="Shyla" data-date="2004-11-05T02:23:50+00:00" data-subject="">
 
 Just to let people know this was suggested so that we could make comments about clasps in particular.  For instance Iolite is listed under high and low but can only be used on one or the other...this way we can put under comments High OR low not both to let people know.
 
@@ -34,7 +34,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="2598" data-author="guest" data-date="2004-11-05T15:36:01+00:00">
+<div class="post" data-post-id="2598" data-author="guest" data-date="2004-11-05T15:36:01+00:00" data-subject="">
 
 It could be used for stuff that for example shows as "treasure" or "component" and has no known use. If a use ever becomes known, the comment gets taken out.
 

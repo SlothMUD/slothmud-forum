@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34084" data-author="*juggleblood*" data-date="2013-02-23T22:11:35+00:00">
+<div class="post" data-post-id="34084" data-author="*juggleblood*" data-date="2013-02-23T22:11:35+00:00" data-subject="Yali swipe">
 
 Yali swipe does more damage now for less mana. 
 
@@ -20,7 +20,7 @@ And there is a different killing blow msg for every species of mob.
 
 </div>
 
-<div class="post" data-post-id="34086" data-author="Ker" data-date="2013-02-24T20:31:58+00:00">
+<div class="post" data-post-id="34086" data-author="Ker" data-date="2013-02-24T20:31:58+00:00" data-subject="Re: Yali swipe">
 
 Ohm :) thx Jb.
 
@@ -28,7 +28,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="34091" data-author="*juggleblood*" data-date="2013-02-26T10:54:05+00:00">
+<div class="post" data-post-id="34091" data-author="*juggleblood*" data-date="2013-02-26T10:54:05+00:00" data-subject="Re: Yali swipe">
 
 I tweaked the owlbears swipe as well slightly.
 

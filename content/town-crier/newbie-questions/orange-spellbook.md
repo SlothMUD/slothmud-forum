@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="7785" data-author="fowlon" data-date="2005-07-08T12:15:49+00:00">
+<div class="post" data-post-id="7785" data-author="fowlon" data-date="2005-07-08T12:15:49+00:00" data-subject="Orange spellbook">
 
 Hello,
 
@@ -28,7 +28,7 @@ Thank you
 
 </div>
 
-<div class="post" data-post-id="7786" data-author="Deju" data-date="2005-07-08T12:30:09+00:00">
+<div class="post" data-post-id="7786" data-author="Deju" data-date="2005-07-08T12:30:09+00:00" data-subject="">
 
 Items arent on the mob each time you kill them.  Sometimes you have to kill them, wait for the mob to reset, then kill them again and repeat.... this is commonly referred to as 'cycling' a mob.
 
@@ -40,13 +40,13 @@ Just keep killing the stone fish, he will come up with your book sooner or later
 
 </div>
 
-<div class="post" data-post-id="7787" data-author="12345" data-date="2005-07-08T12:35:12+00:00">
+<div class="post" data-post-id="7787" data-author="12345" data-date="2005-07-08T12:35:12+00:00" data-subject="">
 
 I think the worst I've heard (commonly) for the fish is 10 kills for a pop.  Seems to pop closer to 1 in 3 for me.
 
 </div>
 
-<div class="post" data-post-id="7790" data-author="fowlon" data-date="2005-07-08T16:02:05+00:00">
+<div class="post" data-post-id="7790" data-author="fowlon" data-date="2005-07-08T16:02:05+00:00" data-subject="">
 
 mine was 2/1 what a chane thanks a lot :)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 29
 ---
 
-<div class="post" data-post-id="10251" data-author="Avatar" data-date="2006-01-21T02:15:48+00:00">
+<div class="post" data-post-id="10251" data-author="Avatar" data-date="2006-01-21T02:15:48+00:00" data-subject="Stupidest thing I&#x27;ve seen in a long time">
 
 I'm sure others have seen it already, but I just saw it tonight for the first time.  So, of course I shift and blast blast blast, but when the fight is over there's no spellbook.  I guess it's another example of a game making 'sense' but in the process it's less fun than chopping off your fingers one knuckle at a time.  Are spellbooks just not rare enough around here?
 
@@ -20,25 +20,25 @@ Anyway, it's quite disappointing to find that my abilities to solo might also de
 
 </div>
 
-<div class="post" data-post-id="10252" data-author="Leaf" data-date="2006-01-21T02:40:04+00:00">
+<div class="post" data-post-id="10252" data-author="Leaf" data-date="2006-01-21T02:40:04+00:00" data-subject="">
 
 I just rerolled a 17 18 15 18 15 th/ba!
 
 </div>
 
-<div class="post" data-post-id="10253" data-author="Avatar" data-date="2006-01-21T02:49:06+00:00">
+<div class="post" data-post-id="10253" data-author="Avatar" data-date="2006-01-21T02:49:06+00:00" data-subject="Reroll">
 
 That's your fault for making a Th/Ba.  What were you thinking?!
 
 </div>
 
-<div class="post" data-post-id="10254" data-author="12345" data-date="2006-01-21T06:00:37+00:00">
+<div class="post" data-post-id="10254" data-author="12345" data-date="2006-01-21T06:00:37+00:00" data-subject="">
 
 Er... Th/Ba is a very good combo.  Tough to roll, cool to play.
 
 </div>
 
-<div class="post" data-post-id="10263" data-author="Roadrunr" data-date="2006-01-21T22:03:36+00:00">
+<div class="post" data-post-id="10263" data-author="Roadrunr" data-date="2006-01-21T22:03:36+00:00" data-subject="">
 
 Nice roll, whether its a decent classo could depend on the other two classes though.  Thats all I'm gonna say about rolls...
 
@@ -46,7 +46,7 @@ Oh yeah...and get off the crack!  10mil for an ashen?  Last pair I forged took a
 
 </div>
 
-<div class="post" data-post-id="10264" data-author="Grue" data-date="2006-01-21T23:23:02+00:00">
+<div class="post" data-post-id="10264" data-author="Grue" data-date="2006-01-21T23:23:02+00:00" data-subject="">
 
 Reading this thread is liking having a conversation with my mother-in-law. We'll be talking about politics and she'll suddenly state, as though it's completely on-theme, "You know I really hate the way that the the next door neighbors dog keeps going through our garbage tins!".
 
@@ -54,25 +54,25 @@ How did we get from spells burning books to someone stats, and how did we get fr
 
 </div>
 
-<div class="post" data-post-id="10269" data-author="Mace" data-date="2006-01-22T01:36:40+00:00">
+<div class="post" data-post-id="10269" data-author="Mace" data-date="2006-01-22T01:36:40+00:00" data-subject="">
 
 Well clearly, breath weapons destroying stuff caused Leaf to delete any and all druid characters because of such an incredibly annoying feature and started a new th/ba.  Then.. um.. oh yeah, he was looking into the future for +dam equipment and thus needed to buy some ashen bracelets.  And now, for something completely different:
 
 </div>
 
-<div class="post" data-post-id="10280" data-author="dt" data-date="2006-01-22T03:22:54+00:00">
+<div class="post" data-post-id="10280" data-author="dt" data-date="2006-01-22T03:22:54+00:00" data-subject="That canary in the cage is dead!!!">
 
 You sold me a dead bird.. I want my money back!!! :twisted:
 
 </div>
 
-<div class="post" data-post-id="10282" data-author="12345" data-date="2006-01-22T03:31:36+00:00">
+<div class="post" data-post-id="10282" data-author="12345" data-date="2006-01-22T03:31:36+00:00" data-subject="">
 
 It's not dead! Just.... afk....
 
 </div>
 
-<div class="post" data-post-id="10324" data-author="Avatar" data-date="2006-01-25T00:55:22+00:00">
+<div class="post" data-post-id="10324" data-author="Avatar" data-date="2006-01-25T00:55:22+00:00" data-subject="Destroyed items">
 
 So this dragon breath can destroy more than just spellbooks?
 
@@ -82,7 +82,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="10326" data-author="Medios" data-date="2006-01-25T05:55:48+00:00">
+<div class="post" data-post-id="10326" data-author="Medios" data-date="2006-01-25T05:55:48+00:00" data-subject="Shapeshift bugs">
 
 Daedalus lost half her eq tonight due to a bug while shifted.  Something about putting on a robe while she was shifted and it poofing.  Its about 1145 cst.  Can anyone look at this?
 
@@ -90,7 +90,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="10375" data-author="daedalus" data-date="2006-01-28T17:16:22+00:00">
+<div class="post" data-post-id="10375" data-author="daedalus" data-date="2006-01-28T17:16:22+00:00" data-subject="Shapeshift bug cont.">
 
 I was just wondering if there is anything extra that i could do to get my eq back from this bug.  It has been almost four days without a single reply.  I was also concerned about  how long it would take for me to get this solved.  I would hope someone would atleast try to acknowledge this problem. 
 
@@ -100,7 +100,7 @@ PS. If someone needs to find me i also play kail.
 
 </div>
 
-<div class="post" data-post-id="10380" data-author="brady" data-date="2006-01-29T01:34:20+00:00">
+<div class="post" data-post-id="10380" data-author="brady" data-date="2006-01-29T01:34:20+00:00" data-subject="">
 
 I lost a battered suitcase loaded with months and months of cps, eq, decanter, yadda, yadda, yadda.  Could it have been stolen?  Maybe, but not likely.  It had corpses and at least a hundred items of varying weights.  I'm not sure if this is related to the druid bug but was I the only one not aware that aggressive spells have a chance of blowing up eq (while unshifted)?
 
@@ -112,7 +112,7 @@ One more thing.  If this bug is not a bug at all but an intentional adjustment t
 
 </div>
 
-<div class="post" data-post-id="10381" data-author="*Splork*" data-date="2006-01-29T01:39:41+00:00">
+<div class="post" data-post-id="10381" data-author="*Splork*" data-date="2006-01-29T01:39:41+00:00" data-subject="">
 
 You may ignore Brady's post for two reasons; 1) His suitcase was stolen so he was bitching about the entire wrong thing. 2) Acid shower has never destroyed eq, we are talking about druid forms and dragon breathes...
 
@@ -134,7 +134,7 @@ Btw, the hostility results from:
 
 </div>
 
-<div class="post" data-post-id="10382" data-author="*Splork*" data-date="2006-01-29T01:45:38+00:00">
+<div class="post" data-post-id="10382" data-author="*Splork*" data-date="2006-01-29T01:45:38+00:00" data-subject="">
 
 Oh yeah, I've reiumbursed Daedalus earlier today for this druid bug. I am sure Kjartan is looking into the reason's for it...
 
@@ -144,13 +144,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="10384" data-author="brady" data-date="2006-01-29T01:58:50+00:00">
+<div class="post" data-post-id="10384" data-author="brady" data-date="2006-01-29T01:58:50+00:00" data-subject="">
 
 That's funny.  Your post said acids.  Cheers, love to the family.
 
 </div>
 
-<div class="post" data-post-id="10385" data-author="*Splork*" data-date="2006-01-29T02:01:54+00:00">
+<div class="post" data-post-id="10385" data-author="*Splork*" data-date="2006-01-29T02:01:54+00:00" data-subject="">
 
 My dog appreciates the love...
 
@@ -162,31 +162,31 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="10386" data-author="brady" data-date="2006-01-29T02:04:27+00:00">
+<div class="post" data-post-id="10386" data-author="brady" data-date="2006-01-29T02:04:27+00:00" data-subject="">
 
 I thought we were talking about dragon breath.  Oh look now, I'm all confused.  There was one post, no thread.  It's gone now.
 
 </div>
 
-<div class="post" data-post-id="10388" data-author="Leaf" data-date="2006-01-29T04:00:26+00:00">
+<div class="post" data-post-id="10388" data-author="Leaf" data-date="2006-01-29T04:00:26+00:00" data-subject="">
 
 Sooo how did a Bug ended up in this post???
 
 </div>
 
-<div class="post" data-post-id="10389" data-author="Mustang" data-date="2006-01-29T05:21:30+00:00">
+<div class="post" data-post-id="10389" data-author="Mustang" data-date="2006-01-29T05:21:30+00:00" data-subject="">
 
 the bug crawled out of your arse
 
 </div>
 
-<div class="post" data-post-id="10390" data-author="Leaf" data-date="2006-01-29T05:32:06+00:00">
+<div class="post" data-post-id="10390" data-author="Leaf" data-date="2006-01-29T05:32:06+00:00" data-subject="">
 
 Thats it AARON UR DEAD!!!
 
 </div>
 
-<div class="post" data-post-id="10391" data-author="Grue" data-date="2006-01-29T07:33:39+00:00">
+<div class="post" data-post-id="10391" data-author="Grue" data-date="2006-01-29T07:33:39+00:00" data-subject="">
 
 Brady,
 
@@ -196,19 +196,19 @@ Compared to all that I think Splork has actually been pretty reasonable. How abo
 
 </div>
 
-<div class="post" data-post-id="10392" data-author="Guinex" data-date="2006-01-29T08:49:56+00:00">
+<div class="post" data-post-id="10392" data-author="Guinex" data-date="2006-01-29T08:49:56+00:00" data-subject="">
 
 Shit happens blah blah blah, give the man a couple days to recoup.  Why troll on this?  Hell even makes my veins bubble.
 
 </div>
 
-<div class="post" data-post-id="10401" data-author="Gnu" data-date="2006-01-29T12:50:32+00:00">
+<div class="post" data-post-id="10401" data-author="Gnu" data-date="2006-01-29T12:50:32+00:00" data-subject="">
 
 Don't touch Brady! I'll see what will you do when you loose half of your eq due to the unknown reason...
 
 </div>
 
-<div class="post" data-post-id="10402" data-author="*Splork*" data-date="2006-01-29T13:27:56+00:00">
+<div class="post" data-post-id="10402" data-author="*Splork*" data-date="2006-01-29T13:27:56+00:00" data-subject="">
 
 Nods, let Brady be. It definately sucks to lose half of your eq... It's happened to me before and he handled it quite a bit better than I did.
 
@@ -218,13 +218,13 @@ Splork :twisted:
 
 </div>
 
-<div class="post" data-post-id="10403" data-author="Autolycos" data-date="2006-01-29T13:46:30+00:00">
+<div class="post" data-post-id="10403" data-author="Autolycos" data-date="2006-01-29T13:46:30+00:00" data-subject="">
 
 who the phuQ is grue?  and dont you have some toilet stalls to clean?  *cracks whip*
 
 </div>
 
-<div class="post" data-post-id="10404" data-author="dt" data-date="2006-01-29T14:35:39+00:00">
+<div class="post" data-post-id="10404" data-author="dt" data-date="2006-01-29T14:35:39+00:00" data-subject="Direct Movie Quote">
 
 In response to Autobot's response to who is Grue?
 
@@ -234,7 +234,7 @@ Glad I could help. :twisted:
 
 </div>
 
-<div class="post" data-post-id="10406" data-author="brady" data-date="2006-01-29T19:25:44+00:00">
+<div class="post" data-post-id="10406" data-author="brady" data-date="2006-01-29T19:25:44+00:00" data-subject="">
 
 I didn't accuse, I speculated (incorrectly it seems).  All I wanted was information and instead, well....
 
@@ -242,7 +242,7 @@ Splork, I appreciate your last post.  Grue, go fuck yourself.
 
 </div>
 
-<div class="post" data-post-id="10410" data-author="brady" data-date="2006-01-29T19:59:44+00:00">
+<div class="post" data-post-id="10410" data-author="brady" data-date="2006-01-29T19:59:44+00:00" data-subject="">
 
 I've been censored!!  *cackle*
 

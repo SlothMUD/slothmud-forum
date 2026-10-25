@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="28981" data-author="*Splork*" data-date="2009-04-19T11:52:57+00:00">
+<div class="post" data-post-id="28981" data-author="*Splork*" data-date="2009-04-19T11:52:57+00:00" data-subject="Milestones">
 
 Milestone rewards will work like the following;
 
@@ -32,7 +32,7 @@ Grats to Godmode on getting the very first quest item in SlothMUD!
 
 </div>
 
-<div class="post" data-post-id="28982" data-author="Rigwarl" data-date="2009-04-19T12:02:49+00:00">
+<div class="post" data-post-id="28982" data-author="Rigwarl" data-date="2009-04-19T12:02:49+00:00" data-subject="">
 
 Well would this imply that the first person to avatar 40 would get the best eq?
 
@@ -40,7 +40,7 @@ And the others who came before them are all outta luck? :>
 
 </div>
 
-<div class="post" data-post-id="28983" data-author="Brujah" data-date="2009-04-19T12:12:21+00:00">
+<div class="post" data-post-id="28983" data-author="Brujah" data-date="2009-04-19T12:12:21+00:00" data-subject="Cloak of the great lords...It has a soft glowing aura!">
 
 You recite a scroll of identify which dissolves.
 
@@ -66,7 +66,7 @@ item.
 
 </div>
 
-<div class="post" data-post-id="28984" data-author="Vixn" data-date="2009-04-19T13:04:37+00:00">
+<div class="post" data-post-id="28984" data-author="Vixn" data-date="2009-04-19T13:04:37+00:00" data-subject="">
 
 Great! Congratulations Godmode!
 
@@ -74,7 +74,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="28992" data-author="Thraxas" data-date="2009-04-20T17:18:34+00:00">
+<div class="post" data-post-id="28992" data-author="Thraxas" data-date="2009-04-20T17:18:34+00:00" data-subject="">
 
 Congrats Godmode
 
@@ -84,7 +84,7 @@ was tehre a prize for first login / first kill / first death? just interested.
 
 </div>
 
-<div class="post" data-post-id="28993" data-author="Toxis" data-date="2009-04-20T17:45:38+00:00">
+<div class="post" data-post-id="28993" data-author="Toxis" data-date="2009-04-20T17:45:38+00:00" data-subject="">
 
 I was the first to sanc someone. :)~
 
@@ -92,13 +92,13 @@ I was the first to sanc someone. :)~
 
 </div>
 
-<div class="post" data-post-id="28998" data-author="Sind" data-date="2009-04-21T19:02:53+00:00">
+<div class="post" data-post-id="28998" data-author="Sind" data-date="2009-04-21T19:02:53+00:00" data-subject="">
 
 i was first lvl2 :) gimme nekodes plx
 
 </div>
 
-<div class="post" data-post-id="29056" data-author="Clink" data-date="2009-04-25T21:02:27+00:00">
+<div class="post" data-post-id="29056" data-author="Clink" data-date="2009-04-25T21:02:27+00:00" data-subject="">
 
 If someone made it first to more than one milestone, we'd probably let them trade up and put their other item back in the queue for the second person to get the milestone.  We won't get more complicated with passing other stuff down to third and fourth places, etc.
 
@@ -108,7 +108,7 @@ And the others who came before them are all outta luck? :>[/quote:3w4rl2ka]
 
 </div>
 
-<div class="post" data-post-id="29061" data-author="*Splork*" data-date="2009-04-26T13:53:14+00:00">
+<div class="post" data-post-id="29061" data-author="*Splork*" data-date="2009-04-26T13:53:14+00:00" data-subject="">
 
 The items arent going to get progressively better with each milestone. We are giving out basic max_stat items for each milestone. The items depend on your class.
 

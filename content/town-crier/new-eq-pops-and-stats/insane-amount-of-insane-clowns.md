@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="24376" data-author="Stryx" data-date="2008-05-17T18:55:26+00:00">
+<div class="post" data-post-id="24376" data-author="Stryx" data-date="2008-05-17T18:55:26+00:00" data-subject="Insane amount of Insane clowns">
 
 <439hp 109ma 120mv -+ Fraternal Order of Clowns +-+ Vk +- +8 >
 
@@ -188,7 +188,7 @@ And yes, I fled like a coward.
 
 </div>
 
-<div class="post" data-post-id="24377" data-author="*juggleblood*" data-date="2008-05-17T21:43:00+00:00">
+<div class="post" data-post-id="24377" data-author="*juggleblood*" data-date="2008-05-17T21:43:00+00:00" data-subject="">
 
 cuz people were killin him and leaving the ghosts
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3135" data-author="Aleczander" data-date="2004-12-03T12:16:06+00:00">
+<div class="post" data-post-id="3135" data-author="Aleczander" data-date="2004-12-03T12:16:06+00:00" data-subject="Bug with natures familiar">
 
 When I tried to summon a treant and already had a ghost via summon undead, it told me:
 

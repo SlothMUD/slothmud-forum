@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36398" data-author="*juggleblood*" data-date="2015-12-30T16:02:24+00:00">
+<div class="post" data-post-id="36398" data-author="*juggleblood*" data-date="2015-12-30T16:02:24+00:00" data-subject="Rhodo Rune Trade for Dragonlord Greaves">
 
 Announcing a new trade: Greaves of the Dragonlords, .5 AC, *shapeshift, 8x40 / supreme druid restricted
 

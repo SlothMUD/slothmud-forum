@@ -10,7 +10,7 @@ locked: false
 post_count: 24
 ---
 
-<div class="post" data-post-id="32272" data-author="*Chobbs*" data-date="2011-01-07T04:09:52+00:00">
+<div class="post" data-post-id="32272" data-author="*Chobbs*" data-date="2011-01-07T04:09:52+00:00" data-subject="Thinking!">
 
 Mornin' folks,
 
@@ -46,7 +46,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32273" data-author="jezer" data-date="2011-01-07T04:51:56+00:00">
+<div class="post" data-post-id="32273" data-author="jezer" data-date="2011-01-07T04:51:56+00:00" data-subject="Re: Thinking!">
 
 I had so many sarcastic replies that would be censored  :cry: 
 
@@ -58,7 +58,7 @@ What ever happened to putting more drachma in, druid pets, and the map thing Isa
 
 </div>
 
-<div class="post" data-post-id="32274" data-author="*Chobbs*" data-date="2011-01-07T05:39:36+00:00">
+<div class="post" data-post-id="32274" data-author="*Chobbs*" data-date="2011-01-07T05:39:36+00:00" data-subject="Re: Thinking!">
 
 Mornin' Jezer,
 
@@ -86,7 +86,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32275" data-author="jezer" data-date="2011-01-07T06:53:19+00:00">
+<div class="post" data-post-id="32275" data-author="jezer" data-date="2011-01-07T06:53:19+00:00" data-subject="Re: Thinking!">
 
 My apologies, I neglected to see that you only wanted ideas you like, from people you like. My bad.
 
@@ -100,7 +100,7 @@ I'm sure your think of something fairly good.
 
 </div>
 
-<div class="post" data-post-id="32276" data-author="*Splork*" data-date="2011-01-07T07:17:16+00:00">
+<div class="post" data-post-id="32276" data-author="*Splork*" data-date="2011-01-07T07:17:16+00:00" data-subject="Re: Thinking!">
 
 Seriously, why even bother down this route? Chobbs kindly asked for suggestions and sure enough, one of our inactive players responds  with the type of bullshit which drives the active Immortals away. Either way, if you have nothing to contribute to the thread in hand, maybe its time to to stop trolling and get back to climbing mount Everest for the 100th time.
 
@@ -108,7 +108,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32277" data-author="jezer" data-date="2011-01-07T07:34:30+00:00">
+<div class="post" data-post-id="32277" data-author="jezer" data-date="2011-01-07T07:34:30+00:00" data-subject="Re: Thinking!">
 
 > ***Splork* wrote:**
 > Seriously, why even bother down this route? Chobbs kindly asked for suggestions and sure enough, one of our inactive players responds  with the type of bullshit which drives the active Immortals away. Either way, if you have nothing to contribute to the thread in hand, maybe its time to to stop trolling and get back to climbing mount Everest for the 100th time.
@@ -121,7 +121,7 @@ I've put forward two ideas Splork, the players have noted, and out you come like
 
 </div>
 
-<div class="post" data-post-id="32279" data-author="Filk" data-date="2011-01-07T09:23:40+00:00">
+<div class="post" data-post-id="32279" data-author="Filk" data-date="2011-01-07T09:23:40+00:00" data-subject="Re: Thinking!">
 
 I can say for druids. Some things that annoying me.
 
@@ -137,7 +137,7 @@ Thanks for attention :)
 
 </div>
 
-<div class="post" data-post-id="32280" data-author="Thraxas" data-date="2011-01-07T09:33:53+00:00">
+<div class="post" data-post-id="32280" data-author="Thraxas" data-date="2011-01-07T09:33:53+00:00" data-subject="Re: Thinking!">
 
 Ok, what keeps me coming back for more? To put it in a nutshell the sense of progression and development.
 
@@ -157,7 +157,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="32281" data-author="jezer" data-date="2011-01-07T09:42:38+00:00">
+<div class="post" data-post-id="32281" data-author="jezer" data-date="2011-01-07T09:42:38+00:00" data-subject="Re: Thinking!">
 
 Agree Thraxas.
 
@@ -201,7 +201,7 @@ Fluffy... As hard as it is to get some of these items, maintaining form is actua
 
 </div>
 
-<div class="post" data-post-id="32282" data-author="Filk" data-date="2011-01-07T10:00:55+00:00">
+<div class="post" data-post-id="32282" data-author="Filk" data-date="2011-01-07T10:00:55+00:00" data-subject="Re: Thinking!">
 
 > **jezer wrote:**
 > Agree Thraxas.
@@ -214,7 +214,7 @@ I doubt you understand the question now. I guess thats your eq at sloth3 5x40.  
 
 </div>
 
-<div class="post" data-post-id="32283" data-author="Atwell" data-date="2011-01-07T10:06:30+00:00">
+<div class="post" data-post-id="32283" data-author="Atwell" data-date="2011-01-07T10:06:30+00:00" data-subject="Re: Thinking!">
 
 What made SlothMUD III "fun"?  For me, it was discoveries of emergent behavior.  You can't create emergence intentionally (or it ceases to be emergent).  If you create enough abilities that do strange things, you'll generally hit it eventually, but that's a tedious approach.  I also enjoyed identifying corner cases of equipment significance.  Like finding the lightest magefour ioun.  I collected as many containers as possible and enjoyed that considerably.  The engineer in me would have preferred an eqlist that covered those parameters, but it was also kind of fun having to pop stuff to find out what eqlist did not say.  Attempting minimalism was fun, too: "How cheaply can I kill this mob/clear this area?"  "How few people can take down $BIGMOB within 30 minutes?"
 
@@ -222,7 +222,7 @@ Note that I played SlothMUD III, not because it was fun per above, but because o
 
 </div>
 
-<div class="post" data-post-id="32284" data-author="jezer" data-date="2011-01-07T10:08:22+00:00">
+<div class="post" data-post-id="32284" data-author="jezer" data-date="2011-01-07T10:08:22+00:00" data-subject="Re: Thinking!">
 
 > **Filk wrote:**
 > > **jezer wrote:**
@@ -240,7 +240,7 @@ You also get +mana regen which shifts for avatar levels. It's true, the power do
 
 </div>
 
-<div class="post" data-post-id="32286" data-author="*juggleblood*" data-date="2011-01-07T11:13:56+00:00">
+<div class="post" data-post-id="32286" data-author="*juggleblood*" data-date="2011-01-07T11:13:56+00:00" data-subject="Re: Thinking!">
 
 Chobbs I love your humor. This thread gave me a big smile.
 
@@ -252,7 +252,7 @@ It'd be neat to see some kindof weeklong event that was automated that had multi
 
 </div>
 
-<div class="post" data-post-id="32287" data-author="Thraxas" data-date="2011-01-07T14:02:10+00:00">
+<div class="post" data-post-id="32287" data-author="Thraxas" data-date="2011-01-07T14:02:10+00:00" data-subject="Re: Thinking!">
 
 What makes Sloth fun? well what makes any mud fun or for that matter attract players?
 
@@ -296,7 +296,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="32288" data-author="norks" data-date="2011-01-07T14:43:20+00:00">
+<div class="post" data-post-id="32288" data-author="norks" data-date="2011-01-07T14:43:20+00:00" data-subject="Re: Thinking!">
 
 Hi Chobbs
 
@@ -314,7 +314,7 @@ Norks
 
 </div>
 
-<div class="post" data-post-id="32290" data-author="Shyla" data-date="2011-01-07T15:24:49+00:00">
+<div class="post" data-post-id="32290" data-author="Shyla" data-date="2011-01-07T15:24:49+00:00" data-subject="Re: Thinking!">
 
 I know this might not be what you are looking for but I want to see more quests like the blaster toy box quest or the enea statue quest.  They used to do these scatter quests where they would scatter parts and when you got the whole set you could trade it in for drachma and it was done from time to time. Enea even made it so he could repeat it when he felt like it and not have to be on.  Once he started it he would leave and his guy would be there to give the drachma until the mud crashed/reset.  These were a ton of fun because you would have them scattered all over the place and people would say i have an eye i need a leg anyone have a leg. and the whole mud would get involved and help each other out.  The drachma scatters they do now are so freaking boring I don't care how much I want drachma it isn't worth it.  Someone got the bright idea you shouldn't be able to locate the drachma tokens which for me took all the fun out of it.  Heck half the reason I learned the mud was to try to figure out where that room was that had the drachma token.  Now they have people just mindlessly wandering around.  I would like to see more fun stuff implemented with drachma again. 
 
@@ -326,7 +326,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="32291" data-author="blackmore" data-date="2011-01-07T16:02:05+00:00">
+<div class="post" data-post-id="32291" data-author="blackmore" data-date="2011-01-07T16:02:05+00:00" data-subject="Re: Thinking!">
 
 I like most that I can log in, put the game in a corner of my screen, and afk as long or as short as I like, then play for as long as I like in between afking.  Seeing as how you probably have no projects that are going to affect these, I'll focus on game play.
 
@@ -338,7 +338,7 @@ The other thing I like to do is find eq that nobody else has found before.  It g
 
 </div>
 
-<div class="post" data-post-id="32292" data-author="Shyla" data-date="2011-01-07T17:00:12+00:00">
+<div class="post" data-post-id="32292" data-author="Shyla" data-date="2011-01-07T17:00:12+00:00" data-subject="Re: Thinking!">
 
 you know what i like what blackmore said about eq. It would be nice if every so often something is posted almost like a quest that i have heard rumors of such and such and give people a reson to try new mobs in new areas ..we have often been told how there is eq out there that no one has found yet we will waste months cycling a mob only to never have anything pop and no idea if the mob even pops anything.
 
@@ -346,7 +346,7 @@ SHYLA
 
 </div>
 
-<div class="post" data-post-id="32294" data-author="*juggleblood*" data-date="2011-01-07T17:37:36+00:00">
+<div class="post" data-post-id="32294" data-author="*juggleblood*" data-date="2011-01-07T17:37:36+00:00" data-subject="Re: Thinking!">
 
 Showing my ignorance here, but how well does wealth and glory work with regard to finding eq pops?
 
@@ -356,13 +356,13 @@ Also how do you go about finding new forges when a new zone goes in? Query mob a
 
 </div>
 
-<div class="post" data-post-id="32295" data-author="Dragoth" data-date="2011-01-07T18:26:47+00:00">
+<div class="post" data-post-id="32295" data-author="Dragoth" data-date="2011-01-07T18:26:47+00:00" data-subject="Re: Thinking!">
 
 I remember trying to locate a heart of a sheolian with wealth and glory with a level 3x40 bard with nearly capped charisma.  We knew the exact name and knew the area where it popped but didnt know who exactly it was that popped it. We spend 3 days and a few hours each day trying to sing wealth and glory and in the end we just gave up.  That skill needs a slight boost for sure.
 
 </div>
 
-<div class="post" data-post-id="32296" data-author="blackmore" data-date="2011-01-07T18:50:48+00:00">
+<div class="post" data-post-id="32296" data-author="blackmore" data-date="2011-01-07T18:50:48+00:00" data-subject="Re: Thinking!">
 
 W&G requires at least 2 keywords.  Bard primes can use up to 5 or so keywords.  The odds don't seem to increase, it just gives you more combinations to try.  Each distinct combination of keywords can be sung once to a mob each reboot/crash, or you can kill/sing on respawn.
 
@@ -370,7 +370,7 @@ The odds of getting an exact area or mob is extremely low.  It works best when y
 
 </div>
 
-<div class="post" data-post-id="32297" data-author="*Chobbs*" data-date="2011-01-08T02:21:06+00:00">
+<div class="post" data-post-id="32297" data-author="*Chobbs*" data-date="2011-01-08T02:21:06+00:00" data-subject="Re: Thinking!">
 
 Mornin' folks,
 
@@ -440,7 +440,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32298" data-author="Filk" data-date="2011-01-08T06:56:46+00:00">
+<div class="post" data-post-id="32298" data-author="Filk" data-date="2011-01-08T06:56:46+00:00" data-subject="Re: Thinking!">
 
 > ***Chobbs* wrote:**
 > @filk
@@ -461,7 +461,7 @@ Btw, we still lacking reworked eq list. Just small addition, that shows what can
 
 </div>
 
-<div class="post" data-post-id="32299" data-author="*Breeze*" data-date="2011-01-08T11:02:20+00:00">
+<div class="post" data-post-id="32299" data-author="*Breeze*" data-date="2011-01-08T11:02:20+00:00" data-subject="Re: Thinking!">
 
 You have no idea on the structure of the DB or the eqlist code so you cant comment on the difficulty of adding to it
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35518" data-author="*juggleblood*" data-date="2014-11-28T14:53:28+00:00">
+<div class="post" data-post-id="35518" data-author="*juggleblood*" data-date="2014-11-28T14:53:28+00:00" data-subject="The Spire of Good and Evil - *Opener Quest*">
 
 Quest! 
 
@@ -40,7 +40,7 @@ Say a prayer for my link and pls submit errors and suggestions using the bugs / 
 
 </div>
 
-<div class="post" data-post-id="35519" data-author="Magi" data-date="2014-11-29T07:36:21+00:00">
+<div class="post" data-post-id="35519" data-author="Magi" data-date="2014-11-29T07:36:21+00:00" data-subject="Re: The Spire of Good and Evil - *Opener Quest*">
 
 Great new lyme area opened tonight.  There's some autoquests, some interesting new eq, and at least one forge.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26749" data-author="Judge" data-date="2008-10-17T19:59:00+00:00">
+<div class="post" data-post-id="26749" data-author="Judge" data-date="2008-10-17T19:59:00+00:00" data-subject="New Spell: Echolocation">
 
 "ECHOLOCATION"
 

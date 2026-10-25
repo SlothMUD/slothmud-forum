@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="39739" data-author="Driven" data-date="2021-06-21T22:13:50+00:00">
+<div class="post" data-post-id="39739" data-author="Driven" data-date="2021-06-21T22:13:50+00:00" data-subject="The Spirit of Conquest">
 
 Ladies and gentlemen, we offer you the Spirit of Conquest.  We will be rebooting the mud this afternoon to allow the code to go live, and the mud will need to be wizlocked for 30 minutes or so to get the Spirit of Conquest setup properly, as the commands required will lag the entire mud.  Fortunately this only needs to occur once, so once the object is properly initialized, we will release the wizlock and the conquest will begin.  
 
@@ -22,13 +22,13 @@ Because I think discovery is more fun than being told everything, I'll leave it 
 
 </div>
 
-<div class="post" data-post-id="39740" data-author="Driven" data-date="2021-06-22T02:25:39+00:00">
+<div class="post" data-post-id="39740" data-author="Driven" data-date="2021-06-22T02:25:39+00:00" data-subject="Re: The Spirit of Conquest">
 
 There are indeed some bugs lurking with renting that we never saw on the test port.  I will debug tomorrow, so don't spend too much effort on this until this gets ironed out.
 
 </div>
 
-<div class="post" data-post-id="39742" data-author="Driven" data-date="2021-06-24T14:17:57+00:00">
+<div class="post" data-post-id="39742" data-author="Driven" data-date="2021-06-24T14:17:57+00:00" data-subject="Re: The Spirit of Conquest">
 
 Code updates have been pushed to the game machine and reboot is scheduled for 9:30am server time (12:30pm EST).  Once I log back in after reboot, I will re-enable the Spirit of Conquest and off we go.  Here are a few answers to some FAQs.
 
@@ -56,7 +56,7 @@ Talk with a creator.  :lol:
 
 </div>
 
-<div class="post" data-post-id="39745" data-author="Driven" data-date="2021-06-27T17:51:17+00:00">
+<div class="post" data-post-id="39745" data-author="Driven" data-date="2021-06-27T17:51:17+00:00" data-subject="Re: The Spirit of Conquest">
 
 A few more answers to FAQs:
 

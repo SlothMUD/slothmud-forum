@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="30008" data-author="*Chobbs*" data-date="2009-09-18T21:27:22+00:00">
+<div class="post" data-post-id="30008" data-author="*Chobbs*" data-date="2009-09-18T21:27:22+00:00" data-subject="[Quest-ish!] More Trouble in Symphonia">
 
 Another letter from Impresario Armand Moncharmin:
 
@@ -46,7 +46,7 @@ and potential exploits first.  [/quote:3kmlhdzh]
 
 </div>
 
-<div class="post" data-post-id="30011" data-author="*Chobbs*" data-date="2009-09-19T02:03:27+00:00">
+<div class="post" data-post-id="30011" data-author="*Chobbs*" data-date="2009-09-19T02:03:27+00:00" data-subject="">
 
 A letter from Maestro Firmin Richard:
 
@@ -80,13 +80,13 @@ investigation time.
 
 </div>
 
-<div class="post" data-post-id="30018" data-author="jex" data-date="2009-09-21T17:47:07+00:00">
+<div class="post" data-post-id="30018" data-author="jex" data-date="2009-09-21T17:47:07+00:00" data-subject="">
 
 8GMT is asia sleeping time, if move 3 hours later about 11 GMT is it fine for u all? Cause it is 7am in my country time. However, majority wins the minority
 
 </div>
 
-<div class="post" data-post-id="30021" data-author="*Chobbs*" data-date="2009-09-22T06:45:53+00:00">
+<div class="post" data-post-id="30021" data-author="*Chobbs*" data-date="2009-09-22T06:45:53+00:00" data-subject="[Quest] Opening the doors of Symphonia">
 
 From the desk of Impresario Armand Moncharmin:
 
@@ -118,7 +118,7 @@ out the bugs![/quote:33n3giq0]
 
 </div>
 
-<div class="post" data-post-id="30048" data-author="Wingnut" data-date="2009-09-26T08:38:16+00:00">
+<div class="post" data-post-id="30048" data-author="Wingnut" data-date="2009-09-26T08:38:16+00:00" data-subject="[Quest] Opening the doors of Symphonia">
 
 First thanks to Chobbs for a great quest.
 
@@ -130,7 +130,7 @@ Flame away people.  I know someone will!
 
 </div>
 
-<div class="post" data-post-id="30049" data-author="Vixn" data-date="2009-09-26T09:43:13+00:00">
+<div class="post" data-post-id="30049" data-author="Vixn" data-date="2009-09-26T09:43:13+00:00" data-subject="">
 
 Thanks to Chobbs for interesting quest and all imms who helped him to code and fix bugs. And thanks to Belion for good leading and all guys who joined the group and done a great job. 
 
@@ -144,7 +144,7 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="30050" data-author="Cizin" data-date="2009-09-26T10:01:23+00:00">
+<div class="post" data-post-id="30050" data-author="Cizin" data-date="2009-09-26T10:01:23+00:00" data-subject="">
 
 To be honest I didn't like a part of Quest schedule. Had to wake up at 3 a.m. but i wasn't sorry.
 
@@ -166,7 +166,7 @@ P.S: Thanks Belion for leading .)
 
 </div>
 
-<div class="post" data-post-id="30051" data-author="Vixn" data-date="2009-09-26T10:02:42+00:00">
+<div class="post" data-post-id="30051" data-author="Vixn" data-date="2009-09-26T10:02:42+00:00" data-subject="">
 
 There go a few quotes from the quest:
 
@@ -454,7 +454,7 @@ Group 'questin' is led by Belion and consists of:
 
 </div>
 
-<div class="post" data-post-id="30052" data-author="Vixn" data-date="2009-09-26T10:05:11+00:00">
+<div class="post" data-post-id="30052" data-author="Vixn" data-date="2009-09-26T10:05:11+00:00" data-subject="">
 
 The last one:
 
@@ -606,7 +606,7 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="30053" data-author="*Chobbs*" data-date="2009-09-26T20:50:15+00:00">
+<div class="post" data-post-id="30053" data-author="*Chobbs*" data-date="2009-09-26T20:50:15+00:00" data-subject="">
 
 Mornin' folks, 
 

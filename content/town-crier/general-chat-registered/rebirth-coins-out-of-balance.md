@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="39831" data-author="Gorka" data-date="2021-09-30T13:57:46+00:00">
+<div class="post" data-post-id="39831" data-author="Gorka" data-date="2021-09-30T13:57:46+00:00" data-subject="Rebirth Coins - Out of Balance">
 
 * The longer you play sloth the more likely there will come a time when coins are worth almost nothing.
 
@@ -30,13 +30,13 @@ Would the imms perhaps consider some measures to increase the value of coins. Wh
 
 </div>
 
-<div class="post" data-post-id="39832" data-author="Insomnia" data-date="2021-09-30T15:31:04+00:00">
+<div class="post" data-post-id="39832" data-author="Insomnia" data-date="2021-09-30T15:31:04+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 Random idea, let's introduce a monthly service charge for vault rooms. :) The first room is always free. Every additional room requires you to pay 1mil gold coins per month to use it. You can choose to not pay, have vault space temporarily disabled – and then you just pay 1mil when you decide to use it again.
 
 </div>
 
-<div class="post" data-post-id="39833" data-author="cnl" data-date="2021-10-01T00:52:25+00:00">
+<div class="post" data-post-id="39833" data-author="cnl" data-date="2021-10-01T00:52:25+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 I think a tax on vault storage space isn't what is needed here, the trick is to find something that folks want to spend their money on. Also I don't like this idea because I couldn't afford it. :) I bought those things to save me rent.
 
@@ -46,7 +46,7 @@ Of course, there is a finite amount of things to buy, and as a late game char on
 
 </div>
 
-<div class="post" data-post-id="39834" data-author="Gorka" data-date="2021-10-01T17:00:10+00:00">
+<div class="post" data-post-id="39834" data-author="Gorka" data-date="2021-10-01T17:00:10+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 Although I don't like Insomnia's suggestion - he does make a point worth highlighting... monthly charges.
 
@@ -56,7 +56,7 @@ Wouldn't mind seeing scrolls of clan recall as well obviously they should be pri
 
 </div>
 
-<div class="post" data-post-id="39835" data-author="cnl" data-date="2021-10-08T21:23:55+00:00">
+<div class="post" data-post-id="39835" data-author="cnl" data-date="2021-10-08T21:23:55+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 consumables is an option but at 10k each clan recall scrolls aren't going to eat into much gold.
 
@@ -68,7 +68,7 @@ of course if you set the price high enough that it will have impact then people 
 
 </div>
 
-<div class="post" data-post-id="39843" data-author="*Idjit*" data-date="2021-10-17T21:37:10+00:00">
+<div class="post" data-post-id="39843" data-author="*Idjit*" data-date="2021-10-17T21:37:10+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 minor ideas:
 
@@ -84,7 +84,7 @@ these are two quick one-offs
 
 </div>
 
-<div class="post" data-post-id="39844" data-author="*Idjit*" data-date="2021-10-17T21:38:55+00:00">
+<div class="post" data-post-id="39844" data-author="*Idjit*" data-date="2021-10-17T21:38:55+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 white-list some buffing (but not too buffing) potions that CAN work in the coliseum with a new flag.
 
@@ -98,7 +98,7 @@ Basically BH coli hickory sticks. but godly expensive
 
 </div>
 
-<div class="post" data-post-id="39845" data-author="*Idjit*" data-date="2021-10-17T21:42:44+00:00">
+<div class="post" data-post-id="39845" data-author="*Idjit*" data-date="2021-10-17T21:42:44+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 create a series of items that do for canopied arbor does for druids, but for offensive capabilities for each class.
 
@@ -120,7 +120,7 @@ Requires reworking some other things so that there are 'spots all over the mud' 
 
 </div>
 
-<div class="post" data-post-id="39846" data-author="*Idjit*" data-date="2021-10-17T22:23:54+00:00">
+<div class="post" data-post-id="39846" data-author="*Idjit*" data-date="2021-10-17T22:23:54+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 anything else to do with positional warfare like dropping a boulder down a shaft onto something.
 
@@ -138,7 +138,7 @@ Some new process.
 
 </div>
 
-<div class="post" data-post-id="39847" data-author="Insomnia" data-date="2021-10-17T23:13:00+00:00">
+<div class="post" data-post-id="39847" data-author="Insomnia" data-date="2021-10-17T23:13:00+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 Add a special ability to certain mobs – maybe with some quests around this as well – to allow them to enhance your weapon, for a limited amount of time, and add some damage, or a spell proc to it.
 
@@ -150,7 +150,7 @@ I can easily imagine Gorka paying 100 mil for 100 minutes of extra damage to tes
 
 </div>
 
-<div class="post" data-post-id="39848" data-author="Gorka" data-date="2021-10-18T20:34:09+00:00">
+<div class="post" data-post-id="39848" data-author="Gorka" data-date="2021-10-18T20:34:09+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 > ***Idjit* wrote:**
 > white-list some buffing (but not too buffing) potions that CAN work in the coliseum with a new flag.
@@ -163,7 +163,7 @@ Surely new potions would be the easiest to implement. Potion of Second Wind anyo
 
 </div>
 
-<div class="post" data-post-id="39849" data-author="*Idjit*" data-date="2021-10-19T05:22:46+00:00">
+<div class="post" data-post-id="39849" data-author="*Idjit*" data-date="2021-10-19T05:22:46+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 This is horridly off topic Gorka but the 'Chaos Pit' in coliseum needs some basis to ever get used again.
 
@@ -175,7 +175,7 @@ We took items out of chaos pit and that sucked the wind right out of its sails.
 
 </div>
 
-<div class="post" data-post-id="39852" data-author="jayclimbs" data-date="2021-10-19T14:54:34+00:00">
+<div class="post" data-post-id="39852" data-author="jayclimbs" data-date="2021-10-19T14:54:34+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 This discussion is reflective of rl - for an extremely small fraction of our planet. A few get to where money isn't everything, it's nothing. In the real realm, individuals have found two ways to deal with the issue: Power and Legacy.
 
@@ -189,19 +189,19 @@ In the end, any means that reduces wealth in a realistic fashion on Sloth will e
 
 </div>
 
-<div class="post" data-post-id="39855" data-author="Insomnia" data-date="2021-10-22T21:07:34+00:00">
+<div class="post" data-post-id="39855" data-author="Insomnia" data-date="2021-10-22T21:07:34+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 Add something that can cast long-lasting spells on you, for money. E.g. a mob to which you can pay 1 mil coins, and get resist webs for 24 hours in return. Or iron skin. Or dark cloak. (Or blessing of the avatar, perception, mobility, protection from evil, rejuvenation, grace... you get the idea.)
 
 </div>
 
-<div class="post" data-post-id="39860" data-author="Insomnia" data-date="2021-11-03T12:03:55+00:00">
+<div class="post" data-post-id="39860" data-author="Insomnia" data-date="2021-11-03T12:03:55+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 Add a magic carpet (not the existing item from the eqlist, but a new one) that you can hire for a fixed period of time, so that it follows you everywhere and helps you carry more items and weight.
 
 </div>
 
-<div class="post" data-post-id="39896" data-author="Gorka" data-date="2022-03-14T10:20:37+00:00">
+<div class="post" data-post-id="39896" data-author="Gorka" data-date="2022-03-14T10:20:37+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
 I don't want to nag... but every month that passes - the more broken the sloth economy gets. With 50% of the player base being rebirth characters it's going to get worse over time as rebirths should be getting more coins than what they use. I am currently vaulting my coins in vault slots of 2 billion.
 

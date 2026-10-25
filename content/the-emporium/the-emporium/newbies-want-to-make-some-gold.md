@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="3126" data-author="Akasha2" data-date="2004-12-02T22:33:07+00:00">
+<div class="post" data-post-id="3126" data-author="Akasha2" data-date="2004-12-02T22:33:07+00:00" data-subject="Newbies want to make some gold?">
 
 I need some stuff that I'm just too lazy to spend the time getting (hey at least I'm honest).  But I will pay well for the items if someone wants to cycle them for me:
 
@@ -30,13 +30,13 @@ Xandora
 
 </div>
 
-<div class="post" data-post-id="3127" data-author="Akasha2" data-date="2004-12-02T23:03:49+00:00">
+<div class="post" data-post-id="3127" data-author="Akasha2" data-date="2004-12-02T23:03:49+00:00" data-subject="Ok: got black cloth sleeves.">
 
 See Subj:
 
 </div>
 
-<div class="post" data-post-id="3130" data-author="Akasha2" data-date="2004-12-03T00:50:53+00:00">
+<div class="post" data-post-id="3130" data-author="Akasha2" data-date="2004-12-03T00:50:53+00:00" data-subject="Got Runed-sword...">
 
 See Subj:
 
@@ -48,7 +48,7 @@ Xandora
 
 </div>
 
-<div class="post" data-post-id="3131" data-author="Akasha2" data-date="2004-12-03T00:51:20+00:00">
+<div class="post" data-post-id="3131" data-author="Akasha2" data-date="2004-12-03T00:51:20+00:00" data-subject="got steel ribbed plates">
 
 see subj:
 

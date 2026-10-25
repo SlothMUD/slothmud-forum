@@ -10,7 +10,7 @@ locked: false
 post_count: 35
 ---
 
-<div class="post" data-post-id="29000" data-author="*Splork*" data-date="2009-04-22T02:30:33+00:00">
+<div class="post" data-post-id="29000" data-author="*Splork*" data-date="2009-04-22T02:30:33+00:00" data-subject="High levelers farming newbie areas">
 
 Im a little frustrated right now. We make some nice changes on the player's behalf, just to find out some players are probably going to ruin it for everyone.
 
@@ -24,7 +24,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29001" data-author="Toxis" data-date="2009-04-22T02:41:44+00:00">
+<div class="post" data-post-id="29001" data-author="Toxis" data-date="2009-04-22T02:41:44+00:00" data-subject="">
 
 I think they're running them for gold.  Gold is very hard to run right now for any type of low level.  My suggestion would be to make some low level gold mobs or give treasures to mid leveled mobs that you can sell for little more than tri tokens.
 
@@ -32,7 +32,7 @@ I think they're running them for gold.  Gold is very hard to run right now for a
 
 </div>
 
-<div class="post" data-post-id="29002" data-author="Vixn" data-date="2009-04-22T03:22:19+00:00">
+<div class="post" data-post-id="29002" data-author="Vixn" data-date="2009-04-22T03:22:19+00:00" data-subject="">
 
 Nods, more random treasures like emeralds, rubies and such on midlevel mobs could help to fix it.
 
@@ -40,7 +40,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="29003" data-author="Mosaix" data-date="2009-04-22T03:28:17+00:00">
+<div class="post" data-post-id="29003" data-author="Mosaix" data-date="2009-04-22T03:28:17+00:00" data-subject="">
 
 I agree with Tox about the gold.  Make the gold value of a tri-token 0 or some low amount like 100 coins.  Right now they are about 20k each time you sell one.
 
@@ -50,7 +50,7 @@ Good luck, it will be fun to play this summer again.  Good changes.
 
 </div>
 
-<div class="post" data-post-id="29004" data-author="jezer" data-date="2009-04-22T04:33:40+00:00">
+<div class="post" data-post-id="29004" data-author="jezer" data-date="2009-04-22T04:33:40+00:00" data-subject="">
 
 Don't just address the newbie farming problem with a band aid by making tokens worthless. Address the root of the problem... Mobs aren't giving enough gold. Groups are useless coins.
 
@@ -60,7 +60,7 @@ I've seen shops with 9 tokens for sale on most continents, it's a gold problem, 
 
 </div>
 
-<div class="post" data-post-id="29007" data-author="Shyla" data-date="2009-04-22T10:43:54+00:00">
+<div class="post" data-post-id="29007" data-author="Shyla" data-date="2009-04-22T10:43:54+00:00" data-subject="">
 
 changing the tokens is NOT the solution....once again we are talking about punishing the whole mud for something some people are doing...they still get what they want and then it is imposed on the rest of us.  It doesn't set the right kind of precedent.  If there is abuse going on stop the abuse at the source.  Trust me if there is a problem the people on the mud will let you know who is the problem.  please stop changing things because we have jerks that are abusing it.   abuse the jerks.
 
@@ -70,7 +70,7 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="29008" data-author="*Splork*" data-date="2009-04-22T11:30:23+00:00">
+<div class="post" data-post-id="29008" data-author="*Splork*" data-date="2009-04-22T11:30:23+00:00" data-subject="">
 
 Some things have to fall on the players to patrol, this is one of them. We do not have the time or personal to patrol this situation. 
 
@@ -84,7 +84,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29009" data-author="kilslug" data-date="2009-04-22T11:35:25+00:00">
+<div class="post" data-post-id="29009" data-author="kilslug" data-date="2009-04-22T11:35:25+00:00" data-subject="">
 
 I've been selling any tokens that pop cause I think I have good stats now and I ended up suffering before the wipe because I played the token game and wound up not being able to carry anything.
 
@@ -92,7 +92,7 @@ I agree with Shyla, dont punish the whole for what some are doing, go after the 
 
 </div>
 
-<div class="post" data-post-id="29010" data-author="*Splork*" data-date="2009-04-22T13:45:34+00:00">
+<div class="post" data-post-id="29010" data-author="*Splork*" data-date="2009-04-22T13:45:34+00:00" data-subject="">
 
 Single sided die can now be used by any level player, they are identical to tri tokens. What I mean by this is, they use the same stat roller.
 
@@ -108,7 +108,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29013" data-author="firebrand" data-date="2009-04-22T15:36:43+00:00">
+<div class="post" data-post-id="29013" data-author="firebrand" data-date="2009-04-22T15:36:43+00:00" data-subject="">
 
 why not make the animal mobs drop vendor trash?  i.e. use the guts slots when building the mobs to make stuff like hides and intestines and a couple other items that are useless for anything but selling for cash.  i.e. a lowbie animal mob could have hides and bones and intestines to sell for 1 - 5 coins, and higher level mob guts could potentially have higher values.  just a thought.  flame on.
 
@@ -116,7 +116,7 @@ why not make the animal mobs drop vendor trash?  i.e. use the guts slots when bu
 
 </div>
 
-<div class="post" data-post-id="29014" data-author="Kanae" data-date="2009-04-22T16:15:31+00:00">
+<div class="post" data-post-id="29014" data-author="Kanae" data-date="2009-04-22T16:15:31+00:00" data-subject="">
 
 Just a simple question.. splork me if you like :P 
 
@@ -128,7 +128,7 @@ Take the time to check and see if anyone is in the area. Offer to run a group wi
 
 </div>
 
-<div class="post" data-post-id="29015" data-author="Magi" data-date="2009-04-22T16:46:10+00:00">
+<div class="post" data-post-id="29015" data-author="Magi" data-date="2009-04-22T16:46:10+00:00" data-subject="">
 
 Your complaints about limited gold are falling on deaf ears.
 
@@ -142,7 +142,7 @@ If the struggle to get enough gold to level is your idea of fun, then Slothmud I
 
 </div>
 
-<div class="post" data-post-id="29016" data-author="*Splork*" data-date="2009-04-22T17:04:05+00:00">
+<div class="post" data-post-id="29016" data-author="*Splork*" data-date="2009-04-22T17:04:05+00:00" data-subject="">
 
 We all know that gold is very valuable in the beginning of the game, when we are all low levels.
 
@@ -160,19 +160,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29019" data-author="Autolycos" data-date="2009-04-22T20:13:45+00:00">
+<div class="post" data-post-id="29019" data-author="Autolycos" data-date="2009-04-22T20:13:45+00:00" data-subject="">
 
 I think Splork just likes to double post.
 
 </div>
 
-<div class="post" data-post-id="29020" data-author="Autolycos" data-date="2009-04-22T20:14:47+00:00">
+<div class="post" data-post-id="29020" data-author="Autolycos" data-date="2009-04-22T20:14:47+00:00" data-subject="">
 
 I think Splork just likes to double post.
 
 </div>
 
-<div class="post" data-post-id="29022" data-author="*juggleblood*" data-date="2009-04-22T22:17:56+00:00">
+<div class="post" data-post-id="29022" data-author="*juggleblood*" data-date="2009-04-22T22:17:56+00:00" data-subject="">
 
 I was being nosy and observing the kobold incident.
 
@@ -188,7 +188,7 @@ Get a clue people. If kobolds is busy, go kill goblins. And if you have a proble
 
 </div>
 
-<div class="post" data-post-id="29023" data-author="jezer" data-date="2009-04-22T22:56:08+00:00">
+<div class="post" data-post-id="29023" data-author="jezer" data-date="2009-04-22T22:56:08+00:00" data-subject="">
 
 [img:7frlsso5]http://farm1.static.flickr.com/148/388345925_503cb1c158_o.jpg[/img:7frlsso5]
 
@@ -198,7 +198,7 @@ I just wish I could hit the little tackers  :twisted:
 
 </div>
 
-<div class="post" data-post-id="29024" data-author="Magi" data-date="2009-04-22T23:19:24+00:00">
+<div class="post" data-post-id="29024" data-author="Magi" data-date="2009-04-22T23:19:24+00:00" data-subject="">
 
 Quot: Looking at your stats Magi, you are not struggling to gather gold to level.
 
@@ -212,7 +212,7 @@ My posts on this thread aren't arguments, just observations.
 
 </div>
 
-<div class="post" data-post-id="29025" data-author="*Splork*" data-date="2009-04-22T23:40:34+00:00">
+<div class="post" data-post-id="29025" data-author="*Splork*" data-date="2009-04-22T23:40:34+00:00" data-subject="">
 
 The gold changes were a blanket percentage taken from level 40 and above mobs. I was actually thinking I would get them before anyone noticed but apparently a couple of you guys are hitting those mobs. Chubby and others were not targeted at all. We have some mobs that are coins mobs and always will be, I do like having a tradition here.
 
@@ -228,13 +228,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29026" data-author="jezer" data-date="2009-04-23T00:01:13+00:00">
+<div class="post" data-post-id="29026" data-author="jezer" data-date="2009-04-23T00:01:13+00:00" data-subject="">
 
 Are vaults coming back in the future?
 
 </div>
 
-<div class="post" data-post-id="29030" data-author="newbee" data-date="2009-04-23T17:16:03+00:00">
+<div class="post" data-post-id="29030" data-author="newbee" data-date="2009-04-23T17:16:03+00:00" data-subject="">
 
 Though lonewolf's actions were poor (swearing, picking on ppl, making fun of them) before splork called him on his behavior, yes a day later he attempted to apologise. Unfortunately I was unable to log on that day. Thing is, he was not the problem and the situation was not exactly what our dear Juggleblood has led everyone to believe.
 
@@ -256,7 +256,7 @@ And for gosh sakes, Jon Stop LYING.
 
 </div>
 
-<div class="post" data-post-id="29031" data-author="newbee" data-date="2009-04-23T17:32:54+00:00">
+<div class="post" data-post-id="29031" data-author="newbee" data-date="2009-04-23T17:32:54+00:00" data-subject="">
 
 Oh and again, it was XEROX not poor, misunderstood Lonewolf. Get it right, Jon. Oh wait, you'd have to have actually been there observing not making up from heresay. 
 
@@ -272,7 +272,7 @@ And again, let's not lie. A nosy immort should know all the facts before posting
 
 </div>
 
-<div class="post" data-post-id="29032" data-author="*Splork*" data-date="2009-04-23T17:52:54+00:00">
+<div class="post" data-post-id="29032" data-author="*Splork*" data-date="2009-04-23T17:52:54+00:00" data-subject="">
 
 The situation has been resolved and I really dont see it being an issue anymore.
 
@@ -284,7 +284,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29033" data-author="Weasel" data-date="2009-04-23T18:13:45+00:00">
+<div class="post" data-post-id="29033" data-author="Weasel" data-date="2009-04-23T18:13:45+00:00" data-subject="">
 
 yesterday was the first day in a very long time that the old splork returned and I got frustrated. [/quote:35u7d41l]
 
@@ -304,7 +304,7 @@ BTW, I briefly installed and had a play with phpBB 3.0, and it's really awesome,
 
 </div>
 
-<div class="post" data-post-id="29034" data-author="Medios" data-date="2009-04-23T20:42:22+00:00">
+<div class="post" data-post-id="29034" data-author="Medios" data-date="2009-04-23T20:42:22+00:00" data-subject="">
 
 I hope nobody gets mad about "farming" the fortune hunter on vk.  He never loads and I don't see how anyone will finish the aq with such a long list of people waiting for Acme to get done camping.  After 30 kills I would say he is quite tired of it.  I thought vk was a place to learn, not to cycle one mob for weeks.
 
@@ -312,7 +312,7 @@ I don't know if it is just me but it seems like hardcore players get nerfed and 
 
 </div>
 
-<div class="post" data-post-id="29038" data-author="jezer" data-date="2009-04-23T23:39:08+00:00">
+<div class="post" data-post-id="29038" data-author="jezer" data-date="2009-04-23T23:39:08+00:00" data-subject="">
 
 [img:16q6cn0b]http://img21.imageshack.us/img21/7681/koboldk.jpg[/img:16q6cn0b]
 
@@ -320,7 +320,7 @@ I don't know if it is just me but it seems like hardcore players get nerfed and 
 
 </div>
 
-<div class="post" data-post-id="29040" data-author="*juggleblood*" data-date="2009-04-24T01:52:35+00:00">
+<div class="post" data-post-id="29040" data-author="*juggleblood*" data-date="2009-04-24T01:52:35+00:00" data-subject="">
 
 well, i musta noticed the situation very late, because i'm not trying to lie for anyone. I don't really have any reason to. I don't doubt the gist of the story you just posted. So I'm sorry I made judgement on incomplete facts.
 
@@ -334,13 +334,13 @@ My impression was that people were being silly, but I guess you had a genuine gr
 
 </div>
 
-<div class="post" data-post-id="29041" data-author="*juggleblood*" data-date="2009-04-24T01:55:36+00:00">
+<div class="post" data-post-id="29041" data-author="*juggleblood*" data-date="2009-04-24T01:55:36+00:00" data-subject="">
 
 Lone doesn't = John does it? Then I'll feel really stupid...
 
 </div>
 
-<div class="post" data-post-id="29042" data-author="*juggleblood*" data-date="2009-04-24T02:01:04+00:00">
+<div class="post" data-post-id="29042" data-author="*juggleblood*" data-date="2009-04-24T02:01:04+00:00" data-subject="">
 
 You'd have thought someone would try to sing out if even loads there nemore. 
 
@@ -350,7 +350,7 @@ I don't know if it is just me but it seems like hardcore players get nerfed and 
 
 </div>
 
-<div class="post" data-post-id="29043" data-author="Medios" data-date="2009-04-24T12:17:50+00:00">
+<div class="post" data-post-id="29043" data-author="Medios" data-date="2009-04-24T12:17:50+00:00" data-subject="">
 
 Well since his autoquest says that he has the shovel it would only seem like he still had it.  If the item was moved maybe look at what the fortune hunter says when you talk to him.  It is pretty clear that he has the shovel by his words.  Shrug.
 
@@ -360,7 +360,7 @@ What are the key-names for shovel because I only know one and the song takes 2..
 
 </div>
 
-<div class="post" data-post-id="29044" data-author="Medios" data-date="2009-04-24T12:32:17+00:00">
+<div class="post" data-post-id="29044" data-author="Medios" data-date="2009-04-24T12:32:17+00:00" data-subject="">
 
 Just to prove what I am saying.
 
@@ -414,13 +414,13 @@ The fortune hunter says 'I've never heard of anything like that.'
 
 </div>
 
-<div class="post" data-post-id="29045" data-author="Chelle" data-date="2009-04-24T12:41:03+00:00">
+<div class="post" data-post-id="29045" data-author="Chelle" data-date="2009-04-24T12:41:03+00:00" data-subject="">
 
 It's sturdy-shovel if I remember correctly.
 
 </div>
 
-<div class="post" data-post-id="29048" data-author="*juggleblood*" data-date="2009-04-24T19:46:30+00:00">
+<div class="post" data-post-id="29048" data-author="*juggleblood*" data-date="2009-04-24T19:46:30+00:00" data-subject="">
 
 my bad again...I'll change the message.
 
@@ -428,7 +428,7 @@ Also I thought I'd heard that wealth and glory had changed, but I guess not.
 
 </div>
 
-<div class="post" data-post-id="29050" data-author="Medios" data-date="2009-04-24T20:41:27+00:00">
+<div class="post" data-post-id="29050" data-author="Medios" data-date="2009-04-24T20:41:27+00:00" data-subject="">
 
 my bad again...I'll change the message.
 
@@ -438,7 +438,7 @@ I'm not mad, nothing but love.
 
 </div>
 
-<div class="post" data-post-id="29055" data-author="Autolycos" data-date="2009-04-25T18:08:53+00:00">
+<div class="post" data-post-id="29055" data-author="Autolycos" data-date="2009-04-25T18:08:53+00:00" data-subject="">
 
 I'm not mad, nothing but love.[/quote:34n3hph4]
 

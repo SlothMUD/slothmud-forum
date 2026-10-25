@@ -10,7 +10,7 @@ locked: false
 post_count: 73
 ---
 
-<div class="post" data-post-id="38789" data-author="Gorka" data-date="2018-05-22T14:16:31+00:00">
+<div class="post" data-post-id="38789" data-author="Gorka" data-date="2018-05-22T14:16:31+00:00" data-subject="Oh look... Another Rebirth Topic...">
 
 There was some very brief gossiping last night regarding rebirth, and since I am going through that stage at the moment I thought to collectivize my thoughts a bit more formally about the matter here, as it's a better place to have the discussion that needs to happen.
 
@@ -58,13 +58,13 @@ If it's decided that the road to progression won't be improved, then that's the 
 
 </div>
 
-<div class="post" data-post-id="38790" data-author="Filk" data-date="2018-05-22T15:26:24+00:00">
+<div class="post" data-post-id="38790" data-author="Filk" data-date="2018-05-22T15:26:24+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Agree with everything about the motivation to play after the current top
 
 </div>
 
-<div class="post" data-post-id="38792" data-author="Teron" data-date="2018-05-22T16:51:26+00:00">
+<div class="post" data-post-id="38792" data-author="Teron" data-date="2018-05-22T16:51:26+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Thanks for the tips about rebirthing. I was expecting 40 slots, not 170, for elite eq, but you are right - low levels dont need to hog 250 items.
 
@@ -94,7 +94,7 @@ While Sloth doesn't have the dev team WoW has, a list of awesome things to do ca
 
 </div>
 
-<div class="post" data-post-id="38793" data-author="Driven" data-date="2018-05-22T19:07:44+00:00">
+<div class="post" data-post-id="38793" data-author="Driven" data-date="2018-05-22T19:07:44+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 What would be good are concrete suggestions for interesting ways of progressing our characters without making them so powerful that it ruins the game for everyone else.  Here's one idea:
 
@@ -116,7 +116,7 @@ Could level up all four crafts independently.  Obviously the xp/gold required to
 
 </div>
 
-<div class="post" data-post-id="38794" data-author="Teron" data-date="2018-05-23T04:09:29+00:00">
+<div class="post" data-post-id="38794" data-author="Teron" data-date="2018-05-23T04:09:29+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Alright, that'd make 1 rebirth worth it. What about 2, 5 or 10?
 
@@ -128,19 +128,19 @@ Also, please clarify exactly how cumulative bonuses ruin the game for everyone e
 
 </div>
 
-<div class="post" data-post-id="38796" data-author="Gorka" data-date="2018-05-23T08:08:33+00:00">
+<div class="post" data-post-id="38796" data-author="Gorka" data-date="2018-05-23T08:08:33+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Not to take away from ideas for rebirth... but I just want to point out... if you can't spend your xp points on improvements... which would be the case at rebirth 9x40 at the moment, whats the point in playing? We need some way to spend our xp, I think we need a rebirth shop, based on the avatar shop concept at a bare minimum first.
 
 </div>
 
-<div class="post" data-post-id="38797" data-author="Teron" data-date="2018-05-23T13:34:17+00:00">
+<div class="post" data-post-id="38797" data-author="Teron" data-date="2018-05-23T13:34:17+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 That might work well, if that's how you get your cumulative bonuses, wouldn't it?
 
 </div>
 
-<div class="post" data-post-id="38798" data-author="Driven" data-date="2018-05-23T13:41:04+00:00">
+<div class="post" data-post-id="38798" data-author="Driven" data-date="2018-05-23T13:41:04+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I don't disagree with the rebirth shop idea.  I do know Breeze has said repeatedly that he won't be the one doing it, but that he would open to it if someone else did it.  Taron/Gorka, you guys are two of the most knowledgeable mortals we have, so providing a fleshed-out list on what could be in the shop might prove helpful.
 
@@ -152,7 +152,7 @@ To me, that means we need to get creative and add cool stuff instead of powerful
 
 </div>
 
-<div class="post" data-post-id="38799" data-author="Filk" data-date="2018-05-23T13:41:33+00:00">
+<div class="post" data-post-id="38799" data-author="Filk" data-date="2018-05-23T13:41:33+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Would be nice to start with adding every non point based buffs to avatar shop for example. 
 
@@ -162,7 +162,7 @@ Actually anything that gives us progression. Since Gorka is totally correct - if
 
 </div>
 
-<div class="post" data-post-id="38800" data-author="Filk" data-date="2018-05-23T13:46:35+00:00">
+<div class="post" data-post-id="38800" data-author="Filk" data-date="2018-05-23T13:46:35+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 > **Driven wrote:**
 > To me, that means we need to get creative and add cool stuff instead of powerful stuff, hence 
@@ -175,7 +175,7 @@ So decision should be easy enough to do it with current staff. Or as usual "do i
 
 </div>
 
-<div class="post" data-post-id="38801" data-author="Teron" data-date="2018-05-23T13:52:18+00:00">
+<div class="post" data-post-id="38801" data-author="Teron" data-date="2018-05-23T13:52:18+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 tldr; Driven exaggerates the impact of 9x40s and the importance of suffering to get eq.
 
@@ -193,13 +193,13 @@ Also, you may appreciate how hard it is to get gear, but some might think that i
 
 </div>
 
-<div class="post" data-post-id="38802" data-author="Driven" data-date="2018-05-23T14:11:29+00:00">
+<div class="post" data-post-id="38802" data-author="Driven" data-date="2018-05-23T14:11:29+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I agree with you 9x40's can solo anything with enough skill, patience, and time, and I even said as much.   You make a good point that massive mobs don't suddenly become easier to kill because of incremental power improvements.  I like your suggestion of the cumulative bonuses, though Gorka has demonstrated that getting back to 9x40 is pretty easy.  What was once thought to take 9 months is now looking like 4-6 months.  I think the cumulative bonuses would need to cap at some point.
 
 </div>
 
-<div class="post" data-post-id="38803" data-author="Gorka" data-date="2018-05-23T15:01:43+00:00">
+<div class="post" data-post-id="38803" data-author="Gorka" data-date="2018-05-23T15:01:43+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I think we need to bring it in and find the things we can agree on. I don't want my push for a rebirth shop to be lost in a crap fest, not trying to stop the debate - just want to make sure we stay on track. To date every rebirth thread has gotten no where... because of dumb ideas, people being demanding and disunity... How long is it going to take for us to learn?
 
@@ -211,7 +211,7 @@ Furthermore xp doesn't just need to be spent on player power... it could be spen
 
 </div>
 
-<div class="post" data-post-id="38804" data-author="Filk" data-date="2018-05-23T16:17:23+00:00">
+<div class="post" data-post-id="38804" data-author="Filk" data-date="2018-05-23T16:17:23+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I agree. Even removing current shop caps with progressive cost would be good.
 
@@ -221,7 +221,7 @@ And if costs will be progressive, it will not ends with raising strictly one sta
 
 </div>
 
-<div class="post" data-post-id="38806" data-author="Driven" data-date="2018-05-23T18:28:19+00:00">
+<div class="post" data-post-id="38806" data-author="Driven" data-date="2018-05-23T18:28:19+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 So something along these lines?
 
@@ -241,7 +241,7 @@ So basically armor would cost 100B xp for first .1, then 150B xp for second .1, 
 
 </div>
 
-<div class="post" data-post-id="38807" data-author="Gorka" data-date="2018-05-23T19:30:54+00:00">
+<div class="post" data-post-id="38807" data-author="Gorka" data-date="2018-05-23T19:30:54+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 No, it's an exponential series... For example: n = (n-1) * 1.25
 
@@ -269,7 +269,7 @@ For every 1B xp things should cost 1M coins, however with rebirth - to be fair s
 
 </div>
 
-<div class="post" data-post-id="38808" data-author="Gorka" data-date="2018-05-23T20:04:17+00:00">
+<div class="post" data-post-id="38808" data-author="Gorka" data-date="2018-05-23T20:04:17+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Here is a hypothetical rebirth shop... it needs a lot more work. I'll edit as people make suggestions and criticisms. 
 
@@ -361,7 +361,7 @@ I've based my numbers on the original avatar shop prices. I don't agree with som
 
 </div>
 
-<div class="post" data-post-id="38813" data-author="Filk" data-date="2018-05-24T02:41:23+00:00">
+<div class="post" data-post-id="38813" data-author="Filk" data-date="2018-05-24T02:41:23+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Seems cool. I agree, that ratios invalid. Some are very invalid.  But overall idea seems shiny.
 
@@ -371,13 +371,13 @@ Like 100 mana is 100 bils atm. So M1+M2+..+M100 = 100 bil in new formula. First 
 
 </div>
 
-<div class="post" data-post-id="38816" data-author="cyprimus" data-date="2018-05-24T04:40:25+00:00">
+<div class="post" data-post-id="38816" data-author="cyprimus" data-date="2018-05-24T04:40:25+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Would think making the bonus cost drac... since you get drac from each rebirth.. would make sense.. maybe a balance or exchange of coins exp and drac?
 
 </div>
 
-<div class="post" data-post-id="38826" data-author="Gorka" data-date="2018-05-24T16:51:20+00:00">
+<div class="post" data-post-id="38826" data-author="Gorka" data-date="2018-05-24T16:51:20+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 In back conversations, even with Breeze and Teker, I've mentioned the idea of buying stat points with drachma. I mostly like the idea but have two concerns...
 
@@ -393,7 +393,7 @@ Furthermore, if the proposed rebirth shop was implemented, it would be easier to
 
 </div>
 
-<div class="post" data-post-id="38829" data-author="Teron" data-date="2018-05-25T01:55:42+00:00">
+<div class="post" data-post-id="38829" data-author="Teron" data-date="2018-05-25T01:55:42+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Alright, let's focus on the shop.
 
@@ -417,7 +417,7 @@ P.P.S. If you have undead visage in the shop, add Glamour to it, because it can'
 
 </div>
 
-<div class="post" data-post-id="38832" data-author="Josiah" data-date="2018-05-29T00:21:51+00:00">
+<div class="post" data-post-id="38832" data-author="Josiah" data-date="2018-05-29T00:21:51+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I like the idea of an exponentially expensive avatar shop rather than the existing caps.
 
@@ -427,19 +427,19 @@ As for multiple rebirths, I think only access to the prime skills of secondary c
 
 </div>
 
-<div class="post" data-post-id="38834" data-author="Filk" data-date="2018-05-31T07:53:58+00:00">
+<div class="post" data-post-id="38834" data-author="Filk" data-date="2018-05-31T07:53:58+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Any immortal wanna comment idea of improving avatar shop with new bonuses and infinite expotential purchases?
 
 </div>
 
-<div class="post" data-post-id="38840" data-author="*teker*" data-date="2018-06-03T21:26:18+00:00">
+<div class="post" data-post-id="38840" data-author="*teker*" data-date="2018-06-03T21:26:18+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 So what is the actual proposal I should be looking at?  The rebirth shop post from 5/23?  Or an extension to the avatar shop?  Or both?
 
 </div>
 
-<div class="post" data-post-id="38842" data-author="Gorka" data-date="2018-06-03T22:12:38+00:00">
+<div class="post" data-post-id="38842" data-author="Gorka" data-date="2018-06-03T22:12:38+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Starting with my post on the 23rd is a good starting point. I didn't try very hard with the metrics, because it's not my job or place to set the value or amount of things. However if you want advice from me or other players on what constitutes fair pricing, I'd think about it more seriously and get back to you.
 
@@ -451,7 +451,7 @@ Thanks for taking a look at this too Teker, the rebirths will be very happy.
 
 </div>
 
-<div class="post" data-post-id="38843" data-author="Filk" data-date="2018-06-04T02:20:28+00:00">
+<div class="post" data-post-id="38843" data-author="Filk" data-date="2018-06-04T02:20:28+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 > ***teker* wrote:**
 > So what is the actual proposal I should be looking at?  The rebirth shop post from 5/23?  Or an extension to the avatar shop?  Or both?
@@ -462,7 +462,7 @@ Thanks for taking a look at this too Teker, the rebirths will be very happy.
 
 </div>
 
-<div class="post" data-post-id="38845" data-author="*Breeze*" data-date="2018-06-04T07:16:55+00:00">
+<div class="post" data-post-id="38845" data-author="*Breeze*" data-date="2018-06-04T07:16:55+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 you guys come up with the concept/proposal.
 
@@ -494,7 +494,7 @@ what I added there.
 
 </div>
 
-<div class="post" data-post-id="38846" data-author="Filk" data-date="2018-06-04T08:43:41+00:00">
+<div class="post" data-post-id="38846" data-author="Filk" data-date="2018-06-04T08:43:41+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 > **Quote:**
 > we (the immortals) will discuss it/adjust it/approve/disapprove/nerf/whatever
@@ -524,7 +524,7 @@ And some spells could be added without breaking balance. Like fluidity, petrific
 
 </div>
 
-<div class="post" data-post-id="38848" data-author="*Breeze*" data-date="2018-06-04T09:36:15+00:00">
+<div class="post" data-post-id="38848" data-author="*Breeze*" data-date="2018-06-04T09:36:15+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 > **Quote:**
 > Thats the first question. Do you agree about the idea of infinite expotential avatar shop at all. Rates are subject to discuss, but it will take long probably and before doing that, its good to know, if overall idea is acceptable. Mostly there gonna be exactly the same stats as in current shop, plus bonus bonus stats (bonus spell dam, bonus heal, bonus hand dam etc).
@@ -554,7 +554,7 @@ havent really thought about the other perma_stuff we could add and how it would 
 
 </div>
 
-<div class="post" data-post-id="38849" data-author="Gorka" data-date="2018-06-04T14:41:30+00:00">
+<div class="post" data-post-id="38849" data-author="Gorka" data-date="2018-06-04T14:41:30+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Ok here is my Rebirth Shop proposal. Any PLAYER who decides to criticise my proposal WITHOUT providing their own proposal of equal objectivity and thinking... prepare for flame wars! I suspect that only Taron and Fluffy are capable of providing worthwhile comment if past experience is anything to go by. My post took several hours of careful calculations... and my facts don't care about your feelings. As my science teacher used to say "Be remembered as a builder, not a breaker." With that said... lets begin.
 
@@ -664,7 +664,7 @@ improved haste 			40 mana over 480secs = 5 ma regen = 125b experience and 62,500
 
 </div>
 
-<div class="post" data-post-id="38852" data-author="Filk" data-date="2018-06-04T18:37:17+00:00">
+<div class="post" data-post-id="38852" data-author="Filk" data-date="2018-06-04T18:37:17+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I dont think capping stats is good idea. 
 
@@ -798,7 +798,7 @@ I raised coefs to the average 2 years of intensive play to reach 10/100/200 mark
 
 </div>
 
-<div class="post" data-post-id="38853" data-author="Gorka" data-date="2018-06-04T19:41:31+00:00">
+<div class="post" data-post-id="38853" data-author="Gorka" data-date="2018-06-04T19:41:31+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I don't disagree with Fluffy's proposal, because it starts with the same starting points as my own ideas and then just leaves them open ended. The reason I decided against this idea was that I just couldn't see Breeze buying it. 432b xp is roughly the xp required for 9x40 rebirth... which I can get in 2 months. (Not sure I'll play this intense again though) Not sure the imms want to add more than +10dam to my stab. But if they want to... I mean, I'm down with that...  :) 
 
@@ -806,7 +806,7 @@ I think the issue you have with open caps, is the players themselves. For some p
 
 </div>
 
-<div class="post" data-post-id="38855" data-author="Filk" data-date="2018-06-05T02:05:00+00:00">
+<div class="post" data-post-id="38855" data-author="Filk" data-date="2018-06-05T02:05:00+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Nods. After sleeping i also think half of the year non stop playing is too quick for 10 dam. I suggest Breeze gives us brief limit, in which time period he thinks 10 dam should be allowed to be gained (year, 2 years, 5 years etc). And i will recalcalute all coefs accordingly.
 
@@ -823,7 +823,7 @@ Thats not an issue imo. We have plenty of high level areas that literally never 
 
 </div>
 
-<div class="post" data-post-id="38856" data-author="Gorka" data-date="2018-06-05T05:37:23+00:00">
+<div class="post" data-post-id="38856" data-author="Gorka" data-date="2018-06-05T05:37:23+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Let me argue against myself for a second... I don't think +10 dam is much for non thieves, I'm not even sure it's much for thieves... We can already test... use a +6 damage potion, a dam fortune and a prime bard to obtain +10dam to try it out... we do this in groups occasionally... are people going to be splorking large mobs? I really doubt it.
 
@@ -833,7 +833,7 @@ I fear even with the power increases proposed... I will still be running shadow 
 
 </div>
 
-<div class="post" data-post-id="38862" data-author="Teron" data-date="2018-06-06T15:02:44+00:00">
+<div class="post" data-post-id="38862" data-author="Teron" data-date="2018-06-06T15:02:44+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 1. I partially agree with logic and pricing of Gorka's shop.
 
@@ -898,7 +898,7 @@ So, what do you say Breeze, do you insist that nothing else gets added to the av
 
 </div>
 
-<div class="post" data-post-id="38864" data-author="*Breeze*" data-date="2018-06-06T17:19:26+00:00">
+<div class="post" data-post-id="38864" data-author="*Breeze*" data-date="2018-06-06T17:19:26+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 i wont even bother replying to the most of it since i don't like sarcasm
 
@@ -960,7 +960,7 @@ however, rebirth would probably have worked out better if we were a 4+1 class mu
 
 </div>
 
-<div class="post" data-post-id="38865" data-author="Gorka" data-date="2018-06-06T17:27:09+00:00">
+<div class="post" data-post-id="38865" data-author="Gorka" data-date="2018-06-06T17:27:09+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 25 BONUS_CHARISMA was a typo. Was meant to be 5.
 
@@ -986,7 +986,7 @@ Anything else you'd like?  :roll: Be lucky to get anything now... Zero tact... S
 
 </div>
 
-<div class="post" data-post-id="38868" data-author="Teron" data-date="2018-06-07T00:36:36+00:00">
+<div class="post" data-post-id="38868" data-author="Teron" data-date="2018-06-07T00:36:36+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 > **Breeze wrote:**
 > the avatar shop is as the main/only creator at the time wanted it
@@ -1000,7 +1000,7 @@ Whatever, I'll refrain from commenting if that's how it needs to work.
 
 </div>
 
-<div class="post" data-post-id="38869" data-author="Filk" data-date="2018-06-07T02:24:45+00:00">
+<div class="post" data-post-id="38869" data-author="Filk" data-date="2018-06-07T02:24:45+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Breeze, just ignore Taron probably. 
 
@@ -1012,7 +1012,7 @@ So we need some immortal conclusion about exactly that idea, maybe tunning numbe
 
 </div>
 
-<div class="post" data-post-id="38876" data-author="*Splork*" data-date="2018-06-09T02:52:39+00:00">
+<div class="post" data-post-id="38876" data-author="*Splork*" data-date="2018-06-09T02:52:39+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Taron,
 
@@ -1026,7 +1026,7 @@ Enjoy,
 
 </div>
 
-<div class="post" data-post-id="38878" data-author="Teron" data-date="2018-06-09T14:18:56+00:00">
+<div class="post" data-post-id="38878" data-author="Teron" data-date="2018-06-09T14:18:56+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I wonder what means I have for learning how things are done on the immortal side?
 
@@ -1044,7 +1044,7 @@ If discussing players issues is a laughable matter, then you are just the exampl
 
 </div>
 
-<div class="post" data-post-id="38886" data-author="*teker*" data-date="2018-06-11T18:09:40+00:00">
+<div class="post" data-post-id="38886" data-author="*teker*" data-date="2018-06-11T18:09:40+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 My impression is that most of the imms are quite busy with rl and are spending less time in the game (myself included).  There haven't been any large group discussions regarding rebirth or the rebirth shop that I've been a part of.  I am content to put work into the rebirth shop because it seems that many players have reached the point where they have completed nearly everything in the game and because we're not seeing many new players join in.  I fear that without retaining the current player base we would be even worse off and the game would eventually dwindle and die.
 
@@ -1052,7 +1052,7 @@ A somewhat similar topic for me is the chopper rack and the seeming discontent a
 
 </div>
 
-<div class="post" data-post-id="38887" data-author="*Breeze*" data-date="2018-06-11T19:52:09+00:00">
+<div class="post" data-post-id="38887" data-author="*Breeze*" data-date="2018-06-11T19:52:09+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 as for transparency, teker has made way 
 
@@ -1060,7 +1060,7 @@ more info available than in the past.
 
 </div>
 
-<div class="post" data-post-id="38890" data-author="Filk" data-date="2018-06-12T05:14:39+00:00">
+<div class="post" data-post-id="38890" data-author="Filk" data-date="2018-06-12T05:14:39+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 > **Quote:**
 > I am content to put work into the rebirth shop
@@ -1075,13 +1075,13 @@ In short, there are two parts that we want to be approved.
 
 </div>
 
-<div class="post" data-post-id="38898" data-author="Filk" data-date="2018-06-15T13:46:49+00:00">
+<div class="post" data-post-id="38898" data-author="Filk" data-date="2018-06-15T13:46:49+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Mmm. Up. I still hope to see some other then Teker imms opinions about the proposal.
 
 </div>
 
-<div class="post" data-post-id="38902" data-author="*Neptune*" data-date="2018-06-17T19:37:38+00:00">
+<div class="post" data-post-id="38902" data-author="*Neptune*" data-date="2018-06-17T19:37:38+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Ok, I've taken some time (yet again) to look down and read most of what has been transpiring in this
 
@@ -1209,7 +1209,7 @@ There has to be _some_ mystery, after all   :)
 
 </div>
 
-<div class="post" data-post-id="38903" data-author="Teron" data-date="2018-06-18T11:44:48+00:00">
+<div class="post" data-post-id="38903" data-author="Teron" data-date="2018-06-18T11:44:48+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Apparently, I mistook Breeze's description of the avatarshop as a statement that it won't be changed, because reasons.
 
@@ -1243,7 +1243,7 @@ I do have to note that access to primary skills (even to 1 from another class) w
 
 </div>
 
-<div class="post" data-post-id="38904" data-author="Filk" data-date="2018-06-18T12:10:10+00:00">
+<div class="post" data-post-id="38904" data-author="Filk" data-date="2018-06-18T12:10:10+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 > ***Neptune* wrote:**
 > This is partly why I've whipped up some, again "off-the-cuff" ideas that seem, at first glance, to be worth considering for shop ideas and improvements that would go alongside an infinite or multi-rung ladder of progression of sorts. These are:
@@ -1325,7 +1325,7 @@ Maybe some discussions about scales after we got agreement that thing should and
 
 </div>
 
-<div class="post" data-post-id="38905" data-author="*Breeze*" data-date="2018-06-18T18:00:11+00:00">
+<div class="post" data-post-id="38905" data-author="*Breeze*" data-date="2018-06-18T18:00:11+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 > **Filk wrote:**
 > 2. Veto from immortal team(there is opinion around, that its mostly Splork's veto, though noone knows how its exactly discussed inside).
@@ -1344,7 +1344,7 @@ Probably more I forgot to comment on but I am on my phone in my car waiting in p
 
 </div>
 
-<div class="post" data-post-id="38906" data-author="Driven" data-date="2018-06-18T20:27:51+00:00">
+<div class="post" data-post-id="38906" data-author="Driven" data-date="2018-06-18T20:27:51+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 So from the looks of things, it would appear that Breeze is in support of rebirth providing prime skills, although they would be nerfed to some degree and cost more.  When I made such a proposal a year back, I suggested opening up prime skills accordingly to classorder at each rebirth.  For example, Driven is a mo/dr/ma/cl/ne/wa/ba/th, so first rebirth would make druid prime skills available, second rebirth would make mage prime skills available, third rebirth would make cleric prime skills available, and so forth.  The idea didn't catch at the time, probably because fewer players were rebirthing and the game wasn't quite ready for it.
 
@@ -1432,19 +1432,19 @@ Thief
 
 </div>
 
-<div class="post" data-post-id="38907" data-author="*Breeze*" data-date="2018-06-18T20:31:04+00:00">
+<div class="post" data-post-id="38907" data-author="*Breeze*" data-date="2018-06-18T20:31:04+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 that only works if the player keeps their CLASSO the same each time though.
 
 </div>
 
-<div class="post" data-post-id="38908" data-author="Driven" data-date="2018-06-18T20:33:02+00:00">
+<div class="post" data-post-id="38908" data-author="Driven" data-date="2018-06-18T20:33:02+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Yea, I think that's a reasonable restriction that most people would agree to... 2nd rebirth sets you back to 1/1/1, 3rd rebirth sets you back to 1/1/1/1, etc.
 
 </div>
 
-<div class="post" data-post-id="38909" data-author="Josiah" data-date="2018-06-18T20:54:13+00:00">
+<div class="post" data-post-id="38909" data-author="Josiah" data-date="2018-06-18T20:54:13+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Driven's proposal looks like all kinds of fun.  Not digging the doubled cost of some utility spells like shield of thorns, but most of the other numbers are within reason.
 
@@ -1458,7 +1458,7 @@ I'd probably open access to past life skills at level 1 avatar.  A rebirth char 
 
 </div>
 
-<div class="post" data-post-id="38910" data-author="Josiah" data-date="2018-06-18T21:30:15+00:00">
+<div class="post" data-post-id="38910" data-author="Josiah" data-date="2018-06-18T21:30:15+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Arguments against infinite rebirth:
 
@@ -1478,7 +1478,7 @@ I don't have a rebuttal for concern #1, although some previous players have sugg
 
 </div>
 
-<div class="post" data-post-id="38911" data-author="Gorka" data-date="2018-06-18T21:32:43+00:00">
+<div class="post" data-post-id="38911" data-author="Gorka" data-date="2018-06-18T21:32:43+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I don't like much driven's proposal, complicated to implement, difficult to balance if something is not quite right and there is no justification for some of the figures he's choosen... and once again, it's destroying the idea of primes. It's always the same people who come out with a boner at any suggestion of weakening primes. I love the idea of difference, it gives the game flavor and supports the idea of people working together based on there skill sets. You mess with that at your peril. Does the game get better by making Sochi redundant in a group... does the game get better by making Ezekiel as a mage redundant to 1.1k warrior mana with massive BONUS_SPELL_BONUS eq?
 
@@ -1492,19 +1492,19 @@ It's a reoccuring theme in every run... normally more time is spent in the stand
 
 </div>
 
-<div class="post" data-post-id="38912" data-author="Driven" data-date="2018-06-18T22:46:49+00:00">
+<div class="post" data-post-id="38912" data-author="Driven" data-date="2018-06-18T22:46:49+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Gorka will never have the spell saves, the spell bonus, the mana, nor the mana regen of Ezekiel, so how is gaining access to frostbolt changing the unique nature of the classes?   You will still be better played as a warrior than a mage, but now you have some more toys to play with.  I don't see the issue.  Sochi's songs can affect far more people's than yours ever will and so we will always go with his gods of war over yours.
 
 </div>
 
-<div class="post" data-post-id="38913" data-author="Driven" data-date="2018-06-18T23:52:54+00:00">
+<div class="post" data-post-id="38913" data-author="Driven" data-date="2018-06-18T23:52:54+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I have a lot more to say, but it's hard on mobile.  This game is not only about max xp/minute.  Just because you don't increase your effeciency in xp doesn't automatically disqualify a feature from something that is fun or worthy to strive for.  Getting piasa will be silly awesome.  Getting second wind and parry will be silly awesome.  Getting the ability to have mirros and solo Yrdan the ninja.  Trust me when I say wraithtouch is awesome.  Playing with a juju zombie and building a new eqset for followers... with second wind will be amazing.  Do they all increase my damage/millisecond?  No, but they are FUN.
 
 </div>
 
-<div class="post" data-post-id="38915" data-author="Filk" data-date="2018-06-19T02:10:11+00:00">
+<div class="post" data-post-id="38915" data-author="Filk" data-date="2018-06-19T02:10:11+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 > ***Breeze* wrote:**
 > 2. Atm I have final say on most things.
@@ -1528,13 +1528,13 @@ And with rebirth stats shop, that would be another way  to improve chars in two 
 
 </div>
 
-<div class="post" data-post-id="38916" data-author="Driven" data-date="2018-06-19T02:34:13+00:00">
+<div class="post" data-post-id="38916" data-author="Driven" data-date="2018-06-19T02:34:13+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Agree, Fluffy, I see the rebirth shop as a short-term thing and the rebirth progression more long-term.  Let's get a creator-decision on the rebirth shop so we can move forward with that.
 
 </div>
 
-<div class="post" data-post-id="38917" data-author="Gorka" data-date="2018-06-19T04:44:14+00:00">
+<div class="post" data-post-id="38917" data-author="Gorka" data-date="2018-06-19T04:44:14+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 > **Driven wrote:**
 > https://www.youtube.com/watch?v=MStoUfrsCig
@@ -1547,7 +1547,7 @@ Go check my 6+ high scores in the coliseum, and then try and tell me my mage pow
 
 </div>
 
-<div class="post" data-post-id="38918" data-author="Josiah" data-date="2018-06-19T06:35:43+00:00">
+<div class="post" data-post-id="38918" data-author="Josiah" data-date="2018-06-19T06:35:43+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Gorka, let's try to keep it civil.  
 
@@ -1559,7 +1559,7 @@ Please you expand on the "millions of other ideas" you want us to consider. Shar
 
 </div>
 
-<div class="post" data-post-id="38919" data-author="cyprimus" data-date="2018-06-19T06:44:44+00:00">
+<div class="post" data-post-id="38919" data-author="cyprimus" data-date="2018-06-19T06:44:44+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I think prime class should be most important.
 
@@ -1569,7 +1569,7 @@ I like that the game is replayable... that is.. i play a different classo, and i
 
 </div>
 
-<div class="post" data-post-id="38920" data-author="Teron" data-date="2018-06-19T06:57:35+00:00">
+<div class="post" data-post-id="38920" data-author="Teron" data-date="2018-06-19T06:57:35+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 > **Driven wrote:**
 > Yea, I think that's a reasonable restriction that most people would agree to... 2nd rebirth sets you back to 1/1/1, 3rd rebirth sets you back to 1/1/1/1, etc.
@@ -1620,7 +1620,7 @@ Also, I don't think these concepts are mutually exclusive. If one can pick betwe
 
 </div>
 
-<div class="post" data-post-id="38921" data-author="Gorka" data-date="2018-06-19T07:04:39+00:00">
+<div class="post" data-post-id="38921" data-author="Gorka" data-date="2018-06-19T07:04:39+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Here are some types of ideas i'd like to see in a rebirth (class/skill set)... 
 
@@ -1656,7 +1656,7 @@ First, I want to see rebirth shop, so I can work on some existing +1's.
 
 </div>
 
-<div class="post" data-post-id="38922" data-author="Driven" data-date="2018-06-19T16:02:33+00:00">
+<div class="post" data-post-id="38922" data-author="Driven" data-date="2018-06-19T16:02:33+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Gorka, the addition of prime classes on rebirth is a natural extension of our 8-class system and abstractly makes sense from the context of "rebirth".  I hate to break it to you, but you are *already* a mage, with access to firewind and disintegrate.  What truly makes a prime mage tick is the real question.  Having -31 spellsaves and a badass spell bonus, with tons of mana, high intelligence, and good regen.  Having frostbolt does add to its unique nature, but that is not the only thing that makes a mage a mage.  Like I said, you aren't going to make a mage start fighting like a warrior and vice versa... it just wouldn't be optimal.  Your counterargument that frostbolt would improve Gorka in the arena is laughable, because you yourself are vying for +hand damage and +damage... how is *that* not going to improve your arena score and "mess with the balance"?  You argue against yourself in the same sentence.  And to continue to hold to the idea that your firewind (or eventual frostbolt at 90% nerfed damage, nerfed 30 mana) somehow replaces Ezekiel in a group is even more laughable.  His frostbolt already does 900 damage... your wind does 600 if you're lucky, and I doubt your frostbolt would ever cap 750.  Not to mention that he can cast 50 of them and you can cast 30 of them.  The difference is laughable.
 
@@ -1666,19 +1666,19 @@ That being said, let's discuss the rebirth shop and get some consensus on it bef
 
 </div>
 
-<div class="post" data-post-id="38923" data-author="Gorka" data-date="2018-06-19T18:06:41+00:00">
+<div class="post" data-post-id="38923" data-author="Gorka" data-date="2018-06-19T18:06:41+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I'm so glad there is an adult in the room, and it just happens to be you.
 
 </div>
 
-<div class="post" data-post-id="38924" data-author="Driven" data-date="2018-06-19T20:34:46+00:00">
+<div class="post" data-post-id="38924" data-author="Driven" data-date="2018-06-19T20:34:46+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 You forgot that I have many leather-bound books and my apartment smells of rich mahogany.
 
 </div>
 
-<div class="post" data-post-id="38925" data-author="*Breeze*" data-date="2018-06-19T21:13:37+00:00">
+<div class="post" data-post-id="38925" data-author="*Breeze*" data-date="2018-06-19T21:13:37+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Back on topic or I lock this thread.
 
@@ -1686,7 +1686,7 @@ I may not always reply (eg. THINGS I ALREADY COMMENTED ON, BUT I ALWAYS READ..)
 
 </div>
 
-<div class="post" data-post-id="38926" data-author="Driven" data-date="2018-06-19T22:09:54+00:00">
+<div class="post" data-post-id="38926" data-author="Driven" data-date="2018-06-19T22:09:54+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Sorry Breeze.  I think we are hoping to receive approval on Gorka's proposal here:  
 
@@ -1702,7 +1702,7 @@ Thanks ahead of time for your time, Breeze... life is insane with kids and we ap
 
 </div>
 
-<div class="post" data-post-id="38927" data-author="Teron" data-date="2018-06-20T12:56:12+00:00">
+<div class="post" data-post-id="38927" data-author="Teron" data-date="2018-06-20T12:56:12+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Gorka, when I suggested to add quests for us to earn area recalls, Splork said we had enough beacons.
 
@@ -1710,7 +1710,7 @@ Otherwise, I support the idea.
 
 </div>
 
-<div class="post" data-post-id="38928" data-author="Gorka" data-date="2018-06-20T14:02:16+00:00">
+<div class="post" data-post-id="38928" data-author="Gorka" data-date="2018-06-20T14:02:16+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 > **Teron wrote:**
 > Gorka, when I suggested to add quests for us to earn area recalls, Splork said we had enough beacons. Otherwise, I support the idea.
@@ -1737,7 +1737,7 @@ There are two areas of improvement that can be targeted to minimize standing tim
 
 </div>
 
-<div class="post" data-post-id="38929" data-author="Filk" data-date="2018-06-20T14:33:02+00:00">
+<div class="post" data-post-id="38929" data-author="Filk" data-date="2018-06-20T14:33:02+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 Guys, why are you discussing all that in that topic? There is one important question up. Give Breeze opportunity to answer please, because he kinda miss all questions in your spam.
 
@@ -1760,7 +1760,7 @@ Guys, why are you discussing all that in that topic? There is one important ques
 
 </div>
 
-<div class="post" data-post-id="38930" data-author="*Splork*" data-date="2018-06-20T17:35:24+00:00">
+<div class="post" data-post-id="38930" data-author="*Splork*" data-date="2018-06-20T17:35:24+00:00" data-subject="Re: Oh look... Another Rebirth Topic...">
 
 I veto Splork's comments about additional area recalls :P
 

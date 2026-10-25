@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39063" data-author="Gorka" data-date="2019-01-20T10:17:51+00:00">
+<div class="post" data-post-id="39063" data-author="Gorka" data-date="2019-01-20T10:17:51+00:00" data-subject="10 Rules to help you be unsuccessful in Sloth">
 
 * Don't lead
 

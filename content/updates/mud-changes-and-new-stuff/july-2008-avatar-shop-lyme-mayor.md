@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26444" data-author="Judge" data-date="2008-09-24T07:06:30+00:00">
+<div class="post" data-post-id="26444" data-author="Judge" data-date="2008-09-24T07:06:30+00:00" data-subject="July 2008: Avatar Shop (Lyme Mayor)">
 
 Some improvements have been made to the Lyme Mayor
 

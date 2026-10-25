@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="14353" data-author="Falsra" data-date="2006-09-28T09:13:55+00:00">
+<div class="post" data-post-id="14353" data-author="Falsra" data-date="2006-09-28T09:13:55+00:00" data-subject="clan eq">
 
 Again, just thoughts, but...
 
@@ -42,7 +42,7 @@ Nothing special, but seems stylish  :P
 
 </div>
 
-<div class="post" data-post-id="14354" data-author="*Splork*" data-date="2006-09-28T11:07:04+00:00">
+<div class="post" data-post-id="14354" data-author="*Splork*" data-date="2006-09-28T11:07:04+00:00" data-subject="">
 
 We are against forcing players to join clans to aquire special eq, spells, etc. A player who is not in a clan should be just as powerful as those who are.
 
@@ -50,7 +50,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14359" data-author="Weasel" data-date="2006-09-28T13:14:44+00:00">
+<div class="post" data-post-id="14359" data-author="Weasel" data-date="2006-09-28T13:14:44+00:00" data-subject="">
 
 Agreed Splork - or everyone will join the biggest and therefore wealthiest clan with the most eq, and if everyone is in the same clan, what's the point of having clans? ..not to mention the fact that some players may not want to join a clan anyway.
 
@@ -58,7 +58,7 @@ There was a suggestion a while back of having a clan-specific clasp that has no 
 
 </div>
 
-<div class="post" data-post-id="14363" data-author="Autolycos" data-date="2006-09-28T14:59:56+00:00">
+<div class="post" data-post-id="14363" data-author="Autolycos" data-date="2006-09-28T14:59:56+00:00" data-subject="">
 
 i think KJ made a few but then i never heard anymore about it.  i was interested in the no-stat clasps just for style points.
 
@@ -68,13 +68,13 @@ I like this idea  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14364" data-author="Alberich" data-date="2006-09-28T15:22:04+00:00">
+<div class="post" data-post-id="14364" data-author="Alberich" data-date="2006-09-28T15:22:04+00:00" data-subject="">
 
 clan (nonstat) claps would be cool... it's been brought up a number of times now, would be nice to see
 
 </div>
 
-<div class="post" data-post-id="14365" data-author="13" data-date="2006-09-28T16:40:08+00:00">
+<div class="post" data-post-id="14365" data-author="13" data-date="2006-09-28T16:40:08+00:00" data-subject="">
 
 I don't see the Dogs accepting any new members after our next prospect
 
@@ -84,7 +84,7 @@ or some shit
 
 </div>
 
-<div class="post" data-post-id="14372" data-author="brand" data-date="2006-09-28T21:46:05+00:00">
+<div class="post" data-post-id="14372" data-author="brand" data-date="2006-09-28T21:46:05+00:00" data-subject="">
 
 I don't see the Dogs accepting any new members after our next prospect gets inducted.[/quote:2qzoivna]
 
@@ -94,7 +94,7 @@ clan clasp with nostats = awesome
 
 </div>
 
-<div class="post" data-post-id="14398" data-author="Qa" data-date="2006-09-30T23:34:20+00:00">
+<div class="post" data-post-id="14398" data-author="Qa" data-date="2006-09-30T23:34:20+00:00" data-subject="">
 
 The Golden Tigers (GT) is also undergoing an era of rebirth.  We would welcome serious long term mudders as candidates.  Contact me, Madmax, Blade, Krya or Farfu if you are interested.
 

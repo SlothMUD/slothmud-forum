@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="30749" data-author="Gramps" data-date="2010-01-27T01:58:25+00:00">
+<div class="post" data-post-id="30749" data-author="Gramps" data-date="2010-01-27T01:58:25+00:00" data-subject="Windows 7">
 
 Gramps gots a new netbook. :D 
 
@@ -20,13 +20,13 @@ Muchas Gracias
 
 </div>
 
-<div class="post" data-post-id="30750" data-author="jezer" data-date="2010-01-27T02:23:15+00:00">
+<div class="post" data-post-id="30750" data-author="jezer" data-date="2010-01-27T02:23:15+00:00" data-subject="">
 
 Were you "Grandpa" from sloth 3 by any chance?
 
 </div>
 
-<div class="post" data-post-id="30751" data-author="*Splork*" data-date="2010-01-27T02:42:22+00:00">
+<div class="post" data-post-id="30751" data-author="*Splork*" data-date="2010-01-27T02:42:22+00:00" data-subject="Please email me directly">
 
 Anyone in need of the windows 7 wintin.net installer, please email me directly and I will send it to you.
 
@@ -34,7 +34,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30752" data-author="Gramps" data-date="2010-01-27T03:43:21+00:00">
+<div class="post" data-post-id="30752" data-author="Gramps" data-date="2010-01-27T03:43:21+00:00" data-subject="">
 
 Thanks Splork will do.  
 
@@ -46,13 +46,13 @@ G2  the Grampster
 
 </div>
 
-<div class="post" data-post-id="30756" data-author="Gramps" data-date="2010-01-29T00:35:19+00:00">
+<div class="post" data-post-id="30756" data-author="Gramps" data-date="2010-01-29T00:35:19+00:00" data-subject="">
 
 Still no installer for Win7.  Any suggestions?
 
 </div>
 
-<div class="post" data-post-id="30757" data-author="wish" data-date="2010-01-29T06:40:12+00:00">
+<div class="post" data-post-id="30757" data-author="wish" data-date="2010-01-29T06:40:12+00:00" data-subject="">
 
 I've uploaded a copy of a build that installs to Windows 7 to the wintin sourceforge page. Let me know if it works/doesn't.
 
@@ -64,7 +64,7 @@ Steven
 
 </div>
 
-<div class="post" data-post-id="30759" data-author="Gramps" data-date="2010-01-29T14:54:46+00:00">
+<div class="post" data-post-id="30759" data-author="Gramps" data-date="2010-01-29T14:54:46+00:00" data-subject="">
 
 Thanks for posting the files.  I am logged on now with my new windows 7 machine.   :) 
 
@@ -74,7 +74,7 @@ But, I am finally logged on with my newbook.  Yah!  Thanks for the help.
 
 </div>
 
-<div class="post" data-post-id="30868" data-author="wish" data-date="2010-02-07T22:57:40+00:00">
+<div class="post" data-post-id="30868" data-author="wish" data-date="2010-02-07T22:57:40+00:00" data-subject="">
 
 By default [on Windows 7] the scripts are stored in C:\Users\{username}\AppData\Roaming\Wintin
 

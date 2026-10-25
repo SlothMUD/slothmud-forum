@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38634" data-author="Teron" data-date="2018-01-20T18:02:52+00:00">
+<div class="post" data-post-id="38634" data-author="Teron" data-date="2018-01-20T18:02:52+00:00" data-subject="spectral shield doesn&#x27;t work a lot">
 
 Getting lots of these:
 
@@ -28,13 +28,13 @@ You are already shielded by spectres.
 
 </div>
 
-<div class="post" data-post-id="38636" data-author="*teker*" data-date="2018-01-22T19:08:39+00:00">
+<div class="post" data-post-id="38636" data-author="*teker*" data-date="2018-01-22T19:08:39+00:00" data-subject="Re: spectral shield doesn&#x27;t work a lot">
 
 What's your mana/max when this is happening?
 
 </div>
 
-<div class="post" data-post-id="38637" data-author="Teron" data-date="2018-01-23T11:59:33+00:00">
+<div class="post" data-post-id="38637" data-author="Teron" data-date="2018-01-23T11:59:33+00:00" data-subject="Re: spectral shield doesn&#x27;t work a lot">
 
 Below max.
 

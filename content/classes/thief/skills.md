@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="3672" data-author="iain" data-date="2005-01-08T18:40:37+00:00">
+<div class="post" data-post-id="3672" data-author="iain" data-date="2005-01-08T18:40:37+00:00" data-subject="skills">
 
 gouge - no mana blind, replaces one attack
 
@@ -26,7 +26,7 @@ deflect - very limited instance of parry that is sort of like the mage spell shi
 
 </div>
 
-<div class="post" data-post-id="3674" data-author="Weasel" data-date="2005-01-08T18:48:09+00:00">
+<div class="post" data-post-id="3674" data-author="Weasel" data-date="2005-01-08T18:48:09+00:00" data-subject="">
 
 lol yeah, and why not give thiefs all the same properties of an immort while we're at it? 
 
@@ -34,19 +34,19 @@ It's allegedly the top solo class already, chill out.
 
 </div>
 
-<div class="post" data-post-id="3675" data-author="iain" data-date="2005-01-08T22:19:48+00:00">
+<div class="post" data-post-id="3675" data-author="iain" data-date="2005-01-08T22:19:48+00:00" data-subject="quiet rodent boy!">
 
 This is one of those instances where playing something other than 2 wa/mc/cl/th characters would come in handy.  Thieves are woefully skill deficient. If you are a non prime thief, without poison or circle, and with a diminished stab, it is ever more absurd. Compare thief to monk. Monk gets 25 skills, including purity, compated to 19 for thief. Not to mention that 7 of the thief skills are level 1. I won't even bother comparing the quality of the skills but suffice it to say that monk > thief.
 
 </div>
 
-<div class="post" data-post-id="3676" data-author="Weasel" data-date="2005-01-08T22:22:35+00:00">
+<div class="post" data-post-id="3676" data-author="Weasel" data-date="2005-01-08T22:22:35+00:00" data-subject="">
 
 hey I'm a WA prime, I don't know the meaning of the word skill :)
 
 </div>
 
-<div class="post" data-post-id="6963" data-author="Vixn" data-date="2005-06-09T06:37:43+00:00">
+<div class="post" data-post-id="6963" data-author="Vixn" data-date="2005-06-09T06:37:43+00:00" data-subject="non-prime thieves">
 
 Futher to recent discussion. It's just some basis ideas:
 
@@ -72,13 +72,13 @@ thanks
 
 </div>
 
-<div class="post" data-post-id="6965" data-author="Zam" data-date="2005-06-09T07:21:39+00:00">
+<div class="post" data-post-id="6965" data-author="Zam" data-date="2005-06-09T07:21:39+00:00" data-subject="">
 
 if ya dont like non-prime thief - start a new character without thief in classo , or thief prime. stop complaining , all your ideas are simply newbiesh.
 
 </div>
 
-<div class="post" data-post-id="6973" data-author="12345" data-date="2005-06-09T10:59:05+00:00">
+<div class="post" data-post-id="6973" data-author="12345" data-date="2005-06-09T10:59:05+00:00" data-subject="">
 
 Weasel:
 
@@ -96,13 +96,13 @@ Bluff - Shout (yell) for non-existant reinforcements in battle.  Can only be don
 
 </div>
 
-<div class="post" data-post-id="6998" data-author="Shadis" data-date="2005-06-09T16:36:21+00:00">
+<div class="post" data-post-id="6998" data-author="Shadis" data-date="2005-06-09T16:36:21+00:00" data-subject="">
 
 actually taunt, dirty kick and poison resistance makes a lot of sense for thieves
 
 </div>
 
-<div class="post" data-post-id="6999" data-author="12345" data-date="2005-06-09T17:02:25+00:00">
+<div class="post" data-post-id="6999" data-author="12345" data-date="2005-06-09T17:02:25+00:00" data-subject="">
 
 The listen skill is pretty good too.  If I remember, it's pretty close to the detect noise skill in D&D without the penalty for using it while wearing a helmet.
 
@@ -110,7 +110,7 @@ It'd be nice to see something more combat oriented though.  Thieves have lots of
 
 </div>
 
-<div class="post" data-post-id="15840" data-author="brand" data-date="2006-12-29T14:14:59+00:00">
+<div class="post" data-post-id="15840" data-author="brand" data-date="2006-12-29T14:14:59+00:00" data-subject="help backtrack">
 
 this limited form of shadowwalk would allow a thief to make a mark in an area and then shadow back to that mark so long as they are in the same area.
 

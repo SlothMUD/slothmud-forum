@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33323" data-author="Harm" data-date="2012-06-02T23:30:11+00:00">
+<div class="post" data-post-id="33323" data-author="Harm" data-date="2012-06-02T23:30:11+00:00" data-subject="Coming back to Sloth">
 
 Hi guys,
 
@@ -22,7 +22,7 @@ Harm
 
 </div>
 
-<div class="post" data-post-id="33324" data-author="*Breeze*" data-date="2012-06-02T23:32:39+00:00">
+<div class="post" data-post-id="33324" data-author="*Breeze*" data-date="2012-06-02T23:32:39+00:00" data-subject="Re: Coming back to Sloth">
 
 wintin.net
 

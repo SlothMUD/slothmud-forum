@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30249" data-author="*Splork*" data-date="2009-11-09T02:05:36+00:00">
+<div class="post" data-post-id="30249" data-author="*Splork*" data-date="2009-11-09T02:05:36+00:00" data-subject="Hitpoint changes">
 
 1) hit point changes, every point of con now counts
 

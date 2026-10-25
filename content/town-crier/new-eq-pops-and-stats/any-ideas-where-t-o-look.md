@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="26771" data-author="Kanae" data-date="2008-10-19T16:01:41+00:00">
+<div class="post" data-post-id="26771" data-author="Kanae" data-date="2008-10-19T16:01:41+00:00" data-subject="Any ideas where t o look ?">
 
 okay.. i've managed to gather all the pieces needed to forge neptunes rib.. however i am having an difficulty locating the forger. Any help would be greatly appreciated. That is an area to try.. a hint at the forger.. 
 
@@ -18,7 +18,7 @@ thanks.
 
 </div>
 
-<div class="post" data-post-id="27620" data-author="Teron" data-date="2009-01-05T12:40:07+00:00">
+<div class="post" data-post-id="27620" data-author="Teron" data-date="2009-01-05T12:40:07+00:00" data-subject="">
 
 The forger is Lyrastrya (Onyx tower, most likely), costs 750k.
 

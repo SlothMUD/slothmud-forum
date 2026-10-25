@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="8395" data-author="Zam" data-date="2005-08-25T17:52:51+00:00">
+<div class="post" data-post-id="8395" data-author="Zam" data-date="2005-08-25T17:52:51+00:00" data-subject="something new ... ?">
 
 <610hp 328ma 106mv>                                                               <20>     <174303078>
 
@@ -26,13 +26,13 @@ The note has some blurred words scrawled over the surface.
 
 </div>
 
-<div class="post" data-post-id="8396" data-author="Krok" data-date="2005-08-25T18:38:21+00:00">
+<div class="post" data-post-id="8396" data-author="Krok" data-date="2005-08-25T18:38:21+00:00" data-subject="">
 
 Sounds like weekly forge?
 
 </div>
 
-<div class="post" data-post-id="8397" data-author="13" data-date="2005-08-25T18:46:45+00:00">
+<div class="post" data-post-id="8397" data-author="13" data-date="2005-08-25T18:46:45+00:00" data-subject="">
 
 bleah, looks like some thief shield, skunked again!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10013" data-author="Poolp" data-date="2006-01-08T11:55:20+00:00">
+<div class="post" data-post-id="10013" data-author="Poolp" data-date="2006-01-08T11:55:20+00:00" data-subject="Hello again!">
 
 First of all,
 

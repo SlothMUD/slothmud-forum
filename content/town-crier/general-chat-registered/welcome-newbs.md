@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="12741" data-author="*juggleblood*" data-date="2006-05-26T21:17:51+00:00">
+<div class="post" data-post-id="12741" data-author="*juggleblood*" data-date="2006-05-26T21:17:51+00:00" data-subject="Welcome Newbs">
 
 We've been getting a lot more newbs and one or two n00bs since we moved up a few places on the mudlist.
 
@@ -30,7 +30,7 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="12744" data-author="Rynquald" data-date="2006-05-26T23:15:00+00:00">
+<div class="post" data-post-id="12744" data-author="Rynquald" data-date="2006-05-26T23:15:00+00:00" data-subject="">
 
 Nice info over all, but I must protest (again :)) suggesting to newbs who want to play a caster that they should start a nc prime. Yes, casters aren't quite as strong as non-casters in the very early levels, but imho if a caster is the style char a newb wants to play they'll find it less frustrating than playing a nc that at early levs is totally devoid of spells (not to mention mana).
 
@@ -40,7 +40,7 @@ And a lev 1 mage is totally capable of blasting a ferret down with magic missile
 
 </div>
 
-<div class="post" data-post-id="12745" data-author="kjartan" data-date="2006-05-26T23:29:23+00:00">
+<div class="post" data-post-id="12745" data-author="kjartan" data-date="2006-05-26T23:29:23+00:00" data-subject="">
 
 And a level 1 necro can do the same with tenebrous claw, he just needs to wait for the sun to go down or push the ferret into a dark alley first.
 

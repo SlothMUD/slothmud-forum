@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34204" data-author="*juggleblood*" data-date="2013-03-30T22:20:02+00:00">
+<div class="post" data-post-id="34204" data-author="*juggleblood*" data-date="2013-03-30T22:20:02+00:00" data-subject="Aisholm Autoquests: the New and the Retired">
 
 Flawed gem no longer has a drachma resale value. 
 

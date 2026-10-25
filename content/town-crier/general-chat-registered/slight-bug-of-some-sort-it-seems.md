@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="26605" data-author="strider" data-date="2008-10-08T04:16:34+00:00">
+<div class="post" data-post-id="26605" data-author="strider" data-date="2008-10-08T04:16:34+00:00" data-subject="Slight bug of some sort it seems.">
 
 Ok, so the minstrel in desert palace near sultan has a slight problem with it. killed it for no real reason to help abone, and this is what happened.
 
@@ -324,19 +324,19 @@ i reconnect, then it crashes shortly afterwards. tried to make a rabbit outta hi
 
 </div>
 
-<div class="post" data-post-id="26606" data-author="Yinao" data-date="2008-10-08T04:27:45+00:00">
+<div class="post" data-post-id="26606" data-author="Yinao" data-date="2008-10-08T04:27:45+00:00" data-subject="">
 
 I blame the loud noises
 
 </div>
 
-<div class="post" data-post-id="26607" data-author="Weasel" data-date="2008-10-08T04:30:11+00:00">
+<div class="post" data-post-id="26607" data-author="Weasel" data-date="2008-10-08T04:30:11+00:00" data-subject="">
 
 mep.
 
 </div>
 
-<div class="post" data-post-id="26608" data-author="strider" data-date="2008-10-08T04:46:06+00:00">
+<div class="post" data-post-id="26608" data-author="strider" data-date="2008-10-08T04:46:06+00:00" data-subject="">
 
 ohh well, it happened again, this time on a saint in eden. the deaths of the mobs were different. first one i blasted as a piasa, second one my bokor finished off w/ a blast of his own. 
 
@@ -534,19 +534,19 @@ no crash this time at least, go figure.
 
 </div>
 
-<div class="post" data-post-id="26609" data-author="Weasel" data-date="2008-10-08T05:13:58+00:00">
+<div class="post" data-post-id="26609" data-author="Weasel" data-date="2008-10-08T05:13:58+00:00" data-subject="">
 
 it's those scary loud noises again...
 
 </div>
 
-<div class="post" data-post-id="26610" data-author="jezer" data-date="2008-10-08T05:16:33+00:00">
+<div class="post" data-post-id="26610" data-author="jezer" data-date="2008-10-08T05:16:33+00:00" data-subject="">
 
 I'm wondering why his mud session is called bob.  :shock:
 
 </div>
 
-<div class="post" data-post-id="26620" data-author="Stryx" data-date="2008-10-08T11:54:29+00:00">
+<div class="post" data-post-id="26620" data-author="Stryx" data-date="2008-10-08T11:54:29+00:00" data-subject="">
 
 [quote:302wda6n]I'm wondering why his mud session is called bob.[/quote:302wda6n]
 
@@ -554,7 +554,7 @@ Robert is harder to spell?
 
 </div>
 
-<div class="post" data-post-id="26666" data-author="*juggleblood*" data-date="2008-10-11T22:53:47+00:00">
+<div class="post" data-post-id="26666" data-author="*juggleblood*" data-date="2008-10-11T22:53:47+00:00" data-subject="">
 
 I tracked it down and isolated it, sent it to coders to fix.
 

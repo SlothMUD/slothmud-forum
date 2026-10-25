@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="16318" data-author="Elsie" data-date="2007-01-16T18:20:12+00:00">
+<div class="post" data-post-id="16318" data-author="Elsie" data-date="2007-01-16T18:20:12+00:00" data-subject="Are we offline?">
 
 I've got internet connection, I can post this my client is getting a constant :
 

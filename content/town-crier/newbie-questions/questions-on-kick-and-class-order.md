@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="5970" data-author="SirRobin" data-date="2005-05-04T13:45:11+00:00">
+<div class="post" data-post-id="5970" data-author="SirRobin" data-date="2005-05-04T13:45:11+00:00" data-subject="Questions on Kick and Class Order">
 
 Some beginning newbie questions:
 
@@ -22,7 +22,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="5971" data-author="Calim" data-date="2005-05-04T14:50:58+00:00">
+<div class="post" data-post-id="5971" data-author="Calim" data-date="2005-05-04T14:50:58+00:00" data-subject="">
 
 1) Your observations are correct.  Kick, bash, offensive and healing spells can be cast in the time between 'combat rounds'  My personal observation has been that you can only kick (or any other skill) once between rounds.  Healing and Offensive spells seem to be an alternating 1 cast, 2 casts between rounds.  Which with the right attack or healing spells can be very important :).
 
@@ -30,7 +30,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="5972" data-author="blackmore" data-date="2005-05-04T15:11:22+00:00">
+<div class="post" data-post-id="5972" data-author="blackmore" data-date="2005-05-04T15:11:22+00:00" data-subject="">
 
 1)  Some skills are "innate", which means they aren't under your control - if you have it, it's used.  2x attack is one of those.  kicking, spells, etc have no bearing on 2x attack.
 
@@ -38,7 +38,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="5973" data-author="Leaf" data-date="2005-05-04T17:09:38+00:00">
+<div class="post" data-post-id="5973" data-author="Leaf" data-date="2005-05-04T17:09:38+00:00" data-subject="">
 
 Well Blackie not sure about ur #2...  
 
@@ -50,7 +50,7 @@ them a little bit more mana then 4th.  That and sanc 4th SUCKS!  :)
 
 </div>
 
-<div class="post" data-post-id="5974" data-author="blackmore" data-date="2005-05-04T17:51:50+00:00">
+<div class="post" data-post-id="5974" data-author="blackmore" data-date="2005-05-04T17:51:50+00:00" data-subject="">
 
 If you're creating a character based on maximizing hps or mana, you're probably a veteran player who is trying to create a certain style of character, knowing they will be missing some critical skills, but they also know how to compensate - or know they have friends who will help them compensate.
 
@@ -58,7 +58,7 @@ I said most of the time for a reason - this is the newbie forum after all.
 
 </div>
 
-<div class="post" data-post-id="5975" data-author="12345" data-date="2005-05-04T18:32:56+00:00">
+<div class="post" data-post-id="5975" data-author="12345" data-date="2005-05-04T18:32:56+00:00" data-subject="">
 
 I'll just toss in another observation.  3rd and 4th classes give very few hps.  4th in particular only gives 1 point every few levels for a warrior even.  Mana is a completely different story...  You obviously won't have the mana totals of a 4x caster or ca/ca, but you get a lot more than 1 mana every few levels in quad class if you put a casting class there.
 
@@ -68,7 +68,7 @@ Good luck  :D
 
 </div>
 
-<div class="post" data-post-id="5976" data-author="Gnu" data-date="2005-05-04T18:35:14+00:00">
+<div class="post" data-post-id="5976" data-author="Gnu" data-date="2005-05-04T18:35:14+00:00" data-subject="">
 
 Well Blackie not sure about ur #2...  
 
@@ -84,19 +84,19 @@ them a little bit more mana then 4th.  That and sanc 4th SUCKS!  :)[/quote:1m0kf
 
 </div>
 
-<div class="post" data-post-id="5978" data-author="SirRobin" data-date="2005-05-04T21:20:25+00:00">
+<div class="post" data-post-id="5978" data-author="SirRobin" data-date="2005-05-04T21:20:25+00:00" data-subject="">
 
 Thanks for all the feedback, I learned quite a bit. I spent about 12 hours with my first character here then decided to start another when I realized that the order of the first two classes would make a huge difference in early play. The first character was Dr/Mo/Ma/Th, and the new one is Mo/Dr/Ne/Ma. Needless to say, the new one is much easier to play starting out.
 
 </div>
 
-<div class="post" data-post-id="5979" data-author="Avatar" data-date="2005-05-04T21:53:41+00:00">
+<div class="post" data-post-id="5979" data-author="Avatar" data-date="2005-05-04T21:53:41+00:00" data-subject="classo&#x27;s">
 
 Druid makes a good second class too.  Try to sleep outdoors when you need to regen mana, and welcome  :)
 
 </div>
 
-<div class="post" data-post-id="5990" data-author="13" data-date="2005-05-05T12:54:13+00:00">
+<div class="post" data-post-id="5990" data-author="13" data-date="2005-05-05T12:54:13+00:00" data-subject="">
 
 I wouldn't try a character without cleric in classo as my first shot at sloth bro.
 
@@ -104,7 +104,7 @@ Healing and sanc are too important to pass up imho.
 
 </div>
 
-<div class="post" data-post-id="5991" data-author="12345" data-date="2005-05-05T13:04:53+00:00">
+<div class="post" data-post-id="5991" data-author="12345" data-date="2005-05-05T13:04:53+00:00" data-subject="">
 
 I was surprised myself, but with Druid and Necro he can get some minor healing and wall of flesh.  Harder to play... but it's not uncommon among some of the more experienced chars.  At least it was before supplication.
 

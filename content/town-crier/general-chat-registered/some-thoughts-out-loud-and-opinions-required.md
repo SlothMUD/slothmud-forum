@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="34132" data-author="Dragoth" data-date="2013-03-12T07:19:57+00:00">
+<div class="post" data-post-id="34132" data-author="Dragoth" data-date="2013-03-12T07:19:57+00:00" data-subject="Some thoughts out loud and opinions required.">
 
 I had some free time and decided to ponder about what I do not like about the current system and come up with a few ideas which would make Slothmud a perfect mud **for me **and I kind of wanted to see what other players think.
 
@@ -56,13 +56,13 @@ Ok, I will let the poll take over.
 
 </div>
 
-<div class="post" data-post-id="34133" data-author="Ker" data-date="2013-03-12T11:31:51+00:00">
+<div class="post" data-post-id="34133" data-author="Ker" data-date="2013-03-12T11:31:51+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 I don't really like idea A. There are other ways to boost potential, already in-game. Why this? Like you mentioned, mana/regen/dmg is king. I don't like idea B either. What you write as "useless" is funny. Are you having some problems gettin around? :D
 
 </div>
 
-<div class="post" data-post-id="34134" data-author="Dragoth" data-date="2013-03-12T12:04:04+00:00">
+<div class="post" data-post-id="34134" data-author="Dragoth" data-date="2013-03-12T12:04:04+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 Well, it is not a problem of getting around per say, but i have problems with the game that i have outlined - to me, Idea A is as much about keeping it interesting and fresh, as it is about boosting. 
 
@@ -76,7 +76,7 @@ Again, i'm pretty sure that not everyone is going to feel what i feel, but it ju
 
 </div>
 
-<div class="post" data-post-id="34135" data-author="Yasik" data-date="2013-03-12T14:37:20+00:00">
+<div class="post" data-post-id="34135" data-author="Yasik" data-date="2013-03-12T14:37:20+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 I would like to see implemented a way to get non-drachma non-solo eq wothout eq-groups (rare as hell) or constantly grinding coins waiting for someone to do a vault ckeanup (which isnt going to happen, for volcanic guards, for axample).
 
@@ -84,7 +84,7 @@ Or, **repeatable** drachma quests.
 
 </div>
 
-<div class="post" data-post-id="34136" data-author="*Splork*" data-date="2013-03-12T21:53:01+00:00">
+<div class="post" data-post-id="34136" data-author="*Splork*" data-date="2013-03-12T21:53:01+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 > **Quote:**
 > has any immortal actually experienced the 5x40+ grind ? I mean, Jeez.
@@ -101,7 +101,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34137" data-author="Ker" data-date="2013-03-12T23:22:45+00:00">
+<div class="post" data-post-id="34137" data-author="Ker" data-date="2013-03-12T23:22:45+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 adding new skill or what was mentioned still does not ignore fact that you will still kill same things over and over and over again. how 'fresh' it will be is still a long gap. so i can't see how that will change things on a huge scale for it to be 'more' interesting on many levels. 
 
@@ -115,7 +115,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="34138" data-author="Dragoth" data-date="2013-03-13T06:15:50+00:00">
+<div class="post" data-post-id="34138" data-author="Dragoth" data-date="2013-03-13T06:15:50+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 Well you see, you are only concerned about the grind, whereas i am raising at least 3 issues in my post. 
 
@@ -135,7 +135,7 @@ If i thought the only problem was grind, then this issue could be solved within 
 
 </div>
 
-<div class="post" data-post-id="34140" data-author="*Breeze*" data-date="2013-03-13T09:30:53+00:00">
+<div class="post" data-post-id="34140" data-author="*Breeze*" data-date="2013-03-13T09:30:53+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 "however, judging by Splork's post above, it doesn't seem that way"
 
@@ -159,7 +159,7 @@ we then change it.
 
 </div>
 
-<div class="post" data-post-id="34141" data-author="*Splork*" data-date="2013-03-13T10:22:54+00:00">
+<div class="post" data-post-id="34141" data-author="*Splork*" data-date="2013-03-13T10:22:54+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 Exactly, I simply responded to what I felt was a silly statement/question which was being used to support statement A and was extremely untruthful and misleading.
 
@@ -173,7 +173,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34142" data-author="Dragoth" data-date="2013-03-13T10:25:52+00:00">
+<div class="post" data-post-id="34142" data-author="Dragoth" data-date="2013-03-13T10:25:52+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 It was just a wild guess, Breeze.
 
@@ -203,7 +203,7 @@ That's my case.
 
 </div>
 
-<div class="post" data-post-id="34143" data-author="*Splork*" data-date="2013-03-13T10:40:41+00:00">
+<div class="post" data-post-id="34143" data-author="*Splork*" data-date="2013-03-13T10:40:41+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 > **Quote:**
 > Now, why do i get the idea that Splork and other immortals are not interested in making the grind go away ?
@@ -214,7 +214,7 @@ I really get pissed when I hear my name dragged into this type of BS. You have n
 
 </div>
 
-<div class="post" data-post-id="34144" data-author="*Splork*" data-date="2013-03-13T10:56:47+00:00">
+<div class="post" data-post-id="34144" data-author="*Splork*" data-date="2013-03-13T10:56:47+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 The following two posts should clearly show how much I actually do care about this situation and they were done without any prompting from players:
 
@@ -224,7 +224,7 @@ http://www.slothmud.org/forum/viewtopic.php?f=26&t=3822
 
 </div>
 
-<div class="post" data-post-id="34145" data-author="Dragoth" data-date="2013-03-13T11:34:52+00:00">
+<div class="post" data-post-id="34145" data-author="Dragoth" data-date="2013-03-13T11:34:52+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 Well, you are the creator! Your name is bound to come up sooner rather than later  :mrgreen: 
 
@@ -234,7 +234,7 @@ I can honestly say that i dont mind the game being very long, i dont want this j
 
 </div>
 
-<div class="post" data-post-id="34148" data-author="fallen" data-date="2013-03-13T21:36:47+00:00">
+<div class="post" data-post-id="34148" data-author="fallen" data-date="2013-03-13T21:36:47+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 > **Dragoth wrote:**
 > Exp can be a bit too much, but it's not the exp itself for me, as it is the lack of forward momentum for the hours you put in. A horse runs twice as fast and whines alot less when there's a carrot dangling in front of its face.
@@ -269,7 +269,7 @@ Just my 2c.
 
 </div>
 
-<div class="post" data-post-id="34149" data-author="*Splork*" data-date="2013-03-13T22:43:41+00:00">
+<div class="post" data-post-id="34149" data-author="*Splork*" data-date="2013-03-13T22:43:41+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 Just about everything in the above post is already in-game. Clerics get bigger heals, Mages have biggers blasts, Thieves get bigger stab bonuses, Warriors have higher AC, etc etc. I guess we could extend these bonuses but again, similar to Dr's idea, this does not address Dragoth's original post. He wants more diversity. Which I actually agree with, it is the one aspect of the 8 class system I do not enjoy.
 
@@ -277,7 +277,7 @@ Achieving that diversity has been extremely difficult. It is not something we ar
 
 </div>
 
-<div class="post" data-post-id="34156" data-author="Stark" data-date="2013-03-14T20:48:58+00:00">
+<div class="post" data-post-id="34156" data-author="Stark" data-date="2013-03-14T20:48:58+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 I would suggest that once you hit 4x40, Avatar levels provide the best gains, and the 5th-8th classes are just there to provide the occasional utility ability, but mostly to get another 40, to get more avatar levels (and another pet).  People no longer count levels past 4x40, they count 40's and avatar levels.
 
@@ -293,7 +293,7 @@ This doesn't help the diversity question, but I think it would help some of the 
 
 </div>
 
-<div class="post" data-post-id="34328" data-author="Dragoth" data-date="2013-06-27T17:20:43+00:00">
+<div class="post" data-post-id="34328" data-author="Dragoth" data-date="2013-06-27T17:20:43+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 So, not to be a prick or anything, but i've been playing for over a week now on my latest come-back and/
 
@@ -317,7 +317,7 @@ Are we just going to pray for players old and new to just suddenly appear and sh
 
 </div>
 
-<div class="post" data-post-id="34331" data-author="alris" data-date="2013-07-02T17:02:15+00:00">
+<div class="post" data-post-id="34331" data-author="alris" data-date="2013-07-02T17:02:15+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 "one of our creators made 9x40, Katie" - Katie is back, serious?
 
@@ -335,7 +335,7 @@ Talking about low diversity and huge game changes - i always wanted to see diffe
 
 </div>
 
-<div class="post" data-post-id="34333" data-author="Magi" data-date="2013-07-03T00:44:16+00:00">
+<div class="post" data-post-id="34333" data-author="Magi" data-date="2013-07-03T00:44:16+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 I love the diversity in our current class system. I love my character who successfully stands the warrior archetype on its head and gets away with it.  I love using my ridiculously large undead control to summon ghosts because they happen to be the most cost effective pet for my build.
 
@@ -351,7 +351,7 @@ Unrelated: I'll be available for tanking at least one night a week.
 
 </div>
 
-<div class="post" data-post-id="34334" data-author="Dragoth" data-date="2013-07-03T14:42:17+00:00">
+<div class="post" data-post-id="34334" data-author="Dragoth" data-date="2013-07-03T14:42:17+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 No offense to some of you guys.
 
@@ -369,7 +369,7 @@ This game became a trick-fest, where no-one cares for anything, as long as they 
 
 </div>
 
-<div class="post" data-post-id="34336" data-author="cyprimus" data-date="2013-07-05T16:28:59+00:00">
+<div class="post" data-post-id="34336" data-author="cyprimus" data-date="2013-07-05T16:28:59+00:00" data-subject="Re: Some thoughts out loud and opinions required.">
 
 Wow, I leave for a couple weeks and everything goes to hell... 
 

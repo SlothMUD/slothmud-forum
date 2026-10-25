@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13724" data-author="vrta" data-date="2006-08-21T08:55:37+00:00">
+<div class="post" data-post-id="13724" data-author="vrta" data-date="2006-08-21T08:55:37+00:00" data-subject="WTB some stuff">
 
 Heya,
 

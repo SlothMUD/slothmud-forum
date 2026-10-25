@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="36066" data-author="cyprimus" data-date="2015-09-01T07:59:12+00:00">
+<div class="post" data-post-id="36066" data-author="cyprimus" data-date="2015-09-01T07:59:12+00:00" data-subject="Rip off/cheat warning">
 
 Be warned, the old paka refuses to return my character primal.. leaving me stuck with a badly eq'ed mage with a bad rap sheet for previous cheating.  Was supposed to try it out for a week, but instead he immediatly refused to return it saying i owe him eq etc.. he got a fully eq'ed max avvie druid with pristine rap sheet, and only 116 days logged.
 
@@ -26,7 +26,7 @@ Return my alt
 
 </div>
 
-<div class="post" data-post-id="36067" data-author="*Breeze*" data-date="2015-09-01T10:36:32+00:00">
+<div class="post" data-post-id="36067" data-author="*Breeze*" data-date="2015-09-01T10:36:32+00:00" data-subject="Re: Rip off/cheat warning">
 
 the problem is you didn't involve an immortal in it at all.  there is a reason we say sharing passwords is frowned upon.
 
@@ -38,7 +38,7 @@ if indeed it was a week trade and you didn't get your character back then that i
 
 </div>
 
-<div class="post" data-post-id="36070" data-author="Filk" data-date="2015-09-01T14:29:35+00:00">
+<div class="post" data-post-id="36070" data-author="Filk" data-date="2015-09-01T14:29:35+00:00" data-subject="Re: Rip off/cheat warning">
 
 Never have heard from any of you both, that it is just test one week trade. That can be truth. But i have no ideas why you both kept that in secret then. Seems weird to me.
 
@@ -52,7 +52,7 @@ Just my 2cents with no any decisions inside.
 
 </div>
 
-<div class="post" data-post-id="36071" data-author="Dragoth" data-date="2015-09-01T16:31:42+00:00">
+<div class="post" data-post-id="36071" data-author="Dragoth" data-date="2015-09-01T16:31:42+00:00" data-subject="Re: Rip off/cheat warning">
 
 Damn it, not another drama!
 
@@ -60,7 +60,7 @@ Get it sorted guys, it would suck to lose any of you..
 
 </div>
 
-<div class="post" data-post-id="36072" data-author="Ker" data-date="2015-09-01T18:04:37+00:00">
+<div class="post" data-post-id="36072" data-author="Ker" data-date="2015-09-01T18:04:37+00:00" data-subject="Re: Rip off/cheat warning">
 
 1) Who gives a flying rat's ass over "bad rap sheet" when both of you were trading chars?
 
@@ -90,7 +90,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36073" data-author="*Splork*" data-date="2015-09-01T22:46:01+00:00">
+<div class="post" data-post-id="36073" data-author="*Splork*" data-date="2015-09-01T22:46:01+00:00" data-subject="Re: Rip off/cheat warning">
 
 If we have to edit anymore posts in regards to personal attacks, you will find your online characters passworded.
 

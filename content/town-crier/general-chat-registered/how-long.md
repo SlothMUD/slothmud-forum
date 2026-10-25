@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="10674" data-author="*Splork*" data-date="2006-02-11T22:34:16+00:00">
+<div class="post" data-post-id="10674" data-author="*Splork*" data-date="2006-02-11T22:34:16+00:00" data-subject="How long?">
 
 I just got home, need to know.... so I can look at it...
 
@@ -20,13 +20,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="10675" data-author="dt" data-date="2006-02-11T22:36:21+00:00">
+<div class="post" data-post-id="10675" data-author="dt" data-date="2006-02-11T22:36:21+00:00" data-subject="Odd">
 
 It's shows as connecting thru mudconnect......
 
 </div>
 
-<div class="post" data-post-id="10676" data-author="Axtrel" data-date="2006-02-11T22:42:30+00:00">
+<div class="post" data-post-id="10676" data-author="Axtrel" data-date="2006-02-11T22:42:30+00:00" data-subject="">
 
 maybe 15-20mins ago.
 
@@ -130,13 +130,13 @@ Connected to host slothmud.org
 
 </div>
 
-<div class="post" data-post-id="10677" data-author="Roadrunr" data-date="2006-02-11T22:50:23+00:00">
+<div class="post" data-post-id="10677" data-author="Roadrunr" data-date="2006-02-11T22:50:23+00:00" data-subject="">
 
 Now that was spiffy, checked the Who's Online and it showed 1 person, I finally connect and do a who and I'm alone, do another who and it doesnt even show me, just Falsra, a second later I get disconnected.
 
 </div>
 
-<div class="post" data-post-id="10678" data-author="Leaf" data-date="2006-02-12T01:18:26+00:00">
+<div class="post" data-post-id="10678" data-author="Leaf" data-date="2006-02-12T01:18:26+00:00" data-subject="">
 
 The who online shows 11 ppl... but i'm not able to get on.
 
@@ -144,13 +144,13 @@ Guessing it crashed again, router i'm guessing?
 
 </div>
 
-<div class="post" data-post-id="10679" data-author="Leaf" data-date="2006-02-12T01:20:29+00:00">
+<div class="post" data-post-id="10679" data-author="Leaf" data-date="2006-02-12T01:20:29+00:00" data-subject="">
 
 Since Sloth is down, we all have time to [b:21avhosa]VOTE!!![/size:21avhosa][/b:21avhosa]
 
 </div>
 
-<div class="post" data-post-id="10680" data-author="Mace" data-date="2006-02-12T01:55:01+00:00">
+<div class="post" data-post-id="10680" data-author="Mace" data-date="2006-02-12T01:55:01+00:00" data-subject="">
 
 Not only that, but now I have time to work on my bot script^W^Wgroup helper scripts!
 
@@ -160,7 +160,7 @@ The bot will have to wait.
 
 </div>
 
-<div class="post" data-post-id="10682" data-author="Zing" data-date="2006-02-12T02:05:08+00:00">
+<div class="post" data-post-id="10682" data-author="Zing" data-date="2006-02-12T02:05:08+00:00" data-subject="">
 
 Posting when the mud is down is very nice thing.  
 
@@ -170,19 +170,19 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="10683" data-author="Weasel" data-date="2006-02-12T02:18:24+00:00">
+<div class="post" data-post-id="10683" data-author="Weasel" data-date="2006-02-12T02:18:24+00:00" data-subject="">
 
 I blame Zing  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10684" data-author="Leaf" data-date="2006-02-12T03:10:31+00:00">
+<div class="post" data-post-id="10684" data-author="Leaf" data-date="2006-02-12T03:10:31+00:00" data-subject="">
 
 You can blame Zing... but we all going to blame the Weasel!
 
 </div>
 
-<div class="post" data-post-id="10686" data-author="Weasel" data-date="2006-02-12T07:03:52+00:00">
+<div class="post" data-post-id="10686" data-author="Weasel" data-date="2006-02-12T07:03:52+00:00" data-subject="">
 
 :evil:
 

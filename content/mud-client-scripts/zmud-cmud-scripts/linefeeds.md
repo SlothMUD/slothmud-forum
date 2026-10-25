@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="3798" data-author="Akasha2" data-date="2005-01-16T16:30:40+00:00">
+<div class="post" data-post-id="3798" data-author="Akasha2" data-date="2005-01-16T16:30:40+00:00" data-subject="linefeeds">
 
 I have a major brain fart.  Any of you zmud gurus can refresh my memory as to how to insert a blank line before a mud output line?
 
@@ -32,7 +32,7 @@ Xandora
 
 </div>
 
-<div class="post" data-post-id="3799" data-author="karl" data-date="2005-01-16T18:20:09+00:00">
+<div class="post" data-post-id="3799" data-author="karl" data-date="2005-01-16T18:20:09+00:00" data-subject="">
 
 #SHOW %CR
 

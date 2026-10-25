@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30243" data-author="*Splork*" data-date="2009-11-07T13:27:02+00:00">
+<div class="post" data-post-id="30243" data-author="*Splork*" data-date="2009-11-07T13:27:02+00:00" data-subject="Changes this next reboot(moves lowered, max stat additions)">
 
 1) Decreased move gains for 5-8 classes
 

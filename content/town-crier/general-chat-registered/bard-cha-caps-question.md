@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="13225" data-author="Melanthe" data-date="2006-06-30T19:57:21+00:00">
+<div class="post" data-post-id="13225" data-author="Melanthe" data-date="2006-06-30T19:57:21+00:00" data-subject="Bard CHA caps question">
 
 A prime bard informed me that prime bard CHA cap is 16. I wonder what the cap is for second and tert? I am a tert bard.  Also, does dazzle/glamour play into the cap? Or is the cap in gear only?  Also, how much CHA does Dazzle add? (I know glamour adds 3 cha.) Does dazzle stack with glamour (assuming yes). If my CHA cap is 9 for example, would my crys be any good? Or should I just forget about CHA and stick with my necromancer's Destruction?
 
@@ -18,13 +18,13 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13227" data-author="Weasel" data-date="2006-06-30T21:40:25+00:00">
+<div class="post" data-post-id="13227" data-author="Weasel" data-date="2006-06-30T21:40:25+00:00" data-subject="">
 
 Will 'score stats' reveal when you get max, like it can with shock eq? I have no Bardish chars of any sort so I don't know.
 
 </div>
 
-<div class="post" data-post-id="13229" data-author="Gnu" data-date="2006-07-01T08:12:10+00:00">
+<div class="post" data-post-id="13229" data-author="Gnu" data-date="2006-07-01T08:12:10+00:00" data-subject="">
 
 Glamour does not add 3 charisma. The value of addidion charisma varies in some interval (and may be negative too).  I think that Dazzle adds +1 charisma point, but I am not sure, may be it is used in some complicated formula, that takes into account the % of your Dazzle skill. In accodrance to SCORE STATS every bard has some charisma even eithout any charisma eq, and the prime bard probably has more natural charisma. As for capping with 16 charisma points, I was always sure that the number is 17, dont know why, may be someone told me I saw a dream :)
 
@@ -32,7 +32,7 @@ If your charisma caps at 9, then your cry will be a little better. But not the e
 
 </div>
 
-<div class="post" data-post-id="13230" data-author="Melanthe" data-date="2006-07-01T08:56:44+00:00">
+<div class="post" data-post-id="13230" data-author="Melanthe" data-date="2006-07-01T08:56:44+00:00" data-subject="">
 
 Glamour added 3 charisma for me last night. But I guess it could vary like you say (already knew it could be negative with non-glamour). I became "as cute as a kobold in love" when it added the 3.
 
@@ -40,7 +40,7 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13243" data-author="Melanthe" data-date="2006-07-02T12:49:27+00:00">
+<div class="post" data-post-id="13243" data-author="Melanthe" data-date="2006-07-02T12:49:27+00:00" data-subject="">
 
 Got lucky with a Glamour cast and got 5 cha out of it (perhaps it was a masterful cast? didn't pay attention.) Removed all equipment and did a score stat: Pretty good singer (which is 5 cha).  Managed to come across 8 cha in equipment, totalling 13 cha.  I did a score stat with this and got the following:
 
@@ -58,7 +58,7 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13429" data-author="Avatar" data-date="2006-07-10T20:51:50+00:00">
+<div class="post" data-post-id="13429" data-author="Avatar" data-date="2006-07-10T20:51:50+00:00" data-subject="bard cha">
 
 "Another person told me that bard crys with 15+ cha go unsaved."
 
@@ -66,7 +66,7 @@ I guess I don't understand that line.  If you're familiar with saving throws in 
 
 </div>
 
-<div class="post" data-post-id="13431" data-author="Tetsulunathaya" data-date="2006-07-10T21:26:04+00:00">
+<div class="post" data-post-id="13431" data-author="Tetsulunathaya" data-date="2006-07-10T21:26:04+00:00" data-subject="">
 
 Charisma:
 
@@ -80,7 +80,7 @@ How are you testing whether a mob makes the save or not on a cry?
 
 </div>
 
-<div class="post" data-post-id="13435" data-author="blackmore" data-date="2006-07-11T03:27:04+00:00">
+<div class="post" data-post-id="13435" data-author="blackmore" data-date="2006-07-11T03:27:04+00:00" data-subject="">
 
 Charisma:
 

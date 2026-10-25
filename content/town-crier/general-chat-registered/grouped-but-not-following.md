@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="37981" data-author="Gorka" data-date="2017-01-21T17:11:41+00:00">
+<div class="post" data-post-id="37981" data-author="Gorka" data-date="2017-01-21T17:11:41+00:00" data-subject="Grouped But Not Following...">
 
 I could have just sent this to teker... but I think others need to know about this issue as well.
 
@@ -166,7 +166,7 @@ Exits: East  West
 
 </div>
 
-<div class="post" data-post-id="37985" data-author="*Idjit*" data-date="2017-01-22T06:55:38+00:00">
+<div class="post" data-post-id="37985" data-author="*Idjit*" data-date="2017-01-22T06:55:38+00:00" data-subject="Re: Grouped But Not Following...">
 
 The same happened to Zuzu with Songster leading, same day different time.
 
@@ -180,7 +180,7 @@ Gorka may not have mentioned in the above post but the "You follow X." message w
 
 </div>
 
-<div class="post" data-post-id="37986" data-author="Gorka" data-date="2017-01-22T08:53:24+00:00">
+<div class="post" data-post-id="37986" data-author="Gorka" data-date="2017-01-22T08:53:24+00:00" data-subject="Re: Grouped But Not Following...">
 
 Just a stab in the dark... is it possible counters changed something?
 
@@ -188,7 +188,7 @@ My reasoning is, if counters can't count correctly or they get stuck in the wron
 
 </div>
 
-<div class="post" data-post-id="37989" data-author="*juggleblood*" data-date="2017-01-22T14:31:07+00:00">
+<div class="post" data-post-id="37989" data-author="*juggleblood*" data-date="2017-01-22T14:31:07+00:00" data-subject="Re: Grouped But Not Following...">
 
 I have another hypothesis. 
 
@@ -198,7 +198,7 @@ Teker, if you would like me to explore this possibility, I can give a few people
 
 </div>
 
-<div class="post" data-post-id="37990" data-author="Gorka" data-date="2017-01-22T15:07:51+00:00">
+<div class="post" data-post-id="37990" data-author="Gorka" data-date="2017-01-22T15:07:51+00:00" data-subject="Re: Grouped But Not Following...">
 
 Something to add to JB's point... if you echo msdp.STATUS on a trigger line for R.I.P it often outputs "Fighting." I am unsure why MSDP seems lagged.
 
@@ -206,7 +206,7 @@ Furthermore, when fighting two mobs... and one has just died... the code seems c
 
 </div>
 
-<div class="post" data-post-id="37991" data-author="*Breeze*" data-date="2017-01-22T19:37:56+00:00">
+<div class="post" data-post-id="37991" data-author="*Breeze*" data-date="2017-01-22T19:37:56+00:00" data-subject="Re: Grouped But Not Following...">
 
 > **Gorka wrote:**
 > Something to add to JB's point... if you echo msdp.STATUS on a trigger line for R.I.P it often outputs "Fighting." I am unsure why MSDP seems lagged.
@@ -227,7 +227,7 @@ as for mobs, you are only ever fighting one mob at a time.  in multiple mob figh
 
 </div>
 
-<div class="post" data-post-id="37994" data-author="Teron" data-date="2017-01-24T06:16:34+00:00">
+<div class="post" data-post-id="37994" data-author="Teron" data-date="2017-01-24T06:16:34+00:00" data-subject="Re: Grouped But Not Following...">
 
 Another theory was that it has something to do with the new skill checks, since it has appeared recently (since the last 1-2 reboots).
 

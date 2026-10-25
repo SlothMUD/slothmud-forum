@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="11261" data-author="Shara" data-date="2006-03-14T16:56:00+00:00">
+<div class="post" data-post-id="11261" data-author="Shara" data-date="2006-03-14T16:56:00+00:00" data-subject="Deadly new spell!">
 
 In cholemry:
 
@@ -30,7 +30,7 @@ Ahhhhh oh no!
 
 </div>
 
-<div class="post" data-post-id="11263" data-author="Autolycos" data-date="2006-03-14T17:52:45+00:00">
+<div class="post" data-post-id="11263" data-author="Autolycos" data-date="2006-03-14T17:52:45+00:00" data-subject="">
 
 LMFAO!   :twisted: 
 
@@ -42,7 +42,7 @@ that would really kick ass  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11274" data-author="kjartan" data-date="2006-03-15T00:13:40+00:00">
+<div class="post" data-post-id="11274" data-author="kjartan" data-date="2006-03-15T00:13:40+00:00" data-subject="">
 
 Fixed.
 

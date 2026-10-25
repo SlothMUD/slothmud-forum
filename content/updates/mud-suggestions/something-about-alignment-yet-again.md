@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="35149" data-author="Dragoth" data-date="2014-05-13T17:47:59+00:00">
+<div class="post" data-post-id="35149" data-author="Dragoth" data-date="2014-05-13T17:47:59+00:00" data-subject="Something about Alignment, yet again..">
 
 Not going to go into much detail, as a lot has been said about this particular feature already.
 
@@ -18,7 +18,7 @@ But, could I propose a spell, lets call it "Focus Mind" which would allow a part
 
 </div>
 
-<div class="post" data-post-id="35152" data-author="DarkArtist" data-date="2014-05-13T23:35:50+00:00">
+<div class="post" data-post-id="35152" data-author="DarkArtist" data-date="2014-05-13T23:35:50+00:00" data-subject="Re: Something about Alignment, yet again..">
 
 Skill: Moral Flexibility ?
 
@@ -34,7 +34,7 @@ B: Remove the alignment reduction feature from necromancy spells, another featur
 
 </div>
 
-<div class="post" data-post-id="35154" data-author="Dragoth" data-date="2014-05-14T07:48:51+00:00">
+<div class="post" data-post-id="35154" data-author="Dragoth" data-date="2014-05-14T07:48:51+00:00" data-subject="Re: Something about Alignment, yet again..">
 
 Yes, I and many others, as evident by the previous topics on this matter, do not enjoy the things that you have mentioned. 
 
@@ -44,13 +44,13 @@ I know there is a tendency to disagree with my ideas, but, instead of comparing 
 
 </div>
 
-<div class="post" data-post-id="35155" data-author="DarkArtist" data-date="2014-05-14T10:46:49+00:00">
+<div class="post" data-post-id="35155" data-author="DarkArtist" data-date="2014-05-14T10:46:49+00:00" data-subject="Re: Something about Alignment, yet again..">
 
 Because it's a stupid idea. What else to say?
 
 </div>
 
-<div class="post" data-post-id="35156" data-author="Dragoth" data-date="2014-05-14T11:30:50+00:00">
+<div class="post" data-post-id="35156" data-author="Dragoth" data-date="2014-05-14T11:30:50+00:00" data-subject="Re: Something about Alignment, yet again..">
 
 > **DarkArtist wrote:**
 > Because it's a stupid idea. What else to say?
@@ -80,7 +80,7 @@ Prejudice much ? Or are you so hateful, that you consider everything stupid ?
 
 </div>
 
-<div class="post" data-post-id="35157" data-author="DarkArtist" data-date="2014-05-14T19:57:04+00:00">
+<div class="post" data-post-id="35157" data-author="DarkArtist" data-date="2014-05-14T19:57:04+00:00" data-subject="Re: Something about Alignment, yet again..">
 
 Ok, perhaps the idea of willfully casting a spell on yourself that steels your mind to performing in a manner contrary to your own goodness or evilness isn't *stupid*. How about *counter-intuitive*? I do think that the name "Moral Flexibility" is more to the point than "Focus Mind".
 
@@ -92,7 +92,7 @@ One final thought... What if good supplicants don't abandon as long as they're n
 
 </div>
 
-<div class="post" data-post-id="35159" data-author="Dragoth" data-date="2014-05-15T08:37:17+00:00">
+<div class="post" data-post-id="35159" data-author="Dragoth" data-date="2014-05-15T08:37:17+00:00" data-subject="Re: Something about Alignment, yet again..">
 
 > **DarkArtist wrote:**
 > Ok, perhaps the idea of willfully casting a spell on yourself that steels your mind to performing in a manner contrary to your own goodness or evilness isn't *stupid*. How about *counter-intuitive*? I do think that the name "Moral Flexibility" is more to the point than "Focus Mind".
@@ -115,7 +115,7 @@ Lol, talk about stupid ideas..
 
 </div>
 
-<div class="post" data-post-id="35164" data-author="DarkArtist" data-date="2014-05-15T21:26:47+00:00">
+<div class="post" data-post-id="35164" data-author="DarkArtist" data-date="2014-05-15T21:26:47+00:00" data-subject="Re: Something about Alignment, yet again..">
 
 > **Dragoth wrote:**
 > Lol, talk about stupid ideas..
@@ -124,7 +124,7 @@ That is precisely what we are talking about.
 
 </div>
 
-<div class="post" data-post-id="35166" data-author="Dragoth" data-date="2014-05-16T07:40:37+00:00">
+<div class="post" data-post-id="35166" data-author="Dragoth" data-date="2014-05-16T07:40:37+00:00" data-subject="Re: Something about Alignment, yet again..">
 
 > **DarkArtist wrote:**
 > > **Dragoth wrote:**

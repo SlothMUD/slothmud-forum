@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="35146" data-author="Hung" data-date="2014-05-13T11:56:52+00:00">
+<div class="post" data-post-id="35146" data-author="Hung" data-date="2014-05-13T11:56:52+00:00" data-subject="Dropping items at ah">
 
 I've made cr for my alt. Killed the mob, embalmed its corpse and dropped at ah quester(I knew already that items shouldn't be dropped at the innkeeper). And...corpse with all items simply disappeared. Not a big loss, items were solo and easy pop. But still it is definitely not obvious that items shouldn't be dropped in ah town.
 
@@ -20,7 +20,7 @@ Also, please, review dark dreams dump room. If someone ever dies and corpses the
 
 </div>
 
-<div class="post" data-post-id="35147" data-author="*Neptune*" data-date="2014-05-13T13:54:51+00:00">
+<div class="post" data-post-id="35147" data-author="*Neptune*" data-date="2014-05-13T13:54:51+00:00" data-subject="Re: Dropping items at ah">
 
 Greetings.
 
@@ -38,7 +38,7 @@ the behavior of the dump in Dark Dreams at this time.
 
 </div>
 
-<div class="post" data-post-id="35148" data-author="Hung" data-date="2014-05-13T14:31:04+00:00">
+<div class="post" data-post-id="35148" data-author="Hung" data-date="2014-05-13T14:31:04+00:00" data-subject="Re: Dropping items at ah">
 
 Thanks.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26748" data-author="Judge" data-date="2008-10-17T19:57:36+00:00">
+<div class="post" data-post-id="26748" data-author="Judge" data-date="2008-10-17T19:57:36+00:00" data-subject="New Spell: Corpus Severance">
 
 "CORPUS SEVERANCE"
 

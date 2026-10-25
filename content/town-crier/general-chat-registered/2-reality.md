@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30962" data-author="Tuck" data-date="2010-03-14T19:37:14+00:00">
+<div class="post" data-post-id="30962" data-author="Tuck" data-date="2010-03-14T19:37:14+00:00" data-subject="2 Reality">
 
 Reality, msg me ingame, i got some of your eq.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39672" data-author="Gorka" data-date="2021-01-17T07:13:30+00:00">
+<div class="post" data-post-id="39672" data-author="Gorka" data-date="2021-01-17T07:13:30+00:00" data-subject="The Path to -16ac">
 
 I've been working on creating max modes... max ac, max damreduct, max hp, max saves poison... Ok, well I lied about creating one of these modes... but good eq is about balance, and for one to find balance one must first understand that which is possible... So I worked out the changes I'd need to make to my standard tank set to maximise my AC... obviously this had to include massive sacrifices that are not worth it... but just as a thought experiment. I found out, it is possible to have -16ac with no potion effects. My avatar light is currently +5mar, -0.2ac +dam. My standard tank set is -15.1... with max weapon damage, 25 str/dex/con.
 

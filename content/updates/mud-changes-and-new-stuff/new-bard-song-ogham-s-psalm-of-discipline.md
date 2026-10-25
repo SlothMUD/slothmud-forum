@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="6376" data-author="*Splork*" data-date="2005-05-22T10:10:03+00:00">
+<div class="post" data-post-id="6376" data-author="*Splork*" data-date="2005-05-22T10:10:03+00:00" data-subject="New  Bard Song: Ogham&#x27;s psalm of discipline">
 
 New bard spell: Ogham's psalm of discpline.
 

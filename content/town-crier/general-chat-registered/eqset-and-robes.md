@@ -10,7 +10,7 @@ locked: false
 post_count: 28
 ---
 
-<div class="post" data-post-id="38347" data-author="Gorka" data-date="2017-07-28T07:35:59+00:00">
+<div class="post" data-post-id="38347" data-author="Gorka" data-date="2017-07-28T07:35:59+00:00" data-subject="Eqset and Robes">
 
 Maybe I just don't know, maybe I'm doin' it wrong... but I have robe problems.
 
@@ -26,7 +26,7 @@ Teker? What do you think? Is there a solution?
 
 </div>
 
-<div class="post" data-post-id="38348" data-author="*Idjit*" data-date="2017-07-28T21:25:38+00:00">
+<div class="post" data-post-id="38348" data-author="*Idjit*" data-date="2017-07-28T21:25:38+00:00" data-subject="Re: Eqset and Robes">
 
 I know you can set robe A to be the defcontainer.
 
@@ -52,7 +52,7 @@ Food for thought.
 
 </div>
 
-<div class="post" data-post-id="38349" data-author="Gorka" data-date="2017-07-28T21:56:22+00:00">
+<div class="post" data-post-id="38349" data-author="Gorka" data-date="2017-07-28T21:56:22+00:00" data-subject="Re: Eqset and Robes">
 
 > ***Idjit* wrote:**
 > I am wondering if we might move robes into a separate classification within eqsets where "all other robes go into the destination set's designated about-body"
@@ -71,7 +71,7 @@ Taron's Eq Sets.
 
 </div>
 
-<div class="post" data-post-id="38350" data-author="*teker*" data-date="2017-07-28T23:15:24+00:00">
+<div class="post" data-post-id="38350" data-author="*teker*" data-date="2017-07-28T23:15:24+00:00" data-subject="Re: Eqset and Robes">
 
 I'm open to implementation suggestions.  I did limited testing with 3 robes where they work in a circle A -> B ->C -> A and it seemed to work.  There are definitely issues when the robes have varying capacity and one won't fit within the other.  I tend to split up my gear like this:
 
@@ -85,7 +85,7 @@ For the situation where a robe is not a container - do you have another containe
 
 </div>
 
-<div class="post" data-post-id="38351" data-author="*Idjit*" data-date="2017-07-28T23:51:23+00:00">
+<div class="post" data-post-id="38351" data-author="*Idjit*" data-date="2017-07-28T23:51:23+00:00" data-subject="Re: Eqset and Robes">
 
 I solved it
 
@@ -105,7 +105,7 @@ so it has to fit head to tail apparently.
 
 </div>
 
-<div class="post" data-post-id="38352" data-author="*Idjit*" data-date="2017-07-28T23:55:43+00:00">
+<div class="post" data-post-id="38352" data-author="*Idjit*" data-date="2017-07-28T23:55:43+00:00" data-subject="Re: Eqset and Robes">
 
 As regards capacity, we might look at aligning all the robes that are slightly less than 500 capacity for no good particular reason like the Trollskin robe is 400, bumping them all to 500 units.
 
@@ -113,7 +113,7 @@ As regards capacity, we might look at aligning all the robes that are slightly l
 
 </div>
 
-<div class="post" data-post-id="38353" data-author="*Idjit*" data-date="2017-07-29T00:06:33+00:00">
+<div class="post" data-post-id="38353" data-author="*Idjit*" data-date="2017-07-29T00:06:33+00:00" data-subject="Re: Eqset and Robes">
 
 I had a thought about weight vs capacity and I wondered if we make "eqset show" more verbose
 
@@ -157,7 +157,7 @@ Thing is, you don't really need the weight of the worn stuff. It isn't counting.
 
 </div>
 
-<div class="post" data-post-id="38354" data-author="Gorka" data-date="2017-07-29T04:42:40+00:00">
+<div class="post" data-post-id="38354" data-author="Gorka" data-date="2017-07-29T04:42:40+00:00" data-subject="Re: Eqset and Robes">
 
 If you messed with eqset show, listing the socketed gem might be nice too.
 
@@ -169,7 +169,7 @@ If what Zuzu says is correct, there are still kind of annoying issues, but at le
 
 </div>
 
-<div class="post" data-post-id="38355" data-author="Teron" data-date="2017-07-29T07:15:58+00:00">
+<div class="post" data-post-id="38355" data-author="Teron" data-date="2017-07-29T07:15:58+00:00" data-subject="Re: Eqset and Robes">
 
 1. Zuzu, what happens when you go from myrmidon to healer and back? It should create a loop, as it does for me - I've created the suggested circle myself.
 
@@ -205,7 +205,7 @@ Maybe allow us to upgrade robes from linen to a shifting linen robe: -0.0 +mr +1
 
 </div>
 
-<div class="post" data-post-id="38356" data-author="Gorka" data-date="2017-07-29T14:08:32+00:00">
+<div class="post" data-post-id="38356" data-author="Gorka" data-date="2017-07-29T14:08:32+00:00" data-subject="Re: Eqset and Robes">
 
 > **Teron wrote:**
 > Not counting worn eq means that:
@@ -216,7 +216,7 @@ Maybe allow us to upgrade robes from linen to a shifting linen robe: -0.0 +mr +1
 
 </div>
 
-<div class="post" data-post-id="38357" data-author="Gorka" data-date="2017-07-29T15:03:07+00:00">
+<div class="post" data-post-id="38357" data-author="Gorka" data-date="2017-07-29T15:03:07+00:00" data-subject="Re: Eqset and Robes">
 
 I'm still lost Teker... how do I do this...
 
@@ -366,7 +366,7 @@ How have you designed this to work? If my default container is my cloak of shado
 
 </div>
 
-<div class="post" data-post-id="38358" data-author="Teron" data-date="2017-07-29T15:22:54+00:00">
+<div class="post" data-post-id="38358" data-author="Teron" data-date="2017-07-29T15:22:54+00:00" data-subject="Re: Eqset and Robes">
 
 wear the ac set
 
@@ -376,13 +376,13 @@ eqs setc linen shadows
 
 </div>
 
-<div class="post" data-post-id="38359" data-author="Gorka" data-date="2017-07-29T19:11:46+00:00">
+<div class="post" data-post-id="38359" data-author="Gorka" data-date="2017-07-29T19:11:46+00:00" data-subject="Re: Eqset and Robes">
 
 Thanks Taron, that resolved my issue.
 
 </div>
 
-<div class="post" data-post-id="38360" data-author="*Idjit*" data-date="2017-07-30T00:14:36+00:00">
+<div class="post" data-post-id="38360" data-author="*Idjit*" data-date="2017-07-30T00:14:36+00:00" data-subject="Re: Eqset and Robes">
 
 As regards Teker's question about whether for a non-container robe if another non-robe item is equipped that's a container, I'd have to remind us that it's a long standing thematic thing on Sloth, indeed in Diku's in general, that the about-body containers are at least twice the size of the capacity of something like a waist-worn beltpouch or a held-low bag, unless the bag is something crazy like a Portable Hole.  The robes are simply conceived as something much bigger than the other varieties, and certainly bigger than a 'trick' container like the boots of radiance.
 
@@ -396,13 +396,13 @@ Did that make sense?
 
 </div>
 
-<div class="post" data-post-id="38364" data-author="*Breeze*" data-date="2017-07-30T05:05:00+00:00">
+<div class="post" data-post-id="38364" data-author="*Breeze*" data-date="2017-07-30T05:05:00+00:00" data-subject="Re: Eqset and Robes">
 
 It's a robe, not a Tardis. ;)
 
 </div>
 
-<div class="post" data-post-id="38366" data-author="Gorka" data-date="2017-07-30T06:10:33+00:00">
+<div class="post" data-post-id="38366" data-author="Gorka" data-date="2017-07-30T06:10:33+00:00" data-subject="Re: Eqset and Robes">
 
 It probably would have been better/easier if items weren't containers at all. Instead players had a bigger/private "on person" inventory were stuff was stored. Item attributes could affect the size of that inventory, but putting items in items wouldn't be a thing. Storage space would not be directly linked with robe size. Certainly gets around the fact that any robe that is not a container is almost completely useless.
 
@@ -412,7 +412,7 @@ I guess the smaller and open inventory we have in sloth was partially due to the
 
 </div>
 
-<div class="post" data-post-id="38367" data-author="Teron" data-date="2017-07-31T07:52:21+00:00">
+<div class="post" data-post-id="38367" data-author="Teron" data-date="2017-07-31T07:52:21+00:00" data-subject="Re: Eqset and Robes">
 
 1. I agree that having universal weight limit, regardless whether the item is worn or not would be proper. It even makes more sense.
 
@@ -442,7 +442,7 @@ It'd solve the logical issue of fitting items on a character, because 120+ armor
 
 </div>
 
-<div class="post" data-post-id="38368" data-author="Gorka" data-date="2017-07-31T09:21:29+00:00">
+<div class="post" data-post-id="38368" data-author="Gorka" data-date="2017-07-31T09:21:29+00:00" data-subject="Re: Eqset and Robes">
 
 > **Teron wrote:**
 > 5. The point of "this has always been this way" is moot - [an appeal to tradition](https://en.wikipedia.org/wiki/Appeal_to_tradition), in fact - because we can and should look how to **make the game better, and also better, than other games**, so players prefer this game, not others.
@@ -453,7 +453,7 @@ The reality is Taron, your whole argument is really, "I want bigger robes/storag
 
 </div>
 
-<div class="post" data-post-id="38370" data-author="Teron" data-date="2017-07-31T15:34:17+00:00">
+<div class="post" data-post-id="38370" data-author="Teron" data-date="2017-07-31T15:34:17+00:00" data-subject="Re: Eqset and Robes">
 
 Gorka, we are trying, presumably, to have a civil discussion, so I have to remind you that we are discussing ideas, not persons. So try to stick to that, please. Or is this a dumb libtard idea, too? If so, explain why, albeit in a different thread.
 
@@ -568,7 +568,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="38371" data-author="Gorka" data-date="2017-07-31T16:56:52+00:00">
+<div class="post" data-post-id="38371" data-author="Gorka" data-date="2017-07-31T16:56:52+00:00" data-subject="Re: Eqset and Robes">
 
 Taron, my point is why can't you just state things honestly... you want more capacity... why do you try to invent some "alternative truth justification" to achieve your aims.
 
@@ -591,7 +591,7 @@ So you want to be able to say what you want to say, get what you want, and not b
 
 </div>
 
-<div class="post" data-post-id="38372" data-author="Teron" data-date="2017-07-31T17:56:52+00:00">
+<div class="post" data-post-id="38372" data-author="Teron" data-date="2017-07-31T17:56:52+00:00" data-subject="Re: Eqset and Robes">
 
 A minor clarification: I think that preparing an idea makes it easier to get implemented, because imms need less time for it. It does not affect whether to accept the idea or not.
 
@@ -619,7 +619,7 @@ And yeah, I prefer to provide all the details about the problem and the solution
 
 </div>
 
-<div class="post" data-post-id="38373" data-author="Gorka" data-date="2017-07-31T18:40:57+00:00">
+<div class="post" data-post-id="38373" data-author="Gorka" data-date="2017-07-31T18:40:57+00:00" data-subject="Re: Eqset and Robes">
 
 Sloth is a fantasy game, but it does take on a fair amount of realism from the natural world. It's not uncommon for games to have inventory limits, in fact I can't think of a game I've played off hand that didn't have an inventory limit. Having limits means players need to employ strategy and management, it's supposed to be a feature not a hindrance. 
 
@@ -633,7 +633,7 @@ Could you even just consider for one minute the game might be better for having 
 
 </div>
 
-<div class="post" data-post-id="38374" data-author="Teron" data-date="2017-07-31T19:14:46+00:00">
+<div class="post" data-post-id="38374" data-author="Teron" data-date="2017-07-31T19:14:46+00:00" data-subject="Re: Eqset and Robes">
 
 I disagree that the point of this game is to suffer unnecessarily by lugging robes in the inv, not being able to pick up food or loot.
 
@@ -649,7 +649,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="38375" data-author="Gorka" data-date="2017-07-31T19:32:28+00:00">
+<div class="post" data-post-id="38375" data-author="Gorka" data-date="2017-07-31T19:32:28+00:00" data-subject="Re: Eqset and Robes">
 
 > **Teron wrote:**
 > I disagree that the point of this game is to suffer unnecessarily by lugging robes in the inv, not being able to pick up food or loot.
@@ -658,7 +658,7 @@ The point is, you are supposed to manage this limitation, other people can, why 
 
 </div>
 
-<div class="post" data-post-id="38376" data-author="cyprimus" data-date="2017-08-02T16:55:06+00:00">
+<div class="post" data-post-id="38376" data-author="cyprimus" data-date="2017-08-02T16:55:06+00:00" data-subject="Re: Eqset and Robes">
 
 Never had this problem, but reading it and it occurred to me, maybe we could make personal items not count?
 
@@ -666,7 +666,7 @@ Making them part of the special platonic inventory gorka suggested?
 
 </div>
 
-<div class="post" data-post-id="38377" data-author="Gorka" data-date="2017-08-02T20:25:11+00:00">
+<div class="post" data-post-id="38377" data-author="Gorka" data-date="2017-08-02T20:25:11+00:00" data-subject="Weight Absurdity!!!">
 
 Imms, this is a perfect example of the frustration... 
 
@@ -750,7 +750,7 @@ Furthermore, why are most robes 500 max weight, when most people will need 21 st
 
 </div>
 
-<div class="post" data-post-id="38378" data-author="Teron" data-date="2017-08-03T12:07:42+00:00">
+<div class="post" data-post-id="38378" data-author="Teron" data-date="2017-08-03T12:07:42+00:00" data-subject="Re: Eqset and Robes">
 
 **Gorka**,
 
@@ -899,7 +899,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="38379" data-author="Gorka" data-date="2017-08-03T14:08:16+00:00">
+<div class="post" data-post-id="38379" data-author="Gorka" data-date="2017-08-03T14:08:16+00:00" data-subject="Re: Eqset and Robes">
 
 Ok, that was a lot of writing, so I guess I hit a nerve...
 

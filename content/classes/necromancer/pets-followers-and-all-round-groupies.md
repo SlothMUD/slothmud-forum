@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="19831" data-author="Widow" data-date="2007-08-22T18:21:52+00:00">
+<div class="post" data-post-id="19831" data-author="Widow" data-date="2007-08-22T18:21:52+00:00" data-subject="Pets, followers and all-round-groupies">
 
 So, I gotta say right off the bat the Necromancer class sure is fun. Unless you are completely drained and need a nap, you are the life of the party!
 
@@ -26,7 +26,7 @@ Widow
 
 </div>
 
-<div class="post" data-post-id="19835" data-author="Malison" data-date="2007-08-22T19:06:55+00:00">
+<div class="post" data-post-id="19835" data-author="Malison" data-date="2007-08-22T19:06:55+00:00" data-subject="">
 
 When your followers are tanking for you, sometimes the mob will disengage from them to attack you, so you could need to reorder your pets into combat.  If it's important to get the blind/weaken, them tanking to start is probably a good idea, but in most cases it's best for you to take the hits.
 
@@ -34,7 +34,7 @@ You can't heal your undead, but when you are able to get a xegyi supplicant, it 
 
 </div>
 
-<div class="post" data-post-id="19845" data-author="Widow" data-date="2007-08-23T03:12:20+00:00">
+<div class="post" data-post-id="19845" data-author="Widow" data-date="2007-08-23T03:12:20+00:00" data-subject="">
 
 Good deal. Thanks for the info.
 

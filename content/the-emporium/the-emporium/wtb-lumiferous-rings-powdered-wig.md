@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="5803" data-author="impz" data-date="2005-04-23T11:23:15+00:00">
+<div class="post" data-post-id="5803" data-author="impz" data-date="2005-04-23T11:23:15+00:00" data-subject="WTB lumiferous rings / powdered wig">
 
 will trade well.
 
@@ -28,7 +28,7 @@ Or simply find me online to talk about it.
 
 </div>
 
-<div class="post" data-post-id="5804" data-author="impz" data-date="2005-04-23T15:59:34+00:00">
+<div class="post" data-post-id="5804" data-author="impz" data-date="2005-04-23T15:59:34+00:00" data-subject="">
 
 got powdered wig...sable gimlet taken up.
 

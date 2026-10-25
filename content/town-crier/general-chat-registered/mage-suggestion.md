@@ -10,7 +10,7 @@ locked: false
 post_count: 42
 ---
 
-<div class="post" data-post-id="15684" data-author="Elsie" data-date="2006-12-20T14:18:10+00:00">
+<div class="post" data-post-id="15684" data-author="Elsie" data-date="2006-12-20T14:18:10+00:00" data-subject="Mage Suggestion">
 
 how about a super blast for the mages ... it seems silly to me that a thief can at no mana cost cause more damage than an av mages best blast.
 
@@ -18,7 +18,7 @@ Maybe 10 times cost of frostbolt, 5 times the damage ... gives them a chance to 
 
 </div>
 
-<div class="post" data-post-id="15686" data-author="Medios" data-date="2006-12-20T14:23:42+00:00">
+<div class="post" data-post-id="15686" data-author="Medios" data-date="2006-12-20T14:23:42+00:00" data-subject="">
 
 Traditionally thieves have always had the most lead dmg of any class in rpg.  Mages have the most sustained dmg with blasting.  If you make a spell that does as much dmg as a thief stabbing, whats the point of having thieves.  With frostbolt and max spelldmg im thinking that most mages are getting close to the dmg of a single stab anyways.
 
@@ -26,7 +26,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15690" data-author="Avatar" data-date="2006-12-20T21:22:35+00:00">
+<div class="post" data-post-id="15690" data-author="Avatar" data-date="2006-12-20T21:22:35+00:00" data-subject="stabs">
 
 I agree Thieves should have the best opening damage, but I do also think it's odd that the best blast spells are 25-30 mana.  A lot of chars these days have 600+ mana, I'd like to see some spell doing a little more damage but costing a lot more mana.  Drop some efficiency for some speed - so that there's a trade-off to either.
 
@@ -34,7 +34,7 @@ Regarding stabs, for Plato (thief second, mage last) it feels like one blast spe
 
 </div>
 
-<div class="post" data-post-id="15691" data-author="Krok" data-date="2006-12-20T22:06:08+00:00">
+<div class="post" data-post-id="15691" data-author="Krok" data-date="2006-12-20T22:06:08+00:00" data-subject="">
 
 1. Thieves need poison to have better stab.
 
@@ -46,7 +46,7 @@ It's just about difference in the classos. Some do something better.
 
 </div>
 
-<div class="post" data-post-id="15693" data-author="Weasel" data-date="2006-12-20T22:33:31+00:00">
+<div class="post" data-post-id="15693" data-author="Weasel" data-date="2006-12-20T22:33:31+00:00" data-subject="Re: stabs">
 
 ..also think it's odd that the best blast spells are 25-30 mana.  A lot of chars these days have 600+ mana, I'd like to see some spell doing a little more damage but costing a lot more mana.[/quote:ldw3cpcb]
 
@@ -58,13 +58,13 @@ That's my take on that idea anyway, unless you add new spells like 'enhanced fir
 
 </div>
 
-<div class="post" data-post-id="15694" data-author="13" data-date="2006-12-21T00:28:11+00:00">
+<div class="post" data-post-id="15694" data-author="13" data-date="2006-12-21T00:28:11+00:00" data-subject="">
 
 It sounds gay to me.  If you have penis-envy, play a penis.  Or a mage/penis at least.
 
 </div>
 
-<div class="post" data-post-id="15695" data-author="12345" data-date="2006-12-21T05:58:55+00:00">
+<div class="post" data-post-id="15695" data-author="12345" data-date="2006-12-21T05:58:55+00:00" data-subject="">
 
 Actually, this could be really funny.  Soak an extra mana per damage.  Watch a mage with their 800 mana walk up to something, soak it for a bolt+800 damage, pray to god that they don't lose conc, cap, and spend the rest of the time regenning.
 
@@ -80,19 +80,19 @@ When you start running ET, Irap, Valley of Dust and Fire, Tony's, DoT, CK, etc, 
 
 </div>
 
-<div class="post" data-post-id="15696" data-author="13" data-date="2006-12-21T06:24:31+00:00">
+<div class="post" data-post-id="15696" data-author="13" data-date="2006-12-21T06:24:31+00:00" data-subject="">
 
 well-said
 
 </div>
 
-<div class="post" data-post-id="15697" data-author="Hotara" data-date="2006-12-21T08:11:44+00:00">
+<div class="post" data-post-id="15697" data-author="Hotara" data-date="2006-12-21T08:11:44+00:00" data-subject="">
 
 Nod, I'm obscenely powerful.
 
 </div>
 
-<div class="post" data-post-id="15698" data-author="Falsra" data-date="2006-12-21T09:33:51+00:00">
+<div class="post" data-post-id="15698" data-author="Falsra" data-date="2006-12-21T09:33:51+00:00" data-subject="">
 
 look, 
 
@@ -124,7 +124,7 @@ and some minor suggestions:
 
 </div>
 
-<div class="post" data-post-id="15699" data-author="Falsra" data-date="2006-12-21T10:59:37+00:00">
+<div class="post" data-post-id="15699" data-author="Falsra" data-date="2006-12-21T10:59:37+00:00" data-subject="">
 
 and some minor suggestions:
 
@@ -140,7 +140,7 @@ during the House of the Shadows only ...
 
 </div>
 
-<div class="post" data-post-id="15700" data-author="Rynquald" data-date="2006-12-21T12:20:16+00:00">
+<div class="post" data-post-id="15700" data-author="Rynquald" data-date="2006-12-21T12:20:16+00:00" data-subject="">
 
 Mages do get 80 spelldam from tard levs.
 
@@ -148,7 +148,7 @@ But a differently named tard blast might be nice for style points :)
 
 </div>
 
-<div class="post" data-post-id="15701" data-author="Falsra" data-date="2006-12-21T12:38:53+00:00">
+<div class="post" data-post-id="15701" data-author="Falsra" data-date="2006-12-21T12:38:53+00:00" data-subject="">
 
 Mages do get 80 spelldam from tard levs.
 
@@ -166,7 +166,7 @@ from tard levels for destruction.
 
 </div>
 
-<div class="post" data-post-id="15702" data-author="Rynquald" data-date="2006-12-21T12:47:43+00:00">
+<div class="post" data-post-id="15702" data-author="Rynquald" data-date="2006-12-21T12:47:43+00:00" data-subject="">
 
 Tard spelldam applies to destruction? Never knew.
 
@@ -176,7 +176,7 @@ Not sure how you could do that without massive unbalancing/overpower though.
 
 </div>
 
-<div class="post" data-post-id="15703" data-author="13" data-date="2006-12-21T14:34:39+00:00">
+<div class="post" data-post-id="15703" data-author="13" data-date="2006-12-21T14:34:39+00:00" data-subject="">
 
 you get an extra mirror at avatar i think.  that should be sufficient.
 
@@ -184,7 +184,7 @@ hehe
 
 </div>
 
-<div class="post" data-post-id="15704" data-author="12345" data-date="2006-12-21T15:29:30+00:00">
+<div class="post" data-post-id="15704" data-author="12345" data-date="2006-12-21T15:29:30+00:00" data-subject="">
 
 Pretty sure that Falsra is correct in that all the classes pick up extra spelldam.  However, the only spells that can really compete with a mage's blasts are dawnfire (outside, 2 ticks a day) and a cry of the avatars with high +chr, and that only for percent unsaved, an unsaved frostbolt will still put it to shame.
 
@@ -192,7 +192,7 @@ So, you can basically compare it to the restore vs. heal thing.  Yeah, you're al
 
 </div>
 
-<div class="post" data-post-id="15705" data-author="Falsra" data-date="2006-12-21T17:02:18+00:00">
+<div class="post" data-post-id="15705" data-author="Falsra" data-date="2006-12-21T17:02:18+00:00" data-subject="">
 
 you get an extra mirror at avatar i think.  that should be sufficient.
 
@@ -208,25 +208,25 @@ max = 4, ( 5 if masterful )
 
 </div>
 
-<div class="post" data-post-id="15706" data-author="13" data-date="2006-12-21T17:56:15+00:00">
+<div class="post" data-post-id="15706" data-author="13" data-date="2006-12-21T17:56:15+00:00" data-subject="">
 
 ok im sorry, was wrong
 
 </div>
 
-<div class="post" data-post-id="15710" data-author="brady" data-date="2006-12-22T04:00:28+00:00">
+<div class="post" data-post-id="15710" data-author="brady" data-date="2006-12-22T04:00:28+00:00" data-subject="">
 
 5.40 mages should get beacon of fortune (back) :twisted:
 
 </div>
 
-<div class="post" data-post-id="15713" data-author="Guinex" data-date="2006-12-22T07:46:17+00:00">
+<div class="post" data-post-id="15713" data-author="Guinex" data-date="2006-12-22T07:46:17+00:00" data-subject="">
 
 UC gear is only for summoning, you would have to be oblivous to run around and kill stuff with it on.  *smoke*
 
 </div>
 
-<div class="post" data-post-id="15716" data-author="Avatar" data-date="2006-12-22T13:39:37+00:00">
+<div class="post" data-post-id="15716" data-author="Avatar" data-date="2006-12-22T13:39:37+00:00" data-subject="UC gear only for summoning?">
 
 That's like saying +hp gear is only for the beginning of the run.  Perhaps undead pets could be coded like max hp / max mana.  The effects could dynamically wax or wane depending on your current UC gear, instead of being locked at the time of summoning.
 
@@ -234,7 +234,7 @@ No wonder necro's are overpowered!
 
 </div>
 
-<div class="post" data-post-id="15717" data-author="alias" data-date="2006-12-22T14:28:22+00:00">
+<div class="post" data-post-id="15717" data-author="alias" data-date="2006-12-22T14:28:22+00:00" data-subject="">
 
 Perhaps you should worry about your own class instead of trying to get someone elses nerfed. My tank when he was -9 died less in a mage tower ruins  than my necro at -9 w/ pets so Ill thank you to say necros are not overpowered. while I dont play a mage/thief i think stabbing w/ mirrors would be a nice prime ability. 
 
@@ -242,7 +242,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="15721" data-author="Autolycos" data-date="2006-12-22T15:15:23+00:00">
+<div class="post" data-post-id="15721" data-author="Autolycos" data-date="2006-12-22T15:15:23+00:00" data-subject="">
 
 just remember... everytime you nerf a necro skill/spell 
 
@@ -250,7 +250,7 @@ that adds 10 more days to Guinex raping your corpse! :shock:
 
 </div>
 
-<div class="post" data-post-id="15722" data-author="Avatar" data-date="2006-12-22T15:40:20+00:00">
+<div class="post" data-post-id="15722" data-author="Avatar" data-date="2006-12-22T15:40:20+00:00" data-subject="necro">
 
 I don't know how we expect the imms to fix these things if noone will talk about them.
 
@@ -288,13 +288,13 @@ I've got to go visit family for Christmas, so won't be posting for awhile.
 
 </div>
 
-<div class="post" data-post-id="15723" data-author="Krok" data-date="2006-12-22T16:14:05+00:00">
+<div class="post" data-post-id="15723" data-author="Krok" data-date="2006-12-22T16:14:05+00:00" data-subject="">
 
 Talking of this, you'll get necros really nerfed, and then EVERYONE will suffer, cause necros help us all get eq in the groups. If you don't agree, go blast krimeah :))
 
 </div>
 
-<div class="post" data-post-id="15724" data-author="Toxis" data-date="2006-12-22T18:46:52+00:00">
+<div class="post" data-post-id="15724" data-author="Toxis" data-date="2006-12-22T18:46:52+00:00" data-subject="balance">
 
 Balance of the undeads for necromancer class is pretty bad.  Summon undead sucks, even phantoms with +8 undead control die FAST.  For all that mana, I'd rather just frostbolt.  Banshees are completely worthless now, a brilliant gift for any tri 40 necromancer.  And undead control eq can only be worn when you summon undead, doesn't seem right.
 
@@ -320,7 +320,7 @@ And another thought, avatars should be able to cast all supplicants, or at least
 
 </div>
 
-<div class="post" data-post-id="15725" data-author="victory" data-date="2006-12-22T19:39:18+00:00">
+<div class="post" data-post-id="15725" data-author="victory" data-date="2006-12-22T19:39:18+00:00" data-subject="Classo balance">
 
 I think that the current balance is good. Some class combinations are definately more compatible or better than others for certain things, but all have advantages in some ways.
 
@@ -344,7 +344,7 @@ Victory
 
 </div>
 
-<div class="post" data-post-id="15730" data-author="Atwell" data-date="2006-12-22T21:13:17+00:00">
+<div class="post" data-post-id="15730" data-author="Atwell" data-date="2006-12-22T21:13:17+00:00" data-subject="Re: balance">
 
 And another thought, avatars should be able to cast all supplicants, or at least all those up to tri40 :(.  Avatar 40 can't even cast a kachina :P.[/quote:3rrwlauj]
 
@@ -352,7 +352,7 @@ Kachina is a 2x40 supplication, and a 5x40 quad-cl can supplicate for it.
 
 </div>
 
-<div class="post" data-post-id="15731" data-author="Vixn" data-date="2006-12-22T22:28:33+00:00">
+<div class="post" data-post-id="15731" data-author="Vixn" data-date="2006-12-22T22:28:33+00:00" data-subject="Re: balance">
 
 [quote:1dd9z8kp]Kachina is a 2x40 supplication, and a 5x40 quad-cl can supplicate for it.[/quote:1dd9z8kp]
 
@@ -360,13 +360,13 @@ Yep, any 5x40 quad cleric but not Brad  :twisted:
 
 </div>
 
-<div class="post" data-post-id="15738" data-author="Krok" data-date="2006-12-23T13:43:17+00:00">
+<div class="post" data-post-id="15738" data-author="Krok" data-date="2006-12-23T13:43:17+00:00" data-subject="">
 
 Hell, Brad can't even supplicate 1x20 supp :D
 
 </div>
 
-<div class="post" data-post-id="15740" data-author="Falsra" data-date="2006-12-23T16:14:11+00:00">
+<div class="post" data-post-id="15740" data-author="Falsra" data-date="2006-12-23T16:14:11+00:00" data-subject="">
 
 It is fun to see how every class discussion ends with necro discussion  8) 
 
@@ -398,7 +398,7 @@ but groupmates. now it affects only mobs fighting you in this moment.
 
 </div>
 
-<div class="post" data-post-id="15741" data-author="Ker" data-date="2006-12-23T16:47:03+00:00">
+<div class="post" data-post-id="15741" data-author="Ker" data-date="2006-12-23T16:47:03+00:00" data-subject="">
 
 There's no point comparing classos all together.  Much of this topic has come up again and yet again, whine.
 
@@ -414,7 +414,7 @@ Merry Christmas my fellow Slothers :-)
 
 </div>
 
-<div class="post" data-post-id="15742" data-author="Falsra" data-date="2006-12-23T17:11:04+00:00">
+<div class="post" data-post-id="15742" data-author="Falsra" data-date="2006-12-23T17:11:04+00:00" data-subject="">
 
 You dont understand Ker/Chi.
 
@@ -438,7 +438,7 @@ Feel the difference ?
 
 </div>
 
-<div class="post" data-post-id="15743" data-author="Falsra" data-date="2006-12-23T18:36:59+00:00">
+<div class="post" data-post-id="15743" data-author="Falsra" data-date="2006-12-23T18:36:59+00:00" data-subject="">
 
 Again me...
 
@@ -464,7 +464,7 @@ featuring mages-tards :)
 
 </div>
 
-<div class="post" data-post-id="15746" data-author="Aleksey" data-date="2006-12-24T11:52:47+00:00">
+<div class="post" data-post-id="15746" data-author="Aleksey" data-date="2006-12-24T11:52:47+00:00" data-subject="">
 
 Oleg, you got prime attunement:p
 
@@ -472,7 +472,7 @@ Don't remember who told me about followers last time, but... you always can char
 
 </div>
 
-<div class="post" data-post-id="15747" data-author="Alberich" data-date="2006-12-24T13:58:49+00:00">
+<div class="post" data-post-id="15747" data-author="Alberich" data-date="2006-12-24T13:58:49+00:00" data-subject="">
 
 And frostbolt stays the only offensive spell mages blast no matter how
 
@@ -492,7 +492,7 @@ I'll vote for letting mages stab with mirrors up though :)  Doesn't change anyth
 
 </div>
 
-<div class="post" data-post-id="15748" data-author="13" data-date="2006-12-24T14:37:13+00:00">
+<div class="post" data-post-id="15748" data-author="13" data-date="2006-12-24T14:37:13+00:00" data-subject="">
 
 Aleks nice to see you :)
 
@@ -500,7 +500,7 @@ Mages smell like cheese etc.
 
 </div>
 
-<div class="post" data-post-id="15754" data-author="Avatar" data-date="2006-12-24T23:19:09+00:00">
+<div class="post" data-post-id="15754" data-author="Avatar" data-date="2006-12-24T23:19:09+00:00" data-subject="class ideas">
 
 Sorry for posting so much arguable content right before Christmas.  I'm with family now, and I can only hope that all of you are having as good a time.  I'm so thankful for the holidays, it gives me a chance to recuperate and do a full regen.
 
@@ -514,7 +514,7 @@ Second, regarding the area effect spells - these work differently depending on w
 
 </div>
 
-<div class="post" data-post-id="15756" data-author="Falsra" data-date="2006-12-25T08:56:41+00:00">
+<div class="post" data-post-id="15756" data-author="Falsra" data-date="2006-12-25T08:56:41+00:00" data-subject="">
 
 Oleg, you got prime attunement:p
 
@@ -538,13 +538,13 @@ strongly attuned to channeling mages prime cast upon it.
 
 </div>
 
-<div class="post" data-post-id="15960" data-author="brady" data-date="2007-01-04T08:22:12+00:00">
+<div class="post" data-post-id="15960" data-author="brady" data-date="2007-01-04T08:22:12+00:00" data-subject="">
 
 First of all, I disagree that mage primes smell like cheese.  The rotten skin under that finger turban might, however.  I do think that a 5x40 mage prime damage spell seems more than fair; maybe something like a wizard's wrath.  Alternately, something like a short term ethereal spell along the lines of wraithform would also seem to be fair and appropriate.  I love the addition of excrutiating blow, but cmon...buffing thieves?  Throw us a bone already.  Oh an I would also like gossip back...Aaron is a putz.
 
 </div>
 
-<div class="post" data-post-id="15965" data-author="firebrand" data-date="2007-01-04T13:58:45+00:00">
+<div class="post" data-post-id="15965" data-author="firebrand" data-date="2007-01-04T13:58:45+00:00" data-subject="">
 
 Nod, I'm obscenely powerful.[/quote:33c51hpo]
 
@@ -554,7 +554,7 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="15968" data-author="13" data-date="2007-01-04T15:52:23+00:00">
+<div class="post" data-post-id="15968" data-author="13" data-date="2007-01-04T15:52:23+00:00" data-subject="">
 
 [quote:2eg7xbwq]Oh an I would also like gossip back...Aaron is a putz.[/quote:2eg7xbwq]
 

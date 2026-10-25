@@ -10,7 +10,7 @@ locked: false
 post_count: 25
 ---
 
-<div class="post" data-post-id="36721" data-author="*teker*" data-date="2016-03-09T21:16:54+00:00">
+<div class="post" data-post-id="36721" data-author="*teker*" data-date="2016-03-09T21:16:54+00:00" data-subject="Quests - what do you want to see">
 
 We're going to be doing work on the quest system - what would you like to see.  Examples from other games are probably useful. 
 
@@ -20,7 +20,7 @@ I know there's been discussion about quests offered for a set amount of time.  W
 
 </div>
 
-<div class="post" data-post-id="36722" data-author="Vegetable" data-date="2016-03-09T21:51:57+00:00">
+<div class="post" data-post-id="36722" data-author="Vegetable" data-date="2016-03-09T21:51:57+00:00" data-subject="Re: Quests - what do you want to see">
 
 It will be interesting to have some way to track ongoing quest. i.e. type questlist to show quest undertaken or where are you in a chain quest. Being able to abandon and retake failed quest is nice as well. Also, how about a weekly/daily random quest for everyone in exchange for drachma & honor? This provide a chance for player who dont have much time for group (busy/timezone difference/etc) or prefer to farm for drachma gear on their own.
 
@@ -28,7 +28,7 @@ It will be interesting to have some way to track ongoing quest. i.e. type questl
 
 </div>
 
-<div class="post" data-post-id="36723" data-author="Ker" data-date="2016-03-10T05:41:32+00:00">
+<div class="post" data-post-id="36723" data-author="Ker" data-date="2016-03-10T05:41:32+00:00" data-subject="Re: Quests - what do you want to see">
 
 Good day Teker,
 
@@ -40,7 +40,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36724" data-author="cyprimus" data-date="2016-03-10T06:09:59+00:00">
+<div class="post" data-post-id="36724" data-author="cyprimus" data-date="2016-03-10T06:09:59+00:00" data-subject="Re: Quests - what do you want to see">
 
 Well, i have seen a number of different systems for it..  
 
@@ -70,7 +70,7 @@ will add more later once i have slept better..
 
 </div>
 
-<div class="post" data-post-id="36725" data-author="cyprimus" data-date="2016-03-10T07:44:47+00:00">
+<div class="post" data-post-id="36725" data-author="cyprimus" data-date="2016-03-10T07:44:47+00:00" data-subject="Re: Quests - what do you want to see">
 
 OH, also, the website gives a list of quests you have done.. long quests are divided into smaller ones, so you can in effect see your progress on quest chains.
 
@@ -80,7 +80,7 @@ bleh... anyways, must sleep.
 
 </div>
 
-<div class="post" data-post-id="36726" data-author="Yasik" data-date="2016-03-10T14:40:59+00:00">
+<div class="post" data-post-id="36726" data-author="Yasik" data-date="2016-03-10T14:40:59+00:00" data-subject="Re: Quests - what do you want to see">
 
 Thanks for asking! Here is what I'd change if I had means to:
 
@@ -136,7 +136,7 @@ Thats it for now, will add more if any thought comes to my mind.
 
 </div>
 
-<div class="post" data-post-id="36727" data-author="*teker*" data-date="2016-03-10T15:18:20+00:00">
+<div class="post" data-post-id="36727" data-author="*teker*" data-date="2016-03-10T15:18:20+00:00" data-subject="Re: Quests - what do you want to see">
 
 > **Ker wrote:**
 > Are we looking at content for quests or technical support for players?
@@ -151,7 +151,7 @@ Basically I want us to build a good system that provides the framework for our b
 
 </div>
 
-<div class="post" data-post-id="36728" data-author="Yasik" data-date="2016-03-10T17:16:17+00:00">
+<div class="post" data-post-id="36728" data-author="Yasik" data-date="2016-03-10T17:16:17+00:00" data-subject="Re: Quests - what do you want to see">
 
 hmmm
 
@@ -161,7 +161,7 @@ journal finished
 
 </div>
 
-<div class="post" data-post-id="36730" data-author="*Splork*" data-date="2016-03-10T19:22:29+00:00">
+<div class="post" data-post-id="36730" data-author="*Splork*" data-date="2016-03-10T19:22:29+00:00" data-subject="Re: Quests - what do you want to see">
 
 @yasik
 
@@ -171,7 +171,7 @@ Nice job!
 
 </div>
 
-<div class="post" data-post-id="36731" data-author="*Idjit*" data-date="2016-03-11T02:48:13+00:00">
+<div class="post" data-post-id="36731" data-author="*Idjit*" data-date="2016-03-11T02:48:13+00:00" data-subject="Re: Quests - what do you want to see">
 
 We had the token of recollection which
 
@@ -223,7 +223,7 @@ I'll stop here otherwise i'll keep rambling.
 
 </div>
 
-<div class="post" data-post-id="36732" data-author="Ker" data-date="2016-03-11T08:15:04+00:00">
+<div class="post" data-post-id="36732" data-author="Ker" data-date="2016-03-11T08:15:04+00:00" data-subject="Re: Quests - what do you want to see">
 
 Good day Slothers,
 
@@ -249,7 +249,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36733" data-author="Teron" data-date="2016-03-11T09:32:19+00:00">
+<div class="post" data-post-id="36733" data-author="Teron" data-date="2016-03-11T09:32:19+00:00" data-subject="Re: Quests - what do you want to see">
 
 I've played WoW a bit and have to say it has one of the best quest systems I've seen.
 
@@ -330,7 +330,7 @@ The shop will allow us to use more items, customize our eq sets and hopefully le
 
 </div>
 
-<div class="post" data-post-id="36734" data-author="*juggleblood*" data-date="2016-03-11T13:33:14+00:00">
+<div class="post" data-post-id="36734" data-author="*juggleblood*" data-date="2016-03-11T13:33:14+00:00" data-subject="Re: Quests - what do you want to see">
 
 If we had crafted drachma eq, wouldn't that have big knock-on effects?
 
@@ -340,7 +340,7 @@ I worry it would be an uncontrollable dynamic where players are all complaining 
 
 </div>
 
-<div class="post" data-post-id="36735" data-author="*Splork*" data-date="2016-03-11T14:18:27+00:00">
+<div class="post" data-post-id="36735" data-author="*Splork*" data-date="2016-03-11T14:18:27+00:00" data-subject="Re: Quests - what do you want to see">
 
 We are not looking to completely overhaul the current system or add an endless fountain of drachma. We are looking at ways to improve upon the current system and add to it. 
 
@@ -366,7 +366,7 @@ Keep the ideas coming, the possibilities are endless...
 
 </div>
 
-<div class="post" data-post-id="36736" data-author="*juggleblood*" data-date="2016-03-11T19:43:41+00:00">
+<div class="post" data-post-id="36736" data-author="*juggleblood*" data-date="2016-03-11T19:43:41+00:00" data-subject="Re: Quests - what do you want to see">
 
 Well listing the quest data on the website was brilliant and well executed. It's a lot of information to take in, so really I think the web is a good format. 
 
@@ -378,7 +378,7 @@ Oh..and NPC guided quests also a good idea. Specially for newbies. Imagine quest
 
 </div>
 
-<div class="post" data-post-id="36737" data-author="cyprimus" data-date="2016-03-11T20:07:07+00:00">
+<div class="post" data-post-id="36737" data-author="cyprimus" data-date="2016-03-11T20:07:07+00:00" data-subject="Re: Quests - what do you want to see">
 
 Well, good to see ppl finally speaking up.
 
@@ -392,7 +392,7 @@ Would like to drag teker to a few of the muds i still play that have different s
 
 </div>
 
-<div class="post" data-post-id="36738" data-author="*Splork*" data-date="2016-03-11T20:31:57+00:00">
+<div class="post" data-post-id="36738" data-author="*Splork*" data-date="2016-03-11T20:31:57+00:00" data-subject="Re: Quests - what do you want to see">
 
 > **Quote:**
 > Well listing the quest data on the website was brilliant and well executed. It's a lot of information to take in, so really I think the web is a good format.
@@ -405,7 +405,7 @@ There are still some issues with quests and our website such as the list is not 
 
 </div>
 
-<div class="post" data-post-id="36740" data-author="*Idjit*" data-date="2016-03-12T03:10:03+00:00">
+<div class="post" data-post-id="36740" data-author="*Idjit*" data-date="2016-03-12T03:10:03+00:00" data-subject="Re: Quests - what do you want to see">
 
 Re: Juggleblood's mobtalk idea, we could start having a series of quests where an artificial groupie mob (or a set of four mobs each of the base four classes cleric thief warrior mage) teaches basic grouping concepts, and expounds on the benefits of -why- grouping is good and not just how-to.  
 
@@ -421,7 +421,7 @@ Right now it's actually rather difficult in mudl to force mobs to fight each oth
 
 </div>
 
-<div class="post" data-post-id="36741" data-author="Teron" data-date="2016-03-12T03:12:52+00:00">
+<div class="post" data-post-id="36741" data-author="Teron" data-date="2016-03-12T03:12:52+00:00" data-subject="Re: Quests - what do you want to see">
 
 Splork, as long as players can filter the quest list and dive into it, it is not overwhelming to have it ingame.
 
@@ -453,7 +453,7 @@ Of course, scripts can do most of the work, so maybe add a shark or two to the m
 
 </div>
 
-<div class="post" data-post-id="36770" data-author="Yasik" data-date="2016-03-26T14:47:11+00:00">
+<div class="post" data-post-id="36770" data-author="Yasik" data-date="2016-03-26T14:47:11+00:00" data-subject="Re: Quests - what do you want to see">
 
 Yesterday I had a chat with seems to be newcomer.
 
@@ -531,7 +531,7 @@ Personally, I think it is good approach and we could do same or similar here; al
 
 </div>
 
-<div class="post" data-post-id="36771" data-author="*Splork*" data-date="2016-03-26T20:35:12+00:00">
+<div class="post" data-post-id="36771" data-author="*Splork*" data-date="2016-03-26T20:35:12+00:00" data-subject="Re: Quests - what do you want to see">
 
 We realize the last couple of weeks have been a bit rough, we believe we are back to normal now. Teker has made an insane amount of changes to some core functionality,which in the end we believe the past two weeks will be well worth it.
 
@@ -543,7 +543,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="36784" data-author="Yasik" data-date="2016-03-30T16:20:33+00:00">
+<div class="post" data-post-id="36784" data-author="Yasik" data-date="2016-03-30T16:20:33+00:00" data-subject="Re: Quests - what do you want to see">
 
 + Quest difficulty and reward must be in correlation; recently I did two quests - to subdue penguin king (30k mob) and to bring 30 (!) ice trolls corpses to the quester. The trolls attack in packs, nearly killed me (1200 hp, -11 AC, with 3 undead pets assisting (soak damage)), but both quests have 2 (two) drachma reward. Its either poor design or mocking players.
 
@@ -739,7 +739,7 @@ I strongly condemn approach like that. And it always was like this since S3. Bet
 
 </div>
 
-<div class="post" data-post-id="36788" data-author="Josiah" data-date="2016-03-30T20:05:08+00:00">
+<div class="post" data-post-id="36788" data-author="Josiah" data-date="2016-03-30T20:05:08+00:00" data-subject="Re: Quests - what do you want to see">
 
 Why should quest difficulty and compensation be linked?  You attempted a very challenging quest for someone of your power level, and pulled it off (admittedly with great difficulty).  Well played!  You could of course have brought a single friend to make it trivially easy.
 
@@ -761,7 +761,7 @@ And Ozzy, you should've read the actual text of the quest prompts... you aren't 
 
 </div>
 
-<div class="post" data-post-id="36794" data-author="*teker*" data-date="2016-03-31T19:01:37+00:00">
+<div class="post" data-post-id="36794" data-author="*teker*" data-date="2016-03-31T19:01:37+00:00" data-subject="Re: Quests - what do you want to see">
 
 So part of what I'm getting is that there should be a recommended prime level and total levels for each quest so that players can figure out which quests are most appropriate for them.  Since this would be different than the required level settings, players could still attempt the quest earlier if they think they're up to it.
 
@@ -821,7 +821,7 @@ Type of Quest:
 
 </div>
 
-<div class="post" data-post-id="36803" data-author="Marvel" data-date="2016-04-02T15:54:21+00:00">
+<div class="post" data-post-id="36803" data-author="Marvel" data-date="2016-04-02T15:54:21+00:00" data-subject="Re: Quests - what do you want to see">
 
 I know I haven't been around lately - 2 kids basically kills all my opportunities to do some MUDding. Work has been keeping me busy as well. I saw some great points and suggestions being made.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="3885" data-author="Roadrunr" data-date="2005-01-23T04:15:34+00:00">
+<div class="post" data-post-id="3885" data-author="Roadrunr" data-date="2005-01-23T04:15:34+00:00" data-subject="wa ma mo cl for sale">
 
 Disciple .  (level: 30)
 
@@ -44,7 +44,7 @@ looking for tokens or coins...
 
 </div>
 
-<div class="post" data-post-id="3907" data-author="Lonce" data-date="2005-01-24T00:18:23+00:00">
+<div class="post" data-post-id="3907" data-author="Lonce" data-date="2005-01-24T00:18:23+00:00" data-subject="MIN VALUE?">
 
 how much coins for min?
 

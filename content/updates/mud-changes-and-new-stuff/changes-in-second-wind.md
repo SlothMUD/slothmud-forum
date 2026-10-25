@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32089" data-author="*Isabo*" data-date="2010-11-20T01:23:30+00:00">
+<div class="post" data-post-id="32089" data-author="*Isabo*" data-date="2010-11-20T01:23:30+00:00" data-subject="Changes in second wind">
 
 Greeting mortals.
 

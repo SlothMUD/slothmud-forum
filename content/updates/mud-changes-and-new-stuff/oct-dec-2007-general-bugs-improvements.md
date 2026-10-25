@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26451" data-author="Judge" data-date="2008-09-24T10:29:45+00:00">
+<div class="post" data-post-id="26451" data-author="Judge" data-date="2008-09-24T10:29:45+00:00" data-subject="Oct-Dec 2007: General Bugs/Improvements">
 
 Be warned the following is a little long, it is a log of the changes I made during this period...obviously I've removed anything that could be considered immortal information or that relates to general improvements to the code...basically stuff that you shouldn't notice.
 

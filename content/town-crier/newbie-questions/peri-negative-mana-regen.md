@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="33576" data-author="Yasik" data-date="2012-09-06T12:32:45+00:00">
+<div class="post" data-post-id="33576" data-author="Yasik" data-date="2012-09-06T12:32:45+00:00" data-subject="peri negative mana regen">
 
 <278hp 132ma 280mv>  [+9]   AC: -7.0   EXP: 11,579,056   COINS: 41,700
 
@@ -40,19 +40,19 @@ She casts something on herself so we don't see, or room with mana drain? If so, 
 
 </div>
 
-<div class="post" data-post-id="33577" data-author="*Breeze*" data-date="2012-09-06T19:28:00+00:00">
+<div class="post" data-post-id="33577" data-author="*Breeze*" data-date="2012-09-06T19:28:00+00:00" data-subject="Re: peri negative mana regen">
 
 i have to check again but iirc all she casts is bless type spell (and mini cure)
 
 </div>
 
-<div class="post" data-post-id="33578" data-author="Magi" data-date="2012-09-06T20:58:39+00:00">
+<div class="post" data-post-id="33578" data-author="Magi" data-date="2012-09-06T20:58:39+00:00" data-subject="Re: peri negative mana regen">
 
 It seems the peri can lose concentration on healing, and there is no message when that happens.
 
 </div>
 
-<div class="post" data-post-id="33581" data-author="Yasik" data-date="2012-09-08T14:21:32+00:00">
+<div class="post" data-post-id="33581" data-author="Yasik" data-date="2012-09-08T14:21:32+00:00" data-subject="Re: peri negative mana regen">
 
 order followers report
 
@@ -84,7 +84,7 @@ It seems "order" command is a spell too, and can lost concentration as well... S
 
 </div>
 
-<div class="post" data-post-id="33592" data-author="Tuck" data-date="2012-09-09T15:49:49+00:00">
+<div class="post" data-post-id="33592" data-author="Tuck" data-date="2012-09-09T15:49:49+00:00" data-subject="Re: peri negative mana regen">
 
 it's a feature, not a bug.
 

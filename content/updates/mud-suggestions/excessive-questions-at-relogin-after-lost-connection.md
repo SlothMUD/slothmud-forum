@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="35998" data-author="Yasik" data-date="2015-07-18T15:45:29+00:00">
+<div class="post" data-post-id="35998" data-author="Yasik" data-date="2015-07-18T15:45:29+00:00" data-subject="Excessive questions at relogin after lost connection">
 
 Hello!
 
@@ -22,19 +22,19 @@ What purpose they serve? Isnt it obvious that yes, we DO WANT to cut the previou
 
 </div>
 
-<div class="post" data-post-id="35999" data-author="Filk" data-date="2015-07-19T12:22:49+00:00">
+<div class="post" data-post-id="35999" data-author="Filk" data-date="2015-07-19T12:22:49+00:00" data-subject="Re: Excessive questions at relogin after lost connection">
 
 +1 for that change  :P
 
 </div>
 
-<div class="post" data-post-id="36000" data-author="Toxis" data-date="2015-07-20T09:53:33+00:00">
+<div class="post" data-post-id="36000" data-author="Toxis" data-date="2015-07-20T09:53:33+00:00" data-subject="Re: Excessive questions at relogin after lost connection">
 
 But for those who share characters kinda screws them over, and a group, especially if they're tanking.  No?
 
 </div>
 
-<div class="post" data-post-id="36001" data-author="*Idjit*" data-date="2015-07-21T00:39:36+00:00">
+<div class="post" data-post-id="36001" data-author="*Idjit*" data-date="2015-07-21T00:39:36+00:00" data-subject="Re: Excessive questions at relogin after lost connection">
 
 I wonder if we could make that an individually toggleable setting.
 
@@ -48,13 +48,13 @@ Worth a shot to propose it, is all.
 
 </div>
 
-<div class="post" data-post-id="36006" data-author="Oboe" data-date="2015-07-27T02:02:37+00:00">
+<div class="post" data-post-id="36006" data-author="Oboe" data-date="2015-07-27T02:02:37+00:00" data-subject="Re: Excessive questions at relogin after lost connection">
 
 As Toxis says, the prompt has value.  A client can easily auto-answer these questions if you don't want them; there's no similar workaround if you do want them and the MUD does not ask them.  I think we're fine here.
 
 </div>
 
-<div class="post" data-post-id="36008" data-author="Yasik" data-date="2015-07-27T18:20:31+00:00">
+<div class="post" data-post-id="36008" data-author="Yasik" data-date="2015-07-27T18:20:31+00:00" data-subject="Re: Excessive questions at relogin after lost connection">
 
 That depends on who you think are "we", and I am most definitely not among those.
 
@@ -66,7 +66,7 @@ I see no reason of its existence.
 
 </div>
 
-<div class="post" data-post-id="36009" data-author="*teker*" data-date="2015-07-28T14:43:11+00:00">
+<div class="post" data-post-id="36009" data-author="*teker*" data-date="2015-07-28T14:43:11+00:00" data-subject="Re: Excessive questions at relogin after lost connection">
 
 It's probably there because something in the original Diku code base didn't work without it.  I'm guessing the paging of the motd or something like that.
 

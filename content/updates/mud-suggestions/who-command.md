@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="33685" data-author="raincrab" data-date="2012-10-27T10:50:05+00:00">
+<div class="post" data-post-id="33685" data-author="raincrab" data-date="2012-10-27T10:50:05+00:00" data-subject="Who Command">
 
 This sets off my OCD every time:
 
@@ -18,13 +18,13 @@ This sets off my OCD every time:
 
 </div>
 
-<div class="post" data-post-id="33691" data-author="*juggleblood*" data-date="2012-10-27T19:52:07+00:00">
+<div class="post" data-post-id="33691" data-author="*juggleblood*" data-date="2012-10-27T19:52:07+00:00" data-subject="Re: Who Command">
 
 Lol, i love it.
 
 </div>
 
-<div class="post" data-post-id="33765" data-author="Yasik" data-date="2012-11-16T16:18:11+00:00">
+<div class="post" data-post-id="33765" data-author="Yasik" data-date="2012-11-16T16:18:11+00:00" data-subject="Re: Who Command">
 
 May I also suggest consider aligning text in the delineated areas?
 
@@ -32,13 +32,13 @@ May I also suggest consider aligning text in the delineated areas?
 
 </div>
 
-<div class="post" data-post-id="33769" data-author="raincrab" data-date="2012-11-16T18:01:07+00:00">
+<div class="post" data-post-id="33769" data-author="raincrab" data-date="2012-11-16T18:01:07+00:00" data-subject="Re: Who Command">
 
 thanks!
 
 </div>
 
-<div class="post" data-post-id="33778" data-author="Tuck" data-date="2012-11-18T04:03:22+00:00">
+<div class="post" data-post-id="33778" data-author="Tuck" data-date="2012-11-18T04:03:22+00:00" data-subject="Re: Who Command">
 
 Good job, Rain, Yasik!
 

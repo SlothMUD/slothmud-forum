@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40141" data-author="Woody" data-date="2024-12-07T21:38:26+00:00">
+<div class="post" data-post-id="40141" data-author="Woody" data-date="2024-12-07T21:38:26+00:00" data-subject="EQ Search">
 
 Are you sick of typing out EQ searches?
 

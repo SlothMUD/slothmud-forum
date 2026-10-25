@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39395" data-author="Gorka" data-date="2020-03-15T23:24:28+00:00">
+<div class="post" data-post-id="39395" data-author="Gorka" data-date="2020-03-15T23:24:28+00:00" data-subject="Leader Command Standardization">
 
 The last week I've been thinking about suggesting some standardization's for tanks and stabbers, but in reality it could extend to blasters or healers. 
 

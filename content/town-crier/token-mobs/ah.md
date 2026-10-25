@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="4470" data-author="Blastem" data-date="2005-02-15T14:24:20+00:00">
+<div class="post" data-post-id="4470" data-author="Blastem" data-date="2005-02-15T14:24:20+00:00" data-subject="AH">
 
 My personal favorites for tri's are the beach... everything on it can and will pop tri's and the old woman pops hexes.
 
@@ -22,7 +22,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="4478" data-author="Gnu" data-date="2005-02-15T17:38:53+00:00">
+<div class="post" data-post-id="4478" data-author="Gnu" data-date="2005-02-15T17:38:53+00:00" data-subject="">
 
 Mot is what you should try! That's a real HEX mob for BIG BOYS!
 

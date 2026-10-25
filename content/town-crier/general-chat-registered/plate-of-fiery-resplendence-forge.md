@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39313" data-author="Ferrum" data-date="2019-11-12T20:32:12+00:00">
+<div class="post" data-post-id="39313" data-author="Ferrum" data-date="2019-11-12T20:32:12+00:00" data-subject="plate of fiery resplendence forge">
 
 Whats wrong with this forge?
 
@@ -48,7 +48,7 @@ Thank you for your help!
 
 </div>
 
-<div class="post" data-post-id="39314" data-author="Gorka" data-date="2019-11-12T20:47:29+00:00">
+<div class="post" data-post-id="39314" data-author="Gorka" data-date="2019-11-12T20:47:29+00:00" data-subject="Re: plate of fiery resplendence forge">
 
 This is just a guess at what your issue maybe...
 
@@ -56,7 +56,7 @@ Forging has changed in a lot of cases from how you remember it. You are probably
 
 </div>
 
-<div class="post" data-post-id="39315" data-author="Ferrum" data-date="2019-11-12T21:01:29+00:00">
+<div class="post" data-post-id="39315" data-author="Ferrum" data-date="2019-11-12T21:01:29+00:00" data-subject="Re: plate of fiery resplendence forge">
 
 Thank you, Gorka! Your recomendation make result!
 

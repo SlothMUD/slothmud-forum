@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="29746" data-author="Medios" data-date="2009-08-02T14:17:42+00:00">
+<div class="post" data-post-id="29746" data-author="Medios" data-date="2009-08-02T14:17:42+00:00" data-subject="Old Email from 2000">
 
 How things can change.  The current state of the game makes this last part funny.  Damn some of those skills I mentioned look familiar...
 
@@ -180,7 +180,7 @@ On Fri, 30 Jun 2000, Mike Fisher wrote:
 
 </div>
 
-<div class="post" data-post-id="29747" data-author="sirrico1" data-date="2009-08-02T23:29:51+00:00">
+<div class="post" data-post-id="29747" data-author="sirrico1" data-date="2009-08-02T23:29:51+00:00" data-subject="">
 
 well, the way I see it admin and immortals should not be allowed unless they are active players, just so they can see the frustration we go through. such as the lowest pop rate I have ever seen on a mud, the crap eq that if it does pop pops off of huge group mobs and the such.
 
@@ -190,7 +190,7 @@ and for all you who want to blow me shit over this post F$#^ you too :D kthxbye
 
 </div>
 
-<div class="post" data-post-id="29748" data-author="Rigwarl" data-date="2009-08-03T14:25:51+00:00">
+<div class="post" data-post-id="29748" data-author="Rigwarl" data-date="2009-08-03T14:25:51+00:00" data-subject="">
 
 I can name at least 3 immortals who are active players though?
 
@@ -208,7 +208,7 @@ P.S. I do not know the restricts for the 3 .6 held low that pops on lyme as we'v
 
 </div>
 
-<div class="post" data-post-id="29751" data-author="Medios" data-date="2009-08-03T20:55:36+00:00">
+<div class="post" data-post-id="29751" data-author="Medios" data-date="2009-08-03T20:55:36+00:00" data-subject="">
 
 I don't know whats up with sirrico.  I didn't mean for this to be a flame thread.  Just cleaning out my email and found it.  I thought it was interesting and I was proud that most of my ideas came to fruition.  Not sure where the flame started.
 

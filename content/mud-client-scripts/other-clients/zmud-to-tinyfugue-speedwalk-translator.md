@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="33803" data-author="raincrab" data-date="2012-11-24T07:54:40+00:00">
+<div class="post" data-post-id="33803" data-author="raincrab" data-date="2012-11-24T07:54:40+00:00" data-subject="zmud to tinyfugue speedwalk translator">
 
 heres a perl script to translate zmud style speedwalks into tinyfugue commands
 
@@ -59,7 +59,7 @@ you can just use the output in a macro definition for your speedwalk
 
 </div>
 
-<div class="post" data-post-id="33844" data-author="raincrab" data-date="2012-12-13T10:52:05+00:00">
+<div class="post" data-post-id="33844" data-author="raincrab" data-date="2012-12-13T10:52:05+00:00" data-subject="Re: zmud to tinyfugue speedwalk translator">
 
 this one fixes bugs where direction count > 10 and consecutive nondirectional commands
 
@@ -103,7 +103,7 @@ print "\n";
 
 </div>
 
-<div class="post" data-post-id="33846" data-author="Tuck" data-date="2012-12-15T11:56:34+00:00">
+<div class="post" data-post-id="33846" data-author="Tuck" data-date="2012-12-15T11:56:34+00:00" data-subject="Re: zmud to tinyfugue speedwalk translator">
 
 Good job!
 

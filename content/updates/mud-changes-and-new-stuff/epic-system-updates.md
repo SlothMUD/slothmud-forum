@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39559" data-author="Driven" data-date="2020-08-15T20:46:48+00:00">
+<div class="post" data-post-id="39559" data-author="Driven" data-date="2020-08-15T20:46:48+00:00" data-subject="Epic System updates">
 
 Heads up--the Epic System code required to get Legend and above has been repaired... congrats to Dingo for achieving Ascended and Stun for achieving Fable! 
 
@@ -22,7 +22,7 @@ Happy epic hunting!
 
 </div>
 
-<div class="post" data-post-id="39574" data-author="Driven" data-date="2020-09-04T13:00:30+00:00">
+<div class="post" data-post-id="39574" data-author="Driven" data-date="2020-09-04T13:00:30+00:00" data-subject="Re: Epic System updates">
 
 cast 'ident' skull
 
@@ -114,7 +114,7 @@ Clasp can only be attached to:
 
 </div>
 
-<div class="post" data-post-id="39585" data-author="Driven" data-date="2020-10-21T23:41:03+00:00">
+<div class="post" data-post-id="39585" data-author="Driven" data-date="2020-10-21T23:41:03+00:00" data-subject="Re: Epic System updates">
 
 The celestial_trial quest is now ingame.  It took quite a bit of code, so please let me know if anything misbehaves. 
 

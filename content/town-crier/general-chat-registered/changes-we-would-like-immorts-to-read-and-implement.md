@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="29229" data-author="Shyla" data-date="2009-05-20T04:14:46+00:00">
+<div class="post" data-post-id="29229" data-author="Shyla" data-date="2009-05-20T04:14:46+00:00" data-subject="changes we would like immorts to read and implement">
 
 i would seriously like immorts to modify it so the quicksilver wands work on innkeepers b/c i am sick of people dying on continents alone and you can't get to them because even if you can get on a boat right away you don't ahve enough time to get to them.  people shouldn't be abandoned and made to feel unimportant or whatever just because they aren't in one huge group.  And since no one on here will have relocation  anytime soon this is a VERY small thing to ask.
 
@@ -26,19 +26,19 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="29230" data-author="Gimlet" data-date="2009-05-20T05:04:34+00:00">
+<div class="post" data-post-id="29230" data-author="Gimlet" data-date="2009-05-20T05:04:34+00:00" data-subject="">
 
 as far as I know, quicksilver wands were meant to facilitate players joining groups in other continents.  They weren't really meant for you to move around.
 
 </div>
 
-<div class="post" data-post-id="29231" data-author="Mosaix" data-date="2009-05-20T05:35:21+00:00">
+<div class="post" data-post-id="29231" data-author="Mosaix" data-date="2009-05-20T05:35:21+00:00" data-subject="">
 
 Avatars are gone for a while, play accordingly if you choose to not group.
 
 </div>
 
-<div class="post" data-post-id="29232" data-author="Rigwarl" data-date="2009-05-20T08:41:35+00:00">
+<div class="post" data-post-id="29232" data-author="Rigwarl" data-date="2009-05-20T08:41:35+00:00" data-subject="">
 
 as far as I know, quicksilver wands were meant to facilitate players joining groups in other continents.  They weren't really meant for you to move around.[/quote:1q7p3fxj]
 
@@ -48,7 +48,7 @@ How is it using the wand for joining groups any different from, hrm, moving arou
 
 </div>
 
-<div class="post" data-post-id="29233" data-author="Rynquald" data-date="2009-05-20T10:14:46+00:00">
+<div class="post" data-post-id="29233" data-author="Rynquald" data-date="2009-05-20T10:14:46+00:00" data-subject="">
 
 It would make sense to let the wands target innkeepers. Since there's normally going to be at least one pc on every cont, it's purely a convenience issue and not at all balance-related.
 
@@ -64,7 +64,7 @@ Or what have you. Perhaps it could be dependant on having detect magic up, or sp
 
 </div>
 
-<div class="post" data-post-id="29234" data-author="Gimlet" data-date="2009-05-20T12:09:25+00:00">
+<div class="post" data-post-id="29234" data-author="Gimlet" data-date="2009-05-20T12:09:25+00:00" data-subject="">
 
 as far as I know, quicksilver wands were meant to facilitate players joining groups in other continents.  They weren't really meant for you to move around.[/quote:akbspyf9]
 
@@ -80,13 +80,13 @@ being raised is a bonus, not a right.  whenever i die now I just quit! and come 
 
 </div>
 
-<div class="post" data-post-id="29235" data-author="jezer" data-date="2009-05-20T13:17:23+00:00">
+<div class="post" data-post-id="29235" data-author="jezer" data-date="2009-05-20T13:17:23+00:00" data-subject="">
 
 To be honest I'm surprised they made the wands in the first place. I think it goes a bit far to want to use them like relo for newbies.
 
 </div>
 
-<div class="post" data-post-id="29237" data-author="sirrico1" data-date="2009-05-20T18:23:24+00:00">
+<div class="post" data-post-id="29237" data-author="sirrico1" data-date="2009-05-20T18:23:24+00:00" data-subject="">
 
 Thanks for listening to me I know others will be posting stuff too and please keep it to serious things like off the wall stuff if you could so maybe we can actually have immorts 
 
@@ -94,7 +94,7 @@ I don't think shyla made this post for a flaming event so why flame it just leav
 
 </div>
 
-<div class="post" data-post-id="29238" data-author="*Splork*" data-date="2009-05-20T18:51:47+00:00">
+<div class="post" data-post-id="29238" data-author="*Splork*" data-date="2009-05-20T18:51:47+00:00" data-subject="">
 
 Oddly enough, I agree with Jezer and Gimlet on this one. We made a very nice gesture with the fargate wands and their are always plenty of them ingame.
 
@@ -106,7 +106,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29239" data-author="Chelle" data-date="2009-05-20T21:03:02+00:00">
+<div class="post" data-post-id="29239" data-author="Chelle" data-date="2009-05-20T21:03:02+00:00" data-subject="">
 
 I'm fine with the wands not working on innkeepers but I think there should be a way to know how many charges are left on the wand, either by identify or the thing Rynquald suggested.
 
@@ -120,7 +120,7 @@ Or what have you. Perhaps it could be dependant on having detect magic up, or sp
 
 </div>
 
-<div class="post" data-post-id="29240" data-author="Medios" data-date="2009-05-20T21:31:48+00:00">
+<div class="post" data-post-id="29240" data-author="Medios" data-date="2009-05-20T21:31:48+00:00" data-subject="">
 
 Can we just remove the wands to end the bickering.
 
@@ -128,7 +128,7 @@ When Splork agrees with Gimlet and Jezer we need to be concerned.
 
 </div>
 
-<div class="post" data-post-id="29289" data-author="Magi" data-date="2009-05-25T21:05:30+00:00">
+<div class="post" data-post-id="29289" data-author="Magi" data-date="2009-05-25T21:05:30+00:00" data-subject="">
 
 What is this?  It happens at most twice a day, but it's no fun at all.  Fighting shifted.
 
@@ -170,7 +170,7 @@ As you can see, there is no 'bloodloss message', but also no xp, no killing blow
 
 </div>
 
-<div class="post" data-post-id="29290" data-author="Rigwarl" data-date="2009-05-25T21:38:04+00:00">
+<div class="post" data-post-id="29290" data-author="Rigwarl" data-date="2009-05-25T21:38:04+00:00" data-subject="">
 
 Were you following someone when killing?
 
@@ -178,13 +178,13 @@ I noticed if you were following someone, and the other leader wasn't grouped, yo
 
 </div>
 
-<div class="post" data-post-id="29291" data-author="Magi" data-date="2009-05-25T23:12:15+00:00">
+<div class="post" data-post-id="29291" data-author="Magi" data-date="2009-05-25T23:12:15+00:00" data-subject="">
 
 Yeah, I know that bug.  This one is different... No one killed the elk.  It was morted, then it was dead.  No killing blow, no bloodloss, just dead.
 
 </div>
 
-<div class="post" data-post-id="29292" data-author="Shyla" data-date="2009-05-26T01:46:05+00:00">
+<div class="post" data-post-id="29292" data-author="Shyla" data-date="2009-05-26T01:46:05+00:00" data-subject="">
 
 Sometimes I wonder why I bother but here goes
 
@@ -200,7 +200,7 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="29296" data-author="Virus" data-date="2009-05-26T14:30:01+00:00">
+<div class="post" data-post-id="29296" data-author="Virus" data-date="2009-05-26T14:30:01+00:00" data-subject="">
 
 What's up with those regular and minor recall anyways? a recall is a recall right? What's the logic/reason behind those recalls? Are we getting so fat after 2x40 that a minor recalls can't handle us anymore?  or is this another way to balance coins?
 
@@ -208,7 +208,7 @@ What's up with those regular and minor recall anyways? a recall is a recall righ
 
 </div>
 
-<div class="post" data-post-id="29297" data-author="Mace" data-date="2009-05-26T16:04:06+00:00">
+<div class="post" data-post-id="29297" data-author="Mace" data-date="2009-05-26T16:04:06+00:00" data-subject="">
 
 Every time I have seen a mysterious bloodloss-with-no-message death, it has been right on the tick, like bloodloss is.  My guess is that it is just bloodless with some bug stopping the message from happening, but.. WHO KNOWS!
 
@@ -218,13 +218,13 @@ Also, the different recalls are.. well .. horribly stupid.  Everyone knows it, a
 
 </div>
 
-<div class="post" data-post-id="29298" data-author="Mace" data-date="2009-05-26T16:52:23+00:00">
+<div class="post" data-post-id="29298" data-author="Mace" data-date="2009-05-26T16:52:23+00:00" data-subject="">
 
 Thinking about it, I did see a cheap minor recall on one mud that only recalled to the start of a zone, and you had to shell out the big gold to get a proper town recall scroll.  I'm not sure how well that would work on sloth.. but it would at least be A Different Scroll.
 
 </div>
 
-<div class="post" data-post-id="29303" data-author="jezer" data-date="2009-05-27T00:20:12+00:00">
+<div class="post" data-post-id="29303" data-author="jezer" data-date="2009-05-27T00:20:12+00:00" data-subject="">
 
 the imm who put that forth needs to [b:sxkq45zo]man up[/b:sxkq45zo][/quote:sxkq45zo]
 
@@ -232,7 +232,7 @@ the imm who put that forth needs to [b:sxkq45zo]man up[/b:sxkq45zo][/quote:sxkq4
 
 </div>
 
-<div class="post" data-post-id="29306" data-author="Shyla" data-date="2009-05-27T15:18:51+00:00">
+<div class="post" data-post-id="29306" data-author="Shyla" data-date="2009-05-27T15:18:51+00:00" data-subject="">
 
 --------------------------------------------------------------------------------
 
@@ -260,7 +260,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="29307" data-author="Thraxas" data-date="2009-05-27T17:11:01+00:00">
+<div class="post" data-post-id="29307" data-author="Thraxas" data-date="2009-05-27T17:11:01+00:00" data-subject="">
 
 necro pet wights (animate dead) have a nasty tendancy to wander off.
 
@@ -272,7 +272,7 @@ As this is a thread for those things we'd like changed I would like this changed
 
 </div>
 
-<div class="post" data-post-id="29331" data-author="*juggleblood*" data-date="2009-06-06T02:10:42+00:00">
+<div class="post" data-post-id="29331" data-author="*juggleblood*" data-date="2009-06-06T02:10:42+00:00" data-subject="">
 
 Yeah, I know that bug.  This one is different... No one killed the elk.  It was morted, then it was dead.  No killing blow, no bloodloss, just dead.[/quote:s4yhf1vt]
 

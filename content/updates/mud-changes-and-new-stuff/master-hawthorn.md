@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39967" data-author="Driven" data-date="2022-08-23T13:52:30+00:00">
+<div class="post" data-post-id="39967" data-author="Driven" data-date="2022-08-23T13:52:30+00:00" data-subject="Master Hawthorn">
 
 Master Hawthorn is now offering daily bounties on mobs and weekly/quarterly bounties on forges.  Simply go to him in BH town and type 'list'.  Some comments:
 

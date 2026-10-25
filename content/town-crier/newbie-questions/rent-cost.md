@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33430" data-author="Yasik" data-date="2012-08-07T10:35:40+00:00">
+<div class="post" data-post-id="33430" data-author="Yasik" data-date="2012-08-07T10:35:40+00:00" data-subject="Rent cost">
 
 **Hi guys!
 

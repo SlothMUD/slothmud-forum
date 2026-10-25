@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="9380" data-author="kjartan" data-date="2005-11-06T00:09:37+00:00">
+<div class="post" data-post-id="9380" data-author="kjartan" data-date="2005-11-06T00:09:37+00:00" data-subject="Some proc-related fixes">
 
 After the next crash or reboot, there will be some fixes to long-standing problems with the procs.
 
@@ -26,7 +26,7 @@ Now that these skills and songs actually work, we may find that they are too pow
 
 </div>
 
-<div class="post" data-post-id="9381" data-author="Gnu" data-date="2005-11-06T00:59:54+00:00">
+<div class="post" data-post-id="9381" data-author="Gnu" data-date="2005-11-06T00:59:54+00:00" data-subject="">
 
 Does it mean that suppressed proc will provide less mana drained with the help of spectral shield?
 

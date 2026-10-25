@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32945" data-author="*Breeze*" data-date="2011-10-09T15:25:26+00:00">
+<div class="post" data-post-id="32945" data-author="*Breeze*" data-date="2011-10-09T15:25:26+00:00" data-subject="09 October 2011 Changelog">
 
 The following features are in on crash/reboot ::
 
@@ -26,7 +26,7 @@ Thanks ****Isabo**** for moving code over & compiling.
 
 </div>
 
-<div class="post" data-post-id="32948" data-author="*Breeze*" data-date="2011-10-13T15:24:26+00:00">
+<div class="post" data-post-id="32948" data-author="*Breeze*" data-date="2011-10-13T15:24:26+00:00" data-subject="Re: 09 October 2011 Changelog">
 
 This code is now live. smokey quartz forge and auctioneer etc
 

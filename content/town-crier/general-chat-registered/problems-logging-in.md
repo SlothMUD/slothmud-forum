@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31198" data-author="takinogaki" data-date="2010-05-23T05:12:30+00:00">
+<div class="post" data-post-id="31198" data-author="takinogaki" data-date="2010-05-23T05:12:30+00:00" data-subject="problems logging in">
 
 i cant seem to log sloth.....nor cna i access it from mudconnetor anymore. have i been banned or locked out for any reason? if so why. takimitsu/nogaki
 
 </div>
 
-<div class="post" data-post-id="31200" data-author="Tuck" data-date="2010-05-23T08:49:44+00:00">
+<div class="post" data-post-id="31200" data-author="Tuck" data-date="2010-05-23T08:49:44+00:00" data-subject="Re: problems logging in">
 
 Your password is not working?
 

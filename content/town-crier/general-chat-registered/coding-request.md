@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="23128" data-author="*juggleblood*" data-date="2008-03-07T04:55:47+00:00">
+<div class="post" data-post-id="23128" data-author="*juggleblood*" data-date="2008-03-07T04:55:47+00:00" data-subject="Coding Request">
 
 A while ago Splork was taking requests for mxp and prompt. I was wondering if I could ask for 
 
@@ -22,13 +22,13 @@ anyone else would use that besides me?
 
 </div>
 
-<div class="post" data-post-id="23130" data-author="Rynquald" data-date="2008-03-07T05:27:42+00:00">
+<div class="post" data-post-id="23130" data-author="Rynquald" data-date="2008-03-07T05:27:42+00:00" data-subject="">
 
 The position thing would be handy, atm you get stuck actioning every string for a position change to reset your own position var. What I do, but it's not as simple as having an MXP var.
 
 </div>
 
-<div class="post" data-post-id="23131" data-author="Akasha" data-date="2008-03-07T06:23:29+00:00">
+<div class="post" data-post-id="23131" data-author="Akasha" data-date="2008-03-07T06:23:29+00:00" data-subject="">
 
 It's only a handful of position strings you need.
 
@@ -54,13 +54,13 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="23132" data-author="Rynquald" data-date="2008-03-07T07:07:19+00:00">
+<div class="post" data-post-id="23132" data-author="Rynquald" data-date="2008-03-07T07:07:19+00:00" data-subject="">
 
 I guess it is only a few. Forgot how simple it was, haven't looked at anything but the var for two years :)
 
 </div>
 
-<div class="post" data-post-id="23148" data-author="*juggleblood*" data-date="2008-03-08T18:27:35+00:00">
+<div class="post" data-post-id="23148" data-author="*juggleblood*" data-date="2008-03-08T18:27:35+00:00" data-subject="">
 
 I have another coding request. Image that group leader could do this based on your rank in the honor system:
 
@@ -110,7 +110,7 @@ Honor penalties have been tripled for the next 72 hours(ticks).
 
 </div>
 
-<div class="post" data-post-id="23149" data-author="Weasel" data-date="2008-03-08T18:34:57+00:00">
+<div class="post" data-post-id="23149" data-author="Weasel" data-date="2008-03-08T18:34:57+00:00" data-subject="">
 
 :shock:  so a group leader could order me to stfu and cost me honor points if I try to gtell for a heal, or staff, or missed cache, or turn off autolooter, or that I'm webbed, or tank-whining, or whatever? Don't think so yo..  :P
 
@@ -118,7 +118,7 @@ How about they play my char for me and tell me later if I had a good time or not
 
 </div>
 
-<div class="post" data-post-id="23150" data-author="*juggleblood*" data-date="2008-03-08T18:39:10+00:00">
+<div class="post" data-post-id="23150" data-author="*juggleblood*" data-date="2008-03-08T18:39:10+00:00" data-subject="">
 
 Yeah, but think what a great incentive that is to get rank. 
 
@@ -128,7 +128,7 @@ I'm sorry, you may only stfu people below your own rank.
 
 </div>
 
-<div class="post" data-post-id="23151" data-author="Roadrunr" data-date="2008-03-08T18:42:26+00:00">
+<div class="post" data-post-id="23151" data-author="Roadrunr" data-date="2008-03-08T18:42:26+00:00" data-subject="">
 
 :shock:  so a group leader could order me to stfu and cost me honor points if I try to gtell for a heal, or staff, or missed cache, or turn off autolooter, or that I'm webbed, or tank-whining, or whatever? Don't think so yo..  :P
 
@@ -138,19 +138,19 @@ you didnt now stfu while I get you killed a couple more times because I told all
 
 </div>
 
-<div class="post" data-post-id="23153" data-author="Weasel" data-date="2008-03-08T19:33:30+00:00">
+<div class="post" data-post-id="23153" data-author="Weasel" data-date="2008-03-08T19:33:30+00:00" data-subject="">
 
 LOL.. perhaps I should be a cleric prime
 
 </div>
 
-<div class="post" data-post-id="23155" data-author="Rynquald" data-date="2008-03-08T22:09:56+00:00">
+<div class="post" data-post-id="23155" data-author="Rynquald" data-date="2008-03-08T22:09:56+00:00" data-subject="">
 
 Would you still loose honor if you just killed your leader when you disagreed with their orders? :)
 
 </div>
 
-<div class="post" data-post-id="23157" data-author="jezer" data-date="2008-03-09T00:51:29+00:00">
+<div class="post" data-post-id="23157" data-author="jezer" data-date="2008-03-09T00:51:29+00:00" data-subject="">
 
 Ok, say lets say your a private tank... and your whining after being gagged by your leader...
 

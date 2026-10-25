@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39863" data-author="Insomnia" data-date="2021-11-08T18:27:48+00:00">
+<div class="post" data-post-id="39863" data-author="Insomnia" data-date="2021-11-08T18:27:48+00:00" data-subject="fine opal shoulder guards">
 
 ```
 list opal
@@ -126,7 +126,7 @@ And there was no "*" in shop (or in eqlist), otherwise I wouldn't had bought the
 
 </div>
 
-<div class="post" data-post-id="39864" data-author="Gorka" data-date="2021-11-10T15:51:37+00:00">
+<div class="post" data-post-id="39864" data-author="Gorka" data-date="2021-11-10T15:51:37+00:00" data-subject="Re: fine opal shoulder guards">
 
 ![](https://media.discordapp.net/attachments/634116847704473652/907984552373403679/abrQnB8_700b.png)
 

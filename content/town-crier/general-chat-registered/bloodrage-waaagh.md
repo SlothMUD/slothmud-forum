@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30153" data-author="*Chobbs*" data-date="2009-10-22T00:08:31+00:00">
+<div class="post" data-post-id="30153" data-author="*Chobbs*" data-date="2009-10-22T00:08:31+00:00" data-subject="Bloodrage!  WAAAGH!">
 
 Mornin' folks,
 
@@ -26,7 +26,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30154" data-author="jezer" data-date="2009-10-22T00:12:40+00:00">
+<div class="post" data-post-id="30154" data-author="jezer" data-date="2009-10-22T00:12:40+00:00" data-subject="">
 
 Dwarven warriors aren't very hard people, you should try popping your own.
 
@@ -34,7 +34,7 @@ Looking forward to that Rapid Shift auto quest your working on...  :wink:  :twis
 
 </div>
 
-<div class="post" data-post-id="30157" data-author="Thraxas" data-date="2009-10-22T08:40:02+00:00">
+<div class="post" data-post-id="30157" data-author="Thraxas" data-date="2009-10-22T08:40:02+00:00" data-subject="">
 
 Good to hear that moon aura will also have its own aq ... thanks and keep up the hard and welcome work
 

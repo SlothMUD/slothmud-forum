@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="40099" data-author="cnl" data-date="2024-07-14T01:58:05+00:00">
+<div class="post" data-post-id="40099" data-author="cnl" data-date="2024-07-14T01:58:05+00:00" data-subject="sloth outage 7/13 ?">
 
 On 7/13, Saturday, morning per server time, there were some reports that logging out of Sloth was deleting chars.
 
@@ -38,7 +38,7 @@ some speculation that it only impacted remort chars.
 
 </div>
 
-<div class="post" data-post-id="40100" data-author="cnl" data-date="2024-07-14T15:36:59+00:00">
+<div class="post" data-post-id="40100" data-author="cnl" data-date="2024-07-14T15:36:59+00:00" data-subject="Re: sloth outage 7/13 ?">
 
 based on convo on player discord the issue has
 
@@ -54,7 +54,7 @@ I would NOT log on with your main chars for now, some chars were impacted this a
 
 </div>
 
-<div class="post" data-post-id="40101" data-author="cnl" data-date="2024-07-15T07:53:17+00:00">
+<div class="post" data-post-id="40101" data-author="cnl" data-date="2024-07-15T07:53:17+00:00" data-subject="Re: sloth outage 7/13 ?">
 
 per in-game gossip from Breeze the issue should be resolved and it should be safe to save/rent chars again.
 
@@ -84,13 +84,13 @@ squip
 
 </div>
 
-<div class="post" data-post-id="40102" data-author="cnl" data-date="2024-07-15T16:18:08+00:00">
+<div class="post" data-post-id="40102" data-author="cnl" data-date="2024-07-15T16:18:08+00:00" data-subject="Re: sloth outage 7/13 ?">
 
 broccoli
 
 </div>
 
-<div class="post" data-post-id="40103" data-author="*Neptune*" data-date="2024-07-15T16:35:14+00:00">
+<div class="post" data-post-id="40103" data-author="*Neptune*" data-date="2024-07-15T16:35:14+00:00" data-subject="Re: sloth outage 7/13 ?">
 
 Greetings
 
@@ -118,7 +118,7 @@ Happy Hunting!
 
 </div>
 
-<div class="post" data-post-id="40104" data-author="cnl" data-date="2024-07-15T18:12:27+00:00">
+<div class="post" data-post-id="40104" data-author="cnl" data-date="2024-07-15T18:12:27+00:00" data-subject="Re: sloth outage 7/13 ?">
 
 waza
 
@@ -132,19 +132,19 @@ EDIT 7/15 to add synic
 
 </div>
 
-<div class="post" data-post-id="40105" data-author="Dawg" data-date="2024-07-15T23:49:49+00:00">
+<div class="post" data-post-id="40105" data-author="Dawg" data-date="2024-07-15T23:49:49+00:00" data-subject="Re: sloth outage 7/13 ?">
 
 Dawg and Blackwolf are both deleted I sent a pm to neptune via discord but was informed to do it here too :D
 
 </div>
 
-<div class="post" data-post-id="40106" data-author="Dingo" data-date="2024-07-16T02:11:15+00:00">
+<div class="post" data-post-id="40106" data-author="Dingo" data-date="2024-07-16T02:11:15+00:00" data-subject="Re: sloth outage 7/13 ?">
 
 Tinx was not deleted but has lost all Rebirth and lost Army, so needs a restore please
 
 </div>
 
-<div class="post" data-post-id="40107" data-author="Dawg" data-date="2024-07-17T00:25:52+00:00">
+<div class="post" data-post-id="40107" data-author="Dawg" data-date="2024-07-17T00:25:52+00:00" data-subject="Re: sloth outage 7/13 ?">
 
 dejavul seems to be deleted as well
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="7422" data-author="SirRobin" data-date="2005-06-21T20:44:47+00:00">
+<div class="post" data-post-id="7422" data-author="SirRobin" data-date="2005-06-21T20:44:47+00:00" data-subject="Loco Gang Leader">
 
 Notice the Gang Leader. This is towards the end of the fight, and he yelled for help twice before this point.
 
@@ -102,7 +102,7 @@ I haven’t seen this before, is it normal for mobs to attack each other? Or did
 
 </div>
 
-<div class="post" data-post-id="7427" data-author="Leaf" data-date="2005-06-21T22:41:35+00:00">
+<div class="post" data-post-id="7427" data-author="Leaf" data-date="2005-06-21T22:41:35+00:00" data-subject="">
 
 Interesting ... does the leader have an area attack?  If he doesn't then
 
@@ -110,13 +110,13 @@ thats pretty strange.
 
 </div>
 
-<div class="post" data-post-id="7779" data-author="SirRobin" data-date="2005-07-08T02:34:42+00:00">
+<div class="post" data-post-id="7779" data-author="SirRobin" data-date="2005-07-08T02:34:42+00:00" data-subject="">
 
 This happened again, and I think I know what is happening. The Gang Leader is confusing the Young Thug with the Young Treant. So even the mobs have trouble with targeted attacks!
 
 </div>
 
-<div class="post" data-post-id="7784" data-author="12345" data-date="2005-07-08T10:38:09+00:00">
+<div class="post" data-post-id="7784" data-author="12345" data-date="2005-07-08T10:38:09+00:00" data-subject="">
 
 I doubt that's it.  He's done it fighting me and I don't have followers.
 

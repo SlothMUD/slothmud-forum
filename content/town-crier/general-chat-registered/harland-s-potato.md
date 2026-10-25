@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="30374" data-author="Cizin" data-date="2009-11-25T00:41:51+00:00">
+<div class="post" data-post-id="30374" data-author="Cizin" data-date="2009-11-25T00:41:51+00:00" data-subject="Harland&#x27;s potato">
 
 Potato wasn't that delicious as we expected.
 
@@ -48,7 +48,7 @@ Here is a quest grp that fought vicious killing potato:
 
 </div>
 
-<div class="post" data-post-id="30375" data-author="jezer" data-date="2009-11-25T03:36:52+00:00">
+<div class="post" data-post-id="30375" data-author="jezer" data-date="2009-11-25T03:36:52+00:00" data-subject="">
 
 [img:10kqnavc]http://davidrudnick.com/carrot.png[/img:10kqnavc]
 
@@ -56,7 +56,7 @@ Wait till ya meet Harland's Carrot! Sounds like you got mashed.
 
 </div>
 
-<div class="post" data-post-id="30376" data-author="*Chobbs*" data-date="2009-11-25T04:27:29+00:00">
+<div class="post" data-post-id="30376" data-author="*Chobbs*" data-date="2009-11-25T04:27:29+00:00" data-subject="">
 
 Mornin' folks,
 
@@ -70,7 +70,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30377" data-author="jezer" data-date="2009-11-25T04:50:31+00:00">
+<div class="post" data-post-id="30377" data-author="jezer" data-date="2009-11-25T04:50:31+00:00" data-subject="">
 
 Next fellow will be more respectable![/quote:wp7ah9fe]
 
@@ -78,7 +78,7 @@ Ok, Harland's Yam then. :twisted:
 
 </div>
 
-<div class="post" data-post-id="30378" data-author="Thraxas" data-date="2009-11-25T13:42:45+00:00">
+<div class="post" data-post-id="30378" data-author="Thraxas" data-date="2009-11-25T13:42:45+00:00" data-subject="">
 
 can I ask whether these are automated quests in a similar way that honor uber mobs work that will reoccur at random intervals or are these imm led quests?
 
@@ -88,7 +88,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30381" data-author="*Chobbs*" data-date="2009-11-25T15:39:07+00:00">
+<div class="post" data-post-id="30381" data-author="*Chobbs*" data-date="2009-11-25T15:39:07+00:00" data-subject="">
 
 Mornin' Thraxas,
 
@@ -106,7 +106,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30382" data-author="jezer" data-date="2009-11-26T08:15:57+00:00">
+<div class="post" data-post-id="30382" data-author="jezer" data-date="2009-11-26T08:15:57+00:00" data-subject="">
 
 [img:32xf2t3l]http://www.missginsu.com/images/bring_the_pain.jpg[/img:32xf2t3l]
 

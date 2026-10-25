@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38212" data-author="Teron" data-date="2017-04-13T21:56:44+00:00">
+<div class="post" data-post-id="38212" data-author="Teron" data-date="2017-04-13T21:56:44+00:00" data-subject="Breeze&#x27;s shenanigans: April 15th, Saturday, 2pm">
 
 Hello.
 
@@ -24,7 +24,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="38213" data-author="Gorka" data-date="2017-04-14T12:35:19+00:00">
+<div class="post" data-post-id="38213" data-author="Gorka" data-date="2017-04-14T12:35:19+00:00" data-subject="Re: Breeze&#x27;s shenanigans: April 15th, Saturday, 2pm">
 
 You've Been Breezed!
 

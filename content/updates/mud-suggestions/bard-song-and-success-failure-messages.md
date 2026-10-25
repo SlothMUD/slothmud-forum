@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10279" data-author="Tetsulunathaya" data-date="2006-01-22T03:20:53+00:00">
+<div class="post" data-post-id="10279" data-author="Tetsulunathaya" data-date="2006-01-22T03:20:53+00:00" data-subject="Bard song and success/failure messages?">
 
 I know I mentioned this over a year ago before my long break, and have been told that its supposedly been changed, but I haven't seen any results.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="31924" data-author="Dragoth" data-date="2010-10-24T00:29:58+00:00">
+<div class="post" data-post-id="31924" data-author="Dragoth" data-date="2010-10-24T00:29:58+00:00" data-subject="Druid Changes">
 
 I'll get the ball rolling:
 
@@ -28,7 +28,7 @@ Great job! Cheer!
 
 </div>
 
-<div class="post" data-post-id="31926" data-author="*Chobbs*" data-date="2010-10-24T03:08:16+00:00">
+<div class="post" data-post-id="31926" data-author="*Chobbs*" data-date="2010-10-24T03:08:16+00:00" data-subject="Re: Druid Changes">
 
 Mornin' folks,
 
@@ -58,7 +58,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="31928" data-author="Dragoth" data-date="2010-10-24T10:05:50+00:00">
+<div class="post" data-post-id="31928" data-author="Dragoth" data-date="2010-10-24T10:05:50+00:00" data-subject="Re: Druid Changes">
 
 So Chobbs, whats up with the lion-eagle (griffon) form , or am i missing something ?
 
@@ -212,19 +212,19 @@ Your blood freezes as you hear a dusty dwarven warrior's death cry.
 
 </div>
 
-<div class="post" data-post-id="31954" data-author="Sleeping Forest" data-date="2010-11-01T21:55:08+00:00">
+<div class="post" data-post-id="31954" data-author="Sleeping Forest" data-date="2010-11-01T21:55:08+00:00" data-subject="Re: Druid Changes">
 
 Canopied Arbor spell seems very restricted in its usage. Possibly open up the spell to all outdoor rooms?  or just take a look at it. Thnx :)
 
 </div>
 
-<div class="post" data-post-id="31974" data-author="Dragoth" data-date="2010-11-05T09:23:38+00:00">
+<div class="post" data-post-id="31974" data-author="Dragoth" data-date="2010-11-05T09:23:38+00:00" data-subject="Re: Druid Changes">
 
 Dive still doesnt work for griffon form and bash in elephant form doesnt work at all ( constant misses ) and hence stomp doesnt work either.
 
 </div>
 
-<div class="post" data-post-id="31975" data-author="Filk" data-date="2010-11-05T11:20:48+00:00">
+<div class="post" data-post-id="31975" data-author="Filk" data-date="2010-11-05T11:20:48+00:00" data-subject="Re: Druid Changes">
 
 And darksight and stone skin still fall when you in form. Didnt notice exact for other spells, but think the same.
 
@@ -232,7 +232,7 @@ And darksight and stone skin still fall when you in form. Didnt notice exact for
 
 </div>
 
-<div class="post" data-post-id="31984" data-author="Oboe" data-date="2010-11-06T01:50:07+00:00">
+<div class="post" data-post-id="31984" data-author="Oboe" data-date="2010-11-06T01:50:07+00:00" data-subject="Re: Druid Changes">
 
 Perhaps related to the change regarding small spells, I got spammed by spellcraft while shifted (this was before today's reboot, fwiw):
 
@@ -264,7 +264,7 @@ It stopped when I did a 'shape return'.
 
 </div>
 
-<div class="post" data-post-id="31988" data-author="*Isabo*" data-date="2010-11-06T15:04:14+00:00">
+<div class="post" data-post-id="31988" data-author="*Isabo*" data-date="2010-11-06T15:04:14+00:00" data-subject="Re: Druid Changes">
 
 Greetings, bard.
 
@@ -280,13 +280,13 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="31989" data-author="Dragoth" data-date="2010-11-07T08:30:46+00:00">
+<div class="post" data-post-id="31989" data-author="Dragoth" data-date="2010-11-07T08:30:46+00:00" data-subject="Re: Druid Changes">
 
 charge doesnt work for equus form
 
 </div>
 
-<div class="post" data-post-id="32001" data-author="*Chobbs*" data-date="2010-11-11T02:42:35+00:00">
+<div class="post" data-post-id="32001" data-author="*Chobbs*" data-date="2010-11-11T02:42:35+00:00" data-subject="Re: Druid Changes">
 
 Random changes:
 
@@ -306,7 +306,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32079" data-author="Filk" data-date="2010-11-19T12:25:07+00:00">
+<div class="post" data-post-id="32079" data-author="Filk" data-date="2010-11-19T12:25:07+00:00" data-subject="Re: Druid Changes">
 
 Bug with wearing off spells still exists. Got it today, while was shifted. It stops spam only when i shifted back
 
@@ -328,7 +328,7 @@ The 'regeneration' spell on you is about to wear off.
 
 </div>
 
-<div class="post" data-post-id="32104" data-author="Magi" data-date="2010-12-01T22:15:20+00:00">
+<div class="post" data-post-id="32104" data-author="Magi" data-date="2010-12-01T22:15:20+00:00" data-subject="Re: Druid Changes">
 
 Bug: Battleshift can fail with 'lost concentration.'
 
@@ -549,7 +549,7 @@ Finally, if lost concentration while using Battleshift is NOT a bug, I beg you r
 
 </div>
 
-<div class="post" data-post-id="32105" data-author="jezer" data-date="2010-12-01T22:59:01+00:00">
+<div class="post" data-post-id="32105" data-author="jezer" data-date="2010-12-01T22:59:01+00:00" data-subject="Re: Druid Changes">
 
 Stuff like that really gets me annoyed. Failure rate in sloth is 15% or so we are told. Truth is it's higher because of all the stacking of failures that goes on. 
 
@@ -567,7 +567,7 @@ That's 4 points of failure for the player! Other skills have the same problem. W
 
 </div>
 
-<div class="post" data-post-id="32106" data-author="Magi" data-date="2010-12-02T04:00:03+00:00">
+<div class="post" data-post-id="32106" data-author="Magi" data-date="2010-12-02T04:00:03+00:00" data-subject="Re: Druid Changes">
 
 The official skillstats for druid forms are pretty scary..
 
@@ -583,7 +583,7 @@ rapid shift    Success: 3126  Fail: 717  Percentage: 81%
 
 </div>
 
-<div class="post" data-post-id="32240" data-author="Magi" data-date="2010-12-29T23:04:23+00:00">
+<div class="post" data-post-id="32240" data-author="Magi" data-date="2010-12-29T23:04:23+00:00" data-subject="Re: Druid Changes">
 
 Another change I'd like to see, less important:
 
@@ -593,7 +593,7 @@ As an all powerful druid prime, it obviously isn't my intention to turn into som
 
 </div>
 
-<div class="post" data-post-id="32248" data-author="*Isabo*" data-date="2010-12-30T18:52:37+00:00">
+<div class="post" data-post-id="32248" data-author="*Isabo*" data-date="2010-12-30T18:52:37+00:00" data-subject="Re: Druid Changes">
 
 http://www.slothmud.org/forum/viewtopic.php?f=26&t=3611
 

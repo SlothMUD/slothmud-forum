@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34911" data-author="*Splork*" data-date="2014-03-16T23:13:51+00:00">
+<div class="post" data-post-id="34911" data-author="*Splork*" data-date="2014-03-16T23:13:51+00:00" data-subject="Major pfile change">
 
 We had to make a major pfile change today and some of you may find your affects reading incorrectly. Please attempt to dispel yourself first, if that does not work find an Immortal and ask to be dispelled. Once they have dispelled you and they have restored the world, please recast everything, save, rent, and log back in. Everything should be working correctly.
 
@@ -20,7 +20,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34920" data-author="*Splork*" data-date="2014-03-19T00:52:48+00:00">
+<div class="post" data-post-id="34920" data-author="*Splork*" data-date="2014-03-19T00:52:48+00:00" data-subject="Re: Major pfile change">
 
 Everyone will be dispelled once after tomorrow's reboot. They will also be fully restored directly after that.
 

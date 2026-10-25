@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="2063" data-author="Teron" data-date="2004-09-28T05:23:44+00:00">
+<div class="post" data-post-id="2063" data-author="Teron" data-date="2004-09-28T05:23:44+00:00" data-subject="Wights VS Wraiths">
 
 Hello All Undead.
 
@@ -20,7 +20,7 @@ And could someone please post wights/wraithsstats (hps, attack number) with the 
 
 </div>
 
-<div class="post" data-post-id="2065" data-author="guest" data-date="2004-09-28T13:53:46+00:00">
+<div class="post" data-post-id="2065" data-author="guest" data-date="2004-09-28T13:53:46+00:00" data-subject="">
 
 Wights has more hp and does a bit more damage I believe.  Also at lvl 40
 
@@ -30,7 +30,7 @@ So the more damage person u want, is 2 wights.
 
 </div>
 
-<div class="post" data-post-id="2066" data-author="Next" data-date="2004-09-28T14:09:10+00:00">
+<div class="post" data-post-id="2066" data-author="Next" data-date="2004-09-28T14:09:10+00:00" data-subject="">
 
 wights have more hps and 2 can be summoned at level 40
 
@@ -38,13 +38,13 @@ wraiths have less hps but better AC (imho) and perma wraithform up and also hit 
 
 </div>
 
-<div class="post" data-post-id="2068" data-author="doug" data-date="2004-09-28T23:34:22+00:00">
+<div class="post" data-post-id="2068" data-author="doug" data-date="2004-09-28T23:34:22+00:00" data-subject="it depends">
 
 wraiths are sort of ethereal so if you are hitting low end, low level mobs, use that. If you are hitting anything big, the ethereal doesn't seem to do anything so take wights for the extra hp.
 
 </div>
 
-<div class="post" data-post-id="2084" data-author="nomis" data-date="2004-09-30T01:22:04+00:00">
+<div class="post" data-post-id="2084" data-author="nomis" data-date="2004-09-30T01:22:04+00:00" data-subject="">
 
 I think what needs to be said is clear :)
 
@@ -56,7 +56,7 @@ On a separate note, if I summon 2 wights and one of them gets killed, i can't su
 
 </div>
 
-<div class="post" data-post-id="2092" data-author="Teron" data-date="2004-10-01T09:29:12+00:00">
+<div class="post" data-post-id="2092" data-author="Teron" data-date="2004-10-01T09:29:12+00:00" data-subject="">
 
 Thanks everyone, everything's crystal clear now.
 

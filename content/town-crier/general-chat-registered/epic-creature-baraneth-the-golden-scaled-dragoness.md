@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="14738" data-author="Atwell" data-date="2006-10-24T07:09:46+00:00">
+<div class="post" data-post-id="14738" data-author="Atwell" data-date="2006-10-24T07:09:46+00:00" data-subject="Epic creature -- Baraneth, the golden scaled dragoness">
 
 During a long minor conjunction in the house of the dragon, Acme found Baraneth in the valley of the great old ones, 2n3u from the dark young.  We met Baraneth previously in a large quest several weeks ago.  She has several procs that damage everyone and instantly kill summoned followers, and procs to blind, poison, and throw the entire group out of the room.  After about 8 runs of blasting through her massive hit points, we won:
 
@@ -92,25 +92,25 @@ Thanks to all who helped.  Special thanks to Acme for identifying the mob, Damse
 
 </div>
 
-<div class="post" data-post-id="14739" data-author="Mace" data-date="2006-10-24T08:36:04+00:00">
+<div class="post" data-post-id="14739" data-author="Mace" data-date="2006-10-24T08:36:04+00:00" data-subject="">
 
 As a further point of interest, the dragoness reappeared (long dragon conjunction right now) in the same room several resets later.  ATTACK!
 
 </div>
 
-<div class="post" data-post-id="14740" data-author="tincts" data-date="2006-10-24T09:29:51+00:00">
+<div class="post" data-post-id="14740" data-author="tincts" data-date="2006-10-24T09:29:51+00:00" data-subject="">
 
 Wow!  Epics sound like a creative addition.  Thanks again to the immorts.  Hope one turns up when I'm on sometime!  :o
 
 </div>
 
-<div class="post" data-post-id="14741" data-author="Hades" data-date="2006-10-24T10:32:48+00:00">
+<div class="post" data-post-id="14741" data-author="Hades" data-date="2006-10-24T10:32:48+00:00" data-subject="Epic&#x27;s MOB&#x27;s">
 
 This is a nice addition.  Would like to know how you came to know MOB appeared? Did you randomly stumble across it or does a world echo announce it's arrival? :roll:
 
 </div>
 
-<div class="post" data-post-id="14742" data-author="Autolycos" data-date="2006-10-24T14:32:40+00:00">
+<div class="post" data-post-id="14742" data-author="Autolycos" data-date="2006-10-24T14:32:40+00:00" data-subject="">
 
 Great job Atwell!!   :twisted:
 

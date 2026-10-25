@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="4002" data-author="*Splork*" data-date="2005-01-28T06:00:36+00:00">
+<div class="post" data-post-id="4002" data-author="*Splork*" data-date="2005-01-28T06:00:36+00:00" data-subject="Small changes">
 
 Trig traps will now affect the druid forms. This means you can recall in form at the guilds, take damage from falling boulders, etc.
 

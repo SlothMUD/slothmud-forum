@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="14316" data-author="Avatar" data-date="2006-09-26T21:55:54+00:00">
+<div class="post" data-post-id="14316" data-author="Avatar" data-date="2006-09-26T21:55:54+00:00" data-subject="Almost scammed">
 
 So, this happened to me today.
 
@@ -32,13 +32,13 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="14319" data-author="13" data-date="2006-09-27T00:04:04+00:00">
+<div class="post" data-post-id="14319" data-author="13" data-date="2006-09-27T00:04:04+00:00" data-subject="">
 
 You have 20 grand in the bank?
 
 </div>
 
-<div class="post" data-post-id="14321" data-author="Leaf" data-date="2006-09-27T00:12:53+00:00">
+<div class="post" data-post-id="14321" data-author="Leaf" data-date="2006-09-27T00:12:53+00:00" data-subject="">
 
 I had 35k in the bank :)
 
@@ -46,13 +46,13 @@ Brought a house, brought a ring now down to like 2k :)
 
 </div>
 
-<div class="post" data-post-id="14323" data-author="Weasel" data-date="2006-09-27T00:16:40+00:00">
+<div class="post" data-post-id="14323" data-author="Weasel" data-date="2006-09-27T00:16:40+00:00" data-subject="">
 
 you bought a house and a ring for 33k?  :shock:
 
 </div>
 
-<div class="post" data-post-id="14326" data-author="Leaf" data-date="2006-09-27T01:31:39+00:00">
+<div class="post" data-post-id="14326" data-author="Leaf" data-date="2006-09-27T01:31:39+00:00" data-subject="">
 
 *cough* let me rephrase that ...
 
@@ -60,7 +60,7 @@ Put a down payment on a house (25k) and a ring (8k)
 
 </div>
 
-<div class="post" data-post-id="14329" data-author="Autolycos" data-date="2006-09-27T16:35:27+00:00">
+<div class="post" data-post-id="14329" data-author="Autolycos" data-date="2006-09-27T16:35:27+00:00" data-subject="">
 
 i still think i gave you too good a deal on that property... 
 
@@ -68,7 +68,7 @@ thats prime waterfront acrage in New Orleans.   :shock:
 
 </div>
 
-<div class="post" data-post-id="14333" data-author="Leaf" data-date="2006-09-27T20:58:15+00:00">
+<div class="post" data-post-id="14333" data-author="Leaf" data-date="2006-09-27T20:58:15+00:00" data-subject="">
 
 Dude I still live near Chicago ... Punk!!!
 

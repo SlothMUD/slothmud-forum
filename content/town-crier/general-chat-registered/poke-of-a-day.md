@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31545" data-author="Cizin" data-date="2010-08-20T20:42:33+00:00">
+<div class="post" data-post-id="31545" data-author="Cizin" data-date="2010-08-20T20:42:33+00:00" data-subject="Poke of a day !">
 
 The purple worm hates your guts!
 
@@ -42,13 +42,13 @@ Katie splits 49016 coins.  Your share is 2883 coins.
 
 </div>
 
-<div class="post" data-post-id="31563" data-author="Virus" data-date="2010-08-23T12:44:43+00:00">
+<div class="post" data-post-id="31563" data-author="Virus" data-date="2010-08-23T12:44:43+00:00" data-subject="Re: Poke of a day !">
 
 Nice stab!
 
 </div>
 
-<div class="post" data-post-id="31628" data-author="Hitman" data-date="2010-08-28T04:35:13+00:00">
+<div class="post" data-post-id="31628" data-author="Hitman" data-date="2010-08-28T04:35:13+00:00" data-subject="Re: Poke of a day !">
 
 holy f**k  :mrgreen:
 

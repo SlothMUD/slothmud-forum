@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="27376" data-author="Tap" data-date="2008-12-07T21:53:47+00:00">
+<div class="post" data-post-id="27376" data-author="Tap" data-date="2008-12-07T21:53:47+00:00" data-subject="Unions-- Love them or hate them?">
 
 I've been checking several sites on pro's and con's on unions. I'd like how some,if any, feels towards being unionized etc etc...
 
@@ -20,13 +20,13 @@ Thoughts and personal testimonies appreciated.
 
 </div>
 
-<div class="post" data-post-id="27377" data-author="Weasel" data-date="2008-12-07T22:24:29+00:00">
+<div class="post" data-post-id="27377" data-author="Weasel" data-date="2008-12-07T22:24:29+00:00" data-subject="">
 
 Unions can be very good for protecting workers rights and addressing valid grievances, but problems arise when they become too powerful and start to work for their own self-interest, and end up dictating how a company does business - that's where I don't like them, as they can end up defeating their own original purpose.
 
 </div>
 
-<div class="post" data-post-id="27378" data-author="alias" data-date="2008-12-07T23:05:26+00:00">
+<div class="post" data-post-id="27378" data-author="alias" data-date="2008-12-07T23:05:26+00:00" data-subject="">
 
 As with anything there are pros and cons, I have been on both sides of the line, Mgmt, Steward, now neither. 
 
@@ -46,19 +46,19 @@ If you have any specific questions feel free to ask and I'll do my best to answe
 
 </div>
 
-<div class="post" data-post-id="27379" data-author="Weasel" data-date="2008-12-07T23:06:51+00:00">
+<div class="post" data-post-id="27379" data-author="Weasel" data-date="2008-12-07T23:06:51+00:00" data-subject="">
 
 Oh, and as far as I'm aware, unionism is still voluntary, so you cannot be fired for not joining - an employer would generally offer you an individual contract mirroring the collective contract, depending on the position of course.
 
 </div>
 
-<div class="post" data-post-id="27380" data-author="alias" data-date="2008-12-07T23:10:51+00:00">
+<div class="post" data-post-id="27380" data-author="alias" data-date="2008-12-07T23:10:51+00:00" data-subject="">
 
 There is a closed shop clause many contracts have, meaning if you want to work you will at least pay some amount of dues. Its better in the long run if your in a union shop just to pay your due and smile rather than try to get out of it. In the UAW the dues are 2 hours pay per month. so if you made $20 an hour your dues for the month would be $40.
 
 </div>
 
-<div class="post" data-post-id="27382" data-author="Mosaix" data-date="2008-12-08T03:16:27+00:00">
+<div class="post" data-post-id="27382" data-author="Mosaix" data-date="2008-12-08T03:16:27+00:00" data-subject="">
 
 I play in several symphony orchestras.  Some of them are union.  In the non-union orchestra the wages are poor, and the performance quality is not very good.  Mostly filled with local lame-duck players and lower quality players who will accept the lower wage.   If you accept work with a non-union orchestra you are "on your own".  In other words if you do all the work for a week, and they just dont feel like paying you.  Well thats about that.  Not much you can do.  This rarely happens, but it does sometimes and you just dont play there again.  Also in non-union orchestras it is impossible to voice an opinon, make a comment or get anywhere with an orchestra front office or an orchestra board.  Most times boards are run by a bunch of lawyers who are there having not much musical knowledge at all.  They donate their time and take the tax write-off.
 
@@ -70,13 +70,13 @@ So in general I like Unions for Musicians.  It helps to keep a proper check and 
 
 </div>
 
-<div class="post" data-post-id="27383" data-author="jezer" data-date="2008-12-08T04:47:21+00:00">
+<div class="post" data-post-id="27383" data-author="jezer" data-date="2008-12-08T04:47:21+00:00" data-subject="">
 
 [img:2nh77jcq]http://www.barbspics.com/animation/afimg/0016b.gif[/img:2nh77jcq]
 
 </div>
 
-<div class="post" data-post-id="27388" data-author="Yasik2" data-date="2008-12-09T07:20:52+00:00">
+<div class="post" data-post-id="27388" data-author="Yasik2" data-date="2008-12-09T07:20:52+00:00" data-subject="">
 
 [img:3haobyb1]http://yasik.kiev.ua/4chan/Bored_dog.jpg[/img:3haobyb1]
 

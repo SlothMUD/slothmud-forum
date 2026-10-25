@@ -10,13 +10,13 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="24041" data-author="*juggleblood*" data-date="2008-04-26T05:23:57+00:00">
+<div class="post" data-post-id="24041" data-author="*juggleblood*" data-date="2008-04-26T05:23:57+00:00" data-subject="Fraternal Order of Clowns">
 
 Theres a new zone on vk open for business called the fraternal order of clowns.
 
 </div>
 
-<div class="post" data-post-id="24045" data-author="jezer" data-date="2008-04-26T09:49:40+00:00">
+<div class="post" data-post-id="24045" data-author="jezer" data-date="2008-04-26T09:49:40+00:00" data-subject="">
 
 Thanks Juggleblood,
 
@@ -28,7 +28,7 @@ s3w2n2w3n;buy ticket;n2w6n then wait for a carriage to arrive with clowns... typ
 
 </div>
 
-<div class="post" data-post-id="24046" data-author="jezer" data-date="2008-04-26T10:55:38+00:00">
+<div class="post" data-post-id="24046" data-author="jezer" data-date="2008-04-26T10:55:38+00:00" data-subject="">
 
 recite identify shoes
 
@@ -52,7 +52,7 @@ Can affect you as:
 
 </div>
 
-<div class="post" data-post-id="24052" data-author="jezer" data-date="2008-04-26T17:39:46+00:00">
+<div class="post" data-post-id="24052" data-author="jezer" data-date="2008-04-26T17:39:46+00:00" data-subject="">
 
 recite identify symbol
 
@@ -76,13 +76,13 @@ Both item's on the lord clown.
 
 </div>
 
-<div class="post" data-post-id="24053" data-author="Lis" data-date="2008-04-26T22:15:05+00:00">
+<div class="post" data-post-id="24053" data-author="Lis" data-date="2008-04-26T22:15:05+00:00" data-subject="">
 
 Map of the area posted enjoy
 
 </div>
 
-<div class="post" data-post-id="24055" data-author="Lis" data-date="2008-04-26T22:30:00+00:00">
+<div class="post" data-post-id="24055" data-author="Lis" data-date="2008-04-26T22:30:00+00:00" data-subject="">
 
 You feel informed:
 
@@ -106,7 +106,7 @@ Poped from Dollface
 
 </div>
 
-<div class="post" data-post-id="24056" data-author="Lis" data-date="2008-04-26T22:34:09+00:00">
+<div class="post" data-post-id="24056" data-author="Lis" data-date="2008-04-26T22:34:09+00:00" data-subject="">
 
 Object 'sleeves clown lord marshall', Item type: ARMOR
 
@@ -140,7 +140,7 @@ Requires: 100000 coins,
 
 </div>
 
-<div class="post" data-post-id="24101" data-author="Kerri" data-date="2008-04-29T19:52:00+00:00">
+<div class="post" data-post-id="24101" data-author="Kerri" data-date="2008-04-29T19:52:00+00:00" data-subject="">
 
 BTW, all cps are non-personal except for the soul
 

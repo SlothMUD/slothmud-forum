@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="28741" data-author="*Splork*" data-date="2009-04-11T04:52:06+00:00">
+<div class="post" data-post-id="28741" data-author="*Splork*" data-date="2009-04-11T04:52:06+00:00" data-subject="Website stuff">
 
 We are now the proud owners of Slothmud.com!
 

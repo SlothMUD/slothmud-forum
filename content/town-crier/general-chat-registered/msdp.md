@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="38137" data-author="*teker*" data-date="2017-03-20T14:51:14+00:00">
+<div class="post" data-post-id="38137" data-author="*teker*" data-date="2017-03-20T14:51:14+00:00" data-subject="MSDP">
 
 Tuk asked me to take a look at MSDP and I'm starting to go through the list of items he sent me.  I'm interested to hear any other requests/issues with the MSDP implementation.
 
@@ -22,7 +22,7 @@ I've updated the help file and have started moving older variables to an obsolet
 
 </div>
 
-<div class="post" data-post-id="38138" data-author="Gorka" data-date="2017-03-20T15:06:23+00:00">
+<div class="post" data-post-id="38138" data-author="Gorka" data-date="2017-03-20T15:06:23+00:00" data-subject="Re: MSDP">
 
 Thanks Teker, my WEAR_WIELD is currently set by the mud as the number 30.
 
@@ -36,7 +36,7 @@ Any chance you could add the spell affects of players in the GROUP variable? Wou
 
 </div>
 
-<div class="post" data-post-id="38140" data-author="*Breeze*" data-date="2017-03-20T15:54:55+00:00">
+<div class="post" data-post-id="38140" data-author="*Breeze*" data-date="2017-03-20T15:54:55+00:00" data-subject="Re: MSDP">
 
 > **Gorka wrote:**
 > ..snip..
@@ -49,7 +49,7 @@ Any chance you could add the spell affects of players in the GROUP variable? Wou
 
 </div>
 
-<div class="post" data-post-id="38141" data-author="*teker*" data-date="2017-03-21T21:35:40+00:00">
+<div class="post" data-post-id="38141" data-author="*teker*" data-date="2017-03-21T21:35:40+00:00" data-subject="Re: MSDP">
 
 > **Gorka wrote:**
 > Any chance you could make the wear/wield/remove commands except the SERIAL number?
@@ -68,7 +68,7 @@ I'm not sure what I'm going to do about the GROUP variable.  It already has prob
 
 </div>
 
-<div class="post" data-post-id="38142" data-author="Gorka" data-date="2017-03-21T22:34:59+00:00">
+<div class="post" data-post-id="38142" data-author="Gorka" data-date="2017-03-21T22:34:59+00:00" data-subject="Re: MSDP">
 
 > ***teker* wrote:**
 > If we were going to build a graphical client with a binary protocol, it would be done.  It would be nice to have a simple parser and not be checking for names on everything.  I'd prefer not to introduce this into the text commands - it just feels like a half-assed solution.
@@ -79,7 +79,7 @@ Eqset is a solution in most cases, but there are plenty of instances when you ju
 
 </div>
 
-<div class="post" data-post-id="38145" data-author="Tuck" data-date="2017-03-24T20:11:17+00:00">
+<div class="post" data-post-id="38145" data-author="Tuck" data-date="2017-03-24T20:11:17+00:00" data-subject="Re: MSDP">
 
 Aww, thanks Teker.
 

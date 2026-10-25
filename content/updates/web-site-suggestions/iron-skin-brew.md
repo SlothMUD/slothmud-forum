@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32252" data-author="Teron" data-date="2011-01-01T10:59:28+00:00">
+<div class="post" data-post-id="32252" data-author="Teron" data-date="2011-01-01T10:59:28+00:00" data-subject="iron skin brew">
 
 The brew list is missing an iron skin potion from this note:
 

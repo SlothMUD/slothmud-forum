@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11959" data-author="Ditheca" data-date="2006-04-05T23:34:32+00:00">
+<div class="post" data-post-id="11959" data-author="Ditheca" data-date="2006-04-05T23:34:32+00:00" data-subject="Petrified Armor strangeness">
 
 Petrified Armor has no message (like "You feel less protected") when it falls.  In this clip the number right before the brackets is my armor class.  It jumps from 1 to 5 when armor falls.  It'd be nice to have a spell down message like every other spell in the game.  thxmuch!
 

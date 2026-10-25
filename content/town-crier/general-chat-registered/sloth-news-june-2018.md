@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38940" data-author="Gorka" data-date="2018-06-28T12:09:12+00:00">
+<div class="post" data-post-id="38940" data-author="Gorka" data-date="2018-06-28T12:09:12+00:00" data-subject="Sloth News - June 2018">
 
 Live from Mole Studios! First at 6! This is Sloth News with Gorka!
 
@@ -116,7 +116,7 @@ This has been Sloth news for the last week of June, I’m your host Gorka, gimme
 
 </div>
 
-<div class="post" data-post-id="38941" data-author="Sam" data-date="2018-06-28T21:15:56+00:00">
+<div class="post" data-post-id="38941" data-author="Sam" data-date="2018-06-28T21:15:56+00:00" data-subject="Re: Sloth News - June 2018">
 
 good one, thx :)
 

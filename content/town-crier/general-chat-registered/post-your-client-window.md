@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="18936" data-author="Akasha" data-date="2007-06-17T02:59:41+00:00">
+<div class="post" data-post-id="18936" data-author="Akasha" data-date="2007-06-17T02:59:41+00:00" data-subject="Post your client window">
 
 Curious to see how others set theirs up...
 
@@ -18,13 +18,13 @@ Curious to see how others set theirs up...
 
 </div>
 
-<div class="post" data-post-id="18943" data-author="Yasik" data-date="2007-06-17T08:14:00+00:00">
+<div class="post" data-post-id="18943" data-author="Yasik" data-date="2007-06-17T08:14:00+00:00" data-subject="">
 
 [img:3k34446u]http://yasik.kiev.ua/MyMUDClient.jpg[/img:3k34446u]
 
 </div>
 
-<div class="post" data-post-id="18946" data-author="Vixn" data-date="2007-06-17T13:57:47+00:00">
+<div class="post" data-post-id="18946" data-author="Vixn" data-date="2007-06-17T13:57:47+00:00" data-subject="">
 
 Yasik, you're *re-tard*.
 
@@ -32,7 +32,7 @@ I mean nobody can see you crap picture.
 
 </div>
 
-<div class="post" data-post-id="18950" data-author="Tetsulunathaya" data-date="2007-06-17T21:17:38+00:00">
+<div class="post" data-post-id="18950" data-author="Tetsulunathaya" data-date="2007-06-17T21:17:38+00:00" data-subject="">
 
 Heres how I've got mine right now.
 
@@ -46,7 +46,7 @@ Still working on a pinger chat that will be interchangable with the spelltracker
 
 </div>
 
-<div class="post" data-post-id="18965" data-author="Alberich" data-date="2007-06-19T01:48:46+00:00">
+<div class="post" data-post-id="18965" data-author="Alberich" data-date="2007-06-19T01:48:46+00:00" data-subject="">
 
 boy some of you people are spoiled
 

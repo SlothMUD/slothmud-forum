@@ -10,7 +10,7 @@ locked: false
 post_count: 31
 ---
 
-<div class="post" data-post-id="27060" data-author="jezer" data-date="2008-11-07T05:53:19+00:00">
+<div class="post" data-post-id="27060" data-author="jezer" data-date="2008-11-07T05:53:19+00:00" data-subject="Eq Popping For Coins">
 
 Getting kind of bored with sloth, thought I might offer this for a while and see how it goes.
 
@@ -46,7 +46,7 @@ Speak to Apprentice in game if you want me to try for something.
 
 </div>
 
-<div class="post" data-post-id="27061" data-author="jezer" data-date="2008-11-07T06:50:22+00:00">
+<div class="post" data-post-id="27061" data-author="jezer" data-date="2008-11-07T06:50:22+00:00" data-subject="">
 
 A thick beam of frost sprays forth from your body, hitting the Phoenix square in the chest.
 
@@ -80,7 +80,7 @@ Did I just walk into the wall? Maybe...  :oops:  :evil:
 
 </div>
 
-<div class="post" data-post-id="27077" data-author="Dragoth" data-date="2008-11-07T23:53:09+00:00">
+<div class="post" data-post-id="27077" data-author="Dragoth" data-date="2008-11-07T23:53:09+00:00" data-subject="">
 
 Cycle Joraine for me in temple ruins.
 
@@ -88,7 +88,7 @@ Crown of a Dead King.
 
 </div>
 
-<div class="post" data-post-id="27084" data-author="jezer" data-date="2008-11-08T09:01:03+00:00">
+<div class="post" data-post-id="27084" data-author="jezer" data-date="2008-11-08T09:01:03+00:00" data-subject="">
 
 Ok, response has been pretty good from my offer to pop eq for coins. However some problems have come up, and so I'm going to change the way I work a little.
 
@@ -110,7 +110,7 @@ Apprentice
 
 </div>
 
-<div class="post" data-post-id="27085" data-author="jezer" data-date="2008-11-08T09:09:22+00:00">
+<div class="post" data-post-id="27085" data-author="jezer" data-date="2008-11-08T09:09:22+00:00" data-subject="">
 
 Just to clarify for the priority people... prices haven't changed, I'm just changing the system for all those who want stuff but don't want to pay... :twisted:
 
@@ -118,7 +118,7 @@ Might I add... within 24hrs one priority person had all the cp's to the tome of 
 
 </div>
 
-<div class="post" data-post-id="27086" data-author="Dragoth" data-date="2008-11-08T15:21:36+00:00">
+<div class="post" data-post-id="27086" data-author="Dragoth" data-date="2008-11-08T15:21:36+00:00" data-subject="">
 
 Ok im confused, does that mean you are not going to pop my crown of a dead king for me or umm ?
 
@@ -126,7 +126,7 @@ Prioritize me!
 
 </div>
 
-<div class="post" data-post-id="27099" data-author="jezer" data-date="2008-11-09T22:44:08+00:00">
+<div class="post" data-post-id="27099" data-author="jezer" data-date="2008-11-09T22:44:08+00:00" data-subject="">
 
 I never figured it would be like this... Itâ€™s been an interesting journey.
 
@@ -140,7 +140,7 @@ The politics of this are already starting to threaten what was always just meant
 
 </div>
 
-<div class="post" data-post-id="27100" data-author="Tap" data-date="2008-11-09T22:49:17+00:00">
+<div class="post" data-post-id="27100" data-author="Tap" data-date="2008-11-09T22:49:17+00:00" data-subject="">
 
 Iâ€™m finding â€œcontemptâ€ amongst other players for my new found wealth, and because you are doing something for someone else... there is this power thing going on... and it makes people desperate.
 
@@ -152,13 +152,13 @@ People I didnâ€™t think too much of have proved to be great and fair custom
 
 </div>
 
-<div class="post" data-post-id="27101" data-author="jezer" data-date="2008-11-09T22:52:22+00:00">
+<div class="post" data-post-id="27101" data-author="jezer" data-date="2008-11-09T22:52:22+00:00" data-subject="">
 
 Did daddy hit you again Tap?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="27102" data-author="Tap" data-date="2008-11-09T22:53:39+00:00">
+<div class="post" data-post-id="27102" data-author="Tap" data-date="2008-11-09T22:53:39+00:00" data-subject="">
 
 Hey I like you, even though you are a pompous ass.
 
@@ -166,13 +166,13 @@ Hey I like you, even though you are a pompous ass.
 
 </div>
 
-<div class="post" data-post-id="27108" data-author="*juggleblood*" data-date="2008-11-10T06:23:48+00:00">
+<div class="post" data-post-id="27108" data-author="*juggleblood*" data-date="2008-11-10T06:23:48+00:00" data-subject="">
 
 The rise of the piasa has been the death of eq groups. Popping eq for people for coins just accentuates that point I suppose. I don't see a problem with it tho. People been cycling eq for sale for a long time. I imagine once you get enough coins for your vaults etc, you'll get bored with it. So until then there will just be some happy players who picked up some good eq at a decent price. It's a win win.  Big eq groups were really doomed from the moment they put in 2 classes that can bring so much force to bear against a single mob. People moan about druids being overpowered, but I don't see it. Druid and Necro are challenging classes.
 
 </div>
 
-<div class="post" data-post-id="27112" data-author="Sind" data-date="2008-11-10T07:14:48+00:00">
+<div class="post" data-post-id="27112" data-author="Sind" data-date="2008-11-10T07:14:48+00:00" data-subject="">
 
 laff
 
@@ -182,7 +182,7 @@ just remove mare, and welcome back eq groups :)
 
 </div>
 
-<div class="post" data-post-id="27114" data-author="brady" data-date="2008-11-10T12:09:56+00:00">
+<div class="post" data-post-id="27114" data-author="brady" data-date="2008-11-10T12:09:56+00:00" data-subject="">
 
 laff
 
@@ -194,7 +194,7 @@ Who cares if someone wants to make 3 runs at something to get it dead?  It is bo
 
 </div>
 
-<div class="post" data-post-id="27115" data-author="brady" data-date="2008-11-10T12:18:12+00:00">
+<div class="post" data-post-id="27115" data-author="brady" data-date="2008-11-10T12:18:12+00:00" data-subject="">
 
 Big eq groups were really doomed from the moment they put in 2 classes that can bring so much force to bear against a single mob. [/quote:33ydq4v8]
 
@@ -202,13 +202,13 @@ How many years ago was that?  I don't think that's the problem.
 
 </div>
 
-<div class="post" data-post-id="27118" data-author="Krok" data-date="2008-11-10T18:17:20+00:00">
+<div class="post" data-post-id="27118" data-author="Krok" data-date="2008-11-10T18:17:20+00:00" data-subject="">
 
 Damn, did someone teach Brady how to play? :/
 
 </div>
 
-<div class="post" data-post-id="27120" data-author="Sind" data-date="2008-11-10T20:04:04+00:00">
+<div class="post" data-post-id="27120" data-author="Sind" data-date="2008-11-10T20:04:04+00:00" data-subject="">
 
 doubt it
 
@@ -216,7 +216,7 @@ doubt it
 
 </div>
 
-<div class="post" data-post-id="27124" data-author="brady" data-date="2008-11-10T22:27:20+00:00">
+<div class="post" data-post-id="27124" data-author="brady" data-date="2008-11-10T22:27:20+00:00" data-subject="">
 
 Damn, did someone teach Brady how to play? :/[/quote:6oq35d31]
 
@@ -224,13 +224,13 @@ Go kick a bear.  Heeeey Widow :)
 
 </div>
 
-<div class="post" data-post-id="27126" data-author="jezer" data-date="2008-11-10T23:22:20+00:00">
+<div class="post" data-post-id="27126" data-author="jezer" data-date="2008-11-10T23:22:20+00:00" data-subject="">
 
 Brady, I've popped the Green Glass Jar of Bubbly Fluids like you asked, see me in game for pickup. Good thing you got me to pop it to... I don't think you could have taken him  :twisted:
 
 </div>
 
-<div class="post" data-post-id="27128" data-author="brady" data-date="2008-11-10T23:37:33+00:00">
+<div class="post" data-post-id="27128" data-author="brady" data-date="2008-11-10T23:37:33+00:00" data-subject="">
 
 Brady, I've popped the Green Glass Jar of Bubbly Fluids like you asked, see me in game for pickup. Good thing you got me to pop it to... I don't think you could have taken him  :twisted:[/quote:3hnm9r5y]
 
@@ -238,31 +238,31 @@ uhhh...what?
 
 </div>
 
-<div class="post" data-post-id="27131" data-author="Krok" data-date="2008-11-11T02:21:29+00:00">
+<div class="post" data-post-id="27131" data-author="Krok" data-date="2008-11-11T02:21:29+00:00" data-subject="">
 
 Haaaai, Sind! I can't belive you are playing Sloth again :)
 
 </div>
 
-<div class="post" data-post-id="27132" data-author="Krok" data-date="2008-11-11T02:22:32+00:00">
+<div class="post" data-post-id="27132" data-author="Krok" data-date="2008-11-11T02:22:32+00:00" data-subject="">
 
 *believe.. where's the edit button? oO
 
 </div>
 
-<div class="post" data-post-id="27136" data-author="jezer" data-date="2008-11-11T03:05:31+00:00">
+<div class="post" data-post-id="27136" data-author="jezer" data-date="2008-11-11T03:05:31+00:00" data-subject="">
 
 Pobody's Nerfect.
 
 </div>
 
-<div class="post" data-post-id="27204" data-author="jezer" data-date="2008-11-16T12:29:17+00:00">
+<div class="post" data-post-id="27204" data-author="jezer" data-date="2008-11-16T12:29:17+00:00" data-subject="">
 
 Looking for Xev, Fable and Kull and more work... preferably nothing multirun at the moment... I've just come off 31 cycles of a 2 run mob... need a little break from bigger work for a bit.  :roll:
 
 </div>
 
-<div class="post" data-post-id="27285" data-author="jezer" data-date="2008-11-24T22:49:04+00:00">
+<div class="post" data-post-id="27285" data-author="jezer" data-date="2008-11-24T22:49:04+00:00" data-subject="">
 
 A few questions I kept getting asked...
 
@@ -308,7 +308,7 @@ Thanks to all the good customers I've delt with, I'm still enjoying it.
 
 </div>
 
-<div class="post" data-post-id="27443" data-author="jezer" data-date="2008-12-13T06:09:53+00:00">
+<div class="post" data-post-id="27443" data-author="jezer" data-date="2008-12-13T06:09:53+00:00" data-subject="">
 
 Ok so I tried Joraine... and he's not too bad, trouble is a few rounds later, when all his mates have rocked up...
 
@@ -378,7 +378,7 @@ Or you could lead a group... and get your own crap... now there's an idea.
 
 </div>
 
-<div class="post" data-post-id="27455" data-author="Yinao" data-date="2008-12-15T02:08:16+00:00">
+<div class="post" data-post-id="27455" data-author="Yinao" data-date="2008-12-15T02:08:16+00:00" data-subject="">
 
 Or you could lead a group... and get your own crap... now there's an idea.[/quote:1888czuw]
 
@@ -386,7 +386,7 @@ Can you really say that since you pretty much prostituted yourself out to pop th
 
 </div>
 
-<div class="post" data-post-id="27456" data-author="jezer" data-date="2008-12-15T03:16:18+00:00">
+<div class="post" data-post-id="27456" data-author="jezer" data-date="2008-12-15T03:16:18+00:00" data-subject="">
 
 What I meant Yinao is that some people sort to "use and abuse" me beyond reasonable limits, for there own gain... 
 
@@ -404,13 +404,13 @@ I'll consider doing specific work for people if they want, but probably on a les
 
 </div>
 
-<div class="post" data-post-id="27459" data-author="Mosaix" data-date="2008-12-15T15:26:37+00:00">
+<div class="post" data-post-id="27459" data-author="Mosaix" data-date="2008-12-15T15:26:37+00:00" data-subject="">
 
 Maybe stfu already.  Pop stuff for coins or dont.
 
 </div>
 
-<div class="post" data-post-id="27494" data-author="Rynquald" data-date="2008-12-18T04:06:59+00:00">
+<div class="post" data-post-id="27494" data-author="Rynquald" data-date="2008-12-18T04:06:59+00:00" data-subject="">
 
 You can hardly expect someone to know exactly what mobs are unrealistic to solo when you (and me, and others, I'm not blaming anyone) constantly solo mobs that would have been impossible to take down alone not that long ago.
 
@@ -418,13 +418,13 @@ Anyone that can identify the relatively few mobs that are impossible from the dr
 
 </div>
 
-<div class="post" data-post-id="27495" data-author="Evergreen" data-date="2008-12-18T10:25:54+00:00">
+<div class="post" data-post-id="27495" data-author="Evergreen" data-date="2008-12-18T10:25:54+00:00" data-subject="">
 
 Joraine is 2man pretty easy - Shival and Evergreen took him down few times with not much cf's :) need a tosser and a body and a blast
 
 </div>
 
-<div class="post" data-post-id="27502" data-author="Dragoth" data-date="2008-12-19T22:36:41+00:00">
+<div class="post" data-post-id="27502" data-author="Dragoth" data-date="2008-12-19T22:36:41+00:00" data-subject="">
 
 Whats up your ass Jezer ? 
 

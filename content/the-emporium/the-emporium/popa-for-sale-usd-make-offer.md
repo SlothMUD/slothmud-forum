@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="6052" data-author="Popa" data-date="2005-05-09T18:01:18+00:00">
+<div class="post" data-post-id="6052" data-author="Popa" data-date="2005-05-09T18:01:18+00:00" data-subject="Popa for sale USD make offer">
 
 i'm sick of slothmud. I'm sick of all the stupid fucking changes that makes the game too real. and i'm sick of playing.. time to concentrate on my life and stop playing games. will sell popa with all eq and everything worn.
 
@@ -622,7 +622,7 @@ popa has +17 dam -8.4 ac and also a -10 ac tank mode.
 
 </div>
 
-<div class="post" data-post-id="6055" data-author="Avatar" data-date="2005-05-09T21:07:05+00:00">
+<div class="post" data-post-id="6055" data-author="Avatar" data-date="2005-05-09T21:07:05+00:00" data-subject="Bleah">
 
 I think I know how you feel.  I died twice and corpsed twice in a nocast room today thanks to some bugged necromancer summons.
 
@@ -630,7 +630,7 @@ Hate to see you leave, though.
 
 </div>
 
-<div class="post" data-post-id="6056" data-author="Leaf" data-date="2005-05-09T22:44:01+00:00">
+<div class="post" data-post-id="6056" data-author="Leaf" data-date="2005-05-09T22:44:01+00:00" data-subject="">
 
 Sorry to see u leave there Steve.
 
@@ -648,7 +648,7 @@ go a head.  Nice meeting yea, and peace out.
 
 </div>
 
-<div class="post" data-post-id="6059" data-author="Gnu" data-date="2005-05-10T06:09:50+00:00">
+<div class="post" data-post-id="6059" data-author="Gnu" data-date="2005-05-10T06:09:50+00:00" data-subject="">
 
 It's sad to see you leaving, Popa. You was the first one who offered me help when I asked for it (and dead/corpsed twice after that). And it will be even worse to see someone else playing your char... I still remember the time when you was a small thief with funny title about how do you know about what does your name mean :) 
 
@@ -656,19 +656,19 @@ Good luck, and be happy. See you soon :)
 
 </div>
 
-<div class="post" data-post-id="6060" data-author="firebrand" data-date="2005-05-10T10:59:41+00:00">
+<div class="post" data-post-id="6060" data-author="firebrand" data-date="2005-05-10T10:59:41+00:00" data-subject="">
 
 hate to see you leave, steve.  i agree - just keep your char in storage or smth like that though.  you may once in a while wanna come back and at least harrass the hell outta splork.  although like avatar, i am quite pissed about shocking back to back even though i was running at 18 con and the raiser was wearing +raise gear.  and then the next day corsping out after only 3 ticks, which has happened like 3 times before.  but that's a mumble grumble for another day.  don't sell popa....you'll calm down and wish you hadn't
 
 </div>
 
-<div class="post" data-post-id="6061" data-author="firebrand" data-date="2005-05-10T11:04:33+00:00">
+<div class="post" data-post-id="6061" data-author="firebrand" data-date="2005-05-10T11:04:33+00:00" data-subject="">
 
 and as far as starting a flame about steve opening the door for a lyme pth....i seriously doubt that dude.  i think steve has better sense and would not let just *anyone* buy popa.  although flaming YOU is quite fun, ya phreak *wickedgrin*
 
 </div>
 
-<div class="post" data-post-id="6062" data-author="Autolycos" data-date="2005-05-10T11:38:42+00:00">
+<div class="post" data-post-id="6062" data-author="Autolycos" data-date="2005-05-10T11:38:42+00:00" data-subject="">
 
 blah,  real life sucks...  i have retired too many times, and i still am in my original skin, i got a better idea,  how about you sell me some of your *uneeded crap*  and keep a ton of coins on you for rent and such,  then just retire for a bit..  believe me, you dont want to sell, everyone comes back eventually, and starting over again blows..   take care bro..
 
@@ -678,7 +678,7 @@ honestly.. how loyal could an order of thieves be?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="6063" data-author="Autolycos" data-date="2005-05-10T11:40:56+00:00">
+<div class="post" data-post-id="6063" data-author="Autolycos" data-date="2005-05-10T11:40:56+00:00" data-subject="">
 
 btw if you got that,  its pretty damn funny...
 
@@ -690,7 +690,7 @@ muahahahahaa
 
 </div>
 
-<div class="post" data-post-id="6064" data-author="12345" data-date="2005-05-10T12:45:08+00:00">
+<div class="post" data-post-id="6064" data-author="12345" data-date="2005-05-10T12:45:08+00:00" data-subject="">
 
 I retired quite a few times, never lost anything, even coins.  If you stay logged off long enough, rent is waived.  I think it's protection for college students on summer break.  I don't know exactly how long you have to be logged off for it to work, but it's not hard to strip all your stray equipment from your other characters onto your main to perm-rent. Or even the other way around.  That will leave you one to chat with if you want to drop by and one to hibernate to avoid paying rent.  Then if you want to come back, you just have to straighten it all out :)
 
@@ -700,13 +700,13 @@ Best wishes.
 
 </div>
 
-<div class="post" data-post-id="6067" data-author="Corwin" data-date="2005-05-10T17:27:45+00:00">
+<div class="post" data-post-id="6067" data-author="Corwin" data-date="2005-05-10T17:27:45+00:00" data-subject="">
 
 You never said where offers should be made etc...
 
 </div>
 
-<div class="post" data-post-id="6068" data-author="12345" data-date="2005-05-10T17:36:50+00:00">
+<div class="post" data-post-id="6068" data-author="12345" data-date="2005-05-10T17:36:50+00:00" data-subject="">
 
 I would assume the contacts he's listed in his profile work...
 
@@ -718,7 +718,7 @@ Yahoo Messenger: zx9rstv
 
 </div>
 
-<div class="post" data-post-id="6070" data-author="Avatar" data-date="2005-05-10T22:55:28+00:00">
+<div class="post" data-post-id="6070" data-author="Avatar" data-date="2005-05-10T22:55:28+00:00" data-subject="Yo">
 
 The time away used to be set for two weeks, beyond that the Rent would be waived.
 
@@ -726,7 +726,7 @@ I agree, it's good to rent and hibernate even if you decide to just hibernate fo
 
 </div>
 
-<div class="post" data-post-id="6084" data-author="Shadis" data-date="2005-05-11T15:03:29+00:00">
+<div class="post" data-post-id="6084" data-author="Shadis" data-date="2005-05-11T15:03:29+00:00" data-subject="">
 
 Popa was a cool guy
 
@@ -740,7 +740,7 @@ but don't do what i've done and get wiped when ya quit!!
 
 </div>
 
-<div class="post" data-post-id="6086" data-author="Autolycos" data-date="2005-05-11T15:19:44+00:00">
+<div class="post" data-post-id="6086" data-author="Autolycos" data-date="2005-05-11T15:19:44+00:00" data-subject="">
 
 LMAO  that was funny too... i laughed at you for a while.. 
 
@@ -750,7 +750,7 @@ I always thought that was a dumb move. :twisted:
 
 </div>
 
-<div class="post" data-post-id="6087" data-author="Leaf" data-date="2005-05-11T15:41:53+00:00">
+<div class="post" data-post-id="6087" data-author="Leaf" data-date="2005-05-11T15:41:53+00:00" data-subject="">
 
 Yea and that +1dam light was pretty tight if I remember correctly.
 
@@ -758,13 +758,13 @@ Only non-tard dam light or something like that... without a - Wis.
 
 </div>
 
-<div class="post" data-post-id="6088" data-author="12345" data-date="2005-05-11T16:04:53+00:00">
+<div class="post" data-post-id="6088" data-author="12345" data-date="2005-05-11T16:04:53+00:00" data-subject="">
 
 Rent is capped at 7 days.  If you rent for over a month, it is waived.  Would explain why I haven't gone broke yet.
 
 </div>
 
-<div class="post" data-post-id="6120" data-author="Shadis" data-date="2005-05-12T15:04:38+00:00">
+<div class="post" data-post-id="6120" data-author="Shadis" data-date="2005-05-12T15:04:38+00:00" data-subject="">
 
 Onyx Staff is on Shadis now
 
@@ -774,7 +774,7 @@ oddly it is the only real quest item i have ever been awarded
 
 </div>
 
-<div class="post" data-post-id="6131" data-author="Autolycos" data-date="2005-05-13T11:26:37+00:00">
+<div class="post" data-post-id="6131" data-author="Autolycos" data-date="2005-05-13T11:26:37+00:00" data-subject="">
 
 WTF?  onyx staff....  how in the hell did i miss that...
 
@@ -784,7 +784,7 @@ hehe :twisted:
 
 </div>
 
-<div class="post" data-post-id="6132" data-author="Leaf" data-date="2005-05-13T11:32:43+00:00">
+<div class="post" data-post-id="6132" data-author="Leaf" data-date="2005-05-13T11:32:43+00:00" data-subject="">
 
 Yea Auto is already jealous.
 
@@ -796,13 +796,13 @@ But who didn't LOVE LINK!!!  (6 yrs ago Best tank in Game!!!)
 
 </div>
 
-<div class="post" data-post-id="6134" data-author="Weasel" data-date="2005-05-13T14:18:18+00:00">
+<div class="post" data-post-id="6134" data-author="Weasel" data-date="2005-05-13T14:18:18+00:00" data-subject="">
 
 One day I'll get a quest item. Never had one.. yet  :)
 
 </div>
 
-<div class="post" data-post-id="6137" data-author="Autolycos" data-date="2005-05-13T15:49:38+00:00">
+<div class="post" data-post-id="6137" data-author="Autolycos" data-date="2005-05-13T15:49:38+00:00" data-subject="">
 
 damn right i'm jealous!
 
@@ -812,7 +812,7 @@ if only!!   :twisted:
 
 </div>
 
-<div class="post" data-post-id="6138" data-author="Leaf" data-date="2005-05-13T16:00:13+00:00">
+<div class="post" data-post-id="6138" data-author="Leaf" data-date="2005-05-13T16:00:13+00:00" data-subject="">
 
 Yea ... sure Jason, I have my money on Jim.
 

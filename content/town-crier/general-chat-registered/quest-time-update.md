@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="12012" data-author="*juggleblood*" data-date="2006-04-08T08:21:15+00:00">
+<div class="post" data-post-id="12012" data-author="*juggleblood*" data-date="2006-04-08T08:21:15+00:00" data-subject="Quest Time Update">
 
 Can we pls have a rough time of when you starting Splork?
 
@@ -18,13 +18,13 @@ Thx
 
 </div>
 
-<div class="post" data-post-id="12021" data-author="tincts" data-date="2006-04-09T09:31:33+00:00">
+<div class="post" data-post-id="12021" data-author="tincts" data-date="2006-04-09T09:31:33+00:00" data-subject="Sweet quest, man.">
 
 Just wanna say a big thankyou to Splork and all others involved in today's quest.  I had a great time, and enjoyed the drachma and a nice piece of eq in the subsequent eqpop :)  Just wanna say that these out-of-the-norm mud events add a great piece of variety and interest to sloth, and a sense of community.  I appreciate it.
 
 </div>
 
-<div class="post" data-post-id="12022" data-author="*juggleblood*" data-date="2006-04-09T11:13:49+00:00">
+<div class="post" data-post-id="12022" data-author="*juggleblood*" data-date="2006-04-09T11:13:49+00:00" data-subject="">
 
 :D Nods, It was indeed fun and generous. Thank you Splork for all your effort.
 
@@ -42,7 +42,7 @@ Rub
 
 </div>
 
-<div class="post" data-post-id="12023" data-author="Mosaix" data-date="2006-04-09T14:34:33+00:00">
+<div class="post" data-post-id="12023" data-author="Mosaix" data-date="2006-04-09T14:34:33+00:00" data-subject="">
 
 Seeing these comments I think id have to come back and play again.
 
@@ -58,7 +58,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="12024" data-author="alias" data-date="2006-04-09T14:55:38+00:00">
+<div class="post" data-post-id="12024" data-author="alias" data-date="2006-04-09T14:55:38+00:00" data-subject="Thanx for the toggle Splork and quest.">
 
 I got on 5 mins after quest started and got to the group. I got lost cause I didn't pay attention, my fault. So I didnt do the quest, instead a few friends and I started killin mobs-one of which was seal guardian. after it was announced pop was turned on we checked him, no watcher was there, he was loaded. We killed him. end of story. If u dont put a watcher I dont know ur hittin. 
 
@@ -72,13 +72,13 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="12025" data-author="Krok" data-date="2006-04-09T15:37:12+00:00">
+<div class="post" data-post-id="12025" data-author="Krok" data-date="2006-04-09T15:37:12+00:00" data-subject="">
 
 About that quotation.. I meant that if you see a group of 30 people (where 20 have no clue what hey are doing) who were spending a lot of time running to the mobs when eqpop was already turned on, you can't really expect to get a guaranteed item. Minstrel did a great job running it, because people don't listen at all - I met this problem a lot of times lately. And if I see people swearing cause they didn't get a pop - they could really split after discussing the mobs with the main leader.
 
 </div>
 
-<div class="post" data-post-id="12027" data-author="Qa" data-date="2006-04-09T17:16:34+00:00">
+<div class="post" data-post-id="12027" data-author="Qa" data-date="2006-04-09T17:16:34+00:00" data-subject="Great Quest!  Thank You!">
 
 First I want to say a big thanks to Splork for setting up the quest.  It was well set up, difficult, interesting and really fun.
 
@@ -94,7 +94,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="12028" data-author="*Splork*" data-date="2006-04-09T20:34:13+00:00">
+<div class="post" data-post-id="12028" data-author="*Splork*" data-date="2006-04-09T20:34:13+00:00" data-subject="">
 
 Overall, I think we had a great quest. My biggest surprise was that we were over 60 people and the vast majority of you were everyday players. Normally an announced quest draws a bunch of old players who no longer play. I really think the fact the prizes were mostly coming from eqpop may of kept those numbers down.
 
@@ -114,13 +114,13 @@ I really do wonder though-what would of happened if I stayed out of it and watch
 
 </div>
 
-<div class="post" data-post-id="12030" data-author="Harlot" data-date="2006-04-09T21:41:06+00:00">
+<div class="post" data-post-id="12030" data-author="Harlot" data-date="2006-04-09T21:41:06+00:00" data-subject="RE:Quest">
 
 Flame On! :twisted:
 
 </div>
 
-<div class="post" data-post-id="12031" data-author="Mystery" data-date="2006-04-09T22:04:12+00:00">
+<div class="post" data-post-id="12031" data-author="Mystery" data-date="2006-04-09T22:04:12+00:00" data-subject="Re:Quest">
 
 Interesting theory Splork... perhaps we should test it again this friday around 9pm eastern 8)
 

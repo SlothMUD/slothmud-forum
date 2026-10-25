@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2050" data-author="Nascosto" data-date="2004-09-25T19:36:44+00:00">
+<div class="post" data-post-id="2050" data-author="Nascosto" data-date="2004-09-25T19:36:44+00:00" data-subject="zMud Automapper">
 
 Does anyone else use the zMud automapper?
 

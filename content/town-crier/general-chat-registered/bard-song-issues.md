@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31751" data-author="Luna" data-date="2010-09-13T22:39:29+00:00">
+<div class="post" data-post-id="31751" data-author="Luna" data-date="2010-09-13T22:39:29+00:00" data-subject="Bard Song issues">
 
 I just wanted to mention that it would be useful if some of the new bard songs had different "take effect" emote functions then existing spells.
 

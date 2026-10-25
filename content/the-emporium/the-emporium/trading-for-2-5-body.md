@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1686" data-author="doug" data-date="2004-08-31T20:47:38+00:00">
+<div class="post" data-post-id="1686" data-author="doug" data-date="2004-08-31T20:47:38+00:00" data-subject="trading for 2.5 body">
 
 Some of the items I might consider trading out on 2.5 body. 
 

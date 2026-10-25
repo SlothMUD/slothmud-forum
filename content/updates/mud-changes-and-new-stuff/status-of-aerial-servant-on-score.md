@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31791" data-author="*Isabo*" data-date="2010-09-25T03:33:59+00:00">
+<div class="post" data-post-id="31791" data-author="*Isabo*" data-date="2010-09-25T03:33:59+00:00" data-subject="Status of aerial servant on score">
 
 Good day, clerics.
 
@@ -24,7 +24,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="32026" data-author="*Isabo*" data-date="2010-11-14T02:32:51+00:00">
+<div class="post" data-post-id="32026" data-author="*Isabo*" data-date="2010-11-14T02:32:51+00:00" data-subject="Re: Status of aerial servant on score">
 
 Good day again, clerics.
 

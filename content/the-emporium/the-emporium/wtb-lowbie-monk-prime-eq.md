@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3613" data-author="Methyx" data-date="2005-01-04T19:36:20+00:00">
+<div class="post" data-post-id="3613" data-author="Methyx" data-date="2005-01-04T19:36:20+00:00" data-subject="WTB Lowbie Monk Prime EQ">
 
 Heya Folks,
 

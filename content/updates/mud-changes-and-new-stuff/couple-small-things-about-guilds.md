@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32076" data-author="*Isabo*" data-date="2010-11-18T21:10:58+00:00">
+<div class="post" data-post-id="32076" data-author="*Isabo*" data-date="2010-11-18T21:10:58+00:00" data-subject="Couple small things about guilds">
 
 Greeting, mortals.
 

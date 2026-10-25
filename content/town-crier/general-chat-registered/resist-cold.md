@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="9864" data-author="Shara" data-date="2005-12-19T01:54:45+00:00">
+<div class="post" data-post-id="9864" data-author="Shara" data-date="2005-12-19T01:54:45+00:00" data-subject="Resist cold?">
 
 I was identifying stuff recently and poking around and got a bit confused...
 
@@ -30,7 +30,7 @@ Is this intentional?
 
 </div>
 
-<div class="post" data-post-id="9865" data-author="kjartan" data-date="2005-12-19T02:14:52+00:00">
+<div class="post" data-post-id="9865" data-author="kjartan" data-date="2005-12-19T02:14:52+00:00" data-subject="">
 
 No.  It used to be that "resist cold by 1" was the "resist cold" spell, which was a flat 50% and did not stack with other resist cold items.  We changed it a few months back; now it stacks, and so we made the number be the % resistance.  Apparently we missed a few items; generally it should be 10% or 20% per item.  (The stacking formula is complicated; the %'s don't add, they apply successively, so two 10% resists resist 10% of the base damage and then 10% of what's left for 19% total resistance).
 
@@ -38,7 +38,7 @@ We should fix those; I fixed the ones you mentioned.  I'm not sure that the broo
 
 </div>
 
-<div class="post" data-post-id="9866" data-author="Shara" data-date="2005-12-19T02:29:08+00:00">
+<div class="post" data-post-id="9866" data-author="Shara" data-date="2005-12-19T02:29:08+00:00" data-subject="">
 
 :grin: So Shara resists almost 2% of cold damage?
 
@@ -46,13 +46,13 @@ Bring on the frostbolts!!
 
 </div>
 
-<div class="post" data-post-id="9867" data-author="Weasel" data-date="2005-12-19T04:40:53+00:00">
+<div class="post" data-post-id="9867" data-author="Weasel" data-date="2005-12-19T04:40:53+00:00" data-subject="">
 
 the bands of water I have currently ID as RESIST_COLD by 1 instead of +10 RESIST_COLD if others want to check theirs
 
 </div>
 
-<div class="post" data-post-id="9868" data-author="kjartan" data-date="2005-12-19T04:52:23+00:00">
+<div class="post" data-post-id="9868" data-author="kjartan" data-date="2005-12-19T04:52:23+00:00" data-subject="">
 
 Bands should be fixed (+10) next time you log in.
 
@@ -60,7 +60,7 @@ Edit: I just went through the eq list here on the website and made sure everythi
 
 </div>
 
-<div class="post" data-post-id="9869" data-author="Weasel" data-date="2005-12-19T04:57:23+00:00">
+<div class="post" data-post-id="9869" data-author="Weasel" data-date="2005-12-19T04:57:23+00:00" data-subject="">
 
 yup done, thanks :)
 

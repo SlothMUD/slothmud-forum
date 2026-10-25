@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="34872" data-author="Jaid" data-date="2014-02-18T13:35:02+00:00">
+<div class="post" data-post-id="34872" data-author="Jaid" data-date="2014-02-18T13:35:02+00:00" data-subject="Summon Undead Creatures">
 
 I also play Rayne.
 
@@ -22,7 +22,7 @@ Jaid /Rayne
 
 </div>
 
-<div class="post" data-post-id="34875" data-author="Magi" data-date="2014-02-18T20:06:26+00:00">
+<div class="post" data-post-id="34875" data-author="Magi" data-date="2014-02-18T20:06:26+00:00" data-subject="Re: Summon Undead Creatures">
 
 You get more duration to your summoned creatures as your Necro level increases past the minimum level to summon them.
 
@@ -32,7 +32,7 @@ It would be nice if it did continue, but I think the immortal consensus is that 
 
 </div>
 
-<div class="post" data-post-id="34878" data-author="celerra7" data-date="2014-02-20T16:27:25+00:00">
+<div class="post" data-post-id="34878" data-author="celerra7" data-date="2014-02-20T16:27:25+00:00" data-subject="Re: Summon Undead Creatures">
 
 I respectfully disagree with your assessment.  Help Summon Undead Creatures lists the following:
 
@@ -48,7 +48,7 @@ Any other thoughts?
 
 </div>
 
-<div class="post" data-post-id="34879" data-author="Magi" data-date="2014-02-20T22:55:34+00:00">
+<div class="post" data-post-id="34879" data-author="Magi" data-date="2014-02-20T22:55:34+00:00" data-subject="Re: Summon Undead Creatures">
 
 I make no claim about how the spell *should* work.
 
@@ -58,7 +58,7 @@ Edit: Reading comprehension. Now I see your point with the poltergeists lasting 
 
 </div>
 
-<div class="post" data-post-id="34880" data-author="*Splork*" data-date="2014-02-21T02:19:26+00:00">
+<div class="post" data-post-id="34880" data-author="*Splork*" data-date="2014-02-21T02:19:26+00:00" data-subject="Re: Summon Undead Creatures">
 
 It is not an oversight and Magi is pretty close to correct. If I summon Polters I get 27 minutes of them:) If I summon any mob which takes a level 40 or more, I get an additional 7 minutes. This is impossible for you guys. Any mob which requires the player the level of 40 necro, will only get 10 max, I believe.
 

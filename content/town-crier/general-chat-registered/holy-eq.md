@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29335" data-author="Ferrum" data-date="2009-06-06T23:11:51+00:00">
+<div class="post" data-post-id="29335" data-author="Ferrum" data-date="2009-06-06T23:11:51+00:00" data-subject="Holy eq">
 
 Could someone explain me why we dont have holy light or holy wrist?
 

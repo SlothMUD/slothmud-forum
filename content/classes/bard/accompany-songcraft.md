@@ -10,13 +10,13 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="9838" data-author="brand" data-date="2005-12-16T21:21:32+00:00">
+<div class="post" data-post-id="9838" data-author="brand" data-date="2005-12-16T21:21:32+00:00" data-subject="accompany &amp; songcraft">
 
 how about a lower level bard skill called accompany that lets you sing or play along with a more experienced bard to help and improve thier songs effectiveness.  or a skill called songcraft (or listen modifier) that let's you know whats currently being played and it's effect.  maybe both could be below level 20.  :idea:  :?:  :twisted:
 
 </div>
 
-<div class="post" data-post-id="9841" data-author="brand" data-date="2005-12-16T21:34:37+00:00">
+<div class="post" data-post-id="9841" data-author="brand" data-date="2005-12-16T21:34:37+00:00" data-subject="">
 
 and i also have a fever for a sub 20 bard instrument called...
 
@@ -24,7 +24,7 @@ the cowbell!
 
 </div>
 
-<div class="post" data-post-id="9842" data-author="kjartan" data-date="2005-12-16T21:42:26+00:00">
+<div class="post" data-post-id="9842" data-author="kjartan" data-date="2005-12-16T21:42:26+00:00" data-subject="">
 
 I like your accompany idea.  I may add that; it could be a charisma bonus to the singer, for example.
 
@@ -32,7 +32,7 @@ I wonder if songcraft is really useful... don't you periodically get "Brand sing
 
 </div>
 
-<div class="post" data-post-id="9843" data-author="brand" data-date="2005-12-16T22:20:55+00:00">
+<div class="post" data-post-id="9843" data-author="brand" data-date="2005-12-16T22:20:55+00:00" data-subject="">
 
 yeah i was thinking along the lines of that
 
@@ -66,13 +66,13 @@ assuming everone is in the same room and and all. bands can rock harder and long
 
 </div>
 
-<div class="post" data-post-id="9844" data-author="12345" data-date="2005-12-16T22:22:25+00:00">
+<div class="post" data-post-id="9844" data-author="12345" data-date="2005-12-16T22:22:25+00:00" data-subject="">
 
 Yeah... and if you can make that skill work while singing, it'd be even better :)
 
 </div>
 
-<div class="post" data-post-id="9845" data-author="blackmore" data-date="2005-12-16T22:25:22+00:00">
+<div class="post" data-post-id="9845" data-author="blackmore" data-date="2005-12-16T22:25:22+00:00" data-subject="">
 
 Songcraft would be interesting for 2 reasons:
 
@@ -84,7 +84,7 @@ I've suggested accompany several times, as well as other similar skills.  They w
 
 </div>
 
-<div class="post" data-post-id="9847" data-author="Clink" data-date="2005-12-17T01:35:55+00:00">
+<div class="post" data-post-id="9847" data-author="Clink" data-date="2005-12-17T01:35:55+00:00" data-subject="">
 
 and i also have a fever for a sub 20 bard instrument called...
 

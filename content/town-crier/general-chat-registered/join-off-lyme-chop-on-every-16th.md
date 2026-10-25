@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="35766" data-author="Teron" data-date="2015-03-17T12:38:44+00:00">
+<div class="post" data-post-id="35766" data-author="Teron" data-date="2015-03-17T12:38:44+00:00" data-subject="Join Off-Lyme Chop on every 16th">
 
 We ran a nice Island group yesterday with just 3 choppers and killed:
 
@@ -40,7 +40,7 @@ P.S.
 
 </div>
 
-<div class="post" data-post-id="35824" data-author="Teron" data-date="2015-04-17T08:21:13+00:00">
+<div class="post" data-post-id="35824" data-author="Teron" data-date="2015-04-17T08:21:13+00:00" data-subject="Re: Join Off-Lyme Chop on every 16th">
 
 This time the game rebooted and crashed just in the morning of the notemp day, so we had to pop specs, even though Splork did give us 5 Specularems - thanks .)
 
@@ -82,7 +82,7 @@ P.S. Sorry I overslept the US evening for the bonus and apparently, the MUD cras
 
 </div>
 
-<div class="post" data-post-id="36461" data-author="Teron" data-date="2016-01-12T10:28:19+00:00">
+<div class="post" data-post-id="36461" data-author="Teron" data-date="2016-01-12T10:28:19+00:00" data-subject="Re: Join Off-Lyme Chop on every 16th">
 
 This 16th falls on Saturday, so here's the plan:
 
@@ -106,7 +106,7 @@ Decide what you want to kill with sharp objects in offlyme or notemp areas.
 
 </div>
 
-<div class="post" data-post-id="36498" data-author="Teron" data-date="2016-01-17T13:16:21+00:00">
+<div class="post" data-post-id="36498" data-author="Teron" data-date="2016-01-17T13:16:21+00:00" data-subject="Re: Join Off-Lyme Chop on every 16th">
 
 Today we killed:
 
@@ -136,7 +136,7 @@ It was fun, but we didn't pop as much as I expected.
 
 </div>
 
-<div class="post" data-post-id="37245" data-author="Teron" data-date="2016-08-15T06:54:47+00:00">
+<div class="post" data-post-id="37245" data-author="Teron" data-date="2016-08-15T06:54:47+00:00" data-subject="Re: Join Off-Lyme Chop on every 16th">
 
 Tomorrow at about 6-7am server time we are going to chop epics for a few hours.
 
@@ -146,7 +146,7 @@ Someone might wonna plan taking over leading from about 10am, too.
 
 </div>
 
-<div class="post" data-post-id="38292" data-author="Teron" data-date="2017-06-15T14:11:49+00:00">
+<div class="post" data-post-id="38292" data-author="Teron" data-date="2017-06-15T14:11:49+00:00" data-subject="Re: Join Off-Lyme Chop on every 16th">
 
 It's been a while I planned an offlyme chop group.
 
@@ -168,7 +168,7 @@ Group's open to everyone, though players under 1x40 might die more often, than o
 
 </div>
 
-<div class="post" data-post-id="38296" data-author="Teron" data-date="2017-06-18T12:09:03+00:00">
+<div class="post" data-post-id="38296" data-author="Teron" data-date="2017-06-18T12:09:03+00:00" data-subject="Re: Join Off-Lyme Chop on every 16th">
 
 So we popped:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="34957" data-author="Hung" data-date="2014-04-04T11:46:52+00:00">
+<div class="post" data-post-id="34957" data-author="Hung" data-date="2014-04-04T11:46:52+00:00" data-subject="Reroll System">
 
 S4 reroll system is much better than S3's. So, first of all, I would like to thank admin for it.
 
@@ -24,7 +24,7 @@ So I would like to make a pair of suggestions:
 
 </div>
 
-<div class="post" data-post-id="34959" data-author="cyprimus" data-date="2014-04-04T19:15:12+00:00">
+<div class="post" data-post-id="34959" data-author="cyprimus" data-date="2014-04-04T19:15:12+00:00" data-subject="Re: Reroll System">
 
 I would like to see a system where you get constant progress... preferably, using tokens to buy them, for example to buy a stat from 6 to 7, you may need 49 tri tokens, then after getting a ten, you need to use 121 hex tokens to get to 11, then after 14 oct tokens... each point getting exponentially more expensive.
 
@@ -32,7 +32,7 @@ Just my token idea..
 
 </div>
 
-<div class="post" data-post-id="34962" data-author="Marvel" data-date="2014-04-04T19:57:16+00:00">
+<div class="post" data-post-id="34962" data-author="Marvel" data-date="2014-04-04T19:57:16+00:00" data-subject="Re: Reroll System">
 
 Your definition of "decent" stats is what most players deem "godly".
 
@@ -46,7 +46,7 @@ The lack of "major" achievements from 4x40-8x40 is a gap - this is true. But tha
 
 </div>
 
-<div class="post" data-post-id="34963" data-author="DarkArtist" data-date="2014-04-04T20:00:08+00:00">
+<div class="post" data-post-id="34963" data-author="DarkArtist" data-date="2014-04-04T20:00:08+00:00" data-subject="Re: Reroll System">
 
 > **Hung wrote:**
 > So similar effort doesn't give similar result in that area.
@@ -59,13 +59,13 @@ Also be aware that the season has changed, and the average number of people onli
 
 </div>
 
-<div class="post" data-post-id="34964" data-author="Hung" data-date="2014-04-05T06:36:45+00:00">
+<div class="post" data-post-id="34964" data-author="Hung" data-date="2014-04-05T06:36:45+00:00" data-subject="Re: Reroll System">
 
 I'd be happy not to complain. But today I got 17 14 16 16 17. It even falls into "decent" category. However I don't like low(for mo/wa) str and dex. So, there's another suggestion. If pre 9x40 stat buying not even considered. How about possibility to transfer points from one stat to another?
 
 </div>
 
-<div class="post" data-post-id="34966" data-author="DarkArtist" data-date="2014-04-05T13:20:14+00:00">
+<div class="post" data-post-id="34966" data-author="DarkArtist" data-date="2014-04-05T13:20:14+00:00" data-subject="Re: Reroll System">
 
 I'm with you 100 percent on that one, I wish the stat order wasn't fixed or at least if the stat order wasn't so stupid for some class combinations. The order should be based on the ideal playable stats for the player but instead they seem to be based on some arbitrary notion about what that class would be like in "real life". And if you complain about it, you just get the answer that some sacrifices have to be made or that some class orders work better. My thought is every class combination should have optimal playing stats rather than some notional realism.  ....end rant....
 
@@ -75,7 +75,7 @@ But don't hold your breath because a code change of this magnitude could only be
 
 </div>
 
-<div class="post" data-post-id="34968" data-author="Hung" data-date="2014-04-05T15:52:11+00:00">
+<div class="post" data-post-id="34968" data-author="Hung" data-date="2014-04-05T15:52:11+00:00" data-subject="Re: Reroll System">
 
 Thanks everyone for the detailed explanation of the situation and sharing your opinions. I totally agree that stat ordering should be reviewed. Martial artists should have strength first. However I'd mostly vote for a stat transferring. I've been rolling Wong for a week. Burned many tokens. Best stat sets I got were:
 
@@ -91,7 +91,7 @@ I think it would be great to let players do 2 point transfer after each reroll, 
 
 </div>
 
-<div class="post" data-post-id="34970" data-author="*Splork*" data-date="2014-04-05T23:28:51+00:00">
+<div class="post" data-post-id="34970" data-author="*Splork*" data-date="2014-04-05T23:28:51+00:00" data-subject="Re: Reroll System">
 
 We probably won't allow stats to be bought before Avatar 40 level or transferred, unless its an extremely rare exception like a quest or something. My own feeling is that this is what eq is for. Godlike or great stats are normally earned through extreme luck ( rarely happens ) or through hours of game play and effort ( to aquire the tokens ).  And many, many of us like the way this works.
 
@@ -103,7 +103,7 @@ I'll banter it between the ranks and see what opinions we have.
 
 </div>
 
-<div class="post" data-post-id="34971" data-author="Hung" data-date="2014-04-06T16:20:29+00:00">
+<div class="post" data-post-id="34971" data-author="Hung" data-date="2014-04-06T16:20:29+00:00" data-subject="Re: Reroll System">
 
 Specifying stat order is great idea I gladly support.
 
@@ -111,7 +111,7 @@ Another suggestion is to add site feature - dummy rolling. It's a page where one
 
 </div>
 
-<div class="post" data-post-id="35133" data-author="Hung" data-date="2014-05-09T09:53:15+00:00">
+<div class="post" data-post-id="35133" data-author="Hung" data-date="2014-05-09T09:53:15+00:00" data-subject="Re: Reroll System">
 
 There's another suggesion. I think it'll be great to have a way to avoid reroll hell for the immensive drachma cost. I.e. 700dr for 80, 850 for 82 and 1000 for 84. Notice: these sums shouldn't be rolls, but a player should be able to spread them how he wants.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9498" data-author="*Splork*" data-date="2005-11-12T20:47:00+00:00">
+<div class="post" data-post-id="9498" data-author="*Splork*" data-date="2005-11-12T20:47:00+00:00" data-subject="Shipping change">
 
 The postmaster will now only keep items for fifteen days, then the items will go into the unclaimed bin. From here, anyone can buy them simply by paying the shipping charges(and maybe some others). Items will remain in the unclaimed bin for five days only and then be discarded by the postmaster.
 

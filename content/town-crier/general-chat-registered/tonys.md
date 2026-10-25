@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="25426" data-author="Roadrunr" data-date="2008-07-21T15:38:32+00:00">
+<div class="post" data-post-id="25426" data-author="Roadrunr" data-date="2008-07-21T15:38:32+00:00" data-subject="tonys">
 
 Am I losing it or what?
 
@@ -62,7 +62,7 @@ I mean I know I usually just use my run alias but I dont have it with me so, eit
 
 </div>
 
-<div class="post" data-post-id="25435" data-author="Rynquald" data-date="2008-07-22T00:07:27+00:00">
+<div class="post" data-post-id="25435" data-author="Rynquald" data-date="2008-07-22T00:07:27+00:00" data-subject="">
 
 Odd that gateway would have acquired 'trunk' as a keyword.
 

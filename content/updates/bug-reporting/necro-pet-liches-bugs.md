@@ -10,7 +10,7 @@ locked: false
 post_count: 55
 ---
 
-<div class="post" data-post-id="31899" data-author="Teron" data-date="2010-10-21T18:14:24+00:00">
+<div class="post" data-post-id="31899" data-author="Teron" data-date="2010-10-21T18:14:24+00:00" data-subject="Necro pet (Liches) bugs">
 
 1) When liches cast curse, they don't take into account, if the mob is already cursed.
 
@@ -54,7 +54,7 @@ Thank you.
 
 </div>
 
-<div class="post" data-post-id="31903" data-author="element" data-date="2010-10-22T02:24:12+00:00">
+<div class="post" data-post-id="31903" data-author="element" data-date="2010-10-22T02:24:12+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 by the time u get through order 1. order 2. order 3.
 
@@ -62,7 +62,7 @@ you're probably dead :D
 
 </div>
 
-<div class="post" data-post-id="31904" data-author="Spink" data-date="2010-10-22T02:36:26+00:00">
+<div class="post" data-post-id="31904" data-author="Spink" data-date="2010-10-22T02:36:26+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 The way I understood it, the suggestion allows the necro to define the behavior of the pet before the fight. 
 
@@ -70,7 +70,7 @@ Then when the fight arrives, order whatever kill target would result in the defi
 
 </div>
 
-<div class="post" data-post-id="31905" data-author="element" data-date="2010-10-22T03:27:42+00:00">
+<div class="post" data-post-id="31905" data-author="element" data-date="2010-10-22T03:27:42+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 I think one of the features of pets is that they behave in a way you don't have total control over.
 
@@ -78,7 +78,7 @@ If u can have one pet blast, one pet debuff, one pet bash or whatever, they'd be
 
 </div>
 
-<div class="post" data-post-id="31907" data-author="Teron" data-date="2010-10-22T06:39:25+00:00">
+<div class="post" data-post-id="31907" data-author="Teron" data-date="2010-10-22T06:39:25+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Spink got it right, I meant the presets to be created and used before fight.
 
@@ -114,7 +114,7 @@ Also, I didn't mention bash: liches don't have this proc. I'm only talking about
 
 </div>
 
-<div class="post" data-post-id="31908" data-author="Spink" data-date="2010-10-22T06:53:40+00:00">
+<div class="post" data-post-id="31908" data-author="Spink" data-date="2010-10-22T06:53:40+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 It strikes me that these would not be overly easy to implement (although I guess I wouldn't know, so just call it an unqualified guess). 
 
@@ -130,7 +130,7 @@ Anyway, I don't really know what I'm doing, so feel free to poke holes.
 
 </div>
 
-<div class="post" data-post-id="31909" data-author="Teron" data-date="2010-10-22T07:36:51+00:00">
+<div class="post" data-post-id="31909" data-author="Teron" data-date="2010-10-22T07:36:51+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 You are right that fixing bugs is easier, than implementing the presets.
 
@@ -142,7 +142,7 @@ Removing debuffs from liches seems like a step back, rather than fixing the actu
 
 </div>
 
-<div class="post" data-post-id="31912" data-author="Thraxas" data-date="2010-10-22T13:36:30+00:00">
+<div class="post" data-post-id="31912" data-author="Thraxas" data-date="2010-10-22T13:36:30+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 I understand your frustration and its frustration I have on occassion felt with necro pets, that said however the bottom line in my view is that necro pets provide necros at all levels (that I have achieved so far) with a balanced level of power.
 
@@ -160,7 +160,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="31921" data-author="Teron" data-date="2010-10-23T04:48:03+00:00">
+<div class="post" data-post-id="31921" data-author="Teron" data-date="2010-10-23T04:48:03+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Thraxas, when I was exping for 3x40, I eagerly anticipated the increase of power of my pets. Using 36lev pets at 2x40 necro (or even far beyond) is not that elegant, don't you think?
 
@@ -187,7 +187,7 @@ Not that I don't appreciate the time and effort the imms put into the mud, but I
 
 </div>
 
-<div class="post" data-post-id="31957" data-author="Teron" data-date="2010-11-04T05:12:02+00:00">
+<div class="post" data-post-id="31957" data-author="Teron" data-date="2010-11-04T05:12:02+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 For those, who doubt that liches don't blast, especially on ether mobs, have feel free to enjoy this log and see how many times liches cast in this fight and what they cast:
 
@@ -761,7 +761,7 @@ For those, who skipped the log, it's 2 curses in 11 rounds. Very helpful.
 
 </div>
 
-<div class="post" data-post-id="31958" data-author="Thraxas" data-date="2010-11-04T09:14:09+00:00">
+<div class="post" data-post-id="31958" data-author="Thraxas" data-date="2010-11-04T09:14:09+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 nice log and tallies with the testing I've done, liches are pointless, as I said they're decoration only rather than serving any functional purpose, do I care, Not at all, necros have other pets that provide adequate power. 
 
@@ -795,7 +795,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31959" data-author="Dragoth" data-date="2010-11-04T11:38:03+00:00">
+<div class="post" data-post-id="31959" data-author="Dragoth" data-date="2010-11-04T11:38:03+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Splork told me he'd look into balancing animated pets above wraiths ages ago and it's still not done, granted he doesnt have alot of time and not many people up till now have complained as wimpy tends to be very quiet when it comes to reporting things to immortals and others are just not high enough level. 
 
@@ -827,7 +827,7 @@ It does seem like necro's have a plethora of pets to choose from,  but in the en
 
 </div>
 
-<div class="post" data-post-id="31960" data-author="Teron" data-date="2010-11-04T12:54:06+00:00">
+<div class="post" data-post-id="31960" data-author="Teron" data-date="2010-11-04T12:54:06+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Thraxas, just to bring this point up again: vampires have a hp suck proc, which would theoretically allow them to last longer, thus prolonging the runs and/or increasing exp/hr. So they are supposed to be useful in a way, other than just being tougher fighters. However, it's not effective, because vampires have low hps and low ac (apparently), because they die too quickly.
 
@@ -839,7 +839,7 @@ I also have to note that liches have 1.5 more pet points, than wights, so if the
 
 </div>
 
-<div class="post" data-post-id="31967" data-author="*Chobbs*" data-date="2010-11-04T23:59:35+00:00">
+<div class="post" data-post-id="31967" data-author="*Chobbs*" data-date="2010-11-04T23:59:35+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Mornin' folks,
 
@@ -851,7 +851,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="31969" data-author="Teron" data-date="2010-11-05T01:32:25+00:00">
+<div class="post" data-post-id="31969" data-author="Teron" data-date="2010-11-05T01:32:25+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 IMHO, starting with wights as the standard is a good idea, because:
 
@@ -869,7 +869,7 @@ Thanks for looking this up, Chobbs.
 
 </div>
 
-<div class="post" data-post-id="31972" data-author="Dragoth" data-date="2010-11-05T09:14:42+00:00">
+<div class="post" data-post-id="31972" data-author="Dragoth" data-date="2010-11-05T09:14:42+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 As far as balance and class progression goes, there is a very very thin line here and you have to be careful with major changes as you have to balance quite a few things right - pet points for every single undead ( pet points go up every 40 levels so you have to account for that and control horde at avatar too ) + hp/ac/damage of every single undead, summon undead vs animate dead + class of undead ( caster vs damage vs high ac pets ) + undead control bonus + combination of those pets and points ( so mixing different pets is viable ) + position of necromancer in class order ( affects both pet points and available pets ) and on top of all of that you have to match them exactly right for the level they can be summoned at and the levels they will be used untill. If you thought making balanced druid forms is hard, then this one will be nightmarish.
 
@@ -883,7 +883,7 @@ Again, if you do plan on major changes for the necromancer pets, i'd check not t
 
 </div>
 
-<div class="post" data-post-id="31976" data-author="Thraxas" data-date="2010-11-05T11:26:17+00:00">
+<div class="post" data-post-id="31976" data-author="Thraxas" data-date="2010-11-05T11:26:17+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 > **Dragoth wrote:**
 > There is also a very clear distinction between summon undead vs animate undead - I have personally always viewed summon undeads as your go-to pets for exp runs and animate deads as a one-run big mob pets, as finding and killing mobs for corpses ultimately eats the time that you could have been exping.
@@ -899,7 +899,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31977" data-author="Dragoth" data-date="2010-11-05T12:31:58+00:00">
+<div class="post" data-post-id="31977" data-author="Dragoth" data-date="2010-11-05T12:31:58+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 @thraxas
 
@@ -911,7 +911,7 @@ I guess i could live with the whole corpse farming thing for my next run if the 
 
 </div>
 
-<div class="post" data-post-id="31978" data-author="Dragoth" data-date="2010-11-05T13:18:19+00:00">
+<div class="post" data-post-id="31978" data-author="Dragoth" data-date="2010-11-05T13:18:19+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 As far as being best at solo ,this is really quite situational and depends on what you are soloing - necro will never be the best at exp soloing because good exp runs always rely on wasting the least resources to kill a mob and this can only be achieved by huge burst damage ( i.e thief or mage ) and as a result taking the least damage. I have experience of both playing a mage and a thief in addition to necro so i am not just theorizing. 
 
@@ -921,7 +921,7 @@ Necro is pretty good for fat eq popping mobs due to our survivability, but again
 
 </div>
 
-<div class="post" data-post-id="31979" data-author="Dragoth" data-date="2010-11-05T13:36:51+00:00">
+<div class="post" data-post-id="31979" data-author="Dragoth" data-date="2010-11-05T13:36:51+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 And lets not forget that pet's arent anything special and that they are essentially just a damage + a form of damage mitigation and not necessary overpowered at all.
 
@@ -945,7 +945,7 @@ All in all necro pets are nothing special and are suited for very specific encou
 
 </div>
 
-<div class="post" data-post-id="31980" data-author="Thraxas" data-date="2010-11-05T19:31:36+00:00">
+<div class="post" data-post-id="31980" data-author="Thraxas" data-date="2010-11-05T19:31:36+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 @Dragoth
 
@@ -957,7 +957,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31981" data-author="Spink" data-date="2010-11-05T20:23:33+00:00">
+<div class="post" data-post-id="31981" data-author="Spink" data-date="2010-11-05T20:23:33+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Well, regardless of what thraxas thinks about it, I liked your exposition, Dragoth. 
 
@@ -967,13 +967,13 @@ I particularly like the comparison to other forms of damage-dealing and mitigati
 
 </div>
 
-<div class="post" data-post-id="31983" data-author="Dragoth" data-date="2010-11-05T21:28:36+00:00">
+<div class="post" data-post-id="31983" data-author="Dragoth" data-date="2010-11-05T21:28:36+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Sorry for offending you Thraxas, sorry i have no experience talking with the older generations. Thanks Spink, glad someone enjoyed it rather than being all high and mighty about how he doesnt want to hear anything he already knows.
 
 </div>
 
-<div class="post" data-post-id="31990" data-author="Teron" data-date="2010-11-07T13:46:01+00:00">
+<div class="post" data-post-id="31990" data-author="Teron" data-date="2010-11-07T13:46:01+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 While there are a lot of factors to be considered, in the end it is indeed math: mana cost to do damage, as Dragoth said. So it shouldn't be too hard to work something out for the necro pets, IMHO.
 
@@ -1003,7 +1003,7 @@ P.S. I think Dragoth addressed his posts to imms, who don't play, rather than mo
 
 </div>
 
-<div class="post" data-post-id="32000" data-author="*Chobbs*" data-date="2010-11-11T02:00:12+00:00">
+<div class="post" data-post-id="32000" data-author="*Chobbs*" data-date="2010-11-11T02:00:12+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Mornin' folks,
 
@@ -1013,7 +1013,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32005" data-author="Dragoth" data-date="2010-11-12T12:56:11+00:00">
+<div class="post" data-post-id="32005" data-author="Dragoth" data-date="2010-11-12T12:56:11+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Thank you Chobbs, for listening and reacting so quickly about this, very professional attitude if i may say so.
 
@@ -1031,13 +1031,13 @@ But anyway, thanks for taking a look at this Chobbs, as it stands now we have ga
 
 </div>
 
-<div class="post" data-post-id="32009" data-author="Teron" data-date="2010-11-13T05:23:48+00:00">
+<div class="post" data-post-id="32009" data-author="Teron" data-date="2010-11-13T05:23:48+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Oh noes, now he stabs wa/nes in the back :(
 
 </div>
 
-<div class="post" data-post-id="32012" data-author="Dragoth" data-date="2010-11-13T14:24:06+00:00">
+<div class="post" data-post-id="32012" data-author="Dragoth" data-date="2010-11-13T14:24:06+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Nah, no way dude, where are you getting that from ? You must have not been paying attention! As what i was saying is the exact opposite- as a wa/ne you will only benefit, but people with wa/dr/cl/ne will be worse off compared to you.
 
@@ -1051,13 +1051,13 @@ This creates another progression step: it makes you want to pop more EQ and it m
 
 </div>
 
-<div class="post" data-post-id="32188" data-author="Dragoth" data-date="2010-12-20T18:31:07+00:00">
+<div class="post" data-post-id="32188" data-author="Dragoth" data-date="2010-12-20T18:31:07+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Chobbs, is there going to be anything else we could expect from you in this department ?  There's alot of work still needed on this if you can spare the time ?
 
 </div>
 
-<div class="post" data-post-id="32193" data-author="Teron" data-date="2010-12-21T20:38:31+00:00">
+<div class="post" data-post-id="32193" data-author="Teron" data-date="2010-12-21T20:38:31+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 I did some minor testing for viles and here's what I found:
 
@@ -1089,7 +1089,7 @@ P.S. Regarding Anrok's suggestion about scaling mana/regen with UC: this isn't t
 
 </div>
 
-<div class="post" data-post-id="32200" data-author="Teron" data-date="2010-12-22T23:54:22+00:00">
+<div class="post" data-post-id="32200" data-author="Teron" data-date="2010-12-22T23:54:22+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 By the way, is it me, or animate dead pets dont get better hit or dam with more UC?
 
@@ -1099,7 +1099,7 @@ Yeah, I'll test this when I get more corpses ;)
 
 </div>
 
-<div class="post" data-post-id="32202" data-author="Thraxas" data-date="2010-12-23T21:41:21+00:00">
+<div class="post" data-post-id="32202" data-author="Thraxas" data-date="2010-12-23T21:41:21+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 I'm in completely 2 minds about necro pets:
 
@@ -1121,7 +1121,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="32204" data-author="Teron" data-date="2010-12-24T07:25:17+00:00">
+<div class="post" data-post-id="32204" data-author="Teron" data-date="2010-12-24T07:25:17+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Thraxas, your 2nd suggestion to scale pets better with all levels is great. In fact, it is one of the options. But from what I understand, imms dont have the time to rework the necro pets completely. Splork said he won't be buffing them either.
 
@@ -1135,7 +1135,7 @@ However, if you scroll back, you'll see that current suggestions is an attempt t
 
 </div>
 
-<div class="post" data-post-id="32205" data-author="Dragoth" data-date="2010-12-24T12:00:53+00:00">
+<div class="post" data-post-id="32205" data-author="Dragoth" data-date="2010-12-24T12:00:53+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Ok, dont take this as an attack on your personality (as people do too often) as its not ment to be one. But I really dont see such a change needed nor wanted and i will tell you why.
 
@@ -1183,7 +1183,7 @@ Level 8x40: Swordwraiths and Dracoliches (Unsure)
 
 </div>
 
-<div class="post" data-post-id="32206" data-author="Dragoth" data-date="2010-12-24T12:19:53+00:00">
+<div class="post" data-post-id="32206" data-author="Dragoth" data-date="2010-12-24T12:19:53+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 I, unlike others, also remember the terrible times when sloth4 just started; Splork tweaked the code a little bit ( as part of the big conversion from sloth3 to sloth4) and it caused necros to have 1 wraith untill 4x40 and wights were three times as powerful as a pet at 1x40 as opposed to wraith's which required 2x40 to be summoned. At 3x40 i could summon 1 vilewight which was just as crap as it is now..
 
@@ -1203,7 +1203,7 @@ Right now, im 85% happy with how the system works and i would not want anyone ch
 
 </div>
 
-<div class="post" data-post-id="32207" data-author="Teron" data-date="2010-12-24T13:32:59+00:00">
+<div class="post" data-post-id="32207" data-author="Teron" data-date="2010-12-24T13:32:59+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 I have tested all the 1-40 pets briefly as I was progressing with levels and only ghast was useful apart from wights.
 
@@ -1221,7 +1221,7 @@ But this will too require lots of effort, other than simply tweaking mobs one by
 
 </div>
 
-<div class="post" data-post-id="32208" data-author="Dragoth" data-date="2010-12-24T13:52:22+00:00">
+<div class="post" data-post-id="32208" data-author="Dragoth" data-date="2010-12-24T13:52:22+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 I do understand what you are saying Teron, but i just feel that anything major can be counter-productive as this whole system can come crashing down like a house of cards as everything is built on delicately matching undead pet weights and giving enough pet points to necros to animate sensible undeads.
 
@@ -1231,7 +1231,7 @@ However, we all need to agree together on what we think needs to be done before 
 
 </div>
 
-<div class="post" data-post-id="32209" data-author="Teron" data-date="2010-12-24T14:03:11+00:00">
+<div class="post" data-post-id="32209" data-author="Teron" data-date="2010-12-24T14:03:11+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 I don't see how anything stops other necros voicing their concerns here.
 
@@ -1241,13 +1241,13 @@ What form of a necro guild do you propose? An online meeting (a group or a chann
 
 </div>
 
-<div class="post" data-post-id="32211" data-author="Dragoth" data-date="2010-12-24T14:19:32+00:00">
+<div class="post" data-post-id="32211" data-author="Dragoth" data-date="2010-12-24T14:19:32+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 When we are online we can Group together, channel talk, send mudmail, even if only 2 of us can agree on something, then we can just make a mudmail and send it to Thraxas (since he's an avid and opinionated forum user too  8) ) and if he agrees on it we can send it over to other necros to take objections and if there are none we propose it to immortals.
 
 </div>
 
-<div class="post" data-post-id="32212" data-author="Thraxas" data-date="2010-12-24T22:16:53+00:00">
+<div class="post" data-post-id="32212" data-author="Thraxas" data-date="2010-12-24T22:16:53+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 > **Dragoth wrote:**
 > When we are online we can Group together, channel talk, send mudmail, even if only 2 of us can agree on something, then we can just make a mudmail and send it to Thraxas (since he's an avid and opinionated forum user too  8) ) and if he agrees on it we can send it over to other necros to take objections and if there are none we propose it to immortals.
@@ -1300,7 +1300,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="32213" data-author="Teron" data-date="2010-12-25T03:08:28+00:00">
+<div class="post" data-post-id="32213" data-author="Teron" data-date="2010-12-25T03:08:28+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Well, those numbers have to correlate with firewind and hand dam monk damage (and other stuff) to make sense.
 
@@ -1310,7 +1310,7 @@ Thraxas, are you sure that it's better to do nothing, other than adding some min
 
 </div>
 
-<div class="post" data-post-id="32215" data-author="Dragoth" data-date="2010-12-25T11:11:30+00:00">
+<div class="post" data-post-id="32215" data-author="Dragoth" data-date="2010-12-25T11:11:30+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Replacing a system that has been on sloth for 4? years with something Thraxas just made up on the spot..yeah thats very likely to happen.
 
@@ -1318,13 +1318,13 @@ I suggest we stop discussing these delusions and focus our attention on some rea
 
 </div>
 
-<div class="post" data-post-id="32216" data-author="Dragoth" data-date="2010-12-25T11:16:52+00:00">
+<div class="post" data-post-id="32216" data-author="Dragoth" data-date="2010-12-25T11:16:52+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 The real current problem is and i agree with Taron is that vilewights are really bad and have been bad since i was talking to Splork about them 1 year or so ago. In their current form they should either not weight more than a lich in pet points, or they should be considerably buffed. Noone in their right mind would give up 1.7 liches or 1.8 wraiths for 1 vilewight. I understand the concept of a tank pet and they do take alot of hits and put a semi-useful debuff on the target, but i sacrifice too much to have one of them.
 
 </div>
 
-<div class="post" data-post-id="32217" data-author="Thraxas" data-date="2010-12-25T11:18:00+00:00">
+<div class="post" data-post-id="32217" data-author="Thraxas" data-date="2010-12-25T11:18:00+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 > **Teron wrote:**
 > Thraxas, are you sure that it's better to do nothing, other than adding some minor power to vilewights, phantoms and bonesnarls?
@@ -1337,7 +1337,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="32218" data-author="Dragoth" data-date="2010-12-25T11:45:57+00:00">
+<div class="post" data-post-id="32218" data-author="Dragoth" data-date="2010-12-25T11:45:57+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 a) the invitation was open for ingame discussions not onboard discussion, but that would lead to me telling you the exact same thing: put more thought into what you propose before you propose it. 
 
@@ -1347,7 +1347,7 @@ And despite what you may think Thraxas, crier discussions have led to ALOT of re
 
 </div>
 
-<div class="post" data-post-id="32219" data-author="Dragoth" data-date="2010-12-25T11:56:58+00:00">
+<div class="post" data-post-id="32219" data-author="Dragoth" data-date="2010-12-25T11:56:58+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 P.S. Even if we all agreed that the current code was crap and needed to be reworked there would have to be a genius solution on paper and alot of immortal involvement to warrant such a huge change which would take months to implement and check for bugs followed by months of ingame testing to make sure its working exactly as intended. 
 
@@ -1355,7 +1355,7 @@ Right now there isnt even a consensus that the current code is bad and yet you k
 
 </div>
 
-<div class="post" data-post-id="32220" data-author="Teron" data-date="2010-12-25T16:36:55+00:00">
+<div class="post" data-post-id="32220" data-author="Teron" data-date="2010-12-25T16:36:55+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Well, I think that by posting the little bits here the imms will see where the pets are lacking and will decide, whether it's worth an overhaul or not.
 
@@ -1365,7 +1365,7 @@ Right now, however, there isn't enough information and it's possibly best to tin
 
 </div>
 
-<div class="post" data-post-id="32221" data-author="Thraxas" data-date="2010-12-25T23:29:14+00:00">
+<div class="post" data-post-id="32221" data-author="Thraxas" data-date="2010-12-25T23:29:14+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Fair enough Teron & Dragoth, you dont agree with my 2nd choice suggestion of a complete overhaul, personally I think neither of you have put enough work into finding ways to make necro as it stands work to know a great deal about what you're talking about instead falling back on crier whinging and you've dismissed my secondry suggestion out of hand without putting anything like as much thought into considering it as went into proposing it, but there we go.
 
@@ -1377,7 +1377,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="32222" data-author="Teron" data-date="2010-12-26T01:16:18+00:00">
+<div class="post" data-post-id="32222" data-author="Teron" data-date="2010-12-26T01:16:18+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Thraxas, what made you think that we have done little testing?
 
@@ -1387,13 +1387,13 @@ Thank you.
 
 </div>
 
-<div class="post" data-post-id="32223" data-author="Tuck" data-date="2010-12-26T12:21:53+00:00">
+<div class="post" data-post-id="32223" data-author="Tuck" data-date="2010-12-26T12:21:53+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 just another silly flame message :P
 
 </div>
 
-<div class="post" data-post-id="32225" data-author="*Splork*" data-date="2010-12-26T14:17:35+00:00">
+<div class="post" data-post-id="32225" data-author="*Splork*" data-date="2010-12-26T14:17:35+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 This much I will say, we appreciate player involvement and opinions regarding what needs to be looked at and possibly approved with our game. However, we will not be performing a complete overhaul of necromancer pet points. It has taken us years to get the system as balanced as it stands now and starting over is not the smartest option.  For the most part, and it is and has been proved ingame, we are happy with Necromancer class and their pets. We do realize that there need to be some adjustments made but they will not be very drastic. The pet point system involves other classes and is probably overly confusing, however it does work quite well for what we have been trying to achieve, at least for the most part.
 
@@ -1409,7 +1409,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32226" data-author="Dragoth" data-date="2010-12-26T16:22:58+00:00">
+<div class="post" data-post-id="32226" data-author="Dragoth" data-date="2010-12-26T16:22:58+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 This is exactly how i feel about it Splork, thanks for responding.
 
@@ -1445,7 +1445,7 @@ The only thing that bothers me a little is that after talking with wimpy his 4 w
 
 </div>
 
-<div class="post" data-post-id="32228" data-author="*Splork*" data-date="2010-12-26T18:04:36+00:00">
+<div class="post" data-post-id="32228" data-author="*Splork*" data-date="2010-12-26T18:04:36+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Someone who simply looks at the code, such as Kjartan, would never know the requirements you just posted. However, since most of us up here have done what you mentioned thousands of times, I am a little taken back by that post. 
 
@@ -1459,7 +1459,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32230" data-author="Dragoth" data-date="2010-12-26T19:44:48+00:00">
+<div class="post" data-post-id="32230" data-author="Dragoth" data-date="2010-12-26T19:44:48+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 Well, sorry Splork, i certainly wasnt trying to say that every immortal hasnt got a clue about what its like to play this game, but being a realist i do not expect everyone to know how to play a necromancer and the little quirks that one only knows from alot of experience with this class. 
 
@@ -1467,7 +1467,7 @@ I was just trying to point out a potential cause for problems and that there are
 
 </div>
 
-<div class="post" data-post-id="32236" data-author="Thraxas" data-date="2010-12-28T00:02:22+00:00">
+<div class="post" data-post-id="32236" data-author="Thraxas" data-date="2010-12-28T00:02:22+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
 > **Thraxas wrote:**
 > ... Necro pets are not broken, they work fine ... the class is powerful enough at all levels without being unbalanced no changes are needed ...

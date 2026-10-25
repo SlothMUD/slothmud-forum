@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="32124" data-author="jezer" data-date="2010-12-07T19:12:02+00:00">
+<div class="post" data-post-id="32124" data-author="jezer" data-date="2010-12-07T19:12:02+00:00" data-subject="Wikileaks">
 
 Any Comments? For/Against?
 
@@ -20,7 +20,7 @@ http://www.cnbc.com/id/40551046
 
 </div>
 
-<div class="post" data-post-id="32125" data-author="Thraxas" data-date="2010-12-07T21:00:09+00:00">
+<div class="post" data-post-id="32125" data-author="Thraxas" data-date="2010-12-07T21:00:09+00:00" data-subject="Re: Wikileaks">
 
 Suspicious that he's had a warrent issued for his extrodition for charges previously dropped within days of the posts starting to go up especially when the prosecution refuses to discuss charges with or take calls from his lawyers. 
 
@@ -30,7 +30,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="32126" data-author="mahkra" data-date="2010-12-07T21:52:03+00:00">
+<div class="post" data-post-id="32126" data-author="mahkra" data-date="2010-12-07T21:52:03+00:00" data-subject="Re: Wikileaks">
 
 The charges he is being brought in on are basically for the condom breaking mid stride and him not stopping when told to. not your traditional rape case. 
 
@@ -48,7 +48,7 @@ Edit: Ah look they upgraded the charge from sex by surprise to full fledged rape
 
 </div>
 
-<div class="post" data-post-id="32127" data-author="jezer" data-date="2010-12-08T01:41:19+00:00">
+<div class="post" data-post-id="32127" data-author="jezer" data-date="2010-12-08T01:41:19+00:00" data-subject="Re: Wikileaks">
 
 Wikileaks is currently mirrored on 1005 sites. 
 
@@ -58,13 +58,13 @@ A 1.4GB file labelled "insurance" with a 256bit encryption key required to open 
 
 </div>
 
-<div class="post" data-post-id="32136" data-author="jezer" data-date="2010-12-10T09:29:33+00:00">
+<div class="post" data-post-id="32136" data-author="jezer" data-date="2010-12-10T09:29:33+00:00" data-subject="Re: Wikileaks">
 
 How hypocritical of mastercard and visa... they don't have a conscience when people buy porn, drugs, weapons and gamble using there financial services and then all of a sudden they have one when it's Wikileaks and Julian Assange! Skeptical much? Let the truth come out I say. What does an honest man have to hide?
 
 </div>
 
-<div class="post" data-post-id="32137" data-author="Tuck" data-date="2010-12-10T10:30:39+00:00">
+<div class="post" data-post-id="32137" data-author="Tuck" data-date="2010-12-10T10:30:39+00:00" data-subject="Re: Wikileaks">
 
 ![](http://static.funnyjunk.com/pictures/5e9b2038_2ff1_5fe4.jpg)
 

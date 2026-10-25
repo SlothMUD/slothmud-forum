@@ -10,7 +10,7 @@ locked: true
 post_count: 1
 ---
 
-<div class="post" data-post-id="30973" data-author="*Splork*" data-date="2010-03-17T11:40:29+00:00">
+<div class="post" data-post-id="30973" data-author="*Splork*" data-date="2010-03-17T11:40:29+00:00" data-subject="Talking mobs">
 
 I am posting this again because the masses have no clue this feature exists and it can make the game that much easier to learn for a new player. 
 

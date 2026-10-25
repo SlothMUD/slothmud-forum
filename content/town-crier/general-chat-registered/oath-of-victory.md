@@ -10,13 +10,13 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="14995" data-author="Guinex" data-date="2006-11-05T08:07:39+00:00">
+<div class="post" data-post-id="14995" data-author="Guinex" data-date="2006-11-05T08:07:39+00:00" data-subject="Oath of Victory">
 
 Just out of curiosity does this skill make the mob target the last person to swear and oath, and also it seems like it gives them at least a +4 to hitroll?  Just from my observation is this meant to be a death trap, or is it not functioning properly.
 
 </div>
 
-<div class="post" data-post-id="14999" data-author="Vixn" data-date="2006-11-05T11:13:32+00:00">
+<div class="post" data-post-id="14999" data-author="Vixn" data-date="2006-11-05T11:13:32+00:00" data-subject="">
 
 I just ask imms to show me - how it could be useful? Both oaths, sandstorm, endure pain, quilin (supplicant) etc.
 
@@ -24,7 +24,7 @@ Maybe I don't pay much attention to new spells/skills but some of them seems ver
 
 </div>
 
-<div class="post" data-post-id="15026" data-author="*juggleblood*" data-date="2006-11-06T09:49:25+00:00">
+<div class="post" data-post-id="15026" data-author="*juggleblood*" data-date="2006-11-06T09:49:25+00:00" data-subject="">
 
 *bump*
 
@@ -36,7 +36,7 @@ While I'm asking, what does a cacaodemon supplicant do exactly?
 
 </div>
 
-<div class="post" data-post-id="15031" data-author="Autolycos" data-date="2006-11-06T14:17:51+00:00">
+<div class="post" data-post-id="15031" data-author="Autolycos" data-date="2006-11-06T14:17:51+00:00" data-subject="">
 
 defy pain is great,  
 
@@ -44,7 +44,7 @@ i'm not sure exactly the factors of %'s of damage reduction, but i have started 
 
 </div>
 
-<div class="post" data-post-id="15037" data-author="Vixn" data-date="2006-11-06T16:35:44+00:00">
+<div class="post" data-post-id="15037" data-author="Vixn" data-date="2006-11-06T16:35:44+00:00" data-subject="">
 
 *bump*
 
@@ -60,7 +60,7 @@ don't know why do they think it's useful creature.
 
 </div>
 
-<div class="post" data-post-id="15054" data-author="kjartan" data-date="2006-11-06T23:18:01+00:00">
+<div class="post" data-post-id="15054" data-author="kjartan" data-date="2006-11-06T23:18:01+00:00" data-subject="">
 
 I don't have the code in front of me, and I have essentially no long term memory, so even though I coded the oaths this may be totally inaccurate.  But:
 
@@ -74,13 +74,13 @@ Also, you have to know it to get the other oaths.  Well, the other oath, but eve
 
 </div>
 
-<div class="post" data-post-id="15055" data-author="kjartan" data-date="2006-11-06T23:19:42+00:00">
+<div class="post" data-post-id="15055" data-author="kjartan" data-date="2006-11-06T23:19:42+00:00" data-subject="">
 
 And the qilin is supposed to be a good mount.  It may have gotten nerfed at some point, or maybe not.  Doesn't the monograph cover it?
 
 </div>
 
-<div class="post" data-post-id="15061" data-author="Assirian" data-date="2006-11-07T16:02:39+00:00">
+<div class="post" data-post-id="15061" data-author="Assirian" data-date="2006-11-07T16:02:39+00:00" data-subject="">
 
 I found oath of victory useful in some chop-style areas due to saving some eaudaemon's mana :)
 
@@ -90,19 +90,19 @@ Cacodaemon is the best single-corpse fighting supplicant... and it is nice for l
 
 </div>
 
-<div class="post" data-post-id="15063" data-author="Guinex" data-date="2006-11-07T18:20:17+00:00">
+<div class="post" data-post-id="15063" data-author="Guinex" data-date="2006-11-07T18:20:17+00:00" data-subject="">
 
 How are the attacks directed when this oath is sung?  In a situation where i was 2.tank, Im 99% sure those attacks are not directed at the person the mob is directly fighting(tank), well almost all but 1 are not hitting the tank.
 
 </div>
 
-<div class="post" data-post-id="15065" data-author="tincts" data-date="2006-11-07T21:05:24+00:00">
+<div class="post" data-post-id="15065" data-author="tincts" data-date="2006-11-07T21:05:24+00:00" data-subject="">
 
 Pretty sure that once you oath, you are no longer protected - so you basicall end up being the top of a/the prot chain
 
 </div>
 
-<div class="post" data-post-id="15066" data-author="12345" data-date="2006-11-07T23:35:44+00:00">
+<div class="post" data-post-id="15066" data-author="12345" data-date="2006-11-07T23:35:44+00:00" data-subject="">
 
 If I recall correctly when the oath was implemented, it was mentioned that the gods did not value the oaths of someone who wasn't in danger to start with.
 
@@ -112,7 +112,7 @@ I'm not sure what the exact mechanism is, but if you give the oath, it's like be
 
 </div>
 
-<div class="post" data-post-id="15085" data-author="Elsie" data-date="2006-11-08T14:25:25+00:00">
+<div class="post" data-post-id="15085" data-author="Elsie" data-date="2006-11-08T14:25:25+00:00" data-subject="">
 
 fairly new to this oath of victory, still trying to work it out.
 
@@ -156,13 +156,13 @@ I'm not complaining or questioning how Oath of Victory should work, only trying 
 
 </div>
 
-<div class="post" data-post-id="15177" data-author="Elsie" data-date="2006-11-13T14:43:55+00:00">
+<div class="post" data-post-id="15177" data-author="Elsie" data-date="2006-11-13T14:43:55+00:00" data-subject="">
 
 is there anyone who can offer some advice on these oaths?
 
 </div>
 
-<div class="post" data-post-id="15178" data-author="Assirian" data-date="2006-11-13T15:09:05+00:00">
+<div class="post" data-post-id="15178" data-author="Assirian" data-date="2006-11-13T15:09:05+00:00" data-subject="">
 
 You will see when you lose tour honor.
 
@@ -172,7 +172,7 @@ also, you can't flee or recall if sweared...
 
 </div>
 
-<div class="post" data-post-id="15180" data-author="kjartan" data-date="2006-11-13T17:34:15+00:00">
+<div class="post" data-post-id="15180" data-author="kjartan" data-date="2006-11-13T17:34:15+00:00" data-subject="">
 
 There are three outcomes for an oath of victory: success, failure, or it-doesn't-count.  Mostly actions that would cause failure are blocked by the oath, so the main way you can fail is to die. 
 
@@ -180,7 +180,7 @@ Honor has two parts, (1) what fraction of oaths have you kept and (2) how many o
 
 </div>
 
-<div class="post" data-post-id="15192" data-author="Guinex" data-date="2006-11-14T18:07:28+00:00">
+<div class="post" data-post-id="15192" data-author="Guinex" data-date="2006-11-14T18:07:28+00:00" data-subject="">
 
 So I am going to assume that these oaths are meant to be for tanks or soloing....
 

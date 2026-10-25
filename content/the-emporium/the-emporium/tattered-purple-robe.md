@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1120" data-author="Avatar" data-date="2004-07-18T16:05:50+00:00">
+<div class="post" data-post-id="1120" data-author="Avatar" data-date="2004-07-18T16:05:50+00:00" data-subject="Tattered Purple Robe">
 
 Just an advertisement that there's a tattered purple robe on the chopping block.  I don't know if people keeping current on forums see items on the block automatically.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="838" data-author="Dragoth" data-date="2004-06-23T00:54:38+00:00">
+<div class="post" data-post-id="838" data-author="Dragoth" data-date="2004-06-23T00:54:38+00:00" data-subject="helm of fiery radiance">
 
 2mil min, 4mil buyout
 

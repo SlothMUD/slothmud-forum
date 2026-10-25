@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="6166" data-author="brand" data-date="2005-05-16T20:20:20+00:00">
+<div class="post" data-post-id="6166" data-author="brand" data-date="2005-05-16T20:20:20+00:00" data-subject="fishing open for players?">
 
 Ancient Dock
 
@@ -30,7 +30,7 @@ I would murder this old man dead to fish here :idea:  :twisted:
 
 </div>
 
-<div class="post" data-post-id="6167" data-author="Weasel" data-date="2005-05-16T20:43:02+00:00">
+<div class="post" data-post-id="6167" data-author="Weasel" data-date="2005-05-16T20:43:02+00:00" data-subject="">
 
 backstab old-man
 

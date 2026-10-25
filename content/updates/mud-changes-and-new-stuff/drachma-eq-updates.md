@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39175" data-author="Driven" data-date="2019-04-24T13:42:10+00:00">
+<div class="post" data-post-id="39175" data-author="Driven" data-date="2019-04-24T13:42:10+00:00" data-subject="Drachma eq updates">
 
 Ladies and gentlemen, we have released a significant update to the drachma gear to bring it up to snuff with the current state of the game.  A number of existing items have been either updated to something more appropriate or have been replaced altogether with a new item, as to not upset the balance of items available for each class.  These changes should be reflected in the original shop that the item was sold in.  In addition to updating/replacing older items, we have added two new items per class, which are available from a new vendor east of Moonglum.  Tylvaen Thunderclaw gives his kind greetings.
 
@@ -204,7 +204,7 @@ Completely new items at Tylvaen Thunderclaw
 
 </div>
 
-<div class="post" data-post-id="39514" data-author="Driven" data-date="2020-07-07T14:12:42+00:00">
+<div class="post" data-post-id="39514" data-author="Driven" data-date="2020-07-07T14:12:42+00:00" data-subject="Re: Drachma eq updates">
 
 Based on requests from several folks, I have restored the following three items to the Drachma stores.  They were originally removed thinking that they were irrelevant to the game, but the rebirth shop has changed things such that they may be relevant again for certain eqsets.  Enjoy.
 

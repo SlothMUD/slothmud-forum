@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="35892" data-author="*Splork*" data-date="2015-05-13T13:42:34+00:00">
+<div class="post" data-post-id="35892" data-author="*Splork*" data-date="2015-05-13T13:42:34+00:00" data-subject="Server update/move-&amp;gt;downtime">
 
 Our server is being moved to a better facility this Friday.
 
@@ -22,7 +22,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35893" data-author="Filk" data-date="2015-05-13T14:35:58+00:00">
+<div class="post" data-post-id="35893" data-author="Filk" data-date="2015-05-13T14:35:58+00:00" data-subject="Re: Server update/move-&amp;gt;downtime">
 
 Wow, thats cool. Do we really use so much bandwich now, to see any difference? I had feeling that whole server could fit into 10mbps, with type of content mud uses(and its ability to compress).
 
@@ -30,7 +30,7 @@ Though still, better not worse anyway :)
 
 </div>
 
-<div class="post" data-post-id="35894" data-author="*Breeze*" data-date="2015-05-13T18:31:07+00:00">
+<div class="post" data-post-id="35894" data-author="*Breeze*" data-date="2015-05-13T18:31:07+00:00" data-subject="Re: Server update/move-&amp;gt;downtime">
 
 I am considering doing an old style CHAOS boot, or just opening up my cport and doing something for the 2hrs downtime. Any ideas? (No eq prizes etc)
 
@@ -42,7 +42,7 @@ Breeze@ SlothMUD d0t org
 
 </div>
 
-<div class="post" data-post-id="35895" data-author="Yasik" data-date="2015-05-14T06:53:32+00:00">
+<div class="post" data-post-id="35895" data-author="Yasik" data-date="2015-05-14T06:53:32+00:00" data-subject="Re: Server update/move-&amp;gt;downtime">
 
 My 5 cents.
 
@@ -52,7 +52,7 @@ Also, you cant measure the Delay using funky browser flash tools, because browse
 
 </div>
 
-<div class="post" data-post-id="35897" data-author="Toxis" data-date="2015-05-14T09:11:09+00:00">
+<div class="post" data-post-id="35897" data-author="Toxis" data-date="2015-05-14T09:11:09+00:00" data-subject="Re: Server update/move-&amp;gt;downtime">
 
 I think it would rock if we could all log in a level av 40 with 100% pop rates and 10d10+20 Breeze Swords!
 
@@ -60,7 +60,7 @@ Hail yeah!
 
 </div>
 
-<div class="post" data-post-id="35898" data-author="Teron" data-date="2015-05-14T10:31:40+00:00">
+<div class="post" data-post-id="35898" data-author="Teron" data-date="2015-05-14T10:31:40+00:00" data-subject="Re: Server update/move-&amp;gt;downtime">
 
 Judging by the stability, RAM and server software modules/versioning is more important, than bandwidth. Unless we had bandwidth-hungry neighours on the previous hosting.
 
@@ -70,19 +70,19 @@ Then again, thanks for the move - if it's better, so much the better.
 
 </div>
 
-<div class="post" data-post-id="35899" data-author="*Splork*" data-date="2015-05-14T13:25:15+00:00">
+<div class="post" data-post-id="35899" data-author="*Splork*" data-date="2015-05-14T13:25:15+00:00" data-subject="Re: Server update/move-&amp;gt;downtime">
 
 We are not switching hosts, our host is simply moving us to their  new Tier 4 Date Center which was recently finished.
 
 </div>
 
-<div class="post" data-post-id="35900" data-author="Unsub" data-date="2015-05-14T13:38:44+00:00">
+<div class="post" data-post-id="35900" data-author="Unsub" data-date="2015-05-14T13:38:44+00:00" data-subject="Re: Server update/move-&amp;gt;downtime">
 
 Thanks for the constantly improving mud.
 
 </div>
 
-<div class="post" data-post-id="35901" data-author="Ker" data-date="2015-05-14T15:03:12+00:00">
+<div class="post" data-post-id="35901" data-author="Ker" data-date="2015-05-14T15:03:12+00:00" data-subject="Re: Server update/move-&amp;gt;downtime">
 
 Agreed - thank you for making it a better place.
 
@@ -90,7 +90,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="35903" data-author="*Splork*" data-date="2015-05-16T04:25:29+00:00">
+<div class="post" data-post-id="35903" data-author="*Splork*" data-date="2015-05-16T04:25:29+00:00" data-subject="Connect at IP...">
 
 Please use the following IP to connect until our DNS is updated 71.19.249.122
 

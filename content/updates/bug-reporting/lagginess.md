@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="36080" data-author="Dragoth" data-date="2015-09-09T08:34:19+00:00">
+<div class="post" data-post-id="36080" data-author="Dragoth" data-date="2015-09-09T08:34:19+00:00" data-subject="Lagginess">
 
 Alright, since I do have some tools at my disposal that can actually analyze this, I wanted to raise this issue and it's been bugging me for awhile now.
 
@@ -206,7 +206,7 @@ On an unrelated note, I had this error pop up when I disabled mccp compression.
 
 </div>
 
-<div class="post" data-post-id="36081" data-author="Dragoth" data-date="2015-09-09T08:59:59+00:00">
+<div class="post" data-post-id="36081" data-author="Dragoth" data-date="2015-09-09T08:59:59+00:00" data-subject="Re: Lagginess">
 
 And just to make sure that this was not normal, i tested this on another mud, which had around 200 players online (which should load the server more ?) 
 
@@ -366,7 +366,7 @@ But the response times are just lightning quick
 
 </div>
 
-<div class="post" data-post-id="36082" data-author="Dragoth" data-date="2015-09-09T10:28:32+00:00">
+<div class="post" data-post-id="36082" data-author="Dragoth" data-date="2015-09-09T10:28:32+00:00" data-subject="Re: Lagginess">
 
 Here is another one just for the sake of it, a mud without a dedicated server and location is a bit closer to where ours is, so pings are comparable. 
 
@@ -474,7 +474,7 @@ What is wrong with our mud ?
 
 </div>
 
-<div class="post" data-post-id="36083" data-author="*Splork*" data-date="2015-09-09T11:53:18+00:00">
+<div class="post" data-post-id="36083" data-author="*Splork*" data-date="2015-09-09T11:53:18+00:00" data-subject="Re: Lagginess">
 
 We added tracking of many functions back when we tracked down a huge cause of lag about a decade ago and from what we are seeing, there doesn't appear to be any issues. I've also grepped logs of last 10 days and Crumbs is the only character who even mentions in-game lag. I feel like a cable company rep saying this but this would normally point me to towards something on your end...
 
@@ -543,7 +543,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="36084" data-author="Dragoth" data-date="2015-09-09T12:43:49+00:00">
+<div class="post" data-post-id="36084" data-author="Dragoth" data-date="2015-09-09T12:43:49+00:00" data-subject="Re: Lagginess">
 
 Alright so this issue started bothering me a few days ago and the only reason I decided to actually bother with all of this, is because I really felt the game become much more responsive after shapeshifting was disabled due to a bug and after it got enabled the game hasn't been the same to me and in the last few days the lagging got outright bad (despite OK pings) so I thought that's it and decided that it might be a good time to install a second ISP line into this apartment, wanted to do that for some time anyhow.
 
@@ -649,13 +649,13 @@ Link to desktop image with debugger running
 
 </div>
 
-<div class="post" data-post-id="36085" data-author="Filk" data-date="2015-09-09T17:07:00+00:00">
+<div class="post" data-post-id="36085" data-author="Filk" data-date="2015-09-09T17:07:00+00:00" data-subject="Re: Lagginess">
 
 I guess that shapeshift off thing could be repeated on test port? And Dragoth could do his test there. Might be some good point too look at things if lag will gone there with that change...
 
 </div>
 
-<div class="post" data-post-id="36087" data-author="Dragoth" data-date="2015-09-10T07:16:13+00:00">
+<div class="post" data-post-id="36087" data-author="Dragoth" data-date="2015-09-10T07:16:13+00:00" data-subject="Re: Lagginess">
 
 ![](http://i.imgur.com/pIECYEb.jpg)
 
@@ -717,7 +717,7 @@ I guess that shapeshift off thing could be repeated on test port? And Dragoth co
 
 </div>
 
-<div class="post" data-post-id="36088" data-author="Dragoth" data-date="2015-09-10T08:02:51+00:00">
+<div class="post" data-post-id="36088" data-author="Dragoth" data-date="2015-09-10T08:02:51+00:00" data-subject="Re: Lagginess">
 
 What doesn't make sense to me, is that I've been told that creators pay nearly $1,000 a year to host this game.
 
@@ -731,7 +731,7 @@ So if this issue is something that we have to live with, you should seriously st
 
 </div>
 
-<div class="post" data-post-id="36091" data-author="Dragoth" data-date="2015-09-10T10:23:39+00:00">
+<div class="post" data-post-id="36091" data-author="Dragoth" data-date="2015-09-10T10:23:39+00:00" data-subject="Re: Lagginess">
 
 Here i tested one of the muds that's hosted by a budget hoster [http://www.genesismuds.com/](http://www.genesismuds.com/)
 
@@ -743,7 +743,7 @@ Pings are great and ingame delays are only 2x ping, feels pretty smooth for 10 b
 
 </div>
 
-<div class="post" data-post-id="36092" data-author="*Breeze*" data-date="2015-09-10T12:54:32+00:00">
+<div class="post" data-post-id="36092" data-author="*Breeze*" data-date="2015-09-10T12:54:32+00:00" data-subject="Re: Lagginess">
 
 4 points to consider..
 
@@ -841,7 +841,7 @@ traceroute is better, but its not a discussion i care to have.
 
 </div>
 
-<div class="post" data-post-id="36093" data-author="*teker*" data-date="2015-09-10T14:31:52+00:00">
+<div class="post" data-post-id="36093" data-author="*teker*" data-date="2015-09-10T14:31:52+00:00" data-subject="Re: Lagginess">
 
 The original diku code that we're still running on breaks time up into 250ms pulses.  That means that users can't execute more than 1 command every 250ms or more than 4 commands per second.  It doesn't matter what the command is - that's the maximum the game will process.  The rest get queued up and are execute "as fast as possible" but never faster than 1 command every 250ms.  That includes hitting enter on a blank line to view your prompt.
 
@@ -853,7 +853,7 @@ I have no problem working on this sort of thing - but it takes time and a ton of
 
 </div>
 
-<div class="post" data-post-id="36094" data-author="Dragoth" data-date="2015-09-10T14:33:37+00:00">
+<div class="post" data-post-id="36094" data-author="Dragoth" data-date="2015-09-10T14:33:37+00:00" data-subject="Re: Lagginess">
 
 Pings have little relevance to ingame lagg as seen from my log, games with nearly the same pings have very different ingame responses..
 
@@ -871,7 +871,7 @@ There are hosters that allow unlimited ram usage and still charge around 20-30 b
 
 </div>
 
-<div class="post" data-post-id="36095" data-author="Dragoth" data-date="2015-09-10T14:35:12+00:00">
+<div class="post" data-post-id="36095" data-author="Dragoth" data-date="2015-09-10T14:35:12+00:00" data-subject="Re: Lagginess">
 
 > ***teker* wrote:**
 > The original diku code that we're still running on breaks time up into 250ms pulses.  That means that users can't execute more than 1 command every 250ms or more than 4 commands per second.  It doesn't matter what the command is - that's the maximum the game will process.  The rest get queued up and are execute "as fast as possible" but never faster than 1 command every 250ms.  That includes hitting enter on a blank line to view your prompt.
@@ -894,7 +894,7 @@ Thanks Teker!
 
 </div>
 
-<div class="post" data-post-id="36096" data-author="*Splork*" data-date="2015-09-10T17:28:32+00:00">
+<div class="post" data-post-id="36096" data-author="*Splork*" data-date="2015-09-10T17:28:32+00:00" data-subject="Re: Lagginess">
 
 Great explanation Teker!
 
@@ -908,7 +908,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="36097" data-author="Dragoth" data-date="2015-09-10T19:02:36+00:00">
+<div class="post" data-post-id="36097" data-author="Dragoth" data-date="2015-09-10T19:02:36+00:00" data-subject="Re: Lagginess">
 
 Good call Splork.
 

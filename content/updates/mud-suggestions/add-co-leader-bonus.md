@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36489" data-author="Teron" data-date="2016-01-16T18:45:39+00:00">
+<div class="post" data-post-id="36489" data-author="Teron" data-date="2016-01-16T18:45:39+00:00" data-subject="Add co-leader bonus">
 
 Often leader's effort aren't enough to keep the group in order. Sometimes, in large groups another person needs to:
 

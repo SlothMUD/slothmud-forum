@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="3940" data-author="13" data-date="2005-01-25T13:31:13+00:00">
+<div class="post" data-post-id="3940" data-author="13" data-date="2005-01-25T13:31:13+00:00" data-subject="Some Suggestions">
 
 This shouldn't happen, for a couple reasons.
 
@@ -78,7 +78,7 @@ Lie still; you are DEAD!!! :-(
 
 </div>
 
-<div class="post" data-post-id="3941" data-author="13" data-date="2005-01-25T13:37:55+00:00">
+<div class="post" data-post-id="3941" data-author="13" data-date="2005-01-25T13:37:55+00:00" data-subject="">
 
 Heh, I should have named this thread:
 
@@ -86,7 +86,7 @@ Heh, I should have named this thread:
 
 </div>
 
-<div class="post" data-post-id="3942" data-author="*Splork*" data-date="2005-01-25T13:45:41+00:00">
+<div class="post" data-post-id="3942" data-author="*Splork*" data-date="2005-01-25T13:45:41+00:00" data-subject="">
 
 Ok, while I' fixing this for you, I will also remove the ability to grip nostab mobs since thieves can not stab these types of mobs.
 
@@ -106,7 +106,7 @@ Damn, whats that noise I keep hearing? Waaa, waaa....  :lol:  :shock:
 
 </div>
 
-<div class="post" data-post-id="3943" data-author="13" data-date="2005-01-25T13:48:57+00:00">
+<div class="post" data-post-id="3943" data-author="13" data-date="2005-01-25T13:48:57+00:00" data-subject="">
 
 Sorry, my pussy was achin' real bad from that lizard.
 
@@ -116,7 +116,7 @@ And strike doesn't cost moves.
 
 </div>
 
-<div class="post" data-post-id="3946" data-author="Granty555" data-date="2005-01-25T16:06:52+00:00">
+<div class="post" data-post-id="3946" data-author="Granty555" data-date="2005-01-25T16:06:52+00:00" data-subject="">
 
 Ouch! That thing kicks ass!
 
@@ -124,13 +124,13 @@ Can i have a race-change to Lizardman? ;)
 
 </div>
 
-<div class="post" data-post-id="3947" data-author="12345" data-date="2005-01-25T16:23:34+00:00">
+<div class="post" data-post-id="3947" data-author="12345" data-date="2005-01-25T16:23:34+00:00" data-subject="">
 
 Not really, he survived the first round.  Lotsa splork mobs or uber-mobs like the Eternal Flame don't even let you live that long.
 
 </div>
 
-<div class="post" data-post-id="3949" data-author="13" data-date="2005-01-25T17:32:32+00:00">
+<div class="post" data-post-id="3949" data-author="13" data-date="2005-01-25T17:32:32+00:00" data-subject="">
 
 thats about 500 hp
 
@@ -138,13 +138,13 @@ thats no joke
 
 </div>
 
-<div class="post" data-post-id="3952" data-author="strider" data-date="2005-01-25T19:23:47+00:00">
+<div class="post" data-post-id="3952" data-author="strider" data-date="2005-01-25T19:23:47+00:00" data-subject="">
 
 500hps in a round thru sanc is pretty nice, but a good warrior prime can dish out about the same to an unsanced target. wa primes are overpowered!!
 
 </div>
 
-<div class="post" data-post-id="3956" data-author="Leaf" data-date="2005-01-25T22:37:20+00:00">
+<div class="post" data-post-id="3956" data-author="Leaf" data-date="2005-01-25T22:37:20+00:00" data-subject="">
 
 500hps in a round thru sanc is pretty nice, but a good warrior prime can dish out about the same to an unsanced target. wa primes are overpowered!![/quote:30c43mcb]
 
@@ -160,7 +160,7 @@ Am I missing a prime skill?
 
 </div>
 
-<div class="post" data-post-id="3957" data-author="Alberich" data-date="2005-01-25T22:40:53+00:00">
+<div class="post" data-post-id="3957" data-author="Alberich" data-date="2005-01-25T22:40:53+00:00" data-subject="">
 
 [
 
@@ -178,7 +178,7 @@ with critical hit/massive critical hit and berserk/frenzy, i'd say a wa with 19-
 
 </div>
 
-<div class="post" data-post-id="3961" data-author="strider" data-date="2005-01-26T03:30:23+00:00">
+<div class="post" data-post-id="3961" data-author="strider" data-date="2005-01-26T03:30:23+00:00" data-subject="">
 
 this is the fun part, now keep up with me here.
 
@@ -202,7 +202,7 @@ ok, peace out hosers, and remember an old professor of mine and his favorite res
 
 </div>
 
-<div class="post" data-post-id="3963" data-author="Avatar" data-date="2005-01-26T12:00:22+00:00">
+<div class="post" data-post-id="3963" data-author="Avatar" data-date="2005-01-26T12:00:22+00:00" data-subject="Warrior hacking">
 
 Pretty interesting, but it seems you can't use critical hit / massive critical at the same time you use berserk.  Turning on berserk means no critical hits.
 
@@ -210,7 +210,7 @@ Other than that...bards rock.
 
 </div>
 
-<div class="post" data-post-id="10872" data-author="Malrin" data-date="2006-02-23T23:12:14+00:00">
+<div class="post" data-post-id="10872" data-author="Malrin" data-date="2006-02-23T23:12:14+00:00" data-subject="">
 
 weird, i'm pretty sure i clicked on Monk and here i am reading about thieves, warriors and bards.
 

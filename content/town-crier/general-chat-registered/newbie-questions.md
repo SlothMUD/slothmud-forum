@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="30277" data-author="*Splork*" data-date="2009-11-16T18:07:54+00:00">
+<div class="post" data-post-id="30277" data-author="*Splork*" data-date="2009-11-16T18:07:54+00:00" data-subject="Newbie questions?">
 
 We need a list of questions that you hear newbies asking all the time? 
 
@@ -22,7 +22,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30279" data-author="Shyla" data-date="2009-11-16T20:28:46+00:00">
+<div class="post" data-post-id="30279" data-author="Shyla" data-date="2009-11-16T20:28:46+00:00" data-subject="">
 
 The first thing I hear all the time is okie what do I do here?
 
@@ -38,7 +38,7 @@ SHYLA
 
 </div>
 
-<div class="post" data-post-id="30280" data-author="Tap" data-date="2009-11-17T00:21:38+00:00">
+<div class="post" data-post-id="30280" data-author="Tap" data-date="2009-11-17T00:21:38+00:00" data-subject="">
 
 I used to hear alot of questions regarding pthieving,pkilling and clans...
 
@@ -48,7 +48,7 @@ also, what the hell is a Splork comes to mind
 
 </div>
 
-<div class="post" data-post-id="30291" data-author="Thraxas" data-date="2009-11-17T09:23:41+00:00">
+<div class="post" data-post-id="30291" data-author="Thraxas" data-date="2009-11-17T09:23:41+00:00" data-subject="">
 
 Most newbie questions should be answered by the newbie school, but it seems to me that hardly any new players go through and read all the signs, many muds seems to enforce a trip round their newbie school and give rewards for each stage of the completion ... nothing major just some newbie equipment and maybe some coins.
 
@@ -58,7 +58,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30292" data-author="Thraxas" data-date="2009-11-17T09:26:41+00:00">
+<div class="post" data-post-id="30292" data-author="Thraxas" data-date="2009-11-17T09:26:41+00:00" data-subject="">
 
 top query from newbies does seem to be what do I kill? I suppose it'd be helpful if there was a newbie board listing areas for new players with directions ... no wait there is (or at least used to be) in VK inn ... I read it on about day 2, then died horribly and repeatedly taking its advice.
 
@@ -66,7 +66,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30312" data-author="Vixn" data-date="2009-11-17T20:30:18+00:00">
+<div class="post" data-post-id="30312" data-author="Vixn" data-date="2009-11-17T20:30:18+00:00" data-subject="">
 
 Recently I've been asked why someone's spell is at 50 mana if help file says min mana for the spell is 20. Also ppl often ask how they can improve percentage of learning spells/skills because they don't get that 95% (85%) is enough.
 
@@ -74,7 +74,7 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="30318" data-author="*juggleblood*" data-date="2009-11-18T06:11:58+00:00">
+<div class="post" data-post-id="30318" data-author="*juggleblood*" data-date="2009-11-18T06:11:58+00:00" data-subject="">
 
 The first thing I hear all the time is okie what do I do here?
 
@@ -96,13 +96,13 @@ I like Shyla's idea too. Wouldn't be hard to to issue a forced practice command 
 
 </div>
 
-<div class="post" data-post-id="30330" data-author="Clink" data-date="2009-11-18T12:20:40+00:00">
+<div class="post" data-post-id="30330" data-author="Clink" data-date="2009-11-18T12:20:40+00:00" data-subject="">
 
 Any common newbie questions around mechanics of where to get food and other supplies?
 
 </div>
 
-<div class="post" data-post-id="30332" data-author="Thraxas" data-date="2009-11-18T13:08:13+00:00">
+<div class="post" data-post-id="30332" data-author="Thraxas" data-date="2009-11-18T13:08:13+00:00" data-subject="">
 
 Any common newbie questions around mechanics of where to get food and other supplies?[/quote:3gxs00lc]
 
@@ -116,7 +116,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30334" data-author="Thraxas" data-date="2009-11-18T13:09:19+00:00">
+<div class="post" data-post-id="30334" data-author="Thraxas" data-date="2009-11-18T13:09:19+00:00" data-subject="">
 
 common newbie question:
 
@@ -128,13 +128,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="30337" data-author="*juggleblood*" data-date="2009-11-18T14:30:44+00:00">
+<div class="post" data-post-id="30337" data-author="*juggleblood*" data-date="2009-11-18T14:30:44+00:00" data-subject="">
 
 The noobs are given a bunch of food in the beginning. So once they figure out how to get into their inventory / sack that issue works itself out. Sometimes they don't realize they have an inventory right away tho and have to be told how to see their inventory, how to look in their pack, how to get the primer out, how to read primer...
 
 </div>
 
-<div class="post" data-post-id="30340" data-author="Thraxas" data-date="2009-11-19T15:13:09+00:00">
+<div class="post" data-post-id="30340" data-author="Thraxas" data-date="2009-11-19T15:13:09+00:00" data-subject="">
 
 As a suggestion: Give the primer some decent stats and max level 8 restrcited so its not the first item dropped by newbies. Also give it a desc like 'read me' and then review the contents of it to give a series of bullet point helpful statements that guide the noob in common questions. e.g.
 
@@ -174,7 +174,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30341" data-author="Thraxas" data-date="2009-11-19T15:19:53+00:00">
+<div class="post" data-post-id="30341" data-author="Thraxas" data-date="2009-11-19T15:19:53+00:00" data-subject="">
 
 slightly off the wall but some of us must know people who don't play sloth, why not invite them to come play for a few hours and ask them for feedback afterwards. Invite some WOW players over perhaps? It'd need to be by invite rather than broadcast invite so we're not accused of poaching players.
 
@@ -184,7 +184,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30343" data-author="firebrand" data-date="2009-11-19T16:44:03+00:00">
+<div class="post" data-post-id="30343" data-author="firebrand" data-date="2009-11-19T16:44:03+00:00" data-subject="">
 
 the problem with that idea, thraxas, is that your graphics gamers are usually not willing to take a step back and go from that back to basic text.  it's a losing battle.  hell, i switched to playing lord of the rings online (aka lotro) nearly 2 years ago....and i tried coming back here to play a few times.  it's not home anymore.  this is not the sloth i grew to know and love over the past 13 years i have played here...from s2 to the current s4 [which jake said would NEVER happen, but thanks to one of my suggestions while still an imm, this place has been set on its ear.  yes, you can thank/hate me for suggesting additional classes as snapins]
 
@@ -206,7 +206,7 @@ don't get me wrong.  i'm not advertising for lotro, nor am i trying to drive peo
 
 </div>
 
-<div class="post" data-post-id="30347" data-author="Tap" data-date="2009-11-19T23:34:25+00:00">
+<div class="post" data-post-id="30347" data-author="Tap" data-date="2009-11-19T23:34:25+00:00" data-subject="">
 
 I gotta agree with FB here.. as a recent addict to W_ _ _ _ d of W_ _ _ _ _ _ _, I don't even see me going back to a "text" game. I'll prob just keep in touch and make a post from time to time but text-games imo are rapidly dying. With the price of fast internet dropping and some amazing games being dirt cheap now, its the "new" fad.... but like all things, I imagine 10-15 years down the road MMORPG's will be rapidly dying for the "new" genre.
 
@@ -216,7 +216,7 @@ btw, Toxis is a prick.
 
 </div>
 
-<div class="post" data-post-id="30350" data-author="Thraxas" data-date="2009-11-20T00:46:26+00:00">
+<div class="post" data-post-id="30350" data-author="Thraxas" data-date="2009-11-20T00:46:26+00:00" data-subject="">
 
 I think Tap and Reb miss my point, I wasn't suggesting that we try and lure graphics WOW and lotrtrtr players away to sloth, just that we ask a few we happen to know to come over for a couple of hours as a favour to us for some research.
 
@@ -226,7 +226,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30356" data-author="*Splork*" data-date="2009-11-20T01:45:10+00:00">
+<div class="post" data-post-id="30356" data-author="*Splork*" data-date="2009-11-20T01:45:10+00:00" data-subject="">
 
 Listen guys, this thread is so far off base now its ridiculous.  We are working on some amazing and innovative code and we simply need to know the basic questions which newbies ask on channels, via tells, or other communications.
 
@@ -236,7 +236,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30379" data-author="Thraxas" data-date="2009-11-25T13:43:54+00:00">
+<div class="post" data-post-id="30379" data-author="Thraxas" data-date="2009-11-25T13:43:54+00:00" data-subject="">
 
 stoney silence ... guess you killed the thread Splork :)
 

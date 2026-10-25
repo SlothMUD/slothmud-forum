@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="15678" data-author="Shazuko" data-date="2006-12-19T15:32:49+00:00">
+<div class="post" data-post-id="15678" data-author="Shazuko" data-date="2006-12-19T15:32:49+00:00" data-subject="Seasons Beatings!">
 
 THE MONKEY STORY
 
@@ -32,7 +32,7 @@ I like monkeys.
 
 </div>
 
-<div class="post" data-post-id="15720" data-author="Autolycos" data-date="2006-12-22T15:06:42+00:00">
+<div class="post" data-post-id="15720" data-author="Autolycos" data-date="2006-12-22T15:06:42+00:00" data-subject="">
 
 [b:3n3gsvux]and a more important hint for the holidays!![/b:3n3gsvux]
 
@@ -44,13 +44,13 @@ I like monkeys.
 
 </div>
 
-<div class="post" data-post-id="15732" data-author="tincts" data-date="2006-12-22T23:45:01+00:00">
+<div class="post" data-post-id="15732" data-author="tincts" data-date="2006-12-22T23:45:01+00:00" data-subject="">
 
 I'm a big fan of the monkey story.  And of the picture of the woman punching the other woman.  Good stuff.
 
 </div>
 
-<div class="post" data-post-id="15736" data-author="Hades" data-date="2006-12-23T12:34:42+00:00">
+<div class="post" data-post-id="15736" data-author="Hades" data-date="2006-12-23T12:34:42+00:00" data-subject="Exclusive Autolycos video inside">
 
 Practice has paid off for your pirate friend!
 
@@ -60,13 +60,13 @@ You da man  :twisted:
 
 </div>
 
-<div class="post" data-post-id="15737" data-author="Autolycos" data-date="2006-12-23T12:38:50+00:00">
+<div class="post" data-post-id="15737" data-author="Autolycos" data-date="2006-12-23T12:38:50+00:00" data-subject="">
 
 *yawn*
 
 </div>
 
-<div class="post" data-post-id="15739" data-author="13" data-date="2006-12-23T14:32:46+00:00">
+<div class="post" data-post-id="15739" data-author="13" data-date="2006-12-23T14:32:46+00:00" data-subject="">
 
 [img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
 

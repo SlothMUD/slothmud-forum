@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="3912" data-author="Falsra" data-date="2005-01-24T10:50:55+00:00">
+<div class="post" data-post-id="3912" data-author="Falsra" data-date="2005-01-24T10:50:55+00:00" data-subject="random autoquests idea">
 
 I saw this things were implemented in some muds.
 
@@ -56,13 +56,13 @@ a chance to gain some drachmas and, may be, a decent item.
 
 </div>
 
-<div class="post" data-post-id="3913" data-author="rith" data-date="2005-01-24T12:17:39+00:00">
+<div class="post" data-post-id="3913" data-author="rith" data-date="2005-01-24T12:17:39+00:00" data-subject="">
 
 Hope the clues from the quests are not as "EASY" as the yooper cook quests :p
 
 </div>
 
-<div class="post" data-post-id="3915" data-author="Strago" data-date="2005-01-24T14:27:42+00:00">
+<div class="post" data-post-id="3915" data-author="Strago" data-date="2005-01-24T14:27:42+00:00" data-subject="">
 
 I think it would be an interesting idea to make quests to kill special mobs, and these mobs would only be visible to the player who undertook the quest.
 

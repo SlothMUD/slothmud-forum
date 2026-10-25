@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="37297" data-author="*Idjit*" data-date="2016-08-28T16:38:25+00:00">
+<div class="post" data-post-id="37297" data-author="*Idjit*" data-date="2016-08-28T16:38:25+00:00" data-subject="Solo Mobs between 225k and 1.5M xp">
 
 Hello, this is a thread for listing just specifically those mobs that are in the sweet spot for soloing for people between 1x40 and high 3x40.  Things that you can 'cruise' and kill a bunch of before regenning.
 
@@ -58,7 +58,7 @@ Westwood:
 
 </div>
 
-<div class="post" data-post-id="37299" data-author="Teron" data-date="2016-08-28T19:13:59+00:00">
+<div class="post" data-post-id="37299" data-author="Teron" data-date="2016-08-28T19:13:59+00:00" data-subject="Re: Solo Mobs between 225k and 1.5M xp">
 
 There are low damage/high hp mobs and high damage/low hp mobs.
 
@@ -116,13 +116,13 @@ I don't recommend Lyme town at 1x40, because mobs hit hard, and if you attack th
 
 </div>
 
-<div class="post" data-post-id="37300" data-author="*Idjit*" data-date="2016-08-28T19:59:42+00:00">
+<div class="post" data-post-id="37300" data-author="*Idjit*" data-date="2016-08-28T19:59:42+00:00" data-subject="Re: Solo Mobs between 225k and 1.5M xp">
 
 Well, the whole point was to call out what doesn't flee because those are the ones we're happier with. Or that I'm happier with. so I chose to have the symbols for what doesn't flee rather than what does.  I think fewer things don't than do.
 
 </div>
 
-<div class="post" data-post-id="37302" data-author="*Idjit*" data-date="2016-08-28T20:36:12+00:00">
+<div class="post" data-post-id="37302" data-author="*Idjit*" data-date="2016-08-28T20:36:12+00:00" data-subject="Re: Solo Mobs between 225k and 1.5M xp">
 
 Lower Olympus  (again these limited lyme lists are for the higher end 3x40+35 or so)
 
@@ -146,7 +146,7 @@ I don't know if the darkskinned man assists her though, can someone verify.
 
 </div>
 
-<div class="post" data-post-id="37305" data-author="*Idjit*" data-date="2016-08-28T21:29:03+00:00">
+<div class="post" data-post-id="37305" data-author="*Idjit*" data-date="2016-08-28T21:29:03+00:00" data-subject="Re: Solo Mobs between 225k and 1.5M xp">
 
 Barovia town proper:
 
@@ -166,7 +166,7 @@ Just east of Barovia town:
 
 </div>
 
-<div class="post" data-post-id="37310" data-author="Teron" data-date="2016-08-29T06:42:29+00:00">
+<div class="post" data-post-id="37310" data-author="Teron" data-date="2016-08-29T06:42:29+00:00" data-subject="Re: Solo Mobs between 225k and 1.5M xp">
 
 Again, I suggested tags that'd clarify, whether they are
 
@@ -204,7 +204,7 @@ I'd recommend doing hard hitting mobs for people, who have 25+ score in their 1x
 
 </div>
 
-<div class="post" data-post-id="37319" data-author="Teron" data-date="2016-09-01T07:49:15+00:00">
+<div class="post" data-post-id="37319" data-author="Teron" data-date="2016-09-01T07:49:15+00:00" data-subject="Re: Solo Mobs between 225k and 1.5M xp">
 
 I've tried the Barovia town as a 1x40 thief and it's underwhelming.
 
@@ -220,7 +220,7 @@ and zelkham zombies aren't solo for thieves either. For warriors/necros, maybe.
 
 </div>
 
-<div class="post" data-post-id="37383" data-author="zenoko" data-date="2016-10-02T22:58:04+00:00">
+<div class="post" data-post-id="37383" data-author="zenoko" data-date="2016-10-02T22:58:04+00:00" data-subject="Re: Solo Mobs between 225k and 1.5M xp">
 
 just stumbled on these
 

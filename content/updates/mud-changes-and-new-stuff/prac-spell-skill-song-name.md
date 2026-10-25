@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="6012" data-author="guest" data-date="2005-05-06T09:39:13+00:00">
+<div class="post" data-post-id="6012" data-author="guest" data-date="2005-05-06T09:39:13+00:00" data-subject="prac &lt;spell/skill/song-name&gt;">
 
 Hi all ... 
 

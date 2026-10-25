@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="10912" data-author="Shara" data-date="2006-02-24T23:42:41+00:00">
+<div class="post" data-post-id="10912" data-author="Shara" data-date="2006-02-24T23:42:41+00:00" data-subject="Teehee">
 
 steal token keadral
 
@@ -52,7 +52,7 @@ Everything Keadral was carrying suddenly drops to the ground.
 
 </div>
 
-<div class="post" data-post-id="10914" data-author="Razorguy" data-date="2006-02-25T01:59:33+00:00">
+<div class="post" data-post-id="10914" data-author="Razorguy" data-date="2006-02-25T01:59:33+00:00" data-subject="">
 
 Thats enough exp for me to level to 2x40! :o
 

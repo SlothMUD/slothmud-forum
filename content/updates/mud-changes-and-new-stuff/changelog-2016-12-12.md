@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="37783" data-author="*teker*" data-date="2016-12-12T15:38:12+00:00">
+<div class="post" data-post-id="37783" data-author="*teker*" data-date="2016-12-12T15:38:12+00:00" data-subject="Changelog 2016-12-12">
 
 Breeze's new gem pop code should be in place.
 
@@ -26,7 +26,7 @@ I'm still trying to get the counters nailed down - hopefully we're getting close
 
 </div>
 
-<div class="post" data-post-id="37784" data-author="*teker*" data-date="2016-12-12T15:53:00+00:00">
+<div class="post" data-post-id="37784" data-author="*teker*" data-date="2016-12-12T15:53:00+00:00" data-subject="Re: Changelog 2016-12-12">
 
 > ***teker* wrote:**
 > Call of the cullien has been modified so that old and new gems should both work and can be intermixed.

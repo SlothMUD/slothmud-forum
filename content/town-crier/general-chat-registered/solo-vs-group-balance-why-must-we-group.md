@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36922" data-author="Teron" data-date="2016-05-11T13:42:15+00:00">
+<div class="post" data-post-id="36922" data-author="Teron" data-date="2016-05-11T13:42:15+00:00" data-subject="Solo vs Group Balance: why must we group?">
 
 Greetings.
 
@@ -94,7 +94,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36924" data-author="Ezekiel" data-date="2016-05-12T16:40:58+00:00">
+<div class="post" data-post-id="36924" data-author="Ezekiel" data-date="2016-05-12T16:40:58+00:00" data-subject="Re: Solo vs Group Balance: why must we group?">
 
 Heya all,
 
@@ -126,7 +126,7 @@ Ezekiel
 
 </div>
 
-<div class="post" data-post-id="36925" data-author="Teron" data-date="2016-05-13T07:18:47+00:00">
+<div class="post" data-post-id="36925" data-author="Teron" data-date="2016-05-13T07:18:47+00:00" data-subject="Re: Solo vs Group Balance: why must we group?">
 
 1. The thing is, though, 1x40 players not only have intermediate eq, they have valk-level eq. The next step, for the most part, lies in grouping. While in groups, they can get good eq for their level (if not best in slot - bis - for 2x40).
 
@@ -195,7 +195,7 @@ Of course, the other solution is to get more groups running and invite players e
 
 </div>
 
-<div class="post" data-post-id="36926" data-author="zenoko" data-date="2016-05-13T19:55:39+00:00">
+<div class="post" data-post-id="36926" data-author="zenoko" data-date="2016-05-13T19:55:39+00:00" data-subject="Re: Solo vs Group Balance: why must we group?">
 
 "So, if you want to discuss, answer the following questions:
 

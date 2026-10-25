@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="14152" data-author="Avatar" data-date="2006-09-19T05:24:18+00:00">
+<div class="post" data-post-id="14152" data-author="Avatar" data-date="2006-09-19T05:24:18+00:00" data-subject="Disaster Recovery">
 
 As my contribution to random chat, I wonder if anyone has seen this:
 
@@ -24,7 +24,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="14154" data-author="osric" data-date="2006-09-19T07:49:22+00:00">
+<div class="post" data-post-id="14154" data-author="osric" data-date="2006-09-19T07:49:22+00:00" data-subject="">
 
 I have a great first aid kit, and I know that water comes from the sky, so that knowledge combined with some good old american imgineering has led me to believe that when armageddon hits I will become a Road Warrior of sorts and roam the Australian country-side looking to bring civilization to half naked teenagers.  Oh wait.  What I really meant to say is that you can only ever half heartedly prepare for major disaster, but half heartedly is better than not at all.
 
@@ -34,7 +34,7 @@ Peace :D
 
 </div>
 
-<div class="post" data-post-id="14156" data-author="Akasha" data-date="2006-09-19T08:16:36+00:00">
+<div class="post" data-post-id="14156" data-author="Akasha" data-date="2006-09-19T08:16:36+00:00" data-subject="">
 
 When the day comes, its the folks with the biggest gun and the most ammunition that will be prepared.  (as much as i hate guns)... 
 
@@ -42,13 +42,13 @@ Kill'em, take their shit
 
 </div>
 
-<div class="post" data-post-id="14157" data-author="Weasel" data-date="2006-09-19T10:16:48+00:00">
+<div class="post" data-post-id="14157" data-author="Weasel" data-date="2006-09-19T10:16:48+00:00" data-subject="">
 
 Believe it or not, we have anti-radiation pills and gas masks from the early post-911 dirty-bomb paranoia days..  if you live in New York City too you'd probably understand.
 
 </div>
 
-<div class="post" data-post-id="14158" data-author="Avatar" data-date="2006-09-19T12:00:08+00:00">
+<div class="post" data-post-id="14158" data-author="Avatar" data-date="2006-09-19T12:00:08+00:00" data-subject="DR">
 
 I used to carry a flashlight, thick blanket, and extra set of clothes in the trunk of my car.  That seemed an easy enough prep for being stranded overnight which used to be (pre-cell phone) a likely enough occurance.
 
@@ -56,19 +56,19 @@ These days I'm more considering creating PDF's of important documents, and stori
 
 </div>
 
-<div class="post" data-post-id="14161" data-author="Diazz_Dizazter" data-date="2006-09-19T13:42:17+00:00">
+<div class="post" data-post-id="14161" data-author="Diazz_Dizazter" data-date="2006-09-19T13:42:17+00:00" data-subject="">
 
 Dizazter recovery = guns + car + drive fast + walmart = stocked.
 
 </div>
 
-<div class="post" data-post-id="14173" data-author="12345" data-date="2006-09-19T21:43:54+00:00">
+<div class="post" data-post-id="14173" data-author="12345" data-date="2006-09-19T21:43:54+00:00" data-subject="">
 
 I'm prepared for extended periods of bad weather and auto mishaps.  If armageddon ever happened, I'm in the middle of nowhere, so bombing us into the dark ages would mostly be an improvement.
 
 </div>
 
-<div class="post" data-post-id="14174" data-author="osric" data-date="2006-09-19T22:22:15+00:00">
+<div class="post" data-post-id="14174" data-author="osric" data-date="2006-09-19T22:22:15+00:00" data-subject="">
 
 Yeah storing critical info somewhere other than your house is prolly a great idea, family is a good bet, so is a decent deposit box at a bank! :D
 

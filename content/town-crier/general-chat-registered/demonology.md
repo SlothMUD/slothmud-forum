@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="27840" data-author="Liar" data-date="2009-01-23T16:08:26+00:00">
+<div class="post" data-post-id="27840" data-author="Liar" data-date="2009-01-23T16:08:26+00:00" data-subject="Demonology">
 
 As a mage prime I always think of a ways to change or add something to mage class first. And here what I thought of. Currently mages are mostly raw power of blasting, with few additions like haste to enhancement and slow to debuffing. On the other side monsters in game can summon other monsters or minions to their aid. Isnt it natural for mage to be able conjure something too? Right now necromancers, druids, clerics can in various ways get some minions. Wont something like demonology be naturally mage skill? Okay I know, just another summoning spell, but for mages? But lets say those pets wont be fighting ones. They wont take your damage or damage your enemies. These pets may affect mobs, player or just surroundings. Purely like chan chu or eudaemon supplications.
 
@@ -38,19 +38,19 @@ Truth, greedy little teapot
 
 </div>
 
-<div class="post" data-post-id="27842" data-author="Dragoth" data-date="2009-01-23T21:38:49+00:00">
+<div class="post" data-post-id="27842" data-author="Dragoth" data-date="2009-01-23T21:38:49+00:00" data-subject="">
 
 What's the weather report for hell nowdays ?
 
 </div>
 
-<div class="post" data-post-id="27845" data-author="Rynquald" data-date="2009-01-23T23:10:00+00:00">
+<div class="post" data-post-id="27845" data-author="Rynquald" data-date="2009-01-23T23:10:00+00:00" data-subject="">
 
 Obviously this is never going to happen since it would almost certainly unbalance mages (magi?) to a drastic degree. But personally my daydream summoning skill has always been golem making. If the raw material for them was various different chunks, it would be great to watch their value skyrocket.
 
 </div>
 
-<div class="post" data-post-id="27846" data-author="jezer" data-date="2009-01-24T01:28:10+00:00">
+<div class="post" data-post-id="27846" data-author="jezer" data-date="2009-01-24T01:28:10+00:00" data-subject="">
 
 Cool ideas, I thought druids are traditionally more the elementalists though, and maybe mages more along the lines of sentient drones or golems.
 
@@ -60,7 +60,7 @@ In any case I think any class extenstion for SAv's would have universal support,
 
 </div>
 
-<div class="post" data-post-id="27848" data-author="Widow" data-date="2009-01-24T06:14:35+00:00">
+<div class="post" data-post-id="27848" data-author="Widow" data-date="2009-01-24T06:14:35+00:00" data-subject="">
 
 I do like the idea that the mage class have a 'summon' ability and for it to focus on demons and the outerplane dieties is a neat twist. 
 
@@ -80,7 +80,7 @@ Thoughts?
 
 </div>
 
-<div class="post" data-post-id="27853" data-author="Bazilus" data-date="2009-01-24T08:17:26+00:00">
+<div class="post" data-post-id="27853" data-author="Bazilus" data-date="2009-01-24T08:17:26+00:00" data-subject="">
 
 I like this idea, really be helpful and fun.
 
@@ -88,7 +88,7 @@ Bazilus the crazy Python
 
 </div>
 
-<div class="post" data-post-id="27857" data-author="Assirian" data-date="2009-01-24T11:43:53+00:00">
+<div class="post" data-post-id="27857" data-author="Assirian" data-date="2009-01-24T11:43:53+00:00" data-subject="">
 
 imho:
 
@@ -106,13 +106,13 @@ and no need that bread :)
 
 </div>
 
-<div class="post" data-post-id="27859" data-author="marge" data-date="2009-01-24T16:49:30+00:00">
+<div class="post" data-post-id="27859" data-author="marge" data-date="2009-01-24T16:49:30+00:00" data-subject="">
 
 on a simper note: mages should at the very least be able to dispel a particular spell. U'd think the advanced mysteries of magic would make a mage more knowledgable about auras than thieves who can pull a specific spell off someone else and put it on themselves.
 
 </div>
 
-<div class="post" data-post-id="27860" data-author="Weasel" data-date="2009-01-24T17:13:55+00:00">
+<div class="post" data-post-id="27860" data-author="Weasel" data-date="2009-01-24T17:13:55+00:00" data-subject="">
 
 on a simper note: mages should at the very least be able to dispel a particular spell. U'd think the advanced mysteries of magic would make a mage more knowledgable about auras than thieves who can pull a specific spell off someone else and put it on themselves.[/quote:2e6q2klz]
 
@@ -120,7 +120,7 @@ Yeah, I know it's been said before, but I don't see why there isn't an avatar le
 
 </div>
 
-<div class="post" data-post-id="27861" data-author="firebrand" data-date="2009-01-24T18:57:25+00:00">
+<div class="post" data-post-id="27861" data-author="firebrand" data-date="2009-01-24T18:57:25+00:00" data-subject="">
 
 on a simper note: mages should at the very least be able to dispel a particular spell. U'd think the advanced mysteries of magic would make a mage more knowledgable about auras than thieves who can pull a specific spell off someone else and put it on themselves.[/quote:1jr8bd9t]
 
@@ -130,7 +130,7 @@ i have asked for this for years.  i hope like hell that because someone else bes
 
 </div>
 
-<div class="post" data-post-id="27864" data-author="Yasik2" data-date="2009-01-25T04:06:21+00:00">
+<div class="post" data-post-id="27864" data-author="Yasik2" data-date="2009-01-25T04:06:21+00:00" data-subject="">
 
 That's because we don't know what spells are up on the mob.
 
@@ -140,7 +140,7 @@ As for dispelling webs - there's an Reign of the Spider.
 
 </div>
 
-<div class="post" data-post-id="27865" data-author="Vixn" data-date="2009-01-25T10:26:13+00:00">
+<div class="post" data-post-id="27865" data-author="Vixn" data-date="2009-01-25T10:26:13+00:00" data-subject="">
 
 We don't need to dispel certain spells from mobs. Dispel all spells works good for me.
 
@@ -160,7 +160,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="27866" data-author="firebrand" data-date="2009-01-25T15:32:30+00:00">
+<div class="post" data-post-id="27866" data-author="firebrand" data-date="2009-01-25T15:32:30+00:00" data-subject="">
 
 That's because we don't know what spells are up on the mob.
 
@@ -174,7 +174,7 @@ think it through, dumbass.  the reason we want it is for PERSONAL use or to help
 
 </div>
 
-<div class="post" data-post-id="27867" data-author="Yasik2" data-date="2009-01-25T19:34:06+00:00">
+<div class="post" data-post-id="27867" data-author="Yasik2" data-date="2009-01-25T19:34:06+00:00" data-subject="">
 
 That's because we don't know what spells are up on the mob.
 
@@ -194,7 +194,7 @@ Those Avatars with Iron Skins and Aegises ain't there to spell up newbies.
 
 </div>
 
-<div class="post" data-post-id="27870" data-author="Rynquald" data-date="2009-01-25T23:31:38+00:00">
+<div class="post" data-post-id="27870" data-author="Rynquald" data-date="2009-01-25T23:31:38+00:00" data-subject="">
 
 Well, being able to dispel stone skin would be useful if you're about to make a <22 tard char tank and want to get their ac up.
 
@@ -202,13 +202,13 @@ Also, a spell (or maybe even a skill) to identify which spells a mob or pc has u
 
 </div>
 
-<div class="post" data-post-id="27871" data-author="Yasik2" data-date="2009-01-26T00:16:20+00:00">
+<div class="post" data-post-id="27871" data-author="Yasik2" data-date="2009-01-26T00:16:20+00:00" data-subject="">
 
 Noone is going to code a whole new spell just because some newb tank thinks he's cool enough to tank Flame, but, what a pity, doesn't have his own Skin yet.
 
 </div>
 
-<div class="post" data-post-id="27872" data-author="Rynquald" data-date="2009-01-26T02:01:07+00:00">
+<div class="post" data-post-id="27872" data-author="Rynquald" data-date="2009-01-26T02:01:07+00:00" data-subject="">
 
 It's A use, not THE use.
 
@@ -218,7 +218,7 @@ And you need a tank to kill flame? Maybe you should stop throwing stones from yo
 
 </div>
 
-<div class="post" data-post-id="27873" data-author="Yasik2" data-date="2009-01-26T03:13:09+00:00">
+<div class="post" data-post-id="27873" data-author="Yasik2" data-date="2009-01-26T03:13:09+00:00" data-subject="">
 
 And you need a tank to kill flame? Maybe you should stop throwing stones from your glass house? :twisted:[/quote:3a8f95h1]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="38215" data-author="Gorka" data-date="2017-04-15T14:15:49+00:00">
+<div class="post" data-post-id="38215" data-author="Gorka" data-date="2017-04-15T14:15:49+00:00" data-subject="Oath of Victory Bugged?">
 
 > **Quote:**
 > <1387hp 283ma 288mv 128205717xp -8.0ac 97%>
@@ -59,7 +59,7 @@ Can someone explain...
 
 </div>
 
-<div class="post" data-post-id="38216" data-author="Josiah" data-date="2017-04-15T20:33:48+00:00">
+<div class="post" data-post-id="38216" data-author="Josiah" data-date="2017-04-15T20:33:48+00:00" data-subject="Re: Oath of Victory Bugged?">
 
 1) You did get hit, but it took away from your warcry temporary hp instead of your actual hp.  Since it did zero damage to you, it displays as a miss.
 
@@ -75,7 +75,7 @@ Edit: To be clear, I'm not arguing that there is no bug. I am explaining the gam
 
 </div>
 
-<div class="post" data-post-id="38217" data-author="Gorka" data-date="2017-04-15T21:32:38+00:00">
+<div class="post" data-post-id="38217" data-author="Gorka" data-date="2017-04-15T21:32:38+00:00" data-subject="Re: Oath of Victory Bugged?">
 
 After talking with Josiah a while, I went and killed an easier mob I knew would miss me in my ac equipment.
 
@@ -85,13 +85,13 @@ Josiah thinks that in regards to the mob I posted about, I was actually being hi
 
 </div>
 
-<div class="post" data-post-id="38218" data-author="*teker*" data-date="2017-04-16T16:26:02+00:00">
+<div class="post" data-post-id="38218" data-author="*teker*" data-date="2017-04-16T16:26:02+00:00" data-subject="Re: Oath of Victory Bugged?">
 
 I can confirm what Josiah is saying.  I had to work around that when tracking damage counters so that temp hps wouldn't throw off the numbers.  The behavior could be corrected to show the correct message.  I think it should also be corrected so that if damage is reduced to zero by spell or other ability, the attack should show a "tickle" message instead of a miss.
 
 </div>
 
-<div class="post" data-post-id="38219" data-author="Gorka" data-date="2017-04-16T19:59:06+00:00">
+<div class="post" data-post-id="38219" data-author="Gorka" data-date="2017-04-16T19:59:06+00:00" data-subject="Re: Oath of Victory Bugged?">
 
 Just an idea Teker... how about reporting the damage as it should... but showing the damage lines that used temp hp as a different colour?
 
@@ -103,7 +103,7 @@ This system could be used for anything involving temp hp, such as warcry, oath a
 
 </div>
 
-<div class="post" data-post-id="38220" data-author="Teron" data-date="2017-04-17T05:32:34+00:00">
+<div class="post" data-post-id="38220" data-author="Teron" data-date="2017-04-17T05:32:34+00:00" data-subject="Re: Oath of Victory Bugged?">
 
 I like the idea of using color, however, the last attack that eats through your temp hps doesn't consume all of them. Ie, an attack of 100 damage that hits your remaining 80 temp hps is currently displayed as a 20dam attack.
 
@@ -117,7 +117,7 @@ The Tarrasque viciously massacres you with its hit (150) [50]
 
 </div>
 
-<div class="post" data-post-id="38228" data-author="Josiah" data-date="2017-04-21T20:08:34+00:00">
+<div class="post" data-post-id="38228" data-author="Josiah" data-date="2017-04-21T20:08:34+00:00" data-subject="Re: Oath of Victory Bugged?">
 
 Another solution is to not display anything fancy or colored.  
 

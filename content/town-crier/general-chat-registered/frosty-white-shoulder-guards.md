@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="23043" data-author="Ah_Puch" data-date="2008-03-02T05:21:33+00:00">
+<div class="post" data-post-id="23043" data-author="Ah_Puch" data-date="2008-03-02T05:21:33+00:00" data-subject="Frosty White Shoulder Guards">
 
 would chop but I can't get the damn thing to work. post bids here if interested
 
@@ -22,13 +22,13 @@ Frosty White Shoulder Guards
 
 </div>
 
-<div class="post" data-post-id="23044" data-author="Ah_Puch" data-date="2008-03-02T05:24:44+00:00">
+<div class="post" data-post-id="23044" data-author="Ah_Puch" data-date="2008-03-02T05:24:44+00:00" data-subject="">
 
 That's 8pm eastern Sunday March 2, 2008
 
 </div>
 
-<div class="post" data-post-id="23046" data-author="Ah_Puch" data-date="2008-03-02T12:50:34+00:00">
+<div class="post" data-post-id="23046" data-author="Ah_Puch" data-date="2008-03-02T12:50:34+00:00" data-subject="">
 
 Sold  :P
 

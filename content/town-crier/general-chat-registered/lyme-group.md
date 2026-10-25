@@ -10,25 +10,25 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="14273" data-author="Rynquald" data-date="2006-09-25T07:45:25+00:00">
+<div class="post" data-post-id="14273" data-author="Rynquald" data-date="2006-09-25T07:45:25+00:00" data-subject="Lyme group">
 
 Would like to thank Blaster (and any other imms who might have been involved behind the scenes) for opening Lyme to everyone today, made for a great chop group. And the restrings for Atwell and myself rocked too :)
 
 </div>
 
-<div class="post" data-post-id="14279" data-author="Jag" data-date="2006-09-25T14:31:06+00:00">
+<div class="post" data-post-id="14279" data-author="Jag" data-date="2006-09-25T14:31:06+00:00" data-subject="">
 
 Figures!  The one day I don't log on.
 
 </div>
 
-<div class="post" data-post-id="14282" data-author="brady" data-date="2006-09-25T15:39:40+00:00">
+<div class="post" data-post-id="14282" data-author="brady" data-date="2006-09-25T15:39:40+00:00" data-subject="">
 
 And thanks Rynq, for his patience and Atwell for his many, many heads.  It was a lot of fun, Blaster.  Thanks for mixing it up.
 
 </div>
 
-<div class="post" data-post-id="14285" data-author="Roadrunr" data-date="2006-09-25T16:23:13+00:00">
+<div class="post" data-post-id="14285" data-author="Roadrunr" data-date="2006-09-25T16:23:13+00:00" data-subject="">
 
 Any chance this could become a semi-regular event (like say, one day a month the ship allows newbies...err those less than 3x40 on but they cant rent there or something).
 
@@ -36,25 +36,25 @@ It's not a big deal to me, 3 of the 5 chars I've decided to keep are already on 
 
 </div>
 
-<div class="post" data-post-id="14286" data-author="Absu" data-date="2006-09-25T16:27:05+00:00">
+<div class="post" data-post-id="14286" data-author="Absu" data-date="2006-09-25T16:27:05+00:00" data-subject="">
 
 Yeah, was a lot of fun. Lots of exp, too... for a newbie anyway. :P I think I went from level 27-34 or something around that.
 
 </div>
 
-<div class="post" data-post-id="14290" data-author="Gimlet" data-date="2006-09-26T01:32:20+00:00">
+<div class="post" data-post-id="14290" data-author="Gimlet" data-date="2006-09-26T01:32:20+00:00" data-subject="">
 
 not to be a dampener or anything, coz it was pretty fun :), but please please do not let this be a regular event.  It's easy enuff to level on sloth as it is, we don't need more newbies sponging their way to lyme and not knowing where the LIMBO is
 
 </div>
 
-<div class="post" data-post-id="14292" data-author="Absu" data-date="2006-09-26T04:53:10+00:00">
+<div class="post" data-post-id="14292" data-author="Absu" data-date="2006-09-26T04:53:10+00:00" data-subject="">
 
 Is that AFK land?
 
 </div>
 
-<div class="post" data-post-id="14293" data-author="Blaster" data-date="2006-09-26T05:03:27+00:00">
+<div class="post" data-post-id="14293" data-author="Blaster" data-date="2006-09-26T05:03:27+00:00" data-subject="">
 
 not to be a dampener or anything, coz it was pretty fun :), but please please do not let this be a regular event.  It's easy enuff to level on sloth as it is, we don't need more newbies sponging their way to lyme and not knowing where the LIMBO is[/quote:s5fputba]
 
@@ -62,7 +62,7 @@ Been a long time since I did one of these and figured I would be nice and do som
 
 </div>
 
-<div class="post" data-post-id="14294" data-author="Rynquald" data-date="2006-09-26T05:27:09+00:00">
+<div class="post" data-post-id="14294" data-author="Rynquald" data-date="2006-09-26T05:27:09+00:00" data-subject="">
 
 There isn't really any need to go complaining about something like this anyway, everyone was clearly told to stay with the group, so it's not like there was newbs running all over lyme and interfering with people's normal runs.
 
@@ -74,7 +74,7 @@ Edit: Not aiming any of that rant at Gimlet's post btw, directed at the people w
 
 </div>
 
-<div class="post" data-post-id="14295" data-author="Gimlet" data-date="2006-09-26T05:48:12+00:00">
+<div class="post" data-post-id="14295" data-author="Gimlet" data-date="2006-09-26T05:48:12+00:00" data-subject="">
 
 errr
 
@@ -84,7 +84,7 @@ I was just saying no no no to rr's post of having it as a monthly occurance...i 
 
 </div>
 
-<div class="post" data-post-id="14296" data-author="Absu" data-date="2006-09-26T06:17:04+00:00">
+<div class="post" data-post-id="14296" data-author="Absu" data-date="2006-09-26T06:17:04+00:00" data-subject="">
 
 Who the hell whined about it?
 
@@ -96,7 +96,7 @@ I've been playing pretty heavily for the past 3 weeks or so, and the Lyme group 
 
 </div>
 
-<div class="post" data-post-id="14299" data-author="Weasel" data-date="2006-09-26T10:27:45+00:00">
+<div class="post" data-post-id="14299" data-author="Weasel" data-date="2006-09-26T10:27:45+00:00" data-subject="">
 
 I wish I had been able to join - I was online at the time but wasn't able to dedicate uninterrupted time for grouping unfortunately - in my books going AFK in a group is not a good thing.
 

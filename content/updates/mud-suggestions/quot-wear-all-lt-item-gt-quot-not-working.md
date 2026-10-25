@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="36206" data-author="Yasik" data-date="2015-11-24T09:41:39+00:00">
+<div class="post" data-post-id="36206" data-author="Yasik" data-date="2015-11-24T09:41:39+00:00" data-subject="&amp;quot;wear all.&amp;lt;item&amp;gt;&amp;quot; not working?">
 
 Is it I do something wrong or "all." feature do not apply to "wear all"? Can we have this fixed anytime soon, please?
 
@@ -94,13 +94,13 @@ You wear a small gold bird pendant around your neck.
 
 </div>
 
-<div class="post" data-post-id="36207" data-author="Marvel" data-date="2015-11-24T21:22:40+00:00">
+<div class="post" data-post-id="36207" data-author="Marvel" data-date="2015-11-24T21:22:40+00:00" data-subject="Re: &amp;quot;wear all.&amp;lt;item&amp;gt;&amp;quot; not working?">
 
 wear all.<item> has never worked before for me. Likely it just hasn't been coded in.
 
 </div>
 
-<div class="post" data-post-id="36208" data-author="Teron" data-date="2015-11-25T07:19:39+00:00">
+<div class="post" data-post-id="36208" data-author="Teron" data-date="2015-11-25T07:19:39+00:00" data-subject="Re: &amp;quot;wear all.&amp;lt;item&amp;gt;&amp;quot; not working?">
 
 Meanwhile, you can use this:
 
@@ -108,13 +108,13 @@ wear gold gold
 
 </div>
 
-<div class="post" data-post-id="36218" data-author="*teker*" data-date="2015-11-28T20:33:07+00:00">
+<div class="post" data-post-id="36218" data-author="*teker*" data-date="2015-11-28T20:33:07+00:00" data-subject="Re: &amp;quot;wear all.&amp;lt;item&amp;gt;&amp;quot; not working?">
 
 I purposely skipped doing this one because of the current behavior of allowing wear <item1> <item2> <item3>.  For some reason I thought the required changes might break backwards compatibility but I can look at it again to make sure.  It does stand out now that I've enabled the functionality for drop, remove, and sell.
 
 </div>
 
-<div class="post" data-post-id="36231" data-author="Josiah" data-date="2015-12-01T19:02:23+00:00">
+<div class="post" data-post-id="36231" data-author="Josiah" data-date="2015-12-01T19:02:23+00:00" data-subject="Re: &amp;quot;wear all.&amp;lt;item&amp;gt;&amp;quot; not working?">
 
 What?!?  I can 'sell all.hex' ???  You truly are a god!
 
@@ -122,7 +122,7 @@ Lately I've taken to dropping them in town.  There's probably a streetsweeper ro
 
 </div>
 
-<div class="post" data-post-id="36235" data-author="*teker*" data-date="2015-12-03T03:59:28+00:00">
+<div class="post" data-post-id="36235" data-author="*teker*" data-date="2015-12-03T03:59:28+00:00" data-subject="Re: &amp;quot;wear all.&amp;lt;item&amp;gt;&amp;quot; not working?">
 
 Sell all.spellbook is useful also.
 
@@ -130,7 +130,7 @@ I went ahead and added the code for "wear all.item".  It'll be in whenever we pu
 
 </div>
 
-<div class="post" data-post-id="36255" data-author="Yasik" data-date="2015-12-05T11:12:12+00:00">
+<div class="post" data-post-id="36255" data-author="Yasik" data-date="2015-12-05T11:12:12+00:00" data-subject="Re: &amp;quot;wear all.&amp;lt;item&amp;gt;&amp;quot; not working?">
 
 I hope that build goes live soon, bc atm it works as it alwayes worked before.
 
@@ -226,13 +226,13 @@ You slide a crystal ring onto your right finger.
 
 </div>
 
-<div class="post" data-post-id="36273" data-author="*teker*" data-date="2015-12-08T02:33:37+00:00">
+<div class="post" data-post-id="36273" data-author="*teker*" data-date="2015-12-08T02:33:37+00:00" data-subject="Re: &amp;quot;wear all.&amp;lt;item&amp;gt;&amp;quot; not working?">
 
 This went live Sunday morning after the reboot.
 
 </div>
 
-<div class="post" data-post-id="36276" data-author="Teron" data-date="2015-12-08T08:57:47+00:00">
+<div class="post" data-post-id="36276" data-author="Teron" data-date="2015-12-08T08:57:47+00:00" data-subject="Re: &amp;quot;wear all.&amp;lt;item&amp;gt;&amp;quot; not working?">
 
 Thanks.
 
@@ -254,13 +254,13 @@ Thanks again.
 
 </div>
 
-<div class="post" data-post-id="36279" data-author="*Breeze*" data-date="2015-12-09T08:43:47+00:00">
+<div class="post" data-post-id="36279" data-author="*Breeze*" data-date="2015-12-09T08:43:47+00:00" data-subject="Re: &amp;quot;wear all.&amp;lt;item&amp;gt;&amp;quot; not working?">
 
 input buffer is already huge.  i doubt we make it bigger..
 
 </div>
 
-<div class="post" data-post-id="36280" data-author="Filk" data-date="2015-12-09T09:01:53+00:00">
+<div class="post" data-post-id="36280" data-author="Filk" data-date="2015-12-09T09:01:53+00:00" data-subject="Re: &amp;quot;wear all.&amp;lt;item&amp;gt;&amp;quot; not working?">
 
 How about extra 50 letters? On some long eq change chains its *near* enough for whole set. But sometimes it is not, so you have to dance around that limitation to pick up some unique item keyword not messing with other items. Extra 30-50 letters would solve that completely, at least to me :)
 
@@ -268,7 +268,7 @@ ps^ btw, would like to remind you about wwwpass, its still not connected to the 
 
 </div>
 
-<div class="post" data-post-id="36283" data-author="*Breeze*" data-date="2015-12-09T11:21:15+00:00">
+<div class="post" data-post-id="36283" data-author="*Breeze*" data-date="2015-12-09T11:21:15+00:00" data-subject="Re: &amp;quot;wear all.&amp;lt;item&amp;gt;&amp;quot; not working?">
 
 yes i know about wwwpass.  i still need to redo all the www stuff
 

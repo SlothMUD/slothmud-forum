@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="1703" data-author="El_Furax" data-date="2004-09-02T09:02:24+00:00">
+<div class="post" data-post-id="1703" data-author="El_Furax" data-date="2004-09-02T09:02:24+00:00" data-subject="Holy swords / Grouping">
 
 Hi folks,
 
@@ -50,7 +50,7 @@ Thus is there a syntax i'm unaware of to get the names of a mob for which you do
 
 </div>
 
-<div class="post" data-post-id="1704" data-author="Alberich" data-date="2004-09-02T09:28:23+00:00">
+<div class="post" data-post-id="1704" data-author="Alberich" data-date="2004-09-02T09:28:23+00:00" data-subject="Re: Holy swords / Grouping">
 
 Hi folks,
 
@@ -104,13 +104,13 @@ generally, scan works to give you a general idea, and you can then use names com
 
 </div>
 
-<div class="post" data-post-id="1705" data-author="El_Furax" data-date="2004-09-02T10:00:21+00:00">
+<div class="post" data-post-id="1705" data-author="El_Furax" data-date="2004-09-02T10:00:21+00:00" data-subject="">
 
 Thank you Alberich, helpful answers.
 
 </div>
 
-<div class="post" data-post-id="1706" data-author="Ender" data-date="2004-09-02T11:46:22+00:00">
+<div class="post" data-post-id="1706" data-author="Ender" data-date="2004-09-02T11:46:22+00:00" data-subject="Re: Holy swords / Grouping">
 
 Hi folks,
 
@@ -120,7 +120,7 @@ Available is a very loose term.  This is assuming that you can pray for it in th
 
 </div>
 
-<div class="post" data-post-id="1707" data-author="El_Furax" data-date="2004-09-02T12:15:50+00:00">
+<div class="post" data-post-id="1707" data-author="El_Furax" data-date="2004-09-02T12:15:50+00:00" data-subject="">
 
 Lol Ender, you just shed some light on a mystery for me : I was wondering how it could be that someone was just ready to pray for the sword [i:vkk6shu7]right[/i:vkk6shu7] after it poofed, since going back to temple showed it was "used somewhere else"....
 
@@ -134,13 +134,13 @@ Hmm time to find a decent weapon then  :lol:
 
 </div>
 
-<div class="post" data-post-id="1708" data-author="Ender" data-date="2004-09-02T13:10:40+00:00">
+<div class="post" data-post-id="1708" data-author="Ender" data-date="2004-09-02T13:10:40+00:00" data-subject="">
 
 There's several opinions on decent weapons, but I've always found it ironic that one of the best starting weapons is the mithril axe.  If I remember correctly, it's a random weapon and can be difficult to track down, however, you can usually buy it in the weapon shop or auction house on BH.  Forget how much it costs, but 3d5 +1 +1 isn't too shabby for a straight hack and slasher.  Another popular weapon of choice is the Staff of the Elven forest, which isn't quite as powerful, but is the lowest level proc weapon that I know of.
 
 </div>
 
-<div class="post" data-post-id="1709" data-author="blackmore" data-date="2004-09-02T13:17:54+00:00">
+<div class="post" data-post-id="1709" data-author="blackmore" data-date="2004-09-02T13:17:54+00:00" data-subject="">
 
 Re: Grouping
 
@@ -156,7 +156,7 @@ In order to talk to, attack, or do whatever, you need to know at least 1 keyword
 
 </div>
 
-<div class="post" data-post-id="1711" data-author="Altair" data-date="2004-09-02T13:47:42+00:00">
+<div class="post" data-post-id="1711" data-author="Altair" data-date="2004-09-02T13:47:42+00:00" data-subject="">
 
 * Holy eq:
 
@@ -198,7 +198,7 @@ There are some posts about newbie locations in either the general boards or the 
 
 </div>
 
-<div class="post" data-post-id="1716" data-author="Ender" data-date="2004-09-02T14:29:10+00:00">
+<div class="post" data-post-id="1716" data-author="Ender" data-date="2004-09-02T14:29:10+00:00" data-subject="">
 
 Re: Con command
 

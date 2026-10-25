@@ -10,7 +10,7 @@ locked: false
 post_count: 58
 ---
 
-<div class="post" data-post-id="33801" data-author="*Neptune*" data-date="2012-11-22T20:21:26+00:00">
+<div class="post" data-post-id="33801" data-author="*Neptune*" data-date="2012-11-22T20:21:26+00:00" data-subject="Wiki Updates">
 
 1. Created and implemented the Map submissions page. This page will likely
 
@@ -42,7 +42,7 @@ neptune@slothmud.org
 
 </div>
 
-<div class="post" data-post-id="33810" data-author="*Neptune*" data-date="2012-11-29T16:50:23+00:00">
+<div class="post" data-post-id="33810" data-author="*Neptune*" data-date="2012-11-29T16:50:23+00:00" data-subject="Re: Wiki Updates">
 
 Having concluded the Map Quest, we now have three new maps. I would like to thank those of you who participated in the map's quest. You've certainly shown your skill and willingness to help out and be a part of the SlothMUD family. Your contributions are invaluable to us!
 
@@ -64,7 +64,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="34025" data-author="*Neptune*" data-date="2013-02-11T17:03:34+00:00">
+<div class="post" data-post-id="34025" data-author="*Neptune*" data-date="2013-02-11T17:03:34+00:00" data-subject="Re: Wiki Updates">
 
 1. Added map to Thalassian Savanna page.
 
@@ -86,7 +86,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="34159" data-author="*Neptune*" data-date="2013-03-16T19:20:45+00:00">
+<div class="post" data-post-id="34159" data-author="*Neptune*" data-date="2013-03-16T19:20:45+00:00" data-subject="Re: Wiki Updates">
 
 1. Farmstead Map added to the Farmstead Wiki Page.
 
@@ -100,7 +100,7 @@ Thanks to Maloj for making this possible :)
 
 </div>
 
-<div class="post" data-post-id="34179" data-author="*Neptune*" data-date="2013-03-24T17:04:24+00:00">
+<div class="post" data-post-id="34179" data-author="*Neptune*" data-date="2013-03-24T17:04:24+00:00" data-subject="Re: Wiki Updates">
 
 1. The Raven's Roost Inn's page has been added to the wiki.
 
@@ -118,7 +118,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="34303" data-author="*Neptune*" data-date="2013-05-20T20:13:21+00:00">
+<div class="post" data-post-id="34303" data-author="*Neptune*" data-date="2013-05-20T20:13:21+00:00" data-subject="Re: Wiki Updates">
 
 I'd like to take this time to thank Tuk for making a map for the Temple of
 
@@ -144,7 +144,7 @@ you guys will notice the updates in the game. Was mostly room and mob descriptio
 
 </div>
 
-<div class="post" data-post-id="34309" data-author="*Neptune*" data-date="2013-05-31T14:48:26+00:00">
+<div class="post" data-post-id="34309" data-author="*Neptune*" data-date="2013-05-31T14:48:26+00:00" data-subject="Re: Wiki Updates">
 
 The Holy Equipment page has been updated.
 
@@ -174,7 +174,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="34311" data-author="*Neptune*" data-date="2013-06-02T04:07:21+00:00">
+<div class="post" data-post-id="34311" data-author="*Neptune*" data-date="2013-06-02T04:07:21+00:00" data-subject="Re: Wiki Updates">
 
 Updated the Triple40 Equipment to reflect what their values are in the
 
@@ -194,7 +194,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="34519" data-author="*Neptune*" data-date="2013-10-27T14:50:14+00:00">
+<div class="post" data-post-id="34519" data-author="*Neptune*" data-date="2013-10-27T14:50:14+00:00" data-subject="Re: Wiki Updates">
 
 1. Created the Ruins of Gildebruun wiki page.
 
@@ -216,7 +216,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="34606" data-author="*Neptune*" data-date="2013-12-03T22:46:19+00:00">
+<div class="post" data-post-id="34606" data-author="*Neptune*" data-date="2013-12-03T22:46:19+00:00" data-subject="Re: Wiki Updates">
 
 The following changes have been made to the Wiki:
 
@@ -256,7 +256,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="34607" data-author="*Neptune*" data-date="2013-12-04T22:20:57+00:00">
+<div class="post" data-post-id="34607" data-author="*Neptune*" data-date="2013-12-04T22:20:57+00:00" data-subject="Re: Wiki Updates">
 
 Changelog for 12/4/13:
 
@@ -312,7 +312,7 @@ Enjoy. More to come.
 
 </div>
 
-<div class="post" data-post-id="34615" data-author="*Neptune*" data-date="2013-12-10T17:52:11+00:00">
+<div class="post" data-post-id="34615" data-author="*Neptune*" data-date="2013-12-10T17:52:11+00:00" data-subject="Re: Wiki Updates">
 
 Some of you may notice some repeats from previous posts.
 
@@ -460,7 +460,7 @@ More to come.
 
 </div>
 
-<div class="post" data-post-id="34620" data-author="*Neptune*" data-date="2013-12-11T17:30:00+00:00">
+<div class="post" data-post-id="34620" data-author="*Neptune*" data-date="2013-12-11T17:30:00+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -514,7 +514,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="34701" data-author="*Neptune*" data-date="2013-12-28T17:27:25+00:00">
+<div class="post" data-post-id="34701" data-author="*Neptune*" data-date="2013-12-28T17:27:25+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -536,7 +536,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="34813" data-author="*Neptune*" data-date="2014-01-21T19:20:17+00:00">
+<div class="post" data-post-id="34813" data-author="*Neptune*" data-date="2014-01-21T19:20:17+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -556,7 +556,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="34899" data-author="*Neptune*" data-date="2014-03-06T20:38:25+00:00">
+<div class="post" data-post-id="34899" data-author="*Neptune*" data-date="2014-03-06T20:38:25+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -574,7 +574,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="34996" data-author="*Neptune*" data-date="2014-04-14T14:22:17+00:00">
+<div class="post" data-post-id="34996" data-author="*Neptune*" data-date="2014-04-14T14:22:17+00:00" data-subject="Re: Wiki Updates">
 
 Greetings and Good Morning.
 
@@ -594,7 +594,7 @@ Feel free to submit a run and a map. The best of each will be rewarded.
 
 </div>
 
-<div class="post" data-post-id="35004" data-author="*Neptune*" data-date="2014-04-18T13:50:38+00:00">
+<div class="post" data-post-id="35004" data-author="*Neptune*" data-date="2014-04-18T13:50:38+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -620,7 +620,7 @@ neptune@slothmud.org
 
 </div>
 
-<div class="post" data-post-id="35013" data-author="*Neptune*" data-date="2014-04-19T20:55:53+00:00">
+<div class="post" data-post-id="35013" data-author="*Neptune*" data-date="2014-04-19T20:55:53+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -664,7 +664,7 @@ More to come.
 
 </div>
 
-<div class="post" data-post-id="35075" data-author="*Neptune*" data-date="2014-04-23T15:08:38+00:00">
+<div class="post" data-post-id="35075" data-author="*Neptune*" data-date="2014-04-23T15:08:38+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -686,7 +686,7 @@ complete set of rooms. Please be patient.
 
 </div>
 
-<div class="post" data-post-id="35081" data-author="*Neptune*" data-date="2014-04-24T20:14:02+00:00">
+<div class="post" data-post-id="35081" data-author="*Neptune*" data-date="2014-04-24T20:14:02+00:00" data-subject="Re: Wiki Updates">
 
 Salutations!
 
@@ -704,7 +704,7 @@ Thanks Unsub!
 
 </div>
 
-<div class="post" data-post-id="35084" data-author="*Neptune*" data-date="2014-04-25T14:19:42+00:00">
+<div class="post" data-post-id="35084" data-author="*Neptune*" data-date="2014-04-25T14:19:42+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -724,7 +724,7 @@ Thanks Josiah for the addition of yet another map!
 
 </div>
 
-<div class="post" data-post-id="35135" data-author="*Neptune*" data-date="2014-05-09T16:02:44+00:00">
+<div class="post" data-post-id="35135" data-author="*Neptune*" data-date="2014-05-09T16:02:44+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -778,7 +778,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="35143" data-author="*Neptune*" data-date="2014-05-11T20:42:11+00:00">
+<div class="post" data-post-id="35143" data-author="*Neptune*" data-date="2014-05-11T20:42:11+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -834,7 +834,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="35206" data-author="*Neptune*" data-date="2014-06-01T19:15:51+00:00">
+<div class="post" data-post-id="35206" data-author="*Neptune*" data-date="2014-06-01T19:15:51+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -854,7 +854,7 @@ Feel free to submit a map. Standard map rewards apply.
 
 </div>
 
-<div class="post" data-post-id="35377" data-author="*Neptune*" data-date="2014-07-07T16:12:35+00:00">
+<div class="post" data-post-id="35377" data-author="*Neptune*" data-date="2014-07-07T16:12:35+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -880,7 +880,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="35511" data-author="*Neptune*" data-date="2014-11-16T18:19:47+00:00">
+<div class="post" data-post-id="35511" data-author="*Neptune*" data-date="2014-11-16T18:19:47+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -908,7 +908,7 @@ two posts to do what one will satisfy.
 
 </div>
 
-<div class="post" data-post-id="35516" data-author="*Neptune*" data-date="2014-11-28T01:40:14+00:00">
+<div class="post" data-post-id="35516" data-author="*Neptune*" data-date="2014-11-28T01:40:14+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -928,7 +928,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="35544" data-author="*Neptune*" data-date="2014-12-05T15:35:19+00:00">
+<div class="post" data-post-id="35544" data-author="*Neptune*" data-date="2014-12-05T15:35:19+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -958,13 +958,13 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="35546" data-author="*juggleblood*" data-date="2014-12-06T16:33:57+00:00">
+<div class="post" data-post-id="35546" data-author="*juggleblood*" data-date="2014-12-06T16:33:57+00:00" data-subject="Re: Wiki Updates">
 
 So now I have F.O.C. and S.P.O.G.E. ...I should check the acronyms before I name any more areas..
 
 </div>
 
-<div class="post" data-post-id="35548" data-author="*Neptune*" data-date="2014-12-06T21:09:52+00:00">
+<div class="post" data-post-id="35548" data-author="*Neptune*" data-date="2014-12-06T21:09:52+00:00" data-subject="Re: Wiki Updates">
 
 Only one update at this time:
 
@@ -978,7 +978,7 @@ it may be of some service to take a look at the description.
 
 </div>
 
-<div class="post" data-post-id="35550" data-author="*Neptune*" data-date="2014-12-08T15:17:05+00:00">
+<div class="post" data-post-id="35550" data-author="*Neptune*" data-date="2014-12-08T15:17:05+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -1036,7 +1036,7 @@ and/or contact me in the game.
 
 </div>
 
-<div class="post" data-post-id="35595" data-author="*Neptune*" data-date="2014-12-28T19:25:12+00:00">
+<div class="post" data-post-id="35595" data-author="*Neptune*" data-date="2014-12-28T19:25:12+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -1064,7 +1064,7 @@ slothwiki@slothmud.org
 
 </div>
 
-<div class="post" data-post-id="35701" data-author="*Neptune*" data-date="2015-02-20T17:32:34+00:00">
+<div class="post" data-post-id="35701" data-author="*Neptune*" data-date="2015-02-20T17:32:34+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -1086,7 +1086,7 @@ slothwiki@slothmud.org
 
 </div>
 
-<div class="post" data-post-id="35923" data-author="*Neptune*" data-date="2015-05-30T17:11:59+00:00">
+<div class="post" data-post-id="35923" data-author="*Neptune*" data-date="2015-05-30T17:11:59+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -1122,7 +1122,7 @@ Thanks, and enjoy.
 
 </div>
 
-<div class="post" data-post-id="35940" data-author="*Neptune*" data-date="2015-06-08T19:50:54+00:00">
+<div class="post" data-post-id="35940" data-author="*Neptune*" data-date="2015-06-08T19:50:54+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -1140,7 +1140,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="36535" data-author="*Neptune*" data-date="2016-01-23T20:27:07+00:00">
+<div class="post" data-post-id="36535" data-author="*Neptune*" data-date="2016-01-23T20:27:07+00:00" data-subject="Re: Wiki Updates">
 
 Greetings,
 
@@ -1160,7 +1160,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36560" data-author="*Neptune*" data-date="2016-01-28T00:34:19+00:00">
+<div class="post" data-post-id="36560" data-author="*Neptune*" data-date="2016-01-28T00:34:19+00:00" data-subject="Re: Wiki Updates">
 
 Greetings,
 
@@ -1176,7 +1176,7 @@ Thanks to Tembikai and Dr for the new map!
 
 </div>
 
-<div class="post" data-post-id="36654" data-author="*Neptune*" data-date="2016-02-27T04:01:55+00:00">
+<div class="post" data-post-id="36654" data-author="*Neptune*" data-date="2016-02-27T04:01:55+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -1194,7 +1194,7 @@ a map for the following area:
 
 </div>
 
-<div class="post" data-post-id="36671" data-author="*Neptune*" data-date="2016-02-29T17:33:41+00:00">
+<div class="post" data-post-id="36671" data-author="*Neptune*" data-date="2016-02-29T17:33:41+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -1214,7 +1214,7 @@ Thanks to Tembikai and Dr for spending time to make us a nice map for this area!
 
 </div>
 
-<div class="post" data-post-id="36753" data-author="*Neptune*" data-date="2016-03-19T18:47:02+00:00">
+<div class="post" data-post-id="36753" data-author="*Neptune*" data-date="2016-03-19T18:47:02+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -1246,7 +1246,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="36767" data-author="*Neptune*" data-date="2016-03-24T16:27:12+00:00">
+<div class="post" data-post-id="36767" data-author="*Neptune*" data-date="2016-03-24T16:27:12+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -1262,7 +1262,7 @@ Just a few quick things this morning:
 
 </div>
 
-<div class="post" data-post-id="37014" data-author="*Neptune*" data-date="2016-06-30T13:43:51+00:00">
+<div class="post" data-post-id="37014" data-author="*Neptune*" data-date="2016-06-30T13:43:51+00:00" data-subject="Re: Wiki Updates">
 
 Greetings.
 
@@ -1276,7 +1276,7 @@ Thanks Tembikai for the map design and creation!
 
 </div>
 
-<div class="post" data-post-id="37876" data-author="*Neptune*" data-date="2016-12-24T19:43:35+00:00">
+<div class="post" data-post-id="37876" data-author="*Neptune*" data-date="2016-12-24T19:43:35+00:00" data-subject="Re: Wiki Updates">
 
 Greetings,
 
@@ -1292,7 +1292,7 @@ Thanks to all who participated in the opener / Christmas quest of 2016.
 
 </div>
 
-<div class="post" data-post-id="38624" data-author="*Neptune*" data-date="2018-01-13T18:54:29+00:00">
+<div class="post" data-post-id="38624" data-author="*Neptune*" data-date="2018-01-13T18:54:29+00:00" data-subject="Re: Wiki Updates">
 
 Greetings,
 
@@ -1336,7 +1336,7 @@ Enjoy. (More to come!)
 
 </div>
 
-<div class="post" data-post-id="38625" data-author="*Neptune*" data-date="2018-01-13T21:59:51+00:00">
+<div class="post" data-post-id="38625" data-author="*Neptune*" data-date="2018-01-13T21:59:51+00:00" data-subject="Re: Wiki Updates">
 
 Greeting once again
 
@@ -1356,7 +1356,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="38635" data-author="*Neptune*" data-date="2018-01-20T21:34:45+00:00">
+<div class="post" data-post-id="38635" data-author="*Neptune*" data-date="2018-01-20T21:34:45+00:00" data-subject="Re: Wiki Updates">
 
 Greetings,
 
@@ -1382,7 +1382,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="38647" data-author="*Neptune*" data-date="2018-01-27T21:01:41+00:00">
+<div class="post" data-post-id="38647" data-author="*Neptune*" data-date="2018-01-27T21:01:41+00:00" data-subject="Re: Wiki Updates">
 
 Greetings,
 
@@ -1410,7 +1410,7 @@ Thanks, and enjoy.
 
 </div>
 
-<div class="post" data-post-id="38648" data-author="*Neptune*" data-date="2018-01-28T18:35:38+00:00">
+<div class="post" data-post-id="38648" data-author="*Neptune*" data-date="2018-01-28T18:35:38+00:00" data-subject="Re: Wiki Updates">
 
 Greetings,
 
@@ -1424,7 +1424,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="38661" data-author="*Neptune*" data-date="2018-02-03T18:17:42+00:00">
+<div class="post" data-post-id="38661" data-author="*Neptune*" data-date="2018-02-03T18:17:42+00:00" data-subject="Re: Wiki Updates">
 
 Greetings,
 
@@ -1456,7 +1456,7 @@ Also, I want to give a shoutout to Zaq for a wonderful Village of Sheol map! Tha
 
 </div>
 
-<div class="post" data-post-id="39188" data-author="*Neptune*" data-date="2019-05-04T23:32:03+00:00">
+<div class="post" data-post-id="39188" data-author="*Neptune*" data-date="2019-05-04T23:32:03+00:00" data-subject="Re: Wiki Updates">
 
 Greetings!
 
@@ -1546,7 +1546,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="39288" data-author="*Neptune*" data-date="2019-08-03T18:44:43+00:00">
+<div class="post" data-post-id="39288" data-author="*Neptune*" data-date="2019-08-03T18:44:43+00:00" data-subject="Re: Wiki Updates">
 
 Greetings
 
@@ -1566,7 +1566,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="39289" data-author="*Neptune*" data-date="2019-08-03T19:17:39+00:00">
+<div class="post" data-post-id="39289" data-author="*Neptune*" data-date="2019-08-03T19:17:39+00:00" data-subject="Re: Wiki Updates">
 
 One more addition for the day:
 
@@ -1578,7 +1578,7 @@ Be sure to give Mage and Tembikai a pat on the back for their help! Thanks!
 
 </div>
 
-<div class="post" data-post-id="39510" data-author="*Neptune*" data-date="2020-06-14T18:21:06+00:00">
+<div class="post" data-post-id="39510" data-author="*Neptune*" data-date="2020-06-14T18:21:06+00:00" data-subject="Re: Wiki Updates">
 
 Greetings
 
@@ -1610,7 +1610,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="39871" data-author="*Neptune*" data-date="2021-12-05T18:06:48+00:00">
+<div class="post" data-post-id="39871" data-author="*Neptune*" data-date="2021-12-05T18:06:48+00:00" data-subject="Re: Wiki Updates">
 
 Greetings
 
@@ -1634,7 +1634,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="39873" data-author="*Neptune*" data-date="2021-12-05T18:41:18+00:00">
+<div class="post" data-post-id="39873" data-author="*Neptune*" data-date="2021-12-05T18:41:18+00:00" data-subject="Re: Wiki Updates">
 
 1. Created the Deep Seam wiki page.
 
@@ -1648,7 +1648,7 @@ Thanks again to Fuligin for the submission!
 
 </div>
 
-<div class="post" data-post-id="39892" data-author="*Neptune*" data-date="2022-02-27T19:04:00+00:00">
+<div class="post" data-post-id="39892" data-author="*Neptune*" data-date="2022-02-27T19:04:00+00:00" data-subject="Re: Wiki Updates">
 
 Greetings
 
@@ -1668,7 +1668,7 @@ Thanks, Fuligin!
 
 </div>
 
-<div class="post" data-post-id="40181" data-author="*Neptune*" data-date="2025-03-22T23:35:47+00:00">
+<div class="post" data-post-id="40181" data-author="*Neptune*" data-date="2025-03-22T23:35:47+00:00" data-subject="Re: Wiki Updates">
 
 Been a little while, I know.
 

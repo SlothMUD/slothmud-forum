@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="39951" data-author="Insomnia" data-date="2022-06-04T00:32:08+00:00">
+<div class="post" data-post-id="39951" data-author="Insomnia" data-date="2022-06-04T00:32:08+00:00" data-subject="Nephularax gives no exp/honor when killed by dawnfire?">
 
 There seems to be some bug with absent exp/honor from Nephularax, probably related to death by dawnfire:
 
@@ -51,13 +51,13 @@ Kat was a part of the group, of course.
 
 </div>
 
-<div class="post" data-post-id="39952" data-author="Driven" data-date="2022-06-05T13:24:33+00:00">
+<div class="post" data-post-id="39952" data-author="Driven" data-date="2022-06-05T13:24:33+00:00" data-subject="Re: Nephularax gives no exp/honor when killed by dawnfire?">
 
 I'm pretty sure I can fix this... will look at it this coming week (out of town right now).
 
 </div>
 
-<div class="post" data-post-id="39954" data-author="Driven" data-date="2022-06-26T01:47:01+00:00">
+<div class="post" data-post-id="39954" data-author="Driven" data-date="2022-06-26T01:47:01+00:00" data-subject="Re: Nephularax gives no exp/honor when killed by dawnfire?">
 
 Djavul makes the the ancient giant, Nephularax into a
 
@@ -77,7 +77,7 @@ Total exp for kill is 336562856.
 
 </div>
 
-<div class="post" data-post-id="39956" data-author="Insomnia" data-date="2022-06-27T21:00:05+00:00">
+<div class="post" data-post-id="39956" data-author="Insomnia" data-date="2022-06-27T21:00:05+00:00" data-subject="Re: Nephularax gives no exp/honor when killed by dawnfire?">
 
 But Nephularax leaves no corpse. :P Unless in the Celestial quest.
 

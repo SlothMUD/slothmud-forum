@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="10026" data-author="luke" data-date="2006-01-09T05:04:20+00:00">
+<div class="post" data-post-id="10026" data-author="luke" data-date="2006-01-09T05:04:20+00:00" data-subject="...">
 
 whats up :twisted:
 
 </div>
 
-<div class="post" data-post-id="10069" data-author="Weasel" data-date="2006-01-10T20:23:03+00:00">
+<div class="post" data-post-id="10069" data-author="Weasel" data-date="2006-01-10T20:23:03+00:00" data-subject="">
 
 WhaZzZuP!!
 

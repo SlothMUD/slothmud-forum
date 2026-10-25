@@ -10,25 +10,25 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="29114" data-author="Dragoth" data-date="2009-05-08T11:49:32+00:00">
+<div class="post" data-post-id="29114" data-author="Dragoth" data-date="2009-05-08T11:49:32+00:00" data-subject="Armor class complaint">
 
 Well it was mentioned that every armor point now counts, but i have so far gained -2 whole points and went from -2.4 to -4.4 and i can honestly say i see absolutely no difference, mobs still hit me as much if not more and i have even tested this by removing some of my eq and it makes no difference whatsever. Elderly men in newbatia still hit me as much at -4.4 as they used to hit me at +2, whats the deal?
 
 </div>
 
-<div class="post" data-post-id="29120" data-author="*juggleblood*" data-date="2009-05-08T22:31:58+00:00">
+<div class="post" data-post-id="29120" data-author="*juggleblood*" data-date="2009-05-08T22:31:58+00:00" data-subject="">
 
 It would be hard to confirm this thru casual observation. Statistically there should be very little difference between -2 and -4 on a mob with very poor hitroll. I haven't heard any other reports of ac failing to work, but I'll keep my ears open and do some testing if necessary.
 
 </div>
 
-<div class="post" data-post-id="29121" data-author="alias" data-date="2009-05-08T22:39:10+00:00">
+<div class="post" data-post-id="29121" data-author="alias" data-date="2009-05-08T22:39:10+00:00" data-subject="">
 
 The deal is the game as you once knew it is now broken and will never be the same.
 
 </div>
 
-<div class="post" data-post-id="29122" data-author="Rodek" data-date="2009-05-09T00:00:38+00:00">
+<div class="post" data-post-id="29122" data-author="Rodek" data-date="2009-05-09T00:00:38+00:00" data-subject="">
 
 last player alias
 
@@ -40,7 +40,7 @@ You probably tried it out enough in the process of getting 9 levels to understan
 
 </div>
 
-<div class="post" data-post-id="29124" data-author="alias" data-date="2009-05-09T03:07:00+00:00">
+<div class="post" data-post-id="29124" data-author="alias" data-date="2009-05-09T03:07:00+00:00" data-subject="">
 
 Ive played enough different muds to know whats going on. I enjoyed my time here and don't regret the friends Ive made. And yes, I have seen enough in my 9 levels to know whats going on. Hell, when you have 18 yrs of mudding exp it doesn't take getting 40 levels to know when things have changed enough to know what you do and don't like.
 
@@ -48,7 +48,7 @@ For me the party is over and I shall go on, enjoy your journey and I shall enjoy
 
 </div>
 
-<div class="post" data-post-id="29126" data-author="Dragoth" data-date="2009-05-09T11:53:12+00:00">
+<div class="post" data-post-id="29126" data-author="Dragoth" data-date="2009-05-09T11:53:12+00:00" data-subject="">
 
 Shrugs Alias, I personally have no problems at all with the game so far except for some minor complaints. Im playing almost the same class i played before and i can report no major shifts in the progress of the game  that i experienced before. Yes i have more skills, yes my armor is not working as well as it was before.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="35919" data-author="Josiah" data-date="2015-05-26T18:07:29+00:00">
+<div class="post" data-post-id="35919" data-author="Josiah" data-date="2015-05-26T18:07:29+00:00" data-subject="Lair of the Succubi (map)">
 
 Sneak peek: Draft map of Lair of the Succubi
 
@@ -20,7 +20,7 @@ This map has been long in coming; I've had a few versions of it sitting around a
 
 </div>
 
-<div class="post" data-post-id="35925" data-author="*Idjit*" data-date="2015-05-31T21:56:14+00:00">
+<div class="post" data-post-id="35925" data-author="*Idjit*" data-date="2015-05-31T21:56:14+00:00" data-subject="Re: Lair of the Succubi (map)">
 
 There's at least one other way to get to the Lair.
 
@@ -30,13 +30,13 @@ From west gate:
 
 </div>
 
-<div class="post" data-post-id="35927" data-author="Josiah" data-date="2015-06-02T04:19:32+00:00">
+<div class="post" data-post-id="35927" data-author="Josiah" data-date="2015-06-02T04:19:32+00:00" data-subject="Re: Lair of the Succubi (map)">
 
 Belili wouldn't be happy if she finds out I'm cheating on her...
 
 </div>
 
-<div class="post" data-post-id="35983" data-author="Shyla" data-date="2015-07-06T13:10:08+00:00">
+<div class="post" data-post-id="35983" data-author="Shyla" data-date="2015-07-06T13:10:08+00:00" data-subject="Re: Lair of the Succubi (map)">
 
 unless it has been changed if you character is female the only way I know to get in is to have a male character gate you in...Deb aka shyla
 

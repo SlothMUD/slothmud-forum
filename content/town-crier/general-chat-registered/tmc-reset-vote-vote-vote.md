@@ -10,13 +10,13 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="30927" data-author="blackmore" data-date="2010-03-01T15:46:34+00:00">
+<div class="post" data-post-id="30927" data-author="blackmore" data-date="2010-03-01T15:46:34+00:00" data-subject="TMC Reset - vote! vote! vote!">
 
 With the rate that we were getting votes recently, I'm betting we can take over #1.
 
 </div>
 
-<div class="post" data-post-id="30929" data-author="Thraxas" data-date="2010-03-03T09:06:38+00:00">
+<div class="post" data-post-id="30929" data-author="Thraxas" data-date="2010-03-03T09:06:38+00:00" data-subject="">
 
 Today the banner says #3 this seems to only be updated daily.
 
@@ -52,7 +52,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30933" data-author="Toxis" data-date="2010-03-03T18:38:43+00:00">
+<div class="post" data-post-id="30933" data-author="Toxis" data-date="2010-03-03T18:38:43+00:00" data-subject="">
 
 1. SlothMUD  view stats  57  
 
@@ -66,7 +66,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30939" data-author="*juggleblood*" data-date="2010-03-04T21:14:37+00:00">
+<div class="post" data-post-id="30939" data-author="*juggleblood*" data-date="2010-03-04T21:14:37+00:00" data-subject="#2 is first loser">
 
 So i guess we were #1 for a while yesterday and only 3 votes away right now.
 
@@ -74,7 +74,7 @@ VoTe!
 
 </div>
 
-<div class="post" data-post-id="30945" data-author="Toxis" data-date="2010-03-06T14:55:49+00:00">
+<div class="post" data-post-id="30945" data-author="Toxis" data-date="2010-03-06T14:55:49+00:00" data-subject="">
 
 1. SlothMUD  121 votes  (25T/171H)  
 

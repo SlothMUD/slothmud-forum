@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="33482" data-author="Dasseem" data-date="2012-08-25T14:43:09+00:00">
+<div class="post" data-post-id="33482" data-author="Dasseem" data-date="2012-08-25T14:43:09+00:00" data-subject="why did my AC drop">
 
 Dasseem the first Sword %s  (level: 20)
 
@@ -102,13 +102,13 @@ am i missing something? or did some stats get deleted or something?
 
 </div>
 
-<div class="post" data-post-id="33483" data-author="*juggleblood*" data-date="2012-08-25T14:56:28+00:00">
+<div class="post" data-post-id="33483" data-author="*juggleblood*" data-date="2012-08-25T14:56:28+00:00" data-subject="Re: why did my AC drop">
 
 I notice your dex is only 17, did you change something that lowered your dex?
 
 </div>
 
-<div class="post" data-post-id="33484" data-author="Dasseem" data-date="2012-08-25T15:00:36+00:00">
+<div class="post" data-post-id="33484" data-author="Dasseem" data-date="2012-08-25T15:00:36+00:00" data-subject="Re: why did my AC drop">
 
 > ***juggleblood* wrote:**
 > I notice your dex is only 17, did you change something that lowered your dex?
@@ -121,13 +121,13 @@ and i hit eq right after i hit stats, so thats the information i have for that k
 
 </div>
 
-<div class="post" data-post-id="33486" data-author="*juggleblood*" data-date="2012-08-25T15:17:43+00:00">
+<div class="post" data-post-id="33486" data-author="*juggleblood*" data-date="2012-08-25T15:17:43+00:00" data-subject="Re: why did my AC drop">
 
 I have no clue, but fyi there is eq for sale at the lyme blacksmith that will improve your AC.
 
 </div>
 
-<div class="post" data-post-id="33487" data-author="Dragoth" data-date="2012-08-25T15:18:58+00:00">
+<div class="post" data-post-id="33487" data-author="Dragoth" data-date="2012-08-25T15:18:58+00:00" data-subject="Re: why did my AC drop">
 
 Two spells that change your AC is web and faerie fire, ask some level 40 char to dispel you just in case.
 
@@ -135,7 +135,7 @@ If you are still missing AC after being dispelled, you are just paranoid.
 
 </div>
 
-<div class="post" data-post-id="33497" data-author="Dasseem" data-date="2012-08-25T23:18:22+00:00">
+<div class="post" data-post-id="33497" data-author="Dasseem" data-date="2012-08-25T23:18:22+00:00" data-subject="Re: why did my AC drop">
 
 ok so i was starting to think i was crazy, then i got
 

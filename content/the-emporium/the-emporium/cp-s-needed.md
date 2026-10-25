@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="4110" data-author="Methyx" data-date="2005-02-04T02:47:29+00:00">
+<div class="post" data-post-id="4110" data-author="Methyx" data-date="2005-02-04T02:47:29+00:00" data-subject="CP&#x27;s Needed">
 
 I have a small wish list I'm trying to flesh out.   Here's what I'm looking for:
 

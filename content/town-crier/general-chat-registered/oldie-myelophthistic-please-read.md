@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9299" data-author="Blackguard" data-date="2005-10-28T20:06:14+00:00">
+<div class="post" data-post-id="9299" data-author="Blackguard" data-date="2005-10-28T20:06:14+00:00" data-subject="Oldie/Myelophthistic please read!">
 
 Hello,
 

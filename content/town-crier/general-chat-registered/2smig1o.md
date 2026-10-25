@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8505" data-author="Krok" data-date="2005-09-01T07:14:32+00:00">
+<div class="post" data-post-id="8505" data-author="Krok" data-date="2005-09-01T07:14:32+00:00" data-subject="2smig1o">
 
 Erm, mudmail me (Krok), because I have no idea which chars you own, so I can't ship you the greaves.
 

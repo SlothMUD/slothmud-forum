@@ -10,13 +10,13 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="1470" data-author="doug" data-date="2004-08-17T23:50:51+00:00">
+<div class="post" data-post-id="1470" data-author="doug" data-date="2004-08-17T23:50:51+00:00" data-subject="damage reduction maximum">
 
 I am under the impression that there is a max damage reduction for non monk primes. How many +items can i use as a monk tert? Any idea?
 
 </div>
 
-<div class="post" data-post-id="3055" data-author="Methyx" data-date="2004-11-26T06:35:52+00:00">
+<div class="post" data-post-id="3055" data-author="Methyx" data-date="2004-11-26T06:35:52+00:00" data-subject="Damage Reduction max and Hand Damage">
 
 No one has responded, but I'd like to bring the question back up.  
 
@@ -32,7 +32,7 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="3056" data-author="Mullah" data-date="2004-11-26T12:31:37+00:00">
+<div class="post" data-post-id="3056" data-author="Mullah" data-date="2004-11-26T12:31:37+00:00" data-subject="">
 
 You have +4 tp hit and +19 on damage.
 
@@ -64,7 +64,7 @@ Aaron/Karkus/(ex)Mullah/Thirteen
 
 </div>
 
-<div class="post" data-post-id="3176" data-author="DR gear" data-date="2004-12-04T13:07:11+00:00">
+<div class="post" data-post-id="3176" data-author="DR gear" data-date="2004-12-04T13:07:11+00:00" data-subject="">
 
 1% eh?  I was under the impression that damage reduction (when it works) would take a certain amount of damage off each attack.  So, something hits you for 25 damage then DR is 5 so you'd take 20 damage.
 
@@ -72,7 +72,7 @@ We need to do some testing  :)
 
 </div>
 
-<div class="post" data-post-id="3181" data-author="guest" data-date="2004-12-04T17:32:49+00:00">
+<div class="post" data-post-id="3181" data-author="guest" data-date="2004-12-04T17:32:49+00:00" data-subject="">
 
 1% eh?  I was under the impression that damage reduction (when it works) would take a certain amount of damage off each attack.  So, something hits you for 25 damage then DR is 5 so you'd take 20 damage.
 
@@ -92,13 +92,13 @@ to just 5hp taken off :)
 
 </div>
 
-<div class="post" data-post-id="3183" data-author="DR" data-date="2004-12-04T17:50:07+00:00">
+<div class="post" data-post-id="3183" data-author="DR" data-date="2004-12-04T17:50:07+00:00" data-subject="">
 
 A monk/warrior has more innate damage reduction than a warrior/monk.
 
 </div>
 
-<div class="post" data-post-id="3184" data-author="Leaf" data-date="2004-12-04T18:32:03+00:00">
+<div class="post" data-post-id="3184" data-author="Leaf" data-date="2004-12-04T18:32:03+00:00" data-subject="">
 
 A monk/warrior has more innate damage reduction than a warrior/monk.[/quote:3q5xqsdo]
 
@@ -120,7 +120,7 @@ out there so I guess they wouldn't really do that.  :)
 
 </div>
 
-<div class="post" data-post-id="3185" data-author="*Splork*" data-date="2004-12-04T18:54:00+00:00">
+<div class="post" data-post-id="3185" data-author="*Splork*" data-date="2004-12-04T18:54:00+00:00" data-subject="">
 
 Yes, Leaf is incorrect.
 

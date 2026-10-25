@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="21453" data-author="Akasha" data-date="2007-11-28T09:11:42+00:00">
+<div class="post" data-post-id="21453" data-author="Akasha" data-date="2007-11-28T09:11:42+00:00" data-subject="Yeah I&#x27;m bored tonight : Soulja Boy">
 
 Yeah, so im bored tonight, so i decided to offer a translation of soulja boy's Superman song :)  After you read it, goto  [url:2tu9disp][<LINK_TEXT text="http://www.youtube.com/watch?v=aMs7d0QU ... re=related">http://www.youtube.com/watch?v=aMs7d0QUiuo&feature=related</LINK_TEXT>](http://www.youtube.com/watch?v=aMs7d0QUiuo&feature=related)[/url:2tu9disp]
 
@@ -242,7 +242,7 @@ Now watch me yuuuuaaaaaa!
 
 </div>
 
-<div class="post" data-post-id="21454" data-author="Tap" data-date="2007-11-28T10:50:21+00:00">
+<div class="post" data-post-id="21454" data-author="Tap" data-date="2007-11-28T10:50:21+00:00" data-subject="">
 
 [img:l7iaym8o]http://www.sacobserver.com/business/images/redd_foxx_mug.jpg[/img:l7iaym8o]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="16876" data-author="12345" data-date="2007-02-14T04:33:20+00:00">
+<div class="post" data-post-id="16876" data-author="12345" data-date="2007-02-14T04:33:20+00:00" data-subject="What is a good classo?">
 
 When most players start looking at Sloth, this is one of the first questions that they ask.  Ultimately, its of limited value since Sloth is fairly well balanced and no particular classo is omnipotent.  After all, if one was, everyone would be playing it.  In the end, a good classo is one that does what you want it to.
 
@@ -46,13 +46,13 @@ Just try to be sure you know how you want to tie things together to get where yo
 
 </div>
 
-<div class="post" data-post-id="16884" data-author="13" data-date="2007-02-14T15:07:43+00:00">
+<div class="post" data-post-id="16884" data-author="13" data-date="2007-02-14T15:07:43+00:00" data-subject="">
 
 i think ma/mo/cl/wa will be extra fun in the arena
 
 </div>
 
-<div class="post" data-post-id="16888" data-author="firebrand" data-date="2007-02-14T18:52:12+00:00">
+<div class="post" data-post-id="16888" data-author="firebrand" data-date="2007-02-14T18:52:12+00:00" data-subject="">
 
 if you are a new player to sloth and are not sure of what classo to choose, i offer this:  make several different chars and classos.  we do not limit the number of chars a player can have.  play the char for a couple days to get a feel for how it works for you.  if you find it difficult or uncomfortable, make another char/classo.  yes, listen to the other ideas and suggestions given by other players.  they have good reason for telling you what works for them.  also, take a look at our eq list ( [www.slothmud.org/eqlist](http://www.slothmud.org/eqlist) ) and our skills/spells/abilities ( [http://www.slothmud.org/index.php?name=PagEd&page_id=3](http://www.slothmud.org/index.php?name=PagEd&page_id=3) & go to the homepage and click on the classname for more indepth info) lists for the different classes and see what you would like to be able to do with your char to help you decide if you do/n't want that class.  imho the best classo is the one that YOU have the most fun with
 
@@ -60,7 +60,7 @@ if you are a new player to sloth and are not sure of what classo to choose, i of
 
 </div>
 
-<div class="post" data-post-id="16893" data-author="*juggleblood*" data-date="2007-02-14T21:49:05+00:00">
+<div class="post" data-post-id="16893" data-author="*juggleblood*" data-date="2007-02-14T21:49:05+00:00" data-subject="">
 
 There so many good classo's its almost easier to ask: What is a bad classo?
 

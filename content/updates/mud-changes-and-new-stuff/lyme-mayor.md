@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5891" data-author="guest" data-date="2005-05-01T13:15:59+00:00">
+<div class="post" data-post-id="5891" data-author="guest" data-date="2005-05-01T13:15:59+00:00" data-subject="Lyme mayor">
 
 Greetings, adventurers ...
 

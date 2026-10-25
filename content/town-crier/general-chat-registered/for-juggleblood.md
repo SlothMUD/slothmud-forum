@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="29908" data-author="Dragoth" data-date="2009-08-21T10:54:19+00:00">
+<div class="post" data-post-id="29908" data-author="Dragoth" data-date="2009-08-21T10:54:19+00:00" data-subject="For Juggleblood">
 
 I cant seem to send any messages out and i've sent you an email 4 days ago and had no acknowledgement so i'll just post it here:
 
@@ -18,7 +18,7 @@ I am having difficulties getting the white stargazer lily for the graygem forge,
 
 </div>
 
-<div class="post" data-post-id="29918" data-author="*Splork*" data-date="2009-08-22T15:21:34+00:00">
+<div class="post" data-post-id="29918" data-author="*Splork*" data-date="2009-08-22T15:21:34+00:00" data-subject="">
 
 This has been resolved.
 
@@ -28,13 +28,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29919" data-author="Dragoth" data-date="2009-08-22T15:25:50+00:00">
+<div class="post" data-post-id="29919" data-author="Dragoth" data-date="2009-08-22T15:25:50+00:00" data-subject="">
 
 Ty Splork, very nice of you to look into it !
 
 </div>
 
-<div class="post" data-post-id="29925" data-author="*juggleblood*" data-date="2009-08-24T05:17:24+00:00">
+<div class="post" data-post-id="29925" data-author="*juggleblood*" data-date="2009-08-24T05:17:24+00:00" data-subject="">
 
 I'm sorry. I have some rl drama and been very busy. 
 

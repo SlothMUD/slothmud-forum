@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="7614" data-author="fowlon" data-date="2005-06-26T14:28:06+00:00">
+<div class="post" data-post-id="7614" data-author="fowlon" data-date="2005-06-26T14:28:06+00:00" data-subject="How to compare +2 dex to armor">
 
 I have 14 dex.
 
@@ -20,25 +20,25 @@ thanks
 
 </div>
 
-<div class="post" data-post-id="7615" data-author="brand" data-date="2005-06-26T14:48:20+00:00">
+<div class="post" data-post-id="7615" data-author="brand" data-date="2005-06-26T14:48:20+00:00" data-subject="">
 
 try to get both
 
 </div>
 
-<div class="post" data-post-id="7616" data-author="fowlon" data-date="2005-06-26T14:51:10+00:00">
+<div class="post" data-post-id="7616" data-author="fowlon" data-date="2005-06-26T14:51:10+00:00" data-subject="">
 
 I can't find the right eq for it so I have to choose one
 
 </div>
 
-<div class="post" data-post-id="7618" data-author="brand" data-date="2005-06-26T15:00:37+00:00">
+<div class="post" data-post-id="7618" data-author="brand" data-date="2005-06-26T15:00:37+00:00" data-subject="">
 
 get the dex work on the armor
 
 </div>
 
-<div class="post" data-post-id="7621" data-author="12345" data-date="2005-06-26T18:41:26+00:00">
+<div class="post" data-post-id="7621" data-author="12345" data-date="2005-06-26T18:41:26+00:00" data-subject="">
 
 If possible, you always want to have 18 dex, since it's -4.0 AC.  Every dex point above 14 is -1.0 ac.
 

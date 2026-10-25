@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="27215" data-author="Autolycos" data-date="2008-11-19T13:43:00+00:00">
+<div class="post" data-post-id="27215" data-author="Autolycos" data-date="2008-11-19T13:43:00+00:00" data-subject="Holy Krap... The Tarsiers in Irapute are real!!">
 
 [b:1xmjxy0u]Tiny, long-lost primate rediscovered in Indonesia[/b:1xmjxy0u]
 
@@ -48,19 +48,19 @@ Her group observed the first live pygmy tarsier in August at an elevation of abo
 
 </div>
 
-<div class="post" data-post-id="27216" data-author="Virus" data-date="2008-11-19T13:52:30+00:00">
+<div class="post" data-post-id="27216" data-author="Virus" data-date="2008-11-19T13:52:30+00:00" data-subject="">
 
 Aggressive little things, I stab a few of them the other day  :twisted:
 
 </div>
 
-<div class="post" data-post-id="27217" data-author="Yasik2" data-date="2008-11-19T17:25:20+00:00">
+<div class="post" data-post-id="27217" data-author="Yasik2" data-date="2008-11-19T17:25:20+00:00" data-subject="">
 
 it looks like little young Yoda
 
 </div>
 
-<div class="post" data-post-id="27230" data-author="Tap" data-date="2008-11-19T23:15:37+00:00">
+<div class="post" data-post-id="27230" data-author="Tap" data-date="2008-11-19T23:15:37+00:00" data-subject="">
 
 This has fake written all over it. I bet someone will admit to it and claim it was to bring to extinction caused by global warming.
 
@@ -68,7 +68,7 @@ ps- I wonder if it taste like chicken...
 
 </div>
 
-<div class="post" data-post-id="27239" data-author="Weasel" data-date="2008-11-20T01:28:37+00:00">
+<div class="post" data-post-id="27239" data-author="Weasel" data-date="2008-11-20T01:28:37+00:00" data-subject="Re: Holy Krap... The Tarsiers in Irapute are real!!">
 
 Tiny, long-lost primate rediscovered in Indonesia
 
@@ -80,13 +80,13 @@ pygmy tarsier? bollockx, that's not a tarsier, that's a FURBY!
 
 </div>
 
-<div class="post" data-post-id="27240" data-author="Tap" data-date="2008-11-20T01:30:14+00:00">
+<div class="post" data-post-id="27240" data-author="Tap" data-date="2008-11-20T01:30:14+00:00" data-subject="">
 
 Nailed it!!!!
 
 </div>
 
-<div class="post" data-post-id="27244" data-author="Autolycos" data-date="2008-11-20T03:36:40+00:00">
+<div class="post" data-post-id="27244" data-author="Autolycos" data-date="2008-11-20T03:36:40+00:00" data-subject="">
 
 sure the **** looks like a furby.....
 

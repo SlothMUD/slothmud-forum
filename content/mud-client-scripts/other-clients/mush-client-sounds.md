@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34312" data-author="Yasik" data-date="2013-06-02T16:25:48+00:00">
+<div class="post" data-post-id="34312" data-author="Yasik" data-date="2013-06-02T16:25:48+00:00" data-subject="MUSH Client Sounds">
 
 Hi guys!
 

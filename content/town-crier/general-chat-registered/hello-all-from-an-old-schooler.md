@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="8690" data-author="Zorich" data-date="2005-09-15T17:59:30+00:00">
+<div class="post" data-post-id="8690" data-author="Zorich" data-date="2005-09-15T17:59:30+00:00" data-subject="Hello All, From an Old-Schooler...">
 
 Hey All,
 
@@ -24,13 +24,13 @@ I'll check back from time to time - so if you remember me, please, post and I'll
 
 </div>
 
-<div class="post" data-post-id="8692" data-author="13" data-date="2005-09-15T18:05:13+00:00">
+<div class="post" data-post-id="8692" data-author="13" data-date="2005-09-15T18:05:13+00:00" data-subject="">
 
 Dannnnnnnn, what's up dude.
 
 </div>
 
-<div class="post" data-post-id="8693" data-author="Zorich" data-date="2005-09-15T18:10:31+00:00">
+<div class="post" data-post-id="8693" data-author="Zorich" data-date="2005-09-15T18:10:31+00:00" data-subject="">
 
 Wow - someone remembers my name, affectations and all.
 
@@ -38,7 +38,7 @@ What's up?  I've looked at your profile and got no clue what-so-ever of who you 
 
 </div>
 
-<div class="post" data-post-id="8694" data-author="13" data-date="2005-09-15T18:16:56+00:00">
+<div class="post" data-post-id="8694" data-author="13" data-date="2005-09-15T18:16:56+00:00" data-subject="">
 
 it's aaron, prob remember me as Cubby Virgin or Riceman
 
@@ -46,7 +46,7 @@ long time no see.  I haven;t seen a single person here with a gnarled bloody or 
 
 </div>
 
-<div class="post" data-post-id="8696" data-author="Zorich" data-date="2005-09-15T18:32:20+00:00">
+<div class="post" data-post-id="8696" data-author="Zorich" data-date="2005-09-15T18:32:20+00:00" data-subject="">
 
 Ahhh, Cubby definitely rings a bell.  Riceman too to some extent - but for some reason I think I remember Cubby from a few quests I either ran or participated in.
 
@@ -60,7 +60,7 @@ So what have you been doing with yourself man?
 
 </div>
 
-<div class="post" data-post-id="8697" data-author="12345" data-date="2005-09-15T19:13:15+00:00">
+<div class="post" data-post-id="8697" data-author="12345" data-date="2005-09-15T19:13:15+00:00" data-subject="">
 
 I don't remember the Gnarled Bloody too well, but thinking about this did bring the Specularem back to mind.  Jeez, that was the most overpowered item in the game - EVER![/quote:8ino2jxl]
 
@@ -68,7 +68,7 @@ Still in game, though it can't be rented or leave Lyme :)  It's even got a few c
 
 </div>
 
-<div class="post" data-post-id="8701" data-author="Axtrel" data-date="2005-09-16T00:42:53+00:00">
+<div class="post" data-post-id="8701" data-author="Axtrel" data-date="2005-09-16T00:42:53+00:00" data-subject="">
 
 Its been awhile, but I remember loving the midgaard runs with Elsol and yourself.
 
@@ -76,7 +76,7 @@ Asreil W:40 Ma:40 {Sloth II}
 
 </div>
 
-<div class="post" data-post-id="8708" data-author="Zorich" data-date="2005-09-16T12:03:51+00:00">
+<div class="post" data-post-id="8708" data-author="Zorich" data-date="2005-09-16T12:03:51+00:00" data-subject="">
 
 Its been awhile, but I remember loving the midgaard runs with Elsol and yourself.
 
@@ -86,13 +86,13 @@ Oh yeah!  We used to positively camp that area.  It was a great 4-Man, and a dec
 
 </div>
 
-<div class="post" data-post-id="8710" data-author="Grue" data-date="2005-09-16T14:13:53+00:00">
+<div class="post" data-post-id="8710" data-author="Grue" data-date="2005-09-16T14:13:53+00:00" data-subject="">
 
 So you gonna come back and play? :)
 
 </div>
 
-<div class="post" data-post-id="8711" data-author="Zorich" data-date="2005-09-16T15:25:02+00:00">
+<div class="post" data-post-id="8711" data-author="Zorich" data-date="2005-09-16T15:25:02+00:00" data-subject="">
 
 So you gonna come back and play? :)[/quote:36dcduhi]
 

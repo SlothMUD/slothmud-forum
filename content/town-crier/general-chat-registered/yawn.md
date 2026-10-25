@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="24411" data-author="Dragoth" data-date="2008-05-20T18:33:42+00:00">
+<div class="post" data-post-id="24411" data-author="Dragoth" data-date="2008-05-20T18:33:42+00:00" data-subject="Yawn">
 
 Regen 20 ticks
 
@@ -22,13 +22,13 @@ No wonder its called sloth... :idea:
 
 </div>
 
-<div class="post" data-post-id="24412" data-author="Medios" data-date="2008-05-20T21:18:17+00:00">
+<div class="post" data-post-id="24412" data-author="Medios" data-date="2008-05-20T21:18:17+00:00" data-subject="">
 
 Dogs doesn't even have to regen that long....
 
 </div>
 
-<div class="post" data-post-id="24413" data-author="Dragoth" data-date="2008-05-20T22:00:54+00:00">
+<div class="post" data-post-id="24413" data-author="Dragoth" data-date="2008-05-20T22:00:54+00:00" data-subject="">
 
 Obviously im being sarcastic. But Dragoth have 815 mana and 100mr currently without full set of regen gear. Thats 8 ticks. Then we must consider mems, summon undeads liting undeads.  Thats another 4 ticks. Then haste, wraithform self, shapeshift lagg for 20 seconds and then kill a big mob like morrigan for 5 ticks and im drained. 
 
@@ -36,7 +36,7 @@ Is that a big yawn or what.
 
 </div>
 
-<div class="post" data-post-id="24416" data-author="Weasel" data-date="2008-05-20T22:12:57+00:00">
+<div class="post" data-post-id="24416" data-author="Weasel" data-date="2008-05-20T22:12:57+00:00" data-subject="">
 
 join the club.
 
@@ -44,7 +44,7 @@ personally I'd love to have 100mr...
 
 </div>
 
-<div class="post" data-post-id="24419" data-author="Stryx" data-date="2008-05-20T22:29:25+00:00">
+<div class="post" data-post-id="24419" data-author="Stryx" data-date="2008-05-20T22:29:25+00:00" data-subject="">
 
 [quote:318lhcqw]personally I'd love to have 100mr...[/quote:318lhcqw]
 
@@ -52,13 +52,13 @@ Me too, instead of this rediculous 165!
 
 </div>
 
-<div class="post" data-post-id="24420" data-author="Yinao" data-date="2008-05-20T22:34:29+00:00">
+<div class="post" data-post-id="24420" data-author="Yinao" data-date="2008-05-20T22:34:29+00:00" data-subject="">
 
 Costs alot to solo eq mobs eh? What do you want? Perma max mana? Perma max hp? You said it yourself you dont have a full set of regen gear... Get one?
 
 </div>
 
-<div class="post" data-post-id="24422" data-author="jezer" data-date="2008-05-21T01:29:40+00:00">
+<div class="post" data-post-id="24422" data-author="jezer" data-date="2008-05-21T01:29:40+00:00" data-subject="">
 
 No one has suggested to make a new char yet... disappointing...  :wink:  :twisted:
 
@@ -74,7 +74,7 @@ I made 2,683,085,048 xp solo last week... that was flaming 29hrs of running xp s
 
 </div>
 
-<div class="post" data-post-id="24424" data-author="Dragoth" data-date="2008-05-21T01:39:33+00:00">
+<div class="post" data-post-id="24424" data-author="Dragoth" data-date="2008-05-21T01:39:33+00:00" data-subject="">
 
 Im a Ma/dr/cl/ne
 
@@ -84,7 +84,7 @@ Just goes to show that the only classes happy with their regen are either cl/dr 
 
 </div>
 
-<div class="post" data-post-id="24426" data-author="jezer" data-date="2008-05-21T01:46:08+00:00">
+<div class="post" data-post-id="24426" data-author="jezer" data-date="2008-05-21T01:46:08+00:00" data-subject="">
 
 Your regen is 100? Do you have access to a vault?
 
@@ -96,7 +96,7 @@ Prime Druid regen is nice... and yes I like it, and yes there is no problem with
 
 </div>
 
-<div class="post" data-post-id="24429" data-author="Tap" data-date="2008-05-21T03:37:01+00:00">
+<div class="post" data-post-id="24429" data-author="Tap" data-date="2008-05-21T03:37:01+00:00" data-subject="">
 
 [quote:1vd0k4w8]I made 2,683,085,048 xp solo last week... that was flaming 29hrs of running xp solo... Vaire could make that in less than 9hrs. Everyone has a sore point.[/quote:1vd0k4w8]
 
@@ -104,7 +104,7 @@ Vaire is overpowered. He should be pworded until he can be properly nerfed to no
 
 </div>
 
-<div class="post" data-post-id="24430" data-author="jezer" data-date="2008-05-21T03:51:22+00:00">
+<div class="post" data-post-id="24430" data-author="jezer" data-date="2008-05-21T03:51:22+00:00" data-subject="">
 
 [quote:34e0zv6j]I made 2,683,085,048 xp solo last week... that was flaming 29hrs of running xp solo... Vaire could make that in less than 9hrs. Everyone has a sore point.[/quote:34e0zv6j]
 
@@ -118,7 +118,7 @@ If your prepared to spend as much drachma and coins as he is... so be it... he's
 
 </div>
 
-<div class="post" data-post-id="24434" data-author="Dragoth" data-date="2008-05-21T11:48:21+00:00">
+<div class="post" data-post-id="24434" data-author="Dragoth" data-date="2008-05-21T11:48:21+00:00" data-subject="">
 
 As i said, that isnt a complete regen gear, with full regen gear i have 115mr outside, not in a vault. So that is around 30mana regen difference for druid prime. But then you dont have mirrors, so i guess its a fair sacrifice.
 
@@ -132,19 +132,19 @@ Its just a bit of shame that everything in the mud today is concerned with nerfi
 
 </div>
 
-<div class="post" data-post-id="24436" data-author="Dragoth" data-date="2008-05-21T12:01:27+00:00">
+<div class="post" data-post-id="24436" data-author="Dragoth" data-date="2008-05-21T12:01:27+00:00" data-subject="">
 
 ........
 
 </div>
 
-<div class="post" data-post-id="24437" data-author="Dragoth" data-date="2008-05-21T12:01:27+00:00">
+<div class="post" data-post-id="24437" data-author="Dragoth" data-date="2008-05-21T12:01:27+00:00" data-subject="">
 
 ............
 
 </div>
 
-<div class="post" data-post-id="24438" data-author="Dragoth" data-date="2008-05-21T12:01:28+00:00">
+<div class="post" data-post-id="24438" data-author="Dragoth" data-date="2008-05-21T12:01:28+00:00" data-subject="">
 
 Just add 6th's class, make it cost lots of exp. Yeah it doesnt sound right for many, but
 
@@ -170,7 +170,7 @@ Let the mud grow..
 
 </div>
 
-<div class="post" data-post-id="24441" data-author="Weasel" data-date="2008-05-21T15:18:19+00:00">
+<div class="post" data-post-id="24441" data-author="Weasel" data-date="2008-05-21T15:18:19+00:00" data-subject="">
 
 Its just a bit of shame that everything in the mud today is concerned with nerfing, there are some great additions like tumbling defence once in awhile, but why cant imms concentrate more on CONTINUING the mud, instead of nerfing everyone so that exp and leveling becomes slower.[/quote:32m58jqp]
 

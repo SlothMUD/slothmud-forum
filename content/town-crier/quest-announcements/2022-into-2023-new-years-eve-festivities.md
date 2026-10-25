@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39996" data-author="*Idjit*" data-date="2022-12-31T04:35:30+00:00">
+<div class="post" data-post-id="39996" data-author="*Idjit*" data-date="2022-12-31T04:35:30+00:00" data-subject="2022 into 2023 New Years Eve Festivities">
 
 At noon Pacific 12/31/2022 there will be a very minimal epic load and Brontosaurus
 

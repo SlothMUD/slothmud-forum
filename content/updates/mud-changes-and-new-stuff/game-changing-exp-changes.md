@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33012" data-author="*Splork*" data-date="2011-11-27T19:30:24+00:00">
+<div class="post" data-post-id="33012" data-author="*Splork*" data-date="2011-11-27T19:30:24+00:00" data-subject="Game changing Exp changes">
 
 Recently, Clink was able to garner some very useful statistics from data which we have been collecting since day 1 of this version of SlothMUD. We have  been tracking every level, by every player, and registered the times and dates accordingly. After two and a half years, we believe we have collected enough data to make a rather enormous change regarding experience points.
 

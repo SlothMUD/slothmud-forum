@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="34669" data-author="Ker" data-date="2013-12-21T14:44:18+00:00">
+<div class="post" data-post-id="34669" data-author="Ker" data-date="2013-12-21T14:44:18+00:00" data-subject="Jodhpurs of the Zodiac Order Forge">
 
 Good day,
 
@@ -292,7 +292,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="34683" data-author="Ker" data-date="2013-12-24T06:06:51+00:00">
+<div class="post" data-post-id="34683" data-author="Ker" data-date="2013-12-24T06:06:51+00:00" data-subject="Re: Jodhpurs of the Zodiac Order Forge">
 
 Just to clear some air, identified cps do not show on the eqlist.
 
@@ -304,7 +304,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="34684" data-author="*Breeze*" data-date="2013-12-24T06:59:15+00:00">
+<div class="post" data-post-id="34684" data-author="*Breeze*" data-date="2013-12-24T06:59:15+00:00" data-subject="Re: Jodhpurs of the Zodiac Order Forge">
 
 1x a book of the zodiac constellations 
 
@@ -318,13 +318,13 @@ all show up in the eqlist. whats not showing up?
 
 </div>
 
-<div class="post" data-post-id="34685" data-author="Ker" data-date="2013-12-24T12:10:04+00:00">
+<div class="post" data-post-id="34685" data-author="Ker" data-date="2013-12-24T12:10:04+00:00" data-subject="Re: Jodhpurs of the Zodiac Order Forge">
 
 The cp's - E.g wheat, trinket etc etc -
 
 </div>
 
-<div class="post" data-post-id="34687" data-author="*Breeze*" data-date="2013-12-24T15:30:44+00:00">
+<div class="post" data-post-id="34687" data-author="*Breeze*" data-date="2013-12-24T15:30:44+00:00" data-subject="Re: Jodhpurs of the Zodiac Order Forge">
 
 sloth has different types of forges.  old style, new style, quest, etc.
 
@@ -334,7 +334,7 @@ in the end, the forge creator has to get with me so i can give him/her a data fo
 
 </div>
 
-<div class="post" data-post-id="34693" data-author="*Pixie*" data-date="2013-12-27T19:29:59+00:00">
+<div class="post" data-post-id="34693" data-author="*Pixie*" data-date="2013-12-27T19:29:59+00:00" data-subject="Re: Jodhpurs of the Zodiac Order Forge">
 
 Congratz Marcus!
 

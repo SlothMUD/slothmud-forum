@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="20790" data-author="Thraxas" data-date="2007-10-12T08:22:16+00:00">
+<div class="post" data-post-id="20790" data-author="Thraxas" data-date="2007-10-12T08:22:16+00:00" data-subject="Awaken">
 
 Usage: cast 'awaken' [number] <name>
 
@@ -50,7 +50,7 @@ If as it currently seems to me this is a hard pop, perhaps the pop rate could be
 
 </div>
 
-<div class="post" data-post-id="20813" data-author="Thraxas" data-date="2007-10-12T17:00:53+00:00">
+<div class="post" data-post-id="20813" data-author="Thraxas" data-date="2007-10-12T17:00:53+00:00" data-subject="Awaken (update)">
 
 Upto 47 hits so far no pop.
 
@@ -64,13 +64,13 @@ I still don't understand why if it is this hard to pop, thats the case.
 
 </div>
 
-<div class="post" data-post-id="20828" data-author="Tap" data-date="2007-10-12T23:09:00+00:00">
+<div class="post" data-post-id="20828" data-author="Tap" data-date="2007-10-12T23:09:00+00:00" data-subject="">
 
 Got mine from the druid in Thal-town... it was fast repop and it seemed it took 7-8 tries before I got it... but that coulda been a fluke.
 
 </div>
 
-<div class="post" data-post-id="20835" data-author="Mace" data-date="2007-10-13T06:05:36+00:00">
+<div class="post" data-post-id="20835" data-author="Mace" data-date="2007-10-13T06:05:36+00:00" data-subject="">
 
 The druid at the fountain does have a horrible rate.
 
@@ -78,13 +78,13 @@ When I last checked with Clef there were no other load locations, but that was l
 
 </div>
 
-<div class="post" data-post-id="20841" data-author="13" data-date="2007-10-13T13:35:56+00:00">
+<div class="post" data-post-id="20841" data-author="13" data-date="2007-10-13T13:35:56+00:00" data-subject="">
 
 try killing irap, it seems like all those mobs pop random tard sbs
 
 </div>
 
-<div class="post" data-post-id="20842" data-author="Yinao" data-date="2007-10-13T14:22:32+00:00">
+<div class="post" data-post-id="20842" data-author="Yinao" data-date="2007-10-13T14:22:32+00:00" data-subject="">
 
 Ahem, awaken                    - Lvl: 10, Mana: 20, Learned  95%.
 
@@ -92,13 +92,13 @@ Not quite a tard spell ;)
 
 </div>
 
-<div class="post" data-post-id="20848" data-author="13" data-date="2007-10-14T05:54:22+00:00">
+<div class="post" data-post-id="20848" data-author="13" data-date="2007-10-14T05:54:22+00:00" data-subject="">
 
 ahh sorry i thought there was a bigger one
 
 </div>
 
-<div class="post" data-post-id="20853" data-author="firebrand" data-date="2007-10-14T14:45:20+00:00">
+<div class="post" data-post-id="20853" data-author="firebrand" data-date="2007-10-14T14:45:20+00:00" data-subject="">
 
 i can understand making an sb a wee bit hard to pop but what i don't understand is putting low-lev spells on impossible (for that lev char) mobs and/or an insanely low-to-never poprate.  let's just suffice it to say that with school, work, family, or whatever non-sloth activities there are in every single player's lives that not everyone has 25 hours a day to sit on those mobs and cycle for them.  besides sb cycling, there are groups to join, autoquests to run, eq to cycle for, cr's and other fun sloth stuff to do.  not only that but there are sometimes other players who want/need that sb too and bottlenecking happens.   viciously low poprates are NOT adding to fun gameplay for anyone except the sadistic imm who decided to see how much carnage, frustration and general dissension he/she can cause by it.
 
@@ -106,13 +106,13 @@ i can understand making an sb a wee bit hard to pop but what i don't understand 
 
 </div>
 
-<div class="post" data-post-id="20854" data-author="Tap" data-date="2007-10-14T15:26:29+00:00">
+<div class="post" data-post-id="20854" data-author="Tap" data-date="2007-10-14T15:26:29+00:00" data-subject="">
 
 "She is good, isn't she?" -gabriel -->swordfish
 
 </div>
 
-<div class="post" data-post-id="20859" data-author="Thraxas" data-date="2007-10-15T11:56:27+00:00">
+<div class="post" data-post-id="20859" data-author="Thraxas" data-date="2007-10-15T11:56:27+00:00" data-subject="">
 
 Awaken spellbook: current score is 68 kills 0 pops.
 
@@ -122,7 +122,7 @@ Does anyone know if spellbook does actually still pop?
 
 </div>
 
-<div class="post" data-post-id="20861" data-author="Thraxas" data-date="2007-10-15T15:01:39+00:00">
+<div class="post" data-post-id="20861" data-author="Thraxas" data-date="2007-10-15T15:01:39+00:00" data-subject="">
 
 kill 75, finally it pops
 

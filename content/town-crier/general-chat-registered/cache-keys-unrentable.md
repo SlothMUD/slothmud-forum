@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="40127" data-author="Woody" data-date="2024-11-01T16:52:04+00:00">
+<div class="post" data-post-id="40127" data-author="Woody" data-date="2024-11-01T16:52:04+00:00" data-subject="Cache keys unrentable?">
 
 Object 'twisty bronze key', Item type: KEY
 
@@ -30,7 +30,7 @@ Is this as intended or bugged?
 
 </div>
 
-<div class="post" data-post-id="40129" data-author="Woody" data-date="2024-11-01T20:28:35+00:00">
+<div class="post" data-post-id="40129" data-author="Woody" data-date="2024-11-01T20:28:35+00:00" data-subject="Re: Cache keys unrentable?">
 
 If it wasn't obvious in my initial post, these items no longer work as a key, and the cache mobs only pop their key once.
 

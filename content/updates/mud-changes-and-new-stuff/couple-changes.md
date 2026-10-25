@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9445" data-author="*Splork*" data-date="2005-11-09T23:39:35+00:00">
+<div class="post" data-post-id="9445" data-author="*Splork*" data-date="2005-11-09T23:39:35+00:00" data-subject="couple changes">
 
 1) Playerstats are up-to-date.
 

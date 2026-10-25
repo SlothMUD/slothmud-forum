@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="14862" data-author="Elsie" data-date="2006-11-01T13:55:02+00:00">
+<div class="post" data-post-id="14862" data-author="Elsie" data-date="2006-11-01T13:55:02+00:00" data-subject="Drachma Equipment">
 
 I don't want this to sound like a moan, but its probably going to, apologies in advance.
 
@@ -40,7 +40,7 @@ As a last note, I'll say that I have discussed with an imm, who was helpful, and
 
 </div>
 
-<div class="post" data-post-id="14863" data-author="broeggle" data-date="2006-11-01T14:06:54+00:00">
+<div class="post" data-post-id="14863" data-author="broeggle" data-date="2006-11-01T14:06:54+00:00" data-subject="">
 
 hmm perhaps a confirm dialog for dr eq would be fine 
 
@@ -50,7 +50,7 @@ hmm perhaps a confirm dialog for dr eq would be fine
 
 </div>
 
-<div class="post" data-post-id="14864" data-author="Qa" data-date="2006-11-01T14:29:28+00:00">
+<div class="post" data-post-id="14864" data-author="Qa" data-date="2006-11-01T14:29:28+00:00" data-subject="">
 
 I'll agree with you wholeheartedly, Elsie.  I am not in the same boat, but similar.  I am ready to buy some drachma EQ, but am holding back.
 
@@ -68,7 +68,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="14865" data-author="13" data-date="2006-11-01T15:43:52+00:00">
+<div class="post" data-post-id="14865" data-author="13" data-date="2006-11-01T15:43:52+00:00" data-subject="">
 
 I agree with your sentiment Elsie.  I think one exchange (possibly in the form
 
@@ -104,7 +104,7 @@ something silly like that.
 
 </div>
 
-<div class="post" data-post-id="14866" data-author="Jag" data-date="2006-11-01T16:48:40+00:00">
+<div class="post" data-post-id="14866" data-author="Jag" data-date="2006-11-01T16:48:40+00:00" data-subject="">
 
 As a newbie who has almost enough drachma for my first big item, this is a concern for me as well.   It has taken me a long time to get my 240 drachma.  (so close)
 
@@ -122,7 +122,7 @@ Jag  Cl: 40 Dr: 40 Ma: 38 Ba: 20
 
 </div>
 
-<div class="post" data-post-id="14868" data-author="Mosaix" data-date="2006-11-01T17:09:09+00:00">
+<div class="post" data-post-id="14868" data-author="Mosaix" data-date="2006-11-01T17:09:09+00:00" data-subject="">
 
 While on the drachma topic.
 
@@ -132,13 +132,13 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="14869" data-author="13" data-date="2006-11-01T17:13:27+00:00">
+<div class="post" data-post-id="14869" data-author="13" data-date="2006-11-01T17:13:27+00:00" data-subject="">
 
 go for the 25ma 25healbonus one jag
 
 </div>
 
-<div class="post" data-post-id="14870" data-author="Leaf" data-date="2006-11-01T17:36:59+00:00">
+<div class="post" data-post-id="14870" data-author="Leaf" data-date="2006-11-01T17:36:59+00:00" data-subject="">
 
 If Jag will be a "Pure" grouper and never solo then yes go for the +25+25.
 
@@ -150,7 +150,7 @@ be better for u.  Its a hard choice I would say.  When I had Leaf, I did pick
 
 </div>
 
-<div class="post" data-post-id="14871" data-author="Malison" data-date="2006-11-01T17:41:20+00:00">
+<div class="post" data-post-id="14871" data-author="Malison" data-date="2006-11-01T17:41:20+00:00" data-subject="">
 
 With Verin I had the same question.  I went with the sensate cloak because she really needed a .5 cloak to solo with and I figured I might as well get one healbonus thing I can wear in solo (all else hurts AC).
 
@@ -158,7 +158,7 @@ If you're almost only a group char tho, the +mana one is better.
 
 </div>
 
-<div class="post" data-post-id="14872" data-author="Medios" data-date="2006-11-01T21:44:22+00:00">
+<div class="post" data-post-id="14872" data-author="Medios" data-date="2006-11-01T21:44:22+00:00" data-subject="">
 
 This almost falls on deaf ears for me.  I purchased the bard robe and lorehelm with minstrel before he reached av 40.  Then decided I could get alot more hps by buying charisma and selling these items back.  I lost approximately 400 drachma for these exchanges.  I never once thought to ask for reimbursement, its the system we have to deal with.  I am considered a veteran player and I still had no idea about the future of my bard.  Now I make my drachma decisions based on alot different ideas than before.  I think about how much it costs to buy a stat at av 40.  Spell and heal bonuses are the most costly and hence the highest on my list.  When you can buy 5 hp for 3 tokens, why get some dr eq that only yields 5hp or 5 ma etc etc.
 
@@ -170,7 +170,7 @@ PS   It really sux having to relogin every time I take more than 2 mins to make 
 
 </div>
 
-<div class="post" data-post-id="14875" data-author="*Splork*" data-date="2006-11-01T21:53:01+00:00">
+<div class="post" data-post-id="14875" data-author="*Splork*" data-date="2006-11-01T21:53:01+00:00" data-subject="">
 
 The only time we will reimburse drachma eq is if the initial purchase has gone awry. We simply can not go any further down that avenue or we will hear 101 excuses of why somebody wants a different item or needs an emergency exchange. Those shops pretty much run themselves, there is little to no admin interference which is great for us Immortals. Its pain enough to add new eq( yeah yeah we haven't in awhile...)
 
@@ -184,13 +184,13 @@ Elsie did not accidently by the wrong item, he bought an item he wanted and then
 
 </div>
 
-<div class="post" data-post-id="14879" data-author="Weasel" data-date="2006-11-01T22:30:56+00:00">
+<div class="post" data-post-id="14879" data-author="Weasel" data-date="2006-11-01T22:30:56+00:00" data-subject="">
 
 would love to see more clasp eq there to maybe negate some of the issues expressed here about purchased eq becoming redundant..
 
 </div>
 
-<div class="post" data-post-id="14880" data-author="Elsie" data-date="2006-11-01T22:41:04+00:00">
+<div class="post" data-post-id="14880" data-author="Elsie" data-date="2006-11-01T22:41:04+00:00" data-subject="">
 
 Elsie did not accidently by the wrong item, he bought an item he wanted and then later decided he no longer did.[/quote:1v5jcmme]
 
@@ -200,7 +200,7 @@ The point I was making was twofold, 1. a cautionary note to other players who ma
 
 </div>
 
-<div class="post" data-post-id="14892" data-author="13" data-date="2006-11-02T00:21:53+00:00">
+<div class="post" data-post-id="14892" data-author="13" data-date="2006-11-02T00:21:53+00:00" data-subject="">
 
 Weasel's idea of clasps is good, very good, heed him.
 

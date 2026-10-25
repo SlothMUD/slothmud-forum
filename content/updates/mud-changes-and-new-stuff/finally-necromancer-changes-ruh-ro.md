@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32942" data-author="*Splork*" data-date="2011-09-29T21:10:32+00:00">
+<div class="post" data-post-id="32942" data-author="*Splork*" data-date="2011-09-29T21:10:32+00:00" data-subject="Finally, Necromancer changes! Ruh ro...">
 
 To summarize:
 

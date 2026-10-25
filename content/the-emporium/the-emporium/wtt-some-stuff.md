@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="2817" data-author="Mosaix" data-date="2004-11-14T04:58:04+00:00">
+<div class="post" data-post-id="2817" data-author="Mosaix" data-date="2004-11-14T04:58:04+00:00" data-subject="WTT some stuff">
 
 I have:
 
@@ -38,7 +38,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="2827" data-author="Mosaix" data-date="2004-11-14T17:48:07+00:00">
+<div class="post" data-post-id="2827" data-author="Mosaix" data-date="2004-11-14T17:48:07+00:00" data-subject="">
 
 ok now have 2 restrings available
 
@@ -54,7 +54,7 @@ thanks
 
 </div>
 
-<div class="post" data-post-id="2828" data-author="Mosaix" data-date="2004-11-14T18:32:58+00:00">
+<div class="post" data-post-id="2828" data-author="Mosaix" data-date="2004-11-14T18:32:58+00:00" data-subject="">
 
 tendon is sold and gone
 

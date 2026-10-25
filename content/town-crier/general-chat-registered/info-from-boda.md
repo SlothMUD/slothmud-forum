@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="6823" data-author="Deju" data-date="2005-06-05T18:49:36+00:00">
+<div class="post" data-post-id="6823" data-author="Deju" data-date="2005-06-05T18:49:36+00:00" data-subject="Info from Boda">
 
 Hey all .. i couldnt post a reply to clink's post, so i will paste it here:
 
@@ -44,7 +44,7 @@ PS.  I also need to say this:  putting this solely in the valk guild may not hav
 
 </div>
 
-<div class="post" data-post-id="7419" data-author="Chainer" data-date="2005-06-21T19:11:39+00:00">
+<div class="post" data-post-id="7419" data-author="Chainer" data-date="2005-06-21T19:11:39+00:00" data-subject="">
 
 yeah, i had the same problem with it too
 
@@ -56,7 +56,7 @@ GO CLERICS!!! GO!!!
 
 </div>
 
-<div class="post" data-post-id="7429" data-author="Clink" data-date="2005-06-21T23:10:39+00:00">
+<div class="post" data-post-id="7429" data-author="Clink" data-date="2005-06-21T23:10:39+00:00" data-subject="">
 
 Perhaps this isn't obvious enough but...
 

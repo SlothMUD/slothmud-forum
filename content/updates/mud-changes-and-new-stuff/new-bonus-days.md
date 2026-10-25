@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29965" data-author="*Splork*" data-date="2009-09-04T22:57:31+00:00">
+<div class="post" data-post-id="29965" data-author="*Splork*" data-date="2009-09-04T22:57:31+00:00" data-subject="New Bonus days!!!">
 
 I have added three regen days each month, they will be on the 4th ,13th, and 24th.
 
@@ -22,7 +22,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29980" data-author="Clink" data-date="2009-09-10T14:09:19+00:00">
+<div class="post" data-post-id="29980" data-author="Clink" data-date="2009-09-10T14:09:19+00:00" data-subject="">
 
 Splork has turned soft. :shock:
 

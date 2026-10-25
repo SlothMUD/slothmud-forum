@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29197" data-author="*Splork*" data-date="2009-05-17T13:01:37+00:00">
+<div class="post" data-post-id="29197" data-author="*Splork*" data-date="2009-05-17T13:01:37+00:00" data-subject="Morgaunt and a couple others">
 
 I think you guys may want to contact me online and make good with an object or two...
 
@@ -20,7 +20,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29198" data-author="Rigwarl" data-date="2009-05-17T13:25:08+00:00">
+<div class="post" data-post-id="29198" data-author="Rigwarl" data-date="2009-05-17T13:25:08+00:00" data-subject="">
 
 No!
 

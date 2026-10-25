@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35471" data-author="*Splork*" data-date="2014-10-23T22:19:27+00:00">
+<div class="post" data-post-id="35471" data-author="*Splork*" data-date="2014-10-23T22:19:27+00:00" data-subject="Slothmud Icons">
 
 180x180rick.jpg128x128rick.jpgHere are a couple of SlothMUD icons which can be used for whatever. Same design just different sizes.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="3979" data-author="12345" data-date="2005-01-27T13:54:37+00:00">
+<div class="post" data-post-id="3979" data-author="12345" data-date="2005-01-27T13:54:37+00:00" data-subject="Clans">
 
 Since we're attracting newbies...
 
@@ -22,13 +22,13 @@ Just a thought.
 
 </div>
 
-<div class="post" data-post-id="3980" data-author="Alberich" data-date="2005-01-27T13:56:55+00:00">
+<div class="post" data-post-id="3980" data-author="Alberich" data-date="2005-01-27T13:56:55+00:00" data-subject="">
 
 last i checked, there where not supposed to be 'offical' clans in sloth... altho we do advertise 'clans available' on TMC, so yeah, might confuse some newbies.
 
 </div>
 
-<div class="post" data-post-id="3981" data-author="12345" data-date="2005-01-27T14:02:10+00:00">
+<div class="post" data-post-id="3981" data-author="12345" data-date="2005-01-27T14:02:10+00:00" data-subject="">
 
 *blink*  Color me confused.
 
@@ -40,13 +40,13 @@ Is there a rule against having clans now?
 
 </div>
 
-<div class="post" data-post-id="3982" data-author="kjartan" data-date="2005-01-27T14:04:15+00:00">
+<div class="post" data-post-id="3982" data-author="kjartan" data-date="2005-01-27T14:04:15+00:00" data-subject="">
 
 No, there's no rule against clans.  12345 has it right.
 
 </div>
 
-<div class="post" data-post-id="3983" data-author="Leaf" data-date="2005-01-27T14:20:09+00:00">
+<div class="post" data-post-id="3983" data-author="Leaf" data-date="2005-01-27T14:20:09+00:00" data-subject="">
 
 Can't forget Chaos and Fire & Ice
 
@@ -54,7 +54,7 @@ DRAGONSWORN POWER!!!
 
 </div>
 
-<div class="post" data-post-id="3984" data-author="guest" data-date="2005-01-27T15:26:56+00:00">
+<div class="post" data-post-id="3984" data-author="guest" data-date="2005-01-27T15:26:56+00:00" data-subject="">
 
 ~WAGONPORN~
 
@@ -76,7 +76,7 @@ Ahh, nekkid wagons!
 
 </div>
 
-<div class="post" data-post-id="3986" data-author="13" data-date="2005-01-27T16:27:57+00:00">
+<div class="post" data-post-id="3986" data-author="13" data-date="2005-01-27T16:27:57+00:00" data-subject="">
 
 DoW stands for the Dogs of War
 
@@ -110,7 +110,7 @@ take a bigger role in SlothMUD in some way.
 
 </div>
 
-<div class="post" data-post-id="3987" data-author="Mustang" data-date="2005-01-27T16:35:58+00:00">
+<div class="post" data-post-id="3987" data-author="Mustang" data-date="2005-01-27T16:35:58+00:00" data-subject="">
 
 i think we should make it known that "clans" in sloth are somewhat different from "clans" on other muds and morpgs.  it's more like a gang of  friends hanging out together to help each other out.  I've been on muds and morpgs where clan-wars were encouraged, but since this is a limited-pk mud, I've yet to see one, though it would be fun :)
 
@@ -118,7 +118,7 @@ that said, where's that punka$$ mosaix
 
 </div>
 
-<div class="post" data-post-id="3988" data-author="Alberich" data-date="2005-01-27T16:46:25+00:00">
+<div class="post" data-post-id="3988" data-author="Alberich" data-date="2005-01-27T16:46:25+00:00" data-subject="">
 
 well, in that spirit - 
 
@@ -148,7 +148,7 @@ our only requirement for joining is you must be sponsered in by an existing memb
 
 </div>
 
-<div class="post" data-post-id="3989" data-author="Leaf" data-date="2005-01-27T17:15:29+00:00">
+<div class="post" data-post-id="3989" data-author="Leaf" data-date="2005-01-27T17:15:29+00:00" data-subject="">
 
 Eh
 
@@ -184,7 +184,7 @@ the clan members would have to accept your entry.
 
 </div>
 
-<div class="post" data-post-id="3990" data-author="Jensen" data-date="2005-01-27T18:36:23+00:00">
+<div class="post" data-post-id="3990" data-author="Jensen" data-date="2005-01-27T18:36:23+00:00" data-subject="">
 
 Guess this will keep me semi occupied during this long area repop
 
@@ -220,7 +220,7 @@ Grand Palace is currently 20+ rooms (should be expanded within the month), perso
 
 </div>
 
-<div class="post" data-post-id="3992" data-author="12345" data-date="2005-01-27T19:27:33+00:00">
+<div class="post" data-post-id="3992" data-author="12345" data-date="2005-01-27T19:27:33+00:00" data-subject="">
 
 Thank you to the clans that have responded so far  :D 
 
@@ -228,7 +228,7 @@ I just wanted to note that I think the best feature of Sloth's clan system is th
 
 </div>
 
-<div class="post" data-post-id="3994" data-author="Qa" data-date="2005-01-27T21:10:30+00:00">
+<div class="post" data-post-id="3994" data-author="Qa" data-date="2005-01-27T21:10:30+00:00" data-subject="">
 
 The Golden Tigers
 
@@ -284,7 +284,7 @@ GTs have effectively become an across-games clan.  Our members play a variety of
 
 </div>
 
-<div class="post" data-post-id="3998" data-author="Mustang" data-date="2005-01-28T02:43:17+00:00">
+<div class="post" data-post-id="3998" data-author="Mustang" data-date="2005-01-28T02:43:17+00:00" data-subject="">
 
 what I've never liked about clans though, is what we see during quests.
 
@@ -294,7 +294,7 @@ i think it's pretty gay, especially when the leader is a retarded noob and the t
 
 </div>
 
-<div class="post" data-post-id="3999" data-author="Mosaix" data-date="2005-01-28T03:00:48+00:00">
+<div class="post" data-post-id="3999" data-author="Mosaix" data-date="2005-01-28T03:00:48+00:00" data-subject="">
 
 Mustang my punk@SS is right here :)  Just taking care of some real life buisiness at the moment.  No time to mud unfortunately at this moment in time.  I had no intention of ever joining a clan, but Dogs of War changed my mind on that for sure.  Very fun stuff.   Good people.  I drove 14 hours each way just to meet some of them :)
 
@@ -304,7 +304,7 @@ Mosaix/Broc
 
 </div>
 
-<div class="post" data-post-id="4006" data-author="impz" data-date="2005-01-28T09:54:00+00:00">
+<div class="post" data-post-id="4006" data-author="impz" data-date="2005-01-28T09:54:00+00:00" data-subject="">
 
 Personally, i never like the idea of clans. Somehow, maybe it's my free wheeling style of playing, the idea of clans give me the impression that in some way, i have to adhere to some rules and regulations of a body, which i never enjoy
 
@@ -314,7 +314,7 @@ And if clans are established, it will be interesting how it is done. And for que
 
 </div>
 
-<div class="post" data-post-id="4007" data-author="13" data-date="2005-01-28T12:24:41+00:00">
+<div class="post" data-post-id="4007" data-author="13" data-date="2005-01-28T12:24:41+00:00" data-subject="">
 
 yeah mustang 
 
@@ -326,7 +326,7 @@ or a clan member running the quest ?
 
 </div>
 
-<div class="post" data-post-id="4008" data-author="Leaf" data-date="2005-01-28T12:35:06+00:00">
+<div class="post" data-post-id="4008" data-author="Leaf" data-date="2005-01-28T12:35:06+00:00" data-subject="">
 
 yeah mustang 
 
@@ -344,7 +344,7 @@ this *cough* *cough* run a quest on Sunday nite.   :P
 
 </div>
 
-<div class="post" data-post-id="4016" data-author="Grapenut" data-date="2005-01-28T18:16:36+00:00">
+<div class="post" data-post-id="4016" data-author="Grapenut" data-date="2005-01-28T18:16:36+00:00" data-subject="">
 
 I've never been in a clan if not for long. I was in DoW but I don't live in So Ill so I was asked to leave. Silly, but hey I'll remain clanless, but no biggie really. I only nom those in quests that deserve it. Though I was us supporting healo types got a fair share in a quest. :)
 

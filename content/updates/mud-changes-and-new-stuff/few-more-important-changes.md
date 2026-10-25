@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29627" data-author="*Splork*" data-date="2009-06-29T21:07:29+00:00">
+<div class="post" data-post-id="29627" data-author="*Splork*" data-date="2009-06-29T21:07:29+00:00" data-subject="few more important changes">
 
 1) Bloodloss has been drastically reduced
 

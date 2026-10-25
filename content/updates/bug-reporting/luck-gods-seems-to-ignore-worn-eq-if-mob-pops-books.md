@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="38414" data-author="Teron" data-date="2017-08-23T07:27:42+00:00">
+<div class="post" data-post-id="38414" data-author="Teron" data-date="2017-08-23T07:27:42+00:00" data-subject="luck gods seems to ignore worn eq, if mob pops books">
 
 Hi.
 
@@ -26,7 +26,7 @@ Could anyone check this please? Thanks
 
 </div>
 
-<div class="post" data-post-id="38415" data-author="*Breeze*" data-date="2017-08-24T18:59:32+00:00">
+<div class="post" data-post-id="38415" data-author="*Breeze*" data-date="2017-08-24T18:59:32+00:00" data-subject="Re: luck gods seems to ignore worn eq, if mob pops books">
 
 its not even that complicated..
 
@@ -44,7 +44,7 @@ basically the same as the original gempop special before i changed it due to nag
 
 </div>
 
-<div class="post" data-post-id="38416" data-author="Teron" data-date="2017-08-25T08:32:03+00:00">
+<div class="post" data-post-id="38416" data-author="Teron" data-date="2017-08-25T08:32:03+00:00" data-subject="Re: luck gods seems to ignore worn eq, if mob pops books">
 
 So I assume the song works on all items that the mob pops.
 
@@ -52,13 +52,13 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="38417" data-author="*Breeze*" data-date="2017-08-25T18:43:13+00:00">
+<div class="post" data-post-id="38417" data-author="*Breeze*" data-date="2017-08-25T18:43:13+00:00" data-subject="Re: luck gods seems to ignore worn eq, if mob pops books">
 
 anything zoned.  if something is loaded via mudl (not much is) then it uses it.
 
 </div>
 
-<div class="post" data-post-id="38418" data-author="Teron" data-date="2017-08-26T07:30:21+00:00">
+<div class="post" data-post-id="38418" data-author="Teron" data-date="2017-08-26T07:30:21+00:00" data-subject="Re: luck gods seems to ignore worn eq, if mob pops books">
 
 How was the gempop special changed?
 
@@ -66,7 +66,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="38419" data-author="*Breeze*" data-date="2017-08-26T08:56:36+00:00">
+<div class="post" data-post-id="38419" data-author="*Breeze*" data-date="2017-08-26T08:56:36+00:00" data-subject="Re: luck gods seems to ignore worn eq, if mob pops books">
 
 Adjusted rate to be a little higher and added the code to upgrade gem to next tier (the alternate message when a gem loads)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="39476" data-author="*Breeze*" data-date="2020-05-09T07:56:20+00:00">
+<div class="post" data-post-id="39476" data-author="*Breeze*" data-date="2020-05-09T07:56:20+00:00" data-subject="Balance Bugs Features Etc">
 
 So what I am understanding is that 
 
@@ -50,13 +50,13 @@ But if that's what's wanted I can be dictator hole
 
 </div>
 
-<div class="post" data-post-id="39477" data-author="Gorka" data-date="2020-05-09T09:51:13+00:00">
+<div class="post" data-post-id="39477" data-author="Gorka" data-date="2020-05-09T09:51:13+00:00" data-subject="Re: Balance Bugs Features Etc">
 
 Post Deleted.
 
 </div>
 
-<div class="post" data-post-id="39478" data-author="Hung" data-date="2020-05-09T13:17:27+00:00">
+<div class="post" data-post-id="39478" data-author="Hung" data-date="2020-05-09T13:17:27+00:00" data-subject="Re: Balance Bugs Features Etc">
 
 > Is this what you want? No mystery? A simple class is better than another?
 
@@ -80,7 +80,7 @@ Still I want that playing a bard(as I own one 6x40 bard) in charisma set made se
 
 </div>
 
-<div class="post" data-post-id="39479" data-author="*Breeze*" data-date="2020-05-09T17:49:24+00:00">
+<div class="post" data-post-id="39479" data-author="*Breeze*" data-date="2020-05-09T17:49:24+00:00" data-subject="Re: Balance Bugs Features Etc">
 
 Anyone who actually knows me would have  used a nazi instead of kim jung asshat.. or whatever....
 
@@ -90,7 +90,7 @@ Am not that petty but save the right to be a  asshole as I see fit
 
 </div>
 
-<div class="post" data-post-id="39481" data-author="Gorka" data-date="2020-05-09T18:38:09+00:00">
+<div class="post" data-post-id="39481" data-author="Gorka" data-date="2020-05-09T18:38:09+00:00" data-subject="Re: Balance Bugs Features Etc">
 
 My bad Breeze, was meant as a joke. I feel bad now, have taken it down.
 

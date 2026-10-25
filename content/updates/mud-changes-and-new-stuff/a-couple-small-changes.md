@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="4627" data-author="*Splork*" data-date="2005-02-25T21:31:45+00:00">
+<div class="post" data-post-id="4627" data-author="*Splork*" data-date="2005-02-25T21:31:45+00:00" data-subject="a couple small changes">
 
 The spells passage and lloyds beacon can now be used in tandem.
 

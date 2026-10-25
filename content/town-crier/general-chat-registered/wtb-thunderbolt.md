@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="15445" data-author="13" data-date="2006-12-04T01:05:58+00:00">
+<div class="post" data-post-id="15445" data-author="13" data-date="2006-12-04T01:05:58+00:00" data-subject="wtb thunderbolt">
 
 yes ^
 

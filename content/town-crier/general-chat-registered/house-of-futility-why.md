@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="10232" data-author="alias" data-date="2006-01-19T21:45:53+00:00">
+<div class="post" data-post-id="10232" data-author="alias" data-date="2006-01-19T21:45:53+00:00" data-subject="house of Futility....why?">
 
 I dont have a problem w/ having this , but its just not right for it to be like this. on a reading it says upcomming for 600 minutes.. not that its in affect its at 299 minutes for the last hour or so. If we have to have this conjunction can we tame it down some or make it so it doesnt last for 10 hours straight? I am weak and I know it ,but when mobs I easily solo become 3 runs for me its just not worth playing serious at that time.
 
@@ -20,7 +20,7 @@ alias
 
 </div>
 
-<div class="post" data-post-id="10235" data-author="kjartan" data-date="2006-01-19T22:16:43+00:00">
+<div class="post" data-post-id="10235" data-author="kjartan" data-date="2006-01-19T22:16:43+00:00" data-subject="">
 
 We did cut the effects in half.
 
@@ -28,7 +28,7 @@ I'll think about what we can do otherwise.  It's not really possible to just tun
 
 </div>
 
-<div class="post" data-post-id="10238" data-author="Blastem" data-date="2006-01-19T22:48:43+00:00">
+<div class="post" data-post-id="10238" data-author="Blastem" data-date="2006-01-19T22:48:43+00:00" data-subject="">
 
 [quote:1fimv18v]It may be that if I scoot the outer planets in a bit, that will get rid of the really huge ones.[/quote:1fimv18v]
 
@@ -38,7 +38,7 @@ Just call ACME Planet Movers
 
 </div>
 
-<div class="post" data-post-id="10239" data-author="Leaf" data-date="2006-01-19T22:48:47+00:00">
+<div class="post" data-post-id="10239" data-author="Leaf" data-date="2006-01-19T22:48:47+00:00" data-subject="">
 
 Was there a change in the game that mades mobs harder at certain times
 
@@ -48,19 +48,19 @@ I know on Oct 31st, all undead mobs are hyper aggro...
 
 </div>
 
-<div class="post" data-post-id="10240" data-author="kjartan" data-date="2006-01-19T23:01:39+00:00">
+<div class="post" data-post-id="10240" data-author="kjartan" data-date="2006-01-19T23:01:39+00:00" data-subject="">
 
 Yes, during a conjunction in the house of futility all mobs are harder.  These tend to be rare, and brief, except... that in the last week there have been a succession of several really really long ones.  You can spot these conjunctions by typing "reading" after you have learned the astrology skill.
 
 </div>
 
-<div class="post" data-post-id="10241" data-author="Weasel" data-date="2006-01-19T23:46:05+00:00">
+<div class="post" data-post-id="10241" data-author="Weasel" data-date="2006-01-19T23:46:05+00:00" data-subject="">
 
 This will make tonights quest pretty nasty...
 
 </div>
 
-<div class="post" data-post-id="10242" data-author="Weasel" data-date="2006-01-19T23:49:10+00:00">
+<div class="post" data-post-id="10242" data-author="Weasel" data-date="2006-01-19T23:49:10+00:00" data-subject="">
 
 Was there a change in the game that mades mobs harder at certain times of the day???[/quote:1w0amorq]
 
@@ -68,7 +68,7 @@ help astrology & help houses should give ya the info.. there's good to go with t
 
 </div>
 
-<div class="post" data-post-id="10244" data-author="12345" data-date="2006-01-20T03:51:13+00:00">
+<div class="post" data-post-id="10244" data-author="12345" data-date="2006-01-20T03:51:13+00:00" data-subject="">
 
 House of Futility
 
@@ -82,7 +82,7 @@ Also, astrology seems to have difference limits for measuring before and during 
 
 </div>
 
-<div class="post" data-post-id="10245" data-author="kjartan" data-date="2006-01-20T03:55:10+00:00">
+<div class="post" data-post-id="10245" data-author="kjartan" data-date="2006-01-20T03:55:10+00:00" data-subject="">
 
 [quote:s6gv5cjm]Also, astrology seems to have difference limits for measuring before and during a conjunction.  I'm not sure why it would be able to tell that you have a 600 minute conjunction before it happens, and then it gets stuck at a max of 299 during the conjunction.[/quote:s6gv5cjm]
 
@@ -90,31 +90,31 @@ The limit difference is fixed incor; as long as none of them last more than 1000
 
 </div>
 
-<div class="post" data-post-id="10246" data-author="12345" data-date="2006-01-20T05:56:50+00:00">
+<div class="post" data-post-id="10246" data-author="12345" data-date="2006-01-20T05:56:50+00:00" data-subject="">
 
 Danke.
 
 </div>
 
-<div class="post" data-post-id="10248" data-author="Weasel" data-date="2006-01-20T12:22:31+00:00">
+<div class="post" data-post-id="10248" data-author="Weasel" data-date="2006-01-20T12:22:31+00:00" data-subject="">
 
 So usually there would not be such a frequent occurance of conjunctions in the house of futility compared to all the other houses, along with the much longer durations in that futility conjunction - it's just that the planets in the sloth universe happened to have a particularly unfortunate alignment over the last few days, right?
 
 </div>
 
-<div class="post" data-post-id="10249" data-author="kjartan" data-date="2006-01-20T18:02:40+00:00">
+<div class="post" data-post-id="10249" data-author="kjartan" data-date="2006-01-20T18:02:40+00:00" data-subject="">
 
 That is correct.  The conjunctions should be equally distributed between the houses, when you look at a long timespan.  Over a few days, however, you seem to get a lot of conjunctions in a certain set of houses (or no conjunctions at all).
 
 </div>
 
-<div class="post" data-post-id="10250" data-author="Weasel" data-date="2006-01-20T20:25:45+00:00">
+<div class="post" data-post-id="10250" data-author="Weasel" data-date="2006-01-20T20:25:45+00:00" data-subject="">
 
 Makes sense :)
 
 </div>
 
-<div class="post" data-post-id="10255" data-author="Vixn" data-date="2006-01-21T08:35:12+00:00">
+<div class="post" data-post-id="10255" data-author="Vixn" data-date="2006-01-21T08:35:12+00:00" data-subject="">
 
 The limit difference is fixed incor; as long as none of them last more than 1000 minutes, anyway.[/quote:2yiyle22]
 
@@ -124,19 +124,19 @@ Minor, House of the Winter Wolf, begins in 63 hours, lasts 1540 minutes.
 
 </div>
 
-<div class="post" data-post-id="10256" data-author="Mustang" data-date="2006-01-21T15:11:11+00:00">
+<div class="post" data-post-id="10256" data-author="Mustang" data-date="2006-01-21T15:11:11+00:00" data-subject="">
 
 this is not a knock on the admin/coders, but what was the inspiration for such an implementation?  I think it's kinda cool to have a dynamic mud that varies from time to time, but i just can't imagine how you guys came up with this
 
 </div>
 
-<div class="post" data-post-id="10258" data-author="Weasel" data-date="2006-01-21T15:51:15+00:00">
+<div class="post" data-post-id="10258" data-author="Weasel" data-date="2006-01-21T15:51:15+00:00" data-subject="">
 
 ..I believe it was something to do with a camping trip, a meadow full of special mushrooms, three badgers, and a box of Captain Crunch peanut butter cereal. There were rumours about a walrus being involved too, but I think that's just heresay.
 
 </div>
 
-<div class="post" data-post-id="10290" data-author="Grue" data-date="2006-01-22T18:39:27+00:00">
+<div class="post" data-post-id="10290" data-author="Grue" data-date="2006-01-22T18:39:27+00:00" data-subject="">
 
 Definitely a Walrus involved...
 
@@ -148,7 +148,7 @@ And why the sea is boiling hot - And whether pigs have wings.'
 
 </div>
 
-<div class="post" data-post-id="10291" data-author="kjartan" data-date="2006-01-22T21:23:09+00:00">
+<div class="post" data-post-id="10291" data-author="kjartan" data-date="2006-01-22T21:23:09+00:00" data-subject="">
 
 No, that one was what inspired 'wealth and glory'.
 
@@ -156,7 +156,7 @@ The conjunctions were inspired by 'Age of Aquarius' by the 5th Dimension.
 
 </div>
 
-<div class="post" data-post-id="10292" data-author="blackmore" data-date="2006-01-23T01:31:42+00:00">
+<div class="post" data-post-id="10292" data-author="blackmore" data-date="2006-01-23T01:31:42+00:00" data-subject="">
 
 inspired by 'Age of Aquarius' [/quote:11oe6pts]
 

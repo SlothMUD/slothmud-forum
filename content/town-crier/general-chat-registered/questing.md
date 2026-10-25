@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="29046" data-author="Chelle" data-date="2009-04-24T17:32:08+00:00">
+<div class="post" data-post-id="29046" data-author="Chelle" data-date="2009-04-24T17:32:08+00:00" data-subject="Questing">
 
 From website, under "Questing":
 
@@ -122,13 +122,13 @@ Feedback please and thank you :)
 
 </div>
 
-<div class="post" data-post-id="29047" data-author="Weasel" data-date="2009-04-24T18:24:46+00:00">
+<div class="post" data-post-id="29047" data-author="Weasel" data-date="2009-04-24T18:24:46+00:00" data-subject="">
 
 Heh.. Kill the Thief.. I think it was Dot (or was it Splork?) who decided one day out of the blue that it was open day on Weasels.. had most of the mud chasing me around trying to pkill me for a while lol.
 
 </div>
 
-<div class="post" data-post-id="29049" data-author="*juggleblood*" data-date="2009-04-24T19:59:28+00:00">
+<div class="post" data-post-id="29049" data-author="*juggleblood*" data-date="2009-04-24T19:59:28+00:00" data-subject="">
 
 Good suggestions, except personally I'm against handing out any kind of quest eq anymore. I'd like to see the questshop rounded out and just give out drachma rewards.
 
@@ -136,7 +136,7 @@ I can't think of a single instance where quest eq has been given out that hasn't
 
 </div>
 
-<div class="post" data-post-id="29051" data-author="Medios" data-date="2009-04-24T20:44:54+00:00">
+<div class="post" data-post-id="29051" data-author="Medios" data-date="2009-04-24T20:44:54+00:00" data-subject="">
 
 If the drachma shops are updated from garbage I am all for this.  Your absolutely correct about quest eq, everyone gets hurt feelings.  I have led plenty of quests and most people just spam and talk and don't pay attention.  Then at the end they want the high_limit! as if they figured out a clue or did anything other than spam firewinds.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="18328" data-author="Weasel" data-date="2007-05-06T08:11:59+00:00">
+<div class="post" data-post-id="18328" data-author="Weasel" data-date="2007-05-06T08:11:59+00:00" data-subject="Ring of the Darkmyth Avatars">
 
 won at quest - thanks!
 

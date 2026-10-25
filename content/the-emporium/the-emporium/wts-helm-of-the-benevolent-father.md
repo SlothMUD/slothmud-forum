@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="8603" data-author="Grue" data-date="2005-09-11T23:08:20+00:00">
+<div class="post" data-post-id="8603" data-author="Grue" data-date="2005-09-11T23:08:20+00:00" data-subject="WTS Helm of the Benevolent Father">
 
 Not sure I really want to do this, but I need coins. This is the ONLY one completed, it was completed during the opener and I traded stuff for for it about a year ago. Head, 1.2 ac plus wis, SW 2x40 Forged.
 
@@ -18,19 +18,19 @@ Min bid is 20 mil, I would consider a restring plus coins. I reserve thr ight to
 
 </div>
 
-<div class="post" data-post-id="8610" data-author="13" data-date="2005-09-12T10:22:42+00:00">
+<div class="post" data-post-id="8610" data-author="13" data-date="2005-09-12T10:22:42+00:00" data-subject="">
 
 What makes this worth 20mil ?
 
 </div>
 
-<div class="post" data-post-id="8611" data-author="Vixn" data-date="2005-09-12T10:41:48+00:00">
+<div class="post" data-post-id="8611" data-author="Vixn" data-date="2005-09-12T10:41:48+00:00" data-subject="">
 
 Grue's greediness, hehe
 
 </div>
 
-<div class="post" data-post-id="8618" data-author="Grue" data-date="2005-09-12T14:20:12+00:00">
+<div class="post" data-post-id="8618" data-author="Grue" data-date="2005-09-12T14:20:12+00:00" data-subject="">
 
 Only head ac with 1.2ac and wiz. Plus no-one runs CoP, so the chances of this being forged unless someone decides to make a concerted effort are low. Of course that may mean no-one wants it!
 
@@ -40,13 +40,13 @@ I gather he paid about that for it, which is probably why he set the price there
 
 </div>
 
-<div class="post" data-post-id="8619" data-author="13" data-date="2005-09-12T14:37:06+00:00">
+<div class="post" data-post-id="8619" data-author="13" data-date="2005-09-12T14:37:06+00:00" data-subject="">
 
 I'm pretty sure there are some .4 +1wiz bracelets you can pop from a solo mob.
 
 </div>
 
-<div class="post" data-post-id="8626" data-author="Grue" data-date="2005-09-12T16:20:55+00:00">
+<div class="post" data-post-id="8626" data-author="Grue" data-date="2005-09-12T16:20:55+00:00" data-subject="">
 
 Actually you are wrong, the only .4 plus 4 bracelet is the stone shackled forge, which is also pretty hard, although there are quite a few complete. 
 
@@ -56,7 +56,7 @@ This is the only 1.2 ac wis head item in game, and only one has ever been forged
 
 </div>
 
-<div class="post" data-post-id="8627" data-author="Grue" data-date="2005-09-12T16:36:41+00:00">
+<div class="post" data-post-id="8627" data-author="Grue" data-date="2005-09-12T16:36:41+00:00" data-subject="">
 
 And BTW, consider this list to get perspective. Remove all quest, personal quest, weekly, triple 40 and temp EQ, and here is a list of EQ that has armor plus wis. This basically leaves you with a light, choosing the girdle as a triple 40 item, and the helm and stone-shackled forges if you want extra wiz from AC and no penalty. There is very little EQ with any ac and wis. Consider then the number of classos that have wis as their 5th or 4th stat.
 
@@ -90,7 +90,7 @@ Low â€“ no ac with wis
 
 </div>
 
-<div class="post" data-post-id="8628" data-author="Medios" data-date="2005-09-12T17:35:24+00:00">
+<div class="post" data-post-id="8628" data-author="Medios" data-date="2005-09-12T17:35:24+00:00" data-subject="">
 
 Just think, with this helm Mustang could regen a standing cure crit.
 
@@ -100,13 +100,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="8630" data-author="blackmore" data-date="2005-09-12T17:38:37+00:00">
+<div class="post" data-post-id="8630" data-author="blackmore" data-date="2005-09-12T17:38:37+00:00" data-subject="">
 
 It isn't the only one forged, though my guess is there's less than 5.
 
 </div>
 
-<div class="post" data-post-id="8633" data-author="Deju" data-date="2005-09-12T17:54:22+00:00">
+<div class="post" data-post-id="8633" data-author="Deju" data-date="2005-09-12T17:54:22+00:00" data-subject="">
 
 anyone who needs wis bad due to it being low in their stat-order generally doesnt need AC at the same time they need wis... 
 
@@ -116,19 +116,19 @@ But that is, of course, just my personal feeling....
 
 </div>
 
-<div class="post" data-post-id="8634" data-author="13" data-date="2005-09-12T18:08:04+00:00">
+<div class="post" data-post-id="8634" data-author="13" data-date="2005-09-12T18:08:04+00:00" data-subject="">
 
 agree
 
 </div>
 
-<div class="post" data-post-id="8635" data-author="Grue" data-date="2005-09-12T18:19:56+00:00">
+<div class="post" data-post-id="8635" data-author="Grue" data-date="2005-09-12T18:19:56+00:00" data-subject="">
 
 And I must say I have never had a need to use it. But hey, if it stays in the vault there are other ways to get coins. I just hate running coin mobs.
 
 </div>
 
-<div class="post" data-post-id="8637" data-author="Blastem" data-date="2005-09-12T19:02:24+00:00">
+<div class="post" data-post-id="8637" data-author="Blastem" data-date="2005-09-12T19:02:24+00:00" data-subject="">
 
 you forgot weapons ;)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="17392" data-author="*juggleblood*" data-date="2007-03-22T13:51:33+00:00">
+<div class="post" data-post-id="17392" data-author="*juggleblood*" data-date="2007-03-22T13:51:33+00:00" data-subject="Did You Ever Know That You&#x27;re My Hero">
 
 The Altar of the Vampires
 
@@ -78,7 +78,7 @@ Settlestone's Well
 
 </div>
 
-<div class="post" data-post-id="17393" data-author="Rodek" data-date="2007-03-22T15:00:32+00:00">
+<div class="post" data-post-id="17393" data-author="Rodek" data-date="2007-03-22T15:00:32+00:00" data-subject="">
 
 nice rescue!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8871" data-author="*Splork*" data-date="2005-10-01T13:20:33+00:00">
+<div class="post" data-post-id="8871" data-author="*Splork*" data-date="2005-10-01T13:20:33+00:00" data-subject="Wintin.net &amp; MCCP">
 
 William Lees( our Frobisher) has just released beta version 1.07 for Wintin.net.
 

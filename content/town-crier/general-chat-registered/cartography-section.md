@@ -10,13 +10,13 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="31236" data-author="Murkyn" data-date="2010-05-27T15:18:16+00:00">
+<div class="post" data-post-id="31236" data-author="Murkyn" data-date="2010-05-27T15:18:16+00:00" data-subject="Cartography Section">
 
 I was just wondering if there are plans to put the difficulty ratings back with the map listings - as a fairly new player I don't know most of the areas off the top of my head and it was really helpful to know which areas I could venture into and which ones would be insta-death.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="31243" data-author="jezer" data-date="2010-05-28T00:45:23+00:00">
+<div class="post" data-post-id="31243" data-author="jezer" data-date="2010-05-28T00:45:23+00:00" data-subject="Re: Cartography Section">
 
 I understand your comment. However that information often doesn't mean very much, and a lot of that information was wrong in my opinion. Typically areas have both small, high solo and group mobs. So how do you say?
 
@@ -62,7 +62,7 @@ Clear as mud?
 
 </div>
 
-<div class="post" data-post-id="31245" data-author="*Breeze*" data-date="2010-05-28T04:41:04+00:00">
+<div class="post" data-post-id="31245" data-author="*Breeze*" data-date="2010-05-28T04:41:04+00:00" data-subject="Re: Cartography Section">
 
 > **jezer wrote:**
 > I understand your comment. However that information often doesn't mean very much, and a lot of that information was wrong in my opinion.
@@ -75,7 +75,7 @@ someone want come up with a list of em?
 
 </div>
 
-<div class="post" data-post-id="31249" data-author="Thraxas" data-date="2010-05-28T14:09:52+00:00">
+<div class="post" data-post-id="31249" data-author="Thraxas" data-date="2010-05-28T14:09:52+00:00" data-subject="Re: Cartography Section">
 
 What I liked on the old site was the ability for players to comment on an area, it wasnt very obvious and not many ever added comments, but potentially much more useful, particularly if comments included the classo and level of the person posting.
 
@@ -103,7 +103,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31251" data-author="Murkyn" data-date="2010-05-28T15:18:25+00:00">
+<div class="post" data-post-id="31251" data-author="Murkyn" data-date="2010-05-28T15:18:25+00:00" data-subject="Re: Cartography Section">
 
 Makes sense, I guess I'll just go back to the hit and miss method.  :) I know that overall zone level is not necessarily an accurate thing, but since there's no list of mobs and their relative strength it doesn't leave many options for us newbs who don't want to stay on VK forever.
 

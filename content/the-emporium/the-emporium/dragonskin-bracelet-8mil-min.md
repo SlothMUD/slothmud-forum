@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="1396" data-author="Dragoth" data-date="2004-08-13T01:18:58+00:00">
+<div class="post" data-post-id="1396" data-author="Dragoth" data-date="2004-08-13T01:18:58+00:00" data-subject="Dragonskin bracelet 8mil min">
 
 Object 'bracelet dragon skin dragonskin', Item type: ARMOR
 
@@ -32,25 +32,25 @@ item.
 
 </div>
 
-<div class="post" data-post-id="1397" data-author="Dragoth" data-date="2004-08-13T01:20:27+00:00">
+<div class="post" data-post-id="1397" data-author="Dragoth" data-date="2004-08-13T01:20:27+00:00" data-subject="">
 
 forget to mention the 12mil buyout
 
 </div>
 
-<div class="post" data-post-id="1408" data-author="Weasel" data-date="2004-08-13T12:28:03+00:00">
+<div class="post" data-post-id="1408" data-author="Weasel" data-date="2004-08-13T12:28:03+00:00" data-subject="">
 
 8 mil
 
 </div>
 
-<div class="post" data-post-id="1413" data-author="bubba" data-date="2004-08-13T14:25:39+00:00">
+<div class="post" data-post-id="1413" data-author="bubba" data-date="2004-08-13T14:25:39+00:00" data-subject="12 mil">
 
 12 mil
 
 </div>
 
-<div class="post" data-post-id="1415" data-author="Dragoth" data-date="2004-08-13T16:36:22+00:00">
+<div class="post" data-post-id="1415" data-author="Dragoth" data-date="2004-08-13T16:36:22+00:00" data-subject="">
 
 sold to bubba, catch me online, which souldnt be too hard nowdays :)
 

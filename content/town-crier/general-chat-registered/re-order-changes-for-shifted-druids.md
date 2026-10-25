@@ -10,7 +10,7 @@ locked: false
 post_count: 42
 ---
 
-<div class="post" data-post-id="9657" data-author="Deju" data-date="2005-11-28T18:19:54+00:00">
+<div class="post" data-post-id="9657" data-author="Deju" data-date="2005-11-28T18:19:54+00:00" data-subject="Re: order changes for shifted druids">
 
 Hi -
 
@@ -28,13 +28,13 @@ Deju/Scrugg
 
 </div>
 
-<div class="post" data-post-id="9658" data-author="12345" data-date="2005-11-28T18:31:42+00:00">
+<div class="post" data-post-id="9658" data-author="12345" data-date="2005-11-28T18:31:42+00:00" data-subject="">
 
 If I read the announcement correctly, it was changed so that you can't be shifted and use undead followers at the same time, so I think that's by design.  However, I think that's why order lag and order failure rates and such were added as well, so having both in the game does seem rather harsh.
 
 </div>
 
-<div class="post" data-post-id="9659" data-author="kjartan" data-date="2005-11-28T18:55:26+00:00">
+<div class="post" data-post-id="9659" data-author="kjartan" data-date="2005-11-28T18:55:26+00:00" data-subject="">
 
 We took out most of the order lag when we made the change to disallow ordering of undead followers.
 
@@ -46,7 +46,7 @@ Also, I noticed that the 'summon undead' mobs that require 2x40 or 3x40 for necr
 
 </div>
 
-<div class="post" data-post-id="9660" data-author="Leaf" data-date="2005-11-28T19:07:45+00:00">
+<div class="post" data-post-id="9660" data-author="Leaf" data-date="2005-11-28T19:07:45+00:00" data-subject="">
 
 By the way, we're working on fleshing out nature's familiar.  It won't be as good as summon undead, but I am adding another half dozen or so mobs that are better than treants, some mobile, some rooted.[/quote:2xnmz61v]
 
@@ -62,7 +62,7 @@ should have access to those mobs, cause of the lvl they have...
 
 </div>
 
-<div class="post" data-post-id="9661" data-author="Deju" data-date="2005-11-28T19:11:04+00:00">
+<div class="post" data-post-id="9661" data-author="Deju" data-date="2005-11-28T19:11:04+00:00" data-subject="">
 
 ok, i did some further testing:
 
@@ -86,7 +86,7 @@ Deju/Scrugg
 
 </div>
 
-<div class="post" data-post-id="9662" data-author="Lis" data-date="2005-11-28T19:19:23+00:00">
+<div class="post" data-post-id="9662" data-author="Lis" data-date="2005-11-28T19:19:23+00:00" data-subject="">
 
 Also, I noticed that the 'summon undead' mobs that require 2x40 or 3x40 for necros don't start counting forties with your necro class (like supplication) but count all your forties - I am going to change this, which I think is probably how it was originally intended, which means an avatar Necro-fourth won't have access to the top few summon undead mobs any longer, only necro primes will ever get the full list.[/quote:3i4vrrs0]
 
@@ -102,13 +102,13 @@ Next thing will be not to allow Druid-noprimes to have all list of forms?
 
 </div>
 
-<div class="post" data-post-id="9663" data-author="Guinex" data-date="2005-11-28T19:32:51+00:00">
+<div class="post" data-post-id="9663" data-author="Guinex" data-date="2005-11-28T19:32:51+00:00" data-subject="">
 
 When I order my undead to attack, and i just stand there I allways get sucked in and one drops out, this goes for the same if I just use a juju.
 
 </div>
 
-<div class="post" data-post-id="9664" data-author="kjartan" data-date="2005-11-28T20:47:10+00:00">
+<div class="post" data-post-id="9664" data-author="kjartan" data-date="2005-11-28T20:47:10+00:00" data-subject="">
 
 Ok, I'll have to get back to you on the disengage thing.
 
@@ -118,7 +118,7 @@ Maybe something along the lines of counting an extra "40" at av 10, 20, and 30 s
 
 </div>
 
-<div class="post" data-post-id="9665" data-author="Rynquald" data-date="2005-11-28T20:52:29+00:00">
+<div class="post" data-post-id="9665" data-author="Rynquald" data-date="2005-11-28T20:52:29+00:00" data-subject="">
 
 [quote:57bol4wp]Maybe something along the lines of counting an extra "40" at av 10, 20, and 30 so even if you're necro 4th, at avatar 30 you get the 4x40 undead. That would mean necro 3rd and 4th still lost the one topmost undead (swordwraith maybe?), but otherwise everybody can eventually get everything.[/quote:57bol4wp]
 
@@ -128,7 +128,7 @@ EDIT: Thanks for considering adding to nature's familiar btw.
 
 </div>
 
-<div class="post" data-post-id="9666" data-author="blackmore" data-date="2005-11-28T20:56:05+00:00">
+<div class="post" data-post-id="9666" data-author="blackmore" data-date="2005-11-28T20:56:05+00:00" data-subject="">
 
 Also, I noticed that the 'summon undead' mobs that require 2x40 or 3x40 for necros don't start counting forties with your necro class (like supplication) but count all your forties - I am going to change this, which I think is probably how it was originally intended, which means an avatar Necro-fourth won't have access to the top few summon undead mobs any longer, only necro primes will ever get the full list.[/quote:1ndi356n]
 
@@ -136,13 +136,13 @@ I have no clue why you'd think that it was "originally intended" that way.  The 
 
 </div>
 
-<div class="post" data-post-id="9667" data-author="kjartan" data-date="2005-11-28T21:05:09+00:00">
+<div class="post" data-post-id="9667" data-author="kjartan" data-date="2005-11-28T21:05:09+00:00" data-subject="">
 
 My memory of the multi-40 mobs for summon undead is that they appeared after supplication and were intended to be along the same lines as supplication.  The supplication setup works better in the sense that you get the mobs in a progression, not in-a-progression-or-all-at-once-depending-on-classo.
 
 </div>
 
-<div class="post" data-post-id="9668" data-author="blackmore" data-date="2005-11-28T21:07:53+00:00">
+<div class="post" data-post-id="9668" data-author="blackmore" data-date="2005-11-28T21:07:53+00:00" data-subject="">
 
 Since my last post is already outdated (sort of)...
 
@@ -156,7 +156,7 @@ Without really knowing much about summons, it still seems like that would cause 
 
 </div>
 
-<div class="post" data-post-id="9669" data-author="Medios" data-date="2005-11-28T22:27:10+00:00">
+<div class="post" data-post-id="9669" data-author="Medios" data-date="2005-11-28T22:27:10+00:00" data-subject="">
 
 It seems to me that undead control eq takes care of the undeads.  Removing followers is almost like saying that non mage primes cant use firestorm anymore.  Supplicants dont have any sort of eq so its understandable about the placement of cleric in the class.  
 
@@ -172,7 +172,7 @@ PS  I hate the push to make every char wear ac.  In traditional d&d it makes no 
 
 </div>
 
-<div class="post" data-post-id="9686" data-author="dezakin" data-date="2005-11-30T08:43:49+00:00">
+<div class="post" data-post-id="9686" data-author="dezakin" data-date="2005-11-30T08:43:49+00:00" data-subject="">
 
 [quote:26nlivb8]Without really knowing much about summons, it still seems like that would cause a huge reduction in the methods certain players are using to play their character, and it doesn't seem like that's healthy. I may be overstating the issue, though, since there's only 3 undeads 3x40 or higher.[/quote:26nlivb8]
 
@@ -182,7 +182,7 @@ And with zukt I've been looking forward to swords because zukt has no cleric, an
 
 </div>
 
-<div class="post" data-post-id="9687" data-author="kjartan" data-date="2005-11-30T18:42:37+00:00">
+<div class="post" data-post-id="9687" data-author="kjartan" data-date="2005-11-30T18:42:37+00:00" data-subject="">
 
 If the intermediate forms are actually useless for some reason, I'd like to fix that.  (Note this applies to undeads, not to supps - I deliberately designed some of the supps to be pretty useless, and others aren't finished yet.)  I'll have a look at the demilich proc for starters.
 
@@ -190,13 +190,13 @@ Right at the moment we are having some stability issues so I am not working on t
 
 </div>
 
-<div class="post" data-post-id="9688" data-author="12345" data-date="2005-11-30T20:19:56+00:00">
+<div class="post" data-post-id="9688" data-author="12345" data-date="2005-11-30T20:19:56+00:00" data-subject="">
 
 Out of curiousity, why were the red potions removed?  It was only mildly annoying when I realized it since I already had a bunch of equipment to hand down to my Valker, but I've frequently suggested that newbies buy them to make their early levels less painful.  Not that everyone in the mud isn't a cleric already... but this only seems to solidify that.
 
 </div>
 
-<div class="post" data-post-id="9689" data-author="Deju" data-date="2005-11-30T20:32:18+00:00">
+<div class="post" data-post-id="9689" data-author="Deju" data-date="2005-11-30T20:32:18+00:00" data-subject="">
 
 (Note this applies to undeads, not to supps - I deliberately designed some of the supps to be pretty useless, and others aren't finished yet.)  [/quote:367stkif]
 
@@ -204,13 +204,13 @@ Maybe I am missing something here, but why would some supps be put ingame if the
 
 </div>
 
-<div class="post" data-post-id="9690" data-author="kjartan" data-date="2005-11-30T20:55:58+00:00">
+<div class="post" data-post-id="9690" data-author="kjartan" data-date="2005-11-30T20:55:58+00:00" data-subject="">
 
 I don't regret the Kachina.
 
 </div>
 
-<div class="post" data-post-id="9691" data-author="brand" data-date="2005-11-30T21:32:51+00:00">
+<div class="post" data-post-id="9691" data-author="brand" data-date="2005-11-30T21:32:51+00:00" data-subject="">
 
 I don't regret the Kachina.[/quote:3vfrg3do]
 
@@ -220,7 +220,7 @@ post script: I do regret the Diva.
 
 </div>
 
-<div class="post" data-post-id="9692" data-author="*Splork*" data-date="2005-11-30T22:38:33+00:00">
+<div class="post" data-post-id="9692" data-author="*Splork*" data-date="2005-11-30T22:38:33+00:00" data-subject="red potions">
 
 None of us removed red potions, if they are gone its a glitch somehow.
 
@@ -230,7 +230,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="9693" data-author="12345" data-date="2005-11-30T22:44:49+00:00">
+<div class="post" data-post-id="9693" data-author="12345" data-date="2005-11-30T22:44:49+00:00" data-subject="">
 
 The Valk potion shop had them.  3n2en of recall.
 
@@ -240,7 +240,7 @@ Those are the only two I saw, I assumed the ones on AH and SS had followed suit.
 
 </div>
 
-<div class="post" data-post-id="9695" data-author="deucer" data-date="2005-11-30T23:30:40+00:00">
+<div class="post" data-post-id="9695" data-author="deucer" data-date="2005-11-30T23:30:40+00:00" data-subject="">
 
 I've been playing Sloth since this summer, created a necro prime character since that is what interests me from playing the original D&D. During that brief time I've experienced at least two downgradings of the necro classo, as far as I can tell from the level of my pc, in the hp of the juju zombie. The last one was harsh, my juju dropped 15% in hp's, if you take into account i'm still playing a 1x40 pc. Far from motivating to continue playing the classo. In addition, the juju doesn't advance in hp to the same extent anymore after leveling. So I agree with Medios' post on several items he brings up. If solo characters are not allowed to cycle bigger mobs than those from classo's that are not intended for soloing, why create followers or have the class in the first place. If players adapt their strategies to be able to handle a biggie, don't change the rules. It's not that small group of necros that is going to imbalance the total game. It's simply called growth and experience. Now, instead of rewarding those solo players with normal level advancement, they get nerfed. An example ? I play at least 5 days a week, for 5 hours at least, more during weekends. Being a careful (or slow or bad) player i manage to scrape together 40M exp when I'm lucky, barely enough to reach lvl 33 secondary. Doesn't seem like overdoing it in necro powerplay. Using the finger command (thank you imms  :) very informative ) I notice level 20 players to hoard 100-140 M exp a week and leveling like mad, by joining vast groups... I don't mind. Some of them will still need their hands held when reaching 3x40  :P and be asking for the run to the guild. Medios has a good point, stating that highly experienced players will probably make any classo look overpowered when they play it. Nerfing a solo classo has tougher consequences to the player than for the typcial non-solo ones.
 
@@ -256,7 +256,7 @@ Deucer aka Zuuul
 
 </div>
 
-<div class="post" data-post-id="9696" data-author="*Splork*" data-date="2005-12-01T00:53:57+00:00">
+<div class="post" data-post-id="9696" data-author="*Splork*" data-date="2005-12-01T00:53:57+00:00" data-subject="potion bug fixed on reboot">
 
 Alright, I snooped a keeper mob and found out that kj is indead making smarter mobs, even the keepers were grabbing the potions and ready to use them at any moment.
 
@@ -278,7 +278,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="9698" data-author="Mosaix" data-date="2005-12-01T02:05:56+00:00">
+<div class="post" data-post-id="9698" data-author="Mosaix" data-date="2005-12-01T02:05:56+00:00" data-subject="">
 
 Would be overdue to see Cleric Primes get some help.   Supplication is nice, but overall we are at the bottom of the barrel.  For the amount of help we supply groups, and literally keeping the mud alive each day, its time to "thank" Cleric Primes for their work.   While I cant speak for every cleric prime, I would personally appreciate the help.  
 
@@ -312,13 +312,13 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="9700" data-author="Weasel" data-date="2005-12-01T02:41:46+00:00">
+<div class="post" data-post-id="9700" data-author="Weasel" data-date="2005-12-01T02:41:46+00:00" data-subject="">
 
 :shock:
 
 </div>
 
-<div class="post" data-post-id="9701" data-author="Cami" data-date="2005-12-01T03:25:22+00:00">
+<div class="post" data-post-id="9701" data-author="Cami" data-date="2005-12-01T03:25:22+00:00" data-subject="">
 
 Mosaix rocks!
 
@@ -328,7 +328,7 @@ Thanks for the great ideas Mosaix, I hope they get a serious look.
 
 </div>
 
-<div class="post" data-post-id="9702" data-author="*Splork*" data-date="2005-12-01T03:53:53+00:00">
+<div class="post" data-post-id="9702" data-author="*Splork*" data-date="2005-12-01T03:53:53+00:00" data-subject="">
 
 I hate to say it, but I really don't see us doing all too much more for clerics for quite some time. Kj is debating opening up more supplicants to cleric classes which are lower in the class order but besides that, its not really on the discussion board.
 
@@ -344,7 +344,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="9703" data-author="Cami" data-date="2005-12-01T04:50:31+00:00">
+<div class="post" data-post-id="9703" data-author="Cami" data-date="2005-12-01T04:50:31+00:00" data-subject="">
 
 Thanks for the reply and the honesty Splork.  Sometimes it's nice just to know where things stand :)
 
@@ -362,7 +362,7 @@ Cami
 
 </div>
 
-<div class="post" data-post-id="9704" data-author="Mosaix" data-date="2005-12-01T04:56:12+00:00">
+<div class="post" data-post-id="9704" data-author="Mosaix" data-date="2005-12-01T04:56:12+00:00" data-subject="">
 
 Clerics do a lot of work for the benefit of the mud and other players.  Thats fine its part of the reason why I picked the classo that i did.
 
@@ -374,7 +374,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="9705" data-author="Qa" data-date="2005-12-01T05:03:05+00:00">
+<div class="post" data-post-id="9705" data-author="Qa" data-date="2005-12-01T05:03:05+00:00" data-subject="Clerics">
 
 I have been debating amping servants hps and the proc rate on their prime spell weapon though...
 
@@ -388,7 +388,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="9706" data-author="Mosaix" data-date="2005-12-01T05:14:10+00:00">
+<div class="post" data-post-id="9706" data-author="Mosaix" data-date="2005-12-01T05:14:10+00:00" data-subject="">
 
 Frankly this stuff is the main reason i didnt play from July to November of this year.   Got tired of the same ol same ol.   And additions or upgrades for the cleric primes are not going to effect hardly anyone anyway...... so......please take a long serious look at what can be done.  
 
@@ -396,7 +396,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="9707" data-author="_edd_" data-date="2005-12-01T10:11:34+00:00">
+<div class="post" data-post-id="9707" data-author="_edd_" data-date="2005-12-01T10:11:34+00:00" data-subject="">
 
 Drachma raise idea isnâ€™t so bright because it will push people to abuse to buy some drachma stuff. I think it would be better to add more Cl Prime drachma eq to Weaverâ€™s shop and put more quests (regular or special) to allow people earn more drachma.
 
@@ -410,7 +410,7 @@ So don't calculate your slothlife, just pick up classo you wish to play and go a
 
 </div>
 
-<div class="post" data-post-id="9708" data-author="*Splork*" data-date="2005-12-01T12:25:04+00:00">
+<div class="post" data-post-id="9708" data-author="*Splork*" data-date="2005-12-01T12:25:04+00:00" data-subject="">
 
 A few observations;
 
@@ -446,13 +446,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="9709" data-author="Grue" data-date="2005-12-01T13:11:43+00:00">
+<div class="post" data-post-id="9709" data-author="Grue" data-date="2005-12-01T13:11:43+00:00" data-subject="">
 
 I'd like to see an avatar version of the Dark Mace. We do it with lots of other prime skills/spells.
 
 </div>
 
-<div class="post" data-post-id="9710" data-author="Qa" data-date="2005-12-01T13:50:05+00:00">
+<div class="post" data-post-id="9710" data-author="Qa" data-date="2005-12-01T13:50:05+00:00" data-subject="">
 
 I will up the hps to aerial and increase the proc rate on mace tonight...
 
@@ -470,7 +470,7 @@ Edit: Err, thanks in advance.   :wink:
 
 </div>
 
-<div class="post" data-post-id="9711" data-author="Shazuko" data-date="2005-12-01T13:55:17+00:00">
+<div class="post" data-post-id="9711" data-author="Shazuko" data-date="2005-12-01T13:55:17+00:00" data-subject="">
 
 I'd like to see clerics get their own strength spell, even if its just a +1 bonus; without mage the only alternative is a necro spell thats got a -con penalty. When you dont have mage ( or necro for that matter), you need orange potions well into your 40's even if you have a nat 18/8x(str eq tends to lower ac)....although adding a cl str spell would benefit anyone with cl in their classo, I happen to have a cl prime who can solo pretty well, but he has ma for str, he would be at a disadvantage to have to use potions, or lose a pt of con when soloing to get his str up...
 
@@ -484,7 +484,7 @@ Shazuko Roku Ryuu
 
 </div>
 
-<div class="post" data-post-id="9712" data-author="dezakin" data-date="2005-12-01T14:12:50+00:00">
+<div class="post" data-post-id="9712" data-author="dezakin" data-date="2005-12-01T14:12:50+00:00" data-subject="">
 
 I think the answer to give clerics happy time is to just make the tard dark mace do an occasional proc that feeds you mana, rather than cooked up new spells. Maybe even make it more 'group friendly' by proccing more often in groups, bigger groups having jacked up happy mana rate. Maybe tie it to the number of people joining a warcry.
 
@@ -496,7 +496,7 @@ Or maybe everyone thinks its a goofy idea.
 
 </div>
 
-<div class="post" data-post-id="9714" data-author="Weasel" data-date="2005-12-01T19:49:54+00:00">
+<div class="post" data-post-id="9714" data-author="Weasel" data-date="2005-12-01T19:49:54+00:00" data-subject="">
 
 How about giving WA primes some additional natural AC since that and HP are supposed to be the WA prime's main features, yet most other classos can achieve the same AC and/or HP and maybe more.. 
 
@@ -506,7 +506,7 @@ Ignore me, I'm just stirring.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="9715" data-author="Mosaix" data-date="2005-12-01T22:30:23+00:00">
+<div class="post" data-post-id="9715" data-author="Mosaix" data-date="2005-12-01T22:30:23+00:00" data-subject="">
 
 I tend to not look so far ahead sometimes, but yes people would abuse the drachma idea so that wouldnt work.   I didnt think of it in that light. 
 
@@ -524,7 +524,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="9716" data-author="kjartan" data-date="2005-12-01T22:32:34+00:00">
+<div class="post" data-post-id="9716" data-author="kjartan" data-date="2005-12-01T22:32:34+00:00" data-subject="demilich procs">
 
 Ok, I am looking at the demilich, and it was casting some blast-type spells and some curse-type spells more or less randomly.  It casts damnation, weaken, word of pain, destruction, a custom blast spell, and demon bind.
 
@@ -534,7 +534,7 @@ Given that it is using basically that set of spells, how would you like it to wo
 
 </div>
 
-<div class="post" data-post-id="9717" data-author="Aleksey" data-date="2005-12-02T00:30:39+00:00">
+<div class="post" data-post-id="9717" data-author="Aleksey" data-date="2005-12-02T00:30:39+00:00" data-subject="">
 
 Kj, problem not in what it cast or repeating binding ,damning ,problem mostly stands that you reaching av25 and geting not battle but exotic undeads
 
@@ -558,7 +558,7 @@ Demilich nat ac so low that he dies 2s faster even than vilewight(3x40),if it ta
 
 </div>
 
-<div class="post" data-post-id="9718" data-author="dezakin" data-date="2005-12-02T02:56:06+00:00">
+<div class="post" data-post-id="9718" data-author="dezakin" data-date="2005-12-02T02:56:06+00:00" data-subject="">
 
 I think phantom is worse than that, like -1 hitroll for me when I tried it.
 

@@ -10,19 +10,19 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="17781" data-author="13" data-date="2007-04-04T20:33:40+00:00">
+<div class="post" data-post-id="17781" data-author="13" data-date="2007-04-04T20:33:40+00:00" data-subject="Favorite thing?">
 
 What's your good shit?  I get off on music listening/playing and working in my yard.
 
 </div>
 
-<div class="post" data-post-id="17784" data-author="tincts" data-date="2007-04-04T20:37:19+00:00">
+<div class="post" data-post-id="17784" data-author="tincts" data-date="2007-04-04T20:37:19+00:00" data-subject="">
 
 Sailing.  Dig it big time.  Other than that, betwixt work, family, study, part time job and mud, that's my time all chewed up  :shock:
 
 </div>
 
-<div class="post" data-post-id="17785" data-author="Alberich" data-date="2007-04-04T21:04:45+00:00">
+<div class="post" data-post-id="17785" data-author="Alberich" data-date="2007-04-04T21:04:45+00:00" data-subject="">
 
 motorcycles
 
@@ -32,7 +32,7 @@ motorcycles
 
 </div>
 
-<div class="post" data-post-id="17787" data-author="Medios" data-date="2007-04-04T21:24:26+00:00">
+<div class="post" data-post-id="17787" data-author="Medios" data-date="2007-04-04T21:24:26+00:00" data-subject="">
 
 I enjoy everything that pushes the limit of human existence.  Everyone likes to call me a thrill seeker.  I like to do anything that most pussies are afraid of.  I have been sky-diving, rock climbing, raced cars and motorcycles, the list goes on.  I try to conquer my fear by facing it.  I am sure that I put myself in some risk but overall it has taught me to face my problems and overcome them.  I am not afraid to fail.  Fear is the best tool used against us.  It makes us afraid of Muslims, snakes, germs, homos, women in power, etc etc etc.  I try to not allow fear to run my life.  Fear is an emotion and like all emotions it ruins good judgement.
 
@@ -40,7 +40,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17792" data-author="firebrand" data-date="2007-04-05T01:02:28+00:00">
+<div class="post" data-post-id="17792" data-author="firebrand" data-date="2007-04-05T01:02:28+00:00" data-subject="">
 
 reading.  sci-fi, fantasy, horror, thrillers....bring it on.  i also make bead jewelry.  i love to hang out with my kids (now that they are both taller than i am) and just chill.  i like listening to my son play guitar and going to scary movies.  i love to cook (as is evidenced by my wide ass) and of course i love to mud.  that's my story and i'm stickin to it!
 
@@ -48,7 +48,7 @@ reading.  sci-fi, fantasy, horror, thrillers....bring it on.  i also make bead j
 
 </div>
 
-<div class="post" data-post-id="17802" data-author="Popa" data-date="2007-04-05T14:38:40+00:00">
+<div class="post" data-post-id="17802" data-author="Popa" data-date="2007-04-05T14:38:40+00:00" data-subject="">
 
 i'm in the all black. bike # 114 . this is my favorite thing to do
 
@@ -58,7 +58,7 @@ i'm in the all black. bike # 114 . this is my favorite thing to do
 
 </div>
 
-<div class="post" data-post-id="17803" data-author="13" data-date="2007-04-05T15:40:08+00:00">
+<div class="post" data-post-id="17803" data-author="13" data-date="2007-04-05T15:40:08+00:00" data-subject="">
 
 do you shift gears?
 
@@ -68,7 +68,7 @@ what cc on the engine?
 
 </div>
 
-<div class="post" data-post-id="17804" data-author="Popa" data-date="2007-04-05T15:45:20+00:00">
+<div class="post" data-post-id="17804" data-author="Popa" data-date="2007-04-05T15:45:20+00:00" data-subject="">
 
 They are 39cc 2 strokes. My bike has 14hp i
 
@@ -86,13 +86,13 @@ less than me can reach same speeds with less
 
 </div>
 
-<div class="post" data-post-id="17805" data-author="13" data-date="2007-04-05T15:48:36+00:00">
+<div class="post" data-post-id="17805" data-author="13" data-date="2007-04-05T15:48:36+00:00" data-subject="">
 
 looks like fun, I had a buddy who raced high performance go carts that sound similar.  had a lot of fun on those.
 
 </div>
 
-<div class="post" data-post-id="17806" data-author="Popa" data-date="2007-04-05T15:58:31+00:00">
+<div class="post" data-post-id="17806" data-author="Popa" data-date="2007-04-05T15:58:31+00:00" data-subject="">
 
 Cool. On race days we also share th track
 
@@ -114,7 +114,7 @@ everyone else.
 
 </div>
 
-<div class="post" data-post-id="17816" data-author="Messiaen" data-date="2007-04-05T21:03:19+00:00">
+<div class="post" data-post-id="17816" data-author="Messiaen" data-date="2007-04-05T21:03:19+00:00" data-subject="">
 
 Music, literature, cinema, poetry. These are a few of my favorite things (C)
 
@@ -126,13 +126,13 @@ By the way, Mike, aren't you afraid to lose your own fear? Have you ever read Os
 
 </div>
 
-<div class="post" data-post-id="17818" data-author="Medios" data-date="2007-04-05T21:10:37+00:00">
+<div class="post" data-post-id="17818" data-author="Medios" data-date="2007-04-05T21:10:37+00:00" data-subject="">
 
 Why would I be afraid to lose fear.  Thats a funny statement.
 
 </div>
 
-<div class="post" data-post-id="17819" data-author="Messiaen" data-date="2007-04-05T21:36:16+00:00">
+<div class="post" data-post-id="17819" data-author="Messiaen" data-date="2007-04-05T21:36:16+00:00" data-subject="">
 
 Well, it maybe sounds funny, but IMHO it's closely related to the meaning of life issue. I wouldn't even ask you if you didn't mention that fear is an emotion and emotins ruin good judgement. You're just trying to keep your mind clear, okay, there's nothing wrong with it. But would you really be able to enjoy a fearless man's life, or an emotionless man's life?
 
@@ -140,7 +140,7 @@ Sorry, I cannot explain clear enough what I mean due to my poor knowledge of eng
 
 </div>
 
-<div class="post" data-post-id="17838" data-author="Ironwolf" data-date="2007-04-06T17:14:19+00:00">
+<div class="post" data-post-id="17838" data-author="Ironwolf" data-date="2007-04-06T17:14:19+00:00" data-subject="">
 
 This and Paintball.
 
@@ -148,7 +148,7 @@ This and Paintball.
 
 </div>
 
-<div class="post" data-post-id="17839" data-author="Leaf" data-date="2007-04-06T17:48:24+00:00">
+<div class="post" data-post-id="17839" data-author="Leaf" data-date="2007-04-06T17:48:24+00:00" data-subject="">
 
 Yea c Andy, the little RC is gay.  Unless u can mount a paintball gun on
 
@@ -158,13 +158,13 @@ I miss my paintball gear!!! :cry:
 
 </div>
 
-<div class="post" data-post-id="17840" data-author="Ironwolf" data-date="2007-04-06T19:18:28+00:00">
+<div class="post" data-post-id="17840" data-author="Ironwolf" data-date="2007-04-06T19:18:28+00:00" data-subject="">
 
 hehe well u can mount a paintball gun to a rc car i seen someone do it too! just don't remember what issue that was in :)
 
 </div>
 
-<div class="post" data-post-id="17841" data-author="Guinex" data-date="2007-04-06T19:58:03+00:00">
+<div class="post" data-post-id="17841" data-author="Guinex" data-date="2007-04-06T19:58:03+00:00" data-subject="">
 
 [img:1yen7t3f]http://www.jaspercanadianrockies.com/images/downloads/jpg/snowboard.jpg[/img:1yen7t3f]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="35556" data-author="Tuck" data-date="2014-12-15T21:16:46+00:00">
+<div class="post" data-post-id="35556" data-author="Tuck" data-date="2014-12-15T21:16:46+00:00" data-subject="Unofficial MSDP var list.">
 
 Brad sent it to me.
 
@@ -342,7 +342,7 @@ GROUP
 
 </div>
 
-<div class="post" data-post-id="35557" data-author="*Splork*" data-date="2014-12-16T11:38:46+00:00">
+<div class="post" data-post-id="35557" data-author="*Splork*" data-date="2014-12-16T11:38:46+00:00" data-subject="Re: Unofficial MSDP var list.">
 
 Some variables are not posted because we do not want people blindly requesting data and not using it, such as the coord stuff which is only useful if you have a mapper working.
 
@@ -350,7 +350,7 @@ PLEASE, only request the data which you use or we might have to disable stuff.
 
 </div>
 
-<div class="post" data-post-id="35558" data-author="Tuck" data-date="2014-12-16T13:57:38+00:00">
+<div class="post" data-post-id="35558" data-author="Tuck" data-date="2014-12-16T13:57:38+00:00" data-subject="Re: Unofficial MSDP var list.">
 
 no chance to use all data, even if someone will try. client can't handle all this stuff.
 

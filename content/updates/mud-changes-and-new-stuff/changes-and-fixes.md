@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9626" data-author="*Splork*" data-date="2005-11-25T00:36:35+00:00">
+<div class="post" data-post-id="9626" data-author="*Splork*" data-date="2005-11-25T00:36:35+00:00" data-subject="Changes and fixes">
 
 1) Changed the shapeshifting dog into a bloodhound, and gave it the ability to use the search command. It was brought to my attention that some valk classos couldnt search and suggested this... 
 

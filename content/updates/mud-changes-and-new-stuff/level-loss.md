@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33306" data-author="*Splork*" data-date="2012-05-22T03:00:02+00:00">
+<div class="post" data-post-id="33306" data-author="*Splork*" data-date="2012-05-22T03:00:02+00:00" data-subject="level loss">
 
 After seeing what happened to Ezekiel, I've changed the code to no longer allow consecutive level losses upon death.
 

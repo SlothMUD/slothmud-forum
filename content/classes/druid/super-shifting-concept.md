@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="24249" data-author="jezer" data-date="2008-05-09T01:23:17+00:00">
+<div class="post" data-post-id="24249" data-author="jezer" data-date="2008-05-09T01:23:17+00:00" data-subject="Super Shifting... (concept)">
 
 Ok, I've got this idea I was going to keep to myself for a while, but thought I'd put it out in the open, because...
 
@@ -46,7 +46,7 @@ So Theoretically, if the idea works... my form can have an initial 500+ hp's? Ye
 
 </div>
 
-<div class="post" data-post-id="24250" data-author="Rynquald" data-date="2008-05-09T01:44:10+00:00">
+<div class="post" data-post-id="24250" data-author="Rynquald" data-date="2008-05-09T01:44:10+00:00" data-subject="">
 
 So Theoretically, if the idea works... my form can have an initial 500+ hp's? Yes? No? Thoughts? Nerfs? Caps? Flames? Sarcastic Remarks? Lol Cats?[/quote:28xqvqmc]
 
@@ -54,7 +54,7 @@ So Theoretically, if the idea works... my form can have an initial 500+ hp's? Ye
 
 </div>
 
-<div class="post" data-post-id="24251" data-author="Weasel" data-date="2008-05-09T02:16:11+00:00">
+<div class="post" data-post-id="24251" data-author="Weasel" data-date="2008-05-09T02:16:11+00:00" data-subject="Re: Super Shifting... (concept)">
 
 Extra hp's on top or your base hp max tend to multiply out when you shift. For example my tarantula has 1650hp, but with stamina (+20atm) etc its 1710hp.[/quote:1wr8dlzq]
 
@@ -64,7 +64,7 @@ I feel your pain. Really.
 
 </div>
 
-<div class="post" data-post-id="24252" data-author="jezer" data-date="2008-05-09T02:31:22+00:00">
+<div class="post" data-post-id="24252" data-author="jezer" data-date="2008-05-09T02:31:22+00:00" data-subject="">
 
 A bug? No biggie... they don't fix them anyway! :twisted:
 
@@ -76,7 +76,7 @@ Piasa, Seadragon, Phoenix, Trant nearly all at 20 dam, logic tells me the higher
 
 </div>
 
-<div class="post" data-post-id="24253" data-author="Weasel" data-date="2008-05-09T03:55:52+00:00">
+<div class="post" data-post-id="24253" data-author="Weasel" data-date="2008-05-09T03:55:52+00:00" data-subject="">
 
 Most people are running around at +25 at 5x40? even higher... nods[/quote:25hxkbi8]
 
@@ -86,7 +86,7 @@ I run at 15 dam at -12ac
 
 </div>
 
-<div class="post" data-post-id="24254" data-author="jezer" data-date="2008-05-09T05:06:21+00:00">
+<div class="post" data-post-id="24254" data-author="jezer" data-date="2008-05-09T05:06:21+00:00" data-subject="">
 
 Interesting, I started to do brutals shifted at around +17dam, while I frequently see warriors doing brutals and vicious with crit hits etc etc... and you say ur only at +15! Must be weapon damage that is making the small difference.
 
@@ -96,19 +96,19 @@ Qudos to the imms btw, I think they are looking to address this... and the polar
 
 </div>
 
-<div class="post" data-post-id="24255" data-author="Weasel" data-date="2008-05-09T05:22:01+00:00">
+<div class="post" data-post-id="24255" data-author="Weasel" data-date="2008-05-09T05:22:01+00:00" data-subject="">
 
 nods I should have mentioned, I also have +7 weapon damage.
 
 </div>
 
-<div class="post" data-post-id="24256" data-author="Rynquald" data-date="2008-05-09T05:51:51+00:00">
+<div class="post" data-post-id="24256" data-author="Rynquald" data-date="2008-05-09T05:51:51+00:00" data-subject="">
 
 Shifted druids also aren't generally wielding anything.
 
 </div>
 
-<div class="post" data-post-id="24260" data-author="Medios" data-date="2008-05-09T12:16:54+00:00">
+<div class="post" data-post-id="24260" data-author="Medios" data-date="2008-05-09T12:16:54+00:00" data-subject="">
 
 Leizu used to wear tiny jade rings and other hp gear to do exactly what your saying.  He would put the hp gear on, heal self, change into shift gear and shift.  This would yield about 500hp like you say, cost being one heal of his mana.  This is not a bug , nor is it overpowered.  Eq is everything in sloth.
 
@@ -124,7 +124,7 @@ Hope this helps.
 
 </div>
 
-<div class="post" data-post-id="24262" data-author="jezer" data-date="2008-05-09T13:55:02+00:00">
+<div class="post" data-post-id="24262" data-author="jezer" data-date="2008-05-09T13:55:02+00:00" data-subject="">
 
 Thanks Mike.
 
@@ -134,7 +134,7 @@ End of Topic I guess.
 
 </div>
 
-<div class="post" data-post-id="24264" data-author="strider" data-date="2008-05-09T14:20:06+00:00">
+<div class="post" data-post-id="24264" data-author="strider" data-date="2008-05-09T14:20:06+00:00" data-subject="">
 
 ok a couple quick things and i hate being the bearer of bad news.
 
@@ -150,7 +150,7 @@ as far as forms doing damage. they might not have more dmg but you do get more a
 
 </div>
 
-<div class="post" data-post-id="24266" data-author="jezer" data-date="2008-05-09T14:34:22+00:00">
+<div class="post" data-post-id="24266" data-author="jezer" data-date="2008-05-09T14:34:22+00:00" data-subject="">
 
 Interesting... well if eq adds at a ratio of 1:1, adding 270-300 to a shifted form is fairly pointless... given the work and cost of a further eq set.
 
@@ -160,7 +160,7 @@ Thanks for your input... because the stamina spell multiplies shifted, I would h
 
 </div>
 
-<div class="post" data-post-id="24269" data-author="strider" data-date="2008-05-09T14:44:13+00:00">
+<div class="post" data-post-id="24269" data-author="strider" data-date="2008-05-09T14:44:13+00:00" data-subject="">
 
 for your damage i'ld look more to what your dice are than what your +dmg is. my thief is at 29 dmg, but that's only w/ a 2d6 weapon. i'ld be willing to bet that your attacks have better dice than 2d6. when it comes to pure hack and slash i'ld wager that not many chars can keep up w/ the damage a piasa deals especially at that ac.
 
@@ -168,7 +168,7 @@ ps. i really don't believe that last statement, i'm just trying you make you fee
 
 </div>
 
-<div class="post" data-post-id="24272" data-author="jezer" data-date="2008-05-09T14:54:56+00:00">
+<div class="post" data-post-id="24272" data-author="jezer" data-date="2008-05-09T14:54:56+00:00" data-subject="">
 
 :twisted:
 
@@ -178,7 +178,7 @@ Actually, now I really want to know...  :evil:
 
 </div>
 
-<div class="post" data-post-id="24275" data-author="Rynquald" data-date="2008-05-09T21:54:32+00:00">
+<div class="post" data-post-id="24275" data-author="Rynquald" data-date="2008-05-09T21:54:32+00:00" data-subject="">
 
 As for the damage, I'll except +20 is a fair amount. But when you consider I'm a huge ugly animal, far bigger and more powerful than a human... there is still some give for the future. [/quote:3u4o3kld]
 
@@ -188,7 +188,7 @@ Take piasa for example, according to its desc, it's a roughly bull-sized, scale 
 
 </div>
 
-<div class="post" data-post-id="24276" data-author="jezer" data-date="2008-05-10T00:57:31+00:00">
+<div class="post" data-post-id="24276" data-author="jezer" data-date="2008-05-10T00:57:31+00:00" data-subject="">
 
 [img:2lb53z8m]http://bp1.blogger.com/_Ixc1xIxRABU/R6YIUzqKAVI/AAAAAAAAAiM/oGjiFw11rAU/s400/PiasaBirdMississippiRiver.jpg[/img:2lb53z8m]
 
@@ -196,7 +196,7 @@ A Piasa Bird... According to mythology.
 
 </div>
 
-<div class="post" data-post-id="24298" data-author="tincts" data-date="2008-05-11T00:04:11+00:00">
+<div class="post" data-post-id="24298" data-author="tincts" data-date="2008-05-11T00:04:11+00:00" data-subject="">
 
 What's it doing to its own tail??
 

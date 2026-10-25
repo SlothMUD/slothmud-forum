@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="7733" data-author="Sind9" data-date="2005-07-04T10:26:55+00:00">
+<div class="post" data-post-id="7733" data-author="Sind9" data-date="2005-07-04T10:26:55+00:00" data-subject="wtb/wtt cps">
 
 hey :)
 
@@ -32,7 +32,7 @@ thanks.
 
 </div>
 
-<div class="post" data-post-id="7734" data-author="Vixn" data-date="2005-07-04T10:49:24+00:00">
+<div class="post" data-post-id="7734" data-author="Vixn" data-date="2005-07-04T10:49:24+00:00" data-subject="">
 
 Bluish bark? Catch Edd on-line and you'll get the bark :)
 

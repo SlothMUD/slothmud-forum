@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="11969" data-author="12345" data-date="2006-04-06T12:59:59+00:00">
+<div class="post" data-post-id="11969" data-author="12345" data-date="2006-04-06T12:59:59+00:00" data-subject="MXP Stuffs">
 
 I know Splork's been having a blast with MXP, and most the changes he's been making are pretty cool.  However, on the topic of MXP, I have the following suggestion:
 
@@ -24,7 +24,7 @@ Would be a very helpful thing to add to the newbie section though.
 
 </div>
 
-<div class="post" data-post-id="11972" data-author="*Splork*" data-date="2006-04-06T13:25:09+00:00">
+<div class="post" data-post-id="11972" data-author="*Splork*" data-date="2006-04-06T13:25:09+00:00" data-subject="">
 
 I'm working on the prompt stuff...
 
@@ -42,13 +42,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="11974" data-author="Autolycos" data-date="2006-04-06T13:47:01+00:00">
+<div class="post" data-post-id="11974" data-author="Autolycos" data-date="2006-04-06T13:47:01+00:00" data-subject="">
 
 whilst your playing around in there, any way of having # of warcries on the (finger stats) area?
 
 </div>
 
-<div class="post" data-post-id="11975" data-author="12345" data-date="2006-04-06T15:46:37+00:00">
+<div class="post" data-post-id="11975" data-author="12345" data-date="2006-04-06T15:46:37+00:00" data-subject="">
 
 Yeah, I know you are generally adverse to giving us any info that we couldn't get on our own, which is why I initially suggested the prompt stuff.
 
@@ -64,7 +64,7 @@ All this can be scripted normally using existing techniques in clients except di
 
 </div>
 
-<div class="post" data-post-id="11976" data-author="Autolycos" data-date="2006-04-06T19:26:14+00:00">
+<div class="post" data-post-id="11976" data-author="Autolycos" data-date="2006-04-06T19:26:14+00:00" data-subject="">
 
 can we toggle off/on  12345? 
 
@@ -72,19 +72,19 @@ thats a good option to have... i tried gag, but it just makes so many blank line
 
 </div>
 
-<div class="post" data-post-id="11990" data-author="12345" data-date="2006-04-07T01:47:41+00:00">
+<div class="post" data-post-id="11990" data-author="12345" data-date="2006-04-07T01:47:41+00:00" data-subject="">
 
 You want to get me off?
 
 </div>
 
-<div class="post" data-post-id="11992" data-author="Autolycos" data-date="2006-04-07T02:04:40+00:00">
+<div class="post" data-post-id="11992" data-author="Autolycos" data-date="2006-04-07T02:04:40+00:00" data-subject="">
 
 wow... i thought my mind was perverted... yours is just phuggin nashty!  :shock:
 
 </div>
 
-<div class="post" data-post-id="11993" data-author="12345" data-date="2006-04-07T03:35:30+00:00">
+<div class="post" data-post-id="11993" data-author="12345" data-date="2006-04-07T03:35:30+00:00" data-subject="">
 
 *laughs*
 
@@ -92,7 +92,7 @@ I thought you'd like that  :wink:
 
 </div>
 
-<div class="post" data-post-id="11996" data-author="Autolycos" data-date="2006-04-07T04:24:59+00:00">
+<div class="post" data-post-id="11996" data-author="Autolycos" data-date="2006-04-07T04:24:59+00:00" data-subject="">
 
 :twisted: 
 
@@ -100,7 +100,7 @@ hehe sure did!
 
 </div>
 
-<div class="post" data-post-id="12001" data-author="Evergreen" data-date="2006-04-07T19:00:33+00:00">
+<div class="post" data-post-id="12001" data-author="Evergreen" data-date="2006-04-07T19:00:33+00:00" data-subject="">
 
 hmm annie has a real nice used wintin, my is way too simpler :(
 

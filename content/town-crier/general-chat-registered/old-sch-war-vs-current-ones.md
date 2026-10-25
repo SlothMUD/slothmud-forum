@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="24261" data-author="angel" data-date="2008-05-09T12:27:36+00:00">
+<div class="post" data-post-id="24261" data-author="angel" data-date="2008-05-09T12:27:36+00:00" data-subject="old sch war vs current ones">
 
 current tanks-
 
@@ -34,7 +34,7 @@ i admit that current tanks cant do xps as well as oldschool ones and old school 
 
 </div>
 
-<div class="post" data-post-id="24265" data-author="alias" data-date="2008-05-09T14:20:09+00:00">
+<div class="post" data-post-id="24265" data-author="alias" data-date="2008-05-09T14:20:09+00:00" data-subject="">
 
 Then you have the dumb ones like me who don't have gfluid wraith or stab.
 
@@ -42,7 +42,7 @@ maybe I should make a new char....
 
 </div>
 
-<div class="post" data-post-id="24274" data-author="Weasel" data-date="2008-05-09T15:11:23+00:00">
+<div class="post" data-post-id="24274" data-author="Weasel" data-date="2008-05-09T15:11:23+00:00" data-subject="">
 
 LOL Who pressed your button? There's a thread about this already, so why start a new one repeating comments already made? 
 
@@ -52,7 +52,7 @@ Suggestion: Admin pls lock/delete this thread, no point having two of them.
 
 </div>
 
-<div class="post" data-post-id="24300" data-author="Mosaix" data-date="2008-05-11T02:56:53+00:00">
+<div class="post" data-post-id="24300" data-author="Mosaix" data-date="2008-05-11T02:56:53+00:00" data-subject="">
 
 [img:vn3gs50g]http://images.amazon.com/images/P/0786928808.01._AA240_SCLZZZZZZZ_.jpg[/img:vn3gs50g]
 
@@ -60,13 +60,13 @@ Reading material for Weasel.
 
 </div>
 
-<div class="post" data-post-id="24308" data-author="alias" data-date="2008-05-12T18:06:50+00:00">
+<div class="post" data-post-id="24308" data-author="alias" data-date="2008-05-12T18:06:50+00:00" data-subject="">
 
 double your pleasure- 2 threads are better than 1.
 
 </div>
 
-<div class="post" data-post-id="24309" data-author="*juggleblood*" data-date="2008-05-12T22:14:28+00:00">
+<div class="post" data-post-id="24309" data-author="*juggleblood*" data-date="2008-05-12T22:14:28+00:00" data-subject="">
 
 [img:1f0vk4rt]http://www.titansupport.com/products/shirts/thread2.jpg[/img:1f0vk4rt]
 

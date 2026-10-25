@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39482" data-author="Gorka" data-date="2020-05-13T18:41:37+00:00">
+<div class="post" data-post-id="39482" data-author="Gorka" data-date="2020-05-13T18:41:37+00:00" data-subject="No Follow Bug">
 
 Players are VERY OFTEN not following the leader in groups. It has happened in the past, but it seems to have come back in the past couple of months... to the point where we can't group anymore without it happening to someone, or multiple people throughout the course of a group.
 
@@ -60,7 +60,7 @@ I've been trying to figure out why it happens, my suspicion is that somehow in s
 
 </div>
 
-<div class="post" data-post-id="39511" data-author="Gorka" data-date="2020-07-01T14:21:05+00:00">
+<div class="post" data-post-id="39511" data-author="Gorka" data-date="2020-07-01T14:21:05+00:00" data-subject="Re: No Follow Bug">
 
 This bug is still occurring...
 

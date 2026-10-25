@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="6641" data-author="guest" data-date="2005-05-28T21:59:26+00:00">
+<div class="post" data-post-id="6641" data-author="guest" data-date="2005-05-28T21:59:26+00:00" data-subject="Few changes on reading and spellbooks">
 
 Hi all ...
 

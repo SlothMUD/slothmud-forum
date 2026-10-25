@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35473" data-author="Yasik" data-date="2014-10-27T16:11:49+00:00">
+<div class="post" data-post-id="35473" data-author="Yasik" data-date="2014-10-27T16:11:49+00:00" data-subject="Spiritual Hammer proc not hitting ether mobs">
 
 Hello!
 
@@ -90,7 +90,7 @@ You pound a yellow rakasha extremely hard.
 
 </div>
 
-<div class="post" data-post-id="35476" data-author="Marvel" data-date="2014-10-27T20:22:37+00:00">
+<div class="post" data-post-id="35476" data-author="Marvel" data-date="2014-10-27T20:22:37+00:00" data-subject="Re: Spiritual Hammer proc not hitting ether mobs">
 
 Well known thing... those procs only come from masterfully cast spiritual hammer (glowing sizzling one). Those procs have never hit ether mobs, which is why whenever someone casts masterful hammer they usually just end up removing it and casting spell again.
 

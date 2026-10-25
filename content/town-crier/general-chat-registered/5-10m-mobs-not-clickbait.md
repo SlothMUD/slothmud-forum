@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="38857" data-author="Gorka" data-date="2018-06-05T10:46:10+00:00">
+<div class="post" data-post-id="38857" data-author="Gorka" data-date="2018-06-05T10:46:10+00:00" data-subject="5-10m Mobs (Not Clickbait)">
 
 Hi, 
 
@@ -292,7 +292,7 @@ If you haven't already done so, and you would like to see more senseless forum p
 
 </div>
 
-<div class="post" data-post-id="38858" data-author="Gorka" data-date="2018-06-05T13:09:45+00:00">
+<div class="post" data-post-id="38858" data-author="Gorka" data-date="2018-06-05T13:09:45+00:00" data-subject="Re: 5-10m Mobs (Not Clickbait)">
 
 Here is a list of 6-10m mobs on sloth... some errors... now I bet your interested...  :twisted: Here's the bad news... they nearly all suck... and it's twice as easy to kill 2 3m mobs for the same xp... WHY! Why is there such a massive jump between a 3-5m mob and a 6-10m mob... the difference is almost exponential... In a lot of cases 4 times the resources must be spent to kill a 6-10m mob than a 3-5m mob.
 
@@ -990,7 +990,7 @@ Valley of the Mage		nyeru necromancer leader	6845542
 
 </div>
 
-<div class="post" data-post-id="38860" data-author="Teron" data-date="2018-06-06T04:48:14+00:00">
+<div class="post" data-post-id="38860" data-author="Teron" data-date="2018-06-06T04:48:14+00:00" data-subject="Re: 5-10m Mobs (Not Clickbait)">
 
 tldr: it's hard to increase mob exp by only increasing their dam, so they boost their hps, with several Lyme exceptions.
 
@@ -1050,7 +1050,7 @@ Also, why should I subscribe to Surf's channel?
 
 </div>
 
-<div class="post" data-post-id="38861" data-author="Gorka" data-date="2018-06-06T07:52:56+00:00">
+<div class="post" data-post-id="38861" data-author="Gorka" data-date="2018-06-06T07:52:56+00:00" data-subject="Re: 5-10m Mobs (Not Clickbait)">
 
 Thanks for responding, I'll send you a virtual t-shirt... we ship high quality virtual t-shirts anywhere in the world.
 
@@ -1073,7 +1073,7 @@ Remember Juggleblood? He used to do a few area do-overs. He did a good job of hi
 
 </div>
 
-<div class="post" data-post-id="38863" data-author="Teron" data-date="2018-06-06T15:13:22+00:00">
+<div class="post" data-post-id="38863" data-author="Teron" data-date="2018-06-06T15:13:22+00:00" data-subject="Re: 5-10m Mobs (Not Clickbait)">
 
 You know, another problem, besides thick mobs, is that areas have too few of them.
 
@@ -1093,7 +1093,7 @@ Thank you.
 
 </div>
 
-<div class="post" data-post-id="38866" data-author="Josiah" data-date="2018-06-06T18:05:42+00:00">
+<div class="post" data-post-id="38866" data-author="Josiah" data-date="2018-06-06T18:05:42+00:00" data-subject="Re: 5-10m Mobs (Not Clickbait)">
 
 > **Quote:**
 > even in a hypothetical situation where I purchased everything in the proposed rebirth shop, why would 5-10m mobs still be so damn draining and difficult?
@@ -1104,7 +1104,7 @@ Are you trying to kill these with -14 AC?  That's a common mistake warriors make
 
 </div>
 
-<div class="post" data-post-id="38867" data-author="Gorka" data-date="2018-06-06T18:23:51+00:00">
+<div class="post" data-post-id="38867" data-author="Gorka" data-date="2018-06-06T18:23:51+00:00" data-subject="Re: 5-10m Mobs (Not Clickbait)">
 
 I'll let the comment fly past about my strategy or eq being garbage...  :evil: I'm well aware of ways to kill these mobs without taking any damage at all... my point is why are 6-10m mobs exponentially harder on average than mobs that give half the xp. 
 

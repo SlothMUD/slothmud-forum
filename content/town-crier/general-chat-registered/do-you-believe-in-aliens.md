@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="17904" data-author="13" data-date="2007-04-11T19:01:17+00:00">
+<div class="post" data-post-id="17904" data-author="13" data-date="2007-04-11T19:01:17+00:00" data-subject="Do you believe in aliens?">
 
 Yes/No 
 
@@ -22,13 +22,13 @@ etc
 
 </div>
 
-<div class="post" data-post-id="17905" data-author="Guinex" data-date="2007-04-11T19:19:52+00:00">
+<div class="post" data-post-id="17905" data-author="Guinex" data-date="2007-04-11T19:19:52+00:00" data-subject="">
 
 Yes, I am one.
 
 </div>
 
-<div class="post" data-post-id="17906" data-author="Alberich" data-date="2007-04-11T20:00:40+00:00">
+<div class="post" data-post-id="17906" data-author="Alberich" data-date="2007-04-11T20:00:40+00:00" data-subject="">
 
 I try not to "believe" anything - i'll leave belief to folks with religious inclinations (and neo-cons).
 
@@ -38,13 +38,13 @@ If we're talking about anthropomorphic little green men, not so much.
 
 </div>
 
-<div class="post" data-post-id="17907" data-author="13" data-date="2007-04-11T20:05:18+00:00">
+<div class="post" data-post-id="17907" data-author="13" data-date="2007-04-11T20:05:18+00:00" data-subject="">
 
 I think we are not the only planet with life, for the record.
 
 </div>
 
-<div class="post" data-post-id="17908" data-author="Shazuko" data-date="2007-04-11T22:15:45+00:00">
+<div class="post" data-post-id="17908" data-author="Shazuko" data-date="2007-04-11T22:15:45+00:00" data-subject="">
 
 mathematically, its not just possible/probable, its most likely...whether its a fungus or self-aware intelligence...
 
@@ -58,7 +58,7 @@ Shazuko Six Dragons
 
 </div>
 
-<div class="post" data-post-id="17909" data-author="Rynquald" data-date="2007-04-11T22:25:28+00:00">
+<div class="post" data-post-id="17909" data-author="Rynquald" data-date="2007-04-11T22:25:28+00:00" data-subject="">
 
 I think it's probable that our home at the edge of one galaxy out of billions isn't the only planet/star system with appropriate conditions to foster life, and as an extension, it's likely that organic life in some form (not nessecerially, but possibly, intelligent life) exists somewhere else besides earth.
 
@@ -66,13 +66,13 @@ On the other hand, I think it's almost certain that nothing besides us is alive 
 
 </div>
 
-<div class="post" data-post-id="17912" data-author="Weasel" data-date="2007-04-12T00:14:54+00:00">
+<div class="post" data-post-id="17912" data-author="Weasel" data-date="2007-04-12T00:14:54+00:00" data-subject="">
 
 Oh. I forgot. You guys still think digital watches are a pretty neat idea.
 
 </div>
 
-<div class="post" data-post-id="17913" data-author="firebrand" data-date="2007-04-12T00:53:51+00:00">
+<div class="post" data-post-id="17913" data-author="firebrand" data-date="2007-04-12T00:53:51+00:00" data-subject="">
 
 of course i believe in aliens!  may i present will/leaf as prime example?
 
@@ -80,7 +80,7 @@ of course i believe in aliens!  may i present will/leaf as prime example?
 
 </div>
 
-<div class="post" data-post-id="17914" data-author="Akasha" data-date="2007-04-12T05:09:54+00:00">
+<div class="post" data-post-id="17914" data-author="Akasha" data-date="2007-04-12T05:09:54+00:00" data-subject="">
 
 First thought that comes to mind -- "If there's nothing else out there, I'd say that's a pretty big waste of space."  -- Jody Foster [i:2tw5bog7]Contact[/i:2tw5bog7]
 
@@ -104,7 +104,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="17915" data-author="Weasel" data-date="2007-04-12T06:10:15+00:00">
+<div class="post" data-post-id="17915" data-author="Weasel" data-date="2007-04-12T06:10:15+00:00" data-subject="">
 
 The surest sign that intelligent life exists elsewhere in the universe is that it has never tried to contact us.
 
@@ -118,13 +118,13 @@ I'd love to see friendly contact with the human race by an extraterrestrial inte
 
 </div>
 
-<div class="post" data-post-id="17916" data-author="resouh" data-date="2007-04-12T06:29:37+00:00">
+<div class="post" data-post-id="17916" data-author="resouh" data-date="2007-04-12T06:29:37+00:00" data-subject="">
 
 Yes, and I would like to say "thank you" to them for taking all of the low-paying crappy jobs here in america that nobody else wanted:)
 
 </div>
 
-<div class="post" data-post-id="17921" data-author="alias" data-date="2007-04-13T01:56:39+00:00">
+<div class="post" data-post-id="17921" data-author="alias" data-date="2007-04-13T01:56:39+00:00" data-subject="">
 
 "Yes, and I would like to say "thank you" to them for taking all of the low-paying crappy jobs here in america that nobody else wanted:) "
 

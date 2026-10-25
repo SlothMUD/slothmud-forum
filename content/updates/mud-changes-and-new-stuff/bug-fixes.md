@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13260" data-author="*Splork*" data-date="2006-07-04T03:07:12+00:00">
+<div class="post" data-post-id="13260" data-author="*Splork*" data-date="2006-07-04T03:07:12+00:00" data-subject="Bug fixes">
 
 1) Haste will no longer give druid forms 2 extra attacks, lucky they even get one:)
 

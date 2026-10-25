@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="31707" data-author="*Splork*" data-date="2010-09-04T21:14:43+00:00">
+<div class="post" data-post-id="31707" data-author="*Splork*" data-date="2010-09-04T21:14:43+00:00" data-subject="SlothMUD&#x27;s Flash Client">
 
 We are very excited to introduce our very own browser based, flash client.  We are using this for all of our applications on Facebook and Myspace and it will also be used to login from our home page. You can check it out with the links on our front page to play. 
 
@@ -28,7 +28,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31729" data-author="Kismet" data-date="2010-09-07T06:55:17+00:00">
+<div class="post" data-post-id="31729" data-author="Kismet" data-date="2010-09-07T06:55:17+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
 So far, I really like this flash client, thank you for offering it =) I was thinking on the tracking where you have your name, class, level, gold, etc... Perhaps you should AC to that, and I thought maybe Stats Would be good there also. 
 
@@ -40,7 +40,7 @@ Thank You!
 
 </div>
 
-<div class="post" data-post-id="31747" data-author="*Splork*" data-date="2010-09-11T14:13:20+00:00">
+<div class="post" data-post-id="31747" data-author="*Splork*" data-date="2010-09-11T14:13:20+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client ( tutorials )">
 
 Here is a website which will help those of you using the new flash client:
 
@@ -54,7 +54,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31991" data-author="harvey" data-date="2010-11-07T18:53:35+00:00">
+<div class="post" data-post-id="31991" data-author="harvey" data-date="2010-11-07T18:53:35+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
 First off, I'd like to say that the flash client looks really nice. I think that the design will appeal to people that haven't ever played text based games before.
 
@@ -62,7 +62,7 @@ On to a question I have. I'm not sure this is the best place to ask it, but as i
 
 </div>
 
-<div class="post" data-post-id="31994" data-author="*Breeze*" data-date="2010-11-07T21:43:54+00:00">
+<div class="post" data-post-id="31994" data-author="*Breeze*" data-date="2010-11-07T21:43:54+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
 splork would be the only one that knows the proper answer to that atm.
 
@@ -70,7 +70,7 @@ half answer is yes, there is special infos sent to the flash client
 
 </div>
 
-<div class="post" data-post-id="31997" data-author="*Splork*" data-date="2010-11-08T15:09:31+00:00">
+<div class="post" data-post-id="31997" data-author="*Splork*" data-date="2010-11-08T15:09:31+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
 For the moment, this is a feature for the flash client only. Most likely we will add this to MXP and possibly another sort of output since not everyone has MXP.
 
@@ -80,13 +80,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32398" data-author="Breezewood" data-date="2011-01-31T18:18:26+00:00">
+<div class="post" data-post-id="32398" data-author="Breezewood" data-date="2011-01-31T18:18:26+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
 Love the flash client.  Any possibility of getting separate windows for channels?
 
 </div>
 
-<div class="post" data-post-id="33356" data-author="*Splork*" data-date="2012-07-01T14:15:07+00:00">
+<div class="post" data-post-id="33356" data-author="*Splork*" data-date="2012-07-01T14:15:07+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
 Ive updated the flash client once more. The map box is now functional. Ive only created a handful of maps currently, as Im learning the different types of software to create them, so it is a very slow process. Hopefully the quality of the maps will increase, as my skills do. My goal is to create one map a week until Valkyre is completed.
 
@@ -110,13 +110,13 @@ Avatar button which will have a personal avatar which wears, removes, and shows 
 
 </div>
 
-<div class="post" data-post-id="33358" data-author="Magi" data-date="2012-07-03T13:28:05+00:00">
+<div class="post" data-post-id="33358" data-author="Magi" data-date="2012-07-03T13:28:05+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
 Excellent! We finally have proof that Splork is evil! (Alignment -961)
 
 </div>
 
-<div class="post" data-post-id="34452" data-author="*Splork*" data-date="2013-09-25T23:08:24+00:00">
+<div class="post" data-post-id="34452" data-author="*Splork*" data-date="2013-09-25T23:08:24+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client ( New Versions )">
 
 A few newer versions of the flash client have been done for quite some time, here they are:
 
@@ -132,13 +132,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34678" data-author="Akaya" data-date="2013-12-21T23:05:47+00:00">
+<div class="post" data-post-id="34678" data-author="Akaya" data-date="2013-12-21T23:05:47+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
 Very nice :)
 
 </div>
 
-<div class="post" data-post-id="39653" data-author="cnl" data-date="2020-12-30T22:08:34+00:00">
+<div class="post" data-post-id="39653" data-author="cnl" data-date="2020-12-30T22:08:34+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
 It looks like a lot of amazing great work was put into the Flash client - but now that Flash has come to EOL due to Adobe sunsetting it - is there anyway to get access to the data the flash client used ie for its live maps etc?
 
@@ -146,7 +146,7 @@ Are there some .xml files or other updated data files out there that can be hook
 
 </div>
 
-<div class="post" data-post-id="39654" data-author="*Breeze*" data-date="2020-12-31T08:37:02+00:00">
+<div class="post" data-post-id="39654" data-author="*Breeze*" data-date="2020-12-31T08:37:02+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
 all the data it used was sent inline with the text the players see.
 
@@ -156,7 +156,7 @@ will have to look at the code to see which one exactly
 
 </div>
 
-<div class="post" data-post-id="39663" data-author="*Splork*" data-date="2021-01-06T18:53:57+00:00">
+<div class="post" data-post-id="39663" data-author="*Splork*" data-date="2021-01-06T18:53:57+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
 Hola!
 
@@ -166,7 +166,7 @@ I looked a while back on the game machine and the maps are still there...
 
 </div>
 
-<div class="post" data-post-id="39666" data-author="cnl" data-date="2021-01-07T07:08:29+00:00">
+<div class="post" data-post-id="39666" data-author="cnl" data-date="2021-01-07T07:08:29+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
 Thanks for the info Splork!
 

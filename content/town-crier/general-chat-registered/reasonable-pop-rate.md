@@ -10,7 +10,7 @@ locked: false
 post_count: 38
 ---
 
-<div class="post" data-post-id="23125" data-author="jezer" data-date="2008-03-07T02:56:47+00:00">
+<div class="post" data-post-id="23125" data-author="jezer" data-date="2008-03-07T02:56:47+00:00" data-subject="Reasonable Pop Rate?">
 
 What do you think should be the maximum reasonable pop rate to pop an item?
 
@@ -22,13 +22,13 @@ I personally think that anything over 1/50 (24hrs of continuous cycling) is too 
 
 </div>
 
-<div class="post" data-post-id="23126" data-author="*juggleblood*" data-date="2008-03-07T03:56:12+00:00">
+<div class="post" data-post-id="23126" data-author="*juggleblood*" data-date="2008-03-07T03:56:12+00:00" data-subject="">
 
 pop rates aren't really that low. hypothetically you could flip a coins 50 times and it land same side up. sometimes you unlucky.
 
 </div>
 
-<div class="post" data-post-id="23127" data-author="Yasik2" data-date="2008-03-07T04:51:28+00:00">
+<div class="post" data-post-id="23127" data-author="Yasik2" data-date="2008-03-07T04:51:28+00:00" data-subject="">
 
 if i'd be admin i'd make pop-rates very low
 
@@ -40,19 +40,19 @@ PS. i cycled wa-prime autoquest item (sword of valor) for 1.5 months with a few 
 
 </div>
 
-<div class="post" data-post-id="23129" data-author="Elwin" data-date="2008-03-07T05:11:57+00:00">
+<div class="post" data-post-id="23129" data-author="Elwin" data-date="2008-03-07T05:11:57+00:00" data-subject="">
 
 Not that it really matters, but there is no way you are going to toss a fair coin 50 times in a row and get all heads or all tails.  Odds are 1/2 for one flip, 1/2 to the 50th power for 50 flips in a row gives number of order 10^-16.  If you do one flip a second, that work out to over 35mil years of flipping on average to get 50 in a row.  Better start cycling now. :)
 
 </div>
 
-<div class="post" data-post-id="23133" data-author="Autolycos" data-date="2008-03-07T13:34:22+00:00">
+<div class="post" data-post-id="23133" data-author="Autolycos" data-date="2008-03-07T13:34:22+00:00" data-subject="">
 
 35mil years is about how long it takes to get that damn librarian in Castle Black to load that parchment!!
 
 </div>
 
-<div class="post" data-post-id="23134" data-author="Alberich" data-date="2008-03-07T13:42:44+00:00">
+<div class="post" data-post-id="23134" data-author="Alberich" data-date="2008-03-07T13:42:44+00:00" data-subject="">
 
 longer pops = fewer of that item = increased value of that item
 
@@ -60,7 +60,7 @@ not everyone in the game should have every item of topnotch eq for their class. 
 
 </div>
 
-<div class="post" data-post-id="23135" data-author="Thraxas" data-date="2008-03-07T13:45:13+00:00">
+<div class="post" data-post-id="23135" data-author="Thraxas" data-date="2008-03-07T13:45:13+00:00" data-subject="">
 
 PS. i cycled wa-prime autoquest item (sword of valor) for 1.5 months with a few breaks for food/sleep + minimal work, so *any* poprate is high enough to me after that[/quote:1jvp551a]
 
@@ -70,13 +70,13 @@ On the coin toss thing but there is no way you are going to toss a fair coin 50 
 
 </div>
 
-<div class="post" data-post-id="23139" data-author="Vixn" data-date="2008-03-07T17:55:56+00:00">
+<div class="post" data-post-id="23139" data-author="Vixn" data-date="2008-03-07T17:55:56+00:00" data-subject="">
 
 Don't touch pop rates. Just make 'dance of the 7 luck gods' work better for hard-pop items. As I know dance makes pop-rate twice better when 5x40 bard sing this song. It could be trice better for items with pop-rate worse then say 1d50. Or something like that.
 
 </div>
 
-<div class="post" data-post-id="23162" data-author="jezer" data-date="2008-03-10T00:50:11+00:00">
+<div class="post" data-post-id="23162" data-author="jezer" data-date="2008-03-10T00:50:11+00:00" data-subject="">
 
 Tonight will be the 7th day in a row of running the castle black librarian... I don't care if it takes another 20 days... I will keep going till it pops... 
 
@@ -88,7 +88,7 @@ Why can't we just move on? To kill him for another 5 days proves what? Does this
 
 </div>
 
-<div class="post" data-post-id="23163" data-author="Yinao" data-date="2008-03-10T01:44:32+00:00">
+<div class="post" data-post-id="23163" data-author="Yinao" data-date="2008-03-10T01:44:32+00:00" data-subject="">
 
 I told you to prepare to run longer  :) , we all pay our dues to run the eq / cps we want to forge em now hush up and pay yours!  :evil: 
 
@@ -96,7 +96,7 @@ Ps You think thats bad? Try forging scarab of destruction or ars, or ring of the
 
 </div>
 
-<div class="post" data-post-id="23164" data-author="Weasel" data-date="2008-03-10T02:07:34+00:00">
+<div class="post" data-post-id="23164" data-author="Weasel" data-date="2008-03-10T02:07:34+00:00" data-subject="">
 
 Nods, frustrating as hell running a mob and it never seems to load (I recall one cp not so long ago where I killed the loading mob a couple of hundred times before it loaded, and spent several weeks doing it, at times for 12-15 hours at a stretch), even worse is when someone else hits it and it loads on the second or third kill. 
 
@@ -104,7 +104,7 @@ As I understand it, 1D50 is about the highest (worst) poprate used? Maybe there 
 
 </div>
 
-<div class="post" data-post-id="23165" data-author="jezer" data-date="2008-03-10T02:38:33+00:00">
+<div class="post" data-post-id="23165" data-author="jezer" data-date="2008-03-10T02:38:33+00:00" data-subject="">
 
 I'm liking weasels suggestion, where you could have "max kills" on a mob before it pops. I'm not so sure about making those kills belong to one player, but just force it to pop for who ever kills it when max kills is reached. Obviously reset back to zero when it does pop. 
 
@@ -148,7 +148,7 @@ It's an absolute no brainer that most 5x40's that have squandered there lives pl
 
 </div>
 
-<div class="post" data-post-id="23171" data-author="Stryx" data-date="2008-03-10T09:50:55+00:00">
+<div class="post" data-post-id="23171" data-author="Stryx" data-date="2008-03-10T09:50:55+00:00" data-subject="">
 
 Just a question to this. What happens if said item is going to load for sure after say 75 kills. You keep killing mob for 60 kills then have to leave. You come back at 70 kills with someone else already cycling it now. They get the pop. I can see this would cause problems with some people.
 
@@ -156,7 +156,7 @@ I would say leave pop rates as they are, yes because we all had to do it this wa
 
 </div>
 
-<div class="post" data-post-id="23173" data-author="Yasik2" data-date="2008-03-10T12:04:13+00:00">
+<div class="post" data-post-id="23173" data-author="Yasik2" data-date="2008-03-10T12:04:13+00:00" data-subject="">
 
 You keep killing mob for 60 kills then have to leave.[/quote:gi7kgo1h]
 
@@ -166,7 +166,7 @@ Anyway, cease the spam (c) Jake. Nothing you say/complain in this thread is goin
 
 </div>
 
-<div class="post" data-post-id="23174" data-author="Stryx" data-date="2008-03-10T12:35:54+00:00">
+<div class="post" data-post-id="23174" data-author="Stryx" data-date="2008-03-10T12:35:54+00:00" data-subject="">
 
 [quote:3equr0ne]I think the only place this imaginary person would have to leave is hospital or morgue. 60 kills * 40 min average repop time = 40 hrs non-stop cycling.[/quote:3equr0ne]
 
@@ -176,7 +176,7 @@ Who said anything about 60kills non-stop, clever dick!
 
 </div>
 
-<div class="post" data-post-id="23177" data-author="Weasel" data-date="2008-03-10T14:45:26+00:00">
+<div class="post" data-post-id="23177" data-author="Weasel" data-date="2008-03-10T14:45:26+00:00" data-subject="">
 
 Just a question to this. What happens if said item is going to load for sure after say 75 kills. You keep killing mob for 60 kills then have to leave. You come back at 70 kills with someone else already cycling it now. They get the pop. I can see this would cause problems with some people.
 
@@ -186,7 +186,7 @@ No different from how things are now - if you leave it, then it's open for someo
 
 </div>
 
-<div class="post" data-post-id="23178" data-author="Leaf" data-date="2008-03-10T18:31:06+00:00">
+<div class="post" data-post-id="23178" data-author="Leaf" data-date="2008-03-10T18:31:06+00:00" data-subject="">
 
 If anything make it 1/50 on first kill, if it does load then 1/49, 1/48, 1/47.
 
@@ -198,7 +198,7 @@ What sucks to are spellbooks trying to pop!
 
 </div>
 
-<div class="post" data-post-id="23179" data-author="jezer" data-date="2008-03-10T22:32:00+00:00">
+<div class="post" data-post-id="23179" data-author="jezer" data-date="2008-03-10T22:32:00+00:00" data-subject="">
 
 The idea is more about stopping the ridiculous. 
 
@@ -210,7 +210,7 @@ It would be annoying if someone got the max pop before me, but at least at that 
 
 </div>
 
-<div class="post" data-post-id="23180" data-author="firebrand" data-date="2008-03-10T23:28:35+00:00">
+<div class="post" data-post-id="23180" data-author="firebrand" data-date="2008-03-10T23:28:35+00:00" data-subject="">
 
 What sucks to are spellbooks trying to pop![/quote:321alboa]
 
@@ -220,7 +220,7 @@ oh lord....will made a good point!  and worse, i agree!!!!!!!  what is the point
 
 </div>
 
-<div class="post" data-post-id="23181" data-author="jezer" data-date="2008-03-11T00:29:47+00:00">
+<div class="post" data-post-id="23181" data-author="jezer" data-date="2008-03-11T00:29:47+00:00" data-subject="">
 
 Teaching went a long way to helping this situation, but still some sb's pop on insanely bad mobs. Which teaching didn't address... because you still don't have the spellbook! 
 
@@ -238,13 +238,13 @@ I ironically seem to be having trouble popping the "slow" spellbook... it's my o
 
 </div>
 
-<div class="post" data-post-id="23182" data-author="Weasel" data-date="2008-03-11T03:50:42+00:00">
+<div class="post" data-post-id="23182" data-author="Weasel" data-date="2008-03-11T03:50:42+00:00" data-subject="">
 
 Always wondered why all warrior skills/spells can only be learned up to 85%, whereas casters etc go to 95% ..and then you can increase some further with teaching.
 
 </div>
 
-<div class="post" data-post-id="23183" data-author="Bazilus" data-date="2008-03-11T09:21:38+00:00">
+<div class="post" data-post-id="23183" data-author="Bazilus" data-date="2008-03-11T09:21:38+00:00" data-subject="">
 
 Stop it, all spellbooks got pretty nice poprates, except high spells in classo. And with eq not so bad, as i know max poprates in game like 1d45. Add some more for autoquest items. Think, you just not so lucky. You can cycle mob all day, 20-30 kills and after going to rest, some1 come and take pop.
 
@@ -260,7 +260,7 @@ Bazilus the Crazy Python.
 
 </div>
 
-<div class="post" data-post-id="23186" data-author="alias" data-date="2008-03-11T14:35:24+00:00">
+<div class="post" data-post-id="23186" data-author="alias" data-date="2008-03-11T14:35:24+00:00" data-subject="">
 
 Spellbook pop rates eh......so nice of you to think of Shyla, Since she will pop almost any spellbook for you if you treat her nice and ask. Most spells aren't bad pop rates anyways. 
 
@@ -276,13 +276,13 @@ and teaching did address the problem mostly, since you only need 1 sb instead of
 
 </div>
 
-<div class="post" data-post-id="23190" data-author="13" data-date="2008-03-11T17:07:13+00:00">
+<div class="post" data-post-id="23190" data-author="13" data-date="2008-03-11T17:07:13+00:00" data-subject="">
 
 I guess they don't call it the Crier for nothin' huh?
 
 </div>
 
-<div class="post" data-post-id="23191" data-author="Autolycos" data-date="2008-03-11T18:37:13+00:00">
+<div class="post" data-post-id="23191" data-author="Autolycos" data-date="2008-03-11T18:37:13+00:00" data-subject="">
 
 I guess they don't call it the Crier for nothin' huh?[/quote:2lgopfjg]
 
@@ -290,7 +290,7 @@ lmfao
 
 </div>
 
-<div class="post" data-post-id="23192" data-author="Rynquald" data-date="2008-03-11T21:43:13+00:00">
+<div class="post" data-post-id="23192" data-author="Rynquald" data-date="2008-03-11T21:43:13+00:00" data-subject="">
 
 Ever notice that the few sbs that are hard to pop are spells you can easily get by without? And the stingy eq is normally one of the best options for any given slot?
 
@@ -304,7 +304,7 @@ Also, would you give up getting lucky and popping something stingy on the second
 
 </div>
 
-<div class="post" data-post-id="23194" data-author="jezer" data-date="2008-03-11T22:47:20+00:00">
+<div class="post" data-post-id="23194" data-author="jezer" data-date="2008-03-11T22:47:20+00:00" data-subject="">
 
 I'm killing Lord Morrigan at the moment for the diamond studded clasp. I've heard he is stingy, but I haven't killed him enough to know yet.
 
@@ -318,7 +318,7 @@ It's not always about stingy pop-rates, sometimes the mob is just boringly annoy
 
 </div>
 
-<div class="post" data-post-id="23197" data-author="alias" data-date="2008-03-12T00:18:55+00:00">
+<div class="post" data-post-id="23197" data-author="alias" data-date="2008-03-12T00:18:55+00:00" data-subject="">
 
 If your camping out 40 mins for a repop u need something else to do in the mean time. I addressed this 2 ways, 1 pick up more mobs to kill on that cont for gold, books, eq, whatever or 2 read a book or surf the web while u wait.
 
@@ -326,7 +326,7 @@ There is no reason to be bored for 40 mins.
 
 </div>
 
-<div class="post" data-post-id="23199" data-author="jezer" data-date="2008-03-12T00:39:07+00:00">
+<div class="post" data-post-id="23199" data-author="jezer" data-date="2008-03-12T00:39:07+00:00" data-subject="">
 
 Your right, I hit stalkers for a little xp from time to time, but I'm useless at multitasking :( I died and lost all my stalker xp exploring, so I thought, this is a dumb idea. I some times swivel around my chair and play my drums while I wait. But after 7days... I don't care what you do inbetween, it's tiresome. 
 
@@ -334,7 +334,7 @@ Good thing about Morrigan it almost takes the pop time to 2.5 run him and prepar
 
 </div>
 
-<div class="post" data-post-id="23207" data-author="Leaf" data-date="2008-03-12T15:17:22+00:00">
+<div class="post" data-post-id="23207" data-author="Leaf" data-date="2008-03-12T15:17:22+00:00" data-subject="">
 
 You want a REAL challenge near the Stalkers???
 
@@ -364,7 +364,7 @@ That helps kill the time.  Or Stalkers, which is all chop mobs.
 
 </div>
 
-<div class="post" data-post-id="23212" data-author="Tap" data-date="2008-03-13T01:06:15+00:00">
+<div class="post" data-post-id="23212" data-author="Tap" data-date="2008-03-13T01:06:15+00:00" data-subject="">
 
 [www.match.com](http://www.match.com)
 
@@ -372,7 +372,7 @@ I like posting as other people and getting them dates with the most mis-matched 
 
 </div>
 
-<div class="post" data-post-id="23213" data-author="Leaf" data-date="2008-03-13T02:08:47+00:00">
+<div class="post" data-post-id="23213" data-author="Leaf" data-date="2008-03-13T02:08:47+00:00" data-subject="">
 
 I wouldn't say it's a mis-match.  I use to play "Leaf" and he was able to kill
 
@@ -382,7 +382,7 @@ in there.  Sure i died and corpsed alot, but made alot more.
 
 </div>
 
-<div class="post" data-post-id="26669" data-author="jezer" data-date="2008-10-13T01:09:04+00:00">
+<div class="post" data-post-id="26669" data-author="jezer" data-date="2008-10-13T01:09:04+00:00" data-subject="">
 
 *bump*
 
@@ -392,7 +392,7 @@ A 1/50 chance of a pop rate is an average... And typically the deviation can be 
 
 </div>
 
-<div class="post" data-post-id="26670" data-author="Evergreen" data-date="2008-10-13T07:05:40+00:00">
+<div class="post" data-post-id="26670" data-author="Evergreen" data-date="2008-10-13T07:05:40+00:00" data-subject="">
 
 Rynquald said it all. Everyone of us has his fast pops and long pops. Ive poped 3 lava mages in row, a lot ppl have cycled him for months. Thats life, youll get lucky with other pops. Everyone who wrote here that its ridiculous, check your memory for fast pops you had (which were supposed to be long) and that balances your popruns. You cant get every pop to be poped at least within dices (like 1d50, 1d49 idea). 
 
@@ -402,13 +402,13 @@ AND STOP WHINING!!
 
 </div>
 
-<div class="post" data-post-id="26671" data-author="angel" data-date="2008-10-13T07:24:07+00:00">
+<div class="post" data-post-id="26671" data-author="angel" data-date="2008-10-13T07:24:07+00:00" data-subject="">
 
 man, evergreen shud go forge more stuffs for me to buy:)
 
 </div>
 
-<div class="post" data-post-id="26672" data-author="*juggleblood*" data-date="2008-10-13T13:31:31+00:00">
+<div class="post" data-post-id="26672" data-author="*juggleblood*" data-date="2008-10-13T13:31:31+00:00" data-subject="">
 
 If 1 in 50 was an average, no one would have any eq. 
 
@@ -420,7 +420,7 @@ A 1/50 chance of a pop rate is an average... And typically the deviation can be 
 
 </div>
 
-<div class="post" data-post-id="26674" data-author="jezer" data-date="2008-10-13T14:29:05+00:00">
+<div class="post" data-post-id="26674" data-author="jezer" data-date="2008-10-13T14:29:05+00:00" data-subject="">
 
 My bad, change the "A" to an "IF." I really don't claim all eq is 1/50 heh... 
 
@@ -430,7 +430,7 @@ In fact I wrote this entire post waiting for my rent command to make it through 
 
 </div>
 
-<div class="post" data-post-id="26675" data-author="firebrand" data-date="2008-10-13T15:12:46+00:00">
+<div class="post" data-post-id="26675" data-author="firebrand" data-date="2008-10-13T15:12:46+00:00" data-subject="">
 
 My bad, change the "A" to an "IF." I really don't claim all eq is 1/50 heh... 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="12779" data-author="Weasel" data-date="2006-05-29T02:32:59+00:00">
+<div class="post" data-post-id="12779" data-author="Weasel" data-date="2006-05-29T02:32:59+00:00" data-subject="forum thread order changes?">
 
 Is it just me, or has everyone had the forum change so the the oldest entry is displayed first rather than the newest when viewing a thread?
 
@@ -18,7 +18,7 @@ Yes, I know I can scroll way down the bottom and change it to newest first, but 
 
 </div>
 
-<div class="post" data-post-id="12784" data-author="Clink" data-date="2006-05-29T13:27:08+00:00">
+<div class="post" data-post-id="12784" data-author="Clink" data-date="2006-05-29T13:27:08+00:00" data-subject="Re: forum thread order changes?">
 
 Is it just me, or ...[/quote:1vd9jel1]
 
@@ -34,7 +34,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="12789" data-author="Weasel" data-date="2006-05-29T16:00:26+00:00">
+<div class="post" data-post-id="12789" data-author="Weasel" data-date="2006-05-29T16:00:26+00:00" data-subject="">
 
 I knew it - the website really has been coded to annoy me! I knew I smelled a conspiracy! I bet you killed Kenny too - you bastards!
 
@@ -46,7 +46,7 @@ btw, just because 95% (?) of other forums on the web list postings oldest first 
 
 </div>
 
-<div class="post" data-post-id="12850" data-author="madmax" data-date="2006-06-02T17:46:15+00:00">
+<div class="post" data-post-id="12850" data-author="madmax" data-date="2006-06-02T17:46:15+00:00" data-subject="Re: forum thread order changes?">
 
 Is it just me, or ...[/quote:8cfsi5jn]
 
@@ -68,7 +68,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="12852" data-author="Clink" data-date="2006-06-02T19:51:56+00:00">
+<div class="post" data-post-id="12852" data-author="Clink" data-date="2006-06-02T19:51:56+00:00" data-subject="">
 
 Not likely in the near future.  There is a new version of this software that runs this board coming out soon.  If it is in there we'll get it.
 

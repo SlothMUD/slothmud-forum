@@ -10,25 +10,25 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="27418" data-author="jezer" data-date="2008-12-11T23:24:54+00:00">
+<div class="post" data-post-id="27418" data-author="jezer" data-date="2008-12-11T23:24:54+00:00" data-subject="Overpriced Heal/Spell Bonus in the Avatar Shop?">
 
 Vote...
 
 </div>
 
-<div class="post" data-post-id="27419" data-author="Roadrunr" data-date="2008-12-11T23:45:15+00:00">
+<div class="post" data-post-id="27419" data-author="Roadrunr" data-date="2008-12-11T23:45:15+00:00" data-subject="">
 
 is there anything that you wont whine about?
 
 </div>
 
-<div class="post" data-post-id="27420" data-author="jezer" data-date="2008-12-12T00:02:40+00:00">
+<div class="post" data-post-id="27420" data-author="jezer" data-date="2008-12-12T00:02:40+00:00" data-subject="">
 
 If you click roadrunr, and find all posts, I think you'll find you whine about me AND others "whining" just as much... observe my signature.
 
 </div>
 
-<div class="post" data-post-id="27423" data-author="Roadrunr" data-date="2008-12-12T03:11:18+00:00">
+<div class="post" data-post-id="27423" data-author="Roadrunr" data-date="2008-12-12T03:11:18+00:00" data-subject="">
 
 ahh screw it.
 
@@ -40,7 +40,7 @@ you probably only played Doom on godmode didnt you?
 
 </div>
 
-<div class="post" data-post-id="27424" data-author="jezer" data-date="2008-12-12T03:33:58+00:00">
+<div class="post" data-post-id="27424" data-author="jezer" data-date="2008-12-12T03:33:58+00:00" data-subject="">
 
 I think your being unfair. I've asked a question, and asked people to state there opinion.
 
@@ -56,19 +56,19 @@ As for your conjecture about my playing ethic... you don't really know do you.
 
 </div>
 
-<div class="post" data-post-id="27425" data-author="*juggleblood*" data-date="2008-12-12T04:41:26+00:00">
+<div class="post" data-post-id="27425" data-author="*juggleblood*" data-date="2008-12-12T04:41:26+00:00" data-subject="">
 
 I'll whine about it with you Jezer. 10 tokens is nuts. 5 for spelldam and 10 for manaregen would be more reasonable imho.
 
 </div>
 
-<div class="post" data-post-id="27426" data-author="Rynquald" data-date="2008-12-12T05:50:08+00:00">
+<div class="post" data-post-id="27426" data-author="Rynquald" data-date="2008-12-12T05:50:08+00:00" data-subject="">
 
 It is pretty expensive compared to some of the similarly useful options.
 
 </div>
 
-<div class="post" data-post-id="27427" data-author="Tap" data-date="2008-12-12T09:17:33+00:00">
+<div class="post" data-post-id="27427" data-author="Tap" data-date="2008-12-12T09:17:33+00:00" data-subject="">
 
 [quote:1umy4vzw]you probably only played Doom on godmode didnt you?[/quote:1umy4vzw]
 
@@ -78,13 +78,13 @@ I hate that purple freak.
 
 </div>
 
-<div class="post" data-post-id="27430" data-author="strider" data-date="2008-12-12T15:54:03+00:00">
+<div class="post" data-post-id="27430" data-author="strider" data-date="2008-12-12T15:54:03+00:00" data-subject="">
 
 What a revelation! Of course it's overpriced. But so is stab dmg, bracers of razors and half the other high end items/bonuses you buy. It's an option, ya don't like the price don't buy it. Course it's not like there's anything else to do on the mud except get xp tokens and waste them. If you haven't figured it out by now it's now about being practical, it's about bragging rights! enjoy.
 
 </div>
 
-<div class="post" data-post-id="27431" data-author="Roadrunr" data-date="2008-12-12T17:20:13+00:00">
+<div class="post" data-post-id="27431" data-author="Roadrunr" data-date="2008-12-12T17:20:13+00:00" data-subject="">
 
 I think your being unfair. I've asked a question, and asked people to state there opinion.
 
@@ -106,25 +106,25 @@ besides, eventually, you'll cap everything and have nothing left to buy except h
 
 </div>
 
-<div class="post" data-post-id="27433" data-author="Tap" data-date="2008-12-12T21:06:42+00:00">
+<div class="post" data-post-id="27433" data-author="Tap" data-date="2008-12-12T21:06:42+00:00" data-subject="">
 
 A pwipe might be in order.
 
 </div>
 
-<div class="post" data-post-id="27434" data-author="Yinao" data-date="2008-12-12T21:20:00+00:00">
+<div class="post" data-post-id="27434" data-author="Yinao" data-date="2008-12-12T21:20:00+00:00" data-subject="">
 
 Iirc, the caps on hp / mana / moves are 400 / 200 / 200 I'm not positive on the moves but I'm pretty sure on the other two..
 
 </div>
 
-<div class="post" data-post-id="27436" data-author="Medios" data-date="2008-12-12T23:12:10+00:00">
+<div class="post" data-post-id="27436" data-author="Medios" data-date="2008-12-12T23:12:10+00:00" data-subject="">
 
 I am guessing you guys that say its overpriced never seen Minstrel in the healo...
 
 </div>
 
-<div class="post" data-post-id="27442" data-author="brady" data-date="2008-12-13T04:05:49+00:00">
+<div class="post" data-post-id="27442" data-author="brady" data-date="2008-12-13T04:05:49+00:00" data-subject="">
 
 I am guessing you guys that say its overpriced never seen Minstrel in the healo...[/quote:1fzdkzcr]
 
@@ -136,7 +136,7 @@ Also consider that you can get +15 spell damage with an in game light so really 
 
 </div>
 
-<div class="post" data-post-id="27447" data-author="Roadrunr" data-date="2008-12-14T06:30:55+00:00">
+<div class="post" data-post-id="27447" data-author="Roadrunr" data-date="2008-12-14T06:30:55+00:00" data-subject="">
 
 I am guessing you guys that say its overpriced never seen Minstrel in the healo...[/quote:1dqgo05e]
 
@@ -152,19 +152,19 @@ nice try but if I apply your argument and consider that some things that you can
 
 </div>
 
-<div class="post" data-post-id="27448" data-author="Roadrunr" data-date="2008-12-14T06:32:04+00:00">
+<div class="post" data-post-id="27448" data-author="Roadrunr" data-date="2008-12-14T06:32:04+00:00" data-subject="">
 
 oh crap, now jezer's gonna whine and have a poll about whether or nt we should be able to buy mr and ac.
 
 </div>
 
-<div class="post" data-post-id="27449" data-author="Weasel" data-date="2008-12-14T14:36:04+00:00">
+<div class="post" data-post-id="27449" data-author="Weasel" data-date="2008-12-14T14:36:04+00:00" data-subject="">
 
 so.. maybe the immortals should remove it all since it's too expensive...
 
 </div>
 
-<div class="post" data-post-id="27450" data-author="firebrand" data-date="2008-12-14T15:29:31+00:00">
+<div class="post" data-post-id="27450" data-author="firebrand" data-date="2008-12-14T15:29:31+00:00" data-subject="">
 
 i have a better idea: chunk all the powerups and just ask the imms to raise our level caps....to immortal.  let us become godwars.  that way, we can have max everything and learn everything to 100%. 
 
@@ -172,7 +172,7 @@ i have a better idea: chunk all the powerups and just ask the imms to raise our 
 
 </div>
 
-<div class="post" data-post-id="27452" data-author="brady" data-date="2008-12-14T19:52:11+00:00">
+<div class="post" data-post-id="27452" data-author="brady" data-date="2008-12-14T19:52:11+00:00" data-subject="">
 
 you FAIL with this argument since you can actually buy mana and spelldam while you cannot BUY ac or mr with xp tokens.
 

@@ -10,13 +10,13 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="39679" data-author="Driven" data-date="2021-01-25T00:07:39+00:00">
+<div class="post" data-post-id="39679" data-author="Driven" data-date="2021-01-25T00:07:39+00:00" data-subject="Changes to several potions">
 
 FYI, we (read: the highly talented Teker) has tracked down the bug behind the recent crashes around the reading command and found that we were overrunning buffers in the rent code.  Based on the contents of the memory dumps, my strong suspicion is that the culprit was kangaroo pouches containing extremely high numbers of zero-weight potions.  Teker has rewritten the rent code to prevent the overruns, but for general stability reasons, we have changed wispy, good-intention, and mindflayer potions to weight 1.  For those of you with a huge stash of these potions in your kangaroo pouch, don't be surprised if you find your pouches to be tremendously heavy.  If you guys know of any more objects of weight zero that can be put in containers that do not count towards laden/rent counts, please let us know so that we can fix them.  The containers in question would be things like the kangaroo pouch, dice bag, flux of dreams, white silken bag, etc.
 
 </div>
 
-<div class="post" data-post-id="39680" data-author="Gorka" data-date="2021-01-25T13:58:56+00:00">
+<div class="post" data-post-id="39680" data-author="Gorka" data-date="2021-01-25T13:58:56+00:00" data-subject="Re: Changes to several potions">
 
 I often rent with 100 shards in my white-silken-bag. I'm not one of the potion hoarders. I junk almost everything I pop these days, or use potions immediately or very quickly after. 
 
@@ -36,7 +36,7 @@ If these changes were made, I'd do something about using them more often.
 
 </div>
 
-<div class="post" data-post-id="39681" data-author="Gorka" data-date="2021-01-25T14:12:10+00:00">
+<div class="post" data-post-id="39681" data-author="Gorka" data-date="2021-01-25T14:12:10+00:00" data-subject="Re: Changes to several potions">
 
 The other thing I could do is vault my hundred shards and junk all new ones, if it makes a difference to the mud.
 
@@ -44,7 +44,7 @@ Furthermore, on the subject of vaults... Are we going to hit similar size limits
 
 </div>
 
-<div class="post" data-post-id="39682" data-author="*teker*" data-date="2021-01-26T15:26:34+00:00">
+<div class="post" data-post-id="39682" data-author="*teker*" data-date="2021-01-26T15:26:34+00:00" data-subject="Re: Changes to several potions">
 
 - The "offer" limitation was really a limit in how the list was buffered and sent back to the player.  It wasn't a problem in the rent file.  I don't see future problems with potions or shards or gems in dice bags because the new buffer will grow if needed.
 
@@ -54,7 +54,7 @@ Furthermore, on the subject of vaults... Are we going to hit similar size limits
 
 </div>
 
-<div class="post" data-post-id="39683" data-author="Nyx" data-date="2021-01-29T02:23:47+00:00">
+<div class="post" data-post-id="39683" data-author="Nyx" data-date="2021-01-29T02:23:47+00:00" data-subject="Re: Changes to several potions">
 
 Found 3 to fix. Thanks.
 

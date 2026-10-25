@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="35369" data-author="Thraxas" data-date="2014-07-03T23:23:23+00:00">
+<div class="post" data-post-id="35369" data-author="Thraxas" data-date="2014-07-03T23:23:23+00:00" data-subject="Jasper Rune">
 
 I'm Necro Prime so enjoy using Undead Control.
 
@@ -36,13 +36,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="35370" data-author="Dragoth" data-date="2014-07-04T05:33:44+00:00">
+<div class="post" data-post-id="35370" data-author="Dragoth" data-date="2014-07-04T05:33:44+00:00" data-subject="Re: Jasper Rune">
 
 Try socketing it to something you wear about your body instead, like a Shroud of Undead Spiritcharmer.
 
 </div>
 
-<div class="post" data-post-id="35372" data-author="Thraxas" data-date="2014-07-04T15:00:36+00:00">
+<div class="post" data-post-id="35372" data-author="Thraxas" data-date="2014-07-04T15:00:36+00:00" data-subject="Re: Jasper Rune (WTS/WTT)">
 
 Thanks for that.
 

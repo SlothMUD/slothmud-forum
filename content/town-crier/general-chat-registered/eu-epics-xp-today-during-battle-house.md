@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39225" data-author="Gorka" data-date="2019-06-25T12:49:41+00:00">
+<div class="post" data-post-id="39225" data-author="Gorka" data-date="2019-06-25T12:49:41+00:00" data-subject="EU / EPICS / XP - Today During Battle House">
 
 I will be running XERXES, EU / EU epics and other xp during the house of battle today. I'm hoping to load Asmodeus but if you need something your welcome to call it on EU. Come join us for 214mins. That's just under 4hrs from the making of this post, or 9.30am game time.
 
@@ -20,7 +20,7 @@ Dingo right now...
 
 </div>
 
-<div class="post" data-post-id="39226" data-author="Gorka" data-date="2019-06-25T20:26:39+00:00">
+<div class="post" data-post-id="39226" data-author="Gorka" data-date="2019-06-25T20:26:39+00:00" data-subject="Re: EU / EPICS / XP - Today During Battle House">
 
 Thanks Guys!
 

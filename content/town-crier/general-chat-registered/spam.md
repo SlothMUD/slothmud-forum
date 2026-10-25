@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="15605" data-author="13" data-date="2006-12-12T05:16:55+00:00">
+<div class="post" data-post-id="15605" data-author="13" data-date="2006-12-12T05:16:55+00:00" data-subject="Spam">
 
 <814hp 220ma 266mv><779649603xp>
 
@@ -254,7 +254,7 @@ Ivan von Zelkham screams in pain as Chi's frostbolt freezes him.
 
 </div>
 
-<div class="post" data-post-id="15607" data-author="Autolycos" data-date="2006-12-12T13:16:17+00:00">
+<div class="post" data-post-id="15607" data-author="Autolycos" data-date="2006-12-12T13:16:17+00:00" data-subject="">
 
 [b:39rmy8hp]geez.... :shock:     here ya go!  a group of spam for your group of spam[/b:39rmy8hp] :twisted: 
 
@@ -262,7 +262,7 @@ Ivan von Zelkham screams in pain as Chi's frostbolt freezes him.
 
 </div>
 
-<div class="post" data-post-id="15611" data-author="firebrand" data-date="2006-12-12T14:47:30+00:00">
+<div class="post" data-post-id="15611" data-author="firebrand" data-date="2006-12-12T14:47:30+00:00" data-subject="">
 
 two words: gag fight
 
@@ -272,7 +272,7 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="15612" data-author="13" data-date="2006-12-12T14:56:21+00:00">
+<div class="post" data-post-id="15612" data-author="13" data-date="2006-12-12T14:56:21+00:00" data-subject="">
 
 I use gag fight i just turned it off the full affect
 

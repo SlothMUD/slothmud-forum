@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="29740" data-author="Jag" data-date="2009-07-31T04:12:00+00:00">
+<div class="post" data-post-id="29740" data-author="Jag" data-date="2009-07-31T04:12:00+00:00" data-subject="Rune Gems">
 
 HI folks, if you are not collecting gems, I would appreciate your help collecting them. If you sell them to shops they will disappear on reboot.  If I'm not on, just ship to me with a  fee due.  I will pay a reasonable bonus above whatever the shops offer.   
 
@@ -22,7 +22,7 @@ Jag
 
 </div>
 
-<div class="post" data-post-id="29792" data-author="Jag" data-date="2009-08-09T13:18:10+00:00">
+<div class="post" data-post-id="29792" data-author="Jag" data-date="2009-08-09T13:18:10+00:00" data-subject="">
 
 I now have 4 aquamarines (not aquamarine stones) and only need one more to try the rune forge.  Any help would be appreciated. 
 
@@ -30,7 +30,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="30026" data-author="Jag" data-date="2009-09-23T15:05:58+00:00">
+<div class="post" data-post-id="30026" data-author="Jag" data-date="2009-09-23T15:05:58+00:00" data-subject="">
 
 Just updating this thread so it is not forgotten.
 
@@ -56,7 +56,7 @@ thanks, Jag
 
 </div>
 
-<div class="post" data-post-id="30027" data-author="Jag" data-date="2009-09-23T16:58:56+00:00">
+<div class="post" data-post-id="30027" data-author="Jag" data-date="2009-09-23T16:58:56+00:00" data-subject="">
 
 Finally got the 5th aquamarine from a cache on a not large mob.
 
@@ -120,7 +120,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="30029" data-author="Stab" data-date="2009-09-23T18:57:21+00:00">
+<div class="post" data-post-id="30029" data-author="Stab" data-date="2009-09-23T18:57:21+00:00" data-subject="Great and gratz">
 
 Thanks  for the post and info regarding the games newly added 'runes'. It's part of the reason I selected Bard quad. I think it adds a nice demension to the game without going overboard.
 

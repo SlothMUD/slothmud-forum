@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="37282" data-author="*teker*" data-date="2016-08-26T14:57:15+00:00">
+<div class="post" data-post-id="37282" data-author="*teker*" data-date="2016-08-26T14:57:15+00:00" data-subject="Changelog 2016-08-26 - keywords and targeting">
 
 The old stuff:
 
@@ -88,13 +88,13 @@ keywords are set to the same as the specified player.
 
 </div>
 
-<div class="post" data-post-id="37283" data-author="Gorka" data-date="2016-08-26T15:47:10+00:00">
+<div class="post" data-post-id="37283" data-author="Gorka" data-date="2016-08-26T15:47:10+00:00" data-subject="Re: Changelog 2016-08-26 - keywords and targeting">
 
 On the subject of targets... spell targets... some default to targeting self with no argument, others don't. Would it be possible to make all spell targets either default to self, or if the spell is offensive use the target parameter?
 
 </div>
 
-<div class="post" data-post-id="37284" data-author="Teron" data-date="2016-08-26T16:08:02+00:00">
+<div class="post" data-post-id="37284" data-author="Teron" data-date="2016-08-26T16:08:02+00:00" data-subject="Re: Changelog 2016-08-26 - keywords and targeting">
 
 In the same vein, what do heals in groups default to?
 
@@ -104,7 +104,7 @@ Thanks, Teker, very helpful.
 
 </div>
 
-<div class="post" data-post-id="37286" data-author="*teker*" data-date="2016-08-26T20:59:55+00:00">
+<div class="post" data-post-id="37286" data-author="*teker*" data-date="2016-08-26T20:59:55+00:00" data-subject="Re: Changelog 2016-08-26 - keywords and targeting">
 
 Well we've had our first crash so the commands have been disabled until I can look at the code and repro and fix on the test server.  The self, leader, and point arguments should still work.  To answer your questions:
 
@@ -122,7 +122,7 @@ Heals remain unchanged - they default to self.  Targets do not clear on follow c
 
 </div>
 
-<div class="post" data-post-id="37288" data-author="Teron" data-date="2016-08-27T10:34:06+00:00">
+<div class="post" data-post-id="37288" data-author="Teron" data-date="2016-08-27T10:34:06+00:00" data-subject="Re: Changelog 2016-08-26 - keywords and targeting">
 
 I've used target with my pets once, and they didn't attack it.
 

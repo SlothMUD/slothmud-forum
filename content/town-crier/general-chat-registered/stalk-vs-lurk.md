@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="16507" data-author="Shazuko" data-date="2007-01-24T16:32:08+00:00">
+<div class="post" data-post-id="16507" data-author="Shazuko" data-date="2007-01-24T16:32:08+00:00" data-subject="stalk vs. lurk">
 
 the new lurk feature is cool...but I noticed something the other day...
 

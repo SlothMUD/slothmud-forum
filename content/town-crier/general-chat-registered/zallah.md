@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="22924" data-author="*juggleblood*" data-date="2008-02-24T18:20:36+00:00">
+<div class="post" data-post-id="22924" data-author="*juggleblood*" data-date="2008-02-24T18:20:36+00:00" data-subject="Zallah">
 
 Shame the epic group didn't finish off zallah. It was nocap honor and loaded with extra drachma.
 
@@ -30,7 +30,7 @@ Slothers: 0 :(
 
 </div>
 
-<div class="post" data-post-id="22925" data-author="Medios" data-date="2008-02-24T18:56:21+00:00">
+<div class="post" data-post-id="22925" data-author="Medios" data-date="2008-02-24T18:56:21+00:00" data-subject="Re: Zallah">
 
 Shame the epic group didn't finish off zallah. It was nocap honor and loaded with extra drachma.
 
@@ -54,7 +54,7 @@ Edit:  I forgot to mention that when some of the group flees, then dies to summo
 
 </div>
 
-<div class="post" data-post-id="22926" data-author="*juggleblood*" data-date="2008-02-24T19:08:23+00:00">
+<div class="post" data-post-id="22926" data-author="*juggleblood*" data-date="2008-02-24T19:08:23+00:00" data-subject="">
 
 Well, recall point has been fixed and now you know u can just set beacon east of iblis. So I hope someone feels inspired to try again one day. It will help when someone posts a map of these areas. 
 
@@ -66,13 +66,13 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="22927" data-author="Medios" data-date="2008-02-24T19:21:19+00:00">
+<div class="post" data-post-id="22927" data-author="Medios" data-date="2008-02-24T19:21:19+00:00" data-subject="">
 
 Thanks for the fix.
 
 </div>
 
-<div class="post" data-post-id="22940" data-author="Lis" data-date="2008-02-25T02:47:55+00:00">
+<div class="post" data-post-id="22940" data-author="Lis" data-date="2008-02-25T02:47:55+00:00" data-subject="">
 
 hmm  u think that just something big and hitting hard with procs and aggro lil mobs swarming is fun? And people will run this over and over again? no way  
 
@@ -110,7 +110,7 @@ Group 'Salamis Expansion mob' consists of:
 
 </div>
 
-<div class="post" data-post-id="22941" data-author="*juggleblood*" data-date="2008-02-25T03:57:32+00:00">
+<div class="post" data-post-id="22941" data-author="*juggleblood*" data-date="2008-02-25T03:57:32+00:00" data-subject="">
 
 Heh I was in that group. One of the first to die and I watched person after person after person after person after person drop while people grouptelling staff! staff!. Yet entire group went down with the slowly sinking ship. No one staffed. No one recalled. 2 people managed to flee. Sometimes a room full of dead people is just, User Error.
 
@@ -120,19 +120,19 @@ I do intend to tune him down a bit. But hard to sympathize with complaints of ex
 
 </div>
 
-<div class="post" data-post-id="22942" data-author="Medios" data-date="2008-02-25T04:06:35+00:00">
+<div class="post" data-post-id="22942" data-author="Medios" data-date="2008-02-25T04:06:35+00:00" data-subject="">
 
 If it is hard to sympathize then why turn him down.  I say leave him and wait about 3 months and find out if anyone other than me will lead it.  It is a good addition to Salamis, the place where nobody kills.
 
 </div>
 
-<div class="post" data-post-id="22944" data-author="Weasel" data-date="2008-02-25T04:26:18+00:00">
+<div class="post" data-post-id="22944" data-author="Weasel" data-date="2008-02-25T04:26:18+00:00" data-subject="">
 
 Was this the same mob where a while back everyone in the group got 4000+ honor points for killing it? Sounds pretty nasty. I don't think I've been in an honor group since before then.. was kinda peeved at dieing so many times (and corpsing) as a tank or 2.tank previously, for comparatively little points and usually waaaay negative experience because of corpsing experience penalties, then everyone in that group got that huge bonus I just kinda gave up on the whole thing. Only punishing myself though I guess, but it kinda sucks tanking those mobs, seriously - takes ages to get that exp back again, particularly if you have to solo most of it. blah. boo freaking hoo. whatever.
 
 </div>
 
-<div class="post" data-post-id="22946" data-author="Akasha" data-date="2008-02-25T04:41:59+00:00">
+<div class="post" data-post-id="22946" data-author="Akasha" data-date="2008-02-25T04:41:59+00:00" data-subject="">
 
 Everyone has their own interpretations of a mob.  Epic mobs werent made for exp. Yes they give large amounts of exp.  But they were intended to be quest level mobs, and in quests, you die (alot).
 
@@ -152,7 +152,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="22948" data-author="Weasel" data-date="2008-02-25T04:46:22+00:00">
+<div class="post" data-post-id="22948" data-author="Weasel" data-date="2008-02-25T04:46:22+00:00" data-subject="">
 
 what else you want?  [/quote:3dy69p08]
 
@@ -162,7 +162,7 @@ Can I have a Ferrari F40 please?
 
 </div>
 
-<div class="post" data-post-id="22950" data-author="jezer" data-date="2008-02-25T05:50:01+00:00">
+<div class="post" data-post-id="22950" data-author="jezer" data-date="2008-02-25T05:50:01+00:00" data-subject="">
 
 Was this the same mob where a while back everyone in the group got 4000+ honor points for killing it? Sounds pretty nasty. I don't think I've been in an honor group since before then.. was kinda peeved at dieing so many times (and corpsing) as a tank or 2.tank previously, for comparatively little points and usually waaaay negative experience because of corpsing experience penalties, then everyone in that group got that huge bonus I just kinda gave up on the whole thing. Only punishing myself though I guess, but it kinda sucks tanking those mobs, seriously - takes ages to get that exp back again, particularly if you have to solo most of it. blah. boo freaking hoo. whatever.[/quote:3l0z0gm8]
 
@@ -176,7 +176,7 @@ PS Congratulations Truth on dieing with no mana this time!  :twisted: It was not
 
 </div>
 
-<div class="post" data-post-id="22951" data-author="Akasha" data-date="2008-02-25T06:03:11+00:00">
+<div class="post" data-post-id="22951" data-author="Akasha" data-date="2008-02-25T06:03:11+00:00" data-subject="">
 
 Lord clasp =
 
@@ -186,7 +186,7 @@ buy that
 
 </div>
 
-<div class="post" data-post-id="22952" data-author="jezer" data-date="2008-02-25T06:37:07+00:00">
+<div class="post" data-post-id="22952" data-author="jezer" data-date="2008-02-25T06:37:07+00:00" data-subject="">
 
 I'll take three of those thanks!  :shock:
 
@@ -198,7 +198,7 @@ I'm probably just hard to please, in fact, yes I think I am...
 
 </div>
 
-<div class="post" data-post-id="22953" data-author="jezer" data-date="2008-02-25T07:15:34+00:00">
+<div class="post" data-post-id="22953" data-author="jezer" data-date="2008-02-25T07:15:34+00:00" data-subject="">
 
 Lord clasp =
 
@@ -210,7 +210,7 @@ How bout +1 Ma Regen! Mandos will be buying the beers that night!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22956" data-author="Vixn" data-date="2008-02-25T09:23:28+00:00">
+<div class="post" data-post-id="22956" data-author="Vixn" data-date="2008-02-25T09:23:28+00:00" data-subject="">
 
 When epics start it was like some sort of a quests on ingame basis. But now i see ppl don't like quests, they prefer to sponge honor and drachma on easy mobs. I agree Zalla was big, either and has a bunch of little annoying mobs guarding her but it still was killable.
 
@@ -222,7 +222,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="22957" data-author="Vixn" data-date="2008-02-25T09:35:40+00:00">
+<div class="post" data-post-id="22957" data-author="Vixn" data-date="2008-02-25T09:35:40+00:00" data-subject="">
 
 If it is hard to sympathize then why turn him down.  I say leave him and wait about 3 months and find out if anyone other than me will lead it.  It is a good addition to Salamis, the place where nobody kills.[/quote:22jozceq]
 
@@ -230,7 +230,7 @@ Mostly I agree with you - imms should care more attention to balance of areas th
 
 </div>
 
-<div class="post" data-post-id="22958" data-author="Zukt" data-date="2008-02-25T11:39:43+00:00">
+<div class="post" data-post-id="22958" data-author="Zukt" data-date="2008-02-25T11:39:43+00:00" data-subject="">
 
 Zalla was too hard simply because too many wandering mobs walking in splatting everyone, new area that no one knows, and some annoying procs. Most annoying is hes too damned hard to get to in a cf. Alhoon would never be run if he was like that because cfs are easy on those sorts of mobs. Wrong player has staff, everyone assumes the other guy has it, and whole thing is done. No one knows any special tricks for him. a bit of tuning and he might be fine, but too many swarming aggros, and that they're scavanging looters just means its too damned risky and too easy to cf to run that mob as is, especially if whole group goes down and no one has a beacon... how do we get past iblis to get back there, unless theres some shortcut I dont know about. The notion that it was killable as it was was silly, as is the notion that people would risk all their gear for a couple hours of frustration and 3 drachma.
 
@@ -244,13 +244,13 @@ I for one appreciate the work on the honor system as I find it fun and interesti
 
 </div>
 
-<div class="post" data-post-id="22960" data-author="Weasel" data-date="2008-02-25T13:10:54+00:00">
+<div class="post" data-post-id="22960" data-author="Weasel" data-date="2008-02-25T13:10:54+00:00" data-subject="">
 
 As Akasha stated in the beginning, the honor system was ideally created for the benefit of 5x40 tards to give them a new challenge, and it certainly is doing that, so when looked at in that light it's all good. Grats reaching Lord level Truth, that's awesome, and shows it can be done.
 
 </div>
 
-<div class="post" data-post-id="22963" data-author="*juggleblood*" data-date="2008-02-25T14:47:36+00:00">
+<div class="post" data-post-id="22963" data-author="*juggleblood*" data-date="2008-02-25T14:47:36+00:00" data-subject="">
 
 , and that they're scavanging looters just means its too damned risky .[/quote:17cevyti]
 
@@ -266,7 +266,7 @@ An exploration of Salamis would reveal what that prize is. But I don't expect an
 
 </div>
 
-<div class="post" data-post-id="22970" data-author="jezer" data-date="2008-02-25T22:36:19+00:00">
+<div class="post" data-post-id="22970" data-author="jezer" data-date="2008-02-25T22:36:19+00:00" data-subject="">
 
 Off Zallah, but on epics.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="16858" data-author="Thraxas" data-date="2007-02-13T13:28:08+00:00">
+<div class="post" data-post-id="16858" data-author="Thraxas" data-date="2007-02-13T13:28:08+00:00" data-subject="Playing Sloth without Telnet">
 
 Quick one to put your brains to:
 
@@ -24,13 +24,13 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="16861" data-author="banedon" data-date="2007-02-13T16:07:56+00:00">
+<div class="post" data-post-id="16861" data-author="banedon" data-date="2007-02-13T16:07:56+00:00" data-subject="">
 
 Unless I'm sorely mistaken, you're SOL on this one thrax.  I can't think of another way to access the mud w/o telnet or a client.  Hate to be the bearer of bad news.
 
 </div>
 
-<div class="post" data-post-id="16868" data-author="Clink" data-date="2007-02-13T18:43:39+00:00">
+<div class="post" data-post-id="16868" data-author="Clink" data-date="2007-02-13T18:43:39+00:00" data-subject="">
 
 Sometimes you can do:
 
@@ -48,7 +48,7 @@ I'm guessing they won't let you download one either, but this one doesn't need a
 
 </div>
 
-<div class="post" data-post-id="16869" data-author="Leaf" data-date="2007-02-13T19:24:52+00:00">
+<div class="post" data-post-id="16869" data-author="Leaf" data-date="2007-02-13T19:24:52+00:00" data-subject="">
 
 Hey Clink how do u go thru a firewall at work to mud???
 
@@ -56,7 +56,7 @@ Any info on a tunneling software?
 
 </div>
 
-<div class="post" data-post-id="16870" data-author="12345" data-date="2007-02-13T19:57:08+00:00">
+<div class="post" data-post-id="16870" data-author="12345" data-date="2007-02-13T19:57:08+00:00" data-subject="">
 
 I used HyperTerminal to tunnel way back in the day... was decent for getting past military firewalls, but more or less requires you to have local site to connect to and set up ppp.
 
@@ -64,7 +64,7 @@ I think it's also somewhat dated technology these days.
 
 </div>
 
-<div class="post" data-post-id="16873" data-author="Clink" data-date="2007-02-13T23:02:54+00:00">
+<div class="post" data-post-id="16873" data-author="Clink" data-date="2007-02-13T23:02:54+00:00" data-subject="">
 
 Hey Clink how do u go thru a firewall at work to mud???[/quote:3dfa7acj]
 
@@ -76,7 +76,7 @@ Note:  This is merely a hypothetical way of getting around a firewall.  I don't 
 
 </div>
 
-<div class="post" data-post-id="16880" data-author="Hades" data-date="2007-02-14T11:00:26+00:00">
+<div class="post" data-post-id="16880" data-author="Hades" data-date="2007-02-14T11:00:26+00:00" data-subject="Playing Sloth Without Telnet">
 
 OR   You could just do this
 
@@ -84,7 +84,7 @@ OR   You could just do this
 
 </div>
 
-<div class="post" data-post-id="16897" data-author="Avatar" data-date="2007-02-14T22:51:36+00:00">
+<div class="post" data-post-id="16897" data-author="Avatar" data-date="2007-02-14T22:51:36+00:00" data-subject="Mud from public computers">
 
 If anyone is still looking, I ran across a web-based telnet app a few years ago.
 
@@ -94,25 +94,25 @@ Port 80 is nice.
 
 </div>
 
-<div class="post" data-post-id="16903" data-author="osric" data-date="2007-02-15T05:11:52+00:00">
+<div class="post" data-post-id="16903" data-author="osric" data-date="2007-02-15T05:11:52+00:00" data-subject="">
 
 What if your local IT team thinks that its a good idea to shut port 80 down on every computer at your location, will this still work?
 
 </div>
 
-<div class="post" data-post-id="16911" data-author="Avatar" data-date="2007-02-15T16:17:17+00:00">
+<div class="post" data-post-id="16911" data-author="Avatar" data-date="2007-02-15T16:17:17+00:00" data-subject="Mud from public computers">
 
 If port 80 is blocked = you can't browse the web at all = no this won't work.
 
 </div>
 
-<div class="post" data-post-id="16912" data-author="12345" data-date="2007-02-15T17:09:50+00:00">
+<div class="post" data-post-id="16912" data-author="12345" data-date="2007-02-15T17:09:50+00:00" data-subject="">
 
 Technically, you could get it to work, but if you had the resources to do it, it would be much simpler to just use Clink's method.
 
 </div>
 
-<div class="post" data-post-id="16926" data-author="Leaf" data-date="2007-02-15T22:38:28+00:00">
+<div class="post" data-post-id="16926" data-author="Leaf" data-date="2007-02-15T22:38:28+00:00" data-subject="">
 
 Chucky that link didn't work :p
 
@@ -126,7 +126,7 @@ But if I could just tunnel out to telnet ...
 
 </div>
 
-<div class="post" data-post-id="16944" data-author="firebrand" data-date="2007-02-16T04:41:48+00:00">
+<div class="post" data-post-id="16944" data-author="firebrand" data-date="2007-02-16T04:41:48+00:00" data-subject="">
 
 But if I could just tunnel out to telnet ...[/quote:1qdc9qky]
 
@@ -136,7 +136,7 @@ dude the prison guards are standing right behind you.
 
 </div>
 
-<div class="post" data-post-id="17029" data-author="osric" data-date="2007-02-20T19:45:26+00:00">
+<div class="post" data-post-id="17029" data-author="osric" data-date="2007-02-20T19:45:26+00:00" data-subject="">
 
 Hey Avatar thanks for the post, I can now mud from school (I don't know if that will be a good thing for my studies or not)!
 

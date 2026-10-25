@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32604" data-author="Acedia" data-date="2011-05-12T14:34:23+00:00">
+<div class="post" data-post-id="32604" data-author="Acedia" data-date="2011-05-12T14:34:23+00:00" data-subject="Dear Ezekiel,">
 
 Since this is not as drastic as the other thread, I shall post here instead!
 
@@ -36,7 +36,7 @@ Acedia++
 
 </div>
 
-<div class="post" data-post-id="32607" data-author="Ezekiel" data-date="2011-05-12T20:54:16+00:00">
+<div class="post" data-post-id="32607" data-author="Ezekiel" data-date="2011-05-12T20:54:16+00:00" data-subject="Re: Dear Ezekiel,">
 
 For anyone reading this and confused by it...see succor thread started by angels. Anyway, I'm done with the likes of you here, Acedia. Keep hiding under your alias...like anyone who posts as a typical flamer.
 
@@ -50,7 +50,7 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="32612" data-author="Tuck" data-date="2011-05-13T05:52:51+00:00">
+<div class="post" data-post-id="32612" data-author="Tuck" data-date="2011-05-13T05:52:51+00:00" data-subject="Re: Dear Ezekiel,">
 
 Well, i'm agree with Acedia. 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32665" data-author="*Isabo*" data-date="2011-06-11T02:14:09+00:00">
+<div class="post" data-post-id="32665" data-author="*Isabo*" data-date="2011-06-11T02:14:09+00:00" data-subject="Navy blue spellbook">
 
 Greeting mortals.
 

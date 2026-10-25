@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31719" data-author="Toxis" data-date="2010-09-06T22:41:15+00:00">
+<div class="post" data-post-id="31719" data-author="Toxis" data-date="2010-09-06T22:41:15+00:00" data-subject="Songs I&#x27;ve Sang In Bands">
 
 1: Songs I know and have sang out:
 
@@ -194,13 +194,13 @@ Dope Show- Marilyn Manson
 
 </div>
 
-<div class="post" data-post-id="31722" data-author="jezer" data-date="2010-09-07T01:32:36+00:00">
+<div class="post" data-post-id="31722" data-author="jezer" data-date="2010-09-07T01:32:36+00:00" data-subject="Re: Songs I&#x27;ve Sang In Bands">
 
 You've missed out Baby by Justin Bieber.
 
 </div>
 
-<div class="post" data-post-id="31723" data-author="Toxis" data-date="2010-09-07T01:52:59+00:00">
+<div class="post" data-post-id="31723" data-author="Toxis" data-date="2010-09-07T01:52:59+00:00" data-subject="Re: Songs I&#x27;ve Sang In Bands">
 
 rofl! That's funny cuz I've never heard that song. :)  But all Hannah Montana songs, that's another story. :)~
 

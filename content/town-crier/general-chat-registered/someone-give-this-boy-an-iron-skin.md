@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="16051" data-author="van" data-date="2007-01-07T03:29:41+00:00">
+<div class="post" data-post-id="16051" data-author="van" data-date="2007-01-07T03:29:41+00:00" data-subject="Someone give this boy an iron skin">
 
 Now, I don't normally post about the amusing things that happen to me on sloth, but I'm still laughing my ass off about this. 
 
@@ -28,7 +28,7 @@ Van
 
 </div>
 
-<div class="post" data-post-id="16052" data-author="Medios" data-date="2007-01-07T04:13:07+00:00">
+<div class="post" data-post-id="16052" data-author="Medios" data-date="2007-01-07T04:13:07+00:00" data-subject="">
 
 One word comes to mind.
 
@@ -38,13 +38,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16053" data-author="van" data-date="2007-01-07T04:46:29+00:00">
+<div class="post" data-post-id="16053" data-author="van" data-date="2007-01-07T04:46:29+00:00" data-subject="">
 
 Well, now, I'm just a dumb tank and you're going to have to clarify: tender Aaron or am I mincemeat next time I try to join a desert group? :)
 
 </div>
 
-<div class="post" data-post-id="16055" data-author="Medios" data-date="2007-01-07T04:57:49+00:00">
+<div class="post" data-post-id="16055" data-author="Medios" data-date="2007-01-07T04:57:49+00:00" data-subject="">
 
 heheh im laughin.
 
@@ -56,7 +56,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16059" data-author="Autolycos" data-date="2007-01-07T06:28:45+00:00">
+<div class="post" data-post-id="16059" data-author="Autolycos" data-date="2007-01-07T06:28:45+00:00" data-subject="">
 
 thank you Van... 
 
@@ -64,7 +64,7 @@ thank you Van...
 
 </div>
 
-<div class="post" data-post-id="16060" data-author="13" data-date="2007-01-07T07:01:26+00:00">
+<div class="post" data-post-id="16060" data-author="13" data-date="2007-01-07T07:01:26+00:00" data-subject="">
 
 I don't talk like that unless I'm ready to scrap.  I didn't realize you had shocked.  Everyone has their moments :p
 
@@ -72,13 +72,13 @@ Van tells you 'leave me alone so i can go tank'
 
 </div>
 
-<div class="post" data-post-id="16061" data-author="van" data-date="2007-01-07T07:01:56+00:00">
+<div class="post" data-post-id="16061" data-author="van" data-date="2007-01-07T07:01:56+00:00" data-subject="">
 
 I try to bring laughter to the mud... can we have a quest where we chop aaron?
 
 </div>
 
-<div class="post" data-post-id="16062" data-author="van" data-date="2007-01-07T07:05:41+00:00">
+<div class="post" data-post-id="16062" data-author="van" data-date="2007-01-07T07:05:41+00:00" data-subject="">
 
 Ok, just for the record:
 
@@ -96,7 +96,7 @@ Two disclaimers:
 
 </div>
 
-<div class="post" data-post-id="16085" data-author="Talo/Ulrich" data-date="2007-01-08T05:24:54+00:00">
+<div class="post" data-post-id="16085" data-author="Talo/Ulrich" data-date="2007-01-08T05:24:54+00:00" data-subject="Now Mike thats Bullshit">
 
 I NO LONGER have stinky sox...I now have a woman Who knows how to and DOES....laundry 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="36505" data-author="*juggleblood*" data-date="2016-01-17T21:04:30+00:00">
+<div class="post" data-post-id="36505" data-author="*juggleblood*" data-date="2016-01-17T21:04:30+00:00" data-subject="TMC Newbie School Thread">
 
 Check out this thread on the mud connector.
 
@@ -18,7 +18,7 @@ Check out this thread on the mud connector.
 
 </div>
 
-<div class="post" data-post-id="36507" data-author="Teron" data-date="2016-01-18T11:36:22+00:00">
+<div class="post" data-post-id="36507" data-author="Teron" data-date="2016-01-18T11:36:22+00:00" data-subject="Re: TMC Newbie School Thread">
 
 Well, that's odd. I wonder who all voted for our college, because Aardmud's seems better. At least, ours does have room for improvement, I'm sure you are just getting started :)
 
@@ -26,31 +26,31 @@ That being said, maybe it's been a while I took it, but I don't remember Aardmud
 
 </div>
 
-<div class="post" data-post-id="36508" data-author="*juggleblood*" data-date="2016-01-18T14:34:29+00:00">
+<div class="post" data-post-id="36508" data-author="*juggleblood*" data-date="2016-01-18T14:34:29+00:00" data-subject="Re: TMC Newbie School Thread">
 
 I think ideally each guild on vk would have something similar but prime class/skills oriented. But that's not something I'll probably ever take up.
 
 </div>
 
-<div class="post" data-post-id="36517" data-author="Madigan" data-date="2016-01-19T10:47:33+00:00">
+<div class="post" data-post-id="36517" data-author="Madigan" data-date="2016-01-19T10:47:33+00:00" data-subject="Re: TMC Newbie School Thread">
 
 Does the Dean's quest actually work? I can't seem to find a spot to use that iron key and find the soot mob...
 
 </div>
 
-<div class="post" data-post-id="36521" data-author="*juggleblood*" data-date="2016-01-19T17:19:12+00:00">
+<div class="post" data-post-id="36521" data-author="*juggleblood*" data-date="2016-01-19T17:19:12+00:00" data-subject="Re: TMC Newbie School Thread">
 
 There's a door at the end of the hall. It's not hidden.
 
 </div>
 
-<div class="post" data-post-id="36524" data-author="Madigan" data-date="2016-01-19T21:51:08+00:00">
+<div class="post" data-post-id="36524" data-author="Madigan" data-date="2016-01-19T21:51:08+00:00" data-subject="Re: TMC Newbie School Thread">
 
 FYI - submitted a bug report today related to this (from Blix).
 
 </div>
 
-<div class="post" data-post-id="36525" data-author="Yasik" data-date="2016-01-20T07:33:55+00:00">
+<div class="post" data-post-id="36525" data-author="Yasik" data-date="2016-01-20T07:33:55+00:00" data-subject="Re: TMC Newbie School Thread">
 
 It is early to vote since Sloth's is not finished yet, as I get it.
 
@@ -58,7 +58,7 @@ But aard's was really good.
 
 </div>
 
-<div class="post" data-post-id="36556" data-author="Yasik" data-date="2016-01-27T11:49:18+00:00">
+<div class="post" data-post-id="36556" data-author="Yasik" data-date="2016-01-27T11:49:18+00:00" data-subject="Re: TMC Newbie School Thread">
 
 By the way, have you ever considered placing a "plot" behind the gameplay? Something more than just exp/cpoins grinding, eq hoarding, or even doing aqs?
 
@@ -70,7 +70,7 @@ Giving a purpose of existence and 'big goal' is good thing to attract and attach
 
 </div>
 
-<div class="post" data-post-id="36557" data-author="Teron" data-date="2016-01-27T13:37:26+00:00">
+<div class="post" data-post-id="36557" data-author="Teron" data-date="2016-01-27T13:37:26+00:00" data-subject="Re: TMC Newbie School Thread">
 
 I'll also add that storytelling is a huge help in making stories/text stick. There's a huge bandwagon of storytelling in the US right now.
 
@@ -82,7 +82,7 @@ Then again, I heard that no one thanks immortals for the huge effort they put in
 
 </div>
 
-<div class="post" data-post-id="36559" data-author="*Neptune*" data-date="2016-01-27T17:37:13+00:00">
+<div class="post" data-post-id="36559" data-author="*Neptune*" data-date="2016-01-27T17:37:13+00:00" data-subject="Re: TMC Newbie School Thread">
 
 Not entirely true. 
 

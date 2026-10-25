@@ -10,13 +10,13 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="37535" data-author="Gorka" data-date="2016-11-23T15:08:56+00:00">
+<div class="post" data-post-id="37535" data-author="Gorka" data-date="2016-11-23T15:08:56+00:00" data-subject="Is the Eqlist updating?">
 
 There are numerous fairly old items now that are not appearing on the eqlist, is it updating?
 
 </div>
 
-<div class="post" data-post-id="37536" data-author="Filk" data-date="2016-11-24T08:43:40+00:00">
+<div class="post" data-post-id="37536" data-author="Filk" data-date="2016-11-24T08:43:40+00:00" data-subject="Re: Is the Eqlist updating?">
 
 It is updating. New items appears from time to time. I see that when updating my eq site from dumps.
 
@@ -28,13 +28,13 @@ We discussed it with Breeze year or so ago, but it seems he has no time or attit
 
 </div>
 
-<div class="post" data-post-id="37537" data-author="Gorka" data-date="2016-11-24T09:12:23+00:00">
+<div class="post" data-post-id="37537" data-author="Gorka" data-date="2016-11-24T09:12:23+00:00" data-subject="Re: Is the Eqlist updating?">
 
 Any reason why a circlet of hellfire would not show in Lair of the Succubi?
 
 </div>
 
-<div class="post" data-post-id="37538" data-author="*juggleblood*" data-date="2016-11-24T14:30:44+00:00">
+<div class="post" data-post-id="37538" data-author="*juggleblood*" data-date="2016-11-24T14:30:44+00:00" data-subject="Re: Is the Eqlist updating?">
 
 It was flagged no_eqlist. I fixed it, i.e. removed the flag.
 
@@ -46,7 +46,7 @@ I dunno when it will start appearing in the list tho, the file has to update.
 
 </div>
 
-<div class="post" data-post-id="37539" data-author="*Breeze*" data-date="2016-11-24T20:47:06+00:00">
+<div class="post" data-post-id="37539" data-author="*Breeze*" data-date="2016-11-24T20:47:06+00:00" data-subject="Re: Is the Eqlist updating?">
 
 > **Filk wrote:**
 > We discussed it with Breeze year or so ago, but it seems he has no time or attitude to look onto that trouble. So its working how its working :)
@@ -63,7 +63,7 @@ not sure what else to say there.
 
 </div>
 
-<div class="post" data-post-id="37540" data-author="Filk" data-date="2016-11-25T02:14:05+00:00">
+<div class="post" data-post-id="37540" data-author="Filk" data-date="2016-11-25T02:14:05+00:00" data-subject="Re: Is the Eqlist updating?">
 
 > **Filk wrote:**
 > And  mostly by mistake or some kind of bug i think

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29110" data-author="*juggleblood*" data-date="2009-05-08T00:35:54+00:00">
+<div class="post" data-post-id="29110" data-author="*juggleblood*" data-date="2009-05-08T00:35:54+00:00" data-subject="honor mobs">
 
 Went to fix the honor mob shift bug and broke stuff...
 
@@ -20,7 +20,7 @@ sorry
 
 </div>
 
-<div class="post" data-post-id="29111" data-author="jezer" data-date="2009-05-08T01:15:46+00:00">
+<div class="post" data-post-id="29111" data-author="jezer" data-date="2009-05-08T01:15:46+00:00" data-subject="">
 
 In light of this info, I'm going to have to postpone my Lucifer ferret group. Sorry guys.  :evil:
 

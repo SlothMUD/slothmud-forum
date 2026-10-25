@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38455" data-author="Gorka" data-date="2017-10-28T20:09:25+00:00">
+<div class="post" data-post-id="38455" data-author="Gorka" data-date="2017-10-28T20:09:25+00:00" data-subject="Rebirth Shop?">
 
 I jumped on my calculator last night... it broke... so after I found a new calculator... I worked out you get about 6k drachma in a play through of sloth. I worked out I could spend double that again in the shop on "improvements" to various eq sets. But I also worked out that these improvements might not even be noticeable... we are talking about things like +4 Hand Dam, when I already have 52 damage with gods and warcry... and to buy that 4 Hand Dam would be half the drachma of a play through. So basically, rebirthing... (as we have established before) is something that probably should only be done if you seriously want to enjoy the game again. 
 
@@ -20,7 +20,7 @@ I wondered whether there might be a rebirth shop, whether caps might be increase
 
 </div>
 
-<div class="post" data-post-id="38456" data-author="Teron" data-date="2017-10-29T07:31:48+00:00">
+<div class="post" data-post-id="38456" data-author="Teron" data-date="2017-10-29T07:31:48+00:00" data-subject="Re: Rebirth Shop?">
 
 I've already suggested it in the first thread on the topic.
 
@@ -36,7 +36,7 @@ Get on your calculator again :D
 
 </div>
 
-<div class="post" data-post-id="38457" data-author="*Breeze*" data-date="2017-10-29T08:15:45+00:00">
+<div class="post" data-post-id="38457" data-author="*Breeze*" data-date="2017-10-29T08:15:45+00:00" data-subject="Re: Rebirth Shop?">
 
 from  
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="9827" data-author="Shara" data-date="2005-12-16T09:05:00+00:00">
+<div class="post" data-post-id="9827" data-author="Shara" data-date="2005-12-16T09:05:00+00:00" data-subject="YAY!">
 
 [pri sec ter qua] Players
 
@@ -26,7 +26,7 @@ Highest total since last bootup: 1.
 
 </div>
 
-<div class="post" data-post-id="9828" data-author="Chainer" data-date="2005-12-16T12:17:29+00:00">
+<div class="post" data-post-id="9828" data-author="Chainer" data-date="2005-12-16T12:17:29+00:00" data-subject="">
 
 Gratz, Shara   :P
 

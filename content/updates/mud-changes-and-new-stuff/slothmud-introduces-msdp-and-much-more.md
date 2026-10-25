@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33883" data-author="*Splork*" data-date="2013-01-01T23:12:20+00:00">
+<div class="post" data-post-id="33883" data-author="*Splork*" data-date="2013-01-01T23:12:20+00:00" data-subject="SlothMUD introduces MSDP and much more">
 
 This project started around September of 2011 and I can finally say that it is nearing the  end.  For the most part, our old protocol code has been ripped out and replaced by Kavirâ€™s protocol code, which can be found at [http://www.mudbytes.net/file-2811](http://www.mudbytes.net/file-2811) .  Because our MUD has been ahead of the curve in regards to most protocols, removing our old code and replacing it with something entirely different has been extremely difficult and time consuming.  
 

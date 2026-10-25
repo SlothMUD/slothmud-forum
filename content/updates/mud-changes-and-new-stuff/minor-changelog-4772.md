@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38302" data-author="*Neptune*" data-date="2017-06-24T17:44:43+00:00">
+<div class="post" data-post-id="38302" data-author="*Neptune*" data-date="2017-06-24T17:44:43+00:00" data-subject="Minor Changelog">
 
 Greetings,
 
@@ -36,7 +36,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="38303" data-author="*teker*" data-date="2017-06-24T19:13:27+00:00">
+<div class="post" data-post-id="38303" data-author="*teker*" data-date="2017-06-24T19:13:27+00:00" data-subject="Re: Minor Changelog">
 
 A couple other things went in today:
 
@@ -46,7 +46,7 @@ A couple other things went in today:
 
 </div>
 
-<div class="post" data-post-id="39181" data-author="*Neptune*" data-date="2019-04-29T00:29:27+00:00">
+<div class="post" data-post-id="39181" data-author="*Neptune*" data-date="2019-04-29T00:29:27+00:00" data-subject="Re: Minor Changelog">
 
 Greetings
 

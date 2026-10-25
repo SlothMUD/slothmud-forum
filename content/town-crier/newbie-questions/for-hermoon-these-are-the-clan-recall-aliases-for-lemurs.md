@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="38089" data-author="*Idjit*" data-date="2017-02-27T00:28:12+00:00">
+<div class="post" data-post-id="38089" data-author="*Idjit*" data-date="2017-02-27T00:28:12+00:00" data-subject="For Hermoon, these are the clan recall aliases for Lemurs">
 
 {SS2AH} --> {krr;enter silver}
 
@@ -36,13 +36,13 @@ krr on Lyme takes you to the Dank Air Bubble where you can Beg Mind to create a 
 
 </div>
 
-<div class="post" data-post-id="38090" data-author="Gorka" data-date="2017-02-27T06:20:18+00:00">
+<div class="post" data-post-id="38090" data-author="Gorka" data-date="2017-02-27T06:20:18+00:00" data-subject="Re: For Hermoon, these are the clan recall aliases for Lemur">
 
 ![](http://www.lonelyplanet.com/news/wp-content/uploads/2015/06/lemur1.jpg)
 
 </div>
 
-<div class="post" data-post-id="38091" data-author="Hermoon" data-date="2017-02-27T15:11:57+00:00">
+<div class="post" data-post-id="38091" data-author="Hermoon" data-date="2017-02-27T15:11:57+00:00" data-subject="Re: For Hermoon, these are the clan recall aliases for Lemur">
 
 Thank you, Zuzu, for the directions to various locations in the game. I'm looking forward to exploring these areas in the coming weeks and months.
 
@@ -52,7 +52,7 @@ Thank you also, Mr. Gorka, for honouring our clan totem by featuring a photo of 
 
 </div>
 
-<div class="post" data-post-id="38092" data-author="Gorka" data-date="2017-02-27T20:25:07+00:00">
+<div class="post" data-post-id="38092" data-author="Gorka" data-date="2017-02-27T20:25:07+00:00" data-subject="Re: For Hermoon, these are the clan recall aliases for Lemur">
 
 The birds in my country are smartzer than that!  :lol: 
 
@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=NpF1HKsrA28
 
 </div>
 
-<div class="post" data-post-id="38093" data-author="*Breeze*" data-date="2017-02-28T01:24:01+00:00">
+<div class="post" data-post-id="38093" data-author="*Breeze*" data-date="2017-02-28T01:24:01+00:00" data-subject="Re: For Hermoon, these are the clan recall aliases for Lemur">
 
 > ***Idjit* wrote:**
 > krr on BH takes you to dragon mountain. (technically draconian Lair but if you open secret here you can go up to the Center of the Mountain)
@@ -75,13 +75,13 @@ cept you neglected to post krr alias itself :)
 
 </div>
 
-<div class="post" data-post-id="38094" data-author="Tuck" data-date="2017-02-28T11:38:27+00:00">
+<div class="post" data-post-id="38094" data-author="Tuck" data-date="2017-02-28T11:38:27+00:00" data-subject="Re: For Hermoon, these are the clan recall aliases for Lemur">
 
 krr is for 'clan recall'
 
 </div>
 
-<div class="post" data-post-id="38221" data-author="Hermoon" data-date="2017-04-19T09:36:42+00:00">
+<div class="post" data-post-id="38221" data-author="Hermoon" data-date="2017-04-19T09:36:42+00:00" data-subject="Re: For Hermoon, these are the clan recall aliases for Lemur">
 
 Thanks for all input. 
 

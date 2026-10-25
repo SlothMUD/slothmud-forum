@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="203" data-author="Deju" data-date="2004-05-21T18:01:54+00:00">
+<div class="post" data-post-id="203" data-author="Deju" data-date="2004-05-21T18:01:54+00:00" data-subject="Blue Steel Gorget up - 1mil min">
 
 Object 'gorget blue steel', Item type: ARMOR
 
@@ -32,7 +32,7 @@ clerics, and adept warriors may use this item.
 
 </div>
 
-<div class="post" data-post-id="348" data-author="Deju" data-date="2004-05-26T04:07:31+00:00">
+<div class="post" data-post-id="348" data-author="Deju" data-date="2004-05-26T04:07:31+00:00" data-subject="Closed">
 
 Closed.  No winners.
 

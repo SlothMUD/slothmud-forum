@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32650" data-author="*Isabo*" data-date="2011-05-28T18:00:49+00:00">
+<div class="post" data-post-id="32650" data-author="*Isabo*" data-date="2011-05-28T18:00:49+00:00" data-subject="Fargate">
 
 Greeting mortals.
 

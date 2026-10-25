@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38403" data-author="*teker*" data-date="2017-08-17T15:16:42+00:00">
+<div class="post" data-post-id="38403" data-author="*teker*" data-date="2017-08-17T15:16:42+00:00" data-subject="Changelog 2017-08-17">
 
 MSDP GROUP2 and GROUP2_JSON is hopefully fixed.
 

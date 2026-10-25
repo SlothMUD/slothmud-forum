@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="33044" data-author="Strago" data-date="2011-12-07T13:13:40+00:00">
+<div class="post" data-post-id="33044" data-author="Strago" data-date="2011-12-07T13:13:40+00:00" data-subject="Runs and Area Difficulties">
 
 A few different things related to area exploration have been asked for. 
 
@@ -30,7 +30,7 @@ Advice would be appreciated.
 
 </div>
 
-<div class="post" data-post-id="33045" data-author="jezer" data-date="2011-12-07T18:34:54+00:00">
+<div class="post" data-post-id="33045" data-author="jezer" data-date="2011-12-07T18:34:54+00:00" data-subject="Re: Runs and Area Difficulties">
 
 If you are thinking, what I think you are thinking about... 'sustain' - that's a very subjective argument... sustainable for whom? 1x20 Thief? 4x40 Druid?
 
@@ -40,7 +40,7 @@ Essentially the two key factors are a mobs hit points and it's damage per round 
 
 </div>
 
-<div class="post" data-post-id="33047" data-author="Strago" data-date="2011-12-07T19:00:21+00:00">
+<div class="post" data-post-id="33047" data-author="Strago" data-date="2011-12-07T19:00:21+00:00" data-subject="Re: Runs and Area Difficulties">
 
 We might be talking about different things, so let me elaborate a little.
 
@@ -56,7 +56,7 @@ The second part is categorizing all the different areas by some number(s). I und
 
 </div>
 
-<div class="post" data-post-id="33048" data-author="jezer" data-date="2011-12-07T19:28:53+00:00">
+<div class="post" data-post-id="33048" data-author="jezer" data-date="2011-12-07T19:28:53+00:00" data-subject="Re: Runs and Area Difficulties">
 
 I guess the core of my argument is about finding "the common system of measurement." So you can compare apples with apples. Living after a fight essentially comes down to the mechanics of how much damage the mob does and how quickly it takes you to kill it. It's not a perfect "ruler" but I think it's easier to use the ruler of a "mob" than a "player." Sometimes player experience can actually count for a lot of extra power. Players are not very relative. Mobs aren't either, but they are far more relative than players.
 
@@ -88,7 +88,7 @@ The messages barely hit, hit, hard, extremely, massacre etc relate to ranges of 
 
 </div>
 
-<div class="post" data-post-id="33049" data-author="Strago" data-date="2011-12-07T21:02:13+00:00">
+<div class="post" data-post-id="33049" data-author="Strago" data-date="2011-12-07T21:02:13+00:00" data-subject="Re: Runs and Area Difficulties">
 
 While improving the consider command would IMHO be a great boon for the MUD, that is outside of my control.
 
@@ -100,7 +100,7 @@ I do not think that it is the 3x40+ that will be the ones who get a benefit from
 
 </div>
 
-<div class="post" data-post-id="33050" data-author="jezer" data-date="2011-12-07T21:09:13+00:00">
+<div class="post" data-post-id="33050" data-author="jezer" data-date="2011-12-07T21:09:13+00:00" data-subject="Re: Runs and Area Difficulties">
 
 Good on you for putting your hand up to do it Strago. As the saying goes... if it's to be, it's up to me.
 
@@ -108,7 +108,7 @@ I'll put forward to you that hive is an exceptional place for newbie monks or lo
 
 </div>
 
-<div class="post" data-post-id="33059" data-author="Spink" data-date="2011-12-08T06:40:24+00:00">
+<div class="post" data-post-id="33059" data-author="Spink" data-date="2011-12-08T06:40:24+00:00" data-subject="Re: Runs and Area Difficulties">
 
 While this is probably not the largest obstacle for new players, I absolutely agree that this would be a huge help.
 
@@ -122,7 +122,7 @@ I've also found study to be pretty useful for scoping out new areas to stab, as 
 
 </div>
 
-<div class="post" data-post-id="33060" data-author="*juggleblood*" data-date="2011-12-08T13:30:09+00:00">
+<div class="post" data-post-id="33060" data-author="*juggleblood*" data-date="2011-12-08T13:30:09+00:00" data-subject="Re: Runs and Area Difficulties">
 
 I like your plan to put some zone info up on the wiki. My 2 cents is this, you only need to describe the mobs along a spectrum of hit points versus damage. There's many classes but pretty much just 2 play styles. You either go for the fast damage approach, in which case you want mobs that have low hp and higher damage, or you go for the slower approach of mobs that have more hit points and do less damage.  Trying to describe how the mobs are for each class of solo, is an over-complication imo, e.g. a zone that is good for solo thieves, will also be good for anyone who can put out a lot of fast damage one way or another.
 
@@ -130,7 +130,7 @@ I also happen to think the consider command works sufficiently enough, mob diffi
 
 </div>
 
-<div class="post" data-post-id="33061" data-author="Strago" data-date="2011-12-08T14:32:10+00:00">
+<div class="post" data-post-id="33061" data-author="Strago" data-date="2011-12-08T14:32:10+00:00" data-subject="Re: Runs and Area Difficulties">
 
 So for example:
 
@@ -164,7 +164,7 @@ This is a good area to solo for a damage dealer between 1x20 and 1x40. Mobs in t
 
 </div>
 
-<div class="post" data-post-id="33062" data-author="*juggleblood*" data-date="2011-12-09T00:26:49+00:00">
+<div class="post" data-post-id="33062" data-author="*juggleblood*" data-date="2011-12-09T00:26:49+00:00" data-subject="Re: Runs and Area Difficulties">
 
 However you decide to do it. That's what the wiki is for. 
 
@@ -172,13 +172,13 @@ I do like what you have there. Hopefully it will encourage more newbies to look 
 
 </div>
 
-<div class="post" data-post-id="33063" data-author="jezer" data-date="2011-12-09T01:07:02+00:00">
+<div class="post" data-post-id="33063" data-author="jezer" data-date="2011-12-09T01:07:02+00:00" data-subject="Re: Runs and Area Difficulties">
 
 You've missed Kzartaxen!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="33064" data-author="Strago" data-date="2011-12-09T14:01:54+00:00">
+<div class="post" data-post-id="33064" data-author="Strago" data-date="2011-12-09T14:01:54+00:00" data-subject="Re: Runs and Area Difficulties">
 
 I have made a little example for newbatia
 
@@ -190,13 +190,13 @@ Thanks for the assistance.
 
 </div>
 
-<div class="post" data-post-id="33065" data-author="Oboe" data-date="2011-12-09T18:09:54+00:00">
+<div class="post" data-post-id="33065" data-author="Oboe" data-date="2011-12-09T18:09:54+00:00" data-subject="Re: Runs and Area Difficulties">
 
 Strago, I really like this.  Thanks for writing it.
 
 </div>
 
-<div class="post" data-post-id="33067" data-author="Toxis" data-date="2011-12-10T00:31:31+00:00">
+<div class="post" data-post-id="33067" data-author="Toxis" data-date="2011-12-10T00:31:31+00:00" data-subject="Re: Runs and Area Difficulties">
 
 Dude... SWEEET! :)~
 
@@ -206,7 +206,7 @@ Wish we had this for every area.
 
 </div>
 
-<div class="post" data-post-id="33068" data-author="Strago" data-date="2011-12-10T02:01:36+00:00">
+<div class="post" data-post-id="33068" data-author="Strago" data-date="2011-12-10T02:01:36+00:00" data-subject="Re: Runs and Area Difficulties">
 
 Will start working on that. But it will take a while to get there. Will be requesting a lot of help on this, as it is no small project.
 
@@ -216,7 +216,7 @@ It might be better there.
 
 </div>
 
-<div class="post" data-post-id="33070" data-author="*Breeze*" data-date="2011-12-10T15:12:58+00:00">
+<div class="post" data-post-id="33070" data-author="*Breeze*" data-date="2011-12-10T15:12:58+00:00" data-subject="Re: Runs and Area Difficulties">
 
 this would probably be a good time to update the runs on the wiki
 
@@ -226,7 +226,7 @@ or are close but not exact.
 
 </div>
 
-<div class="post" data-post-id="33071" data-author="Strago" data-date="2011-12-10T16:27:15+00:00">
+<div class="post" data-post-id="33071" data-author="Strago" data-date="2011-12-10T16:27:15+00:00" data-subject="Re: Runs and Area Difficulties">
 
 I would be interested in getting some feedback on my ratings for the burbalangs. I did not have a newbie character to run this area, and did not run it as a newbie, my numbers may be off.
 
@@ -234,7 +234,7 @@ I would be interested in getting some feedback on my ratings for the burbalangs.
 
 </div>
 
-<div class="post" data-post-id="33083" data-author="Atwell" data-date="2011-12-11T21:06:28+00:00">
+<div class="post" data-post-id="33083" data-author="Atwell" data-date="2011-12-11T21:06:28+00:00" data-subject="Re: Runs and Area Difficulties">
 
 > ***Breeze* wrote:**
 > this would probably be a good time to update the runs on the wiki
@@ -285,7 +285,7 @@ Good chance I messed at least one of them up, so please re-fix if you try one an
 
 </div>
 
-<div class="post" data-post-id="33085" data-author="*Breeze*" data-date="2011-12-12T11:06:07+00:00">
+<div class="post" data-post-id="33085" data-author="*Breeze*" data-date="2011-12-12T11:06:07+00:00" data-subject="Re: Runs and Area Difficulties">
 
 Thank you Atwell
 

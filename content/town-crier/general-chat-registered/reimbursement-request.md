@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="38588" data-author="Teron" data-date="2018-01-05T15:40:57+00:00">
+<div class="post" data-post-id="38588" data-author="Teron" data-date="2018-01-05T15:40:57+00:00" data-subject="Reimbursement request">
 
 Today we got another reboot scheduled, so I tried to save as many specs as I could on Taron.
 
@@ -132,7 +132,7 @@ Thank you.
 
 </div>
 
-<div class="post" data-post-id="38589" data-author="*Splork*" data-date="2018-01-07T02:47:51+00:00">
+<div class="post" data-post-id="38589" data-author="*Splork*" data-date="2018-01-07T02:47:51+00:00" data-subject="Re: Reimbursement request">
 
 I am not sure if you have been reimbursed or not, however anyone who purposely drops items when they are fully aware that a reboot is coming should not be reimbursed.
 
@@ -140,7 +140,7 @@ Sorry,
 
 </div>
 
-<div class="post" data-post-id="38591" data-author="Teron" data-date="2018-01-07T06:07:27+00:00">
+<div class="post" data-post-id="38591" data-author="Teron" data-date="2018-01-07T06:07:27+00:00" data-subject="Re: Reimbursement request">
 
 I was working on preserving the spellbooks and specs that would disappear on reboot.
 
@@ -156,7 +156,7 @@ Sorry.
 
 </div>
 
-<div class="post" data-post-id="38592" data-author="Gorka" data-date="2018-01-07T07:20:45+00:00">
+<div class="post" data-post-id="38592" data-author="Gorka" data-date="2018-01-07T07:20:45+00:00" data-subject="Re: Reimbursement request">
 
 I don't understand why some "principles" are held higher than player harmony. Is not the highest principle of a game for it to be fun? What is it that happens when kids play games and someone gets hurt... I don't want to play anymore is what they say. I was on the receiving end last week with a botched Tomb Jade singing... After playing for 2 years, quitting crossed my mind. My attitude to the game changed and I am still feeling irritable about everything. I just don't understand what the game gains from punishing players for accidental mistakes like this, all to keep the integrity of some principle. I am at fault for my botched singing, Taron is at fault for dropping his sack... no ones arguing that... I just for the life of me don't understand in these situations why principles are held higher than player harmony. You can say that in real life there are consequences for accidents... that's true... but Taron purposefully wouldn't drop his sack while the game booted in real life... nor would I willfully interrupt the singing of something that took me 6 months to collect. They happen because it's a game, they happen because of typo's, triggers and weight issues. I agree it's difficult to know where to draw the line... but the loss of items in particular should be reimbursed and I think in most cases if they are quest they often are, which I do thank you guys for. I just for the life of me can't figure out why there is a principle here that's held higher than keeping players actually happily playing your game. How is the game forwarded by holding the principle higher than the player making whats clearly an accidental error. I'm honestly asking you to help me see your point of view. The other week I lost a "Magical Gateway" when I dropped a "key." How was I to know it had a key word of key in the name when it's called a "Magical Gateway." I am dropping useless crap every few minutes in this game. I can't possibly do a forensic check each time I drop a key. 
 
@@ -166,7 +166,7 @@ Maybe Taron's biggest mistake was not losing "everything" through corpsing durin
 
 </div>
 
-<div class="post" data-post-id="38593" data-author="*Breeze*" data-date="2018-01-07T08:19:42+00:00">
+<div class="post" data-post-id="38593" data-author="*Breeze*" data-date="2018-01-07T08:19:42+00:00" data-subject="Re: Reimbursement request">
 
 There are 2 types of reimbursement.
 
@@ -190,7 +190,7 @@ Will I reimb him? Probably. He just has to wait until I get around to it. Howeve
 
 </div>
 
-<div class="post" data-post-id="38594" data-author="Gorka" data-date="2018-01-07T09:16:21+00:00">
+<div class="post" data-post-id="38594" data-author="Gorka" data-date="2018-01-07T09:16:21+00:00" data-subject="Re: Reimbursement request">
 
 All good Breeze, I may not always like your decisions, but I believe you to be a fair and good person, and I will live by them. When I first saw this thread, I knew Taron likely wasn't going to be reimbursed, and I begged myself to stay out of it... obviously failed... never learnt that skill to 100%...
 
@@ -202,13 +202,13 @@ You guys as immortals have a totally valid position, we respect that... on the o
 
 </div>
 
-<div class="post" data-post-id="38596" data-author="*Breeze*" data-date="2018-01-07T09:52:52+00:00">
+<div class="post" data-post-id="38596" data-author="*Breeze*" data-date="2018-01-07T09:52:52+00:00" data-subject="Re: Reimbursement request">
 
 Omw to a meeting but junk is already logged with extra info.just not the items inside a junked container.
 
 </div>
 
-<div class="post" data-post-id="38597" data-author="Ker" data-date="2018-01-07T09:59:55+00:00">
+<div class="post" data-post-id="38597" data-author="Ker" data-date="2018-01-07T09:59:55+00:00" data-subject="Re: Reimbursement request">
 
 Hi,
 
@@ -224,7 +224,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="38599" data-author="*Splork*" data-date="2018-01-07T13:40:07+00:00">
+<div class="post" data-post-id="38599" data-author="*Splork*" data-date="2018-01-07T13:40:07+00:00" data-subject="Re: Reimbursement request">
 
 Just for the record...
 
@@ -234,7 +234,7 @@ Sooner or later, someone is going to be told no. Especially when the request is 
 
 </div>
 
-<div class="post" data-post-id="38601" data-author="Gorka" data-date="2018-01-07T14:05:13+00:00">
+<div class="post" data-post-id="38601" data-author="Gorka" data-date="2018-01-07T14:05:13+00:00" data-subject="Re: Reimbursement request">
 
 Just for the record, I haven't been fully reimbursed. I have been partially reimbursed. What did you agree to Splork?
 
@@ -242,7 +242,7 @@ Naturally I would prefer full reimbursement if that's what you guys agreed to...
 
 </div>
 
-<div class="post" data-post-id="38602" data-author="Teron" data-date="2018-01-07T15:19:45+00:00">
+<div class="post" data-post-id="38602" data-author="Teron" data-date="2018-01-07T15:19:45+00:00" data-subject="Re: Reimbursement request">
 
 I'd like to clarify a few things.
 
@@ -302,7 +302,7 @@ Ezekiel gossips-- 'anyway, spose it frees me up for other things today, long afk
 
 </div>
 
-<div class="post" data-post-id="38603" data-author="*Breeze*" data-date="2018-01-07T15:46:06+00:00">
+<div class="post" data-post-id="38603" data-author="*Breeze*" data-date="2018-01-07T15:46:06+00:00" data-subject="Re: Reimbursement request">
 
 there is an autosave feature. it should happen on get stuff, not just drop stuff.
 
@@ -344,7 +344,7 @@ eg: "wrap taron reimb 13231-sword of monkeys, 2231-hair of dog, etc"
 
 </div>
 
-<div class="post" data-post-id="38604" data-author="*Splork*" data-date="2018-01-07T15:49:40+00:00">
+<div class="post" data-post-id="38604" data-author="*Splork*" data-date="2018-01-07T15:49:40+00:00" data-subject="Re: Reimbursement request">
 
 I have been quite clear in my responses and have not once defended any "feature". I think we have been doing quite well cleaning up these "features" and we will continue to do so by adding additional player saves throughout the code. 
 

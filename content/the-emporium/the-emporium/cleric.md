@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36300" data-author="Hung" data-date="2015-12-11T23:02:04+00:00">
+<div class="post" data-post-id="36300" data-author="Hung" data-date="2015-12-11T23:02:04+00:00" data-subject="Cleric">
 
 1) Regen mode
 

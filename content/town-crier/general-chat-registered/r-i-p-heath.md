@@ -10,19 +10,19 @@ locked: false
 post_count: 77
 ---
 
-<div class="post" data-post-id="22185" data-author="Akasha" data-date="2008-01-23T03:59:04+00:00">
+<div class="post" data-post-id="22185" data-author="Akasha" data-date="2008-01-23T03:59:04+00:00" data-subject="R.I.P. Heath">
 
 [url:1yfj2ffr]http://news.aol.com/entertainment/movies/movie-news-story/ar/_a/heath-ledger-found-dead-at-home/20080122165209990002?ncid=NWS00010000000001[/url:1yfj2ffr]
 
 </div>
 
-<div class="post" data-post-id="22187" data-author="bellafea" data-date="2008-01-23T05:07:57+00:00">
+<div class="post" data-post-id="22187" data-author="bellafea" data-date="2008-01-23T05:07:57+00:00" data-subject="">
 
 I read that ealier, what is it with the rich killing themselves because they have too much money and just need some sleep, obviously money didnt buy them happiness, course if they would just oh i dunno read the directions on their pills maybe they would not be dying all over the place, guess its gods way of saying your acting sucked. you might look good on a horse in tight jeans or kissing another man, but take these pills do us all a favor!  good bye cruel world...
 
 </div>
 
-<div class="post" data-post-id="22188" data-author="jezer" data-date="2008-01-23T05:11:39+00:00">
+<div class="post" data-post-id="22188" data-author="jezer" data-date="2008-01-23T05:11:39+00:00" data-subject="">
 
 I'm not a fan of Heath Ledger, for various reasons, most of those have nothing to do with his films, but yes commiserations to Heaths family and his loved ones.
 
@@ -32,7 +32,7 @@ It's front page news here in Australia... I suspect we will be hearing about it 
 
 </div>
 
-<div class="post" data-post-id="22189" data-author="13" data-date="2008-01-23T05:33:44+00:00">
+<div class="post" data-post-id="22189" data-author="13" data-date="2008-01-23T05:33:44+00:00" data-subject="">
 
 I thought he was a pretty decent actor.  I'm not really down with the gay shit
 
@@ -42,13 +42,13 @@ was decent too.
 
 </div>
 
-<div class="post" data-post-id="22192" data-author="bellafea" data-date="2008-01-23T06:06:47+00:00">
+<div class="post" data-post-id="22192" data-author="bellafea" data-date="2008-01-23T06:06:47+00:00" data-subject="">
 
 okay so he was not really that bad, but what is up with these celebs today! cant sleep down a bottle of pills tht will surely make you feel better, oh he is getting lots of rest now!  wasn't he just in a couple movies.. maybe there was something else going on.,.
 
 </div>
 
-<div class="post" data-post-id="22220" data-author="Widow" data-date="2008-01-23T11:28:59+00:00">
+<div class="post" data-post-id="22220" data-author="Widow" data-date="2008-01-23T11:28:59+00:00" data-subject="">
 
 I liked the "knights tale" and I'm looking forward to Batman. News reports talk about how he was really into his daughter, so suicide seems like an odd way out. 
 
@@ -58,7 +58,7 @@ Who can say for sure?
 
 </div>
 
-<div class="post" data-post-id="22232" data-author="Autolycos" data-date="2008-01-23T17:30:00+00:00">
+<div class="post" data-post-id="22232" data-author="Autolycos" data-date="2008-01-23T17:30:00+00:00" data-subject="">
 
 'Course they also say he was having a really tough time dealing with the character of the Joker and the darkness surrounding the character.[/quote:2uekjcpe]
 
@@ -72,13 +72,13 @@ Bad actors keep making trash, ie "Beastmaster"
 
 </div>
 
-<div class="post" data-post-id="22233" data-author="Alberich" data-date="2008-01-23T17:40:14+00:00">
+<div class="post" data-post-id="22233" data-author="Alberich" data-date="2008-01-23T17:40:14+00:00" data-subject="">
 
 [img:2uytbee0]http://i29.tinypic.com/o93lgl.jpg[/img:2uytbee0]
 
 </div>
 
-<div class="post" data-post-id="22242" data-author="jezer" data-date="2008-01-23T23:16:58+00:00">
+<div class="post" data-post-id="22242" data-author="jezer" data-date="2008-01-23T23:16:58+00:00" data-subject="">
 
 You don't worry about those kind of people Alberich, they will get there own. They often end up living there whole lives in this defensive vacuum of justification, to try and maintain this self imposed level of righteousness which only further negates most of the stuff in there life that they preach!
 
@@ -94,7 +94,7 @@ Some die living for themselves and we remember it as tragic... some die doing th
 
 </div>
 
-<div class="post" data-post-id="22245" data-author="Weasel" data-date="2008-01-23T23:39:28+00:00">
+<div class="post" data-post-id="22245" data-author="Weasel" data-date="2008-01-23T23:39:28+00:00" data-subject="">
 
 Those Westboro baptist motherfuckers seriously need to get the bash. If the funeral 
 
@@ -122,19 +122,19 @@ If the law wont do anything, maybe the people will.
 
 </div>
 
-<div class="post" data-post-id="22246" data-author="13" data-date="2008-01-23T23:56:41+00:00">
+<div class="post" data-post-id="22246" data-author="13" data-date="2008-01-23T23:56:41+00:00" data-subject="">
 
 you guys need to learn how to use the carriage return key
 
 </div>
 
-<div class="post" data-post-id="22247" data-author="Weasel" data-date="2008-01-24T00:04:57+00:00">
+<div class="post" data-post-id="22247" data-author="Weasel" data-date="2008-01-24T00:04:57+00:00" data-subject="">
 
 It's because of that big long link at the start of the thread, but I edited my post just for you.
 
 </div>
 
-<div class="post" data-post-id="22249" data-author="Alberich" data-date="2008-01-24T03:50:05+00:00">
+<div class="post" data-post-id="22249" data-author="Alberich" data-date="2008-01-24T03:50:05+00:00" data-subject="">
 
 .and the fact it is hosted at an image-hosting 
 
@@ -148,7 +148,7 @@ it's generally unwise to directly link to images hosted on the site of a family 
 
 </div>
 
-<div class="post" data-post-id="22250" data-author="jezer" data-date="2008-01-24T04:10:31+00:00">
+<div class="post" data-post-id="22250" data-author="jezer" data-date="2008-01-24T04:10:31+00:00" data-subject="">
 
 Haha! :D When I started out in IT my mentor gave me this piece of advice which has always stayed with me...
 
@@ -156,7 +156,7 @@ Never work for accountants and lawyers. Maybe you found out why :)
 
 </div>
 
-<div class="post" data-post-id="22252" data-author="Weasel" data-date="2008-01-24T05:52:22+00:00">
+<div class="post" data-post-id="22252" data-author="Weasel" data-date="2008-01-24T05:52:22+00:00" data-subject="">
 
 Haha! :D When I started out in IT my mentor gave me this piece of advice which has always stayed with me...
 
@@ -174,7 +174,7 @@ yeah, good point Alberich :)
 
 </div>
 
-<div class="post" data-post-id="22253" data-author="jezer" data-date="2008-01-24T06:10:57+00:00">
+<div class="post" data-post-id="22253" data-author="jezer" data-date="2008-01-24T06:10:57+00:00" data-subject="">
 
 heh.. I finish my bachelor degree this year.. guess what it is :)[/quote:15r5jhpy]
 
@@ -182,13 +182,13 @@ Zoology, specializing in four legged diseased vermin?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22254" data-author="Weasel" data-date="2008-01-24T06:50:00+00:00">
+<div class="post" data-post-id="22254" data-author="Weasel" data-date="2008-01-24T06:50:00+00:00" data-subject="">
 
 ok, who told you.  :evil:
 
 </div>
 
-<div class="post" data-post-id="22255" data-author="*juggleblood*" data-date="2008-01-24T08:17:51+00:00">
+<div class="post" data-post-id="22255" data-author="*juggleblood*" data-date="2008-01-24T08:17:51+00:00" data-subject="">
 
 BB Mtn was a poignant movie. [/quote:30bnc38t]
 
@@ -196,7 +196,7 @@ cough
 
 </div>
 
-<div class="post" data-post-id="22257" data-author="Widow" data-date="2008-01-24T12:40:12+00:00">
+<div class="post" data-post-id="22257" data-author="Widow" data-date="2008-01-24T12:40:12+00:00" data-subject="">
 
 It's kind of ironic how these things have happened of late... I remember when Princess Diana died Mother Teresa died around the same time. 1000's turned up to Diana's funeral... but millions turned up to Mother Teresa's.
 
@@ -210,7 +210,7 @@ Jezer, I had a beef about that issue in the news when Di got all the press and M
 
 </div>
 
-<div class="post" data-post-id="22259" data-author="madmax" data-date="2008-01-24T13:47:25+00:00">
+<div class="post" data-post-id="22259" data-author="madmax" data-date="2008-01-24T13:47:25+00:00" data-subject="">
 
 Hey did you all see what caused his death?
 
@@ -218,13 +218,13 @@ He was informed that he was wanted to re-star in Brokeback Mountain 2!
 
 </div>
 
-<div class="post" data-post-id="22261" data-author="Widow" data-date="2008-01-24T14:36:22+00:00">
+<div class="post" data-post-id="22261" data-author="Widow" data-date="2008-01-24T14:36:22+00:00" data-subject="">
 
 Brokeback Mountain 2: Broke Harder?
 
 </div>
 
-<div class="post" data-post-id="22268" data-author="Avatar" data-date="2008-01-24T20:51:08+00:00">
+<div class="post" data-post-id="22268" data-author="Avatar" data-date="2008-01-24T20:51:08+00:00" data-subject="accidental death?">
 
 It seems like none of the tests show far indicate purposeful drug abuse.  It's worth it to remember sometimes that people die from accidental deaths, and it may not be suicide at all.
 
@@ -232,7 +232,7 @@ A week or so ago an older lady in Michigan City died in her sleep, froze to deat
 
 </div>
 
-<div class="post" data-post-id="22269" data-author="Mosaix" data-date="2008-01-24T21:18:50+00:00">
+<div class="post" data-post-id="22269" data-author="Mosaix" data-date="2008-01-24T21:18:50+00:00" data-subject="">
 
 Given the way utility companies are fleecing the public, those types of deaths are going to happen more often.  The woman most likely couldnt afford the heating bill on social security income.
 
@@ -244,7 +244,7 @@ Exxon is about to post record profits once again................................
 
 </div>
 
-<div class="post" data-post-id="22271" data-author="Autolycos" data-date="2008-01-24T22:00:11+00:00">
+<div class="post" data-post-id="22271" data-author="Autolycos" data-date="2008-01-24T22:00:11+00:00" data-subject="">
 
 Its really sad, that elderly americans who have worked all their lives are rewarded by freezing to death in their own homes, so fat wealthy energy companies can maximize profits.
 
@@ -254,7 +254,7 @@ Save fuel resources, BURN PEOPLE!!!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22272" data-author="jezer" data-date="2008-01-24T22:29:14+00:00">
+<div class="post" data-post-id="22272" data-author="jezer" data-date="2008-01-24T22:29:14+00:00" data-subject="">
 
 Its really sad, that elderly americans who have worked all their lives are rewarded by freezing to death in their own homes, so fat wealthy energy companies can maximize profits.
 
@@ -266,7 +266,7 @@ Starting alphabetically!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22275" data-author="Rynquald" data-date="2008-01-24T23:58:02+00:00">
+<div class="post" data-post-id="22275" data-author="Rynquald" data-date="2008-01-24T23:58:02+00:00" data-subject="">
 
 Jezer, I had a beef about that issue in the news when Di got all the press and Mother Teresa seemed to be nothing more than a blip on the spin machine. I'm seeing the same thing with Sir Edmund Hillary, lots of American glitz and glam for Ledger and not a single follow up story about Hillary. It's damn hard to find good news.[/quote:3b9pvgzy]
 
@@ -276,13 +276,13 @@ Of course "over here" is close enough that I saw his body lying in state and wat
 
 </div>
 
-<div class="post" data-post-id="22276" data-author="Thraxas" data-date="2008-01-25T00:03:43+00:00">
+<div class="post" data-post-id="22276" data-author="Thraxas" data-date="2008-01-25T00:03:43+00:00" data-subject="">
 
 I'll start by saying I know nothing of the guy and very little of the circumstances of his death, only what I heard on the news, but I did find it very telling that on the day it was announced the number one search on google was 'heath ledger' shows many people knew of him felt connected to him in some way and cared about his death .... oh and the number two search on google was for 'keith ledger' ...
 
 </div>
 
-<div class="post" data-post-id="22277" data-author="Thraxas" data-date="2008-01-25T00:16:09+00:00">
+<div class="post" data-post-id="22277" data-author="Thraxas" data-date="2008-01-25T00:16:09+00:00" data-subject="">
 
 ... 1000's turned up to Diana's funeral... but millions turned up to Mother Teresa's.[/quote:2mea1lun]
 
@@ -292,13 +292,13 @@ Now I'm not sure what my point is, perhaps its that we care more about how beaut
 
 </div>
 
-<div class="post" data-post-id="22278" data-author="jezer" data-date="2008-01-25T00:16:54+00:00">
+<div class="post" data-post-id="22278" data-author="jezer" data-date="2008-01-25T00:16:54+00:00" data-subject="">
 
 Point taken Ryn, I live where Heath Ledger was born and went to school :)
 
 </div>
 
-<div class="post" data-post-id="22279" data-author="jezer" data-date="2008-01-25T00:29:41+00:00">
+<div class="post" data-post-id="22279" data-author="jezer" data-date="2008-01-25T00:29:41+00:00" data-subject="">
 
 ... 1000's turned up to Diana's funeral... but millions turned up to Mother Teresa's.[/quote:1f8w9b66]
 
@@ -310,7 +310,7 @@ I made a mistake blurring my point talking about the sizes of funerals... but I 
 
 </div>
 
-<div class="post" data-post-id="23768" data-author="jezer" data-date="2008-04-15T23:53:46+00:00">
+<div class="post" data-post-id="23768" data-author="jezer" data-date="2008-04-15T23:53:46+00:00" data-subject="">
 
 [quote:33hs8ups]
 
@@ -334,25 +334,25 @@ If you seek evil, it will eventually overcome you...
 
 </div>
 
-<div class="post" data-post-id="23769" data-author="tincts" data-date="2008-04-16T00:56:25+00:00">
+<div class="post" data-post-id="23769" data-author="tincts" data-date="2008-04-16T00:56:25+00:00" data-subject="">
 
 Nah, that sounds like a symptom rather than a cause.
 
 </div>
 
-<div class="post" data-post-id="23771" data-author="Widow" data-date="2008-04-16T01:19:47+00:00">
+<div class="post" data-post-id="23771" data-author="Widow" data-date="2008-04-16T01:19:47+00:00" data-subject="">
 
 See, Heath never came across to me as a method actor. You don't see James Woods goin' all psycho anytime he has a bad guy role. Then again, he didn't have to play the Joker.
 
 </div>
 
-<div class="post" data-post-id="23772" data-author="Tap" data-date="2008-04-16T01:43:46+00:00">
+<div class="post" data-post-id="23772" data-author="Tap" data-date="2008-04-16T01:43:46+00:00" data-subject="">
 
 Well, look at Jack Nicholson. He never went all psycho and he's played all kind of cookie characters. Wasn't a big fan of Ledger and don't care to comment, nor am I competent, on his life and 'habit's. Sucks that it happened . On a previous post about size of funerals etc etc, that also doesn't impress me. Most people only show up to put on airs and try to steal of the spotlight for their own petty lives. Not intentionally comparing apples and oranges, but Mother Theresa and Diana? Are you kidding me?Don't know alot about Mother Theresa. I know she self-sacrificed alot to help others even when, allegedly, she had doubts. What did Diana do? Marry a prince. *yawn*
 
 </div>
 
-<div class="post" data-post-id="23773" data-author="jezer" data-date="2008-04-16T02:15:56+00:00">
+<div class="post" data-post-id="23773" data-author="jezer" data-date="2008-04-16T02:15:56+00:00" data-subject="">
 
 What you seek in life, you are bound to find... and where you choose to go will end up defining you.
 
@@ -374,19 +374,19 @@ There are many lights in this world, all seeking to draw us in like insects. Som
 
 </div>
 
-<div class="post" data-post-id="23777" data-author="Tap" data-date="2008-04-16T09:58:04+00:00">
+<div class="post" data-post-id="23777" data-author="Tap" data-date="2008-04-16T09:58:04+00:00" data-subject="">
 
 Umm...step away from the keyboard and breathe...slowly :twisted:
 
 </div>
 
-<div class="post" data-post-id="23784" data-author="Weasel" data-date="2008-04-16T15:56:42+00:00">
+<div class="post" data-post-id="23784" data-author="Weasel" data-date="2008-04-16T15:56:42+00:00" data-subject="">
 
 lay off the bong for a while Jezer..    :lol:
 
 </div>
 
-<div class="post" data-post-id="23785" data-author="Autolycos" data-date="2008-04-16T16:24:05+00:00">
+<div class="post" data-post-id="23785" data-author="Autolycos" data-date="2008-04-16T16:24:05+00:00" data-subject="">
 
 Well, look at Jack Nicholson. He never went all psycho and he's played all kind of cookie characters. [/quote:2d8tjn0k]
 
@@ -398,7 +398,7 @@ who would notice?
 
 </div>
 
-<div class="post" data-post-id="23786" data-author="Avatar" data-date="2008-04-16T16:53:42+00:00">
+<div class="post" data-post-id="23786" data-author="Avatar" data-date="2008-04-16T16:53:42+00:00" data-subject="Addiction">
 
 I think there's something in a personality that results in a weakness to addictive behavior.  Call it a penalty to saves vs addiction, whatever.
 
@@ -406,13 +406,13 @@ I really think that those people who become addicted to drugs, video games, role
 
 </div>
 
-<div class="post" data-post-id="23791" data-author="*juggleblood*" data-date="2008-04-16T19:01:32+00:00">
+<div class="post" data-post-id="23791" data-author="*juggleblood*" data-date="2008-04-16T19:01:32+00:00" data-subject="Re: Addiction">
 
 I'm addicted to my imagination. It's Fred Roger's fault!
 
 </div>
 
-<div class="post" data-post-id="23799" data-author="jezer" data-date="2008-04-16T23:45:11+00:00">
+<div class="post" data-post-id="23799" data-author="jezer" data-date="2008-04-16T23:45:11+00:00" data-subject="RE: Addiction">
 
 I post a lot here, while I'm at work... cause my job is wearing me down, and I need to escape... 7 years doing the same thing now... I need a sea change. When I get home, I play sloth... to forget I have work again in 15hrs.
 
@@ -422,7 +422,7 @@ I wasn't on pot when I wrote my last post, it was more the fact that, it was a d
 
 </div>
 
-<div class="post" data-post-id="23805" data-author="Tap" data-date="2008-04-17T00:39:28+00:00">
+<div class="post" data-post-id="23805" data-author="Tap" data-date="2008-04-17T00:39:28+00:00" data-subject="">
 
 You could always quit your job and make a career of writing those crazy quotes they stick inside fortune cookies. Being a smart ass aside, [quote:1pkkc09a]I need a sea change[/quote:1pkkc09a] Are you a seaman?[quote:1pkkc09a]I wasn't on pot when I wrote my last post, it was more the fact that, it was a distraction from work... and if you break it down and think about it at a deeper level, I think it's true.[/quote:1pkkc09a] I would find it to be true that you were a distraction at work?,ok....[quote:1pkkc09a]somethings are fake and hurt,[/quote:1pkkc09a]ummm,ok..
 
@@ -430,7 +430,7 @@ You could always quit your job and make a career of writing those crazy quotes t
 
 </div>
 
-<div class="post" data-post-id="23806" data-author="jezer" data-date="2008-04-17T00:56:08+00:00">
+<div class="post" data-post-id="23806" data-author="jezer" data-date="2008-04-17T00:56:08+00:00" data-subject="">
 
 Are you a seaman?[/quote:1aynbemk]
 
@@ -448,13 +448,13 @@ Here is one for you, "where ever you are, that's where you'll be." Don't let it 
 
 </div>
 
-<div class="post" data-post-id="23807" data-author="Tap" data-date="2008-04-17T01:01:55+00:00">
+<div class="post" data-post-id="23807" data-author="Tap" data-date="2008-04-17T01:01:55+00:00" data-subject="">
 
 So what again was keeping you from finding a job on dry land?And if your NOT on the pipe, what does any of this have to do with Heath Ledger?
 
 </div>
 
-<div class="post" data-post-id="23808" data-author="Weasel" data-date="2008-04-17T01:11:36+00:00">
+<div class="post" data-post-id="23808" data-author="Weasel" data-date="2008-04-17T01:11:36+00:00" data-subject="Re: RE: Addiction">
 
 ... and if you break it down and think about it at a deeper level, I think it's true... Whatever you seek, whatever you let inside of you, you end up becoming... somethings are fake and hurt, others are good.[/quote:1mps3rt6]
 
@@ -462,7 +462,7 @@ So I'm going to become a cheeseburger? Or maybe a pizza?  :D
 
 </div>
 
-<div class="post" data-post-id="23809" data-author="jezer" data-date="2008-04-17T01:13:45+00:00">
+<div class="post" data-post-id="23809" data-author="jezer" data-date="2008-04-17T01:13:45+00:00" data-subject="">
 
 So what again was keeping you from finding a job on dry land?And if your NOT on the pipe, what does any of this have to do with Heath Ledger?[/quote:gy5g03qz]
 
@@ -470,7 +470,7 @@ Tap, nothing of this has to do with Heath Ledger, and my last post was all a jok
 
 </div>
 
-<div class="post" data-post-id="23810" data-author="jezer" data-date="2008-04-17T01:15:51+00:00">
+<div class="post" data-post-id="23810" data-author="jezer" data-date="2008-04-17T01:15:51+00:00" data-subject="Re: RE: Addiction">
 
 So I'm going to become a cheeseburger? Or maybe a pizza?  :D[/quote:6wtqw7zj]
 
@@ -480,13 +480,13 @@ Its just Charles Darwin's theory really, you start life is a microscopic cell an
 
 </div>
 
-<div class="post" data-post-id="23811" data-author="Tap" data-date="2008-04-17T01:56:15+00:00">
+<div class="post" data-post-id="23811" data-author="Tap" data-date="2008-04-17T01:56:15+00:00" data-subject="Re:re:re:re:re:re:re:re:re:re:re:re:re">
 
 Charles Darwin died believing in God. Score one for the good guys.
 
 </div>
 
-<div class="post" data-post-id="23812" data-author="jezer" data-date="2008-04-17T02:18:42+00:00">
+<div class="post" data-post-id="23812" data-author="jezer" data-date="2008-04-17T02:18:42+00:00" data-subject="Philosophy with a Heath Ledger Bend...">
 
 Charles Darwin died believing in God. Score one for the good guys.[/quote:1ckjkcp0]
 
@@ -496,7 +496,7 @@ People like to select there own truth... I like this idea, so I will believe in 
 
 </div>
 
-<div class="post" data-post-id="23822" data-author="Zukt" data-date="2008-04-17T09:36:12+00:00">
+<div class="post" data-post-id="23822" data-author="Zukt" data-date="2008-04-17T09:36:12+00:00" data-subject="Re: Philosophy with a Heath Ledger Bend...">
 
 Charles Darwin died believing in God. Score one for the good guys.[/quote:37ew7dsx]
 
@@ -522,13 +522,13 @@ Philosophy ain't you're strong suit. Engaging in solipsist epistimology is at be
 
 </div>
 
-<div class="post" data-post-id="23824" data-author="Weasel" data-date="2008-04-17T10:31:28+00:00">
+<div class="post" data-post-id="23824" data-author="Weasel" data-date="2008-04-17T10:31:28+00:00" data-subject="">
 
 [img:6063hmf8]http://msn.mess.be/data/media/14/bang.gif[/img:6063hmf8]
 
 </div>
 
-<div class="post" data-post-id="23827" data-author="jezer" data-date="2008-04-17T11:22:37+00:00">
+<div class="post" data-post-id="23827" data-author="jezer" data-date="2008-04-17T11:22:37+00:00" data-subject="Re: Philosophy with a Heath Ledger Bend...">
 
 Rar Rar Rar[/quote:3rl3of5v]
 
@@ -548,7 +548,7 @@ cast 'invisibility' jezer
 
 </div>
 
-<div class="post" data-post-id="23828" data-author="Fable" data-date="2008-04-17T17:20:29+00:00">
+<div class="post" data-post-id="23828" data-author="Fable" data-date="2008-04-17T17:20:29+00:00" data-subject="">
 
 He may not have cleric/mage.  But he does have necro and can cast
 
@@ -556,7 +556,7 @@ detect invis.  Also he can quaff yellow potion :).
 
 </div>
 
-<div class="post" data-post-id="23829" data-author="Alberich" data-date="2008-04-17T18:12:08+00:00">
+<div class="post" data-post-id="23829" data-author="Alberich" data-date="2008-04-17T18:12:08+00:00" data-subject="Re: Philosophy with a Heath Ledger Bend...">
 
 Charles Darwin died believing in God. Score one for the good guys.[/quote:v2dln46u]
 
@@ -584,7 +584,7 @@ citing wikipedia does not add validity to your argument - it's on par with citin
 
 </div>
 
-<div class="post" data-post-id="23830" data-author="Weasel" data-date="2008-04-17T18:24:12+00:00">
+<div class="post" data-post-id="23830" data-author="Weasel" data-date="2008-04-17T18:24:12+00:00" data-subject="it must be tru - I read it on teh internets!">
 
 citing wikipedia does not add validity to your argument - it's on par with citing CNN or Pravda[/quote:2hyqa47d]
 
@@ -594,7 +594,7 @@ LOL..
 
 </div>
 
-<div class="post" data-post-id="23832" data-author="Zukt" data-date="2008-04-17T19:22:31+00:00">
+<div class="post" data-post-id="23832" data-author="Zukt" data-date="2008-04-17T19:22:31+00:00" data-subject="Re: Philosophy with a Heath Ledger Bend...">
 
 [quote:w7eiyyf0]citing wikipedia does not add validity to your argument - it's on par with citing CNN or Pravda[/quote:w7eiyyf0]
 
@@ -604,7 +604,7 @@ This sort of argument to attack wikipedia is just plain dumb.
 
 </div>
 
-<div class="post" data-post-id="23834" data-author="Avatar" data-date="2008-04-17T20:47:14+00:00">
+<div class="post" data-post-id="23834" data-author="Avatar" data-date="2008-04-17T20:47:14+00:00" data-subject="Wiki">
 
 The wiki article for Darwin lists some 200 citations and references for their information.  If you don't believe the content on wikipedia, you could always refer to those sources for more information.
 
@@ -612,7 +612,7 @@ Some people will always try to interpret facts to support their own beliefs.  I 
 
 </div>
 
-<div class="post" data-post-id="23835" data-author="jezer" data-date="2008-04-18T00:29:09+00:00">
+<div class="post" data-post-id="23835" data-author="jezer" data-date="2008-04-18T00:29:09+00:00" data-subject="Wiki">
 
 As much as I may regret this later...
 
@@ -632,7 +632,7 @@ This is why I believe that there must be truth outside of mankind, because manki
 
 </div>
 
-<div class="post" data-post-id="23836" data-author="Rynquald" data-date="2008-04-18T00:57:34+00:00">
+<div class="post" data-post-id="23836" data-author="Rynquald" data-date="2008-04-18T00:57:34+00:00" data-subject="">
 
 I'm pretty sure the argument is more about a rather important point in understanding the history of our planet(and species).
 
@@ -644,13 +644,13 @@ Just for the record, I'm not an atheist, and I don't believe in creationism, so 
 
 </div>
 
-<div class="post" data-post-id="23841" data-author="tincts" data-date="2008-04-18T02:20:20+00:00">
+<div class="post" data-post-id="23841" data-author="tincts" data-date="2008-04-18T02:20:20+00:00" data-subject="">
 
 Top post Jo
 
 </div>
 
-<div class="post" data-post-id="23842" data-author="Weasel" data-date="2008-04-18T02:56:51+00:00">
+<div class="post" data-post-id="23842" data-author="Weasel" data-date="2008-04-18T02:56:51+00:00" data-subject="">
 
 yes, yes, I know it [i:1t93wv9r]looks[/i:1t93wv9r] like a one dollar note, and the serial number on it indeed is that of a registered US Treasury one dollar note, and the denomination states one dollar, and it has a picture of George Washington on it, and it even says "in God we trust" right above the word "one", however I [i:1t93wv9r]believe[/i:1t93wv9r] and trust and therefore [i:1t93wv9r]know[/i:1t93wv9r] that it is in fact a one million dollar note, and insist you accept it as payment for your house, your car, your sister, and what's left in that bag of chips you're eating. Not that I have any empirical evidence whatsoever.
 
@@ -658,7 +658,7 @@ kthx.
 
 </div>
 
-<div class="post" data-post-id="23843" data-author="jezer" data-date="2008-04-18T03:47:37+00:00">
+<div class="post" data-post-id="23843" data-author="jezer" data-date="2008-04-18T03:47:37+00:00" data-subject="We aren&#x27;t sure what the threads about...">
 
 Not sure what weasel just said... translation?
 
@@ -674,7 +674,7 @@ Truth to me, is a word I try to reserve for spiritual things beyond time, space 
 
 </div>
 
-<div class="post" data-post-id="23844" data-author="Zukt" data-date="2008-04-18T05:31:37+00:00">
+<div class="post" data-post-id="23844" data-author="Zukt" data-date="2008-04-18T05:31:37+00:00" data-subject="">
 
 [quote:1wzrs11q]Not sure what weasel just said... translation? [/quote:1wzrs11q]
 
@@ -698,7 +698,7 @@ Tell you what, for fun, since you seem to enjoy the whole sky daddy concept: Sup
 
 </div>
 
-<div class="post" data-post-id="23845" data-author="Weasel" data-date="2008-04-18T05:32:12+00:00">
+<div class="post" data-post-id="23845" data-author="Weasel" data-date="2008-04-18T05:32:12+00:00" data-subject="Re: We aren&#x27;t sure what the threads about...">
 
 Not sure what weasel just said... translation?[/quote:2b10uruo]
 
@@ -716,13 +716,13 @@ THERE IS NO SPOON.
 
 </div>
 
-<div class="post" data-post-id="23846" data-author="Rynquald" data-date="2008-04-18T05:44:03+00:00">
+<div class="post" data-post-id="23846" data-author="Rynquald" data-date="2008-04-18T05:44:03+00:00" data-subject="">
 
 Heh, I was already thinking of posting a Matrix quote when I got far enough down Weasel's post to see the spoon thing :)
 
 </div>
 
-<div class="post" data-post-id="23847" data-author="jezer" data-date="2008-04-18T06:26:28+00:00">
+<div class="post" data-post-id="23847" data-author="jezer" data-date="2008-04-18T06:26:28+00:00" data-subject="">
 
 Nod,
 
@@ -730,7 +730,7 @@ Someone get Weasel an exit....  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23848" data-author="Clink" data-date="2008-04-18T11:52:17+00:00">
+<div class="post" data-post-id="23848" data-author="Clink" data-date="2008-04-18T11:52:17+00:00" data-subject="">
 
 I'll end this creation versus evolution debate right now:
 
@@ -742,19 +742,19 @@ So you are both right.  That is all.
 
 </div>
 
-<div class="post" data-post-id="23851" data-author="Weasel" data-date="2008-04-18T12:12:30+00:00">
+<div class="post" data-post-id="23851" data-author="Weasel" data-date="2008-04-18T12:12:30+00:00" data-subject="">
 
 The Gods have spoken.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23861" data-author="Tap" data-date="2008-04-18T22:04:18+00:00">
+<div class="post" data-post-id="23861" data-author="Tap" data-date="2008-04-18T22:04:18+00:00" data-subject="">
 
 :lol:
 
 </div>
 
-<div class="post" data-post-id="23959" data-author="Avatar" data-date="2008-04-23T17:34:20+00:00">
+<div class="post" data-post-id="23959" data-author="Avatar" data-date="2008-04-23T17:34:20+00:00" data-subject="Darwin etc">
 
 I'd say if you're interested in these things, you might enjoy some philosophy classes / books.  They get into these questions in detail, what is knowledge, how do we prove things, etc.  Truth as a word in general use can mean a lot of things sure, but in certain discussions you can pretty narrowly define what you mean by the word so other people do understand.  At least the basic philosophy classes might be interesting.
 
@@ -764,13 +764,13 @@ Of course I'm sharing some of my personal bias here, so I'll just wrap up this c
 
 </div>
 
-<div class="post" data-post-id="23964" data-author="*juggleblood*" data-date="2008-04-23T20:33:19+00:00">
+<div class="post" data-post-id="23964" data-author="*juggleblood*" data-date="2008-04-23T20:33:19+00:00" data-subject="">
 
 Is it really that scary tho? Seems like the smart kids eventually see thru the masquerade anyway. And the dumb ones, well.... If we could only figure out a way to keep them from voting.... hold elections during the Indy 500 maybe?
 
 </div>
 
-<div class="post" data-post-id="23966" data-author="Tap" data-date="2008-04-23T21:05:12+00:00">
+<div class="post" data-post-id="23966" data-author="Tap" data-date="2008-04-23T21:05:12+00:00" data-subject="">
 
 What's scary is that you people are still beating a dead Heath, horse I mean.
 
@@ -778,7 +778,7 @@ What's scary is that you people are still beating a dead Heath, horse I mean.
 
 </div>
 
-<div class="post" data-post-id="23967" data-author="Medios" data-date="2008-04-23T22:32:58+00:00">
+<div class="post" data-post-id="23967" data-author="Medios" data-date="2008-04-23T22:32:58+00:00" data-subject="">
 
 I like what Zukt says but I think it is wholly ignorant to dismiss other dimensions and or parallel universes.  We cannot comprehend more than 4 dimensions, what if our sun is an electron for another world.  It seems egotistical to think we are the most powerful beings in the realm.  If life can so easily self-form then there should be plenty of other worlds with much more time to cook.
 
@@ -794,19 +794,19 @@ Where is the hatred coming from.  If scientists quit sticking their noses up eve
 
 </div>
 
-<div class="post" data-post-id="23969" data-author="*juggleblood*" data-date="2008-04-23T22:46:37+00:00">
+<div class="post" data-post-id="23969" data-author="*juggleblood*" data-date="2008-04-23T22:46:37+00:00" data-subject="">
 
 [img:1p3f1h01]http://media.ebaumsworld.com/picture/axp090909/super_retard_stfu.jpg[/img:1p3f1h01]
 
 </div>
 
-<div class="post" data-post-id="23970" data-author="Medios" data-date="2008-04-23T22:52:22+00:00">
+<div class="post" data-post-id="23970" data-author="Medios" data-date="2008-04-23T22:52:22+00:00" data-subject="">
 
 I didn't know Jason wore a Superman costume to your get together.
 
 </div>
 
-<div class="post" data-post-id="23971" data-author="Alberich" data-date="2008-04-23T23:21:49+00:00">
+<div class="post" data-post-id="23971" data-author="Alberich" data-date="2008-04-23T23:21:49+00:00" data-subject="penis theft panic!">
 
 [url:2mdtkti2]http://www.reuters.com/article/newsOne/idUSN2319603620080423[/url:2mdtkti2]
 
@@ -816,7 +816,7 @@ and you people are worried about creationists?
 
 </div>
 
-<div class="post" data-post-id="23973" data-author="jezer" data-date="2008-04-23T23:37:46+00:00">
+<div class="post" data-post-id="23973" data-author="jezer" data-date="2008-04-23T23:37:46+00:00" data-subject="">
 
 I didn't know Jason wore a Superman costume to your get together.[/quote:t5qaytok]
 

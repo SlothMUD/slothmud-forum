@@ -10,13 +10,13 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="12794" data-author="SirRobin" data-date="2006-05-30T14:46:47+00:00">
+<div class="post" data-post-id="12794" data-author="SirRobin" data-date="2006-05-30T14:46:47+00:00" data-subject="Proc Weapons">
 
 What are Proc Weapons? I gather they have a spell attack component, but from what I've read they have some issues when used in groups. And what does "Proc" mean or stand for? Thanks.
 
 </div>
 
-<div class="post" data-post-id="12796" data-author="12345" data-date="2006-05-30T16:05:49+00:00">
+<div class="post" data-post-id="12796" data-author="12345" data-date="2006-05-30T16:05:49+00:00" data-subject="Re: Proc Weapons">
 
 What are Proc Weapons? I gather they have a spell attack component, but from what I've read they have some issues when used in groups. And what does "Proc" mean or stand for? Thanks.[/quote:3kiedau9]
 
@@ -26,7 +26,7 @@ Not sure what the issue is in groups that you're talking about though.  Care to 
 
 </div>
 
-<div class="post" data-post-id="12798" data-author="SirRobin" data-date="2006-05-30T16:47:28+00:00">
+<div class="post" data-post-id="12798" data-author="SirRobin" data-date="2006-05-30T16:47:28+00:00" data-subject="">
 
 Thanks. I thought I read somewhere that they could end up hurting the others in your group. I got the impression that the spells used on Proc weapons were area effect. But maybe I'm confusing this with something else.
 
@@ -34,7 +34,7 @@ Sir Robin
 
 </div>
 
-<div class="post" data-post-id="12799" data-author="12345" data-date="2006-05-30T16:57:26+00:00">
+<div class="post" data-post-id="12799" data-author="12345" data-date="2006-05-30T16:57:26+00:00" data-subject="">
 
 For the most part, proc weapons are pretty cool.  Some like the Bloodstained Zweihander (Z-spammer) proc fairly often, even if it's for relatively little damage.  The cleric dark mace does some pretty good damage and refuels mana levels some.
 
@@ -44,7 +44,7 @@ The only proc weapon that's truly dangerous are spec weapons. They chop limbs of
 
 </div>
 
-<div class="post" data-post-id="12803" data-author="Malison" data-date="2006-05-30T22:26:18+00:00">
+<div class="post" data-post-id="12803" data-author="Malison" data-date="2006-05-30T22:26:18+00:00" data-subject="">
 
 there's only a small issue with proc weapons in groups, and that's that they're spammy.  with something like staff of the elven forest proccing every round, you see a whole lot of magic missiles even with gag fight on.
 

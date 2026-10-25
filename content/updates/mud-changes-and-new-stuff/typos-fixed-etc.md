@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32766" data-author="*Breeze*" data-date="2011-07-25T19:36:12+00:00">
+<div class="post" data-post-id="32766" data-author="*Breeze*" data-date="2011-07-25T19:36:12+00:00" data-subject="Typos fixed, etc">
 
 // Various things fixed... //
 

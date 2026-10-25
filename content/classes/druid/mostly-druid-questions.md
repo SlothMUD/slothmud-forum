@@ -10,7 +10,7 @@ locked: false
 post_count: 29
 ---
 
-<div class="post" data-post-id="22039" data-author="jezer" data-date="2008-01-16T23:03:53+00:00">
+<div class="post" data-post-id="22039" data-author="jezer" data-date="2008-01-16T23:03:53+00:00" data-subject="Mostly Druid Questions...">
 
 Are the Cloud Giant mobs solo for these cps? (shifted black dragon -10)
 
@@ -68,7 +68,7 @@ What do most druids do with avatar lights? 4mana regen + 25 mana?
 
 </div>
 
-<div class="post" data-post-id="22040" data-author="Rynquald" data-date="2008-01-16T23:40:36+00:00">
+<div class="post" data-post-id="22040" data-author="Rynquald" data-date="2008-01-16T23:40:36+00:00" data-subject="">
 
 Are the Cloud Giant mobs solo for these cps? (shifted black dragon -10)
 
@@ -130,7 +130,7 @@ Hopefully some of that will be at least mildly helpful.
 
 </div>
 
-<div class="post" data-post-id="22041" data-author="jezer" data-date="2008-01-16T23:48:46+00:00">
+<div class="post" data-post-id="22041" data-author="jezer" data-date="2008-01-16T23:48:46+00:00" data-subject="">
 
 Awesome info, thanks Ryn.
 
@@ -148,7 +148,7 @@ To the shift leggings and footwear available via quest or regular eq. I'd be int
 
 </div>
 
-<div class="post" data-post-id="22042" data-author="Rynquald" data-date="2008-01-17T00:03:10+00:00">
+<div class="post" data-post-id="22042" data-author="Rynquald" data-date="2008-01-17T00:03:10+00:00" data-subject="">
 
 Realised I can actually test a few of the things I skipped, so in answer to (some) of those questions:
 
@@ -162,7 +162,7 @@ I don't have any +dex clasps to test with, but going to 19 dex with quicken didn
 
 </div>
 
-<div class="post" data-post-id="22043" data-author="jezer" data-date="2008-01-17T00:22:42+00:00">
+<div class="post" data-post-id="22043" data-author="jezer" data-date="2008-01-17T00:22:42+00:00" data-subject="">
 
 :D 
 
@@ -180,7 +180,7 @@ I've heard with a full setup of +ma shift regen eq it's possible to keep mana le
 
 </div>
 
-<div class="post" data-post-id="22044" data-author="Rynquald" data-date="2008-01-17T00:34:51+00:00">
+<div class="post" data-post-id="22044" data-author="Rynquald" data-date="2008-01-17T00:34:51+00:00" data-subject="">
 
 25/100 is literally the cap, I wear enough +str eq to be at 26/100 (and it's possible to get enough for 27/100), but I still only have 25/100.
 
@@ -190,13 +190,13 @@ Maintaining a stable mana level in dragon sounds possible, you'd probably need s
 
 </div>
 
-<div class="post" data-post-id="22045" data-author="Yinao" data-date="2008-01-17T04:33:43+00:00">
+<div class="post" data-post-id="22045" data-author="Yinao" data-date="2008-01-17T04:33:43+00:00" data-subject="">
 
 Yea I run in 25 / 100 20 19 19 20 when I have spells up and clasps etc etc. But its not very possible to vicious I dont think in piasa even with berserk gods and 25 / 100 str gives you about 30 dam iirc and still no vicious. Sounds like a pretty solid brutal however  8)
 
 </div>
 
-<div class="post" data-post-id="22046" data-author="jezer" data-date="2008-01-17T05:09:45+00:00">
+<div class="post" data-post-id="22046" data-author="jezer" data-date="2008-01-17T05:09:45+00:00" data-subject="">
 
 Avatar shift forms...
 
@@ -206,7 +206,7 @@ What is the natural AC of each form?
 
 </div>
 
-<div class="post" data-post-id="22048" data-author="Rynquald" data-date="2008-01-17T06:14:50+00:00">
+<div class="post" data-post-id="22048" data-author="Rynquald" data-date="2008-01-17T06:14:50+00:00" data-subject="">
 
 I can't get ingame atm to check the attacks of each form, but I know offhand that piasa gets 6 attacks (7 if you have mage for haste).
 
@@ -216,7 +216,7 @@ Of course that -1 is fairly easy for most forms, thorns, robe and belt/boots do 
 
 </div>
 
-<div class="post" data-post-id="22050" data-author="alias" data-date="2008-01-17T18:37:28+00:00">
+<div class="post" data-post-id="22050" data-author="alias" data-date="2008-01-17T18:37:28+00:00" data-subject="">
 
 Ac on shift is not dependant on Dex that was fixed a while ago I was told.
 
@@ -226,7 +226,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="22051" data-author="Avatar" data-date="2008-01-17T18:47:11+00:00">
+<div class="post" data-post-id="22051" data-author="Avatar" data-date="2008-01-17T18:47:11+00:00" data-subject="Druid Topic">
 
 It's been awhile since I connected, but I don't believe you have to wear the 'mythic' item after you've shifted.  You could remove the item(s) to wear your 'run' eq.
 
@@ -236,7 +236,7 @@ Things may have changed, but those seem to be my faint memories.
 
 </div>
 
-<div class="post" data-post-id="22056" data-author="jezer" data-date="2008-01-18T00:24:51+00:00">
+<div class="post" data-post-id="22056" data-author="jezer" data-date="2008-01-18T00:24:51+00:00" data-subject="">
 
 I recently got a char to 3x40 which allows me to shift to an AC of -10 through dragon. I guess I thought that mobs hit less through -10 AC, but am I right in thinkingâ€¦ they actually hit JUST AS MUCH but for less damage through -10? 
 
@@ -248,7 +248,7 @@ It feels like I am regening for 5mins, and then running for 30secondsâ€¦ it�
 
 </div>
 
-<div class="post" data-post-id="22057" data-author="jezer" data-date="2008-01-18T00:44:05+00:00">
+<div class="post" data-post-id="22057" data-author="jezer" data-date="2008-01-18T00:44:05+00:00" data-subject="">
 
 I'm not sure if "saves" is what I'm asking about... but from an eq point of view... all saves eq is nearly old "tankish" classo... big holes in availability I guess you could say, in that department.
 
@@ -258,7 +258,7 @@ You reckon saves is just as important as AC? Why do the tank types only ever see
 
 </div>
 
-<div class="post" data-post-id="22058" data-author="Rynquald" data-date="2008-01-18T01:05:48+00:00">
+<div class="post" data-post-id="22058" data-author="Rynquald" data-date="2008-01-18T01:05:48+00:00" data-subject="">
 
 Save eq makes you more likely to take half damage from spells, which sounds nice until you realize that even if you wear no saves eq, you're almost certainly saving most of the time vs. mob-cast spells.
 
@@ -274,7 +274,7 @@ I don't have the slightest idea what your classo is, but if you happen to be mag
 
 </div>
 
-<div class="post" data-post-id="22059" data-author="jezer" data-date="2008-01-18T01:29:54+00:00">
+<div class="post" data-post-id="22059" data-author="jezer" data-date="2008-01-18T01:29:54+00:00" data-subject="">
 
 Thanks for that Ryn. I can possibly save 100 mana by not shifting per run... but the question then beckons... how many frostbolts kill a prong and at what spelldamage? That will help me work out, whether I need to start looking at a non-shifted eq mode for blasting. If I am shifted it takes about...
 
@@ -286,7 +286,7 @@ Anyone got a regen room they can let me use on lyme? I'm serious!  :shock: Send 
 
 </div>
 
-<div class="post" data-post-id="22062" data-author="Rynquald" data-date="2008-01-18T03:41:28+00:00">
+<div class="post" data-post-id="22062" data-author="Rynquald" data-date="2008-01-18T03:41:28+00:00" data-subject="">
 
 It takes a couple of bolts to kill a prong, so you can count on getting hit if you don't get two bolts in before the first round, I think I've splorked them a couple of times with a bolt, but that would have to be a good roll without a save.
 
@@ -298,7 +298,7 @@ Depending when you play (for availability of other players), the single fastest 
 
 </div>
 
-<div class="post" data-post-id="22063" data-author="Roadrunr" data-date="2008-01-18T05:07:22+00:00">
+<div class="post" data-post-id="22063" data-author="Roadrunr" data-date="2008-01-18T05:07:22+00:00" data-subject="">
 
 It takes a couple of bolts to kill a prong, so you can count on getting hit if you don't get two bolts in before the first round, I think I've splorked them a couple of times with a bolt, but that would have to be a good roll without a save.
 
@@ -312,13 +312,13 @@ I'd have to add that at 3x40, chicks dont always boltsplork, nor do lizards.  th
 
 </div>
 
-<div class="post" data-post-id="22064" data-author="Rynquald" data-date="2008-01-18T06:11:09+00:00">
+<div class="post" data-post-id="22064" data-author="Rynquald" data-date="2008-01-18T06:11:09+00:00" data-subject="">
 
 You're right, I forgot, thanks for mentioning that RR.
 
 </div>
 
-<div class="post" data-post-id="26056" data-author="jezer" data-date="2008-09-01T05:09:09+00:00">
+<div class="post" data-post-id="26056" data-author="jezer" data-date="2008-09-01T05:09:09+00:00" data-subject="">
 
 I'm wanting to know a bit more about sea dragon... if someone can help me...
 
@@ -338,7 +338,7 @@ Also I'm thinking of getting a +2dam lite at avatar, any opinions?
 
 </div>
 
-<div class="post" data-post-id="26057" data-author="jezer" data-date="2008-09-01T05:20:28+00:00">
+<div class="post" data-post-id="26057" data-author="jezer" data-date="2008-09-01T05:20:28+00:00" data-subject="">
 
 Bah, forgot to ask this... (can't edit posts in druid forum btw)
 
@@ -346,13 +346,13 @@ At what level can I "awaken" 2 elder ants? I'm level 30 and can still only get o
 
 </div>
 
-<div class="post" data-post-id="26073" data-author="Yinao" data-date="2008-09-02T04:15:58+00:00">
+<div class="post" data-post-id="26073" data-author="Yinao" data-date="2008-09-02T04:15:58+00:00" data-subject="">
 
 I only have one opinion, and its about the 2 damage light... Do you currently have .8 shoulder guards in order to get a full -1.0 ac difference to enable you to get a -12 piasa? If not, which most wont unless you use other tactics to acquire -12 then you might look into getting some ac because -12 will make quite a difference compared to -11.
 
 </div>
 
-<div class="post" data-post-id="26074" data-author="Tap" data-date="2008-09-02T04:31:29+00:00">
+<div class="post" data-post-id="26074" data-author="Tap" data-date="2008-09-02T04:31:29+00:00" data-subject="">
 
 The answer might be somewhere in forums but aren't
 
@@ -360,7 +360,7 @@ The answer might be somewhere in forums but aren't
 
 </div>
 
-<div class="post" data-post-id="26076" data-author="jezer" data-date="2008-09-02T06:43:53+00:00">
+<div class="post" data-post-id="26076" data-author="jezer" data-date="2008-09-02T06:43:53+00:00" data-subject="">
 
 Yes I will have -12 as Piasa without an AC avatar light.
 
@@ -376,7 +376,7 @@ And while we are talking exploiting bugs... has anyone tried going to an arena u
 
 </div>
 
-<div class="post" data-post-id="26078" data-author="Yinao" data-date="2008-09-02T08:25:52+00:00">
+<div class="post" data-post-id="26078" data-author="Yinao" data-date="2008-09-02T08:25:52+00:00" data-subject="">
 
 [quote:178s220r]The answer might be somewhere in forums but aren't
 
@@ -390,19 +390,19 @@ And as for Jezer, ya thats been reported I've personally never tried it however 
 
 </div>
 
-<div class="post" data-post-id="26130" data-author="Elwood" data-date="2008-09-04T02:34:57+00:00">
+<div class="post" data-post-id="26130" data-author="Elwood" data-date="2008-09-04T02:34:57+00:00" data-subject="">
 
 for sure its 12 cap?
 
 </div>
 
-<div class="post" data-post-id="26131" data-author="Yinao" data-date="2008-09-04T03:28:41+00:00">
+<div class="post" data-post-id="26131" data-author="Yinao" data-date="2008-09-04T03:28:41+00:00" data-subject="">
 
 For PC's yes -12 is cap
 
 </div>
 
-<div class="post" data-post-id="26144" data-author="jezer" data-date="2008-09-04T15:48:56+00:00">
+<div class="post" data-post-id="26144" data-author="jezer" data-date="2008-09-04T15:48:56+00:00" data-subject="">
 
 I've tried to work out which is mathematically better for the druid avatar light.
 
@@ -438,7 +438,7 @@ However when you consider the variety of mobs on which one runs, and variable le
 
 </div>
 
-<div class="post" data-post-id="26146" data-author="Stryx" data-date="2008-09-04T16:41:52+00:00">
+<div class="post" data-post-id="26146" data-author="Stryx" data-date="2008-09-04T16:41:52+00:00" data-subject="">
 
 I checked with my lite equiped and unequiped in piasa form. Seems druid bonus is added to the 4mreg. Without lite in piasa form i'm on 60mreg. With lite in piasa form I get 66mreg.
 
@@ -446,7 +446,7 @@ I would choose the mreg myself, as its of more use in both human and shifted for
 
 </div>
 
-<div class="post" data-post-id="26150" data-author="jezer" data-date="2008-09-04T23:37:09+00:00">
+<div class="post" data-post-id="26150" data-author="jezer" data-date="2008-09-04T23:37:09+00:00" data-subject="">
 
 Out of interest Stryx, how much mana does it cost for you to maintain piasa for 60 seconds?
 

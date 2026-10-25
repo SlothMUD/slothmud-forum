@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29702" data-author="*Splork*" data-date="2009-07-18T22:15:50+00:00">
+<div class="post" data-post-id="29702" data-author="*Splork*" data-date="2009-07-18T22:15:50+00:00" data-subject="ALL regens increased on reboot">
 
 All regens(move, hitpoint, and mana)will be increased on the next reboot or crash.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="37399" data-author="Teron" data-date="2016-10-15T17:28:29+00:00">
+<div class="post" data-post-id="37399" data-author="Teron" data-date="2016-10-15T17:28:29+00:00" data-subject="Double robe capacity, because amount of used classes doubled">
 
 Greetings.
 
@@ -78,7 +78,7 @@ Thank you.
 
 </div>
 
-<div class="post" data-post-id="37400" data-author="Gorka" data-date="2016-10-15T17:53:28+00:00">
+<div class="post" data-post-id="37400" data-author="Gorka" data-date="2016-10-15T17:53:28+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 ![](http://www.self-catering-breaks.com/blog/wp-content/uploads/2009/04/luggage.jpg)
 
@@ -88,7 +88,7 @@ Once again I see potential in making changes to "mounts" in the game. You need a
 
 </div>
 
-<div class="post" data-post-id="37401" data-author="Teron" data-date="2016-10-15T18:04:21+00:00">
+<div class="post" data-post-id="37401" data-author="Teron" data-date="2016-10-15T18:04:21+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 I see you found my photo.
 
@@ -98,13 +98,13 @@ Also, I'd rather not hire mounts every day just to carry my stuff around. I'd ra
 
 </div>
 
-<div class="post" data-post-id="37402" data-author="cyprimus" data-date="2016-10-16T00:48:02+00:00">
+<div class="post" data-post-id="37402" data-author="cyprimus" data-date="2016-10-16T00:48:02+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 Sherpa!
 
 </div>
 
-<div class="post" data-post-id="37427" data-author="Teron" data-date="2016-10-22T06:35:10+00:00">
+<div class="post" data-post-id="37427" data-author="Teron" data-date="2016-10-22T06:35:10+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 One other reason to increase robe and item capacity is **corpse retrievals**.
 
@@ -140,7 +140,7 @@ All this could've been solved by having more item and weight capacity. Robe capa
 
 </div>
 
-<div class="post" data-post-id="37429" data-author="Jaid" data-date="2016-10-22T15:40:01+00:00">
+<div class="post" data-post-id="37429" data-author="Jaid" data-date="2016-10-22T15:40:01+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 I would be good with either suggestion, but I'm probably more in favor of increasing our inventory to rent. I have things that I've been wheeled in groups or equipment that I've changed out over time. While I know that I need to clean things out, when I log on and see a group, I would rather play than do an inventory check and figure out what to put up for sale. I know I need to do it eventually.  As of now, I find myself checking my sack to see what I can drop or junk before I rent so I don't go over the 150 item max.
 
@@ -150,13 +150,13 @@ Jaid/Rayne
 
 </div>
 
-<div class="post" data-post-id="37438" data-author="*juggleblood*" data-date="2016-10-22T23:30:58+00:00">
+<div class="post" data-post-id="37438" data-author="*juggleblood*" data-date="2016-10-22T23:30:58+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 Would be neat if there were a 'keychain' for item type armor. Like..Sidhe Extra-Dimensional Portable Armory, holds 25 pieces of armor, with item count being only 1.
 
 </div>
 
-<div class="post" data-post-id="37449" data-author="Teron" data-date="2016-10-25T11:45:03+00:00">
+<div class="post" data-post-id="37449" data-author="Teron" data-date="2016-10-25T11:45:03+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 That's a great start, but even if you put 25 items in a magic box, they'll still weigh like 25 items and the box.
 
@@ -168,13 +168,13 @@ I even found the color pattern to use for the chest: blue, with the sides colore
 
 </div>
 
-<div class="post" data-post-id="37454" data-author="*juggleblood*" data-date="2016-10-26T03:44:51+00:00">
+<div class="post" data-post-id="37454" data-author="*juggleblood*" data-date="2016-10-26T03:44:51+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 max_weight -1? does that make the bag and it's contents weigh nothing or does it make it limitless contents?
 
 </div>
 
-<div class="post" data-post-id="37456" data-author="Gorka" data-date="2016-10-26T06:51:25+00:00">
+<div class="post" data-post-id="37456" data-author="Gorka" data-date="2016-10-26T06:51:25+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 Its certainly supposed to make the bag "limitless" as for what it does with the "weight..." I don't know.
 
@@ -186,7 +186,7 @@ The other solution is to provide 9x40 forges that effectively would bond some it
 
 </div>
 
-<div class="post" data-post-id="37460" data-author="Teron" data-date="2016-10-26T21:13:29+00:00">
+<div class="post" data-post-id="37460" data-author="Teron" data-date="2016-10-26T21:13:29+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 Eqlist says the bag of weapons has the max weight of -1.
 
@@ -198,7 +198,7 @@ It'd be awesome to have a container that both reduces item count and weight, tho
 
 </div>
 
-<div class="post" data-post-id="37826" data-author="Teron" data-date="2016-12-14T13:36:48+00:00">
+<div class="post" data-post-id="37826" data-author="Teron" data-date="2016-12-14T13:36:48+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 Thanks Teker for adding +25 to rent and carry item amounts.
 
@@ -208,7 +208,7 @@ Thanks again :)
 
 </div>
 
-<div class="post" data-post-id="37831" data-author="*teker*" data-date="2016-12-14T17:43:41+00:00">
+<div class="post" data-post-id="37831" data-author="*teker*" data-date="2016-12-14T17:43:41+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 You're welcome.  I'm not sure that there is a bullet-proof 100% guaranteed solution to the problem you're discussing.   In order to recover another player's corpse, your items + the dead player's items would need to be less than the cap.  If you're carrying more than half, or the dead player was carrying more than half, there's a good chance you won't be able to recover the corpse.  If we continue to raise the item limits upwards, some players will continue to carry more items until their strength maximums are reached.  That means the corpses will become heavier and heavier to where other players won't be able to handle the weight of their own gear plus the weight of a full corpse.  Similar problem to where we are now.
 
@@ -216,19 +216,19 @@ Perhaps a better option would be to enable recall scrolls (or a scroll of a diff
 
 </div>
 
-<div class="post" data-post-id="37832" data-author="Filk" data-date="2016-12-14T17:46:14+00:00">
+<div class="post" data-post-id="37832" data-author="Filk" data-date="2016-12-14T17:46:14+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 It would be nice also to make recall points free of mobs looting. Its problem even now. And gonna be bigger problem if you will add corpse recalling. Though idea on its own is great tbh.
 
 </div>
 
-<div class="post" data-post-id="37835" data-author="Josiah" data-date="2016-12-14T19:29:50+00:00">
+<div class="post" data-post-id="37835" data-author="Josiah" data-date="2016-12-14T19:29:50+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 I like the idea of casting recall on a corpse, and also of mobs not being allowed to loot in recall rooms.
 
 </div>
 
-<div class="post" data-post-id="37858" data-author="Teron" data-date="2016-12-21T10:23:14+00:00">
+<div class="post" data-post-id="37858" data-author="Teron" data-date="2016-12-21T10:23:14+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
 You are right, Teker, the problem with robes hasn't been solved. My main robe still sits in my inv, when it has extra heavy items in it (not corpses).
 

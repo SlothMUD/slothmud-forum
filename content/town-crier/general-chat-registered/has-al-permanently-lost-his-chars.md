@@ -10,7 +10,7 @@ locked: false
 post_count: 24
 ---
 
-<div class="post" data-post-id="16732" data-author="Medios" data-date="2007-02-08T22:36:07+00:00">
+<div class="post" data-post-id="16732" data-author="Medios" data-date="2007-02-08T22:36:07+00:00" data-subject="Has Al permanently lost his chars?">
 
 I think it would be reasonable to know if he has lost these chars.  I heard he got a 2 month ban and was going to be reinstated.  Then his char gets ransacked by someone and now hes passworded still.  Is he not getting his char back to cover up the fact that hes missing eq now?  It seems to me you either need to give him his stuff, or perm ban him.  I know your going to tell me how Al has had problems in the past etc.  I will reply that Al is the least of your guys concerns.  He spices things up, and usually makes me feel better about my day.  Sure hes not "family oriented" but thats a joke and we all know it.
 
@@ -18,7 +18,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16733" data-author="Autolycos" data-date="2007-02-08T22:43:50+00:00">
+<div class="post" data-post-id="16733" data-author="Autolycos" data-date="2007-02-08T22:43:50+00:00" data-subject="">
 
 i try to spice up things too for my own amusement..  but at least Al is a worthy adversary to me in the realm of harrassment..  I kinda miss running with him in Gimlet.. cause face it the char Starbuck really sucks..  :twisted: 
 
@@ -26,7 +26,7 @@ where's Rodney King when you need him?
 
 </div>
 
-<div class="post" data-post-id="16735" data-author="13" data-date="2007-02-08T23:05:46+00:00">
+<div class="post" data-post-id="16735" data-author="13" data-date="2007-02-08T23:05:46+00:00" data-subject="">
 
 who got ransacked by who?
 
@@ -34,7 +34,7 @@ what happened?
 
 </div>
 
-<div class="post" data-post-id="16738" data-author="Medios" data-date="2007-02-08T23:36:43+00:00">
+<div class="post" data-post-id="16738" data-author="Medios" data-date="2007-02-08T23:36:43+00:00" data-subject="">
 
 Ransacked might be harsh.  I know its not the real reason he has not got his stuff back, I would just like to know what the real reason is.  I know Al doesn't want to talk to Clink in fear of confrontation.  I figure its a good move on his part.  I have never said that Al did not deserve the ban or argue that in any point.  My point is that 2 months is up.
 
@@ -42,7 +42,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16739" data-author="*Splork*" data-date="2007-02-08T23:40:19+00:00">
+<div class="post" data-post-id="16739" data-author="*Splork*" data-date="2007-02-08T23:40:19+00:00" data-subject="">
 
 Al knows the deal that we made with him and it never involved all of his characters being reinstated.
 
@@ -52,7 +52,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="16740" data-author="*juggleblood*" data-date="2007-02-09T00:01:33+00:00">
+<div class="post" data-post-id="16740" data-author="*juggleblood*" data-date="2007-02-09T00:01:33+00:00" data-subject="">
 
 Based on my limited knowledge I think its something like this:
 
@@ -60,13 +60,13 @@ The gods are in agreement that Al's a jackass, but they disagree on the number a
 
 </div>
 
-<div class="post" data-post-id="16741" data-author="13" data-date="2007-02-09T00:15:26+00:00">
+<div class="post" data-post-id="16741" data-author="13" data-date="2007-02-09T00:15:26+00:00" data-subject="">
 
 Splork says '..imperial credits will be fine..'
 
 </div>
 
-<div class="post" data-post-id="16742" data-author="Marchessa_red_witch" data-date="2007-02-09T00:23:35+00:00">
+<div class="post" data-post-id="16742" data-author="Marchessa_red_witch" data-date="2007-02-09T00:23:35+00:00" data-subject="I think this is immort for">
 
 "Drop the subject"
 
@@ -78,7 +78,7 @@ Splork[/quote:ykzqcuy4]
 
 </div>
 
-<div class="post" data-post-id="16743" data-author="Medios" data-date="2007-02-09T00:30:29+00:00">
+<div class="post" data-post-id="16743" data-author="Medios" data-date="2007-02-09T00:30:29+00:00" data-subject="">
 
 Hah 777@r(h355a finally had a decent chance to shoot back.
 
@@ -88,25 +88,25 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16744" data-author="13" data-date="2007-02-09T00:48:28+00:00">
+<div class="post" data-post-id="16744" data-author="13" data-date="2007-02-09T00:48:28+00:00" data-subject="">
 
 marchessa for weaks.
 
 </div>
 
-<div class="post" data-post-id="16749" data-author="Marchessa_red_witch" data-date="2007-02-09T01:51:59+00:00">
+<div class="post" data-post-id="16749" data-author="Marchessa_red_witch" data-date="2007-02-09T01:51:59+00:00" data-subject="I have a mud full of mobs">
 
 to take my hostility out on.
 
 </div>
 
-<div class="post" data-post-id="16752" data-author="13" data-date="2007-02-09T12:19:43+00:00">
+<div class="post" data-post-id="16752" data-author="13" data-date="2007-02-09T12:19:43+00:00" data-subject="">
 
 so take it out on the cb smith instead of clogging up our boards with your shit
 
 </div>
 
-<div class="post" data-post-id="16755" data-author="Malison" data-date="2007-02-09T14:50:55+00:00">
+<div class="post" data-post-id="16755" data-author="Malison" data-date="2007-02-09T14:50:55+00:00" data-subject="">
 
 13
 
@@ -116,7 +116,7 @@ And he speaks of clogging the boards.
 
 </div>
 
-<div class="post" data-post-id="16759" data-author="banedon" data-date="2007-02-09T16:28:07+00:00">
+<div class="post" data-post-id="16759" data-author="banedon" data-date="2007-02-09T16:28:07+00:00" data-subject="">
 
 13
 
@@ -130,13 +130,13 @@ Anyways, that's my $.02 flame away.
 
 </div>
 
-<div class="post" data-post-id="16761" data-author="Leaf" data-date="2007-02-09T16:37:31+00:00">
+<div class="post" data-post-id="16761" data-author="Leaf" data-date="2007-02-09T16:37:31+00:00" data-subject="">
 
 13 cares mostly for weeed and how/where/when/ to smoke it :)
 
 </div>
 
-<div class="post" data-post-id="16765" data-author="Clink" data-date="2007-02-09T17:33:51+00:00">
+<div class="post" data-post-id="16765" data-author="Clink" data-date="2007-02-09T17:33:51+00:00" data-subject="Re: Has Al permanently lost his chars?">
 
 I know Al doesn't want to talk to Clink in fear of confrontation. I figure its a good move on his part. I have never said that Al did not deserve the ban or argue that in any point. My point is that 2 months is up. 
 
@@ -158,7 +158,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="16766" data-author="Briar" data-date="2007-02-09T17:48:11+00:00">
+<div class="post" data-post-id="16766" data-author="Briar" data-date="2007-02-09T17:48:11+00:00" data-subject="">
 
 what a load of crock
 
@@ -172,7 +172,7 @@ it's funny how certain people were quick to jump to kotetzo's defense, only for 
 
 </div>
 
-<div class="post" data-post-id="16768" data-author="Briar" data-date="2007-02-09T17:56:10+00:00">
+<div class="post" data-post-id="16768" data-author="Briar" data-date="2007-02-09T17:56:10+00:00" data-subject="Re: Has Al permanently lost his chars?">
 
 He is smart enough to know that I am not a negotiator, so he doesn't bother negotiating with me directly.  He has approached people and offered them deals ("if you get me back these characters, you can have this one") if they can successfully negotiate with me on his behalf.  This doesn't work.  I'm not suggesting this post was instigated by a bribe or other pressure, but there are those who are either naive or vain enough to send me emails on this topic.
 
@@ -190,7 +190,7 @@ speaking of being manipulative, it's funny how certain people manipulated the op
 
 </div>
 
-<div class="post" data-post-id="16774" data-author="Clink" data-date="2007-02-09T19:06:16+00:00">
+<div class="post" data-post-id="16774" data-author="Clink" data-date="2007-02-09T19:06:16+00:00" data-subject="Re: Has Al permanently lost his chars?">
 
 speaking of being manipulative, it's funny how certain people manipulated the opinions of other people to agree with their decision, then claimed it to be a collective agreement.[/quote:co2oj48p]
 
@@ -204,13 +204,13 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="16775" data-author="Infested" data-date="2007-02-09T19:32:44+00:00">
+<div class="post" data-post-id="16775" data-author="Infested" data-date="2007-02-09T19:32:44+00:00" data-subject="">
 
 Na na na na, na na na na, hey hey hey, goodbye!  *Jerk Removal Complete*
 
 </div>
 
-<div class="post" data-post-id="16784" data-author="Medios" data-date="2007-02-09T22:21:53+00:00">
+<div class="post" data-post-id="16784" data-author="Medios" data-date="2007-02-09T22:21:53+00:00" data-subject="">
 
 So...
 
@@ -222,7 +222,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16785" data-author="13" data-date="2007-02-09T23:27:47+00:00">
+<div class="post" data-post-id="16785" data-author="13" data-date="2007-02-09T23:27:47+00:00" data-subject="">
 
 [img:vv7psm1i]http://www.peaksofotterwinery.com/albums/logos/coke.jpg[/img:vv7psm1i]
 
@@ -236,7 +236,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16788" data-author="Clink" data-date="2007-02-09T23:55:00+00:00">
+<div class="post" data-post-id="16788" data-author="Clink" data-date="2007-02-09T23:55:00+00:00" data-subject="">
 
 So...
 
@@ -246,7 +246,7 @@ This is an incorrect statement.
 
 </div>
 
-<div class="post" data-post-id="16789" data-author="12345" data-date="2007-02-10T01:11:05+00:00">
+<div class="post" data-post-id="16789" data-author="12345" data-date="2007-02-10T01:11:05+00:00" data-subject="">
 
 Al and Clink are both smart and stubborn.  
 

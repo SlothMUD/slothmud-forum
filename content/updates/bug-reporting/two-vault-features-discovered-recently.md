@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="33725" data-author="Yasik" data-date="2012-11-13T11:17:27+00:00">
+<div class="post" data-post-id="33725" data-author="Yasik" data-date="2012-11-13T11:17:27+00:00" data-subject="Two vault features discovered recently">
 
 Hello!
 
@@ -26,7 +26,7 @@ Not sure what fix is the proper fix, though.
 
 </div>
 
-<div class="post" data-post-id="33726" data-author="*juggleblood*" data-date="2012-11-13T12:20:23+00:00">
+<div class="post" data-post-id="33726" data-author="*juggleblood*" data-date="2012-11-13T12:20:23+00:00" data-subject="Re: Two vault features discovered recently">
 
 I can tell you that Freshwater checks both for an indoors flag and sector type. Your vault room tells me it's not flagged indoors, thus the weather, but the sector type is invalid for the spell.
 
@@ -34,7 +34,7 @@ The house buying / modification requires a coder to look at (not me), but if you
 
 </div>
 
-<div class="post" data-post-id="33767" data-author="Yasik" data-date="2012-11-16T16:31:24+00:00">
+<div class="post" data-post-id="33767" data-author="Yasik" data-date="2012-11-16T16:31:24+00:00" data-subject="Re: Two vault features discovered recently">
 
 Thanks, but my vaults no longer need admin intervention.
 
@@ -42,7 +42,7 @@ What I'm sayin' is if you give us the freedom to customize our ingame property, 
 
 </div>
 
-<div class="post" data-post-id="33768" data-author="*Breeze*" data-date="2012-11-16T17:07:03+00:00">
+<div class="post" data-post-id="33768" data-author="*Breeze*" data-date="2012-11-16T17:07:03+00:00" data-subject="Re: Two vault features discovered recently">
 
 its a freakin bug. it happens. quit nagging.
 

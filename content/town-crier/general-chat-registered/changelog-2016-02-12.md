@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36586" data-author="*teker*" data-date="2016-02-12T15:46:09+00:00">
+<div class="post" data-post-id="36586" data-author="*teker*" data-date="2016-02-12T15:46:09+00:00" data-subject="Changelog 2016-02-12">
 
 Went through a number of bugs:
 
@@ -68,19 +68,19 @@ The eqset code is back in but needs to be toggled on by a god.  There's more bug
 
 </div>
 
-<div class="post" data-post-id="36587" data-author="*teker*" data-date="2016-02-12T15:53:11+00:00">
+<div class="post" data-post-id="36587" data-author="*teker*" data-date="2016-02-12T15:53:11+00:00" data-subject="Re: Changelog 2016-02-12">
 
 Also - there's a large number of bugs that have been filed about problems with the web site.  Is anyone still having issues logging in?
 
 </div>
 
-<div class="post" data-post-id="36588" data-author="*Breeze*" data-date="2016-02-12T19:35:30+00:00">
+<div class="post" data-post-id="36588" data-author="*Breeze*" data-date="2016-02-12T19:35:30+00:00" data-subject="Re: Changelog 2016-02-12">
 
 I seem to remember fixing that.
 
 </div>
 
-<div class="post" data-post-id="36589" data-author="*Splork*" data-date="2016-02-12T20:21:03+00:00">
+<div class="post" data-post-id="36589" data-author="*Splork*" data-date="2016-02-12T20:21:03+00:00" data-subject="Re: Changelog 2016-02-12">
 
 That was fixed on 2/2/16. There were two separate issues and both were addressed.
 

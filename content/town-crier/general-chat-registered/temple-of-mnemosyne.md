@@ -10,13 +10,13 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="39075" data-author="Gorka" data-date="2019-01-24T10:42:42+00:00">
+<div class="post" data-post-id="39075" data-author="Gorka" data-date="2019-01-24T10:42:42+00:00" data-subject="Temple of Mnemosyne">
 
 Is the fact that I need a prime bard or the ability to multiplay to enter temple of mnemosyne going to continue to be "a thing." Honestly, I have no idea why an area has been made only certain chars can enter. It's unprecedented in sloth... unless it's the immortal zones of course. Can the access to mnemosyne be reviewed please?
 
 </div>
 
-<div class="post" data-post-id="39076" data-author="Josiah" data-date="2019-01-24T22:33:34+00:00">
+<div class="post" data-post-id="39076" data-author="Josiah" data-date="2019-01-24T22:33:34+00:00" data-subject="Re: Temple of Mnemosyne">
 
 There are a couple ways to sneak in without a bard. 
 
@@ -24,7 +24,7 @@ There is precedent for areas that require a specific class (Morgan/Dark Mace com
 
 </div>
 
-<div class="post" data-post-id="39355" data-author="Gorka" data-date="2020-01-19T13:24:24+00:00">
+<div class="post" data-post-id="39355" data-author="Gorka" data-date="2020-01-19T13:24:24+00:00" data-subject="Re: Temple of Mnemosyne">
 
 I've prepared a draft map for Mnemosyne so we can all run it a bit easier in the future. The mobs are huge and are all no stab, but there is surely eq in this zone that has never been loaded.
 
@@ -38,7 +38,7 @@ It would appear there should be 10 "goddess" mobs... It would appear only Callio
 
 </div>
 
-<div class="post" data-post-id="39397" data-author="Gorka" data-date="2020-03-18T22:57:16+00:00">
+<div class="post" data-post-id="39397" data-author="Gorka" data-date="2020-03-18T22:57:16+00:00" data-subject="Re: Temple of Mnemosyne">
 
 I've been whittling away loading the undiscovered eq in Temple of Mnemosyne. It seems to be all fairly sub standard stuff, mostly bard related. There is one mob which I can't get to due to a bug I am waiting for Neptune and Teker to fix.
 
@@ -90,7 +90,7 @@ Bugged Poet
 
 </div>
 
-<div class="post" data-post-id="39404" data-author="Gorka" data-date="2020-03-21T19:21:32+00:00">
+<div class="post" data-post-id="39404" data-author="Gorka" data-date="2020-03-21T19:21:32+00:00" data-subject="Re: Temple of Mnemosyne">
 
 Thalia
 
@@ -136,7 +136,7 @@ least three classes may use this item.
 
 </div>
 
-<div class="post" data-post-id="39407" data-author="Gorka" data-date="2020-03-23T19:06:07+00:00">
+<div class="post" data-post-id="39407" data-author="Gorka" data-date="2020-03-23T19:06:07+00:00" data-subject="Re: Temple of Mnemosyne">
 
 https://en.wikipedia.org/wiki/Muses
 

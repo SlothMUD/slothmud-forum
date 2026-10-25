@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="27355" data-author="syllogistic" data-date="2008-12-04T04:50:58+00:00">
+<div class="post" data-post-id="27355" data-author="syllogistic" data-date="2008-12-04T04:50:58+00:00" data-subject="Characters for Sale">
 
 Your levels:  Ba: 40 Dr: 27 Cl: 17 Ne: 6 
 
@@ -296,7 +296,7 @@ Auction ends in one week from now.[/b:g5wotzig]
 
 </div>
 
-<div class="post" data-post-id="27356" data-author="Leaf" data-date="2008-12-04T14:29:04+00:00">
+<div class="post" data-post-id="27356" data-author="Leaf" data-date="2008-12-04T14:29:04+00:00" data-subject="">
 
 Going by the AC, it looks like you had eq with those stats.  What are the
 
@@ -304,7 +304,7 @@ natural stats?  That might help with ur sells :)
 
 </div>
 
-<div class="post" data-post-id="27357" data-author="Stryx" data-date="2008-12-04T18:38:54+00:00">
+<div class="post" data-post-id="27357" data-author="Stryx" data-date="2008-12-04T18:38:54+00:00" data-subject="">
 
 Names would be good too....
 
@@ -312,7 +312,7 @@ IMAPUFF for the warrior just wouldnt do it for me.
 
 </div>
 
-<div class="post" data-post-id="27358" data-author="Sind" data-date="2008-12-04T19:24:59+00:00">
+<div class="post" data-post-id="27358" data-author="Sind" data-date="2008-12-04T19:24:59+00:00" data-subject="">
 
 crappiest char sale ever. 
 
@@ -320,13 +320,13 @@ for usd? stop smoking that stuff.
 
 </div>
 
-<div class="post" data-post-id="27359" data-author="Sind" data-date="2008-12-04T19:26:30+00:00">
+<div class="post" data-post-id="27359" data-author="Sind" data-date="2008-12-04T19:26:30+00:00" data-subject="">
 
 tho years old ruyi is nice
 
 </div>
 
-<div class="post" data-post-id="27360" data-author="syllogistic" data-date="2008-12-04T21:19:41+00:00">
+<div class="post" data-post-id="27360" data-author="syllogistic" data-date="2008-12-04T21:19:41+00:00" data-subject="">
 
 Going by the AC, it looks like you had eq with those stats.  What are the
 
@@ -450,13 +450,13 @@ I must also mention that I am selling all of these together. I *might* have two 
 
 </div>
 
-<div class="post" data-post-id="27361" data-author="syllogistic" data-date="2008-12-04T21:25:23+00:00">
+<div class="post" data-post-id="27361" data-author="syllogistic" data-date="2008-12-04T21:25:23+00:00" data-subject="">
 
 Oh and the Azul is a restrung thunderbolt, of course.
 
 </div>
 
-<div class="post" data-post-id="27362" data-author="Leaf" data-date="2008-12-04T22:02:45+00:00">
+<div class="post" data-post-id="27362" data-author="Leaf" data-date="2008-12-04T22:02:45+00:00" data-subject="">
 
 Well best of luck on the sell, u won't get much.  The only item that is really
 
@@ -464,7 +464,7 @@ sweet is the Ruyi.  Best of luck!!!
 
 </div>
 
-<div class="post" data-post-id="27365" data-author="Roadrunr" data-date="2008-12-05T00:12:18+00:00">
+<div class="post" data-post-id="27365" data-author="Roadrunr" data-date="2008-12-05T00:12:18+00:00" data-subject="">
 
 good luck.  I've given away half a dozen chars with better stats than those.  seriously, 1x18 and 2x18 arent cash characters unless you've got a bunch of great eq with them (and then whoever is paying cash is probably dong it for the eq).
 
@@ -474,7 +474,7 @@ heck, I've got a wa ne cl ma that I've thought about selling with 18.53 18 14 18
 
 </div>
 
-<div class="post" data-post-id="27366" data-author="syllogistic" data-date="2008-12-05T00:26:13+00:00">
+<div class="post" data-post-id="27366" data-author="syllogistic" data-date="2008-12-05T00:26:13+00:00" data-subject="">
 
 good luck.  I've given away half a dozen chars with better stats than those.  seriously, 1x18 and 2x18 arent cash characters unless you've got a bunch of great eq with them (and then whoever is paying cash is probably dong it for the eq).
 
@@ -488,7 +488,7 @@ i don't play the game anymore, i haven't for quite a bit, and i don't plan on do
 
 </div>
 
-<div class="post" data-post-id="27368" data-author="*juggleblood*" data-date="2008-12-05T16:49:13+00:00">
+<div class="post" data-post-id="27368" data-author="*juggleblood*" data-date="2008-12-05T16:49:13+00:00" data-subject="">
 
 The ruyi and the restring are valuable. That bard ain't bad either, depending on nat stats.
 

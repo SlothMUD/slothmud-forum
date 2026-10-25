@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="32451" data-author="Sam" data-date="2011-03-01T21:30:56+00:00">
+<div class="post" data-post-id="32451" data-author="Sam" data-date="2011-03-01T21:30:56+00:00" data-subject="lost gem after shock on 26 feb">
 
 The corpse of Sam lets out its final death groan. The smell is dreadful.
 
@@ -346,7 +346,7 @@ Tuk pats Spag on the back.
 
 </div>
 
-<div class="post" data-post-id="32452" data-author="Sam" data-date="2011-03-01T21:32:08+00:00">
+<div class="post" data-post-id="32452" data-author="Sam" data-date="2011-03-01T21:32:08+00:00" data-subject="Re: lost gem after shock on 26 feb">
 
 just noticed it, and im very sad :(
 
@@ -356,13 +356,13 @@ so if you happened to pop it off lady, well gz. *grin*
 
 </div>
 
-<div class="post" data-post-id="32453" data-author="Teron" data-date="2011-03-01T23:09:11+00:00">
+<div class="post" data-post-id="32453" data-author="Teron" data-date="2011-03-01T23:09:11+00:00" data-subject="Re: lost gem after shock on 26 feb">
 
 Shyla got it later, talk to her.
 
 </div>
 
-<div class="post" data-post-id="32454" data-author="Shyla" data-date="2011-03-01T23:59:48+00:00">
+<div class="post" data-post-id="32454" data-author="Shyla" data-date="2011-03-01T23:59:48+00:00" data-subject="Re: lost gem after shock on 26 feb">
 
 I killed a lady because she was stealing coins and i popped it off her and I saved it because I knew it had to have been looted from someones body i just wasn't sure whose body it was looted from.
 
@@ -380,7 +380,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="32455" data-author="Sam" data-date="2011-03-02T15:46:41+00:00">
+<div class="post" data-post-id="32455" data-author="Sam" data-date="2011-03-02T15:46:41+00:00" data-subject="Re: lost gem after shock on 26 feb">
 
 wohoo! thx  :oops:
 

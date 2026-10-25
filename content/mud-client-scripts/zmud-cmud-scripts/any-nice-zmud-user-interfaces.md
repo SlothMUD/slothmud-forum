@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="14536" data-author="Absu" data-date="2006-10-05T07:43:25+00:00">
+<div class="post" data-post-id="14536" data-author="Absu" data-date="2006-10-05T07:43:25+00:00" data-subject="Any nice zMUD user interfaces?">
 
 I know a lot of people here use wintin, but I'm used to zMUD and I want to stick with it.
 
@@ -22,7 +22,7 @@ Anyone have any scripts they'd like to share to add something like that to zMUD?
 
 </div>
 
-<div class="post" data-post-id="14544" data-author="Akasha" data-date="2006-10-05T16:25:13+00:00">
+<div class="post" data-post-id="14544" data-author="Akasha" data-date="2006-10-05T16:25:13+00:00" data-subject="">
 
 hehe, i remember those days when i spent my time making all those neat windows... I'm Xandora btw, and I think I still have all those scripts saved somewhere on my desktop.
 

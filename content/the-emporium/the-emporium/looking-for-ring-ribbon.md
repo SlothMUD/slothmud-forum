@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="5186" data-author="Sind" data-date="2005-03-20T05:36:45+00:00">
+<div class="post" data-post-id="5186" data-author="Sind" data-date="2005-03-20T05:36:45+00:00" data-subject="looking for ring ribbon">
 
 have coins/eq.
 
@@ -20,7 +20,7 @@ thanks :)
 
 </div>
 
-<div class="post" data-post-id="5187" data-author="Weasel" data-date="2005-03-20T05:52:46+00:00">
+<div class="post" data-post-id="5187" data-author="Weasel" data-date="2005-03-20T05:52:46+00:00" data-subject="">
 
 This item's been removed now hasn't it? (except for existing ones of course).. and could anyone use it, or only if you have shapeshift in your classo somewhere?
 
@@ -28,7 +28,7 @@ Should bring it back, or something similar for resist fire/cold since they've be
 
 </div>
 
-<div class="post" data-post-id="5188" data-author="Alberich" data-date="2005-03-20T06:00:51+00:00">
+<div class="post" data-post-id="5188" data-author="Alberich" data-date="2005-03-20T06:00:51+00:00" data-subject="">
 
 yeah, they've been removed, and no you don't need druid in classo - mine still works fine
 

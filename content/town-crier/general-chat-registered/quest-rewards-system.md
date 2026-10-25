@@ -10,7 +10,7 @@ locked: false
 post_count: 62
 ---
 
-<div class="post" data-post-id="18333" data-author="Rynquald" data-date="2007-05-06T13:56:47+00:00">
+<div class="post" data-post-id="18333" data-author="Rynquald" data-date="2007-05-06T13:56:47+00:00" data-subject="Quest Rewards System">
 
 Firstly, I would like to say that the Quest of the Celestials was the best quest in some time, many thanks to Akasha for putting in what must have been many hours of hard work to set up and run it for our enjoyment, and everyone who participated.
 
@@ -34,13 +34,13 @@ As a final note, I will repeat that I do not begrudge any winners of quest items
 
 </div>
 
-<div class="post" data-post-id="18334" data-author="Yasik" data-date="2007-05-06T14:27:05+00:00">
+<div class="post" data-post-id="18334" data-author="Yasik" data-date="2007-05-06T14:27:05+00:00" data-subject="">
 
 Thats why i stay away from all quests where rewards are distributed by human beings.
 
 </div>
 
-<div class="post" data-post-id="18338" data-author="brady" data-date="2007-05-06T16:21:31+00:00">
+<div class="post" data-post-id="18338" data-author="brady" data-date="2007-05-06T16:21:31+00:00" data-subject="">
 
 There are going to be the dissappointed regardless of how eq is distributed.  Personally, I think randoming rewards the complacent but that's just my opinion.  In the end, we were all rewarded.
 
@@ -50,7 +50,7 @@ Thanks Atwell...your patience was equally impressive!
 
 </div>
 
-<div class="post" data-post-id="18342" data-author="Nascosto" data-date="2007-05-06T16:56:55+00:00">
+<div class="post" data-post-id="18342" data-author="Nascosto" data-date="2007-05-06T16:56:55+00:00" data-subject="">
 
 I never seem to get items in these quests and that's ok with me - the drachma (and fun) was more than worth my time.
 
@@ -58,13 +58,13 @@ Thanks Akasha, Atwell etc.
 
 </div>
 
-<div class="post" data-post-id="18343" data-author="Yinao" data-date="2007-05-06T18:42:35+00:00">
+<div class="post" data-post-id="18343" data-author="Yinao" data-date="2007-05-06T18:42:35+00:00" data-subject="">
 
 I was in the same boat as many others with the ring of the assassin, however, I stayed till the end of the system where some people got what they wanted and some got what they didnt want. Did I mind that some other players characters got rewards after the Immortal directly didnt want to repersonallize a thief prime set of personal sleeves for their alt but anther char scores a ring of the assassin for their thief? There isn't ever going to be a "right" or "fair" way to pick eq out of a bag. The only way to make it fair is make duplicates and if you want one you get one which is never gunna happen.... I got eq that I coulda solo'd to pop but who cares I enjoyed the quest and got drachma I'm happy :D. I dont plan on not entering a quest just because of the quest eq handing out. Handing out any eq is better than just drachma for all and no eq :).
 
 </div>
 
-<div class="post" data-post-id="18344" data-author="Akasha" data-date="2007-05-06T19:27:14+00:00">
+<div class="post" data-post-id="18344" data-author="Akasha" data-date="2007-05-06T19:27:14+00:00" data-subject="">
 
 There is no quote unquote fair system of handling eq distribution in quests.  This is one reason I have stayed away from running any quests for several years.  I said it last night, and I'll say it here, I would have uesd the same method as Atwell to distribute eq, random rolling for want and need.  
 
@@ -86,13 +86,13 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="18346" data-author="brady" data-date="2007-05-06T19:56:28+00:00">
+<div class="post" data-post-id="18346" data-author="brady" data-date="2007-05-06T19:56:28+00:00" data-subject="">
 
 Or you could just up the drachma, and screw the eq.  People are going to either gripe that the eq always go to the same people (even though they probably brought the most to the table) or they are going to gripe because randoming for quest eq is bullshit.  Up the drachma so everyone can get something that they actually want and maybe throw in something extra for the leader.
 
 </div>
 
-<div class="post" data-post-id="18347" data-author="12345" data-date="2007-05-06T21:01:36+00:00">
+<div class="post" data-post-id="18347" data-author="12345" data-date="2007-05-06T21:01:36+00:00" data-subject="">
 
 When you got 60+ people in a quest group there's really not much you can do besides random.  It gets really hard to keep track of who contributed what.
 
@@ -100,7 +100,7 @@ I've been messing around with an idea that I'm hoping works a little better.  Pr
 
 </div>
 
-<div class="post" data-post-id="18348" data-author="brady" data-date="2007-05-06T21:23:36+00:00">
+<div class="post" data-post-id="18348" data-author="brady" data-date="2007-05-06T21:23:36+00:00" data-subject="">
 
 In a large group like yesterday's, it would make sense to vote on the top 6 or so pieces and random for the rest.  There are going to be people that go the extra mile and people that hardly even pay attention.  The rewards should really be a reflection of that.
 
@@ -108,7 +108,7 @@ Alas, it was Atwell's call and he did a great job under less than ideal circumst
 
 </div>
 
-<div class="post" data-post-id="18349" data-author="Rynquald" data-date="2007-05-06T21:27:39+00:00">
+<div class="post" data-post-id="18349" data-author="Rynquald" data-date="2007-05-06T21:27:39+00:00" data-subject="">
 
 Just clarifying, I was in favour of randoming, and for this instance I was defining "fair" as a system in which there is no room for manipulation, criteria that randoming meets perfectly, until it is ignored when it suits certain people.
 
@@ -118,7 +118,7 @@ Also thanks to the people that replied for not merely telling me to stfu, and ac
 
 </div>
 
-<div class="post" data-post-id="18350" data-author="Atwell" data-date="2007-05-06T21:38:49+00:00">
+<div class="post" data-post-id="18350" data-author="Atwell" data-date="2007-05-06T21:38:49+00:00" data-subject="">
 
 I attempted to distribute equipment in a just manner.  The system I used was certainly not egalitarian; I did not intend it to be such.  I used the following principles to guide my decisions:
 
@@ -148,7 +148,7 @@ I regret that you regard my actions as disgustingly mocking fairness, Rynquald. 
 
 </div>
 
-<div class="post" data-post-id="18351" data-author="Rynquald" data-date="2007-05-06T21:55:59+00:00">
+<div class="post" data-post-id="18351" data-author="Rynquald" data-date="2007-05-06T21:55:59+00:00" data-subject="">
 
 I think it's at the leader's discretion to pick a system that suits them, whatever it may be, I solely have a problem with the system seemingly being changed on a whim in the midst of distribution.
 
@@ -156,7 +156,7 @@ I do appreciate the difficult position a leader is placed in at the end of a que
 
 </div>
 
-<div class="post" data-post-id="18352" data-author="Mosaix" data-date="2007-05-06T22:10:42+00:00">
+<div class="post" data-post-id="18352" data-author="Mosaix" data-date="2007-05-06T22:10:42+00:00" data-subject="">
 
 Thanks Akasha for what was a ton of fun the last 2 weeks.  The build up, mini quests and end quest were all fun.
 
@@ -222,7 +222,7 @@ Mosaix/Broc
 
 </div>
 
-<div class="post" data-post-id="18353" data-author="Elwood" data-date="2007-05-06T23:25:32+00:00">
+<div class="post" data-post-id="18353" data-author="Elwood" data-date="2007-05-06T23:25:32+00:00" data-subject="">
 
 I've run a million of them and there really is no way to make everyone happy Dave.  I've even just created items that people needed on a personal basis as the quest reward and still had people cry.  Sounds like you did a great job and put a lot of effort into it.  Good job.
 
@@ -230,7 +230,7 @@ I've run a million of them and there really is no way to make everyone happy Dav
 
 </div>
 
-<div class="post" data-post-id="18354" data-author="Ezekiel" data-date="2007-05-07T00:18:07+00:00">
+<div class="post" data-post-id="18354" data-author="Ezekiel" data-date="2007-05-07T00:18:07+00:00" data-subject="">
 
 Yes...it is chaotic. That's why you create a system for choosing. With all of the nice eq that was to be doled out...randoming for calls in gjob was an excellent way. Even if the provision about the 'particpant char only' calls was listed at the start of evreyone randoming, i'm sure everyone would have been fine with it. It's just when you have a system to deal with the chaos and start altering that system at your leisure (coincidentally when the best quest items come up)and just start giving away a few and then revert back to the system, you are negating the effort that your group put out and saying that your esteem as a leader is more important than their efforts...which in some senses may be the case, but that's why the tank and leader are rewarded well anyway. 
 
@@ -240,7 +240,7 @@ Let the random function and the voice of the group take the blame for being at f
 
 </div>
 
-<div class="post" data-post-id="18355" data-author="Akasha" data-date="2007-05-07T00:21:04+00:00">
+<div class="post" data-post-id="18355" data-author="Akasha" data-date="2007-05-07T00:21:04+00:00" data-subject="">
 
 You picked, toxis picked.  Fine.
 
@@ -250,7 +250,7 @@ Actually no, I picked Toxis
 
 </div>
 
-<div class="post" data-post-id="18356" data-author="madmax" data-date="2007-05-07T01:12:36+00:00">
+<div class="post" data-post-id="18356" data-author="madmax" data-date="2007-05-07T01:12:36+00:00" data-subject="">
 
 I enjoyed the miniquests and the final one, it was becoming difficult to stay awake through the eq mess at the end thougt, since it was 3:30 am.  Kudos to Akasha, Atwell, Toxis, etc.  Like Mosaix, I have participated in many quests.  Only once have I ever received any decent items of the handed out variety.  The only reason I got that one was the item was Cleric Prime restricted.  I lost count of how many raises I did, I only shocked one player as I remember.  I was basically constantly out of mana from the heals, raises, etc.  
 
@@ -272,7 +272,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="18357" data-author="Malison" data-date="2007-05-07T01:16:28+00:00">
+<div class="post" data-post-id="18357" data-author="Malison" data-date="2007-05-07T01:16:28+00:00" data-subject="">
 
 [quote:2dqspbeo]2) Equipment belongs on characters played earnestly moreso than on players played casually. When a player values one of his characters above all his others, he brings that character to quests. It is by this judgement that I restricted a roll to prime thieves actually present.[/quote:2dqspbeo]
 
@@ -312,7 +312,7 @@ And once again thanks to Akasha and Atwell for great quest, good prizes, and gre
 
 </div>
 
-<div class="post" data-post-id="18358" data-author="tincts" data-date="2007-05-07T01:17:53+00:00">
+<div class="post" data-post-id="18358" data-author="tincts" data-date="2007-05-07T01:17:53+00:00" data-subject="">
 
 My one suggestion would be that leader comes up with whatever system they choose (assuming they can guess roughly what form the rewards will be in) and posts this system before the quest.  Again, this will only work for preannounced quests, but then people know what is involved, and there can be no accusations.  
 
@@ -322,7 +322,7 @@ Was a great quest, I thought the reward handout was at least attempted to be fai
 
 </div>
 
-<div class="post" data-post-id="18360" data-author="Mosaix" data-date="2007-05-07T01:22:56+00:00">
+<div class="post" data-post-id="18360" data-author="Mosaix" data-date="2007-05-07T01:22:56+00:00" data-subject="">
 
 To akasha
 
@@ -330,7 +330,7 @@ on that specific quote i really just meant the record of what occured.  They wen
 
 </div>
 
-<div class="post" data-post-id="18361" data-author="Rynquald" data-date="2007-05-07T01:30:05+00:00">
+<div class="post" data-post-id="18361" data-author="Rynquald" data-date="2007-05-07T01:30:05+00:00" data-subject="">
 
 Just pointing out to Malison, a lot of the people that changed their gjobs did so after the item they wanted was given out without a random.
 
@@ -338,7 +338,7 @@ Nekode/Gauntlets were gjobbed by a lot of people, they had to do something.
 
 </div>
 
-<div class="post" data-post-id="18362" data-author="Weasel" data-date="2007-05-07T01:48:36+00:00">
+<div class="post" data-post-id="18362" data-author="Weasel" data-date="2007-05-07T01:48:36+00:00" data-subject="">
 
 In a large group like yesterday's, it would make sense to vote on the top 6 or so pieces and random for the rest.[/quote:3dgglu4d]
 
@@ -350,19 +350,19 @@ Thanks Akasha, the quest and the build up with the miniquests over the preceding
 
 </div>
 
-<div class="post" data-post-id="18363" data-author="Weasel" data-date="2007-05-07T02:09:02+00:00">
+<div class="post" data-post-id="18363" data-author="Weasel" data-date="2007-05-07T02:09:02+00:00" data-subject="">
 
 Perhaps there should be some way to reward the immort concerned for creating each quest.. not sure how.. maybe crachma to one of their alts? Akasha obviously put a huge amount of effort into this, and it would be nice to see some reward for that - it's not like immorts are forced to run quests. Any suggestions?
 
 </div>
 
-<div class="post" data-post-id="18364" data-author="Ezekiel" data-date="2007-05-07T02:34:40+00:00">
+<div class="post" data-post-id="18364" data-author="Ezekiel" data-date="2007-05-07T02:34:40+00:00" data-subject="">
 
 I'd also like to point out to malison that mike...who ran more than one mini-quest, was not the only one handed high quest eq rather than having a randoming for gjob
 
 </div>
 
-<div class="post" data-post-id="18367" data-author="13" data-date="2007-05-07T11:40:29+00:00">
+<div class="post" data-post-id="18367" data-author="13" data-date="2007-05-07T11:40:29+00:00" data-subject="">
 
 so weasel got the .4 10 spelldam ring
 
@@ -380,7 +380,7 @@ fess up folks what did everyone else get
 
 </div>
 
-<div class="post" data-post-id="18368" data-author="Gimlet" data-date="2007-05-07T13:22:13+00:00">
+<div class="post" data-post-id="18368" data-author="Gimlet" data-date="2007-05-07T13:22:13+00:00" data-subject="">
 
 i got a succor spellbook!
 
@@ -396,7 +396,7 @@ al
 
 </div>
 
-<div class="post" data-post-id="18369" data-author="Corinn" data-date="2007-05-07T13:30:53+00:00">
+<div class="post" data-post-id="18369" data-author="Corinn" data-date="2007-05-07T13:30:53+00:00" data-subject="">
 
 I got Jet-Black Shoulder Guards
 
@@ -406,7 +406,7 @@ Not too shabby   :D
 
 </div>
 
-<div class="post" data-post-id="18370" data-author="Shazuko" data-date="2007-05-07T13:51:13+00:00">
+<div class="post" data-post-id="18370" data-author="Shazuko" data-date="2007-05-07T13:51:13+00:00" data-subject="">
 
 this was one of the most intricate storyline-based quests I've seen on the mud in a long time...I can't believe this thread even exists...even though I wasn't in it, I followed the events -my compliments--you guys need to except the intrinsic fact that giving out eq at the end of the quest is NEVER going to be perfect, or satisfy everyone all the time. by trying to find a coded 'system' for it, your only going to make it worse! 
 
@@ -428,7 +428,7 @@ INGENIUM RES ADVERSAE NUDARE SOLENT, CELARE SECUNDAE.
 
 </div>
 
-<div class="post" data-post-id="18373" data-author="Autolycos" data-date="2007-05-07T14:44:41+00:00">
+<div class="post" data-post-id="18373" data-author="Autolycos" data-date="2007-05-07T14:44:41+00:00" data-subject="">
 
 what else did I miss?  fess up folks what did everyone else get[/quote:y2cn1u7s]
 
@@ -454,7 +454,7 @@ Only those who are at least master thieves and supreme warriors may use this ite
 
 </div>
 
-<div class="post" data-post-id="18374" data-author="banedon" data-date="2007-05-07T15:04:06+00:00">
+<div class="post" data-post-id="18374" data-author="banedon" data-date="2007-05-07T15:04:06+00:00" data-subject="">
 
 something went wrong with the inital post.  This is how it was supposed to look
 
@@ -466,7 +466,7 @@ I got the Shirt of Mithril Rings -2.5ac   +5 HP, +1 HP Regen	ST SW SBa SMo [OR] 
 
 </div>
 
-<div class="post" data-post-id="18383" data-author="Messiaen" data-date="2007-05-07T19:27:05+00:00">
+<div class="post" data-post-id="18383" data-author="Messiaen" data-date="2007-05-07T19:27:05+00:00" data-subject="">
 
 I can only see 2 fair methods of distributing quest eq:
 
@@ -490,7 +490,7 @@ P.S. Grand respect to Atwell and Akasha.
 
 </div>
 
-<div class="post" data-post-id="18384" data-author="Messiaen" data-date="2007-05-07T19:28:19+00:00">
+<div class="post" data-post-id="18384" data-author="Messiaen" data-date="2007-05-07T19:28:19+00:00" data-subject="">
 
 I can only see 2 fair methods of distributing quest eq:
 
@@ -514,13 +514,13 @@ P.S. Grand respect to Atwell and Akasha.
 
 </div>
 
-<div class="post" data-post-id="18385" data-author="Messiaen" data-date="2007-05-07T19:31:05+00:00">
+<div class="post" data-post-id="18385" data-author="Messiaen" data-date="2007-05-07T19:31:05+00:00" data-subject="">
 
 Oop! Sorry for double post, thought there was some error.
 
 </div>
 
-<div class="post" data-post-id="18388" data-author="13" data-date="2007-05-07T20:14:22+00:00">
+<div class="post" data-post-id="18388" data-author="13" data-date="2007-05-07T20:14:22+00:00" data-subject="">
 
 randoming for quest eq is gay
 
@@ -530,7 +530,7 @@ what did you get?
 
 </div>
 
-<div class="post" data-post-id="18389" data-author="Autolycos" data-date="2007-05-07T20:22:57+00:00">
+<div class="post" data-post-id="18389" data-author="Autolycos" data-date="2007-05-07T20:22:57+00:00" data-subject="">
 
 I agree Messiaen is gay!
 
@@ -538,7 +538,7 @@ Yinao confirmed it! :twisted:
 
 </div>
 
-<div class="post" data-post-id="18391" data-author="Messiaen" data-date="2007-05-07T20:45:44+00:00">
+<div class="post" data-post-id="18391" data-author="Messiaen" data-date="2007-05-07T20:45:44+00:00" data-subject="">
 
 Object 'gauntlets black despair quest low limit given_out ', Item type: UNDEFINED
 
@@ -558,7 +558,7 @@ necromancers, or monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="18392" data-author="Avalon" data-date="2007-05-07T21:55:30+00:00">
+<div class="post" data-post-id="18392" data-author="Avalon" data-date="2007-05-07T21:55:30+00:00" data-subject="">
 
 The only true fair method I've ever seen for distributing quest equipment was  done by Kjartan a few years ago.  He created an unique item (soapstone rose) and gave every member in the quest party a rose.  That's probably the only method that would be totally fair.  (There are only 7 of those roses in the game... and I gave mine away)
 
@@ -568,13 +568,13 @@ Thoughts?
 
 </div>
 
-<div class="post" data-post-id="18394" data-author="Messiaen" data-date="2007-05-07T22:15:25+00:00">
+<div class="post" data-post-id="18394" data-author="Messiaen" data-date="2007-05-07T22:15:25+00:00" data-subject="">
 
 Okay, whats the motivation to be useful for a group then?
 
 </div>
 
-<div class="post" data-post-id="18396" data-author="brady" data-date="2007-05-07T23:31:53+00:00">
+<div class="post" data-post-id="18396" data-author="brady" data-date="2007-05-07T23:31:53+00:00" data-subject="">
 
 Now please quit your silly moping and turn your heart to the creator. Amen.[/quote:599ehfan]
 
@@ -582,7 +582,7 @@ Point me in the direction of Jake.
 
 </div>
 
-<div class="post" data-post-id="18397" data-author="Avalon" data-date="2007-05-07T23:56:20+00:00">
+<div class="post" data-post-id="18397" data-author="Avalon" data-date="2007-05-07T23:56:20+00:00" data-subject="">
 
 If you need motivation for questing, then you've already lost the spirit of questing itself wouldn't you say?  And there's always the option of having the quest item for the group being improved or decreased based on the group's abilities.
 
@@ -604,7 +604,7 @@ I'm just proffering ideas.  There could also be another set of unique items give
 
 </div>
 
-<div class="post" data-post-id="18398" data-author="Medios" data-date="2007-05-08T00:14:20+00:00">
+<div class="post" data-post-id="18398" data-author="Medios" data-date="2007-05-08T00:14:20+00:00" data-subject="">
 
 After reading some of these posts I decided to hand my thorny vine bracelet down to Rynquald.  I know he was wanting something for his thief.  Although it is only a weekly thief item it is still out of game eq.  There you go Broc I passed down some "quest" eq for what I received.  It is sad that the only alternative you guys think of is "not handing out quest eq".  Somebody try leading a 20 man group then get back to me.  Good job Atwell I know how much of a pain these guys can be.  Much thanks to Akasha for running this well thought out quest.
 
@@ -614,7 +614,7 @@ PS 130 drachma just for the finale, Good God.  I remember Zarc killing us for 3 
 
 </div>
 
-<div class="post" data-post-id="18399" data-author="Mosaix" data-date="2007-05-08T00:26:19+00:00">
+<div class="post" data-post-id="18399" data-author="Mosaix" data-date="2007-05-08T00:26:19+00:00" data-subject="">
 
 Messiaen's post is written through some sort of rose colored glasses.
 
@@ -642,7 +642,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="18400" data-author="brady" data-date="2007-05-08T01:04:42+00:00">
+<div class="post" data-post-id="18400" data-author="brady" data-date="2007-05-08T01:04:42+00:00" data-subject="">
 
 It is sad that the only alternative you guys think of is "not handing out quest eq".  [/quote:3d077306]
 
@@ -654,7 +654,7 @@ What you failed to offer was a reasonable alternative that would stop everybody 
 
 </div>
 
-<div class="post" data-post-id="18401" data-author="Gimlet" data-date="2007-05-08T01:11:59+00:00">
+<div class="post" data-post-id="18401" data-author="Gimlet" data-date="2007-05-08T01:11:59+00:00" data-subject="">
 
 how bout doing this --
 
@@ -670,7 +670,7 @@ atwell did a great job.. he didn't panic, he didnt scream at people.  level-head
 
 </div>
 
-<div class="post" data-post-id="18403" data-author="Autolycos" data-date="2007-05-08T02:45:47+00:00">
+<div class="post" data-post-id="18403" data-author="Autolycos" data-date="2007-05-08T02:45:47+00:00" data-subject="">
 
 What you failed to offer was a reasonable alternative that would stop everybody from taking a dump on what should be a postive thing for the mud.[/quote:1zrjraoa]
 
@@ -682,7 +682,7 @@ it's as inevitable as Brad buying another char..
 
 </div>
 
-<div class="post" data-post-id="18404" data-author="Messiaen" data-date="2007-05-08T04:34:15+00:00">
+<div class="post" data-post-id="18404" data-author="Messiaen" data-date="2007-05-08T04:34:15+00:00" data-subject="">
 
 Mosaix, these are my rose colored glasses:
 
@@ -692,7 +692,7 @@ Mosaix, these are my rose colored glasses:
 
 </div>
 
-<div class="post" data-post-id="18405" data-author="Ezekiel" data-date="2007-05-08T04:50:39+00:00">
+<div class="post" data-post-id="18405" data-author="Ezekiel" data-date="2007-05-08T04:50:39+00:00" data-subject="">
 
 1. people can be tired of the bitching all they want...til it is them who gets shafted when a leader abandons his said system midstream...as i said before...this bitching would not be here if the said system from the start had been followed. i completely agree with mosaix.
 
@@ -704,7 +704,7 @@ Examples in contradiction: slavery, pthieving, etc...nuff said. These posts have
 
 </div>
 
-<div class="post" data-post-id="18406" data-author="Messiaen" data-date="2007-05-08T04:56:19+00:00">
+<div class="post" data-post-id="18406" data-author="Messiaen" data-date="2007-05-08T04:56:19+00:00" data-subject="">
 
 1. people can be tired of the bitching all they want...til it is them who gets shafted when a leader abandons his said system midstream...as i said before...this bitching would not be here if the said system from the start had been followed. i completely agree with mosaix.[/quote:36jlym4p]
 
@@ -718,19 +718,19 @@ Conversations like that only make me not want to have any business with some of 
 
 </div>
 
-<div class="post" data-post-id="18407" data-author="Ezekiel" data-date="2007-05-08T05:00:51+00:00">
+<div class="post" data-post-id="18407" data-author="Ezekiel" data-date="2007-05-08T05:00:51+00:00" data-subject="">
 
 I love how you assume just from your perspective that you did more than other 2 leaders who led minis...doesn't matter how many were under you anyway...there was a said system and your eq hand out came by defying it. A more noble soul would have hesitation being granted eq in such a way. Your 5.5 gigs means nothing...why don't you take a look at how well you'd done without clerics...look at their files and then tell me you deserve a hand out, egotist.
 
 </div>
 
-<div class="post" data-post-id="18408" data-author="Messiaen" data-date="2007-05-08T05:04:01+00:00">
+<div class="post" data-post-id="18408" data-author="Messiaen" data-date="2007-05-08T05:04:01+00:00" data-subject="">
 
 Lets get it straight - Atwell didn't say he rewarded me for leading miniq.
 
 </div>
 
-<div class="post" data-post-id="18409" data-author="Ezekiel" data-date="2007-05-08T05:07:25+00:00">
+<div class="post" data-post-id="18409" data-author="Ezekiel" data-date="2007-05-08T05:07:25+00:00" data-subject="">
 
 Ezekiel wrote: 
 
@@ -744,7 +744,7 @@ You were the one that said it...not me
 
 </div>
 
-<div class="post" data-post-id="18410" data-author="Messiaen" data-date="2007-05-08T05:09:08+00:00">
+<div class="post" data-post-id="18410" data-author="Messiaen" data-date="2007-05-08T05:09:08+00:00" data-subject="">
 
 I love how you assume just from your perspective that you did more than other 2 leaders who led minis...doesn't matter how many were under you anyway...there was a said system and your eq hand out came by defying it. A more noble soul would have hesitation being granted eq in such a way. Your 5.5 gigs means nothing...why don't you take a look at how well you'd done without clerics...look at their files and then tell me you deserve a hand out, egotist.[/quote:3oz04qo5]
 
@@ -754,13 +754,13 @@ The only hesitation I had was cause a few ppl that, in my opinion, did very well
 
 </div>
 
-<div class="post" data-post-id="18411" data-author="Ezekiel" data-date="2007-05-08T05:12:50+00:00">
+<div class="post" data-post-id="18411" data-author="Ezekiel" data-date="2007-05-08T05:12:50+00:00" data-subject="">
 
 funny how the tone changes when you start hearing the patronizing tone of your earlier posts...spin machine central...is that Tony Snow at the keys?
 
 </div>
 
-<div class="post" data-post-id="18412" data-author="Messiaen" data-date="2007-05-08T05:14:58+00:00">
+<div class="post" data-post-id="18412" data-author="Messiaen" data-date="2007-05-08T05:14:58+00:00" data-subject="">
 
 Ezekiel wrote: 
 
@@ -778,13 +778,13 @@ The reason I asked was actually to point out that leading 60 men group is a grea
 
 </div>
 
-<div class="post" data-post-id="18413" data-author="Ezekiel" data-date="2007-05-08T05:16:53+00:00">
+<div class="post" data-post-id="18413" data-author="Ezekiel" data-date="2007-05-08T05:16:53+00:00" data-subject="">
 
 Wow...did you take a class on spinning? Funny that you wouldn't include that in the previous post if that were the truth...nice delayed save.
 
 </div>
 
-<div class="post" data-post-id="18414" data-author="Messiaen" data-date="2007-05-08T05:19:12+00:00">
+<div class="post" data-post-id="18414" data-author="Messiaen" data-date="2007-05-08T05:19:12+00:00" data-subject="">
 
 Wow...did you take a class on spinning? Funny that you wouldn't include that in the previous post if that were the truth...nice delayed save.[/quote:1sr2kekq]
 
@@ -796,19 +796,19 @@ Can't see any reasons to keep this conversation going.
 
 </div>
 
-<div class="post" data-post-id="18415" data-author="Weasel" data-date="2007-05-08T05:22:05+00:00">
+<div class="post" data-post-id="18415" data-author="Weasel" data-date="2007-05-08T05:22:05+00:00" data-subject="">
 
 Please chill out - keep it up and we may not get any more quests.
 
 </div>
 
-<div class="post" data-post-id="18421" data-author="Alberich" data-date="2007-05-08T14:02:03+00:00">
+<div class="post" data-post-id="18421" data-author="Alberich" data-date="2007-05-08T14:02:03+00:00" data-subject="">
 
 [img:3jyr0tlw]http://www.carmenyuen.com/images/albums/photoblog/07/167_whine.jpg[/img:3jyr0tlw]
 
 </div>
 
-<div class="post" data-post-id="18422" data-author="Autolycos" data-date="2007-05-08T14:51:31+00:00">
+<div class="post" data-post-id="18422" data-author="Autolycos" data-date="2007-05-08T14:51:31+00:00" data-subject="">
 
 As always, 
 
@@ -816,13 +816,13 @@ We can count on Adam to bring things back into perspective!  8)
 
 </div>
 
-<div class="post" data-post-id="18431" data-author="13" data-date="2007-05-08T17:47:11+00:00">
+<div class="post" data-post-id="18431" data-author="13" data-date="2007-05-08T17:47:11+00:00" data-subject="">
 
 This is like watching the special olympics.
 
 </div>
 
-<div class="post" data-post-id="18433" data-author="Autolycos" data-date="2007-05-08T17:52:13+00:00">
+<div class="post" data-post-id="18433" data-author="Autolycos" data-date="2007-05-08T17:52:13+00:00" data-subject="">
 
 This is like watching the special olympics.[/quote:2ifhqea5]
 
@@ -832,7 +832,7 @@ This is like watching the special olympics.[/quote:2ifhqea5]
 
 </div>
 
-<div class="post" data-post-id="18438" data-author="Yinao" data-date="2007-05-08T18:54:35+00:00">
+<div class="post" data-post-id="18438" data-author="Yinao" data-date="2007-05-08T18:54:35+00:00" data-subject="">
 
 Lmfao that was good auto and here goes to you.
 

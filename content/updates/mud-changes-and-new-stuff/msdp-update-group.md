@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="35458" data-author="*Splork*" data-date="2014-10-18T13:47:37+00:00">
+<div class="post" data-post-id="35458" data-author="*Splork*" data-date="2014-10-18T13:47:37+00:00" data-subject="MSDP Update ( Group )">
 
 Added a new variable called group. It looks something like the following:
 
@@ -58,7 +58,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35459" data-author="*Breeze*" data-date="2014-10-19T05:25:51+00:00">
+<div class="post" data-post-id="35459" data-author="*Breeze*" data-date="2014-10-19T05:25:51+00:00" data-subject="Re: MSDP Update ( Group )">
 
 You could add 'pstate'
 
@@ -82,7 +82,7 @@ Etc
 
 </div>
 
-<div class="post" data-post-id="35460" data-author="*Splork*" data-date="2014-10-19T23:36:36+00:00">
+<div class="post" data-post-id="35460" data-author="*Splork*" data-date="2014-10-19T23:36:36+00:00" data-subject="Re: MSDP Update ( Group )">
 
 The new group variable looks like the following:
 
@@ -132,7 +132,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35461" data-author="*Breeze*" data-date="2014-10-20T05:07:55+00:00">
+<div class="post" data-post-id="35461" data-author="*Breeze*" data-date="2014-10-20T05:07:55+00:00" data-subject="Re: MSDP Update ( Group )">
 
 Looks good :)
 

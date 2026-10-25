@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="3556" data-author="Methyx" data-date="2004-12-28T03:24:46+00:00">
+<div class="post" data-post-id="3556" data-author="Methyx" data-date="2004-12-28T03:24:46+00:00" data-subject="Deathgrip vs Backstab">
 
 Has anyone managed to work out the basic formula/mechanics for damage done with Deathgrip?
 
@@ -26,7 +26,7 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="3567" data-author="13" data-date="2004-12-29T12:09:21+00:00">
+<div class="post" data-post-id="3567" data-author="13" data-date="2004-12-29T12:09:21+00:00" data-subject="">
 
 Hard to say really about multipliers or whatever.  As far as I can tell its like reverse chain lightning.  My first rip on deathgrip with full focus and +19dmg
 
@@ -40,13 +40,13 @@ Aaron/Thirteen
 
 </div>
 
-<div class="post" data-post-id="3580" data-author="Modello" data-date="2004-12-30T14:01:38+00:00">
+<div class="post" data-post-id="3580" data-author="Modello" data-date="2004-12-30T14:01:38+00:00" data-subject="">
 
 Figuring out exactly what and how focus adds to the equation would be nice to know as well.  As a prime sometimes I can focus for 6-8 rounds..... does anyone know what this does in term of the amout of damage imparted?  At times it seems like focusing makes very little difference in the amount of damage done when grippin or with wraithtouch.
 
 </div>
 
-<div class="post" data-post-id="3581" data-author="13" data-date="2004-12-30T14:07:14+00:00">
+<div class="post" data-post-id="3581" data-author="13" data-date="2004-12-30T14:07:14+00:00" data-subject="">
 
 most of the mobs we can kill with wraith are small enough that we whack them without focusing, this is why it doesnt seem to matter i think.
 
@@ -58,19 +58,19 @@ aa
 
 </div>
 
-<div class="post" data-post-id="3584" data-author="Modello" data-date="2004-12-30T14:33:09+00:00">
+<div class="post" data-post-id="3584" data-author="Modello" data-date="2004-12-30T14:33:09+00:00" data-subject="">
 
 Figuring out exactly what and how focus adds to the equation would be nice to know as well.  As a prime sometimes I can focus for 6-8 rounds..... does anyone know what this does in term of the amout of damage imparted?  At times it seems like focusing makes very little difference in the amount of damage done when grippin or with wraithtouch.
 
 </div>
 
-<div class="post" data-post-id="3587" data-author="13" data-date="2004-12-30T17:56:54+00:00">
+<div class="post" data-post-id="3587" data-author="13" data-date="2004-12-30T17:56:54+00:00" data-subject="">
 
 Ok..
 
 </div>
 
-<div class="post" data-post-id="3588" data-author="Leaf" data-date="2004-12-30T19:07:34+00:00">
+<div class="post" data-post-id="3588" data-author="Leaf" data-date="2004-12-30T19:07:34+00:00" data-subject="">
 
 Would be cool if we can find out how much of a % boost a focus can give.
 
@@ -84,7 +84,7 @@ like that.
 
 </div>
 
-<div class="post" data-post-id="3589" data-author="Powerhouse" data-date="2004-12-30T19:50:48+00:00">
+<div class="post" data-post-id="3589" data-author="Powerhouse" data-date="2004-12-30T19:50:48+00:00" data-subject="">
 
 Would be cool if we can find out how much of a % boost a focus can give.
 
@@ -100,7 +100,7 @@ Well I am guessing since Tower coded it, and since he coded most of the other ne
 
 </div>
 
-<div class="post" data-post-id="3590" data-author="Leaf" data-date="2004-12-30T20:42:58+00:00">
+<div class="post" data-post-id="3590" data-author="Leaf" data-date="2004-12-30T20:42:58+00:00" data-subject="">
 
 Well I am guessing since Tower coded it, and since he coded most of the other new class stuffs, it works as well as those, and those didn't work goods either since the admins had to fix almost alls of thems.[/quote:1nyf7rch]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39438" data-author="Gorka" data-date="2020-04-20T19:58:22+00:00">
+<div class="post" data-post-id="39438" data-author="Gorka" data-date="2020-04-20T19:58:22+00:00" data-subject="The Gorka Guide to Rolling Tokens">
 
 Using a combination of logged hex and oct token rolls on a test character, and a program I wrote that is a reverse engineer of some old stat rolling source code, I believe I have calculated the probability of achieving stat totals with a good degree of accuracy. This information uses the following assumptions... 
 
@@ -62,7 +62,7 @@ Avg Rolls to roll an 86 : 4400
 
 </div>
 
-<div class="post" data-post-id="39440" data-author="Josiah" data-date="2020-04-22T23:52:49+00:00">
+<div class="post" data-post-id="39440" data-author="Josiah" data-date="2020-04-22T23:52:49+00:00" data-subject="Re: The Gorka Guide to Rolling Tokens">
 
 Those are some interesting assumptions, G. 
 
@@ -74,7 +74,7 @@ Anecdotally, your 'number of rolls required' figures are close to my own experie
 
 </div>
 
-<div class="post" data-post-id="39441" data-author="Gorka" data-date="2020-04-23T11:10:56+00:00">
+<div class="post" data-post-id="39441" data-author="Gorka" data-date="2020-04-23T11:10:56+00:00" data-subject="Re: The Gorka Guide to Rolling Tokens">
 
 > **Josiah wrote:**
 > Those are some interesting assumptions, G. 

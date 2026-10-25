@@ -10,7 +10,7 @@ locked: false
 post_count: 112
 ---
 
-<div class="post" data-post-id="15750" data-author="Medios" data-date="2006-12-24T17:16:52+00:00">
+<div class="post" data-post-id="15750" data-author="Medios" data-date="2006-12-24T17:16:52+00:00" data-subject="Warrior suggestion">
 
 This can even be a drachma or autoquest skill.  A warrior spell that allows for a mount would be a nice feature.  Horse wouldnt be able to fight, just transport and help charge.  Like those pets that Impz and Firebrand have it could just go away if provoked.  Or possibly have up to 100hp and die, but not enough to fight.  Horse might increase something with avatar levels.  Mount obeys every time unlike sheep that roam away taking you from group.  Call followers would bring mount, but most wont follow.  Any mount could be water breathed and taken out of its environment, but underwater mounts die out of water.  Any -hit proc from mount is overrode by blind, +hit bonus arent overriden by grace.    
 
@@ -78,7 +78,7 @@ dolphin 500mv wont allow currents to effect(sonar +1 hit group effect, nose bash
 
 </div>
 
-<div class="post" data-post-id="15751" data-author="Medios" data-date="2006-12-24T17:29:30+00:00">
+<div class="post" data-post-id="15751" data-author="Medios" data-date="2006-12-24T17:29:30+00:00" data-subject="">
 
 Forgot to mention, person must be mounted to be effected, except ones with group effect.  This keeps someone from benefiting from the mount during stab/grip runs.  Once you dismount effect is gone, etc.  If anyone likes this I can come up with some more material.
 
@@ -86,13 +86,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15752" data-author="Talo/Ulrich" data-date="2006-12-24T17:35:51+00:00">
+<div class="post" data-post-id="15752" data-author="Talo/Ulrich" data-date="2006-12-24T17:35:51+00:00" data-subject="">
 
 very cool idea.....
 
 </div>
 
-<div class="post" data-post-id="15755" data-author="Avatar" data-date="2006-12-24T23:25:10+00:00">
+<div class="post" data-post-id="15755" data-author="Avatar" data-date="2006-12-24T23:25:10+00:00" data-subject="Mounts">
 
 I like the idea, unless we mean for it to be warrior-specific.  I've always liked mounts - everyone seems to enjoy playing with them.  Instead of restricting the discussion to just warriors, I'd try to think of how other classes might use mounts differently based on their abilities.
 
@@ -114,13 +114,13 @@ Mage -
 
 </div>
 
-<div class="post" data-post-id="15762" data-author="broeggle" data-date="2006-12-25T19:14:45+00:00">
+<div class="post" data-post-id="15762" data-author="broeggle" data-date="2006-12-25T19:14:45+00:00" data-subject="">
 
 I think this is a cool idea :) especially because warriors don't have so much specials as other classes (in my opinion as wa prime :)
 
 </div>
 
-<div class="post" data-post-id="15763" data-author="Rynquald" data-date="2006-12-25T21:27:48+00:00">
+<div class="post" data-post-id="15763" data-author="Rynquald" data-date="2006-12-25T21:27:48+00:00" data-subject="">
 
 [quote:2tn5zafs]Druids - summon exotic mounts through awaken? could perform as a mount for other characters? [/quote:2tn5zafs]
 
@@ -130,7 +130,7 @@ And nods, the spell is a very nice idea.
 
 </div>
 
-<div class="post" data-post-id="15764" data-author="12345" data-date="2006-12-25T21:37:07+00:00">
+<div class="post" data-post-id="15764" data-author="12345" data-date="2006-12-25T21:37:07+00:00" data-subject="">
 
 I think this is a cool idea :) especially because warriors don't have so much specials as other classes (in my opinion as wa prime :)[/quote:2uta3fl9]
 
@@ -138,19 +138,19 @@ Stomp and deathblow are both very cool.  Heavy hitting too.
 
 </div>
 
-<div class="post" data-post-id="15766" data-author="alias" data-date="2006-12-26T01:52:06+00:00">
+<div class="post" data-post-id="15766" data-author="alias" data-date="2006-12-26T01:52:06+00:00" data-subject="">
 
 I disagree on deathblow I dont think its all that good.if solo it can do some damage but in a group it helps maybe 1 round of combat, would like to see it upgraded to maybe work from the time the mob goes to awful.
 
 </div>
 
-<div class="post" data-post-id="15767" data-author="Avatar" data-date="2006-12-26T05:30:22+00:00">
+<div class="post" data-post-id="15767" data-author="Avatar" data-date="2006-12-26T05:30:22+00:00" data-subject="deathblow">
 
 Even if we don't increase the actual deathblow ability, maybe we could add a condition message to the list.  Something that's worse than awful and means that a deathblow would probably work would be useful.  That, or remove the lag from a failed deathblow?  A message like, "You realize that a deathblow would not be effective at this point." or similar?
 
 </div>
 
-<div class="post" data-post-id="15769" data-author="13" data-date="2006-12-26T15:49:29+00:00">
+<div class="post" data-post-id="15769" data-author="13" data-date="2006-12-26T15:49:29+00:00" data-subject="">
 
 deathblow is cool
 
@@ -158,7 +158,7 @@ warriors are viable these days
 
 </div>
 
-<div class="post" data-post-id="15770" data-author="Autolycos" data-date="2006-12-26T15:58:05+00:00">
+<div class="post" data-post-id="15770" data-author="Autolycos" data-date="2006-12-26T15:58:05+00:00" data-subject="">
 
 warriors are overrated.
 
@@ -166,31 +166,31 @@ they are only useful as a meatshield   :twisted:
 
 </div>
 
-<div class="post" data-post-id="15782" data-author="Weasel" data-date="2006-12-27T04:22:12+00:00">
+<div class="post" data-post-id="15782" data-author="Weasel" data-date="2006-12-27T04:22:12+00:00" data-subject="">
 
 [img:2laqnh11]http://www.treatyoffrancis.com/images/middlefingerkid.jpg[/img:2laqnh11]
 
 </div>
 
-<div class="post" data-post-id="15788" data-author="Aleksey" data-date="2006-12-27T16:21:15+00:00">
+<div class="post" data-post-id="15788" data-author="Aleksey" data-date="2006-12-27T16:21:15+00:00" data-subject="">
 
 Alias, some times it helpfull in solo also, harsh thing live fat mobs in awfull cond due to mana and hp shortage ( try solo fire machine or fallon or something thair size) Not saying its crusual skill for warrior(cant use it, not working with some swords) but something additional
 
 </div>
 
-<div class="post" data-post-id="15790" data-author="Aleksey" data-date="2006-12-27T16:24:38+00:00">
+<div class="post" data-post-id="15790" data-author="Aleksey" data-date="2006-12-27T16:24:38+00:00" data-subject="">
 
 Err in groups its good for subdue mobs:)
 
 </div>
 
-<div class="post" data-post-id="15831" data-author="Avatar" data-date="2006-12-29T03:33:15+00:00">
+<div class="post" data-post-id="15831" data-author="Avatar" data-date="2006-12-29T03:33:15+00:00" data-subject="warrior">
 
 I got a suggestion for warriors:  how about giving us fight xps for deathblow?  Don't know why we don't get them, but as far as I can tell we don't.
 
 </div>
 
-<div class="post" data-post-id="15873" data-author="*juggleblood*" data-date="2006-12-31T23:18:10+00:00">
+<div class="post" data-post-id="15873" data-author="*juggleblood*" data-date="2006-12-31T23:18:10+00:00" data-subject="">
 
 The most obvious improvement for warriors is making broadside work
 
@@ -202,7 +202,7 @@ to be a function of species?
 
 </div>
 
-<div class="post" data-post-id="15874" data-author="kjartan" data-date="2007-01-01T00:17:23+00:00">
+<div class="post" data-post-id="15874" data-author="kjartan" data-date="2007-01-01T00:17:23+00:00" data-subject="">
 
 Some fixes incor:
 
@@ -216,7 +216,7 @@ Some fixes incor:
 
 </div>
 
-<div class="post" data-post-id="15934" data-author="Leaf" data-date="2007-01-03T15:11:59+00:00">
+<div class="post" data-post-id="15934" data-author="Leaf" data-date="2007-01-03T15:11:59+00:00" data-subject="">
 
 I'm not sure if this is in game or not ...
 
@@ -238,7 +238,7 @@ sac a whole AC point for more damage, hence a +5 +5 increase.
 
 </div>
 
-<div class="post" data-post-id="15936" data-author="Shazuko" data-date="2007-01-03T16:14:40+00:00">
+<div class="post" data-post-id="15936" data-author="Shazuko" data-date="2007-01-03T16:14:40+00:00" data-subject="">
 
 A 'sheath' skill that allows you to put a weapon-type into a non-inventory slot while fighting, so it cant be stolen; if you switch weapons during combat, you sheath the current weapon, and if theres a weapon already sheathed, it gets wielded(or bumped to inventory to be wielded quickly); or for thief/monks who like to lead with a stab, then go bare-handed, your weapon would be in a safe place, and you wouldn't have to flee/diseng to remove a robe to get a weapon, or leave it vulnerable in your inventory-maybe for warriors, thieves(and possibly bards for their slight-of-hand)...
 
@@ -264,7 +264,7 @@ Shazuko Roku Ryuu
 
 </div>
 
-<div class="post" data-post-id="15937" data-author="Leaf" data-date="2007-01-03T17:04:28+00:00">
+<div class="post" data-post-id="15937" data-author="Leaf" data-date="2007-01-03T17:04:28+00:00" data-subject="">
 
 Hey Shazuko, not a bad idea.  However I would say that this would help
 
@@ -274,19 +274,19 @@ use their Valor instead of bare-hands. (cause of AC)
 
 </div>
 
-<div class="post" data-post-id="15942" data-author="gondor" data-date="2007-01-03T20:28:06+00:00">
+<div class="post" data-post-id="15942" data-author="gondor" data-date="2007-01-03T20:28:06+00:00" data-subject="">
 
 Shazuko, I like the sheath idea. To have a secondary weapon available to switch to on the go would be nice without leaving the other in a location that is easily pthieved while still having easy access to it. Great idea. Hope the immorts will run with this one.
 
 </div>
 
-<div class="post" data-post-id="15943" data-author="Weasel" data-date="2007-01-03T20:37:52+00:00">
+<div class="post" data-post-id="15943" data-author="Weasel" data-date="2007-01-03T20:37:52+00:00" data-subject="">
 
 [img:32r3m0cp]http://www.treatyoffrancis.com/images/middlefingerkid.jpg[/img:32r3m0cp]
 
 </div>
 
-<div class="post" data-post-id="15945" data-author="Autolycos" data-date="2007-01-03T21:13:19+00:00">
+<div class="post" data-post-id="15945" data-author="Autolycos" data-date="2007-01-03T21:13:19+00:00" data-subject="">
 
 laff... a stabbing tank... 
 
@@ -298,13 +298,13 @@ A talking Weasel?????? :twisted:
 
 </div>
 
-<div class="post" data-post-id="15946" data-author="13" data-date="2007-01-03T21:22:50+00:00">
+<div class="post" data-post-id="15946" data-author="13" data-date="2007-01-03T21:22:50+00:00" data-subject="">
 
 or an automatic lycos..which is what some sort of web search from 96?
 
 </div>
 
-<div class="post" data-post-id="15947" data-author="Autolycos" data-date="2007-01-03T21:31:32+00:00">
+<div class="post" data-post-id="15947" data-author="Autolycos" data-date="2007-01-03T21:31:32+00:00" data-subject="">
 
 or an automatic lycos..which is what some sort of web search from 96?[/quote:33lilcgb]
 
@@ -314,7 +314,7 @@ i replaced Webcrawler & Hotbot   :twisted:
 
 </div>
 
-<div class="post" data-post-id="15948" data-author="13" data-date="2007-01-03T21:36:25+00:00">
+<div class="post" data-post-id="15948" data-author="13" data-date="2007-01-03T21:36:25+00:00" data-subject="">
 
 I was just thinking of webcrawler when i was writing that :)
 
@@ -322,7 +322,7 @@ and fuck jeeves.
 
 </div>
 
-<div class="post" data-post-id="15951" data-author="12345" data-date="2007-01-03T22:55:56+00:00">
+<div class="post" data-post-id="15951" data-author="12345" data-date="2007-01-03T22:55:56+00:00" data-subject="">
 
 Seems like it'd be fairly easy to do, or could be anyway.  If you made a clasp for the belt, boot, etc that was a container for a weapon, like the containers we have for poison, keys, iouns, etc.
 
@@ -348,13 +348,13 @@ Then we could see what the voices in Kj's head think of use a main-gauche.
 
 </div>
 
-<div class="post" data-post-id="15953" data-author="tincts" data-date="2007-01-04T00:27:22+00:00">
+<div class="post" data-post-id="15953" data-author="tincts" data-date="2007-01-04T00:27:22+00:00" data-subject="">
 
 Hmm, and a quest for the valor sheath.
 
 </div>
 
-<div class="post" data-post-id="15956" data-author="Avalon" data-date="2007-01-04T03:30:11+00:00">
+<div class="post" data-post-id="15956" data-author="Avalon" data-date="2007-01-04T03:30:11+00:00" data-subject="">
 
 Couple of non-prime warrior suggestions (since kjartan asked for some) - and I'm not sure how useful my ideas are:
 
@@ -372,7 +372,7 @@ Just some suggestions... flame away.  :o
 
 </div>
 
-<div class="post" data-post-id="15957" data-author="banedon" data-date="2007-01-04T05:21:23+00:00">
+<div class="post" data-post-id="15957" data-author="banedon" data-date="2007-01-04T05:21:23+00:00" data-subject="">
 
 Another possibility,
 
@@ -386,13 +386,13 @@ Banedon
 
 </div>
 
-<div class="post" data-post-id="15958" data-author="Krok" data-date="2007-01-04T08:04:08+00:00">
+<div class="post" data-post-id="15958" data-author="Krok" data-date="2007-01-04T08:04:08+00:00" data-subject="">
 
 Offtopic - I feel so cheated when someone posts under Zam's picture!
 
 </div>
 
-<div class="post" data-post-id="15977" data-author="banedon" data-date="2007-01-04T19:16:50+00:00">
+<div class="post" data-post-id="15977" data-author="banedon" data-date="2007-01-04T19:16:50+00:00" data-subject="">
 
 Offtopic - I feel so cheated when someone posts under Zam's picture![/quote:2q32cfog]
 
@@ -402,7 +402,7 @@ Banedon
 
 </div>
 
-<div class="post" data-post-id="16001" data-author="firebrand" data-date="2007-01-05T15:51:14+00:00">
+<div class="post" data-post-id="16001" data-author="firebrand" data-date="2007-01-05T15:51:14+00:00" data-subject="">
 
 trying this again, seeing as how the last time i posted on this thread, the msg mysteriously didn't post.
 
@@ -422,7 +422,7 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="16005" data-author="Avatar" data-date="2007-01-05T18:20:32+00:00">
+<div class="post" data-post-id="16005" data-author="Avatar" data-date="2007-01-05T18:20:32+00:00" data-subject="warrior sugg&#x27;s">
 
 I like the weapon specialization ideas.  I think it would be neat to change the way warrior skills are restricted now and instead restrict some to the weapon class you've specialized with.  For example, broadside requires a sword of some type, but if you've specialized with spear why couldn't you restrict the skill to spear instead.  Also, I think it'd be a good idea to be able to change this after the fact, but it shouldn't be real easy.  A autoquest chain could be the key, preventing people from changing real often but allowing for some change during the evolution of a character.
 
@@ -432,13 +432,13 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="16009" data-author="firebrand" data-date="2007-01-05T19:02:53+00:00">
+<div class="post" data-post-id="16009" data-author="firebrand" data-date="2007-01-05T19:02:53+00:00" data-subject="">
 
 c 'grease' target kinda helps keep the mob down....not to mention it is hilarious as hell watching the slipping messages.  if i am hitting a mob that is going to be a longer fight than stab/wind/wind then i bring in my wa skills, otherwise it is not worth the lag to use them unless grouped
 
 </div>
 
-<div class="post" data-post-id="16020" data-author="Medios" data-date="2007-01-05T22:16:46+00:00">
+<div class="post" data-post-id="16020" data-author="Medios" data-date="2007-01-05T22:16:46+00:00" data-subject="">
 
 These are my thoughts thus far, flame on.  Only warriors skills today.
 
@@ -460,7 +460,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16022" data-author="Leaf" data-date="2007-01-05T22:31:55+00:00">
+<div class="post" data-post-id="16022" data-author="Leaf" data-date="2007-01-05T22:31:55+00:00" data-subject="">
 
 Bloodlust = Vampire :)
 
@@ -470,7 +470,7 @@ remove the shield and get a big bonus, still thinking +5 +5.
 
 </div>
 
-<div class="post" data-post-id="16023" data-author="Medios" data-date="2007-01-05T22:34:09+00:00">
+<div class="post" data-post-id="16023" data-author="Medios" data-date="2007-01-05T22:34:09+00:00" data-subject="">
 
 I know some ppl that really drink deer blood out the heart right after they kill it.  They arent vampires, just rednecks.
 
@@ -480,7 +480,7 @@ PS  Young Sir William, how does say holding a dagger with 2 hands give it more p
 
 </div>
 
-<div class="post" data-post-id="16024" data-author="Leaf" data-date="2007-01-05T22:45:18+00:00">
+<div class="post" data-post-id="16024" data-author="Leaf" data-date="2007-01-05T22:45:18+00:00" data-subject="">
 
 Warrior Skills Mikey.  Most warriors would use a sword or some sort of
 
@@ -502,13 +502,13 @@ PS: Redneck isn't a Warrior Skill... or maybe it is.  Dumb as a Warrior ...
 
 </div>
 
-<div class="post" data-post-id="16025" data-author="firebrand" data-date="2007-01-05T22:49:20+00:00">
+<div class="post" data-post-id="16025" data-author="firebrand" data-date="2007-01-05T22:49:20+00:00" data-subject="">
 
 your basic longsword is an either/or weapon....normally is one-handed but can be wielded two-handed for more dmg, less finesse.  there are some swords like claymores and bastards and zwei-handers that are two-handed only and of course your shorter swords, daggers, main-gauches, those are all one-handed and two-handed is normally not possible due to shorter grip on them.  and in response to the dual-wielding thing, i think mike's been secretly playing d&d.  in ad&d skills and powers (where i got the weapon mastery ideas in the first place), it gives the diff in ac and dmg and stuff for the different choices your char can make.....dual wielding gives up a shield slot unless you have a small buckler or smth but because you have 2 weapons and, if skillful enuff, the two weapons dmg makes up for the decreased ac....and i think anything larger than katana would be awkward at best for dual wielding....i would think have one sword and one stabber (for example) and also having two medium to slow weapons (swords or larger) would slow you down TOO much, leave more opportunity for your swords to both be out of the way at same time and leave you wide open to attack of opportunity.  (usually if you turn yer back on yer opponent or if it is hiding and can attack from behind or beside, you lose like 2 ac or smth and get surprise effects from dice for that round)  sigh i think far too much
 
 </div>
 
-<div class="post" data-post-id="16026" data-author="Avatar" data-date="2007-01-05T23:25:57+00:00">
+<div class="post" data-post-id="16026" data-author="Avatar" data-date="2007-01-05T23:25:57+00:00" data-subject="swords">
 
 Most longswords are specifically 1 handed.  The grip on mine is so short, your second hand would be holding the pommel, and not doing you any good.  
 
@@ -518,7 +518,7 @@ Really, this is all too much detail for a game that wants to be fun.  In my opin
 
 </div>
 
-<div class="post" data-post-id="16028" data-author="12345" data-date="2007-01-06T00:46:25+00:00">
+<div class="post" data-post-id="16028" data-author="12345" data-date="2007-01-06T00:46:25+00:00" data-subject="">
 
 Yep, Charles is correct.  Bastard swords are the main weapons that can be wielded with either one or two hands.  I think I even have a 2nd Edition AD&D book around here somewhere that lists the damages for each.  You don't get a bonus... but if you wield it two handed, the damage dice actually change to allow for more damage.
 
@@ -532,7 +532,7 @@ It could be a nice combo with thief or bard though, which might make wa/th or th
 
 </div>
 
-<div class="post" data-post-id="16029" data-author="Medios" data-date="2007-01-06T00:46:36+00:00">
+<div class="post" data-post-id="16029" data-author="Medios" data-date="2007-01-06T00:46:36+00:00" data-subject="">
 
 I understand everyones points.  They only weapons I can think of that are dual purpose are katanas and scimitars.  The rest are either/or.  Sword of Valor is for warrior prime, I was trying to keep it for everyone.  I didnt get sword and dagger from d&d but from a chinese movie.  Anyways the video game Soul Calibar has a girl with sword and dagger.  The sword is used for ranged attacks and the dagger for when your in close.  I guess the better solution is just to make new 2 handed weapons with only slightly higher dmgs.
 
@@ -540,7 +540,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16030" data-author="Avatar" data-date="2007-01-06T01:32:02+00:00">
+<div class="post" data-post-id="16030" data-author="Avatar" data-date="2007-01-06T01:32:02+00:00" data-subject="2 handed">
 
 We already have a two-handed weapon with maybe the highest damage around, short of the 3x40 axe.  
 
@@ -548,7 +548,7 @@ Also, two-handed weapons get double the bonuses from Sharpen.
 
 </div>
 
-<div class="post" data-post-id="16031" data-author="brand" data-date="2007-01-06T05:15:37+00:00">
+<div class="post" data-post-id="16031" data-author="brand" data-date="2007-01-06T05:15:37+00:00" data-subject="">
 
 wow all these good skill ideas.... but really hmmm nope all not worth the time to get them ingame....!
 
@@ -576,19 +576,19 @@ no big just wasted and want more hp!
 
 </div>
 
-<div class="post" data-post-id="16033" data-author="Weasel" data-date="2007-01-06T05:46:15+00:00">
+<div class="post" data-post-id="16033" data-author="Weasel" data-date="2007-01-06T05:46:15+00:00" data-subject="">
 
 [img:25j82s92]http://www.treatyoffrancis.com/images/middlefingerkid.jpg[/img:25j82s92]
 
 </div>
 
-<div class="post" data-post-id="16034" data-author="12345" data-date="2007-01-06T06:00:10+00:00">
+<div class="post" data-post-id="16034" data-author="12345" data-date="2007-01-06T06:00:10+00:00" data-subject="">
 
 While AC and HPs aren't the only measure of a tank, they are very helpful...
 
 </div>
 
-<div class="post" data-post-id="16036" data-author="*Splork*" data-date="2007-01-06T10:57:08+00:00">
+<div class="post" data-post-id="16036" data-author="*Splork*" data-date="2007-01-06T10:57:08+00:00" data-subject="">
 
 What other classes have more hps than a warrior prime that can make a viable tank?
 
@@ -596,19 +596,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="16037" data-author="Vixn" data-date="2007-01-06T12:40:45+00:00">
+<div class="post" data-post-id="16037" data-author="Vixn" data-date="2007-01-06T12:40:45+00:00" data-subject="">
 
 does 'protect' mean 'tank'?
 
 </div>
 
-<div class="post" data-post-id="16038" data-author="Weasel" data-date="2007-01-06T14:12:04+00:00">
+<div class="post" data-post-id="16038" data-author="Weasel" data-date="2007-01-06T14:12:04+00:00" data-subject="">
 
 [img:2gp7nqfp]http://www.treatyoffrancis.com/images/middlefingerkid.jpg[/img:2gp7nqfp]
 
 </div>
 
-<div class="post" data-post-id="16039" data-author="*Splork*" data-date="2007-01-06T14:43:10+00:00">
+<div class="post" data-post-id="16039" data-author="*Splork*" data-date="2007-01-06T14:43:10+00:00" data-subject="">
 
 I am pretty sure that warriors have the highest hps ingame for a solid point/ tank position. If I am wrong, as you stated earlier, I would simply like some proof so we could fix the problem.
 
@@ -620,7 +620,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="16040" data-author="Shazuko" data-date="2007-01-06T15:24:35+00:00">
+<div class="post" data-post-id="16040" data-author="Shazuko" data-date="2007-01-06T15:24:35+00:00" data-subject="">
 
 [quote:q560dvp0]Ironically, Warriors don't actually have the highest HP always any more[/quote:q560dvp0]
 
@@ -640,7 +640,7 @@ Shazuko Roku Ryuu
 
 </div>
 
-<div class="post" data-post-id="16041" data-author="firebrand" data-date="2007-01-06T19:15:25+00:00">
+<div class="post" data-post-id="16041" data-author="firebrand" data-date="2007-01-06T19:15:25+00:00" data-subject="">
 
 how about making tanks who have fly cast upon them able to do like flying mobs and "fly deftly out of reach" when mobs attempt to bash/trip/slap us out of the room?  
 
@@ -648,7 +648,7 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="16042" data-author="broeggle" data-date="2007-01-06T19:33:23+00:00">
+<div class="post" data-post-id="16042" data-author="broeggle" data-date="2007-01-06T19:33:23+00:00" data-subject="">
 
 hmm what about this idea:
 
@@ -662,13 +662,13 @@ Perhaps you could also create a new shop, with dead bodies|heads|honor or whatev
 
 </div>
 
-<div class="post" data-post-id="16043" data-author="12345" data-date="2007-01-06T22:36:28+00:00">
+<div class="post" data-post-id="16043" data-author="12345" data-date="2007-01-06T22:36:28+00:00" data-subject="">
 
 Why are the warrior suggestions sounding more and more like old Vincent Price flicks?  I'm still waiting for someone to suggest a moonwalk skill for warriors, letting them retreat from battle with style, but only if they're wearing redsteel armor...
 
 </div>
 
-<div class="post" data-post-id="16044" data-author="Medios" data-date="2007-01-07T00:34:29+00:00">
+<div class="post" data-post-id="16044" data-author="Medios" data-date="2007-01-07T00:34:29+00:00" data-subject="">
 
 I guess people would have to actually use the in game skills to know wtf they are talking about.  Everyone wants warriors to have clones of other skills, its nonsense.  Most of this thread is bullshit.  Learn about some eq, learn about some classos and this game, then come here and talk something that makes sense.  Warriors got way more hps than other classes with bards comin in a far second.  I remember a tank that had well over 1400 hp, lemme clear these cobwebs out my brain and think of his class.  Even Atwell with Wa triple caster has more hp than any non warrior that I know.  If your still wearing gear that you got at single 40, and your a 5x40 avatar then yeah you got less hp than someone with all the elite gear on.  I got a better idea, lets start a welfare system where underpriveleged chars get free eq from players that run more than 1 area.
 
@@ -676,7 +676,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16045" data-author="13" data-date="2007-01-07T00:42:14+00:00">
+<div class="post" data-post-id="16045" data-author="13" data-date="2007-01-07T00:42:14+00:00" data-subject="">
 
 I don't even know where to start.  Where did all these idiotic ideas come from?  Shut the hell up.  If you don't like your class, play a different one you
 
@@ -684,13 +684,13 @@ goddamned nancies.
 
 </div>
 
-<div class="post" data-post-id="16046" data-author="Weasel" data-date="2007-01-07T01:10:18+00:00">
+<div class="post" data-post-id="16046" data-author="Weasel" data-date="2007-01-07T01:10:18+00:00" data-subject="">
 
 [img:zzez6ygp]http://www.treatyoffrancis.com/images/middlefingerkid.jpg[/img:zzez6ygp]
 
 </div>
 
-<div class="post" data-post-id="16048" data-author="12345" data-date="2007-01-07T01:54:40+00:00">
+<div class="post" data-post-id="16048" data-author="12345" data-date="2007-01-07T01:54:40+00:00" data-subject="">
 
 I guess I should clarify a little...  In my mind: Warrior != Barbarian.  If you're wearing more metal than the average home and swinging around a sword the size of a small car, then you've evolved past the point of making juju charms out of your opponents ears...  Even if the necros haven't yet.
 
@@ -702,7 +702,7 @@ Either way, that's my view. On a related note, several classes currently have th
 
 </div>
 
-<div class="post" data-post-id="16050" data-author="Medios" data-date="2007-01-07T03:21:11+00:00">
+<div class="post" data-post-id="16050" data-author="Medios" data-date="2007-01-07T03:21:11+00:00" data-subject="">
 
 Parry pretty much tips the scales.  Even without oaths, warcry, and the pain skills, warriors are still better at getting beat down.  Also lets not confuse run of the mill warriors with Flight's template.  Double non caster is gonna have more hp than nc caster.  Just because warrior is your prime doesnt mean your the toughest on the block, your other classes determine how and where you do your dmg.
 
@@ -710,13 +710,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16054" data-author="12345" data-date="2007-01-07T04:56:22+00:00">
+<div class="post" data-post-id="16054" data-author="12345" data-date="2007-01-07T04:56:22+00:00" data-subject="">
 
 I seem to remember quite a few mini-Flight types.  Mostly because they asked me endless questions about why I would choose Druid over Necro...  Though that seems to have died off quite a bit lately.
 
 </div>
 
-<div class="post" data-post-id="16056" data-author="Medios" data-date="2007-01-07T05:01:17+00:00">
+<div class="post" data-post-id="16056" data-author="Medios" data-date="2007-01-07T05:01:17+00:00" data-subject="">
 
 Few players can struggle through being a nc, unless its thief.  Everyone sees someone playing a template and getting good and they want to emulate it, usually with no good results.  Ive seen a hundred Minstrel clones if I have seen one.  Im still waiting to see the next bard Avatar.
 
@@ -724,7 +724,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16057" data-author="Leaf" data-date="2007-01-07T05:01:45+00:00">
+<div class="post" data-post-id="16057" data-author="Leaf" data-date="2007-01-07T05:01:45+00:00" data-subject="">
 
 I believe Flight was Wa/Mo/Ne/Cl, correct if I'm wrong.
 
@@ -736,13 +736,13 @@ to get unless u have all elite eq, forges, n quests :)
 
 </div>
 
-<div class="post" data-post-id="16058" data-author="12345" data-date="2007-01-07T05:20:52+00:00">
+<div class="post" data-post-id="16058" data-author="12345" data-date="2007-01-07T05:20:52+00:00" data-subject="">
 
 From what I've seen, all the specialty tanks flourish in their chosen environments, and very few sucessfully emulate them.  As for which is best, there's not really an answer.  It really depends on what you want to do and how you do it.
 
 </div>
 
-<div class="post" data-post-id="16064" data-author="13" data-date="2007-01-07T07:13:38+00:00">
+<div class="post" data-post-id="16064" data-author="13" data-date="2007-01-07T07:13:38+00:00" data-subject="">
 
 [img:2qies1sl]http://files.blog-city.com/files/A05/141484/p/f/blackula.jpg[/img:2qies1sl]
 
@@ -758,7 +758,7 @@ the warriors out there.
 
 </div>
 
-<div class="post" data-post-id="16065" data-author="Shazuko" data-date="2007-01-07T07:14:18+00:00">
+<div class="post" data-post-id="16065" data-author="Shazuko" data-date="2007-01-07T07:14:18+00:00" data-subject="">
 
 [quote:2i3166wz]Just because warrior is your prime doesnt mean your the toughest on the block[/quote:2i3166wz]
 
@@ -784,7 +784,7 @@ Shazuko Six Dragons
 
 </div>
 
-<div class="post" data-post-id="16067" data-author="Eireannach" data-date="2007-01-07T09:34:16+00:00">
+<div class="post" data-post-id="16067" data-author="Eireannach" data-date="2007-01-07T09:34:16+00:00" data-subject="">
 
 How about some real warrior skills here:
 
@@ -820,7 +820,7 @@ Well, there's a few starter suggestions. The list is open to expansion. In case 
 
 </div>
 
-<div class="post" data-post-id="16069" data-author="brady" data-date="2007-01-07T14:51:22+00:00">
+<div class="post" data-post-id="16069" data-author="brady" data-date="2007-01-07T14:51:22+00:00" data-subject="">
 
 [quote:1af2gsh0]Either way, that's my view. On a related note, several classes currently have the ability to achieve -11 that probably shouldn't. [/quote:1af2gsh0]
 
@@ -828,13 +828,13 @@ Well, there's a few starter suggestions. The list is open to expansion. In case 
 
 </div>
 
-<div class="post" data-post-id="16070" data-author="brady" data-date="2007-01-07T14:59:05+00:00">
+<div class="post" data-post-id="16070" data-author="brady" data-date="2007-01-07T14:59:05+00:00" data-subject="">
 
 off topic....aaron, get laid or something.
 
 </div>
 
-<div class="post" data-post-id="16072" data-author="Avatar" data-date="2007-01-07T17:14:35+00:00">
+<div class="post" data-post-id="16072" data-author="Avatar" data-date="2007-01-07T17:14:35+00:00" data-subject="Warriors">
 
 Wraithform needs to be adjusted so it can be cast on other targets.  Whoever made the decision to restrict it that way, I'm glad they weren't around when Sanc or Stone Skin were created.  The early design of the mud supported teamwork.
 
@@ -842,7 +842,7 @@ No caster class should be "required" for a tank.
 
 </div>
 
-<div class="post" data-post-id="16073" data-author="Medios" data-date="2007-01-07T17:28:54+00:00">
+<div class="post" data-post-id="16073" data-author="Medios" data-date="2007-01-07T17:28:54+00:00" data-subject="">
 
 Lets be honest, Flight can quaff a soothing draught or a greater fluidity charm.  Zukt cant restore, spellshield, aegis, etc.  Both chars are powerful depending on how you want to play them, but i think having cleric is prob the most beneficial.  For solo im sure that Zukt needs alot more prep time for his runs.  Im not saying Zukt isnt one of the best tanks, just different.  
 
@@ -858,13 +858,13 @@ Lets remember, everyone cannot have it all.  Its my point about cloning skills.
 
 </div>
 
-<div class="post" data-post-id="16075" data-author="12345" data-date="2007-01-07T18:27:24+00:00">
+<div class="post" data-post-id="16075" data-author="12345" data-date="2007-01-07T18:27:24+00:00" data-subject="">
 
 On the same token, Bit actually carries wraithform charms with him.  I doubt that strategy would work if I was running the Desert hardcore, but that's only one area in the mud.  I think I've used the wraith charms like... twice.  Maybe.  For the areas he runs, his regen and rabbit more than make up for his weaknesses.  Solo play is another matter.  Lack of mage in classo keeps him fairly limited.
 
 </div>
 
-<div class="post" data-post-id="16076" data-author="Medios" data-date="2007-01-07T19:31:10+00:00">
+<div class="post" data-post-id="16076" data-author="Medios" data-date="2007-01-07T19:31:10+00:00" data-subject="">
 
 Desert just scratches the surface for wraithform mobs.  From my experience chop style mobs like theris and fiends dont need any wraithform.  Its the thief style mobs that it works on, stuff that hits really hard. 
 
@@ -872,13 +872,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16077" data-author="12345" data-date="2007-01-07T19:46:11+00:00">
+<div class="post" data-post-id="16077" data-author="12345" data-date="2007-01-07T19:46:11+00:00" data-subject="">
 
 Mostly thief style mobs don't worry me.  Chop mobs that hit like thief mobs do.  It's an impressive thing when Bit is splorked.  Tyroch and a couple others have managed it though.
 
 </div>
 
-<div class="post" data-post-id="16078" data-author="Avatar" data-date="2007-01-07T20:03:30+00:00">
+<div class="post" data-post-id="16078" data-author="Avatar" data-date="2007-01-07T20:03:30+00:00" data-subject="tanks still?">
 
 "Zukt cant restore, spellshield, aegis, etc."
 
@@ -886,7 +886,7 @@ My point was that all those are affects that can be provided by any group caster
 
 </div>
 
-<div class="post" data-post-id="16079" data-author="brady" data-date="2007-01-07T20:16:46+00:00">
+<div class="post" data-post-id="16079" data-author="brady" data-date="2007-01-07T20:16:46+00:00" data-subject="">
 
 [quote:3054z2lz]Theres a huge difference between a warrior with 1300 hp who can blast, heal, cast word of recall acid blind etc etc, do whatever and a 2000 hp bird that can only blast. 
 
@@ -896,13 +896,13 @@ That was pretty much my point.  And for a ca/ca, -11 is not easy.  For a tank, i
 
 </div>
 
-<div class="post" data-post-id="16080" data-author="12345" data-date="2007-01-07T20:25:23+00:00">
+<div class="post" data-post-id="16080" data-author="12345" data-date="2007-01-07T20:25:23+00:00" data-subject="">
 
 Purloin is pretty nice.  There are a couple things that you can't make charms for though... at least not that I'm aware of.  Eudaemon being a big one.
 
 </div>
 
-<div class="post" data-post-id="16082" data-author="brand" data-date="2007-01-08T03:48:28+00:00">
+<div class="post" data-post-id="16082" data-author="brand" data-date="2007-01-08T03:48:28+00:00" data-subject="">
 
 so i've never really played a tank to the end but the main point we're stuck on here seems to be what you can bring to the table.  i've been here long enough (hell most of us have) to remember when the one  thing a tank gave the group was hp and parry (parry being more hp because it soaks one hit worth of damage)  i've healed almost every tank for the last few years at one time or another... and well things have changed.  the new school tank brings more stuff to the table, damage reduction, wraithform, fluidity, and parry.  it's the new way and all the kids are doing it.  i still believe that original classo tanks can take care of business (TCB) and there is no doubt that i like them all the best, hell most of my friends are old school.  that said, i like the zukt classo it is simply put like a warrior...... on crack. still zukt was a dork until avatar, but after that well we're all dealing with it.  i would like to see wraithform as a target casting but hell i got it already so no rush. -11 is the new -10 we don't need a -12.  maybe a -11 with more +hp warrior prime eq... or maybe i should just hit the bong of destiny again...
 
@@ -910,7 +910,7 @@ brand :twisted:
 
 </div>
 
-<div class="post" data-post-id="16083" data-author="brady" data-date="2007-01-08T04:20:35+00:00">
+<div class="post" data-post-id="16083" data-author="brady" data-date="2007-01-08T04:20:35+00:00" data-subject="">
 
 #1 zukt is still a dork.
 
@@ -920,7 +920,7 @@ brand :twisted:
 
 </div>
 
-<div class="post" data-post-id="16084" data-author="Autolycos" data-date="2007-01-08T04:35:21+00:00">
+<div class="post" data-post-id="16084" data-author="Autolycos" data-date="2007-01-08T04:35:21+00:00" data-subject="">
 
 #1 zukt is still a dork.
 
@@ -936,25 +936,25 @@ you forgot
 
 </div>
 
-<div class="post" data-post-id="16086" data-author="12345" data-date="2007-01-08T05:34:22+00:00">
+<div class="post" data-post-id="16086" data-author="12345" data-date="2007-01-08T05:34:22+00:00" data-subject="">
 
 Hey, don't tease Brand this time... at least what he wrote didn't need a Brand-to-English dictionary.  We try to encourage him when he does good.
 
 </div>
 
-<div class="post" data-post-id="16087" data-author="Krok" data-date="2007-01-08T06:11:36+00:00">
+<div class="post" data-post-id="16087" data-author="Krok" data-date="2007-01-08T06:11:36+00:00" data-subject="">
 
 Shit. All my friends on Sloth, whom I consider coolest people, are always called dorks :P
 
 </div>
 
-<div class="post" data-post-id="16117" data-author="Rynquald" data-date="2007-01-08T21:25:43+00:00">
+<div class="post" data-post-id="16117" data-author="Rynquald" data-date="2007-01-08T21:25:43+00:00" data-subject="">
 
 Piasa can web btw, capture :)
 
 </div>
 
-<div class="post" data-post-id="16140" data-author="Avatar" data-date="2007-01-09T02:08:09+00:00">
+<div class="post" data-post-id="16140" data-author="Avatar" data-date="2007-01-09T02:08:09+00:00" data-subject="Dorks?">
 
 Someone call me a dork.  :(
 
@@ -962,7 +962,7 @@ Please?
 
 </div>
 
-<div class="post" data-post-id="16141" data-author="Hades" data-date="2007-01-09T02:57:35+00:00">
+<div class="post" data-post-id="16141" data-author="Hades" data-date="2007-01-09T02:57:35+00:00" data-subject="Important Info Inside">
 
 Avatar is a dork.
 
@@ -972,7 +972,7 @@ Happy?
 
 </div>
 
-<div class="post" data-post-id="16143" data-author="Autolycos" data-date="2007-01-09T03:45:04+00:00">
+<div class="post" data-post-id="16143" data-author="Autolycos" data-date="2007-01-09T03:45:04+00:00" data-subject="">
 
 i've known Charles for nearing 12 years now..  dirty bugger got me addicted to sloth..  
 
@@ -980,19 +980,19 @@ I know he is a dorkl!
 
 </div>
 
-<div class="post" data-post-id="16144" data-author="Avatar" data-date="2007-01-09T05:18:59+00:00">
+<div class="post" data-post-id="16144" data-author="Avatar" data-date="2007-01-09T05:18:59+00:00" data-subject="dorks">
 
 Now Kroka is sure to think I'm one of the coolest people.  Thanks guys!
 
 </div>
 
-<div class="post" data-post-id="16146" data-author="firebrand" data-date="2007-01-09T05:43:38+00:00">
+<div class="post" data-post-id="16146" data-author="firebrand" data-date="2007-01-09T05:43:38+00:00" data-subject="">
 
 *sneef*  no one has ever called me a dork.  i guess this means that kroka doesn't like me anymore.  WAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHH!
 
 </div>
 
-<div class="post" data-post-id="16153" data-author="Hades" data-date="2007-01-10T01:41:15+00:00">
+<div class="post" data-post-id="16153" data-author="Hades" data-date="2007-01-10T01:41:15+00:00" data-subject="News Flash not found on CNN">
 
 Firebrand is a dorkette.
 
@@ -1000,7 +1000,7 @@ peace :)
 
 </div>
 
-<div class="post" data-post-id="16156" data-author="firebrand" data-date="2007-01-10T02:11:15+00:00">
+<div class="post" data-post-id="16156" data-author="firebrand" data-date="2007-01-10T02:11:15+00:00" data-subject="">
 
 awwwwwwwww thanks hades!  and ppl say you only care for the dead!
 
@@ -1008,19 +1008,19 @@ awwwwwwwww thanks hades!  and ppl say you only care for the dead!
 
 </div>
 
-<div class="post" data-post-id="16161" data-author="13" data-date="2007-01-10T13:45:27+00:00">
+<div class="post" data-post-id="16161" data-author="13" data-date="2007-01-10T13:45:27+00:00" data-subject="">
 
 where's that music library hades
 
 </div>
 
-<div class="post" data-post-id="16162" data-author="13" data-date="2007-01-10T14:53:57+00:00">
+<div class="post" data-post-id="16162" data-author="13" data-date="2007-01-10T14:53:57+00:00" data-subject="Here&#x27;s a suggestion - fix grace">
 
 edit** suffice to say it sucks that you have to be good align to use a regular tard spell.
 
 </div>
 
-<div class="post" data-post-id="16163" data-author="Krok" data-date="2007-01-10T16:15:07+00:00">
+<div class="post" data-post-id="16163" data-author="Krok" data-date="2007-01-10T16:15:07+00:00" data-subject="">
 
 Charles, don't worry, all DoWs are dorks in one way or another :)
 
@@ -1028,7 +1028,7 @@ Reb, you are still in my heart!
 
 </div>
 
-<div class="post" data-post-id="16165" data-author="firebrand" data-date="2007-01-10T17:16:46+00:00">
+<div class="post" data-post-id="16165" data-author="firebrand" data-date="2007-01-10T17:16:46+00:00" data-subject="">
 
 woot!  she loves me!  *does the snoopy dance*
 
@@ -1036,7 +1036,7 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="16169" data-author="Vixn" data-date="2007-01-10T17:57:51+00:00">
+<div class="post" data-post-id="16169" data-author="Vixn" data-date="2007-01-10T17:57:51+00:00" data-subject="AC changes*">
 
 The new AC scheme, like the old one, changes at -10. Previously AC -11 removed about 30% of the hits you would have gotten at AC -10, except that due to a bug, it only did it occasionally and randomly for some mobs in some circumstances - most of the time it was the same as -10.[/quote:1ev18t09]
 
@@ -1052,7 +1052,7 @@ And.. did you mean you add new eq with better ac?
 
 </div>
 
-<div class="post" data-post-id="16172" data-author="Corinn" data-date="2007-01-10T18:04:52+00:00">
+<div class="post" data-post-id="16172" data-author="Corinn" data-date="2007-01-10T18:04:52+00:00" data-subject="">
 
 where's that music library hades[/quote:3r9r2wl1]
 
@@ -1060,7 +1060,7 @@ yeah!
 
 </div>
 
-<div class="post" data-post-id="16174" data-author="kjartan" data-date="2007-01-10T18:28:46+00:00">
+<div class="post" data-post-id="16174" data-author="kjartan" data-date="2007-01-10T18:28:46+00:00" data-subject="Re: AC changes*">
 
 I'm gonna check my eq. Seems extra +hit will be much more valuable.
 
@@ -1072,7 +1072,7 @@ I can certainly frolic through the fields randomly lowering ACs on mobs, though.
 
 </div>
 
-<div class="post" data-post-id="16175" data-author="Avatar" data-date="2007-01-10T18:29:26+00:00">
+<div class="post" data-post-id="16175" data-author="Avatar" data-date="2007-01-10T18:29:26+00:00" data-subject="AC changes">
 
 [quote:1uqhlok2]The new AC scheme, like the old one, changes at -10. Previously AC -11 removed about 30% of the hits you would have gotten at AC -10, except that due to a bug, it only did it occasionally and randomly for some mobs in some circumstances - most of the time it was the same as -10.[/quote:1uqhlok2]
 
@@ -1082,7 +1082,7 @@ I wonder about the overall strategy.  We seem to be adding caps for some things 
 
 </div>
 
-<div class="post" data-post-id="16176" data-author="kjartan" data-date="2007-01-10T18:43:37+00:00">
+<div class="post" data-post-id="16176" data-author="kjartan" data-date="2007-01-10T18:43:37+00:00" data-subject="Re: AC changes">
 
 Interesting change.  I'm excited to see how this plays out in the game.  At first glance, it seems that AC becomes a LOT more effective past -10.[/quote:2w2k1974]
 
@@ -1094,7 +1094,7 @@ We are deciding these on a case-by-case basis.  The +hit cap just had the effect
 
 </div>
 
-<div class="post" data-post-id="16178" data-author="Weasel" data-date="2007-01-10T19:26:06+00:00">
+<div class="post" data-post-id="16178" data-author="Weasel" data-date="2007-01-10T19:26:06+00:00" data-subject="">
 
 Is -13ac even possible atm? Not a complaint btw, just wondering. 
 
@@ -1104,7 +1104,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="16179" data-author="Zukt" data-date="2007-01-10T19:31:56+00:00">
+<div class="post" data-post-id="16179" data-author="Zukt" data-date="2007-01-10T19:31:56+00:00" data-subject="">
 
 Hah! was someone listening to my channel rants about useless hitroll eq and spells? Well probably coincidence.
 
@@ -1116,7 +1116,7 @@ King Dork Zukt.
 
 </div>
 
-<div class="post" data-post-id="16181" data-author="Zukt" data-date="2007-01-10T19:33:20+00:00">
+<div class="post" data-post-id="16181" data-author="Zukt" data-date="2007-01-10T19:33:20+00:00" data-subject="">
 
 On caps: just let eq set the cap most of the time. 
 
@@ -1124,7 +1124,7 @@ I dont know how anyone would get to -13. Maybe as a piasa with a bunch of shift 
 
 </div>
 
-<div class="post" data-post-id="16185" data-author="Avatar" data-date="2007-01-10T22:29:58+00:00">
+<div class="post" data-post-id="16185" data-author="Avatar" data-date="2007-01-10T22:29:58+00:00" data-subject="AC">
 
 It's been a long time since I looked at AC eq.  Since I got Plato to Av his EQ has been pretty stable.  It'll be fun to look at the lists again and see what's possible.  The shift in the way AC works past -10 seems interesting.  It does seem like a more consistent method.
 
@@ -1134,13 +1134,13 @@ Interesting changes, I'm eager to login.  Unfortunately I have dinner plans afte
 
 </div>
 
-<div class="post" data-post-id="16186" data-author="kjartan" data-date="2007-01-10T22:35:59+00:00">
+<div class="post" data-post-id="16186" data-author="kjartan" data-date="2007-01-10T22:35:59+00:00" data-subject="">
 
 I don't think we have adjusted any mob ACs yet anyway.
 
 </div>
 
-<div class="post" data-post-id="16190" data-author="12345" data-date="2007-01-10T22:51:35+00:00">
+<div class="post" data-post-id="16190" data-author="12345" data-date="2007-01-10T22:51:35+00:00" data-subject="">
 
 Working the math in my head on that one, I think Charles has a fabulous point.  Under the old system, warriors reached a THAC0 of 1 by level 20 and +hit became useless after +11.  While the new system will certainly impact that, the other classes weren't nearly as lucky.
 
@@ -1150,7 +1150,7 @@ Which basically makes me wonder, how many mobs will this really affect, and wher
 
 </div>
 
-<div class="post" data-post-id="16191" data-author="Medios" data-date="2007-01-10T23:11:05+00:00">
+<div class="post" data-post-id="16191" data-author="Medios" data-date="2007-01-10T23:11:05+00:00" data-subject="">
 
 Kara'sa, dragon mount, theris, ettins, fiends, cano, umm where else do you lead ?
 
@@ -1158,19 +1158,19 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16192" data-author="*juggleblood*" data-date="2007-01-10T23:21:54+00:00">
+<div class="post" data-post-id="16192" data-author="*juggleblood*" data-date="2007-01-10T23:21:54+00:00" data-subject="">
 
 From a builders perspective it was beneficial to put really low ac on the mobs because it added xp without adding any difficulty. So some of the areas hardest hit will be some of the traditional xp cashcows like dweb, etc...
 
 </div>
 
-<div class="post" data-post-id="16193" data-author="12345" data-date="2007-01-10T23:24:33+00:00">
+<div class="post" data-post-id="16193" data-author="12345" data-date="2007-01-10T23:24:33+00:00" data-subject="">
 
 Chuckle.  Cute, but not terribly helpful.
 
 </div>
 
-<div class="post" data-post-id="16194" data-author="Medios" data-date="2007-01-10T23:26:17+00:00">
+<div class="post" data-post-id="16194" data-author="Medios" data-date="2007-01-10T23:26:17+00:00" data-subject="">
 
 Im joking btw, I would guess that ac will be lowered at imms discretion.  Who knows what surprise were in for next.
 
@@ -1178,7 +1178,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16195" data-author="12345" data-date="2007-01-10T23:31:41+00:00">
+<div class="post" data-post-id="16195" data-author="12345" data-date="2007-01-10T23:31:41+00:00" data-subject="">
 
 From a builders perspective it was beneficial to put really low ac on the mobs because it added xp without adding any difficulty. So some of the areas hardest hit will be some of the traditional xp cashcows like dweb, etc...[/quote:28rsw6oc]
 
@@ -1186,7 +1186,7 @@ On that note, some of the less run, middle type areas might be useful.  Having a
 
 </div>
 
-<div class="post" data-post-id="16196" data-author="kjartan" data-date="2007-01-10T23:35:43+00:00">
+<div class="post" data-post-id="16196" data-author="kjartan" data-date="2007-01-10T23:35:43+00:00" data-subject="">
 
 From a builders perspective it was beneficial to put really low ac on the mobs because it added xp without adding any difficulty. So some of the areas hardest hit will be some of the traditional xp cashcows like dweb, etc...[/quote:3q3pau2w]
 
@@ -1194,7 +1194,7 @@ I looked around a little bit before I put this in and I didn't notice any ultra-
 
 </div>
 
-<div class="post" data-post-id="16204" data-author="kjartan" data-date="2007-01-11T16:55:13+00:00">
+<div class="post" data-post-id="16204" data-author="kjartan" data-date="2007-01-11T16:55:13+00:00" data-subject="">
 
 Just for the sake of letting people get a feel for the new ACs, I lowered the ACs on the various gargoyles around the ebony tower.
 

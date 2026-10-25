@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29131" data-author="*Splork*" data-date="2009-05-11T12:10:49+00:00">
+<div class="post" data-post-id="29131" data-author="*Splork*" data-date="2009-05-11T12:10:49+00:00" data-subject="couple  changes and bug fixes">
 
 1) Quad class non caster will now get hps for their quad nc levels when they didnt previously(except for warrior).
 
@@ -28,7 +28,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29132" data-author="*Splork*" data-date="2009-05-11T13:42:41+00:00">
+<div class="post" data-post-id="29132" data-author="*Splork*" data-date="2009-05-11T13:42:41+00:00" data-subject="">
 
 1) Spell disruption has been lowered by slightly 
 

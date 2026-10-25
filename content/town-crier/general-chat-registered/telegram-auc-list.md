@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39439" data-author="Vekna" data-date="2020-04-21T06:49:27+00:00">
+<div class="post" data-post-id="39439" data-author="Vekna" data-date="2020-04-21T06:49:27+00:00" data-subject="Telegram auc list">
 
 Hi!
 

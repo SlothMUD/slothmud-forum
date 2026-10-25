@@ -10,7 +10,7 @@ locked: false
 post_count: 39
 ---
 
-<div class="post" data-post-id="4227" data-author="Alberich" data-date="2005-02-09T09:35:13+00:00">
+<div class="post" data-post-id="4227" data-author="Alberich" data-date="2005-02-09T09:35:13+00:00" data-subject="Just curious">
 
 How'd you find out about Sloth?  I know much is being made of TMC and we do get a noticable amount of new peoples, but I'm curious how the people who came and stayed first happened along :)
 
@@ -18,25 +18,25 @@ If I forgot an option or something, post it
 
 </div>
 
-<div class="post" data-post-id="4228" data-author="Next" data-date="2005-02-09T10:11:43+00:00">
+<div class="post" data-post-id="4228" data-author="Next" data-date="2005-02-09T10:11:43+00:00" data-subject="">
 
 I suspect that for 90% of Russians it will be "I read an article in a book called "The best computer games: Volume 3 (i think)" and logged on, so might be an idea to add that option :)
 
 </div>
 
-<div class="post" data-post-id="4229" data-author="Shadis" data-date="2005-02-09T11:02:32+00:00">
+<div class="post" data-post-id="4229" data-author="Shadis" data-date="2005-02-09T11:02:32+00:00" data-subject="">
 
 i was born addicted to sloth ..kinda like a crack baby
 
 </div>
 
-<div class="post" data-post-id="4230" data-author="12345" data-date="2005-02-09T11:14:10+00:00">
+<div class="post" data-post-id="4230" data-author="12345" data-date="2005-02-09T11:14:10+00:00" data-subject="">
 
 Could fall in the category of 'A friend told me about it', but Sloth used to have a large following at UWEC.  If you were in Schneider after hours it was difficult to ignore the Slothers talking back and forth across the room (low-tech ICQ).  Other campus labs were similiar if not as bad.  Quite a few people were sucked in trying to figure out what the fuss was all about.
 
 </div>
 
-<div class="post" data-post-id="4231" data-author="13" data-date="2005-02-09T11:38:56+00:00">
+<div class="post" data-post-id="4231" data-author="13" data-date="2005-02-09T11:38:56+00:00" data-subject="">
 
 Diazz (Kyuss of Soulmud) introduced me to SlothMUDII and FoxMUD
 
@@ -92,7 +92,7 @@ quite a lot of us, we used to hem up the computer lab
 
 </div>
 
-<div class="post" data-post-id="4232" data-author="impz" data-date="2005-02-09T11:44:09+00:00">
+<div class="post" data-post-id="4232" data-author="impz" data-date="2005-02-09T11:44:09+00:00" data-subject="">
 
 Mine is definitely a "fren intro me in". Still remember, i was serving the army then. One of my superiors (Himura) then was playing this game (which is slothmudIII) and i was very curious by the text going down and descriptions. I played MMORPG then and found it boring as there was little interaction in the game. Then one day, i just asked if he can teach me, he was glad to and a friend of his (Vik) decided to help me along. The late Quins and other existing players such as Packy, Gti, Choong, Chibi, Rojak (original one) also taught me the tricks of the game when i was very small..
 
@@ -100,7 +100,7 @@ I guess that's when i got hooked by this game :)..heh.
 
 </div>
 
-<div class="post" data-post-id="4236" data-author="Calim" data-date="2005-02-09T12:35:29+00:00">
+<div class="post" data-post-id="4236" data-author="Calim" data-date="2005-02-09T12:35:29+00:00" data-subject="">
 
 Ok 12345, who the hell are u?  I thought the UWEC following was dead and gone, or at least down to me and a few friends of the friend who was the sloth dealer to us all!  
 
@@ -110,7 +110,7 @@ Desade and Calim are the 2 main char's I've played in my days on sloth, since sp
 
 </div>
 
-<div class="post" data-post-id="4238" data-author="12345" data-date="2005-02-09T12:41:33+00:00">
+<div class="post" data-post-id="4238" data-author="12345" data-date="2005-02-09T12:41:33+00:00" data-subject="">
 
 Nothing anonymous about me, just like the username :)
 
@@ -118,7 +118,7 @@ Played Sloth I 92-94 as Ender, my girlfriend at the time played as Princess.  Wo
 
 </div>
 
-<div class="post" data-post-id="4239" data-author="Leaf" data-date="2005-02-09T12:52:17+00:00">
+<div class="post" data-post-id="4239" data-author="Leaf" data-date="2005-02-09T12:52:17+00:00" data-subject="">
 
 I'm hurt 13 u didn't add me to ur nice little list.
 
@@ -158,7 +158,7 @@ on Sloth?  Well, let me tell u something... YES!!!
 
 </div>
 
-<div class="post" data-post-id="4240" data-author="13" data-date="2005-02-09T13:07:42+00:00">
+<div class="post" data-post-id="4240" data-author="13" data-date="2005-02-09T13:07:42+00:00" data-subject="">
 
 You didn't start playing Sloth until years after the time I'm talking about Will.
 
@@ -176,13 +176,13 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="4241" data-author="Leaf" data-date="2005-02-09T13:11:31+00:00">
+<div class="post" data-post-id="4241" data-author="Leaf" data-date="2005-02-09T13:11:31+00:00" data-subject="">
 
 Yea but I just sooo fucking rock, u should of put my name there anyways.
 
 </div>
 
-<div class="post" data-post-id="4242" data-author="rith" data-date="2005-02-09T13:16:43+00:00">
+<div class="post" data-post-id="4242" data-author="rith" data-date="2005-02-09T13:16:43+00:00" data-subject="">
 
 Ok i found ok sloth from most of my school mates. A friends of mine actually started playing sloth when he was in a friends house who was slothing at that time (dont recall the chars name). After that it got most of the school playing (well not most of us) like Ker, Barael, Chainer, Hotara, Wert, Stone, Blaze (orginal) not to mention my self. Those events lead us to playing mud.
 
@@ -190,7 +190,7 @@ Ps : sloth is infectious!!!
 
 </div>
 
-<div class="post" data-post-id="4243" data-author="12345" data-date="2005-02-09T13:25:20+00:00">
+<div class="post" data-post-id="4243" data-author="12345" data-date="2005-02-09T13:25:20+00:00" data-subject="">
 
 Actually, the _best_ feature of playing in groups was dying.  It was too easy to ask someone else in the lab to go recall you or grab your corpse.  And if they didn't know where you were, you just walked them through it (or did it yourself).
 
@@ -198,7 +198,7 @@ Now I have to use this ICQ thing, and even though the people helping me are pret
 
 </div>
 
-<div class="post" data-post-id="4248" data-author="Avatar" data-date="2005-02-09T14:37:48+00:00">
+<div class="post" data-post-id="4248" data-author="Avatar" data-date="2005-02-09T14:37:48+00:00" data-subject="Sloth">
 
 Computer labs were cool.  I found sloth during some search, I don't remember where either via Gopher or some emailed Mud List.  We didn't have web sites back in those days.  I've still got a partial hard copy of the eqlist that used to be sent around via email.
 
@@ -208,7 +208,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="4256" data-author=".kitn" data-date="2005-02-09T15:25:14+00:00">
+<div class="post" data-post-id="4256" data-author=".kitn" data-date="2005-02-09T15:25:14+00:00" data-subject="">
 
 I suspect that for 90% of Russians it will be "I read an article in a book called "The best computer games: Volume 3 (i think)" and logged on, so might be an idea to add that option :)[/quote:2wrtkkby]
 
@@ -216,7 +216,7 @@ It was volume two, but it doesnt matter, add that as an option!
 
 </div>
 
-<div class="post" data-post-id="4257" data-author="12345" data-date="2005-02-09T15:37:50+00:00">
+<div class="post" data-post-id="4257" data-author="12345" data-date="2005-02-09T15:37:50+00:00" data-subject="Re: Sloth">
 
 Hey 12345, ender, whatever.  Did you used to scuba dive?  I think I talked to you on Sloth way back when.[/quote:hjo1q3nx]
 
@@ -226,7 +226,7 @@ We both travelled similar circles for a while because of Princess.  Duncan is an
 
 </div>
 
-<div class="post" data-post-id="4280" data-author="Calim" data-date="2005-02-09T17:26:53+00:00">
+<div class="post" data-post-id="4280" data-author="Calim" data-date="2005-02-09T17:26:53+00:00" data-subject="">
 
 Ok, one of the original slothers in schneider.  I think back when you were there, there were some high school kids who snuck into the lab to play sloth.  One of them was later a classmate of mine in the CS program.  He got me started in spring 97, and the following summer, SII died and SIII was born.  Desade cost me at least a letter grade in all my classes :)  That fall, 3 of us would all play in the CS lab in phillips, less restrictions from CNS people.  1.5 years later, i was using sloth to keep in touch with those people cuz they hadn't graduated.  
 
@@ -238,7 +238,7 @@ I am sure there is a tree of ppl off of malachi that still plays, I just won't m
 
 </div>
 
-<div class="post" data-post-id="4293" data-author="**Jake**" data-date="2005-02-09T21:03:44+00:00">
+<div class="post" data-post-id="4293" data-author="**Jake**" data-date="2005-02-09T21:03:44+00:00" data-subject="Bored on the VAX">
 
 Back in 1992, I was bored on a VAX/VMS system and did a 'who' to find out who was on-line.  I needed help with something (I don't recall the question).  I saw someone with the name "slacker".  He answered my question and then told me I should try out this really addictive game.
 
@@ -256,7 +256,7 @@ Jake
 
 </div>
 
-<div class="post" data-post-id="4294" data-author="*Splork*" data-date="2005-02-09T21:11:19+00:00">
+<div class="post" data-post-id="4294" data-author="*Splork*" data-date="2005-02-09T21:11:19+00:00" data-subject="">
 
 I'd actually like the to hear Kjartan's story on how sloth began and why it ended up getting closed....
 
@@ -266,7 +266,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="4302" data-author="kjartan" data-date="2005-02-09T21:48:18+00:00">
+<div class="post" data-post-id="4302" data-author="kjartan" data-date="2005-02-09T21:48:18+00:00" data-subject="">
 
 Yeah, OK.
 
@@ -282,7 +282,7 @@ And that is Sloth I's history.  There's a fictionalized version in the backstory
 
 </div>
 
-<div class="post" data-post-id="4304" data-author="12345" data-date="2005-02-10T01:06:36+00:00">
+<div class="post" data-post-id="4304" data-author="12345" data-date="2005-02-10T01:06:36+00:00" data-subject="">
 
 Heh, those were fun days.  I remember there was a 4th creator, Lyrra, I think who left early.  Geddy and Vom seemed to disagree regularly and if you think the gods are fickle now.. you should have known the original Vom (KJ is a bit calmer).  Specficly, I think it was Ultimus or Blush who got the idea to kill the Bront.  Apparently, the bront was never meant to be killed.  When the 7 biggest players in the game managed to drag it down and make it a regular cycle, Vom got a little upset, changed the bront and pretty much dared them to kill it.
 
@@ -292,13 +292,13 @@ Say what you will about Splork, I haven't seen him kill half the mud yet.  :lol:
 
 </div>
 
-<div class="post" data-post-id="4305" data-author="impz" data-date="2005-02-10T03:39:57+00:00">
+<div class="post" data-post-id="4305" data-author="impz" data-date="2005-02-10T03:39:57+00:00" data-subject="">
 
 just been a total newbie (since i only started mudding late slothmud 3. How did slothmud 2 transist to slothmud 3. Any oldbies keen to tell this newbie about it ? :)
 
 </div>
 
-<div class="post" data-post-id="4306" data-author="Akasha2" data-date="2005-02-10T03:49:29+00:00">
+<div class="post" data-post-id="4306" data-author="Akasha2" data-date="2005-02-10T03:49:29+00:00" data-subject="">
 
 I got addicted to Sloth at the middle of Sloth 2.  I remember my friends and I had a RPG group that played D&D and Cthulu, and one of them gave me my first computer, and Amiga with no hard drive and an 800 baud modem.  This was way back in 1993 I believe.  He knew a BBS that  cattered to MUDS and introduced me to the concept, and he had played SlothMUD once before that night.  So he showed me how to log on and gave me the PC, which I played on a little 13" B&W TV in my bedroom.  
 
@@ -318,7 +318,7 @@ And of course: Akasha
 
 </div>
 
-<div class="post" data-post-id="4307" data-author="impz" data-date="2005-02-10T04:21:40+00:00">
+<div class="post" data-post-id="4307" data-author="impz" data-date="2005-02-10T04:21:40+00:00" data-subject="">
 
 haha, in a way, akasha made me feel weird.
 
@@ -326,13 +326,13 @@ Asryal immortalized in less than 2 years of mud experience. But i will try to le
 
 </div>
 
-<div class="post" data-post-id="4308" data-author="Deju" data-date="2005-02-10T05:06:28+00:00">
+<div class="post" data-post-id="4308" data-author="Deju" data-date="2005-02-10T05:06:28+00:00" data-subject="">
 
 Its honestly too long ago for me to remember how i got hooked up with sloth.  I came in the middle of Sloth II, and quickly set up my mudbookie business :).  Once sloth II closed, and sloth III opened up, i took a long break, and have been playing off an on (mostly on) ever since.
 
 </div>
 
-<div class="post" data-post-id="4309" data-author="Mustang" data-date="2005-02-10T05:15:03+00:00">
+<div class="post" data-post-id="4309" data-author="Mustang" data-date="2005-02-10T05:15:03+00:00" data-subject="">
 
 hmm where should i start?
 
@@ -352,7 +352,7 @@ Mustang/Al
 
 </div>
 
-<div class="post" data-post-id="4310" data-author="Driven" data-date="2005-02-10T05:39:02+00:00">
+<div class="post" data-post-id="4310" data-author="Driven" data-date="2005-02-10T05:39:02+00:00" data-subject="">
 
 Started playing in Fall of 95 as Erasia on SlothMUD II at the suggestion of a friend in college.  At the time I was the head justice God on FieryMUD, but used Sloth as a home away from home to screw around.  Grouped often with AQUAMAN, Midnight, and Froggy.  Erasia's stats sucked, but I was able to amass a decent amount of gold... when someone auctioned off a character named Maniac who had nice stats.  I bought Maniac, and played Maniac until the end of Slothmud II grouping with Karma, Chaffee, Turbo, Dariel, Kirimasa, among others.  
 
@@ -362,7 +362,7 @@ I convinced myself that I wanted to stop playing mortal, so I immorted Maniac to
 
 </div>
 
-<div class="post" data-post-id="4312" data-author="Alberich" data-date="2005-02-10T06:21:56+00:00">
+<div class="post" data-post-id="4312" data-author="Alberich" data-date="2005-02-10T06:21:56+00:00" data-subject="">
 
 wow, I shouldn't have started this, make me feel like complete newbie  :oops: 
 
@@ -372,7 +372,7 @@ sorry russians, I cannot figure out how to add options to existing polls, if you
 
 </div>
 
-<div class="post" data-post-id="4313" data-author="Mirax" data-date="2005-02-10T07:41:34+00:00">
+<div class="post" data-post-id="4313" data-author="Mirax" data-date="2005-02-10T07:41:34+00:00" data-subject="some results">
 
 Looks like "TMC/Mudconnect" have same effectiveness as "Happened across the website and got hooked".. Do we still need voting though?
 
@@ -380,7 +380,7 @@ p.s. yes, Jake, i've voted yet. do it every day and a little more, so dont wipe 
 
 </div>
 
-<div class="post" data-post-id="4318" data-author="Akasha2" data-date="2005-02-10T12:10:30+00:00">
+<div class="post" data-post-id="4318" data-author="Akasha2" data-date="2005-02-10T12:10:30+00:00" data-subject="">
 
 Going back down to Impz asking about the transition from Sloth2 to Sloth3, at the time it happened I was without internest access so I missed it.  But it was truly dishearting at the time to finally get access returned and try to log onto Sloth and it wasn't there.  I can't remember if there was anything at all there.  I seem to remember the title screen coming up with a message of some sort saying Sloth would return shortly (but this may be a figment of my imagination, I can't recall exactly).  It was a year or or so before I actually logged back in again.
 
@@ -390,7 +390,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="4320" data-author="13" data-date="2005-02-10T12:26:02+00:00">
+<div class="post" data-post-id="4320" data-author="13" data-date="2005-02-10T12:26:02+00:00" data-subject="">
 
 [quote:cod4awth]I remember turning to soultraders for a while after sloth went down, coz it was basically sloth2, until some moron took the code and destroyed the game, turning it into a player-less mud. [/quote:cod4awth]
 
@@ -412,7 +412,7 @@ will continue to be while it is up and I have fingers.
 
 </div>
 
-<div class="post" data-post-id="4322" data-author="Akasha2" data-date="2005-02-10T12:49:41+00:00">
+<div class="post" data-post-id="4322" data-author="Akasha2" data-date="2005-02-10T12:49:41+00:00" data-subject="Re: some results">
 
 > **Mirax wrote:**
 > Looks like "TMC/Mudconnect" have same effectiveness as "Happened across the website and got hooked".. Do we still need voting though?
@@ -425,7 +425,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="4323" data-author="13" data-date="2005-02-10T13:20:02+00:00">
+<div class="post" data-post-id="4323" data-author="13" data-date="2005-02-10T13:20:02+00:00" data-subject="">
 
 This is a whole new generation of tank and stabbers and grippers
 
@@ -441,7 +441,7 @@ I can just see it now
 
 </div>
 
-<div class="post" data-post-id="4324" data-author="blackmore" data-date="2005-02-10T14:06:42+00:00">
+<div class="post" data-post-id="4324" data-author="blackmore" data-date="2005-02-10T14:06:42+00:00" data-subject="">
 
 To make a short story long...
 
@@ -453,7 +453,7 @@ A few years later, I was bored again, and Plough was playing on S3 and suggested
 
 </div>
 
-<div class="post" data-post-id="4351" data-author="Malison" data-date="2005-02-10T19:35:11+00:00">
+<div class="post" data-post-id="4351" data-author="Malison" data-date="2005-02-10T19:35:11+00:00" data-subject="">
 
 I started playing in 2001ish, when I was introduced to Sloth by my two brothers, Chaos (Confusion, Prometheus, Zalasta, Dann) and Darktemplar (Surge, several others whose names i've forgotten).  I started playing a Ele (wa cl ma th), had no idea about what was good eq or good strats, and didn't like groups.  After about a year and a half I got bored when I realized I still hadn't passed 30 prime, so I took a break.  A 2.5 year break.
 
@@ -461,13 +461,13 @@ I returned then because I realized that this was still a good game, just that I 
 
 </div>
 
-<div class="post" data-post-id="4372" data-author="Shadowbane" data-date="2005-02-11T05:26:27+00:00">
+<div class="post" data-post-id="4372" data-author="Shadowbane" data-date="2005-02-11T05:26:27+00:00" data-subject="">
 
 Well lemme see, I firdt started playing way back on SlothI, back when it was still run by Geddy, so that woulda been fall 1992 or spring 1993.  Happened across Sloth III by looking for it on TMC just to see if it was still around 10 years later. That was a year and 1/2 ago and I'm just as hooked now as I was way back when.
 
 </div>
 
-<div class="post" data-post-id="4373" data-author="biff" data-date="2005-02-11T05:52:46+00:00">
+<div class="post" data-post-id="4373" data-author="biff" data-date="2005-02-11T05:52:46+00:00" data-subject="">
 
 Ah, well if anyone is interested I played sloth I for quite a while and even finally got a SoJ the day before the wipe, being that I had played several muds up to immort or very high atleast only to have them disappear on me, I didn't wanna start on sloth again fearing another wipe... (what a long sentence!!) Anyway, I played sloth 2 after a year or so but the pthieving at that time was outta hand, totally ruined the game iho, so after being pthieved several times over a couple of monthes I had had enough... then a couple of years later and playing a couple sloth clone muds, I saw it on the mud list for zmud and checked it out, course I was instantly hooked again :) anyway been playing 3 for several years and got some cool punks to play here too, or atleast 1
 
@@ -477,7 +477,7 @@ Biff
 
 </div>
 
-<div class="post" data-post-id="4384" data-author="Autolycos" data-date="2005-02-11T16:32:46+00:00">
+<div class="post" data-post-id="4384" data-author="Autolycos" data-date="2005-02-11T16:32:46+00:00" data-subject="">
 
 bleh!  I started back in 1997.  after being retired multiple times :) 
 
@@ -495,7 +495,7 @@ Auto.. the splorkenator!
 
 </div>
 
-<div class="post" data-post-id="4387" data-author="Avatar" data-date="2005-02-11T17:59:47+00:00">
+<div class="post" data-post-id="4387" data-author="Avatar" data-date="2005-02-11T17:59:47+00:00" data-subject="mud">
 
 I started I believe fall of '92.  I must have had a '386 with a slow modem in my room at Purdue, and other students nearby had laptops and faster computers.  We used to hit the computer labs similar to other stories on here.  We had a group of people that played including Tigris, Dodger, Palamon(?) and several others that I don't remember.  After Sloth1 I never connected to Sloth2 until real late into it's life.  I think I had maybe a 1x40 before the end.  I started again when Sloth3 came up and I've fallen into a pattern that I guess is normal for me...play regularly for a few months then not connect at all for a few months.
 

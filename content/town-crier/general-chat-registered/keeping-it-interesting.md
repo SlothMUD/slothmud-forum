@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="35376" data-author="Drule" data-date="2014-07-07T07:19:02+00:00">
+<div class="post" data-post-id="35376" data-author="Drule" data-date="2014-07-07T07:19:02+00:00" data-subject="Keeping it Interesting">
 
 Just some Ogres fun, enjoy!
 
@@ -774,7 +774,7 @@ Van -- 'damn!'
 
 </div>
 
-<div class="post" data-post-id="35381" data-author="Thraxas" data-date="2014-07-09T13:28:36+00:00">
+<div class="post" data-post-id="35381" data-author="Thraxas" data-date="2014-07-09T13:28:36+00:00" data-subject="Re: Keeping it Interesting">
 
 Long Post - read it all - didnt get it ...
 
@@ -784,7 +784,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="35385" data-author="Marvel" data-date="2014-07-12T01:20:22+00:00">
+<div class="post" data-post-id="35385" data-author="Marvel" data-date="2014-07-12T01:20:22+00:00" data-subject="Re: Keeping it Interesting">
 
 vilezzzs be stealin' me exp!
 
@@ -802,7 +802,7 @@ And this is why necros don't group.
 
 </div>
 
-<div class="post" data-post-id="35386" data-author="Thraxas" data-date="2014-07-12T09:40:35+00:00">
+<div class="post" data-post-id="35386" data-author="Thraxas" data-date="2014-07-12T09:40:35+00:00" data-subject="Re: Keeping it Interesting">
 
 Necros dont group? hmm 
 
@@ -816,7 +816,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="35387" data-author="Marvel" data-date="2014-07-12T13:07:24+00:00">
+<div class="post" data-post-id="35387" data-author="Marvel" data-date="2014-07-12T13:07:24+00:00" data-subject="Re: Keeping it Interesting">
 
 That's exactly what I explained. You don't get it, thus you don't group. You don't find this amusing or 'get' it. What else can I do? I explained why it was amusing to them, and what makes that group amusing to them.
 
@@ -824,7 +824,7 @@ Then I threw in the typical antisocial dig at necro primes...
 
 </div>
 
-<div class="post" data-post-id="35404" data-author="DarkArtist" data-date="2014-07-26T17:14:16+00:00">
+<div class="post" data-post-id="35404" data-author="DarkArtist" data-date="2014-07-26T17:14:16+00:00" data-subject="Re: Keeping it Interesting">
 
 I didn't find it amusing before, but I do now...
 

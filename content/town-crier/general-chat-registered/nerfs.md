@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="12999" data-author="Guinex" data-date="2006-06-16T20:35:19+00:00">
+<div class="post" data-post-id="12999" data-author="Guinex" data-date="2006-06-16T20:35:19+00:00" data-subject="Nerfs">
 
 As for how nerfs go, we get notified when something increases in power.
 
@@ -18,7 +18,7 @@ Perhaps can skills/spells/classes get posted in news too when the power decrease
 
 </div>
 
-<div class="post" data-post-id="13001" data-author="Leaf" data-date="2006-06-16T21:57:40+00:00">
+<div class="post" data-post-id="13001" data-author="Leaf" data-date="2006-06-16T21:57:40+00:00" data-subject="">
 
 Wooo looks like Necro's JuJu got Nerfed once again ...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36127" data-author="*Idjit*" data-date="2015-10-27T23:05:34+00:00">
+<div class="post" data-post-id="36127" data-author="*Idjit*" data-date="2015-10-27T23:05:34+00:00" data-subject="2015 Halloween Quest Leader Poll">
 
 Good afternoon, the search for new candidates is now closed and the poll is now created.
 

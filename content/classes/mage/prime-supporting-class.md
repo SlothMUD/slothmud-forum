@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="15447" data-author="Ioa" data-date="2006-12-04T18:49:15+00:00">
+<div class="post" data-post-id="15447" data-author="Ioa" data-date="2006-12-04T18:49:15+00:00" data-subject="prime/supporting class">
 
 Hi all,
 
@@ -24,7 +24,7 @@ eg. HP and MP per level HP and MP Regen per level?
 
 </div>
 
-<div class="post" data-post-id="15451" data-author="Malison" data-date="2006-12-04T22:53:16+00:00">
+<div class="post" data-post-id="15451" data-author="Malison" data-date="2006-12-04T22:53:16+00:00" data-subject="">
 
 Your prime and secondary class determine your stat order.  Mage primes' best stat is always Int.
 
@@ -38,7 +38,7 @@ If you're considering cleric and mage for sec and tert you should probably go /c
 
 </div>
 
-<div class="post" data-post-id="15452" data-author="Rynquald" data-date="2006-12-04T23:47:40+00:00">
+<div class="post" data-post-id="15452" data-author="Rynquald" data-date="2006-12-04T23:47:40+00:00" data-subject="">
 
 Attunement is also better with mage in prime.
 

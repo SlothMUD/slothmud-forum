@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="17278" data-author="Gimlet" data-date="2007-03-13T19:31:10+00:00">
+<div class="post" data-post-id="17278" data-author="Gimlet" data-date="2007-03-13T19:31:10+00:00" data-subject="WTB/WTT: the following :P">
 
 looking for:
 
@@ -30,7 +30,7 @@ look for starbuck/poit in game or send me mudmail
 
 </div>
 
-<div class="post" data-post-id="17279" data-author="*juggleblood*" data-date="2007-03-13T20:12:07+00:00">
+<div class="post" data-post-id="17279" data-author="*juggleblood*" data-date="2007-03-13T20:12:07+00:00" data-subject="">
 
 For Trade
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="26523" data-author="Toxis" data-date="2008-10-01T21:02:46+00:00">
+<div class="post" data-post-id="26523" data-author="Toxis" data-date="2008-10-01T21:02:46+00:00" data-subject="2 man?">
 
 What is the best overall 2 man group?  I'm talking for xp, eq, or anything that would come along.
 
@@ -24,7 +24,7 @@ Any thoughts on this?
 
 </div>
 
-<div class="post" data-post-id="26526" data-author="alias" data-date="2008-10-01T21:34:56+00:00">
+<div class="post" data-post-id="26526" data-author="alias" data-date="2008-10-01T21:34:56+00:00" data-subject="">
 
 wa,th,cl,ma and ne,dr,ma,cl
 
@@ -32,19 +32,19 @@ imho
 
 </div>
 
-<div class="post" data-post-id="26527" data-author="alias" data-date="2008-10-01T21:37:29+00:00">
+<div class="post" data-post-id="26527" data-author="alias" data-date="2008-10-01T21:37:29+00:00" data-subject="">
 
 on reconsideration Wa,dr,cl,ne and Ne,dr,cl,ba
 
 </div>
 
-<div class="post" data-post-id="26528" data-author="Tap" data-date="2008-10-01T22:29:18+00:00">
+<div class="post" data-post-id="26528" data-author="Tap" data-date="2008-10-01T22:29:18+00:00" data-subject="">
 
 t/m/mo/c with c/d/ma/b
 
 </div>
 
-<div class="post" data-post-id="26529" data-author="jezer" data-date="2008-10-02T00:26:16+00:00">
+<div class="post" data-post-id="26529" data-author="jezer" data-date="2008-10-02T00:26:16+00:00" data-subject="">
 
 [img:2kiap7ae]http://www.web4j.com/images/youngnerdlove.jpg[/img:2kiap7ae]
 
@@ -52,7 +52,7 @@ Two Man? Definately, Autolycos and Weasel (They are the one looking at you stran
 
 </div>
 
-<div class="post" data-post-id="26530" data-author="Weasel" data-date="2008-10-02T00:27:58+00:00">
+<div class="post" data-post-id="26530" data-author="Weasel" data-date="2008-10-02T00:27:58+00:00" data-subject="">
 
 "You have attempted to access something on BeastieMania.com that is restricted to the general public. Failure to log in with the correct credentials has been logged and action will be taken if subsequent attacks are made.
 
@@ -62,7 +62,7 @@ It is recommended that you return to the BeastieMania Homepage to find the page 
 
 </div>
 
-<div class="post" data-post-id="26531" data-author="Weasel" data-date="2008-10-02T00:29:30+00:00">
+<div class="post" data-post-id="26531" data-author="Weasel" data-date="2008-10-02T00:29:30+00:00" data-subject="">
 
 ah ok now I got it..
 
@@ -72,13 +72,13 @@ ah ok now I got it..
 
 </div>
 
-<div class="post" data-post-id="26532" data-author="jezer" data-date="2008-10-02T00:44:19+00:00">
+<div class="post" data-post-id="26532" data-author="jezer" data-date="2008-10-02T00:44:19+00:00" data-subject="">
 
 I had to find a new pic, yes that was my original... the snicker is just totally destroyed now :( Stoopid, smart sites and there hotlink detection.
 
 </div>
 
-<div class="post" data-post-id="26533" data-author="Toxis" data-date="2008-10-02T02:17:45+00:00">
+<div class="post" data-post-id="26533" data-author="Toxis" data-date="2008-10-02T02:17:45+00:00" data-subject="">
 
 I want to thank you for your constructive criticizm... made me laugh.
 
@@ -88,13 +88,13 @@ I decided to go with Stelios (dr ma cl ne) for myself, and Kim can play Flicka (
 
 </div>
 
-<div class="post" data-post-id="26534" data-author="*juggleblood*" data-date="2008-10-02T04:36:05+00:00">
+<div class="post" data-post-id="26534" data-author="*juggleblood*" data-date="2008-10-02T04:36:05+00:00" data-subject="">
 
 I'd say a th/cl/mo/wa with a ma/dr/cl/ba stabbing in -11 ac
 
 </div>
 
-<div class="post" data-post-id="26535" data-author="jezer" data-date="2008-10-02T05:19:34+00:00">
+<div class="post" data-post-id="26535" data-author="jezer" data-date="2008-10-02T05:19:34+00:00" data-subject="">
 
 I'd say a th/cl/mo/wa with a ma/dr/cl/ba stabbing in -11 ac[/quote:2l6juvap]
 
@@ -114,7 +114,7 @@ WTS jezer! You can have him for a black crappie!
 
 </div>
 
-<div class="post" data-post-id="26536" data-author="Tap" data-date="2008-10-02T10:17:27+00:00">
+<div class="post" data-post-id="26536" data-author="Tap" data-date="2008-10-02T10:17:27+00:00" data-subject="2 man doesn&#x27;t always pan out OR Darwin doesn&#x27;t always work">
 
 Man gets burned while using lighter to siphon gas [/size:1h6omfpe]
 
@@ -132,7 +132,7 @@ The woman was referred to authorities for being party to theft. Formal charges h
 
 </div>
 
-<div class="post" data-post-id="26537" data-author="Widow" data-date="2008-10-02T12:13:42+00:00">
+<div class="post" data-post-id="26537" data-author="Widow" data-date="2008-10-02T12:13:42+00:00" data-subject="">
 
 The classo of ne/dr/cl/ba is a great classo for solo or support, but leaves a lot to be desired when it comes to blasting. I've two-manned with thieves and warriors and always seem to offer more for the chop and large mob kills rather than on the stab/blast side.
 
@@ -140,7 +140,7 @@ That could just be that I can't write a script to save my life - but it's my .02
 
 </div>
 
-<div class="post" data-post-id="26541" data-author="*juggleblood*" data-date="2008-10-02T17:30:37+00:00">
+<div class="post" data-post-id="26541" data-author="*juggleblood*" data-date="2008-10-02T17:30:37+00:00" data-subject="">
 
 apprentice,
 
@@ -176,19 +176,19 @@ i would have to say the most powerful twosome i've observed recently is Sa and C
 
 </div>
 
-<div class="post" data-post-id="26543" data-author="Medios" data-date="2008-10-02T22:58:11+00:00">
+<div class="post" data-post-id="26543" data-author="Medios" data-date="2008-10-02T22:58:11+00:00" data-subject="">
 
 First of all the thief has no blasting, this sux when you got high ac and low +hit.  Secondly quad bard is not going to reign anything.  It is a fairly good combo but I think an old school warrior would be a better pick.  You take someone like Rub with -12 and a decent stab and blasting and add a good caster or a Minstrel and your off the hook.
 
 </div>
 
-<div class="post" data-post-id="26545" data-author="Yinao" data-date="2008-10-03T03:34:08+00:00">
+<div class="post" data-post-id="26545" data-author="Yinao" data-date="2008-10-03T03:34:08+00:00" data-subject="">
 
 Reign isn't really that bad, I've reigned quite a few mobs in charisma mode, which is maxed what whatever quad is maxed at, pretty easily most of the time
 
 </div>
 
-<div class="post" data-post-id="26547" data-author="Medios" data-date="2008-10-03T20:33:14+00:00">
+<div class="post" data-post-id="26547" data-author="Medios" data-date="2008-10-03T20:33:14+00:00" data-subject="">
 
 Reign isn't really that bad, I've reigned quite a few mobs in charisma mode, which is maxed what whatever quad is maxed at, pretty easily most of the time[/quote:uzrsebvv]
 
@@ -196,7 +196,7 @@ Hrmm a few weeks ago when my purchased charisma was not adding to total I couldn
 
 </div>
 
-<div class="post" data-post-id="26548" data-author="Yinao" data-date="2008-10-04T01:46:09+00:00">
+<div class="post" data-post-id="26548" data-author="Yinao" data-date="2008-10-04T01:46:09+00:00" data-subject="">
 
 Hrm, well I haven't really tried recently, the times I did use it was when I played more, before they took the added charisma off when they capped the max for buying...
 

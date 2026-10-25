@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="34475" data-author="Toxis" data-date="2013-10-08T01:22:32+00:00">
+<div class="post" data-post-id="34475" data-author="Toxis" data-date="2013-10-08T01:22:32+00:00" data-subject="Avatar Shop">
 
 Avatar Shop buysâ€¦
 
@@ -32,19 +32,19 @@ Iâ€™ve created a list of items that I think could improve gameplay at avata
 
 </div>
 
-<div class="post" data-post-id="34476" data-author="Magi" data-date="2013-10-09T15:47:03+00:00">
+<div class="post" data-post-id="34476" data-author="Magi" data-date="2013-10-09T15:47:03+00:00" data-subject="Re: Avatar Shop">
 
 To be fair... most people quit or get bored before av 40 :)
 
 </div>
 
-<div class="post" data-post-id="34477" data-author="Sleeping Forest" data-date="2013-10-09T17:01:01+00:00">
+<div class="post" data-post-id="34477" data-author="Sleeping Forest" data-date="2013-10-09T17:01:01+00:00" data-subject="Re: Avatar Shop">
 
 from what i have seen players get overwhelmed with the "to next lvl" xps and drift off...
 
 </div>
 
-<div class="post" data-post-id="34478" data-author="Tuck" data-date="2013-10-10T19:38:30+00:00">
+<div class="post" data-post-id="34478" data-author="Tuck" data-date="2013-10-10T19:38:30+00:00" data-subject="Re: Avatar Shop">
 
 > **Toxis wrote:**
 > 1: Healbonus and spell buy cap at 50
@@ -73,7 +73,7 @@ thanks
 
 </div>
 
-<div class="post" data-post-id="34479" data-author="*Breeze*" data-date="2013-10-11T10:22:24+00:00">
+<div class="post" data-post-id="34479" data-author="*Breeze*" data-date="2013-10-11T10:22:24+00:00" data-subject="Re: Avatar Shop">
 
 1,2: no comment. thats splorks arena
 
@@ -87,7 +87,7 @@ will have to re mudl it again, or find someone willing to do it for me the way i
 
 </div>
 
-<div class="post" data-post-id="34480" data-author="*juggleblood*" data-date="2013-10-11T11:32:50+00:00">
+<div class="post" data-post-id="34480" data-author="*juggleblood*" data-date="2013-10-11T11:32:50+00:00" data-subject="Re: Avatar Shop">
 
 I could do manual avatar light resets on request for people.
 
@@ -95,13 +95,13 @@ What is the policy on it, i.e. how much is a reset supposed to cost?
 
 </div>
 
-<div class="post" data-post-id="34481" data-author="Yasik" data-date="2013-10-11T12:04:11+00:00">
+<div class="post" data-post-id="34481" data-author="Yasik" data-date="2013-10-11T12:04:11+00:00" data-subject="Re: Avatar Shop">
 
 Free restring would be cool if returned.
 
 </div>
 
-<div class="post" data-post-id="34482" data-author="*Breeze*" data-date="2013-10-11T15:57:57+00:00">
+<div class="post" data-post-id="34482" data-author="*Breeze*" data-date="2013-10-11T15:57:57+00:00" data-subject="Re: Avatar Shop">
 
 Will email Juggleblood when I get to work. 
 
@@ -117,7 +117,7 @@ breeze
 
 </div>
 
-<div class="post" data-post-id="34483" data-author="Burl" data-date="2013-10-11T18:22:53+00:00">
+<div class="post" data-post-id="34483" data-author="Burl" data-date="2013-10-11T18:22:53+00:00" data-subject="Re: Avatar Shop">
 
 > **Quote:**
 > As for the cost, I will talk to Juggleblood and see what he thinks of my alternative to paying gold.
@@ -126,13 +126,13 @@ Sounds like Breeze is thinking first born child or something   :lol:
 
 </div>
 
-<div class="post" data-post-id="34484" data-author="*Breeze*" data-date="2013-10-11T19:10:01+00:00">
+<div class="post" data-post-id="34484" data-author="*Breeze*" data-date="2013-10-11T19:10:01+00:00" data-subject="Re: Avatar Shop">
 
 Nah... Got too many of those already. Will possibly accept 2nd borns tho.
 
 </div>
 
-<div class="post" data-post-id="34485" data-author="Tuck" data-date="2013-10-11T19:56:03+00:00">
+<div class="post" data-post-id="34485" data-author="Tuck" data-date="2013-10-11T19:56:03+00:00" data-subject="Re: Avatar Shop">
 
 Also,
 
@@ -142,13 +142,13 @@ Thanks in advance.
 
 </div>
 
-<div class="post" data-post-id="34486" data-author="Tuck" data-date="2013-10-11T19:58:33+00:00">
+<div class="post" data-post-id="34486" data-author="Tuck" data-date="2013-10-11T19:58:33+00:00" data-subject="Re: Avatar Shop">
 
 Splork, please say something. We puny mortals need your attention :)
 
 </div>
 
-<div class="post" data-post-id="34489" data-author="Tuck" data-date="2013-10-11T21:50:33+00:00">
+<div class="post" data-post-id="34489" data-author="Tuck" data-date="2013-10-11T21:50:33+00:00" data-subject="Re: Avatar Shop">
 
 i have damage reduction capped at 11. and avatar shop offer me to increase it. is it mean my damage reduction will increase (or i can't increase it due the cap)?
 
@@ -156,7 +156,7 @@ thanks
 
 </div>
 
-<div class="post" data-post-id="34494" data-author="*Breeze*" data-date="2013-10-14T20:47:24+00:00">
+<div class="post" data-post-id="34494" data-author="*Breeze*" data-date="2013-10-14T20:47:24+00:00" data-subject="Re: Avatar Shop">
 
 avatar shop does not take caps into account.  
 
@@ -166,7 +166,7 @@ we cant do _everything_ for ya..
 
 </div>
 
-<div class="post" data-post-id="34495" data-author="Tuck" data-date="2013-10-15T18:49:47+00:00">
+<div class="post" data-post-id="34495" data-author="Tuck" data-date="2013-10-15T18:49:47+00:00" data-subject="Re: Avatar Shop">
 
 > ***Breeze* wrote:**
 > we cant do _everything_ for ya..

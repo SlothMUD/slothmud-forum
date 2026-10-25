@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="32890" data-author="*Splork*" data-date="2011-09-10T14:02:10+00:00">
+<div class="post" data-post-id="32890" data-author="*Splork*" data-date="2011-09-10T14:02:10+00:00" data-subject="Suggestions for drachma/elite equipment">
 
 Please give name of item, stats and suggested costs.
 
@@ -20,7 +20,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32892" data-author="Insomniac" data-date="2011-09-10T19:34:56+00:00">
+<div class="post" data-post-id="32892" data-author="Insomniac" data-date="2011-09-10T19:34:56+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 First of all, great idea and thanks again for asking/listening.
 
@@ -164,7 +164,7 @@ None of these items can be used by the same player together.
 
 </div>
 
-<div class="post" data-post-id="32893" data-author="Cizin" data-date="2011-09-10T19:59:20+00:00">
+<div class="post" data-post-id="32893" data-author="Cizin" data-date="2011-09-10T19:59:20+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 First i would rework existing drachma eq that noone wants to buy:
 
@@ -272,7 +272,7 @@ Clasp gives the user +1 MAX_DEX
 
 </div>
 
-<div class="post" data-post-id="32894" data-author="Mug" data-date="2011-09-10T20:38:57+00:00">
+<div class="post" data-post-id="32894" data-author="Mug" data-date="2011-09-10T20:38:57+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 a burning skull
 
@@ -384,7 +384,7 @@ running shoes
 
 </div>
 
-<div class="post" data-post-id="32895" data-author="Bettina" data-date="2011-09-10T22:15:43+00:00">
+<div class="post" data-post-id="32895" data-author="Bettina" data-date="2011-09-10T22:15:43+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 Okie think there's a lack of nice heal bonus eq ingame so something like this may be nice:
 
@@ -402,7 +402,7 @@ cost: 1000 drachma
 
 </div>
 
-<div class="post" data-post-id="32896" data-author="Cizin" data-date="2011-09-10T22:38:50+00:00">
+<div class="post" data-post-id="32896" data-author="Cizin" data-date="2011-09-10T22:38:50+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 I would really love to see how one would balance all that suggested eq.
 
@@ -416,7 +416,7 @@ As I ve already stated ... it would be probably wiser to rework current drachma 
 
 </div>
 
-<div class="post" data-post-id="32905" data-author="Insomniac" data-date="2011-09-13T22:18:20+00:00">
+<div class="post" data-post-id="32905" data-author="Insomniac" data-date="2011-09-13T22:18:20+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 > **Cizin wrote:**
 > Max_UC eq would rock !
@@ -427,7 +427,7 @@ Also, bump, cmon folks. Let's post some more ideas...?
 
 </div>
 
-<div class="post" data-post-id="32907" data-author="Toxis" data-date="2011-09-14T13:37:12+00:00">
+<div class="post" data-post-id="32907" data-author="Toxis" data-date="2011-09-14T13:37:12+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 I'm working on the eq now, I would love more ideas.
 
@@ -435,7 +435,7 @@ I'm working on the eq now, I would love more ideas.
 
 </div>
 
-<div class="post" data-post-id="32908" data-author="Insomniac" data-date="2011-09-14T14:14:08+00:00">
+<div class="post" data-post-id="32908" data-author="Insomniac" data-date="2011-09-14T14:14:08+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 > **Toxis wrote:**
 > I'm working on the eq now, I would love more ideas.
@@ -466,7 +466,7 @@ etc etc
 
 </div>
 
-<div class="post" data-post-id="32909" data-author="Skyv" data-date="2011-09-14T15:06:49+00:00">
+<div class="post" data-post-id="32909" data-author="Skyv" data-date="2011-09-14T15:06:49+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 Hi all,  just wanted to toss out another type of idea for spending my well (or poorly) earned drachma.  I was wondering whether we could get an actual blacksmith type mob set up that would be able to build custome equipment for each person.  I realize this could get very ugly trying to balance all of the equipment slots in terms of costs/benefits, so maybe to start with, a clasp builder.  This idea might overlap too much with avatar lights/9x40 avatar bonus purchases, and I'm sure that's where the idea came from (creativity = not my strong suit), but this might provide some interim customization for people who are still a long way away from 9x40 (which is most of us).  
 
@@ -480,7 +480,7 @@ Just an idea to throw out there
 
 </div>
 
-<div class="post" data-post-id="32910" data-author="Oboe" data-date="2011-09-14T17:12:34+00:00">
+<div class="post" data-post-id="32910" data-author="Oboe" data-date="2011-09-14T17:12:34+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 Two ideas:
 
@@ -534,13 +534,13 @@ may use this item.
 
 </div>
 
-<div class="post" data-post-id="32912" data-author="Toxis" data-date="2011-09-15T19:51:14+00:00">
+<div class="post" data-post-id="32912" data-author="Toxis" data-date="2011-09-15T19:51:14+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 For feedback, all the ideas are good.
 
 </div>
 
-<div class="post" data-post-id="32913" data-author="Acedia" data-date="2011-09-16T16:45:05+00:00">
+<div class="post" data-post-id="32913" data-author="Acedia" data-date="2011-09-16T16:45:05+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 So what qualifies as drachma eq anymore anyways.  We have some ingame stuff that oftentime surpass most drachma eq (see Cizin's long list of undesireable/trash drachma eq).  Are we just tacking on more stats and disregarding any semblance of balance?
 
@@ -562,7 +562,7 @@ Acedia
 
 </div>
 
-<div class="post" data-post-id="32914" data-author="Toxis" data-date="2011-09-16T19:17:31+00:00">
+<div class="post" data-post-id="32914" data-author="Toxis" data-date="2011-09-16T19:17:31+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 In my opinion, and this does not reflect the opinion of anyone else or the admin of sloth, but drachma eq should be the desireable eq at av40.
 
@@ -574,7 +574,7 @@ What I'm attempting to do is make at least 90% of the drachma eq desireable, and
 
 </div>
 
-<div class="post" data-post-id="32915" data-author="Tigris" data-date="2011-09-18T05:25:13+00:00">
+<div class="post" data-post-id="32915" data-author="Tigris" data-date="2011-09-18T05:25:13+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 This isn't an item suggestion although I am trying to think of some of them, but as an idea it would be nice if we could get more then 1/3 back for selling drachma equip we have bought in the past. I am not opposed to loosing some drach for an item I might of used for 80 levels but the drachma equip you may want/need at 2x40 may be very different then drachma equip you want/need at 4x40. Just a thought. 
 
@@ -582,7 +582,7 @@ Thanks for your efforts regardless
 
 </div>
 
-<div class="post" data-post-id="32916" data-author="*Splork*" data-date="2011-09-18T10:17:46+00:00">
+<div class="post" data-post-id="32916" data-author="*Splork*" data-date="2011-09-18T10:17:46+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 Exchange rates will be increased once we have new equipment ready for the shops. 
 
@@ -590,7 +590,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32917" data-author="Insomniac" data-date="2011-09-18T13:32:00+00:00">
+<div class="post" data-post-id="32917" data-author="Insomniac" data-date="2011-09-18T13:32:00+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 > ***Splork* wrote:**
 > Exchange rates will be increased once we have new equipment ready for the shops. 
@@ -603,13 +603,13 @@ Great, was just about to say I think there should be a short period of time (1-2
 
 </div>
 
-<div class="post" data-post-id="32919" data-author="Mug" data-date="2011-09-19T10:22:26+00:00">
+<div class="post" data-post-id="32919" data-author="Mug" data-date="2011-09-19T10:22:26+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 1 question can we unsocket eq we might wanna trade in and keep the rune?
 
 </div>
 
-<div class="post" data-post-id="32920" data-author="*Breeze*" data-date="2011-09-19T17:17:56+00:00">
+<div class="post" data-post-id="32920" data-author="*Breeze*" data-date="2011-09-19T17:17:56+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 > **Mug wrote:**
 > 1 question can we unsocket eq we might wanna trade in and keep the rune?
@@ -618,7 +618,7 @@ I already answered that here >>  [<LINK_TEXT text="http://www.slothmud.org/forum
 
 </div>
 
-<div class="post" data-post-id="32922" data-author="Shyla" data-date="2011-09-20T03:31:41+00:00">
+<div class="post" data-post-id="32922" data-author="Shyla" data-date="2011-09-20T03:31:41+00:00" data-subject="Re: Suggestions for drachma/elite equipment">
 
 I know this is going to sound odd and i am not even sure there is a way to code it but can we get something like a
 

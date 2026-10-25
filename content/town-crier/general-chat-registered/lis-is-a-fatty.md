@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="15979" data-author="13" data-date="2007-01-04T23:28:50+00:00">
+<div class="post" data-post-id="15979" data-author="13" data-date="2007-01-04T23:28:50+00:00" data-subject="Lis is a fatty">
 
 <618hp 9ma 160mv><173730687xp>
 
@@ -44,19 +44,19 @@ Lis scarfs assorted sweetmeats.
 
 </div>
 
-<div class="post" data-post-id="15986" data-author="Lis" data-date="2007-01-05T00:18:21+00:00">
+<div class="post" data-post-id="15986" data-author="Lis" data-date="2007-01-05T00:18:21+00:00" data-subject="">
 
 FAT MAGE - HAPPY MAGE!!!!!! :twisted:
 
 </div>
 
-<div class="post" data-post-id="15990" data-author="brady" data-date="2007-01-05T01:16:25+00:00">
+<div class="post" data-post-id="15990" data-author="brady" data-date="2007-01-05T01:16:25+00:00" data-subject="">
 
 Not very jolly for a fat guy...
 
 </div>
 
-<div class="post" data-post-id="15992" data-author="Medios" data-date="2007-01-05T02:46:53+00:00">
+<div class="post" data-post-id="15992" data-author="Medios" data-date="2007-01-05T02:46:53+00:00" data-subject="">
 
 Lis
 
@@ -70,31 +70,31 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15993" data-author="tincts" data-date="2007-01-05T03:25:16+00:00">
+<div class="post" data-post-id="15993" data-author="tincts" data-date="2007-01-05T03:25:16+00:00" data-subject="">
 
 Quiet mage = Good mage
 
 </div>
 
-<div class="post" data-post-id="15994" data-author="Krok" data-date="2007-01-05T03:36:13+00:00">
+<div class="post" data-post-id="15994" data-author="Krok" data-date="2007-01-05T03:36:13+00:00" data-subject="">
 
 Good mage - dead mage.
 
 </div>
 
-<div class="post" data-post-id="15997" data-author="resouh" data-date="2007-01-05T09:08:01+00:00">
+<div class="post" data-post-id="15997" data-author="resouh" data-date="2007-01-05T09:08:01+00:00" data-subject="">
 
 *slowly moves toward nearest exit*
 
 </div>
 
-<div class="post" data-post-id="15998" data-author="Krok" data-date="2007-01-05T11:22:24+00:00">
+<div class="post" data-post-id="15998" data-author="Krok" data-date="2007-01-05T11:22:24+00:00" data-subject="">
 
 Hah, you can't escape a KLURIK!
 
 </div>
 
-<div class="post" data-post-id="15999" data-author="Autolycos" data-date="2007-01-05T14:44:02+00:00">
+<div class="post" data-post-id="15999" data-author="Autolycos" data-date="2007-01-05T14:44:02+00:00" data-subject="">
 
 ...
 

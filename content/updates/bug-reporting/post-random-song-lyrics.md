@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="29225" data-author="Toxis" data-date="2009-05-19T19:09:34+00:00">
+<div class="post" data-post-id="29225" data-author="Toxis" data-date="2009-05-19T19:09:34+00:00" data-subject="Post Random Song Lyrics">
 
 Who here remembers Wasted Youth by Meatloaf?  It was actually the start of another song, not really a song, but the end is funnier than hell.
 
@@ -96,7 +96,7 @@ You know I love you, but youâ€™ve got a hell of a lot to learn about rock n
 
 </div>
 
-<div class="post" data-post-id="29241" data-author="Medios" data-date="2009-05-20T22:10:40+00:00">
+<div class="post" data-post-id="29241" data-author="Medios" data-date="2009-05-20T22:10:40+00:00" data-subject="">
 
 "The Fletcher Memorial Home" by Pink Floyd.
 
@@ -176,7 +176,7 @@ glitterati - wealthy or famous people who conspicuously or ostentatiously attend
 
 </div>
 
-<div class="post" data-post-id="29243" data-author="jezer" data-date="2009-05-21T00:17:23+00:00">
+<div class="post" data-post-id="29243" data-author="jezer" data-date="2009-05-21T00:17:23+00:00" data-subject="">
 
 Here we go round the mulberry bush
 

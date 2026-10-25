@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="27219" data-author="Medios" data-date="2008-11-19T21:06:41+00:00">
+<div class="post" data-post-id="27219" data-author="Medios" data-date="2008-11-19T21:06:41+00:00" data-subject="Change we can believe in!">
 
 First Obama has been hand picking all of Clinton's lackies.  From Rohm Emmanuel to Hillary Clinton herself.  
 
@@ -26,7 +26,7 @@ This is almost funny when you take away the racism and the inherent problems we 
 
 </div>
 
-<div class="post" data-post-id="27221" data-author="Yasik2" data-date="2008-11-19T21:26:32+00:00">
+<div class="post" data-post-id="27221" data-author="Yasik2" data-date="2008-11-19T21:26:32+00:00" data-subject="">
 
 not my business, but isnt it good to have democratic president nao?
 
@@ -34,13 +34,13 @@ not my business, but isnt it good to have democratic president nao?
 
 </div>
 
-<div class="post" data-post-id="27222" data-author="Medios" data-date="2008-11-19T21:47:27+00:00">
+<div class="post" data-post-id="27222" data-author="Medios" data-date="2008-11-19T21:47:27+00:00" data-subject="">
 
 I understand inflationary spending and I have never defended Republicans for spending.  My point is about the media and how they put the bow on this election about 6 months ago.  Now reality sets in.
 
 </div>
 
-<div class="post" data-post-id="27223" data-author="Weasel" data-date="2008-11-19T21:50:12+00:00">
+<div class="post" data-post-id="27223" data-author="Weasel" data-date="2008-11-19T21:50:12+00:00" data-subject="">
 
 not my business, but isnt it good to have democratic president nao?[/quote:38xhqsgl]
 
@@ -52,7 +52,7 @@ Almost choked when I heard AlQueda #2 call Obama a 'house negro' earlier today..
 
 </div>
 
-<div class="post" data-post-id="27224" data-author="Medios" data-date="2008-11-19T21:59:06+00:00">
+<div class="post" data-post-id="27224" data-author="Medios" data-date="2008-11-19T21:59:06+00:00" data-subject="">
 
 not my business, but isnt it good to have democratic president nao?[/quote:7s4o51tj]
 
@@ -68,7 +68,7 @@ Everyone knows that Congress means nothing.  The president can do anything he wa
 
 </div>
 
-<div class="post" data-post-id="27225" data-author="Yasik2" data-date="2008-11-19T22:10:57+00:00">
+<div class="post" data-post-id="27225" data-author="Yasik2" data-date="2008-11-19T22:10:57+00:00" data-subject="">
 
 its not my graph, i found it on teh internets
 
@@ -78,7 +78,7 @@ common logic etc
 
 </div>
 
-<div class="post" data-post-id="27227" data-author="jezer" data-date="2008-11-19T22:41:24+00:00">
+<div class="post" data-post-id="27227" data-author="jezer" data-date="2008-11-19T22:41:24+00:00" data-subject="">
 
 [img:2z0e9tt0]http://i199.photobucket.com/albums/aa67/buttonbaggins2/funny_monkey.jpg[/img:2z0e9tt0]
 
@@ -86,7 +86,7 @@ Poor Obama doesn't have a chance... and you guys are going to ride him to the bi
 
 </div>
 
-<div class="post" data-post-id="27228" data-author="Tap" data-date="2008-11-19T23:09:33+00:00">
+<div class="post" data-post-id="27228" data-author="Tap" data-date="2008-11-19T23:09:33+00:00" data-subject="">
 
 [quote:g8fkro95]You might want to take a look at what the stockmarket's been doing since Obama was elected in particular. I am starting to wonder if there will be much of a country left for him to rule by January.[/quote:g8fkro95]
 
@@ -106,7 +106,7 @@ look up mass deception and get back to me
 
 </div>
 
-<div class="post" data-post-id="27250" data-author="banedon" data-date="2008-11-20T06:28:54+00:00">
+<div class="post" data-post-id="27250" data-author="banedon" data-date="2008-11-20T06:28:54+00:00" data-subject="">
 
 How can you blame Democrats...  Was it the Democrats who voted us into this war?  :P[/quote:crtxpk6n]
 
@@ -124,7 +124,7 @@ edit: found these 2 links from the US Congress records showing who voted  how on
 
 </div>
 
-<div class="post" data-post-id="27251" data-author="jezer" data-date="2008-11-20T06:34:40+00:00">
+<div class="post" data-post-id="27251" data-author="jezer" data-date="2008-11-20T06:34:40+00:00" data-subject="">
 
 [img:ulltq7ui]http://www.smh.com.au/ffximage/2007/05/29/stosur_wideweb__470x346,0.jpg[/img:ulltq7ui]
 

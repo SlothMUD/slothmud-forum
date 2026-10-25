@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="758" data-author="Best" data-date="2004-06-16T17:47:34+00:00">
+<div class="post" data-post-id="758" data-author="Best" data-date="2004-06-16T17:47:34+00:00" data-subject="wtb or wtt ruyi">
 
 Wtb or trade ruyi of destruction.
 

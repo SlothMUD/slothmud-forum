@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38561" data-author="Gorka" data-date="2017-12-26T00:04:14+00:00">
+<div class="post" data-post-id="38561" data-author="Gorka" data-date="2017-12-26T00:04:14+00:00" data-subject="How does the Reaction Bonus help?">
 
 Apparently Breeze has stated that he would answer this question some time on the crier when he gets to it... It's a question on the mind of most monks and thieves... How does the MAX_DEX reaction bonus help with class skills... Obviously players are wondering if the "investment" in MAX_DEX equipment is beneficial. Given the little that we know about this already... Also I wonder why the monk skill "counterattack" is conspicuously absent from the list provided, given the fact it shares common ground with the other skills listed.
 
@@ -66,7 +66,7 @@ dodge, focus, presage, prediction, evade capture, and deathtouch.
 
 </div>
 
-<div class="post" data-post-id="38562" data-author="*Breeze*" data-date="2017-12-26T00:12:23+00:00">
+<div class="post" data-post-id="38562" data-author="*Breeze*" data-date="2017-12-26T00:12:23+00:00" data-subject="Re: How does the Reaction Bonus help?">
 
 its simply this...
 
@@ -80,7 +80,7 @@ in essence, it helps you make a skill roll if you fail.
 
 </div>
 
-<div class="post" data-post-id="38564" data-author="Josiah" data-date="2017-12-26T02:51:00+00:00">
+<div class="post" data-post-id="38564" data-author="Josiah" data-date="2017-12-26T02:51:00+00:00" data-subject="Re: How does the Reaction Bonus help?">
 
 That's a big deal for skills like deathtouch.  You start with an 85% chance to touch:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="5934" data-author="Selene" data-date="2005-05-02T23:03:27+00:00">
+<div class="post" data-post-id="5934" data-author="Selene" data-date="2005-05-02T23:03:27+00:00" data-subject="Char Sale">
 
 I spent months getting this char back, and I keep coming back over the years, but I have decided to leave sloth for a long time, possibly not to return, I have more on my plate now than I did when I got this char back. So i am selling him with his gold, eq, and whatever junk is on him.
 
@@ -576,7 +576,7 @@ thank you!
 
 </div>
 
-<div class="post" data-post-id="5935" data-author="Selene" data-date="2005-05-02T23:08:57+00:00">
+<div class="post" data-post-id="5935" data-author="Selene" data-date="2005-05-02T23:08:57+00:00" data-subject="">
 
 Since i forgot to add this to the post:
 
@@ -594,19 +594,19 @@ pixie
 
 </div>
 
-<div class="post" data-post-id="5940" data-author="firebrand" data-date="2005-05-03T12:37:26+00:00">
+<div class="post" data-post-id="5940" data-author="firebrand" data-date="2005-05-03T12:37:26+00:00" data-subject="">
 
 i don't care how pissed you get at me for this, but BITE ME.  you're selling a potential lyme pth char.  if you want cash, go sell blood or plasma or dna at your local dna bank.  selling 1's and 0's for real cash not only is stoopud, it is a rip off to whoever buys him.  they are not paying for a char all spelled/eq'ed/coined up.  they are paying for a goddamned PASSWORD.  they did not build this char up and work hard to get him where he is nor do they know what is on his rap sheet.  whoever buys this char is not only purchasing a password, but the history that goes along with this char.....however shining or shady it may be.  if you don't want to play for a while or retire altogether, why not have a giveaway quest?  (yes, we mortals with imm permission and/or assistance CAN hold our own quests.)
 
 </div>
 
-<div class="post" data-post-id="5941" data-author="firebrand" data-date="2005-05-03T12:40:32+00:00">
+<div class="post" data-post-id="5941" data-author="firebrand" data-date="2005-05-03T12:40:32+00:00" data-subject="">
 
 i also forgot to add that if you use any of the payment methods except for possibly paypal and/or money order, the info on your check or credit card can be used to steal your REAL LIFE identity, so think twice and then think twice again about this.  it can be used to wreck your credit and your life.  unauthorized purchase, card cloning, check cloning and signature forgery is all possible with this.
 
 </div>
 
-<div class="post" data-post-id="5942" data-author="12345" data-date="2005-05-03T12:48:21+00:00">
+<div class="post" data-post-id="5942" data-author="12345" data-date="2005-05-03T12:48:21+00:00" data-subject="">
 
 If a pthief paid $100 just so they could steal on Lyme, you kinda have to wonder if they're ripping off themselves or other players.
 
@@ -614,7 +614,7 @@ Me thinks both.
 
 </div>
 
-<div class="post" data-post-id="5943" data-author="Alberich" data-date="2005-05-03T12:49:09+00:00">
+<div class="post" data-post-id="5943" data-author="Alberich" data-date="2005-05-03T12:49:09+00:00" data-subject="Re: Char Sale">
 
 [i:bfnr7br5][u:bfnr7br5][b:bfnr7br5]This is your chance to buy your way into avatarhood!!![/b:bfnr7br5][/u:bfnr7br5][/i:bfnr7br5][/color:bfnr7br5]  [/quote:bfnr7br5]
 
@@ -622,13 +622,13 @@ a noob with a char at high levels is still a noob, just a more obnoxious one.
 
 </div>
 
-<div class="post" data-post-id="5944" data-author="Leaf" data-date="2005-05-03T12:49:24+00:00">
+<div class="post" data-post-id="5944" data-author="Leaf" data-date="2005-05-03T12:49:24+00:00" data-subject="">
 
 La La La La LA!
 
 </div>
 
-<div class="post" data-post-id="5951" data-author="Autolycos" data-date="2005-05-03T15:56:08+00:00">
+<div class="post" data-post-id="5951" data-author="Autolycos" data-date="2005-05-03T15:56:08+00:00" data-subject="">
 
 WOW,  why didnt i think of that, i wasted all those years retiring and coming back etc etc, and working to get to lyme... 
 
@@ -640,7 +640,7 @@ nothing bad happens to them repeatedly until they quit  :twisted:
 
 </div>
 
-<div class="post" data-post-id="5953" data-author="Leaf" data-date="2005-05-03T16:19:54+00:00">
+<div class="post" data-post-id="5953" data-author="Leaf" data-date="2005-05-03T16:19:54+00:00" data-subject="">
 
 To buy a char and then to strip him, and then to use that char just to be a
 
@@ -654,7 +654,7 @@ I highly dought someone is going to spend $100 and use him as a pthief.
 
 </div>
 
-<div class="post" data-post-id="5954" data-author="Autolycos" data-date="2005-05-03T17:01:21+00:00">
+<div class="post" data-post-id="5954" data-author="Autolycos" data-date="2005-05-03T17:01:21+00:00" data-subject="">
 
 no.. but maybe someone might buy this char, and use a 
 

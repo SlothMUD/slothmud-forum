@@ -10,7 +10,7 @@ locked: false
 post_count: 36
 ---
 
-<div class="post" data-post-id="39747" data-author="Gorka" data-date="2021-07-01T07:01:20+00:00">
+<div class="post" data-post-id="39747" data-author="Gorka" data-date="2021-07-01T07:01:20+00:00" data-subject="Enable Toggling of Crit Hits.">
 
 I decided to try and subdue all the positive energy plane mobs today. It was a task rendered nearly impossible by game lag, ruling out my magic missile approach... and massive critical and critical hits.
 
@@ -24,13 +24,13 @@ Until such time, I think me subduing is pretty much a waste of time. It's frustr
 
 </div>
 
-<div class="post" data-post-id="39748" data-author="Gorka" data-date="2021-07-01T07:37:55+00:00">
+<div class="post" data-post-id="39748" data-author="Gorka" data-date="2021-07-01T07:37:55+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 I guess it would be possible to nightmare the mob and chuck spiritual hammers at it until it morts... if you want us to do that please put something in the shops with an unlimited supply that does about 5-10 damage... but I think I am being fair and rational in my request. The other option would be the potion of weakness that I have already suggested - but even if a players damage was 5, critical hits and massive hits would nearly as frequently kill the mob you are subduing without walling it first.
 
 </div>
 
-<div class="post" data-post-id="39750" data-author="Josiah" data-date="2021-07-01T14:36:25+00:00">
+<div class="post" data-post-id="39750" data-author="Josiah" data-date="2021-07-01T14:36:25+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 You can turn off critical hits yourself by using shapeshift. Consider using cephalopod for best results.
 
@@ -38,7 +38,7 @@ You might be able to further limit damage by using a sidhe charm of greater flui
 
 </div>
 
-<div class="post" data-post-id="39751" data-author="Insomnia" data-date="2021-07-01T15:01:39+00:00">
+<div class="post" data-post-id="39751" data-author="Insomnia" data-date="2021-07-01T15:01:39+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 While I also have a problem with critical hits from time to time, I'm not sure it really needs to be fixed.
 
@@ -46,7 +46,7 @@ I mean... from what I see, items matter a lot more than mobs, and in most areas 
 
 </div>
 
-<div class="post" data-post-id="39752" data-author="Gorka" data-date="2021-07-01T15:05:13+00:00">
+<div class="post" data-post-id="39752" data-author="Gorka" data-date="2021-07-01T15:05:13+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 I did think about shifting, but it's not practical for big hard hitting mobs. I'll at least give it a go.
 
@@ -64,7 +64,7 @@ I've nearly finished subduing all of ether, fire, water, earth planes today. The
 
 </div>
 
-<div class="post" data-post-id="39753" data-author="Gorka" data-date="2021-07-01T15:06:55+00:00">
+<div class="post" data-post-id="39753" data-author="Gorka" data-date="2021-07-01T15:06:55+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 > **Insomnia wrote:**
 > While I also have a problem with critical hits from time to time, I'm not sure it really needs to be fixed.
@@ -75,7 +75,7 @@ Insomnia you don't have Massive Critical Hit. From memory it's 3x damage, and it
 
 </div>
 
-<div class="post" data-post-id="39754" data-author="Insomnia" data-date="2021-07-01T16:02:03+00:00">
+<div class="post" data-post-id="39754" data-author="Insomnia" data-date="2021-07-01T16:02:03+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 Yes, I don't have massive critical hit, and I also don't have high damage, armor class, or second wind. And if I get bashed, I die... So I really don't feel that warriors are the ones in a weak position here, sorry. :)
 
@@ -85,7 +85,7 @@ I also may be mistaken, but I think you can get 80% of conquest points from 20% 
 
 </div>
 
-<div class="post" data-post-id="39755" data-author="Gorka" data-date="2021-07-01T16:37:24+00:00">
+<div class="post" data-post-id="39755" data-author="Gorka" data-date="2021-07-01T16:37:24+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 We are just not going to agree about critical hits. The lore of the game is that you advance forward, gathering greater rewards... when those rewards are then turned against you to become a disadvantage it's really a big "f*** you for playing" to the player. The immortals have to decide if that's the message they want to give out. Players should also be in control of all skills that are "automatic." Because automatic removes a skill element for players, a main reason to play. Tossing webs for example should also be a toggle amongst any of the other skills which are automatic. There are places I don't want my mob webbed!
 
@@ -108,13 +108,13 @@ I have tried shifting, but I didn't find it superior than my subdue mode unshift
 
 </div>
 
-<div class="post" data-post-id="39758" data-author="Driven" data-date="2021-07-03T01:39:42+00:00">
+<div class="post" data-post-id="39758" data-author="Driven" data-date="2021-07-03T01:39:42+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 Just so I know where you're at, Gorka, are you using the contagion clasp and the gossa rings?
 
 </div>
 
-<div class="post" data-post-id="39759" data-author="Gorka" data-date="2021-07-03T03:25:21+00:00">
+<div class="post" data-post-id="39759" data-author="Gorka" data-date="2021-07-03T03:25:21+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 No, I just traded my chains for conquest points, and I don't have the gos rings (obviously the basalt and teakwood options are far easier to source) currently. If I recall correctly there is only 3 wearable slots with -dam eq, and massive crit hit and crit hit will still easily kill mobs if I wore them. I will get them again though if they become part of a wider, workable solution, but at the moment even if I wore them they won't make a big enough difference. 
 
@@ -126,19 +126,19 @@ A quick solution would be a potion of weakness, or perhaps a cheap drachma sword
 
 </div>
 
-<div class="post" data-post-id="39760" data-author="*teker*" data-date="2021-07-03T17:09:20+00:00">
+<div class="post" data-post-id="39760" data-author="*teker*" data-date="2021-07-03T17:09:20+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 How about disabling critical hits with autokill turned off?
 
 </div>
 
-<div class="post" data-post-id="39761" data-author="Gorka" data-date="2021-07-04T04:56:11+00:00">
+<div class="post" data-post-id="39761" data-author="Gorka" data-date="2021-07-04T04:56:11+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 That would be fantastic.
 
 </div>
 
-<div class="post" data-post-id="39762" data-author="Ker" data-date="2021-07-04T05:45:52+00:00">
+<div class="post" data-post-id="39762" data-author="Ker" data-date="2021-07-04T05:45:52+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 Hi Teker,
 
@@ -152,7 +152,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="39763" data-author="Gorka" data-date="2021-07-04T10:01:44+00:00">
+<div class="post" data-post-id="39763" data-author="Gorka" data-date="2021-07-04T10:01:44+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 > **Ker wrote:**
 > Many of us run autokill off and would like to enjoy our crits.
@@ -163,7 +163,7 @@ Pretty sure this is just a personal swipe at me and can be ignored. Because it m
 
 </div>
 
-<div class="post" data-post-id="39764" data-author="Ker" data-date="2021-07-04T10:30:42+00:00">
+<div class="post" data-post-id="39764" data-author="Ker" data-date="2021-07-04T10:30:42+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 No Swipe my dear Gorka.
 
@@ -177,7 +177,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="39765" data-author="Ker" data-date="2021-07-05T06:55:21+00:00">
+<div class="post" data-post-id="39765" data-author="Ker" data-date="2021-07-05T06:55:21+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 You expertly bind the unconscious form of Avatar Ithaqua, God of the Wind.
 
@@ -221,7 +221,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="39766" data-author="Gorka" data-date="2021-07-05T12:51:19+00:00">
+<div class="post" data-post-id="39766" data-author="Gorka" data-date="2021-07-05T12:51:19+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 You don't acknowledge the difference it takes for a player to do a solo subdue on a massive mob, versus you hiding behind Stun. You are not comparing apples with apples. If Stun can go off solo and can show he has a better subdue rate than I do, I will eat my words. But it will be the same.
 
@@ -245,7 +245,7 @@ If massive critical happens 10%, it means you on average you have less than 2 ro
 
 </div>
 
-<div class="post" data-post-id="39767" data-author="Ker" data-date="2021-07-05T14:05:24+00:00">
+<div class="post" data-post-id="39767" data-author="Ker" data-date="2021-07-05T14:05:24+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 Booohooo, I got so strong, did my own maths in my own head, and now I cannot subdue jack. Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
 
@@ -263,7 +263,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="39768" data-author="Gorka" data-date="2021-07-05T14:20:05+00:00">
+<div class="post" data-post-id="39768" data-author="Gorka" data-date="2021-07-05T14:20:05+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 > **Ker wrote:**
 > Both me and Stun strongly disagree with your bullshit "calculations"
@@ -306,7 +306,7 @@ Old Sloth Code for every one to see...
 
 </div>
 
-<div class="post" data-post-id="39770" data-author="Insomnia" data-date="2021-07-05T19:04:10+00:00">
+<div class="post" data-post-id="39770" data-author="Insomnia" data-date="2021-07-05T19:04:10+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 <1088/1088hp 700/900ma 199/393mv -%>
 
@@ -654,25 +654,25 @@ Doable... it's all doable...
 
 </div>
 
-<div class="post" data-post-id="39772" data-author="Insomnia" data-date="2021-07-05T19:59:25+00:00">
+<div class="post" data-post-id="39772" data-author="Insomnia" data-date="2021-07-05T19:59:25+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 One other idea: make an artifact or a drachma item that will force the opponent to do a report on every hit, or at least from time to time. This won't change anything in terms of player power (we will still have to switch to mage timing and magic missiles in order to subdue mobs in a reliable way), but will make things so much easier.
 
 </div>
 
-<div class="post" data-post-id="39773" data-author="Gorka" data-date="2021-07-05T20:14:29+00:00">
+<div class="post" data-post-id="39773" data-author="Gorka" data-date="2021-07-05T20:14:29+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 If I recall correctly, druids can see mob hp through MSDP while the other classes see percentages, or something like this. Druids also see what type the creature is, which is actually very useful - now that turn undead is somehow the greatest spell in the game (well at least for me damage wise).
 
 </div>
 
-<div class="post" data-post-id="39774" data-author="Driven" data-date="2021-07-11T11:37:00+00:00">
+<div class="post" data-post-id="39774" data-author="Driven" data-date="2021-07-11T11:37:00+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 Three new potions are in the game now.  I have also committed a change that disables massive critical hit on piercing weapons.  One new (relevent to this issue) forge has been approved, but I won't be able to code it until next week.
 
 </div>
 
-<div class="post" data-post-id="39775" data-author="Gorka" data-date="2021-07-11T12:25:17+00:00">
+<div class="post" data-post-id="39775" data-author="Gorka" data-date="2021-07-11T12:25:17+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 Unsure if this is one of the new potions... but I don't recall ever coming across it before... and it wasn't on the eqlist, it also had a coloured proc. I get the feeling it's a random pop as it loaded in City of Dis. Unfortunately I wasn't aware the potion might have been new until 5 mins later when I saw the announcement, hence I never figured out what exactly it did, apart from the fact it gave me a disease for 2 mins. When I get another I will post.
 
@@ -702,13 +702,13 @@ You choke down the potion and feel your insides writing in pain.
 
 </div>
 
-<div class="post" data-post-id="39776" data-author="Driven" data-date="2021-07-11T12:47:40+00:00">
+<div class="post" data-post-id="39776" data-author="Driven" data-date="2021-07-11T12:47:40+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 Yea, I'll fix the typo when I get to my computer.
 
 </div>
 
-<div class="post" data-post-id="39777" data-author="Gorka" data-date="2021-07-11T13:26:41+00:00">
+<div class="post" data-post-id="39777" data-author="Gorka" data-date="2021-07-11T13:26:41+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 This swirling potion is random popping on EU in other parts it appears. 
 
@@ -720,7 +720,7 @@ Crits were still firing with the potion, hence I believe the solution in play is
 
 </div>
 
-<div class="post" data-post-id="39779" data-author="jayclimbs" data-date="2021-07-11T20:36:42+00:00">
+<div class="post" data-post-id="39779" data-author="jayclimbs" data-date="2021-07-11T20:36:42+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 Rather than verbally kicking the crap out of each other, why not figure out what the difference between Gorka and everybody else is?
 
@@ -732,7 +732,7 @@ Gorka and Insomnia, take turns killing some mobs and recording the combat, compa
 
 </div>
 
-<div class="post" data-post-id="39790" data-author="Gorka" data-date="2021-07-20T17:01:00+00:00">
+<div class="post" data-post-id="39790" data-author="Gorka" data-date="2021-07-20T17:01:00+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 It would appear that piercing weapons won't massive critical hit anymore since reboot, which is a change which only effects warriors - as with massive critical hit they had no way to avoid doing 3x the damage 10% of the time... so essentially in regards to subduing there is "equality" amongst the classes now.
 
@@ -818,7 +818,7 @@ Gorka (gossip): yet I agree, probably harder to do than a bigger mob
 
 </div>
 
-<div class="post" data-post-id="39791" data-author="Gorka" data-date="2021-07-20T17:40:59+00:00">
+<div class="post" data-post-id="39791" data-author="Gorka" data-date="2021-07-20T17:40:59+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 Although it was me that originally suggested placing in game "a potion of weakness" - it's been added to the game in such a way even I doubt I will even use them. The potion was meant to complement the setting I wanted to turn off all critical hitting. I firmly believe that fighters should be able to adjust their power level. I mean we do it when playing with children... when sparring in boxing... but in sloth it's like it's just all hardcoded to be max damage - and really that's all we needed until the subdue thing came into the game. Sorry Zuzu, no one cares much about 4th of July redcoats...  :lol: 
 
@@ -840,7 +840,7 @@ I know a lot of players are currently focusing on the areas with large mobs... w
 
 </div>
 
-<div class="post" data-post-id="39792" data-author="Gorka" data-date="2021-07-20T20:12:00+00:00">
+<div class="post" data-post-id="39792" data-author="Gorka" data-date="2021-07-20T20:12:00+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 Thought I'd chuck this idea out there, it doesn't address all the issues... was just thinking about Belrath's point about how silly it is we have to make ourselves weaker to subdue something we are far superior too. What if player attributes such as STR/DEX/INT/WIS/CON/HIT/DAM were chucked into a formula to produce a subdue index, and that index gets compared to the index of the mob you are trying to subdue... and if your index is superior to that of the mob, success could a percentage - based on how superior your subdue index is to the mob and the condition of the mob. This would solve the issues related to smaller mobs being almost harder in some cases to subdue than mobs many times the size. From a theoretical point of view, also makes more sense...
 
@@ -850,7 +850,7 @@ This would be only one part of a complete solution, but it would help spending (
 
 </div>
 
-<div class="post" data-post-id="39793" data-author="Gorka" data-date="2021-07-20T20:46:12+00:00">
+<div class="post" data-post-id="39793" data-author="Gorka" data-date="2021-07-20T20:46:12+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 I don't know where Belrath found it, but I brought it on auction... It would appear to be one of the new potions.
 
@@ -906,7 +906,7 @@ Will it work on a mob though...? Finding out...
 
 </div>
 
-<div class="post" data-post-id="39794" data-author="Gorka" data-date="2021-07-21T04:07:45+00:00">
+<div class="post" data-post-id="39794" data-author="Gorka" data-date="2021-07-21T04:07:45+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 After some testing with Idjit, it appears that if mobs quaffed the new potions, the effects were being transferred to the mob... the -6 damage, and the hp reduction (Around 300 on the swirling). So it was potentially possible that a mob quaffing the elixir would have gone to 1hp - but not completely confirmed.
 
@@ -916,7 +916,7 @@ The "give but take approach" (MAX_DEX), the "not giving players the ability to m
 
 </div>
 
-<div class="post" data-post-id="39874" data-author="Gorka" data-date="2021-12-16T09:53:41+00:00">
+<div class="post" data-post-id="39874" data-author="Gorka" data-date="2021-12-16T09:53:41+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 > **Quote:**
 > I have also committed a change that disables massive critical hit on piercing weapons.
@@ -1003,19 +1003,19 @@ Has some code been accidentally reverted or something?
 
 </div>
 
-<div class="post" data-post-id="39880" data-author="Driven" data-date="2022-01-03T14:43:30+00:00">
+<div class="post" data-post-id="39880" data-author="Driven" data-date="2022-01-03T14:43:30+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 Fix has been committed to the vault.  Once Teker/Breeze push to the game machine and mud is rebuilt/rebooted, it will go live.
 
 </div>
 
-<div class="post" data-post-id="39882" data-author="Gorka" data-date="2022-01-11T14:58:28+00:00">
+<div class="post" data-post-id="39882" data-author="Gorka" data-date="2022-01-11T14:58:28+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 I sure hope the transfer has been done, and ready for next reboot...? I have killed about 15 big mobs today accidentally while trying to subdue, thanks to massive critical hit.
 
 </div>
 
-<div class="post" data-post-id="39883" data-author="Gorka" data-date="2022-01-11T21:18:17+00:00">
+<div class="post" data-post-id="39883" data-author="Gorka" data-date="2022-01-11T21:18:17+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
 Appears fixed! Thanks very much.
 

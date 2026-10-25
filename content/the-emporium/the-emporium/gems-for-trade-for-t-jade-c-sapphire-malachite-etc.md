@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36404" data-author="Teron" data-date="2016-01-02T15:51:57+00:00">
+<div class="post" data-post-id="36404" data-author="Teron" data-date="2016-01-02T15:51:57+00:00" data-subject="Gems for trade for T.Jade, C.Sapphire, Malachite, etc">
 
 Hello.
 

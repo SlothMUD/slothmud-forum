@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="30464" data-author="Thraxas" data-date="2009-12-09T15:15:43+00:00">
+<div class="post" data-post-id="30464" data-author="Thraxas" data-date="2009-12-09T15:15:43+00:00" data-subject="The Pied Piper of Hamelin">
 
 Theres been some discussion of Bard skills and how underpowered Bard prime is.
 
@@ -26,7 +26,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30465" data-author="*juggleblood*" data-date="2009-12-09T18:45:08+00:00">
+<div class="post" data-post-id="30465" data-author="*juggleblood*" data-date="2009-12-09T18:45:08+00:00" data-subject="">
 
 That would be pretty cool, and entertaining. If I ever get around to learning to code I'd like to add some success messages to various bard songs. I think that alone would be a big improvement to the bard class.
 
@@ -48,7 +48,7 @@ The active coders are kinda tied up in a larger project at the moment tho. You m
 
 </div>
 
-<div class="post" data-post-id="30466" data-author="jezer" data-date="2009-12-09T18:53:27+00:00">
+<div class="post" data-post-id="30466" data-author="jezer" data-date="2009-12-09T18:53:27+00:00" data-subject="Re: The Pied Piper of Hamelin">
 
 The bard sings his song and all level 1-5 (or whatever increasing with bard level) mobs in the vicinity (maybe 5 squares or increasing with level again) flock to the bards location follow him and will automatically assist him in whatever battle he's taking part in.
 
@@ -60,7 +60,7 @@ Can you imagine Kanae in School of Colemary with 20 zillion ceramic constructs u
 
 </div>
 
-<div class="post" data-post-id="30467" data-author="*Splork*" data-date="2009-12-09T22:39:14+00:00">
+<div class="post" data-post-id="30467" data-author="*Splork*" data-date="2009-12-09T22:39:14+00:00" data-subject="">
 
 Sadly, I shall burst your bubbles again.
 
@@ -74,19 +74,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30468" data-author="*juggleblood*" data-date="2009-12-09T23:57:08+00:00">
+<div class="post" data-post-id="30468" data-author="*juggleblood*" data-date="2009-12-09T23:57:08+00:00" data-subject="">
 
 Yeah i was afraid that might be the case.  Would be an interesting novelty song tho if it just actually caused rats and mice in a general area to come to the singer. Not sure what that would be useful for, but would be amusing...
 
 </div>
 
-<div class="post" data-post-id="30469" data-author="Mosaix" data-date="2009-12-10T04:29:48+00:00">
+<div class="post" data-post-id="30469" data-author="Mosaix" data-date="2009-12-10T04:29:48+00:00" data-subject="">
 
 Like an army of kobolds!!! :)
 
 </div>
 
-<div class="post" data-post-id="30476" data-author="harik" data-date="2009-12-11T04:56:13+00:00">
+<div class="post" data-post-id="30476" data-author="harik" data-date="2009-12-11T04:56:13+00:00" data-subject="">
 
 A non-follower use for it perhaps?  Something along the lines of a weak spell-shield for physical combat - the more rounds you play it before combat, the more slim chances of a rat getting in the way of a blow?
 

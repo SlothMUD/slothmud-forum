@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29625" data-author="*Splork*" data-date="2009-06-29T20:46:10+00:00">
+<div class="post" data-post-id="29625" data-author="*Splork*" data-date="2009-06-29T20:46:10+00:00" data-subject="Gems &amp; Runes for armor &amp; weapons!">
 
 I've just finished and committed the majority of the code needed for the tailoring of equipment and weapons.  A basic summary of the idea is this: 
 

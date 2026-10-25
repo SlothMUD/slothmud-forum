@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="38587" data-author="Gorka" data-date="2018-01-04T21:47:35+00:00">
+<div class="post" data-post-id="38587" data-author="Gorka" data-date="2018-01-04T21:47:35+00:00" data-subject="Proc Weapons">
 
 So there are weapons in the game with procs which do additional things other than roll a dice and hit a mob. Apparently they used to be more of a "thing" back in the days when perhaps the players were a little more hardcore. I've been doing some inquiries and come to these conclusions...
 
@@ -36,7 +36,7 @@ Raven's Fire 3d4 +1 +1 (Flame Tounge Proc) Damage: Not yet measured.
 
 </div>
 
-<div class="post" data-post-id="38616" data-author="Gorka" data-date="2018-01-09T22:54:34+00:00">
+<div class="post" data-post-id="38616" data-author="Gorka" data-date="2018-01-09T22:54:34+00:00" data-subject="Re: Proc Weapons">
 
 More details on Raven's Fire...
 
@@ -74,7 +74,7 @@ Counters Damage Lister: "Other"
 
 </div>
 
-<div class="post" data-post-id="38617" data-author="Teron" data-date="2018-01-10T02:17:50+00:00">
+<div class="post" data-post-id="38617" data-author="Teron" data-date="2018-01-10T02:17:50+00:00" data-subject="Re: Proc Weapons">
 
 an emerald broadsword: shields the target. Should shield the wielder. Proc rate around 1d10?
 
@@ -84,7 +84,7 @@ the zweihander: has two procs around 25 dam each: first it drains power from the
 
 </div>
 
-<div class="post" data-post-id="38628" data-author="Gorka" data-date="2018-01-17T18:27:57+00:00">
+<div class="post" data-post-id="38628" data-author="Gorka" data-date="2018-01-17T18:27:57+00:00" data-subject="Re: Proc Weapons">
 
 Thanks to Jackalope...
 
@@ -120,7 +120,7 @@ Counters Damage Lister: "Other"
 
 </div>
 
-<div class="post" data-post-id="38649" data-author="Gorka" data-date="2018-01-30T00:18:05+00:00">
+<div class="post" data-post-id="38649" data-author="Gorka" data-date="2018-01-30T00:18:05+00:00" data-subject="Re: Proc Weapons">
 
 Ok.
 
@@ -160,7 +160,7 @@ Proc damage on this weapon is disappointing, the fireball proc doesn't appear to
 
 </div>
 
-<div class="post" data-post-id="39148" data-author="Gorka" data-date="2019-04-05T14:42:14+00:00">
+<div class="post" data-post-id="39148" data-author="Gorka" data-date="2019-04-05T14:42:14+00:00" data-subject="Hellblade - Hell Yeah!">
 
 Hi I'm Gorka!
 
@@ -296,7 +296,7 @@ By the way, Hellblade is NOBITS but couldn't sharpen it... is that a bug, could 
 
 </div>
 
-<div class="post" data-post-id="39152" data-author="*Neptune*" data-date="2019-04-06T00:46:54+00:00">
+<div class="post" data-post-id="39152" data-author="*Neptune*" data-date="2019-04-06T00:46:54+00:00" data-subject="Re: Proc Weapons">
 
 A few things:
 
@@ -330,7 +330,7 @@ Stay tuned, and thanks for playing! :)
 
 </div>
 
-<div class="post" data-post-id="39155" data-author="Gorka" data-date="2019-04-08T10:14:00+00:00">
+<div class="post" data-post-id="39155" data-author="Gorka" data-date="2019-04-08T10:14:00+00:00" data-subject="The Dagger of Mortality&#x27;s Cleansing">
 
 I had been waiting for Eze to forge The Dagger of Mortality's Cleansing, but now that he's taking a break, I decided to forge it myself, based on the assumption it might be a proc weapon... and it is... I just can't figure out what it does... or if it even works...
 
@@ -396,7 +396,7 @@ A mirror image of a Kjeldoran mage wavers from existence!
 
 </div>
 
-<div class="post" data-post-id="39157" data-author="Gorka" data-date="2019-04-11T12:38:20+00:00">
+<div class="post" data-post-id="39157" data-author="Gorka" data-date="2019-04-11T12:38:20+00:00" data-subject="Re: Proc Weapons">
 
 Just forged the mace of elemental time and ran my tests. According to my logs I've only ever seen Taron with one. Unfortunately the damage of Colour Spray is about a 3rd of Ice Ray/Hellstrike/Flamestrike.
 
@@ -406,13 +406,13 @@ Colour Spray Proc Rate 1/10 - Dam is whatever your Colour Spray is.
 
 </div>
 
-<div class="post" data-post-id="39158" data-author="Driven" data-date="2019-04-11T15:07:56+00:00">
+<div class="post" data-post-id="39158" data-author="Driven" data-date="2019-04-11T15:07:56+00:00" data-subject="Re: Proc Weapons">
 
 Yea, that seems odd given that the whip is not even a forge and it has 3x damage at a 40% higher proc rate to boot.  Now granted, the mace has -1 spell saves, but I think any rational person doing the math would see that such a tradeoff is simply not worth it.
 
 </div>
 
-<div class="post" data-post-id="39159" data-author="Gorka" data-date="2019-04-11T15:45:26+00:00">
+<div class="post" data-post-id="39159" data-author="Gorka" data-date="2019-04-11T15:45:26+00:00" data-subject="Re: Proc Weapons">
 
 Yeah, when the whip came out, there was a serious jump in player damage. It was almost better than me in all my weapon damage gears using valor. I actually considered vaulting valor to use it, but found it to be about the same if you remember the stats from when I tested your firewind staff. It made a complete mockery of buying +1 dam for 800+ drachma. It probably averaged 100+ damage more a round for some players. I seriously expected it to get nerfed, it was a no brainer to me, but now it seems to have become a new standard with the winterblade and hellblade around to match it. I encourage any player to use one of these 3 weapons.
 
@@ -422,7 +422,7 @@ Regarding the elemental mace of time, would like to see it hit ethers. Would be 
 
 </div>
 
-<div class="post" data-post-id="39165" data-author="Gorka" data-date="2019-04-14T12:45:05+00:00">
+<div class="post" data-post-id="39165" data-author="Gorka" data-date="2019-04-14T12:45:05+00:00" data-subject="Re: Proc Weapons">
 
 I noticed today when fighting some undeads that dispel evil does the same damage as ice ray, hellstrike, flamestrike... and I thought to put it out there to the immortals that dispel evil and dispel good proc weapons would be good editions to the game as they would add options. They could especially be good for mid level players.
 

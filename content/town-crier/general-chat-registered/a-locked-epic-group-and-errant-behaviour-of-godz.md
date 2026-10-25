@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="31079" data-author="DSF" data-date="2010-05-04T00:48:41+00:00">
+<div class="post" data-post-id="31079" data-author="DSF" data-date="2010-05-04T00:48:41+00:00" data-subject="A Locked Epic Group and Errant Behaviour of Godz">
 
 GReetings, 
 
@@ -862,19 +862,19 @@ What say you?
 
 </div>
 
-<div class="post" data-post-id="31080" data-author="reboog" data-date="2010-05-04T08:08:54+00:00">
+<div class="post" data-post-id="31080" data-author="reboog" data-date="2010-05-04T08:08:54+00:00" data-subject="">
 
 KNEEL BEFORE GODZ
 
 </div>
 
-<div class="post" data-post-id="31081" data-author="Bazilus" data-date="2010-05-04T08:20:50+00:00">
+<div class="post" data-post-id="31081" data-author="Bazilus" data-date="2010-05-04T08:20:50+00:00" data-subject="">
 
 New world, same troubles with epics...  :evil:
 
 </div>
 
-<div class="post" data-post-id="31082" data-author="Stryx" data-date="2010-05-04T14:07:47+00:00">
+<div class="post" data-post-id="31082" data-author="Stryx" data-date="2010-05-04T14:07:47+00:00" data-subject="">
 
 [quote:3f7gmef9]You tell Toxis 'mind asking josh what is his problem?' 
 
@@ -892,7 +892,7 @@ So the moral of this story is "Don't be a tosser?" :?
 
 </div>
 
-<div class="post" data-post-id="31084" data-author="Toxis" data-date="2010-05-04T17:32:14+00:00">
+<div class="post" data-post-id="31084" data-author="Toxis" data-date="2010-05-04T17:32:14+00:00" data-subject="">
 
 I was kind enough to give a _begging_ Sa/Josh my tri40 warrior's password because I thought he would lead and everyone would win out in the end.  Now, because of this, and I told josh he was in the wrong, I guess he changed Godz's password.  Probably did something to the character to mess it up.  I guess that's what I get for trusting someone with my character's password.
 
@@ -904,7 +904,7 @@ I regret giving Josh any help to begin with.  He obviously didn't deserve it.
 
 </div>
 
-<div class="post" data-post-id="31085" data-author="Toxis" data-date="2010-05-04T20:24:19+00:00">
+<div class="post" data-post-id="31085" data-author="Toxis" data-date="2010-05-04T20:24:19+00:00" data-subject="">
 
 You can buy:
 
@@ -922,7 +922,7 @@ Josh, hope your life gets better.  Good luck to you.
 
 </div>
 
-<div class="post" data-post-id="31087" data-author="DSF" data-date="2010-05-05T02:33:45+00:00">
+<div class="post" data-post-id="31087" data-author="DSF" data-date="2010-05-05T02:33:45+00:00" data-subject="">
 
 Hi Brad, 
 
@@ -932,7 +932,7 @@ We'll move on....for sure.
 
 </div>
 
-<div class="post" data-post-id="31090" data-author="Tuck" data-date="2010-05-05T14:32:48+00:00">
+<div class="post" data-post-id="31090" data-author="Tuck" data-date="2010-05-05T14:32:48+00:00" data-subject="">
 
 zomg teh real dramma
 

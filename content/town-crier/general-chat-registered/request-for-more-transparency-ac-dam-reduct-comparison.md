@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="37083" data-author="Gorka" data-date="2016-07-19T05:20:40+00:00">
+<div class="post" data-post-id="37083" data-author="Gorka" data-date="2016-07-19T05:20:40+00:00" data-subject="Request for more transparency - AC / Dam Reduct Comparison">
 
 help damage reduction
 
@@ -50,7 +50,7 @@ Some people believe dam reduction is percentile based, other people say that -0.
 
 </div>
 
-<div class="post" data-post-id="37088" data-author="*teker*" data-date="2016-07-19T15:47:11+00:00">
+<div class="post" data-post-id="37088" data-author="*teker*" data-date="2016-07-19T15:47:11+00:00" data-subject="Re: Request for more transparency - AC / Dam Reduct Comparis">
 
 I have no idea if this will help in your decision making but I can explain what I see.
 
@@ -60,7 +60,7 @@ Damage resistance occurs after you've been hit with an attack sufficient to pene
 
 </div>
 
-<div class="post" data-post-id="37089" data-author="Gorka" data-date="2016-07-19T16:37:02+00:00">
+<div class="post" data-post-id="37089" data-author="Gorka" data-date="2016-07-19T16:37:02+00:00" data-subject="Re: Request for more transparency - AC / Dam Reduct Comparis">
 
 Thank you!
 
@@ -74,7 +74,7 @@ Would a monk potentially take less damage from an epic due to it's higher dam re
 
 </div>
 
-<div class="post" data-post-id="37091" data-author="*teker*" data-date="2016-07-19T19:28:56+00:00">
+<div class="post" data-post-id="37091" data-author="*teker*" data-date="2016-07-19T19:28:56+00:00" data-subject="Re: Request for more transparency - AC / Dam Reduct Comparis">
 
 If you're going up against a mob that hits any AC 100% of the time, the player with the higher damage resistance will take less damage overall.  That doesn't take into account things like the parry skill which might reduce the number of attacks that get through or how max HP may vary depending on class order.
 
@@ -82,7 +82,7 @@ I've never played a prime warrior or monk off Vk so I have no idea in practice t
 
 </div>
 
-<div class="post" data-post-id="37093" data-author="cyprimus" data-date="2016-07-20T02:55:10+00:00">
+<div class="post" data-post-id="37093" data-author="cyprimus" data-date="2016-07-20T02:55:10+00:00" data-subject="Re: Request for more transparency - AC / Dam Reduct Comparis">
 
 also. remember everyone has some damage reduction.
 

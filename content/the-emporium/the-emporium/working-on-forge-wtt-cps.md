@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3074" data-author="Ki" data-date="2004-11-29T22:13:49+00:00">
+<div class="post" data-post-id="3074" data-author="Ki" data-date="2004-11-29T22:13:49+00:00" data-subject="Working on forge.  WTT cps">
 
 Working on ashens and have multicolor urn and want to trade it for jar of embalming fluid.  Catch me online or email at steele1993@sbcglobal.net.
 

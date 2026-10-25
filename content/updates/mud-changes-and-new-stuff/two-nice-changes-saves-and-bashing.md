@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29916" data-author="*Splork*" data-date="2009-08-21T22:56:13+00:00">
+<div class="post" data-post-id="29916" data-author="*Splork*" data-date="2009-08-21T22:56:13+00:00" data-subject="two nice changes(saves and bashing)">
 
 We have come to agreement regarding bashes reaching players in the back row such as bash.
 
@@ -24,7 +24,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29917" data-author="Akasha" data-date="2009-08-22T00:17:33+00:00">
+<div class="post" data-post-id="29917" data-author="Akasha" data-date="2009-08-22T00:17:33+00:00" data-subject="">
 
 BOOOOOOOO the admin are sooooooooooo evil and dont care about the players!!!!!!!!!!!!!!!
 

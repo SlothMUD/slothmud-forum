@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33199" data-author="*Isabo*" data-date="2012-03-12T23:52:58+00:00">
+<div class="post" data-post-id="33199" data-author="*Isabo*" data-date="2012-03-12T23:52:58+00:00" data-subject="Kitezh Inn">
 
 Greeting mortals.
 

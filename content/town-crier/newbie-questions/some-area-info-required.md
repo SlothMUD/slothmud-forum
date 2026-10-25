@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="21714" data-author="jezer" data-date="2007-12-19T00:35:16+00:00">
+<div class="post" data-post-id="21714" data-author="jezer" data-date="2007-12-19T00:35:16+00:00" data-subject="Some Area Info Required...">
 
 Would appreciate if some helpful person would give me some info about a couple of areas...
 
@@ -46,7 +46,7 @@ Which mobs do midbies run for xp here?
 
 </div>
 
-<div class="post" data-post-id="21716" data-author="Alberich" data-date="2007-12-19T00:42:55+00:00">
+<div class="post" data-post-id="21716" data-author="Alberich" data-date="2007-12-19T00:42:55+00:00" data-subject="Re: Some Area Info Required...">
 
 Would appreciate if some helpful person would give me some info about a couple of areas...
 
@@ -104,13 +104,13 @@ the color-robed lords/ladies in castle black are good, common newbie gold mobs t
 
 </div>
 
-<div class="post" data-post-id="21717" data-author="jezer" data-date="2007-12-19T00:49:43+00:00">
+<div class="post" data-post-id="21717" data-author="jezer" data-date="2007-12-19T00:49:43+00:00" data-subject="">
 
 Thanks very much Alberich. Just what I needed.
 
 </div>
 
-<div class="post" data-post-id="21726" data-author="Assirian" data-date="2007-12-19T09:49:08+00:00">
+<div class="post" data-post-id="21726" data-author="Assirian" data-date="2007-12-19T09:49:08+00:00" data-subject="">
 
 casle vlack is gateable
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="23376" data-author="Alberich" data-date="2008-03-23T06:24:20+00:00">
+<div class="post" data-post-id="23376" data-author="Alberich" data-date="2008-03-23T06:24:20+00:00" data-subject="stat thingie">
 
 this is what i did instead of cleaning my house this morning :P
 
@@ -100,7 +100,7 @@ green>Up</c>};updatestat;update }
 
 </div>
 
-<div class="post" data-post-id="23378" data-author="jezer" data-date="2008-03-23T11:12:25+00:00">
+<div class="post" data-post-id="23378" data-author="jezer" data-date="2008-03-23T11:12:25+00:00" data-subject="">
 
 Not to take anything away from your script, but I'd thought I'd share how I get around a similar problem. This is an adaption of some stuff I read in the helpfiles.
 
@@ -124,7 +124,7 @@ All I have to do is type "fight" and all my spells I needed are cast. I wouldn't
 
 </div>
 
-<div class="post" data-post-id="23383" data-author="*juggleblood*" data-date="2008-03-23T20:55:47+00:00">
+<div class="post" data-post-id="23383" data-author="*juggleblood*" data-date="2008-03-23T20:55:47+00:00" data-subject="">
 
 Nice
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36707" data-author="Vegetable" data-date="2016-03-04T03:08:33+00:00">
+<div class="post" data-post-id="36707" data-author="Vegetable" data-date="2016-03-04T03:08:33+00:00" data-subject="Sleeves of Enlightenment">
 
 Hi guys,
 
@@ -90,7 +90,7 @@ at least two classes may use this item.
 
 </div>
 
-<div class="post" data-post-id="36708" data-author="*juggleblood*" data-date="2016-03-05T03:33:13+00:00">
+<div class="post" data-post-id="36708" data-author="*juggleblood*" data-date="2016-03-05T03:33:13+00:00" data-subject="Re: Sleeves of Enlightenment">
 
 ...actually I was just reading your bug report and fixed it. You can now use a keyword, instead of the whole string, so <forge sleeves> now works. Cheers.
 

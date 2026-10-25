@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="26399" data-author="Falsra" data-date="2008-09-19T08:50:53+00:00">
+<div class="post" data-post-id="26399" data-author="Falsra" data-date="2008-09-19T08:50:53+00:00" data-subject="Some mage questions">
 
 Hello folks,
 
@@ -44,7 +44,7 @@ This is an atavism! :evil:
 
 </div>
 
-<div class="post" data-post-id="26405" data-author="*juggleblood*" data-date="2008-09-20T03:00:14+00:00">
+<div class="post" data-post-id="26405" data-author="*juggleblood*" data-date="2008-09-20T03:00:14+00:00" data-subject="">
 
 would be nice if someone had some drach to spare on an unused char and could test out masterfuls using tokens of magic enhancement.
 
@@ -54,7 +54,7 @@ i have no access to the above info as an imm btw, just my observations as a play
 
 </div>
 
-<div class="post" data-post-id="26424" data-author="Tap" data-date="2008-09-21T22:17:03+00:00">
+<div class="post" data-post-id="26424" data-author="Tap" data-date="2008-09-21T22:17:03+00:00" data-subject="">
 
 You can create tokens and test on builder's port.
 
@@ -62,7 +62,7 @@ I'd volunteer to help but I'm currently tied up playing a 2 week trial on W___d 
 
 </div>
 
-<div class="post" data-post-id="26470" data-author="Falsra" data-date="2008-09-25T08:51:47+00:00">
+<div class="post" data-post-id="26470" data-author="Falsra" data-date="2008-09-25T08:51:47+00:00" data-subject="">
 
 would be nice if someone had some drach to spare on an unused char and could test out masterfuls using tokens of magic enhancement.
 

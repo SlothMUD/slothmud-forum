@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1800" data-author="Aaz" data-date="2004-09-05T17:19:28+00:00">
+<div class="post" data-post-id="1800" data-author="Aaz" data-date="2004-09-05T17:19:28+00:00" data-subject="WTT 2 grey cloaks for 2 black cloaks">
 
 subj
 

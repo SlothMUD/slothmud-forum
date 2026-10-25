@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="17169" data-author="Medios" data-date="2007-03-04T11:57:29+00:00">
+<div class="post" data-post-id="17169" data-author="Medios" data-date="2007-03-04T11:57:29+00:00" data-subject="Masterful Locate Object">
 
 locate cerise
 
@@ -30,7 +30,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17171" data-author="madmax" data-date="2007-03-04T16:20:00+00:00">
+<div class="post" data-post-id="17171" data-author="madmax" data-date="2007-03-04T16:20:00+00:00" data-subject="">
 
 I tried the same, results -
 
@@ -74,7 +74,7 @@ locate object         - Lvl:  6, Mana: 20, Learned  95%
 
 </div>
 
-<div class="post" data-post-id="17172" data-author="madmax" data-date="2007-03-04T16:40:26+00:00">
+<div class="post" data-post-id="17172" data-author="madmax" data-date="2007-03-04T16:40:26+00:00" data-subject="">
 
 Ok, I tried it a second time for completeness.
 
@@ -132,25 +132,25 @@ A cerise potion is in use, but the location is unknown.
 
 </div>
 
-<div class="post" data-post-id="17173" data-author="Gimlet" data-date="2007-03-04T17:02:46+00:00">
+<div class="post" data-post-id="17173" data-author="Gimlet" data-date="2007-03-04T17:02:46+00:00" data-subject="">
 
 I've seen the same thing once, that a tri token was being held or whatever by kobold sage
 
 </div>
 
-<div class="post" data-post-id="17174" data-author="Rynquald" data-date="2007-03-04T20:37:15+00:00">
+<div class="post" data-post-id="17174" data-author="Rynquald" data-date="2007-03-04T20:37:15+00:00" data-subject="">
 
 Seen it a few times, once in a blue moon when you get a good masterful locate.
 
 </div>
 
-<div class="post" data-post-id="17175" data-author="tincts" data-date="2007-03-04T20:39:27+00:00">
+<div class="post" data-post-id="17175" data-author="tincts" data-date="2007-03-04T20:39:27+00:00" data-subject="">
 
 Had no idea you guys were so fond of cerise potions.  I'll hold on to the next ones I pop for you.
 
 </div>
 
-<div class="post" data-post-id="17176" data-author="12345" data-date="2007-03-04T23:18:56+00:00">
+<div class="post" data-post-id="17176" data-author="12345" data-date="2007-03-04T23:18:56+00:00" data-subject="">
 
 While you're at it, hold on to all the extra branches you find please. I'm trying to build a house of sticks to hide from the big bad wolf in.
 

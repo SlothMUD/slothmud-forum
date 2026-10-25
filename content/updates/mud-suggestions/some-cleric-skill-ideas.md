@@ -10,7 +10,7 @@ locked: false
 post_count: 42
 ---
 
-<div class="post" data-post-id="6065" data-author="brand" data-date="2005-05-10T13:42:03+00:00">
+<div class="post" data-post-id="6065" data-author="brand" data-date="2005-05-10T13:42:03+00:00" data-subject="Some CLERIC skill ideas">
 
 so i was thinking of some cleric skill ideas and...
 
@@ -22,19 +22,19 @@ brand :twisted:  :idea:
 
 </div>
 
-<div class="post" data-post-id="6066" data-author="kjartan" data-date="2005-05-10T14:42:46+00:00">
+<div class="post" data-post-id="6066" data-author="kjartan" data-date="2005-05-10T14:42:46+00:00" data-subject="">
 
 These are fine skill ideas but clerics are kind of powerful right now, so we will probably concentrate on new stuff for the other classes for a while.
 
 </div>
 
-<div class="post" data-post-id="6071" data-author="rith" data-date="2005-05-11T00:11:34+00:00">
+<div class="post" data-post-id="6071" data-author="rith" data-date="2005-05-11T00:11:34+00:00" data-subject="">
 
 Yeah, how bout new stuff for mages  :roll:
 
 </div>
 
-<div class="post" data-post-id="6072" data-author="rith" data-date="2005-05-11T03:50:38+00:00">
+<div class="post" data-post-id="6072" data-author="rith" data-date="2005-05-11T03:50:38+00:00" data-subject="">
 
 It be cool if mages can summon elemental to assist them. Like earth elemental and fire etc etc. Each elemental has different attributes like earth elemental can heal and fire can cast spells. That be nice.  Maybe avatar can get  Master Elemental that has abit of each elements combined.
 
@@ -42,19 +42,19 @@ I for once like to see something cool added to the mage spells  8)
 
 </div>
 
-<div class="post" data-post-id="6076" data-author="Gnu" data-date="2005-05-11T07:19:00+00:00">
+<div class="post" data-post-id="6076" data-author="Gnu" data-date="2005-05-11T07:19:00+00:00" data-subject="">
 
 cool Idea! and let all caster classes have the same spells but with different names!!! and let all non-casters have the same skills with different descriptions too! why not to let bards cast 'wall of viols'? or let necros shapeshift into one of 100 undead forms! and let hm... say clerics have the skill, named  'critical spit', and 'massive critical spit' on avatar levels.
 
 </div>
 
-<div class="post" data-post-id="6078" data-author="rith" data-date="2005-05-11T09:40:28+00:00">
+<div class="post" data-post-id="6078" data-author="rith" data-date="2005-05-11T09:40:28+00:00" data-subject="">
 
 My point exactly!
 
 </div>
 
-<div class="post" data-post-id="6079" data-author="12345" data-date="2005-05-11T10:32:01+00:00">
+<div class="post" data-post-id="6079" data-author="12345" data-date="2005-05-11T10:32:01+00:00" data-subject="">
 
 Since you're talking about flame elementals and such, why not just give mages an 'immoliation' spell? Could be fun. Spell that lights the player on fire.  Costs xx mana to cast, costs xx hps per tick to maintain, increases AC by +1.0 (ie. 2.0 to 3.0) and gives +25 damage to fire magics like burning hands, fireball and firewind?  Might even do a little damage to whatever attacks them.
 
@@ -64,7 +64,7 @@ Also, druids are currently the only class that picks up bonus stuffs at 2x40 and
 
 </div>
 
-<div class="post" data-post-id="6080" data-author="Leaf" data-date="2005-05-11T10:49:24+00:00">
+<div class="post" data-post-id="6080" data-author="Leaf" data-date="2005-05-11T10:49:24+00:00" data-subject="">
 
 How about giving Mages Mana Shield like in Diablo 2?  Mages are "crunchy"
 
@@ -84,49 +84,49 @@ think this is useful.  Solo mages, wouldn't be using this spell.
 
 </div>
 
-<div class="post" data-post-id="6083" data-author="Avatar" data-date="2005-05-11T15:02:55+00:00">
+<div class="post" data-post-id="6083" data-author="Avatar" data-date="2005-05-11T15:02:55+00:00" data-subject="Level bonuses">
 
 Necro's get quite a large increase in power at 2x40 and 3x40 too, check the help files for summon undead and animate dead.  Clerics also get bonuses with levels in the form of higher supplication forms.
 
 </div>
 
-<div class="post" data-post-id="6085" data-author="12345" data-date="2005-05-11T15:05:03+00:00">
+<div class="post" data-post-id="6085" data-author="12345" data-date="2005-05-11T15:05:03+00:00" data-subject="">
 
 Both excellent points.  What do mages get?
 
 </div>
 
-<div class="post" data-post-id="6089" data-author="Leaf" data-date="2005-05-11T16:30:17+00:00">
+<div class="post" data-post-id="6089" data-author="Leaf" data-date="2005-05-11T16:30:17+00:00" data-subject="">
 
 Mages receive Reflect and Mirror.  Which is both pretty good items.
 
 </div>
 
-<div class="post" data-post-id="6091" data-author="12345" data-date="2005-05-11T16:47:48+00:00">
+<div class="post" data-post-id="6091" data-author="12345" data-date="2005-05-11T16:47:48+00:00" data-subject="">
 
 Wrong topic.  Necros, druids and clerics pick up some extra power at 2x40 and 3x40 in the form of summons, forms and supplicants respectively.  The question is, what do mages get at 2x40 and 3x40?
 
 </div>
 
-<div class="post" data-post-id="6093" data-author="Leaf" data-date="2005-05-11T17:22:29+00:00">
+<div class="post" data-post-id="6093" data-author="Leaf" data-date="2005-05-11T17:22:29+00:00" data-subject="">
 
 Interesting point, I would guess hum... nothing.
 
 </div>
 
-<div class="post" data-post-id="6095" data-author="Mannu" data-date="2005-05-11T19:58:30+00:00">
+<div class="post" data-post-id="6095" data-author="Mannu" data-date="2005-05-11T19:58:30+00:00" data-subject="">
 
 I'm trying to see how clerics are really all that powerful with supplicants.  I think it has to do with how "power" is defined.  Honestly, in Sloth, I see power to be based on how much damage you can do.  We all strive to get max damage or max spelldam or max stabdam or max whatever in an effort to kill mobs that offer xp and gold and eq.  People feel powerful when they can output a lot of hurt and incur the least.  So in that sense, it's hard for me to see how a kachina that spews out dead rats or a thunderbird that carries people around in super slow mo translates to power.  So let's not say Clerics are powerful unless there are areas with big mobs that will die when you restore them.  I mean when is the last time you longed for that aerial servant or the dark mace was to die for.  Cleric is a good support class, but as a prime, powerful it is not.  My $.02
 
 </div>
 
-<div class="post" data-post-id="6097" data-author="Avatar" data-date="2005-05-11T20:56:35+00:00">
+<div class="post" data-post-id="6097" data-author="Avatar" data-date="2005-05-11T20:56:35+00:00" data-subject="The power of a cleric">
 
 That's a pretty narrow point of view when you talk about power.  I think that some people are more concerned about helping the groups that they are involved with.  If one of my clerics can help a group to run faster, smoother, or longer then that's my contribution.  I don't feel that I have to maximize the amount of damage I do or reach the best AC that I can reach.
 
 </div>
 
-<div class="post" data-post-id="6098" data-author="kjartan" data-date="2005-05-11T21:10:20+00:00">
+<div class="post" data-post-id="6098" data-author="kjartan" data-date="2005-05-11T21:10:20+00:00" data-subject="">
 
 New characters overwhelmingly have cleric in their classo.  If you look at the who list, some of the absolute newbies may not have it but basically everybody from single 20 to pre avatar has it.  (Of course all the pre-new-class characters have it, but most of these characters I'm talking about have new classes.)  So if I said "powerful" maybe I meant "desirable".  Anyway, there's no need for new cleric abilities right now.
 
@@ -134,7 +134,7 @@ Really, the players are plenty buff, it's time to make smarter mobs.   :twisted:
 
 </div>
 
-<div class="post" data-post-id="6099" data-author="Aleksey" data-date="2005-05-11T21:57:56+00:00">
+<div class="post" data-post-id="6099" data-author="Aleksey" data-date="2005-05-11T21:57:56+00:00" data-subject="">
 
 To Mannu:
 
@@ -156,13 +156,13 @@ To Mannu:
 
 </div>
 
-<div class="post" data-post-id="6100" data-author="Mannu" data-date="2005-05-11T22:05:02+00:00">
+<div class="post" data-post-id="6100" data-author="Mannu" data-date="2005-05-11T22:05:02+00:00" data-subject="">
 
 ok, desireable I agree with.
 
 </div>
 
-<div class="post" data-post-id="6101" data-author="Gnu" data-date="2005-05-12T08:01:43+00:00">
+<div class="post" data-post-id="6101" data-author="Gnu" data-date="2005-05-12T08:01:43+00:00" data-subject="">
 
 Wrong topic.  Necros, druids and clerics pick up some extra power at 2x40 and 3x40 in the form of summons, forms and supplicants respectively.  The question is, what do mages get at 2x40 and 3x40?[/quote:3favhu7x]
 
@@ -170,13 +170,13 @@ The answer is: mages  "pick up some extra power at 2x40 and 3x40 in the form of 
 
 </div>
 
-<div class="post" data-post-id="6103" data-author="rith" data-date="2005-05-12T09:34:26+00:00">
+<div class="post" data-post-id="6103" data-author="rith" data-date="2005-05-12T09:34:26+00:00" data-subject="">
 
 I dunno, when summon undead was made a necro spell and supplication became the substitute for non necro classo, mage seemed to lose out somehow cause clerics got prime supplication and summon undead was buffed up nicely(with cool levels and different types of undead to summon). Id personally like to see a new mage spell not cause i cant solo crap or mages are underpowered, just something to have fun with. Besides playing sloth is about having fun (well for me it is).
 
 </div>
 
-<div class="post" data-post-id="6106" data-author="Avatar" data-date="2005-05-12T10:06:18+00:00">
+<div class="post" data-post-id="6106" data-author="Avatar" data-date="2005-05-12T10:06:18+00:00" data-subject="Mages">
 
 The str spell builds up nicely as mages gain caster levels.  I'm sure there are others as well.
 
@@ -184,7 +184,7 @@ As far as having fun, did you pick up the Grease spell?  We've had quite a lot o
 
 </div>
 
-<div class="post" data-post-id="6107" data-author="Leaf" data-date="2005-05-12T10:12:08+00:00">
+<div class="post" data-post-id="6107" data-author="Leaf" data-date="2005-05-12T10:12:08+00:00" data-subject="">
 
 I have no clue what the heck Gnu is talking about down there...
 
@@ -196,7 +196,7 @@ get more "bonus" at 2x40 or even 3x40.
 
 </div>
 
-<div class="post" data-post-id="6109" data-author="12345" data-date="2005-05-12T11:01:35+00:00">
+<div class="post" data-post-id="6109" data-author="12345" data-date="2005-05-12T11:01:35+00:00" data-subject="">
 
 Traditionally, Gnu's correct. You typically pick up extra abilities as you level your 2nd, 3rd and 4th classes.  However, with the advent of the Druid class, a new trend has started.  Not only does the a prime druid pick up whatever abilities his next class has, he gets the nice 2x40 form as well.  The necro summons and cleric supplicants are similiar.
 
@@ -208,7 +208,7 @@ Must find caffeine, very tired...
 
 </div>
 
-<div class="post" data-post-id="6110" data-author="Leaf" data-date="2005-05-12T11:11:03+00:00">
+<div class="post" data-post-id="6110" data-author="Leaf" data-date="2005-05-12T11:11:03+00:00" data-subject="">
 
 I've been saying PRIME Thiefs should get a 3rd backstab.
 
@@ -224,7 +224,7 @@ So a lvl 40 Tard should have a backstab at 30%.
 
 </div>
 
-<div class="post" data-post-id="6111" data-author="Autolycos" data-date="2005-05-12T11:23:24+00:00">
+<div class="post" data-post-id="6111" data-author="Autolycos" data-date="2005-05-12T11:23:24+00:00" data-subject="">
 
 that would rock!  i would be all for that 3rd backstab % chance!
 
@@ -238,7 +238,7 @@ One HELL of a WHIFF festival!
 
 </div>
 
-<div class="post" data-post-id="6112" data-author="12345" data-date="2005-05-12T11:28:35+00:00">
+<div class="post" data-post-id="6112" data-author="12345" data-date="2005-05-12T11:28:35+00:00" data-subject="">
 
 I'm glad to see we're completely off topic...
 
@@ -246,7 +246,7 @@ I would not be asking for more stabs if I were you two.  In fact, I'd probably p
 
 </div>
 
-<div class="post" data-post-id="6113" data-author="Leaf" data-date="2005-05-12T11:52:52+00:00">
+<div class="post" data-post-id="6113" data-author="Leaf" data-date="2005-05-12T11:52:52+00:00" data-subject="">
 
 Thats cause Diku apply poison, focus, sing war, and then stabs.
 
@@ -258,7 +258,7 @@ too good for a restrict of 2x40.  Should be 3x40 or even lvl1 tard.
 
 </div>
 
-<div class="post" data-post-id="6115" data-author="12345" data-date="2005-05-12T13:08:47+00:00">
+<div class="post" data-post-id="6115" data-author="12345" data-date="2005-05-12T13:08:47+00:00" data-subject="">
 
 Thats cause Diku apply poison, focus, sing war, and then stabs.
 
@@ -272,7 +272,7 @@ I think you'll find that he doesn't sing Gods, which is exactly my point.
 
 </div>
 
-<div class="post" data-post-id="6116" data-author="Leaf" data-date="2005-05-12T13:20:38+00:00">
+<div class="post" data-post-id="6116" data-author="Leaf" data-date="2005-05-12T13:20:38+00:00" data-subject="">
 
 Well if thats the case, u should have used Popa.  Cause he just focus and
 
@@ -280,7 +280,7 @@ stabs.  He can't even sing.
 
 </div>
 
-<div class="post" data-post-id="6117" data-author="Autolycos" data-date="2005-05-12T13:58:34+00:00">
+<div class="post" data-post-id="6117" data-author="Autolycos" data-date="2005-05-12T13:58:34+00:00" data-subject="">
 
 howse about them clerics?
 
@@ -292,7 +292,7 @@ they even got mana and stuff
 
 </div>
 
-<div class="post" data-post-id="6118" data-author="Leaf" data-date="2005-05-12T14:17:31+00:00">
+<div class="post" data-post-id="6118" data-author="Leaf" data-date="2005-05-12T14:17:31+00:00" data-subject="">
 
 They also have Dark Mace = 3d5 +1 +1 +1mr and goes thru sanc.
 
@@ -300,7 +300,7 @@ And Aerial Servant :)  Which is kinda weak, but does take off a round.
 
 </div>
 
-<div class="post" data-post-id="6121" data-author="Gnu" data-date="2005-05-12T15:19:31+00:00">
+<div class="post" data-post-id="6121" data-author="Gnu" data-date="2005-05-12T15:19:31+00:00" data-subject="">
 
 I have no clue what the heck Gnu is talking about down there...
 
@@ -320,7 +320,7 @@ BTW! I do not vote against new staff for mages. I want it! Iâ€™ll be happy 
 
 </div>
 
-<div class="post" data-post-id="6122" data-author="12345" data-date="2005-05-12T15:57:52+00:00">
+<div class="post" data-post-id="6122" data-author="12345" data-date="2005-05-12T15:57:52+00:00" data-subject="">
 
 â€œDo you want to replace Mage in your classo with other class?â€ Do you?[/quote:2yy9fey4]
 
@@ -338,7 +338,7 @@ Oh well... back to work.
 
 </div>
 
-<div class="post" data-post-id="6123" data-author="Leaf" data-date="2005-05-12T16:27:15+00:00">
+<div class="post" data-post-id="6123" data-author="Leaf" data-date="2005-05-12T16:27:15+00:00" data-subject="">
 
 Looks like I got Gnu upset :P
 
@@ -370,7 +370,7 @@ up.  However Mages don't.
 
 </div>
 
-<div class="post" data-post-id="6124" data-author="12345" data-date="2005-05-12T17:27:37+00:00">
+<div class="post" data-post-id="6124" data-author="12345" data-date="2005-05-12T17:27:37+00:00" data-subject="">
 
 Clerics = Dark Mace, Ariel Servant, and Supplicaiton.
 
@@ -384,7 +384,7 @@ Actually, I think you left off mem.  However, of supplicants, summons, shifts an
 
 </div>
 
-<div class="post" data-post-id="6125" data-author="brand" data-date="2005-05-12T19:25:43+00:00">
+<div class="post" data-post-id="6125" data-author="brand" data-date="2005-05-12T19:25:43+00:00" data-subject="">
 
 now i'm trying to remember, wasn't it mostly mages who won the tourny last year... oh yeah it was...
 
@@ -394,13 +394,13 @@ sounds to me like we all might have to finish this in the ARENA (with fantastic 
 
 </div>
 
-<div class="post" data-post-id="6126" data-author="Avatar" data-date="2005-05-12T19:52:07+00:00">
+<div class="post" data-post-id="6126" data-author="Avatar" data-date="2005-05-12T19:52:07+00:00" data-subject="Mages still win">
 
 Good point Brand.  Mages are probably too powerful.  If you want fun, use 'grease', if you want power don't be complaining about mages...firewind is it.  (especially with +90 spellbonus)
 
 </div>
 
-<div class="post" data-post-id="6127" data-author="brand" data-date="2005-05-12T22:02:49+00:00">
+<div class="post" data-post-id="6127" data-author="brand" data-date="2005-05-12T22:02:49+00:00" data-subject="">
 
 They also have Dark Mace = 3d5 +1 +1 +1mr and goes thru sanc.
 
@@ -432,7 +432,7 @@ now that's an elite weapon
 
 </div>
 
-<div class="post" data-post-id="6128" data-author="Leaf" data-date="2005-05-12T22:15:31+00:00">
+<div class="post" data-post-id="6128" data-author="Leaf" data-date="2005-05-12T22:15:31+00:00" data-subject="">
 
 I always said Cler/War is a PIMP class order.  Now with all the new classes
 
@@ -442,7 +442,7 @@ Hum... Once I get my Necro to 3x40 I'll start ANOTHER char ....
 
 </div>
 
-<div class="post" data-post-id="6129" data-author="12345" data-date="2005-05-13T09:43:50+00:00">
+<div class="post" data-post-id="6129" data-author="12345" data-date="2005-05-13T09:43:50+00:00" data-subject="">
 
 now i'm trying to remember, wasn't it mostly mages who won the tourny last year... oh yeah it was...[/quote:3ukx2ne3]
 
@@ -452,7 +452,7 @@ I'm not complaining about firewind, it's a great skill, just noticing that some 
 
 </div>
 
-<div class="post" data-post-id="6130" data-author="12345" data-date="2005-05-13T11:24:12+00:00">
+<div class="post" data-post-id="6130" data-author="12345" data-date="2005-05-13T11:24:12+00:00" data-subject="">
 
 Object 'mace dark', Item type: WEAPON
 
@@ -480,7 +480,7 @@ It's quite nice indeed :)
 
 </div>
 
-<div class="post" data-post-id="6133" data-author="Leaf" data-date="2005-05-13T13:25:44+00:00">
+<div class="post" data-post-id="6133" data-author="Leaf" data-date="2005-05-13T13:25:44+00:00" data-subject="">
 
 I like the fact this item is a "SANCBUSTER".
 

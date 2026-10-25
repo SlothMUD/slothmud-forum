@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35596" data-author="*juggleblood*" data-date="2014-12-30T12:53:11+00:00">
+<div class="post" data-post-id="35596" data-author="*juggleblood*" data-date="2014-12-30T12:53:11+00:00" data-subject="Coliseum Reset and Revamp Cometh">
 
 Hail Gladiators of Jord!
 

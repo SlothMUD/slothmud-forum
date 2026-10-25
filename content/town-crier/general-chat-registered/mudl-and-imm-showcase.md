@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="10645" data-author="*Splork*" data-date="2006-02-11T00:32:12+00:00">
+<div class="post" data-post-id="10645" data-author="*Splork*" data-date="2006-02-11T00:32:12+00:00" data-subject="Mudl and Imm showcase">
 
 If there is enough interest, sometime in the near future I will open up a test port for potentional Immortals to log in and play around with stuff like our OLC and MUDL. If you have some cool and innovative ideas for mudl and could build it yourself, I could possibly be persuaded to allow you to build it on a test port and I could add it to the game for you.
 
@@ -22,7 +22,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="10646" data-author="Weasel" data-date="2006-02-11T00:46:24+00:00">
+<div class="post" data-post-id="10646" data-author="Weasel" data-date="2006-02-11T00:46:24+00:00" data-subject="">
 
 some reference
 
@@ -30,7 +30,7 @@ some reference
 
 </div>
 
-<div class="post" data-post-id="10650" data-author="Nascosto" data-date="2006-02-11T06:37:08+00:00">
+<div class="post" data-post-id="10650" data-author="Nascosto" data-date="2006-02-11T06:37:08+00:00" data-subject="">
 
 I'd be interested in playing around :)
 

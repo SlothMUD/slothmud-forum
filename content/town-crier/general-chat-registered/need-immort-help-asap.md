@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="10056" data-author="Deju" data-date="2006-01-10T16:42:01+00:00">
+<div class="post" data-post-id="10056" data-author="Deju" data-date="2006-01-10T16:42:01+00:00" data-subject="Need immort help ASAP">
 
 Hi -
 
@@ -24,7 +24,7 @@ Deju
 
 </div>
 
-<div class="post" data-post-id="10057" data-author="Akasha2" data-date="2006-01-10T17:02:54+00:00">
+<div class="post" data-post-id="10057" data-author="Akasha2" data-date="2006-01-10T17:02:54+00:00" data-subject="">
 
 Taken care of.
 

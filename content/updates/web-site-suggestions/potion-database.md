@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="39702" data-author="*Idjit*" data-date="2021-03-25T02:16:10+00:00">
+<div class="post" data-post-id="39702" data-author="*Idjit*" data-date="2021-03-25T02:16:10+00:00" data-subject="Potion Database">
 
 It feels like, canned magic (potions and wands/staves/rods) is the last bastion of lack of transparency.
 
@@ -26,7 +26,7 @@ would we pull from a JSON but pull different fields than the ones the EQlist is 
 
 </div>
 
-<div class="post" data-post-id="39703" data-author="*Idjit*" data-date="2021-03-25T02:21:08+00:00">
+<div class="post" data-post-id="39703" data-author="*Idjit*" data-date="2021-03-25T02:21:08+00:00" data-subject="Re: Potion Database">
 
 This can go two routes.  One where it's a true sister project to the EQlist where it imports real mud data or:
 
@@ -42,7 +42,7 @@ Instead of building a dynamic database asset (which could malfunction)
 
 </div>
 
-<div class="post" data-post-id="39704" data-author="cnl" data-date="2021-03-25T22:21:43+00:00">
+<div class="post" data-post-id="39704" data-author="cnl" data-date="2021-03-25T22:21:43+00:00" data-subject="Re: Potion Database">
 
 Ideally, it would be nice if all things were discoverable in the game.
 
@@ -65,7 +65,7 @@ If there are to be player notes on items I would hope we can find a way to integ
 
 </div>
 
-<div class="post" data-post-id="39705" data-author="*Breeze*" data-date="2021-03-27T17:52:13+00:00">
+<div class="post" data-post-id="39705" data-author="*Breeze*" data-date="2021-03-27T17:52:13+00:00" data-subject="Re: Potion Database">
 
 in theory anything can be fixed...
 
@@ -83,7 +83,7 @@ that is something i am not willing to overturn
 
 </div>
 
-<div class="post" data-post-id="39714" data-author="*Idjit*" data-date="2021-05-03T03:46:44+00:00">
+<div class="post" data-post-id="39714" data-author="*Idjit*" data-date="2021-05-03T03:46:44+00:00" data-subject="Re: Potion Database">
 
 Fuligin had this to say:
 
@@ -361,7 +361,7 @@ Some yellow dust	Level 15:curse, (none), (none)
 
 </div>
 
-<div class="post" data-post-id="39715" data-author="cnl" data-date="2021-05-03T05:18:52+00:00">
+<div class="post" data-post-id="39715" data-author="cnl" data-date="2021-05-03T05:18:52+00:00" data-subject="Re: Potion Database">
 
 ```
 | Name                                    | Effect                                   |
@@ -506,7 +506,7 @@ Some yellow dust	Level 15:curse, (none), (none)
 
 </div>
 
-<div class="post" data-post-id="39716" data-author="Gorka" data-date="2021-05-06T13:26:14+00:00">
+<div class="post" data-post-id="39716" data-author="Gorka" data-date="2021-05-06T13:26:14+00:00" data-subject="Re: Potion Database">
 
 A potion of transmutation Level 46:relocation, (none), (none)
 
@@ -514,7 +514,7 @@ It's weird outlier things like this that often create exploits. There is a fairl
 
 </div>
 
-<div class="post" data-post-id="39717" data-author="cnl" data-date="2021-05-06T16:46:47+00:00">
+<div class="post" data-post-id="39717" data-author="cnl" data-date="2021-05-06T16:46:47+00:00" data-subject="Re: Potion Database">
 
 ```
 You feel informed:
@@ -536,7 +536,7 @@ This one is tied up in an auto-quest - if memory serves me it relocates you to a
 
 </div>
 
-<div class="post" data-post-id="39718" data-author="Gorka" data-date="2021-05-07T02:44:00+00:00">
+<div class="post" data-post-id="39718" data-author="Gorka" data-date="2021-05-07T02:44:00+00:00" data-subject="Re: Potion Database">
 
 > **cnl wrote:**
 > if memory serves me it relocates you to a fixed special location, it is not an imbue.

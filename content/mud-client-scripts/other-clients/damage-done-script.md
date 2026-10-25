@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="16993" data-author="Thraxas" data-date="2007-02-18T22:46:50+00:00">
+<div class="post" data-post-id="16993" data-author="Thraxas" data-date="2007-02-18T22:46:50+00:00" data-subject="Damage Done Script">
 
 Up front I'll say I found creating this more fun than the product will be useful.
 
@@ -140,7 +140,7 @@ all other stuff here is standard stuff I think
 
 </div>
 
-<div class="post" data-post-id="17016" data-author="Avatar" data-date="2007-02-20T04:40:00+00:00">
+<div class="post" data-post-id="17016" data-author="Avatar" data-date="2007-02-20T04:40:00+00:00" data-subject="Damage Done Script">
 
 Very nice.
 
@@ -152,7 +152,7 @@ I haven't had much time online lately, but I'm interested in trying to implement
 
 </div>
 
-<div class="post" data-post-id="17027" data-author="Thraxas" data-date="2007-02-20T18:38:18+00:00">
+<div class="post" data-post-id="17027" data-author="Thraxas" data-date="2007-02-20T18:38:18+00:00" data-subject="Re: Damage Done Script">
 
 I've had a more basic script performing a similar function, but I like how you determine and discard the unlikely mob levels.
 
@@ -224,7 +224,7 @@ no I normally run solo with juju pets and eudaemon supplimented with infusions.
 
 </div>
 
-<div class="post" data-post-id="23618" data-author="Assirian" data-date="2008-04-08T09:24:58+00:00">
+<div class="post" data-post-id="23618" data-author="Assirian" data-date="2008-04-08T09:24:58+00:00" data-subject="">
 
 <859 362 228 309540203>
 
@@ -258,7 +258,7 @@ What is wrong? :)
 
 </div>
 
-<div class="post" data-post-id="23619" data-author="jezer" data-date="2008-04-08T09:54:50+00:00">
+<div class="post" data-post-id="23619" data-author="jezer" data-date="2008-04-08T09:54:50+00:00" data-subject="">
 
 the mob is about 36 lvl, so damage is ~ 36
 
@@ -270,7 +270,7 @@ Whats wrong?!? The new changes to warrior class have made you over powered!  :tw
 
 </div>
 
-<div class="post" data-post-id="23620" data-author="Assirian" data-date="2008-04-08T10:23:15+00:00">
+<div class="post" data-post-id="23620" data-author="Assirian" data-date="2008-04-08T10:23:15+00:00" data-subject="">
 
 [quote:2rcfj09d] The new changes to warrior class have made you over powered![/quote:2rcfj09d]
 
@@ -278,7 +278,7 @@ this one is not wrong :)) this have to be happen.. 8\
 
 </div>
 
-<div class="post" data-post-id="23621" data-author="Thraxas" data-date="2008-04-08T11:21:08+00:00">
+<div class="post" data-post-id="23621" data-author="Thraxas" data-date="2008-04-08T11:21:08+00:00" data-subject="">
 
 Whats wrong?
 
@@ -288,13 +288,13 @@ whY? no idea, but i'd speculate that either dam knowledge is about to be introdu
 
 </div>
 
-<div class="post" data-post-id="23622" data-author="*juggleblood*" data-date="2008-04-08T13:02:29+00:00">
+<div class="post" data-post-id="23622" data-author="*juggleblood*" data-date="2008-04-08T13:02:29+00:00" data-subject="">
 
 I've never understood the long standing tradition on sloth of obscurring game mechanics. I would guess that this was the purpose in randomizing combat xp.
 
 </div>
 
-<div class="post" data-post-id="23623" data-author="jezer" data-date="2008-04-08T13:16:15+00:00">
+<div class="post" data-post-id="23623" data-author="jezer" data-date="2008-04-08T13:16:15+00:00" data-subject="">
 
 I've never understood the long standing tradition on sloth of obscurring game mechanics. I would guess that this was the purpose in randomizing combat xp.[/quote:2p7oh66w]
 
@@ -306,7 +306,7 @@ Freedom of Information all the way!
 
 </div>
 
-<div class="post" data-post-id="23624" data-author="Avatar" data-date="2008-04-08T18:32:53+00:00">
+<div class="post" data-post-id="23624" data-author="Avatar" data-date="2008-04-08T18:32:53+00:00" data-subject="XPs were fun">
 
 I noticed that change also, it's too bad.  I had a lot of fun watching the fight xps, especially during groups.  It made it more interesting, as a warrior who wasn't usually the tank, to give me something to watch and something to do.  I definitely used the warrior skills (berserk, bash, trip, broadside, stomp) more often when I was paying attention to the xps.
 
@@ -318,7 +318,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="23626" data-author="Autolycos" data-date="2008-04-08T19:36:44+00:00">
+<div class="post" data-post-id="23626" data-author="Autolycos" data-date="2008-04-08T19:36:44+00:00" data-subject="">
 
 I've never understood the long standing tradition on sloth of obscurring game mechanics. I would guess that this was the purpose in randomizing combat xp.[/quote:2a6m1ljg]
 
@@ -326,13 +326,13 @@ Don't forget the tradition of exsanguinating all the fun out too..
 
 </div>
 
-<div class="post" data-post-id="23627" data-author="Medios" data-date="2008-04-08T21:00:51+00:00">
+<div class="post" data-post-id="23627" data-author="Medios" data-date="2008-04-08T21:00:51+00:00" data-subject="">
 
 At least I can take that spammy bull crap out of my prompt now.  I have no idea why the xp was changed.  My first guess is because kick is overpowered.
 
 </div>
 
-<div class="post" data-post-id="23628" data-author="Autolycos" data-date="2008-04-08T21:56:33+00:00">
+<div class="post" data-post-id="23628" data-author="Autolycos" data-date="2008-04-08T21:56:33+00:00" data-subject="">
 
 At least I can take that spammy bull crap out of my prompt now.  I have no idea why the xp was changed.  My first guess is because kick is overpowered.[/quote:gugxl8sq]
 
@@ -340,7 +340,7 @@ lmfao
 
 </div>
 
-<div class="post" data-post-id="23632" data-author="*juggleblood*" data-date="2008-04-09T02:48:07+00:00">
+<div class="post" data-post-id="23632" data-author="*juggleblood*" data-date="2008-04-09T02:48:07+00:00" data-subject="">
 
 Someone pointed this out for me and I thought I'd share it.
 
@@ -348,7 +348,7 @@ When people started using the damage calculator script, some long standing bugs 
 
 </div>
 
-<div class="post" data-post-id="23633" data-author="jezer" data-date="2008-04-09T03:07:58+00:00">
+<div class="post" data-post-id="23633" data-author="jezer" data-date="2008-04-09T03:07:58+00:00" data-subject="">
 
 [img:2762ne8h]http://www.orbitcast.com/archives/head-in-the-sand.jpg[/img:2762ne8h]
 
@@ -356,13 +356,13 @@ What problem? Where?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23635" data-author="Yasik2" data-date="2008-04-09T05:40:13+00:00">
+<div class="post" data-post-id="23635" data-author="Yasik2" data-date="2008-04-09T05:40:13+00:00" data-subject="">
 
 [img:1cc23wzx]http://yasik.kiev.ua/4chan/Explanation_I_Demand.jpg[/img:1cc23wzx]
 
 </div>
 
-<div class="post" data-post-id="23648" data-author="Mace" data-date="2008-04-10T12:53:14+00:00">
+<div class="post" data-post-id="23648" data-author="Mace" data-date="2008-04-10T12:53:14+00:00" data-subject="">
 
 I guess this change is for the best.
 
@@ -370,7 +370,7 @@ I mean, what kind of game (Final Fantasy) would be successful (World of Warcraft
 
 </div>
 
-<div class="post" data-post-id="23653" data-author="Thraxas" data-date="2008-04-10T18:07:28+00:00">
+<div class="post" data-post-id="23653" data-author="Thraxas" data-date="2008-04-10T18:07:28+00:00" data-subject="">
 
 Lets think about the profile of the typical mud player:
 
@@ -384,13 +384,13 @@ Player Satisfaction: Debuffed
 
 </div>
 
-<div class="post" data-post-id="23654" data-author="*juggleblood*" data-date="2008-04-10T18:49:45+00:00">
+<div class="post" data-post-id="23654" data-author="*juggleblood*" data-date="2008-04-10T18:49:45+00:00" data-subject="">
 
 I miss Splork.
 
 </div>
 
-<div class="post" data-post-id="23657" data-author="jezer" data-date="2008-04-10T23:33:15+00:00">
+<div class="post" data-post-id="23657" data-author="jezer" data-date="2008-04-10T23:33:15+00:00" data-subject="">
 
 Lets think about the profile of the typical mud player:
 

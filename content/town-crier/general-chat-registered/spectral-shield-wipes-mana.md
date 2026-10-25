@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38622" data-author="Gorka" data-date="2018-01-13T05:11:06+00:00">
+<div class="post" data-post-id="38622" data-author="Gorka" data-date="2018-01-13T05:11:06+00:00" data-subject="Spectral Shield Wipes Mana">
 
 There is an annoying problem with Spectral Shield...
 
@@ -24,13 +24,13 @@ It shouldn't reset mana to max if mana > max.
 
 </div>
 
-<div class="post" data-post-id="38623" data-author="Teron" data-date="2018-01-13T13:22:00+00:00">
+<div class="post" data-post-id="38623" data-author="Teron" data-date="2018-01-13T13:22:00+00:00" data-subject="Re: Spectral Shield Wipes Mana">
 
 Same thing with the hidden mace of the underworld.
 
 </div>
 
-<div class="post" data-post-id="38626" data-author="Oboe" data-date="2018-01-13T22:06:04+00:00">
+<div class="post" data-post-id="38626" data-author="Oboe" data-date="2018-01-13T22:06:04+00:00" data-subject="Re: Spectral Shield Wipes Mana">
 
 These semantics are ancient and should never change.
 

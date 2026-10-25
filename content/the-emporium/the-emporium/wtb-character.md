@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="5219" data-author="Blackguard" data-date="2005-03-23T02:00:56+00:00">
+<div class="post" data-post-id="5219" data-author="Blackguard" data-date="2005-03-23T02:00:56+00:00" data-subject="wtb character">
 
 hey all,
 
@@ -24,7 +24,7 @@ bg
 
 </div>
 
-<div class="post" data-post-id="5239" data-author="Blaster" data-date="2005-03-23T18:42:13+00:00">
+<div class="post" data-post-id="5239" data-author="Blaster" data-date="2005-03-23T18:42:13+00:00" data-subject="">
 
 Although, I don't know who you are, and have no clue if you are a seasoned sloth player or not, this post is more meant as a generic point to anyone considering to apply as an immortal. 
 
@@ -36,7 +36,7 @@ Blaster
 
 </div>
 
-<div class="post" data-post-id="8597" data-author="Blackguard" data-date="2005-09-11T05:13:54+00:00">
+<div class="post" data-post-id="8597" data-author="Blackguard" data-date="2005-09-11T05:13:54+00:00" data-subject="">
 
 BUMP
 
@@ -44,7 +44,7 @@ still looking
 
 </div>
 
-<div class="post" data-post-id="8598" data-author="Gnu" data-date="2005-09-11T09:57:49+00:00">
+<div class="post" data-post-id="8598" data-author="Gnu" data-date="2005-09-11T09:57:49+00:00" data-subject="">
 
 I have some questions.
 
@@ -60,13 +60,13 @@ I have some questions.
 
 </div>
 
-<div class="post" data-post-id="8599" data-author="13" data-date="2005-09-11T12:04:32+00:00">
+<div class="post" data-post-id="8599" data-author="13" data-date="2005-09-11T12:04:32+00:00" data-subject="">
 
 basically, you need to spend the time, and learn newb.  it only takes a week or less to make a 2x40 now under the worst circumstances.
 
 </div>
 
-<div class="post" data-post-id="8600" data-author="firebrand" data-date="2005-09-11T12:59:24+00:00">
+<div class="post" data-post-id="8600" data-author="firebrand" data-date="2005-09-11T12:59:24+00:00" data-subject="">
 
 I have some questions.
 
@@ -80,7 +80,7 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="8601" data-author="Blackguard" data-date="2005-09-11T13:58:24+00:00">
+<div class="post" data-post-id="8601" data-author="Blackguard" data-date="2005-09-11T13:58:24+00:00" data-subject="">
 
 basically, you need to spend the time, and learn newb.  it only takes a week or less to make a 2x40 now under the worst circumstances.[/quote:1fbzn95u]
 
@@ -90,7 +90,7 @@ And Gnu, check the date on Blaster's post.
 
 </div>
 
-<div class="post" data-post-id="8602" data-author="Gnu" data-date="2005-09-11T16:58:07+00:00">
+<div class="post" data-post-id="8602" data-author="Gnu" data-date="2005-09-11T16:58:07+00:00" data-subject="">
 
 I can't leave blaster alone since he's one of my favorite immortls... and the last not wiped of them :P
 

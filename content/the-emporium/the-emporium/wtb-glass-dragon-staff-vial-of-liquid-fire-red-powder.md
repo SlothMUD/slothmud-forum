@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9482" data-author="Cleol" data-date="2005-11-11T15:25:49+00:00">
+<div class="post" data-post-id="9482" data-author="Cleol" data-date="2005-11-11T15:25:49+00:00" data-subject="WTB glass dragon staff, vial of liquid fire, red powder">
 
 Hey ya'll,
 

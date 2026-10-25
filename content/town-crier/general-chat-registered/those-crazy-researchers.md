@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="7556" data-author="Alberich" data-date="2005-06-24T14:31:23+00:00">
+<div class="post" data-post-id="7556" data-author="Alberich" data-date="2005-06-24T14:31:23+00:00" data-subject="those crazy researchers">
 
 [<LINK_TEXT text="http://www.ukresistance.co.uk/2005/06/g ... tists.html">http://www.ukresistance.co.uk/2005/06/gaming-world-rocked-as-scientists.html</LINK_TEXT>](http://www.ukresistance.co.uk/2005/06/gaming-world-rocked-as-scientists.html)
 
@@ -22,7 +22,7 @@ A development by scientists working on how best to regulate internet insults thi
 
 </div>
 
-<div class="post" data-post-id="7562" data-author="13" data-date="2005-06-24T15:16:00+00:00">
+<div class="post" data-post-id="7562" data-author="13" data-date="2005-06-24T15:16:00+00:00" data-subject="">
 
 That's fucking hilarious man.
 

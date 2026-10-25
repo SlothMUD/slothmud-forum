@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32555" data-author="Tigris" data-date="2011-04-07T05:33:47+00:00">
+<div class="post" data-post-id="32555" data-author="Tigris" data-date="2011-04-07T05:33:47+00:00" data-subject="Unexplained hit point loss">
 
 Can anyone explain to me where or why i lose the 17 hps  at the end of this script. Maybe its obvious but I seem to be missing it and this isn't the first time I've noticed it.
 
@@ -64,13 +64,13 @@ You report 838/937 hp. **Change: -17**. Need: 99. Spells: aegis, greater fluidit
 
 </div>
 
-<div class="post" data-post-id="32556" data-author="Atwell" data-date="2011-04-07T06:44:54+00:00">
+<div class="post" data-post-id="32556" data-author="Atwell" data-date="2011-04-07T06:44:54+00:00" data-subject="Re: Unexplained hit point loss">
 
 That's the removal of the 20hp you gained from warcry.
 
 </div>
 
-<div class="post" data-post-id="32557" data-author="Tigris" data-date="2011-04-07T13:14:49+00:00">
+<div class="post" data-post-id="32557" data-author="Tigris" data-date="2011-04-07T13:14:49+00:00" data-subject="Re: Unexplained hit point loss">
 
 Thanks!
 

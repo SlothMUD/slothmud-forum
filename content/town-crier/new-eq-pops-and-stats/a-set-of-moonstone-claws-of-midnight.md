@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="218" data-author="Next" data-date="2004-05-22T00:28:14+00:00">
+<div class="post" data-post-id="218" data-author="Next" data-date="2004-05-22T00:28:14+00:00" data-subject="A set of moonstone claws of midnight">
 
 Forgive my stupidity with the previous post, here it is readable.
 

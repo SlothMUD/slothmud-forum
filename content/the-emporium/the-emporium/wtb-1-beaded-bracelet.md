@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3509" data-author="doug" data-date="2004-12-21T16:11:59+00:00">
+<div class="post" data-post-id="3509" data-author="doug" data-date="2004-12-21T16:11:59+00:00" data-subject="wtb: 1 beaded bracelet">
 
 willing to pay well or trade for it etc....
 

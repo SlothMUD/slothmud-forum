@@ -10,7 +10,7 @@ locked: false
 post_count: 45
 ---
 
-<div class="post" data-post-id="19681" data-author="*Splork*" data-date="2007-08-13T16:31:32+00:00">
+<div class="post" data-post-id="19681" data-author="*Splork*" data-date="2007-08-13T16:31:32+00:00" data-subject="Happy 10th Anniversary SlothMUD III!">
 
 Happy 10th Anniversary SlothMUD III!   
 
@@ -320,7 +320,7 @@ There are 61 visible players.
 
 </div>
 
-<div class="post" data-post-id="19682" data-author="*juggleblood*" data-date="2007-08-13T17:52:21+00:00">
+<div class="post" data-post-id="19682" data-author="*juggleblood*" data-date="2007-08-13T17:52:21+00:00" data-subject="">
 
 Largely thanks to you Splork! Thanks for being such a great admin. 
 
@@ -328,7 +328,7 @@ Thanks Akasha and Krom and everyone else who makes our alternate reality such a 
 
 </div>
 
-<div class="post" data-post-id="19687" data-author="Zam" data-date="2007-08-14T12:25:09+00:00">
+<div class="post" data-post-id="19687" data-author="Zam" data-date="2007-08-14T12:25:09+00:00" data-subject="">
 
 congratz! long live slothmud!
 
@@ -336,13 +336,13 @@ congratz! long live slothmud!
 
 </div>
 
-<div class="post" data-post-id="19689" data-author="13" data-date="2007-08-14T12:27:05+00:00">
+<div class="post" data-post-id="19689" data-author="13" data-date="2007-08-14T12:27:05+00:00" data-subject="">
 
 and Kj, however misguided he may be  :lol:
 
 </div>
 
-<div class="post" data-post-id="19695" data-author="Avatar" data-date="2007-08-14T17:55:49+00:00">
+<div class="post" data-post-id="19695" data-author="Avatar" data-date="2007-08-14T17:55:49+00:00" data-subject="Sloth III">
 
 Congrats Slothmud:  Imms and Admins and Players alike.  This really is an excellent place to be.
 
@@ -350,7 +350,7 @@ It's amazing to think of all the changes that have been discussed, argued, and i
 
 </div>
 
-<div class="post" data-post-id="19697" data-author="Akasha" data-date="2007-08-14T18:25:24+00:00">
+<div class="post" data-post-id="19697" data-author="Akasha" data-date="2007-08-14T18:25:24+00:00" data-subject="">
 
 Allow me to thank all of you who continue to play in our lil corner of alternate-reality.
 
@@ -362,13 +362,13 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="19698" data-author="13" data-date="2007-08-14T18:26:00+00:00">
+<div class="post" data-post-id="19698" data-author="13" data-date="2007-08-14T18:26:00+00:00" data-subject="">
 
 I'm ready for sloth IV, can we do that now ?  Player wipe, eq restricts fixed, pk continent.  Yes yes, please.
 
 </div>
 
-<div class="post" data-post-id="19699" data-author="Autolycos" data-date="2007-08-14T18:26:16+00:00">
+<div class="post" data-post-id="19699" data-author="Autolycos" data-date="2007-08-14T18:26:16+00:00" data-subject="Re: Sloth III">
 
 Congrats Slothmud:  Imms and Admins and Players alike.  This really is an excellent place to be..[/quote:jmlb8nry]
 
@@ -378,7 +378,7 @@ Muahahahahaha
 
 </div>
 
-<div class="post" data-post-id="19704" data-author="Tap" data-date="2007-08-14T21:42:59+00:00">
+<div class="post" data-post-id="19704" data-author="Tap" data-date="2007-08-14T21:42:59+00:00" data-subject="What he said..">
 
 13 writes:
 
@@ -392,7 +392,7 @@ August 14, 2007 -I'm actually with you on this one.
 
 </div>
 
-<div class="post" data-post-id="19705" data-author="Tap" data-date="2007-08-14T21:52:44+00:00">
+<div class="post" data-post-id="19705" data-author="Tap" data-date="2007-08-14T21:52:44+00:00" data-subject="2 quick notes">
 
 Autolycos admitted:
 
@@ -406,7 +406,7 @@ Well actually, 45 characters and Brad :twisted:
 
 </div>
 
-<div class="post" data-post-id="19713" data-author="Krok" data-date="2007-08-16T04:59:06+00:00">
+<div class="post" data-post-id="19713" data-author="Krok" data-date="2007-08-16T04:59:06+00:00" data-subject="">
 
 Damn, I was really trying to write a good post. I edited it like 10 times, but it always turned out to be a little too emotional. Well, still... I'm glad I met you all, guys.
 
@@ -414,7 +414,7 @@ So, I'd like to congratulate everyone and thank the imms for all the job they've
 
 </div>
 
-<div class="post" data-post-id="19717" data-author="brady" data-date="2007-08-16T14:27:15+00:00">
+<div class="post" data-post-id="19717" data-author="brady" data-date="2007-08-16T14:27:15+00:00" data-subject="">
 
 Damn, I was really trying to write a good post. I edited it like 10 times, but it always turned out to be a little too emotional. [/quote:2gshppf7]
 
@@ -424,37 +424,37 @@ And I also would like to thank all the imms and creative players that have made 
 
 </div>
 
-<div class="post" data-post-id="19718" data-author="13" data-date="2007-08-16T15:07:19+00:00">
+<div class="post" data-post-id="19718" data-author="13" data-date="2007-08-16T15:07:19+00:00" data-subject="">
 
 You know how I know you're gay ?
 
 </div>
 
-<div class="post" data-post-id="19719" data-author="Mosaix" data-date="2007-08-16T16:01:24+00:00">
+<div class="post" data-post-id="19719" data-author="Mosaix" data-date="2007-08-16T16:01:24+00:00" data-subject="">
 
 You know because it takes one to know one?
 
 </div>
 
-<div class="post" data-post-id="19721" data-author="Autolycos" data-date="2007-08-16T16:41:01+00:00">
+<div class="post" data-post-id="19721" data-author="Autolycos" data-date="2007-08-16T16:41:01+00:00" data-subject="">
 
 laugh  :twisted:
 
 </div>
 
-<div class="post" data-post-id="19722" data-author="brady" data-date="2007-08-16T18:16:15+00:00">
+<div class="post" data-post-id="19722" data-author="brady" data-date="2007-08-16T18:16:15+00:00" data-subject="">
 
 enlighten me, hillbilly bob.
 
 </div>
 
-<div class="post" data-post-id="19723" data-author="13" data-date="2007-08-16T20:56:59+00:00">
+<div class="post" data-post-id="19723" data-author="13" data-date="2007-08-16T20:56:59+00:00" data-subject="">
 
 because there ain't no girls on a pirate ship
 
 </div>
 
-<div class="post" data-post-id="19724" data-author="Avatar" data-date="2007-08-16T21:03:59+00:00">
+<div class="post" data-post-id="19724" data-author="Avatar" data-date="2007-08-16T21:03:59+00:00" data-subject="Two words:">
 
 Two words:
 
@@ -466,7 +466,7 @@ Parrots
 
 </div>
 
-<div class="post" data-post-id="19725" data-author="Medios" data-date="2007-08-16T21:11:19+00:00">
+<div class="post" data-post-id="19725" data-author="Medios" data-date="2007-08-16T21:11:19+00:00" data-subject="Re: Two words:">
 
 Two words:
 
@@ -480,19 +480,19 @@ Wooden legs and hooks?
 
 </div>
 
-<div class="post" data-post-id="19726" data-author="Autolycos" data-date="2007-08-16T21:17:20+00:00">
+<div class="post" data-post-id="19726" data-author="Autolycos" data-date="2007-08-16T21:17:20+00:00" data-subject="">
 
 it happens from time to time.
 
 </div>
 
-<div class="post" data-post-id="19727" data-author="13" data-date="2007-08-16T21:35:36+00:00">
+<div class="post" data-post-id="19727" data-author="13" data-date="2007-08-16T21:35:36+00:00" data-subject="">
 
 I guess I need to find a scanner and scan all the pix from the last DoW meeting in rl.  Was fun.
 
 </div>
 
-<div class="post" data-post-id="19732" data-author="Tap" data-date="2007-08-17T01:36:10+00:00">
+<div class="post" data-post-id="19732" data-author="Tap" data-date="2007-08-17T01:36:10+00:00" data-subject="Always glad to help 13 out for a good cause">
 
 Here you go buddy!!!!
 
@@ -512,7 +512,7 @@ Here you go buddy!!!!
 
 </div>
 
-<div class="post" data-post-id="19734" data-author="Shazuko" data-date="2007-08-17T13:07:58+00:00">
+<div class="post" data-post-id="19734" data-author="Shazuko" data-date="2007-08-17T13:07:58+00:00" data-subject="">
 
 Tap wears diapers?!!?
 
@@ -528,7 +528,7 @@ Tap wears diapers?!!?
 
 </div>
 
-<div class="post" data-post-id="19741" data-author="Tap" data-date="2007-08-17T21:33:08+00:00">
+<div class="post" data-post-id="19741" data-author="Tap" data-date="2007-08-17T21:33:08+00:00" data-subject="">
 
 That wasn't beef stew you ate last night.Only thing that bothers me is that I don't remember eating any corn.
 
@@ -538,7 +538,7 @@ Anywho...
 
 </div>
 
-<div class="post" data-post-id="19746" data-author="banedon" data-date="2007-08-18T04:36:50+00:00">
+<div class="post" data-post-id="19746" data-author="banedon" data-date="2007-08-18T04:36:50+00:00" data-subject="">
 
 Tap wears diapers?!!?
 
@@ -546,13 +546,13 @@ Nah that wasnt Tap, that pic looked too manly to be him.
 
 </div>
 
-<div class="post" data-post-id="19750" data-author="Avatar" data-date="2007-08-18T11:59:19+00:00">
+<div class="post" data-post-id="19750" data-author="Avatar" data-date="2007-08-18T11:59:19+00:00" data-subject="Moderate?">
 
 If there was ever a thread that didn't need our endless spam, this is it.  Could these posts be moved to somewhere more appropriate?
 
 </div>
 
-<div class="post" data-post-id="19751" data-author="13" data-date="2007-08-18T12:50:28+00:00">
+<div class="post" data-post-id="19751" data-author="13" data-date="2007-08-18T12:50:28+00:00" data-subject="">
 
 they wont ban tap because they're pussies
 
@@ -564,7 +564,7 @@ someone tells Clink on me
 
 </div>
 
-<div class="post" data-post-id="19752" data-author="Mosaix" data-date="2007-08-18T17:38:32+00:00">
+<div class="post" data-post-id="19752" data-author="Mosaix" data-date="2007-08-18T17:38:32+00:00" data-subject="">
 
 Besides being sort of annyonying what is it that makes Tap a problem?
 
@@ -582,7 +582,7 @@ Broc
 
 </div>
 
-<div class="post" data-post-id="19753" data-author="Tap" data-date="2007-08-18T21:19:07+00:00">
+<div class="post" data-post-id="19753" data-author="Tap" data-date="2007-08-18T21:19:07+00:00" data-subject="">
 
 [quote:3e32w84u]13  	
 
@@ -604,7 +604,7 @@ people and/or rent and log a different char. Hell, most of you ingame group with
 
 </div>
 
-<div class="post" data-post-id="19754" data-author="Akasha" data-date="2007-08-19T02:03:21+00:00">
+<div class="post" data-post-id="19754" data-author="Akasha" data-date="2007-08-19T02:03:21+00:00" data-subject="">
 
 they wont ban tap because they're pussies
 
@@ -624,7 +624,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="19755" data-author="banedon" data-date="2007-08-19T02:48:27+00:00">
+<div class="post" data-post-id="19755" data-author="banedon" data-date="2007-08-19T02:48:27+00:00" data-subject="">
 
 So in the immortal words of Rodney Dangerfield," can't we all just get along?"[/quote:2f2vib4v]
 
@@ -634,7 +634,7 @@ Dangerfields catchphrase is kinda appropriate for you though "I don't get no res
 
 </div>
 
-<div class="post" data-post-id="19756" data-author="Weasel" data-date="2007-08-19T05:02:47+00:00">
+<div class="post" data-post-id="19756" data-author="Weasel" data-date="2007-08-19T05:02:47+00:00" data-subject="">
 
 Tap isn't posting random irrelevant cr@p all over the place as he was in [one of] his other persona Hades, and that is a welcome relief. Of course Tap still gets a lot of cr@p because of what he did as Hades.. in time that may fade. umm.. I was going to make a point but I forget what it was now.. 
 
@@ -642,13 +642,13 @@ ok bye.
 
 </div>
 
-<div class="post" data-post-id="19757" data-author="13" data-date="2007-08-19T05:39:05+00:00">
+<div class="post" data-post-id="19757" data-author="13" data-date="2007-08-19T05:39:05+00:00" data-subject="">
 
 hah
 
 </div>
 
-<div class="post" data-post-id="19759" data-author="Tap" data-date="2007-08-19T10:47:15+00:00">
+<div class="post" data-post-id="19759" data-author="Tap" data-date="2007-08-19T10:47:15+00:00" data-subject="">
 
 [quote:3jospql4]13  	
 
@@ -660,31 +660,31 @@ hah[/quote:3jospql4]
 
 </div>
 
-<div class="post" data-post-id="19761" data-author="Weasel" data-date="2007-08-19T14:11:25+00:00">
+<div class="post" data-post-id="19761" data-author="Weasel" data-date="2007-08-19T14:11:25+00:00" data-subject="">
 
 how to win friends and influence people.  :shock:
 
 </div>
 
-<div class="post" data-post-id="19762" data-author="Tap" data-date="2007-08-19T15:06:53+00:00">
+<div class="post" data-post-id="19762" data-author="Tap" data-date="2007-08-19T15:06:53+00:00" data-subject="">
 
 [img:hma6ybof]http://www.weaselcircus.com/funnypics/church-leafs.jpg[/img:hma6ybof]
 
 </div>
 
-<div class="post" data-post-id="19763" data-author="Tap" data-date="2007-08-19T15:09:32+00:00">
+<div class="post" data-post-id="19763" data-author="Tap" data-date="2007-08-19T15:09:32+00:00" data-subject="">
 
 Disregard Prev post..again :oops:
 
 </div>
 
-<div class="post" data-post-id="19764" data-author="Avatar" data-date="2007-08-20T01:03:12+00:00">
+<div class="post" data-post-id="19764" data-author="Avatar" data-date="2007-08-20T01:03:12+00:00" data-subject="Threads">
 
 I didn't mean to say anything specific about Tap.  I just think that this thread deserved some respect.  I couldn't care less about Tap, other than to say we already have threads for the content he posts.
 
 </div>
 
-<div class="post" data-post-id="19774" data-author="Weasel" data-date="2007-08-20T21:39:06+00:00">
+<div class="post" data-post-id="19774" data-author="Weasel" data-date="2007-08-20T21:39:06+00:00" data-subject="">
 
 Thanks immorts both past and present for all your efforts, and for putting up with the abuse that is sometimes thrown at you. Also thanks to Jake whom I believe is still supporting the hosting of SlothMud.
 
@@ -692,7 +692,7 @@ And here's to the next 10 years. Cheers.
 
 </div>
 
-<div class="post" data-post-id="19776" data-author="Mosaix" data-date="2007-08-20T21:59:44+00:00">
+<div class="post" data-post-id="19776" data-author="Mosaix" data-date="2007-08-20T21:59:44+00:00" data-subject="">
 
 Adjutor (mike) from maryland got me started and addicted the fall of 1994
 
@@ -704,7 +704,7 @@ Broc/Mosaix/Endor/Osaka
 
 </div>
 
-<div class="post" data-post-id="19778" data-author="Tap" data-date="2007-08-20T22:12:09+00:00">
+<div class="post" data-post-id="19778" data-author="Tap" data-date="2007-08-20T22:12:09+00:00" data-subject="">
 
 [quote:3l36yd64]Avatar  	
 
@@ -716,13 +716,13 @@ Thanks dude, that really means alot :P
 
 </div>
 
-<div class="post" data-post-id="19816" data-author="Rynquald" data-date="2007-08-21T23:11:49+00:00">
+<div class="post" data-post-id="19816" data-author="Rynquald" data-date="2007-08-21T23:11:49+00:00" data-subject="">
 
 Thanks to all the admin for tirelessly working to run and improve Sloth, even when changes aren't well received. And thanks to all the players that continue to keep this mud a great place to be.
 
 </div>
 
-<div class="post" data-post-id="20362" data-author="Popa" data-date="2007-09-24T14:33:00+00:00">
+<div class="post" data-post-id="20362" data-author="Popa" data-date="2007-09-24T14:33:00+00:00" data-subject="">
 
 In 98 I was introduced to Slothmud by my friend Rick(splork) I was instantaineously hooked. I've enjoyed slothmudIII over the years as a place to go to get away from reality for awhile. 
 
@@ -734,13 +734,13 @@ Steve (Popa)
 
 </div>
 
-<div class="post" data-post-id="20369" data-author="Guinex" data-date="2007-09-24T17:48:02+00:00">
+<div class="post" data-post-id="20369" data-author="Guinex" data-date="2007-09-24T17:48:02+00:00" data-subject="">
 
 I cracked my seal on Sloth II played for a while, quit came back and played Sloth III quit for a while, came back again.......etc.....When ive got nothing better to do its good to come back and say hi to some old friends.  *smoke*
 
 </div>
 
-<div class="post" data-post-id="20373" data-author="13" data-date="2007-09-24T20:26:56+00:00">
+<div class="post" data-post-id="20373" data-author="13" data-date="2007-09-24T20:26:56+00:00" data-subject="">
 
 i guess i started playing in '94 because my buddy from high school, diazz,
 

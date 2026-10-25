@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37021" data-author="cyprimus" data-date="2016-07-01T11:03:32+00:00">
+<div class="post" data-post-id="37021" data-author="cyprimus" data-date="2016-07-01T11:03:32+00:00" data-subject="TMC reset. Vote!">
 
 TMC reset, we are 684th! 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36745" data-author="*teker*" data-date="2016-03-14T18:19:54+00:00">
+<div class="post" data-post-id="36745" data-author="*teker*" data-date="2016-03-14T18:19:54+00:00" data-subject="Memorization bug reports">
 
 There have been a few of these lately about problems memorizing specific spells so I figured I'd lay out the rules.
 

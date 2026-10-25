@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="8897" data-author="Dominicus" data-date="2005-10-04T07:59:41+00:00">
+<div class="post" data-post-id="8897" data-author="Dominicus" data-date="2005-10-04T07:59:41+00:00" data-subject="To Immorts :)">
 
 Maybe the time has come to make some more good things for mortals who serve you.
 
@@ -20,7 +20,7 @@ I bet many people will thank you for that. :)
 
 </div>
 
-<div class="post" data-post-id="8898" data-author="Gnu" data-date="2005-10-04T08:06:56+00:00">
+<div class="post" data-post-id="8898" data-author="Gnu" data-date="2005-10-04T08:06:56+00:00" data-subject="">
 
 Immortals do this, immortals do that!!! :P
 
@@ -28,7 +28,7 @@ Where are the ideas for discussion?
 
 </div>
 
-<div class="post" data-post-id="8901" data-author="markg" data-date="2005-10-04T08:34:29+00:00">
+<div class="post" data-post-id="8901" data-author="markg" data-date="2005-10-04T08:34:29+00:00" data-subject="">
 
 Oh, while theyre on it, I have this issue about my gold disappearing when I buy an item, as well as needing xp to lvl ... strange shit .....
 
@@ -40,7 +40,7 @@ I blame Clink.
 
 </div>
 
-<div class="post" data-post-id="8903" data-author="Daisy" data-date="2005-10-04T08:49:26+00:00">
+<div class="post" data-post-id="8903" data-author="Daisy" data-date="2005-10-04T08:49:26+00:00" data-subject="Re: To Immorts :)">
 
 Maybe the time has come to make some more good things for mortals who serve you.
 
@@ -54,7 +54,7 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8951" data-author="Vixn" data-date="2005-10-06T06:13:04+00:00">
+<div class="post" data-post-id="8951" data-author="Vixn" data-date="2005-10-06T06:13:04+00:00" data-subject="">
 
 â€˜Create foodâ€™ â€“ itâ€™s very strange but even most powerful Wizards of Sloth canâ€™t create magical food in inventory. Usually created goose falls straight into the road dust. Yummy!
 
@@ -74,7 +74,7 @@ Actually this idea isnâ€™t mine. I heard it from Lob, heh.. donâ€™t su
 
 </div>
 
-<div class="post" data-post-id="8953" data-author="13" data-date="2005-10-06T10:15:38+00:00">
+<div class="post" data-post-id="8953" data-author="13" data-date="2005-10-06T10:15:38+00:00" data-subject="">
 
 daisy stfu and let the grownups talk.
 
@@ -100,7 +100,7 @@ just laugh at you if you're over 2x40 and relying on holy eq.
 
 </div>
 
-<div class="post" data-post-id="8954" data-author="12345" data-date="2005-10-06T11:06:46+00:00">
+<div class="post" data-post-id="8954" data-author="12345" data-date="2005-10-06T11:06:46+00:00" data-subject="">
 
 Holy equipment... yeah.  Lots of reasons not to use it.
 
@@ -124,7 +124,7 @@ I now worship Blaster.  :)
 
 </div>
 
-<div class="post" data-post-id="8955" data-author="Qa" data-date="2005-10-06T11:25:32+00:00">
+<div class="post" data-post-id="8955" data-author="Qa" data-date="2005-10-06T11:25:32+00:00" data-subject="">
 
 4) If I remember correctly, SS has 1 whole temple.
 
@@ -144,19 +144,19 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="8956" data-author="12345" data-date="2005-10-06T11:37:42+00:00">
+<div class="post" data-post-id="8956" data-author="12345" data-date="2005-10-06T11:37:42+00:00" data-subject="">
 
 Tower's and Rita's have tablets?
 
 </div>
 
-<div class="post" data-post-id="8957" data-author="Alberich" data-date="2005-10-06T11:59:41+00:00">
+<div class="post" data-post-id="8957" data-author="Alberich" data-date="2005-10-06T11:59:41+00:00" data-subject="">
 
 Well, Ritas used too :P  Towers does, last I checked
 
 </div>
 
-<div class="post" data-post-id="8958" data-author="12345" data-date="2005-10-06T12:20:05+00:00">
+<div class="post" data-post-id="8958" data-author="12345" data-date="2005-10-06T12:20:05+00:00" data-subject="">
 
 Well.. that'd be cool if I still prayed :)
 
@@ -164,7 +164,7 @@ Holy eq still sucks.
 
 </div>
 
-<div class="post" data-post-id="8959" data-author="Icefyre" data-date="2005-10-06T12:50:49+00:00">
+<div class="post" data-post-id="8959" data-author="Icefyre" data-date="2005-10-06T12:50:49+00:00" data-subject="">
 
 Last time I tried to sacrifice! something at Rita's altar, nothing happened.  (Didn't start worshiping Rita).  Maybe I'm just a newbie and screwed up, but I didn't think dropping a corpse at a tablet is that hard.  
 
@@ -174,7 +174,7 @@ If I had the eq stockpiles that others do, sure, then I wouldn't be using holy e
 
 </div>
 
-<div class="post" data-post-id="8960" data-author="dt" data-date="2005-10-06T14:18:03+00:00">
+<div class="post" data-post-id="8960" data-author="dt" data-date="2005-10-06T14:18:03+00:00" data-subject="And old argument raising it&#x27;s ugly head">
 
 I remember sometime back this very topic being discussed when the new classes went in. It seems only logical to some that new classes=new tri-40/holy eq also going in to cater to the new additions. This was dismissed as unneccesary to add since each new class was deemed overpowered. You best bet is to run drachma and hope weaver has an item to cater to your needs.. otherwise plan on not meeting your needs.
 
@@ -184,7 +184,7 @@ ehh
 
 </div>
 
-<div class="post" data-post-id="8961" data-author="Alberich" data-date="2005-10-06T14:49:41+00:00">
+<div class="post" data-post-id="8961" data-author="Alberich" data-date="2005-10-06T14:49:41+00:00" data-subject="Re: And old argument raising it&#x27;s ugly head">
 
 I It seems only logical to some that new classes=new tri-40/holy eq also going in to cater to the new additions. This was dismissed as unneccesary to add since each new class was deemed overpowered. 
 
@@ -196,7 +196,7 @@ as for holy eq... yeah, if you're off valk and still using it, you should probab
 
 </div>
 
-<div class="post" data-post-id="8964" data-author="brand" data-date="2005-10-07T02:46:43+00:00">
+<div class="post" data-post-id="8964" data-author="brand" data-date="2005-10-07T02:46:43+00:00" data-subject="">
 
 holy eq is for newbs. :twisted: 
 
@@ -210,7 +210,7 @@ poem by brand
 
 </div>
 
-<div class="post" data-post-id="8965" data-author="Medios" data-date="2005-10-07T03:05:55+00:00">
+<div class="post" data-post-id="8965" data-author="Medios" data-date="2005-10-07T03:05:55+00:00" data-subject="">
 
 Why would holy eq only be for newbs.  It should give a marked advantage over in game eq, much like temp stuff.  I did always wonder why damage on body had so little ac when u can get a scarab or demonskin boots or all the other damage stuff thats .2-.3 from max.  Holy wings 1.5 damn near a full point from in game and 1.2 from cuirass.  Symbol < pearl.  
 
@@ -236,13 +236,13 @@ PS  You remember in school when u cried after the bully kicked your ass, and he 
 
 </div>
 
-<div class="post" data-post-id="8966" data-author="Vixn" data-date="2005-10-07T03:47:37+00:00">
+<div class="post" data-post-id="8966" data-author="Vixn" data-date="2005-10-07T03:47:37+00:00" data-subject="">
 
 As for me I won't buy no-steal clasp even it will be put ingame. Pthieves don't bother me, some of them are funny guys. I think pthiefing is just part of roleplay. But some whiners really want it, I guess they want to attach it to robe.. hehe.. So if they want to pay drachmaz for it why not to put this clasp ingame? Actually it isn't worse then token of recollection or '1st-masterfull-spell' token.
 
 </div>
 
-<div class="post" data-post-id="8968" data-author="Weasel" data-date="2005-10-07T09:44:53+00:00">
+<div class="post" data-post-id="8968" data-author="Weasel" data-date="2005-10-07T09:44:53+00:00" data-subject="">
 
 you should change your name to Target.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26872" data-author="Sind" data-date="2008-10-28T17:11:03+00:00">
+<div class="post" data-post-id="26872" data-author="Sind" data-date="2008-10-28T17:11:03+00:00" data-subject="WTB black parchment :)">
 
 wtb/wtt black parchment, iridescent shroud.
 

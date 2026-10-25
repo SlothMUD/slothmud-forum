@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="39801" data-author="Insomnia" data-date="2021-08-31T13:08:06+00:00">
+<div class="post" data-post-id="39801" data-author="Insomnia" data-date="2021-08-31T13:08:06+00:00" data-subject="Mudlet lags on long messages">
 
 Am I the only one who gets terrible Mudlet lags when it processes long multi-line output messages? –
 
@@ -26,19 +26,19 @@ Every time I do this, Mudlet hangs for several seconds. Disabling triggers helps
 
 </div>
 
-<div class="post" data-post-id="39802" data-author="Insomnia" data-date="2021-09-01T04:25:40+00:00">
+<div class="post" data-post-id="39802" data-author="Insomnia" data-date="2021-09-01T04:25:40+00:00" data-subject="Re: Mudlet lags on long messages">
 
 Oh, I've found the problem... It came from a very old trigger for parsing gjobs with a crazy long regexp pattern. Does anyone have a good solution for parsing all group members gjobs?
 
 </div>
 
-<div class="post" data-post-id="39806" data-author="*teker*" data-date="2021-09-04T14:30:09+00:00">
+<div class="post" data-post-id="39806" data-author="*teker*" data-date="2021-09-04T14:30:09+00:00" data-subject="Re: Mudlet lags on long messages">
 
 I'll add it to MSDP GROUP2
 
 </div>
 
-<div class="post" data-post-id="39811" data-author="cnl" data-date="2021-09-06T18:15:40+00:00">
+<div class="post" data-post-id="39811" data-author="cnl" data-date="2021-09-06T18:15:40+00:00" data-subject="Re: Mudlet lags on long messages">
 
 very cool, thanks
 

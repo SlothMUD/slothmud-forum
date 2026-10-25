@@ -10,7 +10,7 @@ locked: false
 post_count: 57
 ---
 
-<div class="post" data-post-id="20571" data-author="Akasha" data-date="2007-10-03T09:21:27+00:00">
+<div class="post" data-post-id="20571" data-author="Akasha" data-date="2007-10-03T09:21:27+00:00" data-subject="All hail King DeGrance II">
 
 IN THE BEGINNINGâ€¦.
 
@@ -34,13 +34,13 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="20572" data-author="13" data-date="2007-10-03T10:20:48+00:00">
+<div class="post" data-post-id="20572" data-author="13" data-date="2007-10-03T10:20:48+00:00" data-subject="">
 
 Ok, I'm interested.
 
 </div>
 
-<div class="post" data-post-id="20573" data-author="Avatar" data-date="2007-10-03T13:03:09+00:00">
+<div class="post" data-post-id="20573" data-author="Avatar" data-date="2007-10-03T13:03:09+00:00" data-subject="">
 
 I love any background to the game, very nice.
 
@@ -52,13 +52,13 @@ Still, it's great to tie together different areas within a larger storyline.  Th
 
 </div>
 
-<div class="post" data-post-id="20574" data-author="kjartan" data-date="2007-10-03T14:17:51+00:00">
+<div class="post" data-post-id="20574" data-author="kjartan" data-date="2007-10-03T14:17:51+00:00" data-subject="">
 
 This issue was already addressed in OOTS.  (It's like the Simpsons of D&D.)
 
 </div>
 
-<div class="post" data-post-id="20575" data-author="Akasha" data-date="2007-10-04T02:08:23+00:00">
+<div class="post" data-post-id="20575" data-author="Akasha" data-date="2007-10-04T02:08:23+00:00" data-subject="">
 
 This has to be the saddest turnout of replies regarding possible quest theories, feedback, etc that I've ever seen on a thread. 
 
@@ -70,7 +70,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="20576" data-author="Shazuko" data-date="2007-10-04T02:21:46+00:00">
+<div class="post" data-post-id="20576" data-author="Shazuko" data-date="2007-10-04T02:21:46+00:00" data-subject="">
 
 [quote:3odkn1yh]Order of the Black Rose[/quote:3odkn1yh]
 
@@ -84,13 +84,13 @@ that sounds interesting...
 
 </div>
 
-<div class="post" data-post-id="20577" data-author="Ezekiel" data-date="2007-10-04T02:26:50+00:00">
+<div class="post" data-post-id="20577" data-author="Ezekiel" data-date="2007-10-04T02:26:50+00:00" data-subject="">
 
 Awesome that you're working on enhancing background and I'd be glad to see anything new in the mix. As far as the disease thing goes...to avatar: there are diseases like leprosy that can't be cured and must heal on their own in game...thus he could be diseased with something of the like but uncurable, etc...so anyway, thanks akasha for the contributions. Sad that people have to criticize when an imm tries to integrate something new and give us a bit of variety in our mudding. I look forward to the continuation.
 
 </div>
 
-<div class="post" data-post-id="20578" data-author="Weasel" data-date="2007-10-04T02:52:50+00:00">
+<div class="post" data-post-id="20578" data-author="Weasel" data-date="2007-10-04T02:52:50+00:00" data-subject="">
 
 This sounds big.. I've noticed strangers wondering around, and not just in BH either.. methinks spies are about and forces are gathering, and I get the feeling DeGrance II ain't a chip off the ole' block either.. oedipus complex perhaps? Time will tell.. bring it on Akasha!
 
@@ -98,7 +98,7 @@ This sounds big.. I've noticed strangers wondering around, and not just in BH ei
 
 </div>
 
-<div class="post" data-post-id="20579" data-author="Tap" data-date="2007-10-04T04:19:04+00:00">
+<div class="post" data-post-id="20579" data-author="Tap" data-date="2007-10-04T04:19:04+00:00" data-subject="">
 
 Little is also known about Degrance's bastard twin sons. While many an oaf would step forward upon the King's demise to attempt deceit and claim a piece of the pie, only Billy and Little Titus Degrance (as they are known in small circles) could only reallyhold such a strong claim to the thrown should 
 
@@ -106,19 +106,19 @@ something foul befall Degrance II. Now how the two twins came to hate each other
 
 </div>
 
-<div class="post" data-post-id="20582" data-author="Weasel" data-date="2007-10-04T08:26:52+00:00">
+<div class="post" data-post-id="20582" data-author="Weasel" data-date="2007-10-04T08:26:52+00:00" data-subject="">
 
 :shock:
 
 </div>
 
-<div class="post" data-post-id="20583" data-author="tincts" data-date="2007-10-04T08:50:19+00:00">
+<div class="post" data-post-id="20583" data-author="tincts" data-date="2007-10-04T08:50:19+00:00" data-subject="">
 
 Sweet, I'll need to prepare properly for this thing.  Uni - deferred.  Job - quit.  Wife - divorce.  Backup keyboard for when I wear the keys off this one - acquired.
 
 </div>
 
-<div class="post" data-post-id="20584" data-author="Jag" data-date="2007-10-04T13:48:37+00:00">
+<div class="post" data-post-id="20584" data-author="Jag" data-date="2007-10-04T13:48:37+00:00" data-subject="">
 
 Sounds like a good one.  
 
@@ -130,7 +130,7 @@ Savvy
 
 </div>
 
-<div class="post" data-post-id="20585" data-author="Malison" data-date="2007-10-05T00:35:09+00:00">
+<div class="post" data-post-id="20585" data-author="Malison" data-date="2007-10-05T00:35:09+00:00" data-subject="">
 
 [quote:1n58dvse]I'm thinking failure to succeed could bring on a new cleansing. Muhahaha! [/quote:1n58dvse]
 
@@ -138,7 +138,7 @@ Don't say that, people will try to sabotage in favor of said cleansing!
 
 </div>
 
-<div class="post" data-post-id="20587" data-author="Tap" data-date="2007-10-05T14:13:42+00:00">
+<div class="post" data-post-id="20587" data-author="Tap" data-date="2007-10-05T14:13:42+00:00" data-subject="">
 
 Like who?
 
@@ -146,13 +146,13 @@ Like who?
 
 </div>
 
-<div class="post" data-post-id="20823" data-author="Weasel" data-date="2007-10-12T21:50:51+00:00">
+<div class="post" data-post-id="20823" data-author="Weasel" data-date="2007-10-12T21:50:51+00:00" data-subject="">
 
 so umm.. the kingdom's on holiday?
 
 </div>
 
-<div class="post" data-post-id="20832" data-author="Weasel" data-date="2007-10-13T02:06:02+00:00">
+<div class="post" data-post-id="20832" data-author="Weasel" data-date="2007-10-13T02:06:02+00:00" data-subject="">
 
 Akasha, where for art thou?  
 
@@ -162,7 +162,7 @@ The BH town girl is missing.. have you eloped? Are you both being held in a dung
 
 </div>
 
-<div class="post" data-post-id="20980" data-author="Akasha" data-date="2007-10-23T08:38:50+00:00">
+<div class="post" data-post-id="20980" data-author="Akasha" data-date="2007-10-23T08:38:50+00:00" data-subject="">
 
 first, the gypsy girl quest chain in BH has been removed for good... A new AQ will take its place in the next couple of weeks.  
 
@@ -170,7 +170,7 @@ That said..
 
 </div>
 
-<div class="post" data-post-id="20981" data-author="Akasha" data-date="2007-10-23T09:28:13+00:00">
+<div class="post" data-post-id="20981" data-author="Akasha" data-date="2007-10-23T09:28:13+00:00" data-subject="Epic Updates">
 
 The time draws near for the first installment of the Epic Starter Package.
 
@@ -218,7 +218,7 @@ AKasha
 
 </div>
 
-<div class="post" data-post-id="20982" data-author="Hotara" data-date="2007-10-23T14:04:54+00:00">
+<div class="post" data-post-id="20982" data-author="Hotara" data-date="2007-10-23T14:04:54+00:00" data-subject="Re: Epic Updates">
 
 The time draws near for the first installment of the  I plan on installing the starter package on November 4th, in mid-afternoon.  No definite times have been scheduled yet.  
 
@@ -228,7 +228,7 @@ Is that mid afternoon november 4th server time, or your time?
 
 </div>
 
-<div class="post" data-post-id="20983" data-author="13" data-date="2007-10-23T15:32:35+00:00">
+<div class="post" data-post-id="20983" data-author="13" data-date="2007-10-23T15:32:35+00:00" data-subject="">
 
 Dude, Dave, this is amazing.
 
@@ -238,13 +238,13 @@ This right here has me hooked right in ^
 
 </div>
 
-<div class="post" data-post-id="20988" data-author="Jag" data-date="2007-10-23T18:37:01+00:00">
+<div class="post" data-post-id="20988" data-author="Jag" data-date="2007-10-23T18:37:01+00:00" data-subject="">
 
 Very Cool!   Very Ambitious.  It's gonna be great.
 
 </div>
 
-<div class="post" data-post-id="20989" data-author="Akasha" data-date="2007-10-23T18:40:11+00:00">
+<div class="post" data-post-id="20989" data-author="Akasha" data-date="2007-10-23T18:40:11+00:00" data-subject="Re: Epic Updates">
 
 Is that mid afternoon november 4th server time, or your time?
 
@@ -252,13 +252,13 @@ I always speak server time
 
 </div>
 
-<div class="post" data-post-id="20990" data-author="13" data-date="2007-10-23T20:14:58+00:00">
+<div class="post" data-post-id="20990" data-author="13" data-date="2007-10-23T20:14:58+00:00" data-subject="">
 
 Dude, did I mention I'm excited about this?
 
 </div>
 
-<div class="post" data-post-id="20991" data-author="Hotara" data-date="2007-10-23T20:28:41+00:00">
+<div class="post" data-post-id="20991" data-author="Hotara" data-date="2007-10-23T20:28:41+00:00" data-subject="">
 
 Dude, did I mention I'm excited about this?[/quote:j8hsvs4g]
 
@@ -266,7 +266,7 @@ That's cool, just don't leave a trail of mess :)
 
 </div>
 
-<div class="post" data-post-id="21079" data-author="Shyla" data-date="2007-10-26T02:39:34+00:00">
+<div class="post" data-post-id="21079" data-author="Shyla" data-date="2007-10-26T02:39:34+00:00" data-subject="">
 
 Someone is actually doing something on a sunday woot I can actually participate.  Inconceivable :)
 
@@ -276,7 +276,7 @@ shyla/jacinda/Deb
 
 </div>
 
-<div class="post" data-post-id="21137" data-author="Weasel" data-date="2007-10-30T10:44:38+00:00">
+<div class="post" data-post-id="21137" data-author="Weasel" data-date="2007-10-30T10:44:38+00:00" data-subject="">
 
 Hey Akasha, we can't reply on that Quest Announcements thread - locked to anyone but admins apparently.
 
@@ -284,13 +284,13 @@ Hey Akasha, we can't reply on that Quest Announcements thread - locked to anyone
 
 </div>
 
-<div class="post" data-post-id="21138" data-author="Alberich" data-date="2007-10-30T11:41:30+00:00">
+<div class="post" data-post-id="21138" data-author="Alberich" data-date="2007-10-30T11:41:30+00:00" data-subject="">
 
 yeah, i tried too :(  looks like a fun quest, pity it's right in the middle of the pat-colts game
 
 </div>
 
-<div class="post" data-post-id="21139" data-author="Autolycos" data-date="2007-10-30T12:49:11+00:00">
+<div class="post" data-post-id="21139" data-author="Autolycos" data-date="2007-10-30T12:49:11+00:00" data-subject="">
 
 Someone is actually doing something on a sunday woot I can actually participate.  Inconceivable :)[/quote:1kezf4s5]
 
@@ -298,19 +298,19 @@ why do you keep saying that word?  I do not think it means what you think it mea
 
 </div>
 
-<div class="post" data-post-id="21140" data-author="Leaf" data-date="2007-10-30T14:01:22+00:00">
+<div class="post" data-post-id="21140" data-author="Leaf" data-date="2007-10-30T14:01:22+00:00" data-subject="">
 
 Great Movie hehehe :)
 
 </div>
 
-<div class="post" data-post-id="21141" data-author="Elwood" data-date="2007-10-30T14:49:05+00:00">
+<div class="post" data-post-id="21141" data-author="Elwood" data-date="2007-10-30T14:49:05+00:00" data-subject="">
 
 Dave we can't reply in that thread.
 
 </div>
 
-<div class="post" data-post-id="21145" data-author="Akasha" data-date="2007-10-30T18:24:09+00:00">
+<div class="post" data-post-id="21145" data-author="Akasha" data-date="2007-10-30T18:24:09+00:00" data-subject="">
 
 ahh, yeah, forgot i posted it as an announcement.. my bust.
 
@@ -318,7 +318,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="21146" data-author="Akasha" data-date="2007-10-30T18:25:22+00:00">
+<div class="post" data-post-id="21146" data-author="Akasha" data-date="2007-10-30T18:25:22+00:00" data-subject="">
 
 yeah, i tried too :(  looks like a fun quest, pity it's right in the middle of the pat-colts game[/quote:5bvj9l0y]
 
@@ -328,7 +328,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="21147" data-author="Akasha" data-date="2007-10-30T18:27:21+00:00">
+<div class="post" data-post-id="21147" data-author="Akasha" data-date="2007-10-30T18:27:21+00:00" data-subject="">
 
 (So that you can quote and make comments/ask questions, I've copied the post to this thread).
 
@@ -388,13 +388,13 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="21148" data-author="Leaf" data-date="2007-10-30T18:29:40+00:00">
+<div class="post" data-post-id="21148" data-author="Leaf" data-date="2007-10-30T18:29:40+00:00" data-subject="">
 
 I hope Day Light Savings isn't going to mess up ppl's clocks!
 
 </div>
 
-<div class="post" data-post-id="21149" data-author="Akasha" data-date="2007-10-30T18:37:05+00:00">
+<div class="post" data-post-id="21149" data-author="Akasha" data-date="2007-10-30T18:37:05+00:00" data-subject="">
 
 Yeah, I forgot about that when I set the date and time.... 
 
@@ -404,7 +404,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="21162" data-author="Ingold" data-date="2007-11-01T02:07:09+00:00">
+<div class="post" data-post-id="21162" data-author="Ingold" data-date="2007-11-01T02:07:09+00:00" data-subject="Really Rocking">
 
 Great job. Love the story line and no your not busting your ass for nothing. Can't wait till this gets going. Rockin !!
 
@@ -414,13 +414,13 @@ Byron
 
 </div>
 
-<div class="post" data-post-id="21165" data-author="Akasha" data-date="2007-11-01T09:51:41+00:00">
+<div class="post" data-post-id="21165" data-author="Akasha" data-date="2007-11-01T09:51:41+00:00" data-subject="">
 
 reseting title of thread
 
 </div>
 
-<div class="post" data-post-id="21166" data-author="Nurse_Goodbody" data-date="2007-11-01T10:25:17+00:00">
+<div class="post" data-post-id="21166" data-author="Nurse_Goodbody" data-date="2007-11-01T10:25:17+00:00" data-subject="">
 
 I just looked in on the king. His health is rapidly dropping.
 
@@ -428,7 +428,7 @@ I just looked in on the king. His health is rapidly dropping.
 
 </div>
 
-<div class="post" data-post-id="21174" data-author="resouh" data-date="2007-11-02T20:53:44+00:00">
+<div class="post" data-post-id="21174" data-author="resouh" data-date="2007-11-02T20:53:44+00:00" data-subject="">
 
 Is it november 4th yet?  
 
@@ -442,13 +442,13 @@ just prepping myself......
 
 </div>
 
-<div class="post" data-post-id="21179" data-author="Akasha" data-date="2007-11-03T04:25:34+00:00">
+<div class="post" data-post-id="21179" data-author="Akasha" data-date="2007-11-03T04:25:34+00:00" data-subject="">
 
 heh, cute.... 46 hours and counting :P
 
 </div>
 
-<div class="post" data-post-id="21180" data-author="Weasel" data-date="2007-11-03T06:00:30+00:00">
+<div class="post" data-post-id="21180" data-author="Weasel" data-date="2007-11-03T06:00:30+00:00" data-subject="">
 
 and for an added bonus.. a series of major conjunctions too
 
@@ -472,7 +472,7 @@ nice :)
 
 </div>
 
-<div class="post" data-post-id="21181" data-author="Nurse_Goodbody" data-date="2007-11-03T10:54:02+00:00">
+<div class="post" data-post-id="21181" data-author="Nurse_Goodbody" data-date="2007-11-03T10:54:02+00:00" data-subject="">
 
 You forgot
 
@@ -482,7 +482,7 @@ It will last for 2060 more minutes.
 
 </div>
 
-<div class="post" data-post-id="21190" data-author="Akasha" data-date="2007-11-04T08:50:23+00:00">
+<div class="post" data-post-id="21190" data-author="Akasha" data-date="2007-11-04T08:50:23+00:00" data-subject="">
 
 See you people in 7 hours.
 
@@ -494,7 +494,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="21195" data-author="madmax" data-date="2007-11-04T16:09:41+00:00">
+<div class="post" data-post-id="21195" data-author="madmax" data-date="2007-11-04T16:09:41+00:00" data-subject="">
 
 Quest starting: Current time: Sun Nov  4 10:09:18 2007
 
@@ -596,7 +596,7 @@ Shyla is leading 'I don't know how I got wrangled into leading quest' on Thordfa
 
 </div>
 
-<div class="post" data-post-id="21196" data-author="Akasha" data-date="2007-11-04T16:13:20+00:00">
+<div class="post" data-post-id="21196" data-author="Akasha" data-date="2007-11-04T16:13:20+00:00" data-subject="">
 
 Page 8-6. Seed of Njor
 
@@ -670,7 +670,7 @@ of the twisted guardian.
 
 </div>
 
-<div class="post" data-post-id="21197" data-author="madmax" data-date="2007-11-04T17:36:20+00:00">
+<div class="post" data-post-id="21197" data-author="madmax" data-date="2007-11-04T17:36:20+00:00" data-subject="">
 
 Bal Harbor NewsBreak-
 
@@ -696,7 +696,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="21198" data-author="madmax" data-date="2007-11-04T17:53:13+00:00">
+<div class="post" data-post-id="21198" data-author="madmax" data-date="2007-11-04T17:53:13+00:00" data-subject="">
 
 Bal Harbor NewsBreak- 
 
@@ -742,7 +742,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="21199" data-author="resouh" data-date="2007-11-04T18:46:11+00:00">
+<div class="post" data-post-id="21199" data-author="resouh" data-date="2007-11-04T18:46:11+00:00" data-subject="">
 
 Brady utters the words, 'frostbolt'
 
@@ -786,13 +786,13 @@ resouh
 
 </div>
 
-<div class="post" data-post-id="21201" data-author="13" data-date="2007-11-05T00:10:55+00:00">
+<div class="post" data-post-id="21201" data-author="13" data-date="2007-11-05T00:10:55+00:00" data-subject="">
 
 what is the end result of all this?
 
 </div>
 
-<div class="post" data-post-id="21202" data-author="Leaf" data-date="2007-11-05T02:06:24+00:00">
+<div class="post" data-post-id="21202" data-author="Leaf" data-date="2007-11-05T02:06:24+00:00" data-subject="">
 
 From my understanding when u enlist, u receive a sash.  It is a +hit sash
 
@@ -804,7 +804,7 @@ least thats what I'm guessing.
 
 </div>
 
-<div class="post" data-post-id="21204" data-author="Ah_Puch" data-date="2007-11-05T04:30:27+00:00">
+<div class="post" data-post-id="21204" data-author="Ah_Puch" data-date="2007-11-05T04:30:27+00:00" data-subject="">
 
 It's a very nice addition. Good job to Akasha and others who went to the trouble of implementing all this. The next few months thru X-mas and beyond should prove to be velly interesting. Velly interesting, indeed.
 
@@ -812,7 +812,7 @@ It's a very nice addition. Good job to Akasha and others who went to the trouble
 
 </div>
 
-<div class="post" data-post-id="21205" data-author="Akasha" data-date="2007-11-05T06:17:18+00:00">
+<div class="post" data-post-id="21205" data-author="Akasha" data-date="2007-11-05T06:17:18+00:00" data-subject="">
 
 The helpfiles will be in within the next few days, but here they are ahead of time to answer _some_questions.  Sorry, I can't explain why the system is so lame, but oh well, can't please everyone >:|
 
@@ -1164,19 +1164,19 @@ For more information about honorquest setup, see AUTOQUESTS
 
 </div>
 
-<div class="post" data-post-id="21206" data-author="tincts" data-date="2007-11-05T08:40:35+00:00">
+<div class="post" data-post-id="21206" data-author="tincts" data-date="2007-11-05T08:40:35+00:00" data-subject="">
 
 This is awesome mate.  Great work.  can't wait to see where it goes
 
 </div>
 
-<div class="post" data-post-id="21207" data-author="13" data-date="2007-11-05T13:25:50+00:00">
+<div class="post" data-post-id="21207" data-author="13" data-date="2007-11-05T13:25:50+00:00" data-subject="">
 
 blah it's not lame :p
 
 </div>
 
-<div class="post" data-post-id="21208" data-author="Shazuko" data-date="2007-11-05T14:23:05+00:00">
+<div class="post" data-post-id="21208" data-author="Shazuko" data-date="2007-11-05T14:23:05+00:00" data-subject="">
 
 its very awesome to see that element brought to the mud, good coding effort...I personally can't wait to join a RAID! ;}
 
@@ -1188,7 +1188,7 @@ its very awesome to see that element brought to the mud, good coding effort...I 
 
 </div>
 
-<div class="post" data-post-id="21216" data-author="Tap" data-date="2007-11-06T11:01:44+00:00">
+<div class="post" data-post-id="21216" data-author="Tap" data-date="2007-11-06T11:01:44+00:00" data-subject="">
 
 Constructive Criticism
 
@@ -1196,7 +1196,7 @@ I'm very impressed by the changes going in, however, I would hope that groups re
 
 </div>
 
-<div class="post" data-post-id="21217" data-author="Akasha" data-date="2007-11-06T11:45:02+00:00">
+<div class="post" data-post-id="21217" data-author="Akasha" data-date="2007-11-06T11:45:02+00:00" data-subject="">
 
 First, Thanks appreciate the interest.
 

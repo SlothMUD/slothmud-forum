@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29786" data-author="*Splork*" data-date="2009-08-07T23:42:20+00:00">
+<div class="post" data-post-id="29786" data-author="*Splork*" data-date="2009-08-07T23:42:20+00:00" data-subject="determine hit point change">
 
 Due to having max stats to 25 now, we started this version of Sloth with a few points of Constitution which had the same hitpoint bonus as the stat before it. 
 

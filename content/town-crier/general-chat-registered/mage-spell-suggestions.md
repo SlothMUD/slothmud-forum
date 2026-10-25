@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="16098" data-author="Autolycos" data-date="2007-01-08T17:30:14+00:00">
+<div class="post" data-post-id="16098" data-author="Autolycos" data-date="2007-01-08T17:30:14+00:00" data-subject="Mage Spell Suggestions">
 
 .
 
@@ -32,7 +32,7 @@ cheers!
 
 </div>
 
-<div class="post" data-post-id="16099" data-author="Leaf" data-date="2007-01-08T17:43:02+00:00">
+<div class="post" data-post-id="16099" data-author="Leaf" data-date="2007-01-08T17:43:02+00:00" data-subject="">
 
 Hey dumbass, 
 
@@ -42,13 +42,13 @@ Now ur getting into Prime, so every class needs another prime skill/spell.
 
 </div>
 
-<div class="post" data-post-id="16100" data-author="firebrand" data-date="2007-01-08T18:00:15+00:00">
+<div class="post" data-post-id="16100" data-author="firebrand" data-date="2007-01-08T18:00:15+00:00" data-subject="">
 
 now, now boys.....let's not fight
 
 </div>
 
-<div class="post" data-post-id="16101" data-author="Autolycos" data-date="2007-01-08T18:26:42+00:00">
+<div class="post" data-post-id="16101" data-author="Autolycos" data-date="2007-01-08T18:26:42+00:00" data-subject="">
 
 Hey dumbass, 
 
@@ -68,7 +68,7 @@ ps.  FB..  there is no fight with young sir William.. he is just jealous because
 
 </div>
 
-<div class="post" data-post-id="16104" data-author="Leaf" data-date="2007-01-08T18:49:17+00:00">
+<div class="post" data-post-id="16104" data-author="Leaf" data-date="2007-01-08T18:49:17+00:00" data-subject="">
 
 You forgot 4thly you spam the thread with ur garbage.
 
@@ -78,25 +78,25 @@ Ur like an ex-gf that doesn't get the hint, but just bitch, bitch, bitch.
 
 </div>
 
-<div class="post" data-post-id="16106" data-author="Autolycos" data-date="2007-01-08T18:52:33+00:00">
+<div class="post" data-post-id="16106" data-author="Autolycos" data-date="2007-01-08T18:52:33+00:00" data-subject="">
 
 675 posts of yours Will..  and not 1 has been worth the effort to read
 
 </div>
 
-<div class="post" data-post-id="16108" data-author="Leaf" data-date="2007-01-08T19:03:57+00:00">
+<div class="post" data-post-id="16108" data-author="Leaf" data-date="2007-01-08T19:03:57+00:00" data-subject="">
 
 Well I guess ur 701 post beats mine.
 
 </div>
 
-<div class="post" data-post-id="16109" data-author="firebrand" data-date="2007-01-08T19:11:43+00:00">
+<div class="post" data-post-id="16109" data-author="firebrand" data-date="2007-01-08T19:11:43+00:00" data-subject="">
 
 does anyone else read these threads just to see who has the best insults or comebacks?
 
 </div>
 
-<div class="post" data-post-id="16110" data-author="Autolycos" data-date="2007-01-08T19:19:19+00:00">
+<div class="post" data-post-id="16110" data-author="Autolycos" data-date="2007-01-08T19:19:19+00:00" data-subject="">
 
 as I was stating prior to being rudely interupted.
 
@@ -116,7 +116,7 @@ Atomic blast - (Mage prime only) - bone shattering blast to initiate an attack, 
 
 </div>
 
-<div class="post" data-post-id="16113" data-author="Leaf" data-date="2007-01-08T20:23:02+00:00">
+<div class="post" data-post-id="16113" data-author="Leaf" data-date="2007-01-08T20:23:02+00:00" data-subject="">
 
 Damn it Jason, we are not all retarded like you.  We saw the spam that you
 
@@ -126,19 +126,19 @@ thread.
 
 </div>
 
-<div class="post" data-post-id="16114" data-author="Autolycos" data-date="2007-01-08T20:25:05+00:00">
+<div class="post" data-post-id="16114" data-author="Autolycos" data-date="2007-01-08T20:25:05+00:00" data-subject="">
 
 ever thought that now i'm doing it just to spite you?
 
 </div>
 
-<div class="post" data-post-id="16115" data-author="Rynquald" data-date="2007-01-08T21:10:27+00:00">
+<div class="post" data-post-id="16115" data-author="Rynquald" data-date="2007-01-08T21:10:27+00:00" data-subject="">
 
 I do like the idea of giving mage primes access to nukes :)
 
 </div>
 
-<div class="post" data-post-id="16116" data-author="brady" data-date="2007-01-08T21:18:00+00:00">
+<div class="post" data-post-id="16116" data-author="brady" data-date="2007-01-08T21:18:00+00:00" data-subject="">
 
 [quote:36qbo7c5]Damn it Jason, we are not all retarded like you. We saw the spam that you 
 
@@ -150,13 +150,13 @@ And a hardy STFU for you.  They are new ideas, and you are an old sock.
 
 </div>
 
-<div class="post" data-post-id="16118" data-author="Leaf" data-date="2007-01-08T22:04:55+00:00">
+<div class="post" data-post-id="16118" data-author="Leaf" data-date="2007-01-08T22:04:55+00:00" data-subject="">
 
 Hey Brady why don't u STFU, this is between little boy Jason and I.
 
 </div>
 
-<div class="post" data-post-id="16120" data-author="Vixn" data-date="2007-01-08T22:26:48+00:00">
+<div class="post" data-post-id="16120" data-author="Vixn" data-date="2007-01-08T22:26:48+00:00" data-subject="">
 
 Now ur getting into Prime, so every class needs another prime skill/spell.[/quote:2x3xb7jh]
 
@@ -166,7 +166,7 @@ i'd be very happy
 
 </div>
 
-<div class="post" data-post-id="16121" data-author="Hades" data-date="2007-01-08T22:27:20+00:00">
+<div class="post" data-post-id="16121" data-author="Hades" data-date="2007-01-08T22:27:20+00:00" data-subject="More Mage Prime Skills for other Classes">
 
 Warrior - Dual wield which is NOT a new idea and Knee which is
 
@@ -234,7 +234,7 @@ Mage  - Ditto
 
 </div>
 
-<div class="post" data-post-id="16202" data-author="13" data-date="2007-01-11T13:22:14+00:00">
+<div class="post" data-post-id="16202" data-author="13" data-date="2007-01-11T13:22:14+00:00" data-subject="">
 
 Only Thief and Monk have first-strike attacks.  The rest is just shit you have
 
@@ -242,13 +242,13 @@ help beat stuff down.
 
 </div>
 
-<div class="post" data-post-id="16234" data-author="Avalon" data-date="2007-01-12T21:05:34+00:00">
+<div class="post" data-post-id="16234" data-author="Avalon" data-date="2007-01-12T21:05:34+00:00" data-subject="">
 
 What about Druid's shift into Elephant for Trample and Warrior's Charge as first-strike attacks?  That makes a total of 4 classes that have first-strike attacks (in addition to Monk & Thief).
 
 </div>
 
-<div class="post" data-post-id="16241" data-author="Falsra" data-date="2007-01-13T09:22:04+00:00">
+<div class="post" data-post-id="16241" data-author="Falsra" data-date="2007-01-13T09:22:04+00:00" data-subject="">
 
 We have spells what improve our defence against physical attacks -
 
@@ -274,7 +274,7 @@ longer at avatar level ?
 
 </div>
 
-<div class="post" data-post-id="16242" data-author="13" data-date="2007-01-13T14:46:12+00:00">
+<div class="post" data-post-id="16242" data-author="13" data-date="2007-01-13T14:46:12+00:00" data-subject="">
 
 As far as I know those attacks can be repeated right?  The mob doesnt
 
@@ -284,7 +284,7 @@ and it didnt even kill a red sash.
 
 </div>
 
-<div class="post" data-post-id="16243" data-author="alias" data-date="2007-01-13T14:54:02+00:00">
+<div class="post" data-post-id="16243" data-author="alias" data-date="2007-01-13T14:54:02+00:00" data-subject="">
 
 Just be glad they don't put double deathtouch in the game or I would be able to kill all the sashes- instead of just 1 or 2.
 

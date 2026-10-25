@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="9308" data-author="*Splork*" data-date="2005-10-29T20:12:56+00:00">
+<div class="post" data-post-id="9308" data-author="*Splork*" data-date="2005-10-29T20:12:56+00:00" data-subject="mxp and shop addition">
 
 I've created a small compass for mxp users. Its rather basic and can be toggled on using mxpcompass. It is positioned near the upper right hand corner. Mostly it just adds some flavor but it looks pretty cool.
 
@@ -24,7 +24,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="9317" data-author="*Splork*" data-date="2005-10-30T12:26:20+00:00">
+<div class="post" data-post-id="9317" data-author="*Splork*" data-date="2005-10-30T12:26:20+00:00" data-subject="">
 
 Newly created characters will now log on with mxp enabled, thats if their client allows it.
 

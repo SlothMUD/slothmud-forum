@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="207" data-author="Deju" data-date="2004-05-21T18:03:37+00:00">
+<div class="post" data-post-id="207" data-author="Deju" data-date="2004-05-21T18:03:37+00:00" data-subject="Ivory Ankh Up - 500k min">
 
 ivory white ankh
 
@@ -32,13 +32,13 @@ Only those who are at least experienced thieves, warriors, bards, or monks may u
 
 </div>
 
-<div class="post" data-post-id="243" data-author="Polk" data-date="2004-05-22T13:06:21+00:00">
+<div class="post" data-post-id="243" data-author="Polk" data-date="2004-05-22T13:06:21+00:00" data-subject="500k">
 
 500k
 
 </div>
 
-<div class="post" data-post-id="350" data-author="Deju" data-date="2004-05-26T04:10:04+00:00">
+<div class="post" data-post-id="350" data-author="Deju" data-date="2004-05-26T04:10:04+00:00" data-subject="Closed">
 
 Closed.  Polk wins for 500k
 

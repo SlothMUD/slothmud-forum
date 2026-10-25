@@ -10,19 +10,19 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="24051" data-author="Dragoth" data-date="2008-04-26T15:58:17+00:00">
+<div class="post" data-post-id="24051" data-author="Dragoth" data-date="2008-04-26T15:58:17+00:00" data-subject="wtb demons claw">
 
 ...
 
 </div>
 
-<div class="post" data-post-id="24164" data-author="Weasel" data-date="2008-05-03T15:41:02+00:00">
+<div class="post" data-post-id="24164" data-author="Weasel" data-date="2008-05-03T15:41:02+00:00" data-subject="">
 
 still looking for one? trade you for scales of a sandworm, or else a monkey fist..
 
 </div>
 
-<div class="post" data-post-id="24186" data-author="Dragoth" data-date="2008-05-04T14:46:11+00:00">
+<div class="post" data-post-id="24186" data-author="Dragoth" data-date="2008-05-04T14:46:11+00:00" data-subject="">
 
 not looking anymore, cheers.
 

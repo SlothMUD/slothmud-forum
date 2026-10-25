@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="31781" data-author="Thraxas" data-date="2010-09-22T21:15:53+00:00">
+<div class="post" data-post-id="31781" data-author="Thraxas" data-date="2010-09-22T21:15:53+00:00" data-subject="I dont mean to be rude but ...">
 
 I've often found that whenever someone says something like:
 
@@ -34,13 +34,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="31782" data-author="jezer" data-date="2010-09-23T01:38:54+00:00">
+<div class="post" data-post-id="31782" data-author="jezer" data-date="2010-09-23T01:38:54+00:00" data-subject="Re: I dont mean to be rude but ...">
 
 This might sound sexist, but you take objection to everything like a woman!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="31783" data-author="jezer" data-date="2010-09-23T03:18:39+00:00">
+<div class="post" data-post-id="31783" data-author="jezer" data-date="2010-09-23T03:18:39+00:00" data-subject="Re: I dont mean to be rude but ...">
 
 Thraxas started this topic because of me!  :D  And I do feel honored that some one should give me all this wonderful attention!
 
@@ -98,13 +98,13 @@ Thraxas tells you 'end of conversation ... '
 
 </div>
 
-<div class="post" data-post-id="31784" data-author="mahkra" data-date="2010-09-23T13:33:21+00:00">
+<div class="post" data-post-id="31784" data-author="mahkra" data-date="2010-09-23T13:33:21+00:00" data-subject="Re: I dont mean to be rude but ...">
 
 http://en.wikipedia.org/wiki/Dalit
 
 </div>
 
-<div class="post" data-post-id="31785" data-author="Thraxas" data-date="2010-09-23T16:49:36+00:00">
+<div class="post" data-post-id="31785" data-author="Thraxas" data-date="2010-09-23T16:49:36+00:00" data-subject="Re: I dont mean to be rude but ...">
 
 @jezer: Odd that you've taken this as an attack on you, it was much more related to my previous post on the subject over a week before your questionable comments in group yesterday. http://www.slothmud.org/forum/viewtopic.php?f=28&t=3515
 
@@ -118,7 +118,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31786" data-author="jezer" data-date="2010-09-23T20:29:14+00:00">
+<div class="post" data-post-id="31786" data-author="jezer" data-date="2010-09-23T20:29:14+00:00" data-subject="Re: I dont mean to be rude but ...">
 
 Ridiculous illogical arguments.
 
@@ -136,13 +136,13 @@ Peace, Out.
 
 </div>
 
-<div class="post" data-post-id="31787" data-author="Thraxas" data-date="2010-09-23T23:02:35+00:00">
+<div class="post" data-post-id="31787" data-author="Thraxas" data-date="2010-09-23T23:02:35+00:00" data-subject="Re: I dont mean to be rude but ...">
 
 I dont mean to laugh at you but ... well no actually I do ...  :lol:
 
 </div>
 
-<div class="post" data-post-id="31789" data-author="Tuck" data-date="2010-09-24T11:46:56+00:00">
+<div class="post" data-post-id="31789" data-author="Tuck" data-date="2010-09-24T11:46:56+00:00" data-subject="Re: I dont mean to be rude but ...">
 
 You gossip-- 'I dont mean to be rude but don't make me get my main'
 

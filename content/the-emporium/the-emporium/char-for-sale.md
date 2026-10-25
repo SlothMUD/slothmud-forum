@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="34972" data-author="Hung" data-date="2014-04-09T12:30:18+00:00">
+<div class="post" data-post-id="34972" data-author="Hung" data-date="2014-04-09T12:30:18+00:00" data-subject="Char For Sale">
 
 All information gathered during sleep at bh wgate(outdoors) in the day when bh had no specials.
 
@@ -268,25 +268,25 @@ Almost all soloable aqs that were active 3 years ago has been completed and shie
 
 </div>
 
-<div class="post" data-post-id="34973" data-author="DarkArtist" data-date="2014-04-09T16:08:23+00:00">
+<div class="post" data-post-id="34973" data-author="DarkArtist" data-date="2014-04-09T16:08:23+00:00" data-subject="Re: Char For Sale">
 
 * 20 Mil
 
 </div>
 
-<div class="post" data-post-id="34975" data-author="Hung" data-date="2014-04-09T21:43:55+00:00">
+<div class="post" data-post-id="34975" data-author="Hung" data-date="2014-04-09T21:43:55+00:00" data-subject="Re: Char For Sale">
 
 20m bid is accepted. The auction will end in one week.
 
 </div>
 
-<div class="post" data-post-id="34976" data-author="cyprimus" data-date="2014-04-10T18:54:35+00:00">
+<div class="post" data-post-id="34976" data-author="cyprimus" data-date="2014-04-10T18:54:35+00:00" data-subject="Re: Char For Sale">
 
 25
 
 </div>
 
-<div class="post" data-post-id="34977" data-author="DarkArtist" data-date="2014-04-10T21:44:58+00:00">
+<div class="post" data-post-id="34977" data-author="DarkArtist" data-date="2014-04-10T21:44:58+00:00" data-subject="Re: Char For Sale">
 
 I'll bid once a day until final day, so don't close out on last day without my bid pls unless cyp just blows me away.
 
@@ -294,19 +294,19 @@ I'll bid once a day until final day, so don't close out on last day without my b
 
 </div>
 
-<div class="post" data-post-id="35000" data-author="Hung" data-date="2014-04-16T11:30:16+00:00">
+<div class="post" data-post-id="35000" data-author="Hung" data-date="2014-04-16T11:30:16+00:00" data-subject="Re: Char For Sale">
 
 Last bid - 30m. The auction will end tomorrow.
 
 </div>
 
-<div class="post" data-post-id="35002" data-author="DarkArtist" data-date="2014-04-17T12:15:33+00:00">
+<div class="post" data-post-id="35002" data-author="DarkArtist" data-date="2014-04-17T12:15:33+00:00" data-subject="Re: Char For Sale">
 
 I'll be checking in intermittently today.
 
 </div>
 
-<div class="post" data-post-id="35003" data-author="Hung" data-date="2014-04-17T13:26:32+00:00">
+<div class="post" data-post-id="35003" data-author="Hung" data-date="2014-04-17T13:26:32+00:00" data-subject="Re: Char For Sale">
 
 Sold to DarkArtist for 30m. The auction is closed.
 

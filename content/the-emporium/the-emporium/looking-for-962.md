@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5189" data-author="Alberich" data-date="2005-03-20T12:54:21+00:00">
+<div class="post" data-post-id="5189" data-author="Alberich" data-date="2005-03-20T12:54:21+00:00" data-subject="looking for..">
 
 cp hunting time again!
 

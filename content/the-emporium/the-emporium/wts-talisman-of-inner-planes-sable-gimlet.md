@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1065" data-author="Evergreen" data-date="2004-07-14T10:51:16+00:00">
+<div class="post" data-post-id="1065" data-author="Evergreen" data-date="2004-07-14T10:51:16+00:00" data-subject="wts talisman of inner planes/sable gimlet">
 
 talisman of inner planes -0.6ac +con 4x40 restricts - 1mil min
 

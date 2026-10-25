@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="36546" data-author="*juggleblood*" data-date="2016-01-25T20:00:50+00:00">
+<div class="post" data-post-id="36546" data-author="*juggleblood*" data-date="2016-01-25T20:00:50+00:00" data-subject="MSDPGROUP PARSER">
 
 Apparently mudlet 3.0 has some kind of native variable handler that sposed to let you easily parse msdpgroup.  But I'm using mudlet 2.1 cuz I'm stubborn and don't fully trust the new version ever since it destroyed so many of my scripts. So if you're not using 3.0 or can't figure out how to use the variables, here is how I parsed MSDP group into tables. 
 
@@ -124,19 +124,19 @@ end
 
 </div>
 
-<div class="post" data-post-id="36547" data-author="*juggleblood*" data-date="2016-01-26T16:39:49+00:00">
+<div class="post" data-post-id="36547" data-author="*juggleblood*" data-date="2016-01-26T16:39:49+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 Ok. That was stupid of me. Apparently cutting and pasting those special chars from the mud into your script xml file causes it to corrupt, something I knew, but forgot. I guess I have to breakdown and install 3.0 and figure out out to access the group msdp vars there. Any advice welcome.
 
 </div>
 
-<div class="post" data-post-id="36548" data-author="*Breeze*" data-date="2016-01-26T16:59:50+00:00">
+<div class="post" data-post-id="36548" data-author="*Breeze*" data-date="2016-01-26T16:59:50+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 check your email
 
 </div>
 
-<div class="post" data-post-id="36549" data-author="*juggleblood*" data-date="2016-01-26T19:16:21+00:00">
+<div class="post" data-post-id="36549" data-author="*juggleblood*" data-date="2016-01-26T19:16:21+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 Ok, mudlet 3.0 has the same issue as 2.1 regarding special characters. The box symbol that is used in the msdpvars is an illegal character in xml. So what happens is you write a nice script that works in mudlet, but then when you close mudlet and reload from your xml file, everything in your scripts below the special character vanishes.
 
@@ -252,7 +252,7 @@ end
 
 </div>
 
-<div class="post" data-post-id="36551" data-author="*juggleblood*" data-date="2016-01-26T21:06:07+00:00">
+<div class="post" data-post-id="36551" data-author="*juggleblood*" data-date="2016-01-26T21:06:07+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 Ok, finally discovered the missing piece of the puzzle. Thanks Splork, Breeze, and Linx.
 
@@ -270,7 +270,7 @@ etc..
 
 </div>
 
-<div class="post" data-post-id="36552" data-author="*juggleblood*" data-date="2016-01-26T22:35:56+00:00">
+<div class="post" data-post-id="36552" data-author="*juggleblood*" data-date="2016-01-26T22:35:56+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 I think I still might end up parsing atcp.GROUP myself because of the way msdp.GROUP table is set up:
 
@@ -304,7 +304,7 @@ It's not crucial, so don't spend time on it if you don't know. I've already gott
 
 </div>
 
-<div class="post" data-post-id="36553" data-author="*juggleblood*" data-date="2016-01-26T23:01:05+00:00">
+<div class="post" data-post-id="36553" data-author="*juggleblood*" data-date="2016-01-26T23:01:05+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 Well it's a done deal. I'm just sticking with atcp vars until i understand msdp tables better. Everything is working now so no sense touching it again.
 
@@ -314,7 +314,7 @@ It's not a big deal, but since position is included, then for completeness i wou
 
 </div>
 
-<div class="post" data-post-id="36563" data-author="Dragoth" data-date="2016-01-31T18:40:43+00:00">
+<div class="post" data-post-id="36563" data-author="Dragoth" data-date="2016-01-31T18:40:43+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 This is unrelated, but is there a way to only receive the requested msdpvar once ?
 
@@ -330,7 +330,7 @@ What was going on behind the scenes:
 
 </div>
 
-<div class="post" data-post-id="36564" data-author="*Splork*" data-date="2016-01-31T23:22:45+00:00">
+<div class="post" data-post-id="36564" data-author="*Splork*" data-date="2016-01-31T23:22:45+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 @Dragoth
 
@@ -342,13 +342,13 @@ It might be possible to create other group variables and cut down on the amount 
 
 </div>
 
-<div class="post" data-post-id="36565" data-author="Dragoth" data-date="2016-02-01T08:19:34+00:00">
+<div class="post" data-post-id="36565" data-author="Dragoth" data-date="2016-02-01T08:19:34+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 I'm not really asking for anything to be altered, but Is it not possible to create an additional subchannel command, say REQUEST in addition to REPORT, where it does the function of reporting requested msdpvars only once ?
 
 </div>
 
-<div class="post" data-post-id="36566" data-author="*Splork*" data-date="2016-02-01T12:39:12+00:00">
+<div class="post" data-post-id="36566" data-author="*Splork*" data-date="2016-02-01T12:39:12+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 I am sure its possible but its not something we will be doing. 
 
@@ -362,7 +362,7 @@ Maybe we can figure out a better option when we have tons of data tied to the sa
 
 </div>
 
-<div class="post" data-post-id="36567" data-author="Dragoth" data-date="2016-02-01T14:21:52+00:00">
+<div class="post" data-post-id="36567" data-author="Dragoth" data-date="2016-02-01T14:21:52+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 Thanks for the link Splork, this is very in-depth and it solved my issue.
 
@@ -372,7 +372,7 @@ No more subchannel overload for me!
 
 </div>
 
-<div class="post" data-post-id="36568" data-author="Dragoth" data-date="2016-02-01T15:03:21+00:00">
+<div class="post" data-post-id="36568" data-author="Dragoth" data-date="2016-02-01T15:03:21+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 Btw since MSDP varlist is incomplete in helpfiles, here is the full list I was able to retrieve from the server
 
@@ -702,7 +702,7 @@ GROUP
 
 </div>
 
-<div class="post" data-post-id="36569" data-author="*Splork*" data-date="2016-02-01T15:29:33+00:00">
+<div class="post" data-post-id="36569" data-author="*Splork*" data-date="2016-02-01T15:29:33+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 Great find(Forgot about SEND) and nice list!
 
@@ -710,7 +710,7 @@ We have updated the helpfile. Please remember -> do NOT request variables you ar
 
 </div>
 
-<div class="post" data-post-id="36572" data-author="*juggleblood*" data-date="2016-02-02T19:56:24+00:00">
+<div class="post" data-post-id="36572" data-author="*juggleblood*" data-date="2016-02-02T19:56:24+00:00" data-subject="Re: MSDPGROUP PARSER">
 
 Very cool. Thanks for both the list and the tip.
 

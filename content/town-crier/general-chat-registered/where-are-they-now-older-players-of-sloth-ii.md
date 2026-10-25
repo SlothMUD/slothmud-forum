@@ -10,7 +10,7 @@ locked: false
 post_count: 41
 ---
 
-<div class="post" data-post-id="13195" data-author="Vain" data-date="2006-06-28T21:18:20+00:00">
+<div class="post" data-post-id="13195" data-author="Vain" data-date="2006-06-28T21:18:20+00:00" data-subject="Where Are They Now?  (Older Players of Sloth II)">
 
 Got a little nostalgic today so I stumbled across this Sloth site.
 
@@ -32,7 +32,7 @@ If any older players are still around, please reply!
 
 </div>
 
-<div class="post" data-post-id="13198" data-author="Corinn" data-date="2006-06-28T21:49:33+00:00">
+<div class="post" data-post-id="13198" data-author="Corinn" data-date="2006-06-28T21:49:33+00:00" data-subject="">
 
 I started playing around 1995 or so, my friend Brian (Piglet) introduced me to the game.  My first character was "Shabazz"
 
@@ -42,7 +42,7 @@ Anyway, a few months ago when the only thing to do in Maine in the winter is dri
 
 </div>
 
-<div class="post" data-post-id="13199" data-author="*Splork*" data-date="2006-06-28T21:51:19+00:00">
+<div class="post" data-post-id="13199" data-author="*Splork*" data-date="2006-06-28T21:51:19+00:00" data-subject="">
 
 Temple of the Masked God
 
@@ -58,7 +58,7 @@ I played Hercules and Pegasus back then...
 
 </div>
 
-<div class="post" data-post-id="13201" data-author="13" data-date="2006-06-28T22:54:42+00:00">
+<div class="post" data-post-id="13201" data-author="13" data-date="2006-06-28T22:54:42+00:00" data-subject="">
 
 Well shit.  Canby, I hand't thought of him in a long time.  I knew I recognized the name Pisces the other day, and asked Medios if it was she from s2 he said didn't know.   Anyway, I was in DoT with Jay (Jedha) and George (Flight/Scorn) and Mike Fry (Apolicus) and a couple other folks.  I remember
 
@@ -70,13 +70,13 @@ I know, although not usually on those names.
 
 </div>
 
-<div class="post" data-post-id="13202" data-author="marchessa_the_red_witch" data-date="2006-06-29T00:54:19+00:00">
+<div class="post" data-post-id="13202" data-author="marchessa_the_red_witch" data-date="2006-06-29T00:54:19+00:00" data-subject="I remember Canby and Piglet">
 
 Did old catacombs with both of them.
 
 </div>
 
-<div class="post" data-post-id="13211" data-author="Vain" data-date="2006-06-29T17:18:31+00:00">
+<div class="post" data-post-id="13211" data-author="Vain" data-date="2006-06-29T17:18:31+00:00" data-subject="Wow - great response!">
 
 Awesome response guys.  I remember all of ya - amazing to still see familiar faces after 12 or so years. Canby was a trip, and I remember Shabazz was a lot of fun too.  Heck I even turned up old Clan mates!
 
@@ -102,13 +102,13 @@ Any more oldies willing to come out and say hi?  :)
 
 </div>
 
-<div class="post" data-post-id="13214" data-author="Harlot" data-date="2006-06-30T09:41:56+00:00">
+<div class="post" data-post-id="13214" data-author="Harlot" data-date="2006-06-30T09:41:56+00:00" data-subject="Where are they now?">
 
 Pthieving is wrong and should be left for the professionals :oops:
 
 </div>
 
-<div class="post" data-post-id="13215" data-author="Autolycos" data-date="2006-06-30T12:23:42+00:00">
+<div class="post" data-post-id="13215" data-author="Autolycos" data-date="2006-06-30T12:23:42+00:00" data-subject="Re: Wow - great response!">
 
 The DoT (Den of Thieves) was a lot of fun ....did I read you correctly in saying that there is an area in Sloth III with a statue of Vain?  Man that is so awesome and I'm so glad I posted.[/quote:1ydyp8m4]
 
@@ -120,7 +120,7 @@ One of my fav areas.   Damn cool thiefy Kris forge there too.
 
 </div>
 
-<div class="post" data-post-id="13216" data-author="Blastard" data-date="2006-06-30T12:25:27+00:00">
+<div class="post" data-post-id="13216" data-author="Blastard" data-date="2006-06-30T12:25:27+00:00" data-subject="">
 
 all very familiar names....I met George(scorn) in miami as im from there, living in orlando now...if he plans to move to tampa he should give a shout...I remember alfajor, tesa and slip(thems muh girlz), they arent around...Krom plays several different chars now...I remember the DoT, I ran across the chaos clan on s2 and it was in shambles...I revamped it and made in my own in s3...I remember lace, and redcross, riven, diablo, zera...and zarf...I had almost made it tri40 when s2 went down...Gelding(jason) I see about once a year or so....I know alana, met Jake here in orlando a few years back...I remember ricks char pegasus, Kel had a few chars I dont remember off hand, dont remember you specifically, but then theres a few names I've probably lost along the way...I started s2 in sept. 96, was introduced by Drew in miami(known as alexus now)...dont have as much time as I used to, but I'm....around...
 
@@ -130,7 +130,7 @@ all very familiar names....I met George(scorn) in miami as im from there, living
 
 </div>
 
-<div class="post" data-post-id="13226" data-author="Corinn" data-date="2006-06-30T21:30:18+00:00">
+<div class="post" data-post-id="13226" data-author="Corinn" data-date="2006-06-30T21:30:18+00:00" data-subject="">
 
 ...Gelding(jason) I see about once a year or so....[/quote:35qtv4vq]
 
@@ -140,7 +140,7 @@ I'd love to get back in touch with him...
 
 </div>
 
-<div class="post" data-post-id="13228" data-author="Shyla" data-date="2006-07-01T01:40:45+00:00">
+<div class="post" data-post-id="13228" data-author="Shyla" data-date="2006-07-01T01:40:45+00:00" data-subject="">
 
 Not that you would remember me, but I played lora on sloth II from like 92-95.  I also played mrs and di and midnite a little but mostly I played lora a cleric.  I used to hang out with tigger a lot who dated my then roomate in college for a while adrienne is who she played.  But if you read this and remember me for any reason I am now playing shyla on sloth III
 
@@ -148,7 +148,7 @@ HUGS
 
 </div>
 
-<div class="post" data-post-id="13265" data-author="Turbo" data-date="2006-07-04T12:40:20+00:00">
+<div class="post" data-post-id="13265" data-author="Turbo" data-date="2006-07-04T12:40:20+00:00" data-subject="">
 
 I've been Turbo since 1992 :-)
 
@@ -156,7 +156,7 @@ I've been Turbo since 1992 :-)
 
 </div>
 
-<div class="post" data-post-id="13268" data-author="Mosaix" data-date="2006-07-04T20:01:40+00:00">
+<div class="post" data-post-id="13268" data-author="Mosaix" data-date="2006-07-04T20:01:40+00:00" data-subject="">
 
 Immorted a thief/mage named Endor.  Started my addiction about August of 1994.  Also played Christiana for while at the end of sloth 2.
 
@@ -166,7 +166,7 @@ Broc/Mosaix
 
 </div>
 
-<div class="post" data-post-id="13270" data-author="Mystery" data-date="2006-07-04T21:42:15+00:00">
+<div class="post" data-post-id="13270" data-author="Mystery" data-date="2006-07-04T21:42:15+00:00" data-subject="Where are they now? or I found Autolycos!!!">
 
 I know Auto has been missing in action and now I know why.. what you see will see if not for the faint of heart.
 
@@ -176,7 +176,7 @@ I know Auto has been missing in action and now I know why.. what you see will se
 
 </div>
 
-<div class="post" data-post-id="13298" data-author="Autolycos" data-date="2006-07-05T17:10:05+00:00">
+<div class="post" data-post-id="13298" data-author="Autolycos" data-date="2006-07-05T17:10:05+00:00" data-subject="">
 
 HEY!!!  that hurt!
 
@@ -186,7 +186,7 @@ damn beanbag guns sure knock the breath right outta ya..
 
 </div>
 
-<div class="post" data-post-id="13316" data-author="13" data-date="2006-07-05T22:33:23+00:00">
+<div class="post" data-post-id="13316" data-author="13" data-date="2006-07-05T22:33:23+00:00" data-subject="">
 
 Deb I really remembered you mostly as nite instead of lora.
 
@@ -196,7 +196,7 @@ Dave.
 
 </div>
 
-<div class="post" data-post-id="13335" data-author="Virus" data-date="2006-07-06T07:31:21+00:00">
+<div class="post" data-post-id="13335" data-author="Virus" data-date="2006-07-06T07:31:21+00:00" data-subject="">
 
 > **Turbo wrote:**
 > I've been Turbo since 1992 :-)
@@ -211,7 +211,7 @@ I've been Virus since 1991 or 1992 =-P
 
 </div>
 
-<div class="post" data-post-id="13364" data-author="Vain" data-date="2006-07-07T14:24:43+00:00">
+<div class="post" data-post-id="13364" data-author="Vain" data-date="2006-07-07T14:24:43+00:00" data-subject="Great response....any others?">
 
 Thanks for the continued responses.  
 
@@ -229,7 +229,7 @@ Curious if any of you who have replied to this thread play other games these day
 
 </div>
 
-<div class="post" data-post-id="13443" data-author="Shadis" data-date="2006-07-11T19:22:38+00:00">
+<div class="post" data-post-id="13443" data-author="Shadis" data-date="2006-07-11T19:22:38+00:00" data-subject="">
 
 what ever happend to Zera?
 
@@ -245,7 +245,7 @@ Shadis
 
 </div>
 
-<div class="post" data-post-id="13445" data-author="13" data-date="2006-07-11T23:12:28+00:00">
+<div class="post" data-post-id="13445" data-author="13" data-date="2006-07-11T23:12:28+00:00" data-subject="">
 
 I play the free MMORPG Shadowbane.  It's point and click
 
@@ -259,13 +259,13 @@ used to run around with on AC I.
 
 </div>
 
-<div class="post" data-post-id="13452" data-author="osric" data-date="2006-07-12T10:14:20+00:00">
+<div class="post" data-post-id="13452" data-author="osric" data-date="2006-07-12T10:14:20+00:00" data-subject="">
 
 Sweet jumpin grasshoppers! Shyla I didn't know you were Midnite, wow, all makes sense now! Holy crap I learned the bounce command from Tigger (how could I have forgotten that?)! For the wreckchord I played Dromin and Finndo on Sloth II, heh, I suck at this game now but I was truly horrible back then! Good to know us geezers are still suckin' down air! :wink:
 
 </div>
 
-<div class="post" data-post-id="13453" data-author="13" data-date="2006-07-12T14:51:14+00:00">
+<div class="post" data-post-id="13453" data-author="13" data-date="2006-07-12T14:51:14+00:00" data-subject="">
 
 Tigger was Kevinant's girlfriend for a bit, then just him I think, right?
 
@@ -277,7 +277,7 @@ tool.
 
 </div>
 
-<div class="post" data-post-id="13454" data-author="Shyla" data-date="2006-07-12T16:39:48+00:00">
+<div class="post" data-post-id="13454" data-author="Shyla" data-date="2006-07-12T16:39:48+00:00" data-subject="">
 
 just fyi i was midniTE not midniGHT which confused a lot of people so I probably wasn't your DoT person but I was lora the one and only.  
 
@@ -291,7 +291,7 @@ p.s. tigger for a while was played by Kevin who came up and lived with my roomat
 
 </div>
 
-<div class="post" data-post-id="13456" data-author="blackmore" data-date="2006-07-12T20:35:59+00:00">
+<div class="post" data-post-id="13456" data-author="blackmore" data-date="2006-07-12T20:35:59+00:00" data-subject="">
 
 what ever happend to Zera?
 
@@ -301,7 +301,7 @@ Zera just disappeared.  We never did find out what happened to him.  At one time
 
 </div>
 
-<div class="post" data-post-id="13462" data-author="Shazuko" data-date="2006-07-13T13:01:32+00:00">
+<div class="post" data-post-id="13462" data-author="Shazuko" data-date="2006-07-13T13:01:32+00:00" data-subject="">
 
 I spoke to Zera just about a week or two before it was apparent he was 'awol'.....the last conversation we had was in nov/dec of that year, and he told me (no, this is NOT a joke)...that he was goin deer huntin....I've been hoping since then that he didn't have any 'accidents' out there or some such thing...
 
@@ -313,19 +313,19 @@ Shazuko Roku Ryuu
 
 </div>
 
-<div class="post" data-post-id="13463" data-author="Autolycos" data-date="2006-07-13T13:21:33+00:00">
+<div class="post" data-post-id="13463" data-author="Autolycos" data-date="2006-07-13T13:21:33+00:00" data-subject="">
 
 depends... did he say whom he was hunting with?  Dick Cheney perhaps?
 
 </div>
 
-<div class="post" data-post-id="13468" data-author="blackmore" data-date="2006-07-13T21:18:07+00:00">
+<div class="post" data-post-id="13468" data-author="blackmore" data-date="2006-07-13T21:18:07+00:00" data-subject="">
 
 I know I'd talked with him a week or two before he disappeared, and he didn't give any indication of leaving sloth.  I've always been concerned about what happened to him, but never had any way of finding out.
 
 </div>
 
-<div class="post" data-post-id="13469" data-author="osric" data-date="2006-07-13T22:20:26+00:00">
+<div class="post" data-post-id="13469" data-author="osric" data-date="2006-07-13T22:20:26+00:00" data-subject="">
 
 Hmm not to be alarmist (muahahhahahahhahahahaha) but that got me thinking, there was a horrible multiple murder during dear hunting season, you may have heard about it!
 
@@ -335,13 +335,13 @@ I certainly hope they are not connected events!
 
 </div>
 
-<div class="post" data-post-id="13470" data-author="blackmore" data-date="2006-07-13T23:45:12+00:00">
+<div class="post" data-post-id="13470" data-author="blackmore" data-date="2006-07-13T23:45:12+00:00" data-subject="">
 
 He wasn't one of them.  If I remember right, his name was Brian Warner.  It was something like that at least.
 
 </div>
 
-<div class="post" data-post-id="13471" data-author="Turbo" data-date="2006-07-14T00:37:23+00:00">
+<div class="post" data-post-id="13471" data-author="Turbo" data-date="2006-07-14T00:37:23+00:00" data-subject="">
 
 Jaso Warner?
 
@@ -349,13 +349,13 @@ PS> Hope you're out there somewhere!
 
 </div>
 
-<div class="post" data-post-id="13472" data-author="Turbo" data-date="2006-07-14T00:38:37+00:00">
+<div class="post" data-post-id="13472" data-author="Turbo" data-date="2006-07-14T00:38:37+00:00" data-subject="">
 
 or Jason :-)
 
 </div>
 
-<div class="post" data-post-id="13497" data-author="Rodek" data-date="2006-07-17T02:55:17+00:00">
+<div class="post" data-post-id="13497" data-author="Rodek" data-date="2006-07-17T02:55:17+00:00" data-subject="">
 
 I played since 92, got wiped several times when it was just sloth at utexas when they did the player wipes (several times).  I played or had an immort as Krom or Balrog most of the way through.  I had quit for about 5 years until maybe 5-6 months ago when i came back, Krom doesnt do much besides some basic admin, but I do play a good amount.
 
@@ -375,7 +375,7 @@ Krom/Balrog (Erik)
 
 </div>
 
-<div class="post" data-post-id="13500" data-author="13" data-date="2006-07-17T14:09:18+00:00">
+<div class="post" data-post-id="13500" data-author="13" data-date="2006-07-17T14:09:18+00:00" data-subject="">
 
 [quote:gp0f2eak]I met and also kinda went out with sipha (jen) for a while.
 
@@ -387,7 +387,7 @@ I once got busy in a burger-king bathroom!
 
 </div>
 
-<div class="post" data-post-id="17333" data-author="feyd" data-date="2007-03-17T17:58:17+00:00">
+<div class="post" data-post-id="17333" data-author="feyd" data-date="2007-03-17T17:58:17+00:00" data-subject="">
 
 I played this MUD far too much when I was a student at UT (University of Texas).  I think when I started you could only log into it if you were at one of the crappy terminals that plugged into the VAX or SUN machines at UT in 1991 or 1992.  It wasn't exactly public for awhile.
 
@@ -403,7 +403,7 @@ Cheers!
 
 </div>
 
-<div class="post" data-post-id="17340" data-author="Akasha" data-date="2007-03-17T23:38:50+00:00">
+<div class="post" data-post-id="17340" data-author="Akasha" data-date="2007-03-17T23:38:50+00:00" data-subject="">
 
 Hmm, I started back in late 1992 or early 1993.  Played several small chars Blackwidow, Riverwind, Spawn (shared) and someone else I forget who.  God knows how many times I've quit and stayed away a couple years only to come back and find Sloth still around.  I remember well the day that Strider hit 4x40 for the first time.
 
@@ -417,13 +417,13 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="17341" data-author="13" data-date="2007-03-17T23:48:03+00:00">
+<div class="post" data-post-id="17341" data-author="13" data-date="2007-03-17T23:48:03+00:00" data-subject="">
 
 ya hopefully
 
 </div>
 
-<div class="post" data-post-id="17342" data-author="banedon" data-date="2007-03-18T03:50:12+00:00">
+<div class="post" data-post-id="17342" data-author="banedon" data-date="2007-03-18T03:50:12+00:00" data-subject="">
 
 Dunno who, if anyone remembers me from way back when, but I ran around on Sloth I quite a bit back in late 92 thru mid 93.  I had Swampman back then and ran around with a couple quys called Cannon and Marauder.  We all were from Se Missouri State Univ and played on one of those crappy terminals hooked into an Ancient MUSIC system. 
 
@@ -431,19 +431,19 @@ Looking at this thread and thinking for a minute, I guess the old saying that fa
 
 </div>
 
-<div class="post" data-post-id="17344" data-author="Aeolus" data-date="2007-03-18T06:05:21+00:00">
+<div class="post" data-post-id="17344" data-author="Aeolus" data-date="2007-03-18T06:05:21+00:00" data-subject="">
 
 Played as Bayder in SII. Went to Pittsburgh in 1994 (I think) and met several mudders (Wemic, Fred hehe Bagos et al)... Also met 4 guys that lived in Chicago but don't remember their names. I remember Wedge was on of the char names. There was also someone from Missouri. Maybe Rob (Memnock (Tigris)) remembers who they were. I say a char named Cid but the Cid from SII may have been different.
 
 </div>
 
-<div class="post" data-post-id="17345" data-author="Weasel" data-date="2007-03-18T06:29:30+00:00">
+<div class="post" data-post-id="17345" data-author="Weasel" data-date="2007-03-18T06:29:30+00:00" data-subject="">
 
 Jan 2012 : 20 years of Sloth.. we should all meet at the MGM in Las Vegas in early January and get hammered.
 
 </div>
 
-<div class="post" data-post-id="17349" data-author="Avatar" data-date="2007-03-18T13:41:48+00:00">
+<div class="post" data-post-id="17349" data-author="Avatar" data-date="2007-03-18T13:41:48+00:00" data-subject="Old Timers">
 
 I played in '92, like most of us I guess.  Everyone was going to college, meeting new people, etc.  We had a pretty good group playing from Purdue, staying up all night - all weekend at the Math building.  We'd mud and print pictures to the big laser printers, then pic up a folder at the end of the morning with all our pics of cars / girls / whatever.  I guess that's when I learned to mix sloth with alcohol, too.  If I remember, I had an old 386 PC when I went to campus as a Freshman.  I was online, and trying to find a multiplayer version of Moria/Angband when I found a text file mudlist.  I had about 6 of us playing Sloth before the end of the year.  Memnock (Tigris) was great, we'd have to log onto Sloth and recall him so he'd come to eat with us before the cafeteria closed for dinner.  He had a dumb-terminal connected in his room somehow.  Another friend had a 486 laptop with a new (faster!) modem.  It was probably 33.6, I think my modem was 18.whatever.  Makes the head hurt to think that far back.
 
@@ -451,7 +451,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="17356" data-author="13" data-date="2007-03-19T13:06:16+00:00">
+<div class="post" data-post-id="17356" data-author="13" data-date="2007-03-19T13:06:16+00:00" data-subject="">
 
 Watching the text click by while ElSol runs the planes with like 15-too-many people.
 

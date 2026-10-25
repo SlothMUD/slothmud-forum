@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="18984" data-author="van" data-date="2007-06-19T18:28:12+00:00">
+<div class="post" data-post-id="18984" data-author="van" data-date="2007-06-19T18:28:12+00:00" data-subject="Is this how this is supposed to work? :P">
 
 Can someone fix this?  Or give me a plausible explanation why it should be this way?
 
@@ -132,13 +132,13 @@ You grouptell: 'fuck me'
 
 </div>
 
-<div class="post" data-post-id="18986" data-author="Akasha" data-date="2007-06-19T18:44:58+00:00">
+<div class="post" data-post-id="18986" data-author="Akasha" data-date="2007-06-19T18:44:58+00:00" data-subject="">
 
 be a bit more specific in what you're talking about?  that the exit didnt shut behind you?
 
 </div>
 
-<div class="post" data-post-id="18987" data-author="van" data-date="2007-06-19T18:58:09+00:00">
+<div class="post" data-post-id="18987" data-author="van" data-date="2007-06-19T18:58:09+00:00" data-subject="that and...">
 
 Well yes, that the exit didn't shut behind me.
 

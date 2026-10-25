@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36956" data-author="Teron" data-date="2016-06-10T13:46:36+00:00">
+<div class="post" data-post-id="36956" data-author="Teron" data-date="2016-06-10T13:46:36+00:00" data-subject="8 life-saving triggers to group efficiently">
 
 While leading I repeatedly give out the same mundaine commands, so I thought you might wonna create triggers for them, so you could survive easier.
 
@@ -152,7 +152,7 @@ If you use more individual triggers that help you in groups, please share them.
 
 </div>
 
-<div class="post" data-post-id="36958" data-author="*juggleblood*" data-date="2016-06-13T22:06:18+00:00">
+<div class="post" data-post-id="36958" data-author="*juggleblood*" data-date="2016-06-13T22:06:18+00:00" data-subject="Re: 8 life-saving triggers to group efficiently">
 
 Good ones. 
 
@@ -164,13 +164,13 @@ Trigger: gt yup
 
 </div>
 
-<div class="post" data-post-id="36960" data-author="Teron" data-date="2016-06-14T07:09:03+00:00">
+<div class="post" data-post-id="36960" data-author="Teron" data-date="2016-06-14T07:09:03+00:00" data-subject="Re: 8 life-saving triggers to group efficiently">
 
 Well, the alternative is me not saying anything, just letting ppl get extra damage and learn. Do you think this is a better solution?
 
 </div>
 
-<div class="post" data-post-id="37005" data-author="Teron" data-date="2016-06-29T19:48:33+00:00">
+<div class="post" data-post-id="37005" data-author="Teron" data-date="2016-06-29T19:48:33+00:00" data-subject="Re: 8 life-saving triggers to group efficiently">
 
 Akaya has translated this script to Mudlet:
 

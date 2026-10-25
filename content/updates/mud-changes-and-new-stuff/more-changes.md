@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11921" data-author="*Splork*" data-date="2006-04-02T23:09:05+00:00">
+<div class="post" data-post-id="11921" data-author="*Splork*" data-date="2006-04-02T23:09:05+00:00" data-subject="More changes...">
 
 1)More MXP variables; Such as hps,maxhps, mana,maxmana, moves,maxmoves.
 

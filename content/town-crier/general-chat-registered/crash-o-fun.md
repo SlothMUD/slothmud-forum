@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="36146" data-author="Yasik" data-date="2015-11-09T19:28:27+00:00">
+<div class="post" data-post-id="36146" data-author="Yasik" data-date="2015-11-09T19:28:27+00:00" data-subject="Crash-o-fun">
 
 <1135hp 487ma 353mv>   +9   -10.4   977,682,934   383,000   indoors   Hellwell   -
 
@@ -356,7 +356,7 @@ You gossip-- 'someone grab the kbd away from the crasher guy'
 
 </div>
 
-<div class="post" data-post-id="36147" data-author="*Neptune*" data-date="2015-11-10T02:42:54+00:00">
+<div class="post" data-post-id="36147" data-author="*Neptune*" data-date="2015-11-10T02:42:54+00:00" data-subject="Re: Crash-o-fun">
 
 We're on it. We should have this resolved shortly. Thanks for your patience.
 
@@ -364,7 +364,7 @@ We're on it. We should have this resolved shortly. Thanks for your patience.
 
 </div>
 
-<div class="post" data-post-id="36148" data-author="*Splork*" data-date="2015-11-10T14:10:40+00:00">
+<div class="post" data-post-id="36148" data-author="*Splork*" data-date="2015-11-10T14:10:40+00:00" data-subject="Re: Crash-o-fun">
 
 Sadly, someone has an issue with their storage characters player file. This wasn't 6 unique crashes, it was one person crashing the mud over and over.
 
@@ -372,7 +372,7 @@ The issues being addressed!
 
 </div>
 
-<div class="post" data-post-id="36157" data-author="*teker*" data-date="2015-11-11T19:24:52+00:00">
+<div class="post" data-post-id="36157" data-author="*teker*" data-date="2015-11-11T19:24:52+00:00" data-subject="Re: Crash-o-fun">
 
 I've patched the code to fix the crash in score/level but it hasn't been brought over yet.  There are probably other places where the game would crash given the pfile corruption so we need to get the file fixed.  Virgo will need to talk to Splork or Breeze to get an old copy restored.  Here's your first clue as to the trouble:
 
@@ -386,7 +386,7 @@ I've patched the code to fix the crash in score/level but it hasn't been brought
 
 </div>
 
-<div class="post" data-post-id="36161" data-author="Yasik" data-date="2015-11-12T11:55:12+00:00">
+<div class="post" data-post-id="36161" data-author="Yasik" data-date="2015-11-12T11:55:12+00:00" data-subject="Re: Crash-o-fun">
 
 Y'all people are boring !  :roll: 
 
@@ -396,7 +396,7 @@ First in this thread   [http://www.slothmud.org/forum/viewtopic.php?f=30&t=4502]
 
 </div>
 
-<div class="post" data-post-id="36165" data-author="Ertai" data-date="2015-11-12T13:50:10+00:00">
+<div class="post" data-post-id="36165" data-author="Ertai" data-date="2015-11-12T13:50:10+00:00" data-subject="Re: Crash-o-fun">
 
 > **Yasik wrote:**
 > Y'all people are boring !   
@@ -407,7 +407,7 @@ Everyone have seen it... and ignored.
 
 </div>
 
-<div class="post" data-post-id="36168" data-author="Yasik" data-date="2015-11-13T00:21:36+00:00">
+<div class="post" data-post-id="36168" data-author="Yasik" data-date="2015-11-13T00:21:36+00:00" data-subject="Re: Crash-o-fun">
 
 Speak for yourself. How can you know what 'everyone' seen and did after?
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="4802" data-author="Drauk" data-date="2005-03-05T20:29:28+00:00">
+<div class="post" data-post-id="4802" data-author="Drauk" data-date="2005-03-05T20:29:28+00:00" data-subject="Drauk for sale for RL money">
 
 scoreDrauk Trust no one (c)  (level: 40)
 
@@ -424,25 +424,25 @@ Send your offers to veirbir.vars@gmail.com. Please include you offer in USD and 
 
 </div>
 
-<div class="post" data-post-id="4804" data-author="Weasel" data-date="2005-03-06T01:43:51+00:00">
+<div class="post" data-post-id="4804" data-author="Weasel" data-date="2005-03-06T01:43:51+00:00" data-subject="">
 
 holy crap those stats are amazing!
 
 </div>
 
-<div class="post" data-post-id="4811" data-author="Drauk" data-date="2005-03-06T08:39:52+00:00">
+<div class="post" data-post-id="4811" data-author="Drauk" data-date="2005-03-06T08:39:52+00:00" data-subject="">
 
 Hmm, a litlle correction - nat con is 14, rest of the stats are same.
 
 </div>
 
-<div class="post" data-post-id="4849" data-author="Avatar" data-date="2005-03-07T15:48:18+00:00">
+<div class="post" data-post-id="4849" data-author="Avatar" data-date="2005-03-07T15:48:18+00:00" data-subject="Wow">
 
 Nice gear too, good job collecting all that.
 
 </div>
 
-<div class="post" data-post-id="4887" data-author="Drauk" data-date="2005-03-08T15:43:57+00:00">
+<div class="post" data-post-id="4887" data-author="Drauk" data-date="2005-03-08T15:43:57+00:00" data-subject="">
 
 Deadline for sending your offers is March 10, 00:00 GMT
 

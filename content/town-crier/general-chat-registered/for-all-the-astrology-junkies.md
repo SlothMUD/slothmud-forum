@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39671" data-author="Gorka" data-date="2021-01-13T23:23:52+00:00">
+<div class="post" data-post-id="39671" data-author="Gorka" data-date="2021-01-13T23:23:52+00:00" data-subject="For all the Astrology Junkies...">
 
 So sloth Astrology was based on a planetary formula of the rotation of different planets. Each planet kind of signified a house in sloth. Some planets had long rotation times and others short... hence why the winter houses are quite rare.
 

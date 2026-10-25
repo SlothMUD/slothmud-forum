@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32672" data-author="*Isabo*" data-date="2011-06-12T01:10:35+00:00">
+<div class="post" data-post-id="32672" data-author="*Isabo*" data-date="2011-06-12T01:10:35+00:00" data-subject="Double attack">
 
 Greeting mortals.
 

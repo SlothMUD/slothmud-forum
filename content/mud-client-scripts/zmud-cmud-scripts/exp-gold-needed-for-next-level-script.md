@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="3084" data-author="karl" data-date="2004-11-30T22:24:42+00:00">
+<div class="post" data-post-id="3084" data-author="karl" data-date="2004-11-30T22:24:42+00:00" data-subject="Exp/Gold Needed for Next Level Script">
 
 I have written a Database in zMUD that contains the EXP/Gold information and then uses the output of the score command to set variables so that when you run a single alias, you are given the proper Exp/Gold for each of your 4 classes, that you need for the next level.  It also shows you how much currently unused EXP you have.
 
@@ -18,7 +18,7 @@ If anyone is interested in this I'll post it and the database.  Also, if anyone 
 
 </div>
 
-<div class="post" data-post-id="3085" data-author="Nascosto" data-date="2004-11-30T23:55:38+00:00">
+<div class="post" data-post-id="3085" data-author="Nascosto" data-date="2004-11-30T23:55:38+00:00" data-subject="">
 
 just go ahead and post it :)
 
@@ -26,7 +26,7 @@ I'm always interested to see how other people write scripts anyway
 
 </div>
 
-<div class="post" data-post-id="3091" data-author="Altair" data-date="2004-12-01T08:26:26+00:00">
+<div class="post" data-post-id="3091" data-author="Altair" data-date="2004-12-01T08:26:26+00:00" data-subject="">
 
 I'm too lazy for that. Or too focused. I always know which is the next level I want, so I just have a script that captures the cost (yes, I have to go to the guild and ask) and counts xpleft etc etc.
 
@@ -34,13 +34,13 @@ But it's always neat to see the amount of effort and thinking we all go through 
 
 </div>
 
-<div class="post" data-post-id="3095" data-author="Calim" data-date="2004-12-01T12:18:17+00:00">
+<div class="post" data-post-id="3095" data-author="Calim" data-date="2004-12-01T12:18:17+00:00" data-subject="">
 
 Post that thing.  That is so cool.
 
 </div>
 
-<div class="post" data-post-id="3102" data-author="karl" data-date="2004-12-01T16:00:34+00:00">
+<div class="post" data-post-id="3102" data-author="karl" data-date="2004-12-01T16:00:34+00:00" data-subject="">
 
 The way this works is:
 
@@ -72,7 +72,7 @@ Be sure to do a #DBLOAD LevelInfo and have the Database window open(can be minim
 
 </div>
 
-<div class="post" data-post-id="3109" data-author="Zenkai" data-date="2004-12-01T22:24:41+00:00">
+<div class="post" data-post-id="3109" data-author="Zenkai" data-date="2004-12-01T22:24:41+00:00" data-subject="">
 
 This is a similiar script that doesn't use database files. 
 
@@ -172,7 +172,7 @@ Trigger Value:
 
 </div>
 
-<div class="post" data-post-id="3449" data-author="Strago" data-date="2004-12-19T22:56:44+00:00">
+<div class="post" data-post-id="3449" data-author="Strago" data-date="2004-12-19T22:56:44+00:00" data-subject="">
 
 I liked this script but I didn't like having to type xp to see the info so I use this trigger to link it to scorp
 
@@ -186,7 +186,7 @@ The only problem with this (being the whole thing) is not having a level in sec 
 
 </div>
 
-<div class="post" data-post-id="3450" data-author="karl" data-date="2004-12-19T23:11:26+00:00">
+<div class="post" data-post-id="3450" data-author="karl" data-date="2004-12-19T23:11:26+00:00" data-subject="">
 
 I have an update to this script.  Shows better output and is liked to Score, and handles not haveing a value for one of your classes levels.
 
@@ -194,7 +194,7 @@ I'll get it posted here this week.
 
 </div>
 
-<div class="post" data-post-id="3455" data-author="Zenkai" data-date="2004-12-20T01:37:48+00:00">
+<div class="post" data-post-id="3455" data-author="Zenkai" data-date="2004-12-20T01:37:48+00:00" data-subject="">
 
 I rather keep the score output as short as possible because of all the spells I have up at tard - the output can get pretty long.
 
@@ -226,7 +226,7 @@ Qua Level: 10,453,542 (41%) Total Xp: 18,000,000 Total Coin: 33,600[/color:3rlb5
 
 </div>
 
-<div class="post" data-post-id="3741" data-author="Zenkai" data-date="2005-01-12T01:46:31+00:00">
+<div class="post" data-post-id="3741" data-author="Zenkai" data-date="2005-01-12T01:46:31+00:00" data-subject="">
 
 This script works for any class order and any number of classes.
 
@@ -462,7 +462,7 @@ Now the script shouldn't mess up if you don't have levels in sec, ter, or qua cl
 
 </div>
 
-<div class="post" data-post-id="3749" data-author="13" data-date="2005-01-12T14:27:02+00:00">
+<div class="post" data-post-id="3749" data-author="13" data-date="2005-01-12T14:27:02+00:00" data-subject="">
 
 so all that code just so that you dont have to type 'help tert', look at your score and do basic subtraction ?
 
@@ -470,25 +470,25 @@ seems like a lot of work
 
 </div>
 
-<div class="post" data-post-id="3750" data-author="Strago" data-date="2005-01-12T16:09:56+00:00">
+<div class="post" data-post-id="3750" data-author="Strago" data-date="2005-01-12T16:09:56+00:00" data-subject="">
 
 Thanks a lot that looks great, I will test it some when I get home!
 
 </div>
 
-<div class="post" data-post-id="3755" data-author="Strago" data-date="2005-01-12T22:21:06+00:00">
+<div class="post" data-post-id="3755" data-author="Strago" data-date="2005-01-12T22:21:06+00:00" data-subject="">
 
 I just installed and ran the script, I have to say it isn really nice! Thanks much.
 
 </div>
 
-<div class="post" data-post-id="29205" data-author="Rigwarl" data-date="2009-05-17T23:59:30+00:00">
+<div class="post" data-post-id="29205" data-author="Rigwarl" data-date="2009-05-17T23:59:30+00:00" data-subject="">
 
 Anyone has this updated so it can read if you have 1 level in all classes?
 
 </div>
 
-<div class="post" data-post-id="29348" data-author="norks" data-date="2009-06-10T10:09:17+00:00">
+<div class="post" data-post-id="29348" data-author="norks" data-date="2009-06-10T10:09:17+00:00" data-subject="">
 
 Try this:
 
@@ -580,13 +580,13 @@ based on script by Kanae and data from Zuzu - thanks guys!
 
 </div>
 
-<div class="post" data-post-id="29546" data-author="islq" data-date="2009-06-17T03:18:19+00:00">
+<div class="post" data-post-id="29546" data-author="islq" data-date="2009-06-17T03:18:19+00:00" data-subject="">
 
 something wrong with the xp table of sixth class
 
 </div>
 
-<div class="post" data-post-id="29548" data-author="Rigwarl" data-date="2009-06-17T12:21:25+00:00">
+<div class="post" data-post-id="29548" data-author="Rigwarl" data-date="2009-06-17T12:21:25+00:00" data-subject="">
 
 Hey Guys,
 

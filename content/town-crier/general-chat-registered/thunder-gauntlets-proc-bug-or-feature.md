@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="28309" data-author="Yinao" data-date="2009-02-27T01:07:07+00:00">
+<div class="post" data-post-id="28309" data-author="Yinao" data-date="2009-02-27T01:07:07+00:00" data-subject="Thunder Gauntlets Proc (Bug or Feature)">
 
 There is a deafening clap of thunder as the Gauntlets of Thunder seeks a target.
 
@@ -58,7 +58,7 @@ Nothings even wielded... anyone wanna look at that? or fix it or possibly explai
 
 </div>
 
-<div class="post" data-post-id="28310" data-author="jezer" data-date="2009-02-27T01:46:36+00:00">
+<div class="post" data-post-id="28310" data-author="jezer" data-date="2009-02-27T01:46:36+00:00" data-subject="">
 
 Fix the +3 back to +5 while your at it...  :wink:
 
@@ -66,7 +66,7 @@ last player ecko
 
 </div>
 
-<div class="post" data-post-id="28311" data-author="Roadrunr" data-date="2009-02-27T01:53:15+00:00">
+<div class="post" data-post-id="28311" data-author="Roadrunr" data-date="2009-02-27T01:53:15+00:00" data-subject="">
 
 Fix the +3 back to +5 while your at it...  :wink:
 
@@ -78,7 +78,7 @@ I dont even use that crap anymore on Xander, gloves of the yellow rose are bette
 
 </div>
 
-<div class="post" data-post-id="28312" data-author="jezer" data-date="2009-02-27T02:09:24+00:00">
+<div class="post" data-post-id="28312" data-author="jezer" data-date="2009-02-27T02:09:24+00:00" data-subject="">
 
 Yeap your right, gaunts are +2, gloves are +3 prime. All of them used to be +5 and conception is monks are suxors... at least pre-tard... compared to warriors. Or give them katana :D
 
@@ -96,13 +96,13 @@ Reboog-- 'You are greating'
 
 </div>
 
-<div class="post" data-post-id="28315" data-author="Yinao" data-date="2009-02-27T03:55:57+00:00">
+<div class="post" data-post-id="28315" data-author="Yinao" data-date="2009-02-27T03:55:57+00:00" data-subject="">
 
 I'm not prime, and my main concern wasn't the +dam on them, I just want to know why they proc on ME instead of the mob
 
 </div>
 
-<div class="post" data-post-id="28316" data-author="*juggleblood*" data-date="2009-02-27T04:13:12+00:00">
+<div class="post" data-post-id="28316" data-author="*juggleblood*" data-date="2009-02-27T04:13:12+00:00" data-subject="">
 
 weird, i fixed that one once already.
 
@@ -112,7 +112,7 @@ fixed now
 
 </div>
 
-<div class="post" data-post-id="28317" data-author="jezer" data-date="2009-02-27T04:50:50+00:00">
+<div class="post" data-post-id="28317" data-author="jezer" data-date="2009-02-27T04:50:50+00:00" data-subject="">
 
 [img:1uno3wfb]http://images.icanhascheezburger.com/completestore/2008/11/19/128716068319746145.jpg[/img:1uno3wfb]
 
@@ -120,7 +120,7 @@ Yeah, I know... just the proc is fixed... oh well...  :wink:
 
 </div>
 
-<div class="post" data-post-id="28319" data-author="Yinao" data-date="2009-02-27T06:15:05+00:00">
+<div class="post" data-post-id="28319" data-author="Yinao" data-date="2009-02-27T06:15:05+00:00" data-subject="">
 
 Thanks Juggle
 

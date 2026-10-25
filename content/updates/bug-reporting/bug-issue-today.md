@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="35834" data-author="*juggleblood*" data-date="2015-04-18T15:50:34+00:00">
+<div class="post" data-post-id="35834" data-author="*juggleblood*" data-date="2015-04-18T15:50:34+00:00" data-subject="Bug Issue Today">
 
 This is a heads up for today, bug is already located, awaiting live port update and reboot.
 
@@ -30,19 +30,19 @@ Thanks for your understanding.
 
 </div>
 
-<div class="post" data-post-id="35835" data-author="Filk" data-date="2015-04-18T17:30:13+00:00">
+<div class="post" data-post-id="35835" data-author="Filk" data-date="2015-04-18T17:30:13+00:00" data-subject="Re: Bug Issue Today">
 
 I wonder, what core function change would lead to such wide variety of bugs :)
 
 </div>
 
-<div class="post" data-post-id="35836" data-author="*juggleblood*" data-date="2015-04-18T18:36:11+00:00">
+<div class="post" data-post-id="35836" data-author="*juggleblood*" data-date="2015-04-18T18:36:11+00:00" data-subject="Re: Bug Issue Today">
 
 Pretty sexy one from builder standpoint. From player, not so much...
 
 </div>
 
-<div class="post" data-post-id="35837" data-author="*Splork*" data-date="2015-04-18T21:09:05+00:00">
+<div class="post" data-post-id="35837" data-author="*Splork*" data-date="2015-04-18T21:09:05+00:00" data-subject="Re: Bug Issue Today">
 
 These issues should be resolved.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="31294" data-author="Thraxas" data-date="2010-06-11T21:30:22+00:00">
+<div class="post" data-post-id="31294" data-author="Thraxas" data-date="2010-06-11T21:30:22+00:00" data-subject="Fifa World Cup">
 
 The Fifa World Cup started today ... soccer to the Americans ... football to the rest of the world.
 
@@ -22,13 +22,13 @@ My thinking is that I'm going to join in, pointless as it may seem, if I hang a 
 
 </div>
 
-<div class="post" data-post-id="31297" data-author="Tuck" data-date="2010-06-12T06:34:34+00:00">
+<div class="post" data-post-id="31297" data-author="Tuck" data-date="2010-06-12T06:34:34+00:00" data-subject="Re: Fifa World Cup">
 
 you posted wrong flag
 
 </div>
 
-<div class="post" data-post-id="31298" data-author="Thraxas" data-date="2010-06-12T08:33:25+00:00">
+<div class="post" data-post-id="31298" data-author="Thraxas" data-date="2010-06-12T08:33:25+00:00" data-subject="Re: Fifa World Cup">
 
 > **Tuck wrote:**
 > you posted wrong flag
@@ -37,7 +37,7 @@ no pretty sure I didnt  :lol:
 
 </div>
 
-<div class="post" data-post-id="31305" data-author="Teron" data-date="2010-06-15T21:28:51+00:00">
+<div class="post" data-post-id="31305" data-author="Teron" data-date="2010-06-15T21:28:51+00:00" data-subject="Re: Fifa World Cup">
 
 Well, your flag worked for the first set of matches, Thraxas ;)
 
@@ -45,7 +45,7 @@ So you still have time to paint your face red, blue and white and not wash it un
 
 </div>
 
-<div class="post" data-post-id="31307" data-author="Thraxas" data-date="2010-06-17T13:06:25+00:00">
+<div class="post" data-post-id="31307" data-author="Thraxas" data-date="2010-06-17T13:06:25+00:00" data-subject="Re: Fifa World Cup">
 
 > **Teron wrote:**
 > Well, your flag worked for the first set of matches, Thraxas ;)
@@ -60,7 +60,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31309" data-author="Spink" data-date="2010-06-17T15:42:25+00:00">
+<div class="post" data-post-id="31309" data-author="Spink" data-date="2010-06-17T15:42:25+00:00" data-subject="Re: Fifa World Cup">
 
 heh, england didn't lose...they "lost."
 
@@ -68,7 +68,7 @@ Tied 1-1 with USA, which is considered a major upset.
 
 </div>
 
-<div class="post" data-post-id="31330" data-author="Thraxas" data-date="2010-06-27T18:35:21+00:00">
+<div class="post" data-post-id="31330" data-author="Thraxas" data-date="2010-06-27T18:35:21+00:00" data-subject="Re: Fifa World Cup">
 
 > **Thraxas wrote:**
 > > **Tuck wrote:**

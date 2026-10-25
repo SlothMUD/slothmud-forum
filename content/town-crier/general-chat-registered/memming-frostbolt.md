@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="10802" data-author="Qa" data-date="2006-02-20T22:09:34+00:00">
+<div class="post" data-post-id="10802" data-author="Qa" data-date="2006-02-20T22:09:34+00:00" data-subject="Memming Frostbolt">
 
 Is frostbolt memmable?
 
@@ -76,7 +76,7 @@ magefour        lavender ellipsoid    level 40 and under
 
 </div>
 
-<div class="post" data-post-id="10803" data-author="Qa" data-date="2006-02-20T22:11:20+00:00">
+<div class="post" data-post-id="10803" data-author="Qa" data-date="2006-02-20T22:11:20+00:00" data-subject="">
 
 Doh.  I bet it is because I need 6 mage4s now...
 
@@ -88,7 +88,7 @@ Nevermind.
 
 </div>
 
-<div class="post" data-post-id="10804" data-author="Qa" data-date="2006-02-20T22:22:18+00:00">
+<div class="post" data-post-id="10804" data-author="Qa" data-date="2006-02-20T22:22:18+00:00" data-subject="">
 
 That was it. Neeeevvvveeerrrmmmiiiinnnddd.
 

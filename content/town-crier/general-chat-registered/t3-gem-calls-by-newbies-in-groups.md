@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="36447" data-author="Teron" data-date="2016-01-09T18:52:30+00:00">
+<div class="post" data-post-id="36447" data-author="Teron" data-date="2016-01-09T18:52:30+00:00" data-subject="T3 Gem calls by Newbies in Groups">
 
 Greetings.
 
@@ -46,7 +46,7 @@ So what does it leave us with?
 
 </div>
 
-<div class="post" data-post-id="36448" data-author="cyprimus" data-date="2016-01-09T19:37:56+00:00">
+<div class="post" data-post-id="36448" data-author="cyprimus" data-date="2016-01-09T19:37:56+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 I agree.  You don't help the group any, essentially your begging for exp... and then want to call tier 3 gems..
 
@@ -64,7 +64,7 @@ please cast detect sarcasm and reread..
 
 </div>
 
-<div class="post" data-post-id="36449" data-author="Teron" data-date="2016-01-09T20:20:25+00:00">
+<div class="post" data-post-id="36449" data-author="Teron" data-date="2016-01-09T20:20:25+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 Addendum: to pop more t3 gems, I actively invite other ppl to join the group.
 
@@ -74,7 +74,7 @@ So first, we invite newbies to get more gems, then we boot them from their calls
 
 </div>
 
-<div class="post" data-post-id="36451" data-author="cyprimus" data-date="2016-01-09T23:19:41+00:00">
+<div class="post" data-post-id="36451" data-author="cyprimus" data-date="2016-01-09T23:19:41+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 Yes, i can tell by the number of tier3 gems you pop in your groups.. this works for you.. right?
 
@@ -82,13 +82,13 @@ make crumbs make a statistical register for gems!!!!
 
 </div>
 
-<div class="post" data-post-id="36452" data-author="Teron" data-date="2016-01-10T07:12:37+00:00">
+<div class="post" data-post-id="36452" data-author="Teron" data-date="2016-01-10T07:12:37+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 I haven't done the math, but I haven't seen t3 gems load in 5-9 man groups recently. T2, yes, a GY Topaz, but no T3 gems.
 
 </div>
 
-<div class="post" data-post-id="36453" data-author="Jaid" data-date="2016-01-10T19:38:27+00:00">
+<div class="post" data-post-id="36453" data-author="Jaid" data-date="2016-01-10T19:38:27+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 My 2 cents...If a player has called a gem and it pops, then it should go to them.  If others in the group have an issued with the gem called by a low level player, it needs to be said when they join.
 
@@ -98,7 +98,7 @@ If you start not giving the gems to people who call them, nobody will want to gr
 
 </div>
 
-<div class="post" data-post-id="36454" data-author="Teron" data-date="2016-01-11T03:18:48+00:00">
+<div class="post" data-post-id="36454" data-author="Teron" data-date="2016-01-11T03:18:48+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 I've talked to ppl some and it does appear it makes more sense to allow avatars call T3s and others call the remaining gems. It means that avatars need to speak up, if a newbie calls a t3 gem. This is how it worked earlier and it just didn't in this case: the newbie grouped with us for a while, then left, then came back, then called Rhodo 10 minutes before it was popped, so an active top healer didn't have much time to react or chose not to react, when a Rhodo call was changed earlier - a person left.
 
@@ -114,7 +114,7 @@ Anyway, the rules above and below are subject to change, ask in group when you j
 
 </div>
 
-<div class="post" data-post-id="36455" data-author="Dragoth" data-date="2016-01-11T11:00:07+00:00">
+<div class="post" data-post-id="36455" data-author="Dragoth" data-date="2016-01-11T11:00:07+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 Talk about the new generation, a bunch of useless spoiled brats is what they are.
 
@@ -138,7 +138,7 @@ This mud is being turned inside out.
 
 </div>
 
-<div class="post" data-post-id="36456" data-author="Teron" data-date="2016-01-11T12:17:00+00:00">
+<div class="post" data-post-id="36456" data-author="Teron" data-date="2016-01-11T12:17:00+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 Actually, I could get better exp at 2x20, than in BH groups (40-3x30, on the other hand..). Maybe there are different groups and different newbie knowledge level, but I agree that newbies might be content with the exp they are getting and t1s. The newbie, who refused to join for not being able to call a T3, was an experienced mudder.
 
@@ -160,7 +160,7 @@ For example, on another mud, I couldn't get into end-game groups, because I'd di
 
 </div>
 
-<div class="post" data-post-id="36457" data-author="Ker" data-date="2016-01-11T16:59:35+00:00">
+<div class="post" data-post-id="36457" data-author="Ker" data-date="2016-01-11T16:59:35+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 MUD IS TURNING INSIDE OUT?! - Only such with a pious deception.
 
@@ -190,7 +190,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36459" data-author="klobber" data-date="2016-01-11T20:31:56+00:00">
+<div class="post" data-post-id="36459" data-author="klobber" data-date="2016-01-11T20:31:56+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 I frequently call diamonds when I'm in a large group even though my gear isn't good enough to justify permanently socketing a diamond rune to it.  I'd feel fine if the group leader or avatar took the call from me before it happened and gave me the opportunity to call something else.  I've never seen one pop, so no harm so far.
 
@@ -198,7 +198,7 @@ I think it's over the top to exclude low level characters from calling specific 
 
 </div>
 
-<div class="post" data-post-id="36460" data-author="Teron" data-date="2016-01-12T08:03:34+00:00">
+<div class="post" data-post-id="36460" data-author="Teron" data-date="2016-01-12T08:03:34+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 Well, yesterday a 20lev was calling a t1/t2 and got a t2 from a random and no one bat an eye.
 
@@ -212,7 +212,7 @@ Though I do think that this whole argument is restricting on newbies. I mean, an
 
 </div>
 
-<div class="post" data-post-id="36466" data-author="Teron" data-date="2016-01-15T09:09:00+00:00">
+<div class="post" data-post-id="36466" data-author="Teron" data-date="2016-01-15T09:09:00+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 So far, I think there's no harm if sub 3x40s call t2s.
 
@@ -224,7 +224,7 @@ P.S. For the purposes of grouping, Klobber and Kirei are considered tri40 and 4x
 
 </div>
 
-<div class="post" data-post-id="36470" data-author="Yasik" data-date="2016-01-16T08:18:50+00:00">
+<div class="post" data-post-id="36470" data-author="Yasik" data-date="2016-01-16T08:18:50+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 > **Dragoth wrote:**
 > Talk about the new generation, a bunch of useless spoiled brats is what they are.
@@ -261,7 +261,7 @@ Community is golden, that is what matters.
 
 </div>
 
-<div class="post" data-post-id="36480" data-author="*Splork*" data-date="2016-01-16T15:05:27+00:00">
+<div class="post" data-post-id="36480" data-author="*Splork*" data-date="2016-01-16T15:05:27+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 I personally think Taron did exactly what any good leader would have done, a person called an item which was not called, nobody complained, it popped and he honored that.
 
@@ -271,7 +271,7 @@ And yes, we purposely raised gem pop rates to make sure that newer players were 
 
 </div>
 
-<div class="post" data-post-id="36481" data-author="Teron" data-date="2016-01-16T17:17:27+00:00">
+<div class="post" data-post-id="36481" data-author="Teron" data-date="2016-01-16T17:17:27+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 Splork, while I agree that newbie players can get into large groups to have fun, there are other factors, too:
 
@@ -299,7 +299,7 @@ As for gems, if imms fix this by counting group total levels, not the number of 
 
 </div>
 
-<div class="post" data-post-id="36483" data-author="*Splork*" data-date="2016-01-16T17:39:02+00:00">
+<div class="post" data-post-id="36483" data-author="*Splork*" data-date="2016-01-16T17:39:02+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 Good summary, all of which most of us already know :lol: 
 
@@ -316,7 +316,7 @@ Either way, all I was pointing out is that our community of players is what norm
 
 </div>
 
-<div class="post" data-post-id="36486" data-author="Teron" data-date="2016-01-16T18:28:54+00:00">
+<div class="post" data-post-id="36486" data-author="Teron" data-date="2016-01-16T18:28:54+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 If we agree that dragging newbies in huge groups leaves them helpless to:
 
@@ -336,7 +336,7 @@ Again, I am usually fine w/ letting newbies in my groups, but if I spend my time
 
 </div>
 
-<div class="post" data-post-id="36490" data-author="*Splork*" data-date="2016-01-16T19:06:14+00:00">
+<div class="post" data-post-id="36490" data-author="*Splork*" data-date="2016-01-16T19:06:14+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 Gem pop rates will not be changing, unless they get lower.
 
@@ -359,7 +359,7 @@ Continue on
 
 </div>
 
-<div class="post" data-post-id="36494" data-author="Teron" data-date="2016-01-17T12:01:26+00:00">
+<div class="post" data-post-id="36494" data-author="Teron" data-date="2016-01-17T12:01:26+00:00" data-subject="Re: T3 Gem calls by Newbies in Groups">
 
 > **Taron wrote:**
 > But I'd rather have newbies group on valk/BH to hone their skills on easier mobs, where they can solve their own challenges. This way, they:

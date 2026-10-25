@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30361" data-author="Playboy" data-date="2009-11-21T00:27:08+00:00">
+<div class="post" data-post-id="30361" data-author="Playboy" data-date="2009-11-21T00:27:08+00:00" data-subject="wtb obsidian pearl, paying 1 mil">
 
 wtb obsidian pearl, paying 1 mil
 
 </div>
 
-<div class="post" data-post-id="30363" data-author="Vixn" data-date="2009-11-21T08:28:58+00:00">
+<div class="post" data-post-id="30363" data-author="Vixn" data-date="2009-11-21T08:28:58+00:00" data-subject="">
 
 ROFLl :)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38668" data-author="Dragoth" data-date="2018-02-15T06:05:14+00:00">
+<div class="post" data-post-id="38668" data-author="Dragoth" data-date="2018-02-15T06:05:14+00:00" data-subject="Tumbling defense doesn&#x27;t work">
 
 Tumbling defense doesnt seem to work with active Aerial servant (cleric prime).
 
@@ -18,7 +18,7 @@ Although I'm not sure if its a a bug or another cleric handicap, but thought i'd
 
 </div>
 
-<div class="post" data-post-id="38669" data-author="*teker*" data-date="2018-02-15T15:57:13+00:00">
+<div class="post" data-post-id="38669" data-author="*teker*" data-date="2018-02-15T15:57:13+00:00" data-subject="Re: Tumbling defense doesn&#x27;t work">
 
 This may be part of a biggest question - what order should damage bonuses and reductions be applied?  I looked at this once and was hesitant to mess with it due to the changes in gameplay that would occur.  The short answer to your question is that your aerial servant gets applied before the tumbling defense so you would only see it when your servant is down.
 
@@ -80,7 +80,7 @@ The other issue I see is with reflection.  When a spell is reflected the attacke
 
 </div>
 
-<div class="post" data-post-id="38671" data-author="Dragoth" data-date="2018-02-16T06:29:15+00:00">
+<div class="post" data-post-id="38671" data-author="Dragoth" data-date="2018-02-16T06:29:15+00:00" data-subject="Re: Tumbling defense doesn&#x27;t work">
 
 I can dodge and counterattack before aerial servant, so it doesn't make any logical sense that I can't tumble away before he gets hit.
 

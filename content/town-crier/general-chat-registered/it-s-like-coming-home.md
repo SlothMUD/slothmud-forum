@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="27457" data-author="Tek" data-date="2008-12-15T13:38:59+00:00">
+<div class="post" data-post-id="27457" data-author="Tek" data-date="2008-12-15T13:38:59+00:00" data-subject="It&#x27;s like coming home.">
 
 Just an old from the past player saying hello and logging in once again.
 
@@ -22,7 +22,7 @@ But I ramble and I do hope that my memory of how to run around town returns.  Lo
 
 </div>
 
-<div class="post" data-post-id="27458" data-author="Mosaix" data-date="2008-12-15T15:24:36+00:00">
+<div class="post" data-post-id="27458" data-author="Mosaix" data-date="2008-12-15T15:24:36+00:00" data-subject="">
 
 Welcome back to the game :)
 
@@ -30,13 +30,13 @@ Endor/Mosaix
 
 </div>
 
-<div class="post" data-post-id="27460" data-author="Yasik2" data-date="2008-12-15T15:29:24+00:00">
+<div class="post" data-post-id="27460" data-author="Yasik2" data-date="2008-12-15T15:29:24+00:00" data-subject="">
 
 baud ? lol what's that?  :D
 
 </div>
 
-<div class="post" data-post-id="27469" data-author="Tek" data-date="2008-12-15T23:29:30+00:00">
+<div class="post" data-post-id="27469" data-author="Tek" data-date="2008-12-15T23:29:30+00:00" data-subject="">
 
 baud ? lol what's that?  :D[/quote:16r4ky5x]
 
@@ -46,13 +46,13 @@ Then when I was lucky I could get into the college library and use their screami
 
 </div>
 
-<div class="post" data-post-id="27470" data-author="Tap" data-date="2008-12-15T23:57:27+00:00">
+<div class="post" data-post-id="27470" data-author="Tap" data-date="2008-12-15T23:57:27+00:00" data-subject="">
 
 [img:lnxvlfqv]http://farm1.static.flickr.com/12/14208332_85aec331a7.jpg[/img:lnxvlfqv]
 
 </div>
 
-<div class="post" data-post-id="27472" data-author="Tek" data-date="2008-12-16T00:22:44+00:00">
+<div class="post" data-post-id="27472" data-author="Tek" data-date="2008-12-16T00:22:44+00:00" data-subject="">
 
 Thats almost a perfect match for my dear ole friend.  Wurm gave me that box when he decided to get me addicted to Sloth.  Well sloth and ISCA.
 

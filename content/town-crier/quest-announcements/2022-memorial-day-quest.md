@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39947" data-author="*Idjit*" data-date="2022-05-25T01:49:42+00:00">
+<div class="post" data-post-id="39947" data-author="*Idjit*" data-date="2022-05-25T01:49:42+00:00" data-subject="2022 Memorial Day Quest">
 
 Good day,
 

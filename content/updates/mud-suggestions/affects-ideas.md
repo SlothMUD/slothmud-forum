@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="15889" data-author="banedon" data-date="2007-01-01T20:59:08+00:00">
+<div class="post" data-post-id="15889" data-author="banedon" data-date="2007-01-01T20:59:08+00:00" data-subject="Affects Ideas">
 
 Would it be possible to include skills that are affecting a player when he/she checks their score?  Like sixth sense for example.  I know that there have been times that I have activated an effect and forgotten it was active and tried to reactivate it, either just wasting the mana or movement, or cancelling the effect.
 
@@ -20,7 +20,7 @@ Banedon
 
 </div>
 
-<div class="post" data-post-id="15890" data-author="Avatar" data-date="2007-01-01T21:36:34+00:00">
+<div class="post" data-post-id="15890" data-author="Avatar" data-date="2007-01-01T21:36:34+00:00" data-subject="score ideas">
 
 I like the idea for a separate list of spells / skills active.  Maybe "score affects" ?
 
@@ -32,13 +32,13 @@ Just ideas, thanks for listening  :)
 
 </div>
 
-<div class="post" data-post-id="15891" data-author="13" data-date="2007-01-01T21:38:34+00:00">
+<div class="post" data-post-id="15891" data-author="13" data-date="2007-01-01T21:38:34+00:00" data-subject="">
 
 it would be cool if urban stealth had its own message in score too :)
 
 </div>
 
-<div class="post" data-post-id="15971" data-author="firebrand" data-date="2007-01-04T16:23:16+00:00">
+<div class="post" data-post-id="15971" data-author="firebrand" data-date="2007-01-04T16:23:16+00:00" data-subject="">
 
 we already have score affects command ingame....have had it for a while
 
@@ -46,13 +46,13 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="15973" data-author="13" data-date="2007-01-04T17:16:44+00:00">
+<div class="post" data-post-id="15973" data-author="13" data-date="2007-01-04T17:16:44+00:00" data-subject="">
 
 its a lame spammy command and theres no reason why stealth shouldnt be displayed in regular score since hide and sneak are
 
 </div>
 
-<div class="post" data-post-id="15984" data-author="*juggleblood*" data-date="2007-01-05T00:15:00+00:00">
+<div class="post" data-post-id="15984" data-author="*juggleblood*" data-date="2007-01-05T00:15:00+00:00" data-subject="">
 
 Speaking of urban stealth, is there a way to turn it off so that you can rent or do you just have to wait it out?
 
@@ -60,7 +60,7 @@ Speaking of urban stealth, is there a way to turn it off so that you can rent or
 
 </div>
 
-<div class="post" data-post-id="15987" data-author="Medios" data-date="2007-01-05T00:57:04+00:00">
+<div class="post" data-post-id="15987" data-author="Medios" data-date="2007-01-05T00:57:04+00:00" data-subject="">
 
 <909hp 406ma 240mv>
 
@@ -110,7 +110,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15995" data-author="Krok" data-date="2007-01-05T03:38:39+00:00">
+<div class="post" data-post-id="15995" data-author="Krok" data-date="2007-01-05T03:38:39+00:00" data-subject="">
 
 I agree that it's not right when urban stealth shows as invis in the score.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="10055" data-author="grantis" data-date="2006-01-10T16:39:50+00:00">
+<div class="post" data-post-id="10055" data-author="grantis" data-date="2006-01-10T16:39:50+00:00" data-subject="Problem with animate dead">
 
 Your levels:  Ma: 20 Wa: 20 Cl: 13 Ne: 8 
 
@@ -40,7 +40,7 @@ Any ideas?
 
 </div>
 
-<div class="post" data-post-id="10058" data-author="kjartan" data-date="2006-01-10T17:20:09+00:00">
+<div class="post" data-post-id="10058" data-author="kjartan" data-date="2006-01-10T17:20:09+00:00" data-subject="">
 
 I'll have a look at it tonight.   Sounds like a bug.
 

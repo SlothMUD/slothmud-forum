@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31773" data-author="*Isabo*" data-date="2010-09-18T04:29:02+00:00">
+<div class="post" data-post-id="31773" data-author="*Isabo*" data-date="2010-09-18T04:29:02+00:00" data-subject="Blind pets">
 
 Hi, guys.
 

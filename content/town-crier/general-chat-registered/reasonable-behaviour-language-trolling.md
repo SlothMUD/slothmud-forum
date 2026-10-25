@@ -10,7 +10,7 @@ locked: false
 post_count: 80
 ---
 
-<div class="post" data-post-id="10414" data-author="mudder" data-date="2006-01-30T11:03:48+00:00">
+<div class="post" data-post-id="10414" data-author="mudder" data-date="2006-01-30T11:03:48+00:00" data-subject="Reasonable Behaviour: Language &amp; Trolling">
 
 First thing I should say is that the vast majority of players on Sloth act impeccibly at all times.
 
@@ -56,7 +56,7 @@ Also to reiterate this isn't as far as I can see a widespread problem, the vast 
 
 </div>
 
-<div class="post" data-post-id="10415" data-author="Mustang" data-date="2006-01-30T11:32:12+00:00">
+<div class="post" data-post-id="10415" data-author="Mustang" data-date="2006-01-30T11:32:12+00:00" data-subject="">
 
 just a short response:
 
@@ -68,7 +68,7 @@ here's my peev with such generalized concensus on "exposing the young to vulgari
 
 </div>
 
-<div class="post" data-post-id="10418" data-author="Harlot" data-date="2006-01-30T12:22:17+00:00">
+<div class="post" data-post-id="10418" data-author="Harlot" data-date="2006-01-30T12:22:17+00:00" data-subject="The name you seek...">
 
 It is no other than <drum rolll>  Mustang!!!!!
 
@@ -76,13 +76,13 @@ Sorry I couldnt resist :twisted:
 
 </div>
 
-<div class="post" data-post-id="10419" data-author="12345" data-date="2006-01-30T12:41:17+00:00">
+<div class="post" data-post-id="10419" data-author="12345" data-date="2006-01-30T12:41:17+00:00" data-subject="">
 
 I think it's funny that someone would spend an hour harassing you when there's much more productive things they could have done with that time.... like actually LOOK for the spellbook.
 
 </div>
 
-<div class="post" data-post-id="10420" data-author="Grue" data-date="2006-01-30T13:22:01+00:00">
+<div class="post" data-post-id="10420" data-author="Grue" data-date="2006-01-30T13:22:01+00:00" data-subject="">
 
 I don't agree with you about the language thing Mustang. There are 12 and 13 year olds who play Sloth, and I would not want to see language not because I think it will corrupt them, but beacuse if you are at all well-raised you would not use that language in front of a teenager, certainly not in a real life public place. 
 
@@ -94,7 +94,7 @@ To everyone who uses that language I would seriously ask you think about whether
 
 </div>
 
-<div class="post" data-post-id="10421" data-author="blackmore" data-date="2006-01-30T13:27:31+00:00">
+<div class="post" data-post-id="10421" data-author="blackmore" data-date="2006-01-30T13:27:31+00:00" data-subject="">
 
 As for the language, I don't believe say should be monitored, no more than I want someone policing what I say to my friends, even if we are in a public place where others can hear.  If I shout to a friend from across a crowded restaurant, that's different.
 
@@ -104,7 +104,7 @@ In general, the reality is, any time there's a large number of strangers that we
 
 </div>
 
-<div class="post" data-post-id="10422" data-author="Clink" data-date="2006-01-30T13:45:48+00:00">
+<div class="post" data-post-id="10422" data-author="Clink" data-date="2006-01-30T13:45:48+00:00" data-subject="">
 
 We follow a similar paradigm for profanity as real life.  Think of public channels as prime time broadcast TV, and everything else as other forms of communication.  
 
@@ -124,7 +124,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="10423" data-author="mudder" data-date="2006-01-30T13:46:42+00:00">
+<div class="post" data-post-id="10423" data-author="mudder" data-date="2006-01-30T13:46:42+00:00" data-subject="">
 
 As for the spellbook, the only reason behavior like this is worth mentioning on the crier is if you include the character's name[/quote:3n76g53c]
 
@@ -140,7 +140,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="10424" data-author="blackmore" data-date="2006-01-30T14:03:15+00:00">
+<div class="post" data-post-id="10424" data-author="blackmore" data-date="2006-01-30T14:03:15+00:00" data-subject="">
 
 I'm not sure I agree with you here, my reason for mentioning it without the name, indeed any of the names involved, was to raise the point that this sort of thing happens and that it would be helpful to have a reasonable behaviour rule to point to.
 
@@ -150,13 +150,13 @@ My basic point is we all know idiots exist in this world, we have to deal with t
 
 </div>
 
-<div class="post" data-post-id="10425" data-author="12345" data-date="2006-01-30T14:06:53+00:00">
+<div class="post" data-post-id="10425" data-author="12345" data-date="2006-01-30T14:06:53+00:00" data-subject="">
 
 I think a 'Don't be stupid' Rule would be kinda cool.  Of course, I would have been banned years ago.
 
 </div>
 
-<div class="post" data-post-id="10430" data-author="Weasel" data-date="2006-01-30T17:46:31+00:00">
+<div class="post" data-post-id="10430" data-author="Weasel" data-date="2006-01-30T17:46:31+00:00" data-subject="">
 
 deleted most of original post - Mudder is not the same person I was speaking with on a similar matter, so this swearing thing has nothing to do with me.
 
@@ -168,7 +168,7 @@ Have a nice f***ing day.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10439" data-author="Mustang" data-date="2006-01-30T19:43:15+00:00">
+<div class="post" data-post-id="10439" data-author="Mustang" data-date="2006-01-30T19:43:15+00:00" data-subject="">
 
 thank you weasel for putting across my views more eloquently than i did :P
 
@@ -180,7 +180,7 @@ kids learn "bad" things all the time,  and i really think that instead of saying
 
 </div>
 
-<div class="post" data-post-id="10440" data-author="Mustang" data-date="2006-01-30T20:04:02+00:00">
+<div class="post" data-post-id="10440" data-author="Mustang" data-date="2006-01-30T20:04:02+00:00" data-subject="">
 
 just another few pointers, in response to Grue.
 
@@ -194,7 +194,7 @@ You're starting to behave like kyle's mom on southpark....and we all know what c
 
 </div>
 
-<div class="post" data-post-id="10441" data-author="Mustang" data-date="2006-01-30T20:06:43+00:00">
+<div class="post" data-post-id="10441" data-author="Mustang" data-date="2006-01-30T20:06:43+00:00" data-subject="">
 
 thought the nick was familir so i went back to another thread and found this :
 
@@ -206,13 +206,13 @@ nice choice of words there
 
 </div>
 
-<div class="post" data-post-id="10442" data-author="Weasel" data-date="2006-01-30T20:14:15+00:00">
+<div class="post" data-post-id="10442" data-author="Weasel" data-date="2006-01-30T20:14:15+00:00" data-subject="">
 
 :twisted:
 
 </div>
 
-<div class="post" data-post-id="10443" data-author="Rynquald" data-date="2006-01-30T20:43:13+00:00">
+<div class="post" data-post-id="10443" data-author="Rynquald" data-date="2006-01-30T20:43:13+00:00" data-subject="">
 
 I was always under the impression there was reasonable leeway in the rules for dealing with harassment (referring to the sb guy who used tell instead of gossip here), personally I'd have webbed/silenced/blinded/slept them, and I doubt I'd be encountering punishment for it...toss could be fun too  :twisted: 
 
@@ -220,7 +220,7 @@ Wouldn't go to the point of killing them or anything of course, unless it got to
 
 </div>
 
-<div class="post" data-post-id="10444" data-author="12345" data-date="2006-01-30T21:04:44+00:00">
+<div class="post" data-post-id="10444" data-author="12345" data-date="2006-01-30T21:04:44+00:00" data-subject="">
 
 I would also suggest that there are ways to gag people and/or profanity while still playing.  It's a lot easier on the mud where people in general wouldn't be trying to avoid a personal profanity filter.  I also believe in taking action rather than being a victim.  Perhaps you could even post the scripts on our forums when you finish them. [/quote:3nxrhdno]
 
@@ -252,13 +252,13 @@ I think that's all I have to say about that...
 
 </div>
 
-<div class="post" data-post-id="10445" data-author="kjartan" data-date="2006-01-30T21:24:31+00:00">
+<div class="post" data-post-id="10445" data-author="kjartan" data-date="2006-01-30T21:24:31+00:00" data-subject="">
 
 I don't particularly like seeing cursing, but I think the omnipresent bad grammar and spelling may be considerably more harmful to the kiddies.  If someone writes a script to correct those, let me know.
 
 </div>
 
-<div class="post" data-post-id="10446" data-author="Clink" data-date="2006-01-30T21:35:00+00:00">
+<div class="post" data-post-id="10446" data-author="Clink" data-date="2006-01-30T21:35:00+00:00" data-subject="">
 
 I don't particularly like seeing cursing, but I think the omnipresent bad grammar and spelling may be considerably more harmful to the kiddies.  If someone writes a script to correct those, let me know.[/quote:17p1rf4r]
 
@@ -266,13 +266,13 @@ zMud has a spellchecker built in.  Wintin might be able to integrate with the sp
 
 </div>
 
-<div class="post" data-post-id="10447" data-author="Weasel" data-date="2006-01-30T21:38:47+00:00">
+<div class="post" data-post-id="10447" data-author="Weasel" data-date="2006-01-30T21:38:47+00:00" data-subject="">
 
 ack! red squiggly line spam! hehe
 
 </div>
 
-<div class="post" data-post-id="10448" data-author="kjartan" data-date="2006-01-30T22:07:52+00:00">
+<div class="post" data-post-id="10448" data-author="kjartan" data-date="2006-01-30T22:07:52+00:00" data-subject="">
 
 I don't particularly like seeing cursing, but I think the omnipresent bad grammar and spelling may be considerably more harmful to the kiddies.  If someone writes a script to correct those, let me know.[/quote:1jqn5gzu]
 
@@ -282,7 +282,7 @@ Anyhow, I'd rather see natural bad grammar than text that had been converted to 
 
 </div>
 
-<div class="post" data-post-id="10449" data-author="Grue" data-date="2006-01-30T22:50:54+00:00">
+<div class="post" data-post-id="10449" data-author="Grue" data-date="2006-01-30T22:50:54+00:00" data-subject="">
 
 BTW, I fully understand that my kids hear cussing on the school bus, at school, at the skating ring, at the skateboard park... This is not about protecting my kids from language. This is about my not being prepared to endorse a place that has it when I am trying to raise them not to cus. It is exactly the same as not allowing them to play at people's houses where the parents use the f-word the whole time, which I don't. This is not a moral question for me, if you want to cus go ahead, hell there are worse things you could be doing. Just don't be upset if I ask you not to do it around me - that is a lifestyle choice I have made. Also understand that it is hard for me to recommend to my kids to play Sloth and then have them say to my wife, "Do you know that there are guys who are always f***ing this and f***ing that on the game Dad plays."
 
@@ -292,7 +292,7 @@ I here bad language at work, I ask people to stop. I hear bad language at a fami
 
 </div>
 
-<div class="post" data-post-id="10450" data-author="Autolycos" data-date="2006-01-30T23:34:08+00:00">
+<div class="post" data-post-id="10450" data-author="Autolycos" data-date="2006-01-30T23:34:08+00:00" data-subject="">
 
 NOOOOOOOO!!  
 
@@ -310,7 +310,7 @@ Anyhow, I'd rather see natural bad grammar than text that had been converted to 
 
 </div>
 
-<div class="post" data-post-id="10451" data-author="Leaf" data-date="2006-01-31T01:13:38+00:00">
+<div class="post" data-post-id="10451" data-author="Leaf" data-date="2006-01-31T01:13:38+00:00" data-subject="">
 
 bald-people as "hair-deficient", fat people as "unfortunately sized" ugly people as "esthetically disabled" [/quote:31qup4e2]
 
@@ -326,13 +326,13 @@ and in Sloth.  U should know, and a lot of ppl that I've met can also agree.
 
 </div>
 
-<div class="post" data-post-id="10452" data-author="Leaf" data-date="2006-01-31T01:13:53+00:00">
+<div class="post" data-post-id="10452" data-author="Leaf" data-date="2006-01-31T01:13:53+00:00" data-subject="">
 
 dup Post ... got some error when posting the first time ...
 
 </div>
 
-<div class="post" data-post-id="10455" data-author="Mustang" data-date="2006-01-31T06:57:20+00:00">
+<div class="post" data-post-id="10455" data-author="Mustang" data-date="2006-01-31T06:57:20+00:00" data-subject="">
 
 obviously nobody would really want their kids hanging around other kids whose parents swear every other word.
 
@@ -344,19 +344,19 @@ and by the way, leaf, this isn't aaron
 
 </div>
 
-<div class="post" data-post-id="10456" data-author="Guinex" data-date="2006-01-31T07:13:37+00:00">
+<div class="post" data-post-id="10456" data-author="Guinex" data-date="2006-01-31T07:13:37+00:00" data-subject="">
 
 Damn I would be pissed if porn lost the nudity....what would i do with myself?  One can only watch so many cartoons   :o
 
 </div>
 
-<div class="post" data-post-id="10457" data-author="12345" data-date="2006-01-31T13:01:12+00:00">
+<div class="post" data-post-id="10457" data-author="12345" data-date="2006-01-31T13:01:12+00:00" data-subject="">
 
 You'd be lost if they passed a law saying all the people in porn had to have a pulse...  :wink:
 
 </div>
 
-<div class="post" data-post-id="10458" data-author="Autolycos" data-date="2006-01-31T13:26:39+00:00">
+<div class="post" data-post-id="10458" data-author="Autolycos" data-date="2006-01-31T13:26:39+00:00" data-subject="">
 
 ouch,  that one is worthy of 2 points :!: 
 
@@ -366,7 +366,7 @@ long live torrent :!:
 
 </div>
 
-<div class="post" data-post-id="10459" data-author="blackmore" data-date="2006-01-31T13:53:56+00:00">
+<div class="post" data-post-id="10459" data-author="blackmore" data-date="2006-01-31T13:53:56+00:00" data-subject="">
 
 This is about my not being prepared to endorse a place that has it when I am trying to raise them not to cus. [/quote:3hm1sm69]
 
@@ -378,7 +378,7 @@ I don't ban any particular style of song from our house (ok, except for bluegras
 
 </div>
 
-<div class="post" data-post-id="10462" data-author="Mustang" data-date="2006-01-31T14:44:57+00:00">
+<div class="post" data-post-id="10462" data-author="Mustang" data-date="2006-01-31T14:44:57+00:00" data-subject="">
 
 to be honest, i've yet to see excessive swearing on the mud, in my 13 yrs on the game.  most of us do keep our cussing in check, and if we do know that there are kids in our groups, would try our best not to do it at all.
 
@@ -386,7 +386,7 @@ what got me pissy was the fact that Grue is trying to act all righteous and elit
 
 </div>
 
-<div class="post" data-post-id="10463" data-author="Grue" data-date="2006-01-31T16:16:48+00:00">
+<div class="post" data-post-id="10463" data-author="Grue" data-date="2006-01-31T16:16:48+00:00" data-subject="">
 
 Laugh, deleted my original post as would enrage people :) 
 
@@ -396,37 +396,37 @@ By the way, I hire 3 to 4 new poeple a year, and help interview a lot more. If s
 
 </div>
 
-<div class="post" data-post-id="10464" data-author="Mustang" data-date="2006-01-31T16:39:02+00:00">
+<div class="post" data-post-id="10464" data-author="Mustang" data-date="2006-01-31T16:39:02+00:00" data-subject="">
 
 yeah and we should all annoint you as the next pope then
 
 </div>
 
-<div class="post" data-post-id="10465" data-author="Mustang" data-date="2006-01-31T16:44:17+00:00">
+<div class="post" data-post-id="10465" data-author="Mustang" data-date="2006-01-31T16:44:17+00:00" data-subject="">
 
 yeah and we should all annoint you as the next pope then
 
 </div>
 
-<div class="post" data-post-id="10466" data-author="Grue" data-date="2006-01-31T17:15:09+00:00">
+<div class="post" data-post-id="10466" data-author="Grue" data-date="2006-01-31T17:15:09+00:00" data-subject="">
 
 Hey, I'd rather aspire to be the Pope than Jay Z.
 
 </div>
 
-<div class="post" data-post-id="10467" data-author="12345" data-date="2006-01-31T17:25:08+00:00">
+<div class="post" data-post-id="10467" data-author="12345" data-date="2006-01-31T17:25:08+00:00" data-subject="">
 
 Grue seems to be trolling his own thread.
 
 </div>
 
-<div class="post" data-post-id="10468" data-author="Mustang" data-date="2006-01-31T17:35:23+00:00">
+<div class="post" data-post-id="10468" data-author="Mustang" data-date="2006-01-31T17:35:23+00:00" data-subject="">
 
 yeah, i'm sure the altar boys would love for u to be the pope too
 
 </div>
 
-<div class="post" data-post-id="10469" data-author="blackmore" data-date="2006-01-31T17:50:01+00:00">
+<div class="post" data-post-id="10469" data-author="blackmore" data-date="2006-01-31T17:50:01+00:00" data-subject="">
 
 Western society has down the tubes and the acceptance of foul language is just another symptom of that.[/quote:2lqa3n61]
 
@@ -440,7 +440,7 @@ I can't find a way to include this as part of my opinion, so I'll just include i
 
 </div>
 
-<div class="post" data-post-id="10471" data-author="12345" data-date="2006-01-31T18:01:42+00:00">
+<div class="post" data-post-id="10471" data-author="12345" data-date="2006-01-31T18:01:42+00:00" data-subject="">
 
 I can't find a way to include this as part of my opinion, so I'll just include it because it's so damn funny - our IT guy IM'd our customer service chick with "My dick is so big it rescued 3 people from the floods in New Orleans".[/quote:2xa6lwx5]
 
@@ -454,7 +454,7 @@ I'm curious how far you've travelled in your life.  You seem to have a very narr
 
 </div>
 
-<div class="post" data-post-id="10472" data-author="blackmore" data-date="2006-01-31T19:00:22+00:00">
+<div class="post" data-post-id="10472" data-author="blackmore" data-date="2006-01-31T19:00:22+00:00" data-subject="">
 
 That is funny... but you have to be real careful who you say that kind of thing to.  Very easy to get hit with a sexual harassment suit for that kind of thing.[/quote:dt5zl6b7]
 
@@ -464,7 +464,7 @@ In reality, she has said numerous times if anyone is sued for harassment in our 
 
 </div>
 
-<div class="post" data-post-id="10475" data-author="Grue" data-date="2006-01-31T19:26:20+00:00">
+<div class="post" data-post-id="10475" data-author="Grue" data-date="2006-01-31T19:26:20+00:00" data-subject="">
 
 If you mean me, I've lived in 2 countries on different continents, went to public schools, university for 6 years, lived in 7 cities (5 in the US, east and west coast), travelled to 5 countries, 27 states in the US in 5 years, fly 4 times a month, worked for 2 state agencies, work with 12 national groups and 4 senators offices, ran a conuslting firm for 12 years and have consulted for over 300 companies, written over 20 applications, worked for film crews, done professional sound engineering, done studio recording and played in 7 professional bands. I'm fairly well-travelled, and have no illusions about the real world. I have been in many settings where people not only swear but do far worse things.
 
@@ -480,7 +480,7 @@ Flame if you want (I'm sure you will), but these are not the cloistered views of
 
 </div>
 
-<div class="post" data-post-id="10476" data-author="12345" data-date="2006-01-31T19:35:02+00:00">
+<div class="post" data-post-id="10476" data-author="12345" data-date="2006-01-31T19:35:02+00:00" data-subject="">
 
 Actually, I was basing my views on the fact that this thread is titled 'Reasonable Behavior' and you seem to be of the opinion that people on this game should be held to a higher morale standard than the people you claim to deal with every day....
 
@@ -488,7 +488,7 @@ Not much reasonable in that.
 
 </div>
 
-<div class="post" data-post-id="10479" data-author="Weasel" data-date="2006-01-31T20:26:56+00:00">
+<div class="post" data-post-id="10479" data-author="Weasel" data-date="2006-01-31T20:26:56+00:00" data-subject="">
 
 While I can appreciate your opinion Grue, remember that there are people here who have been playing sloth for well over a decade, and it seems suddenly you are here telling them how you think they should and should not act while on sloth. Some may resent that. Maybe that's doesn't seem fair to you, but that's life. As mentioned, there are rules about swearing on the public channels, but beyond that it's really a case of tolerance rather than making others conform to your standards. Again, you can create triggers to replace specific words with asterixes if you wish - that way everybody is happy being themselves and some of the more boisterous players wont have to shout "I'm being repressed!"
 
@@ -510,7 +510,7 @@ I'll add that I do appreciate where you're coming from - it sounds like me with 
 
 </div>
 
-<div class="post" data-post-id="10483" data-author="Alberich" data-date="2006-01-31T20:36:53+00:00">
+<div class="post" data-post-id="10483" data-author="Alberich" data-date="2006-01-31T20:36:53+00:00" data-subject="">
 
 I
 
@@ -524,7 +524,7 @@ actually, that is the only rational belief system (as it harms none, do what you
 
 </div>
 
-<div class="post" data-post-id="10484" data-author="Guinex" data-date="2006-01-31T20:37:24+00:00">
+<div class="post" data-post-id="10484" data-author="Guinex" data-date="2006-01-31T20:37:24+00:00" data-subject="">
 
 I think we should just bring this to ebony tower and let the best man stfu.
 
@@ -532,7 +532,7 @@ I think we should just bring this to ebony tower and let the best man stfu.
 
 </div>
 
-<div class="post" data-post-id="10485" data-author="Grue" data-date="2006-01-31T20:44:36+00:00">
+<div class="post" data-post-id="10485" data-author="Grue" data-date="2006-01-31T20:44:36+00:00" data-subject="">
 
 a) This process is called debate, you need to be able to distance your participation in from how you feel.
 
@@ -552,7 +552,7 @@ BTW, if you don't like my views you can always not read the thread. Isn't that t
 
 </div>
 
-<div class="post" data-post-id="10486" data-author="Grue" data-date="2006-01-31T20:50:54+00:00">
+<div class="post" data-post-id="10486" data-author="Grue" data-date="2006-01-31T20:50:54+00:00" data-subject="">
 
 "actually, that is the only rational belief system (as it harms none, do what you will). Anything else is statist nonsense and leads inexorably to the sort of Orwellian nightmare the British have (ASBO's, etc)."
 
@@ -562,7 +562,7 @@ Two of those are rapidly becoming acceptable norms in US society, the other is s
 
 </div>
 
-<div class="post" data-post-id="10487" data-author="Weasel" data-date="2006-01-31T20:59:24+00:00">
+<div class="post" data-post-id="10487" data-author="Weasel" data-date="2006-01-31T20:59:24+00:00" data-subject="">
 
 who decides?  ME!  :twisted:
 
@@ -570,13 +570,13 @@ btw, what happened to Mudder? He/She/It started this.. heh
 
 </div>
 
-<div class="post" data-post-id="10488" data-author="Grue" data-date="2006-01-31T21:00:50+00:00">
+<div class="post" data-post-id="10488" data-author="Grue" data-date="2006-01-31T21:00:50+00:00" data-subject="">
 
 Laugh, now you see THAT I can respect :)
 
 </div>
 
-<div class="post" data-post-id="10490" data-author="blackmore" data-date="2006-01-31T21:31:40+00:00">
+<div class="post" data-post-id="10490" data-author="blackmore" data-date="2006-01-31T21:31:40+00:00" data-subject="">
 
 On the other hand I don;t see why I should pretend I don't find it offensive. There are posts here I have found offensive and unnessecary, and I will always speak up about those.
 
@@ -586,7 +586,7 @@ I have no issue with this at all, nor do am I offended by your attitude or belie
 
 </div>
 
-<div class="post" data-post-id="10491" data-author="Autolycos" data-date="2006-01-31T21:37:16+00:00">
+<div class="post" data-post-id="10491" data-author="Autolycos" data-date="2006-01-31T21:37:16+00:00" data-subject="">
 
 In walks Weasel in his long black judgey type robe with a obscenely over dramatised gavel..  
 
@@ -604,7 +604,7 @@ btw, what happened to Mudder? He/She/It started this.. heh[/quote:16eua5tp]
 
 </div>
 
-<div class="post" data-post-id="10492" data-author="Weasel" data-date="2006-01-31T21:52:26+00:00">
+<div class="post" data-post-id="10492" data-author="Weasel" data-date="2006-01-31T21:52:26+00:00" data-subject="">
 
 In walks Weasel in his long black judgey type robe with a obscenely over dramatised gavel..  
 
@@ -628,7 +628,7 @@ Damn straight - and don't you forget it!
 
 </div>
 
-<div class="post" data-post-id="10493" data-author="12345" data-date="2006-01-31T21:59:05+00:00">
+<div class="post" data-post-id="10493" data-author="12345" data-date="2006-01-31T21:59:05+00:00" data-subject="">
 
 I am simply telling you that in every environment I have worked in or consulted in it is not acceptable[/quote:h7vhkzn1]
 
@@ -642,7 +642,7 @@ No one is trying to make this a job for you, they're just asking that you give t
 
 </div>
 
-<div class="post" data-post-id="10494" data-author="Grue" data-date="2006-01-31T23:39:30+00:00">
+<div class="post" data-post-id="10494" data-author="Grue" data-date="2006-01-31T23:39:30+00:00" data-subject="">
 
 [i:2sv05g9r]"I have no issue with this at all, nor do am I offended by your attitude or believe you shouldn't be posting this. There's very little you've said after your first post that I thought were offensive viewpoints. However, what you started out saying, and have seemed to attempt to justify, comes across as "anyone who listens to rap or isn't taught that all swearing is evil will never be able to hold down a good job", and that's not the reality many of us live in."[/i:2sv05g9r]
 
@@ -652,7 +652,7 @@ Please understand, BTW, often I set out to make a point, knowing it will rile pe
 
 </div>
 
-<div class="post" data-post-id="10496" data-author="mudder" data-date="2006-02-01T00:52:02+00:00">
+<div class="post" data-post-id="10496" data-author="mudder" data-date="2006-02-01T00:52:02+00:00" data-subject="">
 
 btw, what happened to Mudder? He/She/It started this.. heh[/quote:1ao1iq46]
 
@@ -674,7 +674,7 @@ Mudder
 
 </div>
 
-<div class="post" data-post-id="10498" data-author="Mustang" data-date="2006-02-01T03:50:24+00:00">
+<div class="post" data-post-id="10498" data-author="Mustang" data-date="2006-02-01T03:50:24+00:00" data-subject="">
 
 to grue:
 
@@ -686,7 +686,7 @@ This is a freaking game for crying out loud.  If you're trying to be a political
 
 </div>
 
-<div class="post" data-post-id="10499" data-author="Weasel" data-date="2006-02-01T03:55:29+00:00">
+<div class="post" data-post-id="10499" data-author="Weasel" data-date="2006-02-01T03:55:29+00:00" data-subject="">
 
 WHAT? Cats are being killed ingame??  :shock:  OMIGOD! Why didn't anybody tell me!
 
@@ -696,13 +696,13 @@ This must end NOW!
 
 </div>
 
-<div class="post" data-post-id="10500" data-author="12345" data-date="2006-02-01T04:23:13+00:00">
+<div class="post" data-post-id="10500" data-author="12345" data-date="2006-02-01T04:23:13+00:00" data-subject="">
 
 Oh, it's even worse Weasel.  They're killing ferrets on Valk  :wink:
 
 </div>
 
-<div class="post" data-post-id="10501" data-author="Weasel" data-date="2006-02-01T04:35:30+00:00">
+<div class="post" data-post-id="10501" data-author="Weasel" data-date="2006-02-01T04:35:30+00:00" data-subject="">
 
 NOOOOOOOOOOOO!!!!
 
@@ -710,19 +710,19 @@ NOOOOOOOOOOOO!!!!
 
 </div>
 
-<div class="post" data-post-id="10502" data-author="Grue" data-date="2006-02-01T04:38:58+00:00">
+<div class="post" data-post-id="10502" data-author="Grue" data-date="2006-02-01T04:38:58+00:00" data-subject="">
 
 Laugh, I take nothing in Sloth seriously :) I'm not the one who is so enraged here that he can't even type slowly enough to use punctuation or check his spelling, bud. I think YOU need to take it easy, gonna burst a blood vessel or something! You are easily 10 times more worked up on this than I've ever been. Have drink, go hang out with some of those diplomats and multi-million dollar musician friends of yours  8)
 
 </div>
 
-<div class="post" data-post-id="10503" data-author="Grue" data-date="2006-02-01T04:44:54+00:00">
+<div class="post" data-post-id="10503" data-author="Grue" data-date="2006-02-01T04:44:54+00:00" data-subject="">
 
 I think we need to have a Chinese Restuarant in BH, then you can kill the cats and sell them to the cook for coins. We could call it the Nervous Kitty.
 
 </div>
 
-<div class="post" data-post-id="10504" data-author="Weasel" data-date="2006-02-01T05:00:10+00:00">
+<div class="post" data-post-id="10504" data-author="Weasel" data-date="2006-02-01T05:00:10+00:00" data-subject="">
 
 STEP 1: remove excess fur from cat.
 
@@ -730,7 +730,7 @@ STEP 1: remove excess fur from cat.
 
 </div>
 
-<div class="post" data-post-id="10505" data-author="Mustang" data-date="2006-02-01T05:00:51+00:00">
+<div class="post" data-post-id="10505" data-author="Mustang" data-date="2006-02-01T05:00:51+00:00" data-subject="">
 
 I think we need to have a Chinese Restuarant in BH, then you can kill the cats and sell them to the cook for coins. We could call it the Nervous Kitty.[/quote:lrdlbaa1]
 
@@ -740,13 +740,13 @@ please i do hope u never log onto the game again
 
 </div>
 
-<div class="post" data-post-id="10506" data-author="Weasel" data-date="2006-02-01T05:02:20+00:00">
+<div class="post" data-post-id="10506" data-author="Weasel" data-date="2006-02-01T05:02:20+00:00" data-subject="">
 
 snap
 
 </div>
 
-<div class="post" data-post-id="10507" data-author="Grue" data-date="2006-02-01T05:20:43+00:00">
+<div class="post" data-post-id="10507" data-author="Grue" data-date="2006-02-01T05:20:43+00:00" data-subject="">
 
 No, but I do teach them to have a sense of humor. BTW, I have a multi-racial family and have been arrested before defying racist laws. You on the other I doubt have ever done anything in your miserable little life to fight racism in any way. 
 
@@ -760,7 +760,7 @@ Grow up!
 
 </div>
 
-<div class="post" data-post-id="10508" data-author="jezer" data-date="2006-02-01T05:28:35+00:00">
+<div class="post" data-post-id="10508" data-author="jezer" data-date="2006-02-01T05:28:35+00:00" data-subject="">
 
 No need to apologise mudder, your not responsible for other people's actions, even though you may have played in setting them up! cackle.
 
@@ -770,19 +770,19 @@ I agree with mudder.... This post could of ended after 12345 made his post. It w
 
 </div>
 
-<div class="post" data-post-id="10512" data-author="Weasel" data-date="2006-02-01T05:35:53+00:00">
+<div class="post" data-post-id="10512" data-author="Weasel" data-date="2006-02-01T05:35:53+00:00" data-subject="">
 
 kill him.
 
 </div>
 
-<div class="post" data-post-id="10514" data-author="Weasel" data-date="2006-02-01T06:05:05+00:00">
+<div class="post" data-post-id="10514" data-author="Weasel" data-date="2006-02-01T06:05:05+00:00" data-subject="">
 
 How about we have a BH hotdog stand and then we can kill dogs, and, and ..err ..nevermind.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10518" data-author="Avatar" data-date="2006-02-01T15:12:40+00:00">
+<div class="post" data-post-id="10518" data-author="Avatar" data-date="2006-02-01T15:12:40+00:00" data-subject="US morality">
 
 The only thing funny in this thread was the comment about the golden era of the US being the 40's.  It may have been a golden age for big-band music, but I wouldn't want to revert our current society to follow their 'norms'.  People may feel nostalgia for the cars or the good science fiction literature or the years they spent during those decades in school, but in my opinion that's all it is - nostalgia.
 
@@ -790,7 +790,7 @@ You may think there was no crime, no homosexuals, no domestic abuse, etc. but it
 
 </div>
 
-<div class="post" data-post-id="10519" data-author="Autolycos" data-date="2006-02-01T17:34:39+00:00">
+<div class="post" data-post-id="10519" data-author="Autolycos" data-date="2006-02-01T17:34:39+00:00" data-subject="">
 
 I agree Charles,  the 40's were just as violent as today,  just the news media didnt get their jollies off telling everyone.. Back then it was a tragedy, not a ratings booster... 
 
@@ -800,7 +800,7 @@ I only check to see the cool stuff Weasel comes up with  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10520" data-author="Avatar" data-date="2006-02-01T17:55:05+00:00">
+<div class="post" data-post-id="10520" data-author="Avatar" data-date="2006-02-01T17:55:05+00:00" data-subject="Pics">
 
 The critter with the scythe is a classic, I agree.  
 
@@ -808,13 +808,13 @@ It makes me miss our ferret, that was the best pet.  Coco the original family do
 
 </div>
 
-<div class="post" data-post-id="10521" data-author="12345" data-date="2006-02-01T18:09:40+00:00">
+<div class="post" data-post-id="10521" data-author="12345" data-date="2006-02-01T18:09:40+00:00" data-subject="">
 
 I need more sleep...
 
 </div>
 
-<div class="post" data-post-id="10522" data-author="Leaf" data-date="2006-02-01T18:39:15+00:00">
+<div class="post" data-post-id="10522" data-author="Leaf" data-date="2006-02-01T18:39:15+00:00" data-subject="">
 
 This Topic is getting close to 100.
 
@@ -822,7 +822,7 @@ I'm also getting close to 500 posts!  Maybe I'll be an Avatar Poster!!!
 
 </div>
 
-<div class="post" data-post-id="10523" data-author="Autolycos" data-date="2006-02-01T19:16:18+00:00">
+<div class="post" data-post-id="10523" data-author="Autolycos" data-date="2006-02-01T19:16:18+00:00" data-subject="">
 
 #gag will
 
@@ -830,7 +830,7 @@ cast 'sleep' 12345
 
 </div>
 
-<div class="post" data-post-id="10524" data-author="Leaf" data-date="2006-02-01T20:11:51+00:00">
+<div class="post" data-post-id="10524" data-author="Leaf" data-date="2006-02-01T20:11:51+00:00" data-subject="">
 
 Cast 'blind' Autolycos
 
@@ -854,7 +854,7 @@ Cast 'frostbolt'
 
 </div>
 
-<div class="post" data-post-id="10525" data-author="12345" data-date="2006-02-01T20:29:11+00:00">
+<div class="post" data-post-id="10525" data-author="12345" data-date="2006-02-01T20:29:11+00:00" data-subject="">
 
 wear robe
 
@@ -880,13 +880,13 @@ Bloodninja disappears in a puff of smoke.
 
 </div>
 
-<div class="post" data-post-id="10526" data-author="Weasel" data-date="2006-02-01T20:37:35+00:00">
+<div class="post" data-post-id="10526" data-author="Weasel" data-date="2006-02-01T20:37:35+00:00" data-subject="">
 
 hehe
 
 </div>
 
-<div class="post" data-post-id="10528" data-author="Autolycos" data-date="2006-02-01T23:19:24+00:00">
+<div class="post" data-post-id="10528" data-author="Autolycos" data-date="2006-02-01T23:19:24+00:00" data-subject="">
 
 lmfao... nice.. 
 
@@ -898,7 +898,7 @@ face it Will.. you suck
 
 </div>
 
-<div class="post" data-post-id="10535" data-author="12345" data-date="2006-02-02T13:55:08+00:00">
+<div class="post" data-post-id="10535" data-author="12345" data-date="2006-02-02T13:55:08+00:00" data-subject="">
 
 I've decided to call this the Curse of Grue.  It's a true story, which is sad, but it's also kinda funny, so I figured I'd post it.
 
@@ -924,7 +924,7 @@ So... beware the Curse of Grue.  Don't let this happen to you.  :lol:
 
 </div>
 
-<div class="post" data-post-id="10536" data-author="Grue" data-date="2006-02-02T20:27:15+00:00">
+<div class="post" data-post-id="10536" data-author="Grue" data-date="2006-02-02T20:27:15+00:00" data-subject="">
 
 LOL, that is funny :) Hope I wasn't responsible!
 

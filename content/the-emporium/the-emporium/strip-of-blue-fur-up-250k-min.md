@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="206" data-author="Deju" data-date="2004-05-21T18:03:21+00:00">
+<div class="post" data-post-id="206" data-author="Deju" data-date="2004-05-21T18:03:21+00:00" data-subject="Strip of Blue Fur Up - 250k min">
 
 Object 'strip fur blue', Item type: ARMOR
 
@@ -32,13 +32,13 @@ warriors, druids, necromancers, bards, or monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="242" data-author="Polk" data-date="2004-05-22T13:04:37+00:00">
+<div class="post" data-post-id="242" data-author="Polk" data-date="2004-05-22T13:04:37+00:00" data-subject="250k">
 
 250k
 
 </div>
 
-<div class="post" data-post-id="349" data-author="Deju" data-date="2004-05-26T04:09:16+00:00">
+<div class="post" data-post-id="349" data-author="Deju" data-date="2004-05-26T04:09:16+00:00" data-subject="Closed">
 
 Closed. Polk wins for 250k
 

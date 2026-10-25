@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="27624" data-author="surfnazi" data-date="2009-01-05T13:03:38+00:00">
+<div class="post" data-post-id="27624" data-author="surfnazi" data-date="2009-01-05T13:03:38+00:00" data-subject="Sloth down 1-5-09">
 
 logged in lagged out over and over...limbo seems to be the hot spot for those who are still logged in at 7am central standard time
 
 </div>
 
-<div class="post" data-post-id="27628" data-author="java" data-date="2009-01-05T16:23:39+00:00">
+<div class="post" data-post-id="27628" data-author="java" data-date="2009-01-05T16:23:39+00:00" data-subject="RE: Sloth down 1-5-09">
 
 [quote:2wn1y6g7]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="34775" data-author="*Splork*" data-date="2014-01-13T16:43:29+00:00">
+<div class="post" data-post-id="34775" data-author="*Splork*" data-date="2014-01-13T16:43:29+00:00" data-subject="Website Login">
 
 Players can now log into the website here at [http://www.slothmud.org](http://www.slothmud.org) using their in-game character name and the password they have set for this login using the newly created wwwpass command. 
 
@@ -34,7 +34,7 @@ Splork & Breeze
 
 </div>
 
-<div class="post" data-post-id="34782" data-author="*Breeze*" data-date="2014-01-14T09:36:32+00:00">
+<div class="post" data-post-id="34782" data-author="*Breeze*" data-date="2014-01-14T09:36:32+00:00" data-subject="Re: Website Login">
 
 you can click 'Add to Menu | Remove from Menu' at the bottom of most pages to add them to a custom menu
 
@@ -42,7 +42,7 @@ on the left side of the main page (where the login stuff is/was).  stuff will be
 
 </div>
 
-<div class="post" data-post-id="34789" data-author="*Breeze*" data-date="2014-01-14T19:27:40+00:00">
+<div class="post" data-post-id="34789" data-author="*Breeze*" data-date="2014-01-14T19:27:40+00:00" data-subject="Re: Website Login">
 
 If you would like an avatar on your stats page
 
@@ -64,7 +64,7 @@ if you are flagged private your stats will not show up.
 
 </div>
 
-<div class="post" data-post-id="34825" data-author="*Breeze*" data-date="2014-01-25T11:26:01+00:00">
+<div class="post" data-post-id="34825" data-author="*Breeze*" data-date="2014-01-25T11:26:01+00:00" data-subject="Re: Website Login">
 
 > ***Breeze* wrote:**
 > you can click 'Add to Menu | Remove from Menu' at the bottom of most pages to add them to a custom menu
@@ -77,7 +77,7 @@ thats fine. no need for me to work on it further then. :)
 
 </div>
 
-<div class="post" data-post-id="35235" data-author="*Splork*" data-date="2014-06-08T12:27:21+00:00">
+<div class="post" data-post-id="35235" data-author="*Splork*" data-date="2014-06-08T12:27:21+00:00" data-subject="Re: Website Login">
 
 Awhile back, some people were having issues with the way the menu
 

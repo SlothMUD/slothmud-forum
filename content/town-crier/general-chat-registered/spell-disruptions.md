@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="29579" data-author="Jag" data-date="2009-06-26T02:42:55+00:00">
+<div class="post" data-post-id="29579" data-author="Jag" data-date="2009-06-26T02:42:55+00:00" data-subject="spell Disruptions">
 
 The spell disruptions seem to be reduced which is a huge improvement, and is much appreciated.  But, thought you might want to know that they are not totally removed as was indicated in Splork's post.  
 
@@ -58,7 +58,7 @@ You lost your concentration!
 
 </div>
 
-<div class="post" data-post-id="29581" data-author="*Splork*" data-date="2009-06-26T12:36:39+00:00">
+<div class="post" data-post-id="29581" data-author="*Splork*" data-date="2009-06-26T12:36:39+00:00" data-subject="">
 
 Thanks Jag...
 
@@ -68,7 +68,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29583" data-author="Vixn" data-date="2009-06-26T16:00:41+00:00">
+<div class="post" data-post-id="29583" data-author="Vixn" data-date="2009-06-26T16:00:41+00:00" data-subject="">
 
 Splork, 
 

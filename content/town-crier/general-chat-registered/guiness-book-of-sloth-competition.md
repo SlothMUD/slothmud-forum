@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="39344" data-author="Gorka" data-date="2020-01-15T10:55:22+00:00">
+<div class="post" data-post-id="39344" data-author="Gorka" data-date="2020-01-15T10:55:22+00:00" data-subject="Guiness Book of Sloth - Competition!">
 
 I've decided to try holding a fun (?) competition over the course of the next week in a bid to raise the collective knowledge of mobs and areas. The competition has two categories...
 
@@ -34,13 +34,13 @@ The prizes for each category are 25 random T1 gems, and 2.5m gold coins for the 
 
 </div>
 
-<div class="post" data-post-id="39345" data-author="Josiah" data-date="2020-01-15T17:02:33+00:00">
+<div class="post" data-post-id="39345" data-author="Josiah" data-date="2020-01-15T17:02:33+00:00" data-subject="Re: Guiness Book of Sloth - Competition!">
 
 I will gladly provide you a log of all the best coin mobs in the mud in exchange for some lutefisk.  Where do I sign up?
 
 </div>
 
-<div class="post" data-post-id="39346" data-author="Gorka" data-date="2020-01-15T19:00:06+00:00">
+<div class="post" data-post-id="39346" data-author="Gorka" data-date="2020-01-15T19:00:06+00:00" data-subject="Re: Guiness Book of Sloth - Competition!">
 
 :lol: Damn, Exposed me!  :twisted: 
 
@@ -48,7 +48,7 @@ I don't care about the logs, as long as there is no contention about how someone
 
 </div>
 
-<div class="post" data-post-id="39348" data-author="Bandit" data-date="2020-01-17T13:23:54+00:00">
+<div class="post" data-post-id="39348" data-author="Bandit" data-date="2020-01-17T13:23:54+00:00" data-subject="Re: Guiness Book of Sloth - Competition!">
 
 I hope I win by default...
 
@@ -68,7 +68,7 @@ Honor Points                  0
 
 </div>
 
-<div class="post" data-post-id="39350" data-author="Roga" data-date="2020-01-17T20:53:27+00:00">
+<div class="post" data-post-id="39350" data-author="Roga" data-date="2020-01-17T20:53:27+00:00" data-subject="Re: Guiness Book of Sloth - Competition!">
 
 ```
 Solo counters elapsed time: 29 minutes, 52 seconds (active)
@@ -84,7 +84,7 @@ Took the per hour section out to fit better (no data in it anyway).
 
 </div>
 
-<div class="post" data-post-id="39351" data-author="Roga" data-date="2020-01-18T13:53:04+00:00">
+<div class="post" data-post-id="39351" data-author="Roga" data-date="2020-01-18T13:53:04+00:00" data-subject="Re: Guiness Book of Sloth - Competition!">
 
 ```
 Solo counters elapsed time: 29 minutes, 46 seconds (active)
@@ -101,7 +101,7 @@ Update.
 
 </div>
 
-<div class="post" data-post-id="39359" data-author="Gorka" data-date="2020-01-22T09:49:08+00:00">
+<div class="post" data-post-id="39359" data-author="Gorka" data-date="2020-01-22T09:49:08+00:00" data-subject="Re: Guiness Book of Sloth - Competition!">
 
 Ok, so Bandit (kills) and Roga (coins) are the winners. Obviously I was hoping for more participation. I shouldn't be surprised that the idea of a healthy competition would be met with cynicism and nihilism, when the name of the game is literally "sloth."  :lol: But hey, I tried. Clearly I'm playing the game wrong.
 

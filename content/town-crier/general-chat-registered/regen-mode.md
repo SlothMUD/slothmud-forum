@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="9921" data-author="jezer" data-date="2005-12-25T13:51:34+00:00">
+<div class="post" data-post-id="9921" data-author="jezer" data-date="2005-12-25T13:51:34+00:00" data-subject="Regen Mode">
 
 Ok, I've got 945hp's atm so its time to do this regen thing properly! I want to put on my regen gear as fast as I see other people do it... so it was time to build myself a regen script.
 
@@ -32,13 +32,13 @@ remove mysteries;get persecution mysteries;remove all;wear orc;wear orc;wear mys
 
 </div>
 
-<div class="post" data-post-id="9923" data-author="Shara" data-date="2005-12-25T22:55:43+00:00">
+<div class="post" data-post-id="9923" data-author="Shara" data-date="2005-12-25T22:55:43+00:00" data-subject="">
 
 If you wear a single piece of eq at a time, you get lag.  The trick is to use the command "wear all" literally.  So put all your stuff away, get all the stuff you want out, and type wear all.  :)
 
 </div>
 
-<div class="post" data-post-id="9924" data-author="Tetsulunathaya" data-date="2005-12-25T23:25:19+00:00">
+<div class="post" data-post-id="9924" data-author="Tetsulunathaya" data-date="2005-12-25T23:25:19+00:00" data-subject="">
 
 Heres a chain that should elimate a few 'wear' commands, and speed you up a little. Also, if you plan on not switching out your orcish rings, cursing them can help eliminate a few commands and speed things up (as they won't be removed, so you don't have to get them back out of the robe after the put all command). If you don't want to curse them, you might try get all.orc "swirling/persecution", but its been forever, and I can't remember if that works for getting things out of robes.
 
@@ -106,7 +106,7 @@ wear all;
 
 </div>
 
-<div class="post" data-post-id="9928" data-author="Gti" data-date="2005-12-27T04:45:19+00:00">
+<div class="post" data-post-id="9928" data-author="Gti" data-date="2005-12-27T04:45:19+00:00" data-subject="">
 
 hi jez,
 
@@ -124,7 +124,7 @@ on being pthiefed, not all rooms are safe rooms. to check, u can go in n try pus
 
 </div>
 
-<div class="post" data-post-id="9929" data-author="Vixn" data-date="2005-12-27T07:45:11+00:00">
+<div class="post" data-post-id="9929" data-author="Vixn" data-date="2005-12-27T07:45:11+00:00" data-subject="">
 
 People often think if room is no-cast that should be the safe room. but it is completly wrong. there are just some exaples of rooms wich people usually consider as safe:
 
@@ -140,7 +140,7 @@ It's very short and incomplete list, I post it only to show there are some few r
 
 </div>
 
-<div class="post" data-post-id="9930" data-author="Gnu" data-date="2005-12-27T08:58:20+00:00">
+<div class="post" data-post-id="9930" data-author="Gnu" data-date="2005-12-27T08:58:20+00:00" data-subject="">
 
 1. Scribes [BH] - it's no-cast, no-steal room, but you are still pushable, so you'd better rest before re-eqiup.
 
@@ -150,7 +150,7 @@ You'd better never re-equip in BH scribe, since hymn of the morning start works 
 
 </div>
 
-<div class="post" data-post-id="9931" data-author="Medios" data-date="2005-12-27T22:46:24+00:00">
+<div class="post" data-post-id="9931" data-author="Medios" data-date="2005-12-27T22:46:24+00:00" data-subject="">
 
 Hymn of the morning star does nothing if your resting, only stands you if sleeping.
 

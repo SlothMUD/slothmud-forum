@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="21670" data-author="Akasha" data-date="2007-12-15T21:15:31+00:00">
+<div class="post" data-post-id="21670" data-author="Akasha" data-date="2007-12-15T21:15:31+00:00" data-subject="Think this covers all of them">
 
 ** Savvy fought against Hyperion, the God of Fire and lost at 9 o'clock am on the Day of the Sun 
 
@@ -32,7 +32,7 @@ post_count: 2
 
 </div>
 
-<div class="post" data-post-id="21672" data-author="alias" data-date="2007-12-16T01:29:00+00:00">
+<div class="post" data-post-id="21672" data-author="alias" data-date="2007-12-16T01:29:00+00:00" data-subject="">
 
 That one was my fault, I was supposed to be healing and my link died- along w/ a bunch of us in the end. Many thanx to Jayde and Bazilus for comming to our aid.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 65
 ---
 
-<div class="post" data-post-id="17591" data-author="Toxis" data-date="2007-03-29T23:19:01+00:00">
+<div class="post" data-post-id="17591" data-author="Toxis" data-date="2007-03-29T23:19:01+00:00" data-subject="This Mud">
 
 The group was in trouble.  A kind and noble person removes his held low and recalls the group with a red and white staff only to get pthieved right away, a JJD, which everyone knows can be a pain to forge.
 
@@ -22,7 +22,7 @@ Brad
 
 </div>
 
-<div class="post" data-post-id="17592" data-author="Medios" data-date="2007-03-29T23:53:22+00:00">
+<div class="post" data-post-id="17592" data-author="Medios" data-date="2007-03-29T23:53:22+00:00" data-subject="">
 
 Who is said "faggot"?
 
@@ -32,7 +32,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17593" data-author="Rynquald" data-date="2007-03-29T23:54:34+00:00">
+<div class="post" data-post-id="17593" data-author="Rynquald" data-date="2007-03-29T23:54:34+00:00" data-subject="">
 
 I think pthieving can/could play a role within the mud. but atm it's simply irritating, pthieves are always newb chars played by (presumably) regular players stealing under the cloak of anonymity provided by switching chars.
 
@@ -46,7 +46,7 @@ Edit: Never underestimate the entertainment value in hunting a pthief, if they c
 
 </div>
 
-<div class="post" data-post-id="17594" data-author="Malison" data-date="2007-03-30T00:13:46+00:00">
+<div class="post" data-post-id="17594" data-author="Malison" data-date="2007-03-30T00:13:46+00:00" data-subject="">
 
 It's pretty clear from responses of immorts like Krom, who was on and commenting during this incident, that pthieving isn't going to be removed, but there's definitely issues that need change.
 
@@ -56,13 +56,13 @@ It's pretty clear from responses of immorts like Krom, who was on and commenting
 
 </div>
 
-<div class="post" data-post-id="17595" data-author="Jag" data-date="2007-03-30T02:16:21+00:00">
+<div class="post" data-post-id="17595" data-author="Jag" data-date="2007-03-30T02:16:21+00:00" data-subject="">
 
 Imm's please get rid of the Pthieves.  Thieving would be nice thing to hit mobs with.  It ruins the game for me when this stuff happens.
 
 </div>
 
-<div class="post" data-post-id="17596" data-author="Hades" data-date="2007-03-30T02:23:55+00:00">
+<div class="post" data-post-id="17596" data-author="Hades" data-date="2007-03-30T02:23:55+00:00" data-subject="That MUD">
 
 Personally, I never stole from someone I didn't like.
 
@@ -82,7 +82,7 @@ of the long, winter hiatus. Time to dust off the cobwebs :twisted:
 
 </div>
 
-<div class="post" data-post-id="17597" data-author="Weasel" data-date="2007-03-30T02:56:33+00:00">
+<div class="post" data-post-id="17597" data-author="Weasel" data-date="2007-03-30T02:56:33+00:00" data-subject="">
 
 I have always been strongly against pthieves and always will. I have seen a number of established players leave over the years purely because of pthieving, and on top of that there's been many Valkish-level newbies who spend a month or two getting into sloth only to have it ruined by some self-centred fuckhead in the space of a couple of seconds, for no other reason than they find joy in being assholes. We lose those type of players permanently - at least some of the more established players return eventually. It does NOTHING positive for the game, N_O_T_H_I_N_G, and the only ones who seem to enjoy it are the pthieves themselves and a couple of immortals who seem to think it's a good idea to drive players away.. one has to wonder why that is.. 
 
@@ -92,7 +92,7 @@ I dont change into regen gear in groups anymore, nor do raise people in groups a
 
 </div>
 
-<div class="post" data-post-id="17598" data-author="resouh" data-date="2007-03-30T04:43:06+00:00">
+<div class="post" data-post-id="17598" data-author="resouh" data-date="2007-03-30T04:43:06+00:00" data-subject="">
 
 I agree, there needs to be some definate changes made to the system.  I play another mud (won't mention name) and they are no steal, the only way you can get stuff stolen is to get killed and looted in a cpk area.  I enjoy that aspect of the mud very much.  Here, a low level thief can steal items that take so long to forge or cycle and that makes no sense.  One response is that 'you should be more careful where you switch gear at', but what about not overpowering a class?  Should level 40 avatars really have to worry about anything a level 8 char does? (no offense to any level 8 chars that may have read this post)
 
@@ -100,7 +100,7 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="17599" data-author="Thraxas" data-date="2007-03-30T08:47:48+00:00">
+<div class="post" data-post-id="17599" data-author="Thraxas" data-date="2007-03-30T08:47:48+00:00" data-subject="">
 
 I'm not going to vote, votes here are too easy to rig.
 
@@ -122,7 +122,7 @@ Feel free to flame I'm used to it.
 
 </div>
 
-<div class="post" data-post-id="17600" data-author="Avatar" data-date="2007-03-30T11:13:32+00:00">
+<div class="post" data-post-id="17600" data-author="Avatar" data-date="2007-03-30T11:13:32+00:00" data-subject="pthieving">
 
 I agree with the people here, I don't like pthieving and I've never enjoyed any aspect of it.  I certainly don't like having my stuff stolen, and I never found any fun in chasing down pthieves.  
 
@@ -130,7 +130,7 @@ We've had this discussion many times.  I don't understand the reasoning of the i
 
 </div>
 
-<div class="post" data-post-id="17601" data-author="Autolycos" data-date="2007-03-30T12:25:08+00:00">
+<div class="post" data-post-id="17601" data-author="Autolycos" data-date="2007-03-30T12:25:08+00:00" data-subject="Re: pthieving">
 
 I don't understand the reasoning of the imms in being so stubborn about not changing or fixing the pthief rules. [/quote:3khwixff]
 
@@ -140,7 +140,7 @@ Over the last 11 years this argument has been ran around the flagpole.   There i
 
 </div>
 
-<div class="post" data-post-id="17602" data-author="*Krom*" data-date="2007-03-30T13:32:57+00:00">
+<div class="post" data-post-id="17602" data-author="*Krom*" data-date="2007-03-30T13:32:57+00:00" data-subject="">
 
 I personally find it to be a blackmark on our otherwise really good mud.  It ruins the friendly, fun, comradery and laid back atmosphere of sloth.  If the admin took a vote now, it would be ruled out, but its not a democracy and there are at least a couple of key people that believe it adds another element to the game that we are better off leaving in.
 
@@ -156,7 +156,7 @@ PS players with immortal characters are prohibited from pstealing with any of th
 
 </div>
 
-<div class="post" data-post-id="17603" data-author="Weasel" data-date="2007-03-30T14:02:57+00:00">
+<div class="post" data-post-id="17603" data-author="Weasel" data-date="2007-03-30T14:02:57+00:00" data-subject="">
 
 Appreciate your support as an immort Krom. 
 
@@ -166,7 +166,7 @@ Kinda like God going around slicing everyones' achillies tendons and then saying
 
 </div>
 
-<div class="post" data-post-id="17604" data-author="Hades" data-date="2007-03-30T14:29:29+00:00">
+<div class="post" data-post-id="17604" data-author="Hades" data-date="2007-03-30T14:29:29+00:00" data-subject="Ummm">
 
 Will use weekend to argue point for pthieving..expect report Sunday.
 
@@ -176,7 +176,7 @@ Will use weekend to argue point for pthieving..expect report Sunday.
 
 </div>
 
-<div class="post" data-post-id="17607" data-author="Marchessa_red_witch" data-date="2007-03-30T15:13:16+00:00">
+<div class="post" data-post-id="17607" data-author="Marchessa_red_witch" data-date="2007-03-30T15:13:16+00:00" data-subject="Pthieving">
 
 During Chaos, on the main continents.
 
@@ -184,7 +184,7 @@ Otherwise no.
 
 </div>
 
-<div class="post" data-post-id="17608" data-author="Aeolus" data-date="2007-03-30T16:58:42+00:00">
+<div class="post" data-post-id="17608" data-author="Aeolus" data-date="2007-03-30T16:58:42+00:00" data-subject="">
 
 I've always enjoyed the generally positive social atmosphere of this MUD. Most people are very helpful. The MUD seemst to be designed for people to work together. Group xp and teaching spells are a couple examples. I think this review sums it up:
 
@@ -194,19 +194,19 @@ Pthieving is selfish and contrary to the amiable atmosphere on Sloth.
 
 </div>
 
-<div class="post" data-post-id="17609" data-author="Autolycos" data-date="2007-03-30T17:20:52+00:00">
+<div class="post" data-post-id="17609" data-author="Autolycos" data-date="2007-03-30T17:20:52+00:00" data-subject="">
 
 well said.
 
 </div>
 
-<div class="post" data-post-id="17613" data-author="13" data-date="2007-03-30T18:43:32+00:00">
+<div class="post" data-post-id="17613" data-author="13" data-date="2007-03-30T18:43:32+00:00" data-subject="">
 
 So don't be a thief, and keep stuff in your robe.
 
 </div>
 
-<div class="post" data-post-id="17614" data-author="Medios" data-date="2007-03-30T20:37:03+00:00">
+<div class="post" data-post-id="17614" data-author="Medios" data-date="2007-03-30T20:37:03+00:00" data-subject="">
 
 I wonder who used to play Myelophilistic?
 
@@ -218,7 +218,7 @@ I know way too much, ill shut up now.
 
 </div>
 
-<div class="post" data-post-id="17620" data-author="Poolp" data-date="2007-03-31T08:43:31+00:00">
+<div class="post" data-post-id="17620" data-author="Poolp" data-date="2007-03-31T08:43:31+00:00" data-subject="">
 
 Guess which I voted for!!!1111oneoneone
 
@@ -250,7 +250,7 @@ Cheers.
 
 </div>
 
-<div class="post" data-post-id="17625" data-author="Krok" data-date="2007-03-31T11:04:34+00:00">
+<div class="post" data-post-id="17625" data-author="Krok" data-date="2007-03-31T11:04:34+00:00" data-subject="">
 
 Guys, grow up. That's just Kindergarten bullshit. Every time someone gets stealed from, this stuff comes up. Deal with it and stfu. Brad, don't be ridiculous - you whine that you quit, then you come back, and my point is... that even pthieving won't stop you from playing the mud. That's it. :) 
 
@@ -258,7 +258,7 @@ Move on, let's discuss something else.
 
 </div>
 
-<div class="post" data-post-id="17626" data-author="Jag" data-date="2007-03-31T12:53:14+00:00">
+<div class="post" data-post-id="17626" data-author="Jag" data-date="2007-03-31T12:53:14+00:00" data-subject="Biggest Ptheft">
 
 I hate pthieves and it spoils the game for me.  I will log off if I know a Pthief is playing.  Quit playing altogether?  No, I'm in for the long haul.
 
@@ -270,13 +270,13 @@ This biggest thing ever pthieved on this mud is a friendly and helpful playing e
 
 </div>
 
-<div class="post" data-post-id="17627" data-author="13" data-date="2007-03-31T13:18:54+00:00">
+<div class="post" data-post-id="17627" data-author="13" data-date="2007-03-31T13:18:54+00:00" data-subject="">
 
 I read this because it said 'biggest ptheft' and I think I win the prize a couple times over.  But if we're not whipping out stories of who got what then I won't bother.  Suffice to say I got so much quest eq off of one guy that Wilde froze me and took the eq and gave it back with his Imm and then Nia wiped/remade/passworded my little pth.  Oh well.  Maybe another time.
 
 </div>
 
-<div class="post" data-post-id="17639" data-author="Weasel" data-date="2007-03-31T16:32:24+00:00">
+<div class="post" data-post-id="17639" data-author="Weasel" data-date="2007-03-31T16:32:24+00:00" data-subject="">
 
 Krok - there's an overwhelming number of players against pthieving, and they are making that very clear here. You come along with this, "grow up, stfu, deal with it, move on" bullsh*t .. well YOU stfu - just because YOU think pthieving is ok doesn't mean everyone else should do what you say (heck, you don't even play a char anymore barely). Pull your head out of your ass for five minutes - if you think pthieving is a good thing then fine, you are free to say so, but don't go abusing everyone else just because they don't agree with you. That level of arrogance is just ugly.
 
@@ -286,7 +286,7 @@ One suggestion I liked that  someone made is that characters have an option to s
 
 </div>
 
-<div class="post" data-post-id="17647" data-author="Krok" data-date="2007-03-31T19:58:46+00:00">
+<div class="post" data-post-id="17647" data-author="Krok" data-date="2007-03-31T19:58:46+00:00" data-subject="">
 
 Dear Weasel,
 
@@ -298,7 +298,7 @@ Btw, afair best players of our mud never bitched about pthieving. Let's try to b
 
 </div>
 
-<div class="post" data-post-id="17648" data-author="Weasel" data-date="2007-03-31T20:18:55+00:00">
+<div class="post" data-post-id="17648" data-author="Weasel" data-date="2007-03-31T20:18:55+00:00" data-subject="">
 
 I didn't tell anyone to do what I said, other than reacting to you by taking offense at being told to grow up, deal with it, stfu and move on by you. No, being in a minority doesn't make a person ignorant at all - I believe I said telling everyone else where to go despite the majority of players being against pthieving is arrogant, not ignorant - there's a difference.
 
@@ -310,7 +310,7 @@ Understand why I considered your original post was arrogant now?
 
 </div>
 
-<div class="post" data-post-id="17649" data-author="Alberich" data-date="2007-03-31T20:25:05+00:00">
+<div class="post" data-post-id="17649" data-author="Alberich" data-date="2007-03-31T20:25:05+00:00" data-subject="">
 
 I don't really have an opinion on this - it's been proven time and time again that regardless of opinions, it doesn't really matter what the majority of players think - fortunately, the mud is not a democracy, and I really do think that's for the best.
 
@@ -318,13 +318,13 @@ I will say, that aside from Poolp, I've seen no "pro-pthieving" posts.  Being an
 
 </div>
 
-<div class="post" data-post-id="17651" data-author="13" data-date="2007-03-31T20:42:28+00:00">
+<div class="post" data-post-id="17651" data-author="13" data-date="2007-03-31T20:42:28+00:00" data-subject="">
 
 I think it's no secret that I am pro-pthief.
 
 </div>
 
-<div class="post" data-post-id="17654" data-author="Krok" data-date="2007-03-31T21:29:44+00:00">
+<div class="post" data-post-id="17654" data-author="Krok" data-date="2007-03-31T21:29:44+00:00" data-subject="">
 
 Dear Weasel,
 
@@ -354,7 +354,7 @@ My thoughts on the topic:
 
 </div>
 
-<div class="post" data-post-id="17657" data-author="Hades" data-date="2007-03-31T22:34:13+00:00">
+<div class="post" data-post-id="17657" data-author="Hades" data-date="2007-03-31T22:34:13+00:00" data-subject="Poolp">
 
 I will acknowledge that Poolp and I are in fact, not the same person. Neither am I Fyrstenheart, Harlot,Stabber,Weasel,any of Brad's characters,Splork,Rub and/or Jake.
 
@@ -364,7 +364,7 @@ Glad I could clear things up.
 
 </div>
 
-<div class="post" data-post-id="17660" data-author="ligeia" data-date="2007-03-31T23:19:38+00:00">
+<div class="post" data-post-id="17660" data-author="ligeia" data-date="2007-03-31T23:19:38+00:00" data-subject="">
 
 I've never really had anything stolen from me, but i can sympathize. 
 
@@ -380,7 +380,7 @@ This would have the added benefit of encouraging people to group.
 
 </div>
 
-<div class="post" data-post-id="17667" data-author="Gimlet" data-date="2007-04-01T01:33:43+00:00">
+<div class="post" data-post-id="17667" data-author="Gimlet" data-date="2007-04-01T01:33:43+00:00" data-subject="">
 
 What Krok, and several others, is trying to say is
 
@@ -390,7 +390,7 @@ so stfu and quit whinnin
 
 </div>
 
-<div class="post" data-post-id="17674" data-author="Weasel" data-date="2007-04-01T06:34:24+00:00">
+<div class="post" data-post-id="17674" data-author="Weasel" data-date="2007-04-01T06:34:24+00:00" data-subject="">
 
 Thanks for the response Krok, and sorry for ranting at you before *hugs* - yes the discussion of pthieving is old, but the subject always gets me snarly. 
 
@@ -402,7 +402,7 @@ Anyway, as several people have said, it is highly unlikely anything will change 
 
 </div>
 
-<div class="post" data-post-id="17675" data-author="12345" data-date="2007-04-01T07:48:39+00:00">
+<div class="post" data-post-id="17675" data-author="12345" data-date="2007-04-01T07:48:39+00:00" data-subject="">
 
 I've debated publishing a pthief survival guide.  I never seem to get to it.  One of the things that I know got fixed was jail.  If you jail a pthief, they're done, barring someone letting them out.  You can only drop link while jailed, so they cannot bring on another char to thief with without becoming wipable.  Given that a good number of imms will use almost any excuse to give a thief a bad day, it will effectly shut them down for a while.  Webbing them in the street and waiting for the patrol to come by will do the trick.  If you can charm the patrol leader, even better.
 
@@ -442,7 +442,7 @@ I'm sure other can add more, but that's a decent start.
 
 </div>
 
-<div class="post" data-post-id="17676" data-author="Vixn" data-date="2007-04-01T10:33:05+00:00">
+<div class="post" data-post-id="17676" data-author="Vixn" data-date="2007-04-01T10:33:05+00:00" data-subject="">
 
 1. they could give you lots of junk to screw up your redress alias. you find yourself sitting with full set of eq in your inverntory and next moment you'll be pwned.
 
@@ -454,7 +454,7 @@ just my 2 cents.
 
 </div>
 
-<div class="post" data-post-id="17694" data-author="Poolp" data-date="2007-04-01T21:03:37+00:00">
+<div class="post" data-post-id="17694" data-author="Poolp" data-date="2007-04-01T21:03:37+00:00" data-subject="">
 
 I'll elaborate more on the quit! function. Good tips so far by the way.
 
@@ -476,13 +476,13 @@ I didn't know that. Thanks for the tip. I guess we're all learning something her
 
 </div>
 
-<div class="post" data-post-id="17709" data-author="Guinex" data-date="2007-04-02T07:25:40+00:00">
+<div class="post" data-post-id="17709" data-author="Guinex" data-date="2007-04-02T07:25:40+00:00" data-subject="">
 
 Killing pthieves can take away the boring grind of killing a mob 1000 times.  However i still think we need a chaos continent where we can kill/loot people :D.
 
 </div>
 
-<div class="post" data-post-id="17721" data-author="*juggleblood*" data-date="2007-04-02T13:19:43+00:00">
+<div class="post" data-post-id="17721" data-author="*juggleblood*" data-date="2007-04-02T13:19:43+00:00" data-subject="">
 
 I agree with Krom that the mechanics of the game just don't justify allowing ptheft. Just telling the players not to change  eq in the open is completely contrary to the way the game actually works.
 
@@ -506,7 +506,7 @@ Some suggestions on ways the players could be allowed to pro-actively secure the
 
 </div>
 
-<div class="post" data-post-id="17724" data-author="Elwin" data-date="2007-04-02T15:12:39+00:00">
+<div class="post" data-post-id="17724" data-author="Elwin" data-date="2007-04-02T15:12:39+00:00" data-subject="">
 
 Hello
 
@@ -520,7 +520,7 @@ Also, I spent way to much time this morning in reverie after reading Krok's comm
 
 </div>
 
-<div class="post" data-post-id="17729" data-author="Poolp" data-date="2007-04-02T16:52:23+00:00">
+<div class="post" data-post-id="17729" data-author="Poolp" data-date="2007-04-02T16:52:23+00:00" data-subject="">
 
 Wow, you're a huge fag. You're on my list.
 
@@ -528,7 +528,7 @@ BTW, hi again Guinex! Haven't seen you in awhile!
 
 </div>
 
-<div class="post" data-post-id="17767" data-author="resouh" data-date="2007-04-04T14:45:13+00:00">
+<div class="post" data-post-id="17767" data-author="resouh" data-date="2007-04-04T14:45:13+00:00" data-subject="">
 
 Back to my other mud for me:) No use in even contemplating quiting sloth but it seems like all the pro-pthief players are dusting off their thiefs and are getting back to business.  So......since I don't want to lose any of the gold that I've been cycling or deal w/ any items being stolen that I will have to replace, I will deal w/ the situation in the best way I know how, take a break and play another mud and come back in a few weeks when it's died down.
 
@@ -538,13 +538,13 @@ P.S. Poolp, ur an a$$ for the most part:) but thanks for actually giving me advi
 
 </div>
 
-<div class="post" data-post-id="17790" data-author="Medios" data-date="2007-04-04T21:46:21+00:00">
+<div class="post" data-post-id="17790" data-author="Medios" data-date="2007-04-04T21:46:21+00:00" data-subject="">
 
 Anyone else too much of a pussy?
 
 </div>
 
-<div class="post" data-post-id="17791" data-author="Poolp" data-date="2007-04-04T22:10:11+00:00">
+<div class="post" data-post-id="17791" data-author="Poolp" data-date="2007-04-04T22:10:11+00:00" data-subject="">
 
 P.S. Poolp, ur an a$$ for the most part:) but thanks for actually giving me advice etc when I was a real newb and getting me recalled etc for a raise once when I was dead on bh a long time ago. (positive reinforcement)[/quote:2fw5qm3c]
 
@@ -554,7 +554,7 @@ It's kinda sad you're leaving though, because if you're only gonna come back whe
 
 </div>
 
-<div class="post" data-post-id="17809" data-author="Jag" data-date="2007-04-05T17:08:29+00:00">
+<div class="post" data-post-id="17809" data-author="Jag" data-date="2007-04-05T17:08:29+00:00" data-subject="">
 
 Well this ended up as a lousy day.  I cycled coins for a while, that was going well enough although we all know it is a little boring.
 
@@ -568,7 +568,7 @@ Thanks Ember for trying to provide some fun.  It was fun until the Pthieves got 
 
 </div>
 
-<div class="post" data-post-id="17810" data-author="Thraxas" data-date="2007-04-05T17:33:10+00:00">
+<div class="post" data-post-id="17810" data-author="Thraxas" data-date="2007-04-05T17:33:10+00:00" data-subject="">
 
 I personally find it to be a blackmark on our otherwise really good mud.  It ruins the friendly, fun, comradery and laid back atmosphere of sloth. [/quote:92eg5wa0]
 
@@ -580,7 +580,7 @@ Couldn't agree more ... wondering if it might be time to learn how to find a new
 
 </div>
 
-<div class="post" data-post-id="17812" data-author="*juggleblood*" data-date="2007-04-05T18:00:41+00:00">
+<div class="post" data-post-id="17812" data-author="*juggleblood*" data-date="2007-04-05T18:00:41+00:00" data-subject="">
 
 Anyone else too much of a pussy?[/quote:xxnp17fi]
 
@@ -588,13 +588,13 @@ This is not the attitude thats going to increase our player base. And its exactl
 
 </div>
 
-<div class="post" data-post-id="17817" data-author="Medios" data-date="2007-04-05T21:08:44+00:00">
+<div class="post" data-post-id="17817" data-author="Medios" data-date="2007-04-05T21:08:44+00:00" data-subject="">
 
 Last time I heard it was part of the game.  If you can't deal with it then I guess Slothmud is not for you.  The admin have reiterated this 1000000000 times.  Crying, whining and the likes will change nothing.  I have no idea why they let players be run off, but it does happen.
 
 </div>
 
-<div class="post" data-post-id="17825" data-author="Poolp" data-date="2007-04-06T01:25:47+00:00">
+<div class="post" data-post-id="17825" data-author="Poolp" data-date="2007-04-06T01:25:47+00:00" data-subject="">
 
 Last time I heard it was part of the game.  If you can't deal with it then I guess Slothmud is not for you.  The admin have reiterated this 1000000000 times.  Crying, whining and the likes will change nothing.[/quote:1zn09f1q]
 
@@ -606,7 +606,7 @@ Stop bashing your immorts, whiners. They've saved the day. Or at least one of th
 
 </div>
 
-<div class="post" data-post-id="17827" data-author="Jag" data-date="2007-04-06T03:17:48+00:00">
+<div class="post" data-post-id="17827" data-author="Jag" data-date="2007-04-06T03:17:48+00:00" data-subject="">
 
 [quote:9kgfwb6u]Due to some threats followed by my fear of losing more decent pthieving characters, I'm only going to pthief one day a week. Pick a day, anyone.
 
@@ -620,7 +620,7 @@ Of course I'll only believe it when I hear from the imms.  Somehow Poolp saying 
 
 </div>
 
-<div class="post" data-post-id="17829" data-author="Poolp" data-date="2007-04-06T03:55:26+00:00">
+<div class="post" data-post-id="17829" data-author="Poolp" data-date="2007-04-06T03:55:26+00:00" data-subject="">
 
 I'll pick a day for you, Wednesday.  If pthieving can only happen on Wednesdays then I would certainly accept that and have nothing to whine about.  
 
@@ -634,7 +634,7 @@ You can believe whatever you choose to, it doesn't bother me.
 
 </div>
 
-<div class="post" data-post-id="17845" data-author="Weasel" data-date="2007-04-07T06:26:56+00:00">
+<div class="post" data-post-id="17845" data-author="Weasel" data-date="2007-04-07T06:26:56+00:00" data-subject="">
 
 Hmm.. a week away from sloth, same old same ol'. I've already stripped most of my chars to nothing and sold a lot of my eq about a month ago because I was so sick of this pthieving sh*t. I have two usable (legit) characters left for playing honestly as I have done for many years here, HOWEVER, since the immorts (or at least the one or two who dictate sloth) LOVE pthiefs so much, maybe I should just reactivate the half dozen or more chars I have at ok levels with no eq, plus the pile more I have at sub 20 and join with the two(?) existing pthieves in sloth? Clearly they are more important to this mud than the other 60 or so remaining players who haven't left yet. What's the saying - "if you can't beat 'em, join 'em"? Or is it, "if you can't beat 'em, don't play with 'em"? Either way amounts to the same thing in the end, so hey, if the powers that be are so determined to have it this way, then fine, perhaps I should just help you end this mud a little sooner. I'd probably be doing myself a favor anyway - I'd spend more time on my studies once this mud was dead (or turned into one of those hundreds of pathetic 'muds' out there that have maybe a max of 5 people on at any given time LOL).
 
@@ -646,7 +646,7 @@ Just logged in, found I had no desire to be on, and rented again. That's probabl
 
 </div>
 
-<div class="post" data-post-id="17847" data-author="Poolp" data-date="2007-04-07T09:40:30+00:00">
+<div class="post" data-post-id="17847" data-author="Poolp" data-date="2007-04-07T09:40:30+00:00" data-subject="">
 
 Weasel, pthieves have been part of this MUD for such a long time and I really don't think you're quitting because of us. You used to hunt me sometime ago and I'm sure you found it fun. I'd hate to assume it but is there something else that's driving you away from this MUD other than pthieves? Making you lose the will to play anymore, say maybe that you're getting a little bored of it?
 
@@ -658,19 +658,19 @@ But honestly if you feel like continuing that and quitting, I really wouldn't mi
 
 </div>
 
-<div class="post" data-post-id="17848" data-author="13" data-date="2007-04-07T14:38:37+00:00">
+<div class="post" data-post-id="17848" data-author="13" data-date="2007-04-07T14:38:37+00:00" data-subject="">
 
 Be more like Zarf and Zera.  Show some intestinal fortitude.  Who cares if a drink container gets stolen?  I don't know of any that are hard to get anyway and tons are downright easy to get and load every time.  If you're smart, that's all you'll allow them to get anyway.  I carry a drink container a bag for food and an opposum pouch with like flawed gem/red eye cps, 2 or 3 hexes usually a pink invitation a fishing pole a white potion and shit like that.  I carry my keychain around with me too, but I take full responsibility for it if it gets stolen.  The other shit..who cares?  What I meant to say really is just knuckle down and make it a downright shitty time to be a pth.  All of you whiners should band together and send poolp or gets or whomever back into rl for the next six months.  You could do it with constant vigilance and relocate and firestorm/pyroclasm.  Don't let two guys run you off of a game you love, fight back.
 
 </div>
 
-<div class="post" data-post-id="17850" data-author="Medios" data-date="2007-04-07T15:25:26+00:00">
+<div class="post" data-post-id="17850" data-author="Medios" data-date="2007-04-07T15:25:26+00:00" data-subject="">
 
 That's the Aaron I know.
 
 </div>
 
-<div class="post" data-post-id="17851" data-author="Leaf" data-date="2007-04-07T16:39:53+00:00">
+<div class="post" data-post-id="17851" data-author="Leaf" data-date="2007-04-07T16:39:53+00:00" data-subject="">
 
 Who cares if a drink container gets stolen?  I don't know of any that are hard to get anyway and tons are downright easy to get and load every time.[/quote:103eswvb]
 
@@ -682,13 +682,13 @@ some1 else had it or something?
 
 </div>
 
-<div class="post" data-post-id="17852" data-author="13" data-date="2007-04-07T16:50:01+00:00">
+<div class="post" data-post-id="17852" data-author="13" data-date="2007-04-07T16:50:01+00:00" data-subject="">
 
 I got the shifting dragon skull taken, and yeah it was the only one in game at the time, but it also loads fairly easily on Weylyn.  The guy ended up just giving it back actually when I asked him.
 
 </div>
 
-<div class="post" data-post-id="17853" data-author="Shazuko" data-date="2007-04-07T19:12:56+00:00">
+<div class="post" data-post-id="17853" data-author="Shazuko" data-date="2007-04-07T19:12:56+00:00" data-subject="">
 
 [quote:7tz4xwj0]Don't let two guys run you off of a game you love, fight back.[/quote:7tz4xwj0]
 
@@ -704,7 +704,7 @@ PTHIEF THE PTHIEVES!
 
 </div>
 
-<div class="post" data-post-id="17855" data-author="*juggleblood*" data-date="2007-04-07T19:39:04+00:00">
+<div class="post" data-post-id="17855" data-author="*juggleblood*" data-date="2007-04-07T19:39:04+00:00" data-subject="">
 
 if someone stole my 3x40 axe please sell it back to me
 
@@ -714,7 +714,7 @@ Rub
 
 </div>
 
-<div class="post" data-post-id="17856" data-author="Hades" data-date="2007-04-07T20:27:18+00:00">
+<div class="post" data-post-id="17856" data-author="Hades" data-date="2007-04-07T20:27:18+00:00" data-subject="Poolp has a big ole heart in that lil chest">
 
 Poolp writes:
 
@@ -730,7 +730,7 @@ require an appearance.  Unlike, Poolp, I have no conscience so take this as is.
 
 </div>
 
-<div class="post" data-post-id="17858" data-author="*juggleblood*" data-date="2007-04-07T20:49:12+00:00">
+<div class="post" data-post-id="17858" data-author="*juggleblood*" data-date="2007-04-07T20:49:12+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.slothmud.org/index.php?name= ... ht=mystery">http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=2004&highlight=mystery</LINK_TEXT>](http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=2004&highlight=mystery)
 
@@ -742,7 +742,7 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="17859" data-author="Ah_Puch" data-date="2007-04-07T21:17:24+00:00">
+<div class="post" data-post-id="17859" data-author="Ah_Puch" data-date="2007-04-07T21:17:24+00:00" data-subject="Juggleblood">
 
 Umm no... I'm not sure if Victor originally belonged to Hades in some form but when he was given to me before I made Mystery.  I played him a month maybe off and on and didn't like the char being nerfed. RE: The necro nerfing that took place some time back for those that care. So after playing Mystery awhile and really not liking druid classo I started over as Nangwaya who is  my valker and Ah Puch who is my main (now).
 
@@ -752,7 +752,7 @@ Finally, sense I may be giving Victor away to an avatar who is wanting to test-d
 
 </div>
 
-<div class="post" data-post-id="17860" data-author="Hades" data-date="2007-04-07T21:34:47+00:00">
+<div class="post" data-post-id="17860" data-author="Hades" data-date="2007-04-07T21:34:47+00:00" data-subject="ah puch is a damned liar">
 
 I never owned Victor. I don't know what your talking about.And yes, I am Mystery and good job on the detective work Juggleblood. Kill him on sight.
 
@@ -760,19 +760,19 @@ I never owned Victor. I don't know what your talking about.And yes, I am Mystery
 
 </div>
 
-<div class="post" data-post-id="17861" data-author="Hades" data-date="2007-04-07T21:38:16+00:00">
+<div class="post" data-post-id="17861" data-author="Hades" data-date="2007-04-07T21:38:16+00:00" data-subject="Victor">
 
 I know for a fact that Victor is Poolp/Fyrstenheart.  He offered to trade me that char for some boots about 2 years ago. I passed.
 
 </div>
 
-<div class="post" data-post-id="17862" data-author="Ah_Puch" data-date="2007-04-07T22:11:11+00:00">
+<div class="post" data-post-id="17862" data-author="Ah_Puch" data-date="2007-04-07T22:11:11+00:00" data-subject="Hades">
 
 Idiot
 
 </div>
 
-<div class="post" data-post-id="17865" data-author="Medios" data-date="2007-04-08T05:36:35+00:00">
+<div class="post" data-post-id="17865" data-author="Medios" data-date="2007-04-08T05:36:35+00:00" data-subject="">
 
 Rub should get a new improved personal trip40 axe at no charge.  :)
 

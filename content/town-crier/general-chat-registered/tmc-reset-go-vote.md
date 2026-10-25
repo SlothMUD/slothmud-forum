@@ -10,13 +10,13 @@ locked: false
 post_count: 45
 ---
 
-<div class="post" data-post-id="23529" data-author="Akasha" data-date="2008-04-01T08:02:00+00:00">
+<div class="post" data-post-id="23529" data-author="Akasha" data-date="2008-04-01T08:02:00+00:00" data-subject="TMC RESET ---- GO VOTE">
 
 subj
 
 </div>
 
-<div class="post" data-post-id="23531" data-author="Akasha" data-date="2008-04-01T16:09:00+00:00">
+<div class="post" data-post-id="23531" data-author="Akasha" data-date="2008-04-01T16:09:00+00:00" data-subject="">
 
 1. Wheel of Time  view stats  34  
 
@@ -30,7 +30,7 @@ subj
 
 </div>
 
-<div class="post" data-post-id="23649" data-author="firebrand" data-date="2008-04-10T14:29:44+00:00">
+<div class="post" data-post-id="23649" data-author="firebrand" data-date="2008-04-10T14:29:44+00:00" data-subject="">
 
 WE'RE NUMBER THREE!!!!!!!!!  keep up the good work guys!
 
@@ -38,7 +38,7 @@ WE'RE NUMBER THREE!!!!!!!!!  keep up the good work guys!
 
 </div>
 
-<div class="post" data-post-id="23675" data-author="Widow" data-date="2008-04-11T14:00:12+00:00">
+<div class="post" data-post-id="23675" data-author="Widow" data-date="2008-04-11T14:00:12+00:00" data-subject="">
 
 That threshhold mud is only a scant 5 votes ahead of us!
 
@@ -46,7 +46,7 @@ This is brutal. Let's get back on the charts!!
 
 </div>
 
-<div class="post" data-post-id="23696" data-author="Weasel" data-date="2008-04-12T07:41:19+00:00">
+<div class="post" data-post-id="23696" data-author="Weasel" data-date="2008-04-12T07:41:19+00:00" data-subject="">
 
 1. Dark and Shattered Lands (DSL) 	871
 
@@ -60,13 +60,13 @@ This is brutal. Let's get back on the charts!!
 
 </div>
 
-<div class="post" data-post-id="23726" data-author="Weasel" data-date="2008-04-14T12:55:09+00:00">
+<div class="post" data-post-id="23726" data-author="Weasel" data-date="2008-04-14T12:55:09+00:00" data-subject="">
 
 down to 4th now..   :evil:
 
 </div>
 
-<div class="post" data-post-id="23876" data-author="Weasel" data-date="2008-04-20T19:06:12+00:00">
+<div class="post" data-post-id="23876" data-author="Weasel" data-date="2008-04-20T19:06:12+00:00" data-subject="keep voting">
 
 *bump*
 
@@ -74,7 +74,7 @@ what little lead we gained, we are now giving back.. holding on to 3rd by only 3
 
 </div>
 
-<div class="post" data-post-id="24018" data-author="Weasel" data-date="2008-04-24T16:11:36+00:00">
+<div class="post" data-post-id="24018" data-author="Weasel" data-date="2008-04-24T16:11:36+00:00" data-subject="">
 
 don't slack off, #4 still right on our heels, and hey, pick up the pace a bit and we might catch number 2 spot.. certainly been closing the gap there, good stuff! 
 
@@ -90,7 +90,7 @@ don't slack off, #4 still right on our heels, and hey, pick up the pace a bit an
 
 </div>
 
-<div class="post" data-post-id="24042" data-author="Weasel" data-date="2008-04-26T06:03:03+00:00">
+<div class="post" data-post-id="24042" data-author="Weasel" data-date="2008-04-26T06:03:03+00:00" data-subject="we are number 2">
 
 Nice work!
 
@@ -104,13 +104,13 @@ Nice work!
 
 </div>
 
-<div class="post" data-post-id="24043" data-author="angel" data-date="2008-04-26T07:31:34+00:00">
+<div class="post" data-post-id="24043" data-author="angel" data-date="2008-04-26T07:31:34+00:00" data-subject="">
 
 go for top ranking now :)
 
 </div>
 
-<div class="post" data-post-id="24152" data-author="Weasel" data-date="2008-05-02T22:26:32+00:00">
+<div class="post" data-post-id="24152" data-author="Weasel" data-date="2008-05-02T22:26:32+00:00" data-subject="">
 
 Ok, looks like someone lit a fire under Threshhold's butt, because they are shooting up teh rankings, and in a little over 1 day have climbed from more than 50 votes behind us, to under 20 (and taken #3 spot in the process) ..best we get voting, or prepare to be dropped to #3 again ..and Wheel of Time haven't yet hit the panic button since we passed them recently either...
 
@@ -126,7 +126,7 @@ There's been quite a few virgin noobs logging on recently, so it's clearly worth
 
 </div>
 
-<div class="post" data-post-id="24153" data-author="Rynquald" data-date="2008-05-02T22:37:46+00:00">
+<div class="post" data-post-id="24153" data-author="Rynquald" data-date="2008-05-02T22:37:46+00:00" data-subject="">
 
 There's been quite a few virgin noobs logging on recently, so it's clearly worth the effort to vote to help (re)grow our player base.[/quote:1loj6oh4]
 
@@ -134,13 +134,13 @@ Definitely, it's actually quite amazing to watch how clearly the rate of new pla
 
 </div>
 
-<div class="post" data-post-id="24206" data-author="Widow" data-date="2008-05-05T13:05:58+00:00">
+<div class="post" data-post-id="24206" data-author="Widow" data-date="2008-05-05T13:05:58+00:00" data-subject="In danger of losing 2nd place! Every Vote COUNTS!">
 
 We are only a few votes from losing 2nd. Keep voting!
 
 </div>
 
-<div class="post" data-post-id="24338" data-author="Widow" data-date="2008-05-14T12:35:13+00:00">
+<div class="post" data-post-id="24338" data-author="Widow" data-date="2008-05-14T12:35:13+00:00" data-subject="Keeping our lead by 12 votes...">
 
 Hey - you're here! Why not make it a habit to just click that vote button while you're checking out the latest Random Pic/Vid?
 
@@ -148,13 +148,13 @@ We're only 12 votes from our 3rd place competition and your click counts!
 
 </div>
 
-<div class="post" data-post-id="24410" data-author="Widow" data-date="2008-05-20T17:06:00+00:00">
+<div class="post" data-post-id="24410" data-author="Widow" data-date="2008-05-20T17:06:00+00:00" data-subject="">
 
 Ok, we're only 8 votes ahead of third place. Time to rack up those votes!!
 
 </div>
 
-<div class="post" data-post-id="24461" data-author="Widow" data-date="2008-05-22T11:54:41+00:00">
+<div class="post" data-post-id="24461" data-author="Widow" data-date="2008-05-22T11:54:41+00:00" data-subject="">
 
 1. Dark and Shattered Lands (DSL) 	 view stats 	2473
 
@@ -166,7 +166,7 @@ Ok, we're only 8 votes ahead of third place. Time to rack up those votes!!
 
 </div>
 
-<div class="post" data-post-id="24521" data-author="Weasel" data-date="2008-05-27T00:33:56+00:00">
+<div class="post" data-post-id="24521" data-author="Weasel" data-date="2008-05-27T00:33:56+00:00" data-subject="">
 
 1. Dark and Shattered Lands (DSL) - 2600
 
@@ -180,7 +180,7 @@ No idea who these '3-Kingdoms' people are, but they've shot up the list faster t
 
 </div>
 
-<div class="post" data-post-id="24581" data-author="Weasel" data-date="2008-05-28T05:31:02+00:00">
+<div class="post" data-post-id="24581" data-author="Weasel" data-date="2008-05-28T05:31:02+00:00" data-subject="">
 
 1. Dark and Shattered Lands (DSL) - 2637
 
@@ -194,7 +194,7 @@ well gee, that's not very suspect or anything...
 
 </div>
 
-<div class="post" data-post-id="24642" data-author="Yinao" data-date="2008-06-01T05:20:09+00:00">
+<div class="post" data-post-id="24642" data-author="Yinao" data-date="2008-06-01T05:20:09+00:00" data-subject="">
 
 *BUMP*
 
@@ -206,7 +206,7 @@ well gee, that's not very suspect or anything...
 
 </div>
 
-<div class="post" data-post-id="24650" data-author="Yinao" data-date="2008-06-01T17:17:08+00:00">
+<div class="post" data-post-id="24650" data-author="Yinao" data-date="2008-06-01T17:17:08+00:00" data-subject="">
 
 *BUMP*
 
@@ -222,7 +222,7 @@ well gee, that's not very suspect or anything...
 
 </div>
 
-<div class="post" data-post-id="24655" data-author="Tap" data-date="2008-06-01T23:21:03+00:00">
+<div class="post" data-post-id="24655" data-author="Tap" data-date="2008-06-01T23:21:03+00:00" data-subject="">
 
 I wonder how 3-Kingdoms gets any players. I tried making a character their and it kept asking me for a valid email addy...every time I entered one, it kept asking me for a valid....
 
@@ -230,7 +230,7 @@ oh well.. I'll just vote 40-50 times and get us up there
 
 </div>
 
-<div class="post" data-post-id="24723" data-author="firebrand" data-date="2008-06-03T13:29:11+00:00">
+<div class="post" data-post-id="24723" data-author="firebrand" data-date="2008-06-03T13:29:11+00:00" data-subject="">
 
 guys we're slipping!  we held on to the number two slot for a long time and have fallen down to number 4.  VOTE!
 
@@ -238,13 +238,13 @@ guys we're slipping!  we held on to the number two slot for a long time and have
 
 </div>
 
-<div class="post" data-post-id="24725" data-author="Vixn" data-date="2008-06-03T17:22:09+00:00">
+<div class="post" data-post-id="24725" data-author="Vixn" data-date="2008-06-03T17:22:09+00:00" data-subject="">
 
 keep slipping. i'm lovin it.
 
 </div>
 
-<div class="post" data-post-id="24763" data-author="Rosher" data-date="2008-06-07T09:02:50+00:00">
+<div class="post" data-post-id="24763" data-author="Rosher" data-date="2008-06-07T09:02:50+00:00" data-subject="">
 
 OMG....
 
@@ -338,7 +338,7 @@ source:
 
 </div>
 
-<div class="post" data-post-id="24768" data-author="Rynquald" data-date="2008-06-07T11:20:42+00:00">
+<div class="post" data-post-id="24768" data-author="Rynquald" data-date="2008-06-07T11:20:42+00:00" data-subject="">
 
 Heh, I like this part:
 
@@ -350,13 +350,13 @@ Pity that they got their playerbase interested in voting though, will be interes
 
 </div>
 
-<div class="post" data-post-id="24775" data-author="Weasel" data-date="2008-06-07T16:45:56+00:00">
+<div class="post" data-post-id="24775" data-author="Weasel" data-date="2008-06-07T16:45:56+00:00" data-subject="">
 
 Has anyone emailed this to TMC.. or is that why there was a reset recently?
 
 </div>
 
-<div class="post" data-post-id="24846" data-author="Widow" data-date="2008-06-10T20:51:41+00:00">
+<div class="post" data-post-id="24846" data-author="Widow" data-date="2008-06-10T20:51:41+00:00" data-subject="">
 
 1. 3-Kingdoms 	 view stats 	615
 
@@ -372,7 +372,7 @@ Has anyone emailed this to TMC.. or is that why there was a reset recently?
 
 </div>
 
-<div class="post" data-post-id="25683" data-author="brady" data-date="2008-08-08T12:19:41+00:00">
+<div class="post" data-post-id="25683" data-author="brady" data-date="2008-08-08T12:19:41+00:00" data-subject="">
 
 38 votes to go from 8th to 4th...
 
@@ -396,13 +396,13 @@ Has anyone emailed this to TMC.. or is that why there was a reset recently?
 
 </div>
 
-<div class="post" data-post-id="25684" data-author="jezer" data-date="2008-08-08T16:32:07+00:00">
+<div class="post" data-post-id="25684" data-author="jezer" data-date="2008-08-08T16:32:07+00:00" data-subject="">
 
 This thread makes the counting one look like a cheap copy.
 
 </div>
 
-<div class="post" data-post-id="25695" data-author="reboog" data-date="2008-08-09T10:50:23+00:00">
+<div class="post" data-post-id="25695" data-author="reboog" data-date="2008-08-09T10:50:23+00:00" data-subject="">
 
 38 votes to go from 8th to 4th...
 
@@ -428,7 +428,7 @@ This thread makes the counting one look like a cheap copy.
 
 </div>
 
-<div class="post" data-post-id="25844" data-author="Widow" data-date="2008-08-20T14:20:46+00:00">
+<div class="post" data-post-id="25844" data-author="Widow" data-date="2008-08-20T14:20:46+00:00" data-subject="">
 
 It's a no brainer to click on the Vote icon on the home page. But can we get other peoples on the mud to vote or get them to use other computers or IP addresses? Come on people, we need to be in the top 5!!
 
@@ -446,7 +446,7 @@ It's a no brainer to click on the Vote icon on the home page. But can we get oth
 
 </div>
 
-<div class="post" data-post-id="25859" data-author="brady" data-date="2008-08-22T00:26:37+00:00">
+<div class="post" data-post-id="25859" data-author="brady" data-date="2008-08-22T00:26:37+00:00" data-subject="">
 
 Good votes.
 
@@ -464,7 +464,7 @@ Good votes.
 
 </div>
 
-<div class="post" data-post-id="26390" data-author="brady" data-date="2008-09-18T13:30:57+00:00">
+<div class="post" data-post-id="26390" data-author="brady" data-date="2008-09-18T13:30:57+00:00" data-subject="">
 
 1. 3-Kingdoms  view stats  3625  
 
@@ -480,7 +480,7 @@ Good votes.
 
 </div>
 
-<div class="post" data-post-id="26514" data-author="Falsra" data-date="2008-10-01T06:12:06+00:00">
+<div class="post" data-post-id="26514" data-author="Falsra" data-date="2008-10-01T06:12:06+00:00" data-subject="">
 
 We are Nr. 1691! Go Vote!
 
@@ -492,7 +492,7 @@ so i even do not know if my votes counted or not.
 
 </div>
 
-<div class="post" data-post-id="26691" data-author="Weasel" data-date="2008-10-14T20:44:48+00:00">
+<div class="post" data-post-id="26691" data-author="Weasel" data-date="2008-10-14T20:44:48+00:00" data-subject="">
 
 we're kinda sucking, so vote please:
 
@@ -518,7 +518,7 @@ we're kinda sucking, so vote please:
 
 </div>
 
-<div class="post" data-post-id="26880" data-author="brady" data-date="2008-10-29T11:42:25+00:00">
+<div class="post" data-post-id="26880" data-author="brady" data-date="2008-10-29T11:42:25+00:00" data-subject="">
 
 Take a second to vote.
 
@@ -542,7 +542,7 @@ Mud Name Connection Stats Votes Cast
 
 </div>
 
-<div class="post" data-post-id="27142" data-author="brady" data-date="2008-11-11T13:27:43+00:00">
+<div class="post" data-post-id="27142" data-author="brady" data-date="2008-11-11T13:27:43+00:00" data-subject="">
 
 Mud Name Connection Stats Votes Cast 
 
@@ -564,7 +564,7 @@ Mud Name Connection Stats Votes Cast
 
 </div>
 
-<div class="post" data-post-id="27333" data-author="Jag" data-date="2008-12-01T14:08:44+00:00">
+<div class="post" data-post-id="27333" data-author="Jag" data-date="2008-12-01T14:08:44+00:00" data-subject="">
 
 The vote was just reset.
 
@@ -572,7 +572,7 @@ The vote was just reset.
 
 </div>
 
-<div class="post" data-post-id="27542" data-author="brady" data-date="2008-12-27T14:17:42+00:00">
+<div class="post" data-post-id="27542" data-author="brady" data-date="2008-12-27T14:17:42+00:00" data-subject="">
 
 Boooo!
 
@@ -606,7 +606,7 @@ Mud Name 	Connection Stats 	Votes Cast
 
 </div>
 
-<div class="post" data-post-id="27695" data-author="brady" data-date="2009-01-12T13:47:07+00:00">
+<div class="post" data-post-id="27695" data-author="brady" data-date="2009-01-12T13:47:07+00:00" data-subject="">
 
 Back to sucking...
 
@@ -638,7 +638,7 @@ Mud Name Connection Stats Votes Cast
 
 </div>
 
-<div class="post" data-post-id="27713" data-author="Yasik2" data-date="2009-01-14T07:22:42+00:00">
+<div class="post" data-post-id="27713" data-author="Yasik2" data-date="2009-01-14T07:22:42+00:00" data-subject="">
 
 Looks like the TMC gyze now can has an LOGO...
 
@@ -646,7 +646,7 @@ Do we have an LOGO?
 
 </div>
 
-<div class="post" data-post-id="27884" data-author="Widow" data-date="2009-01-27T11:04:59+00:00">
+<div class="post" data-post-id="27884" data-author="Widow" data-date="2009-01-27T11:04:59+00:00" data-subject="So quit reading this post and VOTE already!">
 
 1. Dark and Shattered Lands (DSL) 	 view stats 	3954
 
@@ -680,13 +680,13 @@ Do we have an LOGO?
 
 </div>
 
-<div class="post" data-post-id="27962" data-author="Vixn" data-date="2009-02-01T10:48:00+00:00">
+<div class="post" data-post-id="27962" data-author="Vixn" data-date="2009-02-01T10:48:00+00:00" data-subject="TMC reset.">
 
 Go vote for Slothmud!
 
 </div>
 
-<div class="post" data-post-id="28156" data-author="brady" data-date="2009-02-17T12:32:58+00:00">
+<div class="post" data-post-id="28156" data-author="brady" data-date="2009-02-17T12:32:58+00:00" data-subject="">
 
 Keep up the votes!
 
@@ -708,7 +708,7 @@ Keep up the votes!
 
 </div>
 
-<div class="post" data-post-id="28214" data-author="Toxis" data-date="2009-02-19T13:06:22+00:00">
+<div class="post" data-post-id="28214" data-author="Toxis" data-date="2009-02-19T13:06:22+00:00" data-subject="">
 
 Back to #6, I feel like the old days when we jumped up the charts to number one and held it for the longest time.  Good work and thank you for your support.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35946" data-author="cyprimus" data-date="2015-06-12T03:39:44+00:00">
+<div class="post" data-post-id="35946" data-author="cyprimus" data-date="2015-06-12T03:39:44+00:00" data-subject="random disconnects">
 
 I have been getting disconnected from the game for the last few weeks.. several others i talked to have had the same problem. 
 
@@ -24,7 +24,7 @@ Also. always when i try and reconnect it boots me again at the 'y' prompt.. then
 
 </div>
 
-<div class="post" data-post-id="35947" data-author="Filk" data-date="2015-06-12T05:20:09+00:00">
+<div class="post" data-post-id="35947" data-author="Filk" data-date="2015-06-12T05:20:09+00:00" data-subject="Re: random disconnects">
 
 I have no such problems these days.
 

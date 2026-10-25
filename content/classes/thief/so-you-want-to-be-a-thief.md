@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="28000" data-author="marge" data-date="2009-02-05T16:51:42+00:00">
+<div class="post" data-post-id="28000" data-author="marge" data-date="2009-02-05T16:51:42+00:00" data-subject="So you want to be a thief.">
 
 The primary function of the thief class is dishing out death. In solo play or in a group, backstab and circlestab are a thief's best friend. Thieves are nice for running small group xp or solo xp or coins. Thieves are also welcome in groups as a good stab will open the mob up to greatly enhanced damage for several rounds. So a big group can drop a very large mob fairly quickly if the thief lands an exceptional stab. It's a fun class to play if you don't mind dying a lot and like a fast pace. 
 

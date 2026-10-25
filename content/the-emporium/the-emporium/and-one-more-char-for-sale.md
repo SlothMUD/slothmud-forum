@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2443" data-author="Leizu" data-date="2004-10-25T19:22:31+00:00">
+<div class="post" data-post-id="2443" data-author="Leizu" data-date="2004-10-25T19:22:31+00:00" data-subject="and one more char for sale :)">
 
 everyone knows that druids are the best of the best of the best of the best and so on.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34520" data-author="*Neptune*" data-date="2013-10-27T20:29:45+00:00">
+<div class="post" data-post-id="34520" data-author="*Neptune*" data-date="2013-10-27T20:29:45+00:00" data-subject="Nice Who List">
 
 Lookin' good, guys!
 

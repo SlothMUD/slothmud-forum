@@ -10,7 +10,7 @@ locked: false
 post_count: 24
 ---
 
-<div class="post" data-post-id="9961" data-author="Clink" data-date="2006-01-03T19:35:07+00:00">
+<div class="post" data-post-id="9961" data-author="Clink" data-date="2006-01-03T19:35:07+00:00" data-subject="Design upgrade">
 
 We are potentially going to be updating the website by doing some changes with where content is available.
 
@@ -24,7 +24,7 @@ Or would it be better just to have things like auctions on their own pages and n
 
 </div>
 
-<div class="post" data-post-id="9962" data-author="Guinex" data-date="2006-01-03T19:56:44+00:00">
+<div class="post" data-post-id="9962" data-author="Guinex" data-date="2006-01-03T19:56:44+00:00" data-subject="">
 
 My thoughts are all for perfomance on the web, I don't really care how easy it is to click on something since i generally have about 10-15 tabs open on mozilla.  I am for whatever makes things run faster, i.e. Top 20 List is slower than molasses in January.
 
@@ -38,7 +38,7 @@ Gman
 
 </div>
 
-<div class="post" data-post-id="9963" data-author="Alberich" data-date="2006-01-03T20:47:42+00:00">
+<div class="post" data-post-id="9963" data-author="Alberich" data-date="2006-01-03T20:47:42+00:00" data-subject="">
 
 don't know how much extra work it would be but I really like the idea of configurable-type homepages.  I'm sure everyone looks primarily at different things first, and it'd be a shame to lose stuff that we might like to have at a glance (open auctions comes to mind) vs stuff that we might only look at occasionally (live who list and such), and this obviously isn't going to be the same for everyone - I'm sure that there is probably someone who looks at the 'who's grouping' lists, for example, but it certainly isn't me :)
 
@@ -46,7 +46,7 @@ Also... RSS for forums/auctions?  Gotta love getting outbid with 10 mins to go o
 
 </div>
 
-<div class="post" data-post-id="9964" data-author="12345" data-date="2006-01-03T22:12:13+00:00">
+<div class="post" data-post-id="9964" data-author="12345" data-date="2006-01-03T22:12:13+00:00" data-subject="">
 
 I have my resolution set insanely high so I generally don't have a problem with the way things are now, and wintin doesn't use enough bandwidth that I care about page size.
 
@@ -60,13 +60,13 @@ Or maybe that whole idea sucks :)
 
 </div>
 
-<div class="post" data-post-id="9965" data-author="Weasel" data-date="2006-01-04T01:37:28+00:00">
+<div class="post" data-post-id="9965" data-author="Weasel" data-date="2006-01-04T01:37:28+00:00" data-subject="">
 
 I'm just trying to figure out if "Yes - just give me what you got" and "Leave it the way it is" mean the same thing...
 
 </div>
 
-<div class="post" data-post-id="9970" data-author="blackmore" data-date="2006-01-04T05:11:01+00:00">
+<div class="post" data-post-id="9970" data-author="blackmore" data-date="2006-01-04T05:11:01+00:00" data-subject="">
 
 I think the current site has issues that would be nice to fix, but it's mostly pretty good.  It's busy, but most of the information has a good reason for being there.   I think the biggest issue is the overhead the site contains.  Some of that can be reduced by cleaning up the contents on the home page, but  I think a lot of it's just the way the site's built.
 
@@ -76,7 +76,7 @@ As for the poll, I'm all for letting each user decide what they want, but I'm no
 
 </div>
 
-<div class="post" data-post-id="9971" data-author="Clink" data-date="2006-01-04T15:06:21+00:00">
+<div class="post" data-post-id="9971" data-author="Clink" data-date="2006-01-04T15:06:21+00:00" data-subject="">
 
 ... and could give feedback if nothing else.
 
@@ -90,19 +90,19 @@ Just for you, I'll make a special login that make the site look like this[/url:1
 
 </div>
 
-<div class="post" data-post-id="9973" data-author="Grue" data-date="2006-01-04T17:26:30+00:00">
+<div class="post" data-post-id="9973" data-author="Grue" data-date="2006-01-04T17:26:30+00:00" data-subject="">
 
 Actually I thought Weasel's point was pretty valid, I couldn't work out what the poll was really asking either. Dont the first and last questions mean the same thing, or does the first one mean "Just give me what you think is best?"
 
 </div>
 
-<div class="post" data-post-id="9975" data-author="12345" data-date="2006-01-04T17:35:48+00:00">
+<div class="post" data-post-id="9975" data-author="12345" data-date="2006-01-04T17:35:48+00:00" data-subject="">
 
 The first one is pretty bad.  Dependiing how you interpret it, it can mean the same thing as either of the last two.  I took the easy way out and didn't click on any of them :P
 
 </div>
 
-<div class="post" data-post-id="9976" data-author="Weasel" data-date="2006-01-04T18:38:08+00:00">
+<div class="post" data-post-id="9976" data-author="Weasel" data-date="2006-01-04T18:38:08+00:00" data-subject="">
 
 I'll put it another way then Clink - I think that what you and whoever else has worked on the current site design have achieved to date is great and I see nothing wrong with it. If you wish to alter it, I trust your judgement - I know from years of website design I like to change site layouts every now and then just because I enjoy doing it, not neccesarily because it's required, so if you feel like changing things around then by all means go for it. Alternatively, you may wish to visit the same place you referred me to. 
 
@@ -110,7 +110,7 @@ I'll put it another way then Clink - I think that what you and whoever else has 
 
 </div>
 
-<div class="post" data-post-id="9978" data-author="Clink" data-date="2006-01-04T19:08:05+00:00">
+<div class="post" data-post-id="9978" data-author="Clink" data-date="2006-01-04T19:08:05+00:00" data-subject="">
 
 or does the first one mean "Just give me what you think is best?"[/quote:2yrqshed]
 
@@ -118,7 +118,7 @@ Yes.  That is a much more disambiguously non-incoherent way of restating what I 
 
 </div>
 
-<div class="post" data-post-id="9979" data-author="blackmore" data-date="2006-01-04T19:59:15+00:00">
+<div class="post" data-post-id="9979" data-author="blackmore" data-date="2006-01-04T19:59:15+00:00" data-subject="">
 
 Unfortunately, I don't have time to conduct interviews right now.  This is the time and place for feedback if there is a desire to have any impact on the site for the next 6-12 months.
 
@@ -144,7 +144,7 @@ That's good for right now.  Those come to mind immediately.  I'm not sure what s
 
 </div>
 
-<div class="post" data-post-id="9980" data-author="Clink" data-date="2006-01-04T20:17:42+00:00">
+<div class="post" data-post-id="9980" data-author="Clink" data-date="2006-01-04T20:17:42+00:00" data-subject="">
 
 I'm sick of logging on and checking "remember me" every single day.
 
@@ -190,7 +190,7 @@ Nuts.  I was planning on adding "It's A Small World" to every page.  Would some 
 
 </div>
 
-<div class="post" data-post-id="9981" data-author="blackmore" data-date="2006-01-04T20:37:06+00:00">
+<div class="post" data-post-id="9981" data-author="blackmore" data-date="2006-01-04T20:37:06+00:00" data-subject="">
 
 I'm sick of logging on and checking "remember me" every single day.
 
@@ -222,7 +222,7 @@ Could you also email my boss with a message titled "Dean is wasting more time?" 
 
 </div>
 
-<div class="post" data-post-id="9982" data-author="Grue" data-date="2006-01-04T20:37:22+00:00">
+<div class="post" data-post-id="9982" data-author="Grue" data-date="2006-01-04T20:37:22+00:00" data-subject="">
 
 One more thing. At the moment if you try to log in while in a thread it won't allow you to, you have to log in using the username and password at the bottom left of the page. It would be nice if either both worked or the option to login as part of the message response options was eliminated.
 
@@ -238,7 +238,7 @@ Grue
 
 </div>
 
-<div class="post" data-post-id="9983" data-author="blackmore" data-date="2006-01-04T20:42:44+00:00">
+<div class="post" data-post-id="9983" data-author="blackmore" data-date="2006-01-04T20:42:44+00:00" data-subject="">
 
 Maybe it is hidden somewhere, but I would like to see the dressing room come back, preferably somehow built off the current EQ list.
 
@@ -248,7 +248,7 @@ The old dressing room had to have equipment added manually, from what I was told
 
 </div>
 
-<div class="post" data-post-id="9984" data-author="Grue" data-date="2006-01-04T20:44:22+00:00">
+<div class="post" data-post-id="9984" data-author="Grue" data-date="2006-01-04T20:44:22+00:00" data-subject="">
 
 "The stupid plus/minus signs on the left side panel. They don't work. They also serve no useful purpose. "
 
@@ -264,7 +264,7 @@ Grue
 
 </div>
 
-<div class="post" data-post-id="9985" data-author="Grue" data-date="2006-01-04T20:49:30+00:00">
+<div class="post" data-post-id="9985" data-author="Grue" data-date="2006-01-04T20:49:30+00:00" data-subject="">
 
 "The old dressing room had to have equipment added manually, from what I was told. In order for it to be practical to have a dressing room, the eqlist database would need to be rebuilt to be able to classify effects that the dressing room can read. Currently most of that's just in freeform text."
 
@@ -274,7 +274,7 @@ Grue
 
 </div>
 
-<div class="post" data-post-id="9986" data-author="blackmore" data-date="2006-01-04T21:35:45+00:00">
+<div class="post" data-post-id="9986" data-author="blackmore" data-date="2006-01-04T21:35:45+00:00" data-subject="">
 
 "The stupid plus/minus signs on the left side panel. They don't work. They also serve no useful purpose. "
 
@@ -286,7 +286,7 @@ These are the ones I'm referring to.  I did some more checking, and they sort of
 
 </div>
 
-<div class="post" data-post-id="9987" data-author="blackmore" data-date="2006-01-04T21:48:45+00:00">
+<div class="post" data-post-id="9987" data-author="blackmore" data-date="2006-01-04T21:48:45+00:00" data-subject="">
 
 "The old dressing room had to have equipment added manually, from what I was told. In order for it to be practical to have a dressing room, the eqlist database would need to be rebuilt to be able to classify effects that the dressing room can read. Currently most of that's just in freeform text."
 
@@ -298,7 +298,7 @@ It's all data, sure it's doable.  It involves rewriting the eqlist input and out
 
 </div>
 
-<div class="post" data-post-id="9988" data-author="Clink" data-date="2006-01-04T23:00:37+00:00">
+<div class="post" data-post-id="9988" data-author="Clink" data-date="2006-01-04T23:00:37+00:00" data-subject="">
 
 ...The stupid plus/minus signs on the left side panel. ....
 
@@ -310,7 +310,7 @@ Also I changed the settings so you shouldn't be logged out at all.  If you still
 
 </div>
 
-<div class="post" data-post-id="9989" data-author="Avatar" data-date="2006-01-05T14:21:36+00:00">
+<div class="post" data-post-id="9989" data-author="Avatar" data-date="2006-01-05T14:21:36+00:00" data-subject="Website Design">
 
 [quote:2htqyynr]Blackmore:  The old dressing room had to have equipment added manually, from what I was told. In order for it to be practical to have a dressing room, the eqlist database would need to be rebuilt to be able to classify effects that the dressing room can read. Currently most of that's just in freeform text.[/quote:2htqyynr]
 
@@ -322,7 +322,7 @@ charles
 
 </div>
 
-<div class="post" data-post-id="9992" data-author="brand" data-date="2006-01-06T18:44:39+00:00">
+<div class="post" data-post-id="9992" data-author="brand" data-date="2006-01-06T18:44:39+00:00" data-subject="">
 
 a drop down menu for continents in for the map room link would save me about 5 seconds every time i use it...
 
@@ -330,7 +330,7 @@ a drop down menu for continents in for the map room link would save me about 5 s
 
 </div>
 
-<div class="post" data-post-id="10000" data-author="12345" data-date="2006-01-07T23:47:08+00:00">
+<div class="post" data-post-id="10000" data-author="12345" data-date="2006-01-07T23:47:08+00:00" data-subject="">
 
 a drop down menu for continents in for the map room link would save me about 5 seconds every time i use it...
 

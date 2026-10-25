@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34262" data-author="Yasik" data-date="2013-04-27T10:39:56+00:00">
+<div class="post" data-post-id="34262" data-author="Yasik" data-date="2013-04-27T10:39:56+00:00" data-subject="&amp;quot;Mark all topics read&amp;quot; upward">
 
 ... would be useful imo, atm its located down, so we must scroll to the bottom of the page to mark it.
 

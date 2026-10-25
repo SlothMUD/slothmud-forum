@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="7287" data-author="Ozzy" data-date="2005-06-17T04:24:17+00:00">
+<div class="post" data-post-id="7287" data-author="Ozzy" data-date="2005-06-17T04:24:17+00:00" data-subject="Rewards of True Loyalty &gt;:]">
 
 [img:3phcqh7y]http://yasik.mci.kiev.ua/godsanc.jpg[/img:3phcqh7y]
 
@@ -18,13 +18,13 @@ I hope THIS TIME everybody got the idea about 'Who to worship?"  :twisted:
 
 </div>
 
-<div class="post" data-post-id="7292" data-author="Gnu" data-date="2005-06-17T08:25:57+00:00">
+<div class="post" data-post-id="7292" data-author="Gnu" data-date="2005-06-17T08:25:57+00:00" data-subject="">
 
 [http://encyclopedia.thefreedictionary.com/god](http://encyclopedia.thefreedictionary.com/god)
 
 </div>
 
-<div class="post" data-post-id="7294" data-author="Vixn" data-date="2005-06-17T08:43:27+00:00">
+<div class="post" data-post-id="7294" data-author="Vixn" data-date="2005-06-17T08:43:27+00:00" data-subject="">
 
 "Arguments from morality contend that the existence of 'good' and 'evil' imply the existence of God." 
 
@@ -36,13 +36,13 @@ p.s. Voting argument contend that the necessity of vote reminding imply the exis
 
 </div>
 
-<div class="post" data-post-id="7299" data-author="Autolycos" data-date="2005-06-17T11:51:04+00:00">
+<div class="post" data-post-id="7299" data-author="Autolycos" data-date="2005-06-17T11:51:04+00:00" data-subject="">
 
 and the actual point of this post was?
 
 </div>
 
-<div class="post" data-post-id="7302" data-author="Leaf" data-date="2005-06-17T12:58:52+00:00">
+<div class="post" data-post-id="7302" data-author="Leaf" data-date="2005-06-17T12:58:52+00:00" data-subject="">
 
 What kind of stats does Ozzy have???
 
@@ -50,7 +50,7 @@ Looks pretty good, but not sure if u have alot of +str eq or just ac...
 
 </div>
 
-<div class="post" data-post-id="7303" data-author="13" data-date="2005-06-17T13:53:39+00:00">
+<div class="post" data-post-id="7303" data-author="13" data-date="2005-06-17T13:53:39+00:00" data-subject="">
 
 The point was that Blaster's godrain only affects his followers...which is fucked, because half of the immortals you can worship haven't played
 
@@ -58,7 +58,7 @@ in years.
 
 </div>
 
-<div class="post" data-post-id="7309" data-author="Blaster" data-date="2005-06-17T16:17:47+00:00">
+<div class="post" data-post-id="7309" data-author="Blaster" data-date="2005-06-17T16:17:47+00:00" data-subject="">
 
 The point was that Blaster's godrain only affects his followers...which is fucked, because half of the immortals you can worship haven't played
 
@@ -74,13 +74,13 @@ Blaster the very soon to be an army soldier once again!
 
 </div>
 
-<div class="post" data-post-id="7310" data-author="13" data-date="2005-06-17T16:22:15+00:00">
+<div class="post" data-post-id="7310" data-author="13" data-date="2005-06-17T16:22:15+00:00" data-subject="">
 
 there were a few people who didnt get hit with the godrain yesterday and also werent sanced..i know for sure i didnt.
 
 </div>
 
-<div class="post" data-post-id="7311" data-author="12345" data-date="2005-06-17T16:29:53+00:00">
+<div class="post" data-post-id="7311" data-author="12345" data-date="2005-06-17T16:29:53+00:00" data-subject="">
 
 Blaster the very soon to be an army soldier once again![/quote:1lvcclcz]
 
@@ -88,7 +88,7 @@ Which MOS?
 
 </div>
 
-<div class="post" data-post-id="7312" data-author="Blaster" data-date="2005-06-17T16:33:46+00:00">
+<div class="post" data-post-id="7312" data-author="Blaster" data-date="2005-06-17T16:33:46+00:00" data-subject="">
 
 there were a few people who didnt get hit with the godrain yesterday and also werent sanced..i know for sure i didnt.[/quote:1w3lwssl]
 
@@ -110,7 +110,7 @@ Blaster
 
 </div>
 
-<div class="post" data-post-id="7313" data-author="Akasha2" data-date="2005-06-17T16:39:41+00:00">
+<div class="post" data-post-id="7313" data-author="Akasha2" data-date="2005-06-17T16:39:41+00:00" data-subject="">
 
 Not to ruin the ingame affect, but a godrain does several different things.  If you're about dead it will restore you to full health instead of sancing you,  if you are dead, it gives you a very small chance of a self raise, otherwise it gives you a aegis/cloak.  The old version that I rewrote used to have an exclusionary clause for certain people, but I removed that because I didn't feel that personal grudges shouldn't play into this.  So if you didn't get a sanc from it, you probably were in one of the 2 previous conditions.  No one is excluded - in the version I wrote at least.
 
@@ -118,7 +118,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="7315" data-author="13" data-date="2005-06-17T17:52:03+00:00">
+<div class="post" data-post-id="7315" data-author="13" data-date="2005-06-17T17:52:03+00:00" data-subject="">
 
 I dunno what to tell you man, I was playing Mustang and standing at the
 

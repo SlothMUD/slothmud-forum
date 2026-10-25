@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33163" data-author="*Splork*" data-date="2012-02-19T16:48:20+00:00">
+<div class="post" data-post-id="33163" data-author="*Splork*" data-date="2012-02-19T16:48:20+00:00" data-subject="few small changes">
 
 1) New color set option for save spells
 
@@ -40,7 +40,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35868" data-author="*Splork*" data-date="2015-04-29T01:35:06+00:00">
+<div class="post" data-post-id="35868" data-author="*Splork*" data-date="2015-04-29T01:35:06+00:00" data-subject="Re: few small changes">
 
 I wanted to bump this thread because there has been much debate in our game regarding saves vs spell damage eq. I totally forgot that I added this awhile back and made some incorrect statements yesterday stating that there is currently no way to know if you are bypassing a mob's saves and gaining full damage with your spells. 
 

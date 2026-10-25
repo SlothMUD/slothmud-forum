@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="13666" data-author="Hades" data-date="2006-08-03T00:52:10+00:00">
+<div class="post" data-post-id="13666" data-author="Hades" data-date="2006-08-03T00:52:10+00:00" data-subject="Breaking News">
 
 The Settlestone Herald has an exclusive dealing with the infamous pirate known as Autolycos.  Several guards from King Granitecrusher court reported at about 2am, Autolycos was spotted leaving a dinner party given in His Majestiy's honor.  Several other patrons tried to stop Autolycos from leaving in a much inebriated state to no avail.  A couple of guards were dispatched to tail after Autolycos to make sure he arrived at his destination without trouble.
 
@@ -24,7 +24,7 @@ the <expletive> curse of civilization, you should all <expletive>die" was shoute
 
 </div>
 
-<div class="post" data-post-id="13667" data-author="Autolycos" data-date="2006-08-03T01:43:22+00:00">
+<div class="post" data-post-id="13667" data-author="Autolycos" data-date="2006-08-03T01:43:22+00:00" data-subject="">
 
 heh, i'm glad i can be an inspiration for all  :twisted: 
 
@@ -32,7 +32,7 @@ ps..  STFU!!!!
 
 </div>
 
-<div class="post" data-post-id="13668" data-author="Hades" data-date="2006-08-03T01:57:49+00:00">
+<div class="post" data-post-id="13668" data-author="Hades" data-date="2006-08-03T01:57:49+00:00" data-subject="More Breaking News with video">
 
 We ,at the Settlestone Herald, have  acquired video of yet another one of Autolycos' tirades.  King Granitecrusher has refused comment in light of the
 
@@ -42,13 +42,13 @@ scandal.
 
 </div>
 
-<div class="post" data-post-id="13669" data-author="Autolycos" data-date="2006-08-03T03:00:07+00:00">
+<div class="post" data-post-id="13669" data-author="Autolycos" data-date="2006-08-03T03:00:07+00:00" data-subject="">
 
 heh.. wow!   i havent seen that video of Will in a long time.. I am so happy you found it  :lol:
 
 </div>
 
-<div class="post" data-post-id="13898" data-author="Hades" data-date="2006-09-04T02:30:06+00:00">
+<div class="post" data-post-id="13898" data-author="Hades" data-date="2006-09-04T02:30:06+00:00" data-subject="Autolycos">
 
 Since you have a few days off.. I wanted to help you realize your life's dream. :twisted: 
 
@@ -56,13 +56,13 @@ Since you have a few days off.. I wanted to help you realize your life's dream. 
 
 </div>
 
-<div class="post" data-post-id="13900" data-author="Autolycos" data-date="2006-09-04T15:15:26+00:00">
+<div class="post" data-post-id="13900" data-author="Autolycos" data-date="2006-09-04T15:15:26+00:00" data-subject="">
 
 heh, nice to know you have plenty of free time
 
 </div>
 
-<div class="post" data-post-id="13925" data-author="Diazz_Dizazter" data-date="2006-09-07T13:37:39+00:00">
+<div class="post" data-post-id="13925" data-author="Diazz_Dizazter" data-date="2006-09-07T13:37:39+00:00" data-subject="">
 
 Breaking news #1:  Paris arrest for dui!!
 
@@ -70,7 +70,7 @@ Breaking news #2: mud appears to be froze
 
 </div>
 
-<div class="post" data-post-id="17095" data-author="Hades" data-date="2007-02-24T19:14:34+00:00">
+<div class="post" data-post-id="17095" data-author="Hades" data-date="2007-02-24T19:14:34+00:00" data-subject="Autolycos the Idiot Savant">
 
 Auto is tenacious. He won't give up.  White people can't dance, yo!
 
@@ -78,7 +78,7 @@ Auto is tenacious. He won't give up.  White people can't dance, yo!
 
 </div>
 
-<div class="post" data-post-id="17096" data-author="12345" data-date="2007-02-25T00:14:09+00:00">
+<div class="post" data-post-id="17096" data-author="12345" data-date="2007-02-25T00:14:09+00:00" data-subject="">
 
 Yeah... Auto can't dance nearly as well as Hades can sing...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="16623" data-author="12345" data-date="2007-02-02T17:42:01+00:00">
+<div class="post" data-post-id="16623" data-author="12345" data-date="2007-02-02T17:42:01+00:00" data-subject="Most Ironic">
 
 And the award for Most Ironic Gossip Ever goes to Al!
 
@@ -18,7 +18,7 @@ And the award for Most Ironic Gossip Ever goes to Al!
 
 </div>
 
-<div class="post" data-post-id="16624" data-author="Briar" data-date="2007-02-02T17:44:09+00:00">
+<div class="post" data-post-id="16624" data-author="Briar" data-date="2007-02-02T17:44:09+00:00" data-subject="">
 
 thank you thank you
 
@@ -26,7 +26,7 @@ where's my trophy
 
 </div>
 
-<div class="post" data-post-id="16625" data-author="12345" data-date="2007-02-02T17:46:07+00:00">
+<div class="post" data-post-id="16625" data-author="12345" data-date="2007-02-02T17:46:07+00:00" data-subject="">
 
 Right here:
 
@@ -34,13 +34,13 @@ Right here:
 
 </div>
 
-<div class="post" data-post-id="16636" data-author="Briar" data-date="2007-02-03T10:14:30+00:00">
+<div class="post" data-post-id="16636" data-author="Briar" data-date="2007-02-03T10:14:30+00:00" data-subject="">
 
 you ass
 
 </div>
 
-<div class="post" data-post-id="16641" data-author="Autolycos" data-date="2007-02-05T04:26:05+00:00">
+<div class="post" data-post-id="16641" data-author="Autolycos" data-date="2007-02-05T04:26:05+00:00" data-subject="WOW!  a 2084hp head chop!!">
 
 <1024hp 155ma 263mv>
 
@@ -56,7 +56,7 @@ Now thats a CHOP!!!! :twisted:
 
 </div>
 
-<div class="post" data-post-id="16643" data-author="banedon" data-date="2007-02-05T07:00:28+00:00">
+<div class="post" data-post-id="16643" data-author="banedon" data-date="2007-02-05T07:00:28+00:00" data-subject="Re: WOW!  a 2084hp head chop!!">
 
 <1024hp 155ma 263mv>
 
@@ -76,7 +76,7 @@ banedon
 
 </div>
 
-<div class="post" data-post-id="16644" data-author="Autolycos" data-date="2007-02-05T13:42:23+00:00">
+<div class="post" data-post-id="16644" data-author="Autolycos" data-date="2007-02-05T13:42:23+00:00" data-subject="Re: WOW!  a 2084hp head chop!!">
 
 SOMEONE TEST THAT CHARACTER FOR STEROIDS!!!!!!!!
 
@@ -88,7 +88,7 @@ next time.. let's try the mob mmkay?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16652" data-author="van" data-date="2007-02-06T02:52:24+00:00">
+<div class="post" data-post-id="16652" data-author="van" data-date="2007-02-06T02:52:24+00:00" data-subject="Re: WOW!  a 2084hp head chop!!">
 
 [quote:j5et2hb2]laugh!   I was more impressed that Van could even land a chop!!!!
 
@@ -102,13 +102,13 @@ On the other hand, he chopped himself 3 times too...
 
 </div>
 
-<div class="post" data-post-id="16654" data-author="alias" data-date="2007-02-06T06:19:38+00:00">
+<div class="post" data-post-id="16654" data-author="alias" data-date="2007-02-06T06:19:38+00:00" data-subject="">
 
 When you stick your neck out that far it makes a nice target.
 
 </div>
 
-<div class="post" data-post-id="16657" data-author="Autolycos" data-date="2007-02-06T14:02:09+00:00">
+<div class="post" data-post-id="16657" data-author="Autolycos" data-date="2007-02-06T14:02:09+00:00" data-subject="">
 
 snicker
 

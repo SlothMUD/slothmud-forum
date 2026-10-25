@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31060" data-author="*Splork*" data-date="2010-04-17T13:01:28+00:00">
+<div class="post" data-post-id="31060" data-author="*Splork*" data-date="2010-04-17T13:01:28+00:00" data-subject="Group changes">
 
 Since the inception of the front/back row fighting scheme, I think we have all known it has been broke due to the fact there were no repercussions to the back row players being tossed into the front. Now that the playerbase has grown and there are plenty of high level and front row players, the time to fix this has come. 
 

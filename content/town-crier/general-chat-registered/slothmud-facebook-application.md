@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="27977" data-author="*Splork*" data-date="2009-02-04T03:05:15+00:00">
+<div class="post" data-post-id="27977" data-author="*Splork*" data-date="2009-02-04T03:05:15+00:00" data-subject="SlothMUD facebook application">
 
 While it isnt 100% complete, it is getting there.
 
@@ -28,13 +28,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="27978" data-author="jezer" data-date="2009-02-04T03:20:27+00:00">
+<div class="post" data-post-id="27978" data-author="jezer" data-date="2009-02-04T03:20:27+00:00" data-subject="">
 
 awesome.
 
 </div>
 
-<div class="post" data-post-id="28013" data-author="*Splork*" data-date="2009-02-07T01:34:36+00:00">
+<div class="post" data-post-id="28013" data-author="*Splork*" data-date="2009-02-07T01:34:36+00:00" data-subject="">
 
 The application has been approved by facebook and is now search able as well.
 
@@ -44,19 +44,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28036" data-author="freakna" data-date="2009-02-10T20:04:39+00:00">
+<div class="post" data-post-id="28036" data-author="freakna" data-date="2009-02-10T20:04:39+00:00" data-subject="">
 
 i just tryed the myspace one. totaly awsome! u guys got a format for multiply.com? thats where all my activity is.
 
 </div>
 
-<div class="post" data-post-id="28047" data-author="reboog" data-date="2009-02-11T04:43:42+00:00">
+<div class="post" data-post-id="28047" data-author="reboog" data-date="2009-02-11T04:43:42+00:00" data-subject="">
 
 slothbook.  faceMUD.
 
 </div>
 
-<div class="post" data-post-id="28048" data-author="reboog" data-date="2009-02-11T04:56:47+00:00">
+<div class="post" data-post-id="28048" data-author="reboog" data-date="2009-02-11T04:56:47+00:00" data-subject="">
 
 ps I thought of that myself
 
@@ -64,7 +64,7 @@ ps I thought of that myself
 
 </div>
 
-<div class="post" data-post-id="28049" data-author="Weasel" data-date="2009-02-11T05:58:25+00:00">
+<div class="post" data-post-id="28049" data-author="Weasel" data-date="2009-02-11T05:58:25+00:00" data-subject="">
 
 ps I thought of that myself
 

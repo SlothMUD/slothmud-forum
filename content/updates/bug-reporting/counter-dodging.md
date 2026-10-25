@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="5831" data-author="Ditheca" data-date="2005-04-25T15:55:05+00:00">
+<div class="post" data-post-id="5831" data-author="Ditheca" data-date="2005-04-25T15:55:05+00:00" data-subject="Counter - Dodging">
 
 If counterattack is enabled, it is impossible to dodge.  While I realize this might be intentional, it would be nice if I could dodge on rounds that I fail to counterattack.
 
@@ -20,13 +20,13 @@ PS: Kjartan and counterattack rule!
 
 </div>
 
-<div class="post" data-post-id="5832" data-author="Rhialto" data-date="2005-04-25T16:08:11+00:00">
+<div class="post" data-post-id="5832" data-author="Rhialto" data-date="2005-04-25T16:08:11+00:00" data-subject=".">
 
 So you have a 10% chance of failing your counterattack, and then a 10% chance of failing dodge for that 10%? That means you only have a 1% chnace of failing one or the other, so why exactly would that be fair?
 
 </div>
 
-<div class="post" data-post-id="5833" data-author="Alberich" data-date="2005-04-25T16:15:00+00:00">
+<div class="post" data-post-id="5833" data-author="Alberich" data-date="2005-04-25T16:15:00+00:00" data-subject="">
 
 I don't think he ever said it would be fair :)  
 
@@ -36,7 +36,7 @@ oh, oh, and mobs can not hate thieves when we miss our stabs, because obviously 
 
 </div>
 
-<div class="post" data-post-id="5841" data-author="Leaf" data-date="2005-04-25T17:57:30+00:00">
+<div class="post" data-post-id="5841" data-author="Leaf" data-date="2005-04-25T17:57:30+00:00" data-subject="">
 
 Actually from what I've seen, counter attack says 85%.  However my 
 
@@ -60,13 +60,13 @@ have that 85% and War/Monk should have that 50% (if parry is turned off).
 
 </div>
 
-<div class="post" data-post-id="5843" data-author="blackmore" data-date="2005-04-25T18:25:59+00:00">
+<div class="post" data-post-id="5843" data-author="blackmore" data-date="2005-04-25T18:25:59+00:00" data-subject="">
 
 Counter is considerably more powerful than parry.  I suspect the rate of success is lower to keep warriors better at it.  Monks can block an attack while doing additional damage, while warriors lose an attack just for trying.  That's a big disadvantage to warriors, but if it works a lot more often for warriors, that is some bit of compensation.
 
 </div>
 
-<div class="post" data-post-id="5844" data-author="Leaf" data-date="2005-04-25T18:51:41+00:00">
+<div class="post" data-post-id="5844" data-author="Leaf" data-date="2005-04-25T18:51:41+00:00" data-subject="">
 
 I believe Warrior with counters, they don't lose an attack.  But I think
 
@@ -76,7 +76,7 @@ have the AC and HP as a Prime Warrior does.
 
 </div>
 
-<div class="post" data-post-id="5845" data-author="Ditheca" data-date="2005-04-25T19:30:00+00:00">
+<div class="post" data-post-id="5845" data-author="Ditheca" data-date="2005-04-25T19:30:00+00:00" data-subject="">
 
 Counterattack works at about 8% for me, since i run high level mobs.  By 8% I mean that it goes off about once every 15 times the mob hits me.  I assume all high level characters have this problem?  Maybe it's just me.
 
@@ -84,7 +84,7 @@ Anyways, i was excited about counterattack, and it's still really really cool...
 
 </div>
 
-<div class="post" data-post-id="5849" data-author="12345" data-date="2005-04-26T10:46:17+00:00">
+<div class="post" data-post-id="5849" data-author="12345" data-date="2005-04-26T10:46:17+00:00" data-subject="">
 
 Actually, just two points on this.
 
@@ -94,7 +94,7 @@ Actually, just two points on this.
 
 </div>
 
-<div class="post" data-post-id="5850" data-author="Leaf" data-date="2005-04-26T11:17:45+00:00">
+<div class="post" data-post-id="5850" data-author="Leaf" data-date="2005-04-26T11:17:45+00:00" data-subject="">
 
 That is tru 12345, then the % shouldn't be shown as 85%.  Because we 
 

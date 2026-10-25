@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="38805" data-author="*teker*" data-date="2018-05-23T18:18:12+00:00">
+<div class="post" data-post-id="38805" data-author="*teker*" data-date="2018-05-23T18:18:12+00:00" data-subject="Rebirth command coming 5/24 after reboot">
 
 The prime goal here being to automate the rebirth process that Breeze is currently performing manually.  The command is REBIRTH 1/0 or REBIRTH 1/1/0.  The instructions I've been given to code (and have completed) are as follows:
 
@@ -40,13 +40,13 @@ Questions?
 
 </div>
 
-<div class="post" data-post-id="38809" data-author="cyprimus" data-date="2018-05-23T22:35:02+00:00">
+<div class="post" data-post-id="38809" data-author="cyprimus" data-date="2018-05-23T22:35:02+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 Can we repeat the process indefinately?
 
 </div>
 
-<div class="post" data-post-id="38811" data-author="Filk" data-date="2018-05-24T02:30:11+00:00">
+<div class="post" data-post-id="38811" data-author="Filk" data-date="2018-05-24T02:30:11+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 > **Quote:**
 > Drachma remains unchanged.
@@ -57,7 +57,7 @@ And there are nothing about max stats. They were staying. Acording to helpfile a
 
 </div>
 
-<div class="post" data-post-id="38812" data-author="cyprimus" data-date="2018-05-24T02:36:25+00:00">
+<div class="post" data-post-id="38812" data-author="cyprimus" data-date="2018-05-24T02:36:25+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 not true fluffy.  
 
@@ -67,7 +67,7 @@ Drac was reset to 0. and you could rerun the continents quests.. from the town q
 
 </div>
 
-<div class="post" data-post-id="38814" data-author="Filk" data-date="2018-05-24T02:43:43+00:00">
+<div class="post" data-post-id="38814" data-author="Filk" data-date="2018-05-24T02:43:43+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 > **cyprimus wrote:**
 > not true fluffy.  
@@ -78,7 +78,7 @@ I meant only 1/1/0 variant. Gorka said he got his max dex at 3x40, when his clas
 
 </div>
 
-<div class="post" data-post-id="38818" data-author="Teron" data-date="2018-05-24T11:51:08+00:00">
+<div class="post" data-post-id="38818" data-author="Teron" data-date="2018-05-24T11:51:08+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 About stats for 1/0:
 
@@ -95,7 +95,7 @@ About stats for 1/0:
 
 </div>
 
-<div class="post" data-post-id="38819" data-author="*teker*" data-date="2018-05-24T13:00:07+00:00">
+<div class="post" data-post-id="38819" data-author="*teker*" data-date="2018-05-24T13:00:07+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 I currently have the function set to block multiple rebirthing.  We should probably discuss bonuses for multiple rebirths before making it possible.
 
@@ -103,7 +103,7 @@ Max stat purchase is tracked on the player and does persist through rebirth.  I 
 
 </div>
 
-<div class="post" data-post-id="38820" data-author="*teker*" data-date="2018-05-24T14:06:09+00:00">
+<div class="post" data-post-id="38820" data-author="*teker*" data-date="2018-05-24T14:06:09+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 I've updated a couple items on the original post.  Namely:
 
@@ -113,7 +113,7 @@ I've updated a couple items on the original post.  Namely:
 
 </div>
 
-<div class="post" data-post-id="38823" data-author="Gorka" data-date="2018-05-24T14:12:28+00:00">
+<div class="post" data-post-id="38823" data-author="Gorka" data-date="2018-05-24T14:12:28+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 The MAX_STATS on Gorka remained on my msdp.CHARACTER_AFFECTS through rebirth. I saw them listed in there from the first day... however the stats did not become "active" until my class order allowed. So in Gorka's case wa mo, my purchased MAX_DEX kicked in when I became 3x40. There is also something up with the ARMOR stat, that seems to have persisted from the start of rebirth as well, well the other stats were halved. (as I expected)
 
@@ -121,7 +121,7 @@ Now this is just my opinion... and yes, it's completely self serving... But enab
 
 </div>
 
-<div class="post" data-post-id="38825" data-author="*teker*" data-date="2018-05-24T15:25:40+00:00">
+<div class="post" data-post-id="38825" data-author="*teker*" data-date="2018-05-24T15:25:40+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 Some issues so far:
 
@@ -131,19 +131,19 @@ Some issues so far:
 
 </div>
 
-<div class="post" data-post-id="38827" data-author="*teker*" data-date="2018-05-24T17:34:12+00:00">
+<div class="post" data-post-id="38827" data-author="*teker*" data-date="2018-05-24T17:34:12+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 Norks is reporting that avatar shop sanctuary, resist cold, and resist fire don't work after rebirth.  I imagine this is probably consistent across all rebirthers.
 
 </div>
 
-<div class="post" data-post-id="38833" data-author="Filk" data-date="2018-05-31T02:07:41+00:00">
+<div class="post" data-post-id="38833" data-author="Filk" data-date="2018-05-31T02:07:41+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 I just realised other rebirthers can use their avatar lights, while i cant. Guess thats related to the thing Teker gave me to manualy fix double exp, but maybe its something else.
 
 </div>
 
-<div class="post" data-post-id="38835" data-author="*Breeze*" data-date="2018-05-31T09:40:58+00:00">
+<div class="post" data-post-id="38835" data-author="*Breeze*" data-date="2018-05-31T09:40:58+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 its because they are personal items so i removed the 
 
@@ -155,13 +155,13 @@ there is also a way to recycle your avatar light so you can rebuild it.
 
 </div>
 
-<div class="post" data-post-id="38836" data-author="*teker*" data-date="2018-05-31T14:16:56+00:00">
+<div class="post" data-post-id="38836" data-author="*teker*" data-date="2018-05-31T14:16:56+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 I just fixed Paka's also.  Let us know if there are others.  It looks like the code has been fixed for new avatar lights.
 
 </div>
 
-<div class="post" data-post-id="38837" data-author="*Breeze*" data-date="2018-05-31T18:47:14+00:00">
+<div class="post" data-post-id="38837" data-author="*Breeze*" data-date="2018-05-31T18:47:14+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 > ***teker* wrote:**
 > I just fixed Paka's also.  Let us know if there are others.  It looks like the code has been fixed for new avatar lights.
@@ -170,13 +170,13 @@ yep.  did that when josiah rebirthed :)
 
 </div>
 
-<div class="post" data-post-id="38850" data-author="*teker*" data-date="2018-06-04T15:01:32+00:00">
+<div class="post" data-post-id="38850" data-author="*teker*" data-date="2018-06-04T15:01:32+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 Today's reboot was for bug fixes and most of those were rebirth related.  You should be able to store 3x40 equipment in the new vaults now, for instance.  It seems like most of the rebirths are at 3x40 or beyond so it may be the next batch that actually sees the changes.
 
 </div>
 
-<div class="post" data-post-id="38851" data-author="norks" data-date="2018-06-04T15:37:21+00:00">
+<div class="post" data-post-id="38851" data-author="norks" data-date="2018-06-04T15:37:21+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 Great thanks.
 
@@ -188,7 +188,7 @@ Norks
 
 </div>
 
-<div class="post" data-post-id="38854" data-author="*Breeze*" data-date="2018-06-04T20:33:56+00:00">
+<div class="post" data-post-id="38854" data-author="*Breeze*" data-date="2018-06-04T20:33:56+00:00" data-subject="Re: Rebirth command coming 5/24 after reboot">
 
 pretty sure i said in group last night that i need someone there 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="38097" data-author="*teker*" data-date="2017-03-07T15:39:40+00:00">
+<div class="post" data-post-id="38097" data-author="*teker*" data-date="2017-03-07T15:39:40+00:00" data-subject="Changelog 2017-03-07">
 
 I didn't schedule the reboot so there's going to be more changes than what's listed here.
 
@@ -24,13 +24,13 @@ Added some new counters that I think some of you will find valuable.  It's a fir
 
 </div>
 
-<div class="post" data-post-id="38099" data-author="*teker*" data-date="2017-03-07T18:33:38+00:00">
+<div class="post" data-post-id="38099" data-author="*teker*" data-date="2017-03-07T18:33:38+00:00" data-subject="Re: Changelog 2017-03-07">
 
 Forgot to mention that I added "score affects2" which shows spells and how much time they have left.  For people that don't use MSDP to pull that information.
 
 </div>
 
-<div class="post" data-post-id="38100" data-author="Gorka" data-date="2017-03-07T18:53:16+00:00">
+<div class="post" data-post-id="38100" data-author="Gorka" data-date="2017-03-07T18:53:16+00:00" data-subject="Re: Changelog 2017-03-07">
 
 Wow, very nice change to counters.
 
@@ -54,7 +54,7 @@ PS msdp.LOCATION still stuffed, ran all the way to coliseum without it updating.
 
 </div>
 
-<div class="post" data-post-id="38101" data-author="Gorka" data-date="2017-03-07T22:04:23+00:00">
+<div class="post" data-post-id="38101" data-author="Gorka" data-date="2017-03-07T22:04:23+00:00" data-subject="Re: Changelog 2017-03-07">
 
 5 hours now playing with stats  :lol: 
 
@@ -72,7 +72,7 @@ What a night..! Off to bed...
 
 </div>
 
-<div class="post" data-post-id="38102" data-author="*teker*" data-date="2017-03-07T23:13:49+00:00">
+<div class="post" data-post-id="38102" data-author="*teker*" data-date="2017-03-07T23:13:49+00:00" data-subject="Re: Changelog 2017-03-07">
 
 > **Gorka wrote:**
 > * Can you count hit point damage to the character as a counter. (So we can calculate AC effectiveness - can't wait to calculate how much ac sacrifice is worth a damage point)
@@ -91,7 +91,7 @@ We could probably do a singular counter that totals all pet damage dealt.
 
 </div>
 
-<div class="post" data-post-id="38103" data-author="Filk" data-date="2017-03-08T06:18:45+00:00">
+<div class="post" data-post-id="38103" data-author="Filk" data-date="2017-03-08T06:18:45+00:00" data-subject="Re: Changelog 2017-03-07">
 
 Great addition with counters. Highly appreciate that, Teker.
 
@@ -115,7 +115,7 @@ There could be several such dummies actually with different ac/damage reduce val
 
 </div>
 
-<div class="post" data-post-id="38104" data-author="Tuck" data-date="2017-03-08T19:02:00+00:00">
+<div class="post" data-post-id="38104" data-author="Tuck" data-date="2017-03-08T19:02:00+00:00" data-subject="Re: Changelog 2017-03-07">
 
 Great job Teker.
 
@@ -123,7 +123,7 @@ Counters/new housing/levels and counting. Very good job.
 
 </div>
 
-<div class="post" data-post-id="38105" data-author="*Breeze*" data-date="2017-03-09T09:27:34+00:00">
+<div class="post" data-post-id="38105" data-author="*Breeze*" data-date="2017-03-09T09:27:34+00:00" data-subject="Re: Changelog 2017-03-07">
 
 > **Filk wrote:**
 > Great addition with counters. Highly appreciate that, Teker.
@@ -174,7 +174,7 @@ re: blank ideas
 
 </div>
 
-<div class="post" data-post-id="38106" data-author="Filk" data-date="2017-03-09T13:53:17+00:00">
+<div class="post" data-post-id="38106" data-author="Filk" data-date="2017-03-09T13:53:17+00:00" data-subject="Re: Changelog 2017-03-07">
 
 > ***Breeze* wrote:**
 > 2- not a bug. that damage is added in a different place. can be considered a lets get it in game for now and tweak it later.
@@ -230,7 +230,7 @@ Your counters are currently in solo mode.
 
 </div>
 
-<div class="post" data-post-id="38107" data-author="*Breeze*" data-date="2017-03-09T14:00:40+00:00">
+<div class="post" data-post-id="38107" data-author="*Breeze*" data-date="2017-03-09T14:00:40+00:00" data-subject="Re: Changelog 2017-03-07">
 
 personally i told him to just add all mudl damage (which is how shapeshift skills work)
 
@@ -242,7 +242,7 @@ i would probably add the thorns/wall/etc damage to "other" also.
 
 </div>
 
-<div class="post" data-post-id="38108" data-author="*teker*" data-date="2017-03-09T18:54:49+00:00">
+<div class="post" data-post-id="38108" data-author="*teker*" data-date="2017-03-09T18:54:49+00:00" data-subject="Re: Changelog 2017-03-07">
 
 A fix for the score affects2 crash went live during the last crash reboot.
 
@@ -254,7 +254,7 @@ EDIT: Fixed spelling
 
 </div>
 
-<div class="post" data-post-id="38109" data-author="Filk" data-date="2017-03-10T02:10:14+00:00">
+<div class="post" data-post-id="38109" data-author="Filk" data-date="2017-03-10T02:10:14+00:00" data-subject="Re: Changelog 2017-03-07">
 
 > ***teker* wrote:**
 > I changed the script for the piasa arctic blast so that it treats the damage internally as "frost breath"
@@ -263,13 +263,13 @@ I used piasa only as example of not displayed source. That form is rarely used a
 
 </div>
 
-<div class="post" data-post-id="38112" data-author="Gorka" data-date="2017-03-13T08:47:42+00:00">
+<div class="post" data-post-id="38112" data-author="Gorka" data-date="2017-03-13T08:47:42+00:00" data-subject="Re: Changelog 2017-03-07">
 
 Any reason damage averages have dropped out of being shown in counters?
 
 </div>
 
-<div class="post" data-post-id="38113" data-author="*Splork*" data-date="2017-03-13T11:00:11+00:00">
+<div class="post" data-post-id="38113" data-author="*Splork*" data-date="2017-03-13T11:00:11+00:00" data-subject="Re: Changelog 2017-03-07">
 
 We had an issue last night with some new code and had to go back a week to a previous build.
 
@@ -279,13 +279,13 @@ Sorry,
 
 </div>
 
-<div class="post" data-post-id="38114" data-author="*teker*" data-date="2017-03-13T14:18:11+00:00">
+<div class="post" data-post-id="38114" data-author="*teker*" data-date="2017-03-13T14:18:11+00:00" data-subject="Re: Changelog 2017-03-07">
 
 Sorry guys - I had put in a fix for GAG_FIGHT and a condition showed up that I didn't see on the test server.  I've committed a fix so next reboot everything should be put back in.
 
 </div>
 
-<div class="post" data-post-id="38115" data-author="Josiah" data-date="2017-03-14T16:58:52+00:00">
+<div class="post" data-post-id="38115" data-author="Josiah" data-date="2017-03-14T16:58:52+00:00" data-subject="Re: Changelog 2017-03-07">
 
 > **Gorka wrote:**
 > Wow, very nice change to counters.

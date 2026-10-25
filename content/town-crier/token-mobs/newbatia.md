@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="40" data-author="Willem" data-date="2004-02-14T17:04:13+00:00">
+<div class="post" data-post-id="40" data-author="Willem" data-date="2004-02-14T17:04:13+00:00" data-subject="Newbatia">
 
 Just the other night an Elderly man gave me -2- Tritokens.  :D
 
@@ -18,13 +18,13 @@ Dunno if it's normal, but it seems to be a good start on getting them.
 
 </div>
 
-<div class="post" data-post-id="1076" data-author="someone" data-date="2004-07-15T02:37:41+00:00">
+<div class="post" data-post-id="1076" data-author="someone" data-date="2004-07-15T02:37:41+00:00" data-subject="re: newbatia">
 
 I found that the Kobolds in the adventurer school gave out quite a few triangle tokens myself.
 
 </div>
 
-<div class="post" data-post-id="1080" data-author="Alberich" data-date="2004-07-15T10:51:05+00:00">
+<div class="post" data-post-id="1080" data-author="Alberich" data-date="2004-07-15T10:51:05+00:00" data-subject="">
 
 tiny shadows in playground
 
@@ -40,13 +40,13 @@ all good tri mobs - have fun
 
 </div>
 
-<div class="post" data-post-id="4411" data-author="lucian" data-date="2005-02-13T04:51:22+00:00">
+<div class="post" data-post-id="4411" data-author="lucian" data-date="2005-02-13T04:51:22+00:00" data-subject="elderly men tokens">
 
 I spent a long time today killing elderly men in newbatia for tokens.  After killing about 200 of them, i've found two, i wouldn't suggest killing them for tri tokens, trust me
 
 </div>
 
-<div class="post" data-post-id="5123" data-author="achazia" data-date="2005-03-17T09:27:30+00:00">
+<div class="post" data-post-id="5123" data-author="achazia" data-date="2005-03-17T09:27:30+00:00" data-subject="...">
 
 Hi!
 
@@ -62,7 +62,7 @@ Then I used my 3 tokens....and got worse stats than before  :roll:
 
 </div>
 
-<div class="post" data-post-id="7125" data-author="Taki" data-date="2005-06-13T12:11:08+00:00">
+<div class="post" data-post-id="7125" data-author="Taki" data-date="2005-06-13T12:11:08+00:00" data-subject="">
 
 After the worth of 3 levels kills, from 8 to 11, looking for a tri to change my stats, I finally got one from a janitor in Newbatia. 
 
@@ -72,7 +72,7 @@ This makes me think that tri tokens are just random. (had 2 before it - 1 from a
 
 </div>
 
-<div class="post" data-post-id="7126" data-author="Taki" data-date="2005-06-13T12:25:36+00:00">
+<div class="post" data-post-id="7126" data-author="Taki" data-date="2005-06-13T12:25:36+00:00" data-subject="">
 
 P.S.
 
@@ -82,7 +82,7 @@ I wouldn't say kobolds give more tokens than other mobs, but -for sure- they are
 
 </div>
 
-<div class="post" data-post-id="7127" data-author="12345" data-date="2005-06-13T12:26:48+00:00">
+<div class="post" data-post-id="7127" data-author="12345" data-date="2005-06-13T12:26:48+00:00" data-subject="">
 
 All low level mobs have a chance of popping a tri tokens, so being able to wipe out areas is often helpful when looking for tokens.  ie. Clearing daar tempest can pop quite a few if you cycle it repeatedly.  Alberich's post mentions some good mobs, though the gargoyles in star city are huge and ether.
 
@@ -92,7 +92,7 @@ Happy hunting.
 
 </div>
 
-<div class="post" data-post-id="14328" data-author="Dedsune" data-date="2006-09-27T06:44:12+00:00">
+<div class="post" data-post-id="14328" data-author="Dedsune" data-date="2006-09-27T06:44:12+00:00" data-subject="Token forge on Valk">
 
 The Grandmaster Thug, in a rare mischannel, accidentally gossip'd something of interest, perhaps meant for his thugs to hear.  Some valk folks invited themselves into his hideout, dropping in on him just as he finished writing a note.  Having relieved him of his duties as grandmaster and scribe, the trio of valkers read the note...
 
@@ -120,7 +120,7 @@ Thanks for the new forge!
 
 </div>
 
-<div class="post" data-post-id="18063" data-author="ligeia" data-date="2007-04-19T15:26:24+00:00">
+<div class="post" data-post-id="18063" data-author="ligeia" data-date="2007-04-19T15:26:24+00:00" data-subject="50 tokens in a week">
 
 This run worked well for me. 
 

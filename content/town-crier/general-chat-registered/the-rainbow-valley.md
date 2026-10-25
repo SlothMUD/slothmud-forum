@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="31370" data-author="*Neptune*" data-date="2010-07-25T07:39:05+00:00">
+<div class="post" data-post-id="31370" data-author="*Neptune*" data-date="2010-07-25T07:39:05+00:00" data-subject="The Rainbow Valley">
 
 Thanks all who have recently adventured into the Rainbow Valley. It was
 
@@ -28,7 +28,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="31371" data-author="*Neptune*" data-date="2010-07-26T00:29:49+00:00">
+<div class="post" data-post-id="31371" data-author="*Neptune*" data-date="2010-07-26T00:29:49+00:00" data-subject="Re: The Rainbow Valley">
 
 As many innkeepers around the world, Balthazar is now gateable.
 
@@ -36,7 +36,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="31373" data-author="blackmore" data-date="2010-07-27T17:24:22+00:00">
+<div class="post" data-post-id="31373" data-author="blackmore" data-date="2010-07-27T17:24:22+00:00" data-subject="Re: The Rainbow Valley">
 
 Rainbow Valley is accessed through Neptune's Temple on the island.  A map will hopefully be up soon.  This is the first new area added since the new web site went live, so there's bound to be some issues to work out.  The smallest mobs there are 1m, the biggest mobs are about 75m.  There are a number that are 20m-40m.  There are some real shopkeepers, and they are intermixed with some killable shopkeeper looking mobs.  There is an inn, the innkeeper is Balthazar.  There's 1 aggro mob in town, a thief.  Many of the mobs behind closed doors are aggro.
 
@@ -92,13 +92,13 @@ Requires: 17326304 coins, 1x an obsidian figurine,
 
 </div>
 
-<div class="post" data-post-id="31374" data-author="Tuck" data-date="2010-07-28T15:58:47+00:00">
+<div class="post" data-post-id="31374" data-author="Tuck" data-date="2010-07-28T15:58:47+00:00" data-subject="Re: The Rainbow Valley">
 
 great post, thanks!
 
 </div>
 
-<div class="post" data-post-id="31390" data-author="*Neptune*" data-date="2010-08-02T19:19:05+00:00">
+<div class="post" data-post-id="31390" data-author="*Neptune*" data-date="2010-08-02T19:19:05+00:00" data-subject="Re: The Rainbow Valley">
 
 I have lowered the forge cost in gold of The Dagger of Mortality's Cleansing
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="16921" data-author="Toxis" data-date="2007-02-15T20:50:51+00:00">
+<div class="post" data-post-id="16921" data-author="Toxis" data-date="2007-02-15T20:50:51+00:00" data-subject="Ju-Ju&#x27;s">
 
 <worn about waist>   a leather belt strung with 21 skulls.
 
@@ -22,7 +22,7 @@ Also, am I right that the skulls mean nothing?  It would rock if we could get th
 
 </div>
 
-<div class="post" data-post-id="16927" data-author="slobe" data-date="2007-02-15T22:44:32+00:00">
+<div class="post" data-post-id="16927" data-author="slobe" data-date="2007-02-15T22:44:32+00:00" data-subject="">
 
 I like how they go away my record for skulls is 367. Sure I feed me juju alot and I was on for like 20 hours + but its nice to how much you can get before you rent. 
 
@@ -32,7 +32,7 @@ SLO BE I nothing comes fast
 
 </div>
 
-<div class="post" data-post-id="16937" data-author="firebrand" data-date="2007-02-16T00:42:11+00:00">
+<div class="post" data-post-id="16937" data-author="firebrand" data-date="2007-02-16T00:42:11+00:00" data-subject="">
 
 grin let it build up bonuses similar to the way our warcry does?  that would rock
 
@@ -40,7 +40,7 @@ grin let it build up bonuses similar to the way our warcry does?  that would roc
 
 </div>
 
-<div class="post" data-post-id="16938" data-author="Leaf" data-date="2007-02-16T01:07:56+00:00">
+<div class="post" data-post-id="16938" data-author="Leaf" data-date="2007-02-16T01:07:56+00:00" data-subject="">
 
 I think that could be bad, get the JuJu hurt by a bigger mob.  Then go to 
 
@@ -52,7 +52,7 @@ Brad is there a class that you have NOT created yet??
 
 </div>
 
-<div class="post" data-post-id="16986" data-author="Marchessa_red_witch" data-date="2007-02-18T15:16:01+00:00">
+<div class="post" data-post-id="16986" data-author="Marchessa_red_witch" data-date="2007-02-18T15:16:01+00:00" data-subject="Then make it based on sac value">
 
 Rather than just skulls.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38420" data-author="*Idjit*" data-date="2017-09-02T17:15:03+00:00">
+<div class="post" data-post-id="38420" data-author="*Idjit*" data-date="2017-09-02T17:15:03+00:00" data-subject="Labor Day Festivites">
 
 Good day slothers.
 
@@ -26,7 +26,7 @@ Thank you for your attention.
 
 </div>
 
-<div class="post" data-post-id="38421" data-author="*Breeze*" data-date="2017-09-03T07:47:10+00:00">
+<div class="post" data-post-id="38421" data-author="*Breeze*" data-date="2017-09-03T07:47:10+00:00" data-subject="Re: Labor Day Festivites">
 
 if you cant make it to idjit quest, let me know (email) of your interest, and i may load a mob or 3 at a more convenient time. say.. same time, but on actual labor day?
 

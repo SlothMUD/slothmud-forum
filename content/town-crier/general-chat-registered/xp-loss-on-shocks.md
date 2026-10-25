@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30179" data-author="angel" data-date="2009-10-27T16:14:58+00:00">
+<div class="post" data-post-id="30179" data-author="angel" data-date="2009-10-27T16:14:58+00:00" data-subject="xp loss on shocks">
 
 an improvement shud mean u lose less xp no?
 

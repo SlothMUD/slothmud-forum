@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="13124" data-author="marchessa_the_red_witch" data-date="2006-06-24T06:32:34+00:00">
+<div class="post" data-post-id="13124" data-author="marchessa_the_red_witch" data-date="2006-06-24T06:32:34+00:00" data-subject="New Castle, First Report">
 
 Marsup Infantry trainer - fast aggro pops shield (see elsewhere)
 
@@ -22,13 +22,13 @@ Looks like the gods have sent a message to non-avatars: thou shalt not do bh xp 
 
 </div>
 
-<div class="post" data-post-id="13125" data-author="Akasha" data-date="2006-06-24T06:35:48+00:00">
+<div class="post" data-post-id="13125" data-author="Akasha" data-date="2006-06-24T06:35:48+00:00" data-subject="Buddy System">
 
 and a little thought
 
 </div>
 
-<div class="post" data-post-id="13126" data-author="marchessa_the_red_witch" data-date="2006-06-24T06:39:56+00:00">
+<div class="post" data-post-id="13126" data-author="marchessa_the_red_witch" data-date="2006-06-24T06:39:56+00:00" data-subject="Marsup removes eq">
 
 Atwell skillfully parries the attack of Marsup, infantry trainer.
 
@@ -78,7 +78,7 @@ Also he's - and this is once again the screwed up nature of the mud - very good 
 
 </div>
 
-<div class="post" data-post-id="13129" data-author="Grue" data-date="2006-06-24T12:22:23+00:00">
+<div class="post" data-post-id="13129" data-author="Grue" data-date="2006-06-24T12:22:23+00:00" data-subject="">
 
 He pops a 1.1 ac shield which is the highest AC you can go with standard EQ. He may only have 14k in coins, but the shield would sell for a few mil on the block. Seems you popped a shield with a smallish group pretty fast, so why does this thread have the feel of a gripe? Granted castle is now aggro, but what did you expect with the mob, that it would be a nice easy pop for a high level piece of EQ with no negative consequences? 
 
@@ -86,13 +86,13 @@ I know I'll be flamed for this by the usual crowd who don't bother to read what 
 
 </div>
 
-<div class="post" data-post-id="13131" data-author="Cicada" data-date="2006-06-24T13:12:21+00:00">
+<div class="post" data-post-id="13131" data-author="Cicada" data-date="2006-06-24T13:12:21+00:00" data-subject="">
 
 It's just glinting shield with worse restricts, which few mils are we talking about? The only problem with this mob I see is that he sits in the center of area, separating regen room/chef/smith from rest of group mobs there.
 
 </div>
 
-<div class="post" data-post-id="13132" data-author="marchessa_the_red_witch" data-date="2006-06-24T13:13:10+00:00">
+<div class="post" data-post-id="13132" data-author="marchessa_the_red_witch" data-date="2006-06-24T13:13:10+00:00" data-subject="I&#x27;m old school">
 
 I like the castle being filled with aggros.
 
@@ -106,7 +106,7 @@ Fighters now wander all over the castle - including to royals.
 
 </div>
 
-<div class="post" data-post-id="13133" data-author="marchessa_the_red_witch" data-date="2006-06-24T13:30:56+00:00">
+<div class="post" data-post-id="13133" data-author="marchessa_the_red_witch" data-date="2006-06-24T13:30:56+00:00" data-subject="Flaming">
 
 "Seems you popped a shield with a smallish group pretty fast, so why does this thread have the feel of a gripe? "
 
@@ -118,7 +118,7 @@ I'm reporting so that players don't go bouncing into the castle, expecting fight
 
 </div>
 
-<div class="post" data-post-id="13134" data-author="Avatar" data-date="2006-06-24T13:55:17+00:00">
+<div class="post" data-post-id="13134" data-author="Avatar" data-date="2006-06-24T13:55:17+00:00" data-subject="marsup">
 
 I'd be more concerned about this:
 
@@ -126,13 +126,13 @@ You see little more than a blur as Marsup, infantry trainer loosens Atwell`s vol
 
 </div>
 
-<div class="post" data-post-id="13188" data-author="marchessa_the_red_witch" data-date="2006-06-28T05:57:48+00:00">
+<div class="post" data-post-id="13188" data-author="marchessa_the_red_witch" data-date="2006-06-28T05:57:48+00:00" data-subject="Marsup back to being aggro against evil">
 
 Caught bell while we were breezing by, but he is a fairly slow aggro.
 
 </div>
 
-<div class="post" data-post-id="13194" data-author="12345" data-date="2006-06-28T21:11:39+00:00">
+<div class="post" data-post-id="13194" data-author="12345" data-date="2006-06-28T21:11:39+00:00" data-subject="">
 
 Well, I got a chance to run the castle post-change.  Was an interesting introduction.  I came across Bell dead, spent a second considering how and Marsup killed me.  Tough mob. Other than that, Geber and Vicar have apparently been getting private lessons from Marsup.  They now hit like they used to hit without blinds, maybe harder.  Where clerics were the main requirement for running the castle before, mages have been added to the list.
 

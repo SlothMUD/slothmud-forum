@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="37028" data-author="Teron" data-date="2016-07-08T08:51:25+00:00">
+<div class="post" data-post-id="37028" data-author="Teron" data-date="2016-07-08T08:51:25+00:00" data-subject="Lost 2 loaded items due to crash">
 
 Hello.
 
@@ -24,7 +24,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37029" data-author="Yasik" data-date="2016-07-08T10:09:40+00:00">
+<div class="post" data-post-id="37029" data-author="Yasik" data-date="2016-07-08T10:09:40+00:00" data-subject="Re: Lost 2 loaded items due to crash">
 
 Nothing personal, but we cannot lose something we dont own yet :)
 
@@ -36,7 +36,7 @@ This of crash as "force majeure" that cannot be predicted or avoided. I understa
 
 </div>
 
-<div class="post" data-post-id="37030" data-author="Teron" data-date="2016-07-08T14:00:59+00:00">
+<div class="post" data-post-id="37030" data-author="Teron" data-date="2016-07-08T14:00:59+00:00" data-subject="Re: Lost 2 loaded items due to crash">
 
 Funny you've used the phrase, force majeure.
 
@@ -104,7 +104,7 @@ And I did lose all my char eq on my *first* char at 1x40, and I did recover, eve
 
 </div>
 
-<div class="post" data-post-id="37031" data-author="*Splork*" data-date="2016-07-09T00:23:19+00:00">
+<div class="post" data-post-id="37031" data-author="*Splork*" data-date="2016-07-09T00:23:19+00:00" data-subject="Re: Lost 2 loaded items due to crash">
 
 The game crashes, far less than it ever has in its 26+ year history.  We are finding ourselves forcing reboots more than we are crashing, due to our memory growth. This is an issue I have personally spent hundreds of hours trying to fix and also hundreds of my own dollars  having our code "audited" in an attempt to solve. While we do find some of the issues and correct them, anyone who has dealt with memory leaks knows its not something which can be fixed or figured out in an evening!
 
@@ -116,7 +116,7 @@ Anyways, sorry you were not able to pop the items. Better luck next time!
 
 </div>
 
-<div class="post" data-post-id="37033" data-author="Teron" data-date="2016-07-09T06:16:43+00:00">
+<div class="post" data-post-id="37033" data-author="Teron" data-date="2016-07-09T06:16:43+00:00" data-subject="Re: Lost 2 loaded items due to crash">
 
 I understand that crashes can't and won't go away.
 
@@ -138,7 +138,7 @@ I'm sure there is some middle ground here to solve the problem.
 
 </div>
 
-<div class="post" data-post-id="37034" data-author="Ker" data-date="2016-07-09T14:26:10+00:00">
+<div class="post" data-post-id="37034" data-author="Ker" data-date="2016-07-09T14:26:10+00:00" data-subject="Re: Lost 2 loaded items due to crash">
 
 Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii Splork!! <3
 

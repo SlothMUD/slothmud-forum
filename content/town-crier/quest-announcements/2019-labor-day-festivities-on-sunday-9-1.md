@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="39295" data-author="*Idjit*" data-date="2019-08-30T01:44:19+00:00">
+<div class="post" data-post-id="39295" data-author="*Idjit*" data-date="2019-08-30T01:44:19+00:00" data-subject="2019 Labor Day Festivities - on Sunday 9/1">
 
 Good day my fellow slothers,
 
@@ -22,7 +22,7 @@ I will get a timer up here in a moment.
 
 </div>
 
-<div class="post" data-post-id="39296" data-author="Gorka" data-date="2019-08-30T10:53:22+00:00">
+<div class="post" data-post-id="39296" data-author="Gorka" data-date="2019-08-30T10:53:22+00:00" data-subject="Re: 2019 Labor Day Festivities - on Sunday 9/1">
 
 I'm not against imm quests, I'm thankful for them, I'm not against epics with tokens... But surely there are better ideas to earn the reward than what tends to be a couple of players at the keyboard leading a whiny horde of "what about me!" self entitled bastages. The idea encourages no contribution or much collaboration. We may as well line up and let an imm set drachma = drachma + x on all the players. It's as cancerous as players afking in group with choppers at Xerxes. We practically don't even need to scroll for epics these days. Don't get me wrong, I'll take the drachma anyway I can... but this doesn't encourage the type of players the game needs to survive. It's a game I'm kind of fond of, even though on a daily basis it frustrates me with it's silliness. Are we really at a point of giving players drachma for practically nothing - to try and keep them playing? There will always be the can's and the cant's the haves and the have not's but at least make us work for it. Communal cp gathering or trivia quests have worked well in the past. At least put the token's on unknown mobs and give us some clues to find the zones or something slightly more thrilling. Otherwise we may as well just line up at the innkeeper where you can give the leader 15-20 tokens, to save yourself the trouble of distributing them to a bunch of tired old, predictable, low xp giving epics. The only thing unpredictable about our certain success is how many token's there will be... and that makes it all quite boring to be frank. Appreciate the drachma though...
 
@@ -36,7 +36,7 @@ How about something like... a trivia quiz (how many unique mobs in Grymlyns? wha
 
 </div>
 
-<div class="post" data-post-id="39297" data-author="*Breeze*" data-date="2019-09-01T16:57:00+00:00">
+<div class="post" data-post-id="39297" data-author="*Breeze*" data-date="2019-09-01T16:57:00+00:00" data-subject="Re: 2019 Labor Day Festivities - on Sunday 9/1">
 
 not a bad idea but takes a bit more prepwork than we have at the moment.
 
@@ -44,7 +44,7 @@ maybe something like Mario Party would be fun.. but still soemthing that would r
 
 </div>
 
-<div class="post" data-post-id="39298" data-author="Gorka" data-date="2019-09-02T06:20:05+00:00">
+<div class="post" data-post-id="39298" data-author="Gorka" data-date="2019-09-02T06:20:05+00:00" data-subject="Re: 2019 Labor Day Festivities - on Sunday 9/1">
 
 Thanks to the immortals for the quest last night. Some were upset at my post for daring to suggest that quests should be harder - having been accustom to running in the sloth equivalent to "shorts and a t-shirt" for too long. I don't believe I was wrong, as some complained it wasn't going to be "easy drachma" anymore. It wasn't about being a moron, it's just that rot tends to set in when people have it too good, and players don't get better, and without struggle there is less fun. If people don't need to pay attention... they won't. It certainly was harder...
 

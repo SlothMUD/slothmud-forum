@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="33359" data-author="Yasik" data-date="2012-07-05T11:45:21+00:00">
+<div class="post" data-post-id="33359" data-author="Yasik" data-date="2012-07-05T11:45:21+00:00" data-subject="5th - 8th classes&#x27; benefits">
 
 Can anyone please share the info about them - mr/dam_reduct/spell_dam caps, hp/ma/mv per level gain, eq restricts and so on.
 
@@ -20,13 +20,13 @@ Thanks in advance.
 
 </div>
 
-<div class="post" data-post-id="33360" data-author="Yasik" data-date="2012-07-05T23:08:20+00:00">
+<div class="post" data-post-id="33360" data-author="Yasik" data-date="2012-07-05T23:08:20+00:00" data-subject="Re: 5th - 8th classes&#x27; benefits">
 
 cmon guys, dont be shy, all your advice are belong to me
 
 </div>
 
-<div class="post" data-post-id="33362" data-author="Tuck" data-date="2012-07-08T01:17:07+00:00">
+<div class="post" data-post-id="33362" data-author="Tuck" data-date="2012-07-08T01:17:07+00:00" data-subject="Re: 5th - 8th classes&#x27; benefits">
 
 Actually we don't have second,third,quad, etc classes benefits. No classes benefits at all ;-).
 
@@ -42,7 +42,7 @@ thanks in advance
 
 </div>
 
-<div class="post" data-post-id="33363" data-author="Tuck" data-date="2012-07-08T01:17:10+00:00">
+<div class="post" data-post-id="33363" data-author="Tuck" data-date="2012-07-08T01:17:10+00:00" data-subject="Re: 5th - 8th classes&#x27; benefits">
 
 Actually we don't have second,third,quad, etc classes benefits. No classes benefits at all ;-).
 
@@ -58,7 +58,7 @@ thanks in advance
 
 </div>
 
-<div class="post" data-post-id="33364" data-author="Yasik" data-date="2012-07-08T06:57:09+00:00">
+<div class="post" data-post-id="33364" data-author="Yasik" data-date="2012-07-08T06:57:09+00:00" data-subject="Re: 5th - 8th classes&#x27; benefits">
 
 Spelldam cap depends on position of Mage in classo, as far as I know.
 
@@ -68,7 +68,7 @@ That what I meant.
 
 </div>
 
-<div class="post" data-post-id="33365" data-author="Tuck" data-date="2012-07-08T20:30:20+00:00">
+<div class="post" data-post-id="33365" data-author="Tuck" data-date="2012-07-08T20:30:20+00:00" data-subject="Re: 5th - 8th classes&#x27; benefits">
 
 > **Yasik wrote:**
 > Spelldam cap depends on position of Mage in classo, as far as I know.
@@ -81,7 +81,7 @@ jeez, dude, is it confirmed? where is numbers?
 
 </div>
 
-<div class="post" data-post-id="33415" data-author="Yasik" data-date="2012-08-02T08:38:38+00:00">
+<div class="post" data-post-id="33415" data-author="Yasik" data-date="2012-08-02T08:38:38+00:00" data-subject="Re: 5th - 8th classes&#x27; benefits">
 
 Well, due to lack of feedback, I decided myself. I will post the flow of my suggestions just in case someone in the future will have to follow thispath as well.
 
@@ -101,13 +101,13 @@ Also, I dont think this is completely true and right and it works as I think it 
 
 </div>
 
-<div class="post" data-post-id="33441" data-author="Tuck" data-date="2012-08-12T02:27:18+00:00">
+<div class="post" data-post-id="33441" data-author="Tuck" data-date="2012-08-12T02:27:18+00:00" data-subject="Re: 5th - 8th classes&#x27; benefits">
 
 numbers, dude, numbers :)
 
 </div>
 
-<div class="post" data-post-id="33442" data-author="Yasik" data-date="2012-08-12T09:36:12+00:00">
+<div class="post" data-post-id="33442" data-author="Yasik" data-date="2012-08-12T09:36:12+00:00" data-subject="Re: 5th - 8th classes&#x27; benefits">
 
 I can has no numbers - I has no access to code. Can test though, but still it's quite complicated.
 

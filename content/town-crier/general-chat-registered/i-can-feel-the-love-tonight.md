@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="28349" data-author="Medios" data-date="2009-02-28T16:38:02+00:00">
+<div class="post" data-post-id="28349" data-author="Medios" data-date="2009-02-28T16:38:02+00:00" data-subject="I can feel the love tonight.">
 
 On our message board this one guy always puts.
 
@@ -20,31 +20,31 @@ So by this logic, since Broc only posts with comments about me, I think he must 
 
 </div>
 
-<div class="post" data-post-id="28350" data-author="*juggleblood*" data-date="2009-02-28T18:18:29+00:00">
+<div class="post" data-post-id="28350" data-author="*juggleblood*" data-date="2009-02-28T18:18:29+00:00" data-subject="">
 
 Have I told you, lately, that I hate you.
 
 </div>
 
-<div class="post" data-post-id="28351" data-author="reboog" data-date="2009-02-28T19:26:56+00:00">
+<div class="post" data-post-id="28351" data-author="reboog" data-date="2009-02-28T19:26:56+00:00" data-subject="">
 
 Wherever you go, whatever you do, I will be right here waiting for you.  With a shiv.
 
 </div>
 
-<div class="post" data-post-id="28356" data-author="13" data-date="2009-03-01T12:05:36+00:00">
+<div class="post" data-post-id="28356" data-author="13" data-date="2009-03-01T12:05:36+00:00" data-subject="">
 
 :!:
 
 </div>
 
-<div class="post" data-post-id="28362" data-author="Poggle" data-date="2009-03-02T17:33:51+00:00">
+<div class="post" data-post-id="28362" data-author="Poggle" data-date="2009-03-02T17:33:51+00:00" data-subject="">
 
 ...there ain't no mountain high enough, ain't no valley low enough, ain't no river wide enough to keep me from gettin to you bitch.
 
 </div>
 
-<div class="post" data-post-id="28367" data-author="reboog" data-date="2009-03-02T20:11:25+00:00">
+<div class="post" data-post-id="28367" data-author="reboog" data-date="2009-03-02T20:11:25+00:00" data-subject="">
 
 I wanna know what love is.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="7346" data-author="Gnu" data-date="2005-06-20T04:35:29+00:00">
+<div class="post" data-post-id="7346" data-author="Gnu" data-date="2005-06-20T04:35:29+00:00" data-subject="how can solid mob die as an etheral one?">
 
 Zukt brutally guts Seraph!
 
@@ -32,7 +32,7 @@ Seraph breaks free of the tentacles!
 
 </div>
 
-<div class="post" data-post-id="7352" data-author="12345" data-date="2005-06-20T10:08:15+00:00">
+<div class="post" data-post-id="7352" data-author="12345" data-date="2005-06-20T10:08:15+00:00" data-subject="">
 
 From what I can tell, there's an actual flag that allows builders to make mobs like that.  There's at least one area filled with mobs like this. Mostly it just makes autoloot useless.
 

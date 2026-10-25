@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35012" data-author="Hung" data-date="2014-04-19T20:40:30+00:00">
+<div class="post" data-post-id="35012" data-author="Hung" data-date="2014-04-19T20:40:30+00:00" data-subject="Bought ebony helm with reddish eye attached at BH Auction">
 
 Does anyone miss that eye?
 

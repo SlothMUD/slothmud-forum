@@ -10,13 +10,13 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="34030" data-author="*juggleblood*" data-date="2013-02-13T04:56:35+00:00">
+<div class="post" data-post-id="34030" data-author="*juggleblood*" data-date="2013-02-13T04:56:35+00:00" data-subject="Bal Harbor library is open for business">
 
 The Bal Harbor Guild alliance has generously provided a space and the funds for a library for the magical and martial arts alike. The library is located in the base of the guild tower near the Chief Scribe and the Mages guild. A woman named Janatra has worked very hard at putting the library together. Manuals and tomes may be bought for nothing and sold for nothing, courtesy of the guild alliance.
 
 </div>
 
-<div class="post" data-post-id="34031" data-author="Yasik" data-date="2013-02-13T05:28:39+00:00">
+<div class="post" data-post-id="34031" data-author="Yasik" data-date="2013-02-13T05:28:39+00:00" data-subject="Re: Bal Harbor library is open for business">
 
 ***0         a massive spellbook**
 
@@ -38,7 +38,7 @@ I'd 1) set up reasonable price in gold, that must be put efforts to earn, compar
 
 </div>
 
-<div class="post" data-post-id="34032" data-author="*juggleblood*" data-date="2013-02-13T06:25:01+00:00">
+<div class="post" data-post-id="34032" data-author="*juggleblood*" data-date="2013-02-13T06:25:01+00:00" data-subject="Re: Bal Harbor library is open for business">
 
 You're skeptical of all improvements, which i why I've ceased valuing your feedback. It's unfortunate. 
 
@@ -50,7 +50,7 @@ Whatever is wrong with your real life has nothing to do with us. Maybe if you go
 
 </div>
 
-<div class="post" data-post-id="34036" data-author="celerra7" data-date="2013-02-13T17:07:22+00:00">
+<div class="post" data-post-id="34036" data-author="celerra7" data-date="2013-02-13T17:07:22+00:00" data-subject="Re: Bal Harbor library is open for business">
 
 > **Quote:**
 > You're skeptical of all improvements, which i why I've ceased valuing your feedback. It's unfortunate. 
@@ -71,13 +71,13 @@ What did Yasik get for the effort??  I'm not a follower of Yasik or JB.  I find 
 
 </div>
 
-<div class="post" data-post-id="34037" data-author="Sleeping Forest" data-date="2013-02-14T00:20:45+00:00">
+<div class="post" data-post-id="34037" data-author="Sleeping Forest" data-date="2013-02-14T00:20:45+00:00" data-subject="Re: Bal Harbor library is open for business">
 
 Everyone always drops books at that spot in the tower anyways. now there just in a list form with a mob that sorts and distributes them. +1 Juggleblood. excellent addition.
 
 </div>
 
-<div class="post" data-post-id="34038" data-author="*juggleblood*" data-date="2013-02-14T06:01:10+00:00">
+<div class="post" data-post-id="34038" data-author="*juggleblood*" data-date="2013-02-14T06:01:10+00:00" data-subject="Re: Bal Harbor library is open for business">
 
 Adding a librarian to Bal Harbor is part of my secret plot to destroy the mud's economy by flooding the market with cheap newbie spellbooks. 
 
@@ -85,19 +85,19 @@ And none of you can stop me.
 
 </div>
 
-<div class="post" data-post-id="34041" data-author="Stark" data-date="2013-02-14T18:50:29+00:00">
+<div class="post" data-post-id="34041" data-author="Stark" data-date="2013-02-14T18:50:29+00:00" data-subject="Re: Bal Harbor library is open for business">
 
 This is fantastic.  No more rooms cluttered with dropped books, and (assuming it works the same way as the valk library) it only takes a glance to see if there's one you need.  :D
 
 </div>
 
-<div class="post" data-post-id="34060" data-author="*Pixie*" data-date="2013-02-20T19:14:18+00:00">
+<div class="post" data-post-id="34060" data-author="*Pixie*" data-date="2013-02-20T19:14:18+00:00" data-subject="Re: Bal Harbor library is open for business">
 
 very nice jb! good job! now when you enter the popular rooms filled with spellbooks you are not spammed by all the books, and do not either have to pick them all up for just one or try to get the keyword right on the book you need. i personally like being able to type list like any other merchant.  as to those taking offense to this new update.. except it as it is, if the books had value off valk people would sell them for profit as they are sold on valk, this makes sense. it frees up the books on the ground, and makes it easier to get the book you need that would normally be laying in a pile of 100 random books.
 
 </div>
 
-<div class="post" data-post-id="34085" data-author="Jecka" data-date="2013-02-24T12:13:09+00:00">
+<div class="post" data-post-id="34085" data-author="Jecka" data-date="2013-02-24T12:13:09+00:00" data-subject="Re: Bal Harbor library is open for business">
 
 Yes juggleblood rules!
 
@@ -105,7 +105,7 @@ His clown avatar reminds me of that killer clown  :evil:
 
 </div>
 
-<div class="post" data-post-id="34088" data-author="Sleeping Forest" data-date="2013-02-25T00:59:02+00:00">
+<div class="post" data-post-id="34088" data-author="Sleeping Forest" data-date="2013-02-25T00:59:02+00:00" data-subject="Re: Bal Harbor library is open for business">
 
 cult classic
 

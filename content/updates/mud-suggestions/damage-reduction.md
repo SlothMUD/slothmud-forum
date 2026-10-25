@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="36380" data-author="Teron" data-date="2015-12-27T18:53:36+00:00">
+<div class="post" data-post-id="36380" data-author="Teron" data-date="2015-12-27T18:53:36+00:00" data-subject="Damage Reduction">
 
 Hi there.
 
@@ -22,13 +22,13 @@ Thank you.
 
 </div>
 
-<div class="post" data-post-id="36381" data-author="*Breeze*" data-date="2015-12-27T22:42:51+00:00">
+<div class="post" data-post-id="36381" data-author="*Breeze*" data-date="2015-12-27T22:42:51+00:00" data-subject="Re: Damage Reduction">
 
 thats a generic disclaimer... what would you suggest needs changed in reference to D.R. ?
 
 </div>
 
-<div class="post" data-post-id="36382" data-author="Teron" data-date="2015-12-28T00:40:12+00:00">
+<div class="post" data-post-id="36382" data-author="Teron" data-date="2015-12-28T00:40:12+00:00" data-subject="Re: Damage Reduction">
 
 As far as I remember, right now, DR is -1 damage taken before sanc is applied.
 
@@ -48,7 +48,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36386" data-author="Josiah" data-date="2015-12-28T22:06:36+00:00">
+<div class="post" data-post-id="36386" data-author="Josiah" data-date="2015-12-28T22:06:36+00:00" data-subject="Re: Damage Reduction">
 
 tl;dr Damage Reduction is good.
 
@@ -70,7 +70,7 @@ This estimate also holds up well when you look at eq and rune options which seem
 
 </div>
 
-<div class="post" data-post-id="36387" data-author="Teron" data-date="2015-12-29T00:01:40+00:00">
+<div class="post" data-post-id="36387" data-author="Teron" data-date="2015-12-29T00:01:40+00:00" data-subject="Re: Damage Reduction">
 
 Hey, thanks for the response.
 

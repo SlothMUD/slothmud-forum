@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="18230" data-author="Hades" data-date="2007-04-28T21:57:15+00:00">
+<div class="post" data-post-id="18230" data-author="Hades" data-date="2007-04-28T21:57:15+00:00" data-subject="Eating Crow">
 
 [<LINK_TEXT text="http://a1568.g.akamai.net/7/1568/1600/2 ... rl_120.jpg">http://a1568.g.akamai.net/7/1568/1600/20070427201846/music.yahoo.com/promos/topevents/images/Sheryl%20Karl_120.jpg</LINK_TEXT>](http://a1568.g.akamai.net/7/1568/1600/20070427201846/music.yahoo.com/promos/topevents/images/Sheryl%20Karl_120.jpg)
 

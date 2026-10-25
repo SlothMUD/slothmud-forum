@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29576" data-author="*Splork*" data-date="2009-06-24T22:53:31+00:00">
+<div class="post" data-post-id="29576" data-author="*Splork*" data-date="2009-06-24T22:53:31+00:00" data-subject="Huge changes">
 
 1) Spell Disruption should be 0 if you have learned battle focus. (so it has basically been removed if learned)
 
@@ -26,7 +26,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29582" data-author="*Splork*" data-date="2009-06-26T12:53:34+00:00">
+<div class="post" data-post-id="29582" data-author="*Splork*" data-date="2009-06-26T12:53:34+00:00" data-subject="more good changes...">
 
 1) All spells had a roll of 101 roll for lost concentration. I have changed it to a flat 100. This means there should be quite a bit less lost concentration over the course of a day.
 

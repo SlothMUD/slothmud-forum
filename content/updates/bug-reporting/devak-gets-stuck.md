@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39998" data-author="cnl" data-date="2023-01-13T01:34:06+00:00">
+<div class="post" data-post-id="39998" data-author="cnl" data-date="2023-01-13T01:34:06+00:00" data-subject="devak gets stuck">
 
 if you have weight / too many items issue ? when casting to retrieve your devak, it enters a state where it's not-retrievable.
 
@@ -20,13 +20,13 @@ looking shows the devak in the room but if you try to get it it says you can't g
 
 </div>
 
-<div class="post" data-post-id="40143" data-author="*teker*" data-date="2025-01-12T00:43:14+00:00">
+<div class="post" data-post-id="40143" data-author="*teker*" data-date="2025-01-12T00:43:14+00:00" data-subject="Re: devak gets stuck">
 
 I just looked at the code and I'm not seeing any kind of full inventory check when retrieving devaks.  Maybe you could show the message you receive if you see it again.
 
 </div>
 
-<div class="post" data-post-id="40145" data-author="cnl" data-date="2025-01-29T04:09:42+00:00">
+<div class="post" data-post-id="40145" data-author="cnl" data-date="2025-01-29T04:09:42+00:00" data-subject="Re: devak gets stuck">
 
 I tried to duplicate this and I could not.
 

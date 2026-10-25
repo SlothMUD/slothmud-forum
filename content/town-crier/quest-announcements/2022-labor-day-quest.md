@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39970" data-author="*Idjit*" data-date="2022-08-28T04:15:12+00:00">
+<div class="post" data-post-id="39970" data-author="*Idjit*" data-date="2022-08-28T04:15:12+00:00" data-subject="2022 Labor Day Quest">
 
 Herro one and all,
 

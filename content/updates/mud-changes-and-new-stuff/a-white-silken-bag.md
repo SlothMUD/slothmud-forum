@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32165" data-author="*Isabo*" data-date="2010-12-15T18:55:11+00:00">
+<div class="post" data-post-id="32165" data-author="*Isabo*" data-date="2010-12-15T18:55:11+00:00" data-subject="a white-silken bag">
 
 Greetings mortals.
 

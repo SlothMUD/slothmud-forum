@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="39375" data-author="Gorka" data-date="2020-02-27T13:42:16+00:00">
+<div class="post" data-post-id="39375" data-author="Gorka" data-date="2020-02-27T13:42:16+00:00" data-subject="Junk protection">
 
 I accidentally junked my spear of pestilence today, after noticing a wooden spear in inv, and typing "junk spear."
 
@@ -64,19 +64,19 @@ Ideally the game wouldn't allow you to junk PERSONAL items, or items with a rune
 
 </div>
 
-<div class="post" data-post-id="39376" data-author="Filk" data-date="2020-02-28T02:50:10+00:00">
+<div class="post" data-post-id="39376" data-author="Filk" data-date="2020-02-28T02:50:10+00:00" data-subject="Re: Junk protection">
 
 Ideally, there should be standart confirmation question after junking personal item
 
 </div>
 
-<div class="post" data-post-id="39377" data-author="Bandit" data-date="2020-02-28T16:10:52+00:00">
+<div class="post" data-post-id="39377" data-author="Bandit" data-date="2020-02-28T16:10:52+00:00" data-subject="Re: Junk protection">
 
 Maybe a "junk!" command for personal items? Just like some other things require the ! as a confirmation of something that can't be reversed.
 
 </div>
 
-<div class="post" data-post-id="39378" data-author="*teker*" data-date="2020-03-02T19:07:37+00:00">
+<div class="post" data-post-id="39378" data-author="*teker*" data-date="2020-03-02T19:07:37+00:00" data-subject="Re: Junk protection">
 
 So thinking along these lines, would it also make sense to protect against:
 
@@ -98,7 +98,7 @@ What items should be protected?
 
 </div>
 
-<div class="post" data-post-id="39379" data-author="Gorka" data-date="2020-03-03T06:36:16+00:00">
+<div class="post" data-post-id="39379" data-author="Gorka" data-date="2020-03-03T06:36:16+00:00" data-subject="Re: Junk protection">
 
 > ***teker* wrote:**
 > So thinking along these lines, would it also make sense to protect against:
@@ -139,7 +139,7 @@ Implementing a confirmation to junk for certain items, isn't a bad idea, but see
 
 </div>
 
-<div class="post" data-post-id="39380" data-author="*teker*" data-date="2020-03-03T17:24:04+00:00">
+<div class="post" data-post-id="39380" data-author="*teker*" data-date="2020-03-03T17:24:04+00:00" data-subject="Re: Junk protection">
 
 > **Gorka wrote:**
 > Not sure about protecting against, drop, give and sell... and these options don't destroy the item anyway, so they are less harmful. How else would one drop the bag of merchandise from quickling king for example, while trying to load a haste book.
@@ -148,19 +148,19 @@ I'm thinking we'd implement drop!, give!, sell!, etc just like junk! that would 
 
 </div>
 
-<div class="post" data-post-id="39381" data-author="*Breeze*" data-date="2020-03-04T18:41:48+00:00">
+<div class="post" data-post-id="39381" data-author="*Breeze*" data-date="2020-03-04T18:41:48+00:00" data-subject="Re: Junk protection">
 
 Good idea teker
 
 </div>
 
-<div class="post" data-post-id="39413" data-author="*teker*" data-date="2020-04-01T14:14:09+00:00">
+<div class="post" data-post-id="39413" data-author="*teker*" data-date="2020-04-01T14:14:09+00:00" data-subject="Re: Junk protection">
 
 Version 1 of this feature went live with the reboot yesterday.  Help IPROTECT.
 
 </div>
 
-<div class="post" data-post-id="39414" data-author="Gorka" data-date="2020-04-01T15:53:29+00:00">
+<div class="post" data-post-id="39414" data-author="Gorka" data-date="2020-04-01T15:53:29+00:00" data-subject="Re: Junk protection">
 
 >IPROTECT
 
@@ -170,7 +170,7 @@ I wondered if the immortals and builders might consider adding a blank no effect
 
 </div>
 
-<div class="post" data-post-id="39821" data-author="cnl" data-date="2021-09-15T04:28:38+00:00">
+<div class="post" data-post-id="39821" data-author="cnl" data-date="2021-09-15T04:28:38+00:00" data-subject="Re: Junk protection">
 
 good news.
 

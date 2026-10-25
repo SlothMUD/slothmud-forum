@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="28467" data-author="Medios" data-date="2009-03-12T16:07:43+00:00">
+<div class="post" data-post-id="28467" data-author="Medios" data-date="2009-03-12T16:07:43+00:00" data-subject="Culture of corruption or business as usual?">
 
 [http://www.wtop.com/?nid=596&sid=1622618](http://www.wtop.com/?nid=596&sid=1622618)
 
@@ -26,19 +26,19 @@ Acar, 40, was taken into custody Thursday morning by FBI agents at his home in N
 
 </div>
 
-<div class="post" data-post-id="28468" data-author="Yasik2" data-date="2009-03-12T16:58:00+00:00">
+<div class="post" data-post-id="28468" data-author="Yasik2" data-date="2009-03-12T16:58:00+00:00" data-subject="">
 
 [img:1x9r17x2]http://yasik.kiev.ua/Not_This_Shit_Again_2.jpg[/img:1x9r17x2]
 
 </div>
 
-<div class="post" data-post-id="28469" data-author="Poggle" data-date="2009-03-12T16:59:18+00:00">
+<div class="post" data-post-id="28469" data-author="Poggle" data-date="2009-03-12T16:59:18+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.guardian.co.uk/world/2009/ma ... rack-obama">http://www.guardian.co.uk/world/2009/mar/11/obama-administration-barack-obama</LINK_TEXT>](http://www.guardian.co.uk/world/2009/mar/11/obama-administration-barack-obama)
 
 </div>
 
-<div class="post" data-post-id="28565" data-author="Medios" data-date="2009-03-19T20:48:44+00:00">
+<div class="post" data-post-id="28565" data-author="Medios" data-date="2009-03-19T20:48:44+00:00" data-subject="">
 
 [<LINK_TEXT text="https://www.activaterewards.com/bankofa ... donus-_-NA">https://www.activaterewards.com/bankofamerica?cm_mmc=EBZ-EnterpriseBrand-_-vanity-_-EB01VN0001_3donus-_-NA</LINK_TEXT>](https://www.activaterewards.com/bankofamerica?cm_mmc=EBZ-EnterpriseBrand-_-vanity-_-EB01VN0001_3donus-_-NA)
 
@@ -46,31 +46,31 @@ Apparently Bank of America is subsidizing 3d tickets for the new Dreamworks film
 
 </div>
 
-<div class="post" data-post-id="28566" data-author="Rynquald" data-date="2009-03-19T23:17:25+00:00">
+<div class="post" data-post-id="28566" data-author="Rynquald" data-date="2009-03-19T23:17:25+00:00" data-subject="">
 
 Culture of corruption OR business as usual?
 
 </div>
 
-<div class="post" data-post-id="28567" data-author="angel" data-date="2009-03-20T04:23:36+00:00">
+<div class="post" data-post-id="28567" data-author="angel" data-date="2009-03-20T04:23:36+00:00" data-subject="">
 
 joe,whereve u been!
 
 </div>
 
-<div class="post" data-post-id="28573" data-author="Rynquald" data-date="2009-03-20T22:07:02+00:00">
+<div class="post" data-post-id="28573" data-author="Rynquald" data-date="2009-03-20T22:07:02+00:00" data-subject="">
 
 My mum's appendix burst. So I've been in and out of the hospital and rather busy. I've been keeping up with the crier (and voting :) ) when I get the chance though.
 
 </div>
 
-<div class="post" data-post-id="28574" data-author="Yinao" data-date="2009-03-21T03:15:01+00:00">
+<div class="post" data-post-id="28574" data-author="Yinao" data-date="2009-03-21T03:15:01+00:00" data-subject="">
 
 Hey, since Joe's posting here just thought i'd let you know I got some stuff to give back to you, got another set just lemme know when you get the chance. Good luck with your mom too, my mom had the same thing happen to her few years back.
 
 </div>
 
-<div class="post" data-post-id="28575" data-author="Rynquald" data-date="2009-03-21T05:00:35+00:00">
+<div class="post" data-post-id="28575" data-author="Rynquald" data-date="2009-03-21T05:00:35+00:00" data-subject="">
 
 Thanks Yin.
 

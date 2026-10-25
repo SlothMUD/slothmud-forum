@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="31455" data-author="Briza" data-date="2010-08-11T21:07:01+00:00">
+<div class="post" data-post-id="31455" data-author="Briza" data-date="2010-08-11T21:07:01+00:00" data-subject="Secondary Class Help">
 
 Hello,
 
@@ -30,7 +30,7 @@ Hello,
 
 </div>
 
-<div class="post" data-post-id="31458" data-author="jezer" data-date="2010-08-11T22:03:08+00:00">
+<div class="post" data-post-id="31458" data-author="jezer" data-date="2010-08-11T22:03:08+00:00" data-subject="Re: Secondary Class Help">
 
 Good question Briza,
 
@@ -52,7 +52,7 @@ At the end of the day, do what you want to do and enjoy it. Don't be afraid to p
 
 </div>
 
-<div class="post" data-post-id="31465" data-author="Jag" data-date="2010-08-12T00:26:27+00:00">
+<div class="post" data-post-id="31465" data-author="Jag" data-date="2010-08-12T00:26:27+00:00" data-subject="Re: Secondary Class Help">
 
 I recomend mage second and war third.  Blasting and various useful spells for solo and warr still pretty high in the class order for a little toughness and eq.
 
@@ -60,7 +60,7 @@ With 8 classes most anything will be playable and everything will have a few rou
 
 </div>
 
-<div class="post" data-post-id="31467" data-author="Briza" data-date="2010-08-12T08:06:01+00:00">
+<div class="post" data-post-id="31467" data-author="Briza" data-date="2010-08-12T08:06:01+00:00" data-subject="Re: Secondary Class Help">
 
 Glad to see people are alive and responding - Thank you both for the insight...
 
@@ -82,7 +82,7 @@ Glad to see people are alive and responding - Thank you both for the insight...
 
 </div>
 
-<div class="post" data-post-id="31468" data-author="jezer" data-date="2010-08-12T08:12:07+00:00">
+<div class="post" data-post-id="31468" data-author="jezer" data-date="2010-08-12T08:12:07+00:00" data-subject="Re: Secondary Class Help">
 
 The difference between having bard 2nd/3rd or having it 7th/8th - practically speaking, and more in a solo sense - is next to nil. Having mage or druid higher is far more important.
 
@@ -90,7 +90,7 @@ Mage is always a safe bet, I don't think you can ever be disappointed putting ma
 
 </div>
 
-<div class="post" data-post-id="31469" data-author="Briza" data-date="2010-08-12T08:19:39+00:00">
+<div class="post" data-post-id="31469" data-author="Briza" data-date="2010-08-12T08:19:39+00:00" data-subject="Re: Secondary Class Help">
 
 well was thinking
 
@@ -112,7 +112,7 @@ Cleric/Mage/Warrior/Druid
 
 </div>
 
-<div class="post" data-post-id="31470" data-author="jezer" data-date="2010-08-12T08:35:15+00:00">
+<div class="post" data-post-id="31470" data-author="jezer" data-date="2010-08-12T08:35:15+00:00" data-subject="Re: Secondary Class Help">
 
 I'd eliminate these...
 
@@ -134,7 +134,7 @@ I'm not going to say what I'd pick ;)
 
 </div>
 
-<div class="post" data-post-id="31475" data-author="Jag" data-date="2010-08-12T12:53:07+00:00">
+<div class="post" data-post-id="31475" data-author="Jag" data-date="2010-08-12T12:53:07+00:00" data-subject="Re: Secondary Class Help">
 
 Bards are definitely cool, but I agree with Jeezer (slap self) that it isn't a great second class with prime cleric.  Bard is great and so is cleric but in both cases they are most powerful as players that make groups work well.  And if you are a big bard singing for the group, you won't be healing and vice versa.
 

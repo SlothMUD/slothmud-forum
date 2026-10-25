@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="1532" data-author="Dragoth" data-date="2004-08-22T02:05:21+00:00">
+<div class="post" data-post-id="1532" data-author="Dragoth" data-date="2004-08-22T02:05:21+00:00" data-subject="Ring of Flames (8mil min)">
 
 You recite a scroll of identify which dissolves.
 
@@ -38,7 +38,7 @@ may use this item.
 
 </div>
 
-<div class="post" data-post-id="1544" data-author="Dragoth" data-date="2004-08-22T22:48:18+00:00">
+<div class="post" data-post-id="1544" data-author="Dragoth" data-date="2004-08-22T22:48:18+00:00" data-subject="">
 
 :shock:
 

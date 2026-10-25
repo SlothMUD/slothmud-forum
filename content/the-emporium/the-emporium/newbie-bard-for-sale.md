@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35160" data-author="Hung" data-date="2014-05-15T13:04:36+00:00">
+<div class="post" data-post-id="35160" data-author="Hung" data-date="2014-05-15T13:04:36+00:00" data-subject="Newbie Bard For Sale">
 
 Deekin Scalesinger  (level: 15)
 
@@ -56,7 +56,7 @@ Starting price: 6m
 
 </div>
 
-<div class="post" data-post-id="35176" data-author="Hung" data-date="2014-05-27T23:27:39+00:00">
+<div class="post" data-post-id="35176" data-author="Hung" data-date="2014-05-27T23:27:39+00:00" data-subject="Re: Newbie Bard For Sale">
 
 Sold.
 

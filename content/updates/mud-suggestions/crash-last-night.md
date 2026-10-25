@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="5064" data-author="benq2" data-date="2005-03-15T07:31:23+00:00">
+<div class="post" data-post-id="5064" data-author="benq2" data-date="2005-03-15T07:31:23+00:00" data-subject="Crash Last Night">
 
 Most of you will probably think its silly, but it never hurts to ask..
 
@@ -28,7 +28,7 @@ just my 2 cents.
 
 </div>
 
-<div class="post" data-post-id="5065" data-author="Mustang" data-date="2005-03-15T07:37:12+00:00">
+<div class="post" data-post-id="5065" data-author="Mustang" data-date="2005-03-15T07:37:12+00:00" data-subject="">
 
 Benq,
 
@@ -36,13 +36,13 @@ it'd be much much easier for the immorts just to teach players to save often.
 
 </div>
 
-<div class="post" data-post-id="5067" data-author="benq2" data-date="2005-03-15T08:08:17+00:00">
+<div class="post" data-post-id="5067" data-author="benq2" data-date="2005-03-15T08:08:17+00:00" data-subject="">
 
 i do save. almost constantly actually.
 
 </div>
 
-<div class="post" data-post-id="5076" data-author="Xuan" data-date="2005-03-15T16:01:29+00:00">
+<div class="post" data-post-id="5076" data-author="Xuan" data-date="2005-03-15T16:01:29+00:00" data-subject="">
 
 Benq,
 
@@ -52,7 +52,7 @@ Well there might be "accident" such as when u corpse n crushes?  :)
 
 </div>
 
-<div class="post" data-post-id="5078" data-author="Mustang" data-date="2005-03-15T16:12:54+00:00">
+<div class="post" data-post-id="5078" data-author="Mustang" data-date="2005-03-15T16:12:54+00:00" data-subject="">
 
 if you corpse and crash, your corpse appears when the game starts up again
 
@@ -60,13 +60,13 @@ however, any items looted are lost (correct me if i'm wrong) which I still feel 
 
 </div>
 
-<div class="post" data-post-id="5084" data-author="benq2" data-date="2005-03-15T18:40:46+00:00">
+<div class="post" data-post-id="5084" data-author="benq2" data-date="2005-03-15T18:40:46+00:00" data-subject="">
 
 mustang, i didnt corpse. someone else did. i was holding their corpse (in a pack) when game crashed. i was switching eq to get in int mode when mud crashed and on reboot, the mud put all of the other persons eq in my inventory so it got mixed up with my int eq.  saving wouldnt help that =/
 
 </div>
 
-<div class="post" data-post-id="5085" data-author="Clink" data-date="2005-03-15T18:50:33+00:00">
+<div class="post" data-post-id="5085" data-author="Clink" data-date="2005-03-15T18:50:33+00:00" data-subject="">
 
 I'm not addressing the specific situation that started this thread because I don't think we will ever do anything about it.  But, the last comment might be worth a response.  One of the reasons that equipment poofs on crash if it isn't in a corpse is technical, the other is philisophical.
 
@@ -82,7 +82,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="5087" data-author="Vixn" data-date="2005-03-15T19:22:33+00:00">
+<div class="post" data-post-id="5087" data-author="Vixn" data-date="2005-03-15T19:22:33+00:00" data-subject="">
 
 The other ways for equipment to leave the game are approximately:  selling things in a shop, forging into another item, intentionally junking and the occasional player wiped. 
 
@@ -94,7 +94,7 @@ ps I didn't mean you need to make it more frequent ;)
 
 </div>
 
-<div class="post" data-post-id="5103" data-author="Leaf" data-date="2005-03-16T12:27:11+00:00">
+<div class="post" data-post-id="5103" data-author="Leaf" data-date="2005-03-16T12:27:11+00:00" data-subject="">
 
 What about if a mob loots the corpse and then it crashs?
 
@@ -130,7 +130,7 @@ dull or something.  Just something to add more realism.
 
 </div>
 
-<div class="post" data-post-id="5105" data-author="12345" data-date="2005-03-16T12:45:23+00:00">
+<div class="post" data-post-id="5105" data-author="12345" data-date="2005-03-16T12:45:23+00:00" data-subject="">
 
 I think Leaf just described SillyMUD.  Interesting and incredibly old codebase.  Continually having to spend money on rent and repairs completely blows.  Especially since implementing it pretty much means implementing material types.  I can't tell you how many times I've been completely pissed off because I got hit and my robe became scrap.  Or a dragon lit it on fire.  Mage mobs become impossible to cycle because you're afraid they'll use fireball or acid blast and destroy half your equipment.
 
@@ -138,7 +138,7 @@ Not surprisingly... I stopped playing that game.
 
 </div>
 
-<div class="post" data-post-id="5106" data-author="Leaf" data-date="2005-03-16T13:10:46+00:00">
+<div class="post" data-post-id="5106" data-author="Leaf" data-date="2005-03-16T13:10:46+00:00" data-subject="">
 
 Will like I said... the items will never get "broken" or damaged beyond
 
@@ -150,7 +150,7 @@ ur ac -.3 for a few runs and slowly, very slowly it will get +.1 from battles.
 
 </div>
 
-<div class="post" data-post-id="5107" data-author="firebrand" data-date="2005-03-16T13:25:23+00:00">
+<div class="post" data-post-id="5107" data-author="firebrand" data-date="2005-03-16T13:25:23+00:00" data-subject="">
 
 leaf sed: 
 
@@ -176,7 +176,7 @@ we pay rent just to cover repairing our armor and sharpening our eq, leaf.  i gu
 
 </div>
 
-<div class="post" data-post-id="5108" data-author="12345" data-date="2005-03-16T14:09:24+00:00">
+<div class="post" data-post-id="5108" data-author="12345" data-date="2005-03-16T14:09:24+00:00" data-subject="">
 
 we pay rent just to cover repairing our armor and sharpening our eq, leaf.[/quote:5hp75vsg]
 
@@ -184,7 +184,7 @@ True... rent used to be free.  Why did we reimplement rent anyway?
 
 </div>
 
-<div class="post" data-post-id="5109" data-author="Leaf" data-date="2005-03-16T14:10:42+00:00">
+<div class="post" data-post-id="5109" data-author="Leaf" data-date="2005-03-16T14:10:42+00:00" data-subject="">
 
 Woo Wooo woooo Reb :P
 
@@ -218,7 +218,7 @@ and he/she starts polishing, and sharping our weapons :)
 
 </div>
 
-<div class="post" data-post-id="5110" data-author="Blastem" data-date="2005-03-16T14:17:11+00:00">
+<div class="post" data-post-id="5110" data-author="Blastem" data-date="2005-03-16T14:17:11+00:00" data-subject="">
 
 There are already some mobs in the game that destroy items (the dragon in autumnal forest comes to mind) imho this is not a good way to remove items from the game.  I've played in muds that did eq / weapon damage and it majorly sucked.  I''ve only played on one that had a decent system for it and in that system your eq gradually wore out and you either had to take it to a smith to get it fixed or use an item/skill to repair (use stone sword to whet / repair sword) thing was in this system you almost had to try to get an item to break as all you had to do was fix it when it got below a certain level.   
 
@@ -226,7 +226,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="5112" data-author="Leaf" data-date="2005-03-16T14:59:40+00:00">
+<div class="post" data-post-id="5112" data-author="Leaf" data-date="2005-03-16T14:59:40+00:00" data-subject="">
 
 Well I'm not tring to get Reb to be all up on me, well not in this way  8) 
 
@@ -242,7 +242,7 @@ last a long time.
 
 </div>
 
-<div class="post" data-post-id="5113" data-author="12345" data-date="2005-03-16T15:02:38+00:00">
+<div class="post" data-post-id="5113" data-author="12345" data-date="2005-03-16T15:02:38+00:00" data-subject="">
 
 -The philisophical argument is that there are very few ways for items to dissappear from the game on whole.  Don't confuse this with losing an item and someone else getting it.  The other ways for equipment to leave the game are approximately:  selling things in a shop, forging into another item, intentionally junking and the occasional player wiped.[/quote:1f1476i1]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="38427" data-author="*Idjit*" data-date="2017-09-12T06:50:28+00:00">
+<div class="post" data-post-id="38427" data-author="*Idjit*" data-date="2017-09-12T06:50:28+00:00" data-subject="Zuzu Rebirth Log">
 
 sent Felix email to rebirth 1-5-2017
 
@@ -102,7 +102,7 @@ afternoon of 9-9-2017: 65hp stamina
 
 </div>
 
-<div class="post" data-post-id="38428" data-author="Gorka" data-date="2017-09-12T07:53:28+00:00">
+<div class="post" data-post-id="38428" data-author="Gorka" data-date="2017-09-12T07:53:28+00:00" data-subject="Re: Zuzu Rebirth Log">
 
 Must be time for Rebirth Shop?  :wink: 
 
@@ -110,13 +110,13 @@ Another layer of Max_Stats, more hit/dam/attributes... more perm spells. There a
 
 </div>
 
-<div class="post" data-post-id="38429" data-author="Teron" data-date="2017-09-13T03:39:08+00:00">
+<div class="post" data-post-id="38429" data-author="Teron" data-date="2017-09-13T03:39:08+00:00" data-subject="Re: Zuzu Rebirth Log">
 
 Not to mention taking into account the cost of bought, and then rerolled, stats.
 
 </div>
 
-<div class="post" data-post-id="38430" data-author="*Idjit*" data-date="2017-09-13T18:29:59+00:00">
+<div class="post" data-post-id="38430" data-author="*Idjit*" data-date="2017-09-13T18:29:59+00:00" data-subject="Re: Zuzu Rebirth Log">
 
 Breeze has said he might do something special, but at this time there is no plan for a full rebirth Shop.
 
@@ -124,7 +124,7 @@ Breeze has said he might do something special, but at this time there is no plan
 
 </div>
 
-<div class="post" data-post-id="38431" data-author="Josiah" data-date="2017-09-13T20:03:21+00:00">
+<div class="post" data-post-id="38431" data-author="Josiah" data-date="2017-09-13T20:03:21+00:00" data-subject="Re: Zuzu Rebirth Log">
 
 Two month from 8x40 to 9x40 eh?  Guess I better step up my game, I'm almost 8x40.
 
@@ -132,7 +132,7 @@ Pretty cool to see so many of the reborn still playing!
 
 </div>
 
-<div class="post" data-post-id="38432" data-author="Dandelo" data-date="2017-09-16T22:54:44+00:00">
+<div class="post" data-post-id="38432" data-author="Dandelo" data-date="2017-09-16T22:54:44+00:00" data-subject="Re: Zuzu Rebirth Log">
 
 Congrats Zuzu! I really feel bad for not making any progress in 2 years!
 

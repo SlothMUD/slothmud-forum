@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30930" data-author="Thraxas" data-date="2010-03-03T14:41:46+00:00">
+<div class="post" data-post-id="30930" data-author="Thraxas" data-date="2010-03-03T14:41:46+00:00" data-subject="xag and xeg">
 
 if in the same group members have a xag and a xeg they really dont seem to like it :
 
@@ -34,7 +34,7 @@ Your blood freezes as you hear someone's death cry.
 
 </div>
 
-<div class="post" data-post-id="30931" data-author="Virus" data-date="2010-03-03T15:00:23+00:00">
+<div class="post" data-post-id="30931" data-author="Virus" data-date="2010-03-03T15:00:23+00:00" data-subject="">
 
 LOL...that looks fun!  :D
 

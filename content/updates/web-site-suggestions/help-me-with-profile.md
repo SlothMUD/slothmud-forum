@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="23184" data-author="Bazilus" data-date="2008-03-11T10:06:09+00:00">
+<div class="post" data-post-id="23184" data-author="Bazilus" data-date="2008-03-11T10:06:09+00:00" data-subject="help me with profile">
 
 Any moderator can respond, why i can't change info in my profile and can't change password (need always use copypast from mail). I want set something by myself.  :P  Thanks.
 
@@ -18,7 +18,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="23185" data-author="Leaf" data-date="2008-03-11T14:24:28+00:00">
+<div class="post" data-post-id="23185" data-author="Leaf" data-date="2008-03-11T14:24:28+00:00" data-subject="">
 
 NO PROFILE FOR YOU!!!
 
@@ -26,13 +26,13 @@ NO PROFILE FOR YOU!!!
 
 </div>
 
-<div class="post" data-post-id="23187" data-author="Widow" data-date="2008-03-11T16:15:14+00:00">
+<div class="post" data-post-id="23187" data-author="Widow" data-date="2008-03-11T16:15:14+00:00" data-subject="">
 
 I have the same prob. So if someone could post a fix, that'd be great.
 
 </div>
 
-<div class="post" data-post-id="24443" data-author="Weasel" data-date="2008-05-21T16:48:13+00:00">
+<div class="post" data-post-id="24443" data-author="Weasel" data-date="2008-05-21T16:48:13+00:00" data-subject="">
 
 *bump*
 

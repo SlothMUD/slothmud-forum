@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="29118" data-author="Vixn" data-date="2009-05-08T18:04:59+00:00">
+<div class="post" data-post-id="29118" data-author="Vixn" data-date="2009-05-08T18:04:59+00:00" data-subject="lost conc">
 
 I don't whine but it seems imms should check lost conc code. With this new spell disrupted message I start to lost concentration 2-3 times in a raw pretty often.
 
@@ -52,7 +52,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="29135" data-author="Vixn" data-date="2009-05-11T15:43:02+00:00">
+<div class="post" data-post-id="29135" data-author="Vixn" data-date="2009-05-11T15:43:02+00:00" data-subject="">
 
 Once again, guys who coded lost conc please check log below and ask yourself how many times newb (like me) should lost conc during one fight to decide that it's too lame to play more?
 
@@ -326,7 +326,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="29136" data-author="Shadis" data-date="2009-05-11T18:32:54+00:00">
+<div class="post" data-post-id="29136" data-author="Shadis" data-date="2009-05-11T18:32:54+00:00" data-subject="">
 
 grouptell ~Mindcrime~ i have lost conc 185 out of 1837 times
 
@@ -338,7 +338,7 @@ Looks like achange went in today so i shoud reset my tracker
 
 </div>
 
-<div class="post" data-post-id="29137" data-author="Magi" data-date="2009-05-12T00:55:30+00:00">
+<div class="post" data-post-id="29137" data-author="Magi" data-date="2009-05-12T00:55:30+00:00" data-subject="">
 
 A series of very well done tests by Kulgan (aka Verin/Calin) on sloth III  proved that lost conc has a different rate depending on which spell you are casting, with high level blasting spells leading the lost conc percentage.
 
@@ -346,13 +346,13 @@ Keep that in mind when you run the numbers :)
 
 </div>
 
-<div class="post" data-post-id="29138" data-author="jezer" data-date="2009-05-12T00:58:06+00:00">
+<div class="post" data-post-id="29138" data-author="jezer" data-date="2009-05-12T00:58:06+00:00" data-subject="">
 
 Yeah, that's why I only ever use magic missile... Flippin lost cons  :evil:
 
 </div>
 
-<div class="post" data-post-id="29185" data-author="Shadis" data-date="2009-05-16T16:31:47+00:00">
+<div class="post" data-post-id="29185" data-author="Shadis" data-date="2009-05-16T16:31:47+00:00" data-subject="">
 
 reset my tracker after the change ..not much changed
 
@@ -364,7 +364,7 @@ You grouptell: '~Mindcrime~ for a rate of 10 % lost concentration!'
 
 </div>
 
-<div class="post" data-post-id="29279" data-author="Vixn" data-date="2009-05-24T09:27:31+00:00">
+<div class="post" data-post-id="29279" data-author="Vixn" data-date="2009-05-24T09:27:31+00:00" data-subject="">
 
 I got a new record! 4 lost conc in a raw!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 53
 ---
 
-<div class="post" data-post-id="37605" data-author="Hung" data-date="2016-12-02T18:02:45+00:00">
+<div class="post" data-post-id="37605" data-author="Hung" data-date="2016-12-02T18:02:45+00:00" data-subject="Useless support classes">
 
 There is discussion in the neighbour topic on how to keep newbies in the game. And I think that one of the main sloth problems there is unintuitive class order system. It doesnt work as a newbie may expect. I.e. if I was a newbie, my first character would be probably wa/cl. As paladin is pretty balanced class in most RPGs. Unfortunately not in sloth. Where wa/cl is poor choice. While unintuitive wa/dr is much better choice. That brings the topic I would like to discuss. About the fact that some support classes are very useful(such as mentioned druid). And some are completely useless.
 
@@ -25,7 +25,7 @@ Thank you for reading so messy post. :)
 
 </div>
 
-<div class="post" data-post-id="37620" data-author="Teron" data-date="2016-12-03T18:49:25+00:00">
+<div class="post" data-post-id="37620" data-author="Teron" data-date="2016-12-03T18:49:25+00:00" data-subject="Re: Useless support classes">
 
 I'd hardly call thieves a support class. It's a damage dealer class.
 
@@ -41,7 +41,7 @@ What would prioritize thief is a non-prime melee attack, but I don't think it'll
 
 </div>
 
-<div class="post" data-post-id="37621" data-author="*juggleblood*" data-date="2016-12-03T18:50:09+00:00">
+<div class="post" data-post-id="37621" data-author="*juggleblood*" data-date="2016-12-03T18:50:09+00:00" data-subject="Re: Useless support classes">
 
 Thief - shadowwalk, urban stealth, search, backstab
 
@@ -57,7 +57,7 @@ And for cleric, I would have the battle supplicants auto-assist, (same for necro
 
 </div>
 
-<div class="post" data-post-id="37623" data-author="Teron" data-date="2016-12-03T19:11:53+00:00">
+<div class="post" data-post-id="37623" data-author="Teron" data-date="2016-12-03T19:11:53+00:00" data-subject="Re: Useless support classes">
 
 It seems that [if charisma did more than help at rarely used songs](http://www.slothmud.org/forum/viewtopic.php?f=30&t=4659), and people cared about charisma cap like they care about spell bonus/-saves caps, they'd put bard earlier in their classo.
 
@@ -65,7 +65,7 @@ And yeah, make gods work on stab.
 
 </div>
 
-<div class="post" data-post-id="37625" data-author="Hung" data-date="2016-12-03T20:30:18+00:00">
+<div class="post" data-post-id="37625" data-author="Hung" data-date="2016-12-03T20:30:18+00:00" data-subject="Re: Useless support classes">
 
 Sorry for unclear formulations.
 
@@ -79,7 +79,7 @@ My two points were:
 
 </div>
 
-<div class="post" data-post-id="37629" data-author="*juggleblood*" data-date="2016-12-03T22:38:06+00:00">
+<div class="post" data-post-id="37629" data-author="*juggleblood*" data-date="2016-12-03T22:38:06+00:00" data-subject="Re: Useless support classes">
 
 I'm skeptical of your logic. I don't know if "Is there a single reason to put thief 2nd?" is a useful question or not. The question implies a lot and I'm not sure I concur with any of the implications.
 
@@ -93,7 +93,7 @@ I'm not against ideas to improve the classes. I just don't buy into your asserti
 
 </div>
 
-<div class="post" data-post-id="37634" data-author="Teron" data-date="2016-12-04T01:37:37+00:00">
+<div class="post" data-post-id="37634" data-author="Teron" data-date="2016-12-04T01:37:37+00:00" data-subject="Re: Useless support classes">
 
 @JB, if you looked at older statistics [http://www.slothmud.org/wp/live-info/song-statistics](http://www.slothmud.org/wp/live-info/song-statistics), you'd have seen that what you think is important and what people use are quite different.
 
@@ -140,7 +140,7 @@ I bet you can count times you used it per week on one hand. Compare it to march 
 
 </div>
 
-<div class="post" data-post-id="37636" data-author="Gorka" data-date="2016-12-04T06:45:56+00:00">
+<div class="post" data-post-id="37636" data-author="Gorka" data-date="2016-12-04T06:45:56+00:00" data-subject="Re: Useless support classes">
 
 Hung, where are you going with this?  :shock: 
 
@@ -152,7 +152,7 @@ My second favourite part is where other people responded to the allegations seri
 
 </div>
 
-<div class="post" data-post-id="37637" data-author="Hung" data-date="2016-12-04T08:15:21+00:00">
+<div class="post" data-post-id="37637" data-author="Hung" data-date="2016-12-04T08:15:21+00:00" data-subject="Re: Useless support classes">
 
 Again, I just didnt express my thoughts clearly. I didnt mean that there are useless support classes, but that there are support classes which positions in the class order doesnt really matter. Probably I need to rename the topic.
 
@@ -170,7 +170,7 @@ Sorry for the misleading initial post again.
 
 </div>
 
-<div class="post" data-post-id="37641" data-author="Teron" data-date="2016-12-04T11:55:22+00:00">
+<div class="post" data-post-id="37641" data-author="Teron" data-date="2016-12-04T11:55:22+00:00" data-subject="Re: Useless support classes">
 
 I do agree that new players make shoddy classo decisions, mostly on their past experience on other games.
 
@@ -186,7 +186,7 @@ Also, warrior does play a big role in the first 4 classes, as does monk. Afterwa
 
 </div>
 
-<div class="post" data-post-id="37645" data-author="Hung" data-date="2016-12-04T14:19:40+00:00">
+<div class="post" data-post-id="37645" data-author="Hung" data-date="2016-12-04T14:19:40+00:00" data-subject="Re: Useless support classes">
 
 I think that the warrior plays role only if it has been chosen as prime class. No point of taking it from 2nd to 4th. What for? For hp bonus? Well, there is common consent that mana/manaregen is better choice, so a caster class is preferred.
 
@@ -198,7 +198,7 @@ Sorry, but I can't name any good class order that has warrior from 2nd to 4th po
 
 </div>
 
-<div class="post" data-post-id="37646" data-author="*juggleblood*" data-date="2016-12-04T14:33:01+00:00">
+<div class="post" data-post-id="37646" data-author="*juggleblood*" data-date="2016-12-04T14:33:01+00:00" data-subject="Re: Useless support classes">
 
 "will be gained eventually"
 
@@ -206,7 +206,7 @@ The order you get skills in does matter. Waiting to 8x40 for massive crit would 
 
 </div>
 
-<div class="post" data-post-id="37648" data-author="Hung" data-date="2016-12-04T15:07:09+00:00">
+<div class="post" data-post-id="37648" data-author="Hung" data-date="2016-12-04T15:07:09+00:00" data-subject="Re: Useless support classes">
 
 Massive crit hit is prime skill as far as I remember.
 
@@ -220,7 +220,7 @@ And 3x attack is just a small power-up, though it looks cool. But it doesnt real
 
 </div>
 
-<div class="post" data-post-id="37649" data-author="Teron" data-date="2016-12-04T15:22:42+00:00">
+<div class="post" data-post-id="37649" data-author="Teron" data-date="2016-12-04T15:22:42+00:00" data-subject="Re: Useless support classes">
 
 wa tert is a good addition of hps, x3 attack and ac to any caster class.
 
@@ -228,7 +228,7 @@ wa tert is a good addition of hps, x3 attack and ac to any caster class.
 
 </div>
 
-<div class="post" data-post-id="37650" data-author="Hung" data-date="2016-12-04T15:49:17+00:00">
+<div class="post" data-post-id="37650" data-author="Hung" data-date="2016-12-04T15:49:17+00:00" data-subject="Re: Useless support classes">
 
 Everyone playing will gain 3x attack and ac one day or other.
 
@@ -242,7 +242,7 @@ And Mage is exception. Most of experienced players avoid to put warrior from 2 t
 
 </div>
 
-<div class="post" data-post-id="37651" data-author="*juggleblood*" data-date="2016-12-04T15:57:24+00:00">
+<div class="post" data-post-id="37651" data-author="*juggleblood*" data-date="2016-12-04T15:57:24+00:00" data-subject="Re: Useless support classes">
 
 Since we're just riffing on the classes, here's my fantasy suggestions for each class:
 
@@ -284,7 +284,7 @@ Mo: reduce the number of actions which can be performed while gripping drastical
 
 </div>
 
-<div class="post" data-post-id="37652" data-author="Hung" data-date="2016-12-04T18:39:21+00:00">
+<div class="post" data-post-id="37652" data-author="Hung" data-date="2016-12-04T18:39:21+00:00" data-subject="Re: Useless support classes">
 
 JB, those all are great ideas. 
 
@@ -294,7 +294,7 @@ As I think a solution should be found to the problem when newbies making shoddy 
 
 </div>
 
-<div class="post" data-post-id="37656" data-author="*teker*" data-date="2016-12-05T00:37:32+00:00">
+<div class="post" data-post-id="37656" data-author="*teker*" data-date="2016-12-05T00:37:32+00:00" data-subject="Re: Useless support classes">
 
 Along the lines of Hung's last post, I feel like classes like bard or thief would show up more often 2-4 if the class slots were setup like this:
 
@@ -318,13 +318,13 @@ Caps would scale similarly.  This would be a major deviation from where we are n
 
 </div>
 
-<div class="post" data-post-id="37657" data-author="*juggleblood*" data-date="2016-12-05T01:06:18+00:00">
+<div class="post" data-post-id="37657" data-author="*juggleblood*" data-date="2016-12-05T01:06:18+00:00" data-subject="Re: Useless support classes">
 
 I don't think that's the direction to go in. That would accomodate people like Hung who appreciate the game on a fine level and create all these specialized mid-level characters, but it would dissuade people from progressing on thru 9x40. If the further you get in levels, the more useless all your skills become, that's not driving you to go forward. I'm already irritated at the inherent futility installed into some of my skills, for example the short duration of frenzy combined with long lag (even long lag on failed frenzy) and the frequent fails of counterattack...it get's to a point where players just won't use stuff and that's not the goal.
 
 </div>
 
-<div class="post" data-post-id="37658" data-author="Teron" data-date="2016-12-05T06:06:49+00:00">
+<div class="post" data-post-id="37658" data-author="Teron" data-date="2016-12-05T06:06:49+00:00" data-subject="Re: Useless support classes">
 
 Caps do the work fine as it is, imho.
 
@@ -352,7 +352,7 @@ Still, though, if we are digging in the class choosing process, we need to infor
 
 </div>
 
-<div class="post" data-post-id="37660" data-author="Hung" data-date="2016-12-05T07:06:01+00:00">
+<div class="post" data-post-id="37660" data-author="Hung" data-date="2016-12-05T07:06:01+00:00" data-subject="Re: Useless support classes">
 
 Agree with JB & Taron. Such radical change wont fix things.
 
@@ -376,7 +376,7 @@ So I think the solution is to add something to the underappreciated classes. So 
 
 </div>
 
-<div class="post" data-post-id="37661" data-author="Zlodiak" data-date="2016-12-05T07:53:08+00:00">
+<div class="post" data-post-id="37661" data-author="Zlodiak" data-date="2016-12-05T07:53:08+00:00" data-subject="Re: Useless support classes">
 
 10% spell/skill efficiency means 8th cleric will heal 18hp with restoration.
 
@@ -470,7 +470,7 @@ and so on...
 
 </div>
 
-<div class="post" data-post-id="37674" data-author="alris" data-date="2016-12-05T21:43:37+00:00">
+<div class="post" data-post-id="37674" data-author="alris" data-date="2016-12-05T21:43:37+00:00" data-subject="Re: Useless support classes">
 
 I can see what you are coming from with your original post. Yes, most classes in class order wont end up as what you expected them to be. And that wont change much even with reworking classes, or adding more explanation of class in-working for newbies. Even experienced players probably wont understand hundred percent what they are getting into when creating new character. I don't know how much of joke it was - but Katie said that 4xnc char was created as class order with less incentive to play as possible. Yet it worked in the end. 
 
@@ -496,7 +496,7 @@ Alris is out!
 
 </div>
 
-<div class="post" data-post-id="37675" data-author="Josiah" data-date="2016-12-05T22:05:21+00:00">
+<div class="post" data-post-id="37675" data-author="Josiah" data-date="2016-12-05T22:05:21+00:00" data-subject="Re: Useless support classes">
 
 There was a rumor at some point that excruciating blow chance was affected by thief position.  I never tested it though.
 
@@ -508,13 +508,13 @@ Warrior/Necro might be a better tank than warrior/monk though, which might be aw
 
 </div>
 
-<div class="post" data-post-id="37676" data-author="*Splork*" data-date="2016-12-05T22:31:50+00:00">
+<div class="post" data-post-id="37676" data-author="*Splork*" data-date="2016-12-05T22:31:50+00:00" data-subject="Re: Useless support classes">
 
 I would assume that is a good possibility, as much of the stuff I coded was affected by class order...
 
 </div>
 
-<div class="post" data-post-id="37677" data-author="Gorka" data-date="2016-12-05T22:42:26+00:00">
+<div class="post" data-post-id="37677" data-author="Gorka" data-date="2016-12-05T22:42:26+00:00" data-subject="Re: Useless support classes">
 
 I too had been musing with the idea of learning another classes prime skill as a remort.
 
@@ -522,13 +522,13 @@ What I like about the idea is it opens up amazing combinations... it extends the
 
 </div>
 
-<div class="post" data-post-id="37678" data-author="*juggleblood*" data-date="2016-12-05T23:15:52+00:00">
+<div class="post" data-post-id="37678" data-author="*juggleblood*" data-date="2016-12-05T23:15:52+00:00" data-subject="Re: Useless support classes">
 
 Hung part of your suggestion already exists.  Your 2nd class choice affects your innate hitroll. The highest being warrior, then thief and monk. I know you don't see it, but it's there. I keep trying to tell people this, that th/wa and wa/th make some sense for this reason. Perhaps it should not be invisible.
 
 </div>
 
-<div class="post" data-post-id="37682" data-author="Hung" data-date="2016-12-06T10:08:03+00:00">
+<div class="post" data-post-id="37682" data-author="Hung" data-date="2016-12-06T10:08:03+00:00" data-subject="Re: Useless support classes">
 
 Thanks everyone for sharing their opinions.
 
@@ -542,13 +542,13 @@ Yes, it'll add +6(as lion chorus is +4 already) damage to the prime bard's grip/
 
 </div>
 
-<div class="post" data-post-id="37698" data-author="*juggleblood*" data-date="2016-12-07T23:22:28+00:00">
+<div class="post" data-post-id="37698" data-author="*juggleblood*" data-date="2016-12-07T23:22:28+00:00" data-subject="Re: Useless support classes">
 
 Well to me the thing that makes it not overpowered is that the bard is expending almost as much mana as a blast to give this damage and if they are doing stab, then they are probably blasting on top of it and breaking song. If they sacrifice blasting in favor of singing, then they deserve to enjoy a good size damage boost. It's not like there's that many bards, and when we do get invited to stab with someone, it's to blast, not sing. Would be nice if people actually wanted us to sing for them during stab/grip runs.
 
 </div>
 
-<div class="post" data-post-id="37699" data-author="Josiah" data-date="2016-12-08T05:39:32+00:00">
+<div class="post" data-post-id="37699" data-author="Josiah" data-date="2016-12-08T05:39:32+00:00" data-subject="Re: Useless support classes">
 
 I love having bards on my grip xp runs!  I can never keep my own songs going.  And I want you singing and striking, not blasting.
 
@@ -556,7 +556,7 @@ The only problem is that 1x40 bards are amazing and 8x40 bards are... identical.
 
 </div>
 
-<div class="post" data-post-id="37701" data-author="Teron" data-date="2016-12-08T07:24:03+00:00">
+<div class="post" data-post-id="37701" data-author="Teron" data-date="2016-12-08T07:24:03+00:00" data-subject="Re: Useless support classes">
 
 That's the thing, Josiah.
 
@@ -578,7 +578,7 @@ I have no problem with bards blasting or striking, but it sucks, when their prim
 
 </div>
 
-<div class="post" data-post-id="37709" data-author="*juggleblood*" data-date="2016-12-08T23:34:39+00:00">
+<div class="post" data-post-id="37709" data-author="*juggleblood*" data-date="2016-12-08T23:34:39+00:00" data-subject="Re: Useless support classes">
 
 Don't put words in my mouth. I'm not complaining about any such thing. I blamed myself for putting mage late in classo because I got blasting late, but never have I suggested that Bards should be blasters. No bards should not be blasters. No Bards should not have their own special melee attack. It's not what they do. If you don't want to be a support char, then don't play one! Don't ask to turn bard into some super do-everything great class because it suits you.
 
@@ -588,7 +588,7 @@ The smart bard doesn't WANT to NEED charisma gear to use gods and valor, the sma
 
 </div>
 
-<div class="post" data-post-id="37710" data-author="Ezekiel" data-date="2016-12-08T23:51:00+00:00">
+<div class="post" data-post-id="37710" data-author="Ezekiel" data-date="2016-12-08T23:51:00+00:00" data-subject="Re: Useless support classes">
 
 Hell..before we talk about useless 2nd to 8th support classes, can we tweak the prime benefits that are horrendous to use?
 
@@ -604,13 +604,13 @@ Just my two cents, I love my prime and sec class, but I'm with Gorka...I don't t
 
 </div>
 
-<div class="post" data-post-id="37711" data-author="Hung" data-date="2016-12-09T00:10:03+00:00">
+<div class="post" data-post-id="37711" data-author="Hung" data-date="2016-12-09T00:10:03+00:00" data-subject="Re: Useless support classes">
 
 JB, your reasoning applies to the prime bard. However, let me ask you some questions related to this topic. Would you recommend to a newbie taking bard as 2nd class? Does high charisma cap justify such choice? If not, what game mechanics changes would you propose to make 2nd bard good choice? Taron's proposal does that.
 
 </div>
 
-<div class="post" data-post-id="37712" data-author="*juggleblood*" data-date="2016-12-09T01:27:15+00:00">
+<div class="post" data-post-id="37712" data-author="*juggleblood*" data-date="2016-12-09T01:27:15+00:00" data-subject="Re: Useless support classes">
 
 In any classo it depends on the player, whether they're looking forward to 4x40 for 9x40. In the shorter run, necro/bard could be fun/viable. In any case I don't see how giving bard a special offense attack would justify placement in classo. 3 wraiths x 5? damage for non-prime gods x 3 attacks is 45 damage per round? Not terrible, but yeah prolly not worthy of high placement in classo. What if non-prime gods gave same as prime gods +10...and then Bard prime gained a new skill, one which enables the bard to remove his name from the mobs pissed list, i.e. if target is same align as bard, then mob forgives bard on successful charisma check. 
 
@@ -618,7 +618,7 @@ In any classo it depends on the player, whether they're looking forward to 4x40 
 
 </div>
 
-<div class="post" data-post-id="37715" data-author="Teron" data-date="2016-12-09T03:59:00+00:00">
+<div class="post" data-post-id="37715" data-author="Teron" data-date="2016-12-09T03:59:00+00:00" data-subject="Re: Useless support classes">
 
 Okay, let's continue discussing the necro/bard example.
 
@@ -650,7 +650,7 @@ And yes, it is a nerf for those, who don't wear charisma gear. You don't expect 
 
 </div>
 
-<div class="post" data-post-id="37718" data-author="Josiah" data-date="2016-12-09T11:55:47+00:00">
+<div class="post" data-post-id="37718" data-author="Josiah" data-date="2016-12-09T11:55:47+00:00" data-subject="Re: Useless support classes">
 
 What if we gave second wind to everyone, but increased the movement cost for non primes?  That would give everyone the quality of life improvements from the skill (weblag sucks) while making it it too expensive for mages to go crazy spamming it.
 
@@ -658,19 +658,19 @@ Right now it costs 30 mv until avatar 1, and then costs 15 mvs.  I'd support eve
 
 </div>
 
-<div class="post" data-post-id="37719" data-author="Filk" data-date="2016-12-09T12:25:39+00:00">
+<div class="post" data-post-id="37719" data-author="Filk" data-date="2016-12-09T12:25:39+00:00" data-subject="Re: Useless support classes">
 
 Better we should add rebirth within prime skills variant , get 9x40, reborn, pick warior second and viola! :)
 
 </div>
 
-<div class="post" data-post-id="37720" data-author="*juggleblood*" data-date="2016-12-09T12:38:04+00:00">
+<div class="post" data-post-id="37720" data-author="*juggleblood*" data-date="2016-12-09T12:38:04+00:00" data-subject="Re: Useless support classes">
 
 That's not a bad idea Filk, but 2nd wind would still be better non-prime. I'm not sure it even needs to be penalized compared to warrior. I just don't like the idea that warriors have an advantage in speed, how many actions they get in the same amount of time. The coliseum couldn't be more rigged to help casters, and yet still somehow the warriors are at the top because they can blast faster than a mage and strike faster than a monk.
 
 </div>
 
-<div class="post" data-post-id="37721" data-author="Josiah" data-date="2016-12-09T12:51:27+00:00">
+<div class="post" data-post-id="37721" data-author="Josiah" data-date="2016-12-09T12:51:27+00:00" data-subject="Re: Useless support classes">
 
 I think warriors are near the top in coliseum because Alris, Taron, and I play warriors.. not because warriors are inherently superior.  Warriors run out of mvs really fast in the coliseum and if you stop to cast refresh you aren't killing things.
 
@@ -680,7 +680,7 @@ Cizin did amazing things as a thief in the coliseum despite all the ethereals an
 
 </div>
 
-<div class="post" data-post-id="37727" data-author="Teron" data-date="2016-12-09T14:08:59+00:00">
+<div class="post" data-post-id="37727" data-author="Teron" data-date="2016-12-09T14:08:59+00:00" data-subject="Re: Useless support classes">
 
 Dr isn't in the top place at level 9 only because he has no interest in the coliseum.
 
@@ -692,7 +692,7 @@ Sadly, he's now disappointed by our arguing, says Sloth doesn't interest him and
 
 </div>
 
-<div class="post" data-post-id="37740" data-author="*juggleblood*" data-date="2016-12-09T20:28:35+00:00">
+<div class="post" data-post-id="37740" data-author="*juggleblood*" data-date="2016-12-09T20:28:35+00:00" data-subject="Re: Useless support classes">
 
 Haha, that's funny...him disappointed by us arguing! Seriously funny. I love the guy as much as anyone, but if you haven't noticed, the mud has been rather peaceful lately.
 
@@ -700,7 +700,7 @@ Haha, that's funny...him disappointed by us arguing! Seriously funny. I love the
 
 </div>
 
-<div class="post" data-post-id="37742" data-author="Josiah" data-date="2016-12-09T23:07:51+00:00">
+<div class="post" data-post-id="37742" data-author="Josiah" data-date="2016-12-09T23:07:51+00:00" data-subject="Re: Useless support classes">
 
 I have no argument against everyone getting access to second wind.  I would be happy if there were far less prime skills.  Casters, monks, and perhaps thieves can use the skill better than warrior primes, but not dramatically so.
 
@@ -712,7 +712,7 @@ Is there a valid case that warrior is so good that everyone else needs a dramati
 
 </div>
 
-<div class="post" data-post-id="37744" data-author="Hung" data-date="2016-12-09T23:33:04+00:00">
+<div class="post" data-post-id="37744" data-author="Hung" data-date="2016-12-09T23:33:04+00:00" data-subject="Re: Useless support classes">
 
 @Juggleblood, I like the Taron's idea to scale gods of war damage with charisma. As it'll address the issue discussed in this topic. We already have charisma cap tied to the bard class position. So if the Taron's idea will be implemented. And if, say, 2nd bard's gods with max charisma will be +12 damage. While 8th bard max charisma will be only +6. It'll be more than valid reason to put bard high in the class order.
 
@@ -722,7 +722,7 @@ Can't say I support the resonator idea. Here I tend to agree with you that if so
 
 </div>
 
-<div class="post" data-post-id="37746" data-author="*juggleblood*" data-date="2016-12-09T23:42:38+00:00">
+<div class="post" data-post-id="37746" data-author="*juggleblood*" data-date="2016-12-09T23:42:38+00:00" data-subject="Re: Useless support classes">
 
 I am coming around to the idea, within such reasonable limits as you just said. Ideally also this damage would fully tie into stab and grip, to achieve your desired end of greater diversity of viable class orders.  I like that the damage would scale with class placement, but not with charisma. I'm thinking if you want to put charisma more properly into play, then make it affect the number of people you can sing to. I think that's more logical than trying to scale gods of war to it.
 
@@ -730,7 +730,7 @@ I am coming around to the idea, within such reasonable limits as you just said. 
 
 </div>
 
-<div class="post" data-post-id="37748" data-author="Teron" data-date="2016-12-10T01:17:25+00:00">
+<div class="post" data-post-id="37748" data-author="Teron" data-date="2016-12-10T01:17:25+00:00" data-subject="Re: Useless support classes">
 
 Charisma could affect how inspired you are by someone's song, though.
 
@@ -738,7 +738,7 @@ Funny, just today I've thought that buying quest +charisma eq likely wouldn't be
 
 </div>
 
-<div class="post" data-post-id="37749" data-author="Gorka" data-date="2016-12-10T01:30:13+00:00">
+<div class="post" data-post-id="37749" data-author="Gorka" data-date="2016-12-10T01:30:13+00:00" data-subject="Re: Useless support classes">
 
 > **Josiah wrote:**
 > I would be happy if there were far less prime skills.
@@ -760,7 +760,7 @@ Prime classes and skills give players identity, it's a mistake to mess with this
 
 </div>
 
-<div class="post" data-post-id="37756" data-author="*Splork*" data-date="2016-12-10T02:50:09+00:00">
+<div class="post" data-post-id="37756" data-author="*Splork*" data-date="2016-12-10T02:50:09+00:00" data-subject="Re: Useless support classes">
 
 Second Wind should have never gone in-game for warriors  :)
 
@@ -768,7 +768,7 @@ Its safe to say we moved it and nerfed it for a reason :|
 
 </div>
 
-<div class="post" data-post-id="37762" data-author="Ezekiel" data-date="2016-12-10T06:07:22+00:00">
+<div class="post" data-post-id="37762" data-author="Ezekiel" data-date="2016-12-10T06:07:22+00:00" data-subject="Re: Useless support classes">
 
 Gorka,
 
@@ -786,7 +786,7 @@ Do you think you should strike faster than a monk, shift faster than a druid, or
 
 </div>
 
-<div class="post" data-post-id="37763" data-author="Gorka" data-date="2016-12-10T06:52:57+00:00">
+<div class="post" data-post-id="37763" data-author="Gorka" data-date="2016-12-10T06:52:57+00:00" data-subject="Re: Useless support classes">
 
 Yeah, understood Eze, Perhaps a poor choice of words on my part... if others got second wind my "POINT OF DIFFERENCE" would go down, not my "POWER." I support prime classes and prime skills all the way. The "power players" want everything... I don't think that makes for a better game or encourages people to work together. I'd consider warriors with only parry and riposte a "weak prime." I'd probably rebirth Gorka as mage/warrior type if that happened. 
 
@@ -800,7 +800,7 @@ If there "IS" a problem with warriors having second wind... it's not the skill i
 
 </div>
 
-<div class="post" data-post-id="37764" data-author="Gorka" data-date="2016-12-10T07:25:16+00:00">
+<div class="post" data-post-id="37764" data-author="Gorka" data-date="2016-12-10T07:25:16+00:00" data-subject="Re: Useless support classes">
 
 A bit more discussion with Ezekiel in game, and we kind of think that second wind should be warrior skills only... but warriors should be compensated... with a new prime skill... or vastly improved broadside or berserk.
 
@@ -816,7 +816,7 @@ I think a proper solution would look something like this...
 
 </div>
 
-<div class="post" data-post-id="37765" data-author="Ker" data-date="2016-12-10T09:54:05+00:00">
+<div class="post" data-post-id="37765" data-author="Ker" data-date="2016-12-10T09:54:05+00:00" data-subject="Re: Useless support classes">
 
 Awww more peaceful. 
 
@@ -830,7 +830,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="37770" data-author="*juggleblood*" data-date="2016-12-10T15:40:55+00:00">
+<div class="post" data-post-id="37770" data-author="*juggleblood*" data-date="2016-12-10T15:40:55+00:00" data-subject="Re: Useless support classes">
 
 I think I'm on the losing side of this argument so I won't elaborate much, other than say I think Warrior is OP, they shouldn't get more actions. Second wind is **fun **and awesome, and we should all have it, for about 50 moves a pop. Warrior prime doesn't need compensated apart from maybe giving them back their ripostes on berserk (yes, it works from a realism sense...he's berserk...no it doesn't work from our skill balance sense). That's my parting shot on it.
 

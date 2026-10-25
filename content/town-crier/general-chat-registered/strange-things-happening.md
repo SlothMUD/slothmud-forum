@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="20345" data-author="Akasha" data-date="2007-09-22T10:30:28+00:00">
+<div class="post" data-post-id="20345" data-author="Akasha" data-date="2007-09-22T10:30:28+00:00" data-subject="Strange things happening...">
 
 The first stage of the upcoming additions are almost complete, so I thought it fair to warn you that you might be seeing some strange mobs using quest channel from time to time over the next couple of weeks.  Don't get worked into a frenzy over this, it will most likely be me doing a final run through on something and means nothing to you as of this moment.
 
@@ -26,7 +26,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="20346" data-author="Tap" data-date="2007-09-22T11:41:19+00:00">
+<div class="post" data-post-id="20346" data-author="Tap" data-date="2007-09-22T11:41:19+00:00" data-subject="">
 
 New classes?
 
@@ -40,13 +40,13 @@ Damn subtle clues!
 
 </div>
 
-<div class="post" data-post-id="20347" data-author="13" data-date="2007-09-22T12:53:31+00:00">
+<div class="post" data-post-id="20347" data-author="13" data-date="2007-09-22T12:53:31+00:00" data-subject="">
 
 personalized drachma junk?
 
 </div>
 
-<div class="post" data-post-id="20349" data-author="Tap" data-date="2007-09-22T20:19:44+00:00">
+<div class="post" data-post-id="20349" data-author="Tap" data-date="2007-09-22T20:19:44+00:00" data-subject="">
 
 Sloth IV ?
 
@@ -58,7 +58,7 @@ Return of the Pthief ?
 
 </div>
 
-<div class="post" data-post-id="20350" data-author="Tap" data-date="2007-09-22T23:09:06+00:00">
+<div class="post" data-post-id="20350" data-author="Tap" data-date="2007-09-22T23:09:06+00:00" data-subject="">
 
 Mob's that will teach skills/spells?
 
@@ -70,7 +70,7 @@ This is driving me bonkers!
 
 </div>
 
-<div class="post" data-post-id="20351" data-author="Vixn" data-date="2007-09-23T07:58:00+00:00">
+<div class="post" data-post-id="20351" data-author="Vixn" data-date="2007-09-23T07:58:00+00:00" data-subject="">
 
 Return of the Pthief ?
 
@@ -82,7 +82,7 @@ p.s. and Carthago must be destroyed.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="20352" data-author="alias" data-date="2007-09-23T14:57:00+00:00">
+<div class="post" data-post-id="20352" data-author="alias" data-date="2007-09-23T14:57:00+00:00" data-subject="">
 
 Hard to dodge a dagger when your singin' your guts out.
 
@@ -92,7 +92,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="20354" data-author="Toxis" data-date="2007-09-23T16:24:35+00:00">
+<div class="post" data-post-id="20354" data-author="Toxis" data-date="2007-09-23T16:24:35+00:00" data-subject="">
 
 Is it just me, or does Alias's avatar look like the badguy in the newest version of "The Time Machine" ? :)~
 
@@ -100,13 +100,13 @@ heh
 
 </div>
 
-<div class="post" data-post-id="20355" data-author="Vixn" data-date="2007-09-23T16:36:26+00:00">
+<div class="post" data-post-id="20355" data-author="Vixn" data-date="2007-09-23T16:36:26+00:00" data-subject="">
 
 Nah, he loooks like Lis.
 
 </div>
 
-<div class="post" data-post-id="20357" data-author="Tap" data-date="2007-09-23T21:39:53+00:00">
+<div class="post" data-post-id="20357" data-author="Tap" data-date="2007-09-23T21:39:53+00:00" data-subject="">
 
 More like that crappy guy that was in the new Highlander movie they played on Sci-Fi channel this weekend. Sorry I don't char name but I could only stomach about 5 minutes of it. I hate it when good movies go down the toilet.
 

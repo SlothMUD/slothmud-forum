@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="14251" data-author="Diazz_Dizazter" data-date="2006-09-23T23:47:16+00:00">
+<div class="post" data-post-id="14251" data-author="Diazz_Dizazter" data-date="2006-09-23T23:47:16+00:00" data-subject="So you wanna know about farts....">
 
 Posted from:
 

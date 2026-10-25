@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33633" data-author="Yasik" data-date="2012-10-05T18:17:56+00:00">
+<div class="post" data-post-id="33633" data-author="Yasik" data-date="2012-10-05T18:17:56+00:00" data-subject="who-list strange behavior">
 
 **One:**
 
@@ -24,7 +24,7 @@ post_count: 2
 
 </div>
 
-<div class="post" data-post-id="33634" data-author="*Breeze*" data-date="2012-10-05T18:26:31+00:00">
+<div class="post" data-post-id="33634" data-author="*Breeze*" data-date="2012-10-05T18:26:31+00:00" data-subject="Re: who-list strange behavior">
 
 who list only cares about classes 1-4 and avatar levels iirc.
 

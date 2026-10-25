@@ -10,19 +10,19 @@ locked: false
 post_count: 31
 ---
 
-<div class="post" data-post-id="26763" data-author="Tap" data-date="2008-10-18T20:13:55+00:00">
+<div class="post" data-post-id="26763" data-author="Tap" data-date="2008-10-18T20:13:55+00:00" data-subject="W _ _ _ d of W_ _ _ _ _ _t">
 
 Anyone playing Slothmud and it by chance?
 
 </div>
 
-<div class="post" data-post-id="26765" data-author="Weasel" data-date="2008-10-18T21:10:02+00:00">
+<div class="post" data-post-id="26765" data-author="Weasel" data-date="2008-10-18T21:10:02+00:00" data-subject="">
 
 Never played WoW. Does it cost much now (subscription to their server I mean)?  - and is there any point starting this late in the game - I imagine there's like millions of players with very advanced level characters, so I'm thinking a noobie wouldn't stand a whelk's chance in a supernova there.
 
 </div>
 
-<div class="post" data-post-id="26766" data-author="alias" data-date="2008-10-18T21:23:29+00:00">
+<div class="post" data-post-id="26766" data-author="alias" data-date="2008-10-18T21:23:29+00:00" data-subject="">
 
 I was but I enjoy the fact I don't have to do quest to level up on sloth.
 
@@ -34,7 +34,7 @@ I no longer play there as I cant justify the $14 a month to play it when I have 
 
 </div>
 
-<div class="post" data-post-id="26767" data-author="Tap" data-date="2008-10-18T21:27:03+00:00">
+<div class="post" data-post-id="26767" data-author="Tap" data-date="2008-10-18T21:27:03+00:00" data-subject="">
 
 You can get a 2 week trial at your local Walmart for $1.00. If you like it, 20 bucks will buy the original game and extra 20 if you want the Burning crusade expansion. I never played a MMORPG before so i'm not sure if it was like Everquest but perhaps they were similiar in nature. Maybe it's based on taste but as a newbie, it's been fun...least all the "clues" I need to help with quests in the game are online. They had a huge update last weekend that added alot of stuff and I'm still on the original..haven't forked out 20 for the expansion yet. Not sure how it compares to G _ _ _d W_ _ _s
 
@@ -42,7 +42,7 @@ or W_ _h_mm_r. I think someone has posted about becoming addicted to WOW..I can 
 
 </div>
 
-<div class="post" data-post-id="26773" data-author="Yasik2" data-date="2008-10-20T08:04:09+00:00">
+<div class="post" data-post-id="26773" data-author="Yasik2" data-date="2008-10-20T08:04:09+00:00" data-subject="">
 
 [http://zip.4chan.org/v/res/21592423.html](http://zip.4chan.org/v/res/21592423.html)
 
@@ -68,7 +68,7 @@ And btw, Lineage has better overall design and character design in particular an
 
 </div>
 
-<div class="post" data-post-id="26774" data-author="angel" data-date="2008-10-20T09:58:29+00:00">
+<div class="post" data-post-id="26774" data-author="angel" data-date="2008-10-20T09:58:29+00:00" data-subject="">
 
 wow is fun, us server has noobs,go taiwan server or something:)
 
@@ -76,13 +76,13 @@ it was fun till that stupid incident happnd where it killed south east asia's in
 
 </div>
 
-<div class="post" data-post-id="26775" data-author="Weasel" data-date="2008-10-20T11:02:31+00:00">
+<div class="post" data-post-id="26775" data-author="Weasel" data-date="2008-10-20T11:02:31+00:00" data-subject="">
 
 Informative reviews, thanks all :)
 
 </div>
 
-<div class="post" data-post-id="26787" data-author="Tap" data-date="2008-10-20T22:27:38+00:00">
+<div class="post" data-post-id="26787" data-author="Tap" data-date="2008-10-20T22:27:38+00:00" data-subject="">
 
 [quote:lxmil3kv]BIGGER BOUNCY DARK ELVEN BOOBS ! [/quote:lxmil3kv]
 
@@ -90,7 +90,7 @@ target Lineage
 
 </div>
 
-<div class="post" data-post-id="26824" data-author="Krok" data-date="2008-10-23T19:05:03+00:00">
+<div class="post" data-post-id="26824" data-author="Krok" data-date="2008-10-23T19:05:03+00:00" data-subject="">
 
 It's not late to start playing it, Blizzard is releasing a new expansion on November, 13. They are going to add a new continent and raise the level cap up to 80 from 70, so it's actually the best time to play because everyone will have to get the new gear anyways etc.
 
@@ -100,7 +100,7 @@ I believe it's quite cheap, not sure about the prices for USA version tho.
 
 </div>
 
-<div class="post" data-post-id="26833" data-author="Yasik2" data-date="2008-10-24T15:52:46+00:00">
+<div class="post" data-post-id="26833" data-author="Yasik2" data-date="2008-10-24T15:52:46+00:00" data-subject="">
 
 New continent and eq is cool, but i wish Blizzard add to themselves moar brane and hire designers who has at least a little bit of style.
 
@@ -110,13 +110,13 @@ Pic related.
 
 </div>
 
-<div class="post" data-post-id="26834" data-author="Weasel" data-date="2008-10-24T16:28:31+00:00">
+<div class="post" data-post-id="26834" data-author="Weasel" data-date="2008-10-24T16:28:31+00:00" data-subject="">
 
 LOL.. WoW are bushpigs next to Lineage..  are those pics a true reflection of the games in general though (as far as graphics go) or is it the best graphics of Lineage being compared against the worst of Wow?
 
 </div>
 
-<div class="post" data-post-id="26835" data-author="Yasik2" data-date="2008-10-24T16:46:59+00:00">
+<div class="post" data-post-id="26835" data-author="Yasik2" data-date="2008-10-24T16:46:59+00:00" data-subject="">
 
 Not sure about WoW, but for Lineage yes, it is real ingame screenshots.
 
@@ -124,7 +124,7 @@ But if Google Images, YouTube and official WoW site can be treated as reliable s
 
 </div>
 
-<div class="post" data-post-id="26837" data-author="Tap" data-date="2008-10-24T22:58:28+00:00">
+<div class="post" data-post-id="26837" data-author="Tap" data-date="2008-10-24T22:58:28+00:00" data-subject="W _ _ _ d of W _ F!">
 
 Well..I think I am going to check L2 out..not bashing WOW but sheesh..following video says it all
 
@@ -132,7 +132,7 @@ Well..I think I am going to check L2 out..not bashing WOW but sheesh..following 
 
 </div>
 
-<div class="post" data-post-id="26838" data-author="Weasel" data-date="2008-10-25T01:10:55+00:00">
+<div class="post" data-post-id="26838" data-author="Weasel" data-date="2008-10-25T01:10:55+00:00" data-subject="">
 
 [url:2y780egp]http://www.youtube.com/watch?v=qDeMdjTmKck[/url:2y780egp]
 
@@ -140,7 +140,7 @@ Well..I think I am going to check L2 out..not bashing WOW but sheesh..following 
 
 </div>
 
-<div class="post" data-post-id="26852" data-author="Tap" data-date="2008-10-26T05:18:48+00:00">
+<div class="post" data-post-id="26852" data-author="Tap" data-date="2008-10-26T05:18:48+00:00" data-subject="W _ _ _ d of M_ _ _ _ _ _ _ _ y">
 
 I don't think I'll be trying this one out
 
@@ -168,7 +168,7 @@ A Sapporo police official said the woman had used the man's ID and password to l
 
 </div>
 
-<div class="post" data-post-id="26854" data-author="13" data-date="2008-10-26T18:45:44+00:00">
+<div class="post" data-post-id="26854" data-author="13" data-date="2008-10-26T18:45:44+00:00" data-subject="">
 
 you put a fat ass dwarf woman up..what the fuck
 
@@ -182,7 +182,7 @@ god...
 
 </div>
 
-<div class="post" data-post-id="26855" data-author="13" data-date="2008-10-26T18:50:12+00:00">
+<div class="post" data-post-id="26855" data-author="13" data-date="2008-10-26T18:50:12+00:00" data-subject="">
 
 you can level up easily on wow...allies FTL
 
@@ -200,7 +200,7 @@ on equal footing again more or less.  it's a really fun game if you have a few g
 
 </div>
 
-<div class="post" data-post-id="27180" data-author="Poggle" data-date="2008-11-14T21:05:13+00:00">
+<div class="post" data-post-id="27180" data-author="Poggle" data-date="2008-11-14T21:05:13+00:00" data-subject="">
 
 I agree with 13...it's quite fun if you can find a group of people you like to play with.
 
@@ -216,7 +216,7 @@ That said...you can find me playing Marmoset on pvp server Blackwing Lair almost
 
 </div>
 
-<div class="post" data-post-id="27189" data-author="Yasik2" data-date="2008-11-15T07:50:32+00:00">
+<div class="post" data-post-id="27189" data-author="Yasik2" data-date="2008-11-15T07:50:32+00:00" data-subject="">
 
 No matter how much or what race/gender you pick from World of Failcraft - Lineage 2 leaves it far behind in any aspect.
 
@@ -238,7 +238,7 @@ PS. The only thing both those MMO's lack is gore and viscera, a level of Bloodra
 
 </div>
 
-<div class="post" data-post-id="27193" data-author="Tap" data-date="2008-11-15T19:48:09+00:00">
+<div class="post" data-post-id="27193" data-author="Tap" data-date="2008-11-15T19:48:09+00:00" data-subject="">
 
 [quote:c3tg15o8]Oh,btw. You have to *BUY* WoW addons, then *PAY* to play it, while all of L2 addons are free. [/quote:c3tg15o8]
 
@@ -248,7 +248,7 @@ From what I hear, Age of Conan blows major chunks and Warhammer doesn't quite li
 
 </div>
 
-<div class="post" data-post-id="27194" data-author="Yasik2" data-date="2008-11-15T22:27:06+00:00">
+<div class="post" data-post-id="27194" data-author="Yasik2" data-date="2008-11-15T22:27:06+00:00" data-subject="">
 
 Free doesn't equal quality. Having said that, I haven't played Lineage just yet..but it is on my to-do list. I'm looking forward to comparing the 2.[/quote:1q97287u]
 
@@ -262,7 +262,7 @@ Can't say anything about these two, have not checked out and probably will not.
 
 </div>
 
-<div class="post" data-post-id="27213" data-author="13" data-date="2008-11-19T10:46:52+00:00">
+<div class="post" data-post-id="27213" data-author="13" data-date="2008-11-19T10:46:52+00:00" data-subject="">
 
 i did play L2 and while the graphics are pretty decent..the mechanics suck,
 
@@ -274,13 +274,13 @@ There have been quite a few that we never had to pay for, the only ones that cos
 
 </div>
 
-<div class="post" data-post-id="27214" data-author="Tap" data-date="2008-11-19T11:11:56+00:00">
+<div class="post" data-post-id="27214" data-author="Tap" data-date="2008-11-19T11:11:56+00:00" data-subject="">
 
 That must be the reason why I can't find Lineage2 in stores...I tried Best Buy and EGB...while they had heard of it, they didn't know how might have a copy. Could buy/download online but...
 
 </div>
 
-<div class="post" data-post-id="27218" data-author="Krok" data-date="2008-11-19T19:53:27+00:00">
+<div class="post" data-post-id="27218" data-author="Krok" data-date="2008-11-19T19:53:27+00:00" data-subject="">
 
 Hey, you can drink the water from a puddle, and it's free, but if you wanna drink something tasty, you have to pay for that. See my point?
 
@@ -288,7 +288,7 @@ Yes, graphics in L2 is OK, and if all you need from a game is cute female elves 
 
 </div>
 
-<div class="post" data-post-id="27220" data-author="Yasik2" data-date="2008-11-19T21:14:48+00:00">
+<div class="post" data-post-id="27220" data-author="Yasik2" data-date="2008-11-19T21:14:48+00:00" data-subject="">
 
 if all you need from a game is cute female elves with tits, sure play it. But WoW is sooo much more complicated, has so much more to offer[/quote:37fgbdiy]
 
@@ -306,37 +306,37 @@ Anyway, this is goin to nowhere. What matters is personal preferences. I choose 
 
 </div>
 
-<div class="post" data-post-id="27226" data-author="Yasik2" data-date="2008-11-19T22:16:13+00:00">
+<div class="post" data-post-id="27226" data-author="Yasik2" data-date="2008-11-19T22:16:13+00:00" data-subject="">
 
 Oh yeah, there's also a tons of panties-shots in L2!
 
 </div>
 
-<div class="post" data-post-id="27229" data-author="Tap" data-date="2008-11-19T23:12:38+00:00">
+<div class="post" data-post-id="27229" data-author="Tap" data-date="2008-11-19T23:12:38+00:00" data-subject="">
 
 Are you trying to play a MMORPG or with yourself?
 
 </div>
 
-<div class="post" data-post-id="27280" data-author="13" data-date="2008-11-23T12:28:58+00:00">
+<div class="post" data-post-id="27280" data-author="13" data-date="2008-11-23T12:28:58+00:00" data-subject="">
 
 well said tap
 
 </div>
 
-<div class="post" data-post-id="27315" data-author="Tap" data-date="2008-11-29T22:40:40+00:00">
+<div class="post" data-post-id="27315" data-author="Tap" data-date="2008-11-29T22:40:40+00:00" data-subject="">
 
 [url:3m0097zq]http://videogames.yahoo.com/events/playback/playback-24/1269537[/url:3m0097zq]
 
 </div>
 
-<div class="post" data-post-id="27316" data-author="Yasik2" data-date="2008-11-30T04:20:14+00:00">
+<div class="post" data-post-id="27316" data-author="Yasik2" data-date="2008-11-30T04:20:14+00:00" data-subject="">
 
 I usually have scripts blocked so first i saw Failout-3 banner to the right, so i think i'm goin to use the opportunity to grumble one more time about how those Bethesda faggots ruined all the hopes of Fallout series fans. :evil:  :evil:  :evil:  :evil:  :evil:
 
 </div>
 
-<div class="post" data-post-id="27319" data-author="Vixn" data-date="2008-11-30T06:06:25+00:00">
+<div class="post" data-post-id="27319" data-author="Vixn" data-date="2008-11-30T06:06:25+00:00" data-subject="">
 
 I usually have scripts blocked so first i saw Failout-3 banner to the right, so i think i'm goin to use the opportunity to grumble one more time about how those Bethesda faggots ruined all the hopes of Fallout series fans. :evil:  :evil:  :evil:  :evil:  :evil:[/quote:2ufshfk6]
 

@@ -10,19 +10,19 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="21803" data-author="Dragoth" data-date="2007-12-27T22:53:19+00:00">
+<div class="post" data-post-id="21803" data-author="Dragoth" data-date="2007-12-27T22:53:19+00:00" data-subject="Is there a reason why you cant order followers while shifted">
 
 Just wonder what that might be ?  :roll:
 
 </div>
 
-<div class="post" data-post-id="21804" data-author="van" data-date="2007-12-27T23:10:17+00:00">
+<div class="post" data-post-id="21804" data-author="van" data-date="2007-12-27T23:10:17+00:00" data-subject="">
 
 because a piasa + juju + 2 dracoliches might be a little overpowered?
 
 </div>
 
-<div class="post" data-post-id="21806" data-author="Leaf" data-date="2007-12-28T01:43:30+00:00">
+<div class="post" data-post-id="21806" data-author="Leaf" data-date="2007-12-28T01:43:30+00:00" data-subject="">
 
 DING DING DING!!!
 
@@ -40,7 +40,7 @@ or u get dragged in before u can shift.
 
 </div>
 
-<div class="post" data-post-id="21815" data-author="Rynquald" data-date="2007-12-28T23:41:19+00:00">
+<div class="post" data-post-id="21815" data-author="Rynquald" data-date="2007-12-28T23:41:19+00:00" data-subject="">
 
 You can still order pets made with awaken while shifted btw.
 
@@ -48,7 +48,7 @@ Order/shift works okay even if you get drawn in, as long as you have battleshift
 
 </div>
 
-<div class="post" data-post-id="21816" data-author="Widow" data-date="2007-12-29T14:36:48+00:00">
+<div class="post" data-post-id="21816" data-author="Widow" data-date="2007-12-29T14:36:48+00:00" data-subject="">
 
 When soloing a mob that's biggern' me (which is nearly all of them), I'll order pets to tank, then shift knowing that once the mob refocuses on me it will cause a pet or two to disengage. One way around that is to wait for the mob to refocus on you, re-order pets, then shift (using battleshift and more mana). It's not as clean, meaning I actually have to get in the fight and tank, but it works. 
 

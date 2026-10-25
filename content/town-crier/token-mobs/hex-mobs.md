@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="8557" data-author="Icefyre" data-date="2005-09-07T13:52:04+00:00">
+<div class="post" data-post-id="8557" data-author="Icefyre" data-date="2005-09-07T13:52:04+00:00" data-subject="Hex Mobs">
 
 I'm looking at my char and once again discovered that if I'm going to be serious, I need to reroll for better str.
 
@@ -24,7 +24,7 @@ Icefyre
 
 </div>
 
-<div class="post" data-post-id="8558" data-author="12345" data-date="2005-09-07T14:14:48+00:00">
+<div class="post" data-post-id="8558" data-author="12345" data-date="2005-09-07T14:14:48+00:00" data-subject="">
 
 A couple more I know on BH are the Rat boy in the asylum and the fishermen in CF, though I'm nore sure how frequently.  The penguin king on AH also pops them.
 
@@ -36,13 +36,13 @@ The SlothWiki has some good lists of token mobs, but is down for maintenance at 
 
 </div>
 
-<div class="post" data-post-id="8559" data-author="Taki" data-date="2005-09-07T15:45:21+00:00">
+<div class="post" data-post-id="8559" data-author="Taki" data-date="2005-09-07T15:45:21+00:00" data-subject="">
 
 Old woman in AH beach also popped some hex
 
 </div>
 
-<div class="post" data-post-id="8560" data-author="13" data-date="2005-09-07T15:55:59+00:00">
+<div class="post" data-post-id="8560" data-author="13" data-date="2005-09-07T15:55:59+00:00" data-subject="">
 
 seagull on island in fisherman room
 
@@ -56,43 +56,43 @@ it's been like 6 years since i actively cycled for hexes
 
 </div>
 
-<div class="post" data-post-id="8561" data-author="Dandelo" data-date="2005-09-07T20:17:40+00:00">
+<div class="post" data-post-id="8561" data-author="Dandelo" data-date="2005-09-07T20:17:40+00:00" data-subject="">
 
 Lesser souls in Hades (BH) has a high poprate for hexes also.
 
 </div>
 
-<div class="post" data-post-id="8562" data-author="Grue" data-date="2005-09-07T22:13:23+00:00">
+<div class="post" data-post-id="8562" data-author="Grue" data-date="2005-09-07T22:13:23+00:00" data-subject="">
 
 Just remember all the hex mobs where changed about, what, 18 months ago, so anything that popped before that doesn't pop now.
 
 </div>
 
-<div class="post" data-post-id="8563" data-author="Vixn" data-date="2005-09-08T13:35:02+00:00">
+<div class="post" data-post-id="8563" data-author="Vixn" data-date="2005-09-08T13:35:02+00:00" data-subject="">
 
 Elite guard near abbadon's keep pops hexes very well. And i've poped hex at cleric miner in dark tower yesterday, though don't sure it's random pop or not. Blue whale on the SS beach once poped hex for me too.
 
 </div>
 
-<div class="post" data-post-id="8567" data-author="brand" data-date="2005-09-08T14:42:57+00:00">
+<div class="post" data-post-id="8567" data-author="brand" data-date="2005-09-08T14:42:57+00:00" data-subject="">
 
 zombies in catacombs...
 
 </div>
 
-<div class="post" data-post-id="26914" data-author="sirrico1" data-date="2008-10-31T19:01:02+00:00">
+<div class="post" data-post-id="26914" data-author="sirrico1" data-date="2008-10-31T19:01:02+00:00" data-subject="">
 
 think we can update this thing some?
 
 </div>
 
-<div class="post" data-post-id="26915" data-author="brady" data-date="2008-10-31T20:27:48+00:00">
+<div class="post" data-post-id="26915" data-author="brady" data-date="2008-10-31T20:27:48+00:00" data-subject="">
 
 Matthias in Mansion of the Mourned, Unai at a really high rate, Stancil Scar, Wolf pack leader, ticket girl, Ice Trolls and lots more i can't remember.
 
 </div>
 
-<div class="post" data-post-id="26920" data-author="jezer" data-date="2008-11-01T00:45:27+00:00">
+<div class="post" data-post-id="26920" data-author="jezer" data-date="2008-11-01T00:45:27+00:00" data-subject="">
 
 Remora -> crystal falls
 
@@ -120,7 +120,7 @@ A couple of these may have been random pops.
 
 </div>
 
-<div class="post" data-post-id="26921" data-author="jezer" data-date="2008-11-01T00:51:12+00:00">
+<div class="post" data-post-id="26921" data-author="jezer" data-date="2008-11-01T00:51:12+00:00" data-subject="">
 
 The guard d from Druscilla in Bar (BH)
 
@@ -138,13 +138,13 @@ Sash Lieu (Dark Dreams) AH
 
 </div>
 
-<div class="post" data-post-id="26940" data-author="Virus" data-date="2008-11-01T14:42:09+00:00">
+<div class="post" data-post-id="26940" data-author="Virus" data-date="2008-11-01T14:42:09+00:00" data-subject="">
 
 Chicken at Lyme dock  :D
 
 </div>
 
-<div class="post" data-post-id="29849" data-author="Jag" data-date="2009-08-18T12:30:14+00:00">
+<div class="post" data-post-id="29849" data-author="Jag" data-date="2009-08-18T12:30:14+00:00" data-subject="">
 
 Hex mobs?
 
@@ -152,7 +152,7 @@ Perhaps we can update this again.  I am not seeing many hexes on Zombies in Cata
 
 </div>
 
-<div class="post" data-post-id="29855" data-author="jezer" data-date="2009-08-18T19:27:53+00:00">
+<div class="post" data-post-id="29855" data-author="jezer" data-date="2009-08-18T19:27:53+00:00" data-subject="">
 
 If you got ac, and some output, you can try the prince over at wagoneers, probably not exactly an easy mob.
 

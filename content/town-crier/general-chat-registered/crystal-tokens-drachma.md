@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="34337" data-author="Nyx" data-date="2013-07-07T02:42:06+00:00">
+<div class="post" data-post-id="34337" data-author="Nyx" data-date="2013-07-07T02:42:06+00:00" data-subject="Crystal Tokens (drachma!)">
 
 I believe Neptune scattered 7 shimmering crystal tokens earlier today.
 
@@ -20,7 +20,7 @@ If you're reading this...we will begin killing on the hour. No idea what time th
 
 </div>
 
-<div class="post" data-post-id="34338" data-author="Nyx" data-date="2013-07-07T06:58:42+00:00">
+<div class="post" data-post-id="34338" data-author="Nyx" data-date="2013-07-07T06:58:42+00:00" data-subject="Re: Crystal Tokens (drachma!)">
 
 All tokens found and devoured.
 
@@ -28,7 +28,7 @@ Thanks for the fun 8)
 
 </div>
 
-<div class="post" data-post-id="34339" data-author="*Neptune*" data-date="2013-07-07T07:08:20+00:00">
+<div class="post" data-post-id="34339" data-author="*Neptune*" data-date="2013-07-07T07:08:20+00:00" data-subject="Re: Crystal Tokens (drachma!)">
 
 Glad to do it, guys. Thanks for playing. We had a good who list today,
 
@@ -38,7 +38,7 @@ and I look forward to seeing more of you in the future.
 
 </div>
 
-<div class="post" data-post-id="34342" data-author="Yasik" data-date="2013-07-08T08:42:24+00:00">
+<div class="post" data-post-id="34342" data-author="Yasik" data-date="2013-07-08T08:42:24+00:00" data-subject="Re: Crystal Tokens (drachma!)">
 
 Those tokens are not like in the past (lying on the ground for anyone to pick up), they now on huge mobs, did I get it right?
 
@@ -46,7 +46,7 @@ Amoun of drachma rewarded - is it dependant on group size?
 
 </div>
 
-<div class="post" data-post-id="34343" data-author="Nyx" data-date="2013-07-08T09:29:10+00:00">
+<div class="post" data-post-id="34343" data-author="Nyx" data-date="2013-07-08T09:29:10+00:00" data-subject="Re: Crystal Tokens (drachma!)">
 
 > **Yasik wrote:**
 > Those tokens are not like in the past (lying on the ground for anyone to pick up), they now on huge mobs, did I get it right?
@@ -59,7 +59,7 @@ The group size did not appear to affect the reward. Each person in group is rewa
 
 </div>
 
-<div class="post" data-post-id="34345" data-author="*Neptune*" data-date="2013-07-09T14:06:16+00:00">
+<div class="post" data-post-id="34345" data-author="*Neptune*" data-date="2013-07-09T14:06:16+00:00" data-subject="Re: Crystal Tokens (drachma!)">
 
 Some clarification for your own personal information:
 

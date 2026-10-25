@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="36365" data-author="*Idjit*" data-date="2015-12-24T18:25:20+00:00">
+<div class="post" data-post-id="36365" data-author="*Idjit*" data-date="2015-12-24T18:25:20+00:00" data-subject="Christmas Quest 2015">
 
 Hello Denizens of Sloth,
 
@@ -68,7 +68,7 @@ Hello Denizens of Sloth,
 
 </div>
 
-<div class="post" data-post-id="36366" data-author="Josiah" data-date="2015-12-24T18:27:46+00:00">
+<div class="post" data-post-id="36366" data-author="Josiah" data-date="2015-12-24T18:27:46+00:00" data-subject="Re: Christmas Quest 2015">
 
 first post!
 
@@ -76,13 +76,13 @@ Er... General Josiah is available to take back Christmas!
 
 </div>
 
-<div class="post" data-post-id="36367" data-author="Teron" data-date="2015-12-24T18:36:44+00:00">
+<div class="post" data-post-id="36367" data-author="Teron" data-date="2015-12-24T18:36:44+00:00" data-subject="Re: Christmas Quest 2015">
 
 +1
 
 </div>
 
-<div class="post" data-post-id="36368" data-author="Sam" data-date="2015-12-24T18:44:19+00:00">
+<div class="post" data-post-id="36368" data-author="Sam" data-date="2015-12-24T18:44:19+00:00" data-subject="Re: Christmas Quest 2015">
 
 4am moscow time, cries
 
@@ -90,7 +90,7 @@ Merry Christmas everyone :)
 
 </div>
 
-<div class="post" data-post-id="36369" data-author="Ertai" data-date="2015-12-24T18:54:06+00:00">
+<div class="post" data-post-id="36369" data-author="Ertai" data-date="2015-12-24T18:54:06+00:00" data-subject="Re: Christmas Quest 2015">
 
 In previous year you've made two quests with 12 hours difference. Ah, whatever!
 

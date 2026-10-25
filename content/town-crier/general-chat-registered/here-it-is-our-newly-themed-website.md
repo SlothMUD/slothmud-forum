@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="14443" data-author="*Splork*" data-date="2006-10-01T22:45:45+00:00">
+<div class="post" data-post-id="14443" data-author="*Splork*" data-date="2006-10-01T22:45:45+00:00" data-subject="Here it is, our newly themed website!">
 
 The administration of SlothMud III is proud to present this newly themed website. It was a collaboration of several individuals with countless hours of work. We'd like to thank Wade Gustafson for the spectacular graphical design, Clink for the PHP coding and Splork for the overall coordination. 
 
@@ -18,25 +18,25 @@ The SlothMud III Admin
 
 </div>
 
-<div class="post" data-post-id="14445" data-author="Axtrel" data-date="2006-10-01T22:54:29+00:00">
+<div class="post" data-post-id="14445" data-author="Axtrel" data-date="2006-10-01T22:54:29+00:00" data-subject="">
 
 Awesome redesign!
 
 </div>
 
-<div class="post" data-post-id="14446" data-author="Krok" data-date="2006-10-01T23:35:50+00:00">
+<div class="post" data-post-id="14446" data-author="Krok" data-date="2006-10-01T23:35:50+00:00" data-subject="">
 
 Thanks for your work, guys! :)
 
 </div>
 
-<div class="post" data-post-id="14447" data-author="Rynquald" data-date="2006-10-01T23:38:09+00:00">
+<div class="post" data-post-id="14447" data-author="Rynquald" data-date="2006-10-01T23:38:09+00:00" data-subject="">
 
 Nice, looks great, thanks :)
 
 </div>
 
-<div class="post" data-post-id="14448" data-author="Absu" data-date="2006-10-02T01:28:32+00:00">
+<div class="post" data-post-id="14448" data-author="Absu" data-date="2006-10-02T01:28:32+00:00" data-subject="">
 
 Very nice site design.
 
@@ -44,25 +44,25 @@ I think this calls for another Mudconnector advert post. :D
 
 </div>
 
-<div class="post" data-post-id="14449" data-author="13" data-date="2006-10-02T02:49:13+00:00">
+<div class="post" data-post-id="14449" data-author="13" data-date="2006-10-02T02:49:13+00:00" data-subject="">
 
 very fucking nice!
 
 </div>
 
-<div class="post" data-post-id="14450" data-author="Alberich" data-date="2006-10-02T03:25:12+00:00">
+<div class="post" data-post-id="14450" data-author="Alberich" data-date="2006-10-02T03:25:12+00:00" data-subject="">
 
 very impressive!  I like it
 
 </div>
 
-<div class="post" data-post-id="14453" data-author="gondor" data-date="2006-10-02T05:56:02+00:00">
+<div class="post" data-post-id="14453" data-author="gondor" data-date="2006-10-02T05:56:02+00:00" data-subject="Nice">
 
 Love the new site. Really looks good. The Sloth Admin is the BEST!!!
 
 </div>
 
-<div class="post" data-post-id="14454" data-author="Knight" data-date="2006-10-02T07:13:01+00:00">
+<div class="post" data-post-id="14454" data-author="Knight" data-date="2006-10-02T07:13:01+00:00" data-subject="">
 
 Love the new design, but is there any reason it can't go to the full width of the screen?
 
@@ -70,7 +70,7 @@ Love the new design, but is there any reason it can't go to the full width of th
 
 </div>
 
-<div class="post" data-post-id="14455" data-author="Clink" data-date="2006-10-02T09:35:38+00:00">
+<div class="post" data-post-id="14455" data-author="Clink" data-date="2006-10-02T09:35:38+00:00" data-subject="">
 
 Love the new design, but is there any reason it can't go to the full width of the screen?
 
@@ -80,7 +80,7 @@ Yes.  It is a fixed width set of imagery.
 
 </div>
 
-<div class="post" data-post-id="14456" data-author="Diazz_Dizazter" data-date="2006-10-02T11:10:28+00:00">
+<div class="post" data-post-id="14456" data-author="Diazz_Dizazter" data-date="2006-10-02T11:10:28+00:00" data-subject="">
 
 Had it bookmarked for a couple weeks now.  Was wondering when it
 
@@ -88,7 +88,7 @@ was gonne be released into the wild.  :)
 
 </div>
 
-<div class="post" data-post-id="14474" data-author="Knight" data-date="2006-10-03T07:33:33+00:00">
+<div class="post" data-post-id="14474" data-author="Knight" data-date="2006-10-03T07:33:33+00:00" data-subject="">
 
 [quote:1wnhoc99]Yes. It is a fixed width set of imagery.[/quote:1wnhoc99]
 
@@ -98,7 +98,7 @@ It's just a shame it's all scrunched up down the left three quarters of the scre
 
 </div>
 
-<div class="post" data-post-id="14475" data-author="Falsra" data-date="2006-10-03T09:08:09+00:00">
+<div class="post" data-post-id="14475" data-author="Falsra" data-date="2006-10-03T09:08:09+00:00" data-subject="">
 
 Good news, i like changes 8) !
 
@@ -138,7 +138,7 @@ design.
 
 </div>
 
-<div class="post" data-post-id="14479" data-author="Clink" data-date="2006-10-03T12:23:35+00:00">
+<div class="post" data-post-id="14479" data-author="Clink" data-date="2006-10-03T12:23:35+00:00" data-subject="">
 
 Feel free to sumbit us your high quality, CSS/HTML implementation of the "family mud" graphical design. We now have the rest of the website code done in a way that it can be easily integrated. If it's better than this one or at least equivalent, we could make it the default theme. Otherwise, we'll let players choose which one they will see.
 
@@ -150,7 +150,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="14480" data-author="Rodek" data-date="2006-10-03T13:12:37+00:00">
+<div class="post" data-post-id="14480" data-author="Rodek" data-date="2006-10-03T13:12:37+00:00" data-subject="">
 
 I think we need pictures of scantily clad women adventurers also -- that would help attract people.
 
@@ -160,7 +160,7 @@ looks great guys!  nice work!
 
 </div>
 
-<div class="post" data-post-id="14494" data-author="*Splork*" data-date="2006-10-03T23:41:43+00:00">
+<div class="post" data-post-id="14494" data-author="*Splork*" data-date="2006-10-03T23:41:43+00:00" data-subject="">
 
 I would be utterly amazed if someone saw this website and did not spend some time reading about our game or logging in.
 
@@ -170,13 +170,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14495" data-author="tincts" data-date="2006-10-04T03:22:52+00:00">
+<div class="post" data-post-id="14495" data-author="tincts" data-date="2006-10-04T03:22:52+00:00" data-subject="">
 
 Heck, I'd log on and have a look base solely on the qualily of this site.  It's beautiful.  Wd and ty.
 
 </div>
 
-<div class="post" data-post-id="14496" data-author="Absu" data-date="2006-10-04T04:05:30+00:00">
+<div class="post" data-post-id="14496" data-author="Absu" data-date="2006-10-04T04:05:30+00:00" data-subject="">
 
 When I was looking for a MUD home, the website was one of the biggest things I looked at. To me, a poorly made webpage just reflected a poorly made MUD.
 
@@ -184,7 +184,7 @@ My only complaint is the same as some of the others; on high resolution desktops
 
 </div>
 
-<div class="post" data-post-id="14497" data-author="Weasel" data-date="2006-10-04T04:23:45+00:00">
+<div class="post" data-post-id="14497" data-author="Weasel" data-date="2006-10-04T04:23:45+00:00" data-subject="">
 
 On your [http://www.slothmud.org/themes/SlothIII/style/style.css](http://www.slothmud.org/themes/SlothIII/style/style.css) add the following:
 
@@ -222,13 +222,13 @@ html   {
 
 </div>
 
-<div class="post" data-post-id="16199" data-author="Avatar" data-date="2007-01-11T03:55:34+00:00">
+<div class="post" data-post-id="16199" data-author="Avatar" data-date="2007-01-11T03:55:34+00:00" data-subject="New website">
 
 Just wanted to say that I'm still impressed by the new website.  It really rocks, very nice.
 
 </div>
 
-<div class="post" data-post-id="16237" data-author="*Splork*" data-date="2007-01-12T22:50:33+00:00">
+<div class="post" data-post-id="16237" data-author="*Splork*" data-date="2007-01-12T22:50:33+00:00" data-subject="">
 
 Website progress has been slow since its introduction but we are still slowly working on a few things.
 

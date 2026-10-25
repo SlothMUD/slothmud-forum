@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="31376" data-author="kron" data-date="2010-08-02T08:23:32+00:00">
+<div class="post" data-post-id="31376" data-author="kron" data-date="2010-08-02T08:23:32+00:00" data-subject="DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT LOGS">
 
 sniff
 
@@ -20,13 +20,13 @@ sniff
 
 </div>
 
-<div class="post" data-post-id="31377" data-author="Dragoth" data-date="2010-08-02T08:35:07+00:00">
+<div class="post" data-post-id="31377" data-author="Dragoth" data-date="2010-08-02T08:35:07+00:00" data-subject="Re: DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT ">
 
 Or if you log in, dont log out or die!
 
 </div>
 
-<div class="post" data-post-id="31378" data-author="Rynquald" data-date="2010-08-02T09:07:20+00:00">
+<div class="post" data-post-id="31378" data-author="Rynquald" data-date="2010-08-02T09:07:20+00:00" data-subject="Re: DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT ">
 
 Or cut link apparently.
 
@@ -34,25 +34,25 @@ I doubt if it really matters though. Most likely all the lost characters will be
 
 </div>
 
-<div class="post" data-post-id="31379" data-author="Dragoth" data-date="2010-08-02T10:20:46+00:00">
+<div class="post" data-post-id="31379" data-author="Dragoth" data-date="2010-08-02T10:20:46+00:00" data-subject="Re: DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT ">
 
 Aye, most likely. I've got myself logged just in case!
 
 </div>
 
-<div class="post" data-post-id="31380" data-author="Rynquald" data-date="2010-08-02T10:40:47+00:00">
+<div class="post" data-post-id="31380" data-author="Rynquald" data-date="2010-08-02T10:40:47+00:00" data-subject="Re: DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT ">
 
 Same here. It will be interesting in four hours or so when that scheduled reboot comes up though.
 
 </div>
 
-<div class="post" data-post-id="31381" data-author="jezer" data-date="2010-08-02T10:51:25+00:00">
+<div class="post" data-post-id="31381" data-author="jezer" data-date="2010-08-02T10:51:25+00:00" data-subject="Re: DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT">
 
 Looking forward to hearing the explanation for this one. Its probably just corruption. Deletion would be purposeful or malicious, or down right irresponsible.
 
 </div>
 
-<div class="post" data-post-id="31382" data-author="Tuck" data-date="2010-08-02T12:45:53+00:00">
+<div class="post" data-post-id="31382" data-author="Tuck" data-date="2010-08-02T12:45:53+00:00" data-subject="Re: DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT ">
 
 Welcome to the Sloth DikuMUD at UKANS
 
@@ -74,7 +74,7 @@ Sorry, the game is wizlocked.
 
 </div>
 
-<div class="post" data-post-id="31383" data-author="DSF" data-date="2010-08-02T13:47:08+00:00">
+<div class="post" data-post-id="31383" data-author="DSF" data-date="2010-08-02T13:47:08+00:00" data-subject="Re: DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT ">
 
 Sloth down for more than half hour already. 
 
@@ -82,7 +82,7 @@ Wonder what's the real reason behind the problem.
 
 </div>
 
-<div class="post" data-post-id="31384" data-author="*Splork*" data-date="2010-08-02T13:50:35+00:00">
+<div class="post" data-post-id="31384" data-author="*Splork*" data-date="2010-08-02T13:50:35+00:00" data-subject="Game back up">
 
 We arent entirely sure what happened here, the builders port was up for over 30 days which may very well of drained our game machine memory.
 
@@ -94,7 +94,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31385" data-author="DSF" data-date="2010-08-02T13:51:54+00:00">
+<div class="post" data-post-id="31385" data-author="DSF" data-date="2010-08-02T13:51:54+00:00" data-subject="Re: DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT ">
 
 SLOTH BACK UP! 
 
@@ -102,7 +102,7 @@ Thanks Splork!
 
 </div>
 
-<div class="post" data-post-id="31386" data-author="DSF" data-date="2010-08-02T13:53:19+00:00">
+<div class="post" data-post-id="31386" data-author="DSF" data-date="2010-08-02T13:53:19+00:00" data-subject="Re: Game back up">
 
 > ***Splork* wrote:**
 > We arent entirely sure what happened here, the builders port was up for over 30 days which may very well of drained our game machine memory.
@@ -125,13 +125,13 @@ Rocking!!!
 
 </div>
 
-<div class="post" data-post-id="31387" data-author="Rynquald" data-date="2010-08-02T13:56:27+00:00">
+<div class="post" data-post-id="31387" data-author="Rynquald" data-date="2010-08-02T13:56:27+00:00" data-subject="Re: DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT ">
 
 Thanks Splork.
 
 </div>
 
-<div class="post" data-post-id="31388" data-author="DSF" data-date="2010-08-02T14:20:15+00:00">
+<div class="post" data-post-id="31388" data-author="DSF" data-date="2010-08-02T14:20:15+00:00" data-subject="Re: DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT ">
 
 THis is so cool!
 
@@ -173,7 +173,7 @@ MASS TRANSFER TO RENT! ROCKING!
 
 </div>
 
-<div class="post" data-post-id="31389" data-author="*Splork*" data-date="2010-08-02T14:55:14+00:00">
+<div class="post" data-post-id="31389" data-author="*Splork*" data-date="2010-08-02T14:55:14+00:00" data-subject="Down for an hour">
 
 Ive had to add back temples and a few other miscellaneous things in the last hour. Corruption is still happening and we are crashing every so often. I have a call in to Jake to see if we can do a complete backup from yesterday's state.
 
@@ -183,7 +183,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31403" data-author="Stab" data-date="2010-08-03T18:45:30+00:00">
+<div class="post" data-post-id="31403" data-author="Stab" data-date="2010-08-03T18:45:30+00:00" data-subject="Re: DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT ">
 
 I'm so glad i missed all that.:)
 

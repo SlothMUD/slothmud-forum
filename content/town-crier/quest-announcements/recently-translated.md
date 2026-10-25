@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34986" data-author="*Neptune*" data-date="2014-04-12T16:46:33+00:00">
+<div class="post" data-post-id="34986" data-author="*Neptune*" data-date="2014-04-12T16:46:33+00:00" data-subject="Recently Translated...">
 
 Recently uncovered from a captured messenger traveling between Niebelung and the Island to the south
 

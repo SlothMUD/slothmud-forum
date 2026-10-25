@@ -10,25 +10,25 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="931" data-author="Gippal" data-date="2004-07-05T15:49:53+00:00">
+<div class="post" data-post-id="931" data-author="Gippal" data-date="2004-07-05T15:49:53+00:00" data-subject="Wanting to Learn">
 
 I know how to do most of the action and alias np; however I was wondering if there is a good site or even books to teach me how to do more of the math requirements of a whiner or anything else that might require math in it.  When telling me a site remember that I am a dummy.  The wintin site didn't help me at all on these items (so dummy is an understatement).  I don't just want someone to tell me.  I really want to learn because I believe it might help me become a better player.  Thanks for any iformation you give.
 
 </div>
 
-<div class="post" data-post-id="934" data-author="Weasel" data-date="2004-07-05T17:19:58+00:00">
+<div class="post" data-post-id="934" data-author="Weasel" data-date="2004-07-05T17:19:58+00:00" data-subject="">
 
 I don't use wintin so can't really help you there, but I'll make a suggestion. The way I learned much of the stuff on my client is by looking at as many other scripts as I could and then try changing things around in them and seeing what effect they have to get an understanding of how the script works. It seemed to work reasonably well for me anyway.  :D
 
 </div>
 
-<div class="post" data-post-id="940" data-author="Calim" data-date="2004-07-06T03:45:01+00:00">
+<div class="post" data-post-id="940" data-author="Calim" data-date="2004-07-06T03:45:01+00:00" data-subject="">
 
 Most whiners work off a simple premise.  It uses the games prompt of <xhp ... etc.  So you set that x to a some variable like say currentHps.  A simple action that reacts on the prompt and sets that value to a variable would be a good first step for a true wintin newbie.  After you have that, you use the same action to first set currentHps to a new variable: oldHps, then set currentHps to the x value from the prompt.  Now its just a matter of subtracting old from current, figure out if that's good news or bad news, and report if you need to.
 
 </div>
 
-<div class="post" data-post-id="945" data-author="Qa" data-date="2004-07-06T14:21:04+00:00">
+<div class="post" data-post-id="945" data-author="Qa" data-date="2004-07-06T14:21:04+00:00" data-subject="">
 
 Ok, I use JMC rather than wintin, but most scripts are fairly interchangable.  While this isn't the best whiner in the mud, it has worked for me on those rare times you want a caster/caster tank. 
 
@@ -80,7 +80,7 @@ To turn it on type 'tankrepon'.  Off is (duh) 'tankrepoff'.  To turn off everyth
 
 </div>
 
-<div class="post" data-post-id="946" data-author="Calim" data-date="2004-07-06T16:16:09+00:00">
+<div class="post" data-post-id="946" data-author="Calim" data-date="2004-07-06T16:16:09+00:00" data-subject="">
 
 #defgroup {tank whiner}
 
@@ -140,7 +140,7 @@ in the tankme alias, I call rescon, which turns on my auto rescuer.  The mana ca
 
 </div>
 
-<div class="post" data-post-id="984" data-author="Gippal" data-date="2004-07-08T06:24:33+00:00">
+<div class="post" data-post-id="984" data-author="Gippal" data-date="2004-07-08T06:24:33+00:00" data-subject="">
 
 <P>Thanks for all the advice and help!</P>
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="140" data-author="guest" data-date="2004-04-07T02:20:16+00:00">
+<div class="post" data-post-id="140" data-author="guest" data-date="2004-04-07T02:20:16+00:00" data-subject="Bone Helm Forge">
 
 You recite a scroll of identify which dissolves.
 
@@ -36,7 +36,7 @@ Cost is 80,000 coins to forge, not 50 like the page says.
 
 </div>
 
-<div class="post" data-post-id="147" data-author="guest" data-date="2004-04-22T18:05:55+00:00">
+<div class="post" data-post-id="147" data-author="guest" data-date="2004-04-22T18:05:55+00:00" data-subject="">
 
 Thanks, it's updated.
 

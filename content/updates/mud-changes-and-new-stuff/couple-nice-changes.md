@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="4112" data-author="*Splork*" data-date="2005-02-04T04:38:58+00:00">
+<div class="post" data-post-id="4112" data-author="*Splork*" data-date="2005-02-04T04:38:58+00:00" data-subject="Couple nice changes...">
 
 Group (3 or more players) exp has been increased significantly. This includes an increase in both leader and point exp. This is the first step of several we plan on taking in an attempt to draw more groups.  
 

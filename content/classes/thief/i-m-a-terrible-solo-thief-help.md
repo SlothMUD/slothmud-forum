@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="33348" data-author="harik" data-date="2012-06-27T23:06:20+00:00">
+<div class="post" data-post-id="33348" data-author="harik" data-date="2012-06-27T23:06:20+00:00" data-subject="I&#x27;m a terrible solo thief, help.">
 
 I've gotten to 3x40 entirely on the back of groups, but whenever I try to solo I lose more XP than I gain.
 
@@ -49,13 +49,13 @@ I'm really bad at this, help.
 
 </div>
 
-<div class="post" data-post-id="33349" data-author="Fire" data-date="2012-06-28T09:24:05+00:00">
+<div class="post" data-post-id="33349" data-author="Fire" data-date="2012-06-28T09:24:05+00:00" data-subject="Re: I&#x27;m a terrible solo thief, help.">
 
 When I was running Templeton on s3 (3x40 th/wa/ma) I used to run Xanth, Kozakura, Infirmary, the Island Maze, and Infernite miners. Also, there are some awesome stab areas on Lyme now.
 
 </div>
 
-<div class="post" data-post-id="33350" data-author="Dragoth" data-date="2012-06-28T09:46:51+00:00">
+<div class="post" data-post-id="33350" data-author="Dragoth" data-date="2012-06-28T09:46:51+00:00" data-subject="Re: I&#x27;m a terrible solo thief, help.">
 
 Thief class, has one of the most distinct playstyles associated with it.
 
@@ -75,7 +75,7 @@ As for my suggestions to you, if you arent already doing this : use frenzy skill
 
 </div>
 
-<div class="post" data-post-id="33351" data-author="harik" data-date="2012-06-28T18:45:08+00:00">
+<div class="post" data-post-id="33351" data-author="harik" data-date="2012-06-28T18:45:08+00:00" data-subject="Re: I&#x27;m a terrible solo thief, help.">
 
 > **Dragoth wrote:**
 > You have pretty much shot yourself in the foot by choosing warrior as your secondary class, this gives you an advantage in defence (you get gear with low armor class sooner and you have more health), but is ultimately useless, as it gives you nothing in terms of damage output at these levels,
@@ -90,7 +90,7 @@ Infirmary chewed me up and spit me out, I don't have the initial damage for ther
 
 </div>
 
-<div class="post" data-post-id="33352" data-author="Dragoth" data-date="2012-06-28T20:06:52+00:00">
+<div class="post" data-post-id="33352" data-author="Dragoth" data-date="2012-06-28T20:06:52+00:00" data-subject="Re: I&#x27;m a terrible solo thief, help.">
 
 Sloth can be pretty unforgiving when it comes to making good exp while soloing at higher levels and it is oriented at people who know what they are doing.
 
@@ -118,7 +118,7 @@ Be prepared to die ALOT
 
 </div>
 
-<div class="post" data-post-id="33353" data-author="Fire" data-date="2012-06-28T22:22:11+00:00">
+<div class="post" data-post-id="33353" data-author="Fire" data-date="2012-06-28T22:22:11+00:00" data-subject="Re: I&#x27;m a terrible solo thief, help.">
 
 Basically, I wouldn't worry too much about AC just yet. Get as much +dam as you possibly can, the get more. Then get as much +hit as you can... then get more. The name of the game, when soloing with a thief, is to NOT miss when you stab, and for that stab to be as effective as possible. I assume you use poison? Also about dweb, as far as I know the only things that are really worth killing farther than the landshark are the elite driders, but they hit pretty freaking hard too. And lung patients are just ugly lol, I really enjoyed SS stab when I was dragging a caster around with me to blast and to heal my crunchy behind.
 

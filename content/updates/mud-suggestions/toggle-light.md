@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="12641" data-author="Weasel" data-date="2006-05-22T22:14:23+00:00">
+<div class="post" data-post-id="12641" data-author="Weasel" data-date="2006-05-22T22:14:23+00:00" data-subject="toggle light">
 
 A long shot, but would it be possible to code so that we can toggle our light on/off without having to remove it and thus lose its effects as well? 
 
@@ -20,13 +20,13 @@ ie: lightoff/lighton so can run thru dark areas, but not lose other properties o
 
 </div>
 
-<div class="post" data-post-id="12642" data-author="kjartan" data-date="2006-05-22T22:56:40+00:00">
+<div class="post" data-post-id="12642" data-author="kjartan" data-date="2006-05-22T22:56:40+00:00" data-subject="">
 
 One way to do this would be to make it a 'dark cloak' effect (if it isn't already - don't have the code handy to check).
 
 </div>
 
-<div class="post" data-post-id="12643" data-author="Qa" data-date="2006-05-22T23:58:35+00:00">
+<div class="post" data-post-id="12643" data-author="Qa" data-date="2006-05-22T23:58:35+00:00" data-subject="">
 
 Wow, KJ that would really rock.
 
@@ -40,13 +40,13 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="12646" data-author="kjartan" data-date="2006-05-23T03:13:40+00:00">
+<div class="post" data-post-id="12646" data-author="kjartan" data-date="2006-05-23T03:13:40+00:00" data-subject="">
 
 Ok, a little examination of the code shows me that there is already a spell for this, the necro spell darkness.  So in the interest of not taking a necro spell and giving it to clerics, we aren't going to do this.  Also no toggleable lights.
 
 </div>
 
-<div class="post" data-post-id="12647" data-author="Weasel" data-date="2006-05-23T03:23:28+00:00">
+<div class="post" data-post-id="12647" data-author="Weasel" data-date="2006-05-23T03:23:28+00:00" data-subject="">
 
 So in the interest of not taking a necro spell and giving it to clerics, we aren't going to do this.  Also no toggleable lights.[/quote:2x8sv1eu]
 
@@ -54,7 +54,7 @@ Ok, give it to Warriors and Thieves then.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="12648" data-author="Weasel" data-date="2006-05-23T03:27:21+00:00">
+<div class="post" data-post-id="12648" data-author="Weasel" data-date="2006-05-23T03:27:21+00:00" data-subject="">
 
 ..or how about 'extinguish light', but to relight it we have to buy matches or a burning coal or something like that to recharge it..
 
@@ -62,19 +62,19 @@ I'm just clutching at straws here, aren't I.  :(
 
 </div>
 
-<div class="post" data-post-id="12649" data-author="Weasel" data-date="2006-05-23T03:28:31+00:00">
+<div class="post" data-post-id="12649" data-author="Weasel" data-date="2006-05-23T03:28:31+00:00" data-subject="">
 
 And I know some immorts liked my boomerang idea ages ago. Anyone ever given it another thought?
 
 </div>
 
-<div class="post" data-post-id="12653" data-author="Rajil" data-date="2006-05-23T14:59:59+00:00">
+<div class="post" data-post-id="12653" data-author="Rajil" data-date="2006-05-23T14:59:59+00:00" data-subject="">
 
 Silly non necros.... tsk tsk tsk
 
 </div>
 
-<div class="post" data-post-id="12657" data-author="Malison" data-date="2006-05-23T21:42:20+00:00">
+<div class="post" data-post-id="12657" data-author="Malison" data-date="2006-05-23T21:42:20+00:00" data-subject="">
 
 in the interest of the game's pseudo-reality...
 
@@ -84,7 +84,7 @@ and you don't really see many people running around holding torches
 
 </div>
 
-<div class="post" data-post-id="12659" data-author="Vixn" data-date="2006-05-24T04:12:02+00:00">
+<div class="post" data-post-id="12659" data-author="Vixn" data-date="2006-05-24T04:12:02+00:00" data-subject="">
 
 Ok, a little examination of the code shows me that there is already a spell for this, the necro spell darkness.  So in the interest of not taking a necro spell and giving it to clerics, we aren't going to do this.  Also no toggleable lights.[/quote:3giv9rfi]
 
@@ -92,7 +92,7 @@ following this logic necro and cleric shouldn't be combined in one classo cause 
 
 </div>
 
-<div class="post" data-post-id="12660" data-author="12345" data-date="2006-05-24T04:31:33+00:00">
+<div class="post" data-post-id="12660" data-author="12345" data-date="2006-05-24T04:31:33+00:00" data-subject="">
 
 Ok, Weasel knew that asking this was setting himself up for disappointment, so this can die I think.  If we follow the current logic, we'll give the dark cloak the darkness affect, and the familiar spell the ability to assume the form of the critter familiared and damn will strike as a firestorm on masterfuls...
 
@@ -100,7 +100,7 @@ So if we can stop while we can still tell one class from another, that'd be nice
 
 </div>
 
-<div class="post" data-post-id="12664" data-author="kjartan" data-date="2006-05-24T16:23:35+00:00">
+<div class="post" data-post-id="12664" data-author="kjartan" data-date="2006-05-24T16:23:35+00:00" data-subject="">
 
 Ok, a little examination of the code shows me that there is already a spell for this, the necro spell darkness.  So in the interest of not taking a necro spell and giving it to clerics, we aren't going to do this.  Also no toggleable lights.[/quote:1ggb4ddf]
 
@@ -110,7 +110,7 @@ My objection wasn't that a cleric can't cast a necro spell because it's evil - t
 
 </div>
 
-<div class="post" data-post-id="12666" data-author="Qa" data-date="2006-05-24T20:27:25+00:00">
+<div class="post" data-post-id="12666" data-author="Qa" data-date="2006-05-24T20:27:25+00:00" data-subject="">
 
 Ok, KJ, try this:
 
@@ -122,7 +122,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="12667" data-author="kjartan" data-date="2006-05-24T20:50:47+00:00">
+<div class="post" data-post-id="12667" data-author="kjartan" data-date="2006-05-24T20:50:47+00:00" data-subject="">
 
 Yeah, we could do something like that.
 
@@ -130,13 +130,13 @@ Or, if I (or one of you) could think of a good way of explaining it, a thief ski
 
 </div>
 
-<div class="post" data-post-id="12668" data-author="Alberich" data-date="2006-05-24T21:00:52+00:00">
+<div class="post" data-post-id="12668" data-author="Alberich" data-date="2006-05-24T21:00:52+00:00" data-subject="">
 
 av th restricted clasp would even work - common enough to put some sort of shade over a lamp to either direct or lessen the illumination (yes, this means you'd be removing your light from time to time, pthieves, wah wah) but really... a skill wouldn't be plausible... and my thief already has his hands full... what with stabber, poisons, the light, etc etc...
 
 </div>
 
-<div class="post" data-post-id="12670" data-author="Weasel" data-date="2006-05-24T21:58:42+00:00">
+<div class="post" data-post-id="12670" data-author="Weasel" data-date="2006-05-24T21:58:42+00:00" data-subject="">
 
 Could it be an enhanced property of an existing skill like sneak, for example greater sneak? Although ya wouldn't want it to replace normal sneak because ya obviously wouldn't want to be in the dark every time ya wanted to sneak somewhere..
 
@@ -144,7 +144,7 @@ Making a clasp.. dunno if that's such a good idea, at least not in the held high
 
 </div>
 
-<div class="post" data-post-id="12672" data-author="12345" data-date="2006-05-24T22:34:08+00:00">
+<div class="post" data-post-id="12672" data-author="12345" data-date="2006-05-24T22:34:08+00:00" data-subject="">
 
 This reminds me of the D&D flashlight.  Cast continual light into a container with a lid and you can flip it open and shut to turn it on and off and carry it around.  Easy solution for a complex problem.
 

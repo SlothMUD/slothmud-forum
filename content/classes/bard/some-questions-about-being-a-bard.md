@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="7253" data-author="SirRobin" data-date="2005-06-15T17:44:35+00:00">
+<div class="post" data-post-id="7253" data-author="SirRobin" data-date="2005-06-15T17:44:35+00:00" data-subject="Some Questions about Being a Bard">
 
 1) Do a Bard’s songs work for pets/followers? If so, wouldn’t a Bard Necro be fairly powerful?
 
@@ -22,7 +22,7 @@ post_count: 6
 
 </div>
 
-<div class="post" data-post-id="7256" data-author="Gnu" data-date="2005-06-15T18:55:25+00:00">
+<div class="post" data-post-id="7256" data-author="Gnu" data-date="2005-06-15T18:55:25+00:00" data-subject="Re: Some Questions about Being a Bard">
 
 1) Do a Bardâ€™s songs work for pets/followers? If so, wouldnâ€™t a Bard Necro be fairly powerful?
 
@@ -46,7 +46,7 @@ Taliesin, Pendalf, Minstrel, Sapient, Leadbelly, Solstice, Elseh, Requiem... and
 
 </div>
 
-<div class="post" data-post-id="7261" data-author="rith" data-date="2005-06-15T23:35:48+00:00">
+<div class="post" data-post-id="7261" data-author="rith" data-date="2005-06-15T23:35:48+00:00" data-subject="">
 
 [35b 21d 15n  6c] Heavell .
 
@@ -54,7 +54,7 @@ You missed one. This bard loves to sing Back Street Boys and Westlife  :lol:
 
 </div>
 
-<div class="post" data-post-id="7262" data-author="madmax" data-date="2005-06-16T00:49:11+00:00">
+<div class="post" data-post-id="7262" data-author="madmax" data-date="2005-06-16T00:49:11+00:00" data-subject="">
 
 And another
 
@@ -62,7 +62,7 @@ And another
 
 </div>
 
-<div class="post" data-post-id="13917" data-author="*juggleblood*" data-date="2006-09-05T17:59:23+00:00">
+<div class="post" data-post-id="13917" data-author="*juggleblood*" data-date="2006-09-05T17:59:23+00:00" data-subject="More Bard Questions">
 
 I also have a couple questions about playing bard.
 
@@ -78,7 +78,7 @@ Wonka
 
 </div>
 
-<div class="post" data-post-id="13920" data-author="blackmore" data-date="2006-09-06T15:16:54+00:00">
+<div class="post" data-post-id="13920" data-author="blackmore" data-date="2006-09-06T15:16:54+00:00" data-subject="Re: More Bard Questions">
 
 I also have a couple questions about playing bard.
 

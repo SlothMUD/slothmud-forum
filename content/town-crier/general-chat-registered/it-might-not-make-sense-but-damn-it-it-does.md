@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="22417" data-author="Tap" data-date="2008-01-31T03:07:10+00:00">
+<div class="post" data-post-id="22417" data-author="Tap" data-date="2008-01-31T03:07:10+00:00" data-subject="It might not make sense but damn it, it does">
 
 I completely stole this from another site but its hilarious and easily applies to this great game we know and love. The trials and tribulations of a newbie character to the seasoned 5x40 botter!!! I give you, 5 things to look forward too besides death and taxes in the land of Sloth  :P
 
@@ -36,7 +36,7 @@ Just as everyone is willing to turn a blind eye towards my compulsive pilfering 
 
 </div>
 
-<div class="post" data-post-id="22419" data-author="jezer" data-date="2008-01-31T04:04:39+00:00">
+<div class="post" data-post-id="22419" data-author="jezer" data-date="2008-01-31T04:04:39+00:00" data-subject="">
 
 I liked it! :D A clever writer who understands MUDs. I read the whole thing from top to bottom and enjoyed it!  8) 
 
@@ -44,25 +44,25 @@ I liked it! :D A clever writer who understands MUDs. I read the whole thing from
 
 </div>
 
-<div class="post" data-post-id="22421" data-author="Akasha" data-date="2008-01-31T05:57:34+00:00">
+<div class="post" data-post-id="22421" data-author="Akasha" data-date="2008-01-31T05:57:34+00:00" data-subject="">
 
 entertaining post.
 
 </div>
 
-<div class="post" data-post-id="22422" data-author="Weasel" data-date="2008-01-31T11:33:07+00:00">
+<div class="post" data-post-id="22422" data-author="Weasel" data-date="2008-01-31T11:33:07+00:00" data-subject="">
 
 Nice one.
 
 </div>
 
-<div class="post" data-post-id="22427" data-author="Yasik" data-date="2008-01-31T16:55:23+00:00">
+<div class="post" data-post-id="22427" data-author="Yasik" data-date="2008-01-31T16:55:23+00:00" data-subject="">
 
 [img:2ud6nbti]http://yasik.kiev.ua/Tits_or_GTFO.jpg[/img:2ud6nbti]
 
 </div>
 
-<div class="post" data-post-id="22428" data-author="Weasel" data-date="2008-01-31T17:51:47+00:00">
+<div class="post" data-post-id="22428" data-author="Weasel" data-date="2008-01-31T17:51:47+00:00" data-subject="">
 
 relÂ·eÂ·vant      /ˈrɛləvənt/ 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30410" data-author="*Splork*" data-date="2009-12-04T22:33:27+00:00">
+<div class="post" data-post-id="30410" data-author="*Splork*" data-date="2009-12-04T22:33:27+00:00" data-subject="Astrology enhancements">
 
 We have added several new extras to our astology houses so keep your eyes open and enjoy the new stuff! 
 

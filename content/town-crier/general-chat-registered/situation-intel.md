@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="18530" data-author="tincts" data-date="2007-05-18T11:26:40+00:00">
+<div class="post" data-post-id="18530" data-author="tincts" data-date="2007-05-18T11:26:40+00:00" data-subject="Situation intel">
 
 Teron (gtell): you sure it is the right mob?
 
@@ -28,7 +28,7 @@ Pi (gtell): it was wrong one
 
 </div>
 
-<div class="post" data-post-id="18532" data-author="Autolycos" data-date="2007-05-18T12:41:00+00:00">
+<div class="post" data-post-id="18532" data-author="Autolycos" data-date="2007-05-18T12:41:00+00:00" data-subject="Re: Situation intel">
 
 Pi (gtell): it was wrong one[/quote:3cnv21ng]
 

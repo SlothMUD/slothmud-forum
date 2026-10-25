@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="31561" data-author="jezer" data-date="2010-08-23T11:14:02+00:00">
+<div class="post" data-post-id="31561" data-author="jezer" data-date="2010-08-23T11:14:02+00:00" data-subject="New Area Changes etc">
 
 I've been getting around to trying the areas with xp improvements. I'm pretty impressed, getting in most cases what I would call 'fair.' I'm not quite sure when tony's was changed, but prongs are now back to how they were (xp wise)... albeit, quite a bit thicker and rougher for the xp, but once again in the 'fair' zone in comparison for now.
 
@@ -732,7 +732,7 @@ There were 1183 coins.
 
 </div>
 
-<div class="post" data-post-id="31562" data-author="Dragoth" data-date="2010-08-23T11:59:05+00:00">
+<div class="post" data-post-id="31562" data-author="Dragoth" data-date="2010-08-23T11:59:05+00:00" data-subject="Re: New Area Changes etc">
 
 Why didnt you sing lion chorus before gripping ? It gives your grip multiplier an extra 4 damage to work with. Also, lets not forget that you are not a monk prime and cant use focus and have a smaller grip multiplier, so your grips WILL be weaker. 
 
@@ -754,7 +754,7 @@ Just as a FYI, how many monk primes do you see ? The "who list" is usually a ver
 
 </div>
 
-<div class="post" data-post-id="31565" data-author="jezer" data-date="2010-08-23T19:46:53+00:00">
+<div class="post" data-post-id="31565" data-author="jezer" data-date="2010-08-23T19:46:53+00:00" data-subject="Re: New Area Changes etc">
 
 Lion/Gods doesn't work for grips Dragoth (read the help - tested in the arena too). It does work for strikes. Brothers will work for grips. Dragoth, I totally agree with your bottom 5 paragraphs. The first one was wrong. With the second one, I'm not asking to be a prime monk. Been there done that. I do know the difference.
 
@@ -778,7 +778,7 @@ Grip damage works a bit too strongly on hand dam, it should work a bit more on t
 
 </div>
 
-<div class="post" data-post-id="31570" data-author="*Splork*" data-date="2010-08-24T05:23:56+00:00">
+<div class="post" data-post-id="31570" data-author="*Splork*" data-date="2010-08-24T05:23:56+00:00" data-subject="Re: New Area Changes etc">
 
 Lions and Gods  should indeed work with Deathgrip, backstab, circlestab, deathgrip, and wraithtouch. If it is not, the code is broken but I am assuming it is. 
 
@@ -798,7 +798,7 @@ splork
 
 </div>
 
-<div class="post" data-post-id="31572" data-author="jezer" data-date="2010-08-24T11:46:35+00:00">
+<div class="post" data-post-id="31572" data-author="jezer" data-date="2010-08-24T11:46:35+00:00" data-subject="Re: New Area Changes etc">
 
 Good to hear Splork. I hope what ever gets done gets canvased amongst all the immortals, I think the result will turn out better for all monks. Make sure some thought goes into the rework of the formula. The result should be a **linear** improvement of power over time. I feel at the moment the graph of monk power is more "exponential" (slower start, bigger rate of power at the end.)
 
@@ -810,7 +810,7 @@ It would be cool if it added variety defensively to monk, and unless it can be u
 
 </div>
 
-<div class="post" data-post-id="31573" data-author="Skyv" data-date="2010-08-24T13:15:21+00:00">
+<div class="post" data-post-id="31573" data-author="Skyv" data-date="2010-08-24T13:15:21+00:00" data-subject="Re: New Area Changes etc">
 
 I think all of these ideas are very good ones but obviously that sounds a little self-serving from somone who only plays a monk prime.  More damage, better ways to avoid damage... not going to argue much there.  
 
@@ -824,7 +824,7 @@ Skyv
 
 </div>
 
-<div class="post" data-post-id="31574" data-author="*Splork*" data-date="2010-08-24T14:15:25+00:00">
+<div class="post" data-post-id="31574" data-author="*Splork*" data-date="2010-08-24T14:15:25+00:00" data-subject="Re: New Area Changes etc">
 
 Deathgrip does remove hitrolls already and attacks. Are you thinking we should have it remove more than it already does?
 
@@ -832,7 +832,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31579" data-author="jezer" data-date="2010-08-24T19:49:17+00:00">
+<div class="post" data-post-id="31579" data-author="jezer" data-date="2010-08-24T19:49:17+00:00" data-subject="Re: New Area Changes etc">
 
 What Skyv suggested is already how it works, although I think he wants to see it work better.
 
@@ -914,7 +914,7 @@ According to old source code  :twisted: Deathgrip adds -2 to the mobs HITROLL. I
 
 </div>
 
-<div class="post" data-post-id="31587" data-author="*Splork*" data-date="2010-08-25T04:28:06+00:00">
+<div class="post" data-post-id="31587" data-author="*Splork*" data-date="2010-08-25T04:28:06+00:00" data-subject="Re: New Area Changes etc">
 
 I spoke to Krom regarding the situation and he informed me that a monk's base damage is 2d4 however they get level bonuses. Here is what a monks actual damage is:
 
@@ -928,19 +928,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31588" data-author="Mace" data-date="2010-08-25T09:46:15+00:00">
+<div class="post" data-post-id="31588" data-author="Mace" data-date="2010-08-25T09:46:15+00:00" data-subject="Re: New Area Changes etc">
 
 Based on some of the old leaked code, a weak deathgrip happens each time the check fails for improved attack (85%) giving a base damage of 1d2.
 
 </div>
 
-<div class="post" data-post-id="31589" data-author="jezer" data-date="2010-08-25T10:33:36+00:00">
+<div class="post" data-post-id="31589" data-author="jezer" data-date="2010-08-25T10:33:36+00:00" data-subject="Re: New Area Changes etc">
 
 Overpower  :evil:
 
 </div>
 
-<div class="post" data-post-id="31592" data-author="*Splork*" data-date="2010-08-25T14:09:00+00:00">
+<div class="post" data-post-id="31592" data-author="*Splork*" data-date="2010-08-25T14:09:00+00:00" data-subject="Re: New Area Changes etc">
 
 Mace is correct and we are going to allow levels of a Monk to raise the percentage learned of improved attack to 95 so that this would rarely happen.
 
@@ -952,7 +952,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31619" data-author="Toxis" data-date="2010-08-26T11:47:12+00:00">
+<div class="post" data-post-id="31619" data-author="Toxis" data-date="2010-08-26T11:47:12+00:00" data-subject="Re: New Area Changes etc">
 
 That was one of the reasons why I stopped messing with my monk, he had tons of +hit eq but could barely hit mobs that my level 20 was hitting with a holy sword.  Plus I wished that monk could have some sort of crippling strike to mobs when grouping.  *nudge nudge*  Thanks, Rick.
 
@@ -960,7 +960,7 @@ That was one of the reasons why I stopped messing with my monk, he had tons of +
 
 </div>
 
-<div class="post" data-post-id="31624" data-author="harik" data-date="2010-08-27T18:50:13+00:00">
+<div class="post" data-post-id="31624" data-author="harik" data-date="2010-08-27T18:50:13+00:00" data-subject="Re: New Area Changes etc">
 
 > **jezer wrote:**
 > You suddenly find Jezer's arms wrapped around your neck.
@@ -987,7 +987,7 @@ One of these days I'll have time to login again, really!
 
 </div>
 
-<div class="post" data-post-id="31625" data-author="Hitman" data-date="2010-08-27T19:06:02+00:00">
+<div class="post" data-post-id="31625" data-author="Hitman" data-date="2010-08-27T19:06:02+00:00" data-subject="Re: New Area Changes etc">
 
 Hello all. I haven't been playing for months now, but I just happened to stumble upon this and I must say it makes me really glad to see some of the issues I had with the monk are finally coming to light and being addressed! Makes me wish I had more time so I can start playing 24/7 again! :twisted:  Bravo imms!  :P 
 
@@ -999,13 +999,13 @@ H-man
 
 </div>
 
-<div class="post" data-post-id="31626" data-author="Tuck" data-date="2010-08-27T19:53:28+00:00">
+<div class="post" data-post-id="31626" data-author="Tuck" data-date="2010-08-27T19:53:28+00:00" data-subject="Re: New Area Changes etc">
 
 ribbit! get back nao  :)
 
 </div>
 
-<div class="post" data-post-id="31627" data-author="Skyv" data-date="2010-08-27T23:23:51+00:00">
+<div class="post" data-post-id="31627" data-author="Skyv" data-date="2010-08-27T23:23:51+00:00" data-subject="Re: New Area Changes etc">
 
 Sorry this took a while Splork, but to answer your question, I was talking about increasing the affect of -HIT on mobs with a successful grip... instead of an across-the-board affect of -2, maybe scale the impact toward where monk lies in the stato, or increase the affect every time you reach another 40... something like that.
 

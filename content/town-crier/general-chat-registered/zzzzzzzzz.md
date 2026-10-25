@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="38944" data-author="Gorka" data-date="2018-07-12T17:44:01+00:00">
+<div class="post" data-post-id="38944" data-author="Gorka" data-date="2018-07-12T17:44:01+00:00" data-subject="ZzzZZzzZZ">
 
 I'm without a mission at the moment. Avatar shop and rebirth are long finished... second set of quests almost already done (about 200 hard dr left)... I don't really need gems, coins, vaults... char improvements are down to small improvements in subsidiary eq modes. Nothing on the horizon regarding rebirth shop. Wanted to chuck this idea out there for the imms to consider... 
 
@@ -22,19 +22,19 @@ What do ya's think?
 
 </div>
 
-<div class="post" data-post-id="38945" data-author="Filk" data-date="2018-07-12T18:43:30+00:00">
+<div class="post" data-post-id="38945" data-author="Filk" data-date="2018-07-12T18:43:30+00:00" data-subject="Re: ZzzZZzzZZ">
 
 Rebirth again in a meanwhile to get that drachma. Or make an alt
 
 </div>
 
-<div class="post" data-post-id="38946" data-author="Gorka" data-date="2018-07-12T19:01:28+00:00">
+<div class="post" data-post-id="38946" data-author="Gorka" data-date="2018-07-12T19:01:28+00:00" data-subject="Re: ZzzZZzzZZ">
 
 Have alts, can't rebirth again at the moment... and already have a crap load of xp for nothing.
 
 </div>
 
-<div class="post" data-post-id="38947" data-author="Teron" data-date="2018-07-13T16:45:16+00:00">
+<div class="post" data-post-id="38947" data-author="Teron" data-date="2018-07-13T16:45:16+00:00" data-subject="Re: ZzzZZzzZZ">
 
 Write an area you'd solo in at 9x40 for months.
 
@@ -44,7 +44,7 @@ Engage in a crier arguement of your choice that'd lead to crystallizing an idea 
 
 </div>
 
-<div class="post" data-post-id="38948" data-author="Gorka" data-date="2018-07-13T16:56:53+00:00">
+<div class="post" data-post-id="38948" data-author="Gorka" data-date="2018-07-13T16:56:53+00:00" data-subject="Re: ZzzZZzzZZ">
 
 Rar, rar, rar start a bard... etc
 
@@ -54,7 +54,7 @@ I want that warm feeling when something dies and the gods of jord award me some 
 
 </div>
 
-<div class="post" data-post-id="38949" data-author="Ezekiel" data-date="2018-07-16T20:13:07+00:00">
+<div class="post" data-post-id="38949" data-author="Ezekiel" data-date="2018-07-16T20:13:07+00:00" data-subject="Re: ZzzZZzzZZ">
 
 Find things other than personal maxxing to enjoy.
 
@@ -92,7 +92,7 @@ Ezekiel
 
 </div>
 
-<div class="post" data-post-id="38950" data-author="Gorka" data-date="2018-07-17T09:58:48+00:00">
+<div class="post" data-post-id="38950" data-author="Gorka" data-date="2018-07-17T09:58:48+00:00" data-subject="Re: ZzzZZzzZZ">
 
 Thanks guys, I got this...
 
@@ -184,7 +184,7 @@ Gorka farts in Norks's general direction.
 
 </div>
 
-<div class="post" data-post-id="38953" data-author="*Breeze*" data-date="2018-07-21T15:05:13+00:00">
+<div class="post" data-post-id="38953" data-author="*Breeze*" data-date="2018-07-21T15:05:13+00:00" data-subject="Re: ZzzZZzzZZ">
 
 > **Gorka wrote:**
 > I'm without a mission at the moment. Avatar shop and rebirth are long finished... second set of quests almost already done (about 200 hard dr left)... I don't really need gems, coins, vaults... char improvements are down to small improvements in subsidiary eq modes. Nothing on the horizon regarding rebirth shop. Wanted to chuck this idea out there for the imms to consider... 

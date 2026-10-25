@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="38606" data-author="Ezekiel" data-date="2018-01-09T06:47:17+00:00">
+<div class="post" data-post-id="38606" data-author="Ezekiel" data-date="2018-01-09T06:47:17+00:00" data-subject="Chopper issues">
 
 Wasn't gonna say anything, but since it was brought forward in another thread...
 
@@ -34,7 +34,7 @@ P.S. Taron also made some excellent points on general chopper use on telegram th
 
 </div>
 
-<div class="post" data-post-id="38607" data-author="Gorka" data-date="2018-01-09T10:05:18+00:00">
+<div class="post" data-post-id="38607" data-author="Gorka" data-date="2018-01-09T10:05:18+00:00" data-subject="Re: Chopper issues">
 
 As good and as well written as Ezekiel's post is explaining the problem... perhaps the way forward though is to focus on solutions or compromises?
 
@@ -48,7 +48,7 @@ Reimbursements of specs for scims after a crash is just infuriating, may as well
 
 </div>
 
-<div class="post" data-post-id="38608" data-author="*Splork*" data-date="2018-01-09T11:32:49+00:00">
+<div class="post" data-post-id="38608" data-author="*Splork*" data-date="2018-01-09T11:32:49+00:00" data-subject="Re: Chopper issues">
 
 I hardly feel that offering up 5 specs is a slap in the face and speaks to player harmony. In no way, shape, or form do we give any reimbursements for the loss of temporary items on crashes or reboots unless we are feeling generous. I understand the frustration, we have ALL been there before.
 
@@ -62,7 +62,7 @@ Enjoy,
 
 </div>
 
-<div class="post" data-post-id="38609" data-author="Teron" data-date="2018-01-09T13:29:22+00:00">
+<div class="post" data-post-id="38609" data-author="Teron" data-date="2018-01-09T13:29:22+00:00" data-subject="Re: Chopper issues">
 
 First of all, let's detach the chopper issue from the EU continent, I believe they are separate. If an imm thinks otherwise, please correct me.
 
@@ -176,7 +176,7 @@ Of course, I can create a webform for players to submit their counters stats int
 
 </div>
 
-<div class="post" data-post-id="38610" data-author="Driven" data-date="2018-01-09T15:24:01+00:00">
+<div class="post" data-post-id="38610" data-author="Driven" data-date="2018-01-09T15:24:01+00:00" data-subject="Re: Chopper issues">
 
 At the master warrior, place a weapons rack where up to 8 temp weapons can be stored for 100k gold and withdrawn for another 100k gold with a register that shows who puts stuff in and takes stuff out of the rack.  Players will self-regulate the use of the weapons rack (immortals have no involvement with the rack whatsoever, once the rack is operational).  That's another option.
 
@@ -190,7 +190,7 @@ Does that mean Ezekiel is not justified in feeling burned when the crash takes a
 
 </div>
 
-<div class="post" data-post-id="38611" data-author="Gorka" data-date="2018-01-09T17:58:20+00:00">
+<div class="post" data-post-id="38611" data-author="Gorka" data-date="2018-01-09T17:58:20+00:00" data-subject="Re: Chopper issues">
 
 Driven made some pretty disingenuous remarks in his post, that annoyed the hell outta me. I've already talked to him about them in private, because we get along fine, but wasn't prepared to let the erroneous statements slide publicly.
 
@@ -220,7 +220,7 @@ To Ezekiel I say, we can only change what we can change. It's not your responsib
 
 </div>
 
-<div class="post" data-post-id="38612" data-author="*teker*" data-date="2018-01-09T18:09:47+00:00">
+<div class="post" data-post-id="38612" data-author="*teker*" data-date="2018-01-09T18:09:47+00:00" data-subject="Re: Chopper issues">
 
 I don't believe that the game stores experience statistics in the way suggested here.  I think each player basically has a weekly counter that gets incremented each time experience is awarded.  We can't break it out to measure group or solo performance during a smaller period of time.  The in-game counters that players can reset on smaller intervals are not saved by the game in any fashion.
 
@@ -230,7 +230,7 @@ I want to make it clear that the game does not treat choppers differently than o
 
 </div>
 
-<div class="post" data-post-id="38613" data-author="Gorka" data-date="2018-01-09T18:45:29+00:00">
+<div class="post" data-post-id="38613" data-author="Gorka" data-date="2018-01-09T18:45:29+00:00" data-subject="Re: Chopper issues">
 
 I don't think anyone is upset with you fixing the mud Teker. Please don't take it that way, it's simply not true.
 
@@ -238,7 +238,7 @@ Whomever dumped 5 specs at Zhanna when a group was running EU with blinding chop
 
 </div>
 
-<div class="post" data-post-id="38614" data-author="Driven" data-date="2018-01-09T20:02:33+00:00">
+<div class="post" data-post-id="38614" data-author="Driven" data-date="2018-01-09T20:02:33+00:00" data-subject="Re: Chopper issues">
 
 As I hope most of you know by now, I hold no ill will towards anyone and attempt to be respectful to all.  Gorka, you, Taron, and Ezekiel deserve a lot of respect for leading groups.  A lot of us simply cannot lead groups because it requires that you have dedicated time in front of an actual keyboard (not phone) and few outside distractions.  I have a 6-year old and twin 4-year olds, and my time is either mostly afk in meetings at work on the phone... or .... mostly afk at home on my phone... lol.  I consider it a treat when I get time to myself and have an actual keyboard to play on.  
 
@@ -252,7 +252,7 @@ If I have the luxury of actually being at a keyboard, I'll help pop choppers.  A
 
 </div>
 
-<div class="post" data-post-id="38615" data-author="*Splork*" data-date="2018-01-09T20:16:40+00:00">
+<div class="post" data-post-id="38615" data-author="*Splork*" data-date="2018-01-09T20:16:40+00:00" data-subject="Re: Chopper issues">
 
 dis·in·gen·u·ous
 
@@ -461,7 +461,7 @@ Sorry for posting Immortal Information!
 
 </div>
 
-<div class="post" data-post-id="38618" data-author="Teron" data-date="2018-01-10T03:09:55+00:00">
+<div class="post" data-post-id="38618" data-author="Teron" data-date="2018-01-10T03:09:55+00:00" data-subject="Re: Chopper issues">
 
 Driven, writing areas is quite different in running choppers in crash days. You don't lose areas. And if you do, then you can save them on your PC before comitting them to the game.
 
@@ -507,7 +507,7 @@ I had already suggested a weighed list of limitations to preserving items, which
 
 </div>
 
-<div class="post" data-post-id="38619" data-author="Ezekiel" data-date="2018-01-10T03:52:32+00:00">
+<div class="post" data-post-id="38619" data-author="Ezekiel" data-date="2018-01-10T03:52:32+00:00" data-subject="Re: Chopper issues">
 
 Splork, your post of the current logged choppers is quite 'disingenuous.' Did you mention that Vege and others cycled in the day for those, and I cycled at night. That is the result after full cycling for 24 hours straight. It is a FULL-TIME process to cycle blinding choppers at the nerfed rate that they load. You act like it is simple...they are not readily available...it costs us TONS of time and wasted xp running time to cycle those...and yes...could we have cycled more for EU day sure..but it would have occupied all the time that we were supposed to be running EU by the time we got enough. You need to realize that the chopping with blinding choppers only makes up for the chop rate/mana difference that we lost in mud log-ons. Try chopping with regular choppers in a 6 man group with one healer. The yield for xp would be insanely low and not worth it. If you chopped on EU, you would maybe kill one to two mobs with that many people. Did we complain once when the pop rate for blinding choppers was reduced even? No, we figured it was a balancing move, weren't enthusiastic about it, but accepted it...was fine. So we stepped up the amount of time and effort required so we could keep chopping places like EU proficiently.
 
@@ -531,7 +531,7 @@ P.S. If i get passworded and crier removed like Juggleblood did for speaking the
 
 </div>
 
-<div class="post" data-post-id="38620" data-author="*Splork*" data-date="2018-01-10T11:25:05+00:00">
+<div class="post" data-post-id="38620" data-author="*Splork*" data-date="2018-01-10T11:25:05+00:00" data-subject="Re: Chopper issues">
 
 I could counter just about every point but this just goes in circles and since its obviously personal to you three, don't see the point. Its not good for anything Sloth related. 
 
@@ -543,7 +543,7 @@ Enjoy the conversation and banter, keep it clean and respectful :P
 
 </div>
 
-<div class="post" data-post-id="38621" data-author="Ezekiel" data-date="2018-01-10T11:29:50+00:00">
+<div class="post" data-post-id="38621" data-author="Ezekiel" data-date="2018-01-10T11:29:50+00:00" data-subject="Re: Chopper issues">
 
 Typical Splork-
 
@@ -555,7 +555,7 @@ Sorry, I think we should be allowed to take things 'personally' when we have pre
 
 </div>
 
-<div class="post" data-post-id="38870" data-author="Teron" data-date="2018-06-08T04:13:44+00:00">
+<div class="post" data-post-id="38870" data-author="Teron" data-date="2018-06-08T04:13:44+00:00" data-subject="Re: Chopper issues">
 
 I can't help commenting on what Breeze said about the rack:
 
@@ -661,7 +661,7 @@ If you've been reading this, you might have noticed that the 100 spec rack won't
 
 </div>
 
-<div class="post" data-post-id="38871" data-author="Driven" data-date="2018-06-08T15:59:09+00:00">
+<div class="post" data-post-id="38871" data-author="Driven" data-date="2018-06-08T15:59:09+00:00" data-subject="Re: Chopper issues">
 
 One of the fundamental differences in opinion between yourself, Taron, and the immortals, is whether groups should have to pop choppers or not.  The underlying statement you're making is that you want a rack that guarantees that your effort prior to the group is preserved such that groups can be run without having to pop choppers.  The powers-that-be don't agree with that.  The weapons rack is intended to give a group a starting point to then go pop more choppers.  You want to it be more than that.  You argue against this by saying "you don't value the time of your players", which is a silly argument because this entire mud is a waste of time.
 
@@ -669,7 +669,7 @@ You want chop to be less painful and the immortals don't.  I really don't know h
 
 </div>
 
-<div class="post" data-post-id="38872" data-author="Teron" data-date="2018-06-08T16:18:44+00:00">
+<div class="post" data-post-id="38872" data-author="Teron" data-date="2018-06-08T16:18:44+00:00" data-subject="Re: Chopper issues">
 
 Are you saying that "players must suffer" is the vision that immorts support?
 
@@ -683,7 +683,7 @@ do you mean that the entire time players spend here should not count and imms ar
 
 </div>
 
-<div class="post" data-post-id="38873" data-author="Driven" data-date="2018-06-08T17:41:32+00:00">
+<div class="post" data-post-id="38873" data-author="Driven" data-date="2018-06-08T17:41:32+00:00" data-subject="Re: Chopper issues">
 
 I'm saying their vision is a balance between offlyme and lyme.  We all know that offlyme groups are harder to manage and require much more attention by all players involved.  Lyme, while typically lower xp, is easier, and preferred by many players because they can sit back and drink beer while chatting and assisting.  The average player is lazy and prefers chop groups -- prime example, all of Sloth3.  So yes, the barriers to making chop somewhat painful are purposeful to get people to run offlyme.  And you know what?  It works.  When I'm on mobile, I generally don't try to join offlyme groups because it requires too much interaction on mobile.  However, I don't hesitate to join a chop group on mobile.  
 
@@ -693,7 +693,7 @@ Having said that, the point of playing the mud is to have fun.  We know it's a w
 
 </div>
 
-<div class="post" data-post-id="38875" data-author="Teron" data-date="2018-06-09T02:39:38+00:00">
+<div class="post" data-post-id="38875" data-author="Teron" data-date="2018-06-09T02:39:38+00:00" data-subject="Re: Chopper issues">
 
 1. I understand that chop should be somewhat less exp, than offlyme, due to its playstyle.
 
@@ -727,7 +727,7 @@ Are you sure that current process of obtaining specs is not on the hard side? Ar
 
 </div>
 
-<div class="post" data-post-id="38877" data-author="Filk" data-date="2018-06-09T10:02:38+00:00">
+<div class="post" data-post-id="38877" data-author="Filk" data-date="2018-06-09T10:02:38+00:00" data-subject="Re: Chopper issues">
 
 Damn, what are you discussing even? 
 

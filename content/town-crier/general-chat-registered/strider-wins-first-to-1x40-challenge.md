@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="28850" data-author="Sheng" data-date="2009-04-12T00:40:55+00:00">
+<div class="post" data-post-id="28850" data-author="Sheng" data-date="2009-04-12T00:40:55+00:00" data-subject="Strider wins first to 1x40 challenge!">
 
 Sat Apr 11 18:55:15 2009	
 

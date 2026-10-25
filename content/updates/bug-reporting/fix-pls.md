@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="15664" data-author="Vixn" data-date="2006-12-17T17:20:20+00:00">
+<div class="post" data-post-id="15664" data-author="Vixn" data-date="2006-12-17T17:20:20+00:00" data-subject="fix pls">
 
 [quote:1jmciqx5] 6) Players will now see what bard songs are affecting them in score [/quote:1jmciqx5]
 

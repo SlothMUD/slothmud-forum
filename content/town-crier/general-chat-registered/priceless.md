@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="27779" data-author="firebrand" data-date="2009-01-19T22:58:11+00:00">
+<div class="post" data-post-id="27779" data-author="firebrand" data-date="2009-01-19T22:58:11+00:00" data-subject="...priceless">
 
 21st annual dr. martin luther king, jr. birthday breakfast at 8:15 am on jan 19th, 2008: $150,000
 

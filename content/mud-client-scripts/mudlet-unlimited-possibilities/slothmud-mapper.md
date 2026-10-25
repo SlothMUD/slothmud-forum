@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="35449" data-author="Akaya" data-date="2014-10-11T15:14:57+00:00">
+<div class="post" data-post-id="35449" data-author="Akaya" data-date="2014-10-11T15:14:57+00:00" data-subject="SlothMUD Mapper">
 
 It's finally here! The SlothMUD Mapper!
 
@@ -158,7 +158,7 @@ NOTES:
 
 </div>
 
-<div class="post" data-post-id="35450" data-author="DarkArtist" data-date="2014-10-12T11:12:11+00:00">
+<div class="post" data-post-id="35450" data-author="DarkArtist" data-date="2014-10-12T11:12:11+00:00" data-subject="Re: SlothMUD Mapper">
 
 YESS! You're the man Akaya. This is big news!
 
@@ -166,13 +166,13 @@ Question: Do I have to update to the new Beta version for it to work?
 
 </div>
 
-<div class="post" data-post-id="35452" data-author="Akaya" data-date="2014-10-12T15:02:05+00:00">
+<div class="post" data-post-id="35452" data-author="Akaya" data-date="2014-10-12T15:02:05+00:00" data-subject="Re: SlothMUD Mapper">
 
 Yes. It requires Mudlet 3.0 beta+ as it utilizes the new sendMSDP function and requires that you enable the new 'Enable MSDP' feature in Mudlet's settings.
 
 </div>
 
-<div class="post" data-post-id="35474" data-author="Calex" data-date="2014-10-27T20:02:46+00:00">
+<div class="post" data-post-id="35474" data-author="Calex" data-date="2014-10-27T20:02:46+00:00" data-subject="Re: SlothMUD Mapper">
 
 I have been using Akaya's mapper. Brilliant effort! A few things I needed to do to get it to work for me (I'm using OSX 10.10). Note. This mapper requires MSDP functionality. You must be using mudlet 3.0.0-beta 2 or later and have selected MSDP in the Settings/General window. (If you are doing that as you read this, you must restart mudlet for the MSDP functionality to be in use).
 
@@ -206,7 +206,7 @@ When you go back into SlothMud, open the map window, do MAPPING ON and MAP START
 
 </div>
 
-<div class="post" data-post-id="35475" data-author="Calex" data-date="2014-10-27T20:06:48+00:00">
+<div class="post" data-post-id="35475" data-author="Calex" data-date="2014-10-27T20:06:48+00:00" data-subject="Re: SlothMUD Mapper">
 
 The map.dat file did not upload. Trying again. Can't upload. Here's a link
 
@@ -214,7 +214,7 @@ The map.dat file did not upload. Trying again. Can't upload. Here's a link
 
 </div>
 
-<div class="post" data-post-id="35477" data-author="Akaya" data-date="2014-10-28T20:15:41+00:00">
+<div class="post" data-post-id="35477" data-author="Akaya" data-date="2014-10-28T20:15:41+00:00" data-subject="Re: SlothMUD Mapper">
 
 Thank you for this! Most appreciated! Still adding some new features. 
 
@@ -232,7 +232,7 @@ New features will include (but not limited to):
 
 </div>
 
-<div class="post" data-post-id="37032" data-author="Akaya" data-date="2016-07-09T04:10:53+00:00">
+<div class="post" data-post-id="37032" data-author="Akaya" data-date="2016-07-09T04:10:53+00:00" data-subject="Re: SlothMUD Mapper">
 
 With the removal of msdp.COORD#, this script is broken. I'll need to rewrite it using msdp.ROOM_EXITS instead.
 

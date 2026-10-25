@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="35224" data-author="Hung" data-date="2014-06-05T03:56:49+00:00">
+<div class="post" data-post-id="35224" data-author="Hung" data-date="2014-06-05T03:56:49+00:00" data-subject="SlothMUD Leveling Sponge Table">
 
 I've made a web page with table of levels' exp/gold costs sorted by exp ascending, taking into account that avatar levels can be made only after 4x40.
 
@@ -22,7 +22,7 @@ Btw, I've got values by parsing this page <LINK_TEXT text="http://www.slothmud.o
 
 </div>
 
-<div class="post" data-post-id="35225" data-author="Thraxas" data-date="2014-06-05T05:22:38+00:00">
+<div class="post" data-post-id="35225" data-author="Thraxas" data-date="2014-06-05T05:22:38+00:00" data-subject="Re: SlothMUD Leveling Sponge Table">
 
 That assumes you always want to level cheapest by xp next which is often not the case.
 
@@ -34,7 +34,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="35226" data-author="Hung" data-date="2014-06-05T10:15:30+00:00">
+<div class="post" data-post-id="35226" data-author="Hung" data-date="2014-06-05T10:15:30+00:00" data-subject="Re: SlothMUD Leveling Sponge Table">
 
 Nice. Didnt know about that tool.
 
@@ -44,7 +44,7 @@ But James's tool is easier to use and gives more info.
 
 </div>
 
-<div class="post" data-post-id="35227" data-author="*Breeze*" data-date="2014-06-05T12:19:44+00:00">
+<div class="post" data-post-id="35227" data-author="*Breeze*" data-date="2014-06-05T12:19:44+00:00" data-subject="Re: SlothMUD Leveling Sponge Table">
 
 Or this which was added years ago and is based on James long code..
 
@@ -52,7 +52,7 @@ Or this which was added years ago and is based on James long code..
 
 </div>
 
-<div class="post" data-post-id="35228" data-author="Thraxas" data-date="2014-06-05T15:24:21+00:00">
+<div class="post" data-post-id="35228" data-author="Thraxas" data-date="2014-06-05T15:24:21+00:00" data-subject="Re: SlothMUD Leveling Sponge Table">
 
 Nice Breeze ... didnt know about that but then I've been away years.
 

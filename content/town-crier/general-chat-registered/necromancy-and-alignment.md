@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34886" data-author="DarkArtist" data-date="2014-03-03T15:34:57+00:00">
+<div class="post" data-post-id="34886" data-author="DarkArtist" data-date="2014-03-03T15:34:57+00:00" data-subject="Necromancy and Alignment">
 
 Can we please have a change to a longstanding game feature whereby using necromancy brings your alignment down. Pretty please?
 

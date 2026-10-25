@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="33871" data-author="Ker" data-date="2012-12-30T20:07:18+00:00">
+<div class="post" data-post-id="33871" data-author="Ker" data-date="2012-12-30T20:07:18+00:00" data-subject="Quest Notes for Neptune&#x27;s New Area">
 
 read note : There is something written upon it:
 
@@ -40,7 +40,7 @@ for truth and knowledge.
 
 </div>
 
-<div class="post" data-post-id="33872" data-author="Ker" data-date="2012-12-30T20:08:52+00:00">
+<div class="post" data-post-id="33872" data-author="Ker" data-date="2012-12-30T20:08:52+00:00" data-subject="Re: Quest Notes for Neptune&#x27;s New Area">
 
 There is something written upon it:
 
@@ -90,7 +90,7 @@ the oldest of these trade routes.
 
 </div>
 
-<div class="post" data-post-id="33873" data-author="Tuck" data-date="2012-12-30T21:03:52+00:00">
+<div class="post" data-post-id="33873" data-author="Tuck" data-date="2012-12-30T21:03:52+00:00" data-subject="Re: Quest Notes for Neptune&#x27;s New Area">
 
 Thanks all imms for this quest and opener.
 
@@ -98,7 +98,7 @@ Neptune, Breeze, Zuzu especially.
 
 </div>
 
-<div class="post" data-post-id="33875" data-author="Ker" data-date="2012-12-31T00:46:46+00:00">
+<div class="post" data-post-id="33875" data-author="Ker" data-date="2012-12-31T00:46:46+00:00" data-subject="Re: Quest Notes for Neptune&#x27;s New Area">
 
 New area by Neptune can be found all east, all south from niggurath in castle rlyeh, follow east trail and that will lead you to the entrance. 
 

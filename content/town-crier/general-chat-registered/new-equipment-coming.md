@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35622" data-author="Hunter" data-date="2015-01-09T17:08:07+00:00">
+<div class="post" data-post-id="35622" data-author="Hunter" data-date="2015-01-09T17:08:07+00:00" data-subject="New Equipment Coming!">
 
 I'm once again working on adding more equipment to the game.  If we're going to cover all needs, though, I need suggested items.  Feel free to respond here or to email me at hunter@slothmud.org.
 
@@ -26,7 +26,7 @@ I'm looking for all ranges of classes and levels - valk, non avatar and avatar. 
 
 </div>
 
-<div class="post" data-post-id="35649" data-author="war" data-date="2015-01-24T21:51:50+00:00">
+<div class="post" data-post-id="35649" data-author="war" data-date="2015-01-24T21:51:50+00:00" data-subject="Re: New Equipment Coming!">
 
 I would like to see instead of getting a avatar light at 9x40, have the option to getting a avatar claps for existing lights. Just my 2 cents thanks
 

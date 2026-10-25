@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3596" data-author="Darx" data-date="2005-01-02T10:45:41+00:00">
+<div class="post" data-post-id="3596" data-author="Darx" data-date="2005-01-02T10:45:41+00:00" data-subject="Looking for some items (see inside)">
 
 I am looking for some items unfortunately yet I cannot solo :) And those are (will pay well):
 

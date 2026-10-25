@@ -10,13 +10,13 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="9997" data-author="Maive" data-date="2006-01-07T16:09:38+00:00">
+<div class="post" data-post-id="9997" data-author="Maive" data-date="2006-01-07T16:09:38+00:00" data-subject="Unholy Strength">
 
 I would like to hear from those who have a 'Unholy Strength' spell without a 'Strength' spell and wheather they use it or not.
 
 </div>
 
-<div class="post" data-post-id="10092" data-author="Maive" data-date="2006-01-12T09:14:01+00:00">
+<div class="post" data-post-id="10092" data-author="Maive" data-date="2006-01-12T09:14:01+00:00" data-subject="Unholy Strength">
 
 A 40 mage spell 'Strength' gives +4 Str.
 
@@ -36,19 +36,19 @@ Could this spell be reconsidered? Otherwise it is mostly a useless spell.
 
 </div>
 
-<div class="post" data-post-id="10096" data-author="12345" data-date="2006-01-12T14:25:32+00:00">
+<div class="post" data-post-id="10096" data-author="12345" data-date="2006-01-12T14:25:32+00:00" data-subject="">
 
 Necro is considered to be the single most overpowered class in the mud.  Asking them to increase it's power even more is very likely to result in disappointment.
 
 </div>
 
-<div class="post" data-post-id="10101" data-author="Guinex" data-date="2006-01-12T18:42:47+00:00">
+<div class="post" data-post-id="10101" data-author="Guinex" data-date="2006-01-12T18:42:47+00:00" data-subject="">
 
 To be honest i don't even see the point of having the spell.  Orange potions give +3 str.
 
 </div>
 
-<div class="post" data-post-id="10102" data-author="12345" data-date="2006-01-12T19:44:59+00:00">
+<div class="post" data-post-id="10102" data-author="12345" data-date="2006-01-12T19:44:59+00:00" data-subject="">
 
 Yeah, then we can boost up cleric damage spells so they're on parr with mages.  Necros deal with death and decay.  They get power from undead spirits and the rotting remains of the living.   There's lots of places in the game where a skill in one class is stronger than a similar skill in another class.
 
@@ -56,13 +56,13 @@ And I spend a fair amount on orange potions myself because I have neither spell.
 
 </div>
 
-<div class="post" data-post-id="10103" data-author="Weasel" data-date="2006-01-12T20:12:42+00:00">
+<div class="post" data-post-id="10103" data-author="Weasel" data-date="2006-01-12T20:12:42+00:00" data-subject="">
 
 dirty necrophiliacs
 
 </div>
 
-<div class="post" data-post-id="10105" data-author="Leaf" data-date="2006-01-12T22:43:19+00:00">
+<div class="post" data-post-id="10105" data-author="Leaf" data-date="2006-01-12T22:43:19+00:00" data-subject="">
 
 I had to click the Yes, because when ur little that +2 str helps more then
 
@@ -72,7 +72,7 @@ Also doesn't Bard have Str spell also ?
 
 </div>
 
-<div class="post" data-post-id="10116" data-author="Vixn" data-date="2006-01-13T06:40:41+00:00">
+<div class="post" data-post-id="10116" data-author="Vixn" data-date="2006-01-13T06:40:41+00:00" data-subject="">
 
 according to 'class abilities' bard can learn strength at 17 level.
 
@@ -80,7 +80,7 @@ my questions are: does bard's strength give +4 point to you at 40 level?and/or c
 
 </div>
 
-<div class="post" data-post-id="10117" data-author="Alberich" data-date="2006-01-13T07:42:44+00:00">
+<div class="post" data-post-id="10117" data-author="Alberich" data-date="2006-01-13T07:42:44+00:00" data-subject="">
 
 strength is strength - it's the same spell, so yeah
 

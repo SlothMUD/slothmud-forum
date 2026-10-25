@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="29265" data-author="sirrico1" data-date="2009-05-23T12:46:21+00:00">
+<div class="post" data-post-id="29265" data-author="sirrico1" data-date="2009-05-23T12:46:21+00:00" data-subject="gold">
 
 I know this is a waste of my time but so is gaming so I'll say it anyways.
 
@@ -22,7 +22,7 @@ hate the gold to lvl crap.
 
 </div>
 
-<div class="post" data-post-id="29266" data-author="Magi" data-date="2009-05-23T13:56:19+00:00">
+<div class="post" data-post-id="29266" data-author="Magi" data-date="2009-05-23T13:56:19+00:00" data-subject="">
 
 I'm sure they hear you... but trying to think of a solution to the re-dwindling player base with everyone tired of solo coinage will probably take awhile.
 
@@ -30,7 +30,7 @@ My suggestion, if coins need to be 'hard to get', is to halve those leveling cos
 
 </div>
 
-<div class="post" data-post-id="29267" data-author="*Splork*" data-date="2009-05-23T14:39:42+00:00">
+<div class="post" data-post-id="29267" data-author="*Splork*" data-date="2009-05-23T14:39:42+00:00" data-subject="">
 
 I sent out an email to admin earlier this morning on this topic and Ill just post most if it here so that you guys can offer suggestions.. Here it is...
 
@@ -48,13 +48,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29268" data-author="Yinao" data-date="2009-05-23T15:24:06+00:00">
+<div class="post" data-post-id="29268" data-author="Yinao" data-date="2009-05-23T15:24:06+00:00" data-subject="">
 
 I like the fact that you ask the player base what we think needs to be done to help the mud. I like Kevin's suggestion about lowering the cost of the levels up to a certain extent it wont really inflate anything due to the fact they'll spend more later gaining levels anyways. I like the fact that its hard to get coins as well, as much as it sucks to not be able to afford sbs at the library or newb eq you need and such it makes it more challenging to play, which being lvl 20 20 im in no hurry to get 8x40 like I did in sloth 3. Lowering the gold cost on levels up to lvl 20 or 10 or 15 or whichever would slow the complaining down till they get to later levels, or they'll spend that gaining lvl 21 22 23 so on and so forth.
 
 </div>
 
-<div class="post" data-post-id="29269" data-author="12345" data-date="2009-05-23T15:58:35+00:00">
+<div class="post" data-post-id="29269" data-author="12345" data-date="2009-05-23T15:58:35+00:00" data-subject="">
 
 I was running gold runs quite a bit in the previous version, but my characters were designed primarily to lead.
 
@@ -76,25 +76,25 @@ And that was a hell of a lot longer than I anticipated....  Sorry. Its early. My
 
 </div>
 
-<div class="post" data-post-id="29270" data-author="Xamak" data-date="2009-05-23T18:23:20+00:00">
+<div class="post" data-post-id="29270" data-author="Xamak" data-date="2009-05-23T18:23:20+00:00" data-subject="">
 
 Since you already allow gold to be exchanged for XP, why not allow the opposite, but only to level?  Or perhaps players could have the option of levelling for twice ( or some other number ) the exp requirement, but zero gold.
 
 </div>
 
-<div class="post" data-post-id="29271" data-author="12345" data-date="2009-05-23T19:11:23+00:00">
+<div class="post" data-post-id="29271" data-author="12345" data-date="2009-05-23T19:11:23+00:00" data-subject="">
 
 I would argue that the issue exists because xp is in excess.  Allowing it to eclipse both wouldn't seem like much of a solution.
 
 </div>
 
-<div class="post" data-post-id="29272" data-author="Xamak" data-date="2009-05-23T19:20:37+00:00">
+<div class="post" data-post-id="29272" data-author="Xamak" data-date="2009-05-23T19:20:37+00:00" data-subject="">
 
 If people want to use double the exp to level in lieu of gold, I don't see how it would imbalance the game.  The problem of course is caused by the large amount of exp sponged in groups.  If someone disliked running gold, why not let them use more exp to level.  The point of the game imho is to have fun.  If exp is more fun then gold running for some, so be it.
 
 </div>
 
-<div class="post" data-post-id="29273" data-author="Mosaix" data-date="2009-05-23T23:44:03+00:00">
+<div class="post" data-post-id="29273" data-author="Mosaix" data-date="2009-05-23T23:44:03+00:00" data-subject="">
 
 Leave the gold alone.  I am playing part time and still finding pleanty of gold.  
 
@@ -114,7 +114,7 @@ Have fun, play hard, and enjoy this game.
 
 </div>
 
-<div class="post" data-post-id="29274" data-author="sirrico1" data-date="2009-05-24T00:16:39+00:00">
+<div class="post" data-post-id="29274" data-author="sirrico1" data-date="2009-05-24T00:16:39+00:00" data-subject="">
 
 Leave the gold alone.  I am playing part time and still finding pleanty of gold.  
 
@@ -136,7 +136,7 @@ well, we have alot of new players and some of us old players don't know the gold
 
 </div>
 
-<div class="post" data-post-id="29275" data-author="jezer" data-date="2009-05-24T01:15:12+00:00">
+<div class="post" data-post-id="29275" data-author="jezer" data-date="2009-05-24T01:15:12+00:00" data-subject="">
 
 Seems a silly topic to me, how people play the game should be left to the players... not immortals trying to control the game. Why the heck would you want to control gold? Isn't this a players problem? Why are you making it your problem to control it? Gold is hard, but we are making do.
 
@@ -146,7 +146,7 @@ Put a balance of gold on the mobs... that's your job, how much we choose to get 
 
 </div>
 
-<div class="post" data-post-id="29278" data-author="Gimlet" data-date="2009-05-24T08:34:19+00:00">
+<div class="post" data-post-id="29278" data-author="Gimlet" data-date="2009-05-24T08:34:19+00:00" data-subject="">
 
 jezer, are you really that obnoxious to make such retarded comments?
 
@@ -164,7 +164,7 @@ the simple solution is to learn the mud, instead of constantly asking the mud to
 
 </div>
 
-<div class="post" data-post-id="29286" data-author="Mosaix" data-date="2009-05-25T15:51:13+00:00">
+<div class="post" data-post-id="29286" data-author="Mosaix" data-date="2009-05-25T15:51:13+00:00" data-subject="">
 
 My post was not a flame.  Your response validates most of my post.
 
@@ -172,13 +172,13 @@ Have fun and mud already.  This is a great opportunity to just go out and have f
 
 </div>
 
-<div class="post" data-post-id="29287" data-author="Magi" data-date="2009-05-25T17:20:34+00:00">
+<div class="post" data-post-id="29287" data-author="Magi" data-date="2009-05-25T17:20:34+00:00" data-subject="">
 
 Just one quick response... It is NOT the admin's job to put gold on the mobs.  It is the admin's job to work 8-12 hours a day to support themselves, feed their families, and pay taxes.  Then they relax by messing around on the computer at night.  Anything they decide to do for us is a FREE bonus for us.  Not. Their. Job.
 
 </div>
 
-<div class="post" data-post-id="29288" data-author="Gimlet" data-date="2009-05-25T18:08:02+00:00">
+<div class="post" data-post-id="29288" data-author="Gimlet" data-date="2009-05-25T18:08:02+00:00" data-subject="">
 
 My post was not a flame.  Your response validates most of my post.
 
@@ -188,13 +188,13 @@ don't know if u were resopnding to me, but iw asn't responding to your post, i a
 
 </div>
 
-<div class="post" data-post-id="29293" data-author="Mosaix" data-date="2009-05-26T03:59:12+00:00">
+<div class="post" data-post-id="29293" data-author="Mosaix" data-date="2009-05-26T03:59:12+00:00" data-subject="">
 
 Not responding to you Al, you are spot on correct :)
 
 </div>
 
-<div class="post" data-post-id="29294" data-author="jezer" data-date="2009-05-26T07:21:04+00:00">
+<div class="post" data-post-id="29294" data-author="jezer" data-date="2009-05-26T07:21:04+00:00" data-subject="">
 
 Now we cross to an update on the "Gold Thread"... over to you in the new room Sally...
 

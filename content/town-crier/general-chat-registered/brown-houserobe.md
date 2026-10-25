@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="35390" data-author="Filk" data-date="2014-07-17T13:47:21+00:00">
+<div class="post" data-post-id="35390" data-author="Filk" data-date="2014-07-17T13:47:21+00:00" data-subject="brown houserobe">
 
 There are two items named "brown houserobe" on eq list.
 
@@ -34,7 +34,7 @@ How to get +dex version? Is it still ingame? Maybe some aq?
 
 </div>
 
-<div class="post" data-post-id="35391" data-author="Thraxas" data-date="2014-07-18T08:11:57+00:00">
+<div class="post" data-post-id="35391" data-author="Thraxas" data-date="2014-07-18T08:11:57+00:00" data-subject="Re: brown houserobe">
 
 no idea but there is also a relatively cheap drachma robe (elven cloak of agility) thats -0.5ac +1dex 
 
@@ -44,7 +44,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="35392" data-author="Filk" data-date="2014-07-18T09:11:51+00:00">
+<div class="post" data-post-id="35392" data-author="Filk" data-date="2014-07-18T09:11:51+00:00" data-subject="Re: brown houserobe">
 
 Sure, that was an idea. But before spending drachma, i wanted to check if it works :)
 
@@ -58,7 +58,7 @@ Kinda msdp perma stats for forms bugged. Or something else preventing that trick
 
 </div>
 
-<div class="post" data-post-id="35394" data-author="Marvel" data-date="2014-07-18T11:25:15+00:00">
+<div class="post" data-post-id="35394" data-author="Marvel" data-date="2014-07-18T11:25:15+00:00" data-subject="Re: brown houserobe">
 
 That's because a simple +dex doesn't add dex past 18. You need a maxdex item to add a dex point past 18. For example, wurm form has 16 dex only but you can raise it by finding 2 shift dex points somehow to get that -1 ac bump at 18 dex.
 
@@ -66,19 +66,19 @@ Maxstats also have another limitation based on your stat order. If you roll dex 
 
 </div>
 
-<div class="post" data-post-id="35395" data-author="Marvel" data-date="2014-07-18T11:27:14+00:00">
+<div class="post" data-post-id="35395" data-author="Marvel" data-date="2014-07-18T11:27:14+00:00" data-subject="Re: brown houserobe">
 
 Further clarification: forms can have stats beyond 18 and have no cap to their stats assuming you can figure out a way to get maxstat points shiftable. Good luck with that. Just regular stats won't help if the form's stat is at 18 or beyond.
 
 </div>
 
-<div class="post" data-post-id="35396" data-author="Marvel" data-date="2014-07-18T11:29:07+00:00">
+<div class="post" data-post-id="35396" data-author="Marvel" data-date="2014-07-18T11:29:07+00:00" data-subject="Re: brown houserobe">
 
 One more clarification regarding maxdex. Up to 18, dex only adds on even numbers (ie: 14, 16, 18, with nothing on 15, 17, etc.). That isn't the case beyond 18. Each point beyond 18 is a straight .5 ac addition (19 adds .5, 20 1.0, and 21 1.5 and so on).
 
 </div>
 
-<div class="post" data-post-id="35397" data-author="Filk" data-date="2014-07-18T12:21:47+00:00">
+<div class="post" data-post-id="35397" data-author="Filk" data-date="2014-07-18T12:21:47+00:00" data-subject="Re: brown houserobe">
 
 I am talking about that:
 
@@ -96,7 +96,7 @@ And i know only two ways to raise dex in form atm  - +dex rune and +dex robe wit
 
 </div>
 
-<div class="post" data-post-id="35398" data-author="Marvel" data-date="2014-07-18T13:37:09+00:00">
+<div class="post" data-post-id="35398" data-author="Marvel" data-date="2014-07-18T13:37:09+00:00" data-subject="Re: brown houserobe">
 
 Again... normal dex does not raise dex above 18. No normal stat eq raises anything above 18.
 
@@ -106,7 +106,7 @@ Forms were altered - nerfed slightly, especially owlbear. So that specific issue
 
 </div>
 
-<div class="post" data-post-id="35399" data-author="Filk" data-date="2014-07-18T14:24:25+00:00">
+<div class="post" data-post-id="35399" data-author="Filk" data-date="2014-07-18T14:24:25+00:00" data-subject="Re: brown houserobe">
 
 Ok. Pretty clear now.
 
@@ -114,7 +114,7 @@ Still question about houserobe open though .Is +dex version ingame? Anybody know
 
 </div>
 
-<div class="post" data-post-id="35400" data-author="Marvel" data-date="2014-07-18T16:27:12+00:00">
+<div class="post" data-post-id="35400" data-author="Marvel" data-date="2014-07-18T16:27:12+00:00" data-subject="Re: brown houserobe">
 
 Yes, it still loads and is ingame.
 

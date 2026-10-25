@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33413" data-author="Toxis" data-date="2012-08-02T05:23:47+00:00">
+<div class="post" data-post-id="33413" data-author="Toxis" data-date="2012-08-02T05:23:47+00:00" data-subject="Class Orders">
 
 This is to help players understand more about about classes and class orders (classo or classoâ€™s), which is the order of which you pick your classes from your prime to your last.  There are many things not known to mortals yet, but this is my advice on classes and how to pick what you want to play for whatever affect you desire.
 

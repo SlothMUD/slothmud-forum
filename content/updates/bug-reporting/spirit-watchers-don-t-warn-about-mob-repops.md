@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="38380" data-author="Teron" data-date="2017-08-03T18:45:02+00:00">
+<div class="post" data-post-id="38380" data-author="Teron" data-date="2017-08-03T18:45:02+00:00" data-subject="Spirit watchers don&#x27;t warn about mob repops.">
 
 Example:
 
@@ -88,19 +88,19 @@ The same thing happens on mobs that are affected by global fast repop.
 
 </div>
 
-<div class="post" data-post-id="38381" data-author="*teker*" data-date="2017-08-04T19:40:12+00:00">
+<div class="post" data-post-id="38381" data-author="*teker*" data-date="2017-08-04T19:40:12+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 I've noticed this as well.  I jut checked the code and it looks like there's only a 10% chance that spirit watchers will send the "I sense your target is coming" message.  That check gets run 6 times a minute for 3-4 minutes before the zone reset so you would think it's pretty likely you'd pass the check with that many opportunities.  But it is possible that you would fail the check every time.
 
 </div>
 
-<div class="post" data-post-id="38382" data-author="*teker*" data-date="2017-08-04T19:47:13+00:00">
+<div class="post" data-post-id="38382" data-author="*teker*" data-date="2017-08-04T19:47:13+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 I noticed something with the fast repop that needs fixed so I'm fixing that.
 
 </div>
 
-<div class="post" data-post-id="38383" data-author="Teron" data-date="2017-08-06T08:09:50+00:00">
+<div class="post" data-post-id="38383" data-author="Teron" data-date="2017-08-06T08:09:50+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 So a quest spell only has a chance of working?
 
@@ -114,7 +114,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="38384" data-author="*teker*" data-date="2017-08-06T18:17:44+00:00">
+<div class="post" data-post-id="38384" data-author="*teker*" data-date="2017-08-06T18:17:44+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 Ok, I rewrote the algorithm so that a warning should always happen before repop - even when fast repop is on.  You'll have to try it to see if it works better.
 
@@ -122,7 +122,7 @@ For your other issue - are you saying that sometimes the zone repops but the mob
 
 </div>
 
-<div class="post" data-post-id="38386" data-author="Teron" data-date="2017-08-07T08:05:58+00:00">
+<div class="post" data-post-id="38386" data-author="Teron" data-date="2017-08-07T08:05:58+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 Unfortunately, I forgot most the mobs that behaved like this.
 
@@ -132,7 +132,7 @@ I'm sure there was at least one mob like this, though. I guess I'll keep testing
 
 </div>
 
-<div class="post" data-post-id="38389" data-author="Teron" data-date="2017-08-09T05:33:45+00:00">
+<div class="post" data-post-id="38389" data-author="Teron" data-date="2017-08-09T05:33:45+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 Watcher with fastrepop on the continent works.
 
@@ -140,7 +140,7 @@ Haven't tested luck gods yet.
 
 </div>
 
-<div class="post" data-post-id="38399" data-author="Teron" data-date="2017-08-15T07:16:32+00:00">
+<div class="post" data-post-id="38399" data-author="Teron" data-date="2017-08-15T07:16:32+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 A good number of areas are no repop, so luck gods don't work there.
 
@@ -150,7 +150,7 @@ This would keep areas norepop as per design, and would make the bard useful in t
 
 </div>
 
-<div class="post" data-post-id="38400" data-author="Josiah" data-date="2017-08-17T04:35:55+00:00">
+<div class="post" data-post-id="38400" data-author="Josiah" data-date="2017-08-17T04:35:55+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 Excluding a bard singing luck gods from 'counting' as a player in the area would be a slick solution if it can be implemented.
 
@@ -158,7 +158,7 @@ If there is a concern that allowing an area to repop with a player inside might 
 
 </div>
 
-<div class="post" data-post-id="38401" data-author="Gorka" data-date="2017-08-17T06:06:27+00:00">
+<div class="post" data-post-id="38401" data-author="Gorka" data-date="2017-08-17T06:06:27+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 Why do regular areas (not quest areas) not repop with people in them anyway?  Is there actually a reason that adds to gameplay? Is there actually a point?
 
@@ -170,7 +170,7 @@ Be careful what you wish for...
 
 </div>
 
-<div class="post" data-post-id="38402" data-author="Teron" data-date="2017-08-17T13:31:14+00:00">
+<div class="post" data-post-id="38402" data-author="Teron" data-date="2017-08-17T13:31:14+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 Gorka, re-read what I wrote.
 
@@ -190,7 +190,7 @@ What is the problem here we don't see?
 
 </div>
 
-<div class="post" data-post-id="38404" data-author="Gorka" data-date="2017-08-17T15:28:04+00:00">
+<div class="post" data-post-id="38404" data-author="Gorka" data-date="2017-08-17T15:28:04+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 Firstly, I read your post once... I don't need to read it again because I'm stupid.
 
@@ -204,13 +204,13 @@ Area's repopping while you are in them might suit you, but it could also effect 
 
 </div>
 
-<div class="post" data-post-id="38405" data-author="Teron" data-date="2017-08-17T17:07:04+00:00">
+<div class="post" data-post-id="38405" data-author="Teron" data-date="2017-08-17T17:07:04+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 Please point out how exactly this change will negatively affect other bards.
 
 </div>
 
-<div class="post" data-post-id="38406" data-author="Gorka" data-date="2017-08-17T18:31:20+00:00">
+<div class="post" data-post-id="38406" data-author="Gorka" data-date="2017-08-17T18:31:20+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 Hypothetical scenario...
 
@@ -222,7 +222,7 @@ I've been pondering how I can do something like this in DOT in regards to Vain. 
 
 </div>
 
-<div class="post" data-post-id="38407" data-author="Gorka" data-date="2017-08-17T22:32:36+00:00">
+<div class="post" data-post-id="38407" data-author="Gorka" data-date="2017-08-17T22:32:36+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 > **Teron wrote:**
 > how about excluding the bard, who is singing the luck gods, from the people counter, so areas repop with him?
@@ -235,7 +235,7 @@ It might be tricky to determine where this behavior is allowed or not. For examp
 
 </div>
 
-<div class="post" data-post-id="38408" data-author="Teron" data-date="2017-08-18T09:33:04+00:00">
+<div class="post" data-post-id="38408" data-author="Teron" data-date="2017-08-18T09:33:04+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 > **Gorka wrote:**
 > If you read your sentence again it can actually be taken to mean different things. You could be clarifying what a bard can do - sing luck gods, or specifically highlighting a specific bard if there were more than one - the bard who is singing luck gods (because you then mention people which is plural).
@@ -340,19 +340,19 @@ Even if we assume that a bard would be persistent to do such a thing, this can b
 
 </div>
 
-<div class="post" data-post-id="38409" data-author="Gorka" data-date="2017-08-18T13:08:45+00:00">
+<div class="post" data-post-id="38409" data-author="Gorka" data-date="2017-08-18T13:08:45+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 I'm honestly amused... I think I'll stay off the crier for a bit... email the imm's directly if I have any questions or problems lest I disturb the forum Balrog again.
 
 </div>
 
-<div class="post" data-post-id="38410" data-author="*teker*" data-date="2017-08-19T22:11:37+00:00">
+<div class="post" data-post-id="38410" data-author="*teker*" data-date="2017-08-19T22:11:37+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 This isn't something that I'll look at changing unless a builder comes to me and wants a particular area to work differently.  I imagine the current behaviors are the way they are because that's how the builder wanted each particular area to play out.  It takes a lot of time and effort to build an area and I don't feel like I should be overriding their designs unless asked to by the builder.
 
 </div>
 
-<div class="post" data-post-id="38411" data-author="Teron" data-date="2017-08-20T07:13:01+00:00">
+<div class="post" data-post-id="38411" data-author="Teron" data-date="2017-08-20T07:13:01+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 This isn't about changing areas, this is about making luck gods work, where it can't now.
 
@@ -364,7 +364,7 @@ I have talked to Neptune about EU, but he said he didn't have time to think abou
 
 </div>
 
-<div class="post" data-post-id="38413" data-author="Teron" data-date="2017-08-22T08:18:11+00:00">
+<div class="post" data-post-id="38413" data-author="Teron" data-date="2017-08-22T08:18:11+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
 Right now a watcher is telling me that the mob is coming, but never tells me, when it does.
 

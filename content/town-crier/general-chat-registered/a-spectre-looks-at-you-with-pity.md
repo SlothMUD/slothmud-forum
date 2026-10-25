@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31346" data-author="van" data-date="2010-07-07T17:21:41+00:00">
+<div class="post" data-post-id="31346" data-author="van" data-date="2010-07-07T17:21:41+00:00" data-subject="A spectre looks at you with pity.">
 
 This might have been addressed elsewhere on the forums, and if so, my apologies!
 
@@ -24,7 +24,7 @@ Van
 
 </div>
 
-<div class="post" data-post-id="31347" data-author="jezer" data-date="2010-07-07T22:48:27+00:00">
+<div class="post" data-post-id="31347" data-author="jezer" data-date="2010-07-07T22:48:27+00:00" data-subject="Re: A spectre looks at you with pity.">
 
 > **van wrote:**
 > I've noticed that my lowbie undead (spectres/ghouls) are apparently missing one eye and are almost completely blind in their other eye...

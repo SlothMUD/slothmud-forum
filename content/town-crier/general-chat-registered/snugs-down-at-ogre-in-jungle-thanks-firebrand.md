@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="15735" data-author="Snugger" data-date="2006-12-23T03:17:51+00:00">
+<div class="post" data-post-id="15735" data-author="Snugger" data-date="2006-12-23T03:17:51+00:00" data-subject="Snugs down at ogre in Jungle. - Thanks Firebrand">
 
 Help.
 

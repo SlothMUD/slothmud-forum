@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33850" data-author="raincrab" data-date="2012-12-19T21:31:01+00:00">
+<div class="post" data-post-id="33850" data-author="raincrab" data-date="2012-12-19T21:31:01+00:00" data-subject="msdp with tinyfugue">
 
 Using a copy of tf patched with msdp support, http://www.mudbytes.net/file-2875, you can access the msdp variables.  They are automatically updated, and you can grab the msdp variable change events as well.
 
@@ -141,7 +141,7 @@ If you're still having trouble, turn on debugging with **/set msdp_dbg 1** and i
 
 </div>
 
-<div class="post" data-post-id="33852" data-author="raincrab" data-date="2012-12-19T22:33:36+00:00">
+<div class="post" data-post-id="33852" data-author="raincrab" data-date="2012-12-19T22:33:36+00:00" data-subject="Re: msdp with tinyfugue">
 
 a workaround for the exits, just use a trigger to regex them out
 

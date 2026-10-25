@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10357" data-author="*juggleblood*" data-date="2006-01-27T11:46:41+00:00">
+<div class="post" data-post-id="10357" data-author="*juggleblood*" data-date="2006-01-27T11:46:41+00:00" data-subject="eating and drinking while asleep">
 
 #defgroup {hunger}
 

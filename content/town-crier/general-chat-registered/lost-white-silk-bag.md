@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="28212" data-author="madmax" data-date="2009-02-19T04:43:02+00:00">
+<div class="post" data-post-id="28212" data-author="madmax" data-date="2009-02-19T04:43:02+00:00" data-subject="Lost White Silk Bag">
 
 Hello all,
 

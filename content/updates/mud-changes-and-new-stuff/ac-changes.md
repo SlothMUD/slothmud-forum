@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="16164" data-author="kjartan" data-date="2007-01-10T17:08:51+00:00">
+<div class="post" data-post-id="16164" data-author="kjartan" data-date="2007-01-10T17:08:51+00:00" data-subject="AC changes">
 
 We have changed the way AC -11 and lower works, and also have removed the AC cap.  Our goal with this is twofold: allow hitroll eq to be valuable again, and allow eq sets that make warriors able to have lower ACs than other classes.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 28
 ---
 
-<div class="post" data-post-id="33013" data-author="*Splork*" data-date="2011-11-27T19:44:58+00:00">
+<div class="post" data-post-id="33013" data-author="*Splork*" data-date="2011-11-27T19:44:58+00:00" data-subject="Open Discussion">
 
 In the course of the last few months, we have made dozens of changes, mostly regarding issues brought to us by you, the player.
 
@@ -38,13 +38,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33014" data-author="*Breeze*" data-date="2011-11-28T07:47:44+00:00">
+<div class="post" data-post-id="33014" data-author="*Breeze*" data-date="2011-11-28T07:47:44+00:00" data-subject="Re: Open Discussion">
 
 12 hours + 43 views + 0 replies.. SlothMUD must be perfect and I can retire now :)
 
 </div>
 
-<div class="post" data-post-id="33015" data-author="Dragoth" data-date="2011-11-28T07:53:19+00:00">
+<div class="post" data-post-id="33015" data-author="Dragoth" data-date="2011-11-28T07:53:19+00:00" data-subject="Re: Open Discussion">
 
 May i suggest looking into prime class ability bonuses first.
 
@@ -64,7 +64,7 @@ You may also wish to explore a different direction of finetuning Slothmuds EQ to
 
 </div>
 
-<div class="post" data-post-id="33016" data-author="Dragoth" data-date="2011-11-28T08:20:30+00:00">
+<div class="post" data-post-id="33016" data-author="Dragoth" data-date="2011-11-28T08:20:30+00:00" data-subject="Re: Open Discussion">
 
 You may also wish to explore a different direction, a direction of finetuning Slothmuds EQ to provide equal bonuses that are spread across the 8x40 level range.
 
@@ -78,7 +78,7 @@ If you have a total of 360 levels WHY do you insist on giving 80% or more of pla
 
 </div>
 
-<div class="post" data-post-id="33017" data-author="Dragoth" data-date="2011-11-28T11:00:45+00:00">
+<div class="post" data-post-id="33017" data-author="Dragoth" data-date="2011-11-28T11:00:45+00:00" data-subject="Re: Open Discussion">
 
 If you have a total of 360 levels WHY do you insist on giving 80% or more of players potential EQ bonuses during the first 20% of a characters game progression ? 
 
@@ -90,7 +90,7 @@ Even thinking about it is making me sle... ZZZzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
 </div>
 
-<div class="post" data-post-id="33018" data-author="blackmore" data-date="2011-11-28T14:42:07+00:00">
+<div class="post" data-post-id="33018" data-author="blackmore" data-date="2011-11-28T14:42:07+00:00" data-subject="Re: Open Discussion">
 
 +1 to everything Dragoth said.  All good, valid points.
 
@@ -102,7 +102,7 @@ I think there's deeper problems right now than just people being bored of trying
 
 </div>
 
-<div class="post" data-post-id="33019" data-author="Strago" data-date="2011-11-28T15:35:52+00:00">
+<div class="post" data-post-id="33019" data-author="Strago" data-date="2011-11-28T15:35:52+00:00" data-subject="Re: Open Discussion">
 
 As a life time valker, I have played sloth on and off for about 10 years never hitting a level 40 character. There are a few things I would like to see that might help me stick it out.
 
@@ -120,7 +120,7 @@ Also I agree that having solo play be more important would be a boon for sloth. 
 
 </div>
 
-<div class="post" data-post-id="33020" data-author="Cizin" data-date="2011-11-28T17:08:49+00:00">
+<div class="post" data-post-id="33020" data-author="Cizin" data-date="2011-11-28T17:08:49+00:00" data-subject="Re: Open Discussion">
 
 Recent changes reminds me on pre-wipe days on s3 when everything was so easy to get w/ much so ever effort.
 
@@ -166,7 +166,7 @@ Oh well. Back to my dark corner. Good thing noone listens and noone cares so wha
 
 </div>
 
-<div class="post" data-post-id="33021" data-author="*Splork*" data-date="2011-11-28T18:23:22+00:00">
+<div class="post" data-post-id="33021" data-author="*Splork*" data-date="2011-11-28T18:23:22+00:00" data-subject="Re: Open Discussion">
 
 The two major concerns seem to be eq progression and game content for higher level players. Ill address each one from my point of view:
 
@@ -196,7 +196,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33022" data-author="*Breeze*" data-date="2011-11-28T19:39:18+00:00">
+<div class="post" data-post-id="33022" data-author="*Breeze*" data-date="2011-11-28T19:39:18+00:00" data-subject="Re: Open Discussion">
 
 Some of these are great ideas, but as Splork pointed out, there are only so many of us. 
 
@@ -256,7 +256,7 @@ d) be condescending towards me
 
 </div>
 
-<div class="post" data-post-id="33023" data-author="jezer" data-date="2011-11-28T20:15:30+00:00">
+<div class="post" data-post-id="33023" data-author="jezer" data-date="2011-11-28T20:15:30+00:00" data-subject="Re: Open Discussion">
 
 Real problem effecting my desire to play at the moment is high amount of xp till next level. When ever I log in, the level is too far away to get me back into the addicted stage before I get bored.
 
@@ -266,7 +266,7 @@ The justification is a bit like fitness, the more you do it the better you get..
 
 </div>
 
-<div class="post" data-post-id="33024" data-author="*Splork*" data-date="2011-11-28T20:17:22+00:00">
+<div class="post" data-post-id="33024" data-author="*Splork*" data-date="2011-11-28T20:17:22+00:00" data-subject="Re: Open Discussion">
 
 The current exp changes should help with anyone regarding similar feelings to the post above. The bonus experience is very nice.
 
@@ -274,7 +274,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33025" data-author="Shyla" data-date="2011-11-28T20:29:50+00:00">
+<div class="post" data-post-id="33025" data-author="Shyla" data-date="2011-11-28T20:29:50+00:00" data-subject="Re: Open Discussion">
 
 I am not sure posting by me is a great idea but here goes.  I agree about one thing too many players don't know how to get to mobs on the mud or what common eq is etc.  I would like to see something where players have to fully explore a common area before they are allowed to get past a certain level like maybe a quest where you have to fully explore oly and talk to hermes before they allow you to get past avatar 5 or something like that.  I know that I am partly to blame b/c I run things for people and use convocation all over the place, but it would be nice if I wasn't told by a 6 40 character I don't know how to get to mind in poseidon.  or how do I find torrid etc.  I am not so worried about this at lower levels but good grief at avatar you should know how to do this.  And if this was implemented i would somehow random the mob so someone doesn't just give them a run and say here is how you get to it...but rather make them run themselves and learn an area.
 
@@ -282,7 +282,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="33027" data-author="blackmore" data-date="2011-11-29T01:31:22+00:00">
+<div class="post" data-post-id="33027" data-author="blackmore" data-date="2011-11-29T01:31:22+00:00" data-subject="Re: Open Discussion">
 
 I remember an Avatar on S3 say they didn't know the run to Oly, from Lyme recall.
 
@@ -290,7 +290,7 @@ I was actually thinking about something similar Shyla.  I've been playing Contra
 
 </div>
 
-<div class="post" data-post-id="33028" data-author="*Splork*" data-date="2011-11-29T02:33:04+00:00">
+<div class="post" data-post-id="33028" data-author="*Splork*" data-date="2011-11-29T02:33:04+00:00" data-subject="Re: Open Discussion">
 
 I actually spoke to Breeze about this about a month ago. The basic idea is that of Blackmores but will happen every few hours over the quest channel. Areas, mobs, quests will be chosen, level ranges given, and a race will begin type of thing.
 
@@ -300,13 +300,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33029" data-author="jezer" data-date="2011-11-29T03:50:39+00:00">
+<div class="post" data-post-id="33029" data-author="jezer" data-date="2011-11-29T03:50:39+00:00" data-subject="Re: Open Discussion">
 
 A race will only have the result of experienced players winning... probably not the result needed.
 
 </div>
 
-<div class="post" data-post-id="33033" data-author="Strago" data-date="2011-12-02T05:24:05+00:00">
+<div class="post" data-post-id="33033" data-author="Strago" data-date="2011-12-02T05:24:05+00:00" data-subject="Re: Open Discussion">
 
 Something else that I would find useful, is a tool to make exploration of an area a little less of a crap shoot. 
 
@@ -322,7 +322,7 @@ A couple of options, that might help this -
 
 </div>
 
-<div class="post" data-post-id="33034" data-author="*Breeze*" data-date="2011-12-02T05:48:57+00:00">
+<div class="post" data-post-id="33034" data-author="*Breeze*" data-date="2011-12-02T05:48:57+00:00" data-subject="Re: Open Discussion">
 
 > **Strago wrote:**
 > >snip<
@@ -341,7 +341,7 @@ re: 2) the whole point of the wiki is that players can update it (not that any p
 
 </div>
 
-<div class="post" data-post-id="33036" data-author="*Idjit*" data-date="2011-12-04T19:31:30+00:00">
+<div class="post" data-post-id="33036" data-author="*Idjit*" data-date="2011-12-04T19:31:30+00:00" data-subject="Re: Open Discussion">
 
 To Cizin: a lot of the "strong individuals" left in 2009 (not that I don't sincerely mourn their departure).
 
@@ -473,7 +473,7 @@ Just my thoughts, and my thanks go our administration for their increased flexib
 
 </div>
 
-<div class="post" data-post-id="33037" data-author="melechi" data-date="2011-12-04T20:05:26+00:00">
+<div class="post" data-post-id="33037" data-author="melechi" data-date="2011-12-04T20:05:26+00:00" data-subject="Re: Open Discussion">
 
 Would it be at all possible to set up some sort of list for areas that a certain style of play could solo in? For example shadow playground in vk is geared more for mage style play, while bottle nose dolphins are a chop/pet style area. 
 
@@ -491,7 +491,7 @@ Melechi
 
 </div>
 
-<div class="post" data-post-id="33038" data-author="Tigris" data-date="2011-12-05T04:00:25+00:00">
+<div class="post" data-post-id="33038" data-author="Tigris" data-date="2011-12-05T04:00:25+00:00" data-subject="Re: Open Discussion">
 
 We all know each class has its prime only ability which makes that class special but what about maybe making those prime abilities prime/or 4x40 or even 7x40 for some of the stronger ones for example maybe ariel servant would be cleric prime or cleric 6x40.This might make people think about there classo a little bit more and would also help with balancing different classes withing ones classo. Also it might open up areas that otherwise would not be in someones usual killing cycle.
 
@@ -503,7 +503,7 @@ Just a random idea,
 
 </div>
 
-<div class="post" data-post-id="33039" data-author="alris" data-date="2011-12-05T09:08:03+00:00">
+<div class="post" data-post-id="33039" data-author="alris" data-date="2011-12-05T09:08:03+00:00" data-subject="Re: Open Discussion">
 
 I agree that there is a problem with desirable eq for high levels.
 
@@ -511,13 +511,13 @@ Except trip40 eq, there is nothing i want to get starting with 6x40, 7x40, 8x40.
 
 </div>
 
-<div class="post" data-post-id="33040" data-author="alris" data-date="2011-12-05T09:20:02+00:00">
+<div class="post" data-post-id="33040" data-author="alris" data-date="2011-12-05T09:20:02+00:00" data-subject="Re: Open Discussion">
 
 Just a silly idea, but i thought it might be fun. What about pet follower with not predefined, but generic stats player choose on his own before making pet? if the pet made like juju (special room, takes a time to make), there also can be fit some kind of options menu, where player chooses bonuses for a follower (+1 attack, auto assist, -3 ac, +3 hit roll, extra damage, resists or immunities - list can be very long) and disadvantages (pretty much same but with minus). If you played Master of Orion2 and seen generic race menu, you would get an idea :) Player starts with a 10 points to spend, each bonus costs some points to buy for a pet, and picking disadvantage gives you some more points, pet can be made when points are zero or positive. Can increase points player spends on making pet as player progresses and so on.
 
 </div>
 
-<div class="post" data-post-id="33043" data-author="Strago" data-date="2011-12-07T12:48:40+00:00">
+<div class="post" data-post-id="33043" data-author="Strago" data-date="2011-12-07T12:48:40+00:00" data-subject="Re: Open Discussion">
 
 @melechi, yes it would be possible to setup a list of different areas for different play styles. This could be done in the Wiki.
 
@@ -525,7 +525,7 @@ I will start a new topic about this, as well as about better level descriptions,
 
 </div>
 
-<div class="post" data-post-id="33046" data-author="Stark" data-date="2011-12-07T18:47:21+00:00">
+<div class="post" data-post-id="33046" data-author="Stark" data-date="2011-12-07T18:47:21+00:00" data-subject="Re: Open Discussion">
 
 How about finding some way to offset the "penalty" one pays in rent when logging in after some time?  If I haven't played in a couple weeks (which is true for me right now because I got caught up in Skyrim, heh heh) and I'm trying to gauge what game to play tonight, the first thing I think of in regards to Sloth is "Awww, I'm going to have a crapload of rent to pay and I'll have to run some coins to make up for it before doing anything else".
 
@@ -533,7 +533,7 @@ I'm not saying get rid of rent because I know there's good reasons to have it, b
 
 </div>
 
-<div class="post" data-post-id="33051" data-author="Shyla" data-date="2011-12-07T23:39:48+00:00">
+<div class="post" data-post-id="33051" data-author="Shyla" data-date="2011-12-07T23:39:48+00:00" data-subject="Re: Open Discussion">
 
 maybe i am wrong but i thought after 2 weeks or so you didn't pay rent anyways..   someone please clarify if i am wrong HUGS
 
@@ -541,13 +541,13 @@ Shyla...
 
 </div>
 
-<div class="post" data-post-id="33052" data-author="Stark" data-date="2011-12-08T02:36:49+00:00">
+<div class="post" data-post-id="33052" data-author="Stark" data-date="2011-12-08T02:36:49+00:00" data-subject="Re: Open Discussion">
 
 Yeah, I know after some length of time your rent is free, but I have no idea how long that is.  Shouldn't encourage people to just "wait long enough till you don't have to pay it" though :P
 
 </div>
 
-<div class="post" data-post-id="33069" data-author="Tigris" data-date="2011-12-10T07:22:06+00:00">
+<div class="post" data-post-id="33069" data-author="Tigris" data-date="2011-12-10T07:22:06+00:00" data-subject="Re: Open Discussion">
 
 No rent after 30 days if I'm not mistaken. Seems like a rather long time if we are trying to encourage people to log in and play. I don't mind paying rent but i log in almost every day but if your logging in at that day 29 its probably studpid expensive. I like the idea of the rested xp.. maybe offset the cost of rent with a little xp would get people to log in more, and if you reach the point of not paying rent (over 30 days) you don't get the rested xp either.
 

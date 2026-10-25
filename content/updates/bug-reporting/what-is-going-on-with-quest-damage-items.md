@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="23137" data-author="Medios" data-date="2008-03-07T17:32:46+00:00">
+<div class="post" data-post-id="23137" data-author="Medios" data-date="2008-03-07T17:32:46+00:00" data-subject="What is going on with quest damage items">
 
 You feel informed:
 
@@ -26,7 +26,7 @@ high limit .2 gaunts?
 
 </div>
 
-<div class="post" data-post-id="23138" data-author="Weasel" data-date="2008-03-07T17:35:01+00:00">
+<div class="post" data-post-id="23138" data-author="Weasel" data-date="2008-03-07T17:35:01+00:00" data-subject="">
 
 I'll give ya 50k for them  :twisted:
 

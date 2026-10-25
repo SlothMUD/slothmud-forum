@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="38489" data-author="*teker*" data-date="2017-11-19T03:36:28+00:00">
+<div class="post" data-post-id="38489" data-author="*teker*" data-date="2017-11-19T03:36:28+00:00" data-subject="Changelog 2017-11-18">
 
 I've started rewriting some of the spells to make them more friendly when bad arguments are provided.  For example:
 
@@ -32,25 +32,25 @@ I'm open to suggestions on other spells that need rewritten to handle bad argume
 
 </div>
 
-<div class="post" data-post-id="38491" data-author="Gorka" data-date="2017-11-19T10:54:58+00:00">
+<div class="post" data-post-id="38491" data-author="Gorka" data-date="2017-11-19T10:54:58+00:00" data-subject="Re: Changelog 2017-11-18">
 
 Teker, on supplicants one of the most valuable things you could do is actually list what the supplicants do. Recently Sochi told me I can "order banshee wail." I had no idea about this, yet that information totally changed my game as it allowed me to kill some mobs in some dangerous areas. I've never been into pets and I have zero idea what most pets do outside of peri, nightmare and eudaemon. Imagine what it's like for new players... how do they know the commands the pets can do? Is it even documented? Maybe the pet template could have a help command so the player can "order pet list abilities." This could be in play for awakens/supplicants and summons.
 
 </div>
 
-<div class="post" data-post-id="38492" data-author="*Breeze*" data-date="2017-11-19T22:11:42+00:00">
+<div class="post" data-post-id="38492" data-author="*Breeze*" data-date="2017-11-19T22:11:42+00:00" data-subject="Re: Changelog 2017-11-18">
 
 If I read the mudl commands  for the various supplicants and tell you the commands,  are you willing to do the help file for it?
 
 </div>
 
-<div class="post" data-post-id="38493" data-author="Gorka" data-date="2017-11-20T05:00:29+00:00">
+<div class="post" data-post-id="38493" data-author="Gorka" data-date="2017-11-20T05:00:29+00:00" data-subject="Re: Changelog 2017-11-18">
 
 Sure, I'll give it a crack. First one will be a learning curve.
 
 </div>
 
-<div class="post" data-post-id="38494" data-author="*Breeze*" data-date="2017-11-20T18:13:02+00:00">
+<div class="post" data-post-id="38494" data-author="*Breeze*" data-date="2017-11-20T18:13:02+00:00" data-subject="Re: Changelog 2017-11-18">
 
 first set of stuffs...  its easier if someone actually summons them so i can check them before they auto-poof.
 
@@ -70,7 +70,7 @@ brownie -- rescue XXXXX; squirm [helps you squirm]
 
 </div>
 
-<div class="post" data-post-id="38495" data-author="Gorka" data-date="2017-11-20T18:56:05+00:00">
+<div class="post" data-post-id="38495" data-author="Gorka" data-date="2017-11-20T18:56:05+00:00" data-subject="Re: Changelog 2017-11-18">
 
 I had no idea a djinn "webs."  :lol: 
 
@@ -78,7 +78,7 @@ I had no idea a djinn "webs."  :lol:
 
 </div>
 
-<div class="post" data-post-id="38496" data-author="*Breeze*" data-date="2017-11-20T19:04:08+00:00">
+<div class="post" data-post-id="38496" data-author="*Breeze*" data-date="2017-11-20T19:04:08+00:00" data-subject="Re: Changelog 2017-11-18">
 
 try kiss chu 
 
@@ -88,7 +88,7 @@ no idea.
 
 </div>
 
-<div class="post" data-post-id="38497" data-author="Gorka" data-date="2017-11-20T19:26:48+00:00">
+<div class="post" data-post-id="38497" data-author="Gorka" data-date="2017-11-20T19:26:48+00:00" data-subject="Re: Changelog 2017-11-18">
 
 Krom answers your request!
 
@@ -230,7 +230,7 @@ You sit down and rest your tired bones.
 
 </div>
 
-<div class="post" data-post-id="38498" data-author="*Breeze*" data-date="2017-11-20T20:29:13+00:00">
+<div class="post" data-post-id="38498" data-author="*Breeze*" data-date="2017-11-20T20:29:13+00:00" data-subject="Re: Changelog 2017-11-18">
 
 yup. thats exactly what its supposed to do.
 

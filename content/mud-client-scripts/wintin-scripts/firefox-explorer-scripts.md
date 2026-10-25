@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="11879" data-author="*Splork*" data-date="2006-03-30T01:59:56+00:00">
+<div class="post" data-post-id="11879" data-author="*Splork*" data-date="2006-03-30T01:59:56+00:00" data-subject="Firefox/explorer scripts">
 
 This will create a window that can bring up anything 
 
@@ -50,7 +50,7 @@ search for equipment without opening up your broswer.
 
 </div>
 
-<div class="post" data-post-id="11886" data-author="Nightwolf" data-date="2006-03-30T09:52:46+00:00">
+<div class="post" data-post-id="11886" data-author="Nightwolf" data-date="2006-03-30T09:52:46+00:00" data-subject="">
 
 A question about the mechanics of the connection: Will the browser connect via its own settings (i.e. the proxy settings i put into firefox), or via the direct connection used by the client... (since my non-proxy-bandwith is restricted, I'd need to know that :/ )
 

@@ -10,13 +10,13 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="4401" data-author="Gti" data-date="2005-02-12T04:26:07+00:00">
+<div class="post" data-post-id="4401" data-author="Gti" data-date="2005-02-12T04:26:07+00:00" data-subject="wtb Signet Ring of Lost Cross">
 
 as above. pls pm/mm me ur asking price. thx all!  :mrgreen: [/color:72plh9q7]
 
 </div>
 
-<div class="post" data-post-id="4407" data-author="Chainer" data-date="2005-02-12T12:53:31+00:00">
+<div class="post" data-post-id="4407" data-author="Chainer" data-date="2005-02-12T12:53:31+00:00" data-subject="">
 
 NEVER!!!!!
 
@@ -26,7 +26,7 @@ Ka Kaw!!!!
 
 </div>
 
-<div class="post" data-post-id="4434" data-author="Gti" data-date="2005-02-14T01:44:53+00:00">
+<div class="post" data-post-id="4434" data-author="Gti" data-date="2005-02-14T01:44:53+00:00" data-subject="">
 
 NEVER!!!!!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 40
 ---
 
-<div class="post" data-post-id="11109" data-author="Chobbles" data-date="2006-03-09T06:19:02+00:00">
+<div class="post" data-post-id="11109" data-author="Chobbles" data-date="2006-03-09T06:19:02+00:00" data-subject="Confugglin&#x27; Son of  a Brisket">
 
 blast-raise
 
@@ -138,7 +138,7 @@ On a related note, wtb purple claw and a purple minidemon brooch.
 
 </div>
 
-<div class="post" data-post-id="11110" data-author="Leaf" data-date="2006-03-09T12:27:21+00:00">
+<div class="post" data-post-id="11110" data-author="Leaf" data-date="2006-03-09T12:27:21+00:00" data-subject="">
 
 Interesting hp you have there.
 
@@ -150,7 +150,7 @@ a spell burnt the item or something???
 
 </div>
 
-<div class="post" data-post-id="11111" data-author="Autolycos" data-date="2006-03-09T12:36:00+00:00">
+<div class="post" data-post-id="11111" data-author="Autolycos" data-date="2006-03-09T12:36:00+00:00" data-subject="Re: Confugglin&#x27; Son of  a Brisket">
 
 Dedsune has been raised from the dead!
 
@@ -160,13 +160,13 @@ see... this is the problem  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11112" data-author="12345" data-date="2006-03-09T13:13:57+00:00">
+<div class="post" data-post-id="11112" data-author="12345" data-date="2006-03-09T13:13:57+00:00" data-subject="Re: Confugglin&#x27; Son of  a Brisket">
 
 I'm stupid...
 
 </div>
 
-<div class="post" data-post-id="11113" data-author="Nyx" data-date="2006-03-09T13:30:39+00:00">
+<div class="post" data-post-id="11113" data-author="Nyx" data-date="2006-03-09T13:30:39+00:00" data-subject="coincidence?">
 
 [29t 22w 21c 15m] Demi wts loggers maul, steel camail, purple dragon claw
 
@@ -174,7 +174,7 @@ Boo :evil:
 
 </div>
 
-<div class="post" data-post-id="11114" data-author="Poolp" data-date="2006-03-09T16:39:32+00:00">
+<div class="post" data-post-id="11114" data-author="Poolp" data-date="2006-03-09T16:39:32+00:00" data-subject="">
 
 Oh come on, pthieves are getting better by the day :) And by that I mean pthief (me) and by that I also mean more desperate to run straight to groups and wait for a cf to happen. Come on people, 89 mil and counting without the purple dragon claw. Make an offer here on the claw and brooch, Chobs? Or just send me a tell online. Current bid on the claw is 2 mil by the way. 9 mil (or less) coins to go and I'll stop pestering all of you!
 
@@ -182,7 +182,7 @@ PS: Accepting donations in any form. You can either have them delivered to me or
 
 </div>
 
-<div class="post" data-post-id="11115" data-author="12345" data-date="2006-03-09T16:56:44+00:00">
+<div class="post" data-post-id="11115" data-author="12345" data-date="2006-03-09T16:56:44+00:00" data-subject="">
 
 I'm suddenly very happy that my groups rarely cf off-lyme... I'd hate it if the person who raised me got their gear jacked trying to help me out.
 
@@ -190,7 +190,7 @@ On another note, why the 100 mil coin target?
 
 </div>
 
-<div class="post" data-post-id="11116" data-author="Poolp" data-date="2006-03-09T17:06:22+00:00">
+<div class="post" data-post-id="11116" data-author="Poolp" data-date="2006-03-09T17:06:22+00:00" data-subject="">
 
 Okay so basically here's how it's been.
 
@@ -210,13 +210,13 @@ Good day people :)
 
 </div>
 
-<div class="post" data-post-id="11117" data-author="Poolp" data-date="2006-03-09T17:12:18+00:00">
+<div class="post" data-post-id="11117" data-author="Poolp" data-date="2006-03-09T17:12:18+00:00" data-subject="">
 
 -oops double post :)
 
 </div>
 
-<div class="post" data-post-id="11118" data-author="12345" data-date="2006-03-09T17:22:37+00:00">
+<div class="post" data-post-id="11118" data-author="12345" data-date="2006-03-09T17:22:37+00:00" data-subject="">
 
 Otherwise, I've had a fantastic time here back at Sloth, and I'll see you again probably in a few years when I'm ready to pthief with my avatar.
 
@@ -226,7 +226,7 @@ You're avatar?  It's not the one I'm thinking of is it?  I thought he belonged t
 
 </div>
 
-<div class="post" data-post-id="11119" data-author="Autolycos" data-date="2006-03-09T17:29:35+00:00">
+<div class="post" data-post-id="11119" data-author="Autolycos" data-date="2006-03-09T17:29:35+00:00" data-subject="">
 
 You're avatar?  It's not the one I'm thinking of is it?  I thought he belonged to a friend of yours.[/quote:3fwyn9vp]
 
@@ -234,7 +234,7 @@ AH HA!   I knew that silly Bit was a pthief,  It always made me uncomfortable ho
 
 </div>
 
-<div class="post" data-post-id="11120" data-author="12345" data-date="2006-03-09T17:46:11+00:00">
+<div class="post" data-post-id="11120" data-author="12345" data-date="2006-03-09T17:46:11+00:00" data-subject="">
 
 AH HA!   I knew that silly Bit was a pthief,  It always made me uncomfortable how he was staring at my socks with that longing look in his eyes.... *shudder*[/quote:fvkl8z4t]
 
@@ -242,13 +242,13 @@ Other than the fact you're neurotic and never serious... never mind.
 
 </div>
 
-<div class="post" data-post-id="11121" data-author="Guinex" data-date="2006-03-09T18:12:44+00:00">
+<div class="post" data-post-id="11121" data-author="Guinex" data-date="2006-03-09T18:12:44+00:00" data-subject="">
 
 Poolp shoulda been wiped a long time ago, i don't even know how many times off hand I have gotten him to multiplay and reported it with nothing done.
 
 </div>
 
-<div class="post" data-post-id="11122" data-author="Autolycos" data-date="2006-03-09T18:52:02+00:00">
+<div class="post" data-post-id="11122" data-author="Autolycos" data-date="2006-03-09T18:52:02+00:00" data-subject="">
 
 Other than the fact you're neurotic and never serious... never mind.[/quote:ijr354nh]
 
@@ -260,7 +260,7 @@ tell me more about me!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11123" data-author="Vixn" data-date="2006-03-09T19:06:08+00:00">
+<div class="post" data-post-id="11123" data-author="Vixn" data-date="2006-03-09T19:06:08+00:00" data-subject="">
 
 Do all this guys disrupt the harmony of Sloth too? Really? I'd suppose possibility of pthiefing was in code since the beginnning, huh?
 
@@ -272,7 +272,7 @@ Though I don't care, don't love em at all..
 
 </div>
 
-<div class="post" data-post-id="11124" data-author="*juggleblood*" data-date="2006-03-09T19:14:50+00:00">
+<div class="post" data-post-id="11124" data-author="*juggleblood*" data-date="2006-03-09T19:14:50+00:00" data-subject="">
 
 Demi was wiped for apparently pushing Blaze into jail. (No investigation was made, after I stated that I did, I was wiped)
 
@@ -286,7 +286,7 @@ Why would there be an investigation if you confessed to multi-playing?
 
 </div>
 
-<div class="post" data-post-id="11125" data-author="Guinex" data-date="2006-03-09T19:26:49+00:00">
+<div class="post" data-post-id="11125" data-author="Guinex" data-date="2006-03-09T19:26:49+00:00" data-subject="">
 
 [quote:1k9fx6hy]BTW, Guinex, why don't u remember Poolp reporting bugs allow pthief to leave a jail through diyng? I've got some respect to him when he posted this bug. [/quote:1k9fx6hy]
 
@@ -294,13 +294,13 @@ I really could care less, I have lost nothing of importance to a pthief.  And th
 
 </div>
 
-<div class="post" data-post-id="11126" data-author="Grue" data-date="2006-03-09T19:52:46+00:00">
+<div class="post" data-post-id="11126" data-author="Grue" data-date="2006-03-09T19:52:46+00:00" data-subject="">
 
 As for losing a char he was lent, I hope whoever lent him the char does get really pissed off, although I suppose if you are silly enough to lend a char to pthief it's your own fault..
 
 </div>
 
-<div class="post" data-post-id="11127" data-author="Clink" data-date="2006-03-09T19:59:33+00:00">
+<div class="post" data-post-id="11127" data-author="Clink" data-date="2006-03-09T19:59:33+00:00" data-subject="">
 
 The purpose of this post is to lodge a report that an immort has been abusing his/her power as an immort by making no investigation whatsoever about any of this...[/quote:21ija802]
 
@@ -324,7 +324,7 @@ My response:
 
 </div>
 
-<div class="post" data-post-id="11132" data-author="Krok" data-date="2006-03-09T21:22:31+00:00">
+<div class="post" data-post-id="11132" data-author="Krok" data-date="2006-03-09T21:22:31+00:00" data-subject="">
 
 Bah, silly noobs still believe old pthieves are multying? Comf. Of course, it's very smart to believe the gossips 2 or 3 pths are making. Yes, sure, they are multiplaying and admitting it honestly. Ahha. Dream on. 
 
@@ -334,19 +334,19 @@ Guys, you bitch every time something is stolen, but don't bother to type 'where'
 
 </div>
 
-<div class="post" data-post-id="11133" data-author="Guinex" data-date="2006-03-09T21:32:46+00:00">
+<div class="post" data-post-id="11133" data-author="Guinex" data-date="2006-03-09T21:32:46+00:00" data-subject="">
 
 Ignorance is bliss, some things just crack me up.  THE ALL MIGHTY!
 
 </div>
 
-<div class="post" data-post-id="11136" data-author="Leaf" data-date="2006-03-09T22:10:45+00:00">
+<div class="post" data-post-id="11136" data-author="Leaf" data-date="2006-03-09T22:10:45+00:00" data-subject="">
 
 Sooo since Ploop is gone, whos the other Pthief ... Gets?
 
 </div>
 
-<div class="post" data-post-id="11137" data-author="Poolp" data-date="2006-03-09T23:04:00+00:00">
+<div class="post" data-post-id="11137" data-author="Poolp" data-date="2006-03-09T23:04:00+00:00" data-subject="">
 
 The purpose of this post is to lodge a report that an immort has been abusing his/her power as an immort by making no investigation whatsoever about any of this...[/quote:am3q20fu]
 
@@ -380,13 +380,13 @@ Btw I don't multiplay. If telling a friend to log in and terminate my connection
 
 </div>
 
-<div class="post" data-post-id="11138" data-author="Krok" data-date="2006-03-09T23:18:36+00:00">
+<div class="post" data-post-id="11138" data-author="Krok" data-date="2006-03-09T23:18:36+00:00" data-subject="">
 
 Imms, that's really a nonsense. I think that the players of Sloth desrve to get the explanation of this 'why not to wipe someone' case.
 
 </div>
 
-<div class="post" data-post-id="11140" data-author="Weasel" data-date="2006-03-09T23:52:14+00:00">
+<div class="post" data-post-id="11140" data-author="Weasel" data-date="2006-03-09T23:52:14+00:00" data-subject="">
 
 If telling a friend to log in and terminate my connection, then logging another character on is considered multiplaying...[/quote:1o7tv9s0]
 
@@ -394,7 +394,7 @@ huh?
 
 </div>
 
-<div class="post" data-post-id="11141" data-author="Qa" data-date="2006-03-10T02:04:13+00:00">
+<div class="post" data-post-id="11141" data-author="Qa" data-date="2006-03-10T02:04:13+00:00" data-subject="">
 
 I don't know why immorts say its okay to pthief and then find any way possible to may the successful ones stop.[/quote:20p5r0fj]
 
@@ -406,7 +406,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="11142" data-author="Poolp" data-date="2006-03-10T08:04:08+00:00">
+<div class="post" data-post-id="11142" data-author="Poolp" data-date="2006-03-10T08:04:08+00:00" data-subject="">
 
 If telling a friend to log in and terminate my connection, then logging another character on is considered multiplaying...[/quote:1epbwzu7]
 
@@ -418,7 +418,7 @@ To Qa I think you're missing my point. If immorts told me pthieving was a wipeab
 
 </div>
 
-<div class="post" data-post-id="11143" data-author="12345" data-date="2006-03-10T12:12:19+00:00">
+<div class="post" data-post-id="11143" data-author="12345" data-date="2006-03-10T12:12:19+00:00" data-subject="">
 
 Pthiefing is, and always has been, a very tricky business.  Mostly because what is considered 'legal' pthieving is pretty debatable.  As far as the penalty, there's always been a huge penalty.  With the glitches in jail and such, the penalties have been considerably less than they should have been even.  As for the max penalty... well, you're not banned yet.  Help corpse will give you this much though:
 
@@ -434,7 +434,7 @@ punished by the gods.[/quote:1yxi6fyq]
 
 </div>
 
-<div class="post" data-post-id="11144" data-author="12345" data-date="2006-03-10T12:34:12+00:00">
+<div class="post" data-post-id="11144" data-author="12345" data-date="2006-03-10T12:34:12+00:00" data-subject="">
 
 Ok, I've been sitting on this info for a while, and I wasn't going to use it...
 
@@ -488,19 +488,19 @@ Teept
 
 </div>
 
-<div class="post" data-post-id="11145" data-author="Poolp" data-date="2006-03-10T13:29:38+00:00">
+<div class="post" data-post-id="11145" data-author="Poolp" data-date="2006-03-10T13:29:38+00:00" data-subject="">
 
 Heh, what are you trying to do? Get more people I'm related to in trouble because of me?
 
 </div>
 
-<div class="post" data-post-id="11146" data-author="12345" data-date="2006-03-10T13:50:13+00:00">
+<div class="post" data-post-id="11146" data-author="12345" data-date="2006-03-10T13:50:13+00:00" data-subject="">
 
 I told you quite some time ago that this information is available and public.  Since you're taking risks with other folks stuff, I don't see why I should continue to be cautious.  How that ultimately ends up affecting things is one of the risks you assumed when you started.
 
 </div>
 
-<div class="post" data-post-id="11147" data-author="Mustang" data-date="2006-03-10T15:10:54+00:00">
+<div class="post" data-post-id="11147" data-author="Mustang" data-date="2006-03-10T15:10:54+00:00" data-subject="">
 
 i may be wrong, but demi/blaze probably got wiped for some client abuse...not exactly sure what's been happening with clients, but been hearing about it on public channels lately.
 
@@ -508,13 +508,13 @@ even though the admin's stance is that they do not endorse any clients (tho some
 
 </div>
 
-<div class="post" data-post-id="11148" data-author="Leaf" data-date="2006-03-10T15:53:22+00:00">
+<div class="post" data-post-id="11148" data-author="Leaf" data-date="2006-03-10T15:53:22+00:00" data-subject="">
 
 Where is that great pthief Fernondo or however u spell it :)
 
 </div>
 
-<div class="post" data-post-id="11149" data-author="Mustang" data-date="2006-03-10T16:55:41+00:00">
+<div class="post" data-post-id="11149" data-author="Mustang" data-date="2006-03-10T16:55:41+00:00" data-subject="">
 
 fernando :)
 
@@ -522,7 +522,7 @@ as many ppl know i've retired from pthieving
 
 </div>
 
-<div class="post" data-post-id="11150" data-author="Grue" data-date="2006-03-10T17:14:12+00:00">
+<div class="post" data-post-id="11150" data-author="Grue" data-date="2006-03-10T17:14:12+00:00" data-subject="">
 
 [i:39kiyo2g]"As you all know Poolp was locked. This was because I was dead with some eq and told a friend to come help me log Poolp in and terminate my connection. I waited till the 4th tick when he finally logged me in. My connection was terminated, so I proceeded to use another char to loot the corpse as soon as Poolp corpsed. The immorts saw that as multiplaying eventhough they were from separate IPs and just locked me with the reason that 'they believe' I used different IPs when convenient. "[/i:39kiyo2g]
 
@@ -534,13 +534,13 @@ It makes no reference to IP addresses. Whether you cut the link or someone else 
 
 </div>
 
-<div class="post" data-post-id="11151" data-author="Leaf" data-date="2006-03-10T17:14:48+00:00">
+<div class="post" data-post-id="11151" data-author="Leaf" data-date="2006-03-10T17:14:48+00:00" data-subject="">
 
 Well now that u admitted to pthiefing, we can kill u legally and loot ya corpse  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11152" data-author="Leaf" data-date="2006-03-10T17:17:31+00:00">
+<div class="post" data-post-id="11152" data-author="Leaf" data-date="2006-03-10T17:17:31+00:00" data-subject="">
 
 As ingenious as this is, this is clearly multiplaying based on the published rule. The rules clearly state that:
 
@@ -556,7 +556,7 @@ their alt char and CR themselves.
 
 </div>
 
-<div class="post" data-post-id="11154" data-author="12345" data-date="2006-03-10T17:31:48+00:00">
+<div class="post" data-post-id="11154" data-author="12345" data-date="2006-03-10T17:31:48+00:00" data-subject="">
 
 Today Link is smoking way too much of whatever it is that makes him sound silly...
 
@@ -570,7 +570,7 @@ Either way, he had 2 of his chars on since the first didn't log off until the se
 
 </div>
 
-<div class="post" data-post-id="11155" data-author="Grue" data-date="2006-03-10T17:42:53+00:00">
+<div class="post" data-post-id="11155" data-author="Grue" data-date="2006-03-10T17:42:53+00:00" data-subject="">
 
 [i:pg5jxxzw]"I don't know about this ... i know for a fact some ppl have 2 chars. 1 is dead and knows for a fact no one can raise. So they type Quit!, and sign in as their alt char and CR themselves."[/i:pg5jxxzw]
 
@@ -578,7 +578,7 @@ In addition to which this IS explictly allowed in the rules, as it explicitly st
 
 </div>
 
-<div class="post" data-post-id="11156" data-author="Leaf" data-date="2006-03-10T17:44:15+00:00">
+<div class="post" data-post-id="11156" data-author="Leaf" data-date="2006-03-10T17:44:15+00:00" data-subject="">
 
 Today Link is smoking way too much of whatever it is that makes him sound silly...
 

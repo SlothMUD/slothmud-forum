@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="28398" data-author="Virus" data-date="2009-03-05T09:24:32+00:00">
+<div class="post" data-post-id="28398" data-author="Virus" data-date="2009-03-05T09:24:32+00:00" data-subject="Lost a wiedzmin ring">
 
 Lost a wiedzmin ring due to death on AH, probably got looted in town while Suriv corpsed, if anyone find it can I have it back pls.
 
 </div>
 
-<div class="post" data-post-id="28399" data-author="Virus" data-date="2009-03-05T09:46:37+00:00">
+<div class="post" data-post-id="28399" data-author="Virus" data-date="2009-03-05T09:46:37+00:00" data-subject="">
 
 Never mind, found it, girl looted it....
 

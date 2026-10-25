@@ -10,7 +10,7 @@ locked: false
 post_count: 48
 ---
 
-<div class="post" data-post-id="38521" data-author="Gorka" data-date="2017-12-05T14:18:42+00:00">
+<div class="post" data-post-id="38521" data-author="Gorka" data-date="2017-12-05T14:18:42+00:00" data-subject="EU EQ">
 
 Not sure why the eq from EU isn't being publicly listed. If you have something please ID and add to the thread.
 
@@ -84,7 +84,7 @@ necromancers, or bards may use this item.
 
 </div>
 
-<div class="post" data-post-id="38522" data-author="Gorka" data-date="2017-12-05T14:24:13+00:00">
+<div class="post" data-post-id="38522" data-author="Gorka" data-date="2017-12-05T14:24:13+00:00" data-subject="Re: EU EQ">
 
 Ajkllyflljyk, the Volcanic Dragon (Plane of Magma)
 
@@ -134,7 +134,7 @@ this item.
 
 </div>
 
-<div class="post" data-post-id="38523" data-author="Gorka" data-date="2017-12-05T14:30:23+00:00">
+<div class="post" data-post-id="38523" data-author="Gorka" data-date="2017-12-05T14:30:23+00:00" data-subject="Re: EU EQ">
 
 Axzaelqrvha, the Jade Dragon (Air Plane Extension)
 
@@ -166,7 +166,7 @@ classes may use this item.
 
 </div>
 
-<div class="post" data-post-id="38527" data-author="*Idjit*" data-date="2017-12-08T03:04:15+00:00">
+<div class="post" data-post-id="38527" data-author="*Idjit*" data-date="2017-12-08T03:04:15+00:00" data-subject="Re: EU EQ">
 
 a bearded devil (Salt Plane)
 
@@ -190,7 +190,7 @@ item.
 
 </div>
 
-<div class="post" data-post-id="38533" data-author="Gorka" data-date="2017-12-12T21:56:36+00:00">
+<div class="post" data-post-id="38533" data-author="Gorka" data-date="2017-12-12T21:56:36+00:00" data-subject="Re: EU EQ">
 
 Rhea's Avenger (Earth Plane Extension)
 
@@ -230,7 +230,7 @@ Weight: 1, Value: 8474gold, Worn in: TAKE HOLD
 
 </div>
 
-<div class="post" data-post-id="38534" data-author="Gorka" data-date="2017-12-13T07:12:56+00:00">
+<div class="post" data-post-id="38534" data-author="Gorka" data-date="2017-12-13T07:12:56+00:00" data-subject="Re: EU EQ">
 
 Ball of Lightning (Plane of Lightning)
 
@@ -358,7 +358,7 @@ supremacy in at least five classes may use this item.
 
 </div>
 
-<div class="post" data-post-id="38535" data-author="Gorka" data-date="2017-12-13T07:16:09+00:00">
+<div class="post" data-post-id="38535" data-author="Gorka" data-date="2017-12-13T07:16:09+00:00" data-subject="Re: EU EQ">
 
 The following information may be inaccurate or incomplete...
 
@@ -456,7 +456,7 @@ Equipment
 
 </div>
 
-<div class="post" data-post-id="38536" data-author="Gorka" data-date="2017-12-13T09:24:36+00:00">
+<div class="post" data-post-id="38536" data-author="Gorka" data-date="2017-12-13T09:24:36+00:00" data-subject="Re: EU EQ">
 
 The 6 dragons have all been popped now... It appears that these are the biggest mobs in EU, and they really do require  chopping to be killed efficiently. The mobs that haven't been loaded yet are also largish but can be killed by a group without choppers. I'd stop short of calling EU a "Chop Area" as some perhaps have presumptuously assumed because of these dragons. There is more to EU than chop.
 
@@ -670,7 +670,7 @@ In most cases the clue to where the item loads is in the equipment name... hence
 
 </div>
 
-<div class="post" data-post-id="38537" data-author="Gorka" data-date="2017-12-13T13:59:24+00:00">
+<div class="post" data-post-id="38537" data-author="Gorka" data-date="2017-12-13T13:59:24+00:00" data-subject="Re: EU EQ">
 
 Dr and crew loaded these today...
 
@@ -712,7 +712,7 @@ Stay tuned for more... wouldn't be surprised to find a +5 MAX_DEX AND +2.4ac ite
 
 </div>
 
-<div class="post" data-post-id="38538" data-author="Teron" data-date="2017-12-14T03:03:53+00:00">
+<div class="post" data-post-id="38538" data-author="Teron" data-date="2017-12-14T03:03:53+00:00" data-subject="Re: EU EQ">
 
 an hour-glass ring loads on a smoke mephit, irrc.
 
@@ -720,7 +720,7 @@ I forged the mace and it procs color sprays.
 
 </div>
 
-<div class="post" data-post-id="38539" data-author="Gorka" data-date="2017-12-14T07:24:43+00:00">
+<div class="post" data-post-id="38539" data-author="Gorka" data-date="2017-12-14T07:24:43+00:00" data-subject="Re: EU EQ">
 
 wand of sparks has been found @ guardian from smoke planes. It's 3 charges of hellstrike.
 
@@ -742,7 +742,7 @@ Affects: HITROLL by 2
 
 </div>
 
-<div class="post" data-post-id="38541" data-author="Gorka" data-date="2017-12-14T23:03:43+00:00">
+<div class="post" data-post-id="38541" data-author="Gorka" data-date="2017-12-14T23:03:43+00:00" data-subject="Re: EU EQ">
 
 Updated Master List...
 
@@ -836,7 +836,7 @@ Affects: HITROLL by 2
 
 </div>
 
-<div class="post" data-post-id="38542" data-author="Ker" data-date="2017-12-15T17:33:20+00:00">
+<div class="post" data-post-id="38542" data-author="Ker" data-date="2017-12-15T17:33:20+00:00" data-subject="Re: EU EQ">
 
 Hola!
 
@@ -874,7 +874,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="38543" data-author="Ker" data-date="2017-12-16T18:24:22+00:00">
+<div class="post" data-post-id="38543" data-author="Ker" data-date="2017-12-16T18:24:22+00:00" data-subject="Re: EU EQ">
 
 Hola again.
 
@@ -888,7 +888,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="38547" data-author="Ezekiel" data-date="2017-12-19T17:43:09+00:00">
+<div class="post" data-post-id="38547" data-author="Ezekiel" data-date="2017-12-19T17:43:09+00:00" data-subject="Re: EU EQ">
 
 Ekhak- Lord of Smoke
 
@@ -920,7 +920,7 @@ and have attained supremacy in at least three classes may use this item.
 
 </div>
 
-<div class="post" data-post-id="38548" data-author="Gorka" data-date="2017-12-19T22:21:27+00:00">
+<div class="post" data-post-id="38548" data-author="Gorka" data-date="2017-12-19T22:21:27+00:00" data-subject="Re: EU EQ">
 
 Delver (Earth Plane Extension)
 
@@ -1062,7 +1062,7 @@ attained supremacy in at least two classes may use this item.
 
 </div>
 
-<div class="post" data-post-id="38550" data-author="Ker" data-date="2017-12-20T12:43:27+00:00">
+<div class="post" data-post-id="38550" data-author="Ker" data-date="2017-12-20T12:43:27+00:00" data-subject="Re: EU EQ">
 
 Good day!
 
@@ -1154,7 +1154,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="38577" data-author="*Idjit*" data-date="2018-01-01T19:18:33+00:00">
+<div class="post" data-post-id="38577" data-author="*Idjit*" data-date="2018-01-01T19:18:33+00:00" data-subject="Re: EU EQ">
 
 People will have issues trying to find this thread by its exact name in the forum search because it's "too common words, we have to use search words of at least four letters..."
 
@@ -1164,7 +1164,7 @@ Just saying.  that's what I ran into when I searched "eu eq"
 
 </div>
 
-<div class="post" data-post-id="38578" data-author="*Idjit*" data-date="2018-01-01T19:20:08+00:00">
+<div class="post" data-post-id="38578" data-author="*Idjit*" data-date="2018-01-01T19:20:08+00:00" data-subject="Re: EU EQ">
 
 And by the way when -will- the next export to the alternate EQlist be, that supposedly will incorporate all of this? What's holding it up?
 
@@ -1172,7 +1172,7 @@ And by the way when -will- the next export to the alternate EQlist be, that supp
 
 </div>
 
-<div class="post" data-post-id="38595" data-author="Ker" data-date="2018-01-07T09:30:46+00:00">
+<div class="post" data-post-id="38595" data-author="Ker" data-date="2018-01-07T09:30:46+00:00" data-subject="Re: EU EQ">
 
 Hola,
 
@@ -1260,7 +1260,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="38600" data-author="Ker" data-date="2018-01-07T13:55:28+00:00">
+<div class="post" data-post-id="38600" data-author="Ker" data-date="2018-01-07T13:55:28+00:00" data-subject="Re: EU EQ">
 
 Top, Check -
 
@@ -1270,7 +1270,7 @@ Our very first weapon_bonus LIGHT.
 
 </div>
 
-<div class="post" data-post-id="38709" data-author="Driven" data-date="2018-03-14T15:23:04+00:00">
+<div class="post" data-post-id="38709" data-author="Driven" data-date="2018-03-14T15:23:04+00:00" data-subject="Re: EU EQ">
 
 Pops on drow emissary in earth extension.
 
@@ -1296,7 +1296,7 @@ item.
 
 </div>
 
-<div class="post" data-post-id="38753" data-author="Filk" data-date="2018-04-30T10:39:50+00:00">
+<div class="post" data-post-id="38753" data-author="Filk" data-date="2018-04-30T10:39:50+00:00" data-subject="Re: EU EQ">
 
 > ***Idjit* wrote:**
 > And by the way when -will- the next export to the alternate EQlist be, that supposedly will incorporate all of this? What's holding it up?
@@ -1307,19 +1307,19 @@ As soon as eq dumps will be fixed and probably updated
 
 </div>
 
-<div class="post" data-post-id="38754" data-author="Filk" data-date="2018-05-02T12:44:52+00:00">
+<div class="post" data-post-id="38754" data-author="Filk" data-date="2018-05-02T12:44:52+00:00" data-subject="Re: EU EQ">
 
 Well. Dumps seems to be working again. But neither dumps, no original eq list not updated
 
 </div>
 
-<div class="post" data-post-id="38757" data-author="*teker*" data-date="2018-05-04T16:44:55+00:00">
+<div class="post" data-post-id="38757" data-author="*teker*" data-date="2018-05-04T16:44:55+00:00" data-subject="Re: EU EQ">
 
 I dumped the item list after reboot but I don't think anything new showed up.
 
 </div>
 
-<div class="post" data-post-id="38758" data-author="Filk" data-date="2018-05-05T01:03:13+00:00">
+<div class="post" data-post-id="38758" data-author="Filk" data-date="2018-05-05T01:03:13+00:00" data-subject="Re: EU EQ">
 
 > ***teker* wrote:**
 > I dumped the item list after reboot but I don't think anything new showed up.
@@ -1328,7 +1328,7 @@ Kinda. Nothing new. Even on original eq page there are no items from new locatio
 
 </div>
 
-<div class="post" data-post-id="38759" data-author="*Breeze*" data-date="2018-05-05T10:50:22+00:00">
+<div class="post" data-post-id="38759" data-author="*Breeze*" data-date="2018-05-05T10:50:22+00:00" data-subject="Re: EU EQ">
 
 nag nag nag.  
 
@@ -1342,7 +1342,7 @@ http://www.slothmud.org/wp/equipment/eqlist?area=486
 
 </div>
 
-<div class="post" data-post-id="38760" data-author="Filk" data-date="2018-05-05T13:21:19+00:00">
+<div class="post" data-post-id="38760" data-author="Filk" data-date="2018-05-05T13:21:19+00:00" data-subject="Re: EU EQ">
 
 Well. Things are moving at least, thats good already :)
 
@@ -1350,7 +1350,7 @@ Now i see new items on the site, there were no yesterday. So something is change
 
 </div>
 
-<div class="post" data-post-id="38761" data-author="*Breeze*" data-date="2018-05-05T14:16:48+00:00">
+<div class="post" data-post-id="38761" data-author="*Breeze*" data-date="2018-05-05T14:16:48+00:00" data-subject="Re: EU EQ">
 
 fixed
 
@@ -1358,7 +1358,7 @@ fixed
 
 </div>
 
-<div class="post" data-post-id="38762" data-author="Filk" data-date="2018-05-05T22:11:40+00:00">
+<div class="post" data-post-id="38762" data-author="Filk" data-date="2018-05-05T22:11:40+00:00" data-subject="Re: EU EQ">
 
 I see changes in lua variant for both eq and mobs list. But nothing in both json. Would be nice to fix json as well. Eventually :)
 
@@ -1366,7 +1366,7 @@ Forges list is broken atm. Last variant i downloaded at 02.05 was fine, if that 
 
 </div>
 
-<div class="post" data-post-id="38763" data-author="*Breeze*" data-date="2018-05-06T03:40:38+00:00">
+<div class="post" data-post-id="38763" data-author="*Breeze*" data-date="2018-05-06T03:40:38+00:00" data-subject="Re: EU EQ">
 
 Forges export has been broken for years. Teker is trying to fix it.
 
@@ -1374,7 +1374,7 @@ The lua export is built from the json do they should match
 
 </div>
 
-<div class="post" data-post-id="38764" data-author="Filk" data-date="2018-05-06T06:17:06+00:00">
+<div class="post" data-post-id="38764" data-author="Filk" data-date="2018-05-06T06:17:06+00:00" data-subject="Re: EU EQ">
 
 Breeze, i am not guessing. I just download file and look for changes in it. I see new items in lua, but not in json. And date in json is also outdated, though not sure it should be updating Generated":"Sun, 11 Jun 2017 00:05:05 -0600". Maybe its some kind of cache. Or maybe its not generating new version, i dont know whats inside.
 
@@ -1382,7 +1382,7 @@ Forges list was fine 4 days ago. Now its broken. I guess it wasnt updating for y
 
 </div>
 
-<div class="post" data-post-id="38766" data-author="*Breeze*" data-date="2018-05-06T08:41:23+00:00">
+<div class="post" data-post-id="38766" data-author="*Breeze*" data-date="2018-05-06T08:41:23+00:00" data-subject="Re: EU EQ">
 
 forge list was fine 4 days ago.
 
@@ -1434,7 +1434,7 @@ will see about adding a cron to update it on sundays or something.
 
 </div>
 
-<div class="post" data-post-id="38767" data-author="Filk" data-date="2018-05-06T08:56:01+00:00">
+<div class="post" data-post-id="38767" data-author="Filk" data-date="2018-05-06T08:56:01+00:00" data-subject="Re: EU EQ">
 
 I have no ideas, what are you speaking about. I manually download files from those links.
 
@@ -1521,7 +1521,7 @@ Exact links i see atm are
 
 </div>
 
-<div class="post" data-post-id="38768" data-author="*Breeze*" data-date="2018-05-06T09:09:28+00:00">
+<div class="post" data-post-id="38768" data-author="*Breeze*" data-date="2018-05-06T09:09:28+00:00" data-subject="Re: EU EQ">
 
 [http://www.slothmud.org/eqlistFiles.zip](http://www.slothmud.org/eqlistFiles.zip)
 
@@ -1529,7 +1529,7 @@ what i get when i download the links.
 
 </div>
 
-<div class="post" data-post-id="38769" data-author="Filk" data-date="2018-05-06T09:19:42+00:00">
+<div class="post" data-post-id="38769" data-author="Filk" data-date="2018-05-06T09:19:42+00:00" data-subject="Re: EU EQ">
 
 Well. Solved. It definitely was some kind of server cache. Even still applying to me at browser, but at least my import script got new data. So its imported and updated.
 
@@ -1537,31 +1537,31 @@ Thanks Breeze.
 
 </div>
 
-<div class="post" data-post-id="38771" data-author="Driven" data-date="2018-05-07T19:47:01+00:00">
+<div class="post" data-post-id="38771" data-author="Driven" data-date="2018-05-07T19:47:01+00:00" data-subject="Re: EU EQ">
 
 Thanks for updating the EQ-list, guys.  Question.  Why does some eq show up on the eqlist, but not others?  For example, I see the new EU eq, such as the draconis argenteis armis, but the glowing green gauntlets aren't there from Athaneum.  Any ideas?
 
 </div>
 
-<div class="post" data-post-id="38772" data-author="*Breeze*" data-date="2018-05-08T03:44:07+00:00">
+<div class="post" data-post-id="38772" data-author="*Breeze*" data-date="2018-05-08T03:44:07+00:00" data-subject="Re: EU EQ">
 
 Odd. Is that a forge or an item flagged NO_EQLIST?
 
 </div>
 
-<div class="post" data-post-id="38773" data-author="Filk" data-date="2018-05-08T08:04:32+00:00">
+<div class="post" data-post-id="38773" data-author="Filk" data-date="2018-05-08T08:04:32+00:00" data-subject="Re: EU EQ">
 
 Probably. Like plenty of other items which are not in any lists or dumps, while already discovered
 
 </div>
 
-<div class="post" data-post-id="38774" data-author="*teker*" data-date="2018-05-09T19:23:46+00:00">
+<div class="post" data-post-id="38774" data-author="*teker*" data-date="2018-05-09T19:23:46+00:00" data-subject="Re: EU EQ">
 
 The "glowing green gauntlets.. it glows green!" are not flagged NO_EQ_LIST so it must be something else.
 
 </div>
 
-<div class="post" data-post-id="38777" data-author="*Breeze*" data-date="2018-05-10T08:05:43+00:00">
+<div class="post" data-post-id="38777" data-author="*Breeze*" data-date="2018-05-10T08:05:43+00:00" data-subject="Re: EU EQ">
 
 Incomplete data would cause them not to appear..
 
@@ -1571,25 +1571,25 @@ No mob popper info
 
 </div>
 
-<div class="post" data-post-id="38778" data-author="Driven" data-date="2018-05-10T13:40:40+00:00">
+<div class="post" data-post-id="38778" data-author="Driven" data-date="2018-05-10T13:40:40+00:00" data-subject="Re: EU EQ">
 
 Odd.  Most people know who it pops on... grandmaster necromancer in athaneum... it's not an AQ item, just your run-of-the-mill forge cp.  Is there some way we can put the item-popper info into the system?
 
 </div>
 
-<div class="post" data-post-id="38779" data-author="*Breeze*" data-date="2018-05-10T20:18:58+00:00">
+<div class="post" data-post-id="38779" data-author="*Breeze*" data-date="2018-05-10T20:18:58+00:00" data-subject="Re: EU EQ">
 
 e.g. is a  Latin abbreviation. E.g. stands for exempli gratia and means “for example.”
 
 </div>
 
-<div class="post" data-post-id="38830" data-author="*teker*" data-date="2018-05-26T14:28:14+00:00">
+<div class="post" data-post-id="38830" data-author="*teker*" data-date="2018-05-26T14:28:14+00:00" data-subject="Re: EU EQ">
 
 Not sure if anyone has noticed but the green gauntlets now show on slothmudeq.tk .  There was a typo in the json for equipment sets that has now been fixed.
 
 </div>
 
-<div class="post" data-post-id="39383" data-author="Gorka" data-date="2020-03-07T22:15:57+00:00">
+<div class="post" data-post-id="39383" data-author="Gorka" data-date="2020-03-07T22:15:57+00:00" data-subject="Re: EU EQ">
 
 I popped this today on the champion in Gehenna.
 
@@ -1619,7 +1619,7 @@ supremacy in at least two classes may use this item.
 
 </div>
 
-<div class="post" data-post-id="39389" data-author="Filk" data-date="2020-03-12T09:27:46+00:00">
+<div class="post" data-post-id="39389" data-author="Filk" data-date="2020-03-12T09:27:46+00:00" data-subject="Re: EU EQ">
 
 > **Gorka wrote:**
 > Clasp gives the user -2 PRIME_ORDER_LAG
@@ -1628,7 +1628,7 @@ Teker, add please this parameter to xml export, whenever you have time for that
 
 </div>
 
-<div class="post" data-post-id="39391" data-author="Gorka" data-date="2020-03-12T11:25:07+00:00">
+<div class="post" data-post-id="39391" data-author="Gorka" data-date="2020-03-12T11:25:07+00:00" data-subject="Re: EU EQ">
 
 Could I suggest a review of that export, there is a lot more than prime order lag missing... A few more examples...
 
@@ -1656,7 +1656,7 @@ Potions also don't often list the effect on the eq list. I could only be scratch
 
 </div>
 
-<div class="post" data-post-id="39393" data-author="Filk" data-date="2020-03-13T10:13:52+00:00">
+<div class="post" data-post-id="39393" data-author="Filk" data-date="2020-03-13T10:13:52+00:00" data-subject="Re: EU EQ">
 
 Almost all potions has some scripted effects on them. So they cannot be directly transfered to stats view. 
 

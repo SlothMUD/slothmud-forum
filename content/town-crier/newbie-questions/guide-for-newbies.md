@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="30909" data-author="Marvel" data-date="2010-02-20T01:32:13+00:00">
+<div class="post" data-post-id="30909" data-author="Marvel" data-date="2010-02-20T01:32:13+00:00" data-subject="Guide for Newbies">
 
 I've been working on a website for newbies to read up about Sloth and it has information on a variety of newbie issues.  I've only finished the first part ("Beginner") level.  I have logs and plans for "Advanced" and "Expert" levels (which will teach about the more 'advanced' skills/commands/features of Sloth).
 
@@ -24,7 +24,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="30910" data-author="Vixn" data-date="2010-02-20T07:27:17+00:00">
+<div class="post" data-post-id="30910" data-author="Vixn" data-date="2010-02-20T07:27:17+00:00" data-subject="">
 
 Good job, Marvel!
 
@@ -32,7 +32,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="30911" data-author="*juggleblood*" data-date="2010-02-20T13:03:00+00:00">
+<div class="post" data-post-id="30911" data-author="*juggleblood*" data-date="2010-02-20T13:03:00+00:00" data-subject="">
 
 wow, thats a really nice page.
 
@@ -40,7 +40,7 @@ Maybe you could make a link to this site with the tag free online rpg game? It h
 
 </div>
 
-<div class="post" data-post-id="30912" data-author="Toxis" data-date="2010-02-20T13:07:19+00:00">
+<div class="post" data-post-id="30912" data-author="Toxis" data-date="2010-02-20T13:07:19+00:00" data-subject="">
 
 I can think of no one else who shall be named KING OF NEWBIES! :)~
 
@@ -50,7 +50,7 @@ I also laughed out loud (lol for you younger folk) when I saw the rooster as we 
 
 </div>
 
-<div class="post" data-post-id="30913" data-author="Marvel" data-date="2010-02-20T13:28:30+00:00">
+<div class="post" data-post-id="30913" data-author="Marvel" data-date="2010-02-20T13:28:30+00:00" data-subject="">
 
 Thanks for the feedback & kind words - and thanks for the link suggestion, can't believe I forgot to link to slothmud itself completely!  :lol: 
 
@@ -126,7 +126,7 @@ Keys
 
 </div>
 
-<div class="post" data-post-id="30914" data-author="*juggleblood*" data-date="2010-02-20T18:38:13+00:00">
+<div class="post" data-post-id="30914" data-author="*juggleblood*" data-date="2010-02-20T18:38:13+00:00" data-subject="">
 
 help topics
 

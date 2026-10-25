@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="39741" data-author="Gorka" data-date="2021-06-22T07:36:30+00:00">
+<div class="post" data-post-id="39741" data-author="Gorka" data-date="2021-06-22T07:36:30+00:00" data-subject="Conquest Points">
 
 "There are just shy of 300 million Conquest Points available  in the game, some harder to obtain than others."
 
@@ -102,7 +102,7 @@ Also, because of the nature of hand dam in the game, and how it works as a multi
 
 </div>
 
-<div class="post" data-post-id="39757" data-author="Gorka" data-date="2021-07-01T19:44:32+00:00">
+<div class="post" data-post-id="39757" data-author="Gorka" data-date="2021-07-01T19:44:32+00:00" data-subject="Re: Conquest Points">
 
 Some tips, info and tricks for people regarding the new conquest system...
 
@@ -134,7 +134,7 @@ I'll post other stuff as I find them.
 
 </div>
 
-<div class="post" data-post-id="39769" data-author="Insomnia" data-date="2021-07-05T18:19:50+00:00">
+<div class="post" data-post-id="39769" data-author="Insomnia" data-date="2021-07-05T18:19:50+00:00" data-subject="Re: Conquest Points">
 
 What I don't like is that there are many mobs on the Spirit list that are just not supposed to be killed:
 
@@ -160,7 +160,7 @@ Subduing all these mobs must be worth at least several million points. I really 
 
 </div>
 
-<div class="post" data-post-id="39771" data-author="Gorka" data-date="2021-07-05T19:25:25+00:00">
+<div class="post" data-post-id="39771" data-author="Gorka" data-date="2021-07-05T19:25:25+00:00" data-subject="Re: Conquest Points">
 
 Yes, there are plenty of these.
 
@@ -172,7 +172,7 @@ PS Well done on the magic missile subduing of the epics. You'd have to be the br
 
 </div>
 
-<div class="post" data-post-id="39780" data-author="Gorka" data-date="2021-07-14T10:03:20+00:00">
+<div class="post" data-post-id="39780" data-author="Gorka" data-date="2021-07-14T10:03:20+00:00" data-subject="Re: Conquest Points">
 
 There is a pretty big issue plaguing the conquest point system. On about 3 occasions I've had an area reset and lost "progress" on completing an area. At first I wasn't too worried because theoretically this means I could get more points re-doing the area.
 
@@ -182,7 +182,7 @@ I can only conclude that in the first instances, perhaps my progress wasn't bein
 
 </div>
 
-<div class="post" data-post-id="39781" data-author="Driven" data-date="2021-07-15T03:41:23+00:00">
+<div class="post" data-post-id="39781" data-author="Driven" data-date="2021-07-15T03:41:23+00:00" data-subject="Re: Conquest Points">
 
 Level 10 is 270 million conquest points, so you won't need mobs like Yuluk to get there.  There is no straightforward way of removing such mobs, plus they present an interesting challenge for the most aspiring conquerors.
 
@@ -192,13 +192,13 @@ Short of bugs in the basecode that has been in place for more than 5 years, ther
 
 </div>
 
-<div class="post" data-post-id="39782" data-author="Driven" data-date="2021-07-15T12:59:28+00:00">
+<div class="post" data-post-id="39782" data-author="Driven" data-date="2021-07-15T12:59:28+00:00" data-subject="Re: Conquest Points">
 
 Can you be more precise on which areas screwed up and how?  For example, have you only seen total area wipes/switches in UD2 and it was only a few mobs lost in Ether Plane?  UD2 is one of the few zones with an actual # in the zone name.
 
 </div>
 
-<div class="post" data-post-id="39783" data-author="Gorka" data-date="2021-07-15T20:30:01+00:00">
+<div class="post" data-post-id="39783" data-author="Gorka" data-date="2021-07-15T20:30:01+00:00" data-subject="Re: Conquest Points">
 
 Here is the Rlyeh glitch, I'll see if I can dig up the others...
 
@@ -392,7 +392,7 @@ Leng and Cthulga's pops started showing on my area card even though the items ha
 
 </div>
 
-<div class="post" data-post-id="39784" data-author="Gorka" data-date="2021-07-15T20:39:54+00:00">
+<div class="post" data-post-id="39784" data-author="Gorka" data-date="2021-07-15T20:39:54+00:00" data-subject="Re: Conquest Points">
 
 Here is the Underdark one...
 
@@ -748,7 +748,7 @@ The Spirit of Conquest shows you your progress for
 
 </div>
 
-<div class="post" data-post-id="39785" data-author="Gorka" data-date="2021-07-15T20:44:58+00:00">
+<div class="post" data-post-id="39785" data-author="Gorka" data-date="2021-07-15T20:44:58+00:00" data-subject="Re: Conquest Points">
 
 Here is the Ether Plane one...
 
@@ -928,7 +928,7 @@ The Spirit of Conquest shows you your progress for
 
 </div>
 
-<div class="post" data-post-id="39786" data-author="Gorka" data-date="2021-07-15T21:08:06+00:00">
+<div class="post" data-post-id="39786" data-author="Gorka" data-date="2021-07-15T21:08:06+00:00" data-subject="Re: Conquest Points">
 
 I think the Rlyeh one is the most interesting, because it looks like my card was swapped with another player.
 
@@ -938,13 +938,13 @@ I've tried making it happen without success.
 
 </div>
 
-<div class="post" data-post-id="39787" data-author="Driven" data-date="2021-07-15T22:28:04+00:00">
+<div class="post" data-post-id="39787" data-author="Driven" data-date="2021-07-15T22:28:04+00:00" data-subject="Re: Conquest Points">
 
 Just taking the R'lyeh as an example, what occured between your two 'look area's?  Were any items turned in?  Did you leave the area between those two reports?  I will try to reproduce/debug, but I need as much info as possible to make debug possible.  You have my email address if you want to send me a log.  I am happy to crawl through your log to see if you did something unexpected.
 
 </div>
 
-<div class="post" data-post-id="39788" data-author="Gorka" data-date="2021-07-16T07:25:13+00:00">
+<div class="post" data-post-id="39788" data-author="Gorka" data-date="2021-07-16T07:25:13+00:00" data-subject="Re: Conquest Points">
 
 Very little occurred between looking at the card, and the card being modified. Here is a quick run down...
 

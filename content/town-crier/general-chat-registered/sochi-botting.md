@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="35101" data-author="Popeye" data-date="2014-05-07T23:15:05+00:00">
+<div class="post" data-post-id="35101" data-author="Popeye" data-date="2014-05-07T23:15:05+00:00" data-subject="Sochi botting">
 
 Hi,
 
@@ -26,7 +26,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="35103" data-author="DarkArtist" data-date="2014-05-08T00:42:55+00:00">
+<div class="post" data-post-id="35103" data-author="DarkArtist" data-date="2014-05-08T00:42:55+00:00" data-subject="Re: Sochi botting">
 
 > **Popeye wrote:**
 > Hi,
@@ -49,13 +49,13 @@ I have done no such thing. And there is no such allowance for pk.
 
 </div>
 
-<div class="post" data-post-id="35104" data-author="Truck" data-date="2014-05-08T00:59:47+00:00">
+<div class="post" data-post-id="35104" data-author="Truck" data-date="2014-05-08T00:59:47+00:00" data-subject="Re: Sochi botting">
 
 read the rules on player killing.... there is an allowance.
 
 </div>
 
-<div class="post" data-post-id="35105" data-author="DarkArtist" data-date="2014-05-08T01:10:02+00:00">
+<div class="post" data-post-id="35105" data-author="DarkArtist" data-date="2014-05-08T01:10:02+00:00" data-subject="Re: Sochi botting">
 
 I said no such allowance, as in the one proffered by our dear friend here. I'll grant you that rule 3 invites such rogue interpretations.
 
@@ -65,7 +65,7 @@ It's ridiculous to have zero interactions with this guy and then get called out 
 
 </div>
 
-<div class="post" data-post-id="35106" data-author="Thraxas" data-date="2014-05-08T08:23:16+00:00">
+<div class="post" data-post-id="35106" data-author="Thraxas" data-date="2014-05-08T08:23:16+00:00" data-subject="Re: Sochi botting">
 
 I too have come across Sochi playing particularly low level bh runs on a regular basis. 
 
@@ -81,7 +81,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="35107" data-author="Popeye" data-date="2014-05-08T12:47:01+00:00">
+<div class="post" data-post-id="35107" data-author="Popeye" data-date="2014-05-08T12:47:01+00:00" data-subject="Re: Sochi botting">
 
 > **Thraxas wrote:**
 > I too have come across Sochi playing particularly low level bh runs on a regular basis. 
@@ -112,7 +112,7 @@ I actually think the 15 40 40 thing Sochi is doing is good fun, but there has to
 
 </div>
 
-<div class="post" data-post-id="35110" data-author="DarkArtist" data-date="2014-05-08T14:46:40+00:00">
+<div class="post" data-post-id="35110" data-author="DarkArtist" data-date="2014-05-08T14:46:40+00:00" data-subject="Re: Sochi botting">
 
 I am NOT breaking any rules.This is why mortals don't enforce the rules. They don't have the snoop command.  Yes, I talk about how good my scripts are on gossip and on the forum. I'm sorry it makes you jealous. I've even provided some feedback on how to improve msdp so that we can do more and some of it's been implemented. If you need help learning to use your client, let me know. Maybe you are new to mudding or something and think that clients are cheating.
 
@@ -124,7 +124,7 @@ I'm not hurting you sitting at my desk studying and running bh areas. There are 
 
 </div>
 
-<div class="post" data-post-id="35114" data-author="Popeye" data-date="2014-05-08T18:52:33+00:00">
+<div class="post" data-post-id="35114" data-author="Popeye" data-date="2014-05-08T18:52:33+00:00" data-subject="Re: Sochi botting">
 
 Look kiddo, it's nothing personal.
 
@@ -136,13 +136,13 @@ Thank you
 
 </div>
 
-<div class="post" data-post-id="35115" data-author="DarkArtist" data-date="2014-05-08T19:21:50+00:00">
+<div class="post" data-post-id="35115" data-author="DarkArtist" data-date="2014-05-08T19:21:50+00:00" data-subject="Re: Sochi botting">
 
 You are so full of it. It never happened or it was some other player. You raised this stink and now want to back down. Tell me who this newb of yours is and when this supposedly happened. Or just stop lying and admit you made a mistake.
 
 </div>
 
-<div class="post" data-post-id="35118" data-author="Popeye" data-date="2014-05-08T20:50:24+00:00">
+<div class="post" data-post-id="35118" data-author="Popeye" data-date="2014-05-08T20:50:24+00:00" data-subject="Re: Sochi botting">
 
 > **DarkArtist wrote:**
 > You are so full of it. It never happened or it was some other player. You raised this stink and now want to back down. Tell me who this newb of yours is and when this supposedly happened. Or just stop lying and admit you made a mistake.
@@ -155,7 +155,7 @@ I am not against scripts or whatever, just consider other players when playing.
 
 </div>
 
-<div class="post" data-post-id="35119" data-author="DarkArtist" data-date="2014-05-08T20:58:08+00:00">
+<div class="post" data-post-id="35119" data-author="DarkArtist" data-date="2014-05-08T20:58:08+00:00" data-subject="Re: Sochi botting">
 
 And I'm laying this out for you, that you are a no good liar and the reason you can't be forthcoming about details is because they don't exist.
 
@@ -163,7 +163,7 @@ I've received a number of pm's telling me that nobody likes you anyway so I shou
 
 </div>
 
-<div class="post" data-post-id="35122" data-author="Popeye" data-date="2014-05-08T21:37:54+00:00">
+<div class="post" data-post-id="35122" data-author="Popeye" data-date="2014-05-08T21:37:54+00:00" data-subject="Re: Sochi botting">
 
 > **DarkArtist wrote:**
 > And I'm laying this out for you, that you are a no good liar and the reason you can't be forthcoming about details is because they don't exist.
@@ -178,7 +178,7 @@ All I am asking is that you play fairly.
 
 </div>
 
-<div class="post" data-post-id="35128" data-author="DarkArtist" data-date="2014-05-08T23:34:34+00:00">
+<div class="post" data-post-id="35128" data-author="DarkArtist" data-date="2014-05-08T23:34:34+00:00" data-subject="Re: Sochi botting">
 
 I ask that you not accuse people of cheating or make threats.
 
@@ -188,7 +188,7 @@ That is all I ask and I stand by that.
 
 </div>
 
-<div class="post" data-post-id="35129" data-author="Popeye" data-date="2014-05-08T23:45:37+00:00">
+<div class="post" data-post-id="35129" data-author="Popeye" data-date="2014-05-08T23:45:37+00:00" data-subject="Re: Sochi botting">
 
 > **DarkArtist wrote:**
 > I ask that you not accuse people of cheating or make threats.
@@ -211,13 +211,13 @@ I look forward to new Sochi et al and new Popeye et al
 
 </div>
 
-<div class="post" data-post-id="35130" data-author="DarkArtist" data-date="2014-05-09T00:30:56+00:00">
+<div class="post" data-post-id="35130" data-author="DarkArtist" data-date="2014-05-09T00:30:56+00:00" data-subject="Re: Sochi botting">
 
 FU liar.
 
 </div>
 
-<div class="post" data-post-id="35131" data-author="*Neptune*" data-date="2014-05-09T02:49:24+00:00">
+<div class="post" data-post-id="35131" data-author="*Neptune*" data-date="2014-05-09T02:49:24+00:00" data-subject="Re: Sochi botting">
 
 Let's be clear on a few things:
 
@@ -245,7 +245,7 @@ may choose to inquire and take action further.
 
 </div>
 
-<div class="post" data-post-id="35132" data-author="Popeye" data-date="2014-05-09T09:28:53+00:00">
+<div class="post" data-post-id="35132" data-author="Popeye" data-date="2014-05-09T09:28:53+00:00" data-subject="Re: Sochi botting">
 
 > ***Neptune* wrote:**
 > Let's be clear on a few things:

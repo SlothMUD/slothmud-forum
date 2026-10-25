@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1471" data-author="doug" data-date="2004-08-18T00:05:28+00:00">
+<div class="post" data-post-id="1471" data-author="doug" data-date="2004-08-18T00:05:28+00:00" data-subject="some form of gate or relocate spell for necros">
 
 necros could really, really use some form of gate or at least a single continent relocate spell, even if it consumes moves, mana. hp, all of the above, whatever. having to beg a group to gate in sucks is a pain.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="14751" data-author="13" data-date="2006-10-26T02:34:34+00:00">
+<div class="post" data-post-id="14751" data-author="13" data-date="2006-10-26T02:34:34+00:00" data-subject="Thanks Diku!">
 
 Diku decided to donate his eq to sloth and put it all on a mob for us to find.
 
@@ -26,13 +26,13 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="14752" data-author="Rynquald" data-date="2006-10-26T02:39:49+00:00">
+<div class="post" data-post-id="14752" data-author="Rynquald" data-date="2006-10-26T02:39:49+00:00" data-subject="">
 
 Nods, thanks :)
 
 </div>
 
-<div class="post" data-post-id="14757" data-author="Zam" data-date="2006-10-26T07:21:26+00:00">
+<div class="post" data-post-id="14757" data-author="Zam" data-date="2006-10-26T07:21:26+00:00" data-subject="">
 
 no comments
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="23371" data-author="Yasik2" data-date="2008-03-22T23:33:24+00:00">
+<div class="post" data-post-id="23371" data-author="Yasik2" data-date="2008-03-22T23:33:24+00:00" data-subject="So true">
 
 The Laws of Online World Design
 
@@ -292,7 +292,7 @@ Link to original essay: [http://www.raphkoster.com/gaming/laws.shtml](http://www
 
 </div>
 
-<div class="post" data-post-id="23375" data-author="jezer" data-date="2008-03-23T05:54:02+00:00">
+<div class="post" data-post-id="23375" data-author="jezer" data-date="2008-03-23T05:54:02+00:00" data-subject="">
 
 Ok, made it too the bottom of all this... (I recommend you read with good music, food and a drink if you hope to make it :wink: )
 

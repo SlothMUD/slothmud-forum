@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39347" data-author="Bandit" data-date="2020-01-16T04:20:23+00:00">
+<div class="post" data-post-id="39347" data-author="Bandit" data-date="2020-01-16T04:20:23+00:00" data-subject="Correct Avatar shop prices">
 
 Since the prices on the website are incorrect, here's a list from the shop!
 
@@ -108,7 +108,7 @@ Since the prices on the website are incorrect, here's a list from the shop!
 
 </div>
 
-<div class="post" data-post-id="39364" data-author="*Neptune*" data-date="2020-01-25T20:28:57+00:00">
+<div class="post" data-post-id="39364" data-author="*Neptune*" data-date="2020-01-25T20:28:57+00:00" data-subject="Re: Correct Avatar shop prices">
 
 I have added these tales to the wiki. 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 51
 ---
 
-<div class="post" data-post-id="4832" data-author="Falsra" data-date="2005-03-07T10:31:08+00:00">
+<div class="post" data-post-id="4832" data-author="Falsra" data-date="2005-03-07T10:31:08+00:00" data-subject="is it mages turn ?!">
 
 during last few months old classes got some new skills and skills improvements:
 
@@ -70,7 +70,7 @@ mirrors penalty,  do not include thief in their classo.
 
 </div>
 
-<div class="post" data-post-id="4833" data-author="Alberich" data-date="2005-03-07T10:41:42+00:00">
+<div class="post" data-post-id="4833" data-author="Alberich" data-date="2005-03-07T10:41:42+00:00" data-subject="">
 
 we got improved resist fire/cold!  :P
 
@@ -84,7 +84,7 @@ let us stab our mobs!
 
 </div>
 
-<div class="post" data-post-id="4834" data-author="Falsra" data-date="2005-03-07T10:52:35+00:00">
+<div class="post" data-post-id="4834" data-author="Falsra" data-date="2005-03-07T10:52:35+00:00" data-subject="">
 
 Alberich wrote:
 
@@ -116,7 +116,7 @@ Min mana:     12
 
 </div>
 
-<div class="post" data-post-id="4835" data-author="Hotara" data-date="2005-03-07T12:37:35+00:00">
+<div class="post" data-post-id="4835" data-author="Hotara" data-date="2005-03-07T12:37:35+00:00" data-subject="">
 
 He was joking falsra :)
 
@@ -132,7 +132,7 @@ Will post other idea's later.
 
 </div>
 
-<div class="post" data-post-id="4838" data-author="Falsra" data-date="2005-03-07T13:18:49+00:00">
+<div class="post" data-post-id="4838" data-author="Falsra" data-date="2005-03-07T13:18:49+00:00" data-subject="">
 
 heh, seems i dont understand jokes on Mondays :)
 
@@ -144,7 +144,7 @@ prime always had saving_spell bonus.
 
 </div>
 
-<div class="post" data-post-id="4840" data-author="bintang" data-date="2005-03-07T14:54:33+00:00">
+<div class="post" data-post-id="4840" data-author="bintang" data-date="2005-03-07T14:54:33+00:00" data-subject="">
 
 Quote: "look at new generation mages prime: most of them, who know about mirrors penalty, do not include thief in their classo."
 
@@ -154,7 +154,7 @@ Bintang's classo Ma/Cl/Wa/Th    :?
 
 </div>
 
-<div class="post" data-post-id="4842" data-author="Leaf" data-date="2005-03-07T15:19:54+00:00">
+<div class="post" data-post-id="4842" data-author="Leaf" data-date="2005-03-07T15:19:54+00:00" data-subject="">
 
 Well the thing is... you have 5 mirrors (So theres 5 copys of u).  A mob
 
@@ -164,7 +164,7 @@ with 5 copys and a stabber.
 
 </div>
 
-<div class="post" data-post-id="4850" data-author="12345" data-date="2005-03-07T15:49:33+00:00">
+<div class="post" data-post-id="4850" data-author="12345" data-date="2005-03-07T15:49:33+00:00" data-subject="">
 
 I've always thought of it the other way around.  Regardless of how many mirrors you have, the real one is the one with the knife if your back.  Same for grip. ie. Makes more sense for mirrors to fall if you attempt either of these since the mob will then know exactly where you really are.
 
@@ -174,7 +174,7 @@ Why grip works through mirrors I have no idea though.
 
 </div>
 
-<div class="post" data-post-id="4860" data-author="Eagle" data-date="2005-03-07T22:29:27+00:00">
+<div class="post" data-post-id="4860" data-author="Eagle" data-date="2005-03-07T22:29:27+00:00" data-subject="">
 
 12345 wrote: Regardless of how many mirrors you have, the real one is the one with the knife if your back.
 
@@ -198,7 +198,7 @@ and thanks Falsra to bringing us to the table, its been a long time since we got
 
 </div>
 
-<div class="post" data-post-id="4861" data-author="12345" data-date="2005-03-07T22:45:34+00:00">
+<div class="post" data-post-id="4861" data-author="12345" data-date="2005-03-07T22:45:34+00:00" data-subject="">
 
 well that doesnt hold up since during a round of fighting the one thats hitting you is the real one anyway...... so that is no different than a stab.[/quote:19it0v8x]
 
@@ -206,7 +206,7 @@ Chuckle, yep, and I still can't seem to get off another stab, even if I'm invisi
 
 </div>
 
-<div class="post" data-post-id="4863" data-author="13" data-date="2005-03-07T23:41:29+00:00">
+<div class="post" data-post-id="4863" data-author="13" data-date="2005-03-07T23:41:29+00:00" data-subject="">
 
 actually monk primes get more innate handdmg from levels but a mo 2nd
 
@@ -238,13 +238,13 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="4867" data-author="guest" data-date="2005-03-08T00:31:10+00:00">
+<div class="post" data-post-id="4867" data-author="guest" data-date="2005-03-08T00:31:10+00:00" data-subject="">
 
 Firewind at 25 mana is already perfect, don't think reducing the mana would be anything but more helpful to non-casters. Besides making it 22 mana affects not only mage primes but all mages.
 
 </div>
 
-<div class="post" data-post-id="4871" data-author="Alberich" data-date="2005-03-08T03:39:52+00:00">
+<div class="post" data-post-id="4871" data-author="Alberich" data-date="2005-03-08T03:39:52+00:00" data-subject="">
 
 he meant for mage primes, since clerics primes have cheaper restores than the rest of us - so, since it's hard to be a non-caster and a mage prime, i fail to see how that'd make it easier for non-casters.
 
@@ -254,7 +254,7 @@ but it doesn't change the basic point of orignal post, which is that there's no 
 
 </div>
 
-<div class="post" data-post-id="4872" data-author="12345" data-date="2005-03-08T04:15:08+00:00">
+<div class="post" data-post-id="4872" data-author="12345" data-date="2005-03-08T04:15:08+00:00" data-subject="">
 
 but it doesn't change the basic point of orignal post, which is that there's no good reason mages cannot stab with mirrors up, since compared to all the new class stuff, it really wouldn't be exactly overpowered[/quote:3s3j4zc5]
 
@@ -262,7 +262,7 @@ I can agree with that.
 
 </div>
 
-<div class="post" data-post-id="4873" data-author="Vixn" data-date="2005-03-08T08:20:43+00:00">
+<div class="post" data-post-id="4873" data-author="Vixn" data-date="2005-03-08T08:20:43+00:00" data-subject="">
 
 Let mages stab with mirrors!
 
@@ -272,7 +272,7 @@ p.s. and undeads should have ability to protect their masters ;)
 
 </div>
 
-<div class="post" data-post-id="4874" data-author="Sage" data-date="2005-03-08T08:51:07+00:00">
+<div class="post" data-post-id="4874" data-author="Sage" data-date="2005-03-08T08:51:07+00:00" data-subject="">
 
 Yep, yep... It's very easy to come to person's back unnoticed if there's 5 of you...  Giving mages abbility to stab with mirrors would give bonus only for mages who got TH in classO. And it's not fair you know. 
 
@@ -296,7 +296,7 @@ Yep, yep... It's very easy to come to person's back unnoticed if there's 5 of yo
 
 </div>
 
-<div class="post" data-post-id="4875" data-author="Falsra" data-date="2005-03-08T09:19:55+00:00">
+<div class="post" data-post-id="4875" data-author="Falsra" data-date="2005-03-08T09:19:55+00:00" data-subject="">
 
 Giving mages abbility to stab with mirrors would give bonus only for mages who got TH in classO. And it's not fair you know. 
 
@@ -310,7 +310,7 @@ the original idea was not to mess penalty with other classes abilities.
 
 </div>
 
-<div class="post" data-post-id="4876" data-author="Falsra" data-date="2005-03-08T09:33:09+00:00">
+<div class="post" data-post-id="4876" data-author="Falsra" data-date="2005-03-08T09:33:09+00:00" data-subject="">
 
 Yep, yep... It's very easy to come to person's back unnoticed if there's 5 of you... [/quote:1gbe6f0z]
 
@@ -322,25 +322,25 @@ permablind mobs.
 
 </div>
 
-<div class="post" data-post-id="4877" data-author="Alberich" data-date="2005-03-08T09:33:30+00:00">
+<div class="post" data-post-id="4877" data-author="Alberich" data-date="2005-03-08T09:33:30+00:00" data-subject="">
 
 how is it not fair?  Is it not fair also that mages who took say necro instead of thief have tons more mana? different things for different classos.  and noone said adding some other bonus to mirrors wasn't a good idea - we are talking about removing something that only penalizes a small portion of old class mages - if you don't have thief in classo, why do you care one way or the other?
 
 </div>
 
-<div class="post" data-post-id="4878" data-author="Hotara" data-date="2005-03-08T09:40:10+00:00">
+<div class="post" data-post-id="4878" data-author="Hotara" data-date="2005-03-08T09:40:10+00:00" data-subject="">
 
 Still on for innate spell damage reduction, obviously it's the bomb ;)
 
 </div>
 
-<div class="post" data-post-id="4879" data-author="Avatar" data-date="2005-03-08T12:18:58+00:00">
+<div class="post" data-post-id="4879" data-author="Avatar" data-date="2005-03-08T12:18:58+00:00" data-subject="mage mirrorss">
 
 I think the cleric aerial servant has some restriction related to stabbing also.  Like you can't cast the servant if you've stabbed recently?  I'm not sure, been awhile since I used aerial.
 
 </div>
 
-<div class="post" data-post-id="4880" data-author="Shadis" data-date="2005-03-08T12:31:33+00:00">
+<div class="post" data-post-id="4880" data-author="Shadis" data-date="2005-03-08T12:31:33+00:00" data-subject="">
 
 Sage wrote: 
 
@@ -358,7 +358,7 @@ Silly mages
 
 </div>
 
-<div class="post" data-post-id="4881" data-author="Hotara" data-date="2005-03-08T12:44:05+00:00">
+<div class="post" data-post-id="4881" data-author="Hotara" data-date="2005-03-08T12:44:05+00:00" data-subject="">
 
 Thieves are the weakest class
 
@@ -368,7 +368,7 @@ Oh hell yea :) You JUST realized?
 
 </div>
 
-<div class="post" data-post-id="4882" data-author="Inferno" data-date="2005-03-08T12:51:33+00:00">
+<div class="post" data-post-id="4882" data-author="Inferno" data-date="2005-03-08T12:51:33+00:00" data-subject="HEY">
 
 MAGES AND WARRIORS ARE THE ONLY CLASSES WHO NEVER GET NERFED
 
@@ -378,13 +378,13 @@ THIS HAS BEEN A PUBIC SERVICE ANNOUNCEMENT
 
 </div>
 
-<div class="post" data-post-id="4883" data-author="Hotara" data-date="2005-03-08T12:56:49+00:00">
+<div class="post" data-post-id="4883" data-author="Hotara" data-date="2005-03-08T12:56:49+00:00" data-subject="">
 
 Gotcha boss, thanks for the details.
 
 </div>
 
-<div class="post" data-post-id="4884" data-author="12345" data-date="2005-03-08T13:20:28+00:00">
+<div class="post" data-post-id="4884" data-author="12345" data-date="2005-03-08T13:20:28+00:00" data-subject="">
 
 With folks claiming that firewind-doesn't-do-enough-damage, it's helpful to remember that firewind is in no way underpowered.  
 
@@ -400,7 +400,7 @@ I'll shut up now  :)
 
 </div>
 
-<div class="post" data-post-id="4885" data-author="Driven" data-date="2005-03-08T14:14:28+00:00">
+<div class="post" data-post-id="4885" data-author="Driven" data-date="2005-03-08T14:14:28+00:00" data-subject="">
 
 Grip and backstab are very different skills.  Grip does not enable you (correct me if I'm wrong) to kill thief-type big-xp high-damage mobs at lvl 40 monk without getting hit.  Grip forces you to take a few rounds of combat, which against 1mil+ thief-type mobs is going to hurt even with mirrors up.  A lot.  Double backstab enables you to kill these mobs at lvl 40 thief without even entering combat really.  If you were to allow mage primes to stab with mirrors, all danger of stabbing disappears.  Stab, wind wind, mirrors stop all damage.  Free xp forever without getting hit.  C'mon.  The whole point of backstab is that it is high risk, high reward.  With mirrors there would be no risk.  People would run regen/damage equipment and not even use AC eq in this solo mode.  Something very very wrong about that.
 
@@ -408,7 +408,7 @@ If anything should be changed, perhaps grip should not be allowed when mirrors a
 
 </div>
 
-<div class="post" data-post-id="4886" data-author="Leaf" data-date="2005-03-08T14:41:34+00:00">
+<div class="post" data-post-id="4886" data-author="Leaf" data-date="2005-03-08T14:41:34+00:00" data-subject="">
 
 Gripping a mob takes 1 round before anything else.  While Stabbing you can
 
@@ -422,7 +422,7 @@ Makes senese to me!
 
 </div>
 
-<div class="post" data-post-id="4888" data-author="Falsra" data-date="2005-03-08T16:04:28+00:00">
+<div class="post" data-post-id="4888" data-author="Falsra" data-date="2005-03-08T16:04:28+00:00" data-subject="">
 
 > **Driven wrote:**
 > Stab, wind wind, mirrors stop all damage. Free xp forever without getting hit.[/quote:1zcfqoeh]
@@ -547,7 +547,7 @@ Makes senese to me!
 
 </div>
 
-<div class="post" data-post-id="4889" data-author="Autolycos" data-date="2005-03-08T16:46:55+00:00">
+<div class="post" data-post-id="4889" data-author="Autolycos" data-date="2005-03-08T16:46:55+00:00" data-subject="">
 
 to add a little fun on the thiefy side to what Driven had said.  i do enjoy the spoils that a thief gets, so far the biggest xp splork i have had, was driders in Dweb for 3.1mil..
 
@@ -555,7 +555,7 @@ now although its way easy to fall in love with that,   since i dont have firewin
 
 </div>
 
-<div class="post" data-post-id="4891" data-author="Driven" data-date="2005-03-08T17:19:45+00:00">
+<div class="post" data-post-id="4891" data-author="Driven" data-date="2005-03-08T17:19:45+00:00" data-subject="">
 
 [quote:bn2blrmt]
 
@@ -611,7 +611,7 @@ And this needs to be said... these comments are my own, my own personal opinions
 
 </div>
 
-<div class="post" data-post-id="4909" data-author="Falsra" data-date="2005-03-09T10:28:46+00:00">
+<div class="post" data-post-id="4909" data-author="Falsra" data-date="2005-03-09T10:28:46+00:00" data-subject="">
 
 To Driven:
 
@@ -645,13 +645,13 @@ replace thief with monk or bard if were aware of the penalty.
 
 </div>
 
-<div class="post" data-post-id="4911" data-author="Driven" data-date="2005-03-09T13:02:25+00:00">
+<div class="post" data-post-id="4911" data-author="Driven" data-date="2005-03-09T13:02:25+00:00" data-subject="">
 
 We will simply have to agree to disagree.  The true newbies who are complaining do not understand overall game balance, and I doubt they chose mage prime with thief in their classorder with the distinct expectation that they will be stabbing thief-mobs with mirrors up.  I also don't think it is necessary to have played a prime class to understand the ramifications of changes associated with it.  Do you really think all our admin have personally played all 8 classes with significant levels?  Simple common sense tells you what will happen to game balance when a change occurs.  Mage primes doing thief-type mobs with very little danger removes the very essence of that thief-type mob.  I do enjoy spirited debates, which is why I tend to open my mouth more than I should.  Perhaps "complaining" was too harsh a word.
 
 </div>
 
-<div class="post" data-post-id="4915" data-author="Alberich" data-date="2005-03-09T14:37:57+00:00">
+<div class="post" data-post-id="4915" data-author="Alberich" data-date="2005-03-09T14:37:57+00:00" data-subject="">
 
 little risk?  have you ever played a mage? (on sloth - this is sloth, not d&d, you do realize, right?)
 
@@ -665,7 +665,7 @@ you seem to be highly overrating mirrors.  they are nice, but do not give you 'f
 
 </div>
 
-<div class="post" data-post-id="4917" data-author="Driven" data-date="2005-03-09T15:55:17+00:00">
+<div class="post" data-post-id="4917" data-author="Driven" data-date="2005-03-09T15:55:17+00:00" data-subject="">
 
 I have never played a mage prime, but I'm quite intimate with running a caster prime and stabbing (last player agox - I run him at -10 +22).  Sure, mirrors don't always block hits... but most of the time they do.  I was not saying you remove all risk, but for the great majority of time your risk is gone.  I'm sure you could get nailed, but for that to happen, three things need to occur--
 
@@ -681,7 +681,7 @@ And again, caster primes should not be able to kill thief-type mobs as well as t
 
 </div>
 
-<div class="post" data-post-id="4919" data-author="Shadis" data-date="2005-03-09T16:16:56+00:00">
+<div class="post" data-post-id="4919" data-author="Shadis" data-date="2005-03-09T16:16:56+00:00" data-subject="">
 
 Driven said
 
@@ -715,7 +715,7 @@ you can stab anf flail
 
 </div>
 
-<div class="post" data-post-id="4921" data-author="Driven" data-date="2005-03-09T16:53:29+00:00">
+<div class="post" data-post-id="4921" data-author="Driven" data-date="2005-03-09T16:53:29+00:00" data-subject="">
 
 Seems I have put myself on the hotseat here.  Very well.  
 
@@ -727,7 +727,7 @@ To a certain degree, not all classes have a "type" of mob they can kill... there
 
 </div>
 
-<div class="post" data-post-id="4922" data-author="Alberich" data-date="2005-03-09T17:12:46+00:00">
+<div class="post" data-post-id="4922" data-author="Alberich" data-date="2005-03-09T17:12:46+00:00" data-subject="">
 
 i thought the point of the thread was - "it's silly mages cannot stab while mirrored'
 
@@ -737,7 +737,7 @@ that said - on a big mob, it really, really sucks having to make the choice of "
 
 </div>
 
-<div class="post" data-post-id="4925" data-author="Driven" data-date="2005-03-09T17:49:28+00:00">
+<div class="post" data-post-id="4925" data-author="Driven" data-date="2005-03-09T17:49:28+00:00" data-subject="">
 
 Big mobs... like 5 mil mobs that are stab 8x wind and do 200 hps per round kind of thing?  You're obviously not killing this type of mob for xp, but you would be killing it for equipment... right?  If you're killing it for equipment, then you do what you have to do to make that mob die.  You don't need mirrors during stab to ensure that this type of mob dies.
 
@@ -745,7 +745,7 @@ Ah ha... so if you prevent mirrors from being recast the same way aerial servant
 
 </div>
 
-<div class="post" data-post-id="4926" data-author="12345" data-date="2005-03-09T17:58:41+00:00">
+<div class="post" data-post-id="4926" data-author="12345" data-date="2005-03-09T17:58:41+00:00" data-subject="">
 
 You can use any arguement you want, I don't think mages are going to be beating down the doors to attack thief mobs.  There are far safer ways to make a living than hoping a big pissed off mob doesn't live through a weak stab and make a mess of your limited hps, mirrors or no.
 
@@ -773,7 +773,7 @@ Having 5 copies of someone sneaking around? Silly? Yes.  Unbalanced?  If you thi
 
 </div>
 
-<div class="post" data-post-id="4927" data-author="*Splork*" data-date="2005-03-09T18:02:46+00:00">
+<div class="post" data-post-id="4927" data-author="*Splork*" data-date="2005-03-09T18:02:46+00:00" data-subject="">
 
 Just to add more fuel to the fire, you can't use mirrors with deathtouch either :twisted: 
 
@@ -783,7 +783,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="4933" data-author="Falsra" data-date="2005-03-09T20:03:15+00:00">
+<div class="post" data-post-id="4933" data-author="Falsra" data-date="2005-03-09T20:03:15+00:00" data-subject="">
 
 Just to add more fuel to the fire, you can't use mirrors with deathtouch either [/quote:1emdf0zs]
 
@@ -809,7 +809,7 @@ i wish immorts agree with that either...
 
 </div>
 
-<div class="post" data-post-id="4946" data-author="Mustang" data-date="2005-03-10T03:34:21+00:00">
+<div class="post" data-post-id="4946" data-author="Mustang" data-date="2005-03-10T03:34:21+00:00" data-subject="">
 
 how is parry the "best prime-only skill"?
 
@@ -823,13 +823,13 @@ just my 2 cents
 
 </div>
 
-<div class="post" data-post-id="4951" data-author="Zam" data-date="2005-03-10T04:54:28+00:00">
+<div class="post" data-post-id="4951" data-author="Zam" data-date="2005-03-10T04:54:28+00:00" data-subject="">
 
 i wonder , where did alb find 24-35 dam :P
 
 </div>
 
-<div class="post" data-post-id="4959" data-author="Blastem" data-date="2005-03-10T15:59:30+00:00">
+<div class="post" data-post-id="4959" data-author="Blastem" data-date="2005-03-10T15:59:30+00:00" data-subject="">
 
 Hrmmm since mirrors are a exact duplicate of the mage wouldn't they be sneaking and invis when the mage was.. As far as it being a problem to sneak up on a mob with 5 of you there... wouldn't ya think the mob would notice a thief walking in to a dark room with a light and sanc glowing maybe even a spell shield.  I don't have thief in the classo so it doesn't affect me one way or another but I do think a delay on remirror after stab would be effective way to stop people from exploiting mirrors.   As for mages stealing thief mobs .... how many monks you see in mage areas lately  :twisted:  it's all part of the game and I think the more ways you can play your char the more fun you'll have and continue to play the char 
 
@@ -839,7 +839,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="4961" data-author="13" data-date="2005-03-10T16:17:33+00:00">
+<div class="post" data-post-id="4961" data-author="13" data-date="2005-03-10T16:17:33+00:00" data-subject="">
 
 we're not really arguing about what would be feasible are we ?
 
@@ -857,7 +857,7 @@ my two cents is free
 
 </div>
 
-<div class="post" data-post-id="4971" data-author="Eagle" data-date="2005-03-10T19:16:01+00:00">
+<div class="post" data-post-id="4971" data-author="Eagle" data-date="2005-03-10T19:16:01+00:00" data-subject="">
 
 the mud said:
 
@@ -875,13 +875,13 @@ Seriously, sounds like fun.
 
 </div>
 
-<div class="post" data-post-id="4975" data-author="Avatar" data-date="2005-03-10T21:07:04+00:00">
+<div class="post" data-post-id="4975" data-author="Avatar" data-date="2005-03-10T21:07:04+00:00" data-subject="Stab">
 
 Should be easier with more than one person in the room.  Don't you remember any quest group where the leader stops in a room to talk to a quest mob, trying to get some important hint, and the tank suddenly stabs the mob?  I'd say that golden dragon was distracted by the leader trying to pump him for info.
 
 </div>
 
-<div class="post" data-post-id="4987" data-author="Falsra" data-date="2005-03-11T08:26:15+00:00">
+<div class="post" data-post-id="4987" data-author="Falsra" data-date="2005-03-11T08:26:15+00:00" data-subject="">
 
 : Sneak around when there are more than one of you, seriously?! 
 
@@ -913,7 +913,7 @@ Just to taste. :) Like we have fargate and nocap days.
 
 </div>
 
-<div class="post" data-post-id="4988" data-author="Vixn" data-date="2005-03-11T08:52:14+00:00">
+<div class="post" data-post-id="4988" data-author="Vixn" data-date="2005-03-11T08:52:14+00:00" data-subject="">
 
 : 
 
@@ -933,7 +933,7 @@ Sorry for my french accent.. ;)
 
 </div>
 
-<div class="post" data-post-id="4996" data-author="Autolycos" data-date="2005-03-11T13:22:42+00:00">
+<div class="post" data-post-id="4996" data-author="Autolycos" data-date="2005-03-11T13:22:42+00:00" data-subject="">
 
 i have really enjoyed reading all of the posts on this thread,  we have such a intensly diverse playerbase, with so many great combo's that people have created.  and the fact of the things that the different variables that have been created,figured out, and shared.  makes much more fun for all of us.
 

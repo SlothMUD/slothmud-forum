@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="35436" data-author="Yasik" data-date="2014-09-13T18:21:59+00:00">
+<div class="post" data-post-id="35436" data-author="Yasik" data-date="2014-09-13T18:21:59+00:00" data-subject="Deathgrip / Recall">
 
 Hello!
 
@@ -134,7 +134,7 @@ You release your grip on a lich.
 
 </div>
 
-<div class="post" data-post-id="35437" data-author="Magi" data-date="2014-09-16T17:40:29+00:00">
+<div class="post" data-post-id="35437" data-author="Magi" data-date="2014-09-16T17:40:29+00:00" data-subject="Re: Deathgrip / Recall">
 
 Recalling, or using any other method of leaving the room, does release the grip, albeit with a small delay.  You cannot maintain a grip (dealing damage) on a creature that's in another room.  You'll always release it at the first opportunity.
 
@@ -152,7 +152,7 @@ tl;dr  Deathgrip's current implementation is fine
 
 </div>
 
-<div class="post" data-post-id="35438" data-author="DarkArtist" data-date="2014-09-17T19:44:22+00:00">
+<div class="post" data-post-id="35438" data-author="DarkArtist" data-date="2014-09-17T19:44:22+00:00" data-subject="Re: Deathgrip / Recall">
 
 It would be a simple matter to implement a check for deathgrip status everytime a pc teleport function is called. 
 
@@ -160,7 +160,7 @@ I think it fairly fits in the bug category.
 
 </div>
 
-<div class="post" data-post-id="35439" data-author="*Breeze*" data-date="2014-09-26T20:59:15+00:00">
+<div class="post" data-post-id="35439" data-author="*Breeze*" data-date="2014-09-26T20:59:15+00:00" data-subject="Re: Deathgrip / Recall">
 
 Bugs it. Someone will get to it eventually
 

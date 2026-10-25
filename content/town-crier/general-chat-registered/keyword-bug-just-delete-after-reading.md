@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33107" data-author="Tigris" data-date="2011-12-18T08:57:05+00:00">
+<div class="post" data-post-id="33107" data-author="Tigris" data-date="2011-12-18T08:57:05+00:00" data-subject="keyword bug....just delete after reading">
 
 Wasn't sure how to post this bug with the bugs command its sorta long.
 

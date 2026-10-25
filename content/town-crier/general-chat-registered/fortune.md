@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="30038" data-author="Thraxas" data-date="2009-09-24T22:02:27+00:00">
+<div class="post" data-post-id="30038" data-author="Thraxas" data-date="2009-09-24T22:02:27+00:00" data-subject="Fortune">
 
 when the imms cast god aegis you actually get 3 spells:
 
@@ -30,7 +30,7 @@ Is this true / commonly experienced or just my incorrect perception?
 
 </div>
 
-<div class="post" data-post-id="30039" data-author="*Splork*" data-date="2009-09-24T22:54:33+00:00">
+<div class="post" data-post-id="30039" data-author="*Splork*" data-date="2009-09-24T22:54:33+00:00" data-subject="">
 
 Your perception is grossly incorrect:)
 
@@ -40,7 +40,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30042" data-author="*juggleblood*" data-date="2009-09-25T00:52:23+00:00">
+<div class="post" data-post-id="30042" data-author="*juggleblood*" data-date="2009-09-25T00:52:23+00:00" data-subject="">
 
 I think different imms code their own bonuses. For example I just give everyone meat pies cuz I'm stingy like that.
 
@@ -48,7 +48,7 @@ Enea likes to give out fortune iirc.
 
 </div>
 
-<div class="post" data-post-id="30055" data-author="Thraxas" data-date="2009-09-26T22:35:31+00:00">
+<div class="post" data-post-id="30055" data-author="Thraxas" data-date="2009-09-26T22:35:31+00:00" data-subject="">
 
 I hear pets not responding could be a side effect of dark cloak ... can anyone confirm?
 
@@ -56,7 +56,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30057" data-author="Vixn" data-date="2009-09-27T10:19:57+00:00">
+<div class="post" data-post-id="30057" data-author="Vixn" data-date="2009-09-27T10:19:57+00:00" data-subject="">
 
 Either that or stalk or avatar th shadow cloak. If they can't see you they won't assist you. Same as shopkeepers won't sell you anything.
 
@@ -64,13 +64,13 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="30058" data-author="Dragoth" data-date="2009-09-27T11:48:41+00:00">
+<div class="post" data-post-id="30058" data-author="Dragoth" data-date="2009-09-27T11:48:41+00:00" data-subject="">
 
 I confirm Thraxas, it is indeed a side effect of dark cloak.
 
 </div>
 
-<div class="post" data-post-id="30060" data-author="Thraxas" data-date="2009-09-27T20:55:21+00:00">
+<div class="post" data-post-id="30060" data-author="Thraxas" data-date="2009-09-27T20:55:21+00:00" data-subject="">
 
 I confirm Thraxas, it is indeed a side effect of dark cloak.[/quote:2mu06v9h]
 

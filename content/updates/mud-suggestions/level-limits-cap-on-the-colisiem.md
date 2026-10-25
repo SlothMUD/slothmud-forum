@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="36040" data-author="cyprimus" data-date="2015-08-16T16:10:45+00:00">
+<div class="post" data-post-id="36040" data-author="cyprimus" data-date="2015-08-16T16:10:45+00:00" data-subject="level limits/cap on the colisiem">
 
 Seem to be ruining the game flow ... instead of leveling 40's ppl put them off to max pit score.. so you get ppl tha are 40/39/39/39/39 etc..
 
@@ -24,7 +24,7 @@ Well, waking up, will try and make a more clear post later.
 
 </div>
 
-<div class="post" data-post-id="36049" data-author="Belrath" data-date="2015-08-19T17:49:47+00:00">
+<div class="post" data-post-id="36049" data-author="Belrath" data-date="2015-08-19T17:49:47+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 Hello, my first-ever post here.
 
@@ -34,7 +34,7 @@ Just out of curiosity, how does that affect you in anyway if someone does that. 
 
 </div>
 
-<div class="post" data-post-id="36050" data-author="Belrath" data-date="2015-08-19T18:04:07+00:00">
+<div class="post" data-post-id="36050" data-author="Belrath" data-date="2015-08-19T18:04:07+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 Altho, I wouldn't give access to exp group if someone is 40 39 39 something. If they wanna make exp, go solo. Group needs support and support comes along with them 40's. 
 
@@ -44,7 +44,7 @@ Ofcourse groupleader in each group makes the decisions but that's just easy way 
 
 </div>
 
-<div class="post" data-post-id="36051" data-author="Yasik" data-date="2015-08-19T18:10:36+00:00">
+<div class="post" data-post-id="36051" data-author="Yasik" data-date="2015-08-19T18:10:36+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 Actually, this was introduced long ago, when Ozzy was 39/39/38 Wa/Cl trying to outpace damage-dealing classos in Coliseum-1, after negotiations with a person responsible for that part of code.
 
@@ -54,7 +54,7 @@ If you see 40/39/39/39 etc doing what they're doing, then probably they know abo
 
 </div>
 
-<div class="post" data-post-id="36052" data-author="Ker" data-date="2015-08-19T18:13:53+00:00">
+<div class="post" data-post-id="36052" data-author="Ker" data-date="2015-08-19T18:13:53+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 1) How does one who attains 40 39 39 39 39 39... "seem" to ruin game flow? 
 
@@ -68,7 +68,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36053" data-author="Belrath" data-date="2015-08-19T20:40:40+00:00">
+<div class="post" data-post-id="36053" data-author="Belrath" data-date="2015-08-19T20:40:40+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 Hmm, I'm probably wrong about the support thing. I was talking mostly on the 'feel' based thing. It 'feels' like some with alots of them 39 39 39 's is just getting easy xp. I have to think this through again, I might be wrong. No worries.
 
@@ -76,7 +76,7 @@ Hmm, I'm probably wrong about the support thing. I was talking mostly on the 'fe
 
 </div>
 
-<div class="post" data-post-id="36509" data-author="Teron" data-date="2016-01-18T15:53:41+00:00">
+<div class="post" data-post-id="36509" data-author="Teron" data-date="2016-01-18T15:53:41+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 I know this is an old post, but I've recently looked at how much exp you need to get to even 4x39 and it's astronomical: you need 850m only for the quad 39 level, 1.6bil for 5th 39 level and 2.4bil for 6th 39 levels alone. It's almost undoable quickly or easily w/o being a remort bonus.
 
@@ -88,7 +88,7 @@ It would be interesting to know the total level limit, though. Shouldn't limits 
 
 </div>
 
-<div class="post" data-post-id="36511" data-author="*juggleblood*" data-date="2016-01-18T19:14:34+00:00">
+<div class="post" data-post-id="36511" data-author="*juggleblood*" data-date="2016-01-18T19:14:34+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 I believe I removed all limits at the time of the last reset. I have not heard of anyone bumping against any limits.
 
@@ -98,7 +98,7 @@ I reject any argument that the coliseum ruins the mud by encouraging people not 
 
 </div>
 
-<div class="post" data-post-id="36512" data-author="Sam" data-date="2016-01-18T22:08:04+00:00">
+<div class="post" data-post-id="36512" data-author="Sam" data-date="2016-01-18T22:08:04+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 Hey JB,
 
@@ -108,13 +108,13 @@ As its very luck dependant and benefits mostly caster types at the moment with o
 
 </div>
 
-<div class="post" data-post-id="36513" data-author="*juggleblood*" data-date="2016-01-18T23:45:52+00:00">
+<div class="post" data-post-id="36513" data-author="*juggleblood*" data-date="2016-01-18T23:45:52+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 That was the change that leveled the playing field for casters. If you look at the top scorers you will see an even mix of classes. If we went back to full restores, non-casters would dominate again.
 
 </div>
 
-<div class="post" data-post-id="36514" data-author="Teron" data-date="2016-01-19T07:43:06+00:00">
+<div class="post" data-post-id="36514" data-author="Teron" data-date="2016-01-19T07:43:06+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 Maybe it's just me, but so far, casters dominate the field. Others merely mimic them by getting -saves gear and blasting, though some thieves/monks do get through.
 
@@ -128,7 +128,7 @@ Maybe there should be another solution to balance things out, rather than restor
 
 </div>
 
-<div class="post" data-post-id="36516" data-author="Ker" data-date="2016-01-19T10:13:24+00:00">
+<div class="post" data-post-id="36516" data-author="Ker" data-date="2016-01-19T10:13:24+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 When the coliseum was introduced, Non-casters raped it at ALL levels.
 
@@ -150,7 +150,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36518" data-author="Lekach" data-date="2016-01-19T10:48:26+00:00">
+<div class="post" data-post-id="36518" data-author="Lekach" data-date="2016-01-19T10:48:26+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 Hey Everyone! I am new here.
 
@@ -170,13 +170,13 @@ Tembikai
 
 </div>
 
-<div class="post" data-post-id="36519" data-author="Teron" data-date="2016-01-19T14:49:35+00:00">
+<div class="post" data-post-id="36519" data-author="Teron" data-date="2016-01-19T14:49:35+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 You just need to have in mind that Kirei put the same amount of effort as you did, so a 4 advantage over him at the top is pretty darn good.
 
 </div>
 
-<div class="post" data-post-id="36520" data-author="*juggleblood*" data-date="2016-01-19T17:15:45+00:00">
+<div class="post" data-post-id="36520" data-author="*juggleblood*" data-date="2016-01-19T17:15:45+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 It's not fair to call people's suggestions 'whining'. I can see where non-casters might find it unfair. But the results don't lie. There is a very diverse representation of classes when you look at the top scorers. This didn't used to be the case.  I think by restoring mana and not hp/mv we've come about as close to class parity as we will get without having to nerf second wind or the actions one can do while deathgripping.
 
@@ -188,7 +188,7 @@ There is another coliseum build on AH that could be flushed out and put in, and 
 
 </div>
 
-<div class="post" data-post-id="36523" data-author="Sam" data-date="2016-01-19T19:08:41+00:00">
+<div class="post" data-post-id="36523" data-author="Sam" data-date="2016-01-19T19:08:41+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 Yo,
 
@@ -200,7 +200,7 @@ Just remember that Josiah previously played druid prime Magi who owned coliseum 
 
 </div>
 
-<div class="post" data-post-id="36527" data-author="Josiah" data-date="2016-01-21T17:18:07+00:00">
+<div class="post" data-post-id="36527" data-author="Josiah" data-date="2016-01-21T17:18:07+00:00" data-subject="Re: level limits/cap on the colisiem">
 
 That's the beauty of slothmud's multiclass system.  If you believe a particular class has the advantage, you can BE that class.  Magi pretended to be a mage in order to get those high scores, and we all know Josiah wouldn't be caught dead wearing traditional warrior equipment.
 

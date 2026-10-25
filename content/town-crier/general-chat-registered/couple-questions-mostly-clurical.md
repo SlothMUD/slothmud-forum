@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26836" data-author="Assirian" data-date="2008-10-24T18:02:01+00:00">
+<div class="post" data-post-id="26836" data-author="Assirian" data-date="2008-10-24T18:02:01+00:00" data-subject="couple questions (mostly clurical)">
 
 1. As i know, the message from succesfull damnation was gagged.. 
 

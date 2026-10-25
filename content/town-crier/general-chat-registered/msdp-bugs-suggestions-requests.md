@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="34487" data-author="Tuck" data-date="2013-10-11T20:25:50+00:00">
+<div class="post" data-post-id="34487" data-author="Tuck" data-date="2013-10-11T20:25:50+00:00" data-subject="MSDP: bugs, suggestions, requests.">
 
 Yo,
 
@@ -133,19 +133,19 @@ your tukster.
 
 </div>
 
-<div class="post" data-post-id="34488" data-author="Tuck" data-date="2013-10-11T21:32:25+00:00">
+<div class="post" data-post-id="34488" data-author="Tuck" data-date="2013-10-11T21:32:25+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
 Thanks Akaya for pointing me to @MSDP.ROOM_EXITS unofficial variable :)
 
 </div>
 
-<div class="post" data-post-id="34490" data-author="*Splork*" data-date="2013-10-12T00:50:52+00:00">
+<div class="post" data-post-id="34490" data-author="*Splork*" data-date="2013-10-12T00:50:52+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
 The room_exits odd character is actually not a bug but we should probably try to replace it with a comma or something else.
 
 </div>
 
-<div class="post" data-post-id="34491" data-author="Tuck" data-date="2013-10-12T01:21:48+00:00">
+<div class="post" data-post-id="34491" data-author="Tuck" data-date="2013-10-12T01:21:48+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
 > ***Splork* wrote:**
 > The room_exits odd character is actually not a bug but we should probably try to replace it with a comma or something else.
@@ -156,19 +156,19 @@ what about other things, rickster?
 
 </div>
 
-<div class="post" data-post-id="34492" data-author="*Splork*" data-date="2013-10-12T01:25:50+00:00">
+<div class="post" data-post-id="34492" data-author="*Splork*" data-date="2013-10-12T01:25:50+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
 Ill look into the other things.
 
 </div>
 
-<div class="post" data-post-id="34493" data-author="Tuck" data-date="2013-10-12T10:45:34+00:00">
+<div class="post" data-post-id="34493" data-author="Tuck" data-date="2013-10-12T10:45:34+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
 thank you, thank you, thank you
 
 </div>
 
-<div class="post" data-post-id="34507" data-author="dimiric" data-date="2013-10-23T15:23:35+00:00">
+<div class="post" data-post-id="34507" data-author="dimiric" data-date="2013-10-23T15:23:35+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
 I second these requests!  ;-)  as you can see from my other post.
 
@@ -190,7 +190,7 @@ I'd also like to get something working with the mapper in mudlet, but I haven't 
 
 </div>
 
-<div class="post" data-post-id="34514" data-author="Tuck" data-date="2013-10-25T15:36:52+00:00">
+<div class="post" data-post-id="34514" data-author="Tuck" data-date="2013-10-25T15:36:52+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
 > **dimiric wrote:**
 > I second these requests!  ;-)  as you can see from my other post.
@@ -221,13 +221,13 @@ You can write parser for your client for this things easily.
 
 </div>
 
-<div class="post" data-post-id="34516" data-author="Dragoth" data-date="2013-10-26T08:09:29+00:00">
+<div class="post" data-post-id="34516" data-author="Dragoth" data-date="2013-10-26T08:09:29+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
 If possible, please add msdp var for Aerial Servant hp %, very helpful for clerics.
 
 </div>
 
-<div class="post" data-post-id="35393" data-author="Filk" data-date="2014-07-18T09:21:34+00:00">
+<div class="post" data-post-id="35393" data-author="Filk" data-date="2014-07-18T09:21:34+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
 Bump.
 

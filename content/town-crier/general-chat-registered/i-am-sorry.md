@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="7050" data-author="Shyla" data-date="2005-06-10T20:45:37+00:00">
+<div class="post" data-post-id="7050" data-author="Shyla" data-date="2005-06-10T20:45:37+00:00" data-subject="I am sorry">
 
 For anyone on today when I lost it, I am sorry for my outburst today.
 
@@ -26,7 +26,7 @@ shyla/Jacinda
 
 </div>
 
-<div class="post" data-post-id="7051" data-author="Leaf" data-date="2005-06-10T20:57:26+00:00">
+<div class="post" data-post-id="7051" data-author="Leaf" data-date="2005-06-10T20:57:26+00:00" data-subject="">
 
 Shyla,
 

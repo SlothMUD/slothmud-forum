@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="37414" data-author="*juggleblood*" data-date="2016-10-19T20:57:34+00:00">
+<div class="post" data-post-id="37414" data-author="*juggleblood*" data-date="2016-10-19T20:57:34+00:00" data-subject="Tokens, Token Auction">
 
 If the token auction is lagging the game, then I suggest we remove it.  Since tokens are not as rare as they once were, the token auction has become a holding place where people can hoard them rent free.
 
@@ -20,7 +20,7 @@ The auction isn't going to work out for tokens. It's always just going to be abu
 
 </div>
 
-<div class="post" data-post-id="37417" data-author="Gorka" data-date="2016-10-19T21:26:37+00:00">
+<div class="post" data-post-id="37417" data-author="Gorka" data-date="2016-10-19T21:26:37+00:00" data-subject="Re: Tokens, Token Auction">
 
 I can't help but giggle, because to some degree JB's coliseum has caused the oversupply of tokens. Popping tokens is not the aim of those running the coliseum, they are a by product of servicing ourselves and other players with the other "crack" that pops there, and I am one of the biggest abusers of using the token auction as my own 200 slot token vault... 
 
@@ -32,7 +32,7 @@ I also feel tokens should have there rent value adjusted, so people can easier r
 
 </div>
 
-<div class="post" data-post-id="37418" data-author="*juggleblood*" data-date="2016-10-19T21:53:15+00:00">
+<div class="post" data-post-id="37418" data-author="*juggleblood*" data-date="2016-10-19T21:53:15+00:00" data-subject="Re: Tokens, Token Auction">
 
 Well yes, I am not blind to the irony.
 
@@ -44,7 +44,7 @@ That's why I'm just in favor of keeping the hexes loading in the pits like they 
 
 </div>
 
-<div class="post" data-post-id="37419" data-author="cyprimus" data-date="2016-10-20T02:40:17+00:00">
+<div class="post" data-post-id="37419" data-author="cyprimus" data-date="2016-10-20T02:40:17+00:00" data-subject="Re: Tokens, Token Auction">
 
 good idea!
 
@@ -54,7 +54,7 @@ Congratulation! you are our one millionth token you gain 1 drac!
 
 </div>
 
-<div class="post" data-post-id="37421" data-author="Filk" data-date="2016-10-20T08:41:23+00:00">
+<div class="post" data-post-id="37421" data-author="Filk" data-date="2016-10-20T08:41:23+00:00" data-subject="Re: Tokens, Token Auction">
 
 Just add unreturnable percent fee, like each other auction system has. Shrugs
 

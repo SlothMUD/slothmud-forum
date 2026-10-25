@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38531" data-author="*teker*" data-date="2017-12-12T00:10:45+00:00">
+<div class="post" data-post-id="38531" data-author="*teker*" data-date="2017-12-12T00:10:45+00:00" data-subject="Changelog 2017-12-02 - Post office changes">
 
 First I want to remind everyone that the post office has issues with the Jan 1 rollover so everyone should be checking and receiving their packages before Jan 1.
 
@@ -34,7 +34,7 @@ I also rewrote the "cool down" counter for aerial servant and mirror image as it
 
 </div>
 
-<div class="post" data-post-id="38540" data-author="*teker*" data-date="2017-12-14T21:34:32+00:00">
+<div class="post" data-post-id="38540" data-author="*teker*" data-date="2017-12-14T21:34:32+00:00" data-subject="Re: Changelog 2017-12-02 - Post office changes">
 
 I've received a couple bugs regarding restrung items not showing up correctly - I'm working on it and should have a fix in a few days.  People will most likely notice this with gems.
 

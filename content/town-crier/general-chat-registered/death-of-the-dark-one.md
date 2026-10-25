@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="18090" data-author="Malison" data-date="2007-04-21T04:27:20+00:00">
+<div class="post" data-post-id="18090" data-author="Malison" data-date="2007-04-21T04:27:20+00:00" data-subject="death of the dark one">
 
 This evening, the Dark One, Satan, got a bit uppity.  It seems he stole a grenade from someone and thought as the leader of all evil he could bluster around a bit.  For quite some time, most mortals ignored him in typical fashion.
 
@@ -26,7 +26,7 @@ But nearly an hour later, Ender reclaimed the grenade, surely believing that suc
 
 </div>
 
-<div class="post" data-post-id="18092" data-author="Akasha" data-date="2007-04-21T05:25:57+00:00">
+<div class="post" data-post-id="18092" data-author="Akasha" data-date="2007-04-21T05:25:57+00:00" data-subject="">
 
 Interesting and enjoyable read...  bravo
 

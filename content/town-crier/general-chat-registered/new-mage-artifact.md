@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39214" data-author="Gorka" data-date="2019-06-10T21:47:04+00:00">
+<div class="post" data-post-id="39214" data-author="Gorka" data-date="2019-06-10T21:47:04+00:00" data-subject="New Mage Artifact">
 
 Talk to the mage in Port of the Crescent Moon about the actual forge.
 
@@ -218,7 +218,7 @@ You look at the gauntlets of elemental fury and, feeling
 
 </div>
 
-<div class="post" data-post-id="39215" data-author="Driven" data-date="2019-06-11T02:43:37+00:00">
+<div class="post" data-post-id="39215" data-author="Driven" data-date="2019-06-11T02:43:37+00:00" data-subject="Re: New Mage Artifact">
 
 So these are caster centric, unlike the first artifact.  The gauntlets store up energy as you cast spells (acid blast, disint, thunder clap, firewind, or frostbolt).  The bigger the mob you are casting against, the more energy is stored.  To find out how much energy you have stored up against a given mob, type 'touch <mobname>'.  Once the gauntlets store up enough energy, you can 'grab <mobname>', and the energy will be released in an elemental attack.  The gauntlets gain xp each time you perform this elemental attack.
 
@@ -230,7 +230,7 @@ Happy hunting!
 
 </div>
 
-<div class="post" data-post-id="39216" data-author="Gorka" data-date="2019-06-11T07:00:06+00:00">
+<div class="post" data-post-id="39216" data-author="Gorka" data-date="2019-06-11T07:00:06+00:00" data-subject="Re: New Mage Artifact">
 
 It seems that the energy counters don't increase when the procs from the sphairai fire, only when the player actually casts a spell do the counters increase. I'm not sure this is by design or an oversight. Obviously making it so it did would increase the usefulness for everyone. Without that, I doubt I could gain a level with this artifact in 6 months with the amount of blasting I do... I purposefully and actively avoid blasting because of my ma regen.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32403" data-author="Thraxas" data-date="2011-02-07T23:58:30+00:00">
+<div class="post" data-post-id="32403" data-author="Thraxas" data-date="2011-02-07T23:58:30+00:00" data-subject="Silvery Blue Pearl Rune">
 
 Thought you meant this one Isabo:
 
@@ -27,13 +27,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="32405" data-author="jezer" data-date="2011-02-08T10:51:35+00:00">
+<div class="post" data-post-id="32405" data-author="jezer" data-date="2011-02-08T10:51:35+00:00" data-subject="Re: Silvery Blue Pearl Rune">
 
 What way is this rune fixed? Is my hand dam now circle dam?
 
 </div>
 
-<div class="post" data-post-id="32407" data-author="*Breeze*" data-date="2011-02-08T15:15:54+00:00">
+<div class="post" data-post-id="32407" data-author="*Breeze*" data-date="2011-02-08T15:15:54+00:00" data-subject="Re: Silvery Blue Pearl Rune">
 
 this rune is not fixed but it needs to be..
 

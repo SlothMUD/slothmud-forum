@@ -10,7 +10,7 @@ locked: false
 post_count: 175
 ---
 
-<div class="post" data-post-id="18528" data-author="Weasel" data-date="2007-05-18T05:15:15+00:00">
+<div class="post" data-post-id="18528" data-author="Weasel" data-date="2007-05-18T05:15:15+00:00" data-subject="some new crackma eq would be nice">
 
 Some new crackma eq would be nice, particularly for warriors.. most of the higher level stuff seems to be for other classos, for warriors the main items are:
 
@@ -42,13 +42,13 @@ Would really appreciate some coders at least considering updating crackma eq. Th
 
 </div>
 
-<div class="post" data-post-id="18529" data-author="Weasel" data-date="2007-05-18T05:37:10+00:00">
+<div class="post" data-post-id="18529" data-author="Weasel" data-date="2007-05-18T05:37:10+00:00" data-subject="">
 
 Oh, and Trista has the boots of arcane lore (-0.4 +35hp) for 900 crackma.. for many tanks that's actually 0.1ac in the wrong direction when compared to a number of -0.5ac boots that pop ingame with additional effects like resist fire/cold or kickdam or 1HPRegen.. and next to mosaic boots, you're paying 900 crackma to add 20hp to yourself.. what can I say.. it's like shopping on 5th Ave.. if you have a hundred thousand crackma, sure, why not.. as for the rest of us living in reality... ( O)(o )
 
 </div>
 
-<div class="post" data-post-id="18531" data-author="Autolycos" data-date="2007-05-18T12:39:06+00:00">
+<div class="post" data-post-id="18531" data-author="Autolycos" data-date="2007-05-18T12:39:06+00:00" data-subject="">
 
 I wouldn't mind seeing a bit of elite thiefy eqs as well.  Sure there are a lot of nice things... oh wait.. nevermind only 2-3  :shock: 
 
@@ -58,7 +58,7 @@ maybe even body armor alts for the odd classo thiefs etc.
 
 </div>
 
-<div class="post" data-post-id="18533" data-author="13" data-date="2007-05-18T12:58:17+00:00">
+<div class="post" data-post-id="18533" data-author="13" data-date="2007-05-18T12:58:17+00:00" data-subject="">
 
 most of the drachma eq is junk
 
@@ -70,13 +70,13 @@ if there is gonna be monk damage in there, there needs to be real damage in ther
 
 </div>
 
-<div class="post" data-post-id="18534" data-author="*juggleblood*" data-date="2007-05-18T13:19:48+00:00">
+<div class="post" data-post-id="18534" data-author="*juggleblood*" data-date="2007-05-18T13:19:48+00:00" data-subject="">
 
 I think this is the first rant thread since the pthief issue. It's gotta be a new record.
 
 </div>
 
-<div class="post" data-post-id="18535" data-author="*Krom*" data-date="2007-05-18T13:23:40+00:00">
+<div class="post" data-post-id="18535" data-author="*Krom*" data-date="2007-05-18T13:23:40+00:00" data-subject="">
 
 I have been reviewing the drachma eq for a while, and the cost of the items vs. what they give over ingame eq at the level you could afford the item with drachma is not very consistant. I had decided to adjust some items a while back, but then got hung up on how much drachma could be obtained ingame through autoquests as a proportion to how much you should be able to afford.  
 
@@ -92,13 +92,13 @@ Krom
 
 </div>
 
-<div class="post" data-post-id="18536" data-author="Autolycos" data-date="2007-05-18T14:06:52+00:00">
+<div class="post" data-post-id="18536" data-author="Autolycos" data-date="2007-05-18T14:06:52+00:00" data-subject="">
 
 fantastic!  8)
 
 </div>
 
-<div class="post" data-post-id="18537" data-author="Leaf" data-date="2007-05-18T14:59:04+00:00">
+<div class="post" data-post-id="18537" data-author="Leaf" data-date="2007-05-18T14:59:04+00:00" data-subject="">
 
 Thats sweet Krom.
 
@@ -110,13 +110,13 @@ would be nice.
 
 </div>
 
-<div class="post" data-post-id="18543" data-author="Weasel" data-date="2007-05-19T07:35:21+00:00">
+<div class="post" data-post-id="18543" data-author="Weasel" data-date="2007-05-19T07:35:21+00:00" data-subject="">
 
 Cheers, much appreciated :)
 
 </div>
 
-<div class="post" data-post-id="18544" data-author="Mosaix" data-date="2007-05-19T13:09:06+00:00">
+<div class="post" data-post-id="18544" data-author="Mosaix" data-date="2007-05-19T13:09:06+00:00" data-subject="">
 
 I appreciate you looking into this Krom.
 
@@ -132,7 +132,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="18545" data-author="brady" data-date="2007-05-19T13:35:34+00:00">
+<div class="post" data-post-id="18545" data-author="brady" data-date="2007-05-19T13:35:34+00:00" data-subject="">
 
 The mud as a whole lacks good mana boots.  There is next to no quest eq for mana foot wear(do an eq search for fun).  Perhaps 10ma 5heal +3hit, or 10ma 1ma regen, or something like that.
 
@@ -142,7 +142,7 @@ or spell bonus...he's so selfish.
 
 </div>
 
-<div class="post" data-post-id="18546" data-author="Mosaix" data-date="2007-05-19T16:03:20+00:00">
+<div class="post" data-post-id="18546" data-author="Mosaix" data-date="2007-05-19T16:03:20+00:00" data-subject="">
 
 Hey of course spell bonus :) make up a suggestion for mages then :)
 
@@ -150,7 +150,7 @@ brady boots +10ma +70spelldam +1ma regen :)
 
 </div>
 
-<div class="post" data-post-id="18547" data-author="Autolycos" data-date="2007-05-19T16:26:26+00:00">
+<div class="post" data-post-id="18547" data-author="Autolycos" data-date="2007-05-19T16:26:26+00:00" data-subject="">
 
 brady boots +10ma +70spelldam +1ma regen :)[/quote:2gpech1k]
 
@@ -160,13 +160,13 @@ embossed with the mug shot of Rosa Parks   :twisted:
 
 </div>
 
-<div class="post" data-post-id="18548" data-author="13" data-date="2007-05-19T16:38:22+00:00">
+<div class="post" data-post-id="18548" data-author="13" data-date="2007-05-19T16:38:22+00:00" data-subject="">
 
 Good to hear Krom.   I'm pretty sure you can get around 300dr at level 10 and probably another 100 at 20prime.  I haven't calculated any further than that specifically but you might talk to Lis or Truth, they have a pretty good knowledge of autos and ingame drachma.
 
 </div>
 
-<div class="post" data-post-id="18550" data-author="Mosaix" data-date="2007-05-19T17:06:27+00:00">
+<div class="post" data-post-id="18550" data-author="Mosaix" data-date="2007-05-19T17:06:27+00:00" data-subject="">
 
 getting a level 20 to 300-400 drachma might be possible id have to go through my notes.
 
@@ -180,7 +180,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="18553" data-author="Messiaen" data-date="2007-05-20T12:04:57+00:00">
+<div class="post" data-post-id="18553" data-author="Messiaen" data-date="2007-05-20T12:04:57+00:00" data-subject="">
 
 It all depends on how much drachma eq players are supposed to have. I think some pieces sold for 1200+ drachma are all right, cause not that everybody should get high elite pieces.
 
@@ -188,7 +188,7 @@ Though, there is alot of useless eq that is worse than ingame going for 666+ dra
 
 </div>
 
-<div class="post" data-post-id="18554" data-author="Hades" data-date="2007-05-20T14:09:10+00:00">
+<div class="post" data-post-id="18554" data-author="Hades" data-date="2007-05-20T14:09:10+00:00" data-subject="drachma">
 
 Umm.. you can get over 400 drachma at level 8 if you do the autoquest that allow it.  Last count I believe it was 420 but it might be even more now.  And that's NOT using the drachma cheat before anyone decides to spam me.  There are several quest cheat sheets floating around in emails if you know who to ask.
 
@@ -200,7 +200,7 @@ Got it!
 
 </div>
 
-<div class="post" data-post-id="18556" data-author="13" data-date="2007-05-20T14:58:53+00:00">
+<div class="post" data-post-id="18556" data-author="13" data-date="2007-05-20T14:58:53+00:00" data-subject="">
 
 the only cool thing over 1200 are the margn boots
 
@@ -208,7 +208,7 @@ that shawl is crap for the extra 1k drachma
 
 </div>
 
-<div class="post" data-post-id="18558" data-author="Messiaen" data-date="2007-05-20T20:35:35+00:00">
+<div class="post" data-post-id="18558" data-author="Messiaen" data-date="2007-05-20T20:35:35+00:00" data-subject="">
 
 How about some icy guards?
 
@@ -216,7 +216,7 @@ How much do relic and that 1.3 +dex +2uc mask cost anyway?
 
 </div>
 
-<div class="post" data-post-id="18559" data-author="brady" data-date="2007-05-20T21:08:10+00:00">
+<div class="post" data-post-id="18559" data-author="brady" data-date="2007-05-20T21:08:10+00:00" data-subject="">
 
 How about some icy guards?
 
@@ -228,7 +228,7 @@ I think the relice was around 950.  No idea how much the mask costs.
 
 </div>
 
-<div class="post" data-post-id="18562" data-author="Jag" data-date="2007-05-21T00:59:18+00:00">
+<div class="post" data-post-id="18562" data-author="Jag" data-date="2007-05-21T00:59:18+00:00" data-subject="">
 
 I think the drachma estimates posted so far, are pretty far off for the average player.  I don't know how you guys can get that much drachma.  (Feel free to send me tells with lists of what I'm missing :)
 
@@ -242,7 +242,7 @@ Thanks Krom for looking at drachma situation!  The game just gets better all the
 
 </div>
 
-<div class="post" data-post-id="18564" data-author="Weasel" data-date="2007-05-21T03:22:07+00:00">
+<div class="post" data-post-id="18564" data-author="Weasel" data-date="2007-05-21T03:22:07+00:00" data-subject="">
 
 Anyone, please feel free to add details of autoquests to this thread:
 
@@ -254,7 +254,7 @@ Note the format used - just advise the initial quest mob and what is offered for
 
 </div>
 
-<div class="post" data-post-id="18568" data-author="Messiaen" data-date="2007-05-21T10:39:05+00:00">
+<div class="post" data-post-id="18568" data-author="Messiaen" data-date="2007-05-21T10:39:05+00:00" data-subject="">
 
 I think the drachma estimates posted so far, are pretty far off for the average player. [/quote:3l1m1bgu]
 
@@ -272,13 +272,13 @@ As a professional mage (*wink*) I think that drachma stuff is quite balanced. Th
 
 </div>
 
-<div class="post" data-post-id="18570" data-author="13" data-date="2007-05-21T12:47:47+00:00">
+<div class="post" data-post-id="18570" data-author="13" data-date="2007-05-21T12:47:47+00:00" data-subject="">
 
 You have to realize that the the thief stuff there is pretty silly too.  People won't give up good regular ingame dmg for something as paltry as stabdmg and/or circledmg, especially when you can just purchase it with XP tokens.
 
 </div>
 
-<div class="post" data-post-id="18572" data-author="Autolycos" data-date="2007-05-21T12:49:28+00:00">
+<div class="post" data-post-id="18572" data-author="Autolycos" data-date="2007-05-21T12:49:28+00:00" data-subject="">
 
 I think the drachma estimates posted so far, are pretty far off for the average player. [/quote:2tlgc652]
 
@@ -302,13 +302,13 @@ so to all those who think prices are unfair, get up off your butt and work harde
 
 </div>
 
-<div class="post" data-post-id="18573" data-author="13" data-date="2007-05-21T13:26:15+00:00">
+<div class="post" data-post-id="18573" data-author="13" data-date="2007-05-21T13:26:15+00:00" data-subject="">
 
 I wasn't saying exactly that prices are unfair, just that the eq is pretty sucky in general.  But I guess any price for sucky eq is too high.  I would say use the robes as a good benchmark for pricing.  They are the standard shit that everyone gets at least one of.
 
 </div>
 
-<div class="post" data-post-id="18574" data-author="*Splork*" data-date="2007-05-21T13:27:46+00:00">
+<div class="post" data-post-id="18574" data-author="*Splork*" data-date="2007-05-21T13:27:46+00:00" data-subject="">
 
 The robes are a perfect example of an item marked way too low 13.
 
@@ -316,7 +316,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="18575" data-author="Avatar" data-date="2007-05-21T13:59:03+00:00">
+<div class="post" data-post-id="18575" data-author="Avatar" data-date="2007-05-21T13:59:03+00:00" data-subject="Drachma">
 
 I don't think there's anything wrong with having some cheap robes in there.  The robes are nice because there's enough variety, everyone can find some robe that they like.
 
@@ -326,7 +326,7 @@ Most casters will never get to choose an actual quest item during a quest, so dr
 
 </div>
 
-<div class="post" data-post-id="18577" data-author="*Splork*" data-date="2007-05-21T14:46:47+00:00">
+<div class="post" data-post-id="18577" data-author="*Splork*" data-date="2007-05-21T14:46:47+00:00" data-subject="">
 
 There is nothing wrong with having cheaper robes in the drachma shops. But an item that is max AC and takes up 1/4 or 1/3 of a players spell or heal bonus cap for close to nothing was a mistake:) 
 
@@ -340,7 +340,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="18578" data-author="Leaf" data-date="2007-05-21T15:37:10+00:00">
+<div class="post" data-post-id="18578" data-author="Leaf" data-date="2007-05-21T15:37:10+00:00" data-subject="">
 
 Building drachma eq would be sweet as hell and unquie to everyone.
 
@@ -356,7 +356,7 @@ building Dam on eq!  Well a Dam on Shield would be nice, Spiked Shield!
 
 </div>
 
-<div class="post" data-post-id="18579" data-author="13" data-date="2007-05-21T16:01:39+00:00">
+<div class="post" data-post-id="18579" data-author="13" data-date="2007-05-21T16:01:39+00:00" data-subject="">
 
 [quote:2fmrrsii]Eventually I would like to see players able to build their own items. They would select a location, the affects, stats, name, etc and the weaver would build them their item. [/quote:2fmrrsii]
 
@@ -364,7 +364,7 @@ Fucking A!
 
 </div>
 
-<div class="post" data-post-id="18580" data-author="Autolycos" data-date="2007-05-21T16:10:13+00:00">
+<div class="post" data-post-id="18580" data-author="Autolycos" data-date="2007-05-21T16:10:13+00:00" data-subject="">
 
 yeah... i can see it now..
 
@@ -380,25 +380,25 @@ Quality costumer service!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="18581" data-author="12345" data-date="2007-05-21T21:06:59+00:00">
+<div class="post" data-post-id="18581" data-author="12345" data-date="2007-05-21T21:06:59+00:00" data-subject="">
 
 Hmm. I have code that's designed to do exactly that...  Not geared for Sloth though.
 
 </div>
 
-<div class="post" data-post-id="18582" data-author="Kong" data-date="2007-05-21T22:37:43+00:00">
+<div class="post" data-post-id="18582" data-author="Kong" data-date="2007-05-21T22:37:43+00:00" data-subject="">
 
 Hey messian im a professional monkey, wheres my elitist eq? stfu
 
 </div>
 
-<div class="post" data-post-id="18583" data-author="Weasel" data-date="2007-05-21T23:58:04+00:00">
+<div class="post" data-post-id="18583" data-author="Weasel" data-date="2007-05-21T23:58:04+00:00" data-subject="">
 
 do they haz a corm?
 
 </div>
 
-<div class="post" data-post-id="18586" data-author="Autolycos" data-date="2007-05-22T12:36:52+00:00">
+<div class="post" data-post-id="18586" data-author="Autolycos" data-date="2007-05-22T12:36:52+00:00" data-subject="">
 
 Weasel is using...
 
@@ -406,7 +406,7 @@ Weasel is using...
 
 </div>
 
-<div class="post" data-post-id="18604" data-author="Thraxas" data-date="2007-05-23T13:26:14+00:00">
+<div class="post" data-post-id="18604" data-author="Thraxas" data-date="2007-05-23T13:26:14+00:00" data-subject="">
 
 an item that is max AC and takes up 1/4 or 1/3 of a players spell or heal bonus cap for close to nothing was a mistake:)[/quote:msg7zyxm]
 
@@ -440,7 +440,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="18605" data-author="Leaf" data-date="2007-05-23T13:44:16+00:00">
+<div class="post" data-post-id="18605" data-author="Leaf" data-date="2007-05-23T13:44:16+00:00" data-subject="">
 
 I like the idea of using in-game eq and personalize it with drachma stats.
 
@@ -458,7 +458,7 @@ stats.
 
 </div>
 
-<div class="post" data-post-id="18606" data-author="Mosaix" data-date="2007-05-23T14:11:26+00:00">
+<div class="post" data-post-id="18606" data-author="Mosaix" data-date="2007-05-23T14:11:26+00:00" data-subject="">
 
 Drachma robes....
 
@@ -476,7 +476,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="18607" data-author="13" data-date="2007-05-23T15:48:19+00:00">
+<div class="post" data-post-id="18607" data-author="13" data-date="2007-05-23T15:48:19+00:00" data-subject="">
 
 dmg reduction robe
 
@@ -496,7 +496,7 @@ just include the one they focus on
 
 </div>
 
-<div class="post" data-post-id="18614" data-author="Roadrunr" data-date="2007-05-24T04:14:23+00:00">
+<div class="post" data-post-id="18614" data-author="Roadrunr" data-date="2007-05-24T04:14:23+00:00" data-subject="">
 
 waaah!
 
@@ -506,25 +506,25 @@ instead of trying to get nerfs for others, maybe you ought to be trying to make 
 
 </div>
 
-<div class="post" data-post-id="18615" data-author="Weasel" data-date="2007-05-24T08:15:36+00:00">
+<div class="post" data-post-id="18615" data-author="Weasel" data-date="2007-05-24T08:15:36+00:00" data-subject="">
 
 Nods.. 6+ years and I just got my first ever piece of quest eq, and that was because of random throw, not because I was 1.tank. The amount of times I've died and shocked because I'm tanking.. too many to count.
 
 </div>
 
-<div class="post" data-post-id="18616" data-author="Hades" data-date="2007-05-24T10:34:57+00:00">
+<div class="post" data-post-id="18616" data-author="Hades" data-date="2007-05-24T10:34:57+00:00" data-subject="6 years x 17 bodyslots + &quot;x&quot; amount of quests">
 
 You've been slacking furboy :twisted:
 
 </div>
 
-<div class="post" data-post-id="18625" data-author="Weasel" data-date="2007-05-24T22:41:02+00:00">
+<div class="post" data-post-id="18625" data-author="Weasel" data-date="2007-05-24T22:41:02+00:00" data-subject="">
 
 fear me.
 
 </div>
 
-<div class="post" data-post-id="18626" data-author="Mosaix" data-date="2007-05-25T02:28:05+00:00">
+<div class="post" data-post-id="18626" data-author="Mosaix" data-date="2007-05-25T02:28:05+00:00" data-subject="">
 
 I dissapointed in your response roadrunner.  Id think a seasoned player would be able to process thoughts and ideas better than you attempted to.
 
@@ -540,7 +540,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="18627" data-author="12345" data-date="2007-05-25T02:49:07+00:00">
+<div class="post" data-post-id="18627" data-author="12345" data-date="2007-05-25T02:49:07+00:00" data-subject="">
 
 Not to be over critical Mosaix, but you have offered your own solution a couple times.  If the leader and the tank are the ones that get the eq, why not lead?  Leader isn't a classo specific job.  I would hazard that after 13 years you know the game pretty well.
 
@@ -550,7 +550,7 @@ That's all I have to say about that.
 
 </div>
 
-<div class="post" data-post-id="18628" data-author="Weasel" data-date="2007-05-25T05:56:59+00:00">
+<div class="post" data-post-id="18628" data-author="Weasel" data-date="2007-05-25T05:56:59+00:00" data-subject="">
 
 I offer the following on quest eq: I have no freaking idea. 
 
@@ -560,13 +560,13 @@ LOL good on ya, Forrest Gump.  :D
 
 </div>
 
-<div class="post" data-post-id="18629" data-author="Avatar" data-date="2007-05-25T12:37:37+00:00">
+<div class="post" data-post-id="18629" data-author="Avatar" data-date="2007-05-25T12:37:37+00:00" data-subject="Yo">
 
 I say, wipe all the quest eq and reward only drachma.
 
 </div>
 
-<div class="post" data-post-id="18630" data-author="Autolycos" data-date="2007-05-25T12:46:13+00:00">
+<div class="post" data-post-id="18630" data-author="Autolycos" data-date="2007-05-25T12:46:13+00:00" data-subject="">
 
 I say, wipe all the quest eq and reward only drachma. [/quote:iuu2uwmq]
 
@@ -584,7 +584,7 @@ All i was trying to say in this thread was the drachma robes that were caster re
 
 </div>
 
-<div class="post" data-post-id="18632" data-author="Gimlet" data-date="2007-05-25T14:26:34+00:00">
+<div class="post" data-post-id="18632" data-author="Gimlet" data-date="2007-05-25T14:26:34+00:00" data-subject="">
 
 Mosaix has a point about quest eq only going to leaders/tanks, etc.
 
@@ -598,7 +598,7 @@ just my 2 cents
 
 </div>
 
-<div class="post" data-post-id="18634" data-author="Autolycos" data-date="2007-05-25T14:46:55+00:00">
+<div class="post" data-post-id="18634" data-author="Autolycos" data-date="2007-05-25T14:46:55+00:00" data-subject="">
 
 you could be on the right track tho Al... 
 
@@ -608,7 +608,7 @@ That would at least start a balance of sorts..  This could be worth looking into
 
 </div>
 
-<div class="post" data-post-id="18635" data-author="Maniac" data-date="2007-05-25T14:58:20+00:00">
+<div class="post" data-post-id="18635" data-author="Maniac" data-date="2007-05-25T14:58:20+00:00" data-subject="">
 
 One way to implement Gimlet's idea is to make the end-of-quest mobs (typically the mobs who tell the players where to go, what to do, etc) vendors with the quest eq sold for drachma.  The "reward" for each quest would be drachma, and then each player that participated in the quest has the option of buying from the vendor at the end of each quest.  I would probably setup the vendor such that buying form him would teleport you out of the room for good, so you can only buy 1 item from him.  This way each person can enter the quest with the knowledge that they may get something that is unique to the quest, and they have to bring their hard-earned drachma to get it.  
 
@@ -616,13 +616,13 @@ rob
 
 </div>
 
-<div class="post" data-post-id="18638" data-author="Weasel" data-date="2007-05-25T15:16:08+00:00">
+<div class="post" data-post-id="18638" data-author="Weasel" data-date="2007-05-25T15:16:08+00:00" data-subject="">
 
 I don't agree, sorry. By turning a quest into an auction, you've defeated the entire purpose of rewarding quest eq at the end of a quest - the key word there being 'reward'. End result: why would a tank sacrifice him/herself repeatedly when he.she can just cruise to the local crackma dealer and buy eq without having to die for it. Fine if you're not standing on in the front line getting your ass kicked though I suppose.
 
 </div>
 
-<div class="post" data-post-id="18640" data-author="brady" data-date="2007-05-25T15:58:03+00:00">
+<div class="post" data-post-id="18640" data-author="brady" data-date="2007-05-25T15:58:03+00:00" data-subject="">
 
 The only person, in my opinion, to deserve a free handout is the leader.  I don't have the patience to lead more than 4-5 people and even that takes work.  It's the tanks JOB to get his ass kicked.  Why is that so much more deserving of a reward?  There is a reason for tank xp, afterall.  
 
@@ -638,7 +638,7 @@ Siver and Bronze (pretty much level based)
 
 </div>
 
-<div class="post" data-post-id="18643" data-author="brady" data-date="2007-05-25T16:09:29+00:00">
+<div class="post" data-post-id="18643" data-author="brady" data-date="2007-05-25T16:09:29+00:00" data-subject="">
 
 7200	loot/tier	#ppl	lt/psn	
 
@@ -656,13 +656,13 @@ Auto saves everything.
 
 </div>
 
-<div class="post" data-post-id="18644" data-author="brady" data-date="2007-05-25T16:11:52+00:00">
+<div class="post" data-post-id="18644" data-author="brady" data-date="2007-05-25T16:11:52+00:00" data-subject="">
 
 oof, nice alignment...anyway.
 
 </div>
 
-<div class="post" data-post-id="18646" data-author="Leaf" data-date="2007-05-25T16:43:23+00:00">
+<div class="post" data-post-id="18646" data-author="Leaf" data-date="2007-05-25T16:43:23+00:00" data-subject="">
 
 I also like the idea of putting a "limit" on how many quest eq a person can
 
@@ -684,7 +684,7 @@ This one was a immortal pick, which happens alot too.
 
 </div>
 
-<div class="post" data-post-id="18649" data-author="13" data-date="2007-05-25T20:36:18+00:00">
+<div class="post" data-post-id="18649" data-author="13" data-date="2007-05-25T20:36:18+00:00" data-subject="">
 
 limits..laugh
 
@@ -702,7 +702,7 @@ you could use mudl and have it trans you to a 2 room area with no way in our out
 
 </div>
 
-<div class="post" data-post-id="18651" data-author="Rynquald" data-date="2007-05-25T22:52:22+00:00">
+<div class="post" data-post-id="18651" data-author="Rynquald" data-date="2007-05-25T22:52:22+00:00" data-subject="">
 
 [quote:2kl9ai11]if you want more fairness, make the mobs about the right size for a couple people to take down and if someone finds/is fighting the mob then its off limits for the rest and have a few different ones out there
 
@@ -720,7 +720,7 @@ Of course players with higher level characters and more experience would likely 
 
 </div>
 
-<div class="post" data-post-id="18653" data-author="Gimlet" data-date="2007-05-26T01:42:56+00:00">
+<div class="post" data-post-id="18653" data-author="Gimlet" data-date="2007-05-26T01:42:56+00:00" data-subject="">
 
 I don't agree, sorry. By turning a quest into an auction, you've defeated the entire purpose of rewarding quest eq at the end of a quest - the key word there being 'reward'. End result: why would a tank sacrifice him/herself repeatedly when he.she can just cruise to the local crackma dealer and buy eq without having to die for it. Fine if you're not standing on in the front line getting your ass kicked though I suppose.[/quote:slpcm6lk]
 
@@ -732,7 +732,7 @@ prob 95% of the tanks out there simply turn on their triggers and sit back.  I'v
 
 </div>
 
-<div class="post" data-post-id="18654" data-author="Weasel" data-date="2007-05-26T02:46:34+00:00">
+<div class="post" data-post-id="18654" data-author="Weasel" data-date="2007-05-26T02:46:34+00:00" data-subject="">
 
 i've said this before, and i'll say it again.  I don't understand why someone deserves quest eq for simply dying.  Are tanks the only people who die in a quest anyway?  Do tanks get drachma for dying in xp groups or eq groups?[/quote:1eoirqz1]
 
@@ -748,7 +748,7 @@ Anyway you're all forgetting the real important point - casters smell funny.  :P
 
 </div>
 
-<div class="post" data-post-id="18655" data-author="Weasel" data-date="2007-05-26T02:56:52+00:00">
+<div class="post" data-post-id="18655" data-author="Weasel" data-date="2007-05-26T02:56:52+00:00" data-subject="">
 
 Do tanks get drachma for dying in xp groups or eq groups?
 
@@ -760,13 +760,13 @@ LOL I almost missed that line. Just so you know, nobody gets drachma for dying i
 
 </div>
 
-<div class="post" data-post-id="18656" data-author="Kong" data-date="2007-05-26T04:29:26+00:00">
+<div class="post" data-post-id="18656" data-author="Kong" data-date="2007-05-26T04:29:26+00:00" data-subject="">
 
 Duh tanks die in quest groups?!?!?!?! NO WAI! and this whole time I thought I was doing something wrong! Thanks for clearing that up!
 
 </div>
 
-<div class="post" data-post-id="18658" data-author="Gimlet" data-date="2007-05-26T13:38:38+00:00">
+<div class="post" data-post-id="18658" data-author="Gimlet" data-date="2007-05-26T13:38:38+00:00" data-subject="">
 
 100+mil + couple levels for quest eq, anyone would make that trade anyday.
 
@@ -782,13 +782,13 @@ When was teh last time u were in a quest?  With quest mobs nowadays capable of t
 
 </div>
 
-<div class="post" data-post-id="18659" data-author="brady" data-date="2007-05-26T15:24:38+00:00">
+<div class="post" data-post-id="18659" data-author="brady" data-date="2007-05-26T15:24:38+00:00" data-subject="">
 
 Weasel is a tank?
 
 </div>
 
-<div class="post" data-post-id="18660" data-author="Weasel" data-date="2007-05-26T15:47:41+00:00">
+<div class="post" data-post-id="18660" data-author="Weasel" data-date="2007-05-26T15:47:41+00:00" data-subject="">
 
 Weasel is a tank?[/quote:2yodpggy]
 
@@ -812,7 +812,7 @@ We're all kind of missing the point though - quests really should be valued for 
 
 </div>
 
-<div class="post" data-post-id="18661" data-author="13" data-date="2007-05-26T15:56:56+00:00">
+<div class="post" data-post-id="18661" data-author="13" data-date="2007-05-26T15:56:56+00:00" data-subject="">
 
 Keith I considered putting a bit (npi) in about players competing vs. each other for the eq, but realized that wouldn't work.  It would just be a bunch of crying like it is now, only about different stuff.  
 
@@ -820,7 +820,7 @@ A small team, 2-4, usually being friends/clannies will know within themselves wh
 
 </div>
 
-<div class="post" data-post-id="18662" data-author="Roadrunr" data-date="2007-05-26T16:21:53+00:00">
+<div class="post" data-post-id="18662" data-author="Roadrunr" data-date="2007-05-26T16:21:53+00:00" data-subject="">
 
 I dissapointed in your response roadrunner.  Id think a seasoned player would be able to process thoughts and ideas better than you attempted to.
 
@@ -848,13 +848,13 @@ I'm also disappointed with you resorting to making fun modifications to my name.
 
 </div>
 
-<div class="post" data-post-id="18663" data-author="Weasel" data-date="2007-05-26T16:45:23+00:00">
+<div class="post" data-post-id="18663" data-author="Weasel" data-date="2007-05-26T16:45:23+00:00" data-subject="">
 
 Actually yeah Roadrunr, since it seems the drachma shop eq may well be getting a revamp, perhaps restricting quests to drachma only is not such a bad idea, and then awarding a few extra to leader, outstanding groupies and tank as most here seem to agree with. The quest eq that would normally be restricted to quests would instead be available via the drachma shop. That way those who earned it can use the drachma to buy the quest eq they want (and they will use it too, rather than being awarded a nice piece of quest eq that may end up vaulted)..
 
 </div>
 
-<div class="post" data-post-id="18664" data-author="Hades" data-date="2007-05-26T17:02:50+00:00">
+<div class="post" data-post-id="18664" data-author="Hades" data-date="2007-05-26T17:02:50+00:00" data-subject="">
 
 13 writes:
 
@@ -864,7 +864,7 @@ as the great Stan Lee says, 'Nuff said
 
 </div>
 
-<div class="post" data-post-id="18665" data-author="12345" data-date="2007-05-26T17:03:14+00:00">
+<div class="post" data-post-id="18665" data-author="12345" data-date="2007-05-26T17:03:14+00:00" data-subject="">
 
 Keith I considered putting a bit (npi) in about players competing vs. each other for the eq, but realized that wouldn't work.  It would just be a bunch of crying like it is now, only about different stuff.[/quote:3i0gma18]
 
@@ -880,7 +880,7 @@ And it would be almost a quest in itself to sort it out between 30 or more peopl
 
 </div>
 
-<div class="post" data-post-id="18666" data-author="Hades" data-date="2007-05-26T17:07:35+00:00">
+<div class="post" data-post-id="18666" data-author="Hades" data-date="2007-05-26T17:07:35+00:00" data-subject="sigh">
 
 NO no no no !!!
 
@@ -888,19 +888,19 @@ You still don't get it. Have you not learned anything?
 
 </div>
 
-<div class="post" data-post-id="18667" data-author="Akasha" data-date="2007-05-26T17:12:19+00:00">
+<div class="post" data-post-id="18667" data-author="Akasha" data-date="2007-05-26T17:12:19+00:00" data-subject="">
 
 Yeah, I've re-learned/remembered why I havent run a quest in several years.  See ya again in 2015
 
 </div>
 
-<div class="post" data-post-id="18668" data-author="brady" data-date="2007-05-26T17:36:50+00:00">
+<div class="post" data-post-id="18668" data-author="brady" data-date="2007-05-26T17:36:50+00:00" data-subject="">
 
 yup, sounds about right.
 
 </div>
 
-<div class="post" data-post-id="18669" data-author="Hades" data-date="2007-05-26T17:38:20+00:00">
+<div class="post" data-post-id="18669" data-author="Hades" data-date="2007-05-26T17:38:20+00:00" data-subject="Akasha">
 
 Actually, the world ends in 2012 so we won't be seeing you in 2015.
 
@@ -908,7 +908,7 @@ word
 
 </div>
 
-<div class="post" data-post-id="18670" data-author="*juggleblood*" data-date="2007-05-26T18:15:32+00:00">
+<div class="post" data-post-id="18670" data-author="*juggleblood*" data-date="2007-05-26T18:15:32+00:00" data-subject="">
 
 And it would be almost a quest in itself to sort it out between 30 or more people.[/quote:pgn8rico]
 
@@ -918,7 +918,7 @@ I'd prefer the immorts just arbitrarily decided who they wanted to bestow some n
 
 </div>
 
-<div class="post" data-post-id="18671" data-author="Hades" data-date="2007-05-26T18:22:19+00:00">
+<div class="post" data-post-id="18671" data-author="Hades" data-date="2007-05-26T18:22:19+00:00" data-subject="">
 
 nope... then Imm's would be accused of showing favortism even when things are on the up and up. It only takes 2-3 complainers to drag even more into the mix.  There is an easy solution to this..you just haven't figured it out yet.
 
@@ -926,13 +926,13 @@ nope... then Imm's would be accused of showing favortism even when things are on
 
 </div>
 
-<div class="post" data-post-id="18672" data-author="*juggleblood*" data-date="2007-05-26T18:37:15+00:00">
+<div class="post" data-post-id="18672" data-author="*juggleblood*" data-date="2007-05-26T18:37:15+00:00" data-subject="">
 
 make quest rewards appear in dreamweaver shop and only give out drachma as reward?
 
 </div>
 
-<div class="post" data-post-id="18673" data-author="Hades" data-date="2007-05-26T18:52:33+00:00">
+<div class="post" data-post-id="18673" data-author="Hades" data-date="2007-05-26T18:52:33+00:00" data-subject="The wisdom of Solomon">
 
 Nope.. you go to a two-tier system.
 
@@ -952,13 +952,13 @@ I'd go on but I'm in the middle of solving Middle East conflict so toodle-loo
 
 </div>
 
-<div class="post" data-post-id="18675" data-author="13" data-date="2007-05-26T22:44:50+00:00">
+<div class="post" data-post-id="18675" data-author="13" data-date="2007-05-26T22:44:50+00:00" data-subject="">
 
 the answer is that there is no answer unless every person in the group gets some quest eq for competing in the quest.  otherwise there will always be whiners.  once the weaver gets redone then maybe drachma as a reward will be more appealing.  dave i meant no slight towards you or your recent quest.  on the contrary i commend you for dealing with it.  you have only to check elwood's wrap and see that ive dealt with plenty of it on my own.
 
 </div>
 
-<div class="post" data-post-id="18677" data-author="Autolycos" data-date="2007-05-27T01:58:54+00:00">
+<div class="post" data-post-id="18677" data-author="Autolycos" data-date="2007-05-27T01:58:54+00:00" data-subject="">
 
 NO!
 
@@ -972,7 +972,7 @@ PS.  Akasha.. keep doing what your doing.. some of us do appreciate it.
 
 </div>
 
-<div class="post" data-post-id="18678" data-author="Hades" data-date="2007-05-27T02:43:53+00:00">
+<div class="post" data-post-id="18678" data-author="Hades" data-date="2007-05-27T02:43:53+00:00" data-subject="">
 
 You shut your g*oddamned pirate mouth.  Everyone knows you can't trust a bloody pirate and anything they do or say is to deceive/destroy you.
 
@@ -980,7 +980,7 @@ Keep the flame alive :twisted:
 
 </div>
 
-<div class="post" data-post-id="18679" data-author="tincts" data-date="2007-05-27T03:14:36+00:00">
+<div class="post" data-post-id="18679" data-author="tincts" data-date="2007-05-27T03:14:36+00:00" data-subject="">
 
 Yeah, I've re-learned/remembered why I havent run a quest in several years.  See ya again in 2015[/quote:w4qn1ev9]
 
@@ -988,19 +988,19 @@ Yeah, I've re-learned/remembered why I havent run a quest in several years.  See
 
 </div>
 
-<div class="post" data-post-id="18680" data-author="Weasel" data-date="2007-05-27T04:18:11+00:00">
+<div class="post" data-post-id="18680" data-author="Weasel" data-date="2007-05-27T04:18:11+00:00" data-subject="">
 
 Yup. And back to the actual topic of this thread.. anyone care to make some [realistic] suggestions for new drachma shop eq - maybe the immort coders might appreciate a few suggestions?
 
 </div>
 
-<div class="post" data-post-id="18681" data-author="13" data-date="2007-05-27T04:27:27+00:00">
+<div class="post" data-post-id="18681" data-author="13" data-date="2007-05-27T04:27:27+00:00" data-subject="">
 
 some sort of honest-to-god held low dmg like the war emblem would be nice
 
 </div>
 
-<div class="post" data-post-id="18683" data-author="Hades" data-date="2007-05-27T10:08:11+00:00">
+<div class="post" data-post-id="18683" data-author="Hades" data-date="2007-05-27T10:08:11+00:00" data-subject="">
 
 It would be sweet if an item would allow you to steal.... that way you HAD to have it and if u lost it, then you couldn't steal again until you bought another one.
 
@@ -1008,7 +1008,7 @@ It would be sweet if an item would allow you to steal.... that way you HAD to ha
 
 </div>
 
-<div class="post" data-post-id="18684" data-author="brand" data-date="2007-05-27T14:11:33+00:00">
+<div class="post" data-post-id="18684" data-author="brand" data-date="2007-05-27T14:11:33+00:00" data-subject="">
 
 without disrupting other eq slots would be nice...  maybe double price to 500 and add a second tier of robes... robes with even bigger and better powers...  since the robe slot is already filled with a 250 crackma robe on everyone anyhow... +dam robe!
 
@@ -1016,19 +1016,19 @@ without disrupting other eq slots would be nice...  maybe double price to 500 an
 
 </div>
 
-<div class="post" data-post-id="18685" data-author="Weasel" data-date="2007-05-27T16:57:11+00:00">
+<div class="post" data-post-id="18685" data-author="Weasel" data-date="2007-05-27T16:57:11+00:00" data-subject="">
 
 Would love to see lots more clasps with all sorts of differing attributes particular to each class... and maybe have them attach to any eq item - not much point having more neck/held low/held high/head clasps as many chars have those slots already clasped.
 
 </div>
 
-<div class="post" data-post-id="18686" data-author="13" data-date="2007-05-27T17:31:55+00:00">
+<div class="post" data-post-id="18686" data-author="13" data-date="2007-05-27T17:31:55+00:00" data-subject="">
 
 the triple 40 eq mostly isnt worth a fuc k anymore too.  when krom and i revamped it the first time there were only 4 classes and no clasps.  now a lot of it just isnt used at all.  i would like to see some shit with class-particular bonuses for 3x40 like the cuirass having weapondmg and requiring warrior somewhere in the classo to use.  as an example.
 
 </div>
 
-<div class="post" data-post-id="18690" data-author="Leaf" data-date="2007-05-28T21:26:28+00:00">
+<div class="post" data-post-id="18690" data-author="Leaf" data-date="2007-05-28T21:26:28+00:00" data-subject="">
 
 Yea redoing the 3x40 eq would be nice.  Adding some eq for Monks, Necros,
 
@@ -1044,7 +1044,7 @@ Bards, and Druids.
 
 </div>
 
-<div class="post" data-post-id="18691" data-author="Hades" data-date="2007-05-28T23:48:01+00:00">
+<div class="post" data-post-id="18691" data-author="Hades" data-date="2007-05-28T23:48:01+00:00" data-subject="Leaf">
 
 Monks,druids,bards and necros are overpowered as it is. Need to add more oomphage to the 4 original classes.
 
@@ -1052,7 +1052,7 @@ Oh, since we have fargate/fast-repop days etc... maybe 2 days a month that pstea
 
 </div>
 
-<div class="post" data-post-id="18692" data-author="12345" data-date="2007-05-29T02:37:05+00:00">
+<div class="post" data-post-id="18692" data-author="12345" data-date="2007-05-29T02:37:05+00:00" data-subject="">
 
 Hades, I would like to take this opportunity to point out that lately you've been asking daily for ways to psteal.  You're the same one that roasted people for whining when they brought the subject up every few months.
 
@@ -1060,13 +1060,13 @@ plz stfu. kthkz.
 
 </div>
 
-<div class="post" data-post-id="18693" data-author="Autolycos" data-date="2007-05-29T04:42:21+00:00">
+<div class="post" data-post-id="18693" data-author="Autolycos" data-date="2007-05-29T04:42:21+00:00" data-subject="">
 
 laugh
 
 </div>
 
-<div class="post" data-post-id="18694" data-author="13" data-date="2007-05-29T12:38:35+00:00">
+<div class="post" data-post-id="18694" data-author="13" data-date="2007-05-29T12:38:35+00:00" data-subject="">
 
 having 'steal day' as a config for sloth would be cool
 
@@ -1074,13 +1074,13 @@ also turning the chaos thing on twice a month would be nice :)
 
 </div>
 
-<div class="post" data-post-id="18695" data-author="Weasel" data-date="2007-05-29T14:27:30+00:00">
+<div class="post" data-post-id="18695" data-author="Weasel" data-date="2007-05-29T14:27:30+00:00" data-subject="">
 
 ..as would giving me unlimited drachma, but it ain't gonna happen.
 
 </div>
 
-<div class="post" data-post-id="18696" data-author="Leaf" data-date="2007-05-29T15:39:40+00:00">
+<div class="post" data-post-id="18696" data-author="Leaf" data-date="2007-05-29T15:39:40+00:00" data-subject="">
 
 I'm not sure how long u been mudding Hades, but 3x40 eq are in general
 
@@ -1110,7 +1110,7 @@ However when made with a good combo, they seem to be the best!
 
 </div>
 
-<div class="post" data-post-id="18697" data-author="Autolycos" data-date="2007-05-29T15:45:27+00:00">
+<div class="post" data-post-id="18697" data-author="Autolycos" data-date="2007-05-29T15:45:27+00:00" data-subject="">
 
 oh Will... 
 
@@ -1124,7 +1124,7 @@ wake up Will.. you're dreaming again.  :x
 
 </div>
 
-<div class="post" data-post-id="18698" data-author="13" data-date="2007-05-29T17:02:51+00:00">
+<div class="post" data-post-id="18698" data-author="13" data-date="2007-05-29T17:02:51+00:00" data-subject="">
 
 [quote:1ml9ts3q]Neco = body -2.0, +3 Control, +mana [/quote:1ml9ts3q]
 
@@ -1132,13 +1132,13 @@ now dont go screwing up a good item with middy ac, either make it 2.4 or margn o
 
 </div>
 
-<div class="post" data-post-id="18699" data-author="Weasel" data-date="2007-05-29T17:11:02+00:00">
+<div class="post" data-post-id="18699" data-author="Weasel" data-date="2007-05-29T17:11:02+00:00" data-subject="">
 
 i has a corm?  :shock:
 
 </div>
 
-<div class="post" data-post-id="18700" data-author="Leaf" data-date="2007-05-29T17:54:20+00:00">
+<div class="post" data-post-id="18700" data-author="Leaf" data-date="2007-05-29T17:54:20+00:00" data-subject="">
 
 These are just ideas I'm throwin out there.  I would like to see some 3x40
 
@@ -1194,7 +1194,7 @@ think they should be, because they are gifts from the gods!)
 
 </div>
 
-<div class="post" data-post-id="18701" data-author="Autolycos" data-date="2007-05-29T18:32:49+00:00">
+<div class="post" data-post-id="18701" data-author="Autolycos" data-date="2007-05-29T18:32:49+00:00" data-subject="">
 
 Come on Jason look at the items I suggested and look at the ingame or drachma eq.  They are pretty much very close, and the 3x40 eq are suppose to the rarer then drachma (or I think they should be, because they are gifts from the gods!)[/quote:u8eb4vqd]
 
@@ -1206,7 +1206,7 @@ hugz n kissez Will  :twisted:
 
 </div>
 
-<div class="post" data-post-id="18702" data-author="Corinn" data-date="2007-05-29T20:52:32+00:00">
+<div class="post" data-post-id="18702" data-author="Corinn" data-date="2007-05-29T20:52:32+00:00" data-subject="">
 
 i has a corm?  :shock:[/quote:393m3nul]
 
@@ -1214,13 +1214,13 @@ Good answer!!!   ...errr, question... :P
 
 </div>
 
-<div class="post" data-post-id="18703" data-author="13" data-date="2007-05-29T21:42:54+00:00">
+<div class="post" data-post-id="18703" data-author="13" data-date="2007-05-29T21:42:54+00:00" data-subject="">
 
 Krom is generally pretty receptive of players' ideas.  We should put together a list of genuinely good ideas for redone 3x40 crud.  Who knows, it couldn't hurt and might help.
 
 </div>
 
-<div class="post" data-post-id="18705" data-author="Hades" data-date="2007-05-29T22:22:27+00:00">
+<div class="post" data-post-id="18705" data-author="Hades" data-date="2007-05-29T22:22:27+00:00" data-subject="May 29, 2007">
 
 I'm not sure about daily whining about putting psteal back in by it coming from 12345, as usual he/she doesn't have his/her facts right. Now, the main difference between me asking about it and others whining about it is just that.  There were 6-7+ that were on the verge of popping a blood vessel when it came to pthieving and the threating to quit and pitching hissy paid off.  I dare say, the majority here didn't care either way and in fact there were more non-whiners who relished in hunting down pthieves.  It did add variety to the game especially on a slow day when not much was going on. I'm not a pthief anyways but I sense Sloth has lost something by having psteal removed.
 
@@ -1230,7 +1230,7 @@ Now.. when the hell will dual wield go in?!?
 
 </div>
 
-<div class="post" data-post-id="18706" data-author="Weasel" data-date="2007-05-29T23:02:15+00:00">
+<div class="post" data-post-id="18706" data-author="Weasel" data-date="2007-05-29T23:02:15+00:00" data-subject="Re: May 29, 2007">
 
 There were 6-7+ that were on the verge of popping a blood vessel when it came to pthieving and the threating to quit and pitching hissy paid off.  I dare say, the majority here didn't care either way and in fact there were more non-whiners who relished in hunting down pthieves.[/quote:2nu1jayb]
 
@@ -1240,7 +1240,7 @@ Now will ya stfu about it?   :wink:
 
 </div>
 
-<div class="post" data-post-id="18707" data-author="12345" data-date="2007-05-29T23:10:45+00:00">
+<div class="post" data-post-id="18707" data-author="12345" data-date="2007-05-29T23:10:45+00:00" data-subject="">
 
 Gee... Let's look in this one thread.
 
@@ -1260,7 +1260,7 @@ I'd check your other posts, but that would probably require me to read them firs
 
 </div>
 
-<div class="post" data-post-id="18708" data-author="Hades" data-date="2007-05-29T23:11:25+00:00">
+<div class="post" data-post-id="18708" data-author="Hades" data-date="2007-05-29T23:11:25+00:00" data-subject="Stacking the vote">
 
 Yep.. the same people voted more than once.. shame they couldn't put that same kind of energy and vote for Sloth on Mudconnect.  Shrug, guess you were of the whiners.  I still like ya though.
 
@@ -1268,7 +1268,7 @@ Peace
 
 </div>
 
-<div class="post" data-post-id="18709" data-author="Hades" data-date="2007-05-29T23:14:13+00:00">
+<div class="post" data-post-id="18709" data-author="Hades" data-date="2007-05-29T23:14:13+00:00" data-subject="You got me!">
 
 Oops.. I purposely for my own sake overlooked 12345's post... he makes a good point.. I posted soemthing 2 days in a row.. guess this makes it all the time.
 
@@ -1278,13 +1278,13 @@ Oh yeah.. he was the other whiner stacking the vote.
 
 </div>
 
-<div class="post" data-post-id="18710" data-author="12345" data-date="2007-05-29T23:15:04+00:00">
+<div class="post" data-post-id="18710" data-author="12345" data-date="2007-05-29T23:15:04+00:00" data-subject="">
 
 Actually, I never voted.. but you can pretend like you know something, that's fine.
 
 </div>
 
-<div class="post" data-post-id="18711" data-author="Weasel" data-date="2007-05-29T23:26:43+00:00">
+<div class="post" data-post-id="18711" data-author="Weasel" data-date="2007-05-29T23:26:43+00:00" data-subject="">
 
 You can only vote once on those forum polls..  although I guess if you registered another username.. but I think most people would not be bothered wasting the time to do that..  except maybe pthieves... 
 
@@ -1292,7 +1292,7 @@ You can only vote once on those forum polls..  although I guess if you registere
 
 </div>
 
-<div class="post" data-post-id="18715" data-author="Roadrunr" data-date="2007-05-30T02:17:57+00:00">
+<div class="post" data-post-id="18715" data-author="Roadrunr" data-date="2007-05-30T02:17:57+00:00" data-subject="">
 
 These are just ideas I'm throwin out there.  I would like to see some 3x40
 
@@ -1352,25 +1352,25 @@ oh, thats right, there shouldnt be.
 
 </div>
 
-<div class="post" data-post-id="18716" data-author="Hades" data-date="2007-05-30T04:51:16+00:00">
+<div class="post" data-post-id="18716" data-author="Hades" data-date="2007-05-30T04:51:16+00:00" data-subject="May 30, 2008">
 
 Preach!
 
 </div>
 
-<div class="post" data-post-id="18718" data-author="13" data-date="2007-05-30T12:42:40+00:00">
+<div class="post" data-post-id="18718" data-author="13" data-date="2007-05-30T12:42:40+00:00" data-subject="">
 
 I definitely think old class 3x40 eq should be revamped as well RR.  I totally agree with Handdmg Weapon dmg stab dmg etc.  What we need to improve is variety.  It used to be that each class had two items.  I think that it still should be that way.  Having one dmg/ac item and one class specific item is a good idea imho.  Also making these things actually require that class would go a long way towards making sense and making mages be mages and thieves be thieves etc.
 
 </div>
 
-<div class="post" data-post-id="18719" data-author="Weasel" data-date="2007-05-30T14:09:33+00:00">
+<div class="post" data-post-id="18719" data-author="Weasel" data-date="2007-05-30T14:09:33+00:00" data-subject="">
 
 For the 3x40 eq I really like the idea of customizable clasps.. you choose the slot it attaches to (or have it able to attach to any worn item) and then perhaps two selectable attributes much like the avatar light. This does however create additional work for the immorts, so perhaps it is not so practical in that sense, but by providing that kind of choice it certainly removes the need to create multiple different items to try to cover the many different classes, yet it still provides an item that is widely usable. This way there'd just be one clasp (it could just have a generic name, or else it could be restrung) and users could chose the attributes that suit them best, whether it be ma/hp regen, hand/weapon/stab damage, spell/heal bonus, ac, +hit, or even +str/wis/int/dex/con.. kinda like what the Mayor of Lyme has to offer (and perhaps it could be automated in a similar way?). Can't see anyone having any complaints about that, and it would allow room for future attributes to be added without having to create now 3x40 eq every few years to keep up with the growth of sloth itself. Damn fine idea imho. This could apply for 3x40 or drachma eq.. or both!
 
 </div>
 
-<div class="post" data-post-id="18720" data-author="Leaf" data-date="2007-05-30T14:11:39+00:00">
+<div class="post" data-post-id="18720" data-author="Leaf" data-date="2007-05-30T14:11:39+00:00" data-subject="">
 
 Ooo AA is (kinda) backing me up :)
 
@@ -1402,13 +1402,13 @@ I believe we should have at least 2-3 newer/revamp eq for each class.
 
 </div>
 
-<div class="post" data-post-id="18721" data-author="Weasel" data-date="2007-05-30T14:26:10+00:00">
+<div class="post" data-post-id="18721" data-author="Weasel" data-date="2007-05-30T14:26:10+00:00" data-subject="">
 
 For Warrior primes, AC is even moreso a major now that we can go beyond -11ac. Another attribute to consider is +hit, now that it has a significant effect compared to what it used to have.
 
 </div>
 
-<div class="post" data-post-id="18722" data-author="13" data-date="2007-05-30T14:57:08+00:00">
+<div class="post" data-post-id="18722" data-author="13" data-date="2007-05-30T14:57:08+00:00" data-subject="">
 
 yeah sloth has changed so much in the last 4 years or so that this old stuff ain't cuttin' the mustard anymore.  having the eq have actual restrictions would be cool that way a 
 
@@ -1420,7 +1420,7 @@ also I think bards should get a cool ac item :)
 
 </div>
 
-<div class="post" data-post-id="18723" data-author="Leaf" data-date="2007-05-30T16:04:36+00:00">
+<div class="post" data-post-id="18723" data-author="Leaf" data-date="2007-05-30T16:04:36+00:00" data-subject="">
 
 With our Powers (Suggestion) Combined I am Captain Newbie!!!
 
@@ -1432,7 +1432,7 @@ some suggestions for 3x40 eq, or r we wasting our time dreaming of 3x40?
 
 </div>
 
-<div class="post" data-post-id="18724" data-author="Hades" data-date="2007-05-30T16:52:17+00:00">
+<div class="post" data-post-id="18724" data-author="Hades" data-date="2007-05-30T16:52:17+00:00" data-subject="">
 
 Keep dreaming
 
@@ -1440,13 +1440,13 @@ Keep dreaming
 
 </div>
 
-<div class="post" data-post-id="18755" data-author="*Krom*" data-date="2007-06-01T13:05:22+00:00">
+<div class="post" data-post-id="18755" data-author="*Krom*" data-date="2007-06-01T13:05:22+00:00" data-subject="">
 
 I am reading it.  Trip40 eq will probably be revisited also, once we get done with the drachma stuff.
 
 </div>
 
-<div class="post" data-post-id="18757" data-author="Autolycos" data-date="2007-06-01T14:13:43+00:00">
+<div class="post" data-post-id="18757" data-author="Autolycos" data-date="2007-06-01T14:13:43+00:00" data-subject="">
 
 Angels sang out in immaculate chorus,
 
@@ -1460,19 +1460,19 @@ and a reminder just because it's fantastic!!
 
 </div>
 
-<div class="post" data-post-id="18758" data-author="Leaf" data-date="2007-06-01T15:11:55+00:00">
+<div class="post" data-post-id="18758" data-author="Leaf" data-date="2007-06-01T15:11:55+00:00" data-subject="">
 
 Once again Hades, your wrong.
 
 </div>
 
-<div class="post" data-post-id="18761" data-author="13" data-date="2007-06-01T20:23:42+00:00">
+<div class="post" data-post-id="18761" data-author="13" data-date="2007-06-01T20:23:42+00:00" data-subject="">
 
 *high* will
 
 </div>
 
-<div class="post" data-post-id="18762" data-author="Leaf" data-date="2007-06-01T21:39:56+00:00">
+<div class="post" data-post-id="18762" data-author="Leaf" data-date="2007-06-01T21:39:56+00:00" data-subject="">
 
 Woot Woot, thx Krom:
 
@@ -1510,13 +1510,13 @@ with Monk 3x40 etc...
 
 </div>
 
-<div class="post" data-post-id="18763" data-author="Hades" data-date="2007-06-01T21:49:33+00:00">
+<div class="post" data-post-id="18763" data-author="Hades" data-date="2007-06-01T21:49:33+00:00" data-subject="You win one - You lose one">
 
 You win...this time :P
 
 </div>
 
-<div class="post" data-post-id="18764" data-author="13" data-date="2007-06-01T23:05:01+00:00">
+<div class="post" data-post-id="18764" data-author="13" data-date="2007-06-01T23:05:01+00:00" data-subject="">
 
 i wouldnt necessarily make them prime only items
 
@@ -1592,7 +1592,7 @@ dagger is cool now except the proc negates the stab and it's significantly small
 
 </div>
 
-<div class="post" data-post-id="18765" data-author="Hades" data-date="2007-06-02T00:16:43+00:00">
+<div class="post" data-post-id="18765" data-author="Hades" data-date="2007-06-02T00:16:43+00:00" data-subject="Learning Skills">
 
 Learning skills and some stats would be interesting instead of having to buy them at 5x40.  For example, to learn charisma.. follow this guys example
 
@@ -1600,13 +1600,13 @@ Learning skills and some stats would be interesting instead of having to buy the
 
 </div>
 
-<div class="post" data-post-id="18767" data-author="Weasel" data-date="2007-06-02T06:32:37+00:00">
+<div class="post" data-post-id="18767" data-author="Weasel" data-date="2007-06-02T06:32:37+00:00" data-subject="">
 
 on the side, an additional -1.0ac on masterful stone/iron would be nice..
 
 </div>
 
-<div class="post" data-post-id="18790" data-author="Thraxas" data-date="2007-06-04T08:07:21+00:00">
+<div class="post" data-post-id="18790" data-author="Thraxas" data-date="2007-06-04T08:07:21+00:00" data-subject="">
 
 the rings 
 
@@ -1616,13 +1616,13 @@ That would be me, not because I love the ring, but there was rack all else to ch
 
 </div>
 
-<div class="post" data-post-id="18791" data-author="Krok" data-date="2007-06-04T11:51:19+00:00">
+<div class="post" data-post-id="18791" data-author="Krok" data-date="2007-06-04T11:51:19+00:00" data-subject="">
 
 I took rings for Marta, because I can't take shroud for regen (wearing holy wings) and taking crown with so much extra str seemed weird. What is more, I don't have to forge serpents :) I will probably reconsider the eq choice later tho.
 
 </div>
 
-<div class="post" data-post-id="18792" data-author="13" data-date="2007-06-04T14:02:31+00:00">
+<div class="post" data-post-id="18792" data-author="13" data-date="2007-06-04T14:02:31+00:00" data-subject="">
 
 [quote:psoa661v]but there was rack all else to choose that[/quote:psoa661v]
 
@@ -1630,7 +1630,7 @@ I would think that Thrax would benefit from the extra mana/mana regen from the c
 
 </div>
 
-<div class="post" data-post-id="18796" data-author="Leaf" data-date="2007-06-04T18:41:48+00:00">
+<div class="post" data-post-id="18796" data-author="Leaf" data-date="2007-06-04T18:41:48+00:00" data-subject="">
 
 Thraxas is a example of a char that picked ring, because there wasn't 
 
@@ -1644,13 +1644,13 @@ even pick a 3x40 eq.
 
 </div>
 
-<div class="post" data-post-id="18797" data-author="13" data-date="2007-06-04T20:09:03+00:00">
+<div class="post" data-post-id="18797" data-author="13" data-date="2007-06-04T20:09:03+00:00" data-subject="">
 
 Regen gear is clearly a stupid idea for everyone involved.
 
 </div>
 
-<div class="post" data-post-id="18798" data-author="Atwell" data-date="2007-06-04T20:54:08+00:00">
+<div class="post" data-post-id="18798" data-author="Atwell" data-date="2007-06-04T20:54:08+00:00" data-subject="">
 
 I know another monk that hasn't even picked a 2nd 3x40 eq because he doesn't want to lose +hand dam.  Nothing else would help, so he didn't even pick a 3x40 eq.[/quote:2xahy1dj]
 
@@ -1658,13 +1658,13 @@ The 3x40 clasps mostly sit in slots with no notable in-game clasp.  They are goo
 
 </div>
 
-<div class="post" data-post-id="18799" data-author="Leaf" data-date="2007-06-04T21:22:48+00:00">
+<div class="post" data-post-id="18799" data-author="Leaf" data-date="2007-06-04T21:22:48+00:00" data-subject="">
 
 Damn it Atwell, ur not helpping the situation :p
 
 </div>
 
-<div class="post" data-post-id="18801" data-author="12345" data-date="2007-06-04T23:31:33+00:00">
+<div class="post" data-post-id="18801" data-author="12345" data-date="2007-06-04T23:31:33+00:00" data-subject="">
 
 Atwell is right.  However, I must say that I'm almost to 3x40+38 and I haven't picked my first 3x40 eq yet. Mostly because I don't especially need it at the moment and I don't want to have to switch later.
 
@@ -1672,13 +1672,13 @@ I'm actively avoiding my main simply because with -12 in game, I should redo my 
 
 </div>
 
-<div class="post" data-post-id="18977" data-author="13" data-date="2007-06-19T14:30:51+00:00">
+<div class="post" data-post-id="18977" data-author="13" data-date="2007-06-19T14:30:51+00:00" data-subject="">
 
 +1
 
 </div>
 
-<div class="post" data-post-id="18990" data-author="Hades" data-date="2007-06-20T00:16:28+00:00">
+<div class="post" data-post-id="18990" data-author="Hades" data-date="2007-06-20T00:16:28+00:00" data-subject="Who left this snowball out in the open?">
 
 [img:31od6d9w]http://d.yimg.com/us.yimg.com/p/ap/20070619/capt.081f5dc9ed2240f582bdb53e94b439e3.people_rosie_o_donnell_ny122.jpg?x=180&y=270&sig=VUWcCAh1DlZZodw4J66bDQ--[/img:31od6d9w]
 
@@ -1710,19 +1710,19 @@ O'Donnell's spokeswoman, Cindi Berger, was not specific about the ex-"View" comm
 
 </div>
 
-<div class="post" data-post-id="19165" data-author="Weasel" data-date="2007-07-06T03:43:49+00:00">
+<div class="post" data-post-id="19165" data-author="Weasel" data-date="2007-07-06T03:43:49+00:00" data-subject="">
 
 So... anything happening with this?
 
 </div>
 
-<div class="post" data-post-id="19167" data-author="Karna" data-date="2007-07-06T04:45:47+00:00">
+<div class="post" data-post-id="19167" data-author="Karna" data-date="2007-07-06T04:45:47+00:00" data-subject="">
 
 check the shop, looks like some new eq  to me.
 
 </div>
 
-<div class="post" data-post-id="19169" data-author="Weasel" data-date="2007-07-06T10:35:52+00:00">
+<div class="post" data-post-id="19169" data-author="Weasel" data-date="2007-07-06T10:35:52+00:00" data-subject="">
 
 thanks.
 
@@ -1826,13 +1826,13 @@ apparently it's a typo.. should be -0.1ac +2str..  for 550 drachma  :shock:
 
 </div>
 
-<div class="post" data-post-id="19170" data-author="Weasel" data-date="2007-07-06T10:39:08+00:00">
+<div class="post" data-post-id="19170" data-author="Weasel" data-date="2007-07-06T10:39:08+00:00" data-subject="">
 
 there's more I think, I have to bail tho..
 
 </div>
 
-<div class="post" data-post-id="19171" data-author="*Krom*" data-date="2007-07-06T11:57:52+00:00">
+<div class="post" data-post-id="19171" data-author="*Krom*" data-date="2007-07-06T11:57:52+00:00" data-subject="">
 
 There are about a dozen new items so far, not all of them have shown up in the shops yet.  Also, all of the old items were repriced, so hopefully there will be a lot more items that are good options now.
 
@@ -1840,7 +1840,7 @@ PS Weasel, armor by -1 as you are seeing it is actually -.1
 
 </div>
 
-<div class="post" data-post-id="19174" data-author="Autolycos" data-date="2007-07-06T14:11:12+00:00">
+<div class="post" data-post-id="19174" data-author="Autolycos" data-date="2007-07-06T14:11:12+00:00" data-subject="">
 
 I love my Razors Bracer!!!!
 
@@ -1852,13 +1852,13 @@ Thank you Ron Popeil!!!
 
 </div>
 
-<div class="post" data-post-id="19176" data-author="Weasel" data-date="2007-07-06T22:17:10+00:00">
+<div class="post" data-post-id="19176" data-author="Weasel" data-date="2007-07-06T22:17:10+00:00" data-subject="">
 
 Thanks Krom. Any chance Walls of Jericho or any other Warriorish eq (if there is any..) will have flail damage swapped out for something useful like weapon damage or additional +hit or something instead? Please?
 
 </div>
 
-<div class="post" data-post-id="19189" data-author="Mosaix" data-date="2007-07-08T17:22:34+00:00">
+<div class="post" data-post-id="19189" data-author="Mosaix" data-date="2007-07-08T17:22:34+00:00" data-subject="">
 
 The reductions are most helpful, I already bought a shield and am enjoying it very much.
 
@@ -1874,7 +1874,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="19190" data-author="Rynquald" data-date="2007-07-08T21:59:12+00:00">
+<div class="post" data-post-id="19190" data-author="Rynquald" data-date="2007-07-08T21:59:12+00:00" data-subject="">
 
 Kind of funny how half the people that shelled out for the most expensive drachma eq when it was (presumably) overpriced have just had several hundred drachma written off by price changes.
 
@@ -1882,7 +1882,7 @@ Some of that new stuff rocks though.
 
 </div>
 
-<div class="post" data-post-id="19192" data-author="Weasel" data-date="2007-07-09T02:18:00+00:00">
+<div class="post" data-post-id="19192" data-author="Weasel" data-date="2007-07-09T02:18:00+00:00" data-subject="">
 
 675 drachma
 
@@ -1904,7 +1904,7 @@ have attained supremacy in at least two classes may use this item.
 
 </div>
 
-<div class="post" data-post-id="19193" data-author="Weasel" data-date="2007-07-09T02:26:07+00:00">
+<div class="post" data-post-id="19193" data-author="Weasel" data-date="2007-07-09T02:26:07+00:00" data-subject="">
 
 180 drachma - yet more for Autolycos!
 
@@ -1926,13 +1926,13 @@ Only those who are at least adept thieves may use this item.
 
 </div>
 
-<div class="post" data-post-id="19197" data-author="13" data-date="2007-07-09T13:26:14+00:00">
+<div class="post" data-post-id="19197" data-author="13" data-date="2007-07-09T13:26:14+00:00" data-subject="">
 
 oh shit you can buy two of those bitches?
 
 </div>
 
-<div class="post" data-post-id="19198" data-author="Autolycos" data-date="2007-07-09T17:42:18+00:00">
+<div class="post" data-post-id="19198" data-author="Autolycos" data-date="2007-07-09T17:42:18+00:00" data-subject="">
 
 pfft... i'm already maxed on stab dam... 
 
@@ -1940,7 +1940,7 @@ i'd rather save my crackma for another Razors-bracer  8)
 
 </div>
 
-<div class="post" data-post-id="19199" data-author="*Krom*" data-date="2007-07-09T20:24:51+00:00">
+<div class="post" data-post-id="19199" data-author="*Krom*" data-date="2007-07-09T20:24:51+00:00" data-subject="">
 
 The reductions are most helpful, I already bought a shield and am enjoying it very much.
 
@@ -1958,7 +1958,7 @@ The staff is cleric/mage restricted, and level 16 avatar as well.  I didnt chang
 
 </div>
 
-<div class="post" data-post-id="19200" data-author="madmax" data-date="2007-07-10T01:48:08+00:00">
+<div class="post" data-post-id="19200" data-author="madmax" data-date="2007-07-10T01:48:08+00:00" data-subject="">
 
 Sorry Krom, Mosaix is correct.
 
@@ -2012,7 +2012,7 @@ So this weapon is _ONLY_ for quad casters that are Adept Avatars.
 
 </div>
 
-<div class="post" data-post-id="19201" data-author="Autolycos" data-date="2007-07-10T02:10:31+00:00">
+<div class="post" data-post-id="19201" data-author="Autolycos" data-date="2007-07-10T02:10:31+00:00" data-subject="">
 
 Sorry Krom, Mosaix is correct.
 
@@ -2026,7 +2026,7 @@ And Quad casters wielding Abyssal staves....
 
 </div>
 
-<div class="post" data-post-id="19203" data-author="Mosaix" data-date="2007-07-10T02:38:23+00:00">
+<div class="post" data-post-id="19203" data-author="Mosaix" data-date="2007-07-10T02:38:23+00:00" data-subject="">
 
 I only recently bothered to stat it due to the fact I believe the price was lowered, and I had the drachma to bother to stat it.
 
@@ -2046,7 +2046,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="19208" data-author="13" data-date="2007-07-10T15:09:12+00:00">
+<div class="post" data-post-id="19208" data-author="13" data-date="2007-07-10T15:09:12+00:00" data-subject="">
 
 stuff looks cool except for the .3 +5mana +1UC ring
 
@@ -2054,19 +2054,19 @@ no-one will bother
 
 </div>
 
-<div class="post" data-post-id="19209" data-author="Weasel" data-date="2007-07-10T20:51:17+00:00">
+<div class="post" data-post-id="19209" data-author="Weasel" data-date="2007-07-10T20:51:17+00:00" data-subject="">
 
 please, anything for warriors? yes there's a -0.6 robe, but there was a -0.6 robe before the new additions as well..  I'm hoping something will appear next reboot/crash..
 
 </div>
 
-<div class="post" data-post-id="19210" data-author="Leaf" data-date="2007-07-10T20:52:56+00:00">
+<div class="post" data-post-id="19210" data-author="Leaf" data-date="2007-07-10T20:52:56+00:00" data-subject="">
 
 U mean what about Monks, Bardsm abd Druids.
 
 </div>
 
-<div class="post" data-post-id="19211" data-author="Autolycos" data-date="2007-07-10T21:22:42+00:00">
+<div class="post" data-post-id="19211" data-author="Autolycos" data-date="2007-07-10T21:22:42+00:00" data-subject="">
 
 U mean what about Monks, Bardsm abd Druids.[/quote:ip7ex35g]
 
@@ -2080,19 +2080,19 @@ bheyba gobba nooba dababka ebbquebas   :twisted:
 
 </div>
 
-<div class="post" data-post-id="19212" data-author="Leaf" data-date="2007-07-10T21:57:29+00:00">
+<div class="post" data-post-id="19212" data-author="Leaf" data-date="2007-07-10T21:57:29+00:00" data-subject="">
 
 What happened to the "Edit" Button?  I don't have it on my box!
 
 </div>
 
-<div class="post" data-post-id="19213" data-author="Weasel" data-date="2007-07-11T00:02:21+00:00">
+<div class="post" data-post-id="19213" data-author="Weasel" data-date="2007-07-11T00:02:21+00:00" data-subject="">
 
 What happened to the "Edit" Button?  I don't have it on my box![/quote:6gvo3voc]    :shock:
 
 </div>
 
-<div class="post" data-post-id="19214" data-author="Mosaix" data-date="2007-07-11T02:05:35+00:00">
+<div class="post" data-post-id="19214" data-author="Mosaix" data-date="2007-07-11T02:05:35+00:00" data-subject="">
 
 Silly people.  Try being a cleric prime.  
 
@@ -2106,13 +2106,13 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="19215" data-author="Yinao" data-date="2007-07-11T02:25:07+00:00">
+<div class="post" data-post-id="19215" data-author="Yinao" data-date="2007-07-11T02:25:07+00:00" data-subject="">
 
 Sorry Broc, no chance in hell im giving up my 158 mana regen sleeping in vault without dreams for another class, but thanks for the challenge opportunity anyways.
 
 </div>
 
-<div class="post" data-post-id="19216" data-author="12345" data-date="2007-07-11T04:40:21+00:00">
+<div class="post" data-post-id="19216" data-author="12345" data-date="2007-07-11T04:40:21+00:00" data-subject="">
 
 Its times like this I have to wonder if Broc has ever been in one of my groups.
 
@@ -2120,7 +2120,7 @@ I will tell you that playing an old classo cleric is a serious handicap.  There'
 
 </div>
 
-<div class="post" data-post-id="19217" data-author="Gimlet" data-date="2007-07-11T10:59:42+00:00">
+<div class="post" data-post-id="19217" data-author="Gimlet" data-date="2007-07-11T10:59:42+00:00" data-subject="">
 
 12345, I think that's exactly the point Broc is trying to make
 
@@ -2128,19 +2128,19 @@ It's a serious enough handicap to be old school cleric, and with the staff being
 
 </div>
 
-<div class="post" data-post-id="19218" data-author="13" data-date="2007-07-11T13:05:34+00:00">
+<div class="post" data-post-id="19218" data-author="13" data-date="2007-07-11T13:05:34+00:00" data-subject="">
 
 teehee
 
 </div>
 
-<div class="post" data-post-id="19220" data-author="Leaf" data-date="2007-07-11T15:27:44+00:00">
+<div class="post" data-post-id="19220" data-author="Leaf" data-date="2007-07-11T15:27:44+00:00" data-subject="">
 
 We now wait for the new/redo 3x40 eq for new classes  :lol:
 
 </div>
 
-<div class="post" data-post-id="19221" data-author="Autolycos" data-date="2007-07-11T15:53:35+00:00">
+<div class="post" data-post-id="19221" data-author="Autolycos" data-date="2007-07-11T15:53:35+00:00" data-subject="">
 
 all classes have thier weaknesses, they even have thier strengths...
 
@@ -2154,13 +2154,13 @@ learn it, love it, live it!
 
 </div>
 
-<div class="post" data-post-id="19227" data-author="Leaf" data-date="2007-07-11T20:21:13+00:00">
+<div class="post" data-post-id="19227" data-author="Leaf" data-date="2007-07-11T20:21:13+00:00" data-subject="">
 
 STFU Jason!
 
 </div>
 
-<div class="post" data-post-id="19228" data-author="Mosaix" data-date="2007-07-11T20:37:33+00:00">
+<div class="post" data-post-id="19228" data-author="Mosaix" data-date="2007-07-11T20:37:33+00:00" data-subject="">
 
 Im not about to argue the eq list.
 
@@ -2176,7 +2176,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="19232" data-author="Autolycos" data-date="2007-07-11T20:51:01+00:00">
+<div class="post" data-post-id="19232" data-author="Autolycos" data-date="2007-07-11T20:51:01+00:00" data-subject="">
 
 STFU Jason![/quote:pddyets5]
 
@@ -2186,7 +2186,7 @@ To Broc. I agree that the quad restrict is retarded.  I can understand cl/ma res
 
 </div>
 
-<div class="post" data-post-id="19238" data-author="brand" data-date="2007-07-11T23:38:56+00:00">
+<div class="post" data-post-id="19238" data-author="brand" data-date="2007-07-11T23:38:56+00:00" data-subject="">
 
 hmm, i'm a new classo cleric without druid...
 
@@ -2200,7 +2200,7 @@ at times i wish i had less healbonus not more... :twisted:
 
 </div>
 
-<div class="post" data-post-id="19240" data-author="Autolycos" data-date="2007-07-12T01:37:51+00:00">
+<div class="post" data-post-id="19240" data-author="Autolycos" data-date="2007-07-12T01:37:51+00:00" data-subject="">
 
 OMFG  :shock: 
 
@@ -2210,7 +2210,7 @@ either he is sober or i'm high  :wink:
 
 </div>
 
-<div class="post" data-post-id="19249" data-author="Evergreen" data-date="2007-07-12T17:32:20+00:00">
+<div class="post" data-post-id="19249" data-author="Evergreen" data-date="2007-07-12T17:32:20+00:00" data-subject="nowdays exp">
 
 Mosaix, nowdays its so damn easy to get awesome exp.
 
@@ -2222,7 +2222,7 @@ i work damn hard in rl but still get some exp
 
 </div>
 
-<div class="post" data-post-id="19250" data-author="Mosaix" data-date="2007-07-12T17:59:25+00:00">
+<div class="post" data-post-id="19250" data-author="Mosaix" data-date="2007-07-12T17:59:25+00:00" data-subject="">
 
 I have no doubt that with some clan help I could rocket a player quickly.  I may even do that yet.
 

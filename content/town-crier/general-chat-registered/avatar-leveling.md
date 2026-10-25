@@ -10,7 +10,7 @@ locked: false
 post_count: 28
 ---
 
-<div class="post" data-post-id="31602" data-author="*Splork*" data-date="2010-08-26T04:03:33+00:00">
+<div class="post" data-post-id="31602" data-author="*Splork*" data-date="2010-08-26T04:03:33+00:00" data-subject="Avatar leveling">
 
 We are bantering about two ideas to open up more Avatar levels to players:
 
@@ -24,7 +24,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31603" data-author="*Isabo*" data-date="2010-08-26T04:12:18+00:00">
+<div class="post" data-post-id="31603" data-author="*Isabo*" data-date="2010-08-26T04:12:18+00:00" data-subject="Re: Avatar leveling">
 
 Hi, mortals.
 
@@ -46,13 +46,13 @@ Pd. I bet Nobody is going to hate it.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="31604" data-author="Shyla" data-date="2010-08-26T04:24:07+00:00">
+<div class="post" data-post-id="31604" data-author="Shyla" data-date="2010-08-26T04:24:07+00:00" data-subject="Re: Avatar leveling">
 
 nah nobody is leveling up to 40 all at once so probably won't mess with avatar til he can level al up at once :)
 
 </div>
 
-<div class="post" data-post-id="31605" data-author="jezer" data-date="2010-08-26T04:31:05+00:00">
+<div class="post" data-post-id="31605" data-author="jezer" data-date="2010-08-26T04:31:05+00:00" data-subject="Re: Avatar leveling">
 
 I see a couple of 3x40 have already voted for option 2. :D
 
@@ -62,7 +62,7 @@ I'm grateful either way, although I clearly see option 1 as a more sustained lin
 
 </div>
 
-<div class="post" data-post-id="31606" data-author="adrix" data-date="2010-08-26T05:06:39+00:00">
+<div class="post" data-post-id="31606" data-author="adrix" data-date="2010-08-26T05:06:39+00:00" data-subject="Re: Avatar leveling">
 
 I can see good points in both options:
 
@@ -86,7 +86,7 @@ Option 1, I think, is the real option here.  I'll forgo my immediate (but small)
 
 </div>
 
-<div class="post" data-post-id="31608" data-author="Dragoth" data-date="2010-08-26T06:02:26+00:00">
+<div class="post" data-post-id="31608" data-author="Dragoth" data-date="2010-08-26T06:02:26+00:00" data-subject="Re: Avatar leveling">
 
 Agreed with Adrix, Option 1 is more progressive and should enhance the feeling of accomplishment and making leveling after 4x40 more bearable. 
 
@@ -106,7 +106,7 @@ Sloth4 lacked that feeling of progression that sloth3 had due to a limited numbe
 
 </div>
 
-<div class="post" data-post-id="31609" data-author="Cizin" data-date="2010-08-26T06:39:09+00:00">
+<div class="post" data-post-id="31609" data-author="Cizin" data-date="2010-08-26T06:39:09+00:00" data-subject="Re: Avatar leveling">
 
 i guess it is my time to be a bitch.
 
@@ -138,7 +138,7 @@ Cizin
 
 </div>
 
-<div class="post" data-post-id="31610" data-author="DSF" data-date="2010-08-26T06:56:33+00:00">
+<div class="post" data-post-id="31610" data-author="DSF" data-date="2010-08-26T06:56:33+00:00" data-subject="Re: Avatar leveling">
 
 It's just a game. But It's a long term game. Dun compare it to S3 and u'll feel much much better and for those who played S3 before, you can dream of the Avatar skills/spells and work towards it? I'm one of those who worked for it. Not that i'm high up...but well...i've advance and overtook quite a few players. Even Wimpy is working hard not to allow me to overtake him. So...Play it to whichever level you are comfortable. 
 
@@ -150,7 +150,7 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="31611" data-author="Dragoth" data-date="2010-08-26T07:08:31+00:00">
+<div class="post" data-post-id="31611" data-author="Dragoth" data-date="2010-08-26T07:08:31+00:00" data-subject="Re: Avatar leveling">
 
 As your said it yourself Cizin, it's a 8x40 mud. That means there are alot of levels to get and that only means that the skills are now more spread out than ever. 
 
@@ -168,7 +168,7 @@ The game doesnt need to stop at level 40 avatar and here we are talking about li
 
 </div>
 
-<div class="post" data-post-id="31612" data-author="jezer" data-date="2010-08-26T07:30:02+00:00">
+<div class="post" data-post-id="31612" data-author="jezer" data-date="2010-08-26T07:30:02+00:00" data-subject="Re: Avatar leveling">
 
 I seriously enjoyed your post Cizin! Genuinely passionate and unreserved.  :D  A real classic.
 
@@ -178,7 +178,7 @@ For me it also fixes my "shapeshift mastery" problem. In sloth 3 we got that at 
 
 </div>
 
-<div class="post" data-post-id="31613" data-author="Dragoth" data-date="2010-08-26T07:39:39+00:00">
+<div class="post" data-post-id="31613" data-author="Dragoth" data-date="2010-08-26T07:39:39+00:00" data-subject="Re: Avatar leveling">
 
 > **jezer wrote:**
 > Phoenix is 7x40 in this game... so some quick maths... (40 x 3) / 5 = 24 shapeshift mastery is 24 avatar! It's beautiful. High five to whoever thought of it. Isabo?
@@ -187,13 +187,13 @@ It's not 7x40 jezer, but rather 120 levels after 4x40 or 280 total levels. That 
 
 </div>
 
-<div class="post" data-post-id="31614" data-author="jezer" data-date="2010-08-26T07:50:00+00:00">
+<div class="post" data-post-id="31614" data-author="jezer" data-date="2010-08-26T07:50:00+00:00" data-subject="Re: Avatar leveling">
 
 I did realise that T, and that's why I'm calling option 1 surprising generous, to be honest I would have been happier with less, but never disappointed with more... unless it ruins the game, and Cizin makes a valid point there. (There is a balance)
 
 </div>
 
-<div class="post" data-post-id="31615" data-author="Dragoth" data-date="2010-08-26T08:01:27+00:00">
+<div class="post" data-post-id="31615" data-author="Dragoth" data-date="2010-08-26T08:01:27+00:00" data-subject="Re: Avatar leveling">
 
 It might be generous to druids, but they really need the generosity, it might also turn out to be over-generous to necros as some of the pets are avatar based and that needs to be adressed by making pets dependant on total levels rather than avatar levels. 
 
@@ -201,7 +201,7 @@ As for Cizin, his situation is pretty unique, he leveled on hopes of being the f
 
 </div>
 
-<div class="post" data-post-id="31616" data-author="Cizin" data-date="2010-08-26T08:59:24+00:00">
+<div class="post" data-post-id="31616" data-author="Cizin" data-date="2010-08-26T08:59:24+00:00" data-subject="Re: Avatar leveling">
 
 > **Dragoth wrote:**
 > As for Cizin, his situation is pretty unique, he leveled on hopes of being the first in everything and get his milestone eq and that's what kept him going, but its not to say that he didnt work hard where he is now, he sure did but should the game be based around his persona and his circumstances? Dont think so.
@@ -220,7 +220,7 @@ I suggest you all move your ass and work harder and enjoy this game.
 
 </div>
 
-<div class="post" data-post-id="31617" data-author="Dragoth" data-date="2010-08-26T10:19:45+00:00">
+<div class="post" data-post-id="31617" data-author="Dragoth" data-date="2010-08-26T10:19:45+00:00" data-subject="Re: Avatar leveling">
 
 > **Cizin wrote:**
 > And now you actually comparing 3x40 and 4x40 player to me or Wimpy or Toxis ? Asking more fairness?! more sympathy ? have you ever ask yourself  did  you deserve it ?
@@ -251,7 +251,7 @@ In the end it's mostly Splorks choice who to listen to and where to take the gam
 
 </div>
 
-<div class="post" data-post-id="31618" data-author="Toxis" data-date="2010-08-26T11:43:10+00:00">
+<div class="post" data-post-id="31618" data-author="Toxis" data-date="2010-08-26T11:43:10+00:00" data-subject="Re: Avatar leveling">
 
 Well I can completely understand Cizin's point of view, but it does get boring when you play for weeks at a time and only get 1hp 1ma 1mv for 5.1 bil exp and 7.862 million gold.  I like to play multiple characters, but the sloth system makes it nearly impossible to play more than one char.
 
@@ -265,7 +265,7 @@ Brad
 
 </div>
 
-<div class="post" data-post-id="31632" data-author="Dragoth" data-date="2010-08-29T11:02:43+00:00">
+<div class="post" data-post-id="31632" data-author="Dragoth" data-date="2010-08-29T11:02:43+00:00" data-subject="Re: Avatar leveling">
 
 Some of you guys need to stop being so subjective and think more generally.
 
@@ -289,7 +289,7 @@ Thats why getting 1 avatar level after every 5 total levels is a good idea. Is i
 
 </div>
 
-<div class="post" data-post-id="31634" data-author="jezer" data-date="2010-08-29T11:53:41+00:00">
+<div class="post" data-post-id="31634" data-author="jezer" data-date="2010-08-29T11:53:41+00:00" data-subject="Re: Avatar leveling">
 
 Thraxas you sound like your trying to "keep up" with everyone else, and you can't and it's hurting your competitive side, or your pride. Let it go. I doubt you'll agree with me here, but I figure, if you were Cizin you'd feel differently right now... 
 
@@ -303,7 +303,7 @@ Is this you? http://www.personalitypage.com/INTJ.html or http://www.personalityp
 
 </div>
 
-<div class="post" data-post-id="31635" data-author="Dragoth" data-date="2010-08-29T12:39:47+00:00">
+<div class="post" data-post-id="31635" data-author="Dragoth" data-date="2010-08-29T12:39:47+00:00" data-subject="Re: Avatar leveling">
 
 I guess you were addressing me Jezer, not sure why you mentioned thraxas though.
 
@@ -319,7 +319,7 @@ I'm pretty sure there are plenty of other people who left that would agree with 
 
 </div>
 
-<div class="post" data-post-id="31636" data-author="Dragoth" data-date="2010-08-29T12:43:41+00:00">
+<div class="post" data-post-id="31636" data-author="Dragoth" data-date="2010-08-29T12:43:41+00:00" data-subject="Re: Avatar leveling">
 
 > **jezer wrote:**
 > http://www.personalitypage.com/INTP.html
@@ -328,7 +328,7 @@ Thats actually quite a good description of my personality  8)
 
 </div>
 
-<div class="post" data-post-id="31637" data-author="Skyv" data-date="2010-08-29T14:43:21+00:00">
+<div class="post" data-post-id="31637" data-author="Skyv" data-date="2010-08-29T14:43:21+00:00" data-subject="Re: Avatar leveling">
 
 This might over-complicate things, but my suggestion would be a combination of what we have now and the first option.  One issue I see with opening up 1 avatar  level for every 5 over 4x40 is that most people are carrying a decent amount of sponge levels by then (everybody but Nobody).  I'm not sure what's typical, but my guess is that most are at least level 10 in all classes by then (which would mean 8 av levels) or close to 20 (which would mean 16 immediate avatar levels open up).
 
@@ -340,7 +340,7 @@ Skyv
 
 </div>
 
-<div class="post" data-post-id="31639" data-author="jezer" data-date="2010-08-29T19:33:24+00:00">
+<div class="post" data-post-id="31639" data-author="jezer" data-date="2010-08-29T19:33:24+00:00" data-subject="Re: Avatar leveling">
 
 Bah, Dragoth, I got mixed up on the names. Sorry.  :twisted: 
 
@@ -348,7 +348,7 @@ Not the first time I've got you two confused. For some reason to me you are simi
 
 </div>
 
-<div class="post" data-post-id="31640" data-author="Thraxas" data-date="2010-08-29T20:03:22+00:00">
+<div class="post" data-post-id="31640" data-author="Thraxas" data-date="2010-08-29T20:03:22+00:00" data-subject="Re: Avatar leveling">
 
 > **jezer wrote:**
 > Thraxas you sound like your trying to "keep up" with everyone else, and you can't and it's hurting your competitive side, or your pride. Let it go. I doubt you'll agree with me here ...
@@ -375,7 +375,7 @@ Not the first time I've got you two confused. For some reason to me you are simi
 
 </div>
 
-<div class="post" data-post-id="31646" data-author="Briza" data-date="2010-08-30T11:18:22+00:00">
+<div class="post" data-post-id="31646" data-author="Briza" data-date="2010-08-30T11:18:22+00:00" data-subject="Re: Avatar leveling">
 
 Will not vote, as I am still too new to this game to really understand how everything works - just the 8 classes bit is kind of overwhelming and confusing as it is :) 
 
@@ -389,7 +389,7 @@ Will not vote, as I am still too new to this game to really understand how every
 
 </div>
 
-<div class="post" data-post-id="31662" data-author="*Splork*" data-date="2010-09-01T15:52:34+00:00">
+<div class="post" data-post-id="31662" data-author="*Splork*" data-date="2010-09-01T15:52:34+00:00" data-subject="Re: Avatar leveling">
 
 I guess this thread is pretty much over with. Let me talk to the others and get everyone's feeling on this and we will see if we will move forward with it.
 
@@ -397,7 +397,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31674" data-author="*Isabo*" data-date="2010-09-02T05:27:22+00:00">
+<div class="post" data-post-id="31674" data-author="*Isabo*" data-date="2010-09-02T05:27:22+00:00" data-subject="Re: Avatar leveling">
 
 Good day, mortals.
 
@@ -411,13 +411,13 @@ Pd. We will be carefuly controling it next months.  If you find any bug on it, b
 
 </div>
 
-<div class="post" data-post-id="31675" data-author="Rynquald" data-date="2010-09-02T05:38:59+00:00">
+<div class="post" data-post-id="31675" data-author="Rynquald" data-date="2010-09-02T05:38:59+00:00" data-subject="Re: Avatar leveling">
 
 Thanks for the change.
 
 </div>
 
-<div class="post" data-post-id="31677" data-author="Dragoth" data-date="2010-09-02T06:10:07+00:00">
+<div class="post" data-post-id="31677" data-author="Dragoth" data-date="2010-09-02T06:10:07+00:00" data-subject="Re: Avatar leveling">
 
 This is a very welcome change for the mud, thanks to all the immortal staff!
 

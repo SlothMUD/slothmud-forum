@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="34503" data-author="Dagger" data-date="2013-10-19T19:41:50+00:00">
+<div class="post" data-post-id="34503" data-author="Dagger" data-date="2013-10-19T19:41:50+00:00" data-subject="Gems for Trade or Sale">
 
 I have the following gems for trade or sale. Trade is preferred
 
@@ -52,7 +52,7 @@ Dagger
 
 </div>
 
-<div class="post" data-post-id="34504" data-author="Dagger" data-date="2013-10-19T20:15:48+00:00">
+<div class="post" data-post-id="34504" data-author="Dagger" data-date="2013-10-19T20:15:48+00:00" data-subject="Re: Gems for Trade or Sale">
 
 The Silvery Blue Pearl has been claimed.
 
@@ -64,7 +64,7 @@ Dagger
 
 </div>
 
-<div class="post" data-post-id="34543" data-author="Dagger" data-date="2013-11-05T17:53:46+00:00">
+<div class="post" data-post-id="34543" data-author="Dagger" data-date="2013-11-05T17:53:46+00:00" data-subject="Re: Gems for Trade or Sale">
 
 The Fire Opal is no longer available.
 
@@ -74,7 +74,7 @@ Dagger
 
 </div>
 
-<div class="post" data-post-id="34549" data-author="Dagger" data-date="2013-11-08T04:11:43+00:00">
+<div class="post" data-post-id="34549" data-author="Dagger" data-date="2013-11-08T04:11:43+00:00" data-subject="Re: Gems for Trade or Sale">
 
 The Smokey Quartz and Blue Quartz are no longer available.
 

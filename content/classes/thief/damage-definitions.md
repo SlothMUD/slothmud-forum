@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="1157" data-author="Methyx" data-date="2004-07-23T09:26:43+00:00">
+<div class="post" data-post-id="1157" data-author="Methyx" data-date="2004-07-23T09:26:43+00:00" data-subject="Damage Definitions">
 
 Hello All :)
 
@@ -22,7 +22,7 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="1158" data-author="Alberich" data-date="2004-07-23T09:29:04+00:00">
+<div class="post" data-post-id="1158" data-author="Alberich" data-date="2004-07-23T09:29:04+00:00" data-subject="">
 
 stab_dam only applies to stabs
 
@@ -32,7 +32,7 @@ do not know if there is a circlestab formula (would imagine there has to be) and
 
 </div>
 
-<div class="post" data-post-id="1160" data-author="Ender" data-date="2004-07-23T12:43:54+00:00">
+<div class="post" data-post-id="1160" data-author="Ender" data-date="2004-07-23T12:43:54+00:00" data-subject="Circle">
 
 I'm not really sure what the formula for this is either, though I have a feeling it is tiered in the same way backstab is, simply by the amount of damage it seems to do when I solo.  It seems that circle greatly reduces the duration of battles.  On the same note, other skills, such as trip, greatly reduce the amount of damage I suffer, so I often opt for these simply because the extra battle time isn't nearly as long as I would spend regening... so I can run longer and kill bigger mobs.
 

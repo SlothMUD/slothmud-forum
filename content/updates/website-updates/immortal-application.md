@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="3714" data-author="*Splork*" data-date="2005-01-11T03:09:47+00:00">
+<div class="post" data-post-id="3714" data-author="*Splork*" data-date="2005-01-11T03:09:47+00:00" data-subject="Immortal Application">
 
 Our Immortal application is now posted in the navbar under Immortals.
 
@@ -22,13 +22,13 @@ Splork :twisted:
 
 </div>
 
-<div class="post" data-post-id="3718" data-author="Gnu" data-date="2005-01-11T07:51:55+00:00">
+<div class="post" data-post-id="3718" data-author="Gnu" data-date="2005-01-11T07:51:55+00:00" data-subject="">
 
 Looks like admins are really interested in new Immortals... Interesting... may be the quality of old ones is not so good... or the number of active immortals is extremly low now...
 
 </div>
 
-<div class="post" data-post-id="3719" data-author="guest" data-date="2005-01-11T08:18:48+00:00">
+<div class="post" data-post-id="3719" data-author="guest" data-date="2005-01-11T08:18:48+00:00" data-subject="">
 
 since when has quality of immorts been an issue?
 
@@ -40,13 +40,13 @@ and for females, the ability to sleep with everyone on the mud, even if they liv
 
 </div>
 
-<div class="post" data-post-id="3721" data-author="13" data-date="2005-01-11T12:29:20+00:00">
+<div class="post" data-post-id="3721" data-author="13" data-date="2005-01-11T12:29:20+00:00" data-subject="Hrm">
 
 I need a good chicken baste/rub recipe..any suggestions ?
 
 </div>
 
-<div class="post" data-post-id="3722" data-author="Peter" data-date="2005-01-11T12:53:04+00:00">
+<div class="post" data-post-id="3722" data-author="Peter" data-date="2005-01-11T12:53:04+00:00" data-subject="">
 
 Gnu, sharp as a knife. I doubt they are hurting for Immortal activity.
 
@@ -76,13 +76,13 @@ Gnu, sharp as a knife. I doubt they are hurting for Immortal activity.
 
 </div>
 
-<div class="post" data-post-id="3723" data-author="Georgie" data-date="2005-01-11T12:55:52+00:00">
+<div class="post" data-post-id="3723" data-author="Georgie" data-date="2005-01-11T12:55:52+00:00" data-subject="">
 
 Leave Gnu alone, he is a very well liked newbie.
 
 </div>
 
-<div class="post" data-post-id="3727" data-author="Gnu" data-date="2005-01-11T15:54:07+00:00">
+<div class="post" data-post-id="3727" data-author="Gnu" data-date="2005-01-11T15:54:07+00:00" data-subject="">
 
 yes, I'm  a newb... and btw... about knifes and sharpness... who will trade me a sharp fishing knife?
 

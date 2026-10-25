@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3190" data-author="*Splork*" data-date="2004-12-05T07:59:06+00:00">
+<div class="post" data-post-id="3190" data-author="*Splork*" data-date="2004-12-05T07:59:06+00:00" data-subject="A couple changes...">
 
 Greetings, fellow students of the necromantic arts:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39444" data-author="Gorka" data-date="2020-04-26T17:53:14+00:00">
+<div class="post" data-post-id="39444" data-author="Gorka" data-date="2020-04-26T17:53:14+00:00" data-subject="New Area: Aggrynthian Expanse">
 
 The new area Aggrynthian Expanse has been added to the game and can be found... (fly and visage up) 3e1s3e2n7e1u1u1e1u11e7s1w from Island recall. 
 

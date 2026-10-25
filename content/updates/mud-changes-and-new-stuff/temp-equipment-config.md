@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34161" data-author="*Splork*" data-date="2013-03-17T14:59:11+00:00">
+<div class="post" data-post-id="34161" data-author="*Splork*" data-date="2013-03-17T14:59:11+00:00" data-subject="Temp equipment Config">
 
 On the 1st and 16th of every month, players will be able to wear temporary equipment anywhere they want. This is on a a trial basis and we would like to see how things turn out. This does include choppers.
 

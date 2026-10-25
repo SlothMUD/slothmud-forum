@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="13459" data-author="Dyril" data-date="2006-07-13T04:38:12+00:00">
+<div class="post" data-post-id="13459" data-author="Dyril" data-date="2006-07-13T04:38:12+00:00" data-subject="hello!">
 
 wow!  i was browsing old bookmarks and i came across this page... i'm kind of surprised sloth3 is still around.  not sure if anyone remembers me... think i quit cold turkey three years ago.  don't suppose sarge, zera, or turbo are still around?  hehe, those guys were cool.  there's some others too... sorry if i didn't mention your name!  it's been forever.
 
@@ -20,7 +20,7 @@ dy
 
 </div>
 
-<div class="post" data-post-id="13460" data-author="Weasel" data-date="2006-07-13T08:02:34+00:00">
+<div class="post" data-post-id="13460" data-author="Weasel" data-date="2006-07-13T08:02:34+00:00" data-subject="">
 
 might want to check this recent thread:
 
@@ -30,7 +30,7 @@ Turbo's around regularly, Sarge (aka Dot) drops in from time to time, but few an
 
 </div>
 
-<div class="post" data-post-id="13461" data-author="13" data-date="2006-07-13T12:39:40+00:00">
+<div class="post" data-post-id="13461" data-author="13" data-date="2006-07-13T12:39:40+00:00" data-subject="">
 
 Did you just say Sarge and Turbo were cool?
 
@@ -38,13 +38,13 @@ Really nice guys, but not exactly Miles Davis =\
 
 </div>
 
-<div class="post" data-post-id="13476" data-author="Turbo" data-date="2006-07-14T21:10:32+00:00">
+<div class="post" data-post-id="13476" data-author="Turbo" data-date="2006-07-14T21:10:32+00:00" data-subject="">
 
 Alright- I'm finally cool after all these years!!!!!
 
 </div>
 
-<div class="post" data-post-id="13477" data-author="Autolycos" data-date="2006-07-14T21:46:06+00:00">
+<div class="post" data-post-id="13477" data-author="Autolycos" data-date="2006-07-14T21:46:06+00:00" data-subject="">
 
 LIES LIES LIES!   
 

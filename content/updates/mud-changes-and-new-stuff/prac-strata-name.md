@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5996" data-author="guest" data-date="2005-05-05T14:59:06+00:00">
+<div class="post" data-post-id="5996" data-author="guest" data-date="2005-05-05T14:59:06+00:00" data-subject="prac &lt;strata-name&gt;">
 
 Hi all ... 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="29739" data-author="Toxis" data-date="2009-07-31T03:39:57+00:00">
+<div class="post" data-post-id="29739" data-author="Toxis" data-date="2009-07-31T03:39:57+00:00" data-subject="More Spam Please!">
 
 You slash Wu hard.
 
@@ -150,7 +150,7 @@ No, really.  More spam please, we didn't have enough as it was.
 
 </div>
 
-<div class="post" data-post-id="29741" data-author="Rigwarl" data-date="2009-07-31T14:00:29+00:00">
+<div class="post" data-post-id="29741" data-author="Rigwarl" data-date="2009-07-31T14:00:29+00:00" data-subject="">
 
 My suggestion would be the gagging of when people man back if concise is on.
 
@@ -162,25 +162,25 @@ Furthermore, it would be neat if broadside could be gagged with concise or clien
 
 </div>
 
-<div class="post" data-post-id="29742" data-author="alias" data-date="2009-07-31T22:06:37+00:00">
+<div class="post" data-post-id="29742" data-author="alias" data-date="2009-07-31T22:06:37+00:00" data-subject="">
 
 #gag {%0 moves}
 
 </div>
 
-<div class="post" data-post-id="29743" data-author="alias" data-date="2009-08-01T13:07:02+00:00">
+<div class="post" data-post-id="29743" data-author="alias" data-date="2009-08-01T13:07:02+00:00" data-subject="">
 
 #sub {moves} {An Angel gets their wings.}
 
 </div>
 
-<div class="post" data-post-id="29744" data-author="Magi" data-date="2009-08-01T19:30:15+00:00">
+<div class="post" data-post-id="29744" data-author="Magi" data-date="2009-08-01T19:30:15+00:00" data-subject="">
 
 Also, you forgot to make the 'man back' command lag you for 2 rounds!  What's the point of group collapsing if everyone has it triggered? :)
 
 </div>
 
-<div class="post" data-post-id="29745" data-author="alias" data-date="2009-08-01T21:35:57+00:00">
+<div class="post" data-post-id="29745" data-author="alias" data-date="2009-08-01T21:35:57+00:00" data-subject="">
 
 Sorry I got caught up in the moment and posted, it won't happen again for quite a while.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33461" data-author="Magi" data-date="2012-08-22T19:15:29+00:00">
+<div class="post" data-post-id="33461" data-author="Magi" data-date="2012-08-22T19:15:29+00:00" data-subject="Lost my mace of the underworld">
 
 If anyone found a hidden mace of the underworld, I'd appreciate it being returned to Magi/Josiah.
 

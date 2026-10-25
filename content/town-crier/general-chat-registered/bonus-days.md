@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30673" data-author="Flicka" data-date="2010-01-14T03:09:06+00:00">
+<div class="post" data-post-id="30673" data-author="Flicka" data-date="2010-01-14T03:09:06+00:00" data-subject="Bonus Days">
 
 Fargate Days- 1.9,23
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="38032" data-author="Gorka" data-date="2017-02-05T03:01:32+00:00">
+<div class="post" data-post-id="38032" data-author="Gorka" data-date="2017-02-05T03:01:32+00:00" data-subject="Warcry">
 
 Could an immortal please describe the conditions that cause a warcry to count?
 
@@ -20,7 +20,7 @@ In a previous group about a week ago, we also ended up discussing this. I don't 
 
 </div>
 
-<div class="post" data-post-id="38036" data-author="Vegetable" data-date="2017-02-05T22:09:32+00:00">
+<div class="post" data-post-id="38036" data-author="Vegetable" data-date="2017-02-05T22:09:32+00:00" data-subject="Re: Warcry">
 
 Not sure about this but what I noticed was you need at least 5 people to join your warcry (so you + 5 members = 6 people in the group at least) for it to count. Mob size seems not to matter much on this.
 
@@ -28,7 +28,7 @@ Not sure about this but what I noticed was you need at least 5 people to join yo
 
 </div>
 
-<div class="post" data-post-id="38037" data-author="Josiah" data-date="2017-02-06T05:01:34+00:00">
+<div class="post" data-post-id="38037" data-author="Josiah" data-date="2017-02-06T05:01:34+00:00" data-subject="Re: Warcry">
 
 Gorka,
 
@@ -80,7 +80,7 @@ Also, large groups kill surprisingly low numbers of enemies.  Try leading four w
 
 </div>
 
-<div class="post" data-post-id="38038" data-author="Tuck" data-date="2017-02-06T07:55:48+00:00">
+<div class="post" data-post-id="38038" data-author="Tuck" data-date="2017-02-06T07:55:48+00:00" data-subject="Re: Warcry">
 
 in my days (3 year ago) warcry and counts has been shown in finger data. nowdays it is not. 
 
@@ -88,7 +88,7 @@ any chance to see it somehow?
 
 </div>
 
-<div class="post" data-post-id="38039" data-author="Gorka" data-date="2017-02-06T08:09:22+00:00">
+<div class="post" data-post-id="38039" data-author="Gorka" data-date="2017-02-06T08:09:22+00:00" data-subject="Re: Warcry">
 
 Thanks Josiah,
 
@@ -488,7 +488,7 @@ Four hundred and sixty-four foes have fallen to this mighty cry!
 
 </div>
 
-<div class="post" data-post-id="38044" data-author="cyprimus" data-date="2017-02-07T00:36:22+00:00">
+<div class="post" data-post-id="38044" data-author="cyprimus" data-date="2017-02-07T00:36:22+00:00" data-subject="Re: Warcry">
 
 Tuk - You see count in finger info only if you have warcry
 
@@ -498,13 +498,13 @@ Yes, it can suck at times.. but it takes work like anything to improve
 
 </div>
 
-<div class="post" data-post-id="38045" data-author="Gorka" data-date="2017-02-07T08:55:05+00:00">
+<div class="post" data-post-id="38045" data-author="Gorka" data-date="2017-02-07T08:55:05+00:00" data-subject="Re: Warcry">
 
 No one can figure out why my log didn't count? I still think something is up or there are other conditions Josiah hasn't specified... but my log should have been a textbook count in my opinion, and it simply did not count.
 
 </div>
 
-<div class="post" data-post-id="38050" data-author="Josiah" data-date="2017-02-08T22:17:46+00:00">
+<div class="post" data-post-id="38050" data-author="Josiah" data-date="2017-02-08T22:17:46+00:00" data-subject="Re: Warcry">
 
 Just tested: easily replicated bug.
 
@@ -512,7 +512,7 @@ Killing a mob using 'deathblow' doesn't increment warcry.
 
 </div>
 
-<div class="post" data-post-id="38051" data-author="Gorka" data-date="2017-02-08T22:39:16+00:00">
+<div class="post" data-post-id="38051" data-author="Gorka" data-date="2017-02-08T22:39:16+00:00" data-subject="Re: Warcry">
 
 Really?  :| 
 
@@ -522,7 +522,7 @@ Erm, just when I deathblow, or when anyone deathblows? Is this by design or can 
 
 </div>
 
-<div class="post" data-post-id="38063" data-author="Gorka" data-date="2017-02-14T10:11:59+00:00">
+<div class="post" data-post-id="38063" data-author="Gorka" data-date="2017-02-14T10:11:59+00:00" data-subject="Re: Warcry">
 
 > **Quote:**
 > I tried out deathblow on warcry count last week. It worked for me. I got kill count for deathblow kill. Had only about 6 people in group that time iirc.
@@ -533,7 +533,7 @@ Can an immortal at least comment on what counts and what doesn't? Is it differen
 
 </div>
 
-<div class="post" data-post-id="38066" data-author="*Splork*" data-date="2017-02-15T00:48:30+00:00">
+<div class="post" data-post-id="38066" data-author="*Splork*" data-date="2017-02-15T00:48:30+00:00" data-subject="Re: Warcry">
 
 I checked my emails last week and found a conversation between Breeze and myself on this topic...
 
@@ -545,7 +545,7 @@ At the time, because warcry bonuses were already decided upon and we were deep i
 
 </div>
 
-<div class="post" data-post-id="38067" data-author="Gorka" data-date="2017-02-15T07:01:17+00:00">
+<div class="post" data-post-id="38067" data-author="Gorka" data-date="2017-02-15T07:01:17+00:00" data-subject="Re: Warcry">
 
 Thanks for the confirmation Splork. Even if I don't like the way it works... it's still better to know how it works than to be scratching my head about it's mechanics.
 
@@ -557,7 +557,7 @@ If we ever get another immortal like teker, who has the time and ability to work
 
 </div>
 
-<div class="post" data-post-id="38068" data-author="*Splork*" data-date="2017-02-15T16:51:02+00:00">
+<div class="post" data-post-id="38068" data-author="*Splork*" data-date="2017-02-15T16:51:02+00:00" data-subject="Re: Warcry">
 
 I agree that usage may slip a bit but I bet it still gets used quite often.
 
@@ -565,7 +565,7 @@ I think groups will quickly realize that having the ability to remove thousands 
 
 </div>
 
-<div class="post" data-post-id="38069" data-author="Josiah" data-date="2017-02-15T19:37:44+00:00">
+<div class="post" data-post-id="38069" data-author="Josiah" data-date="2017-02-15T19:37:44+00:00" data-subject="Re: Warcry">
 
 Deathblow is no joke... I think it does up to 5000ish damage, although I never tested for the exact amount.  The mob health percentages show that it works whenever a mob is at 14% or less.
 
@@ -579,13 +579,13 @@ But if I needed to build my warcry points I'd definitely ask people to refrain.
 
 </div>
 
-<div class="post" data-post-id="38071" data-author="*juggleblood*" data-date="2017-02-16T00:19:43+00:00">
+<div class="post" data-post-id="38071" data-author="*juggleblood*" data-date="2017-02-16T00:19:43+00:00" data-subject="Re: Warcry">
 
 Well, I will definitely stop in group, because warcry hit points are awesome for the front row peeps, so it's important to make sure our tanks are racking up warcry points.
 
 </div>
 
-<div class="post" data-post-id="38072" data-author="*Splork*" data-date="2017-02-16T02:07:36+00:00">
+<div class="post" data-post-id="38072" data-author="*Splork*" data-date="2017-02-16T02:07:36+00:00" data-subject="Re: Warcry">
 
 Actually, most tanks worth their salt already have reached quite high levels regarding the warcry structure bonuses.  They have already gained these bonuses which means you will receive them no matter what you do in their group...
 
@@ -597,13 +597,13 @@ Personally, I hope you guys choose to stop using it :lol:
 
 </div>
 
-<div class="post" data-post-id="38073" data-author="*juggleblood*" data-date="2017-02-16T05:14:00+00:00">
+<div class="post" data-post-id="38073" data-author="*juggleblood*" data-date="2017-02-16T05:14:00+00:00" data-subject="Re: Warcry">
 
 Well yeah. I'm thinking of Gorka and Knifey, two newer tanks. Dunno if Taron has reached a peak warcry or not yet.
 
 </div>
 
-<div class="post" data-post-id="38074" data-author="Gorka" data-date="2017-02-16T06:41:43+00:00">
+<div class="post" data-post-id="38074" data-author="Gorka" data-date="2017-02-16T06:41:43+00:00" data-subject="Re: Warcry">
 
 Last I looked Vege didn't have much more cries than I do.
 
@@ -611,7 +611,7 @@ People are quick to point out the advantage of deathblow, but warcry to a warrio
 
 </div>
 
-<div class="post" data-post-id="38075" data-author="*Splork*" data-date="2017-02-16T12:21:09+00:00">
+<div class="post" data-post-id="38075" data-author="*Splork*" data-date="2017-02-16T12:21:09+00:00" data-subject="Re: Warcry">
 
 I don't think anyone disagrees that it is ass backwards. As I said in my initial post, we chose not to change the game mechanics because we are simply too deep into the game to fix it correctly. For us to fix it, the way it should be fixed, it would actually be harder(much harder) to advance your Warcry count.  Sometimes it just not worth fixing an issue which would cause all sorts of complaints and leave new players at an extreme disadvantage and this turned out to be one of those.
 
@@ -619,7 +619,7 @@ You aren't artificially building or abusing anything, that is the way every othe
 
 </div>
 
-<div class="post" data-post-id="38076" data-author="Josiah" data-date="2017-02-16T17:33:12+00:00">
+<div class="post" data-post-id="38076" data-author="Josiah" data-date="2017-02-16T17:33:12+00:00" data-subject="Re: Warcry">
 
 Suggested "fix:"
 
@@ -629,7 +629,7 @@ Even though it's a little silly, I think it's better to have an in-game explanat
 
 </div>
 
-<div class="post" data-post-id="38077" data-author="Teron" data-date="2017-02-16T20:34:14+00:00">
+<div class="post" data-post-id="38077" data-author="Teron" data-date="2017-02-16T20:34:14+00:00" data-subject="Re: Warcry">
 
 Splork, I haven't done much of stab/blast with 4 men on lyme. The latest known case would be DoT with Dr, and that was months ago.
 
@@ -641,7 +641,7 @@ Also, fixing deathblow count and making it "actually be harder(much harder) to a
 
 </div>
 
-<div class="post" data-post-id="38078" data-author="*Breeze*" data-date="2017-02-16T22:30:08+00:00">
+<div class="post" data-post-id="38078" data-author="*Breeze*" data-date="2017-02-16T22:30:08+00:00" data-subject="Re: Warcry">
 
 > **Josiah wrote:**
 > Suggested "fix:"

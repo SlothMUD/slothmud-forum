@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33805" data-author="Tuck" data-date="2012-11-26T00:54:58+00:00">
+<div class="post" data-post-id="33805" data-author="Tuck" data-date="2012-11-26T00:54:58+00:00" data-subject="November garage sale!">
 
 Hail,
 

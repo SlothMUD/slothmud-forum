@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30717" data-author="Gimlet" data-date="2010-01-20T18:54:18+00:00">
+<div class="post" data-post-id="30717" data-author="Gimlet" data-date="2010-01-20T18:54:18+00:00" data-subject="missing +2 hit">
 
 after the reboot today i seem to have lost +2 to hit
 
@@ -24,7 +24,7 @@ can someone look into this
 
 </div>
 
-<div class="post" data-post-id="30718" data-author="jezer" data-date="2010-01-20T19:15:31+00:00">
+<div class="post" data-post-id="30718" data-author="jezer" data-date="2010-01-20T19:15:31+00:00" data-subject="">
 
 Not to take anything away from your post Poit...
 
@@ -40,7 +40,7 @@ Funny thing happened the other week, Isabo helped out with a CR for Dsfren and w
 
 </div>
 
-<div class="post" data-post-id="30722" data-author="Gimlet" data-date="2010-01-21T00:52:11+00:00">
+<div class="post" data-post-id="30722" data-author="Gimlet" data-date="2010-01-21T00:52:11+00:00" data-subject="">
 
 umm why should i care much about melee damage when i'm a mage :)
 

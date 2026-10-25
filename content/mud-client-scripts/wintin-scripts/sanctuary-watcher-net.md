@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="9744" data-author="jezer" data-date="2005-12-07T10:56:47+00:00">
+<div class="post" data-post-id="9744" data-author="jezer" data-date="2005-12-07T10:56:47+00:00" data-subject="Sanctuary Watcher .NET">
 
 Ok, after gripping a tough mob only to have my sanctuary fall the very next millisecond... and then dying... I decided it was time to write a sanctuary script for wintin.net. I have seen avatars with them before but the script is not posted anywhere I have found. So if you have a better script by all means post it!!!
 
@@ -58,7 +58,7 @@ Jezer
 
 </div>
 
-<div class="post" data-post-id="9745" data-author="jezer" data-date="2005-12-07T13:35:42+00:00">
+<div class="post" data-post-id="9745" data-author="jezer" data-date="2005-12-07T13:35:42+00:00" data-subject="">
 
 Small update, bigger eye-catching descriptions and some gags so you don't get double reports.
 
@@ -98,13 +98,13 @@ Small update, bigger eye-catching descriptions and some gags so you don't get do
 
 </div>
 
-<div class="post" data-post-id="10836" data-author="*juggleblood*" data-date="2006-02-22T11:16:28+00:00">
+<div class="post" data-post-id="10836" data-author="*juggleblood*" data-date="2006-02-22T11:16:28+00:00" data-subject="Ticking Sanc Counter?">
 
 Isn't there a way to make a countdown timer in Wintin that displays in a separate panel and actually counts down the seconds like a clock?
 
 </div>
 
-<div class="post" data-post-id="10837" data-author="Rynquald" data-date="2006-02-22T11:47:22+00:00">
+<div class="post" data-post-id="10837" data-author="Rynquald" data-date="2006-02-22T11:47:22+00:00" data-subject="">
 
 This would require some tweaking to work with Jezer's script, but here's a quick and dirty visual timer for the last 60 seconds of sanc, you could alter it to countdown from the start of sanc of course, but that would assume sanc wasn't affected by masterfulls. Of course doing that would only necessitate the alteration of the 'sanctick' timer to 3 ticks or whatever, and the 'sanctime' variable to 180.
 
@@ -116,7 +116,7 @@ That displays in pvar 1 just as an example (plus as I write this it's the middle
 
 </div>
 
-<div class="post" data-post-id="11128" data-author="*juggleblood*" data-date="2006-03-09T20:01:46+00:00">
+<div class="post" data-post-id="11128" data-author="*juggleblood*" data-date="2006-03-09T20:01:46+00:00" data-subject="">
 
 Here is a complete script for ne1 who wants it.
 
@@ -138,7 +138,7 @@ The command sanctell sets the output to grouptell, say, #showme, whatever.
 
 </div>
 
-<div class="post" data-post-id="11153" data-author="Avatar" data-date="2006-03-10T17:20:18+00:00">
+<div class="post" data-post-id="11153" data-author="Avatar" data-date="2006-03-10T17:20:18+00:00" data-subject="Sanc timer">
 
 That's a nice solution Juggleblood.  Good job!
 

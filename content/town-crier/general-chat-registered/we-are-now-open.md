@@ -10,7 +10,7 @@ locked: true
 post_count: 11
 ---
 
-<div class="post" data-post-id="28830" data-author="Clink" data-date="2009-04-11T21:00:53+00:00">
+<div class="post" data-post-id="28830" data-author="Clink" data-date="2009-04-11T21:00:53+00:00" data-subject="We are now oPEN">
 
 SlothMUD is now OPEN!!
 
@@ -36,7 +36,7 @@ SlothMUD is now OPEN!!
 
 </div>
 
-<div class="post" data-post-id="28831" data-author="Clink" data-date="2009-04-11T21:04:28+00:00">
+<div class="post" data-post-id="28831" data-author="Clink" data-date="2009-04-11T21:04:28+00:00" data-subject="">
 
 *Immortals of SlothMUD III*
 
@@ -100,7 +100,7 @@ SlothMUD is now OPEN!!
 
 </div>
 
-<div class="post" data-post-id="28833" data-author="Sind" data-date="2009-04-11T21:15:14+00:00">
+<div class="post" data-post-id="28833" data-author="Sind" data-date="2009-04-11T21:15:14+00:00" data-subject="">
 
 ok im in first who list, had enuff for lvl 2 and crash, good game,
 
@@ -108,7 +108,7 @@ cyas :)
 
 </div>
 
-<div class="post" data-post-id="28834" data-author="*Splork*" data-date="2009-04-11T21:45:33+00:00">
+<div class="post" data-post-id="28834" data-author="*Splork*" data-date="2009-04-11T21:45:33+00:00" data-subject="Downtime!">
 
 Give us a little time guys, we have to fix these bugs...
 
@@ -116,7 +116,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28847" data-author="Spuffy" data-date="2009-04-11T22:47:46+00:00">
+<div class="post" data-post-id="28847" data-author="Spuffy" data-date="2009-04-11T22:47:46+00:00" data-subject="">
 
 It does appear that whatever ails the mud is proving to be a tougher nut to crack than the ten minutes we said we'd be down :)
 
@@ -124,7 +124,7 @@ Sincere good luck with it...
 
 </div>
 
-<div class="post" data-post-id="28856" data-author="*Splork*" data-date="2009-04-12T05:20:35+00:00">
+<div class="post" data-post-id="28856" data-author="*Splork*" data-date="2009-04-12T05:20:35+00:00" data-subject="Closed for the evening!">
 
 I wanted to thank everyone who helped beta test us for the day and night.
 
@@ -140,25 +140,25 @@ We will try to iron these out in the morning and open tomorrow night.
 
 </div>
 
-<div class="post" data-post-id="28857" data-author="Xerox" data-date="2009-04-12T05:30:13+00:00">
+<div class="post" data-post-id="28857" data-author="Xerox" data-date="2009-04-12T05:30:13+00:00" data-subject="good one!!">
 
 I was in the game for like 20 minutes. whewww!
 
 </div>
 
-<div class="post" data-post-id="28860" data-author="walshy007" data-date="2009-04-12T12:45:27+00:00">
+<div class="post" data-post-id="28860" data-author="walshy007" data-date="2009-04-12T12:45:27+00:00" data-subject="time">
 
 ah hah, discovered the source of my time confusion, eastern standard time here is a reference to echo time, not kilo time (also eastern standard time.. but +10 as opposed to -5). Military time fixes all confusion :)
 
 </div>
 
-<div class="post" data-post-id="28879" data-author="Clink" data-date="2009-04-12T20:33:26+00:00">
+<div class="post" data-post-id="28879" data-author="Clink" data-date="2009-04-12T20:33:26+00:00" data-subject="">
 
 In the Eastern US, we are actually on Daylight Savings time.  In any case, it is roughly 3 hours from this post time (which is supposedly listed in GMT - 5 hours, but I can't guarantee it).
 
 </div>
 
-<div class="post" data-post-id="28974" data-author="*Splork*" data-date="2009-04-18T20:53:38+00:00">
+<div class="post" data-post-id="28974" data-author="*Splork*" data-date="2009-04-18T20:53:38+00:00" data-subject="Nice Who list">
 
 *Immortals of SlothMUD*
 
@@ -278,7 +278,7 @@ Highest total since last bootup: 54.
 
 </div>
 
-<div class="post" data-post-id="31317" data-author="Morkeleb" data-date="2010-06-20T05:34:13+00:00">
+<div class="post" data-post-id="31317" data-author="Morkeleb" data-date="2010-06-20T05:34:13+00:00" data-subject="Re: We are now oPEN">
 
 Clink's still around? I would have figured you'd be dust by now. :)
 

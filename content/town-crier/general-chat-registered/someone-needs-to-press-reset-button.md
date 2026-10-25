@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="7732" data-author="dt" data-date="2005-07-03T15:55:04+00:00">
+<div class="post" data-post-id="7732" data-author="dt" data-date="2005-07-03T15:55:04+00:00" data-subject="Someone needs to press reset button">
 
 Cool that Sloth been up as long as it has.. however
 
@@ -22,7 +22,7 @@ I ,as usual, blame Jake  :twisted:
 
 </div>
 
-<div class="post" data-post-id="7735" data-author="firebrand" data-date="2005-07-04T13:23:56+00:00">
+<div class="post" data-post-id="7735" data-author="firebrand" data-date="2005-07-04T13:23:56+00:00" data-subject="">
 
 time started
 
@@ -36,7 +36,7 @@ rock on guys.  this is awesome stability.  keep up the good work.
 
 </div>
 
-<div class="post" data-post-id="7737" data-author="Argeos" data-date="2005-07-04T21:07:47+00:00">
+<div class="post" data-post-id="7737" data-author="Argeos" data-date="2005-07-04T21:07:47+00:00" data-subject="Re: Someone needs to press reset button">
 
 Cool that Sloth been up as long as it has.. however
 

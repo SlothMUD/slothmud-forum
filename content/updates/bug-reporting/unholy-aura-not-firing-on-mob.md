@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34570" data-author="celerra7" data-date="2013-11-17T20:27:02+00:00">
+<div class="post" data-post-id="34570" data-author="celerra7" data-date="2013-11-17T20:27:02+00:00" data-subject="Unholy Aura not firing on mob">
 
 I am no longer able to use Unholy Aura spell on any pet or mob, only on myself:
 
@@ -60,13 +60,13 @@ Please advise.
 
 </div>
 
-<div class="post" data-post-id="34571" data-author="*juggleblood*" data-date="2013-11-19T21:50:21+00:00">
+<div class="post" data-post-id="34571" data-author="*juggleblood*" data-date="2013-11-19T21:50:21+00:00" data-subject="Re: Unholy Aura not firing on mob">
 
 Confirmed it's not just you. It's everybody. I'm reporting it up.
 
 </div>
 
-<div class="post" data-post-id="34572" data-author="*Splork*" data-date="2013-11-20T01:36:09+00:00">
+<div class="post" data-post-id="34572" data-author="*Splork*" data-date="2013-11-20T01:36:09+00:00" data-subject="Re: Unholy Aura not firing on mob">
 
 Fixed on reboot
 

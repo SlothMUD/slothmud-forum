@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="7316" data-author="Mosaix" data-date="2005-06-17T17:54:03+00:00">
+<div class="post" data-post-id="7316" data-author="Mosaix" data-date="2005-06-17T17:54:03+00:00" data-subject="WTB Some Item Please">
 
 Looking for the Following:
 

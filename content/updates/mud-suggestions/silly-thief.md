@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="12044" data-author="12345" data-date="2006-04-10T16:31:42+00:00">
+<div class="post" data-post-id="12044" data-author="12345" data-date="2006-04-10T16:31:42+00:00" data-subject="Silly thief...">
 
 I was kicking around some unrelated ideas and a few random thoughts wandered through my head.  Given the present state of things, they might be cool.  Anyway, some thief skill ideas...
 
@@ -26,7 +26,7 @@ I can't really picture this working well on stab/blast mobs... unless there's a 
 
 </div>
 
-<div class="post" data-post-id="12045" data-author="Rajil" data-date="2006-04-10T16:46:28+00:00">
+<div class="post" data-post-id="12045" data-author="Rajil" data-date="2006-04-10T16:46:28+00:00" data-subject="">
 
 ... waits for 12345 to come up with ideas for new monk skills ...
 
@@ -40,13 +40,13 @@ I can't really picture this working well on stab/blast mobs... unless there's a 
 
 </div>
 
-<div class="post" data-post-id="12046" data-author="12345" data-date="2006-04-10T16:48:21+00:00">
+<div class="post" data-post-id="12046" data-author="12345" data-date="2006-04-10T16:48:21+00:00" data-subject="">
 
 You could be waiting a while.  First you'd have to convince me there's something wrong with them  :wink:
 
 </div>
 
-<div class="post" data-post-id="12047" data-author="Autolycos" data-date="2006-04-10T17:19:39+00:00">
+<div class="post" data-post-id="12047" data-author="Autolycos" data-date="2006-04-10T17:19:39+00:00" data-subject="">
 
 sounds nifty,  i always wished there was a more amusing use for throw other then pies at Bit, or tossing daggers/hammers at Stumpy.
 
@@ -66,13 +66,13 @@ A Chinchilla Guardian says 'I feel like i'm in a cheesy B movie'
 
 </div>
 
-<div class="post" data-post-id="12049" data-author="12345" data-date="2006-04-10T17:26:06+00:00">
+<div class="post" data-post-id="12049" data-author="12345" data-date="2006-04-10T17:26:06+00:00" data-subject="">
 
 Nice idea Auto...  I think it would be great to watch you jump into a flaming room with lots of alcohol strapped to your body.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="12052" data-author="Autolycos" data-date="2006-04-10T19:34:52+00:00">
+<div class="post" data-post-id="12052" data-author="Autolycos" data-date="2006-04-10T19:34:52+00:00" data-subject="">
 
 sure,  i ain't skurred!  :twisted: besides I have tons of Rfire eq *cackle* :twisted:
 

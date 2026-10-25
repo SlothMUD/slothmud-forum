@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="27918" data-author="Wingnut" data-date="2009-01-30T06:00:12+00:00">
+<div class="post" data-post-id="27918" data-author="Wingnut" data-date="2009-01-30T06:00:12+00:00" data-subject="Something buggy here...">
 
 Killing Missy in Dwarven Mt.
 
@@ -220,7 +220,7 @@ Can someone take a look at this please...would really like to pop sleeves. :twis
 
 </div>
 
-<div class="post" data-post-id="27921" data-author="jezer" data-date="2009-01-30T06:26:34+00:00">
+<div class="post" data-post-id="27921" data-author="jezer" data-date="2009-01-30T06:26:34+00:00" data-subject="">
 
 You didn't have a corpse in inv did you?
 
@@ -228,7 +228,7 @@ Besides, it was only a piece of ginseng, trust me...  :(
 
 </div>
 
-<div class="post" data-post-id="27925" data-author="firebrand" data-date="2009-01-30T17:39:02+00:00">
+<div class="post" data-post-id="27925" data-author="firebrand" data-date="2009-01-30T17:39:02+00:00" data-subject="">
 
 just another argument in favor of ALL classes being able to inherently see inventory and lot leaving it restricted to thief and bard and ferrets.  but, then again, some other things that also make sense (make heal spells NOT cure blindness so that we can heal SELF while blind - not to mention making the cure blindness spell actually useful since heals currently enjoy the double benefit of not only healing the victim but curing their blindness as well, making cure blindness spell nearly obsolete), being able to dispel a specific spell off self/someone else instead of dispelling everything, and several others are still on the table to get fought for.  in fact, i am betting being able to dispel one spell from target when the target has several spells up would not be too much different than how purloin aura works on the victim.   i am also betting that if the players want something bad enough, admin will listen (i.e. removing pthieving from the game).
 
@@ -236,7 +236,7 @@ just another argument in favor of ALL classes being able to inherently see inven
 
 </div>
 
-<div class="post" data-post-id="27927" data-author="Autolycos" data-date="2009-01-30T19:53:53+00:00">
+<div class="post" data-post-id="27927" data-author="Autolycos" data-date="2009-01-30T19:53:53+00:00" data-subject="">
 
 odds are, she was holding a potion an quaffed it.
 
@@ -244,19 +244,19 @@ i've had several similar experiences and saw the potion in inventory, but it doe
 
 </div>
 
-<div class="post" data-post-id="27928" data-author="marge" data-date="2009-01-30T21:08:26+00:00">
+<div class="post" data-post-id="27928" data-author="marge" data-date="2009-01-30T21:08:26+00:00" data-subject="">
 
 She had sleeves in inventory, but Autolycos stealthed, snuck into room and stole em.
 
 </div>
 
-<div class="post" data-post-id="27930" data-author="Rynquald" data-date="2009-01-30T22:25:07+00:00">
+<div class="post" data-post-id="27930" data-author="Rynquald" data-date="2009-01-30T22:25:07+00:00" data-subject="">
 
 A long time ago using shapeshift acid attacks could destroy objects in a mob's inv. I'm not sure if it's still the case, but there's quite a bit of acid flying around in that log.
 
 </div>
 
-<div class="post" data-post-id="27953" data-author="Wingnut" data-date="2009-01-31T08:35:35+00:00">
+<div class="post" data-post-id="27953" data-author="Wingnut" data-date="2009-01-31T08:35:35+00:00" data-subject="">
 
 A long time ago using shapeshift acid attacks could destroy objects in a mob's inv. I'm not sure if it's still the case, but there's quite a bit of acid flying around in that log.[/quote:3rpmg87t]
 
@@ -264,7 +264,7 @@ Musta been the acid, used frost breath on next pop and item was still there.  Th
 
 </div>
 
-<div class="post" data-post-id="27955" data-author="Tap" data-date="2009-01-31T10:18:39+00:00">
+<div class="post" data-post-id="27955" data-author="Tap" data-date="2009-01-31T10:18:39+00:00" data-subject="">
 
 Then again with Slothmud not alwaYS being able to count with the numbers of PC's in a group compared to the naming of the group..I suspect the following...
 

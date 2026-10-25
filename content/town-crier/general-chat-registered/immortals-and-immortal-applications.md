@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="28999" data-author="*Splork*" data-date="2009-04-22T01:28:45+00:00">
+<div class="post" data-post-id="28999" data-author="*Splork*" data-date="2009-04-22T01:28:45+00:00" data-subject="Immortals and Immortal Applications">
 
 Lately, I have been receiving many questions regarding Immortal applications, which Immortals we are accepting back, and when.
 

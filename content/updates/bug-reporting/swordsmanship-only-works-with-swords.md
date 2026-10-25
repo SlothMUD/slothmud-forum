@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="29206" data-author="Filk" data-date="2009-05-18T15:42:50+00:00">
+<div class="post" data-post-id="29206" data-author="Filk" data-date="2009-05-18T15:42:50+00:00" data-subject="Swordsmanship only works with swords.">
 
 Maybe thats obviously, but as its said in skill description:
 
@@ -28,13 +28,13 @@ At least it dont works with my mace.
 
 </div>
 
-<div class="post" data-post-id="29211" data-author="jezer" data-date="2009-05-19T00:21:25+00:00">
+<div class="post" data-post-id="29211" data-author="jezer" data-date="2009-05-19T00:21:25+00:00" data-subject="">
 
 I figure they will change what the help says before they will change how it works to accommodate all weapons.
 
 </div>
 
-<div class="post" data-post-id="29214" data-author="*Splork*" data-date="2009-05-19T01:48:01+00:00">
+<div class="post" data-post-id="29214" data-author="*Splork*" data-date="2009-05-19T01:48:01+00:00" data-subject="">
 
 The skill works exactly as intended, with slash oriented weapons, which are mostly swords.
 
@@ -44,13 +44,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29215" data-author="jezer" data-date="2009-05-19T01:49:16+00:00">
+<div class="post" data-post-id="29215" data-author="jezer" data-date="2009-05-19T01:49:16+00:00" data-subject="">
 
 Hey, I think I've been right one other time... erm... yeah!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="29216" data-author="Filk" data-date="2009-05-19T02:05:40+00:00">
+<div class="post" data-post-id="29216" data-author="Filk" data-date="2009-05-19T02:05:40+00:00" data-subject="">
 
 sad.you pushing ppl to use mostly swords.and no other good weapons.
 
@@ -60,13 +60,13 @@ but ok
 
 </div>
 
-<div class="post" data-post-id="29217" data-author="*Splork*" data-date="2009-05-19T02:44:21+00:00">
+<div class="post" data-post-id="29217" data-author="*Splork*" data-date="2009-05-19T02:44:21+00:00" data-subject="">
 
 The skill has not changed in 7 years( it has always only worked with slash)  and plenTy of people use plenty of different types of weapons.
 
 </div>
 
-<div class="post" data-post-id="29218" data-author="jezer" data-date="2009-05-19T03:51:09+00:00">
+<div class="post" data-post-id="29218" data-author="jezer" data-date="2009-05-19T03:51:09+00:00" data-subject="">
 
 pleny of people use plenty of different types of weapons.[/quote:3l1jhnpk]
 
@@ -74,7 +74,7 @@ The pen is mighter than the sword... it's why I write a lot on the crier... also
 
 </div>
 
-<div class="post" data-post-id="29219" data-author="Filk" data-date="2009-05-19T11:30:39+00:00">
+<div class="post" data-post-id="29219" data-author="Filk" data-date="2009-05-19T11:30:39+00:00" data-subject="">
 
 pleny of people use plenty of different types of weapons.[/quote:18qilckw]
 
@@ -84,7 +84,7 @@ He can wipe your postcount! Beware!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="29220" data-author="jezer" data-date="2009-05-19T12:15:55+00:00">
+<div class="post" data-post-id="29220" data-author="jezer" data-date="2009-05-19T12:15:55+00:00" data-subject="">
 
 pleny of people use plenty of different types of weapons.[/quote:18ogyfzi]
 

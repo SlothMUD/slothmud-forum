@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="15839" data-author="brand" data-date="2006-12-29T14:11:25+00:00">
+<div class="post" data-post-id="15839" data-author="brand" data-date="2006-12-29T14:11:25+00:00" data-subject="new skill: locate room">
 
 just like the object spell only it tells you what continent the room is in or better yet what area...
 

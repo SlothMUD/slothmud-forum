@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2795" data-author="Hotara" data-date="2004-11-12T08:01:49+00:00">
+<div class="post" data-post-id="2795" data-author="Hotara" data-date="2004-11-12T08:01:49+00:00" data-subject="Wtb or Trade for Some Mystical Eye cps">
 
 Alright, I need the following two cps :
 

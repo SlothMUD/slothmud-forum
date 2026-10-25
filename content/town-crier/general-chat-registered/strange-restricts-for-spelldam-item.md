@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="36286" data-author="Ertai" data-date="2015-12-10T08:25:32+00:00">
+<div class="post" data-post-id="36286" data-author="Ertai" data-date="2015-12-10T08:25:32+00:00" data-subject="Strange restricts for spelldam item">
 
 Some time ago I received an awesome spelldam item:
 
@@ -40,7 +40,7 @@ What is your opinion about this necklace?
 
 </div>
 
-<div class="post" data-post-id="36290" data-author="Teron" data-date="2015-12-11T10:07:15+00:00">
+<div class="post" data-post-id="36290" data-author="Teron" data-date="2015-12-11T10:07:15+00:00" data-subject="Re: Strange restricts for spelldam item">
 
 The mob that pops it is Xerxes.
 
@@ -58,7 +58,7 @@ Still, though, some official response on these items would be helpful.
 
 </div>
 
-<div class="post" data-post-id="36291" data-author="*Breeze*" data-date="2015-12-11T12:55:38+00:00">
+<div class="post" data-post-id="36291" data-author="*Breeze*" data-date="2015-12-11T12:55:38+00:00" data-subject="Re: Strange restricts for spelldam item">
 
 ask neptune. its his area.
 
@@ -66,7 +66,7 @@ pretty sure he had a reason but i cant find it in my email
 
 </div>
 
-<div class="post" data-post-id="36292" data-author="Ertai" data-date="2015-12-11T15:38:08+00:00">
+<div class="post" data-post-id="36292" data-author="Ertai" data-date="2015-12-11T15:38:08+00:00" data-subject="Re: Strange restricts for spelldam item">
 
 > **Teron wrote:**
 > He also pops sleeves of dawnfire, which have these restricts:
@@ -92,13 +92,13 @@ Of cause, I'd like to listen for Neptune about this item. But... watch my messag
 
 </div>
 
-<div class="post" data-post-id="36294" data-author="*Breeze*" data-date="2015-12-11T17:37:25+00:00">
+<div class="post" data-post-id="36294" data-author="*Breeze*" data-date="2015-12-11T17:37:25+00:00" data-subject="Re: Strange restricts for spelldam item">
 
 and the people currently using it with its current restrictions?
 
 </div>
 
-<div class="post" data-post-id="36295" data-author="Ertai" data-date="2015-12-11T19:35:46+00:00">
+<div class="post" data-post-id="36295" data-author="Ertai" data-date="2015-12-11T19:35:46+00:00" data-subject="Re: Strange restricts for spelldam item">
 
 > ***Breeze* wrote:**
 > and the people currently using it with its current restrictions?
@@ -109,7 +109,7 @@ As I've told, I may understand if it have av25 restrs, not ma + dr.
 
 </div>
 
-<div class="post" data-post-id="36302" data-author="*Neptune*" data-date="2015-12-12T21:43:33+00:00">
+<div class="post" data-post-id="36302" data-author="*Neptune*" data-date="2015-12-12T21:43:33+00:00" data-subject="Re: Strange restricts for spelldam item">
 
 Greetings.
 
@@ -365,7 +365,7 @@ Anyways, It may be long-winded, but you know what they say:
 
 </div>
 
-<div class="post" data-post-id="36303" data-author="Ertai" data-date="2015-12-13T03:26:47+00:00">
+<div class="post" data-post-id="36303" data-author="Ertai" data-date="2015-12-13T03:26:47+00:00" data-subject="Re: Strange restricts for spelldam item">
 
 Neptune,
 
@@ -381,13 +381,13 @@ Ertai
 
 </div>
 
-<div class="post" data-post-id="36305" data-author="Yasik" data-date="2015-12-13T12:12:25+00:00">
+<div class="post" data-post-id="36305" data-author="Yasik" data-date="2015-12-13T12:12:25+00:00" data-subject="Re: Strange restricts for spelldam item">
 
 Neptune just told you to shut up and deal with it, in short terms  :lol:
 
 </div>
 
-<div class="post" data-post-id="36306" data-author="Ertai" data-date="2015-12-13T12:25:58+00:00">
+<div class="post" data-post-id="36306" data-author="Ertai" data-date="2015-12-13T12:25:58+00:00" data-subject="Re: Strange restricts for spelldam item">
 
 > **Yasik wrote:**
 > Neptune just told you to shut up and deal with it, in short terms  :lol:
@@ -400,13 +400,13 @@ Neptune's post answered all my questions. I've written above about it.
 
 </div>
 
-<div class="post" data-post-id="36307" data-author="Yasik" data-date="2015-12-13T15:14:29+00:00">
+<div class="post" data-post-id="36307" data-author="Yasik" data-date="2015-12-13T15:14:29+00:00" data-subject="Re: Strange restricts for spelldam item">
 
 My comment answered all your questions as well, just in shorter length  :lol:
 
 </div>
 
-<div class="post" data-post-id="36308" data-author="*Splork*" data-date="2015-12-13T20:36:01+00:00">
+<div class="post" data-post-id="36308" data-author="*Splork*" data-date="2015-12-13T20:36:01+00:00" data-subject="Re: Strange restricts for spelldam item">
 
 Neptune never answers questions with a big FU :shock:   He may over-answer a question every now and again! hehe
 
@@ -414,7 +414,7 @@ He is our most level headed Administrator! Try asking that question to Breeze or
 
 </div>
 
-<div class="post" data-post-id="36310" data-author="*juggleblood*" data-date="2015-12-13T23:10:40+00:00">
+<div class="post" data-post-id="36310" data-author="*juggleblood*" data-date="2015-12-13T23:10:40+00:00" data-subject="Re: Strange restricts for spelldam item">
 
 Yeah, that was seriously the best answer I think I've read.
 

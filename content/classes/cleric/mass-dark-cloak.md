@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9499" data-author="brand" data-date="2005-11-13T07:54:26+00:00">
+<div class="post" data-post-id="9499" data-author="brand" data-date="2005-11-13T07:54:26+00:00" data-subject="Mass Dark Cloak">
 
 why have a just a light when you can have...
 

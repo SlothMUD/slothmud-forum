@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9629" data-author="*Splork*" data-date="2005-11-25T20:56:43+00:00">
+<div class="post" data-post-id="9629" data-author="*Splork*" data-date="2005-11-25T20:56:43+00:00" data-subject="Changes">
 
 1) Pthiefs can no longer trigger trigtraps which enter vault rooms.
 

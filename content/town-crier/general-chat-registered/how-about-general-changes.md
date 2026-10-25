@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="16177" data-author="Risk" data-date="2007-01-10T19:13:06+00:00">
+<div class="post" data-post-id="16177" data-author="Risk" data-date="2007-01-10T19:13:06+00:00" data-subject="How about general changes?">
 
 Hi all!
 
@@ -32,7 +32,7 @@ Risk.
 
 </div>
 
-<div class="post" data-post-id="16180" data-author="Autolycos" data-date="2007-01-10T19:32:36+00:00">
+<div class="post" data-post-id="16180" data-author="Autolycos" data-date="2007-01-10T19:32:36+00:00" data-subject="">
 
 And I have feel you idiot :twisted: 
 
@@ -44,7 +44,7 @@ Splork on the other hand hates everyone.. he does not see race/religeon/color or
 
 </div>
 
-<div class="post" data-post-id="16183" data-author="firebrand" data-date="2007-01-10T22:09:52+00:00">
+<div class="post" data-post-id="16183" data-author="firebrand" data-date="2007-01-10T22:09:52+00:00" data-subject="">
 
 risk.....STFU.  
 
@@ -52,7 +52,7 @@ risk.....STFU.
 
 </div>
 
-<div class="post" data-post-id="16187" data-author="Avatar" data-date="2007-01-10T22:39:18+00:00">
+<div class="post" data-post-id="16187" data-author="Avatar" data-date="2007-01-10T22:39:18+00:00" data-subject="Changes etc.">
 
 Be nice guys!
 
@@ -64,7 +64,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="16189" data-author="Krok" data-date="2007-01-10T22:46:49+00:00">
+<div class="post" data-post-id="16189" data-author="Krok" data-date="2007-01-10T22:46:49+00:00" data-subject="">
 
 Risky, they nerfed necros, but added some general stuff for everybody, which is supposed to entertain us. Yawn. :)
 

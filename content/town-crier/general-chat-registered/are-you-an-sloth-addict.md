@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="14968" data-author="Leaf" data-date="2006-11-04T04:42:10+00:00">
+<div class="post" data-post-id="14968" data-author="Leaf" data-date="2006-11-04T04:42:10+00:00" data-subject="Are You an Sloth Addict?">
 
 Here's a list of common symptoms to watch out for:
 
@@ -32,19 +32,19 @@ Here's a list of common symptoms to watch out for:
 
 </div>
 
-<div class="post" data-post-id="14970" data-author="tincts" data-date="2006-11-04T08:04:18+00:00">
+<div class="post" data-post-id="14970" data-author="tincts" data-date="2006-11-04T08:04:18+00:00" data-subject="">
 
 I suffer from all these symptoms except number 8
 
 </div>
 
-<div class="post" data-post-id="14971" data-author="Akasha" data-date="2006-11-04T10:34:44+00:00">
+<div class="post" data-post-id="14971" data-author="Akasha" data-date="2006-11-04T10:34:44+00:00" data-subject="">
 
 I only suffer from number 8
 
 </div>
 
-<div class="post" data-post-id="14972" data-author="*juggleblood*" data-date="2006-11-04T11:32:42+00:00">
+<div class="post" data-post-id="14972" data-author="*juggleblood*" data-date="2006-11-04T11:32:42+00:00" data-subject="">
 
 You dream in ascii text.
 
@@ -52,7 +52,7 @@ Don't forget that one. or is it just me...
 
 </div>
 
-<div class="post" data-post-id="14974" data-author="13" data-date="2006-11-04T12:31:10+00:00">
+<div class="post" data-post-id="14974" data-author="13" data-date="2006-11-04T12:31:10+00:00" data-subject="">
 
 I'M NOT IN DENIAL!
 

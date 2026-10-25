@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="15344" data-author="Vixn" data-date="2006-11-26T14:32:19+00:00">
+<div class="post" data-post-id="15344" data-author="Vixn" data-date="2006-11-26T14:32:19+00:00" data-subject="Thanks for raise :)">
 
 <-116hp 10ma 220mv -9.0ac +10al>
 

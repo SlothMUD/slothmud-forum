@@ -10,13 +10,13 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="31391" data-author="Toxis" data-date="2010-08-03T04:25:04+00:00">
+<div class="post" data-post-id="31391" data-author="Toxis" data-date="2010-08-03T04:25:04+00:00" data-subject="Van&#x27;s an Ass">
 
 Splork gossips-- 'and btw, there are no level restricts on runes that i know of:)'
 
 </div>
 
-<div class="post" data-post-id="31392" data-author="Toxis" data-date="2010-08-03T04:33:02+00:00">
+<div class="post" data-post-id="31392" data-author="Toxis" data-date="2010-08-03T04:33:02+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 this might make you realize why I'm so mad, soooo many gems popped the other day in group, and we went months and months with little gems popping and almost all gems I got were not when I was leading so....
 
@@ -30,13 +30,13 @@ so please.. can you just see why I'm a lot angry?  All those months and not a si
 
 </div>
 
-<div class="post" data-post-id="31393" data-author="jezer" data-date="2010-08-03T05:36:14+00:00">
+<div class="post" data-post-id="31393" data-author="jezer" data-date="2010-08-03T05:36:14+00:00" data-subject="Reply to Thread">
 
 Brad, in all due respect, your a broken record. People like you, and they are thankful that you lead. But honestly this bitterness and resentment make you a difficult person at the moment. It's not pleasant to have you join a group at the moment and within minutes you've found something to be bitter and resentful about. Yes, I get ticked off at the game too, how it's works, certain people. I'm not a perfect person. But as long as you kick around these feelings your going through, there is no way out, and it just gets worse and worse. I'm kind of hoping your were drinking when you wrote this. Your asking people here to take sides, to start a war. It's not in any ones interests... even your own.
 
 </div>
 
-<div class="post" data-post-id="31394" data-author="van" data-date="2010-08-03T05:47:29+00:00">
+<div class="post" data-post-id="31394" data-author="van" data-date="2010-08-03T05:47:29+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 A few salient points.  I wouldn't address this post, except for the title, which I feel is sort of invitation. :)
 
@@ -112,19 +112,19 @@ If you don't like these rules (subject to revision after comment): don't join my
 
 </div>
 
-<div class="post" data-post-id="31395" data-author="jezer" data-date="2010-08-03T05:52:23+00:00">
+<div class="post" data-post-id="31395" data-author="jezer" data-date="2010-08-03T05:52:23+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 Blah Blah Blah! All we really want to know is do 1's still win on the wheel!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="31397" data-author="van" data-date="2010-08-03T06:14:39+00:00">
+<div class="post" data-post-id="31397" data-author="van" data-date="2010-08-03T06:14:39+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 Hot damn, how could I forget?  In my groups, a 1 on the wheel ALWAYS wins.  It's just that epic.  List above updated!
 
 </div>
 
-<div class="post" data-post-id="31398" data-author="jezer" data-date="2010-08-03T06:59:34+00:00">
+<div class="post" data-post-id="31398" data-author="jezer" data-date="2010-08-03T06:59:34+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 Good fair rules, I hope all leaders adopt them. There are still some "holes" I know some people will try to exploit. You could go on defining them forever and people will still find a way to be an ignoramus. 
 
@@ -152,7 +152,7 @@ You could go on defining them forever... for which the last rule to be applied s
 
 </div>
 
-<div class="post" data-post-id="31402" data-author="Kanae" data-date="2010-08-03T18:31:34+00:00">
+<div class="post" data-post-id="31402" data-author="Kanae" data-date="2010-08-03T18:31:34+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 I have spoken out about this already and will just clarify here.  A leader is welcome to do whatever they want, if you don't agree don't follow. 
 
@@ -178,7 +178,7 @@ I could care less if you wheeled a chunk of dust and an avatar won or a newbie o
 
 </div>
 
-<div class="post" data-post-id="31404" data-author="Toxis" data-date="2010-08-03T19:24:13+00:00">
+<div class="post" data-post-id="31404" data-author="Toxis" data-date="2010-08-03T19:24:13+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 Congratz! You just won a gem! But, you're low level, even though gems aren't level restricted AND there's no rule beforehand saying you won't win gems in a wheel SO GEM GOES TO SOMEONE ELSE, UNGRATZ!
 
@@ -190,7 +190,7 @@ Congratz! You just won a gem! But, you're low level, even though gems aren't lev
 
 </div>
 
-<div class="post" data-post-id="31405" data-author="reboog" data-date="2010-08-03T19:29:37+00:00">
+<div class="post" data-post-id="31405" data-author="reboog" data-date="2010-08-03T19:29:37+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 why can't we be friends?
 
@@ -200,7 +200,7 @@ while at gunpoint
 
 </div>
 
-<div class="post" data-post-id="31410" data-author="Shyla" data-date="2010-08-04T17:09:56+00:00">
+<div class="post" data-post-id="31410" data-author="Shyla" data-date="2010-08-04T17:09:56+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 Gems themselves might not be level restrict but my only question is since they cost 5 mil to forge and once put on an item it can't be removed would you be better off giving it to someone that likely has an item they don't plan on changing out or giving to someone that even ifthey have the coins will just attach it to an item they won't be using that long?  And I am not saying to not give to newbies I am just pondering about it.  I mean if rune could be removed and reattached that would beone thing.  But since they can't I would rather have them given to someone that has object to actually attach them to that they will be using a while longer.  Just my 2 cents
 
@@ -208,7 +208,7 @@ Deb
 
 </div>
 
-<div class="post" data-post-id="31417" data-author="van" data-date="2010-08-05T08:53:12+00:00">
+<div class="post" data-post-id="31417" data-author="van" data-date="2010-08-05T08:53:12+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 Shorter Toxis:
 
@@ -233,7 +233,7 @@ I shall return to polite vehicle status. This may require a #GAG Toxis, we'll se
 
 </div>
 
-<div class="post" data-post-id="31419" data-author="Toxis" data-date="2010-08-05T12:16:35+00:00">
+<div class="post" data-post-id="31419" data-author="Toxis" data-date="2010-08-05T12:16:35+00:00" data-subject="Unfairness?">
 
 What all this whole arguement with me boils down to is this...
 
@@ -245,13 +245,13 @@ Besides, I blame the system not the players.  No game is foolproof, there's alwa
 
 </div>
 
-<div class="post" data-post-id="31421" data-author="van" data-date="2010-08-05T18:41:12+00:00">
+<div class="post" data-post-id="31421" data-author="van" data-date="2010-08-05T18:41:12+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 Ironically, just before you went volcanic, Rubiks was willing to just give you the gem.  Perhaps you should rethink your 'going nuts' reaction.
 
 </div>
 
-<div class="post" data-post-id="31423" data-author="reboog" data-date="2010-08-06T20:52:22+00:00">
+<div class="post" data-post-id="31423" data-author="reboog" data-date="2010-08-06T20:52:22+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 rr;eene;ragerent
 
@@ -263,7 +263,7 @@ ragerent
 
 </div>
 
-<div class="post" data-post-id="31424" data-author="Toxis" data-date="2010-08-07T01:33:49+00:00">
+<div class="post" data-post-id="31424" data-author="Toxis" data-date="2010-08-07T01:33:49+00:00" data-subject="Re: Van&#x27;s an Ass">
 
 Newbies can sell gems to other players to get some good starter gold, isn't that fair too?
 

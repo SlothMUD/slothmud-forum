@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30394" data-author="jezer" data-date="2009-11-29T09:20:48+00:00">
+<div class="post" data-post-id="30394" data-author="jezer" data-date="2009-11-29T09:20:48+00:00" data-subject="Druid Epic Mobs">
 
 The Kobold Sage's Hut
 
@@ -352,7 +352,7 @@ You are in pretty bad shape, unable to do anything!
 
 </div>
 
-<div class="post" data-post-id="30396" data-author="*juggleblood*" data-date="2009-11-29T22:48:37+00:00">
+<div class="post" data-post-id="30396" data-author="*juggleblood*" data-date="2009-11-29T22:48:37+00:00" data-subject="">
 
 good catch. theres still a good number of mobs out there with inappropriate armor class due to code changes.
 
@@ -360,7 +360,7 @@ its fixed.
 
 </div>
 
-<div class="post" data-post-id="30398" data-author="harik" data-date="2009-12-01T21:05:37+00:00">
+<div class="post" data-post-id="30398" data-author="harik" data-date="2009-12-01T21:05:37+00:00" data-subject="">
 
 good catch. theres still a good number of mobs out there with inappropriate armor class due to code changes.
 

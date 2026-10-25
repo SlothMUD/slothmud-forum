@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="9522" data-author="Ezekiel" data-date="2005-11-15T23:30:38+00:00">
+<div class="post" data-post-id="9522" data-author="Ezekiel" data-date="2005-11-15T23:30:38+00:00" data-subject="Class Suggestions">
 
 Hey, Ezekiel here. I know itâ€™s time consuming coming up with ideas and such on top of what you imms already do and it has been repeated that player input and suggestions are welcome. Here are some ideas that I had for each classo. While some may be moot or unusable or even rehashed, others may be useful either in the construct of a different implement or the exact implement itself. If everyone just took a little time to post some of their own, the imms could draw the best from all of them and come up with some kick ass stuff. Give your criticisms or input if you like, these are simply ideas people. Thanks for your time, and I least I tried, even if none of this ever gets implemented.
 
@@ -78,7 +78,7 @@ Note: whoever added that clan talk channel feature a while backâ€¦rock on. I
 
 </div>
 
-<div class="post" data-post-id="9523" data-author="Weasel" data-date="2005-11-16T01:04:22+00:00">
+<div class="post" data-post-id="9523" data-author="Weasel" data-date="2005-11-16T01:04:22+00:00" data-subject="">
 
 Good on ya Eze for having a go at suggesting some ideas. I can't comment on the newer classo's since I don't play them much (if at all) ..in fact I don't even play much anymore at all after the bollocking I got the last few times I tried to make any constructive suggestions, so best of luck with your efforts. Perhaps suggestions ARE welcome from some, but certainly not from everyone.
 
@@ -86,13 +86,13 @@ Good on ya Eze for having a go at suggesting some ideas. I can't comment on the 
 
 </div>
 
-<div class="post" data-post-id="9524" data-author="Krok" data-date="2005-11-16T03:20:15+00:00">
+<div class="post" data-post-id="9524" data-author="Krok" data-date="2005-11-16T03:20:15+00:00" data-subject="">
 
 I like the idea about the dark mace really, because now I think it's useless to use our prime ability - hidden mace of underworld rocks much more.
 
 </div>
 
-<div class="post" data-post-id="9527" data-author="Vixn" data-date="2005-11-16T07:14:42+00:00">
+<div class="post" data-post-id="9527" data-author="Vixn" data-date="2005-11-16T07:14:42+00:00" data-subject="">
 
 As it seems to me I like song of the sea/ocean idea though last time i've tried to sing being underwater I start to drown. Weightshift is good idea too. Why shouldn't it be initial ability? And I like midnight mace idea very much. There should be some features to improve clerics' solo runs.
 
@@ -102,7 +102,7 @@ Imho reflection have to be changed.  Hermetic resonance seems much better and it
 
 </div>
 
-<div class="post" data-post-id="9528" data-author="Blackguard" data-date="2005-11-16T10:39:10+00:00">
+<div class="post" data-post-id="9528" data-author="Blackguard" data-date="2005-11-16T10:39:10+00:00" data-subject="">
 
 [quote:2d0uikbw]a character should have a much lower percent chance of having something stolen from them no matter how hidden the pthief.[/quote:2d0uikbw]
 
@@ -110,13 +110,13 @@ haha comedy gold
 
 </div>
 
-<div class="post" data-post-id="9532" data-author="Falsra" data-date="2005-11-16T13:12:13+00:00">
+<div class="post" data-post-id="9532" data-author="Falsra" data-date="2005-11-16T13:12:13+00:00" data-subject="">
 
 LET MAGES STAB WITH MIRRORS!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="9533" data-author="Ezekiel" data-date="2005-11-16T13:22:37+00:00">
+<div class="post" data-post-id="9533" data-author="Ezekiel" data-date="2005-11-16T13:22:37+00:00" data-subject="">
 
 heh...i like how blackguard picks and chooses the parts of the sentences he like to follow up on...yes...discredit the reason behind the claim that perception heightens overall awareness...then again...i wouldn't expect a pthief who does nothing but sit at the inn all day to know anything about real aspects of the game.
 
@@ -126,7 +126,7 @@ Ezekiel
 
 </div>
 
-<div class="post" data-post-id="9534" data-author="brand" data-date="2005-11-16T17:23:42+00:00">
+<div class="post" data-post-id="9534" data-author="brand" data-date="2005-11-16T17:23:42+00:00" data-subject="">
 
 not a bad little wish list there E.  imho adding new prime only skills is not only a waste of time for immortals but for players as well, spending time to put in something that is limited to a very few characters is nice, but not as cool as a new skill available to multiple classes (warcry and crip strike for example).  that said putting (prime only) after a skill does give you power to let the mind roam.  why clerics say dark mace not so good it just got a really nice upgrade some time ago and procs a ton(DARKMACE RULES THE MIDNIGHT AIR).  although i dream about the possible thor hammer upgrade that allows a thrown weapon to return to wielders hand next round.  it would be great if blaze could ignite webs, then we could finally have those great moments i remember when a mage casts fire in hallway containing his webbed party.  don't you do that.  I"LL JUST HIT THE MOB. don't you do that. IT WILL WORK. don't do it. WHO MADE YOU LEADER. don't do it... then the party dies.  anyhow lunch time.
 
@@ -134,7 +134,7 @@ not a bad little wish list there E.  imho adding new prime only skills is not on
 
 </div>
 
-<div class="post" data-post-id="9535" data-author="blackmore" data-date="2005-11-16T17:34:31+00:00">
+<div class="post" data-post-id="9535" data-author="blackmore" data-date="2005-11-16T17:34:31+00:00" data-subject="">
 
 Imho reflection have to be changed.  Hermetic resonance seems much better and it isn't prime spell. And resonance with spell shield do much more protection from spells. So I don't see any advantages of using reflection. [/quote:31aifaif]
 
@@ -146,7 +146,7 @@ I do agree that with changes over the years, reflection has become much less use
 
 </div>
 
-<div class="post" data-post-id="9536" data-author="Alberich" data-date="2005-11-16T17:48:59+00:00">
+<div class="post" data-post-id="9536" data-author="Alberich" data-date="2005-11-16T17:48:59+00:00" data-subject="">
 
 I've gotta agree with blackmore... reflection might leave a bit to be desired, but I still use it far more often than say spellshield (or I use them together).  Haven't gotten motivated enough to go pop that hermetic resonance book yet though, so cannot really make an intelligent comparison there, but from what I've seen/heard, it won't be replacing reflection for any of my runs.
 
@@ -156,7 +156,7 @@ i second falsra, let us stab with our mirrors up!
 
 </div>
 
-<div class="post" data-post-id="9537" data-author="kjartan" data-date="2005-11-16T18:42:15+00:00">
+<div class="post" data-post-id="9537" data-author="kjartan" data-date="2005-11-16T18:42:15+00:00" data-subject="">
 
 Theoretically most caster mobs (the ones that are supposed to be smart, but not necessarily other proc mobs that also blast) will realize you have hermetic resonance up and switch to another blast spell after getting one reflected back at them.  (Actually, sometimes it might make sense for it to bounce a few spells to try to bring down the resonance, but they aren't that smart right now).
 
@@ -166,7 +166,7 @@ I had really figured hermetic resonance would mostly be useful for things like b
 
 </div>
 
-<div class="post" data-post-id="9540" data-author="Weasel" data-date="2005-11-16T19:52:36+00:00">
+<div class="post" data-post-id="9540" data-author="Weasel" data-date="2005-11-16T19:52:36+00:00" data-subject="">
 
 ..although i dream about the possible thor hammer upgrade that allows a thrown weapon to return to wielders hand next round.. [/quote:1g251c8n]
 
@@ -174,7 +174,7 @@ Nods, I put that suggestion forward a while ago (with more details about loss co
 
 </div>
 
-<div class="post" data-post-id="9545" data-author="Blackguard" data-date="2005-11-17T10:50:09+00:00">
+<div class="post" data-post-id="9545" data-author="Blackguard" data-date="2005-11-17T10:50:09+00:00" data-subject="">
 
 heh...i like how blackguard picks and chooses the parts of the sentences he like to follow up on...yes...discredit the reason behind the claim that perception heightens overall awareness...then again...i wouldn't expect a pthief who does nothing but sit at the inn all day to know anything about real aspects of the game.
 
@@ -196,7 +196,7 @@ i didnt mean to discredit the reason behind the claim btw, i just dislike the id
 
 </div>
 
-<div class="post" data-post-id="9546" data-author="Vixn" data-date="2005-11-17T12:23:33+00:00">
+<div class="post" data-post-id="9546" data-author="Vixn" data-date="2005-11-17T12:23:33+00:00" data-subject="">
 
 how come theres only 2 slots for fingers? last i checked i had 10.[/quote:2acdr3sd]
 
@@ -204,7 +204,7 @@ could you wear rings on your toes??
 
 </div>
 
-<div class="post" data-post-id="9562" data-author="jezer" data-date="2005-11-18T01:17:33+00:00">
+<div class="post" data-post-id="9562" data-author="jezer" data-date="2005-11-18T01:17:33+00:00" data-subject="Stance System">
 
 Hmm, On other muds I have played they have had a stance system which essentially effects how much damage you infflict vs how much you take (proportionally). 
 
@@ -224,19 +224,19 @@ Its an idea... I know these things take time to implement etc... just chucking i
 
 </div>
 
-<div class="post" data-post-id="9567" data-author="12345" data-date="2005-11-18T05:45:02+00:00">
+<div class="post" data-post-id="9567" data-author="12345" data-date="2005-11-18T05:45:02+00:00" data-subject="">
 
 Stances are common.  I forget if they were added as part of Merc or Godwars, but both are common codebases for any number of muds.
 
 </div>
 
-<div class="post" data-post-id="9581" data-author="kjartan" data-date="2005-11-18T17:09:25+00:00">
+<div class="post" data-post-id="9581" data-author="kjartan" data-date="2005-11-18T17:09:25+00:00" data-subject="">
 
 We probably aren't going to implement stances here.  It's difficult to make changes to the armor class / hit percent chances in combat without making all existing eq sets suck.  And, if we were going to go through the pain of making some drastic change like that, we'd probably come up with something new rather than implementing a system that's already out there on a bunch of other muds.  I have a combat system based on log tables that I always wanted to try ...
 
 </div>
 
-<div class="post" data-post-id="9582" data-author="jezer" data-date="2005-11-19T02:58:40+00:00">
+<div class="post" data-post-id="9582" data-author="jezer" data-date="2005-11-19T02:58:40+00:00" data-subject="">
 
 Howz that system work kjartan?
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39867" data-author="*Idjit*" data-date="2021-11-24T04:39:45+00:00">
+<div class="post" data-post-id="39867" data-author="*Idjit*" data-date="2021-11-24T04:39:45+00:00" data-subject="2021 Thanksgiving Quest on Saturday 11/27">
 
 Howdy.
 
@@ -30,7 +30,7 @@ See you there
 
 </div>
 
-<div class="post" data-post-id="39869" data-author="cnl" data-date="2021-11-30T07:34:06+00:00">
+<div class="post" data-post-id="39869" data-author="cnl" data-date="2021-11-30T07:34:06+00:00" data-subject="Re: 2021 Thanksgiving Quest on Saturday 11/27">
 
 awesome quest. fun was had by all. thanks
 

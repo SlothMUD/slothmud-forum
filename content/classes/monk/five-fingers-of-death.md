@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="35095" data-author="DarkArtist" data-date="2014-05-05T00:20:16+00:00">
+<div class="post" data-post-id="35095" data-author="DarkArtist" data-date="2014-05-05T00:20:16+00:00" data-subject="Five Fingers of Death">
 
 This was a skill suggestion by Hung, forget the name for the moment and consider the idea.
 
@@ -32,7 +32,7 @@ So anyway I thought his idea deserved a second look. I don't care for the name a
 
 </div>
 
-<div class="post" data-post-id="35096" data-author="Hung" data-date="2014-05-05T01:56:59+00:00">
+<div class="post" data-post-id="35096" data-author="Hung" data-date="2014-05-05T01:56:59+00:00" data-subject="Re: Five Fingers of Death">
 
 The name(and glowing hands) came from this movie: [http://en.wikipedia.org/wiki/King_Boxer](http://en.wikipedia.org/wiki/King_Boxer)
 
@@ -42,7 +42,7 @@ I'd briefly remind the motivation. Warriors ability to make second strike by the
 
 </div>
 
-<div class="post" data-post-id="35097" data-author="DarkArtist" data-date="2014-05-05T02:37:12+00:00">
+<div class="post" data-post-id="35097" data-author="DarkArtist" data-date="2014-05-05T02:37:12+00:00" data-subject="Re: Five Fingers of Death">
 
 Ok, again forgetting that the original motivation was envy...
 

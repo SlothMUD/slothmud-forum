@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="25128" data-author="jezer" data-date="2008-06-22T10:41:42+00:00">
+<div class="post" data-post-id="25128" data-author="jezer" data-date="2008-06-22T10:41:42+00:00" data-subject="Enea&#x27;s Wimpy Aggro Quest">
 
 First Thanks Enea for scattering them...
 
@@ -64,7 +64,7 @@ Your target is in Hellwell.
 
 </div>
 
-<div class="post" data-post-id="25137" data-author="Weasel" data-date="2008-06-22T18:20:51+00:00">
+<div class="post" data-post-id="25137" data-author="Weasel" data-date="2008-06-22T18:20:51+00:00" data-subject="">
 
 yes, thanks much Enea :)
 

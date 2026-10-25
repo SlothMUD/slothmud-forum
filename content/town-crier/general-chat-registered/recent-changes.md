@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31647" data-author="Tuck" data-date="2010-08-30T12:35:36+00:00">
+<div class="post" data-post-id="31647" data-author="Tuck" data-date="2010-08-30T12:35:36+00:00" data-subject="Recent changes.">
 
 @Mighty Imms:
 

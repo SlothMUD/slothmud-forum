@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31306" data-author="Teron" data-date="2010-06-17T12:00:59+00:00">
+<div class="post" data-post-id="31306" data-author="Teron" data-date="2010-06-17T12:00:59+00:00" data-subject="Chuckle of the Day">
 
 The Ace of Wands is dead! R.I.P.
 
@@ -134,7 +134,7 @@ Taron                          - Bottom of the Vertical Gallery
 
 </div>
 
-<div class="post" data-post-id="31327" data-author="Tuck" data-date="2010-06-23T09:45:47+00:00">
+<div class="post" data-post-id="31327" data-author="Tuck" data-date="2010-06-23T09:45:47+00:00" data-subject="Re: Chuckle of the Day">
 
 rofl  :P
 

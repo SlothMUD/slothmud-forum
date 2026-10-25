@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31490" data-author="*Splork*" data-date="2010-08-15T01:44:09+00:00">
+<div class="post" data-post-id="31490" data-author="*Splork*" data-date="2010-08-15T01:44:09+00:00" data-subject="Area bonuses added">
 
 The following areas have been given atleast a 20% hike in exp. Please remember that a mobs age greatly effects a mobs xp, as does a player's kill history...
 
@@ -82,7 +82,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31494" data-author="*Breeze*" data-date="2010-08-15T02:39:04+00:00">
+<div class="post" data-post-id="31494" data-author="*Breeze*" data-date="2010-08-15T02:39:04+00:00" data-subject="Re: Area bonuses added">
 
 thank you sir
 

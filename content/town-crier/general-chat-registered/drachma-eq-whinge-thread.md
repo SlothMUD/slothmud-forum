@@ -10,7 +10,7 @@ locked: false
 post_count: 40
 ---
 
-<div class="post" data-post-id="22354" data-author="jezer" data-date="2008-01-29T09:40:53+00:00">
+<div class="post" data-post-id="22354" data-author="jezer" data-date="2008-01-29T09:40:53+00:00" data-subject="Drachma Eq Whinge Thread">
 
 Yes I'm whinging... so get over it... Druid are overpowered blah, blah, blah, why don't you play one then... etc etc
 
@@ -46,7 +46,7 @@ So... cynics, flamers, board trollers... you tell me, how would you spend my dra
 
 </div>
 
-<div class="post" data-post-id="22355" data-author="Rynquald" data-date="2008-01-29T10:28:32+00:00">
+<div class="post" data-post-id="22355" data-author="Rynquald" data-date="2008-01-29T10:28:32+00:00" data-subject="">
 
 Some more shift eq would definitely be nice. Atm the only remotely decent option is getting mana/regen eq, and that's pretty much second rate for pure shift drachma spending.
 
@@ -56,7 +56,7 @@ I at least always want to run Moria though :)
 
 </div>
 
-<div class="post" data-post-id="22358" data-author="Elwin" data-date="2008-01-29T13:08:51+00:00">
+<div class="post" data-post-id="22358" data-author="Elwin" data-date="2008-01-29T13:08:51+00:00" data-subject="">
 
 I don't quite understand why there is such a high price placed on an item for being shapeshiftable.  If an item had +dam or -ac on it, it should have a higher price.  But the current drachma shop items just have +mana and +ma regen for the most part.  They don't directly help you fight any better, just stay shifted longer.
 
@@ -66,7 +66,7 @@ I'm not saying there shouldn't be some cost for an item being shiftable, it just
 
 </div>
 
-<div class="post" data-post-id="22359" data-author="Tap" data-date="2008-01-29T13:53:14+00:00">
+<div class="post" data-post-id="22359" data-author="Tap" data-date="2008-01-29T13:53:14+00:00" data-subject="">
 
 [quote:2szclkjt]On a side note, the option of using a thick belt instead of dolphin boots disappears when you make 5x40 and want a -12 piasa. [/quote:2szclkjt]
 
@@ -74,7 +74,7 @@ Oh this is a bunch of bull.. piasa's get to be -12? Why aren't they penalized li
 
 </div>
 
-<div class="post" data-post-id="22362" data-author="*juggleblood*" data-date="2008-01-29T14:36:03+00:00">
+<div class="post" data-post-id="22362" data-author="*juggleblood*" data-date="2008-01-29T14:36:03+00:00" data-subject="">
 
 my 2 cents
 
@@ -88,13 +88,13 @@ Shiftable spellbonus eq should be available for the various form blasts.
 
 </div>
 
-<div class="post" data-post-id="22365" data-author="13" data-date="2008-01-29T14:46:53+00:00">
+<div class="post" data-post-id="22365" data-author="13" data-date="2008-01-29T14:46:53+00:00" data-subject="">
 
 +1 Rub
 
 </div>
 
-<div class="post" data-post-id="22368" data-author="Elwin" data-date="2008-01-29T15:05:56+00:00">
+<div class="post" data-post-id="22368" data-author="Elwin" data-date="2008-01-29T15:05:56+00:00" data-subject="">
 
 I agree that +12 AC is very very nice benefit for druids.  Maybe it is too nice, but I don't think so and here's why:
 
@@ -106,13 +106,13 @@ I think -12AC is fair for druids.
 
 </div>
 
-<div class="post" data-post-id="22369" data-author="Elwin" data-date="2008-01-29T15:07:30+00:00">
+<div class="post" data-post-id="22369" data-author="Elwin" data-date="2008-01-29T15:07:30+00:00" data-subject="">
 
 Eeer, -12AC is very nice, not +12 :)
 
 </div>
 
-<div class="post" data-post-id="22371" data-author="alias" data-date="2008-01-29T15:14:17+00:00">
+<div class="post" data-post-id="22371" data-author="alias" data-date="2008-01-29T15:14:17+00:00" data-subject="">
 
 Your gonna open up a can of worms here...
 
@@ -132,7 +132,7 @@ Alias/Pooka
 
 </div>
 
-<div class="post" data-post-id="22372" data-author="Shyla" data-date="2008-01-29T15:41:10+00:00">
+<div class="post" data-post-id="22372" data-author="Shyla" data-date="2008-01-29T15:41:10+00:00" data-subject="">
 
 If you want to talk about available eq in shops the only thing shyla wants is mana regen and i have all the mana regen that her classo will allow her to have i have over 2k drachma on jacinda and not one more piece of drahma eq that will help out her regen at all.  I would love it if they put better regen items in there.   maybe a nice mana regen heal bonus item :)
 
@@ -144,7 +144,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="22380" data-author="Toxis" data-date="2008-01-29T19:04:36+00:00">
+<div class="post" data-post-id="22380" data-author="Toxis" data-date="2008-01-29T19:04:36+00:00" data-subject="">
 
 Stryx and I have gone rounds over why druids get -12 ac shifted, because he had tons of hp and Toxis wasn't even close... but, after many long debates, I finally realized DON'T MESS WITH DRUIDS.  They already suck.  They get 2 good things, and that's mana regen and piasa.
 
@@ -160,7 +160,7 @@ Just an idea to get some creative juices rollin.
 
 </div>
 
-<div class="post" data-post-id="22381" data-author="strider" data-date="2008-01-29T19:26:56+00:00">
+<div class="post" data-post-id="22381" data-author="strider" data-date="2008-01-29T19:26:56+00:00" data-subject="">
 
 for those of you new to sloth let me explain one thing. mana regen is god! you can never have enough and any item you can get that will give you more get it and consider yourself lucky to have it. 
 
@@ -176,7 +176,7 @@ peace out.
 
 </div>
 
-<div class="post" data-post-id="22382" data-author="Stryx" data-date="2008-01-29T19:29:32+00:00">
+<div class="post" data-post-id="22382" data-author="Stryx" data-date="2008-01-29T19:29:32+00:00" data-subject="">
 
 Nice post Toxis
 
@@ -202,7 +202,7 @@ Ack! You just ran out of breath, you're now breathing water! :?
 
 </div>
 
-<div class="post" data-post-id="22384" data-author="Elwin" data-date="2008-01-29T22:33:02+00:00">
+<div class="post" data-post-id="22384" data-author="Elwin" data-date="2008-01-29T22:33:02+00:00" data-subject="">
 
 Strider, I get the whole only item in game thing.  It still doesn't make much sense though. All or most the drachma shields are the only in game of their type.  Also, they have the maximum stats or very close to it for any one item of any slot.  ie +25 spell/+25 heal and the damage reduction and hand damage shields.  I don't know what the flail shield is now.  They also have the highest available mana or hp for shield slot I believe.  Compared to those shields I don't see why a +3 ma regen +20ish mana shield for on the order of 1000 or so drachma is outrageous.  +3 ma regen is the highest available for any slot, just like +25 bonus or +3 for hand dam.  
 
@@ -212,13 +212,13 @@ Really I would settle for rapid shift working though.
 
 </div>
 
-<div class="post" data-post-id="22385" data-author="Yasik" data-date="2008-01-29T22:47:17+00:00">
+<div class="post" data-post-id="22385" data-author="Yasik" data-date="2008-01-29T22:47:17+00:00" data-subject="">
 
 druids arent owerpowered
 
 </div>
 
-<div class="post" data-post-id="22386" data-author="jezer" data-date="2008-01-29T22:50:02+00:00">
+<div class="post" data-post-id="22386" data-author="jezer" data-date="2008-01-29T22:50:02+00:00" data-subject="">
 
 Iâ€™m quite surprisedâ€¦ I cast spectral shield on myself before I made that post!
 
@@ -238,7 +238,7 @@ Drachma eq is meant to by valvable stuff. Mages spell damage, clerics heal bonus
 
 </div>
 
-<div class="post" data-post-id="22388" data-author="jezer" data-date="2008-01-29T23:17:08+00:00">
+<div class="post" data-post-id="22388" data-author="jezer" data-date="2008-01-29T23:17:08+00:00" data-subject="">
 
 My only complaint really is:-
 
@@ -256,7 +256,7 @@ I think that would sell like hotcakes... I'm still quaffing potions in INV while
 
 </div>
 
-<div class="post" data-post-id="22389" data-author="*juggleblood*" data-date="2008-01-29T23:27:53+00:00">
+<div class="post" data-post-id="22389" data-author="*juggleblood*" data-date="2008-01-29T23:27:53+00:00" data-subject="">
 
 Your gonna open up a can of worms here...
 
@@ -268,7 +268,7 @@ They Should!
 
 </div>
 
-<div class="post" data-post-id="22392" data-author="strider" data-date="2008-01-30T00:56:46+00:00">
+<div class="post" data-post-id="22392" data-author="strider" data-date="2008-01-30T00:56:46+00:00" data-subject="">
 
 Elwin, there are basically two things in this game that are finite or at least have been for a very very very long time. damage and mana regen. you have to look at the historical context. there has never been a regen in shield slot till now, (except maybe 1 quest item) so expect to pay for it. i paid 2200 drachma for 2 dmg, and i'ld gladly do it again. because it is so rare and hard to come by. spellbonus and healbonus can be capped easily w/out those shields, mana, hps, and nearly anything else can be bought for xp. you find me some dmg and mana regen though and i will gladly pay all i can for it because i'm maxed out! it's not always how useful somethin is that makes it valuable, but how rare it is. 
 
@@ -276,7 +276,7 @@ Jezer, you're showing just how spoiled druids are with their regen, 150 is good 
 
 </div>
 
-<div class="post" data-post-id="22395" data-author="jezer" data-date="2008-01-30T01:42:41+00:00">
+<div class="post" data-post-id="22395" data-author="jezer" data-date="2008-01-30T01:42:41+00:00" data-subject="">
 
 [quote:297bym1c]i hate to have to tell you this but invest in some ac and spelldmg eq, shifting isn't the way to go for xp.[/quote:297bym1c]
 
@@ -304,7 +304,7 @@ No offence to long time old classo players, as I consider you legends of the gam
 
 </div>
 
-<div class="post" data-post-id="22396" data-author="Weasel" data-date="2008-01-30T01:57:55+00:00">
+<div class="post" data-post-id="22396" data-author="Weasel" data-date="2008-01-30T01:57:55+00:00" data-subject="">
 
 Look, if you just curb your bloodthirsty urges and stop running around blasting the crap out of anything that moves, you'd have plenty of mana. It's YOUR fault, so man up and take responsibility for it.
 
@@ -312,7 +312,7 @@ Look, if you just curb your bloodthirsty urges and stop running around blasting 
 
 </div>
 
-<div class="post" data-post-id="22397" data-author="jezer" data-date="2008-01-30T02:16:25+00:00">
+<div class="post" data-post-id="22397" data-author="jezer" data-date="2008-01-30T02:16:25+00:00" data-subject="">
 
 Cackle! :D
 
@@ -322,19 +322,19 @@ But he's got a point... we could always not use any mana at all! Buy the +5 WoW 
 
 </div>
 
-<div class="post" data-post-id="22399" data-author="Roadrunr" data-date="2008-01-30T02:46:07+00:00">
+<div class="post" data-post-id="22399" data-author="Roadrunr" data-date="2008-01-30T02:46:07+00:00" data-subject="">
 
 hmmm takes me about 3 minutes to go through my 620 mana...alas, I regen a lot slower than you...but my lites are longer.  once you get 7 tick lites, you'll be able to run, regen and run again in one lite.
 
 </div>
 
-<div class="post" data-post-id="22400" data-author="strider" data-date="2008-01-30T04:39:31+00:00">
+<div class="post" data-post-id="22400" data-author="strider" data-date="2008-01-30T04:39:31+00:00" data-subject="">
 
 well as an awful old class character player, i can tell you that druids can blast while shifted for absolutely free, no mana cost, none whatsoever. figure that one out and you might run a bit longer. enjoy. find the right mobs and you can do just fine shifted.
 
 </div>
 
-<div class="post" data-post-id="22401" data-author="Krok" data-date="2008-01-30T11:33:52+00:00">
+<div class="post" data-post-id="22401" data-author="Krok" data-date="2008-01-30T11:33:52+00:00" data-subject="">
 
 But he's got a point... we could always not use any mana at all! Buy the +5 WoW shield at the weaver instead like Krok and Mikie... hehe
 
@@ -348,7 +348,7 @@ But maybe I suck since I don't play anymore etc.
 
 </div>
 
-<div class="post" data-post-id="22402" data-author="Mike" data-date="2008-01-30T14:59:02+00:00">
+<div class="post" data-post-id="22402" data-author="Mike" data-date="2008-01-30T14:59:02+00:00" data-subject="">
 
 But maybe I suck since I don't play anymore etc.[/quote:3dimol9x]
 
@@ -360,7 +360,7 @@ Imho druids should ask imms to revision plants, this should help more, then whin
 
 </div>
 
-<div class="post" data-post-id="22404" data-author="Stryx" data-date="2008-01-30T18:02:08+00:00">
+<div class="post" data-post-id="22404" data-author="Stryx" data-date="2008-01-30T18:02:08+00:00" data-subject="">
 
 [quote:o4wlktbf]If you choose benefits from one classo, you will get all disadvantages for it. [/quote:o4wlktbf]
 
@@ -376,7 +376,7 @@ All 5x40 serious druids are going to be dressed in the same eq because of the la
 
 </div>
 
-<div class="post" data-post-id="22407" data-author="jezer" data-date="2008-01-30T22:36:33+00:00">
+<div class="post" data-post-id="22407" data-author="jezer" data-date="2008-01-30T22:36:33+00:00" data-subject="">
 
 I agree with the last two posts, the druid is an all rounder! It can kind of do a bit of everything, but it is not really elite at any one thing besides regen. I think the druid class is fairly well balanced compared to the other classes. 
 
@@ -386,7 +386,7 @@ The eq issue aside, Stryx is right, the success of how you play druid falls back
 
 </div>
 
-<div class="post" data-post-id="22408" data-author="Mosaix" data-date="2008-01-30T23:30:06+00:00">
+<div class="post" data-post-id="22408" data-author="Mosaix" data-date="2008-01-30T23:30:06+00:00" data-subject="">
 
 I dont see the pleantiful eq in the drachma shops for cleric.  After the healbonus shield it gets thin.
 
@@ -402,7 +402,7 @@ Every class can always use some love.  That hope will never end.
 
 </div>
 
-<div class="post" data-post-id="22409" data-author="jezer" data-date="2008-01-30T23:45:06+00:00">
+<div class="post" data-post-id="22409" data-author="jezer" data-date="2008-01-30T23:45:06+00:00" data-subject="">
 
 Judging by that post...
 
@@ -420,7 +420,7 @@ I love playing druid!  8)
 
 </div>
 
-<div class="post" data-post-id="22410" data-author="Weasel" data-date="2008-01-30T23:57:12+00:00">
+<div class="post" data-post-id="22410" data-author="Weasel" data-date="2008-01-30T23:57:12+00:00" data-subject="">
 
 go hug a tree, I'm sure you'll feel much better for it.
 
@@ -428,7 +428,7 @@ silly drooids.
 
 </div>
 
-<div class="post" data-post-id="22411" data-author="jezer" data-date="2008-01-31T00:03:16+00:00">
+<div class="post" data-post-id="22411" data-author="jezer" data-date="2008-01-31T00:03:16+00:00" data-subject="">
 
 [quote:nhca00vw]silly drooids[/quote:nhca00vw]
 
@@ -438,13 +438,13 @@ Go back to your ON FIRE room!  :twisted:  (X ) ( x)
 
 </div>
 
-<div class="post" data-post-id="22412" data-author="Yinao" data-date="2008-01-31T00:46:31+00:00">
+<div class="post" data-post-id="22412" data-author="Yinao" data-date="2008-01-31T00:46:31+00:00" data-subject="">
 
 You sure complain alot  :lol:  but in any case I must say that I dont see a problem with druids as is I run as one in my cleric all the time when solo'ing I also run as a mage some of the time and not even as a druid prime I get 150 mana regen from druid class alone. I must say that I have baught the shield and I enjoy the benefit of it and I am drawing near having all the mana regen gear I can get not counting quest eq. I need infernites and those "stupid" boots that druids dont like to use bc they are useless yada yada yada even with druid in classo I would still take them for my cleric :) I dont see a thing wrong with druid leave it alone. What more are you looking for? -13 in piasa form? More mana? (grow levels) more blasts? (grow levels) do what we all did and level up to avatar buy the drachma eq you do want then rant in any case you dont know what your max mana will be, nor your max mana regen. My cleric not even a quad caster can get 950 mana atm and 160 mana regen without dreams the blasts in piasa are still fairly strong. Of course they arent gunna amount to a mage bolt or wind why should it? You can web in piasa, you can demon bind in piasa kick or whatever could be usefull too or whatever but its not a NEED most of the mobs I fight I dont have time to blast / "kick" anyways so I wouldnt probably use it. Thats a long rant, in that case, carry on. :)
 
 </div>
 
-<div class="post" data-post-id="22413" data-author="Tap" data-date="2008-01-31T01:01:45+00:00">
+<div class="post" data-post-id="22413" data-author="Tap" data-date="2008-01-31T01:01:45+00:00" data-subject="">
 
 Just take out piasa's to level the field some...readjust ac to max of -11
 
@@ -454,7 +454,7 @@ Thoughts?
 
 </div>
 
-<div class="post" data-post-id="22414" data-author="jezer" data-date="2008-01-31T01:14:54+00:00">
+<div class="post" data-post-id="22414" data-author="jezer" data-date="2008-01-31T01:14:54+00:00" data-subject="">
 
 Complaining is an attitude... asking for change, creating (sometimes controversial discussion) does not necessarily mean you are a complainer... it could mean your analytical... idealistic... perfectionist... or passionate about something (or what I'm really trying to say, your ME!)
 
@@ -466,13 +466,13 @@ I think the threads pretty much run it's course now.. I'm just beginning to ramb
 
 </div>
 
-<div class="post" data-post-id="22418" data-author="Yinao" data-date="2008-01-31T03:39:55+00:00">
+<div class="post" data-post-id="22418" data-author="Yinao" data-date="2008-01-31T03:39:55+00:00" data-subject="">
 
 Being a cleric prime I believe I'm yet to complain about cleric prime what is there to complain about other than if your an old school classo?  :roll:
 
 </div>
 
-<div class="post" data-post-id="22423" data-author="Weasel" data-date="2008-01-31T11:43:21+00:00">
+<div class="post" data-post-id="22423" data-author="Weasel" data-date="2008-01-31T11:43:21+00:00" data-subject="">
 
 Meanwhile in the land of Warrior primes, it's a major accomplishment (even at 5x40) just to just reach HALF the mana regen and HALF the mana max some of you guys get. Oh, and you can get -13ac too? Wow, Warriors don't. Yet many of you manage to get similar max Hp, and in some cases even Hp regen rates that are better than Warriors, so I hear. 
 
@@ -486,7 +486,7 @@ Oh yeah, totally right re old-school classo Yinao - I suggest there be some sort
 
 </div>
 
-<div class="post" data-post-id="22424" data-author="jezer" data-date="2008-01-31T12:03:35+00:00">
+<div class="post" data-post-id="22424" data-author="jezer" data-date="2008-01-31T12:03:35+00:00" data-subject="">
 
 [img:3jfn122a]http://thump01.pbase.com/g4/12/60812/3/61328857.SadCat.jpg[/img:3jfn122a]
 
@@ -494,13 +494,13 @@ i r warrior cat! Give me regens![/size:3jfn122a]  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22425" data-author="Weasel" data-date="2008-01-31T12:14:41+00:00">
+<div class="post" data-post-id="22425" data-author="Weasel" data-date="2008-01-31T12:14:41+00:00" data-subject="">
 
 LOL perfect
 
 </div>
 
-<div class="post" data-post-id="22453" data-author="13" data-date="2008-02-01T22:44:25+00:00">
+<div class="post" data-post-id="22453" data-author="13" data-date="2008-02-01T22:44:25+00:00" data-subject="">
 
 I love it when Stride gets up in this shit.
 

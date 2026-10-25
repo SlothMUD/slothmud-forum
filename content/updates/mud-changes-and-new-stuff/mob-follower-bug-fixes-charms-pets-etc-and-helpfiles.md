@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33141" data-author="*Splork*" data-date="2012-01-21T01:56:52+00:00">
+<div class="post" data-post-id="33141" data-author="*Splork*" data-date="2012-01-21T01:56:52+00:00" data-subject="Mob Follower bug fixes( charms, pets, etc ) and helpfiles">
 
 Bug Fixes regarding followers
 

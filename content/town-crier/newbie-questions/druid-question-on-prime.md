@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="1735" data-author="Nagash" data-date="2004-09-03T09:55:27+00:00">
+<div class="post" data-post-id="1735" data-author="Nagash" data-date="2004-09-03T09:55:27+00:00" data-subject="Druid question on Prime...">
 
 What does a driud get as a Prime?  Also I know they get mana bonus from
 
@@ -18,7 +18,7 @@ a Druid/Nec/Ma/Cl.  So when they shapeshift they keep their large mana.  HP does
 
 </div>
 
-<div class="post" data-post-id="1737" data-author="Leizu" data-date="2004-09-03T12:52:45+00:00">
+<div class="post" data-post-id="1737" data-author="Leizu" data-date="2004-09-03T12:52:45+00:00" data-subject="">
 
 There are no adventages of being druid prime when you shapeshift. Amount of hp/ma/mvs depends of your human form, not the class order. So if a druid 4th in a form of human has more hp and mana than a prime druid then after shapeshift druid 4th gets more hp and mana. (everything else except hp/ma/mvs is the same for everyone)
 
@@ -28,31 +28,31 @@ The mud is changing all the time, so not sure I'm 100% correct :)
 
 </div>
 
-<div class="post" data-post-id="1740" data-author="Altair" data-date="2004-09-03T14:03:43+00:00">
+<div class="post" data-post-id="1740" data-author="Altair" data-date="2004-09-03T14:03:43+00:00" data-subject="">
 
 Aren't there also some forms that are available to primes only? It's at very high levels or something (kind of far from me... *looks up*)
 
 </div>
 
-<div class="post" data-post-id="1742" data-author="Leizu" data-date="2004-09-03T14:25:30+00:00">
+<div class="post" data-post-id="1742" data-author="Leizu" data-date="2004-09-03T14:25:30+00:00" data-subject="">
 
 nope, every form is available for everyone.
 
 </div>
 
-<div class="post" data-post-id="3008" data-author="Zeizel" data-date="2004-11-24T01:30:26+00:00">
+<div class="post" data-post-id="3008" data-author="Zeizel" data-date="2004-11-24T01:30:26+00:00" data-subject="">
 
 I've noticed my mana regen rates fluctuate from 20 mana / tick to one time when I got 70 mana / tick.  Does this have to do with the Druid Prime bonus (I almost always regen outside)?
 
 </div>
 
-<div class="post" data-post-id="3012" data-author="Altair" data-date="2004-11-24T08:16:40+00:00">
+<div class="post" data-post-id="3012" data-author="Altair" data-date="2004-11-24T08:16:40+00:00" data-subject="">
 
 Could be... what between standing vs sleeping, indoors vs outdoors, hungry vs full, you certainly have a huge variation.
 
 </div>
 
-<div class="post" data-post-id="3014" data-author="Zeizel" data-date="2004-11-24T10:07:04+00:00">
+<div class="post" data-post-id="3014" data-author="Zeizel" data-date="2004-11-24T10:07:04+00:00" data-subject="">
 
 Well, I only ever counted mana twice to be honest.  Both times were outdoors, and both times were sleeping.  The difference that I can think of is that one was in a safe room (Sork), while the other was in a regular room enchanted w/a masterful Canopied Arbor.  Has anyone else seen a masterful arbor skyrocket regen rates? (That's where I counted 70 ma/tick)
 
@@ -60,7 +60,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="3017" data-author="Leaf" data-date="2004-11-24T10:18:14+00:00">
+<div class="post" data-post-id="3017" data-author="Leaf" data-date="2004-11-24T10:18:14+00:00" data-subject="">
 
 The spell arbor is consider "outside".  I don't think it will give u an extra mr
 
@@ -70,7 +70,7 @@ dreams for ppl.  I get around 120mr outside and a prime bard singing...
 
 </div>
 
-<div class="post" data-post-id="3019" data-author="Zeizel" data-date="2004-11-24T10:43:12+00:00">
+<div class="post" data-post-id="3019" data-author="Zeizel" data-date="2004-11-24T10:43:12+00:00" data-subject="">
 
 I know arbor is outside, because I've tried inside (to see what happened) and it can't be cast inside.
 
@@ -82,7 +82,7 @@ I am just making an observation, and since I've heard that we aren't exactly sur
 
 </div>
 
-<div class="post" data-post-id="3026" data-author="Leaf" data-date="2004-11-24T12:25:40+00:00">
+<div class="post" data-post-id="3026" data-author="Leaf" data-date="2004-11-24T12:25:40+00:00" data-subject="">
 
 If that is true... I may have to do some testing here and there :)
 
@@ -92,7 +92,7 @@ However I don't think the "cost" for the spell is worth it even if it does give
 
 </div>
 
-<div class="post" data-post-id="3032" data-author="Zeizel" data-date="2004-11-24T13:10:55+00:00">
+<div class="post" data-post-id="3032" data-author="Zeizel" data-date="2004-11-24T13:10:55+00:00" data-subject="">
 
 It's really not that expensive.  Magic Rope has a min of 25 mana, iirc.  Canopied Arbor has a min of 35.  And the 'Rope Room' is considered inside, so as a Druid Prime I lose my regen bonus if I use Magic Rope (which hurts).
 
@@ -100,7 +100,7 @@ The one major difference is that MOBs you've already fought with (but haven't de
 
 </div>
 
-<div class="post" data-post-id="3094" data-author="Zeizel" data-date="2004-12-01T09:52:37+00:00">
+<div class="post" data-post-id="3094" data-author="Zeizel" data-date="2004-12-01T09:52:37+00:00" data-subject="">
 
 By the way, I just wanted to note that the MR fluctuations I mentioned earlier turned out to be caused by me being hungry.  It's a steady 74 mana/tick if sleeping outside when full, so the masterful arbor didn't seem to boost anything afterall.
 

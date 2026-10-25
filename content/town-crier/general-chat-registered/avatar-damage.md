@@ -10,19 +10,19 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="31766" data-author="jezer" data-date="2010-09-17T06:19:07+00:00">
+<div class="post" data-post-id="31766" data-author="jezer" data-date="2010-09-17T06:19:07+00:00" data-subject="Avatar Damage">
 
 At what avatar level do you get the second dam point? (Suspect Current Avatar Guide is wrong)
 
 </div>
 
-<div class="post" data-post-id="31768" data-author="*Breeze*" data-date="2010-09-17T09:13:03+00:00">
+<div class="post" data-post-id="31768" data-author="*Breeze*" data-date="2010-09-17T09:13:03+00:00" data-subject="Re: Avatar Damage">
 
 splork updated avatar guide awhile back so it should be correct
 
 </div>
 
-<div class="post" data-post-id="31769" data-author="jezer" data-date="2010-09-17T11:29:16+00:00">
+<div class="post" data-post-id="31769" data-author="jezer" data-date="2010-09-17T11:29:16+00:00" data-subject="Re: Avatar Damage">
 
 It can't be hey. Splork announced that he had decided to increase avatar dam and hit by 1 making it seven. The guide says 6/6.
 
@@ -30,7 +30,7 @@ I'll track down his post. But certain that can't be right.
 
 </div>
 
-<div class="post" data-post-id="31770" data-author="jezer" data-date="2010-09-17T11:36:16+00:00">
+<div class="post" data-post-id="31770" data-author="jezer" data-date="2010-09-17T11:36:16+00:00" data-subject="Re: Avatar Damage">
 
 Found it!
 
@@ -40,7 +40,7 @@ Please update guide.
 
 </div>
 
-<div class="post" data-post-id="31792" data-author="jezer" data-date="2010-09-25T04:53:21+00:00">
+<div class="post" data-post-id="31792" data-author="jezer" data-date="2010-09-25T04:53:21+00:00" data-subject="Re: Avatar Damage">
 
 Iâ€™ve asked several times now about updating the avatar guide and got no response. So instead of asking the 5th or 6th time the same, I thought I might put a bit of body with my argument.
 
@@ -64,7 +64,7 @@ If I get some time and thoughts together, and this post gets no worthy reply, I 
 
 </div>
 
-<div class="post" data-post-id="31793" data-author="jezer" data-date="2010-09-25T08:30:56+00:00">
+<div class="post" data-post-id="31793" data-author="jezer" data-date="2010-09-25T08:30:56+00:00" data-subject="Re: Avatar Damage">
 
 Ok, typical Jezer, says he will do something later, but ends up doing it now to get it out of the way.  :twisted:  
 
@@ -112,13 +112,13 @@ Perm Spells are roughly Spell Duration and Mana Cost then Refer to Mana Regen Co
 
 </div>
 
-<div class="post" data-post-id="31794" data-author="Tuck" data-date="2010-09-25T09:09:56+00:00">
+<div class="post" data-post-id="31794" data-author="Tuck" data-date="2010-09-25T09:09:56+00:00" data-subject="Re: Avatar Damage">
 
 ![](http://www.theawl.com/wp-content/uploads/2010/02/simpsonschurchwide.jpg)
 
 </div>
 
-<div class="post" data-post-id="31796" data-author="Dragoth" data-date="2010-09-25T20:41:22+00:00">
+<div class="post" data-post-id="31796" data-author="Dragoth" data-date="2010-09-25T20:41:22+00:00" data-subject="Re: Avatar Damage">
 
 Nice work Jezer, too bad it will most likely be in vain. But as long as you enjoy coming up with what you come up with it shouldn't matter and i hope you do. 
 
@@ -126,7 +126,7 @@ Remember, if you dont like something, the easiest way to go about it is to eithe
 
 </div>
 
-<div class="post" data-post-id="31797" data-author="*Splork*" data-date="2010-09-26T13:17:25+00:00">
+<div class="post" data-post-id="31797" data-author="*Splork*" data-date="2010-09-26T13:17:25+00:00" data-subject="Re: Avatar Damage">
 
 We have discussed runes being shown online and on the crier several times. We are working on it.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="9074" data-author="Deju" data-date="2005-10-18T12:44:52+00:00">
+<div class="post" data-post-id="9074" data-author="Deju" data-date="2005-10-18T12:44:52+00:00" data-subject="Re: MXP Additions, etc...">
 
 Splork's MXP info update threads are locked to non-admins, so I thought i would reply here.
 
@@ -22,13 +22,13 @@ Deju
 
 </div>
 
-<div class="post" data-post-id="9080" data-author="Shara" data-date="2005-10-19T00:27:58+00:00">
+<div class="post" data-post-id="9080" data-author="Shara" data-date="2005-10-19T00:27:58+00:00" data-subject="">
 
 Thanks for all the hard work!  I just wanted to know... what exactly does all that stuff do? :oops:
 
 </div>
 
-<div class="post" data-post-id="9081" data-author="Avatar" data-date="2005-10-19T03:03:45+00:00">
+<div class="post" data-post-id="9081" data-author="Avatar" data-date="2005-10-19T03:03:45+00:00" data-subject="MXP">
 
 From what I understand, MCCP is a compression protocol.  That should mean that (if your client supports it) less information needs to sent between your computer and the mud.  Everything should look the same, but it may be a little faster connection and the mud may consume less bandwidth.
 
@@ -42,7 +42,7 @@ It might be helpful if players using MXP could post screenshots.
 
 </div>
 
-<div class="post" data-post-id="9149" data-author="Shara" data-date="2005-10-25T02:05:47+00:00">
+<div class="post" data-post-id="9149" data-author="Shara" data-date="2005-10-25T02:05:47+00:00" data-subject="">
 
 Wow!! That sounds great!
 

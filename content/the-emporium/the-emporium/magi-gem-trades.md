@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33791" data-author="Magi" data-date="2012-11-21T15:08:24+00:00">
+<div class="post" data-post-id="33791" data-author="Magi" data-date="2012-11-21T15:08:24+00:00" data-subject="Magi Gem trades">
 
 Looking for: 1xRing of Flaming Serpents, 2x Lost Cross Signet Ring
 
@@ -246,7 +246,7 @@ a Peridot
 
 </div>
 
-<div class="post" data-post-id="33806" data-author="Tuck" data-date="2012-11-26T01:13:53+00:00">
+<div class="post" data-post-id="33806" data-author="Tuck" data-date="2012-11-26T01:13:53+00:00" data-subject="Re: Magi Gem trades">
 
 contact me ingame
 

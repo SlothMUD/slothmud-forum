@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="23974" data-author="Medios" data-date="2008-04-23T23:57:48+00:00">
+<div class="post" data-post-id="23974" data-author="Medios" data-date="2008-04-23T23:57:48+00:00" data-subject="lack of new classo primes">
 
 So I notice that old school primes still dominate by a huge majority.  So can anyone tell me whats wrong with Bard, Monk, Druid primes.  I rarely see any of these and as I have a pretty strong bard I was just wondering whats up.  Is it hard work not having 100 people to ask how to play?  Or do these classos suck or what.  Toss it around.
 
@@ -18,7 +18,7 @@ For me Druid prime is the ultimate supporting class, especially quad caster.  Mo
 
 </div>
 
-<div class="post" data-post-id="23976" data-author="Alberich" data-date="2008-04-24T00:03:08+00:00">
+<div class="post" data-post-id="23976" data-author="Alberich" data-date="2008-04-24T00:03:08+00:00" data-subject="">
 
 i've made hrm, 3 new class primes over the years... 2 monks and a bard... it's honestly way too much of a pain being a newbie again to make it worthwhile to get the chars to where they are fun to play, and I don't generally like sponging in groups... and besides I can barely keep 2 avatars equipped with newbish gear as-is, I'd go broke with another one :)
 
@@ -26,7 +26,7 @@ I do like the idea of monks though, blasting stuff is all well and good, but pou
 
 </div>
 
-<div class="post" data-post-id="23977" data-author="jezer" data-date="2008-04-24T00:22:03+00:00">
+<div class="post" data-post-id="23977" data-author="jezer" data-date="2008-04-24T00:22:03+00:00" data-subject="">
 
 Good topic Medios... 
 
@@ -70,7 +70,7 @@ Could this information be a call to improve classes with more skills in the futu
 
 </div>
 
-<div class="post" data-post-id="23981" data-author="Rynquald" data-date="2008-04-24T00:49:29+00:00">
+<div class="post" data-post-id="23981" data-author="Rynquald" data-date="2008-04-24T00:49:29+00:00" data-subject="">
 
 ie, the difference between druid prime and non prime is stuff all.[/quote:3keqpzxm]
 
@@ -82,13 +82,13 @@ There's also an increasing amount of prime shift eq.
 
 </div>
 
-<div class="post" data-post-id="23984" data-author="Weasel" data-date="2008-04-24T01:15:50+00:00">
+<div class="post" data-post-id="23984" data-author="Weasel" data-date="2008-04-24T01:15:50+00:00" data-subject="">
 
 deleted comment.. not really relevant to thread subject
 
 </div>
 
-<div class="post" data-post-id="23988" data-author="jezer" data-date="2008-04-24T02:11:39+00:00">
+<div class="post" data-post-id="23988" data-author="jezer" data-date="2008-04-24T02:11:39+00:00" data-subject="">
 
 Talk about bard/druid/monk aside...
 
@@ -112,7 +112,7 @@ It's the prime skills and how the other skills work at a lower class order that 
 
 </div>
 
-<div class="post" data-post-id="23989" data-author="Weasel" data-date="2008-04-24T02:14:40+00:00">
+<div class="post" data-post-id="23989" data-author="Weasel" data-date="2008-04-24T02:14:40+00:00" data-subject="">
 
 damage reduction is monk skill, not warrior dude.. although I wish it was..
 
@@ -124,7 +124,7 @@ parry is helpful, but it doesn't work on every round, yet costs one attack on ev
 
 </div>
 
-<div class="post" data-post-id="23990" data-author="jezer" data-date="2008-04-24T02:16:53+00:00">
+<div class="post" data-post-id="23990" data-author="jezer" data-date="2008-04-24T02:16:53+00:00" data-subject="">
 
 Hmm, who told be warriors actually have dam reduct built into the class? (But not as an ability etc) Maybe I read it at wikipedia... that would explain it...  :twisted:
 
@@ -132,7 +132,7 @@ EDIT: Actually, I believe I picked this up in one of the "Can a monk tank like a
 
 </div>
 
-<div class="post" data-post-id="23991" data-author="Weasel" data-date="2008-04-24T02:19:45+00:00">
+<div class="post" data-post-id="23991" data-author="Weasel" data-date="2008-04-24T02:19:45+00:00" data-subject="">
 
 lol.. yeah wikipedia, fountain of.. err.. something kinda sludgy..
 
@@ -140,7 +140,7 @@ personally I think warriors aren't great at all, although much depends on the su
 
 </div>
 
-<div class="post" data-post-id="23992" data-author="alias" data-date="2008-04-24T02:24:40+00:00">
+<div class="post" data-post-id="23992" data-author="alias" data-date="2008-04-24T02:24:40+00:00" data-subject="">
 
 I'm not scared to say whats on my mind so here goes.
 
@@ -166,31 +166,31 @@ Alias/Pooka
 
 </div>
 
-<div class="post" data-post-id="23993" data-author="Weasel" data-date="2008-04-24T02:27:51+00:00">
+<div class="post" data-post-id="23993" data-author="Weasel" data-date="2008-04-24T02:27:51+00:00" data-subject="">
 
 good luck with exams
 
 </div>
 
-<div class="post" data-post-id="23994" data-author="alias" data-date="2008-04-24T02:28:14+00:00">
+<div class="post" data-post-id="23994" data-author="alias" data-date="2008-04-24T02:28:14+00:00" data-subject="">
 
 And to fix warriors I still believe that if u had a high level necro spell that would allow wraithform to be cast on another...ie the tank it would make all the old-school warriors more viable as tanks again.
 
 </div>
 
-<div class="post" data-post-id="23996" data-author="Weasel" data-date="2008-04-24T02:34:49+00:00">
+<div class="post" data-post-id="23996" data-author="Weasel" data-date="2008-04-24T02:34:49+00:00" data-subject="">
 
 well it's not quite wraithform, but we have defy.. however it only lasts a few rounds, and can only be used once a day.. and that's real time once a day, not mud time, so can't really be considered or relied upon imho..
 
 </div>
 
-<div class="post" data-post-id="23998" data-author="jezer" data-date="2008-04-24T02:43:16+00:00">
+<div class="post" data-post-id="23998" data-author="jezer" data-date="2008-04-24T02:43:16+00:00" data-subject="">
 
 Why not take the druid approach to defy pain... then you could use it more! but only between breakfast and scones with jam at morning tea!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="24002" data-author="brady" data-date="2008-04-24T03:12:30+00:00">
+<div class="post" data-post-id="24002" data-author="brady" data-date="2008-04-24T03:12:30+00:00" data-subject="">
 
 well it's not quite wraithform, but we have defy.. however it only lasts a few rounds, and can only be used once a day.. and that's real time once a day, not mud time, so can't really be considered or relied upon imho..[/quote:f4jfx2rb]
 
@@ -214,7 +214,7 @@ Amen brotha.
 
 </div>
 
-<div class="post" data-post-id="24005" data-author="jezer" data-date="2008-04-24T03:35:35+00:00">
+<div class="post" data-post-id="24005" data-author="jezer" data-date="2008-04-24T03:35:35+00:00" data-subject="">
 
 Uhhh.[/quote:3smwzdkj]
 
@@ -228,7 +228,7 @@ I'm saying what do caps matter... when you can't reach them anyways!
 
 </div>
 
-<div class="post" data-post-id="24010" data-author="Rynquald" data-date="2008-04-24T06:01:55+00:00">
+<div class="post" data-post-id="24010" data-author="Rynquald" data-date="2008-04-24T06:01:55+00:00" data-subject="">
 
 Well most people will assume you eventually intend to get avatar, how can you possibly hope to compare classes when they're not being evaluated at their peak?
 
@@ -240,7 +240,7 @@ Yet another phrase I repeat often, Sloth is *supposed* to be a multiclass mud. H
 
 </div>
 
-<div class="post" data-post-id="24011" data-author="jezer" data-date="2008-04-24T06:46:12+00:00">
+<div class="post" data-post-id="24011" data-author="jezer" data-date="2008-04-24T06:46:12+00:00" data-subject="">
 
 How can you possibly hope to compare classes when they're not being evaluated at their peak?[/quote:228di2t3]
 
@@ -250,7 +250,7 @@ Hence maybe we answered Medios question... in part... some new primes suck befor
 
 </div>
 
-<div class="post" data-post-id="24012" data-author="Dragoth" data-date="2008-04-24T12:19:02+00:00">
+<div class="post" data-post-id="24012" data-author="Dragoth" data-date="2008-04-24T12:19:02+00:00" data-subject="">
 
 Tried some of those classes personally, so here is what I found
 
@@ -270,7 +270,7 @@ This is my experience with new classes, take from it what you will.
 
 </div>
 
-<div class="post" data-post-id="24013" data-author="Widow" data-date="2008-04-24T12:33:19+00:00">
+<div class="post" data-post-id="24013" data-author="Widow" data-date="2008-04-24T12:33:19+00:00" data-subject="">
 
 I've noticed we're focusing in on Bard/Monk/Druid and leaving Necro out of the discussion. As a newish player to Sloth and Necro prime, I see a good handful of other Necro primes out there makin' their way in the world. Sure, you want to have a good supporting classo to make you less 'crunchy' but I'd say that the thought and effort put into Necro was well done. We're not super powerful but we can hold our own if we choose the right classo and learn how to mud. 
 
@@ -280,7 +280,7 @@ I think people would play Druid/Monk/Bard primes when they have examples of thos
 
 </div>
 
-<div class="post" data-post-id="24015" data-author="alias" data-date="2008-04-24T13:03:32+00:00">
+<div class="post" data-post-id="24015" data-author="alias" data-date="2008-04-24T13:03:32+00:00" data-subject="">
 
 I've noticed we're focusing in on Bard/Monk/Druid and leaving Necro out of the discussion. As a newish player to Sloth and Necro prime, I see a good handful of other Necro primes out there makin' their way in the world. Sure, you want to have a good supporting classo to make you less 'crunchy' but I'd say that the thought and effort put into Necro was well done. We're not super powerful but we can hold our own if we choose the right classo and learn how to mud. 
 

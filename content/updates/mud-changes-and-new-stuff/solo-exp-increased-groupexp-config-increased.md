@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30407" data-author="*Splork*" data-date="2009-12-03T17:11:29+00:00">
+<div class="post" data-post-id="30407" data-author="*Splork*" data-date="2009-12-03T17:11:29+00:00" data-subject="solo exp increased/groupexp config increased">
 
 1) Solo exp increased
 

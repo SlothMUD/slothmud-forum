@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1762" data-author="Original-Pixie" data-date="2004-09-04T04:48:37+00:00">
+<div class="post" data-post-id="1762" data-author="Original-Pixie" data-date="2004-09-04T04:48:37+00:00" data-subject="WTB flawed gem cps">
 
 paying 1mil for set
 

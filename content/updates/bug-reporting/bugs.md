@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="5130" data-author="achazia" data-date="2005-03-17T09:50:20+00:00">
+<div class="post" data-post-id="5130" data-author="achazia" data-date="2005-03-17T09:50:20+00:00" data-subject="Bugs?">
 
 Hi!
 
@@ -26,7 +26,7 @@ Is this a bug?
 
 </div>
 
-<div class="post" data-post-id="5139" data-author="Vixn" data-date="2005-03-17T10:32:47+00:00">
+<div class="post" data-post-id="5139" data-author="Vixn" data-date="2005-03-17T10:32:47+00:00" data-subject="Re: Bugs?">
 
 Hi!
 
@@ -46,13 +46,13 @@ And i don't sure but i hope +control undead items could make this things much ra
 
 </div>
 
-<div class="post" data-post-id="5145" data-author="ds" data-date="2005-03-17T13:49:29+00:00">
+<div class="post" data-post-id="5145" data-author="ds" data-date="2005-03-17T13:49:29+00:00" data-subject="Shipping Bug">
 
 Since we are on the subject of bugs I should mention a shipping bug.  Recently I shipped 5 pieces of eq to a bunch of different players and I got paid for the first piece of eq while two more were claimed by recipients and I never got any gold back for them.  In a panic I reclaimed the last two pieces of eq still unclaimed and I had to pay a huge fee to get my own stuff back.  (it said the reclaim fee was 1000 but I got charged 201000 which was the fee I had asked the recipient to pay instead as if I was the recipeint instead of the sender)  Has anything been wrong with 'ship' recently?  I am out some serious gold.  I would recommend not to use ship for now for anyone.  Comments?
 
 </div>
 
-<div class="post" data-post-id="5156" data-author="Weasel" data-date="2005-03-17T19:49:14+00:00">
+<div class="post" data-post-id="5156" data-author="Weasel" data-date="2005-03-17T19:49:14+00:00" data-subject="">
 
 Nods, exact same thing happened to me on 19th Feb while transferring between my chars some eq and some coin. I emailed Gangrel but never heard anything, and he hadn't logged on for about 3 weeks so eventually Enea reimbursed the 500,000 coin I had lost. Presumably the bug still exists.
 

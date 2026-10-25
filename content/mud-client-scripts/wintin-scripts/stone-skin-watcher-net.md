@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9746" data-author="jezer" data-date="2005-12-07T13:40:15+00:00">
+<div class="post" data-post-id="9746" data-author="jezer" data-date="2005-12-07T13:40:15+00:00" data-subject="Stone Skin Watcher .NET">
 
 #defgroup {Stoneskin}
 

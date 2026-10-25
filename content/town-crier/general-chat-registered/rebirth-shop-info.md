@@ -10,7 +10,7 @@ locked: false
 post_count: 41
 ---
 
-<div class="post" data-post-id="39232" data-author="Gorka" data-date="2019-07-05T17:53:03+00:00">
+<div class="post" data-post-id="39232" data-author="Gorka" data-date="2019-07-05T17:53:03+00:00" data-subject="Rebirth Shop Info">
 
 No, I haven't found how to enter it... but here is a list of everything I know... I would appreciate help in the form of people trying things... don't just speculate try your theories first...
 
@@ -270,7 +270,7 @@ Teker has told me "A number of clues have been added in game that will pop at va
 
 </div>
 
-<div class="post" data-post-id="39233" data-author="Driven" data-date="2019-07-05T20:30:44+00:00">
+<div class="post" data-post-id="39233" data-author="Driven" data-date="2019-07-05T20:30:44+00:00" data-subject="Re: Rebirth Shop Info">
 
 As Gorka knows, but for the benefit of others trying to find the rebirth shop... we cleared out the Lightning Plane of all mobs today, used control weather to induce lightning storms, and tried planar shifting from various rooms at 12am onward.  We tried this with and without spells up. 
 
@@ -278,13 +278,13 @@ No luck.  I will be camped out in the zone shifted as a tree if anyone else want
 
 </div>
 
-<div class="post" data-post-id="39234" data-author="Gorka" data-date="2019-07-05T21:00:01+00:00">
+<div class="post" data-post-id="39234" data-author="Gorka" data-date="2019-07-05T21:00:01+00:00" data-subject="Re: Rebirth Shop Info">
 
 I've been studying Xicilia Black, the weather when they planar shift, the time, and I have also set a trigger to fire planar shift at the same time they do it. There doesn't seem to be any useful information from this. They planar at any time and any weather... and if I planar at the same time, we don't land in the same room. They do however end up in the same rooms that we do commonly.
 
 </div>
 
-<div class="post" data-post-id="39235" data-author="Driven" data-date="2019-07-07T18:22:06+00:00">
+<div class="post" data-post-id="39235" data-author="Driven" data-date="2019-07-07T18:22:06+00:00" data-subject="Re: Rebirth Shop Info">
 
 There is something written upon it:
 
@@ -308,7 +308,7 @@ that, the zombie was never seen again.
 
 </div>
 
-<div class="post" data-post-id="39236" data-author="Gorka" data-date="2019-07-07T18:48:44+00:00">
+<div class="post" data-post-id="39236" data-author="Gorka" data-date="2019-07-07T18:48:44+00:00" data-subject="Re: Rebirth Shop Info">
 
 This info added by Tau, I'm just back home, will look into things more.
 
@@ -346,7 +346,7 @@ You peer intently all around, and see:
 
 </div>
 
-<div class="post" data-post-id="39237" data-author="Gorka" data-date="2019-07-07T19:00:32+00:00">
+<div class="post" data-post-id="39237" data-author="Gorka" data-date="2019-07-07T19:00:32+00:00" data-subject="Re: Rebirth Shop Info">
 
 examine note
 
@@ -380,7 +380,7 @@ A tattered note crumbles in your hands.
 
 </div>
 
-<div class="post" data-post-id="39238" data-author="Waza" data-date="2019-07-08T02:35:12+00:00">
+<div class="post" data-post-id="39238" data-author="Waza" data-date="2019-07-08T02:35:12+00:00" data-subject="Re: Rebirth Shop Info">
 
 Found on a note in Plane of Salt
 
@@ -410,7 +410,7 @@ no one spoke a word.i
 
 </div>
 
-<div class="post" data-post-id="39239" data-author="Gorka" data-date="2019-07-08T07:10:16+00:00">
+<div class="post" data-post-id="39239" data-author="Gorka" data-date="2019-07-08T07:10:16+00:00" data-subject="Re: Rebirth Shop Info">
 
 I've planar shifted in every room in salt plane, with no spells up, during a storm at night to no avail.
 
@@ -422,13 +422,13 @@ The possibilities are still too many to try in my opinion. If indeed it is the p
 
 </div>
 
-<div class="post" data-post-id="39240" data-author="Gorka" data-date="2019-07-09T21:18:37+00:00">
+<div class="post" data-post-id="39240" data-author="Gorka" data-date="2019-07-09T21:18:37+00:00" data-subject="Re: Rebirth Shop Info">
 
 Seems we are at a stalemate. No further elimination of the possibilities, although I planar shifted in most of the rooms, at night, in a storm, without spells during house of heat today. I've only popped old notes otherwise.
 
 </div>
 
-<div class="post" data-post-id="39241" data-author="Gorka" data-date="2019-07-10T04:02:28+00:00">
+<div class="post" data-post-id="39241" data-author="Gorka" data-date="2019-07-10T04:02:28+00:00" data-subject="Re: Rebirth Shop Info">
 
 examine note
 
@@ -466,7 +466,7 @@ A tattered note crumbles in your hands.
 
 </div>
 
-<div class="post" data-post-id="39242" data-author="Gorka" data-date="2019-07-10T05:19:26+00:00">
+<div class="post" data-post-id="39242" data-author="Gorka" data-date="2019-07-10T05:19:26+00:00" data-subject="Re: Rebirth Shop Info">
 
 There is something written upon it:
 
@@ -522,7 +522,7 @@ The cp's I caught a whiff of before rebirth shop actually went in, and I had sta
 
 </div>
 
-<div class="post" data-post-id="39243" data-author="Gorka" data-date="2019-07-10T13:08:11+00:00">
+<div class="post" data-post-id="39243" data-author="Gorka" data-date="2019-07-10T13:08:11+00:00" data-subject="Re: Rebirth Shop Info">
 
 Are these cp's even zoned yet? Singing wealth is not showing them on any continent.
 
@@ -540,7 +540,7 @@ Or does this mean that they are proc loaders? Will there be clues? It may take m
 
 </div>
 
-<div class="post" data-post-id="39244" data-author="Gorka" data-date="2019-07-10T19:29:23+00:00">
+<div class="post" data-post-id="39244" data-author="Gorka" data-date="2019-07-10T19:29:23+00:00" data-subject="Re: Rebirth Shop Info">
 
 There is something written upon it:
 
@@ -568,7 +568,7 @@ A confidential file crumbles in your hands.
 
 </div>
 
-<div class="post" data-post-id="39245" data-author="*teker*" data-date="2019-07-11T17:33:50+00:00">
+<div class="post" data-post-id="39245" data-author="*teker*" data-date="2019-07-11T17:33:50+00:00" data-subject="Re: Rebirth Shop Info">
 
 You are guys are doing well and are definitely on the right track.  I thought I might clarify a few things based on the contents of the previous posts.
 
@@ -590,7 +590,7 @@ Happy hunting!
 
 </div>
 
-<div class="post" data-post-id="39248" data-author="Gorka" data-date="2019-07-11T18:35:27+00:00">
+<div class="post" data-post-id="39248" data-author="Gorka" data-date="2019-07-11T18:35:27+00:00" data-subject="Re: Rebirth Shop Info">
 
 Thanks for your post Teker, I think most of us had given up on the "non-staff" entry for sure, I suspect some of us will start digging again now that the conditions are narrowed.
 
@@ -602,7 +602,7 @@ Genuine thanks to you and Neptune for the clarifications that could have otherwi
 
 </div>
 
-<div class="post" data-post-id="39249" data-author="Driven" data-date="2019-07-12T02:09:29+00:00">
+<div class="post" data-post-id="39249" data-author="Driven" data-date="2019-07-12T02:09:29+00:00" data-subject="Re: Rebirth Shop Info">
 
 l timepiece
 
@@ -808,7 +808,7 @@ BLEAH!
 
 </div>
 
-<div class="post" data-post-id="39250" data-author="Gorka" data-date="2019-07-12T06:15:57+00:00">
+<div class="post" data-post-id="39250" data-author="Gorka" data-date="2019-07-12T06:15:57+00:00" data-subject="Re: Rebirth Shop Info">
 
 There are certainly other spells that may need to be up. Also it's not clear whether you need to planar from plane of salt, or a specific room in plane of salt.
 
@@ -822,7 +822,7 @@ I'm focusing most of my effort on forging the staff, but admit this may take lon
 
 </div>
 
-<div class="post" data-post-id="39251" data-author="Gorka" data-date="2019-07-12T12:27:33+00:00">
+<div class="post" data-post-id="39251" data-author="Gorka" data-date="2019-07-12T12:27:33+00:00" data-subject="Re: Rebirth Shop Info">
 
 Ok, so things are coming together, but we still could be ages out from establishing access.
 
@@ -892,7 +892,7 @@ I need people to run Neptunes original planes and kill the small mobs so the pro
 
 </div>
 
-<div class="post" data-post-id="39252" data-author="*teker*" data-date="2019-07-12T17:14:01+00:00">
+<div class="post" data-post-id="39252" data-author="*teker*" data-date="2019-07-12T17:14:01+00:00" data-subject="Re: Rebirth Shop Info">
 
 >> What spells am I missing?
 
@@ -900,13 +900,13 @@ You're getting closer...
 
 </div>
 
-<div class="post" data-post-id="39256" data-author="Driven" data-date="2019-07-12T20:37:17+00:00">
+<div class="post" data-post-id="39256" data-author="Driven" data-date="2019-07-12T20:37:17+00:00" data-subject="Re: Rebirth Shop Info">
 
 I followed the story line and started poking around the BH Asylum.  Critter has been running the area for a couple days and has popped a couple of confidential files off the aged gnome.  So far 2 have popped but don't have  anything to do with Xicilia... my guess is there are other mons that pop the files as well.
 
 </div>
 
-<div class="post" data-post-id="39258" data-author="Waza" data-date="2019-07-12T21:08:50+00:00">
+<div class="post" data-post-id="39258" data-author="Waza" data-date="2019-07-12T21:08:50+00:00" data-subject="Re: Rebirth Shop Info">
 
 >> What spells am I missing?
 
@@ -918,7 +918,7 @@ I'm currently trying to planar shift from Plane of Salt rooms with multiple spel
 
 </div>
 
-<div class="post" data-post-id="39259" data-author="Gorka" data-date="2019-07-12T22:27:12+00:00">
+<div class="post" data-post-id="39259" data-author="Gorka" data-date="2019-07-12T22:27:12+00:00" data-subject="Re: Rebirth Shop Info">
 
 Here is a list of all spells, with a marking of what Driven had up, and what is a necro spell... Obviously I haven't removed those spells of the type which don't have a duration on the character.
 
@@ -1201,7 +1201,7 @@ There are two things I would suggest...
 
 </div>
 
-<div class="post" data-post-id="39260" data-author="*Neptune*" data-date="2019-07-13T17:58:10+00:00">
+<div class="post" data-post-id="39260" data-author="*Neptune*" data-date="2019-07-13T17:58:10+00:00" data-subject="Re: Rebirth Shop Info">
 
 I have taken a gander at the loading of the staff components
 
@@ -1219,7 +1219,7 @@ Thanks, hope that helps.
 
 </div>
 
-<div class="post" data-post-id="39261" data-author="Driven" data-date="2019-07-13T23:07:48+00:00">
+<div class="post" data-post-id="39261" data-author="Driven" data-date="2019-07-13T23:07:48+00:00" data-subject="Re: Rebirth Shop Info">
 
 Took almost 2 days of cycling Asylum, but I finally popped the final clue off the analyst.
 
@@ -1259,7 +1259,7 @@ A confidential file crumbles in your hands.
 
 </div>
 
-<div class="post" data-post-id="39262" data-author="Gorka" data-date="2019-07-13T23:45:36+00:00">
+<div class="post" data-post-id="39262" data-author="Gorka" data-date="2019-07-13T23:45:36+00:00" data-subject="Re: Rebirth Shop Info">
 
 ##   Mod  Ability                -   History  -  Xp Cost  /  Gold Cost
 
@@ -1335,7 +1335,7 @@ enough gold in hand at time of purchase.
 
 </div>
 
-<div class="post" data-post-id="39263" data-author="Driven" data-date="2019-07-14T00:35:04+00:00">
+<div class="post" data-post-id="39263" data-author="Driven" data-date="2019-07-14T00:35:04+00:00" data-subject="Re: Rebirth Shop Info">
 
 Kudos to Teker (and Neptune) for a great quest line and method of getting to the rebirth shop.  It took us quite a while to figure all of this out.  I will not post the full condition on the forum so that others have the pleasure of having the excitement of reading the clues appropriately and seeing their knowledge pay off.  I will not spoil the surprise of what the area is actually like, either, but I strongly advise against being in the room when a 9x40 rebirth planar shifts under the proper conditions.  Strongly.
 
@@ -1343,25 +1343,25 @@ Happy hunting!
 
 </div>
 
-<div class="post" data-post-id="39264" data-author="Filk" data-date="2019-07-14T03:26:48+00:00">
+<div class="post" data-post-id="39264" data-author="Filk" data-date="2019-07-14T03:26:48+00:00" data-subject="Re: Rebirth Shop Info">
 
 And what about the people who dont like such riddles and thus lose that part of the game?
 
 </div>
 
-<div class="post" data-post-id="39265" data-author="Driven" data-date="2019-07-14T11:13:52+00:00">
+<div class="post" data-post-id="39265" data-author="Driven" data-date="2019-07-14T11:13:52+00:00" data-subject="Re: Rebirth Shop Info">
 
 Just ask me or someone else ingame... I at least wanted to give people the option of discovery.
 
 </div>
 
-<div class="post" data-post-id="39266" data-author="Vegetable" data-date="2019-07-15T03:05:19+00:00">
+<div class="post" data-post-id="39266" data-author="Vegetable" data-date="2019-07-15T03:05:19+00:00" data-subject="Re: Rebirth Shop Info">
 
 Hrmm, looks like there is no cap on how much hp/mana you could buy. Or am i missing something?
 
 </div>
 
-<div class="post" data-post-id="39267" data-author="Gorka" data-date="2019-07-15T04:38:28+00:00">
+<div class="post" data-post-id="39267" data-author="Gorka" data-date="2019-07-15T04:38:28+00:00" data-subject="Re: Rebirth Shop Info">
 
 That's correct, plant consumed by humans or other animals as food.
 
@@ -1373,7 +1373,7 @@ I see I have waffled on, far to long... the point I am making is that rebirth sh
 
 </div>
 
-<div class="post" data-post-id="39268" data-author="Driven" data-date="2019-07-15T16:43:17+00:00">
+<div class="post" data-post-id="39268" data-author="Driven" data-date="2019-07-15T16:43:17+00:00" data-subject="Re: Rebirth Shop Info">
 
 > **Quote:**
 > The mage gauntlets are the most insane increase ever.
@@ -1390,7 +1390,7 @@ And yes, groups will see an increase in power as well.
 
 </div>
 
-<div class="post" data-post-id="39271" data-author="Gorka" data-date="2019-07-15T21:17:38+00:00">
+<div class="post" data-post-id="39271" data-author="Gorka" data-date="2019-07-15T21:17:38+00:00" data-subject="Re: Rebirth Shop Info">
 
 I agree not everyone measures the importance of damage by how much more xp they can run in a time frame. In my opinion, this is how it should be viewed - because this is the objective of damage.
 
@@ -1418,7 +1418,7 @@ Rebirth shop is fantastic, it's earned advantages... but it's conservative. 5000
 
 </div>
 
-<div class="post" data-post-id="39273" data-author="Gorka" data-date="2019-07-15T22:20:52+00:00">
+<div class="post" data-post-id="39273" data-author="Gorka" data-date="2019-07-15T22:20:52+00:00" data-subject="Re: Rebirth Shop Info">
 
 The maths behind my claim that rebirth shop probably won't increase solo xp runs is this...
 
@@ -1434,7 +1434,7 @@ However this equation doesn't work for groups... because groups will add up all 
 
 </div>
 
-<div class="post" data-post-id="39276" data-author="Ker" data-date="2019-07-16T03:19:04+00:00">
+<div class="post" data-post-id="39276" data-author="Ker" data-date="2019-07-16T03:19:04+00:00" data-subject="Re: Rebirth Shop Info">
 
 Hi,
 
@@ -1454,7 +1454,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="39278" data-author="cyprimus" data-date="2019-07-16T04:36:44+00:00">
+<div class="post" data-post-id="39278" data-author="cyprimus" data-date="2019-07-16T04:36:44+00:00" data-subject="Re: Rebirth Shop Info">
 
 I agree with dr.   Mages are useless!  and evil!
 
@@ -1466,7 +1466,7 @@ It seems the code for bonus bonus stuff got changed, to be broken like the code 
 
 </div>
 
-<div class="post" data-post-id="39279" data-author="Vegetable" data-date="2019-07-16T08:25:35+00:00">
+<div class="post" data-post-id="39279" data-author="Vegetable" data-date="2019-07-16T08:25:35+00:00" data-subject="Re: Rebirth Shop Info">
 
 Can't speak for other classes/playstyle but i think 6 hand dam + 3 dam from rebirth shop will definitely make me run much faster. I'm already seeing the difference in my runs with the hand dam clasp from EU. i'd imagine with an extra 9 dam, i'll be splorking more stuff with grip.
 
@@ -1480,7 +1480,7 @@ Vege (i'm not edible)
 
 </div>
 
-<div class="post" data-post-id="39280" data-author="Gorka" data-date="2019-07-16T08:29:01+00:00">
+<div class="post" data-post-id="39280" data-author="Gorka" data-date="2019-07-16T08:29:01+00:00" data-subject="Re: Rebirth Shop Info">
 
 I forged the staff of the reborn today. It turned out to be a lot of work for a number of reasons. I had to figure out what the mobs were for the regular loading cp's, the random proc loading cp's were broken and wouldn't load, and then there was an issue with one of the cp's being temp. All issues have seemingly been rectified. Most of the cp's are identified on the eqlist. Those that aren't you'll have to work out yourself, or you can pay me a princely sum for being a lazy ass as my spares are currently on auction. Regarding the reborn particle cp, you'll need to visit the rebirth shop first using the other method of access of which the notes and information are well documented in this thread. I shant be saying more. 
 
@@ -1648,7 +1648,7 @@ Exits: East
 
 </div>
 
-<div class="post" data-post-id="39281" data-author="Ker" data-date="2019-07-16T10:58:39+00:00">
+<div class="post" data-post-id="39281" data-author="Ker" data-date="2019-07-16T10:58:39+00:00" data-subject="Re: Rebirth Shop Info">
 
 Wunderbar!
 
@@ -1660,13 +1660,13 @@ M
 
 </div>
 
-<div class="post" data-post-id="39284" data-author="*teker*" data-date="2019-07-18T21:44:38+00:00">
+<div class="post" data-post-id="39284" data-author="*teker*" data-date="2019-07-18T21:44:38+00:00" data-subject="Re: Rebirth Shop Info">
 
 Let it be known that at some point in the not too distant future, I intend to change the process of rebirthing (ie the rebirth command) so that it can only take place at the rebirth shopkeeper.  I don't have an exact date but if you're on the fence or thinking about rebirthing, you might want to get moving on that.
 
 </div>
 
-<div class="post" data-post-id="39285" data-author="Gorka" data-date="2019-07-19T05:37:23+00:00">
+<div class="post" data-post-id="39285" data-author="Gorka" data-date="2019-07-19T05:37:23+00:00" data-subject="Re: Rebirth Shop Info">
 
 Is the ability to rebirth more than once going to be enabled, given the renewable drachma issue?
 
@@ -1676,7 +1676,7 @@ I've just worked out what I would buy with 3000+ more drachma and 3 more 3x40 to
 
 </div>
 
-<div class="post" data-post-id="39287" data-author="Vegetable" data-date="2019-08-02T00:36:44+00:00">
+<div class="post" data-post-id="39287" data-author="Vegetable" data-date="2019-08-02T00:36:44+00:00" data-subject="Re: Rebirth Shop Info">
 
 Multiple reborn sounds fun. I was told last time that there may be a stacking remort/reborn bonus (up to 3 times) for multiple reborn. Is this in the pipeline?
 

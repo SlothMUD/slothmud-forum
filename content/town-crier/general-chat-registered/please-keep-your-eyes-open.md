@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35859" data-author="*Splork*" data-date="2015-04-24T13:42:53+00:00">
+<div class="post" data-post-id="35859" data-author="*Splork*" data-date="2015-04-24T13:42:53+00:00" data-subject="Please keep your eyes open!">
 
 We have been making thousands of changes to the code the last few weeks.  For the most part, these are changes that you guys should not notice. The changes should help our stability, up-time, and other critical aspects of maintaining a solid game. 
 

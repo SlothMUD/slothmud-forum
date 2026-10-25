@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36057" data-author="Dragoth" data-date="2015-08-22T14:41:16+00:00">
+<div class="post" data-post-id="36057" data-author="Dragoth" data-date="2015-08-22T14:41:16+00:00" data-subject="Age and History.">
 
 Right, I know this is a sore spot and I know mud needs this to encourage people to run different areas and explore and to avoid camping, but may I just suggest a few small things for consideration to make it more bearable for all us mortals?
 
@@ -36,7 +36,7 @@ Unless you want to breed unhappiness, competitiveness and hatefulness, please co
 
 </div>
 
-<div class="post" data-post-id="36058" data-author="*Splork*" data-date="2015-08-22T17:43:17+00:00">
+<div class="post" data-post-id="36058" data-author="*Splork*" data-date="2015-08-22T17:43:17+00:00" data-subject="Re: Age and History.">
 
 I love aged exp. I feel like it does far more good than harm.  Without a doubt it encourages players to explore, moves players around to different areas, and gets areas ran which otherwise would not. It also adds more experience to the game and helps players level quicker.  Sounds pretty good to me.
 
@@ -48,7 +48,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="36059" data-author="cyprimus" data-date="2015-08-22T20:32:54+00:00">
+<div class="post" data-post-id="36059" data-author="cyprimus" data-date="2015-08-22T20:32:54+00:00" data-subject="Re: Age and History.">
 
 Time limit is a good idea.  killing for a week on lyme and in groups and still have history in chasm with cy for example...
 
@@ -60,7 +60,7 @@ just my half cent worth!
 
 </div>
 
-<div class="post" data-post-id="36061" data-author="Dragoth" data-date="2015-08-24T10:58:40+00:00">
+<div class="post" data-post-id="36061" data-author="Dragoth" data-date="2015-08-24T10:58:40+00:00" data-subject="Re: Age and History.">
 
 Slothers do not like to agree with anything, but if they didn't agree, there'd be a million responses by now about how this is a stupid idea and how i am a moron for even suggesting it (see Cyprimus topic below). So by any lack of response from the general populace we can conclude that this is a good idea on both accounts  :idea: 
 

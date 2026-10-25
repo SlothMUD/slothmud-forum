@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34305" data-author="Yasik" data-date="2013-05-27T13:04:41+00:00">
+<div class="post" data-post-id="34305" data-author="Yasik" data-date="2013-05-27T13:04:41+00:00" data-subject="Camaradery, adventure and steel-on-steel.">
 
 [http://www.baldursgate.com/](http://www.baldursgate.com/)
 
@@ -30,7 +30,7 @@ Still, I dont remember kits or sub-races in DND 3rd Edition. Or them just was un
 
 </div>
 
-<div class="post" data-post-id="34864" data-author="Yasik" data-date="2014-02-14T12:46:00+00:00">
+<div class="post" data-post-id="34864" data-author="Yasik" data-date="2014-02-14T12:46:00+00:00" data-subject="Re: Camaradery, adventure and steel-on-steel.">
 
 Reusing this thread for news I'm sure many of us will like to hear.
 

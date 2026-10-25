@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="37966" data-author="Tuck" data-date="2017-01-16T12:13:47+00:00">
+<div class="post" data-post-id="37966" data-author="Tuck" data-date="2017-01-16T12:13:47+00:00" data-subject="MSDP.STRING_AFFECTS bug">
 
 ** problem fixed **
 
@@ -57,13 +57,13 @@ end
 
 </div>
 
-<div class="post" data-post-id="37967" data-author="*juggleblood*" data-date="2017-01-16T13:55:07+00:00">
+<div class="post" data-post-id="37967" data-author="*juggleblood*" data-date="2017-01-16T13:55:07+00:00" data-subject="Re: MSDP.STRING_AFFECTS bug">
 
 I told you string_affects is obsolete.  MSDPAFFECTS is the newer one.
 
 </div>
 
-<div class="post" data-post-id="37969" data-author="Tuck" data-date="2017-01-16T14:15:59+00:00">
+<div class="post" data-post-id="37969" data-author="Tuck" data-date="2017-01-16T14:15:59+00:00" data-subject="Re: MSDP.STRING_AFFECTS bug">
 
 yeah, it works
 

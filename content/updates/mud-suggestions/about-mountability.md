@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="2892" data-author="Alexdmage" data-date="2004-11-16T15:15:38+00:00">
+<div class="post" data-post-id="2892" data-author="Alexdmage" data-date="2004-11-16T15:15:38+00:00" data-subject="about mountability">
 
 C'mon, give the ability to be mounted to big druid shapes! 
 
@@ -18,7 +18,7 @@ Anyway, shapeshifting works best if there is someone who can damn/blind/web mob 
 
 </div>
 
-<div class="post" data-post-id="2894" data-author="Yeah, right" data-date="2004-11-16T15:21:02+00:00">
+<div class="post" data-post-id="2894" data-author="Yeah, right" data-date="2004-11-16T15:21:02+00:00" data-subject="Re: about mountability">
 
 C'mon, give the ability to be mounted to big druid shapes! 
 

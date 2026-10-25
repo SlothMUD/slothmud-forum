@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16137" data-author="Medios" data-date="2007-01-09T01:21:48+00:00">
+<div class="post" data-post-id="16137" data-author="Medios" data-date="2007-01-09T01:21:48+00:00" data-subject="What&#x27;s in your wallet?">
 
 You are using:
 
@@ -116,7 +116,7 @@ You are affected by the following spells:
 
 </div>
 
-<div class="post" data-post-id="16138" data-author="Hotara" data-date="2007-01-09T01:35:07+00:00">
+<div class="post" data-post-id="16138" data-author="Hotara" data-date="2007-01-09T01:35:07+00:00" data-subject="">
 
 All hail Mike.
 

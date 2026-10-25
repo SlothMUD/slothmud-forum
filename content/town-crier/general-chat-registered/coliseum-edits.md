@@ -10,7 +10,7 @@ locked: false
 post_count: 39
 ---
 
-<div class="post" data-post-id="33636" data-author="*juggleblood*" data-date="2012-10-07T22:53:58+00:00">
+<div class="post" data-post-id="33636" data-author="*juggleblood*" data-date="2012-10-07T22:53:58+00:00" data-subject="coliseum edits">
 
 * Finally, all scores should be saving and persisting through reboots.
 
@@ -26,13 +26,13 @@ thx
 
 </div>
 
-<div class="post" data-post-id="33638" data-author="*juggleblood*" data-date="2012-10-08T13:00:07+00:00">
+<div class="post" data-post-id="33638" data-author="*juggleblood*" data-date="2012-10-08T13:00:07+00:00" data-subject="Re: coliseum edits">
 
 *Spear of Azarone fixed/changed and weight reduced.
 
 </div>
 
-<div class="post" data-post-id="33640" data-author="*juggleblood*" data-date="2012-10-13T14:10:16+00:00">
+<div class="post" data-post-id="33640" data-author="*juggleblood*" data-date="2012-10-13T14:10:16+00:00" data-subject="Re: coliseum edits">
 
 *Deleveled chars are no longer able to enter lower level arenas in the coliseum.
 
@@ -40,13 +40,13 @@ thx
 
 </div>
 
-<div class="post" data-post-id="33641" data-author="*juggleblood*" data-date="2012-10-13T22:10:35+00:00">
+<div class="post" data-post-id="33641" data-author="*juggleblood*" data-date="2012-10-13T22:10:35+00:00" data-subject="Re: coliseum edits">
 
 *You can now <look scores> at any given arena sign and see all the scores for that level in order of highest to lowest.
 
 </div>
 
-<div class="post" data-post-id="33642" data-author="*juggleblood*" data-date="2012-10-14T16:28:29+00:00">
+<div class="post" data-post-id="33642" data-author="*juggleblood*" data-date="2012-10-14T16:28:29+00:00" data-subject="Re: coliseum edits">
 
 *Enhanced the following items and fixed such that can not be used in coliseum:
 
@@ -58,73 +58,73 @@ potion of accuracy, potion of good intentions, potion of bad intentions, flask o
 
 </div>
 
-<div class="post" data-post-id="33644" data-author="*juggleblood*" data-date="2012-10-16T16:06:05+00:00">
+<div class="post" data-post-id="33644" data-author="*juggleblood*" data-date="2012-10-16T16:06:05+00:00" data-subject="Re: coliseum edits">
 
 *Re-balanced level 2. Reduced mob hp. Reduced poison durations. Minotaur charge is dodgeable (under testing). Reduced bash success rate.
 
 </div>
 
-<div class="post" data-post-id="33645" data-author="*juggleblood*" data-date="2012-10-16T17:50:32+00:00">
+<div class="post" data-post-id="33645" data-author="*juggleblood*" data-date="2012-10-16T17:50:32+00:00" data-subject="Re: coliseum edits">
 
 Re-balance level 3. Reduced hit points. Decreased bash success rate. Removed fire resistance. Fixed / reduced level and duration black widow proc.
 
 </div>
 
-<div class="post" data-post-id="33646" data-author="*juggleblood*" data-date="2012-10-16T18:37:33+00:00">
+<div class="post" data-post-id="33646" data-author="*juggleblood*" data-date="2012-10-16T18:37:33+00:00" data-subject="Re: coliseum edits">
 
 Rebalance level 4. Reduce a few hit point. Increase ethereal hit point. Change floating head to ethereal. Remove resists from dragon. Dragon made nostab / nogrip. Reduce bash success.
 
 </div>
 
-<div class="post" data-post-id="33647" data-author="*juggleblood*" data-date="2012-10-16T21:42:21+00:00">
+<div class="post" data-post-id="33647" data-author="*juggleblood*" data-date="2012-10-16T21:42:21+00:00" data-subject="Re: coliseum edits">
 
 Rebalance level 5: Reduced hit points. Remove some resists. Added some vulnerabilities. Added a damaged by heals. Lowered bash success rate. Removed a warrior proc. Added web to do not cast. Removed some nostab nogrip.
 
 </div>
 
-<div class="post" data-post-id="33648" data-author="*juggleblood*" data-date="2012-10-16T23:38:30+00:00">
+<div class="post" data-post-id="33648" data-author="*juggleblood*" data-date="2012-10-16T23:38:30+00:00" data-subject="Re: coliseum edits">
 
 Rebalance level 6. Reduced some mob hp. Removed resists. Added some vulnerabilities. Lowered good alignments. Added some damaged by heals.
 
 </div>
 
-<div class="post" data-post-id="33649" data-author="*juggleblood*" data-date="2012-10-17T02:14:31+00:00">
+<div class="post" data-post-id="33649" data-author="*juggleblood*" data-date="2012-10-17T02:14:31+00:00" data-subject="Re: coliseum edits">
 
 Rebalance level 7. Reduced hit points. Removed some resists. Removed some nostab nogrip. Lowered some good align.
 
 </div>
 
-<div class="post" data-post-id="33652" data-author="*juggleblood*" data-date="2012-10-17T13:40:39+00:00">
+<div class="post" data-post-id="33652" data-author="*juggleblood*" data-date="2012-10-17T13:40:39+00:00" data-subject="Re: coliseum edits">
 
 Rebalance level 8. Lowered hp. Lowered alignments. Removed nostab / nogrip. Removed resists. Added vulnerability. Added damaged by heals.
 
 </div>
 
-<div class="post" data-post-id="33657" data-author="*juggleblood*" data-date="2012-10-18T02:51:15+00:00">
+<div class="post" data-post-id="33657" data-author="*juggleblood*" data-date="2012-10-18T02:51:15+00:00" data-subject="Re: coliseum edits">
 
 Level 9 rebalance. Drastic hit point reductions on demons (overdue from sword nerf). Lowered some alignment. Other lesser hit point reductions. Reaper made into an ether mob. Removed resistances.
 
 </div>
 
-<div class="post" data-post-id="33659" data-author="*juggleblood*" data-date="2012-10-18T03:23:37+00:00">
+<div class="post" data-post-id="33659" data-author="*juggleblood*" data-date="2012-10-18T03:23:37+00:00" data-subject="Re: coliseum edits">
 
 Pets left behind in sanctuary room now teleport out to the player.
 
 </div>
 
-<div class="post" data-post-id="33664" data-author="*juggleblood*" data-date="2012-10-20T18:13:09+00:00">
+<div class="post" data-post-id="33664" data-author="*juggleblood*" data-date="2012-10-20T18:13:09+00:00" data-subject="Re: coliseum edits">
 
 Mechanics adjustment that should greatly benefit druids and players who use non-melee supplicants. Sorry, I can not elaborate.
 
 </div>
 
-<div class="post" data-post-id="33665" data-author="jezer" data-date="2012-10-21T02:51:48+00:00">
+<div class="post" data-post-id="33665" data-author="jezer" data-date="2012-10-21T02:51:48+00:00" data-subject="Re: coliseum edits">
 
 Thanks JB, 5x40 arena is a lot better, well as in the previous arena 5 mobs would have been above average, I now do about 7. I think this is fairer for my time and effort.
 
 </div>
 
-<div class="post" data-post-id="33666" data-author="*juggleblood*" data-date="2012-10-24T00:38:04+00:00">
+<div class="post" data-post-id="33666" data-author="*juggleblood*" data-date="2012-10-24T00:38:04+00:00" data-subject="Re: coliseum edits">
 
 I devised another level based on a few player suggestions called the chaos pit. It's four rooms where mobs will drop into the arena until all the contestants are dead or have defeated everything. Mobs will drop in according to their level in the coliseum, i.e. level 1 mobs, level 2 mobs, etc.. Mobs will all be aggro and wandering.
 
@@ -152,13 +152,13 @@ So that is the concept. I'm not sure how to score it or how many to allow in gro
 
 </div>
 
-<div class="post" data-post-id="33667" data-author="jezer" data-date="2012-10-24T10:16:37+00:00">
+<div class="post" data-post-id="33667" data-author="jezer" data-date="2012-10-24T10:16:37+00:00" data-subject="Re: coliseum edits">
 
 Wow, great idea!
 
 </div>
 
-<div class="post" data-post-id="33680" data-author="*juggleblood*" data-date="2012-10-26T21:46:38+00:00">
+<div class="post" data-post-id="33680" data-author="*juggleblood*" data-date="2012-10-26T21:46:38+00:00" data-subject="Re: coliseum edits">
 
 I'm still actively banging this thing out.
 
@@ -172,7 +172,7 @@ I still don't have anything in the way of prizes yet. I think I need to balance 
 
 </div>
 
-<div class="post" data-post-id="33681" data-author="jezer" data-date="2012-10-27T04:20:13+00:00">
+<div class="post" data-post-id="33681" data-author="jezer" data-date="2012-10-27T04:20:13+00:00" data-subject="Re: coliseum edits">
 
 How about a royal rumble. Players vs Mobs in a 2x2 room grid. Mobs are wandering and are all aggro, there are always 4 mobs spawned with the empty room getting the spawn, there is a time limit, mobs get progressively harder. Rewards no different than currently, items, drachma and honor. Max players in rumble 8 or less. I want to watch from a grandstand too...
 
@@ -182,7 +182,7 @@ I wouldn't worry about limiting 40's... already its clear the coliseum is biased
 
 </div>
 
-<div class="post" data-post-id="33682" data-author="Magi" data-date="2012-10-27T04:53:30+00:00">
+<div class="post" data-post-id="33682" data-author="Magi" data-date="2012-10-27T04:53:30+00:00" data-subject="Re: coliseum edits">
 
 > **jezer wrote:**
 > already its clear the coliseum is biased to warriors... a group of warriors is going to do better...
@@ -195,13 +195,13 @@ PS: Just wait til the avatar necromasters return from their breaks to claim the 
 
 </div>
 
-<div class="post" data-post-id="33683" data-author="jezer" data-date="2012-10-27T05:16:15+00:00">
+<div class="post" data-post-id="33683" data-author="jezer" data-date="2012-10-27T05:16:15+00:00" data-subject="Re: coliseum edits">
 
 Oh, come on Magi, all the other arena's have melee classes as top.  :roll: Talk about ignore the elephant in the room.
 
 </div>
 
-<div class="post" data-post-id="33687" data-author="*juggleblood*" data-date="2012-10-27T13:36:03+00:00">
+<div class="post" data-post-id="33687" data-author="*juggleblood*" data-date="2012-10-27T13:36:03+00:00" data-subject="Re: coliseum edits">
 
 * I have removed a slight handicap the coliseum had against players using pets. There should be noticeable score improvements. I had already removed the shifted handicap.
 
@@ -213,19 +213,19 @@ The coliseum had incorporated the notion that druids and necros had a minor adva
 
 </div>
 
-<div class="post" data-post-id="33688" data-author="*juggleblood*" data-date="2012-10-27T13:42:40+00:00">
+<div class="post" data-post-id="33688" data-author="*juggleblood*" data-date="2012-10-27T13:42:40+00:00" data-subject="Re: coliseum edits">
 
 Btw: The breakdown of classes that excel at the coliseum is not indicative of how those classes perform in the game as a whole.
 
 </div>
 
-<div class="post" data-post-id="33690" data-author="*juggleblood*" data-date="2012-10-27T18:45:04+00:00">
+<div class="post" data-post-id="33690" data-author="*juggleblood*" data-date="2012-10-27T18:45:04+00:00" data-subject="Re: coliseum edits">
 
 *Mindfroy the Illusionist will no longer be able to penetrate mindbar to paralyze you.
 
 </div>
 
-<div class="post" data-post-id="33692" data-author="jezer" data-date="2012-10-27T21:24:33+00:00">
+<div class="post" data-post-id="33692" data-author="jezer" data-date="2012-10-27T21:24:33+00:00" data-subject="Re: coliseum edits">
 
 When did you remove pet handicap? Yesterday I took in 2 slimes, and used them on a death giant... they missed a lot but the battle went on for much longer... I couldn't figure it out... guess this might have been it.
 
@@ -233,7 +233,7 @@ I suspect 4 x 4x40 would do better than 2 x 8x40. More players, more attacks, mo
 
 </div>
 
-<div class="post" data-post-id="33693" data-author="*juggleblood*" data-date="2012-10-30T13:03:19+00:00">
+<div class="post" data-post-id="33693" data-author="*juggleblood*" data-date="2012-10-30T13:03:19+00:00" data-subject="Re: coliseum edits">
 
 Thanks to those of you who did some testing on the chaos pit beta. I fell asleep or I would have done some on the spot bug correction.
 
@@ -243,7 +243,7 @@ Thanks Pixie for being there to deal w/ problems.
 
 </div>
 
-<div class="post" data-post-id="33694" data-author="jezer" data-date="2012-10-30T18:34:03+00:00">
+<div class="post" data-post-id="33694" data-author="jezer" data-date="2012-10-30T18:34:03+00:00" data-subject="Re: coliseum edits">
 
 I ran the pit twice last night with Cyprimus, I think Cizin ran with Cyprimus a couple of times before that.
 
@@ -253,7 +253,7 @@ The only thing I'd change about the pit is the way the token's work. It's drachm
 
 </div>
 
-<div class="post" data-post-id="33695" data-author="*juggleblood*" data-date="2012-10-30T22:00:59+00:00">
+<div class="post" data-post-id="33695" data-author="*juggleblood*" data-date="2012-10-30T22:00:59+00:00" data-subject="Re: coliseum edits">
 
 Thanks so much for the positive feedback. Breeze mentioned the personal octs to me as well. I forgot they were in there and could be sold for drachma. I will address it.
 
@@ -265,7 +265,7 @@ I've disconnected it for now. Going to work on it this evening.
 
 </div>
 
-<div class="post" data-post-id="33696" data-author="*juggleblood*" data-date="2012-10-31T01:29:07+00:00">
+<div class="post" data-post-id="33696" data-author="*juggleblood*" data-date="2012-10-31T01:29:07+00:00" data-subject="Re: coliseum edits">
 
 *Groupdeath raise / teleport works now even if team member has morted / acquiesced.
 
@@ -277,13 +277,13 @@ I've disconnected it for now. Going to work on it this evening.
 
 </div>
 
-<div class="post" data-post-id="33697" data-author="*juggleblood*" data-date="2012-10-31T01:38:55+00:00">
+<div class="post" data-post-id="33697" data-author="*juggleblood*" data-date="2012-10-31T01:38:55+00:00" data-subject="Re: coliseum edits">
 
 How about this. The team who beats this thing with the fewest total levels by a fixed date wins X drachma.
 
 </div>
 
-<div class="post" data-post-id="33701" data-author="Magi" data-date="2012-10-31T23:38:32+00:00">
+<div class="post" data-post-id="33701" data-author="Magi" data-date="2012-10-31T23:38:32+00:00" data-subject="Re: coliseum edits">
 
 How about a scoreboard that lists the group members, and the fastest completion time achieved by that group, with higher rewards for faster completions.
 
@@ -293,25 +293,25 @@ If you attempt it again with a better group and win it a minute faster than your
 
 </div>
 
-<div class="post" data-post-id="33705" data-author="jezer" data-date="2012-11-01T10:21:16+00:00">
+<div class="post" data-post-id="33705" data-author="jezer" data-date="2012-11-01T10:21:16+00:00" data-subject="Re: coliseum edits">
 
 I heard personal octs were removed from the entire coliseum? That might have been a good idea from the pit, but it was nice to have a few pieces of renewable drachma from the level arena's. Given the quality of drachma eq these days, and with our multi-classes we seem to need more of it, I didn't see the harm. I popped a fair few of those tokens... still a whole 450 drachma from my next item... that is like 112 tokens... at a max rate of one or two a day? I'd like to see more renewable drachma in the game, even if it's an option to sell runes at the weaver.
 
 </div>
 
-<div class="post" data-post-id="33707" data-author="*juggleblood*" data-date="2012-11-01T13:12:26+00:00">
+<div class="post" data-post-id="33707" data-author="*juggleblood*" data-date="2012-11-01T13:12:26+00:00" data-subject="Re: coliseum edits">
 
 The token prizes were intended as token prizes, not additional drachma rewards. I don't really care for the idea of people cycling for a random pop that gives drachma. If it were up to me we'd nix the selling of flawed gems and reddish colored eye clasps as well.
 
 </div>
 
-<div class="post" data-post-id="33708" data-author="*juggleblood*" data-date="2012-11-04T05:21:35+00:00">
+<div class="post" data-post-id="33708" data-author="*juggleblood*" data-date="2012-11-04T05:21:35+00:00" data-subject="Re: coliseum edits">
 
 Chaos pit is functioning pretty well. I added a scoreboard. Go to the entrance and type look scores. Prizes / contests should come soon.
 
 </div>
 
-<div class="post" data-post-id="33709" data-author="*juggleblood*" data-date="2012-11-05T13:40:12+00:00">
+<div class="post" data-post-id="33709" data-author="*juggleblood*" data-date="2012-11-05T13:40:12+00:00" data-subject="Re: coliseum edits">
 
 Here's the board currently. It appears better ingame.
 
@@ -355,7 +355,7 @@ Here's the board currently. It appears better ingame.
 
 </div>
 
-<div class="post" data-post-id="33710" data-author="*juggleblood*" data-date="2012-11-05T13:45:35+00:00">
+<div class="post" data-post-id="33710" data-author="*juggleblood*" data-date="2012-11-05T13:45:35+00:00" data-subject="Re: coliseum edits">
 
 Now that I have the basics down, I could use some suggestions on the waves. 
 
@@ -369,7 +369,7 @@ Looking for more ideas. Accepting suggestions on just about any aspect including
 
 </div>
 
-<div class="post" data-post-id="33718" data-author="*juggleblood*" data-date="2012-11-10T19:47:23+00:00">
+<div class="post" data-post-id="33718" data-author="*juggleblood*" data-date="2012-11-10T19:47:23+00:00" data-subject="Re: coliseum edits">
 
 Small stuff:
 
@@ -387,7 +387,7 @@ May only be rewarded once, but may enter as many times as you wish with whomever
 
 </div>
 
-<div class="post" data-post-id="33720" data-author="Tuck" data-date="2012-11-11T00:38:12+00:00">
+<div class="post" data-post-id="33720" data-author="Tuck" data-date="2012-11-11T00:38:12+00:00" data-subject="Re: coliseum edits">
 
 !
 

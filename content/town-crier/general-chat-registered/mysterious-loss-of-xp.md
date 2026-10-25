@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="22563" data-author="madmax" data-date="2008-02-06T04:04:56+00:00">
+<div class="post" data-post-id="22563" data-author="madmax" data-date="2008-02-06T04:04:56+00:00" data-subject="Mysterious Loss of XP.">
 
 I just happened to notice this but it seems that I too, Like Yasix lost XP today for no explained reason.  I do however keep XP in my prompt and with that I can track it to exactly when the loss occured.
 
@@ -390,7 +390,7 @@ Your spell shield absorbs the damage!
 
 </div>
 
-<div class="post" data-post-id="22565" data-author="Yasik" data-date="2008-02-06T05:26:09+00:00">
+<div class="post" data-post-id="22565" data-author="Yasik" data-date="2008-02-06T05:26:09+00:00" data-subject="">
 
 omg serious ownage
 
@@ -402,7 +402,7 @@ i suppose now everybody understand that i wasnt fooling around with my reports
 
 </div>
 
-<div class="post" data-post-id="22568" data-author="jezer" data-date="2008-02-06T05:45:57+00:00">
+<div class="post" data-post-id="22568" data-author="jezer" data-date="2008-02-06T05:45:57+00:00" data-subject="">
 
 Hmm, quickly look... analysing... hmmm, ponder... time goes past...
 
@@ -414,7 +414,7 @@ Thirdly, the log says... Akasha answers your request! How come he answers your r
 
 </div>
 
-<div class="post" data-post-id="22570" data-author="Rynquald" data-date="2008-02-06T07:06:55+00:00">
+<div class="post" data-post-id="22570" data-author="Rynquald" data-date="2008-02-06T07:06:55+00:00" data-subject="">
 
 Once you go much past 2.1b xp it rolls over to -2.1b, then counts backwards. It's not a problem from a levelling/spending tokens point of view(xp just rolls back into positive once you use some), but you *really* don't want to corpse out before you use it.
 
@@ -422,7 +422,7 @@ I've never actually checked, but if energy drain sucks some xp away(no idea if i
 
 </div>
 
-<div class="post" data-post-id="22571" data-author="Yasik" data-date="2008-02-06T07:25:37+00:00">
+<div class="post" data-post-id="22571" data-author="Yasik" data-date="2008-02-06T07:25:37+00:00" data-subject="">
 
 Akasha answers your request! How come he answers your requests, but when I ask him to bring the coliseum back there is no action?[/quote:2ox2e8kn]
 
@@ -446,25 +446,25 @@ Bubbles the lolita starts following you.[/code:2ox2e8kn]
 
 </div>
 
-<div class="post" data-post-id="22572" data-author="Rynquald" data-date="2008-02-06T07:28:12+00:00">
+<div class="post" data-post-id="22572" data-author="Rynquald" data-date="2008-02-06T07:28:12+00:00" data-subject="">
 
 I think that was a joke Yasik :)
 
 </div>
 
-<div class="post" data-post-id="22574" data-author="Tap" data-date="2008-02-06T11:46:27+00:00">
+<div class="post" data-post-id="22574" data-author="Tap" data-date="2008-02-06T11:46:27+00:00" data-subject="">
 
 Since I don't have a charcter that can buy exp tokens, this might not make sense. Why not automatically get an XP token at 2 bil instead of going into the negatives? Do they cost coins?
 
 </div>
 
-<div class="post" data-post-id="22575" data-author="jezer" data-date="2008-02-06T13:13:02+00:00">
+<div class="post" data-post-id="22575" data-author="jezer" data-date="2008-02-06T13:13:02+00:00" data-subject="">
 
 yeap
 
 </div>
 
-<div class="post" data-post-id="22576" data-author="madmax" data-date="2008-02-06T14:08:41+00:00">
+<div class="post" data-post-id="22576" data-author="madmax" data-date="2008-02-06T14:08:41+00:00" data-subject="">
 
 Since I don't have a charcter that can buy exp tokens, this might not make sense. Why not automatically get an XP token at 2 bil instead of going into the negatives? Do they cost coins?[/quote:31pxh65o]
 
@@ -486,7 +486,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="22578" data-author="Bazilus" data-date="2008-02-06T17:16:42+00:00">
+<div class="post" data-post-id="22578" data-author="Bazilus" data-date="2008-02-06T17:16:42+00:00" data-subject="">
 
 Comfort Madmax. Negative exp was with remarkable bug, when you die exp not lose. Nearly are year ago or so, it was fixed. Splork tell us about exp gonna be lost if save it negative....
 
@@ -496,13 +496,13 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="22579" data-author="Bazilus" data-date="2008-02-06T17:25:33+00:00">
+<div class="post" data-post-id="22579" data-author="Bazilus" data-date="2008-02-06T17:25:33+00:00" data-subject="">
 
 ...
 
 </div>
 
-<div class="post" data-post-id="22580" data-author="Autolycos" data-date="2008-02-06T20:17:48+00:00">
+<div class="post" data-post-id="22580" data-author="Autolycos" data-date="2008-02-06T20:17:48+00:00" data-subject="">
 
 Splork tell us about exp gonna be lost if save it negative....
 
@@ -514,13 +514,13 @@ sux0r
 
 </div>
 
-<div class="post" data-post-id="22581" data-author="jezer" data-date="2008-02-06T22:21:22+00:00">
+<div class="post" data-post-id="22581" data-author="jezer" data-date="2008-02-06T22:21:22+00:00" data-subject="">
 
 No coins for xp tokens! This is good news! One day I just might get a vault!
 
 </div>
 
-<div class="post" data-post-id="22583" data-author="madmax" data-date="2008-02-06T22:42:23+00:00">
+<div class="post" data-post-id="22583" data-author="madmax" data-date="2008-02-06T22:42:23+00:00" data-subject="">
 
 Splork tell us about exp gonna be lost if save it negative....
 
@@ -534,7 +534,7 @@ Check the log, I did not corpse.  This was lost MIDFIGHT.
 
 </div>
 
-<div class="post" data-post-id="22585" data-author="Rynquald" data-date="2008-02-06T22:53:29+00:00">
+<div class="post" data-post-id="22585" data-author="Rynquald" data-date="2008-02-06T22:53:29+00:00" data-subject="">
 
 No coins for xp tokens! This is good news! One day I just might get a vault![/quote:1oowwq0s]
 
@@ -542,25 +542,25 @@ Wait until you see what it costs to actually spend the tokens.
 
 </div>
 
-<div class="post" data-post-id="22626" data-author="Yasik" data-date="2008-02-09T07:45:15+00:00">
+<div class="post" data-post-id="22626" data-author="Yasik" data-date="2008-02-09T07:45:15+00:00" data-subject="">
 
 [img:2mj8knt8]http://yasik.kiev.ua/AllExpDrainProc.jpg[/img:2mj8knt8]
 
 </div>
 
-<div class="post" data-post-id="22628" data-author="Yasik" data-date="2008-02-09T08:12:20+00:00">
+<div class="post" data-post-id="22628" data-author="Yasik" data-date="2008-02-09T08:12:20+00:00" data-subject="">
 
 [img:3pdkxnsi]http://yasik.kiev.ua/AllExpDrainProc2.jpg[/img:3pdkxnsi]
 
 </div>
 
-<div class="post" data-post-id="22629" data-author="Tap" data-date="2008-02-09T16:01:46+00:00">
+<div class="post" data-post-id="22629" data-author="Tap" data-date="2008-02-09T16:01:46+00:00" data-subject="">
 
 I think I have the solution...don't get negative experience. :)
 
 </div>
 
-<div class="post" data-post-id="22630" data-author="Yasik" data-date="2008-02-09T16:16:16+00:00">
+<div class="post" data-post-id="22630" data-author="Yasik" data-date="2008-02-09T16:16:16+00:00" data-subject="">
 
 I think I have the solution...don't get negative experience. :)[/quote:11scw2to]
 
@@ -572,7 +572,7 @@ where do you see negative exp?
 
 </div>
 
-<div class="post" data-post-id="22636" data-author="madmax" data-date="2008-02-10T15:33:53+00:00">
+<div class="post" data-post-id="22636" data-author="madmax" data-date="2008-02-10T15:33:53+00:00" data-subject="Re: Mysterious Loss of XP.">
 
 <728hp 468+47ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
 
@@ -608,7 +608,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="22700" data-author="alias" data-date="2008-02-13T17:14:54+00:00">
+<div class="post" data-post-id="22700" data-author="alias" data-date="2008-02-13T17:14:54+00:00" data-subject="">
 
 hmm Im not blind looks like you had neg xp. guess you shouldn't fight energy drain mobs when ur neg xp.
 

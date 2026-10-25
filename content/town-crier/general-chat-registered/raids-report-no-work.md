@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="21495" data-author="brand" data-date="2007-11-30T16:09:03+00:00">
+<div class="post" data-post-id="21495" data-author="brand" data-date="2007-11-30T16:09:03+00:00" data-subject="raids report.. no work?">
 
 i'd did the westwood and pirate cove raids but got nothing from them?
 
@@ -20,7 +20,7 @@ brand :twisted:
 
 </div>
 
-<div class="post" data-post-id="21497" data-author="Akasha" data-date="2007-11-30T22:09:20+00:00">
+<div class="post" data-post-id="21497" data-author="Akasha" data-date="2007-11-30T22:09:20+00:00" data-subject="">
 
 thet work fine as far as i know.... ask ppl online who have done them.. maybe you missed something?
 

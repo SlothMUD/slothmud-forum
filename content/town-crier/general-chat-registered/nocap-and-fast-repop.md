@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="16635" data-author="12345" data-date="2007-02-03T04:50:59+00:00">
+<div class="post" data-post-id="16635" data-author="12345" data-date="2007-02-03T04:50:59+00:00" data-subject="Nocap and Fast Repop">
 
 Yep... this is what we were doing instead of taking advantage of the bonuses...
 

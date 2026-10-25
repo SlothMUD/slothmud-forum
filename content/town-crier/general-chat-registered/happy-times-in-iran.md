@@ -10,7 +10,7 @@ locked: false
 post_count: 29
 ---
 
-<div class="post" data-post-id="17757" data-author="Medios" data-date="2007-04-03T20:50:16+00:00">
+<div class="post" data-post-id="17757" data-author="Medios" data-date="2007-04-03T20:50:16+00:00" data-subject="Happy Times in Iran">
 
 This weekend Aaron and his wife come to visit.  On some odd topic we started to discuss Iran.  Aaron said that he would rather believe the president of Iran Ahmadinejad over our own US leaders.  I realize he said this out of total ignorance but it does not remove the fact that some people would rather be told what to do than to live free.  I doubt Aaron knows that Iran openly denies the sovereignty of Israel, openly says it will destroy Israel, and also openly denies the Haulocaust.  Not only that but if Aaron lived in Iran, his wife would not be able to work so that he could sit at home all day.  She also would have a hard time leaving the house without being sewn up with a rag on her head.  I know that Aaron is friends with Adam, who is Jewish.  Does this mean that if Ahmadinejad said to kill all jews that he would fall in line.  Doubtful.  It is very saddening to me that Americans will openly say they hate America because of our president.  
 
@@ -32,13 +32,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17759" data-author="Yasik" data-date="2007-04-03T22:47:54+00:00">
+<div class="post" data-post-id="17759" data-author="Yasik" data-date="2007-04-03T22:47:54+00:00" data-subject="">
 
 Well, ya know, here in Ukraine we have a quite boisterous political life that almost led to civil war and out all of that  i've learned one thing: discussing/arguing about politics is the fastest way to earn sworn enemies for the rest of life. So i stfu and advise everyone to keep their respective opinions unspoken. Otherwise dont say i didnt warn you :)
 
 </div>
 
-<div class="post" data-post-id="17760" data-author="Aleksey" data-date="2007-04-03T23:19:28+00:00">
+<div class="post" data-post-id="17760" data-author="Aleksey" data-date="2007-04-03T23:19:28+00:00" data-subject="">
 
 Mike, what wrong with rag(paranja) on her head?:)
 
@@ -54,7 +54,7 @@ Mike, what wrong with rag(paranja) on her head?:)
 
 </div>
 
-<div class="post" data-post-id="17761" data-author="Hades" data-date="2007-04-04T00:29:49+00:00">
+<div class="post" data-post-id="17761" data-author="Hades" data-date="2007-04-04T00:29:49+00:00" data-subject="Tapping Hineys in Iran">
 
 If anyone in US listens to talk radio then you might be aware that Russia is suggesting that the US will bomb Iran this Friday from 4pm to 4am or sometime like that.
 
@@ -62,7 +62,7 @@ Hope that doesn't interfere with Easter Egg quest Sunday(if there is one) :oops:
 
 </div>
 
-<div class="post" data-post-id="17762" data-author="Medios" data-date="2007-04-04T01:13:37+00:00">
+<div class="post" data-post-id="17762" data-author="Medios" data-date="2007-04-04T01:13:37+00:00" data-subject="">
 
 There is absolutely nothing wrong with wearing a hat.  It is when you force someone to do it that I have to disagree.  What happens to women who refuse to wear a paranja?  There are certain freedoms that a lot of people take for granted.  Fashion and fear of death are certainly different things.  I would like to see a happy medium between anarchy and totalitarianism.  
 
@@ -80,7 +80,7 @@ PS  I am not trying to make anyone mad.  If you think Ahmadinejad is right in wa
 
 </div>
 
-<div class="post" data-post-id="17763" data-author="Mosaix" data-date="2007-04-04T02:44:11+00:00">
+<div class="post" data-post-id="17763" data-author="Mosaix" data-date="2007-04-04T02:44:11+00:00" data-subject="">
 
 One thing im not going to let slide by.
 
@@ -100,13 +100,13 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="17764" data-author="Mosaix" data-date="2007-04-04T02:46:12+00:00">
+<div class="post" data-post-id="17764" data-author="Mosaix" data-date="2007-04-04T02:46:12+00:00" data-subject="">
 
 [img:1oodkl9p]http://www.infowars.com/images2/iraq/180305rumsfeld-saddam.jpg[/img:1oodkl9p]
 
 </div>
 
-<div class="post" data-post-id="17765" data-author="Mosaix" data-date="2007-04-04T02:52:29+00:00">
+<div class="post" data-post-id="17765" data-author="Mosaix" data-date="2007-04-04T02:52:29+00:00" data-subject="">
 
 [img:37ac63su]http://www.thiscenturysucks.com/images/ford_rummy_cheney3.jpg[/img:37ac63su]
 
@@ -116,25 +116,25 @@ In order from left to right thats Rumsfeld, President Gerald Ford, and a Cheney 
 
 </div>
 
-<div class="post" data-post-id="17769" data-author="13" data-date="2007-04-04T14:49:10+00:00">
+<div class="post" data-post-id="17769" data-author="13" data-date="2007-04-04T14:49:10+00:00" data-subject="">
 
 First of all don't fucking attack me on the crier Joe.  Period.  I ain't the one.  Secondly you misinterpretted or I did, one.  What I meant was Israel, and no I pretty much don't know what to believe about a lot of the time from our own leaders.  I am obviously not anti-semitic, anyone who knows me knows this.  If you have some problem with me you need to bring it to me, not the crier.
 
 </div>
 
-<div class="post" data-post-id="17770" data-author="brady" data-date="2007-04-04T15:14:07+00:00">
+<div class="post" data-post-id="17770" data-author="brady" data-date="2007-04-04T15:14:07+00:00" data-subject="">
 
 I was waiting for that  :evil:
 
 </div>
 
-<div class="post" data-post-id="17772" data-author="Popa" data-date="2007-04-04T17:01:05+00:00">
+<div class="post" data-post-id="17772" data-author="Popa" data-date="2007-04-04T17:01:05+00:00" data-subject="">
 
 According to the news this morning on Yahoo. Iran announced its gonna be a nice guy and release the British hostage trespassers, And also to show how dangerous these tresspassers were to his country. He awarded the medal of honor to 3 of his men who helped catpure the "British invaders" Yay Iran. *stare*
 
 </div>
 
-<div class="post" data-post-id="17778" data-author="Mosaix" data-date="2007-04-04T19:36:03+00:00">
+<div class="post" data-post-id="17778" data-author="Mosaix" data-date="2007-04-04T19:36:03+00:00" data-subject="">
 
 I dont know what you expect out of a country like Iran.  Really sounding off about what everyone aleady knows is kinda lame.
 
@@ -156,7 +156,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="17789" data-author="Medios" data-date="2007-04-04T21:45:08+00:00">
+<div class="post" data-post-id="17789" data-author="Medios" data-date="2007-04-04T21:45:08+00:00" data-subject="">
 
 Would anyone here consider Iran to be a "free" country?  Does Iran kill people for speaking out against the govt?  Does Iran treat its women like dirt?  Does Iran give a damn about the rest of the world?  Since I dont have a gps satellite I cannot confirm the location of the British Sailors.  Everything I have read from any news source other than Iran says they were in Iraqi waters.  What kind of pussies would be flying in a helicopter and watch their friends and fellow soldiers be taken hostage by lunatics.  Of course Iran is going to release the sailors, on the stipulation that Iranian terrorists found in Iraq are released.  Fuck Iran.
 
@@ -172,7 +172,7 @@ What about the congressman who accepted a 100k bribe and the FBI found the money
 
 </div>
 
-<div class="post" data-post-id="17793" data-author="Aleksey" data-date="2007-04-05T01:25:36+00:00">
+<div class="post" data-post-id="17793" data-author="Aleksey" data-date="2007-04-05T01:25:36+00:00" data-subject="">
 
 You making its so simple
 
@@ -200,7 +200,7 @@ If you gona marry girl from ortodocsal juish family(freedom country in american 
 
 </div>
 
-<div class="post" data-post-id="17794" data-author="alias" data-date="2007-04-05T02:28:17+00:00">
+<div class="post" data-post-id="17794" data-author="alias" data-date="2007-04-05T02:28:17+00:00" data-subject="">
 
 I try to stay out of debate like this because the always seem to end bad. I just wonder who thinks pork tastes like human? I personally think its more like a real sweet chicken and nothing like pork. I may have said too much.
 
@@ -208,7 +208,7 @@ no country is truely free and no country is truely safe.
 
 </div>
 
-<div class="post" data-post-id="17795" data-author="Medios" data-date="2007-04-05T02:38:41+00:00">
+<div class="post" data-post-id="17795" data-author="Medios" data-date="2007-04-05T02:38:41+00:00" data-subject="">
 
 So eating pork makes you a cannibal?  I really thought pork was considered bad because it is easier to get sick from.  Back in the old times without refridgerators meat will spoil very easily.  
 
@@ -216,7 +216,7 @@ I never said that any system is perfect.  Free society was formed long before Am
 
 </div>
 
-<div class="post" data-post-id="17796" data-author="Hades" data-date="2007-04-05T04:19:26+00:00">
+<div class="post" data-post-id="17796" data-author="Hades" data-date="2007-04-05T04:19:26+00:00" data-subject="Yaww">
 
 America has it's faults like many countries but we are don't plan on wiping another country off the Map (Iran vs Israel).  We don't ban camera's and have our dead lying in the street and lie to the people that it's that way everwhere on the planet(North Korea). We don't deny the existence of the Holocaust and refuse to teach it in our schools (as not to offend Muslim's0
 
@@ -228,7 +228,7 @@ the rise and bluntly no one is going to do a damn thing about it.  Which Popa on
 
 </div>
 
-<div class="post" data-post-id="17797" data-author="rail" data-date="2007-04-05T07:46:22+00:00">
+<div class="post" data-post-id="17797" data-author="rail" data-date="2007-04-05T07:46:22+00:00" data-subject="">
 
 I played sloth2, and occasionally checks this place out. I usually just keeps to myself, but this particular posting infuriated me so much, not only because it is a brainless regurtitation of the western propaganda but also because i find the author such a hypocrite.
 
@@ -248,7 +248,7 @@ Feeling proud aren't we? Did they tell you the ppl whose right you supposed stoo
 
 </div>
 
-<div class="post" data-post-id="17798" data-author="Hades" data-date="2007-04-05T10:20:43+00:00">
+<div class="post" data-post-id="17798" data-author="Hades" data-date="2007-04-05T10:20:43+00:00" data-subject="Please allow me to retort">
 
 Yet, some asswipe wants to nuke his neighbor.  Terrorize his neighbors. And the people who may or may not want us there to help can't say a damn thing for fear of being killed along with their family.  If you leave a madman alone with a gun, eventually he's gonna set his sights on you..it's best to put down a rabid dog whilst you can. No I haven't ever been to Iran. Why would I want to? I'm white,American and Christian.  It's sort of like Mexico except of not drinking the water, I've heard you don't want to breathe it's air.
 
@@ -256,7 +256,7 @@ peace
 
 </div>
 
-<div class="post" data-post-id="17799" data-author="Mike" data-date="2007-04-05T11:14:30+00:00">
+<div class="post" data-post-id="17799" data-author="Mike" data-date="2007-04-05T11:14:30+00:00" data-subject="">
 
 I cant say i know everything about US and Iran but for me its so obvisious that all the stuff we discussing coming from mass media and govt propaganda. I can see the same situation like it was in Iraq: we hear Iraq have mass destruction weapon, dont let em use it against us or our friends, send military forces there and bring peace and democracy there. Is there any democracy in Iraq now? I think ppl in Iraq live much worse now than it was before.
 
@@ -264,13 +264,13 @@ All the stuff comes from oil, gas and authority needs in that region. Plz correc
 
 </div>
 
-<div class="post" data-post-id="17800" data-author="13" data-date="2007-04-05T11:51:45+00:00">
+<div class="post" data-post-id="17800" data-author="13" data-date="2007-04-05T11:51:45+00:00" data-subject="">
 
 Rail was who on Sloth2?
 
 </div>
 
-<div class="post" data-post-id="17807" data-author="Aleksey" data-date="2007-04-05T16:37:44+00:00">
+<div class="post" data-post-id="17807" data-author="Aleksey" data-date="2007-04-05T16:37:44+00:00" data-subject="">
 
 To Hades:
 
@@ -302,19 +302,19 @@ To Mike:  Is too many ways preserve food without fridge
 
 </div>
 
-<div class="post" data-post-id="17813" data-author="13" data-date="2007-04-05T18:02:08+00:00">
+<div class="post" data-post-id="17813" data-author="13" data-date="2007-04-05T18:02:08+00:00" data-subject="">
 
 Aleksey is and has always been one of my favorite people from the land of Sloth.  His English may be poor but he's smart as a tack and always comes correct.
 
 </div>
 
-<div class="post" data-post-id="17814" data-author="brady" data-date="2007-04-05T18:24:53+00:00">
+<div class="post" data-post-id="17814" data-author="brady" data-date="2007-04-05T18:24:53+00:00" data-subject="">
 
 There are much more appropriate forums for these debates.  Jesus, lighten the flock up.
 
 </div>
 
-<div class="post" data-post-id="17815" data-author="brady" data-date="2007-04-05T20:02:17+00:00">
+<div class="post" data-post-id="17815" data-author="brady" data-date="2007-04-05T20:02:17+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.reuters.com/article/oddlyEno ... 6720070405">http://www.reuters.com/article/oddlyEnoughNews/idUST26606720070405</LINK_TEXT>](http://www.reuters.com/article/oddlyEnoughNews/idUST26606720070405)
 
@@ -322,7 +322,7 @@ Porn swap sparks defense leak furore.  Medios demands his Aegis be returned.
 
 </div>
 
-<div class="post" data-post-id="17820" data-author="Medios" data-date="2007-04-05T21:40:27+00:00">
+<div class="post" data-post-id="17820" data-author="Medios" data-date="2007-04-05T21:40:27+00:00" data-subject="">
 
 Hogs are filthy animals.  They lay in shit all day and root around in it.  I am having a hard time thinking of too many animals that act this way.  
 
@@ -360,7 +360,7 @@ Does anyone remember a post that I wrote called Politicians can rot in hell.  Im
 
 </div>
 
-<div class="post" data-post-id="17824" data-author="Popa" data-date="2007-04-06T00:52:33+00:00">
+<div class="post" data-post-id="17824" data-author="Popa" data-date="2007-04-06T00:52:33+00:00" data-subject="">
 
 oh my God???  You kill Medios!!!!!!!!!!!!...................
 
@@ -372,7 +372,7 @@ Lets all just go kill silly mobs on sloth and forget about the "real" world sinc
 
 </div>
 
-<div class="post" data-post-id="17832" data-author="Avatar" data-date="2007-04-06T07:17:53+00:00">
+<div class="post" data-post-id="17832" data-author="Avatar" data-date="2007-04-06T07:17:53+00:00" data-subject="Pork products">
 
 Just to clarify, I have a friend who is a devout and educated Muslim.  He explained his opinion that the restriction from pork was based on ancient observations about eating pork.  They noticed that people became sick after eating pork, and based the restriction on this perception.  The explanation is that historically they didn't realize that pork had to be cooked at a high temperature to kill off the larvae of the trichina worm.
 
@@ -386,7 +386,7 @@ We still station US troops in South Korea.  I don't personally agree with having
 
 </div>
 
-<div class="post" data-post-id="17836" data-author="Popa" data-date="2007-04-06T15:29:05+00:00">
+<div class="post" data-post-id="17836" data-author="Popa" data-date="2007-04-06T15:29:05+00:00" data-subject="">
 
 Pork back in the day was considered unclean due to the nature they wallowed around in their crap and ate just about anything. So like Avatar stated the people  didnt know about cooking it or the wurms or bactierial organsisms that inhabit pigs
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="21390" data-author="Medios" data-date="2007-11-23T15:41:26+00:00">
+<div class="post" data-post-id="21390" data-author="Medios" data-date="2007-11-23T15:41:26+00:00" data-subject="You know he aint gonna die">
 
 Aint found a way to kill me yet
 
@@ -54,7 +54,7 @@ No, no, no ya know he aint gonna die
 
 </div>
 
-<div class="post" data-post-id="21394" data-author="Tap" data-date="2007-11-23T23:24:31+00:00">
+<div class="post" data-post-id="21394" data-author="Tap" data-date="2007-11-23T23:24:31+00:00" data-subject="">
 
 Him and me
 
@@ -164,7 +164,7 @@ No!
 
 </div>
 
-<div class="post" data-post-id="21395" data-author="Thraxas" data-date="2007-11-24T00:01:47+00:00">
+<div class="post" data-post-id="21395" data-author="Thraxas" data-date="2007-11-24T00:01:47+00:00" data-subject="">
 
 Medios and Tap
 
@@ -174,7 +174,7 @@ K I S S I N G
 
 </div>
 
-<div class="post" data-post-id="21401" data-author="13" data-date="2007-11-24T16:00:24+00:00">
+<div class="post" data-post-id="21401" data-author="13" data-date="2007-11-24T16:00:24+00:00" data-subject="stoners junkies and freaks">
 
 Yeah
 
@@ -256,7 +256,7 @@ if I can find it ill take a picture of it
 
 </div>
 
-<div class="post" data-post-id="21402" data-author="Weasel" data-date="2007-11-24T17:05:43+00:00">
+<div class="post" data-post-id="21402" data-author="Weasel" data-date="2007-11-24T17:05:43+00:00" data-subject="Re: stoners junkies and freaks">
 
 I made a really cool picture thing with the lyrics to this song in high school if I can find it ill take a picture of it[/quote:1nazoat7]
 
@@ -264,13 +264,13 @@ don't go out of your way to find it or anything...
 
 </div>
 
-<div class="post" data-post-id="21403" data-author="brady" data-date="2007-11-24T19:40:13+00:00">
+<div class="post" data-post-id="21403" data-author="brady" data-date="2007-11-24T19:40:13+00:00" data-subject="Re: stoners junkies and freaks">
 
 rofl  :D
 
 </div>
 
-<div class="post" data-post-id="21404" data-author="Autolycos" data-date="2007-11-24T23:04:14+00:00">
+<div class="post" data-post-id="21404" data-author="Autolycos" data-date="2007-11-24T23:04:14+00:00" data-subject="">
 
 you hear that Marc... 
 
@@ -278,13 +278,13 @@ Weasel made a funny ;)
 
 </div>
 
-<div class="post" data-post-id="21407" data-author="13" data-date="2007-11-25T06:28:22+00:00">
+<div class="post" data-post-id="21407" data-author="13" data-date="2007-11-25T06:28:22+00:00" data-subject="">
 
 all -> go fuck self
 
 </div>
 
-<div class="post" data-post-id="21414" data-author="Autolycos" data-date="2007-11-25T22:06:57+00:00">
+<div class="post" data-post-id="21414" data-author="Autolycos" data-date="2007-11-25T22:06:57+00:00" data-subject="">
 
 oh stfu Aaron.. this is a happy day...
 
@@ -292,13 +292,13 @@ Weasel made 1 funny comment out of thousands of attempts  :twisted:
 
 </div>
 
-<div class="post" data-post-id="21415" data-author="Weasel" data-date="2007-11-25T23:03:11+00:00">
+<div class="post" data-post-id="21415" data-author="Weasel" data-date="2007-11-25T23:03:11+00:00" data-subject="">
 
 bwah!  :D
 
 </div>
 
-<div class="post" data-post-id="21419" data-author="firebrand" data-date="2007-11-26T14:53:09+00:00">
+<div class="post" data-post-id="21419" data-author="firebrand" data-date="2007-11-26T14:53:09+00:00" data-subject="">
 
 I remember when
 
@@ -390,13 +390,13 @@ I'm brushing out the foul taste you left in my mouth
 
 </div>
 
-<div class="post" data-post-id="21421" data-author="Yinao" data-date="2007-11-26T15:32:48+00:00">
+<div class="post" data-post-id="21421" data-author="Yinao" data-date="2007-11-26T15:32:48+00:00" data-subject="">
 
 :x not much more needs to be said
 
 </div>
 
-<div class="post" data-post-id="21422" data-author="Thraxas" data-date="2007-11-26T17:54:30+00:00">
+<div class="post" data-post-id="21422" data-author="Thraxas" data-date="2007-11-26T17:54:30+00:00" data-subject="">
 
 :x not much more needs to be said[/quote:1e5ppff9]
 
@@ -404,13 +404,13 @@ I'm brushing out the foul taste you left in my mouth
 
 </div>
 
-<div class="post" data-post-id="21424" data-author="Weasel" data-date="2007-11-26T19:59:15+00:00">
+<div class="post" data-post-id="21424" data-author="Weasel" data-date="2007-11-26T19:59:15+00:00" data-subject="">
 
 One vote for deleting entire thread and pretending it never happened.. do I hear a second?
 
 </div>
 
-<div class="post" data-post-id="21427" data-author="Autolycos" data-date="2007-11-26T20:28:25+00:00">
+<div class="post" data-post-id="21427" data-author="Autolycos" data-date="2007-11-26T20:28:25+00:00" data-subject="">
 
 One vote for deleting entire thread and pretending it never happened.. do I hear a second?[/quote:3m9vb8j1]
 
@@ -420,7 +420,7 @@ who needs him anyway!
 
 </div>
 
-<div class="post" data-post-id="21438" data-author="Avatar" data-date="2007-11-27T17:48:42+00:00">
+<div class="post" data-post-id="21438" data-author="Avatar" data-date="2007-11-27T17:48:42+00:00" data-subject="music">
 
 We had a discussion one night, if you could pick 1 CD to listen to before you die, what would you choose.
 
@@ -428,13 +428,13 @@ Alice in Chains - 'Jar of Flies' for me.
 
 </div>
 
-<div class="post" data-post-id="21440" data-author="Alberich" data-date="2007-11-27T18:00:53+00:00">
+<div class="post" data-post-id="21440" data-author="Alberich" data-date="2007-11-27T18:00:53+00:00" data-subject="">
 
 tough call.... probably Workingman's Dead for me... maybe American Beauty...
 
 </div>
 
-<div class="post" data-post-id="21442" data-author="Vixn" data-date="2007-11-27T21:01:19+00:00">
+<div class="post" data-post-id="21442" data-author="Vixn" data-date="2007-11-27T21:01:19+00:00" data-subject="Re: music">
 
 We had a discussion one night, if you could pick 1 CD to listen to before you die, what would you choose.
 
@@ -446,31 +446,31 @@ Alice in Chains - 'Jar of Flies' for me.[/quote:v0e5k1ex]
 
 </div>
 
-<div class="post" data-post-id="21443" data-author="tincts" data-date="2007-11-27T21:03:52+00:00">
+<div class="post" data-post-id="21443" data-author="tincts" data-date="2007-11-27T21:03:52+00:00" data-subject="">
 
 "Final Cut" by Pink Floyd
 
 </div>
 
-<div class="post" data-post-id="21445" data-author="brady" data-date="2007-11-27T22:12:15+00:00">
+<div class="post" data-post-id="21445" data-author="brady" data-date="2007-11-27T22:12:15+00:00" data-subject="">
 
 "Fully Completely" -Tragically Hip
 
 </div>
 
-<div class="post" data-post-id="21448" data-author="Weasel" data-date="2007-11-28T02:47:14+00:00">
+<div class="post" data-post-id="21448" data-author="Weasel" data-date="2007-11-28T02:47:14+00:00" data-subject="">
 
 one song I'd consider 'closing time' - semisonic.. but there are many many others too.. that's just spur of the moment.
 
 </div>
 
-<div class="post" data-post-id="21451" data-author="13" data-date="2007-11-28T04:27:13+00:00">
+<div class="post" data-post-id="21451" data-author="13" data-date="2007-11-28T04:27:13+00:00" data-subject="">
 
 steam powered aereo plane by john hartford
 
 </div>
 
-<div class="post" data-post-id="21455" data-author="Alberich" data-date="2007-11-28T13:01:55+00:00">
+<div class="post" data-post-id="21455" data-author="Alberich" data-date="2007-11-28T13:01:55+00:00" data-subject="">
 
 steam powered aereo plane by john hartford[/quote:yp960xnm]
 

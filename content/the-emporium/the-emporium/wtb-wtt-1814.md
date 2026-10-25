@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11893" data-author="Elsie" data-date="2006-03-30T15:34:53+00:00">
+<div class="post" data-post-id="11893" data-author="Elsie" data-date="2006-03-30T15:34:53+00:00" data-subject="wtb / wtt">
 
 I would like to buy or trade for:
 

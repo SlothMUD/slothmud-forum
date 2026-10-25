@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="33147" data-author="Stark" data-date="2012-02-08T15:38:18+00:00">
+<div class="post" data-post-id="33147" data-author="Stark" data-date="2012-02-08T15:38:18+00:00" data-subject="eqlist download?">
 
 I'm pretty sure that there used to be a downloadable version of the eqlist, but that it was taken down due to excessive bandwidth abuse.  (if I'm remembering correctly)
 
@@ -20,7 +20,7 @@ Thanks!  :)
 
 </div>
 
-<div class="post" data-post-id="33148" data-author="Stark" data-date="2012-02-08T18:32:35+00:00">
+<div class="post" data-post-id="33148" data-author="Stark" data-date="2012-02-08T18:32:35+00:00" data-subject="Re: eqlist download?">
 
 Found where Breeze commented on the topic from a year old thread:
 
@@ -33,7 +33,7 @@ Soo... Breeze, any chance we could still get this in a way that can't be abused 
 
 </div>
 
-<div class="post" data-post-id="33149" data-author="Spink" data-date="2012-02-08T23:18:07+00:00">
+<div class="post" data-post-id="33149" data-author="Spink" data-date="2012-02-08T23:18:07+00:00" data-subject="Re: eqlist download?">
 
 I would also be interested in working with a local copy of eqlist.
 
@@ -41,7 +41,7 @@ I'm currently using a version I cobbled together from the old eqlist interface, 
 
 </div>
 
-<div class="post" data-post-id="33189" data-author="celerra7" data-date="2012-03-08T10:58:44+00:00">
+<div class="post" data-post-id="33189" data-author="celerra7" data-date="2012-03-08T10:58:44+00:00" data-subject="Re: eqlist download?">
 
 I've been working on this idea for a while now.  I've taken blank queries of each category and saved them as HTML.  There seems to be a limitation to either the web or db that won't display all items when doing the blank query to the category ALL.
 
@@ -53,7 +53,7 @@ Thanks in advance for any input.  Love the game and keep the freshness going.
 
 </div>
 
-<div class="post" data-post-id="33190" data-author="*Breeze*" data-date="2012-03-09T09:07:34+00:00">
+<div class="post" data-post-id="33190" data-author="*Breeze*" data-date="2012-03-09T09:07:34+00:00" data-subject="Re: eqlist download?">
 
 i would be willing to temporarily remove the limit (yes there is a hard limit. i forget what i set it to)
 
@@ -90,13 +90,13 @@ Breeze
 
 </div>
 
-<div class="post" data-post-id="33191" data-author="blackmore" data-date="2012-03-09T15:39:45+00:00">
+<div class="post" data-post-id="33191" data-author="blackmore" data-date="2012-03-09T15:39:45+00:00" data-subject="Re: eqlist download?">
 
 It sure as hell wasn't me, I would love an api. :)
 
 </div>
 
-<div class="post" data-post-id="33848" data-author="raincrab" data-date="2012-12-17T01:47:07+00:00">
+<div class="post" data-post-id="33848" data-author="raincrab" data-date="2012-12-17T01:47:07+00:00" data-subject="Re: eqlist download?">
 
 me too
 
@@ -104,7 +104,7 @@ bump
 
 </div>
 
-<div class="post" data-post-id="33948" data-author="celerra7" data-date="2013-01-28T19:50:14+00:00">
+<div class="post" data-post-id="33948" data-author="celerra7" data-date="2013-01-28T19:50:14+00:00" data-subject="Re: eqlist download?">
 
 I've come back around to looking at this, and I'm running into the limit inside specific categories now.  Sloth provides so many cool items, the XML DB output limit is reached.  
 
@@ -118,7 +118,7 @@ Bump.
 
 </div>
 
-<div class="post" data-post-id="34517" data-author="celerra7" data-date="2013-10-26T16:59:37+00:00">
+<div class="post" data-post-id="34517" data-author="celerra7" data-date="2013-10-26T16:59:37+00:00" data-subject="Re: eqlist download?">
 
 Bumping this.
 
@@ -128,7 +128,7 @@ Thanks for any consideration / help with this.
 
 </div>
 
-<div class="post" data-post-id="34637" data-author="*Breeze*" data-date="2013-12-16T06:56:53+00:00">
+<div class="post" data-post-id="34637" data-author="*Breeze*" data-date="2013-12-16T06:56:53+00:00" data-subject="Re: eqlist download?">
 
 xml is not gonna happen.
 
@@ -140,19 +140,19 @@ from json you can convert to xml and upload to your own webserver or something.
 
 </div>
 
-<div class="post" data-post-id="34638" data-author="*Breeze*" data-date="2013-12-16T10:40:12+00:00">
+<div class="post" data-post-id="34638" data-author="*Breeze*" data-date="2013-12-16T10:40:12+00:00" data-subject="Re: eqlist download?">
 
 json is done. Just need to link it later.
 
 </div>
 
-<div class="post" data-post-id="34639" data-author="celerra7" data-date="2013-12-16T15:50:22+00:00">
+<div class="post" data-post-id="34639" data-author="celerra7" data-date="2013-12-16T15:50:22+00:00" data-subject="Re: eqlist download?">
 
 Weekly updated export would be awesome.  In no way want to put burden on you or tax the systems we have.  Really appreciate you responding to the bump and finding a solution.  Thanks for all your efforts.
 
 </div>
 
-<div class="post" data-post-id="34640" data-author="*Breeze*" data-date="2013-12-16T15:56:43+00:00">
+<div class="post" data-post-id="34640" data-author="*Breeze*" data-date="2013-12-16T15:56:43+00:00" data-subject="Re: eqlist download?">
 
 celerra, feel free to email me and i can send you a copy of the weekly file to get started with til i figure out how to link it to the website. feel free to email me.   all immortals have @slothmud.org emails.
 

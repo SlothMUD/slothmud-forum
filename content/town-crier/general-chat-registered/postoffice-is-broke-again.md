@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33122" data-author="Shyla" data-date="2012-01-01T08:15:27+00:00">
+<div class="post" data-post-id="33122" data-author="Shyla" data-date="2012-01-01T08:15:27+00:00" data-subject="Postoffice is broke again">
 
 Just a warning do NOT ship anything via postoffice because it is broke... Would have been nice if someone warned me but supposedly it happens every new year
 
@@ -20,7 +20,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="33123" data-author="*Isabo*" data-date="2012-01-01T14:44:53+00:00">
+<div class="post" data-post-id="33123" data-author="*Isabo*" data-date="2012-01-01T14:44:53+00:00" data-subject="Re: Postoffice is broke again">
 
 Greetings, mortals.
 

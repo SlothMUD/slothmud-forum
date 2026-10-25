@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="40113" data-author="Woody" data-date="2024-10-23T08:14:30+00:00">
+<div class="post" data-post-id="40113" data-author="Woody" data-date="2024-10-23T08:14:30+00:00" data-subject="most_evil_thief">
 
 I'm ticking off incomplete AQ and the website lists Melvire of Xanthippe offering an assorted_poisons AQ.
 
@@ -46,13 +46,13 @@ Some clue as to where to go next would be appreciated!
 
 </div>
 
-<div class="post" data-post-id="40114" data-author="Woody" data-date="2024-10-24T17:17:06+00:00">
+<div class="post" data-post-id="40114" data-author="Woody" data-date="2024-10-24T17:17:06+00:00" data-subject="Re: most_evil_thief">
 
 A thief vampire tells you 'Sorry, I don't know anything about that.'
 
 </div>
 
-<div class="post" data-post-id="40115" data-author="Woody" data-date="2024-10-24T17:22:42+00:00">
+<div class="post" data-post-id="40115" data-author="Woody" data-date="2024-10-24T17:22:42+00:00" data-subject="Re: most_evil_thief">
 
 An enslaved dwarven thief tells you 'Sorry, I don't know anything about that.'
 

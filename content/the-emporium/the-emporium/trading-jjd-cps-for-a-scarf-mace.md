@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2314" data-author="Teron" data-date="2004-10-14T13:20:20+00:00">
+<div class="post" data-post-id="2314" data-author="Teron" data-date="2004-10-14T13:20:20+00:00" data-subject="trading jjd cps for a scarf &amp; mace">
 
 I want to trade the cps below for a scarf and a mace.
 

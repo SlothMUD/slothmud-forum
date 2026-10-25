@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38934" data-author="Josiah" data-date="2018-06-24T02:20:21+00:00">
+<div class="post" data-post-id="38934" data-author="Josiah" data-date="2018-06-24T02:20:21+00:00" data-subject="Epic mob stats and specials">
 
 Spent the last month collecting data (and dying a lot.)  Enjoy!
 
@@ -364,7 +364,7 @@ Total exp for kill is 183,222,920.
 
 </div>
 
-<div class="post" data-post-id="38935" data-author="Teron" data-date="2018-06-24T07:09:25+00:00">
+<div class="post" data-post-id="38935" data-author="Teron" data-date="2018-06-24T07:09:25+00:00" data-subject="Re: Epic mob stats and specials">
 
 Dunno, why you had to kill them. All you had to do is ask.
 
@@ -412,7 +412,7 @@ Some mob rooms aren't, some mobs have procs that engage the angel.
 
 </div>
 
-<div class="post" data-post-id="38936" data-author="Josiah" data-date="2018-06-26T00:12:30+00:00">
+<div class="post" data-post-id="38936" data-author="Josiah" data-date="2018-06-26T00:12:30+00:00" data-subject="Re: Epic mob stats and specials">
 
 Nice catch on Telebrion's strength limitation!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13289" data-author="kjartan" data-date="2006-07-05T13:49:25+00:00">
+<div class="post" data-post-id="13289" data-author="kjartan" data-date="2006-07-05T13:49:25+00:00" data-subject="Thief changes">
 
 As of next reboot:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="2034" data-author="Tetsulunathaya" data-date="2004-09-23T21:15:02+00:00">
+<div class="post" data-post-id="2034" data-author="Tetsulunathaya" data-date="2004-09-23T21:15:02+00:00" data-subject="Newbie questions on Bard stuff">
 
 Hello everyone!
 
@@ -30,7 +30,7 @@ Laters.
 
 </div>
 
-<div class="post" data-post-id="2036" data-author="blackmore" data-date="2004-09-24T01:58:40+00:00">
+<div class="post" data-post-id="2036" data-author="blackmore" data-date="2004-09-24T01:58:40+00:00" data-subject="Re: Newbie questions on Bard stuff">
 
 > **Quote:**
 > 1) So far from my experience, I can't see ANY usefulness in Bard songs.  The lower level ones i've had a chance to use dont seem to work (or are completely trumped by other classes abilities), and while some of the higher ones seem cool, are they worth not taking another class over bard?
@@ -54,7 +54,7 @@ The items with a * were verified to be correct at some point - but I've heard th
 
 </div>
 
-<div class="post" data-post-id="2037" data-author="Ender" data-date="2004-09-24T02:06:13+00:00">
+<div class="post" data-post-id="2037" data-author="Ender" data-date="2004-09-24T02:06:13+00:00" data-subject="Re: Newbie questions on Bard stuff">
 
 1) So far from my experience, I can't see ANY usefulness in Bard songs.  The lower level ones i've had a chance to use dont seem to work (or are completely trumped by other classes abilities), and while some of the higher ones seem cool, are they worth not taking another class over bard?[/quote:151eor1o]
 
@@ -76,7 +76,7 @@ Can tell you that many serious bards have rocketed up the who list, while those 
 
 </div>
 
-<div class="post" data-post-id="2040" data-author="Avatar" data-date="2004-09-24T11:20:51+00:00">
+<div class="post" data-post-id="2040" data-author="Avatar" data-date="2004-09-24T11:20:51+00:00" data-subject="Bards">
 
 "Can tell you that many serious bards have rocketed up the who list, while those that have it as a forth class have trouble with it in groups since they have fairly weak songs and can't affect as many people. Instruments can also help some in this regard though."
 
@@ -86,13 +86,13 @@ Anyway, I think Bard is very useful because it has a nice mix and match of spell
 
 </div>
 
-<div class="post" data-post-id="2041" data-author="blackmore" data-date="2004-09-24T13:23:14+00:00">
+<div class="post" data-post-id="2041" data-author="blackmore" data-date="2004-09-24T13:23:14+00:00" data-subject="">
 
 Bards are not solo characters, so it has everything to do with the groups they've (we've) joined.  Also, I don't think you can count Taliesin's progress as "rocketing", unless if it's in reference to a Nerf rocket, or maybe a bottle rocket shot through a vat of jello.
 
 </div>
 
-<div class="post" data-post-id="2042" data-author="Ender" data-date="2004-09-24T15:44:29+00:00">
+<div class="post" data-post-id="2042" data-author="Ender" data-date="2004-09-24T15:44:29+00:00" data-subject="">
 
 I guess I can clarify that...  
 
@@ -110,7 +110,7 @@ As far as rocketing up... of course not everyone does.  However, since a bard's 
 
 </div>
 
-<div class="post" data-post-id="2045" data-author="Tetsulunathaya" data-date="2004-09-25T07:07:46+00:00">
+<div class="post" data-post-id="2045" data-author="Tetsulunathaya" data-date="2004-09-25T07:07:46+00:00" data-subject="">
 
 Thanks so much for the advice and insight.
 

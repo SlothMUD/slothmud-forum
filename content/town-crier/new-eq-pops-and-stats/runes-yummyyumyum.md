@@ -10,7 +10,7 @@ locked: false
 post_count: 39
 ---
 
-<div class="post" data-post-id="30668" data-author="Hitman" data-date="2010-01-13T20:32:11+00:00">
+<div class="post" data-post-id="30668" data-author="Hitman" data-date="2010-01-13T20:32:11+00:00" data-subject="RUNES! yummyyumyum :)">
 
 Hello everyone! :) hope yer all having fun collecting gems and making runes...
 
@@ -44,7 +44,7 @@ Clasp gives the user +1 HAND_DAMAGE
 
 </div>
 
-<div class="post" data-post-id="30671" data-author="Jag" data-date="2010-01-13T21:41:12+00:00">
+<div class="post" data-post-id="30671" data-author="Jag" data-date="2010-01-13T21:41:12+00:00" data-subject="">
 
 This is from my previous post, to put all rune info in one thread.
 
@@ -74,19 +74,19 @@ Clasp gives the user +5 MANA
 
 </div>
 
-<div class="post" data-post-id="30677" data-author="Tuck" data-date="2010-01-14T10:10:35+00:00">
+<div class="post" data-post-id="30677" data-author="Tuck" data-date="2010-01-14T10:10:35+00:00" data-subject="">
 
 now beg Cizin so he post ident for 25 runes, that he have.
 
 </div>
 
-<div class="post" data-post-id="30700" data-author="harik" data-date="2010-01-19T07:51:52+00:00">
+<div class="post" data-post-id="30700" data-author="harik" data-date="2010-01-19T07:51:52+00:00" data-subject="">
 
 I take it that means runes are implemented as clasps, and use up the clasp slot on an item?
 
 </div>
 
-<div class="post" data-post-id="30701" data-author="*Splork*" data-date="2010-01-19T12:56:27+00:00">
+<div class="post" data-post-id="30701" data-author="*Splork*" data-date="2010-01-19T12:56:27+00:00" data-subject="">
 
 Runes to not replace the clasp position.
 
@@ -96,7 +96,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30704" data-author="Toxis" data-date="2010-01-19T23:14:14+00:00">
+<div class="post" data-post-id="30704" data-author="Toxis" data-date="2010-01-19T23:14:14+00:00" data-subject="">
 
 obsidian - max_con - high or low
 
@@ -116,7 +116,7 @@ Toxis
 
 </div>
 
-<div class="post" data-post-id="30705" data-author="*Splork*" data-date="2010-01-20T00:26:18+00:00">
+<div class="post" data-post-id="30705" data-author="*Splork*" data-date="2010-01-20T00:26:18+00:00" data-subject="">
 
 To be quite honest, if each player ends up with 1 rune Ill be happy. This isnt meant for each player to have an entire set of runes.
 
@@ -130,7 +130,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30714" data-author="Tuck" data-date="2010-01-20T15:52:46+00:00">
+<div class="post" data-post-id="30714" data-author="Tuck" data-date="2010-01-20T15:52:46+00:00" data-subject="">
 
 To be quite honest, if each player ends up with 1 rune Ill be happy. This isnt meant for each player to have an entire set of runes.
 
@@ -140,7 +140,7 @@ nah, all your runes are belongs to 3-4 players.
 
 </div>
 
-<div class="post" data-post-id="30715" data-author="Gimlet" data-date="2010-01-20T16:12:47+00:00">
+<div class="post" data-post-id="30715" data-author="Gimlet" data-date="2010-01-20T16:12:47+00:00" data-subject="">
 
 seriously tuk, will you just STFU already?
 
@@ -152,7 +152,7 @@ you don't get gems by sponging and botting in groups all day long
 
 </div>
 
-<div class="post" data-post-id="30716" data-author="Cizin" data-date="2010-01-20T18:04:06+00:00">
+<div class="post" data-post-id="30716" data-author="Cizin" data-date="2010-01-20T18:04:06+00:00" data-subject="">
 
 Hey Splork,
 
@@ -164,7 +164,7 @@ Thanks in advance
 
 </div>
 
-<div class="post" data-post-id="30719" data-author="jezer" data-date="2010-01-20T19:17:39+00:00">
+<div class="post" data-post-id="30719" data-author="jezer" data-date="2010-01-20T19:17:39+00:00" data-subject="">
 
 Hey Splork,
 
@@ -178,7 +178,7 @@ This might be bad, people might start sharing and selling gems they realise they
 
 </div>
 
-<div class="post" data-post-id="30720" data-author="Tuck" data-date="2010-01-20T19:53:29+00:00">
+<div class="post" data-post-id="30720" data-author="Tuck" data-date="2010-01-20T19:53:29+00:00" data-subject="">
 
 seriously tuk, will you just STFU already?
 
@@ -194,7 +194,7 @@ all runes are belongs to several to top5 players, that lead current xps/eq group
 
 </div>
 
-<div class="post" data-post-id="30721" data-author="Tuck" data-date="2010-01-20T19:55:30+00:00">
+<div class="post" data-post-id="30721" data-author="Tuck" data-date="2010-01-20T19:55:30+00:00" data-subject="">
 
 This might be bad, people might start sharing and selling gems they realise they don't need... ohh the humanity  :evil:[/quote:pt6lpuhb]
 
@@ -204,7 +204,7 @@ share runes names and stats, so runes will spread around players
 
 </div>
 
-<div class="post" data-post-id="30723" data-author="Gimlet" data-date="2010-01-21T00:54:56+00:00">
+<div class="post" data-post-id="30723" data-author="Gimlet" data-date="2010-01-21T00:54:56+00:00" data-subject="">
 
 put your money where your mouth is tuk
 
@@ -220,7 +220,7 @@ seriously, you're making yourself out to be a bigger moron on a daily basis with
 
 </div>
 
-<div class="post" data-post-id="30729" data-author="Tuck" data-date="2010-01-21T10:01:58+00:00">
+<div class="post" data-post-id="30729" data-author="Tuck" data-date="2010-01-21T10:01:58+00:00" data-subject="">
 
 put your money where your mouth is tuk
 
@@ -238,7 +238,7 @@ stop crying and stfu ;-)
 
 </div>
 
-<div class="post" data-post-id="30731" data-author="Gimlet" data-date="2010-01-21T16:48:12+00:00">
+<div class="post" data-post-id="30731" data-author="Gimlet" data-date="2010-01-21T16:48:12+00:00" data-subject="">
 
 why am i not surprised
 
@@ -246,13 +246,13 @@ classic response from a tool and a buffoon
 
 </div>
 
-<div class="post" data-post-id="30732" data-author="Tuck" data-date="2010-01-21T18:19:31+00:00">
+<div class="post" data-post-id="30732" data-author="Tuck" data-date="2010-01-21T18:19:31+00:00" data-subject="">
 
 go ask you gf of tool and buffoon, cretino.
 
 </div>
 
-<div class="post" data-post-id="30733" data-author="Kanae" data-date="2010-01-21T22:34:54+00:00">
+<div class="post" data-post-id="30733" data-author="Kanae" data-date="2010-01-21T22:34:54+00:00" data-subject="">
 
 okay.. before i post stats on a rune i created ..i wonder if i should..
 
@@ -290,13 +290,13 @@ I got lucky and made one a bard could use. Now if anyone has ideas on gauntlets 
 
 </div>
 
-<div class="post" data-post-id="30734" data-author="jezer" data-date="2010-01-22T00:40:49+00:00">
+<div class="post" data-post-id="30734" data-author="jezer" data-date="2010-01-22T00:40:49+00:00" data-subject="">
 
 Did you know Moss_Agate was charisma before hand... or do you always have good luck guessing the right number out of 1 to 30ish?  :shock:
 
 </div>
 
-<div class="post" data-post-id="30737" data-author="Kanae" data-date="2010-01-23T04:11:35+00:00">
+<div class="post" data-post-id="30737" data-author="Kanae" data-date="2010-01-23T04:11:35+00:00" data-subject="">
 
 I had no idea what it was going to turn out to be. Had it been something I couldn't use.. well guess I'ld be collecting more runes. :P
 
@@ -304,7 +304,7 @@ I had no idea what it was going to turn out to be. Had it been something I could
 
 </div>
 
-<div class="post" data-post-id="30740" data-author="Scarlet" data-date="2010-01-24T21:33:37+00:00">
+<div class="post" data-post-id="30740" data-author="Scarlet" data-date="2010-01-24T21:33:37+00:00" data-subject="Chrysoprase rune">
 
 Object 'Chrysoprase rune', Item type: CLASP
 
@@ -330,7 +330,7 @@ Only cost me 4m!  anyone want to trade? 8)
 
 </div>
 
-<div class="post" data-post-id="30801" data-author="Toxis" data-date="2010-02-02T13:38:35+00:00">
+<div class="post" data-post-id="30801" data-author="Toxis" data-date="2010-02-02T13:38:35+00:00" data-subject="Rune Stats">
 
 Object 'Carnelian rune', Item type: CLASP
 
@@ -358,7 +358,7 @@ Clasp gives the user +2 REGEN_HP
 
 </div>
 
-<div class="post" data-post-id="30803" data-author="jezer" data-date="2010-02-02T19:38:36+00:00">
+<div class="post" data-post-id="30803" data-author="jezer" data-date="2010-02-02T19:38:36+00:00" data-subject="">
 
 Apparently the runes listed in help runes are not grouped. A simple analysis of the possibilities versus the stat of those identified shows early signs that they indeed are.
 
@@ -408,7 +408,7 @@ All will be revealed :)
 
 </div>
 
-<div class="post" data-post-id="30804" data-author="jezer" data-date="2010-02-02T22:58:10+00:00">
+<div class="post" data-post-id="30804" data-author="jezer" data-date="2010-02-02T22:58:10+00:00" data-subject="">
 
 There has been a little discussion about my post over gossip, including some new bizarre and whacky ideas.
 
@@ -522,7 +522,7 @@ Sneak?
 
 </div>
 
-<div class="post" data-post-id="30805" data-author="Medios" data-date="2010-02-02T23:20:52+00:00">
+<div class="post" data-post-id="30805" data-author="Medios" data-date="2010-02-02T23:20:52+00:00" data-subject="">
 
 It cracks me up when people get on here and whine about players having all the eq.  It reminds me of socialism.  People work hard to get stuff, then others who don't work so hard complain that it is unfair that the hard workers have everything.  Then they try to get the rules changed so that they can benefit just as much as people who work harder than them.
 
@@ -532,7 +532,7 @@ If you kill stuff as much as you whine, you might load some gems.....
 
 </div>
 
-<div class="post" data-post-id="30812" data-author="Scarlet" data-date="2010-02-04T00:07:11+00:00">
+<div class="post" data-post-id="30812" data-author="Scarlet" data-date="2010-02-04T00:07:11+00:00" data-subject="Change">
 
 Splork has changed the Chrysoprase rune.. here are the new stats..
 
@@ -570,7 +570,7 @@ Whoohoo.. everybody start trying to pop Chrysoprases!!
 
 </div>
 
-<div class="post" data-post-id="30978" data-author="Ta" data-date="2010-03-20T09:13:21+00:00">
+<div class="post" data-post-id="30978" data-author="Ta" data-date="2010-03-20T09:13:21+00:00" data-subject="">
 
 Ok after finally getting enuf Blue Quartz gems, this is what i got.....
 
@@ -600,7 +600,7 @@ Ummm....yea :) so can i get imms to check this one out, seems like a waste if it
 
 </div>
 
-<div class="post" data-post-id="30979" data-author="Ta" data-date="2010-03-20T10:22:30+00:00">
+<div class="post" data-post-id="30979" data-author="Ta" data-date="2010-03-20T10:22:30+00:00" data-subject="">
 
 Ok after finally getting enuf Blue Quartz gems, this is what i got.....
 
@@ -630,13 +630,13 @@ Ummm....yea :) so can i get imms to check this one out, seems like a waste if it
 
 </div>
 
-<div class="post" data-post-id="30980" data-author="jezer" data-date="2010-03-20T20:30:27+00:00">
+<div class="post" data-post-id="30980" data-author="jezer" data-date="2010-03-20T20:30:27+00:00" data-subject="">
 
 With runes like these maybe my prayer for a +5 to fishing rune is not completely unfounded.  :twisted: But such an awesome item would prob have to be 8x40~9x40. Can't have them having too much fish early on in the game.
 
 </div>
 
-<div class="post" data-post-id="31006" data-author="Stab" data-date="2010-03-26T21:03:58+00:00">
+<div class="post" data-post-id="31006" data-author="Stab" data-date="2010-03-26T21:03:58+00:00" data-subject="5 Obsidians">
 
 Object 'Obsidian rune', Item type: RUNE
 
@@ -664,7 +664,7 @@ Stab
 
 </div>
 
-<div class="post" data-post-id="31007" data-author="Stab" data-date="2010-03-26T22:34:23+00:00">
+<div class="post" data-post-id="31007" data-author="Stab" data-date="2010-03-26T22:34:23+00:00" data-subject="RE: 5 Obsidians">
 
 Newsflash. 
 
@@ -674,7 +674,7 @@ Stab.
 
 </div>
 
-<div class="post" data-post-id="31009" data-author="Toxis" data-date="2010-03-29T22:35:34+00:00">
+<div class="post" data-post-id="31009" data-author="Toxis" data-date="2010-03-29T22:35:34+00:00" data-subject="">
 
 Ok.
 
@@ -722,7 +722,7 @@ Rune gives the user +2 REGEN_HP
 
 </div>
 
-<div class="post" data-post-id="31489" data-author="Tuck" data-date="2010-08-14T22:39:27+00:00">
+<div class="post" data-post-id="31489" data-author="Tuck" data-date="2010-08-14T22:39:27+00:00" data-subject="Re: RUNES! yummyyumyum :)">
 
 Zuzu asked me to post it:
 
@@ -730,7 +730,7 @@ Fire Opal rune: +20 circle stab, attaches to single handed weapon
 
 </div>
 
-<div class="post" data-post-id="31711" data-author="Mace" data-date="2010-09-05T16:25:38+00:00">
+<div class="post" data-post-id="31711" data-author="Mace" data-date="2010-09-05T16:25:38+00:00" data-subject="Freshwater Pearl">
 
 Recently changed, so I assume this will now be its stats:
 
@@ -748,13 +748,13 @@ Rune gives the user -3 SAVING_PARA
 
 </div>
 
-<div class="post" data-post-id="31712" data-author="jezer" data-date="2010-09-05T20:01:30+00:00">
+<div class="post" data-post-id="31712" data-author="jezer" data-date="2010-09-05T20:01:30+00:00" data-subject="Re: RUNES! yummyyumyum :)">
 
 Gratz Mace!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="31741" data-author="Mace" data-date="2010-09-09T08:32:17+00:00">
+<div class="post" data-post-id="31741" data-author="Mace" data-date="2010-09-09T08:32:17+00:00" data-subject="eye agate">
 
 I seem to be cursed with identifying nothing but silly saves runes.
 
@@ -772,19 +772,19 @@ Rune gives the user -2 SAVING_SPELL
 
 </div>
 
-<div class="post" data-post-id="31742" data-author="jezer" data-date="2010-09-09T08:35:53+00:00">
+<div class="post" data-post-id="31742" data-author="jezer" data-date="2010-09-09T08:35:53+00:00" data-subject="Re: RUNES! yummyyumyum :)">
 
 So what rune you working on next? I need to know so I don't collect it.  :D
 
 </div>
 
-<div class="post" data-post-id="31744" data-author="Mace" data-date="2010-09-09T11:06:15+00:00">
+<div class="post" data-post-id="31744" data-author="Mace" data-date="2010-09-09T11:06:15+00:00" data-subject="eye agate">
 
 Jacinth.  Stay away everyone, it's probably save vs. petrification!
 
 </div>
 
-<div class="post" data-post-id="31745" data-author="Thraxas" data-date="2010-09-10T14:01:35+00:00">
+<div class="post" data-post-id="31745" data-author="Thraxas" data-date="2010-09-10T14:01:35+00:00" data-subject="Re: eye agate">
 
 > **Mace wrote:**
 > Jacinth.  Stay away everyone, it's probably save vs. petrification!

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="37590" data-author="*teker*" data-date="2016-11-29T15:34:30+00:00">
+<div class="post" data-post-id="37590" data-author="*teker*" data-date="2016-11-29T15:34:30+00:00" data-subject="Changelog 2016-11-28">
 
 Mostly bug fixes:
 
@@ -26,7 +26,7 @@ Also - WARNING FOR PLAYERS - I've enabled a new feature that allows builders to 
 
 </div>
 
-<div class="post" data-post-id="37598" data-author="*teker*" data-date="2016-12-01T15:13:38+00:00">
+<div class="post" data-post-id="37598" data-author="*teker*" data-date="2016-12-01T15:13:38+00:00" data-subject="Re: Changelog 2016-11-28">
 
 The last few crashes this week have been fixed and the code is live after the crash last night.  I've got a fix for the excessive "phase dooring" that will be in next reboot/crash.
 
@@ -34,7 +34,7 @@ I also fixed the code where mobs die from blood loss - you'll find coins in thei
 
 </div>
 
-<div class="post" data-post-id="37602" data-author="*teker*" data-date="2016-12-02T16:03:51+00:00">
+<div class="post" data-post-id="37602" data-author="*teker*" data-date="2016-12-02T16:03:51+00:00" data-subject="Re: Changelog 2016-11-28">
 
 EQList is showing data now but the restricts are wrong.  I'm trying to push a file from the test server over which may be incomplete.  Worst case, I'll look to reboot on Monday which will get any and all pending fixes in place.
 

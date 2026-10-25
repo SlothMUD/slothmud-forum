@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39373" data-author="Gorka" data-date="2020-02-13T11:52:21+00:00">
+<div class="post" data-post-id="39373" data-author="Gorka" data-date="2020-02-13T11:52:21+00:00" data-subject="+Hit">
 
 So I made a bard, not a very serious one, just a "play thing." Today I went back over some previous discussions between Sochi, Taron, Oboe and Kid about Charisma. Interesting reading. I'm finding it unbearably difficult to play my bard solo at the moment, so I just bring him out for groups or for leading... I do expect things will get better...
 

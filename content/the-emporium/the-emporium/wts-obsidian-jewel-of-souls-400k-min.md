@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1560" data-author="Dominicus" data-date="2004-08-24T11:00:54+00:00">
+<div class="post" data-post-id="1560" data-author="Dominicus" data-date="2004-08-24T11:00:54+00:00" data-subject="WTS obsidian jewel  of souls 400k min">
 
 Object 'jewel souls obsidian', Item type: LIGHT
 

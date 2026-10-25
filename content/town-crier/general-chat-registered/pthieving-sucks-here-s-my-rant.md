@@ -10,7 +10,7 @@ locked: false
 post_count: 40
 ---
 
-<div class="post" data-post-id="16706" data-author="Jag" data-date="2007-02-08T03:46:09+00:00">
+<div class="post" data-post-id="16706" data-author="Jag" data-date="2007-02-08T03:46:09+00:00" data-subject="Pthieving Sucks - here&#x27;s my rant.">
 
 Yes, it does.  
 
@@ -32,13 +32,13 @@ Playing with the crazies here is fun. I enjoy that this is a group oriented  mud
 
 </div>
 
-<div class="post" data-post-id="16707" data-author="Weasel" data-date="2007-02-08T04:32:28+00:00">
+<div class="post" data-post-id="16707" data-author="Weasel" data-date="2007-02-08T04:32:28+00:00" data-subject="">
 
 Couldn't agree more, and driving away new players makes it all that much more harmful to the mud, but the powers that be seem to think it's a good idea, so whatever, the playerbase can stagnate I guess. I've played games before where as a newbie you got targeted as soon as you logged on because you're an easy mark, and I've never returned to those games. Personally if the imms don't want to remove pthieving for whatever reason, then at least make VK no-steal so the real newbies have a chance to get a clue before they get bent over and raped by some asshat pthief.
 
 </div>
 
-<div class="post" data-post-id="16708" data-author="Medios" data-date="2007-02-08T06:29:22+00:00">
+<div class="post" data-post-id="16708" data-author="Medios" data-date="2007-02-08T06:29:22+00:00" data-subject="">
 
 Vk unfriendly, surely ye jest.  I'll stay out of this.
 
@@ -46,7 +46,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16710" data-author="Hades" data-date="2007-02-08T10:09:39+00:00">
+<div class="post" data-post-id="16710" data-author="Hades" data-date="2007-02-08T10:09:39+00:00" data-subject="Ranting Sucks- here&#x27;s my pthief">
 
 Actually it would make better sense to be unable to steal from a <15 level
 
@@ -62,7 +62,7 @@ but with great power comes great responsibility. :twisted:
 
 </div>
 
-<div class="post" data-post-id="16711" data-author="Briar" data-date="2007-02-08T11:50:10+00:00">
+<div class="post" data-post-id="16711" data-author="Briar" data-date="2007-02-08T11:50:10+00:00" data-subject="">
 
 Having been a crooked pthief once upon a time, here's my 2 cents on it.
 
@@ -76,7 +76,7 @@ quit stealin from noobs u punks
 
 </div>
 
-<div class="post" data-post-id="16712" data-author="*juggleblood*" data-date="2007-02-08T12:18:20+00:00">
+<div class="post" data-post-id="16712" data-author="*juggleblood*" data-date="2007-02-08T12:18:20+00:00" data-subject="">
 
 I'm guessing that this was just a case of some newb trying out pthieving to see what it's all about.
 
@@ -86,7 +86,7 @@ I do have my eye on on a char called pfft. Levels fast, claims to be true newb, 
 
 </div>
 
-<div class="post" data-post-id="16713" data-author="Autolycos" data-date="2007-02-08T12:52:32+00:00">
+<div class="post" data-post-id="16713" data-author="Autolycos" data-date="2007-02-08T12:52:32+00:00" data-subject="">
 
 asshat [/quote:23vy0auc]
 
@@ -94,13 +94,13 @@ classic..
 
 </div>
 
-<div class="post" data-post-id="16720" data-author="Guinex" data-date="2007-02-08T21:24:10+00:00">
+<div class="post" data-post-id="16720" data-author="Guinex" data-date="2007-02-08T21:24:10+00:00" data-subject="">
 
 When can we make sloth pure CHAOS!? :D
 
 </div>
 
-<div class="post" data-post-id="16723" data-author="13" data-date="2007-02-08T21:41:58+00:00">
+<div class="post" data-post-id="16723" data-author="13" data-date="2007-02-08T21:41:58+00:00" data-subject="">
 
 [quote:1175j61n]I don't think Jag qualifies as a newb, [/quote:1175j61n]
 
@@ -108,7 +108,7 @@ When can we make sloth pure CHAOS!? :D
 
 </div>
 
-<div class="post" data-post-id="16725" data-author="Autolycos" data-date="2007-02-08T21:57:33+00:00">
+<div class="post" data-post-id="16725" data-author="Autolycos" data-date="2007-02-08T21:57:33+00:00" data-subject="">
 
 :shock:[/quote:3w1fmsgv]
 
@@ -116,7 +116,7 @@ When can we make sloth pure CHAOS!? :D
 
 </div>
 
-<div class="post" data-post-id="16726" data-author="Clink" data-date="2007-02-08T22:03:20+00:00">
+<div class="post" data-post-id="16726" data-author="Clink" data-date="2007-02-08T22:03:20+00:00" data-subject="">
 
 I generally stay out of complaining threads where we aren't going to change anything, but I'll say a three things to set the record straight.
 
@@ -132,7 +132,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="16727" data-author="13" data-date="2007-02-08T22:24:58+00:00">
+<div class="post" data-post-id="16727" data-author="13" data-date="2007-02-08T22:24:58+00:00" data-subject="">
 
 [quote:otlkbczp]3) Jag is a newbie. No recall scrolls and gold were stolen from any of his characters. We track this type of thing explicitly (among many other things). [/quote:otlkbczp]
 
@@ -140,7 +140,7 @@ that right there made me lmfao..a lot
 
 </div>
 
-<div class="post" data-post-id="16731" data-author="Hades" data-date="2007-02-08T22:35:04+00:00">
+<div class="post" data-post-id="16731" data-author="Hades" data-date="2007-02-08T22:35:04+00:00" data-subject="Hearing Sucks- My ranting pthief">
 
 Takes a load off my mind. 
 
@@ -150,13 +150,13 @@ ps- Got it!
 
 </div>
 
-<div class="post" data-post-id="16734" data-author="Medios" data-date="2007-02-08T22:58:38+00:00">
+<div class="post" data-post-id="16734" data-author="Medios" data-date="2007-02-08T22:58:38+00:00" data-subject="">
 
 1984
 
 </div>
 
-<div class="post" data-post-id="16746" data-author="Jag" data-date="2007-02-09T01:12:39+00:00">
+<div class="post" data-post-id="16746" data-author="Jag" data-date="2007-02-09T01:12:39+00:00" data-subject="">
 
 Takes a load off my mind too. (please note sarcasm)  I really thought my lowbie character had recall scrolls taken.   A worthless and aggravating act.  Hell, I give'm away to anybody who asks.  Why steal?  Wonder how I was mistaken?  (Sarcasm over for a bit)  Here is the story.
 
@@ -174,7 +174,7 @@ After all we have the best Mud!
 
 </div>
 
-<div class="post" data-post-id="16747" data-author="*juggleblood*" data-date="2007-02-09T01:30:59+00:00">
+<div class="post" data-post-id="16747" data-author="*juggleblood*" data-date="2007-02-09T01:30:59+00:00" data-subject="">
 
 I don't think Jag qualifies as a newb,[/quote:1ucbkig4]
 
@@ -182,13 +182,13 @@ It's surely not the first nor the last time I've been wrong.
 
 </div>
 
-<div class="post" data-post-id="16748" data-author="Weasel" data-date="2007-02-09T01:32:14+00:00">
+<div class="post" data-post-id="16748" data-author="Weasel" data-date="2007-02-09T01:32:14+00:00" data-subject="">
 
 thucking fiefs
 
 </div>
 
-<div class="post" data-post-id="16751" data-author="Hades" data-date="2007-02-09T03:16:47+00:00">
+<div class="post" data-post-id="16751" data-author="Hades" data-date="2007-02-09T03:16:47+00:00" data-subject="Pthief&#x27;s rants- suck my here">
 
 We all make mistakes. :oops: 
 
@@ -200,7 +200,7 @@ Good Night
 
 </div>
 
-<div class="post" data-post-id="16753" data-author="*Splork*" data-date="2007-02-09T12:24:08+00:00">
+<div class="post" data-post-id="16753" data-author="*Splork*" data-date="2007-02-09T12:24:08+00:00" data-subject="">
 
 I've mentioned the fact there is a level check for steal many times over the course of the last year and a half. This continually comes up because we refuse to publish the level and any attempt at stealing from these low level characters simply fails which leads some of you to believe its possible to steal from them.
 
@@ -208,13 +208,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="16757" data-author="Weasel" data-date="2007-02-09T15:06:15+00:00">
+<div class="post" data-post-id="16757" data-author="Weasel" data-date="2007-02-09T15:06:15+00:00" data-subject="">
 
 Thanks Splork - I thought that was the case, but then it appeared not to be here, which is why I threw in my 2 cents worth.
 
 </div>
 
-<div class="post" data-post-id="16763" data-author="Clink" data-date="2007-02-09T17:10:35+00:00">
+<div class="post" data-post-id="16763" data-author="Clink" data-date="2007-02-09T17:10:35+00:00" data-subject="">
 
 I'd like to make an unnecessary point, albeit with some specific facts.  The mud at this moment in time has been up continuously for over 5 days.  We have easy access to pthief statistics and here is a complete lists of pthief activity for this time period.
 
@@ -234,7 +234,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="16764" data-author="Weasel" data-date="2007-02-09T17:13:04+00:00">
+<div class="post" data-post-id="16764" data-author="Weasel" data-date="2007-02-09T17:13:04+00:00" data-subject="">
 
 The mud at this moment in time has been up continuously for over 5 days.  We have easy access to pthief statistics and here is a complete lists of pthief activity for this time period:
 
@@ -244,13 +244,13 @@ roflmao  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16767" data-author="Autolycos" data-date="2007-02-09T17:55:34+00:00">
+<div class="post" data-post-id="16767" data-author="Autolycos" data-date="2007-02-09T17:55:34+00:00" data-subject="">
 
 hey Weasel...  methinx Clink has a man crush on Starbuck  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16769" data-author="Weasel" data-date="2007-02-09T18:06:33+00:00">
+<div class="post" data-post-id="16769" data-author="Weasel" data-date="2007-02-09T18:06:33+00:00" data-subject="">
 
 hey Weasel...  methinx Clink has a man crush on Starbuck  :twisted:[/quote:3ag7aou9]
 
@@ -258,7 +258,7 @@ jealous Auto? hehe
 
 </div>
 
-<div class="post" data-post-id="16770" data-author="Autolycos" data-date="2007-02-09T18:25:44+00:00">
+<div class="post" data-post-id="16770" data-author="Autolycos" data-date="2007-02-09T18:25:44+00:00" data-subject="">
 
 jealous Auto? hehe[/quote:2nx4jwza]
 
@@ -266,13 +266,13 @@ no.. cause splorkie has a crush on me  :shock:
 
 </div>
 
-<div class="post" data-post-id="16771" data-author="Weasel" data-date="2007-02-09T18:38:11+00:00">
+<div class="post" data-post-id="16771" data-author="Weasel" data-date="2007-02-09T18:38:11+00:00" data-subject="">
 
 you have my sympathies.
 
 </div>
 
-<div class="post" data-post-id="16772" data-author="Autolycos" data-date="2007-02-09T18:46:52+00:00">
+<div class="post" data-post-id="16772" data-author="Autolycos" data-date="2007-02-09T18:46:52+00:00" data-subject="">
 
 you have my sympathies.[/quote:2ilo8tus]
 
@@ -282,13 +282,13 @@ how are you and Reb doin?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16773" data-author="Weasel" data-date="2007-02-09T18:50:43+00:00">
+<div class="post" data-post-id="16773" data-author="Weasel" data-date="2007-02-09T18:50:43+00:00" data-subject="">
 
 It's IceQueen you doofus!
 
 </div>
 
-<div class="post" data-post-id="16776" data-author="Autolycos" data-date="2007-02-09T19:33:34+00:00">
+<div class="post" data-post-id="16776" data-author="Autolycos" data-date="2007-02-09T19:33:34+00:00" data-subject="">
 
 .
 
@@ -300,13 +300,13 @@ but the snow weasel in her hand is still funny :twisted:
 
 </div>
 
-<div class="post" data-post-id="16777" data-author="Weasel" data-date="2007-02-09T19:52:44+00:00">
+<div class="post" data-post-id="16777" data-author="Weasel" data-date="2007-02-09T19:52:44+00:00" data-subject="">
 
 lol nice
 
 </div>
 
-<div class="post" data-post-id="16778" data-author="*juggleblood*" data-date="2007-02-09T20:36:42+00:00">
+<div class="post" data-post-id="16778" data-author="*juggleblood*" data-date="2007-02-09T20:36:42+00:00" data-subject="">
 
 All the pthief attempts:
 
@@ -318,7 +318,7 @@ Can we have a "Time on Outlaw board" section of the top twenty list? I've got to
 
 </div>
 
-<div class="post" data-post-id="16780" data-author="Autolycos" data-date="2007-02-09T20:53:27+00:00">
+<div class="post" data-post-id="16780" data-author="Autolycos" data-date="2007-02-09T20:53:27+00:00" data-subject="">
 
 Can we have a "Time on Outlaw board" section of the top twenty list? I've got to be number one, but it'd be interesting to see by how much.[/quote:3fepzmdd]
 
@@ -328,7 +328,7 @@ Chi will always have you beat!!!  :lol:
 
 </div>
 
-<div class="post" data-post-id="16781" data-author="Clink" data-date="2007-02-09T20:53:48+00:00">
+<div class="post" data-post-id="16781" data-author="Clink" data-date="2007-02-09T20:53:48+00:00" data-subject="">
 
 [quote:2gf6jl2j]Can we have a "Time on Outlaw board" section of the top twenty list? I've got to be number one, but it'd be interesting to see by how much.[/quote:2gf6jl2j]
 
@@ -338,7 +338,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="16786" data-author="Hades" data-date="2007-02-09T23:33:40+00:00">
+<div class="post" data-post-id="16786" data-author="Hades" data-date="2007-02-09T23:33:40+00:00" data-subject="Sucking Pthief- Rant my here">
 
 I counter-argue that as a pthief, I like exposing myself whenever possible.
 
@@ -346,7 +346,7 @@ In other news, Hades has never, ever stolen the 1st item success OR fail from an
 
 </div>
 
-<div class="post" data-post-id="16791" data-author="Medios" data-date="2007-02-10T04:48:11+00:00">
+<div class="post" data-post-id="16791" data-author="Medios" data-date="2007-02-10T04:48:11+00:00" data-subject="">
 
 We need more players like Hades and less like Gimlet.
 
@@ -354,7 +354,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16805" data-author="Derro" data-date="2007-02-11T14:53:41+00:00">
+<div class="post" data-post-id="16805" data-author="Derro" data-date="2007-02-11T14:53:41+00:00" data-subject="">
 
 1) We aren't going to change anything.[/quote:p4hxrg0m]
 
@@ -362,7 +362,7 @@ Sloth's history shows that this rule changes quite quickly once someone dedicate
 
 </div>
 
-<div class="post" data-post-id="16806" data-author="firebrand" data-date="2007-02-11T14:54:06+00:00">
+<div class="post" data-post-id="16806" data-author="firebrand" data-date="2007-02-11T14:54:06+00:00" data-subject="Re: Sucking Pthief- Rant my here">
 
 *snip*I like exposing myself whenever possible. :twisted:*snip*[/quote:1nbl0etv]
 
@@ -374,7 +374,7 @@ weasel, i thought i told you to keep our relationshit a secret.  now autobot kno
 
 </div>
 
-<div class="post" data-post-id="16809" data-author="Autolycos" data-date="2007-02-11T16:34:22+00:00">
+<div class="post" data-post-id="16809" data-author="Autolycos" data-date="2007-02-11T16:34:22+00:00" data-subject="Re: Sucking Pthief- Rant my here">
 
 how am i ever supposed to run for president with something like this on my record?[/quote:2ybycrwg]
 
@@ -384,7 +384,7 @@ yet another reason to move to australia!
 
 </div>
 
-<div class="post" data-post-id="16812" data-author="tincts" data-date="2007-02-11T20:58:22+00:00">
+<div class="post" data-post-id="16812" data-author="tincts" data-date="2007-02-11T20:58:22+00:00" data-subject="">
 
 yet another reason to move to australia!
 
@@ -392,7 +392,7 @@ Nah, I'll have this place in my iron grasp within weeks.
 
 </div>
 
-<div class="post" data-post-id="16843" data-author="Guinex" data-date="2007-02-12T20:10:29+00:00">
+<div class="post" data-post-id="16843" data-author="Guinex" data-date="2007-02-12T20:10:29+00:00" data-subject="">
 
 Derro! *hugs*
 

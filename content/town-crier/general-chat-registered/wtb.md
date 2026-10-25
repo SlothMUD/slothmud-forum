@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10618" data-author="Leaf" data-date="2006-02-08T18:31:20+00:00">
+<div class="post" data-post-id="10618" data-author="Leaf" data-date="2006-02-08T18:31:20+00:00" data-subject="WTB">
 
 Need Patched Black Cloak for my Bard.
 

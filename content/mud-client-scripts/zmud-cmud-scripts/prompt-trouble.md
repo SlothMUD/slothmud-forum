@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8994" data-author="marushu" data-date="2005-10-11T16:35:32+00:00">
+<div class="post" data-post-id="8994" data-author="marushu" data-date="2005-10-11T16:35:32+00:00" data-subject="prompt trouble">
 
 Was hoping maybe one of talented coders could help me :)
 

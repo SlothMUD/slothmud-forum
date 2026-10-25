@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="2512" data-author="impz" data-date="2004-11-01T09:26:56+00:00">
+<div class="post" data-post-id="2512" data-author="impz" data-date="2004-11-01T09:26:56+00:00" data-subject="WTT / WTB cobra fangs (iolite cps)">
 
 have the following for trade...
 
@@ -34,7 +34,7 @@ Ask me if u wanna trade. tks.
 
 </div>
 
-<div class="post" data-post-id="2544" data-author="impz" data-date="2004-11-03T07:51:43+00:00">
+<div class="post" data-post-id="2544" data-author="impz" data-date="2004-11-03T07:51:43+00:00" data-subject="">
 
 got it , tks  :lol:
 

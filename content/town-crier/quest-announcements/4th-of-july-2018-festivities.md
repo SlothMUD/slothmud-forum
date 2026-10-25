@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38942" data-author="*Idjit*" data-date="2018-07-02T20:16:02+00:00">
+<div class="post" data-post-id="38942" data-author="*Idjit*" data-date="2018-07-02T20:16:02+00:00" data-subject="4th of July 2018 Festivities">
 
 Good day slothers,
 

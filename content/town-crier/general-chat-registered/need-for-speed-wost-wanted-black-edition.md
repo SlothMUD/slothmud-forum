@@ -10,25 +10,25 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="9761" data-author="Weasel" data-date="2005-12-11T03:36:06+00:00">
+<div class="post" data-post-id="9761" data-author="Weasel" data-date="2005-12-11T03:36:06+00:00" data-subject="need for speed - wost wanted - black edition">
 
 Anyone else tried this game out? Got the PC version not long ago - sweeeet. If it's this good on a PC, it must be awesome on playstation etc. Got some good sounds on it too.
 
 </div>
 
-<div class="post" data-post-id="9913" data-author="Shadis" data-date="2005-12-23T02:32:42+00:00">
+<div class="post" data-post-id="9913" data-author="Shadis" data-date="2005-12-23T02:32:42+00:00" data-subject="">
 
 i have it for PS2 and really really like it
 
 </div>
 
-<div class="post" data-post-id="9926" data-author="Ironwolf" data-date="2005-12-26T16:34:01+00:00">
+<div class="post" data-post-id="9926" data-author="Ironwolf" data-date="2005-12-26T16:34:01+00:00" data-subject="">
 
 i got the regular one for xbox 360 :) :) it looks awesome on my hdtv :)
 
 </div>
 
-<div class="post" data-post-id="9927" data-author="Roadrunr" data-date="2005-12-26T19:58:18+00:00">
+<div class="post" data-post-id="9927" data-author="Roadrunr" data-date="2005-12-26T19:58:18+00:00" data-subject="">
 
 Hey Weas, what do you have for a system and how does it run for you.  I was considering picking it up but I want to be sure I can run with most detail on.
 
@@ -38,7 +38,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="9951" data-author="Weasel" data-date="2005-12-31T16:14:10+00:00">
+<div class="post" data-post-id="9951" data-author="Weasel" data-date="2005-12-31T16:14:10+00:00" data-subject="">
 
 Hey Weas, what do you have for a system and how does it run for you.  I was considering picking it up but I want to be sure I can run with most detail on.
 
@@ -52,7 +52,7 @@ The detailing is variable, so if the gameplay is a bit suspect on the default se
 
 </div>
 
-<div class="post" data-post-id="9969" data-author="Weasel" data-date="2006-01-04T04:06:22+00:00">
+<div class="post" data-post-id="9969" data-author="Weasel" data-date="2006-01-04T04:06:22+00:00" data-subject="">
 
 ahh here we go - from the help file -
 

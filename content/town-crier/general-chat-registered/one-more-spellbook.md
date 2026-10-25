@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10054" data-author="12345" data-date="2006-01-10T16:37:30+00:00">
+<div class="post" data-post-id="10054" data-author="12345" data-date="2006-01-10T16:37:30+00:00" data-subject="One more spellbook?">
 
 The idea of a library was suggested before, but I had an idea flash through my head that wasn't too overpower.
 

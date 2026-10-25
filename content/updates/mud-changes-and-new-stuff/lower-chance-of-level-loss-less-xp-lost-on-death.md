@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30177" data-author="*Splork*" data-date="2009-10-25T16:16:42+00:00">
+<div class="post" data-post-id="30177" data-author="*Splork*" data-date="2009-10-25T16:16:42+00:00" data-subject="Lower chance of level loss, less xp lost on death">
 
 1) Lowered the possibility of level loss
 
@@ -30,7 +30,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31643" data-author="*Splork*" data-date="2010-08-30T03:55:23+00:00">
+<div class="post" data-post-id="31643" data-author="*Splork*" data-date="2010-08-30T03:55:23+00:00" data-subject="Re: Lower chance of level loss, less xp lost on death">
 
 XP loss upon death has been decreased yet again.
 

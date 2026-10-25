@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="36580" data-author="Yasik" data-date="2016-02-07T14:18:32+00:00">
+<div class="post" data-post-id="36580" data-author="Yasik" data-date="2016-02-07T14:18:32+00:00" data-subject="Ridin&#x27; high">
 
 Hello !
 
@@ -326,7 +326,7 @@ So, the solution I suggest is either A) make mounts go with us when we beacon ba
 
 </div>
 
-<div class="post" data-post-id="36581" data-author="Yasik" data-date="2016-02-07T17:25:00+00:00">
+<div class="post" data-post-id="36581" data-author="Yasik" data-date="2016-02-07T17:25:00+00:00" data-subject="Re: Ridin&#x27; high">
 
 PS. "You courageously charge into the room and slice the Hailmaster!"
 
@@ -334,19 +334,19 @@ May I also suggest removing "room" word from that message as well? Because it is
 
 </div>
 
-<div class="post" data-post-id="36582" data-author="Yasik" data-date="2016-02-07T18:44:38+00:00">
+<div class="post" data-post-id="36582" data-author="Yasik" data-date="2016-02-07T18:44:38+00:00" data-subject="Re: Ridin&#x27; high">
 
 PS2: Also, I noticed, mounts disappers after some time, without any message. Is there a reason why they should not be permanent while we ride them and disappear after some time we dismount them? Sounds logical to me.
 
 </div>
 
-<div class="post" data-post-id="36590" data-author="cyprimus" data-date="2016-02-13T20:42:56+00:00">
+<div class="post" data-post-id="36590" data-author="cyprimus" data-date="2016-02-13T20:42:56+00:00" data-subject="Re: Ridin&#x27; high">
 
 So.. any chance we can get animate dead mounts we can ride?
 
 </div>
 
-<div class="post" data-post-id="36598" data-author="Yasik" data-date="2016-02-16T04:17:23+00:00">
+<div class="post" data-post-id="36598" data-author="Yasik" data-date="2016-02-16T04:17:23+00:00" data-subject="Re: Ridin&#x27; high">
 
 ... or mounts that grant us some special benefits, like waterbreath from sea horse or fly from roc...
 

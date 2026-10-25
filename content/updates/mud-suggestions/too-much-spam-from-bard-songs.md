@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32322" data-author="Tuck" data-date="2011-01-16T14:13:19+00:00">
+<div class="post" data-post-id="32322" data-author="Tuck" data-date="2011-01-16T14:13:19+00:00" data-subject="Too much spam from bard songs.">
 
 Hi,
 
@@ -34,7 +34,7 @@ Tukster
 
 </div>
 
-<div class="post" data-post-id="32329" data-author="Tuck" data-date="2011-01-17T23:16:03+00:00">
+<div class="post" data-post-id="32329" data-author="Tuck" data-date="2011-01-17T23:16:03+00:00" data-subject="Re: Too much spam from bard songs.">
 
 Asked Someone:
 
@@ -46,7 +46,7 @@ TELL>.ME=>Someone... - indeed
 
 </div>
 
-<div class="post" data-post-id="32493" data-author="Tuck" data-date="2011-03-20T18:22:20+00:00">
+<div class="post" data-post-id="32493" data-author="Tuck" data-date="2011-03-20T18:22:20+00:00" data-subject="Re: Too much spam from bard songs.">
 
 Best idea so far is just gag rings spam on client-side.
 

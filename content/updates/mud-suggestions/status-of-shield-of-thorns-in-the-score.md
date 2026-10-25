@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32028" data-author="Filk" data-date="2010-11-14T05:30:39+00:00">
+<div class="post" data-post-id="32028" data-author="Filk" data-date="2010-11-14T05:30:39+00:00" data-subject="Status of Shield of Thorns in the score">
 
 Would be nice to see that info, like clerics see info about their aerial servant.
 
@@ -18,7 +18,7 @@ Also. Why not make it recastable, without need to break it or dispel. Like water
 
 </div>
 
-<div class="post" data-post-id="32031" data-author="jezer" data-date="2010-11-14T18:37:12+00:00">
+<div class="post" data-post-id="32031" data-author="jezer" data-date="2010-11-14T18:37:12+00:00" data-subject="Re: Status of Shield of Thorns in the score">
 
 You are already pretty thorny!  :evil:
 

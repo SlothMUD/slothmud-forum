@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="13122" data-author="marchessa_the_red_witch" data-date="2006-06-24T06:05:53+00:00">
+<div class="post" data-post-id="13122" data-author="marchessa_the_red_witch" data-date="2006-06-24T06:05:53+00:00" data-subject="shield of the black rose">
 
 Mob: Marsup in castle
 
@@ -18,7 +18,7 @@ Stats: unknown, we have not killed him yet.
 
 </div>
 
-<div class="post" data-post-id="13123" data-author="marchessa_the_red_witch" data-date="2006-06-24T06:29:46+00:00">
+<div class="post" data-post-id="13123" data-author="marchessa_the_red_witch" data-date="2006-06-24T06:29:46+00:00" data-subject="Stats">
 
 You recite a scroll of identify which dissolves.
 

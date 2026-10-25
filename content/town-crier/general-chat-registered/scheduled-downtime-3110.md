@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="29039" data-author="*Splork*" data-date="2009-04-24T01:06:06+00:00">
+<div class="post" data-post-id="29039" data-author="*Splork*" data-date="2009-04-24T01:06:06+00:00" data-subject="Scheduled Downtime">
 
 We just received an email from our host.
 
@@ -32,7 +32,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29072" data-author="*Splork*" data-date="2009-04-28T17:20:47+00:00">
+<div class="post" data-post-id="29072" data-author="*Splork*" data-date="2009-04-28T17:20:47+00:00" data-subject="We are down for a few minutes because of the following:">
 
 Tuesday, April 28, 2009
 
@@ -64,13 +64,13 @@ result in a brief outage to connectivity on Tuesday morning.
 
 </div>
 
-<div class="post" data-post-id="29073" data-author="Xamak" data-date="2009-04-28T17:46:03+00:00">
+<div class="post" data-post-id="29073" data-author="Xamak" data-date="2009-04-28T17:46:03+00:00" data-subject="">
 
 Any ETA on restart?
 
 </div>
 
-<div class="post" data-post-id="29075" data-author="*Splork*" data-date="2009-04-28T18:48:49+00:00">
+<div class="post" data-post-id="29075" data-author="*Splork*" data-date="2009-04-28T18:48:49+00:00" data-subject="">
 
 Back up with a gigE fiber optic connection!
 

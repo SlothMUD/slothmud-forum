@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34512" data-author="Tuck" data-date="2013-10-25T15:30:08+00:00">
+<div class="post" data-post-id="34512" data-author="Tuck" data-date="2013-10-25T15:30:08+00:00" data-subject="You can relocate to Nastasia">
 
 You can relocate to Nastasia, the innkeeper of Kitezh.
 

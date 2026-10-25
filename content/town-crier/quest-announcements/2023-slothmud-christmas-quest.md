@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40085" data-author="*Idjit*" data-date="2023-12-22T17:29:11+00:00">
+<div class="post" data-post-id="40085" data-author="*Idjit*" data-date="2023-12-22T17:29:11+00:00" data-subject="2023 SlothMUD Christmas Quest">
 
 Good morning Slothers.
 

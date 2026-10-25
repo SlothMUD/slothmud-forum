@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="11956" data-author="daglo" data-date="2006-04-05T22:09:34+00:00">
+<div class="post" data-post-id="11956" data-author="daglo" data-date="2006-04-05T22:09:34+00:00" data-subject="Playing from behind a firewall">
 
 One of the things I like to do is play muds with my son. I think he'd like this mud as much as I do. However, I fear that one or both of us would be punished for multiplaying if we were both on at the same time (since we will show up as playing from the same IP address due to our firewall).
 
@@ -22,7 +22,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="11957" data-author="*Splork*" data-date="2006-04-05T22:14:20+00:00">
+<div class="post" data-post-id="11957" data-author="*Splork*" data-date="2006-04-05T22:14:20+00:00" data-subject="">
 
 Simply inform one of the Immortals logged in what your situation is. Quite a few people are in your situation. The Immortals will wrap it, possibly even test you someday to make sure there is no multiplaying.  But besides that, hope to see you online...
 

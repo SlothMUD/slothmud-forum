@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="40043" data-author="Hung" data-date="2023-03-23T11:16:52+00:00">
+<div class="post" data-post-id="40043" data-author="Hung" data-date="2023-03-23T11:16:52+00:00" data-subject="bagpipes">
 
 I've some questions regarding this piece of eq: [http://slothmudeq.ml/?search=bagpipes](http://slothmudeq.ml/?search=bagpipes)
 
@@ -24,7 +24,7 @@ I've tried to ask these questions ingame, but noone knows anything. So trying my
 
 </div>
 
-<div class="post" data-post-id="40044" data-author="Gorka" data-date="2023-03-26T17:02:57+00:00">
+<div class="post" data-post-id="40044" data-author="Gorka" data-date="2023-03-26T17:02:57+00:00" data-subject="Re: bagpipes">
 
 I don't recall ever finding them, and no information I have suggests that they have a popper - which suggests to me maybe they are a secret forge or aq. However the object numbers and dates provide clues, as I suspect items are added sequentially to the game, which at the very least would exclude looking in some newer areas.
 
@@ -40,7 +40,7 @@ My guess was there was a mix up, and they were supposed to belong to the Celtic 
 
 </div>
 
-<div class="post" data-post-id="40045" data-author="Insomnia" data-date="2023-03-26T17:11:53+00:00">
+<div class="post" data-post-id="40045" data-author="Insomnia" data-date="2023-03-26T17:11:53+00:00" data-subject="Re: bagpipes">
 
 @Gorka The only time I saw bagpipes was in a quest group led by you.
 
@@ -50,7 +50,7 @@ Tonedeaf gets bagpipes from the corpse of Mrs. Satan Claw that's on the ground.
 
 </div>
 
-<div class="post" data-post-id="40046" data-author="Gorka" data-date="2023-03-26T17:43:29+00:00">
+<div class="post" data-post-id="40046" data-author="Gorka" data-date="2023-03-26T17:43:29+00:00" data-subject="Re: bagpipes">
 
 Thanks Insom, so I only searched my information, not my logs. So now I searched my logs...
 
@@ -154,7 +154,7 @@ My convo with Idjit was 6 months before they appeared in the Santa quest which I
 
 </div>
 
-<div class="post" data-post-id="40047" data-author="Hung" data-date="2023-03-27T14:37:04+00:00">
+<div class="post" data-post-id="40047" data-author="Hung" data-date="2023-03-27T14:37:04+00:00" data-subject="Re: bagpipes">
 
 Thanks for the answers.
 

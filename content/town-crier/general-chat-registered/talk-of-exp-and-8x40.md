@@ -10,7 +10,7 @@ locked: false
 post_count: 30
 ---
 
-<div class="post" data-post-id="32740" data-author="Mug" data-date="2011-07-19T22:59:11+00:00">
+<div class="post" data-post-id="32740" data-author="Mug" data-date="2011-07-19T22:59:11+00:00" data-subject="talk of exp and 8x40">
 
 hi last night splork asked if we would like to go back to a 4 class system
 
@@ -30,13 +30,13 @@ any thoughts nows the time to hear em!!!
 
 </div>
 
-<div class="post" data-post-id="32741" data-author="Sleeping Forest" data-date="2011-07-19T23:07:34+00:00">
+<div class="post" data-post-id="32741" data-author="Sleeping Forest" data-date="2011-07-19T23:07:34+00:00" data-subject="Re: talk of exp and 8x40">
 
 i for one love having all the classes. i would also like to see caps removed, and lvl cost lowered or mob xp raised. far to many have put far to much into there chars to go back to 4 classes.
 
 </div>
 
-<div class="post" data-post-id="32742" data-author="Toxis" data-date="2011-07-20T01:35:16+00:00">
+<div class="post" data-post-id="32742" data-author="Toxis" data-date="2011-07-20T01:35:16+00:00" data-subject="Re: talk of exp and 8x40">
 
 Some ideas I had:
 
@@ -52,7 +52,7 @@ My Vote:  No more wipes and stay with 8x40 system.
 
 </div>
 
-<div class="post" data-post-id="32743" data-author="blackmore" data-date="2011-07-20T03:05:19+00:00">
+<div class="post" data-post-id="32743" data-author="blackmore" data-date="2011-07-20T03:05:19+00:00" data-subject="Re: talk of exp and 8x40">
 
 I'd get rid of caps at 4x40, or 5x40 at most (or double them).  The grind that starts at 4x40 is horrible.  The grind before 4x40 is the same with s3, and it's bad, but you can see the light with avatar bonuses.
 
@@ -68,13 +68,13 @@ Finally, I'd give me enough money to be set for life, so I could quit my job and
 
 </div>
 
-<div class="post" data-post-id="32744" data-author="Yasik" data-date="2011-07-20T04:54:45+00:00">
+<div class="post" data-post-id="32744" data-author="Yasik" data-date="2011-07-20T04:54:45+00:00" data-subject="Re: talk of exp and 8x40">
 
 Don't give them anything, people alway whine and are unhappy with what they got and demand moar and making excuses etc. You sold your lives to Sloth, deal with it, now shut up and grind on  :P
 
 </div>
 
-<div class="post" data-post-id="32745" data-author="Dragoth" data-date="2011-07-20T12:55:53+00:00">
+<div class="post" data-post-id="32745" data-author="Dragoth" data-date="2011-07-20T12:55:53+00:00" data-subject="Re: talk of exp and 8x40">
 
 It's not about the grind, it's about keep playing interested by giving them incentives to level. 
 
@@ -104,13 +104,13 @@ By combining all these scalings you can create a truly multi-class mud with a hu
 
 </div>
 
-<div class="post" data-post-id="32751" data-author="Harm" data-date="2011-07-21T03:33:36+00:00">
+<div class="post" data-post-id="32751" data-author="Harm" data-date="2011-07-21T03:33:36+00:00" data-subject="Re: talk of exp and 8x40">
 
 Would some of these changes involve a full pwipe?
 
 </div>
 
-<div class="post" data-post-id="32758" data-author="*Splork*" data-date="2011-07-24T05:27:28+00:00">
+<div class="post" data-post-id="32758" data-author="*Splork*" data-date="2011-07-24T05:27:28+00:00" data-subject="Re: talk of exp and 8x40">
 
 I want to increase experience for everybody, make leveling quicker, and ultimately scale damage of skills/spells per position of class order. 
 
@@ -120,7 +120,7 @@ SPlork
 
 </div>
 
-<div class="post" data-post-id="32760" data-author="Insomniac" data-date="2011-07-24T10:52:39+00:00">
+<div class="post" data-post-id="32760" data-author="Insomniac" data-date="2011-07-24T10:52:39+00:00" data-subject="Re: talk of exp and 8x40">
 
 > ***Splork* wrote:**
 > I want to increase experience for everybody, make leveling quicker, and ultimately scale damage of skills/spells per position of class order. 
@@ -139,7 +139,7 @@ I guess it all depends on how exactly scaling will take place. If you take exist
 
 </div>
 
-<div class="post" data-post-id="32761" data-author="blackmore" data-date="2011-07-24T15:33:19+00:00">
+<div class="post" data-post-id="32761" data-author="blackmore" data-date="2011-07-24T15:33:19+00:00" data-subject="Re: talk of exp and 8x40">
 
 > ***Splork* wrote:**
 > I want to increase experience for everybody, make leveling quicker, and ultimately scale damage of skills/spells per position of class order. 
@@ -156,7 +156,7 @@ That's only 3 things, I don't see  the problem.  You've got 3 coders, each of yo
 
 </div>
 
-<div class="post" data-post-id="32768" data-author="Thraxas" data-date="2011-07-27T12:07:32+00:00">
+<div class="post" data-post-id="32768" data-author="Thraxas" data-date="2011-07-27T12:07:32+00:00" data-subject="Re: talk of exp and 8x40">
 
 > **blackmore wrote:**
 > Anything that can be described in so few words shouldn't take more than a few days to do.
@@ -167,7 +167,7 @@ Best of luck to you all, nice to stop by and see you're all still stuck in the g
 
 </div>
 
-<div class="post" data-post-id="32772" data-author="Shyla" data-date="2011-07-28T03:12:15+00:00">
+<div class="post" data-post-id="32772" data-author="Shyla" data-date="2011-07-28T03:12:15+00:00" data-subject="Re: talk of exp and 8x40">
 
 please do I miss you thraxas :(
 
@@ -175,7 +175,7 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="32773" data-author="blackmore" data-date="2011-07-28T04:57:12+00:00">
+<div class="post" data-post-id="32773" data-author="blackmore" data-date="2011-07-28T04:57:12+00:00" data-subject="Re: talk of exp and 8x40">
 
 > **Thraxas wrote:**
 > > **blackmore wrote:**
@@ -189,7 +189,7 @@ Good, because sometimes people are silly enough to take me seriously.
 
 </div>
 
-<div class="post" data-post-id="32786" data-author="Stark" data-date="2011-08-03T22:05:31+00:00">
+<div class="post" data-post-id="32786" data-author="Stark" data-date="2011-08-03T22:05:31+00:00" data-subject="Re: talk of exp and 8x40">
 
 **Caution: Wall of text.  Preemptive tl/dr: ***Slothmud requires too much time investment for anyone but the most hardcore of players (which most people don't have the time commitment for).  Recommended dropping exp requirements dramatically.*
 
@@ -203,7 +203,7 @@ If the speed of leveling was doubled in this game, I'd probably come back for an
 
 </div>
 
-<div class="post" data-post-id="32787" data-author="Stark" data-date="2011-08-03T22:16:46+00:00">
+<div class="post" data-post-id="32787" data-author="Stark" data-date="2011-08-03T22:16:46+00:00" data-subject="Re: talk of exp and 8x40">
 
 Also, slightly off topic, but I thought I'd throw it in.  Dying and losing extremely hard earned equipment has more than once caused me to quit the game for years at a time.  I'd have a lot more fun exploring the world if I didn't risk literally losing my shirt.  Yes, I know, I could get the server to help track down and kill the mobs that looted my corpse.  But I always felt like a jerk when I had to get the whole server to band together to kill a huge mob that looted me.  Or even if it was just one person who had to help me take on something smaller to claim my stuff back.  Ugh.  And I know I can talk to immorts to have equipment granted back in extreme circumstances, but nobody wants to have to do that either.  It's extremely offputting.  Half of this game is building equipment, and it's entirely too easy to lose that whole half of your character.  It's a huge potential loss to any character.  Long time veterans know best how to avoid getting killed and looted, and where to avoid it.  But not so much for those of us who don't have the game memorized.   Losing a level can't have nearly the same impact.
 
@@ -211,7 +211,7 @@ Sorry.  I kind of got into rant mode.  But I really don't think the potential fo
 
 </div>
 
-<div class="post" data-post-id="32788" data-author="norks" data-date="2011-08-03T22:56:47+00:00">
+<div class="post" data-post-id="32788" data-author="norks" data-date="2011-08-03T22:56:47+00:00" data-subject="Re: talk of exp and 8x40">
 
 I agree with most of what Stark says. The huge amount of XP required to progress in S4 has always been apparent but I have only just realised the major difference between S3 and S4 is that the latest incantation of this game is that it is aimed squarely at the best and most hardcore gamers. And that is not me. Neither do I have the time to spend all night in a chop group just to get a level. The lack of progression is now channelling me in the direction of a break. Probably a long one. Iâ€™ll be back of course because I love Sloth and have many friends here. But it is a game after all and one should enjoy playing. When it feels like work or stops being fun, itâ€™s time to do something else.
 
@@ -225,7 +225,7 @@ Norks
 
 </div>
 
-<div class="post" data-post-id="32790" data-author="jezer" data-date="2011-08-03T23:25:18+00:00">
+<div class="post" data-post-id="32790" data-author="jezer" data-date="2011-08-03T23:25:18+00:00" data-subject="Re: talk of exp and 8x40">
 
 > **norks wrote:**
 > I agree with most of what Stark says. The huge amount of XP required to progress in S4 has always been apparent but I have only just realised the major difference between S3 and S4 is that the latest incantation of this game is that it is aimed squarely at the best and most hardcore gamers. And that is not me. Neither do I have the time to spend all night in a chop group just to get a level. The lack of progression is now channelling me in the direction of a break. Probably a long one. Iâ€™ll be back of course because I love Sloth and have many friends here. But it is a game after all and one should enjoy playing. When it feels like work or stops being fun, itâ€™s time to do something else.
@@ -234,7 +234,7 @@ Thumbs Up. Me too.
 
 </div>
 
-<div class="post" data-post-id="32796" data-author="Insomniac" data-date="2011-08-04T11:38:15+00:00">
+<div class="post" data-post-id="32796" data-author="Insomniac" data-date="2011-08-04T11:38:15+00:00" data-subject="Re: talk of exp and 8x40">
 
 > **norks wrote:**
 > The huge amount of XP required to progress in S4 has always been apparent but I have only just realised the major difference between S3 and S4 is that the latest incantation of this game is that it is aimed squarely at the best and most hardcore gamers.
@@ -251,7 +251,7 @@ Nonetheless, I don't feel good about leading groups like I've been doing because
 
 </div>
 
-<div class="post" data-post-id="32797" data-author="Cizin" data-date="2011-08-04T12:46:25+00:00">
+<div class="post" data-post-id="32797" data-author="Cizin" data-date="2011-08-04T12:46:25+00:00" data-subject="Re: talk of exp and 8x40">
 
 I have no idea what you are talking about  :P 
 
@@ -291,13 +291,13 @@ Btw. Sloth went UP while i was writing this!
 
 </div>
 
-<div class="post" data-post-id="32798" data-author="Insomniac" data-date="2011-08-05T10:38:30+00:00">
+<div class="post" data-post-id="32798" data-author="Insomniac" data-date="2011-08-05T10:38:30+00:00" data-subject="Re: talk of exp and 8x40">
 
 You're really cool, Cizin.
 
 </div>
 
-<div class="post" data-post-id="32799" data-author="Ezekiel" data-date="2011-08-05T18:07:58+00:00">
+<div class="post" data-post-id="32799" data-author="Ezekiel" data-date="2011-08-05T18:07:58+00:00" data-subject="Re: talk of exp and 8x40">
 
 I like the positive attitude you hold toward the game, Ciz, It's just that the eq and the rate at which you leveled have allowed you to enjoy the game's progression at a different rate than the rest. It is clear, by people's motivations to post here, that it seems more like a struggle/grind than enjoyment...not because people are not 'handed' things while botting...but because they put out a lot of time and effort and gain/enjoy progression of their char very minimally, maybe not having the amount of time to earn that quick progression in skill that you did.  I'm not saying I don't want to put in time to be rewarded...i'm saying that many people played S3 here and have general perceptions of reward/gain per time that they put in....and general observations from other games that they've played...and the grind is simply overreaching here. 
 
@@ -311,7 +311,7 @@ Just my perspective. -Ezekiel
 
 </div>
 
-<div class="post" data-post-id="32800" data-author="Shyla" data-date="2011-08-05T19:43:46+00:00">
+<div class="post" data-post-id="32800" data-author="Shyla" data-date="2011-08-05T19:43:46+00:00" data-subject="Re: talk of exp and 8x40">
 
 move your tushy back here norks :(
 
@@ -319,13 +319,13 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="32801" data-author="Bennett" data-date="2011-08-06T00:07:20+00:00">
+<div class="post" data-post-id="32801" data-author="Bennett" data-date="2011-08-06T00:07:20+00:00" data-subject="Re: talk of exp and 8x40">
 
 Hats off to Cizin. Clearly he understands how to play the game in a way that I just couldn't figure out.   I tried pretty hard for a while to level my char up by soloing, but I just couldn't get anywhere.   Sloth is a great game, but I don't think it is a game for the casual player like me who just wants to pop in every few nights and run an hour of xp while I drink a beer.   As far as I can tell, you have to be pretty hard-core to feel like you are getting anywhere.  At the very least, you certainly need some skills that I don't know where to acquire --- the way I run my char I don't see how I could ever make it anywhere near 9x40.
 
 </div>
 
-<div class="post" data-post-id="32805" data-author="*Splork*" data-date="2011-08-07T07:27:11+00:00">
+<div class="post" data-post-id="32805" data-author="*Splork*" data-date="2011-08-07T07:27:11+00:00" data-subject="Re: talk of exp and 8x40">
 
 Desert experience has been increased yet again, this is probably the last time.
 
@@ -337,25 +337,25 @@ Splork and team
 
 </div>
 
-<div class="post" data-post-id="32806" data-author="Sleeping Forest" data-date="2011-08-07T10:23:00+00:00">
+<div class="post" data-post-id="32806" data-author="Sleeping Forest" data-date="2011-08-07T10:23:00+00:00" data-subject="Re: talk of exp and 8x40">
 
 Thank you ever so much   :mrgreen:
 
 </div>
 
-<div class="post" data-post-id="32807" data-author="Insomniac" data-date="2011-08-07T10:48:56+00:00">
+<div class="post" data-post-id="32807" data-author="Insomniac" data-date="2011-08-07T10:48:56+00:00" data-subject="Re: talk of exp and 8x40">
 
 Thanks Rick, I'll lead some desert over the next couple of weeks and report back :)
 
 </div>
 
-<div class="post" data-post-id="32809" data-author="jezer" data-date="2011-08-08T10:46:03+00:00">
+<div class="post" data-post-id="32809" data-author="jezer" data-date="2011-08-08T10:46:03+00:00" data-subject="Re: talk of exp and 8x40">
 
 Noticeable Improvement, thanks.
 
 </div>
 
-<div class="post" data-post-id="32822" data-author="Insomniac" data-date="2011-08-13T22:40:57+00:00">
+<div class="post" data-post-id="32822" data-author="Insomniac" data-date="2011-08-13T22:40:57+00:00" data-subject="Re: talk of exp and 8x40">
 
 Fair to say Desert is now excellent exp: as good as chop normally and even slightly better than chop with a perfectly sized/balanced group (which is a rare thing these days).
 
@@ -363,7 +363,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="32824" data-author="Thraxas" data-date="2011-08-15T11:51:54+00:00">
+<div class="post" data-post-id="32824" data-author="Thraxas" data-date="2011-08-15T11:51:54+00:00" data-subject="Re: talk of exp and 8x40">
 
 Loved this thread, great read and lots of the sentiments chime with my experience.
 
@@ -390,7 +390,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="32825" data-author="Cizin" data-date="2011-08-15T16:34:25+00:00">
+<div class="post" data-post-id="32825" data-author="Cizin" data-date="2011-08-15T16:34:25+00:00" data-subject="Re: talk of exp and 8x40">
 
 It is so good to see you are alive British Man! We miss you .)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="14134" data-author="Diazz_Dizazter" data-date="2006-09-18T17:36:47+00:00">
+<div class="post" data-post-id="14134" data-author="Diazz_Dizazter" data-date="2006-09-18T17:36:47+00:00" data-subject="Idle thoughts of a regenning warrior">
 
 [quote:2y1rgtra]The name "Sloth" was chosen to embody the original philosophy of the mud, which was to make everybody's lives as easy as possible. This convenience is embodied in commands such as "hunt" and "scan", as well as a multiclass system that allows each player to eventually access a great deal of the available class abilities.[/quote:2y1rgtra]
 

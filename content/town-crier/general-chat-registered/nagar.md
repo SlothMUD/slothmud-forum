@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8285" data-author="Argeos" data-date="2005-08-13T05:56:18+00:00">
+<div class="post" data-post-id="8285" data-author="Argeos" data-date="2005-08-13T05:56:18+00:00" data-subject="-&gt; Nagar &lt;-">
 
 Anyone knowing "Nagar" or playing that char:
 

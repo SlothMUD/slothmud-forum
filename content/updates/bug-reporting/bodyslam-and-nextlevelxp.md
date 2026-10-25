@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="29352" data-author="islq" data-date="2009-06-11T00:24:37+00:00">
+<div class="post" data-post-id="29352" data-author="islq" data-date="2009-06-11T00:24:37+00:00" data-subject="bodyslam and nextLevelXP">
 
 i can't use bodyslam on any mob.
 
@@ -18,7 +18,7 @@ the nextLevelXP variable of MXP only count the first 4 class
 
 </div>
 
-<div class="post" data-post-id="29353" data-author="*Splork*" data-date="2009-06-11T01:06:04+00:00">
+<div class="post" data-post-id="29353" data-author="*Splork*" data-date="2009-06-11T01:06:04+00:00" data-subject="">
 
 I am aware of both, give me a week and ill attack them.
 
@@ -30,7 +30,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29361" data-author="Medios" data-date="2009-06-11T04:12:04+00:00">
+<div class="post" data-post-id="29361" data-author="Medios" data-date="2009-06-11T04:12:04+00:00" data-subject="">
 
 Just my input on body slam.
 

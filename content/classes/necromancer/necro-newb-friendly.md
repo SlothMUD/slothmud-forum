@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="36711" data-author="Madigan" data-date="2016-03-08T09:13:45+00:00">
+<div class="post" data-post-id="36711" data-author="Madigan" data-date="2016-03-08T09:13:45+00:00" data-subject="Necro newb friendly?">
 
 I toyed around with playing some of the new classes for the first time recently. Rolled a necro up to lvl 10, excited to try it's bread and butter lvl 10 ability.. summon undead. So off I go looking for the spellbook only to find out it pops randomly on a valk mob that cons "Are you MAD?" (still cons you need alot of luck to a 20/20). 
 
@@ -26,7 +26,7 @@ Blix
 
 </div>
 
-<div class="post" data-post-id="36712" data-author="Ertai" data-date="2016-03-08T09:54:55+00:00">
+<div class="post" data-post-id="36712" data-author="Ertai" data-date="2016-03-08T09:54:55+00:00" data-subject="Re: Necro newb friendly?">
 
 Hello.
 
@@ -44,7 +44,7 @@ Hmm, I began to write about necro spellbooks and stoped with "global" problems. 
 
 </div>
 
-<div class="post" data-post-id="36713" data-author="Madigan" data-date="2016-03-08T16:08:19+00:00">
+<div class="post" data-post-id="36713" data-author="Madigan" data-date="2016-03-08T16:08:19+00:00" data-subject="Re: Necro newb friendly?">
 
 > **Ertai wrote:**
 > Hello.
@@ -60,13 +60,13 @@ Surely you don't think I didn't attempt to kill the guy before making this post?
 
 </div>
 
-<div class="post" data-post-id="36714" data-author="Firebrand420" data-date="2016-03-08T16:20:30+00:00">
+<div class="post" data-post-id="36714" data-author="Firebrand420" data-date="2016-03-08T16:20:30+00:00" data-subject="Re: Necro newb friendly?">
 
 There's no point to exploring a new class if you can't reasonably hope to learn your prime skills/spells at or near the level the game says you can use them.  If I were brand new to Sloth and found that my prime skill/spellbooks were unavailable to me due to being unable to get help to get the books, I would lose interest in playing here.  I have been here 20 years and know where all the resources are to find something: website, friends, gossip channel, google...but new folks aren't used to the way we play and DEFINITELY don't know our website, how the eqlist works, where the books and eq load, none of that stuff we take for granted.   For those players coming from other muds that are still your basic Wa/Ma/Th/Cl options, it discourages them from exploring the Ba/Mo/Ne/Dr classes if they're expected to "play your bard like a cleric until <x> level and you get your <y> skill/spell. then your character is going to be a lot of fun".  Why can't it be fun NOW?
 
 </div>
 
-<div class="post" data-post-id="36715" data-author="*teker*" data-date="2016-03-08T21:28:39+00:00">
+<div class="post" data-post-id="36715" data-author="*teker*" data-date="2016-03-08T21:28:39+00:00" data-subject="Re: Necro newb friendly?">
 
 I'm not sure which mobs you were looking at for this book but I saw a lvl 20 kill the adept in VK quite easily today and the book should pop there.  I found it much harder to get a couple of other (less-vital) low level spellbooks - mass invis and archery.
 
@@ -76,7 +76,7 @@ I'd be interested to know what changes people think need to be made to make the 
 
 </div>
 
-<div class="post" data-post-id="36716" data-author="Teron" data-date="2016-03-09T02:58:24+00:00">
+<div class="post" data-post-id="36716" data-author="Teron" data-date="2016-03-09T02:58:24+00:00" data-subject="Re: Necro newb friendly?">
 
 Teker, a valk mob that pops a 10ne sb should be soloable by a 10lev necro, not by a 20wa/10ne.
 
@@ -94,7 +94,7 @@ Also, do realize that in the first place, the new player has to realize that it 
 
 </div>
 
-<div class="post" data-post-id="36717" data-author="Madigan" data-date="2016-03-09T09:55:57+00:00">
+<div class="post" data-post-id="36717" data-author="Madigan" data-date="2016-03-09T09:55:57+00:00" data-subject="Re: Necro newb friendly?">
 
 > **Teron wrote:**
 > Also, do realize that in the first place, the new player has to realize that it is adept that pops the sb. I'm not entirely sure all 10nes go to kill the adept immediately. Maybe do smth about it.
@@ -103,7 +103,7 @@ Great point. I'll be honest, I thought the adept was a guild npc... it took me q
 
 </div>
 
-<div class="post" data-post-id="36718" data-author="Madigan" data-date="2016-03-09T10:12:12+00:00">
+<div class="post" data-post-id="36718" data-author="Madigan" data-date="2016-03-09T10:12:12+00:00" data-subject="Re: Necro newb friendly?">
 
 > ***teker* wrote:**
 > I'm not sure which mobs you were looking at for this book but I saw a lvl 20 kill the adept in VK quite easily today and the book should pop there.
@@ -129,7 +129,7 @@ PS - I would be interested in working to implement a change like this if it were
 
 </div>
 
-<div class="post" data-post-id="36720" data-author="*teker*" data-date="2016-03-09T21:10:49+00:00">
+<div class="post" data-post-id="36720" data-author="*teker*" data-date="2016-03-09T21:10:49+00:00" data-subject="Re: Necro newb friendly?">
 
 > **Quote:**
 > Thinking out loud there... but possibly you get your core abilities by completed the quests rather than hunting spellbooks?
@@ -138,7 +138,7 @@ I like the idea.  I could see it two ways - either the guildmasters give quests 
 
 </div>
 
-<div class="post" data-post-id="38229" data-author="Hermoon" data-date="2017-04-23T10:01:35+00:00">
+<div class="post" data-post-id="38229" data-author="Hermoon" data-date="2017-04-23T10:01:35+00:00" data-subject="Re: Necro newb friendly?">
 
 Regards new players having difficulty acquiring newbie spellbooks - this has been my experience with several classes. At times you need to acquire a skill/spell in order to play effectively, but it is sometimes virtually impossible for a lowbie to kill the relevant mobs or enter the areas where the mobs are located. Raising the subject on the newbie channel elicits a response of disbelief from established players.
 

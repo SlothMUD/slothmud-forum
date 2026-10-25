@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="30124" data-author="jezer" data-date="2009-10-18T21:18:06+00:00">
+<div class="post" data-post-id="30124" data-author="jezer" data-date="2009-10-18T21:18:06+00:00" data-subject="Your thoughts on class orders...">
 
 I started an experimental classo on this new mud... Dr Mo... I wanted to give it a go, also another part of me didn't want to make a too powerful classo that might trap me into playing this game more than I should (at this stage in life). How many times have I justified playing an extra hour just because times were ripe  :twisted: 
 
@@ -30,7 +30,7 @@ It seems obvious that non monk prime is fairly crap for deathgrip, and even if d
 
 </div>
 
-<div class="post" data-post-id="30126" data-author="Thraxas" data-date="2009-10-18T23:08:42+00:00">
+<div class="post" data-post-id="30126" data-author="Thraxas" data-date="2009-10-18T23:08:42+00:00" data-subject="">
 
 Seems to me that at 8x40 the biggest impact your classo will have on you is your prime choice. 
 
@@ -52,7 +52,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30127" data-author="*juggleblood*" data-date="2009-10-18T23:11:33+00:00">
+<div class="post" data-post-id="30127" data-author="*juggleblood*" data-date="2009-10-18T23:11:33+00:00" data-subject="">
 
 I'd imagine for solo xp you'd be best off with thief prime or necro prime. 
 
@@ -60,7 +60,7 @@ Solo xp is rough though. Don't know why you'd want to do it.
 
 </div>
 
-<div class="post" data-post-id="30129" data-author="Thraxas" data-date="2009-10-18T23:22:00+00:00">
+<div class="post" data-post-id="30129" data-author="Thraxas" data-date="2009-10-18T23:22:00+00:00" data-subject="">
 
 If played right Druid prime will outstrip either thief or necro solo xp pre 4x40, after that, well the thief if probably the fastest solo xp if they can get a raiser on hand.
 
@@ -68,7 +68,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30130" data-author="Thraxas" data-date="2009-10-18T23:23:00+00:00">
+<div class="post" data-post-id="30130" data-author="Thraxas" data-date="2009-10-18T23:23:00+00:00" data-subject="">
 
 Solo xp is rough though. Don't know why you'd want to do it.[/quote:25rvivta]
 
@@ -78,7 +78,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30131" data-author="jezer" data-date="2009-10-18T23:57:23+00:00">
+<div class="post" data-post-id="30131" data-author="jezer" data-date="2009-10-18T23:57:23+00:00" data-subject="">
 
 What about mage primes with with warrior ac, druid regen, and necro pets? I know someone who thinks that's rockin.
 
@@ -88,13 +88,13 @@ EDIT: What I am getting at here... is Druid although it was God's wrath with goo
 
 </div>
 
-<div class="post" data-post-id="30134" data-author="sirrico1" data-date="2009-10-19T03:09:40+00:00">
+<div class="post" data-post-id="30134" data-author="sirrico1" data-date="2009-10-19T03:09:40+00:00" data-subject="">
 
 personaly I think if you take and get some monk grip items you would have a good character, but I am bias since my wife runs a monk prime. but I've seen what a good grip can do *shrugs*
 
 </div>
 
-<div class="post" data-post-id="30136" data-author="Tap" data-date="2009-10-19T09:54:27+00:00">
+<div class="post" data-post-id="30136" data-author="Tap" data-date="2009-10-19T09:54:27+00:00" data-subject="">
 
 [quote:2z6hko00]I've seen what a good grip can do *shrugs*[/quote:2z6hko00]
 
@@ -102,7 +102,7 @@ personaly I think if you take and get some monk grip items you would have a good
 
 </div>
 
-<div class="post" data-post-id="30139" data-author="*juggleblood*" data-date="2009-10-19T21:42:47+00:00">
+<div class="post" data-post-id="30139" data-author="*juggleblood*" data-date="2009-10-19T21:42:47+00:00" data-subject="">
 
 Don't take my opinions on this too seriously, because I haven't been playing much and there's a lot I don't know about the new game.
 

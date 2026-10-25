@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="37982" data-author="*juggleblood*" data-date="2017-01-22T00:33:48+00:00">
+<div class="post" data-post-id="37982" data-author="*juggleblood*" data-date="2017-01-22T00:33:48+00:00" data-subject="Where to go with coli">
 
 Several of the rebirths seem to be disappointed that there's no coli for them.  My reasons for closing it to them are two-fold, one is that it creates an unfair playing field and we've been working really hard to accomplish that, the other is that I don't want the scores to get a lot higher, because in my opinion too much honor and drachma comes from coli already. Pushing scores up in every level would make it even more important for rank and drachma gear and some people aren't that interested in doing the coliseum.
 
@@ -22,7 +22,7 @@ Or not. I'm open to whatever. I'd be interested in hearing what non-rebirths thi
 
 </div>
 
-<div class="post" data-post-id="37983" data-author="*Idjit*" data-date="2017-01-22T05:36:11+00:00">
+<div class="post" data-post-id="37983" data-author="*Idjit*" data-date="2017-01-22T05:36:11+00:00" data-subject="Re: Where to go with coli">
 
 I thought about this, for rebirths for the existing coliseum, and what I thought was:
 
@@ -42,7 +42,7 @@ Just a thought.
 
 </div>
 
-<div class="post" data-post-id="37984" data-author="*Idjit*" data-date="2017-01-22T05:58:12+00:00">
+<div class="post" data-post-id="37984" data-author="*Idjit*" data-date="2017-01-22T05:58:12+00:00" data-subject="Re: Where to go with coli">
 
 Depending how excited you are about the preceding idea, you could tailor the max number of tries and have fewer tries for the lower coliseums (where we are concerned about abuse mostly and where the highest scores would be), and dole out larger # of tries (but still not very many, like 7) for chambers 3x40 and up where a good score for the casual coliseum goer is only 5 to 10 kills anyway against those tougher enemies.  
 
@@ -54,7 +54,7 @@ Or keep it very simple and only have one run, as I'd said.
 
 </div>
 
-<div class="post" data-post-id="37987" data-author="Gorka" data-date="2017-01-22T09:45:31+00:00">
+<div class="post" data-post-id="37987" data-author="Gorka" data-date="2017-01-22T09:45:31+00:00" data-subject="Re: Where to go with coli">
 
 I like the coliseum, I like sub games in games. I like the loot, I like how doing something 10000 times teaches you about the game and efficiency. I think the coliseum is a great sub game in sloth. I support all new ideas and expansions.
 
@@ -104,7 +104,7 @@ Lastly I offer to help you make it, or work with you to design the config system
 
 </div>
 
-<div class="post" data-post-id="37988" data-author="*juggleblood*" data-date="2017-01-22T13:59:34+00:00">
+<div class="post" data-post-id="37988" data-author="*juggleblood*" data-date="2017-01-22T13:59:34+00:00" data-subject="Re: Where to go with coli">
 
 The main limitation we have to stick by is that there would be no incentive to run thru it / farm it forever. No forever loot of any kind. It has to be a game to be played for it's limited objectives and then ends.  Otherwise it becomes a botting chamber like before.
 
@@ -114,7 +114,7 @@ Regarding a limited number of attempts, I think it would be very unsatisfactory 
 
 </div>
 
-<div class="post" data-post-id="37993" data-author="Teron" data-date="2017-01-23T15:24:10+00:00">
+<div class="post" data-post-id="37993" data-author="Teron" data-date="2017-01-23T15:24:10+00:00" data-subject="Re: Where to go with coli">
 
 I think you overestimate how good rebirths are or will be at the coliseum and how easy it is to get high scores.
 
@@ -144,7 +144,7 @@ You could nerf drachma rewards for rebirthers, but let them in and tally their s
 
 </div>
 
-<div class="post" data-post-id="37997" data-author="*juggleblood*" data-date="2017-01-26T20:01:18+00:00">
+<div class="post" data-post-id="37997" data-author="*juggleblood*" data-date="2017-01-26T20:01:18+00:00" data-subject="Re: Where to go with coli">
 
 Well so far, players are more in favor of allowing rebirths than not. Not a single person has offered the opinion that it's unfair.
 

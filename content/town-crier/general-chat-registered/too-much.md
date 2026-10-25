@@ -10,7 +10,7 @@ locked: false
 post_count: 32
 ---
 
-<div class="post" data-post-id="25975" data-author="Mosaix" data-date="2008-08-29T05:38:14+00:00">
+<div class="post" data-post-id="25975" data-author="Mosaix" data-date="2008-08-29T05:38:14+00:00" data-subject="Too much">
 
 With recent events and prior events, at this time it makes no sense to continue with DoW, and I have removed myself via clan quit.
 
@@ -22,13 +22,13 @@ Happy mudding
 
 </div>
 
-<div class="post" data-post-id="26010" data-author="Medios" data-date="2008-08-30T14:52:10+00:00">
+<div class="post" data-post-id="26010" data-author="Medios" data-date="2008-08-30T14:52:10+00:00" data-subject="">
 
 Aaron prob just got a boner via magic knowledge.
 
 </div>
 
-<div class="post" data-post-id="26015" data-author="Medios" data-date="2008-08-30T17:29:07+00:00">
+<div class="post" data-post-id="26015" data-author="Medios" data-date="2008-08-30T17:29:07+00:00" data-subject="">
 
 By the way.  Mosaix never contributed anything to DoW.  There were several arguments with him and Aaron or him and Al.  There was even supposedly stuff stolen, money, eq, characters.  I was never involved in any of those things and in fact tried to keep the peace.  Somehow I always end up to the bad guy in some peoples minds.  That is fine because I remember the whining and bitching and situations that I had to remedy.  I also remember the lack of any skill on the game including soloing anything for yourself.  I will not apologize because I don't follow the liberal arguments of something for nothing and welfare for all on the backs of the hard workers.  I am personally relieved that I don't have to hear anymore of your bullshit in clan chat(mostly whining).  Some day you will grow up and do something for yourself and find out it works alot better than bitching and moaning until someone else does it for you.  You can come here and call me a racist and whatever other personal attacks you want to start.  I didn't start this, but I will finish it.  Your worthless in my eyes.  Like I said above you never contributed, nor tried to contribute to anything other than your xp.  I never thought you were DoW material however some people thought you would be a help.  Guess what once again I was right.  Hopefully you can join Dragonsworn.  I hear they give n00bs gear and help.  
 
@@ -40,13 +40,13 @@ Edit:  I forgot to mention how when Broc was running a pthief he even stole from
 
 </div>
 
-<div class="post" data-post-id="26016" data-author="Tap" data-date="2008-08-30T19:09:23+00:00">
+<div class="post" data-post-id="26016" data-author="Tap" data-date="2008-08-30T19:09:23+00:00" data-subject="">
 
 I have pthieves.
 
 </div>
 
-<div class="post" data-post-id="26017" data-author="Mosaix" data-date="2008-08-30T19:24:47+00:00">
+<div class="post" data-post-id="26017" data-author="Mosaix" data-date="2008-08-30T19:24:47+00:00" data-subject="">
 
 Spin is a great thing, gives those with nothing something to stand on.
 
@@ -72,19 +72,19 @@ If your so bored with this game that so many in sloth are newbs and idiots, mayb
 
 </div>
 
-<div class="post" data-post-id="26021" data-author="Medios" data-date="2008-08-30T23:06:54+00:00">
+<div class="post" data-post-id="26021" data-author="Medios" data-date="2008-08-30T23:06:54+00:00" data-subject="">
 
 At least you admit your a pthief.
 
 </div>
 
-<div class="post" data-post-id="26025" data-author="brady" data-date="2008-08-31T00:59:14+00:00">
+<div class="post" data-post-id="26025" data-author="brady" data-date="2008-08-31T00:59:14+00:00" data-subject="">
 
 I agree, Autolycos is a fraud.
 
 </div>
 
-<div class="post" data-post-id="26032" data-author="Autolycos" data-date="2008-08-31T03:50:17+00:00">
+<div class="post" data-post-id="26032" data-author="Autolycos" data-date="2008-08-31T03:50:17+00:00" data-subject="">
 
 I agree, Autolycos is a fraud.[/quote:2fwmwki0]
 
@@ -94,7 +94,7 @@ i'm just so tired of being a nice guy  ;)
 
 </div>
 
-<div class="post" data-post-id="26036" data-author="Poggle" data-date="2008-08-31T09:38:37+00:00">
+<div class="post" data-post-id="26036" data-author="Poggle" data-date="2008-08-31T09:38:37+00:00" data-subject="">
 
 It's ok,  Auto...
 
@@ -112,13 +112,13 @@ It is a flaw.
 
 </div>
 
-<div class="post" data-post-id="26038" data-author="angel" data-date="2008-08-31T09:55:01+00:00">
+<div class="post" data-post-id="26038" data-author="angel" data-date="2008-08-31T09:55:01+00:00" data-subject="">
 
 interesting :)
 
 </div>
 
-<div class="post" data-post-id="26063" data-author="alias" data-date="2008-09-01T18:35:18+00:00">
+<div class="post" data-post-id="26063" data-author="alias" data-date="2008-09-01T18:35:18+00:00" data-subject="">
 
 Sorry Your clan is falling apart or restructuring so to speak. 
 
@@ -128,19 +128,19 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="26064" data-author="Tap" data-date="2008-09-01T20:56:56+00:00">
+<div class="post" data-post-id="26064" data-author="Tap" data-date="2008-09-01T20:56:56+00:00" data-subject="">
 
 Someone is getting payed to play? where do I sign up for that position? Does it come with a 401k plan? details please!!!
 
 </div>
 
-<div class="post" data-post-id="26069" data-author="Yinao" data-date="2008-09-02T01:42:34+00:00">
+<div class="post" data-post-id="26069" data-author="Yinao" data-date="2008-09-02T01:42:34+00:00" data-subject="">
 
 This one time, this clan... Oh nvm, I got all my newb eq from ~Dragonsworn~ considering I joined being near avatar wearing leathers and cloth stuffs for mana...
 
 </div>
 
-<div class="post" data-post-id="26072" data-author="Krok" data-date="2008-09-02T03:28:28+00:00">
+<div class="post" data-post-id="26072" data-author="Krok" data-date="2008-09-02T03:28:28+00:00" data-subject="">
 
 Gief moar drama plx. Sometimes I even wanna come back :)
 
@@ -148,13 +148,13 @@ Calling everyone else a noob is kinda DoW's feature btw. And Pirates are the gre
 
 </div>
 
-<div class="post" data-post-id="26075" data-author="osric" data-date="2008-09-02T05:49:01+00:00">
+<div class="post" data-post-id="26075" data-author="osric" data-date="2008-09-02T05:49:01+00:00" data-subject="">
 
 Noobs? What are they?
 
 </div>
 
-<div class="post" data-post-id="26079" data-author="Yinao" data-date="2008-09-02T08:27:17+00:00">
+<div class="post" data-post-id="26079" data-author="Yinao" data-date="2008-09-02T08:27:17+00:00" data-subject="">
 
 Noobs? What are they?[/quote:2dxv9d9v]
 
@@ -162,7 +162,7 @@ Like boobs but sweeter
 
 </div>
 
-<div class="post" data-post-id="26080" data-author="reboog" data-date="2008-09-02T09:09:50+00:00">
+<div class="post" data-post-id="26080" data-author="reboog" data-date="2008-09-02T09:09:50+00:00" data-subject="">
 
 It's ok,  Auto...
 
@@ -182,7 +182,7 @@ ur so srs
 
 </div>
 
-<div class="post" data-post-id="26087" data-author="brady" data-date="2008-09-02T12:23:48+00:00">
+<div class="post" data-post-id="26087" data-author="brady" data-date="2008-09-02T12:23:48+00:00" data-subject="">
 
 Gief moar drama plx. Sometimes I even wanna come back :)
 
@@ -192,7 +192,7 @@ I thought you were eaten by a bear.
 
 </div>
 
-<div class="post" data-post-id="26097" data-author="alias" data-date="2008-09-02T18:33:42+00:00">
+<div class="post" data-post-id="26097" data-author="alias" data-date="2008-09-02T18:33:42+00:00" data-subject="">
 
 I think maybe it was a guy named "Bear" and it might have been a short term relationship. Come back when you need some more abuse.
 
@@ -200,13 +200,13 @@ We miss your hotness
 
 </div>
 
-<div class="post" data-post-id="26100" data-author="Mosaix" data-date="2008-09-02T19:30:35+00:00">
+<div class="post" data-post-id="26100" data-author="Mosaix" data-date="2008-09-02T19:30:35+00:00" data-subject="">
 
 Krok needs to come back!
 
 </div>
 
-<div class="post" data-post-id="26101" data-author="Medios" data-date="2008-09-02T19:52:42+00:00">
+<div class="post" data-post-id="26101" data-author="Medios" data-date="2008-09-02T19:52:42+00:00" data-subject="">
 
 By the way.  Mosaix never contributed anything to DoW.  There were several arguments with him and Aaron or him and Al.  There was even supposedly stuff stolen, money, eq, characters.  I was never involved in any of those things and in fact tried to keep the peace.  Somehow I always end up to the bad guy in some peoples minds.  That is fine because I remember the whining and bitching and situations that I had to remedy.  I also remember the lack of any skill on the game including soloing anything for yourself.  I will not apologize because I don't follow the liberal arguments of something for nothing and welfare for all on the backs of the hard workers.  I am personally relieved that I don't have to hear anymore of your bullshit in clan chat(mostly whining).  Some day you will grow up and do something for yourself and find out it works alot better than bitching and moaning until someone else does it for you.  You can come here and call me a racist and whatever other personal attacks you want to start.  I didn't start this, but I will finish it.  Your worthless in my eyes.  Like I said above you never contributed, nor tried to contribute to anything other than your xp.  I never thought you were DoW material however some people thought you would be a help.  Guess what once again I was right.  [b:3weuuj8m]Hopefully you can join Dragonsworn.  I hear they give n00bs gear and help.  [/b:3weuuj8m]
 
@@ -220,7 +220,7 @@ Apparently this part in bold is hard for some to understand.  It in no way calls
 
 </div>
 
-<div class="post" data-post-id="26102" data-author="Medios" data-date="2008-09-02T20:04:35+00:00">
+<div class="post" data-post-id="26102" data-author="Medios" data-date="2008-09-02T20:04:35+00:00" data-subject="">
 
 Sorry Your clan is falling apart or restructuring so to speak. 
 
@@ -234,7 +234,7 @@ We will be recruiting soon in the future.  I am sure after reading some of the l
 
 </div>
 
-<div class="post" data-post-id="26103" data-author="Mosaix" data-date="2008-09-02T21:07:56+00:00">
+<div class="post" data-post-id="26103" data-author="Mosaix" data-date="2008-09-02T21:07:56+00:00" data-subject="">
 
 Noob yourself :)
 
@@ -252,7 +252,7 @@ Happy Mudding.
 
 </div>
 
-<div class="post" data-post-id="26104" data-author="Weasel" data-date="2008-09-02T21:31:50+00:00">
+<div class="post" data-post-id="26104" data-author="Weasel" data-date="2008-09-02T21:31:50+00:00" data-subject="">
 
 Y'all need to chill with the clan stuff and do something relaxing.. like fishing.
 
@@ -264,7 +264,7 @@ That's what the [b:2jwpk3tp]=[/color:2jwpk3tp]sMAc=[/color:2jwpk3tp][/b:2jwpk3tp
 
 </div>
 
-<div class="post" data-post-id="26119" data-author="Gimlet" data-date="2008-09-03T09:36:14+00:00">
+<div class="post" data-post-id="26119" data-author="Gimlet" data-date="2008-09-03T09:36:14+00:00" data-subject="">
 
 I've tried to stay away from these clan disputes because quite honestly it makes everyone look bad...it's a game afterall.
 
@@ -276,7 +276,7 @@ chill and play
 
 </div>
 
-<div class="post" data-post-id="26120" data-author="Guinex" data-date="2008-09-03T11:13:32+00:00">
+<div class="post" data-post-id="26120" data-author="Guinex" data-date="2008-09-03T11:13:32+00:00" data-subject="">
 
 Nubs!
 
@@ -284,7 +284,7 @@ Nubs!
 
 </div>
 
-<div class="post" data-post-id="26121" data-author="Mosaix" data-date="2008-09-03T13:30:18+00:00">
+<div class="post" data-post-id="26121" data-author="Mosaix" data-date="2008-09-03T13:30:18+00:00" data-subject="">
 
 chill and play[/quote:2lj5p9ut]
 
@@ -292,13 +292,13 @@ Excellent idea.
 
 </div>
 
-<div class="post" data-post-id="26123" data-author="Weasel" data-date="2008-09-03T14:00:06+00:00">
+<div class="post" data-post-id="26123" data-author="Weasel" data-date="2008-09-03T14:00:06+00:00" data-subject="">
 
 didn't I just say that in the previous post? lol
 
 </div>
 
-<div class="post" data-post-id="26124" data-author="jezer" data-date="2008-09-03T14:11:49+00:00">
+<div class="post" data-post-id="26124" data-author="jezer" data-date="2008-09-03T14:11:49+00:00" data-subject="">
 
 didn't I just say that in the previous post? lol[/quote:33jzui9j]
 
@@ -306,7 +306,7 @@ Did you hear that noise Mosaix? It sounded like something scratching...
 
 </div>
 
-<div class="post" data-post-id="26125" data-author="Mosaix" data-date="2008-09-03T15:41:36+00:00">
+<div class="post" data-post-id="26125" data-author="Mosaix" data-date="2008-09-03T15:41:36+00:00" data-subject="">
 
 Y'all need to chill with the clan stuff and do something relaxing.. like fishing.[/quote:2rrvicpq]
 
@@ -314,13 +314,13 @@ You were correct, and was content to let your post close out the thread.  It sai
 
 </div>
 
-<div class="post" data-post-id="26126" data-author="Mosaix" data-date="2008-09-03T15:46:57+00:00">
+<div class="post" data-post-id="26126" data-author="Mosaix" data-date="2008-09-03T15:46:57+00:00" data-subject="">
 
 [img:2f7m144k]http://i45.photobucket.com/albums/f91/aprilp828v/LOLs/funny-dog-pictures-weasel-be-gone-d.jpg[/img:2f7m144k]
 
 </div>
 
-<div class="post" data-post-id="26127" data-author="Weasel" data-date="2008-09-03T17:47:08+00:00">
+<div class="post" data-post-id="26127" data-author="Weasel" data-date="2008-09-03T17:47:08+00:00" data-subject="">
 
 lol great pic! haven't seen that one before, thanks :)
 

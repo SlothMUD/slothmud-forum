@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="26941" data-author="Weasel" data-date="2008-11-01T16:46:02+00:00">
+<div class="post" data-post-id="26941" data-author="Weasel" data-date="2008-11-01T16:46:02+00:00" data-subject="excruciating blow or triple stab voids honor reward">
 
 I don't know if it's the triple stab at the start or the excruciating blow at the end, but one of them (probably the killing excruciating blow) appears to stop honor points being rewarded. See the four examples following, which actually occurred in this exact order, one after another: 
 
@@ -244,19 +244,19 @@ A blood curdling howl can be heard as a troll warrior falls victim to an excruci
 
 </div>
 
-<div class="post" data-post-id="26946" data-author="Medios" data-date="2008-11-01T23:04:56+00:00">
+<div class="post" data-post-id="26946" data-author="Medios" data-date="2008-11-01T23:04:56+00:00" data-subject="">
 
 The problem is that you didnt receive a full round of combat.  On honor mobs other than quickling assassins you need at least one full round of combat in order to receive points.  If your a super stabber you need to remove some dmg items or don't immediately blast when you hit a big stab.  I don't know what else to say.  If the mob dies during the round it won't count.  Only from a kick, spell, etc after the melee.
 
 </div>
 
-<div class="post" data-post-id="26947" data-author="Weasel" data-date="2008-11-01T23:58:32+00:00">
+<div class="post" data-post-id="26947" data-author="Weasel" data-date="2008-11-01T23:58:32+00:00" data-subject="">
 
 Thanks for that info.
 
 </div>
 
-<div class="post" data-post-id="26970" data-author="Vixn" data-date="2008-11-03T07:18:56+00:00">
+<div class="post" data-post-id="26970" data-author="Vixn" data-date="2008-11-03T07:18:56+00:00" data-subject="">
 
 I'm surprised Weasel still get exp killing trolls.
 
@@ -266,7 +266,7 @@ Prob imms must fix it.
 
 </div>
 
-<div class="post" data-post-id="26971" data-author="Weasel" data-date="2008-11-03T13:22:10+00:00">
+<div class="post" data-post-id="26971" data-author="Weasel" data-date="2008-11-03T13:22:10+00:00" data-subject="">
 
 huh?
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 29
 ---
 
-<div class="post" data-post-id="14735" data-author="*Splork*" data-date="2006-10-23T20:54:00+00:00">
+<div class="post" data-post-id="14735" data-author="*Splork*" data-date="2006-10-23T20:54:00+00:00" data-subject="Sloth Blog">
 
 Broeggle has finished the output for a new webpage for us, the addie is [http://www.slothmud.org/index.php?module=Sloth_Blog](http://www.slothmud.org/index.php?module=Sloth_Blog)
 
@@ -22,7 +22,7 @@ If you have anymore events you would like me to log, please let me know and I ca
 
 </div>
 
-<div class="post" data-post-id="14743" data-author="Dreco" data-date="2006-10-24T17:31:34+00:00">
+<div class="post" data-post-id="14743" data-author="Dreco" data-date="2006-10-24T17:31:34+00:00" data-subject="">
 
 Very nice! Is the data live ? if it is, not showing completed quests, if it isnt live i'll check again later :)
 
@@ -30,7 +30,7 @@ P.s. Lifeless vs Liveless ?
 
 </div>
 
-<div class="post" data-post-id="14744" data-author="*Splork*" data-date="2006-10-24T21:09:00+00:00">
+<div class="post" data-post-id="14744" data-author="*Splork*" data-date="2006-10-24T21:09:00+00:00" data-subject="">
 
 I think there are a couple bugs in my logging but the blog should be pretty close to live. I will see if  I can fix the things I have noticed tonight.
 
@@ -38,7 +38,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14745" data-author="*Splork*" data-date="2006-10-24T22:38:15+00:00">
+<div class="post" data-post-id="14745" data-author="*Splork*" data-date="2006-10-24T22:38:15+00:00" data-subject="">
 
 I've fixed a couple small bugs that was causing some odd behavior in our output. 
 
@@ -48,19 +48,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14746" data-author="Rynquald" data-date="2006-10-24T22:39:13+00:00">
+<div class="post" data-post-id="14746" data-author="Rynquald" data-date="2006-10-24T22:39:13+00:00" data-subject="">
 
 Would be nice if it listed when epic mobs were killed, maybe like "Atwell lead 24 adventurers to victory against Baraneth, the golden scaled dragoness." kind of thing, if that's possible.
 
 </div>
 
-<div class="post" data-post-id="14747" data-author="13" data-date="2006-10-24T23:03:14+00:00">
+<div class="post" data-post-id="14747" data-author="13" data-date="2006-10-24T23:03:14+00:00" data-subject="">
 
 *clap*
 
 </div>
 
-<div class="post" data-post-id="14748" data-author="Avatar" data-date="2006-10-25T13:37:33+00:00">
+<div class="post" data-post-id="14748" data-author="Avatar" data-date="2006-10-25T13:37:33+00:00" data-subject="Blog">
 
 ** the Grand Magus showed Chi the path to enlightenment - the Grand Magus is now prime Level 40 at 9 o'clock am on the Day of the Moon
 
@@ -70,7 +70,7 @@ Very entertaining btw, looks like a very cool addition.
 
 </div>
 
-<div class="post" data-post-id="14749" data-author="*Splork*" data-date="2006-10-25T18:25:58+00:00">
+<div class="post" data-post-id="14749" data-author="*Splork*" data-date="2006-10-25T18:25:58+00:00" data-subject="">
 
 I've cleaned up a couple more bugs, including the one listed by Avatar, thanks and added a few more entertaining messages for people.
 
@@ -80,7 +80,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14750" data-author="Vixn" data-date="2006-10-25T20:13:57+00:00">
+<div class="post" data-post-id="14750" data-author="Vixn" data-date="2006-10-25T20:13:57+00:00" data-subject="">
 
 ** Baraneth slew Clink at Sat Sep 30 07:42:12 2006
 
@@ -88,7 +88,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14753" data-author="Corinn" data-date="2006-10-26T03:51:55+00:00">
+<div class="post" data-post-id="14753" data-author="Corinn" data-date="2006-10-26T03:51:55+00:00" data-subject="">
 
 ** Demogorgon obliterated Splork at 10 o'clock am on the Day of the Moon
 
@@ -96,7 +96,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14754" data-author="Weasel" data-date="2006-10-26T04:16:31+00:00">
+<div class="post" data-post-id="14754" data-author="Weasel" data-date="2006-10-26T04:16:31+00:00" data-subject="">
 
 Raises don't seem to be showing anymore.. did one and hour or so ago, but not on list.
 
@@ -108,13 +108,13 @@ Also noticed this kinda screwy entry:
 
 </div>
 
-<div class="post" data-post-id="14755" data-author="Weasel" data-date="2006-10-26T04:18:06+00:00">
+<div class="post" data-post-id="14755" data-author="Weasel" data-date="2006-10-26T04:18:06+00:00" data-subject="">
 
 ..and yes, I'm aware it's still being worked on - this info is intended to be helpful, not critical..
 
 </div>
 
-<div class="post" data-post-id="14764" data-author="Corinn" data-date="2006-10-27T15:14:49+00:00">
+<div class="post" data-post-id="14764" data-author="Corinn" data-date="2006-10-27T15:14:49+00:00" data-subject="Auto, you meanie!">
 
 ** Connor naively fought Autolycos and lost at 2 o'clock pm on the Day of the Great Gods
 
@@ -160,7 +160,7 @@ Also noticed this kinda screwy entry:
 
 </div>
 
-<div class="post" data-post-id="14765" data-author="Autolycos" data-date="2006-10-27T19:48:09+00:00">
+<div class="post" data-post-id="14765" data-author="Autolycos" data-date="2006-10-27T19:48:09+00:00" data-subject="">
 
 cackle!   :twisted: 
 
@@ -172,13 +172,13 @@ I simply said yes, I do... and it's a hellalot of fun!!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14774" data-author="tincts" data-date="2006-10-28T03:06:13+00:00">
+<div class="post" data-post-id="14774" data-author="tincts" data-date="2006-10-28T03:06:13+00:00" data-subject="">
 
 so - who won?
 
 </div>
 
-<div class="post" data-post-id="14779" data-author="broeggle" data-date="2006-10-28T13:17:47+00:00">
+<div class="post" data-post-id="14779" data-author="broeggle" data-date="2006-10-28T13:17:47+00:00" data-subject="">
 
 Hi,
 
@@ -198,13 +198,13 @@ broeggle
 
 </div>
 
-<div class="post" data-post-id="14780" data-author="Jag" data-date="2006-10-28T13:57:44+00:00">
+<div class="post" data-post-id="14780" data-author="Jag" data-date="2006-10-28T13:57:44+00:00" data-subject="">
 
 Nice addition to the web site.  Thanks
 
 </div>
 
-<div class="post" data-post-id="14817" data-author="broeggle" data-date="2006-10-30T17:35:32+00:00">
+<div class="post" data-post-id="14817" data-author="broeggle" data-date="2006-10-30T17:35:32+00:00" data-subject="RSS feed">
 
 Hi
 
@@ -218,13 +218,13 @@ Please tell me what you think about it :)
 
 </div>
 
-<div class="post" data-post-id="14824" data-author="Malison" data-date="2006-10-30T22:32:13+00:00">
+<div class="post" data-post-id="14824" data-author="Malison" data-date="2006-10-30T22:32:13+00:00" data-subject="">
 
 What's the RSS thing supposed to do?  I've tried clicking the link both in the post and on the blog, as well as typing out the address, and nothing ever comes up.  The blog's link opened up an empty browser window...
 
 </div>
 
-<div class="post" data-post-id="14827" data-author="*Splork*" data-date="2006-10-30T23:34:28+00:00">
+<div class="post" data-post-id="14827" data-author="*Splork*" data-date="2006-10-30T23:34:28+00:00" data-subject="">
 
 Broeggle is going to write up a small tutorial tomorrow along with a small summary of what RSS is.
 
@@ -234,7 +234,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14828" data-author="13" data-date="2006-10-30T23:53:00+00:00">
+<div class="post" data-post-id="14828" data-author="13" data-date="2006-10-30T23:53:00+00:00" data-subject="">
 
 Hi,
 
@@ -244,13 +244,13 @@ Has anyone considered looking here?
 
 </div>
 
-<div class="post" data-post-id="14830" data-author="Weasel" data-date="2006-10-31T01:06:14+00:00">
+<div class="post" data-post-id="14830" data-author="Weasel" data-date="2006-10-31T01:06:14+00:00" data-subject="">
 
 err.. feed.rss.php? do you have it in .xml format?
 
 </div>
 
-<div class="post" data-post-id="14832" data-author="*Splork*" data-date="2006-10-31T02:44:14+00:00">
+<div class="post" data-post-id="14832" data-author="*Splork*" data-date="2006-10-31T02:44:14+00:00" data-subject="">
 
 I've removed the old blog for several reasons but mostly because I fixed Weasel's bug and I did not feel like manually editing hundreds of entries.
 
@@ -260,7 +260,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14846" data-author="broeggle" data-date="2006-10-31T16:58:33+00:00">
+<div class="post" data-post-id="14846" data-author="broeggle" data-date="2006-10-31T16:58:33+00:00" data-subject="">
 
 Hi - the blog is fixed and up again - now even mobs with ugly names appear correctly in the blog - thanks to splork - I did just a minor change in order to fix it.
 
@@ -276,7 +276,7 @@ Peter
 
 </div>
 
-<div class="post" data-post-id="14850" data-author="Weasel" data-date="2006-10-31T20:11:44+00:00">
+<div class="post" data-post-id="14850" data-author="Weasel" data-date="2006-10-31T20:11:44+00:00" data-subject="">
 
 No worries, I'll get it sussed - one parser I use converts xml docs to HTML format for publishing, but it seems to have issue with that extension (although there's an updated version coming out soon, so that issue will likely solve itself).. as you mentioned, I can just load it up in FireFox anyway. 
 
@@ -286,7 +286,7 @@ Are we able to add an argument to that URL of [<LINK_TEXT text="http://www.sloth
 
 </div>
 
-<div class="post" data-post-id="14851" data-author="broeggle" data-date="2006-10-31T21:21:21+00:00">
+<div class="post" data-post-id="14851" data-author="broeggle" data-date="2006-10-31T21:21:21+00:00" data-subject="">
 
 Hi
 
@@ -302,7 +302,7 @@ Hehe - may be there a some other features you can think off - tell me :)
 
 </div>
 
-<div class="post" data-post-id="14852" data-author="Weasel" data-date="2006-10-31T21:40:36+00:00">
+<div class="post" data-post-id="14852" data-author="Weasel" data-date="2006-10-31T21:40:36+00:00" data-subject="">
 
 Thanks :)
 
@@ -310,7 +310,7 @@ If you're into doing feeds atm, feeds from the 'who's online' and 'who's groupin
 
 </div>
 
-<div class="post" data-post-id="15288" data-author="broeggle" data-date="2006-11-22T23:45:41+00:00">
+<div class="post" data-post-id="15288" data-author="broeggle" data-date="2006-11-22T23:45:41+00:00" data-subject="RSS Tutorial">
 
 So - sorry it took so long,  was a bit busy the last time.
 
@@ -328,7 +328,7 @@ broeggle
 
 </div>
 
-<div class="post" data-post-id="15290" data-author="osric" data-date="2006-11-23T07:34:11+00:00">
+<div class="post" data-post-id="15290" data-author="osric" data-date="2006-11-23T07:34:11+00:00" data-subject="">
 
 Nice this sounds really kinda cool, I dig the firefox in German too!
 

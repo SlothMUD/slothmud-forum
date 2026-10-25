@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="28570" data-author="Yinao" data-date="2009-03-20T14:56:58+00:00">
+<div class="post" data-post-id="28570" data-author="Yinao" data-date="2009-03-20T14:56:58+00:00" data-subject="Funny Spam in Mana Pools">
 
 A mana eel swims into the room from the south.
 
@@ -114,7 +114,7 @@ Cackle
 
 </div>
 
-<div class="post" data-post-id="28571" data-author="Virus" data-date="2009-03-20T15:05:12+00:00">
+<div class="post" data-post-id="28571" data-author="Virus" data-date="2009-03-20T15:05:12+00:00" data-subject="">
 
 <1000hp 412ma 355mv>
 

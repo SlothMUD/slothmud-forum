@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="32370" data-author="Tuck" data-date="2011-01-25T05:13:44+00:00">
+<div class="post" data-post-id="32370" data-author="Tuck" data-date="2011-01-25T05:13:44+00:00" data-subject="CMUD and other clients: Script to show gem stats in client.">
 
 Cmud gemstats: script that show gem stats on-fly. When gem name displayed, stats will be shown near it.
 
@@ -24,7 +24,7 @@ How to import to CMUD: Open Settings menu, click File / Import XML.
 
 </div>
 
-<div class="post" data-post-id="32371" data-author="Tuck" data-date="2011-01-25T06:18:49+00:00">
+<div class="post" data-post-id="32371" data-author="Tuck" data-date="2011-01-25T06:18:49+00:00" data-subject="Re: CMUD and other clients: Script to show gem stats in clie">
 
 There will be major update of the script tomorrow since some awful bugs has been found.
 
@@ -32,13 +32,13 @@ Thanks for patience.
 
 </div>
 
-<div class="post" data-post-id="32377" data-author="Tuck" data-date="2011-01-25T19:01:36+00:00">
+<div class="post" data-post-id="32377" data-author="Tuck" data-date="2011-01-25T19:01:36+00:00" data-subject="Re: CMUD and other clients: Script to show gem stats in clie">
 
 Update2: Major fix for multiple gems.
 
 </div>
 
-<div class="post" data-post-id="32383" data-author="Tuck" data-date="2011-01-26T18:25:05+00:00">
+<div class="post" data-post-id="32383" data-author="Tuck" data-date="2011-01-26T18:25:05+00:00" data-subject="Re: CMUD and other clients: Script to show gem stats in clie">
 
 Some examples of how script working:
 

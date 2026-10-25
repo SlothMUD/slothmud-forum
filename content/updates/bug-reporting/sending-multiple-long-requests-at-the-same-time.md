@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="36212" data-author="Dragoth" data-date="2015-11-28T11:44:59+00:00">
+<div class="post" data-post-id="36212" data-author="Dragoth" data-date="2015-11-28T11:44:59+00:00" data-subject="Sending multiple long requests at the same time">
 
 Hey guys, I found an interesting issue you can test for yourself
 
@@ -482,13 +482,13 @@ jfdslfkjslsadasda'
 
 </div>
 
-<div class="post" data-post-id="36213" data-author="Yasik" data-date="2015-11-28T11:52:42+00:00">
+<div class="post" data-post-id="36213" data-author="Yasik" data-date="2015-11-28T11:52:42+00:00" data-subject="Re: Sending multiple long requests at the same time">
 
 What is in-game situation that will require to say long string 50 times?
 
 </div>
 
-<div class="post" data-post-id="36214" data-author="Dragoth" data-date="2015-11-28T12:13:31+00:00">
+<div class="post" data-post-id="36214" data-author="Dragoth" data-date="2015-11-28T12:13:31+00:00" data-subject="Re: Sending multiple long requests at the same time">
 
 Yasik, this post has nothing to do with you, it's not about you and judging from your post it's obviously not about anything that concerns you in any way, if this is the case, do you really have to forcefully insert your opinions that  have no importance and franky, no-one really cares about ?
 
@@ -496,13 +496,13 @@ Yes it's an obscure problem, but it affects some of us and some of us want to kn
 
 </div>
 
-<div class="post" data-post-id="36219" data-author="Yasik" data-date="2015-11-29T10:25:47+00:00">
+<div class="post" data-post-id="36219" data-author="Yasik" data-date="2015-11-29T10:25:47+00:00" data-subject="Re: Sending multiple long requests at the same time">
 
 You can say that this post 'is not about you' to anyone who reads it. Why not send personal email instead of making it public?
 
 </div>
 
-<div class="post" data-post-id="36220" data-author="Dragoth" data-date="2015-11-29T11:47:39+00:00">
+<div class="post" data-post-id="36220" data-author="Dragoth" data-date="2015-11-29T11:47:39+00:00" data-subject="Re: Sending multiple long requests at the same time">
 
 This is a bug and it's posted in the bugs section of the forum, what is the problem here exactly ?
 
@@ -510,7 +510,7 @@ Are you against people reporting bugs ?
 
 </div>
 
-<div class="post" data-post-id="36222" data-author="*Splork*" data-date="2015-11-29T17:59:23+00:00">
+<div class="post" data-post-id="36222" data-author="*Splork*" data-date="2015-11-29T17:59:23+00:00" data-subject="Re: Sending multiple long requests at the same time">
 
 I'd like to know if this same bug is seen in other older MUDS such as Godwars, Realms of Despair, or another older popular DIKU.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36200" data-author="Dragoth" data-date="2015-11-21T08:10:12+00:00">
+<div class="post" data-post-id="36200" data-author="Dragoth" data-date="2015-11-21T08:10:12+00:00" data-subject="When are we supposed to receive AV bonuses?">
 
 I was really looking forward to raising a few of my avatar levels to receive my 10 healbonus, as i've heard that we receive half a bonus every 5 levels now, intead of 20hb/20sb every 10 levels that we had on S3.
 
@@ -224,7 +224,7 @@ The cleansing fires of healing fill your body!
 
 </div>
 
-<div class="post" data-post-id="36202" data-author="cyprimus" data-date="2015-11-21T17:40:07+00:00">
+<div class="post" data-post-id="36202" data-author="cyprimus" data-date="2015-11-21T17:40:07+00:00" data-subject="Re: When are we supposed to receive AV bonuses?">
 
 The avatar guide is fairly accurate.
 
@@ -232,7 +232,7 @@ level 20 should get your your bonus.  then 30 and 35.
 
 </div>
 
-<div class="post" data-post-id="36203" data-author="Dragoth" data-date="2015-11-21T18:10:31+00:00">
+<div class="post" data-post-id="36203" data-author="Dragoth" data-date="2015-11-21T18:10:31+00:00" data-subject="Re: When are we supposed to receive AV bonuses?">
 
 Avatar guide is outdated.
 
@@ -244,7 +244,7 @@ So it's every 6 levels, not 5, which will put my next bonus at level 18.
 
 </div>
 
-<div class="post" data-post-id="36205" data-author="Teron" data-date="2015-11-22T15:09:20+00:00">
+<div class="post" data-post-id="36205" data-author="Teron" data-date="2015-11-22T15:09:20+00:00" data-subject="Re: When are we supposed to receive AV bonuses?">
 
 I'm not sure what your restores show us.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="937" data-author="Binabik" data-date="2004-07-05T18:59:14+00:00">
+<div class="post" data-post-id="937" data-author="Binabik" data-date="2004-07-05T18:59:14+00:00" data-subject="new spell announcement: &#x27;winds of fortune&#x27;">
 
 in 2 words: makes ships sail faster
 

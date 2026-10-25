@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="1645" data-author="El_Furax" data-date="2004-08-29T10:40:20+00:00">
+<div class="post" data-post-id="1645" data-author="El_Furax" data-date="2004-08-29T10:40:20+00:00" data-subject="Items repop">
 
 Hi guys,
 
@@ -26,7 +26,7 @@ TIA
 
 </div>
 
-<div class="post" data-post-id="1646" data-author="Next" data-date="2004-08-29T10:48:45+00:00">
+<div class="post" data-post-id="1646" data-author="Next" data-date="2004-08-29T10:48:45+00:00" data-subject="">
 
 Generally speaking items poped by mobs follow the following pattern:
 
@@ -42,7 +42,7 @@ Of course there are also rare items that nobody needs and therefore nobody cycle
 
 </div>
 
-<div class="post" data-post-id="1647" data-author="El_Furax" data-date="2004-08-29T11:03:55+00:00">
+<div class="post" data-post-id="1647" data-author="El_Furax" data-date="2004-08-29T11:03:55+00:00" data-subject="">
 
 Generally speaking items poped by mobs follow the following pattern:
 
@@ -54,7 +54,7 @@ Thanks for the answer NExt.
 
 </div>
 
-<div class="post" data-post-id="1648" data-author="Next" data-date="2004-08-29T14:58:58+00:00">
+<div class="post" data-post-id="1648" data-author="Next" data-date="2004-08-29T14:58:58+00:00" data-subject="">
 
 :This means that the mob will not always have the item on it each time and you have to kill it until it eventually pops with the item ?
 
@@ -64,19 +64,19 @@ Yep exactly. With lower end items, which you'll mostly likely be using at the mo
 
 </div>
 
-<div class="post" data-post-id="1652" data-author="Evergreen" data-date="2004-08-30T06:36:18+00:00">
+<div class="post" data-post-id="1652" data-author="Evergreen" data-date="2004-08-30T06:36:18+00:00" data-subject="">
 
 and my experience with that mob was like 3 pops from 5-6 kills  :D
 
 </div>
 
-<div class="post" data-post-id="1656" data-author="Next" data-date="2004-08-30T09:48:34+00:00">
+<div class="post" data-post-id="1656" data-author="Next" data-date="2004-08-30T09:48:34+00:00" data-subject="">
 
 You cycled Mother Mu ever? :)
 
 </div>
 
-<div class="post" data-post-id="1658" data-author="Evergreen" data-date="2004-08-30T10:53:01+00:00">
+<div class="post" data-post-id="1658" data-author="Evergreen" data-date="2004-08-30T10:53:01+00:00" data-subject="">
 
 ghmm, sorry...
 
@@ -84,7 +84,7 @@ was completely sure you talking bout lava-mage :D
 
 </div>
 
-<div class="post" data-post-id="1659" data-author="Evergreen" data-date="2004-08-30T11:39:37+00:00">
+<div class="post" data-post-id="1659" data-author="Evergreen" data-date="2004-08-30T11:39:37+00:00" data-subject="">
 
 ghmm, sorry...
 

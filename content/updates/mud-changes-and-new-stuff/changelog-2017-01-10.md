@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="37957" data-author="*teker*" data-date="2017-01-10T15:39:56+00:00">
+<div class="post" data-post-id="37957" data-author="*teker*" data-date="2017-01-10T15:39:56+00:00" data-subject="Changelog 2017-01-10">
 
 I believe I have banished the demon that was periodically blocking recall scrolls.
 
@@ -112,7 +112,7 @@ There are probably other exploits I missed but these were the obvious ones.
 
 </div>
 
-<div class="post" data-post-id="37979" data-author="*teker*" data-date="2017-01-19T00:18:15+00:00">
+<div class="post" data-post-id="37979" data-author="*teker*" data-date="2017-01-19T00:18:15+00:00" data-subject="Re: Changelog 2017-01-10">
 
 This morning's reboot added some tracing so we can try to get to the bottom of the lag that's been going on.  It appears to be in the combat code somewhere.  The next reboot will add a lot more tracing to narrow it down further.
 
@@ -122,13 +122,13 @@ I made the changes to fortune should prevent mobs from having 1hp and will preve
 
 </div>
 
-<div class="post" data-post-id="37995" data-author="*teker*" data-date="2017-01-25T16:02:10+00:00">
+<div class="post" data-post-id="37995" data-author="*teker*" data-date="2017-01-25T16:02:10+00:00" data-subject="Re: Changelog 2017-01-10">
 
 I added more tracing in the reboot this morning to try to further isolate the lag.  It appears to be related to combat and more specifically when mobs die.  Hopefully this set of debugging will show us exactly where the lag is coming from.
 
 </div>
 
-<div class="post" data-post-id="37999" data-author="*teker*" data-date="2017-01-27T15:36:51+00:00">
+<div class="post" data-post-id="37999" data-author="*teker*" data-date="2017-01-27T15:36:51+00:00" data-subject="Re: Changelog 2017-01-10">
 
 We believe that Breeze has pinpointed the major source of lag and that it has been fixed.  We've added more tracing to be sure.
 

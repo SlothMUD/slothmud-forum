@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2815" data-author="Ezekiel" data-date="2004-11-14T02:32:09+00:00">
+<div class="post" data-post-id="2815" data-author="Ezekiel" data-date="2004-11-14T02:32:09+00:00" data-subject="WTB: 2xring ribbons">
 
 wtb: 2x ring ribbons...yes i know they're no longer in game and i know they're simply detect invis clasps...save yourself the breath. will pay well for them...6 mil each or so...negotiable...catch me online or email at jc27200@hotmail.com
 

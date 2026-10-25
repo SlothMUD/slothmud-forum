@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32476" data-author="Thraxas" data-date="2011-03-11T17:20:05+00:00">
+<div class="post" data-post-id="32476" data-author="Thraxas" data-date="2011-03-11T17:20:05+00:00" data-subject="Secret Diary of a Mud Player">
 
 I wake up in the morning and breakfast, check my email and diary then drive to work. 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33811" data-author="Shryker" data-date="2012-11-30T20:29:44+00:00">
+<div class="post" data-post-id="33811" data-author="Shryker" data-date="2012-11-30T20:29:44+00:00" data-subject="Buying sharkskin boots">
 
 I believe the title pretty much says it all.
 

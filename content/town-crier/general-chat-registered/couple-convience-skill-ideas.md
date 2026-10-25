@@ -10,7 +10,7 @@ locked: false
 post_count: 26
 ---
 
-<div class="post" data-post-id="7278" data-author="Deju" data-date="2005-06-16T22:27:34+00:00">
+<div class="post" data-post-id="7278" data-author="Deju" data-date="2005-06-16T22:27:34+00:00" data-subject="Couple Convience Skill Ideas">
 
 Hey -
 
@@ -32,25 +32,25 @@ Deju
 
 </div>
 
-<div class="post" data-post-id="7280" data-author="osric" data-date="2005-06-16T23:25:09+00:00">
+<div class="post" data-post-id="7280" data-author="osric" data-date="2005-06-16T23:25:09+00:00" data-subject="">
 
 I have often thought that this would be a great skill to have, examine and clear poison i think should be the same skill as apply, but this is really how I had envisioned it! :D
 
 </div>
 
-<div class="post" data-post-id="7282" data-author="firebrand" data-date="2005-06-17T00:35:58+00:00">
+<div class="post" data-post-id="7282" data-author="firebrand" data-date="2005-06-17T00:35:58+00:00" data-subject="">
 
 hell, take that idea one step further and create a skill called alchemy, where not only do you know what poison/potion it is, but you can brew it too instead of having to take to a brewer (sorta like sharpen skill, mebbe?) .  would require note and cps and stuff....just my stoned rambling again.  ignore the blonde
 
 </div>
 
-<div class="post" data-post-id="7284" data-author="brand" data-date="2005-06-17T01:34:28+00:00">
+<div class="post" data-post-id="7284" data-author="brand" data-date="2005-06-17T01:34:28+00:00" data-subject="">
 
 3 thumbs up
 
 </div>
 
-<div class="post" data-post-id="7285" data-author="kjartan" data-date="2005-06-17T02:28:50+00:00">
+<div class="post" data-post-id="7285" data-author="kjartan" data-date="2005-06-17T02:28:50+00:00" data-subject="">
 
 Wait a minute...  this is a trick, isn't it?  I suddenly have a vision of:
 
@@ -62,7 +62,7 @@ But you don't have the brand!
 
 </div>
 
-<div class="post" data-post-id="7286" data-author="Deju" data-date="2005-06-17T02:44:43+00:00">
+<div class="post" data-post-id="7286" data-author="Deju" data-date="2005-06-17T02:44:43+00:00" data-subject="">
 
 lol, i guess that would make it too easy for immorts to "accidentally" wipe someone.
 
@@ -70,7 +70,7 @@ Oh, Sorry Deju, i meant to, um... wipe my new stabber called Deju clean!
 
 </div>
 
-<div class="post" data-post-id="7288" data-author="Taki" data-date="2005-06-17T04:33:35+00:00">
+<div class="post" data-post-id="7288" data-author="Taki" data-date="2005-06-17T04:33:35+00:00" data-subject="">
 
 And for those concerned with 'balance', there could be the choice (a check gone bad, rolling 1 or so) of:
 
@@ -86,7 +86,7 @@ T.
 
 </div>
 
-<div class="post" data-post-id="7295" data-author="Avatar" data-date="2005-06-17T10:07:56+00:00">
+<div class="post" data-post-id="7295" data-author="Avatar" data-date="2005-06-17T10:07:56+00:00" data-subject="Th skills">
 
 Can tell Taki is new  :)
 
@@ -98,7 +98,7 @@ Just kiddin!!  Don't clean your Avatar, KJ.
 
 </div>
 
-<div class="post" data-post-id="7296" data-author="Taki" data-date="2005-06-17T10:22:03+00:00">
+<div class="post" data-post-id="7296" data-author="Taki" data-date="2005-06-17T10:22:03+00:00" data-subject="">
 
 Avatar is right...
 
@@ -110,7 +110,7 @@ Will be more cautious next time...
 
 </div>
 
-<div class="post" data-post-id="7297" data-author="12345" data-date="2005-06-17T11:00:05+00:00">
+<div class="post" data-post-id="7297" data-author="12345" data-date="2005-06-17T11:00:05+00:00" data-subject="">
 
 Poison is fun stuff.  'Clean' would probably be a better name, though I don't know how much value the skill would really have.  If you wait a couple ticks poison disappears anyway.  The ability to tell how much poison is applied would be nice... I currently just try to apply again and look for the message that there is already two doses.
 
@@ -118,25 +118,25 @@ I think even better would be a message saying how many seconds your poison has l
 
 </div>
 
-<div class="post" data-post-id="7318" data-author="kjartan" data-date="2005-06-17T18:33:20+00:00">
+<div class="post" data-post-id="7318" data-author="kjartan" data-date="2005-06-17T18:33:20+00:00" data-subject="">
 
 Yeah, these are good ideas.  It's all in next crash or reboot.  (See "help apply poison" to see how it will work, that's in now).
 
 </div>
 
-<div class="post" data-post-id="7320" data-author="Leaf" data-date="2005-06-17T20:46:33+00:00">
+<div class="post" data-post-id="7320" data-author="Leaf" data-date="2005-06-17T20:46:33+00:00" data-subject="">
 
 WOOOO ... KJ is the Man!
 
 </div>
 
-<div class="post" data-post-id="7322" data-author="12345" data-date="2005-06-18T02:32:19+00:00">
+<div class="post" data-post-id="7322" data-author="12345" data-date="2005-06-18T02:32:19+00:00" data-subject="">
 
 Thanks much :)
 
 </div>
 
-<div class="post" data-post-id="7330" data-author="Deju" data-date="2005-06-18T15:33:11+00:00">
+<div class="post" data-post-id="7330" data-author="Deju" data-date="2005-06-18T15:33:11+00:00" data-subject="">
 
 Just wanted to say thanks much for the quick additions!!  
 
@@ -148,13 +148,13 @@ Deju
 
 </div>
 
-<div class="post" data-post-id="7334" data-author="kjartan" data-date="2005-06-19T15:59:19+00:00">
+<div class="post" data-post-id="7334" data-author="kjartan" data-date="2005-06-19T15:59:19+00:00" data-subject="">
 
 I think you can examine weapons you are wielding; I just tried it, it works for me.
 
 </div>
 
-<div class="post" data-post-id="7338" data-author="Deju" data-date="2005-06-20T00:11:04+00:00">
+<div class="post" data-post-id="7338" data-author="Deju" data-date="2005-06-20T00:11:04+00:00" data-subject="">
 
 maybe im missing something, but here is what i tried:
 
@@ -226,7 +226,7 @@ You do not see that here.
 
 </div>
 
-<div class="post" data-post-id="7342" data-author="Zam" data-date="2005-06-20T02:28:11+00:00">
+<div class="post" data-post-id="7342" data-author="Zam" data-date="2005-06-20T02:28:11+00:00" data-subject="">
 
 nods Deju its not working 
 
@@ -234,7 +234,7 @@ tried it earlier , didnt post tho :)
 
 </div>
 
-<div class="post" data-post-id="7343" data-author="Jensen" data-date="2005-06-20T02:51:55+00:00">
+<div class="post" data-post-id="7343" data-author="Jensen" data-date="2005-06-20T02:51:55+00:00" data-subject="">
 
 dorks, you got the commands wrong
 
@@ -250,13 +250,13 @@ should be incor on next reboot
 
 </div>
 
-<div class="post" data-post-id="7349" data-author="Weasel" data-date="2005-06-20T08:44:01+00:00">
+<div class="post" data-post-id="7349" data-author="Weasel" data-date="2005-06-20T08:44:01+00:00" data-subject="">
 
 thucking fiefs.  :wink:
 
 </div>
 
-<div class="post" data-post-id="7356" data-author="firebrand" data-date="2005-06-20T11:45:46+00:00">
+<div class="post" data-post-id="7356" data-author="firebrand" data-date="2005-06-20T11:45:46+00:00" data-subject="">
 
 Also, these seems more like they should be natural abilities instead of skills, kinda like throw is a skill and catch is a natural ability.[/quote:1burfpsa]
 
@@ -264,13 +264,13 @@ my point exactly with being able to see inventory for ALL classes.  not being ab
 
 </div>
 
-<div class="post" data-post-id="7357" data-author="kjartan" data-date="2005-06-20T11:56:39+00:00">
+<div class="post" data-post-id="7357" data-author="kjartan" data-date="2005-06-20T11:56:39+00:00" data-subject="">
 
 Ok, found and fixed the bug.  It should work on wielded stabbers after the next crash or reboot.
 
 </div>
 
-<div class="post" data-post-id="7359" data-author="12345" data-date="2005-06-20T11:59:28+00:00">
+<div class="post" data-post-id="7359" data-author="12345" data-date="2005-06-20T11:59:28+00:00" data-subject="">
 
 Actually, I play a char without thief in classo.  If you've got druid class you can shift to ferret and see inventory, also comes in handy for picking up your own corpse.  I seem to remember taking a solid hit to hps for shifting to ferret and back though.
 
@@ -278,7 +278,7 @@ PS.  Thanks Kj!
 
 </div>
 
-<div class="post" data-post-id="7360" data-author="Deju" data-date="2005-06-20T12:07:08+00:00">
+<div class="post" data-post-id="7360" data-author="Deju" data-date="2005-06-20T12:07:08+00:00" data-subject="">
 
 Hmm -
 
@@ -360,13 +360,13 @@ Deju
 
 </div>
 
-<div class="post" data-post-id="7369" data-author="kjartan" data-date="2005-06-20T14:09:23+00:00">
+<div class="post" data-post-id="7369" data-author="kjartan" data-date="2005-06-20T14:09:23+00:00" data-subject="">
 
 There's a bug right now, it should be fixed after the next crash.  I would say don't worry about it until then.
 
 </div>
 
-<div class="post" data-post-id="7371" data-author="Deju" data-date="2005-06-20T14:12:18+00:00">
+<div class="post" data-post-id="7371" data-author="Deju" data-date="2005-06-20T14:12:18+00:00" data-subject="">
 
 ok cool.... just giving all the info i had.
 
@@ -376,7 +376,7 @@ Deju
 
 </div>
 
-<div class="post" data-post-id="7391" data-author="Deju" data-date="2005-06-21T01:03:03+00:00">
+<div class="post" data-post-id="7391" data-author="Deju" data-date="2005-06-21T01:03:03+00:00" data-subject="">
 
 Hey -
 

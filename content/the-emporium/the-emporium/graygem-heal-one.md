@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="293" data-author="Kelt" data-date="2004-05-24T16:14:55+00:00">
+<div class="post" data-post-id="293" data-author="Kelt" data-date="2004-05-24T16:14:55+00:00" data-subject="Graygem(heal one)">
 
 graygem - held high +15 heal bonus +15 mana
 
@@ -30,7 +30,7 @@ maybe coins but not sure :)
 
 </div>
 
-<div class="post" data-post-id="316" data-author="Avatar" data-date="2004-05-25T12:40:23+00:00">
+<div class="post" data-post-id="316" data-author="Avatar" data-date="2004-05-25T12:40:23+00:00" data-subject="+HEAL!">
 
 Kelt, I'm interested.  I'm not sure what I have to trade, but maybe we can find something.  I likely won't be online until the weekend though.
 
@@ -38,7 +38,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="333" data-author="Mannu" data-date="2004-05-25T20:38:04+00:00">
+<div class="post" data-post-id="333" data-author="Mannu" data-date="2004-05-25T20:38:04+00:00" data-subject="RE: greygem">
 
 Interested but only have coins.
 

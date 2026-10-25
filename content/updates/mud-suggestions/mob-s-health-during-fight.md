@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="1653" data-author="El_Furax" data-date="2004-08-30T07:10:49+00:00">
+<div class="post" data-post-id="1653" data-author="El_Furax" data-date="2004-08-30T07:10:49+00:00" data-subject="Mob&#x27;s health during fight.">
 
 HI there.
 
@@ -30,13 +30,13 @@ My 2 newbie's (C)(TM) cents.
 
 </div>
 
-<div class="post" data-post-id="1654" data-author="Evergreen" data-date="2004-08-30T09:04:05+00:00">
+<div class="post" data-post-id="1654" data-author="Evergreen" data-date="2004-08-30T09:04:05+00:00" data-subject="">
 
 looking at mob and also a lot of other actions keep player's attention to game :D I think, this mud will keep having its own features and its good. We have played like this for several years and havent had any problem with things like this :)
 
 </div>
 
-<div class="post" data-post-id="1657" data-author="Zenkai" data-date="2004-08-30T10:03:46+00:00">
+<div class="post" data-post-id="1657" data-author="Zenkai" data-date="2004-08-30T10:03:46+00:00" data-subject="Suggestion">
 
 My suggestion for the mud would be a command called: 
 
@@ -62,7 +62,7 @@ showexit
 
 </div>
 
-<div class="post" data-post-id="1660" data-author="blackmore" data-date="2004-08-30T12:15:15+00:00">
+<div class="post" data-post-id="1660" data-author="blackmore" data-date="2004-08-30T12:15:15+00:00" data-subject="">
 
 We can't tell if the mob we're fighting can see us or not without casting a blind or acid blast where the mob fails its save either, as if that would somehow have anything to do with us being able to know.  It's just one of the quirks of the game - for now, at least.  The list of commands to gag out certain things is useful too (though showexit has nothing to do with gagging stuff during a fight).
 
@@ -70,7 +70,7 @@ This question brings to mind something else I've always found funny, but I still
 
 </div>
 
-<div class="post" data-post-id="1661" data-author="Ender" data-date="2004-08-30T15:39:12+00:00">
+<div class="post" data-post-id="1661" data-author="Ender" data-date="2004-08-30T15:39:12+00:00" data-subject="">
 
 Actually, I've done that as well Blackmore.  It just somehow feels like you should be told you've made progress.  I've also hated it when I'm fighting cleric type mobs and they go back to Pretty Hurt.
 

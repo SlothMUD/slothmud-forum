@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="22449" data-author="Thraxas" data-date="2008-02-01T18:33:56+00:00">
+<div class="post" data-post-id="22449" data-author="Thraxas" data-date="2008-02-01T18:33:56+00:00" data-subject="Classo Changes">
 
 I was part of this conversation today ... can anyone verify whether classo changes are allowed? If so under what conditions?
 
@@ -32,7 +32,7 @@ anonymousC[~dragonsworn~]> 'they let ****** do it, but they rerolled him'
 
 </div>
 
-<div class="post" data-post-id="22450" data-author="Leaf" data-date="2008-02-01T19:20:50+00:00">
+<div class="post" data-post-id="22450" data-author="Leaf" data-date="2008-02-01T19:20:50+00:00" data-subject="">
 
 I believe this has been done a few times.  However it is very rare.
 
@@ -46,7 +46,7 @@ ur eq.  Damn what are they called again .... restrings!
 
 </div>
 
-<div class="post" data-post-id="22451" data-author="13" data-date="2008-02-01T22:40:22+00:00">
+<div class="post" data-post-id="22451" data-author="13" data-date="2008-02-01T22:40:22+00:00" data-subject="">
 
 it has happened several times
 
@@ -58,7 +58,7 @@ it's not a change its a re-arrange really, you cant say, drop thief and add monk
 
 </div>
 
-<div class="post" data-post-id="22452" data-author="13" data-date="2008-02-01T22:41:34+00:00">
+<div class="post" data-post-id="22452" data-author="13" data-date="2008-02-01T22:41:34+00:00" data-subject="">
 
 except in the case of hera where Judge just decided to do it anyway because
 
@@ -66,7 +66,7 @@ he's above the rules the rest of us have to abide by
 
 </div>
 
-<div class="post" data-post-id="22456" data-author="Tap" data-date="2008-02-02T00:56:18+00:00">
+<div class="post" data-post-id="22456" data-author="Tap" data-date="2008-02-02T00:56:18+00:00" data-subject="">
 
 [img:35gy4xj3]http://operachic.typepad.com/photos/uncategorized/haterade.jpg[/img:35gy4xj3]
 

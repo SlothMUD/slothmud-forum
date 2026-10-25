@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="367" data-author="HelxenKitamelorif" data-date="2004-05-27T09:20:48+00:00">
+<div class="post" data-post-id="367" data-author="HelxenKitamelorif" data-date="2004-05-27T09:20:48+00:00" data-subject="Encyclopedia">
 
 Make a link for it, and add info into there.
 
@@ -18,19 +18,19 @@ Also, it is bad that terms arent being auto-linked in wiki fashion.
 
 </div>
 
-<div class="post" data-post-id="379" data-author="Clink" data-date="2004-05-27T16:14:55+00:00">
+<div class="post" data-post-id="379" data-author="Clink" data-date="2004-05-27T16:14:55+00:00" data-subject="Encyclopedia">
 
 If it was that easy, it would be done.  However, we are working on fixing it up to work with this version of Nuke and plan to use it for Help Files.   Do you have any other suggested content?
 
 </div>
 
-<div class="post" data-post-id="382" data-author="Weasel" data-date="2004-05-27T17:53:05+00:00">
+<div class="post" data-post-id="382" data-author="Weasel" data-date="2004-05-27T17:53:05+00:00" data-subject="">
 
 Perhaps bring Kirin's sloth photo site over to here if she'd like to get it off her server?
 
 </div>
 
-<div class="post" data-post-id="754" data-author="Calim" data-date="2004-06-16T14:52:53+00:00">
+<div class="post" data-post-id="754" data-author="Calim" data-date="2004-06-16T14:52:53+00:00" data-subject="">
 
 I know you guys have a lot of work and this may be on your list of things to get to, but I'm gonna mention it anyway.
 

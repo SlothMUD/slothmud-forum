@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="40116" data-author="Belrath" data-date="2024-10-24T19:57:13+00:00">
+<div class="post" data-post-id="40116" data-author="Belrath" data-date="2024-10-24T19:57:13+00:00" data-subject="Botting, Multiplaying">
 
 Hello everyone.
 
@@ -40,7 +40,7 @@ Take care.
 
 </div>
 
-<div class="post" data-post-id="40117" data-author="cnl" data-date="2024-10-24T21:01:19+00:00">
+<div class="post" data-post-id="40117" data-author="cnl" data-date="2024-10-24T21:01:19+00:00" data-subject="Re: Botting, Multiplaying">
 
 Bel - you raise some good points.
 
@@ -54,7 +54,7 @@ I'll save my other thoughts for another thread to keep on topic.
 
 </div>
 
-<div class="post" data-post-id="40125" data-author="Ezekiel" data-date="2024-11-01T16:22:13+00:00">
+<div class="post" data-post-id="40125" data-author="Ezekiel" data-date="2024-11-01T16:22:13+00:00" data-subject="Re: Botting, Multiplaying">
 
 Agreed Bel- I have logged on to lead less and less lately. And when i do, I try to keep it to small groups because as a group expands, it will be about 6 people (out of say 9) are all botting in the group at once. It's demotivating as a leader and makes me want to just log off if I'm just leading someone's bot script around all day. 
 
@@ -74,7 +74,7 @@ This isn't a long diatribe about what's wrong and yelling into the void. I love 
 
 </div>
 
-<div class="post" data-post-id="40130" data-author="cnl" data-date="2024-11-05T21:25:20+00:00">
+<div class="post" data-post-id="40130" data-author="cnl" data-date="2024-11-05T21:25:20+00:00" data-subject="Re: Botting, Multiplaying">
 
 some random additional personal opinions on the state of sloth. feel free to malign them, me, or both. 
 
@@ -136,7 +136,7 @@ back on the topic of groups - i think the heart of sloth has always been its com
 
 </div>
 
-<div class="post" data-post-id="40131" data-author="Insomnia" data-date="2024-11-06T04:35:38+00:00">
+<div class="post" data-post-id="40131" data-author="Insomnia" data-date="2024-11-06T04:35:38+00:00" data-subject="Re: Botting, Multiplaying">
 
 Many MUDs (and the original DikuMUD actually) lower the exp you get per kill as you gain levels, e.g. when you're level 10+, you get literally 0 exp from level 1 mobs. We could apply a similar logic to solo kills, and also require everyone in the group to be present in the room / engaged in the fight in order to get full exp, thus incentivizing people to group instead of soloing. Doesn't solve the automation problem though.
 
@@ -144,7 +144,7 @@ I read somewhere on this forum (or maybe heard from someone) that the rank syste
 
 </div>
 
-<div class="post" data-post-id="40132" data-author="cnl" data-date="2024-11-06T23:55:09+00:00">
+<div class="post" data-post-id="40132" data-author="cnl" data-date="2024-11-06T23:55:09+00:00" data-subject="Re: Botting, Multiplaying">
 
 i don't think we should break soloing in sloth to try drive people to groups.
 
@@ -156,7 +156,7 @@ perhaps we need a test instance of sloth running for limited time windows where 
 
 </div>
 
-<div class="post" data-post-id="40133" data-author="Ezekiel" data-date="2024-11-08T23:00:32+00:00">
+<div class="post" data-post-id="40133" data-author="Ezekiel" data-date="2024-11-08T23:00:32+00:00" data-subject="Re: Botting, Multiplaying">
 
 > **Quote:**
 
@@ -180,7 +180,7 @@ And it's not about 'eh, allow for some unbalance in the end, you worked for it'.
 
 </div>
 
-<div class="post" data-post-id="40136" data-author="Gorka" data-date="2024-11-29T21:49:54+00:00">
+<div class="post" data-post-id="40136" data-author="Gorka" data-date="2024-11-29T21:49:54+00:00" data-subject="Re: Botting, Multiplaying">
 
 Stopped past and saw an opportunity to give my unwanted opinion!   :shock: :twisted: 
 
@@ -192,7 +192,7 @@ PS Hi Zozo.
 
 </div>
 
-<div class="post" data-post-id="40137" data-author="Driven" data-date="2024-12-01T17:33:57+00:00">
+<div class="post" data-post-id="40137" data-author="Driven" data-date="2024-12-01T17:33:57+00:00" data-subject="Re: Botting, Multiplaying">
 
 Advancement and challenge, by definition, oppose each other.  The more you advance, the easier stuff gets, the less of a challenge stuff becomes.  Stacked on top of that, the mud was unaware of really powerful things for a long time, such as sanctuary for the soul.  Such an absurdly powerful song that turns a dragon into a mouse.  The knowledge of the game itself is 10x where it was 10 years ago, and my suspicion is that if we wiped, it wouldn't take long to get back to where we are.
 
@@ -202,7 +202,7 @@ Advancement and challenge, by definition, oppose each other.  The more you advan
 
 </div>
 
-<div class="post" data-post-id="40140" data-author="Gorka" data-date="2024-12-04T08:43:41+00:00">
+<div class="post" data-post-id="40140" data-author="Gorka" data-date="2024-12-04T08:43:41+00:00" data-subject="Re: Botting, Multiplaying">
 
 I think the game is garbled and warped at this point. Free mana, no need for regen, procs that turn epics into calico kittens while multiplying damage output.
 
@@ -214,7 +214,7 @@ There are unspoken rules in games, complex relationships between work/reward/pow
 
 </div>
 
-<div class="post" data-post-id="40144" data-author="Hung" data-date="2025-01-29T00:49:31+00:00">
+<div class="post" data-post-id="40144" data-author="Hung" data-date="2025-01-29T00:49:31+00:00" data-subject="Re: Botting, Multiplaying">
 
 I don't play anymore, but would like to share my 2c regardless.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="18752" data-author="van" data-date="2007-06-01T06:22:20+00:00">
+<div class="post" data-post-id="18752" data-author="van" data-date="2007-06-01T06:22:20+00:00" data-subject="Who said all bugs are bad?">
 
 Krimeah. Wild magic.  Madmax throws a restore, and ends up throwing a bone armor.  All of the sudden...
 
@@ -20,7 +20,7 @@ I considered posting the full score, but decided people would make fun of my reg
 
 </div>
 
-<div class="post" data-post-id="18756" data-author="madmax" data-date="2007-06-01T13:29:17+00:00">
+<div class="post" data-post-id="18756" data-author="madmax" data-date="2007-06-01T13:29:17+00:00" data-subject="">
 
 I can say, it sure was fun!  We can all say for sure that -15.0 is WAY better than  -12.0. 
 
@@ -28,7 +28,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="18759" data-author="Leaf" data-date="2007-06-01T15:17:32+00:00">
+<div class="post" data-post-id="18759" data-author="Leaf" data-date="2007-06-01T15:17:32+00:00" data-subject="">
 
 Yea well the best so far is that red orange potion, it adds -100 to your
 
@@ -40,7 +40,7 @@ hit by the Grand Master Thief in Den.
 
 </div>
 
-<div class="post" data-post-id="18760" data-author="Medios" data-date="2007-06-01T19:43:19+00:00">
+<div class="post" data-post-id="18760" data-author="Medios" data-date="2007-06-01T19:43:19+00:00" data-subject="Nice effect.">
 
 You say bug, I say it is an effect.  Unless you think you can duplicate it next fight :).
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36129" data-author="war" data-date="2015-10-30T03:34:36+00:00">
+<div class="post" data-post-id="36129" data-author="war" data-date="2015-10-30T03:34:36+00:00" data-subject="blacksmith in bh town">
 
 You brutally gut the black smith!
 
@@ -42,7 +42,7 @@ You split 26932 coins.  You keep 8978 coins.
 
 </div>
 
-<div class="post" data-post-id="36130" data-author="*Neptune*" data-date="2015-10-31T16:56:45+00:00">
+<div class="post" data-post-id="36130" data-author="*Neptune*" data-date="2015-10-31T16:56:45+00:00" data-subject="Re: blacksmith in bh town">
 
 Fixed.
 

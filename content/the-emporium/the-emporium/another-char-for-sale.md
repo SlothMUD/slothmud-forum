@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="35005" data-author="Hung" data-date="2014-04-18T17:00:11+00:00">
+<div class="post" data-post-id="35005" data-author="Hung" data-date="2014-04-18T17:00:11+00:00" data-subject="Another Char For Sale">
 
 Yang Lee  (level: 8)
 
@@ -50,13 +50,13 @@ Starting price: 40m
 
 </div>
 
-<div class="post" data-post-id="35006" data-author="DarkArtist" data-date="2014-04-18T17:19:06+00:00">
+<div class="post" data-post-id="35006" data-author="DarkArtist" data-date="2014-04-18T17:19:06+00:00" data-subject="Re: Another Char For Sale">
 
 What was the rationale behind the class order? Did you roll it specifically to sell it?
 
 </div>
 
-<div class="post" data-post-id="35007" data-author="Hung" data-date="2014-04-18T17:24:25+00:00">
+<div class="post" data-post-id="35007" data-author="Hung" data-date="2014-04-18T17:24:25+00:00" data-subject="Re: Another Char For Sale">
 
 Monk with manaregen. 
 
@@ -64,13 +64,13 @@ Nope.
 
 </div>
 
-<div class="post" data-post-id="35008" data-author="DarkArtist" data-date="2014-04-18T18:02:10+00:00">
+<div class="post" data-post-id="35008" data-author="DarkArtist" data-date="2014-04-18T18:02:10+00:00" data-subject="Re: Another Char For Sale">
 
 How much more manaregen would that character have over a monk/cleric or monk/mage? and is that outdoor only?
 
 </div>
 
-<div class="post" data-post-id="35009" data-author="Hung" data-date="2014-04-18T18:26:22+00:00">
+<div class="post" data-post-id="35009" data-author="Hung" data-date="2014-04-18T18:26:22+00:00" data-subject="Re: Another Char For Sale">
 
 Not sure. Anyway there's no point having cleric secondary. Mandatory supplications are peri and xag(on low levels), mare and eudaemon(on higher). So cleric can be even fifth. But it's really hard to start when it is so far away. So I placed it third.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32103" data-author="Dragoth" data-date="2010-12-01T11:02:17+00:00">
+<div class="post" data-post-id="32103" data-author="Dragoth" data-date="2010-12-01T11:02:17+00:00" data-subject="imba char for trade">
 
 Want to be doing stuff like this ?
 

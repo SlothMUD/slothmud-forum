@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39033" data-author="Gorka" data-date="2018-12-28T09:03:29+00:00">
+<div class="post" data-post-id="39033" data-author="Gorka" data-date="2018-12-28T09:03:29+00:00" data-subject="Crystal Falls (New Eq)">
 
 Sup Slackers! I leave for a few months and no one posts information! Had to beg, borrow, bribe and steal the info from those who knew... but as I have already seen questions about it on gossip... here it is.
 

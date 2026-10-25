@@ -10,7 +10,7 @@ locked: false
 post_count: 36
 ---
 
-<div class="post" data-post-id="7979" data-author="Blastem" data-date="2005-07-24T14:02:51+00:00">
+<div class="post" data-post-id="7979" data-author="Blastem" data-date="2005-07-24T14:02:51+00:00" data-subject="More Alignment / Supplicant nerfing">
 
 As if it wasn't bad enough having to spend 2-3 runs trying to get alignment good ... hit one good mob and ... 
 
@@ -52,7 +52,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="7985" data-author="Autolycos" data-date="2005-07-24T16:59:53+00:00">
+<div class="post" data-post-id="7985" data-author="Autolycos" data-date="2005-07-24T16:59:53+00:00" data-subject="">
 
 cast 'firewind'
 
@@ -82,25 +82,25 @@ ok, i thought the whole alignment pissing match was finally over.   So you FORCE
 
 </div>
 
-<div class="post" data-post-id="7987" data-author="Weasel" data-date="2005-07-24T17:41:06+00:00">
+<div class="post" data-post-id="7987" data-author="Weasel" data-date="2005-07-24T17:41:06+00:00" data-subject="">
 
 heh.. removed suplication and grace aliases from my client a while ago.. seemed an exercise in frustration trying to use them. I wonder if grace will fall off too once you go below -3 or -4 (grace actually stops allowing you to cast it around -3.5 evil rating previously, but didn't drop off if you had it up already).
 
 </div>
 
-<div class="post" data-post-id="7994" data-author="Autolycos" data-date="2005-07-25T02:35:45+00:00">
+<div class="post" data-post-id="7994" data-author="Autolycos" data-date="2005-07-25T02:35:45+00:00" data-subject="">
 
 yeah, this pretty much makes me not even want supps at all..
 
 </div>
 
-<div class="post" data-post-id="7995" data-author="12345" data-date="2005-07-25T03:49:43+00:00">
+<div class="post" data-post-id="7995" data-author="12345" data-date="2005-07-25T03:49:43+00:00" data-subject="">
 
 Clerics still get followers sometimes?
 
 </div>
 
-<div class="post" data-post-id="7998" data-author="12345" data-date="2005-07-25T12:05:25+00:00">
+<div class="post" data-post-id="7998" data-author="12345" data-date="2005-07-25T12:05:25+00:00" data-subject="">
 
 I was running around mindlessly the other day and found my alignment to be particularly entertaining.  Since it'll be quite some time before either supplication or grace is useful to me and I don't really feel like casting detect good and evil all the time, it's fun to watch my alignment jump up and down in my new prompt.  It's even more fun with the cool new messages that highlight my moral issues.  They may actually earn the honor of my first official gags in my new client.
 
@@ -114,7 +114,7 @@ So where where does the yellow brick road lead?
 
 </div>
 
-<div class="post" data-post-id="7999" data-author="Pine" data-date="2005-07-25T13:05:55+00:00">
+<div class="post" data-post-id="7999" data-author="Pine" data-date="2005-07-25T13:05:55+00:00" data-subject="">
 
 I have a suggestion to give variety to the types of supplicants and such in sloth other than basing it on alignment issues.  Maybe it wouldn't work, but what is the harm of a little wishful thinking.
 
@@ -122,7 +122,7 @@ I think it would be better to have things move more in the direction of prime sk
 
 </div>
 
-<div class="post" data-post-id="8000" data-author="12345" data-date="2005-07-25T13:20:15+00:00">
+<div class="post" data-post-id="8000" data-author="12345" data-date="2005-07-25T13:20:15+00:00" data-subject="">
 
 I know you missed the original implementation of supplicants, but just to bring you up to speed...
 
@@ -134,7 +134,7 @@ So I think more supplicants would be a lot of fun.
 
 </div>
 
-<div class="post" data-post-id="8002" data-author="Pine" data-date="2005-07-25T14:12:02+00:00">
+<div class="post" data-post-id="8002" data-author="Pine" data-date="2005-07-25T14:12:02+00:00" data-subject="">
 
 Yes, I realize my ideas aren't a quick fix.  Maybe its more of a next generation of sloth type idea. However, I think there is still potential. 
 
@@ -142,25 +142,25 @@ By way of clarification, my basic idea wasn't just to add more supplicants thoug
 
 </div>
 
-<div class="post" data-post-id="8003" data-author="Alberich" data-date="2005-07-25T14:15:56+00:00">
+<div class="post" data-post-id="8003" data-author="Alberich" data-date="2005-07-25T14:15:56+00:00" data-subject="">
 
 classo does already count for the vast majority of how one plays - supplication was intended to be a consolation prize to clerics for losing animate (at least that is how it was mostly explained), so having it dependant on anything other than cleric levels/position in classo doesn't really make sense, imho.
 
 </div>
 
-<div class="post" data-post-id="8004" data-author="13" data-date="2005-07-25T14:32:38+00:00">
+<div class="post" data-post-id="8004" data-author="13" data-date="2005-07-25T14:32:38+00:00" data-subject="">
 
 This here is gay, why make changes like this ?
 
 </div>
 
-<div class="post" data-post-id="8005" data-author="Leaf" data-date="2005-07-25T14:42:35+00:00">
+<div class="post" data-post-id="8005" data-author="Leaf" data-date="2005-07-25T14:42:35+00:00" data-subject="">
 
 Soooo, has anyone seen the sky today?  Talk about blue.
 
 </div>
 
-<div class="post" data-post-id="8006" data-author="Krok" data-date="2005-07-25T15:54:13+00:00">
+<div class="post" data-post-id="8006" data-author="Krok" data-date="2005-07-25T15:54:13+00:00" data-subject="">
 
 Well, my 2 cents.
 
@@ -174,13 +174,13 @@ Well, my 2 cents.
 
 </div>
 
-<div class="post" data-post-id="8007" data-author="13" data-date="2005-07-25T16:16:06+00:00">
+<div class="post" data-post-id="8007" data-author="13" data-date="2005-07-25T16:16:06+00:00" data-subject="">
 
 [url:2xs4und0]http://www.tard-blog.com/index.php[/url:2xs4und0]
 
 </div>
 
-<div class="post" data-post-id="8008" data-author="madmax" data-date="2005-07-25T16:26:04+00:00">
+<div class="post" data-post-id="8008" data-author="madmax" data-date="2005-07-25T16:26:04+00:00" data-subject="">
 
 Heres my take,
 
@@ -198,7 +198,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="8009" data-author="Alberich" data-date="2005-07-25T16:34:06+00:00">
+<div class="post" data-post-id="8009" data-author="Alberich" data-date="2005-07-25T16:34:06+00:00" data-subject="">
 
 If you think sitting in groups is the easiest way to change your alignment you really need to spend more time playing solo.  It does take 1, maybe 2 runs for even a small avatar to change alignment by 10-15 points (and without stab - although mirrors do help) - you just need to learn more than "run oly, run tonys, run chicklings, run oly some more".
 
@@ -206,7 +206,7 @@ I do also find it amusing that my thief (not-so-nice people, in theory) almost n
 
 </div>
 
-<div class="post" data-post-id="8010" data-author="12345" data-date="2005-07-25T16:58:14+00:00">
+<div class="post" data-post-id="8010" data-author="12345" data-date="2005-07-25T16:58:14+00:00" data-subject="">
 
 I find supplicants unnecessarily complicated.  Since it will be many billions of xp before I can summon anything useful, I really don't care about using or not using them.  This is sad.
 
@@ -216,7 +216,7 @@ I'm also insanely low on sleep today and feeling more sarcastic than usual.  If 
 
 </div>
 
-<div class="post" data-post-id="8015" data-author="Autolycos" data-date="2005-07-25T22:54:25+00:00">
+<div class="post" data-post-id="8015" data-author="Autolycos" data-date="2005-07-25T22:54:25+00:00" data-subject="">
 
 i personally would like to see a ping pong match between Krok and 12345, maybe use jake as the ball, who knows. He could yell out vote everytime he gets whacked by a paddle, could be tons of fun.   Or another good idea would be to make a supp that you could toss into mobs as an attack, like a midget or dwarf... that would be cool.  
 
@@ -224,7 +224,7 @@ You know, now that i think about it... since we have all this data,  server and 
 
 </div>
 
-<div class="post" data-post-id="8016" data-author="Qa" data-date="2005-07-26T01:31:27+00:00">
+<div class="post" data-post-id="8016" data-author="Qa" data-date="2005-07-26T01:31:27+00:00" data-subject="">
 
 > **12345 wrote:**
 > I'm wondering when the cool new features using alignment are going to start kicking in because right now it just looks like the admin are simply anally raping clerics for fun and profit.
@@ -239,7 +239,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="8024" data-author="Krok" data-date="2005-07-26T04:37:00+00:00">
+<div class="post" data-post-id="8024" data-author="Krok" data-date="2005-07-26T04:37:00+00:00" data-subject="">
 
 A ping pong match, yay-yay! :))
 
@@ -249,7 +249,7 @@ That's what I was talking about... but... wait. Where's oly? *giggle*
 
 </div>
 
-<div class="post" data-post-id="8025" data-author="Vixn" data-date="2005-07-26T10:33:08+00:00">
+<div class="post" data-post-id="8025" data-author="Vixn" data-date="2005-07-26T10:33:08+00:00" data-subject="">
 
 Ping pong match? Nah! ARENA!!!
 
@@ -257,13 +257,13 @@ p.s. 10 bucks on Krok, btw  :D
 
 </div>
 
-<div class="post" data-post-id="8027" data-author="13" data-date="2005-07-26T10:38:03+00:00">
+<div class="post" data-post-id="8027" data-author="13" data-date="2005-07-26T10:38:03+00:00" data-subject="">
 
 Strangely enough, I find myself agreeing with QA, for once.
 
 </div>
 
-<div class="post" data-post-id="8029" data-author="12345" data-date="2005-07-26T11:53:16+00:00">
+<div class="post" data-post-id="8029" data-author="12345" data-date="2005-07-26T11:53:16+00:00" data-subject="">
 
 Ping pong sounds like fun.  If she wants to slaughter me in the arena, that might be good for a laugh too.  I can taunt her mercilessly as she's winding me.  TYSMIHA!
 
@@ -271,13 +271,13 @@ I've decided to try not to think about supplicants and alignment today and conce
 
 </div>
 
-<div class="post" data-post-id="8030" data-author="13" data-date="2005-07-26T12:19:05+00:00">
+<div class="post" data-post-id="8030" data-author="13" data-date="2005-07-26T12:19:05+00:00" data-subject="">
 
 That's a very nice thing to say.
 
 </div>
 
-<div class="post" data-post-id="8034" data-author="brand" data-date="2005-07-26T14:47:36+00:00">
+<div class="post" data-post-id="8034" data-author="brand" data-date="2005-07-26T14:47:36+00:00" data-subject="S.P.G. (special patrol group)">
 
 Are you a supplican or a supplicant?
 
@@ -287,7 +287,7 @@ I often ask my friend Sped the eudaemon that while we're fishing, Sped just look
 
 </div>
 
-<div class="post" data-post-id="8035" data-author="12345" data-date="2005-07-26T15:27:31+00:00">
+<div class="post" data-post-id="8035" data-author="12345" data-date="2005-07-26T15:27:31+00:00" data-subject="">
 
 I've got an idea for a new area.  Brand's mind.  You'll have to find Brand fishing somewhere and crawl into his skull to get there.  The area will have only 2 mobs, each one a single braincell running around the other one.  Together, they will summon the craziest shit you've ever seen to kick your ass and/or confuse the shit out of you.  Things like supplicans, supplicants, long hard rods, Charlie the Tuna and god knows what else.
 
@@ -295,7 +295,7 @@ Apparently I'm feeling sarcastic again.  Sorry.
 
 </div>
 
-<div class="post" data-post-id="8048" data-author="Argeos" data-date="2005-07-26T18:21:23+00:00">
+<div class="post" data-post-id="8048" data-author="Argeos" data-date="2005-07-26T18:21:23+00:00" data-subject="Re: S.P.G. (special patrol group)">
 
 Are you a supplican or a supplicant?
 
@@ -321,7 +321,7 @@ Argeos
 
 </div>
 
-<div class="post" data-post-id="8050" data-author="Alberich" data-date="2005-07-26T18:26:38+00:00">
+<div class="post" data-post-id="8050" data-author="Alberich" data-date="2005-07-26T18:26:38+00:00" data-subject="">
 
 maybe these should have been posted under newbie questions? 
 
@@ -331,13 +331,13 @@ search? uhmm... there is no skill/spell called 'search', so far as I know... may
 
 </div>
 
-<div class="post" data-post-id="8051" data-author="kjartan" data-date="2005-07-26T18:29:59+00:00">
+<div class="post" data-post-id="8051" data-author="kjartan" data-date="2005-07-26T18:29:59+00:00" data-subject="search book">
 
 Ah, I don't think the search book has been made yet, it should be in in the next few days.  The skill uses something else that isn't in-game yet and will probably come in gradually over time, so don't feel there's an urgent need to learn it.  The book will be in the guilds, as it's a lvl 1 skill.
 
 </div>
 
-<div class="post" data-post-id="8053" data-author="12345" data-date="2005-07-26T18:54:01+00:00">
+<div class="post" data-post-id="8053" data-author="12345" data-date="2005-07-26T18:54:01+00:00" data-subject="">
 
 The fusing rod was once part of an old quest...  There's 3 items total, the glowing magical rod of fusing, the hilt of blue flame and whatever the blade was called.
 
@@ -345,7 +345,7 @@ Yes the code seems to have been fixed to they will all pop again. As to the ques
 
 </div>
 
-<div class="post" data-post-id="8055" data-author="Argeos" data-date="2005-07-26T19:24:28+00:00">
+<div class="post" data-post-id="8055" data-author="Argeos" data-date="2005-07-26T19:24:28+00:00" data-subject="">
 
 maybe these should have been posted under newbie questions? 
 
@@ -365,7 +365,7 @@ Argeos
 
 </div>
 
-<div class="post" data-post-id="8056" data-author="Avatar" data-date="2005-07-26T19:29:23+00:00">
+<div class="post" data-post-id="8056" data-author="Avatar" data-date="2005-07-26T19:29:23+00:00" data-subject="alignment">
 
 I think I kind of disagree with people assuming that a necro character is going to be evil, or assigning negative alignment to all the necro spells.  All these years, people can think of their cleric characters as good or evil.  Representatives of good or evil gods, and even supplication increases those options.  You can supp for good or evil mobs, depending on how you want to play your character.  Necromancers should have similar capability to choose how to play their character and which alignment they want to be.  Most undead should be mindless automatons, more neutral than evil, who don't even take any actions unless they have been commanded too.  Necromancers should come in all three flavors, good / neutral / evil - most doctors don't become evil when they perform autopsies.
 
@@ -373,7 +373,7 @@ I still would like to see some neutral supplication forms too, come on, give neu
 
 </div>
 
-<div class="post" data-post-id="8057" data-author="12345" data-date="2005-07-26T19:45:14+00:00">
+<div class="post" data-post-id="8057" data-author="12345" data-date="2005-07-26T19:45:14+00:00" data-subject="">
 
 I think it should have been fixed in-game rather than having to read forums.
 
@@ -387,13 +387,13 @@ It's not a bug and it's not broken.  It is considered a quest item so it's not l
 
 </div>
 
-<div class="post" data-post-id="8058" data-author="Weasel" data-date="2005-07-26T19:51:10+00:00">
+<div class="post" data-post-id="8058" data-author="Weasel" data-date="2005-07-26T19:51:10+00:00" data-subject="">
 
 [img:42skzsbn]http://hollywoodcostumesandparty.com/austinpowers/evilgreyb.jpg[/img:42skzsbn]
 
 </div>
 
-<div class="post" data-post-id="8060" data-author="kjartan" data-date="2005-07-26T19:54:44+00:00">
+<div class="post" data-post-id="8060" data-author="kjartan" data-date="2005-07-26T19:54:44+00:00" data-subject="Re: alignment">
 
 I think I kind of disagree with people assuming that a necro character is going to be evil, or assigning negative alignment to all the necro spells.[/quote:506lq0us]
 
@@ -401,7 +401,7 @@ The necro spells don't make you evil because casting them is morally wrong; they
 
 </div>
 
-<div class="post" data-post-id="8061" data-author="Avatar" data-date="2005-07-26T20:05:47+00:00">
+<div class="post" data-post-id="8061" data-author="Avatar" data-date="2005-07-26T20:05:47+00:00" data-subject="Hmm">
 
 Well, ignore me then  :)
 

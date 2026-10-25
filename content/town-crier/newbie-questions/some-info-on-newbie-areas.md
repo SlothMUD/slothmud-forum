@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="1713" data-author="Altair" data-date="2004-09-02T14:12:38+00:00">
+<div class="post" data-post-id="1713" data-author="Altair" data-date="2004-09-02T14:12:38+00:00" data-subject="Some info on newbie areas">
 
 Based on my experience etc, not comprehensive etc, changes happen etc, please insert here the rest of the usual disclaimer.
 
@@ -66,7 +66,7 @@ I usually start in either AH or SS (for tranquility in the first few levels and 
 
 </div>
 
-<div class="post" data-post-id="1718" data-author="Ender" data-date="2004-09-02T15:27:18+00:00">
+<div class="post" data-post-id="1718" data-author="Ender" data-date="2004-09-02T15:27:18+00:00" data-subject="Re: Some info on newbie areas">
 
 Basic additions:
 
@@ -78,7 +78,7 @@ There are rude Big People, but don't let this discourage you from taking advanta
 
 </div>
 
-<div class="post" data-post-id="1734" data-author="Altair" data-date="2004-09-03T08:52:19+00:00">
+<div class="post" data-post-id="1734" data-author="Altair" data-date="2004-09-03T08:52:19+00:00" data-subject="">
 
 In AH, Alana's temple seems to be more popular than Judge's. So I tend to use the Holy Dagger of Judge until it gets grooves  :wink: 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39668" data-author="Gorka" data-date="2021-01-08T16:23:00+00:00">
+<div class="post" data-post-id="39668" data-author="Gorka" data-date="2021-01-08T16:23:00+00:00" data-subject="Running with an extra +75 dam">
 
 I stacked +75dam worth of potions today, just to see how the game would play.
 

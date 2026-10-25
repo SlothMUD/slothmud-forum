@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30687" data-author="Thraxas" data-date="2010-01-15T14:18:28+00:00">
+<div class="post" data-post-id="30687" data-author="Thraxas" data-date="2010-01-15T14:18:28+00:00" data-subject="Housing">
 
 anyone know when housing will be available on ah & ss & is
 
@@ -22,7 +22,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30769" data-author="*Splork*" data-date="2010-01-31T21:32:04+00:00">
+<div class="post" data-post-id="30769" data-author="*Splork*" data-date="2010-01-31T21:32:04+00:00" data-subject="">
 
 - AH housing guy is north of the auction house near Leah and the Bank.
 
@@ -32,7 +32,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30836" data-author="Stab" data-date="2010-02-07T01:23:30+00:00">
+<div class="post" data-post-id="30836" data-author="Stab" data-date="2010-02-07T01:23:30+00:00" data-subject="">
 
 - Lyme housing located at magistrate-kao .. flee west from Foo Dog. in CK. 
 

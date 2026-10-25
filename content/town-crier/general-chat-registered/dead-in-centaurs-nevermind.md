@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="14984" data-author="Jag" data-date="2006-11-04T22:22:20+00:00">
+<div class="post" data-post-id="14984" data-author="Jag" data-date="2006-11-04T22:22:20+00:00" data-subject="Dead in Centaurs - nevermind">
 
 Went link dead in middle of fight and tan cantaur just killed me.  If anyone can help, it would be apprec.
 

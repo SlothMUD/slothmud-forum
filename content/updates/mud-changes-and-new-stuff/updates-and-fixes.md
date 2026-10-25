@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9644" data-author="*Splork*" data-date="2005-11-26T22:09:50+00:00">
+<div class="post" data-post-id="9644" data-author="*Splork*" data-date="2005-11-26T22:09:50+00:00" data-subject="Updates and fixes">
 
 1) Restrings and personal eq will now be able to be vaulted.
 

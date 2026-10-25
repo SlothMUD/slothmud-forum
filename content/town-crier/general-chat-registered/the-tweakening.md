@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="30137" data-author="*Chobbs*" data-date="2009-10-19T18:58:02+00:00">
+<div class="post" data-post-id="30137" data-author="*Chobbs*" data-date="2009-10-19T18:58:02+00:00" data-subject="The tweakening!">
 
 Mornin' folks,
 
@@ -28,19 +28,19 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30138" data-author="*juggleblood*" data-date="2009-10-19T21:32:20+00:00">
+<div class="post" data-post-id="30138" data-author="*juggleblood*" data-date="2009-10-19T21:32:20+00:00" data-subject="">
 
 Awesome.
 
 </div>
 
-<div class="post" data-post-id="30140" data-author="reboog" data-date="2009-10-21T01:53:00+00:00">
+<div class="post" data-post-id="30140" data-author="reboog" data-date="2009-10-21T01:53:00+00:00" data-subject="">
 
 It is important that you "lend" me 787 billion drachma, or your economy will collapse.
 
 </div>
 
-<div class="post" data-post-id="30155" data-author="*Chobbs*" data-date="2009-10-22T02:26:05+00:00">
+<div class="post" data-post-id="30155" data-author="*Chobbs*" data-date="2009-10-22T02:26:05+00:00" data-subject="">
 
 Mornin' folks,
 
@@ -94,7 +94,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30159" data-author="Toxis" data-date="2009-10-22T11:17:33+00:00">
+<div class="post" data-post-id="30159" data-author="Toxis" data-date="2009-10-22T11:17:33+00:00" data-subject="">
 
 I thought Vellow and Fallon were just right.  It's not our fault someone decided to put crappy subdue AQ on fallon, and now we need more people who won't turn off autokill?  Besides, who was the moron who decided huge mobs should be subdued for AQ's?  *SLAP*SLAP*
 
@@ -102,7 +102,7 @@ Not every mob in the game needs to be huge.  I thought huge green dragon in unde
 
 </div>
 
-<div class="post" data-post-id="30161" data-author="Vixn" data-date="2009-10-22T14:36:09+00:00">
+<div class="post" data-post-id="30161" data-author="Vixn" data-date="2009-10-22T14:36:09+00:00" data-subject="">
 
 If I can kill mob without a group I wouldn't call it 'huge'.
 
@@ -112,7 +112,7 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="30164" data-author="*Chobbs*" data-date="2009-10-22T18:27:34+00:00">
+<div class="post" data-post-id="30164" data-author="*Chobbs*" data-date="2009-10-22T18:27:34+00:00" data-subject="">
 
 [quote:368r76b5]I thought Vellow and Fallon were just right. It's not our fault someone decided to put crappy subdue AQ on fallon, and now we need more people who won't turn off autokill? Besides, who was the moron who decided huge mobs should be subdued for AQ's? *SLAP*SLAP* 
 
@@ -130,7 +130,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30219" data-author="*Chobbs*" data-date="2009-11-05T12:44:42+00:00">
+<div class="post" data-post-id="30219" data-author="*Chobbs*" data-date="2009-11-05T12:44:42+00:00" data-subject="">
 
 Mornin' folks,
 
@@ -154,13 +154,13 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30220" data-author="Ezekiel" data-date="2009-11-05T19:05:34+00:00">
+<div class="post" data-post-id="30220" data-author="Ezekiel" data-date="2009-11-05T19:05:34+00:00" data-subject="">
 
 Heya, I don't mind some of the tweaks...but I would request that you not restore negative honor to marsup. It has been changed for the better to give ppl a chance to pop the -1.1 shield during xp/eq runs on bh. If you re going to restore the negative honor, groups won't touch it and the mob will go unrun. I have noticed that ppl are becoming increasingly interested in keeping their honor, so I'm pretty damn sure leaders will avoid hitting it altogether...so while you might say "It's a choice and it makes the value of the shield worth more." ...in reality, no one will hit the mob (just as groups always skipped it in s3) and the only ppl that will have the shield are those who popped it when things hadn't yet been tweaked. It would be a self-defeating change really.
 
 </div>
 
-<div class="post" data-post-id="30222" data-author="*Chobbs*" data-date="2009-11-05T21:34:01+00:00">
+<div class="post" data-post-id="30222" data-author="*Chobbs*" data-date="2009-11-05T21:34:01+00:00" data-subject="">
 
 Mornin' sir,
 
@@ -176,13 +176,13 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30223" data-author="Ezekiel" data-date="2009-11-05T22:44:06+00:00">
+<div class="post" data-post-id="30223" data-author="Ezekiel" data-date="2009-11-05T22:44:06+00:00" data-subject="">
 
 Don't get me wrong, I understand where that might look good on paper...I'm looking at the practice. The groups that hit such areas will not hit any mob that is negative honor... period. Even if a couple people did want to hit it, most of the group won't, which means it will be skipped all the time. It being skipped means it is one less piece of eq for mid levs to call and one more mob that is added to the slew of mobs that so characterized s3..mobs (and sometimes areas) that were tweaked to to the point that they were never run.
 
 </div>
 
-<div class="post" data-post-id="30224" data-author="Toxis" data-date="2009-11-05T22:55:56+00:00">
+<div class="post" data-post-id="30224" data-author="Toxis" data-date="2009-11-05T22:55:56+00:00" data-subject="">
 
 Gee, that first post by Ezekiel is the exact same arguement me and Chobbs had earlier this morning.
 
@@ -192,19 +192,19 @@ In the words of the great Sam Kenison:
 
 </div>
 
-<div class="post" data-post-id="30225" data-author="blackmore" data-date="2009-11-06T00:54:24+00:00">
+<div class="post" data-post-id="30225" data-author="blackmore" data-date="2009-11-06T00:54:24+00:00" data-subject="">
 
 In order for one player to pop the shield, all members of the group must be willing to lose honor - and why would I agree to lose honor?  Unless I'm calling the shield, why would I care if we pop it?  It doesn't provide me any benefit, but it does cause me loss.  The argument that it's a choice makes sense for a solo mob, but not a group mob that requires the entire group to be willing to make a sacrifice for one player to possibly obtain a shield that isn't all that special.
 
 </div>
 
-<div class="post" data-post-id="30228" data-author="13" data-date="2009-11-06T01:05:11+00:00">
+<div class="post" data-post-id="30228" data-author="13" data-date="2009-11-06T01:05:11+00:00" data-subject="">
 
 if it's a dope-ass item then it might be worth it..but then again i never really went too far on the honor clasp thing.
 
 </div>
 
-<div class="post" data-post-id="30233" data-author="*Chobbs*" data-date="2009-11-06T16:51:54+00:00">
+<div class="post" data-post-id="30233" data-author="*Chobbs*" data-date="2009-11-06T16:51:54+00:00" data-subject="">
 
 Morning sirs,
 
@@ -258,7 +258,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30234" data-author="Toxis" data-date="2009-11-06T17:28:28+00:00">
+<div class="post" data-post-id="30234" data-author="Toxis" data-date="2009-11-06T17:28:28+00:00" data-subject="">
 
 Chobbs, for real?  You know damn well what I meant in that arguement.  I meant your arguement is weak, so fuck it I'm done and I got my 2 so I'm happy, and I feel sorry for those who want the shield.  That's what I fucking meant.
 
@@ -268,7 +268,7 @@ And I led those groups where the power of the group would sit out, and then all 
 
 </div>
 
-<div class="post" data-post-id="30235" data-author="blackmore" data-date="2009-11-06T18:27:48+00:00">
+<div class="post" data-post-id="30235" data-author="blackmore" data-date="2009-11-06T18:27:48+00:00" data-subject="">
 
 I don't disagree with your most of your response, but this is different than saying there's a choice.  What this says below is that anyone with a small group of friends that are powerful enough can probably convince their friends to sacrifice some honor in order to pop the shield.  I agree with that argument, but it's different from there being an option with open groups.
 
@@ -280,7 +280,7 @@ So a standard BH exp group might not run it.  A smaller, more dedicated group co
 
 </div>
 
-<div class="post" data-post-id="30236" data-author="*Chobbs*" data-date="2009-11-06T19:57:04+00:00">
+<div class="post" data-post-id="30236" data-author="*Chobbs*" data-date="2009-11-06T19:57:04+00:00" data-subject="">
 
 Mornin' sirs,
 
@@ -312,7 +312,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30237" data-author="Cizin" data-date="2009-11-06T20:55:45+00:00">
+<div class="post" data-post-id="30237" data-author="Cizin" data-date="2009-11-06T20:55:45+00:00" data-subject="">
 
 All I know is that shield was sold for 4 symphonia seals and it would be really unfair to change his stats after.
 
@@ -322,7 +322,7 @@ Peace out.
 
 </div>
 
-<div class="post" data-post-id="30238" data-author="Cizin" data-date="2009-11-06T21:13:08+00:00">
+<div class="post" data-post-id="30238" data-author="Cizin" data-date="2009-11-06T21:13:08+00:00" data-subject="">
 
 Mornin' sirs,
 
@@ -336,7 +336,7 @@ Cizin
 
 </div>
 
-<div class="post" data-post-id="30239" data-author="Playboy" data-date="2009-11-06T22:45:00+00:00">
+<div class="post" data-post-id="30239" data-author="Playboy" data-date="2009-11-06T22:45:00+00:00" data-subject="">
 
 Muck is a verb.
 

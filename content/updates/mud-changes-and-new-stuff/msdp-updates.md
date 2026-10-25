@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34686" data-author="*Splork*" data-date="2013-12-24T13:16:26+00:00">
+<div class="post" data-post-id="34686" data-author="*Splork*" data-date="2013-12-24T13:16:26+00:00" data-subject="MSDP Updates">
 
 MSDP Changes after reboot
 
@@ -36,7 +36,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34689" data-author="*Splork*" data-date="2013-12-26T04:14:38+00:00">
+<div class="post" data-post-id="34689" data-author="*Splork*" data-date="2013-12-26T04:14:38+00:00" data-subject="Re: MSDP Updates">
 
 MSDP variables added:
 
@@ -50,7 +50,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34823" data-author="*Splork*" data-date="2014-01-24T18:29:20+00:00">
+<div class="post" data-post-id="34823" data-author="*Splork*" data-date="2014-01-24T18:29:20+00:00" data-subject="Re: MSDP Updates">
 
 The following MSDP string variables have been added. The variables are set upon wearing an item. The string resembles the following: Vnum: #, DESC: description, AC:value, AFF: value
 

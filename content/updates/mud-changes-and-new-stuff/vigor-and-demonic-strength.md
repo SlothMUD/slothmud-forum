@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32631" data-author="*Isabo*" data-date="2011-05-21T19:47:28+00:00">
+<div class="post" data-post-id="32631" data-author="*Isabo*" data-date="2011-05-21T19:47:28+00:00" data-subject="Vigor and demonic strength">
 
 Greeting mortals.
 
@@ -25,7 +25,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="32634" data-author="*Isabo*" data-date="2011-05-22T04:25:32+00:00">
+<div class="post" data-post-id="32634" data-author="*Isabo*" data-date="2011-05-22T04:25:32+00:00" data-subject="Re: Vigor and demonic strength">
 
 Greeting mortals.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 48
 ---
 
-<div class="post" data-post-id="31437" data-author="*Splork*" data-date="2010-08-10T15:34:31+00:00">
+<div class="post" data-post-id="31437" data-author="*Splork*" data-date="2010-08-10T15:34:31+00:00" data-subject="Mudstats and state of our playerbase">
 
 Here is the website we relied heavily on to watch our numbers and the numbers of other muds:
 
@@ -24,7 +24,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31446" data-author="jezer" data-date="2010-08-10T19:58:35+00:00">
+<div class="post" data-post-id="31446" data-author="jezer" data-date="2010-08-10T19:58:35+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 Hold on Splork, this supports the player base doing well... it does NOT support characters playing over 4x40 are doing well... and you should know by doing a quick count in your head of just how many people have quit, in particular the older clans such as DS, Greedy, DOW and Legends before or just on 4x40. Don't make me start listing them. If these stats show anything, it's that we are more newbie friendly, which is a good thing. The fact remains about half the players are not continuing after 2-4x40. Remove the immortal chars and long termers from the 17 active players over 4x40 and whose left?
 
@@ -34,7 +34,7 @@ Also how long are they logged in for? Your stats counts it as a +1. We have peop
 
 </div>
 
-<div class="post" data-post-id="31449" data-author="*Splork*" data-date="2010-08-10T21:45:51+00:00">
+<div class="post" data-post-id="31449" data-author="*Splork*" data-date="2010-08-10T21:45:51+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 It supports the fact we even have a player base as compared to 08 when the game was dead.
 
@@ -46,7 +46,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31450" data-author="jezer" data-date="2010-08-10T22:11:15+00:00">
+<div class="post" data-post-id="31450" data-author="jezer" data-date="2010-08-10T22:11:15+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 > ***Splork* wrote:**
 > While the game is far from perfect
@@ -67,7 +67,7 @@ We love gems, and we love the 8 class system, we love the new quest shops, max s
 
 </div>
 
-<div class="post" data-post-id="31453" data-author="*Splork*" data-date="2010-08-11T17:50:39+00:00">
+<div class="post" data-post-id="31453" data-author="*Splork*" data-date="2010-08-11T17:50:39+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 Great questions actually and my answers are probably not going to please anybody...
 
@@ -95,7 +95,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31456" data-author="jezer" data-date="2010-08-11T21:31:22+00:00">
+<div class="post" data-post-id="31456" data-author="jezer" data-date="2010-08-11T21:31:22+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 I was pleased to hear about Isabo being given the power to do more, as a natural progression of you being able to do less due to your time commitments. I don't know Isabo well, but from what I've seen, I'd say it's in good capable hands, even if inevitably we won't agree on some points. Chobbs was also making some cool changes - ie, druid pets :) Vendor etc
 
@@ -107,7 +107,7 @@ I potentially can not solo oni till 6x40 at the moment, that doesn't seem right!
 
 </div>
 
-<div class="post" data-post-id="31459" data-author="Dragoth" data-date="2010-08-11T22:38:03+00:00">
+<div class="post" data-post-id="31459" data-author="Dragoth" data-date="2010-08-11T22:38:03+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 Jezer im sorry but you sound like a communist - every area should use the same code to calculate the exp, every player should get the same exp, blah blah blah.
 
@@ -119,7 +119,7 @@ If you want nightmare at 3x40 not 6x40, why dont you make a cleric prime instead
 
 </div>
 
-<div class="post" data-post-id="31460" data-author="jezer" data-date="2010-08-11T22:48:51+00:00">
+<div class="post" data-post-id="31460" data-author="jezer" data-date="2010-08-11T22:48:51+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 > **Dragoth wrote:**
 > blah blah blah
@@ -130,7 +130,7 @@ Shiftforms and Supplication positions were changed AFTER the game had restarted 
 
 </div>
 
-<div class="post" data-post-id="31461" data-author="Dragoth" data-date="2010-08-11T23:05:13+00:00">
+<div class="post" data-post-id="31461" data-author="Dragoth" data-date="2010-08-11T23:05:13+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 Im not saying your communist ideas are impossible, i am saying - why should it be so ? Why should everything be the same, some areas give better exp than others, because they are easier to reach, they have less aggro mobs, or simply because the immortal who created the area wanted it to be that way.
 
@@ -140,7 +140,7 @@ And calling me stupid does not make you or your arguments smarter.
 
 </div>
 
-<div class="post" data-post-id="31462" data-author="jezer" data-date="2010-08-11T23:19:51+00:00">
+<div class="post" data-post-id="31462" data-author="jezer" data-date="2010-08-11T23:19:51+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 > **Dragoth wrote:**
 > As for your troubles with supplications - you started the character pretty late
@@ -155,7 +155,7 @@ That's actually true... but you have to admit, you flamed me without thinking to
 
 </div>
 
-<div class="post" data-post-id="31463" data-author="Dragoth" data-date="2010-08-11T23:39:19+00:00">
+<div class="post" data-post-id="31463" data-author="Dragoth" data-date="2010-08-11T23:39:19+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 There are certain areas that noone runs and there was a topic about that already quite some time ago. And immortals had their say in it. Basically what it boiled down to was that not all areas are supposed to be there just for the exp, some provide better exp, some provide gold, others have lots of autoquest, eq etc - basically all that i have told you.
 
@@ -167,7 +167,7 @@ Anyway, Splork is just going to just tell you the same thing about the exp code 
 
 </div>
 
-<div class="post" data-post-id="31464" data-author="jezer" data-date="2010-08-11T23:59:12+00:00">
+<div class="post" data-post-id="31464" data-author="jezer" data-date="2010-08-11T23:59:12+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 > **Dragoth wrote:**
 > Anyway, Splork is just going to just tell you the same thing about the exp code as it's already been talked over before - aint gonna happen bub.
@@ -180,7 +180,7 @@ There is that famous saying "All that is needed for evil to succeed is for good 
 
 </div>
 
-<div class="post" data-post-id="31466" data-author="*Splork*" data-date="2010-08-12T05:56:11+00:00">
+<div class="post" data-post-id="31466" data-author="*Splork*" data-date="2010-08-12T05:56:11+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 The experience algorithm already includes an obnoxious amount of variables, including hitpoints, damrolls, procs, armor class,  etc of a creature.
 
@@ -194,7 +194,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31471" data-author="Dragoth" data-date="2010-08-12T09:19:34+00:00">
+<div class="post" data-post-id="31471" data-author="Dragoth" data-date="2010-08-12T09:19:34+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 I absolutely agree with you on one thing Jezer, if we dont like something and we are quiet, those things in the game are never going to a change. 
 
@@ -202,7 +202,7 @@ If you do feel that something isnt right it's your responsibility to get this ac
 
 </div>
 
-<div class="post" data-post-id="31473" data-author="*Chobbs*" data-date="2010-08-12T12:00:03+00:00">
+<div class="post" data-post-id="31473" data-author="*Chobbs*" data-date="2010-08-12T12:00:03+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 Mornin' folks,
 
@@ -242,13 +242,13 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="31474" data-author="Dragoth" data-date="2010-08-12T12:52:58+00:00">
+<div class="post" data-post-id="31474" data-author="Dragoth" data-date="2010-08-12T12:52:58+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 So Choobs, you are saying there are a 100 areas in sloth that need a redesign ?  :mrgreen:
 
 </div>
 
-<div class="post" data-post-id="31476" data-author="Jag" data-date="2010-08-12T13:22:38+00:00">
+<div class="post" data-post-id="31476" data-author="Jag" data-date="2010-08-12T13:22:38+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 I think I'm more like the huge majority of players who really like sloth4 and most of its changes (not part of the quite small percentage of frequent whiners) .   Splork hit the nail on the head when he said it was easier to add things then take them away.   This definitely makes everyone happier when it is done that way.
 
@@ -268,7 +268,7 @@ Jag
 
 </div>
 
-<div class="post" data-post-id="31478" data-author="*Chobbs*" data-date="2010-08-12T13:39:58+00:00">
+<div class="post" data-post-id="31478" data-author="*Chobbs*" data-date="2010-08-12T13:39:58+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 @Anrok:
 
@@ -292,7 +292,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="31479" data-author="Dragoth" data-date="2010-08-12T14:06:35+00:00">
+<div class="post" data-post-id="31479" data-author="Dragoth" data-date="2010-08-12T14:06:35+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 100 areas to redo is not too shabby if you consider you that have to go through every mob in the area, might be quite a bit time consuming. But im sure there are some areas that need alot while others just need minor changes. I see pretty much every area in the game utilized one way or the other, like hellwell might be crap exp and there arent too many peolpe who can run it efficiently but its awesome eq and gold. But if we are being real, what else is there in this game in terms of area popularity? It's really all about exp and gold and eq and if an area does not comply to any of those things, then it will just sit there being unrun, especially if its a hard run with a few aggro mobs, like vampire lair with those huge aggro vampires - who ever runs there now ? And as far as i can remember those citizens arent bad exp, but you need to kill vampires, then regen full then kill, then kill vampires again etc - it slows down your exp getting considerably as you can clear 2 exp areas in the time it takes you to clear 1 run in the lair, and the exp is not really twice as good to compensate for that, some immortals just dont think of that when they make an area and then they wonder why does noone run my zone, the exp on some mobs is not so bad ?
 
@@ -304,13 +304,13 @@ But you'll stop worrying about corpses once you get wraiths anyway.
 
 </div>
 
-<div class="post" data-post-id="31480" data-author="Jag" data-date="2010-08-12T14:19:48+00:00">
+<div class="post" data-post-id="31480" data-author="Jag" data-date="2010-08-12T14:19:48+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 My necro is Yersinia.
 
 </div>
 
-<div class="post" data-post-id="31481" data-author="Jag" data-date="2010-08-12T14:23:28+00:00">
+<div class="post" data-post-id="31481" data-author="Jag" data-date="2010-08-12T14:23:28+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 The general corpse leveling was over a month ago.  I did not immediately complain because I first tried to find substitutes, then tried working with what was there, then tried "tells" to imms.
 
@@ -322,7 +322,7 @@ P.S.  Dragoth I am aware of that bug fix and am  not complaining about it.  Ther
 
 </div>
 
-<div class="post" data-post-id="31482" data-author="*Chobbs*" data-date="2010-08-12T15:06:43+00:00">
+<div class="post" data-post-id="31482" data-author="*Chobbs*" data-date="2010-08-12T15:06:43+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 @Jag
 
@@ -338,7 +338,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="31483" data-author="Jag" data-date="2010-08-12T15:45:14+00:00">
+<div class="post" data-post-id="31483" data-author="Jag" data-date="2010-08-12T15:45:14+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 I have no resentment at all and hope you realize I was slow to complain and in fact don't like doing it.  I'll compile a list of what I can remember being changed and send it to you.
 
@@ -348,7 +348,7 @@ Jag
 
 </div>
 
-<div class="post" data-post-id="31484" data-author="jezer" data-date="2010-08-12T20:42:56+00:00">
+<div class="post" data-post-id="31484" data-author="jezer" data-date="2010-08-12T20:42:56+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 * Often in immortal replies we read something like "that's wrong information, your just not good enough or you don't know or don't look." How is this our fault when we can't see mob levels, we don't even know our caps, and it's such a secret society up there when it comes to releasing information. It's fanastic that you know because you can look at area files and game formulas, but we can't. We don't even know exactly what some spell effects do. Try the bite on naga, there are a number of different messages, one is a successful blind, the others I have no idea about... this is the norm, this is what we put up with, so please don't tell us we are wrong or stupid when we get skimpy information and have to beg it out of you. 
 
@@ -370,7 +370,7 @@ I do understand this would make mobs go up and down significantly... but last ni
 
 </div>
 
-<div class="post" data-post-id="31486" data-author="*Chobbs*" data-date="2010-08-12T22:04:17+00:00">
+<div class="post" data-post-id="31486" data-author="*Chobbs*" data-date="2010-08-12T22:04:17+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 @Jezer
 
@@ -401,7 +401,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="31487" data-author="*Splork*" data-date="2010-08-12T23:54:29+00:00">
+<div class="post" data-post-id="31487" data-author="*Splork*" data-date="2010-08-12T23:54:29+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 Actually you clearly were being rude and obnoxious in your post. Also, half of the changes you mentioned were not my decisions but that of the entire Immortal staff. I simply sign my name to them in a post, as thats my responsibility. 
 
@@ -413,7 +413,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31507" data-author="DSF" data-date="2010-08-17T17:32:01+00:00">
+<div class="post" data-post-id="31507" data-author="DSF" data-date="2010-08-17T17:32:01+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 Well...i'm not Jezer and i tend to dislike his obnoxious way too. But here's my summarised 2 cents worth. 
 
@@ -445,7 +445,7 @@ Afternote: After re-reading my thread, I wondered why i even bothered to type th
 
 </div>
 
-<div class="post" data-post-id="31508" data-author="Tuck" data-date="2010-08-17T18:24:32+00:00">
+<div class="post" data-post-id="31508" data-author="Tuck" data-date="2010-08-17T18:24:32+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 > **DSF wrote:**
 > P.S. I only dun appreciate one thing...that's Tuk.
@@ -456,7 +456,7 @@ All hail dsfren, most playerkilled char on sloth  :D
 
 </div>
 
-<div class="post" data-post-id="31509" data-author="Thraxas" data-date="2010-08-17T22:11:10+00:00">
+<div class="post" data-post-id="31509" data-author="Thraxas" data-date="2010-08-17T22:11:10+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 > **Chobbs wrote:**
 > @Jag
@@ -493,7 +493,7 @@ Thankyou for engaging in the conversation with me let me know if you really and 
 
 </div>
 
-<div class="post" data-post-id="31510" data-author="*Chobbs*" data-date="2010-08-18T02:57:20+00:00">
+<div class="post" data-post-id="31510" data-author="*Chobbs*" data-date="2010-08-18T02:57:20+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 @Thraxas
 
@@ -535,7 +535,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="31511" data-author="jezer" data-date="2010-08-18T07:03:29+00:00">
+<div class="post" data-post-id="31511" data-author="jezer" data-date="2010-08-18T07:03:29+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 Hi this is Jezer  :twisted:  hurting others with hard truths since 2005  :mrgreen: 
 
@@ -559,7 +559,7 @@ Can some imm consider changing the stat on the Thick Leather Belt as the str poi
 
 </div>
 
-<div class="post" data-post-id="31512" data-author="*Chobbs*" data-date="2010-08-18T07:25:34+00:00">
+<div class="post" data-post-id="31512" data-author="*Chobbs*" data-date="2010-08-18T07:25:34+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 @Jezer
 
@@ -571,7 +571,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="31513" data-author="reboog" data-date="2010-08-18T07:32:39+00:00">
+<div class="post" data-post-id="31513" data-author="reboog" data-date="2010-08-18T07:32:39+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 troll definition:
 
@@ -581,7 +581,7 @@ no.  please see: jezer
 
 </div>
 
-<div class="post" data-post-id="31514" data-author="jezer" data-date="2010-08-18T07:34:47+00:00">
+<div class="post" data-post-id="31514" data-author="jezer" data-date="2010-08-18T07:34:47+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 Yeap, some bad stuff got fixed last week, can't deny it. Good work! But spelldam not working for so long... and then the mud not being restarted as the fix was non urgent? Play down of the week! See us players with "attitude problems" find that news, and the reaction only adds to our arguments of widespread doofusing. An apology and a mud reboot probably would have kissed it little more better... 
 
@@ -589,7 +589,7 @@ Has the peri thing been looked at, or am I too evil to be taken seriously? Is it
 
 </div>
 
-<div class="post" data-post-id="31515" data-author="reboog" data-date="2010-08-18T07:35:05+00:00">
+<div class="post" data-post-id="31515" data-author="reboog" data-date="2010-08-18T07:35:05+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 mommy, who is that?
 
@@ -599,7 +599,7 @@ oh, that's just jezer
 
 </div>
 
-<div class="post" data-post-id="31516" data-author="jezer" data-date="2010-08-18T07:36:36+00:00">
+<div class="post" data-post-id="31516" data-author="jezer" data-date="2010-08-18T07:36:36+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 > **reboog wrote:**
 > mommy, who is that?
@@ -612,7 +612,7 @@ Wrong thread Goober :p This r serious thread!
 
 </div>
 
-<div class="post" data-post-id="31517" data-author="reboog" data-date="2010-08-18T07:36:58+00:00">
+<div class="post" data-post-id="31517" data-author="reboog" data-date="2010-08-18T07:36:58+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 insult the coders!
 
@@ -622,7 +622,7 @@ that will get things fixed
 
 </div>
 
-<div class="post" data-post-id="31518" data-author="reboog" data-date="2010-08-18T07:38:41+00:00">
+<div class="post" data-post-id="31518" data-author="reboog" data-date="2010-08-18T07:38:41+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 noise. rants.  stupidity.
 
@@ -632,7 +632,7 @@ thy name is jezer
 
 </div>
 
-<div class="post" data-post-id="31519" data-author="reboog" data-date="2010-08-18T07:43:25+00:00">
+<div class="post" data-post-id="31519" data-author="reboog" data-date="2010-08-18T07:43:25+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 new sloth holiday:
 
@@ -642,7 +642,7 @@ let me take first swing
 
 </div>
 
-<div class="post" data-post-id="31520" data-author="reboog" data-date="2010-08-18T07:45:34+00:00">
+<div class="post" data-post-id="31520" data-author="reboog" data-date="2010-08-18T07:45:34+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 how come my classo
 
@@ -652,7 +652,7 @@ because god hates you
 
 </div>
 
-<div class="post" data-post-id="31521" data-author="reboog" data-date="2010-08-18T07:46:39+00:00">
+<div class="post" data-post-id="31521" data-author="reboog" data-date="2010-08-18T07:46:39+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 how to make good game?
 
@@ -662,13 +662,13 @@ achievement unlocked!
 
 </div>
 
-<div class="post" data-post-id="31522" data-author="Dragoth" data-date="2010-08-18T08:14:11+00:00">
+<div class="post" data-post-id="31522" data-author="Dragoth" data-date="2010-08-18T08:14:11+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 Regarding the corpses for necro pets - how about reducing the level of corpse required to animate certain undeads instead of changing all the mobs ingame ?
 
 </div>
 
-<div class="post" data-post-id="31523" data-author="Tuck" data-date="2010-08-18T08:30:10+00:00">
+<div class="post" data-post-id="31523" data-author="Tuck" data-date="2010-08-18T08:30:10+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 Don't want to troll or complain, but...
 
@@ -685,7 +685,7 @@ Anyways, i thank Splork and other imms, including Jake for keeping this MUD up a
 
 </div>
 
-<div class="post" data-post-id="31524" data-author="Mace" data-date="2010-08-18T08:47:15+00:00">
+<div class="post" data-post-id="31524" data-author="Mace" data-date="2010-08-18T08:47:15+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 > **Quote:**
 > Has the peri thing been looked at..
@@ -694,7 +694,7 @@ Yes, peris and eudaemons can 'lose concentration' on a heal and lose mana for it
 
 </div>
 
-<div class="post" data-post-id="31525" data-author="Thraxas" data-date="2010-08-18T16:06:23+00:00">
+<div class="post" data-post-id="31525" data-author="Thraxas" data-date="2010-08-18T16:06:23+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 > **Chobbs wrote:**
 > @Thraxas
@@ -713,13 +713,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="31526" data-author="Tuck" data-date="2010-08-18T16:40:43+00:00">
+<div class="post" data-post-id="31526" data-author="Tuck" data-date="2010-08-18T16:40:43+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 This thread must be renamed to 'Posers and trolls galore'.  :D
 
 </div>
 
-<div class="post" data-post-id="31531" data-author="jezer" data-date="2010-08-18T21:29:12+00:00">
+<div class="post" data-post-id="31531" data-author="jezer" data-date="2010-08-18T21:29:12+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 What about opening 10 avatar levels instead of 5 at 4x40 and there on? The second set of 4x40 classes don't actually "add much power" compared to the front 4, and they take exponentially longer to level. 
 
@@ -727,7 +727,7 @@ Players almost need the full avatar powers to enjoy leveling the back set of 4x4
 
 </div>
 
-<div class="post" data-post-id="31539" data-author="Tuck" data-date="2010-08-19T13:29:26+00:00">
+<div class="post" data-post-id="31539" data-author="Tuck" data-date="2010-08-19T13:29:26+00:00" data-subject="Re: Mudstats and state of our playerbase">
 
 > **Quote:**
 > What about opening 10 avatar levels instead of 5 at 4x40 and there on?

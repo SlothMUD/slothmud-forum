@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31150" data-author="Gladavar" data-date="2010-05-12T09:20:19+00:00">
+<div class="post" data-post-id="31150" data-author="Gladavar" data-date="2010-05-12T09:20:19+00:00" data-subject="CMUD: back and knap auto-complete triggers">
 
 Copy the code below into a text editor and save as a .xml file  then use CMUD's import option in the package editor to import into your session package.
 
@@ -42,7 +42,7 @@ I don't have anything but noob containers to use it with right now but you could
 
 </div>
 
-<div class="post" data-post-id="31151" data-author="Vixn" data-date="2010-05-12T18:29:42+00:00">
+<div class="post" data-post-id="31151" data-author="Vixn" data-date="2010-05-12T18:29:42+00:00" data-subject="">
 
 Well done, Gladavar.
 

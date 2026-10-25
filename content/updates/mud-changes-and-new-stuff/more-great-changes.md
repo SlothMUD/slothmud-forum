@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29101" data-author="*Splork*" data-date="2009-05-06T18:18:30+00:00">
+<div class="post" data-post-id="29101" data-author="*Splork*" data-date="2009-05-06T18:18:30+00:00" data-subject="More great changes!">
 
 1) Wealth and glory has been improved
 
@@ -34,7 +34,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29103" data-author="*Splork*" data-date="2009-05-06T23:29:08+00:00">
+<div class="post" data-post-id="29103" data-author="*Splork*" data-date="2009-05-06T23:29:08+00:00" data-subject="">
 
 1) Leaves is now added to concise
 

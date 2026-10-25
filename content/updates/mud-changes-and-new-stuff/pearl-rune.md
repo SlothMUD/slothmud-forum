@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32668" data-author="*Isabo*" data-date="2011-06-11T03:47:21+00:00">
+<div class="post" data-post-id="32668" data-author="*Isabo*" data-date="2011-06-11T03:47:21+00:00" data-subject="Pearl rune">
 
 Greeting mortals.
 

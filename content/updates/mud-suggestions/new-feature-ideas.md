@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="36422" data-author="*teker*" data-date="2016-01-06T17:37:53+00:00">
+<div class="post" data-post-id="36422" data-author="*teker*" data-date="2016-01-06T17:37:53+00:00" data-subject="New feature ideas">
 
 As I mentioned in the "fastrun" thread, I thought a different thread would be better for discussing high level feature requests/improvements rather than cramming it into that one.  There are currently 235 ideas in the database, so I thought I'd throw out some as a conversation started.  But feel free to suggest others.  In general I tend to pass on ideas involving game-balance (due to my lack of playtime) and I especially ignore things containing the phrase "remort bonus".
 
@@ -78,13 +78,13 @@ add a library to vaults: a vault for spellbooks
 
 </div>
 
-<div class="post" data-post-id="36425" data-author="*Breeze*" data-date="2016-01-06T20:06:35+00:00">
+<div class="post" data-post-id="36425" data-author="*Breeze*" data-date="2016-01-06T20:06:35+00:00" data-subject="Re: New feature ideas">
 
 the auction timer is there because I didn't want to spam auction channel with 90 auctions ending at the same time but I am open to discuss it if you come up with a reasonable solution
 
 </div>
 
-<div class="post" data-post-id="36426" data-author="Dragoth" data-date="2016-01-06T23:21:42+00:00">
+<div class="post" data-post-id="36426" data-author="Dragoth" data-date="2016-01-06T23:21:42+00:00" data-subject="Re: New feature ideas">
 
 > ***Breeze* wrote:**
 > the auction timer is there because I didn't want to spam auction channel with 90 auctions ending at the same time but I am open to discuss it if you come up with a reasonable solution
@@ -95,7 +95,7 @@ We do not care when the item goes up for sale, as long as we dont have to stand 
 
 </div>
 
-<div class="post" data-post-id="36427" data-author="Ker" data-date="2016-01-06T23:57:34+00:00">
+<div class="post" data-post-id="36427" data-author="Ker" data-date="2016-01-06T23:57:34+00:00" data-subject="Re: New feature ideas">
 
 1) add cool aura for chars running at 25max stat, since its not easy until later levels
 
@@ -123,7 +123,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36428" data-author="cyprimus" data-date="2016-01-07T03:59:29+00:00">
+<div class="post" data-post-id="36428" data-author="cyprimus" data-date="2016-01-07T03:59:29+00:00" data-subject="Re: New feature ideas">
 
 aura seem pointless..
 
@@ -151,7 +151,7 @@ thanks!
 
 </div>
 
-<div class="post" data-post-id="36430" data-author="Teron" data-date="2016-01-07T10:53:14+00:00">
+<div class="post" data-post-id="36430" data-author="Teron" data-date="2016-01-07T10:53:14+00:00" data-subject="Re: New feature ideas">
 
 The auction timing was my idea.
 
@@ -169,7 +169,7 @@ Cyprimus, the weeklies we had were very rough, because the rewards were the best
 
 </div>
 
-<div class="post" data-post-id="36432" data-author="Filk" data-date="2016-01-07T12:41:09+00:00">
+<div class="post" data-post-id="36432" data-author="Filk" data-date="2016-01-07T12:41:09+00:00" data-subject="Re: New feature ideas">
 
 About weekly quests. I suggest not making a single week quest for whole mud. But instead make a huge(at least at the future) and updateble list of quests, with marked difficulty(like easy/medium/hard/any other gradation). 
 
@@ -187,7 +187,7 @@ Reward should be good enough to motivate players come and spend at least several
 
 </div>
 
-<div class="post" data-post-id="36434" data-author="Teron" data-date="2016-01-07T13:48:01+00:00">
+<div class="post" data-post-id="36434" data-author="Teron" data-date="2016-01-07T13:48:01+00:00" data-subject="Re: New feature ideas">
 
 Fluffy, that's what I had in mind about the weekly quests.
 
@@ -205,7 +205,7 @@ This way, everyone has to log in every week to undertake a quest and the overlap
 
 </div>
 
-<div class="post" data-post-id="36436" data-author="*Splork*" data-date="2016-01-07T16:30:01+00:00">
+<div class="post" data-post-id="36436" data-author="*Splork*" data-date="2016-01-07T16:30:01+00:00" data-subject="Re: New feature ideas">
 
 > **Quote:**
 > library vaults would be nice. as would other specialty vaults like shards
@@ -214,7 +214,7 @@ We have discussed this before and we all mostly like the idea of spellbooks bein
 
 </div>
 
-<div class="post" data-post-id="36437" data-author="alris" data-date="2016-01-07T22:54:28+00:00">
+<div class="post" data-post-id="36437" data-author="alris" data-date="2016-01-07T22:54:28+00:00" data-subject="Re: New feature ideas">
 
 Vault libraries while sounding cool are indeed somewhat off balance. Even if you were able to vault only crumble-read or books with some other restriction. Nowdays we have library-stores, which are already enough.
 
@@ -240,7 +240,7 @@ Also way to make monks(and maybe thieves) more real monks like - add some sort o
 
 </div>
 
-<div class="post" data-post-id="36438" data-author="cyprimus" data-date="2016-01-08T05:10:31+00:00">
+<div class="post" data-post-id="36438" data-author="cyprimus" data-date="2016-01-08T05:10:31+00:00" data-subject="Re: New feature ideas">
 
 ok, how about shard vaults?  huge capacity but only holds shards ...as a stack... having one slot for each type of shard for example.. just tracking quantity as they are added or removed.
 
@@ -250,7 +250,7 @@ Far as i know there are no standing group quests.. or at least few..
 
 </div>
 
-<div class="post" data-post-id="36442" data-author="*teker*" data-date="2016-01-08T23:34:25+00:00">
+<div class="post" data-post-id="36442" data-author="*teker*" data-date="2016-01-08T23:34:25+00:00" data-subject="Re: New feature ideas">
 
 Just as a heads-up, I am going to be working on vaults more now that the equipment set code is almost finished (announcement coming soon).  If you have other ideas regarding the vaults, now would be the time to let me know.
 
@@ -284,13 +284,13 @@ What else?
 
 </div>
 
-<div class="post" data-post-id="36443" data-author="*Breeze*" data-date="2016-01-09T03:03:02+00:00">
+<div class="post" data-post-id="36443" data-author="*Breeze*" data-date="2016-01-09T03:03:02+00:00" data-subject="Re: New feature ideas">
 
 i work on the assumption that anyone can buy buffs but buffs are non refundable and belong to the clan.
 
 </div>
 
-<div class="post" data-post-id="36445" data-author="Teron" data-date="2016-01-09T13:29:29+00:00">
+<div class="post" data-post-id="36445" data-author="Teron" data-date="2016-01-09T13:29:29+00:00" data-subject="Re: New feature ideas">
 
 I just have to highlight how this idea:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="7986" data-author="Blastem" data-date="2005-07-24T17:38:56+00:00">
+<div class="post" data-post-id="7986" data-author="Blastem" data-date="2005-07-24T17:38:56+00:00" data-subject="Followers stealing xps again">
 
 You pound a centaur ranger very hard.
 
@@ -36,7 +36,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="7990" data-author="dt" data-date="2005-07-24T20:27:46+00:00">
+<div class="post" data-post-id="7990" data-author="dt" data-date="2005-07-24T20:27:46+00:00" data-subject="Followers for weaks...">
 
 Don't hide behind pets, best to use them to carry bags then give them bragging right.
 
@@ -44,7 +44,7 @@ Monks do IT with their hands!
 
 </div>
 
-<div class="post" data-post-id="7996" data-author="Taki" data-date="2005-07-25T05:24:19+00:00">
+<div class="post" data-post-id="7996" data-author="Taki" data-date="2005-07-25T05:24:19+00:00" data-subject="">
 
 same happens with mage familiars. Having a wolverine fam is quite nice for its 4 attacks, but then you miss the kill xp almost always :( 
 
@@ -52,13 +52,13 @@ I foresee a quick drop in followers' value... sell your stock options now! :P
 
 </div>
 
-<div class="post" data-post-id="8012" data-author="13" data-date="2005-07-25T18:27:36+00:00">
+<div class="post" data-post-id="8012" data-author="13" data-date="2005-07-25T18:27:36+00:00" data-subject="">
 
 Or maybe Kj can take a look and see if he could fix the proc stealing xp thingy..
 
 </div>
 
-<div class="post" data-post-id="8013" data-author="kjartan" data-date="2005-07-25T19:00:38+00:00">
+<div class="post" data-post-id="8013" data-author="kjartan" data-date="2005-07-25T19:00:38+00:00" data-subject="">
 
 Familiars deliberately don't give xp.
 
@@ -66,7 +66,7 @@ As far as the other followers, that's definitely a bug.  I glanced at the code t
 
 </div>
 
-<div class="post" data-post-id="8014" data-author="13" data-date="2005-07-25T19:22:01+00:00">
+<div class="post" data-post-id="8014" data-author="13" data-date="2005-07-25T19:22:01+00:00" data-subject="">
 
 Thanks dude, we appreciate it.
 
@@ -74,7 +74,7 @@ aa
 
 </div>
 
-<div class="post" data-post-id="8017" data-author="kjartan" data-date="2005-07-26T01:49:47+00:00">
+<div class="post" data-post-id="8017" data-author="kjartan" data-date="2005-07-26T01:49:47+00:00" data-subject="">
 
 Ok, this should in theory be fixed.  Anyway I fixed all the undeads and all the supplication mobs.  The ones that were likely to have stolen xp were:
 
@@ -90,13 +90,13 @@ A number of other mobs had been modified so that their procs never killed anybod
 
 </div>
 
-<div class="post" data-post-id="8023" data-author="Vixn" data-date="2005-07-26T04:23:58+00:00">
+<div class="post" data-post-id="8023" data-author="Vixn" data-date="2005-07-26T04:23:58+00:00" data-subject="">
 
 Does it mean followers won't steal exp in groups anymore? Or this update is just for soloing?
 
 </div>
 
-<div class="post" data-post-id="8028" data-author="13" data-date="2005-07-26T10:39:12+00:00">
+<div class="post" data-post-id="8028" data-author="13" data-date="2005-07-26T10:39:12+00:00" data-subject="">
 
 Still for soloers Vix.
 

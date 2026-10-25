@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="19790" data-author="Lis" data-date="2007-08-21T15:31:56+00:00">
+<div class="post" data-post-id="19790" data-author="Lis" data-date="2007-08-21T15:31:56+00:00" data-subject="Coming to Malaysia">
 
 Coming to Malaysia (Kuala-Lumpur) in 26-31 of august helping with malaysian space program (angkasavan science project).  
 
@@ -22,19 +22,19 @@ Lis/Osa/Lisa (Sergey)
 
 </div>
 
-<div class="post" data-post-id="19791" data-author="Chainer" data-date="2007-08-21T15:36:29+00:00">
+<div class="post" data-post-id="19791" data-author="Chainer" data-date="2007-08-21T15:36:29+00:00" data-subject="">
 
 Looking forward to meet you too!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="19794" data-author="Medios" data-date="2007-08-21T17:23:31+00:00">
+<div class="post" data-post-id="19794" data-author="Medios" data-date="2007-08-21T17:23:31+00:00" data-subject="">
 
 Next stop for DoW... Mars.
 
 </div>
 
-<div class="post" data-post-id="19849" data-author="Ker" data-date="2007-08-23T05:52:49+00:00">
+<div class="post" data-post-id="19849" data-author="Ker" data-date="2007-08-23T05:52:49+00:00" data-subject="">
 
 Right now its just,
 
@@ -52,7 +52,7 @@ Marcus (Chi)
 
 </div>
 
-<div class="post" data-post-id="19920" data-author="Voin" data-date="2007-08-27T05:19:04+00:00">
+<div class="post" data-post-id="19920" data-author="Voin" data-date="2007-08-27T05:19:04+00:00" data-subject="Coming to Malaysia (Lis)">
 
 Hi guys 
 
@@ -68,7 +68,7 @@ Sergey (Lis)
 
 </div>
 
-<div class="post" data-post-id="21792" data-author="Ker" data-date="2007-12-25T10:30:59+00:00">
+<div class="post" data-post-id="21792" data-author="Ker" data-date="2007-12-25T10:30:59+00:00" data-subject="">
 
 As many of you know, Sergey aka (Lis) came down to Malaysia a few months back to meet up with the malaysian cosmonauts here. Yes, we successfully sent first malaysian to the moon, thanks to the big man. When news broke that Lis was bound to arrive here in Malaysia, I managed to gather a few others to meet up and so it happened. Here is how it went.
 
@@ -90,7 +90,7 @@ Chi
 
 </div>
 
-<div class="post" data-post-id="21793" data-author="Lis" data-date="2007-12-25T14:01:33+00:00">
+<div class="post" data-post-id="21793" data-author="Lis" data-date="2007-12-25T14:01:33+00:00" data-subject="">
 
 Alex(Mech),  KaiChew(Kirdox),  Lis(Sergey),  JeeHong(Syl),  Marcus(Chi),  Sharil(Rith)
 
@@ -98,7 +98,7 @@ Alex(Mech),  KaiChew(Kirdox),  Lis(Sergey),  JeeHong(Syl),  Marcus(Chi),  Sharil
 
 </div>
 
-<div class="post" data-post-id="21794" data-author="Alberich" data-date="2007-12-25T14:10:08+00:00">
+<div class="post" data-post-id="21794" data-author="Alberich" data-date="2007-12-25T14:10:08+00:00" data-subject="">
 
 now that's what i call a beer mug!
 

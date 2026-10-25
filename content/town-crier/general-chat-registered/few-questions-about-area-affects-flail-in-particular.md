@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="7335" data-author="Wintersdark" data-date="2005-06-19T16:55:07+00:00">
+<div class="post" data-post-id="7335" data-author="Wintersdark" data-date="2005-06-19T16:55:07+00:00" data-subject="Few questions about area affects, flail in particular">
 
 Is it possible to have flail NOT hit your followers?   Before the alignment changes, it was merely a nuisance, but now accidentally smacking your peri is a very, very bad thing if you need to stay good.
 
@@ -28,13 +28,13 @@ I understand this is also a problem for caster characters with area affect spell
 
 </div>
 
-<div class="post" data-post-id="7336" data-author="Weasel" data-date="2005-06-19T19:04:23+00:00">
+<div class="post" data-post-id="7336" data-author="Weasel" data-date="2005-06-19T19:04:23+00:00" data-subject="">
 
 nods, I've stormed my eudaemon a few times.. back when I was not perma-evil heh..
 
 </div>
 
-<div class="post" data-post-id="7339" data-author="Wintersdark" data-date="2005-06-20T01:08:00+00:00">
+<div class="post" data-post-id="7339" data-author="Wintersdark" data-date="2005-06-20T01:08:00+00:00" data-subject="">
 
 nods, I've stormed my eudaemon a few times.. back when I was not perma-evil heh..[/quote:1czt1o45]
 
@@ -48,7 +48,7 @@ I mean, my character obviously has some control over the flail attack, as it doe
 
 </div>
 
-<div class="post" data-post-id="7341" data-author="Yasik" data-date="2005-06-20T01:35:27+00:00">
+<div class="post" data-post-id="7341" data-author="Yasik" data-date="2005-06-20T01:35:27+00:00" data-subject="">
 
 You know.. i even didnt read the whole post - there is no need in it imho, what can i tell you playing Wa-prime 5+ years here : forget about Flail even exists. This is the most useless skill ingame. Just forget about it. THERE IS -NO- FLAIL SKILL!
 
@@ -56,7 +56,7 @@ You can do much more useful things in that rounds instead of flailing.
 
 </div>
 
-<div class="post" data-post-id="7345" data-author="Wintersdark" data-date="2005-06-20T03:37:34+00:00">
+<div class="post" data-post-id="7345" data-author="Wintersdark" data-date="2005-06-20T03:37:34+00:00" data-subject="">
 
 You know.. i even didnt read the whole post - there is no need in it imho, what can i tell you playing Wa-prime 5+ years here : forget about Flail even exists. This is the most useless skill ingame. Just forget about it. THERE IS -NO- FLAIL SKILL!
 
@@ -70,13 +70,13 @@ Or, better yet, have it NOT engage unegaged mobs AT ALL - just hit engaged mobs,
 
 </div>
 
-<div class="post" data-post-id="7350" data-author="Weasel" data-date="2005-06-20T08:51:48+00:00">
+<div class="post" data-post-id="7350" data-author="Weasel" data-date="2005-06-20T08:51:48+00:00" data-subject="">
 
 Gotta agree, flail is bollocks. It's handy for initiating a fight with a hidden mob, but sheesh a flail can't even kill a morted fly half the time it's so ineffective and weak. Your point however Wintersdark is valid - eudaemons etc are followers, and a follower means part of a group, therefore they should not be getting hit. I can't help thinking this is just a little oversight by coders, but then again, why have they still not fixed it? ..Yasik 5+ years? err.. nah.
 
 </div>
 
-<div class="post" data-post-id="7365" data-author="guest" data-date="2005-06-20T13:26:07+00:00">
+<div class="post" data-post-id="7365" data-author="guest" data-date="2005-06-20T13:26:07+00:00" data-subject="">
 
 Hi all ...
 
@@ -84,19 +84,19 @@ It has been in my list since i started coding : redesign how area spells choose 
 
 </div>
 
-<div class="post" data-post-id="7370" data-author="kjartan" data-date="2005-06-20T14:11:24+00:00">
+<div class="post" data-post-id="7370" data-author="kjartan" data-date="2005-06-20T14:11:24+00:00" data-subject="">
 
 Ok, the powers that be have discussed it and conclude that you are right about flail; we'll fix it so it doesn't hit mobs that are on the "player side".  I can probably take care of this tonight.  I will leave the other area spell issues to Isabo.
 
 </div>
 
-<div class="post" data-post-id="7373" data-author="firebrand" data-date="2005-06-20T14:14:31+00:00">
+<div class="post" data-post-id="7373" data-author="firebrand" data-date="2005-06-20T14:14:31+00:00" data-subject="">
 
 hmmm never have been sure whether or not this actually works, but is flail currently targettable - i.e. flail target when there is a group of mobs you are fighting or there are several mobs in the room and you only want to flail one of them.  if not, can it be made targettable?
 
 </div>
 
-<div class="post" data-post-id="7383" data-author="Wintersdark" data-date="2005-06-20T20:18:29+00:00">
+<div class="post" data-post-id="7383" data-author="Wintersdark" data-date="2005-06-20T20:18:29+00:00" data-subject="">
 
 It is currently targettable, but targetting it just sets the "primary" target - the one that receives full damage as compared to the lesser damage other mobs take.
 
@@ -108,13 +108,13 @@ Kj: Thanks, much appreciated :)
 
 </div>
 
-<div class="post" data-post-id="7390" data-author="kjartan" data-date="2005-06-21T00:37:22+00:00">
+<div class="post" data-post-id="7390" data-author="kjartan" data-date="2005-06-21T00:37:22+00:00" data-subject="">
 
 In next crash or reboot, flail will hit only mobs that aren't following players (including you).  There is still no single-target flail, that's not what flail is for.
 
 </div>
 
-<div class="post" data-post-id="7392" data-author="Shyla" data-date="2005-06-21T03:22:49+00:00">
+<div class="post" data-post-id="7392" data-author="Shyla" data-date="2005-06-21T03:22:49+00:00" data-subject="">
 
 hmm kjartan while you are working on that is there a reason that area affect spells hit your supplicants?
 
@@ -122,13 +122,13 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="7393" data-author="kjartan" data-date="2005-06-21T03:35:51+00:00">
+<div class="post" data-post-id="7393" data-author="kjartan" data-date="2005-06-21T03:35:51+00:00" data-subject="">
 
 The change I made with flail should also fix avalanche, twister, and sunbeam, which use the same method of determining targets.  The other area spells I believe Isabo is going to work on so I shall leave them alone.
 
 </div>
 
-<div class="post" data-post-id="7397" data-author="Avatar" data-date="2005-06-21T10:05:22+00:00">
+<div class="post" data-post-id="7397" data-author="Avatar" data-date="2005-06-21T10:05:22+00:00" data-subject="">
 
 kjartan:
 
@@ -140,7 +140,7 @@ I may have to play with flail again now that the targetting issue is fixed, than
 
 </div>
 
-<div class="post" data-post-id="7398" data-author="12345" data-date="2005-06-21T10:08:01+00:00">
+<div class="post" data-post-id="7398" data-author="12345" data-date="2005-06-21T10:08:01+00:00" data-subject="">
 
 This is what's posted on the helps on the web site...
 
@@ -168,13 +168,13 @@ be.[/quote:3dhf47n3]
 
 </div>
 
-<div class="post" data-post-id="7439" data-author="Avatar" data-date="2005-06-22T10:26:21+00:00">
+<div class="post" data-post-id="7439" data-author="Avatar" data-date="2005-06-22T10:26:21+00:00" data-subject="Flailing about">
 
 Now that I read the thread again, I think Kjartan was replying to Firebrand, not Wintersdark.  Looks like it was my misunderstanding this time.
 
 </div>
 
-<div class="post" data-post-id="7446" data-author="Leaf" data-date="2005-06-22T11:48:40+00:00">
+<div class="post" data-post-id="7446" data-author="Leaf" data-date="2005-06-22T11:48:40+00:00" data-subject="">
 
 Sooo more or less, if a Warrior has a 4d4 +2 +2 weapon and he flails at
 
@@ -188,7 +188,7 @@ takes a full +18damage???  Seems kinda weak ... Considering the skill
 
 </div>
 
-<div class="post" data-post-id="7447" data-author="12345" data-date="2005-06-22T12:09:14+00:00">
+<div class="post" data-post-id="7447" data-author="12345" data-date="2005-06-22T12:09:14+00:00" data-subject="">
 
 That's like saying double attack is kinda weak.  If you're normal attack is a massacre, you're doing a massacre to the targetted mob and half a massacre to every other mob in the room.  Bonus if you have +flaildam eq.
 
@@ -198,7 +198,7 @@ I don't know what I think of that.  Strider likes flail, maybe he has a comment.
 
 </div>
 
-<div class="post" data-post-id="7448" data-author="Leaf" data-date="2005-06-22T12:46:17+00:00">
+<div class="post" data-post-id="7448" data-author="Leaf" data-date="2005-06-22T12:46:17+00:00" data-subject="">
 
 Just trying to find out the damage done by Flail.  Cause at the moment it
 
@@ -216,7 +216,7 @@ would still be better then "Flail".
 
 </div>
 
-<div class="post" data-post-id="7458" data-author="Zalasta" data-date="2005-06-22T13:56:17+00:00">
+<div class="post" data-post-id="7458" data-author="Zalasta" data-date="2005-06-22T13:56:17+00:00" data-subject="">
 
 From what I understand, flail does a certain amount of damage to every mob it hits.  That damage is based on how much your normal attack does, but is somewhat less.  It does not, however, divide out among your enemies, it just hits them all.
 
@@ -224,7 +224,7 @@ So lets say you generally massacre for 25 damage on a normal attack.  Flail migh
 
 </div>
 
-<div class="post" data-post-id="7460" data-author="Avatar" data-date="2005-06-22T13:59:15+00:00">
+<div class="post" data-post-id="7460" data-author="Avatar" data-date="2005-06-22T13:59:15+00:00" data-subject="Flail">
 
 I think you guys are confusing each other.  
 

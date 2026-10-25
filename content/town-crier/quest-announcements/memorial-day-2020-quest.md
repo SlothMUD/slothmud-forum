@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39490" data-author="*Idjit*" data-date="2020-05-22T00:24:56+00:00">
+<div class="post" data-post-id="39490" data-author="*Idjit*" data-date="2020-05-22T00:24:56+00:00" data-subject="Memorial Day 2020 Quest">
 
 Hello Slothers,
 

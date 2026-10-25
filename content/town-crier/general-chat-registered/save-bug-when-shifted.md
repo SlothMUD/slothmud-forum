@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="7699" data-author="daedalus" data-date="2005-06-30T21:32:06+00:00">
+<div class="post" data-post-id="7699" data-author="daedalus" data-date="2005-06-30T21:32:06+00:00" data-subject="Save bug when shifted.">
 
 <358hp 639ma 201mv>
 

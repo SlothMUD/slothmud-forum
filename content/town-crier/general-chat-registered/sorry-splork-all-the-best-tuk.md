@@ -10,7 +10,7 @@ locked: false
 post_count: 24
 ---
 
-<div class="post" data-post-id="31173" data-author="DSF" data-date="2010-05-20T07:58:53+00:00">
+<div class="post" data-post-id="31173" data-author="DSF" data-date="2010-05-20T07:58:53+00:00" data-subject="Sorry Splork......All the Best, Tuk!">
 
 Hi all, 
 
@@ -862,7 +862,7 @@ Simon
 
 </div>
 
-<div class="post" data-post-id="31174" data-author="jezer" data-date="2010-05-20T10:18:04+00:00">
+<div class="post" data-post-id="31174" data-author="jezer" data-date="2010-05-20T10:18:04+00:00" data-subject="">
 
 I'm glad this rubbish appears on the crier even if it is the pot calling the kettle black.
 
@@ -874,7 +874,7 @@ I'm glad this rubbish appears on the crier even if it is the pot calling the ket
 
 </div>
 
-<div class="post" data-post-id="31175" data-author="Mosaix" data-date="2010-05-20T11:31:52+00:00">
+<div class="post" data-post-id="31175" data-author="Mosaix" data-date="2010-05-20T11:31:52+00:00" data-subject="">
 
 Looks like Tuk, tossed you, dispelled you, and caused your death and others in a group.  So he pkilled you, and part of the group.  
 
@@ -882,7 +882,7 @@ Bye bye Tuk.
 
 </div>
 
-<div class="post" data-post-id="31177" data-author="*Splork*" data-date="2010-05-20T11:58:38+00:00">
+<div class="post" data-post-id="31177" data-author="*Splork*" data-date="2010-05-20T11:58:38+00:00" data-subject="">
 
 Tuk is passworded for now until we decide how to handle the situation. He has been involved in way too many incidents similar to this, in my opinion.
 
@@ -892,7 +892,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31178" data-author="Thraxas" data-date="2010-05-20T12:06:16+00:00">
+<div class="post" data-post-id="31178" data-author="Thraxas" data-date="2010-05-20T12:06:16+00:00" data-subject="">
 
 Sometimes punishments are needed in any game ... think of your favorite sport and theres going to be a penalty or punishment for a foul. You never find a sport where the ref says [i:pkk6xwbp]'well if I give him a penalty he might stop playing'[/i:pkk6xwbp] ... foul = penalty.
 
@@ -906,7 +906,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31179" data-author="DSF" data-date="2010-05-20T13:04:29+00:00">
+<div class="post" data-post-id="31179" data-author="DSF" data-date="2010-05-20T13:04:29+00:00" data-subject="">
 
 Jezer, 
 
@@ -928,7 +928,7 @@ I'm glad this rubbish appears on the crier even if it is the pot calling the ket
 
 </div>
 
-<div class="post" data-post-id="31180" data-author="Toxis" data-date="2010-05-20T15:48:12+00:00">
+<div class="post" data-post-id="31180" data-author="Toxis" data-date="2010-05-20T15:48:12+00:00" data-subject="">
 
 I know Dsfren was upset when he ungrouped Tuk and then decided to disband group because of Tuk's persistant whining and trying to come back to group, but man was it funny and you might see why...
 
@@ -948,7 +948,7 @@ By the way, people have come to the point where they expect a leader to do certa
 
 </div>
 
-<div class="post" data-post-id="31181" data-author="Mace" data-date="2010-05-20T15:55:08+00:00">
+<div class="post" data-post-id="31181" data-author="Mace" data-date="2010-05-20T15:55:08+00:00" data-subject="">
 
 Definite foul.  Even if you have just cause for messing with someone, involving group members is bad form.  Also, if a group leader doesn't want you for whatever reason, tough.
 
@@ -956,7 +956,7 @@ As far as the group CF goes, I'm less sure there.  ~8 rounds went by with no one
 
 </div>
 
-<div class="post" data-post-id="31182" data-author="Thraxas" data-date="2010-05-20T16:25:06+00:00">
+<div class="post" data-post-id="31182" data-author="Thraxas" data-date="2010-05-20T16:25:06+00:00" data-subject="">
 
 My unrequested verdict is that Tuk only contributed 20% to the deaths. ;)[/quote:3f7t90vq]
 
@@ -968,7 +968,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31183" data-author="reboog" data-date="2010-05-20T17:09:38+00:00">
+<div class="post" data-post-id="31183" data-author="reboog" data-date="2010-05-20T17:09:38+00:00" data-subject="">
 
 mass hysteria
 
@@ -978,7 +978,7 @@ thrax does it better!
 
 </div>
 
-<div class="post" data-post-id="31184" data-author="Tuck" data-date="2010-05-20T19:15:06+00:00">
+<div class="post" data-post-id="31184" data-author="Tuck" data-date="2010-05-20T19:15:06+00:00" data-subject="">
 
 Well, Iâ€™m sorry for CF, didnâ€™t meant to wipe half of group, even if everyone was raised. 
 
@@ -988,7 +988,7 @@ Zomg teh drama  :wink:
 
 </div>
 
-<div class="post" data-post-id="31186" data-author="Rynquald" data-date="2010-05-20T22:21:26+00:00">
+<div class="post" data-post-id="31186" data-author="Rynquald" data-date="2010-05-20T22:21:26+00:00" data-subject="">
 
 It's probably true that we could have avoided the CF if we had remained focused on the mob. But when you're suddenly under attack from a PC, you tend to pay them more attention than whatever you were fighting a moment ago.
 
@@ -996,7 +996,7 @@ There's no real way you can attack a group in combat and then believably claim t
 
 </div>
 
-<div class="post" data-post-id="31187" data-author="jezer" data-date="2010-05-21T00:11:10+00:00">
+<div class="post" data-post-id="31187" data-author="jezer" data-date="2010-05-21T00:11:10+00:00" data-subject="">
 
 Jezer[/quote:1dkaydfh]
 
@@ -1010,7 +1010,7 @@ You can slam Tuk for ruining your group, but talking about botting is a bit rich
 
 </div>
 
-<div class="post" data-post-id="31188" data-author="DSF" data-date="2010-05-21T03:26:58+00:00">
+<div class="post" data-post-id="31188" data-author="DSF" data-date="2010-05-21T03:26:58+00:00" data-subject="">
 
 Thanks for your comments. 
 
@@ -1022,7 +1022,7 @@ Jezer[/quote:tmtoq7ml]
 
 </div>
 
-<div class="post" data-post-id="31189" data-author="Gimlet" data-date="2010-05-21T12:32:56+00:00">
+<div class="post" data-post-id="31189" data-author="Gimlet" data-date="2010-05-21T12:32:56+00:00" data-subject="">
 
 LOL 
 
@@ -1032,7 +1032,7 @@ having a group of followers means squat.  I bet ppl would follow starman for BH 
 
 </div>
 
-<div class="post" data-post-id="31190" data-author="*Splork*" data-date="2010-05-21T21:56:03+00:00">
+<div class="post" data-post-id="31190" data-author="*Splork*" data-date="2010-05-21T21:56:03+00:00" data-subject="tossing/webbing/dispelling/etc has to stop...">
 
 Tuk's password has been returned to him. His punishment was 5 prime levels and 5 Avatar levels. Another incident like this will result in the player being wiped.
 
@@ -1046,7 +1046,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31337" data-author="Thraxas" data-date="2010-06-30T18:42:58+00:00">
+<div class="post" data-post-id="31337" data-author="Thraxas" data-date="2010-06-30T18:42:58+00:00" data-subject="Re:">
 
 > ***Splork* wrote:**
 > ... . 
@@ -1059,13 +1059,13 @@ bump
 
 </div>
 
-<div class="post" data-post-id="31338" data-author="Jag" data-date="2010-06-30T19:26:20+00:00">
+<div class="post" data-post-id="31338" data-author="Jag" data-date="2010-06-30T19:26:20+00:00" data-subject="Re: Sorry Splork......All the Best, Tuk!">
 
 And yet he is at it again.  Do we really need this on ouyr mud?
 
 </div>
 
-<div class="post" data-post-id="31340" data-author="Tuck" data-date="2010-07-01T17:14:46+00:00">
+<div class="post" data-post-id="31340" data-author="Tuck" data-date="2010-07-01T17:14:46+00:00" data-subject="Re: Sorry Splork......All the Best, Tuk!">
 
 > **Jag wrote:**
 > And yet he is at it again.  Do we really need this on ouyr mud?
@@ -1074,13 +1074,13 @@ yeah, nomic needs punishment  :P
 
 </div>
 
-<div class="post" data-post-id="31341" data-author="Gramps" data-date="2010-07-02T01:05:00+00:00">
+<div class="post" data-post-id="31341" data-author="Gramps" data-date="2010-07-02T01:05:00+00:00" data-subject="Re: Sorry Splork......All the Best, Tuk!">
 
 Bump.  Time to lose the jerks.
 
 </div>
 
-<div class="post" data-post-id="31342" data-author="mudder" data-date="2010-07-02T15:30:10+00:00">
+<div class="post" data-post-id="31342" data-author="mudder" data-date="2010-07-02T15:30:10+00:00" data-subject="Re: Sorry Splork......All the Best, Tuk!">
 
 bump
 
@@ -1092,7 +1092,7 @@ xp loss rap on the knuckles hasnt worked.
 
 </div>
 
-<div class="post" data-post-id="31343" data-author="Jag" data-date="2010-07-03T12:46:48+00:00">
+<div class="post" data-post-id="31343" data-author="Jag" data-date="2010-07-03T12:46:48+00:00" data-subject="Re: Sorry Splork......All the Best, Tuk!">
 
 > **Quote:**
 > Another incident like this will result in the player being wiped. 
@@ -1105,7 +1105,7 @@ Apprarently not.
 
 </div>
 
-<div class="post" data-post-id="31344" data-author="*Splork*" data-date="2010-07-03T15:16:50+00:00">
+<div class="post" data-post-id="31344" data-author="*Splork*" data-date="2010-07-03T15:16:50+00:00" data-subject="Re: Sorry Splork......All the Best, Tuk!">
 
 As I explained to Dsfren, Ive been working 10 hour days for 21 straight days. My time here has been severely limited and checking logs is out of the question until I have time to sleep and see my son for 15 minutes.
 
@@ -1115,7 +1115,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31345" data-author="Jag" data-date="2010-07-04T00:29:05+00:00">
+<div class="post" data-post-id="31345" data-author="Jag" data-date="2010-07-04T00:29:05+00:00" data-subject="Re: Sorry Splork......All the Best, Tuk!">
 
 Thank you for providing the greatest game environment on the web!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30188" data-author="hounds" data-date="2009-10-30T03:01:02+00:00">
+<div class="post" data-post-id="30188" data-author="hounds" data-date="2009-10-30T03:01:02+00:00" data-subject="just a few question">
 
 was wonder how much pluss damge is equal to one damge  
 
@@ -28,7 +28,7 @@ and i take one hell of a beating on the front line  so im just wondering whats t
 
 </div>
 
-<div class="post" data-post-id="30189" data-author="jezer" data-date="2009-10-30T06:17:00+00:00">
+<div class="post" data-post-id="30189" data-author="jezer" data-date="2009-10-30T06:17:00+00:00" data-subject="">
 
 I think this is considered "imm info" and the formula for stab damage was re-worked some months before the new sloth, but here is how it's been explained to me some time ago. I do not know if this is correct.
 

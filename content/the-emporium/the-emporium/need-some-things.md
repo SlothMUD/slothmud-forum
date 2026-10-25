@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="2908" data-author="Alberich" data-date="2004-11-17T12:23:19+00:00">
+<div class="post" data-post-id="2908" data-author="Alberich" data-date="2004-11-17T12:23:19+00:00" data-subject="need some things">
 
 looking for - 
 
@@ -26,7 +26,7 @@ would prefer to pay gold, have some random stuff like blood covered boots, chise
 
 </div>
 
-<div class="post" data-post-id="2915" data-author="rith" data-date="2004-11-18T05:11:35+00:00">
+<div class="post" data-post-id="2915" data-author="rith" data-date="2004-11-18T05:11:35+00:00" data-subject="">
 
 I might have the guards you seek, catch me online.
 

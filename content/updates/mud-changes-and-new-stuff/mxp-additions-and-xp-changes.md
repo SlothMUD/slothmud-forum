@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="9101" data-author="*Splork*" data-date="2005-10-20T23:34:36+00:00">
+<div class="post" data-post-id="9101" data-author="*Splork*" data-date="2005-10-20T23:34:36+00:00" data-subject="MXP additions and xp changes">
 
 I have created a config so that you guys can customize which mxp options
 
@@ -50,7 +50,7 @@ BTW, some of our mxp additions will remain on permanantly and will not be able t
 
 </div>
 
-<div class="post" data-post-id="9118" data-author="*Splork*" data-date="2005-10-23T01:10:30+00:00">
+<div class="post" data-post-id="9118" data-author="*Splork*" data-date="2005-10-23T01:10:30+00:00" data-subject="mxpconfig changed to mxpsettings">
 
 Ive changed the command from mxpconfig to mxpsettings. Basically just to be more in line with settings command.
 

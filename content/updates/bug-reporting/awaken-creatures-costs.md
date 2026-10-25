@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36013" data-author="Filk" data-date="2015-08-07T07:55:21+00:00">
+<div class="post" data-post-id="36013" data-author="Filk" data-date="2015-08-07T07:55:21+00:00" data-subject="Awaken creatures costs">
 
 Found some glitches in awaken creatures. Nothing important, but could be fixed one day.
 
@@ -135,7 +135,7 @@ Something should be fixed probably. Command or description.
 
 </div>
 
-<div class="post" data-post-id="36015" data-author="*teker*" data-date="2015-08-07T15:44:42+00:00">
+<div class="post" data-post-id="36015" data-author="*teker*" data-date="2015-08-07T15:44:42+00:00" data-subject="Re: Awaken creatures costs">
 
 A quick glance of the code shows that some of the cost values go out to 2 decimal points but you're only getting one (rounded) decimal point in the display.  This is true for the tangle vine - its cost is between 1.0 and 1.1.  The elder ent works the same way - its cost is greater than 2.00 even though it shows up as 2.0 in the display.
 
@@ -143,7 +143,7 @@ EDIT: typos
 
 </div>
 
-<div class="post" data-post-id="36016" data-author="Filk" data-date="2015-08-08T05:24:24+00:00">
+<div class="post" data-post-id="36016" data-author="Filk" data-date="2015-08-08T05:24:24+00:00" data-subject="Re: Awaken creatures costs">
 
 Well, same as i thought.
 

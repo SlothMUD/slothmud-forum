@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16539" data-author="Yasik" data-date="2007-01-26T20:19:47+00:00">
+<div class="post" data-post-id="16539" data-author="Yasik" data-date="2007-01-26T20:19:47+00:00" data-subject="Forum settings">
 
 Is there any way to make forum:
 
@@ -22,7 +22,7 @@ Is there any way to make forum:
 
 </div>
 
-<div class="post" data-post-id="16548" data-author="Avatar" data-date="2007-01-27T04:40:00+00:00">
+<div class="post" data-post-id="16548" data-author="Avatar" data-date="2007-01-27T04:40:00+00:00" data-subject="Forum Settings">
 
 There was a pretty large discussion and vote the last time the forum order was changed.  The end result, you are in the minority and the forums were set back.  Apparently the display order cannot be configured as a per-user setting.
 

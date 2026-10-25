@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="5129" data-author="achazia" data-date="2005-03-17T09:48:04+00:00">
+<div class="post" data-post-id="5129" data-author="achazia" data-date="2005-03-17T09:48:04+00:00" data-subject="Question about maps....">
 
 Hi!
 
@@ -28,13 +28,13 @@ Just a thought....  :wink:
 
 </div>
 
-<div class="post" data-post-id="5131" data-author="Alberich" data-date="2005-03-17T10:01:32+00:00">
+<div class="post" data-post-id="5131" data-author="Alberich" data-date="2005-03-17T10:01:32+00:00" data-subject="">
 
 maps are created by the players, not the mud, so they are updated whenever someone gets motivated to re-walk and re-map it.
 
 </div>
 
-<div class="post" data-post-id="5162" data-author="achazia" data-date="2005-03-18T06:57:34+00:00">
+<div class="post" data-post-id="5162" data-author="achazia" data-date="2005-03-18T06:57:34+00:00" data-subject="...">
 
 Hi again!
 
@@ -46,13 +46,13 @@ Just a thought...
 
 </div>
 
-<div class="post" data-post-id="5165" data-author="Alberich" data-date="2005-03-18T07:26:50+00:00">
+<div class="post" data-post-id="5165" data-author="Alberich" data-date="2005-03-18T07:26:50+00:00" data-subject="">
 
 the whole fun of the maps is that they are player created tho.
 
 </div>
 
-<div class="post" data-post-id="5166" data-author=".kitn" data-date="2005-03-18T09:27:15+00:00">
+<div class="post" data-post-id="5166" data-author=".kitn" data-date="2005-03-18T09:27:15+00:00" data-subject="">
 
 and no, rooms arent stored in mysql database, relax
 

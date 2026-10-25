@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="475" data-author="bubba" data-date="2004-06-02T15:54:31+00:00">
+<div class="post" data-post-id="475" data-author="bubba" data-date="2004-06-02T15:54:31+00:00" data-subject="how to change password?">
 
 How do I change my password on the new website?  (not my mud password, my website password)
 
@@ -18,7 +18,7 @@ TIA
 
 </div>
 
-<div class="post" data-post-id="477" data-author="Zenkai" data-date="2004-06-02T16:50:06+00:00">
+<div class="post" data-post-id="477" data-author="Zenkai" data-date="2004-06-02T16:50:06+00:00" data-subject="">
 
 login on the home page, [http://slothmud.org](http://slothmud.org) 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="981" data-author="brand" data-date="2004-07-08T00:41:42+00:00">
+<div class="post" data-post-id="981" data-author="brand" data-date="2004-07-08T00:41:42+00:00" data-subject="Highest +SHOCK 2K4...">
 
 You are using:
 
@@ -38,7 +38,7 @@ with 18 wis and 18 con
 
 </div>
 
-<div class="post" data-post-id="982" data-author="strider" data-date="2004-07-08T04:51:28+00:00">
+<div class="post" data-post-id="982" data-author="strider" data-date="2004-07-08T04:51:28+00:00" data-subject="">
 
 You are using:
 
@@ -82,7 +82,7 @@ think i'm still missin a piece or two, but +17 aint bad, just wish i didn't stil
 
 </div>
 
-<div class="post" data-post-id="983" data-author="Evergreen" data-date="2004-07-08T05:58:14+00:00">
+<div class="post" data-post-id="983" data-author="Evergreen" data-date="2004-07-08T05:58:14+00:00" data-subject="">
 
 Gratz on shroud, Heck  :D 
 
@@ -90,7 +90,7 @@ im still not done with it, just few the most easy cps left...
 
 </div>
 
-<div class="post" data-post-id="986" data-author="brand" data-date="2004-07-08T14:34:16+00:00">
+<div class="post" data-post-id="986" data-author="brand" data-date="2004-07-08T14:34:16+00:00" data-subject="">
 
 nice + 17 rulez...
 
@@ -100,7 +100,7 @@ can it be beaten???
 
 </div>
 
-<div class="post" data-post-id="987" data-author="Evergreen" data-date="2004-07-08T17:22:16+00:00">
+<div class="post" data-post-id="987" data-author="Evergreen" data-date="2004-07-08T17:22:16+00:00" data-subject="">
 
 w/ elite eq should be
 

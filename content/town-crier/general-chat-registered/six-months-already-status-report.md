@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="30061" data-author="*Splork*" data-date="2009-09-27T22:54:10+00:00">
+<div class="post" data-post-id="30061" data-author="*Splork*" data-date="2009-09-27T22:54:10+00:00" data-subject="Six months already... (status report)">
 
 We have been up for almost sixth months since we decided to restart SlothIII after its twelve year run. I am hoping you guys are pretty happy overall with where we are and the directions we have taken us in.
 
@@ -60,13 +60,13 @@ A couple projects that are almost done;
 
 </div>
 
-<div class="post" data-post-id="30062" data-author="Ezekiel" data-date="2009-09-29T04:55:10+00:00">
+<div class="post" data-post-id="30062" data-author="Ezekiel" data-date="2009-09-29T04:55:10+00:00" data-subject="">
 
 Wow, six month mark already. Well anyway...just wanted to thank the imms for the hard work and especially listening to suggestions since the restart. Also, thanks for staying on top of communicating with us on the crier and not waiting for flame fests or angered tempers over a subject to chime in. There are more than just in-game changes since the restart :) Keep it up and thanks.
 
 </div>
 
-<div class="post" data-post-id="30074" data-author="Shyla" data-date="2009-09-30T18:08:59+00:00">
+<div class="post" data-post-id="30074" data-author="Shyla" data-date="2009-09-30T18:08:59+00:00" data-subject="">
 
 I know this is a minor thing but different recall scrolls based on levels stil has a few people bothered....magi aka sheng got on the other day and asked if succor made scrolls he could use yet and I said nope not yet that I know of.... 
 
@@ -82,7 +82,7 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="30077" data-author="Marvel" data-date="2009-10-01T23:31:28+00:00">
+<div class="post" data-post-id="30077" data-author="Marvel" data-date="2009-10-01T23:31:28+00:00" data-subject="">
 
 As a perspective of a player that quit several years before sloth 3 ended, I really enjoy the new mud.  It's been very stable apart from the occasional crash here and there, which has been quickly fixed.
 
@@ -102,7 +102,7 @@ That's all I can think of at the moment.
 
 </div>
 
-<div class="post" data-post-id="30078" data-author="Tuck" data-date="2009-10-02T11:33:37+00:00">
+<div class="post" data-post-id="30078" data-author="Tuck" data-date="2009-10-02T11:33:37+00:00" data-subject="">
 
 nothing about houses'n'vaults, but you promised them...
 

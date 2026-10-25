@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31058" data-author="*Isabo*" data-date="2010-04-17T03:48:28+00:00">
+<div class="post" data-post-id="31058" data-author="*Isabo*" data-date="2010-04-17T03:48:28+00:00" data-subject="Clan board output reformated">
 
 Good day, adventurers.
 

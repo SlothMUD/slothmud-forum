@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="16505" data-author="*juggleblood*" data-date="2007-01-24T15:53:51+00:00">
+<div class="post" data-post-id="16505" data-author="*juggleblood*" data-date="2007-01-24T15:53:51+00:00" data-subject="a couple suggestions">
 
 I would like to make a couple suggestions.
 
@@ -26,7 +26,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="16510" data-author="13" data-date="2007-01-24T19:27:45+00:00">
+<div class="post" data-post-id="16510" data-author="13" data-date="2007-01-24T19:27:45+00:00" data-subject="">
 
 [quote:90s37oan]Purloin Aura
 
@@ -38,7 +38,7 @@ A very powerful skill that is counter balanced by the user being outlawed. Howev
 
 </div>
 
-<div class="post" data-post-id="16511" data-author="Medios" data-date="2007-01-24T22:06:52+00:00">
+<div class="post" data-post-id="16511" data-author="Medios" data-date="2007-01-24T22:06:52+00:00" data-subject="">
 
 Wizards eye is still cool. It helps n00bs and players that dont have an automapper :).
 
@@ -48,7 +48,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16524" data-author="*juggleblood*" data-date="2007-01-25T09:17:43+00:00">
+<div class="post" data-post-id="16524" data-author="*juggleblood*" data-date="2007-01-25T09:17:43+00:00" data-subject="">
 
 Yeah Medios, but not everyone has an avatar bard in their pocket to make greater fluidity charms for themselves. 
 
@@ -58,7 +58,7 @@ I just think its absurd that in addition to not being able to rent or use the ba
 
 </div>
 
-<div class="post" data-post-id="16526" data-author="Mace" data-date="2007-01-25T11:00:27+00:00">
+<div class="post" data-post-id="16526" data-author="Mace" data-date="2007-01-25T11:00:27+00:00" data-subject="">
 
 I think concentrating on outlaw's effects misses an underlying point:
 
@@ -72,7 +72,7 @@ all of someone's spells, yet if you take 1 spell by using a
 
 </div>
 
-<div class="post" data-post-id="16527" data-author="*juggleblood*" data-date="2007-01-25T13:23:01+00:00">
+<div class="post" data-post-id="16527" data-author="*juggleblood*" data-date="2007-01-25T13:23:01+00:00" data-subject="">
 
 Naw Mace,
 
@@ -80,19 +80,19 @@ Think about it, it's a skill that allows thieves to borrow spells from outside t
 
 </div>
 
-<div class="post" data-post-id="16528" data-author="13" data-date="2007-01-25T13:37:38+00:00">
+<div class="post" data-post-id="16528" data-author="13" data-date="2007-01-25T13:37:38+00:00" data-subject="">
 
 I agree with Mace that a regular outlaw flag is a bit strong for it.  I personally think it's a mostly-useless skill even if it _didn't_ outlaw you.  I realize Shiv used to just rack up spells, but maybe the way it works could be tinkered a bit.
 
 </div>
 
-<div class="post" data-post-id="16531" data-author="Krok" data-date="2007-01-25T14:37:04+00:00">
+<div class="post" data-post-id="16531" data-author="Krok" data-date="2007-01-25T14:37:04+00:00" data-subject="">
 
 It was very-very useful, when it had smaller chances for outlaw, Aa. :)
 
 </div>
 
-<div class="post" data-post-id="16533" data-author="Autolycos" data-date="2007-01-25T18:46:38+00:00">
+<div class="post" data-post-id="16533" data-author="Autolycos" data-date="2007-01-25T18:46:38+00:00" data-subject="">
 
 It was very-very useful, when it had smaller chances for outlaw, Aa. :)[/quote:2foq3hp3]
 
@@ -106,13 +106,13 @@ wtf?? :shock:
 
 </div>
 
-<div class="post" data-post-id="16534" data-author="Weasel" data-date="2007-01-25T19:05:47+00:00">
+<div class="post" data-post-id="16534" data-author="Weasel" data-date="2007-01-25T19:05:47+00:00" data-subject="">
 
 Remove the outlaw flag, and to combat the powerfulness of it, maybe restrict the spell so it can purloin only one spell at a time until that spell wears off (maybe it does already, I don't have it learned), or maybe if it's so powerful have it so that it can only be used once an hour or something.. just like the warrior 'defy' can only be used once a day (in real time)..  AFAIK when someone is on the outlaw board, they can legally be pkilled and all their eq taken..
 
 </div>
 
-<div class="post" data-post-id="16535" data-author="Autolycos" data-date="2007-01-25T19:29:01+00:00">
+<div class="post" data-post-id="16535" data-author="Autolycos" data-date="2007-01-25T19:29:01+00:00" data-subject="">
 
 AFAIK when someone is on the outlaw board, they can legally be pkilled and all their eq taken..[/quote:3qm9fjf6]
 
@@ -126,7 +126,7 @@ i'll given back your ice dagger & marble helm.
 
 </div>
 
-<div class="post" data-post-id="16536" data-author="Weasel" data-date="2007-01-25T19:56:06+00:00">
+<div class="post" data-post-id="16536" data-author="Weasel" data-date="2007-01-25T19:56:06+00:00" data-subject="">
 
 bastard! you know how long it took me to get that helm??? 2 whole minutes! bastard! 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="30882" data-author="Cizin" data-date="2010-02-12T11:30:26+00:00">
+<div class="post" data-post-id="30882" data-author="Cizin" data-date="2010-02-12T11:30:26+00:00" data-subject="shocked and devastated">
 
 After 6 months of cycling cps , killing really annoying Gort like 200 times this happened:
 
@@ -42,13 +42,13 @@ I find this so dissapointing adn devastating.
 
 </div>
 
-<div class="post" data-post-id="30883" data-author="Toxis" data-date="2010-02-12T11:48:28+00:00">
+<div class="post" data-post-id="30883" data-author="Toxis" data-date="2010-02-12T11:48:28+00:00" data-subject="">
 
 ..
 
 </div>
 
-<div class="post" data-post-id="30887" data-author="jezer" data-date="2010-02-12T21:11:03+00:00">
+<div class="post" data-post-id="30887" data-author="jezer" data-date="2010-02-12T21:11:03+00:00" data-subject="">
 
 Give Cizin his boots!  :evil: 
 
@@ -56,7 +56,7 @@ If I ask a tradesman to do a job, and he stuffs up... is it right that I pay the
 
 </div>
 
-<div class="post" data-post-id="30947" data-author="jezer" data-date="2010-03-06T22:52:22+00:00">
+<div class="post" data-post-id="30947" data-author="jezer" data-date="2010-03-06T22:52:22+00:00" data-subject="">
 
 Gratz on forging your replacement boots.
 

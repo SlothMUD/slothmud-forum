@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="30498" data-author="Marvel" data-date="2009-12-17T03:03:28+00:00">
+<div class="post" data-post-id="30498" data-author="Marvel" data-date="2009-12-17T03:03:28+00:00" data-subject="New Skills/Spells Ideas">
 
 I was thinking that since this is now a 8 class mud, it might make some sense to open up a pool of like 10/12 new skills/spells that everybody can pick only 2 from (this is purely conceptual in nature, so feel free to bash, flame, suggest, or actually implement).  That way, everybody can actually semi-customize their character a bit more than what we already have.  The issue Splork raised is that you'll have to come up with new equally balanced skills/spells.  I'll propose some ideas here - bear in mind that you could only have 2 of those and they're permanent selections, can't be changed once chosen for your character although upon second look, it might be just 1 skill if the suggestions I have are that unbalanced:
 
@@ -52,7 +52,7 @@ That's just a start... any feedback or flames? :)
 
 </div>
 
-<div class="post" data-post-id="30511" data-author="Marvel" data-date="2009-12-19T23:23:51+00:00">
+<div class="post" data-post-id="30511" data-author="Marvel" data-date="2009-12-19T23:23:51+00:00" data-subject="">
 
 No comments whatsoever?  :lol: 
 
@@ -62,7 +62,7 @@ Thoughts?
 
 </div>
 
-<div class="post" data-post-id="30513" data-author="jezer" data-date="2009-12-20T09:45:11+00:00">
+<div class="post" data-post-id="30513" data-author="jezer" data-date="2009-12-20T09:45:11+00:00" data-subject="">
 
 It's not that your ideas are bad, there is just a lot on at the moment in the way of improvements, tweakings and changes. I think things probably need to settle down a bit before something NEW like this gets a look in.
 
@@ -74,7 +74,7 @@ I like your ideas, but is this the right time? Is it not better to fix some of t
 
 </div>
 
-<div class="post" data-post-id="30518" data-author="Marvel" data-date="2009-12-20T16:24:09+00:00">
+<div class="post" data-post-id="30518" data-author="Marvel" data-date="2009-12-20T16:24:09+00:00" data-subject="">
 
 I understand your concerns - but wouldn't it be better to get those ideas out on the table so people can consider them?  It's not like this concept could be implemented immediately.  Although we all know bards still need a bit more help, and maybe if they took something from the new ideas to just give to bards alone, it could be something that would help push more people into trying bards.  Lore as I've described it sounds like it would be a perfect thematic bard prime skill/song.  Sing to find out about procs you can learn about (like wealth/glory), learn the proc, and then they'll be able to semi-blast with the new procs available to them.
 

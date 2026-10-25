@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3908" data-author="*Splork*" data-date="2005-01-24T00:33:20+00:00">
+<div class="post" data-post-id="3908" data-author="*Splork*" data-date="2005-01-24T00:33:20+00:00" data-subject="New Thief Skill: Palm">
 
 Added a new level 5 thief skill called palm. A rather amusing skill, Gets will enjoy it...
 

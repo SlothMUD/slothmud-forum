@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31807" data-author="jezer" data-date="2010-09-30T23:31:27+00:00">
+<div class="post" data-post-id="31807" data-author="jezer" data-date="2010-09-30T23:31:27+00:00" data-subject="A Day in the Life of Testham">
 
 Thu, 30 Sep 2010 12:31:46 -0600	  	the scarecrow behind your head crushed  Testham to a liveless pulp of blood and offals at 1 o'clock am on the Day of the Sun
 
@@ -148,7 +148,7 @@ Thu, 30 Sep 2010 08:36:16 -0600	 	Testham fought against the last digit of pi an
 
 </div>
 
-<div class="post" data-post-id="31808" data-author="*Breeze*" data-date="2010-10-01T20:18:25+00:00">
+<div class="post" data-post-id="31808" data-author="*Breeze*" data-date="2010-10-01T20:18:25+00:00" data-subject="Re: A Day in the Life of Testham">
 
 thanks for reminding me.  meant to fix that awhile ago.
 
@@ -156,7 +156,7 @@ thanks for reminding me.  meant to fix that awhile ago.
 
 </div>
 
-<div class="post" data-post-id="31809" data-author="jezer" data-date="2010-10-01T21:41:40+00:00">
+<div class="post" data-post-id="31809" data-author="jezer" data-date="2010-10-01T21:41:40+00:00" data-subject="Re: A Day in the Life of Testham">
 
 > **jezer wrote:**
 > Thu, 30 Sep 2010 09:54:16 -0600	 	the new epic mob, Potato Salad obliterated Testham at 12 o'clock pm on the Day of the Sun

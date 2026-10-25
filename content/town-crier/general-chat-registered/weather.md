@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9684" data-author="K&#x27;eth" data-date="2005-11-29T23:28:07+00:00">
+<div class="post" data-post-id="9684" data-author="K&#x27;eth" data-date="2005-11-29T23:28:07+00:00" data-subject="Weather">
 
 Some time ago i saw an interesting thing on Thule. 
 

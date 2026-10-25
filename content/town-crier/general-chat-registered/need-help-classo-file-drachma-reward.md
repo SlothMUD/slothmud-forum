@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33334" data-author="*Splork*" data-date="2012-06-12T16:50:20+00:00">
+<div class="post" data-post-id="33334" data-author="*Splork*" data-date="2012-06-12T16:50:20+00:00" data-subject="Need help classo  file ( drachma reward )">
 
 We need a help classo file for our helpfile system. This help entry should include the bonuses of picking a prime, secondary, etc etc.
 
@@ -30,7 +30,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33337" data-author="Acedia" data-date="2012-06-20T04:54:24+00:00">
+<div class="post" data-post-id="33337" data-author="Acedia" data-date="2012-06-20T04:54:24+00:00" data-subject="Re: Need help classo  file ( drachma reward )">
 
 This rather fit the bill, if not horribly malformatted.  
 

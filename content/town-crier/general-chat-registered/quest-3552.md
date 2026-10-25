@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="31881" data-author="kron" data-date="2010-10-18T05:03:03+00:00">
+<div class="post" data-post-id="31881" data-author="kron" data-date="2010-10-18T05:03:03+00:00" data-subject="Quest?">
 
 The homing ferret, a member of the weasel family, has a long slender body
 
@@ -82,7 +82,7 @@ Master herbalist Shrua says 'Ah, thank you.  Here is something for your services
 
 </div>
 
-<div class="post" data-post-id="31890" data-author="@Addriena" data-date="2010-10-19T09:11:28+00:00">
+<div class="post" data-post-id="31890" data-author="@Addriena" data-date="2010-10-19T09:11:28+00:00" data-subject="Quest!">
 
 > **Quote:**
 > Peace, mortals of Jord,
@@ -121,7 +121,7 @@ Master herbalist Shrua says 'Ah, thank you.  Here is something for your services
 
 </div>
 
-<div class="post" data-post-id="31893" data-author="Oboe" data-date="2010-10-20T22:52:43+00:00">
+<div class="post" data-post-id="31893" data-author="Oboe" data-date="2010-10-20T22:52:43+00:00" data-subject="Re: Quest?">
 
 popped on ud2 turtle:
 
@@ -247,13 +247,13 @@ Cuvier, the Fablesage says 'No such object!  *sniff*!'
 
 </div>
 
-<div class="post" data-post-id="31894" data-author="Stab" data-date="2010-10-21T01:30:13+00:00">
+<div class="post" data-post-id="31894" data-author="Stab" data-date="2010-10-21T01:30:13+00:00" data-subject="Re: Quest?">
 
 Cool! Sure hope I can get here Saturday morining.
 
 </div>
 
-<div class="post" data-post-id="31895" data-author="Teron" data-date="2010-10-21T03:57:35+00:00">
+<div class="post" data-post-id="31895" data-author="Teron" data-date="2010-10-21T03:57:35+00:00" data-subject="Re: Quest?">
 
 Lun gossips-- 'Someone in a blue geyser is carrying a runestone, where be this!'
 
@@ -285,7 +285,7 @@ Cuvier, the Fablesage says 'No such object!  *sniff*!'
 
 </div>
 
-<div class="post" data-post-id="31898" data-author="Teron" data-date="2010-10-21T15:44:40+00:00">
+<div class="post" data-post-id="31898" data-author="Teron" data-date="2010-10-21T15:44:40+00:00" data-subject="Re: Quest?">
 
 Spar gossiped that the camel is in Salamis the day before.
 
@@ -339,7 +339,7 @@ It'd be nice if runestones loaded more regularly/quicker, though :)
 
 </div>
 
-<div class="post" data-post-id="31900" data-author="kron" data-date="2010-10-21T22:17:03+00:00">
+<div class="post" data-post-id="31900" data-author="kron" data-date="2010-10-21T22:17:03+00:00" data-subject="Re: Quest?">
 
 Luna gives an enigmatic runestone to Cuvier, the Fablesage.
 
@@ -383,7 +383,7 @@ Cuvier, the Fablesage says 'No such object!  *sniff*!'
 
 </div>
 
-<div class="post" data-post-id="31901" data-author="kron" data-date="2010-10-22T02:13:57+00:00">
+<div class="post" data-post-id="31901" data-author="kron" data-date="2010-10-22T02:13:57+00:00" data-subject="Re: Quest?">
 
 If you were party member and didn't get your 2 drachma from current drag and chobbs hasn't already fixed it talk to chobbs
 
@@ -521,7 +521,7 @@ Paka disappears.
 
 </div>
 
-<div class="post" data-post-id="31902" data-author="kron" data-date="2010-10-22T02:22:12+00:00">
+<div class="post" data-post-id="31902" data-author="kron" data-date="2010-10-22T02:22:12+00:00" data-subject="Re: Quest?">
 
 give runestone cuvier
 
@@ -545,7 +545,7 @@ Cuvier, the Fablesage puts the Runestone of the Bear away.
 
 </div>
 
-<div class="post" data-post-id="31906" data-author="kron" data-date="2010-10-22T04:01:31+00:00">
+<div class="post" data-post-id="31906" data-author="kron" data-date="2010-10-22T04:01:31+00:00" data-subject="Re: Quest?">
 
 give runestone cuvier
 
@@ -567,7 +567,7 @@ Cuvier, the Fablesage puts the Runestone of the Felid away.
 
 </div>
 
-<div class="post" data-post-id="31910" data-author="Teron" data-date="2010-10-22T07:42:14+00:00">
+<div class="post" data-post-id="31910" data-author="Teron" data-date="2010-10-22T07:42:14+00:00" data-subject="Re: Quest?">
 
 You get an enigmatic runestone from the corpse of a giant white shark that's on the ground.
 
@@ -597,7 +597,7 @@ Cuvier, the Fablesage says 'No such object!  *sniff*!'
 
 </div>
 
-<div class="post" data-post-id="31911" data-author="@Addriena" data-date="2010-10-22T11:00:38+00:00">
+<div class="post" data-post-id="31911" data-author="@Addriena" data-date="2010-10-22T11:00:38+00:00" data-subject="Re: Quest?">
 
 > **Quote:**
 > Peace, mortals of Jord,
@@ -638,7 +638,7 @@ Cuvier, the Fablesage says 'No such object!  *sniff*!'
 
 </div>
 
-<div class="post" data-post-id="31913" data-author="blackmore" data-date="2010-10-22T15:59:50+00:00">
+<div class="post" data-post-id="31913" data-author="blackmore" data-date="2010-10-22T15:59:50+00:00" data-subject="Re: Quest?">
 
 Runestone was on pegasus in dweb.
 
@@ -674,7 +674,7 @@ Cuvier, the Fablesage puts the Runestone of the Equus away.
 
 </div>
 
-<div class="post" data-post-id="31914" data-author="blackmore" data-date="2010-10-22T17:26:00+00:00">
+<div class="post" data-post-id="31914" data-author="blackmore" data-date="2010-10-22T17:26:00+00:00" data-subject="Re: Quest?">
 
 This runestone was on an epic mob (Trepadora Tropicallo) in Drakken Forest.
 
@@ -706,7 +706,7 @@ Cuvier, the Fablesage says 'No such object!  *sniff*!'
 
 </div>
 
-<div class="post" data-post-id="31915" data-author="Shyla" data-date="2010-10-22T23:05:17+00:00">
+<div class="post" data-post-id="31915" data-author="Shyla" data-date="2010-10-22T23:05:17+00:00" data-subject="Re: Quest?">
 
 You gossip-- 'Cuvier, the Fablesage says 'Hm!  It seems someone in The Galley is carrying a runestone!'
 
@@ -742,13 +742,13 @@ Cuvier, the Fablesage puts the Runestone of the Cephalopod away.
 
 </div>
 
-<div class="post" data-post-id="31916" data-author="Shyla" data-date="2010-10-23T00:47:34+00:00">
+<div class="post" data-post-id="31916" data-author="Shyla" data-date="2010-10-23T00:47:34+00:00" data-subject="Re: Quest?">
 
 Shyla (gossip): Cuvier, the Fablesage says 'Hm!  It seems someone in The Stairwell's Pinnacle is carrying a runestone!
 
 </div>
 
-<div class="post" data-post-id="31917" data-author="Shyla" data-date="2010-10-23T01:39:13+00:00">
+<div class="post" data-post-id="31917" data-author="Shyla" data-date="2010-10-23T01:39:13+00:00" data-subject="Re: Quest?">
 
 The Stairwell's Pinnacle
 
@@ -794,7 +794,7 @@ New epic mob in myconids
 
 </div>
 
-<div class="post" data-post-id="31918" data-author="Shyla" data-date="2010-10-23T01:42:28+00:00">
+<div class="post" data-post-id="31918" data-author="Shyla" data-date="2010-10-23T01:42:28+00:00" data-subject="Re: Quest?">
 
 give rune cuvier
 
@@ -820,7 +820,7 @@ Cuvier, the Fablesage puts the Runestone of the Albatross away.
 
 </div>
 
-<div class="post" data-post-id="31919" data-author="Shyla" data-date="2010-10-23T02:59:19+00:00">
+<div class="post" data-post-id="31919" data-author="Shyla" data-date="2010-10-23T02:59:19+00:00" data-subject="Re: Quest?">
 
 goss Cuvier, the Fablesage says 'Hm!  It seems someone in The Exploratory Tunnel is carrying a runestone!'
 
@@ -828,7 +828,7 @@ You gossip-- 'Cuvier, the Fablesage says 'Hm!  It seems someone in The Explorato
 
 </div>
 
-<div class="post" data-post-id="31920" data-author="Shyla" data-date="2010-10-23T03:34:22+00:00">
+<div class="post" data-post-id="31920" data-author="Shyla" data-date="2010-10-23T03:34:22+00:00" data-subject="Re: Quest?">
 
 give runestone cuvier
 
@@ -856,7 +856,7 @@ Cuvier, the Fablesage puts the Runestone of the Ankheg away.
 
 </div>
 
-<div class="post" data-post-id="31923" data-author="Teron" data-date="2010-10-23T19:06:44+00:00">
+<div class="post" data-post-id="31923" data-author="Teron" data-date="2010-10-23T19:06:44+00:00" data-subject="Re: Quest?">
 
 Greetings.
 
@@ -1373,7 +1373,7 @@ P.S. Inquire within, if you want a full 4mb log or more details from it.
 
 </div>
 
-<div class="post" data-post-id="31925" data-author="Rynquald" data-date="2010-10-24T01:06:09+00:00">
+<div class="post" data-post-id="31925" data-author="Rynquald" data-date="2010-10-24T01:06:09+00:00" data-subject="Re: Quest?">
 
 Thanks for posting that excellent quest summary Taron. Also thanks to the imms for such a fun quest, and everyone who participated.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="947" data-author="Ender" data-date="2004-07-06T16:39:45+00:00">
+<div class="post" data-post-id="947" data-author="Ender" data-date="2004-07-06T16:39:45+00:00" data-subject="What&#x27;s wrong with thieves?">
 
 I've been away for a while, but I'm noticing a recurring theme on the boards. Especially the posts regarding the autoquest equipment.
 
@@ -32,7 +32,7 @@ Ender the Untitled
 
 </div>
 
-<div class="post" data-post-id="951" data-author="Shadis" data-date="2004-07-07T00:56:17+00:00">
+<div class="post" data-post-id="951" data-author="Shadis" data-date="2004-07-07T00:56:17+00:00" data-subject="">
 
 There is no doubt a thief prime is pretty nice from lvl 1 to 2x40 or even 3x40 depending on classo
 
@@ -68,7 +68,7 @@ and trust me, the second happens a lot mroe then the first ..do the math
 
 </div>
 
-<div class="post" data-post-id="956" data-author="Ender" data-date="2004-07-07T02:59:23+00:00">
+<div class="post" data-post-id="956" data-author="Ender" data-date="2004-07-07T02:59:23+00:00" data-subject="Interesting points....">
 
 Being the experienced thief you are, I appreciate your reply.  Perhaps I've simply remained too small to notice the disadvantages of thieves.  On the other hand, I rarely stab.  To be brutally honest, I often find that leading with a curse works much more to my advantage (then again, I am a Wa secondary).
 
@@ -80,7 +80,7 @@ Any ideas on how to compensate for that?
 
 </div>
 
-<div class="post" data-post-id="957" data-author="Weasel" data-date="2004-07-07T03:13:19+00:00">
+<div class="post" data-post-id="957" data-author="Weasel" data-date="2004-07-07T03:13:19+00:00" data-subject="">
 
 Many classos can hit -10AC, including thieves. Thieves have better solo power than anyone up to whatever level you said back there ..3x40 was it? ..and then little increase until level 9av.. well hell that's a big bonus imho. I have no idea why thieves have always moaned that they're somehow disadvantaged, and even more surprisingly they get improvements given as a result. Personally I think they appear to be quite fine as they are. If anyone wants to make them more powerful between 3x40 and level 9av, then take some of their power away in the lower levels to keep them balanced. 
 
@@ -88,7 +88,7 @@ WA primes in general don't tend to moan much for some reason, but parry is the o
 
 </div>
 
-<div class="post" data-post-id="959" data-author="Ender" data-date="2004-07-07T03:55:24+00:00">
+<div class="post" data-post-id="959" data-author="Ender" data-date="2004-07-07T03:55:24+00:00" data-subject="Re: Weasel">
 
 I don't find a lot wrong with thieves myself, I'm just trying to understand the overwhelming amount of pity they attract.  As far as thieves reaching -10 ac, I'm not surprised... after all their prime stat is Dex.  With all the +dex eq in the game though, it's incredibly common for a player to have 18 dex.
 
@@ -100,7 +100,7 @@ Ender the Untitled
 
 </div>
 
-<div class="post" data-post-id="960" data-author="Alberich" data-date="2004-07-07T04:11:40+00:00">
+<div class="post" data-post-id="960" data-author="Alberich" data-date="2004-07-07T04:11:40+00:00" data-subject="">
 
 well.. I play an avatar mage prime, and a th/ma who's close to tri40.. and really, they are both fine solo char, just for very different areas.
 
@@ -116,7 +116,7 @@ would also like to point out that this is a game, played (theoretically at least
 
 </div>
 
-<div class="post" data-post-id="963" data-author="Weasel" data-date="2004-07-07T06:47:06+00:00">
+<div class="post" data-post-id="963" data-author="Weasel" data-date="2004-07-07T06:47:06+00:00" data-subject="Re: Weasel">
 
 I am interested though, Shadis says leveling gets very slow between 2x40 and 9 av [for thieves].  How would you describe the warrior leveling progression?[/quote:3perabrh]
 
@@ -128,7 +128,7 @@ I better add that this opinion (and indeed any prime class performance opinion) 
 
 </div>
 
-<div class="post" data-post-id="970" data-author="Avatar" data-date="2004-07-07T12:39:19+00:00">
+<div class="post" data-post-id="970" data-author="Avatar" data-date="2004-07-07T12:39:19+00:00" data-subject="Warrior solo">
 
 I'll add a bit concerning warrior solo ability...which rather applies to most soloing.  You're not going all the way to 1x40 with no other classes, you'll have ~20 levels in a second class.  That's going to sway your type of soloing in a certain direction.  Someone who's a Wa/Th is going to go for stab mobs, being a thicker thief who doesn't have to rely quite so much on a powerful stab.  The same happens at 2x40 and 3x40 ... a 2x40 Wa/Ma does not want to stab, he's going after the ethereal mobs with his -9 AC and winds.  
 
@@ -138,7 +138,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="971" data-author="Ender" data-date="2004-07-07T12:47:37+00:00">
+<div class="post" data-post-id="971" data-author="Ender" data-date="2004-07-07T12:47:37+00:00" data-subject="Stats">
 
 In Sloth I, 18 dex was insanely easy to accomplish.  Shield of the Rainmaster was +3 dex all by itself, not to mention quickling bracers and a host of other +dex items that littered the mud.  As for +con items... you could count them on your fingers.  There were 6, and everyone knew them by heart.
 
@@ -164,7 +164,7 @@ Again, you didn't want to know that, but it leads me into my next question...  I
 
 </div>
 
-<div class="post" data-post-id="972" data-author="Alberich" data-date="2004-07-07T13:30:42+00:00">
+<div class="post" data-post-id="972" data-author="Alberich" data-date="2004-07-07T13:30:42+00:00" data-subject="">
 
 for str, it depends on what balance of ac you are settling for - my mage runs 18/40 18 16 18 18 in his -10 mode, my thief runs 18/100 18 11 18 17, but I do give up quite a bit of ac to manage 18/100 str with him (+13 dam +23 stab_dam at -6, specifically) - however, as I said, a thief gets his xp by splorking big mobs, so in a good run, ac isn't as big a deal for a thief, as you don't get hit if you splork your mob (and stab mobs have such high hit/dam rolls that it doesn't really matter anyways).  Neither of those chars have particularly good stats, btw - my mage does not even have 2x18 nats.
 
@@ -172,7 +172,7 @@ I understand that this may have been different in sloth1, but... this is sloth3 
 
 </div>
 
-<div class="post" data-post-id="974" data-author="Weasel" data-date="2004-07-07T14:06:09+00:00">
+<div class="post" data-post-id="974" data-author="Weasel" data-date="2004-07-07T14:06:09+00:00" data-subject="Re: Stats">
 
 Is everyone in the game running 18/100 18 18 18 18?  What stats are people settling for if they're not?  I have the suspicion that that fighter types sacrifice int/wis and mage types sacrifice str.  How close am I?[/quote:137xi7pt]
 
@@ -188,7 +188,7 @@ Fortunately at 5x40 avatar status you can start buying stats since there's no mo
 
 </div>
 
-<div class="post" data-post-id="976" data-author="Ender" data-date="2004-07-07T16:12:45+00:00">
+<div class="post" data-post-id="976" data-author="Ender" data-date="2004-07-07T16:12:45+00:00" data-subject="Percentile Strength">
 
 I personnally think warriors have a distinct advantage in maxxing stats since they can achieve a high percentile strength easier.  Biased?  Perhaps, but its far easier to wear better AC/+hit/+dam/+whatever eq when you're not as concerned with how to integrate +stat eq. Not to mention that getting from 17 str to 18/100 takes about 11 items, which is enough to bring a 7 to an 18 for any other stat.  I don't think anyone in the game has settled for a 7 in their stats unless it's surrounded by about 3 or 4 18s.  This isn't perhaps a noticable advantage, but it works to make the warriors overall style of play simpler.
 
@@ -196,7 +196,7 @@ Obviously we don't want everyone maxxing stats, so I'm not whining that I'd like
 
 </div>
 
-<div class="post" data-post-id="977" data-author="Calim" data-date="2004-07-07T16:21:18+00:00">
+<div class="post" data-post-id="977" data-author="Calim" data-date="2004-07-07T16:21:18+00:00" data-subject="">
 
 Me: I run at 18/100 14 14 18 18 as a wa/th/ma/cl.  Nats 18/69 14 14 18 15.  People told me that it was going to be tough to play since those 3 con would be VERY hard to get with max ac eq.  I scoffed thinking nah, it shouldn't be hard, I've seen plenty of con eq.  Oops.  There is one item that has max ac and +con, no - modifiers.  Darksteel shoulder guards.  Not an easy autoquest.  I get my other 2 con from a light, excellent source for that and one from a 3x40 item that is -0.1 ac off the max for that slot.  That one tradeoff bothered me, I had to sacrifice a +15 hp held low, to get that -0.1 ac back.
 
@@ -204,7 +204,7 @@ Now, I've never whined about the wa class.  I was able to nearly solo this char 
 
 </div>
 
-<div class="post" data-post-id="991" data-author="Shadis" data-date="2004-07-08T23:09:49+00:00">
+<div class="post" data-post-id="991" data-author="Shadis" data-date="2004-07-08T23:09:49+00:00" data-subject="">
 
 just a few notes
 
@@ -252,13 +252,13 @@ do not play thieves? heh
 
 </div>
 
-<div class="post" data-post-id="1035" data-author="Avatar" data-date="2004-07-12T17:17:57+00:00">
+<div class="post" data-post-id="1035" data-author="Avatar" data-date="2004-07-12T17:17:57+00:00" data-subject="Warrior strength">
 
 Warriors do have that nice str, which does make choosing eq a little simpler.  On the other hand, mages and clerics have it pretty easy too if you mostly group.  My smaller cleric has like +6 ac, makes it easy to find a spot for +stat gear.  If you don't solo much, it's a waste of time to collect that AC gear.
 
 </div>
 
-<div class="post" data-post-id="1037" data-author="Ender" data-date="2004-07-12T19:31:56+00:00">
+<div class="post" data-post-id="1037" data-author="Ender" data-date="2004-07-12T19:31:56+00:00" data-subject="Clerics?">
 
 Style of play varies wildly in and out of groups.  It's very easy to hide behind a tank, do as your told and collect wild amounts of XP.  The equipment worn and tactics used are often radically different.
 

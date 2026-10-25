@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="25581" data-author="jezer" data-date="2008-08-05T00:00:59+00:00">
+<div class="post" data-post-id="25581" data-author="jezer" data-date="2008-08-05T00:00:59+00:00" data-subject="Mandiblaton">
 
 Well, I donâ€™t really care if you all donâ€™t give a ripâ€¦ most didnâ€™t when I needed the helpâ€¦ but something great happened last night and I just wanted to share.
 
@@ -34,7 +34,7 @@ The End
 
 </div>
 
-<div class="post" data-post-id="25582" data-author="Virus" data-date="2008-08-05T01:38:31+00:00">
+<div class="post" data-post-id="25582" data-author="Virus" data-date="2008-08-05T01:38:31+00:00" data-subject="">
 
 Didn't want to but I guess I had to help caz Adagio said I get the clan if he dies  :D .....j/k
 
@@ -42,7 +42,7 @@ Gratz on the book!
 
 </div>
 
-<div class="post" data-post-id="25583" data-author="jezer" data-date="2008-08-05T03:10:32+00:00">
+<div class="post" data-post-id="25583" data-author="jezer" data-date="2008-08-05T03:10:32+00:00" data-subject="">
 
 Heh, that's funny, having a 'last will and testament' for your sloth characters in case you die in real life... I can't say I'm that well thought out...
 
@@ -62,13 +62,13 @@ Hmm, where is my telephone book... where is h... h for hitmen, ohh here we go...
 
 </div>
 
-<div class="post" data-post-id="25584" data-author="Yasik2" data-date="2008-08-05T03:57:10+00:00">
+<div class="post" data-post-id="25584" data-author="Yasik2" data-date="2008-08-05T03:57:10+00:00" data-subject="">
 
 won't read, too much l3tt3rz
 
 </div>
 
-<div class="post" data-post-id="25585" data-author="jezer" data-date="2008-08-05T05:29:27+00:00">
+<div class="post" data-post-id="25585" data-author="jezer" data-date="2008-08-05T05:29:27+00:00" data-subject="">
 
 won't read, too much l3tt3rz[/quote:37el8ej4]
 
@@ -76,13 +76,13 @@ Strange... and you play a text based game!?! Guess you just watch the numbers  :
 
 </div>
 
-<div class="post" data-post-id="25597" data-author="13" data-date="2008-08-05T14:48:10+00:00">
+<div class="post" data-post-id="25597" data-author="13" data-date="2008-08-05T14:48:10+00:00" data-subject="">
 
 i wanna be in strider's will
 
 </div>
 
-<div class="post" data-post-id="25600" data-author="Yasik2" data-date="2008-08-05T16:08:05+00:00">
+<div class="post" data-post-id="25600" data-author="Yasik2" data-date="2008-08-05T16:08:05+00:00" data-subject="">
 
 Strange... and you play a text based game!?! Guess you just watch the numbers  :) High is awesomer.[/quote:1zvugl9p]
 

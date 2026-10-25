@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11430" data-author="Gnu" data-date="2006-03-17T19:00:43+00:00">
+<div class="post" data-post-id="11430" data-author="Gnu" data-date="2006-03-17T19:00:43+00:00" data-subject="bards again">
 
 Here is a log of my attempts to create a charm with improved-hast spell:
 

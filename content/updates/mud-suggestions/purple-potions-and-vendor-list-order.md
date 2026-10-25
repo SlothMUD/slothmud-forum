@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="35087" data-author="Yasik" data-date="2014-05-02T14:56:52+00:00">
+<div class="post" data-post-id="35087" data-author="Yasik" data-date="2014-05-02T14:56:52+00:00" data-subject="Purple potions and vendor list order">
 
 Hello !
 
@@ -188,7 +188,7 @@ A purple potion: Ok.
 
 </div>
 
-<div class="post" data-post-id="35088" data-author="DarkArtist" data-date="2014-05-02T20:50:25+00:00">
+<div class="post" data-post-id="35088" data-author="DarkArtist" data-date="2014-05-02T20:50:25+00:00" data-subject="Re: Purple potions and vendor list order">
 
 While I completely agree to the changes you suggest...
 
@@ -196,7 +196,7 @@ FYI they added the keyword "plain" to the purple potion. So you can always safel
 
 </div>
 
-<div class="post" data-post-id="35091" data-author="Yasik" data-date="2014-05-03T00:55:27+00:00">
+<div class="post" data-post-id="35091" data-author="Yasik" data-date="2014-05-03T00:55:27+00:00" data-subject="Re: Purple potions and vendor list order">
 
 Hmmm, didnt know that, 'plain' seems to fix the problem. Thanks.
 

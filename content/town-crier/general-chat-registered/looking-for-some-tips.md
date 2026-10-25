@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="15196" data-author="*juggleblood*" data-date="2006-11-15T07:50:52+00:00">
+<div class="post" data-post-id="15196" data-author="*juggleblood*" data-date="2006-11-15T07:50:52+00:00" data-subject="Looking for some tips">
 
 I've gotten fairly decent at running ss xp, but I'd like to be able to run
 
@@ -30,7 +30,7 @@ Rub
 
 </div>
 
-<div class="post" data-post-id="15197" data-author="Atwell" data-date="2006-11-15T10:24:25+00:00">
+<div class="post" data-post-id="15197" data-author="Atwell" data-date="2006-11-15T10:24:25+00:00" data-subject="Re: Looking for some tips">
 
 Archfiend/Phoenix in Arbo: How do I kill archfiend without losing all the crunchy caster types to the fire proc? Haven't tried phoenix yet, is it harder or easier than archfiend? Does it also fire proc?[/quote:18zi005k]
 
@@ -52,7 +52,7 @@ Kas is thinner than Sin, so yes, focus on killing him first.  I would take one t
 
 </div>
 
-<div class="post" data-post-id="15198" data-author="13" data-date="2006-11-15T13:36:40+00:00">
+<div class="post" data-post-id="15198" data-author="13" data-date="2006-11-15T13:36:40+00:00" data-subject="">
 
 Whoa, are you serious Rub?
 
@@ -84,13 +84,13 @@ As a bonus if you want a challenge, go play with Smaug or the Gallows Man, now t
 
 </div>
 
-<div class="post" data-post-id="15201" data-author="12345" data-date="2006-11-15T22:04:25+00:00">
+<div class="post" data-post-id="15201" data-author="12345" data-date="2006-11-15T22:04:25+00:00" data-subject="">
 
 Smaug is probably the worst mob I've seen that requires the entire group to know what they're doing.  It also helps to have been there before, a few times.  He can impressively CF a bunch of avatars pretty quick.
 
 </div>
 
-<div class="post" data-post-id="15207" data-author="osric" data-date="2006-11-16T15:44:58+00:00">
+<div class="post" data-post-id="15207" data-author="osric" data-date="2006-11-16T15:44:58+00:00" data-subject="">
 
 Nod, Smaug kills!  :lol:
 

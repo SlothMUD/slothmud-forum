@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="30573" data-author="jezer" data-date="2010-01-06T07:23:05+00:00">
+<div class="post" data-post-id="30573" data-author="jezer" data-date="2010-01-06T07:23:05+00:00" data-subject="Maxing Stats and the Long Haul...">
 
 I rolled my stats today which got me thinking more about my eq on the long road to 9x40.
 
@@ -36,7 +36,7 @@ Also I'm wondering if the immortals consider publishing what all the ruins do? I
 
 </div>
 
-<div class="post" data-post-id="30574" data-author="Roadrunr" data-date="2010-01-06T23:56:45+00:00">
+<div class="post" data-post-id="30574" data-author="Roadrunr" data-date="2010-01-06T23:56:45+00:00" data-subject="">
 
 well, I guess your expectations and mine are totally different.  I was thinking that the max stat thing would be set up to make you make choices about what you run and that it simply wouldnt be possible to max out everything.  I mean, you would need what +7, +6, +5, +4, +3, thats +25 to max stats, just to get the slots, and then you need to actually get those additional stats.
 
@@ -44,7 +44,7 @@ it just doesnt seem realistic to me that even if you had the best of everything 
 
 </div>
 
-<div class="post" data-post-id="30575" data-author="Thraxas" data-date="2010-01-07T09:21:05+00:00">
+<div class="post" data-post-id="30575" data-author="Thraxas" data-date="2010-01-07T09:21:05+00:00" data-subject="">
 
 well, I guess your expectations and mine are totally different. [/quote:w3ycsfn0]
 
@@ -56,13 +56,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="30576" data-author="jezer" data-date="2010-01-07T10:45:04+00:00">
+<div class="post" data-post-id="30576" data-author="jezer" data-date="2010-01-07T10:45:04+00:00" data-subject="">
 
 They are making more eq, there is also max_stat drachma eq and clasps. I also expect that stats will be able to be purchased post avatar. I also suspect that some of those runes are stats. Presently I don't think there is enough max_stat eq to get to 25 in any stat, but why would they allow it to be 25 if there is not a way of getting there? It would be nice is max stat could maybe be added to honor rank clasps as well. I think there is plenty of scope there.
 
 </div>
 
-<div class="post" data-post-id="30577" data-author="*Splork*" data-date="2010-01-07T12:38:47+00:00">
+<div class="post" data-post-id="30577" data-author="*Splork*" data-date="2010-01-07T12:38:47+00:00" data-subject="">
 
 There are plenty of max stat eq items ingame, most of them are high end forges and drachma eq. Its a long term goal for both players and Immortals, as we are adding items all the time.
 
@@ -72,13 +72,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30578" data-author="Jag" data-date="2010-01-07T13:38:35+00:00">
+<div class="post" data-post-id="30578" data-author="Jag" data-date="2010-01-07T13:38:35+00:00" data-subject="">
 
 What happened to the new DB of all in-game eq that was supposed to be coming out?
 
 </div>
 
-<div class="post" data-post-id="30579" data-author="Jag" data-date="2010-01-07T13:57:26+00:00">
+<div class="post" data-post-id="30579" data-author="Jag" data-date="2010-01-07T13:57:26+00:00" data-subject="">
 
 I was really looking forward to the new DB project.  I think our web site (maps and equipment database) is one of Sloth's major benefits over most other muds.  
 
@@ -90,7 +90,7 @@ We all have adapted to not having an accurate eq db, but I think we all would ag
 
 </div>
 
-<div class="post" data-post-id="30580" data-author="Stab" data-date="2010-01-07T14:36:24+00:00">
+<div class="post" data-post-id="30580" data-author="Stab" data-date="2010-01-07T14:36:24+00:00" data-subject="Updated eqlist ?">
 
 Are the 'new eq' ,,,, max_stat eq and "adding all the time", 
 
@@ -108,7 +108,7 @@ Stab
 
 </div>
 
-<div class="post" data-post-id="30581" data-author="blackmore" data-date="2010-01-07T17:33:00+00:00">
+<div class="post" data-post-id="30581" data-author="blackmore" data-date="2010-01-07T17:33:00+00:00" data-subject="">
 
 There are plenty of max stat eq items ingame, most of them are high end forges and drachma eq. Its a long term goal for both players and Immortals, as we are adding items all the time.
 
@@ -120,7 +120,7 @@ We had been told that there was going to be a new eqlist that was accurate to th
 
 </div>
 
-<div class="post" data-post-id="30582" data-author="jezer" data-date="2010-01-07T19:01:58+00:00">
+<div class="post" data-post-id="30582" data-author="jezer" data-date="2010-01-07T19:01:58+00:00" data-subject="">
 
 People don't care about what they don't know about. Doing this Splork is a bit like asking us to work in your garden and not tell us how much you are going to pay us. Who do you really think is interested in that?
 
@@ -132,7 +132,7 @@ The best thing that ever happened to this game was maps, eqlist and the source c
 
 </div>
 
-<div class="post" data-post-id="30583" data-author="jezer" data-date="2010-01-07T19:18:05+00:00">
+<div class="post" data-post-id="30583" data-author="jezer" data-date="2010-01-07T19:18:05+00:00" data-subject="">
 
 I have a bunch of cousins under 15, and it always annoys me when I go around there... and they have some news... but they want me to "guess" the news first. I'll say something stupid, and they will laugh and say "NO! GUESS!" I don't wanna flippin guess the stupid news just tell me what it is I feel like saying!
 
@@ -142,7 +142,7 @@ I'd rather not even participate than play their stupid little power games.
 
 </div>
 
-<div class="post" data-post-id="30584" data-author="jezer" data-date="2010-01-07T21:15:45+00:00">
+<div class="post" data-post-id="30584" data-author="jezer" data-date="2010-01-07T21:15:45+00:00" data-subject="">
 
 How about listing all eq/names/stats on the website... but not showing area/location/forger for those yet unfound?
 
@@ -150,7 +150,7 @@ I can handle turning the mud upside down to find something... IF i know the rewa
 
 </div>
 
-<div class="post" data-post-id="30585" data-author="*Splork*" data-date="2010-01-07T23:07:41+00:00">
+<div class="post" data-post-id="30585" data-author="*Splork*" data-date="2010-01-07T23:07:41+00:00" data-subject="">
 
 I said there is going to be a new eqlist which will be ported directly from the game. This part has already been completed. I never said that all eq will be listedright away  or when it will be listed. I asked for popular vote online of how and when eq should be listed or if they wanted the entire db of eq and the poppers right away and the majority voted they did not want the eq and pop locations given away. 
 
@@ -168,7 +168,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30586" data-author="jezer" data-date="2010-01-08T00:18:10+00:00">
+<div class="post" data-post-id="30586" data-author="jezer" data-date="2010-01-08T00:18:10+00:00" data-subject="">
 
 [img:abxbfuak]http://www.blogacause.com/blogacause/resources/Sentiant/feelinglum.jpg[/img:abxbfuak]
 
@@ -198,7 +198,7 @@ Hands in the middle, GO TEAM, righto off ya go. Lets get it done.
 
 </div>
 
-<div class="post" data-post-id="30588" data-author="*Splork*" data-date="2010-01-08T03:05:22+00:00">
+<div class="post" data-post-id="30588" data-author="*Splork*" data-date="2010-01-08T03:05:22+00:00" data-subject="">
 
 The only thing official here is one person bitching and moaning before they have even seen a result of the DB.
 
@@ -208,7 +208,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30589" data-author="jezer" data-date="2010-01-08T03:28:07+00:00">
+<div class="post" data-post-id="30589" data-author="jezer" data-date="2010-01-08T03:28:07+00:00" data-subject="">
 
 The only thing official here is one person bitching and moaning before they have even seen a result of the DB.
 
@@ -218,7 +218,7 @@ I seem to have gotten under your fingernails, I apologize. I'm sure the interfac
 
 </div>
 
-<div class="post" data-post-id="30591" data-author="Thraxas" data-date="2010-01-08T09:36:59+00:00">
+<div class="post" data-post-id="30591" data-author="Thraxas" data-date="2010-01-08T09:36:59+00:00" data-subject="">
 
 Jezer,
 
@@ -236,7 +236,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30593" data-author="vrta" data-date="2010-01-08T10:03:55+00:00">
+<div class="post" data-post-id="30593" data-author="vrta" data-date="2010-01-08T10:03:55+00:00" data-subject="">
 
 Heya Splork,
 
@@ -246,7 +246,7 @@ bu!
 
 </div>
 
-<div class="post" data-post-id="30656" data-author="*Breeze*" data-date="2010-01-12T13:40:13+00:00">
+<div class="post" data-post-id="30656" data-author="*Breeze*" data-date="2010-01-12T13:40:13+00:00" data-subject="">
 
 Heya Splork,
 
@@ -262,7 +262,7 @@ and the answer is 'possibly'
 
 </div>
 
-<div class="post" data-post-id="30660" data-author="jezer" data-date="2010-01-12T18:39:53+00:00">
+<div class="post" data-post-id="30660" data-author="jezer" data-date="2010-01-12T18:39:53+00:00" data-subject="">
 
 Benq,
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="24070" data-author="Gumbi" data-date="2008-04-27T23:23:41+00:00">
+<div class="post" data-post-id="24070" data-author="Gumbi" data-date="2008-04-27T23:23:41+00:00" data-subject="A Message from John Cleese">
 
 Britain is Repossessing the U.S.A.
 
@@ -202,13 +202,13 @@ Britain is Repossessing the U.S.A.
 
 </div>
 
-<div class="post" data-post-id="24071" data-author="jezer" data-date="2008-04-27T23:30:39+00:00">
+<div class="post" data-post-id="24071" data-author="jezer" data-date="2008-04-27T23:30:39+00:00" data-subject="">
 
 :twisted:
 
 </div>
 
-<div class="post" data-post-id="24072" data-author="Rynquald" data-date="2008-04-27T23:51:55+00:00">
+<div class="post" data-post-id="24072" data-author="Rynquald" data-date="2008-04-27T23:51:55+00:00" data-subject="">
 
 Lol
 
@@ -216,13 +216,13 @@ I love 13 and 16.
 
 </div>
 
-<div class="post" data-post-id="24073" data-author="Autolycos" data-date="2008-04-28T00:54:24+00:00">
+<div class="post" data-post-id="24073" data-author="Autolycos" data-date="2008-04-28T00:54:24+00:00" data-subject="">
 
 thank you.. that was fantastic!
 
 </div>
 
-<div class="post" data-post-id="24075" data-author="Karna" data-date="2008-04-28T02:12:55+00:00">
+<div class="post" data-post-id="24075" data-author="Karna" data-date="2008-04-28T02:12:55+00:00" data-subject="">
 
 I'm pretty sure we kicked Britain's collective arse to become independent Mr. Clease!
 
@@ -230,13 +230,13 @@ Karna
 
 </div>
 
-<div class="post" data-post-id="24081" data-author="Yasik2" data-date="2008-04-28T07:51:21+00:00">
+<div class="post" data-post-id="24081" data-author="Yasik2" data-date="2008-04-28T07:51:21+00:00" data-subject="">
 
 [img:uwap95ye]http://yasik.kiev.ua/4chan/Leonidas_Combo.gif[/img:uwap95ye]
 
 </div>
 
-<div class="post" data-post-id="24082" data-author="Gumbi" data-date="2008-04-28T12:03:47+00:00">
+<div class="post" data-post-id="24082" data-author="Gumbi" data-date="2008-04-28T12:03:47+00:00" data-subject="">
 
 Dear Yasik:
 
@@ -258,7 +258,7 @@ Luv, Gumbo
 
 </div>
 
-<div class="post" data-post-id="24820" data-author="PolkAdotS" data-date="2008-06-10T04:03:26+00:00">
+<div class="post" data-post-id="24820" data-author="PolkAdotS" data-date="2008-06-10T04:03:26+00:00" data-subject="">
 
 :lol: Sorry, I found it absolutely necessary to move the first and second posts of Gumbi on the crier to the top. Hilarity ensues....  And I am still sorry I didn't tell more immorts what I thought of them earlier. 
 
@@ -266,19 +266,19 @@ p/s/ It might not be the first posts, I think I had posted that link to the back
 
 </div>
 
-<div class="post" data-post-id="24830" data-author="Tap" data-date="2008-06-10T10:36:47+00:00">
+<div class="post" data-post-id="24830" data-author="Tap" data-date="2008-06-10T10:36:47+00:00" data-subject="">
 
 There's a practice dummy in monks guild used for kicking and attacking. Let's rename it PolkAdotS 8)
 
 </div>
 
-<div class="post" data-post-id="24832" data-author="Mosaix" data-date="2008-06-10T11:39:50+00:00">
+<div class="post" data-post-id="24832" data-author="Mosaix" data-date="2008-06-10T11:39:50+00:00" data-subject="">
 
 Would need to update this list from John Cleese.  I would say we are well on our way to taking care of #9.
 
 </div>
 
-<div class="post" data-post-id="24833" data-author="Stryx" data-date="2008-06-10T11:52:11+00:00">
+<div class="post" data-post-id="24833" data-author="Stryx" data-date="2008-06-10T11:52:11+00:00" data-subject="">
 
 [quote:3hw4oju9]Would need to update this list from John Cleese. I would say we are well on our way to taking care of #9.[/quote:3hw4oju9]
 
@@ -286,19 +286,19 @@ Although now, petrol prices here are almost $10... with diesel costing more. :!:
 
 </div>
 
-<div class="post" data-post-id="24838" data-author="13" data-date="2008-06-10T15:48:35+00:00">
+<div class="post" data-post-id="24838" data-author="13" data-date="2008-06-10T15:48:35+00:00" data-subject="">
 
 thats hilarious
 
 </div>
 
-<div class="post" data-post-id="24840" data-author="Yasik2" data-date="2008-06-10T16:19:46+00:00">
+<div class="post" data-post-id="24840" data-author="Yasik2" data-date="2008-06-10T16:19:46+00:00" data-subject="">
 
 wtf, i dont remember posting in this thread  :shock:
 
 </div>
 
-<div class="post" data-post-id="24868" data-author="PolkAdotS" data-date="2008-06-11T07:11:18+00:00">
+<div class="post" data-post-id="24868" data-author="PolkAdotS" data-date="2008-06-11T07:11:18+00:00" data-subject="">
 
 I'll be back from the toilet when I realize how much metric vomitous mass I released after having seen Juggleblood's birthday wishes.  Post a random @sshole's picture.
 

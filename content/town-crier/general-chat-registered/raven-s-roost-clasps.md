@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34246" data-author="Magi" data-date="2013-04-19T04:14:21+00:00">
+<div class="post" data-post-id="34246" data-author="Magi" data-date="2013-04-19T04:14:21+00:00" data-subject="Raven&#x27;s Roost clasps">
 
 > **Quote:**
 > 1. Regarding The Dragon Emblem and the Ruby Spider Brooch:
@@ -41,7 +41,7 @@ Was it intentional that the ruby spider brooch is a inferior copy of the Life an
 
 </div>
 
-<div class="post" data-post-id="34247" data-author="*Neptune*" data-date="2013-04-19T15:15:35+00:00">
+<div class="post" data-post-id="34247" data-author="*Neptune*" data-date="2013-04-19T15:15:35+00:00" data-subject="Re: Raven&#x27;s Roost clasps">
 
 Hey, thanks for your suggestions. We're always looking for ideas like this.
 
@@ -81,7 +81,7 @@ and identified yet, or both.
 
 </div>
 
-<div class="post" data-post-id="34248" data-author="Magi" data-date="2013-04-19T21:56:41+00:00">
+<div class="post" data-post-id="34248" data-author="Magi" data-date="2013-04-19T21:56:41+00:00" data-subject="Re: Raven&#x27;s Roost clasps">
 
 > ***Neptune* wrote:**
 > For example, what good would shield of stolen souls be if you could just apply UC to any shield?

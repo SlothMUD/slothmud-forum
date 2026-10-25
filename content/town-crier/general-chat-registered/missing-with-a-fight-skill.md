@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="8586" data-author="Nothing" data-date="2005-09-09T16:48:18+00:00">
+<div class="post" data-post-id="8586" data-author="Nothing" data-date="2005-09-09T16:48:18+00:00" data-subject="missing with a fight skill">
 
 You slash an ivory seagull extremely hard.
 
@@ -36,13 +36,13 @@ The question I have is, how do I manage to miss a kick at a bird lying incapacit
 
 </div>
 
-<div class="post" data-post-id="8588" data-author="Weasel" data-date="2005-09-09T17:28:55+00:00">
+<div class="post" data-post-id="8588" data-author="Weasel" data-date="2005-09-09T17:28:55+00:00" data-subject="">
 
 heh yup, it's funny doing the same thing with a flail on a morted mob - you even hit it with the flail and it still doesn't die, then a tick passes and the mob gets up and beats another 300+hp out of you before going down again. That happens quite often too btw.
 
 </div>
 
-<div class="post" data-post-id="8589" data-author="13" data-date="2005-09-10T01:23:16+00:00">
+<div class="post" data-post-id="8589" data-author="13" data-date="2005-09-10T01:23:16+00:00" data-subject="">
 
 kick isn't even worth using, sad.
 

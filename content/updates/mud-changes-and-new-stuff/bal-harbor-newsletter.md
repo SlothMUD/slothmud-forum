@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34182" data-author="*juggleblood*" data-date="2013-03-25T17:24:49+00:00">
+<div class="post" data-post-id="34182" data-author="*juggleblood*" data-date="2013-03-25T17:24:49+00:00" data-subject="Bal Harbor Newsletter">
 
 A few minor changes to report:
 
@@ -26,7 +26,7 @@ Several new autoquests added to BH quester.
 
 </div>
 
-<div class="post" data-post-id="34205" data-author="*juggleblood*" data-date="2013-04-01T02:27:22+00:00">
+<div class="post" data-post-id="34205" data-author="*juggleblood*" data-date="2013-04-01T02:27:22+00:00" data-subject="Re: Bal Harbor Newsletter">
 
 Added more autos to Regis, Bal Harbor quester:
 
@@ -68,7 +68,7 @@ Bugs auto has been moved to asylum cook.
 
 </div>
 
-<div class="post" data-post-id="34220" data-author="*juggleblood*" data-date="2013-04-06T21:05:32+00:00">
+<div class="post" data-post-id="34220" data-author="*juggleblood*" data-date="2013-04-06T21:05:32+00:00" data-subject="Re: Bal Harbor Newsletter">
 
 I finished up another Bal Harbor auto and activated it. It's at the quester, Regis. It involves Luna's temple.
 

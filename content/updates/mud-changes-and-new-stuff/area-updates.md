@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="38991" data-author="*Neptune*" data-date="2018-10-28T20:09:29+00:00">
+<div class="post" data-post-id="38991" data-author="*Neptune*" data-date="2018-10-28T20:09:29+00:00" data-subject="Area Updates">
 
 Greetings
 
@@ -52,13 +52,13 @@ Enjoy, and as always, thanks for playing!
 
 </div>
 
-<div class="post" data-post-id="38992" data-author="Driven" data-date="2018-10-30T03:00:41+00:00">
+<div class="post" data-post-id="38992" data-author="Driven" data-date="2018-10-30T03:00:41+00:00" data-subject="Re: Area Updates">
 
 I are proud to announce that an update to Crystal Falls is live.  Special thanks to Gandalf and Neptune for their help!  Enjoy!
 
 </div>
 
-<div class="post" data-post-id="38994" data-author="*Neptune*" data-date="2018-11-05T01:07:45+00:00">
+<div class="post" data-post-id="38994" data-author="*Neptune*" data-date="2018-11-05T01:07:45+00:00" data-subject="Re: Area Updates">
 
 Greetings
 
@@ -80,7 +80,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="39026" data-author="Driven" data-date="2018-12-06T02:10:16+00:00">
+<div class="post" data-post-id="39026" data-author="Driven" data-date="2018-12-06T02:10:16+00:00" data-subject="Re: Area Updates">
 
 Preva would like to announce that after many years of research, he has determined how to forge a brand new type of item for Jord--an artifact.  Artifacts will be a new class of objects that require significant work to unlock their full potential, but hope to provide fun and flavor to Slothmud.  Upon completion of forging an artifact, it is important that the privileged mortal execute the following two commands to familiarize themselves with their new treasure:
 
@@ -92,13 +92,13 @@ Enjoy!!
 
 </div>
 
-<div class="post" data-post-id="39027" data-author="Driven" data-date="2018-12-09T15:28:18+00:00">
+<div class="post" data-post-id="39027" data-author="Driven" data-date="2018-12-09T15:28:18+00:00" data-subject="Re: Area Updates">
 
 FYI, the xp system and timers need an update on the artifact. I have discussed with Breeze and will fix either tonight or tomorrow.  Congrats to Josiah on forging Sloth's first artifact!
 
 </div>
 
-<div class="post" data-post-id="39028" data-author="*Neptune*" data-date="2018-12-10T02:42:45+00:00">
+<div class="post" data-post-id="39028" data-author="*Neptune*" data-date="2018-12-10T02:42:45+00:00" data-subject="Re: Area Updates">
 
 Greetings
 
@@ -128,7 +128,7 @@ Anyways, enjoy. And as always, if you find anything wonky, hit me up ingame.
 
 </div>
 
-<div class="post" data-post-id="39079" data-author="*Neptune*" data-date="2019-01-26T21:26:54+00:00">
+<div class="post" data-post-id="39079" data-author="*Neptune*" data-date="2019-01-26T21:26:54+00:00" data-subject="Re: Area Updates">
 
 Greetings once again!
 
@@ -154,7 +154,7 @@ More to come!
 
 </div>
 
-<div class="post" data-post-id="39153" data-author="*Neptune*" data-date="2019-04-07T16:48:07+00:00">
+<div class="post" data-post-id="39153" data-author="*Neptune*" data-date="2019-04-07T16:48:07+00:00" data-subject="Re: Area Updates">
 
 Greetings
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="689" data-author="Enea" data-date="2004-06-15T02:32:33+00:00">
+<div class="post" data-post-id="689" data-author="Enea" data-date="2004-06-15T02:32:33+00:00" data-subject="Druid seadragon form commands">
 
 We've changed the code behind 'blast solar' and 'blast arctic' to work better.
 

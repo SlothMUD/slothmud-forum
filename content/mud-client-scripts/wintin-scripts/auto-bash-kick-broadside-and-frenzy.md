@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10356" data-author="*juggleblood*" data-date="2006-01-27T11:27:21+00:00">
+<div class="post" data-post-id="10356" data-author="*juggleblood*" data-date="2006-01-27T11:27:21+00:00" data-subject="Auto bash kick broadside and frenzy">
 
 #defgroup {warrior skills}
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 64
 ---
 
-<div class="post" data-post-id="23447" data-author="Gandolf" data-date="2008-03-26T18:48:32+00:00">
+<div class="post" data-post-id="23447" data-author="Gandolf" data-date="2008-03-26T18:48:32+00:00" data-subject="Thief Trip40 Eq">
 
 Judging by my current stats 18 / 35 15 12 18 18 what two items would you take for trip40 if one already has scarab of destruction?
 
@@ -24,13 +24,13 @@ Anyone got any Ideas?
 
 </div>
 
-<div class="post" data-post-id="23448" data-author="Alberich" data-date="2008-03-26T18:51:27+00:00">
+<div class="post" data-post-id="23448" data-author="Alberich" data-date="2008-03-26T18:51:27+00:00" data-subject="">
 
 well, the crown is nice for the manaregen as much as for the str - it's one place we seriously hurt :)   The +2 hit belt is kinda nice i suppose, but there's another +hit belt that is just a regular pop, and +hit really doesn't seem to help a whole lot above +20 anyways.  I'd say get the spelldam leggings and wear opals instead of circles of energy, sell those circles and use the drach towards some spinning razors when you have the levels to wear 'em.
 
 </div>
 
-<div class="post" data-post-id="23449" data-author="Leaf" data-date="2008-03-26T19:04:55+00:00">
+<div class="post" data-post-id="23449" data-author="Leaf" data-date="2008-03-26T19:04:55+00:00" data-subject="">
 
 Go with the belt, crown, or rings.  Everyone needs mana the the rings are
 
@@ -42,13 +42,13 @@ Sell those circles to me!!!
 
 </div>
 
-<div class="post" data-post-id="23451" data-author="Yasik2" data-date="2008-03-26T19:25:26+00:00">
+<div class="post" data-post-id="23451" data-author="Yasik2" data-date="2008-03-26T19:25:26+00:00" data-subject="">
 
 Don't forget you have only 30 spelldam cap afair since Ma is 4th in classo.
 
 </div>
 
-<div class="post" data-post-id="23452" data-author="13" data-date="2008-03-26T19:56:38+00:00">
+<div class="post" data-post-id="23452" data-author="13" data-date="2008-03-26T19:56:38+00:00" data-subject="">
 
 rings are stupid
 
@@ -66,13 +66,13 @@ you can work with it barely but damn
 
 </div>
 
-<div class="post" data-post-id="23453" data-author="13" data-date="2008-03-26T19:58:08+00:00">
+<div class="post" data-post-id="23453" data-author="13" data-date="2008-03-26T19:58:08+00:00" data-subject="">
 
 mage quad maybe shroud instead of leggings I guess
 
 </div>
 
-<div class="post" data-post-id="23454" data-author="Leaf" data-date="2008-03-26T20:17:48+00:00">
+<div class="post" data-post-id="23454" data-author="Leaf" data-date="2008-03-26T20:17:48+00:00" data-subject="">
 
 Use shroud instead of body dam?
 
@@ -82,7 +82,7 @@ Since he doesn't "need" anything else why not go with some mana?
 
 </div>
 
-<div class="post" data-post-id="23457" data-author="13" data-date="2008-03-26T23:18:23+00:00">
+<div class="post" data-post-id="23457" data-author="13" data-date="2008-03-26T23:18:23+00:00" data-subject="">
 
 look will I dont have the inclination to go through all the gear
 
@@ -122,7 +122,7 @@ get with it
 
 </div>
 
-<div class="post" data-post-id="23460" data-author="Leaf" data-date="2008-03-27T00:42:20+00:00">
+<div class="post" data-post-id="23460" data-author="Leaf" data-date="2008-03-27T00:42:20+00:00" data-subject="">
 
 Well Aa, I'm glad ur so fired up!
 
@@ -150,7 +150,7 @@ plus.
 
 </div>
 
-<div class="post" data-post-id="23462" data-author="strider" data-date="2008-03-27T04:12:54+00:00">
+<div class="post" data-post-id="23462" data-author="strider" data-date="2008-03-27T04:12:54+00:00" data-subject="">
 
 the problem here is that there isn't any good 3x40 items for thieves!!!
 
@@ -162,7 +162,7 @@ one thing i will say about the rings is you don't wanna waste two slots where a 
 
 </div>
 
-<div class="post" data-post-id="23464" data-author="Thraxas" data-date="2008-03-27T08:28:49+00:00">
+<div class="post" data-post-id="23464" data-author="Thraxas" data-date="2008-03-27T08:28:49+00:00" data-subject="">
 
 hmm interesting thread especially with my stabber Copra pushing close to 2nd eq.
 
@@ -214,7 +214,7 @@ dam eq setup is:
 
 </div>
 
-<div class="post" data-post-id="23465" data-author="Weasel" data-date="2008-03-27T08:57:13+00:00">
+<div class="post" data-post-id="23465" data-author="Weasel" data-date="2008-03-27T08:57:13+00:00" data-subject="">
 
 the problem here is that there isn't any good 3x40 items for thieves!![/quote:39abvxch]
 
@@ -222,7 +222,7 @@ There's a sh*tload of good Thief eq in drachma shops, including a number of clas
 
 </div>
 
-<div class="post" data-post-id="23468" data-author="*juggleblood*" data-date="2008-03-27T13:22:57+00:00">
+<div class="post" data-post-id="23468" data-author="*juggleblood*" data-date="2008-03-27T13:22:57+00:00" data-subject="">
 
 the problem here is that there isn't any good 3x40 items for thieves!!!
 
@@ -236,13 +236,13 @@ I think you are seriously over estimating the benefit of +hit. AC is a much bett
 
 </div>
 
-<div class="post" data-post-id="23469" data-author="13" data-date="2008-03-27T13:27:18+00:00">
+<div class="post" data-post-id="23469" data-author="13" data-date="2008-03-27T13:27:18+00:00" data-subject="">
 
 Not for a Thief prime Jon.  Everyone else...yes.
 
 </div>
 
-<div class="post" data-post-id="23470" data-author="Leaf" data-date="2008-03-27T14:13:48+00:00">
+<div class="post" data-post-id="23470" data-author="Leaf" data-date="2008-03-27T14:13:48+00:00" data-subject="">
 
 For Copra, I would say either the belt for the +2hit, wis, and more ac.  Or
 
@@ -250,13 +250,13 @@ the leg clasp.
 
 </div>
 
-<div class="post" data-post-id="23471" data-author="Krok" data-date="2008-03-27T15:22:01+00:00">
+<div class="post" data-post-id="23471" data-author="Krok" data-date="2008-03-27T15:22:01+00:00" data-subject="">
 
 3x40 eq for thieves sucks if your stats are really good.
 
 </div>
 
-<div class="post" data-post-id="23472" data-author="strider" data-date="2008-03-27T15:45:56+00:00">
+<div class="post" data-post-id="23472" data-author="strider" data-date="2008-03-27T15:45:56+00:00" data-subject="">
 
 you are on crack weasel. there is a total of 1 must have item in weavers for thieves. that's the razors and that's about it. all the rest only adds tiny 
 
@@ -266,7 +266,7 @@ just buy your cap in stabdmg with tokens. the robe is a solid item to round out 
 
 </div>
 
-<div class="post" data-post-id="23477" data-author="jezer" data-date="2008-03-27T22:40:04+00:00">
+<div class="post" data-post-id="23477" data-author="jezer" data-date="2008-03-27T22:40:04+00:00" data-subject="">
 
 *With 20+ area's being made specifically for them.
 
@@ -284,13 +284,13 @@ That ought to do it.  :evil:
 
 </div>
 
-<div class="post" data-post-id="23478" data-author="Weasel" data-date="2008-03-27T23:12:00+00:00">
+<div class="post" data-post-id="23478" data-author="Weasel" data-date="2008-03-27T23:12:00+00:00" data-subject="">
 
 ^5  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23479" data-author="jezer" data-date="2008-03-27T23:21:24+00:00">
+<div class="post" data-post-id="23479" data-author="jezer" data-date="2008-03-27T23:21:24+00:00" data-subject="">
 
 I went to the eq list and filtered Worn EQ by class restriction... 
 
@@ -314,7 +314,7 @@ In all fairness, if eq was to be looked at... shouldn't new classo eq be looked 
 
 </div>
 
-<div class="post" data-post-id="23480" data-author="Leaf" data-date="2008-03-27T23:57:44+00:00">
+<div class="post" data-post-id="23480" data-author="Leaf" data-date="2008-03-27T23:57:44+00:00" data-subject="">
 
 I shall post just to piss off Aa.
 
@@ -322,7 +322,7 @@ Again monks are getting screwed!!!
 
 </div>
 
-<div class="post" data-post-id="23483" data-author="Medios" data-date="2008-03-28T12:59:31+00:00">
+<div class="post" data-post-id="23483" data-author="Medios" data-date="2008-03-28T12:59:31+00:00" data-subject="">
 
 *With 20+ area's being made specifically for them.
 
@@ -344,7 +344,7 @@ Maybe you need to look around before you bitch and moan.  I got 5 dollars dave c
 
 </div>
 
-<div class="post" data-post-id="23484" data-author="*juggleblood*" data-date="2008-03-28T13:36:13+00:00">
+<div class="post" data-post-id="23484" data-author="*juggleblood*" data-date="2008-03-28T13:36:13+00:00" data-subject="">
 
 I'm of the opinion that the balance between the classes is as good as it has EVER been. The price you pay for being a stabber is spending a lot of time in the dead position. Also keep in mind that excrutiating blow doesn't occur nearly as often in solo or small group stab. It's either tied somehow to group size, probably the number of people who joined the warcry.  You'd have a hard time convincing me that thief is owerpowered as a solo char.
 
@@ -356,7 +356,7 @@ think that druids lack some essential piece of gear, build an area and put the e
 
 </div>
 
-<div class="post" data-post-id="23485" data-author="Autolycos" data-date="2008-03-28T13:57:31+00:00">
+<div class="post" data-post-id="23485" data-author="Autolycos" data-date="2008-03-28T13:57:31+00:00" data-subject="">
 
 I'm of the opinion that the balance between the classes is as good as it has EVER been. The price you pay for being a stabber is spending a lot of time in the dead position. Also keep in mind that excrutiating blow doesn't occur nearly as often in solo or small group stab. It's either tied somehow to group size, probably the number of people who joined the warcry.  You'd have a hard time convincing me that thief is owerpowered as a solo char.[/quote:1ulmtc5n]
 
@@ -366,7 +366,7 @@ ps.  Dave (stryx) is plain nuts....
 
 </div>
 
-<div class="post" data-post-id="23486" data-author="jezer" data-date="2008-03-28T14:32:40+00:00">
+<div class="post" data-post-id="23486" data-author="jezer" data-date="2008-03-28T14:32:40+00:00" data-subject="">
 
 Maybe you need to look around before you bitch and moan.  I got 5 dollars dave can anything a thief can.  How many thieves are soloing Dracolich?  Medios won't dare.[/quote:5b4u7di7]
 
@@ -380,7 +380,7 @@ I'm out to cool off.
 
 </div>
 
-<div class="post" data-post-id="23491" data-author="Thraxas" data-date="2008-03-28T18:04:29+00:00">
+<div class="post" data-post-id="23491" data-author="Thraxas" data-date="2008-03-28T18:04:29+00:00" data-subject="">
 
 but I still say... thiefs stab better than clerics heal, mages blast, monks grip and bards sing.[/quote:2oryty38]
 
@@ -388,7 +388,7 @@ yeah they die better too especially solo
 
 </div>
 
-<div class="post" data-post-id="23493" data-author="*juggleblood*" data-date="2008-03-28T21:15:34+00:00">
+<div class="post" data-post-id="23493" data-author="*juggleblood*" data-date="2008-03-28T21:15:34+00:00" data-subject="">
 
 You've just decided I'm a whiner. [/quote:1cqyaa5l]
 
@@ -396,19 +396,19 @@ me too...
 
 </div>
 
-<div class="post" data-post-id="23495" data-author="brady" data-date="2008-03-28T21:25:15+00:00">
+<div class="post" data-post-id="23495" data-author="brady" data-date="2008-03-28T21:25:15+00:00" data-subject="">
 
 :twisted:
 
 </div>
 
-<div class="post" data-post-id="23496" data-author="Weasel" data-date="2008-03-28T21:26:12+00:00">
+<div class="post" data-post-id="23496" data-author="Weasel" data-date="2008-03-28T21:26:12+00:00" data-subject="">
 
 thucking fiefs
 
 </div>
 
-<div class="post" data-post-id="23497" data-author="Alberich" data-date="2008-03-29T04:35:16+00:00">
+<div class="post" data-post-id="23497" data-author="Alberich" data-date="2008-03-29T04:35:16+00:00" data-subject="">
 
 The price you pay for being a stabber is spending a lot of time in the dead position. 
 
@@ -422,13 +422,13 @@ You've just decided I'm a whiner. [/quote:2uiog82b]
 
 </div>
 
-<div class="post" data-post-id="23532" data-author="13" data-date="2008-04-01T19:21:35+00:00">
+<div class="post" data-post-id="23532" data-author="13" data-date="2008-04-01T19:21:35+00:00" data-subject="">
 
 thieves can only stab a mob once and mages can continue to stab it witbh their mind bullets
 
 </div>
 
-<div class="post" data-post-id="23533" data-author="Alberich" data-date="2008-04-01T19:22:56+00:00">
+<div class="post" data-post-id="23533" data-author="Alberich" data-date="2008-04-01T19:22:56+00:00" data-subject="">
 
 sometimes not even that..... 
 
@@ -442,7 +442,7 @@ A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger![
 
 </div>
 
-<div class="post" data-post-id="23534" data-author="Weasel" data-date="2008-04-01T22:00:36+00:00">
+<div class="post" data-post-id="23534" data-author="Weasel" data-date="2008-04-01T22:00:36+00:00" data-subject="">
 
 [quote:1g98iu1r]A ghoul cityguard hates your guts!
 
@@ -458,7 +458,7 @@ I must be doing it wrong...
 
 </div>
 
-<div class="post" data-post-id="23537" data-author="Tap" data-date="2008-04-02T01:10:45+00:00">
+<div class="post" data-post-id="23537" data-author="Tap" data-date="2008-04-02T01:10:45+00:00" data-subject="">
 
 What makes the best thief classo damage wise? I don't think warrior is necessary in the equation because you can always buy str or use eq to boost it up. And since you want max spelldam for followup blasting, I think thief/mage/?/? is correct. If I am wrong, please let me know... so perhaps monk needs to be in the for focus boost...but what of the 4th (or 3rd class pick if monk is 4th choice?) I could see necro for wraithform and wall of flesh,
 
@@ -466,7 +466,7 @@ maybe somehow bard for whatever bard might contribute. Not sure if fluidity is a
 
 </div>
 
-<div class="post" data-post-id="23538" data-author="jezer" data-date="2008-04-02T08:16:40+00:00">
+<div class="post" data-post-id="23538" data-author="jezer" data-date="2008-04-02T08:16:40+00:00" data-subject="">
 
 I think t/m/o/n is better than t/m/o/b because bard is half mage and thief anyway... the whole point of bard would be centered around the +dam songs... which you only have to resing after whiffing and having to finish blasting anyway.
 
@@ -476,13 +476,13 @@ Probably only alternative to necro would be cleric... because of sanct/restore/e
 
 </div>
 
-<div class="post" data-post-id="23539" data-author="*juggleblood*" data-date="2008-04-02T13:02:02+00:00">
+<div class="post" data-post-id="23539" data-author="*juggleblood*" data-date="2008-04-02T13:02:02+00:00" data-subject="">
 
 Necro seems the worst choice to pair with thief to me. Well, maybe tied with druid.
 
 </div>
 
-<div class="post" data-post-id="23540" data-author="Autolycos" data-date="2008-04-02T13:26:12+00:00">
+<div class="post" data-post-id="23540" data-author="Autolycos" data-date="2008-04-02T13:26:12+00:00" data-subject="">
 
 if we ever had the ability to add a specialty class..  
 
@@ -492,7 +492,7 @@ good stuff!
 
 </div>
 
-<div class="post" data-post-id="23541" data-author="alias" data-date="2008-04-02T14:21:29+00:00">
+<div class="post" data-post-id="23541" data-author="alias" data-date="2008-04-02T14:21:29+00:00" data-subject="">
 
 Being a part time necro I can tell you my experience is that wraith seems to be ac based and if your stabbing at -7 don't expect wraith to do anything for you. Of course it might be level based and I'm just to low to realize the potential it has but on common thief stab mobs I've tried -11 wraithed and -4 in full spelldam and I can tell you that the spelldam works better for me atm.
 
@@ -500,7 +500,7 @@ Pooka
 
 </div>
 
-<div class="post" data-post-id="23542" data-author="Leaf" data-date="2008-04-02T15:35:03+00:00">
+<div class="post" data-post-id="23542" data-author="Leaf" data-date="2008-04-02T15:35:03+00:00" data-subject="">
 
 I say go and live by the most damage or at least die trying ... Th/Ba/Ne/Mo
 
@@ -518,7 +518,7 @@ Monk for grips/strikes, focus, and presage if you miss a stab.
 
 </div>
 
-<div class="post" data-post-id="23543" data-author="strider" data-date="2008-04-02T19:19:48+00:00">
+<div class="post" data-post-id="23543" data-author="strider" data-date="2008-04-02T19:19:48+00:00" data-subject="">
 
 crazy people. unfortunately if you want a "solo" thief you have to have cleric. otherwise you won't survive a single run that you do. stab mobs hit hard enough w/out sanc most can/will kill you in a round. so put cleric quad and love lites and rabbits. for the middle lvls it's a toss up. if you want more regen/mana (which you generally won't need) put mage second. if you want more hps put monk second. your spelldmg cap doesn't really matter since you should we weighed down w/ dmg/+hit eq which doesn't leave much room for spelldmg.
 
@@ -528,7 +528,7 @@ if you want to make a "group" thief, nice to two man w/ etc. i'ld probly drop ma
 
 </div>
 
-<div class="post" data-post-id="23544" data-author="*juggleblood*" data-date="2008-04-02T20:40:36+00:00">
+<div class="post" data-post-id="23544" data-author="*juggleblood*" data-date="2008-04-02T20:40:36+00:00" data-subject="">
 
 Th/Ba/Ne/Mo[/quote:goc06f0h]
 
@@ -548,7 +548,7 @@ The only benefit I see to adding bard nemore are beacon of fortune and there and
 
 </div>
 
-<div class="post" data-post-id="23545" data-author="Autolycos" data-date="2008-04-02T21:46:44+00:00">
+<div class="post" data-post-id="23545" data-author="Autolycos" data-date="2008-04-02T21:46:44+00:00" data-subject="">
 
 crazy people. unfortunately if you want a "solo" thief you have to have cleric. .[/quote:2q8z78tz]
 
@@ -556,7 +556,7 @@ tru dat ;)
 
 </div>
 
-<div class="post" data-post-id="23546" data-author="jezer" data-date="2008-04-02T23:40:02+00:00">
+<div class="post" data-post-id="23546" data-author="jezer" data-date="2008-04-02T23:40:02+00:00" data-subject="">
 
 This is the thing about classo, when you choose your four, it feels like your always leaving one good class out... we need 5!  :twisted: 
 
@@ -572,7 +572,7 @@ PS Spectral is way overrated when you have low hp, high mr regen, and your not r
 
 </div>
 
-<div class="post" data-post-id="23547" data-author="strider" data-date="2008-04-03T01:30:24+00:00">
+<div class="post" data-post-id="23547" data-author="strider" data-date="2008-04-03T01:30:24+00:00" data-subject="">
 
 "say u can get an extra 50 dam extra per stab. Yawn."
 
@@ -582,7 +582,7 @@ i have paid 2200 drachma 30bil xp and 30mil gold to just add +39 to each stab. (
 
 </div>
 
-<div class="post" data-post-id="23550" data-author="jezer" data-date="2008-04-03T05:13:10+00:00">
+<div class="post" data-post-id="23550" data-author="jezer" data-date="2008-04-03T05:13:10+00:00" data-subject="">
 
 i have paid 2200 drachma 30bil xp and 30mil gold to just add +39 to each stab. [/quote:1229tvhi]
 
@@ -592,7 +592,7 @@ Strides is king!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23552" data-author="Yasik2" data-date="2008-04-03T06:41:14+00:00">
+<div class="post" data-post-id="23552" data-author="Yasik2" data-date="2008-04-03T06:41:14+00:00" data-subject="">
 
 Since you guise mentioned buying stuff at 5x40...
 
@@ -600,7 +600,7 @@ Can we please have Akasha or who's in charge update info about what we can buy i
 
 </div>
 
-<div class="post" data-post-id="23554" data-author="Autolycos" data-date="2008-04-03T10:41:11+00:00">
+<div class="post" data-post-id="23554" data-author="Autolycos" data-date="2008-04-03T10:41:11+00:00" data-subject="">
 
 any dmg is good dmg!![/quote:1xqwdncp]
 
@@ -610,7 +610,7 @@ i'm right behind ya sparky  8)
 
 </div>
 
-<div class="post" data-post-id="23555" data-author="Medios" data-date="2008-04-03T13:19:28+00:00">
+<div class="post" data-post-id="23555" data-author="Medios" data-date="2008-04-03T13:19:28+00:00" data-subject="">
 
 Can I just say that Gods of War costs mana to sing and that focus is free.
 
@@ -618,7 +618,7 @@ I still think the Cocaine/Lox style of thief is the strongest.  Good blasting, c
 
 </div>
 
-<div class="post" data-post-id="23562" data-author="Leaf" data-date="2008-04-03T17:39:14+00:00">
+<div class="post" data-post-id="23562" data-author="Leaf" data-date="2008-04-03T17:39:14+00:00" data-subject="">
 
 Has anyone tested the exact amount of additional damage from stab to
 
@@ -630,13 +630,13 @@ if you keep singing it adds +7dam to each attack.
 
 </div>
 
-<div class="post" data-post-id="23565" data-author="Weasel" data-date="2008-04-03T19:02:37+00:00">
+<div class="post" data-post-id="23565" data-author="Weasel" data-date="2008-04-03T19:02:37+00:00" data-subject="">
 
 frenzy and berserk now add damage to backstab, deathgrip, deathtouch, wraithtouch, strike and circlestab - frenzy at ~50% of what its regular damage bonus is, and berserk roughly twice that (berserk still has 2ac penalty though).. worth keeping in mind for Thief primes when considering classo. Also increased hp for tert or quad Warrior (particularly quad). Duration of frenzy increased at higher levels too.
 
 </div>
 
-<div class="post" data-post-id="23566" data-author="Leaf" data-date="2008-04-03T19:12:28+00:00">
+<div class="post" data-post-id="23566" data-author="Leaf" data-date="2008-04-03T19:12:28+00:00" data-subject="">
 
 I know thiefs with warriors can use frenzy/bersek.  But I never really notice
 
@@ -646,7 +646,7 @@ a mob that I could have splork without bersek.
 
 </div>
 
-<div class="post" data-post-id="23567" data-author="Weasel" data-date="2008-04-03T19:17:02+00:00">
+<div class="post" data-post-id="23567" data-author="Weasel" data-date="2008-04-03T19:17:02+00:00" data-subject="">
 
 I know thiefs with warriors can use frenzy/bersek.  But I never really notice that much of a stab.[/quote:2gmloajq]
 
@@ -658,7 +658,7 @@ Hope berserk doesn't override added stabdam or something..
 
 </div>
 
-<div class="post" data-post-id="23568" data-author="Leaf" data-date="2008-04-03T19:22:52+00:00">
+<div class="post" data-post-id="23568" data-author="Leaf" data-date="2008-04-03T19:22:52+00:00" data-subject="">
 
 Naw my thief runs at like -10 +23dam +15stab.  I don't have stab max,
 
@@ -672,13 +672,13 @@ a few weeks ago.
 
 </div>
 
-<div class="post" data-post-id="23569" data-author="Weasel" data-date="2008-04-03T19:28:45+00:00">
+<div class="post" data-post-id="23569" data-author="Weasel" data-date="2008-04-03T19:28:45+00:00" data-subject="">
 
 addon: apparently frenzy / berserk don't add as much damage as focus, but they will stack, so that's nice.
 
 </div>
 
-<div class="post" data-post-id="23570" data-author="Leaf" data-date="2008-04-03T19:43:59+00:00">
+<div class="post" data-post-id="23570" data-author="Leaf" data-date="2008-04-03T19:43:59+00:00" data-subject="">
 
 Well i guess frenzy/bersek "could" be better in the sense of focus time.
 
@@ -696,7 +696,7 @@ that class order of course :)
 
 </div>
 
-<div class="post" data-post-id="23571" data-author="*juggleblood*" data-date="2008-04-03T20:39:34+00:00">
+<div class="post" data-post-id="23571" data-author="*juggleblood*" data-date="2008-04-03T20:39:34+00:00" data-subject="">
 
 "
 
@@ -708,7 +708,7 @@ I hear people are actually buying moon aura too, cracks me up.
 
 </div>
 
-<div class="post" data-post-id="23577" data-author="strider" data-date="2008-04-04T00:08:08+00:00">
+<div class="post" data-post-id="23577" data-author="strider" data-date="2008-04-04T00:08:08+00:00" data-subject="">
 
 well juggle with a complete lack of any other real options i gotta spend it on something. no point in having a few vaults filled with tokens!! 
 
@@ -716,7 +716,7 @@ with the new warrior changes it's time for someone to step forward and make that
 
 </div>
 
-<div class="post" data-post-id="23578" data-author="jezer" data-date="2008-04-04T00:20:59+00:00">
+<div class="post" data-post-id="23578" data-author="jezer" data-date="2008-04-04T00:20:59+00:00" data-subject="">
 
 with the new warrior changes it's time for someone to step forward and make that th/mo/ba/wa!!! someone step up and give it a go![/quote:2yg4bzh7]
 
@@ -738,13 +738,13 @@ I nominate strides!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23579" data-author="13" data-date="2008-04-04T00:26:56+00:00">
+<div class="post" data-post-id="23579" data-author="13" data-date="2008-04-04T00:26:56+00:00" data-subject="">
 
 I'm perfectly happy with th/ma/cl/mo.  You will whiff, it's inevitable, and frostbolt makes shit go away when you do.  Cleric...well..the worst prime class yet the most necessary supporting class.  Monk for all the monk gravy, mostly focus.
 
 </div>
 
-<div class="post" data-post-id="23580" data-author="13" data-date="2008-04-04T00:29:01+00:00">
+<div class="post" data-post-id="23580" data-author="13" data-date="2008-04-04T00:29:01+00:00" data-subject="">
 
 Just saw the new change with warrior supporting class.  Medios will 
 
@@ -752,19 +752,19 @@ be stoked.
 
 </div>
 
-<div class="post" data-post-id="23581" data-author="strider" data-date="2008-04-04T02:20:32+00:00">
+<div class="post" data-post-id="23581" data-author="strider" data-date="2008-04-04T02:20:32+00:00" data-subject="">
 
 i'm sure medios will be! an xtra 70hps and more dmg are always nice to wake up to!
 
 </div>
 
-<div class="post" data-post-id="23582" data-author="Weasel" data-date="2008-04-04T02:36:06+00:00">
+<div class="post" data-post-id="23582" data-author="Weasel" data-date="2008-04-04T02:36:06+00:00" data-subject="">
 
 primes still need some luv...
 
 </div>
 
-<div class="post" data-post-id="23584" data-author="jezer" data-date="2008-04-04T03:24:51+00:00">
+<div class="post" data-post-id="23584" data-author="jezer" data-date="2008-04-04T03:24:51+00:00" data-subject="">
 
 primes still need some luv...[/quote:3kmp4jpv]
 
@@ -774,7 +774,7 @@ Here you go... now where were we?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23586" data-author="Weasel" data-date="2008-04-04T05:38:02+00:00">
+<div class="post" data-post-id="23586" data-author="Weasel" data-date="2008-04-04T05:38:02+00:00" data-subject="">
 
 :shock:     :cry:
 

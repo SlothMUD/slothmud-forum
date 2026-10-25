@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39990" data-author="cnl" data-date="2022-12-17T23:03:45+00:00">
+<div class="post" data-post-id="39990" data-author="cnl" data-date="2022-12-17T23:03:45+00:00" data-subject="Monk Artifact">
 
 Dark Valk monk belt is an artifact. Dingo and Bel have completed - perhaps can update with food?
 
@@ -72,7 +72,7 @@ From Dingo: [https://pastebin.com/T94TcM5f](https://pastebin.com/T94TcM5f)
 
 </div>
 
-<div class="post" data-post-id="39992" data-author="Dingo" data-date="2022-12-21T01:14:11+00:00">
+<div class="post" data-post-id="39992" data-author="Dingo" data-date="2022-12-21T01:14:11+00:00" data-subject="Re: Monk Artifact">
 
 Here are the offerings for the first few levels
 
@@ -92,7 +92,7 @@ Dingo/Belrath
 
 </div>
 
-<div class="post" data-post-id="39997" data-author="Dingo" data-date="2023-01-09T12:55:50+00:00">
+<div class="post" data-post-id="39997" data-author="Dingo" data-date="2023-01-09T12:55:50+00:00" data-subject="Re: Monk Artifact">
 
 Ok, Belrath and I have completed the Monk artifact
 

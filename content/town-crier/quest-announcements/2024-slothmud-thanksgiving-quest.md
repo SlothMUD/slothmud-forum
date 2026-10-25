@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40135" data-author="*Idjit*" data-date="2024-11-24T18:33:36+00:00">
+<div class="post" data-post-id="40135" data-author="*Idjit*" data-date="2024-11-24T18:33:36+00:00" data-subject="2024 SlothMUD Thanksgiving Quest">
 
 Hello one and all,
 

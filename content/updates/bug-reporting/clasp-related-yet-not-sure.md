@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="7289" data-author="Taki" data-date="2005-06-17T06:48:51+00:00">
+<div class="post" data-post-id="7289" data-author="Taki" data-date="2005-06-17T06:48:51+00:00" data-subject="clasp related - yet not sure...">
 
 Yesterday i found a cluster of oak leaves. 
 
@@ -36,7 +36,7 @@ T.
 
 </div>
 
-<div class="post" data-post-id="7317" data-author="Taki" data-date="2005-06-17T18:08:17+00:00">
+<div class="post" data-post-id="7317" data-author="Taki" data-date="2005-06-17T18:08:17+00:00" data-subject="">
 
 A big thank to Akasha for fixing that so soon!
 

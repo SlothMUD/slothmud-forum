@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="11192" data-author="jezer" data-date="2006-03-13T09:30:11+00:00">
+<div class="post" data-post-id="11192" data-author="jezer" data-date="2006-03-13T09:30:11+00:00" data-subject="Sloth Down">
 
 Its down for me, and website and internet are up so...
 
@@ -18,13 +18,13 @@ Also Dynamic World Map doesn't seem to be showing changes of movements so I'm gu
 
 </div>
 
-<div class="post" data-post-id="11193" data-author="Elsie" data-date="2006-03-13T09:34:09+00:00">
+<div class="post" data-post-id="11193" data-author="Elsie" data-date="2006-03-13T09:34:09+00:00" data-subject="">
 
 Down for me too for last 45 mins
 
 </div>
 
-<div class="post" data-post-id="11196" data-author="jezer" data-date="2006-03-13T10:01:11+00:00">
+<div class="post" data-post-id="11196" data-author="jezer" data-date="2006-03-13T10:01:11+00:00" data-subject="">
 
 Bored... reading website....  :| 
 
@@ -34,7 +34,7 @@ Question... How many of those 12,200 characters are not Brad's?
 
 </div>
 
-<div class="post" data-post-id="11206" data-author="Autolycos" data-date="2006-03-13T13:39:25+00:00">
+<div class="post" data-post-id="11206" data-author="Autolycos" data-date="2006-03-13T13:39:25+00:00" data-subject="">
 
 Question... How many of those 12,200 characters are not Brad's?[/quote:5d0j5pir]
 
@@ -44,19 +44,19 @@ if i recall correctly,  10,000 of the chars can be broken down between Brad, Wil
 
 </div>
 
-<div class="post" data-post-id="11207" data-author="12345" data-date="2006-03-13T13:47:34+00:00">
+<div class="post" data-post-id="11207" data-author="12345" data-date="2006-03-13T13:47:34+00:00" data-subject="">
 
 A fair number of them are drachma miners as well.
 
 </div>
 
-<div class="post" data-post-id="11209" data-author="Phillip" data-date="2006-03-13T14:59:15+00:00">
+<div class="post" data-post-id="11209" data-author="Phillip" data-date="2006-03-13T14:59:15+00:00" data-subject="">
 
 lolllll i thought i got banned or something.. i was like, what?? lol what did i do wrong? yeah its still down for me, its 9:59 here
 
 </div>
 
-<div class="post" data-post-id="11210" data-author="kjartan" data-date="2006-03-13T15:09:51+00:00">
+<div class="post" data-post-id="11210" data-author="kjartan" data-date="2006-03-13T15:09:51+00:00" data-subject="">
 
 It's back up
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="1416" data-author="Dragoth" data-date="2004-08-13T17:03:25+00:00">
+<div class="post" data-post-id="1416" data-author="Dragoth" data-date="2004-08-13T17:03:25+00:00" data-subject="small pebble 1.5 mil min">
 
 3 mil buyout
 
@@ -40,13 +40,13 @@ necromancers may use this item.
 
 </div>
 
-<div class="post" data-post-id="1420" data-author="Weasel" data-date="2004-08-13T23:44:57+00:00">
+<div class="post" data-post-id="1420" data-author="Weasel" data-date="2004-08-13T23:44:57+00:00" data-subject="">
 
 1.5mil
 
 </div>
 
-<div class="post" data-post-id="1448" data-author="Dragoth" data-date="2004-08-16T17:09:29+00:00">
+<div class="post" data-post-id="1448" data-author="Dragoth" data-date="2004-08-16T17:09:29+00:00" data-subject="">
 
 sold to weasel
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38391" data-author="*teker*" data-date="2017-08-10T02:03:58+00:00">
+<div class="post" data-post-id="38391" data-author="*teker*" data-date="2017-08-10T02:03:58+00:00" data-subject="Changelog 2017-08-08">
 
 I forgot to post yesterday but the reboot brought us some bugfixes (discussed in other posts) and a new command.
 

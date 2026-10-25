@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32849" data-author="*Splork*" data-date="2011-09-01T07:45:22+00:00">
+<div class="post" data-post-id="32849" data-author="*Splork*" data-date="2011-09-01T07:45:22+00:00" data-subject="New changes, additions, and new stuff">
 
 1) Avatar light is finished
 

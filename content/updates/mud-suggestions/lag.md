@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="7865" data-author="Taki" data-date="2005-07-13T08:34:03+00:00">
+<div class="post" data-post-id="7865" data-author="Taki" data-date="2005-07-13T08:34:03+00:00" data-subject="LAG">
 
 Probably not saying anything new, but I thought to post it here, since shouts in game don't do much more than annoying other players :)
 
@@ -26,19 +26,19 @@ Hope the Lag will soon be erased, since that is a monster that can ruin a game, 
 
 </div>
 
-<div class="post" data-post-id="7872" data-author="Weasel" data-date="2005-07-13T14:26:12+00:00">
+<div class="post" data-post-id="7872" data-author="Weasel" data-date="2005-07-13T14:26:12+00:00" data-subject="">
 
 There is an intentional lag every time you order a follower to do something, if that's what you're referring to.
 
 </div>
 
-<div class="post" data-post-id="7874" data-author="Avatar" data-date="2005-07-13T15:33:16+00:00">
+<div class="post" data-post-id="7874" data-author="Avatar" data-date="2005-07-13T15:33:16+00:00" data-subject="Lagged commands">
 
 There's nothing like simulating extremely bad lag to make mudding enjoyable!
 
 </div>
 
-<div class="post" data-post-id="7885" data-author="Taki" data-date="2005-07-14T10:36:14+00:00">
+<div class="post" data-post-id="7885" data-author="Taki" data-date="2005-07-14T10:36:14+00:00" data-subject="">
 
 I can understand, and accept, to sacrifice one round in combat to order followers do something, and that should result in something like this:
 

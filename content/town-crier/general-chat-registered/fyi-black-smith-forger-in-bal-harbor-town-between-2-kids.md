@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32951" data-author="*Breeze*" data-date="2011-10-18T11:19:35+00:00">
+<div class="post" data-post-id="32951" data-author="*Breeze*" data-date="2011-10-18T11:19:35+00:00" data-subject="FYI: Black smith forger in Bal Harbor town between 2 kids">
 
 Kron posted about this and i mean to reply but instead deleted. sorry :S
 

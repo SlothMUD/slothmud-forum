@@ -10,7 +10,7 @@ locked: false
 post_count: 30
 ---
 
-<div class="post" data-post-id="35821" data-author="Hung" data-date="2015-04-17T00:02:33+00:00">
+<div class="post" data-post-id="35821" data-author="Hung" data-date="2015-04-17T00:02:33+00:00" data-subject="Go Open-Source?">
 
 First of all, I clearly understand that everything proposed is simply never going to happen. Therefore I propose it not in hope of being done, but to discuss it. I am going to publish my thoughts in two major parts: in first I am going to defend the idea of going open-source, in second - propose a development methodology which doesnt require a code contributor to be trusted in order to accept contributions from him.
 
@@ -32,7 +32,7 @@ Secondly Open-Source SlothMUD will make possible competely different methodology
 
 </div>
 
-<div class="post" data-post-id="35822" data-author="Hung" data-date="2015-04-17T01:29:21+00:00">
+<div class="post" data-post-id="35822" data-author="Hung" data-date="2015-04-17T01:29:21+00:00" data-subject="Re: Go Open-Source?">
 
 Part II: Code Contribution Methodology
 
@@ -64,7 +64,7 @@ If testing succeeds then the binaries from the test shards are copied to product
 
 </div>
 
-<div class="post" data-post-id="35823" data-author="Teron" data-date="2015-04-17T07:56:37+00:00">
+<div class="post" data-post-id="35823" data-author="Teron" data-date="2015-04-17T07:56:37+00:00" data-subject="Re: Go Open-Source?">
 
 1. I believe the reason why imms keep everything a secret is that they want us to learn things on our own. At least that's what I heard way before the code was shared by Tower.
 
@@ -100,7 +100,7 @@ Honestly, if we are comparing the idea that players should test stuff themselves
 
 </div>
 
-<div class="post" data-post-id="35825" data-author="*juggleblood*" data-date="2015-04-17T10:45:50+00:00">
+<div class="post" data-post-id="35825" data-author="*juggleblood*" data-date="2015-04-17T10:45:50+00:00" data-subject="Re: Go Open-Source?">
 
 If there are any talented coders who want to join the development team they are free to do so. They have to show some commitment to the game, vision,  and the ability to carry out the intended reforms. This is the way things get done. 
 
@@ -110,7 +110,7 @@ I think going open code would be like running a restaurant where the patrons hav
 
 </div>
 
-<div class="post" data-post-id="35826" data-author="*Splork*" data-date="2015-04-17T12:07:07+00:00">
+<div class="post" data-post-id="35826" data-author="*Splork*" data-date="2015-04-17T12:07:07+00:00" data-subject="Re: Go Open-Source?">
 
 This was actually discussed a bit the other day, right after he corpsed and got looted and I expressed my views then but will share them again.
 
@@ -132,7 +132,7 @@ Either way, feel free to contact any of us if you have a desire to contribute. A
 
 </div>
 
-<div class="post" data-post-id="35827" data-author="Hung" data-date="2015-04-17T15:30:19+00:00">
+<div class="post" data-post-id="35827" data-author="Hung" data-date="2015-04-17T15:30:19+00:00" data-subject="Re: Go Open-Source?">
 
 I apologize for the word 'archaic'. I agree that things are changing constantly(i.e. requirements to immortality). However the base principes stay unchanged. It came from tradition that is quite same for MUDs.
 
@@ -142,7 +142,7 @@ As for immorting. I feel it's quite wrong to immort mainly to find out how final
 
 </div>
 
-<div class="post" data-post-id="35832" data-author="*teker*" data-date="2015-04-17T22:36:45+00:00">
+<div class="post" data-post-id="35832" data-author="*teker*" data-date="2015-04-17T22:36:45+00:00" data-subject="Re: Go Open-Source?">
 
 I can't figure out if the motivation is:
 
@@ -164,7 +164,7 @@ In my short experience "working" here, I can tell you that there's been no short
 
 </div>
 
-<div class="post" data-post-id="35838" data-author="Teron" data-date="2015-04-20T11:09:27+00:00">
+<div class="post" data-post-id="35838" data-author="Teron" data-date="2015-04-20T11:09:27+00:00" data-subject="Re: Go Open-Source?">
 
 1. Splork, I believe you should be familiar with how Git works. Programmers don't contribute the code directly to the live server, they show it to you and you make the decision, whether to merge it with the live server or not.
 
@@ -182,7 +182,7 @@ I can take a reason that there are other priorities or that my suggestion needs 
 
 </div>
 
-<div class="post" data-post-id="35840" data-author="*Splork*" data-date="2015-04-20T13:28:33+00:00">
+<div class="post" data-post-id="35840" data-author="*Splork*" data-date="2015-04-20T13:28:33+00:00" data-subject="Re: Go Open-Source?">
 
 I am quite familiar with how GIT and other repositories work. 
 
@@ -196,7 +196,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="35841" data-author="Teron" data-date="2015-04-21T07:22:45+00:00">
+<div class="post" data-post-id="35841" data-author="Teron" data-date="2015-04-21T07:22:45+00:00" data-subject="Re: Go Open-Source?">
 
 Teker, just to give you real, current examples:
 
@@ -218,7 +218,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="35843" data-author="*teker*" data-date="2015-04-21T14:50:46+00:00">
+<div class="post" data-post-id="35843" data-author="*teker*" data-date="2015-04-21T14:50:46+00:00" data-subject="Re: Go Open-Source?">
 
 > **Quote:**
 > 4. Teker, on a number of my suggestions Juggleblood told me that anything that isn't coding can be changed quickly. Anything that's related to coding is a no go, because the developers are busy.
@@ -242,7 +242,7 @@ Yes, I think there should be some documentation to aid you in your questions.  I
 
 </div>
 
-<div class="post" data-post-id="35845" data-author="Filk" data-date="2015-04-21T17:46:26+00:00">
+<div class="post" data-post-id="35845" data-author="Filk" data-date="2015-04-21T17:46:26+00:00" data-subject="Re: Go Open-Source?">
 
 > ***teker* wrote:**
 > But I'm open to working on new features or fixing old things that don't work right.
@@ -255,13 +255,13 @@ Also, would be lovely to see all forms damage rolls somewhere. Since now its unb
 
 </div>
 
-<div class="post" data-post-id="35846" data-author="Dragoth" data-date="2015-04-21T19:42:54+00:00">
+<div class="post" data-post-id="35846" data-author="Dragoth" data-date="2015-04-21T19:42:54+00:00" data-subject="Re: Go Open-Source?">
 
 Could you also please take away the code that adds a timer on aerial servant recast for clerics after a deathgrip, Splork approves! Thanks!
 
 </div>
 
-<div class="post" data-post-id="35848" data-author="*teker*" data-date="2015-04-22T13:59:26+00:00">
+<div class="post" data-post-id="35848" data-author="*teker*" data-date="2015-04-22T13:59:26+00:00" data-subject="Re: Go Open-Source?">
 
 > **Quote:**
 > 1. Does max-dex matter or is it just dex that matters with regard to damage?
@@ -282,7 +282,7 @@ No.
 
 </div>
 
-<div class="post" data-post-id="35850" data-author="Teron" data-date="2015-04-24T09:42:18+00:00">
+<div class="post" data-post-id="35850" data-author="Teron" data-date="2015-04-24T09:42:18+00:00" data-subject="Re: Go Open-Source?">
 
 Teker, thanks for replying.
 
@@ -302,7 +302,7 @@ What might work is opening the code for (individual?) players, who wish to resea
 
 </div>
 
-<div class="post" data-post-id="35851" data-author="*Splork*" data-date="2015-04-24T10:58:02+00:00">
+<div class="post" data-post-id="35851" data-author="*Splork*" data-date="2015-04-24T10:58:02+00:00" data-subject="Re: Go Open-Source?">
 
 Taron, 
 
@@ -320,7 +320,7 @@ Our game is extremely well documented and we spent a great deal of time recently
 
 </div>
 
-<div class="post" data-post-id="35852" data-author="Hung" data-date="2015-04-24T11:09:07+00:00">
+<div class="post" data-post-id="35852" data-author="Hung" data-date="2015-04-24T11:09:07+00:00" data-subject="Re: Go Open-Source?">
 
 Also I would like the administration to review idea of rewarding with drachma/gems code and documentation contributors.
 
@@ -334,7 +334,7 @@ Also map contributors get payment for their work. Why code/documentation contrib
 
 </div>
 
-<div class="post" data-post-id="35853" data-author="Marvel" data-date="2015-04-24T11:23:34+00:00">
+<div class="post" data-post-id="35853" data-author="Marvel" data-date="2015-04-24T11:23:34+00:00" data-subject="Re: Go Open-Source?">
 
 Work as an imm doesn't reward your mortals.
 
@@ -344,7 +344,7 @@ Immortal work is done because that person loves the game and wants to create thi
 
 </div>
 
-<div class="post" data-post-id="35854" data-author="Hung" data-date="2015-04-24T11:41:07+00:00">
+<div class="post" data-post-id="35854" data-author="Hung" data-date="2015-04-24T11:41:07+00:00" data-subject="Re: Go Open-Source?">
 
 If you want documentation to have acceptable quality, you have to be an imm and have access to the source code.
 
@@ -377,7 +377,7 @@ And I dont mind at all if Splork and Breeze buy all drachma items for their mort
 
 </div>
 
-<div class="post" data-post-id="35855" data-author="*Splork*" data-date="2015-04-24T11:46:43+00:00">
+<div class="post" data-post-id="35855" data-author="*Splork*" data-date="2015-04-24T11:46:43+00:00" data-subject="Re: Go Open-Source?">
 
 We used to have a "Stars" program for our Immortals and we have debated adding that back in. The basic idea is that different contributions were rewarded different amounts of 'stars'. These stars were normally used for restring tokens, if I remember right.
 
@@ -436,7 +436,7 @@ We reward players all the time for different contributions. This can range from 
 
 </div>
 
-<div class="post" data-post-id="35856" data-author="*Splork*" data-date="2015-04-24T11:57:43+00:00">
+<div class="post" data-post-id="35856" data-author="*Splork*" data-date="2015-04-24T11:57:43+00:00" data-subject="Re: Go Open-Source?">
 
 As for the damage reduction helpfile, it gave exactly the amount of information we wanted to at the time. I redid quite a few helpfiles the other night such as weapon damage, spell bonus, etc, and was about to do damage reduction but decided against it because there is a great possibility we are going to take another look at that affect. It needs to be better than it currently is but its going to take a discussion between Immortals to get it right. When we have an agreement and its coded, I will post a more thorough helpfile. That does not mean it will give exact numbers, it may or may not.
 
@@ -448,7 +448,7 @@ As you said, you won't help unless you are rewarded. Well, we aren't rewarded an
 
 </div>
 
-<div class="post" data-post-id="35857" data-author="Hung" data-date="2015-04-24T13:02:45+00:00">
+<div class="post" data-post-id="35857" data-author="Hung" data-date="2015-04-24T13:02:45+00:00" data-subject="Re: Go Open-Source?">
 
 Btw, how many innate damage reduction one is getting depending on monk's position in classo? I've never found answer on this one also.
 
@@ -468,7 +468,7 @@ Motivations are different but result is same. Everyone benefits.
 
 </div>
 
-<div class="post" data-post-id="35858" data-author="*Splork*" data-date="2015-04-24T13:33:05+00:00">
+<div class="post" data-post-id="35858" data-author="*Splork*" data-date="2015-04-24T13:33:05+00:00" data-subject="Re: Go Open-Source?">
 
 I will agree with you, we do not meet your criteria in terms of acceptable documentation and neither does any other game of our kind that I am aware of. Actually, most games would not. 
 
@@ -480,7 +480,7 @@ Either way, the game will carry on with those whom want to play and those whom w
 
 </div>
 
-<div class="post" data-post-id="35860" data-author="Hung" data-date="2015-04-24T14:17:07+00:00">
+<div class="post" data-post-id="35860" data-author="Hung" data-date="2015-04-24T14:17:07+00:00" data-subject="Re: Go Open-Source?">
 
 I dont think that is fault of the administration. It's rather fault of the system contributions are made. And the admin isn't the one who developed it.
 
@@ -492,7 +492,7 @@ And, yes, the situation is quite common in the world of MUDs. But it doesnt mean
 
 </div>
 
-<div class="post" data-post-id="35869" data-author="*Splork*" data-date="2015-04-29T01:52:07+00:00">
+<div class="post" data-post-id="35869" data-author="*Splork*" data-date="2015-04-29T01:52:07+00:00" data-subject="Re: Go Open-Source?">
 
 Feel free to enjoy Hung's thread on TMC...
 
@@ -502,7 +502,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35870" data-author="Hung" data-date="2015-04-29T07:29:31+00:00">
+<div class="post" data-post-id="35870" data-author="Hung" data-date="2015-04-29T07:29:31+00:00" data-subject="Re: Go Open-Source?">
 
 Yes, that topic is quite interesting for me. Therefore I've decided to discuss it with MUD owners to find out their reasons.
 
@@ -514,7 +514,7 @@ Meanwhile, I've found several commercial(!) MMORPGS that have their engines open
 
 </div>
 
-<div class="post" data-post-id="35871" data-author="*Splork*" data-date="2015-04-29T11:10:57+00:00">
+<div class="post" data-post-id="35871" data-author="*Splork*" data-date="2015-04-29T11:10:57+00:00" data-subject="Re: Go Open-Source?">
 
 I am sure there are examples of open-sourced projects for most all types of games available today. 
 
@@ -528,13 +528,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35872" data-author="*Breeze*" data-date="2015-04-30T07:07:54+00:00">
+<div class="post" data-post-id="35872" data-author="*Breeze*" data-date="2015-04-30T07:07:54+00:00" data-subject="Re: Go Open-Source?">
 
 We can't go open source.... Then the players would see the comment in the code that shows command lag was 'borrowed' from my mud before I was an immortal here. I don't need the players to hate me more than they already do!
 
 </div>
 
-<div class="post" data-post-id="35875" data-author="Magi" data-date="2015-04-30T15:01:39+00:00">
+<div class="post" data-post-id="35875" data-author="Magi" data-date="2015-04-30T15:01:39+00:00" data-subject="Re: Go Open-Source?">
 
 So... much... hate...!
 
@@ -542,7 +542,7 @@ Wait, I'm a warrior, nevermind.
 
 </div>
 
-<div class="post" data-post-id="35884" data-author="Yasik" data-date="2015-05-01T19:07:30+00:00">
+<div class="post" data-post-id="35884" data-author="Yasik" data-date="2015-05-01T19:07:30+00:00" data-subject="Re: Go Open-Source?">
 
 Did not read the whole post, just subject. My opinion: NO!
 

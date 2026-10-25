@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="35533" data-author="Filk" data-date="2014-12-01T06:46:02+00:00">
+<div class="post" data-post-id="35533" data-author="Filk" data-date="2014-12-01T06:46:02+00:00" data-subject="Probably bug with avatar&#x27;s levels limit">
 
 Situation:
 
@@ -32,7 +32,7 @@ Or explain current logic of that limit, so i will know, what i missing.
 
 </div>
 
-<div class="post" data-post-id="35534" data-author="*Breeze*" data-date="2014-12-01T07:19:10+00:00">
+<div class="post" data-post-id="35534" data-author="*Breeze*" data-date="2014-12-01T07:19:10+00:00" data-subject="Re: Probably bug with avatar&#x27;s levels limit">
 
 Why would we count avatar levels as part of avatar level leveling restriction.
 
@@ -40,13 +40,13 @@ Only classes 5-8 count
 
 </div>
 
-<div class="post" data-post-id="35538" data-author="Filk" data-date="2014-12-01T07:41:21+00:00">
+<div class="post" data-post-id="35538" data-author="Filk" data-date="2014-12-01T07:41:21+00:00" data-subject="Re: Probably bug with avatar&#x27;s levels limit">
 
 Because if not count avatar levels, then how you can get av level beyound 32? Which is 4x40 8 levels each.
 
 </div>
 
-<div class="post" data-post-id="35539" data-author="*Breeze*" data-date="2014-12-01T08:56:10+00:00">
+<div class="post" data-post-id="35539" data-author="*Breeze*" data-date="2014-12-01T08:56:10+00:00" data-subject="Re: Probably bug with avatar&#x27;s levels limit">
 
 avatar level logic straight from the code.
 
@@ -81,7 +81,7 @@ so its not a bug but working as intended.
 
 </div>
 
-<div class="post" data-post-id="35540" data-author="Filk" data-date="2014-12-01T10:50:21+00:00">
+<div class="post" data-post-id="35540" data-author="Filk" data-date="2014-12-01T10:50:21+00:00" data-subject="Re: Probably bug with avatar&#x27;s levels limit">
 
 Nods. I see.
 
@@ -93,7 +93,7 @@ Sad, but ok. Thanks for explanation.
 
 </div>
 
-<div class="post" data-post-id="35541" data-author="*Splork*" data-date="2014-12-02T02:30:04+00:00">
+<div class="post" data-post-id="35541" data-author="*Splork*" data-date="2014-12-02T02:30:04+00:00" data-subject="Re: Probably bug with avatar&#x27;s levels limit">
 
 Code works exactly as it was intended.  We started out with 5 levels for every 40 starting at 4x40 ( or somewhere around there) players whined and we gave in. However, we did not want players relocating everywhere at 8x40, we wanted it to be close to the end of the game. We are happy with this equation and it will not be changed.
 
@@ -101,7 +101,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35542" data-author="Magi" data-date="2014-12-02T16:34:16+00:00">
+<div class="post" data-post-id="35542" data-author="Magi" data-date="2014-12-02T16:34:16+00:00" data-subject="Re: avatar&#x27;s level limits">
 
 Avatar levels before 8x40 was initially suggested by a player. The immorts deserve a mountain of credit for accepting that suggestion and implementing it so well.  I don't think I would have made it to 8x40 without aegis, greater refresh, and call followers.
 
@@ -109,7 +109,7 @@ The boating game has also been significantly eased by the addition of fargate wa
 
 </div>
 
-<div class="post" data-post-id="35543" data-author="*Splork*" data-date="2014-12-02T20:02:12+00:00">
+<div class="post" data-post-id="35543" data-author="*Splork*" data-date="2014-12-02T20:02:12+00:00" data-subject="Re: Probably bug with avatar&#x27;s levels limit">
 
 Oops, after reading my post again, Magi is correct. There were no leveling of avatar levels until one reached 8x40. It was too much  on players and the compromised to what it is today which most of us think is pretty fair.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36639" data-author="*juggleblood*" data-date="2016-02-26T01:53:29+00:00">
+<div class="post" data-post-id="36639" data-author="*juggleblood*" data-date="2016-02-26T01:53:29+00:00" data-subject="Echoing Experience as it Updates">
 
 This is something that I knew some people were doing, but didn't appreciate how nice it is until I tried it. Every time the MSDP Experience variable updates, I simply echo the amount of the increase. So then I can have a better feel for which of my special abilities are doing the best damage. 
 
@@ -48,7 +48,7 @@ Cheers.
 
 </div>
 
-<div class="post" data-post-id="36642" data-author="Madigan" data-date="2016-02-26T06:34:31+00:00">
+<div class="post" data-post-id="36642" data-author="Madigan" data-date="2016-02-26T06:34:31+00:00" data-subject="Re: Echoing Experience as it Updates">
 
 I've been foaming at the bits to get up and running on mudlet ever since you mentioned being able to do this. Can't wait to give it a shot. GREAT feature.
 
@@ -56,7 +56,7 @@ THx for sharing.
 
 </div>
 
-<div class="post" data-post-id="36643" data-author="Teron" data-date="2016-02-26T09:38:54+00:00">
+<div class="post" data-post-id="36643" data-author="Teron" data-date="2016-02-26T09:38:54+00:00" data-subject="Re: Echoing Experience as it Updates">
 
 You also need to take into account that the exp delta you see is pretty much randomized and you can only average it between 10 increases for the same skill to estimate your damage more or less accurately.
 

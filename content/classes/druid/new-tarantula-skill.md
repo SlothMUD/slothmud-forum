@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="15765" data-author="Modello" data-date="2006-12-26T00:53:46+00:00">
+<div class="post" data-post-id="15765" data-author="Modello" data-date="2006-12-26T00:53:46+00:00" data-subject="New Tarantula skill">
 
 Many thanks to Kjartan for new tarantula form skill.
 

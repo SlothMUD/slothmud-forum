@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16881" data-author="Gimlet" data-date="2007-02-14T11:46:49+00:00">
+<div class="post" data-post-id="16881" data-author="Gimlet" data-date="2007-02-14T11:46:49+00:00" data-subject="I love newbies, and here&#x27;s why...">
 
 Batosai tells you 'i got the spellbook and im junking when im done'
 
@@ -30,7 +30,7 @@ so no need to check logs, clink
 
 </div>
 
-<div class="post" data-post-id="16882" data-author="Autolycos" data-date="2007-02-14T12:54:12+00:00">
+<div class="post" data-post-id="16882" data-author="Autolycos" data-date="2007-02-14T12:54:12+00:00" data-subject="">
 
 wow.. just another reason for me to not like batosai
 

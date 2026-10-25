@@ -10,13 +10,13 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="24490" data-author="slobe" data-date="2008-05-24T21:47:12+00:00">
+<div class="post" data-post-id="24490" data-author="slobe" data-date="2008-05-24T21:47:12+00:00" data-subject="crash?">
 
 Is it me or did we crash?
 
 </div>
 
-<div class="post" data-post-id="24491" data-author="Cizin" data-date="2008-05-24T21:51:45+00:00">
+<div class="post" data-post-id="24491" data-author="Cizin" data-date="2008-05-24T21:51:45+00:00" data-subject="">
 
 Yeah. Problems connecting Sloth .... 
 
@@ -26,19 +26,19 @@ Sloth IV ?!
 
 </div>
 
-<div class="post" data-post-id="24492" data-author="slobe" data-date="2008-05-24T22:12:00+00:00">
+<div class="post" data-post-id="24492" data-author="slobe" data-date="2008-05-24T22:12:00+00:00" data-subject="">
 
 40 mins... Shakes...starting..
 
 </div>
 
-<div class="post" data-post-id="24493" data-author="slobe" data-date="2008-05-24T22:31:15+00:00">
+<div class="post" data-post-id="24493" data-author="slobe" data-date="2008-05-24T22:31:15+00:00" data-subject="">
 
 Thanks
 
 </div>
 
-<div class="post" data-post-id="25225" data-author="Avatar" data-date="2008-06-27T22:26:35+00:00">
+<div class="post" data-post-id="25225" data-author="Avatar" data-date="2008-06-27T22:26:35+00:00" data-subject="New one">
 
 Shutdown with no restart by Judge.
 

@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32848" data-author="celerra7" data-date="2011-08-31T19:38:45+00:00">
+<div class="post" data-post-id="32848" data-author="celerra7" data-date="2011-08-31T19:38:45+00:00" data-subject="CMUD - Looking for a LOST CON script to trigger recasting">
 
 Anyone have a script that triggers a recasting of a spell when losing concentration?
 
 </div>
 
-<div class="post" data-post-id="32879" data-author="Tuck" data-date="2011-09-09T11:18:26+00:00">
+<div class="post" data-post-id="32879" data-author="Tuck" data-date="2011-09-09T11:18:26+00:00" data-subject="Re: CMUD - Looking for a LOST CON script to trigger recastin">
 
 i may work on it, but you have to describe logics, how you want it to work?
 

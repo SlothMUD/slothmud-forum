@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16914" data-author="12345" data-date="2007-02-15T19:08:34+00:00">
+<div class="post" data-post-id="16914" data-author="12345" data-date="2007-02-15T19:08:34+00:00" data-subject="Themes">
 
 I was actually looking for this for a while...  Its a little on the Rainbow 6 side, but still works pretty well for Sloth.
 
@@ -18,7 +18,7 @@ I was actually looking for this for a while...  Its a little on the Rainbow 6 si
 
 </div>
 
-<div class="post" data-post-id="16917" data-author="12345" data-date="2007-02-15T20:02:42+00:00">
+<div class="post" data-post-id="16917" data-author="12345" data-date="2007-02-15T20:02:42+00:00" data-subject="">
 
 My favorite badguy.. the one winged angel.
 

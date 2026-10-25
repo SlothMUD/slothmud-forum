@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="37356" data-author="*Splork*" data-date="2016-09-17T18:20:58+00:00">
+<div class="post" data-post-id="37356" data-author="*Splork*" data-date="2016-09-17T18:20:58+00:00" data-subject="Uptime">
 
 We have been up for 22 days which is probably the longest uptime I have ever seen on the game! However, we are at nearly 60% memory which means you guys will start experiencing lag and soon after that you will not be able to save.
 
@@ -22,25 +22,25 @@ Nice job Teker, the KVP recode is definitely responsible for the added uptime!  
 
 </div>
 
-<div class="post" data-post-id="37357" data-author="*juggleblood*" data-date="2016-09-18T01:04:43+00:00">
+<div class="post" data-post-id="37357" data-author="*juggleblood*" data-date="2016-09-18T01:04:43+00:00" data-subject="Re: Uptime">
 
 You really do rock Teker. For improving game performance, flushing out mud language, eqset code, and all the other things you've done, thank you very much.
 
 </div>
 
-<div class="post" data-post-id="37358" data-author="Dragoth" data-date="2016-09-18T08:32:50+00:00">
+<div class="post" data-post-id="37358" data-author="Dragoth" data-date="2016-09-18T08:32:50+00:00" data-subject="Re: Uptime">
 
 I agree, thanks for all the hard work you did Teker.
 
 </div>
 
-<div class="post" data-post-id="37359" data-author="*teker*" data-date="2016-09-18T15:06:04+00:00">
+<div class="post" data-post-id="37359" data-author="*teker*" data-date="2016-09-18T15:06:04+00:00" data-subject="Re: Uptime">
 
 Thanks for all the kind words.  A lot of people have put a lot of effort into the current codebase and content and I feel fortunate to be able to be a part of that team!
 
 </div>
 
-<div class="post" data-post-id="37374" data-author="Gorka" data-date="2016-09-30T17:18:36+00:00">
+<div class="post" data-post-id="37374" data-author="Gorka" data-date="2016-09-30T17:18:36+00:00" data-subject="Re: Uptime">
 
 Given the game is up for longer, can shopkeepers be adjusted accordingly? They are running out of coins. In the past we never had to wait 3 weeks for a reset to sell ioun stones... items are one of many important ways players make coins... I think there needs to be some allowances made. In the past you could also make money selling tokens... but lack of newbie's and the coliseum have changed this... in fact, in general, it's more difficult to do coins these days with anything involving regular items than in the past. It's not uncommon for an avatar to use relocate to sell 9 hexes in every store within 1min after reboot... those tokens sit around for 3 weeks for us players without relocate.
 
@@ -48,19 +48,19 @@ Perhaps a change to shop keepers such as them junking shop items after 5 days or
 
 </div>
 
-<div class="post" data-post-id="37376" data-author="*juggleblood*" data-date="2016-09-30T21:06:21+00:00">
+<div class="post" data-post-id="37376" data-author="*juggleblood*" data-date="2016-09-30T21:06:21+00:00" data-subject="Re: Uptime">
 
 Gorka are you back?
 
 </div>
 
-<div class="post" data-post-id="37380" data-author="Gorka" data-date="2016-10-01T06:54:04+00:00">
+<div class="post" data-post-id="37380" data-author="Gorka" data-date="2016-10-01T06:54:04+00:00" data-subject="Re: Uptime">
 
 I logged yesterday. Back to work next week, still sorting my life out a little.
 
 </div>
 
-<div class="post" data-post-id="37385" data-author="*teker*" data-date="2016-10-03T03:39:21+00:00">
+<div class="post" data-post-id="37385" data-author="*teker*" data-date="2016-10-03T03:39:21+00:00" data-subject="Re: Uptime">
 
 > **Gorka wrote:**
 > Given the game is up for longer, can shopkeepers be adjusted accordingly? They are running out of coins. In the past we never had to wait 3 weeks for a reset to sell ioun stones...
@@ -74,7 +74,7 @@ Those are all configuration options and some of it is definitely by design.  I'm
 
 </div>
 
-<div class="post" data-post-id="37386" data-author="Gorka" data-date="2016-10-03T05:58:20+00:00">
+<div class="post" data-post-id="37386" data-author="Gorka" data-date="2016-10-03T05:58:20+00:00" data-subject="Re: Uptime">
 
 I'll let others who play more frequently comment on reboots, two weeks sounds fine to me, but other players will have better ideas.
 
@@ -92,7 +92,7 @@ The biggest shop frustrations for me are these...
 
 </div>
 
-<div class="post" data-post-id="37389" data-author="Teron" data-date="2016-10-03T16:53:15+00:00">
+<div class="post" data-post-id="37389" data-author="Teron" data-date="2016-10-03T16:53:15+00:00" data-subject="Re: Uptime">
 
 About the reboots.
 
@@ -164,7 +164,7 @@ You could count the time since the announcement and report the "auction is about
 
 </div>
 
-<div class="post" data-post-id="37390" data-author="Gorka" data-date="2016-10-03T17:33:58+00:00">
+<div class="post" data-post-id="37390" data-author="Gorka" data-date="2016-10-03T17:33:58+00:00" data-subject="Re: Uptime">
 
 Allie doesn't buy token's last I checked, and Moran, or Moron as I call him, can only afford 1 or 2 because no one is buying his crap and building up his coins to buy more... this is a problem with the majority of most shop keepers besides the main ones on BH and SS...
 
@@ -176,7 +176,7 @@ Creating a sub economy to turn unwanted items into something useful also could b
 
 </div>
 
-<div class="post" data-post-id="37391" data-author="Teron" data-date="2016-10-03T17:45:42+00:00">
+<div class="post" data-post-id="37391" data-author="Teron" data-date="2016-10-03T17:45:42+00:00" data-subject="Re: Uptime">
 
 So the problem isn't that there are two buyers of hexes on AH, it's that they have few coins to buy them.
 
@@ -184,7 +184,7 @@ Personally, I'd view ability to sell items to shops as another way to make gold.
 
 </div>
 
-<div class="post" data-post-id="37392" data-author="*juggleblood*" data-date="2016-10-03T23:55:57+00:00">
+<div class="post" data-post-id="37392" data-author="*juggleblood*" data-date="2016-10-03T23:55:57+00:00" data-subject="Re: Uptime">
 
 Maybe there's just too many hexes. That'd be an easy fix. Or you can give them away to newbies like many folks do. Let's let this thread die since you've tainted it with irrelevant posts.
 

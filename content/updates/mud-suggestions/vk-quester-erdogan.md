@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34317" data-author="Yasik" data-date="2013-06-12T07:57:22+00:00">
+<div class="post" data-post-id="34317" data-author="Yasik" data-date="2013-06-12T07:57:22+00:00" data-subject="VK quester Erdogan">
 
 I'm in my tune, again. 8) 
 
@@ -20,7 +20,7 @@ May I suggest renaming VK quester? His name offends my feelings of free spirit a
 
 </div>
 
-<div class="post" data-post-id="34323" data-author="Agni" data-date="2013-06-12T15:31:06+00:00">
+<div class="post" data-post-id="34323" data-author="Agni" data-date="2013-06-12T15:31:06+00:00" data-subject="Re: VK quester Erdogan">
 
 haha, change to Obama!
 

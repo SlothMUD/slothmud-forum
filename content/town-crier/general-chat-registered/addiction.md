@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16804" data-author="Weasel" data-date="2007-02-11T11:15:49+00:00">
+<div class="post" data-post-id="16804" data-author="Weasel" data-date="2007-02-11T11:15:49+00:00" data-subject="addiction">
 
 Weasel   =sMAc=   ( O)(o )  (level: 40)
 
@@ -60,7 +60,7 @@ although a significant part of that was due to a bug a few years back where a ti
 
 </div>
 
-<div class="post" data-post-id="16896" data-author="Avatar" data-date="2007-02-14T22:23:15+00:00">
+<div class="post" data-post-id="16896" data-author="Avatar" data-date="2007-02-14T22:23:15+00:00" data-subject="addiction">
 
 Hrmm, I remember that bug.  I guess I can use that excuse as well, now my xxx days online don't seem so bad!
 

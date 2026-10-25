@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="9848" data-author="brand" data-date="2005-12-17T06:17:37+00:00">
+<div class="post" data-post-id="9848" data-author="brand" data-date="2005-12-17T06:17:37+00:00" data-subject="wtb pra unlearned">
 
 so i will pay coins or trade eq for anything on this list.
 
@@ -64,7 +64,7 @@ Good Luck!
 
 </div>
 
-<div class="post" data-post-id="9849" data-author="Guinex" data-date="2005-12-17T06:47:44+00:00">
+<div class="post" data-post-id="9849" data-author="Guinex" data-date="2005-12-17T06:47:44+00:00" data-subject="">
 
 Laziness at its best *smoke*
 

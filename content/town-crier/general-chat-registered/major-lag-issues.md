@@ -10,7 +10,7 @@ locked: false
 post_count: 35
 ---
 
-<div class="post" data-post-id="33727" data-author="Ker" data-date="2012-11-13T17:57:05+00:00">
+<div class="post" data-post-id="33727" data-author="Ker" data-date="2012-11-13T17:57:05+00:00" data-subject="Major Lag Issues">
 
 Seems everyone on the mud getting hit by slow issues. Help!
 
@@ -18,7 +18,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="33729" data-author="Tuck" data-date="2012-11-14T07:57:54+00:00">
+<div class="post" data-post-id="33729" data-author="Tuck" data-date="2012-11-14T07:57:54+00:00" data-subject="Re: Major Lag Issues">
 
 looks like major server lag.
 
@@ -64,7 +64,7 @@ Trying 209.139.208.65...
 
 </div>
 
-<div class="post" data-post-id="33730" data-author="stun" data-date="2012-11-14T08:26:18+00:00">
+<div class="post" data-post-id="33730" data-author="stun" data-date="2012-11-14T08:26:18+00:00" data-subject="Re: Major Lag Issues">
 
 I was stabbing in todes, without lag.. till i needed some regen and realized that i was alone in the mud.
 
@@ -160,7 +160,7 @@ Anyone can tell me what happened?
 
 </div>
 
-<div class="post" data-post-id="33731" data-author="Nyx" data-date="2012-11-14T08:37:24+00:00">
+<div class="post" data-post-id="33731" data-author="Nyx" data-date="2012-11-14T08:37:24+00:00" data-subject="Re: Major Lag Issues">
 
 Interesting!
 
@@ -168,19 +168,19 @@ That confirms the beasts in Matterhorn are feasting on my carcass. Hope they cho
 
 </div>
 
-<div class="post" data-post-id="33732" data-author="Virus" data-date="2012-11-14T08:38:17+00:00">
+<div class="post" data-post-id="33732" data-author="Virus" data-date="2012-11-14T08:38:17+00:00" data-subject="Re: Major Lag Issues">
 
 Why you vis me for?  :roll:
 
 </div>
 
-<div class="post" data-post-id="33733" data-author="Guinex" data-date="2012-11-14T08:40:21+00:00">
+<div class="post" data-post-id="33733" data-author="Guinex" data-date="2012-11-14T08:40:21+00:00" data-subject="Re: Major Lag Issues">
 
 I blame sue.
 
 </div>
 
-<div class="post" data-post-id="33734" data-author="raincrab" data-date="2012-11-14T08:41:40+00:00">
+<div class="post" data-post-id="33734" data-author="raincrab" data-date="2012-11-14T08:41:40+00:00" data-subject="Re: Major Lag Issues">
 
 > **Nyx wrote:**
 > Interesting!
@@ -193,7 +193,7 @@ I just gated into mh caverns to fetch a corpse before connection dropped, good t
 
 </div>
 
-<div class="post" data-post-id="33735" data-author="Yasik" data-date="2012-11-14T08:44:06+00:00">
+<div class="post" data-post-id="33735" data-author="Yasik" data-date="2012-11-14T08:44:06+00:00" data-subject="Re: Major Lag Issues">
 
 Cannot login.
 
@@ -201,13 +201,13 @@ Unable to connect to "SLOTH", code = 10060 (Connection timed out)
 
 </div>
 
-<div class="post" data-post-id="33736" data-author="jezer" data-date="2012-11-14T09:46:54+00:00">
+<div class="post" data-post-id="33736" data-author="jezer" data-date="2012-11-14T09:46:54+00:00" data-subject="Re: Major Lag Issues">
 
 I wonder if the DDOS is back with Sloth being Number 1 on TMC? I voted just in case it was!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="33737" data-author="Ker" data-date="2012-11-14T09:55:51+00:00">
+<div class="post" data-post-id="33737" data-author="Ker" data-date="2012-11-14T09:55:51+00:00" data-subject="Re: Major Lag Issues">
 
 who
 
@@ -237,13 +237,13 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="33738" data-author="jezer" data-date="2012-11-14T10:14:25+00:00">
+<div class="post" data-post-id="33738" data-author="jezer" data-date="2012-11-14T10:14:25+00:00" data-subject="Re: Major Lag Issues">
 
 Mud hasn't crashed, still a high of 41 players. Bet DDOS is back... I recall last time a few managed to get in as well... mainly the addicts... I can't get in.
 
 </div>
 
-<div class="post" data-post-id="33739" data-author="cyprimus" data-date="2012-11-14T11:07:05+00:00">
+<div class="post" data-post-id="33739" data-author="cyprimus" data-date="2012-11-14T11:07:05+00:00" data-subject="Re: Major Lag Issues">
 
 Nope. Cannot get in either...
 
@@ -255,25 +255,25 @@ Even tried the other ports.
 
 </div>
 
-<div class="post" data-post-id="33740" data-author="*Splork*" data-date="2012-11-14T11:58:19+00:00">
+<div class="post" data-post-id="33740" data-author="*Splork*" data-date="2012-11-14T11:58:19+00:00" data-subject="Re: Major Lag Issues">
 
 Another attack, ticket opened, going back to sleep:)
 
 </div>
 
-<div class="post" data-post-id="33741" data-author="aurica" data-date="2012-11-14T11:59:08+00:00">
+<div class="post" data-post-id="33741" data-author="aurica" data-date="2012-11-14T11:59:08+00:00" data-subject="Re: Major Lag Issues">
 
 couldn't log in =.=
 
 </div>
 
-<div class="post" data-post-id="33742" data-author="war" data-date="2012-11-14T13:59:45+00:00">
+<div class="post" data-post-id="33742" data-author="war" data-date="2012-11-14T13:59:45+00:00" data-subject="Re: Major Lag Issues">
 
 I see ppl on but am unable to connect :cry:
 
 </div>
 
-<div class="post" data-post-id="33743" data-author="Yasik" data-date="2012-11-14T14:40:03+00:00">
+<div class="post" data-post-id="33743" data-author="Yasik" data-date="2012-11-14T14:40:03+00:00" data-subject="Re: Major Lag Issues">
 
 wh
 
@@ -299,7 +299,7 @@ Highest total since last bootup: 41.
 
 </div>
 
-<div class="post" data-post-id="33744" data-author="Shryker" data-date="2012-11-14T14:57:48+00:00">
+<div class="post" data-post-id="33744" data-author="Shryker" data-date="2012-11-14T14:57:48+00:00" data-subject="Re: Major Lag Issues">
 
 Looks like we have another fun week or two ahead of us.
 
@@ -313,7 +313,7 @@ I demand a shrubbery on my return.
 
 </div>
 
-<div class="post" data-post-id="33745" data-author="Eze" data-date="2012-11-14T16:49:41+00:00">
+<div class="post" data-post-id="33745" data-author="Eze" data-date="2012-11-14T16:49:41+00:00" data-subject="Re: Major Lag Issues">
 
 Thanks to Alris and Ozzy, through ICQ...I learned of the new address the mud has been moved to...
 
@@ -327,13 +327,13 @@ Zeke
 
 </div>
 
-<div class="post" data-post-id="33746" data-author="*Splork*" data-date="2012-11-14T18:04:52+00:00">
+<div class="post" data-post-id="33746" data-author="*Splork*" data-date="2012-11-14T18:04:52+00:00" data-subject="Re: Major Lag Issues">
 
 You can also email me. Please include character name and IP if you do.
 
 </div>
 
-<div class="post" data-post-id="33747" data-author="Dasseem" data-date="2012-11-15T01:00:53+00:00">
+<div class="post" data-post-id="33747" data-author="Dasseem" data-date="2012-11-15T01:00:53+00:00" data-subject="Re: Major Lag Issues">
 
 where do we mail you?
 
@@ -341,13 +341,13 @@ splork@slothmud.org?
 
 </div>
 
-<div class="post" data-post-id="33748" data-author="*Splork*" data-date="2012-11-15T01:41:19+00:00">
+<div class="post" data-post-id="33748" data-author="*Splork*" data-date="2012-11-15T01:41:19+00:00" data-subject="Re: Major Lag Issues">
 
 Email splork@slothmud.org
 
 </div>
 
-<div class="post" data-post-id="33749" data-author="Shyla" data-date="2012-11-15T01:52:51+00:00">
+<div class="post" data-post-id="33749" data-author="Shyla" data-date="2012-11-15T01:52:51+00:00" data-subject="Re: Major Lag Issues">
 
 well nice I can't get on slothmud and since I can't access email I am stuck not being able to play. Oh well I guess they have no need to have me get on and try and teach anyone anyways hugS
 
@@ -355,19 +355,19 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="33750" data-author="cyprimus" data-date="2012-11-15T03:52:02+00:00">
+<div class="post" data-post-id="33750" data-author="cyprimus" data-date="2012-11-15T03:52:02+00:00" data-subject="Re: Major Lag Issues">
 
 emailed, but no reply yet...
 
 </div>
 
-<div class="post" data-post-id="33757" data-author="raincrab" data-date="2012-11-15T21:46:54+00:00">
+<div class="post" data-post-id="33757" data-author="raincrab" data-date="2012-11-15T21:46:54+00:00" data-subject="Re: Major Lag Issues">
 
 check your PMs here on the crier, i sent one to both of you yesterday
 
 </div>
 
-<div class="post" data-post-id="33759" data-author="Shryker" data-date="2012-11-16T01:50:52+00:00">
+<div class="post" data-post-id="33759" data-author="Shryker" data-date="2012-11-16T01:50:52+00:00" data-subject="Re: Major Lag Issues">
 
 PM'ed you as well raincrab.  Rick seems to be tied up with the attacks, so I figured I would hit someone up here instead.
 
@@ -375,19 +375,19 @@ Shryker
 
 </div>
 
-<div class="post" data-post-id="33760" data-author="*Breeze*" data-date="2012-11-16T03:28:58+00:00">
+<div class="post" data-post-id="33760" data-author="*Breeze*" data-date="2012-11-16T03:28:58+00:00" data-subject="Re: Major Lag Issues">
 
 anyone can also email not  pm me for the next few hours. breeze@....
 
 </div>
 
-<div class="post" data-post-id="33761" data-author="cyprimus" data-date="2012-11-16T03:33:54+00:00">
+<div class="post" data-post-id="33761" data-author="cyprimus" data-date="2012-11-16T03:33:54+00:00" data-subject="Re: Major Lag Issues">
 
 Thanks folks!!
 
 </div>
 
-<div class="post" data-post-id="33762" data-author="aurica" data-date="2012-11-16T10:35:11+00:00">
+<div class="post" data-post-id="33762" data-author="aurica" data-date="2012-11-16T10:35:11+00:00" data-subject="Re: Major Lag Issues">
 
 i still couldn't connect... can anybody email me the new mud address? I'm dying here unable to connect..
 
@@ -395,13 +395,13 @@ auricastar@gmail.com
 
 </div>
 
-<div class="post" data-post-id="33779" data-author="Tuck" data-date="2012-11-18T04:04:48+00:00">
+<div class="post" data-post-id="33779" data-author="Tuck" data-date="2012-11-18T04:04:48+00:00" data-subject="Re: Major Lag Issues">
 
 Game down?
 
 </div>
 
-<div class="post" data-post-id="33781" data-author="raincrab" data-date="2012-11-18T04:09:54+00:00">
+<div class="post" data-post-id="33781" data-author="raincrab" data-date="2012-11-18T04:09:54+00:00" data-subject="Re: Major Lag Issues">
 
 its up, i reconnected, lagged bad, another round of ddos.
 
@@ -438,31 +438,31 @@ hope everyone did, never idled there so no idea if chars will be safe
 
 </div>
 
-<div class="post" data-post-id="33782" data-author="cyprimus" data-date="2012-11-18T04:47:52+00:00">
+<div class="post" data-post-id="33782" data-author="cyprimus" data-date="2012-11-18T04:47:52+00:00" data-subject="Re: Major Lag Issues">
 
 Still cannot reconnect...  taking me forever to load anything on webpage too..
 
 </div>
 
-<div class="post" data-post-id="33783" data-author="vissidrix" data-date="2012-11-18T04:55:22+00:00">
+<div class="post" data-post-id="33783" data-author="vissidrix" data-date="2012-11-18T04:55:22+00:00" data-subject="Re: Major Lag Issues">
 
 yup, same here.
 
 </div>
 
-<div class="post" data-post-id="33784" data-author="war" data-date="2012-11-18T05:08:24+00:00">
+<div class="post" data-post-id="33784" data-author="war" data-date="2012-11-18T05:08:24+00:00" data-subject="Re: Major Lag Issues">
 
 I split Im half hoping it crashed as im in a room with a agro, but roberts is loaded. :shock:
 
 </div>
 
-<div class="post" data-post-id="33785" data-author="vissidrix" data-date="2012-11-18T05:21:15+00:00">
+<div class="post" data-post-id="33785" data-author="vissidrix" data-date="2012-11-18T05:21:15+00:00" data-subject="Re: Major Lag Issues">
 
 I do not think it is a crash. I have been able to get to the character log in screen a couple of times, and put in my username; as of yet however, I have been unable to load password entry into prompt before disconnection.
 
 </div>
 
-<div class="post" data-post-id="33786" data-author="*Splork*" data-date="2012-11-18T20:01:55+00:00">
+<div class="post" data-post-id="33786" data-author="*Splork*" data-date="2012-11-18T20:01:55+00:00" data-subject="Port 6101">
 
 Please connect using the above mentioned port.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39171" data-author="Gorka" data-date="2019-04-16T15:08:47+00:00">
+<div class="post" data-post-id="39171" data-author="Gorka" data-date="2019-04-16T15:08:47+00:00" data-subject="Do Suck Rooms Count Towards Exploration?">
 
 I am having trouble getting the City of Dis 100% explored... I have a theory that the 4 or 5 of the rooms that suck you down into the ground might be the cause... as all the room nums I have explored seem sequential... Therefore I am unlikely to be missing any rooms unless they are at either end of the number system...
 
@@ -54,7 +54,7 @@ Exits: East  Down
 
 </div>
 
-<div class="post" data-post-id="39172" data-author="*Neptune*" data-date="2019-04-17T00:27:08+00:00">
+<div class="post" data-post-id="39172" data-author="*Neptune*" data-date="2019-04-17T00:27:08+00:00" data-subject="Re: Do Suck Rooms Count Towards Exploration?">
 
 Those rooms shouldn't affect your exploration unless you enter that room right at the point when
 
@@ -74,7 +74,7 @@ didn't anticipate when they were implemented, however.
 
 </div>
 
-<div class="post" data-post-id="39173" data-author="Gorka" data-date="2019-04-17T03:39:00+00:00">
+<div class="post" data-post-id="39173" data-author="Gorka" data-date="2019-04-17T03:39:00+00:00" data-subject="Re: Do Suck Rooms Count Towards Exploration?">
 
 Thanks Neptune, that fixed it.
 

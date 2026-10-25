@@ -10,7 +10,7 @@ locked: false
 post_count: 37
 ---
 
-<div class="post" data-post-id="18070" data-author="firebrand" data-date="2007-04-20T03:03:42+00:00">
+<div class="post" data-post-id="18070" data-author="firebrand" data-date="2007-04-20T03:03:42+00:00" data-subject="to blaster, pbx, and all our military players/families">
 
 FREEDOM ISN'T FREE 
 
@@ -72,7 +72,7 @@ Please remember our Troops!
 
 </div>
 
-<div class="post" data-post-id="18071" data-author="Aeolus" data-date="2007-04-20T03:37:53+00:00">
+<div class="post" data-post-id="18071" data-author="Aeolus" data-date="2007-04-20T03:37:53+00:00" data-subject="">
 
 Thanks for the post. As an active duty service member getting ready to deploy, I appreciate it. Oh, and some of you may be like me and like to check the validity of stories like these. Not that Firebrand would post it without checking. But the story is true. At least according to Snopes.com
 
@@ -80,7 +80,7 @@ Link[/url:2jd6q6kq]
 
 </div>
 
-<div class="post" data-post-id="18072" data-author="*juggleblood*" data-date="2007-04-20T09:58:08+00:00">
+<div class="post" data-post-id="18072" data-author="*juggleblood*" data-date="2007-04-20T09:58:08+00:00" data-subject="">
 
 First:
 
@@ -114,7 +114,7 @@ In the councils of government, we must guard against the acquisition of unwarran
 
 </div>
 
-<div class="post" data-post-id="18073" data-author="Weasel" data-date="2007-04-20T14:30:14+00:00">
+<div class="post" data-post-id="18073" data-author="Weasel" data-date="2007-04-20T14:30:14+00:00" data-subject="">
 
 :roll:   Fortunately you have the freedom to express your defeatist opinion without getting arrested, tortured and / or killed for treason, along with your entire family. Maybe you should think about that for a moment. Yes our freedoms are under assault - that is a direct result of the actions of extremist groups who want nothing more than see the US go down in flames, it is not the result of some nefarious plot by the US government to control you, much as you apparently want to believe. The US have taken this battle to the doorstep of those who wish to end us rather than wait for them to bring it to our doorstep - and it's a sure thing that if the US didn't act then those who resent our freedoms would have bought that battle to US soil instead, as they already have attempted to do a number of times.
 
@@ -124,13 +124,13 @@ Funny thing is, many of the anti-war proponent today are the same people who wer
 
 </div>
 
-<div class="post" data-post-id="18074" data-author="brady" data-date="2007-04-20T15:16:45+00:00">
+<div class="post" data-post-id="18074" data-author="brady" data-date="2007-04-20T15:16:45+00:00" data-subject="">
 
 I would like to nominate Borat for president and Rub, the Secretary of the Asshole.
 
 </div>
 
-<div class="post" data-post-id="18075" data-author="13" data-date="2007-04-20T15:17:56+00:00">
+<div class="post" data-post-id="18075" data-author="13" data-date="2007-04-20T15:17:56+00:00" data-subject="">
 
 I have to disagree weasel.  Our freedom is in direct danger because our government needs to be needed.   You can choose not to believe in the "nefarious plot by the gov't" or whatever you want to call it, but that doesn't make it not real.  And whether you believe it or not our rights are slipping through our fingers every day.  This is a direct result of 
 
@@ -142,7 +142,7 @@ Did anyone see the Gonzales hearings or were you too busy paying attention to th
 
 </div>
 
-<div class="post" data-post-id="18076" data-author="Malison" data-date="2007-04-20T15:18:56+00:00">
+<div class="post" data-post-id="18076" data-author="Malison" data-date="2007-04-20T15:18:56+00:00" data-subject="">
 
 Certainly there are people who will criticize whatever the government does.  But just because they're critics doesn't make them wrong.  We've got the freedom to criticize whatever we want, but the moment anyone starts acting to make a change, they get a one-way ticket to a jail cell stamped with the word "treason."  The US steps on people trying to make a change just as thorougly as dictators like Saddam Hussein did.
 
@@ -152,7 +152,7 @@ And as a side note, I am thankful for each of the soldiers who's out there fight
 
 </div>
 
-<div class="post" data-post-id="18077" data-author="firebrand" data-date="2007-04-20T16:37:41+00:00">
+<div class="post" data-post-id="18077" data-author="firebrand" data-date="2007-04-20T16:37:41+00:00" data-subject="">
 
 And as a side note, I am thankful for each of the soldiers who's out there fighting for my protection.  It's when they get sent on stupid campaigns that pisses me off.[/quote:3qltwc5p]
 
@@ -162,7 +162,7 @@ i agree.  i am not thanking the government for needlessly killing our soldiers. 
 
 </div>
 
-<div class="post" data-post-id="18078" data-author="*juggleblood*" data-date="2007-04-20T18:33:22+00:00">
+<div class="post" data-post-id="18078" data-author="*juggleblood*" data-date="2007-04-20T18:33:22+00:00" data-subject="">
 
 :roll:  
 
@@ -182,7 +182,7 @@ Please don't paint straw targets. If you want to become more aware of my positio
 
 </div>
 
-<div class="post" data-post-id="18080" data-author="alias" data-date="2007-04-20T19:43:22+00:00">
+<div class="post" data-post-id="18080" data-author="alias" data-date="2007-04-20T19:43:22+00:00" data-subject="">
 
 Just my 1 cent cause Im too dumb to have 2 cents worth of opnion. Those of you who think we have the freedom to say what you want, I say your wrong. People are quieted, killed, some dissapear, some have a quick change of heart. If you speak loud enough and ill enough you will soon find we do not have the freedoms you think we have.
 
@@ -228,13 +228,13 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="18082" data-author="Weasel" data-date="2007-04-20T21:21:39+00:00">
+<div class="post" data-post-id="18082" data-author="Weasel" data-date="2007-04-20T21:21:39+00:00" data-subject="">
 
 [deleted] - not going down this road again, sorry.
 
 </div>
 
-<div class="post" data-post-id="18083" data-author="Hades" data-date="2007-04-20T22:37:18+00:00">
+<div class="post" data-post-id="18083" data-author="Hades" data-date="2007-04-20T22:37:18+00:00" data-subject="Post subject: RE: to blaster, pbx, and all our military pla">
 
 Flame on!
 
@@ -256,7 +256,7 @@ I second that :twisted:
 
 </div>
 
-<div class="post" data-post-id="18084" data-author="Malison" data-date="2007-04-21T01:15:41+00:00">
+<div class="post" data-post-id="18084" data-author="Malison" data-date="2007-04-21T01:15:41+00:00" data-subject="">
 
 Anyone who would say that someone speaking against current American policy is "Anti-American" like that clearly is as blinded by propaganda as the average German under the Nazi regime.  There's a clear difference between spreading lies and bringing to light things that the government tries to silence.
 
@@ -266,7 +266,7 @@ If being American means being blind to reason and imagining you're invincible, i
 
 </div>
 
-<div class="post" data-post-id="18085" data-author="van" data-date="2007-04-21T01:17:04+00:00">
+<div class="post" data-post-id="18085" data-author="van" data-date="2007-04-21T01:17:04+00:00" data-subject="Re: Post subject: RE: to blaster, pbx, and all our military">
 
 Hades, 
 
@@ -330,7 +330,7 @@ Just as a random side note, I'd really like to see the GOP pull its head out of 
 
 </div>
 
-<div class="post" data-post-id="18086" data-author="Weasel" data-date="2007-04-21T01:49:58+00:00">
+<div class="post" data-post-id="18086" data-author="Weasel" data-date="2007-04-21T01:49:58+00:00" data-subject="">
 
 WASHINGTON - Senator Joe Lieberman, earlier today:
 
@@ -340,7 +340,7 @@ The question now before us is whether we respond to these terrorist attacks by r
 
 </div>
 
-<div class="post" data-post-id="18087" data-author="12345" data-date="2007-04-21T02:07:29+00:00">
+<div class="post" data-post-id="18087" data-author="12345" data-date="2007-04-21T02:07:29+00:00" data-subject="">
 
 Well, I think this thread has become wholey contaminated.  If you're going to argue about government, could you please do it in a different thread?  The current argument has nothing to do with the members of the military or what they do.
 
@@ -350,7 +350,7 @@ They are defending you from the bad decisions of your leaders.  So please take t
 
 </div>
 
-<div class="post" data-post-id="18088" data-author="van" data-date="2007-04-21T04:01:21+00:00">
+<div class="post" data-post-id="18088" data-author="van" data-date="2007-04-21T04:01:21+00:00" data-subject="">
 
 I think this thread was contaminated very quickly... one might almost call it a new thread. :) 
 
@@ -362,19 +362,19 @@ P.S.  Re: Lieberman - you must be joking.  The man has lost all credibility. :)
 
 </div>
 
-<div class="post" data-post-id="18089" data-author="13" data-date="2007-04-21T04:05:53+00:00">
+<div class="post" data-post-id="18089" data-author="13" data-date="2007-04-21T04:05:53+00:00" data-subject="">
 
 *clap* van
 
 </div>
 
-<div class="post" data-post-id="18091" data-author="Weasel" data-date="2007-04-21T05:10:29+00:00">
+<div class="post" data-post-id="18091" data-author="Weasel" data-date="2007-04-21T05:10:29+00:00" data-subject="">
 
 heh true Van, but that particular quote rang true, at least for me.
 
 </div>
 
-<div class="post" data-post-id="18098" data-author="Hades" data-date="2007-04-21T12:30:02+00:00">
+<div class="post" data-post-id="18098" data-author="Hades" data-date="2007-04-21T12:30:02+00:00" data-subject="Someone put sugar in Van&#x27;s tank?">
 
 Oh snap, you just got served!
 
@@ -382,7 +382,7 @@ Oh snap, you just got served!
 
 </div>
 
-<div class="post" data-post-id="18101" data-author="Medios" data-date="2007-04-21T17:18:06+00:00">
+<div class="post" data-post-id="18101" data-author="Medios" data-date="2007-04-21T17:18:06+00:00" data-subject="">
 
 Lieberman lost credibility?
 
@@ -392,19 +392,19 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="18104" data-author="brady" data-date="2007-04-21T22:15:34+00:00">
+<div class="post" data-post-id="18104" data-author="brady" data-date="2007-04-21T22:15:34+00:00" data-subject="">
 
 well said pat...
 
 </div>
 
-<div class="post" data-post-id="18105" data-author="brady" data-date="2007-04-21T22:21:48+00:00">
+<div class="post" data-post-id="18105" data-author="brady" data-date="2007-04-21T22:21:48+00:00" data-subject="">
 
 oops, wrong thread
 
 </div>
 
-<div class="post" data-post-id="18146" data-author="Avatar" data-date="2007-04-24T15:49:32+00:00">
+<div class="post" data-post-id="18146" data-author="Avatar" data-date="2007-04-24T15:49:32+00:00" data-subject="Politics">
 
 Interesting posts Van, good job.  I agree with the whole post, and especially:
 
@@ -416,7 +416,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="18149" data-author="*juggleblood*" data-date="2007-04-24T18:14:42+00:00">
+<div class="post" data-post-id="18149" data-author="*juggleblood*" data-date="2007-04-24T18:14:42+00:00" data-subject="">
 
 Lieberman lost credibility?
 
@@ -434,7 +434,7 @@ But can someone remind who the bad guys are exactly? I thought it was Saddam loy
 
 </div>
 
-<div class="post" data-post-id="18152" data-author="firebrand" data-date="2007-04-24T19:02:57+00:00">
+<div class="post" data-post-id="18152" data-author="firebrand" data-date="2007-04-24T19:02:57+00:00" data-subject="Re: Politics">
 
 If you consider most of the current hot-topic issues from a perspective based on the constitution, it's easier to see where some politicians lose that focus on what their duties should be. [/quote:3kfea5wr]
 
@@ -444,7 +444,7 @@ nods. it's pretty sad when a politician gets elected simply for his views on a h
 
 </div>
 
-<div class="post" data-post-id="18153" data-author="Medios" data-date="2007-04-24T20:46:05+00:00">
+<div class="post" data-post-id="18153" data-author="Medios" data-date="2007-04-24T20:46:05+00:00" data-subject="">
 
 Lieberman lost credibility?
 
@@ -470,7 +470,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="18156" data-author="Weasel" data-date="2007-04-24T22:03:30+00:00">
+<div class="post" data-post-id="18156" data-author="Weasel" data-date="2007-04-24T22:03:30+00:00" data-subject="">
 
 But can someone remind who the bad guys are exactly? I thought it was Saddam loyalists at first, but then it was just Sunni insurgents right? and after that it was Moktada al-Sadr, but then he joined the government. So then it was just the insurgents again. And after that it was Al-Qaeda, but now Moktada al-Sadr is fighting us again.[/quote:322xnzt4]
 
@@ -478,7 +478,7 @@ I think Bush originally declared war on, like, maybe three or four Egyptian guys
 
 </div>
 
-<div class="post" data-post-id="18157" data-author="Shazuko" data-date="2007-04-24T23:00:39+00:00">
+<div class="post" data-post-id="18157" data-author="Shazuko" data-date="2007-04-24T23:00:39+00:00" data-subject="">
 
 I'm not going to walk on a bed of 'hot political coals'...instead, I'm just gonna comment on the subject, which is what got my attention in the first place...
 
@@ -500,13 +500,13 @@ What you guys go out and willfully do is much appreciated by many, especially du
 
 </div>
 
-<div class="post" data-post-id="18159" data-author="Eireannach" data-date="2007-04-25T05:49:00+00:00">
+<div class="post" data-post-id="18159" data-author="Eireannach" data-date="2007-04-25T05:49:00+00:00" data-subject="">
 
 Nil deireadh an chogaidh feicthe ach acusan ata marbh.
 
 </div>
 
-<div class="post" data-post-id="18160" data-author="13" data-date="2007-04-25T12:03:55+00:00">
+<div class="post" data-post-id="18160" data-author="13" data-date="2007-04-25T12:03:55+00:00" data-subject="">
 
 [quote:3pjlh61k]I am nothing more than a stick in the hands of the world's biggest bully. [/quote:3pjlh61k]
 
@@ -514,7 +514,7 @@ Sad but true.  Like Van said, you shouldn't confuse our Nation with a temporary 
 
 </div>
 
-<div class="post" data-post-id="18162" data-author="Avatar" data-date="2007-04-25T13:41:49+00:00">
+<div class="post" data-post-id="18162" data-author="Avatar" data-date="2007-04-25T13:41:49+00:00" data-subject="Politics">
 
 I don't get the point, Eireannach.  Are you saying you do understand the US goals in Iraq or that you don't?
 
@@ -524,13 +524,13 @@ Juggleblood (I forgot the char name) raises some good points.  I think he unders
 
 </div>
 
-<div class="post" data-post-id="18163" data-author="Eireannach" data-date="2007-04-25T14:46:08+00:00">
+<div class="post" data-post-id="18163" data-author="Eireannach" data-date="2007-04-25T14:46:08+00:00" data-subject="">
 
 Sorry for the confusion. All posts removed from this thread by me.
 
 </div>
 
-<div class="post" data-post-id="18164" data-author="alias" data-date="2007-04-25T15:13:03+00:00">
+<div class="post" data-post-id="18164" data-author="alias" data-date="2007-04-25T15:13:03+00:00" data-subject="">
 
 Comprehension does not always require experience, but it does help. I can't say I fully understand what you brave men and women are going through, but I wish you best of luck in your endevours. Let me say this though if this campain (war) was about removing a corrupt leader and stopping genocide why have we done nothing in respect to Dafur. Keep up the good fight men and women and Ill personally buy you each a beer when you return. Just let me know when and where.
 
@@ -538,7 +538,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="18165" data-author="13" data-date="2007-04-25T15:15:27+00:00">
+<div class="post" data-post-id="18165" data-author="13" data-date="2007-04-25T15:15:27+00:00" data-subject="">
 
 [quote:6rx4u8cr]But it's like any other issue--nobody cares unless they are directly affected by it.[/quote:6rx4u8cr]
 
@@ -546,7 +546,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="18170" data-author="Thraxas" data-date="2007-04-25T17:29:09+00:00">
+<div class="post" data-post-id="18170" data-author="Thraxas" data-date="2007-04-25T17:29:09+00:00" data-subject="">
 
 I'm English so I have no views at all on US or world polotics ...
 
@@ -556,7 +556,7 @@ Just a thought thought though:
 
 </div>
 
-<div class="post" data-post-id="18171" data-author="13" data-date="2007-04-25T17:51:12+00:00">
+<div class="post" data-post-id="18171" data-author="13" data-date="2007-04-25T17:51:12+00:00" data-subject="">
 
 No, I firmly believe the best way to support the troops is to not needlessly throw them into harm's way.  There are a lot of Special Ops groups in the US Military and I think they should be put to better use.  Why send 150,000 (guessing) regular troops in when 50 well-coordinated highly-trained guys who *DID* sign up to fight uphill battles could do nearly the same thing?  I still think this war is shit, but if you have to do it, there are better ways imo.
 

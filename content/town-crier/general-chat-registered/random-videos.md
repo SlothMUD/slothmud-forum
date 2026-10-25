@@ -10,7 +10,7 @@ locked: false
 post_count: 27
 ---
 
-<div class="post" data-post-id="14064" data-author="Diazz_Dizazter" data-date="2006-09-16T01:02:24+00:00">
+<div class="post" data-post-id="14064" data-author="Diazz_Dizazter" data-date="2006-09-16T01:02:24+00:00" data-subject="Random Videos">
 
 Videos are getting more and more easier to find now days.  
 
@@ -22,7 +22,7 @@ This one is pretty good :)
 
 </div>
 
-<div class="post" data-post-id="14100" data-author="Diazz_Dizazter" data-date="2006-09-17T06:39:53+00:00">
+<div class="post" data-post-id="14100" data-author="Diazz_Dizazter" data-date="2006-09-17T06:39:53+00:00" data-subject="">
 
 Stumbleupon strikes again...
 
@@ -32,7 +32,7 @@ Stumbleupon strikes again...
 
 </div>
 
-<div class="post" data-post-id="14149" data-author="Avatar" data-date="2006-09-19T01:53:48+00:00">
+<div class="post" data-post-id="14149" data-author="Avatar" data-date="2006-09-19T01:53:48+00:00" data-subject="Random Videos">
 
 The middle link was -almost- worth watching.  Of course, that's just my opinion. 
 
@@ -46,7 +46,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="14151" data-author="Diazz_Dizazter" data-date="2006-09-19T02:25:40+00:00">
+<div class="post" data-post-id="14151" data-author="Diazz_Dizazter" data-date="2006-09-19T02:25:40+00:00" data-subject="">
 
 I do agree to some extent.  
 
@@ -62,25 +62,25 @@ I will ponder harder before posting videos :)
 
 </div>
 
-<div class="post" data-post-id="14155" data-author="osric" data-date="2006-09-19T07:53:30+00:00">
+<div class="post" data-post-id="14155" data-author="osric" data-date="2006-09-19T07:53:30+00:00" data-subject="">
 
 ahh hell, its random you get what you get!
 
 </div>
 
-<div class="post" data-post-id="14204" data-author="Akasha" data-date="2006-09-21T06:06:57+00:00">
+<div class="post" data-post-id="14204" data-author="Akasha" data-date="2006-09-21T06:06:57+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.consumptionjunction.com/cont ... e=1&type=1">http://www.consumptionjunction.com/content/detail.asp?id=61082&page=1&type=1</LINK_TEXT>](http://www.consumptionjunction.com/content/detail.asp?id=61082&page=1&type=1)
 
 </div>
 
-<div class="post" data-post-id="14205" data-author="osric" data-date="2006-09-21T07:39:29+00:00">
+<div class="post" data-post-id="14205" data-author="osric" data-date="2006-09-21T07:39:29+00:00" data-subject="">
 
 Damn!
 
 </div>
 
-<div class="post" data-post-id="14207" data-author="Diazz_Dizazter" data-date="2006-09-21T10:33:30+00:00">
+<div class="post" data-post-id="14207" data-author="Diazz_Dizazter" data-date="2006-09-21T10:33:30+00:00" data-subject="">
 
 Wierd Al has proven like a motherfucker they he saw 8-mile on acid, and 
 
@@ -90,7 +90,7 @@ The sad part is he's equally as skilled a Eminem is.
 
 </div>
 
-<div class="post" data-post-id="14211" data-author="Autolycos" data-date="2006-09-21T22:30:04+00:00">
+<div class="post" data-post-id="14211" data-author="Autolycos" data-date="2006-09-21T22:30:04+00:00" data-subject="">
 
 nah..
 
@@ -98,7 +98,7 @@ Al has him beat down accordian style.
 
 </div>
 
-<div class="post" data-post-id="14212" data-author="Diazz_Dizazter" data-date="2006-09-21T22:44:25+00:00">
+<div class="post" data-post-id="14212" data-author="Diazz_Dizazter" data-date="2006-09-21T22:44:25+00:00" data-subject="">
 
 Ive always liked wierd al music, but the recent shit is even more well thought out then previous things.  Really I think Al just needed someone to alter ego,
 
@@ -110,7 +110,7 @@ I could see Al doing a disturbed paradie.
 
 </div>
 
-<div class="post" data-post-id="14221" data-author="Akasha" data-date="2006-09-22T05:52:41+00:00">
+<div class="post" data-post-id="14221" data-author="Akasha" data-date="2006-09-22T05:52:41+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.consumptionjunction.com/cont ... e=1&page=3">http://www.consumptionjunction.com/content/detail.asp?ID=60948&type=1&page=3</LINK_TEXT>](http://www.consumptionjunction.com/content/detail.asp?ID=60948&type=1&page=3)
 
@@ -118,7 +118,7 @@ Just stick with it till the end, the punch line is .. hehe
 
 </div>
 
-<div class="post" data-post-id="14222" data-author="Akasha" data-date="2006-09-22T06:03:55+00:00">
+<div class="post" data-post-id="14222" data-author="Akasha" data-date="2006-09-22T06:03:55+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.consumptionjunction.com/cont ... e=1&page=4">http://www.consumptionjunction.com/content/detail.asp?ID=60900&type=1&page=4</LINK_TEXT>](http://www.consumptionjunction.com/content/detail.asp?ID=60900&type=1&page=4)
 
@@ -126,7 +126,7 @@ om F g is all i can say
 
 </div>
 
-<div class="post" data-post-id="14223" data-author="Akasha" data-date="2006-09-22T06:26:53+00:00">
+<div class="post" data-post-id="14223" data-author="Akasha" data-date="2006-09-22T06:26:53+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.consumptionjunction.com/cont ... e=1&page=6">http://www.consumptionjunction.com/content/detail.asp?ID=60703&type=1&page=6</LINK_TEXT>](http://www.consumptionjunction.com/content/detail.asp?ID=60703&type=1&page=6)
 
@@ -136,7 +136,7 @@ Now I want to hear a reporter ask him the question on everyone's mind... was it 
 
 </div>
 
-<div class="post" data-post-id="14224" data-author="Akasha" data-date="2006-09-22T06:29:50+00:00">
+<div class="post" data-post-id="14224" data-author="Akasha" data-date="2006-09-22T06:29:50+00:00" data-subject="">
 
 ok, last one for the night  :lol: make sure you turn your speakers up for this one...
 
@@ -144,7 +144,7 @@ ok, last one for the night  :lol: make sure you turn your speakers up for this o
 
 </div>
 
-<div class="post" data-post-id="14225" data-author="Akasha" data-date="2006-09-22T06:48:19+00:00">
+<div class="post" data-post-id="14225" data-author="Akasha" data-date="2006-09-22T06:48:19+00:00" data-subject="">
 
 ok, so i lied, last one honest :D
 
@@ -152,13 +152,13 @@ ok, so i lied, last one honest :D
 
 </div>
 
-<div class="post" data-post-id="14229" data-author="Diazz_Dizazter" data-date="2006-09-22T12:13:49+00:00">
+<div class="post" data-post-id="14229" data-author="Diazz_Dizazter" data-date="2006-09-22T12:13:49+00:00" data-subject="">
 
 Thats the spirit Akasha!!
 
 </div>
 
-<div class="post" data-post-id="14241" data-author="tincts" data-date="2006-09-22T23:19:17+00:00">
+<div class="post" data-post-id="14241" data-author="tincts" data-date="2006-09-22T23:19:17+00:00" data-subject="">
 
 Funny and a bit wierd.
 
@@ -166,7 +166,7 @@ Funny and a bit wierd.
 
 </div>
 
-<div class="post" data-post-id="14249" data-author="Diazz_Dizazter" data-date="2006-09-23T22:46:05+00:00">
+<div class="post" data-post-id="14249" data-author="Diazz_Dizazter" data-date="2006-09-23T22:46:05+00:00" data-subject="">
 
 Combo #5
 
@@ -174,7 +174,7 @@ Combo #5
 
 </div>
 
-<div class="post" data-post-id="14250" data-author="Diazz_Dizazter" data-date="2006-09-23T22:47:41+00:00">
+<div class="post" data-post-id="14250" data-author="Diazz_Dizazter" data-date="2006-09-23T22:47:41+00:00" data-subject="">
 
 Would be cool if I knew what all it said.
 
@@ -182,13 +182,13 @@ Would be cool if I knew what all it said.
 
 </div>
 
-<div class="post" data-post-id="14259" data-author="Yasik" data-date="2006-09-24T21:36:57+00:00">
+<div class="post" data-post-id="14259" data-author="Yasik" data-date="2006-09-24T21:36:57+00:00" data-subject="">
 
 [http://yasik.mci.kiev.ua/made_in_germany.mpg](http://yasik.mci.kiev.ua/made_in_germany.mpg)
 
 </div>
 
-<div class="post" data-post-id="14310" data-author="banedon" data-date="2006-09-26T16:54:20+00:00">
+<div class="post" data-post-id="14310" data-author="banedon" data-date="2006-09-26T16:54:20+00:00" data-subject="">
 
 Here's one that combines two great genres
 
@@ -196,7 +196,7 @@ Here's one that combines two great genres
 
 </div>
 
-<div class="post" data-post-id="14400" data-author="Corinn" data-date="2006-10-01T02:43:33+00:00">
+<div class="post" data-post-id="14400" data-author="Corinn" data-date="2006-10-01T02:43:33+00:00" data-subject="">
 
 enjoy!
 
@@ -204,7 +204,7 @@ enjoy!
 
 </div>
 
-<div class="post" data-post-id="14402" data-author="Corinn" data-date="2006-10-01T02:55:25+00:00">
+<div class="post" data-post-id="14402" data-author="Corinn" data-date="2006-10-01T02:55:25+00:00" data-subject="">
 
 and another one...
 
@@ -212,7 +212,7 @@ and another one...
 
 </div>
 
-<div class="post" data-post-id="14566" data-author="brady" data-date="2006-10-06T17:50:43+00:00">
+<div class="post" data-post-id="14566" data-author="brady" data-date="2006-10-06T17:50:43+00:00" data-subject="">
 
 Monkeys, the rest suck.
 
@@ -220,19 +220,19 @@ Monkeys, the rest suck.
 
 </div>
 
-<div class="post" data-post-id="14567" data-author="Alberich" data-date="2006-10-06T19:35:12+00:00">
+<div class="post" data-post-id="14567" data-author="Alberich" data-date="2006-10-06T19:35:12+00:00" data-subject="">
 
 [url:3jjlqma5]http://tinyurl.com/nyrcx[/url:3jjlqma5]
 
 </div>
 
-<div class="post" data-post-id="14568" data-author="13" data-date="2006-10-06T23:32:40+00:00">
+<div class="post" data-post-id="14568" data-author="13" data-date="2006-10-06T23:32:40+00:00" data-subject="">
 
 the monkeys and the deadwood pancakes were good
 
 </div>
 
-<div class="post" data-post-id="14573" data-author="Shiv" data-date="2006-10-08T17:04:55+00:00">
+<div class="post" data-post-id="14573" data-author="Shiv" data-date="2006-10-08T17:04:55+00:00" data-subject="a rather interesting one...">
 
 [<LINK_TEXT text="http://www.jumpcut.com/create/edit?remi ... D49358396A">http://www.jumpcut.com/create/edit?remix_clip=C7D380C6C5AD11DA80BA16D49358396A</LINK_TEXT>](http://www.jumpcut.com/create/edit?remix_clip=C7D380C6C5AD11DA80BA16D49358396A)
 

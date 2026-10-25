@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="31225" data-author="Stab" data-date="2010-05-25T20:24:03+00:00">
+<div class="post" data-post-id="31225" data-author="Stab" data-date="2010-05-25T20:24:03+00:00" data-subject="bug reports thread">
 
 Howdy all, I can't seem to get any links to open off the main page.
 
@@ -24,7 +24,7 @@ Stab.
 
 </div>
 
-<div class="post" data-post-id="31228" data-author="*Breeze*" data-date="2010-05-26T09:02:49+00:00">
+<div class="post" data-post-id="31228" data-author="*Breeze*" data-date="2010-05-26T09:02:49+00:00" data-subject="Re: bug reports thread">
 
 i am not sure why you cant open the links.  the left side menu is javascript.  do you have javascript disabled ?
 
@@ -40,13 +40,13 @@ Google Chrome  (has css rendering issues)
 
 </div>
 
-<div class="post" data-post-id="31229" data-author="Tuck" data-date="2010-05-26T13:19:26+00:00">
+<div class="post" data-post-id="31229" data-author="Tuck" data-date="2010-05-26T13:19:26+00:00" data-subject="Re: bug reports thread">
 
 Tested with Opera 9 - working good.
 
 </div>
 
-<div class="post" data-post-id="31230" data-author="Stab" data-date="2010-05-26T23:43:32+00:00">
+<div class="post" data-post-id="31230" data-author="Stab" data-date="2010-05-26T23:43:32+00:00" data-subject="Re: bug reports thread">
 
 Yes javascript is enabled. I've gone over many possibilties looking for a culprit. Currently I can open the crier. go figure.:) , the Pirates Clan site, Original Sloth, and Wintin.net. None of the live links nor cartography, library, quests, or site map will open. They start to open but stops and then , I see a blank amber colored template then a message stating that Internet Explorer cannot open the '' siteaddresshere''. (which matches the window url/link exacly). Then............Operation Aborted then the "cannot display webpage page" with typical diagnoses information...   check connect.. more info includes:This problem can be caused by a variety of issues, includes: 
 
@@ -68,7 +68,7 @@ I can send a screenshot.??
 
 </div>
 
-<div class="post" data-post-id="31231" data-author="*Breeze*" data-date="2010-05-27T01:41:57+00:00">
+<div class="post" data-post-id="31231" data-author="*Breeze*" data-date="2010-05-27T01:41:57+00:00" data-subject="Re: bug reports thread">
 
 benq@slothmud.org :)
 
@@ -80,7 +80,7 @@ either way will go thru template code again when i get the time.
 
 </div>
 
-<div class="post" data-post-id="31232" data-author="Stab" data-date="2010-05-27T01:57:46+00:00">
+<div class="post" data-post-id="31232" data-author="Stab" data-date="2010-05-27T01:57:46+00:00" data-subject="Re: bug reports thread">
 
 hey thanks. you really are on the stick. I tryed upping to IE 8. and ran into some issues. Apparently I don't update enough.. like very rarely. 
 
@@ -88,19 +88,19 @@ I'll get by.:)
 
 </div>
 
-<div class="post" data-post-id="31234" data-author="*Breeze*" data-date="2010-05-27T07:38:54+00:00">
+<div class="post" data-post-id="31234" data-author="*Breeze*" data-date="2010-05-27T07:38:54+00:00" data-subject="Re: bug reports thread">
 
 i would still be interested in seeing the screenshot.  i may be able to figure out whats going on and fix it, or tell you what to fix
 
 </div>
 
-<div class="post" data-post-id="31235" data-author="blackmore" data-date="2010-05-27T14:40:55+00:00">
+<div class="post" data-post-id="31235" data-author="blackmore" data-date="2010-05-27T14:40:55+00:00" data-subject="Re: bug reports thread">
 
 Just a suggestion, try clearing your cache.  It sounds like you're pulling down some wrong files.  There are very few reasons why you would be getting this problem and nobody else, so it has to be something weird with your setup.  My other standard answer is to stop using IE, it's still (even with IE8) the worst POS browser on the market, and all the other options are just as free.
 
 </div>
 
-<div class="post" data-post-id="31237" data-author="Stab" data-date="2010-05-27T18:22:56+00:00">
+<div class="post" data-post-id="31237" data-author="Stab" data-date="2010-05-27T18:22:56+00:00" data-subject="Re: bug reports thread">
 
 Good suggestion Blackmore :)  I just got IE 8 and many links open. Some still do not, like maps. I do see that EQ list is being worked on. Some links open after a couple refreshes after getting this screen first...
 
@@ -120,7 +120,7 @@ Hope they help.
 
 </div>
 
-<div class="post" data-post-id="31240" data-author="Tuck" data-date="2010-05-27T19:46:54+00:00">
+<div class="post" data-post-id="31240" data-author="Tuck" data-date="2010-05-27T19:46:54+00:00" data-subject="Re: bug reports thread">
 
 omg, you just posted photocopy of your destop!  :roll: 
 
@@ -128,7 +128,7 @@ why not just make a screenshot?
 
 </div>
 
-<div class="post" data-post-id="31241" data-author="Stab" data-date="2010-05-27T22:05:54+00:00">
+<div class="post" data-post-id="31241" data-author="Stab" data-date="2010-05-27T22:05:54+00:00" data-subject="Re: bug reports thread">
 
 I guess I was used to my old tektronix 0 scope setup for taking pictures of waveforms for documentation..
 
@@ -138,7 +138,7 @@ And one cannot save the windows popup warning like that. dont think.
 
 </div>
 
-<div class="post" data-post-id="31244" data-author="blackmore" data-date="2010-05-28T02:34:26+00:00">
+<div class="post" data-post-id="31244" data-author="blackmore" data-date="2010-05-28T02:34:26+00:00" data-subject="Re: bug reports thread">
 
 > ***Benq* wrote:**
 > Google Chrome  (has css rendering issues)
@@ -147,13 +147,13 @@ From what I'm reading, actually Chrome is the only one following the standards o
 
 </div>
 
-<div class="post" data-post-id="31247" data-author="*Breeze*" data-date="2010-05-28T04:52:25+00:00">
+<div class="post" data-post-id="31247" data-author="*Breeze*" data-date="2010-05-28T04:52:25+00:00" data-subject="Re: bug reports thread">
 
 *should* be fixed thanks to blackmore
 
 </div>
 
-<div class="post" data-post-id="31255" data-author="Stab" data-date="2010-05-28T19:14:30+00:00">
+<div class="post" data-post-id="31255" data-author="Stab" data-date="2010-05-28T19:14:30+00:00" data-subject="Re: bug reports thread">
 
 Maybe  I'll try again to get chrome browser successfully installed. Maps are sure handy. My IE 8 is running fine in all modes every where cept here.
 
@@ -167,13 +167,13 @@ thx Tuk
 
 </div>
 
-<div class="post" data-post-id="31259" data-author="*Breeze*" data-date="2010-05-29T01:20:56+00:00">
+<div class="post" data-post-id="31259" data-author="*Breeze*" data-date="2010-05-29T01:20:56+00:00" data-subject="Re: bug reports thread">
 
 should be good now on IE
 
 </div>
 
-<div class="post" data-post-id="31260" data-author="Stab" data-date="2010-05-29T19:05:12+00:00">
+<div class="post" data-post-id="31260" data-author="Stab" data-date="2010-05-29T19:05:12+00:00" data-subject="Re: bug reports thread">
 
 Excellent, grats on a great site. Easy to navigate, lots of info.
 

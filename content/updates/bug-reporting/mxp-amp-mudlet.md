@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="39657" data-author="cnl" data-date="2021-01-04T20:42:16+00:00">
+<div class="post" data-post-id="39657" data-author="cnl" data-date="2021-01-04T20:42:16+00:00" data-subject="MXP &amp;amp; Mudlet">
 
 There is a bug where Mudlet does not display store items on list command.
 
@@ -38,7 +38,7 @@ Feature request: MSDP variable that contains room description and roomnvum. I do
 
 </div>
 
-<div class="post" data-post-id="39658" data-author="Gorka" data-date="2021-01-04T22:40:23+00:00">
+<div class="post" data-post-id="39658" data-author="Gorka" data-date="2021-01-04T22:40:23+00:00" data-subject="Re: MXP &amp;amp; Mudlet">
 
 > **cnl wrote:**
 > Feature request: MSDP variable that contains room description and roomnvum. I don't think adding it to CHARACTER_LOCATION is ideal since a lot of the time I would want to turn it off to reduce data, but sometimes I want to read the room descriptions - such as when mapping or exploring an area.
@@ -51,7 +51,7 @@ Regarding MSDP gripes... Disease often crashes the affects variable to a null va
 
 </div>
 
-<div class="post" data-post-id="39659" data-author="cnl" data-date="2021-01-05T00:06:26+00:00">
+<div class="post" data-post-id="39659" data-author="cnl" data-date="2021-01-05T00:06:26+00:00" data-subject="Re: MXP &amp;amp; Mudlet">
 
 I am aware of  msdp.CHARACTER_LOCATION.ROOM.VNUM but I was thinking we could have something like  
 
@@ -73,7 +73,7 @@ it is more a theoretical problem I guess than one that has any impact necessaril
 
 </div>
 
-<div class="post" data-post-id="39660" data-author="cnl" data-date="2021-01-05T02:00:04+00:00">
+<div class="post" data-post-id="39660" data-author="cnl" data-date="2021-01-05T02:00:04+00:00" data-subject="Re: MXP &amp;amp; Mudlet">
 
 the missing room description issue you describe with MXP is essentially the same issue btw.
 
@@ -83,7 +83,7 @@ you can see this behavior play out in the dreamweaver store (which contains a ; 
 
 </div>
 
-<div class="post" data-post-id="39661" data-author="Gorka" data-date="2021-01-05T11:24:23+00:00">
+<div class="post" data-post-id="39661" data-author="Gorka" data-date="2021-01-05T11:24:23+00:00" data-subject="Re: MXP &amp;amp; Mudlet">
 
 IIRC, there is a way to turn on the Room Num so it shows in the description part when you look in a room. I tried to remember the command but couldn't. Shatterhand/Bandit would probably know it.
 
@@ -109,19 +109,19 @@ Exits: North  West
 
 </div>
 
-<div class="post" data-post-id="39662" data-author="cnl" data-date="2021-01-05T17:36:56+00:00">
+<div class="post" data-post-id="39662" data-author="cnl" data-date="2021-01-05T17:36:56+00:00" data-subject="Re: MXP &amp;amp; Mudlet">
 
 that works. thanks
 
 </div>
 
-<div class="post" data-post-id="40193" data-author="*teker*" data-date="2025-07-14T03:56:16+00:00">
+<div class="post" data-post-id="40193" data-author="*teker*" data-date="2025-07-14T03:56:16+00:00" data-subject="Re: MXP &amp;amp; Mudlet">
 
 The shop listing MXP issue should be fixed at next reboot.
 
 </div>
 
-<div class="post" data-post-id="40195" data-author="cnl" data-date="2025-07-31T01:40:39+00:00">
+<div class="post" data-post-id="40195" data-author="cnl" data-date="2025-07-31T01:40:39+00:00" data-subject="Re: MXP &amp;amp; Mudlet">
 
 I tested this and it does appear fixed. thanks!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="34863" data-author="DarkArtist" data-date="2014-02-14T00:59:36+00:00">
+<div class="post" data-post-id="34863" data-author="DarkArtist" data-date="2014-02-14T00:59:36+00:00" data-subject="Some beginner mudlet help.">
 
 Please post any newbie mudlet questions you have here. This is in response to a request for help ingame.
 
@@ -56,7 +56,7 @@ I won't get into explaining the splitting as it could probably be done better no
 
 </div>
 
-<div class="post" data-post-id="34866" data-author="DarkArtist" data-date="2014-02-15T13:43:09+00:00">
+<div class="post" data-post-id="34866" data-author="DarkArtist" data-date="2014-02-15T13:43:09+00:00" data-subject="Re: Some beginner mudlet help.">
 
 Another one by request. For tracking:
 
@@ -80,7 +80,7 @@ Tracking flag is nonessential of course but can be useful depending on what you'
 
 </div>
 
-<div class="post" data-post-id="34868" data-author="DarkArtist" data-date="2014-02-15T15:02:04+00:00">
+<div class="post" data-post-id="34868" data-author="DarkArtist" data-date="2014-02-15T15:02:04+00:00" data-subject="Re: Some beginner mudlet help.">
 
 Here is some help getting getmsdpvars setup correctly. There are some issues with the other thread that discusses it.
 
@@ -122,7 +122,7 @@ Previously I advised tacking this on the event msdpserver_id. This was a bad mis
 
 </div>
 
-<div class="post" data-post-id="34869" data-author="DarkArtist" data-date="2014-02-15T15:08:52+00:00">
+<div class="post" data-post-id="34869" data-author="DarkArtist" data-date="2014-02-15T15:08:52+00:00" data-subject="Re: Some beginner mudlet help.">
 
 Script name: updateOppHealth()
 
@@ -162,7 +162,7 @@ fighting=fighting or false
 
 </div>
 
-<div class="post" data-post-id="34902" data-author="Maarg" data-date="2014-03-11T09:04:58+00:00">
+<div class="post" data-post-id="34902" data-author="Maarg" data-date="2014-03-11T09:04:58+00:00" data-subject="Re: Some beginner mudlet help.">
 
 I've got an error when trying your track addon:
 
@@ -172,7 +172,7 @@ Lua error:[string "send("track "..target)"]:1: attempt to concatenate global
 
 </div>
 
-<div class="post" data-post-id="34903" data-author="DarkArtist" data-date="2014-03-11T12:40:43+00:00">
+<div class="post" data-post-id="34903" data-author="DarkArtist" data-date="2014-03-11T12:40:43+00:00" data-subject="Re: Some beginner mudlet help.">
 
 Usually that means you didn't define the variable. 
 
@@ -186,7 +186,7 @@ This way if the variable is already defined then it's value does not change shou
 
 </div>
 
-<div class="post" data-post-id="34904" data-author="DarkArtist" data-date="2014-03-11T12:44:25+00:00">
+<div class="post" data-post-id="34904" data-author="DarkArtist" data-date="2014-03-11T12:44:25+00:00" data-subject="Re: Some beginner mudlet help.">
 
 Another by request:
 
@@ -226,7 +226,7 @@ if autoKick==true then send("kick") end
 
 </div>
 
-<div class="post" data-post-id="34908" data-author="DarkArtist" data-date="2014-03-13T11:58:56+00:00">
+<div class="post" data-post-id="34908" data-author="DarkArtist" data-date="2014-03-13T11:58:56+00:00" data-subject="Re: Some beginner mudlet help.">
 
 Someone asked about autohealing the tank. There's 3 ways one could go about it: a timer that checks tank health every x seconds, a check in updateTankHealth, or a trigger off the tanks reporter.
 
@@ -240,7 +240,7 @@ Feel free to disagree. Can post the setup of any of these 3 methods on request. 
 
 </div>
 
-<div class="post" data-post-id="35456" data-author="Unsub" data-date="2014-10-17T20:18:39+00:00">
+<div class="post" data-post-id="35456" data-author="Unsub" data-date="2014-10-17T20:18:39+00:00" data-subject="Re: Some beginner mudlet help.">
 
 >> First define your global target variable. Outside of functions, all of your variables are global vars and **have to be defined in a script**. In this case make a script and name it Main Definitions or something like that.
 
@@ -254,7 +254,7 @@ Alias's seem to call code from input, triggers call code from mud input, what do
 
 </div>
 
-<div class="post" data-post-id="35457" data-author="DarkArtist" data-date="2014-10-18T08:09:13+00:00">
+<div class="post" data-post-id="35457" data-author="DarkArtist" data-date="2014-10-18T08:09:13+00:00" data-subject="Re: Some beginner mudlet help.">
 
 scripts all load up at start and remain there. They define variables and functions.
 
@@ -266,7 +266,7 @@ User defined events are something different. Leave it blank. I don't use them pe
 
 </div>
 
-<div class="post" data-post-id="35583" data-author="Tsuman" data-date="2014-12-27T00:20:58+00:00">
+<div class="post" data-post-id="35583" data-author="Tsuman" data-date="2014-12-27T00:20:58+00:00" data-subject="Re: Some beginner mudlet help.">
 
 Alright, trying to make triggers for the coliseum. my problem is, as a noncaster monk, ether mobs. specifically "A giant ethereal ant". My current script is this:
 
@@ -290,7 +290,7 @@ However, with this setup, things like "A giant ethereal ant" and "An undead octo
 
 </div>
 
-<div class="post" data-post-id="35585" data-author="*juggleblood*" data-date="2014-12-27T00:35:46+00:00">
+<div class="post" data-post-id="35585" data-author="*juggleblood*" data-date="2014-12-27T00:35:46+00:00" data-subject="Re: Some beginner mudlet help.">
 
 one simple way to adjust it would be:
 
@@ -304,7 +304,7 @@ matches[2]=ant
 
 </div>
 
-<div class="post" data-post-id="35586" data-author="parsec" data-date="2014-12-27T01:10:20+00:00">
+<div class="post" data-post-id="35586" data-author="parsec" data-date="2014-12-27T01:10:20+00:00" data-subject="Re: Some beginner mudlet help.">
 
 Tsuman, here's how I'm testing the regex.
 
@@ -342,7 +342,7 @@ Now that I know my trigger works, I change it back to this:
 
 </div>
 
-<div class="post" data-post-id="35587" data-author="Tsuman" data-date="2014-12-27T01:16:39+00:00">
+<div class="post" data-post-id="35587" data-author="Tsuman" data-date="2014-12-27T01:16:39+00:00" data-subject="Re: Some beginner mudlet help.">
 
 I appreciate the help from everyone, and I'm sorry if i'm just retarded and that's why it's not working lol here's what I have...
 
@@ -370,7 +370,7 @@ And the trigger doesn't fire. It does literally nothing. I did this with 8 diffe
 
 </div>
 
-<div class="post" data-post-id="35588" data-author="parsec" data-date="2014-12-27T01:25:24+00:00">
+<div class="post" data-post-id="35588" data-author="parsec" data-date="2014-12-27T01:25:24+00:00" data-subject="Re: Some beginner mudlet help.">
 
 Change your stuff to this:
 
@@ -390,7 +390,7 @@ end
 
 </div>
 
-<div class="post" data-post-id="35589" data-author="abraxsis" data-date="2014-12-27T01:27:54+00:00">
+<div class="post" data-post-id="35589" data-author="abraxsis" data-date="2014-12-27T01:27:54+00:00" data-subject="Re: Some beginner mudlet help.">
 
 > **Tsuman wrote:**
 > if matches[2] == "ant" then
@@ -421,7 +421,7 @@ I noticed you have matches [2] at the beginning and matches [3] later on, if im 
 
 </div>
 
-<div class="post" data-post-id="35591" data-author="*juggleblood*" data-date="2014-12-27T04:30:16+00:00">
+<div class="post" data-post-id="35591" data-author="*juggleblood*" data-date="2014-12-27T04:30:16+00:00" data-subject="Re: Some beginner mudlet help.">
 
 > **Tsuman wrote:**
 > if matches[2] == "ant" then

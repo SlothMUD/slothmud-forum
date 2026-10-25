@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="36542" data-author="*teker*" data-date="2016-01-25T16:53:43+00:00">
+<div class="post" data-post-id="36542" data-author="*teker*" data-date="2016-01-25T16:53:43+00:00" data-subject="Changelog 2016-01-25 (vault news)">
 
 First the smaller stuff:
 
@@ -44,19 +44,19 @@ All new houses will be constructed with the new code.  I can (and would like to)
 
 </div>
 
-<div class="post" data-post-id="36543" data-author="cyprimus" data-date="2016-01-25T17:15:48+00:00">
+<div class="post" data-post-id="36543" data-author="cyprimus" data-date="2016-01-25T17:15:48+00:00" data-subject="Re: Changelog 2016-01-25 (vault news)">
 
 Do we convert one vault at a time?  I have too many to possibly carry all of the content..even for just one continent at a time..
 
 </div>
 
-<div class="post" data-post-id="36544" data-author="*teker*" data-date="2016-01-25T17:22:17+00:00">
+<div class="post" data-post-id="36544" data-author="*teker*" data-date="2016-01-25T17:22:17+00:00" data-subject="Re: Changelog 2016-01-25 (vault news)">
 
 I upgrade one room at a time so we can withdraw, upgrade, deposit, repeat.
 
 </div>
 
-<div class="post" data-post-id="36545" data-author="cyprimus" data-date="2016-01-25T17:24:52+00:00">
+<div class="post" data-post-id="36545" data-author="cyprimus" data-date="2016-01-25T17:24:52+00:00" data-subject="Re: Changelog 2016-01-25 (vault news)">
 
 Great! 
 
@@ -64,13 +64,13 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="36550" data-author="cyprimus" data-date="2016-01-26T19:58:35+00:00">
+<div class="post" data-post-id="36550" data-author="cyprimus" data-date="2016-01-26T19:58:35+00:00" data-subject="Re: Changelog 2016-01-25 (vault news)">
 
 Oh, other question... on eq sets... will they carryover between alts?  Will we need to create alt trees? or just set up eq for each alt separately?
 
 </div>
 
-<div class="post" data-post-id="36554" data-author="*teker*" data-date="2016-01-26T23:42:49+00:00">
+<div class="post" data-post-id="36554" data-author="*teker*" data-date="2016-01-26T23:42:49+00:00" data-subject="Re: Changelog 2016-01-25 (vault news)">
 
 Equipment sets are unique per character.  There is no facility to share them between characters.
 
@@ -78,7 +78,7 @@ I should be in tomorrow to start on vault upgrades.  I've noticed something that
 
 </div>
 
-<div class="post" data-post-id="36555" data-author="Yasik" data-date="2016-01-27T09:58:05+00:00">
+<div class="post" data-post-id="36555" data-author="Yasik" data-date="2016-01-27T09:58:05+00:00" data-subject="Re: Changelog 2016-01-25 (vault news)">
 
 > ***teker* wrote:**
 > I've noticed something that I want to change regarding keyless entry...
@@ -87,13 +87,13 @@ Will there be reimbursements? We pay 1 million coins per key.
 
 </div>
 
-<div class="post" data-post-id="36558" data-author="*teker*" data-date="2016-01-27T15:47:02+00:00">
+<div class="post" data-post-id="36558" data-author="*teker*" data-date="2016-01-27T15:47:02+00:00" data-subject="Re: Changelog 2016-01-25 (vault news)">
 
 I'm not giving out coins during the upgrades, if that's what you're asking.  If a vault already has say recall or keyless entry enabled, I'll make sure the features are enabled after the upgrade without any extra charges.  Keys are still useful for vaults with keyless entry - they're the only free way to let others in the vault.
 
 </div>
 
-<div class="post" data-post-id="36570" data-author="*teker*" data-date="2016-02-01T20:59:50+00:00">
+<div class="post" data-post-id="36570" data-author="*teker*" data-date="2016-02-01T20:59:50+00:00" data-subject="Re: Changelog 2016-01-25 (vault news)">
 
 The new customizable vault messages went in this morning so you can modify the strings when teleporting in and out of the vault using keyless entry and/or say recall.  You can see the options on the wiki or by typing HOUSE LIST <recall|keyless>.  It should go without saying (but I'm saying it anyway) that messages displayed in common areas (outside the vault) should be tasteful and in a similar theme to the game.  
 
@@ -109,7 +109,7 @@ Any other clan leaders want to speak up on this topic?
 
 </div>
 
-<div class="post" data-post-id="36571" data-author="*Breeze*" data-date="2016-02-02T00:02:26+00:00">
+<div class="post" data-post-id="36571" data-author="*Breeze*" data-date="2016-02-02T00:02:26+00:00" data-subject="Re: Changelog 2016-01-25 (vault news)">
 
 "officially" there is no such thing as clan vaults.
 

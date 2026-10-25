@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="1576" data-author="fresh" data-date="2004-08-24T22:57:17+00:00">
+<div class="post" data-post-id="1576" data-author="fresh" data-date="2004-08-24T22:57:17+00:00" data-subject="Vault clearance. Check chopping block">
 
 Vault clearance. Check chopping block
 
 </div>
 
-<div class="post" data-post-id="1579" data-author="fresh" data-date="2004-08-25T04:00:02+00:00">
+<div class="post" data-post-id="1579" data-author="fresh" data-date="2004-08-25T04:00:02+00:00" data-subject="In addition">
 
 In addition, right now i'm looking for some eq. like
 

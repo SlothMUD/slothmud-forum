@@ -10,13 +10,13 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="35239" data-author="Hung" data-date="2014-06-11T10:08:39+00:00">
+<div class="post" data-post-id="35239" data-author="Hung" data-date="2014-06-11T10:08:39+00:00" data-subject="Who pops song of Ebisu?">
 
 The eqlist doesnt answer this question.
 
 </div>
 
-<div class="post" data-post-id="35242" data-author="Hung" data-date="2014-06-14T08:29:19+00:00">
+<div class="post" data-post-id="35242" data-author="Hung" data-date="2014-06-14T08:29:19+00:00" data-subject="Re: Who pops song of Ebisu?">
 
 It was revealed that the Song of Ebisu was popped by largemouth bass at the Crystal Falls. I've cycled it for a few days without any luck. Then I found out that the area has been changed recently. Now largemouth basses don't leave corpses on death:
 
@@ -32,7 +32,7 @@ Dear imms, please, confirm that the Song of Ebisu(which is cp for prime bard son
 
 </div>
 
-<div class="post" data-post-id="35245" data-author="Hung" data-date="2014-06-14T19:38:47+00:00">
+<div class="post" data-post-id="35245" data-author="Hung" data-date="2014-06-14T19:38:47+00:00" data-subject="Re: Who pops song of Ebisu?">
 
 I've wealth & gloried song-ebisu at Crystal Falls and got following result: "'I think [on ground] had one of those!'"
 

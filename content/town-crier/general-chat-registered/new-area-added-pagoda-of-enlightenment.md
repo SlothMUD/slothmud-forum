@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="33254" data-author="Shyla" data-date="2012-04-02T06:05:49+00:00">
+<div class="post" data-post-id="33254" data-author="Shyla" data-date="2012-04-02T06:05:49+00:00" data-subject="new area added Pagoda of Enlightenment">
 
 Pixie's new area Pagoda of Enlightenment was added on april 1, 2012
 
@@ -30,7 +30,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="33255" data-author="Shyla" data-date="2012-04-02T17:46:28+00:00">
+<div class="post" data-post-id="33255" data-author="Shyla" data-date="2012-04-02T17:46:28+00:00" data-subject="Re: new area added Pagoda of Enlightenment">
 
 Blackmore gave me this thought i would post it for you all
 
@@ -54,7 +54,7 @@ found in the land!
 
 </div>
 
-<div class="post" data-post-id="33257" data-author="Nyx" data-date="2012-04-02T23:56:15+00:00">
+<div class="post" data-post-id="33257" data-author="Nyx" data-date="2012-04-02T23:56:15+00:00" data-subject="Re: new area added Pagoda of Enlightenment">
 
 We popped this off Kubera yesterday:
 
@@ -76,7 +76,7 @@ this item.
 
 </div>
 
-<div class="post" data-post-id="33258" data-author="Shyla" data-date="2012-04-03T18:01:43+00:00">
+<div class="post" data-post-id="33258" data-author="Shyla" data-date="2012-04-03T18:01:43+00:00" data-subject="Re: new area added Pagoda of Enlightenment">
 
 strip of turquoise cloth pops on hayagriva
 
@@ -102,13 +102,13 @@ warrior who has attained supremacy in at least six classes.
 
 </div>
 
-<div class="post" data-post-id="33259" data-author="*Pixie*" data-date="2012-04-05T23:08:26+00:00">
+<div class="post" data-post-id="33259" data-author="*Pixie*" data-date="2012-04-05T23:08:26+00:00" data-subject="Re: new area added Pagoda of Enlightenment">
 
 There will be a few changes, the forge note for the Gauntlets will be changed slightly, seems I forgot a CP! The forge itself has been changed already.  I will be on later working on the forge note.  Also, the Stats on the bracelet will be changing slightly so that people will want to forge it.  I might post the added line to the forge note later when I change it :P
 
 </div>
 
-<div class="post" data-post-id="33261" data-author="Cizin" data-date="2012-04-08T17:03:43+00:00">
+<div class="post" data-post-id="33261" data-author="Cizin" data-date="2012-04-08T17:03:43+00:00" data-subject="Re: new area added Pagoda of Enlightenment">
 
 Object 'boots yak fur', Item type: ARMOR
 
@@ -148,7 +148,7 @@ Like eq names. Not sure who would use it tho.
 
 </div>
 
-<div class="post" data-post-id="33262" data-author="*Pixie*" data-date="2012-04-09T06:44:28+00:00">
+<div class="post" data-post-id="33262" data-author="*Pixie*" data-date="2012-04-09T06:44:28+00:00" data-subject="Re: new area added Pagoda of Enlightenment">
 
 > **Shyla wrote:**
 > strip of turquoise cloth pops on hayagriva
@@ -189,7 +189,7 @@ warrior who has attained supremacy in at least six classes.
 
 </div>
 
-<div class="post" data-post-id="33263" data-author="Cizin" data-date="2012-04-09T09:58:48+00:00">
+<div class="post" data-post-id="33263" data-author="Cizin" data-date="2012-04-09T09:58:48+00:00" data-subject="Re: new area added Pagoda of Enlightenment">
 
 I tried to compare a few items found there with existing eq and found result really confusing:
 

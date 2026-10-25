@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="6135" data-author="guest" data-date="2005-05-13T15:14:55+00:00">
+<div class="post" data-post-id="6135" data-author="guest" data-date="2005-05-13T15:14:55+00:00" data-subject="Some minor changes in practice">
 
 Hi all .. 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39958" data-author="Insomnia" data-date="2022-06-29T10:02:08+00:00">
+<div class="post" data-post-id="39958" data-author="Insomnia" data-date="2022-06-29T10:02:08+00:00" data-subject="Omnimental can die from its own area attack">
 
 ```
 You brutally massacre An Omnimental with your cleave.

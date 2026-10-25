@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="27517" data-author="Brujah" data-date="2008-12-23T14:57:53+00:00">
+<div class="post" data-post-id="27517" data-author="Brujah" data-date="2008-12-23T14:57:53+00:00" data-subject="Secrets of a Monk">
 
 A man is driving down the road and his car breaks down near a monastery.
 
@@ -50,13 +50,13 @@ But, of course, I canâ€™t tell you what it is because youâ€™re not a m
 
 </div>
 
-<div class="post" data-post-id="27519" data-author="Weasel" data-date="2008-12-23T16:21:18+00:00">
+<div class="post" data-post-id="27519" data-author="Weasel" data-date="2008-12-23T16:21:18+00:00" data-subject="">
 
 lol you bugger.
 
 </div>
 
-<div class="post" data-post-id="27520" data-author="Yasik2" data-date="2008-12-23T16:40:18+00:00">
+<div class="post" data-post-id="27520" data-author="Yasik2" data-date="2008-12-23T16:40:18+00:00" data-subject="">
 
 I'll try to bring some meaning in this thread.[/color:1elvif76]
 
@@ -64,7 +64,7 @@ I'll try to bring some meaning in this thread.[/color:1elvif76]
 
 </div>
 
-<div class="post" data-post-id="27521" data-author="Rovena" data-date="2008-12-23T17:32:37+00:00">
+<div class="post" data-post-id="27521" data-author="Rovena" data-date="2008-12-23T17:32:37+00:00" data-subject="">
 
 Maybe these guys can help
 
@@ -72,13 +72,13 @@ Maybe these guys can help
 
 </div>
 
-<div class="post" data-post-id="27524" data-author="threadtroll" data-date="2008-12-24T15:11:26+00:00">
+<div class="post" data-post-id="27524" data-author="threadtroll" data-date="2008-12-24T15:11:26+00:00" data-subject="">
 
 we have a thread for this already, a$$h0l3.  it's called post a random joke.
 
 </div>
 
-<div class="post" data-post-id="27525" data-author="Yasik2" data-date="2008-12-24T16:59:25+00:00">
+<div class="post" data-post-id="27525" data-author="Yasik2" data-date="2008-12-24T16:59:25+00:00" data-subject="">
 
 GTFO ! This is MY domain ![/color:3exqmqri]
 
@@ -86,13 +86,13 @@ GTFO ! This is MY domain ![/color:3exqmqri]
 
 </div>
 
-<div class="post" data-post-id="27529" data-author="threadtroll" data-date="2008-12-25T01:23:57+00:00">
+<div class="post" data-post-id="27529" data-author="threadtroll" data-date="2008-12-25T01:23:57+00:00" data-subject="">
 
 epic fail.  the spray didn't work on you, either.  try again.  oh and btw, there is a thread for posting pics here as well.  it's called post a random pic.  or should i start a new thread called RTFM?
 
 </div>
 
-<div class="post" data-post-id="27530" data-author="Yasik2" data-date="2008-12-25T01:55:12+00:00">
+<div class="post" data-post-id="27530" data-author="Yasik2" data-date="2008-12-25T01:55:12+00:00" data-subject="">
 
 epic fail.  the spray didn't work on you, either.  try again.  oh and btw, there is a thread for posting pics here as well.  it's called post a random pic.  or should i start a new thread called RTFM?[/quote:1rknrpgc]
 
@@ -104,7 +104,7 @@ Sad, i thought i finally found a decent opponent...
 
 </div>
 
-<div class="post" data-post-id="27534" data-author="threadtroll" data-date="2008-12-25T05:16:32+00:00">
+<div class="post" data-post-id="27534" data-author="threadtroll" data-date="2008-12-25T05:16:32+00:00" data-subject="">
 
 You're a fake.[/quote:103tzio1]
 
@@ -116,7 +116,7 @@ p.s.  i didn't START the thread.  i just threatened to.
 
 </div>
 
-<div class="post" data-post-id="27535" data-author="Yasik2" data-date="2008-12-25T07:29:03+00:00">
+<div class="post" data-post-id="27535" data-author="Yasik2" data-date="2008-12-25T07:29:03+00:00" data-subject="">
 
 wow.  i must have touched a nerve there.  apparently you're not as secure with your position as the only troll in town as you would have everyone believe.  let's see if i stick around to bother with "challenging" you.  as if.  let's see if you're worth my time.
 
@@ -136,7 +136,7 @@ For now, a first test: try to get banned and only if you'll succeed i will conti
 
 </div>
 
-<div class="post" data-post-id="27536" data-author="Yasik2" data-date="2008-12-25T08:37:54+00:00">
+<div class="post" data-post-id="27536" data-author="Yasik2" data-date="2008-12-25T08:37:54+00:00" data-subject="">
 
 Oh, almost forgot ![/color:1fhqmhas]
 

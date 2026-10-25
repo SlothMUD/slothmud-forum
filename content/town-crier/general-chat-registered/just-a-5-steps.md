@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="8115" data-author="Zam" data-date="2005-07-31T20:52:54+00:00">
+<div class="post" data-post-id="8115" data-author="Zam" data-date="2005-07-31T20:52:54+00:00" data-subject="just a 5 steps!">
 
 STEP 1.
 
@@ -160,7 +160,7 @@ with luv , your favourite Pink Demoness , Shake
 
 </div>
 
-<div class="post" data-post-id="8116" data-author="Avatar" data-date="2005-08-01T01:10:05+00:00">
+<div class="post" data-post-id="8116" data-author="Avatar" data-date="2005-08-01T01:10:05+00:00" data-subject="Gotta love those scary ones!!">
 
 Lolth sees Plato, and screams in terror!
 

@@ -10,25 +10,25 @@ locked: false
 post_count: 33
 ---
 
-<div class="post" data-post-id="17875" data-author="kjartan" data-date="2007-04-10T02:33:32+00:00">
+<div class="post" data-post-id="17875" data-author="kjartan" data-date="2007-04-10T02:33:32+00:00" data-subject="Pthieving">
 
 We have disabled pthieving for the moment.  If we decide to turn it back on, we'll let you know.
 
 </div>
 
-<div class="post" data-post-id="17876" data-author="Leaf" data-date="2007-04-10T02:40:04+00:00">
+<div class="post" data-post-id="17876" data-author="Leaf" data-date="2007-04-10T02:40:04+00:00" data-subject="">
 
 DANG!!!
 
 </div>
 
-<div class="post" data-post-id="17877" data-author="tincts" data-date="2007-04-10T02:53:04+00:00">
+<div class="post" data-post-id="17877" data-author="tincts" data-date="2007-04-10T02:53:04+00:00" data-subject="">
 
 I'll be disappointed if they remove it for good - I hate it, but it makes for some great arguements  :D
 
 </div>
 
-<div class="post" data-post-id="17878" data-author="Poolp" data-date="2007-04-10T03:19:27+00:00">
+<div class="post" data-post-id="17878" data-author="Poolp" data-date="2007-04-10T03:19:27+00:00" data-subject="">
 
 If this continues on for a long period of time, will I be able to use Starbuck and Stella as normal characters again? I think it would be fair that way since if pthieving is not allowed, pkilling shouldn't be either.
 
@@ -36,7 +36,7 @@ Oh well, something tells me pthieving is never going to be a part of this MUD ag
 
 </div>
 
-<div class="post" data-post-id="17879" data-author="12345" data-date="2007-04-10T04:00:22+00:00">
+<div class="post" data-post-id="17879" data-author="12345" data-date="2007-04-10T04:00:22+00:00" data-subject="">
 
 Thanks!
 
@@ -44,7 +44,7 @@ It'll be worth it just to watch Weasel die of shock :)
 
 </div>
 
-<div class="post" data-post-id="17880" data-author="Weasel" data-date="2007-04-10T04:33:13+00:00">
+<div class="post" data-post-id="17880" data-author="Weasel" data-date="2007-04-10T04:33:13+00:00" data-subject="">
 
 omigod!  :shock:  omigod!  
 
@@ -56,19 +56,19 @@ Thanks KJ and presumably Splork and the rest of the immort crew for this change 
 
 </div>
 
-<div class="post" data-post-id="17881" data-author="Zam" data-date="2007-04-10T05:52:41+00:00">
+<div class="post" data-post-id="17881" data-author="Zam" data-date="2007-04-10T05:52:41+00:00" data-subject="">
 
 rest in peace , slothmud
 
 </div>
 
-<div class="post" data-post-id="17882" data-author="Messiaen" data-date="2007-04-10T06:16:40+00:00">
+<div class="post" data-post-id="17882" data-author="Messiaen" data-date="2007-04-10T06:16:40+00:00" data-subject="">
 
 +1
 
 </div>
 
-<div class="post" data-post-id="17883" data-author="slobe" data-date="2007-04-10T06:40:13+00:00">
+<div class="post" data-post-id="17883" data-author="slobe" data-date="2007-04-10T06:40:13+00:00" data-subject="">
 
 I for one would like to say thanks :)
 
@@ -80,7 +80,7 @@ The past :p. But really thanks again I can change my eq in group now :)
 
 </div>
 
-<div class="post" data-post-id="17884" data-author="Shazuko" data-date="2007-04-10T07:00:51+00:00">
+<div class="post" data-post-id="17884" data-author="Shazuko" data-date="2007-04-10T07:00:51+00:00" data-subject="">
 
 In conjunction with this change, (I feel that) Chaos areas/zones should be exempt from this, and always have it 'on'...(possibly arenas as well)...as far as when/where it will be turned on in normal game play(if ever) is another tangent...
 
@@ -96,7 +96,7 @@ Chaos is the score upon which reality is written.    --Henry Miller
 
 </div>
 
-<div class="post" data-post-id="17885" data-author="*juggleblood*" data-date="2007-04-10T09:28:13+00:00">
+<div class="post" data-post-id="17885" data-author="*juggleblood*" data-date="2007-04-10T09:28:13+00:00" data-subject="">
 
 Awesome :!: 
 
@@ -120,7 +120,7 @@ I guess we should just let bygones be bygones since pthieving is apparently no l
 
 </div>
 
-<div class="post" data-post-id="17886" data-author="Ah_Puch" data-date="2007-04-10T10:30:05+00:00">
+<div class="post" data-post-id="17886" data-author="Ah_Puch" data-date="2007-04-10T10:30:05+00:00" data-subject="Jugglebuttmunch">
 
 Juggleblood writes:
 
@@ -132,13 +132,13 @@ Allow me to re-iterate, Mystery never owned,doesn't own, doesn't know who Hades 
 
 </div>
 
-<div class="post" data-post-id="17887" data-author="Jag" data-date="2007-04-10T12:10:56+00:00">
+<div class="post" data-post-id="17887" data-author="Jag" data-date="2007-04-10T12:10:56+00:00" data-subject="">
 
 Thanks!
 
 </div>
 
-<div class="post" data-post-id="17888" data-author="13" data-date="2007-04-10T12:35:21+00:00">
+<div class="post" data-post-id="17888" data-author="13" data-date="2007-04-10T12:35:21+00:00" data-subject="">
 
 Couple things to say, first of all congratulations whiners.
 
@@ -156,7 +156,7 @@ Later folks, lemme know when Sloth4 is up so I can race again.
 
 </div>
 
-<div class="post" data-post-id="17890" data-author="brand" data-date="2007-04-10T15:08:57+00:00">
+<div class="post" data-post-id="17890" data-author="brand" data-date="2007-04-10T15:08:57+00:00" data-subject="">
 
 nice!
 
@@ -166,13 +166,13 @@ go sloth!
 
 </div>
 
-<div class="post" data-post-id="17891" data-author="brady" data-date="2007-04-10T16:55:14+00:00">
+<div class="post" data-post-id="17891" data-author="brady" data-date="2007-04-10T16:55:14+00:00" data-subject="">
 
 If this is going to be replaced by eq randomly degrading and poofing, then I vote for the return of pthieves.
 
 </div>
 
-<div class="post" data-post-id="17892" data-author="Mosaix" data-date="2007-04-10T16:59:15+00:00">
+<div class="post" data-post-id="17892" data-author="Mosaix" data-date="2007-04-10T16:59:15+00:00" data-subject="">
 
 If any clan members of DoW are bored, they are more than welcome to help me pop the required comps to finish a flux of dreams.
 
@@ -190,13 +190,13 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="17893" data-author="13" data-date="2007-04-10T17:36:50+00:00">
+<div class="post" data-post-id="17893" data-author="13" data-date="2007-04-10T17:36:50+00:00" data-subject="">
 
 psych!
 
 </div>
 
-<div class="post" data-post-id="17894" data-author="Blastard" data-date="2007-04-10T17:53:57+00:00">
+<div class="post" data-post-id="17894" data-author="Blastard" data-date="2007-04-10T17:53:57+00:00" data-subject="">
 
 [quote:3vsfi12f]Oh and why is Shazuko trying to negotiate with the imms in favor of more pthieving?[/quote:3vsfi12f]
 
@@ -240,7 +240,7 @@ Blastard
 
 </div>
 
-<div class="post" data-post-id="17895" data-author="Weasel" data-date="2007-04-10T21:28:38+00:00">
+<div class="post" data-post-id="17895" data-author="Weasel" data-date="2007-04-10T21:28:38+00:00" data-subject="">
 
 Good to see Dot back on this afternoon after a long break :)
 
@@ -248,7 +248,7 @@ Good to see Dot back on this afternoon after a long break :)
 
 </div>
 
-<div class="post" data-post-id="17896" data-author="Medios" data-date="2007-04-10T22:04:03+00:00">
+<div class="post" data-post-id="17896" data-author="Medios" data-date="2007-04-10T22:04:03+00:00" data-subject="">
 
 [quote:2qbgf56e]Aren't you also Firebrand's ex Blastard?[/quote:2qbgf56e]
 
@@ -262,7 +262,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17897" data-author="firebrand" data-date="2007-04-11T04:02:52+00:00">
+<div class="post" data-post-id="17897" data-author="firebrand" data-date="2007-04-11T04:02:52+00:00" data-subject="">
 
 Not many ~chaos~ players around these days... Who all is in that clan? Aren't you also Firebrand's ex Blastard?  Maybe the master of chaos should go find another mud.[/quote:3dv7q5qw]
 
@@ -270,19 +270,19 @@ who i date or not date is not open for discussion on this forum.  yeah, i talk a
 
 </div>
 
-<div class="post" data-post-id="17898" data-author="tincts" data-date="2007-04-11T07:23:30+00:00">
+<div class="post" data-post-id="17898" data-author="tincts" data-date="2007-04-11T07:23:30+00:00" data-subject="">
 
 Woah fb must be upset - no random quote at the end of the post . . .
 
 </div>
 
-<div class="post" data-post-id="17899" data-author="*juggleblood*" data-date="2007-04-11T10:55:56+00:00">
+<div class="post" data-post-id="17899" data-author="*juggleblood*" data-date="2007-04-11T10:55:56+00:00" data-subject="">
 
 Sorry Reb. I just remembered you saying that you know who Hades is, but you won't say.  I also noticed that Shaz and Hades have a similar writing style. So I started looking around old posts and find this dude Blastard/Shazuko praising our dear friend Frystenhart/Hades for being such a wonderful miscreant. Was trying to put together the pieces of who some of these disruptive jerks are.  Guess it doesn't matter now, so I'll drop it.
 
 </div>
 
-<div class="post" data-post-id="17900" data-author="13" data-date="2007-04-11T12:25:32+00:00">
+<div class="post" data-post-id="17900" data-author="13" data-date="2007-04-11T12:25:32+00:00" data-subject="">
 
 [quote:1irita40]outing his alt char[/quote:1irita40]
 
@@ -290,7 +290,7 @@ All you have to do is watch wintin.
 
 </div>
 
-<div class="post" data-post-id="17901" data-author="firebrand" data-date="2007-04-11T13:22:55+00:00">
+<div class="post" data-post-id="17901" data-author="firebrand" data-date="2007-04-11T13:22:55+00:00" data-subject="">
 
 ummm since i have an imm here and imms are privy to information the mortals do not have, the only thing i -can- publicly admit about knowing who hades is or is not (truth be told, i really don't) is that it is not blastard.  trust me on this one.  he may write similarly, but he's not hades or any other pth.  i can guarantee that.  and since the reason i know is again personal, i won't post it here.
 
@@ -298,7 +298,7 @@ ummm since i have an imm here and imms are privy to information the mortals do n
 
 </div>
 
-<div class="post" data-post-id="17910" data-author="Thraxas" data-date="2007-04-11T23:36:23+00:00">
+<div class="post" data-post-id="17910" data-author="Thraxas" data-date="2007-04-11T23:36:23+00:00" data-subject="Re: Pthieving">
 
 We have disabled pthieving for the moment.  If we decide to turn it back on, we'll let you know.[/quote:37dotqxe]
 
@@ -314,13 +314,13 @@ p.s. did I see mention of sloth4 somewhere? Whats the story there?
 
 </div>
 
-<div class="post" data-post-id="17911" data-author="13" data-date="2007-04-12T00:08:27+00:00">
+<div class="post" data-post-id="17911" data-author="13" data-date="2007-04-12T00:08:27+00:00" data-subject="">
 
 As far as I'm concerned SlothIII became SlothIV when the admin changed and the new classes came in.  The mud, and the crew manning it are radically different than SlothIII and SlothII were.
 
 </div>
 
-<div class="post" data-post-id="17917" data-author="resouh" data-date="2007-04-12T06:42:33+00:00">
+<div class="post" data-post-id="17917" data-author="resouh" data-date="2007-04-12T06:42:33+00:00" data-subject="">
 
 Well, want to say thank you to the imms for trying out sloth as a no-steal mud.  Will definately allow more freedom and in my opinion keep some of the newer players around long enough to find out how awsome this mud can be.  Note to Poolp, Hades, etc...  I hope that you can find some other aspects of the game that keep you interested and this decision doesn't drive you away from sloth.
 
@@ -330,13 +330,13 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="17918" data-author="Hades" data-date="2007-04-12T09:48:45+00:00">
+<div class="post" data-post-id="17918" data-author="Hades" data-date="2007-04-12T09:48:45+00:00" data-subject="Resouh">
 
 Enough kissy-kissy....   what do you want? :twisted:
 
 </div>
 
-<div class="post" data-post-id="17919" data-author="Poolp" data-date="2007-04-12T12:11:56+00:00">
+<div class="post" data-post-id="17919" data-author="Poolp" data-date="2007-04-12T12:11:56+00:00" data-subject="">
 
 Note to Poolp, Hades, etc...  I hope that you can find some other aspects of the game that keep you interested and this decision doesn't drive you away from sloth.[/quote:3flg68kh]
 
@@ -352,7 +352,7 @@ Of course it wasn't only the pthieves who said this. Plenty of people believed i
 
 </div>
 
-<div class="post" data-post-id="17920" data-author="resouh" data-date="2007-04-12T14:52:26+00:00">
+<div class="post" data-post-id="17920" data-author="resouh" data-date="2007-04-12T14:52:26+00:00" data-subject="">
 
 [quote:16ar9w5t]will you treat me as just another ordinary player if I were to confront you with my level 10 char (at the moment) someday?[/quote:16ar9w5t]
 
@@ -370,7 +370,7 @@ well not much cause I don't think ur lips would reach this far;)
 
 </div>
 
-<div class="post" data-post-id="17943" data-author="12345" data-date="2007-04-15T20:08:23+00:00">
+<div class="post" data-post-id="17943" data-author="12345" data-date="2007-04-15T20:08:23+00:00" data-subject="Re: Jugglebuttmunch">
 
 Damn it Rub, you know damned well builder char's can't have pthieves.
 

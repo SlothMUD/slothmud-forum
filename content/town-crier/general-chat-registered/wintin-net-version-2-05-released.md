@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="14829" data-author="*Splork*" data-date="2006-10-31T00:26:06+00:00">
+<div class="post" data-post-id="14829" data-author="*Splork*" data-date="2006-10-31T00:26:06+00:00" data-subject="Wintin.NET version 2.05 released">
 
 This beta fixes some bugs reported over the last few months, as listed below. There are also one or two additions to the methods supported by .Net scripting.
 

@@ -10,19 +10,19 @@ locked: false
 post_count: 70
 ---
 
-<div class="post" data-post-id="8133" data-author="13" data-date="2005-08-03T14:17:43+00:00">
+<div class="post" data-post-id="8133" data-author="13" data-date="2005-08-03T14:17:43+00:00" data-subject="Sloth Broken!">
 
 Why so many crashes and funky lag lately ?
 
 </div>
 
-<div class="post" data-post-id="8134" data-author="Weasel" data-date="2005-08-03T14:55:56+00:00">
+<div class="post" data-post-id="8134" data-author="Weasel" data-date="2005-08-03T14:55:56+00:00" data-subject="">
 
 bah.. same shit, different day... crash # 4 in the last half hour..
 
 </div>
 
-<div class="post" data-post-id="8135" data-author="Clink" data-date="2005-08-03T19:28:02+00:00">
+<div class="post" data-post-id="8135" data-author="Clink" data-date="2005-08-03T19:28:02+00:00" data-subject="">
 
 New features, new fun for you to enjoy soon.  Crashes have been fixed by your favorite coder. (Not me, of course, but you guys know who make stuff happen these days.)
 
@@ -30,25 +30,25 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="8136" data-author="Weasel" data-date="2005-08-03T19:33:47+00:00">
+<div class="post" data-post-id="8136" data-author="Weasel" data-date="2005-08-03T19:33:47+00:00" data-subject="">
 
 nods good point - lairs and search etc etc - nice additions :)
 
 </div>
 
-<div class="post" data-post-id="8138" data-author="Blastem" data-date="2005-08-03T23:50:50+00:00">
+<div class="post" data-post-id="8138" data-author="Blastem" data-date="2005-08-03T23:50:50+00:00" data-subject="">
 
 for those who can find em.
 
 </div>
 
-<div class="post" data-post-id="8144" data-author="kjartan" data-date="2005-08-04T14:07:48+00:00">
+<div class="post" data-post-id="8144" data-author="kjartan" data-date="2005-08-04T14:07:48+00:00" data-subject="">
 
 I thought of a good way for necros to find them, I'll put it in sometime soon.  That gives 5 classes a way which means everbody.
 
 </div>
 
-<div class="post" data-post-id="8149" data-author="madmax" data-date="2005-08-04T20:56:52+00:00">
+<div class="post" data-post-id="8149" data-author="madmax" data-date="2005-08-04T20:56:52+00:00" data-subject="">
 
 I thought of a good way for necros to find them, I'll put it in sometime soon.  That gives 5 classes a way which means everbody.[/quote:1og0vw8j]
 
@@ -76,13 +76,13 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="8150" data-author="kjartan" data-date="2005-08-04T21:35:10+00:00">
+<div class="post" data-post-id="8150" data-author="kjartan" data-date="2005-08-04T21:35:10+00:00" data-subject="">
 
 There is a way for mages to do it and there will soon be a way for necromancers to do it.  These are two different techniques, and neither one of them is search.
 
 </div>
 
-<div class="post" data-post-id="8151" data-author="madmax" data-date="2005-08-04T23:29:14+00:00">
+<div class="post" data-post-id="8151" data-author="madmax" data-date="2005-08-04T23:29:14+00:00" data-subject="">
 
 There is a way for mages to do it and there will soon be a way for necromancers to do it.  These are two different techniques, and neither one of them is search.[/quote:unu2xdg4]
 
@@ -138,7 +138,7 @@ MADmax
 
 </div>
 
-<div class="post" data-post-id="8152" data-author="brand" data-date="2005-08-05T00:45:36+00:00">
+<div class="post" data-post-id="8152" data-author="brand" data-date="2005-08-05T00:45:36+00:00" data-subject="Lairs">
 
 I know they are new and all but has anyone tested if putting things in these lairs is vaultish in nature...
 
@@ -148,7 +148,7 @@ brand :twisted:
 
 </div>
 
-<div class="post" data-post-id="8154" data-author="kjartan" data-date="2005-08-05T03:31:36+00:00">
+<div class="post" data-post-id="8154" data-author="kjartan" data-date="2005-08-05T03:31:36+00:00" data-subject="">
 
 Madmax: if you would like to immort and help finish the supplication mobs or anything else, your application is welcome.
 
@@ -156,7 +156,7 @@ Brand: some will, some won't.  Default is no, they won't.  If it says a lair loo
 
 </div>
 
-<div class="post" data-post-id="8155" data-author="*Splork*" data-date="2005-08-05T06:37:56+00:00">
+<div class="post" data-post-id="8155" data-author="*Splork*" data-date="2005-08-05T06:37:56+00:00" data-subject="">
 
 I guess I am an upper level Imm but I will pass on any silly challenge that I could give two shits about.
 
@@ -174,7 +174,7 @@ The help file has been in for the  mage spell change but as usual your lazy ass 
 
 </div>
 
-<div class="post" data-post-id="8156" data-author="Taki" data-date="2005-08-05T08:46:40+00:00">
+<div class="post" data-post-id="8156" data-author="Taki" data-date="2005-08-05T08:46:40+00:00" data-subject="">
 
 Don't want to pour gasoline on the fire, but I have only a humble question regarding recent changes and possible implications.
 
@@ -184,7 +184,7 @@ Thanks for any no-nonsense reply :)
 
 </div>
 
-<div class="post" data-post-id="8157" data-author="Wrath" data-date="2005-08-05T10:16:23+00:00">
+<div class="post" data-post-id="8157" data-author="Wrath" data-date="2005-08-05T10:16:23+00:00" data-subject="">
 
 Serious comment to Madmax and a few others who seem pretty unhappy. As you say, this is a game. Not voting for Sloth is silly, it's a kind of silly blackmail whihc in the end doesn't work and just hurts the game you seem so passionate about.
 
@@ -202,7 +202,7 @@ Threaten not to vote and while Kjartan will be diplomatic and Splork will be his
 
 </div>
 
-<div class="post" data-post-id="8158" data-author="Avatar" data-date="2005-08-05T10:20:11+00:00">
+<div class="post" data-post-id="8158" data-author="Avatar" data-date="2005-08-05T10:20:11+00:00" data-subject="Secure Cache">
 
 I can think of two uses right quick:
 
@@ -214,7 +214,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="8159" data-author="Ditheca" data-date="2005-08-05T10:21:24+00:00">
+<div class="post" data-post-id="8159" data-author="Ditheca" data-date="2005-08-05T10:21:24+00:00" data-subject="">
 
 I think some of madmax's questions were pretty insightful, and if kj and splork felt "challenged" by them, well you can remember the reason he asked them is to have them thought about and *gasp* possibly changed.
 
@@ -232,7 +232,7 @@ PS: Love the most dangerous mob boards!
 
 </div>
 
-<div class="post" data-post-id="8160" data-author="Krok" data-date="2005-08-05T10:32:30+00:00">
+<div class="post" data-post-id="8160" data-author="Krok" data-date="2005-08-05T10:32:30+00:00" data-subject="">
 
 Don't bother, guys, it's much easier to make some of us vote 10 times/day to bring more and more silly newbies than to answer silly questions about the changes! :)
 
@@ -240,7 +240,7 @@ I still think Madmax whines too much. Can search really make one feel that bad?
 
 </div>
 
-<div class="post" data-post-id="8161" data-author="Clink" data-date="2005-08-05T10:34:05+00:00">
+<div class="post" data-post-id="8161" data-author="Clink" data-date="2005-08-05T10:34:05+00:00" data-subject="">
 
 It has been said that "we are trying to make the game more realistic."  Well, there are alot of things that shoule be looked at before adding new stuff.
 
@@ -290,7 +290,7 @@ Clink (ask a question and you'll never get a short answer out of me)
 
 </div>
 
-<div class="post" data-post-id="8162" data-author="12345" data-date="2005-08-05T11:04:27+00:00">
+<div class="post" data-post-id="8162" data-author="12345" data-date="2005-08-05T11:04:27+00:00" data-subject="">
 
 I'll answer the question about mages...
 
@@ -302,7 +302,7 @@ Don't know what's in mind for necros, we'll have to see.
 
 </div>
 
-<div class="post" data-post-id="8163" data-author="kjartan" data-date="2005-08-05T11:25:44+00:00">
+<div class="post" data-post-id="8163" data-author="kjartan" data-date="2005-08-05T11:25:44+00:00" data-subject="">
 
 Ok, here is a more detailed and less diplomatic response:
 
@@ -320,7 +320,7 @@ Ok, here is a more detailed and less diplomatic response:
 
 </div>
 
-<div class="post" data-post-id="8164" data-author="12345" data-date="2005-08-05T12:19:53+00:00">
+<div class="post" data-post-id="8164" data-author="12345" data-date="2005-08-05T12:19:53+00:00" data-subject="">
 
 4. The way to make changes more solid before they go in, as Clink pointed out, is to run a testmud for a while with live players and see how it goes. That has the downside of splitting the playerbase. It also makes players spend a bunch of time advancing a character they don't get to keep, and it puts an administrative burden on the admin. This is a pain in the ass; we aren't going to do it for anything less major than the new classes. That means stuff will go in and sometimes cause a few crashes and sometimes eventually get nerfed a bit. If you can't handle nerfing, I'd suggest you try a single-player game that comes in a box, or something like counterstrike that has no persistent characters.[/quote:2btbf7bb]
 
@@ -354,7 +354,7 @@ If crashes are more transparent, everyone will be happier.  I think.  Maybe.  Wh
 
 </div>
 
-<div class="post" data-post-id="8165" data-author="kjartan" data-date="2005-08-05T14:18:44+00:00">
+<div class="post" data-post-id="8165" data-author="kjartan" data-date="2005-08-05T14:18:44+00:00" data-subject="">
 
 1) Make shopkeeper inventory at least somewhat persistant.[/quote:3skfb1j4]
 
@@ -390,7 +390,7 @@ Thanks for the offer, but we aren't looking for more coders right now and I find
 
 </div>
 
-<div class="post" data-post-id="8166" data-author="12345" data-date="2005-08-05T14:51:14+00:00">
+<div class="post" data-post-id="8166" data-author="12345" data-date="2005-08-05T14:51:14+00:00" data-subject="">
 
 1) Make shopkeeper inventory at least somewhat persistant.[/quote:n05gr2np]
 
@@ -422,7 +422,7 @@ Thanks.  :)
 
 </div>
 
-<div class="post" data-post-id="8167" data-author="kjartan" data-date="2005-08-05T20:19:55+00:00">
+<div class="post" data-post-id="8167" data-author="kjartan" data-date="2005-08-05T20:19:55+00:00" data-subject="Sloth: now with less broken!">
 
 Ok, I have done two of them, incor:
 
@@ -432,7 +432,7 @@ Mobs will clear their pissed lists occasionally.  This is done randomly, not at 
 
 </div>
 
-<div class="post" data-post-id="8168" data-author="Wintersdark" data-date="2005-08-05T22:06:44+00:00">
+<div class="post" data-post-id="8168" data-author="Wintersdark" data-date="2005-08-05T22:06:44+00:00" data-subject="Re: Sloth: now with less broken!">
 
 Ok, I have done two of them, incor:
 
@@ -444,25 +444,25 @@ Must be pretty ugly to piss off a mob you spend a lot of time around but can't k
 
 </div>
 
-<div class="post" data-post-id="8171" data-author="12345" data-date="2005-08-06T03:55:40+00:00">
+<div class="post" data-post-id="8171" data-author="12345" data-date="2005-08-06T03:55:40+00:00" data-subject="">
 
 Thanks Kj.  :)
 
 </div>
 
-<div class="post" data-post-id="8173" data-author="12345" data-date="2005-08-06T18:34:24+00:00">
+<div class="post" data-post-id="8173" data-author="12345" data-date="2005-08-06T18:34:24+00:00" data-subject="">
 
 Not sure how it's working, but the rate seems a bit high.  I've had fights that lasted less than a tick where the mob hates me 2-3 times.  :)
 
 </div>
 
-<div class="post" data-post-id="8174" data-author="kjartan" data-date="2005-08-06T19:32:45+00:00">
+<div class="post" data-post-id="8174" data-author="kjartan" data-date="2005-08-06T19:32:45+00:00" data-subject="">
 
 Ah, yes I put the check in the wrong place.  It's fixed incor, it will be considerably slower.  Thanks for pointing it out.
 
 </div>
 
-<div class="post" data-post-id="8176" data-author="Ditheca" data-date="2005-08-07T02:14:50+00:00">
+<div class="post" data-post-id="8176" data-author="Ditheca" data-date="2005-08-07T02:14:50+00:00" data-subject="">
 
 2. My comment about joining the imms and helping finish supps applies to contributing to any of the problems Madmax mentioned.  If any of you guys want the mud improved then you should consider immorting to help out.  [/quote:3f6ewmvr]
 
@@ -472,7 +472,7 @@ Anyone know what happened to limbs being cut off snakes? I don't chop much
 
 </div>
 
-<div class="post" data-post-id="8177" data-author="Medios" data-date="2005-08-07T14:32:02+00:00">
+<div class="post" data-post-id="8177" data-author="Medios" data-date="2005-08-07T14:32:02+00:00" data-subject="">
 
 stone grinder in irapeute
 
@@ -886,13 +886,13 @@ a stone grinder intones 'One is mfn_spli
 
 </div>
 
-<div class="post" data-post-id="8179" data-author="kjartan" data-date="2005-08-07T17:17:41+00:00">
+<div class="post" data-post-id="8179" data-author="kjartan" data-date="2005-08-07T17:17:41+00:00" data-subject="">
 
 Ok, the spamming problem is fixed.  Unfortunately the reason it was spamming is that some well-meaning immortal *cough*I suspect Enea*cough* had turned on trace mode to figure out an underlying problem there, and it appears to be as-yet-unfigured-out.  I'm sure we'll sort it out.
 
 </div>
 
-<div class="post" data-post-id="8198" data-author="13" data-date="2005-08-09T11:49:54+00:00">
+<div class="post" data-post-id="8198" data-author="13" data-date="2005-08-09T11:49:54+00:00" data-subject="">
 
 [quote:12swbvwx]
 
@@ -932,13 +932,13 @@ Ok, the spamming problem is fixed.  Unfortunately the reason it was spamming is 
 
 </div>
 
-<div class="post" data-post-id="8199" data-author="kjartan" data-date="2005-08-09T13:21:27+00:00">
+<div class="post" data-post-id="8199" data-author="kjartan" data-date="2005-08-09T13:21:27+00:00" data-subject="">
 
 It has been up continuously except for a normal-length 3 am reboot last night.  I think the problem must be at your end.
 
 </div>
 
-<div class="post" data-post-id="8207" data-author="Vixn" data-date="2005-08-09T19:32:42+00:00">
+<div class="post" data-post-id="8207" data-author="Vixn" data-date="2005-08-09T19:32:42+00:00" data-subject="">
 
 some strange words again..
 
@@ -950,13 +950,13 @@ $n utters a startling battle cry!
 
 </div>
 
-<div class="post" data-post-id="8208" data-author="kjartan" data-date="2005-08-09T21:39:15+00:00">
+<div class="post" data-post-id="8208" data-author="kjartan" data-date="2005-08-09T21:39:15+00:00" data-subject="">
 
 The drangr should be fixed now.
 
 </div>
 
-<div class="post" data-post-id="8212" data-author="Blastem" data-date="2005-08-10T12:34:53+00:00">
+<div class="post" data-post-id="8212" data-author="Blastem" data-date="2005-08-10T12:34:53+00:00" data-subject="">
 
 as long as we're on it Knock charms don't work :)
 
@@ -972,7 +972,7 @@ Knock on what?
 
 </div>
 
-<div class="post" data-post-id="8228" data-author="kjartan" data-date="2005-08-10T15:51:18+00:00">
+<div class="post" data-post-id="8228" data-author="kjartan" data-date="2005-08-10T15:51:18+00:00" data-subject="">
 
 as long as we're on it Knock charms don't work :)
 
@@ -990,13 +990,13 @@ Should be fixed next crash or reboot.
 
 </div>
 
-<div class="post" data-post-id="8229" data-author="Blastem" data-date="2005-08-10T15:58:30+00:00">
+<div class="post" data-post-id="8229" data-author="Blastem" data-date="2005-08-10T15:58:30+00:00" data-subject="">
 
 Thanks :)
 
 </div>
 
-<div class="post" data-post-id="8235" data-author="13" data-date="2005-08-10T17:03:07+00:00">
+<div class="post" data-post-id="8235" data-author="13" data-date="2005-08-10T17:03:07+00:00" data-subject="">
 
 Juju, chant resurrection appears to be broken atm.
 
@@ -1010,7 +1010,7 @@ Aa
 
 </div>
 
-<div class="post" data-post-id="8243" data-author="Ditheca" data-date="2005-08-10T17:27:48+00:00">
+<div class="post" data-post-id="8243" data-author="Ditheca" data-date="2005-08-10T17:27:48+00:00" data-subject="">
 
 carve corpse and embalm corpse don't work either.  They don't recognize that the object is a corpse.
 
@@ -1018,19 +1018,19 @@ Sacrifice and switching gods still works
 
 </div>
 
-<div class="post" data-post-id="8244" data-author="kjartan" data-date="2005-08-10T17:58:22+00:00">
+<div class="post" data-post-id="8244" data-author="kjartan" data-date="2005-08-10T17:58:22+00:00" data-subject="">
 
 Ok, this stuff should be fixed next crash or reboot.  (Any imms reading this who feel like rebooting, go for it.)
 
 </div>
 
-<div class="post" data-post-id="8251" data-author="13" data-date="2005-08-10T18:59:29+00:00">
+<div class="post" data-post-id="8251" data-author="13" data-date="2005-08-10T18:59:29+00:00" data-subject="">
 
 Thanks Kj.
 
 </div>
 
-<div class="post" data-post-id="8299" data-author="Rayal" data-date="2005-08-14T19:05:38+00:00">
+<div class="post" data-post-id="8299" data-author="Rayal" data-date="2005-08-14T19:05:38+00:00" data-subject="fleeing mobs">
 
 hi,
 
@@ -1056,7 +1056,7 @@ A servant of Blaster leaves north.
 
 </div>
 
-<div class="post" data-post-id="8301" data-author="Weasel" data-date="2005-08-14T20:08:19+00:00">
+<div class="post" data-post-id="8301" data-author="Weasel" data-date="2005-08-14T20:08:19+00:00" data-subject="">
 
 With that example, I think it is just one mob that you had previously attacked but never killed. You are in a room and the mob walks into the same room from the south, it sees you and is so freaked out that it fled out of the room to the west, but in its panic it came straight back in again from the west, saw you again, then continued to panic and fled back out again, this time to the north. Flee can make you pass through a number of rooms in a very short time.
 
@@ -1066,13 +1066,13 @@ Mobs generally try to flee if you have attacked them at some prior stage but nev
 
 </div>
 
-<div class="post" data-post-id="8307" data-author="13" data-date="2005-08-15T14:51:38+00:00">
+<div class="post" data-post-id="8307" data-author="13" data-date="2005-08-15T14:51:38+00:00" data-subject="">
 
 Why does the Juju Zombie invis itsself ?  It's just wasting mana :(
 
 </div>
 
-<div class="post" data-post-id="8308" data-author="*Splork*" data-date="2005-08-15T15:07:49+00:00">
+<div class="post" data-post-id="8308" data-author="*Splork*" data-date="2005-08-15T15:07:49+00:00" data-subject="">
 
 Oh jees, cry me a river. I will fix this when I actually get around to fixing the power of the juju so that extra mana can be of use  :twisted: 
 
@@ -1082,13 +1082,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="8309" data-author="13" data-date="2005-08-15T15:23:04+00:00">
+<div class="post" data-post-id="8309" data-author="13" data-date="2005-08-15T15:23:04+00:00" data-subject="">
 
 :P
 
 </div>
 
-<div class="post" data-post-id="8315" data-author="Icefyre" data-date="2005-08-16T12:22:14+00:00">
+<div class="post" data-post-id="8315" data-author="Icefyre" data-date="2005-08-16T12:22:14+00:00" data-subject="">
 
 And another thing, I went to ship a spellbook this morning, but quickly changed my mind when it was 185k gold to ship and receive.  So I did a quick reclaim, but the postman sure didn't give me a refund.
 
@@ -1096,13 +1096,13 @@ Anyone else having this problem?
 
 </div>
 
-<div class="post" data-post-id="8316" data-author="Dandelo" data-date="2005-08-16T12:48:56+00:00">
+<div class="post" data-post-id="8316" data-author="Dandelo" data-date="2005-08-16T12:48:56+00:00" data-subject="">
 
 If you want to see how much an item will cost if shipped, just type: ship <itemname> with no target and the postmaster will tell you how much it will cost.  This is a feature, not a bug. :)
 
 </div>
 
-<div class="post" data-post-id="8322" data-author="Icefyre" data-date="2005-08-16T17:25:56+00:00">
+<div class="post" data-post-id="8322" data-author="Icefyre" data-date="2005-08-16T17:25:56+00:00" data-subject="">
 
 I should have known.  Well,  I guess that's what happens when I haven't played forever and a day.   
 
@@ -1118,7 +1118,7 @@ Icefyre
 
 </div>
 
-<div class="post" data-post-id="8323" data-author="12345" data-date="2005-08-16T17:36:29+00:00">
+<div class="post" data-post-id="8323" data-author="12345" data-date="2005-08-16T17:36:29+00:00" data-subject="">
 
 I think I can answer the entrench one.  First, to use it, you have to be on point, if it suceeds, it costs about 40 movement.  From what I can tell, it makes you a lot harder to bash. On the plus side, when you're not getting bashed, you get lagged a lot less.  Nice if you have a whiner.  I've also heard rumors that it makes you harder to throw out of a room, though I've been thrown around plenty while entrenched.
 
@@ -1126,7 +1126,7 @@ Welcome back and happy hunting.
 
 </div>
 
-<div class="post" data-post-id="8341" data-author="Blastem" data-date="2005-08-18T22:12:10+00:00">
+<div class="post" data-post-id="8341" data-author="Blastem" data-date="2005-08-18T22:12:10+00:00" data-subject="">
 
 btw still
 
@@ -1154,19 +1154,19 @@ still don't work ;)
 
 </div>
 
-<div class="post" data-post-id="8346" data-author="Vixn" data-date="2005-08-19T16:23:43+00:00">
+<div class="post" data-post-id="8346" data-author="Vixn" data-date="2005-08-19T16:23:43+00:00" data-subject="">
 
 i was killed and can talk during dead and see what group do. then I was raised but still see all this re-equiping spam even while sleeping. think it should be some sort of bug maybe added with 'talk with dead' spell.
 
 </div>
 
-<div class="post" data-post-id="8347" data-author="Vixn" data-date="2005-08-19T16:35:26+00:00">
+<div class="post" data-post-id="8347" data-author="Vixn" data-date="2005-08-19T16:35:26+00:00" data-subject="">
 
 Hmm, now it's gone but i'm really ask to fix it anyway. I'll kill myself if someone cast this spell on me again :)
 
 </div>
 
-<div class="post" data-post-id="8349" data-author="Blastem" data-date="2005-08-19T23:15:19+00:00">
+<div class="post" data-post-id="8349" data-author="Blastem" data-date="2005-08-19T23:15:19+00:00" data-subject="">
 
 another broken charm ;)
 
@@ -1178,7 +1178,7 @@ You have to specify an appropriate target!
 
 </div>
 
-<div class="post" data-post-id="8350" data-author="kjartan" data-date="2005-08-20T03:02:16+00:00">
+<div class="post" data-post-id="8350" data-author="kjartan" data-date="2005-08-20T03:02:16+00:00" data-subject="">
 
 As of next crash or reboot
 
@@ -1192,43 +1192,43 @@ As of next crash or reboot
 
 </div>
 
-<div class="post" data-post-id="8351" data-author="Vixn" data-date="2005-08-20T03:14:34+00:00">
+<div class="post" data-post-id="8351" data-author="Vixn" data-date="2005-08-20T03:14:34+00:00" data-subject="">
 
 Thanks Kjartan! :)
 
 </div>
 
-<div class="post" data-post-id="8352" data-author="Weasel" data-date="2005-08-20T03:52:03+00:00">
+<div class="post" data-post-id="8352" data-author="Weasel" data-date="2005-08-20T03:52:03+00:00" data-subject="">
 
 Is it possible to not find a lair even if you do a search in a room where there actually is a lair?
 
 </div>
 
-<div class="post" data-post-id="8353" data-author="kjartan" data-date="2005-08-20T04:37:59+00:00">
+<div class="post" data-post-id="8353" data-author="kjartan" data-date="2005-08-20T04:37:59+00:00" data-subject="">
 
 Yes.  (1) you might fail your search skill; you can only learn it to 95%, so 5% of the time you will fail.  If you search twice this is reduced to 1 in 400. (2) you might be too low level to find the lair.  This at first reduces your chance and then makes it impossible.  This will be pretty rare, and won't ever happen to a lvl 40 thief.  Searching repeatedly will help with this unless you are way too low.  (3) we may deliberately construct a lair that can't be found with search, in which case you'd have to figure out where it is from the room descriptions.  This wouldn't happen with these random lairs, though, just with one someone deliberately made un-searchable.  Generally we would only do this if we also gave some strong reason to suspect there was a lair there, e.g. some other mob had told you there was.
 
 </div>
 
-<div class="post" data-post-id="8354" data-author="Weasel" data-date="2005-08-20T04:44:06+00:00">
+<div class="post" data-post-id="8354" data-author="Weasel" data-date="2005-08-20T04:44:06+00:00" data-subject="">
 
 great, thanks for the info. :)
 
 </div>
 
-<div class="post" data-post-id="8438" data-author="BlackRaindrops" data-date="2005-08-26T19:28:39+00:00">
+<div class="post" data-post-id="8438" data-author="BlackRaindrops" data-date="2005-08-26T19:28:39+00:00" data-subject="">
 
 Yikes, looks like I got alot to catch up on here. Great to see the coders are still active. Splork and Kjartan are awesome.  :D
 
 </div>
 
-<div class="post" data-post-id="8441" data-author="Shazuko" data-date="2005-08-26T20:43:20+00:00">
+<div class="post" data-post-id="8441" data-author="Shazuko" data-date="2005-08-26T20:43:20+00:00" data-subject="">
 
 looks like the resist fire/cold on minidemon brooch's isn't working...unless I missed something...
 
 </div>
 
-<div class="post" data-post-id="8442" data-author="kjartan" data-date="2005-08-26T20:48:01+00:00">
+<div class="post" data-post-id="8442" data-author="kjartan" data-date="2005-08-26T20:48:01+00:00" data-subject="">
 
 looks like the resist fire/cold on minidemon brooch's isn't working...unless I missed something...[/quote:hmsj0ig0]
 
@@ -1236,7 +1236,7 @@ Resist fire/cold equipment was changed a couple of months ago.  It doesn't provi
 
 </div>
 
-<div class="post" data-post-id="8460" data-author="13" data-date="2005-08-29T11:19:22+00:00">
+<div class="post" data-post-id="8460" data-author="13" data-date="2005-08-29T11:19:22+00:00" data-subject="">
 
 I have a couple requests.
 
@@ -1250,7 +1250,7 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="8474" data-author="Mace" data-date="2005-08-29T19:00:12+00:00">
+<div class="post" data-post-id="8474" data-author="Mace" data-date="2005-08-29T19:00:12+00:00" data-subject="">
 
 >  #2. the peri can cast its blessing on you when you are blessed
 
@@ -1260,7 +1260,7 @@ My (Acme's) peri has never blessed me when I had bless up that I have seen.
 
 </div>
 
-<div class="post" data-post-id="8475" data-author="13" data-date="2005-08-29T21:38:12+00:00">
+<div class="post" data-post-id="8475" data-author="13" data-date="2005-08-29T21:38:12+00:00" data-subject="">
 
 Yeah Mace, It happens to me frequently.  I tried switching to aura when the Unknown Blessing was up and it said I was too holy or whatever.
 
@@ -1268,7 +1268,7 @@ Yeah Mace, It happens to me frequently.  I tried switching to aura when the Unkn
 
 </div>
 
-<div class="post" data-post-id="8476" data-author="mark13" data-date="2005-08-29T21:49:49+00:00">
+<div class="post" data-post-id="8476" data-author="mark13" data-date="2005-08-29T21:49:49+00:00" data-subject="">
 
 Someone told me that the peri's blessing gives you bonus to hit and saves. So both have to fall off before you can bless again. 
 
@@ -1276,7 +1276,7 @@ I think, maybe, yeah .... sleep deprived brain ... can't ... think ... can't ...
 
 </div>
 
-<div class="post" data-post-id="8477" data-author="*Splork*" data-date="2005-08-29T22:00:19+00:00">
+<div class="post" data-post-id="8477" data-author="*Splork*" data-date="2005-08-29T22:00:19+00:00" data-subject="">
 
 If a player is lucky enough to be affected by chill touch, it will now show up in score--well after the next reboot...
 
@@ -1286,7 +1286,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="8479" data-author="Alberich" data-date="2005-08-29T23:42:41+00:00">
+<div class="post" data-post-id="8479" data-author="Alberich" data-date="2005-08-29T23:42:41+00:00" data-subject="">
 
 Someone told me that the peri's blessing gives you bonus to hit and saves. So both have to fall off before you can bless again.[/quote:1jnq394d]
 
@@ -1296,7 +1296,7 @@ now, spellsaves showing up somewhere (maybe score stat?) would be kinda nice too
 
 </div>
 
-<div class="post" data-post-id="8480" data-author="13" data-date="2005-08-29T23:59:35+00:00">
+<div class="post" data-post-id="8480" data-author="13" data-date="2005-08-29T23:59:35+00:00" data-subject="">
 
 Thanks Splork :D
 

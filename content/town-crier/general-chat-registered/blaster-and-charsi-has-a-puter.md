@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="9467" data-author="Charsi2" data-date="2005-11-11T00:35:48+00:00">
+<div class="post" data-post-id="9467" data-author="Charsi2" data-date="2005-11-11T00:35:48+00:00" data-subject="blaster and charsi has a puter">
 
 Hello everyone,
 
@@ -20,13 +20,13 @@ Blaster and Charsi
 
 </div>
 
-<div class="post" data-post-id="9470" data-author="Weasel" data-date="2005-11-11T01:55:05+00:00">
+<div class="post" data-post-id="9470" data-author="Weasel" data-date="2005-11-11T01:55:05+00:00" data-subject="">
 
 welcome back  :twisted:
 
 </div>
 
-<div class="post" data-post-id="9471" data-author="brand" data-date="2005-11-11T03:53:31+00:00">
+<div class="post" data-post-id="9471" data-author="brand" data-date="2005-11-11T03:53:31+00:00" data-subject="">
 
 Blaster...Charsi...
 
@@ -36,13 +36,13 @@ I do remember those names from somewhere...
 
 </div>
 
-<div class="post" data-post-id="9474" data-author="Yasik" data-date="2005-11-11T07:12:37+00:00">
+<div class="post" data-post-id="9474" data-author="Yasik" data-date="2005-11-11T07:12:37+00:00" data-subject="">
 
 HAHA! I told you! The time has come for all weak and stupid feel the wrath of Greater Evil once more! The skies shall rain fire and seas will become as blood! Let all creation tremble before the Dark One and let the cleansing scythe of Death purify this world!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="9476" data-author="Vixn" data-date="2005-11-11T08:41:04+00:00">
+<div class="post" data-post-id="9476" data-author="Vixn" data-date="2005-11-11T08:41:04+00:00" data-subject="">
 
 Yasik, you're so sentimental like a girl.
 
@@ -50,13 +50,13 @@ Yasik, you're so sentimental like a girl.
 
 </div>
 
-<div class="post" data-post-id="9477" data-author="Krok" data-date="2005-11-11T14:36:49+00:00">
+<div class="post" data-post-id="9477" data-author="Krok" data-date="2005-11-11T14:36:49+00:00" data-subject="">
 
 Give up taking drugs, or give me this weed, Yasik :))
 
 </div>
 
-<div class="post" data-post-id="9478" data-author="Blastem" data-date="2005-11-11T14:37:08+00:00">
+<div class="post" data-post-id="9478" data-author="Blastem" data-date="2005-11-11T14:37:08+00:00" data-subject="">
 
 Let the BEHEADINGS Commence!!!
 
@@ -66,13 +66,13 @@ Paul
 
 </div>
 
-<div class="post" data-post-id="9479" data-author="Autolycos" data-date="2005-11-11T14:45:35+00:00">
+<div class="post" data-post-id="9479" data-author="Autolycos" data-date="2005-11-11T14:45:35+00:00" data-subject="">
 
 Yasik, you are such a damn goober!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="9480" data-author="Qa" data-date="2005-11-11T15:05:21+00:00">
+<div class="post" data-post-id="9480" data-author="Qa" data-date="2005-11-11T15:05:21+00:00" data-subject="">
 
 Good to hear, bud.  Looking forward to seeing you.
 
@@ -80,7 +80,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="9481" data-author="firebrand" data-date="2005-11-11T15:09:32+00:00">
+<div class="post" data-post-id="9481" data-author="firebrand" data-date="2005-11-11T15:09:32+00:00" data-subject="Re: blaster and charsi has a puter">
 
 Hello everyone,
 
@@ -92,7 +92,7 @@ Blaster and Charsi[/quote:2l23usxy]
 
 </div>
 
-<div class="post" data-post-id="9489" data-author="osric" data-date="2005-11-12T04:00:55+00:00">
+<div class="post" data-post-id="9489" data-author="osric" data-date="2005-11-12T04:00:55+00:00" data-subject="">
 
 Is it April first already? Damn I didn't think I'd missed Thanksgiving, oh well  8)
 

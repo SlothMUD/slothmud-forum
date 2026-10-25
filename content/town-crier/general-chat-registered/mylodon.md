@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38686" data-author="Gorka" data-date="2018-03-04T14:26:29+00:00">
+<div class="post" data-post-id="38686" data-author="Gorka" data-date="2018-03-04T14:26:29+00:00" data-subject="Mylodon">
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mylodon_model.jpg/1024px-Mylodon_model.jpg)
 
@@ -26,7 +26,7 @@ Also on my holiday, I stopped at a place for a snack that had "Ass Italiano" and
 
 </div>
 
-<div class="post" data-post-id="38708" data-author="Teron" data-date="2018-03-13T15:51:27+00:00">
+<div class="post" data-post-id="38708" data-author="Teron" data-date="2018-03-13T15:51:27+00:00" data-subject="Re: Mylodon">
 
 Yeah. Those giant, huge, long caves are not natural, Mylodons dug them up.
 

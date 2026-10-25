@@ -10,7 +10,7 @@ locked: false
 post_count: 41
 ---
 
-<div class="post" data-post-id="36826" data-author="cyprimus" data-date="2016-04-14T05:54:45+00:00">
+<div class="post" data-post-id="36826" data-author="cyprimus" data-date="2016-04-14T05:54:45+00:00" data-subject="Ideas to encourage groups">
 
 After two hours of discussion, between zuzu, zeke and myself, we came up with the idea off removeing level limites on valk, and placing level limit back on lyme.. though maybe with 1x40 insted of 3x40.
 
@@ -20,7 +20,7 @@ and adding the lyme limits would prevent the max avvie dragging valkers to 8x20 
 
 </div>
 
-<div class="post" data-post-id="36828" data-author="Teron" data-date="2016-04-14T08:41:32+00:00">
+<div class="post" data-post-id="36828" data-author="Teron" data-date="2016-04-14T08:41:32+00:00" data-subject="Re: Ideas to encourage groups">
 
 1. Removing level-limit from valk is a good idea. I really hate the time, when you have to cycle drachma without leveling the prime class.
 
@@ -34,7 +34,7 @@ As you can see from here and the other thread, I don't like limits and I prefer 
 
 </div>
 
-<div class="post" data-post-id="36830" data-author="Yasik" data-date="2016-04-14T18:08:39+00:00">
+<div class="post" data-post-id="36830" data-author="Yasik" data-date="2016-04-14T18:08:39+00:00" data-subject="Re: Ideas to encourage groups">
 
 Do you see many 8x20 on Lyme?
 
@@ -50,7 +50,7 @@ This has nothing to do with "encouraging leaders to lead". Shame!
 
 </div>
 
-<div class="post" data-post-id="36855" data-author="Teron" data-date="2016-04-17T11:22:09+00:00">
+<div class="post" data-post-id="36855" data-author="Teron" data-date="2016-04-17T11:22:09+00:00" data-subject="Re: Ideas to encourage groups">
 
 I've played a number of characters past 2x20 and the only reasons I didn't level prime were coliseum and valk quests. The time, when players need more prime levels, instead of farming valk quests, is about 2x20-3x20.
 
@@ -81,7 +81,7 @@ P.S. Some ideas to encourage grouping:
 
 </div>
 
-<div class="post" data-post-id="36863" data-author="Ezekiel" data-date="2016-04-20T05:00:21+00:00">
+<div class="post" data-post-id="36863" data-author="Ezekiel" data-date="2016-04-20T05:00:21+00:00" data-subject="Re: Ideas to encourage groups">
 
 Yasik, let the adults speak please. See, on the two threads, there have been multiple people voicing ideas/opinions to try to better the mud. You have listed none, you rather just whine about how your opinion differs and how everything is an attack on someone rather than looking at the merit of an argument and saying, "Hey, I view this a different way, maybe I should suggest X as the solution to what they're saying is a problem." It's almost as if your purpose is simply to make people reactive by trying to make their actual suggestions seem like whines (by whining yourself but being accusatory). For instance, Taron and I differ on our take on some aspects of the game, but we both suggest ideas and work from there and are civil and respectful about our right to do so, rather than flailing about and saying, "It's all about Surf, it's all about me...waaaah...you're trying to restrict my newb." Maybe come up with a well thought out solution to issues other players have with the mud and, ya know, instead of thinking you have to immediately get defensive about things, think that maybe the people commenting are actually just trying to voice and be helpful, even if your opinion differs.
 
@@ -119,7 +119,7 @@ Ezekiel
 
 </div>
 
-<div class="post" data-post-id="36868" data-author="cyprimus" data-date="2016-04-20T05:22:23+00:00">
+<div class="post" data-post-id="36868" data-author="cyprimus" data-date="2016-04-20T05:22:23+00:00" data-subject="Re: Ideas to encourage groups">
 
 So. we all agree.  Valk cap is bad.
 
@@ -127,13 +127,13 @@ Please remove it..
 
 </div>
 
-<div class="post" data-post-id="36869" data-author="cyprimus" data-date="2016-04-20T05:24:57+00:00">
+<div class="post" data-post-id="36869" data-author="cyprimus" data-date="2016-04-20T05:24:57+00:00" data-subject="Re: Ideas to encourage groups">
 
 Oh, and fix chop groups so taron can lead/tank/damn/web/and heal them for 8 hours a day for years to come!
 
 </div>
 
-<div class="post" data-post-id="36870" data-author="Teron" data-date="2016-04-21T10:00:59+00:00">
+<div class="post" data-post-id="36870" data-author="Teron" data-date="2016-04-21T10:00:59+00:00" data-subject="Re: Ideas to encourage groups">
 
 Eze, when I suggested that we should increase gem poprates on Valk, Splork said:
 
@@ -148,13 +148,13 @@ Oh wait, you are against newbies on Lyme.
 
 </div>
 
-<div class="post" data-post-id="36872" data-author="Ezekiel" data-date="2016-04-22T03:10:33+00:00">
+<div class="post" data-post-id="36872" data-author="Ezekiel" data-date="2016-04-22T03:10:33+00:00" data-subject="Re: Ideas to encourage groups">
 
 Taron, you are under the presumption that adding newbies in groups increases gem pop chance (which has not been verified at all, only suggested on what could be mere coincidences) and that if gem pop was increased...that it somehow would be equivalent/increased on Lyme (which I'm not suggesting and I don't think imms would go for anyway, since traditionally, they have not). Thus, gem pop chance wouldn't deal with the Lyme issue at all...sorry you try to tie everything into still being able to run your newb there, but gem pop increase issue is not one.
 
 </div>
 
-<div class="post" data-post-id="36873" data-author="Teron" data-date="2016-04-22T10:35:00+00:00">
+<div class="post" data-post-id="36873" data-author="Teron" data-date="2016-04-22T10:35:00+00:00" data-subject="Re: Ideas to encourage groups">
 
 1. I only suggested increasing gem pop rate on Valk to bring remorts/experienced alts on Valk to increase groups.
 
@@ -189,7 +189,7 @@ P.S. I understand that you are taking a break since you lost a golden sack. If i
 
 </div>
 
-<div class="post" data-post-id="36874" data-author="cyprimus" data-date="2016-04-22T16:12:02+00:00">
+<div class="post" data-post-id="36874" data-author="cyprimus" data-date="2016-04-22T16:12:02+00:00" data-subject="Re: Ideas to encourage groups">
 
 I am wondering if having a scheduled time would help.. especially on weekends..
 
@@ -203,7 +203,7 @@ Just waking up, so someone organize my thoughs already!
 
 </div>
 
-<div class="post" data-post-id="36875" data-author="Teron" data-date="2016-04-23T07:58:49+00:00">
+<div class="post" data-post-id="36875" data-author="Teron" data-date="2016-04-23T07:58:49+00:00" data-subject="Re: Ideas to encourage groups">
 
 I thought about a quarterly calendar, where we could see:
 
@@ -221,7 +221,7 @@ Though I'll look into the calendar thing, if I have time.
 
 </div>
 
-<div class="post" data-post-id="36876" data-author="*Splork*" data-date="2016-04-23T22:19:16+00:00">
+<div class="post" data-post-id="36876" data-author="*Splork*" data-date="2016-04-23T22:19:16+00:00" data-subject="Re: Ideas to encourage groups">
 
 There are many factors which play into gem pop rates. A few of those factors are group size, xp of creature, and if your on Lyme or not.
 
@@ -233,7 +233,7 @@ If your off Lyme, the better the pop rate.
 
 </div>
 
-<div class="post" data-post-id="36877" data-author="*Breeze*" data-date="2016-04-24T06:49:20+00:00">
+<div class="post" data-post-id="36877" data-author="*Breeze*" data-date="2016-04-24T06:49:20+00:00" data-subject="Re: Ideas to encourage groups">
 
 > **Teron wrote:**
 > I thought about a quarterly calendar, where we could see:
@@ -260,7 +260,7 @@ come up with a complete idea for the website  and I will consider it..
 
 </div>
 
-<div class="post" data-post-id="36878" data-author="Teron" data-date="2016-04-24T14:27:23+00:00">
+<div class="post" data-post-id="36878" data-author="Teron" data-date="2016-04-24T14:27:23+00:00" data-subject="Re: Ideas to encourage groups">
 
 Splork, since at least Eze and I agree that we need chop grops, would you consider at least upping the Lyme gem pop rate to the level of off-Lyme? That'd offer an incentive for people to kill large mobs there, rather than solo.
 
@@ -270,7 +270,7 @@ Breeze, I'll try to provide more precise suggestion during the week.
 
 </div>
 
-<div class="post" data-post-id="36879" data-author="*Splork*" data-date="2016-04-25T00:45:28+00:00">
+<div class="post" data-post-id="36879" data-author="*Splork*" data-date="2016-04-25T00:45:28+00:00" data-subject="Re: Ideas to encourage groups">
 
 We have enjoyed watching this thread and the many opinions within. 
 
@@ -280,13 +280,13 @@ We are open to increasing the chop percentage and xp rate of chop.
 
 </div>
 
-<div class="post" data-post-id="36880" data-author="cyprimus" data-date="2016-04-25T04:51:48+00:00">
+<div class="post" data-post-id="36880" data-author="cyprimus" data-date="2016-04-25T04:51:48+00:00" data-subject="Re: Ideas to encourage groups">
 
 any chance of opening valk?
 
 </div>
 
-<div class="post" data-post-id="36885" data-author="*Splork*" data-date="2016-04-25T22:18:46+00:00">
+<div class="post" data-post-id="36885" data-author="*Splork*" data-date="2016-04-25T22:18:46+00:00" data-subject="Re: Ideas to encourage groups">
 
 We are not actively discussing opening up  Valk to all players. 
 
@@ -294,19 +294,19 @@ The better solution would be to move Valk or all of Valk's content to BH but we 
 
 </div>
 
-<div class="post" data-post-id="36886" data-author="Teron" data-date="2016-04-25T22:49:27+00:00">
+<div class="post" data-post-id="36886" data-author="Teron" data-date="2016-04-25T22:49:27+00:00" data-subject="Re: Ideas to encourage groups">
 
 Why not increase the valk limit to 30 or 40 prime, so players pop/forge the stuff they need then? Hardly all newbies know that they can't go back to valk after leveling 21 to complete autoquests, do eq and do coliseum.
 
 </div>
 
-<div class="post" data-post-id="36887" data-author="*Splork*" data-date="2016-04-25T23:08:24+00:00">
+<div class="post" data-post-id="36887" data-author="*Splork*" data-date="2016-04-25T23:08:24+00:00" data-subject="Re: Ideas to encourage groups">
 
 Understood. The simple answer is that we are not opening up level 20 areas to be annihilated by higher level characters.
 
 </div>
 
-<div class="post" data-post-id="36888" data-author="zenoko" data-date="2016-04-26T00:24:50+00:00">
+<div class="post" data-post-id="36888" data-author="zenoko" data-date="2016-04-26T00:24:50+00:00" data-subject="Re: Ideas to encourage groups">
 
 personally I love to group but it is almost impossible to find someone to group with due to levels
 
@@ -318,7 +318,7 @@ I think if grouping in small groups was more rewarding more people would do it.
 
 </div>
 
-<div class="post" data-post-id="36889" data-author="Teron" data-date="2016-04-26T08:25:43+00:00">
+<div class="post" data-post-id="36889" data-author="Teron" data-date="2016-04-26T08:25:43+00:00" data-subject="Re: Ideas to encourage groups">
 
 The problem with Valk is that I and everyone else have to tell all real newbies that get to 20 to stay on valk, finish quests, eq and coliseum. And when I or anyone hadn't told them, they have to ask to be deleveled to 21, because they had already missed a significant chunk of gameplay and a limited, highly guarded, resource.
 
@@ -326,7 +326,7 @@ It really needs to be plastered across all relevant helpfiles, autoquests, level
 
 </div>
 
-<div class="post" data-post-id="36891" data-author="zenoko" data-date="2016-04-26T17:25:39+00:00">
+<div class="post" data-post-id="36891" data-author="zenoko" data-date="2016-04-26T17:25:39+00:00" data-subject="Re: Ideas to encourage groups">
 
 I wonder if there could be an option to skip valk and start as a level 20 with free rerolls and the drachma...
 
@@ -336,7 +336,7 @@ this will still leave valk relevant due to people wanting valk only eq like the 
 
 </div>
 
-<div class="post" data-post-id="36892" data-author="Teron" data-date="2016-04-27T06:43:08+00:00">
+<div class="post" data-post-id="36892" data-author="Teron" data-date="2016-04-27T06:43:08+00:00" data-subject="Re: Ideas to encourage groups">
 
 1. Create a 20 valk character with 130 drachma.
 
@@ -356,7 +356,7 @@ Also, it'll leave 20s out of grandmaster thug groups, pretty much the only group
 
 </div>
 
-<div class="post" data-post-id="36893" data-author="Ker" data-date="2016-04-27T06:46:19+00:00">
+<div class="post" data-post-id="36893" data-author="Ker" data-date="2016-04-27T06:46:19+00:00" data-subject="Re: Ideas to encourage groups">
 
 Token method doesn't work anymore unfortunately. 
 
@@ -366,7 +366,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36895" data-author="*Splork*" data-date="2016-04-27T17:09:33+00:00">
+<div class="post" data-post-id="36895" data-author="*Splork*" data-date="2016-04-27T17:09:33+00:00" data-subject="Re: Ideas to encourage groups">
 
 We have increased the following spec weapons damage:
 
@@ -382,7 +382,7 @@ Any weapons currently in-game will have old statistics, players will need pop ne
 
 </div>
 
-<div class="post" data-post-id="36896" data-author="*Splork*" data-date="2016-04-29T11:40:40+00:00">
+<div class="post" data-post-id="36896" data-author="*Splork*" data-date="2016-04-29T11:40:40+00:00" data-subject="Re: Ideas to encourage groups">
 
 Somebody sent me an email asking a good question: Why hasn't the ID on specs changed since the stat changes?
 
@@ -414,7 +414,7 @@ CONFIG_ID[0] Type: PROC[3] - vorpal
 
 </div>
 
-<div class="post" data-post-id="36897" data-author="Teron" data-date="2016-04-29T17:46:40+00:00">
+<div class="post" data-post-id="36897" data-author="Teron" data-date="2016-04-29T17:46:40+00:00" data-subject="Re: Ideas to encourage groups">
 
 I've tested a large curved scimitar after reboot.
 
@@ -424,7 +424,7 @@ I have a log, if needed.
 
 </div>
 
-<div class="post" data-post-id="36898" data-author="*Splork*" data-date="2016-04-30T17:24:14+00:00">
+<div class="post" data-post-id="36898" data-author="*Splork*" data-date="2016-04-30T17:24:14+00:00" data-subject="Re: Ideas to encourage groups">
 
 I logged in and checked and for some reason the procs are not adjusting to the new rates. When I set the proc % to be higher, I can kill a mob in 6 chops, like it should. When I keep the proc % default, it takes way more than it should.
 
@@ -432,7 +432,7 @@ I will try to find time tonight and see what I can find out.
 
 </div>
 
-<div class="post" data-post-id="36899" data-author="*Splork*" data-date="2016-04-30T18:05:26+00:00">
+<div class="post" data-post-id="36899" data-author="*Splork*" data-date="2016-04-30T18:05:26+00:00" data-subject="Re: Ideas to encourage groups">
 
 After doing some testing, there was indeed a bug in the vorpal proc. There are different rates for Lyme and off Lyme chop and everything was defaulting to off lyme rates.
 
@@ -444,7 +444,7 @@ I need to reboot to get the change live.
 
 </div>
 
-<div class="post" data-post-id="36907" data-author="zenoko" data-date="2016-05-04T04:26:49+00:00">
+<div class="post" data-post-id="36907" data-author="zenoko" data-date="2016-05-04T04:26:49+00:00" data-subject="Re: Ideas to encourage groups">
 
 just an ideal you could introduce group quests (its very common on valk to group for grandmaster thug)
 
@@ -454,7 +454,7 @@ the ideal of the group quest would be to make it long (not just a pop an item) i
 
 </div>
 
-<div class="post" data-post-id="36908" data-author="Yasik" data-date="2016-05-04T13:47:48+00:00">
+<div class="post" data-post-id="36908" data-author="Yasik" data-date="2016-05-04T13:47:48+00:00" data-subject="Re: Ideas to encourage groups">
 
 The Grandmaster Thug quest is solo, we just need to be prepared, otherwise its quite hard.
 
@@ -488,7 +488,7 @@ Only way to herd people into group - by making them **want** to group, abusing t
 
 </div>
 
-<div class="post" data-post-id="36909" data-author="Teron" data-date="2016-05-04T15:34:23+00:00">
+<div class="post" data-post-id="36909" data-author="Teron" data-date="2016-05-04T15:34:23+00:00" data-subject="Re: Ideas to encourage groups">
 
 **Zenoko**, that's a good idea.
 
@@ -525,7 +525,7 @@ So please keep your finger-pointing to yourself, apologize to Cyprimus, and let'
 
 </div>
 
-<div class="post" data-post-id="36928" data-author="Teron" data-date="2016-05-16T09:21:04+00:00">
+<div class="post" data-post-id="36928" data-author="Teron" data-date="2016-05-16T09:21:04+00:00" data-subject="Reporting on a chop group">
 
 I've finally ran a chop group yesterday with the following results:
 
@@ -543,13 +543,13 @@ Group members can report how they liked the group, too.
 
 </div>
 
-<div class="post" data-post-id="36952" data-author="*juggleblood*" data-date="2016-06-05T22:43:04+00:00">
+<div class="post" data-post-id="36952" data-author="*juggleblood*" data-date="2016-06-05T22:43:04+00:00" data-subject="Re: Ideas to encourage groups">
 
 We need a phone app with alerts related to grouping, i.e. group of size X is formed or leader Y has started a group or player Z has pinged me to join. I bet that would entice a lot of people into logging more frequently. I know it would work on me.
 
 </div>
 
-<div class="post" data-post-id="36953" data-author="Vegetable" data-date="2016-06-05T23:42:32+00:00">
+<div class="post" data-post-id="36953" data-author="Vegetable" data-date="2016-06-05T23:42:32+00:00" data-subject="Re: Ideas to encourage groups">
 
 > ***juggleblood* wrote:**
 > We need a phone app with alerts related to grouping, i.e. group of size X is formed or leader Y has started a group or player Z has pinged me to join. I bet that would entice a lot of people into logging more frequently. I know it would work on me.
@@ -558,7 +558,7 @@ Brilliant idea. The phone app can be used to update players about upcoming quest
 
 </div>
 
-<div class="post" data-post-id="36954" data-author="Dandelo" data-date="2016-06-06T20:53:39+00:00">
+<div class="post" data-post-id="36954" data-author="Dandelo" data-date="2016-06-06T20:53:39+00:00" data-subject="Re: Ideas to encourage groups">
 
 I would load it on my phone.
 
@@ -566,7 +566,7 @@ I would load it on my phone.
 
 </div>
 
-<div class="post" data-post-id="36955" data-author="Teron" data-date="2016-06-07T11:19:31+00:00">
+<div class="post" data-post-id="36955" data-author="Teron" data-date="2016-06-07T11:19:31+00:00" data-subject="Re: Ideas to encourage groups">
 
 Way ahead of you people.
 
@@ -590,13 +590,13 @@ P.S. In a recent chop group of about 6-8 ppl, we managed to do good consistent e
 
 </div>
 
-<div class="post" data-post-id="36970" data-author="*juggleblood*" data-date="2016-06-22T21:36:34+00:00">
+<div class="post" data-post-id="36970" data-author="*juggleblood*" data-date="2016-06-22T21:36:34+00:00" data-subject="Re: Ideas to encourage groups">
 
 Ok, I am using Telegram Slothmud Channel now, thanks for the tip. I encourage more people to do this by sending out chat msgs when they forming a group, or need a raise. It's pretty cool. I wonder if there's a way to have the game send out telegram msgs? That could be pretty awesome. If for example a chat message went out everytime the extras change, or even maybe if an epic dies.
 
 </div>
 
-<div class="post" data-post-id="36973" data-author="Teron" data-date="2016-06-23T08:53:17+00:00">
+<div class="post" data-post-id="36973" data-author="Teron" data-date="2016-06-23T08:53:17+00:00" data-subject="Re: Ideas to encourage groups">
 
 1. You/Breeze/Splork can create a SlothBot:
 
@@ -624,7 +624,7 @@ Or, I dunno, treat the bot as another web client and allow players explore the e
 
 </div>
 
-<div class="post" data-post-id="36975" data-author="Teron" data-date="2016-06-26T06:57:49+00:00">
+<div class="post" data-post-id="36975" data-author="Teron" data-date="2016-06-26T06:57:49+00:00" data-subject="Re: Ideas to encourage groups">
 
 Yesterday we chopped for 2 hrs with 10-12 ppl, and when we moved to AH, we did 25% more exp.
 

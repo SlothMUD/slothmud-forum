@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="20303" data-author="Shyla" data-date="2007-09-17T16:00:38+00:00">
+<div class="post" data-post-id="20303" data-author="Shyla" data-date="2007-09-17T16:00:38+00:00" data-subject="Something freaky is it a bug or what?">
 
 <674hp 567ma 222mv>
 
@@ -108,7 +108,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="20304" data-author="Medios" data-date="2007-09-17T19:32:42+00:00">
+<div class="post" data-post-id="20304" data-author="Medios" data-date="2007-09-17T19:32:42+00:00" data-subject="">
 
 A better question is
 
@@ -120,7 +120,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="20305" data-author="Leaf" data-date="2007-09-17T20:21:32+00:00">
+<div class="post" data-post-id="20305" data-author="Leaf" data-date="2007-09-17T20:21:32+00:00" data-subject="">
 
 Shyla was buying newbie'ish eq for newbies :).  However it seems when
 
@@ -132,7 +132,7 @@ had something personal attached?
 
 </div>
 
-<div class="post" data-post-id="20306" data-author="Medios" data-date="2007-09-17T20:35:23+00:00">
+<div class="post" data-post-id="20306" data-author="Medios" data-date="2007-09-17T20:35:23+00:00" data-subject="">
 
 Shyla was buying newbie'ish eq for newbies :).  However it seems when
 
@@ -146,13 +146,13 @@ u sure Will?
 
 </div>
 
-<div class="post" data-post-id="20307" data-author="Leaf" data-date="2007-09-17T21:43:50+00:00">
+<div class="post" data-post-id="20307" data-author="Leaf" data-date="2007-09-17T21:43:50+00:00" data-subject="">
 
 Yes I r Mikey :)
 
 </div>
 
-<div class="post" data-post-id="20308" data-author="banedon" data-date="2007-09-17T21:56:36+00:00">
+<div class="post" data-post-id="20308" data-author="banedon" data-date="2007-09-17T21:56:36+00:00" data-subject="">
 
 Here's a piece of advice someone gave me when I first started playing this MUD.
 
@@ -162,13 +162,13 @@ Remember, its not a bug, its just an undocumented feature.
 
 </div>
 
-<div class="post" data-post-id="20309" data-author="mahkra" data-date="2007-09-17T22:54:54+00:00">
+<div class="post" data-post-id="20309" data-author="mahkra" data-date="2007-09-17T22:54:54+00:00" data-subject="">
 
 I believe she said she didn't buy anything but just typed list and the gem detached and was in her inventory.
 
 </div>
 
-<div class="post" data-post-id="20310" data-author="Karna" data-date="2007-09-17T23:49:17+00:00">
+<div class="post" data-post-id="20310" data-author="Karna" data-date="2007-09-17T23:49:17+00:00" data-subject="">
 
 I had the same thing happen maybe 6+ months ago to my valker that Shyla is describing.
 
@@ -176,7 +176,7 @@ Karna
 
 </div>
 
-<div class="post" data-post-id="20311" data-author="Malison" data-date="2007-09-18T12:26:08+00:00">
+<div class="post" data-post-id="20311" data-author="Malison" data-date="2007-09-18T12:26:08+00:00" data-subject="">
 
 Same thing has happened multiple times with oak leaf clusters to me as well.
 

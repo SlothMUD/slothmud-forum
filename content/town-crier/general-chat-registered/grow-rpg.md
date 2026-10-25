@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10042" data-author="brand" data-date="2006-01-10T05:09:15+00:00">
+<div class="post" data-post-id="10042" data-author="brand" data-date="2006-01-10T05:09:15+00:00" data-subject="GROW RPG">
 
 now this is pretty fun stuff to do while you are in regen or waiting to mort!
 

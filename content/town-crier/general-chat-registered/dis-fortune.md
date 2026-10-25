@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39294" data-author="Gorka" data-date="2019-08-19T11:49:56+00:00">
+<div class="post" data-post-id="39294" data-author="Gorka" data-date="2019-08-19T11:49:56+00:00" data-subject="Dis/Fortune">
 
 After Neptunes benevolence with the scatter quest last night I decided I may as well move towards buying the rest of the drachma spell books I haven't read... so I brought 2 fortune books for 10 drachma. I've put off buying them as I am not a gambling man and there is some consensus that using the spell isn't worth it.
 

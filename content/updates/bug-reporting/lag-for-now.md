@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="30692" data-author="Tuck" data-date="2010-01-16T11:48:28+00:00">
+<div class="post" data-post-id="30692" data-author="Tuck" data-date="2010-01-16T11:48:28+00:00" data-subject="lag for now">
 
 Ping statistics for 209.139.208.64:
 
@@ -22,7 +22,7 @@ Approximate round trip times in milli-seconds:
 
 </div>
 
-<div class="post" data-post-id="30693" data-author="Stab" data-date="2010-01-16T12:18:28+00:00">
+<div class="post" data-post-id="30693" data-author="Stab" data-date="2010-01-16T12:18:28+00:00" data-subject="RE: lag for now">
 
 Reply from 209.139.208.64 
 
@@ -50,7 +50,7 @@ Stab
 
 </div>
 
-<div class="post" data-post-id="30694" data-author="*Splork*" data-date="2010-01-16T21:18:23+00:00">
+<div class="post" data-post-id="30694" data-author="*Splork*" data-date="2010-01-16T21:18:23+00:00" data-subject="Issue resolved">
 
 Last night I screwed up and accidentally rebooted the live port instead of the builder's port. During this event, a second process of slothmud was attempting to start every few minutes and ultimately crashing because the live mud was already up and running. This process was causing the lag.
 
@@ -62,7 +62,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30697" data-author="Stab" data-date="2010-01-17T13:35:58+00:00">
+<div class="post" data-post-id="30697" data-author="Stab" data-date="2010-01-17T13:35:58+00:00" data-subject="RE: Issue resolved">
 
 Nice improvement:
 

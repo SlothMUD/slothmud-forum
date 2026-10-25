@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="13722" data-author="Teron" data-date="2006-08-19T13:10:26+00:00">
+<div class="post" data-post-id="13722" data-author="Teron" data-date="2006-08-19T13:10:26+00:00" data-subject="Intricacies of using toothpicks">
 
 As of today, 26th day of the Month of the Frost Giant, year 490, a group of about 10 was granted a priveledge to use a toothpick. But this was no common toothpick, but the Blaster's deadly toothpick. Therefore, Blaster is to be thanked for giving the group an opportunity to enjoy the rare moment of MUD joy (of using a Blaster's toothpick).
 
@@ -28,7 +28,7 @@ Thanks everyone for participating (Blaster, too!).
 
 </div>
 
-<div class="post" data-post-id="13723" data-author="Dedsune" data-date="2006-08-20T17:53:46+00:00">
+<div class="post" data-post-id="13723" data-author="Dedsune" data-date="2006-08-20T17:53:46+00:00" data-subject="">
 
 Definitely a weapon worth sharing with mobs. Thanks Blaster, it was a blast.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 42
 ---
 
-<div class="post" data-post-id="10033" data-author="grantis" data-date="2006-01-09T20:04:28+00:00">
+<div class="post" data-post-id="10033" data-author="grantis" data-date="2006-01-09T20:04:28+00:00" data-subject="Bug with silence">
 
 cast 'silence' older
 
@@ -104,31 +104,31 @@ Damn cheating gang leaders
 
 </div>
 
-<div class="post" data-post-id="10046" data-author="Vixn" data-date="2006-01-10T08:16:47+00:00">
+<div class="post" data-post-id="10046" data-author="Vixn" data-date="2006-01-10T08:16:47+00:00" data-subject="">
 
 Seems he uses mysterious technique based on deaf-and-dumb language and pantomime.
 
 </div>
 
-<div class="post" data-post-id="10047" data-author="Krok" data-date="2006-01-10T10:24:59+00:00">
+<div class="post" data-post-id="10047" data-author="Krok" data-date="2006-01-10T10:24:59+00:00" data-subject="">
 
 Oh, he borrowed my mystical ki powers!
 
 </div>
 
-<div class="post" data-post-id="10061" data-author="Yasik" data-date="2006-01-10T17:42:25+00:00">
+<div class="post" data-post-id="10061" data-author="Yasik" data-date="2006-01-10T17:42:25+00:00" data-subject="">
 
 His yelling is a proc message. Silence is useless.
 
 </div>
 
-<div class="post" data-post-id="10064" data-author="kjartan" data-date="2006-01-10T18:05:50+00:00">
+<div class="post" data-post-id="10064" data-author="kjartan" data-date="2006-01-10T18:05:50+00:00" data-subject="">
 
 But really... slience [i:x8i5u4m4]ought[/i:x8i5u4m4] to work.  Maybe I'll have a look at that tonight too.
 
 </div>
 
-<div class="post" data-post-id="10065" data-author="12345" data-date="2006-01-10T18:38:19+00:00">
+<div class="post" data-post-id="10065" data-author="12345" data-date="2006-01-10T18:38:19+00:00" data-subject="">
 
 *blink*  Oh yeah... realism.
 
@@ -140,7 +140,7 @@ I'm sure I'll think of something else... I kinda like having this realism thing 
 
 </div>
 
-<div class="post" data-post-id="10066" data-author="kjartan" data-date="2006-01-10T19:11:39+00:00">
+<div class="post" data-post-id="10066" data-author="kjartan" data-date="2006-01-10T19:11:39+00:00" data-subject="">
 
 I think many, but probably not all, of the phase checks are level based.  That is, a level 41 or 42 mob can phase right through your pathetic level 40 bind.  I'd have to double check that, though - it could just be random.
 
@@ -148,7 +148,7 @@ I think you can't phase through force fields.
 
 </div>
 
-<div class="post" data-post-id="10067" data-author="12345" data-date="2006-01-10T19:35:56+00:00">
+<div class="post" data-post-id="10067" data-author="12345" data-date="2006-01-10T19:35:56+00:00" data-subject="">
 
 Hmm.. I used a bad word.  I was referring to the proc that allows mobs to 'fly away' in battle.  In sakura, there's a mob under the water that uses it to hide underwater and come back and attack, in Aaost, there's a bird that flies away then returns and attacks.  In ET there's a gargoyle that does basically the same thing.  You can still web or use arms to reduce their hitroll, but they'll fly and swim away with no really problem at all.
 
@@ -158,13 +158,13 @@ I call it phasing, but it's not a 'phase door' type effect, it's some mob_proc.
 
 </div>
 
-<div class="post" data-post-id="10070" data-author="12345" data-date="2006-01-10T20:37:12+00:00">
+<div class="post" data-post-id="10070" data-author="12345" data-date="2006-01-10T20:37:12+00:00" data-subject="">
 
 In Kj speak: kvp_hide(), possibly kvp_hostage() as well.
 
 </div>
 
-<div class="post" data-post-id="10071" data-author="Clink" data-date="2006-01-10T20:59:46+00:00">
+<div class="post" data-post-id="10071" data-author="Clink" data-date="2006-01-10T20:59:46+00:00" data-subject="">
 
 ... You can still web or use arms to reduce their hitroll, but they'll fly and swim away with no really problem at all.
 
@@ -178,31 +178,31 @@ It probably makes sense for them to resist webs and be too nimble for the arms t
 
 </div>
 
-<div class="post" data-post-id="10072" data-author="12345" data-date="2006-01-10T21:12:01+00:00">
+<div class="post" data-post-id="10072" data-author="12345" data-date="2006-01-10T21:12:01+00:00" data-subject="">
 
 Cool, while you're at it, you can adjust it so they're not close enough to hit me with their weapons too.
 
 </div>
 
-<div class="post" data-post-id="10073" data-author="kjartan" data-date="2006-01-11T04:29:30+00:00">
+<div class="post" data-post-id="10073" data-author="kjartan" data-date="2006-01-11T04:29:30+00:00" data-subject="">
 
 Ok, the thug leader is silencable as of next crash or reboot.  If there are other specific mobs that are violating reasonable silence behavior, tell me the specific mob on here and I'll probably try to fix it.
 
 </div>
 
-<div class="post" data-post-id="10075" data-author="grantis" data-date="2006-01-11T11:33:54+00:00">
+<div class="post" data-post-id="10075" data-author="grantis" data-date="2006-01-11T11:33:54+00:00" data-subject="">
 
 Many thanks, much appreciated
 
 </div>
 
-<div class="post" data-post-id="10078" data-author="heaven" data-date="2006-01-11T14:26:56+00:00">
+<div class="post" data-post-id="10078" data-author="heaven" data-date="2006-01-11T14:26:56+00:00" data-subject="">
 
 what about those mobs that are not silenced despite masterful casting? Would these be solved? It makes no sense that masterful casting = useless action.
 
 </div>
 
-<div class="post" data-post-id="10085" data-author="kjartan" data-date="2006-01-11T18:11:44+00:00">
+<div class="post" data-post-id="10085" data-author="kjartan" data-date="2006-01-11T18:11:44+00:00" data-subject="">
 
 It depends on the mob.  If you see a mob that is acting like it's not silenced even though you successfully cast a silence spell on it, post it here and I'll perhaps fix it.  I have to fix them, or at least some of them, on a case-by-case basis and I don't want to search the entire zillion mobs so I'll just fix them as they're problems.
 
@@ -210,7 +210,7 @@ I don't know what masterful silence does; I'll check and if it doesn't do anythi
 
 </div>
 
-<div class="post" data-post-id="10284" data-author="deucer" data-date="2006-01-22T11:23:17+00:00">
+<div class="post" data-post-id="10284" data-author="deucer" data-date="2006-01-22T11:23:17+00:00" data-subject="non-silence mob ?">
 
 I cast a successful silence spell on librarian at Cholemry school. This mob was still able to "silence" one of my followers, and myself. For example:
 
@@ -272,19 +272,19 @@ Deucer - Zuuul ingame
 
 </div>
 
-<div class="post" data-post-id="10287" data-author="kjartan" data-date="2006-01-22T16:04:33+00:00">
+<div class="post" data-post-id="10287" data-author="kjartan" data-date="2006-01-22T16:04:33+00:00" data-subject="">
 
 Ok, should be fixed next crash or reboot.
 
 </div>
 
-<div class="post" data-post-id="10300" data-author="Mustang" data-date="2006-01-23T17:14:00+00:00">
+<div class="post" data-post-id="10300" data-author="Mustang" data-date="2006-01-23T17:14:00+00:00" data-subject="fix blinded mobs?">
 
 now would it be possible/appropriate to stop blinded mobs from healing themselves?  since we can't heal/restore self while blinded, it would be weird that mobs can.
 
 </div>
 
-<div class="post" data-post-id="10330" data-author="Mike" data-date="2006-01-25T10:37:27+00:00">
+<div class="post" data-post-id="10330" data-author="Mike" data-date="2006-01-25T10:37:27+00:00" data-subject="non-silence mob">
 
 Seems to me that crystal golem in water plane buged. 
 
@@ -324,7 +324,7 @@ Hope it is not a big deal to fix this mob. Thanks imms!
 
 </div>
 
-<div class="post" data-post-id="10489" data-author="deucer" data-date="2006-01-31T21:06:42+00:00">
+<div class="post" data-post-id="10489" data-author="deucer" data-date="2006-01-31T21:06:42+00:00" data-subject="another mob ignoring silence">
 
 white-robed sorcerer at Zodiac castle :
 
@@ -390,7 +390,7 @@ A white-robed sorcerer heals himself.
 
 </div>
 
-<div class="post" data-post-id="10495" data-author="*Splork*" data-date="2006-02-01T00:40:49+00:00">
+<div class="post" data-post-id="10495" data-author="*Splork*" data-date="2006-02-01T00:40:49+00:00" data-subject="">
 
 These two should be fixed after next reboot....
 
@@ -400,7 +400,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="10596" data-author="Dedsune" data-date="2006-02-06T22:59:40+00:00">
+<div class="post" data-post-id="10596" data-author="Dedsune" data-date="2006-02-06T22:59:40+00:00" data-subject="">
 
 <567hp 190ma 180mv>[-7.1:+13:+71:+17]:542504156xp>
 
@@ -440,7 +440,7 @@ Drum utters the words, 'gurunsoqz'
 
 </div>
 
-<div class="post" data-post-id="10597" data-author="*Splork*" data-date="2006-02-07T01:00:04+00:00">
+<div class="post" data-post-id="10597" data-author="*Splork*" data-date="2006-02-07T01:00:04+00:00" data-subject="">
 
 Fixed...
 
@@ -450,7 +450,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="11168" data-author="Vixn" data-date="2006-03-12T19:01:21+00:00">
+<div class="post" data-post-id="11168" data-author="Vixn" data-date="2006-03-12T19:01:21+00:00" data-subject="">
 
 <656hp 143ma 216mv -11.0ac -9al>
 
@@ -582,13 +582,13 @@ thanks in advance.
 
 </div>
 
-<div class="post" data-post-id="11179" data-author="kjartan" data-date="2006-03-12T22:43:21+00:00">
+<div class="post" data-post-id="11179" data-author="kjartan" data-date="2006-03-12T22:43:21+00:00" data-subject="">
 
 Fixed.
 
 </div>
 
-<div class="post" data-post-id="12395" data-author="deucer" data-date="2006-04-29T15:39:13+00:00">
+<div class="post" data-post-id="12395" data-author="deucer" data-date="2006-04-29T15:39:13+00:00" data-subject="silence broken again ?">
 
 KJ fixed this some time ago. Looks like librarian in Cholemry forgot lesson  to keep it shut. :P :
 
@@ -656,25 +656,25 @@ Zuuul
 
 </div>
 
-<div class="post" data-post-id="12396" data-author="Leaf" data-date="2006-04-29T16:00:02+00:00">
+<div class="post" data-post-id="12396" data-author="Leaf" data-date="2006-04-29T16:00:02+00:00" data-subject="">
 
 I think those are procs.
 
 </div>
 
-<div class="post" data-post-id="12397" data-author="13" data-date="2006-04-30T12:23:29+00:00">
+<div class="post" data-post-id="12397" data-author="13" data-date="2006-04-30T12:23:29+00:00" data-subject="">
 
 Will, stfu.
 
 </div>
 
-<div class="post" data-post-id="12398" data-author="Leaf" data-date="2006-04-30T22:45:41+00:00">
+<div class="post" data-post-id="12398" data-author="Leaf" data-date="2006-04-30T22:45:41+00:00" data-subject="">
 
 No can Do AA, ur silence spell didn't work on me. Bitch!!!
 
 </div>
 
-<div class="post" data-post-id="12414" data-author="Assirian" data-date="2006-05-04T07:55:33+00:00">
+<div class="post" data-post-id="12414" data-author="Assirian" data-date="2006-05-04T07:55:33+00:00" data-subject="">
 
 I don't know what masterful silence does; I'll check and if it doesn't do anything, I'll make it so that you never get a masterful casting of silence.[/quote:3sthikcp]
 
@@ -746,13 +746,13 @@ Miss Lebowski utters the words, 'uizuguburuhl'
 
 </div>
 
-<div class="post" data-post-id="12415" data-author="Assirian" data-date="2006-05-04T07:56:36+00:00">
+<div class="post" data-post-id="12415" data-author="Assirian" data-date="2006-05-04T07:56:36+00:00" data-subject="">
 
 sorry, the post was doubled by mystake
 
 </div>
 
-<div class="post" data-post-id="12569" data-author="Mog" data-date="2006-05-16T10:53:55+00:00">
+<div class="post" data-post-id="12569" data-author="Mog" data-date="2006-05-16T10:53:55+00:00" data-subject="">
 
 More mobs that cast through Silence.
 
@@ -826,7 +826,7 @@ Tested most of the caster mobs in Firenewts, all cast through silence.  Thanks i
 
 </div>
 
-<div class="post" data-post-id="12570" data-author="Mog" data-date="2006-05-16T10:55:46+00:00">
+<div class="post" data-post-id="12570" data-author="Mog" data-date="2006-05-16T10:55:46+00:00" data-subject="">
 
 More mobs that cast through Silence.
 
@@ -900,7 +900,7 @@ Tested most of the caster mobs in Firenewts, all cast through silence.  Thanks i
 
 </div>
 
-<div class="post" data-post-id="12610" data-author="kjartan" data-date="2006-05-20T15:49:47+00:00">
+<div class="post" data-post-id="12610" data-author="kjartan" data-date="2006-05-20T15:49:47+00:00" data-subject="">
 
 Firenewt: fixed, in next crash or reboot
 
@@ -908,7 +908,7 @@ Mme. Lebowski: fixed, in next crash or reboot (I also tweaked her casting to be 
 
 </div>
 
-<div class="post" data-post-id="12879" data-author="Avatar" data-date="2006-06-04T03:04:28+00:00">
+<div class="post" data-post-id="12879" data-author="Avatar" data-date="2006-06-04T03:04:28+00:00" data-subject="casting bug">
 
 It's not really concerning Silence, but this could be fixed too:
 
@@ -926,7 +926,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="12880" data-author="12345" data-date="2006-06-04T04:18:02+00:00">
+<div class="post" data-post-id="12880" data-author="12345" data-date="2006-06-04T04:18:02+00:00" data-subject="Re: casting bug">
 
 It's not really concerning Silence, but this could be fixed too:
 
@@ -946,7 +946,7 @@ I kinda liked that proc :)
 
 </div>
 
-<div class="post" data-post-id="13254" data-author="Weasel" data-date="2006-07-03T17:48:23+00:00">
+<div class="post" data-post-id="13254" data-author="Weasel" data-date="2006-07-03T17:48:23+00:00" data-subject="">
 
 another one that doesn't know when to stfu..
 
@@ -1000,13 +1000,13 @@ There is a puff of smoke, and a firenewt sergeant appears![/color:q4dv6c3g]
 
 </div>
 
-<div class="post" data-post-id="13255" data-author="kjartan" data-date="2006-07-03T18:09:07+00:00">
+<div class="post" data-post-id="13255" data-author="kjartan" data-date="2006-07-03T18:09:07+00:00" data-subject="">
 
 Fixed, incor.  I also fixed the bully clouds' 'skitzle' spell while I was in there.
 
 </div>
 
-<div class="post" data-post-id="13686" data-author="madmax" data-date="2006-08-07T03:11:13+00:00">
+<div class="post" data-post-id="13686" data-author="madmax" data-date="2006-08-07T03:11:13+00:00" data-subject="">
 
 <334hp 273ma 102mv>
 
@@ -1046,7 +1046,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="13687" data-author="Nascosto" data-date="2006-08-07T05:06:35+00:00">
+<div class="post" data-post-id="13687" data-author="Nascosto" data-date="2006-08-07T05:06:35+00:00" data-subject="">
 
 yes yes. this should be:
 
@@ -1058,13 +1058,13 @@ He smashes it with his mace, and is gone in a puff of blue smoke!
 
 </div>
 
-<div class="post" data-post-id="13689" data-author="kjartan" data-date="2006-08-08T01:11:46+00:00">
+<div class="post" data-post-id="13689" data-author="kjartan" data-date="2006-08-08T01:11:46+00:00" data-subject="">
 
 Fixed, although not exactly as Nascosto suggested.  And he DOES have a mace, read his description.
 
 </div>
 
-<div class="post" data-post-id="13690" data-author="brand" data-date="2006-08-08T14:05:36+00:00">
+<div class="post" data-post-id="13690" data-author="brand" data-date="2006-08-08T14:05:36+00:00" data-subject="">
 
 ...
 

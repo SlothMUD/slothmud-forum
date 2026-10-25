@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="31272" data-author="Spink" data-date="2010-06-02T19:44:41+00:00">
+<div class="post" data-post-id="31272" data-author="Spink" data-date="2010-06-02T19:44:41+00:00" data-subject="some ideas related to sponge">
 
 I have heard some other players discussing the issues pertaining to sponge levels, and I thought it might be nice for these concerns to be brought to a more public venue.
 
@@ -24,7 +24,7 @@ Please post your thoughts regarding this. I am particularly interested in hearin
 
 </div>
 
-<div class="post" data-post-id="31278" data-author="Nobody" data-date="2010-06-04T09:11:17+00:00">
+<div class="post" data-post-id="31278" data-author="Nobody" data-date="2010-06-04T09:11:17+00:00" data-subject="Re: some ideas related to sponge">
 
 Howdy,
 
@@ -40,7 +40,7 @@ Nobody in particular
 
 </div>
 
-<div class="post" data-post-id="31279" data-author="Thraxas" data-date="2010-06-04T12:59:45+00:00">
+<div class="post" data-post-id="31279" data-author="Thraxas" data-date="2010-06-04T12:59:45+00:00" data-subject="Re: some ideas related to sponge">
 
 > **Nobody wrote:**
 > Howdy,
@@ -73,13 +73,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="31280" data-author="Toxis" data-date="2010-06-04T15:25:41+00:00">
+<div class="post" data-post-id="31280" data-author="Toxis" data-date="2010-06-04T15:25:41+00:00" data-subject="Re: some ideas related to sponge">
 
 One of the best posts I've ever seen.. are you a polititian? :)
 
 </div>
 
-<div class="post" data-post-id="31281" data-author="Spink" data-date="2010-06-04T18:11:36+00:00">
+<div class="post" data-post-id="31281" data-author="Spink" data-date="2010-06-04T18:11:36+00:00" data-subject="Re: some ideas related to sponge">
 
 Thanks for responding!
 
@@ -97,7 +97,7 @@ To tweak these formulae does not seem terribly complex, but I am not immortal, s
 
 </div>
 
-<div class="post" data-post-id="31282" data-author="blackmore" data-date="2010-06-06T14:16:56+00:00">
+<div class="post" data-post-id="31282" data-author="blackmore" data-date="2010-06-06T14:16:56+00:00" data-subject="Re: some ideas related to sponge">
 
 I see a couple of issues with your arguments.
 
@@ -109,7 +109,7 @@ Your suggestion, if I understand it right, was to take xp away from the lowest l
 
 </div>
 
-<div class="post" data-post-id="31283" data-author="Spink" data-date="2010-06-06T20:23:44+00:00">
+<div class="post" data-post-id="31283" data-author="Spink" data-date="2010-06-06T20:23:44+00:00" data-subject="Re: some ideas related to sponge">
 
 Yes, I certainly don't want to penalize those high level avatars that already spend so much time to get their extremely marginal improvements. That situation really doesn't need exacerbation.
 
@@ -123,7 +123,7 @@ Since there is apparently no dissatisfaction, there's no need for any change.
 
 </div>
 
-<div class="post" data-post-id="31319" data-author="Rubiks" data-date="2010-06-20T08:07:26+00:00">
+<div class="post" data-post-id="31319" data-author="Rubiks" data-date="2010-06-20T08:07:26+00:00" data-subject="Re: some ideas related to sponge">
 
 While I would not say the current system is perfect, I would say that it is better than just about anything I could come up with.  I do offer the following adjustment:
 
@@ -143,7 +143,7 @@ tl;dr : let players determine usefulness, not the game.
 
 </div>
 
-<div class="post" data-post-id="31320" data-author="jezer" data-date="2010-06-20T11:00:51+00:00">
+<div class="post" data-post-id="31320" data-author="jezer" data-date="2010-06-20T11:00:51+00:00" data-subject="Re: some ideas related to sponge">
 
 A game as old as sloth, developed by as many people as it is, will become extremely fragmented in it's source code over time. As the source over time becomes complex and more "ad hoc" features are added, it makes it harder to fix things and make improvements without widespread consolidation and complete rewrites. If anything it's a marvel the game works as good as it does. 
 

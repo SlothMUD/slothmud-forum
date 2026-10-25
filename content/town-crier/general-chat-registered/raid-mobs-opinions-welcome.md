@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="37933" data-author="*juggleblood*" data-date="2017-01-06T01:56:19+00:00">
+<div class="post" data-post-id="37933" data-author="*juggleblood*" data-date="2017-01-06T01:56:19+00:00" data-subject="Raid Mobs, Opinions Welcome">
 
 I'm looking at the raid mobs and so far this is what I find:
 
@@ -50,7 +50,7 @@ Feel free to make specific or non-specific suggestions or share random thoughts.
 
 </div>
 
-<div class="post" data-post-id="37934" data-author="Teron" data-date="2017-01-06T05:38:48+00:00">
+<div class="post" data-post-id="37934" data-author="Teron" data-date="2017-01-06T05:38:48+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 I can only say that the low amount of honor on these don't motivate me hard enough to cycle these, so I'm not familiar with them. Since I can only clean 1 raid at a time, they don't provide me with enough rewards to be worth it.
 
@@ -58,7 +58,7 @@ I kind of like how they are scaled for areas - I have no idea if any non-avatars
 
 </div>
 
-<div class="post" data-post-id="37935" data-author="Gorka" data-date="2017-01-06T06:34:43+00:00">
+<div class="post" data-post-id="37935" data-author="Gorka" data-date="2017-01-06T06:34:43+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 I'm probably in a minority on this... but never been much of a fan of the rewards of the epic system. There is certainly a place for it in the game, but it's just not really up my alley. I don't understand why or how it even motivates some players as I feel it offers the slowest rate of reward return in the game. Anyway...
 
@@ -72,7 +72,7 @@ So although I expect my opinion to be among the minority, my point is JB, if you
 
 </div>
 
-<div class="post" data-post-id="37936" data-author="Gorka" data-date="2017-01-06T08:38:45+00:00">
+<div class="post" data-post-id="37936" data-author="Gorka" data-date="2017-01-06T08:38:45+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 Ok, Some constructive/creative ideas...
 
@@ -94,7 +94,7 @@ The above link is a list of demon's according to cultural societies... (I realis
 
 </div>
 
-<div class="post" data-post-id="37937" data-author="*juggleblood*" data-date="2017-01-06T14:11:49+00:00">
+<div class="post" data-post-id="37937" data-author="*juggleblood*" data-date="2017-01-06T14:11:49+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 That's pretty much what I'm suggesting when I say I'd like the raids to be bigger and more rewarding. But they would not be flagged epic, they would be flagged raid, the difference being the honor calculation and gem calculations. Tripping configs for victory is possible like hades priest (anyone else think luci should be aggro?).
 
@@ -108,13 +108,13 @@ As to the incentive being too little, the xp would go up dramatically if I make 
 
 </div>
 
-<div class="post" data-post-id="37938" data-author="Filk" data-date="2017-01-06T16:16:32+00:00">
+<div class="post" data-post-id="37938" data-author="Filk" data-date="2017-01-06T16:16:32+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 Just a thought - if you wanna agro mobs, you cant let them wander and make groups of several mobs without any limits. Otherwise nobody will hunt them because of too high danger. Go and kill 3 furies at once if disagree.
 
 </div>
 
-<div class="post" data-post-id="37940" data-author="*juggleblood*" data-date="2017-01-06T22:29:38+00:00">
+<div class="post" data-post-id="37940" data-author="*juggleblood*" data-date="2017-01-06T22:29:38+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 Yes obviously it would have to be balanced out... The process would be to try something new with the 3 that are not in game....and then maybe work on the others, one at a time, making sure it was playable and enjoyable.  
 
@@ -122,7 +122,7 @@ Another idea that I had today was that if you die to a raid mob, that Mathor ann
 
 </div>
 
-<div class="post" data-post-id="37941" data-author="Filk" data-date="2017-01-07T04:17:05+00:00">
+<div class="post" data-post-id="37941" data-author="Filk" data-date="2017-01-07T04:17:05+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 Not like i do that often. I mean dying on them. But still think its too spammy :)
 
@@ -130,7 +130,7 @@ Though its innate corpse report for sure. Make it for every death, not only hono
 
 </div>
 
-<div class="post" data-post-id="37942" data-author="Teron" data-date="2017-01-07T07:01:13+00:00">
+<div class="post" data-post-id="37942" data-author="Teron" data-date="2017-01-07T07:01:13+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 It's been a while since I suggested an idea for a honor shop, where you can spend your honor for a suboptimal item in lue of a bis item for your levels.
 
@@ -160,13 +160,13 @@ If players can get these items for honor, I bet you high honor raid mobs and epi
 
 </div>
 
-<div class="post" data-post-id="37943" data-author="*juggleblood*" data-date="2017-01-07T15:27:34+00:00">
+<div class="post" data-post-id="37943" data-author="*juggleblood*" data-date="2017-01-07T15:27:34+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 If you have all this equipment in mind, why don't you redo the drachma gear? It's hard enough keeping on top of that; I can't imagine having another equipment shop that uses yet another currency. The principles behind it would be very unclear. It's already unclear exactly what the purpose of the drachma gear is apart from having a lazy, easy way to add cool equipment to the game. I think it's a non-starter.
 
 </div>
 
-<div class="post" data-post-id="37944" data-author="Teron" data-date="2017-01-07T16:03:44+00:00">
+<div class="post" data-post-id="37944" data-author="Teron" data-date="2017-01-07T16:03:44+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 EQ through another currency is another way to get more powerful, which adds to the game variety and slightly power, if it is balanced.
 
@@ -180,7 +180,7 @@ JB, I understand that this sounds too useful, but tell me. My next rank is in 7.
 
 </div>
 
-<div class="post" data-post-id="37946" data-author="*juggleblood*" data-date="2017-01-07T19:25:46+00:00">
+<div class="post" data-post-id="37946" data-author="*juggleblood*" data-date="2017-01-07T19:25:46+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 If I can't get someone to redo the drachma gear even, then why would I want to to have to develop a whole new store that would have to be balanced against existing forges, drachma gear, 3x40 gear, and autoquest gear. No thanks. It's a non-starter.  I'd be more open to the idea of an armory or something where maybe you could draw out elite choppers or temp gear or something, but I'm not interested in coding such a thing at this time because I have other projects. I'm still not even that up to date with the existing honor stuff, I'm trying familiarize myself with what exists already, I have a package of Akasha's old files and stuff to help.
 
@@ -188,7 +188,7 @@ As to the question of why bother... Yes that's what I'm asking you, what do you 
 
 </div>
 
-<div class="post" data-post-id="37947" data-author="Gorka" data-date="2017-01-07T21:41:15+00:00">
+<div class="post" data-post-id="37947" data-author="Gorka" data-date="2017-01-07T21:41:15+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 I haven't forgotten about the drachma eq revamp... taron and I started.
 
@@ -196,7 +196,7 @@ Unfortunately no one besides Josiah has contributed. I am not concerned... when 
 
 </div>
 
-<div class="post" data-post-id="37951" data-author="Teron" data-date="2017-01-08T07:35:36+00:00">
+<div class="post" data-post-id="37951" data-author="Teron" data-date="2017-01-08T07:35:36+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 If honor items are weaker than even ingame items, the drachma shop isn't an issue.
 
@@ -206,7 +206,7 @@ You don't have to balance honor vs drachma in this case.
 
 </div>
 
-<div class="post" data-post-id="37952" data-author="*juggleblood*" data-date="2017-01-08T15:59:53+00:00">
+<div class="post" data-post-id="37952" data-author="*juggleblood*" data-date="2017-01-08T15:59:53+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 Of course it has to balanced. How else would I know if it supercedes anything or not. It's actually quite a bit of work to do such things, as you guys are realizing as you try to work on drachma eq. 
 
@@ -216,7 +216,7 @@ What are others thoughts on Taron's concept?
 
 </div>
 
-<div class="post" data-post-id="37953" data-author="Filk" data-date="2017-01-08T16:58:48+00:00">
+<div class="post" data-post-id="37953" data-author="Filk" data-date="2017-01-08T16:58:48+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 I also dont think its good idea to make honor as currency. You need to gather it for the ranks. Why you would spend it on some suboptimal eq. And if eq good, honor should be equal to drachma cost in terms of time. Which leads to hundreeds of thousands and millions for good piceces. And for low cost(like about 25k Taron offered for each), eq should be a joke. Lets not break system where we mostly get eq from mobs. We already have one superior shop with not balanced eq to involve another layer into the game.
 
@@ -226,7 +226,7 @@ I even think, that plain bonuses are weak for the time needed. You get extra .1 
 
 </div>
 
-<div class="post" data-post-id="37954" data-author="*Splork*" data-date="2017-01-08T23:14:59+00:00">
+<div class="post" data-post-id="37954" data-author="*Splork*" data-date="2017-01-08T23:14:59+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 Honor was approved as a secondary type of experience which would be attractive to certain players. We are not anticipating making any changes to its current place in the game.
 
@@ -234,7 +234,7 @@ We had started on redoing the clasps but it got lost in the shuffle a year or tw
 
 </div>
 
-<div class="post" data-post-id="37955" data-author="Gorka" data-date="2017-01-09T08:58:35+00:00">
+<div class="post" data-post-id="37955" data-author="Gorka" data-date="2017-01-09T08:58:35+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 * So, I think players in general like options, and probably wouldn't mind having another currency...
 
@@ -250,7 +250,7 @@ Meh, not sure we need another eq system though... just a thought.
 
 </div>
 
-<div class="post" data-post-id="37956" data-author="Teron" data-date="2017-01-09T10:28:00+00:00">
+<div class="post" data-post-id="37956" data-author="Teron" data-date="2017-01-09T10:28:00+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
 Fluffy, if you don't need suboptimal eq, don't buy it.
 

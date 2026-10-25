@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32448" data-author="*Isabo*" data-date="2011-02-26T12:42:18+00:00">
+<div class="post" data-post-id="32448" data-author="*Isabo*" data-date="2011-02-26T12:42:18+00:00" data-subject="Island vaults">
 
 Greeting mortals.
 

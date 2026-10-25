@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="11852" data-author="12345" data-date="2006-03-28T13:31:04+00:00">
+<div class="post" data-post-id="11852" data-author="12345" data-date="2006-03-28T13:31:04+00:00" data-subject="Thanks">
 
 I try to avoid CFs whenever possible.  If I have 2 in a night, that's usually my cue to stop leading.  There's been a few occasions though when I've really screwed things up.
 
@@ -24,7 +24,7 @@ Thanks.  :)
 
 </div>
 
-<div class="post" data-post-id="11853" data-author="Autolycos" data-date="2006-03-28T13:39:14+00:00">
+<div class="post" data-post-id="11853" data-author="Autolycos" data-date="2006-03-28T13:39:14+00:00" data-subject="">
 
 *snicker
 
@@ -36,7 +36,7 @@ danke
 
 </div>
 
-<div class="post" data-post-id="11854" data-author="Mosaix" data-date="2006-03-28T17:28:25+00:00">
+<div class="post" data-post-id="11854" data-author="Mosaix" data-date="2006-03-28T17:28:25+00:00" data-subject="">
 
 Tell Autolycos whats up.
 
@@ -46,7 +46,7 @@ Its my favorite and most frequent conversation I have with him  :lol:
 
 </div>
 
-<div class="post" data-post-id="11855" data-author="Autolycos" data-date="2006-03-28T18:34:18+00:00">
+<div class="post" data-post-id="11855" data-author="Autolycos" data-date="2006-03-28T18:34:18+00:00" data-subject="">
 
 heh  :twisted:  
 
@@ -54,7 +54,7 @@ i spend 50% of my mud time *floating upward*
 
 </div>
 
-<div class="post" data-post-id="11858" data-author="Lai" data-date="2006-03-28T23:19:02+00:00">
+<div class="post" data-post-id="11858" data-author="Lai" data-date="2006-03-28T23:19:02+00:00" data-subject="">
 
 *HUGS* You're welcome.  Although, I'm not sure HOW much I helped..heh.  Anytime I can help, I try. *wink*  Just for the record, the other was Drum. :)
 
@@ -64,7 +64,7 @@ Auto: If ya weren't such an elite sno.....uhm....grouch, people would know when 
 
 </div>
 
-<div class="post" data-post-id="11861" data-author="Mosaix" data-date="2006-03-29T00:21:46+00:00">
+<div class="post" data-post-id="11861" data-author="Mosaix" data-date="2006-03-29T00:21:46+00:00" data-subject="">
 
 I like to raise Auto cause hes a good guy....Well maybe because the exp is so good!  :shock: 
 
@@ -72,13 +72,13 @@ Seriously I dont think Auto has a problem getting raised.  Hes always out saving
 
 </div>
 
-<div class="post" data-post-id="11862" data-author="Lai" data-date="2006-03-29T00:50:49+00:00">
+<div class="post" data-post-id="11862" data-author="Lai" data-date="2006-03-29T00:50:49+00:00" data-subject="">
 
 I know....I like to give him a hard time...thaz all. ;)
 
 </div>
 
-<div class="post" data-post-id="11863" data-author="Autolycos" data-date="2006-03-29T01:25:17+00:00">
+<div class="post" data-post-id="11863" data-author="Autolycos" data-date="2006-03-29T01:25:17+00:00" data-subject="">
 
 cackle!   :twisted: 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="25433" data-author="Tap" data-date="2008-07-21T22:22:00+00:00">
+<div class="post" data-post-id="25433" data-author="Tap" data-date="2008-07-21T22:22:00+00:00" data-subject="It takes a village to raise a Polk">
 
 Polk has decided to rejoin the sloth community and I ,for one, am looking forward to helping out our dear,dear friend. I'd like for us all to come together and lend all the support that we can. I'll start by shipping his new char THIVEVIN some basic gear. As he progresses in levels, I will continue to send him more gear. I don't want to bog him down too much too quick.
 
@@ -56,7 +56,7 @@ Again, I implore those who can, to please give.
 
 </div>
 
-<div class="post" data-post-id="25434" data-author="Yasik2" data-date="2008-07-21T23:19:40+00:00">
+<div class="post" data-post-id="25434" data-author="Yasik2" data-date="2008-07-21T23:19:40+00:00" data-subject="">
 
 Oh yeah, so it begins *again*!!!!  :D  :D  :D 
 
@@ -68,7 +68,7 @@ Proofpic included:
 
 </div>
 
-<div class="post" data-post-id="25437" data-author="Yinao" data-date="2008-07-22T02:52:29+00:00">
+<div class="post" data-post-id="25437" data-author="Yinao" data-date="2008-07-22T02:52:29+00:00" data-subject="">
 
 Red Moran tells you 'Sorry, but Thivevin already has too many packages waiting to be picked up.'
 
@@ -76,7 +76,7 @@ Welp, guess that solves me sending you your lost stuff back  :wink:
 
 </div>
 
-<div class="post" data-post-id="25438" data-author="Yasik2" data-date="2008-07-22T03:04:54+00:00">
+<div class="post" data-post-id="25438" data-author="Yasik2" data-date="2008-07-22T03:04:54+00:00" data-subject="">
 
 Welp, guess that solves me sending you your lost stuff back  :wink:[/quote:3mmhc47e]
 
@@ -84,7 +84,7 @@ Who do you call 'whelp' here, boy?!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="25440" data-author="firebrand" data-date="2008-07-22T15:25:42+00:00">
+<div class="post" data-post-id="25440" data-author="firebrand" data-date="2008-07-22T15:25:42+00:00" data-subject="">
 
 y@55hat, that is welp - as in saying well....he's not calling you a whelp, although phonetically they DO sound the same.   if you insist on being insulted i am quite sure any number of us would be more than happy to provide that service for you.  and as for being a whelp, well....if the shoe fits....
 
@@ -92,13 +92,13 @@ y@55hat, that is welp - as in saying well....he's not calling you a whelp, altho
 
 </div>
 
-<div class="post" data-post-id="25441" data-author="13" data-date="2008-07-22T19:52:27+00:00">
+<div class="post" data-post-id="25441" data-author="13" data-date="2008-07-22T19:52:27+00:00" data-subject="">
 
 omg firebrand driving the windozer
 
 </div>
 
-<div class="post" data-post-id="25442" data-author="*juggleblood*" data-date="2008-07-23T02:02:17+00:00">
+<div class="post" data-post-id="25442" data-author="*juggleblood*" data-date="2008-07-23T02:02:17+00:00" data-subject="">
 
 Deaths under 40
 
@@ -170,7 +170,7 @@ Noob Life is rough
 
 </div>
 
-<div class="post" data-post-id="25443" data-author="Tap" data-date="2008-07-23T03:05:46+00:00">
+<div class="post" data-post-id="25443" data-author="Tap" data-date="2008-07-23T03:05:46+00:00" data-subject="">
 
 Keep trying Thivevin, I know you can at least make the top 3 if not #1
 
@@ -178,19 +178,19 @@ Good Luck :P
 
 </div>
 
-<div class="post" data-post-id="25444" data-author="angel" data-date="2008-07-23T09:17:10+00:00">
+<div class="post" data-post-id="25444" data-author="angel" data-date="2008-07-23T09:17:10+00:00" data-subject="">
 
 least i didnt top the death list :)
 
 </div>
 
-<div class="post" data-post-id="25455" data-author="13" data-date="2008-07-25T04:37:52+00:00">
+<div class="post" data-post-id="25455" data-author="13" data-date="2008-07-25T04:37:52+00:00" data-subject="">
 
 I always say if you aint dyin you aint tryin
 
 </div>
 
-<div class="post" data-post-id="25528" data-author="Yasik2" data-date="2008-08-02T07:57:22+00:00">
+<div class="post" data-post-id="25528" data-author="Yasik2" data-date="2008-08-02T07:57:22+00:00" data-subject="">
 
 y@55hat, that is welp - as in saying well....he's not calling you a whelp, although phonetically they DO sound the same.   if you insist on being insulted i am quite sure any number of us would be more than happy to provide that service for you.  and as for being a whelp, well....if the shoe fits....[/quote:f7pmqau4]
 
@@ -198,7 +198,7 @@ y@55hat, that is welp - as in saying well....he's not calling you a whelp, altho
 
 </div>
 
-<div class="post" data-post-id="25529" data-author="jezer" data-date="2008-08-02T09:59:41+00:00">
+<div class="post" data-post-id="25529" data-author="jezer" data-date="2008-08-02T09:59:41+00:00" data-subject="">
 
 *gulp*
 
@@ -206,7 +206,7 @@ Nice knowing you Yasik...  :twisted:
 
 </div>
 
-<div class="post" data-post-id="25533" data-author="firebrand" data-date="2008-08-03T02:46:24+00:00">
+<div class="post" data-post-id="25533" data-author="firebrand" data-date="2008-08-03T02:46:24+00:00" data-subject="">
 
 jeebus keerist!  you had eleven days to answer my post and all you were able to come up with is some cliche anime picture with a caption?  come on.....i've had better insults from dog shite.
 
@@ -214,13 +214,13 @@ jeebus keerist!  you had eleven days to answer my post and all you were able to 
 
 </div>
 
-<div class="post" data-post-id="25535" data-author="jezer" data-date="2008-08-03T03:06:45+00:00">
+<div class="post" data-post-id="25535" data-author="jezer" data-date="2008-08-03T03:06:45+00:00" data-subject="">
 
 :twisted:
 
 </div>
 
-<div class="post" data-post-id="25536" data-author="Yasik2" data-date="2008-08-03T03:11:43+00:00">
+<div class="post" data-post-id="25536" data-author="Yasik2" data-date="2008-08-03T03:11:43+00:00" data-subject="">
 
 jeebus keerist!  you had eleven days to answer my post and all you were able to come up with is some cliche anime picture with a caption?  come on.....i've had better insults from dog shite.[/quote:13xsowmm]
 
@@ -230,13 +230,13 @@ And that wasnt an insult, i sorta was hopin' you'll get teh humour since you're 
 
 </div>
 
-<div class="post" data-post-id="25537" data-author="jezer" data-date="2008-08-03T03:38:10+00:00">
+<div class="post" data-post-id="25537" data-author="jezer" data-date="2008-08-03T03:38:10+00:00" data-subject="">
 
 Does this mean you guys are back together again?  :shock:
 
 </div>
 
-<div class="post" data-post-id="25538" data-author="Yasik2" data-date="2008-08-03T04:01:12+00:00">
+<div class="post" data-post-id="25538" data-author="Yasik2" data-date="2008-08-03T04:01:12+00:00" data-subject="">
 
 Does this mean you guys are back together again?  :shock:[/quote:1fqswmwa]
 
@@ -246,19 +246,19 @@ Cyber-eagle wannts you to...
 
 </div>
 
-<div class="post" data-post-id="25539" data-author="jezer" data-date="2008-08-03T04:28:56+00:00">
+<div class="post" data-post-id="25539" data-author="jezer" data-date="2008-08-03T04:28:56+00:00" data-subject="">
 
 :D
 
 </div>
 
-<div class="post" data-post-id="25540" data-author="Weasel" data-date="2008-08-03T05:15:25+00:00">
+<div class="post" data-post-id="25540" data-author="Weasel" data-date="2008-08-03T05:15:25+00:00" data-subject="">
 
 one of the eagle's eyes has a square pupil. weirdness.
 
 </div>
 
-<div class="post" data-post-id="25541" data-author="jezer" data-date="2008-08-03T06:27:43+00:00">
+<div class="post" data-post-id="25541" data-author="jezer" data-date="2008-08-03T06:27:43+00:00" data-subject="">
 
 one of the eagle's eyes has a square pupil. weirdness.[/quote:2g1hz14x]
 
@@ -266,7 +266,7 @@ one of the eagle's eyes has a square pupil. weirdness.[/quote:2g1hz14x]
 
 </div>
 
-<div class="post" data-post-id="25546" data-author="Weasel" data-date="2008-08-03T06:59:07+00:00">
+<div class="post" data-post-id="25546" data-author="Weasel" data-date="2008-08-03T06:59:07+00:00" data-subject="">
 
 ( O)(□ )[/quote:2rldsu44]
 
@@ -274,7 +274,7 @@ rofl   :lol:
 
 </div>
 
-<div class="post" data-post-id="25548" data-author="Yasik2" data-date="2008-08-03T07:30:36+00:00">
+<div class="post" data-post-id="25548" data-author="Yasik2" data-date="2008-08-03T07:30:36+00:00" data-subject="">
 
 ( O)(□ )[/quote:orb7yxzy]
 

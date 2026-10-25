@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36811" data-author="Teron" data-date="2016-04-09T11:19:37+00:00">
+<div class="post" data-post-id="36811" data-author="Teron" data-date="2016-04-09T11:19:37+00:00" data-subject="Uni Needs Roof">
 
 The ravens from the old newbie college, located in the More Newbie College area, can't be tracked, but can be found on where in the new university.
 
@@ -20,7 +20,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36858" data-author="Lekach" data-date="2016-04-18T08:51:52+00:00">
+<div class="post" data-post-id="36858" data-author="Lekach" data-date="2016-04-18T08:51:52+00:00" data-subject="Re: Uni Needs Roof">
 
 Hi All!
 

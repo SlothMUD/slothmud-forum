@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="36140" data-author="Dragoth" data-date="2015-11-05T10:42:56+00:00">
+<div class="post" data-post-id="36140" data-author="Dragoth" data-date="2015-11-05T10:42:56+00:00" data-subject="Giants in desert on Lyme attacking ferrets">
 
 Since when ? Been running past them in this form, staying in their room for minutes without them attacking me in the last few days, now i got this..
 
@@ -220,7 +220,7 @@ You have been KILLED!!
 
 </div>
 
-<div class="post" data-post-id="36141" data-author="Josiah" data-date="2015-11-06T06:04:17+00:00">
+<div class="post" data-post-id="36141" data-author="Josiah" data-date="2015-11-06T06:04:17+00:00" data-subject="Re: Giants in desert on Lyme attacking ferrets">
 
 Most procs that can target players in other rooms have always affected ferrets.
 
@@ -228,19 +228,19 @@ Also, you weren't in ferret form, you were a bloodhound.  I think those don't ha
 
 </div>
 
-<div class="post" data-post-id="36142" data-author="Teron" data-date="2015-11-06T12:35:35+00:00">
+<div class="post" data-post-id="36142" data-author="Teron" data-date="2015-11-06T12:35:35+00:00" data-subject="Re: Giants in desert on Lyme attacking ferrets">
 
 I think they fixed the dwarven berserkers in the Dwarven Mountain, so they don't hit ferrets by throwing axes, though.
 
 </div>
 
-<div class="post" data-post-id="36144" data-author="Filk" data-date="2015-11-06T14:18:57+00:00">
+<div class="post" data-post-id="36144" data-author="Filk" data-date="2015-11-06T14:18:57+00:00" data-subject="Re: Giants in desert on Lyme attacking ferrets">
 
 Yep. But thats lowbie area. With no other ways for lowbies to get back their gear after axes. And problem also was about axes hitting through the closed doors :)
 
 </div>
 
-<div class="post" data-post-id="36171" data-author="*juggleblood*" data-date="2015-11-13T13:31:34+00:00">
+<div class="post" data-post-id="36171" data-author="*juggleblood*" data-date="2015-11-13T13:31:34+00:00" data-subject="Re: Giants in desert on Lyme attacking ferrets">
 
 Ferret, Frog, and Sparrow are the forms with aggro immunity.
 

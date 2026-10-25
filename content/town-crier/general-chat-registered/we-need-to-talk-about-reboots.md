@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="38711" data-author="Gorka" data-date="2018-03-21T08:52:03+00:00">
+<div class="post" data-post-id="38711" data-author="Gorka" data-date="2018-03-21T08:52:03+00:00" data-subject="We need to talk about reboots...">
 
 For quite some time a number of us were active in voicing our opinion, that when the game crashes or reboots, it should come up as much as possible in the state it was before the crash. Thankfully the imms listened, and Teker implemented some changes. However those changes were not what was proposed, and instead they went further allowing mobs that were up without items before the crash/reboot to load items on restart. 
 
@@ -30,7 +30,7 @@ Whatta is right, take this evil from us. It's already bringing out the dark side
 
 </div>
 
-<div class="post" data-post-id="38713" data-author="Sam" data-date="2018-03-22T19:58:10+00:00">
+<div class="post" data-post-id="38713" data-author="Sam" data-date="2018-03-22T19:58:10+00:00" data-subject="Re: We need to talk about reboots...">
 
 +1
 
@@ -40,7 +40,7 @@ i agree with gorka
 
 </div>
 
-<div class="post" data-post-id="38714" data-author="Teron" data-date="2018-03-23T16:22:51+00:00">
+<div class="post" data-post-id="38714" data-author="Teron" data-date="2018-03-23T16:22:51+00:00" data-subject="Re: We need to talk about reboots...">
 
 I wasn't aware *all* eq was being loaded on crashes/reboots, I did locate some cps, but recently they stopped loading.
 
@@ -52,7 +52,7 @@ Thank you.
 
 </div>
 
-<div class="post" data-post-id="38725" data-author="Driven" data-date="2018-04-09T16:52:26+00:00">
+<div class="post" data-post-id="38725" data-author="Driven" data-date="2018-04-09T16:52:26+00:00" data-subject="Re: We need to talk about reboots...">
 
 It would appear that the gravy train is over.  This morning had a manual reboot (i.e. not crash) and I couldn't find a single pop... of course that's not proof, but that's how it appears.
 

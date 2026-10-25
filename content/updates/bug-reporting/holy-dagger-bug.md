@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31660" data-author="Dragoth" data-date="2010-09-01T14:19:57+00:00">
+<div class="post" data-post-id="31660" data-author="Dragoth" data-date="2010-09-01T14:19:57+00:00" data-subject="Holy dagger bug">
 
 You recite an identify scroll which dissolves.
 

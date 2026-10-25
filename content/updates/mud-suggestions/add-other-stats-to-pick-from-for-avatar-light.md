@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38739" data-author="Teron" data-date="2018-04-24T04:32:49+00:00">
+<div class="post" data-post-id="38739" data-author="Teron" data-date="2018-04-24T04:32:49+00:00" data-subject="Add other stats to pick from for avatar light">
 
 Since personalization adds interest to the game and the avatar light is the one eq, which we can pick without compromising tons of other stats, I suggest adding all the other stats to the light choices:
 
@@ -26,13 +26,13 @@ Some of these are less useful, than others, but maybe we should let players deci
 
 </div>
 
-<div class="post" data-post-id="38741" data-author="Driven" data-date="2018-04-24T13:01:03+00:00">
+<div class="post" data-post-id="38741" data-author="Driven" data-date="2018-04-24T13:01:03+00:00" data-subject="Re: Add other stats to pick from for avatar light">
 
 Interesting idea... could you expand on what fair/balanced values would be for each of the choices?
 
 </div>
 
-<div class="post" data-post-id="38742" data-author="Teron" data-date="2018-04-24T13:55:02+00:00">
+<div class="post" data-post-id="38742" data-author="Teron" data-date="2018-04-24T13:55:02+00:00" data-subject="Re: Add other stats to pick from for avatar light">
 
 To be fair, I wouldn't rely on current avatar shop and drachma shop prices comparisons completely, other than where they make sense, e.g. stab bonus and spell bonus costs don't represent the stat value.
 

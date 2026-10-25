@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29086" data-author="*Splork*" data-date="2009-04-30T22:35:49+00:00">
+<div class="post" data-post-id="29086" data-author="*Splork*" data-date="2009-04-30T22:35:49+00:00" data-subject="changes ingame">
 
 1) Fargate wands now work like gate spell and open up a portal in both directions
 
@@ -36,7 +36,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29089" data-author="*Splork*" data-date="2009-05-01T23:02:23+00:00">
+<div class="post" data-post-id="29089" data-author="*Splork*" data-date="2009-05-01T23:02:23+00:00" data-subject="">
 
 Fargate Days
 

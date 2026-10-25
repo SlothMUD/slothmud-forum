@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35080" data-author="van" data-date="2014-04-24T06:52:50+00:00">
+<div class="post" data-post-id="35080" data-author="van" data-date="2014-04-24T06:52:50+00:00" data-subject="ALL HAIL CIZIN">
 
 He knows why.
 
@@ -18,7 +18,7 @@ That is all.
 
 </div>
 
-<div class="post" data-post-id="35085" data-author="Yasik" data-date="2014-04-25T19:58:48+00:00">
+<div class="post" data-post-id="35085" data-author="Yasik" data-date="2014-04-25T19:58:48+00:00" data-subject="Re: ALL HAIL CIZIN">
 
 What, he became a daddy? Gratz!
 

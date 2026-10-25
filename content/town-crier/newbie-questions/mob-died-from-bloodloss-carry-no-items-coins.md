@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="34089" data-author="Yasik" data-date="2013-02-26T04:41:43+00:00">
+<div class="post" data-post-id="34089" data-author="Yasik" data-date="2013-02-26T04:41:43+00:00" data-subject="Mob died from bloodloss carry no items/coins">
 
 **Mob dies from blood loss, almost never happens, but where's the loot? No items or coins, is this how it should be or is it bug?**
 
@@ -18,13 +18,13 @@ post_count: 9
 
 </div>
 
-<div class="post" data-post-id="34090" data-author="*juggleblood*" data-date="2013-02-26T09:33:43+00:00">
+<div class="post" data-post-id="34090" data-author="*juggleblood*" data-date="2013-02-26T09:33:43+00:00" data-subject="Re: Mob died from bloodloss carry no items/coins">
 
 I checked to make sure there were no caches. I couldn't find any reason the mob should load empty.
 
 </div>
 
-<div class="post" data-post-id="34092" data-author="Yasik" data-date="2013-02-26T11:38:50+00:00">
+<div class="post" data-post-id="34092" data-author="Yasik" data-date="2013-02-26T11:38:50+00:00" data-subject="Re: Mob died from bloodloss carry no items/coins">
 
 I checked too, those mobs never had any caches, coins and eq always loaded on mobs.
 
@@ -36,7 +36,7 @@ On lower levels this problem happens a lot, on higher - rarely.
 
 </div>
 
-<div class="post" data-post-id="34093" data-author="*juggleblood*" data-date="2013-02-26T22:34:01+00:00">
+<div class="post" data-post-id="34093" data-author="*juggleblood*" data-date="2013-02-26T22:34:01+00:00" data-subject="Re: Mob died from bloodloss carry no items/coins">
 
 One theory is that something interupts the transfer of the coins/objs from the mobile to the corpse, whether it be pet related or autokill.
 
@@ -48,7 +48,7 @@ In any case, you'd prolly need to send more details to a coder. You say it happe
 
 </div>
 
-<div class="post" data-post-id="34097" data-author="Magi" data-date="2013-02-27T22:49:51+00:00">
+<div class="post" data-post-id="34097" data-author="Magi" data-date="2013-02-27T22:49:51+00:00" data-subject="Re: Mob died from bloodloss carry no items/coins">
 
 > **Quote:**
 > Also, there's times, when Autokill is ON, but I don't finish mob automatically with attacks (must "kill mob" additionally when its stunned/morted), and spells/skills without target says "Nobody here by that name.", as if Autokill is OFF.
@@ -67,7 +67,7 @@ Unrelated: Is bloodloss neccessary? Bloodloss instantly or a few seconds after b
 
 </div>
 
-<div class="post" data-post-id="34098" data-author="*juggleblood*" data-date="2013-02-28T06:20:02+00:00">
+<div class="post" data-post-id="34098" data-author="*juggleblood*" data-date="2013-02-28T06:20:02+00:00" data-subject="Re: Mob died from bloodloss carry no items/coins">
 
 I wonder if when pet morts target, mud checks to see if pet has autokill on (which an npc never can), instead of checking player. I'll submit it to the bugs list and someone will take a crack at it when they get a chance.
 
@@ -75,7 +75,7 @@ Sounds like the big prob with bloodloss is the bug u mention. If the follower/au
 
 </div>
 
-<div class="post" data-post-id="34107" data-author="*Splork*" data-date="2013-02-28T13:00:30+00:00">
+<div class="post" data-post-id="34107" data-author="*Splork*" data-date="2013-02-28T13:00:30+00:00" data-subject="Re: Mob died from bloodloss carry no items/coins">
 
 I made some changes, keep an eye out and see if it has any affects.
 
@@ -89,7 +89,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34108" data-author="Yasik" data-date="2013-02-28T15:11:08+00:00">
+<div class="post" data-post-id="34108" data-author="Yasik" data-date="2013-02-28T15:11:08+00:00" data-subject="Re: Mob died from bloodloss carry no items/coins">
 
 Made an example log to illustrate the situation. Me and my ghost, few minutes ago - ghost morted the mob, and all fight stopped, so I had to issue a command 'kill mob', while by design of Autokill I shouldn't.
 
@@ -495,7 +495,7 @@ There were 1200 coins.
 
 </div>
 
-<div class="post" data-post-id="34109" data-author="*Splork*" data-date="2013-02-28T16:20:02+00:00">
+<div class="post" data-post-id="34109" data-author="*Splork*" data-date="2013-02-28T16:20:02+00:00" data-subject="Re: Mob died from bloodloss carry no items/coins">
 
 The change I made must not of worked and the issue is much deeper, such as your character is not the primary person engaged. Changing this will have some unwanted changes, such as you will take more damage than your mobs will.
 

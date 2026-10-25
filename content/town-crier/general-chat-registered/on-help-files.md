@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32300" data-author="*Chobbs*" data-date="2011-01-08T19:25:09+00:00">
+<div class="post" data-post-id="32300" data-author="*Chobbs*" data-date="2011-01-08T19:25:09+00:00" data-subject="On Help Files">
 
 Mornin' folks,
 
@@ -52,7 +52,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32303" data-author="Tuck" data-date="2011-01-09T17:20:43+00:00">
+<div class="post" data-post-id="32303" data-author="Tuck" data-date="2011-01-09T17:20:43+00:00" data-subject="Re: On Help Files">
 
 Nice work, thanks Chobbs.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31157" data-author="Teron" data-date="2010-05-17T07:56:46+00:00">
+<div class="post" data-post-id="31157" data-author="Teron" data-date="2010-05-17T07:56:46+00:00" data-subject="golden sack found (and returned)">
 
 Update: the item has been returned. Thank you for participating.
 

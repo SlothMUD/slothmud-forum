@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30871" data-author="*Isabo*" data-date="2010-02-09T01:06:30+00:00">
+<div class="post" data-post-id="30871" data-author="*Isabo*" data-date="2010-02-09T01:06:30+00:00" data-subject="Equipment page">
 
 Greetings, mortals.
 
@@ -86,7 +86,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="30872" data-author="*Breeze*" data-date="2010-02-09T01:20:37+00:00">
+<div class="post" data-post-id="30872" data-author="*Breeze*" data-date="2010-02-09T01:20:37+00:00" data-subject="">
 
 It should be noted that once the data that Isabo is providing me is _available_ to me, i need to make the actual eqlist honour it and then it will take awhile before enough people log in / out , pop eq et al before the eqlist will be of use.
 

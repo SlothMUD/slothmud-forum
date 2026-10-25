@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34230" data-author="*juggleblood*" data-date="2013-04-12T13:13:34+00:00">
+<div class="post" data-post-id="34230" data-author="*juggleblood*" data-date="2013-04-12T13:13:34+00:00" data-subject="zodiac forge disabled">
 
 The new Zodiac forge is disabled indefinitely until I have time to thoroughly review it.
 

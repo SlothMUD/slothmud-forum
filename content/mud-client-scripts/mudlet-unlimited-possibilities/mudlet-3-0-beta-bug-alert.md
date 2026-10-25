@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="35565" data-author="*juggleblood*" data-date="2014-12-21T11:11:47+00:00">
+<div class="post" data-post-id="35565" data-author="*juggleblood*" data-date="2014-12-21T11:11:47+00:00" data-subject="Mudlet 3.0 Beta Bug Alert">
 
 If you are using 3.0 and you find that some of your scripts, aliases, and triggers just mysteriously blank out, i.e. they are still listed but are blank, then you may want to revert to 2.1.
 
@@ -18,7 +18,7 @@ This doesn't seem to affect everyone. It is somehow related to the scrolling and
 
 </div>
 
-<div class="post" data-post-id="35619" data-author="*Splork*" data-date="2015-01-07T00:19:12+00:00">
+<div class="post" data-post-id="35619" data-author="*Splork*" data-date="2015-01-07T00:19:12+00:00" data-subject="Re: Mudlet 3.0 Beta Bug Alert(fixed ? )">
 
 It looks like a new gamma has been released which addresses this exact issue. It also allows "snapshots" which are basically backups of your mudlet files, similar to a snapshot of a virtual machine.
 
@@ -60,7 +60,7 @@ There are just a few issues outstanding in order to make the 3.0 final release h
 
 </div>
 
-<div class="post" data-post-id="35621" data-author="Tuck" data-date="2015-01-07T21:45:34+00:00">
+<div class="post" data-post-id="35621" data-author="Tuck" data-date="2015-01-07T21:45:34+00:00" data-subject="Re: Mudlet 3.0 Beta Bug Alert">
 
 Gamma is not fixed yet
 
@@ -68,7 +68,7 @@ Gamma is not fixed yet
 
 </div>
 
-<div class="post" data-post-id="35650" data-author="*Splork*" data-date="2015-01-25T01:09:15+00:00">
+<div class="post" data-post-id="35650" data-author="*Splork*" data-date="2015-01-25T01:09:15+00:00" data-subject="Re: Mudlet 3.0 Beta Bug Alert(Fixed-update)">
 
 <LINK_TEXT text="http://forums.mudlet.org/viewtopic.php? ... =20#p22336">http://forums.mudlet.org/viewtopic.php?f=5&t=4684&start=20#p22336</LINK_TEXT>
 

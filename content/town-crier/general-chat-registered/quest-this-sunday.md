@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="10350" data-author="Enea" data-date="2006-01-27T01:14:10+00:00">
+<div class="post" data-post-id="10350" data-author="Enea" data-date="2006-01-27T01:14:10+00:00" data-subject="Quest this Sunday!">
 
 Hi again everyone,
 
@@ -30,13 +30,13 @@ Sound like fun?
 
 </div>
 
-<div class="post" data-post-id="10355" data-author="Weasel" data-date="2006-01-27T05:30:04+00:00">
+<div class="post" data-post-id="10355" data-author="Weasel" data-date="2006-01-27T05:30:04+00:00" data-subject="">
 
 I have some concerns about the peanut butter...   :shock:
 
 </div>
 
-<div class="post" data-post-id="10409" data-author="Weasel" data-date="2006-01-29T19:58:25+00:00">
+<div class="post" data-post-id="10409" data-author="Weasel" data-date="2006-01-29T19:58:25+00:00" data-subject="">
 
 gmm.. anyone else lost connect and cant get back on?
 
@@ -44,19 +44,19 @@ gmm.. anyone else lost connect and cant get back on?
 
 </div>
 
-<div class="post" data-post-id="10413" data-author="Weasel" data-date="2006-01-30T04:34:11+00:00">
+<div class="post" data-post-id="10413" data-author="Weasel" data-date="2006-01-30T04:34:11+00:00" data-subject="">
 
 Thanks for the quest Enea - was fun.. lots of death too  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10417" data-author="Krok" data-date="2006-01-30T12:15:15+00:00">
+<div class="post" data-post-id="10417" data-author="Krok" data-date="2006-01-30T12:15:15+00:00" data-subject="">
 
 Thanks for the quest, Enea and thanks to the guys who were actually finding golems. You rock :)
 
 </div>
 
-<div class="post" data-post-id="10427" data-author="Avatar" data-date="2006-01-30T16:01:29+00:00">
+<div class="post" data-post-id="10427" data-author="Avatar" data-date="2006-01-30T16:01:29+00:00" data-subject="Quest Fun">
 
 1 quest, 1 crash, lots of deaths...
 
@@ -66,7 +66,7 @@ Those assassins are less fun when you're playing a caster!
 
 </div>
 
-<div class="post" data-post-id="10429" data-author="Leaf" data-date="2006-01-30T17:28:00+00:00">
+<div class="post" data-post-id="10429" data-author="Leaf" data-date="2006-01-30T17:28:00+00:00" data-subject="">
 
 Still kinda fun, that they were able to take down the WHOLE group...
 
@@ -80,7 +80,7 @@ been a VERY VERY VERY bad CF of eq and corpses.  It was fun!!!
 
 </div>
 
-<div class="post" data-post-id="10431" data-author="Weasel" data-date="2006-01-30T17:48:34+00:00">
+<div class="post" data-post-id="10431" data-author="Weasel" data-date="2006-01-30T17:48:34+00:00" data-subject="">
 
 I only found one golem.. and then the bugger wandered away from where I found it initially. Same area, not same room tho. 
 
@@ -88,7 +88,7 @@ Enea is evil ...but in a good way.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10438" data-author="Leaf" data-date="2006-01-30T19:10:00+00:00">
+<div class="post" data-post-id="10438" data-author="Leaf" data-date="2006-01-30T19:10:00+00:00" data-subject="">
 
 What ever happened to ZARC???
 

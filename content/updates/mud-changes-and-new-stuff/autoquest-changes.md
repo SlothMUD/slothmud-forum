@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11851" data-author="*Splork*" data-date="2006-03-28T00:23:44+00:00">
+<div class="post" data-post-id="11851" data-author="*Splork*" data-date="2006-03-28T00:23:44+00:00" data-subject="Autoquest changes">
 
 I have commited code that will allow autoquesters to teach players skills and spells. 
 

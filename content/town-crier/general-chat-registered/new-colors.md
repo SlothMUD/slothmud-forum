@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="13478" data-author="Weasel" data-date="2006-07-15T04:49:55+00:00">
+<div class="post" data-post-id="13478" data-author="Weasel" data-date="2006-07-15T04:49:55+00:00" data-subject="new colors">
 
 Thought I'd write this up if anyone's wondering.. Splork recently added a few more color option for us to use in titles, grouptells, gname, whiner scripts etc, but it may have made existing ones change for you.
 
@@ -82,13 +82,13 @@ cheers.
 
 </div>
 
-<div class="post" data-post-id="13479" data-author="Marchessa_red_witch" data-date="2006-07-15T17:31:02+00:00">
+<div class="post" data-post-id="13479" data-author="Marchessa_red_witch" data-date="2006-07-15T17:31:02+00:00" data-subject="Very helpful">
 
 Thank you.
 
 </div>
 
-<div class="post" data-post-id="13704" data-author="Weasel" data-date="2006-08-12T03:27:14+00:00">
+<div class="post" data-post-id="13704" data-author="Weasel" data-date="2006-08-12T03:27:14+00:00" data-subject="">
 
 bump
 

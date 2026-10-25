@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="32972" data-author="*Breeze*" data-date="2011-11-05T10:51:48+00:00">
+<div class="post" data-post-id="32972" data-author="*Breeze*" data-date="2011-11-05T10:51:48+00:00" data-subject="Breeze Changelog">
 
 **5 Nov 2011**
 
@@ -26,7 +26,7 @@ Changes in on commit/compile/reboot by a creator.. (hopefully Sunday!)
 
 </div>
 
-<div class="post" data-post-id="32982" data-author="*Breeze*" data-date="2011-11-15T20:35:27+00:00">
+<div class="post" data-post-id="32982" data-author="*Breeze*" data-date="2011-11-15T20:35:27+00:00" data-subject="Breeze Changelog - 15-16 Nov 2011">
 
 **15-16 Nov 2011**
 
@@ -53,7 +53,7 @@ changes in when someone commit's the code and reboots
 
 </div>
 
-<div class="post" data-post-id="33008" data-author="*Breeze*" data-date="2011-11-26T08:48:06+00:00">
+<div class="post" data-post-id="33008" data-author="*Breeze*" data-date="2011-11-26T08:48:06+00:00" data-subject="Breeze Changelog - 26 Nov 2011">
 
 ```
 Changes:
@@ -74,7 +74,7 @@ Changes:
 
 </div>
 
-<div class="post" data-post-id="33009" data-author="*Breeze*" data-date="2011-11-27T06:48:17+00:00">
+<div class="post" data-post-id="33009" data-author="*Breeze*" data-date="2011-11-27T06:48:17+00:00" data-subject="Breeze Changelog - 27 Nov 2011">
 
 ```
 Changes:
@@ -92,7 +92,7 @@ in whenever someone moves code over and compiles/reboots
 
 </div>
 
-<div class="post" data-post-id="33042" data-author="*Breeze*" data-date="2011-12-06T23:38:56+00:00">
+<div class="post" data-post-id="33042" data-author="*Breeze*" data-date="2011-12-06T23:38:56+00:00" data-subject="Breeze Changelog - 06 Dec 2011">
 
 ```
 Changes:
@@ -123,7 +123,7 @@ Changes in when someone moves over the code, recompiles and reboots
 
 </div>
 
-<div class="post" data-post-id="33088" data-author="*Breeze*" data-date="2011-12-12T17:31:08+00:00">
+<div class="post" data-post-id="33088" data-author="*Breeze*" data-date="2011-12-12T17:31:08+00:00" data-subject="Breeze Changelog - 12 Dec 2011">
 
 Most of these changes are live.  Some may require a reboot/repop.
 
@@ -175,7 +175,7 @@ Typos Fixed
 
 </div>
 
-<div class="post" data-post-id="33111" data-author="*Breeze*" data-date="2011-12-21T00:48:58+00:00">
+<div class="post" data-post-id="33111" data-author="*Breeze*" data-date="2011-12-21T00:48:58+00:00" data-subject="Breeze Changelog - 21 Dec 2011">
 
 ```
  finger <character>
@@ -194,7 +194,7 @@ Live whenever someone moves over code, recompiles and reboots.
 
 </div>
 
-<div class="post" data-post-id="33139" data-author="*Breeze*" data-date="2012-01-15T08:10:46+00:00">
+<div class="post" data-post-id="33139" data-author="*Breeze*" data-date="2012-01-15T08:10:46+00:00" data-subject="Breeze Changelog - 05 Jan 2012">
 
 ```
 finger <character>
@@ -217,7 +217,7 @@ Live whenever someone moves over code, recompiles and reboots.
 
 </div>
 
-<div class="post" data-post-id="33165" data-author="*Breeze*" data-date="2012-02-19T23:56:54+00:00">
+<div class="post" data-post-id="33165" data-author="*Breeze*" data-date="2012-02-19T23:56:54+00:00" data-subject="Breeze Changelog - 19 Feb 2012">
 
 ```
   * Can no longer see Fahren (Vk) emotes while sleeping (Thanks Juggleblood!)
@@ -230,7 +230,7 @@ Live whenever someone moves over code, recompiles and reboots.
 
 </div>
 
-<div class="post" data-post-id="33239" data-author="*Breeze*" data-date="2012-03-22T22:12:43+00:00">
+<div class="post" data-post-id="33239" data-author="*Breeze*" data-date="2012-03-22T22:12:43+00:00" data-subject="Breeze Changelog - 22 Mar 2012">
 
 Fixed by someone else
 
@@ -294,7 +294,7 @@ Thanks to everyone for reporting
 
 </div>
 
-<div class="post" data-post-id="33241" data-author="*Breeze*" data-date="2012-03-25T14:17:24+00:00">
+<div class="post" data-post-id="33241" data-author="*Breeze*" data-date="2012-03-25T14:17:24+00:00" data-subject="Breeze Changelog - 25 Mar 2012">
 
 ```
 Sadonyx Rune/Gem - Renamed to Sardonyx.
@@ -337,7 +337,7 @@ Note : If a helpfile is wrong, messages like 'fix mem helpfile' are useless.
 
 </div>
 
-<div class="post" data-post-id="33273" data-author="*Breeze*" data-date="2012-04-16T19:09:35+00:00">
+<div class="post" data-post-id="33273" data-author="*Breeze*" data-date="2012-04-16T19:09:35+00:00" data-subject="Re: Breeze Changelog - 16 April 2012">
 
 ```
 Fixes
@@ -370,7 +370,7 @@ Changes
 
 </div>
 
-<div class="post" data-post-id="33343" data-author="*Breeze*" data-date="2012-06-25T18:12:34+00:00">
+<div class="post" data-post-id="33343" data-author="*Breeze*" data-date="2012-06-25T18:12:34+00:00" data-subject="Breeze Changelog [25 Jun 2012]">
 
 ```
 Changes
@@ -396,7 +396,7 @@ Graveyard
 
 </div>
 
-<div class="post" data-post-id="33369" data-author="*Breeze*" data-date="2012-07-10T20:51:36+00:00">
+<div class="post" data-post-id="33369" data-author="*Breeze*" data-date="2012-07-10T20:51:36+00:00" data-subject="Breeze Changelog [10 Jul 2012]">
 
 Typos in Helpfiles
 
@@ -411,7 +411,7 @@ Fixed
 
 </div>
 
-<div class="post" data-post-id="33704" data-author="*Breeze*" data-date="2012-11-01T09:46:46+00:00">
+<div class="post" data-post-id="33704" data-author="*Breeze*" data-date="2012-11-01T09:46:46+00:00" data-subject="Re: Breeze Changelog">
 
 ```
  - Supplication
@@ -440,7 +440,7 @@ Fixed
 
 </div>
 
-<div class="post" data-post-id="33812" data-author="*Breeze*" data-date="2012-12-02T16:41:47+00:00">
+<div class="post" data-post-id="33812" data-author="*Breeze*" data-date="2012-12-02T16:41:47+00:00" data-subject="Re: Breeze Changelog">
 
 Changes for 1 Dec 2012
 
@@ -461,7 +461,7 @@ added:
 
 </div>
 
-<div class="post" data-post-id="33864" data-author="*Breeze*" data-date="2012-12-25T21:43:38+00:00">
+<div class="post" data-post-id="33864" data-author="*Breeze*" data-date="2012-12-25T21:43:38+00:00" data-subject="Re: Breeze Changelog">
 
 ```
 Fixed:
@@ -478,7 +478,7 @@ Not Fixing:
 
 </div>
 
-<div class="post" data-post-id="33866" data-author="*Breeze*" data-date="2012-12-27T19:16:06+00:00">
+<div class="post" data-post-id="33866" data-author="*Breeze*" data-date="2012-12-27T19:16:06+00:00" data-subject="Re: Breeze Changelog">
 
 ```
 Fixed:
@@ -488,7 +488,7 @@ Fixed:
 
 </div>
 
-<div class="post" data-post-id="33869" data-author="*Breeze*" data-date="2012-12-29T19:22:34+00:00">
+<div class="post" data-post-id="33869" data-author="*Breeze*" data-date="2012-12-29T19:22:34+00:00" data-subject="Breeze Changelog (29 Dec 2012)">
 
 ```
 Due to the apparent issues people are having to get out of the newbie graveyard, Neptune and I have added
@@ -502,13 +502,13 @@ DO NOT FORGET TO LOOT YOUR TOMB
 
 </div>
 
-<div class="post" data-post-id="33870" data-author="*juggleblood*" data-date="2012-12-30T17:01:14+00:00">
+<div class="post" data-post-id="33870" data-author="*juggleblood*" data-date="2012-12-30T17:01:14+00:00" data-subject="Re: Breeze Changelog">
 
 Fixed shadowwalk from dock to magnolia on Lyme.
 
 </div>
 
-<div class="post" data-post-id="34227" data-author="*Breeze*" data-date="2013-04-08T02:21:12+00:00">
+<div class="post" data-post-id="34227" data-author="*Breeze*" data-date="2013-04-08T02:21:12+00:00" data-subject="Re: Breeze Changelog">
 
 **08 Apr 2013**
 

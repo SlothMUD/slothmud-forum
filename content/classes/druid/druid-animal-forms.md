@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="6151" data-author="SirRobin" data-date="2005-05-16T01:44:11+00:00">
+<div class="post" data-post-id="6151" data-author="SirRobin" data-date="2005-05-16T01:44:11+00:00" data-subject="Druid Animal Forms">
 
 The highest level I’ve reached so far with Druid is level 14, and with a Monk character I’ve reached level 12. The monk seems equal to or stronger than the druid at these two levels, but often in games of this nature the magic characters are much stronger when they hit the higher levels.
 
@@ -30,7 +30,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="6152" data-author="Avatar" data-date="2005-05-16T02:34:39+00:00">
+<div class="post" data-post-id="6152" data-author="Avatar" data-date="2005-05-16T02:34:39+00:00" data-subject="shape help">
 
 [quote:2c3nlk4p]1) When does a druid achieve parity with a fighter type character? [/quote:2c3nlk4p]
 
@@ -58,7 +58,7 @@ Correct, the earlier forms use less.
 
 </div>
 
-<div class="post" data-post-id="6153" data-author="12345" data-date="2005-05-16T10:36:46+00:00">
+<div class="post" data-post-id="6153" data-author="12345" data-date="2005-05-16T10:36:46+00:00" data-subject="">
 
 Druids are kinda wild overall.  At lower levels they're kinda crunchy, though this has been changed some.  As a tank, having a druid follower was beyond cool.  I was able to absorb the hits and the druid could use his multiple attacks to chop down mobs quick, fast and in a hurry.  Also, once you get the bite skill, it just gets better.  Against a thick mob with close to full hps, bite (poison) is possibly the best attack in the game.
 
@@ -68,13 +68,13 @@ For now, I'd recommend flying wingman, though I hear drake has some decent solo 
 
 </div>
 
-<div class="post" data-post-id="6154" data-author="13" data-date="2005-05-16T10:41:41+00:00">
+<div class="post" data-post-id="6154" data-author="13" data-date="2005-05-16T10:41:41+00:00" data-subject="">
 
 Druid with followers at level 40 are 100% overpowered whether Ne/Dr or Dr/Ne.
 
 </div>
 
-<div class="post" data-post-id="6762" data-author="nexus" data-date="2005-06-03T06:01:43+00:00">
+<div class="post" data-post-id="6762" data-author="nexus" data-date="2005-06-03T06:01:43+00:00" data-subject="">
 
 Druids are hard to play at the beginning, especially when 4x caster classes are involved...
 

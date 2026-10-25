@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26750" data-author="Judge" data-date="2008-10-17T20:00:11+00:00">
+<div class="post" data-post-id="26750" data-author="Judge" data-date="2008-10-17T20:00:11+00:00" data-subject="New Spell: Avatar Sight">
 
 "AVATAR SIGHT"
 

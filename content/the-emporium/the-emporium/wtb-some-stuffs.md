@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3836" data-author="Lonce" data-date="2005-01-20T00:41:51+00:00">
+<div class="post" data-post-id="3836" data-author="Lonce" data-date="2005-01-20T00:41:51+00:00" data-subject="WTB : some stuffs.">
 
 Major)
 

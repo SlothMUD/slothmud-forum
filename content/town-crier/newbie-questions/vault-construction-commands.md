@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="36779" data-author="Yasik" data-date="2016-03-29T11:27:22+00:00">
+<div class="post" data-post-id="36779" data-author="Yasik" data-date="2016-03-29T11:27:22+00:00" data-subject="Vault construction commands">
 
 What exactly are the correct commands?
 
@@ -246,7 +246,7 @@ Briar the housing developer tells you 'Sorry, but you already have a house on th
 
 </div>
 
-<div class="post" data-post-id="36781" data-author="cyprimus" data-date="2016-03-29T20:57:02+00:00">
+<div class="post" data-post-id="36781" data-author="cyprimus" data-date="2016-03-29T20:57:02+00:00" data-subject="Re: Vault construction commands">
 
 I have recalls already, but having same problem getting fountains installed.   Dont have to restring fountain,water is fine, though more options are always welcome..
 
@@ -254,13 +254,13 @@ OH, and ps... would like a note board too..
 
 </div>
 
-<div class="post" data-post-id="36782" data-author="*Breeze*" data-date="2016-03-29T23:57:07+00:00">
+<div class="post" data-post-id="36782" data-author="*Breeze*" data-date="2016-03-29T23:57:07+00:00" data-subject="Re: Vault construction commands">
 
 @yasik - was that created using the new vault commands, or is that the one that juggleblood created for you
 
 </div>
 
-<div class="post" data-post-id="36783" data-author="Yasik" data-date="2016-03-30T15:59:36+00:00">
+<div class="post" data-post-id="36783" data-author="Yasik" data-date="2016-03-30T15:59:36+00:00" data-subject="Re: Vault construction commands">
 
 It was my old AH vault I bought myself at times when it still was needed to ask admin to connect vault to world.
 
@@ -268,7 +268,7 @@ Dont remember who did it exactly.
 
 </div>
 
-<div class="post" data-post-id="36786" data-author="*teker*" data-date="2016-03-30T19:49:17+00:00">
+<div class="post" data-post-id="36786" data-author="*teker*" data-date="2016-03-30T19:49:17+00:00" data-subject="Re: Vault construction commands">
 
 Old vaults need to be manually upgraded for the new commands to work.  This must be done in each room when:
 

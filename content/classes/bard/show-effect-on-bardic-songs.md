@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="2323" data-author="Tetsulunathaya" data-date="2004-10-14T23:39:59+00:00">
+<div class="post" data-post-id="2323" data-author="Tetsulunathaya" data-date="2004-10-14T23:39:59+00:00" data-subject="Show effect on bardic songs?">
 
 Hey,
 
@@ -30,7 +30,7 @@ Tetsu
 
 </div>
 
-<div class="post" data-post-id="13894" data-author="*juggleblood*" data-date="2006-09-03T06:53:25+00:00">
+<div class="post" data-post-id="13894" data-author="*juggleblood*" data-date="2006-09-03T06:53:25+00:00" data-subject="">
 
 *Bump*
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32633" data-author="Toxis" data-date="2011-05-22T03:16:06+00:00">
+<div class="post" data-post-id="32633" data-author="Toxis" data-date="2011-05-22T03:16:06+00:00" data-subject="Dwarvish Axe vs Valor Sword">
 
 Valor: 4d5+1tohit +2dam 6-22 for one attack, 18-66 for 3 attacks
 
@@ -26,7 +26,7 @@ I thought adding something like max_str might be something more enticing.  Not s
 
 </div>
 
-<div class="post" data-post-id="32635" data-author="Xamak" data-date="2011-05-22T12:42:03+00:00">
+<div class="post" data-post-id="32635" data-author="Xamak" data-date="2011-05-22T12:42:03+00:00" data-subject="Re: Dwarvish Axe vs Valor Sword">
 
 A couple of thoughts -
 
@@ -40,7 +40,7 @@ Xamak
 
 </div>
 
-<div class="post" data-post-id="32636" data-author="Toxis" data-date="2011-05-22T13:34:59+00:00">
+<div class="post" data-post-id="32636" data-author="Toxis" data-date="2011-05-22T13:34:59+00:00" data-subject="Re: Dwarvish Axe vs Valor Sword">
 
 Well here's how I look at it so far...
 

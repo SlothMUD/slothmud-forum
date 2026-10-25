@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34506" data-author="dimiric" data-date="2013-10-23T13:36:18+00:00">
+<div class="post" data-post-id="34506" data-author="dimiric" data-date="2013-10-23T13:36:18+00:00" data-subject="Mudlet UI">
 
 Hi everyone,
 
@@ -35,7 +35,7 @@ So what I was thinking of doing was creating a timer that would send score to th
 
 </div>
 
-<div class="post" data-post-id="34509" data-author="*Splork*" data-date="2013-10-24T12:26:28+00:00">
+<div class="post" data-post-id="34509" data-author="*Splork*" data-date="2013-10-24T12:26:28+00:00" data-subject="Re: Mudlet UI">
 
 Mudlet 3.0 will have native MSDP support and will hopefully deal with parsing the tables and arrays correctly(ie affects and exits). 
 
@@ -45,7 +45,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34513" data-author="Tuck" data-date="2013-10-25T15:33:10+00:00">
+<div class="post" data-post-id="34513" data-author="Tuck" data-date="2013-10-25T15:33:10+00:00" data-subject="Re: Mudlet UI">
 
 We mortals have discovered 2 un-official sloth msdp vars, like EXITS and AFFECTS.
 

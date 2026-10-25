@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33134" data-author="*Splork*" data-date="2012-01-12T05:28:28+00:00">
+<div class="post" data-post-id="33134" data-author="*Splork*" data-date="2012-01-12T05:28:28+00:00" data-subject="Extra days &amp;amp; gem changes ( Massive changelog )">
 
 Massive Changelog
 

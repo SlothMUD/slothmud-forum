@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="609" data-author="chi" data-date="2004-06-10T05:13:23+00:00">
+<div class="post" data-post-id="609" data-author="chi" data-date="2004-06-10T05:13:23+00:00" data-subject="FOR SALE">
 
 You feel informed:
 
@@ -158,49 +158,49 @@ chi
 
 </div>
 
-<div class="post" data-post-id="610" data-author="Sian" data-date="2004-06-10T05:25:05+00:00">
+<div class="post" data-post-id="610" data-author="Sian" data-date="2004-06-10T05:25:05+00:00" data-subject="">
 
 blue steel bracelet - 1.2mil for both
 
 </div>
 
-<div class="post" data-post-id="612" data-author="Weasel" data-date="2004-06-10T05:43:12+00:00">
+<div class="post" data-post-id="612" data-author="Weasel" data-date="2004-06-10T05:43:12+00:00" data-subject="">
 
 1.5mil for both blue steel bracelets
 
 </div>
 
-<div class="post" data-post-id="615" data-author="Sian" data-date="2004-06-10T07:04:58+00:00">
+<div class="post" data-post-id="615" data-author="Sian" data-date="2004-06-10T07:04:58+00:00" data-subject="">
 
 <SPAN class=postbody>blue steel bracelet - 1.6mil for both</SPAN><SPAN class=gensmall></SPAN>
 
 </div>
 
-<div class="post" data-post-id="620" data-author="Weasel" data-date="2004-06-10T13:50:35+00:00">
+<div class="post" data-post-id="620" data-author="Weasel" data-date="2004-06-10T13:50:35+00:00" data-subject="">
 
 1.75mil for both blue steel bracelets
 
 </div>
 
-<div class="post" data-post-id="622" data-author="Sian" data-date="2004-06-10T17:00:36+00:00">
+<div class="post" data-post-id="622" data-author="Sian" data-date="2004-06-10T17:00:36+00:00" data-subject="">
 
 blue steel bracelet - 1.8mil for both
 
 </div>
 
-<div class="post" data-post-id="637" data-author="Grapenut" data-date="2004-06-11T19:49:34+00:00">
+<div class="post" data-post-id="637" data-author="Grapenut" data-date="2004-06-11T19:49:34+00:00" data-subject="">
 
 <P>500k for the gold stilleto :)</P>
 
 </div>
 
-<div class="post" data-post-id="641" data-author="Gippal" data-date="2004-06-11T20:26:21+00:00">
+<div class="post" data-post-id="641" data-author="Gippal" data-date="2004-06-11T20:26:21+00:00" data-subject="">
 
 600k for gold pommeled stiletto :D
 
 </div>
 
-<div class="post" data-post-id="642" data-author="Grapenut" data-date="2004-06-11T20:58:21+00:00">
+<div class="post" data-post-id="642" data-author="Grapenut" data-date="2004-06-11T20:58:21+00:00" data-subject="">
 
 800k for stilleto
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30634" data-author="Brayden" data-date="2010-01-11T06:37:47+00:00">
+<div class="post" data-post-id="30634" data-author="Brayden" data-date="2010-01-11T06:37:47+00:00" data-subject="Cleric related?">
 
 **Edited til I got the colors to work :P**
 
@@ -34,7 +34,7 @@ In coloring respective values vs. colors.
 
 </div>
 
-<div class="post" data-post-id="30635" data-author="jezer" data-date="2010-01-11T06:40:27+00:00">
+<div class="post" data-post-id="30635" data-author="jezer" data-date="2010-01-11T06:40:27+00:00" data-subject="">
 
 That's a pretty good idea Brayden.
 

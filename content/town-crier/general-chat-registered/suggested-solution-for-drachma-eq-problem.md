@@ -10,7 +10,7 @@ locked: false
 post_count: 28
 ---
 
-<div class="post" data-post-id="37543" data-author="Gorka" data-date="2016-11-25T07:23:51+00:00">
+<div class="post" data-post-id="37543" data-author="Gorka" data-date="2016-11-25T07:23:51+00:00" data-subject="Suggested Solution for Drachma Eq Problem">
 
 Drachma eq is a bit of a mess, although there are perfectly crafted and priced items players love, there are also a lot of items not being purchased because they are too expensive or worse than in game eq.
 
@@ -24,7 +24,7 @@ Tomorrow, peace in the middle east...  :twisted:
 
 </div>
 
-<div class="post" data-post-id="37551" data-author="Teron" data-date="2016-11-26T07:24:13+00:00">
+<div class="post" data-post-id="37551" data-author="Teron" data-date="2016-11-26T07:24:13+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 That's a good idea, though I don't see Breeze creating a form for eq items with comments from scratch.
 
@@ -50,7 +50,7 @@ If possible, be logged in Google at the time of your edit, so we know who's who 
 
 </div>
 
-<div class="post" data-post-id="37552" data-author="*Breeze*" data-date="2016-11-26T08:47:06+00:00">
+<div class="post" data-post-id="37552" data-author="*Breeze*" data-date="2016-11-26T08:47:06+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 > **Teron wrote:**
 > That's a good idea, though I don't see Breeze creating a form for eq items with comments from scratch.
@@ -74,7 +74,7 @@ if you expand it to all types of eq, then if an immortal needs an idea for a new
 
 </div>
 
-<div class="post" data-post-id="37553" data-author="Teron" data-date="2016-11-26T10:43:05+00:00">
+<div class="post" data-post-id="37553" data-author="Teron" data-date="2016-11-26T10:43:05+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 > ***Breeze* wrote:**
 > if you expand it to all types of eq, then if an immortal needs an idea for a new piece of eq they can use your list.
@@ -87,7 +87,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37554" data-author="Gorka" data-date="2016-11-26T11:08:15+00:00">
+<div class="post" data-post-id="37554" data-author="Gorka" data-date="2016-11-26T11:08:15+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 I've sent Taron an extracted list of all the current drachma eq items.
 
@@ -99,7 +99,7 @@ FACT 1... "There is no drachma eq with spell saves."
 
 </div>
 
-<div class="post" data-post-id="37555" data-author="Gorka" data-date="2016-11-26T11:13:28+00:00">
+<div class="post" data-post-id="37555" data-author="Gorka" data-date="2016-11-26T11:13:28+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Any chance an imm could release publicly all cap information?
 
@@ -107,7 +107,7 @@ It would be **REALLY** helpful.
 
 </div>
 
-<div class="post" data-post-id="37556" data-author="Teron" data-date="2016-11-26T12:35:32+00:00">
+<div class="post" data-post-id="37556" data-author="Teron" data-date="2016-11-26T12:35:32+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Also, immorts could share the stats on how many of each drachma eq were bought over the years. 
 
@@ -117,7 +117,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37560" data-author="Gorka" data-date="2016-11-27T21:14:15+00:00">
+<div class="post" data-post-id="37560" data-author="Gorka" data-date="2016-11-27T21:14:15+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Things are progressing... 
 
@@ -133,13 +133,13 @@ FACT 2... "About 3500 Oct Tokens have been purchased" - proving that a large pro
 
 </div>
 
-<div class="post" data-post-id="37561" data-author="Gorka" data-date="2016-11-27T21:37:58+00:00">
+<div class="post" data-post-id="37561" data-author="Gorka" data-date="2016-11-27T21:37:58+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 FACT 3... "About 50% of drachma items account only for 10% of sales... (Tokens and potions excluded)"
 
 </div>
 
-<div class="post" data-post-id="37562" data-author="Gorka" data-date="2016-11-27T22:45:52+00:00">
+<div class="post" data-post-id="37562" data-author="Gorka" data-date="2016-11-27T22:45:52+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 A few months ago I broke down all the drachma eq items into stats and drachma values. I then created an index using the min, max and avg prices of stats to produce a guideline of roughly how much stats are worth in drachma... I then had to interpret this data and came up with this...
 
@@ -163,13 +163,13 @@ This pricing is only a guideline, I say again... it is only a guideline, but it'
 
 </div>
 
-<div class="post" data-post-id="37563" data-author="Filk" data-date="2016-11-28T02:17:44+00:00">
+<div class="post" data-post-id="37563" data-author="Filk" data-date="2016-11-28T02:17:44+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 You forgot ac
 
 </div>
 
-<div class="post" data-post-id="37564" data-author="Teron" data-date="2016-11-28T02:20:55+00:00">
+<div class="post" data-post-id="37564" data-author="Teron" data-date="2016-11-28T02:20:55+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 What about ac value? around 500 too?
 
@@ -177,7 +177,7 @@ Though the ac robe and the -1.4 helm differ a lot.
 
 </div>
 
-<div class="post" data-post-id="37565" data-author="Gorka" data-date="2016-11-28T03:01:47+00:00">
+<div class="post" data-post-id="37565" data-author="Gorka" data-date="2016-11-28T03:01:47+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Yes, I left out AC for a reason. :lol: It's the most difficult and wildly varying index, because essentially most items are priced for there other stats, and the AC is not really factored into the value of the item by design, as it's often regular. (In fact AC is not considered an "AFFECT" in the eq structure, its a "VALUE" which means there is almost a separation of ideas here.) Of course there are a couple of items... the knights robe and the warrior helmet. But these are misleading and in the case of the helmet overpriced, but they do suggest that a net effect -0.1 on AC is priced in around 300-500 drachma per point. More closer to 500 than 300, to be fair to how MAX_DEX is priced.
 
@@ -203,7 +203,7 @@ Remember this is only a guide...
 
 </div>
 
-<div class="post" data-post-id="37567" data-author="Gorka" data-date="2016-11-28T04:46:46+00:00">
+<div class="post" data-post-id="37567" data-author="Gorka" data-date="2016-11-28T04:46:46+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Here is some examples of how you could use my guide to suggest a drachma value for an item... lets say you had these in mind... 
 
@@ -229,7 +229,7 @@ Adding HP's, MP's, MV's, +1 HIT, SPELL_SAVE can make a price that little bit mor
 
 </div>
 
-<div class="post" data-post-id="37568" data-author="Zlodiak" data-date="2016-11-28T07:16:57+00:00">
+<div class="post" data-post-id="37568" data-author="Zlodiak" data-date="2016-11-28T07:16:57+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Sooo hard :)
 
@@ -279,7 +279,7 @@ So, for -1.3 helm the value of max_con might be more than 250 and for worse item
 
 </div>
 
-<div class="post" data-post-id="37569" data-author="Zlodiak" data-date="2016-11-28T07:25:50+00:00">
+<div class="post" data-post-id="37569" data-author="Zlodiak" data-date="2016-11-28T07:25:50+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Well, talking about mythical -0.8 robe for 3125 drachmas.
 
@@ -291,7 +291,7 @@ P.S. I understand it's unreal eq and unreal prices, it's just an example to make
 
 </div>
 
-<div class="post" data-post-id="37570" data-author="Gorka" data-date="2016-11-28T07:48:19+00:00">
+<div class="post" data-post-id="37570" data-author="Gorka" data-date="2016-11-28T07:48:19+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 I'd be interested to see your formula Z, please share...
 
@@ -305,7 +305,7 @@ This is actually achievable in the context of rebirths.
 
 </div>
 
-<div class="post" data-post-id="37571" data-author="Zlodiak" data-date="2016-11-28T08:03:37+00:00">
+<div class="post" data-post-id="37571" data-author="Zlodiak" data-date="2016-11-28T08:03:37+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 My formula is Price = 5*(-(AC-(best_ingame_AC+0,2))*10)^4.
 
@@ -319,7 +319,7 @@ For no/low AC items there should be different formula.
 
 </div>
 
-<div class="post" data-post-id="37572" data-author="Zlodiak" data-date="2016-11-28T08:27:49+00:00">
+<div class="post" data-post-id="37572" data-author="Zlodiak" data-date="2016-11-28T08:27:49+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Btw, if we can find acceptable trade courses for stats in AC points we can use my formula.
 
@@ -337,7 +337,7 @@ We can change courses to get another results, but the idea is to get every tank 
 
 </div>
 
-<div class="post" data-post-id="37573" data-author="Gorka" data-date="2016-11-28T09:59:01+00:00">
+<div class="post" data-post-id="37573" data-author="Gorka" data-date="2016-11-28T09:59:01+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Z, for a formula to be judged as "good" it needs to "more a less" replicate the status quo. The difference between your formula and mine is that mine uses actual avg values based on current drachma eq and is therefore "more in tune" with current pricing, well yours comes in low for small ac and insanely high for high ac (because your formula has an exponential component - ^).
 
@@ -347,7 +347,7 @@ This in my opinion is an opportunity for players to ensure that at sometime alon
 
 </div>
 
-<div class="post" data-post-id="37574" data-author="Zlodiak" data-date="2016-11-28T10:52:19+00:00">
+<div class="post" data-post-id="37574" data-author="Zlodiak" data-date="2016-11-28T10:52:19+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Let's compare our formulas on pure AC eq:
 
@@ -415,7 +415,7 @@ But i'm pretty sure the price should raise exponentially.
 
 </div>
 
-<div class="post" data-post-id="37576" data-author="Gorka" data-date="2016-11-28T11:41:33+00:00">
+<div class="post" data-post-id="37576" data-author="Gorka" data-date="2016-11-28T11:41:33+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 AC is only priced at about 100 drachma, if the item eq is as good as top in game eq. AC is priced at about 500 for each AC point the item goes over established norms.
 
@@ -474,7 +474,7 @@ It must be noted that robes are normally the best value items. The formula's are
 
 </div>
 
-<div class="post" data-post-id="37577" data-author="Gorka" data-date="2016-11-28T12:03:14+00:00">
+<div class="post" data-post-id="37577" data-author="Gorka" data-date="2016-11-28T12:03:14+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Taron has updated the spreadsheet! Slowly things come together...
 
@@ -488,7 +488,7 @@ Bring on the flames retards!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="37578" data-author="*juggleblood*" data-date="2016-11-28T13:01:08+00:00">
+<div class="post" data-post-id="37578" data-author="*juggleblood*" data-date="2016-11-28T13:01:08+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Don't count on goblets or potions in your calculations. They are subject to nerfing. Goblet should prolly be nerfed down to 1 AC instead of 2 and durations cut back on several pots.
 
@@ -496,7 +496,7 @@ Personally I'm still not even sure what the role of drachma eq should be. I'm no
 
 </div>
 
-<div class="post" data-post-id="37579" data-author="Zlodiak" data-date="2016-11-28T13:40:29+00:00">
+<div class="post" data-post-id="37579" data-author="Zlodiak" data-date="2016-11-28T13:40:29+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Good news, these goblets are just insane :)
 
@@ -510,13 +510,13 @@ So, fixing existing eq and adding new eq sounds good.
 
 </div>
 
-<div class="post" data-post-id="37584" data-author="*juggleblood*" data-date="2016-11-28T23:40:41+00:00">
+<div class="post" data-post-id="37584" data-author="*juggleblood*" data-date="2016-11-28T23:40:41+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 Ingame eq has been slowing improving tho and will continue to. I've mentioned this many times that I don't feel that builders should be constrained by what is in the drachma shop when they want to create a new forge item. If we have to occasionally revalue the drach gear because it's relative value has changed so be it. Thanks Gorka, Taron, Kid and whoever else is in on the discussions. I'm glad someone is attacking it and I'm happy to implement the changes when you have some concensus on what you want. Ideally Tox would weigh in, look at it when you're done, as I think he was the last person to tackle it as a project.
 
 </div>
 
-<div class="post" data-post-id="37585" data-author="*juggleblood*" data-date="2016-11-28T23:54:00+00:00">
+<div class="post" data-post-id="37585" data-author="*juggleblood*" data-date="2016-11-28T23:54:00+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 One other idea I had about how drach gear could be effectively used, is adding large numbers of items in a similar category at the same time, without having to do the work of building new areas, making new forges, etc.
 
@@ -524,7 +524,7 @@ For example, lets say there were a whole shop full of different drachma lights o
 
 </div>
 
-<div class="post" data-post-id="37595" data-author="Teron" data-date="2016-12-01T06:50:34+00:00">
+<div class="post" data-post-id="37595" data-author="Teron" data-date="2016-12-01T06:50:34+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
 And another way to do it is to open the Amazing Gnomish Design Workshop, where players can:
 

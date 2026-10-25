@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="37772" data-author="*Breeze*" data-date="2016-12-10T17:19:07+00:00">
+<div class="post" data-post-id="37772" data-author="*Breeze*" data-date="2016-12-10T17:19:07+00:00" data-subject="GEM POP">
 
 there is now a chance to pop Tier 3 solo/better chance when grouped
 
@@ -24,13 +24,13 @@ changes go in whenever someone pulls over code / reboots.
 
 </div>
 
-<div class="post" data-post-id="37776" data-author="*teker*" data-date="2016-12-11T21:51:52+00:00">
+<div class="post" data-post-id="37776" data-author="*teker*" data-date="2016-12-11T21:51:52+00:00" data-subject="Re: GEM POP">
 
 Code has been pulled over.  Reboot scheduled for it's usual time on Monday.
 
 </div>
 
-<div class="post" data-post-id="37839" data-author="*Breeze*" data-date="2016-12-14T21:41:05+00:00">
+<div class="post" data-post-id="37839" data-author="*Breeze*" data-date="2016-12-14T21:41:05+00:00" data-subject="Re: GEM POP">
 
 2016-12-12 23:25:35 ** [GEM_POP] :: Will Upgrade Gem [1dX=Y] **
 
@@ -42,7 +42,7 @@ congrats on being the first to poop a t3. on lyme at that..
 
 </div>
 
-<div class="post" data-post-id="37849" data-author="*Breeze*" data-date="2016-12-16T12:30:47+00:00">
+<div class="post" data-post-id="37849" data-author="*Breeze*" data-date="2016-12-16T12:30:47+00:00" data-subject="Re: GEM POP">
 
 adjusted tier 3 upgrade rate
 
@@ -56,7 +56,7 @@ so not pushing/rebooting.
 
 </div>
 
-<div class="post" data-post-id="37939" data-author="*teker*" data-date="2017-01-06T22:27:36+00:00">
+<div class="post" data-post-id="37939" data-author="*teker*" data-date="2017-01-06T22:27:36+00:00" data-subject="Re: GEM POP">
 
 Starting at next reboot, gem upgrades to T2 will be possible.  Basically:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="7602" data-author="Xandora" data-date="2005-06-26T06:50:32+00:00">
+<div class="post" data-post-id="7602" data-author="Xandora" data-date="2005-06-26T06:50:32+00:00" data-subject="WTB : JJD">
 
 WTB: JJD or all the cps to forge one.
 

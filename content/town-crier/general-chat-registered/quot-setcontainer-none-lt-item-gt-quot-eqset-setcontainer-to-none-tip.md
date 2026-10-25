@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38660" data-author="*Idjit*" data-date="2018-02-02T15:07:32+00:00">
+<div class="post" data-post-id="38660" data-author="*Idjit*" data-date="2018-02-02T15:07:32+00:00" data-subject="&amp;quot;setcontainer NONE &amp;lt;item&amp;gt;&amp;quot; eqset setcontainer to none tip">
 
 We don't have this.  Teker?  would NONE be required to be capitalized, if we implemented it?
 
@@ -34,7 +34,7 @@ Your item will now stay in inventory. In the case of the scroll bag the issue is
 
 </div>
 
-<div class="post" data-post-id="38664" data-author="*teker*" data-date="2018-02-03T22:47:18+00:00">
+<div class="post" data-post-id="38664" data-author="*teker*" data-date="2018-02-03T22:47:18+00:00" data-subject="Re: &amp;quot;setcontainer NONE &amp;lt;item&amp;gt;&amp;quot; eqset setcontainer to none ti">
 
 I'm thinking:
 

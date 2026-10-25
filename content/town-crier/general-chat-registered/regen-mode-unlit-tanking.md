@@ -10,7 +10,7 @@ locked: false
 post_count: 26
 ---
 
-<div class="post" data-post-id="24058" data-author="angel" data-date="2008-04-27T01:49:42+00:00">
+<div class="post" data-post-id="24058" data-author="angel" data-date="2008-04-27T01:49:42+00:00" data-subject="REGEN MODE UNLIT TANKING :)">
 
 this has to be the best tankin! regenmode unlit till we cleared lvl 2 of ET.
 
@@ -18,19 +18,19 @@ Internet connection FTW!
 
 </div>
 
-<div class="post" data-post-id="24059" data-author="Rynquald" data-date="2008-04-27T02:16:00+00:00">
+<div class="post" data-post-id="24059" data-author="Rynquald" data-date="2008-04-27T02:16:00+00:00" data-subject="">
 
 It makes for a great kill or die run. On levels one and two of ET you can kill mobs in 0-1 rounds with a good stab and some blasting (not even the blasting for level one, and a bit of two), but if something goes wrong...hilarity ensues.
 
 </div>
 
-<div class="post" data-post-id="24061" data-author="angel" data-date="2008-04-27T02:25:42+00:00">
+<div class="post" data-post-id="24061" data-author="angel" data-date="2008-04-27T02:25:42+00:00" data-subject="">
 
 haha something did go wrong, i LD'd and whole group goes down n some newbie stuff i did etc:)
 
 </div>
 
-<div class="post" data-post-id="24064" data-author="angel" data-date="2008-04-27T10:39:53+00:00">
+<div class="post" data-post-id="24064" data-author="angel" data-date="2008-04-27T10:39:53+00:00" data-subject="">
 
 Cizin massacres Uhhhl to small fragments with his hit.
 
@@ -234,19 +234,19 @@ we killed uhhhl one run :P,tanking in regen mode
 
 </div>
 
-<div class="post" data-post-id="24076" data-author="Gumbi" data-date="2008-04-28T05:13:15+00:00">
+<div class="post" data-post-id="24076" data-author="Gumbi" data-date="2008-04-28T05:13:15+00:00" data-subject="">
 
 Your regen mode is 2 ring of dead a pearl of tide a talisman of flame and an onyx shiv?  Wow, no wonder Uhhhl died that quick ( I didn't see a kill xp) and what's the difference?  -.8 guards, -.8 rings, and whatever ac on your light (fishballs).  -10 I guess, if you've got -12 ...lit?  Who knows? :?:
 
 </div>
 
-<div class="post" data-post-id="24079" data-author="tincts" data-date="2008-04-28T06:33:58+00:00">
+<div class="post" data-post-id="24079" data-author="tincts" data-date="2008-04-28T06:33:58+00:00" data-subject="">
 
 Hehe he's right :)  I kinda wish I had your regen mode for my ac mode ;)
 
 </div>
 
-<div class="post" data-post-id="24080" data-author="Yasik2" data-date="2008-04-28T07:44:22+00:00">
+<div class="post" data-post-id="24080" data-author="Yasik2" data-date="2008-04-28T07:44:22+00:00" data-subject="">
 
 tanking in regen mode?
 
@@ -256,7 +256,7 @@ pic related
 
 </div>
 
-<div class="post" data-post-id="24083" data-author="angel" data-date="2008-04-28T12:25:45+00:00">
+<div class="post" data-post-id="24083" data-author="angel" data-date="2008-04-28T12:25:45+00:00" data-subject="">
 
 tanking in regen again the very next day
 
@@ -432,13 +432,13 @@ Pi splits 50000 coins.  Your share is 8333 coins.
 
 </div>
 
-<div class="post" data-post-id="24085" data-author="brady" data-date="2008-04-28T13:39:33+00:00">
+<div class="post" data-post-id="24085" data-author="brady" data-date="2008-04-28T13:39:33+00:00" data-subject="">
 
 like gumbi said, get some decent regen eq ya scrub.  it's embarrassing to read.
 
 </div>
 
-<div class="post" data-post-id="24091" data-author="Yasik2" data-date="2008-04-28T19:17:53+00:00">
+<div class="post" data-post-id="24091" data-author="Yasik2" data-date="2008-04-28T19:17:53+00:00" data-subject="">
 
 honestly i dont understand why you posting your shameful fail
 
@@ -446,7 +446,7 @@ are you proud to be a loser or are you masochist?
 
 </div>
 
-<div class="post" data-post-id="24110" data-author="jezer" data-date="2008-04-30T04:25:40+00:00">
+<div class="post" data-post-id="24110" data-author="jezer" data-date="2008-04-30T04:25:40+00:00" data-subject="">
 
 Top # of Deaths Last Week...
 
@@ -464,7 +464,7 @@ Wisdom suggests that maybe a change in style might actually put you further in f
 
 </div>
 
-<div class="post" data-post-id="24111" data-author="Weasel" data-date="2008-04-30T04:33:27+00:00">
+<div class="post" data-post-id="24111" data-author="Weasel" data-date="2008-04-30T04:33:27+00:00" data-subject="">
 
 Thought I should mention that when I was following Sa, much of the time he died was due to underhealing, when there was still plenty of mana in the group.. in other words, bots.
 
@@ -472,7 +472,7 @@ I don't know if you'll see Sa leading much more for a while - I got the impressi
 
 </div>
 
-<div class="post" data-post-id="24113" data-author="jezer" data-date="2008-04-30T04:44:54+00:00">
+<div class="post" data-post-id="24113" data-author="jezer" data-date="2008-04-30T04:44:54+00:00" data-subject="">
 
 It's hard to heal a tank who can't keep his own aegis and iron skin up, and runs wearing the wrong ac... what you seen is correct weasel, but it's not the healo's fault! Trust me! You can die in <1 round on lyme if these things are down... And if only 1 healo is in, in two rounds... because 1 restore will not be enough for the second round.
 
@@ -484,7 +484,7 @@ I'll will group with sa again when things change... But I won't put my character
 
 </div>
 
-<div class="post" data-post-id="24115" data-author="Rynquald" data-date="2008-04-30T06:27:10+00:00">
+<div class="post" data-post-id="24115" data-author="Rynquald" data-date="2008-04-30T06:27:10+00:00" data-subject="">
 
 Personally, I find the dying adds a lot of fun to a group (when it's not caused by bots at least). Things can get pretty interesting once you loose the top tanks while a mob's still at small wounds :)
 
@@ -492,7 +492,7 @@ Of course I have very, very little concern about dying/corpsing/looting, so that
 
 </div>
 
-<div class="post" data-post-id="24116" data-author="angel" data-date="2008-04-30T07:25:49+00:00">
+<div class="post" data-post-id="24116" data-author="angel" data-date="2008-04-30T07:25:49+00:00" data-subject="WTF">
 
 JEZER first of,do not piss me off one more time where u have no right to say or judge on wat i have done. ive had it with ur stupidity.
 
@@ -500,7 +500,7 @@ first off,i tank the way i wanna tank,just because i have to study n cant put my
 
 </div>
 
-<div class="post" data-post-id="24117" data-author="angel" data-date="2008-04-30T07:31:43+00:00">
+<div class="post" data-post-id="24117" data-author="angel" data-date="2008-04-30T07:31:43+00:00" data-subject="">
 
 [b:1hs6n5a9]It's hard to heal a tank who can't keep his own aegis and iron skin up, and runs wearing the wrong ac... what you seen is correct weasel, but it's not the healo's fault! Trust me! You can die in <1 round on lyme if these things are down... And if only 1 healo is in, in two rounds... because 1 restore will not be enough for the second round. 
 
@@ -514,13 +514,13 @@ I'll will group with sa again when things change... But I won't put my character
 
 </div>
 
-<div class="post" data-post-id="24118" data-author="angel" data-date="2008-04-30T07:47:32+00:00">
+<div class="post" data-post-id="24118" data-author="angel" data-date="2008-04-30T07:47:32+00:00" data-subject="idiot">
 
 so wat if i corpse 10000 times a week? its my life i do wat i want. how i mud doesnt concern u 1 bit. i posted it not asking for ur damn approval nor advice.
 
 </div>
 
-<div class="post" data-post-id="24119" data-author="Autolycos" data-date="2008-04-30T09:34:38+00:00">
+<div class="post" data-post-id="24119" data-author="Autolycos" data-date="2008-04-30T09:34:38+00:00" data-subject="">
 
 Personally, I find the dying adds a lot of fun to a group.   Of course I have very, very little concern about dying/corpsing/looting, so that skews my opinions somewhat.[/quote:wphtoxar]
 
@@ -528,7 +528,7 @@ god love ya Ryn.   8)
 
 </div>
 
-<div class="post" data-post-id="24122" data-author="brady" data-date="2008-04-30T12:42:03+00:00">
+<div class="post" data-post-id="24122" data-author="brady" data-date="2008-04-30T12:42:03+00:00" data-subject="">
 
 Leave Sa to his meltdown.  Divorce can be so messy.
 
@@ -536,7 +536,7 @@ Leave Sa to his meltdown.  Divorce can be so messy.
 
 </div>
 
-<div class="post" data-post-id="24123" data-author="Karna" data-date="2008-04-30T13:34:38+00:00">
+<div class="post" data-post-id="24123" data-author="Karna" data-date="2008-04-30T13:34:38+00:00" data-subject="">
 
 Jezer / Apprentice,
 
@@ -548,13 +548,13 @@ Karna / Xamak / Tripper et all
 
 </div>
 
-<div class="post" data-post-id="24124" data-author="Alberich" data-date="2008-04-30T14:41:33+00:00">
+<div class="post" data-post-id="24124" data-author="Alberich" data-date="2008-04-30T14:41:33+00:00" data-subject="">
 
 [img:26jyrnxv]http://www.magnificentoctopus.com/propaganda/noobs.png[/img:26jyrnxv]
 
 </div>
 
-<div class="post" data-post-id="24126" data-author="alias" data-date="2008-04-30T17:40:18+00:00">
+<div class="post" data-post-id="24126" data-author="alias" data-date="2008-04-30T17:40:18+00:00" data-subject="">
 
 1 rule... add milk to your cherios in the morning instead of piss, it makes the day so much better.
 
@@ -562,7 +562,7 @@ I remember more than once dieing on purpose because the healo was getting a litt
 
 </div>
 
-<div class="post" data-post-id="24135" data-author="tincts" data-date="2008-05-01T01:18:33+00:00">
+<div class="post" data-post-id="24135" data-author="tincts" data-date="2008-05-01T01:18:33+00:00" data-subject="">
 
 I remember more than once dieing on purpose because the healo was getting a little too passive. a little danger wakes people up and makes things a little more fun.[/quote:3lnl68s6]
 
@@ -570,7 +570,7 @@ I remember more than once dieing on purpose because the healo was getting a litt
 
 </div>
 
-<div class="post" data-post-id="24138" data-author="Rynquald" data-date="2008-05-01T01:41:42+00:00">
+<div class="post" data-post-id="24138" data-author="Rynquald" data-date="2008-05-01T01:41:42+00:00" data-subject="">
 
 I remember more than once dieing on purpose because the healo was getting a little too passive. a little danger wakes people up and makes things a little more fun.[/quote:334i4ljt]
 
@@ -580,7 +580,7 @@ I concur.
 
 </div>
 
-<div class="post" data-post-id="24139" data-author="*juggleblood*" data-date="2008-05-01T03:30:39+00:00">
+<div class="post" data-post-id="24139" data-author="*juggleblood*" data-date="2008-05-01T03:30:39+00:00" data-subject="Re: WTF">
 
 JEZER first of,do not piss me off one more time  or ill freaking kill u.[/quote:n3gep37u]
 
@@ -588,7 +588,7 @@ JEZER first of,do not piss me off one more time  or ill freaking kill u.[/quote:
 
 </div>
 
-<div class="post" data-post-id="24140" data-author="Weasel" data-date="2008-05-01T04:38:05+00:00">
+<div class="post" data-post-id="24140" data-author="Weasel" data-date="2008-05-01T04:38:05+00:00" data-subject="">
 
 Sa: "I'm sorry, I can't hear you over the sound of how awesome I am."  :twisted:
 

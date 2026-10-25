@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2831" data-author="doug" data-date="2004-11-15T00:41:24+00:00">
+<div class="post" data-post-id="2831" data-author="doug" data-date="2004-11-15T00:41:24+00:00" data-subject="wtb: mithril rings and golden thread">
 
 Will buy any all your mihtril rings. Also need either golden thread or the golden nugget from moria. 
 

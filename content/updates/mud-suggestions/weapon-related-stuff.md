@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="2525" data-author="12345" data-date="2004-11-02T13:05:45+00:00">
+<div class="post" data-post-id="2525" data-author="12345" data-date="2004-11-02T13:05:45+00:00" data-subject="Weapon Related Stuff">
 
 Weapons are becoming more in depth lately.  For instance, two-handed weapons get increased bonuses, some weapons proc, and other are just weapons.  (Did I also hear something about warriors and blunted weapons?) 
 
@@ -20,7 +20,7 @@ Or perhaps such things already exist and I'm just silly?    :D
 
 </div>
 
-<div class="post" data-post-id="2526" data-author="Alberich" data-date="2004-11-02T13:23:59+00:00">
+<div class="post" data-post-id="2526" data-author="Alberich" data-date="2004-11-02T13:23:59+00:00" data-subject="">
 
 I do not know that proc dam would get shown regardless, as alot of procs are spells, and there is nothing in most spells helpfiles about damage.
 
@@ -28,7 +28,7 @@ that said, it would be really cool if even just masterful identify would tell yo
 
 </div>
 
-<div class="post" data-post-id="2527" data-author="12345" data-date="2004-11-02T15:22:30+00:00">
+<div class="post" data-post-id="2527" data-author="12345" data-date="2004-11-02T15:22:30+00:00" data-subject="">
 
 I'll agree to a certain extent about proc spells.  I don't think they're straight spells in most cases, though it's entirely possible I'm wrong.  However, I'm not familiar with a cone of cold spell in game, and weapons that spew out demons and emerald rays don't seem to be strictly spell related.  This would seem more along the lines of:
 

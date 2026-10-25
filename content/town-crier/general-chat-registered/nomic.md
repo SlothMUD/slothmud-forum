@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="17312" data-author="*juggleblood*" data-date="2007-03-16T16:03:59+00:00">
+<div class="post" data-post-id="17312" data-author="*juggleblood*" data-date="2007-03-16T16:03:59+00:00" data-subject="Nomic!">
 
 Nomic annihilates a blubbery piece of whale skin.
 
@@ -32,7 +32,7 @@ You puke.
 
 </div>
 
-<div class="post" data-post-id="17316" data-author="Atwell" data-date="2007-03-16T18:00:38+00:00">
+<div class="post" data-post-id="17316" data-author="Atwell" data-date="2007-03-16T18:00:38+00:00" data-subject="Re: Nomic!">
 
 Nomic grabs a strand of seaweed away from a manta ray!
 
@@ -46,7 +46,7 @@ Why?  Looked like a balanced meal.  Protein, carbs, veggies.  Granted, it's a go
 
 </div>
 
-<div class="post" data-post-id="17317" data-author="Autolycos" data-date="2007-03-16T18:52:25+00:00">
+<div class="post" data-post-id="17317" data-author="Autolycos" data-date="2007-03-16T18:52:25+00:00" data-subject="">
 
 if anything you should feel sorry for poor Tremble....
 
@@ -54,13 +54,13 @@ poor guys a unic now  :shock:
 
 </div>
 
-<div class="post" data-post-id="17320" data-author="Weasel" data-date="2007-03-16T21:21:24+00:00">
+<div class="post" data-post-id="17320" data-author="Weasel" data-date="2007-03-16T21:21:24+00:00" data-subject="">
 
 mountain oysters?
 
 </div>
 
-<div class="post" data-post-id="17347" data-author="Avatar" data-date="2007-03-18T13:14:33+00:00">
+<div class="post" data-post-id="17347" data-author="Avatar" data-date="2007-03-18T13:14:33+00:00" data-subject="Auto:">
 
 [http://en.wikipedia.org/wiki/Eunuch](http://en.wikipedia.org/wiki/Eunuch)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39795" data-author="Driven" data-date="2021-08-27T16:41:35+00:00">
+<div class="post" data-post-id="39795" data-author="Driven" data-date="2021-08-27T16:41:35+00:00" data-subject="Changelog 2021-08-27">
 
 Phase 2 of the changes for the thief class are now live.  This change introduces the following new skills:
 
@@ -52,13 +52,13 @@ For those of you who feel like your prime class needs balancing in some aspect o
 
 </div>
 
-<div class="post" data-post-id="39798" data-author="Driven" data-date="2021-08-28T12:54:22+00:00">
+<div class="post" data-post-id="39798" data-author="Driven" data-date="2021-08-28T12:54:22+00:00" data-subject="Re: Changelog 2021-08-27">
 
 FYI, one of the files didn't get populated on the game machine, so garrote is missing all of it's messages.  This will be fixed soon.
 
 </div>
 
-<div class="post" data-post-id="39799" data-author="Driven" data-date="2021-08-28T17:04:49+00:00">
+<div class="post" data-post-id="39799" data-author="Driven" data-date="2021-08-28T17:04:49+00:00" data-subject="Re: Changelog 2021-08-27">
 
 Garrote now shows the proper messaging.  Enjoy!
 

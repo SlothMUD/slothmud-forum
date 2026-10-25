@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="39229" data-author="Gorka" data-date="2019-07-04T03:36:08+00:00">
+<div class="post" data-post-id="39229" data-author="Gorka" data-date="2019-07-04T03:36:08+00:00" data-subject="The Smarter Nerfs To Warriors...">
 
 For those who don't know, warcry has been nerfed for warriors solo - net effect for me is about -100hp, -3 damage and a spell save for me.
 
@@ -24,19 +24,19 @@ Scoff as some players will, my warrior tactics never involved the prolific abuse
 
 </div>
 
-<div class="post" data-post-id="39231" data-author="Gorka" data-date="2019-07-04T14:45:10+00:00">
+<div class="post" data-post-id="39231" data-author="Gorka" data-date="2019-07-04T14:45:10+00:00" data-subject="Re: The Smarter Nerfs To Warriors...">
 
 Another smarter idea would have been to not discharge the warcry until a mob dies... an adaption of the current oath of victory code. The problem with the warrior class, is not its power, but the techniques. There was no need to nerf the power of the warcry that a warrior earns with 10,000's of group mob kills... all that was needed was to make sure a mob was actually dead before a warrior can warcry again. I understand the change, but it over reached.
 
 </div>
 
-<div class="post" data-post-id="39246" data-author="*teker*" data-date="2019-07-11T17:37:05+00:00">
+<div class="post" data-post-id="39246" data-author="*teker*" data-date="2019-07-11T17:37:05+00:00" data-subject="Re: The Smarter Nerfs To Warriors...">
 
 I'm slammed right now but I'll take a look at the suggestions.  The current change made sense to me based on the contents of the help file.  It specifically mentions "other people in your group..."
 
 </div>
 
-<div class="post" data-post-id="39247" data-author="Gorka" data-date="2019-07-11T18:29:38+00:00">
+<div class="post" data-post-id="39247" data-author="Gorka" data-date="2019-07-11T18:29:38+00:00" data-subject="Re: The Smarter Nerfs To Warriors...">
 
 I'll live with what ever you decide Teker. The change has hurt me quite a bit... probably 25 damage less per round all things considered, factoring in the 5 hits -3dam, the stab, and the spell save.
 
@@ -58,7 +58,7 @@ I know your not one to change things radically, you prefer to stick to original 
 
 </div>
 
-<div class="post" data-post-id="39253" data-author="Roga" data-date="2019-07-12T20:01:26+00:00">
+<div class="post" data-post-id="39253" data-author="Roga" data-date="2019-07-12T20:01:26+00:00" data-subject="Re: The Smarter Nerfs To Warriors...">
 
 I second Gorka's suggestions and would add that a portion of larger groups start with two-person groups.  Perhaps a scaling/layering or some benefits retained for those.
 

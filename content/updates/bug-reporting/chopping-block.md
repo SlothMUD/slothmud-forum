@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5409" data-author="Malison" data-date="2005-04-03T17:32:24+00:00">
+<div class="post" data-post-id="5409" data-author="Malison" data-date="2005-04-03T17:32:24+00:00" data-subject="Chopping Block">
 
 If you submit a bid putting you on top, and later decide to raise that bid, you end up pushing the price up, and sometimes leaving no name as the winner of the auction.
 

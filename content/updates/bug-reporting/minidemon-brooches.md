@@ -10,19 +10,19 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="280" data-author="Weasel" data-date="2004-05-24T01:30:26+00:00">
+<div class="post" data-post-id="280" data-author="Weasel" data-date="2004-05-24T01:30:26+00:00" data-subject="minidemon brooches">
 
 Apparently the minidemon brooches (supposed to be resist fire & resist cold) don't actually do anything other than look kinda groovy... will these be fixed (if they haven't already)?
 
 </div>
 
-<div class="post" data-post-id="288" data-author="Alberich" data-date="2004-05-24T14:20:22+00:00">
+<div class="post" data-post-id="288" data-author="Alberich" data-date="2004-05-24T14:20:22+00:00" data-subject="">
 
 er... mine seem to work fine... and i have sets on 3 different chars :P
 
 </div>
 
-<div class="post" data-post-id="290" data-author="Weasel" data-date="2004-05-24T15:47:38+00:00">
+<div class="post" data-post-id="290" data-author="Weasel" data-date="2004-05-24T15:47:38+00:00" data-subject="">
 
 Well if they've been fixed recently then no worries :)
 

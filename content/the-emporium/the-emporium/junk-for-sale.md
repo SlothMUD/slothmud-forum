@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="13812" data-author="Diazz" data-date="2006-08-28T03:46:22+00:00">
+<div class="post" data-post-id="13812" data-author="Diazz" data-date="2006-08-28T03:46:22+00:00" data-subject="Junk for sale">
 
 Sup, my prices are always negotiable.  
 
@@ -130,7 +130,7 @@ Only those who are at least master magic users may use this item.
 
 </div>
 
-<div class="post" data-post-id="13813" data-author="Karna" data-date="2006-08-28T04:52:17+00:00">
+<div class="post" data-post-id="13813" data-author="Karna" data-date="2006-08-28T04:52:17+00:00" data-subject="durs hide shirt">
 
 I'll give you $1,000,000 for the durs hide shirt.  If interested, let me or Tripper know.
 
@@ -138,25 +138,25 @@ Karna
 
 </div>
 
-<div class="post" data-post-id="13820" data-author="Diazz" data-date="2006-08-28T20:07:51+00:00">
+<div class="post" data-post-id="13820" data-author="Diazz" data-date="2006-08-28T20:07:51+00:00" data-subject="">
 
 sure find me in game :)
 
 </div>
 
-<div class="post" data-post-id="13821" data-author="13" data-date="2006-08-28T23:02:45+00:00">
+<div class="post" data-post-id="13821" data-author="13" data-date="2006-08-28T23:02:45+00:00" data-subject="">
 
 nice katana :)
 
 </div>
 
-<div class="post" data-post-id="13823" data-author="Diazz" data-date="2006-08-28T23:46:46+00:00">
+<div class="post" data-post-id="13823" data-author="Diazz" data-date="2006-08-28T23:46:46+00:00" data-subject="">
 
 Yeah I like the katana for death blows.  I may keep it actually...
 
 </div>
 
-<div class="post" data-post-id="13876" data-author="Diazz_Dizazter" data-date="2006-09-01T12:35:01+00:00">
+<div class="post" data-post-id="13876" data-author="Diazz_Dizazter" data-date="2006-09-01T12:35:01+00:00" data-subject="">
 
 the unicorn horn has been sold...
 
@@ -164,19 +164,19 @@ thanks.
 
 </div>
 
-<div class="post" data-post-id="13882" data-author="tincts" data-date="2006-09-01T13:51:44+00:00">
+<div class="post" data-post-id="13882" data-author="tincts" data-date="2006-09-01T13:51:44+00:00" data-subject="">
 
 Half a mill for the staff of the Ram?
 
 </div>
 
-<div class="post" data-post-id="13883" data-author="Diazz_Dizazter" data-date="2006-09-01T13:57:14+00:00">
+<div class="post" data-post-id="13883" data-author="Diazz_Dizazter" data-date="2006-09-01T13:57:14+00:00" data-subject="">
 
 sure
 
 </div>
 
-<div class="post" data-post-id="13916" data-author="Diazz_Dizazter" data-date="2006-09-05T17:59:11+00:00">
+<div class="post" data-post-id="13916" data-author="Diazz_Dizazter" data-date="2006-09-05T17:59:11+00:00" data-subject="">
 
 New, updated and improved list of junk for sale.
 
@@ -274,7 +274,7 @@ Only those who are primary master magic users may use this item.
 
 </div>
 
-<div class="post" data-post-id="13919" data-author="13" data-date="2006-09-06T03:04:58+00:00">
+<div class="post" data-post-id="13919" data-author="13" data-date="2006-09-06T03:04:58+00:00" data-subject="Just 4 trade">
 
 i got:
 

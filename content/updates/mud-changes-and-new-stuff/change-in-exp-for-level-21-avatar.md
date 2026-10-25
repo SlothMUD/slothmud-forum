@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32390" data-author="*Isabo*" data-date="2011-01-28T05:25:01+00:00">
+<div class="post" data-post-id="32390" data-author="*Isabo*" data-date="2011-01-28T05:25:01+00:00" data-subject="Change in exp for level 21 avatar">
 
 Greeting mortals.
 

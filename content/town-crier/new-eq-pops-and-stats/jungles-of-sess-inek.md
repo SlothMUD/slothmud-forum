@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="35076" data-author="Magi" data-date="2014-04-23T17:57:39+00:00">
+<div class="post" data-post-id="35076" data-author="Magi" data-date="2014-04-23T17:57:39+00:00" data-subject="Jungles of Sess&#x27;Inek">
 
 Crazy new belt found in a jungle somewhere (inquire at blacksmith):
 
@@ -38,7 +38,7 @@ Requires: 5000000 coins, 1x the crest of the scaled warrior,
 
 </div>
 
-<div class="post" data-post-id="35077" data-author="*Splork*" data-date="2014-04-23T19:22:04+00:00">
+<div class="post" data-post-id="35077" data-author="*Splork*" data-date="2014-04-23T19:22:04+00:00" data-subject="Re: Jungles of Sess&#x27;Inek">
 
 We are looking into the item. When it was approved the can-shapeshift flag was not included.
 
@@ -50,7 +50,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35078" data-author="DarkArtist" data-date="2014-04-23T20:30:25+00:00">
+<div class="post" data-post-id="35078" data-author="DarkArtist" data-date="2014-04-23T20:30:25+00:00" data-subject="Re: Jungles of Sess&#x27;Inek">
 
 Suggestion: Remove Can Shift.
 
@@ -58,7 +58,7 @@ Presto. Good looking item.
 
 </div>
 
-<div class="post" data-post-id="35079" data-author="*Neptune*" data-date="2014-04-24T00:51:44+00:00">
+<div class="post" data-post-id="35079" data-author="*Neptune*" data-date="2014-04-24T00:51:44+00:00" data-subject="Re: Jungles of Sess&#x27;Inek">
 
 Greetings.
 
@@ -88,7 +88,7 @@ in updating this item.
 
 </div>
 
-<div class="post" data-post-id="36319" data-author="Teron" data-date="2015-12-16T09:26:59+00:00">
+<div class="post" data-post-id="36319" data-author="Teron" data-date="2015-12-16T09:26:59+00:00" data-subject="Re: Jungles of Sess&#x27;Inek">
 
 While I applaud your efforts to add useful items to the game, may I inquire as to what's the reasoing to include weapon damage to a shiftable item? Does it apply to druid forms? Or is it only useful in minotaur with an aklys?
 
@@ -96,7 +96,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36321" data-author="*Neptune*" data-date="2015-12-16T16:02:25+00:00">
+<div class="post" data-post-id="36321" data-author="*Neptune*" data-date="2015-12-16T16:02:25+00:00" data-subject="Re: Jungles of Sess&#x27;Inek">
 
 While I agree that in many cases Druid damage forms will be preferrable to using
 
@@ -156,7 +156,7 @@ Hope that helps.
 
 </div>
 
-<div class="post" data-post-id="36322" data-author="Teron" data-date="2015-12-16T18:45:32+00:00">
+<div class="post" data-post-id="36322" data-author="Teron" data-date="2015-12-16T18:45:32+00:00" data-subject="Re: Jungles of Sess&#x27;Inek">
 
 Thanks to the reply.
 

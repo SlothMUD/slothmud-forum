@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="30047" data-author="Wingnut" data-date="2009-09-26T07:52:21+00:00">
+<div class="post" data-post-id="30047" data-author="Wingnut" data-date="2009-09-26T07:52:21+00:00" data-subject="Opera Symphonia (New EQ)">
 
 The ghost of Sorelli had this.  (Note: Ethereal Mob)
 
@@ -40,7 +40,7 @@ or supreme druids, or adept necromancers may use this item.
 
 </div>
 
-<div class="post" data-post-id="30054" data-author="blackmore" data-date="2009-09-26T21:10:53+00:00">
+<div class="post" data-post-id="30054" data-author="blackmore" data-date="2009-09-26T21:10:53+00:00" data-subject="">
 
 First of all, one of the rewards was a -1.1ac shield called the Shield of the Black Rose.  It loads on Marsup in BH Castle.  Thank you wealth and glory.
 
@@ -116,7 +116,7 @@ A cp also loaded on a patron - an heirloom bodkin needle.  No forge note or know
 
 </div>
 
-<div class="post" data-post-id="30056" data-author="blackmore" data-date="2009-09-27T00:49:14+00:00">
+<div class="post" data-post-id="30056" data-author="blackmore" data-date="2009-09-27T00:49:14+00:00" data-subject="">
 
 The forge note:
 
@@ -166,7 +166,7 @@ your order.
 
 </div>
 
-<div class="post" data-post-id="30059" data-author="blackmore" data-date="2009-09-27T14:50:59+00:00">
+<div class="post" data-post-id="30059" data-author="blackmore" data-date="2009-09-27T14:50:59+00:00" data-subject="">
 
 Chromium Blue Frostplate
 
@@ -192,7 +192,7 @@ Only those who are at least experienced magic users or experienced warriors, or 
 
 </div>
 
-<div class="post" data-post-id="30178" data-author="Cizin" data-date="2009-10-25T21:07:29+00:00">
+<div class="post" data-post-id="30178" data-author="Cizin" data-date="2009-10-25T21:07:29+00:00" data-subject="">
 
 Lady Veloce Pianissimo pops:
 
@@ -228,7 +228,7 @@ Can affect you as:
 
 </div>
 
-<div class="post" data-post-id="30568" data-author="blackmore" data-date="2010-01-05T01:45:10+00:00">
+<div class="post" data-post-id="30568" data-author="blackmore" data-date="2010-01-05T01:45:10+00:00" data-subject="">
 
 Thanks to everyone who helped (especially Wimpy), one of the opera trades have been completed.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 26
 ---
 
-<div class="post" data-post-id="25873" data-author="Acedia" data-date="2008-08-23T04:27:55+00:00">
+<div class="post" data-post-id="25873" data-author="Acedia" data-date="2008-08-23T04:27:55+00:00" data-subject="Quest &#x27;Reward&#x27; System">
 
 Mornin' folks,
 
@@ -36,7 +36,7 @@ Just an idea. =)
 
 </div>
 
-<div class="post" data-post-id="25875" data-author="reboog" data-date="2008-08-23T04:35:39+00:00">
+<div class="post" data-post-id="25875" data-author="reboog" data-date="2008-08-23T04:35:39+00:00" data-subject="Re: Quest &#x27;Reward&#x27; System">
 
 Mornin' folks,
 
@@ -66,13 +66,13 @@ Acedia: good nick length
 
 </div>
 
-<div class="post" data-post-id="25878" data-author="*juggleblood*" data-date="2008-08-23T05:08:31+00:00">
+<div class="post" data-post-id="25878" data-author="*juggleblood*" data-date="2008-08-23T05:08:31+00:00" data-subject="">
 
 thats not a bad idea at all, it would cut down on the time for splitting loot dramatically. would require a lot of effort tho.
 
 </div>
 
-<div class="post" data-post-id="25881" data-author="Liar" data-date="2008-08-23T05:35:02+00:00">
+<div class="post" data-post-id="25881" data-author="Liar" data-date="2008-08-23T05:35:02+00:00" data-subject="">
 
 I led and participated in many quests and i would say its very hard to come up with rewarding system that makes everyone satisfied. I dont like very much when leader have to pick mvps, caus there can always be favoritism and also caus leader cant possible notice everything and in the big quest groups. As I have my hands full with trying to keep whole group in one room, keep people alive, raise dead members, trying to figure what we kill next and where, I take many jobs done by other players like granted yet those are very important too. Solving quest riddles, getting dead members who are not with group, running and finding gateable, and all basic jobs like trying to heal tank in all that spamm and blasting correct mob and so on...
 
@@ -82,13 +82,13 @@ Giving out eq as rewards is not bad, but lets make it all ingame that can be pop
 
 </div>
 
-<div class="post" data-post-id="25882" data-author="Rynquald" data-date="2008-08-23T05:45:19+00:00">
+<div class="post" data-post-id="25882" data-author="Rynquald" data-date="2008-08-23T05:45:19+00:00" data-subject="">
 
 I like the 'token of any spellbook' idea. It would also be relatively simple to automate the token/sb exchange so people didn't have to wait for a willing imm.
 
 </div>
 
-<div class="post" data-post-id="25883" data-author="Mosaix" data-date="2008-08-23T05:58:44+00:00">
+<div class="post" data-post-id="25883" data-author="Mosaix" data-date="2008-08-23T05:58:44+00:00" data-subject="">
 
 The work behind the quest was fun, thanks for the entertaiment for sure.
 
@@ -112,7 +112,7 @@ Thanks as always for the hard work on building quests.  Take an ounce of that en
 
 </div>
 
-<div class="post" data-post-id="25884" data-author="Acedia" data-date="2008-08-23T07:14:29+00:00">
+<div class="post" data-post-id="25884" data-author="Acedia" data-date="2008-08-23T07:14:29+00:00" data-subject="">
 
 Mornin' again folks,
 
@@ -138,7 +138,7 @@ Thanks for the time/consideration =)
 
 </div>
 
-<div class="post" data-post-id="25885" data-author="brady" data-date="2008-08-23T11:52:28+00:00">
+<div class="post" data-post-id="25885" data-author="brady" data-date="2008-08-23T11:52:28+00:00" data-subject="">
 
 Player discontent with the order of distribution and/or choice of rewards we attained seems to be key issues, which can theoretically be circumvented with the system I'm proposing.  You could make getting the rewards anonymous, as in you can't see who got how many tokens/credit, or which item they got.  [/quote:2pbde26e]
 
@@ -148,7 +148,7 @@ PS.  Good work Ulmo.
 
 </div>
 
-<div class="post" data-post-id="25890" data-author="Mosaix" data-date="2008-08-23T13:43:22+00:00">
+<div class="post" data-post-id="25890" data-author="Mosaix" data-date="2008-08-23T13:43:22+00:00" data-subject="">
 
 In response to acedia...
 
@@ -170,13 +170,13 @@ Stats, effects, all would be fun.
 
 </div>
 
-<div class="post" data-post-id="25891" data-author="Liar" data-date="2008-08-23T14:19:49+00:00">
+<div class="post" data-post-id="25891" data-author="Liar" data-date="2008-08-23T14:19:49+00:00" data-subject="">
 
 The bag system is bad as well. I remember few people blamed Blaster for favoritism, like he told some people what bag to pick. I m not saying that it really happened, I didnt even participate in that one. Just in any case you will get blamed if you do distribution of eq.
 
 </div>
 
-<div class="post" data-post-id="25893" data-author="firebrand" data-date="2008-08-23T16:43:54+00:00">
+<div class="post" data-post-id="25893" data-author="firebrand" data-date="2008-08-23T16:43:54+00:00" data-subject="">
 
 the "any cp/spellbook" token idea is really, REALLY simple...perhaps make it personal.   it can simply be a note that says "ticket good for one sb/cp: return to imm to receive item" and you simply tell imm which skill/spell you want.  
 
@@ -184,7 +184,7 @@ the "any cp/spellbook" token idea is really, REALLY simple...perhaps make it per
 
 </div>
 
-<div class="post" data-post-id="25899" data-author="Poggle" data-date="2008-08-24T02:46:21+00:00">
+<div class="post" data-post-id="25899" data-author="Poggle" data-date="2008-08-24T02:46:21+00:00" data-subject="getting us back on track....(cuz I like this idea)">
 
 OK SO
 
@@ -220,19 +220,19 @@ So summary:
 
 </div>
 
-<div class="post" data-post-id="25900" data-author="reboog" data-date="2008-08-24T17:22:06+00:00">
+<div class="post" data-post-id="25900" data-author="reboog" data-date="2008-08-24T17:22:06+00:00" data-subject="">
 
 Poggle has good nick length
 
 </div>
 
-<div class="post" data-post-id="25902" data-author="Sind" data-date="2008-08-24T18:32:31+00:00">
+<div class="post" data-post-id="25902" data-author="Sind" data-date="2008-08-24T18:32:31+00:00" data-subject="">
 
 wtb all ur quest tokens and eqz
 
 </div>
 
-<div class="post" data-post-id="25903" data-author="Evergreen" data-date="2008-08-24T19:09:45+00:00">
+<div class="post" data-post-id="25903" data-author="Evergreen" data-date="2008-08-24T19:09:45+00:00" data-subject="">
 
 my 2 cents:
 
@@ -244,7 +244,7 @@ this idea of tokens is cool but as I said, I like when theres a little "mystery"
 
 </div>
 
-<div class="post" data-post-id="25905" data-author="*juggleblood*" data-date="2008-08-24T21:57:22+00:00">
+<div class="post" data-post-id="25905" data-author="*juggleblood*" data-date="2008-08-24T21:57:22+00:00" data-subject="">
 
 This was an overtly generous occasion. 40 drachma + quest eq, small forges, restrings, etc.
 
@@ -254,7 +254,7 @@ As for the reward system, I know Ulmo put in a lot of effort to make it as fair 
 
 </div>
 
-<div class="post" data-post-id="25906" data-author="Mosaix" data-date="2008-08-24T23:08:20+00:00">
+<div class="post" data-post-id="25906" data-author="Mosaix" data-date="2008-08-24T23:08:20+00:00" data-subject="">
 
 It was very generous.  I was suprised to see the drachma token used.  Ive definately quested and seen little or nothing in the past.
 
@@ -280,7 +280,7 @@ It really sucks, please consider fixing it, and stop throwing up such an unecess
 
 </div>
 
-<div class="post" data-post-id="25907" data-author="jezer" data-date="2008-08-24T23:40:51+00:00">
+<div class="post" data-post-id="25907" data-author="jezer" data-date="2008-08-24T23:40:51+00:00" data-subject="">
 
 I wish to complain about the quest and the rewards!  :twisted: 
 
@@ -292,7 +292,7 @@ But almost as if the game felt sorry for me last night... I completed 4 forges a
 
 </div>
 
-<div class="post" data-post-id="25908" data-author="Liar" data-date="2008-08-24T23:52:24+00:00">
+<div class="post" data-post-id="25908" data-author="Liar" data-date="2008-08-24T23:52:24+00:00" data-subject="">
 
 I only dont understand why we need new tokens and new shops. We have drachma and drachma shops, right?. For this part they are exactly same, if to change something, maybe the way drachma disturbed through the game or maybe contents of the shops...
 
@@ -300,7 +300,7 @@ As for quest eq I have, 1 quest high and 2 quest medium (one from the last quest
 
 </div>
 
-<div class="post" data-post-id="25915" data-author="Poggle" data-date="2008-08-25T20:03:19+00:00">
+<div class="post" data-post-id="25915" data-author="Poggle" data-date="2008-08-25T20:03:19+00:00" data-subject="">
 
 I only dont understand why we need new tokens and new shops. We have drachma and drachma shops, right?. For this part they are exactly same, if to change something, maybe the way drachma disturbed through the game or maybe contents of the shops...
 
@@ -326,7 +326,7 @@ This way, if the same few people keep getting rewards....well, it's just because
 
 </div>
 
-<div class="post" data-post-id="25916" data-author="Evergreen" data-date="2008-08-25T22:04:19+00:00">
+<div class="post" data-post-id="25916" data-author="Evergreen" data-date="2008-08-25T22:04:19+00:00" data-subject="">
 
 I agree with Mosaix but not fully!
 
@@ -338,7 +338,7 @@ sorry tox
 
 </div>
 
-<div class="post" data-post-id="25917" data-author="Evergreen" data-date="2008-08-25T22:07:44+00:00">
+<div class="post" data-post-id="25917" data-author="Evergreen" data-date="2008-08-25T22:07:44+00:00" data-subject="forgot to add">
 
 im not complaining that i dont have 2-10 quest items - i have what i deserve :)
 
@@ -346,7 +346,7 @@ if you have free -1.4 helm, catch me online... :)
 
 </div>
 
-<div class="post" data-post-id="25918" data-author="*juggleblood*" data-date="2008-08-25T22:44:50+00:00">
+<div class="post" data-post-id="25918" data-author="*juggleblood*" data-date="2008-08-25T22:44:50+00:00" data-subject="">
 
 I would humbly suggest to the imms:
 
@@ -368,7 +368,7 @@ I also agree generally w/ Mosaix. And btw Mosaix, the only quest gear I have is 
 
 </div>
 
-<div class="post" data-post-id="25919" data-author="Mosaix" data-date="2008-08-26T00:54:26+00:00">
+<div class="post" data-post-id="25919" data-author="Mosaix" data-date="2008-08-26T00:54:26+00:00" data-subject="">
 
 Good comments/responses
 
@@ -382,7 +382,7 @@ Thanks for the responses about it.
 
 </div>
 
-<div class="post" data-post-id="25929" data-author="madmax" data-date="2008-08-27T02:52:18+00:00">
+<div class="post" data-post-id="25929" data-author="madmax" data-date="2008-08-27T02:52:18+00:00" data-subject="">
 
 Heya all, I've been way buzy with r/l stuff for quite a wile and haven't had any time to play lately, but I have been voting and keeping up with the crier.
 
@@ -400,7 +400,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="25935" data-author="Liar" data-date="2008-08-27T20:25:05+00:00">
+<div class="post" data-post-id="25935" data-author="Liar" data-date="2008-08-27T20:25:05+00:00" data-subject="">
 
 Only suggestion from your arguments I can make is to remove all the useless junk from drachma shops and add some better items. I agree that many drachma items were made without much thinking. Like thallassan royal set that costs a lot of drachma and worser than eq you can get ingame. And there are many others which cost drachma, but not worth buying at all.
 

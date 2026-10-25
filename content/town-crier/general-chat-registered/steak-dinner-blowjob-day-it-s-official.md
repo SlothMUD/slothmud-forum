@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="21391" data-author="13" data-date="2007-11-23T16:16:26+00:00">
+<div class="post" data-post-id="21391" data-author="13" data-date="2007-11-23T16:16:26+00:00" data-subject="Steak Dinner &amp; Blowjob Day ...it&#x27;s official.">
 
 This is funny shit.  Medios and I had discussed this a few times a while
 
@@ -34,13 +34,13 @@ Steak and BJ Day was founded by Tom Birdsey
 
 </div>
 
-<div class="post" data-post-id="21392" data-author="Alberich" data-date="2007-11-23T16:27:36+00:00">
+<div class="post" data-post-id="21392" data-author="Alberich" data-date="2007-11-23T16:27:36+00:00" data-subject="">
 
 [img:1zwoqnr6]http://www.dorlingkindersley-uk.co.uk/static/html/features/diy/images/stamp.gif[/img:1zwoqnr6]
 
 </div>
 
-<div class="post" data-post-id="21393" data-author="Blastem" data-date="2007-11-23T17:45:23+00:00">
+<div class="post" data-post-id="21393" data-author="Blastem" data-date="2007-11-23T17:45:23+00:00" data-subject="">
 
 [img:1n7zysy0]http://www.janbollaert.com/SM-APPROVE.jpg[/img:1n7zysy0]
 

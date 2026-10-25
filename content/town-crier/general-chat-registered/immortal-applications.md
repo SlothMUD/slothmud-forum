@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="9119" data-author="*Splork*" data-date="2005-10-23T02:33:54+00:00">
+<div class="post" data-post-id="9119" data-author="*Splork*" data-date="2005-10-23T02:33:54+00:00" data-subject="Immortal applications">
 
 I've been getting alot of requests on how to apply to become an Immortal and if we are accepting applications.
 
@@ -26,7 +26,7 @@ On a side note, we are adding MXP to our OLC(Online Creation System) system. The
 
 </div>
 
-<div class="post" data-post-id="9120" data-author="dt" data-date="2005-10-23T10:03:03+00:00">
+<div class="post" data-post-id="9120" data-author="dt" data-date="2005-10-23T10:03:03+00:00" data-subject="Evil, evil Splork">
 
 Your'e just trying your damnest to get me to upgrade. Such enticing addition
 
@@ -38,7 +38,7 @@ I still blame Splork :twisted:
 
 </div>
 
-<div class="post" data-post-id="9130" data-author="13" data-date="2005-10-24T10:27:40+00:00">
+<div class="post" data-post-id="9130" data-author="13" data-date="2005-10-24T10:27:40+00:00" data-subject="">
 
 I would switch except you don't write code the same way, and I can't get anyone to explain the changes to me.
 

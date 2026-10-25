@@ -10,7 +10,7 @@ locked: false
 post_count: 32
 ---
 
-<div class="post" data-post-id="2686" data-author="blackmore" data-date="2004-11-08T16:57:18+00:00">
+<div class="post" data-post-id="2686" data-author="blackmore" data-date="2004-11-08T16:57:18+00:00" data-subject="Bard problems / suggestions">
 
 Jake said over gossip this weekend that bard was the least frequently chosen class, so I thought it would be a good time for me to post some comments and ideas about bards.
 
@@ -32,7 +32,7 @@ I welcome comments and suggestions, but before you say "deal with it", I'm not c
 
 </div>
 
-<div class="post" data-post-id="2688" data-author="12345" data-date="2004-11-08T17:18:07+00:00">
+<div class="post" data-post-id="2688" data-author="12345" data-date="2004-11-08T17:18:07+00:00" data-subject="">
 
 From left field:
 
@@ -46,7 +46,7 @@ Obviously, this idea has no benefit to solo ability.  Sorry Blackmore.
 
 </div>
 
-<div class="post" data-post-id="2699" data-author="Avatar" data-date="2004-11-08T20:13:52+00:00">
+<div class="post" data-post-id="2699" data-author="Avatar" data-date="2004-11-08T20:13:52+00:00" data-subject="ba">
 
 I think the motivation from hearing bard songs should linger a little longer.  I haven't focused much on my singing ability, but it seems a touch boring to sing a single song during the entire run, then regen enough to sing dreams while the group regens.  
 
@@ -56,7 +56,7 @@ It seems like charisma might be a little too important to the effects too.  If y
 
 </div>
 
-<div class="post" data-post-id="2703" data-author="Sapient" data-date="2004-11-08T22:13:43+00:00">
+<div class="post" data-post-id="2703" data-author="Sapient" data-date="2004-11-08T22:13:43+00:00" data-subject="A bard does what again?">
 
 True, a bard is not built for combat, and should rightfully remain so. On the other hand, if a bard is willing to sacrifice ac, +dam eqs for +cha eqs, perhaps his/her songs should be made more potent as charisma increases? 'Fare thee well' and 'sanctuary for the soul' come to mind. I have yet to see them work in-game.
 
@@ -74,13 +74,13 @@ Finally, somemore suggestions for bards:
 
 </div>
 
-<div class="post" data-post-id="2704" data-author="Tetsulunathaya" data-date="2004-11-08T22:20:26+00:00">
+<div class="post" data-post-id="2704" data-author="Tetsulunathaya" data-date="2004-11-08T22:20:26+00:00" data-subject="">
 
 Got several comments, just not the time to make them....will post some stuff in a few hours :P
 
 </div>
 
-<div class="post" data-post-id="2706" data-author="Tetsulunathaya" data-date="2004-11-09T03:28:23+00:00">
+<div class="post" data-post-id="2706" data-author="Tetsulunathaya" data-date="2004-11-09T03:28:23+00:00" data-subject="">
 
 Okay...got some time to type up a post. :)
 
@@ -128,7 +128,7 @@ Dance of the Seven Luck Gods: The Bards ONLY Prime ability (save for bonuses to 
 
 </div>
 
-<div class="post" data-post-id="2707" data-author="Tetsulunathaya" data-date="2004-11-09T03:38:42+00:00">
+<div class="post" data-post-id="2707" data-author="Tetsulunathaya" data-date="2004-11-09T03:38:42+00:00" data-subject="">
 
 As far as changes that could be made, I agree with some of what has been said.
 
@@ -148,7 +148,7 @@ I really think they should gain some better songs as the level in avatar as well
 
 </div>
 
-<div class="post" data-post-id="2708" data-author="blackmore" data-date="2004-11-09T04:42:02+00:00">
+<div class="post" data-post-id="2708" data-author="blackmore" data-date="2004-11-09T04:42:02+00:00" data-subject="">
 
 In response to some of Tetsu's info on the songs:
 
@@ -166,7 +166,7 @@ Eye of the Beholder - this works well for bringing mobs away from the room that 
 
 </div>
 
-<div class="post" data-post-id="2709" data-author="Tetsulunathaya" data-date="2004-11-09T05:27:24+00:00">
+<div class="post" data-post-id="2709" data-author="Tetsulunathaya" data-date="2004-11-09T05:27:24+00:00" data-subject="">
 
 So some changes to the bards current abilities, based on Blackmores input and my own findings, without giving anything more to the bard:
 
@@ -178,7 +178,7 @@ That would give alot more 'effectiveness' to a bard, without really increasing t
 
 </div>
 
-<div class="post" data-post-id="2710" data-author="Altair" data-date="2004-11-09T05:58:07+00:00">
+<div class="post" data-post-id="2710" data-author="Altair" data-date="2004-11-09T05:58:07+00:00" data-subject="">
 
 The way bards are at this point, I see two possible reasons to choose this class:
 
@@ -190,7 +190,7 @@ I like the proposal of making bards get something extra if leading, fits the cha
 
 </div>
 
-<div class="post" data-post-id="2723" data-author="12345" data-date="2004-11-09T16:54:13+00:00">
+<div class="post" data-post-id="2723" data-author="12345" data-date="2004-11-09T16:54:13+00:00" data-subject="">
 
 Reign of Confusion: Since this is supposed to stop the monster form attacking, it might make sense to have it disengage from everything, not just the tank. That way its actually a useful and effective song, instead of just and expensive disengage for the mob.[/quote:275ema51]
 
@@ -198,19 +198,19 @@ To the best of my knowledge, a mob can only engage one opponent at a time.  Also
 
 </div>
 
-<div class="post" data-post-id="2724" data-author="Sapient" data-date="2004-11-09T17:11:29+00:00">
+<div class="post" data-post-id="2724" data-author="Sapient" data-date="2004-11-09T17:11:29+00:00" data-subject="">
 
 Could be an interesting combo, Reign of Confusion + Sacred Reprieve. One possible instance when this could be useful is when the tanks died, and no one has the mass-recall stick. I have tried it on various mobs, and seen limited success. Perhaps other bards with higher charisma points would like to try this? (*stare* Taliesin and Tetsu)
 
 </div>
 
-<div class="post" data-post-id="2725" data-author="blackmore" data-date="2004-11-09T17:22:55+00:00">
+<div class="post" data-post-id="2725" data-author="blackmore" data-date="2004-11-09T17:22:55+00:00" data-subject="">
 
 Reign and Reprieve work well together solo, but not in  a group.  The problem with Reign in a group is that you sing it, the mob gets confused and stops attacking ("disengages") the tank.  You've still got an entire group that's attacking the mob.  The first time a group member hits or blasts the mob, that is now who the mob is engaged with - so even though the mob stops attacking, they will quickly start again, and it will be against a random group member.
 
 </div>
 
-<div class="post" data-post-id="2726" data-author="12345" data-date="2004-11-09T18:07:14+00:00">
+<div class="post" data-post-id="2726" data-author="12345" data-date="2004-11-09T18:07:14+00:00" data-subject="">
 
 I think Bards should have a song called 'Enter Sandman' that summons every mob in the area into the room where they start moshing around for a while while the Bard crowd surfs.  After several ticks, the crowd will get out of hand and the 'mud police' will conduct a raid.  As they are fleeing, several of the mobs will be trampled and be left lying mortally wounded or dead on the floor.
 
@@ -218,7 +218,7 @@ Comments?
 
 </div>
 
-<div class="post" data-post-id="2727" data-author="Tetsulunathaya" data-date="2004-11-09T18:20:37+00:00">
+<div class="post" data-post-id="2727" data-author="Tetsulunathaya" data-date="2004-11-09T18:20:37+00:00" data-subject="">
 
 So currently Reign is only good for Soloing. I've tested it some just messing around, and Solo, it works much like disengage (only costing mana to use, and the mob gets a save). But I've used to to Backstab, Reign to have mob stop attacking me, then get curse off (much like a stab/disengage/damn of a avatar), or in rooms with multiple aggros, to curse or stab multiple mobs (stab one, they all attack, reign, stab the second...etc.) I also used it successfully last night to get 4 Cries off without getting hit. Cry, reign before it attacks, cry again, reign, etc. Expensive, but might be useful.
 
@@ -228,7 +228,7 @@ As far as Sacred Repreive, the only other question I might have is: Does it stop
 
 </div>
 
-<div class="post" data-post-id="2730" data-author="kjartan" data-date="2004-11-09T21:06:30+00:00">
+<div class="post" data-post-id="2730" data-author="kjartan" data-date="2004-11-09T21:06:30+00:00" data-subject="bards">
 
 Just letting you know we do actually read this stuff.  We are in the middle of various other mods right now, so we aren't going to do anything with bards in the immediate future, but we are certainly open to improving some of the more-or-less useless songs soonish.
 
@@ -236,7 +236,7 @@ I personally don't much like the idea of giving bards some whopping great combat
 
 </div>
 
-<div class="post" data-post-id="2733" data-author="guest" data-date="2004-11-09T22:04:39+00:00">
+<div class="post" data-post-id="2733" data-author="guest" data-date="2004-11-09T22:04:39+00:00" data-subject="">
 
 Okay...got some time to type up a post. :)
 
@@ -278,7 +278,7 @@ I have found that Prime bards become more usefull in groups if they are have Cle
 
 </div>
 
-<div class="post" data-post-id="2734" data-author="Gnu" data-date="2004-11-09T22:08:26+00:00">
+<div class="post" data-post-id="2734" data-author="Gnu" data-date="2004-11-09T22:08:26+00:00" data-subject="">
 
 Keep forgetting logging in :)
 
@@ -286,7 +286,7 @@ That was me
 
 </div>
 
-<div class="post" data-post-id="2737" data-author="Avatar" data-date="2004-11-09T23:23:23+00:00">
+<div class="post" data-post-id="2737" data-author="Avatar" data-date="2004-11-09T23:23:23+00:00" data-subject="ba">
 
 I'd like to see a detect spell that gives people an aura if they're currently affected by songs.
 
@@ -300,7 +300,7 @@ Leaf flying thru the air. is sleeping here. (Gold Aura)
 
 </div>
 
-<div class="post" data-post-id="2873" data-author="guest" data-date="2004-11-15T23:56:19+00:00">
+<div class="post" data-post-id="2873" data-author="guest" data-date="2004-11-15T23:56:19+00:00" data-subject="">
 
 Had another idea for a 'group based' ability you might give to bards. First, I have NO CLUE how hard it would be to code, but I know you can 'bestow spells' through potions,  so thought it might be doable for skills. Anyway
 
@@ -320,7 +320,7 @@ Just a thought, any comments, or things im missing?
 
 </div>
 
-<div class="post" data-post-id="2874" data-author="Tetsulunathaya" data-date="2004-11-16T00:01:47+00:00">
+<div class="post" data-post-id="2874" data-author="Tetsulunathaya" data-date="2004-11-16T00:01:47+00:00" data-subject="">
 
 OOps, wasnt logged in. 
 
@@ -330,7 +330,7 @@ Guest = Tetsu :)
 
 </div>
 
-<div class="post" data-post-id="2875" data-author="madmax" data-date="2004-11-16T00:28:41+00:00">
+<div class="post" data-post-id="2875" data-author="madmax" data-date="2004-11-16T00:28:41+00:00" data-subject="">
 
 As another thought for Bards in groups:
 
@@ -356,7 +356,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="2883" data-author="Gnu" data-date="2004-11-16T08:12:13+00:00">
+<div class="post" data-post-id="2883" data-author="Gnu" data-date="2004-11-16T08:12:13+00:00" data-subject="">
 
 To Tetsulunathaya: sure I have some comments
 
@@ -370,7 +370,7 @@ To Tetsulunathaya: sure I have some comments
 
 </div>
 
-<div class="post" data-post-id="2885" data-author="blackmore" data-date="2004-11-16T12:20:15+00:00">
+<div class="post" data-post-id="2885" data-author="blackmore" data-date="2004-11-16T12:20:15+00:00" data-subject="">
 
 To Tetsulunathaya: sure I have some comments
 
@@ -386,7 +386,7 @@ Of course, +blast would be nice.  However, I've suggested a number of times that
 
 </div>
 
-<div class="post" data-post-id="2889" data-author="guest" data-date="2004-11-16T14:51:20+00:00">
+<div class="post" data-post-id="2889" data-author="guest" data-date="2004-11-16T14:51:20+00:00" data-subject="">
 
 I can get a lot more than 8-10.  I'm pretty sure I get over 20, though it's hard to know for sure, I don't know what criteria is used to determine where the bard falls in terms of who is affected.  I'm assuming the bard is the last one checked.
 
@@ -398,7 +398,7 @@ May be , when you re-sing your song new ppl get affected... while those who are 
 
 </div>
 
-<div class="post" data-post-id="2890" data-author="12345" data-date="2004-11-16T15:03:46+00:00">
+<div class="post" data-post-id="2890" data-author="12345" data-date="2004-11-16T15:03:46+00:00" data-subject="">
 
 Of course, +blast would be nice.  However, I've suggested a number of times that bards get a song that is so compelling, ethereal mobs are drawn to the corporal world to listen - basically an inverse of wraithform.  I think a song like that would be a whole lot more likely to be approved.[/quote:31ofnm2s]
 
@@ -408,31 +408,31 @@ A -ethereal spell would make it vulnerable to literally everyone in the group.  
 
 </div>
 
-<div class="post" data-post-id="2896" data-author="Gnu" data-date="2004-11-16T17:24:23+00:00">
+<div class="post" data-post-id="2896" data-author="Gnu" data-date="2004-11-16T17:24:23+00:00" data-subject="">
 
 Well... may be +spell dam song is a peace of overpower... the other idea is to make a song that eats mob's saves... not sure how does the flames of midnight work, but if it removes mob's saves vs. 'cold' spells (not sure if such saves exist), then it is a prototype...
 
 </div>
 
-<div class="post" data-post-id="2897" data-author="12345" data-date="2004-11-16T19:41:34+00:00">
+<div class="post" data-post-id="2897" data-author="12345" data-date="2004-11-16T19:41:34+00:00" data-subject="">
 
 Wasn't trying to imply that a +spelldam song is overpower, just that a song that removed ether was actually more powerful.  A song that made mobs save less could be fun though.
 
 </div>
 
-<div class="post" data-post-id="2902" data-author="blackmore" data-date="2004-11-16T21:02:27+00:00">
+<div class="post" data-post-id="2902" data-author="blackmore" data-date="2004-11-16T21:02:27+00:00" data-subject="">
 
 I didn't suggest a song that removed ether, I suggested an inverse of wraithform - in other words, maybe 1 in 5 or 1 in 10 attacks get through.
 
 </div>
 
-<div class="post" data-post-id="2903" data-author="12345" data-date="2004-11-16T21:42:33+00:00">
+<div class="post" data-post-id="2903" data-author="12345" data-date="2004-11-16T21:42:33+00:00" data-subject="">
 
 Ah, big difference.  Sorry.
 
 </div>
 
-<div class="post" data-post-id="2905" data-author="Tetsulunathaya" data-date="2004-11-17T04:26:48+00:00">
+<div class="post" data-post-id="2905" data-author="Tetsulunathaya" data-date="2004-11-17T04:26:48+00:00" data-subject="">
 
 I think the Heal song would be cool, better than the blast dam. one. Just doesn't seem as powerful for some reason.
 
@@ -442,7 +442,7 @@ Any thoughts on the 'skills song', or whether it is even code-able?
 
 </div>
 
-<div class="post" data-post-id="2907" data-author="Mullah" data-date="2004-11-17T11:28:32+00:00">
+<div class="post" data-post-id="2907" data-author="Mullah" data-date="2004-11-17T11:28:32+00:00" data-subject="">
 
 I didn't realize Bards were 'broken'.
 

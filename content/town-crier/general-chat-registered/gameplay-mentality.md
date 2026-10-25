@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="22974" data-author="jezer" data-date="2008-02-26T01:08:22+00:00">
+<div class="post" data-post-id="22974" data-author="jezer" data-date="2008-02-26T01:08:22+00:00" data-subject="Gameplay Mentality">
 
 One post recently listed a bunch of areaâ€™s that are never run because they are bad coins, bad xp etcâ€¦ So I got to thinking, what areas are actually well madeâ€¦ and why are they well made?
 
@@ -56,7 +56,7 @@ I guess I could have said all this in a few words, and maybe Yasik is better off
 
 </div>
 
-<div class="post" data-post-id="22980" data-author="Roadrunr" data-date="2008-02-26T12:14:24+00:00">
+<div class="post" data-post-id="22980" data-author="Roadrunr" data-date="2008-02-26T12:14:24+00:00" data-subject="">
 
 I'd have to say, your example, Autumnal, was far easier when I ran my first 2-3 vk'ers through but by the time I got to thump the things that were easy had been changed and made much more difficult.
 
@@ -64,7 +64,7 @@ as for the +1ism, yeah, that can be a way of life.  I think I'm in a very slow m
 
 </div>
 
-<div class="post" data-post-id="22981" data-author="13" data-date="2008-02-26T13:37:47+00:00">
+<div class="post" data-post-id="22981" data-author="13" data-date="2008-02-26T13:37:47+00:00" data-subject="">
 
 lol
 

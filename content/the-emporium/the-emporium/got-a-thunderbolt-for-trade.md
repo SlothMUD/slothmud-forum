@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="23217" data-author="Leaf" data-date="2008-03-13T15:16:58+00:00">
+<div class="post" data-post-id="23217" data-author="Leaf" data-date="2008-03-13T15:16:58+00:00" data-subject="Got a Thunderbolt for Trade">
 
 Hello Ppl,
 
@@ -24,7 +24,7 @@ Rojak.  Do not confuse with Rodek...
 
 </div>
 
-<div class="post" data-post-id="23228" data-author="*juggleblood*" data-date="2008-03-14T14:42:35+00:00">
+<div class="post" data-post-id="23228" data-author="*juggleblood*" data-date="2008-03-14T14:42:35+00:00" data-subject="Re: Got a Thunderbolt for Trade">
 
 Do not confuse with Rodek...[/quote:b93embnl]
 
@@ -32,7 +32,7 @@ poor poor Rodek...
 
 </div>
 
-<div class="post" data-post-id="23229" data-author="Leaf" data-date="2008-03-14T15:05:48+00:00">
+<div class="post" data-post-id="23229" data-author="Leaf" data-date="2008-03-14T15:05:48+00:00" data-subject="">
 
 It seems when a gown is used with vial of Ashen Power or Jar of Clouded
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="30515" data-author="jezer" data-date="2009-12-20T11:10:16+00:00">
+<div class="post" data-post-id="30515" data-author="jezer" data-date="2009-12-20T11:10:16+00:00" data-subject="Eq Restrictions - Improvements">
 
 I was just writing about hive when I realised something simple. With the 8 class system, immortals should have far better options to balance the progress of player power with eq. Here is how it is at the moment. And yes I know all you nit picky people... other classes allow you to wear other items that improve power, I'm making a point here about power and eq restrictions, this isn't about specifics or monks, although they are my example.
 
@@ -86,7 +86,7 @@ Now I've used monk as an example, but this goes for all classes, there is so muc
 
 </div>
 
-<div class="post" data-post-id="30517" data-author="Marvel" data-date="2009-12-20T16:17:29+00:00">
+<div class="post" data-post-id="30517" data-author="Marvel" data-date="2009-12-20T16:17:29+00:00" data-subject="">
 
 A bunch of those items have already been changed from what you see on the eqlist though.  Don't forget that +dam works just as well as +handdam.  Here's a sample of what I've got:
 
@@ -176,7 +176,7 @@ And I think the avatar monk will have more damage than a lower level monk, eq-wi
 
 </div>
 
-<div class="post" data-post-id="30520" data-author="jezer" data-date="2009-12-20T18:43:24+00:00">
+<div class="post" data-post-id="30520" data-author="jezer" data-date="2009-12-20T18:43:24+00:00" data-subject="">
 
 Marvel, you seem to have got caught up on specifics. My point is eq improvements don't really extend greatly past 1x40. Name me hand dam items that you can only wear post 2x40? Name me 5x40, 6x40, 7x40, 8x40 eq you've popped? Name me Avatar Monk hand dam items?
 
@@ -186,7 +186,7 @@ The Track that we are on at the moment says most eq can be worn at 1x40 and then
 
 </div>
 
-<div class="post" data-post-id="30521" data-author="*juggleblood*" data-date="2009-12-20T19:02:40+00:00">
+<div class="post" data-post-id="30521" data-author="*juggleblood*" data-date="2009-12-20T19:02:40+00:00" data-subject="">
 
 I fear we may be doomed for 10 eq modes at avatar to do everything.[/quote:37dr24m5]
 
@@ -194,7 +194,7 @@ It's not the intention they everyone can do everything. I think prime class is m
 
 </div>
 
-<div class="post" data-post-id="30522" data-author="jezer" data-date="2009-12-20T19:39:11+00:00">
+<div class="post" data-post-id="30522" data-author="jezer" data-date="2009-12-20T19:39:11+00:00" data-subject="">
 
 I fear we may be doomed for 10 eq modes at avatar to do everything.[/quote:uvc98303]
 
@@ -204,7 +204,7 @@ Apprentice on S3 had UD Control, Heal, Raise and Spell dam modes... and was a dr
 
 </div>
 
-<div class="post" data-post-id="30523" data-author="*Splork*" data-date="2009-12-20T19:59:17+00:00">
+<div class="post" data-post-id="30523" data-author="*Splork*" data-date="2009-12-20T19:59:17+00:00" data-subject="">
 
 I added eq flags such as 5x40,6x40 etc between restarts, however we have not added very many items and this is naturally going to take time. 
 
@@ -214,7 +214,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30524" data-author="jezer" data-date="2009-12-20T20:07:41+00:00">
+<div class="post" data-post-id="30524" data-author="jezer" data-date="2009-12-20T20:07:41+00:00" data-subject="">
 
 Cool, understandable Splork.
 
@@ -224,7 +224,7 @@ If there was more eq, and some of it expired, it might benefit newbies in had me
 
 </div>
 
-<div class="post" data-post-id="30528" data-author="*juggleblood*" data-date="2009-12-21T18:40:45+00:00">
+<div class="post" data-post-id="30528" data-author="*juggleblood*" data-date="2009-12-21T18:40:45+00:00" data-subject="">
 
 no, eq level restrict is below a certain level or above, not between.
 

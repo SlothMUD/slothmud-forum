@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="12416" data-author="jezer" data-date="2006-05-04T09:05:34+00:00">
+<div class="post" data-post-id="12416" data-author="jezer" data-date="2006-05-04T09:05:34+00:00" data-subject="Sloth The Group MUD">
 
 I made a point the other day about how solo xp sucked. Of course people said to group more. I tried to say there aren't often much options for group when I actually play because of my timezone... etc
 
@@ -48,7 +48,7 @@ Solo xp sucks a bit to much can it be boosted a bit?
 
 </div>
 
-<div class="post" data-post-id="12417" data-author="jezer" data-date="2006-05-04T09:51:43+00:00">
+<div class="post" data-post-id="12417" data-author="jezer" data-date="2006-05-04T09:51:43+00:00" data-subject="">
 
 Just ran off to get a pizza, hmm, it was delicious... looked at my post on returning...  :shock: 
 
@@ -70,7 +70,7 @@ I think a fair amount for new repopped stalker should be 1000k. Since the "xp st
 
 </div>
 
-<div class="post" data-post-id="12418" data-author="*Splork*" data-date="2006-05-04T11:09:10+00:00">
+<div class="post" data-post-id="12418" data-author="*Splork*" data-date="2006-05-04T11:09:10+00:00" data-subject="">
 
 Sorry, we are not raising solo exp. Especially when the majority of players in the top 20 get the largest chunk of their exp through soloing. And i, for one, firmly believe solo exp is extremely easy, ofcourse I've played for over a decade....
 
@@ -82,7 +82,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="12419" data-author="12345" data-date="2006-05-04T11:59:12+00:00">
+<div class="post" data-post-id="12419" data-author="12345" data-date="2006-05-04T11:59:12+00:00" data-subject="">
 
 The stalkers are a newbie area.  I usually stop running it shortly after I leave Valk.  All you really need is -8 and a peri.  Lead with curse and web and take a nap.  The two noble penguins in the nearby tower make perfect peri mobs.  I normally push them down for safety... don't recall why though.
 
@@ -98,7 +98,7 @@ I often drag Valkers there for xp.  If you have a -7 Valk tank with peri, which 
 
 </div>
 
-<div class="post" data-post-id="12420" data-author="13" data-date="2006-05-04T12:46:17+00:00">
+<div class="post" data-post-id="12420" data-author="13" data-date="2006-05-04T12:46:17+00:00" data-subject="">
 
 If you think solo xp sucks then you need to learn how to play better.  Learn
 
@@ -112,7 +112,7 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="12421" data-author="12345" data-date="2006-05-04T13:26:18+00:00">
+<div class="post" data-post-id="12421" data-author="12345" data-date="2006-05-04T13:26:18+00:00" data-subject="Re: Sloth The Group MUD">
 
 [40c 40m 40t 30w]	Xuan 	
 
@@ -146,7 +146,7 @@ It also helps if you have the number of a good 911 when you get in trouble.  I h
 
 </div>
 
-<div class="post" data-post-id="12422" data-author="jezer" data-date="2006-05-04T13:36:21+00:00">
+<div class="post" data-post-id="12422" data-author="jezer" data-date="2006-05-04T13:36:21+00:00" data-subject="">
 
 Thx for the advice, unfortunately some days when there is only a few people on some people just don't want to group.
 
@@ -164,7 +164,7 @@ Sometimes you just swear things are out to get you.
 
 </div>
 
-<div class="post" data-post-id="12423" data-author="12345" data-date="2006-05-04T13:54:22+00:00">
+<div class="post" data-post-id="12423" data-author="12345" data-date="2006-05-04T13:54:22+00:00" data-subject="">
 
 Assuming you're playing:
 
@@ -180,19 +180,19 @@ If you work on getting an AC mode... which isn't that hard, Monks make fairly de
 
 </div>
 
-<div class="post" data-post-id="12430" data-author="13" data-date="2006-05-05T12:28:13+00:00">
+<div class="post" data-post-id="12430" data-author="13" data-date="2006-05-05T12:28:13+00:00" data-subject="">
 
 Mostly if Mystery wasn't dumb as a box of rocks it would help.
 
 </div>
 
-<div class="post" data-post-id="12432" data-author="12345" data-date="2006-05-05T12:53:51+00:00">
+<div class="post" data-post-id="12432" data-author="12345" data-date="2006-05-05T12:53:51+00:00" data-subject="">
 
 Well, the only real way to get better is to practice :)
 
 </div>
 
-<div class="post" data-post-id="12433" data-author="Rajil" data-date="2006-05-05T20:24:38+00:00">
+<div class="post" data-post-id="12433" data-author="Rajil" data-date="2006-05-05T20:24:38+00:00" data-subject="">
 
 You're complaining about your solo xp yet you're still cycling stalkers...
 
@@ -204,7 +204,7 @@ SKeep, Mansion prolly a few more areas would be good for ya solo.
 
 </div>
 
-<div class="post" data-post-id="12434" data-author="13" data-date="2006-05-05T21:14:11+00:00">
+<div class="post" data-post-id="12434" data-author="13" data-date="2006-05-05T21:14:11+00:00" data-subject="">
 
 [quote:29fv75pm]You're complaining about your solo xp yet you're still cycling stalkers... [/quote:29fv75pm]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="33266" data-author="Truck" data-date="2012-04-11T19:41:11+00:00">
+<div class="post" data-post-id="33266" data-author="Truck" data-date="2012-04-11T19:41:11+00:00" data-subject="Mud not accessible">
 
 Yesterday (4-10) and today approx 3:15 EST(4-11) the mud dropped link to more than one player. Not sure if the entire player base is affected or not, but I wanted to make you aware.
 
@@ -22,19 +22,19 @@ Truck
 
 </div>
 
-<div class="post" data-post-id="33267" data-author="Tuck" data-date="2012-04-12T10:32:49+00:00">
+<div class="post" data-post-id="33267" data-author="Tuck" data-date="2012-04-12T10:32:49+00:00" data-subject="Re: Mud not accessible">
 
 We are alright now.
 
 </div>
 
-<div class="post" data-post-id="33269" data-author="*Idjit*" data-date="2012-04-12T22:07:50+00:00">
+<div class="post" data-post-id="33269" data-author="*Idjit*" data-date="2012-04-12T22:07:50+00:00" data-subject="Re: Mud not accessible">
 
 My connection is timing out now, so it seems to happen every day (around the middle of the day?). Just started to lag out like 10 minutes ago.
 
 </div>
 
-<div class="post" data-post-id="33278" data-author="Truck" data-date="2012-04-19T16:44:42+00:00">
+<div class="post" data-post-id="33278" data-author="Truck" data-date="2012-04-19T16:44:42+00:00" data-subject="Re: Mud not accessible">
 
 happened again at 12:25 EST 4/19/12
 

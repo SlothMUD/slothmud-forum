@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="15534" data-author="brand" data-date="2006-12-08T19:25:12+00:00">
+<div class="post" data-post-id="15534" data-author="brand" data-date="2006-12-08T19:25:12+00:00" data-subject="Highest Shock 2K6!">
 
 OMG it's the third annual highest shock in 2K event.
 
@@ -48,19 +48,19 @@ that's +12 shock in 2K6
 
 </div>
 
-<div class="post" data-post-id="15539" data-author="Krok" data-date="2006-12-08T22:29:13+00:00">
+<div class="post" data-post-id="15539" data-author="Krok" data-date="2006-12-08T22:29:13+00:00" data-subject="">
 
 +13, not full set, and i don't wear it usually anyways.
 
 </div>
 
-<div class="post" data-post-id="15541" data-author="osric" data-date="2006-12-09T00:39:22+00:00">
+<div class="post" data-post-id="15541" data-author="osric" data-date="2006-12-09T00:39:22+00:00" data-subject="">
 
 +1 Lightning Vest (can I still get an honorable mention?)
 
 </div>
 
-<div class="post" data-post-id="15543" data-author="alias" data-date="2006-12-09T01:06:42+00:00">
+<div class="post" data-post-id="15543" data-author="alias" data-date="2006-12-09T01:06:42+00:00" data-subject="">
 
 I think Illic shocked me very early this year w/ a +19 but I havent seen him in a long time so I cant confirm it.
 
@@ -68,7 +68,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="15544" data-author="Jag" data-date="2006-12-09T01:16:16+00:00">
+<div class="post" data-post-id="15544" data-author="Jag" data-date="2006-12-09T01:16:16+00:00" data-subject="Not the highest this year..">
 
 Still working on it.   +9 
 
@@ -92,7 +92,7 @@ You are using:
 
 </div>
 
-<div class="post" data-post-id="15546" data-author="Autolycos" data-date="2006-12-09T03:07:32+00:00">
+<div class="post" data-post-id="15546" data-author="Autolycos" data-date="2006-12-09T03:07:32+00:00" data-subject="">
 
 I think Illic shocked me very early this year w/ a +19 but I havent seen him in a long time so I cant confirm it.
 
@@ -104,13 +104,13 @@ Martyn perma retired
 
 </div>
 
-<div class="post" data-post-id="15549" data-author="Weasel" data-date="2006-12-09T03:25:44+00:00">
+<div class="post" data-post-id="15549" data-author="Weasel" data-date="2006-12-09T03:25:44+00:00" data-subject="">
 
 Does it make a difference though once your 'score stats' says you've reached the peak of your ability (or whatever the wording is)?
 
 </div>
 
-<div class="post" data-post-id="15553" data-author="brand" data-date="2006-12-09T07:27:09+00:00">
+<div class="post" data-post-id="15553" data-author="brand" data-date="2006-12-09T07:27:09+00:00" data-subject="">
 
 +13 high so far...
 
@@ -122,13 +122,13 @@ ha!
 
 </div>
 
-<div class="post" data-post-id="15554" data-author="Guinex" data-date="2006-12-09T09:35:01+00:00">
+<div class="post" data-post-id="15554" data-author="Guinex" data-date="2006-12-09T09:35:01+00:00" data-subject="">
 
 7 wis and -6 shock, can't animate if there still alive.
 
 </div>
 
-<div class="post" data-post-id="15559" data-author="Weasel" data-date="2006-12-09T17:03:15+00:00">
+<div class="post" data-post-id="15559" data-author="Weasel" data-date="2006-12-09T17:03:15+00:00" data-subject="">
 
 ok seriously, on score stats, is the message:
 
@@ -144,19 +144,19 @@ cheers.
 
 </div>
 
-<div class="post" data-post-id="15561" data-author="12345" data-date="2006-12-09T17:56:24+00:00">
+<div class="post" data-post-id="15561" data-author="12345" data-date="2006-12-09T17:56:24+00:00" data-subject="">
 
 If you're maxxed, you're maxxed.  However, you should also consider that there are other factors to raising.  If you don't have 18 wisdom, then you still have room for improvement.  Everything else is on the person being raised though.
 
 </div>
 
-<div class="post" data-post-id="15562" data-author="Weasel" data-date="2006-12-09T18:00:44+00:00">
+<div class="post" data-post-id="15562" data-author="Weasel" data-date="2006-12-09T18:00:44+00:00" data-subject="">
 
 Thanks the the input 12345. Nods, I'm basically taking 18 wis as a given :)  , although yeah, the con on the person being raised has an effect, not that I can control that variable.. hmm.. I wonder if every additional piece of shock eq above that max message would kind of counter each point of con below 18 on the dead person (or some such relationship between the two).
 
 </div>
 
-<div class="post" data-post-id="15571" data-author="Atwell" data-date="2006-12-10T04:15:35+00:00">
+<div class="post" data-post-id="15571" data-author="Atwell" data-date="2006-12-10T04:15:35+00:00" data-subject="">
 
 ok seriously, on score stats, is the message:
 

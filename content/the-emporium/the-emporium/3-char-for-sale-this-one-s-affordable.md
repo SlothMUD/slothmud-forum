@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="2444" data-author="Mullah" data-date="2004-10-25T19:49:30+00:00">
+<div class="post" data-post-id="2444" data-author="Mullah" data-date="2004-10-25T19:49:30+00:00" data-subject="3.char for sale - this one&#x27;s affordable">
 
 50$ american OR
 
@@ -24,7 +24,7 @@ and of course like leizu said..kicks ass
 
 </div>
 
-<div class="post" data-post-id="2447" data-author="Mosaix" data-date="2004-10-26T00:22:31+00:00">
+<div class="post" data-post-id="2447" data-author="Mosaix" data-date="2004-10-26T00:22:31+00:00" data-subject="">
 
 catch me online
 

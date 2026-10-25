@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="28797" data-author="Medios" data-date="2009-04-11T18:33:34+00:00">
+<div class="post" data-post-id="28797" data-author="Medios" data-date="2009-04-11T18:33:34+00:00" data-subject="Ideas (while were at it)">
 
 I was thinking about personal items and how pretty much any time your running big eq groups someone will join and eventually loot another players pop.  These kinds of problems end up falling on the leader and just causing more drama for players.  
 
@@ -30,7 +30,7 @@ Good job.
 
 </div>
 
-<div class="post" data-post-id="28799" data-author="Toxis" data-date="2009-04-11T18:45:11+00:00">
+<div class="post" data-post-id="28799" data-author="Toxis" data-date="2009-04-11T18:45:11+00:00" data-subject="">
 
 I really like that idea on personal eq.  People should not be allowed to loot if the leader doesn't want them to.
 
@@ -48,7 +48,7 @@ And how about durability on armor, repair your items... will take money out of t
 
 </div>
 
-<div class="post" data-post-id="28800" data-author="Sind" data-date="2009-04-11T18:49:21+00:00">
+<div class="post" data-post-id="28800" data-author="Sind" data-date="2009-04-11T18:49:21+00:00" data-subject="">
 
 Right Toxis,
 
@@ -60,7 +60,7 @@ cmon brad *sarcasm off*
 
 </div>
 
-<div class="post" data-post-id="28803" data-author="Sind" data-date="2009-04-11T18:59:33+00:00">
+<div class="post" data-post-id="28803" data-author="Sind" data-date="2009-04-11T18:59:33+00:00" data-subject="">
 
 and also
 
@@ -70,7 +70,7 @@ should we all make dr second chars?
 
 </div>
 
-<div class="post" data-post-id="28806" data-author="firebrand" data-date="2009-04-11T19:25:45+00:00">
+<div class="post" data-post-id="28806" data-author="firebrand" data-date="2009-04-11T19:25:45+00:00" data-subject="">
 
 can we now get skills like weapon of choice, weapon type specialization, weapon group specialization, weapon proficiencies, weapon mastery.....and of course for other playing types, magic shools/strata proficiencies and mastery?
 
@@ -78,19 +78,19 @@ can we now get skills like weapon of choice, weapon type specialization, weapon 
 
 </div>
 
-<div class="post" data-post-id="28808" data-author="Yasik2" data-date="2009-04-11T19:46:18+00:00">
+<div class="post" data-post-id="28808" data-author="Yasik2" data-date="2009-04-11T19:46:18+00:00" data-subject="">
 
 You gettin kitchen mastery and dishes mastery
 
 </div>
 
-<div class="post" data-post-id="28809" data-author="Ki" data-date="2009-04-11T19:51:08+00:00">
+<div class="post" data-post-id="28809" data-author="Ki" data-date="2009-04-11T19:51:08+00:00" data-subject="">
 
 If you want to personalize eq, why don't we have an engraving service either with a blacksmith or jeweler. Pay a fee to have your eq engraved. I had an old mud that did this. Typically when a group got whacked, eventually all the eq ended up on the ground after the corpses rotted. A simple get all.<name> enabled you to grab all your eq and not someone elses. I suppose we can use engrave for what purposes we need it for.
 
 </div>
 
-<div class="post" data-post-id="28810" data-author="Cizin" data-date="2009-04-11T19:55:25+00:00">
+<div class="post" data-post-id="28810" data-author="Cizin" data-date="2009-04-11T19:55:25+00:00" data-subject="Ideas - Personal eq">
 
 Why not buy a drachma token that will enable you to personalize piece of your eq ? 
 
@@ -100,7 +100,7 @@ NPC can not look personalized eq.
 
 </div>
 
-<div class="post" data-post-id="28812" data-author="Clink" data-date="2009-04-11T20:10:10+00:00">
+<div class="post" data-post-id="28812" data-author="Clink" data-date="2009-04-11T20:10:10+00:00" data-subject="">
 
 Regarding personal Items:  You'll be a lot less likely to have someone who isn't paying attention in your group loot your kill.  It'll be more likely that they are dead if they aren't paying attention.
 
@@ -108,7 +108,7 @@ Races: We aren't doing races.  We discussed it and we assume that all players ar
 
 </div>
 
-<div class="post" data-post-id="28815" data-author="Weasel" data-date="2009-04-11T20:29:23+00:00">
+<div class="post" data-post-id="28815" data-author="Weasel" data-date="2009-04-11T20:29:23+00:00" data-subject="">
 
 We discussed it and we assume that all players are human.[/quote:3qrruyyi]
 
@@ -116,7 +116,7 @@ That's one hell of an assumption.  :wink:
 
 </div>
 
-<div class="post" data-post-id="28816" data-author="Yasik2" data-date="2009-04-11T20:33:40+00:00">
+<div class="post" data-post-id="28816" data-author="Yasik2" data-date="2009-04-11T20:33:40+00:00" data-subject="">
 
 We discussed it and we assume that all players are human.[/quote:2l97e4a7]
 
@@ -126,7 +126,7 @@ We discussed it and we assume that all players are human.[/quote:2l97e4a7]
 
 </div>
 
-<div class="post" data-post-id="28818" data-author="Toxis" data-date="2009-04-11T20:40:13+00:00">
+<div class="post" data-post-id="28818" data-author="Toxis" data-date="2009-04-11T20:40:13+00:00" data-subject="">
 
 Oh yeah, increase the space for character descriptions. :)~
 
@@ -134,13 +134,13 @@ Oh yeah, increase the space for character descriptions. :)~
 
 </div>
 
-<div class="post" data-post-id="28819" data-author="Sind" data-date="2009-04-11T20:40:31+00:00">
+<div class="post" data-post-id="28819" data-author="Sind" data-date="2009-04-11T20:40:31+00:00" data-subject="">
 
 u're wrong yasik, there were plenty of trolls, and 1 leper gnome (poit)
 
 </div>
 
-<div class="post" data-post-id="28820" data-author="Apb" data-date="2009-04-11T20:40:48+00:00">
+<div class="post" data-post-id="28820" data-author="Apb" data-date="2009-04-11T20:40:48+00:00" data-subject="">
 
 I have am idea. When game gets started we allow one to get the holy sword and all group and follow that person to test the xp structure of 13+++. We maybe suprised to see a quick level scheme here. I nominate Weasel to get the sword and I will heal him.
 
@@ -150,7 +150,7 @@ Apb
 
 </div>
 
-<div class="post" data-post-id="28822" data-author="Sind" data-date="2009-04-11T20:46:19+00:00">
+<div class="post" data-post-id="28822" data-author="Sind" data-date="2009-04-11T20:46:19+00:00" data-subject="">
 
 what about i get a sword and exp, and u go kill rats forever with ur 1 attack!
 

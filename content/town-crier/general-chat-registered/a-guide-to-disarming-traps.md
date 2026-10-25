@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32952" data-author="Fionavar" data-date="2011-10-21T01:29:45+00:00">
+<div class="post" data-post-id="32952" data-author="Fionavar" data-date="2011-10-21T01:29:45+00:00" data-subject="a guide to disarming traps">
 
 This is a level 9 spellbook.  My thief got disconnected when I lost my internet connection this morning... just logged in and it wiped out my gold.  Does 72,500 rent on such a low level book seem wrong  to anyone else?
 

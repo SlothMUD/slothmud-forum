@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37125" data-author="*Idjit*" data-date="2016-07-24T21:21:18+00:00">
+<div class="post" data-post-id="37125" data-author="*Idjit*" data-date="2016-07-24T21:21:18+00:00" data-subject="game locked up">
 
 Did the game just lock up?
 

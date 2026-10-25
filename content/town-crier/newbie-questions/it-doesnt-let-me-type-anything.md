@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="18217" data-author="technoslay" data-date="2007-04-28T09:38:21+00:00">
+<div class="post" data-post-id="18217" data-author="technoslay" data-date="2007-04-28T09:38:21+00:00" data-subject="it doesnt let me type anything">
 
 when i open it it doesnt let me type a username
 
@@ -18,7 +18,7 @@ why is this? :?:  :?:  :?:
 
 </div>
 
-<div class="post" data-post-id="18221" data-author="12345" data-date="2007-04-28T15:39:40+00:00">
+<div class="post" data-post-id="18221" data-author="12345" data-date="2007-04-28T15:39:40+00:00" data-subject="">
 
 You might not have localecho turned on.
 
@@ -26,7 +26,7 @@ If you don't want to bother with a client, you can also connect to our MUD with 
 
 </div>
 
-<div class="post" data-post-id="18223" data-author="firebrand" data-date="2007-04-28T15:44:05+00:00">
+<div class="post" data-post-id="18223" data-author="firebrand" data-date="2007-04-28T15:44:05+00:00" data-subject="">
 
 define "it"  the mud or your client?
 

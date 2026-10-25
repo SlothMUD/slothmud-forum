@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34274" data-author="Ghoul" data-date="2013-04-30T05:54:05+00:00">
+<div class="post" data-post-id="34274" data-author="Ghoul" data-date="2013-04-30T05:54:05+00:00" data-subject="a granite bust of a stoic dwarf">
 
 Anyone know what this item is used for?
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37348" data-author="*juggleblood*" data-date="2016-09-10T22:27:10+00:00">
+<div class="post" data-post-id="37348" data-author="*juggleblood*" data-date="2016-09-10T22:27:10+00:00" data-subject="Mount &#x27;An Mystica adjustments">
 
 At Idjit's request and with Tox's approval, I've made minor adjustments to Mount 'An Mystica mob values.
 

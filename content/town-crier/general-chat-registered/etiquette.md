@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39384" data-author="Gorka" data-date="2020-03-08T11:49:00+00:00">
+<div class="post" data-post-id="39384" data-author="Gorka" data-date="2020-03-08T11:49:00+00:00" data-subject="Etiquette">
 
 I thought to remind new players of some of the "unspoken" etiquette about playing sloth, that players of 10 years or more will remember, that all seems to be a thing of the past now. I'm not suggesting we abide by it religiously, or that we adopt it in a fake manner, I'm just saying that recently there is a lot of room for improvement.
 

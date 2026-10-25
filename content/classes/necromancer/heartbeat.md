@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8816" data-author="deucer" data-date="2005-09-24T21:56:42+00:00">
+<div class="post" data-post-id="8816" data-author="deucer" data-date="2005-09-24T21:56:42+00:00" data-subject="Heartbeat">
 
 Necro is a cool classo and I find my Ne/Wa character great for soloing. However, soloing is not all that SlothMud is about. Getting to know other players is at least as important. Most of the players keep an eye out for each other. Some monitor their friends via tell commands, others use (clan) channels. As soon as a  player disappears the alarms are raised via gossip. And this is where this little suggestion comes in.
 

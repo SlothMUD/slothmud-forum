@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34157" data-author="mistweaver" data-date="2013-03-15T10:45:10+00:00">
+<div class="post" data-post-id="34157" data-author="mistweaver" data-date="2013-03-15T10:45:10+00:00" data-subject="Minotaur Form Question">
 
 Hi all :)
 
@@ -34,13 +34,13 @@ I was wondering if the 30% crit hit gets any further increase (with levels?) or 
 
 </div>
 
-<div class="post" data-post-id="34158" data-author="*juggleblood*" data-date="2013-03-15T11:17:17+00:00">
+<div class="post" data-post-id="34158" data-author="*juggleblood*" data-date="2013-03-15T11:17:17+00:00" data-subject="Re: Minotaur Form Question">
 
 after a little testing, it seems to me that's the maximum amount that equanimity allows. I couldn't get it any higher on a 9x40 druid.
 
 </div>
 
-<div class="post" data-post-id="34207" data-author="mistweaver" data-date="2013-04-01T12:36:58+00:00">
+<div class="post" data-post-id="34207" data-author="mistweaver" data-date="2013-04-01T12:36:58+00:00" data-subject="Re: Minotaur Form Question">
 
 Thank you for the info and sorry for late reply :P
 

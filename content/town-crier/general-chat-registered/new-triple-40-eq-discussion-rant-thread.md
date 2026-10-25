@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="29179" data-author="Rigwarl" data-date="2009-05-16T09:04:44+00:00">
+<div class="post" data-post-id="29179" data-author="Rigwarl" data-date="2009-05-16T09:04:44+00:00" data-subject="New Triple 40 EQ Discussion/Rant Thread">
 
 Hey guys, new 3x40 eq have been announced here :
 
@@ -70,7 +70,7 @@ What do you guys think? Like It? Love It? Hate it?
 
 </div>
 
-<div class="post" data-post-id="29181" data-author="jezer" data-date="2009-05-16T10:52:49+00:00">
+<div class="post" data-post-id="29181" data-author="jezer" data-date="2009-05-16T10:52:49+00:00" data-subject="">
 
 3x40 eq is looking like the gravy to me.
 
@@ -84,7 +84,7 @@ Also looks like bards and monks kinda left out again? Why? Why no shoulder gear 
 
 </div>
 
-<div class="post" data-post-id="29182" data-author="*Splork*" data-date="2009-05-16T11:06:25+00:00">
+<div class="post" data-post-id="29182" data-author="*Splork*" data-date="2009-05-16T11:06:25+00:00" data-subject="">
 
 There are a couple items here that are incorrect, so do not take these as set in stone until probably later tonight.
 
@@ -92,7 +92,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29183" data-author="jezer" data-date="2009-05-16T11:18:39+00:00">
+<div class="post" data-post-id="29183" data-author="jezer" data-date="2009-05-16T11:18:39+00:00" data-subject="">
 
 I think Splork is considering powering some items up...  :twisted: 
 
@@ -116,7 +116,7 @@ EDIT: Yeah undead control too. Flippin skin saggin necro's  :evil: Maybe holy eq
 
 </div>
 
-<div class="post" data-post-id="29191" data-author="*Splork*" data-date="2009-05-16T23:18:15+00:00">
+<div class="post" data-post-id="29191" data-author="*Splork*" data-date="2009-05-16T23:18:15+00:00" data-subject="">
 
 If you guys want some new triple 40 eq, now is the time to give names and stat suggestions...
 
@@ -126,7 +126,7 @@ We should add some for necro, monk, bard
 
 </div>
 
-<div class="post" data-post-id="29192" data-author="Shyla" data-date="2009-05-16T23:27:45+00:00">
+<div class="post" data-post-id="29192" data-author="Shyla" data-date="2009-05-16T23:27:45+00:00" data-subject="">
 
 since the diamond sandals can't be made anymore how about something for the feet with mana regen like
 
@@ -142,7 +142,7 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="29193" data-author="Cizin" data-date="2009-05-16T23:31:08+00:00">
+<div class="post" data-post-id="29193" data-author="Cizin" data-date="2009-05-16T23:31:08+00:00" data-subject="">
 
 Crystalline tears of vengeance (neck item)
 
@@ -156,7 +156,7 @@ Ring of Evil and Good Thoughts
 
 </div>
 
-<div class="post" data-post-id="29194" data-author="jezer" data-date="2009-05-17T01:32:00+00:00">
+<div class="post" data-post-id="29194" data-author="jezer" data-date="2009-05-17T01:32:00+00:00" data-subject="">
 
 guards of impregnation
 
@@ -168,7 +168,7 @@ Sprinkle two cups of ac, a few dates of max cons and assorted dexes, two pounds 
 
 </div>
 
-<div class="post" data-post-id="29203" data-author="Cizin" data-date="2009-05-17T18:14:10+00:00">
+<div class="post" data-post-id="29203" data-author="Cizin" data-date="2009-05-17T18:14:10+00:00" data-subject="">
 
 I was wondering why in hell thieves would need a 3x40 weapon when there are so many of them out there that they can use?
 
@@ -192,7 +192,7 @@ Cizin
 
 </div>
 
-<div class="post" data-post-id="29209" data-author="Thraxas" data-date="2009-05-18T17:47:12+00:00">
+<div class="post" data-post-id="29209" data-author="Thraxas" data-date="2009-05-18T17:47:12+00:00" data-subject="">
 
 Ideas for new Trip 40 seem to have been requested so heres by tuppence worth:
 
@@ -212,7 +212,7 @@ Sable Ring of the Dread Lords: -0.4 + 35 mana +2UC (finger)
 
 </div>
 
-<div class="post" data-post-id="29213" data-author="jezer" data-date="2009-05-19T00:30:43+00:00">
+<div class="post" data-post-id="29213" data-author="jezer" data-date="2009-05-19T00:30:43+00:00" data-subject="">
 
 I take it the caps are the same as the old sloth? 20 UD is prime necro? It would be nice to know, think my necro order is 6th so what is my UD cap so I can make an informed decision? Will I be able to buy UD at tard... er if I ever make it?
 

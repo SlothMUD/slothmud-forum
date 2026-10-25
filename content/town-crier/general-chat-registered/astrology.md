@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="9520" data-author="Gnu" data-date="2005-11-15T22:27:41+00:00">
+<div class="post" data-post-id="9520" data-author="Gnu" data-date="2005-11-15T22:27:41+00:00" data-subject="Astrology">
 
 here is a portion of information I've got due to astrology skill...
 
@@ -24,7 +24,7 @@ well... did I get it right, that HOUse of the Sun will have a Minor status for 1
 
 </div>
 
-<div class="post" data-post-id="9521" data-author="kjartan" data-date="2005-11-15T22:52:26+00:00">
+<div class="post" data-post-id="9521" data-author="kjartan" data-date="2005-11-15T22:52:26+00:00" data-subject="">
 
 The way it works currently is that if there's a minor conjunction and a major conjunction happens in the middle of it, the reading counts that as part of the length of the minor.  This is to reduce the verbiage.
 

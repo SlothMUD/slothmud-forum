@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="7078" data-author="daedalus" data-date="2005-06-12T00:56:27+00:00">
+<div class="post" data-post-id="7078" data-author="daedalus" data-date="2005-06-12T00:56:27+00:00" data-subject=":P">
 
 The first is a heavenly being that is pure and just.  A keen reader of
 
@@ -44,7 +44,7 @@ the day of light to reach.
 
 </div>
 
-<div class="post" data-post-id="7081" data-author="13" data-date="2005-06-12T02:32:59+00:00">
+<div class="post" data-post-id="7081" data-author="13" data-date="2005-06-12T02:32:59+00:00" data-subject="">
 
 That was a fun quest, evil team came in a little bit before the good team.
 

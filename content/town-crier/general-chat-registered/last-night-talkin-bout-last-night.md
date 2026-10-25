@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39290" data-author="Gorka" data-date="2019-08-05T08:01:15+00:00">
+<div class="post" data-post-id="39290" data-author="Gorka" data-date="2019-08-05T08:01:15+00:00" data-subject="Last Night... Talkin&#x27; Bout Last Night...">
 
 Last night Breeze decided to reward us mortals with drachma for the corpses of epics. We thought that was very nice of him, so we took him up on his offer. Once we got straightened out that a lot of the epics these days are actually astral... we commenced our rampage. It started off as a fairly standard affair, but by the end - the fun we were having, was outweighing any notion of a reward. It's been a while since I felt that sentiment while playing. There was a great vibe in the group last night, I hate leading epics as you all know, but last night I would have done it for no drachma or xp... but don't take that comment too seriously Breeze... *cough* 
 
@@ -2406,7 +2406,7 @@ MOB : gildebruun witch gilde bruun ruins mistress rg	LVL : 42	AREA : Ruins of Gi
 
 </div>
 
-<div class="post" data-post-id="39291" data-author="Gorka" data-date="2019-08-05T18:14:09+00:00">
+<div class="post" data-post-id="39291" data-author="Gorka" data-date="2019-08-05T18:14:09+00:00" data-subject="Re: Last Night... Talkin&#x27; Bout Last Night...">
 
 Players involved in the Miniquest need to catch Breeze in game for their reward. I'd suggest you do so ASAP and don't bring it up 5 months later and be like... oh hey Breeze - remember that quest back on Aug 4th... Breeze knows who was in the group and who came and went as I emailed him the records. Please be nice about it, as he was being generous to us in the first place.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36043" data-author="Dragoth" data-date="2015-08-17T14:18:13+00:00">
+<div class="post" data-post-id="36043" data-author="Dragoth" data-date="2015-08-17T14:18:13+00:00" data-subject="Portals bug">
 
 Ok i'll explain what happens here- I gate to an innkeeper mob (Temple's Abbot) and run to another area to save Tinx the running so he can gate me later, Tinx is a level 38 mage. When i ask Tinx to gate me, he is standing at my old portal which is still up, so when he gates me he gets a message that my old portal couldn't be overriden **BUT i still get portalled to on my end! ** And when i enter the portal to catch a tick in a safe place, the portal collapses, even though seemingly its only been up for a second (however my old portal that tinx could'nt override but did was up for a few minutes)..Meanwhile Tinx entered the portal on his end and he ended up at the same mob that i portalled to before..
 
@@ -426,19 +426,19 @@ You peer intently all around, and see:
 
 </div>
 
-<div class="post" data-post-id="36044" data-author="*teker*" data-date="2015-08-18T00:44:03+00:00">
+<div class="post" data-post-id="36044" data-author="*teker*" data-date="2015-08-18T00:44:03+00:00" data-subject="Re: Portals bug">
 
 I'll take a look at it.  Probably related to some code I worked on recently.
 
 </div>
 
-<div class="post" data-post-id="36046" data-author="*teker*" data-date="2015-08-19T01:07:28+00:00">
+<div class="post" data-post-id="36046" data-author="*teker*" data-date="2015-08-19T01:07:28+00:00" data-subject="Re: Portals bug">
 
 Found the problem and fixed it.  Should be in the game the next time we move code over.  It looks like this issue has been there for awhile.  Now if you attempt to create a 2nd portal in a room where you can't override the current one you will receive a message indicating such.  In this case, the portal on the opposite end will no longer be created.
 
 </div>
 
-<div class="post" data-post-id="36047" data-author="*Breeze*" data-date="2015-08-19T02:54:50+00:00">
+<div class="post" data-post-id="36047" data-author="*Breeze*" data-date="2015-08-19T02:54:50+00:00" data-subject="Re: Portals bug">
 
 pulled the code over.  live on crash/reboot (no reboot scheduled atm)
 

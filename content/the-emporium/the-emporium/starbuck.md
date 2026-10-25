@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="17722" data-author="Gimlet" data-date="2007-04-02T13:50:11+00:00">
+<div class="post" data-post-id="17722" data-author="Gimlet" data-date="2007-04-02T13:50:11+00:00" data-subject="Starbuck">
 
 Just a note to all that I no longer am in possession of the char Starbuck, nor do I have access to him or play him.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29127" data-author="sirrico1" data-date="2009-05-09T12:29:58+00:00">
+<div class="post" data-post-id="29127" data-author="sirrico1" data-date="2009-05-09T12:29:58+00:00" data-subject="Sun Symbol">
 
 You recite a scroll of identify which dissolves.
 

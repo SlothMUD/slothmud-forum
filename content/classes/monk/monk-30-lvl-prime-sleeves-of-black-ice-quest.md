@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39368" data-author="Constin" data-date="2020-01-31T12:36:42+00:00">
+<div class="post" data-post-id="39368" data-author="Constin" data-date="2020-01-31T12:36:42+00:00" data-subject="Monk 30 lvl prime  sleeves of black ice quest">
 
 Hi, where i can find info about this quest?
 
 </div>
 
-<div class="post" data-post-id="39369" data-author="Gorka" data-date="2020-02-03T20:11:34+00:00">
+<div class="post" data-post-id="39369" data-author="Gorka" data-date="2020-02-03T20:11:34+00:00" data-subject="Re: Monk 30 lvl prime  sleeves of black ice quest">
 
 undertake special_aura
 

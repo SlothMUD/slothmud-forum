@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="26397" data-author="Acedia" data-date="2008-09-19T06:58:32+00:00">
+<div class="post" data-post-id="26397" data-author="Acedia" data-date="2008-09-19T06:58:32+00:00" data-subject="Query:  Shadow Characters">
 
 Mornin' folks,
 
@@ -26,13 +26,13 @@ Acedia
 
 </div>
 
-<div class="post" data-post-id="26401" data-author="Liar" data-date="2008-09-19T15:57:04+00:00">
+<div class="post" data-post-id="26401" data-author="Liar" data-date="2008-09-19T15:57:04+00:00" data-subject="">
 
 Shadow characters were characters with zero levels in third and quad classes. As a bonus, when reached double 40, shadow character got item from list of shadow eq, like you get trip40 items. When reached trip40 that item was exchanged for trip40 item, so wasnt much of benefit. And yeah, I think they dont exist anymore, means not that you cant make 40 40 0 0, but you wont get shadow eq for that :P
 
 </div>
 
-<div class="post" data-post-id="27332" data-author="Teron" data-date="2008-12-01T13:54:41+00:00">
+<div class="post" data-post-id="27332" data-author="Teron" data-date="2008-12-01T13:54:41+00:00" data-subject="">
 
 Actually, when you got to tri40 0, the item could become permanent, if asked nicely. At least that's what happened with me in '04. The thing is, however, the items are(were) close to ingame items and no one had the time/will to update them to the current classes, compared to the current eq.
 
@@ -42,7 +42,7 @@ Then again, if you are a 2x40 0 0, you can ask someone and they *might* create a
 
 </div>
 
-<div class="post" data-post-id="27352" data-author="*juggleblood*" data-date="2008-12-03T14:47:27+00:00">
+<div class="post" data-post-id="27352" data-author="*juggleblood*" data-date="2008-12-03T14:47:27+00:00" data-subject="">
 
 Then again, if you are a 2x40 0 0, you can ask someone and they *might* create an item for you.[/quote:j04fbmkp]
 
@@ -50,7 +50,7 @@ erm, no
 
 </div>
 
-<div class="post" data-post-id="27370" data-author="Roadrunr" data-date="2008-12-05T17:36:54+00:00">
+<div class="post" data-post-id="27370" data-author="Roadrunr" data-date="2008-12-05T17:36:54+00:00" data-subject="">
 
 I ran Xander up to 40 40 0 0 and asked about it but it's just not done anymore.  I think all the items were geared toward old classo anyway.
 

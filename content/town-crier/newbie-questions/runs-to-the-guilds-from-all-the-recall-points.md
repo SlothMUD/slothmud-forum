@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36757" data-author="*Idjit*" data-date="2016-03-20T20:26:36+00:00">
+<div class="post" data-post-id="36757" data-author="*Idjit*" data-date="2016-03-20T20:26:36+00:00" data-subject="Runs to the guilds from all the recall points">
 
 If you're a budding newbie eager to level the cheapest level(s) every time the group stops (recommended), here are runs to the guilds from all of the recall points.
 
@@ -134,7 +134,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="36758" data-author="Teron" data-date="2016-03-21T05:40:16+00:00">
+<div class="post" data-post-id="36758" data-author="Teron" data-date="2016-03-21T05:40:16+00:00" data-subject="Re: Runs to the guilds from all the recall points">
 
 Island bank:
 

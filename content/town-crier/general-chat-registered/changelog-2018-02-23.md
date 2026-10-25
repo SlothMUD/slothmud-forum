@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="38680" data-author="*teker*" data-date="2018-02-23T23:57:07+00:00">
+<div class="post" data-post-id="38680" data-author="*teker*" data-date="2018-02-23T23:57:07+00:00" data-subject="Changelog 2018-02-23">
 
 New things since my last post:
 
@@ -28,7 +28,7 @@ I've left in the code changes to temp item poofing since the weekend chop day se
 
 </div>
 
-<div class="post" data-post-id="38681" data-author="Teron" data-date="2018-02-24T04:28:56+00:00">
+<div class="post" data-post-id="38681" data-author="Teron" data-date="2018-02-24T04:28:56+00:00" data-subject="Re: Changelog 2018-02-23">
 
 Can you tell me the use cases, where it's necessary, for those, who *gag fight*, to see strikes?
 
@@ -36,13 +36,13 @@ Why only strikes, why not circlestabs and kicks?
 
 </div>
 
-<div class="post" data-post-id="38683" data-author="*teker*" data-date="2018-02-26T17:55:54+00:00">
+<div class="post" data-post-id="38683" data-author="*teker*" data-date="2018-02-26T17:55:54+00:00" data-subject="Re: Changelog 2018-02-23">
 
 Or conversely - bash, stomp, flail, etc.  I don't know what the right balance is - I had monks (and atleast one non-monk) filing bugs that they were being accused of botting/not participating.
 
 </div>
 
-<div class="post" data-post-id="38685" data-author="Teron" data-date="2018-02-27T12:29:07+00:00">
+<div class="post" data-post-id="38685" data-author="Teron" data-date="2018-02-27T12:29:07+00:00" data-subject="Re: Changelog 2018-02-23">
 
 If, when leading, I want to check if someone is botting, I turn gag fight off for a few rounds or mobs.
 
@@ -64,13 +64,13 @@ P.S. A discussion and introduction of the feature would've cleared up most of th
 
 </div>
 
-<div class="post" data-post-id="38687" data-author="Gorka" data-date="2018-03-04T14:35:33+00:00">
+<div class="post" data-post-id="38687" data-author="Gorka" data-date="2018-03-04T14:35:33+00:00" data-subject="Re: Changelog 2018-02-23">
 
 One Ass Italiano for the imm that makes gag melee and gag attacks separate commands. I like to see what groupies are up to, defaultly we know that's normally nothing, but as they say... hope is the last to die.
 
 </div>
 
-<div class="post" data-post-id="38690" data-author="Teron" data-date="2018-03-06T13:38:56+00:00">
+<div class="post" data-post-id="38690" data-author="Teron" data-date="2018-03-06T13:38:56+00:00" data-subject="Re: Changelog 2018-02-23">
 
 ok, so now I know 2 players/leaders, who needed this feature.
 
@@ -84,13 +84,13 @@ Then add a command to gag skill attacks.
 
 </div>
 
-<div class="post" data-post-id="38692" data-author="*teker*" data-date="2018-03-06T18:14:04+00:00">
+<div class="post" data-post-id="38692" data-author="*teker*" data-date="2018-03-06T18:14:04+00:00" data-subject="Re: Changelog 2018-02-23">
 
 I guess the easiest option would be to go back.  What's the best option?  Rename gag fight to gag melee and add gag skill/spell/song?  It seems like bash messages would be useful to see since that's a sort of cumulative skill.  Or maybe not.  Do any other skills/spells work in a similar way?
 
 </div>
 
-<div class="post" data-post-id="38703" data-author="Josiah" data-date="2018-03-12T21:52:33+00:00">
+<div class="post" data-post-id="38703" data-author="Josiah" data-date="2018-03-12T21:52:33+00:00" data-subject="Re: Changelog 2018-02-23">
 
 > ***teker* wrote:**
 > It seems like bash messages would be useful to see since that's a sort of cumulative skill.  Or maybe not.  Do any other skills/spells work in a similar way?
@@ -103,7 +103,7 @@ I haven't led in a while, so no comment on the micromanaging leaders.
 
 </div>
 
-<div class="post" data-post-id="38706" data-author="Teron" data-date="2018-03-13T15:22:52+00:00">
+<div class="post" data-post-id="38706" data-author="Teron" data-date="2018-03-13T15:22:52+00:00" data-subject="Re: Changelog 2018-02-23">
 
 Bash is already shown, but I probably don't need to see, when people fail bashing. Otherwise, it may be helpful - sometimes.
 

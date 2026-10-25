@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="3241" data-author="Zeizel" data-date="2004-12-08T23:38:03+00:00">
+<div class="post" data-post-id="3241" data-author="Zeizel" data-date="2004-12-08T23:38:03+00:00" data-subject="AFK script">
 
 I know of at least one person who's asked for this, so here it is!
 
@@ -40,7 +40,7 @@ I hope everyone finds this useful!
 
 </div>
 
-<div class="post" data-post-id="3243" data-author="guest" data-date="2004-12-09T00:29:21+00:00">
+<div class="post" data-post-id="3243" data-author="guest" data-date="2004-12-09T00:29:21+00:00" data-subject="">
 
 Not bad Zeizel, short and to the point.  I like it.
 

@@ -10,7 +10,7 @@ locked: true
 post_count: 7
 ---
 
-<div class="post" data-post-id="34318" data-author="mistweaver" data-date="2013-06-12T12:24:08+00:00">
+<div class="post" data-post-id="34318" data-author="mistweaver" data-date="2013-06-12T12:24:08+00:00" data-subject="Jecka Bot to be Penalized">
 
 Dear Immortals!
 
@@ -20,7 +20,7 @@ Please deal with the renowned bot called Jecka, who is running Firenewts, Asylym
 
 </div>
 
-<div class="post" data-post-id="34319" data-author="Yasik" data-date="2013-06-12T12:31:13+00:00">
+<div class="post" data-post-id="34319" data-author="Yasik" data-date="2013-06-12T12:31:13+00:00" data-subject="Re: Jecka Bot to be Penalized">
 
 Why do you interfere with other's actions in the first place?
 
@@ -28,7 +28,7 @@ Mind your own business!
 
 </div>
 
-<div class="post" data-post-id="34320" data-author="mistweaver" data-date="2013-06-12T12:43:51+00:00">
+<div class="post" data-post-id="34320" data-author="mistweaver" data-date="2013-06-12T12:43:51+00:00" data-subject="Re: Jecka Bot to be Penalized">
 
 > **Yasik wrote:**
 > Why do you interfere with other's actions in the first place?
@@ -43,7 +43,7 @@ There are certain rules in this game, please type help rules ingame. There are i
 
 </div>
 
-<div class="post" data-post-id="34321" data-author="Yasik" data-date="2013-06-12T12:49:29+00:00">
+<div class="post" data-post-id="34321" data-author="Yasik" data-date="2013-06-12T12:49:29+00:00" data-subject="Re: Jecka Bot to be Penalized">
 
 > **mistweaver wrote:**
 > Dear Yasik, There are certain rules in this game,
@@ -52,7 +52,7 @@ There are certain rules in this game, please type help rules ingame. There are i
 
 </div>
 
-<div class="post" data-post-id="34322" data-author="mistweaver" data-date="2013-06-12T12:52:43+00:00">
+<div class="post" data-post-id="34322" data-author="mistweaver" data-date="2013-06-12T12:52:43+00:00" data-subject="Re: Jecka Bot to be Penalized">
 
 > **Yasik wrote:**
 > > **mistweaver wrote:**
@@ -66,13 +66,13 @@ There are certain rules in this game, please type help rules ingame. There are i
 
 </div>
 
-<div class="post" data-post-id="34324" data-author="alris" data-date="2013-06-15T07:38:34+00:00">
+<div class="post" data-post-id="34324" data-author="alris" data-date="2013-06-15T07:38:34+00:00" data-subject="Re: Jecka Bot to be Penalized">
 
 From my experience, handling incidents on sloth is usually done very poorly, it has nothing to do with rules and totally dependant on immortal. Might be one of the reasons sloth keeps getting shrinking playerbase. You probably should not expect anything concerning someone else rule breaking. Anyway good luck with it.
 
 </div>
 
-<div class="post" data-post-id="34325" data-author="*Splork*" data-date="2013-06-15T22:51:48+00:00">
+<div class="post" data-post-id="34325" data-author="*Splork*" data-date="2013-06-15T22:51:48+00:00" data-subject="Re: Jecka Bot to be Penalized">
 
 Highly doubtful Alris and the player was passworded almost a week ago, pretty sure most of those involved probably realized something was stopping him from logging in and botting further. Not really sure why someone whom wasn't even involved felt the need to take a dig at our Immortals even though the incident was well taken care of in advance of the post. 
 

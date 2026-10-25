@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39312" data-author="Gorka" data-date="2019-11-10T10:34:25+00:00">
+<div class="post" data-post-id="39312" data-author="Gorka" data-date="2019-11-10T10:34:25+00:00" data-subject="GEMS/RUNES for Trade (Not Clickbait... Maybe...!)">
 
 Hi Sloth,
 
@@ -246,7 +246,7 @@ NOTE: This entire scheme is subject to change at any point. If you wish to get i
 
 </div>
 
-<div class="post" data-post-id="39366" data-author="Gorka" data-date="2020-01-28T06:48:55+00:00">
+<div class="post" data-post-id="39366" data-author="Gorka" data-date="2020-01-28T06:48:55+00:00" data-subject="Re: GEMS/RUNES for Trade (Not Clickbait... Maybe...!)">
 
 After an incident today, I just wanted to reaffirm that this trading scheme is still open, and some people have already used it to get gems they needed.
 

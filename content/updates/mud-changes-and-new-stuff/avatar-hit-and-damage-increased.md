@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30448" data-author="*Splork*" data-date="2009-12-08T00:20:31+00:00">
+<div class="post" data-post-id="30448" data-author="*Splork*" data-date="2009-12-08T00:20:31+00:00" data-subject="avatar hit and damage increased">
 
 Avatar hit and damage bonuses has been increased. It used to max at 5 but I think its safe to max them at 7 after seeing how the game has been running.
 

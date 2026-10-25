@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="5258" data-author="Choong" data-date="2005-03-25T04:13:21+00:00">
+<div class="post" data-post-id="5258" data-author="Choong" data-date="2005-03-25T04:13:21+00:00" data-subject="How to get your own corpse and Self CR (corpse retrieval)">
 
 This guide is written for the newbies who died and only knows how to gossip "Can someone get my corpse".
 
@@ -78,7 +78,7 @@ Some basic etiquette when gossiping for help to CR,
 
 </div>
 
-<div class="post" data-post-id="5260" data-author="12345" data-date="2005-03-25T04:38:18+00:00">
+<div class="post" data-post-id="5260" data-author="12345" data-date="2005-03-25T04:38:18+00:00" data-subject="">
 
 Keep some gold in the bank on Valkyre and if you die there, it can be simple to get your corpse regardless of classo or levels.  You'll show up at the South Gate.
 

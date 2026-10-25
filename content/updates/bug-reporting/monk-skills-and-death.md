@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="817" data-author="Teron!" data-date="2004-06-21T11:47:21+00:00">
+<div class="post" data-post-id="817" data-author="Teron!" data-date="2004-06-21T11:47:21+00:00" data-subject="Monk skills and death">
 
 hey all
 

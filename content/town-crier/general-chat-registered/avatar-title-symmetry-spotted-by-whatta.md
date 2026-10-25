@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38959" data-author="*Idjit*" data-date="2018-08-12T02:02:03+00:00">
+<div class="post" data-post-id="38959" data-author="*Idjit*" data-date="2018-08-12T02:02:03+00:00" data-subject="Avatar Title Symmetry (spotted by Whatta)">
 
 oohhh. Curvy.
 
@@ -43,7 +43,7 @@ It doesn't look as nice in the forum's text formatting but it made a nice unifor
 
 </div>
 
-<div class="post" data-post-id="38963" data-author="Gorka" data-date="2018-08-13T07:29:44+00:00">
+<div class="post" data-post-id="38963" data-author="Gorka" data-date="2018-08-13T07:29:44+00:00" data-subject="Re: Avatar Title Symmetry (spotted by Whatta)">
 
 ![](http://gifimage.net/wp-content/uploads/2017/01/Surprised-Face-GIF-Image-for-Whatsapp-and-Facebook-8.gif)
 

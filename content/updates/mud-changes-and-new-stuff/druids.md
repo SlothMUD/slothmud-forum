@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="6452" data-author="*Splork*" data-date="2005-05-23T20:15:35+00:00">
+<div class="post" data-post-id="6452" data-author="*Splork*" data-date="2005-05-23T20:15:35+00:00" data-subject="Druids">
 
 A couple small changes to druids:
 

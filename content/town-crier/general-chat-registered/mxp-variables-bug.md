@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="28242" data-author="*Splork*" data-date="2009-02-21T14:13:54+00:00">
+<div class="post" data-post-id="28242" data-author="*Splork*" data-date="2009-02-21T14:13:54+00:00" data-subject="mxp variables bug">
 
 I just received a comment that mxp variables are not updating as quickly or at all after a recent change to our prompt went live. Could someone please give me more information, I do know gold is not updating at all. Are there any others? Do you guys notice anything odd happening or variables getting set incorrectly?
 
@@ -20,7 +20,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28248" data-author="Cizin" data-date="2009-02-21T20:08:01+00:00">
+<div class="post" data-post-id="28248" data-author="Cizin" data-date="2009-02-21T20:08:01+00:00" data-subject="">
 
 You have 1001444004 unused experience points.
 
@@ -30,7 +30,7 @@ Prompt:
 
 </div>
 
-<div class="post" data-post-id="28254" data-author="*Splork*" data-date="2009-02-21T22:51:36+00:00">
+<div class="post" data-post-id="28254" data-author="*Splork*" data-date="2009-02-21T22:51:36+00:00" data-subject="">
 
 This should of been fixed on today's crash, let us know please.
 
@@ -38,7 +38,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28255" data-author="jezer" data-date="2009-02-22T01:21:34+00:00">
+<div class="post" data-post-id="28255" data-author="jezer" data-date="2009-02-22T01:21:34+00:00" data-subject="">
 
 Splork the mxpExits variable still seems to be blank/broken.
 
@@ -52,7 +52,7 @@ Yeah, you can do it without an mxp variable, but involves making aliases for all
 
 </div>
 
-<div class="post" data-post-id="28259" data-author="java" data-date="2009-02-22T13:45:53+00:00">
+<div class="post" data-post-id="28259" data-author="java" data-date="2009-02-22T13:45:53+00:00" data-subject="">
 
 At least for me. Even more mxp varibles are INCORRECT since yesterday. 
 
@@ -66,7 +66,7 @@ I'm using Wintin.net.ver 2.09
 
 </div>
 
-<div class="post" data-post-id="28260" data-author="*Splork*" data-date="2009-02-22T15:08:14+00:00">
+<div class="post" data-post-id="28260" data-author="*Splork*" data-date="2009-02-22T15:08:14+00:00" data-subject="">
 
 I had to remove sector, area, and continent due to an unforeseen bug.
 
@@ -78,7 +78,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28261" data-author="firebrand" data-date="2009-02-22T18:08:53+00:00">
+<div class="post" data-post-id="28261" data-author="firebrand" data-date="2009-02-22T18:08:53+00:00" data-subject="">
 
 It could also be used to script a command to "backtrack" your steps... really useful when you invent stupid classos without cleric and mage, and you get stuck in the middle of no where with no recall and no word of recall. [/quote:2f0z78tp]
 
@@ -88,7 +88,7 @@ if you are on wintin, try using #path to see the steps you've taken (or attempte
 
 </div>
 
-<div class="post" data-post-id="28325" data-author="*Splork*" data-date="2009-02-27T14:03:08+00:00">
+<div class="post" data-post-id="28325" data-author="*Splork*" data-date="2009-02-27T14:03:08+00:00" data-subject="">
 
 I think Ive fixed this for everyone, please let me know if not.
 

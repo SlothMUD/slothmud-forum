@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="2930" data-author="Weasel" data-date="2004-11-21T15:36:22+00:00">
+<div class="post" data-post-id="2930" data-author="Weasel" data-date="2004-11-21T15:36:22+00:00" data-subject="spirit watchers">
 
 A suggestion.. if I have more than one spirit watcher active, it would be helpful if instead of saying:
 
@@ -24,19 +24,19 @@ but you get my point, right?
 
 </div>
 
-<div class="post" data-post-id="2938" data-author="guest" data-date="2004-11-21T18:12:17+00:00">
+<div class="post" data-post-id="2938" data-author="guest" data-date="2004-11-21T18:12:17+00:00" data-subject="">
 
 You can nickname the watchers for that reason.
 
 </div>
 
-<div class="post" data-post-id="2939" data-author="12345" data-date="2004-11-21T18:33:14+00:00">
+<div class="post" data-post-id="2939" data-author="12345" data-date="2004-11-21T18:33:14+00:00" data-subject="Re: spirit watchers">
 
 Even if you nickname them, it still says the same thing.  Best luck I've had telling them appart was when I happened to change alignments between castings.  One was a cherub and the other I don't recall.  Nicknames only help when talking to the watchers, not when listening to them.  Generally, if you wait a couple ticks, the question resolves itself when the watcher tells you what it found, but there are times when it's helpful to know beforehand, such as singing.
 
 </div>
 
-<div class="post" data-post-id="2940" data-author="Weasel" data-date="2004-11-21T18:38:36+00:00">
+<div class="post" data-post-id="2940" data-author="Weasel" data-date="2004-11-21T18:38:36+00:00" data-subject="">
 
 "Generally, if you wait a couple ticks, the question resolves itself when the watcher tells you what it found, but there are times when it's helpful to know beforehand, such as singing."
 
@@ -46,7 +46,7 @@ Guest, the nicknames do not appear when they are informing you that a mob is nea
 
 </div>
 
-<div class="post" data-post-id="2941" data-author="guest" data-date="2004-11-21T18:50:34+00:00">
+<div class="post" data-post-id="2941" data-author="guest" data-date="2004-11-21T18:50:34+00:00" data-subject="">
 
 Glad I didn't log in then  :)
 
@@ -54,7 +54,7 @@ I'm not a newbie!  Really!!
 
 </div>
 
-<div class="post" data-post-id="2945" data-author="kjartan" data-date="2004-11-21T23:37:02+00:00">
+<div class="post" data-post-id="2945" data-author="kjartan" data-date="2004-11-21T23:37:02+00:00" data-subject="">
 
 I had not even thought about this.  Ok, I fixed it so if you
 
@@ -68,13 +68,13 @@ Dave the cherub tells you 'whatever it is they tell you'
 
 </div>
 
-<div class="post" data-post-id="2946" data-author="kjartan" data-date="2004-11-21T23:38:14+00:00">
+<div class="post" data-post-id="2946" data-author="kjartan" data-date="2004-11-21T23:38:14+00:00" data-subject="">
 
 This will go in next crash or reboot, that is, it's not in yet.
 
 </div>
 
-<div class="post" data-post-id="2948" data-author="Weasel" data-date="2004-11-22T01:35:00+00:00">
+<div class="post" data-post-id="2948" data-author="Weasel" data-date="2004-11-22T01:35:00+00:00" data-subject="">
 
 Awesome thanks :)
 

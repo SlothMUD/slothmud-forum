@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="21908" data-author="Autolycos" data-date="2008-01-08T18:56:15+00:00">
+<div class="post" data-post-id="21908" data-author="Autolycos" data-date="2008-01-08T18:56:15+00:00" data-subject="funny funny stuff!">
 
 [b:2mp3jv4t]in light of reading shipping restrictions to Isreal on the usps.com site...[/b:2mp3jv4t]
 
@@ -56,7 +56,7 @@ Tobacco, in various forms, exceeding 600 grams.
 
 </div>
 
-<div class="post" data-post-id="21909" data-author="Rynquald" data-date="2008-01-08T23:51:37+00:00">
+<div class="post" data-post-id="21909" data-author="Rynquald" data-date="2008-01-08T23:51:37+00:00" data-subject="">
 
 Infectious perishable biological substances. [/quote:2i18o66w]
 

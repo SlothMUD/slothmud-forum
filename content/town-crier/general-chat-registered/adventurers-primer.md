@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="13548" data-author="Daisy" data-date="2006-07-25T09:01:51+00:00">
+<div class="post" data-post-id="13548" data-author="Daisy" data-date="2006-07-25T09:01:51+00:00" data-subject="Adventurers Primer">
 
 Been thinking back to when I started my first char on Sloth .... what seems to me a long time ago ... I came from another mud, a good mud, but one I had outgrown and found what has been a welcoming and fun home.
 
@@ -34,7 +34,7 @@ As a lvl 1-3 item of eq only it shouldn't unbalance the game, but I don't even k
 
 </div>
 
-<div class="post" data-post-id="13549" data-author="Leaf" data-date="2006-07-25T15:50:14+00:00">
+<div class="post" data-post-id="13549" data-author="Leaf" data-date="2006-07-25T15:50:14+00:00" data-subject="">
 
 Hello Daisy,
 
@@ -50,7 +50,7 @@ for those lvls.  Giving the person more exp and knowledge to hit something.
 
 </div>
 
-<div class="post" data-post-id="13555" data-author="12345" data-date="2006-07-25T20:41:30+00:00">
+<div class="post" data-post-id="13555" data-author="12345" data-date="2006-07-25T20:41:30+00:00" data-subject="">
 
 Most experienced players can do the same.  
 
@@ -78,7 +78,7 @@ It would also help Splork's karma with newbies :)
 
 </div>
 
-<div class="post" data-post-id="13557" data-author="osric" data-date="2006-07-25T22:04:01+00:00">
+<div class="post" data-post-id="13557" data-author="osric" data-date="2006-07-25T22:04:01+00:00" data-subject="">
 
 heh, some people don't really worry about karma :)
 

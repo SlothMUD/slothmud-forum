@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="7792" data-author="Rahtgaz" data-date="2005-07-09T12:37:10+00:00">
+<div class="post" data-post-id="7792" data-author="Rahtgaz" data-date="2005-07-09T12:37:10+00:00" data-subject="Confused on levelling and skills">
 
 Hello all,
 
@@ -38,7 +38,7 @@ There are of course many more questions... but slowly I'm gaining this knowledge
 
 </div>
 
-<div class="post" data-post-id="7793" data-author="Alberich" data-date="2005-07-09T13:07:15+00:00">
+<div class="post" data-post-id="7793" data-author="Alberich" data-date="2005-07-09T13:07:15+00:00" data-subject="Re: Confused on levelling and skills">
 
 a) If I have train points to spend on stats, why would I care so much about the ordering? As a level 9 warrior the only thing I need to max now is INT.[/quote:ayositis]
 
@@ -69,7 +69,7 @@ no clue on this one, sorry
 
 </div>
 
-<div class="post" data-post-id="7794" data-author="Rahtgaz" data-date="2005-07-09T13:44:22+00:00">
+<div class="post" data-post-id="7794" data-author="Rahtgaz" data-date="2005-07-09T13:44:22+00:00" data-subject="Re: Confused on levelling and skills">
 
 you don't have train points to spend on stats... not quite sure where you got that idea.  Warriors need primarily str for damage and dex for AC - int just affects max mana which is nice but not neccessary
 
@@ -85,13 +85,13 @@ Everytime i gain a level I have been awarded practice points and train points. T
 
 </div>
 
-<div class="post" data-post-id="7795" data-author="Alberich" data-date="2005-07-09T13:46:34+00:00">
+<div class="post" data-post-id="7795" data-author="Alberich" data-date="2005-07-09T13:46:34+00:00" data-subject="">
 
 I'm not sure what game that is, but it ain't sloth..
 
 </div>
 
-<div class="post" data-post-id="7797" data-author="Rahtgaz" data-date="2005-07-09T13:54:03+00:00">
+<div class="post" data-post-id="7797" data-author="Rahtgaz" data-date="2005-07-09T13:54:03+00:00" data-subject="">
 
 This is ridiculous...
 
@@ -107,13 +107,13 @@ Sorry about the confusion.
 
 </div>
 
-<div class="post" data-post-id="7799" data-author="Weasel" data-date="2005-07-09T15:49:34+00:00">
+<div class="post" data-post-id="7799" data-author="Weasel" data-date="2005-07-09T15:49:34+00:00" data-subject="">
 
 hehe
 
 </div>
 
-<div class="post" data-post-id="7800" data-author="Taki" data-date="2005-07-09T17:35:13+00:00">
+<div class="post" data-post-id="7800" data-author="Taki" data-date="2005-07-09T17:35:13+00:00" data-subject="">
 
 well, sorry man, don't mean any offense, but...
 

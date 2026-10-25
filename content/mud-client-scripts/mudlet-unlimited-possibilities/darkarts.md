@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="34635" data-author="DarkArtist" data-date="2013-12-15T17:23:26+00:00">
+<div class="post" data-post-id="34635" data-author="DarkArtist" data-date="2013-12-15T17:23:26+00:00" data-subject="DarkArts">
 
 I deleted my post about food pickup (multiline trigger example), and just made this post as a catchall sandbox for mudlet banter.
 
@@ -32,7 +32,7 @@ Let me know if you're interested in creating / sharing zone algorithms. Pls don'
 
 </div>
 
-<div class="post" data-post-id="34642" data-author="DarkArtist" data-date="2013-12-16T19:58:15+00:00">
+<div class="post" data-post-id="34642" data-author="DarkArtist" data-date="2013-12-16T19:58:15+00:00" data-subject="Re: DarkArts">
 
 Ok, got sounds set up on mudlet and it rocks.
 
@@ -46,7 +46,7 @@ Check out the waves at http://www.villagegeek.com/html/wavfiles1.htm for an idea
 
 </div>
 
-<div class="post" data-post-id="34644" data-author="DarkArtist" data-date="2013-12-16T23:10:25+00:00">
+<div class="post" data-post-id="34644" data-author="DarkArtist" data-date="2013-12-16T23:10:25+00:00" data-subject="Re: DarkArts">
 
 If you don't have enough reasons to get aboard the mudlet train, color functionality is awesome! Have complete control over the color of anything and everything ingame by using the ingame color set feature +mudlet's color trigger functionality. Want room descrips to be DarkOliveGreen? Just set them to white and then trigger white to select the line and set foreground to green.
 
@@ -68,7 +68,7 @@ And voila, you can peacefully group without seeing room  descrips or people's an
 
 </div>
 
-<div class="post" data-post-id="34646" data-author="DarkArtist" data-date="2013-12-17T16:39:33+00:00">
+<div class="post" data-post-id="34646" data-author="DarkArtist" data-date="2013-12-17T16:39:33+00:00" data-subject="Re: DarkArts">
 
 **Using multi-line filter triggers Instead of using enableTrigger disableTrigger** :!: 
 
@@ -120,7 +120,7 @@ But I haven't gotten that far yet. By the way, DONT USE THE MUDLET MANUAL DATABA
 
 </div>
 
-<div class="post" data-post-id="34647" data-author="DarkArtist" data-date="2013-12-17T17:50:04+00:00">
+<div class="post" data-post-id="34647" data-author="DarkArtist" data-date="2013-12-17T17:50:04+00:00" data-subject="Re: DarkArts">
 
 following that train of thought, here is how to fix database functions in mudlet:
 
@@ -130,7 +130,7 @@ https://raw.github.com/vadi2/mudlet-lua ... lua/DB.lua into it. Restart Mudlet o
 
 </div>
 
-<div class="post" data-post-id="34668" data-author="DarkArtist" data-date="2013-12-21T14:43:06+00:00">
+<div class="post" data-post-id="34668" data-author="DarkArtist" data-date="2013-12-21T14:43:06+00:00" data-subject="Re: DarkArts">
 
 Can anyone tell me the regex pattern that would mean zero or more additional whole words...i.e. zero or more of (\w+\s)? 
 
@@ -154,7 +154,7 @@ Please and thanks!
 
 </div>
 
-<div class="post" data-post-id="34671" data-author="Akaya" data-date="2013-12-21T16:13:40+00:00">
+<div class="post" data-post-id="34671" data-author="Akaya" data-date="2013-12-21T16:13:40+00:00" data-subject="Re: DarkArts">
 
 ```
 (.*?)car$
@@ -164,7 +164,7 @@ The ? is what you're looking for. It caputres 0 or 1 times. So in our case, if n
 
 </div>
 
-<div class="post" data-post-id="34672" data-author="DarkArtist" data-date="2013-12-21T16:33:20+00:00">
+<div class="post" data-post-id="34672" data-author="DarkArtist" data-date="2013-12-21T16:33:20+00:00" data-subject="Re: DarkArts">
 
 no because that would match any character.
 
@@ -176,13 +176,13 @@ I think the answer has something to do with \b but I haven't gotten it right yet
 
 </div>
 
-<div class="post" data-post-id="34675" data-author="Akaya" data-date="2013-12-21T17:46:18+00:00">
+<div class="post" data-post-id="34675" data-author="Akaya" data-date="2013-12-21T17:46:18+00:00" data-subject="Re: DarkArts">
 
 Here's a reference: [http://www.autohotkey.com/docs/misc/RegEx-QuickRef.htm](http://www.autohotkey.com/docs/misc/RegEx-QuickRef.htm)
 
 </div>
 
-<div class="post" data-post-id="34676" data-author="DarkArtist" data-date="2013-12-21T18:10:21+00:00">
+<div class="post" data-post-id="34676" data-author="DarkArtist" data-date="2013-12-21T18:10:21+00:00" data-subject="Re: DarkArts">
 
 nice one.
 
@@ -194,7 +194,7 @@ so that it would match a jar of oil, a jar of roiling fluid, or a jar of pickled
 
 </div>
 
-<div class="post" data-post-id="34703" data-author="DarkArtist" data-date="2013-12-28T19:09:30+00:00">
+<div class="post" data-post-id="34703" data-author="DarkArtist" data-date="2013-12-28T19:09:30+00:00" data-subject="Re: DarkArts">
 
 Here's a handy one for chasing down fleeing mobs.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="35138" data-author="*Idjit*" data-date="2014-05-10T21:31:58+00:00">
+<div class="post" data-post-id="35138" data-author="*Idjit*" data-date="2014-05-10T21:31:58+00:00" data-subject="Dark Mace : do the procs do anything?">
 
 Good afternoon folks, it seems sometimes Clerics do not get much feedback as far as whether their dark mace is doing them any good over say a weapon with the same dice without the procs.  Sometimes we feel we don't really know if the "piercing howl" or "bones crunching" is just cosmetic, if it's only one damage point, or if it's doing something.
 
@@ -1402,7 +1402,7 @@ healed myself once hmm. :) but actually the first heal was at 589hp so i was ver
 
 </div>
 
-<div class="post" data-post-id="35139" data-author="Magi" data-date="2014-05-10T23:09:32+00:00">
+<div class="post" data-post-id="35139" data-author="Magi" data-date="2014-05-10T23:09:32+00:00" data-subject="Re: Dark Mace : do the procs do anything?">
 
 Dark mace trivia
 
@@ -1418,7 +1418,7 @@ Sloth III: Ok, my cleric was oldschool, but maybe the proc hasn't changed.  The 
 
 </div>
 
-<div class="post" data-post-id="35140" data-author="*Splork*" data-date="2014-05-10T23:16:22+00:00">
+<div class="post" data-post-id="35140" data-author="*Splork*" data-date="2014-05-10T23:16:22+00:00" data-subject="Re: Dark Mace : do the procs do anything?">
 
 I know close to the end of S3, I increased the dark mace according to 40s. This was not transferred over to S4.
 
@@ -1428,7 +1428,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35142" data-author="Dragoth" data-date="2014-05-11T13:19:50+00:00">
+<div class="post" data-post-id="35142" data-author="Dragoth" data-date="2014-05-11T13:19:50+00:00" data-subject="Re: Dark Mace : do the procs do anything?">
 
 My only concerns with a dark mace are pretty basic - why does it poof when i put it in and out of a container? And why does it last 2o minutes? Iam just  trying to use it to get some extra regen (which cleric prime dont get a bonus to btw) and i cant because it keeps evaporating when i change eq and the bonus to mr is greatly diminished due to its short duration  
 
@@ -1436,7 +1436,7 @@ My only concerns with a dark mace are pretty basic - why does it poof when i put
 
 </div>
 
-<div class="post" data-post-id="35145" data-author="*Splork*" data-date="2014-05-12T14:09:36+00:00">
+<div class="post" data-post-id="35145" data-author="*Splork*" data-date="2014-05-12T14:09:36+00:00" data-subject="Re: Dark Mace : do the procs do anything?">
 
 This is fixed on reboot, you can place mace in bag and it will keep timer.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31496" data-author="jezer" data-date="2010-08-15T09:27:13+00:00">
+<div class="post" data-post-id="31496" data-author="jezer" data-date="2010-08-15T09:27:13+00:00" data-subject="Do peri&#x27;s lose concentration?">
 
 My peri mysteriously looses mana, not quite sure why?
 

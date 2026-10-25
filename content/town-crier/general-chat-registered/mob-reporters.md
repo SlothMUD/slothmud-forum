@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="17148" data-author="Thraxas" data-date="2007-03-02T17:57:10+00:00">
+<div class="post" data-post-id="17148" data-author="Thraxas" data-date="2007-03-02T17:57:10+00:00" data-subject="Mob reporters">
 
 not sure if this is just me or whether theres more out there that's agree with me but most of us group a fair bit and debuff mobs etc. and have reporters that tell us the mobs conditions; how hurt it is, when its blind and who blinded etc.
 
@@ -22,7 +22,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="17152" data-author="Medios" data-date="2007-03-02T22:51:57+00:00">
+<div class="post" data-post-id="17152" data-author="Medios" data-date="2007-03-02T22:51:57+00:00" data-subject="">
 
 I have always been totally against this spam.  If you cant notice that Demogorgon has been blinded, or weakened, then how in the fuck are you going to notice a spammy grouptell about it.  I have led some of the largest expeditions in sloth history and I never wanted anyone to use this spam(small group or large).  See whenever I play sloth, im actually paying attention.  I read whats happening and react to it, just like any other game.  Honestly these bots do not deserve grouptells to help them bot more.  See whenever I miss a blind or weaken message, the next round when I try to cast the spell it says that the mob is already blind/weak.  If you cant pay attention to that then wtf are you playing sloth for.  Theres really no point to bot to 5x40 because your still ignorant about the game.  If you do not try to actually learn what your doing (or learn some area other than demonweb group xp) then whats the point of the experience of sloth.  It just makes you look like a total dumbass when your 5x40 and cant do your own cr, or cant cycle a mob that I can kill with a trip40.  Thats the major problem with sloth lately, you scrubs will ruin the game and there will be no one left to lead your dumbasses around.
 
@@ -32,7 +32,7 @@ PS If you join my group you can go ahead and turn that shit off, cuz I really do
 
 </div>
 
-<div class="post" data-post-id="17155" data-author="12345" data-date="2007-03-03T01:41:10+00:00">
+<div class="post" data-post-id="17155" data-author="12345" data-date="2007-03-03T01:41:10+00:00" data-subject="">
 
 I'm obviously to blame for that. And yes, mine has an off switch.  I mostly use it when I'm leading.  I also have highlights and another window that tracks things if it's not on.
 
@@ -48,7 +48,7 @@ As far as myself... I like mine, and leader's perogative says it will almost alw
 
 </div>
 
-<div class="post" data-post-id="17166" data-author="*juggleblood*" data-date="2007-03-04T03:59:43+00:00">
+<div class="post" data-post-id="17166" data-author="*juggleblood*" data-date="2007-03-04T03:59:43+00:00" data-subject="">
 
 #ac {^Everything begins to look more blue}{gt \\d14**\\d09**\\c11** Infravision DOWN! \\c11**\\d09**\\d14}
 
@@ -56,13 +56,13 @@ Yeah but, have you ever watched spam ..... ON WEED?!
 
 </div>
 
-<div class="post" data-post-id="17167" data-author="12345" data-date="2007-03-04T05:59:18+00:00">
+<div class="post" data-post-id="17167" data-author="12345" data-date="2007-03-04T05:59:18+00:00" data-subject="">
 
 Must have been some pretty good weed when you think you're a mob...
 
 </div>
 
-<div class="post" data-post-id="17170" data-author="*juggleblood*" data-date="2007-03-04T12:02:57+00:00">
+<div class="post" data-post-id="17170" data-author="*juggleblood*" data-date="2007-03-04T12:02:57+00:00" data-subject="">
 
 Could be the mushrooms.
 
@@ -70,7 +70,7 @@ This one time at mud camp, I was tripping so hard that I thought I was sqrll fro
 
 </div>
 
-<div class="post" data-post-id="17177" data-author="Thraxas" data-date="2007-03-05T09:50:37+00:00">
+<div class="post" data-post-id="17177" data-author="Thraxas" data-date="2007-03-05T09:50:37+00:00" data-subject="">
 
 In my opinion anyone who is leading is likely to have enough experience in the game to have made their own mob reporter, and can determine the necessity of a reporter and choose whether they want on not, (If they haven't got a mob condition reporter then they can at their discretion ask a single player to switch one on), that said my rule number one of all groups is that if someones prepared to lead a group then what they say goes, end of discussion.
 
@@ -228,13 +228,13 @@ follower8 grouptells -- 'I thought we were going to hit mob2 whats happened to m
 
 </div>
 
-<div class="post" data-post-id="17178" data-author="tincts" data-date="2007-03-05T12:22:42+00:00">
+<div class="post" data-post-id="17178" data-author="tincts" data-date="2007-03-05T12:22:42+00:00" data-subject="">
 
 ROFL top points for putting in the time on that one hehe
 
 </div>
 
-<div class="post" data-post-id="17179" data-author="Gimlet" data-date="2007-03-05T13:09:35+00:00">
+<div class="post" data-post-id="17179" data-author="Gimlet" data-date="2007-03-05T13:09:35+00:00" data-subject="">
 
 *applause*
 
@@ -242,7 +242,7 @@ that was funny as hell elsie
 
 </div>
 
-<div class="post" data-post-id="17180" data-author="12345" data-date="2007-03-05T22:07:16+00:00">
+<div class="post" data-post-id="17180" data-author="12345" data-date="2007-03-05T22:07:16+00:00" data-subject="">
 
 And that is the main reason I use green text...
 
@@ -250,7 +250,7 @@ Mental note: make a toggle for that.
 
 </div>
 
-<div class="post" data-post-id="17181" data-author="13" data-date="2007-03-06T01:44:57+00:00">
+<div class="post" data-post-id="17181" data-author="13" data-date="2007-03-06T01:44:57+00:00" data-subject="">
 
 mob reporters, along with all that other spam shit, are worthless
 

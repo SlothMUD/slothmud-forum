@@ -10,7 +10,7 @@ locked: false
 post_count: 60
 ---
 
-<div class="post" data-post-id="36150" data-author="cyprimus" data-date="2015-11-11T01:06:17+00:00">
+<div class="post" data-post-id="36150" data-author="cyprimus" data-date="2015-11-11T01:06:17+00:00" data-subject="gems for sale">
 
 list follows please post bids here. do not bug me in game.  Will let post stay for a week for ppl to bid.
 
@@ -500,7 +500,7 @@ Gem shaft
 
 </div>
 
-<div class="post" data-post-id="36151" data-author="Filk" data-date="2015-11-11T01:29:49+00:00">
+<div class="post" data-post-id="36151" data-author="Filk" data-date="2015-11-11T01:29:49+00:00" data-subject="Re: gems for sale">
 
 7 x Hematite - 300k each
 
@@ -520,7 +520,7 @@ Gem shaft
 
 </div>
 
-<div class="post" data-post-id="36152" data-author="Teron" data-date="2015-11-11T04:15:53+00:00">
+<div class="post" data-post-id="36152" data-author="Teron" data-date="2015-11-11T04:15:53+00:00" data-subject="Re: gems for sale">
 
 x3 Rock Crystal Quartz - 500k each
 
@@ -540,7 +540,7 @@ Taron
 
 </div>
 
-<div class="post" data-post-id="36153" data-author="*Idjit*" data-date="2015-11-11T05:06:14+00:00">
+<div class="post" data-post-id="36153" data-author="*Idjit*" data-date="2015-11-11T05:06:14+00:00" data-subject="Re: gems for sale">
 
 2 x Smokey Quartz - 12m each
 
@@ -548,7 +548,7 @@ Taron
 
 </div>
 
-<div class="post" data-post-id="36154" data-author="Belrath" data-date="2015-11-11T10:03:05+00:00">
+<div class="post" data-post-id="36154" data-author="Belrath" data-date="2015-11-11T10:03:05+00:00" data-subject="Re: gems for sale">
 
 3x golden yellow topaz - 10m each
 
@@ -556,7 +556,7 @@ Belrath
 
 </div>
 
-<div class="post" data-post-id="36155" data-author="Filk" data-date="2015-11-11T14:42:03+00:00">
+<div class="post" data-post-id="36155" data-author="Filk" data-date="2015-11-11T14:42:03+00:00" data-subject="Re: gems for sale">
 
 3x golden yellow topaz - 12m each
 
@@ -564,7 +564,7 @@ Belrath
 
 </div>
 
-<div class="post" data-post-id="36156" data-author="Belrath" data-date="2015-11-11T16:29:46+00:00">
+<div class="post" data-post-id="36156" data-author="Belrath" data-date="2015-11-11T16:29:46+00:00" data-subject="Re: gems for sale">
 
 3x golden yellow topaz - 15m each
 
@@ -572,13 +572,13 @@ Belrath
 
 </div>
 
-<div class="post" data-post-id="36158" data-author="Filk" data-date="2015-11-12T01:57:30+00:00">
+<div class="post" data-post-id="36158" data-author="Filk" data-date="2015-11-12T01:57:30+00:00" data-subject="Re: gems for sale">
 
 3x golden yellow topaz - 18m each
 
 </div>
 
-<div class="post" data-post-id="36159" data-author="Belrath" data-date="2015-11-12T05:40:10+00:00">
+<div class="post" data-post-id="36159" data-author="Belrath" data-date="2015-11-12T05:40:10+00:00" data-subject="Re: gems for sale">
 
 3x golden yellow topaz - 20m each
 
@@ -586,7 +586,7 @@ Belrath
 
 </div>
 
-<div class="post" data-post-id="36160" data-author="cyprimus" data-date="2015-11-12T09:08:36+00:00">
+<div class="post" data-post-id="36160" data-author="cyprimus" data-date="2015-11-12T09:08:36+00:00" data-subject="Re: gems for sale">
 
 golden yellow topaz withdrawn.
 
@@ -596,7 +596,7 @@ sorry was bad list.
 
 </div>
 
-<div class="post" data-post-id="36162" data-author="Filk" data-date="2015-11-12T12:22:14+00:00">
+<div class="post" data-post-id="36162" data-author="Filk" data-date="2015-11-12T12:22:14+00:00" data-subject="Re: gems for sale">
 
 bad, bad cyp :/
 
@@ -618,7 +618,7 @@ Ok. Then my bids look that way:
 
 </div>
 
-<div class="post" data-post-id="36163" data-author="Sage" data-date="2015-11-12T12:48:17+00:00">
+<div class="post" data-post-id="36163" data-author="Sage" data-date="2015-11-12T12:48:17+00:00" data-subject="Re: gems for sale">
 
 Aquamarine x5 -100K each.
 
@@ -632,7 +632,7 @@ Purple Star Sapphire x5 - 100K each.
 
 </div>
 
-<div class="post" data-post-id="36166" data-author="Ertai" data-date="2015-11-12T14:05:52+00:00">
+<div class="post" data-post-id="36166" data-author="Ertai" data-date="2015-11-12T14:05:52+00:00" data-subject="Re: gems for sale">
 
 > **Teron wrote:**
 > x3 Rock Crystal Quartz - 500k each
@@ -645,7 +645,7 @@ x2 Eye Agate - 300k each
 
 </div>
 
-<div class="post" data-post-id="36167" data-author="Ker" data-date="2015-11-12T16:36:42+00:00">
+<div class="post" data-post-id="36167" data-author="Ker" data-date="2015-11-12T16:36:42+00:00" data-subject="Re: gems for sale">
 
 Blue Star Sapphire 5x - 1 mil each.
 
@@ -653,7 +653,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36169" data-author="*Idjit*" data-date="2015-11-13T03:57:24+00:00">
+<div class="post" data-post-id="36169" data-author="*Idjit*" data-date="2015-11-13T03:57:24+00:00" data-subject="Re: gems for sale">
 
 2 Smokey Quartz - 20 mil each
 
@@ -661,13 +661,13 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36170" data-author="Teron" data-date="2015-11-13T08:34:23+00:00">
+<div class="post" data-post-id="36170" data-author="Teron" data-date="2015-11-13T08:34:23+00:00" data-subject="Re: gems for sale">
 
 x3 Rock Crystal Quartz - 1m each
 
 </div>
 
-<div class="post" data-post-id="36172" data-author="Filk" data-date="2015-11-13T14:34:42+00:00">
+<div class="post" data-post-id="36172" data-author="Filk" data-date="2015-11-13T14:34:42+00:00" data-subject="Re: gems for sale">
 
 > ***Idjit* wrote:**
 > 2 Smokey Quartz - 20 mil each
@@ -678,7 +678,7 @@ x3 Rock Crystal Quartz - 1m each
 
 </div>
 
-<div class="post" data-post-id="36173" data-author="Zlodiak" data-date="2015-11-13T22:08:28+00:00">
+<div class="post" data-post-id="36173" data-author="Zlodiak" data-date="2015-11-13T22:08:28+00:00" data-subject="Re: gems for sale">
 
 Aquamarine Rune - 500k
 
@@ -688,7 +688,7 @@ Pearl x4 - 100k each
 
 </div>
 
-<div class="post" data-post-id="36174" data-author="Teron" data-date="2015-11-14T12:20:26+00:00">
+<div class="post" data-post-id="36174" data-author="Teron" data-date="2015-11-14T12:20:26+00:00" data-subject="Re: gems for sale">
 
 Quartz Rune - 700k
 
@@ -698,7 +698,7 @@ Champagne Pearl - 300k
 
 </div>
 
-<div class="post" data-post-id="36175" data-author="Vekna" data-date="2015-11-14T19:00:25+00:00">
+<div class="post" data-post-id="36175" data-author="Vekna" data-date="2015-11-14T19:00:25+00:00" data-subject="Re: gems for sale">
 
 Dark Green Spinel x5 - 100k each
 
@@ -706,7 +706,7 @@ Moss Agate x6 - 100k each
 
 </div>
 
-<div class="post" data-post-id="36176" data-author="cyprimus" data-date="2015-11-15T04:21:15+00:00">
+<div class="post" data-post-id="36176" data-author="cyprimus" data-date="2015-11-15T04:21:15+00:00" data-subject="Re: gems for sale">
 
 ok, gonna start sending... dunno who some of you are though.. veckna? who are you in game
 
@@ -714,7 +714,7 @@ can pm me or post.. or just send tell
 
 </div>
 
-<div class="post" data-post-id="36177" data-author="cyprimus" data-date="2015-11-15T04:35:32+00:00">
+<div class="post" data-post-id="36177" data-author="cyprimus" data-date="2015-11-15T04:35:32+00:00" data-subject="Re: gems for sale">
 
 zlodiaks corals and pearls shipped
 
@@ -722,31 +722,31 @@ please check your mail zlo
 
 </div>
 
-<div class="post" data-post-id="36178" data-author="cyprimus" data-date="2015-11-15T06:18:47+00:00">
+<div class="post" data-post-id="36178" data-author="cyprimus" data-date="2015-11-15T06:18:47+00:00" data-subject="Re: gems for sale">
 
 dr star sapphs delivered
 
 </div>
 
-<div class="post" data-post-id="36179" data-author="cyprimus" data-date="2015-11-15T07:07:04+00:00">
+<div class="post" data-post-id="36179" data-author="cyprimus" data-date="2015-11-15T07:07:04+00:00" data-subject="Re: gems for sale">
 
 sage order delivered
 
 </div>
 
-<div class="post" data-post-id="36180" data-author="Vekna" data-date="2015-11-15T07:51:55+00:00">
+<div class="post" data-post-id="36180" data-author="Vekna" data-date="2015-11-15T07:51:55+00:00" data-subject="Re: gems for sale">
 
 Oh, im singerzoh now
 
 </div>
 
-<div class="post" data-post-id="36181" data-author="cyprimus" data-date="2015-11-15T09:52:53+00:00">
+<div class="post" data-post-id="36181" data-author="cyprimus" data-date="2015-11-15T09:52:53+00:00" data-subject="Re: gems for sale">
 
 taron gems delivered
 
 </div>
 
-<div class="post" data-post-id="36182" data-author="Linx" data-date="2015-11-15T10:05:33+00:00">
+<div class="post" data-post-id="36182" data-author="Linx" data-date="2015-11-15T10:05:33+00:00" data-subject="Re: gems for sale">
 
 2x Rose Quartz 6 mill each
 
@@ -754,7 +754,7 @@ Linx
 
 </div>
 
-<div class="post" data-post-id="36183" data-author="Filk" data-date="2015-11-15T10:07:22+00:00">
+<div class="post" data-post-id="36183" data-author="Filk" data-date="2015-11-15T10:07:22+00:00" data-subject="Re: gems for sale">
 
 > **Linx wrote:**
 > 2x Rose Quartz 6 mill each
@@ -765,7 +765,7 @@ Linx
 
 </div>
 
-<div class="post" data-post-id="36184" data-author="Hung" data-date="2015-11-15T17:35:50+00:00">
+<div class="post" data-post-id="36184" data-author="Hung" data-date="2015-11-15T17:35:50+00:00" data-subject="Re: gems for sale">
 
 9xfreshwater pearl: 100k per gem
 
@@ -773,7 +773,7 @@ my chars are Kung/Yang/Hippo/Kid
 
 </div>
 
-<div class="post" data-post-id="36185" data-author="cyprimus" data-date="2015-11-16T01:58:05+00:00">
+<div class="post" data-post-id="36185" data-author="cyprimus" data-date="2015-11-16T01:58:05+00:00" data-subject="Re: gems for sale">
 
 kungs order delivered.
 
@@ -785,13 +785,13 @@ progress..
 
 </div>
 
-<div class="post" data-post-id="36186" data-author="Ertai" data-date="2015-11-16T07:26:13+00:00">
+<div class="post" data-post-id="36186" data-author="Ertai" data-date="2015-11-16T07:26:13+00:00" data-subject="Re: gems for sale">
 
 What about 2 Eye Agates? Bid is on first page, not overbidded.
 
 </div>
 
-<div class="post" data-post-id="36187" data-author="Filk" data-date="2015-11-16T08:00:55+00:00">
+<div class="post" data-post-id="36187" data-author="Filk" data-date="2015-11-16T08:00:55+00:00" data-subject="Re: gems for sale">
 
 > **cyprimus wrote:**
 > fluffy is ignoring me..
@@ -802,7 +802,7 @@ ps: mostly on an alt these days, but checking mail per day
 
 </div>
 
-<div class="post" data-post-id="36188" data-author="cyprimus" data-date="2015-11-17T02:44:26+00:00">
+<div class="post" data-post-id="36188" data-author="cyprimus" data-date="2015-11-17T02:44:26+00:00" data-subject="Re: gems for sale">
 
 many additional orders shipped
 
@@ -818,7 +818,7 @@ will repost once last orders out
 
 </div>
 
-<div class="post" data-post-id="36189" data-author="cyprimus" data-date="2015-11-17T05:43:27+00:00">
+<div class="post" data-post-id="36189" data-author="cyprimus" data-date="2015-11-17T05:43:27+00:00" data-subject="Re: gems for sale">
 
 Ok, think they are all delivered now.
 
@@ -828,7 +828,7 @@ In a few days will post new list.
 
 </div>
 
-<div class="post" data-post-id="36216" data-author="Risky" data-date="2015-11-28T13:54:43+00:00">
+<div class="post" data-post-id="36216" data-author="Risky" data-date="2015-11-28T13:54:43+00:00" data-subject="Re: gems for sale">
 
 Not sure what has left, but I want to bid.
 
@@ -852,7 +852,7 @@ any Purple\blue -Star Sapphire  and Lapus Lazuli left?
 
 </div>
 
-<div class="post" data-post-id="36221" data-author="Ertai" data-date="2015-11-29T16:50:00+00:00">
+<div class="post" data-post-id="36221" data-author="Ertai" data-date="2015-11-29T16:50:00+00:00" data-subject="Re: gems for sale">
 
 Yeah, we're still waiting for updated list!
 
@@ -860,7 +860,7 @@ And set min bids if you please...
 
 </div>
 
-<div class="post" data-post-id="36223" data-author="cyprimus" data-date="2015-11-30T06:13:27+00:00">
+<div class="post" data-post-id="36223" data-author="cyprimus" data-date="2015-11-30T06:13:27+00:00" data-subject="11/30/15 list">
 
 Sorry, got caught up leveling ip
 
@@ -1206,7 +1206,7 @@ edited all the tier 3's out ..if i missed any, ignore them, unlikely i will sell
 
 </div>
 
-<div class="post" data-post-id="36224" data-author="cyprimus" data-date="2015-11-30T06:16:51+00:00">
+<div class="post" data-post-id="36224" data-author="cyprimus" data-date="2015-11-30T06:16:51+00:00" data-subject="Re: gems for sale">
 
 Oh, in addition to gems i have dusty yellow bracelets.. healing hand rings, and raven father robes.
 
@@ -1214,13 +1214,13 @@ and clasps of life and death for sale for coins.
 
 </div>
 
-<div class="post" data-post-id="36225" data-author="Hung" data-date="2015-11-30T06:45:07+00:00">
+<div class="post" data-post-id="36225" data-author="Hung" data-date="2015-11-30T06:45:07+00:00" data-subject="Re: gems for sale">
 
 1 SB Pearl: 5m
 
 </div>
 
-<div class="post" data-post-id="36226" data-author="Linx" data-date="2015-11-30T09:19:32+00:00">
+<div class="post" data-post-id="36226" data-author="Linx" data-date="2015-11-30T09:19:32+00:00" data-subject="Re: gems for sale">
 
 Chrysoberyl 1M
 
@@ -1228,7 +1228,7 @@ Linx
 
 </div>
 
-<div class="post" data-post-id="36227" data-author="Zlodiak" data-date="2015-11-30T13:34:44+00:00">
+<div class="post" data-post-id="36227" data-author="Zlodiak" data-date="2015-11-30T13:34:44+00:00" data-subject="Re: gems for sale">
 
 violet garnet - 2mln
 
@@ -1236,7 +1236,7 @@ alexandrite - 2mln
 
 </div>
 
-<div class="post" data-post-id="36229" data-author="Ertai" data-date="2015-11-30T15:46:01+00:00">
+<div class="post" data-post-id="36229" data-author="Ertai" data-date="2015-11-30T15:46:01+00:00" data-subject="Re: gems for sale">
 
 > **cyprimus wrote:**
 > edited all the tier 3's out ..if i missed any, ignore them, unlikely i will sell unless its a very good offer.
@@ -1251,7 +1251,7 @@ Then let's bid on:
 
 </div>
 
-<div class="post" data-post-id="36233" data-author="Belrath" data-date="2015-12-02T20:39:50+00:00">
+<div class="post" data-post-id="36233" data-author="Belrath" data-date="2015-12-02T20:39:50+00:00" data-subject="Re: gems for sale">
 
 3x SB Pearl 10m each
 
@@ -1261,13 +1261,13 @@ Then let's bid on:
 
 </div>
 
-<div class="post" data-post-id="36234" data-author="basche" data-date="2015-12-02T23:53:34+00:00">
+<div class="post" data-post-id="36234" data-author="basche" data-date="2015-12-02T23:53:34+00:00" data-subject="Re: gems for sale">
 
 2x dusty yellow @ $250k / each
 
 </div>
 
-<div class="post" data-post-id="36236" data-author="Teron" data-date="2015-12-03T09:45:57+00:00">
+<div class="post" data-post-id="36236" data-author="Teron" data-date="2015-12-03T09:45:57+00:00" data-subject="Re: gems for sale">
 
 5 peridot - 100k total
 
@@ -1281,7 +1281,7 @@ malachite 5m
 
 </div>
 
-<div class="post" data-post-id="36237" data-author="Ertai" data-date="2015-12-03T15:44:34+00:00">
+<div class="post" data-post-id="36237" data-author="Ertai" data-date="2015-12-03T15:44:34+00:00" data-subject="Re: gems for sale">
 
 > **Ertai wrote:**
 > 1. Rock Crystal Quartz - 500k
@@ -1302,7 +1302,7 @@ And waiting for your comment about tier 3 gems. I've seen that Taron made a bid 
 
 </div>
 
-<div class="post" data-post-id="36238" data-author="cyprimus" data-date="2015-12-03T15:59:49+00:00">
+<div class="post" data-post-id="36238" data-author="cyprimus" data-date="2015-12-03T15:59:49+00:00" data-subject="Re: gems for sale">
 
 the clasps cost a mil to forge alone.
 
@@ -1318,7 +1318,7 @@ WIll figure it out this weekend.. post what you offer.
 
 </div>
 
-<div class="post" data-post-id="36241" data-author="Filk" data-date="2015-12-04T01:50:15+00:00">
+<div class="post" data-post-id="36241" data-author="Filk" data-date="2015-12-04T01:50:15+00:00" data-subject="Re: gems for sale">
 
 Well. Then.
 
@@ -1328,7 +1328,7 @@ Star Ruby 20 mils
 
 </div>
 
-<div class="post" data-post-id="36244" data-author="Ertai" data-date="2015-12-04T05:02:15+00:00">
+<div class="post" data-post-id="36244" data-author="Ertai" data-date="2015-12-04T05:02:15+00:00" data-subject="Re: gems for sale">
 
 > **cyprimus wrote:**
 > the clasps cost a mil to forge alone.
@@ -1339,7 +1339,7 @@ Oh, sorry, forgot about forge cost. :oops: Just remembered that other cps may be
 
 </div>
 
-<div class="post" data-post-id="36247" data-author="Teron" data-date="2015-12-04T09:28:30+00:00">
+<div class="post" data-post-id="36247" data-author="Teron" data-date="2015-12-04T09:28:30+00:00" data-subject="Re: gems for sale">
 
 rock crystal quartz gem - 1m
 
@@ -1347,7 +1347,7 @@ Malachite 20m
 
 </div>
 
-<div class="post" data-post-id="36256" data-author="Ertai" data-date="2015-12-05T13:19:26+00:00">
+<div class="post" data-post-id="36256" data-author="Ertai" data-date="2015-12-05T13:19:26+00:00" data-subject="Re: gems for sale">
 
 > **Teron wrote:**
 > rock crystal quartz gem - 1m
@@ -1356,7 +1356,7 @@ Malachite 20m
 
 </div>
 
-<div class="post" data-post-id="36257" data-author="Belrath" data-date="2015-12-05T16:36:20+00:00">
+<div class="post" data-post-id="36257" data-author="Belrath" data-date="2015-12-05T16:36:20+00:00" data-subject="Re: gems for sale">
 
 1x Malachite 25m
 
@@ -1364,13 +1364,13 @@ Malachite 20m
 
 </div>
 
-<div class="post" data-post-id="36258" data-author="Teron" data-date="2015-12-05T16:59:02+00:00">
+<div class="post" data-post-id="36258" data-author="Teron" data-date="2015-12-05T16:59:02+00:00" data-subject="Re: gems for sale">
 
 rock crystal quartz - 1.5m
 
 </div>
 
-<div class="post" data-post-id="36260" data-author="Ertai" data-date="2015-12-05T22:11:47+00:00">
+<div class="post" data-post-id="36260" data-author="Ertai" data-date="2015-12-05T22:11:47+00:00" data-subject="Re: gems for sale">
 
 Let's finalize my bids:
 
@@ -1384,25 +1384,25 @@ Let's finalize my bids:
 
 </div>
 
-<div class="post" data-post-id="36261" data-author="Tsuman" data-date="2015-12-06T00:57:34+00:00">
+<div class="post" data-post-id="36261" data-author="Tsuman" data-date="2015-12-06T00:57:34+00:00" data-subject="Re: gems for sale">
 
 I'll give you 4M for 2x clasp of life and death
 
 </div>
 
-<div class="post" data-post-id="36262" data-author="Tsuman" data-date="2015-12-06T01:01:55+00:00">
+<div class="post" data-post-id="36262" data-author="Tsuman" data-date="2015-12-06T01:01:55+00:00" data-subject="Re: gems for sale">
 
 BTW I'm posting this for Ebonsoul. Ebonsoul will give you 4M for 2x clasp of life and death. Ha.
 
 </div>
 
-<div class="post" data-post-id="36264" data-author="Ertai" data-date="2015-12-06T05:26:54+00:00">
+<div class="post" data-post-id="36264" data-author="Ertai" data-date="2015-12-06T05:26:54+00:00" data-subject="Re: gems for sale">
 
 5 mil for pair of clasps.
 
 </div>
 
-<div class="post" data-post-id="36265" data-author="cyprimus" data-date="2015-12-06T06:05:11+00:00">
+<div class="post" data-post-id="36265" data-author="cyprimus" data-date="2015-12-06T06:05:11+00:00" data-subject="Re: gems for sale">
 
 shipped... think everything is now shipped thats been bid..
 
@@ -1410,13 +1410,13 @@ lmk if i missed anything..
 
 </div>
 
-<div class="post" data-post-id="36266" data-author="basche" data-date="2015-12-06T18:15:40+00:00">
+<div class="post" data-post-id="36266" data-author="basche" data-date="2015-12-06T18:15:40+00:00" data-subject="Re: gems for sale">
 
 Didn't see anything about the dusty bracelets.  If you want a higher bid, let me know.
 
 </div>
 
-<div class="post" data-post-id="36270" data-author="cyprimus" data-date="2015-12-07T08:58:03+00:00">
+<div class="post" data-post-id="36270" data-author="cyprimus" data-date="2015-12-07T08:58:03+00:00" data-subject="Re: gems for sale">
 
 dusty shipped.. only had the one left.. will prolly get more... robes sold too... still got healing hand rings..
 

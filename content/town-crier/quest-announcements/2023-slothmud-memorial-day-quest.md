@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40049" data-author="*Idjit*" data-date="2023-05-25T15:27:53+00:00">
+<div class="post" data-post-id="40049" data-author="*Idjit*" data-date="2023-05-25T15:27:53+00:00" data-subject="2023 SlothMUD Memorial Day Quest">
 
 Good day ladies and gents.
 

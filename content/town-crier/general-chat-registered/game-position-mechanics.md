@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="38720" data-author="Gorka" data-date="2018-04-07T08:53:06+00:00">
+<div class="post" data-post-id="38720" data-author="Gorka" data-date="2018-04-07T08:53:06+00:00" data-subject="Game Position Mechanics">
 
 There are some things about the games position variable for a character that I don't agree with... although I suspect its always been this way...
 
@@ -26,7 +26,7 @@ PS score stats2 doesn't reflect my bonus spell bonus either, and it doesn't upda
 
 </div>
 
-<div class="post" data-post-id="38721" data-author="Gorka" data-date="2018-04-07T09:17:07+00:00">
+<div class="post" data-post-id="38721" data-author="Gorka" data-date="2018-04-07T09:17:07+00:00" data-subject="Re: Game Position Mechanics">
 
 Here's some proof of my resting argument...
 
@@ -220,7 +220,7 @@ I have a few proposals...
 
 </div>
 
-<div class="post" data-post-id="38722" data-author="Gorka" data-date="2018-04-07T10:16:39+00:00">
+<div class="post" data-post-id="38722" data-author="Gorka" data-date="2018-04-07T10:16:39+00:00" data-subject="Re: Game Position Mechanics">
 
 So I thought to myself, on chop mobs that don't hit much, there would be an advantage to resting while fighting so I could contemplate... so how to get myself resting...???? hmmm
 
@@ -284,19 +284,19 @@ There shouldn't be a contemplation and disengage bonus, for fighting while resti
 
 </div>
 
-<div class="post" data-post-id="38723" data-author="*Idjit*" data-date="2018-04-08T14:16:55+00:00">
+<div class="post" data-post-id="38723" data-author="*Idjit*" data-date="2018-04-08T14:16:55+00:00" data-subject="Re: Game Position Mechanics">
 
 Have you noticed also Gorka that if you put the hp regen in your prompt, when you've picked up a warcry bonus the hp-regen oscillates between your normal standing regen and the warcry-induced hp regen quite a whole bunch of times back and forth.
 
 </div>
 
-<div class="post" data-post-id="38724" data-author="Gorka" data-date="2018-04-08T17:06:26+00:00">
+<div class="post" data-post-id="38724" data-author="Gorka" data-date="2018-04-08T17:06:26+00:00" data-subject="Re: Game Position Mechanics">
 
 You sure that's not bloodrage? I'm not sure how it would be possible to separate warcry hp regen and bloodrage if that were the case.
 
 </div>
 
-<div class="post" data-post-id="38726" data-author="*teker*" data-date="2018-04-10T22:01:04+00:00">
+<div class="post" data-post-id="38726" data-author="*teker*" data-date="2018-04-10T22:01:04+00:00" data-subject="Re: Game Position Mechanics">
 
 I think position fighting was originally designed to be a "fighting stance" rather than a simple indication that you are fighting.  The game automatically switches you into this stance if you attack or if you're standing and something attacks you.
 
@@ -322,7 +322,7 @@ I don't see a warcry regen bonus so I'm not sure what you guys are talking about
 
 </div>
 
-<div class="post" data-post-id="38727" data-author="Gorka" data-date="2018-04-11T05:39:26+00:00">
+<div class="post" data-post-id="38727" data-author="Gorka" data-date="2018-04-11T05:39:26+00:00" data-subject="Re: Game Position Mechanics">
 
 > **Quote:**
 > Do you want me to look at the situation where you're not fighting if you kill a mob at the end of the round? It seems like this gives you an opportunity to engage the mob of your choice.
@@ -337,7 +337,7 @@ Could the list of what you get from warcry at each level be publicised... in hel
 
 </div>
 
-<div class="post" data-post-id="38729" data-author="Teron" data-date="2018-04-12T12:05:05+00:00">
+<div class="post" data-post-id="38729" data-author="Teron" data-date="2018-04-12T12:05:05+00:00" data-subject="Re: Game Position Mechanics">
 
 Gorka you a wrong that nothing happened from introducing counters.
 
@@ -359,19 +359,19 @@ would be helpful.
 
 </div>
 
-<div class="post" data-post-id="38730" data-author="Gorka" data-date="2018-04-12T14:17:01+00:00">
+<div class="post" data-post-id="38730" data-author="Gorka" data-date="2018-04-12T14:17:01+00:00" data-subject="Re: Game Position Mechanics">
 
 My point about "nothing happening" was to do with the supposed "abuse and whining" that was going to ensue if they showed damage. As far as I am aware, that fear did not transpire.
 
 </div>
 
-<div class="post" data-post-id="38734" data-author="Teron" data-date="2018-04-14T08:02:46+00:00">
+<div class="post" data-post-id="38734" data-author="Teron" data-date="2018-04-14T08:02:46+00:00" data-subject="Re: Game Position Mechanics">
 
 Yes, and I said about the opposite: it inspired a player to looked into how the game works and become a better player.
 
 </div>
 
-<div class="post" data-post-id="38737" data-author="Gorka" data-date="2018-04-19T05:13:45+00:00">
+<div class="post" data-post-id="38737" data-author="Gorka" data-date="2018-04-19T05:13:45+00:00" data-subject="Re: Game Position Mechanics">
 
 I see I can't rest while fighting anymore since reboot, so I suspect some changes have gone in... But the targeting thing is still annoying... In the following example I have a script for msdp.CHARACTER_HEALTH. Each time this variable changes I am echoing my position... In this example I am fighting two mobs at the same time, but when the one I am engaged with dies... my position is set to Standing... when in fact I should be Fighting. The issue for me is I want to swap weapons when a mob dies... but not if I am still fighting... and I have no way to do this... as the position is not correct. Also if I output the position immediately on mob death,in 50% of cases it will be Standing and the other 50% will be Fighting. Basically, this position variable is slow to update and nearly always filled with an unusable value.
 

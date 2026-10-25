@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33853" data-author="raincrab" data-date="2012-12-19T22:55:28+00:00">
+<div class="post" data-post-id="33853" data-author="raincrab" data-date="2012-12-19T22:55:28+00:00" data-subject="tinyfugue syntax highlighting for textmate (mac osx)">
 
 create a new bundle in tm, add this to it
 

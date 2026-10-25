@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13805" data-author="Mustang" data-date="2006-08-27T11:58:14+00:00">
+<div class="post" data-post-id="13805" data-author="Mustang" data-date="2006-08-27T11:58:14+00:00" data-subject="Lost Eq on valk">
 
 anyone pick up a full set of eq on valk which included a JJD, glinting silver shield, thief's lantern, grey robe, etc.
 

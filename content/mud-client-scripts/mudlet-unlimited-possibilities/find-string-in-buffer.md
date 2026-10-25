@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34071" data-author="Constin" data-date="2013-02-22T15:55:41+00:00">
+<div class="post" data-post-id="34071" data-author="Constin" data-date="2013-02-22T15:55:41+00:00" data-subject="Find string in buffer">
 
 alias
 

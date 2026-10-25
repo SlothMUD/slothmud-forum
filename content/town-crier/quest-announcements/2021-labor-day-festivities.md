@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39800" data-author="*Idjit*" data-date="2021-08-30T04:07:08+00:00">
+<div class="post" data-post-id="39800" data-author="*Idjit*" data-date="2021-08-30T04:07:08+00:00" data-subject="2021 Labor Day Festivities">
 
 Hello one and all,
 
@@ -28,7 +28,7 @@ See u there
 
 </div>
 
-<div class="post" data-post-id="39807" data-author="jayclimbs" data-date="2021-09-05T11:39:37+00:00">
+<div class="post" data-post-id="39807" data-author="jayclimbs" data-date="2021-09-05T11:39:37+00:00" data-subject="Re: 2021 Labor Day Festivities">
 
 Thank you, folks. That one kept us busy for quite awhile. And I believe everyone got to die at least once! The bonus runes certainly caused a stir!
 

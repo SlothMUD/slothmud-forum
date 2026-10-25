@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="17415" data-author="alias" data-date="2007-03-23T14:57:00+00:00">
+<div class="post" data-post-id="17415" data-author="alias" data-date="2007-03-23T14:57:00+00:00" data-subject="Rusty bracer (updated restrictions)">
 
 Due to the nature of ac the immorts have looked kindly on us and modified the restriction on the rusty bracer. It went from War AND Th to War OR Th
 

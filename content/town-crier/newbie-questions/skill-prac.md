@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="5359" data-author="Gecko" data-date="2005-04-01T13:22:33+00:00">
+<div class="post" data-post-id="5359" data-author="Gecko" data-date="2005-04-01T13:22:33+00:00" data-subject="skill prac">
 
 Hi everyone.
 
@@ -20,7 +20,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="5363" data-author="Weasel" data-date="2005-04-01T14:34:00+00:00">
+<div class="post" data-post-id="5363" data-author="Weasel" data-date="2005-04-01T14:34:00+00:00" data-subject="">
 
 Try read 1.manual, then read 2.manual, read 3manual... depending on your levels and you are high enough to read them.
 

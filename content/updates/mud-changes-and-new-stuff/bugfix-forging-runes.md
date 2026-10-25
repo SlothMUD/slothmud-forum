@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31584" data-author="*Isabo*" data-date="2010-08-25T01:05:40+00:00">
+<div class="post" data-post-id="31584" data-author="*Isabo*" data-date="2010-08-25T01:05:40+00:00" data-subject="Bugfix forging Runes">
 
 Good day, mortals.
 

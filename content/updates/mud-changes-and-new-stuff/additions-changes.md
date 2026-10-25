@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11961" data-author="*Splork*" data-date="2006-04-06T00:35:17+00:00">
+<div class="post" data-post-id="11961" data-author="*Splork*" data-date="2006-04-06T00:35:17+00:00" data-subject="Additions &amp; changes">
 
 1)MXP variables for current exp and current gold added
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10142" data-author="MudMania" data-date="2006-01-15T03:43:42+00:00">
+<div class="post" data-post-id="10142" data-author="MudMania" data-date="2006-01-15T03:43:42+00:00" data-subject="Nice who list">
 
 *Immortals of SlothMUD III*
 

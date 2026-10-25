@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="32619" data-author="Tuck" data-date="2011-05-14T22:11:26+00:00">
+<div class="post" data-post-id="32619" data-author="Tuck" data-date="2011-05-14T22:11:26+00:00" data-subject="Feature Request: Clan MOTD.">
 
 Hey imms,
 
@@ -28,7 +28,7 @@ pic unrelated
 
 </div>
 
-<div class="post" data-post-id="32620" data-author="Tuck" data-date="2011-05-15T05:55:06+00:00">
+<div class="post" data-post-id="32620" data-author="Tuck" data-date="2011-05-15T05:55:06+00:00" data-subject="Re: Feature Request: Clan MOTD.">
 
 Some players requested for more info on subject, so here you go.
 
@@ -44,7 +44,7 @@ CLAN>.XXX...... - ohhh I get it now
 
 </div>
 
-<div class="post" data-post-id="32621" data-author="Greedo" data-date="2011-05-15T06:16:59+00:00">
+<div class="post" data-post-id="32621" data-author="Greedo" data-date="2011-05-15T06:16:59+00:00" data-subject="Re: Feature Request: Clan MOTD.">
 
 This seems like a nice feature. Not sure how much effort it would take, but if matters at all, I am for it.
 
@@ -52,7 +52,7 @@ This seems like a nice feature. Not sure how much effort it would take, but if m
 
 </div>
 
-<div class="post" data-post-id="32923" data-author="Tuck" data-date="2011-09-21T02:26:52+00:00">
+<div class="post" data-post-id="32923" data-author="Tuck" data-date="2011-09-21T02:26:52+00:00" data-subject="Re: Feature Request: Clan MOTD.">
 
 Bump Bump
 

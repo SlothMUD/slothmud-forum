@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32550" data-author="Thraxas" data-date="2011-04-04T14:14:45+00:00">
+<div class="post" data-post-id="32550" data-author="Thraxas" data-date="2011-04-04T14:14:45+00:00" data-subject="Humour">
 
 Original from http://www.urban75.com/Mag/argument.html : enjoy!
 
@@ -68,7 +68,7 @@ Won the argument? Congratulations - but remember to be utterly unbearable in vic
 
 </div>
 
-<div class="post" data-post-id="32616" data-author="Tuck" data-date="2011-05-13T23:21:34+00:00">
+<div class="post" data-post-id="32616" data-author="Tuck" data-date="2011-05-13T23:21:34+00:00" data-subject="Re: Humour">
 
 How Disney make cartoons!
 
@@ -78,7 +78,7 @@ different cartoons, different chars, same animation, LOL!
 
 </div>
 
-<div class="post" data-post-id="32675" data-author="Tuck" data-date="2011-06-12T07:27:20+00:00">
+<div class="post" data-post-id="32675" data-author="Tuck" data-date="2011-06-12T07:27:20+00:00" data-subject="Re: Humour">
 
 http://www.tema.ru/jjj/IMG_4113.jpg
 

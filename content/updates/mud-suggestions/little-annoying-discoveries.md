@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="7704" data-author="Taki" data-date="2005-07-01T06:02:28+00:00">
+<div class="post" data-post-id="7704" data-author="Taki" data-date="2005-07-01T06:02:28+00:00" data-subject="little annoying discoveries">
 
 This is not a whining nor a critic, but I would like to know others' opinions about the subject.
 
@@ -28,13 +28,13 @@ Taki (growing some repulsion instinct vs fat scribes...)  :twisted:
 
 </div>
 
-<div class="post" data-post-id="7705" data-author="Zam" data-date="2005-07-01T06:41:28+00:00">
+<div class="post" data-post-id="7705" data-author="Zam" data-date="2005-07-01T06:41:28+00:00" data-subject="">
 
 dont ya think , dear friend  , that you're not experienced enuff to submit ALL that ideas? calm down
 
 </div>
 
-<div class="post" data-post-id="7706" data-author="Taki" data-date="2005-07-01T06:51:35+00:00">
+<div class="post" data-post-id="7706" data-author="Taki" data-date="2005-07-01T06:51:35+00:00" data-subject="">
 
 no, i don't i like to talk and don't like your attitude
 
@@ -42,7 +42,7 @@ no, i don't i like to talk and don't like your attitude
 
 </div>
 
-<div class="post" data-post-id="7711" data-author="12345" data-date="2005-07-01T10:56:49+00:00">
+<div class="post" data-post-id="7711" data-author="12345" data-date="2005-07-01T10:56:49+00:00" data-subject="">
 
 In Judge temple, a fat scribe beated Taki to a bloody pulp in one round at level 20. (350-ish hp and AC -6.0).[/quote:2t5tq2hl]
 
@@ -66,7 +66,7 @@ Happy hunting.
 
 </div>
 
-<div class="post" data-post-id="7719" data-author="Taki" data-date="2005-07-01T14:29:19+00:00">
+<div class="post" data-post-id="7719" data-author="Taki" data-date="2005-07-01T14:29:19+00:00" data-subject="">
 
 Thanks for your reply, 12345 :)
 
@@ -76,7 +76,7 @@ will try to be more cautious
 
 </div>
 
-<div class="post" data-post-id="7726" data-author="firebrand" data-date="2005-07-02T14:10:36+00:00">
+<div class="post" data-post-id="7726" data-author="firebrand" data-date="2005-07-02T14:10:36+00:00" data-subject="">
 
 no, i don't i like to talk and don't like your attitude
 
@@ -86,7 +86,7 @@ you just shot yourself in the proverbial foot, taki.  we're trying to help you u
 
 </div>
 
-<div class="post" data-post-id="7727" data-author="Taki" data-date="2005-07-02T18:58:41+00:00">
+<div class="post" data-post-id="7727" data-author="Taki" data-date="2005-07-02T18:58:41+00:00" data-subject="">
 
 See, Firebrand, Your answer and 12345's one are full of hints, tips, suggestions, and i am quite glad to 'listen' to them -actually read them- and learn from what you say.
 
@@ -100,7 +100,7 @@ T.
 
 </div>
 
-<div class="post" data-post-id="7728" data-author="Krok" data-date="2005-07-03T06:33:51+00:00">
+<div class="post" data-post-id="7728" data-author="Krok" data-date="2005-07-03T06:33:51+00:00" data-subject="">
 
 Taki, if you will take every little comment or word that much close to heart, you won't go far in this game. :) Not every person on mud should help you or listen to you. That will be too boring. Get used to it, years will pass and a lot of ppl will like or _dis_like you. 
 
@@ -108,7 +108,7 @@ And yes, I think that when you went in area with High Solo restrictions - be rea
 
 </div>
 
-<div class="post" data-post-id="7730" data-author="firebrand" data-date="2005-07-03T15:31:41+00:00">
+<div class="post" data-post-id="7730" data-author="firebrand" data-date="2005-07-03T15:31:41+00:00" data-subject="">
 
 See, Firebrand, Your answer and 12345's one are full of hints, tips, suggestions, and i am quite glad to 'listen' to them -actually read them- and learn from what you say.
 
@@ -124,7 +124,7 @@ oh well, in that case i pull back the foot shot :) .  zam just hates everybody e
 
 </div>
 
-<div class="post" data-post-id="7731" data-author="firebrand" data-date="2005-07-03T15:32:52+00:00">
+<div class="post" data-post-id="7731" data-author="firebrand" data-date="2005-07-03T15:32:52+00:00" data-subject="">
 
 err comments IN stride - not AND stride *blush* 
 
@@ -132,13 +132,13 @@ typomonster strikes again
 
 </div>
 
-<div class="post" data-post-id="7739" data-author="Calim" data-date="2005-07-05T10:30:47+00:00">
+<div class="post" data-post-id="7739" data-author="Calim" data-date="2005-07-05T10:30:47+00:00" data-subject="">
 
 I always chalk it up as part of the learning experience of the game.  Back when I was learning the game (sloth II), I was wandering around BH, I found a couple of mobs s and u from the mage trainer.  No big deal, perfect for the levels I was.  I went one more u, and there was a bottle lying on the ground.  When I looked at it, it suggested that I open it.  So, I did.  Teleported directly to the Desert.  Instant death.  Learning experience :) .
 
 </div>
 
-<div class="post" data-post-id="7740" data-author="Granty555" data-date="2005-07-05T11:48:10+00:00">
+<div class="post" data-post-id="7740" data-author="Granty555" data-date="2005-07-05T11:48:10+00:00" data-subject="">
 
 I have 6 years playing a full PK-mud, where you can be killed by the opposition at any time, any place. There are also DT's (deathtrap rooms) which kill you instantly, although there's often a clue in the preceding room description (sure makes you read the rooms when you're exploring!!).
 
@@ -148,13 +148,13 @@ So if I get pasted by a Sloth mob I dont know, cant get a CR and lose a bit of x
 
 </div>
 
-<div class="post" data-post-id="7741" data-author="Weasel" data-date="2005-07-05T13:02:24+00:00">
+<div class="post" data-post-id="7741" data-author="Weasel" data-date="2005-07-05T13:02:24+00:00" data-subject="">
 
 Flailing at BH Inn is always a good one...
 
 </div>
 
-<div class="post" data-post-id="7742" data-author="firebrand" data-date="2005-07-05T14:58:25+00:00">
+<div class="post" data-post-id="7742" data-author="firebrand" data-date="2005-07-05T14:58:25+00:00" data-subject="">
 
 I always chalk it up as part of the learning experience of the game.  Back when I was learning the game (sloth II), I was wandering around BH, I found a couple of mobs s and u from the mage trainer.  No big deal, perfect for the levels I was.  I went one more u, and there was a bottle lying on the ground.  When I looked at it, it suggested that I open it.  So, I did.  Teleported directly to the Desert.  Instant death.  Learning experience :) .[/quote:19q4hai0]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="25886" data-author="Lis" data-date="2008-08-23T12:16:17+00:00">
+<div class="post" data-post-id="25886" data-author="Lis" data-date="2008-08-23T12:16:17+00:00" data-subject="Herbalist Isle eq">
 
 Ok.
 
@@ -96,7 +96,7 @@ Clasp gives the user +2 REGEN_MOVE
 
 </div>
 
-<div class="post" data-post-id="25887" data-author="Lis" data-date="2008-08-23T12:36:41+00:00">
+<div class="post" data-post-id="25887" data-author="Lis" data-date="2008-08-23T12:36:41+00:00" data-subject="">
 
 You feel informed:
 
@@ -116,7 +116,7 @@ Only those who are at least apprentice thieves may use this item.
 
 </div>
 
-<div class="post" data-post-id="25888" data-author="Lis" data-date="2008-08-23T12:53:09+00:00">
+<div class="post" data-post-id="25888" data-author="Lis" data-date="2008-08-23T12:53:09+00:00" data-subject="">
 
 You feel informed:
 
@@ -142,7 +142,7 @@ this item.
 
 </div>
 
-<div class="post" data-post-id="25889" data-author="Lis" data-date="2008-08-23T13:21:38+00:00">
+<div class="post" data-post-id="25889" data-author="Lis" data-date="2008-08-23T13:21:38+00:00" data-subject="">
 
 Ok.
 
@@ -162,7 +162,7 @@ druids, or apprentice bards, or apprentice monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="25892" data-author="Lis" data-date="2008-08-23T14:49:55+00:00">
+<div class="post" data-post-id="25892" data-author="Lis" data-date="2008-08-23T14:49:55+00:00" data-subject="">
 
 on displacer beast
 
@@ -190,7 +190,7 @@ experienced bards, or supreme monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="26145" data-author="Lis" data-date="2008-09-04T16:38:55+00:00">
+<div class="post" data-post-id="26145" data-author="Lis" data-date="2008-09-04T16:38:55+00:00" data-subject="">
 
 all lures restricts now changed to 
 
@@ -212,25 +212,25 @@ grrrrrr
 
 </div>
 
-<div class="post" data-post-id="26147" data-author="Weasel" data-date="2008-09-04T20:47:17+00:00">
+<div class="post" data-post-id="26147" data-author="Weasel" data-date="2008-09-04T20:47:17+00:00" data-subject="">
 
 :shock:  may I ask why?
 
 </div>
 
-<div class="post" data-post-id="26149" data-author="*juggleblood*" data-date="2008-09-04T21:43:57+00:00">
+<div class="post" data-post-id="26149" data-author="*juggleblood*" data-date="2008-09-04T21:43:57+00:00" data-subject="">
 
 Because they were never intended otherwise. It's a fishing lure; it goes on fishing poles.
 
 </div>
 
-<div class="post" data-post-id="26152" data-author="Weasel" data-date="2008-09-05T03:43:01+00:00">
+<div class="post" data-post-id="26152" data-author="Weasel" data-date="2008-09-05T03:43:01+00:00" data-subject="">
 
 Fair enough.
 
 </div>
 
-<div class="post" data-post-id="26153" data-author="jezer" data-date="2008-09-05T03:47:59+00:00">
+<div class="post" data-post-id="26153" data-author="jezer" data-date="2008-09-05T03:47:59+00:00" data-subject="">
 
 [img:ws78uvwv]http://bethesdatech.net/wp-content/uploads/2008/05/blake.jpg[/img:ws78uvwv]
 
@@ -238,19 +238,19 @@ Some people wear them on there hats...
 
 </div>
 
-<div class="post" data-post-id="26155" data-author="Weasel" data-date="2008-09-05T04:44:01+00:00">
+<div class="post" data-post-id="26155" data-author="Weasel" data-date="2008-09-05T04:44:01+00:00" data-subject="">
 
 excellent point.
 
 </div>
 
-<div class="post" data-post-id="26165" data-author="Liar" data-date="2008-09-05T21:41:39+00:00">
+<div class="post" data-post-id="26165" data-author="Liar" data-date="2008-09-05T21:41:39+00:00" data-subject="">
 
 Just make em light clasps? Its not like they are better than flawed gem anway...
 
 </div>
 
-<div class="post" data-post-id="26853" data-author="Lis" data-date="2008-10-26T07:26:11+00:00">
+<div class="post" data-post-id="26853" data-author="Lis" data-date="2008-10-26T07:26:11+00:00" data-subject="">
 
 Some new pops
 
@@ -292,7 +292,7 @@ bards, or master monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="26951" data-author="Lis" data-date="2008-11-02T10:13:22+00:00">
+<div class="post" data-post-id="26951" data-author="Lis" data-date="2008-11-02T10:13:22+00:00" data-subject="">
 
 Object 'bolt spark lightning spellfire', Item type: ARMOR
 
@@ -314,7 +314,7 @@ necromancers may use this item.
 
 </div>
 
-<div class="post" data-post-id="26952" data-author="Lis" data-date="2008-11-02T10:27:46+00:00">
+<div class="post" data-post-id="26952" data-author="Lis" data-date="2008-11-02T10:27:46+00:00" data-subject="">
 
 Object 'sandals shark sharkskin', Item type: ARMOR
 
@@ -336,7 +336,7 @@ use this item.
 
 </div>
 
-<div class="post" data-post-id="38512" data-author="Gorka" data-date="2017-11-30T20:57:49+00:00">
+<div class="post" data-post-id="38512" data-author="Gorka" data-date="2017-11-30T20:57:49+00:00" data-subject="Re: Herbalist Isle eq">
 
 Kobold-Elder (Herbalist I)
 

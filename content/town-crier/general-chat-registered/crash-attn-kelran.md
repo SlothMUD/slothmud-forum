@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="11901" data-author="Si" data-date="2006-04-01T03:35:16+00:00">
+<div class="post" data-post-id="11901" data-author="Si" data-date="2006-04-01T03:35:16+00:00" data-subject="Crash (attn: Kelran)">
 
 Looks like the mud crashed.
 
@@ -20,7 +20,7 @@ Si
 
 </div>
 
-<div class="post" data-post-id="11902" data-author="Si" data-date="2006-04-01T04:14:43+00:00">
+<div class="post" data-post-id="11902" data-author="Si" data-date="2006-04-01T04:14:43+00:00" data-subject="">
 
 OK, the mud is back up now.
 
@@ -38,7 +38,7 @@ Si
 
 </div>
 
-<div class="post" data-post-id="11905" data-author="Autolycos" data-date="2006-04-01T13:56:07+00:00">
+<div class="post" data-post-id="11905" data-author="Autolycos" data-date="2006-04-01T13:56:07+00:00" data-subject="">
 
 lies lies lies!
 

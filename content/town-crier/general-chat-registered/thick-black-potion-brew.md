@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="19906" data-author="Atwell" data-date="2007-08-25T07:07:18+00:00">
+<div class="post" data-post-id="19906" data-author="Atwell" data-date="2007-08-25T07:07:18+00:00" data-subject="thick black potion brew">
 
 The web site 'Magical Brews' page has this brew:
 

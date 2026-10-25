@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2093" data-author="Falsra" data-date="2004-10-01T11:25:42+00:00">
+<div class="post" data-post-id="2093" data-author="Falsra" data-date="2004-10-01T11:25:42+00:00" data-subject="NTP">
 
 It would be nice if you start running NTP.
 

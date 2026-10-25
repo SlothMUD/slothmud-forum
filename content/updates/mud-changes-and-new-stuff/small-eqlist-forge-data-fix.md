@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35563" data-author="*juggleblood*" data-date="2014-12-20T13:11:24+00:00">
+<div class="post" data-post-id="35563" data-author="*juggleblood*" data-date="2014-12-20T13:11:24+00:00" data-subject="Small Eqlist Forge Data Fix">
 
 Some items on eqlist were mistakenly being shown as forged by Marclair in Opera Symphonia, because he was temporarily forging some items during the opener quest. The forges now display correctly when searched for on the eqlist. 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29115" data-author="Dragoth" data-date="2009-05-08T15:12:04+00:00">
+<div class="post" data-post-id="29115" data-author="Dragoth" data-date="2009-05-08T15:12:04+00:00" data-subject="Bug with shield of faith">
 
 <207hp 209ma 124mv>Warrior: 2043136 (0%) - Unknown minutes
 
@@ -94,7 +94,7 @@ You peer intently all around, and see:
 
 </div>
 
-<div class="post" data-post-id="29116" data-author="Dragoth" data-date="2009-05-08T15:13:19+00:00">
+<div class="post" data-post-id="29116" data-author="Dragoth" data-date="2009-05-08T15:13:19+00:00" data-subject="">
 
 In a dark room, with darkness on casting shield of faith has no effect
 

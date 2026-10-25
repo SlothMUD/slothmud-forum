@@ -10,7 +10,7 @@ locked: false
 post_count: 43
 ---
 
-<div class="post" data-post-id="8556" data-author="Zing" data-date="2005-09-07T01:53:51+00:00">
+<div class="post" data-post-id="8556" data-author="Zing" data-date="2005-09-07T01:53:51+00:00" data-subject="Tri token reroll stats">
 
 Yes, I'm at the point where I'm wasting a lot of playing time collecting tokens and trashing decent playable stats trying to win the lottery.  :)
 
@@ -40,7 +40,7 @@ send to pmarting@comcast.net
 
 </div>
 
-<div class="post" data-post-id="8580" data-author="Daisy" data-date="2005-09-09T12:42:02+00:00">
+<div class="post" data-post-id="8580" data-author="Daisy" data-date="2005-09-09T12:42:02+00:00" data-subject="Token Reroll Stats - A formula?">
 
 I have a theory about how rerolls are calculated, I'd be interested to know if (a) I'm right (b) what people think:
 
@@ -74,13 +74,13 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8581" data-author="12345" data-date="2005-09-09T14:14:39+00:00">
+<div class="post" data-post-id="8581" data-author="12345" data-date="2005-09-09T14:14:39+00:00" data-subject="">
 
 It's not really a secret that Daisy is exactly right.  The only other addition would be that if an oct is used, or you are getting your stats for the first time, any total with a result of 9 or lower causes the entire group to be discarded and rolled again.
 
 </div>
 
-<div class="post" data-post-id="8584" data-author="Zing" data-date="2005-09-09T15:43:55+00:00">
+<div class="post" data-post-id="8584" data-author="Zing" data-date="2005-09-09T15:43:55+00:00" data-subject="Reroll Strategy">
 
 Thanks for providing more information.  I think many players wouldn't re-roll as much if they understood the numbers better.
 
@@ -98,7 +98,7 @@ Zing
 
 </div>
 
-<div class="post" data-post-id="8585" data-author="Leaf" data-date="2005-09-09T16:35:48+00:00">
+<div class="post" data-post-id="8585" data-author="Leaf" data-date="2005-09-09T16:35:48+00:00" data-subject="">
 
 Well I have "unplayable" stats or been told that.  However I believe its
 
@@ -114,7 +114,7 @@ It's all about how some ppl play the game, and what eq is needed.
 
 </div>
 
-<div class="post" data-post-id="8593" data-author="seshi" data-date="2005-09-10T12:23:24+00:00">
+<div class="post" data-post-id="8593" data-author="seshi" data-date="2005-09-10T12:23:24+00:00" data-subject="Re: Reroll Strategy">
 
 Thanks for providing more information.  I think many players wouldn't re-roll as much if they understood the numbers better.
 
@@ -126,19 +126,19 @@ Brin
 
 </div>
 
-<div class="post" data-post-id="8595" data-author="blackmore" data-date="2005-09-10T13:32:25+00:00">
+<div class="post" data-post-id="8595" data-author="blackmore" data-date="2005-09-10T13:32:25+00:00" data-subject="">
 
 t4bwe;Many players who have played for years are willing to roll for months to get insane stats, and they seem to think that's what everyone should do too.  In the end, if you're just learning the game, you're missing out on a lot of fun by staying on valk until you get the stats that some people say you should have.  There's nothing wrong with playing with mediocre stats and waiting until you're bigger to get hexes.  I'd hate to see newbies quit because they're bored with the game when they can't get the 84 total that people claim they need.
 
 </div>
 
-<div class="post" data-post-id="8596" data-author="dt" data-date="2005-09-10T23:17:25+00:00">
+<div class="post" data-post-id="8596" data-author="dt" data-date="2005-09-10T23:17:25+00:00" data-subject="A slightly different approach">
 
 While Blackmore makes a decent point, I'd counter with the fact that such 'true' newbies don't have the necessary equipment to make up for bad stats....  we've all seen the veterans gossip stats that truly only an insane person would try to roll (guilty as charged) but in doing so, they only give exactly what the newbies want to know. Most of a time a newbie gossiping his/her stats and just having bad dex is enough to get many peeps tossing mad stats. BM also makes the point that newbies missing out on alot of fun because they stick themselves in re-roll hell but most newbies not gonna have much fun trying to explore with them being unable to solo. Could make another point or 2 but blasted Van doesn't allow botting so that's all for now
 
 </div>
 
-<div class="post" data-post-id="8608" data-author="Daisy" data-date="2005-09-12T09:26:51+00:00">
+<div class="post" data-post-id="8608" data-author="Daisy" data-date="2005-09-12T09:26:51+00:00" data-subject="ReRolling">
 
 I pleased you found my stats helpful, I ought to say that I'm not a mathematician (I'm an Engineer actually) and I'm quite prepared for someone to prove my probability calculations incorrect, I found the calculations quite complex, but I did write a program to repeatedly reroll stats and note results as a sanity check (this I found very simple) and on 50,000 rolls it tied up quite nicely.
 
@@ -198,7 +198,7 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8612" data-author="12345" data-date="2005-09-12T11:26:28+00:00">
+<div class="post" data-post-id="8612" data-author="12345" data-date="2005-09-12T11:26:28+00:00" data-subject="">
 
 It would actually be more helpful I think if folks knew the odds of getting a specific stat.
 
@@ -208,7 +208,7 @@ I think where a lot of folks get hung up is thinking that 10 tokens is a lot, an
 
 </div>
 
-<div class="post" data-post-id="8613" data-author="Daisy" data-date="2005-09-12T12:51:58+00:00">
+<div class="post" data-post-id="8613" data-author="Daisy" data-date="2005-09-12T12:51:58+00:00" data-subject="Full Stats">
 
 Zing,
 
@@ -250,7 +250,7 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8614" data-author="13" data-date="2005-09-12T13:04:06+00:00">
+<div class="post" data-post-id="8614" data-author="13" data-date="2005-09-12T13:04:06+00:00" data-subject="">
 
 you can postulate all you want, but in the end you just have to shut up and reroll and no amount of algorithm-arguing will make it easier.  btw those ma/wa stats suck, he rolls str second and doesnt even have %, plus 12 con..
 
@@ -258,7 +258,7 @@ keep goin, and gl :)
 
 </div>
 
-<div class="post" data-post-id="8615" data-author="Leaf" data-date="2005-09-12T14:08:53+00:00">
+<div class="post" data-post-id="8615" data-author="Leaf" data-date="2005-09-12T14:08:53+00:00" data-subject="">
 
 you can postulate all you want, but in the end you just have to shut up and reroll and no amount of algorithm-arguing will make it easier.  btw those ma/wa stats suck, he rolls str second and doesnt even have %, plus 12 con..
 
@@ -272,7 +272,7 @@ I believe he rolled some PIMP stats ...
 
 </div>
 
-<div class="post" data-post-id="8617" data-author="12345" data-date="2005-09-12T14:12:55+00:00">
+<div class="post" data-post-id="8617" data-author="12345" data-date="2005-09-12T14:12:55+00:00" data-subject="">
 
 I'm not a math guru... but I find brute force works well.
 
@@ -308,7 +308,7 @@ Editted to remove silly calculations.  Icefyre has a better method.
 
 </div>
 
-<div class="post" data-post-id="8620" data-author="Icefyre" data-date="2005-09-12T14:59:24+00:00">
+<div class="post" data-post-id="8620" data-author="Icefyre" data-date="2005-09-12T14:59:24+00:00" data-subject="Reroll chances">
 
 Someone asked "What are the REAL chances of winning the stat lottery?"
 
@@ -338,7 +338,7 @@ So, last conclusion:  oct's at 150k are a steal when your chances are 4X better 
 
 </div>
 
-<div class="post" data-post-id="8621" data-author="Icefyre" data-date="2005-09-12T15:24:12+00:00">
+<div class="post" data-post-id="8621" data-author="Icefyre" data-date="2005-09-12T15:24:12+00:00" data-subject="">
 
 OK, I screwed up my calc on how to drop the last d6 numbers, but 12345 showed me the errors of my ways:
 
@@ -356,7 +356,7 @@ Not going to recalc the percentages, but I would still theorize it's 4X better f
 
 </div>
 
-<div class="post" data-post-id="8622" data-author="Daisy" data-date="2005-09-12T15:25:56+00:00">
+<div class="post" data-post-id="8622" data-author="Daisy" data-date="2005-09-12T15:25:56+00:00" data-subject="">
 
 you can postulate all you want, but in the end you just have to shut up and reroll and no amount of algorithm-arguing will make it easier.  btw those ma/wa stats suck, he rolls str second and doesnt even have %, plus 12 con..
 
@@ -378,7 +378,7 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8624" data-author="12345" data-date="2005-09-12T15:32:02+00:00">
+<div class="post" data-post-id="8624" data-author="12345" data-date="2005-09-12T15:32:02+00:00" data-subject="">
 
 He was referring to your AAA BBB CCC conversation you have posted.
 
@@ -386,7 +386,7 @@ Also, what method did Icefyre use to calculate the percentages?  I know I've rol
 
 </div>
 
-<div class="post" data-post-id="8625" data-author="Icefyre" data-date="2005-09-12T15:52:10+00:00">
+<div class="post" data-post-id="8625" data-author="Icefyre" data-date="2005-09-12T15:52:10+00:00" data-subject="">
 
 Using the probability of 1.62% to roll an 18 for 4d6 dropping 1d6,
 
@@ -408,7 +408,7 @@ For 3 18:  0.0045  (1/2198)
 
 </div>
 
-<div class="post" data-post-id="8639" data-author="12345" data-date="2005-09-12T20:01:06+00:00">
+<div class="post" data-post-id="8639" data-author="12345" data-date="2005-09-12T20:01:06+00:00" data-subject="">
 
 Ok... this was bothering me, so I decided to figure it out:
 
@@ -450,7 +450,7 @@ I'm leaning more and more toward the idea that rolls get a +1 to them.
 
 </div>
 
-<div class="post" data-post-id="8640" data-author="12345" data-date="2005-09-12T20:09:24+00:00">
+<div class="post" data-post-id="8640" data-author="12345" data-date="2005-09-12T20:09:24+00:00" data-subject="">
 
 This is what I suspect the actual odds are:
 
@@ -488,7 +488,7 @@ Using these numbers, only 136:1296 (10.5%) of the stats rolled would be 9 or les
 
 </div>
 
-<div class="post" data-post-id="8641" data-author="Icefyre" data-date="2005-09-12T20:53:38+00:00">
+<div class="post" data-post-id="8641" data-author="Icefyre" data-date="2005-09-12T20:53:38+00:00" data-subject="">
 
 I got this same distribution.  Except, it's 136 results are less than 9, if you add in the 91 cases for a 9, you get a total of 227/1296 or 17.5% that are rerolled.  [1+4+10+21+38+62+91 = 227].
 
@@ -496,13 +496,13 @@ If that's true, then it's 87% chance (5*17.5) that any roll will need to be roll
 
 </div>
 
-<div class="post" data-post-id="8642" data-author="Icefyre" data-date="2005-09-12T20:56:25+00:00">
+<div class="post" data-post-id="8642" data-author="Icefyre" data-date="2005-09-12T20:56:25+00:00" data-subject="">
 
 I meant, I got the same distribution in your first post...what happened to a 3 value in your second post?  Your stat didn't include dropping the low die roll, it started with a 4.   So, I would add in the other 91 cases you had listed at a 10.
 
 </div>
 
-<div class="post" data-post-id="8643" data-author="12345" data-date="2005-09-12T21:09:29+00:00">
+<div class="post" data-post-id="8643" data-author="12345" data-date="2005-09-12T21:09:29+00:00" data-subject="">
 
 Simple, I added +1 to each result, so the 3s became the 4s and so on up to 18, which is the total of 17 and 18 together.  I did this for 2 reasons:
 
@@ -518,7 +518,7 @@ It's a guess.  It could very well be wrong, but so could everything else that's 
 
 </div>
 
-<div class="post" data-post-id="8644" data-author="Weasel" data-date="2005-09-13T01:48:41+00:00">
+<div class="post" data-post-id="8644" data-author="Weasel" data-date="2005-09-13T01:48:41+00:00" data-subject="">
 
 yeah ummm.. the 3x18 occurring 1 in 90 rolls just doesn't ring true for me at all- although classo may have a big effect on this.
 
@@ -532,13 +532,13 @@ I have two theories regarding rolling. One is that each stat cycles high to low,
 
 </div>
 
-<div class="post" data-post-id="8645" data-author="12345" data-date="2005-09-13T02:41:10+00:00">
+<div class="post" data-post-id="8645" data-author="12345" data-date="2005-09-13T02:41:10+00:00" data-subject="">
 
 Well, going over my old rolls, I don't think I'm far off.  I was rolling an 18 about every 4 rolls, and had a fair number of 2x18.  Probably why I couldn't roll an 3x18... all my spare 18s went to 2x18s instead.
 
 </div>
 
-<div class="post" data-post-id="8646" data-author="Daisy" data-date="2005-09-13T07:10:20+00:00">
+<div class="post" data-post-id="8646" data-author="Daisy" data-date="2005-09-13T07:10:20+00:00" data-subject="Have we got this all wrong">
 
 If its any help on the question of what are the odds of 0/1/2/3/4/5 18s when rerolling its fairly simple to write a program to replicate the reroll on Sloth and have a look at the results, if you do this enough times you should get something statistically fairly accurate, the time for such a process to run is much quicker if you discard the actual results and only note a counter on the number of 18s found, therefore it is possible to use a much bigger sample.
 
@@ -568,7 +568,7 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8647" data-author="Leaf" data-date="2005-09-13T09:41:44+00:00">
+<div class="post" data-post-id="8647" data-author="Leaf" data-date="2005-09-13T09:41:44+00:00" data-subject="">
 
 Anyone ever noticed if ur get Awsome stats, it's never like 18 18 15 12 10?
 
@@ -582,7 +582,7 @@ just me throwing more shit in the fan :)
 
 </div>
 
-<div class="post" data-post-id="8648" data-author="Grue" data-date="2005-09-13T10:06:48+00:00">
+<div class="post" data-post-id="8648" data-author="Grue" data-date="2005-09-13T10:06:48+00:00" data-subject="">
 
 I did what Daisy did using Excel and got the same results, BTW.
 
@@ -592,7 +592,7 @@ But guys remember Illich before you go for the mega stat! 750 rolls and he still
 
 </div>
 
-<div class="post" data-post-id="8649" data-author="Daisy" data-date="2005-09-13T13:39:04+00:00">
+<div class="post" data-post-id="8649" data-author="Daisy" data-date="2005-09-13T13:39:04+00:00" data-subject="Clear this up once and for all?">
 
 Is there any way of asking a Mud admin / developer to clear up once and for all time exactly what the formular is for stat rolling?
 
@@ -610,7 +610,7 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8650" data-author="kjartan" data-date="2005-09-13T13:56:58+00:00">
+<div class="post" data-post-id="8650" data-author="kjartan" data-date="2005-09-13T13:56:58+00:00" data-subject="Re: Clear this up once and for all?">
 
 Is there any way of asking a Mud admin / developer to clear up once and for all time exactly what the formular is for stat rolling?[/quote:21y3zaei]
 
@@ -618,7 +618,7 @@ Sorry, that is the sort of internal info about the code that we don't tell you. 
 
 </div>
 
-<div class="post" data-post-id="8651" data-author="12345" data-date="2005-09-13T14:13:18+00:00">
+<div class="post" data-post-id="8651" data-author="12345" data-date="2005-09-13T14:13:18+00:00" data-subject="Re: Clear this up once and for all?">
 
 Out of interest my alt as a W/M rolled:
 
@@ -628,7 +628,7 @@ Honestly Daisy, short of a miracle roll, that's really nice.  Shooting for a hig
 
 </div>
 
-<div class="post" data-post-id="8662" data-author="Avatar" data-date="2005-09-14T10:29:11+00:00">
+<div class="post" data-post-id="8662" data-author="Avatar" data-date="2005-09-14T10:29:11+00:00" data-subject="Part of the fun">
 
 That's part of the fun!
 
@@ -638,7 +638,7 @@ That's the type of question that every player here has to answer on his/her own.
 
 </div>
 
-<div class="post" data-post-id="8695" data-author="Zorich" data-date="2005-09-15T18:18:22+00:00">
+<div class="post" data-post-id="8695" data-author="Zorich" data-date="2005-09-15T18:18:22+00:00" data-subject="">
 
 Ahh, it's nice to see people are stat junkies now just like I was back in the day...
 
@@ -648,7 +648,7 @@ Got that on my 2nd reroll and was left sitting with 38 to give away to the first
 
 </div>
 
-<div class="post" data-post-id="8700" data-author="Avatar" data-date="2005-09-15T20:17:35+00:00">
+<div class="post" data-post-id="8700" data-author="Avatar" data-date="2005-09-15T20:17:35+00:00" data-subject="heh">
 
 Wow, a lifer.
 
@@ -658,7 +658,7 @@ Nice to see you're still around...
 
 </div>
 
-<div class="post" data-post-id="8702" data-author="Zorich" data-date="2005-09-16T01:02:28+00:00">
+<div class="post" data-post-id="8702" data-author="Zorich" data-date="2005-09-16T01:02:28+00:00" data-subject="Re: heh">
 
 Wow, a lifer.
 
@@ -686,7 +686,7 @@ It's kind of the same reason I don't make a new character and play now.  I just 
 
 </div>
 
-<div class="post" data-post-id="8703" data-author="Clink" data-date="2005-09-16T07:00:12+00:00">
+<div class="post" data-post-id="8703" data-author="Clink" data-date="2005-09-16T07:00:12+00:00" data-subject="">
 
 If you happen to have the area, mob and eq descs around on disk somewhere, we'd love to get them in game.  Send them to us and depending on how far along they are, it's a possibility that someone can upload the areas for everyone to enjoy.
 
@@ -696,7 +696,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="8705" data-author="13" data-date="2005-09-16T11:37:29+00:00">
+<div class="post" data-post-id="8705" data-author="13" data-date="2005-09-16T11:37:29+00:00" data-subject="">
 
 Hrm, Fredd was way fucking funny.  I think you got time to play some sloth
 
@@ -704,7 +704,7 @@ Dann, you just don't know it yet :}
 
 </div>
 
-<div class="post" data-post-id="8706" data-author="Zorich" data-date="2005-09-16T11:58:18+00:00">
+<div class="post" data-post-id="8706" data-author="Zorich" data-date="2005-09-16T11:58:18+00:00" data-subject="">
 
 If you happen to have the area, mob and eq descs around on disk somewhere, we'd love to get them in game.  Send them to us and depending on how far along they are, it's a possibility that someone can upload the areas for everyone to enjoy.
 
@@ -728,7 +728,7 @@ Good times...
 
 </div>
 
-<div class="post" data-post-id="8707" data-author="Zorich" data-date="2005-09-16T12:00:25+00:00">
+<div class="post" data-post-id="8707" data-author="Zorich" data-date="2005-09-16T12:00:25+00:00" data-subject="">
 
 Hrm, Fredd was way fucking funny.  I think you got time to play some sloth Dann, you just don't know it yet :}[/quote:21al2a9m]
 
@@ -738,7 +738,7 @@ But no, I probably won't be playing.  I actually tried to log in and found that 
 
 </div>
 
-<div class="post" data-post-id="8712" data-author="Avatar" data-date="2005-09-16T15:33:30+00:00">
+<div class="post" data-post-id="8712" data-author="Avatar" data-date="2005-09-16T15:33:30+00:00" data-subject="Yep">
 
 I always liked the planes too, and I kinda miss the mage tower.  I used to love finding rooms where it was obvious a connection SHOULD be to more rooms, but was closed.  It kind of fuels the imagination to think what could be there...what should be there.  Some areas just seem so 'right' for Sloth, when they fit with the rest of the atmosphere.  I think the planes always did that.
 
@@ -750,7 +750,7 @@ Ah well, good memories  :)
 
 </div>
 
-<div class="post" data-post-id="8714" data-author="Zorich" data-date="2005-09-16T16:36:46+00:00">
+<div class="post" data-post-id="8714" data-author="Zorich" data-date="2005-09-16T16:36:46+00:00" data-subject="">
 
 I hear ya man.
 
@@ -774,7 +774,7 @@ Heh, but it's been so long - for all I know those could already be in there  :).
 
 </div>
 
-<div class="post" data-post-id="8762" data-author="12345" data-date="2005-09-20T19:02:22+00:00">
+<div class="post" data-post-id="8762" data-author="12345" data-date="2005-09-20T19:02:22+00:00" data-subject="">
 
 The equation for this was bothering me... so I tried something different.  Keep in mind I still think rerolls are using 4d6+1.  :) 
 

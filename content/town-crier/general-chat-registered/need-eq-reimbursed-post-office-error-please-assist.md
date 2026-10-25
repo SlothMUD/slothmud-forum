@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="22867" data-author="Ingold" data-date="2008-02-21T17:31:23+00:00">
+<div class="post" data-post-id="22867" data-author="Ingold" data-date="2008-02-21T17:31:23+00:00" data-subject="need Eq reimbursed - Post Office Error - Please Assist">
 
 Heya Imms,
 
@@ -104,7 +104,7 @@ Ingold, Drum etc
 
 </div>
 
-<div class="post" data-post-id="22881" data-author="Ingold" data-date="2008-02-22T07:35:31+00:00">
+<div class="post" data-post-id="22881" data-author="Ingold" data-date="2008-02-22T07:35:31+00:00" data-subject="">
 
 Thank You Seda!!! :)
 

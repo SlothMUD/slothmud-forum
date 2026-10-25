@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="21365" data-author="jezer" data-date="2007-11-22T04:30:02+00:00">
+<div class="post" data-post-id="21365" data-author="jezer" data-date="2007-11-22T04:30:02+00:00" data-subject="Maps">
 
 Anyone know what Corum used to make this lovely map?
 
@@ -18,31 +18,31 @@ Anyone know what Corum used to make this lovely map?
 
 </div>
 
-<div class="post" data-post-id="21366" data-author="Yasik" data-date="2007-11-22T04:37:23+00:00">
+<div class="post" data-post-id="21366" data-author="Yasik" data-date="2007-11-22T04:37:23+00:00" data-subject="">
 
 pen and paper
 
 </div>
 
-<div class="post" data-post-id="21368" data-author="Weasel" data-date="2007-11-22T05:00:00+00:00">
+<div class="post" data-post-id="21368" data-author="Weasel" data-date="2007-11-22T05:00:00+00:00" data-subject="">
 
 dunno.. I know there are font sets you can download (if you find the right search term on google) that are actually mapping pieces, which you can then use in programs like photoshop to make sweet maps. I had a couple of different ones, but seem to have misplaced them last time I formatted my hard drive (do it every few months or so)..
 
 </div>
 
-<div class="post" data-post-id="21370" data-author="Teron" data-date="2007-11-22T08:51:02+00:00">
+<div class="post" data-post-id="21370" data-author="Teron" data-date="2007-11-22T08:51:02+00:00" data-subject="">
 
 I think it's PowerPoint. I used it to create Ravenloft/Ether planes maps myself.
 
 </div>
 
-<div class="post" data-post-id="21371" data-author="tincts" data-date="2007-11-22T12:29:54+00:00">
+<div class="post" data-post-id="21371" data-author="tincts" data-date="2007-11-22T12:29:54+00:00" data-subject="">
 
 G'day Jez :) Welcome back mate.
 
 </div>
 
-<div class="post" data-post-id="21375" data-author="Assirian" data-date="2007-11-22T17:33:10+00:00">
+<div class="post" data-post-id="21375" data-author="Assirian" data-date="2007-11-22T17:33:10+00:00" data-subject="">
 
 I bet on mspaint 8)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="29186" data-author="angel" data-date="2009-05-16T21:29:18+00:00">
+<div class="post" data-post-id="29186" data-author="angel" data-date="2009-05-16T21:29:18+00:00" data-subject="^^">
 
 Jc says:
 
@@ -96,7 +96,7 @@ Stratos says:
 
 </div>
 
-<div class="post" data-post-id="29187" data-author="Widow" data-date="2009-05-16T21:32:27+00:00">
+<div class="post" data-post-id="29187" data-author="Widow" data-date="2009-05-16T21:32:27+00:00" data-subject="">
 
 That's how I pictured the conversation in my mind.
 
@@ -104,19 +104,19 @@ Widow/Stratos
 
 </div>
 
-<div class="post" data-post-id="29188" data-author="*Splork*" data-date="2009-05-16T21:33:38+00:00">
+<div class="post" data-post-id="29188" data-author="*Splork*" data-date="2009-05-16T21:33:38+00:00" data-subject="">
 
 Who is Sa?
 
 </div>
 
-<div class="post" data-post-id="29189" data-author="angel" data-date="2009-05-16T21:33:57+00:00">
+<div class="post" data-post-id="29189" data-author="angel" data-date="2009-05-16T21:33:57+00:00" data-subject="">
 
 sometime ponder on immortal brain mechanisms.. haha
 
 </div>
 
-<div class="post" data-post-id="29190" data-author="Thraxas" data-date="2009-05-16T21:46:13+00:00">
+<div class="post" data-post-id="29190" data-author="Thraxas" data-date="2009-05-16T21:46:13+00:00" data-subject="">
 
 Who is Sa?[/quote:qtiomgvp]
 
@@ -124,7 +124,7 @@ a legend in his own mind
 
 </div>
 
-<div class="post" data-post-id="29195" data-author="Toxis" data-date="2009-05-17T06:36:47+00:00">
+<div class="post" data-post-id="29195" data-author="Toxis" data-date="2009-05-17T06:36:47+00:00" data-subject="">
 
 You know, it's Josh's (Sa) big ass head that makes people dislike him.  I spent so much time building and helping imms and doing other things and Sa thinks I never wanted to challenge him cuz he's so perfect?  Anyone can write bot scripts and sleep while the other leads.  Don't talk trash about me unless you really want to throw down because I also played 10 different characters.  You could never do what I put into my characters.
 
@@ -136,7 +136,7 @@ You don't see Sa playing now anyway, do you?  Because he burnt out like  a match
 
 </div>
 
-<div class="post" data-post-id="29196" data-author="Gimlet" data-date="2009-05-17T12:26:32+00:00">
+<div class="post" data-post-id="29196" data-author="Gimlet" data-date="2009-05-17T12:26:32+00:00" data-subject="">
 
 amen...brad
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39727" data-author="Gorka" data-date="2021-05-30T14:24:44+00:00">
+<div class="post" data-post-id="39727" data-author="Gorka" data-date="2021-05-30T14:24:44+00:00" data-subject="Sloth RND isn&#x27;t streaky... Change My Mind...">
 
 Gem's from this morning...
 
@@ -35,7 +35,7 @@ Gem's from this morning...
 
 </div>
 
-<div class="post" data-post-id="39899" data-author="Gorka" data-date="2022-03-30T21:01:33+00:00">
+<div class="post" data-post-id="39899" data-author="Gorka" data-date="2022-03-30T21:01:33+00:00" data-subject="Re: Sloth RND isn&#x27;t streaky... Change My Mind...">
 
 You deposit a Quartz in the vault.
 

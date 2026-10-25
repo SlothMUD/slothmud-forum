@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="14610" data-author="*Splork*" data-date="2006-10-11T21:01:49+00:00">
+<div class="post" data-post-id="14610" data-author="*Splork*" data-date="2006-10-11T21:01:49+00:00" data-subject="Builder&#x27;s port">
 
 We have room for one more builder on our builder's port. Those interested should speak to Akasha, Clink, or myself online or via email.
 

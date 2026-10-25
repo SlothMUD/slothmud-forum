@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35615" data-author="*juggleblood*" data-date="2015-01-05T18:10:27+00:00">
+<div class="post" data-post-id="35615" data-author="*juggleblood*" data-date="2015-01-05T18:10:27+00:00" data-subject="Persephone Food Bag Fixed">
 
 Food from Persephone's bag left on ground was incidentally poisoning anyone in room who ate anything at all. This is resolved. Also the food will only persist for 30 seconds left on ground so as not to poison unwary travelers.
 

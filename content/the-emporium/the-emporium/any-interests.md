@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="9025" data-author="Poolp" data-date="2005-10-13T05:56:12+00:00">
+<div class="post" data-post-id="9025" data-author="Poolp" data-date="2005-10-13T05:56:12+00:00" data-subject="Any interests?">
 
 Poolp (level: 39)
 
@@ -42,13 +42,13 @@ Anyone need a pthief char? 18 dex and 18/84 with str spell is fantastic for pthi
 
 </div>
 
-<div class="post" data-post-id="9026" data-author="Poolp" data-date="2005-10-13T06:00:08+00:00">
+<div class="post" data-post-id="9026" data-author="Poolp" data-date="2005-10-13T06:00:08+00:00" data-subject="">
 
 Sorry, forgot to include, if anyone's interested in woven strands of silk webbing or a tooled dwarven brace, let me know as well. Thanks.
 
 </div>
 
-<div class="post" data-post-id="9029" data-author="Poolp" data-date="2005-10-13T11:05:48+00:00">
+<div class="post" data-post-id="9029" data-author="Poolp" data-date="2005-10-13T11:05:48+00:00" data-subject="">
 
 New batch of stuff:
 
@@ -62,7 +62,7 @@ Not sure how much these actually are but I'll keep em' and consider all offers. 
 
 </div>
 
-<div class="post" data-post-id="9034" data-author="mudder" data-date="2005-10-13T12:56:13+00:00">
+<div class="post" data-post-id="9034" data-author="mudder" data-date="2005-10-13T12:56:13+00:00" data-subject="Re: Any interests?">
 
 Anyone need a pthief char? ... [/quote:1uheqfpn]
 
@@ -70,7 +70,7 @@ How about I steal your char ?
 
 </div>
 
-<div class="post" data-post-id="9048" data-author="Poolp" data-date="2005-10-14T04:28:08+00:00">
+<div class="post" data-post-id="9048" data-author="Poolp" data-date="2005-10-14T04:28:08+00:00" data-subject="Re: Any interests?">
 
 Anyone need a pthief char? ... [/quote:24e9zp0a]
 
@@ -80,7 +80,7 @@ You're welcome to try.
 
 </div>
 
-<div class="post" data-post-id="9082" data-author="Poolp" data-date="2005-10-19T04:58:35+00:00">
+<div class="post" data-post-id="9082" data-author="Poolp" data-date="2005-10-19T04:58:35+00:00" data-subject="">
 
 Updated list:
 
@@ -110,7 +110,7 @@ Purple minidemon brooch
 
 </div>
 
-<div class="post" data-post-id="9085" data-author="Gnu" data-date="2005-10-19T18:47:42+00:00">
+<div class="post" data-post-id="9085" data-author="Gnu" data-date="2005-10-19T18:47:42+00:00" data-subject="">
 
 Many ppl want to know what do pthiefs do with eq, they stole... hm... now we can see it...
 
@@ -118,13 +118,13 @@ Many ppl want to know what do pthiefs do with eq, they stole... hm... now we can
 
 </div>
 
-<div class="post" data-post-id="9086" data-author="13" data-date="2005-10-19T19:44:28+00:00">
+<div class="post" data-post-id="9086" data-author="13" data-date="2005-10-19T19:44:28+00:00" data-subject="">
 
 those are Medios' boots.
 
 </div>
 
-<div class="post" data-post-id="9088" data-author="Medios" data-date="2005-10-20T02:22:19+00:00">
+<div class="post" data-post-id="9088" data-author="Medios" data-date="2005-10-20T02:22:19+00:00" data-subject="">
 
 I got a pair of 8 eye dr martens just like that.  No rats tho.
 
@@ -132,7 +132,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="9089" data-author="Vixn" data-date="2005-10-20T04:38:22+00:00">
+<div class="post" data-post-id="9089" data-author="Vixn" data-date="2005-10-20T04:38:22+00:00" data-subject="">
 
 Hela, Mike, the Oldest Viking.. with Martens! :)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33950" data-author="*Splork*" data-date="2013-01-29T01:13:08+00:00">
+<div class="post" data-post-id="33950" data-author="*Splork*" data-date="2013-01-29T01:13:08+00:00" data-subject="Druid Reform!">
 
 1) Increased learn percentage of Rapid Shift
 

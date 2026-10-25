@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="12755" data-author="madmax" data-date="2006-05-28T03:51:43+00:00">
+<div class="post" data-post-id="12755" data-author="madmax" data-date="2006-05-28T03:51:43+00:00" data-subject="Blaster Greed Quest Details Round 2 --- Thanks Blaster!!">
 
 Another Blaster greed quest:
 
@@ -198,7 +198,7 @@ Keep'em Coming Blaster!
 
 </div>
 
-<div class="post" data-post-id="12776" data-author="jezer" data-date="2006-05-29T00:32:37+00:00">
+<div class="post" data-post-id="12776" data-author="jezer" data-date="2006-05-29T00:32:37+00:00" data-subject="">
 
 :shock: 
 
@@ -206,13 +206,13 @@ I didn't get any drachma?
 
 </div>
 
-<div class="post" data-post-id="12777" data-author="jezer" data-date="2006-05-29T00:35:04+00:00">
+<div class="post" data-post-id="12777" data-author="jezer" data-date="2006-05-29T00:35:04+00:00" data-subject="">
 
 Oh, what does "logged on" mean?  :?
 
 </div>
 
-<div class="post" data-post-id="12887" data-author="Yasik" data-date="2006-06-04T21:46:26+00:00">
+<div class="post" data-post-id="12887" data-author="Yasik" data-date="2006-06-04T21:46:26+00:00" data-subject="">
 
 FB was tanking in regen mode, as usual?
 
@@ -222,7 +222,7 @@ if yo read this please contact me, i have something to tell ya
 
 </div>
 
-<div class="post" data-post-id="12888" data-author="Elsie" data-date="2006-06-05T14:46:49+00:00">
+<div class="post" data-post-id="12888" data-author="Elsie" data-date="2006-06-05T14:46:49+00:00" data-subject="">
 
 I didn't get any drachma either :(
 

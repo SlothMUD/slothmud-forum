@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37489" data-author="Teron" data-date="2016-10-31T12:41:10+00:00">
+<div class="post" data-post-id="37489" data-author="Teron" data-date="2016-10-31T12:41:10+00:00" data-subject="Halloween 2016 Quest Round Up">
 
 Hello.
 

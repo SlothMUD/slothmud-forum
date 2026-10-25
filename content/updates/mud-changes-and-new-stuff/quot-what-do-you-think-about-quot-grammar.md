@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32679" data-author="*Isabo*" data-date="2011-06-12T16:52:57+00:00">
+<div class="post" data-post-id="32679" data-author="*Isabo*" data-date="2011-06-12T16:52:57+00:00" data-subject="&amp;quot;What do you think about ...&amp;quot; grammar">
 
 Greeting mortals.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 31
 ---
 
-<div class="post" data-post-id="26081" data-author="jezer" data-date="2008-09-02T10:04:48+00:00">
+<div class="post" data-post-id="26081" data-author="jezer" data-date="2008-09-02T10:04:48+00:00" data-subject="The New Changes To Druid">
 
 Judge has been working hard on fixing some of the druid problems it seems. I have both good and bad news to report... Please update this thread as you find stuff...
 
@@ -36,13 +36,13 @@ The new hp's and dam is awesome, but the having to heal after unshifting is defi
 
 </div>
 
-<div class="post" data-post-id="26082" data-author="jezer" data-date="2008-09-02T10:09:13+00:00">
+<div class="post" data-post-id="26082" data-author="jezer" data-date="2008-09-02T10:09:13+00:00" data-subject="">
 
 Before the changes when you used to sacrifice for a supplicant and then shift the supplicant would never come and the God would be displeased. That seems to be fixed.
 
 </div>
 
-<div class="post" data-post-id="26083" data-author="jezer" data-date="2008-09-02T10:41:01+00:00">
+<div class="post" data-post-id="26083" data-author="jezer" data-date="2008-09-02T10:41:01+00:00" data-subject="">
 
 With the +4dam to phoenix +5 to hit when shifted has also seemingly been added on.
 
@@ -60,7 +60,7 @@ Apparently the troubles with cobra form have been fixed.
 
 </div>
 
-<div class="post" data-post-id="26085" data-author="Stryx" data-date="2008-09-02T11:44:33+00:00">
+<div class="post" data-post-id="26085" data-author="Stryx" data-date="2008-09-02T11:44:33+00:00" data-subject="">
 
 [quote:68sz53tj]The biggest change however, is that returning back to human form when I was shifted phoenix, does not return me near full human health[/quote:68sz53tj]
 
@@ -74,7 +74,7 @@ Gonna have to see if i can drown my Sea dragon, unless thats been fixed too.
 
 </div>
 
-<div class="post" data-post-id="26088" data-author="jezer" data-date="2008-09-02T12:26:54+00:00">
+<div class="post" data-post-id="26088" data-author="jezer" data-date="2008-09-02T12:26:54+00:00" data-subject="">
 
 Apparently something about shifting and temp items is fixed.
 
@@ -94,13 +94,13 @@ A huge thanks to Judge, who has single handedly wiped out probably 20 or so drui
 
 </div>
 
-<div class="post" data-post-id="26093" data-author="alias" data-date="2008-09-02T17:02:27+00:00">
+<div class="post" data-post-id="26093" data-author="alias" data-date="2008-09-02T17:02:27+00:00" data-subject="">
 
 question.....when shifting back to human form you are displeased that your human form is not full? is this when your shifted form is full or when you shifted form is hurt?
 
 </div>
 
-<div class="post" data-post-id="26094" data-author="Stryx" data-date="2008-09-02T17:27:08+00:00">
+<div class="post" data-post-id="26094" data-author="Stryx" data-date="2008-09-02T17:27:08+00:00" data-subject="">
 
 To Alias... it seems that shifting back to human, when form is hurt, relates in % to how much human form is hurt.
 
@@ -112,7 +112,7 @@ The bug before would allow a 700hp remaing piasa, to shift back to human form wi
 
 </div>
 
-<div class="post" data-post-id="26105" data-author="Yinao" data-date="2008-09-02T21:32:51+00:00">
+<div class="post" data-post-id="26105" data-author="Yinao" data-date="2008-09-02T21:32:51+00:00" data-subject="">
 
 prac rescue
 
@@ -270,13 +270,13 @@ Can we make this useful too!? :)
 
 </div>
 
-<div class="post" data-post-id="26106" data-author="Weasel" data-date="2008-09-02T21:38:53+00:00">
+<div class="post" data-post-id="26106" data-author="Weasel" data-date="2008-09-02T21:38:53+00:00" data-subject="">
 
 No, you cannot have your cake and eat it too. :twisted:
 
 </div>
 
-<div class="post" data-post-id="26109" data-author="jezer" data-date="2008-09-02T23:51:46+00:00">
+<div class="post" data-post-id="26109" data-author="jezer" data-date="2008-09-02T23:51:46+00:00" data-subject="">
 
 No, you cannot have your cake and eat it too. :twisted:[/quote:3vh84afk]
 
@@ -284,19 +284,19 @@ Back in ya hole ya vermin! This r drooid thread!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="26110" data-author="Weasel" data-date="2008-09-03T00:04:03+00:00">
+<div class="post" data-post-id="26110" data-author="Weasel" data-date="2008-09-03T00:04:03+00:00" data-subject="">
 
 :!:  :P
 
 </div>
 
-<div class="post" data-post-id="26118" data-author="Rynquald" data-date="2008-09-03T05:30:18+00:00">
+<div class="post" data-post-id="26118" data-author="Rynquald" data-date="2008-09-03T05:30:18+00:00" data-subject="">
 
 Thanks for the changes, nice boost to piasa.
 
 </div>
 
-<div class="post" data-post-id="26181" data-author="jezer" data-date="2008-09-07T04:31:35+00:00">
+<div class="post" data-post-id="26181" data-author="jezer" data-date="2008-09-07T04:31:35+00:00" data-subject="">
 
 It seems ferret has been changed a bit, it now seems to get wounded by rooms procs etc....
 
@@ -322,13 +322,13 @@ Also when I die, the weight of my robe goes from about 8 to 277. Renting seems t
 
 </div>
 
-<div class="post" data-post-id="26189" data-author="Rynquald" data-date="2008-09-08T05:54:28+00:00">
+<div class="post" data-post-id="26189" data-author="Rynquald" data-date="2008-09-08T05:54:28+00:00" data-subject="">
 
 It doesn't really make sense that mobs would use stream attacks against ferrets when they don't (for the most part) attack them when they're in the same room.
 
 </div>
 
-<div class="post" data-post-id="26193" data-author="jezer" data-date="2008-09-08T11:33:21+00:00">
+<div class="post" data-post-id="26193" data-author="jezer" data-date="2008-09-08T11:33:21+00:00" data-subject="">
 
 Apparently ferret not going to be fixed to stop darts and lightning... but a secret voice told me to try sparrow...
 
@@ -336,7 +336,7 @@ So someone else can try that... and let me know if they corpse...  :twisted:
 
 </div>
 
-<div class="post" data-post-id="26194" data-author="jezer" data-date="2008-09-08T12:46:49+00:00">
+<div class="post" data-post-id="26194" data-author="jezer" data-date="2008-09-08T12:46:49+00:00" data-subject="">
 
 Turn in the trail
 
@@ -372,7 +372,7 @@ Oh and BTW, I might have relo now, but I still don't know 75% of areas all that 
 
 </div>
 
-<div class="post" data-post-id="26195" data-author="Mosaix" data-date="2008-09-08T13:58:58+00:00">
+<div class="post" data-post-id="26195" data-author="Mosaix" data-date="2008-09-08T13:58:58+00:00" data-subject="">
 
 First of all I am always grateful when from time to time I need a rescue by a ferret style individual.
 
@@ -382,7 +382,7 @@ I guess it makes the game more challenging/interesting.
 
 </div>
 
-<div class="post" data-post-id="26196" data-author="Stryx" data-date="2008-09-08T14:30:51+00:00">
+<div class="post" data-post-id="26196" data-author="Stryx" data-date="2008-09-08T14:30:51+00:00" data-subject="">
 
 Are we going back to realism again, in this fantasy game?
 
@@ -394,31 +394,31 @@ As for making the game more interesting/challenging, shapeshift piasa works pret
 
 </div>
 
-<div class="post" data-post-id="26197" data-author="Mosaix" data-date="2008-09-08T14:53:33+00:00">
+<div class="post" data-post-id="26197" data-author="Mosaix" data-date="2008-09-08T14:53:33+00:00" data-subject="">
 
 Then request to make ferret ethereal and enjoy the fantasy.
 
 </div>
 
-<div class="post" data-post-id="26198" data-author="Weasel" data-date="2008-09-08T17:20:52+00:00">
+<div class="post" data-post-id="26198" data-author="Weasel" data-date="2008-09-08T17:20:52+00:00" data-subject="">
 
 Can I be perma-ethereal too? I'm ferret's cousin after all.  :D
 
 </div>
 
-<div class="post" data-post-id="26199" data-author="Mosaix" data-date="2008-09-08T17:55:46+00:00">
+<div class="post" data-post-id="26199" data-author="Mosaix" data-date="2008-09-08T17:55:46+00:00" data-subject="">
 
 Weasels now get perm wraithform :) !
 
 </div>
 
-<div class="post" data-post-id="26200" data-author="Medios" data-date="2008-09-08T20:07:37+00:00">
+<div class="post" data-post-id="26200" data-author="Medios" data-date="2008-09-08T20:07:37+00:00" data-subject="">
 
 Chrissy helped me kill some raid mobs the other day and I noticed she did not receive any honor for the kills.  She was shifted and I was tanking.  I received honor and she did not.
 
 </div>
 
-<div class="post" data-post-id="26201" data-author="Weasel" data-date="2008-09-08T21:17:01+00:00">
+<div class="post" data-post-id="26201" data-author="Weasel" data-date="2008-09-08T21:17:01+00:00" data-subject="">
 
 Weasels now get perm wraithform :) ![/quote:3rpurb5i]
 
@@ -426,7 +426,7 @@ awesome!
 
 </div>
 
-<div class="post" data-post-id="26202" data-author="jezer" data-date="2008-09-08T23:52:03+00:00">
+<div class="post" data-post-id="26202" data-author="jezer" data-date="2008-09-08T23:52:03+00:00" data-subject="">
 
 To Medios...
 
@@ -446,7 +446,7 @@ I used to have the perception that I could explore the world safely in ferret...
 
 </div>
 
-<div class="post" data-post-id="26203" data-author="jezer" data-date="2008-09-09T00:06:50+00:00">
+<div class="post" data-post-id="26203" data-author="jezer" data-date="2008-09-09T00:06:50+00:00" data-subject="">
 
 Hmm, I gotta a new form Suggestion to combat some of the problems...
 
@@ -464,7 +464,7 @@ But then again, too much in common with weasel form! :twisted:
 
 </div>
 
-<div class="post" data-post-id="26206" data-author="Weasel" data-date="2008-09-09T02:01:30+00:00">
+<div class="post" data-post-id="26206" data-author="Weasel" data-date="2008-09-09T02:01:30+00:00" data-subject="">
 
 Hmm, I gotta a new form Suggestion to combat some of the problems...
 
@@ -486,7 +486,7 @@ That's a lie!
 
 </div>
 
-<div class="post" data-post-id="26631" data-author="jezer" data-date="2008-10-09T23:42:58+00:00">
+<div class="post" data-post-id="26631" data-author="jezer" data-date="2008-10-09T23:42:58+00:00" data-subject="">
 
 Judge shape shifted me into two new forms last night... One of wish crashed the mud I think... heh
 
@@ -498,13 +498,13 @@ The other form was about half the size, 150hp and had fly and dark sight If I re
 
 </div>
 
-<div class="post" data-post-id="26632" data-author="*juggleblood*" data-date="2008-10-10T02:03:55+00:00">
+<div class="post" data-post-id="26632" data-author="*juggleblood*" data-date="2008-10-10T02:03:55+00:00" data-subject="">
 
 awesome, being a noob druid prime is tha worst
 
 </div>
 
-<div class="post" data-post-id="26635" data-author="Roadrunr" data-date="2008-10-10T23:18:05+00:00">
+<div class="post" data-post-id="26635" data-author="Roadrunr" data-date="2008-10-10T23:18:05+00:00" data-subject="">
 
 Judge shape shifted me into two new forms last night... One of wish crashed the mud I think... heh
 
@@ -518,13 +518,13 @@ druids may start painfully slow but they end very well, no need for druids to ha
 
 </div>
 
-<div class="post" data-post-id="26677" data-author="Widow" data-date="2008-10-13T17:28:55+00:00">
+<div class="post" data-post-id="26677" data-author="Widow" data-date="2008-10-13T17:28:55+00:00" data-subject="">
 
 Actually - I started a thief/mage and ... frankly it's been pretty easy on VK - all things considered.
 
 </div>
 
-<div class="post" data-post-id="26678" data-author="13" data-date="2008-10-13T21:58:51+00:00">
+<div class="post" data-post-id="26678" data-author="13" data-date="2008-10-13T21:58:51+00:00" data-subject="">
 
 druids are badass joe
 

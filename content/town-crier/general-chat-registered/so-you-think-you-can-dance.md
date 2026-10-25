@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="13480" data-author="Mystery" data-date="2006-07-16T10:44:08+00:00">
+<div class="post" data-post-id="13480" data-author="Mystery" data-date="2006-07-16T10:44:08+00:00" data-subject="So you think you can dance">
 
 As most of you know, I 'outed' Auto sometime back for his abscences being due to the TV show 'So you think you can dance'....  I now offer video proof and give this as a word of advice to my dear friend Auto...stick to pirating
 
@@ -20,7 +20,7 @@ As most of you know, I 'outed' Auto sometime back for his abscences being due to
 
 </div>
 
-<div class="post" data-post-id="13481" data-author="osric" data-date="2006-07-16T12:12:40+00:00">
+<div class="post" data-post-id="13481" data-author="osric" data-date="2006-07-16T12:12:40+00:00" data-subject="">
 
 That really does explain a lot! :)
 

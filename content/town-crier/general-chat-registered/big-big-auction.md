@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="9132" data-author="brady" data-date="2005-10-24T15:28:47+00:00">
+<div class="post" data-post-id="9132" data-author="brady" data-date="2005-10-24T15:28:47+00:00" data-subject="Big, Big Auction">
 
 After giving it a lot of consideration, I have decided to take an indefinite break from Brady.  Iâ€™ve spent the vast majority of the past year sitting right here where I am now.  That was okay because, truthfully, I really needed a break from life.  Now I think itâ€™s time for me to get back to it.  The temptation to get sucked back in to 12 hour Sloth shifts is one that I donâ€™t want.  So, that being said, I have decided to keep Brady under my management and sell of his non-personal eq, piece by piece.  I will take the dive back into real life, Pirates will get a new home and hopefully each of you will get some benefit from the time I spent gathering my eq.  So Wednesday at 9:00est will be the time.  Oh and this is going take awhile so deposits will need to be made within 1-2 minutes of the auction or your item will go to the next highest bidder.
 
@@ -122,7 +122,7 @@ etc, haven't checked the lyme vault yet.
 
 </div>
 
-<div class="post" data-post-id="9137" data-author="Leaf" data-date="2005-10-24T16:39:22+00:00">
+<div class="post" data-post-id="9137" data-author="Leaf" data-date="2005-10-24T16:39:22+00:00" data-subject="">
 
 Sorry to see u go Brady.
 
@@ -138,7 +138,7 @@ with 1-2 mins.
 
 </div>
 
-<div class="post" data-post-id="9138" data-author="Weasel" data-date="2005-10-24T16:40:26+00:00">
+<div class="post" data-post-id="9138" data-author="Weasel" data-date="2005-10-24T16:40:26+00:00" data-subject="">
 
 *ack* sorry to see you go, but you'll be back, you know it. *grin*
 
@@ -148,19 +148,19 @@ cheers :)
 
 </div>
 
-<div class="post" data-post-id="9147" data-author="brady" data-date="2005-10-25T00:16:35+00:00">
+<div class="post" data-post-id="9147" data-author="brady" data-date="2005-10-25T00:16:35+00:00" data-subject="">
 
 Sorry, turns out I'll be working late on Wednesday.  It will have to be 9pm on Thursday and that's Eastern Standard.  If you can't be on then, you can send silent auction to marcjgrantsd@aol.com and if you win, I'll ship your items with fees.
 
 </div>
 
-<div class="post" data-post-id="9151" data-author="brady" data-date="2005-10-25T02:35:37+00:00">
+<div class="post" data-post-id="9151" data-author="brady" data-date="2005-10-25T02:35:37+00:00" data-subject="">
 
 Okay, so if you send me a silent auction and it is the highest bid, i will take the live bid and add 10%.  thanks for pointing that out.
 
 </div>
 
-<div class="post" data-post-id="9152" data-author="Bazilus" data-date="2005-10-25T04:31:22+00:00">
+<div class="post" data-post-id="9152" data-author="Bazilus" data-date="2005-10-25T04:31:22+00:00" data-subject="">
 
 dull, dead gem is personal item...
 
@@ -168,13 +168,13 @@ cya online :)
 
 </div>
 
-<div class="post" data-post-id="9161" data-author="bubba" data-date="2005-10-25T15:40:45+00:00">
+<div class="post" data-post-id="9161" data-author="bubba" data-date="2005-10-25T15:40:45+00:00" data-subject="">
 
 What are the onyx necklace of demons?  I didn't seem to find them on the eq list (or I'm blind).
 
 </div>
 
-<div class="post" data-post-id="9163" data-author="13" data-date="2005-10-25T15:51:50+00:00">
+<div class="post" data-post-id="9163" data-author="13" data-date="2005-10-25T15:51:50+00:00" data-subject="">
 
 Brady keep the shit man, if you just cycled for coins it would take less
 
@@ -196,7 +196,7 @@ Aaron the Mercurial
 
 </div>
 
-<div class="post" data-post-id="9165" data-author="Axtrel" data-date="2005-10-25T16:41:55+00:00">
+<div class="post" data-post-id="9165" data-author="Axtrel" data-date="2005-10-25T16:41:55+00:00" data-subject="">
 
 The Onyx Necklace of Demons is -0.1 and +20 mana plus performs a special feature in the Shadow Realm (like a trigtrap in a certain room).  The eq loads on the nightwalker in the Shadow Realm.  There is also a note in the area that gives clues about the necklace's special feature.  I'll submit it to the eqlist once I check the restricts on it.
 
@@ -206,7 +206,7 @@ On a side note...there is an invisible portal in the room with this nightwalker 
 
 </div>
 
-<div class="post" data-post-id="9166" data-author="Grue" data-date="2005-10-25T17:04:58+00:00">
+<div class="post" data-post-id="9166" data-author="Grue" data-date="2005-10-25T17:04:58+00:00" data-subject="">
 
 I have to say I agree, don't sell anything. You'll end up giving stuff away for silly prices, and regret it later. Ask one of the immortals to password the char and wrap it with an isntruction at your request not to unpassword until a given date even if you ask :) 
 
@@ -214,7 +214,7 @@ Seriously, don't do it unless you are seriously intending to quit for good, and 
 
 </div>
 
-<div class="post" data-post-id="9209" data-author="brady" data-date="2005-10-27T03:16:51+00:00">
+<div class="post" data-post-id="9209" data-author="brady" data-date="2005-10-27T03:16:51+00:00" data-subject="">
 
 Okay, so I'm a flipper.  See you all in 2006.  Thanks you all for the sage advice.  
 
@@ -224,13 +224,13 @@ Brady
 
 </div>
 
-<div class="post" data-post-id="9210" data-author="Krok" data-date="2005-10-27T04:28:30+00:00">
+<div class="post" data-post-id="9210" data-author="Krok" data-date="2005-10-27T04:28:30+00:00" data-subject="">
 
 I'm glad you have changed your mind. Cya later.
 
 </div>
 
-<div class="post" data-post-id="9212" data-author="markg" data-date="2005-10-27T08:41:03+00:00">
+<div class="post" data-post-id="9212" data-author="markg" data-date="2005-10-27T08:41:03+00:00" data-subject="">
 
 *waves* brady
 
@@ -238,25 +238,25 @@ I'm glad you have changed your mind. Cya later.
 
 </div>
 
-<div class="post" data-post-id="9213" data-author="Bazilus" data-date="2005-10-27T10:30:57+00:00">
+<div class="post" data-post-id="9213" data-author="Bazilus" data-date="2005-10-27T10:30:57+00:00" data-subject="">
 
 nod, cya Brady
 
 </div>
 
-<div class="post" data-post-id="9214" data-author="12345" data-date="2005-10-27T10:38:00+00:00">
+<div class="post" data-post-id="9214" data-author="12345" data-date="2005-10-27T10:38:00+00:00" data-subject="">
 
 Take it easy bro. We'll miss ya.  :cry:
 
 </div>
 
-<div class="post" data-post-id="9216" data-author="13" data-date="2005-10-27T11:11:18+00:00">
+<div class="post" data-post-id="9216" data-author="13" data-date="2005-10-27T11:11:18+00:00" data-subject="">
 
 [http://tabmok99.mortalkombatonline.com/stfu.jpg](http://tabmok99.mortalkombatonline.com/stfu.jpg)
 
 </div>
 
-<div class="post" data-post-id="9217" data-author="brand" data-date="2005-10-27T12:05:41+00:00">
+<div class="post" data-post-id="9217" data-author="brand" data-date="2005-10-27T12:05:41+00:00" data-subject="">
 
 with all the cya laters and such, don't forget about me, i'll always be here to buy your eq for far less then you or anyone would feel it's worth.
 
@@ -264,13 +264,13 @@ brand :twisted:
 
 </div>
 
-<div class="post" data-post-id="9252" data-author="brady" data-date="2005-10-27T21:37:19+00:00">
+<div class="post" data-post-id="9252" data-author="brady" data-date="2005-10-27T21:37:19+00:00" data-subject="">
 
 LMFAO!!  Aa, you are retarded.  AND USTFU3.
 
 </div>
 
-<div class="post" data-post-id="9256" data-author="Autolycos" data-date="2005-10-27T23:52:49+00:00">
+<div class="post" data-post-id="9256" data-author="Autolycos" data-date="2005-10-27T23:52:49+00:00" data-subject="">
 
 Gawd Brady...  STFU4!   :twisted: 
 

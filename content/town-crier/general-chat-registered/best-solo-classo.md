@@ -10,7 +10,7 @@ locked: false
 post_count: 25
 ---
 
-<div class="post" data-post-id="8778" data-author="Nothing" data-date="2005-09-22T14:56:04+00:00">
+<div class="post" data-post-id="8778" data-author="Nothing" data-date="2005-09-22T14:56:04+00:00" data-subject="best solo classo?">
 
 I'm wondering, based on the experiences you have, what is the best solo classo, in your opinion?  The majority of the daytime hours I spend here are from work so I tend to not be the optimal group mate at those times.  My time at home is usually limited to a few hours a day, a few times per week.  Currently this char is Dr/Ma/Cl/Mo.  While I do like this char I'm not sure that I would describe it as a great solo char.  Also by solo I mean in life outside of VK(in lvls above and beyond 20, not just getting up to lvl 20).  I know, someone is going to say it depends on your play style and where you xp and so on and so forth.  All I'm looking for is opinions.  I can toss class combos around in my head all day and think they might be ok, but I just don't know for sure.
 
@@ -18,7 +18,7 @@ Thanks in advance for everyone's input, I'm really interested to see what combin
 
 </div>
 
-<div class="post" data-post-id="8781" data-author="Leaf" data-date="2005-09-22T16:06:07+00:00">
+<div class="post" data-post-id="8781" data-author="Leaf" data-date="2005-09-22T16:06:07+00:00" data-subject="">
 
 There isn't a "Best Solo".  However from what I've seen Necro/Druid make
 
@@ -28,7 +28,7 @@ depends on how u play.
 
 </div>
 
-<div class="post" data-post-id="8782" data-author="12345" data-date="2005-09-22T16:09:29+00:00">
+<div class="post" data-post-id="8782" data-author="12345" data-date="2005-09-22T16:09:29+00:00" data-subject="">
 
 Some popular ones...
 
@@ -44,7 +44,7 @@ Druid - Lower levels suck until you're high enough to have decent forms, but you
 
 </div>
 
-<div class="post" data-post-id="8783" data-author="Alberich" data-date="2005-09-22T16:22:50+00:00">
+<div class="post" data-post-id="8783" data-author="Alberich" data-date="2005-09-22T16:22:50+00:00" data-subject="">
 
 Personally, for just hopping on and running a few mil coins while I drink a beer before bed, I like my th/ma alot.
 
@@ -58,7 +58,7 @@ Bards also seem to be some pretty powerful solo chars depending on sec class, bu
 
 </div>
 
-<div class="post" data-post-id="8784" data-author="Avatar" data-date="2005-09-22T17:26:50+00:00">
+<div class="post" data-post-id="8784" data-author="Avatar" data-date="2005-09-22T17:26:50+00:00" data-subject="Solo chars">
 
 I'll go ahead and chime in.  If you're afkish, ne/dr might not be very fun to solo with.  The undeads (other than Juju) don't last very long (2 runs or so) plus you have to pay attention to alignment and you have to hit areas with corpses to make the better undeads, which might not be the best xp around.  Also, while shifting with undeads is an effective plan, it gets quite annoying...added lag while shifted, shifting itself causes lag, you can't embalm new corpses while shifted.  It definitely can be effective, but I wouldn't say it's fun in the long term.
 
@@ -66,13 +66,13 @@ I've always considered caster/warrior to be effective solo.  If you get some luc
 
 </div>
 
-<div class="post" data-post-id="8785" data-author="13" data-date="2005-09-22T18:45:51+00:00">
+<div class="post" data-post-id="8785" data-author="13" data-date="2005-09-22T18:45:51+00:00" data-subject="">
 
 ne/ba/cl/mo I would make if I was making a brand new solo character.
 
 </div>
 
-<div class="post" data-post-id="8787" data-author="12345" data-date="2005-09-22T19:03:06+00:00">
+<div class="post" data-post-id="8787" data-author="12345" data-date="2005-09-22T19:03:06+00:00" data-subject="">
 
 ne/ba/cl/mo I would make if I was making a brand new solo character.[/quote:2q7j4j3v]
 
@@ -80,19 +80,19 @@ Army of Darkness with gods of war, good healing, stone skin, protect and strike?
 
 </div>
 
-<div class="post" data-post-id="8788" data-author="Nothing" data-date="2005-09-22T20:23:17+00:00">
+<div class="post" data-post-id="8788" data-author="Nothing" data-date="2005-09-22T20:23:17+00:00" data-subject="">
 
 I must say, that sounds very intriguing.  But no mage for blasting, or are necro spells sufficient?  I realize they're not along the lines of firewind, but are they fairly decent?
 
 </div>
 
-<div class="post" data-post-id="8789" data-author="Alberich" data-date="2005-09-22T21:10:47+00:00">
+<div class="post" data-post-id="8789" data-author="Alberich" data-date="2005-09-22T21:10:47+00:00" data-subject="">
 
 with that you'd probably be blasting with bard, cry can do same damage as firewind, just gotta be careful cuz it's an area affect :)
 
 </div>
 
-<div class="post" data-post-id="8790" data-author="Roadrunr" data-date="2005-09-22T21:19:38+00:00">
+<div class="post" data-post-id="8790" data-author="Roadrunr" data-date="2005-09-22T21:19:38+00:00" data-subject="">
 
 It really varies by level.
 
@@ -108,13 +108,13 @@ I think my ma/wa could be as good or better than my wa/cl given equal levels if 
 
 </div>
 
-<div class="post" data-post-id="8793" data-author="13" data-date="2005-09-23T10:17:39+00:00">
+<div class="post" data-post-id="8793" data-author="13" data-date="2005-09-23T10:17:39+00:00" data-subject="">
 
 Minstrel's Cry > Blastem's Wind
 
 </div>
 
-<div class="post" data-post-id="8794" data-author="12345" data-date="2005-09-23T10:35:04+00:00">
+<div class="post" data-post-id="8794" data-author="12345" data-date="2005-09-23T10:35:04+00:00" data-subject="">
 
 Minstrel's Cry > Blastem's Wind[/quote:34zb5lnw]
 
@@ -122,7 +122,7 @@ It's much harder to make a saving throw against a bard.  Cry does cost more than
 
 </div>
 
-<div class="post" data-post-id="8795" data-author="blackmore" data-date="2005-09-23T10:49:18+00:00">
+<div class="post" data-post-id="8795" data-author="blackmore" data-date="2005-09-23T10:49:18+00:00" data-subject="">
 
 There are 2 aspects to being a good solo char - doing lots of damage to mobs, and keeping mobs from doing lots of damage to you.  Every classo has strengths and weaknesses, depending on what mob you want to hit.
 
@@ -146,7 +146,7 @@ Warrior - The problem with warrior is that you rely too much on other classes fo
 
 </div>
 
-<div class="post" data-post-id="8796" data-author="Leaf" data-date="2005-09-23T11:22:31+00:00">
+<div class="post" data-post-id="8796" data-author="Leaf" data-date="2005-09-23T11:22:31+00:00" data-subject="">
 
 Should prob ask Minstrel, but does Cry of Avatar kill your summons?
 
@@ -154,25 +154,25 @@ Like Peris or even Undead summons?
 
 </div>
 
-<div class="post" data-post-id="8797" data-author="13" data-date="2005-09-23T11:25:46+00:00">
+<div class="post" data-post-id="8797" data-author="13" data-date="2005-09-23T11:25:46+00:00" data-subject="">
 
 No it doesn;t hit pets, and with the instrument I think Mike said cry costs him 25 or 22 ?  Plus it deafens people in the arena.
 
 </div>
 
-<div class="post" data-post-id="8798" data-author="blackmore" data-date="2005-09-23T11:33:29+00:00">
+<div class="post" data-post-id="8798" data-author="blackmore" data-date="2005-09-23T11:33:29+00:00" data-subject="">
 
 When you use the viol or better (av 21), cry costs 25 mana.  I think it drops to either 23 or 24 with the shofar at 5x40.  It doesn't hit summons, except for spirit watchers (which is annoying, but I've asked it be changed enough times).  I'm not sure, but it used to be if someone walked in the room with a summon that wasn't grouped with me, I'd hit it, but I can't remember if that's still the case or not - there have been several phases of changes to keep it from hitting summons.
 
 </div>
 
-<div class="post" data-post-id="8799" data-author="13" data-date="2005-09-23T11:37:57+00:00">
+<div class="post" data-post-id="8799" data-author="13" data-date="2005-09-23T11:37:57+00:00" data-subject="">
 
 yeah Bard is for sure solid and I find myself wishing more and more that I had a character with ba in classo.  It's the only new class that I haven't worked with personally yet.
 
 </div>
 
-<div class="post" data-post-id="8800" data-author="Vixn" data-date="2005-09-23T11:49:15+00:00">
+<div class="post" data-post-id="8800" data-author="Vixn" data-date="2005-09-23T11:49:15+00:00" data-subject="">
 
 So, why do you say all blast compare with winds? I guess It's just a habbit. Cry is almost double effective as wind. And what about mass affect of cryes - you know, bard at 36 prime have analog of firestorm, and sure bards have better AC and more hps then mages. If bards want to hit single mob, they use their sing to lurn out mob from the room with other mobs and then kill.
 
@@ -180,13 +180,13 @@ Druids dawnfire is almost double effective as wind too, though it can be used on
 
 </div>
 
-<div class="post" data-post-id="8801" data-author="13" data-date="2005-09-23T12:00:49+00:00">
+<div class="post" data-post-id="8801" data-author="13" data-date="2005-09-23T12:00:49+00:00" data-subject="">
 
 Dawnfire (the spell :}) is a joke.  It may hit hard but who schedules their runs for the morning ?  If it worked during the day, or the first HALF of the day it would be worth having, otherwise I don't see the point.
 
 </div>
 
-<div class="post" data-post-id="8802" data-author="Leaf" data-date="2005-09-23T12:17:37+00:00">
+<div class="post" data-post-id="8802" data-author="Leaf" data-date="2005-09-23T12:17:37+00:00" data-subject="">
 
 Yea that I would have to agree.  A "strong" spell, but can only be used 
 
@@ -196,7 +196,7 @@ BLAH
 
 </div>
 
-<div class="post" data-post-id="8803" data-author="12345" data-date="2005-09-23T12:40:42+00:00">
+<div class="post" data-post-id="8803" data-author="12345" data-date="2005-09-23T12:40:42+00:00" data-subject="">
 
 I think Bard primes are fantastic for grouping and is probably the best leader class just with Bros, Gods, Dreams, Rina, Reign and March.
 
@@ -204,7 +204,7 @@ Bros, Cry and Gods make great support songs for other classes, thieves and necro
 
 </div>
 
-<div class="post" data-post-id="8808" data-author="Gnu" data-date="2005-09-23T15:40:41+00:00">
+<div class="post" data-post-id="8808" data-author="Gnu" data-date="2005-09-23T15:40:41+00:00" data-subject="">
 
 It's not a sicret that bard's song do not affect your leading skills :)
 
@@ -212,13 +212,13 @@ As for bards themselves and their soloing... Bard is a good addition to Necro cl
 
 </div>
 
-<div class="post" data-post-id="8809" data-author="12345" data-date="2005-09-23T15:52:34+00:00">
+<div class="post" data-post-id="8809" data-author="12345" data-date="2005-09-23T15:52:34+00:00" data-subject="">
 
 Never mind... suddenly I understand.
 
 </div>
 
-<div class="post" data-post-id="8810" data-author="blackmore" data-date="2005-09-23T15:55:49+00:00">
+<div class="post" data-post-id="8810" data-author="blackmore" data-date="2005-09-23T15:55:49+00:00" data-subject="">
 
 So, why do you say all blast compare with winds? I guess It's just a habbit. Cry is almost double effective as wind. And what about mass affect of cryes - you know, bard at 36 prime have analog of firestorm, and sure bards have better AC and more hps then mages. If bards want to hit single mob, they use their sing to lurn out mob from the room with other mobs and then kill.[/quote:33eqcqio]
 
@@ -226,7 +226,7 @@ You can't direct eye of the beholder to a specific mob - if the mob is in a room
 
 </div>
 
-<div class="post" data-post-id="8822" data-author="Yasik" data-date="2005-09-25T17:17:44+00:00">
+<div class="post" data-post-id="8822" data-author="Yasik" data-date="2005-09-25T17:17:44+00:00" data-subject="">
 
 Best solo classo is Brain/Time/Perseverance/Low_pings
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="15749" data-author="Avalon" data-date="2006-12-24T16:06:57+00:00">
+<div class="post" data-post-id="15749" data-author="Avalon" data-date="2006-12-24T16:06:57+00:00" data-subject="Dragon Skull Helm (Forge update)">
 
 You recite a scroll of identify which dissolves.
 
@@ -38,13 +38,13 @@ Forge is still the same, just added resist fire and new restricts.  The added re
 
 </div>
 
-<div class="post" data-post-id="15768" data-author="blackmore" data-date="2006-12-26T15:12:53+00:00">
+<div class="post" data-post-id="15768" data-author="blackmore" data-date="2006-12-26T15:12:53+00:00" data-subject="">
 
 Is +1 resist fire correct?  That would mean it would only improve your fire resistance by 1%, which, especially on valk, would mean not at all.
 
 </div>
 
-<div class="post" data-post-id="15777" data-author="Avatar" data-date="2006-12-26T23:35:38+00:00">
+<div class="post" data-post-id="15777" data-author="Avatar" data-date="2006-12-26T23:35:38+00:00" data-subject="Fire Resist">
 
 When they recoded the resistances, most of the items were adjusted to show "Resist Fire by 10" - I think they asked us to post if any eq still showed as "Resist Fire by 1".
 

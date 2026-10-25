@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2803" data-author="Mullah" data-date="2004-11-12T22:09:27+00:00">
+<div class="post" data-post-id="2803" data-author="Mullah" data-date="2004-11-12T22:09:27+00:00" data-subject="Karkus for sale">
 
 karkus 
 

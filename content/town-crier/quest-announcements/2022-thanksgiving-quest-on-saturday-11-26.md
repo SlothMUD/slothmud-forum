@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39985" data-author="*Idjit*" data-date="2022-11-20T18:41:14+00:00">
+<div class="post" data-post-id="39985" data-author="*Idjit*" data-date="2022-11-20T18:41:14+00:00" data-subject="2022 Thanksgiving Quest on Saturday 11/26">
 
 Hello once again slothers!
 
@@ -26,7 +26,7 @@ See you there
 
 </div>
 
-<div class="post" data-post-id="39986" data-author="Driven" data-date="2022-11-21T16:14:16+00:00">
+<div class="post" data-post-id="39986" data-author="Driven" data-date="2022-11-21T16:14:16+00:00" data-subject="Re: 2022 Thanksgiving Quest on Saturday 11/26">
 
 One additional comment on this quest--this will be the opener for Dark Valkyre, where your fond memories of being a newbie turn into a terrible nightmare.  Some ground rules for the quest:
 

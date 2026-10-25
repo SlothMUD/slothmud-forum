@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="1073" data-author="Methyx" data-date="2004-07-15T01:31:31+00:00">
+<div class="post" data-post-id="1073" data-author="Methyx" data-date="2004-07-15T01:31:31+00:00" data-subject="Leaving VK">
 
 Hello All :)
 
@@ -26,7 +26,7 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="1075" data-author="Deju" data-date="2004-07-15T01:57:52+00:00">
+<div class="post" data-post-id="1075" data-author="Deju" data-date="2004-07-15T01:57:52+00:00" data-subject="">
 
 Since i was over 20 when valk was put in, and havent started many newbies since, i can't give you a ton of information, but here is my $.02.
 
@@ -36,13 +36,13 @@ Another reason for staying at lvl 20 or below is that triangular tokens can be u
 
 </div>
 
-<div class="post" data-post-id="1077" data-author="Ender" data-date="2004-07-15T02:44:05+00:00">
+<div class="post" data-post-id="1077" data-author="Ender" data-date="2004-07-15T02:44:05+00:00" data-subject="Valk Eq">
 
 There is also some interesting equipment on Valk you may want to pick up before you leave.  For instance, the blue egg and helm of lightning come to mind.  These are nice items that have the added benefit of perm water breath.  I've often found that items with perm infravision, perm water breath and perm fly can be worth their weight in gold.  However, finding decent ones can be difficult.  Helm of Lightning is an excellent one, with decent AC for it's level, so you're not really losing much to get the benefit of the perm water breath.
 
 </div>
 
-<div class="post" data-post-id="1085" data-author="blackmore" data-date="2004-07-15T21:12:51+00:00">
+<div class="post" data-post-id="1085" data-author="blackmore" data-date="2004-07-15T21:12:51+00:00" data-subject="">
 
 In my opinion, you should have good stats when you leave valk, but I don't believe in abandoning all game play in order to get the most insane stats possible.  As long as you have stats that are good enough to get you to around 3x40, you can spend time collecting hexes and start rolling later on.
 
@@ -52,7 +52,7 @@ One additional thing I would consider is that I always had an easier time gettin
 
 </div>
 
-<div class="post" data-post-id="1196" data-author="Altair" data-date="2004-07-27T14:36:25+00:00">
+<div class="post" data-post-id="1196" data-author="Altair" data-date="2004-07-27T14:36:25+00:00" data-subject="">
 
 Those people with the loads of levels never intended to leave VK. Many of us have a "big brother" outside of Valkyre.
 
@@ -66,7 +66,7 @@ and had piled up enough xp to get 5 levels in a shot.
 
 </div>
 
-<div class="post" data-post-id="1197" data-author="Ender" data-date="2004-07-27T15:21:47+00:00">
+<div class="post" data-post-id="1197" data-author="Ender" data-date="2004-07-27T15:21:47+00:00" data-subject="Quad 20s">
 
 Actually, that's a good point, some people just don't plan to leave VK.  In recent times, Isatars CAN'T leave, though there were quad 20s before even that.  Running a character on VK has a certain amount of risk because some of the mobs are quite powerful (bathing tiger comes to mind) and you are very limited as to who can help you if you get in trouble, since the most powerful character that can come help you is a quad 20.  Hense people create 'VK avatars' to help in those situations.
 
@@ -74,13 +74,13 @@ Wasn't there also a helmet that required you to be quad 20 to wear it on VK?  I 
 
 </div>
 
-<div class="post" data-post-id="14248" data-author="Absu" data-date="2006-09-23T21:52:02+00:00">
+<div class="post" data-post-id="14248" data-author="Absu" data-date="2006-09-23T21:52:02+00:00" data-subject="">
 
 I realize this is a pretty old post, but I am in the same situation as the original poster and was wondering if there is anything new that I should consider before leaving VK.
 
 </div>
 
-<div class="post" data-post-id="14252" data-author="Leaf" data-date="2006-09-24T03:40:36+00:00">
+<div class="post" data-post-id="14252" data-author="Leaf" data-date="2006-09-24T03:40:36+00:00" data-subject="">
 
 U leave when u want to leave.  Some ppl say u need to get all the quests,
 
@@ -88,7 +88,7 @@ and some might say u need all the forges.  But in reallity its all up to u.
 
 </div>
 
-<div class="post" data-post-id="14254" data-author="Absu" data-date="2006-09-24T07:11:59+00:00">
+<div class="post" data-post-id="14254" data-author="Absu" data-date="2006-09-24T07:11:59+00:00" data-subject="">
 
 I'm really aching to leave. I have enough exp built up to gain a few levels above 20 at this point.
 
@@ -100,7 +100,7 @@ BTW anyone know how much drachma you can get on VK total? I thikn I have 77 or t
 
 </div>
 
-<div class="post" data-post-id="14255" data-author="Rynquald" data-date="2006-09-24T09:17:26+00:00">
+<div class="post" data-post-id="14255" data-author="Rynquald" data-date="2006-09-24T09:17:26+00:00" data-subject="">
 
 It's not really worth hanging around on vk for forges imho.
 
@@ -110,13 +110,13 @@ If you want to leave, I'd say go for it, just remember to clear out any lockers 
 
 </div>
 
-<div class="post" data-post-id="30553" data-author="slasher88" data-date="2009-12-30T14:42:47+00:00">
+<div class="post" data-post-id="30553" data-author="slasher88" data-date="2009-12-30T14:42:47+00:00" data-subject="">
 
 It looks like the last input for this was a while ago.  Are there any additional thoughts on reasons to stay on Valk other than its good for getting low levels.  I'm happy with stats at this point and the only reason I see for staying is to run the different areas
 
 </div>
 
-<div class="post" data-post-id="30554" data-author="blackmore" data-date="2009-12-30T15:20:50+00:00">
+<div class="post" data-post-id="30554" data-author="blackmore" data-date="2009-12-30T15:20:50+00:00" data-subject="">
 
 With the new stat rolling system, staying for the purpose of rolling stats is no longer a concern.  When you've completed any quests you want to complete, and when you've obtained all of the equipment you want to obtain, the only reason to stay on valk is the solo xp is better for awhile.  I had a hard time finding places to solo for xp off of valk once I left.  It's a good  idea to stockpile xp and get about 10 prime levels all at once when you leave valk, to give yourself a boost.
 

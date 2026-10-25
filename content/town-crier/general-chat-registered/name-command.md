@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="30592" data-author="Thraxas" data-date="2010-01-08T09:51:02+00:00">
+<div class="post" data-post-id="30592" data-author="Thraxas" data-date="2010-01-08T09:51:02+00:00" data-subject="name command">
 
 Was talking in channel with a new player last night and highlighted the name command to him, one I find very useful and use all the time. 
 
@@ -26,7 +26,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30596" data-author="Vixn" data-date="2010-01-08T12:27:46+00:00">
+<div class="post" data-post-id="30596" data-author="Vixn" data-date="2010-01-08T12:27:46+00:00" data-subject="">
 
 The first came to my mind is when you gonna drop golden ticket use drop golden-ticket instead of drop golden. If only you aren't feel like a great leader and gonna lead island EQ groups for next few weeks!!
 
@@ -36,13 +36,13 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="30597" data-author="*juggleblood*" data-date="2010-01-08T13:11:40+00:00">
+<div class="post" data-post-id="30597" data-author="*juggleblood*" data-date="2010-01-08T13:11:40+00:00" data-subject="">
 
 The <clear> command. It's a command for mobs that clears their pissed list. So if someone in group does an area spell and hurts your pet, you can order your pet to clear, so it doesn't hate that player anymore.
 
 </div>
 
-<div class="post" data-post-id="30601" data-author="Toxis" data-date="2010-01-08T14:01:27+00:00">
+<div class="post" data-post-id="30601" data-author="Toxis" data-date="2010-01-08T14:01:27+00:00" data-subject="">
 
 I want my golden sack back!
 
@@ -50,7 +50,7 @@ I want my golden sack back!
 
 </div>
 
-<div class="post" data-post-id="30602" data-author="*juggleblood*" data-date="2010-01-08T21:06:28+00:00">
+<div class="post" data-post-id="30602" data-author="*juggleblood*" data-date="2010-01-08T21:06:28+00:00" data-subject="">
 
 Thread jacking probably won't help. Face it man. Someone ganked your shit.
 
@@ -58,13 +58,13 @@ Sorry.
 
 </div>
 
-<div class="post" data-post-id="30603" data-author="Toxis" data-date="2010-01-09T02:36:31+00:00">
+<div class="post" data-post-id="30603" data-author="Toxis" data-date="2010-01-09T02:36:31+00:00" data-subject="">
 
 Gesh it was a joke to something someone put in the thread, I'm not even mad about it.  You're an imm, don't go down the road I went down and start being a jerk.
 
 </div>
 
-<div class="post" data-post-id="30607" data-author="Stab" data-date="2010-01-09T15:24:55+00:00">
+<div class="post" data-post-id="30607" data-author="Stab" data-date="2010-01-09T15:24:55+00:00" data-subject="">
 
 Juggle says,
 
@@ -90,7 +90,7 @@ Stab.
 
 </div>
 
-<div class="post" data-post-id="30608" data-author="*juggleblood*" data-date="2010-01-09T19:31:34+00:00">
+<div class="post" data-post-id="30608" data-author="*juggleblood*" data-date="2010-01-09T19:31:34+00:00" data-subject="">
 
 Here's a few misc commands newbs might like to learn
 
@@ -136,7 +136,7 @@ pour x y or pour x out= transfer fluids or pour container out
 
 </div>
 
-<div class="post" data-post-id="30615" data-author="*juggleblood*" data-date="2010-01-10T17:18:57+00:00">
+<div class="post" data-post-id="30615" data-author="*juggleblood*" data-date="2010-01-10T17:18:57+00:00" data-subject="learning new commands">
 
 Also if you aren't using it already, 
 

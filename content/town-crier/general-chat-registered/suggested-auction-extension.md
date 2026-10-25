@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="33814" data-author="Dragoth" data-date="2012-12-05T13:12:01+00:00">
+<div class="post" data-post-id="33814" data-author="Dragoth" data-date="2012-12-05T13:12:01+00:00" data-subject="Suggested Auction extension">
 
 It would be really cool, to have something like a public board in the format of an auction, where people could express their desire to purchase a certain item. 
 
@@ -36,7 +36,7 @@ The reverse-auction would run for a certain ammount of time after which it will 
 
 </div>
 
-<div class="post" data-post-id="33815" data-author="Dragoth" data-date="2012-12-05T16:49:14+00:00">
+<div class="post" data-post-id="33815" data-author="Dragoth" data-date="2012-12-05T16:49:14+00:00" data-subject="Re: Suggested Auction extension">
 
 If it's not possible to automate this suggestion due to complexity of item_name_matching, maybe we can just make a board of requested items, without any actual transactions but with an ability to leave messages for potential buyers?
 
@@ -44,7 +44,7 @@ auction channel, finger and title are good, but it would be nice to have a littl
 
 </div>
 
-<div class="post" data-post-id="33816" data-author="Shryker" data-date="2012-12-05T17:47:02+00:00">
+<div class="post" data-post-id="33816" data-author="Shryker" data-date="2012-12-05T17:47:02+00:00" data-subject="Re: Suggested Auction extension">
 
 I like the premise, especially as an individual who logs on very sporadically on a daily basis.  Even if I were to put something in my title, few people would notice it before I rent again.
 
@@ -58,7 +58,7 @@ Shryker
 
 </div>
 
-<div class="post" data-post-id="33817" data-author="*Breeze*" data-date="2012-12-05T19:17:50+00:00">
+<div class="post" data-post-id="33817" data-author="*Breeze*" data-date="2012-12-05T19:17:50+00:00" data-subject="Re: Suggested Auction extension">
 
 This would be very difficult to do.  the auctioneer doesnt actually care about item names, it cares about item virtual numbers.
 
@@ -78,13 +78,13 @@ of course i can charge a fee to get listed.... hmmm
 
 </div>
 
-<div class="post" data-post-id="33818" data-author="jezer" data-date="2012-12-05T19:32:46+00:00">
+<div class="post" data-post-id="33818" data-author="jezer" data-date="2012-12-05T19:32:46+00:00" data-subject="Re: Suggested Auction extension">
 
 You're all missing the real question here, what would the consignment lag be!?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="33819" data-author="*Breeze*" data-date="2012-12-05T19:41:56+00:00">
+<div class="post" data-post-id="33819" data-author="*Breeze*" data-date="2012-12-05T19:41:56+00:00" data-subject="Re: Suggested Auction extension">
 
 i am not removing consignment lag :) that's there for a reason. mainly so some idiot doesn't do
 
@@ -96,13 +96,13 @@ message on those anyways
 
 </div>
 
-<div class="post" data-post-id="33820" data-author="jezer" data-date="2012-12-05T20:02:31+00:00">
+<div class="post" data-post-id="33820" data-author="jezer" data-date="2012-12-05T20:02:31+00:00" data-subject="Re: Suggested Auction extension">
 
 With all due respect Breeze, considering the other things in the mud that "spam" - like myself on gossip, the lag to prevent - lets say 3 or 4 lines of "spam" is a little over the top. But don't change it, I enjoy making fun of it.  :) But either way I'll always find something little to have a good laugh about - that's just me. Self amusing.
 
 </div>
 
-<div class="post" data-post-id="33821" data-author="Shryker" data-date="2012-12-05T20:25:04+00:00">
+<div class="post" data-post-id="33821" data-author="Shryker" data-date="2012-12-05T20:25:04+00:00" data-subject="Re: Suggested Auction extension">
 
 I think any application of this idea whatsoever could be interesting, Breeze.
 
@@ -116,25 +116,25 @@ Shryker
 
 </div>
 
-<div class="post" data-post-id="33822" data-author="*Breeze*" data-date="2012-12-05T21:27:17+00:00">
+<div class="post" data-post-id="33822" data-author="*Breeze*" data-date="2012-12-05T21:27:17+00:00" data-subject="Re: Suggested Auction extension">
 
 glad someone does.
 
 </div>
 
-<div class="post" data-post-id="33823" data-author="jezer" data-date="2012-12-05T21:52:38+00:00">
+<div class="post" data-post-id="33823" data-author="jezer" data-date="2012-12-05T21:52:38+00:00" data-subject="Re: Suggested Auction extension">
 
 Breeze had to wait 10mins before he could make that post!  :lol:  8)
 
 </div>
 
-<div class="post" data-post-id="33824" data-author="*Breeze*" data-date="2012-12-05T22:05:41+00:00">
+<div class="post" data-post-id="33824" data-author="*Breeze*" data-date="2012-12-05T22:05:41+00:00" data-subject="Re: Suggested Auction extension">
 
 half true. i  have a ton of patience but a nasty temper
 
 </div>
 
-<div class="post" data-post-id="33825" data-author="Dragoth" data-date="2012-12-06T09:09:37+00:00">
+<div class="post" data-post-id="33825" data-author="Dragoth" data-date="2012-12-06T09:09:37+00:00" data-subject="Re: Suggested Auction extension">
 
 People always find shit to complain about dont they. 
 
@@ -148,13 +148,13 @@ On the topic, any way you can implement my idea would be extremely helpful to ev
 
 </div>
 
-<div class="post" data-post-id="33826" data-author="jezer" data-date="2012-12-06T09:16:58+00:00">
+<div class="post" data-post-id="33826" data-author="jezer" data-date="2012-12-06T09:16:58+00:00" data-subject="Re: Suggested Auction extension">
 
 At least the consignment lag is shorter than Dragoth's whining about whiners!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="33828" data-author="gor" data-date="2012-12-06T15:28:45+00:00">
+<div class="post" data-post-id="33828" data-author="gor" data-date="2012-12-06T15:28:45+00:00" data-subject="Re: Suggested Auction extension">
 
 not whining, just wonder if people are happy with the fact that somebody who watching the auction end can easily win it even if others could pay more and just missed the very moment. 
 
@@ -162,7 +162,7 @@ I think it could be solved by postponing auction end to be at least 6-12 hours l
 
 </div>
 
-<div class="post" data-post-id="33829" data-author="Shryker" data-date="2012-12-06T17:43:37+00:00">
+<div class="post" data-post-id="33829" data-author="Shryker" data-date="2012-12-06T17:43:37+00:00" data-subject="Re: Suggested Auction extension">
 
 Well, gor, when it comes to last minute bidding on items in the auction house, the increase in bids are usually by very small amounts.  At that point, it isn't about who is willing to offer more, it is about who is paying the most attention to the auction and manages to get the last bid in.
 
@@ -176,7 +176,7 @@ Shryker
 
 </div>
 
-<div class="post" data-post-id="33830" data-author="gor" data-date="2012-12-06T18:01:56+00:00">
+<div class="post" data-post-id="33830" data-author="gor" data-date="2012-12-06T18:01:56+00:00" data-subject="Re: Suggested Auction extension">
 
 > **Shryker wrote:**
 > .....
@@ -187,7 +187,7 @@ yes, you right Shryker. I think it is reasonable to put minimum increase as well
 
 </div>
 
-<div class="post" data-post-id="34582" data-author="Dragoth" data-date="2013-11-26T18:38:55+00:00">
+<div class="post" data-post-id="34582" data-author="Dragoth" data-date="2013-11-26T18:38:55+00:00" data-subject="Re: Suggested Auction extension">
 
 bump
 

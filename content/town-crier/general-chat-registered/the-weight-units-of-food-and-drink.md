@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36020" data-author="Dragoth" data-date="2015-08-09T15:22:21+00:00">
+<div class="post" data-post-id="36020" data-author="Dragoth" data-date="2015-08-09T15:22:21+00:00" data-subject="The weight units of food and drink">
 
 Ok.discarded identify as its not on the list..
 
@@ -84,7 +84,7 @@ How can a keg of water, weight as much as 10 shoulder guards made of steel and s
 
 </div>
 
-<div class="post" data-post-id="36021" data-author="DarkArtist" data-date="2015-08-09T18:57:02+00:00">
+<div class="post" data-post-id="36021" data-author="DarkArtist" data-date="2015-08-09T18:57:02+00:00" data-subject="Re: The weight units of food and drink">
 
 The keg actually has a zero weight (enchanted I suppose), but contains 75 pounds of water.
 
@@ -96,7 +96,7 @@ Regarding the unrealistically low weight of shoulder guards, it's another conven
 
 </div>
 
-<div class="post" data-post-id="36022" data-author="Dragoth" data-date="2015-08-09T20:48:47+00:00">
+<div class="post" data-post-id="36022" data-author="Dragoth" data-date="2015-08-09T20:48:47+00:00" data-subject="Re: The weight units of food and drink">
 
 Shall i add another hundred items to the list that have unrealistic weight numbers compared to the water weights ?  
 
@@ -104,7 +104,7 @@ And when is it ok to drink as much weight in water as two Adamantite cuirasses, 
 
 </div>
 
-<div class="post" data-post-id="36023" data-author="DarkArtist" data-date="2015-08-09T22:48:31+00:00">
+<div class="post" data-post-id="36023" data-author="DarkArtist" data-date="2015-08-09T22:48:31+00:00" data-subject="Re: The weight units of food and drink">
 
 > **Dragoth wrote:**
 > Shall i add another hundred items to the list that have unrealistic weight numbers compared to the water weights ?  

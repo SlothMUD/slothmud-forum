@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="7467" data-author="rith" data-date="2005-06-22T15:21:15+00:00">
+<div class="post" data-post-id="7467" data-author="rith" data-date="2005-06-22T15:21:15+00:00" data-subject="Ive lost my mind">
 
 concentration        - Lvl:  9, Learned  85%
 

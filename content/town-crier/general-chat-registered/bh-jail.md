@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="30533" data-author="Skyv" data-date="2009-12-23T03:07:25+00:00">
+<div class="post" data-post-id="30533" data-author="Skyv" data-date="2009-12-23T03:07:25+00:00" data-subject="BH Jail">
 
 Well, I find myself in a new situation in that I am sitting in jail after my group made an aborted run at the Dream Weaver via accidental targeting.  Any advice on how to get out of here?
 
@@ -20,7 +20,7 @@ Skyv
 
 </div>
 
-<div class="post" data-post-id="30534" data-author="Gimlet" data-date="2009-12-23T03:15:32+00:00">
+<div class="post" data-post-id="30534" data-author="Gimlet" data-date="2009-12-23T03:15:32+00:00" data-subject="">
 
 either wait it out...i think 40mins?
 
@@ -28,7 +28,7 @@ or get someone to get u out
 
 </div>
 
-<div class="post" data-post-id="30535" data-author="smig1o" data-date="2009-12-23T11:05:49+00:00">
+<div class="post" data-post-id="30535" data-author="smig1o" data-date="2009-12-23T11:05:49+00:00" data-subject="">
 
 You really think anyone will help a criminal like you? ;)
 
@@ -36,7 +36,7 @@ Pi - the maimed elf hunter
 
 </div>
 
-<div class="post" data-post-id="30536" data-author="Skyv" data-date="2009-12-23T13:52:41+00:00">
+<div class="post" data-post-id="30536" data-author="Skyv" data-date="2009-12-23T13:52:41+00:00" data-subject="BH Jail">
 
 Actually, yes I was!  Although it is a bunch of fun to sit there unable to do basically anything and wonder what happens when my food supply runs out...
 
@@ -44,13 +44,13 @@ I gave up last night after waiting a little over an hour, so definitely takes mo
 
 </div>
 
-<div class="post" data-post-id="30537" data-author="Thraxas" data-date="2009-12-23T13:59:03+00:00">
+<div class="post" data-post-id="30537" data-author="Thraxas" data-date="2009-12-23T13:59:03+00:00" data-subject="">
 
 wot no trial?
 
 </div>
 
-<div class="post" data-post-id="30538" data-author="Stab" data-date="2009-12-23T14:55:20+00:00">
+<div class="post" data-post-id="30538" data-author="Stab" data-date="2009-12-23T14:55:20+00:00" data-subject="">
 
 The Dream Weaver glows with a bright light!
 
@@ -170,7 +170,7 @@ Stab.
 
 </div>
 
-<div class="post" data-post-id="30539" data-author="Skyv" data-date="2009-12-23T17:44:32+00:00">
+<div class="post" data-post-id="30539" data-author="Skyv" data-date="2009-12-23T17:44:32+00:00" data-subject="BH Jail">
 
 This is what I saw:
 
@@ -214,13 +214,13 @@ You can't do that.  You're in jail!
 
 </div>
 
-<div class="post" data-post-id="30540" data-author="jezer" data-date="2009-12-24T06:11:23+00:00">
+<div class="post" data-post-id="30540" data-author="jezer" data-date="2009-12-24T06:11:23+00:00" data-subject="">
 
 This reads like all those really bad Christmas sitcom episodes were the stars end up spending Christmas Night in jail eventually getting bailed out by there husbands/wives.
 
 </div>
 
-<div class="post" data-post-id="30541" data-author="Thraxas" data-date="2009-12-24T09:31:44+00:00">
+<div class="post" data-post-id="30541" data-author="Thraxas" data-date="2009-12-24T09:31:44+00:00" data-subject="">
 
 thinking about this, I wonder whether the whole concept of the jail system needs a rethink.
 
@@ -242,7 +242,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30542" data-author="Cizin" data-date="2009-12-24T14:21:49+00:00">
+<div class="post" data-post-id="30542" data-author="Cizin" data-date="2009-12-24T14:21:49+00:00" data-subject="">
 
 Charming another player will make you an outlaw. 
 

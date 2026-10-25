@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="23238" data-author="Yasik2" data-date="2008-03-16T00:02:56+00:00">
+<div class="post" data-post-id="23238" data-author="Yasik2" data-date="2008-03-16T00:02:56+00:00" data-subject="Found looted eq in AH town">
 
 today i found *something* that don't load on town mobs on regular basis
 

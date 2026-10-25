@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="29951" data-author="Thraxas" data-date="2009-09-01T09:45:16+00:00">
+<div class="post" data-post-id="29951" data-author="Thraxas" data-date="2009-09-01T09:45:16+00:00" data-subject="TMC">
 
 TMC voting has been reset once more, TMC rank is important to Sloth as this is where we gain most of our new players from.
 
@@ -22,7 +22,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="29952" data-author="Jag" data-date="2009-09-01T13:14:24+00:00">
+<div class="post" data-post-id="29952" data-author="Jag" data-date="2009-09-01T13:14:24+00:00" data-subject="">
 
 I don't like registering for things and putting in my email but I gave it a try.  
 
@@ -30,13 +30,13 @@ They offer a privacy option that will keep your name and email private.  And it 
 
 </div>
 
-<div class="post" data-post-id="29953" data-author="Destruction" data-date="2009-09-01T14:41:21+00:00">
+<div class="post" data-post-id="29953" data-author="Destruction" data-date="2009-09-01T14:41:21+00:00" data-subject="">
 
 They won't accept free email services like hotmail.
 
 </div>
 
-<div class="post" data-post-id="29954" data-author="Thraxas" data-date="2009-09-01T15:16:31+00:00">
+<div class="post" data-post-id="29954" data-author="Thraxas" data-date="2009-09-01T15:16:31+00:00" data-subject="">
 
 [quote:291kbqne]They won't accept free email services like hotmail.[/quote:291kbqne]
 

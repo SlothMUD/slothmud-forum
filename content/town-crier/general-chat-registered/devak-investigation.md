@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="29966" data-author="Dragoth" data-date="2009-09-06T14:13:32+00:00">
+<div class="post" data-post-id="29966" data-author="Dragoth" data-date="2009-09-06T14:13:32+00:00" data-subject="Devak investigation.">
 
 Well, the spell is now fully integrated so here's a few bits of the puzzle i solved so far for anyone who wishes to continue with this.
 
@@ -40,19 +40,19 @@ Cheers.
 
 </div>
 
-<div class="post" data-post-id="29967" data-author="Toxis" data-date="2009-09-06T18:51:53+00:00">
+<div class="post" data-post-id="29967" data-author="Toxis" data-date="2009-09-06T18:51:53+00:00" data-subject="">
 
 we popped marble sceptre from balor demon in mh last night.
 
 </div>
 
-<div class="post" data-post-id="29968" data-author="Shyla" data-date="2009-09-06T23:03:20+00:00">
+<div class="post" data-post-id="29968" data-author="Shyla" data-date="2009-09-06T23:03:20+00:00" data-subject="">
 
 marilith in dweb popped sceptre as did medusa in crypt
 
 </div>
 
-<div class="post" data-post-id="29969" data-author="Dragoth" data-date="2009-09-07T14:13:12+00:00">
+<div class="post" data-post-id="29969" data-author="Dragoth" data-date="2009-09-07T14:13:12+00:00" data-subject="">
 
 lodge                         - Lvl: 40,           Learned  50% [-35]
 
@@ -172,7 +172,7 @@ So here we go : )
 
 </div>
 
-<div class="post" data-post-id="29970" data-author="Dragoth" data-date="2009-09-07T17:15:12+00:00">
+<div class="post" data-post-id="29970" data-author="Dragoth" data-date="2009-09-07T17:15:12+00:00" data-subject="">
 
 <744hp 694ma 289mv>wak
 
@@ -194,13 +194,13 @@ Even though its been in my inventory the whole time  :evil:
 
 </div>
 
-<div class="post" data-post-id="29971" data-author="Vixn" data-date="2009-09-07T17:43:22+00:00">
+<div class="post" data-post-id="29971" data-author="Vixn" data-date="2009-09-07T17:43:22+00:00" data-subject="">
 
 So, what does it give you?
 
 </div>
 
-<div class="post" data-post-id="29972" data-author="*Splork*" data-date="2009-09-08T01:20:54+00:00">
+<div class="post" data-post-id="29972" data-author="*Splork*" data-date="2009-09-08T01:20:54+00:00" data-subject="">
 
 I've finished cleaning up a few bugs that have been found and next reboot, players should start noticing the affects and changes that have been made.
 
@@ -212,7 +212,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29973" data-author="Dragoth" data-date="2009-09-08T09:33:16+00:00">
+<div class="post" data-post-id="29973" data-author="Dragoth" data-date="2009-09-08T09:33:16+00:00" data-subject="">
 
 Just to elaborate, book pop locations have not been found yet and i managed to get ahold of the books via a book scatter Splork did earlier.
 
@@ -222,7 +222,7 @@ Still no new info regarding lodge books.
 
 </div>
 
-<div class="post" data-post-id="29974" data-author="Rigwarl" data-date="2009-09-08T09:55:27+00:00">
+<div class="post" data-post-id="29974" data-author="Rigwarl" data-date="2009-09-08T09:55:27+00:00" data-subject="">
 
 So, what does it give you?[/quote:ijjv3qve]
 
@@ -286,7 +286,7 @@ Unknown Factors:
 
 </div>
 
-<div class="post" data-post-id="29975" data-author="Dragoth" data-date="2009-09-08T14:08:12+00:00">
+<div class="post" data-post-id="29975" data-author="Dragoth" data-date="2009-09-08T14:08:12+00:00" data-subject="">
 
 Ok, Splork fixed everything so here we go,
 
@@ -454,7 +454,7 @@ So its about 15-20 healbonus at 3x40. Would be great to see if devak's stack wit
 
 </div>
 
-<div class="post" data-post-id="30176" data-author="Shyla" data-date="2009-10-25T00:09:51+00:00">
+<div class="post" data-post-id="30176" data-author="Shyla" data-date="2009-10-25T00:09:51+00:00" data-subject="">
 
 i tried to post this to eq page and it wouldn't come up so i will put it here for now 
 

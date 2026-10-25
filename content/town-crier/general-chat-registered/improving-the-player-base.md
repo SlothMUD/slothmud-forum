@@ -10,7 +10,7 @@ locked: false
 post_count: 38
 ---
 
-<div class="post" data-post-id="27919" data-author="jezer" data-date="2009-01-30T06:16:52+00:00">
+<div class="post" data-post-id="27919" data-author="jezer" data-date="2009-01-30T06:16:52+00:00" data-subject="Improving the Player Base">
 
 I know someone has mentioned this idea before... but I think one of the best ways of improving the mud player base is actually making it so sloth can be played through a java applet in a web browser.
 
@@ -24,7 +24,7 @@ And while we are porting... lets go sql backend...  :twisted:
 
 </div>
 
-<div class="post" data-post-id="27920" data-author="jezer" data-date="2009-01-30T06:21:17+00:00">
+<div class="post" data-post-id="27920" data-author="jezer" data-date="2009-01-30T06:21:17+00:00" data-subject="">
 
 [url:fycnzxjm]http://anyterm.org/[/url:fycnzxjm]
 
@@ -32,7 +32,7 @@ And while we are porting... lets go sql backend...  :twisted:
 
 </div>
 
-<div class="post" data-post-id="27923" data-author="Yasik2" data-date="2009-01-30T07:20:54+00:00">
+<div class="post" data-post-id="27923" data-author="Yasik2" data-date="2009-01-30T07:20:54+00:00" data-subject="Re: Improving the Player Base">
 
 if you want to appeal to a wider (younger) set of people...[/quote:36jy9u45]
 
@@ -46,7 +46,7 @@ They dont belong here.
 
 </div>
 
-<div class="post" data-post-id="27929" data-author="marge" data-date="2009-01-30T21:14:49+00:00">
+<div class="post" data-post-id="27929" data-author="marge" data-date="2009-01-30T21:14:49+00:00" data-subject="">
 
 Telnet function isn't even installed by default in windows anymore. Then they have to figure out how to turn the localecho and ansi colors on. If they want to use the most current version of wintin, they need to install the .net protocols. 
 
@@ -54,19 +54,19 @@ If Yasix is correct, it may be a moot point. Tragic  :cry:
 
 </div>
 
-<div class="post" data-post-id="27933" data-author="jezer" data-date="2009-01-31T01:14:52+00:00">
+<div class="post" data-post-id="27933" data-author="jezer" data-date="2009-01-31T01:14:52+00:00" data-subject="">
 
 Bah, when we give up, sloth isn't in decline... it's actually dead. You can't tell me that we wouldn't get more players if the game were more accessible... We have got two problems... we aren't really out there... secondly when we get past being out there, everyone has to jump through hoops to play. If I read that technology right, sloth doesn't have to even be rewritten it would just be "accessible" through a console in a web browser. We got to keep up with the times, it doesn't mean we have to change who we are... we just need to change the approach.
 
 </div>
 
-<div class="post" data-post-id="27934" data-author="Yasik2" data-date="2009-01-31T01:22:14+00:00">
+<div class="post" data-post-id="27934" data-author="Yasik2" data-date="2009-01-31T01:22:14+00:00" data-subject="">
 
 If we want to keep up with times, then we should buy Unreal 3D engine and start developing full-scale 3D-graphics client.
 
 </div>
 
-<div class="post" data-post-id="27935" data-author="jezer" data-date="2009-01-31T01:46:52+00:00">
+<div class="post" data-post-id="27935" data-author="jezer" data-date="2009-01-31T01:46:52+00:00" data-subject="">
 
 We got to keep up with the times, [b:8sejsdot]it doesn't mean we have to change who we are...[/b:8sejsdot] we just need to change the approach.[/quote:8sejsdot]
 
@@ -74,13 +74,13 @@ No Yasik, sloth is text based, and that's part of it's charm, sloth has extraord
 
 </div>
 
-<div class="post" data-post-id="27936" data-author="Yasik2" data-date="2009-01-31T02:03:52+00:00">
+<div class="post" data-post-id="27936" data-author="Yasik2" data-date="2009-01-31T02:03:52+00:00" data-subject="">
 
 Go on and explain the charm to those you want to come here and play, or rather wander randomly asking for eq and coins being perma-hungry and thirsty, then abandon after 2 weeks.
 
 </div>
 
-<div class="post" data-post-id="27937" data-author="Rynquald" data-date="2009-01-31T02:18:36+00:00">
+<div class="post" data-post-id="27937" data-author="Rynquald" data-date="2009-01-31T02:18:36+00:00" data-subject="">
 
 I've always found the attitudes some people hold towards new players in various online games baffling.
 
@@ -102,7 +102,7 @@ Not everyone who tries the game will like it or stay, but some will. As long as 
 
 </div>
 
-<div class="post" data-post-id="27938" data-author="jezer" data-date="2009-01-31T02:23:07+00:00">
+<div class="post" data-post-id="27938" data-author="jezer" data-date="2009-01-31T02:23:07+00:00" data-subject="">
 
 That's just crap Yasik, not everyone is the same.
 
@@ -112,7 +112,7 @@ It's just all too hard... or people don't care... sloth will die with this attit
 
 </div>
 
-<div class="post" data-post-id="27939" data-author="Rynquald" data-date="2009-01-31T02:26:04+00:00">
+<div class="post" data-post-id="27939" data-author="Rynquald" data-date="2009-01-31T02:26:04+00:00" data-subject="">
 
 A new post for new subject matter...
 
@@ -122,7 +122,7 @@ Of course a coder would have to have the time to do it. But it's a worthwhile pr
 
 </div>
 
-<div class="post" data-post-id="27940" data-author="jezer" data-date="2009-01-31T02:34:57+00:00">
+<div class="post" data-post-id="27940" data-author="jezer" data-date="2009-01-31T02:34:57+00:00" data-subject="">
 
 Take this thread alone, and the message it would send to someone browsing the site and considering playing.[/quote:3seqxjna]
 
@@ -136,7 +136,7 @@ Hamper these things, exercise your iron grasp to keep everything the same... it'
 
 </div>
 
-<div class="post" data-post-id="27941" data-author="Yasik2" data-date="2009-01-31T02:46:57+00:00">
+<div class="post" data-post-id="27941" data-author="Yasik2" data-date="2009-01-31T02:46:57+00:00" data-subject="">
 
 Well, maybe you're right, i was a bit unfriendly, but that's because of my experience in other aspect of online gaming, Lineage.
 
@@ -150,7 +150,7 @@ I'd never done this if i had a browser and a mouse, i'd been clicking mindlessly
 
 </div>
 
-<div class="post" data-post-id="27942" data-author="Rynquald" data-date="2009-01-31T03:15:33+00:00">
+<div class="post" data-post-id="27942" data-author="Rynquald" data-date="2009-01-31T03:15:33+00:00" data-subject="">
 
 Rynquald wrote:
 
@@ -164,7 +164,7 @@ In that line I was exclusively referring to anti-newb sentiment sending a negati
 
 </div>
 
-<div class="post" data-post-id="27943" data-author="Rynquald" data-date="2009-01-31T03:22:52+00:00">
+<div class="post" data-post-id="27943" data-author="Rynquald" data-date="2009-01-31T03:22:52+00:00" data-subject="">
 
 Years ago i managed to get a client, develop my own set of scripts constantly improving, then moved to another client, learned Perl, moved to Linux, now i'm rewriting everything from beginnings.
 
@@ -176,7 +176,7 @@ Hypothetically, if we somehow made it trivially easy to start playing and got a 
 
 </div>
 
-<div class="post" data-post-id="27944" data-author="jezer" data-date="2009-01-31T03:26:31+00:00">
+<div class="post" data-post-id="27944" data-author="jezer" data-date="2009-01-31T03:26:31+00:00" data-subject="">
 
 Heh, wasn't refering to to you Ryn... was refering to the older players who are anti change and are often expressing there "haha noob" statements, about everyone else. We still got players whining about new classo's for goodness sake... retire!  :twisted: Your WERE awesome, now you suck, get with it or leave. Not all old players are like that... some I think want progress just as much... just sick of the same ruts.
 
@@ -184,7 +184,7 @@ Was is mandos or agemo that logged in recently and said something like... is lym
 
 </div>
 
-<div class="post" data-post-id="27945" data-author="Atwell" data-date="2009-01-31T04:03:44+00:00">
+<div class="post" data-post-id="27945" data-author="Atwell" data-date="2009-01-31T04:03:44+00:00" data-subject="">
 
 Jezer makes an excellent point. The possibility of making a web interface for Sloth would make the game far more accessible, and encourage more people who find the site to try it. Even if it was just a stepping stone into getting a "real" client.
 
@@ -194,7 +194,7 @@ This strikes me as best done without modifying the MUD itself; make your web int
 
 </div>
 
-<div class="post" data-post-id="27946" data-author="Gimlet" data-date="2009-01-31T05:09:17+00:00">
+<div class="post" data-post-id="27946" data-author="Gimlet" data-date="2009-01-31T05:09:17+00:00" data-subject="">
 
 maybe if some of us could come up with a "starter package" for newbies to start playing sloth, it would make it more condusive for people to try sloth out?
 
@@ -206,7 +206,7 @@ any suggestions/opinions?
 
 </div>
 
-<div class="post" data-post-id="27947" data-author="Gimlet" data-date="2009-01-31T05:11:05+00:00">
+<div class="post" data-post-id="27947" data-author="Gimlet" data-date="2009-01-31T05:11:05+00:00" data-subject="">
 
 another thing i've encountered when getting people to start playing the mud is that once they log on, they have no idea what to do, or what they have to do.
 
@@ -216,7 +216,7 @@ have a page on the website, with screenshots and all, explaining various aspects
 
 </div>
 
-<div class="post" data-post-id="27948" data-author="Weasel" data-date="2009-01-31T05:44:54+00:00">
+<div class="post" data-post-id="27948" data-author="Weasel" data-date="2009-01-31T05:44:54+00:00" data-subject="">
 
 Heh, wasn't refering to to you Ryn... was refering to the older players who are anti change and are often expressing there "haha noob" statements, about everyone else. We still got players whining about new classo's for goodness sake... retire!  :twisted: Your WERE awesome, now you suck, get with it or leave. Not all old players are like that... some I think want progress just as much... just sick of the same ruts.[/quote:1jr8r2mn]
 
@@ -228,13 +228,13 @@ For the record; change is good, when it's done right.
 
 </div>
 
-<div class="post" data-post-id="27949" data-author="Gimlet" data-date="2009-01-31T06:16:55+00:00">
+<div class="post" data-post-id="27949" data-author="Gimlet" data-date="2009-01-31T06:16:55+00:00" data-subject="">
 
 as much as I get tired of the constant whinging about new classos making old ones obsolete, I think you jezer whine more than anyone about how the mud should be catered to only what U need and how you wwant to play :P
 
 </div>
 
-<div class="post" data-post-id="27950" data-author="jezer" data-date="2009-01-31T06:36:41+00:00">
+<div class="post" data-post-id="27950" data-author="jezer" data-date="2009-01-31T06:36:41+00:00" data-subject="">
 
 Honour and drachma shifted... how long have we known about the bugs? 6 months... a year... who can fix it? 3 or 4 people... why are we still waiting? 
 
@@ -244,13 +244,13 @@ BTW, I thought gimlets ideas were pretty cool... and might I add, if they extend
 
 </div>
 
-<div class="post" data-post-id="27951" data-author="jezer" data-date="2009-01-31T07:03:03+00:00">
+<div class="post" data-post-id="27951" data-author="jezer" data-date="2009-01-31T07:03:03+00:00" data-subject="">
 
 I wish there was a means, where by we could become junior coders... where by we could earn trust, just by fixing stuff we get given to do by higher imms. I've thought about designing an area, and I've written some descriptions... but this is not me... I'm a programmer!  :evil: I'm not about to sell the code, post it online, add +10 dam to druid forms... just give me a chance to make a contribution that suits my skill sets... Even I could probably get sloth working through some java console in a web browser if I was just given the license and trust to give it a go.
 
 </div>
 
-<div class="post" data-post-id="27952" data-author="Weasel" data-date="2009-01-31T07:39:03+00:00">
+<div class="post" data-post-id="27952" data-author="Weasel" data-date="2009-01-31T07:39:03+00:00" data-subject="">
 
 You know what - if your character suddenly got severely nerfed (or everyone else got a huge boost), out of the entire mud, I imagine you would be the one making the most noise about an uneven playing field and ranting on how unfair it is - heck, you do it already when you're playing at an advantage!
 
@@ -268,7 +268,7 @@ yep, I feel better now, thanks.
 
 </div>
 
-<div class="post" data-post-id="27954" data-author="Gimlet" data-date="2009-01-31T09:25:44+00:00">
+<div class="post" data-post-id="27954" data-author="Gimlet" data-date="2009-01-31T09:25:44+00:00" data-subject="">
 
 chill weasel
 
@@ -278,7 +278,7 @@ some of your rants are legitimate, in fact most are.  but you chose to stay on a
 
 </div>
 
-<div class="post" data-post-id="27956" data-author="*Splork*" data-date="2009-01-31T13:09:23+00:00">
+<div class="post" data-post-id="27956" data-author="*Splork*" data-date="2009-01-31T13:09:23+00:00" data-subject="">
 
 Actually developing a java console or web interface to play the game has been on our todo list for quite some time. 
 
@@ -300,13 +300,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="27957" data-author="Gimlet" data-date="2009-01-31T13:36:51+00:00">
+<div class="post" data-post-id="27957" data-author="Gimlet" data-date="2009-01-31T13:36:51+00:00" data-subject="">
 
 sloth as a facebook app would be mucho neato :)
 
 </div>
 
-<div class="post" data-post-id="27958" data-author="jezer" data-date="2009-01-31T14:28:12+00:00">
+<div class="post" data-post-id="27958" data-author="jezer" data-date="2009-01-31T14:28:12+00:00" data-subject="">
 
 Tried getting that think to work, but it would appear, the server hosting the script files needs to provide a security policy file for flash, I keep getting a security error :( Flash/Web isn't really my field... scratching my head here.
 
@@ -316,7 +316,7 @@ This sort of thing was originally what I had in mind...
 
 </div>
 
-<div class="post" data-post-id="27959" data-author="*Splork*" data-date="2009-01-31T15:05:09+00:00">
+<div class="post" data-post-id="27959" data-author="*Splork*" data-date="2009-01-31T15:05:09+00:00" data-subject="">
 
 A java based telnet app would be great as well, Jezer.
 
@@ -326,7 +326,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="27960" data-author="Tap" data-date="2009-01-31T15:53:48+00:00">
+<div class="post" data-post-id="27960" data-author="Tap" data-date="2009-01-31T15:53:48+00:00" data-subject="">
 
 Screw all that, its time to go graphical,thats right, I'm talking about
 
@@ -338,7 +338,7 @@ SLOTHMUD[/size:14y491xr][/color:14y491xr]
 
 </div>
 
-<div class="post" data-post-id="27963" data-author="jezer" data-date="2009-02-01T13:49:13+00:00">
+<div class="post" data-post-id="27963" data-author="jezer" data-date="2009-02-01T13:49:13+00:00" data-subject="">
 
 I got this one loading nicely as an applet in a web browser...
 
@@ -348,13 +348,13 @@ Suspect the only reason I get access denied trying to connect to sloth is that m
 
 </div>
 
-<div class="post" data-post-id="27992" data-author="marge" data-date="2009-02-05T13:07:01+00:00">
+<div class="post" data-post-id="27992" data-author="marge" data-date="2009-02-05T13:07:01+00:00" data-subject="">
 
 The new apps may be helping already.  Our numbers seem to be improving. Lets push the voting and get our tmc ranking back up. Pleaaasseeee vote.
 
 </div>
 
-<div class="post" data-post-id="27993" data-author="*Splork*" data-date="2009-02-05T13:23:22+00:00">
+<div class="post" data-post-id="27993" data-author="*Splork*" data-date="2009-02-05T13:23:22+00:00" data-subject="">
 
 I asked three different newbies yesterday where they were logging in from, one said facebook, and the other two said our website. 
 
@@ -366,7 +366,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="27995" data-author="Teron" data-date="2009-02-05T14:14:51+00:00">
+<div class="post" data-post-id="27995" data-author="Teron" data-date="2009-02-05T14:14:51+00:00" data-subject="">
 
 Possibly, posting introductory logs, showing how it's played and how tough chars/mobs can be, might help.
 
@@ -388,13 +388,13 @@ Also, the people leave, when they see lots of good ideas rejected or postponed w
 
 </div>
 
-<div class="post" data-post-id="27997" data-author="marge" data-date="2009-02-05T14:33:56+00:00">
+<div class="post" data-post-id="27997" data-author="marge" data-date="2009-02-05T14:33:56+00:00" data-subject="">
 
 I tried to search for the sloth app on facebook. I went to applications and search and got nada.
 
 </div>
 
-<div class="post" data-post-id="28002" data-author="*Splork*" data-date="2009-02-05T19:15:37+00:00">
+<div class="post" data-post-id="28002" data-author="*Splork*" data-date="2009-02-05T19:15:37+00:00" data-subject="">
 
 Check my topic about the facebook application location. It is not searchable yet at facebook until they approve that part of it. Which should be soon.
 
@@ -402,7 +402,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28016" data-author="marge" data-date="2009-02-07T22:32:15+00:00">
+<div class="post" data-post-id="28016" data-author="marge" data-date="2009-02-07T22:32:15+00:00" data-subject="">
 
 we're rocketing up tmc...
 
@@ -410,7 +410,7 @@ vote vote vote
 
 </div>
 
-<div class="post" data-post-id="28055" data-author="reboog" data-date="2009-02-11T10:47:32+00:00">
+<div class="post" data-post-id="28055" data-author="reboog" data-date="2009-02-11T10:47:32+00:00" data-subject="">
 
 i can help improve the player base
 

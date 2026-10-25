@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="10168" data-author="Grue" data-date="2006-01-17T18:28:06+00:00">
+<div class="post" data-post-id="10168" data-author="Grue" data-date="2006-01-17T18:28:06+00:00" data-subject="Some website feedback">
 
 Few things
 
@@ -20,19 +20,19 @@ b) A home button in the list on the left would be nice.
 
 </div>
 
-<div class="post" data-post-id="10169" data-author="Deju" data-date="2006-01-17T18:48:36+00:00">
+<div class="post" data-post-id="10169" data-author="Deju" data-date="2006-01-17T18:48:36+00:00" data-subject="">
 
 If you click anywhere on the top "Slothmud III" image, it links to the home page... i suspect this is probably why there is no "home" link on the left-side list.
 
 </div>
 
-<div class="post" data-post-id="10170" data-author="Clink" data-date="2006-01-17T19:00:31+00:00">
+<div class="post" data-post-id="10170" data-author="Clink" data-date="2006-01-17T19:00:31+00:00" data-subject="">
 
 What version of ie?  I use 6.0.29 and don't see what you describe.
 
 </div>
 
-<div class="post" data-post-id="10171" data-author="12345" data-date="2006-01-17T19:55:13+00:00">
+<div class="post" data-post-id="10171" data-author="12345" data-date="2006-01-17T19:55:13+00:00" data-subject="">
 
 I have 6.0.28000....
 
@@ -50,19 +50,19 @@ Again, not sure why a mouseover would cause a complete refresh of that window...
 
 </div>
 
-<div class="post" data-post-id="10172" data-author="blackmore" data-date="2006-01-17T21:16:41+00:00">
+<div class="post" data-post-id="10172" data-author="blackmore" data-date="2006-01-17T21:16:41+00:00" data-subject="">
 
 I'm not seeing the flashing image, though when I mouse over the image, I do get a series of hyphens that go across the center of the image.  One shows up under the dragon's tail, the others are across horizontally from that one.  They're not a big deal, I just thought I'd point it out.
 
 </div>
 
-<div class="post" data-post-id="10174" data-author="12345" data-date="2006-01-17T21:40:22+00:00">
+<div class="post" data-post-id="10174" data-author="12345" data-date="2006-01-17T21:40:22+00:00" data-subject="">
 
 Yeah, at home and using IE 6.0.29, I got the same thing as blackmore.  Probably wouldn't have noticed if Blackmore hadn't mentioned it :)
 
 </div>
 
-<div class="post" data-post-id="10176" data-author="Grue" data-date="2006-01-17T22:06:53+00:00">
+<div class="post" data-post-id="10176" data-author="Grue" data-date="2006-01-17T22:06:53+00:00" data-subject="">
 
 6.0.29 with sp2 running on Windows XP sp2 here on a Dell notebook, and it is very noticeable on this machine.
 
@@ -70,7 +70,7 @@ Also notice if I try log in at teh forum it fails still, have to log in from the
 
 </div>
 
-<div class="post" data-post-id="10178" data-author="Weasel" data-date="2006-01-17T22:30:00+00:00">
+<div class="post" data-post-id="10178" data-author="Weasel" data-date="2006-01-17T22:30:00+00:00" data-subject="">
 
 ditto here.. looking at coding.. using a mix of css and tables might be the issue.. IE is a friggin pain at times with css..
 
@@ -98,7 +98,7 @@ Just use a normal html href tag for the link should solve it ...also didn't see 
 
 </div>
 
-<div class="post" data-post-id="10182" data-author="*Splork*" data-date="2006-01-17T22:55:09+00:00">
+<div class="post" data-post-id="10182" data-author="*Splork*" data-date="2006-01-17T22:55:09+00:00" data-subject="">
 
 My IE and Firefox, the top shows up correctly. So unless somebody can email me a fix I won't be able to track down the bug. Maybe Clink can look at it when he gets a chance. The problem I have been running into is one set of code works for IE, and an entire different set works for Firefox. So basically I just hacked the hell out of it until it looked correctly in the browsers I have been using to test it with...
 
@@ -108,7 +108,7 @@ Also, I am using IE 6.028 sp1 because sp2 screwed up my dual core system. Maybe 
 
 </div>
 
-<div class="post" data-post-id="10195" data-author="12345" data-date="2006-01-18T13:34:16+00:00">
+<div class="post" data-post-id="10195" data-author="12345" data-date="2006-01-18T13:34:16+00:00" data-subject="">
 
 Ok, I'm back at work again.  IE 6.0.28 and SP1 to boot.  Still flashing, and now I notice the dashes as well... though on an interesting note, they appear to be colored to blend into the background.
 
@@ -116,7 +116,7 @@ So all I can really say is that it doesn't seem to be a SP2 issue.
 
 </div>
 
-<div class="post" data-post-id="10203" data-author="Weasel" data-date="2006-01-18T19:04:05+00:00">
+<div class="post" data-post-id="10203" data-author="Weasel" data-date="2006-01-18T19:04:05+00:00" data-subject="">
 
 Is there a [/div] tag somewhere for the [div id="header" ...] tag there in that first table? Can't spot it..
 
@@ -158,7 +158,7 @@ yes?
 
 </div>
 
-<div class="post" data-post-id="10211" data-author="*Splork*" data-date="2006-01-18T20:20:44+00:00">
+<div class="post" data-post-id="10211" data-author="*Splork*" data-date="2006-01-18T20:20:44+00:00" data-subject="">
 
 Weasel's stuff was way over my head, but I think I found the bug anyways due to his work...
 
@@ -170,25 +170,25 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="10212" data-author="12345" data-date="2006-01-18T20:31:42+00:00">
+<div class="post" data-post-id="10212" data-author="12345" data-date="2006-01-18T20:31:42+00:00" data-subject="">
 
 My work computer shows perfect.  Nice!  :D
 
 </div>
 
-<div class="post" data-post-id="10215" data-author="Grue" data-date="2006-01-18T22:17:22+00:00">
+<div class="post" data-post-id="10215" data-author="Grue" data-date="2006-01-18T22:17:22+00:00" data-subject="">
 
 Fixed for me. Thanks muchly Splork.
 
 </div>
 
-<div class="post" data-post-id="10217" data-author="12345" data-date="2006-01-18T23:18:55+00:00">
+<div class="post" data-post-id="10217" data-author="12345" data-date="2006-01-18T23:18:55+00:00" data-subject="">
 
 Shows perfect at home as well, very nice :)
 
 </div>
 
-<div class="post" data-post-id="10225" data-author="Blastem" data-date="2006-01-19T19:20:57+00:00">
+<div class="post" data-post-id="10225" data-author="Blastem" data-date="2006-01-19T19:20:57+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.slothmud.org/index.php?modul ... unc=search">http://www.slothmud.org/index.php?module=pnAuction&func=search</LINK_TEXT>](http://www.slothmud.org/index.php?module=pnAuction&func=search)
 
@@ -198,7 +198,7 @@ search broke :)
 
 </div>
 
-<div class="post" data-post-id="10230" data-author="Clink" data-date="2006-01-19T20:45:42+00:00">
+<div class="post" data-post-id="10230" data-author="Clink" data-date="2006-01-19T20:45:42+00:00" data-subject="">
 
 Search never worked, but it didn't quite give this ugly of a response.  I'll just take the links with missing features off the site when I get home.
 

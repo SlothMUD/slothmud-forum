@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="21987" data-author="alias" data-date="2008-01-12T00:50:52+00:00">
+<div class="post" data-post-id="21987" data-author="alias" data-date="2008-01-12T00:50:52+00:00" data-subject="Char for sale for coins.">
 
 Char for sale for coins. comes w/ the following eq, no clan membership.
 

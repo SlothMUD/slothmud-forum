@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="7344" data-author="Amonsul" data-date="2005-06-20T03:33:50+00:00">
+<div class="post" data-post-id="7344" data-author="Amonsul" data-date="2005-06-20T03:33:50+00:00" data-subject="Two Questions">
 
 Two quick questions:
 
@@ -24,7 +24,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="7347" data-author="Taki" data-date="2005-06-20T04:35:37+00:00">
+<div class="post" data-post-id="7347" data-author="Taki" data-date="2005-06-20T04:35:37+00:00" data-subject="">
 
 Hi!
 
@@ -40,7 +40,7 @@ T.
 
 </div>
 
-<div class="post" data-post-id="7354" data-author="12345" data-date="2005-06-20T10:31:03+00:00">
+<div class="post" data-post-id="7354" data-author="12345" data-date="2005-06-20T10:31:03+00:00" data-subject="">
 
 Stats are pretty subjective, but since you're playing a thief, you can actually do a couple things to help yourself out.
 
@@ -54,7 +54,7 @@ It'll take a little while to roll that... but it's a lot easier than rolling a t
 
 </div>
 
-<div class="post" data-post-id="7387" data-author="Amonsul" data-date="2005-06-20T21:11:18+00:00">
+<div class="post" data-post-id="7387" data-author="Amonsul" data-date="2005-06-20T21:11:18+00:00" data-subject="">
 
 Thanks for the replies.  That pretty much was what I thought on the stats, but the confirmation helpeed.
 

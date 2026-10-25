@@ -10,7 +10,7 @@ locked: false
 post_count: 56
 ---
 
-<div class="post" data-post-id="14878" data-author="Medios" data-date="2006-11-01T22:18:36+00:00">
+<div class="post" data-post-id="14878" data-author="Medios" data-date="2006-11-01T22:18:36+00:00" data-subject="How you know when someone thinks your stupid.">
 
 "I sincerely regret that my words were misinterpreted to wrongly imply anything negative about those in uniform and I personally apologize to any service member, family member or American who was offended," Kerry said in a statement.
 
@@ -26,13 +26,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="14883" data-author="Weasel" data-date="2006-11-01T22:47:55+00:00">
+<div class="post" data-post-id="14883" data-author="Weasel" data-date="2006-11-01T22:47:55+00:00" data-subject="">
 
 Kerry = asshat.
 
 </div>
 
-<div class="post" data-post-id="14906" data-author="resouh" data-date="2006-11-02T04:42:31+00:00">
+<div class="post" data-post-id="14906" data-author="resouh" data-date="2006-11-02T04:42:31+00:00" data-subject="">
 
 What chaps me...
 
@@ -44,7 +44,7 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="14918" data-author="Autolycos" data-date="2006-11-02T13:54:54+00:00">
+<div class="post" data-post-id="14918" data-author="Autolycos" data-date="2006-11-02T13:54:54+00:00" data-subject="">
 
 I didn't like Kerry or Bush..  
 
@@ -54,7 +54,7 @@ Besides.. how could Alice Cooper's Senator be bad?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14920" data-author="Diazz_Dizazter" data-date="2006-11-02T14:24:51+00:00">
+<div class="post" data-post-id="14920" data-author="Diazz_Dizazter" data-date="2006-11-02T14:24:51+00:00" data-subject="">
 
 In the past day, I've seen this same type of statement on like 7 of my 
 
@@ -66,7 +66,7 @@ nation against him.
 
 </div>
 
-<div class="post" data-post-id="14921" data-author="13" data-date="2006-11-02T15:19:46+00:00">
+<div class="post" data-post-id="14921" data-author="13" data-date="2006-11-02T15:19:46+00:00" data-subject="">
 
 I'm sorry that he misspoke himself and people assumed that he thought
 
@@ -78,13 +78,13 @@ but it's sort of a lesser-of-evils situation here and the choice is clear.
 
 </div>
 
-<div class="post" data-post-id="14923" data-author="Alberich" data-date="2006-11-02T16:02:55+00:00">
+<div class="post" data-post-id="14923" data-author="Alberich" data-date="2006-11-02T16:02:55+00:00" data-subject="">
 
 [img:1r3kt32k]http://hotair.com/wp/wp-content/uploads/2006/11/carry.jpg[/img:1r3kt32k]
 
 </div>
 
-<div class="post" data-post-id="14925" data-author="Vixn" data-date="2006-11-02T16:40:05+00:00">
+<div class="post" data-post-id="14925" data-author="Vixn" data-date="2006-11-02T16:40:05+00:00" data-subject="">
 
 Don't like Kerry? or Bush? Nods, I see.
 
@@ -96,7 +96,7 @@ p.s. He needs you vote in America. Cause he can't stand for presidents post on n
 
 </div>
 
-<div class="post" data-post-id="14929" data-author="Corinn" data-date="2006-11-02T19:01:39+00:00">
+<div class="post" data-post-id="14929" data-author="Corinn" data-date="2006-11-02T19:01:39+00:00" data-subject="">
 
 The only reason I voted for Kerry in '04 was because I ******* hate that ******* ****ing piece of ****ing **** GW ****ing Bush!  Kerry was the lesser of 2 evils in my opinion.
 
@@ -104,13 +104,13 @@ Anyway, I was watching the Daily Show last night and thought that Jon Stewart sa
 
 </div>
 
-<div class="post" data-post-id="14931" data-author="13" data-date="2006-11-02T19:19:05+00:00">
+<div class="post" data-post-id="14931" data-author="13" data-date="2006-11-02T19:19:05+00:00" data-subject="">
 
 I love Jon Stewart and the Colbert Report.
 
 </div>
 
-<div class="post" data-post-id="14934" data-author="Autolycos" data-date="2006-11-02T19:28:05+00:00">
+<div class="post" data-post-id="14934" data-author="Autolycos" data-date="2006-11-02T19:28:05+00:00" data-subject="">
 
 nod, both great shows.. and dont forget Bill Mahr.. he's pretty damn good too.
 
@@ -118,7 +118,7 @@ btw.. if you have not seen the movie [b:2fbogzsi]Man of the Year[/b:2fbogzsi] yo
 
 </div>
 
-<div class="post" data-post-id="14935" data-author="13" data-date="2006-11-02T21:15:58+00:00">
+<div class="post" data-post-id="14935" data-author="13" data-date="2006-11-02T21:15:58+00:00" data-subject="">
 
 Really, if you think about it, generally speaking, I would say the majority
 
@@ -132,7 +132,7 @@ have a degree, but the ratio of officers to worker bees is probably 10:1.
 
 </div>
 
-<div class="post" data-post-id="14936" data-author="Weasel" data-date="2006-11-02T21:28:33+00:00">
+<div class="post" data-post-id="14936" data-author="Weasel" data-date="2006-11-02T21:28:33+00:00" data-subject="">
 
 Really, if you think about it, generally speaking, I would say the majority of our soldiers are uneducated.  Here is my reasoning:
 
@@ -150,7 +150,7 @@ Reasoning means nothing if you haven't looked at the actual numbers. You might b
 
 </div>
 
-<div class="post" data-post-id="14938" data-author="13" data-date="2006-11-02T21:43:55+00:00">
+<div class="post" data-post-id="14938" data-author="13" data-date="2006-11-02T21:43:55+00:00" data-subject="">
 
 I'd like to see the numbers and where they came from.  And I'm not really
 
@@ -158,7 +158,7 @@ down with 'corporate us' or 'political us' much.
 
 </div>
 
-<div class="post" data-post-id="14939" data-author="Medios" data-date="2006-11-02T21:44:31+00:00">
+<div class="post" data-post-id="14939" data-author="Medios" data-date="2006-11-02T21:44:31+00:00" data-subject="">
 
 You have to remember this is the same guy that made up false statements about Vietnam to further his political career.  He also said in front of Congress that a volunteer army would be comprised of blacks and browns and most likely commit war crimes.  I guess this isnt a racist statement?  Im willing to bet that people that are forced to fight in a draft are alot more likely to do bad stuff than people who openly join of their own free will.  He has constantly attacked the military, not George W.  If he thinks GW is so stupid he should say it and leave the military out of it.  They just follow orders.  I guess he cant call G W stupid since he made better grades than Kerry.  Bush also received a degree from harvard as well.  This is just common pre election slander, it goes on every cycle.  Finally someone stood up for the military and asked for an apology, a halfass apology that he posted on his website.  Kerry doesnt even have the balls to offer a real apology to a reporter.  He posts it on the internet so the media circus can say, "Oh hes apologized lets move on to Rush Limbaughs statements from 2 weeks ago."  Politicians need to be held accountable for their actions, radio hosts dont.
 
@@ -168,7 +168,7 @@ PS   Seems to me that if you didnt vote in the last election then you really don
 
 </div>
 
-<div class="post" data-post-id="14940" data-author="13" data-date="2006-11-02T21:46:13+00:00">
+<div class="post" data-post-id="14940" data-author="13" data-date="2006-11-02T21:46:13+00:00" data-subject="">
 
 Kerry's reply was interesting.
 
@@ -182,13 +182,13 @@ Bottom line, these Republicans want to debate straw men because they're afraid t
 
 </div>
 
-<div class="post" data-post-id="14942" data-author="13" data-date="2006-11-02T21:49:52+00:00">
+<div class="post" data-post-id="14942" data-author="13" data-date="2006-11-02T21:49:52+00:00" data-subject="">
 
 Support the troops by sending them into a flagrant war?
 
 </div>
 
-<div class="post" data-post-id="14943" data-author="Weasel" data-date="2006-11-02T21:50:44+00:00">
+<div class="post" data-post-id="14943" data-author="Weasel" data-date="2006-11-02T21:50:44+00:00" data-subject="">
 
 I'd like to see the numbers and where they came from.  And I'm not really down with 'corporate us' or 'political us' much.[/quote:32vixfe4]
 
@@ -196,7 +196,7 @@ I wish I could find them again for you - I read a whole slew of sites when this 
 
 </div>
 
-<div class="post" data-post-id="14944" data-author="Weasel" data-date="2006-11-02T21:53:48+00:00">
+<div class="post" data-post-id="14944" data-author="Weasel" data-date="2006-11-02T21:53:48+00:00" data-subject="">
 
 Kerry's reply was interesting.
 
@@ -212,7 +212,7 @@ LOL - he IS a stuffed suit, does he not realize that? Kerry has been attacking t
 
 </div>
 
-<div class="post" data-post-id="14945" data-author="13" data-date="2006-11-02T21:54:02+00:00">
+<div class="post" data-post-id="14945" data-author="13" data-date="2006-11-02T21:54:02+00:00" data-subject="">
 
 I'm not a democrat or what someone would call a Kerry-supporter.  I am
 
@@ -224,19 +224,19 @@ Why are we arguing over donkies and elephants?
 
 </div>
 
-<div class="post" data-post-id="14946" data-author="13" data-date="2006-11-02T21:55:31+00:00">
+<div class="post" data-post-id="14946" data-author="13" data-date="2006-11-02T21:55:31+00:00" data-subject="">
 
 Are you a Bush-supporter Weas, or just open season on all suits?
 
 </div>
 
-<div class="post" data-post-id="14947" data-author="Weasel" data-date="2006-11-02T22:01:02+00:00">
+<div class="post" data-post-id="14947" data-author="Weasel" data-date="2006-11-02T22:01:02+00:00" data-subject="">
 
 Some things I agree with, some I don't with Bush. I don't believe in blindly saying I'm a supporter for anyone in particular, as it infers I am in total support, which I am not. I do however think that of the two options last elections - Bush and Kerry - Bush was the better choice. That doesn't mean I think he's the best President, but I don't believe Kerry would have been better. As someone else said earlier, it was the choice of the better of two evils. Does that answer your question? If a better option than Kerry had been available, I may have gone that way, and I believe a LOT of people felt the same way.
 
 </div>
 
-<div class="post" data-post-id="14948" data-author="Medios" data-date="2006-11-02T22:11:48+00:00">
+<div class="post" data-post-id="14948" data-author="Medios" data-date="2006-11-02T22:11:48+00:00" data-subject="">
 
 John Kerry is totally right.  A republican has never joined the military, and never will.  Hes the only one who ever served in Vietnam and cannot be refuted.  The shit about common GOP playbook cracks me up.  Does anyone know that Michael J Fox wrote a book where he describes going in front of Congress without taking his meds?  He did this on purpose to try and maximize his symptoms so that we can better understand his disease.  Now hes reportedly admitted that he was overmedicated and that is why he was moving so much.  Fox never even read the MO stem cell initiative and I feel sorry for him being used by the left to further cloning legislation.  This man is being used.  
 
@@ -244,7 +244,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="14949" data-author="Vixn" data-date="2006-11-02T22:30:09+00:00">
+<div class="post" data-post-id="14949" data-author="Vixn" data-date="2006-11-02T22:30:09+00:00" data-subject="">
 
 Some things I agree with, some I don't with Bush. I don't believe in blindly saying I'm a supporter for anyone in particular, as it infers I am in total support, which I am not. I do however think that of the two options last elections - Bush and Kerry - Bush was the better choice. That doesn't mean I think he's the best President, but I don't believe Kerry would have been better. As someone else said earlier, it was the choice of the better of two evils. Does that answer your question? If a better option than Kerry had been available, I may have gone that way, and I believe a LOT of people felt the same way.[/quote:fuuci78f]
 
@@ -252,7 +252,7 @@ could u vota against both candidates or u have to choose evil one?
 
 </div>
 
-<div class="post" data-post-id="14950" data-author="13" data-date="2006-11-02T22:33:13+00:00">
+<div class="post" data-post-id="14950" data-author="13" data-date="2006-11-02T22:33:13+00:00" data-subject="">
 
 Just saw this on the Ween Forum
 
@@ -278,7 +278,7 @@ With early elections already underway, it looks as if Florida will again be in t
 
 </div>
 
-<div class="post" data-post-id="14951" data-author="12345" data-date="2006-11-03T04:16:44+00:00">
+<div class="post" data-post-id="14951" data-author="12345" data-date="2006-11-03T04:16:44+00:00" data-subject="">
 
 Very little in politics is black and white.  You effectively vote for the candidate that you think will suck least.  They'll almost certainly have many views that you disagree with, which makes them unpopular.  They may also have insights that we are not privy to, which may make a good decision seem poor because we don't entirely understand it.
 
@@ -292,7 +292,7 @@ That probably wandered off topic quite a bit... but seemed appropriate at the ti
 
 </div>
 
-<div class="post" data-post-id="14953" data-author="alias" data-date="2006-11-03T14:17:25+00:00">
+<div class="post" data-post-id="14953" data-author="alias" data-date="2006-11-03T14:17:25+00:00" data-subject="">
 
 Ever wonder what the quickest way out of a recession is? Go to war. Time and time again when the country is headed to or in a recession the nation will go to war to bring its self out of it or to mask it. Look at all the lost jobs in the country.And the only way we haven't lost jobs if you believe what is being spead- is low paying jobs that you can't live on-ie McDonalds, Walmart. How many more people would be out of work if all the people in the military who have been called up never went over to Afaganistan/Iraq? Thousands of more men and women would be unemployed here, not just the jobs that we have to back-fill from the brave men and women who were called to serve, but all the support industries that are needed to send the amount of people we have to fight and support. Bush has let Oil companys rip us off and Corportations get greedy and move operations out of the country to cheap labor. This is why we NEEDED to go to war. Ever wonder why before Bush went into office gas was 99cents a gallon and now its between $2-$3 and doesn't seem to fall much? Sorry to rant some but it stirs in my craw that people can go on and just swallow whats being fed to them. I'm not telling you Kerry would have been better, I don't know but I did like some of the policies that he endorsed. If you don't like whats been happening in the world of politics please go out and vote. And if you think everything is peachy you can vote or stay home and everything thing will continue as it was. 
 
@@ -306,7 +306,7 @@ regards,
 
 </div>
 
-<div class="post" data-post-id="14955" data-author="Driven" data-date="2006-11-03T15:15:15+00:00">
+<div class="post" data-post-id="14955" data-author="Driven" data-date="2006-11-03T15:15:15+00:00" data-subject="">
 
 While this is an interesting sentiment, Alias, I think it's an overly simplistic view of the world.  The reason why gas is so expensive now is that 2 billion people in China and India now own cars and are consuming at an unprecendented rate.  More gas being consumed equates to higher demand, and so the price goes up given that the supply is about the same.  It has nothing to do with Bush.
 
@@ -328,7 +328,7 @@ regards,
 
 </div>
 
-<div class="post" data-post-id="14962" data-author="mudder" data-date="2006-11-03T23:57:54+00:00">
+<div class="post" data-post-id="14962" data-author="mudder" data-date="2006-11-03T23:57:54+00:00" data-subject="">
 
 The reason why gas is so expensive now is that 2 billion people in China and India now own cars and are consuming at an unprecendented rate.[/quote:1ftol7mu]
 
@@ -338,13 +338,13 @@ Anything India, China or anywhere else are doing isn't therefore unprecedented, 
 
 </div>
 
-<div class="post" data-post-id="14963" data-author="13" data-date="2006-11-04T00:33:16+00:00">
+<div class="post" data-post-id="14963" data-author="13" data-date="2006-11-04T00:33:16+00:00" data-subject="">
 
 I love anon. alts.
 
 </div>
 
-<div class="post" data-post-id="14964" data-author="Medios" data-date="2006-11-04T01:15:28+00:00">
+<div class="post" data-post-id="14964" data-author="Medios" data-date="2006-11-04T01:15:28+00:00" data-subject="">
 
 Im wondering why a country like china or india would pay so much for gas just so Bush can get his friends rich at the big oil companies.  I think that the price of something has to do with supply and demand moreso than the 8% that big oil is raking in.  The thing about profit is that when you take a cut , the larger the number the more you make.  Oil had a huge year and the industry got its rake.  I mostly blame politicians for not allowing more oil refinerys, offshore and inland drilling and other technologies like coal-gasification.  They all get rich on both sides at the tax payers expense.  The argument of parties is a lame duck.
 
@@ -352,7 +352,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="14966" data-author="12345" data-date="2006-11-04T01:40:13+00:00">
+<div class="post" data-post-id="14966" data-author="12345" data-date="2006-11-04T01:40:13+00:00" data-subject="">
 
 Actually, it might be anonymous, but mudder does have a point.  When I was in Germany about a decade ago, gas was about $3.50 a gallon after all the conversions from liters to gallons and marks to dollars.  When I went on leave my parents were apalled that I was paying $1.30 a gallon without giving it a second thought.  They thought it was horendously expensive, I thought it was a bargain.
 
@@ -362,7 +362,7 @@ Anyway, the point being, the rest of the world has been dealing with prices much
 
 </div>
 
-<div class="post" data-post-id="14967" data-author="Hades" data-date="2006-11-04T03:13:06+00:00">
+<div class="post" data-post-id="14967" data-author="Hades" data-date="2006-11-04T03:13:06+00:00" data-subject="So long and thanks for all the fish">
 
 Sea Life takes a KO in 2048.
 
@@ -372,7 +372,7 @@ Don't tell Pisces.
 
 </div>
 
-<div class="post" data-post-id="14969" data-author="Roadrunr" data-date="2006-11-04T06:15:17+00:00">
+<div class="post" data-post-id="14969" data-author="Roadrunr" data-date="2006-11-04T06:15:17+00:00" data-subject="">
 
 Actually, what is happening in China and India is unprecedented. They are going through what we went through in the 50's except that their populations combined are roughly 12x what ours was.  It's not whats happening, it's the sheer scale of it.
 
@@ -382,7 +382,7 @@ And, if you dont believe that China and India are consuming vast quantities of e
 
 </div>
 
-<div class="post" data-post-id="14973" data-author="13" data-date="2006-11-04T12:28:45+00:00">
+<div class="post" data-post-id="14973" data-author="13" data-date="2006-11-04T12:28:45+00:00" data-subject="">
 
 [quote:24b9zrwg]Just about all construction materials have skyrocketed in the past couple years. [/quote:24b9zrwg]
 
@@ -390,7 +390,7 @@ War.   We blow it up, we then pay to rebuild.  It's very clever.
 
 </div>
 
-<div class="post" data-post-id="14976" data-author="alias" data-date="2006-11-04T14:51:32+00:00">
+<div class="post" data-post-id="14976" data-author="alias" data-date="2006-11-04T14:51:32+00:00" data-subject="">
 
 Your right we didn't just go over to Iraq to fix our economy, we also went so the son could finish the job the father didn't. I feel grateful for the men and women who have volunteered to serve our country I just wish we didn't send them to die for bullshit reasons.
 
@@ -410,7 +410,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="14977" data-author="Driven" data-date="2006-11-04T14:56:17+00:00">
+<div class="post" data-post-id="14977" data-author="Driven" data-date="2006-11-04T14:56:17+00:00" data-subject="">
 
 You misunderstood what I said.  My comments were in no way an attempt to compare India and China to anyone else.  My point reflects exactly what Roadrunr said... now that India and China are expanding, the levels of fossil fuels being consumed _worldwide_ is unprecedented.  This is the cause of the increased gas prices... like I said, increased demand has outpaced the supply, and so gas prices have gone up. 
 
@@ -420,7 +420,7 @@ Anything India, China or anywhere else are doing isn't therefore unprecedented, 
 
 </div>
 
-<div class="post" data-post-id="14978" data-author="Diazz_Dizazter" data-date="2006-11-04T14:56:39+00:00">
+<div class="post" data-post-id="14978" data-author="Diazz_Dizazter" data-date="2006-11-04T14:56:39+00:00" data-subject="">
 
 [quote:3o076wce]Sea Life takes a KO in 2048.
 
@@ -434,7 +434,7 @@ Don't tell the penguins.
 
 </div>
 
-<div class="post" data-post-id="14980" data-author="Driven" data-date="2006-11-04T15:45:18+00:00">
+<div class="post" data-post-id="14980" data-author="Driven" data-date="2006-11-04T15:45:18+00:00" data-subject="">
 
 Your right we didn't just go over to Iraq to fix our economy, we also went so the son could finish the job the father didn't. I feel grateful for the men and women who have volunteered to serve our country I just wish we didn't send them to die for bullshit reasons.[/quote:24sguqr7]
 
@@ -454,7 +454,7 @@ Yea, I guess this is par for course for a Democrat.  We could argue until we're 
 
 </div>
 
-<div class="post" data-post-id="14981" data-author="kjartan" data-date="2006-11-04T17:06:42+00:00">
+<div class="post" data-post-id="14981" data-author="kjartan" data-date="2006-11-04T17:06:42+00:00" data-subject="">
 
 [quote:12i9mc9v]Sea Life takes a KO in 2048.
 
@@ -470,7 +470,7 @@ Governments worldwide will crumble under the onslaught of the ensuing penguin bl
 
 </div>
 
-<div class="post" data-post-id="14982" data-author="12345" data-date="2006-11-04T17:34:14+00:00">
+<div class="post" data-post-id="14982" data-author="12345" data-date="2006-11-04T17:34:14+00:00" data-subject="">
 
 One of the basics of the economy is that there's never any more money, just a change in circulation.  Ie. if your country exports more money than it imports, you're eventually going to have to do something to get it back or you'll simply run out of money.
 
@@ -480,13 +480,13 @@ But yes, I agree that continually finding reasons to give money to other countri
 
 </div>
 
-<div class="post" data-post-id="14983" data-author="Vixn" data-date="2006-11-04T17:37:30+00:00">
+<div class="post" data-post-id="14983" data-author="Vixn" data-date="2006-11-04T17:37:30+00:00" data-subject="">
 
 What's the current gas price in America? I have it at about 2,88$ per gallon here in Russia and as I know Russians have enough oil to cover our domestic needs. Other words we don't buy oil from other countries and don't grow so fast like China and India - so I don't understand why do you think $2-$3 is unfair price.
 
 </div>
 
-<div class="post" data-post-id="14985" data-author="alias" data-date="2006-11-04T23:24:39+00:00">
+<div class="post" data-post-id="14985" data-author="alias" data-date="2006-11-04T23:24:39+00:00" data-subject="">
 
 Here I go making friends again....
 
@@ -516,13 +516,13 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="14986" data-author="Weasel" data-date="2006-11-05T00:13:32+00:00">
+<div class="post" data-post-id="14986" data-author="Weasel" data-date="2006-11-05T00:13:32+00:00" data-subject="">
 
 hey, I'm all for 3 day work weeks! - and I'm not even a politician..
 
 </div>
 
-<div class="post" data-post-id="14987" data-author="kjartan" data-date="2006-11-05T01:47:20+00:00">
+<div class="post" data-post-id="14987" data-author="kjartan" data-date="2006-11-05T01:47:20+00:00" data-subject="">
 
 One of the basics of the economy is that there's never any more money, just a change in circulation.  Ie. if your country exports more money than it imports, you're eventually going to have to do something to get it back or you'll simply run out of money.[/quote:324ncs7j]
 
@@ -530,7 +530,7 @@ So, logically if there is never any more money, then a thousand years ago when t
 
 </div>
 
-<div class="post" data-post-id="14988" data-author="Diazz_Dizazter" data-date="2006-11-05T02:51:07+00:00">
+<div class="post" data-post-id="14988" data-author="Diazz_Dizazter" data-date="2006-11-05T02:51:07+00:00" data-subject="">
 
 I have like 20 minutes so this will be length.  Wow que on my server is
 
@@ -670,7 +670,7 @@ really make some progress.  Until then, ahh, were screwed.
 
 </div>
 
-<div class="post" data-post-id="14989" data-author="Roadrunr" data-date="2006-11-05T02:57:11+00:00">
+<div class="post" data-post-id="14989" data-author="Roadrunr" data-date="2006-11-05T02:57:11+00:00" data-subject="">
 
 OPEC - Organization of Oil Exporting Countries ie, not oil companies necessarily but countries.  exxon-mobil buy oil from saudi, iran, whomever.
 
@@ -684,7 +684,7 @@ oh, and I suppose the price of gas is high in canada because 'dubya ' is control
 
 </div>
 
-<div class="post" data-post-id="14994" data-author="12345" data-date="2006-11-05T03:41:59+00:00">
+<div class="post" data-post-id="14994" data-author="12345" data-date="2006-11-05T03:41:59+00:00" data-subject="">
 
 One of the basics of the economy is that there's never any more money, just a change in circulation.  Ie. if your country exports more money than it imports, you're eventually going to have to do something to get it back or you'll simply run out of money.[/quote:j5de0e4t]
 
@@ -700,19 +700,19 @@ So yes, there's not really any more money, but the rate at which it circulates i
 
 </div>
 
-<div class="post" data-post-id="14997" data-author="13" data-date="2006-11-05T10:21:37+00:00">
+<div class="post" data-post-id="14997" data-author="13" data-date="2006-11-05T10:21:37+00:00" data-subject="">
 
 opec = organization of petroleum exporting companies
 
 </div>
 
-<div class="post" data-post-id="15014" data-author="osric" data-date="2006-11-05T19:10:38+00:00">
+<div class="post" data-post-id="15014" data-author="osric" data-date="2006-11-05T19:10:38+00:00" data-subject="">
 
 Heh, hey gang fyi the price of gas in Canada has been steadily dropping lately, and ethonol made with sugar rather than corn has a much higher energy conversion rate, we just have to start growing real sugar in the US again! Just my half cents worth.  :lol:
 
 </div>
 
-<div class="post" data-post-id="15022" data-author="Roadrunr" data-date="2006-11-05T22:16:50+00:00">
+<div class="post" data-post-id="15022" data-author="Roadrunr" data-date="2006-11-05T22:16:50+00:00" data-subject="">
 
 opec = organization of petroleum exporting companies[/quote:156anice]
 
@@ -722,13 +722,13 @@ not companies as in EXXON, GULF, SHELL
 
 </div>
 
-<div class="post" data-post-id="15023" data-author="13" data-date="2006-11-05T23:51:38+00:00">
+<div class="post" data-post-id="15023" data-author="13" data-date="2006-11-05T23:51:38+00:00" data-subject="">
 
 nod, it's what these countries belong to, it's an 'organization'
 
 </div>
 
-<div class="post" data-post-id="15024" data-author="Weasel" data-date="2006-11-06T00:22:25+00:00">
+<div class="post" data-post-id="15024" data-author="Weasel" data-date="2006-11-06T00:22:25+00:00" data-subject="">
 
 yeah, just like NATO or the UN or NAFTA or the Commonwealth.. except the OPEC countries have oil.. lots of it. 
 
@@ -736,7 +736,7 @@ One sure way to weaken that organization - reduce dependancy on petroleum produc
 
 </div>
 
-<div class="post" data-post-id="15025" data-author="12345" data-date="2006-11-06T01:35:41+00:00">
+<div class="post" data-post-id="15025" data-author="12345" data-date="2006-11-06T01:35:41+00:00" data-subject="">
 
 Funny way of phrasing it.  General Motors is already flirting with bankruptcy.  You have to be concerned with your bottom line to a certain extent, or you won't be a company for very long.  Besides, there's already a few alternatives to normal petrol out there... and look how many people are buying.  
 
@@ -746,13 +746,13 @@ Government is expensive, war is more so.
 
 </div>
 
-<div class="post" data-post-id="15046" data-author="dieSprout" data-date="2006-11-06T20:31:23+00:00">
+<div class="post" data-post-id="15046" data-author="dieSprout" data-date="2006-11-06T20:31:23+00:00" data-subject="urm">
 
 Diazz, server/name?
 
 </div>
 
-<div class="post" data-post-id="15047" data-author="13" data-date="2006-11-06T20:33:44+00:00">
+<div class="post" data-post-id="15047" data-author="13" data-date="2006-11-06T20:33:44+00:00" data-subject="">
 
 mike, stomp442@gmail.com hit me, it's aaron.
 

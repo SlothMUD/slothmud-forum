@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="35633" data-author="Edwin" data-date="2015-01-15T02:55:24+00:00">
+<div class="post" data-post-id="35633" data-author="Edwin" data-date="2015-01-15T02:55:24+00:00" data-subject="AFF_SYSTEM_SHOCK questions">
 
 In my raise gear I have Wis 22 (which is the max I can have at 4x40)
 
@@ -34,7 +34,7 @@ i.e. is there any marginal benefit of increasing AFF_SYSTEM_SHOCK to 15?
 
 </div>
 
-<div class="post" data-post-id="35634" data-author="*juggleblood*" data-date="2015-01-15T12:10:08+00:00">
+<div class="post" data-post-id="35634" data-author="*juggleblood*" data-date="2015-01-15T12:10:08+00:00" data-subject="Re: AFF_SYSTEM_SHOCK questions">
 
 Yes marginal. That's the key word. Socketing it to your healbonus gear makes sense to me because the less gear of one type you lug around is the more gear of a different type you can lug around such as if you wanted a spelldam set or undead control set. Another benefit is that by wearing your sys-shock in heal mode, you get a bonus to being raised if you should get whacked while healing.
 
@@ -44,7 +44,7 @@ That's my take anyway.
 
 </div>
 
-<div class="post" data-post-id="35635" data-author="Marvel" data-date="2015-01-15T14:27:31+00:00">
+<div class="post" data-post-id="35635" data-author="Marvel" data-date="2015-01-15T14:27:31+00:00" data-subject="Re: AFF_SYSTEM_SHOCK questions">
 
 Score stats2 then do math. That should tell you cap.
 

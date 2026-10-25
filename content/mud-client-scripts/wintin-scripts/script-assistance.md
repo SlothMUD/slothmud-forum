@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="29605" data-author="sirrico1" data-date="2009-06-28T20:16:20+00:00">
+<div class="post" data-post-id="29605" data-author="sirrico1" data-date="2009-06-28T20:16:20+00:00" data-subject="script assistance">
 
 This is my rescue script and for some reason it does not always rescue on disengages, any ideas? 
 
@@ -54,13 +54,13 @@ This is my rescue script and for some reason it does not always rescue on diseng
 
 </div>
 
-<div class="post" data-post-id="29609" data-author="Mace" data-date="2009-06-29T05:19:21+00:00">
+<div class="post" data-post-id="29609" data-author="Mace" data-date="2009-06-29T05:19:21+00:00" data-subject="Gender for weaks!">
 
 Hm, probably because not all mobs disengage 'himself'.  :)
 
 </div>
 
-<div class="post" data-post-id="29612" data-author="Rigwarl" data-date="2009-06-29T11:14:03+00:00">
+<div class="post" data-post-id="29612" data-author="Rigwarl" data-date="2009-06-29T11:14:03+00:00" data-subject="">
 
 There tends to be silent disengages too nowadays, where the mob changes target without any notice.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2256" data-author="Alberich" data-date="2004-10-12T21:27:40+00:00">
+<div class="post" data-post-id="2256" data-author="Alberich" data-date="2004-10-12T21:27:40+00:00" data-subject="wtb some cps">
 
 looking for:
 

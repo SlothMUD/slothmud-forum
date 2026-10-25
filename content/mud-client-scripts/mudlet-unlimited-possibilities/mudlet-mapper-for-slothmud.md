@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34901" data-author="DarkArtist" data-date="2014-03-09T13:37:53+00:00">
+<div class="post" data-post-id="34901" data-author="DarkArtist" data-date="2014-03-09T13:37:53+00:00" data-subject="Mudlet Mapper for Slothmud">
 
 Has anyone managed to get the mudlet mapper setup for Slothmud yet? It's a bit daunting for me still.
 

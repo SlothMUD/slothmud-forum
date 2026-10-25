@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="655" data-author="impz" data-date="2004-06-12T10:32:05+00:00">
+<div class="post" data-post-id="655" data-author="impz" data-date="2004-06-12T10:32:05+00:00" data-subject="Some newbie stuff to sell">
 
 You feel informed:
 
@@ -218,49 +218,49 @@ clerics, and adept warriors may use this item.
 
 </div>
 
-<div class="post" data-post-id="656" data-author="Zenkai" data-date="2004-06-12T11:38:11+00:00">
+<div class="post" data-post-id="656" data-author="Zenkai" data-date="2004-06-12T11:38:11+00:00" data-subject="coif serpent - 2mil">
 
 coif serpent - 2mil
 
 </div>
 
-<div class="post" data-post-id="657" data-author="impz" data-date="2004-06-12T11:54:56+00:00">
+<div class="post" data-post-id="657" data-author="impz" data-date="2004-06-12T11:54:56+00:00" data-subject="">
 
 blue steel bracelet withdrawn..sorry :)
 
 </div>
 
-<div class="post" data-post-id="668" data-author="Grapenut" data-date="2004-06-13T01:52:40+00:00">
+<div class="post" data-post-id="668" data-author="Grapenut" data-date="2004-06-13T01:52:40+00:00" data-subject="">
 
 <P>Mongoss Skin Bag 500k<BR>Cross Necklace 500k<BR>Circle Flames 400k</P>
 
 </div>
 
-<div class="post" data-post-id="680" data-author="tieg" data-date="2004-06-14T09:46:37+00:00">
+<div class="post" data-post-id="680" data-author="tieg" data-date="2004-06-14T09:46:37+00:00" data-subject="">
 
 coif 2.5mil
 
 </div>
 
-<div class="post" data-post-id="681" data-author="tieg" data-date="2004-06-14T09:48:11+00:00">
+<div class="post" data-post-id="681" data-author="tieg" data-date="2004-06-14T09:48:11+00:00" data-subject="">
 
 coif 2.5mil
 
 </div>
 
-<div class="post" data-post-id="682" data-author="tieg" data-date="2004-06-14T09:49:52+00:00">
+<div class="post" data-post-id="682" data-author="tieg" data-date="2004-06-14T09:49:52+00:00" data-subject="">
 
 coif 2.5mil
 
 </div>
 
-<div class="post" data-post-id="683" data-author="Qa" data-date="2004-06-14T14:38:50+00:00">
+<div class="post" data-post-id="683" data-author="Qa" data-date="2004-06-14T14:38:50+00:00" data-subject="">
 
 mongoose-bag 1mil
 
 </div>
 
-<div class="post" data-post-id="684" data-author="Elusive" data-date="2004-06-14T19:14:26+00:00">
+<div class="post" data-post-id="684" data-author="Elusive" data-date="2004-06-14T19:14:26+00:00" data-subject="gorget blue steel">
 
 gorget blue steel
 
@@ -270,7 +270,7 @@ gorget blue steel
 
 </div>
 
-<div class="post" data-post-id="691" data-author="impz" data-date="2004-06-15T02:59:36+00:00">
+<div class="post" data-post-id="691" data-author="impz" data-date="2004-06-15T02:59:36+00:00" data-subject="">
 
 updates!!! ..auction ends on friday
 
@@ -288,7 +288,7 @@ as said above, auction ends on friday....happy bidding!
 
 </div>
 
-<div class="post" data-post-id="715" data-author="jex" data-date="2004-06-15T15:23:38+00:00">
+<div class="post" data-post-id="715" data-author="jex" data-date="2004-06-15T15:23:38+00:00" data-subject="Re: gorget blue steel">
 
 gorget blue steel
 
@@ -298,19 +298,19 @@ gorget blue steel
 
 </div>
 
-<div class="post" data-post-id="716" data-author="jex" data-date="2004-06-15T15:26:37+00:00">
+<div class="post" data-post-id="716" data-author="jex" data-date="2004-06-15T15:26:37+00:00" data-subject="Re: gorget blue steel">
 
 [jex]<BR>gorget blue steel<BR>buying 650k
 
 </div>
 
-<div class="post" data-post-id="717" data-author="jex" data-date="2004-06-15T15:27:00+00:00">
+<div class="post" data-post-id="717" data-author="jex" data-date="2004-06-15T15:27:00+00:00" data-subject="Re: gorget blue steel">
 
 [jex]<BR>gorget blue steel<BR>buying 650k
 
 </div>
 
-<div class="post" data-post-id="792" data-author="Elusive" data-date="2004-06-18T17:14:15+00:00">
+<div class="post" data-post-id="792" data-author="Elusive" data-date="2004-06-18T17:14:15+00:00" data-subject="Blue Gorget">
 
 Blue Gorget 700 k
 
@@ -320,7 +320,7 @@ Wasnt sure what time friday the auction would close :)
 
 </div>
 
-<div class="post" data-post-id="793" data-author="impz" data-date="2004-06-19T03:10:59+00:00">
+<div class="post" data-post-id="793" data-author="impz" data-date="2004-06-19T03:10:59+00:00" data-subject="">
 
 already closed, my bad...gorget already sold to adam...
 

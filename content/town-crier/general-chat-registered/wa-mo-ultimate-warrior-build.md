@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="38169" data-author="Gorka" data-date="2017-03-28T07:03:05+00:00">
+<div class="post" data-post-id="38169" data-author="Gorka" data-date="2017-03-28T07:03:05+00:00" data-subject="Wa/Mo Ultimate Warrior Build">
 
 Set out to design the "Ultimate Warrior" on paper.
 
@@ -78,7 +78,7 @@ I am 9x40 but still about 3000dr, 8 runes, 400b xp short.  :lol:
 
 </div>
 
-<div class="post" data-post-id="38170" data-author="Teron" data-date="2017-03-28T10:11:19+00:00">
+<div class="post" data-post-id="38170" data-author="Teron" data-date="2017-03-28T10:11:19+00:00" data-subject="Re: Wa/Mo Ultimate Warrior Build">
 
 Is this a damage build or a tank build?
 
@@ -98,7 +98,7 @@ Maybe if you tell us what the goal of the build is, other than capping everythin
 
 </div>
 
-<div class="post" data-post-id="38171" data-author="Gorka" data-date="2017-03-28T11:36:24+00:00">
+<div class="post" data-post-id="38171" data-author="Gorka" data-date="2017-03-28T11:36:24+00:00" data-subject="Re: Wa/Mo Ultimate Warrior Build">
 
 > **Teron wrote:**
 > Is this a damage build or a tank build? It looks like a solo build. Maybe if you tell us what the goal of the build is, other than capping everything.
@@ -134,13 +134,13 @@ It's identified...
 
 </div>
 
-<div class="post" data-post-id="38172" data-author="alris" data-date="2017-03-28T12:56:58+00:00">
+<div class="post" data-post-id="38172" data-author="alris" data-date="2017-03-28T12:56:58+00:00" data-subject="Re: Wa/Mo Ultimate Warrior Build">
 
 Am I only one who is freaked out by warrior-monk picking + mana avatar light?
 
 </div>
 
-<div class="post" data-post-id="38173" data-author="alris" data-date="2017-03-28T13:27:55+00:00">
+<div class="post" data-post-id="38173" data-author="alris" data-date="2017-03-28T13:27:55+00:00" data-subject="Re: Wa/Mo Ultimate Warrior Build">
 
 I am not sure what you actually mean by "Ultimate" warrior. But oh, well. If you like hoarding eq, you might be interested in making different eq sets for different situations, not merge between damage and ac/reduction.
 
@@ -160,7 +160,7 @@ There are good rings and neck for this one, and few other intresting alternative
 
 </div>
 
-<div class="post" data-post-id="38174" data-author="Gorka" data-date="2017-03-28T14:09:10+00:00">
+<div class="post" data-post-id="38174" data-author="Gorka" data-date="2017-03-28T14:09:10+00:00" data-subject="Re: Wa/Mo Ultimate Warrior Build">
 
 Thanks for replying Alris. I actually have all those modes you mentioned, but I find them highly specialised with very strong advantages but also major disadvantages. Part of the reasoning behind the Ultimate Warrior is to have a general mode that is pretty optimum in all things.
 
@@ -170,7 +170,7 @@ Regarding the avatar light, It's +5ma regen not + 5ma.
 
 </div>
 
-<div class="post" data-post-id="38175" data-author="Teron" data-date="2017-03-28T14:27:10+00:00">
+<div class="post" data-post-id="38175" data-author="Teron" data-date="2017-03-28T14:27:10+00:00" data-subject="Re: Wa/Mo Ultimate Warrior Build">
 
 Alris, you need to understand that Gorka seems to prefer solo builds over tanking. Also, since his regen sucks, he gets the most out of taking a +5mr light that gives him 2% boost there (compared to +3mr light 100mr). -0.4ac would get him less, than 2% increase in ac. 
 
@@ -208,7 +208,7 @@ E.g., Epaulets of the Holy Order -0.8 +bonus dr +35hp +bonus hd are a good item,
 
 </div>
 
-<div class="post" data-post-id="38176" data-author="Gorka" data-date="2017-03-28T15:05:08+00:00">
+<div class="post" data-post-id="38176" data-author="Gorka" data-date="2017-03-28T15:05:08+00:00" data-subject="Re: Wa/Mo Ultimate Warrior Build">
 
 So yes, my ultimate warrior perhaps crossed the line trying to be good at too many things. By trying to cap damage reduction, ac had started to suffer. If I compromised on capping damage reduction, that ultimate set was rocking in AC and in Damage.
 
@@ -222,7 +222,7 @@ There is a saying "Jack of all trades, master of none." Sums up my thinking abou
 
 </div>
 
-<div class="post" data-post-id="38180" data-author="alris" data-date="2017-03-28T19:17:57+00:00">
+<div class="post" data-post-id="38180" data-author="alris" data-date="2017-03-28T19:17:57+00:00" data-subject="Re: Wa/Mo Ultimate Warrior Build">
 
 > **Quote:**
 > It's +5ma regen not + 5ma.
@@ -237,13 +237,13 @@ Also, whats wrong with maxing fire resistance? I would take max fire resist over
 
 </div>
 
-<div class="post" data-post-id="38183" data-author="Teron" data-date="2017-03-29T08:28:04+00:00">
+<div class="post" data-post-id="38183" data-author="Teron" data-date="2017-03-29T08:28:04+00:00" data-subject="Re: Wa/Mo Ultimate Warrior Build">
 
 Alris, why would a tank, oriented towards tanking large mobs/groups, would need +2dam over -0.4ac +50hp, while you've just said that you need max ac in big groups?
 
 </div>
 
-<div class="post" data-post-id="38191" data-author="alris" data-date="2017-03-30T15:55:20+00:00">
+<div class="post" data-post-id="38191" data-author="alris" data-date="2017-03-30T15:55:20+00:00" data-subject="Re: Wa/Mo Ultimate Warrior Build">
 
 If he is a tank, oriented towards tanking large mobs/groups, then what is actual point of this conversation? As I just said, he would only need ac in big groups. Now as somehow we are talking about NOT max ac eq set, I wonder why he did not pick +2dam light as it's obviously cool.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11558" data-author="*Splork*" data-date="2006-03-20T13:40:11+00:00">
+<div class="post" data-post-id="11558" data-author="*Splork*" data-date="2006-03-20T13:40:11+00:00" data-subject="SlothMUD&#x27;s emailing system">
 
 Our emailing system is not working atm, and hasn't been for quite some time. Jake is working on getting it fixed for us. I know I have received a few Immortal Applications, quest ideas, bugs, etc but I have not been around for last couple months and probably will not be active here for another month.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="34918" data-author="DarkArtist" data-date="2014-03-18T19:32:26+00:00">
+<div class="post" data-post-id="34918" data-author="DarkArtist" data-date="2014-03-18T19:32:26+00:00" data-subject="GETMSDPVARS() ADVISORY">
 
 Are you triggering your getmsdpvars() function on the event SERVER_ID? 
 
@@ -24,7 +24,7 @@ This has been a public service announcement.
 
 </div>
 
-<div class="post" data-post-id="34990" data-author="DarkArtist" data-date="2014-04-13T21:50:36+00:00">
+<div class="post" data-post-id="34990" data-author="DarkArtist" data-date="2014-04-13T21:50:36+00:00" data-subject="Re: GETMSDPVARS() ADVISORY">
 
 By the way if anyone wants it, here is my getmsdpvars function:
 
@@ -52,7 +52,7 @@ If any don't work properly, check the spacing. Notice the space before the secon
 
 </div>
 
-<div class="post" data-post-id="34991" data-author="DarkArtist" data-date="2014-04-13T21:58:00+00:00">
+<div class="post" data-post-id="34991" data-author="DarkArtist" data-date="2014-04-13T21:58:00+00:00" data-subject="Re: GETMSDPVARS() ADVISORY">
 
 And after you set that up and trigger it something on startup you also need an update function for each var like so
 
@@ -82,7 +82,7 @@ fyi all msdp variables are strings, you have to convert them into integers when 
 
 </div>
 
-<div class="post" data-post-id="34992" data-author="DarkArtist" data-date="2014-04-13T22:02:11+00:00">
+<div class="post" data-post-id="34992" data-author="DarkArtist" data-date="2014-04-13T22:02:11+00:00" data-subject="Re: GETMSDPVARS() ADVISORY">
 
 While I'm at it, here is what I trigger my getmsdpvars off of:
 

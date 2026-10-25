@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35787" data-author="Hung" data-date="2015-04-01T16:32:43+00:00">
+<div class="post" data-post-id="35787" data-author="Hung" data-date="2015-04-01T16:32:43+00:00" data-subject="Tower of Gr&#x27;Valdh, The">
 
 First of all, I would like to thank Neptune for the wonderful area and for the opener quest.
 
@@ -60,7 +60,7 @@ Also, not sure how we got those:
 
 </div>
 
-<div class="post" data-post-id="35801" data-author="*Splork*" data-date="2015-04-09T02:36:36+00:00">
+<div class="post" data-post-id="35801" data-author="*Splork*" data-date="2015-04-09T02:36:36+00:00" data-subject="Re: Tower of Gr&#x27;Valdh, The">
 
 *Immortals of SlothMUD* 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="3847" data-author="Granty555" data-date="2005-01-20T14:00:52+00:00">
+<div class="post" data-post-id="3847" data-author="Granty555" data-date="2005-01-20T14:00:52+00:00" data-subject="Undead control question">
 
 Hi all,
 
@@ -28,7 +28,7 @@ Lendros
 
 </div>
 
-<div class="post" data-post-id="3849" data-author="Leaf" data-date="2005-01-20T16:56:13+00:00">
+<div class="post" data-post-id="3849" data-author="Leaf" data-date="2005-01-20T16:56:13+00:00" data-subject="">
 
 +Undead Eq does in fact gives your summons more hp and more dam.
 

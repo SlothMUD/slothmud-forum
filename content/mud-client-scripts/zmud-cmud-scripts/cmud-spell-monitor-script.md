@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32262" data-author="Tuck" data-date="2011-01-06T10:00:20+00:00">
+<div class="post" data-post-id="32262" data-author="Tuck" data-date="2011-01-06T10:00:20+00:00" data-subject="Cmud: Spell monitor script.">
 
 **Cmud spellmonitor**: script that helps you buff yourself with one key. So it scans list of required spells (@spelltocheck variable) and compare it with current spells that is active on you and buff you if needed.
 
@@ -26,7 +26,7 @@ post_count: 2
 
 </div>
 
-<div class="post" data-post-id="32310" data-author="Tuck" data-date="2011-01-11T06:48:21+00:00">
+<div class="post" data-post-id="32310" data-author="Tuck" data-date="2011-01-11T06:48:21+00:00" data-subject="Re: Cmud: Spell monitor script.">
 
 Fixed for Greater Mobility spell (11.01.2011)
 

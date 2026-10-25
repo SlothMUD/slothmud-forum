@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="28103" data-author="Vixn" data-date="2009-02-14T07:19:15+00:00">
+<div class="post" data-post-id="28103" data-author="Vixn" data-date="2009-02-14T07:19:15+00:00" data-subject="Take what you can. Give nothing back.">
 
 steal key grizelda
 
@@ -78,7 +78,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="28112" data-author="Yasik2" data-date="2009-02-14T18:14:17+00:00">
+<div class="post" data-post-id="28112" data-author="Yasik2" data-date="2009-02-14T18:14:17+00:00" data-subject="">
 
 ВОРУЙ @ УБИВАЙ !  :twisted:  :D
 

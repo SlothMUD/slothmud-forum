@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31148" data-author="Gladavar" data-date="2010-05-12T06:25:15+00:00">
+<div class="post" data-post-id="31148" data-author="Gladavar" data-date="2010-05-12T06:25:15+00:00" data-subject="CMUD: Exact Alignment Switch">
 
 ```
 #switch (%mud.currentalign > 999) {#var Alignment %insert(.,%mud.currentalign,3)} 
@@ -22,7 +22,7 @@ Throw this in a trigger that fires fairly often like one for your prompt and it 
 
 </div>
 
-<div class="post" data-post-id="31149" data-author="Gladavar" data-date="2010-05-12T07:02:43+00:00">
+<div class="post" data-post-id="31149" data-author="Gladavar" data-date="2010-05-12T07:02:43+00:00" data-subject="">
 
 ```
 #switch (%mud.currentalign > 999) {#var Alignment %insert(.,%mud.currentalign,3)} 

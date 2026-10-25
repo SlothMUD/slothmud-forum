@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31765" data-author="Madigan" data-date="2010-09-17T04:25:55+00:00">
+<div class="post" data-post-id="31765" data-author="Madigan" data-date="2010-09-17T04:25:55+00:00" data-subject="Madi Returns!">
 
 Long time no see!!!
 
@@ -22,7 +22,7 @@ Madi (aka Rent and Madigan)
 
 </div>
 
-<div class="post" data-post-id="31767" data-author="*Breeze*" data-date="2010-09-17T09:12:30+00:00">
+<div class="post" data-post-id="31767" data-author="*Breeze*" data-date="2010-09-17T09:12:30+00:00" data-subject="Re: Madi Returns!">
 
 complete pwipe a few years ago 
 

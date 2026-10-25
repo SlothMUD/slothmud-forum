@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="27886" data-author="brady" data-date="2009-01-27T19:45:52+00:00">
+<div class="post" data-post-id="27886" data-author="brady" data-date="2009-01-27T19:45:52+00:00" data-subject="No xp for ether mobs...">
 
 A green rakasha massacres you to small fragments with its claw.
 
@@ -136,7 +136,7 @@ Everything the spirit of a patriarch was carrying suddenly drops to the ground.
 
 </div>
 
-<div class="post" data-post-id="27888" data-author="firebrand" data-date="2009-01-27T21:47:55+00:00">
+<div class="post" data-post-id="27888" data-author="firebrand" data-date="2009-01-27T21:47:55+00:00" data-subject="">
 
 looks to me like someone might need to re-approve the mob.  perhaps a typo was corrected on it or something.  just send a report using the bugs command or send a list to....either judge or juggleblood.  i think those two are currently working on bugs.  
 
@@ -144,7 +144,7 @@ looks to me like someone might need to re-approve the mob.  perhaps a typo was c
 
 </div>
 
-<div class="post" data-post-id="27890" data-author="marge" data-date="2009-01-27T21:56:32+00:00">
+<div class="post" data-post-id="27890" data-author="marge" data-date="2009-01-27T21:56:32+00:00" data-subject="">
 
 Your slash passes right through a blue rakasha!
 
@@ -206,13 +206,13 @@ Seems to be fine. I'm guessing operator error. Following someone else while ungr
 
 </div>
 
-<div class="post" data-post-id="27894" data-author="brady" data-date="2009-01-27T23:08:34+00:00">
+<div class="post" data-post-id="27894" data-author="brady" data-date="2009-01-27T23:08:34+00:00" data-subject="">
 
 Guess so.
 
 </div>
 
-<div class="post" data-post-id="27900" data-author="Bazilus" data-date="2009-01-28T06:01:01+00:00">
+<div class="post" data-post-id="27900" data-author="Bazilus" data-date="2009-01-28T06:01:01+00:00" data-subject="">
 
 If leader of group ld, follower dont take exp for solo killing.
 

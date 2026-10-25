@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="21124" data-author="Akasha" data-date="2007-10-28T21:31:31+00:00">
+<div class="post" data-post-id="21124" data-author="Akasha" data-date="2007-10-28T21:31:31+00:00" data-subject="EPIC SYSTEM UPDATES">
 
 EPIC SYSTEM (a few notes from me) 
 
@@ -54,7 +54,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="21235" data-author="Akasha" data-date="2007-11-08T05:21:05+00:00">
+<div class="post" data-post-id="21235" data-author="Akasha" data-date="2007-11-08T05:21:05+00:00" data-subject="EPIC SYSTEM : Help files">
 
 The helpfiles will be in within the next few days, but here they are ahead of time to answer _some_questions. Sorry, I can't explain why the system is so lame, but oh well, can't please everyone > 
 
@@ -406,7 +406,7 @@ For more information about honorquest setup, see AUTOQUESTS
 
 </div>
 
-<div class="post" data-post-id="21236" data-author="Akasha" data-date="2007-11-08T05:24:43+00:00">
+<div class="post" data-post-id="21236" data-author="Akasha" data-date="2007-11-08T05:24:43+00:00" data-subject="EPIC SYSTEM : patch SP 1.0">
 
 Patch SP 1.0
 
@@ -430,7 +430,7 @@ Fixed BUG : shapeshifted gets no honor (if you still fail to get honor reply  on
 
 </div>
 
-<div class="post" data-post-id="21247" data-author="Akasha" data-date="2007-11-09T10:30:53+00:00">
+<div class="post" data-post-id="21247" data-author="Akasha" data-date="2007-11-09T10:30:53+00:00" data-subject="EPIC SYSTEM : patch SP 1.1">
 
 Patch SP 1.1
 
@@ -450,7 +450,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="21327" data-author="Akasha" data-date="2007-11-15T10:10:43+00:00">
+<div class="post" data-post-id="21327" data-author="Akasha" data-date="2007-11-15T10:10:43+00:00" data-subject="EPIC SYSTEM : patch SP 1.2">
 
 ADDITIONS
 
@@ -484,7 +484,7 @@ My scribes have updated some material in the Tome of Fathmori Legends.  This inf
 
 </div>
 
-<div class="post" data-post-id="21408" data-author="Akasha" data-date="2007-11-25T09:52:10+00:00">
+<div class="post" data-post-id="21408" data-author="Akasha" data-date="2007-11-25T09:52:10+00:00" data-subject="EPIC SYSTEM : Expansion 1.0 - ingame">
 
 ADDITIONS
 
@@ -514,7 +514,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="21434" data-author="Akasha" data-date="2007-11-27T09:17:55+00:00">
+<div class="post" data-post-id="21434" data-author="Akasha" data-date="2007-11-27T09:17:55+00:00" data-subject="EPIC SYSTEM : Expansion 1.0a (patch)">
 
 FIXES
 
@@ -528,7 +528,7 @@ Explore quests have been temporarily removed due to an unknown bug
 
 </div>
 
-<div class="post" data-post-id="21504" data-author="Akasha" data-date="2007-12-01T07:50:41+00:00">
+<div class="post" data-post-id="21504" data-author="Akasha" data-date="2007-12-01T07:50:41+00:00" data-subject="EPIC SYSTEM : Expansion 1.0b">
 
 FIXES
 
@@ -540,7 +540,7 @@ Fixed a hidden bug in Epic mobs.  Seems you were really only getting about 1/3 o
 
 </div>
 
-<div class="post" data-post-id="21533" data-author="Akasha" data-date="2007-12-04T12:01:59+00:00">
+<div class="post" data-post-id="21533" data-author="Akasha" data-date="2007-12-04T12:01:59+00:00" data-subject="EPIC SYSTEM : Expansion 1.0c">
 
 FIXES
 
@@ -554,7 +554,7 @@ Current ingame Epic mobs are now fully functional.  Yes, some of them weren't us
 
 </div>
 
-<div class="post" data-post-id="21614" data-author="Akasha" data-date="2007-12-11T02:08:07+00:00">
+<div class="post" data-post-id="21614" data-author="Akasha" data-date="2007-12-11T02:08:07+00:00" data-subject="EPIC SYSTEM : Expansion 2.0">
 
 UPDATE:
 
@@ -574,7 +574,7 @@ Area updates for 2 areas
 
 </div>
 
-<div class="post" data-post-id="22420" data-author="Akasha" data-date="2008-01-31T05:49:59+00:00">
+<div class="post" data-post-id="22420" data-author="Akasha" data-date="2008-01-31T05:49:59+00:00" data-subject="Long overdo patch 2.1">
 
 CHANGES
 

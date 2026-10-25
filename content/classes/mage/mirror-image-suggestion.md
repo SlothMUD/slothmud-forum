@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35099" data-author="fallen" data-date="2014-05-07T18:31:59+00:00">
+<div class="post" data-post-id="35099" data-author="fallen" data-date="2014-05-07T18:31:59+00:00" data-subject="Mirror image suggestion">
 
 It would be really nice that mage mirrors would not be hit if damage is less than xx (xx being anything less than extreme hits maybe?).
 

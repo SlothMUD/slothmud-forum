@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="23563" data-author="*Krom*" data-date="2008-04-03T18:03:02+00:00">
+<div class="post" data-post-id="23563" data-author="*Krom*" data-date="2008-04-03T18:03:02+00:00" data-subject="Some adjustments/improvements">
 
 These batch mostly targets warriors as a supporting class, but will obviously help any player with the appropriate skills -- it is designed as a first set of adjustments, intended to add to players skills in a balancing way.
 

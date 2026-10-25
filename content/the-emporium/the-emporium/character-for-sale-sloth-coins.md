@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="32327" data-author="Marvel" data-date="2011-01-17T03:20:13+00:00">
+<div class="post" data-post-id="32327" data-author="Marvel" data-date="2011-01-17T03:20:13+00:00" data-subject="Character for Sale (Sloth Coins)">
 
 So I barely play... and I need coins to level up Novel.
 
@@ -122,25 +122,25 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="32328" data-author="Thraxas" data-date="2011-01-17T10:23:33+00:00">
+<div class="post" data-post-id="32328" data-author="Thraxas" data-date="2011-01-17T10:23:33+00:00" data-subject="Re: Character for Sale (Sloth Coins)">
 
 Nice Char very nice stats, assuming from your post that 10mill has already been bid by Belion?
 
 </div>
 
-<div class="post" data-post-id="32330" data-author="Marvel" data-date="2011-01-17T23:45:00+00:00">
+<div class="post" data-post-id="32330" data-author="Marvel" data-date="2011-01-17T23:45:00+00:00" data-subject="Re: Character for Sale (Sloth Coins)">
 
 Yes, 10M is the current bid, by Belion. If nobody else expresses interest, he's getting the character.
 
 </div>
 
-<div class="post" data-post-id="32352" data-author="Marvel" data-date="2011-01-22T18:09:05+00:00">
+<div class="post" data-post-id="32352" data-author="Marvel" data-date="2011-01-22T18:09:05+00:00" data-subject="Re: Character for Sale (Sloth Coins)">
 
 Character sold to Belion.
 
 </div>
 
-<div class="post" data-post-id="32355" data-author="Tuck" data-date="2011-01-23T20:26:51+00:00">
+<div class="post" data-post-id="32355" data-author="Tuck" data-date="2011-01-23T20:26:51+00:00" data-subject="Re: Character for Sale (Sloth Coins)">
 
 Sweet char with nice stats. Gratz Belion!
 

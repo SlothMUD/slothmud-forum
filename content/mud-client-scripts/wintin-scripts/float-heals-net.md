@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="11157" data-author="*juggleblood*" data-date="2006-03-11T08:35:44+00:00">
+<div class="post" data-post-id="11157" data-author="*juggleblood*" data-date="2006-03-11T08:35:44+00:00" data-subject="Float Heals -NET">
 
 Automatically heal the tank in group when they drop below set hps.
 
@@ -38,7 +38,7 @@ You could extend this for healo by doing something like this:
 
 </div>
 
-<div class="post" data-post-id="11158" data-author="Gnu" data-date="2006-03-11T12:57:52+00:00">
+<div class="post" data-post-id="11158" data-author="Gnu" data-date="2006-03-11T12:57:52+00:00" data-subject="">
 
 Thank you very much! But I have a question. Is it possible to some more changes to extend "this" for the entire life in sloth? 
 
@@ -46,7 +46,7 @@ You know, I play Sloth just to test scripts, so I need some help with excluding 
 
 </div>
 
-<div class="post" data-post-id="11159" data-author="Vixn" data-date="2006-03-11T13:48:12+00:00">
+<div class="post" data-post-id="11159" data-author="Vixn" data-date="2006-03-11T13:48:12+00:00" data-subject="Re: Float Heals -NET">
 
 Cleric Bots are illegal if you are away from keyboard. You will be 
 
@@ -58,13 +58,13 @@ Also, read again what bard said.
 
 </div>
 
-<div class="post" data-post-id="11160" data-author="Krok" data-date="2006-03-11T18:30:53+00:00">
+<div class="post" data-post-id="11160" data-author="Krok" data-date="2006-03-11T18:30:53+00:00" data-subject="">
 
 As a leader and a cleric, I will ungroup the ppl who use auto-healing scripts, cause it only shows their newbieness and lack of attention. Your fingers and your reaction should be quick, only this way you'll be a good healo. And imagine you are asked to heal two people at one time, this way the scripts will fuck it up.
 
 </div>
 
-<div class="post" data-post-id="11163" data-author="*juggleblood*" data-date="2006-03-12T14:39:57+00:00">
+<div class="post" data-post-id="11163" data-author="*juggleblood*" data-date="2006-03-12T14:39:57+00:00" data-subject="">
 
 My char Rub (Wa/Ma/Cl) is rarely if ever in the healo. I just have this script to toss the tank an emergency heal if the healers are slacking or lose concentration. I seriously doubt Krok would ungroup me for healing the tank when they drop below 150hp. 
 
@@ -72,7 +72,7 @@ That said...make sure to mind your mother Krok.  Don't be a bot healer, wash beh
 
 </div>
 
-<div class="post" data-post-id="11164" data-author="*juggleblood*" data-date="2006-03-12T14:57:03+00:00">
+<div class="post" data-post-id="11164" data-author="*juggleblood*" data-date="2006-03-12T14:57:03+00:00" data-subject="">
 
 Thank you very much! But I have a question. Is it possible to some more changes to extend "this" for the entire life in sloth? 
 
@@ -86,31 +86,31 @@ I just figgured, well garsh, this client thing makes everything even slothier. I
 
 </div>
 
-<div class="post" data-post-id="11165" data-author="Weasel" data-date="2006-03-12T16:27:04+00:00">
+<div class="post" data-post-id="11165" data-author="Weasel" data-date="2006-03-12T16:27:04+00:00" data-subject="">
 
 LOL kicking someone out of group for healing.. nice. That'll learn 'em.
 
 </div>
 
-<div class="post" data-post-id="11166" data-author="Krok" data-date="2006-03-12T17:53:48+00:00">
+<div class="post" data-post-id="11166" data-author="Krok" data-date="2006-03-12T17:53:48+00:00" data-subject="">
 
 You guys suck :))
 
 </div>
 
-<div class="post" data-post-id="11167" data-author="Weasel" data-date="2006-03-12T18:01:23+00:00">
+<div class="post" data-post-id="11167" data-author="Weasel" data-date="2006-03-12T18:01:23+00:00" data-subject="">
 
 hehe  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11171" data-author="Rynquald" data-date="2006-03-12T21:02:47+00:00">
+<div class="post" data-post-id="11171" data-author="Rynquald" data-date="2006-03-12T21:02:47+00:00" data-subject="">
 
 Auto floating only becomes a problem imho when there's enough people using them at once that the tank gets 4 restores as soon as they drop below 500 hp, or they're set to fire at 400 from max or so and overheal if the current healer's restores are 250+, even with a single floater.
 
 </div>
 
-<div class="post" data-post-id="11181" data-author="Gnu" data-date="2006-03-12T23:19:35+00:00">
+<div class="post" data-post-id="11181" data-author="Gnu" data-date="2006-03-12T23:19:35+00:00" data-subject="">
 
 Auto floating only becomes a problem imho when there's enough people using them at once that the tank gets 4 restores as soon as they drop below 500 hp, or they're set to fire at 400 from max or so and overheal if the current healer's restores are 250+, even with a single floater.[/quote:1sff7h38]
 
@@ -120,13 +120,13 @@ That's why I do not set a regular heal-order in my groups, and like to add order
 
 </div>
 
-<div class="post" data-post-id="11184" data-author="jezer" data-date="2006-03-12T23:42:17+00:00">
+<div class="post" data-post-id="11184" data-author="jezer" data-date="2006-03-12T23:42:17+00:00" data-subject="">
 
 I think Autolycos is rubbing off too much on Krok!  :evil:
 
 </div>
 
-<div class="post" data-post-id="11188" data-author="Rynquald" data-date="2006-03-13T06:25:24+00:00">
+<div class="post" data-post-id="11188" data-author="Rynquald" data-date="2006-03-13T06:25:24+00:00" data-subject="">
 
 [quote:1gq52mas]Auto-anything becomes a problem when ppl botting. In some cases it is very important to switch from healing to blasting fast, but that becomes almost impossible, since scripts rule the game.[/quote:1gq52mas]
 
@@ -134,7 +134,7 @@ Definitly....I was refering to using such a script without being afk. And if you
 
 </div>
 
-<div class="post" data-post-id="11189" data-author="Vixn" data-date="2006-03-13T07:19:57+00:00">
+<div class="post" data-post-id="11189" data-author="Vixn" data-date="2006-03-13T07:19:57+00:00" data-subject="">
 
 [quote:34ksmdew]Definitly....I was refering to using such a script without being afk. And if you write a script with the potential to lag that you can't disable very quickly you may as well be a bot weather you're afk or not  :twisted:[/quote:34ksmdew][/quote:34ksmdew]
 
@@ -144,7 +144,7 @@ And another bright idea is to make triggers for entering archways or climb stair
 
 </div>
 
-<div class="post" data-post-id="11199" data-author="12345" data-date="2006-03-13T12:13:27+00:00">
+<div class="post" data-post-id="11199" data-author="12345" data-date="2006-03-13T12:13:27+00:00" data-subject="">
 
 Maybe I'm just lucky, but most the folks I group with are very reliable and good in a pinch.  As an example, I got unlucky with a repop in cano the other day.  I died almost instantly.  There's nothing quite like the feeling of being locked in with a really angry mob when the group is bound, you're dead and holding the only key.  I was pleasantly surprised when we all ended up at the west gate and I was the only one dead.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="31425" data-author="Tuck" data-date="2010-08-07T12:10:55+00:00">
+<div class="post" data-post-id="31425" data-author="Tuck" data-date="2010-08-07T12:10:55+00:00" data-subject="2 Benq: how to create poll?">
 
 Subj. :?: 
 
@@ -18,7 +18,7 @@ Thanks in advance.
 
 </div>
 
-<div class="post" data-post-id="31426" data-author="*Isabo*" data-date="2010-08-07T16:03:31+00:00">
+<div class="post" data-post-id="31426" data-author="*Isabo*" data-date="2010-08-07T16:03:31+00:00" data-subject="Re: 2 Benq: how to create poll?">
 
 Good day, mage.
 
@@ -30,7 +30,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="31427" data-author="Tuck" data-date="2010-08-08T00:26:56+00:00">
+<div class="post" data-post-id="31427" data-author="Tuck" data-date="2010-08-08T00:26:56+00:00" data-subject="Re: 2 Benq: how to create poll?">
 
 Good day, mighty immortal. 
 
@@ -42,7 +42,7 @@ Tuk
 
 </div>
 
-<div class="post" data-post-id="31491" data-author="*Breeze*" data-date="2010-08-15T02:14:51+00:00">
+<div class="post" data-post-id="31491" data-author="*Breeze*" data-date="2010-08-15T02:14:51+00:00" data-subject="Re: 2 Benq: how to create poll?">
 
 Polls enabled on most forums.
 
@@ -58,13 +58,13 @@ without at least having talked to the (immortal) first.
 
 </div>
 
-<div class="post" data-post-id="31492" data-author="Tuck" data-date="2010-08-15T02:26:02+00:00">
+<div class="post" data-post-id="31492" data-author="Tuck" data-date="2010-08-15T02:26:02+00:00" data-subject="Re: 2 Benq: how to create poll?">
 
 Thanks Benq!
 
 </div>
 
-<div class="post" data-post-id="31493" data-author="*Breeze*" data-date="2010-08-15T02:31:37+00:00">
+<div class="post" data-post-id="31493" data-author="*Breeze*" data-date="2010-08-15T02:31:37+00:00" data-subject="Re: 2 Benq: how to create poll?">
 
 jawohl
 

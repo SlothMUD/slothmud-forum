@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="26254" data-author="Medios" data-date="2008-09-11T22:09:59+00:00">
+<div class="post" data-post-id="26254" data-author="Medios" data-date="2008-09-11T22:09:59+00:00" data-subject="Letterman">
 
 I was reading the transcript of Letterman where he talks with Obama.  I was surprised at the very end what Obama had to say.  Obama thinks that it is the governments responsibility to create jobs and make sure the socialist agenda spreads.  Governments cause problems, not solve them.
 
@@ -22,19 +22,19 @@ Obama: â€œYou know, we didnâ€™t know much about her, and I think that, 
 
 </div>
 
-<div class="post" data-post-id="26259" data-author="Roadrunr" data-date="2008-09-11T23:27:40+00:00">
+<div class="post" data-post-id="26259" data-author="Roadrunr" data-date="2008-09-11T23:27:40+00:00" data-subject="">
 
 why does that actually surprise you?  because he actually said hes a socialist?  everyone with a brain already knew that and everyone else will actually vote for him.
 
 </div>
 
-<div class="post" data-post-id="26265" data-author="Mosaix" data-date="2008-09-12T00:59:22+00:00">
+<div class="post" data-post-id="26265" data-author="Mosaix" data-date="2008-09-12T00:59:22+00:00" data-subject="">
 
 [img:3herk5ig]http://www.movie-blast.com/Groundhog_day.jpg[/img:3herk5ig]
 
 </div>
 
-<div class="post" data-post-id="26266" data-author="Tap" data-date="2008-09-12T01:05:11+00:00">
+<div class="post" data-post-id="26266" data-author="Tap" data-date="2008-09-12T01:05:11+00:00" data-subject="">
 
 Actually he is a fascist with terrorist ties. I find it interesting he is so focused
 
@@ -42,7 +42,7 @@ on Palin instead of Mccain. Mccain managed to throw him a curve ball and he doen
 
 </div>
 
-<div class="post" data-post-id="26267" data-author="Roadrunr" data-date="2008-09-12T04:41:57+00:00">
+<div class="post" data-post-id="26267" data-author="Roadrunr" data-date="2008-09-12T04:41:57+00:00" data-subject="">
 
 Actually he is a fascist with terrorist ties. I find it interesting he is so focused
 
@@ -52,7 +52,7 @@ you mean Biden?
 
 </div>
 
-<div class="post" data-post-id="26268" data-author="Poggle" data-date="2008-09-12T05:24:32+00:00">
+<div class="post" data-post-id="26268" data-author="Poggle" data-date="2008-09-12T05:24:32+00:00" data-subject="">
 
 Actually he's a catfish with ties to the mafia.
 
@@ -64,13 +64,13 @@ Don't let them turn you into a militant supporter of bullshit propaganda.
 
 </div>
 
-<div class="post" data-post-id="26269" data-author="Mosaix" data-date="2008-09-12T05:50:13+00:00">
+<div class="post" data-post-id="26269" data-author="Mosaix" data-date="2008-09-12T05:50:13+00:00" data-subject="">
 
 [img:1sg9hlin]http://www.bartcop.com/xtreme%20Jesus.jpg[/img:1sg9hlin]
 
 </div>
 
-<div class="post" data-post-id="26271" data-author="Tap" data-date="2008-09-12T10:23:49+00:00">
+<div class="post" data-post-id="26271" data-author="Tap" data-date="2008-09-12T10:23:49+00:00" data-subject="">
 
 [quote:2tq63oj7]Seriously though, anything either party says about themselves or about the other party is most likely gonna be 99% of one form of bullshit or the other.
 
@@ -80,7 +80,7 @@ Your mostly right however in NObama's case, such info can be substantiated.  I'm
 
 </div>
 
-<div class="post" data-post-id="26274" data-author="alias" data-date="2008-09-12T11:53:47+00:00">
+<div class="post" data-post-id="26274" data-author="alias" data-date="2008-09-12T11:53:47+00:00" data-subject="">
 
 As South Park so eloquently put it, when voting you are pretty much stuck with the choice between a Giant Douche and a Turd Sandwich. 
 
@@ -88,13 +88,13 @@ I guess people never learn that arguing about politics and religion do not chang
 
 </div>
 
-<div class="post" data-post-id="26278" data-author="Weasel" data-date="2008-09-12T14:03:16+00:00">
+<div class="post" data-post-id="26278" data-author="Weasel" data-date="2008-09-12T14:03:16+00:00" data-subject="">
 
 Government never does anything well, and that's true everywhere. The more control you give them, the worse things will be in the long run. Obama wants more government control - much more. You do the math.
 
 </div>
 
-<div class="post" data-post-id="26283" data-author="Tap" data-date="2008-09-12T17:22:16+00:00">
+<div class="post" data-post-id="26283" data-author="Tap" data-date="2008-09-12T17:22:16+00:00" data-subject="">
 
 Dear Alias,
 

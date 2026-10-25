@@ -10,13 +10,13 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="39886" data-author="Gorka" data-date="2022-02-18T07:41:02+00:00">
+<div class="post" data-post-id="39886" data-author="Gorka" data-date="2022-02-18T07:41:02+00:00" data-subject="Merc Woods Key">
 
 I junked my emerald dragon's eye the other day which is the key to Merc Woods because the key has "orb" in the name. I sorted it out with the help of the imms... but would like to suggest that perhaps the key should be made personal so it can be protected from junking due to the personal flag. It is an AQ item anyway... Idjit suggested that changing the name might interfere with people's scripts which is a fair point. Setting the personal flag however shouldn't.
 
 </div>
 
-<div class="post" data-post-id="39888" data-author="cnl" data-date="2022-02-21T17:29:58+00:00">
+<div class="post" data-post-id="39888" data-author="cnl" data-date="2022-02-21T17:29:58+00:00" data-subject="Re: Merc Woods Key">
 
 Having it be personal would interfere with my ability to easily switch it between chars - I don't want reduced functionality because of accidents.
 
@@ -34,7 +34,7 @@ speaking of which - can we add the keyword plain to teleport green potions. plea
 
 </div>
 
-<div class="post" data-post-id="39890" data-author="Gorka" data-date="2022-02-22T13:04:08+00:00">
+<div class="post" data-post-id="39890" data-author="Gorka" data-date="2022-02-22T13:04:08+00:00" data-subject="Re: Merc Woods Key">
 
 Not sure it would make a difference if the key was personal, as I believe it's a trig trap and the item isn't worn usually. There are lots of places on the mud where personal flag isn't checked.
 
@@ -46,7 +46,7 @@ In any case, not really the biggest issue on the mud. Just thought flipping the 
 
 </div>
 
-<div class="post" data-post-id="39891" data-author="cnl" data-date="2022-02-22T17:16:34+00:00">
+<div class="post" data-post-id="39891" data-author="cnl" data-date="2022-02-22T17:16:34+00:00" data-subject="Re: Merc Woods Key">
 
 The scenario I was thinking of was clan vaults and personal vaults.
 
@@ -61,7 +61,7 @@ an emerald dragon's eye (with a tiny duck charm attached to it)
 
 </div>
 
-<div class="post" data-post-id="39894" data-author="Gorka" data-date="2022-03-02T08:29:21+00:00">
+<div class="post" data-post-id="39894" data-author="Gorka" data-date="2022-03-02T08:29:21+00:00" data-subject="Re: Merc Woods Key">
 
 I know not withdrawing someone else's personal items from a vault might be considered a "Clan Feature." For me it's just annoying, and wish I didn't have to deal with it amongst my chars. There are other limitations on vaults that also annoy the hell out of me. I love the 100 item vault space... but honestly, they could be improved so much. Sorting items would be extremely useful, by name or perhaps by type or area, or all. The ability to store charms... more room options. Even not being able to vault spellbooks... I mean people just make storage characters to get around it. No vaults on EU either. Anyway... I'll stop...
 

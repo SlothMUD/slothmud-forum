@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35771" data-author="*Splork*" data-date="2015-03-20T13:09:58+00:00">
+<div class="post" data-post-id="35771" data-author="*Splork*" data-date="2015-03-20T13:09:58+00:00" data-subject="Bloodloss fix">
 
 Over the years we have had issues with immediate bloodloss after a mob was mortally wounded. This should be fixed with this morning's reboot.
 

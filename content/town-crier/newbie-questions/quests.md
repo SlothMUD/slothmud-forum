@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31290" data-author="Towen" data-date="2010-06-10T01:30:19+00:00">
+<div class="post" data-post-id="31290" data-author="Towen" data-date="2010-06-10T01:30:19+00:00" data-subject="Quests">
 
 Any idea how to do this quest?  I have explored the area she refers to.  The only part I haven't is the dwarven mine guarded by a troll.  I see now way to "accept" the quest, or how to "tell" her about it.
 
@@ -28,7 +28,7 @@ Azra, the cartographer tells you 'experience would benefit an adventurer such as
 
 </div>
 
-<div class="post" data-post-id="31291" data-author="Marvel" data-date="2010-06-10T02:48:16+00:00">
+<div class="post" data-post-id="31291" data-author="Marvel" data-date="2010-06-10T02:48:16+00:00" data-subject="Re: Quests">
 
 This quest you do not have to undertake and you'll know when you complete it as the mapmaker will give you an item and thank you for exploring the area.
 

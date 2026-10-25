@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="8338" data-author="12345" data-date="2005-08-18T13:41:45+00:00">
+<div class="post" data-post-id="8338" data-author="12345" data-date="2005-08-18T13:41:45+00:00" data-subject="Kroolut&#x27;s Guide to Death">
 
 Welcome young adventurers! After I read Grog's Guide to Sloth, I couldn't help but want to write one of my own.  So here we are.  You'll all be glad to know that our dear dear friend Grog is right here to help me.  And I'm sure that you'll be even more glad to know that he's dead now.  He'll be my aide for this endeavor, and since he's dead, you won't have to suffer through his mindless babbling.
 
@@ -50,13 +50,13 @@ Now... where did I leave my Juju?
 
 </div>
 
-<div class="post" data-post-id="8342" data-author="Nothing" data-date="2005-08-18T22:17:32+00:00">
+<div class="post" data-post-id="8342" data-author="Nothing" data-date="2005-08-18T22:17:32+00:00" data-subject="">
 
 One other thing, if you do die, and corpse, and need help getting your corpse back; if you have druid as one of your classes you can shapeshift to the cat and go get your corpse as mobs aren't agg to the cat form.  Not sure if its because the form is under lvl 4 or what, but it works.
 
 </div>
 
-<div class="post" data-post-id="8344" data-author="12345" data-date="2005-08-19T13:00:55+00:00">
+<div class="post" data-post-id="8344" data-author="12345" data-date="2005-08-19T13:00:55+00:00" data-subject="">
 
 This is intended as a guide for how to spend the five ticks that you're dead and minimize the need for CRs.  After all, it's much easier to find your corpse when it's at recall with you than when it's sitting next to a big angry mob.
 

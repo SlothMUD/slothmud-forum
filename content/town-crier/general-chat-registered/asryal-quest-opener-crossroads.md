@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="6839" data-author="Akasha2" data-date="2005-06-06T04:18:12+00:00">
+<div class="post" data-post-id="6839" data-author="Akasha2" data-date="2005-06-06T04:18:12+00:00" data-subject="Asryal:   Quest Opener : Crossroads">
 
 So that Asryal's Quest doesn't get lost in unrelated spam... 
 
@@ -30,7 +30,7 @@ The opening of crossroads. Where you decide which path you choose.
 
 </div>
 
-<div class="post" data-post-id="6840" data-author="Zam" data-date="2005-06-06T05:03:29+00:00">
+<div class="post" data-post-id="6840" data-author="Zam" data-date="2005-06-06T05:03:29+00:00" data-subject="">
 
 join the Dark Side , we will destroy this puny world!
 
@@ -38,7 +38,7 @@ btw what if i am neutral?!
 
 </div>
 
-<div class="post" data-post-id="6841" data-author="asryal" data-date="2005-06-06T05:35:09+00:00">
+<div class="post" data-post-id="6841" data-author="asryal" data-date="2005-06-06T05:35:09+00:00" data-subject="">
 
 btw, evilness and goodness is not gauged by the mortal standards or moral standards of sloth (aka alignment)
 
@@ -50,25 +50,25 @@ Crossroads - the quest of decisions
 
 </div>
 
-<div class="post" data-post-id="6842" data-author="Avatar" data-date="2005-06-06T10:03:24+00:00">
+<div class="post" data-post-id="6842" data-author="Avatar" data-date="2005-06-06T10:03:24+00:00" data-subject="Questish!">
 
 So only one mortal gets to choose between good and evil?  The other leader will be constrained to the choice made by the first leader!
 
 </div>
 
-<div class="post" data-post-id="6847" data-author="Gnu" data-date="2005-06-06T14:11:34+00:00">
+<div class="post" data-post-id="6847" data-author="Gnu" data-date="2005-06-06T14:11:34+00:00" data-subject="">
 
 If you only knew the power of dark sight!!!!
 
 </div>
 
-<div class="post" data-post-id="6853" data-author="Akasha2" data-date="2005-06-06T18:00:19+00:00">
+<div class="post" data-post-id="6853" data-author="Akasha2" data-date="2005-06-06T18:00:19+00:00" data-subject="">
 
 *bump*
 
 </div>
 
-<div class="post" data-post-id="6854" data-author="Shadis" data-date="2005-06-06T19:40:46+00:00">
+<div class="post" data-post-id="6854" data-author="Shadis" data-date="2005-06-06T19:40:46+00:00" data-subject="">
 
 "one will defile the existence of pure life"
 
@@ -76,7 +76,7 @@ ohho ohhh ohh me me me me!!!!!
 
 </div>
 
-<div class="post" data-post-id="6857" data-author="Medios" data-date="2005-06-06T21:23:36+00:00">
+<div class="post" data-post-id="6857" data-author="Medios" data-date="2005-06-06T21:23:36+00:00" data-subject="">
 
 You will never understand the full power of the dark side until join me my son.  Follow or die!!!
 
@@ -84,25 +84,25 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="6870" data-author="13" data-date="2005-06-07T13:07:45+00:00">
+<div class="post" data-post-id="6870" data-author="13" data-date="2005-06-07T13:07:45+00:00" data-subject="">
 
 I will be attending this event.  Whee!
 
 </div>
 
-<div class="post" data-post-id="6887" data-author="Akasha2" data-date="2005-06-07T22:45:09+00:00">
+<div class="post" data-post-id="6887" data-author="Akasha2" data-date="2005-06-07T22:45:09+00:00" data-subject="">
 
 *bump*bump*
 
 </div>
 
-<div class="post" data-post-id="6888" data-author="dt" data-date="2005-06-07T23:01:30+00:00">
+<div class="post" data-post-id="6888" data-author="dt" data-date="2005-06-07T23:01:30+00:00" data-subject="Neutral&#x27;s Unite   !!!">
 
 Why should good and bad aligned peeps have all the fun? For those of us who try to remain neutral on all issues and thus maintain balance in the world.. I see this as an act of war...,Someone should step up to the plate and represent!!!
 
 </div>
 
-<div class="post" data-post-id="6901" data-author="impz" data-date="2005-06-08T05:49:55+00:00">
+<div class="post" data-post-id="6901" data-author="impz" data-date="2005-06-08T05:49:55+00:00" data-subject="Quest:Crossroads">
 
 Neutrals for weaks!
 
@@ -110,19 +110,19 @@ Evil is the new good!
 
 </div>
 
-<div class="post" data-post-id="6902" data-author="Vixn" data-date="2005-06-08T07:11:46+00:00">
+<div class="post" data-post-id="6902" data-author="Vixn" data-date="2005-06-08T07:11:46+00:00" data-subject="">
 
 Heh.. nod, usually all evils and goods are gathering all together to kick ass those neutrals... just for fun and warming up before a real battle :)
 
 </div>
 
-<div class="post" data-post-id="6924" data-author="brand" data-date="2005-06-08T17:38:21+00:00">
+<div class="post" data-post-id="6924" data-author="brand" data-date="2005-06-08T17:38:21+00:00" data-subject="">
 
 Is good Brand?
 
 </div>
 
-<div class="post" data-post-id="7083" data-author="Corwin" data-date="2005-06-12T06:07:21+00:00">
+<div class="post" data-post-id="7083" data-author="Corwin" data-date="2005-06-12T06:07:21+00:00" data-subject="">
 
 Group 'Follow me.' consists of:
 
@@ -238,13 +238,13 @@ Group 'Follow me.' consists of:
 
 </div>
 
-<div class="post" data-post-id="8919" data-author="Weasel" data-date="2005-10-04T15:05:34+00:00">
+<div class="post" data-post-id="8919" data-author="Weasel" data-date="2005-10-04T15:05:34+00:00" data-subject="">
 
 should this be un-sticky'ed? it's kinda history now...
 
 </div>
 
-<div class="post" data-post-id="8952" data-author="guest" data-date="2005-10-06T06:39:06+00:00">
+<div class="post" data-post-id="8952" data-author="guest" data-date="2005-10-06T06:39:06+00:00" data-subject="">
 
 Done :)
 

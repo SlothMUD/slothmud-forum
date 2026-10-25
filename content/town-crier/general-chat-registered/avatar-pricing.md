@@ -10,7 +10,7 @@ locked: false
 post_count: 46
 ---
 
-<div class="post" data-post-id="19995" data-author="13" data-date="2007-08-30T14:03:39+00:00">
+<div class="post" data-post-id="19995" data-author="13" data-date="2007-08-30T14:03:39+00:00" data-subject="Avatar pricing">
 
 ************************************ Storage ***********************************
 
@@ -90,49 +90,49 @@ Why in God's name does spelldmg and healbonus have to be so expensive?  I could 
 
 </div>
 
-<div class="post" data-post-id="19999" data-author="Weasel" data-date="2007-08-30T17:23:52+00:00">
+<div class="post" data-post-id="19999" data-author="Weasel" data-date="2007-08-30T17:23:52+00:00" data-subject="">
 
 Is weapon damage even on there, or is it just not available to your character? And yeah, bit extreme for the heal and spell bonus.. particularly compared to (yes, yet again) thief bonuses. WTF is up with that? everywhere I look there are heaps of stuff for thieves.. Krom, are your chars thief primes by any chance?   :twisted:
 
 </div>
 
-<div class="post" data-post-id="20001" data-author="Yinao" data-date="2007-08-30T17:38:18+00:00">
+<div class="post" data-post-id="20001" data-author="Yinao" data-date="2007-08-30T17:38:18+00:00" data-subject="">
 
 Pfft, damn the prices, should probably be able to buy spells before they adjust the prices of what others cost. *Bump*
 
 </div>
 
-<div class="post" data-post-id="20003" data-author="Alberich" data-date="2007-08-30T18:16:06+00:00">
+<div class="post" data-post-id="20003" data-author="Alberich" data-date="2007-08-30T18:16:06+00:00" data-subject="">
 
 yeah... stabdam/circle dam equal to spelldam/healbonus... right... something that you can use ONCE per fight (if you're lucky and don't whiff) should cost the same as something you can cast 1-2x per round.... that makes sense.
 
 </div>
 
-<div class="post" data-post-id="20004" data-author="13" data-date="2007-08-30T18:24:44+00:00">
+<div class="post" data-post-id="20004" data-author="13" data-date="2007-08-30T18:24:44+00:00" data-subject="">
 
 handdmg only costs 5 and you use it significantly more than spelldmg/healb
 
 </div>
 
-<div class="post" data-post-id="20007" data-author="Avatar" data-date="2007-08-30T19:49:27+00:00">
+<div class="post" data-post-id="20007" data-author="Avatar" data-date="2007-08-30T19:49:27+00:00" data-subject="Avatar bonuses">
 
 Weapon dam wasn't shown because he didn't have warrior in the classo of that char.  Weapon dam (3) is 5 tokens, and I'm thinking it was 10 mil coins.
 
 </div>
 
-<div class="post" data-post-id="20011" data-author="Messiaen" data-date="2007-08-30T20:16:44+00:00">
+<div class="post" data-post-id="20011" data-author="Messiaen" data-date="2007-08-30T20:16:44+00:00" data-subject="">
 
 It looks fair to me.
 
 </div>
 
-<div class="post" data-post-id="20012" data-author="13" data-date="2007-08-30T20:21:48+00:00">
+<div class="post" data-post-id="20012" data-author="13" data-date="2007-08-30T20:21:48+00:00" data-subject="">
 
 that's because you're a newb
 
 </div>
 
-<div class="post" data-post-id="20014" data-author="Autolycos" data-date="2007-08-30T20:34:15+00:00">
+<div class="post" data-post-id="20014" data-author="Autolycos" data-date="2007-08-30T20:34:15+00:00" data-subject="">
 
 that's because you're a newb[/quote:3268ss4w]
 
@@ -140,7 +140,7 @@ agreed  8)
 
 </div>
 
-<div class="post" data-post-id="20015" data-author="blackmore" data-date="2007-08-30T21:49:34+00:00">
+<div class="post" data-post-id="20015" data-author="blackmore" data-date="2007-08-30T21:49:34+00:00" data-subject="">
 
 handdmg only costs 5 and you use it significantly more than spelldmg/healb[/quote:2kjiut49]
 
@@ -148,7 +148,7 @@ Handdam is only 1 hp, spell and heal bonuses are 5hps.  I'm not in the mood to d
 
 </div>
 
-<div class="post" data-post-id="20016" data-author="Tap" data-date="2007-08-30T22:56:35+00:00">
+<div class="post" data-post-id="20016" data-author="Tap" data-date="2007-08-30T22:56:35+00:00" data-subject="">
 
 [quote:1x9jdsn9]Why in God's name does spelldmg and healbonus have to be so expensive? I could see 5-7 but shit. Come on.[/quote:1x9jdsn9]
 
@@ -160,7 +160,7 @@ Flame on
 
 </div>
 
-<div class="post" data-post-id="20028" data-author="banedon" data-date="2007-08-31T05:15:17+00:00">
+<div class="post" data-post-id="20028" data-author="banedon" data-date="2007-08-31T05:15:17+00:00" data-subject="">
 
 [quote:2jnux7av] I think it sucks that you can only buy this at 5x40. If you were dumb enough to have a perm valker, and could in fact rack up that much exp, then you should be able to buy stat.[/quote:2jnux7av][/quote:2jnux7av]
 
@@ -168,7 +168,7 @@ As scary as this is to say, I actually agree with him on this one.
 
 </div>
 
-<div class="post" data-post-id="20029" data-author="Leaf" data-date="2007-08-31T11:04:04+00:00">
+<div class="post" data-post-id="20029" data-author="Leaf" data-date="2007-08-31T11:04:04+00:00" data-subject="">
 
 Perm Vk chars to get bonus at 4x20 would be pretty sweet.  The only 
 
@@ -182,7 +182,7 @@ Also once you lvl past 4x20 everything will be removed or dropped.
 
 </div>
 
-<div class="post" data-post-id="20032" data-author="alias" data-date="2007-08-31T14:59:58+00:00">
+<div class="post" data-post-id="20032" data-author="alias" data-date="2007-08-31T14:59:58+00:00" data-subject="">
 
 Your choice to have a perm valker is your choice, noone is making you stay in newbie central. I don't personally think stupidity should be rewarded with the ability to buy what only the people who grunted out to 5x40 are able to buy. If you wanna stay on vk to help newbs thats cool , but I don't think we need super-newbs on valk.  
 
@@ -192,13 +192,13 @@ alias
 
 </div>
 
-<div class="post" data-post-id="20033" data-author="mahkra" data-date="2007-08-31T15:13:33+00:00">
+<div class="post" data-post-id="20033" data-author="mahkra" data-date="2007-08-31T15:13:33+00:00" data-subject="">
 
 what is the cap for Spelldam/healdam/weapon dam?
 
 </div>
 
-<div class="post" data-post-id="20034" data-author="Weasel" data-date="2007-08-31T15:42:19+00:00">
+<div class="post" data-post-id="20034" data-author="Weasel" data-date="2007-08-31T15:42:19+00:00" data-subject="">
 
 Your choice to have a perm valker is your choice, noone is making you stay in newbie central. I don't personally think stupidity should be rewarded with the ability to buy what only the people who grunted out to 5x40 are able to buy. If you wanna stay on vk to help newbs thats cool , but I don't think we need super-newbs on valk.  
 
@@ -212,7 +212,7 @@ AFAIK it depends on class order and perhaps levels too?
 
 </div>
 
-<div class="post" data-post-id="20037" data-author="Tap" data-date="2007-08-31T21:09:28+00:00">
+<div class="post" data-post-id="20037" data-author="Tap" data-date="2007-08-31T21:09:28+00:00" data-subject="">
 
 Damn it you paranoid furball. You seem to obseess over the fact that I'm NOT a pthief. Anywho....
 
@@ -224,13 +224,13 @@ Pthieving is gonan return soon? Relly? Not that I care of course but have you he
 
 </div>
 
-<div class="post" data-post-id="20038" data-author="Tap" data-date="2007-08-31T21:13:48+00:00">
+<div class="post" data-post-id="20038" data-author="Tap" data-date="2007-08-31T21:13:48+00:00" data-subject="">
 
 Slide Notell- Anyonion  half a good spelchekc progran, lemming nose. :twisted:
 
 </div>
 
-<div class="post" data-post-id="20039" data-author="Deju" data-date="2007-08-31T21:34:30+00:00">
+<div class="post" data-post-id="20039" data-author="Deju" data-date="2007-08-31T21:34:30+00:00" data-subject="">
 
 Last I checked 2 bil exp was 2 bil exp whether it's on a 5x40, a 3x40 or lowly quad 20. Not stating that valkers should get a break and get stats at a cheaper price that would be wiped if you >20. Just don't see a difference experience wise. [/quote:254grxy8]
 
@@ -244,7 +244,7 @@ Why do you think you should get the same rights to buy stats as someone who has 
 
 </div>
 
-<div class="post" data-post-id="20040" data-author="Leaf" data-date="2007-08-31T22:13:11+00:00">
+<div class="post" data-post-id="20040" data-author="Leaf" data-date="2007-08-31T22:13:11+00:00" data-subject="">
 
 Anywho I was just throwing an idea out there ppl.
 
@@ -264,13 +264,13 @@ they get other bonus.
 
 </div>
 
-<div class="post" data-post-id="20041" data-author="Tap" data-date="2007-08-31T23:35:35+00:00">
+<div class="post" data-post-id="20041" data-author="Tap" data-date="2007-08-31T23:35:35+00:00" data-subject="">
 
 Yeah, what I said 8)
 
 </div>
 
-<div class="post" data-post-id="20042" data-author="Deju" data-date="2007-09-01T03:38:16+00:00">
+<div class="post" data-post-id="20042" data-author="Deju" data-date="2007-09-01T03:38:16+00:00" data-subject="">
 
 And to get 55billion exp for a vk?
 
@@ -280,7 +280,7 @@ This is exactly my point.  Why should valkers get the right to buy stats without
 
 </div>
 
-<div class="post" data-post-id="20043" data-author="Leaf" data-date="2007-09-01T04:10:40+00:00">
+<div class="post" data-post-id="20043" data-author="Leaf" data-date="2007-09-01T04:10:40+00:00" data-subject="">
 
 Like I said Deju, its temp (if lvl 21 poof).  
 
@@ -302,7 +302,7 @@ to kill.
 
 </div>
 
-<div class="post" data-post-id="20044" data-author="Malison" data-date="2007-09-01T04:37:30+00:00">
+<div class="post" data-post-id="20044" data-author="Malison" data-date="2007-09-01T04:37:30+00:00" data-subject="">
 
 Getting 4x20 is actually pretty easy.  Just join a couple BH groups and you're there within a week.  Getting together 5 2-billion xp tokens to buy some HP, however, is, as has been said, immensely harder for someone getting 1 mil max instead of 5 for every kill.
 
@@ -310,7 +310,7 @@ This is definitely a reasonable idea with the condition that the bonuses go away
 
 </div>
 
-<div class="post" data-post-id="20045" data-author="banedon" data-date="2007-09-01T04:52:10+00:00">
+<div class="post" data-post-id="20045" data-author="banedon" data-date="2007-09-01T04:52:10+00:00" data-subject="">
 
 As i said before, I think this is a good idea, it could be kind of an incentive for experienced players to stay on VK and be able to help out new players.
 
@@ -320,7 +320,7 @@ BTW - I'd love to hear Krom or Splork's feelings on this
 
 </div>
 
-<div class="post" data-post-id="20051" data-author="13" data-date="2007-09-01T12:36:27+00:00">
+<div class="post" data-post-id="20051" data-author="13" data-date="2007-09-01T12:36:27+00:00" data-subject="">
 
 4x20 is way too easy to let them buy stats,
 
@@ -328,7 +328,7 @@ plus then ya could just level
 
 </div>
 
-<div class="post" data-post-id="20052" data-author="Leaf" data-date="2007-09-01T12:58:53+00:00">
+<div class="post" data-post-id="20052" data-author="Leaf" data-date="2007-09-01T12:58:53+00:00" data-subject="">
 
 4x20 is way too easy to let them buy stats,
 
@@ -344,13 +344,13 @@ Lay off the drugs man...  :roll:
 
 </div>
 
-<div class="post" data-post-id="20054" data-author="Tap" data-date="2007-09-01T13:33:36+00:00">
+<div class="post" data-post-id="20054" data-author="Tap" data-date="2007-09-01T13:33:36+00:00" data-subject="">
 
 Nothing beats a cat nap. In all seriousness, you act like you're gonan have a ton of valkers buying all kinda crazy 'power-ups' week in/out. This overlooking the fact that the exp needed would no doubt take 2-3 months of serious carnage. But I digress...
 
 </div>
 
-<div class="post" data-post-id="20055" data-author="alias" data-date="2007-09-01T18:32:52+00:00">
+<div class="post" data-post-id="20055" data-author="alias" data-date="2007-09-01T18:32:52+00:00" data-subject="">
 
 The buying stuff w. tokens and goes poof when u level up to 21st is interresting, but why should a level 20 have more weapon dam than a level 40 who hasn't had that opportunity. If you really want to implement it then may I suggest it only counts on Valk and not dependant on levels. ie you have +9 weapon damage on valk you boat to bh and boom your back down to 0. this way it would be fair to the people who havent attained avatar status and who chose not to confine their life to valk. I still don't like it but at least a level 40 warrior wont be outdone by a level 20 cleric in a group.
 
@@ -360,7 +360,7 @@ I'd spend 5 tokens for .1 ac.
 
 </div>
 
-<div class="post" data-post-id="20056" data-author="Tap" data-date="2007-09-01T19:27:55+00:00">
+<div class="post" data-post-id="20056" data-author="Tap" data-date="2007-09-01T19:27:55+00:00" data-subject="">
 
 Seems would be easy enough to code. Make a MOB that makes you a perm citiizen. Such ' FLAGGING ' would prevent one from leaving valk via dragons or fargate. Also, once you have chose to become a perm citizen, you won't be able to un-do so one would have to be sure. The trade-off being you won't  be able to do most quests which are off-valk and stuck to scatters on valk. So you would have to buy all your weaver stuff before making the 'change'.
 
@@ -368,7 +368,7 @@ The bonus being, if you wanted to spend 2-3 years buffing up a perm valker, why 
 
 </div>
 
-<div class="post" data-post-id="20060" data-author="13" data-date="2007-09-02T14:28:56+00:00">
+<div class="post" data-post-id="20060" data-author="13" data-date="2007-09-02T14:28:56+00:00" data-subject="">
 
 what we need is a pk continent, not more newbie shit
 
@@ -378,7 +378,7 @@ you have to add something for the big guys instead I think
 
 </div>
 
-<div class="post" data-post-id="20061" data-author="Leaf" data-date="2007-09-02T16:26:58+00:00">
+<div class="post" data-post-id="20061" data-author="Leaf" data-date="2007-09-02T16:26:58+00:00" data-subject="">
 
 I think its the opposite there AA.  The older players are addicts, and will
 
@@ -388,13 +388,13 @@ The new players may come and go.  :)
 
 </div>
 
-<div class="post" data-post-id="20062" data-author="Tap" data-date="2007-09-02T17:29:40+00:00">
+<div class="post" data-post-id="20062" data-author="Tap" data-date="2007-09-02T17:29:40+00:00" data-subject="">
 
 Plus, some people get bored on a slow day and want to play 'God Mode'. Valk is ideal in this case. :!:
 
 </div>
 
-<div class="post" data-post-id="20064" data-author="Roadrunr" data-date="2007-09-02T20:04:50+00:00">
+<div class="post" data-post-id="20064" data-author="Roadrunr" data-date="2007-09-02T20:04:50+00:00" data-subject="">
 
 Plus, some people get bored on a slow day and want to play 'God Mode'. Valk is ideal in this case. :!:[/quote:1axpp170]
 
@@ -404,13 +404,13 @@ I agree that a PK continent (with some kind of warning before you step off the b
 
 </div>
 
-<div class="post" data-post-id="20065" data-author="Weasel" data-date="2007-09-02T20:18:32+00:00">
+<div class="post" data-post-id="20065" data-author="Weasel" data-date="2007-09-02T20:18:32+00:00" data-subject="">
 
 Well yes, some players would enjoy a full pkill continent I'm sure.. but do the coders want to build and maintain an entire continent for, what, 3 maybe 4 people to use? If your true motive for wanting this pkill continent is not just about stealing eq as I suspect it is, then there are arenas already available - why are you not using them if it's just the challenge of pkilling you're into, as some of you claim? hmm?
 
 </div>
 
-<div class="post" data-post-id="20066" data-author="Alberich" data-date="2007-09-02T20:33:00+00:00">
+<div class="post" data-post-id="20066" data-author="Alberich" data-date="2007-09-02T20:33:00+00:00" data-subject="">
 
 I bet that it'd be alot more than 3 or 4 people, especially if you put some tasty eq there - high risk, high gain. 
 
@@ -420,7 +420,7 @@ Arenas are fun and all but it's not the same.  perhaps pk-cont temp eq as well? 
 
 </div>
 
-<div class="post" data-post-id="20067" data-author="13" data-date="2007-09-02T21:16:25+00:00">
+<div class="post" data-post-id="20067" data-author="13" data-date="2007-09-02T21:16:25+00:00" data-subject="">
 
 [quote:3br5y90d]If your true motive for wanting this pkill continent is not just about stealing eq as I suspect it is[/quote:3br5y90d]
 
@@ -428,19 +428,19 @@ you [i:3br5y90d]have[/i:3br5y90d] to be shitting me
 
 </div>
 
-<div class="post" data-post-id="20068" data-author="Tap" data-date="2007-09-02T21:54:25+00:00">
+<div class="post" data-post-id="20068" data-author="Tap" data-date="2007-09-02T21:54:25+00:00" data-subject="">
 
 Told you he was paranoid :twisted:
 
 </div>
 
-<div class="post" data-post-id="20069" data-author="Yinao" data-date="2007-09-03T00:40:49+00:00">
+<div class="post" data-post-id="20069" data-author="Yinao" data-date="2007-09-03T00:40:49+00:00" data-subject="">
 
 Arena's are fun. With that being said a pkill cont. would be much more fun: one reason is, it would be a larger area. Second reason is, it would allow more people and different room procs, mobs, mob procs, etc etc. It's much more fun, imo, to have to worry about more than one opponent including large mobs that will eat you by themselves along with their procs if your not careful. Now the temp eq would be a badass idea without plooting which is illigal anyhow iirc. Sounds fun, looking forward to seeing if this happens  :twisted:
 
 </div>
 
-<div class="post" data-post-id="20070" data-author="Weasel" data-date="2007-09-03T03:00:44+00:00">
+<div class="post" data-post-id="20070" data-author="Weasel" data-date="2007-09-03T03:00:44+00:00" data-subject="">
 
 On further reflection, I guess if such a continent went ahead it would be my choice to visit there, and what others choose to do is up to them, so in that light perhaps I should refrain from the negative comments - as long as I have a choice then I really shouldn't have an issue with it huh.
 
@@ -448,13 +448,13 @@ And no 13, I wasn't kidding - surely the fact that one of the loudest advocates 
 
 </div>
 
-<div class="post" data-post-id="20071" data-author="Mosaix" data-date="2007-09-03T03:08:40+00:00">
+<div class="post" data-post-id="20071" data-author="Mosaix" data-date="2007-09-03T03:08:40+00:00" data-subject="">
 
 Living in fear of specific players in this game, defeats the purpose of playing it.   So bothering to build a player kill continent which would serve maybe 3-4 people is a waste of time.
 
 </div>
 
-<div class="post" data-post-id="20074" data-author="Rynquald" data-date="2007-09-03T07:41:01+00:00">
+<div class="post" data-post-id="20074" data-author="Rynquald" data-date="2007-09-03T07:41:01+00:00" data-subject="">
 
 Given the lack of opportunities for pvp to occur on this mud, it's all too easy to underestimate the number of people who would enjoy the opportunity to partake in it.
 
@@ -464,7 +464,7 @@ Edit:Obviously Roadrunr's right when he says that plooting would have to retain 
 
 </div>
 
-<div class="post" data-post-id="20084" data-author="13" data-date="2007-09-03T14:45:43+00:00">
+<div class="post" data-post-id="20084" data-author="13" data-date="2007-09-03T14:45:43+00:00" data-subject="">
 
 Ya know thieving would still be turned off?  Or did you think that it would just
 
@@ -482,19 +482,19 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="20086" data-author="Weasel" data-date="2007-09-03T15:01:04+00:00">
+<div class="post" data-post-id="20086" data-author="Weasel" data-date="2007-09-03T15:01:04+00:00" data-subject="">
 
 Read my last comment again, you're repeating what I just said regarding negative opinion. If pthieving were turned off, then yes, I would view this differently, although I am still of the opinion that once the initial novelty was over, it would become a ghost town. If you have to put seriously good eq there to attract players, then people are going for the eq, not the pkilling, thereby validating my opinion.
 
 </div>
 
-<div class="post" data-post-id="20098" data-author="Mosaix" data-date="2007-09-03T16:56:50+00:00">
+<div class="post" data-post-id="20098" data-author="Mosaix" data-date="2007-09-03T16:56:50+00:00" data-subject="">
 
 Aaron why cant you stop being such a bully?  I know the answer but id like to hear yours.
 
 </div>
 
-<div class="post" data-post-id="20099" data-author="13" data-date="2007-09-03T17:16:27+00:00">
+<div class="post" data-post-id="20099" data-author="13" data-date="2007-09-03T17:16:27+00:00" data-subject="">
 
 I wasn't being a bully.  I was encouraging positive input.
 

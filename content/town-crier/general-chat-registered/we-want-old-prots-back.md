@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="30184" data-author="angel" data-date="2009-10-29T12:47:34+00:00">
+<div class="post" data-post-id="30184" data-author="angel" data-date="2009-10-29T12:47:34+00:00" data-subject="We want old prots back!">
 
 re : title
 
@@ -18,13 +18,13 @@ or at least for it to be an option in groupin
 
 </div>
 
-<div class="post" data-post-id="30185" data-author="*Splork*" data-date="2009-10-29T15:51:00+00:00">
+<div class="post" data-post-id="30185" data-author="*Splork*" data-date="2009-10-29T15:51:00+00:00" data-subject="">
 
 Feel free to read our response to the few times this has been brought up in the past since it is not ever going to change.
 
 </div>
 
-<div class="post" data-post-id="30186" data-author="jezer" data-date="2009-10-29T21:15:17+00:00">
+<div class="post" data-post-id="30186" data-author="jezer" data-date="2009-10-29T21:15:17+00:00" data-subject="">
 
 It's not uncommon in a lot of games to be able to set the type of "group formation," and even the "group tactic."
 
@@ -48,7 +48,7 @@ Each command would adjust hit/dam and chance to be hit, and how much a person ca
 
 </div>
 
-<div class="post" data-post-id="30190" data-author="Tap" data-date="2009-10-30T07:25:34+00:00">
+<div class="post" data-post-id="30190" data-author="Tap" data-date="2009-10-30T07:25:34+00:00" data-subject="">
 
 You left out the best one
 
@@ -62,13 +62,13 @@ Bonus affect: Fingers get pointed and group dissolves
 
 </div>
 
-<div class="post" data-post-id="30191" data-author="jezer" data-date="2009-10-30T07:42:10+00:00">
+<div class="post" data-post-id="30191" data-author="jezer" data-date="2009-10-30T07:42:10+00:00" data-subject="">
 
 I think that formation has been in-game for quite some time  :twisted:
 
 </div>
 
-<div class="post" data-post-id="30197" data-author="Playboy" data-date="2009-10-30T16:50:49+00:00">
+<div class="post" data-post-id="30197" data-author="Playboy" data-date="2009-10-30T16:50:49+00:00" data-subject="">
 
 Protect orders are a pain in the butt.
 

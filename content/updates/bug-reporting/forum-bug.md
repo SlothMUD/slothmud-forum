@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="12930" data-author="killme" data-date="2006-06-09T04:24:10+00:00">
+<div class="post" data-post-id="12930" data-author="killme" data-date="2006-06-09T04:24:10+00:00" data-subject="Forum Bug">
 
 I cannot login with my usual login.. I can login to the site, but if I go to the forums I get the following php errors in both IE and FireFox (more details following pasted errors):
 
@@ -38,7 +38,7 @@ The only fix I can figure is to put back the wowHorde template at least temporar
 
 </div>
 
-<div class="post" data-post-id="12946" data-author="Clink" data-date="2006-06-10T00:50:26+00:00">
+<div class="post" data-post-id="12946" data-author="Clink" data-date="2006-06-10T00:50:26+00:00" data-subject="">
 
 The override is back in place now, but will be periodically turned on and off as we do some development.  I'll see about setting your profiles back to the default (subBlack) one time if I can figure it out, but after that you are on your own.  In the mean time, anyone who had issues, please follow the directions that were posted but actually change it to subBlack instead of away from it.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="27577" data-author="marge" data-date="2009-01-01T16:09:07+00:00">
+<div class="post" data-post-id="27577" data-author="marge" data-date="2009-01-01T16:09:07+00:00" data-subject="shipping down til further notice">
 
 All the postmaster mobs are on vacation til further notice.
 
@@ -18,7 +18,7 @@ Thx.
 
 </div>
 
-<div class="post" data-post-id="27601" data-author="Tap" data-date="2009-01-03T06:24:59+00:00">
+<div class="post" data-post-id="27601" data-author="Tap" data-date="2009-01-03T06:24:59+00:00" data-subject="">
 
 I gotta get better glasses. For a moment I thought I was gonna regret eating all that oatmeal.
 

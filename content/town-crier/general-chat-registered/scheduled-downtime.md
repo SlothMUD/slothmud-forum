@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="28620" data-author="*Splork*" data-date="2009-03-27T17:21:50+00:00">
+<div class="post" data-post-id="28620" data-author="*Splork*" data-date="2009-03-27T17:21:50+00:00" data-subject="Scheduled downtime">
 
 We are going to be down for about a half hour starting now!
 

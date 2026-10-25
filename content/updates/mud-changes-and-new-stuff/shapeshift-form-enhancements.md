@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30969" data-author="*Splork*" data-date="2010-03-16T01:01:35+00:00">
+<div class="post" data-post-id="30969" data-author="*Splork*" data-date="2010-03-16T01:01:35+00:00" data-subject="Shapeshift form enhancements">
 
 After speaking with several druids and doing a comparison of the damage done in form to what they can do at their current levels, Ive come to the conclusion that forms needed a small adjustment.
 

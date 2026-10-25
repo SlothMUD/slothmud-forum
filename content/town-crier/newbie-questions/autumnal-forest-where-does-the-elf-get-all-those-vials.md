@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="30456" data-author="harik" data-date="2009-12-08T22:39:22+00:00">
+<div class="post" data-post-id="30456" data-author="harik" data-date="2009-12-08T22:39:22+00:00" data-subject="Autumnal forest - where DOES the elf get all those vials?">
 
 Is he really supposed to proc teleport every round of combat starting from round 1?  The only way to hold him down really feels like an exploit, but at the same time he seems really broken.   Is there any way for a non-druid to get him?
 
@@ -58,7 +58,7 @@ He smashes it with his mace, and is gone in a puff of orange smoke!
 
 </div>
 
-<div class="post" data-post-id="30457" data-author="jezer" data-date="2009-12-08T22:57:20+00:00">
+<div class="post" data-post-id="30457" data-author="jezer" data-date="2009-12-08T22:57:20+00:00" data-subject="">
 
 Elf isn't broken, he is designed to do what he does.
 
@@ -74,13 +74,13 @@ As long as you trip/bash he's not very hard... just a pain.
 
 </div>
 
-<div class="post" data-post-id="30458" data-author="*juggleblood*" data-date="2009-12-09T02:36:59+00:00">
+<div class="post" data-post-id="30458" data-author="*juggleblood*" data-date="2009-12-09T02:36:59+00:00" data-subject="">
 
 He's a classic pain in the butt mob. There are several strategies to defeating him. It's reasonably easy to solo him even if you figure him out.
 
 </div>
 
-<div class="post" data-post-id="30459" data-author="Thraxas" data-date="2009-12-09T09:39:28+00:00">
+<div class="post" data-post-id="30459" data-author="Thraxas" data-date="2009-12-09T09:39:28+00:00" data-subject="">
 
 yep, he's been that way for at least 10 years and been a pain for at least 10 years, however in those years hundreds of players have worked out methods of beating him consistently.
 
@@ -90,7 +90,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30460" data-author="smig1o" data-date="2009-12-09T11:12:06+00:00">
+<div class="post" data-post-id="30460" data-author="smig1o" data-date="2009-12-09T11:12:06+00:00" data-subject="">
 
 Oh yeah! 
 
@@ -110,7 +110,7 @@ Pi, the unfinished one
 
 </div>
 
-<div class="post" data-post-id="30461" data-author="Thraxas" data-date="2009-12-09T11:36:45+00:00">
+<div class="post" data-post-id="30461" data-author="Thraxas" data-date="2009-12-09T11:36:45+00:00" data-subject="">
 
 hunt also works well
 
@@ -128,7 +128,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30463" data-author="*juggleblood*" data-date="2009-12-09T14:23:10+00:00">
+<div class="post" data-post-id="30463" data-author="*juggleblood*" data-date="2009-12-09T14:23:10+00:00" data-subject="">
 
 then you'll have the fun of his low pop rate.
 
@@ -138,7 +138,7 @@ hrm, you were right, it was real low. made it a bit more reasonable. enjoy.
 
 </div>
 
-<div class="post" data-post-id="30475" data-author="harik" data-date="2009-12-11T04:19:19+00:00">
+<div class="post" data-post-id="30475" data-author="harik" data-date="2009-12-11T04:19:19+00:00" data-subject="">
 
 Cool, thanks for all the advice. :)
 

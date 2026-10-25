@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29258" data-author="*Splork*" data-date="2009-05-22T12:30:42+00:00">
+<div class="post" data-post-id="29258" data-author="*Splork*" data-date="2009-05-22T12:30:42+00:00" data-subject="bug fixes">
 
 1) Max_dex now works properly. Each max dex is -.5 ac. Strider found out that it was not working and it was because it was only counting full points of ac. This is now fixed on reboot and each max dex will work as -.5 ac.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="29354" data-author="*Splork*" data-date="2009-06-11T01:21:44+00:00">
+<div class="post" data-post-id="29354" data-author="*Splork*" data-date="2009-06-11T01:21:44+00:00" data-subject="Improvements">
 
 We have made quite a bit of progress addressing player concerns with you guys so far but I would like to ask what are we still lacking or need to improve still?
 
@@ -88,7 +88,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29418" data-author="Mosaix" data-date="2009-06-11T13:21:17+00:00">
+<div class="post" data-post-id="29418" data-author="Mosaix" data-date="2009-06-11T13:21:17+00:00" data-subject="">
 
 please consider looking at lost concentration rate.  I lose concentration far too much for spells learned at 95%. 
 
@@ -152,7 +152,7 @@ Otherwise thanks for the hard work on making sloth fun.
 
 </div>
 
-<div class="post" data-post-id="29419" data-author="Mosaix" data-date="2009-06-11T13:33:39+00:00">
+<div class="post" data-post-id="29419" data-author="Mosaix" data-date="2009-06-11T13:33:39+00:00" data-subject="">
 
 Dunno if this is new.  But nice feature.  Mob hunted from several rooms away, opened a gate, and attacked.  
 
@@ -244,7 +244,7 @@ No way! You are fighting for your life!
 
 </div>
 
-<div class="post" data-post-id="29424" data-author="Medios" data-date="2009-06-11T21:13:54+00:00">
+<div class="post" data-post-id="29424" data-author="Medios" data-date="2009-06-11T21:13:54+00:00" data-subject="">
 
 mighty Mosaix
 
@@ -254,7 +254,7 @@ oh sorry wrong thread
 
 </div>
 
-<div class="post" data-post-id="29441" data-author="Bennett" data-date="2009-06-12T00:03:44+00:00">
+<div class="post" data-post-id="29441" data-author="Bennett" data-date="2009-06-12T00:03:44+00:00" data-subject="">
 
 This seems like as good a thread as any to post a few questions.
 
@@ -274,7 +274,7 @@ PS:  'consider' sucks big time :)
 
 </div>
 
-<div class="post" data-post-id="29443" data-author="12345" data-date="2009-06-12T00:41:01+00:00">
+<div class="post" data-post-id="29443" data-author="12345" data-date="2009-06-12T00:41:01+00:00" data-subject="">
 
 I think you'll find most of it comes down to area knowledge. Much of the key to the game is knowing what areas and which mobs are best to hit at what ability levels to advance in the game.  Those that have been through the game a few times have a pretty good idea of this and simply move around to get the best benefit they can manage.
 
@@ -290,7 +290,7 @@ The only advice I might have for you is the Shadowkeep.  If I remember correctly
 
 </div>
 
-<div class="post" data-post-id="29466" data-author="Thraxas" data-date="2009-06-12T11:29:01+00:00">
+<div class="post" data-post-id="29466" data-author="Thraxas" data-date="2009-06-12T11:29:01+00:00" data-subject="Re: Improvements">
 
 Code is done to open up first 5 levels at 6x40, second five at 7x40, and rest at 8x40. Krom and I are still debating if we should open them up sooner. 
 

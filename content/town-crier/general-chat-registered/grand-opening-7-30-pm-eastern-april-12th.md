@@ -10,7 +10,7 @@ locked: true
 post_count: 31
 ---
 
-<div class="post" data-post-id="28859" data-author="*Splork*" data-date="2009-04-12T12:11:50+00:00">
+<div class="post" data-post-id="28859" data-author="*Splork*" data-date="2009-04-12T12:11:50+00:00" data-subject="GRAND OPENING - 7:30 PM EASTERN, April 12th">
 
 SlothMUD will officially open its doors tonight at 7:30 pm, Eastern time.
 
@@ -26,7 +26,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28861" data-author="Bazilus" data-date="2009-04-12T12:56:16+00:00">
+<div class="post" data-post-id="28861" data-author="Bazilus" data-date="2009-04-12T12:56:16+00:00" data-subject="Luck...">
 
 I'am miss it, 3:30am in work day, it hard for me. Think same for some other russian players... Happy hunting! +)
 
@@ -34,7 +34,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28863" data-author="Virus" data-date="2009-04-12T13:37:32+00:00">
+<div class="post" data-post-id="28863" data-author="Virus" data-date="2009-04-12T13:37:32+00:00" data-subject="">
 
 There are 10 unlogged users and 6 registered users online...
 
@@ -44,7 +44,7 @@ Already did the Easter thing, 9:35PM of Easter Sunday here  :roll:
 
 </div>
 
-<div class="post" data-post-id="28865" data-author="Rovena" data-date="2009-04-12T15:09:51+00:00">
+<div class="post" data-post-id="28865" data-author="Rovena" data-date="2009-04-12T15:09:51+00:00" data-subject="">
 
 Whilst this overhaul is going on, please don't forget about the boats. 
 
@@ -52,7 +52,7 @@ Surely it would be a great time to haul them out, scrape the barnacles and weed 
 
 </div>
 
-<div class="post" data-post-id="28866" data-author="*Splork*" data-date="2009-04-12T16:17:01+00:00">
+<div class="post" data-post-id="28866" data-author="*Splork*" data-date="2009-04-12T16:17:01+00:00" data-subject="">
 
 Actually we are adding a fargate item which will HELP with boat travel, it will NOT replace it.
 
@@ -62,7 +62,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28867" data-author="Rigwarl" data-date="2009-04-12T16:23:03+00:00">
+<div class="post" data-post-id="28867" data-author="Rigwarl" data-date="2009-04-12T16:23:03+00:00" data-subject="">
 
 Could someone post here saying how many hours away it is?
 
@@ -70,7 +70,7 @@ I'll then use the forum time to calculate the difference for me, thanks.
 
 </div>
 
-<div class="post" data-post-id="28868" data-author="Bazilus" data-date="2009-04-12T16:26:00+00:00">
+<div class="post" data-post-id="28868" data-author="Bazilus" data-date="2009-04-12T16:26:00+00:00" data-subject="...">
 
 7 hours 5 minutes...
 
@@ -78,19 +78,19 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28869" data-author="Cizin" data-date="2009-04-12T16:26:29+00:00">
+<div class="post" data-post-id="28869" data-author="Cizin" data-date="2009-04-12T16:26:29+00:00" data-subject="">
 
 in 7 hrs from now
 
 </div>
 
-<div class="post" data-post-id="28871" data-author="Jag" data-date="2009-04-12T16:57:59+00:00">
+<div class="post" data-post-id="28871" data-author="Jag" data-date="2009-04-12T16:57:59+00:00" data-subject="">
 
 Six hours and thirty minutes.
 
 </div>
 
-<div class="post" data-post-id="28873" data-author="Jag" data-date="2009-04-12T19:22:51+00:00">
+<div class="post" data-post-id="28873" data-author="Jag" data-date="2009-04-12T19:22:51+00:00" data-subject="">
 
 I've been checking the messages every few hours for any new hints.  Not many hints yet.  Com'on beta testers  share yourinfo.
 
@@ -98,61 +98,61 @@ Also it seems like a good time to [b:slc17s8s]Vote[/b:slc17s8s].   :D
 
 </div>
 
-<div class="post" data-post-id="28874" data-author="Evergreen" data-date="2009-04-12T19:47:27+00:00">
+<div class="post" data-post-id="28874" data-author="Evergreen" data-date="2009-04-12T19:47:27+00:00" data-subject="">
 
 how much is left?
 
 </div>
 
-<div class="post" data-post-id="28875" data-author="Yasik2" data-date="2009-04-12T19:50:16+00:00">
+<div class="post" data-post-id="28875" data-author="Yasik2" data-date="2009-04-12T19:50:16+00:00" data-subject="">
 
 About 3-4 hours i guess
 
 </div>
 
-<div class="post" data-post-id="28876" data-author="sirrico1" data-date="2009-04-12T19:57:03+00:00">
+<div class="post" data-post-id="28876" data-author="sirrico1" data-date="2009-04-12T19:57:03+00:00" data-subject="">
 
 3 hours till 7pm EST
 
 </div>
 
-<div class="post" data-post-id="28882" data-author="eekcm2" data-date="2009-04-12T21:02:36+00:00">
+<div class="post" data-post-id="28882" data-author="eekcm2" data-date="2009-04-12T21:02:36+00:00" data-subject="">
 
 2 hours 25min
 
 </div>
 
-<div class="post" data-post-id="28886" data-author="eekcm2" data-date="2009-04-12T22:59:53+00:00">
+<div class="post" data-post-id="28886" data-author="eekcm2" data-date="2009-04-12T22:59:53+00:00" data-subject="">
 
 30 min
 
 </div>
 
-<div class="post" data-post-id="28887" data-author="Virus" data-date="2009-04-12T23:01:54+00:00">
+<div class="post" data-post-id="28887" data-author="Virus" data-date="2009-04-12T23:01:54+00:00" data-subject="">
 
 30 mins left  :lol:
 
 </div>
 
-<div class="post" data-post-id="28888" data-author="Rigwarl" data-date="2009-04-12T23:07:35+00:00">
+<div class="post" data-post-id="28888" data-author="Rigwarl" data-date="2009-04-12T23:07:35+00:00" data-subject="">
 
 23 minutes left?!
 
 </div>
 
-<div class="post" data-post-id="28889" data-author="eekcm2" data-date="2009-04-12T23:16:37+00:00">
+<div class="post" data-post-id="28889" data-author="eekcm2" data-date="2009-04-12T23:16:37+00:00" data-subject="">
 
 15 min :shock:
 
 </div>
 
-<div class="post" data-post-id="28890" data-author="eekcm2" data-date="2009-04-12T23:25:11+00:00">
+<div class="post" data-post-id="28890" data-author="eekcm2" data-date="2009-04-12T23:25:11+00:00" data-subject="">
 
 5 min  :shock:  :D
 
 </div>
 
-<div class="post" data-post-id="28891" data-author="Toxis" data-date="2009-04-12T23:28:17+00:00">
+<div class="post" data-post-id="28891" data-author="Toxis" data-date="2009-04-12T23:28:17+00:00" data-subject="">
 
 Today is my birthday.  What a wonderful gift that I get sloth 4 on my birthday.  Thanks to all the imms who planned that *wink* hehe
 
@@ -160,19 +160,19 @@ Today is my birthday.  What a wonderful gift that I get sloth 4 on my birthday. 
 
 </div>
 
-<div class="post" data-post-id="28892" data-author="eekcm2" data-date="2009-04-12T23:29:41+00:00">
+<div class="post" data-post-id="28892" data-author="eekcm2" data-date="2009-04-12T23:29:41+00:00" data-subject="">
 
 15 sec
 
 </div>
 
-<div class="post" data-post-id="28894" data-author="Ki" data-date="2009-04-12T23:29:57+00:00">
+<div class="post" data-post-id="28894" data-author="Ki" data-date="2009-04-12T23:29:57+00:00" data-subject="Newbie">
 
 Happy birthday!!
 
 </div>
 
-<div class="post" data-post-id="28896" data-author="Toxis" data-date="2009-04-13T00:16:43+00:00">
+<div class="post" data-post-id="28896" data-author="Toxis" data-date="2009-04-13T00:16:43+00:00" data-subject="">
 
 *Immortals of SlothMUD III* 
 
@@ -276,13 +276,13 @@ Highest total since last bootup: 44.
 
 </div>
 
-<div class="post" data-post-id="28897" data-author="Yasik2" data-date="2009-04-13T00:36:30+00:00">
+<div class="post" data-post-id="28897" data-author="Yasik2" data-date="2009-04-13T00:36:30+00:00" data-subject="">
 
 [img:xpqhb84s]http://yasik.kiev.ua/Sloth4_finally_open.jpg[/img:xpqhb84s]
 
 </div>
 
-<div class="post" data-post-id="28899" data-author="*Splork*" data-date="2009-04-13T03:21:53+00:00">
+<div class="post" data-post-id="28899" data-author="*Splork*" data-date="2009-04-13T03:21:53+00:00" data-subject="">
 
 *Immortals of SlothMUD III*
 
@@ -396,19 +396,19 @@ Highest total since last bootup: 52.
 
 </div>
 
-<div class="post" data-post-id="28900" data-author="jezer" data-date="2009-04-13T06:38:43+00:00">
+<div class="post" data-post-id="28900" data-author="jezer" data-date="2009-04-13T06:38:43+00:00" data-subject="Wizlocked?">
 
 Why? Mistake?
 
 </div>
 
-<div class="post" data-post-id="28901" data-author="Rynquald" data-date="2009-04-13T06:41:19+00:00">
+<div class="post" data-post-id="28901" data-author="Rynquald" data-date="2009-04-13T06:41:19+00:00" data-subject="">
 
 I assume whatever caused the crash needs fixing without us mortals running around causing crashes.
 
 </div>
 
-<div class="post" data-post-id="28902" data-author="Rigwarl" data-date="2009-04-13T06:46:48+00:00">
+<div class="post" data-post-id="28902" data-author="Rigwarl" data-date="2009-04-13T06:46:48+00:00" data-subject="">
 
 Any idea how long this wizlock is going to last?
 
@@ -416,19 +416,19 @@ Damnit we were on a roll!
 
 </div>
 
-<div class="post" data-post-id="28903" data-author="jezer" data-date="2009-04-13T06:48:56+00:00">
+<div class="post" data-post-id="28903" data-author="jezer" data-date="2009-04-13T06:48:56+00:00" data-subject="Wizlocked">
 
 Hopefully it's the hit roll...
 
 </div>
 
-<div class="post" data-post-id="28904" data-author="*Splork*" data-date="2009-04-13T11:48:14+00:00">
+<div class="post" data-post-id="28904" data-author="*Splork*" data-date="2009-04-13T11:48:14+00:00" data-subject="">
 
 Its open!
 
 </div>
 
-<div class="post" data-post-id="28906" data-author="Brujah" data-date="2009-04-13T19:20:48+00:00">
+<div class="post" data-post-id="28906" data-author="Brujah" data-date="2009-04-13T19:20:48+00:00" data-subject="">
 
 Seems its working. 50 people online on Monday.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2663" data-author="*Splork*" data-date="2004-11-07T19:43:45+00:00">
+<div class="post" data-post-id="2663" data-author="*Splork*" data-date="2004-11-07T19:43:45+00:00" data-subject="New low level druid forms">
 
 Two new low level druid forms have been added on reboot.
 

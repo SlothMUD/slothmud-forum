@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39965" data-author="crumbs" data-date="2022-08-10T15:44:35+00:00">
+<div class="post" data-post-id="39965" data-author="crumbs" data-date="2022-08-10T15:44:35+00:00" data-subject="Selling Necro prime 6x40">
 
 Haven’t got the time to play this char, and I really see no point in storing chars - that does no one any good, so this guy is up for sale.
 

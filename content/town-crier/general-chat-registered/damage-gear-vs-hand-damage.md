@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="15629" data-author="Leaf" data-date="2006-12-14T20:21:45+00:00">
+<div class="post" data-post-id="15629" data-author="Leaf" data-date="2006-12-14T20:21:45+00:00" data-subject="Damage Gear vs Hand Damage">
 
 For a Monk Prime, does +dam eq = +hand dam eq?
 
@@ -20,13 +20,13 @@ Does a grip or strike do the same?
 
 </div>
 
-<div class="post" data-post-id="15630" data-author="13" data-date="2006-12-14T20:32:22+00:00">
+<div class="post" data-post-id="15630" data-author="13" data-date="2006-12-14T20:32:22+00:00" data-subject="">
 
 Hand dmg and regular dmg are the same for people not using a weapon.  Grip does more than strike, don't you have a monk named Fable?
 
 </div>
 
-<div class="post" data-post-id="15631" data-author="Leaf" data-date="2006-12-14T20:46:32+00:00">
+<div class="post" data-post-id="15631" data-author="Leaf" data-date="2006-12-14T20:46:32+00:00" data-subject="">
 
 Yea Fable is my char :)
 
@@ -38,13 +38,13 @@ I would image +hand would give grips and strikes more damage then just
 
 </div>
 
-<div class="post" data-post-id="15632" data-author="Rynquald" data-date="2006-12-14T21:20:37+00:00">
+<div class="post" data-post-id="15632" data-author="Rynquald" data-date="2006-12-14T21:20:37+00:00" data-subject="">
 
 Try wearing +handdam eq with and without a weapon, it's just +dam eq that doesn't work while wielding.
 
 </div>
 
-<div class="post" data-post-id="15633" data-author="Leaf" data-date="2006-12-14T21:56:35+00:00">
+<div class="post" data-post-id="15633" data-author="Leaf" data-date="2006-12-14T21:56:35+00:00" data-subject="">
 
 Ok ok, like I said I was just wondering when I saw that - Rough Leather
 

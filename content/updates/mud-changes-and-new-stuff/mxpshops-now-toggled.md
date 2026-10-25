@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11869" data-author="*Splork*" data-date="2006-03-29T19:50:15+00:00">
+<div class="post" data-post-id="11869" data-author="*Splork*" data-date="2006-03-29T19:50:15+00:00" data-subject="mxpshops now toggled">
 
 Ive noticed many people toggling off mxp entirely because of shops, so now you can simply toggle off mxp for  shops...
 

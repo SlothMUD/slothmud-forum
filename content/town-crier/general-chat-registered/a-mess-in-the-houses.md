@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="38638" data-author="Teron" data-date="2018-01-25T15:16:38+00:00">
+<div class="post" data-post-id="38638" data-author="Teron" data-date="2018-01-25T15:16:38+00:00" data-subject="a mess in the houses?">
 
 Ezekiel said that there are less Winter houses for mages and I said that's rubbish.
 
@@ -38,7 +38,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="38639" data-author="Gorka" data-date="2018-01-25T16:14:48+00:00">
+<div class="post" data-post-id="38639" data-author="Gorka" data-date="2018-01-25T16:14:48+00:00" data-subject="Re: a mess in the houses?">
 
 I have a theory...
 
@@ -52,7 +52,7 @@ A quick search of my sloth logs revealed that some houses do indeed occur more f
 
 </div>
 
-<div class="post" data-post-id="38640" data-author="*Breeze*" data-date="2018-01-25T18:52:44+00:00">
+<div class="post" data-post-id="38640" data-author="*Breeze*" data-date="2018-01-25T18:52:44+00:00" data-subject="Re: a mess in the houses?">
 
 to head off any questions,
 
@@ -74,7 +74,7 @@ https://pastebin.com/iae2n6Cj
 
 </div>
 
-<div class="post" data-post-id="38641" data-author="Gorka" data-date="2018-01-25T19:29:21+00:00">
+<div class="post" data-post-id="38641" data-author="Gorka" data-date="2018-01-25T19:29:21+00:00" data-subject="Re: a mess in the houses?">
 
 Thanks Breeze!
 
@@ -116,7 +116,7 @@ Other useful things can be calculated with this data, such as average house time
 
 </div>
 
-<div class="post" data-post-id="38642" data-author="Gorka" data-date="2018-01-25T20:08:40+00:00">
+<div class="post" data-post-id="38642" data-author="Gorka" data-date="2018-01-25T20:08:40+00:00" data-subject="Re: a mess in the houses?">
 
 So I just SQL'ed the crap out of that data...
 
@@ -250,7 +250,7 @@ If you need to know something, let me know.
 
 </div>
 
-<div class="post" data-post-id="38643" data-author="Gorka" data-date="2018-01-25T20:55:59+00:00">
+<div class="post" data-post-id="38643" data-author="Gorka" data-date="2018-01-25T20:55:59+00:00" data-subject="Re: a mess in the houses?">
 
 Hey Gorka... got any more useless information...? Sure..!
 
@@ -258,7 +258,7 @@ My theory is the movement of sloths "4 planets" that Breeze alluded to, that cau
 
 </div>
 
-<div class="post" data-post-id="38644" data-author="*Breeze*" data-date="2018-01-25T21:27:08+00:00">
+<div class="post" data-post-id="38644" data-author="*Breeze*" data-date="2018-01-25T21:27:08+00:00" data-subject="Re: a mess in the houses?">
 
 > **Gorka wrote:**
 > KJ was probably a literal genius.
@@ -267,7 +267,7 @@ Agreed.
 
 </div>
 
-<div class="post" data-post-id="38645" data-author="Teron" data-date="2018-01-26T04:53:22+00:00">
+<div class="post" data-post-id="38645" data-author="Teron" data-date="2018-01-26T04:53:22+00:00" data-subject="Re: a mess in the houses?">
 
 Thank you, Breeze, for posting the data.
 

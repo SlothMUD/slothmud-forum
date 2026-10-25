@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="4629" data-author="Vekna" data-date="2005-02-25T23:18:11+00:00">
+<div class="post" data-post-id="4629" data-author="Vekna" data-date="2005-02-25T23:18:11+00:00" data-subject="WTS Ring of Ancient Evil">
 
 Ring of Ancient Evil
 
@@ -22,19 +22,19 @@ min bid 3M
 
 </div>
 
-<div class="post" data-post-id="4630" data-author="Deju" data-date="2005-02-25T23:20:18+00:00">
+<div class="post" data-post-id="4630" data-author="Deju" data-date="2005-02-25T23:20:18+00:00" data-subject="3mil">
 
 3mil
 
 </div>
 
-<div class="post" data-post-id="4650" data-author="Calim" data-date="2005-02-27T14:23:40+00:00">
+<div class="post" data-post-id="4650" data-author="Calim" data-date="2005-02-27T14:23:40+00:00" data-subject="">
 
 4 mil
 
 </div>
 
-<div class="post" data-post-id="4756" data-author="Vekna" data-date="2005-03-03T19:58:50+00:00">
+<div class="post" data-post-id="4756" data-author="Vekna" data-date="2005-03-03T19:58:50+00:00" data-subject="">
 
 catch me plz
 

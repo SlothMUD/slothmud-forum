@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="34346" data-author="Yasik" data-date="2013-07-10T16:34:48+00:00">
+<div class="post" data-post-id="34346" data-author="Yasik" data-date="2013-07-10T16:34:48+00:00" data-subject="Strange AH WG portal">
 
 **look**
 
@@ -68,7 +68,7 @@ A frost giant is guarding the gate.
 
 </div>
 
-<div class="post" data-post-id="34348" data-author="Tuck" data-date="2013-07-12T00:08:40+00:00">
+<div class="post" data-post-id="34348" data-author="Tuck" data-date="2013-07-12T00:08:40+00:00" data-subject="Re: Strange AH WG portal">
 
 Confirmed.
 
@@ -76,13 +76,13 @@ Cursed and invised ;-)
 
 </div>
 
-<div class="post" data-post-id="34349" data-author="Yasik" data-date="2013-07-12T08:46:08+00:00">
+<div class="post" data-post-id="34349" data-author="Yasik" data-date="2013-07-12T08:46:08+00:00" data-subject="Re: Strange AH WG portal">
 
 I had Detect Invisibility on.
 
 </div>
 
-<div class="post" data-post-id="34353" data-author="Tuck" data-date="2013-07-15T01:55:07+00:00">
+<div class="post" data-post-id="34353" data-author="Tuck" data-date="2013-07-15T01:55:07+00:00" data-subject="Re: Strange AH WG portal">
 
 silly yasik,
 
@@ -94,13 +94,13 @@ dork
 
 </div>
 
-<div class="post" data-post-id="34355" data-author="Yasik" data-date="2013-07-15T05:33:35+00:00">
+<div class="post" data-post-id="34355" data-author="Yasik" data-date="2013-07-15T05:33:35+00:00" data-subject="Re: Strange AH WG portal">
 
 That was not the question. The question is why it is even there, who opened it and why I cannot look through it or enter it, and why it persists so long - few days already.
 
 </div>
 
-<div class="post" data-post-id="34357" data-author="Tuck" data-date="2013-07-16T15:29:27+00:00">
+<div class="post" data-post-id="34357" data-author="Tuck" data-date="2013-07-16T15:29:27+00:00" data-subject="Re: Strange AH WG portal">
 
 it's magic :P
 

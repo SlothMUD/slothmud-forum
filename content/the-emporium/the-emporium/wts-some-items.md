@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="13786" data-author="Bazilus" data-date="2006-08-26T09:12:48+00:00">
+<div class="post" data-post-id="13786" data-author="Bazilus" data-date="2006-08-26T09:12:48+00:00" data-subject="wts some items...">
 
 wts:
 
@@ -36,7 +36,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="13789" data-author="Bazilus" data-date="2006-08-26T14:51:50+00:00">
+<div class="post" data-post-id="13789" data-author="Bazilus" data-date="2006-08-26T14:51:50+00:00" data-subject="adds">
 
 frosty white shoulder guards sold
 

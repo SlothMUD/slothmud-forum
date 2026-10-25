@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="18688" data-author="alias" data-date="2007-05-28T04:46:40+00:00">
+<div class="post" data-post-id="18688" data-author="alias" data-date="2007-05-28T04:46:40+00:00" data-subject="who died at green dragon?">
 
 Various newb eq on green dragon... id it and its yours.... see Alias/pooka/truck
 

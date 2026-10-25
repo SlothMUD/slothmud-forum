@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30296" data-author="*Splork*" data-date="2009-11-17T17:31:13+00:00">
+<div class="post" data-post-id="30296" data-author="*Splork*" data-date="2009-11-17T17:31:13+00:00" data-subject="A not so watchful eye and an apology">
 
 Ezekiel's post really hit home with me and caused me to do some major thinking. 
 
@@ -38,7 +38,7 @@ We have been making some great strides lately. Our game has been up for almost 9
 
 </div>
 
-<div class="post" data-post-id="30311" data-author="jezer" data-date="2009-11-17T20:17:20+00:00">
+<div class="post" data-post-id="30311" data-author="jezer" data-date="2009-11-17T20:17:20+00:00" data-subject="">
 
 I think the way in which players have received things is something you can't hold yourself responsible for.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35574" data-author="*juggleblood*" data-date="2014-12-23T10:33:35+00:00">
+<div class="post" data-post-id="35574" data-author="*juggleblood*" data-date="2014-12-23T10:33:35+00:00" data-subject="Drachma Reward for nailing down autoquest bug">
 
 For years now I've been mystified by autoquesters, specifically the ones with multiple autoquests, telling the players that they've already completed that autoquest, when in fact they haven't.
 

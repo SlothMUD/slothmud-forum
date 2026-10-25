@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39879" data-author="*Idjit*" data-date="2021-12-31T05:50:14+00:00">
+<div class="post" data-post-id="39879" data-author="*Idjit*" data-date="2021-12-31T05:50:14+00:00" data-subject="2021/2022 New Year&#x27;s Eve/New Year&#x27;s Festivities">
 
 5pm Pacific / 8pm Eastern:
 

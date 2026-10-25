@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34077" data-author="Yasik" data-date="2013-02-23T06:36:36+00:00">
+<div class="post" data-post-id="34077" data-author="Yasik" data-date="2013-02-23T06:36:36+00:00" data-subject="Some manuals restricts do not display properly">
 
 ![](http://dl.dropbox.com/u/72105811/Pics/books_restricts_broken.jpg)
 
@@ -26,7 +26,7 @@ List shows I can use those manuals, but should * need more levels.
 
 </div>
 
-<div class="post" data-post-id="34081" data-author="*juggleblood*" data-date="2013-02-23T12:28:30+00:00">
+<div class="post" data-post-id="34081" data-author="*juggleblood*" data-date="2013-02-23T12:28:30+00:00" data-subject="Re: Some manuals restricts do not display properly">
 
 They don't display right because they aren't actually set right. I'll change em. Thx for report.
 

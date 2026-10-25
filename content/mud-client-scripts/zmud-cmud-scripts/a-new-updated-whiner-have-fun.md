@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="3682" data-author="Xandora" data-date="2005-01-09T12:46:05+00:00">
+<div class="post" data-post-id="3682" data-author="Xandora" data-date="2005-01-09T12:46:05+00:00" data-subject="A new, updated whiner!  Have fun">
 
 I have finally completed adapting the whiner to the new custom prompt.  This update includes some nice additions such as color coded decrease in hp, mana and moves, an am/pm clock that counts sloth time in regluar time, and a weather indicator (mostly for druids), as well as the ability to be always on without spamming you.  Also when used in unison with my previous whiner somewhere below this thread, using if(@charname=@tank), it needs no alias to be switched on and off for tanking and soloing.  
 
@@ -220,7 +220,7 @@ Xandora
 
 </div>
 
-<div class="post" data-post-id="3683" data-author="Akasha2" data-date="2005-01-09T13:15:48+00:00">
+<div class="post" data-post-id="3683" data-author="Akasha2" data-date="2005-01-09T13:15:48+00:00" data-subject="opps found a typo in that script">
 
 If you'll look at this line near the bottom of the script:
 
@@ -234,13 +234,13 @@ Xandora
 
 </div>
 
-<div class="post" data-post-id="3695" data-author="13" data-date="2005-01-10T02:01:56+00:00">
+<div class="post" data-post-id="3695" data-author="13" data-date="2005-01-10T02:01:56+00:00" data-subject="re: whiner">
 
 [img:wxip9uok]http://images.google.com/imgres?imgurl=http://www.swanksigns.org/images/signs/thumbnails/tn_whiner.jpg&imgrefurl=http://www.swanksigns.org/gallery.asp&h=168&w=202&sz=32&tbnid=f14iP0gdULkJ:&tbnh=82&tbnw=98&start=11&prev=/images%3Fq%3Dwhiner%26hl%3Den%26lr%3D%26sa%3DG[/img:wxip9uok]
 
 </div>
 
-<div class="post" data-post-id="3696" data-author="Akasha2" data-date="2005-01-10T07:26:55+00:00">
+<div class="post" data-post-id="3696" data-author="Akasha2" data-date="2005-01-10T07:26:55+00:00" data-subject="Another typo in whiner">
 
 Had a chance to test whiner for an extended periond of time tonight.  Seems there was a bug in the #SUB command.  The fix is below:
 
@@ -278,7 +278,7 @@ Xandora
 
 </div>
 
-<div class="post" data-post-id="3697" data-author="Akasha2" data-date="2005-01-10T07:49:12+00:00">
+<div class="post" data-post-id="3697" data-author="Akasha2" data-date="2005-01-10T07:49:12+00:00" data-subject="A single line prompt">
 
 Tweaked the prompt whiner a little, made it one line instead of two.
 
@@ -464,7 +464,7 @@ Xandora
 
 </div>
 
-<div class="post" data-post-id="3720" data-author="Akasha2" data-date="2005-01-11T11:28:19+00:00">
+<div class="post" data-post-id="3720" data-author="Akasha2" data-date="2005-01-11T11:28:19+00:00" data-subject="Yet another version of whiner">
 
 Yes, I am never satisfied.  This version is the version I have decided to use myself.  It is simple, straight-forward, a single line, and constantly on, without any unnecessary spam.  It is a long single-line prompt > 59 characters (+/- 5 for hp length) < but it is neatly formatted, with a [+/-hp Need:x] slot right where your eyes would normally be during any particular momment.  Once again, this script is entirely self-contained and needs no on/off toggles to operate, it is always on.
 

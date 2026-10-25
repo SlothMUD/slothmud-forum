@@ -10,7 +10,7 @@ locked: true
 post_count: 4
 ---
 
-<div class="post" data-post-id="32789" data-author="jezer" data-date="2011-08-03T23:06:16+00:00">
+<div class="post" data-post-id="32789" data-author="jezer" data-date="2011-08-03T23:06:16+00:00" data-subject="Destroying Runes">
 
 I want to lobby for the destruction of attached runes from equipment.
 
@@ -34,7 +34,7 @@ It's seems common sense to me... so can you just do it?
 
 </div>
 
-<div class="post" data-post-id="32791" data-author="*Breeze*" data-date="2011-08-04T08:24:48+00:00">
+<div class="post" data-post-id="32791" data-author="*Breeze*" data-date="2011-08-04T08:24:48+00:00" data-subject="Re: Destroying Runes">
 
 Runes were not meant to be detached.
 
@@ -54,7 +54,7 @@ however, notice i said **destroy** NOT ***desocket***.
 
 </div>
 
-<div class="post" data-post-id="32792" data-author="jezer" data-date="2011-08-04T08:30:26+00:00">
+<div class="post" data-post-id="32792" data-author="jezer" data-date="2011-08-04T08:30:26+00:00" data-subject="Re: Destroying Runes">
 
 Thanks Breeze.
 
@@ -62,7 +62,7 @@ For all those who wanted to desocket... go write a post in the "talk of exp and 
 
 </div>
 
-<div class="post" data-post-id="32793" data-author="*Breeze*" data-date="2011-08-04T08:47:09+00:00">
+<div class="post" data-post-id="32793" data-author="*Breeze*" data-date="2011-08-04T08:47:09+00:00" data-subject="Re: Destroying Runes">
 
 > **jezer wrote:**
 > I want to lobby for the destruction of attached runes from equipment.

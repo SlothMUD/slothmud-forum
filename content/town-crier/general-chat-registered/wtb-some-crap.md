@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="7150" data-author="Vixn" data-date="2005-06-14T04:53:04+00:00">
+<div class="post" data-post-id="7150" data-author="Vixn" data-date="2005-06-14T04:53:04+00:00" data-subject="WTB some crap">
 
 Some crap I need and my offers for it:
 
@@ -32,13 +32,13 @@ p.s. I'll be very grateful for any donations :)
 
 </div>
 
-<div class="post" data-post-id="7153" data-author="rith" data-date="2005-06-14T06:50:53+00:00">
+<div class="post" data-post-id="7153" data-author="rith" data-date="2005-06-14T06:50:53+00:00" data-subject="">
 
 if its crap why are you paying so high for it :P
 
 </div>
 
-<div class="post" data-post-id="7157" data-author="Vixn" data-date="2005-06-14T08:03:55+00:00">
+<div class="post" data-post-id="7157" data-author="Vixn" data-date="2005-06-14T08:03:55+00:00" data-subject="">
 
 100 k for boots is da best price, isn't it? so rith, is it a deal? :)
 
@@ -46,13 +46,13 @@ if its crap why are you paying so high for it :P
 
 </div>
 
-<div class="post" data-post-id="7864" data-author="Vixn" data-date="2005-07-13T04:42:17+00:00">
+<div class="post" data-post-id="7864" data-author="Vixn" data-date="2005-07-13T04:42:17+00:00" data-subject="looking for cincture cps">
 
 Hello, i'm looking for cincture cps: speckled feather and hanful of volcano dust. Ask Edd if you want to sell it or trade for it (though I think I have only some sort of crap for trade, nothing really good, but I'll try to pay well).
 
 </div>
 
-<div class="post" data-post-id="7884" data-author="Vixn" data-date="2005-07-14T03:53:00+00:00">
+<div class="post" data-post-id="7884" data-author="Vixn" data-date="2005-07-14T03:53:00+00:00" data-subject="">
 
 I've got speckled feather. We was defeated by Canth and Moukan hated us and looted some of Kleorn's eq. We tried to beat them with Ditheca's undead followers and some generous people but failed again. Then Aleksey and Zam came and killed Canth and all together we killed Moukan (~43mln if I got it right) and returned eq to Kleorn.
 
@@ -62,7 +62,7 @@ p.s. well, now I only need handful of volcano dust for cincture forge and it sho
 
 </div>
 
-<div class="post" data-post-id="8459" data-author="Vixn" data-date="2005-08-29T06:36:10+00:00">
+<div class="post" data-post-id="8459" data-author="Vixn" data-date="2005-08-29T06:36:10+00:00" data-subject="">
 
 Hello, it's me again.
 
@@ -90,13 +90,13 @@ mudmail Edd or catch on-line
 
 </div>
 
-<div class="post" data-post-id="8481" data-author="Vixn" data-date="2005-08-30T03:27:46+00:00">
+<div class="post" data-post-id="8481" data-author="Vixn" data-date="2005-08-30T03:27:46+00:00" data-subject="BH second-hand goods market">
 
 I've also got runed onyx bracelet for trade  :)
 
 </div>
 
-<div class="post" data-post-id="8774" data-author="Vixn" data-date="2005-09-22T06:14:55+00:00">
+<div class="post" data-post-id="8774" data-author="Vixn" data-date="2005-09-22T06:14:55+00:00" data-subject="looking for cps">
 
 Heya all. I'm buying cps for forges. I havn't any eq for trade for this time so I will pay gold.
 
@@ -134,7 +134,7 @@ Mudmail Edd or catch on-line.
 
 </div>
 
-<div class="post" data-post-id="8792" data-author="Vixn" data-date="2005-09-23T06:46:37+00:00">
+<div class="post" data-post-id="8792" data-author="Vixn" data-date="2005-09-23T06:46:37+00:00" data-subject="looking for cps">
 
 Got embers and sparkling emerald. Thanks Krok.
 
@@ -144,7 +144,7 @@ p.s. And I'm still looking for other cps.
 
 </div>
 
-<div class="post" data-post-id="8874" data-author="Vixn" data-date="2005-10-03T05:50:08+00:00">
+<div class="post" data-post-id="8874" data-author="Vixn" data-date="2005-10-03T05:50:08+00:00" data-subject="2Argeos">
 
 It was me who made accidentally nameless bid for forest green gloves (200k). It's silly but i've found it only when auction was over. So I'll be very grateful if you ship it to Edd for fee.
 
@@ -154,7 +154,7 @@ P.S. I'm looking for fine sanding paper, ether gauntlets and cracked crystal bal
 
 </div>
 
-<div class="post" data-post-id="9065" data-author="Vixn" data-date="2005-10-17T10:39:31+00:00">
+<div class="post" data-post-id="9065" data-author="Vixn" data-date="2005-10-17T10:39:31+00:00" data-subject="serpent skin coif for trade">
 
 I have serpent skin coif for trade. Iâ€™ll be glad to make deal for any of this eq:
 
@@ -178,7 +178,7 @@ Also Iâ€™d like to buy any from this list if youâ€™re gonna sell it.
 
 </div>
 
-<div class="post" data-post-id="9068" data-author="Vixn" data-date="2005-10-18T06:59:52+00:00">
+<div class="post" data-post-id="9068" data-author="Vixn" data-date="2005-10-18T06:59:52+00:00" data-subject="faq for restirng">
 
 Where can I find restring token? 
 
@@ -196,7 +196,7 @@ Vixn aka Edd.
 
 </div>
 
-<div class="post" data-post-id="9070" data-author="Grue" data-date="2005-10-18T09:38:40+00:00">
+<div class="post" data-post-id="9070" data-author="Grue" data-date="2005-10-18T09:38:40+00:00" data-subject="">
 
 a) Where can I find restring token? 
 
@@ -220,7 +220,7 @@ No, not unless there were a reason they would restore any other item. Same for q
 
 </div>
 
-<div class="post" data-post-id="9071" data-author="Lis" data-date="2005-10-18T10:22:01+00:00">
+<div class="post" data-post-id="9071" data-author="Lis" data-date="2005-10-18T10:22:01+00:00" data-subject="">
 
 a) 
 
@@ -234,7 +234,7 @@ Yes it is
 
 </div>
 
-<div class="post" data-post-id="9072" data-author="Leaf" data-date="2005-10-18T11:33:57+00:00">
+<div class="post" data-post-id="9072" data-author="Leaf" data-date="2005-10-18T11:33:57+00:00" data-subject="">
 
 I was told you can't deposit Restrung items into your vault.
 
@@ -242,7 +242,7 @@ Something on the eq that can't be saved.  Unless this was changed...
 
 </div>
 
-<div class="post" data-post-id="9073" data-author="Krok" data-date="2005-10-18T11:53:56+00:00">
+<div class="post" data-post-id="9073" data-author="Krok" data-date="2005-10-18T11:53:56+00:00" data-subject="">
 
 You can't deposit restrung items as well as personal items.
 
@@ -250,13 +250,13 @@ A strip of black velvet decked with the obsidian star shakes violently, refusing
 
 </div>
 
-<div class="post" data-post-id="9075" data-author="Lis" data-date="2005-10-18T13:41:31+00:00">
+<div class="post" data-post-id="9075" data-author="Lis" data-date="2005-10-18T13:41:31+00:00" data-subject="">
 
 Yep. I was wrong, sorry :oops:
 
 </div>
 
-<div class="post" data-post-id="9076" data-author="dt" data-date="2005-10-18T14:50:16+00:00">
+<div class="post" data-post-id="9076" data-author="dt" data-date="2005-10-18T14:50:16+00:00" data-subject="Restring Token in vault (cont)">
 
 Whose vault ?
 
@@ -278,7 +278,7 @@ What the?!? :lol:
 
 </div>
 
-<div class="post" data-post-id="9077" data-author="Leaf" data-date="2005-10-18T15:05:09+00:00">
+<div class="post" data-post-id="9077" data-author="Leaf" data-date="2005-10-18T15:05:09+00:00" data-subject="Re: Restring Token in vault (cont)">
 
 Whose vault ?
 
@@ -306,13 +306,13 @@ When will this vault be on the block?
 
 </div>
 
-<div class="post" data-post-id="9078" data-author="dt" data-date="2005-10-18T21:19:48+00:00">
+<div class="post" data-post-id="9078" data-author="dt" data-date="2005-10-18T21:19:48+00:00" data-subject="Vault not for sale..just the restring token inside it..">
 
 ref:prev 4-5 posts about someone wanting to buy restring..hurry..only 5 days left before token goes bye bye :twisted:
 
 </div>
 
-<div class="post" data-post-id="9079" data-author="Weasel" data-date="2005-10-18T22:36:37+00:00">
+<div class="post" data-post-id="9079" data-author="Weasel" data-date="2005-10-18T22:36:37+00:00" data-subject="">
 
 Although you apparently can't vault restrung eq, you CAN vault the restring token itself if you wish. :)
 

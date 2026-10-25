@@ -10,7 +10,7 @@ locked: false
 post_count: 37
 ---
 
-<div class="post" data-post-id="19382" data-author="Leaf" data-date="2007-07-24T19:38:55+00:00">
+<div class="post" data-post-id="19382" data-author="Leaf" data-date="2007-07-24T19:38:55+00:00" data-subject="Thiefs vs Monks">
 
 I'm not sure if this was brought up in past forums or not ...
 
@@ -28,7 +28,7 @@ better grips?
 
 </div>
 
-<div class="post" data-post-id="19383" data-author="Autolycos" data-date="2007-07-24T20:20:01+00:00">
+<div class="post" data-post-id="19383" data-author="Autolycos" data-date="2007-07-24T20:20:01+00:00" data-subject="">
 
 laugh.. 
 
@@ -42,7 +42,7 @@ As long as there are !stab mobs, i'll be happy to share prime time with my monk 
 
 </div>
 
-<div class="post" data-post-id="19384" data-author="Leaf" data-date="2007-07-24T20:36:28+00:00">
+<div class="post" data-post-id="19384" data-author="Leaf" data-date="2007-07-24T20:36:28+00:00" data-subject="">
 
 Well I'm pretty sure grip lvl25 gets stronger until lvl40.  Just like stabs.
 
@@ -56,13 +56,13 @@ Wow again Akasha will be shocked that Jason and I are agreeing!
 
 </div>
 
-<div class="post" data-post-id="19385" data-author="Autolycos" data-date="2007-07-24T21:35:01+00:00">
+<div class="post" data-post-id="19385" data-author="Autolycos" data-date="2007-07-24T21:35:01+00:00" data-subject="">
 
 the +hit & +dam bonuses for Ava effect the same on levels for feef or munQ.
 
 </div>
 
-<div class="post" data-post-id="19386" data-author="Alberich" data-date="2007-07-24T21:45:48+00:00">
+<div class="post" data-post-id="19386" data-author="Alberich" data-date="2007-07-24T21:45:48+00:00" data-subject="">
 
 Well I'm pretty sure grip lvl25 gets stronger until lvl40.  Just like stabs.
 
@@ -74,7 +74,7 @@ not unless you're referring to the +dam and +hit av modifiers, and those aren't 
 
 </div>
 
-<div class="post" data-post-id="19387" data-author="12345" data-date="2007-07-24T21:55:11+00:00">
+<div class="post" data-post-id="19387" data-author="12345" data-date="2007-07-24T21:55:11+00:00" data-subject="Re: Thiefs vs Monks">
 
 Monks are no longer needed.[/quote:3tzv633f]
 
@@ -82,7 +82,7 @@ Not true, though it depends on the tactics you like to use.  Deathgrip is an ope
 
 </div>
 
-<div class="post" data-post-id="19388" data-author="Autolycos" data-date="2007-07-24T23:03:54+00:00">
+<div class="post" data-post-id="19388" data-author="Autolycos" data-date="2007-07-24T23:03:54+00:00" data-subject="">
 
 indeed..
 
@@ -90,7 +90,7 @@ i prefer having Nab take the hits  :twisted:
 
 </div>
 
-<div class="post" data-post-id="19390" data-author="Tap" data-date="2007-07-24T23:41:42+00:00">
+<div class="post" data-post-id="19390" data-author="Tap" data-date="2007-07-24T23:41:42+00:00" data-subject="">
 
 I have'nt played a monk but I think with the extra attacks they can get greatly increase their potential. While thieves get triple whiff, over the long course of battle, monks will do more damage from the extra atta.cks et etc
 
@@ -98,7 +98,7 @@ The only other decent skill thieves have is steal.  :roll:
 
 </div>
 
-<div class="post" data-post-id="19393" data-author="alias" data-date="2007-07-25T02:04:31+00:00">
+<div class="post" data-post-id="19393" data-author="alias" data-date="2007-07-25T02:04:31+00:00" data-subject="">
 
 The extra attacks? you mean the one extra attack if you don't wield a weapon, that is of course if the monk has mage in the classo for haste. if not flurry just makes up the difference between haste and no haste. Or did u mean the extra attacks when u grip a mob and u dont get any other attacks for the 3 rounds your gripping...  So lets see a grip and no attacks vs stab and 3/4/5 attacks a round depending on level and haste x 3 rounds. Oh lets not forget about deathtouch ... I was so psyched about it when I got it till I saw how horrible it was to actually hit w/ it; at least thieves get 3 chances to miss, monks only get one chance to whiff. Monk imho is not the best offensive class period the end. Monk skills are nice tho, I do like presage and dam reduction. And don't keep bringing Nab up. Hes a hell of a player, and there are no other monks like him. 
 
@@ -108,7 +108,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="19395" data-author="Autolycos" data-date="2007-07-25T03:12:58+00:00">
+<div class="post" data-post-id="19395" data-author="Autolycos" data-date="2007-07-25T03:12:58+00:00" data-subject="">
 
 I like my 5 attacks  :twisted: 
 
@@ -134,7 +134,7 @@ You viciously massacre Shuggoth Lord with your pierce.
 
 </div>
 
-<div class="post" data-post-id="19396" data-author="Modello" data-date="2007-07-25T03:19:50+00:00">
+<div class="post" data-post-id="19396" data-author="Modello" data-date="2007-07-25T03:19:50+00:00" data-subject="">
 
 Well... I must say I agree with Alias wholeheartedly.  Monk has great skill set.... and the skills they have are just as good nonprime as prime.  Yes monk prime gets kensai and wraithtouch.. both excellent skills...... and yes monk prime has higher dam reduction cap and probably higher hand damage cap.  BUT... nonprime monks do essentially same damage as prime monks.  Primes grip/touch for slightly more at same lvl/damage but the difference is pretty small.
 
@@ -144,7 +144,7 @@ As with any class/classo.... hit mobs that show off your strengths!
 
 </div>
 
-<div class="post" data-post-id="19397" data-author="13" data-date="2007-07-25T07:35:08+00:00">
+<div class="post" data-post-id="19397" data-author="13" data-date="2007-07-25T07:35:08+00:00" data-subject="">
 
 [quote:17spo5fz]As with any class/classo.... hit mobs that show off your strengths![/quote:17spo5fz]
 
@@ -152,7 +152,7 @@ That's my Dog!
 
 </div>
 
-<div class="post" data-post-id="19398" data-author="alias" data-date="2007-07-25T15:30:28+00:00">
+<div class="post" data-post-id="19398" data-author="alias" data-date="2007-07-25T15:30:28+00:00" data-subject="">
 
 monk skills do not apply here.
 
@@ -190,7 +190,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="19399" data-author="Leaf" data-date="2007-07-25T16:00:28+00:00">
+<div class="post" data-post-id="19399" data-author="Leaf" data-date="2007-07-25T16:00:28+00:00" data-subject="">
 
 monk skills do not apply here.
 
@@ -236,13 +236,13 @@ Maybe I'm wrong, but can you bodyslam in fight or is it an opening attack?
 
 </div>
 
-<div class="post" data-post-id="19400" data-author="13" data-date="2007-07-25T17:31:44+00:00">
+<div class="post" data-post-id="19400" data-author="13" data-date="2007-07-25T17:31:44+00:00" data-subject="">
 
 the thief opened up defenses with exc blow
 
 </div>
 
-<div class="post" data-post-id="19401" data-author="Leaf" data-date="2007-07-25T18:00:54+00:00">
+<div class="post" data-post-id="19401" data-author="Leaf" data-date="2007-07-25T18:00:54+00:00" data-subject="">
 
 the thief opened up defenses with exc blow[/quote:19cb7qkd]
 
@@ -252,13 +252,13 @@ ass and saying he doesn't need monk or thief for that fight :p
 
 </div>
 
-<div class="post" data-post-id="19402" data-author="alias" data-date="2007-07-25T18:04:20+00:00">
+<div class="post" data-post-id="19402" data-author="alias" data-date="2007-07-25T18:04:20+00:00" data-subject="">
 
 The group thief opened w/ excru blow and then we whipped her ass for still being alive.
 
 </div>
 
-<div class="post" data-post-id="19403" data-author="Autolycos" data-date="2007-07-25T19:05:30+00:00">
+<div class="post" data-post-id="19403" data-author="Autolycos" data-date="2007-07-25T19:05:30+00:00" data-subject="">
 
 nah... Alias is being modest.
 
@@ -268,7 +268,7 @@ Alias r tuff, he beat dat bytch down
 
 </div>
 
-<div class="post" data-post-id="19404" data-author="Yinao" data-date="2007-07-25T23:19:01+00:00">
+<div class="post" data-post-id="19404" data-author="Yinao" data-date="2007-07-25T23:19:01+00:00" data-subject="">
 
 Banedon (Stoopid monk) compared to Autolycos (Thucking feef w/o Monk) what more comparison is needed?
 
@@ -276,13 +276,13 @@ Banedon (Stoopid monk) compared to Autolycos (Thucking feef w/o Monk) what more 
 
 </div>
 
-<div class="post" data-post-id="19405" data-author="Autolycos" data-date="2007-07-26T01:54:41+00:00">
+<div class="post" data-post-id="19405" data-author="Autolycos" data-date="2007-07-26T01:54:41+00:00" data-subject="">
 
 cackle  :twisted:
 
 </div>
 
-<div class="post" data-post-id="19406" data-author="*Krom*" data-date="2007-07-26T02:46:52+00:00">
+<div class="post" data-post-id="19406" data-author="*Krom*" data-date="2007-07-26T02:46:52+00:00" data-subject="">
 
 Thief is a fairly one-dimensional class, stab is your main skill.
 
@@ -294,7 +294,7 @@ I do agree, you see a lot of thief as a primary class and not a supporting class
 
 </div>
 
-<div class="post" data-post-id="19408" data-author="Leaf" data-date="2007-07-26T13:37:06+00:00">
+<div class="post" data-post-id="19408" data-author="Leaf" data-date="2007-07-26T13:37:06+00:00" data-subject="">
 
 I would agree Krom that Thief's main skill is stab and pray that the mob
 
@@ -354,7 +354,7 @@ some more love :)
 
 </div>
 
-<div class="post" data-post-id="19409" data-author="Leaf" data-date="2007-07-26T13:42:21+00:00">
+<div class="post" data-post-id="19409" data-author="Leaf" data-date="2007-07-26T13:42:21+00:00" data-subject="">
 
 On the side note ....
 
@@ -366,7 +366,7 @@ How many 5x40 or close to it do we have on Monks???  Nab & Dogs?  2?
 
 </div>
 
-<div class="post" data-post-id="19410" data-author="13" data-date="2007-07-26T13:56:39+00:00">
+<div class="post" data-post-id="19410" data-author="13" data-date="2007-07-26T13:56:39+00:00" data-subject="">
 
 leizu and daedalus and then stryx are druid 40 tards
 
@@ -382,13 +382,13 @@ those fu cking thugs!
 
 </div>
 
-<div class="post" data-post-id="19411" data-author="brady" data-date="2007-07-26T14:10:17+00:00">
+<div class="post" data-post-id="19411" data-author="brady" data-date="2007-07-26T14:10:17+00:00" data-subject="">
 
 :roll:
 
 </div>
 
-<div class="post" data-post-id="19412" data-author="Leaf" data-date="2007-07-26T14:10:46+00:00">
+<div class="post" data-post-id="19412" data-author="Leaf" data-date="2007-07-26T14:10:46+00:00" data-subject="">
 
 Add Quake as Necro
 
@@ -396,7 +396,7 @@ I think there was another druid or necro ...
 
 </div>
 
-<div class="post" data-post-id="19419" data-author="banedon" data-date="2007-07-26T18:13:25+00:00">
+<div class="post" data-post-id="19419" data-author="banedon" data-date="2007-07-26T18:13:25+00:00" data-subject="">
 
 Couple things.
 
@@ -410,7 +410,7 @@ Last - for old players and new ones alike who don't know or who have forgotten. 
 
 </div>
 
-<div class="post" data-post-id="19420" data-author="Leaf" data-date="2007-07-26T18:16:42+00:00">
+<div class="post" data-post-id="19420" data-author="Leaf" data-date="2007-07-26T18:16:42+00:00" data-subject="">
 
 I think only reduce dam eq are drachma, besides auto.
 
@@ -424,7 +424,7 @@ monks to get "hit" with any debuffs.
 
 </div>
 
-<div class="post" data-post-id="19421" data-author="banedon" data-date="2007-07-26T18:24:06+00:00">
+<div class="post" data-post-id="19421" data-author="banedon" data-date="2007-07-26T18:24:06+00:00" data-subject="">
 
 Theres the auto, theres a forge in Gossameringue, and theres 4 drachma items.
 
@@ -434,13 +434,13 @@ hell dont give them any ideas, its been hard enough tryin to get 40 levels per c
 
 </div>
 
-<div class="post" data-post-id="19423" data-author="Leaf" data-date="2007-07-26T19:09:38+00:00">
+<div class="post" data-post-id="19423" data-author="Leaf" data-date="2007-07-26T19:09:38+00:00" data-subject="">
 
 Forge in Gossameringue has been remove I believe.
 
 </div>
 
-<div class="post" data-post-id="19435" data-author="Medios" data-date="2007-07-26T20:28:37+00:00">
+<div class="post" data-post-id="19435" data-author="Medios" data-date="2007-07-26T20:28:37+00:00" data-subject="">
 
 Monks are fun.  You just cannot compare monk to thief.  Deathtouch was never meant to hit as hard as a stab.  It has more options and better arena damage lb for lb.  Like Krom said monk gets counterattack, no move cost strike, presage, flurry, and stalk which is like a perm hide.  That doesnt even mention the handdmg and dmg reduction possibilities.  
 
@@ -452,7 +452,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="19445" data-author="Leaf" data-date="2007-07-26T21:34:56+00:00">
+<div class="post" data-post-id="19445" data-author="Leaf" data-date="2007-07-26T21:34:56+00:00" data-subject="">
 
 Crip. Strike = as the thief's lvl goes up the harder they stab.
 
@@ -466,7 +466,7 @@ with grip.
 
 </div>
 
-<div class="post" data-post-id="19449" data-author="13" data-date="2007-07-26T22:03:53+00:00">
+<div class="post" data-post-id="19449" data-author="13" data-date="2007-07-26T22:03:53+00:00" data-subject="">
 
 Monks can just buy dmg reduction at 40 tard, why spend dr eqs on it?
 
@@ -474,7 +474,7 @@ Monks can just buy dmg reduction at 40 tard, why spend dr eqs on it?
 
 </div>
 
-<div class="post" data-post-id="19452" data-author="12345" data-date="2007-07-26T23:22:04+00:00">
+<div class="post" data-post-id="19452" data-author="12345" data-date="2007-07-26T23:22:04+00:00" data-subject="">
 
 Counterattack is no joke.  It soaks an attack in addition to normal damage reduction and gives you a free hit besides.  Added with flurry and strike and that's a lot of damage a round.  For solo I never use parry.
 
@@ -492,7 +492,7 @@ What's the problem again?
 
 </div>
 
-<div class="post" data-post-id="19455" data-author="alias" data-date="2007-07-27T01:00:00+00:00">
+<div class="post" data-post-id="19455" data-author="alias" data-date="2007-07-27T01:00:00+00:00" data-subject="">
 
 I'm not personally begging for more damage on monks deathtouch just up the hit percentage to that of deathgrip and Ill be happy. more damage does nothing if u dont hit first.
 
@@ -500,7 +500,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="19472" data-author="Leaf" data-date="2007-07-27T18:33:51+00:00">
+<div class="post" data-post-id="19472" data-author="Leaf" data-date="2007-07-27T18:33:51+00:00" data-subject="">
 
 Wonder if Monks had the same +hit as Thief issue that was adjusted...
 
@@ -508,7 +508,7 @@ But with Monk, you would imagin that the thaco would be higher.
 
 </div>
 
-<div class="post" data-post-id="19474" data-author="Leaf" data-date="2007-07-27T18:51:13+00:00">
+<div class="post" data-post-id="19474" data-author="Leaf" data-date="2007-07-27T18:51:13+00:00" data-subject="">
 
 Well I'm pretty sure grip lvl25 gets stronger until lvl40.  Just like stabs.
 

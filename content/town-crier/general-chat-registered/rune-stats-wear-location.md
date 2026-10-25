@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="32717" data-author="Toxis" data-date="2011-07-10T22:47:07+00:00">
+<div class="post" data-post-id="32717" data-author="Toxis" data-date="2011-07-10T22:47:07+00:00" data-subject="Rune stats / wear location.">
 
 Maybe this helps people decide what runes work best in each slot. I know it's a lot easier on me. If any info is wrong, pls let me know and I'll fix it. Thanks. 
 
@@ -172,7 +172,7 @@ Water Opal, 15 stab damage
 
 </div>
 
-<div class="post" data-post-id="32718" data-author="Tuck" data-date="2011-07-12T18:25:04+00:00">
+<div class="post" data-post-id="32718" data-author="Tuck" data-date="2011-07-12T18:25:04+00:00" data-subject="Re: Rune stats / wear location.">
 
 sloth wiki rune list is much more accurate and you can sort list by name, location, etc.
 
@@ -180,13 +180,13 @@ thanks to benq and chobbs for updating it.
 
 </div>
 
-<div class="post" data-post-id="32719" data-author="Toxis" data-date="2011-07-12T18:37:30+00:00">
+<div class="post" data-post-id="32719" data-author="Toxis" data-date="2011-07-12T18:37:30+00:00" data-subject="Re: Rune stats / wear location.">
 
 Yeah yeah, I missed the memo that runes were on the wiki.  I still like it, all the same.
 
 </div>
 
-<div class="post" data-post-id="32727" data-author="Tuck" data-date="2011-07-16T17:01:23+00:00">
+<div class="post" data-post-id="32727" data-author="Tuck" data-date="2011-07-16T17:01:23+00:00" data-subject="Re: Rune stats / wear location.">
 
 Wiki ftw.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39322" data-author="Gorka" data-date="2019-12-28T14:03:18+00:00">
+<div class="post" data-post-id="39322" data-author="Gorka" data-date="2019-12-28T14:03:18+00:00" data-subject="Changes to Sloth and 2020!">
 
 > **Gorka wrote:**
 > The maths behind my claim that rebirth shop probably won't increase solo xp runs is this...
@@ -97,7 +97,7 @@ I've had some ideas that could help things just from a players perspective, like
 
 </div>
 
-<div class="post" data-post-id="39323" data-author="Bandit" data-date="2019-12-29T02:53:33+00:00">
+<div class="post" data-post-id="39323" data-author="Bandit" data-date="2019-12-29T02:53:33+00:00" data-subject="Re: Changes to Sloth and 2020!">
 
 One thought on Avatar / Rebirth shop for potential additions:
 

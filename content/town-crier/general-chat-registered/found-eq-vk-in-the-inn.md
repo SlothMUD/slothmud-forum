@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34881" data-author="Yasik" data-date="2014-02-23T21:31:24+00:00">
+<div class="post" data-post-id="34881" data-author="Yasik" data-date="2014-02-23T21:31:24+00:00" data-subject="Found eq, VK in the inn">
 
 Mostly newbie stuff, took from the ground when returned from afk. Not sure how long it was laying there, so I cannot say its all that was lost.
 
@@ -18,13 +18,13 @@ As usual - you need to describe what was it, then I return.
 
 </div>
 
-<div class="post" data-post-id="34882" data-author="Yasik" data-date="2014-02-25T10:33:00+00:00">
+<div class="post" data-post-id="34882" data-author="Yasik" data-date="2014-02-25T10:33:00+00:00" data-subject="Re: Found eq, VK in the inn">
 
 pls hurry, I dont want to pay rent, will sell to store in few days
 
 </div>
 
-<div class="post" data-post-id="34885" data-author="Yasik" data-date="2014-02-28T23:38:37+00:00">
+<div class="post" data-post-id="34885" data-author="Yasik" data-date="2014-02-28T23:38:37+00:00" data-subject="Re: Found eq, VK in the inn">
 
 Sorry, had to sell a bunch of tri-tokens and single-sided dies in store, to pay rent less.
 

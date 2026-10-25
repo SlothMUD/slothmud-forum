@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="4610" data-author="guest" data-date="2005-02-24T17:52:36+00:00">
+<div class="post" data-post-id="4610" data-author="guest" data-date="2005-02-24T17:52:36+00:00" data-subject="Frequently Asked Questions">
 
 Hi all ...
 
@@ -24,7 +24,7 @@ Isabo
 
 </div>
 
-<div class="post" data-post-id="4611" data-author="Alberich" data-date="2005-02-24T17:56:51+00:00">
+<div class="post" data-post-id="4611" data-author="Alberich" data-date="2005-02-24T17:56:51+00:00" data-subject="">
 
 how does dex/con/int/etc affect my actual stats?
 
@@ -42,7 +42,7 @@ many more, but i'm way too tired to post 'em all just now :P
 
 </div>
 
-<div class="post" data-post-id="4612" data-author="blackmore" data-date="2005-02-24T18:07:39+00:00">
+<div class="post" data-post-id="4612" data-author="blackmore" data-date="2005-02-24T18:07:39+00:00" data-subject="">
 
 How many holy items can I pray for?
 
@@ -58,7 +58,7 @@ How do I change my stats / how do I use tokens?
 
 </div>
 
-<div class="post" data-post-id="4613" data-author="12345" data-date="2005-02-24T18:11:06+00:00">
+<div class="post" data-post-id="4613" data-author="12345" data-date="2005-02-24T18:11:06+00:00" data-subject="">
 
 Does it matter what my hometown is?
 
@@ -88,7 +88,7 @@ etc.
 
 </div>
 
-<div class="post" data-post-id="4616" data-author="Weasel" data-date="2005-02-24T19:07:33+00:00">
+<div class="post" data-post-id="4616" data-author="Weasel" data-date="2005-02-24T19:07:33+00:00" data-subject="">
 
 perhaps some guidelines on slothMUD ettiquette such as leaving a mob alone if someone is cycling it, auction ettiquette (don't bid just to jack up the price), basically how to play nice, win friends and influence people hehe.
 
@@ -96,7 +96,7 @@ perhaps some guidelines on slothMUD ettiquette such as leaving a mob alone if so
 
 </div>
 
-<div class="post" data-post-id="4618" data-author="Clink" data-date="2005-02-24T19:44:19+00:00">
+<div class="post" data-post-id="4618" data-author="Clink" data-date="2005-02-24T19:44:19+00:00" data-subject="">
 
 So um...feel free to post the answers to the questions as well  :roll: 
 
@@ -106,7 +106,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="4620" data-author="Shadis" data-date="2005-02-24T20:41:57+00:00">
+<div class="post" data-post-id="4620" data-author="Shadis" data-date="2005-02-24T20:41:57+00:00" data-subject="">
 
 Why do i keep dying?
 
@@ -140,13 +140,13 @@ Is Airhead really blonde?
 
 </div>
 
-<div class="post" data-post-id="4621" data-author="Zam" data-date="2005-02-24T21:35:38+00:00">
+<div class="post" data-post-id="4621" data-author="Zam" data-date="2005-02-24T21:35:38+00:00" data-subject="">
 
 ettiquette ... YEAH sure!
 
 </div>
 
-<div class="post" data-post-id="4622" data-author="Sind" data-date="2005-02-25T07:22:30+00:00">
+<div class="post" data-post-id="4622" data-author="Sind" data-date="2005-02-25T07:22:30+00:00" data-subject="lalala">
 
 id like to see guide about:
 
@@ -156,13 +156,13 @@ something like that :)
 
 </div>
 
-<div class="post" data-post-id="4623" data-author="Alberich" data-date="2005-02-25T07:32:28+00:00">
+<div class="post" data-post-id="4623" data-author="Alberich" data-date="2005-02-25T07:32:28+00:00" data-subject="">
 
 yeah, i'd sure like to play a mud with 9 nominal classes with everyone having the same 3 combinations...
 
 </div>
 
-<div class="post" data-post-id="4624" data-author="12345" data-date="2005-02-25T13:00:53+00:00">
+<div class="post" data-post-id="4624" data-author="12345" data-date="2005-02-25T13:00:53+00:00" data-subject="">
 
 I'll assume Clink actually wanted the answers....
 
@@ -216,7 +216,7 @@ Does this MUD have PvP/PK?
 
 </div>
 
-<div class="post" data-post-id="4625" data-author="blackmore" data-date="2005-02-25T17:09:18+00:00">
+<div class="post" data-post-id="4625" data-author="blackmore" data-date="2005-02-25T17:09:18+00:00" data-subject="">
 
 How long does it take an area to reset?
 
@@ -228,7 +228,7 @@ Each item has its own pop rate.  The odds of an item popping are determined rand
 
 </div>
 
-<div class="post" data-post-id="4628" data-author="Avatar" data-date="2005-02-25T23:00:03+00:00">
+<div class="post" data-post-id="4628" data-author="Avatar" data-date="2005-02-25T23:00:03+00:00" data-subject="BAH!">
 
 Time to change the FAQ already!
 
@@ -238,7 +238,7 @@ Heh, great change though thanks!
 
 </div>
 
-<div class="post" data-post-id="4631" data-author="Aria" data-date="2005-02-26T00:55:56+00:00">
+<div class="post" data-post-id="4631" data-author="Aria" data-date="2005-02-26T00:55:56+00:00" data-subject="">
 
 1.  If there are two identical mobs in the room, how do I look at the second?
 
@@ -278,7 +278,7 @@ Ask Shyla!   :D
 
 </div>
 
-<div class="post" data-post-id="4633" data-author="Qa" data-date="2005-02-26T03:15:59+00:00">
+<div class="post" data-post-id="4633" data-author="Qa" data-date="2005-02-26T03:15:59+00:00" data-subject="">
 
 > **Aria wrote:**
 > 4.  Where's the Dream Weaver?
@@ -295,7 +295,7 @@ Edit: Argh, forgot to hit the silly BBcode switch!
 
 </div>
 
-<div class="post" data-post-id="4635" data-author="Aria" data-date="2005-02-26T12:47:00+00:00">
+<div class="post" data-post-id="4635" data-author="Aria" data-date="2005-02-26T12:47:00+00:00" data-subject="">
 
 Yup, I think you're right Qa...it's just been a long time since I had to buy a letter   :)   
 
@@ -309,7 +309,7 @@ If there are bonuses, they are applied after the `roll'.  The Thunderbolt, for e
 
 </div>
 
-<div class="post" data-post-id="5259" data-author="Choong" data-date="2005-03-25T04:18:09+00:00">
+<div class="post" data-post-id="5259" data-author="Choong" data-date="2005-03-25T04:18:09+00:00" data-subject="Self CR help at newbie section">
 
 I wrote a simple CR/Self CR instructions at the newbie forum for the influx of newbies who only knows how to gossip for help
 
@@ -319,7 +319,7 @@ if I left out any ideas please do add on to it, thanks.
 
 </div>
 
-<div class="post" data-post-id="7410" data-author="12345" data-date="2005-06-21T16:23:46+00:00">
+<div class="post" data-post-id="7410" data-author="12345" data-date="2005-06-21T16:23:46+00:00" data-subject="">
 
 [b:1f0xeec3]What is chopping?[/b:1f0xeec3]
 
@@ -333,7 +333,7 @@ Another common style of play focusing primarily on inflicting massive amounts of
 
 </div>
 
-<div class="post" data-post-id="7418" data-author="firebrand" data-date="2005-06-21T19:03:31+00:00">
+<div class="post" data-post-id="7418" data-author="firebrand" data-date="2005-06-21T19:03:31+00:00" data-subject="">
 
 is it possible to move or copy this thread to the newbie forum where the newbies who need this info will think to look?
 

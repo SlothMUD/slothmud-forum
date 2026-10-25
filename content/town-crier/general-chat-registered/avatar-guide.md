@@ -10,13 +10,13 @@ locked: true
 post_count: 2
 ---
 
-<div class="post" data-post-id="20645" data-author="Akasha" data-date="2007-10-08T06:05:38+00:00">
+<div class="post" data-post-id="20645" data-author="Akasha" data-date="2007-10-08T06:05:38+00:00" data-subject="Avatar Guide">
 
 [img:3q1n74fg]http://pirates.xgenco.com/avatarlist.gif[/img:3q1n74fg]
 
 </div>
 
-<div class="post" data-post-id="24658" data-author="*Krom*" data-date="2008-06-02T03:35:20+00:00">
+<div class="post" data-post-id="24658" data-author="*Krom*" data-date="2008-06-02T03:35:20+00:00" data-subject="">
 
 revisions to avatar light, from earlier this year:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="36341" data-author="Teron" data-date="2015-12-22T07:44:06+00:00">
+<div class="post" data-post-id="36341" data-author="Teron" data-date="2015-12-22T07:44:06+00:00" data-subject="Add a pitcher or two to the feast">
 
 As you know, if thirsty, you can't gorge.
 
@@ -100,19 +100,19 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36343" data-author="*juggleblood*" data-date="2015-12-22T13:50:11+00:00">
+<div class="post" data-post-id="36343" data-author="*juggleblood*" data-date="2015-12-22T13:50:11+00:00" data-subject="Re: Add a pitcher or two to the feast">
 
 It'd be easier to double the size of the pitcher. It would still be less than half the capacity of a barrel. I see no problem with this.
 
 </div>
 
-<div class="post" data-post-id="36344" data-author="*Breeze*" data-date="2015-12-22T15:23:04+00:00">
+<div class="post" data-post-id="36344" data-author="*Breeze*" data-date="2015-12-22T15:23:04+00:00" data-subject="Re: Add a pitcher or two to the feast">
 
 feel free.
 
 </div>
 
-<div class="post" data-post-id="36356" data-author="Teron" data-date="2015-12-23T09:44:11+00:00">
+<div class="post" data-post-id="36356" data-author="Teron" data-date="2015-12-23T09:44:11+00:00" data-subject="Re: Add a pitcher or two to the feast">
 
 Thanks.
 
@@ -120,7 +120,7 @@ It is really troublesome not to puke at the group's regen spot, being a leader a
 
 </div>
 
-<div class="post" data-post-id="36357" data-author="*juggleblood*" data-date="2015-12-23T14:10:44+00:00">
+<div class="post" data-post-id="36357" data-author="*juggleblood*" data-date="2015-12-23T14:10:44+00:00" data-subject="Re: Add a pitcher or two to the feast">
 
 Ok done.
 
@@ -130,7 +130,7 @@ Cheers.
 
 </div>
 
-<div class="post" data-post-id="36359" data-author="cyprimus" data-date="2015-12-23T19:55:14+00:00">
+<div class="post" data-post-id="36359" data-author="cyprimus" data-date="2015-12-23T19:55:14+00:00" data-subject="Re: Add a pitcher or two to the feast">
 
 just end world hunger!!!
 
@@ -140,13 +140,13 @@ thanks!
 
 </div>
 
-<div class="post" data-post-id="36360" data-author="*juggleblood*" data-date="2015-12-23T23:00:51+00:00">
+<div class="post" data-post-id="36360" data-author="*juggleblood*" data-date="2015-12-23T23:00:51+00:00" data-subject="Re: Add a pitcher or two to the feast">
 
 No, we need more realism. Please add toilet functions.
 
 </div>
 
-<div class="post" data-post-id="36361" data-author="cyprimus" data-date="2015-12-24T09:23:43+00:00">
+<div class="post" data-post-id="36361" data-author="cyprimus" data-date="2015-12-24T09:23:43+00:00" data-subject="Re: Add a pitcher or two to the feast">
 
 does explain why we all full of it..p
 

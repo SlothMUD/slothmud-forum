@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="32644" data-author="*Chobbs*" data-date="2011-05-27T03:49:45+00:00">
+<div class="post" data-post-id="32644" data-author="*Chobbs*" data-date="2011-05-27T03:49:45+00:00" data-subject="Auctioneers need maintenance too!">
 
 Mornin' folks,
 
@@ -22,7 +22,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="32667" data-author="victory" data-date="2011-06-11T03:14:42+00:00">
+<div class="post" data-post-id="32667" data-author="victory" data-date="2011-06-11T03:14:42+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 The auctioneer is a nice convenience, but it has some non-technical issues.
 
@@ -42,13 +42,13 @@ Just a few thoughts...
 
 </div>
 
-<div class="post" data-post-id="32691" data-author="Insomniac" data-date="2011-06-17T10:43:48+00:00">
+<div class="post" data-post-id="32691" data-author="Insomniac" data-date="2011-06-17T10:43:48+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 Any news on this? My junk is building up baaaaad :)
 
 </div>
 
-<div class="post" data-post-id="32692" data-author="Harm" data-date="2011-06-17T13:41:23+00:00">
+<div class="post" data-post-id="32692" data-author="Harm" data-date="2011-06-17T13:41:23+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 My coins are building up, and I've been looking to buy all different kinds of equipment.  Sure would like to have this back, but in the meantime, perhaps just an old school auction on the auction channel would help sellers (and buyers). I actually come here to check the Emporium every day.  If y'all list some stuff in there I'll send you an ingame mail or something.
 
@@ -58,7 +58,7 @@ Harm
 
 </div>
 
-<div class="post" data-post-id="32696" data-author="*Chobbs*" data-date="2011-06-23T23:03:32+00:00">
+<div class="post" data-post-id="32696" data-author="*Chobbs*" data-date="2011-06-23T23:03:32+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 Mornin' folks,
 
@@ -74,13 +74,13 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="32757" data-author="Insomniac" data-date="2011-07-23T11:57:54+00:00">
+<div class="post" data-post-id="32757" data-author="Insomniac" data-date="2011-07-23T11:57:54+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 Any news?
 
 </div>
 
-<div class="post" data-post-id="32762" data-author="*Chobbs*" data-date="2011-07-24T19:24:05+00:00">
+<div class="post" data-post-id="32762" data-author="*Chobbs*" data-date="2011-07-24T19:24:05+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 Mornin' folks,
 
@@ -134,7 +134,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32763" data-author="Insomniac" data-date="2011-07-24T20:37:42+00:00">
+<div class="post" data-post-id="32763" data-author="Insomniac" data-date="2011-07-24T20:37:42+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 > ***Chobbs* wrote:**
 > Mornin' folks,
@@ -171,7 +171,7 @@ Still alive?!  :lol:
 
 </div>
 
-<div class="post" data-post-id="32764" data-author="jezer" data-date="2011-07-24T22:49:04+00:00">
+<div class="post" data-post-id="32764" data-author="jezer" data-date="2011-07-24T22:49:04+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 > **Insomniac wrote:**
 > i.e. I have 3 Rhodochrosite that I want to trade for 3 Obsidians or 3 Jets or 1 Star Ruby. The first person to hand over 3 Obsidians or 3 Jets or 1 Star Ruby gets the 3 Rhodochrosites.
@@ -180,13 +180,13 @@ And what about if I want the above condition, but I only want it available to so
 
 </div>
 
-<div class="post" data-post-id="32765" data-author="blackmore" data-date="2011-07-25T00:35:40+00:00">
+<div class="post" data-post-id="32765" data-author="blackmore" data-date="2011-07-25T00:35:40+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 Can I just pay the auctioneer to whack Insomniac and steal his gems?
 
 </div>
 
-<div class="post" data-post-id="32767" data-author="Tigris" data-date="2011-07-26T06:42:43+00:00">
+<div class="post" data-post-id="32767" data-author="Tigris" data-date="2011-07-26T06:42:43+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 Just a thought....
 
@@ -202,7 +202,7 @@ Just a thought....
 
 </div>
 
-<div class="post" data-post-id="32769" data-author="Thraxas" data-date="2011-07-27T12:25:36+00:00">
+<div class="post" data-post-id="32769" data-author="Thraxas" data-date="2011-07-27T12:25:36+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 > **Tigris wrote:**
 > Just a thought....
@@ -223,13 +223,13 @@ to elaborate I sell a rhodo for 1dr, then make a newbie char cycle the 120dr val
 
 </div>
 
-<div class="post" data-post-id="32770" data-author="Tigris" data-date="2011-07-27T14:34:15+00:00">
+<div class="post" data-post-id="32770" data-author="Tigris" data-date="2011-07-27T14:34:15+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 Someone poop in your cereal this morning Thrax?
 
 </div>
 
-<div class="post" data-post-id="32771" data-author="Thraxas" data-date="2011-07-27T16:11:21+00:00">
+<div class="post" data-post-id="32771" data-author="Thraxas" data-date="2011-07-27T16:11:21+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 > **Tigris wrote:**
 > Someone poop in your cereal this morning Thrax?
@@ -240,7 +240,7 @@ Good to see you're still kicking around and dont take my comments personally the
 
 </div>
 
-<div class="post" data-post-id="32821" data-author="celerra7" data-date="2011-08-11T14:15:16+00:00">
+<div class="post" data-post-id="32821" data-author="celerra7" data-date="2011-08-11T14:15:16+00:00" data-subject="Re: Auctioneers need maintenance too!">
 
 Error on auction board?  Items listed twice (handwraps and leather armor):
 

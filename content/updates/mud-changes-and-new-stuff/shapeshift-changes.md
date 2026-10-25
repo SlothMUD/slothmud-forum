@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="31922" data-author="*Splork*" data-date="2010-10-23T17:48:02+00:00">
+<div class="post" data-post-id="31922" data-author="*Splork*" data-date="2010-10-23T17:48:02+00:00" data-subject="Shapeshift changes">
 
 Over the course of the last month, our Immortal team has worked on restructuring shapeshifting and hopefully solving some of the issues regarding the ability.  Many of the complaints concerning this skill have been addressed and we hope the new changes only strengthen shapeshifting in general.
 
@@ -34,7 +34,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31927" data-author="*Chobbs*" data-date="2010-10-24T07:01:39+00:00">
+<div class="post" data-post-id="31927" data-author="*Chobbs*" data-date="2010-10-24T07:01:39+00:00" data-subject="Re: Shapeshift changes">
 
 Majorish changes:
 
@@ -84,7 +84,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="31944" data-author="*Splork*" data-date="2010-10-28T18:15:07+00:00">
+<div class="post" data-post-id="31944" data-author="*Splork*" data-date="2010-10-28T18:15:07+00:00" data-subject="Re: Shapeshift changes">
 
 We forgot to mention two more druid enhancements:
 
@@ -98,7 +98,7 @@ Changes in on reboot
 
 </div>
 
-<div class="post" data-post-id="31966" data-author="*Chobbs*" data-date="2010-11-04T23:44:41+00:00">
+<div class="post" data-post-id="31966" data-author="*Chobbs*" data-date="2010-11-04T23:44:41+00:00" data-subject="Re: Shapeshift changes">
 
 Mornin' folks,
 
@@ -134,7 +134,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32004" data-author="*Chobbs*" data-date="2010-11-12T08:32:07+00:00">
+<div class="post" data-post-id="32004" data-author="*Chobbs*" data-date="2010-11-12T08:32:07+00:00" data-subject="Re: Shapeshift changes">
 
 Random changes done earlier, reposted here for posterity:
 
@@ -158,7 +158,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32102" data-author="*Chobbs*" data-date="2010-11-29T00:58:43+00:00">
+<div class="post" data-post-id="32102" data-author="*Chobbs*" data-date="2010-11-29T00:58:43+00:00" data-subject="Re: Shapeshift changes">
 
 Random changes:
 
@@ -200,7 +200,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32256" data-author="*Chobbs*" data-date="2011-01-03T07:28:08+00:00">
+<div class="post" data-post-id="32256" data-author="*Chobbs*" data-date="2011-01-03T07:28:08+00:00" data-subject="Re: Shapeshift changes">
 
 Mornin' folks,
 

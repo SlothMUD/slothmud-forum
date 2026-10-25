@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3976" data-author="*Splork*" data-date="2005-01-26T21:46:44+00:00">
+<div class="post" data-post-id="3976" data-author="*Splork*" data-date="2005-01-26T21:46:44+00:00" data-subject="Few small changes">
 
 Practice and practise no longer stop your studying. Replay and reply were changed also last week.
 

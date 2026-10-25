@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="11590" data-author="Malison" data-date="2006-03-21T00:51:26+00:00">
+<div class="post" data-post-id="11590" data-author="Malison" data-date="2006-03-21T00:51:26+00:00" data-subject="friends list modification">
 
 I've been pretty well impressed with the friends list feature and was thinking...
 
@@ -18,13 +18,13 @@ Especially in the light of the recent upsurge of pthief activity, could there be
 
 </div>
 
-<div class="post" data-post-id="11591" data-author="jezer" data-date="2006-03-21T00:57:32+00:00">
+<div class="post" data-post-id="11591" data-author="jezer" data-date="2006-03-21T00:57:32+00:00" data-subject="">
 
 Harlot would be on your enemy list? *sniff* but why? he was just trying to make the mud a more fun place by stealing and annoying newbie's and good people.  :twisted: He's just a poor boy, misunderstood... thats all... a humble pthief.
 
 </div>
 
-<div class="post" data-post-id="11592" data-author="kjartan" data-date="2006-03-21T01:35:19+00:00">
+<div class="post" data-post-id="11592" data-author="kjartan" data-date="2006-03-21T01:35:19+00:00" data-subject="">
 
 No.  No enemies list.
 

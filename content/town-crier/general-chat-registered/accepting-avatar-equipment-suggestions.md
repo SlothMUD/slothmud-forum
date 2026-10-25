@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33998" data-author="*juggleblood*" data-date="2013-02-06T23:24:09+00:00">
+<div class="post" data-post-id="33998" data-author="*juggleblood*" data-date="2013-02-06T23:24:09+00:00" data-subject="Accepting avatar equipment suggestions.">
 
 I need equipment suggestions for stuff that could load via a regular pop on Lyme. 
 
@@ -22,7 +22,7 @@ Please email to juggleblood@slothmud.org and cc: pixie@slothmud.org. I'm notell 
 
 </div>
 
-<div class="post" data-post-id="34061" data-author="*Pixie*" data-date="2013-02-20T19:28:34+00:00">
+<div class="post" data-post-id="34061" data-author="*Pixie*" data-date="2013-02-20T19:28:34+00:00" data-subject="Re: Accepting avatar equipment suggestions.">
 
 thank you to those of you who have taken the time to reply to this post.  currently 3 of you have replied with ideas.. so if you have any suggestions email them! when the eq is decided upon/made/approved and you do not like it, you had a chance to offer suggestions...just an observation
 

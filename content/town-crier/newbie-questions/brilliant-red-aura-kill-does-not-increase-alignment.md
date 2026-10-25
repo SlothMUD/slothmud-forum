@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34326" data-author="Yasik" data-date="2013-06-24T07:49:30+00:00">
+<div class="post" data-post-id="34326" data-author="Yasik" data-date="2013-06-24T07:49:30+00:00" data-subject="Brilliant Red Aura kill does not increase alignment">
 
 Is it kill-history affecting +/- alignment or I dont know something?
 
@@ -226,7 +226,7 @@ A pulsing mass of darkness lies tangled on the ground.
 
 </div>
 
-<div class="post" data-post-id="34327" data-author="Tuck" data-date="2013-06-25T23:04:21+00:00">
+<div class="post" data-post-id="34327" data-author="Tuck" data-date="2013-06-25T23:04:21+00:00" data-subject="Re: Brilliant Red Aura kill does not increase alignment">
 
 if you check msdp align, you will see that darkness give like -20 align.
 
@@ -234,7 +234,7 @@ looks like bug for me, but who knows...
 
 </div>
 
-<div class="post" data-post-id="34332" data-author="Magi" data-date="2013-07-03T00:27:41+00:00">
+<div class="post" data-post-id="34332" data-author="Magi" data-date="2013-07-03T00:27:41+00:00" data-subject="Re: Brilliant Red Aura kill does not increase alignment">
 
 Not a bug.
 

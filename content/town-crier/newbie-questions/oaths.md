@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="21695" data-author="Bazilus" data-date="2007-12-17T12:02:54+00:00">
+<div class="post" data-post-id="21695" data-author="Bazilus" data-date="2007-12-17T12:02:54+00:00" data-subject="oaths">
 
 help oath
 
@@ -100,7 +100,7 @@ Narmer the Paladin
 
 </div>
 
-<div class="post" data-post-id="21697" data-author="Bazilus" data-date="2007-12-17T12:09:09+00:00">
+<div class="post" data-post-id="21697" data-author="Bazilus" data-date="2007-12-17T12:09:09+00:00" data-subject="">
 
 miss
 

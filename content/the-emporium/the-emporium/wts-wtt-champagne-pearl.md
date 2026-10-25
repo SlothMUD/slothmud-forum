@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32502" data-author="vissidrix" data-date="2011-03-23T03:44:58+00:00">
+<div class="post" data-post-id="32502" data-author="vissidrix" data-date="2011-03-23T03:44:58+00:00" data-subject="WTS/WTT champagne pearl">
 
 lots and lots of gold or jasper. oooor not as lots of, but still quite a bit of gold plus some of the following eq.
 
@@ -30,13 +30,13 @@ platemail of the planes cp's
 
 </div>
 
-<div class="post" data-post-id="32503" data-author="Tuck" data-date="2011-03-23T12:14:20+00:00">
+<div class="post" data-post-id="32503" data-author="Tuck" data-date="2011-03-23T12:14:20+00:00" data-subject="Re: WTS/WTT champagne pearl">
 
 i have items that you need, catch me online
 
 </div>
 
-<div class="post" data-post-id="32522" data-author="vissidrix" data-date="2011-03-30T04:43:52+00:00">
+<div class="post" data-post-id="32522" data-author="vissidrix" data-date="2011-03-30T04:43:52+00:00" data-subject="Re: WTS/WTT champagne pearl">
 
 still available
 

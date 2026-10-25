@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="32640" data-author="Angels" data-date="2011-05-26T04:49:33+00:00">
+<div class="post" data-post-id="32640" data-author="Angels" data-date="2011-05-26T04:49:33+00:00" data-subject="teleporting mobs into aggro areas">
 
 k.
 
@@ -40,7 +40,7 @@ guess its missing a proc to relocate if it cant leave the room its in.
 
 </div>
 
-<div class="post" data-post-id="32641" data-author="Angels" data-date="2011-05-26T07:40:25+00:00">
+<div class="post" data-post-id="32641" data-author="Angels" data-date="2011-05-26T07:40:25+00:00" data-subject="Re: teleporting mobs into aggro areas">
 
 Ygol's Throne Room
 
@@ -68,7 +68,7 @@ still in the same 2 rooms :)
 
 </div>
 
-<div class="post" data-post-id="32642" data-author="Angels" data-date="2011-05-26T17:08:22+00:00">
+<div class="post" data-post-id="32642" data-author="Angels" data-date="2011-05-26T17:08:22+00:00" data-subject="Re: teleporting mobs into aggro areas">
 
 Ygol's Throne Room
 
@@ -96,7 +96,7 @@ The skeletal form of the infamous god-priest, Ygol the Destroyer, stands here.
 
 </div>
 
-<div class="post" data-post-id="32643" data-author="Angels" data-date="2011-05-27T02:45:33+00:00">
+<div class="post" data-post-id="32643" data-author="Angels" data-date="2011-05-27T02:45:33+00:00" data-subject="Re: teleporting mobs into aggro areas">
 
 Chamber of the Damned
 

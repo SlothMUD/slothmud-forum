@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="9416" data-author="mudder" data-date="2005-11-08T12:53:13+00:00">
+<div class="post" data-post-id="9416" data-author="mudder" data-date="2005-11-08T12:53:13+00:00" data-subject="Spell warnings">
 
 I'm trying to write triggers scripts codes aliases etc 
 
@@ -34,7 +34,7 @@ Does anyone know why this happens? is it a bug or a feature or random luck or le
 
 </div>
 
-<div class="post" data-post-id="9417" data-author="madmax" data-date="2005-11-08T13:10:13+00:00">
+<div class="post" data-post-id="9417" data-author="madmax" data-date="2005-11-08T13:10:13+00:00" data-subject="">
 
 The spell failing message is a product of the "spellcraft" skill.
 
@@ -46,7 +46,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="9418" data-author="mudder" data-date="2005-11-08T13:23:08+00:00">
+<div class="post" data-post-id="9418" data-author="mudder" data-date="2005-11-08T13:23:08+00:00" data-subject="">
 
 thanks .... that makes sense :)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32078" data-author="Teron" data-date="2010-11-19T02:57:48+00:00">
+<div class="post" data-post-id="32078" data-author="Teron" data-date="2010-11-19T02:57:48+00:00" data-subject="newbie eq found">
 
 I've found some newbie eq in the south-western corner of the path around Settlestone.
 

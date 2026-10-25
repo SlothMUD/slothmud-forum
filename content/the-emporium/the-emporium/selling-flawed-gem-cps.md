@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="783" data-author="impz" data-date="2004-06-18T02:54:33+00:00">
+<div class="post" data-post-id="783" data-author="impz" data-date="2004-06-18T02:54:33+00:00" data-subject="selling flawed gem cps">
 
 check it at the chopping block
 

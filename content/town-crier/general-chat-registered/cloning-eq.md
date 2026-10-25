@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="15759" data-author="*Splork*" data-date="2006-12-25T14:54:34+00:00">
+<div class="post" data-post-id="15759" data-author="*Splork*" data-date="2006-12-25T14:54:34+00:00" data-subject="Cloning eq">
 
 Friendly warning, those caught cloning eq when I finish checking logs will be wiped or severly demoted. 
 
@@ -22,7 +22,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="15760" data-author="Medios" data-date="2006-12-25T17:06:00+00:00">
+<div class="post" data-post-id="15760" data-author="Medios" data-date="2006-12-25T17:06:00+00:00" data-subject="">
 
 I wish you guys would stop cheating.  Its honestly bullshit, and it takes away from the game.  If any eq I bought poofs im gonna remember who sold it and put the whoop ass down.
 
@@ -30,7 +30,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15761" data-author="Talo/Ulrich" data-date="2006-12-25T17:51:12+00:00">
+<div class="post" data-post-id="15761" data-author="Talo/Ulrich" data-date="2006-12-25T17:51:12+00:00" data-subject="">
 
 jesus fugging christ didnt we deal with this shiznit in asherons call too mike ?
 
@@ -38,13 +38,13 @@ wtf....its not that damned hard to pop stuff and if it is....the sense of thank 
 
 </div>
 
-<div class="post" data-post-id="15781" data-author="Weasel" data-date="2006-12-27T04:19:21+00:00">
+<div class="post" data-post-id="15781" data-author="Weasel" data-date="2006-12-27T04:19:21+00:00" data-subject="">
 
 Didn't even know it could be done.. and yeah, if any of my purchased eq goes poof I'll be expecting a full refund with interest...
 
 </div>
 
-<div class="post" data-post-id="15785" data-author="Falsra" data-date="2006-12-27T11:07:58+00:00">
+<div class="post" data-post-id="15785" data-author="Falsra" data-date="2006-12-27T11:07:58+00:00" data-subject="">
 
 Didn't even know it could be done.. and yeah, if any of my purchased eq goes poof I'll be expecting a full refund with interest...[/quote:pi271ip0]
 
@@ -52,7 +52,7 @@ expecting a full refund from a wiped seller ?  :wink:
 
 </div>
 
-<div class="post" data-post-id="15786" data-author="Autolycos" data-date="2006-12-27T13:18:12+00:00">
+<div class="post" data-post-id="15786" data-author="Autolycos" data-date="2006-12-27T13:18:12+00:00" data-subject="">
 
 Didn't even know it could be done.. and yeah, if any of my purchased eq goes poof I'll be expecting a full refund with interest...[/quote:2x08g709]
 
@@ -64,19 +64,19 @@ expecting a full refund from a wiped seller ?  :wink:[/quote:2x08g709]
 
 </div>
 
-<div class="post" data-post-id="15787" data-author="13" data-date="2006-12-27T13:57:03+00:00">
+<div class="post" data-post-id="15787" data-author="13" data-date="2006-12-27T13:57:03+00:00" data-subject="">
 
 kill the seller, exact your price from his corpse.
 
 </div>
 
-<div class="post" data-post-id="15789" data-author="Weasel" data-date="2006-12-27T16:22:17+00:00">
+<div class="post" data-post-id="15789" data-author="Weasel" data-date="2006-12-27T16:22:17+00:00" data-subject="">
 
 muahahaha!
 
 </div>
 
-<div class="post" data-post-id="15843" data-author="*Splork*" data-date="2006-12-29T15:49:28+00:00">
+<div class="post" data-post-id="15843" data-author="*Splork*" data-date="2006-12-29T15:49:28+00:00" data-subject="">
 
 Several players have been wiped,demoted, or passworded. Over 150 cloned items have already been removed from the game via this route. We will be running the clone finder again within the next week or two and remove more items.
 
@@ -86,7 +86,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="15844" data-author="Leaf" data-date="2006-12-29T16:30:03+00:00">
+<div class="post" data-post-id="15844" data-author="Leaf" data-date="2006-12-29T16:30:03+00:00" data-subject="">
 
 DAMN!!!  
 
@@ -96,7 +96,7 @@ At work and hope none of my chars has been plocked, or wiped...
 
 </div>
 
-<div class="post" data-post-id="15845" data-author="Autolycos" data-date="2006-12-29T16:30:23+00:00">
+<div class="post" data-post-id="15845" data-author="Autolycos" data-date="2006-12-29T16:30:23+00:00" data-subject="">
 
 ouch... 
 
@@ -104,7 +104,7 @@ that'll learn ya!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="15846" data-author="Jag" data-date="2006-12-29T16:38:41+00:00">
+<div class="post" data-post-id="15846" data-author="Jag" data-date="2006-12-29T16:38:41+00:00" data-subject="Cheaters">
 
 This problem of people cheating in various ways has happened a few times since I've been playing.   I guess I don't really find it surprising, but I do feel a bit disappointed in people when I hear about it.  
 
@@ -118,7 +118,7 @@ Oooh, a permanent brand on their forehead... no wait, they might like that.
 
 </div>
 
-<div class="post" data-post-id="15847" data-author="kjartan" data-date="2006-12-29T17:24:14+00:00">
+<div class="post" data-post-id="15847" data-author="kjartan" data-date="2006-12-29T17:24:14+00:00" data-subject="">
 
 There have been and may still be bugs that permit you to clone items.  You really shouldn't do it - ethical considerations aside, items have unique IDs, and if two items have the same unique ID then we will know it's a clone next time we bother to run the clone detector.  In this case we hadn't run it in 3 or 4 years, because we hadn't noticed any problems with cloning, but as soon as we did we found a big pile of cloned items.  (I can almost guarantee there aren't any ways to clone items that don't result in duplicated unique IDs).
 
@@ -128,13 +128,13 @@ Also, you shouldn't clone things because having to muck around updating the clon
 
 </div>
 
-<div class="post" data-post-id="15848" data-author="Weasel" data-date="2006-12-29T20:32:10+00:00">
+<div class="post" data-post-id="15848" data-author="Weasel" data-date="2006-12-29T20:32:10+00:00" data-subject="">
 
 Thanks for the update. Can you please post when you've completed the purge, then players can go check if anything has gone poof and not wonder if there's more to go. Cheers.
 
 </div>
 
-<div class="post" data-post-id="15853" data-author="Avatar" data-date="2006-12-30T02:41:43+00:00">
+<div class="post" data-post-id="15853" data-author="Avatar" data-date="2006-12-30T02:41:43+00:00" data-subject="Abuses">
 
 Not really related to the cloning eq, but I've been wondering.  Are the drachma books personal now?  I remember we were told at the time that it was ok to buy books with one character and pass them to another.  Now I just feel like I should have taken advantage of that at the time.  
 
@@ -142,7 +142,7 @@ Since I didn't, now I'll have to spend a lot of drachma from my main characters 
 
 </div>
 
-<div class="post" data-post-id="15854" data-author="Medios" data-date="2006-12-30T04:24:29+00:00">
+<div class="post" data-post-id="15854" data-author="Medios" data-date="2006-12-30T04:24:29+00:00" data-subject="">
 
 Rather can someone look at the costs of moon aura and rapid shift possibly?
 
@@ -152,7 +152,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15855" data-author="13" data-date="2006-12-30T14:19:05+00:00">
+<div class="post" data-post-id="15855" data-author="13" data-date="2006-12-30T14:19:05+00:00" data-subject="">
 
 no doubt
 

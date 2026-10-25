@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30272" data-author="angel" data-date="2009-11-14T06:34:35+00:00">
+<div class="post" data-post-id="30272" data-author="angel" data-date="2009-11-14T06:34:35+00:00" data-subject="Eq pop day">
 
 waiting for players to form eq groups:)
 

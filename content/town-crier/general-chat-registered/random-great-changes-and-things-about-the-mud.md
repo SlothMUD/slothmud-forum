@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32544" data-author="Shyla" data-date="2011-04-01T22:03:23+00:00">
+<div class="post" data-post-id="32544" data-author="Shyla" data-date="2011-04-01T22:03:23+00:00" data-subject="Random Great changes and things about the mud">
 
 Too often we write about that which we want changed but don't take the time to say thankyou for what has been changed so I am going to start off thread with a couple random changes I like.  It woudl take forever to write them all down
 
@@ -34,7 +34,7 @@ p.s.s.s. sorry acedia i will always spam about books but send me a tell and tell
 
 </div>
 
-<div class="post" data-post-id="32549" data-author="Mug" data-date="2011-04-02T09:41:47+00:00">
+<div class="post" data-post-id="32549" data-author="Mug" data-date="2011-04-02T09:41:47+00:00" data-subject="Re: Random Great changes and things about the mud">
 
 here's a few of my favor things about slothmud. First off thanks who ever made the scan system here best ever, second thanks very much for your very nice color and standard formatting both very best i have seen in muds i have played. thanks for the good varieties of mobs and rooms. temples with the praying for items is quite a nice touch aswell, but number 1 reason sloth is the best is, it was what made me addicted to a texted based game. i have had a console controller in my hand since i was three (woot Atrai wait woot sloth).
 

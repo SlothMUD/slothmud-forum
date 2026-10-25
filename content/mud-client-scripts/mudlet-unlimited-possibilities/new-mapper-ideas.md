@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="36245" data-author="Arus" data-date="2015-12-04T05:09:05+00:00">
+<div class="post" data-post-id="36245" data-author="Arus" data-date="2015-12-04T05:09:05+00:00" data-subject="New mapper ideas">
 
 I am thinking of writing a Mudlet mapper that uses all of the information available from COORD1-25 (exits, terrain, mobs, player characters). Eventually I want to track the movement of MOBs in the neighborhood and match them to POPPERS in EQList database. But in order to do that first I need AREA_VNUM in REPORTED_VARIABLES and MOB_VNUM replacing MOB in COORD1-25. Thanks
 
@@ -20,7 +20,7 @@ Akaya, where are you? Have you stopped developing for SlothMUD?
 
 </div>
 
-<div class="post" data-post-id="36249" data-author="*teker*" data-date="2015-12-04T15:51:52+00:00">
+<div class="post" data-post-id="36249" data-author="*teker*" data-date="2015-12-04T15:51:52+00:00" data-subject="Re: New mapper ideas">
 
 I can't speak as to the (MSDP?) variables you mentioned, but I can describe how RNUMs and VNUMs work in the game.
 
@@ -32,13 +32,13 @@ So you really want to save VNUMs on anything that persists long-term.
 
 </div>
 
-<div class="post" data-post-id="36252" data-author="Arus" data-date="2015-12-04T17:22:49+00:00">
+<div class="post" data-post-id="36252" data-author="Arus" data-date="2015-12-04T17:22:49+00:00" data-subject="Re: New mapper ideas">
 
 Okay, but why did COORD1-25 report ROOM_RNUM not ROOM_VNUM? Bring them back please.
 
 </div>
 
-<div class="post" data-post-id="36259" data-author="Arus" data-date="2015-12-05T21:00:14+00:00">
+<div class="post" data-post-id="36259" data-author="Arus" data-date="2015-12-05T21:00:14+00:00" data-subject="Re: New mapper ideas">
 
 Why does msdp.ROOM_VNUM report two events during movement? :shock: 
 
@@ -52,7 +52,7 @@ So I *have* to use COORD1 with its unreliable RNUMs. Please change COORD1 to rep
 
 </div>
 
-<div class="post" data-post-id="36263" data-author="*Splork*" data-date="2015-12-06T02:40:26+00:00">
+<div class="post" data-post-id="36263" data-author="*Splork*" data-date="2015-12-06T02:40:26+00:00" data-subject="Re: New mapper ideas">
 
 > **Quote:**
 > If RNUMs are not permanent, then why does COORD1 report RNUM in Room?
@@ -70,7 +70,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="36275" data-author="Arus" data-date="2015-12-08T07:25:20+00:00">
+<div class="post" data-post-id="36275" data-author="Arus" data-date="2015-12-08T07:25:20+00:00" data-subject="Re: New mapper ideas">
 
 Could you please add AREA_VNUM to COORD1-25 (just for the room not the exits)?
 

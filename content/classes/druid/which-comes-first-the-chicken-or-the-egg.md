@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="19426" data-author="Tep" data-date="2007-07-26T19:58:43+00:00">
+<div class="post" data-post-id="19426" data-author="Tep" data-date="2007-07-26T19:58:43+00:00" data-subject="Which comes first? The chicken or the egg?">
 
 Errrâ€¦I mean the necro or the mage.  I chose Druid as my prime class, and cleric after that, and want to have necro and mage in my classo, but am not sure which should come first.  I heard that the closer to prime the necro is the greater the undead control, but I donâ€™t know a lot about mages.  Any advice would help a lot.
 
@@ -18,7 +18,7 @@ Hart (diet Tep)
 
 </div>
 
-<div class="post" data-post-id="19430" data-author="Leaf" data-date="2007-07-26T20:10:59+00:00">
+<div class="post" data-post-id="19430" data-author="Leaf" data-date="2007-07-26T20:10:59+00:00" data-subject="">
 
 Necro 3rd Mage 4th = Less lag time when you order your summons.  The
 
@@ -30,13 +30,13 @@ I would go Mage 3rd Necro 4th
 
 </div>
 
-<div class="post" data-post-id="19433" data-author="Medios" data-date="2007-07-26T20:14:52+00:00">
+<div class="post" data-post-id="19433" data-author="Medios" data-date="2007-07-26T20:14:52+00:00" data-subject="">
 
 Will stfu you dont have any idea what your talking about.  Necro second and quad have the same lag.
 
 </div>
 
-<div class="post" data-post-id="19446" data-author="Leaf" data-date="2007-07-26T21:49:38+00:00">
+<div class="post" data-post-id="19446" data-author="Leaf" data-date="2007-07-26T21:49:38+00:00" data-subject="">
 
 I was told by serval ppl that the further you put necro the longer the lag.
 
@@ -50,7 +50,7 @@ lag time?
 
 </div>
 
-<div class="post" data-post-id="19450" data-author="13" data-date="2007-07-26T22:20:29+00:00">
+<div class="post" data-post-id="19450" data-author="13" data-date="2007-07-26T22:20:29+00:00" data-subject="">
 
 its the same shit dude
 
@@ -58,7 +58,7 @@ primes have less
 
 </div>
 
-<div class="post" data-post-id="19453" data-author="Tap" data-date="2007-07-27T00:51:38+00:00">
+<div class="post" data-post-id="19453" data-author="Tap" data-date="2007-07-27T00:51:38+00:00" data-subject="">
 
 [quote:3pbhh28z]Medios  	
 
@@ -70,13 +70,13 @@ Shutup buttmunch. Just once, I'd like to post without you sticking your nose in 
 
 </div>
 
-<div class="post" data-post-id="19454" data-author="Tap" data-date="2007-07-27T00:52:48+00:00">
+<div class="post" data-post-id="19454" data-author="Tap" data-date="2007-07-27T00:52:48+00:00" data-subject="">
 
 Disregard previous post. :oops:
 
 </div>
 
-<div class="post" data-post-id="19456" data-author="tincts" data-date="2007-07-27T01:18:53+00:00">
+<div class="post" data-post-id="19456" data-author="tincts" data-date="2007-07-27T01:18:53+00:00" data-subject="">
 
 Disregard previous post. :oops:[/quote:1vbvnws4]
 
@@ -84,19 +84,19 @@ Now that is funny :)  Moron paranoia
 
 </div>
 
-<div class="post" data-post-id="19458" data-author="Weasel" data-date="2007-07-27T01:32:57+00:00">
+<div class="post" data-post-id="19458" data-author="Weasel" data-date="2007-07-27T01:32:57+00:00" data-subject="">
 
 hmm.. identity revealed?
 
 </div>
 
-<div class="post" data-post-id="19461" data-author="13" data-date="2007-07-27T12:51:08+00:00">
+<div class="post" data-post-id="19461" data-author="13" data-date="2007-07-27T12:51:08+00:00" data-subject="">
 
 acme is a necro too, sorry, forgot him
 
 </div>
 
-<div class="post" data-post-id="19466" data-author="Avatar" data-date="2007-07-27T14:12:59+00:00">
+<div class="post" data-post-id="19466" data-author="Avatar" data-date="2007-07-27T14:12:59+00:00" data-subject="Order followers">
 
 As I understand, prime characters have 1 round lag ordering their followers.  Everyone else has 2 round lag.  So, necro primes order undead faster than anyone else - cleric primes order supps faster than anyone else - and druid primes order natures pets faster than anyone else.  So, for undead pets, it should be the same lag time if you're necro class is 2nd or 4th.
 

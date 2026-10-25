@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34151" data-author="Yasik" data-date="2013-03-14T01:56:12+00:00">
+<div class="post" data-post-id="34151" data-author="Yasik" data-date="2013-03-14T01:56:12+00:00" data-subject="(It) overrides player statistics">
 
 ![](http://dl.dropbox.com/u/72105811/Pics/SLOTH_who_it.jpg)
 
@@ -20,7 +20,7 @@ Would be nice also if players' names are vertically aligned.
 
 </div>
 
-<div class="post" data-post-id="34154" data-author="*Breeze*" data-date="2013-03-14T12:23:54+00:00">
+<div class="post" data-post-id="34154" data-author="*Breeze*" data-date="2013-03-14T12:23:54+00:00" data-subject="Re: (It) overrides player statistics">
 
 alignment works fine on
 

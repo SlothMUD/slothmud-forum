@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3057" data-author="Calim" data-date="2004-11-26T17:54:32+00:00">
+<div class="post" data-post-id="3057" data-author="Calim" data-date="2004-11-26T17:54:32+00:00" data-subject="Lookin for some stuff">
 
 silver bar, R'Lyeh, up to 4 of them
 

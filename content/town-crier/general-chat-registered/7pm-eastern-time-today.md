@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32852" data-author="*Splork*" data-date="2011-09-05T19:40:23+00:00">
+<div class="post" data-post-id="32852" data-author="*Splork*" data-date="2011-09-05T19:40:23+00:00" data-subject="7PM Eastern time, today">
 
 A search party will be gathering today at 7 PM Eastern time.
 

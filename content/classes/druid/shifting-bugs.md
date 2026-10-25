@@ -10,7 +10,7 @@ locked: false
 post_count: 46
 ---
 
-<div class="post" data-post-id="22089" data-author="jezer" data-date="2008-01-21T00:34:56+00:00">
+<div class="post" data-post-id="22089" data-author="jezer" data-date="2008-01-21T00:34:56+00:00" data-subject="Shifting Bugs">
 
 Shift returning back from ferret, sometimes leaves you with about double the amount of hp's the ferret had.
 
@@ -36,13 +36,13 @@ There is a strength bug on occasions, when you shift and unshift, all of a sudde
 
 </div>
 
-<div class="post" data-post-id="22090" data-author="brady" data-date="2008-01-21T01:24:49+00:00">
+<div class="post" data-post-id="22090" data-author="brady" data-date="2008-01-21T01:24:49+00:00" data-subject="">
 
 Sure it isn't an afk bug/feature?  I get that a lot and it gets spendy.
 
 </div>
 
-<div class="post" data-post-id="22099" data-author="Jag" data-date="2008-01-21T15:30:21+00:00">
+<div class="post" data-post-id="22099" data-author="Jag" data-date="2008-01-21T15:30:21+00:00" data-subject="">
 
 I also find another shift bug.  
 
@@ -56,19 +56,19 @@ Switcher
 
 </div>
 
-<div class="post" data-post-id="22118" data-author="jezer" data-date="2008-01-21T22:21:58+00:00">
+<div class="post" data-post-id="22118" data-author="jezer" data-date="2008-01-21T22:21:58+00:00" data-subject="">
 
 Hmm, I think I know what your talking about there, but I don't think I have ever had it happen to me as long as darksight was up. As a consequence I keep darksight up as a perm spell.
 
 </div>
 
-<div class="post" data-post-id="22121" data-author="Jag" data-date="2008-01-22T00:19:23+00:00">
+<div class="post" data-post-id="22121" data-author="Jag" data-date="2008-01-22T00:19:23+00:00" data-subject="">
 
 Too bad switcher went bard instead of necro.
 
 </div>
 
-<div class="post" data-post-id="22122" data-author="Elwin" data-date="2008-01-22T00:37:16+00:00">
+<div class="post" data-post-id="22122" data-author="Elwin" data-date="2008-01-22T00:37:16+00:00" data-subject="">
 
 A bug I have noticed is that if the normal fly spell drops on you while shifted into a form that can fly innately, you still fall.  You shouldn't fall unless you return from flying form.  I've almost died a couple times because of this.
 
@@ -82,7 +82,7 @@ Regarding dragon hp:  You probably have eq that bestows +50hp .  When you shift,
 
 </div>
 
-<div class="post" data-post-id="22127" data-author="Atwell" data-date="2008-01-22T02:02:13+00:00">
+<div class="post" data-post-id="22127" data-author="Atwell" data-date="2008-01-22T02:02:13+00:00" data-subject="">
 
 After shifting, mid-fight I will no longer be able to see my inventory or anything on the ground, like the mob's corpse.  Seems to be a random occurrence.  I can fight the same mob, with the same eq and spells, 10 times and it might happen two or three times.[/quote:19thnsy2]
 
@@ -94,19 +94,19 @@ Sloth does have an actual bug with non-CAN-SHAPESHIFT lights and shapeshift.  If
 
 </div>
 
-<div class="post" data-post-id="22137" data-author="Rynquald" data-date="2008-01-22T07:32:33+00:00">
+<div class="post" data-post-id="22137" data-author="Rynquald" data-date="2008-01-22T07:32:33+00:00" data-subject="">
 
 There's also a bug where shiftable lights "turn off" while you're shifted (it appears to correspond to getting/putting from a container while shifted). Removing and holding the light fixes it though.
 
 </div>
 
-<div class="post" data-post-id="22138" data-author="jezer" data-date="2008-01-22T10:31:50+00:00">
+<div class="post" data-post-id="22138" data-author="jezer" data-date="2008-01-22T10:31:50+00:00" data-subject="">
 
 My mana regen varies by 1-2 points from time to time as well. I'm wearing the same eq, and the same spells are up, I might even be regening in the same room, but there is often a 1-2 point variation. I'll post some proof in time, cause I figure you all won't believe me!
 
 </div>
 
-<div class="post" data-post-id="22156" data-author="Stryx" data-date="2008-01-22T17:59:36+00:00">
+<div class="post" data-post-id="22156" data-author="Stryx" data-date="2008-01-22T17:59:36+00:00" data-subject="">
 
 I have found that while shifted and then returning, half my drachma keeps disappearing, to the point that I have now only got 1 drachma from a total of 1865.
 
@@ -116,7 +116,7 @@ Also, paid a visit to Posiedon's Realm. While there I forgot to cast water breat
 
 </div>
 
-<div class="post" data-post-id="22168" data-author="jezer" data-date="2008-01-22T22:24:19+00:00">
+<div class="post" data-post-id="22168" data-author="jezer" data-date="2008-01-22T22:24:19+00:00" data-subject="">
 
 I have found that while shifted and then returning, half my drachma keeps disappearing[/quote:34mthnko]
 
@@ -124,7 +124,7 @@ Yeah? You too!  :shock:
 
 </div>
 
-<div class="post" data-post-id="22669" data-author="jezer" data-date="2008-02-12T12:09:14+00:00">
+<div class="post" data-post-id="22669" data-author="jezer" data-date="2008-02-12T12:09:14+00:00" data-subject="">
 
 Was shifted ferret, with near full health only to return to 61hp...
 
@@ -162,7 +162,7 @@ The cleansing fires of healing fill your body!
 
 </div>
 
-<div class="post" data-post-id="22670" data-author="jezer" data-date="2008-02-12T12:10:34+00:00">
+<div class="post" data-post-id="22670" data-author="jezer" data-date="2008-02-12T12:10:34+00:00" data-subject="">
 
 Losing 60hp on any shift I do...
 
@@ -278,7 +278,7 @@ You are affected by the following spells:
 
 </div>
 
-<div class="post" data-post-id="22671" data-author="jezer" data-date="2008-02-12T12:19:01+00:00">
+<div class="post" data-post-id="22671" data-author="jezer" data-date="2008-02-12T12:19:01+00:00" data-subject="">
 
 I quaff potions so often in inv, that I set this one up... I brought two red potions and went to dark dreams just to try force it to happen... it happened on the second sash I tried to kill...
 
@@ -374,7 +374,7 @@ No quaff triggers... it's just because i'm shifted and I have become like an NPC
 
 </div>
 
-<div class="post" data-post-id="22672" data-author="jezer" data-date="2008-02-12T12:30:59+00:00">
+<div class="post" data-post-id="22672" data-author="jezer" data-date="2008-02-12T12:30:59+00:00" data-subject="">
 
 About the losing 60 hps. 
 
@@ -384,7 +384,7 @@ It would seem shift return uses my nat con, not my con with eq.
 
 </div>
 
-<div class="post" data-post-id="22673" data-author="jezer" data-date="2008-02-12T12:37:54+00:00">
+<div class="post" data-post-id="22673" data-author="jezer" data-date="2008-02-12T12:37:54+00:00" data-subject="">
 
 Still had a red potion left in inv, when this happened again... but MID battle round which proves it can't be a bad script...
 
@@ -442,7 +442,7 @@ You feel your life drain as you are touched by an ethereal hand.
 
 </div>
 
-<div class="post" data-post-id="22674" data-author="jezer" data-date="2008-02-12T12:42:19+00:00">
+<div class="post" data-post-id="22674" data-author="jezer" data-date="2008-02-12T12:42:19+00:00" data-subject="">
 
 Whats a reasonable amount of times for a cobra to fail climb?
 
@@ -536,19 +536,19 @@ You made it.
 
 </div>
 
-<div class="post" data-post-id="22679" data-author="Medios" data-date="2008-02-12T17:24:32+00:00">
+<div class="post" data-post-id="22679" data-author="Medios" data-date="2008-02-12T17:24:32+00:00" data-subject="">
 
 The reason you lose hp when you shift return is simple.  Ferrets only have 31 hp and it would be possible to shift into a ferret when hurt, then regen up to 31 hp and then shift return for full hp.  To stop that they made it where you lose some hps when you shift return(I am not sure if its time related or what).  Granted it sucks to have to heal yourself but I don't know of any other way to stop ppl from abusing ferret hps.
 
 </div>
 
-<div class="post" data-post-id="22680" data-author="Rynquald" data-date="2008-02-12T19:48:02+00:00">
+<div class="post" data-post-id="22680" data-author="Rynquald" data-date="2008-02-12T19:48:02+00:00" data-subject="">
 
 The climb probably fails because cobra form is relatively low level.
 
 </div>
 
-<div class="post" data-post-id="22682" data-author="jezer" data-date="2008-02-12T22:26:18+00:00">
+<div class="post" data-post-id="22682" data-author="jezer" data-date="2008-02-12T22:26:18+00:00" data-subject="">
 
 The reason you lose hp when you shift return is simple.  Ferrets only have 31 hp and it would be possible to shift into a ferret when hurt, then regen up to 31 hp and then shift return for full hp.  To stop that they made it where you lose some hps when you shift return(I am not sure if its time related or what).  Granted it sucks to have to heal yourself but I don't know of any other way to stop ppl from abusing ferret hps.[/quote:3gaitze9]
 
@@ -558,7 +558,7 @@ The fact that I have 606hp with 15 con... and I lose exactly 56 hp's which is th
 
 </div>
 
-<div class="post" data-post-id="22686" data-author="Medios" data-date="2008-02-12T23:44:24+00:00">
+<div class="post" data-post-id="22686" data-author="Medios" data-date="2008-02-12T23:44:24+00:00" data-subject="">
 
 Was shifted ferret, with near full health only to return to 61hp...
 
@@ -598,7 +598,7 @@ The cleansing fires of healing fill your body!
 
 </div>
 
-<div class="post" data-post-id="22688" data-author="jezer" data-date="2008-02-12T23:59:19+00:00">
+<div class="post" data-post-id="22688" data-author="jezer" data-date="2008-02-12T23:59:19+00:00" data-subject="">
 
 That bug is a seperate one Mike. When it comes to hp loss there are two.
 
@@ -610,7 +610,7 @@ The "Loose hp for any shift" bug which I am blaming on Con, only makes me loose 
 
 </div>
 
-<div class="post" data-post-id="22763" data-author="jezer" data-date="2008-02-16T08:42:43+00:00">
+<div class="post" data-post-id="22763" data-author="jezer" data-date="2008-02-16T08:42:43+00:00" data-subject="">
 
 Possibly the one stryx mentioned... I was shifted dragon, fly dropped, and I lost the fly through dragon...
 
@@ -658,7 +658,7 @@ Exits: Up  Down
 
 </div>
 
-<div class="post" data-post-id="22778" data-author="jezer" data-date="2008-02-17T00:15:39+00:00">
+<div class="post" data-post-id="22778" data-author="jezer" data-date="2008-02-17T00:15:39+00:00" data-subject="">
 
 This one is pretty annoying... some people spend 500 drachma for +1 mana regen, and as you can see, after casting a spirit watcher I seem to have lost 3 mana regen just like that! Why? I've lost as much as 9 mana regen at times due to this... 'bug'
 
@@ -694,7 +694,7 @@ Stab the sylph tells you 'I'm on it, sir!'
 
 </div>
 
-<div class="post" data-post-id="22779" data-author="jezer" data-date="2008-02-17T00:19:04+00:00">
+<div class="post" data-post-id="22779" data-author="jezer" data-date="2008-02-17T00:19:04+00:00" data-subject="">
 
 Ok, scrub that last post... Learn something new every day :)
 
@@ -746,13 +746,13 @@ conjured.
 
 </div>
 
-<div class="post" data-post-id="22931" data-author="jezer" data-date="2008-02-24T22:32:56+00:00">
+<div class="post" data-post-id="22931" data-author="jezer" data-date="2008-02-24T22:32:56+00:00" data-subject="">
 
 A little birdy told me Kjartan deals mostly with the druid stuff? Where is he atm, that I may string him up by his heels!   :twisted:
 
 </div>
 
-<div class="post" data-post-id="24325" data-author="jezer" data-date="2008-05-13T08:35:06+00:00">
+<div class="post" data-post-id="24325" data-author="jezer" data-date="2008-05-13T08:35:06+00:00" data-subject="">
 
 You get a potion of greater healing from the corpse of a terracotta soldier that's on the ground.
 
@@ -774,13 +774,13 @@ Not sure if it has been yet... align is bad from too much posting on the board (
 
 </div>
 
-<div class="post" data-post-id="24334" data-author="Rynquald" data-date="2008-05-14T01:25:36+00:00">
+<div class="post" data-post-id="24334" data-author="Rynquald" data-date="2008-05-14T01:25:36+00:00" data-subject="">
 
 I've noticed that as well. In the last several months, being healed while in form seems to return your max hp to whatever you have unshifted.
 
 </div>
 
-<div class="post" data-post-id="24335" data-author="Rynquald" data-date="2008-05-14T01:40:05+00:00">
+<div class="post" data-post-id="24335" data-author="Rynquald" data-date="2008-05-14T01:40:05+00:00" data-subject="">
 
 Crier won't let me edit...
 
@@ -790,13 +790,13 @@ None of that's based on actual evidence though, just conjecture.
 
 </div>
 
-<div class="post" data-post-id="24336" data-author="Yinao" data-date="2008-05-14T07:18:50+00:00">
+<div class="post" data-post-id="24336" data-author="Yinao" data-date="2008-05-14T07:18:50+00:00" data-subject="">
 
 Eh? Real shifters use Pit Fiends anyways  :wink:
 
 </div>
 
-<div class="post" data-post-id="24337" data-author="jezer" data-date="2008-05-14T07:25:08+00:00">
+<div class="post" data-post-id="24337" data-author="jezer" data-date="2008-05-14T07:25:08+00:00" data-subject="">
 
 Eh? Real shifters use Pit Fiends anyways  :wink:[/quote:2qqe4l4z]
 
@@ -804,13 +804,13 @@ REAL shifters play druid prime!  :twisted: None of this half baked stuff...
 
 </div>
 
-<div class="post" data-post-id="24339" data-author="Yinao" data-date="2008-05-14T15:44:34+00:00">
+<div class="post" data-post-id="24339" data-author="Yinao" data-date="2008-05-14T15:44:34+00:00" data-subject="">
 
 I'd like to think that having a Pit Fiend that does 5 massacres/brutal massacres is more fun to have than 20 more mana regen + the extra % for being druid. Assuming they fix this healing problem a 4 attack valkyre with 300 mana for heals and 300 hp heals would be more useful, but perhaps that necro class would be a nice addition  :?... Oh not to mention those druid primes that get 100 extra hp in shift? Booo... Unless your Dave or Daedalus your not a real druid  :wink: , now their mana regen is to die for :)
 
 </div>
 
-<div class="post" data-post-id="24340" data-author="Rynquald" data-date="2008-05-14T20:22:29+00:00">
+<div class="post" data-post-id="24340" data-author="Rynquald" data-date="2008-05-14T20:22:29+00:00" data-subject="">
 
 Yinao wrote:
 
@@ -824,13 +824,13 @@ Nah, real shifters have mirrors up for accidental infight unshifts.
 
 </div>
 
-<div class="post" data-post-id="24348" data-author="Yinao" data-date="2008-05-15T04:02:59+00:00">
+<div class="post" data-post-id="24348" data-author="Yinao" data-date="2008-05-15T04:02:59+00:00" data-subject="">
 
 Eh? Aerial Servant gives me enough time to type FLEE BYTCH FLEE!!!! 8)
 
 </div>
 
-<div class="post" data-post-id="24352" data-author="Rynquald" data-date="2008-05-15T05:49:34+00:00">
+<div class="post" data-post-id="24352" data-author="Rynquald" data-date="2008-05-15T05:49:34+00:00" data-subject="">
 
 Eh? Aerial Servant gives me enough time to type FLEE BYTCH FLEE!!!! 8)[/quote:14345qqm]
 
@@ -840,7 +840,7 @@ I guess we've figured it out then, only the prime druid shifters really suck :D
 
 </div>
 
-<div class="post" data-post-id="24353" data-author="jezer" data-date="2008-05-15T05:52:44+00:00">
+<div class="post" data-post-id="24353" data-author="jezer" data-date="2008-05-15T05:52:44+00:00" data-subject="">
 
 Hey!  :twisted: 
 
@@ -850,7 +850,7 @@ Wait, you meant only I suck?  :shock:  :( *sneef*
 
 </div>
 
-<div class="post" data-post-id="24354" data-author="Stryx" data-date="2008-05-15T14:14:09+00:00">
+<div class="post" data-post-id="24354" data-author="Stryx" data-date="2008-05-15T14:14:09+00:00" data-subject="">
 
 [quote:1kquxctn]Wait, you meant only I suck?   *sneef*[/quote:1kquxctn]
 
@@ -858,7 +858,7 @@ No, that would mean I suck too... I just don't whine about it like you do! :twis
 
 </div>
 
-<div class="post" data-post-id="24358" data-author="Widow" data-date="2008-05-15T19:11:27+00:00">
+<div class="post" data-post-id="24358" data-author="Widow" data-date="2008-05-15T19:11:27+00:00" data-subject="">
 
 Ok, I gotta come to Jezer's defense. 
 
@@ -872,7 +872,7 @@ Keep up the great work Jezer and when I play more, expect to see similar rants f
 
 </div>
 
-<div class="post" data-post-id="24361" data-author="Yinao" data-date="2008-05-15T19:32:03+00:00">
+<div class="post" data-post-id="24361" data-author="Yinao" data-date="2008-05-15T19:32:03+00:00" data-subject="">
 
 NO! This is fantasy life, there are no mistakes, we are all perfect! So take your negative comments away!  :evil: 
 
@@ -880,7 +880,7 @@ NO! This is fantasy life, there are no mistakes, we are all perfect! So take you
 
 </div>
 
-<div class="post" data-post-id="24365" data-author="jezer" data-date="2008-05-15T23:34:29+00:00">
+<div class="post" data-post-id="24365" data-author="jezer" data-date="2008-05-15T23:34:29+00:00" data-subject="">
 
 Ok, I gotta come to Jezer's defense. Etc Etc[/quote:esod1c8v]
 
@@ -890,7 +890,7 @@ You really do want me to help with your clipped feather don't you!  :twisted: Th
 
 </div>
 
-<div class="post" data-post-id="24450" data-author="jezer" data-date="2008-05-22T00:59:26+00:00">
+<div class="post" data-post-id="24450" data-author="jezer" data-date="2008-05-22T00:59:26+00:00" data-subject="">
 
 Bump!
 
@@ -904,7 +904,7 @@ Should be easy fix. To see the bug, just shapeshift dragon and report... it will
 
 </div>
 
-<div class="post" data-post-id="24540" data-author="jezer" data-date="2008-05-27T09:11:06+00:00">
+<div class="post" data-post-id="24540" data-author="jezer" data-date="2008-05-27T09:11:06+00:00" data-subject="">
 
 <841hp 273ma 153mv -11.1ac -2al 35377671xp +54mr>
 
@@ -918,7 +918,7 @@ You cry to yourself.
 
 </div>
 
-<div class="post" data-post-id="27176" data-author="jezer" data-date="2008-11-14T06:26:05+00:00">
+<div class="post" data-post-id="27176" data-author="jezer" data-date="2008-11-14T06:26:05+00:00" data-subject="">
 
 Nearly my entire shifting eq mode has had it's CAN_SHAPESHIFT flag removed... Everything apart from my twisted thorn necklaces, diamond bracers and maple leaf brooch.
 
@@ -926,7 +926,7 @@ I was on during a crash a couple of days ago.
 
 </div>
 
-<div class="post" data-post-id="27178" data-author="*juggleblood*" data-date="2008-11-14T19:40:40+00:00">
+<div class="post" data-post-id="27178" data-author="*juggleblood*" data-date="2008-11-14T19:40:40+00:00" data-subject="">
 
 you're not the only one. apparently there were some changes to object flags in general. nothing is humming/glowing. shoulder gear is going onto neck. shift flags are missing. its a big mess.
 
@@ -934,7 +934,7 @@ I emailed the appropriate folks. If its not fixed soon and you see me online, ju
 
 </div>
 
-<div class="post" data-post-id="27182" data-author="nomic" data-date="2008-11-15T01:37:24+00:00">
+<div class="post" data-post-id="27182" data-author="nomic" data-date="2008-11-15T01:37:24+00:00" data-subject="">
 
 Well..
 
@@ -946,7 +946,7 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="27183" data-author="*juggleblood*" data-date="2008-11-15T01:56:04+00:00">
+<div class="post" data-post-id="27183" data-author="*juggleblood*" data-date="2008-11-15T01:56:04+00:00" data-subject="">
 
 heh, thx simon, but more thanks to the coders who are improving the way flags work. Someone seems to have invested a good amount of time in it. I know its a pain for us when the code is under construction, but there's been a lot of good improvement, even if its not always visible on the surface. Maybe we could talk Akasha/etc into an honor nocap event, when the mud is stable. Mud seems a lil dead lately, prolly in part due to the crashes. We could all use some love from above.
 

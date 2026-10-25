@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36060" data-author="*teker*" data-date="2015-08-23T18:02:36+00:00">
+<div class="post" data-post-id="36060" data-author="*teker*" data-date="2015-08-23T18:02:36+00:00" data-subject="Changelog 2015-08-23">
 
 With this morning's reboot the following ideas were added to the game:
 

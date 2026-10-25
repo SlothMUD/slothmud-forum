@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="16273" data-author="Weasel" data-date="2007-01-15T18:53:31+00:00">
+<div class="post" data-post-id="16273" data-author="Weasel" data-date="2007-01-15T18:53:31+00:00" data-subject="please fix bug with shipping reclaim">
 
 I shipped an item to someone with the cost for the item on top. They did not claim it after a day or so, so I reclaimed it to avoid it going to unclaimed and causing me to lose the item altogether. I went to post office, typed 'reclaim itemname' and got the eq back, but had to pay the couple of hundred thousand coins I was charging for it as well. No worries, I thought (wrongly), I'll just type 'check' and have the coins returned, effectively buying the eq off myself... guess what.. 
 
@@ -24,7 +24,7 @@ Thanks for ripping me off. Please fix this bug - apparently others have asked fo
 
 </div>
 
-<div class="post" data-post-id="16274" data-author="firebrand" data-date="2007-01-15T19:00:35+00:00">
+<div class="post" data-post-id="16274" data-author="firebrand" data-date="2007-01-15T19:00:35+00:00" data-subject="">
 
 *scratches head* i thought i was going nuts.  same happened to me a week or so ago with smth i was shipping and changed mind about
 
@@ -32,7 +32,7 @@ Thanks for ripping me off. Please fix this bug - apparently others have asked fo
 
 </div>
 
-<div class="post" data-post-id="16277" data-author="Atwell" data-date="2007-01-15T22:25:27+00:00">
+<div class="post" data-post-id="16277" data-author="Atwell" data-date="2007-01-15T22:25:27+00:00" data-subject="Re: please fix bug with shipping reclaim">
 
 I shipped an item to someone with the cost for the item on top. They did not claim it after a day or so, so I reclaimed it to avoid it going to unclaimed and causing me to lose the item altogether.[/quote:2422b8a8]
 
@@ -42,7 +42,7 @@ Items take about a month of real time to go unclaimed.
 
 </div>
 
-<div class="post" data-post-id="16278" data-author="Elsie" data-date="2007-01-15T23:45:48+00:00">
+<div class="post" data-post-id="16278" data-author="Elsie" data-date="2007-01-15T23:45:48+00:00" data-subject="">
 
 Note the date:
 
@@ -86,7 +86,7 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="16350" data-author="*juggleblood*" data-date="2007-01-18T11:02:38+00:00">
+<div class="post" data-post-id="16350" data-author="*juggleblood*" data-date="2007-01-18T11:02:38+00:00" data-subject="">
 
 *Bump*
 

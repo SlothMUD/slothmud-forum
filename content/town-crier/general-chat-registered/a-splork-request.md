@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29756" data-author="sirrico1" data-date="2009-08-05T00:06:18+00:00">
+<div class="post" data-post-id="29756" data-author="sirrico1" data-date="2009-08-05T00:06:18+00:00" data-subject="a Splork request">
 
 OBNOXIOUS POST!!
 

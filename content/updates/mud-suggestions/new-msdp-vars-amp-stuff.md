@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35342" data-author="Tuck" data-date="2014-06-15T16:14:16+00:00">
+<div class="post" data-post-id="35342" data-author="Tuck" data-date="2014-06-15T16:14:16+00:00" data-subject="New msdp vars &amp;amp; stuff.">
 
 Since Rick was so kind to add moar MSDP vars, may we see them listed in help file?
 

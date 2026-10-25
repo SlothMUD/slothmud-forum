@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35980" data-author="Yasik" data-date="2015-07-04T11:43:02+00:00">
+<div class="post" data-post-id="35980" data-author="Yasik" data-date="2015-07-04T11:43:02+00:00" data-subject="A redcoat is in excellent condition.">
 
 Did I miss the event announcement?
 
@@ -190,7 +190,7 @@ There were 7000 coins.
 
 </div>
 
-<div class="post" data-post-id="35984" data-author="Yasik" data-date="2015-07-06T17:30:10+00:00">
+<div class="post" data-post-id="35984" data-author="Yasik" data-date="2015-07-06T17:30:10+00:00" data-subject="Re: A redcoat is in excellent condition.">
 
 ![](https://db.tt/odt1Yeh2)
 

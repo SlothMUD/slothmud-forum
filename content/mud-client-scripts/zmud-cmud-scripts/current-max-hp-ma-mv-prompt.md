@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3242" data-author="Strago" data-date="2004-12-09T00:16:01+00:00">
+<div class="post" data-post-id="3242" data-author="Strago" data-date="2004-12-09T00:16:01+00:00" data-subject="Current / Max HP MA MV Prompt">
 
 Thanks go out to Nascosto for giving me the basic script, I just added the color.
 

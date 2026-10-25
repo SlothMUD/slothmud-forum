@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37446" data-author="*teker*" data-date="2016-10-24T14:20:05+00:00">
+<div class="post" data-post-id="37446" data-author="*teker*" data-date="2016-10-24T14:20:05+00:00" data-subject="Changelog 2016-10-24">
 
 These went live yesterday as of the last crash.  I believe the issue with the crash has been fixed.  It involved mobs activating zone alarms.
 

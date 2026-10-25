@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35696" data-author="*Splork*" data-date="2015-02-15T23:35:49+00:00">
+<div class="post" data-post-id="35696" data-author="*Splork*" data-date="2015-02-15T23:35:49+00:00" data-subject="Helpfiles updated">
 
 We have updated all the stat helpfiles, please see help int, wis, dex, con, and str for more information.
 

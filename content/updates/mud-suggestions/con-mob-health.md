@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="4224" data-author="Terin" data-date="2005-02-08T19:04:26+00:00">
+<div class="post" data-post-id="4224" data-author="Terin" data-date="2005-02-08T19:04:26+00:00" data-subject="Con +Mob Health">
 
 So im fighting something and wanna quickly check the health of the mob.  To my understanding the only way to do this is by Looking at them.  Of course when you do this its kind of hard to see the mobs health with all the battle text going on, and on my client at least the text color blends in.
 
@@ -26,7 +26,7 @@ Hope you guys like the idea, and I'll look forward to reading the replies.  ^_^
 
 </div>
 
-<div class="post" data-post-id="4225" data-author="Leaf" data-date="2005-02-09T00:01:06+00:00">
+<div class="post" data-post-id="4225" data-author="Leaf" data-date="2005-02-09T00:01:06+00:00" data-subject="">
 
 Alot of ppl's clients use scripts to read their "health" and then report a %.
 
@@ -56,13 +56,13 @@ fix it?!
 
 </div>
 
-<div class="post" data-post-id="4226" data-author="Terin" data-date="2005-02-09T01:28:52+00:00">
+<div class="post" data-post-id="4226" data-author="Terin" data-date="2005-02-09T01:28:52+00:00" data-subject="">
 
 Could you tell me how to set up this script?
 
 </div>
 
-<div class="post" data-post-id="4234" data-author="Calim" data-date="2005-02-09T12:29:21+00:00">
+<div class="post" data-post-id="4234" data-author="Calim" data-date="2005-02-09T12:29:21+00:00" data-subject="">
 
 A different idea, add a new command, 'Assess' that just returns the last line of the look regarding the mobs condition.
 
@@ -70,13 +70,13 @@ besides, then we can all type a-s-s 'mobname' :)
 
 </div>
 
-<div class="post" data-post-id="4235" data-author="12345" data-date="2005-02-09T12:32:37+00:00">
+<div class="post" data-post-id="4235" data-author="12345" data-date="2005-02-09T12:32:37+00:00" data-subject="">
 
 I'll laugh my ass off when everyone starts assisting mobs.  :lol:
 
 </div>
 
-<div class="post" data-post-id="4237" data-author="Calim" data-date="2005-02-09T12:38:16+00:00">
+<div class="post" data-post-id="4237" data-author="Calim" data-date="2005-02-09T12:38:16+00:00" data-subject="">
 
 shh, that was the point... :)
 

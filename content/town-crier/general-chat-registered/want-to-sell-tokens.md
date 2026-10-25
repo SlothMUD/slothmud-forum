@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="8899" data-author="Daisy" data-date="2005-10-04T08:17:33+00:00">
+<div class="post" data-post-id="8899" data-author="Daisy" data-date="2005-10-04T08:17:33+00:00" data-subject="Want to Sell Tokens:">
 
 My alt Elsie has been hoarding tokens, she now has 23 tri tokens and 3 hex tokens, and will probably get more soon.
 
@@ -78,7 +78,7 @@ Daisy (aka Elsie)
 
 </div>
 
-<div class="post" data-post-id="8906" data-author="Daisy" data-date="2005-10-04T09:25:47+00:00">
+<div class="post" data-post-id="8906" data-author="Daisy" data-date="2005-10-04T09:25:47+00:00" data-subject="Yay!">
 
 well that was successful ... thankyou!
 

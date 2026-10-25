@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35451" data-author="Hung" data-date="2014-10-12T12:22:05+00:00">
+<div class="post" data-post-id="35451" data-author="Hung" data-date="2014-10-12T12:22:05+00:00" data-subject="Song of the mist &amp;amp; Forms&#x27; special attacks">
 
 Hello,
 
@@ -18,7 +18,7 @@ According to the help the song of the mist enables the singer and possibly one o
 
 </div>
 
-<div class="post" data-post-id="35453" data-author="DarkArtist" data-date="2014-10-13T18:25:07+00:00">
+<div class="post" data-post-id="35453" data-author="DarkArtist" data-date="2014-10-13T18:25:07+00:00" data-subject="Re: Song of the mist &amp;amp; Forms&#x27; special attacks">
 
 It makes sense since that skill went in after those procs were written. To be corrected, each proc that currently checks for ethereal must now also check for song of the mist. I suggest submitting each special skill that needs correction with the bugs cmd, so that they'll be conveniently listed in checklist format for someone to attack at their leisure. 
 

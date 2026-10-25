@@ -10,19 +10,19 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="35418" data-author="Filk" data-date="2014-08-14T08:16:03+00:00">
+<div class="post" data-post-id="35418" data-author="Filk" data-date="2014-08-14T08:16:03+00:00" data-subject="Mythic forms skill">
 
 It seems that skill description isnt updated from s3. What it is doing now?
 
 </div>
 
-<div class="post" data-post-id="35422" data-author="Marvel" data-date="2014-08-16T02:28:22+00:00">
+<div class="post" data-post-id="35422" data-author="Marvel" data-date="2014-08-16T02:28:22+00:00" data-subject="Re: Mythic forms skill">
 
 Allows you to shift into mythic forms? You still need to wear items to be able to shift into some of them?
 
 </div>
 
-<div class="post" data-post-id="35424" data-author="Filk" data-date="2014-08-16T04:48:10+00:00">
+<div class="post" data-post-id="35424" data-author="Filk" data-date="2014-08-16T04:48:10+00:00" data-subject="Re: Mythic forms skill">
 
 Problem is there is no mythic forms now, due to "help forms". And even no tarantula, neither seadragon forms anymore. And forms level are not match. You maybe still need items to shift into 2 left forms, but what mythic form is used for then? Kinda broken or useless skill, untill you can say what exactly it is doing.
 
@@ -30,7 +30,7 @@ Maybe its time to check it and fix help file? Or even redo skill to really do so
 
 </div>
 
-<div class="post" data-post-id="35426" data-author="Filk" data-date="2014-08-21T09:42:25+00:00">
+<div class="post" data-post-id="35426" data-author="Filk" data-date="2014-08-21T09:42:25+00:00" data-subject="Re: Mythic forms skill">
 
 Well, i invistigated a bit more. Seems skills really just allows using of special items to shift into 2 forms which left from form updates: phoenix and piasa. That is 7x40 and 9x40 forms.
 

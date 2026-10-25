@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2816" data-author="Weasel" data-date="2004-11-14T02:41:12+00:00">
+<div class="post" data-post-id="2816" data-author="Weasel" data-date="2004-11-14T02:41:12+00:00" data-subject="WTB Skull of the Innocent">
 
 WTB Skull of the Innocent ..will pay around 17.5mil, negotiable for more.
 

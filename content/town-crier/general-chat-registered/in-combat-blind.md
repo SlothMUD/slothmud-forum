@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="18257" data-author="*juggleblood*" data-date="2007-05-02T14:57:36+00:00">
+<div class="post" data-post-id="18257" data-author="*juggleblood*" data-date="2007-05-02T14:57:36+00:00" data-subject="In combat blind">
 
 Is there a consensus among the imms that mages are the only class deserving of a blinding spell? Would be nice if necros and and druids had their own variations as well. I think Brand suggested one a while back.  
 
@@ -18,13 +18,13 @@ Also I second the life extender spell for necros that Ah suggested. Seems only n
 
 </div>
 
-<div class="post" data-post-id="18258" data-author="brady" data-date="2007-05-02T15:10:45+00:00">
+<div class="post" data-post-id="18258" data-author="brady" data-date="2007-05-02T15:10:45+00:00" data-subject="">
 
 Druids already do, depending on their form.
 
 </div>
 
-<div class="post" data-post-id="18259" data-author="Autolycos" data-date="2007-05-02T16:30:30+00:00">
+<div class="post" data-post-id="18259" data-author="Autolycos" data-date="2007-05-02T16:30:30+00:00" data-subject="Re: In combat blind">
 
 I think Brand suggested one a while back.  [/quote:1p9jweze]
 

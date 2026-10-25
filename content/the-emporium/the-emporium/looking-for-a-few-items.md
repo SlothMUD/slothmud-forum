@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="28236" data-author="caffeine" data-date="2009-02-20T23:47:22+00:00">
+<div class="post" data-post-id="28236" data-author="caffeine" data-date="2009-02-20T23:47:22+00:00" data-subject="Looking for a Few Items">
 
 Gloves of Precision
 
@@ -36,7 +36,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="28237" data-author="jezer" data-date="2009-02-21T00:11:27+00:00">
+<div class="post" data-post-id="28237" data-author="jezer" data-date="2009-02-21T00:11:27+00:00" data-subject="">
 
 The turtle girdle pops on an under dark 2 mob I think. 
 
@@ -50,7 +50,7 @@ Just pointing it out, cause a lot of < 20 seems to be chasing that item... and i
 
 </div>
 
-<div class="post" data-post-id="28253" data-author="Afea" data-date="2009-02-21T22:28:07+00:00">
+<div class="post" data-post-id="28253" data-author="Afea" data-date="2009-02-21T22:28:07+00:00" data-subject="">
 
 got tunic.
 

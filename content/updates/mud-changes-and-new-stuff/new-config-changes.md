@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33831" data-author="*Splork*" data-date="2012-12-09T02:25:43+00:00">
+<div class="post" data-post-id="33831" data-author="*Splork*" data-date="2012-12-09T02:25:43+00:00" data-subject="New Config Changes">
 
 About a year ago, I added continental bonuses based off of our world bonuses. This was an attempt to get people moving from continent to continent. It worked but not as well as I would of liked. Thus, the new changes to our bonuses. Now, when you see a continent turned on, it means that all bonuses for that continent are toggled and enabled. An example of this would be the second of every month, the Island config is enabled. This means that fargate, regen, group exp bonus, solo exp bonus, etc are all enabled for this continent. 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39038" data-author="Driven" data-date="2019-01-11T02:48:50+00:00">
+<div class="post" data-post-id="39038" data-author="Driven" data-date="2019-01-11T02:48:50+00:00" data-subject="New 3x40 system">
 
 Greetings, Slothers!  Today is a good day.  We would like to present a new system for 3x40 gear for your enjoyment.  The goal of this new system is threefold:
 

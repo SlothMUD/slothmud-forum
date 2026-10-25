@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16296" data-author="gondor" data-date="2007-01-16T12:30:37+00:00">
+<div class="post" data-post-id="16296" data-author="gondor" data-date="2007-01-16T12:30:37+00:00" data-subject="Wintin.net and lag">
 
 Has anyone else been experiencing lag or having wintin.net just lock up? All other programs seem to be working correctly. I even wiped and got the latest version of wintin.net but its still doing the same thing. All other programs seem to be working correctly. When it does this I am still getting messages from the mud but its almost like everything I send is being lagged by a minute or more.
 
@@ -20,7 +20,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="16306" data-author="java" data-date="2007-01-16T14:06:18+00:00">
+<div class="post" data-post-id="16306" data-author="java" data-date="2007-01-16T14:06:18+00:00" data-subject="Laggin ...Intermittantly..">
 
 I am running P4....30 gig of wide open space and Wintin's lastest. DSL 100k.. Recently I started expirencing the same thing.. It really stalls just before a crash. Maybe that's normal.. ? I'll say sh... here comes a crash and sure enough..CRASH..
 

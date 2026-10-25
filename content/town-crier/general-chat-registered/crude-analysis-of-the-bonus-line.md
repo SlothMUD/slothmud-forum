@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38251" data-author="*Idjit*" data-date="2017-05-22T01:56:33+00:00">
+<div class="post" data-post-id="38251" data-author="*Idjit*" data-date="2017-05-22T01:56:33+00:00" data-subject="Crude analysis of the bonus line">
 
 This is put here for Taron's benefit, since he's asleep about now :)
 
@@ -94,7 +94,7 @@ Enjoy,
 
 </div>
 
-<div class="post" data-post-id="38252" data-author="Gorka" data-date="2017-05-23T06:37:51+00:00">
+<div class="post" data-post-id="38252" data-author="Gorka" data-date="2017-05-23T06:37:51+00:00" data-subject="Re: Crude analysis of the bonus line">
 
 ![](https://us.123rf.com/450wm/bowie15/bowie151504/bowie15150400088/39901903-mad-scientist.jpg?ver=6)
 

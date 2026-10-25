@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35773" data-author="*Idjit*" data-date="2015-03-21T21:30:02+00:00">
+<div class="post" data-post-id="35773" data-author="*Idjit*" data-date="2015-03-21T21:30:02+00:00" data-subject="very minor tweak to Herbalist II">
 
 Happy Saturday everyone,
 

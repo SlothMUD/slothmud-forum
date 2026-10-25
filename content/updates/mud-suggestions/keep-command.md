@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="30094" data-author="Jynx" data-date="2009-10-10T22:04:18+00:00">
+<div class="post" data-post-id="30094" data-author="Jynx" data-date="2009-10-10T22:04:18+00:00" data-subject="Keep command">
 
 I don't know if this has been suggested but it would certainly be handy and pretty easy to code (nudge nudge Felix). How about a 'keep' command. Usage would be for example, 'keep dagger' and would return this to player: 'You decide to keep a blue glass dagger'. This would stop a char from inadvertently junking or selling an item by accident. If you tried to sell or junk it, you'd see something like: If you want to sell/junk a blue glass dagger, you must first 'unkeep' it. 
 
@@ -20,13 +20,13 @@ My 02...
 
 </div>
 
-<div class="post" data-post-id="30105" data-author="yoshimi" data-date="2009-10-12T00:03:13+00:00">
+<div class="post" data-post-id="30105" data-author="yoshimi" data-date="2009-10-12T00:03:13+00:00" data-subject="">
 
 or drop, i dropped a spellbook by accident the other day  :(
 
 </div>
 
-<div class="post" data-post-id="30107" data-author="Thraxas" data-date="2009-10-12T11:44:18+00:00">
+<div class="post" data-post-id="30107" data-author="Thraxas" data-date="2009-10-12T11:44:18+00:00" data-subject="">
 
 I'm in 2 minds about this one:
 
@@ -40,7 +40,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30110" data-author="Jynx" data-date="2009-10-12T15:18:31+00:00">
+<div class="post" data-post-id="30110" data-author="Jynx" data-date="2009-10-12T15:18:31+00:00" data-subject="">
 
 I can see your point Thraxas, as far as stupidity and other issues go. I wasn't really thinking about stupidity so much as multiple key words and abbreviations. Suppose you had an ancient clay jar for your water vessel and somehow you got one of those nasty green oil filled jars in your inventory and without thinking because you're in a hurry or whatever you type: junk jar. . . Or maybe you were being careful and typed junk or drop something and multiple keywords are at fault.
 
@@ -50,7 +50,7 @@ As for other bigger issues in the mud, I am sure there are some and they need to
 
 </div>
 
-<div class="post" data-post-id="30111" data-author="angel" data-date="2009-10-13T11:39:38+00:00">
+<div class="post" data-post-id="30111" data-author="angel" data-date="2009-10-13T11:39:38+00:00" data-subject="">
 
 if u keep junking stuff when ur not sure or in a hurry,its ur fault for being a noob.
 
@@ -58,7 +58,7 @@ stop hurrying n learn.
 
 </div>
 
-<div class="post" data-post-id="30112" data-author="angel" data-date="2009-10-13T11:45:24+00:00">
+<div class="post" data-post-id="30112" data-author="angel" data-date="2009-10-13T11:45:24+00:00" data-subject="">
 
 u can too use other means already available like sacks,robes containers etc
 
@@ -68,7 +68,7 @@ if u want a program to stop u from screwin up,use ur brains:)
 
 </div>
 
-<div class="post" data-post-id="30113" data-author="Jynx" data-date="2009-10-13T13:52:05+00:00">
+<div class="post" data-post-id="30113" data-author="Jynx" data-date="2009-10-13T13:52:05+00:00" data-subject="">
 
 And your replies Angel are why people leave. You posted nothing constructive and apparently didn't even bother to read the previous posts. You post was to irk someone plain and simple.
 
@@ -78,7 +78,7 @@ BTW it's also your fault if you're so stupid you remove your robe in an unsafe r
 
 </div>
 
-<div class="post" data-post-id="30114" data-author="Thraxas" data-date="2009-10-13T16:01:15+00:00">
+<div class="post" data-post-id="30114" data-author="Thraxas" data-date="2009-10-13T16:01:15+00:00" data-subject="">
 
 and let the flamefest and trolling begin ... oh it already did.
 
@@ -90,7 +90,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30115" data-author="jezer" data-date="2009-10-13T20:12:53+00:00">
+<div class="post" data-post-id="30115" data-author="jezer" data-date="2009-10-13T20:12:53+00:00" data-subject="">
 
 My opinion...
 

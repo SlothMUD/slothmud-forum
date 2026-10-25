@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="29037" data-author="*Splork*" data-date="2009-04-23T22:33:03+00:00">
+<div class="post" data-post-id="29037" data-author="*Splork*" data-date="2009-04-23T22:33:03+00:00" data-subject="exp loss and level loss changes">
 
 Ive noticed an incredible amount of people losing levels and high amounts of exp at these levels. This ofcourse will change with more clerics gaining the raise dead spell and our players gaining wordly experience and knowledge of the new combat system.
 
@@ -34,7 +34,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29108" data-author="*Splork*" data-date="2009-05-07T22:06:29+00:00">
+<div class="post" data-post-id="29108" data-author="*Splork*" data-date="2009-05-07T22:06:29+00:00" data-subject="">
 
 Exp loss is now capped depending on your total levels for your character.
 
@@ -46,7 +46,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29752" data-author="*Splork*" data-date="2009-08-03T21:25:50+00:00">
+<div class="post" data-post-id="29752" data-author="*Splork*" data-date="2009-08-03T21:25:50+00:00" data-subject="">
 
 The code we started this version of sloth had a 7% chance for everyone to lose level, a 30% loss for exp upon death, and a 30 million exp cap on death at triple 40( from there every quad level added 2 mil exp loss to the cap, and every avatar level added 1 more mil for what could of been a total of 150) We have tinkered with it several times and it is now on a sliding scale. 
 

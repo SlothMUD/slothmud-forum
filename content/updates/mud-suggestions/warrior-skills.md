@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="294" data-author="Weasel" data-date="2004-05-24T16:15:04+00:00">
+<div class="post" data-post-id="294" data-author="Weasel" data-date="2004-05-24T16:15:04+00:00" data-subject="Warrior skills">
 
 Would love to see something for WA primes like additional power to each round rather than the flaildamage option that is available presently.
 
@@ -28,13 +28,13 @@ Any thoughts?
 
 </div>
 
-<div class="post" data-post-id="301" data-author="blackmore" data-date="2004-05-24T17:56:15+00:00">
+<div class="post" data-post-id="301" data-author="blackmore" data-date="2004-05-24T17:56:15+00:00" data-subject="">
 
 Warriors do get a bonus on damage on every attack, though I'm not quite sure how much or how much of a difference it makes.
 
 </div>
 
-<div class="post" data-post-id="305" data-author="*Splork*" data-date="2004-05-24T21:32:00+00:00">
+<div class="post" data-post-id="305" data-author="*Splork*" data-date="2004-05-24T21:32:00+00:00" data-subject="Warrior Innate ability">
 
 Blackmore is correct. If a warrior is wielding a non stab weapon, their natural damage increases as they level in thier respective prime class.
 
@@ -46,13 +46,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="308" data-author="Weasel" data-date="2004-05-24T22:07:54+00:00">
+<div class="post" data-post-id="308" data-author="Weasel" data-date="2004-05-24T22:07:54+00:00" data-subject="">
 
 Yeah ok. I thought that was same for everyone but I guess not. And nods, that new WA prime quest weapon is pretty sweet.
 
 </div>
 
-<div class="post" data-post-id="849" data-author="Methyx" data-date="2004-06-24T09:07:35+00:00">
+<div class="post" data-post-id="849" data-author="Methyx" data-date="2004-06-24T09:07:35+00:00" data-subject="">
 
 Would a warrior classed character have to be wielding a weapon in order to get the +dam/level benefit or would he do the extra damage even bare handed?
 

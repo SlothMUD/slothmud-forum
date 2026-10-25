@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="35240" data-author="Thraxas" data-date="2014-06-13T14:34:09+00:00">
+<div class="post" data-post-id="35240" data-author="Thraxas" data-date="2014-06-13T14:34:09+00:00" data-subject="what to do at 9x40">
 
 ok so 9x40 is still a long way off for me - I worked out yesterday that at 2bill/week I'll get then on 22nd August 2018 but I cant help thinking about what will be left to do when I get there.
 
@@ -24,7 +24,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="35241" data-author="DarkArtist" data-date="2014-06-14T04:43:37+00:00">
+<div class="post" data-post-id="35241" data-author="DarkArtist" data-date="2014-06-14T04:43:37+00:00" data-subject="Re: what to do at 9x40">
 
 We have this now :)
 
@@ -32,7 +32,7 @@ We have this now :)
 
 </div>
 
-<div class="post" data-post-id="35243" data-author="Thraxas" data-date="2014-06-14T12:49:14+00:00">
+<div class="post" data-post-id="35243" data-author="Thraxas" data-date="2014-06-14T12:49:14+00:00" data-subject="Re: what to do at 9x40">
 
 hmm thanks :) didnt realise we had 9x40s walking round with prime abilities of more than one class ... thanks - something to look forward to.
 
@@ -40,7 +40,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="35246" data-author="DarkArtist" data-date="2014-06-15T01:35:57+00:00">
+<div class="post" data-post-id="35246" data-author="DarkArtist" data-date="2014-06-15T01:35:57+00:00" data-subject="Re: what to do at 9x40">
 
 Oh sorry. We don't have exactly that feature. I merely meant that there is a remort program. 
 
@@ -48,7 +48,7 @@ You get a new character that has some bonuses, the primary of which is an experi
 
 </div>
 
-<div class="post" data-post-id="35345" data-author="*Splork*" data-date="2014-06-16T01:36:02+00:00">
+<div class="post" data-post-id="35345" data-author="*Splork*" data-date="2014-06-16T01:36:02+00:00" data-subject="Re: what to do at 9x40">
 
 We have tokens which Avatar characters get to use for secondary characters. This is because we figured they would not want to ruin/waste their prime character and hundreds of hours on something else. Please see the thread regarding Avatar tokens for more information.
 
@@ -56,7 +56,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35346" data-author="Yasik" data-date="2014-06-16T08:29:50+00:00">
+<div class="post" data-post-id="35346" data-author="Yasik" data-date="2014-06-16T08:29:50+00:00" data-subject="Re: what to do at 9x40">
 
 Re: what to do at 9x40
 
@@ -90,7 +90,7 @@ PS.
 
 </div>
 
-<div class="post" data-post-id="35347" data-author="cyprimus" data-date="2014-06-17T19:28:08+00:00">
+<div class="post" data-post-id="35347" data-author="cyprimus" data-date="2014-06-17T19:28:08+00:00" data-subject="Re: what to do at 9x40">
 
 Would love to see it.
 
@@ -114,7 +114,7 @@ Hope to see this feature added, or improvements on the super newbie program.  An
 
 </div>
 
-<div class="post" data-post-id="35348" data-author="*Breeze*" data-date="2014-06-18T08:27:41+00:00">
+<div class="post" data-post-id="35348" data-author="*Breeze*" data-date="2014-06-18T08:27:41+00:00" data-subject="Re: what to do at 9x40">
 
 Yes, I know super newbie is a bit broken but I haven't had time to fix it.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34146" data-author="*Splork*" data-date="2013-03-13T13:30:02+00:00">
+<div class="post" data-post-id="34146" data-author="*Splork*" data-date="2013-03-13T13:30:02+00:00" data-subject="Avatar Bonus Changes ( Thanks Dr!)">
 
 Avatar Bonuses
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="3778" data-author="13" data-date="2005-01-14T13:23:55+00:00">
+<div class="post" data-post-id="3778" data-author="13" data-date="2005-01-14T13:23:55+00:00" data-subject="Warrior Skill/Manual List">
 
 I looked at this today and only ONE poppable manual is listed 
 
@@ -36,7 +36,7 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="3779" data-author="guest" data-date="2005-01-14T13:33:16+00:00">
+<div class="post" data-post-id="3779" data-author="guest" data-date="2005-01-14T13:33:16+00:00" data-subject="">
 
 [<LINK_TEXT text="http://slothmud.org/eqlist/index.php?st ... aproom.php">http://slothmud.org/eqlist/index.php?stage=3&alternateeqtype=Books&orderby=Book%2BName&sortorder=asc&filterby=Any&filterstring=warrior&continent=All&changemonth=01&changedate=01&changeyear=2000&viewflags=View%2BOnly&actionmenu=maproom.php</LINK_TEXT>](http://slothmud.org/eqlist/index.php?stage=3&alternateeqtype=Books&orderby=Book%2BName&sortorder=asc&filterby=Any&filterstring=warrior&continent=All&changemonth=01&changedate=01&changeyear=2000&viewflags=View%2BOnly&actionmenu=maproom.php)
 
@@ -44,7 +44,7 @@ i think that covers most of them, although yeah, they should maybe be listed und
 
 </div>
 
-<div class="post" data-post-id="3780" data-author="13" data-date="2005-01-14T13:57:42+00:00">
+<div class="post" data-post-id="3780" data-author="13" data-date="2005-01-14T13:57:42+00:00" data-subject="">
 
 Nice, I had no idea you could find books on the eqlist.
 
@@ -54,7 +54,7 @@ the skills page too.
 
 </div>
 
-<div class="post" data-post-id="3781" data-author="*Splork*" data-date="2005-01-14T16:37:21+00:00">
+<div class="post" data-post-id="3781" data-author="*Splork*" data-date="2005-01-14T16:37:21+00:00" data-subject="">
 
 I've updated the known poppers. We do not update this one 
 
@@ -68,7 +68,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="3782" data-author="Leaf" data-date="2005-01-14T17:45:37+00:00">
+<div class="post" data-post-id="3782" data-author="Leaf" data-date="2005-01-14T17:45:37+00:00" data-subject="">
 
 But if you do, it's cool :)
 
@@ -76,7 +76,7 @@ Thx
 
 </div>
 
-<div class="post" data-post-id="3787" data-author="13" data-date="2005-01-14T20:12:31+00:00">
+<div class="post" data-post-id="3787" data-author="13" data-date="2005-01-14T20:12:31+00:00" data-subject="">
 
 Much Obliged Rick :)
 

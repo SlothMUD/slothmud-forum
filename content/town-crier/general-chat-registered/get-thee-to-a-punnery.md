@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="12032" data-author="Enea2" data-date="2006-04-09T23:39:50+00:00">
+<div class="post" data-post-id="12032" data-author="Enea2" data-date="2006-04-09T23:39:50+00:00" data-subject="get thee to a punnery">
 
 A group of friars from the monastery opened a florist shop to raise funds. A rival florist saw his business drop significantly. He asked the good fathers to close down, but they would not. He went back and begged the friars to close. They ignored him. So, the rival florist hired Hugh O'Reilly, the toughest thug in town to convince the friars to close down. Hugh beat up the friars and ruined their flowers, saying he'd be back if they didn't close up shop.
 
@@ -30,7 +30,7 @@ The doctor took one sip of the drink and exclaimed, 'This isn't a hazelnut daiqu
 
 </div>
 
-<div class="post" data-post-id="12033" data-author="Qa" data-date="2006-04-10T00:42:53+00:00">
+<div class="post" data-post-id="12033" data-author="Qa" data-date="2006-04-10T00:42:53+00:00" data-subject="">
 
 Enea, we must truly have similar funny bones.  Those were great.
 
@@ -44,7 +44,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="12034" data-author="*juggleblood*" data-date="2006-04-10T05:07:50+00:00">
+<div class="post" data-post-id="12034" data-author="*juggleblood*" data-date="2006-04-10T05:07:50+00:00" data-subject="">
 
 More classics for Enea,
 
@@ -58,7 +58,7 @@ Mary Poppins was in town for a nanny convention, but the Hilton had overbooked a
 
 </div>
 
-<div class="post" data-post-id="12035" data-author="jezer" data-date="2006-04-10T05:38:15+00:00">
+<div class="post" data-post-id="12035" data-author="jezer" data-date="2006-04-10T05:38:15+00:00" data-subject="Post Closed">
 
 Due to bland width limitations, I regret to inform everyone that this post will now have to be closed. 
 
@@ -68,7 +68,7 @@ This has been an announcement in the interest of public sanity  :evil:
 
 </div>
 
-<div class="post" data-post-id="12067" data-author="*juggleblood*" data-date="2006-04-11T10:53:37+00:00">
+<div class="post" data-post-id="12067" data-author="*juggleblood*" data-date="2006-04-11T10:53:37+00:00" data-subject="">
 
 You know what the fish said as he swam head first into a concrete wall?
 
@@ -78,7 +78,7 @@ Dam. 8)
 
 </div>
 
-<div class="post" data-post-id="12069" data-author="Autolycos" data-date="2006-04-11T12:13:33+00:00">
+<div class="post" data-post-id="12069" data-author="Autolycos" data-date="2006-04-11T12:13:33+00:00" data-subject="Re: Post Closed">
 
 Failure to comply with this demand will see you striped naked, webbed and silenced - while weasel looks at you strangly, guniex lites up, autolycos tell you to stfu, krok taughts you about your poor botting scripts and Brad logs on all of his characters to laugh at you. (time permitting)[/quote:2cgyzn9j]
 
@@ -90,7 +90,7 @@ bravo!
 
 </div>
 
-<div class="post" data-post-id="12073" data-author="Zing" data-date="2006-04-11T13:34:47+00:00">
+<div class="post" data-post-id="12073" data-author="Zing" data-date="2006-04-11T13:34:47+00:00" data-subject="Get the to a punnery">
 
 Watch out, incoming!
 
@@ -106,7 +106,7 @@ Not one Pun in ten did.
 
 </div>
 
-<div class="post" data-post-id="13803" data-author="*juggleblood*" data-date="2006-08-27T06:47:36+00:00">
+<div class="post" data-post-id="13803" data-author="*juggleblood*" data-date="2006-08-27T06:47:36+00:00" data-subject="">
 
 I was having dinner at a small Japanese restaurant last night. 
 
@@ -118,7 +118,7 @@ deeply and said, "Sank you very much."
 
 </div>
 
-<div class="post" data-post-id="13804" data-author="Akasha" data-date="2006-08-27T07:37:52+00:00">
+<div class="post" data-post-id="13804" data-author="Akasha" data-date="2006-08-27T07:37:52+00:00" data-subject="">
 
 You know what the fish said as he swam head first into a concrete wall?
 
@@ -130,13 +130,13 @@ Loved this one.
 
 </div>
 
-<div class="post" data-post-id="13807" data-author="Diazz" data-date="2006-08-27T15:46:48+00:00">
+<div class="post" data-post-id="13807" data-author="Diazz" data-date="2006-08-27T15:46:48+00:00" data-subject="">
 
 [url:1sibjbjh]http://www-personal.umich.edu/~afive/stuff/Ultimate%20Showdown%20of%20Ultimate%20Destiny.swf[/url:1sibjbjh]
 
 </div>
 
-<div class="post" data-post-id="13809" data-author="Pisces" data-date="2006-08-27T21:10:19+00:00">
+<div class="post" data-post-id="13809" data-author="Pisces" data-date="2006-08-27T21:10:19+00:00" data-subject="">
 
 That was effin awesome! 
 
@@ -144,7 +144,7 @@ That was effin awesome!
 
 </div>
 
-<div class="post" data-post-id="13810" data-author="Nishiki" data-date="2006-08-27T22:06:47+00:00">
+<div class="post" data-post-id="13810" data-author="Nishiki" data-date="2006-08-27T22:06:47+00:00" data-subject="">
 
 A man wnet to see his doctor because he suffered from chronic impotence.  After listening to the man's story, the doctor told him about a new alternative procedure that would help him, the only catch was that it would only work once.
 
@@ -156,7 +156,7 @@ The man thanked his doctor profusely and rushed home, stripped, and called his w
 
 </div>
 
-<div class="post" data-post-id="13815" data-author="banedon" data-date="2006-08-28T14:22:59+00:00">
+<div class="post" data-post-id="13815" data-author="banedon" data-date="2006-08-28T14:22:59+00:00" data-subject="">
 
 Now you've gone and done it.
 
@@ -178,7 +178,7 @@ Remember, that which does not kill you makes you crazier.
 
 </div>
 
-<div class="post" data-post-id="13816" data-author="Autolycos" data-date="2006-08-28T16:23:33+00:00">
+<div class="post" data-post-id="13816" data-author="Autolycos" data-date="2006-08-28T16:23:33+00:00" data-subject="">
 
 oh krap..... 
 
@@ -190,7 +190,7 @@ Kill him till he dies from it!
 
 </div>
 
-<div class="post" data-post-id="13817" data-author="Diazz" data-date="2006-08-28T17:25:54+00:00">
+<div class="post" data-post-id="13817" data-author="Diazz" data-date="2006-08-28T17:25:54+00:00" data-subject="">
 
 [quote:3e5h3tyj]"I shall force you to endure the milking of the Cow Jokes. They are udderly bad,..."[/quote:3e5h3tyj]
 
@@ -200,7 +200,7 @@ Ok you asked for it...
 
 </div>
 
-<div class="post" data-post-id="13818" data-author="Pisces" data-date="2006-08-28T18:37:36+00:00">
+<div class="post" data-post-id="13818" data-author="Pisces" data-date="2006-08-28T18:37:36+00:00" data-subject="">
 
 This has nothing to do with puns, but I just couldn't resist...
 
@@ -212,7 +212,7 @@ boo hiss
 
 </div>
 
-<div class="post" data-post-id="13819" data-author="Autolycos" data-date="2006-08-28T19:49:21+00:00">
+<div class="post" data-post-id="13819" data-author="Autolycos" data-date="2006-08-28T19:49:21+00:00" data-subject="">
 
 even worse!
 
@@ -226,7 +226,7 @@ The bartender looks down and says..  Sorry buddy, we dont serve food here.
 
 </div>
 
-<div class="post" data-post-id="13824" data-author="Shara" data-date="2006-08-29T03:25:23+00:00">
+<div class="post" data-post-id="13824" data-author="Shara" data-date="2006-08-29T03:25:23+00:00" data-subject="">
 
 A burglar robbed the Louvre of all its valuables one night.  Everything was gone; the paintings, the sculptures, anything of value.  There were no clues, the police had no leads, the burglar had gotten away home free.
 
@@ -238,13 +238,13 @@ The driver said, "Well, I would have, but you see...  I did not have Monet for D
 
 </div>
 
-<div class="post" data-post-id="13825" data-author="*juggleblood*" data-date="2006-08-29T06:02:51+00:00">
+<div class="post" data-post-id="13825" data-author="*juggleblood*" data-date="2006-08-29T06:02:51+00:00" data-subject="">
 
 A penguin was on his way home from work when his car started sputtering and white smoke billowed out from his tailpipe. He pulled into the nearest service station and let the mechanic have a look at his car while he walked over to the Dairy Queen across the street. Needless to say the penguin made quite a mess all over his face as penguins are not very adept at eating ice cream. When he walked back over to check on his car, the mechanic looked at him and said "Ya blew a seal". To which he replied, "Naw, it's just ice cream."
 
 </div>
 
-<div class="post" data-post-id="14027" data-author="Shara" data-date="2006-09-13T23:17:57+00:00">
+<div class="post" data-post-id="14027" data-author="Shara" data-date="2006-09-13T23:17:57+00:00" data-subject="">
 
 Two olives were just hanging around in a tree (I made a punny already!) when one of them suddenly falls.
 
@@ -258,7 +258,7 @@ la la la
 
 </div>
 
-<div class="post" data-post-id="14028" data-author="Diazz_Dizazter" data-date="2006-09-14T00:14:38+00:00">
+<div class="post" data-post-id="14028" data-author="Diazz_Dizazter" data-date="2006-09-14T00:14:38+00:00" data-subject="">
 
 PUN THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 

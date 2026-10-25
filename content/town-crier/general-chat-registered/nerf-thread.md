@@ -10,7 +10,7 @@ locked: false
 post_count: 40
 ---
 
-<div class="post" data-post-id="22467" data-author="*juggleblood*" data-date="2008-02-02T22:17:05+00:00">
+<div class="post" data-post-id="22467" data-author="*juggleblood*" data-date="2008-02-02T22:17:05+00:00" data-subject="nerf thread">
 
 Since mob saving throws have improved (debuffs been nerfed), do you still think blind is worth casting in xp groups? prolly pointless for anyone but necro attuned necro imo.
 
@@ -20,7 +20,7 @@ Since Brothers in Valor has been nerfed, monk is now a much better class to go a
 
 </div>
 
-<div class="post" data-post-id="22468" data-author="Weasel" data-date="2008-02-03T00:24:57+00:00">
+<div class="post" data-post-id="22468" data-author="Weasel" data-date="2008-02-03T00:24:57+00:00" data-subject="">
 
 [img:2dkauhux]http://www.theplaymakers.com/welcome/archives/n2.jpg[/img:2dkauhux]
 
@@ -28,19 +28,19 @@ can't hurt babies or old people? ..wanna put money on that?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22471" data-author="Rynquald" data-date="2008-02-03T01:21:30+00:00">
+<div class="post" data-post-id="22471" data-author="Rynquald" data-date="2008-02-03T01:21:30+00:00" data-subject="">
 
 Blind still lands pretty well for non-necros, and the masterful rate on blind is decently high even if you can't get past the saves.
 
 </div>
 
-<div class="post" data-post-id="22489" data-author="Atwell" data-date="2008-02-03T17:27:34+00:00">
+<div class="post" data-post-id="22489" data-author="Atwell" data-date="2008-02-03T17:27:34+00:00" data-subject="">
 
 I haven't seen changes to the effectiveness of other debuffs, so I assume mob saves have not changed at a global level.  You may observe a different change -- masterful blinds vanished a few months ago.
 
 </div>
 
-<div class="post" data-post-id="22505" data-author="Rynquald" data-date="2008-02-04T04:40:27+00:00">
+<div class="post" data-post-id="22505" data-author="Rynquald" data-date="2008-02-04T04:40:27+00:00" data-subject="">
 
 masterful blinds vanished a few months ago.[/quote:1rpaa6wv]
 
@@ -48,7 +48,7 @@ Really? I thought we only lost masterful acid blinds?
 
 </div>
 
-<div class="post" data-post-id="22506" data-author="jezer" data-date="2008-02-04T06:07:23+00:00">
+<div class="post" data-post-id="22506" data-author="jezer" data-date="2008-02-04T06:07:23+00:00" data-subject="">
 
 My opinion on nerfing is that it sucks... It takes zero creativity to nerf something... why not spend the effort on actually ADDING to the game or FIXING bugs, instead of just trying to be annoying and make things harder. 
 
@@ -66,13 +66,13 @@ Be remembered as a builder not a breaker!
 
 </div>
 
-<div class="post" data-post-id="22516" data-author="13" data-date="2008-02-04T19:20:30+00:00">
+<div class="post" data-post-id="22516" data-author="13" data-date="2008-02-04T19:20:30+00:00" data-subject="">
 
 my opinion is that monk has always been better than bard to go with thief, but you know that probably.  dunno about the saves, havent had to deal with it.
 
 </div>
 
-<div class="post" data-post-id="22517" data-author="Thraxas" data-date="2008-02-04T19:25:14+00:00">
+<div class="post" data-post-id="22517" data-author="Thraxas" data-date="2008-02-04T19:25:14+00:00" data-subject="">
 
 I know this is going to sound a little like a whinge but really its not its a question ...
 
@@ -98,7 +98,7 @@ Come on throw me a bone ... give me something to look forward to ... something n
 
 </div>
 
-<div class="post" data-post-id="22519" data-author="Widow" data-date="2008-02-04T22:06:29+00:00">
+<div class="post" data-post-id="22519" data-author="Widow" data-date="2008-02-04T22:06:29+00:00" data-subject="">
 
 While I don't agree with everything Thraxas has put forward, the idea that a quad Ne can have the same pets as a Prime makes me scratch my head. It falls in line that a prime should have the advantage of diving deeper into their specialty than a tert or quad. However the current animate/summon undead spells do not reflect this like the supplication spell, damage reduction, order lag, et al have come to reflect.
 
@@ -106,7 +106,7 @@ I'm not arguing for stronger necro's, (I could, but who would listen?) but this 
 
 </div>
 
-<div class="post" data-post-id="22520" data-author="Widow" data-date="2008-02-04T22:09:55+00:00">
+<div class="post" data-post-id="22520" data-author="Widow" data-date="2008-02-04T22:09:55+00:00" data-subject="">
 
 Oh yeah, pls bring back drachm for Epics! The honor system is a nice addition to the game, however adding that extra kick of 1 drachma for your effort of grouping the entire mud in an all out battle for glory sure makes it worth while.
 
@@ -114,7 +114,7 @@ $.02
 
 </div>
 
-<div class="post" data-post-id="22521" data-author="jezer" data-date="2008-02-04T22:40:57+00:00">
+<div class="post" data-post-id="22521" data-author="jezer" data-date="2008-02-04T22:40:57+00:00" data-subject="">
 
 Similar thing happens with one of my monks. Pick nice monk classo, get him to 3x40. Come back to the game... and his Gauntlets of Thunder had been nerfed! That was my first ever forge! And now it's worse for my character than the gloves of the yellow rose I had to buy to make it! That really sucks, when you make investments of time into characters, only to get ripped off...
 
@@ -128,7 +128,7 @@ And, and... and leave Britney Alone too!
 
 </div>
 
-<div class="post" data-post-id="22523" data-author="Weasel" data-date="2008-02-04T23:02:55+00:00">
+<div class="post" data-post-id="22523" data-author="Weasel" data-date="2008-02-04T23:02:55+00:00" data-subject="">
 
 pfft super saiyan cat - all ya need is a bucket, a tube of vaseline, a hose, a good supply of lime jello, a roll of duct tape, some polka music and a strong stomach, and that 'super saiyan cat' will be running for the hills.
 
@@ -138,7 +138,7 @@ Autolycos told me all about it.
 
 </div>
 
-<div class="post" data-post-id="22524" data-author="Rynquald" data-date="2008-02-05T01:40:08+00:00">
+<div class="post" data-post-id="22524" data-author="Rynquald" data-date="2008-02-05T01:40:08+00:00" data-subject="">
 
 I'd just like to point out here that changing more skills/spells to work like Supplication takes us further down the road to effectively becoming a single-class mud. If you could only access the best abilities of your prime class, the importance of a good classo could be pretty much replaced by simple "do I want to be a cleric or a mage" thought.
 
@@ -146,7 +146,7 @@ As for nerfs, it sucks when you get hit with one, but if the balance of power be
 
 </div>
 
-<div class="post" data-post-id="22525" data-author="Atwell" data-date="2008-02-05T01:41:37+00:00">
+<div class="post" data-post-id="22525" data-author="Atwell" data-date="2008-02-05T01:41:37+00:00" data-subject="">
 
 masterful blinds vanished a few months ago.[/quote:1by3uhdy]
 
@@ -156,7 +156,7 @@ Masterful blindnesses disappeared more recently, say in the last three months.  
 
 </div>
 
-<div class="post" data-post-id="22526" data-author="Roadrunr" data-date="2008-02-05T02:04:21+00:00">
+<div class="post" data-post-id="22526" data-author="Roadrunr" data-date="2008-02-05T02:04:21+00:00" data-subject="">
 
 While I don't agree with everything Thraxas has put forward, the idea that a quad Ne can have the same pets as a Prime makes me scratch my head. It falls in line that a prime should have the advantage of diving deeper into their specialty than a tert or quad. However the current animate/summon undead spells do not reflect this like the supplication spell, damage reduction, order lag, et al have come to reflect.
 
@@ -170,7 +170,7 @@ then again, I've only got 1 char with ne in it so what do I know, I'm just a sil
 
 </div>
 
-<div class="post" data-post-id="22527" data-author="Rynquald" data-date="2008-02-05T02:21:54+00:00">
+<div class="post" data-post-id="22527" data-author="Rynquald" data-date="2008-02-05T02:21:54+00:00" data-subject="">
 
 Masterful blindnesses disappeared more recently, say in the last three months. I haven't performed any rigorous testing, but I never see them anymore, despite their historical abundance.[/quote:2uios1fg]
 
@@ -180,7 +180,7 @@ Bleah.
 
 </div>
 
-<div class="post" data-post-id="22528" data-author="jezer" data-date="2008-02-05T03:00:30+00:00">
+<div class="post" data-post-id="22528" data-author="jezer" data-date="2008-02-05T03:00:30+00:00" data-subject="">
 
 I think the real problem is unbalanced CLASSO not CLASSES.
 
@@ -214,7 +214,7 @@ Class order is too important, it makes some classo's rule and others suck. You c
 
 </div>
 
-<div class="post" data-post-id="22529" data-author="Tap" data-date="2008-02-05T03:38:45+00:00">
+<div class="post" data-post-id="22529" data-author="Tap" data-date="2008-02-05T03:38:45+00:00" data-subject="">
 
 Then again...each class could get a prime skill at Level 1 Avatar that was equal in value to all over classes.
 
@@ -230,7 +230,7 @@ Whiners rather :twisted:
 
 </div>
 
-<div class="post" data-post-id="22533" data-author="slobe" data-date="2008-02-05T06:30:43+00:00">
+<div class="post" data-post-id="22533" data-author="slobe" data-date="2008-02-05T06:30:43+00:00" data-subject="">
 
 This is in response thraxas and what he said.
 
@@ -250,13 +250,13 @@ Just maybe its yours skillz.
 
 </div>
 
-<div class="post" data-post-id="22535" data-author="*juggleblood*" data-date="2008-02-05T08:16:03+00:00">
+<div class="post" data-post-id="22535" data-author="*juggleblood*" data-date="2008-02-05T08:16:03+00:00" data-subject="">
 
 Atwell I am still very suspicious that blind success seems now to depend on some unknown independent variable (species or mob level?). Join in on a bh xp group going thru the Matterhorn and see if you don't notice it as well. I'm willing as ever to concede confirmation bias.
 
 </div>
 
-<div class="post" data-post-id="22538" data-author="Tap" data-date="2008-02-05T15:32:53+00:00">
+<div class="post" data-post-id="22538" data-author="Tap" data-date="2008-02-05T15:32:53+00:00" data-subject="">
 
 This is a response to Slobe who was responding to Thraxas who was responding to the thread.  I don't know much about ju-ju's I admit, but I see very little ingame. Perhaps because they die too easy and they are a pain to mass-produce. Your right, the newer classes are more specialized and possibly best for someone who has been here awhile to pick up the basics. Myself, thieves kick ass.Nothing beats a successful triple-backstab circle thrust circle thrust thurst thrust circle and release.Shrug.
 
@@ -264,7 +264,7 @@ ps- How do you handle scrolling on a phone? Do you gag everything?
 
 </div>
 
-<div class="post" data-post-id="22539" data-author="alias" data-date="2008-02-05T15:33:56+00:00">
+<div class="post" data-post-id="22539" data-author="alias" data-date="2008-02-05T15:33:56+00:00" data-subject="">
 
 I have no problem w/ necro quad getting swordwraiths like someday I  will when I finally level my prime class to 5x40. In doing so I want valk, pitfiend, ect,and Juju isnt all that good. juju is basically a demilich that u need 16 corpses for instead of one. Yes he stays alive and doesn't crumble after 10 ticks that is about his only bonus.
 
@@ -278,7 +278,7 @@ Alias/Pooka
 
 </div>
 
-<div class="post" data-post-id="22540" data-author="Thraxas" data-date="2008-02-05T15:57:21+00:00">
+<div class="post" data-post-id="22540" data-author="Thraxas" data-date="2008-02-05T15:57:21+00:00" data-subject="">
 
 To sum it all up maybe its not any nerf that makes your necro hard to play maybe
 
@@ -296,7 +296,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="22542" data-author="Leaf" data-date="2008-02-05T16:18:06+00:00">
+<div class="post" data-post-id="22542" data-author="Leaf" data-date="2008-02-05T16:18:06+00:00" data-subject="">
 
 +2 Thraxas
 
@@ -304,7 +304,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="22543" data-author="Leaf" data-date="2008-02-05T16:20:56+00:00">
+<div class="post" data-post-id="22543" data-author="Leaf" data-date="2008-02-05T16:20:56+00:00" data-subject="">
 
 I would also like to agree with Alias that Necros need something more from
 
@@ -314,7 +314,7 @@ for Wraiths to 4 instead of 3, they alot better then phantoms or banshees.
 
 </div>
 
-<div class="post" data-post-id="22544" data-author="Toxis" data-date="2008-02-05T16:45:36+00:00">
+<div class="post" data-post-id="22544" data-author="Toxis" data-date="2008-02-05T16:45:36+00:00" data-subject="">
 
 Is a pit fiend really that much more powerful than a Ju-Ju?
 
@@ -332,13 +332,13 @@ Oh yeah, death pact sucks.
 
 </div>
 
-<div class="post" data-post-id="22545" data-author="alias" data-date="2008-02-05T17:10:19+00:00">
+<div class="post" data-post-id="22545" data-author="alias" data-date="2008-02-05T17:10:19+00:00" data-subject="">
 
 correct me if I'm wrong but phantoms and banshees used to be eth, since they are not anymore they don't live very long.
 
 </div>
 
-<div class="post" data-post-id="22546" data-author="strider" data-date="2008-02-05T17:35:59+00:00">
+<div class="post" data-post-id="22546" data-author="strider" data-date="2008-02-05T17:35:59+00:00" data-subject="">
 
 yes necros have been nerfed all to hell, but they needed to be. they were ridiculously powerful at the start and they still are one of the most powerful classes. i doubt much more will be changed about them anytime soon whether by addition or subtraction. 
 
@@ -350,13 +350,13 @@ granted it's been a long time since i had to lvl a necro prime up and things hav
 
 </div>
 
-<div class="post" data-post-id="22547" data-author="Leaf" data-date="2008-02-05T17:59:36+00:00">
+<div class="post" data-post-id="22547" data-author="Leaf" data-date="2008-02-05T17:59:36+00:00" data-subject="">
 
 Does Heck means Cleric and Monks?!?!
 
 </div>
 
-<div class="post" data-post-id="22548" data-author="alias" data-date="2008-02-05T18:15:54+00:00">
+<div class="post" data-post-id="22548" data-author="alias" data-date="2008-02-05T18:15:54+00:00" data-subject="">
 
 Mandos your juju is a bokor, there is a hell of a big difference between that and a viscous.  this is full uc notice the small difference between juju and demi and the demis hit harder, both cast, weaken ect.
 
@@ -376,13 +376,13 @@ While the ac nerf hurt a lot of people I cant say it hurt me, so don't think thi
 
 </div>
 
-<div class="post" data-post-id="22549" data-author="Leaf" data-date="2008-02-05T18:21:07+00:00">
+<div class="post" data-post-id="22549" data-author="Leaf" data-date="2008-02-05T18:21:07+00:00" data-subject="">
 
 I thought max ac for non-Warrior prime = -11?  Was this changed?
 
 </div>
 
-<div class="post" data-post-id="22550" data-author="slobe" data-date="2008-02-05T20:11:55+00:00">
+<div class="post" data-post-id="22550" data-author="slobe" data-date="2008-02-05T20:11:55+00:00" data-subject="">
 
 Ok first I'm not overly proud of my cell, in fact it makes me sad to have to play on it. Second you said something about botting, laff you cant bot from a cellphone just lagg :p. Third YOU didnt read my post correct, I was agreeing ac nerf did hurt (even if I didnt say it) but necros even with -10 and no blast are very playable imo. 
 
@@ -394,7 +394,7 @@ When life throws you a bone make soup :)
 
 </div>
 
-<div class="post" data-post-id="22552" data-author="jezer" data-date="2008-02-05T22:53:12+00:00">
+<div class="post" data-post-id="22552" data-author="jezer" data-date="2008-02-05T22:53:12+00:00" data-subject="">
 
 I don't understand how elite druids can supposedly solo bigger elite mobs? Check out the stats on these pets!
 
@@ -414,7 +414,7 @@ At < lvl 38 druid I was about to give up.... Could it be that nerfed necro's are
 
 </div>
 
-<div class="post" data-post-id="22553" data-author="jezer" data-date="2008-02-05T23:10:13+00:00">
+<div class="post" data-post-id="22553" data-author="jezer" data-date="2008-02-05T23:10:13+00:00" data-subject="">
 
 Last night Assirian said that he plays cleric because he knows he won't get nerfed...  :twisted: 
 
@@ -426,7 +426,7 @@ Like I stated, I had Gauntlets of Thunder at -0.2 ac + 5 hand dam. Now they got 
 
 </div>
 
-<div class="post" data-post-id="22554" data-author="*juggleblood*" data-date="2008-02-05T23:23:50+00:00">
+<div class="post" data-post-id="22554" data-author="*juggleblood*" data-date="2008-02-05T23:23:50+00:00" data-subject="">
 
 Sorry if I offended you with the skillz thing I have no tact muahahaha.
 
@@ -436,7 +436,7 @@ she made soup out of you
 
 </div>
 
-<div class="post" data-post-id="22555" data-author="van" data-date="2008-02-05T23:32:26+00:00">
+<div class="post" data-post-id="22555" data-author="van" data-date="2008-02-05T23:32:26+00:00" data-subject="">
 
 Just a couple thoughts....
 
@@ -452,7 +452,7 @@ Van
 
 </div>
 
-<div class="post" data-post-id="22556" data-author="Tap" data-date="2008-02-05T23:49:25+00:00">
+<div class="post" data-post-id="22556" data-author="Tap" data-date="2008-02-05T23:49:25+00:00" data-subject="">
 
 I'll bid you all a fond adieu for a period of time ranging from 2 months to 20 years. Great playing with you all!
 
@@ -462,7 +462,7 @@ Out of gas? :(
 
 </div>
 
-<div class="post" data-post-id="22557" data-author="Roadrunr" data-date="2008-02-05T23:51:31+00:00">
+<div class="post" data-post-id="22557" data-author="Roadrunr" data-date="2008-02-05T23:51:31+00:00" data-subject="">
 
 so when my wa/ne hits 40 necro he'll be able to summon/animate whatever is listed at 2x40?  cuz right now, necro kinda sucks for him.
 
@@ -470,7 +470,7 @@ so when my wa/ne hits 40 necro he'll be able to summon/animate whatever is liste
 
 </div>
 
-<div class="post" data-post-id="22559" data-author="van" data-date="2008-02-06T00:07:47+00:00">
+<div class="post" data-post-id="22559" data-author="van" data-date="2008-02-06T00:07:47+00:00" data-subject="">
 
 Out of gas? :([/quote:1jw4qqfk]
 
@@ -478,7 +478,7 @@ Sugar in my gas tank, actually.
 
 </div>
 
-<div class="post" data-post-id="22561" data-author="Leaf" data-date="2008-02-06T02:19:08+00:00">
+<div class="post" data-post-id="22561" data-author="Leaf" data-date="2008-02-06T02:19:08+00:00" data-subject="">
 
 That sugar = a woman i bet!
 

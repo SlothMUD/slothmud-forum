@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="6967" data-author="Taki" data-date="2005-06-09T07:38:02+00:00">
+<div class="post" data-post-id="6967" data-author="Taki" data-date="2005-06-09T07:38:02+00:00" data-subject="HI all! Rolling...rolling...rolling needed!">
 
 Hello all! I'm new to this MUD, played some others in the last 5 years, but I can say at a first glance I am quite happy of having found SlothMud.
 
@@ -26,7 +26,7 @@ Taki
 
 </div>
 
-<div class="post" data-post-id="6971" data-author="Avatar" data-date="2005-06-09T10:03:18+00:00">
+<div class="post" data-post-id="6971" data-author="Avatar" data-date="2005-06-09T10:03:18+00:00" data-subject="Welcome">
 
 Good luck with those tokens!
 
@@ -34,7 +34,7 @@ I don't play much with characters that can pick up tri tokens (can't after 20th 
 
 </div>
 
-<div class="post" data-post-id="6972" data-author="12345" data-date="2005-06-09T10:23:55+00:00">
+<div class="post" data-post-id="6972" data-author="12345" data-date="2005-06-09T10:23:55+00:00" data-subject="">
 
 Howdy.  You'll find tokens are a pretty hot topic.  Known/common pops are cycled fairly regular.  The Russians are a little more organized and have a helpful page that can help you track down some tokens:
 

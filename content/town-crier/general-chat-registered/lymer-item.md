@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29577" data-author="sirrico1" data-date="2009-06-25T00:29:21+00:00">
+<div class="post" data-post-id="29577" data-author="sirrico1" data-date="2009-06-25T00:29:21+00:00" data-subject="lymer item">
 
 You recite a scroll of identify which dissolves.
 

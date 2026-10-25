@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31451" data-author="Tuck" data-date="2010-08-11T15:45:23+00:00">
+<div class="post" data-post-id="31451" data-author="Tuck" data-date="2010-08-11T15:45:23+00:00" data-subject="Graygem shard forge broken?">
 
 inv
 
@@ -47,7 +47,7 @@ p.s. and yeah, it was night, so lily didn't crumble.
 
 </div>
 
-<div class="post" data-post-id="31454" data-author="*Isabo*" data-date="2010-08-11T18:55:03+00:00">
+<div class="post" data-post-id="31454" data-author="*Isabo*" data-date="2010-08-11T18:55:03+00:00" data-subject="Re: Graygem shard forge broken?">
 
 Good evening, mage.
 
@@ -80,7 +80,7 @@ Pd. *cough*
 
 </div>
 
-<div class="post" data-post-id="31457" data-author="Tuck" data-date="2010-08-11T21:47:23+00:00">
+<div class="post" data-post-id="31457" data-author="Tuck" data-date="2010-08-11T21:47:23+00:00" data-subject="Re: Graygem shard forge broken?">
 
 blah, that was worst fuckup ever :)
 

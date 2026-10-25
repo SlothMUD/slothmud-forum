@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="11016" data-author="brady" data-date="2006-03-03T04:41:47+00:00">
+<div class="post" data-post-id="11016" data-author="brady" data-date="2006-03-03T04:41:47+00:00" data-subject="Oh crap.">
 
 Reality places Rogue's Dagger in the back of the provisioner, resulting in some strange noises and some blood!
 
@@ -40,7 +40,7 @@ A vicious Ju-Ju Zombie starts moaning.
 
 </div>
 
-<div class="post" data-post-id="11017" data-author="Leaf" data-date="2006-03-03T04:50:03+00:00">
+<div class="post" data-post-id="11017" data-author="Leaf" data-date="2006-03-03T04:50:03+00:00" data-subject="">
 
 I kinda liked the fact the that JuJu moaned after death :)
 

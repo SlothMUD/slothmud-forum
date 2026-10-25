@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10555" data-author="*juggleblood*" data-date="2006-02-04T01:17:05+00:00">
+<div class="post" data-post-id="10555" data-author="*juggleblood*" data-date="2006-02-04T01:17:05+00:00" data-subject="XP Cap and Dam/Heal XP Tracker --.NET">
 
 This is kind of strange the way I set this up. I'd like to see anyone else's scripts that are similar. It figures out if you capped or not and by how much. And it also figures out how much xp you got above and beyond your share of the mob xp for hacking, blasting, or healing.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31061" data-author="*Splork*" data-date="2010-04-17T13:05:26+00:00">
+<div class="post" data-post-id="31061" data-author="*Splork*" data-date="2010-04-17T13:05:26+00:00" data-subject="bug fixes, etc">
 
 Please keep entering bugs into the bugs list, help bugs. We usually have lists like the one below on a weekly basis, however I normally forget to post them:( 
 

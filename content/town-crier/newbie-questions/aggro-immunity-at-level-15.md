@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36211" data-author="Yasik" data-date="2015-11-27T11:32:51+00:00">
+<div class="post" data-post-id="36211" data-author="Yasik" data-date="2015-11-27T11:32:51+00:00" data-subject="Aggro immunity at level 15">
 
 Is it level 14 or 15, or total levels now? Or is it broken?
 
@@ -150,13 +150,13 @@ You are affected by the following spells:
 
 </div>
 
-<div class="post" data-post-id="36215" data-author="Marvel" data-date="2015-11-28T13:13:30+00:00">
+<div class="post" data-post-id="36215" data-author="Marvel" data-date="2015-11-28T13:13:30+00:00" data-subject="Re: Aggro immunity at level 15">
 
 It was changed to total levels. I don't recall exact sum, but it is pretty low now.
 
 </div>
 
-<div class="post" data-post-id="36217" data-author="*teker*" data-date="2015-11-28T20:29:28+00:00">
+<div class="post" data-post-id="36217" data-author="*teker*" data-date="2015-11-28T20:29:28+00:00" data-subject="Re: Aggro immunity at level 15">
 
 I'm pretty sure this was changed to the same 15/10/5/1 levels as the hometown command.  This was done due to players taking advantage of the system with 15/20/20/20 characters.
 

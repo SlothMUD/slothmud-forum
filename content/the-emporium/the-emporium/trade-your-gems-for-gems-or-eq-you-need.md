@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38052" data-author="Teron" data-date="2017-02-10T09:21:44+00:00">
+<div class="post" data-post-id="38052" data-author="Teron" data-date="2017-02-10T09:21:44+00:00" data-subject="Trade your gems for gems or eq you need">
 
 If you have
 

@@ -10,19 +10,19 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="36026" data-author="*teker*" data-date="2015-08-11T15:23:47+00:00">
+<div class="post" data-post-id="36026" data-author="*teker*" data-date="2015-08-11T15:23:47+00:00" data-subject="Changelog 2015-08-11">
 
 There's a kink in shapeshift after the changes.  I'm trying to track it down.  We've disabled the command for now.
 
 </div>
 
-<div class="post" data-post-id="36027" data-author="Dragoth" data-date="2015-08-11T20:40:03+00:00">
+<div class="post" data-post-id="36027" data-author="Dragoth" data-date="2015-08-11T20:40:03+00:00" data-subject="Re: Changelog 2015-08-11">
 
 For what its worth, me and a few other people have noticed that with shapeshifting disabled the game is now much more responsive (less input lagg) and feels pretty swift
 
 </div>
 
-<div class="post" data-post-id="36028" data-author="*teker*" data-date="2015-08-12T02:05:08+00:00">
+<div class="post" data-post-id="36028" data-author="*teker*" data-date="2015-08-12T02:05:08+00:00" data-subject="Re: Changelog 2015-08-11">
 
 I think it's likely that something else is/was broken that is causing the speed-up but no-one has noticed the bug side of it.  I'm hoping the big guys will reboot again in the morning - I have shapeshift fixed along with being able to use the skills again.
 
@@ -36,7 +36,7 @@ The ! (repeat) function has been modified so that you can repeat auction command
 
 </div>
 
-<div class="post" data-post-id="36029" data-author="*Breeze*" data-date="2015-08-12T08:48:38+00:00">
+<div class="post" data-post-id="36029" data-author="*Breeze*" data-date="2015-08-12T08:48:38+00:00" data-subject="Re: Changelog 2015-08-11">
 
 pulled code over..
 
@@ -46,19 +46,19 @@ reboot at 0930 mudtime
 
 </div>
 
-<div class="post" data-post-id="36030" data-author="*teker*" data-date="2015-08-12T14:17:42+00:00">
+<div class="post" data-post-id="36030" data-author="*teker*" data-date="2015-08-12T14:17:42+00:00" data-subject="Re: Changelog 2015-08-11">
 
 Game is back up with full shapeshifting ability restored.
 
 </div>
 
-<div class="post" data-post-id="36045" data-author="*teker*" data-date="2015-08-18T00:46:09+00:00">
+<div class="post" data-post-id="36045" data-author="*teker*" data-date="2015-08-18T00:46:09+00:00" data-subject="Re: Changelog 2015-08-11">
 
 We went through and fixed a bunch of broken procs today.  Some of the mobs were complaining about broken brains while others were running with bad parameters.  A lot of them were in rampage procs so if you know a mob that rampages, it may have changed today.
 
 </div>
 
-<div class="post" data-post-id="36048" data-author="*Breeze*" data-date="2015-08-19T02:57:22+00:00">
+<div class="post" data-post-id="36048" data-author="*Breeze*" data-date="2015-08-19T02:57:22+00:00" data-subject="Changelog 2015-08-19">
 
 Moved the portal fix/change from Teker to live machine. (see portals bug thread here <LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 13&p=36046">http://www.slothmud.org/forum/viewtopic.php?f=7&t=4513&p=36046</LINK_TEXT> )
 
@@ -68,7 +68,7 @@ Innkeepers (and void fairy) shouldn't charge rent for the first hour after reboo
 
 </div>
 
-<div class="post" data-post-id="36055" data-author="*Breeze*" data-date="2015-08-21T20:16:57+00:00">
+<div class="post" data-post-id="36055" data-author="*Breeze*" data-date="2015-08-21T20:16:57+00:00" data-subject="Changelog 2015-08-21 [Breeze]">
 
 we are working on fixing game/website data sharing so you may be unable to login to the website if your password was manually changed by me at your request, at any point.  however any passwords set with the wwwpass command before Aug 20th should work now.
 
@@ -78,13 +78,13 @@ the live blog is about a day or so behind but will start to update again wheneve
 
 </div>
 
-<div class="post" data-post-id="36056" data-author="Dragoth" data-date="2015-08-22T11:16:58+00:00">
+<div class="post" data-post-id="36056" data-author="Dragoth" data-date="2015-08-22T11:16:58+00:00" data-subject="Re: Changelog 2015-08-11">
 
 just a fyi - As soon as shapeshifting got enabled the game returned to its usual slothness.
 
 </div>
 
-<div class="post" data-post-id="36062" data-author="Dragoth" data-date="2015-08-24T17:29:57+00:00">
+<div class="post" data-post-id="36062" data-author="Dragoth" data-date="2015-08-24T17:29:57+00:00" data-subject="Re: Changelog 2015-08-11">
 
 Gotten a bit quicker after the last 2 reboots. 
 

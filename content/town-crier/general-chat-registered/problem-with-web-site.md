@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="13654" data-author="banedon" data-date="2006-08-01T17:23:35+00:00">
+<div class="post" data-post-id="13654" data-author="banedon" data-date="2006-08-01T17:23:35+00:00" data-subject="problem with web site">
 
 I am trying to update some of my information, Yahoo IM, location, etc. 
 
@@ -20,7 +20,7 @@ Banedon
 
 </div>
 
-<div class="post" data-post-id="13658" data-author="Clink" data-date="2006-08-01T21:05:29+00:00">
+<div class="post" data-post-id="13658" data-author="Clink" data-date="2006-08-01T21:05:29+00:00" data-subject="">
 
 You most likely aren't doing something dumb.   clink on the slothmud.org is domain is the address to which an email should be sent.  please send a detailed description of the existing values and what you are trying to enter as well as the URL which appears before and after you press the submit button.
 

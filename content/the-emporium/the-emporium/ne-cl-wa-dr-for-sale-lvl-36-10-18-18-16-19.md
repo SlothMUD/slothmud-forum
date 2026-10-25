@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="10260" data-author="Grue" data-date="2006-01-21T16:15:08+00:00">
+<div class="post" data-post-id="10260" data-author="Grue" data-date="2006-01-21T16:15:08+00:00" data-subject="Ne/Cl/Wa/Dr for sale - Lvl 36 10 18 18 16 19">
 
 Harq is under new ownership  (level: 36)
 
@@ -54,7 +54,7 @@ You are affected by the following spells:
 
 </div>
 
-<div class="post" data-post-id="10261" data-author="Grue" data-date="2006-01-21T16:15:37+00:00">
+<div class="post" data-post-id="10261" data-author="Grue" data-date="2006-01-21T16:15:37+00:00" data-subject="">
 
 Fatfingered - I paid 5 :)
 

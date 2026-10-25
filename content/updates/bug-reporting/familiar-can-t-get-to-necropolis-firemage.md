@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="11086" data-author="bubba" data-date="2006-03-07T18:07:19+00:00">
+<div class="post" data-post-id="11086" data-author="bubba" data-date="2006-03-07T18:07:19+00:00" data-subject="familiar can&#x27;t get to necropolis firemage">
 
 Not sure if this is a bug or what but I croaked at the firemage in the necropolis.  So I got a lyme duck for a familiar and went back to get my corpse.  When I ordered the familiar to 'pry coffin' to get in to the firemage's room here is what I saw:
 
@@ -28,7 +28,7 @@ and the duck was still in the room above the firemage.
 
 </div>
 
-<div class="post" data-post-id="11091" data-author="brady" data-date="2006-03-08T05:06:19+00:00">
+<div class="post" data-post-id="11091" data-author="brady" data-date="2006-03-08T05:06:19+00:00" data-subject="">
 
 yer doing it wrong...
 

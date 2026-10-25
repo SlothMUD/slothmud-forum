@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29738" data-author="Choong" data-date="2009-07-30T04:26:47+00:00">
+<div class="post" data-post-id="29738" data-author="Choong" data-date="2009-07-30T04:26:47+00:00" data-subject="Plato I got your corpse">
 
 My home proxy server hang in the midst of it and I'm trying to figure out how to tunnel out of my firewall by other means. Really sorry about that
 

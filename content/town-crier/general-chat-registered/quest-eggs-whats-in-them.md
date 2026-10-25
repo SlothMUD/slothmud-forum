@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="14038" data-author="brand" data-date="2006-09-14T22:18:55+00:00">
+<div class="post" data-post-id="14038" data-author="brand" data-date="2006-09-14T22:18:55+00:00" data-subject="quest eggs! whats in them?">
 
 so i cracked an egg today and got 1 drach, thats a first.
 
@@ -28,7 +28,7 @@ can you get gold in an egg?
 
 </div>
 
-<div class="post" data-post-id="14039" data-author="Diazz_Dizazter" data-date="2006-09-14T22:32:34+00:00">
+<div class="post" data-post-id="14039" data-author="Diazz_Dizazter" data-date="2006-09-14T22:32:34+00:00" data-subject="">
 
 [quote:3cy1ajth]
 
@@ -50,13 +50,13 @@ Ive heard of people getting up to 500k in an egg.
 
 </div>
 
-<div class="post" data-post-id="14042" data-author="Krok" data-date="2006-09-14T22:53:56+00:00">
+<div class="post" data-post-id="14042" data-author="Krok" data-date="2006-09-14T22:53:56+00:00" data-subject="">
 
 I think that's 1,5,25,50 drachma, hexes/octas, nice sbs, gold, sometimes questish eq (for some holidays or other occasions).
 
 </div>
 
-<div class="post" data-post-id="14058" data-author="Weasel" data-date="2006-09-15T18:20:49+00:00">
+<div class="post" data-post-id="14058" data-author="Weasel" data-date="2006-09-15T18:20:49+00:00" data-subject="">
 
 Scored a polished silver spellbook (hermetic resonance) from an egg that loaded on Forge in Oly - thanks for the help killing :)
 

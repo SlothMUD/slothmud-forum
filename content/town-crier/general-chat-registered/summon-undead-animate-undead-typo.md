@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29106" data-author="Guinex" data-date="2009-05-07T14:33:44+00:00">
+<div class="post" data-post-id="29106" data-author="Guinex" data-date="2009-05-07T14:33:44+00:00" data-subject="Summon undead/Animate Undead (typo)">
 
 Both of these spells consume mana upon a typo.
 

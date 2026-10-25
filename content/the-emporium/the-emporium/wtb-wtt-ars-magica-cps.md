@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="3558" data-author="Choong" data-date="2004-12-28T05:57:57+00:00">
+<div class="post" data-post-id="3558" data-author="Choong" data-date="2004-12-28T05:57:57+00:00" data-subject="WTB/WTT ars magica cps">
 
 I'm looking for the following ars cps
 
@@ -26,7 +26,7 @@ Choong
 
 </div>
 
-<div class="post" data-post-id="3560" data-author="Gnu" data-date="2004-12-28T11:36:45+00:00">
+<div class="post" data-post-id="3560" data-author="Gnu" data-date="2004-12-28T11:36:45+00:00" data-subject="">
 
 I am looking for the group to cycle eternal flame in Hellwell... it may be a AH eq group, Metatron will be yours :)
 

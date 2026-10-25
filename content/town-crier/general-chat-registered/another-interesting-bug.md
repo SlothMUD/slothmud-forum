@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="34101" data-author="Dragoth" data-date="2013-02-28T09:19:46+00:00">
+<div class="post" data-post-id="34101" data-author="Dragoth" data-date="2013-02-28T09:19:46+00:00" data-subject="Another interesting bug">
 
 Cant seem to get anything out of my robe for some reason ??
 
@@ -80,7 +80,7 @@ a keg of icybrau
 
 </div>
 
-<div class="post" data-post-id="34102" data-author="Dragoth" data-date="2013-02-28T09:25:22+00:00">
+<div class="post" data-post-id="34102" data-author="Dragoth" data-date="2013-02-28T09:25:22+00:00" data-subject="Re: Another interesting bug">
 
 Ok it seems that its not limited to my robe now
 
@@ -142,7 +142,7 @@ a flawed glowing gem..It has a soft glowing aura!
 
 </div>
 
-<div class="post" data-post-id="34103" data-author="Dragoth" data-date="2013-02-28T09:29:15+00:00">
+<div class="post" data-post-id="34103" data-author="Dragoth" data-date="2013-02-28T09:29:15+00:00" data-subject="Re: Another interesting bug">
 
 <850hp 834ma 336mv> A pile of plundered gold explodes and gold rains from the sky!
 
@@ -150,7 +150,7 @@ Thanks to Alris for explaining, anywhere that there is a plunder on the ground, 
 
 </div>
 
-<div class="post" data-post-id="34104" data-author="*juggleblood*" data-date="2013-02-28T11:53:57+00:00">
+<div class="post" data-post-id="34104" data-author="*juggleblood*" data-date="2013-02-28T11:53:57+00:00" data-subject="Re: Another interesting bug">
 
 Fixed. Was a proc error. Thx.
 

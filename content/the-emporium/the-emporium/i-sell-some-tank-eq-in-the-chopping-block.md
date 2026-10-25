@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2415" data-author="Leizu" data-date="2004-10-22T14:36:43+00:00">
+<div class="post" data-post-id="2415" data-author="Leizu" data-date="2004-10-22T14:36:43+00:00" data-subject="I sell some tank eq in the chopping block.">
 
 Just wanted to say I reserve the right to remove any thing from there if someone offer me trades.
 

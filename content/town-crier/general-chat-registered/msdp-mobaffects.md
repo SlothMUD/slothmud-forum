@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="38650" data-author="Gorka" data-date="2018-01-30T18:32:02+00:00">
+<div class="post" data-post-id="38650" data-author="Gorka" data-date="2018-01-30T18:32:02+00:00" data-subject="MSDP.MobAffects">
 
 After loosing at least 1b xp today, trying to load Ryzen... I wondered if the imms might consider an MSDP variable that will list the affects players have casted onto the engaged mob. I tried setting timers and making warnings, but tracking the blind dropping on Ryzen turned out to be a major issue. It appears that one tick acid blind had some sort of variability to it that wasn't exact. It was impossible for me to tell if it was up or down... well, when it was down... I was dead... but you get what I mean. It would not only be useful for blind, but any spell a player puts on a mob.
 
@@ -60,7 +60,7 @@ Lie still; you are DEAD!!! :-(
 
 </div>
 
-<div class="post" data-post-id="38651" data-author="*teker*" data-date="2018-01-30T20:01:32+00:00">
+<div class="post" data-post-id="38651" data-author="*teker*" data-date="2018-01-30T20:01:32+00:00" data-subject="Re: MSDP.MobAffects">
 
 OPPONENT.STATUS has this.  It is a comma separated list of debuffs and other items.  If there are none, the value is "Ok".  I have non-perfected code in mudlet that looks at changes to this value and prints out things like "Mob no longer blind".  But you have to be fighting the mob - you can't just walk into rooms and get the values on the mobs there.
 
@@ -70,7 +70,7 @@ Blind,Bound,Cursed,Deaf,Drowning,Grappled,Paralyzed,Petrified,Silenced,Webbed
 
 </div>
 
-<div class="post" data-post-id="38652" data-author="Gorka" data-date="2018-01-31T06:48:59+00:00">
+<div class="post" data-post-id="38652" data-author="Gorka" data-date="2018-01-31T06:48:59+00:00" data-subject="Re: MSDP.MobAffects">
 
 Well that's a good start isn't it. Wasn't aware of that variable. I've added it to my scripts, thanks. Having the timers would be premium in the future, but I understand...
 
@@ -78,7 +78,7 @@ I wondered what the effect of "disintegrate" was on a mob, is it possible to tel
 
 </div>
 
-<div class="post" data-post-id="38653" data-author="Ker" data-date="2018-01-31T08:11:33+00:00">
+<div class="post" data-post-id="38653" data-author="Ker" data-date="2018-01-31T08:11:33+00:00" data-subject="Re: MSDP.MobAffects">
 
 G'day,
 
@@ -96,7 +96,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="38654" data-author="Gorka" data-date="2018-01-31T11:19:23+00:00">
+<div class="post" data-post-id="38654" data-author="Gorka" data-date="2018-01-31T11:19:23+00:00" data-subject="Re: MSDP.MobAffects">
 
 I'm tired of your increasingly public demonisation of me Mage. You've miss represented my comments in a way unintended, then sort to label me in line with your misrepresentation and complain about my attitude. Even now when I seek to put the record straight, I fear the only thing you will see is another opportunity to further demonize me from these comments. Why are you being like this? What have I done to you? I'm sorry.
 
@@ -106,7 +106,7 @@ You're just totally out of line, and I don't understand your bias to demonize me
 
 </div>
 
-<div class="post" data-post-id="38655" data-author="Ker" data-date="2018-01-31T12:59:22+00:00">
+<div class="post" data-post-id="38655" data-author="Ker" data-date="2018-01-31T12:59:22+00:00" data-subject="Re: MSDP.MobAffects">
 
 Kindly enlighten me.
 
@@ -126,7 +126,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="38656" data-author="*teker*" data-date="2018-01-31T16:54:54+00:00">
+<div class="post" data-post-id="38656" data-author="*teker*" data-date="2018-01-31T16:54:54+00:00" data-subject="Re: MSDP.MobAffects">
 
 Disintegrate affects constitution - what should I call that?  Chill touch affects strength which I can call "weakened".
 
@@ -134,7 +134,7 @@ I should have also mentioned that the structure within GROUP2 contains a STATUS 
 
 </div>
 
-<div class="post" data-post-id="38657" data-author="Gorka" data-date="2018-01-31T17:54:11+00:00">
+<div class="post" data-post-id="38657" data-author="Gorka" data-date="2018-01-31T17:54:11+00:00" data-subject="Re: MSDP.MobAffects">
 
 How about ailing... or these other ideas...
 
@@ -148,13 +148,13 @@ If it's minus Con, how about constipated...  :shock:  :twisted:
 
 </div>
 
-<div class="post" data-post-id="38659" data-author="Gorka" data-date="2018-02-01T07:11:10+00:00">
+<div class="post" data-post-id="38659" data-author="Gorka" data-date="2018-02-01T07:11:10+00:00" data-subject="Re: MSDP.MobAffects">
 
 Hey Teker, just realised Faerie Fire is missing and might be useful to add if it's easy.
 
 </div>
 
-<div class="post" data-post-id="38663" data-author="*teker*" data-date="2018-02-03T21:15:27+00:00">
+<div class="post" data-post-id="38663" data-author="*teker*" data-date="2018-02-03T21:15:27+00:00" data-subject="Re: MSDP.MobAffects">
 
 Ok, I've added some and changed others to match the spell name:
 

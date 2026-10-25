@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="33142" data-author="*Krom*" data-date="2012-01-22T19:29:15+00:00">
+<div class="post" data-post-id="33142" data-author="*Krom*" data-date="2012-01-22T19:29:15+00:00" data-subject="Some Rune/Other Changes/Cap changes">
 
 We made some adjustments as follows:
 
@@ -30,7 +30,7 @@ I think that is all for now...we will get the eq list updated as soon as possibl
 
 </div>
 
-<div class="post" data-post-id="34166" data-author="Tuck" data-date="2013-03-20T05:09:35+00:00">
+<div class="post" data-post-id="34166" data-author="Tuck" data-date="2013-03-20T05:09:35+00:00" data-subject="Re: Some Rune/Other Changes/Cap changes">
 
 nothing, that affects mages? or it's just kept privately?
 
@@ -38,7 +38,7 @@ Thanks for you answer.
 
 </div>
 
-<div class="post" data-post-id="34167" data-author="*Splork*" data-date="2013-03-20T08:49:42+00:00">
+<div class="post" data-post-id="34167" data-author="*Splork*" data-date="2013-03-20T08:49:42+00:00" data-subject="Re: Some Rune/Other Changes/Cap changes">
 
 Cap changes are not in-game yet but when they are yes, spell dam caps were increased also.
 

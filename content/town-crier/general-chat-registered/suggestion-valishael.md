@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34382" data-author="Nyx" data-date="2013-08-14T00:20:39+00:00">
+<div class="post" data-post-id="34382" data-author="Nyx" data-date="2013-08-14T00:20:39+00:00" data-subject="Suggestion: Valishael">
 
 Valishael appears to be the only shopkeeper who will not say anything when he's out of coins. When he is, and you try to sell an item, he just returns a blank line. 
 
@@ -22,7 +22,7 @@ Kthxloveyourwork.
 
 </div>
 
-<div class="post" data-post-id="34385" data-author="*juggleblood*" data-date="2013-08-14T11:43:53+00:00">
+<div class="post" data-post-id="34385" data-author="*juggleblood*" data-date="2013-08-14T11:43:53+00:00" data-subject="Re: Suggestion: Valishael">
 
 Done.
 

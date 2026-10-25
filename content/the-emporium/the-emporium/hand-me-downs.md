@@ -10,13 +10,13 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="22492" data-author="bellafea" data-date="2008-02-03T19:58:30+00:00">
+<div class="post" data-post-id="22492" data-author="bellafea" data-date="2008-02-03T19:58:30+00:00" data-subject="Hand-me Downs">
 
 Looking for bard/charisma handme downs.
 
 </div>
 
-<div class="post" data-post-id="22507" data-author="jezer" data-date="2008-02-04T06:16:09+00:00">
+<div class="post" data-post-id="22507" data-author="jezer" data-date="2008-02-04T06:16:09+00:00" data-subject="">
 
 Obviously you have older siblings!  :) 
 
@@ -24,13 +24,13 @@ I'll check Jezer, I'm sure he probably has some semi soiled underwear you can ha
 
 </div>
 
-<div class="post" data-post-id="22518" data-author="bellafea" data-date="2008-02-04T20:39:35+00:00">
+<div class="post" data-post-id="22518" data-author="bellafea" data-date="2008-02-04T20:39:35+00:00" data-subject="">
 
 heh, you can keep the stained undies, i bet they have your name on them too don't they!    :lol:
 
 </div>
 
-<div class="post" data-post-id="22541" data-author="bellafea" data-date="2008-02-05T16:14:09+00:00">
+<div class="post" data-post-id="22541" data-author="bellafea" data-date="2008-02-05T16:14:09+00:00" data-subject="Something to offer ?!?">
 
 I would like +charisma items/bard items
 

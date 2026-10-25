@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="38331" data-author="Driven" data-date="2017-07-18T01:57:51+00:00">
+<div class="post" data-post-id="38331" data-author="Driven" data-date="2017-07-18T01:57:51+00:00" data-subject="Reroll Hell">
 
 I would have appreciated this before I entered reroll hell to gain some expectations / perspective on what would happen.  Others, feel free to post your roll history.  Some observations:
 
@@ -298,7 +298,7 @@ Cheers!  -driven
 
 </div>
 
-<div class="post" data-post-id="38332" data-author="Teron" data-date="2017-07-18T03:36:03+00:00">
+<div class="post" data-post-id="38332" data-author="Teron" data-date="2017-07-18T03:36:03+00:00" data-subject="Re: Reroll Hell">
 
 The only stat advice about hexes you need is that you can't rely on stats.
 
@@ -314,7 +314,7 @@ In my experience, 30 tokens is enough to get playable 74+. Stats above kind of c
 
 </div>
 
-<div class="post" data-post-id="38333" data-author="Gorka" data-date="2017-07-18T05:47:54+00:00">
+<div class="post" data-post-id="38333" data-author="Gorka" data-date="2017-07-18T05:47:54+00:00" data-subject="Re: Reroll Hell">
 
 It's important to realize that rolling dices produces non-linear results.
 
@@ -332,7 +332,7 @@ No doubt you got your stats with one of my lucky tokens, I bless all my tokens i
 
 </div>
 
-<div class="post" data-post-id="38334" data-author="Teron" data-date="2017-07-18T19:16:48+00:00">
+<div class="post" data-post-id="38334" data-author="Teron" data-date="2017-07-18T19:16:48+00:00" data-subject="Re: Reroll Hell">
 
 You are forgetting the gold cost of a stat - 10mil.
 

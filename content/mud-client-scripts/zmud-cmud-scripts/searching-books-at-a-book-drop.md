@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32573" data-author="celerra7" data-date="2011-04-29T17:51:32+00:00">
+<div class="post" data-post-id="32573" data-author="celerra7" data-date="2011-04-29T17:51:32+00:00" data-subject="Searching Books at a Book Drop">
 
 My crude attempt to search the books.  Not necessarily clean, but it is effective:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 24
 ---
 
-<div class="post" data-post-id="10874" data-author="jezer" data-date="2006-02-24T00:11:41+00:00">
+<div class="post" data-post-id="10874" data-author="jezer" data-date="2006-02-24T00:11:41+00:00" data-subject="What and Where is the Arena?">
 
 I've heard senior players talk about the "arena" and how they go in there with other players and test things. Somehow they calculate roughly how much damage there attacks are doing to mobs.
 
@@ -30,7 +30,7 @@ How about adding a further guantlet where player can fight player in exactly the
 
 </div>
 
-<div class="post" data-post-id="10876" data-author="Avatar" data-date="2006-02-24T00:15:34+00:00">
+<div class="post" data-post-id="10876" data-author="Avatar" data-date="2006-02-24T00:15:34+00:00" data-subject="arena">
 
 lol, there is exactly that, already  :)
 
@@ -40,7 +40,7 @@ There's another arena on SS, much larger.
 
 </div>
 
-<div class="post" data-post-id="10877" data-author="jezer" data-date="2006-02-24T00:21:32+00:00">
+<div class="post" data-post-id="10877" data-author="jezer" data-date="2006-02-24T00:21:32+00:00" data-subject="">
 
 Thx Avatar...
 
@@ -50,7 +50,7 @@ Do you have dirs to the one on SS?
 
 </div>
 
-<div class="post" data-post-id="10878" data-author="Krok" data-date="2006-02-24T00:46:51+00:00">
+<div class="post" data-post-id="10878" data-author="Krok" data-date="2006-02-24T00:46:51+00:00" data-subject="">
 
 [http://www.slothmud.org/eqlist/maproom.php?rnum=190](http://www.slothmud.org/eqlist/maproom.php?rnum=190)
 
@@ -58,13 +58,13 @@ omfg more 3x40 newbs.. sorry, but that's toooooo funny
 
 </div>
 
-<div class="post" data-post-id="10879" data-author="Krok" data-date="2006-02-24T00:48:07+00:00">
+<div class="post" data-post-id="10879" data-author="Krok" data-date="2006-02-24T00:48:07+00:00" data-subject="">
 
 dirs to bh arena are: from idol - all n w few n till u can go east, all e, up or smth like this
 
 </div>
 
-<div class="post" data-post-id="10880" data-author="brady" data-date="2006-02-24T00:56:16+00:00">
+<div class="post" data-post-id="10880" data-author="brady" data-date="2006-02-24T00:56:16+00:00" data-subject="">
 
 idol
 
@@ -78,31 +78,31 @@ arena
 
 </div>
 
-<div class="post" data-post-id="10881" data-author="brady" data-date="2006-02-24T00:58:37+00:00">
+<div class="post" data-post-id="10881" data-author="brady" data-date="2006-02-24T00:58:37+00:00" data-subject="">
 
 Oh, and those directions are just for the mean klurik.  All others, wear a helmet.
 
 </div>
 
-<div class="post" data-post-id="10882" data-author="Krok" data-date="2006-02-24T01:03:46+00:00">
+<div class="post" data-post-id="10882" data-author="Krok" data-date="2006-02-24T01:03:46+00:00" data-subject="">
 
 Brady, you don't even need the complicated stuff the like idol dive.. you just get beat up by the mighty quicklings! :))
 
 </div>
 
-<div class="post" data-post-id="10883" data-author="brady" data-date="2006-02-24T01:08:07+00:00">
+<div class="post" data-post-id="10883" data-author="brady" data-date="2006-02-24T01:08:07+00:00" data-subject="">
 
 Well they swarm!  I think Madmax is dead there right now :)
 
 </div>
 
-<div class="post" data-post-id="10885" data-author="Krok" data-date="2006-02-24T01:14:37+00:00">
+<div class="post" data-post-id="10885" data-author="Krok" data-date="2006-02-24T01:14:37+00:00" data-subject="">
 
 Nah, Max likes to die in Tel Makor. Scary 200-400k mobs get him all the time.
 
 </div>
 
-<div class="post" data-post-id="10887" data-author="jezer" data-date="2006-02-24T02:05:25+00:00">
+<div class="post" data-post-id="10887" data-author="jezer" data-date="2006-02-24T02:05:25+00:00" data-subject="">
 
 Getting to the questmaster in the arena on BH...
 
@@ -478,7 +478,7 @@ Oh one last thing to Krok... I hope you got the warm jolly feeling inside you cr
 
 </div>
 
-<div class="post" data-post-id="10888" data-author="Krok" data-date="2006-02-24T02:24:57+00:00">
+<div class="post" data-post-id="10888" data-author="Krok" data-date="2006-02-24T02:24:57+00:00" data-subject="">
 
 Ok, Blastem... he's a member of DoW - he can't be a pthief..
 
@@ -488,13 +488,13 @@ and yeah, i have such a feeling when the newb is high level :)
 
 </div>
 
-<div class="post" data-post-id="10889" data-author="jezer" data-date="2006-02-24T02:27:21+00:00">
+<div class="post" data-post-id="10889" data-author="jezer" data-date="2006-02-24T02:27:21+00:00" data-subject="Arena FAQS">
 
 I'm here to entertain you Krok  :P
 
 </div>
 
-<div class="post" data-post-id="10894" data-author="Avatar" data-date="2006-02-24T14:06:08+00:00">
+<div class="post" data-post-id="10894" data-author="Avatar" data-date="2006-02-24T14:06:08+00:00" data-subject="arena fight">
 
 I found a few interesting things:
 
@@ -562,7 +562,7 @@ It's good to see you had fun, player vs player isn't my favorite activity but it
 
 </div>
 
-<div class="post" data-post-id="10896" data-author="Blastem" data-date="2006-02-24T14:35:50+00:00">
+<div class="post" data-post-id="10896" data-author="Blastem" data-date="2006-02-24T14:35:50+00:00" data-subject="">
 
 [quote:5ypq1rc1]Very interesting! Blastem said he was fighting in regen... I hope for his sake he was! In one round he hit me with 3 pierces for 12hp damage![/quote:5ypq1rc1]
 
@@ -598,7 +598,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="10897" data-author="jezer" data-date="2006-02-24T15:45:54+00:00">
+<div class="post" data-post-id="10897" data-author="jezer" data-date="2006-02-24T15:45:54+00:00" data-subject="">
 
 Hmm, forgot about spell shield... also I see what Blastem is saying about trip and bash, as it about the only way to have much luck with the maimed elf, they can't do to much when knocked off there feet!
 
@@ -608,7 +608,7 @@ I'd be interested to fight a few more people, and try and fight back properly. A
 
 </div>
 
-<div class="post" data-post-id="10898" data-author="Autolycos" data-date="2006-02-24T16:25:07+00:00">
+<div class="post" data-post-id="10898" data-author="Autolycos" data-date="2006-02-24T16:25:07+00:00" data-subject="">
 
 Krok isnt the only one that laughs their ass off on a daily basis at you guys..  i mostly log in just to see wtf i can harass you all about now.. of course Rojak is the biggest noob of them all.. 
 
@@ -620,13 +620,13 @@ Cackle   :twisted:
 
 </div>
 
-<div class="post" data-post-id="10903" data-author="Krok" data-date="2006-02-24T18:38:59+00:00">
+<div class="post" data-post-id="10903" data-author="Krok" data-date="2006-02-24T18:38:59+00:00" data-subject="">
 
 nods, nothing else to do here for Auto until he gets his special triple stab to hit at least one of em :D
 
 </div>
 
-<div class="post" data-post-id="10905" data-author="Autolycos" data-date="2006-02-24T18:41:49+00:00">
+<div class="post" data-post-id="10905" data-author="Autolycos" data-date="2006-02-24T18:41:49+00:00" data-subject="">
 
 *cackle
 
@@ -634,25 +634,25 @@ now triple whiff....  that would truly be da bomb!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10920" data-author="brand" data-date="2006-02-25T08:51:58+00:00">
+<div class="post" data-post-id="10920" data-author="brand" data-date="2006-02-25T08:51:58+00:00" data-subject="">
 
 :?:  :?:  :?:  :?:  :?:  :roll:
 
 </div>
 
-<div class="post" data-post-id="10921" data-author="Krok" data-date="2006-02-25T12:16:53+00:00">
+<div class="post" data-post-id="10921" data-author="Krok" data-date="2006-02-25T12:16:53+00:00" data-subject="">
 
 Who is Brand talking to, huh? :)
 
 </div>
 
-<div class="post" data-post-id="10924" data-author="Autolycos" data-date="2006-02-25T13:45:17+00:00">
+<div class="post" data-post-id="10924" data-author="Autolycos" data-date="2006-02-25T13:45:17+00:00" data-subject="">
 
 to himself prob.. the rest of us just ignore him
 
 </div>
 
-<div class="post" data-post-id="10925" data-author="Mystery" data-date="2006-02-26T07:12:22+00:00">
+<div class="post" data-post-id="10925" data-author="Mystery" data-date="2006-02-26T07:12:22+00:00" data-subject="Auto is at it....again">
 
 Damn get that thief some new skills already....
 
@@ -660,7 +660,7 @@ Damn get that thief some new skills already....
 
 </div>
 
-<div class="post" data-post-id="10926" data-author="Autolycos" data-date="2006-02-26T14:01:26+00:00">
+<div class="post" data-post-id="10926" data-author="Autolycos" data-date="2006-02-26T14:01:26+00:00" data-subject="Silly Splork">
 
 lmfao!   thats damn funny.  :D 
 

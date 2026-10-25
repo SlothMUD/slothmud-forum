@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="25587" data-author="angel" data-date="2008-08-05T08:47:03+00:00">
+<div class="post" data-post-id="25587" data-author="angel" data-date="2008-08-05T08:47:03+00:00" data-subject="funny bunnys">
 
 Akkursed gossips-- 'someone from this mud named sunflash calling himself a pirate 
 
@@ -74,7 +74,7 @@ im so popular
 
 </div>
 
-<div class="post" data-post-id="25588" data-author="angel" data-date="2008-08-05T08:52:50+00:00">
+<div class="post" data-post-id="25588" data-author="angel" data-date="2008-08-05T08:52:50+00:00" data-subject="">
 
 Akkursed gossips-- 'our two muds are locked in mortal kombat'
 
@@ -82,7 +82,7 @@ fun fun
 
 </div>
 
-<div class="post" data-post-id="25590" data-author="Weasel" data-date="2008-08-05T10:07:13+00:00">
+<div class="post" data-post-id="25590" data-author="Weasel" data-date="2008-08-05T10:07:13+00:00" data-subject="">
 
 Seriously, "Cleft of Dimensions"? Sounds like the title to a really bad porn movie.
 
@@ -90,13 +90,13 @@ Also sounds like they're the ones trolling to get new members.. kind of reverse 
 
 </div>
 
-<div class="post" data-post-id="25594" data-author="*juggleblood*" data-date="2008-08-05T13:14:57+00:00">
+<div class="post" data-post-id="25594" data-author="*juggleblood*" data-date="2008-08-05T13:14:57+00:00" data-subject="">
 
 Could be one of our problem children trying to cause trouble. One name in particular comes to mind.
 
 </div>
 
-<div class="post" data-post-id="25595" data-author="angel" data-date="2008-08-05T13:32:58+00:00">
+<div class="post" data-post-id="25595" data-author="angel" data-date="2008-08-05T13:32:58+00:00" data-subject="">
 
 Could be one of our problem children trying to cause trouble. One name in particular comes to mind.[/quote:z80ivdf5]
 
@@ -104,25 +104,25 @@ could that be a thief yer thinking bout?:)
 
 </div>
 
-<div class="post" data-post-id="25596" data-author="13" data-date="2008-08-05T14:41:44+00:00">
+<div class="post" data-post-id="25596" data-author="13" data-date="2008-08-05T14:41:44+00:00" data-subject="">
 
 is it me or do people on other muds always seem like a pack of pretentious faggots, while we, all seem perfectly sane and reasonable?
 
 </div>
 
-<div class="post" data-post-id="25598" data-author="Weasel" data-date="2008-08-05T15:04:46+00:00">
+<div class="post" data-post-id="25598" data-author="Weasel" data-date="2008-08-05T15:04:46+00:00" data-subject="">
 
 I think it's all that role-playing bullsh*t that does it to them. I mean come on, how long can one run around yelling things like, "hark! doth thou hear the sound of prancing fairies in yonder meadow?" without completely losing a grip on reality..
 
 </div>
 
-<div class="post" data-post-id="25599" data-author="13" data-date="2008-08-05T15:32:41+00:00">
+<div class="post" data-post-id="25599" data-author="13" data-date="2008-08-05T15:32:41+00:00" data-subject="">
 
 In fact I think they probably do hear the sound of prancing fairies in yon meadow.  That shit is real gay.
 
 </div>
 
-<div class="post" data-post-id="25608" data-author="brady" data-date="2008-08-05T20:12:52+00:00">
+<div class="post" data-post-id="25608" data-author="brady" data-date="2008-08-05T20:12:52+00:00" data-subject="">
 
 is it me or do people on other muds always seem like a pack of pretentious faggots, while we, all seem perfectly sane and reasonable?[/quote:1zjgmw87]
 
@@ -130,13 +130,13 @@ Yeah, it's you.
 
 </div>
 
-<div class="post" data-post-id="25609" data-author="13" data-date="2008-08-05T20:42:42+00:00">
+<div class="post" data-post-id="25609" data-author="13" data-date="2008-08-05T20:42:42+00:00" data-subject="">
 
 we should just send polk to their forum
 
 </div>
 
-<div class="post" data-post-id="25610" data-author="Weasel" data-date="2008-08-05T21:11:25+00:00">
+<div class="post" data-post-id="25610" data-author="Weasel" data-date="2008-08-05T21:11:25+00:00" data-subject="">
 
 lol.. yeah that'll freak them out.  :D
 

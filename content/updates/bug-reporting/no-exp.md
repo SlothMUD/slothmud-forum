@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="10794" data-author="thyst" data-date="2006-02-20T12:38:52+00:00">
+<div class="post" data-post-id="10794" data-author="thyst" data-date="2006-02-20T12:38:52+00:00" data-subject="no exp">
 
 You maintain your deathgrip on A fearful bakemono.
 
@@ -32,19 +32,19 @@ anyway
 
 </div>
 
-<div class="post" data-post-id="10795" data-author="Vixn" data-date="2006-02-20T13:09:24+00:00">
+<div class="post" data-post-id="10795" data-author="Vixn" data-date="2006-02-20T13:09:24+00:00" data-subject="">
 
 Hm, with this new feature monks don't look overpowered so much anymore. Thanks! :)
 
 </div>
 
-<div class="post" data-post-id="10796" data-author="Krok" data-date="2006-02-20T13:33:34+00:00">
+<div class="post" data-post-id="10796" data-author="Krok" data-date="2006-02-20T13:33:34+00:00" data-subject="">
 
 ^5 edd :))
 
 </div>
 
-<div class="post" data-post-id="10797" data-author="Autolycos" data-date="2006-02-20T14:42:13+00:00">
+<div class="post" data-post-id="10797" data-author="Autolycos" data-date="2006-02-20T14:42:13+00:00" data-subject="">
 
 muahahahaha  :twisted: 
 
@@ -54,7 +54,7 @@ Edd gets 2 points plus a bonus for style!
 
 </div>
 
-<div class="post" data-post-id="10798" data-author="Rajil" data-date="2006-02-20T17:38:59+00:00">
+<div class="post" data-post-id="10798" data-author="Rajil" data-date="2006-02-20T17:38:59+00:00" data-subject="">
 
 Did you follow the mob before gripping? 
 
@@ -62,7 +62,7 @@ Same thing happened to me when I followed a mob and killed it. Didn't happen aft
 
 </div>
 
-<div class="post" data-post-id="10799" data-author="Shyla" data-date="2006-02-20T17:55:06+00:00">
+<div class="post" data-post-id="10799" data-author="Shyla" data-date="2006-02-20T17:55:06+00:00" data-subject="">
 
 Here is another interesting no exp bug.  Acme followed me the other day, And I didn't group myself.  We were in the same room, and he was killing a mob.  He killed the mob yet neither of us got exp for it.  I grouped myself we killed another mob it worked okie.  I ungrouped myself as leader again and again no one got exp.  That is kinda a strange bug. 
 
@@ -70,7 +70,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="10801" data-author="Autolycos" data-date="2006-02-20T21:08:04+00:00">
+<div class="post" data-post-id="10801" data-author="Autolycos" data-date="2006-02-20T21:08:04+00:00" data-subject="">
 
 hmm... i think i know what your prob was shyla... 
 
@@ -80,7 +80,7 @@ try that instead next time.. it makes for more amusing mud-time  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10989" data-author="Qa" data-date="2006-03-01T18:07:37+00:00">
+<div class="post" data-post-id="10989" data-author="Qa" data-date="2006-03-01T18:07:37+00:00" data-subject="">
 
 Well, now I have the No XP bug.  Now I know you all think I don't care about XP.  In general, you are right, but I still have this slight glimmer of a hope of being a 5.00 someday... I am currently estimating 2008.  On the other hand, it is going to be a loooooooooong time if I don't get any XP.
 
@@ -328,7 +328,7 @@ You are affected by the following spells:
 
 </div>
 
-<div class="post" data-post-id="10990" data-author="Qa" data-date="2006-03-01T18:22:50+00:00">
+<div class="post" data-post-id="10990" data-author="Qa" data-date="2006-03-01T18:22:50+00:00" data-subject="">
 
 Well, I guess it's not quite NO XP.  For that fight and kill I got 63,672.  Presumably that's from spell and hand damage I inflicted.
 
@@ -338,7 +338,7 @@ ps - You know how many years it has been since I paid attention to anything but 
 
 </div>
 
-<div class="post" data-post-id="10991" data-author="12345" data-date="2006-03-01T18:51:37+00:00">
+<div class="post" data-post-id="10991" data-author="12345" data-date="2006-03-01T18:51:37+00:00" data-subject="">
 
 I know very little about this topic, but I do have some background on it...
 
@@ -352,7 +352,7 @@ Is that something you can check Qa?
 
 </div>
 
-<div class="post" data-post-id="10992" data-author="Qa" data-date="2006-03-01T20:41:03+00:00">
+<div class="post" data-post-id="10992" data-author="Qa" data-date="2006-03-01T20:41:03+00:00" data-subject="">
 
 I was followign someone.  We were grouped and chatted.  They dropped a link, and/or voided.
 

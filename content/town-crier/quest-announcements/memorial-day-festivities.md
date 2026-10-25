@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38831" data-author="*Idjit*" data-date="2018-05-27T01:43:47+00:00">
+<div class="post" data-post-id="38831" data-author="*Idjit*" data-date="2018-05-27T01:43:47+00:00" data-subject="Memorial Day Festivities">
 
 Good day to you all.
 

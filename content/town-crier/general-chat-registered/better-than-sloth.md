@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="8412" data-author=".kitn" data-date="2005-08-26T09:03:55+00:00">
+<div class="post" data-post-id="8412" data-author=".kitn" data-date="2005-08-26T09:03:55+00:00" data-subject="Better than sloth">
 
 stop sitting and cultivating your piles, go for poi!
 
@@ -18,7 +18,7 @@ stop sitting and cultivating your piles, go for poi!
 
 </div>
 
-<div class="post" data-post-id="8422" data-author="Avatar" data-date="2005-08-26T15:04:55+00:00">
+<div class="post" data-post-id="8422" data-author="Avatar" data-date="2005-08-26T15:04:55+00:00" data-subject="Poi?">
 
 Are you one of the participants, or are you one of the photographers?
 
@@ -26,7 +26,7 @@ Some very nice pictures there, I'm sure it must have looked better in real life 
 
 </div>
 
-<div class="post" data-post-id="8423" data-author=".kitn" data-date="2005-08-26T16:43:19+00:00">
+<div class="post" data-post-id="8423" data-author=".kitn" data-date="2005-08-26T16:43:19+00:00" data-subject="">
 
 those are photos which i shoot yesterday.
 

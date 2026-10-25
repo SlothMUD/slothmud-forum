@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="35401" data-author="Yasik" data-date="2014-07-19T09:49:42+00:00">
+<div class="post" data-post-id="35401" data-author="Yasik" data-date="2014-07-19T09:49:42+00:00" data-subject="gnomish-sausage-vendor do not sell stack, only 1 item">
 
 Granite Street
 
@@ -58,13 +58,13 @@ A sausage vendor tells you 'I don't sell those.'
 
 </div>
 
-<div class="post" data-post-id="35402" data-author="Marvel" data-date="2014-07-19T14:56:36+00:00">
+<div class="post" data-post-id="35402" data-author="Marvel" data-date="2014-07-19T14:56:36+00:00" data-subject="Re: gnomish-sausage-vendor do not sell stack, only 1 item">
 
 I could be wrong but I think stacks only work on actual shop rooms and that the gnomish vendor's selling is actually a forge proc, which forces it to only sell one at a time. One or the other would answer this question.
 
 </div>
 
-<div class="post" data-post-id="35403" data-author="*Breeze*" data-date="2014-07-20T08:38:24+00:00">
+<div class="post" data-post-id="35403" data-author="*Breeze*" data-date="2014-07-20T08:38:24+00:00" data-subject="Re: gnomish-sausage-vendor do not sell stack, only 1 item">
 
 Correct @ Marvel
 

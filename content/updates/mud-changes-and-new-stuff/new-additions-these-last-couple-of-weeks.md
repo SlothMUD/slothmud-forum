@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1071" data-author="*Splork*" data-date="2004-07-14T19:16:03+00:00">
+<div class="post" data-post-id="1071" data-author="*Splork*" data-date="2004-07-14T19:16:03+00:00" data-subject="New additions these last couple of weeks..">
 
 We are a little behind on posting to forums, although News is rather up to date.
 

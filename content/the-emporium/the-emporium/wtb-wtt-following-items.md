@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1000" data-author="impz" data-date="2004-07-09T16:26:36+00:00">
+<div class="post" data-post-id="1000" data-author="impz" data-date="2004-07-09T16:26:36+00:00" data-subject="wtb/ wtt following items">
 
 needs the following items
 

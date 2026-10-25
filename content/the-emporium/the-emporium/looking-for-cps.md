@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="3564" data-author="Weasel" data-date="2004-12-28T14:41:08+00:00">
+<div class="post" data-post-id="3564" data-author="Weasel" data-date="2004-12-28T14:41:08+00:00" data-subject="Looking for CPS">
 
 Looking for any of the following CPS to complete forges. Will pay well.
 
@@ -34,13 +34,13 @@ cheers  :wink:
 
 </div>
 
-<div class="post" data-post-id="3642" data-author="Weasel" data-date="2005-01-06T19:41:33+00:00">
+<div class="post" data-post-id="3642" data-author="Weasel" data-date="2005-01-06T19:41:33+00:00" data-subject="">
 
 *tap*
 
 </div>
 
-<div class="post" data-post-id="3878" data-author="Weasel" data-date="2005-01-22T15:25:20+00:00">
+<div class="post" data-post-id="3878" data-author="Weasel" data-date="2005-01-22T15:25:20+00:00" data-subject="">
 
 *bump*  ..still looking :)
 

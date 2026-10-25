@@ -10,13 +10,13 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="36596" data-author="*teker*" data-date="2016-02-15T16:04:43+00:00">
+<div class="post" data-post-id="36596" data-author="*teker*" data-date="2016-02-15T16:04:43+00:00" data-subject="Equipment sets">
 
 So we've been running a few days without any problems in the equipment set code, so I figured I'd announce it to the general public.  The basic idea is that each player can design custom sets of equipment and then change between them in an easy fashion.  HELP EQSET has all the information regarding the new command and how it works.  I do have some debugging in there to try to catch the hang we were seeing so if you see some weird output as a result of the command, please let me know.
 
 </div>
 
-<div class="post" data-post-id="36599" data-author="Dragoth" data-date="2016-02-16T08:35:40+00:00">
+<div class="post" data-post-id="36599" data-author="Dragoth" data-date="2016-02-16T08:35:40+00:00" data-subject="Re: Equipment sets">
 
 Looks very good!
 
@@ -24,7 +24,7 @@ But PLEASE cut the lagg in half !
 
 </div>
 
-<div class="post" data-post-id="36600" data-author="Dragoth" data-date="2016-02-16T11:57:31+00:00">
+<div class="post" data-post-id="36600" data-author="Dragoth" data-date="2016-02-16T11:57:31+00:00" data-subject="Re: Equipment sets">
 
 I changed my mind, this is not just very good, this is INSANELY good!
 
@@ -42,7 +42,7 @@ And it's only 1 example of many eq changers i had, and it takes 1 seconds to swi
 
 </div>
 
-<div class="post" data-post-id="36601" data-author="*teker*" data-date="2016-02-16T15:15:41+00:00">
+<div class="post" data-post-id="36601" data-author="*teker*" data-date="2016-02-16T15:15:41+00:00" data-subject="Re: Equipment sets">
 
 You may not have been able to tell before, but there's always been a small amount of lag when wearing and removing items.  The eqset command just adds them up - there's no extra lag involved.
 
@@ -54,7 +54,7 @@ I received a couple tells while I was AFK about some issues people were having -
 
 </div>
 
-<div class="post" data-post-id="36602" data-author="Ker" data-date="2016-02-16T17:59:28+00:00">
+<div class="post" data-post-id="36602" data-author="Ker" data-date="2016-02-16T17:59:28+00:00" data-subject="Re: Equipment sets">
 
 Good day,
 
@@ -72,7 +72,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36603" data-author="*teker*" data-date="2016-02-16T18:47:41+00:00">
+<div class="post" data-post-id="36603" data-author="*teker*" data-date="2016-02-16T18:47:41+00:00" data-subject="Re: Equipment sets">
 
 Ok, I've reproduced the "rose oil" issue which is really an issue for any clasp that has a maximum number that can be worn at one time.  Affects runes also.  You've been experiencing this if you've seen something like:
 
@@ -88,7 +88,7 @@ I will check into whether or not it's safe to perform eqset actions while shifte
 
 </div>
 
-<div class="post" data-post-id="36604" data-author="*teker*" data-date="2016-02-16T23:51:21+00:00">
+<div class="post" data-post-id="36604" data-author="*teker*" data-date="2016-02-16T23:51:21+00:00" data-subject="Re: Equipment sets">
 
 I've uploaded a guide to the wiki.  It includes some scenarios that I think people will find useful.  If there are other "frequently asked questions" please let me know.
 
@@ -96,7 +96,7 @@ I've uploaded a guide to the wiki.  It includes some scenarios that I think peop
 
 </div>
 
-<div class="post" data-post-id="36605" data-author="Dragoth" data-date="2016-02-17T08:49:21+00:00">
+<div class="post" data-post-id="36605" data-author="Dragoth" data-date="2016-02-17T08:49:21+00:00" data-subject="Re: Equipment sets">
 
 Ok, I think i did everything as explained by the wiki:
 
@@ -332,7 +332,7 @@ Held            Grey Tome with Silver Runes     [ Default ]
 
 </div>
 
-<div class="post" data-post-id="36606" data-author="Dragoth" data-date="2016-02-17T09:20:30+00:00">
+<div class="post" data-post-id="36606" data-author="Dragoth" data-date="2016-02-17T09:20:30+00:00" data-subject="Re: Equipment sets">
 
 Ok, after testing this some more, I think i found that it's the clasps that are causing the setcontainer resets.
 
@@ -422,13 +422,13 @@ Held            a moss-covered pebble           [ Inventory ]
 
 </div>
 
-<div class="post" data-post-id="36607" data-author="*teker*" data-date="2016-02-17T15:39:32+00:00">
+<div class="post" data-post-id="36607" data-author="*teker*" data-date="2016-02-17T15:39:32+00:00" data-subject="Re: Equipment sets">
 
 Ok, I've figured out the container issue and committed a fix.  I'm hoping we'll reboot tomorrow to get all these fixes in place.
 
 </div>
 
-<div class="post" data-post-id="36610" data-author="Teron" data-date="2016-02-18T04:18:33+00:00">
+<div class="post" data-post-id="36610" data-author="Teron" data-date="2016-02-18T04:18:33+00:00" data-subject="Re: Equipment sets">
 
 May I suggest Teker to internally use the wear a b c and rem a b c command, so that we don't rem/wear individual items, but first rem items in 1-2 sweeps, put them away, then wear other items in 1-2 uses of the wear command, rather than 18.
 
@@ -438,7 +438,7 @@ Of course, an alternate solution is to remove the lag from using these commands 
 
 </div>
 
-<div class="post" data-post-id="36612" data-author="Ker" data-date="2016-02-18T15:33:09+00:00">
+<div class="post" data-post-id="36612" data-author="Ker" data-date="2016-02-18T15:33:09+00:00" data-subject="Re: Equipment sets">
 
 Good day,
 
@@ -454,7 +454,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36615" data-author="*Splork*" data-date="2016-02-18T18:18:29+00:00">
+<div class="post" data-post-id="36615" data-author="*Splork*" data-date="2016-02-18T18:18:29+00:00" data-subject="Re: Equipment sets">
 
 I deleted my post and sent an email instead 8) 
 
@@ -462,7 +462,7 @@ However, eqset should have the same amount of lag as a player using their client
 
 </div>
 
-<div class="post" data-post-id="36616" data-author="Ker" data-date="2016-02-18T20:30:17+00:00">
+<div class="post" data-post-id="36616" data-author="Ker" data-date="2016-02-18T20:30:17+00:00" data-subject="Re: Equipment sets">
 
 Good day,
 
@@ -478,7 +478,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36617" data-author="Teron" data-date="2016-02-18T23:56:32+00:00">
+<div class="post" data-post-id="36617" data-author="Teron" data-date="2016-02-18T23:56:32+00:00" data-subject="Re: Equipment sets">
 
 Splork, that's the point: to have the same lag as with a regular switching alias.
 
@@ -510,7 +510,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36619" data-author="Josiah" data-date="2016-02-19T14:56:54+00:00">
+<div class="post" data-post-id="36619" data-author="Josiah" data-date="2016-02-19T14:56:54+00:00" data-subject="Re: Equipment sets">
 
 Taron (and others) use a clever workaround to game the system and change eq faster than intended.  He wants the lag from eqset to be based on the optimal equipment change method rather than the obvious one.
 
@@ -518,7 +518,7 @@ Cutting out the word 'all' and using two remove and wear commands shaves off abo
 
 </div>
 
-<div class="post" data-post-id="36620" data-author="*teker*" data-date="2016-02-19T16:45:10+00:00">
+<div class="post" data-post-id="36620" data-author="*teker*" data-date="2016-02-19T16:45:10+00:00" data-subject="Re: Equipment sets">
 
 I will run some tests to compare the lag.
 
@@ -528,7 +528,7 @@ I'm also starting to test the code on shapeshifted characters.
 
 </div>
 
-<div class="post" data-post-id="36621" data-author="*Splork*" data-date="2016-02-19T17:31:21+00:00">
+<div class="post" data-post-id="36621" data-author="*Splork*" data-date="2016-02-19T17:31:21+00:00" data-subject="Re: Equipment sets">
 
 I am not so sure I would call it a work around because it was added intentionally on November of 2007.
 
@@ -544,13 +544,13 @@ We will let Teker decide what to do :mrgreen: but its definitely a Slothy featur
 
 </div>
 
-<div class="post" data-post-id="36622" data-author="*teker*" data-date="2016-02-19T18:05:40+00:00">
+<div class="post" data-post-id="36622" data-author="*teker*" data-date="2016-02-19T18:05:40+00:00" data-subject="Re: Equipment sets">
 
 I'll make the lag more consistent with "wear many" + "remove many".  I'm not seeing any issues with shifted players using eqset so I will enable that also.  These both require a new build so you'll see the changes then.
 
 </div>
 
-<div class="post" data-post-id="36624" data-author="Teron" data-date="2016-02-21T01:06:49+00:00">
+<div class="post" data-post-id="36624" data-author="Teron" data-date="2016-02-21T01:06:49+00:00" data-subject="Re: Equipment sets">
 
 Well, it's certainly faster to use wear/rem commands, if I only need to remove 10 items, not 18.
 

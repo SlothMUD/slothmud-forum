@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="12478" data-author="Elsie" data-date="2006-05-08T16:25:05+00:00">
+<div class="post" data-post-id="12478" data-author="Elsie" data-date="2006-05-08T16:25:05+00:00" data-subject="Bug with shipping?">
 
 I think I may have found a bug with the shipping system ... could be my lack of understanding ... if so could someone enlighten me:
 
@@ -34,7 +34,7 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="12652" data-author="Zing" data-date="2006-05-23T12:22:59+00:00">
+<div class="post" data-post-id="12652" data-author="Zing" data-date="2006-05-23T12:22:59+00:00" data-subject="Imm Help Pls">
 
 I have the same issue.  Sold an item at auction and shipped it to the buyer for a fee.  The buyer hasn't picked it up and I really don't want to lose over 800k because the post office isn't crediting fees.
 

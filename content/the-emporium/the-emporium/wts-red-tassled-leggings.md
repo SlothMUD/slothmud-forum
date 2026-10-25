@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="890" data-author="Ezekiel" data-date="2004-07-01T03:13:00+00:00">
+<div class="post" data-post-id="890" data-author="Ezekiel" data-date="2004-07-01T03:13:00+00:00" data-subject="WTS: Red-Tassled Leggings">
 
 wts: red-tassled leggings 2 mil min
 
 </div>
 
-<div class="post" data-post-id="893" data-author="Alberich" data-date="2004-07-01T05:29:11+00:00">
+<div class="post" data-post-id="893" data-author="Alberich" data-date="2004-07-01T05:29:11+00:00" data-subject="">
 
 don't you like the chopping block? :)
 

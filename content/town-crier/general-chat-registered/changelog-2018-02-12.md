@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38666" data-author="*teker*" data-date="2018-02-12T18:01:33+00:00">
+<div class="post" data-post-id="38666" data-author="*teker*" data-date="2018-02-12T18:01:33+00:00" data-subject="Changelog 2018-02-12">
 
 Added EQSET SETINVENTORY and EQSET REMOVEINVENTORY to allow players to specify items that will always return to inventory when unequipped.  HELP EQSET has been updated.
 
@@ -276,7 +276,7 @@ Fixed.
 
 </div>
 
-<div class="post" data-post-id="38667" data-author="*teker*" data-date="2018-02-14T17:05:21+00:00">
+<div class="post" data-post-id="38667" data-author="*teker*" data-date="2018-02-14T17:05:21+00:00" data-subject="Re: Changelog 2018-02-12">
 
 I wasn't expecting a reboot today but here's what made it in:
 
@@ -420,7 +420,7 @@ Fixed.
 
 </div>
 
-<div class="post" data-post-id="38670" data-author="*teker*" data-date="2018-02-15T23:03:30+00:00">
+<div class="post" data-post-id="38670" data-author="*teker*" data-date="2018-02-15T23:03:30+00:00" data-subject="Re: Changelog 2018-02-12">
 
 I wasn't expecting a reboot today but you should notice a longer replay list and changes to reply/respond where they always send a tell back to the last person you heard from without specifying their name.  I'm going to fix the spirit watchers so that their tells show up in replay but there's a bug about auctioneers not showing up that I probably won't fix.  It seems to me that it'd totally overwrite the replay list every time someone buys or reclaims a bunch of tokens.
 

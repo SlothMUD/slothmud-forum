@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="12571" data-author="Falsra" data-date="2006-05-16T11:14:24+00:00">
+<div class="post" data-post-id="12571" data-author="Falsra" data-date="2006-05-16T11:14:24+00:00" data-subject="friendchop">
 
 i have not been chopping for ages, but yesterday i had full hps and was lit and
 
@@ -42,7 +42,7 @@ again, i rely upon old info. coders might just add more adrenalin in friendchop 
 
 </div>
 
-<div class="post" data-post-id="12572" data-author="12345" data-date="2006-05-16T11:54:41+00:00">
+<div class="post" data-post-id="12572" data-author="12345" data-date="2006-05-16T11:54:41+00:00" data-subject="">
 
 Chopping isn't my specialty, but in my limited experience, it depends on what they're weilding.  The weak choppers are the Spec and Claw, and if you're full and sanced, it's pretty common to survive those.  The Macu does a lot more damage and I don't think I've survived a hit from one yet.  My time spent chopping was all with Macus and they were always fatal, though I was in a couple of Mike's groups that frequently had people survived fratricide.
 
@@ -52,13 +52,13 @@ Mike probably knows better than I though.
 
 </div>
 
-<div class="post" data-post-id="12573" data-author="Falsra" data-date="2006-05-16T17:02:31+00:00">
+<div class="post" data-post-id="12573" data-author="Falsra" data-date="2006-05-16T17:02:31+00:00" data-subject="">
 
 yeah, seems 12345 right - macus rock!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="12575" data-author="Weasel" data-date="2006-05-16T17:52:25+00:00">
+<div class="post" data-post-id="12575" data-author="Weasel" data-date="2006-05-16T17:52:25+00:00" data-subject="">
 
 lots of headchops today..
 

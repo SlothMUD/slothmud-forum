@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35388" data-author="*Neptune*" data-date="2014-07-13T16:19:25+00:00">
+<div class="post" data-post-id="35388" data-author="*Neptune*" data-date="2014-07-13T16:19:25+00:00" data-subject="Notes About Arena Play">
 
 Greetings.
 

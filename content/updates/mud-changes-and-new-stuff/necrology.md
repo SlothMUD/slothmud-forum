@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1019" data-author="Enea" data-date="2004-07-11T03:09:27+00:00">
+<div class="post" data-post-id="1019" data-author="Enea" data-date="2004-07-11T03:09:27+00:00" data-subject="Necrology">
 
 There is a new necro/cleric skill called necrology.
 

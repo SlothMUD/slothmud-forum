@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="10670" data-author="Weasel" data-date="2006-02-11T18:32:28+00:00">
+<div class="post" data-post-id="10670" data-author="Weasel" data-date="2006-02-11T18:32:28+00:00" data-subject="Island Autoquests">
 
 list them here
 
@@ -24,7 +24,7 @@ Reward:
 
 </div>
 
-<div class="post" data-post-id="10704" data-author="brand" data-date="2006-02-14T03:12:21+00:00">
+<div class="post" data-post-id="10704" data-author="brand" data-date="2006-02-14T03:12:21+00:00" data-subject="">
 
 Name of quest: ???
 
@@ -38,7 +38,7 @@ brand :twisted:
 
 </div>
 
-<div class="post" data-post-id="11900" data-author="brand" data-date="2006-03-31T21:39:07+00:00">
+<div class="post" data-post-id="11900" data-author="brand" data-date="2006-03-31T21:39:07+00:00" data-subject="">
 
 Name of quest: belt template
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="4391" data-author="Blastem" data-date="2005-02-11T21:20:15+00:00">
+<div class="post" data-post-id="4391" data-author="Blastem" data-date="2005-02-11T21:20:15+00:00" data-subject="bug in abbreviation code">
 
 The abbreviation code needs a check for an exact match before it  looks for abbreviations. This is a problem I've noticed in a number of ways examples are :
 
@@ -52,7 +52,7 @@ thanks for everything
 
 </div>
 
-<div class="post" data-post-id="4393" data-author="*Splork*" data-date="2005-02-11T23:01:02+00:00">
+<div class="post" data-post-id="4393" data-author="*Splork*" data-date="2005-02-11T23:01:02+00:00" data-subject="">
 
 This should be fixed on reboot, sorry for the problem it was causing.
 
@@ -70,7 +70,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="4394" data-author="Blastem" data-date="2005-02-12T00:58:14+00:00">
+<div class="post" data-post-id="4394" data-author="Blastem" data-date="2005-02-12T00:58:14+00:00" data-subject="">
 
 Thanks  :D
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="19039" data-author="Sheng" data-date="2007-06-23T03:42:48+00:00">
+<div class="post" data-post-id="19039" data-author="Sheng" data-date="2007-06-23T03:42:48+00:00" data-subject="Raven Glade EQ">
 
 The results of two nights of leading 1/3 of Destiny's new area.  Here's all the eq we know of from the current mobs.
 
@@ -126,7 +126,7 @@ Silken Shawl
 
 </div>
 
-<div class="post" data-post-id="19040" data-author="13" data-date="2007-06-23T04:32:05+00:00">
+<div class="post" data-post-id="19040" data-author="13" data-date="2007-06-23T04:32:05+00:00" data-subject="">
 
 whoa margn pants?
 
@@ -134,7 +134,7 @@ how big is the mob?
 
 </div>
 
-<div class="post" data-post-id="19042" data-author="banedon" data-date="2007-06-23T04:33:44+00:00">
+<div class="post" data-post-id="19042" data-author="banedon" data-date="2007-06-23T04:33:44+00:00" data-subject="">
 
 one item I didnt see listed and if its not new its not on the eq list AFAIK,
 
@@ -142,7 +142,7 @@ the will - o - wisp several mobs had as lights the other night.  I cant remember
 
 </div>
 
-<div class="post" data-post-id="19044" data-author="brady" data-date="2007-06-23T14:32:01+00:00">
+<div class="post" data-post-id="19044" data-author="brady" data-date="2007-06-23T14:32:01+00:00" data-subject="">
 
 how big is the mob?[/quote:2o0s780c]
 
@@ -154,7 +154,7 @@ that be a spell.
 
 </div>
 
-<div class="post" data-post-id="19045" data-author="13" data-date="2007-06-23T15:33:27+00:00">
+<div class="post" data-post-id="19045" data-author="13" data-date="2007-06-23T15:33:27+00:00" data-subject="">
 
 will o the wisp is light spell for druids, so im assuming there are a bunch of druid mobs there?
 

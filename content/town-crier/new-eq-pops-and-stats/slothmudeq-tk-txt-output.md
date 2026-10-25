@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="39385" data-author="Constin" data-date="2020-03-09T12:38:53+00:00">
+<div class="post" data-post-id="39385" data-author="Constin" data-date="2020-03-09T12:38:53+00:00" data-subject="slothmudeq.tk txt output">
 
 Hi there!
 
@@ -18,7 +18,7 @@ is it possible to get txt format (NOT HMTL with <DIV>'s ) response from slothmud
 
 </div>
 
-<div class="post" data-post-id="39386" data-author="Gorka" data-date="2020-03-10T19:19:08+00:00">
+<div class="post" data-post-id="39386" data-author="Gorka" data-date="2020-03-10T19:19:08+00:00" data-subject="Re: slothmudeq.tk txt output">
 
 There used to be a JSON output file but no longer.
 
@@ -26,7 +26,7 @@ Fluffy is the player who runs the eq list, and as I've understood it, they have 
 
 </div>
 
-<div class="post" data-post-id="39388" data-author="Filk" data-date="2020-03-12T09:23:56+00:00">
+<div class="post" data-post-id="39388" data-author="Filk" data-date="2020-03-12T09:23:56+00:00" data-subject="Re: slothmudeq.tk txt output">
 
 Its posible to make some template with plain view.
 
@@ -36,7 +36,7 @@ But if you want list with names and stats only, its posible to do probably.
 
 </div>
 
-<div class="post" data-post-id="39390" data-author="Gorka" data-date="2020-03-12T11:20:45+00:00">
+<div class="post" data-post-id="39390" data-author="Gorka" data-date="2020-03-12T11:20:45+00:00" data-subject="Re: slothmudeq.tk txt output">
 
 Fluffy,
 
@@ -52,7 +52,7 @@ Gorka
 
 </div>
 
-<div class="post" data-post-id="39412" data-author="*teker*" data-date="2020-04-01T14:12:58+00:00">
+<div class="post" data-post-id="39412" data-author="*teker*" data-date="2020-04-01T14:12:58+00:00" data-subject="Re: slothmudeq.tk txt output">
 
 I've exported the item list this morning and it should have better details for clasps/runes and their bonuses.
 

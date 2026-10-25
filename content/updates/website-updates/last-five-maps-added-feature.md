@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="818" data-author="Enea" data-date="2004-06-21T13:37:38+00:00">
+<div class="post" data-post-id="818" data-author="Enea" data-date="2004-06-21T13:37:38+00:00" data-subject="&quot;Last Five Maps Added&quot; feature">
 
 Dan suggested this feature, so I've gone & added it.
 
@@ -20,7 +20,7 @@ I had to add a datestamp field to the database to handle it, so it'll be a bit i
 
 </div>
 
-<div class="post" data-post-id="821" data-author="Enea" data-date="2004-06-21T21:20:36+00:00">
+<div class="post" data-post-id="821" data-author="Enea" data-date="2004-06-21T21:20:36+00:00" data-subject="fixed the earlier problem">
 
 I'm basing the 'recentness' of the entries on an autonumber field now, instead of on the datestamp field.  This means it now has them in the correct order & all that.
 

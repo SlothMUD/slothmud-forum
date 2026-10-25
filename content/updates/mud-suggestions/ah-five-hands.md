@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36894" data-author="Yasik" data-date="2016-04-27T09:54:18+00:00">
+<div class="post" data-post-id="36894" data-author="Yasik" data-date="2016-04-27T09:54:18+00:00" data-subject="AH, Five Hands">
 
 It seems he cant differ a manual from a gem:
 
@@ -74,7 +74,7 @@ You now have Five Hands' manual of the Five Fingered Art.
 
 </div>
 
-<div class="post" data-post-id="36903" data-author="Ezekiel" data-date="2016-05-02T04:53:46+00:00">
+<div class="post" data-post-id="36903" data-author="Ezekiel" data-date="2016-05-02T04:53:46+00:00" data-subject="Re: AH, Five Hands">
 
 Again, this is what typos or bugs command in game is for. Is this really the best use of the forum, considering new chars looking at the top recent posts most often?
 

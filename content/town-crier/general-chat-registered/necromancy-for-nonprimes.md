@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="33217" data-author="Magi" data-date="2012-03-17T00:46:49+00:00">
+<div class="post" data-post-id="33217" data-author="Magi" data-date="2012-03-17T00:46:49+00:00" data-subject="Necromancy for nonprimes">
 
 > **Quote:**
 > Necro primes will get bonus servant points on achieving each 40 class levels, including Av40. It is intended that summoning more lower end mobs might provide better value against the fewer available higher end mobs, depending on the level. We did look through the individual necro pets to balance out the combinations available. It would be up to the individual necromancers to determine their best pet combination, given their levels. In other words, experiment more with different combinations!
@@ -41,7 +41,7 @@ In my opinion, the 'buff' option is better in this situation. The possible addit
 
 </div>
 
-<div class="post" data-post-id="33264" data-author="war" data-date="2012-04-09T13:38:53+00:00">
+<div class="post" data-post-id="33264" data-author="war" data-date="2012-04-09T13:38:53+00:00" data-subject="Re: Necromancy for nonprimes">
 
 I play a char with necro in second and,
 
@@ -51,7 +51,7 @@ Having 3 Wraiths rocks and i wouldnt want to loose them  :P
 
 </div>
 
-<div class="post" data-post-id="33271" data-author="Mug" data-date="2012-04-14T02:59:17+00:00">
+<div class="post" data-post-id="33271" data-author="Mug" data-date="2012-04-14T02:59:17+00:00" data-subject="Re: Necromancy for nonprimes">
 
 well i have necro third and i kinda miss being able to have a nightmare and 3 wraiths i can only have a nightmare and 2 wraiths now.
 

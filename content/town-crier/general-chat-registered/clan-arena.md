@@ -10,13 +10,13 @@ locked: false
 post_count: 64
 ---
 
-<div class="post" data-post-id="17966" data-author="Yinao" data-date="2007-04-16T06:17:39+00:00">
+<div class="post" data-post-id="17966" data-author="Yinao" data-date="2007-04-16T06:17:39+00:00" data-subject="Clan Arena">
 
 :twisted: Here is an idea that has been tossed around, the settlestone arena has the ability to hold up to 4 teams. Me and a few others thought that it could be cool to have a clan arena where up to any amount of clans can pick up to 10 of their best clannies and have an arena pvp team tourney....
 
 </div>
 
-<div class="post" data-post-id="17974" data-author="*juggleblood*" data-date="2007-04-16T07:13:50+00:00">
+<div class="post" data-post-id="17974" data-author="*juggleblood*" data-date="2007-04-16T07:13:50+00:00" data-subject="">
 
 I've got something like this on the drawing board, but haven't built it on the builders port yet.
 
@@ -38,25 +38,25 @@ I based this loosely on Hero Wars or Dota from WC3 and had clan contests in mind
 
 </div>
 
-<div class="post" data-post-id="17975" data-author="Rynquald" data-date="2007-04-16T07:51:37+00:00">
+<div class="post" data-post-id="17975" data-author="Rynquald" data-date="2007-04-16T07:51:37+00:00" data-subject="">
 
 That would seriously rock.
 
 </div>
 
-<div class="post" data-post-id="17986" data-author="13" data-date="2007-04-16T12:38:40+00:00">
+<div class="post" data-post-id="17986" data-author="13" data-date="2007-04-16T12:38:40+00:00" data-subject="">
 
 The Settlestone Arena is the worst place to fight ever.  Couldn't we have an actual area like Rub said?  I know for a fact that Jahnesta is 99% written and already flagged for chaos and it has mobs.  It could easily be the base town on the light side.  I would be more than happy to alter it for this purpose, and/or help write/contribute in any way I can.
 
 </div>
 
-<div class="post" data-post-id="17989" data-author="Yinao" data-date="2007-04-16T15:25:58+00:00">
+<div class="post" data-post-id="17989" data-author="Yinao" data-date="2007-04-16T15:25:58+00:00" data-subject="">
 
 The reason I suggested SS arena is because it is currently the largest arena ingame atm. I was unaware of the chaos/arenas that are in the process of being built. I just thought that it would be cool for a few hours to see what you could do against other chars for fun, not to prove your the best etc. Altho, it seems we got more to look out for, I like your idea Rub sounds like it could be a good hit.
 
 </div>
 
-<div class="post" data-post-id="18003" data-author="*juggleblood*" data-date="2007-04-17T08:51:15+00:00">
+<div class="post" data-post-id="18003" data-author="*juggleblood*" data-date="2007-04-17T08:51:15+00:00" data-subject="">
 
 Sounds cool Yinao. It's just a hard thing to do spontaneously. Planning an actual tournament takes a lot of work. I think Wasp organized the last one. Maybe they'd let you organize one if you were willing. Volunteer and see what happens.
 
@@ -66,7 +66,7 @@ I'm thinking 2 teams of 3-8 players each with a clearly defined objective within
 
 </div>
 
-<div class="post" data-post-id="18008" data-author="Gimlet" data-date="2007-04-17T11:11:57+00:00">
+<div class="post" data-post-id="18008" data-author="Gimlet" data-date="2007-04-17T11:11:57+00:00" data-subject="">
 
 It would be fun if exp and random bonuses (god sancs, increased stats for a certain amount of time) for winners in the new arena.
 
@@ -74,7 +74,7 @@ sure the bonuses could then be abused, but seriously the time required to earn t
 
 </div>
 
-<div class="post" data-post-id="19283" data-author="*juggleblood*" data-date="2007-07-16T04:37:55+00:00">
+<div class="post" data-post-id="19283" data-author="*juggleblood*" data-date="2007-07-16T04:37:55+00:00" data-subject="">
 
 *bump*
 
@@ -94,19 +94,19 @@ Questions and Suggestions Welcome, flames and spam promptly ignored
 
 </div>
 
-<div class="post" data-post-id="19284" data-author="13" data-date="2007-07-16T09:25:37+00:00">
+<div class="post" data-post-id="19284" data-author="13" data-date="2007-07-16T09:25:37+00:00" data-subject="">
 
 I've seen it.  It rocks, simply-put.
 
 </div>
 
-<div class="post" data-post-id="19285" data-author="Hades" data-date="2007-07-16T10:23:32+00:00">
+<div class="post" data-post-id="19285" data-author="Hades" data-date="2007-07-16T10:23:32+00:00" data-subject="">
 
 When you get done stroking each others ego, look me up. I know a few 'shady' char's that wouldn't mind being involved :twisted:
 
 </div>
 
-<div class="post" data-post-id="19286" data-author="Shazuko" data-date="2007-07-16T14:34:52+00:00">
+<div class="post" data-post-id="19286" data-author="Shazuko" data-date="2007-07-16T14:34:52+00:00" data-subject="">
 
 And Shepherds we shall be For thee, my Lord, for thee.
 
@@ -134,7 +134,7 @@ Don't pray for me--I fly for free!
 
 </div>
 
-<div class="post" data-post-id="19287" data-author="Autolycos" data-date="2007-07-16T21:37:47+00:00">
+<div class="post" data-post-id="19287" data-author="Autolycos" data-date="2007-07-16T21:37:47+00:00" data-subject="">
 
 yeah well.. this is better!
 
@@ -142,7 +142,7 @@ Keep firing assholes!!!  -Dark Helmet- SpaceBalls
 
 </div>
 
-<div class="post" data-post-id="19288" data-author="Hades" data-date="2007-07-17T01:04:56+00:00">
+<div class="post" data-post-id="19288" data-author="Hades" data-date="2007-07-17T01:04:56+00:00" data-subject="Pick a random post">
 
 Charles Q. Choi
 
@@ -166,19 +166,19 @@ So chew on that befoe you start the flaming :twisted:
 
 </div>
 
-<div class="post" data-post-id="19289" data-author="12345" data-date="2007-07-17T02:36:14+00:00">
+<div class="post" data-post-id="19289" data-author="12345" data-date="2007-07-17T02:36:14+00:00" data-subject="">
 
 Huh... and here I thought Hades was humanity's closest primate relative.
 
 </div>
 
-<div class="post" data-post-id="19290" data-author="Weasel" data-date="2007-07-17T03:08:27+00:00">
+<div class="post" data-post-id="19290" data-author="Weasel" data-date="2007-07-17T03:08:27+00:00" data-subject="">
 
 fukkin clown
 
 </div>
 
-<div class="post" data-post-id="19291" data-author="*juggleblood*" data-date="2007-07-17T06:34:30+00:00">
+<div class="post" data-post-id="19291" data-author="*juggleblood*" data-date="2007-07-17T06:34:30+00:00" data-subject="">
 
 All the trolling and flaming is getting pretty old. Maybe someone could moderate the crier and start just removing it?
 
@@ -188,19 +188,19 @@ Hades has meanwhile resorted to posting as himself, then responding to himself a
 
 </div>
 
-<div class="post" data-post-id="19292" data-author="brady" data-date="2007-07-17T10:29:09+00:00">
+<div class="post" data-post-id="19292" data-author="brady" data-date="2007-07-17T10:29:09+00:00" data-subject="">
 
 I think Weasel and Bit enjoy it more than I do.
 
 </div>
 
-<div class="post" data-post-id="19293" data-author="Autolycos" data-date="2007-07-17T11:52:13+00:00">
+<div class="post" data-post-id="19293" data-author="Autolycos" data-date="2007-07-17T11:52:13+00:00" data-subject="">
 
 i enjoy pizza  :x
 
 </div>
 
-<div class="post" data-post-id="19294" data-author="Alberich" data-date="2007-07-17T13:56:23+00:00">
+<div class="post" data-post-id="19294" data-author="Alberich" data-date="2007-07-17T13:56:23+00:00" data-subject="">
 
 cuz  obviously, heavy moderation is the cure for trolls, has worked so well elsewhere... 
 
@@ -208,19 +208,19 @@ ever think of you know, just ignoring it?
 
 </div>
 
-<div class="post" data-post-id="19295" data-author="Hades" data-date="2007-07-17T22:37:51+00:00">
+<div class="post" data-post-id="19295" data-author="Hades" data-date="2007-07-17T22:37:51+00:00" data-subject="">
 
 I'm Shazuko? News to me. Then again I've also been called Fysternheart,Harlot,Pagan and some long forgotten Imm. You've been watching to much Murder She Wrote or similiar program. Here's an idea, turn your TV off Lifetime and grow a set already.  Btw, get your facts fight... the troll you seek is furry and in most cases un-named. For the clueless that means 13 and 12345. Who I am by the way. So kill me ingame when you see me. :twisted:
 
 </div>
 
-<div class="post" data-post-id="19297" data-author="*juggleblood*" data-date="2007-07-18T07:40:51+00:00">
+<div class="post" data-post-id="19297" data-author="*juggleblood*" data-date="2007-07-18T07:40:51+00:00" data-subject="">
 
 You're just some piece of shit who is upset because you can't psteal anymore. Please choke on your own vomit or find a new hobby.
 
 </div>
 
-<div class="post" data-post-id="19298" data-author="Hades" data-date="2007-07-18T22:27:42+00:00">
+<div class="post" data-post-id="19298" data-author="Hades" data-date="2007-07-18T22:27:42+00:00" data-subject="">
 
 Do you kiss your mother with that mouth?  Try showing some maturity, if possible.  I'm sure there are some visitors here wanting to check out a new MUD and/or check out the locale without having to read thru all this rubbish. 
 
@@ -232,13 +232,13 @@ S.
 
 </div>
 
-<div class="post" data-post-id="19299" data-author="brady" data-date="2007-07-18T23:13:25+00:00">
+<div class="post" data-post-id="19299" data-author="brady" data-date="2007-07-18T23:13:25+00:00" data-subject="">
 
 Yeah, he's a pirate... :roll:
 
 </div>
 
-<div class="post" data-post-id="19300" data-author="Weasel" data-date="2007-07-19T00:50:13+00:00">
+<div class="post" data-post-id="19300" data-author="Weasel" data-date="2007-07-19T00:50:13+00:00" data-subject="">
 
 Do you kiss your mother with that mouth?  Try showing some maturity, if possible.  I'm sure there are some visitors here wanting to check out a new MUD and/or check out the locale without having to read thru all this rubbish. 
 
@@ -256,7 +256,7 @@ eat me, biatch.
 
 </div>
 
-<div class="post" data-post-id="19301" data-author="brady" data-date="2007-07-19T00:58:03+00:00">
+<div class="post" data-post-id="19301" data-author="brady" data-date="2007-07-19T00:58:03+00:00" data-subject="">
 
 BWAHAHAHAHAHA! pot, kettle, black.
 
@@ -268,7 +268,7 @@ Weasel has ticks and rickets and smells like corm poops.  Nah-na Nah-na Poo Poo.
 
 </div>
 
-<div class="post" data-post-id="19304" data-author="Hades" data-date="2007-07-19T01:12:33+00:00">
+<div class="post" data-post-id="19304" data-author="Hades" data-date="2007-07-19T01:12:33+00:00" data-subject="">
 
 deleted: Aka
 
@@ -308,13 +308,13 @@ Servings : (Depending on the amount) 8 servings
 
 </div>
 
-<div class="post" data-post-id="19305" data-author="Weasel" data-date="2007-07-19T01:23:50+00:00">
+<div class="post" data-post-id="19305" data-author="Weasel" data-date="2007-07-19T01:23:50+00:00" data-subject="">
 
 die. now.  :evil:
 
 </div>
 
-<div class="post" data-post-id="19320" data-author="*juggleblood*" data-date="2007-07-21T03:42:14+00:00">
+<div class="post" data-post-id="19320" data-author="*juggleblood*" data-date="2007-07-21T03:42:14+00:00" data-subject="">
 
 {EDIT} Saved your post if you'd like it posted.  Otherwise, let it die now.   
 
@@ -324,7 +324,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="19321" data-author="aeole" data-date="2007-07-21T13:23:43+00:00">
+<div class="post" data-post-id="19321" data-author="aeole" data-date="2007-07-21T13:23:43+00:00" data-subject="">
 
 Do you kiss your mother with that mouth?  Try showing some maturity, if possible.  I'm sure there are some visitors here wanting to check out a new MUD and/or check out the locale without having to read thru all this rubbish. 
 
@@ -344,7 +344,7 @@ Don't go away mad, just go away.
 
 </div>
 
-<div class="post" data-post-id="19324" data-author="Yinao" data-date="2007-07-21T15:55:34+00:00">
+<div class="post" data-post-id="19324" data-author="Yinao" data-date="2007-07-21T15:55:34+00:00" data-subject="">
 
 :shock: B-E-A-U-T-I-F-U-L!!!!!!!! :shock: 
 
@@ -352,7 +352,7 @@ Looks like its time for Auto to start passing out the rum and coke?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="19325" data-author="Akasha" data-date="2007-07-21T16:22:41+00:00">
+<div class="post" data-post-id="19325" data-author="Akasha" data-date="2007-07-21T16:22:41+00:00" data-subject="">
 
 I understand the frustrations, but read 
 
@@ -364,7 +364,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="19327" data-author="Autolycos" data-date="2007-07-21T16:36:47+00:00">
+<div class="post" data-post-id="19327" data-author="Autolycos" data-date="2007-07-21T16:36:47+00:00" data-subject="">
 
 Looks like its time for Auto to start passing out the rum and coke?  :twisted:[/quote:1mkrzyw7]
 
@@ -374,13 +374,13 @@ Looks like its time for Auto to start passing out the rum and coke?  :twisted:[/
 
 </div>
 
-<div class="post" data-post-id="19328" data-author="Weasel" data-date="2007-07-21T17:12:12+00:00">
+<div class="post" data-post-id="19328" data-author="Weasel" data-date="2007-07-21T17:12:12+00:00" data-subject="">
 
 [img:2hdo8uxf]http://www.storyboardtoys.com/store/Pirate-Dolls-L.jpg[/img:2hdo8uxf]
 
 </div>
 
-<div class="post" data-post-id="19335" data-author="Tap" data-date="2007-07-21T20:48:23+00:00">
+<div class="post" data-post-id="19335" data-author="Tap" data-date="2007-07-21T20:48:23+00:00" data-subject="There&#x27;s Something About Akasha OR Censorship Rocks!!!">
 
 [quote:34g60k61]when it comes to MUD-seekers having to read through all this rubbish, take a look in the mirror, you spineless waste of protomatter. YOU, troll, are one of the worst instigators of spam, pointless posts, and completely off-topic/off-thread comments. half the time, what you post has absolutely no relevance to the discussion at hand. but you, in true only child style, have to come along and start yelling at the top of your lungs while everyone else is sitting down having a nice discussion because you want to be the center of attention. it's no wonder your parents wised up and stopped laying eggs after you hatched. they at least learned their lesson the first time. you are one of the prime perpetrators of the spam plague that you are calling to have these boards purged of. what's the matter, crybaby? can't handle the heat when people tell you that you really are not funny or all that interesting? can't take the anonymity at home because you are just another number and mean nothing anywhere else except here? you are so damn insecure and self-centered that you have to create an online persona that gets you attention - ANY attention, just so long as someone is focusing on you and no one else - because in the real world, you can't even shout and get anyone to look twice your way, much less listen. you're not annoying. you're a sorry excuse for a jerk and i don't even have the capacity to pity you. so just slow yer roll, toke a bowl, and relax and learn how to have fun at this game by actually PLAYING instead of trying to be a poor imitation of the deity loki. loki, at least, has style when he causes havoc.
 
@@ -396,13 +396,13 @@ Cheerios,
 
 </div>
 
-<div class="post" data-post-id="19336" data-author="Weasel" data-date="2007-07-21T22:17:24+00:00">
+<div class="post" data-post-id="19336" data-author="Weasel" data-date="2007-07-21T22:17:24+00:00" data-subject="Re: There&#x27;s Something About Akasha OR Censorship Rocks!!!">
 
 corm.
 
 </div>
 
-<div class="post" data-post-id="19337" data-author="Weasel" data-date="2007-07-21T23:04:28+00:00">
+<div class="post" data-post-id="19337" data-author="Weasel" data-date="2007-07-21T23:04:28+00:00" data-subject="">
 
 Back on topic, I haff an ideaz.
 
@@ -414,7 +414,7 @@ yes?
 
 </div>
 
-<div class="post" data-post-id="19344" data-author="*juggleblood*" data-date="2007-07-22T07:33:00+00:00">
+<div class="post" data-post-id="19344" data-author="*juggleblood*" data-date="2007-07-22T07:33:00+00:00" data-subject="">
 
 hrm, 
 
@@ -424,7 +424,7 @@ If you wanted tho, I could add a one or two minute delay after corpsing until yo
 
 </div>
 
-<div class="post" data-post-id="19345" data-author="*juggleblood*" data-date="2007-07-22T07:36:19+00:00">
+<div class="post" data-post-id="19345" data-author="*juggleblood*" data-date="2007-07-22T07:36:19+00:00" data-subject="">
 
 Oh, and yes I would like my previous post regarding Hades posted. I am actually rather insulted that you would choose to censor my post, rather than his persistent spam.
 
@@ -434,7 +434,7 @@ I'm not going to "check myself" because I'm not saying it in anger when I say th
 
 </div>
 
-<div class="post" data-post-id="19346" data-author="Tap" data-date="2007-07-22T12:06:18+00:00">
+<div class="post" data-post-id="19346" data-author="Tap" data-date="2007-07-22T12:06:18+00:00" data-subject="">
 
 [quote:11htiamd]Oh, and yes I would like my previous post regarding Hades posted. I gladly admit his superiority am actually rather insulted that you would choose to censor my post, rather than his persistent charm.
 
@@ -446,19 +446,19 @@ Will area/arena have psteal also or just strictly pkill? It has a few chinks tha
 
 </div>
 
-<div class="post" data-post-id="19350" data-author="Weasel" data-date="2007-07-22T15:10:02+00:00">
+<div class="post" data-post-id="19350" data-author="Weasel" data-date="2007-07-22T15:10:02+00:00" data-subject="">
 
 heh.. not surprised to see that question from you Hades.. err.. Tap. I think if psteal were added to the area, at least 50% of the playerbase would avoid it, however that is just speculation. The point of the area, I believe, is for playing clan vs clan rather than pvp. Making the area psteal would (in my mind) change the dynamic to one of personal gain rather than working for a common goal, at least for some. In other words I can imagine certain pthiefs abandoning the goal of capturing the other team's flag in favor of pillaging some eq off another player and leaving their teammates to die.
 
 </div>
 
-<div class="post" data-post-id="19351" data-author="brady" data-date="2007-07-22T17:40:06+00:00">
+<div class="post" data-post-id="19351" data-author="brady" data-date="2007-07-22T17:40:06+00:00" data-subject="">
 
 nevermind, carry-on.
 
 </div>
 
-<div class="post" data-post-id="19352" data-author="resouh" data-date="2007-07-22T18:39:36+00:00">
+<div class="post" data-post-id="19352" data-author="resouh" data-date="2007-07-22T18:39:36+00:00" data-subject="">
 
 Here are a couple of Ideas to be considered.  
 
@@ -474,7 +474,7 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="19353" data-author="Tap" data-date="2007-07-22T19:01:10+00:00">
+<div class="post" data-post-id="19353" data-author="Tap" data-date="2007-07-22T19:01:10+00:00" data-subject="">
 
 [quote:1nbjm0pt]I think if psteal were added to the area, at least 50% of the playerbase would avoid it, however that is just speculation.[/quote:1nbjm0pt]
 
@@ -494,7 +494,7 @@ This has alot of potential...
 
 </div>
 
-<div class="post" data-post-id="19356" data-author="Weasel" data-date="2007-07-22T19:53:22+00:00">
+<div class="post" data-post-id="19356" data-author="Weasel" data-date="2007-07-22T19:53:22+00:00" data-subject="">
 
 I totally agree. Some people hate challenges and would rather 'puss out' instead of facing them. Having psteal would add the 'x' factor.[/quote:1omxruxp]
 
@@ -502,7 +502,7 @@ It's a proposed clan area. for clans. understand? Don't try to make out you're p
 
 </div>
 
-<div class="post" data-post-id="19357" data-author="Tap" data-date="2007-07-22T23:19:27+00:00">
+<div class="post" data-post-id="19357" data-author="Tap" data-date="2007-07-22T23:19:27+00:00" data-subject="">
 
 Perhaps I didn't make myself clear. Understood it's a proposed clan area. Also mentioned that just because it's clan based shouldn't keep someone who isn't in a clan out.  What about 4-5 people who don't wanna be in a clan but want to group for a tournament or whatever.  Also, certain guards could be placed to keep someone who wished to 'solo' from leaving area before time was up etc etc would prevent cheating for someone who plays a pthief. Don't be so damn paranoid.. I'm not calling people pussies for not wanting an 'unknown' variable thrown in a mix.  Just some people, not YOU of course, get all worked up when even a hint of psteal is mentioned.
 
@@ -510,13 +510,13 @@ Good day to you sir,
 
 </div>
 
-<div class="post" data-post-id="19358" data-author="13" data-date="2007-07-23T00:37:27+00:00">
+<div class="post" data-post-id="19358" data-author="13" data-date="2007-07-23T00:37:27+00:00" data-subject="">
 
 I would pay a lot to find out who hades plays, if she even plays.  It would be worth logging on for more than an hour or two at a time to give her the ole fyrstenheart salute.
 
 </div>
 
-<div class="post" data-post-id="19359" data-author="Tap" data-date="2007-07-23T00:54:48+00:00">
+<div class="post" data-post-id="19359" data-author="Tap" data-date="2007-07-23T00:54:48+00:00" data-subject="">
 
 I hear Hades other char is Bag but maybe thats just a rumour. Also, why pay someone? Pkilling is against the rules and strictly enforced.
 
@@ -524,13 +524,13 @@ I hear Hades other char is Bag but maybe thats just a rumour. Also, why pay some
 
 </div>
 
-<div class="post" data-post-id="19360" data-author="Tap" data-date="2007-07-23T00:56:26+00:00">
+<div class="post" data-post-id="19360" data-author="Tap" data-date="2007-07-23T00:56:26+00:00" data-subject="">
 
 Sorry, I got off-topic. Please stay on topic 13 or start a new thread. Anyone  else have other ideas for this area?
 
 </div>
 
-<div class="post" data-post-id="19361" data-author="Weasel" data-date="2007-07-23T01:57:25+00:00">
+<div class="post" data-post-id="19361" data-author="Weasel" data-date="2007-07-23T01:57:25+00:00" data-subject="">
 
 Perhaps I didn't make myself clear. Understood it's a proposed clan area. Also mentioned that just because it's clan based shouldn't keep someone who isn't in a clan out.  What about 4-5 people who don't wanna be in a clan but want to group for a tournament or whatever.  Also, certain guards could be placed to keep someone who wished to 'solo' from leaving area before time was up etc etc would prevent cheating for someone who plays a pthief. Don't be so damn paranoid.. I'm not calling people pussies for not wanting an 'unknown' variable thrown in a mix.  Just some people, not YOU of course, get all worked up when even a hint of psteal is mentioned.
 
@@ -540,7 +540,7 @@ If you want to join a clan tourny (if one should ever exist), then join a clan -
 
 </div>
 
-<div class="post" data-post-id="19365" data-author="resouh" data-date="2007-07-23T07:16:20+00:00">
+<div class="post" data-post-id="19365" data-author="resouh" data-date="2007-07-23T07:16:20+00:00" data-subject="">
 
 Well, on that note, how exactly does one go about joining a clan.  Last I heard some clans were expecting immediate dues from players to join etc.  Am interested in joining a clan but not sure exactly what the procedure is on sloth.  Does it vary clan to clan? is there an easy way to see who the clan leader is to talk to them?  What about newer players?  Is there a clan to take on newer players just getting in to sloth?  This might be a question better suited to a new topic but to be honest very few crier topics seem to last 10 comments before they are about something else.  Well...ummm....and that's all I have to say about that.....<---best forrest gump impression I can muster.
 
@@ -548,7 +548,7 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="19366" data-author="Avatar" data-date="2007-07-23T08:23:18+00:00">
+<div class="post" data-post-id="19366" data-author="Avatar" data-date="2007-07-23T08:23:18+00:00" data-subject="Clan joining">
 
 The process depends on the clan.  There isn't a set group of circumstances.
 
@@ -556,7 +556,7 @@ The clan board (on BH at least, don't remember if there is one on every continen
 
 </div>
 
-<div class="post" data-post-id="19368" data-author="Autolycos" data-date="2007-07-23T15:17:16+00:00">
+<div class="post" data-post-id="19368" data-author="Autolycos" data-date="2007-07-23T15:17:16+00:00" data-subject="Clan Joining">
 
 Indeed, each clan has their own methods.
 
@@ -566,7 +566,7 @@ And then there are some that are just plain impossible to deal with  :roll:
 
 </div>
 
-<div class="post" data-post-id="19370" data-author="Leaf" data-date="2007-07-23T15:41:04+00:00">
+<div class="post" data-post-id="19370" data-author="Leaf" data-date="2007-07-23T15:41:04+00:00" data-subject="Re: Clan Joining">
 
 Indeed, each clan has their own methods.
 
@@ -580,7 +580,7 @@ toes it's more like a bribe :)  (BEERFEST)
 
 </div>
 
-<div class="post" data-post-id="19372" data-author="13" data-date="2007-07-23T18:05:04+00:00">
+<div class="post" data-post-id="19372" data-author="13" data-date="2007-07-23T18:05:04+00:00" data-subject="">
 
 [quote:ojllkhox]And then there are some that are just plain impossible to deal with Rolling Eyes[/quote:ojllkhox]
 
@@ -588,7 +588,7 @@ toes it's more like a bribe :)  (BEERFEST)
 
 </div>
 
-<div class="post" data-post-id="19373" data-author="Autolycos" data-date="2007-07-23T21:19:11+00:00">
+<div class="post" data-post-id="19373" data-author="Autolycos" data-date="2007-07-23T21:19:11+00:00" data-subject="">
 
 laugh 
 
@@ -596,7 +596,7 @@ i'm damn proud of it!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="19374" data-author="alias" data-date="2007-07-24T00:21:06+00:00">
+<div class="post" data-post-id="19374" data-author="alias" data-date="2007-07-24T00:21:06+00:00" data-subject="">
 
 bribe me.. it doesn't help, but I appreciate the coinage.
 
@@ -604,7 +604,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="19379" data-author="*juggleblood*" data-date="2007-07-24T17:52:34+00:00">
+<div class="post" data-post-id="19379" data-author="*juggleblood*" data-date="2007-07-24T17:52:34+00:00" data-subject="">
 
 I believe the standing guidelines on Sloth for clan related stuff is that being in a clan should not provide any substantive bonus to the player and that not being in a clan should not restrict a player from any part of the game. Thus anyone can participate and on anyone else's team. If a particular clan wants to field a team and name themselves the DS, DoW, Pirate, Sapphire,...etc team thats fine. But ultimately anyone is free to be on anyone else's team.
 
@@ -626,7 +626,7 @@ Any volunteers for player testing on Sunday afternoon or evening? Send me a priv
 
 </div>
 
-<div class="post" data-post-id="19380" data-author="13" data-date="2007-07-24T18:22:26+00:00">
+<div class="post" data-post-id="19380" data-author="13" data-date="2007-07-24T18:22:26+00:00" data-subject="">
 
 the tourney eq was updated a couple years ago and most of it is awesome
 
@@ -636,7 +636,7 @@ wrist and shield respectively iirc
 
 </div>
 
-<div class="post" data-post-id="19381" data-author="Shazuko" data-date="2007-07-24T19:12:29+00:00">
+<div class="post" data-post-id="19381" data-author="Shazuko" data-date="2007-07-24T19:12:29+00:00" data-subject="">
 
 maybe add a few more clasp types for the hands, arms, waist, and body...
 
@@ -656,7 +656,7 @@ and/or a nice item for the <loaded> slot that does NOT require a counterpart wea
 
 </div>
 
-<div class="post" data-post-id="19389" data-author="Tap" data-date="2007-07-24T23:37:19+00:00">
+<div class="post" data-post-id="19389" data-author="Tap" data-date="2007-07-24T23:37:19+00:00" data-subject="Go go gadget goodies">
 
 Hrm.. to steal an idea from movies who steal them from books..
 
@@ -670,13 +670,13 @@ Seems like things are starting to come together... last thought.. how can we get
 
 </div>
 
-<div class="post" data-post-id="19392" data-author="Weasel" data-date="2007-07-25T00:18:35+00:00">
+<div class="post" data-post-id="19392" data-author="Weasel" data-date="2007-07-25T00:18:35+00:00" data-subject="">
 
 :roll:
 
 </div>
 
-<div class="post" data-post-id="19407" data-author="*juggleblood*" data-date="2007-07-26T05:27:51+00:00">
+<div class="post" data-post-id="19407" data-author="*juggleblood*" data-date="2007-07-26T05:27:51+00:00" data-subject="">
 
 Your gold is auto-banked when you enter. At start of tourney, a pre-agreed sum of gold is distributed to each team to purchase stuff. Currently the only things available for purchase are:
 
@@ -692,7 +692,7 @@ More to be added.
 
 </div>
 
-<div class="post" data-post-id="19413" data-author="Avatar" data-date="2007-07-26T14:52:54+00:00">
+<div class="post" data-post-id="19413" data-author="Avatar" data-date="2007-07-26T14:52:54+00:00" data-subject="Dispel Grenade">
 
 Dispel grenades sound awesome!  I love it.  Funny, only thieves have throw?  I don't know if you're using that skill for the nades, even.
 
@@ -702,7 +702,7 @@ Sounds like fun though, I hope to try it sometime.  :)
 
 </div>
 
-<div class="post" data-post-id="19414" data-author="Shazuko" data-date="2007-07-26T15:30:54+00:00">
+<div class="post" data-post-id="19414" data-author="Shazuko" data-date="2007-07-26T15:30:54+00:00" data-subject="">
 
 1) Is this arena going to be in additon to, or in replacement of, the classic
 

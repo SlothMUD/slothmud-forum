@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="10669" data-author="Weasel" data-date="2006-02-11T18:31:24+00:00">
+<div class="post" data-post-id="10669" data-author="Weasel" data-date="2006-02-11T18:31:24+00:00" data-subject="Lyme Autoquests">
 
 list them here
 
 </div>
 
-<div class="post" data-post-id="35717" data-author="*juggleblood*" data-date="2015-03-01T06:19:56+00:00">
+<div class="post" data-post-id="35717" data-author="*juggleblood*" data-date="2015-03-01T06:19:56+00:00" data-subject="Re: Lyme Autoquests">
 
 From [<LINK_TEXT text="http://www.slothmud.org/wiki/Area:The_S ... d_and_Evil">http://www.slothmud.org/wiki/Area:The_Spire_of_Good_and_Evil</LINK_TEXT>](http://www.slothmud.org/wiki/Area:The_Spire_of_Good_and_Evil)
 

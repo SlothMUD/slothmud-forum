@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="18804" data-author="Medios" data-date="2007-06-06T00:00:32+00:00">
+<div class="post" data-post-id="18804" data-author="Medios" data-date="2007-06-06T00:00:32+00:00" data-subject="Form like Voltron!">
 
 Stryx[Clan:The Dogs of War]> 'oh hes looted'
 
@@ -22,7 +22,7 @@ Mojo[Clan:The Dogs of War]> 'form like voltron etc.'
 
 </div>
 
-<div class="post" data-post-id="18805" data-author="Autolycos" data-date="2007-06-06T01:36:01+00:00">
+<div class="post" data-post-id="18805" data-author="Autolycos" data-date="2007-06-06T01:36:01+00:00" data-subject="">
 
 laugh ... 
 

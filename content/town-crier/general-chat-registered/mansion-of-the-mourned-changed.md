@@ -10,7 +10,7 @@ locked: false
 post_count: 59
 ---
 
-<div class="post" data-post-id="30594" data-author="Gimlet" data-date="2010-01-08T12:06:23+00:00">
+<div class="post" data-post-id="30594" data-author="Gimlet" data-date="2010-01-08T12:06:23+00:00" data-subject="Mansion of the mourned changed?">
 
 Did someone tweak mansion of the mourned?
 
@@ -18,7 +18,7 @@ after the earlier mess up with crash and code acting weird, there are now 4 cent
 
 </div>
 
-<div class="post" data-post-id="30595" data-author="Vixn" data-date="2010-01-08T12:23:04+00:00">
+<div class="post" data-post-id="30595" data-author="Vixn" data-date="2010-01-08T12:23:04+00:00" data-subject="">
 
 As I've heard at origin centiworm were designed to respawn in the special room with 4 exits (one-way exits). These exits were broken that's why centiworm fell to freezer and stay there untill next crush/reboot. It seems now it's been fixed.
 
@@ -26,7 +26,7 @@ Kida.
 
 </div>
 
-<div class="post" data-post-id="30599" data-author="Gimlet" data-date="2010-01-08T13:38:54+00:00">
+<div class="post" data-post-id="30599" data-author="Gimlet" data-date="2010-01-08T13:38:54+00:00" data-subject="">
 
 i don't think u understood my question
 
@@ -34,7 +34,7 @@ there are now FOUR centiworms in the area
 
 </div>
 
-<div class="post" data-post-id="30612" data-author="Gimlet" data-date="2010-01-10T11:02:20+00:00">
+<div class="post" data-post-id="30612" data-author="Gimlet" data-date="2010-01-10T11:02:20+00:00" data-subject="">
 
 seriously, if you imms intend to make changes to an existing area, it'd be good and polite to give us a heads up.
 
@@ -54,7 +54,7 @@ Sure, I can choose not to kill in mansion, which I am doing now.  But I don't kn
 
 </div>
 
-<div class="post" data-post-id="30613" data-author="*Splork*" data-date="2010-01-10T15:56:25+00:00">
+<div class="post" data-post-id="30613" data-author="*Splork*" data-date="2010-01-10T15:56:25+00:00" data-subject="Mansion of the Mourned adjusted">
 
 This is the second change to Mansion and the reason has more to do with areastats than it does with your player's xp in the last week. I personally had not seen them until just now when I was preparing for this post. Keep in mind, that I did not however make these changes but I agree with them after researching them for the last few hours. 
 
@@ -86,7 +86,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30614" data-author="Gimlet" data-date="2010-01-10T16:04:58+00:00">
+<div class="post" data-post-id="30614" data-author="Gimlet" data-date="2010-01-10T16:04:58+00:00" data-subject="">
 
 thanks for your post splork :)
 
@@ -98,7 +98,7 @@ keep up the good work....great work i mean
 
 </div>
 
-<div class="post" data-post-id="30631" data-author="Atwell" data-date="2010-01-11T03:08:22+00:00">
+<div class="post" data-post-id="30631" data-author="Atwell" data-date="2010-01-11T03:08:22+00:00" data-subject="Re: Mansion of the Mourned adjusted">
 
 2) With over 9,000 kills, the area had only yielded 72 PC deaths( until the recent changes).
 
@@ -116,7 +116,7 @@ I'm not expressing an opinion on whether the change was right, only on the analy
 
 </div>
 
-<div class="post" data-post-id="30632" data-author="Gimlet" data-date="2010-01-11T05:32:19+00:00">
+<div class="post" data-post-id="30632" data-author="Gimlet" data-date="2010-01-11T05:32:19+00:00" data-subject="">
 
 that's a good point which I brought up over gossip
 
@@ -130,7 +130,7 @@ I do agree that every area should have a level of danger, and this does indeed m
 
 </div>
 
-<div class="post" data-post-id="30633" data-author="jezer" data-date="2010-01-11T06:18:00+00:00">
+<div class="post" data-post-id="30633" data-author="jezer" data-date="2010-01-11T06:18:00+00:00" data-subject="">
 
 Why don't you use mansion as a template for good areas that work?
 
@@ -138,7 +138,7 @@ What do your stats tell you about Perseverance?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="30640" data-author="Gimlet" data-date="2010-01-11T14:29:42+00:00">
+<div class="post" data-post-id="30640" data-author="Gimlet" data-date="2010-01-11T14:29:42+00:00" data-subject="">
 
 umm my msg got cut off it seems
 
@@ -150,7 +150,7 @@ I did a count of the number of rooms where the centiworms can wander, and there'
 
 </div>
 
-<div class="post" data-post-id="30641" data-author="Gimlet" data-date="2010-01-11T15:55:20+00:00">
+<div class="post" data-post-id="30641" data-author="Gimlet" data-date="2010-01-11T15:55:20+00:00" data-subject="">
 
 so yeah, been trying various tactics when doing mansion now...
 
@@ -166,13 +166,13 @@ I'm not complaining, just giving feedback on what it's like now
 
 </div>
 
-<div class="post" data-post-id="30646" data-author="Bennett" data-date="2010-01-12T00:27:24+00:00">
+<div class="post" data-post-id="30646" data-author="Bennett" data-date="2010-01-12T00:27:24+00:00" data-subject="">
 
 Some people don't like to group and prefer to go it alone.  Heaven forbid it be possible to sort of keep up with those who loaf in bh xp groups.
 
 </div>
 
-<div class="post" data-post-id="30647" data-author="Thraxas" data-date="2010-01-12T00:57:45+00:00">
+<div class="post" data-post-id="30647" data-author="Thraxas" data-date="2010-01-12T00:57:45+00:00" data-subject="">
 
 Some people don't like to group and prefer to go it alone.  Heaven forbid it be possible to sort of keep up with those who loaf in bh xp groups.[/quote:3bex9ckm]
 
@@ -190,7 +190,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30648" data-author="*Splork*" data-date="2010-01-12T03:03:29+00:00">
+<div class="post" data-post-id="30648" data-author="*Splork*" data-date="2010-01-12T03:03:29+00:00" data-subject="">
 
 In response to Atwell, I was only attempting to show that we keep stats of everything in this game from areastats, to mobstats, to playerstats, to lost concentration on spells and to skillstats. And because of this, while they are not perfect, it becomes very obvious to us which areas need adjusting UP and which areas may need a little adjusting down. Or what skills and spells need improving, etc. 
 
@@ -210,7 +210,7 @@ Thraxas and Wimpy have sent me emails recently and hopefully I can take a few of
 
 </div>
 
-<div class="post" data-post-id="30649" data-author="Bennett" data-date="2010-01-12T03:20:48+00:00">
+<div class="post" data-post-id="30649" data-author="Bennett" data-date="2010-01-12T03:20:48+00:00" data-subject="">
 
 As for soloing against group exp, we have made quite a few adjustments in the exp calculator to give back more exp for soloers and small groups and Im pretty sure you guys are aware of this. We are listening to you guys and for the most part we are all quite happy, I think....
 
@@ -222,7 +222,7 @@ It is entirely possible, however, that I just suck.
 
 </div>
 
-<div class="post" data-post-id="30650" data-author="Gimlet" data-date="2010-01-12T03:33:12+00:00">
+<div class="post" data-post-id="30650" data-author="Gimlet" data-date="2010-01-12T03:33:12+00:00" data-subject="">
 
 yup splork i know the reasoning behind changing up mansion a little
 
@@ -242,13 +242,13 @@ Just out of curiosity, why is the "official policy" of the mud admin to encourag
 
 </div>
 
-<div class="post" data-post-id="30652" data-author="Bennett" data-date="2010-01-12T05:46:44+00:00">
+<div class="post" data-post-id="30652" data-author="Bennett" data-date="2010-01-12T05:46:44+00:00" data-subject="">
 
 Turns out soloing is not such a good idea anyway.  Hive did me in.  I think I'm done.
 
 </div>
 
-<div class="post" data-post-id="30653" data-author="Atwell" data-date="2010-01-12T06:12:04+00:00">
+<div class="post" data-post-id="30653" data-author="Atwell" data-date="2010-01-12T06:12:04+00:00" data-subject="Rule 4">
 
 Looking at some groups I'd say that for most the time at least half the group is breaking rule 4 ... seems its not enforced for groups, worst that happens is a player is recalled ... perhaps I can similarly break rule 4 while soloing ... both are equally wrong but if I did and was found out I'd be wiped.
 
@@ -260,7 +260,7 @@ That said, hypothetical enforcement would vary.  Group automata span the continu
 
 </div>
 
-<div class="post" data-post-id="30654" data-author="jezer" data-date="2010-01-12T08:58:23+00:00">
+<div class="post" data-post-id="30654" data-author="jezer" data-date="2010-01-12T08:58:23+00:00" data-subject="">
 
 Turns out soloing is not such a good idea anyway.  Hive did me in.  I think I'm done.[/quote:3e0b71id]
 
@@ -268,7 +268,7 @@ Bennett, your class order seems absolutely perfect for nailing hive. Talk to me 
 
 </div>
 
-<div class="post" data-post-id="30655" data-author="*juggleblood*" data-date="2010-01-12T13:25:11+00:00">
+<div class="post" data-post-id="30655" data-author="*juggleblood*" data-date="2010-01-12T13:25:11+00:00" data-subject="">
 
 Solo xp has always been less that group xp. When you add people, the total xp goes up, but the difficulty goes down. I've always thought the idea behind this was to push people to be social and interact in big groups. 
 
@@ -278,7 +278,7 @@ I don't really like how the xp groups zoom people past the early levels. I like 
 
 </div>
 
-<div class="post" data-post-id="30657" data-author="Gimlet" data-date="2010-01-12T14:01:25+00:00">
+<div class="post" data-post-id="30657" data-author="Gimlet" data-date="2010-01-12T14:01:25+00:00" data-subject="">
 
 agreed juggs
 
@@ -294,7 +294,7 @@ it's kinda funny to see how some 3x40,4x40 characters just sitting aroud at the 
 
 </div>
 
-<div class="post" data-post-id="30658" data-author="Gimlet" data-date="2010-01-12T14:14:30+00:00">
+<div class="post" data-post-id="30658" data-author="Gimlet" data-date="2010-01-12T14:14:30+00:00" data-subject="Re: Rule 4">
 
 In S3, a leader's botting accusation normally meant "You're not doing your job, whether you're an automaton or just a human contributing poorly."  Your contention seems to be in that spirit; it's hard to imagine that S4 suddenly attracted numerous people busily writing scripts to automate the bulk of their group duties.  Being lazy or afk in a group is not itself a rules violation, and it's also something that players can punish quite well on their own.[/quote:3afvgymz]
 
@@ -310,7 +310,7 @@ But it seems now that learning an area well enough to not die in it brings about
 
 </div>
 
-<div class="post" data-post-id="30659" data-author="blackmore" data-date="2010-01-12T18:00:11+00:00">
+<div class="post" data-post-id="30659" data-author="blackmore" data-date="2010-01-12T18:00:11+00:00" data-subject="Re: Rule 4">
 
 But it seems now that learning an area well enough to not die in it brings about changes to the area?[/quote:1s96sf18]
 
@@ -322,7 +322,7 @@ With your logic, you should be able to camp out in any area, run it to death wit
 
 </div>
 
-<div class="post" data-post-id="30661" data-author="jezer" data-date="2010-01-12T19:24:01+00:00">
+<div class="post" data-post-id="30661" data-author="jezer" data-date="2010-01-12T19:24:01+00:00" data-subject="">
 
 The upper limit of my solo runs is about 4m (a lucky olympus run). I can get that in 3 mobs in a group... why should I solo for xp when I am so weak... simple equation for players not running mansion? hehe.
 
@@ -350,7 +350,7 @@ I honestly expect the solo situation to get better as I get more powerful, but h
 
 </div>
 
-<div class="post" data-post-id="30662" data-author="Gimlet" data-date="2010-01-12T20:00:35+00:00">
+<div class="post" data-post-id="30662" data-author="Gimlet" data-date="2010-01-12T20:00:35+00:00" data-subject="Re: Rule 4">
 
 I've never understood why changing an area that's clearly out of line with other areas is wrong.  There's a mob in Mansion that gives me more xp in 1 kill than I can get in most areas in a  full run - and I didn't have to learn it, I walk into its room while lit and I blast it.
 
@@ -364,7 +364,7 @@ I already said I'm all for changes, but this "change" is just a lazy and sloppy 
 
 </div>
 
-<div class="post" data-post-id="30663" data-author="Thraxas" data-date="2010-01-12T21:02:22+00:00">
+<div class="post" data-post-id="30663" data-author="Thraxas" data-date="2010-01-12T21:02:22+00:00" data-subject="">
 
 I don't see Thraxas in groups, so it's a bit cheap to moan about it, but I think there point is valid. Poit joins when he can/wants to, which is a wise choice in my opinion.
 
@@ -378,13 +378,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="30664" data-author="Ezekiel" data-date="2010-01-12T22:14:07+00:00">
+<div class="post" data-post-id="30664" data-author="Ezekiel" data-date="2010-01-12T22:14:07+00:00" data-subject="">
 
 I agree the area may have needed changes, but making it a death trap by spawning 4 aggro hunting mobs across 9 rooms probably isn't the best way...reduce mob xp and give credit to those who know the area well and want to continue to run area. If it isn't as profitable, they will run other areas as well. Just because ppl make killer xp in an area and they don't die doesn't mean you need to necessarily force deaths...just means you need to find a way to allow them to run it without the extreme benefit of unbalanced xp.
 
 </div>
 
-<div class="post" data-post-id="30665" data-author="*juggleblood*" data-date="2010-01-12T23:04:33+00:00">
+<div class="post" data-post-id="30665" data-author="*juggleblood*" data-date="2010-01-12T23:04:33+00:00" data-subject="">
 
 I'm with you on this one. I'm not a fan of following the xp train either. It's just a necessary evil on sloth. 
 
@@ -396,7 +396,7 @@ We're perfectly willing to entertain suggestions on how areas can be improved to
 
 </div>
 
-<div class="post" data-post-id="30666" data-author="Gimlet" data-date="2010-01-13T04:12:18+00:00">
+<div class="post" data-post-id="30666" data-author="Gimlet" data-date="2010-01-13T04:12:18+00:00" data-subject="">
 
 despite having solo'ed mostly in mansion the past few weeks, I do hate camping in an area, which is why I've been sailing aroud the continents looking for areas to kill in.  I've also been killing quite a bit lately in air/water/earth/fire planes, and necropolis on lyme.
 
@@ -420,7 +420,7 @@ Truth is, even if all the mobs there were worth 400k-800k I'd still kill in ther
 
 </div>
 
-<div class="post" data-post-id="30669" data-author="Shyla" data-date="2010-01-13T21:18:59+00:00">
+<div class="post" data-post-id="30669" data-author="Shyla" data-date="2010-01-13T21:18:59+00:00" data-subject="">
 
 this has nothing to do with mansion of the mourned but speaking of areas where tweaking might be nice..  Undead city on ss with those 2 stupid ambushing vampires that you can't kill but kill you very fast is getting to be very ridiculous.  I wanted to teach someone a spell and couldn't even find a way to deal with them.  I used to be able to toss them and they used to  be a couple of winds to kill them.  Somewhere they got bumped up so bad that most people can't even mess with that area b/c of the 2 of them.  Shrug just my 2 cents. 
 
@@ -428,13 +428,13 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="30672" data-author="*juggleblood*" data-date="2010-01-13T22:59:08+00:00">
+<div class="post" data-post-id="30672" data-author="*juggleblood*" data-date="2010-01-13T22:59:08+00:00" data-subject="">
 
 Are you sure they r bigger than they used to be?
 
 </div>
 
-<div class="post" data-post-id="30678" data-author="Dragoth" data-date="2010-01-14T15:10:10+00:00">
+<div class="post" data-post-id="30678" data-author="Dragoth" data-date="2010-01-14T15:10:10+00:00" data-subject="">
 
 Agreed regarding the vamps, they are just shockingly annoying. You can still run through the area as a ferret, but you can forget soloing in that area at anything below avatar. 
 
@@ -442,7 +442,7 @@ Before they werent aggro to anyone with undead visage and were much smaller.
 
 </div>
 
-<div class="post" data-post-id="30679" data-author="Thraxas" data-date="2010-01-14T16:04:56+00:00">
+<div class="post" data-post-id="30679" data-author="Thraxas" data-date="2010-01-14T16:04:56+00:00" data-subject="">
 
 As this has moved onto other areas can I make a plea for players not to leave the cell doors in hellwell open, if you do rakashas will wander into the central spiral and turn that into a potential deathtrap too, but then this isnt new always been an annoyance,
 
@@ -450,7 +450,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30683" data-author="Shyla" data-date="2010-01-14T18:28:13+00:00">
+<div class="post" data-post-id="30683" data-author="Shyla" data-date="2010-01-14T18:28:13+00:00" data-subject="">
 
 I am not sure they STILL are i haven't tried killing them recently but before you could kill them in 2-3 winds then they got changed that that didn't even make a dent in the vampires.  And unless they changed it they attack you as a ferret too.  
 
@@ -458,7 +458,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="30684" data-author="*juggleblood*" data-date="2010-01-14T23:20:55+00:00">
+<div class="post" data-post-id="30684" data-author="*juggleblood*" data-date="2010-01-14T23:20:55+00:00" data-subject="">
 
 Before they werent aggro to anyone with undead visage and were much smaller.[/quote:3o2l6gm7]
 
@@ -466,7 +466,7 @@ Before what?
 
 </div>
 
-<div class="post" data-post-id="30685" data-author="Shyla" data-date="2010-01-15T05:09:45+00:00">
+<div class="post" data-post-id="30685" data-author="Shyla" data-date="2010-01-15T05:09:45+00:00" data-subject="">
 
 not sure when they got changed. Someone thought it might have been for a quest and they never got changed back but they got changed about 2 years ago or so no notice they were just NASTY.
 
@@ -474,7 +474,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="30688" data-author="blackmore" data-date="2010-01-15T16:32:39+00:00">
+<div class="post" data-post-id="30688" data-author="blackmore" data-date="2010-01-15T16:32:39+00:00" data-subject="">
 
 not sure when they got changed. Someone thought it might have been for a quest and they never got changed back but they got changed about 2 years ago or so no notice they were just NASTY.
 
@@ -484,7 +484,7 @@ They have been reset back down to a manageable level for a month or two now.  I 
 
 </div>
 
-<div class="post" data-post-id="30689" data-author="Shyla" data-date="2010-01-15T18:55:38+00:00">
+<div class="post" data-post-id="30689" data-author="Shyla" data-date="2010-01-15T18:55:38+00:00" data-subject="">
 
 Thanks blackmore I for one didn't know that I haven't even tried them because they were so close to insta kill before it wasn't good to even try.  I will have to try next time I am on and see how it goes
 
@@ -494,13 +494,13 @@ DEB
 
 </div>
 
-<div class="post" data-post-id="30702" data-author="Medios" data-date="2010-01-19T22:19:05+00:00">
+<div class="post" data-post-id="30702" data-author="Medios" data-date="2010-01-19T22:19:05+00:00" data-subject="">
 
 The main problem I think about when I read these posts is the easy fix.  Instead of beefing up the areas that suck it seems the good areas get nerfed, to bring them down to the level of the crap areas.  I am not saying the mansion is that much worse now but I just feel like it serves the mud better to spruce up the areas that nobody goes to instead of beating up the popular areas.  I concur that sometimes grouping is not in order.
 
 </div>
 
-<div class="post" data-post-id="30703" data-author="*Splork*" data-date="2010-01-19T23:11:01+00:00">
+<div class="post" data-post-id="30703" data-author="*Splork*" data-date="2010-01-19T23:11:01+00:00" data-subject="">
 
 We are always adding things to the older areas, just last month we added over 30% exp increases and gold increases to probably 40+ areas.
 
@@ -512,13 +512,13 @@ And I agree, I dont think everyone should have to group, and they dont...
 
 </div>
 
-<div class="post" data-post-id="30706" data-author="Bennett" data-date="2010-01-20T02:11:21+00:00">
+<div class="post" data-post-id="30706" data-author="Bennett" data-date="2010-01-20T02:11:21+00:00" data-subject="">
 
 From the top 20 list, it is evident that those who decide not to group are in general making a lot less xp than those who group.  This includes those exploiting  "obnoxiously better" areas.
 
 </div>
 
-<div class="post" data-post-id="30707" data-author="*Splork*" data-date="2010-01-20T04:38:38+00:00">
+<div class="post" data-post-id="30707" data-author="*Splork*" data-date="2010-01-20T04:38:38+00:00" data-subject="">
 
 The fact is, groups keep this mud alive, it keeps the playerbase strong, social, and hungry for more. Without groups this mud would not of survived 3 yrs, none the less the twentieth year that we will soon be reaching.
 
@@ -534,7 +534,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30708" data-author="Gimlet" data-date="2010-01-20T06:00:28+00:00">
+<div class="post" data-post-id="30708" data-author="Gimlet" data-date="2010-01-20T06:00:28+00:00" data-subject="">
 
 Hey rick
 
@@ -546,7 +546,7 @@ again, no need to apologize for anything!
 
 </div>
 
-<div class="post" data-post-id="30765" data-author="harik" data-date="2010-01-31T13:45:24+00:00">
+<div class="post" data-post-id="30765" data-author="harik" data-date="2010-01-31T13:45:24+00:00" data-subject="">
 
 If your a player and you want to make as much exp soloing as you do grouping, this is probably the wrong mud for you.  Thats as honest as I can get.
 
@@ -562,7 +562,7 @@ Right now the only thing I ever solo for is coins (and the smaller AQs), just to
 
 </div>
 
-<div class="post" data-post-id="30766" data-author="Toxis" data-date="2010-01-31T18:03:55+00:00">
+<div class="post" data-post-id="30766" data-author="Toxis" data-date="2010-01-31T18:03:55+00:00" data-subject="">
 
 I did make 101 mil my share last night before we regened but I have also had groups where I make 15 mil my share.  Keep in mind there were a lot of bonuses on last night as well.  We just happened to have some very powerful players in the group, nearly a perfect group, and that happens very rarely.
 
@@ -574,7 +574,7 @@ Please, someone design a good group gold area please.
 
 </div>
 
-<div class="post" data-post-id="30767" data-author="jezer" data-date="2010-01-31T19:38:07+00:00">
+<div class="post" data-post-id="30767" data-author="jezer" data-date="2010-01-31T19:38:07+00:00" data-subject="">
 
 I two ran Luhhan in westwood the other night with full pets and got 1.7m xp. I half ran an aged prison wight in skeep last night and got 2m xp even. I simply don't bother doing xp at the moment solo, because 3hrs solo = 1hrs group. There is a HUGE CHASM in the xp given by some area's compared to others. My top example is only 4x diff. I bet I can find areas 8x better than another area, for time/xp. Killing a maenad on BH takes more effort for 50k than a poor man in oly for 500k.
 
@@ -594,7 +594,7 @@ In my opinion there are three factors killing solo xp on sloth.
 
 </div>
 
-<div class="post" data-post-id="30773" data-author="Gimlet" data-date="2010-02-01T04:01:02+00:00">
+<div class="post" data-post-id="30773" data-author="Gimlet" data-date="2010-02-01T04:01:02+00:00" data-subject="">
 
 Please, someone design a good group gold area please. 
 
@@ -604,19 +604,19 @@ not good enough to just bot for xp?
 
 </div>
 
-<div class="post" data-post-id="30784" data-author="*juggleblood*" data-date="2010-02-01T23:28:35+00:00">
+<div class="post" data-post-id="30784" data-author="*juggleblood*" data-date="2010-02-01T23:28:35+00:00" data-subject="">
 
 Word. What Al said.
 
 </div>
 
-<div class="post" data-post-id="30785" data-author="Toxis" data-date="2010-02-01T23:44:48+00:00">
+<div class="post" data-post-id="30785" data-author="Toxis" data-date="2010-02-01T23:44:48+00:00" data-subject="">
 
 Great, two pricks on the mud now.
 
 </div>
 
-<div class="post" data-post-id="30789" data-author="*juggleblood*" data-date="2010-02-02T00:47:00+00:00">
+<div class="post" data-post-id="30789" data-author="*juggleblood*" data-date="2010-02-02T00:47:00+00:00" data-subject="">
 
 Al is all talk. He's a sweetie at heart. I on the other hand am the right hand of Cthulhu.
 
@@ -624,7 +624,7 @@ Al is all talk. He's a sweetie at heart. I on the other hand am the right hand o
 
 </div>
 
-<div class="post" data-post-id="30790" data-author="*juggleblood*" data-date="2010-02-02T01:21:39+00:00">
+<div class="post" data-post-id="30790" data-author="*juggleblood*" data-date="2010-02-02T01:21:39+00:00" data-subject="">
 
 back on topic, since there's still interest in this discussion.
 
@@ -638,7 +638,7 @@ I would love it if xp,  gold,  fun, and challenge could all be optimized. But it
 
 </div>
 
-<div class="post" data-post-id="30791" data-author="jezer" data-date="2010-02-02T02:00:05+00:00">
+<div class="post" data-post-id="30791" data-author="jezer" data-date="2010-02-02T02:00:05+00:00" data-subject="">
 
 Another player gave me some positive feedback on hive changes and said it would be great if certain bees were slimmer. But then when I reply and ask which bees, I get no answer. [/quote:39sttszl]
 
@@ -652,7 +652,7 @@ What if Westwood was a bit more like ogres? It would be great to encourage 3-4ma
 
 </div>
 
-<div class="post" data-post-id="30796" data-author="Gimlet" data-date="2010-02-02T06:59:25+00:00">
+<div class="post" data-post-id="30796" data-author="Gimlet" data-date="2010-02-02T06:59:25+00:00" data-subject="">
 
 I'm not comparing group and solo xp
 
@@ -664,7 +664,7 @@ When the admin sees good xp made in popular solo areas, they nerf it to make it 
 
 </div>
 
-<div class="post" data-post-id="30798" data-author="*Splork*" data-date="2010-02-02T12:25:48+00:00">
+<div class="post" data-post-id="30798" data-author="*Splork*" data-date="2010-02-02T12:25:48+00:00" data-subject="">
 
 The blanket statement is simply incorrect Gimlet. The only solo area that has been touched since the beginning of this version of Slothmud is Mansion, which was, at one point, probably dealing out 10-12x the xp rate of any other area and the majority of the player base knows it needed adjusting.
 
@@ -676,19 +676,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30799" data-author="Gimlet" data-date="2010-02-02T12:45:17+00:00">
+<div class="post" data-post-id="30799" data-author="Gimlet" data-date="2010-02-02T12:45:17+00:00" data-subject="">
 
 heh yeah i dunno why i posted that either....got carried away after reading jezer's posts :P
 
 </div>
 
-<div class="post" data-post-id="30800" data-author="Thraxas" data-date="2010-02-02T12:52:03+00:00">
+<div class="post" data-post-id="30800" data-author="Thraxas" data-date="2010-02-02T12:52:03+00:00" data-subject="">
 
 group hug
 
 </div>
 
-<div class="post" data-post-id="30806" data-author="*juggleblood*" data-date="2010-02-03T00:15:51+00:00">
+<div class="post" data-post-id="30806" data-author="*juggleblood*" data-date="2010-02-03T00:15:51+00:00" data-subject="">
 
 hug request accepted
 
@@ -702,7 +702,7 @@ I realize the xp formula affects things. Players can just figure out which mobs 
 
 </div>
 
-<div class="post" data-post-id="30808" data-author="jezer" data-date="2010-02-03T01:04:38+00:00">
+<div class="post" data-post-id="30808" data-author="jezer" data-date="2010-02-03T01:04:38+00:00" data-subject="">
 
 westwood[/quote:62p5vzql]
 
@@ -714,7 +714,7 @@ As for the bigger mobs, [u:62p5vzql]I think they just have two many hitpoints[/u
 
 </div>
 
-<div class="post" data-post-id="30810" data-author="*juggleblood*" data-date="2010-02-03T04:55:38+00:00">
+<div class="post" data-post-id="30810" data-author="*juggleblood*" data-date="2010-02-03T04:55:38+00:00" data-subject="">
 
 I do see small groups. While people in the western hemisphere are bumbling around in small groups, you are probably sound asleep. I remember when I was in Riyadh, I could catch parts of the big xp groups, but generally activity was low during my prime playing hours.
 

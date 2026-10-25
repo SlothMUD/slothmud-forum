@@ -10,13 +10,13 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30093" data-author="sirrico1" data-date="2009-10-10T14:37:49+00:00">
+<div class="post" data-post-id="30093" data-author="sirrico1" data-date="2009-10-10T14:37:49+00:00" data-subject="houseing">
 
 we going to be able to put houses in SS anytime soon?
 
 </div>
 
-<div class="post" data-post-id="30095" data-author="*Splork*" data-date="2009-10-11T01:43:01+00:00">
+<div class="post" data-post-id="30095" data-author="*Splork*" data-date="2009-10-11T01:43:01+00:00" data-subject="">
 
 Most likely on reboot.
 
@@ -32,7 +32,7 @@ Btw, I have improved help housing, it should pretty much walk you through the pr
 
 </div>
 
-<div class="post" data-post-id="30108" data-author="Thraxas" data-date="2009-10-12T11:46:00+00:00">
+<div class="post" data-post-id="30108" data-author="Thraxas" data-date="2009-10-12T11:46:00+00:00" data-subject="housing">
 
 Do we have any idea on the likely costs for housing / vaults?
 

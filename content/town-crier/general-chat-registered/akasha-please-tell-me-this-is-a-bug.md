@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="21305" data-author="van" data-date="2007-11-13T22:16:50+00:00">
+<div class="post" data-post-id="21305" data-author="van" data-date="2007-11-13T22:16:50+00:00" data-subject="Akasha, please tell me this is a bug">
 
 You skillfully parry the attack of Kzartaxen, firenewt God of War.
 
@@ -38,25 +38,25 @@ This happened on Bolg too, except we got 1 honor.
 
 </div>
 
-<div class="post" data-post-id="21306" data-author="Weasel" data-date="2007-11-13T23:25:17+00:00">
+<div class="post" data-post-id="21306" data-author="Weasel" data-date="2007-11-13T23:25:17+00:00" data-subject="">
 
 nice cap.. heh
 
 </div>
 
-<div class="post" data-post-id="21319" data-author="Akasha" data-date="2007-11-14T05:04:01+00:00">
+<div class="post" data-post-id="21319" data-author="Akasha" data-date="2007-11-14T05:04:01+00:00" data-subject="">
 
 Fixed
 
 </div>
 
-<div class="post" data-post-id="21331" data-author="Evergreen" data-date="2007-11-16T18:29:28+00:00">
+<div class="post" data-post-id="21331" data-author="Evergreen" data-date="2007-11-16T18:29:28+00:00" data-subject="bolg solo">
 
 that doesnt make sense. Something tells me there is no honor to kill 4mil mob for 30 honor points... Was more interesting Truth leading honor group with tanks dying few times for some honor points.
 
 </div>
 
-<div class="post" data-post-id="21332" data-author="Liar" data-date="2007-11-16T18:45:35+00:00">
+<div class="post" data-post-id="21332" data-author="Liar" data-date="2007-11-16T18:45:35+00:00" data-subject="">
 
 True. Killing another 4m bolg doesnt look like honorific act at all. Even if you get reduced honor points for that. Vouhx is not really different, just lil more honor. Imho making epic mobs that weak defeats both epic idea and honor points idea.
 
@@ -64,7 +64,7 @@ Yours, Truth the greedy little teapot.
 
 </div>
 
-<div class="post" data-post-id="21333" data-author="Medios" data-date="2007-11-16T21:28:18+00:00">
+<div class="post" data-post-id="21333" data-author="Medios" data-date="2007-11-16T21:28:18+00:00" data-subject="">
 
 I soloed Bolg last night for 1 honor.
 
@@ -72,13 +72,13 @@ I soloed Bolg last night for 1 honor.
 
 </div>
 
-<div class="post" data-post-id="21334" data-author="Tap" data-date="2007-11-16T22:38:31+00:00">
+<div class="post" data-post-id="21334" data-author="Tap" data-date="2007-11-16T22:38:31+00:00" data-subject="">
 
 Stop Bragging.  :roll:
 
 </div>
 
-<div class="post" data-post-id="21335" data-author="Autolycos" data-date="2007-11-16T23:11:13+00:00">
+<div class="post" data-post-id="21335" data-author="Autolycos" data-date="2007-11-16T23:11:13+00:00" data-subject="">
 
 it's not a bug... it's a feature!!!
 
@@ -86,7 +86,7 @@ it's not a bug... it's a feature!!!
 
 </div>
 
-<div class="post" data-post-id="21336" data-author="Alberich" data-date="2007-11-16T23:44:35+00:00">
+<div class="post" data-post-id="21336" data-author="Alberich" data-date="2007-11-16T23:44:35+00:00" data-subject="">
 
 Mike doesn't brag, he states facts.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="200" data-author="Deju" data-date="2004-05-21T17:59:54+00:00">
+<div class="post" data-post-id="200" data-author="Deju" data-date="2004-05-21T17:59:54+00:00" data-subject="2.Purple Dragon Claw Up - 5mil min">
 
 Object 'claw purple dragon', Item type: ARMOR
 
@@ -34,31 +34,31 @@ this item.
 
 </div>
 
-<div class="post" data-post-id="211" data-author="Weasel" data-date="2004-05-21T18:18:13+00:00">
+<div class="post" data-post-id="211" data-author="Weasel" data-date="2004-05-21T18:18:13+00:00" data-subject="">
 
 hmm. ok 5mil for this as well.
 
 </div>
 
-<div class="post" data-post-id="231" data-author="Roadrunr" data-date="2004-05-22T02:50:32+00:00">
+<div class="post" data-post-id="231" data-author="Roadrunr" data-date="2004-05-22T02:50:32+00:00" data-subject="">
 
 5.5mil
 
 </div>
 
-<div class="post" data-post-id="238" data-author="Weasel" data-date="2004-05-22T07:32:28+00:00">
+<div class="post" data-post-id="238" data-author="Weasel" data-date="2004-05-22T07:32:28+00:00" data-subject="">
 
 6mil  :D
 
 </div>
 
-<div class="post" data-post-id="250" data-author="Roadrunr" data-date="2004-05-23T02:29:13+00:00">
+<div class="post" data-post-id="250" data-author="Roadrunr" data-date="2004-05-23T02:29:13+00:00" data-subject="">
 
 7mil
 
 </div>
 
-<div class="post" data-post-id="351" data-author="Deju" data-date="2004-05-26T04:11:00+00:00">
+<div class="post" data-post-id="351" data-author="Deju" data-date="2004-05-26T04:11:00+00:00" data-subject="Closed">
 
 Closed.  Roadrunr wins for 7mil
 

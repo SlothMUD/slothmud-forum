@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="10093" data-author="Shara" data-date="2006-01-12T11:40:39+00:00">
+<div class="post" data-post-id="10093" data-author="Shara" data-date="2006-01-12T11:40:39+00:00" data-subject="Foodstuffs!">
 
 Nowadays everyone just eats rations or lutefisk or pies!  What happened to the newbie days when we got started off with roast chicken and bag of cherries and sweet buns!
 
@@ -20,13 +20,13 @@ Anyway :D
 
 </div>
 
-<div class="post" data-post-id="10094" data-author="Krok" data-date="2006-01-12T12:00:52+00:00">
+<div class="post" data-post-id="10094" data-author="Krok" data-date="2006-01-12T12:00:52+00:00" data-subject="">
 
 Eat a roasted goose!
 
 </div>
 
-<div class="post" data-post-id="10095" data-author="Vixn" data-date="2006-01-12T12:47:55+00:00">
+<div class="post" data-post-id="10095" data-author="Vixn" data-date="2006-01-12T12:47:55+00:00" data-subject="">
 
 *dreamon*
 
@@ -44,7 +44,7 @@ You are full and feel good.
 
 </div>
 
-<div class="post" data-post-id="10097" data-author="12345" data-date="2006-01-12T14:27:01+00:00">
+<div class="post" data-post-id="10097" data-author="12345" data-date="2006-01-12T14:27:01+00:00" data-subject="">
 
 Veggies!  I eat them all the time.
 
@@ -54,7 +54,7 @@ Veggies!  I eat them all the time.
 
 </div>
 
-<div class="post" data-post-id="10098" data-author="Weasel" data-date="2006-01-12T15:03:53+00:00">
+<div class="post" data-post-id="10098" data-author="Weasel" data-date="2006-01-12T15:03:53+00:00" data-subject="">
 
 You eat a slice of Poolp.
 
@@ -62,7 +62,7 @@ You are violently ill.
 
 </div>
 
-<div class="post" data-post-id="10099" data-author="12345" data-date="2006-01-12T15:18:24+00:00">
+<div class="post" data-post-id="10099" data-author="12345" data-date="2006-01-12T15:18:24+00:00" data-subject="">
 
 Poolp is by far one of the more unique pthieves I've ever seen.  He's reported bugs that make pthieving easier, he's recalled folks so Shyla could raise them, and doesn't seem to mind being caught and killed.
 
@@ -72,13 +72,13 @@ I can't say I like having the guy around, but for someone I can't stand, I kinda
 
 </div>
 
-<div class="post" data-post-id="10100" data-author="Weasel" data-date="2006-01-12T15:48:01+00:00">
+<div class="post" data-post-id="10100" data-author="Weasel" data-date="2006-01-12T15:48:01+00:00" data-subject="">
 
 His basic premise seems to be to teach people a lesson for leaving things in their inventory, unlike some pthiefs who seem to go out of their way to ruin the sloth experience for their victims, and do so with a certain amount of glee.
 
 </div>
 
-<div class="post" data-post-id="10104" data-author="Shara" data-date="2006-01-12T22:16:57+00:00">
+<div class="post" data-post-id="10104" data-author="Shara" data-date="2006-01-12T22:16:57+00:00" data-subject="">
 
 Well, pthieving is really profitable too.
 
@@ -88,13 +88,13 @@ Braxus is the one that bothers me.
 
 </div>
 
-<div class="post" data-post-id="10106" data-author="Rynquald" data-date="2006-01-13T03:31:09+00:00">
+<div class="post" data-post-id="10106" data-author="Rynquald" data-date="2006-01-13T03:31:09+00:00" data-subject="">
 
 Just on the origional topic for a second, pthieves are the reason i personaly only use rations these days, used to be nice to fish for food and put it in an inventory containor. But constantly replacing it when it's stolen gets old fast, and i can't stand my inv being spammed with 5+ diferent types of food.
 
 </div>
 
-<div class="post" data-post-id="10107" data-author="Shara" data-date="2006-01-13T04:30:08+00:00">
+<div class="post" data-post-id="10107" data-author="Shara" data-date="2006-01-13T04:30:08+00:00" data-subject="">
 
 I don't think these exist, but I might as well ask!
 
@@ -102,13 +102,13 @@ Are there any other food stores in town, kinda like the bakery on VK?
 
 </div>
 
-<div class="post" data-post-id="10113" data-author="12345" data-date="2006-01-13T06:07:24+00:00">
+<div class="post" data-post-id="10113" data-author="12345" data-date="2006-01-13T06:07:24+00:00" data-subject="">
 
 There's a candy store on Lyme I think.  I don't think I've checked if it's a real shop or not.. or what it sells.  I think there may be a shop like that on Thal too.... Thal has some different shops.
 
 </div>
 
-<div class="post" data-post-id="10114" data-author="Weasel" data-date="2006-01-13T06:11:22+00:00">
+<div class="post" data-post-id="10114" data-author="Weasel" data-date="2006-01-13T06:11:22+00:00" data-subject="">
 
 Sweet Shop (LYME)
 

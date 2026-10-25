@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="35674" data-author="Yasik" data-date="2015-02-05T20:08:48+00:00">
+<div class="post" data-post-id="35674" data-author="Yasik" data-date="2015-02-05T20:08:48+00:00" data-subject="Post a random in-game joke or prank">
 
 You tell Mirage 'This is bad for your health.'
 
@@ -56,7 +56,7 @@ PS. If the video is delete, it was a scene from "Cobra" movie with Stallone, whe
 
 </div>
 
-<div class="post" data-post-id="35675" data-author="Yasik" data-date="2015-02-06T12:21:27+00:00">
+<div class="post" data-post-id="35675" data-author="Yasik" data-date="2015-02-06T12:21:27+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 You tell Juggleblood 'Its bad for your health.'
 
@@ -68,7 +68,7 @@ Unaware victim was easy prey :)
 
 </div>
 
-<div class="post" data-post-id="35677" data-author="*juggleblood*" data-date="2015-02-06T15:44:09+00:00">
+<div class="post" data-post-id="35677" data-author="*juggleblood*" data-date="2015-02-06T15:44:09+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 You tell Ozzy 'https://www.youtube.com/watch?v=XMjnVeDPEYo'
 
@@ -86,7 +86,7 @@ Ozzy tells you ':( yeah'
 
 </div>
 
-<div class="post" data-post-id="35679" data-author="*Breeze*" data-date="2015-02-08T12:53:03+00:00">
+<div class="post" data-post-id="35679" data-author="*Breeze*" data-date="2015-02-08T12:53:03+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 Ozzy tells you 'This is bad for your health.'
 
@@ -96,7 +96,7 @@ Ozzy tells you 'aww'
 
 </div>
 
-<div class="post" data-post-id="35680" data-author="Yasik" data-date="2015-02-08T13:12:37+00:00">
+<div class="post" data-post-id="35680" data-author="Yasik" data-date="2015-02-08T13:12:37+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 <1105hp 481ma 315mv>   -7   -10.4   2,077,516,789   98,804   indoors   Hellwell
 
@@ -106,7 +106,7 @@ Ok. Thanks.
 
 </div>
 
-<div class="post" data-post-id="35681" data-author="Marvel" data-date="2015-02-08T16:24:30+00:00">
+<div class="post" data-post-id="35681" data-author="Marvel" data-date="2015-02-08T16:24:30+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 Better yet, 4 new eq slots ear (left|right) and nipples (left|right). Now players can wear 6 rings!
 
@@ -114,13 +114,13 @@ kkthx
 
 </div>
 
-<div class="post" data-post-id="35682" data-author="*Breeze*" data-date="2015-02-08T16:36:16+00:00">
+<div class="post" data-post-id="35682" data-author="*Breeze*" data-date="2015-02-08T16:36:16+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 in the mid to late 90's i played a mud with a penis slot.  you could wear a golden condom. was semi-disturbing.
 
 </div>
 
-<div class="post" data-post-id="35775" data-author="Yasik" data-date="2015-03-24T18:43:10+00:00">
+<div class="post" data-post-id="35775" data-author="Yasik" data-date="2015-03-24T18:43:10+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 This filter script's word list needs to be adjusted :)
 
@@ -186,7 +186,7 @@ Someone gossips-- 'hehe'
 
 </div>
 
-<div class="post" data-post-id="35776" data-author="Yasik" data-date="2015-03-24T18:50:09+00:00">
+<div class="post" data-post-id="35776" data-author="Yasik" data-date="2015-03-24T18:50:09+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 Yzzo (gossip): heh this punisher script gave me negative mana regen for sayng that type of birds :P you know what Im sayin
 
@@ -212,7 +212,7 @@ Yzzo (gossip): this punisher script is GAY
 
 </div>
 
-<div class="post" data-post-id="36031" data-author="Yasik" data-date="2015-08-12T14:26:39+00:00">
+<div class="post" data-post-id="36031" data-author="Yasik" data-date="2015-08-12T14:26:39+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 It is time to add a fresh content to this thread. It was a busy week, trust me :)
 
@@ -548,7 +548,7 @@ Thanks to all who participated :) And to coders who made this possibility.
 
 </div>
 
-<div class="post" data-post-id="36476" data-author="Yasik" data-date="2016-01-16T13:09:41+00:00">
+<div class="post" data-post-id="36476" data-author="Yasik" data-date="2016-01-16T13:09:41+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 Congrats JB, you've got yourself a reputation :)
 
@@ -600,7 +600,7 @@ You are affected by the following spells:
 
 </div>
 
-<div class="post" data-post-id="36667" data-author="Yasik" data-date="2016-02-29T13:24:31+00:00">
+<div class="post" data-post-id="36667" data-author="Yasik" data-date="2016-02-29T13:24:31+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 ALL ABOARD THE TROLLBOAT!
 
@@ -608,13 +608,13 @@ ALL ABOARD THE TROLLBOAT!
 
 </div>
 
-<div class="post" data-post-id="36680" data-author="*juggleblood*" data-date="2016-03-01T01:03:48+00:00">
+<div class="post" data-post-id="36680" data-author="*juggleblood*" data-date="2016-03-01T01:03:48+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 I have no idea why someone would think i was Yourmom the noob, and just yesterday someone I was speaking to thought Sochi was Yasik.
 
 </div>
 
-<div class="post" data-post-id="36999" data-author="Yasik" data-date="2016-06-29T12:47:29+00:00">
+<div class="post" data-post-id="36999" data-author="Yasik" data-date="2016-06-29T12:47:29+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 Razo gossips-- 'i cannot remove my golden sack'
 
@@ -628,7 +628,7 @@ You gossip-- 'oh, THAT sack, ok I see'
 
 </div>
 
-<div class="post" data-post-id="38932" data-author="Yasik" data-date="2018-06-21T20:33:35+00:00">
+<div class="post" data-post-id="38932" data-author="Yasik" data-date="2018-06-21T20:33:35+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 Sochi picks up a multi-colored crystal rod.
 
@@ -642,7 +642,7 @@ You tell Sochi 'yeah, mine is multi-colored as well, all shades of certaine some
 
 </div>
 
-<div class="post" data-post-id="39629" data-author="Yasik" data-date="2020-12-05T19:52:28+00:00">
+<div class="post" data-post-id="39629" data-author="Yasik" data-date="2020-12-05T19:52:28+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 Isnt it time to revive good old-fashioned humour :)
 
@@ -696,7 +696,7 @@ Ezekiel[freedom]> 'lol'
 
 </div>
 
-<div class="post" data-post-id="39719" data-author="Yasik" data-date="2021-05-14T18:49:49+00:00">
+<div class="post" data-post-id="39719" data-author="Yasik" data-date="2021-05-14T18:49:49+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 Nothing could lightn up this friday evening better than good ole' friendly trollin'  8) 
 
@@ -742,7 +742,7 @@ Ozzy (tell): thank you, mister )))))))))
 
 </div>
 
-<div class="post" data-post-id="39720" data-author="Yasik" data-date="2021-05-14T21:30:47+00:00">
+<div class="post" data-post-id="39720" data-author="Yasik" data-date="2021-05-14T21:30:47+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 let us not be way too much predictables  8) 
 
@@ -756,7 +756,7 @@ Zuzu (tell): that's true!
 
 </div>
 
-<div class="post" data-post-id="39796" data-author="Yasik" data-date="2021-08-27T21:33:38+00:00">
+<div class="post" data-post-id="39796" data-author="Yasik" data-date="2021-08-27T21:33:38+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 You can watch endlessly at 3 things: as fire burns, as water flows, as newcomers fall for the classic.
 
@@ -788,7 +788,7 @@ Gardar tells you '"Never trust people and quotes from the Internet" - Benjamin F
 
 </div>
 
-<div class="post" data-post-id="39797" data-author="Yasik" data-date="2021-08-27T22:14:50+00:00">
+<div class="post" data-post-id="39797" data-author="Yasik" data-date="2021-08-27T22:14:50+00:00" data-subject="Re: Post a random in-game joke or prank">
 
 Thank you wonderful people, you made me feel a little bit younger tonight :) Times when NOT everybody knew the prank.
 

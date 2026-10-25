@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="5282" data-author="Methyx" data-date="2005-03-27T21:19:48+00:00">
+<div class="post" data-post-id="5282" data-author="Methyx" data-date="2005-03-27T21:19:48+00:00" data-subject="WTB +dex EQ">
 
 Hello all :)
 
@@ -30,7 +30,7 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="5283" data-author="Methyx" data-date="2005-03-27T21:34:19+00:00">
+<div class="post" data-post-id="5283" data-author="Methyx" data-date="2005-03-27T21:34:19+00:00" data-subject="">
 
 On an added note, I am also paying very good coin for the following:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="38241" data-author="*Idjit*" data-date="2017-05-09T01:30:32+00:00">
+<div class="post" data-post-id="38241" data-author="*Idjit*" data-date="2017-05-09T01:30:32+00:00" data-subject="Fix for kangaroo pouch">
 
 Good evening,
 
@@ -26,7 +26,7 @@ Thank you for your attention,
 
 </div>
 
-<div class="post" data-post-id="38242" data-author="*Idjit*" data-date="2017-05-09T01:33:18+00:00">
+<div class="post" data-post-id="38242" data-author="*Idjit*" data-date="2017-05-09T01:33:18+00:00" data-subject="Re: Fix for kangaroo pouch">
 
 However, we've located a bug.
 
@@ -42,7 +42,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="38243" data-author="*Idjit*" data-date="2017-05-09T01:37:09+00:00">
+<div class="post" data-post-id="38243" data-author="*Idjit*" data-date="2017-05-09T01:37:09+00:00" data-subject="Re: Fix for kangaroo pouch">
 
 To test things further I cursed a default long sword from the Kid in BH
 
@@ -56,7 +56,7 @@ so it's not the pouch in particular.
 
 </div>
 
-<div class="post" data-post-id="38246" data-author="Teron" data-date="2017-05-13T10:19:18+00:00">
+<div class="post" data-post-id="38246" data-author="Teron" data-date="2017-05-13T10:19:18+00:00" data-subject="Re: Fix for kangaroo pouch">
 
 An easier fix would've been to
 

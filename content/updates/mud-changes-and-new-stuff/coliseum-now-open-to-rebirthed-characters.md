@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38010" data-author="*juggleblood*" data-date="2017-01-30T20:48:06+00:00">
+<div class="post" data-post-id="38010" data-author="*juggleblood*" data-date="2017-01-30T20:48:06+00:00" data-subject="COLISEUM NOW OPEN TO REBIRTHED CHARACTERS">
 
 Thanks for your patience.
 

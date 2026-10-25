@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32853" data-author="Mug" data-date="2011-09-05T23:10:07+00:00">
+<div class="post" data-post-id="32853" data-author="Mug" data-date="2011-09-05T23:10:07+00:00" data-subject="opener">
 
 so Oboe found the area and a mob popped this note
 
@@ -48,7 +48,7 @@ Year 267 of our Lord Neptune.
 
 </div>
 
-<div class="post" data-post-id="32854" data-author="Mug" data-date="2011-09-05T23:12:31+00:00">
+<div class="post" data-post-id="32854" data-author="Mug" data-date="2011-09-05T23:12:31+00:00" data-subject="Re: opener">
 
 Coelophysis like to pop hexes
 

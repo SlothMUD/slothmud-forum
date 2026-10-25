@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="11922" data-author="jezer" data-date="2006-04-03T01:02:50+00:00">
+<div class="post" data-post-id="11922" data-author="jezer" data-date="2006-04-03T01:02:50+00:00" data-subject="Balancing The Monk Class">
 
 More mage spells! :(
 
@@ -202,7 +202,7 @@ This is the fourth of the dreaded Quivering Palm abilities. It kills the creatur
 
 </div>
 
-<div class="post" data-post-id="11923" data-author="*Splork*" data-date="2006-04-03T01:46:11+00:00">
+<div class="post" data-post-id="11923" data-author="*Splork*" data-date="2006-04-03T01:46:11+00:00" data-subject="">
 
 Very good post... But much of what you are proposing is already ingame for monks.
 
@@ -236,7 +236,7 @@ But I like a few of the suggestions...
 
 </div>
 
-<div class="post" data-post-id="11929" data-author="12345" data-date="2006-04-03T04:01:14+00:00">
+<div class="post" data-post-id="11929" data-author="12345" data-date="2006-04-03T04:01:14+00:00" data-subject="Re: Balancing The Monk Class">
 
 Our combat skills are pretty nicely done, and are pretty balanced in the game I feel. Thx!
 
@@ -260,7 +260,7 @@ Monk is easily one of the top 3 classes in the game.  Easily.  It currently need
 
 </div>
 
-<div class="post" data-post-id="11930" data-author="jezer" data-date="2006-04-03T04:38:22+00:00">
+<div class="post" data-post-id="11930" data-author="jezer" data-date="2006-04-03T04:38:22+00:00" data-subject="">
 
 I agree with 12345 on nearly everything he has said...
 
@@ -276,7 +276,7 @@ See, I think the monks class in its old form is all about "resistance" but on sl
 
 </div>
 
-<div class="post" data-post-id="11931" data-author="jezer" data-date="2006-04-03T05:37:00+00:00">
+<div class="post" data-post-id="11931" data-author="jezer" data-date="2006-04-03T05:37:00+00:00" data-subject="">
 
 Another idea on this saves/resistance thing I'm harping on about...
 
@@ -336,7 +336,7 @@ cast 'silence' mage  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11935" data-author="Grue" data-date="2006-04-03T17:40:34+00:00">
+<div class="post" data-post-id="11935" data-author="Grue" data-date="2006-04-03T17:40:34+00:00" data-subject="">
 
 Hey Jezer, don't take this as a flame because it's not intended that way, just a realistic comment. Slothmud doesn't follow pure D&D standards, so expecting any class to follow exactly what D&D does is unrealistic. The bottom line is that a lot of time is spent balancing classes, and monk has become what it is after a LOT of gameplay and adjusting by the immortals.
 
@@ -352,7 +352,7 @@ Bottom line is, this isn't going to happen the way you want. I know it would be 
 
 </div>
 
-<div class="post" data-post-id="11936" data-author="12345" data-date="2006-04-03T18:20:44+00:00">
+<div class="post" data-post-id="11936" data-author="12345" data-date="2006-04-03T18:20:44+00:00" data-subject="">
 
 Honestly, monk has one of the least noticable shifts in power between prime and anywhere else.  Wraithtouch and Kensai are nice and all, but even with monk second, the class is one of the nicest in the game.
 
@@ -388,7 +388,7 @@ You can't beat that with a stick.
 
 </div>
 
-<div class="post" data-post-id="11937" data-author="dezakin" data-date="2006-04-03T20:04:40+00:00">
+<div class="post" data-post-id="11937" data-author="dezakin" data-date="2006-04-03T20:04:40+00:00" data-subject="">
 
 Jezer you can take this as a flame if you want.
 
@@ -400,7 +400,7 @@ Non-prime thief has a much harder time of it, especially with low str. Druids ha
 
 </div>
 
-<div class="post" data-post-id="11939" data-author="jezer" data-date="2006-04-03T23:38:53+00:00">
+<div class="post" data-post-id="11939" data-author="jezer" data-date="2006-04-03T23:38:53+00:00" data-subject="">
 
 Jezer was my first char which I made a HEAP of mistakes on.
 
@@ -412,7 +412,7 @@ Asking and giving idea's for monk additions, was always going to be a bit like a
 
 </div>
 
-<div class="post" data-post-id="11940" data-author="Roadrunr" data-date="2006-04-04T00:03:59+00:00">
+<div class="post" data-post-id="11940" data-author="Roadrunr" data-date="2006-04-04T00:03:59+00:00" data-subject="">
 
 For some reason, I just suck at playing casters but...
 
@@ -426,7 +426,7 @@ imho, monk is fine.  besides, I've already got too many books to pop for the 3 c
 
 </div>
 
-<div class="post" data-post-id="11941" data-author="so" data-date="2006-04-04T06:34:14+00:00">
+<div class="post" data-post-id="11941" data-author="so" data-date="2006-04-04T06:34:14+00:00" data-subject="">
 
 Game is focused on group interaction of players, and the monk is concentrated on own ideas, and these ideas sometimes false, look as he does deathgrip through time, and his slow falling, feign death and wraithtouch simply the nonsense.
 
@@ -442,7 +442,7 @@ The conclusion: monk is bosh dog.
 
 </div>
 
-<div class="post" data-post-id="11942" data-author="Vixn" data-date="2006-04-04T07:56:55+00:00">
+<div class="post" data-post-id="11942" data-author="Vixn" data-date="2006-04-04T07:56:55+00:00" data-subject="">
 
 nod, I agree. some of new ideas "disrupt the harmony of sloth". so monks and necroses usually run solo although as I know 'sloth' was group oriented mud for a long long time. I don't think any tuning will help to balance new classoes so I believe we should return to 4 real classes: Mages, Clerics, Warriors and Thieves.
 
@@ -450,7 +450,7 @@ thanks :wink:
 
 </div>
 
-<div class="post" data-post-id="11943" data-author="jezer" data-date="2006-04-04T08:37:56+00:00">
+<div class="post" data-post-id="11943" data-author="jezer" data-date="2006-04-04T08:37:56+00:00" data-subject="">
 
 There seems to be a bit of older player resentment of new classes and idea's going around? Has sloth changed for the worst since it went 8 classo's? Some people seem riveted to old classo, but complain about not having the features of the new classes? Some people just haunt the board to trample suggestions.
 
@@ -458,7 +458,7 @@ My old physic's teacher used to say... be remembered as a builder not a breaker.
 
 </div>
 
-<div class="post" data-post-id="11944" data-author="12345" data-date="2006-04-04T13:14:35+00:00">
+<div class="post" data-post-id="11944" data-author="12345" data-date="2006-04-04T13:14:35+00:00" data-subject="">
 
 It's an issue of perspective Jezer.  The new classes are quite a shift in power from the original 4.  Strangely, this mostly happens when combined with the original 4 classes.  The only notable exception is ne/dr which is a topic all it's own.  
 

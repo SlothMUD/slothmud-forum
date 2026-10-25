@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34877" data-author="Magi" data-date="2014-02-19T15:26:54+00:00">
+<div class="post" data-post-id="34877" data-author="Magi" data-date="2014-02-19T15:26:54+00:00" data-subject="Found in a secret attic">
 
 The Archivist of Jord tells you 'Ahh yes, a set of sparkling ruby gauntlets..it radiates holy energy!...Here is a little bit of information for you:'
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="17113" data-author="12345" data-date="2007-02-26T04:13:03+00:00">
+<div class="post" data-post-id="17113" data-author="12345" data-date="2007-02-26T04:13:03+00:00" data-subject="Live info for areas?">
 
 Ok.  Using avatars, it's possible to rip up the mud. Without them, life gets a lot more interesting.
 
@@ -32,7 +32,7 @@ As a side benefit, if there was a timer next to each saying how long its been si
 
 </div>
 
-<div class="post" data-post-id="17116" data-author="Medios" data-date="2007-02-26T20:45:15+00:00">
+<div class="post" data-post-id="17116" data-author="Medios" data-date="2007-02-26T20:45:15+00:00" data-subject="">
 
 It would save alot of coding if we could just stat mobs and rooms.  I know that only immortals can do this, and only for a good cause.  However, If I could stat every room and mob then I could always be prepared when my healo is botting.  I would know every xp value and eq pop without ever even having to lead or kill anything.
 
@@ -42,13 +42,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17118" data-author="12345" data-date="2007-02-26T21:59:15+00:00">
+<div class="post" data-post-id="17118" data-author="12345" data-date="2007-02-26T21:59:15+00:00" data-subject="">
 
 Love you too Mike.
 
 </div>
 
-<div class="post" data-post-id="17135" data-author="*juggleblood*" data-date="2007-03-01T08:37:55+00:00">
+<div class="post" data-post-id="17135" data-author="*juggleblood*" data-date="2007-03-01T08:37:55+00:00" data-subject="">
 
 Lol Mike
 
@@ -64,7 +64,7 @@ just 2 cents
 
 </div>
 
-<div class="post" data-post-id="17137" data-author="Shazuko" data-date="2007-03-01T14:01:18+00:00">
+<div class="post" data-post-id="17137" data-author="Shazuko" data-date="2007-03-01T14:01:18+00:00" data-subject="">
 
 how many query's do you really want the mud making at any given moment?
 
@@ -82,7 +82,7 @@ When you make one friend, make one enemy.
 
 </div>
 
-<div class="post" data-post-id="17138" data-author="13" data-date="2007-03-01T14:38:11+00:00">
+<div class="post" data-post-id="17138" data-author="13" data-date="2007-03-01T14:38:11+00:00" data-subject="">
 
 [quote:209ft15x]It would save alot of coding if we could just stat mobs and rooms. I know that only immortals can do this, and only for a good cause. However, If I could stat every room and mob then I could always be prepared when my healo is botting. I would know every xp value and eq pop without ever even having to lead or kill anything.
 

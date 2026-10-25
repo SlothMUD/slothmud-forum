@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32658" data-author="*Breeze*" data-date="2011-06-05T19:41:27+00:00">
+<div class="post" data-post-id="32658" data-author="*Breeze*" data-date="2011-06-05T19:41:27+00:00" data-subject="Wheel of Opportunity">
 
 Changed wheel...
 
@@ -31,7 +31,7 @@ let me know if you find any bugs with it.
 
 </div>
 
-<div class="post" data-post-id="32659" data-author="*Breeze*" data-date="2011-06-06T00:34:17+00:00">
+<div class="post" data-post-id="32659" data-author="*Breeze*" data-date="2011-06-06T00:34:17+00:00" data-subject="Re: Wheel of Opportunity">
 
 **Wheel of Opportunity Followup**
 
@@ -45,7 +45,7 @@ spin wheel low -- spins wheel (lowest # wins)
 
 </div>
 
-<div class="post" data-post-id="32660" data-author="jezer" data-date="2011-06-06T19:01:38+00:00">
+<div class="post" data-post-id="32660" data-author="jezer" data-date="2011-06-06T19:01:38+00:00" data-subject="Re: Wheel of Opportunity">
 
 spin wheel jezer will eventually trade all the gems to tuk.  :twisted:
 

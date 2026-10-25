@@ -10,7 +10,7 @@ locked: false
 post_count: 42
 ---
 
-<div class="post" data-post-id="22726" data-author="jezer" data-date="2008-02-15T06:33:01+00:00">
+<div class="post" data-post-id="22726" data-author="jezer" data-date="2008-02-15T06:33:01+00:00" data-subject="Enchanted Rye Bread">
 
 So, I go to do some xp runs today...
 
@@ -22,13 +22,13 @@ Now I'm forced to group even more... when there are like only 5-10 players ever 
 
 </div>
 
-<div class="post" data-post-id="22727" data-author="Yasik" data-date="2008-02-15T07:00:56+00:00">
+<div class="post" data-post-id="22727" data-author="Yasik" data-date="2008-02-15T07:00:56+00:00" data-subject="">
 
 [img:2a101qm0]http://yasik.kiev.ua/CantHaveNiceThings.jpg[/img:2a101qm0]
 
 </div>
 
-<div class="post" data-post-id="22728" data-author="Rynquald" data-date="2008-02-15T07:12:36+00:00">
+<div class="post" data-post-id="22728" data-author="Rynquald" data-date="2008-02-15T07:12:36+00:00" data-subject="">
 
 You can expect things to be changed when they're bugged to allow some crazy overpower.
 
@@ -36,7 +36,7 @@ Although I don't see why it was removed instead of just made more expensive agai
 
 </div>
 
-<div class="post" data-post-id="22729" data-author="jezer" data-date="2008-02-15T07:33:45+00:00">
+<div class="post" data-post-id="22729" data-author="jezer" data-date="2008-02-15T07:33:45+00:00" data-subject="">
 
 I've been pacing the floor quite angry, so I thought I'd come back and rant a little more... I like to joke around, and I don't take things too seriously, but I'm not in the mood for that atm, maybe tomorrow...
 
@@ -80,7 +80,7 @@ I still really like sloth, it's the best game I ever played, and hence I am pass
 
 </div>
 
-<div class="post" data-post-id="22730" data-author="Thraxas" data-date="2008-02-15T08:36:24+00:00">
+<div class="post" data-post-id="22730" data-author="Thraxas" data-date="2008-02-15T08:36:24+00:00" data-subject="">
 
 Whats next, removing the regen vault half the lymers use even though it's someone elses? or is that tomorrow?[/quote:3fyds7dy]
 
@@ -88,7 +88,7 @@ Which vault is this?
 
 </div>
 
-<div class="post" data-post-id="22731" data-author="*Splork*" data-date="2008-02-15T11:44:56+00:00">
+<div class="post" data-post-id="22731" data-author="*Splork*" data-date="2008-02-15T11:44:56+00:00" data-subject="">
 
 The cost of rye bread somehow got changed to a much lower price than originally. The cost has been fixed and the item will be rezoned today.
 
@@ -100,7 +100,7 @@ Hello everyone btw!
 
 </div>
 
-<div class="post" data-post-id="22732" data-author="Tap" data-date="2008-02-15T11:57:47+00:00">
+<div class="post" data-post-id="22732" data-author="Tap" data-date="2008-02-15T11:57:47+00:00" data-subject="">
 
 First off, Damn it's Splork!!!!!!!!!!!!!
 
@@ -116,7 +116,7 @@ Erm...
 
 </div>
 
-<div class="post" data-post-id="22733" data-author="Yasik" data-date="2008-02-15T12:29:12+00:00">
+<div class="post" data-post-id="22733" data-author="Yasik" data-date="2008-02-15T12:29:12+00:00" data-subject="">
 
 Sanct - 70
 
@@ -138,7 +138,7 @@ Shift Cost 40[/quote:3gz398da]
 
 </div>
 
-<div class="post" data-post-id="22734" data-author="jezer" data-date="2008-02-15T12:32:22+00:00">
+<div class="post" data-post-id="22734" data-author="jezer" data-date="2008-02-15T12:32:22+00:00" data-subject="">
 
 Thanks Splork, I'll gonna switch and see if it's there... I hope some of those fixed bugs you mentioned were shift ones!
 
@@ -152,7 +152,7 @@ Tap! You flatter me...
 
 </div>
 
-<div class="post" data-post-id="22736" data-author="Autolycos" data-date="2008-02-15T14:45:10+00:00">
+<div class="post" data-post-id="22736" data-author="Autolycos" data-date="2008-02-15T14:45:10+00:00" data-subject="">
 
 2. dont use Haste at all, not much addition in power per mana_cost[/quote:2qgz4zxn]
 
@@ -164,7 +164,7 @@ BUT YOU CANT!!!!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22737" data-author="alias" data-date="2008-02-15T15:45:56+00:00">
+<div class="post" data-post-id="22737" data-author="alias" data-date="2008-02-15T15:45:56+00:00" data-subject="">
 
 The short absence of the rye bread was due to an economic condition of the baker needing to bake more valentine's day cakes and cookies.... look for rye bread to make a reappearance.
 
@@ -174,7 +174,7 @@ and 2nd haste rocks.
 
 </div>
 
-<div class="post" data-post-id="22738" data-author="Yasik" data-date="2008-02-15T15:47:24+00:00">
+<div class="post" data-post-id="22738" data-author="Yasik" data-date="2008-02-15T15:47:24+00:00" data-subject="">
 
 2. dont use Haste at all, not much addition in power per mana_cost[/quote:fgd4ro7m]
 
@@ -198,7 +198,7 @@ i dont
 
 </div>
 
-<div class="post" data-post-id="22740" data-author="Ker" data-date="2008-02-15T17:00:23+00:00">
+<div class="post" data-post-id="22740" data-author="Ker" data-date="2008-02-15T17:00:23+00:00" data-subject="">
 
 Lo Jezer/Apprentice,
 
@@ -266,13 +266,13 @@ Chi
 
 </div>
 
-<div class="post" data-post-id="22741" data-author="Tap" data-date="2008-02-15T17:03:52+00:00">
+<div class="post" data-post-id="22741" data-author="Tap" data-date="2008-02-15T17:03:52+00:00" data-subject="">
 
 SO UMM..WHERE DO WE BUY THIS BREAD?
 
 </div>
 
-<div class="post" data-post-id="22742" data-author="Autolycos" data-date="2008-02-15T17:46:24+00:00">
+<div class="post" data-post-id="22742" data-author="Autolycos" data-date="2008-02-15T17:46:24+00:00" data-subject="">
 
 x4 brutal massacres + 1.5 breathe_fire vs x5 brutal massacre +1.5 breathe_fire
 
@@ -314,7 +314,7 @@ You viciously massacre Shuggoth Lord with your pierce.
 
 </div>
 
-<div class="post" data-post-id="22744" data-author="Tap" data-date="2008-02-15T21:21:37+00:00">
+<div class="post" data-post-id="22744" data-author="Tap" data-date="2008-02-15T21:21:37+00:00" data-subject="">
 
 [quote:2eaw1elq]Yasik wrote:
 
@@ -334,7 +334,7 @@ This is Yasik we are talking about...
 
 </div>
 
-<div class="post" data-post-id="22745" data-author="Yinao" data-date="2008-02-15T21:41:33+00:00">
+<div class="post" data-post-id="22745" data-author="Yinao" data-date="2008-02-15T21:41:33+00:00" data-subject="">
 
 [quote:3h07tejz]How can you not think x5 > x4?[/quote:3h07tejz]
 
@@ -344,7 +344,7 @@ Yasix gossips 'Why do mobs keep killing me, I have less damage and less attacks,
 
 </div>
 
-<div class="post" data-post-id="22747" data-author="Leaf" data-date="2008-02-15T21:48:18+00:00">
+<div class="post" data-post-id="22747" data-author="Leaf" data-date="2008-02-15T21:48:18+00:00" data-subject="">
 
 That was some funny shit I've read from Tap and Auto.  Those two getting
 
@@ -370,7 +370,7 @@ I use Haste with my thief and it shaves a good min or so on chop mobs.
 
 </div>
 
-<div class="post" data-post-id="22748" data-author="Autolycos" data-date="2008-02-15T22:03:49+00:00">
+<div class="post" data-post-id="22748" data-author="Autolycos" data-date="2008-02-15T22:03:49+00:00" data-subject="">
 
 indeed...  
 
@@ -380,19 +380,19 @@ but this is like trying to teach algebra to a rock..
 
 </div>
 
-<div class="post" data-post-id="22749" data-author="Leaf" data-date="2008-02-15T22:15:32+00:00">
+<div class="post" data-post-id="22749" data-author="Leaf" data-date="2008-02-15T22:15:32+00:00" data-subject="">
 
 I would say teaching algebra is too much.  1 + 1 = 2
 
 </div>
 
-<div class="post" data-post-id="22751" data-author="Yinao" data-date="2008-02-15T22:27:24+00:00">
+<div class="post" data-post-id="22751" data-author="Yinao" data-date="2008-02-15T22:27:24+00:00" data-subject="">
 
 [img:27cgn9aq]http://a669.ac-images.myspacecdn.com/images01/24/l_6cd792168ac52899afea84f3bea9c774.jpg[/img:27cgn9aq]
 
 </div>
 
-<div class="post" data-post-id="22754" data-author="*juggleblood*" data-date="2008-02-16T01:57:59+00:00">
+<div class="post" data-post-id="22754" data-author="*juggleblood*" data-date="2008-02-16T01:57:59+00:00" data-subject="">
 
 The proper fix for this would be to get rid of the ridiculous puke command in addition to price change. 
 
@@ -400,7 +400,7 @@ Jezer you need to seriously get a life if you're pacing the floor of your cage b
 
 </div>
 
-<div class="post" data-post-id="22755" data-author="jezer" data-date="2008-02-16T02:11:57+00:00">
+<div class="post" data-post-id="22755" data-author="jezer" data-date="2008-02-16T02:11:57+00:00" data-subject="">
 
 :D 
 
@@ -410,13 +410,13 @@ I may play less now, that runs take twice as long, but maybe that's a good thing
 
 </div>
 
-<div class="post" data-post-id="22756" data-author="Tap" data-date="2008-02-16T02:37:07+00:00">
+<div class="post" data-post-id="22756" data-author="Tap" data-date="2008-02-16T02:37:07+00:00" data-subject="">
 
 [url:hanf4elv]http://www.youtube.com/watch?v=lAVVVMcTShQ&feature=related[/url:hanf4elv]
 
 </div>
 
-<div class="post" data-post-id="22757" data-author="Autolycos" data-date="2008-02-16T03:29:44+00:00">
+<div class="post" data-post-id="22757" data-author="Autolycos" data-date="2008-02-16T03:29:44+00:00" data-subject="">
 
 I may play less now, that runs take twice as long, but maybe that's a good thing. [/quote:2zzdkdpi]
 
@@ -424,7 +424,7 @@ I think I'm going to cry....  or maybe laugh at you for being a retard.
 
 </div>
 
-<div class="post" data-post-id="22759" data-author="Ker" data-date="2008-02-16T06:07:01+00:00">
+<div class="post" data-post-id="22759" data-author="Ker" data-date="2008-02-16T06:07:01+00:00" data-subject="">
 
 Take a step at a time Apprentice, i'll be happy to give you gold for your hard solo runs. Or 2 man works.
 
@@ -432,7 +432,7 @@ Bomb
 
 </div>
 
-<div class="post" data-post-id="22762" data-author="jezer" data-date="2008-02-16T08:11:24+00:00">
+<div class="post" data-post-id="22762" data-author="jezer" data-date="2008-02-16T08:11:24+00:00" data-subject="">
 
 Why do you try so hard to be unlikeable Autolycos? 
 
@@ -442,7 +442,7 @@ In that move an Indian guy talks about having two dogs inside, a good one and a 
 
 </div>
 
-<div class="post" data-post-id="22764" data-author="Yasik" data-date="2008-02-16T08:42:59+00:00">
+<div class="post" data-post-id="22764" data-author="Yasik" data-date="2008-02-16T08:42:59+00:00" data-subject="">
 
 *babbling*[/quote:g2skozmv]
 
@@ -452,7 +452,7 @@ I kill 4 mobs with Haste or without it and i wont hit 5th anyway because i low o
 
 </div>
 
-<div class="post" data-post-id="22765" data-author="jezer" data-date="2008-02-16T08:55:36+00:00">
+<div class="post" data-post-id="22765" data-author="jezer" data-date="2008-02-16T08:55:36+00:00" data-subject="">
 
 Laugh at Yasik, as we all may... 
 
@@ -462,13 +462,13 @@ If your runs are short and intense, it's better to have mana on hand for blastin
 
 </div>
 
-<div class="post" data-post-id="22766" data-author="Yasik" data-date="2008-02-16T09:25:48+00:00">
+<div class="post" data-post-id="22766" data-author="Yasik" data-date="2008-02-16T09:25:48+00:00" data-subject="">
 
 [img:zt5068zz]http://yasik.kiev.ua/Brains_Autolycos.jpg[/img:zt5068zz]
 
 </div>
 
-<div class="post" data-post-id="22767" data-author="jezer" data-date="2008-02-16T09:39:31+00:00">
+<div class="post" data-post-id="22767" data-author="jezer" data-date="2008-02-16T09:39:31+00:00" data-subject="">
 
 Autolycos is actually quite smart... just ill mannered. 
 
@@ -476,7 +476,7 @@ And Yasik you've often attacked some of the things others have said, and you've 
 
 </div>
 
-<div class="post" data-post-id="22768" data-author="Yasik" data-date="2008-02-16T09:43:10+00:00">
+<div class="post" data-post-id="22768" data-author="Yasik" data-date="2008-02-16T09:43:10+00:00" data-subject="">
 
 Autolycos is actually quite smart... just ill mannered.[/quote:3bv9afs2]
 
@@ -484,19 +484,19 @@ Autolycos is actually quite smart... just ill mannered.[/quote:3bv9afs2]
 
 </div>
 
-<div class="post" data-post-id="22769" data-author="jezer" data-date="2008-02-16T09:45:01+00:00">
+<div class="post" data-post-id="22769" data-author="jezer" data-date="2008-02-16T09:45:01+00:00" data-subject="">
 
 :D
 
 </div>
 
-<div class="post" data-post-id="22770" data-author="brady" data-date="2008-02-16T13:15:40+00:00">
+<div class="post" data-post-id="22770" data-author="brady" data-date="2008-02-16T13:15:40+00:00" data-subject="">
 
 Autolycos is like that crotchety old uncle that farts at Thanksgiving dinner after he asks your 3 year old cousin to pull his finger.  Yasik is pretty much the stain that gets left behind.
 
 </div>
 
-<div class="post" data-post-id="22771" data-author="Yasik" data-date="2008-02-16T14:04:02+00:00">
+<div class="post" data-post-id="22771" data-author="Yasik" data-date="2008-02-16T14:04:02+00:00" data-subject="">
 
 Autolycos is like that crotchety old uncle that farts at Thanksgiving dinner after he asks your 3 year old cousin to pull his finger.  Yasik is pretty much the stain that gets left behind.[/quote:2z6s3o99]
 
@@ -506,7 +506,7 @@ at least i dont firestorm a bunch of low-levels at recall while being blinded an
 
 </div>
 
-<div class="post" data-post-id="22772" data-author="Autolycos" data-date="2008-02-16T14:12:15+00:00">
+<div class="post" data-post-id="22772" data-author="Autolycos" data-date="2008-02-16T14:12:15+00:00" data-subject="">
 
 Autolycos is like that crotchety old uncle that farts at Thanksgiving dinner after he asks your 3 year old cousin to pull his finger.  Yasik is pretty much the stain that gets left behind.[/quote:hvmv0t64]
 
@@ -516,7 +516,7 @@ snicker.
 
 </div>
 
-<div class="post" data-post-id="22773" data-author="Tap" data-date="2008-02-16T19:04:59+00:00">
+<div class="post" data-post-id="22773" data-author="Tap" data-date="2008-02-16T19:04:59+00:00" data-subject="">
 
 Hrm.....that extra attack for several rounds comes in handy when your all mana'd out, especially in groups.
 
@@ -524,13 +524,13 @@ Oh, where the heck can bread be bought?
 
 </div>
 
-<div class="post" data-post-id="22776" data-author="*juggleblood*" data-date="2008-02-16T22:15:35+00:00">
+<div class="post" data-post-id="22776" data-author="*juggleblood*" data-date="2008-02-16T22:15:35+00:00" data-subject="">
 
 do you guys see that penis sticking out of the dolphin's brain? strange
 
 </div>
 
-<div class="post" data-post-id="22777" data-author="Yasik" data-date="2008-02-16T23:48:04+00:00">
+<div class="post" data-post-id="22777" data-author="Yasik" data-date="2008-02-16T23:48:04+00:00" data-subject="">
 
 do you guys see that penis sticking out of the dolphin's brain? strange[/quote:2yvquni2]
 
@@ -538,7 +538,7 @@ The thread is ruined. Mission complete. :twisted:
 
 </div>
 
-<div class="post" data-post-id="22780" data-author="Rynquald" data-date="2008-02-17T05:09:54+00:00">
+<div class="post" data-post-id="22780" data-author="Rynquald" data-date="2008-02-17T05:09:54+00:00" data-subject="">
 
 At the risk of getting that oh so quaint brain chart reposted, I'd venture to say haste is more important to an "avatar druid" than most casters. +1 attack is a decent amount of damage per round for shift forms.
 
@@ -546,7 +546,7 @@ Assuming of course that if a character is being defined by their druid class, th
 
 </div>
 
-<div class="post" data-post-id="22787" data-author="Autolycos" data-date="2008-02-17T17:37:50+00:00">
+<div class="post" data-post-id="22787" data-author="Autolycos" data-date="2008-02-17T17:37:50+00:00" data-subject="">
 
 so...
 
@@ -558,7 +558,7 @@ Yasik is a f*cktard...
 
 </div>
 
-<div class="post" data-post-id="22788" data-author="Rynquald" data-date="2008-02-17T23:44:55+00:00">
+<div class="post" data-post-id="22788" data-author="Rynquald" data-date="2008-02-17T23:44:55+00:00" data-subject="">
 
 Wow, that's some slick post-condensation Auto :)
 

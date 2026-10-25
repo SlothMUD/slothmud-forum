@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16988" data-author="firebrand" data-date="2007-02-18T16:47:18+00:00">
+<div class="post" data-post-id="16988" data-author="firebrand" data-date="2007-02-18T16:47:18+00:00" data-subject="buggy online statistics window">
 
 There are 8 anonymous users and 0 registered users online.
 
@@ -26,7 +26,7 @@ You are logged-in as firebrand.
 
 </div>
 
-<div class="post" data-post-id="16989" data-author="Autolycos" data-date="2007-02-18T18:18:58+00:00">
+<div class="post" data-post-id="16989" data-author="Autolycos" data-date="2007-02-18T18:18:58+00:00" data-subject="">
 
 HA!  :twisted: 
 

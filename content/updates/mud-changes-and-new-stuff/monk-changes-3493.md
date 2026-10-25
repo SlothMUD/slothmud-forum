@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31630" data-author="*Splork*" data-date="2010-08-29T02:14:54+00:00">
+<div class="post" data-post-id="31630" data-author="*Splork*" data-date="2010-08-29T02:14:54+00:00" data-subject="Monk changes">
 
 1) New skill, barehanded accuracy is now ingame. Chobbs is nearly done with the mini-quest which will be used to maximize the skill. The skill adds + hit to barehanded attacks in accordance to the position of Monk in a player's classo. The +hit bonuses are dependent upon level of the monk class and avatar class.
 
@@ -26,7 +26,7 @@ These changes are in next reboot.
 
 </div>
 
-<div class="post" data-post-id="31649" data-author="*Chobbs*" data-date="2010-08-31T07:21:30+00:00">
+<div class="post" data-post-id="31649" data-author="*Chobbs*" data-date="2010-08-31T07:21:30+00:00" data-subject="Re: Monk changes">
 
 Mornin' folks,
 
@@ -38,7 +38,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="31705" data-author="*Splork*" data-date="2010-09-04T11:34:40+00:00">
+<div class="post" data-post-id="31705" data-author="*Splork*" data-date="2010-09-04T11:34:40+00:00" data-subject="Re: Monk changes">
 
 The later rounds of deathgrip have been tweaked and should do much greater damage than before. 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26446" data-author="Judge" data-date="2008-09-24T07:48:03+00:00">
+<div class="post" data-post-id="26446" data-author="Judge" data-date="2008-09-24T07:48:03+00:00" data-subject="Dec 2007: Clan symbol in title">
 
 You can add your clan symbol to your title by simply inserting %s where you want it to appear, if your symbol is coloured then your own title colour will be used for the remainder of your title after the symbol.
 

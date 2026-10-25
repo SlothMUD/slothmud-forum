@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="400" data-author="Dragoth" data-date="2004-05-29T00:09:36+00:00">
+<div class="post" data-post-id="400" data-author="Dragoth" data-date="2004-05-29T00:09:36+00:00" data-subject="looking for graygem cps">
 
 HAVE: emerald gaunts (forge 1), small pebble, obs jewel of soul, blue crystal staff, staff of ram, amulet of sang magi, runed onyx bracelet.
 

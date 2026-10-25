@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="7691" data-author="fowlon" data-date="2005-06-30T05:48:03+00:00">
+<div class="post" data-post-id="7691" data-author="fowlon" data-date="2005-06-30T05:48:03+00:00" data-subject="Where to learn more about EQ restrictions?">
 
 For example AdW=adept Warriror for which levels?
 
@@ -20,7 +20,7 @@ Thank you
 
 </div>
 
-<div class="post" data-post-id="7692" data-author="rith" data-date="2005-06-30T07:31:28+00:00">
+<div class="post" data-post-id="7692" data-author="rith" data-date="2005-06-30T07:31:28+00:00" data-subject="">
 
 help restrictions
 

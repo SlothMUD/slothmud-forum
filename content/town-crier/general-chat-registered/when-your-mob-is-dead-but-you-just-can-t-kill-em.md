@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="39728" data-author="Gorka" data-date="2021-06-08T06:49:08+00:00">
+<div class="post" data-post-id="39728" data-author="Gorka" data-date="2021-06-08T06:49:08+00:00" data-subject="When your mob is dead, but you just can&#x27;t kill &#x27;em">
 
 You viciously massacre wereraven lord with your pound.
 
@@ -48,7 +48,7 @@ Your blood freezes as you hear wereraven lord's death cry.
 
 </div>
 
-<div class="post" data-post-id="39729" data-author="Insomnia" data-date="2021-06-09T13:07:11+00:00">
+<div class="post" data-post-id="39729" data-author="Insomnia" data-date="2021-06-09T13:07:11+00:00" data-subject="Re: When your mob is dead, but you just can&#x27;t kill &#x27;em">
 
 I have it all the time. :(
 
@@ -86,19 +86,19 @@ The demonic weaponmaster is mortally wounded, and will die soon, if not aided.
 
 </div>
 
-<div class="post" data-post-id="39731" data-author="Driven" data-date="2021-06-12T18:19:36+00:00">
+<div class="post" data-post-id="39731" data-author="Driven" data-date="2021-06-12T18:19:36+00:00" data-subject="Re: When your mob is dead, but you just can&#x27;t kill &#x27;em">
 
 I can actually fix this.  Want me to, or do you want the idiosyncracy to remain?
 
 </div>
 
-<div class="post" data-post-id="39733" data-author="Gorka" data-date="2021-06-13T03:27:15+00:00">
+<div class="post" data-post-id="39733" data-author="Gorka" data-date="2021-06-13T03:27:15+00:00" data-subject="Re: When your mob is dead, but you just can&#x27;t kill &#x27;em">
 
 Personally I'm not too worried, and posted for the comedic value - but I do think a fix would do better for the credibility of the situation.
 
 </div>
 
-<div class="post" data-post-id="39778" data-author="jayclimbs" data-date="2021-07-11T20:22:33+00:00">
+<div class="post" data-post-id="39778" data-author="jayclimbs" data-date="2021-07-11T20:22:33+00:00" data-subject="Re: When your mob is dead, but you just can&#x27;t kill &#x27;em">
 
 Fixin' Kickin' would be grand.
 

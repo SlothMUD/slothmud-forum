@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="35704" data-author="*Neptune*" data-date="2015-02-22T20:24:05+00:00">
+<div class="post" data-post-id="35704" data-author="*Neptune*" data-date="2015-02-22T20:24:05+00:00" data-subject="Help File Updates">
 
 Greetings.
 
@@ -40,7 +40,7 @@ Thanks, and enjoy.
 
 </div>
 
-<div class="post" data-post-id="35849" data-author="*Splork*" data-date="2015-04-22T23:44:57+00:00">
+<div class="post" data-post-id="35849" data-author="*Splork*" data-date="2015-04-22T23:44:57+00:00" data-subject="Re: Help File Updates">
 
 Added some new helpfiles:
 
@@ -52,7 +52,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="36966" data-author="*Neptune*" data-date="2016-06-20T21:06:24+00:00">
+<div class="post" data-post-id="36966" data-author="*Neptune*" data-date="2016-06-20T21:06:24+00:00" data-subject="Re: Help File Updates">
 
 Greetings.
 

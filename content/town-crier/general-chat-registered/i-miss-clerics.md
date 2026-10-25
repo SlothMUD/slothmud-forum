@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="39483" data-author="Truck" data-date="2020-05-17T22:19:10+00:00">
+<div class="post" data-post-id="39483" data-author="Truck" data-date="2020-05-17T22:19:10+00:00" data-subject="I Miss Clerics.">
 
 As a once (at least I thought) respected tank, I miss clerics- they kept me alive.
 
@@ -32,7 +32,7 @@ Thanks for reading...
 
 </div>
 
-<div class="post" data-post-id="39484" data-author="Hung" data-date="2020-05-18T15:38:46+00:00">
+<div class="post" data-post-id="39484" data-author="Hung" data-date="2020-05-18T15:38:46+00:00" data-subject="Re: I Miss Clerics.">
 
 Nothing prevents a cleric from getting mage levels(as well as gear) and blast while not "IN".
 
@@ -44,13 +44,13 @@ Anyway I think it would be cool if supplications would be completely rehauled. M
 
 </div>
 
-<div class="post" data-post-id="39485" data-author="crumbs" data-date="2020-05-19T09:41:50+00:00">
+<div class="post" data-post-id="39485" data-author="crumbs" data-date="2020-05-19T09:41:50+00:00" data-subject="Re: I Miss Clerics.">
 
 I'm personally kinda annoyed by the artificial limitations imposed on aerial servant. Why can't I use it with deathgrip or backstab or shapeshift ? Makes alot of solo playstyles unviable. Why not add firewind to the list as well ? Made no sense to me, especially while druids never had any problems with shield of thorns compatibility with all of the above skills. So if you want to give clerics a quick boost, i do suggest adressing this issue, would take around a second to make this class much more enjoyable.
 
 </div>
 
-<div class="post" data-post-id="39486" data-author="*Idjit*" data-date="2020-05-19T20:24:08+00:00">
+<div class="post" data-post-id="39486" data-author="*Idjit*" data-date="2020-05-19T20:24:08+00:00" data-subject="Re: I Miss Clerics.">
 
 Q: does harm correspond straight across to heal (level 25)
 
@@ -68,7 +68,7 @@ and then these lower cause spells don't have the HB damage at the same ratio may
 
 </div>
 
-<div class="post" data-post-id="39487" data-author="Driven" data-date="2020-05-20T15:26:50+00:00">
+<div class="post" data-post-id="39487" data-author="Driven" data-date="2020-05-20T15:26:50+00:00" data-subject="Re: I Miss Clerics.">
 
 > **crumbs wrote:**
 > I'm personally kinda annoyed by the artificial limitations imposed on aerial servant. Why can't I use it with deathgrip or backstab or shapeshift ? Makes alot of solo playstyles unviable. Why not add firewind to the list as well ? Made no sense to me, especially while druids never had any problems with shield of thorns compatibility with all of the above skills. So if you want to give clerics a quick boost, i do suggest adressing this issue, would take around a second to make this class much more enjoyable.
@@ -77,7 +77,7 @@ My only experience with aerial servant is against mobs who have it, and it would
 
 </div>
 
-<div class="post" data-post-id="39488" data-author="Driven" data-date="2020-05-20T19:41:56+00:00">
+<div class="post" data-post-id="39488" data-author="Driven" data-date="2020-05-20T19:41:56+00:00" data-subject="Re: I Miss Clerics.">
 
 > ***Idjit* wrote:**
 > Q: does harm correspond straight across to heal (level 25)
@@ -98,7 +98,7 @@ There's so many different directions you can go with this.  Many games have gone
 
 </div>
 
-<div class="post" data-post-id="39489" data-author="crumbs" data-date="2020-05-21T08:18:33+00:00">
+<div class="post" data-post-id="39489" data-author="crumbs" data-date="2020-05-21T08:18:33+00:00" data-subject="Re: I Miss Clerics.">
 
 > **Driven wrote:**
 > My only experience with aerial servant is against mobs who have it, and it would appear that aerial servant completely blocks all damage, making the cleric literally immune to melee damage while the aerial servant is alive.  Druid thorns is a damage reduction, not immunity.  I would think that for the cooldown on aerial servant to be removed, the aerial servant's protection would need to be %-based to make it similar to druid thorns.  As in, if you backstab or grip, then the aerial servant would only stand in front of blows some % of time, such as 33%.
@@ -107,7 +107,7 @@ While I still don't understand why we have these kind of limitations, especially
 
 </div>
 
-<div class="post" data-post-id="39491" data-author="*Idjit*" data-date="2020-05-22T00:39:54+00:00">
+<div class="post" data-post-id="39491" data-author="*Idjit*" data-date="2020-05-22T00:39:54+00:00" data-subject="Re: I Miss Clerics.">
 
 Meh, I like my servant totally blocking.
 
@@ -117,7 +117,7 @@ Careful what you wish for.
 
 </div>
 
-<div class="post" data-post-id="39492" data-author="*Idjit*" data-date="2020-05-22T00:42:53+00:00">
+<div class="post" data-post-id="39492" data-author="*Idjit*" data-date="2020-05-22T00:42:53+00:00" data-subject="Re: I Miss Clerics.">
 
 -on- the other hand. If we were...
 
@@ -141,7 +141,7 @@ Just floating ideas.
 
 </div>
 
-<div class="post" data-post-id="39493" data-author="*Idjit*" data-date="2020-05-22T00:45:55+00:00">
+<div class="post" data-post-id="39493" data-author="*Idjit*" data-date="2020-05-22T00:45:55+00:00" data-subject="Re: I Miss Clerics.">
 
 Color code them
 
@@ -151,7 +151,7 @@ Color code them
 
 </div>
 
-<div class="post" data-post-id="39497" data-author="crumbs" data-date="2020-05-22T09:56:49+00:00">
+<div class="post" data-post-id="39497" data-author="crumbs" data-date="2020-05-22T09:56:49+00:00" data-subject="Re: I Miss Clerics.">
 
 Aye Idjit, agreed.
 
@@ -159,7 +159,7 @@ Would be nice to finally have my most important prime skill at least not be tota
 
 </div>
 
-<div class="post" data-post-id="39500" data-author="Truck" data-date="2020-05-22T16:46:41+00:00">
+<div class="post" data-post-id="39500" data-author="Truck" data-date="2020-05-22T16:46:41+00:00" data-subject="Re: I Miss Clerics.">
 
 I think Ariel servant usage with grip/backstab should be a different discussion.
 
@@ -167,7 +167,7 @@ What I was proposing was a cleric spell that utilized heal bonus for damage in a
 
 </div>
 
-<div class="post" data-post-id="39501" data-author="*Idjit*" data-date="2020-05-24T01:15:56+00:00">
+<div class="post" data-post-id="39501" data-author="*Idjit*" data-date="2020-05-24T01:15:56+00:00" data-subject="Re: I Miss Clerics.">
 
 Should i say it: does anyone stay mid range very long anymore.
 
@@ -185,7 +185,7 @@ I concur with that.
 
 </div>
 
-<div class="post" data-post-id="39502" data-author="*Idjit*" data-date="2020-05-24T02:15:28+00:00">
+<div class="post" data-post-id="39502" data-author="*Idjit*" data-date="2020-05-24T02:15:28+00:00" data-subject="Re: I Miss Clerics.">
 
 Here's a what-if-angels-sat-on-pinheads question:
 
@@ -203,7 +203,7 @@ But i want to hear all viewpoints.
 
 </div>
 
-<div class="post" data-post-id="39504" data-author="Truck" data-date="2020-05-24T16:53:19+00:00">
+<div class="post" data-post-id="39504" data-author="Truck" data-date="2020-05-24T16:53:19+00:00" data-subject="Re: I Miss Clerics.">
 
 I don't have access to the code, but being it is a different spell, it should be un-affected.
 

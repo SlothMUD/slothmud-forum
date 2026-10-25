@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="21867" data-author="Weasel" data-date="2008-01-04T16:24:25+00:00">
+<div class="post" data-post-id="21867" data-author="Weasel" data-date="2008-01-04T16:24:25+00:00" data-subject="stupid disease">
 
 For an hour and a half I had some unknown incurable disease that left me with 0 int and 7 wis (normally I'm at 18 for both). Detect disease could not identify it, dispel could not remove it.. now seriously, wtf is the point of that? In the end it took Krom casting a god-powered dispel on me to get rid of it, otherwise who knows how long it would've stayed. Even so, Krom could not identify what the disease was. Nobody online knew how to get rid of it or what it was either. With a regen rate that got down to 5, it made game play virtually impossible. 
 
@@ -18,13 +18,13 @@ Now this may be a bug, but I suspect it's just another one of these 'features' t
 
 </div>
 
-<div class="post" data-post-id="21869" data-author="Mosaix" data-date="2008-01-04T17:07:03+00:00">
+<div class="post" data-post-id="21869" data-author="Mosaix" data-date="2008-01-04T17:07:03+00:00" data-subject="">
 
 sounds like a good solution. :)
 
 </div>
 
-<div class="post" data-post-id="21870" data-author="Vixn" data-date="2008-01-04T17:19:44+00:00">
+<div class="post" data-post-id="21870" data-author="Vixn" data-date="2008-01-04T17:19:44+00:00" data-subject="">
 
 there somewhere was a potion named 'panacea'. probably it should work.
 
@@ -38,7 +38,7 @@ Vixn aka Edd
 
 </div>
 
-<div class="post" data-post-id="21872" data-author="Weasel" data-date="2008-01-05T09:14:20+00:00">
+<div class="post" data-post-id="21872" data-author="Weasel" data-date="2008-01-05T09:14:20+00:00" data-subject="">
 
 Thanks Vixn. Anyone know any more about it (panacea) - I've got it again... gonna rent and come back tomorrow and see if it's gone.. sucks.
 
@@ -48,13 +48,13 @@ p.p.s. was also mentioned that 'cleanse' might be worth trying.. but no monks we
 
 </div>
 
-<div class="post" data-post-id="21873" data-author="Alberich" data-date="2008-01-05T13:48:06+00:00">
+<div class="post" data-post-id="21873" data-author="Alberich" data-date="2008-01-05T13:48:06+00:00" data-subject="">
 
 the only panacea i remember is a quest given by sangoma in farlorne infirmary.  from what i recall it's pretty easy to complete
 
 </div>
 
-<div class="post" data-post-id="21875" data-author="13" data-date="2008-01-05T17:40:04+00:00">
+<div class="post" data-post-id="21875" data-author="13" data-date="2008-01-05T17:40:04+00:00" data-subject="">
 
 most of the diseases in this game are pretty fucking lame
 
@@ -64,7 +64,7 @@ honestly..what's the fucking point?
 
 </div>
 
-<div class="post" data-post-id="21876" data-author="Weasel" data-date="2008-01-05T19:04:46+00:00">
+<div class="post" data-post-id="21876" data-author="Weasel" data-date="2008-01-05T19:04:46+00:00" data-subject="">
 
 It appears cleanse doesn't fix it either. Once again an immort had to log on to remove it (thank you). Renting and coming back 8 hours later doesn't remove, and it doesn't wear off online within the first few hours at least either, if ever.
 
@@ -74,7 +74,7 @@ Please do something about this unknown disease, at the moment all it does it sto
 
 </div>
 
-<div class="post" data-post-id="21880" data-author="jezer" data-date="2008-01-06T15:11:24+00:00">
+<div class="post" data-post-id="21880" data-author="jezer" data-date="2008-01-06T15:11:24+00:00" data-subject="">
 
 I'd just like to add my weight (65kg) to weasels argument. (Even though with a name like weasel... I guess your asking to be diseased, stupid little rodents)
 
@@ -92,7 +92,7 @@ There is a whole "social" side of having a disease that could really be exploite
 
 </div>
 
-<div class="post" data-post-id="21931" data-author="van" data-date="2008-01-10T00:33:03+00:00">
+<div class="post" data-post-id="21931" data-author="van" data-date="2008-01-10T00:33:03+00:00" data-subject="">
 
 How about making them contagious! [/quote:1mnsdj9c]
 
@@ -104,13 +104,13 @@ And personally, I laugh when someone doesn't write a drink trigger to account fo
 
 </div>
 
-<div class="post" data-post-id="21932" data-author="Weasel" data-date="2008-01-10T00:40:26+00:00">
+<div class="post" data-post-id="21932" data-author="Weasel" data-date="2008-01-10T00:40:26+00:00" data-subject="">
 
 Just an FYI - the disease I had was buggy and has been removed for the time being.
 
 </div>
 
-<div class="post" data-post-id="21933" data-author="jezer" data-date="2008-01-10T00:52:03+00:00">
+<div class="post" data-post-id="21933" data-author="jezer" data-date="2008-01-10T00:52:03+00:00" data-subject="">
 
 You've clearly never been in a group that has hack.[/quote:2onitb9h]
 

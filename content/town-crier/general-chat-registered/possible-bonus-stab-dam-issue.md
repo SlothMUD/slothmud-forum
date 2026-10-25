@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39865" data-author="Gorka" data-date="2021-11-13T09:15:28+00:00">
+<div class="post" data-post-id="39865" data-author="Gorka" data-date="2021-11-13T09:15:28+00:00" data-subject="Possible Bonus Stab Dam Issue?">
 
 I've recently started purchasing stab dam from the rebirth shop but it would appear that my Backstab in counters has not been increasing. My average stab has always been a little bit variable but I've purchased more Stab Dam than the usual variability now, and the average doesn't appear to be increasing, and I am suspecting something is up. I'm taking my average stab after running the same mobs... after more than 1000 stabs - so variability should be like minimal.
 
@@ -20,7 +20,7 @@ My concern is I might be wasting my conquest points on nothing... or perhaps som
 
 </div>
 
-<div class="post" data-post-id="39866" data-author="Gorka" data-date="2021-11-16T06:13:57+00:00">
+<div class="post" data-post-id="39866" data-author="Gorka" data-date="2021-11-16T06:13:57+00:00" data-subject="Re: Possible Bonus Stab Dam Issue?">
 
 It appears my stab dam has increased substantially since reboot by the margin of the bonus stab dam I had purchased... but no confirmation that something was fixed... but looks like it at this early stage. Thanks whomever, if so.
 

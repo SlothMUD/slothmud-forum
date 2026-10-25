@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="24187" data-author="Weasel" data-date="2008-05-04T14:52:05+00:00">
+<div class="post" data-post-id="24187" data-author="Weasel" data-date="2008-05-04T14:52:05+00:00" data-subject="WTB scales of sandworm / monkey fist - 10mil each">
 
 WTB scales of sandworm and monkey fist - 10mil each
 
 </div>
 
-<div class="post" data-post-id="24486" data-author="Weasel" data-date="2008-05-24T13:22:49+00:00">
+<div class="post" data-post-id="24486" data-author="Weasel" data-date="2008-05-24T13:22:49+00:00" data-subject="">
 
 offer still there for either/both items..
 

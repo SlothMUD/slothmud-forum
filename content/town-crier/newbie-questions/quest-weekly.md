@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="1343" data-author="Ender" data-date="2004-08-10T17:16:14+00:00">
+<div class="post" data-post-id="1343" data-author="Ender" data-date="2004-08-10T17:16:14+00:00" data-subject="Quest Weekly">
 
 Ok, I'm a newbie...
 
@@ -22,7 +22,7 @@ Any info is appreciated.
 
 </div>
 
-<div class="post" data-post-id="1344" data-author="Shadis" data-date="2004-08-10T17:22:29+00:00">
+<div class="post" data-post-id="1344" data-author="Shadis" data-date="2004-08-10T17:22:29+00:00" data-subject="">
 
 basicly it was an auto quest/forge that only lasted one week
 

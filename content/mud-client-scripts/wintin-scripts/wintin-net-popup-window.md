@@ -10,13 +10,13 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="27973" data-author="Virus" data-date="2009-02-03T02:46:16+00:00">
+<div class="post" data-post-id="27973" data-author="Virus" data-date="2009-02-03T02:46:16+00:00" data-subject="Wintin.net popup window">
 
 Anyone have idea how to do something like "other" window in this screenshot: ![](http://www.wintin.org/Portals/0/screen10.JPG ?)
 
 </div>
 
-<div class="post" data-post-id="27974" data-author="*Splork*" data-date="2009-02-03T03:14:25+00:00">
+<div class="post" data-post-id="27974" data-author="*Splork*" data-date="2009-02-03T03:14:25+00:00" data-subject="">
 
 All of the code is not here but I dont have time to go through my entire script. That is the way annie and my wintin looks. You should be able to get a good idea of the code from the below;
 
@@ -202,7 +202,7 @@ All of the code is not here but I dont have time to go through my entire script.
 
 </div>
 
-<div class="post" data-post-id="27975" data-author="Virus" data-date="2009-02-03T13:46:58+00:00">
+<div class="post" data-post-id="27975" data-author="Virus" data-date="2009-02-03T13:46:58+00:00" data-subject="">
 
 Cool, thanks much I'll give it a try  :D
 

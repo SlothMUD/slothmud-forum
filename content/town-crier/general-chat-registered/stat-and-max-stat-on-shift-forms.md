@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31955" data-author="Luna" data-date="2010-11-02T02:57:46+00:00">
+<div class="post" data-post-id="31955" data-author="Luna" data-date="2010-11-02T02:57:46+00:00" data-subject="Stat and Max_Stat on Shift Forms?">
 
 Hey,
 
@@ -30,7 +30,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="31973" data-author="Luna" data-date="2010-11-05T09:18:10+00:00">
+<div class="post" data-post-id="31973" data-author="Luna" data-date="2010-11-05T09:18:10+00:00" data-subject="Re: Stat and Max_Stat on Shift Forms?">
 
 Also along these lines, I'd like to know if anyone knows how +Max_Stat EQ inteacts with shifting? Will they function like they should in shifted form (if the +Max_Stat is on shifted eq)?
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="28958" data-author="Magi" data-date="2009-04-17T17:31:48+00:00">
+<div class="post" data-post-id="28958" data-author="Magi" data-date="2009-04-17T17:31:48+00:00" data-subject="I can&#x27;t believe myself.">
 
 I've always tried to be nice to everyone, and I do an awesome job at it.  My own mother told me yesterday I have the patience of a saint.  That's mostly a reference to a week full of family problems and hospitalizations.
 
@@ -28,7 +28,7 @@ In every case, I've been the one in the wrong.. so I don't even have the right t
 
 </div>
 
-<div class="post" data-post-id="28959" data-author="Weasel" data-date="2009-04-17T19:01:56+00:00">
+<div class="post" data-post-id="28959" data-author="Weasel" data-date="2009-04-17T19:01:56+00:00" data-subject="">
 
 ..must.. [i:1gl26e64]*grunt*[/i:1gl26e64] ..extract ..self..  [i:1gl26e64]*strain*[/i:1gl26e64]  ..from ..mud..  [i:1gl26e64]*grrahhh!*[/i:1gl26e64] [b:1gl26e64]*POP*[/b:1gl26e64]
 
@@ -36,7 +36,7 @@ In every case, I've been the one in the wrong.. so I don't even have the right t
 
 </div>
 
-<div class="post" data-post-id="28960" data-author="Sind" data-date="2009-04-17T19:02:01+00:00">
+<div class="post" data-post-id="28960" data-author="Sind" data-date="2009-04-17T19:02:01+00:00" data-subject="">
 
 u're human after all :)
 
@@ -44,7 +44,7 @@ nothing wrong about it!
 
 </div>
 
-<div class="post" data-post-id="28962" data-author="Stryx" data-date="2009-04-17T21:54:24+00:00">
+<div class="post" data-post-id="28962" data-author="Stryx" data-date="2009-04-17T21:54:24+00:00" data-subject="">
 
 [quote:23fts83f]Once when he brought his group from BH to AH and invaded the area I was cycling with my own group, I recalled him without warning or even asking him to leave. There were no fatalities, but his group was certainly disrupted a bit. (I gather he's also upset that with my 3 thief levels, I once failed to steal from a mob our group was fighting.) [/quote:23fts83f]
 
@@ -58,7 +58,7 @@ Instead of trying to justify your actions in a weak apology, you would have been
 
 </div>
 
-<div class="post" data-post-id="28963" data-author="Autolycos" data-date="2009-04-18T00:08:14+00:00">
+<div class="post" data-post-id="28963" data-author="Autolycos" data-date="2009-04-18T00:08:14+00:00" data-subject="">
 
 leaving stormshadow dragged in to solo your screw up, resulting in his death.[/quote:6yh6fv45]
 
@@ -68,7 +68,7 @@ He has it mastered to an art form.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="28964" data-author="Magi" data-date="2009-04-18T03:07:48+00:00">
+<div class="post" data-post-id="28964" data-author="Magi" data-date="2009-04-18T03:07:48+00:00" data-subject="">
 
 Ok, correction.  I recalled Godmode, resulting in one fatality.  Look Stryx i was a jerk and i'm sorry.
 
@@ -76,7 +76,7 @@ Also, gwho did show you all on BH when our group entered sakura.  If gm was the 
 
 </div>
 
-<div class="post" data-post-id="28968" data-author="Stryx" data-date="2009-04-18T12:57:19+00:00">
+<div class="post" data-post-id="28968" data-author="Stryx" data-date="2009-04-18T12:57:19+00:00" data-subject="">
 
 The gwho prob showed Godmode in BH maybe because he went to level or something... shrugs.
 
@@ -84,7 +84,7 @@ I don't bear grudges, lifes too short. It is only a game after all.
 
 </div>
 
-<div class="post" data-post-id="28971" data-author="Medios" data-date="2009-04-18T16:48:52+00:00">
+<div class="post" data-post-id="28971" data-author="Medios" data-date="2009-04-18T16:48:52+00:00" data-subject="">
 
 I want you to go to your neutral corner and come out fighting.
 
@@ -92,7 +92,7 @@ Ding Ding.
 
 </div>
 
-<div class="post" data-post-id="28986" data-author="brady" data-date="2009-04-19T15:32:25+00:00">
+<div class="post" data-post-id="28986" data-author="brady" data-date="2009-04-19T15:32:25+00:00" data-subject="">
 
 Look Stryx i was a jerk and i'm sorry.[/quote:34lmt4n3]
 
@@ -102,7 +102,7 @@ Who is Magi?  Glad someone is keeping the faith.
 
 </div>
 
-<div class="post" data-post-id="28987" data-author="angel" data-date="2009-04-20T07:39:45+00:00">
+<div class="post" data-post-id="28987" data-author="angel" data-date="2009-04-20T07:39:45+00:00" data-subject="">
 
 fun stuff
 

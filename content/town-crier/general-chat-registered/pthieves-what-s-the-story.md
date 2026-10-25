@@ -10,7 +10,7 @@ locked: false
 post_count: 125
 ---
 
-<div class="post" data-post-id="8882" data-author="Zing" data-date="2005-10-03T17:27:48+00:00">
+<div class="post" data-post-id="8882" data-author="Zing" data-date="2005-10-03T17:27:48+00:00" data-subject="Pthieves  - What&#x27;s the story?">
 
 Ok, so I'm P.O.'d cause a L40 thief swiped my stuff and sold it.   *Laughing at self*   But hey, I killed mobs for those mage stones and it makes me mad.
 
@@ -30,7 +30,7 @@ Let me know if you'd like to help me form a posse.  Or if you think I am out of 
 
 </div>
 
-<div class="post" data-post-id="8883" data-author="Alberich" data-date="2005-10-03T17:42:39+00:00">
+<div class="post" data-post-id="8883" data-author="Alberich" data-date="2005-10-03T17:42:39+00:00" data-subject="">
 
 yes pthieves are annoying.  yes it's perfectly legal (read the rules).  sporting?  not particularly. 
 
@@ -38,7 +38,7 @@ the 'lesson' is more along the lines of "never have anything but recalls and foo
 
 </div>
 
-<div class="post" data-post-id="8884" data-author="12345" data-date="2005-10-03T17:49:52+00:00">
+<div class="post" data-post-id="8884" data-author="12345" data-date="2005-10-03T17:49:52+00:00" data-subject="">
 
 The moral is all over the place...  He shouldn't have done it, but it will probably make you a better player.  Along the lines of what Alberich said, don't have [i:1v1oduu7]anything[/i:1v1oduu7] in inventory that's not completely replaceable.  You'll notice that most of the higher level folks have scripts to mem:
 
@@ -48,7 +48,7 @@ Clients help tremendously.  Since you ultimately have the ability to keep anythi
 
 </div>
 
-<div class="post" data-post-id="8885" data-author="Rynquald" data-date="2005-10-03T18:26:58+00:00">
+<div class="post" data-post-id="8885" data-author="Rynquald" data-date="2005-10-03T18:26:58+00:00" data-subject="">
 
 *Agrees with Alberich and 12345*
 
@@ -80,13 +80,13 @@ Rynquald.
 
 </div>
 
-<div class="post" data-post-id="8887" data-author="Vixn" data-date="2005-10-03T20:25:31+00:00">
+<div class="post" data-post-id="8887" data-author="Vixn" data-date="2005-10-03T20:25:31+00:00" data-subject="">
 
 Add Derro to list. I'm pretty sure it's the same person.
 
 </div>
 
-<div class="post" data-post-id="8888" data-author="Zing" data-date="2005-10-03T21:09:37+00:00">
+<div class="post" data-post-id="8888" data-author="Zing" data-date="2005-10-03T21:09:37+00:00" data-subject="">
 
 Thanks for the feedback and the good advice.  I never knew that pthieves only had access to eq that was not worn or in a worn container. 
 
@@ -100,7 +100,7 @@ Thanks all.
 
 </div>
 
-<div class="post" data-post-id="8889" data-author="dt" data-date="2005-10-03T21:21:35+00:00">
+<div class="post" data-post-id="8889" data-author="dt" data-date="2005-10-03T21:21:35+00:00" data-subject="Stalin">
 
 I'm sure he's also on of Dia-poo's char's..  One trick he uses is to steal on bh and then use the post office to ship item to Val for Lenin to sell. Saw him steal, suspected he created Stalin to sell the 2 recalls for shipping charges and as they say rinse,repeat.
 
@@ -108,13 +108,13 @@ Oh, and he sucks.
 
 </div>
 
-<div class="post" data-post-id="8890" data-author="dt" data-date="2005-10-03T21:23:45+00:00">
+<div class="post" data-post-id="8890" data-author="dt" data-date="2005-10-03T21:23:45+00:00" data-subject="On a seperate but related topic...">
 
 Any chance we can make juju charm's clasp-able.. having a pthief steal your charm and losing juju blows.. not as bad a Dia-poo but close.
 
 </div>
 
-<div class="post" data-post-id="8892" data-author="Shara" data-date="2005-10-03T21:57:27+00:00">
+<div class="post" data-post-id="8892" data-author="Shara" data-date="2005-10-03T21:57:27+00:00" data-subject="">
 
 I don't think it's fair that he only gets boarded for one account.  I mean, doesn't he basically have immunity then?  And I don't think players should be unboarded immediately after a kill... there isn't much to stop them from stealing naked and creating new characters to abuse it :(
 
@@ -124,7 +124,7 @@ Sorries!
 
 </div>
 
-<div class="post" data-post-id="8893" data-author="Weasel" data-date="2005-10-03T23:26:36+00:00">
+<div class="post" data-post-id="8893" data-author="Weasel" data-date="2005-10-03T23:26:36+00:00" data-subject="">
 
 Once a player is identified as a pthief, you can kill them any time you like, along with any other characters they play as far as I know, as long as you can prove they are associated and immorts can confirm it via logs and/or IP if disputed. You can also pkill anyone aiding a pthief - it's guilt by association. Aiding would be something like a player knowingly holding or stashing the looted eq and helping the pthief transfer it to another 'non'-pthief char. 
 
@@ -132,7 +132,7 @@ Word of warning here too, if you buy a char that used to be a pthief, you can st
 
 </div>
 
-<div class="post" data-post-id="8894" data-author="madmax" data-date="2005-10-04T01:20:31+00:00">
+<div class="post" data-post-id="8894" data-author="madmax" data-date="2005-10-04T01:20:31+00:00" data-subject="Re: Stalin">
 
 I'm sure he's also on of Dia-poo's char's..  One trick he uses is to steal on bh and then use the post office to ship item to Val for Lenin to sell. Saw him steal, suspected he created Stalin to sell the 2 recalls for shipping charges and as they say rinse,repeat.
 
@@ -146,7 +146,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="8896" data-author="Gnu" data-date="2005-10-04T07:56:16+00:00">
+<div class="post" data-post-id="8896" data-author="Gnu" data-date="2005-10-04T07:56:16+00:00" data-subject="">
 
 Well... We all know about pthiefing, about its legality and about killing known pthiefs... BUT! Why do we forget apout panishing for newbie harrasment? I think that accident is a really good reason to use that rule and to keep in mind that Sloth III is a newbie-friendly mud!
 
@@ -154,7 +154,7 @@ Let's listen to immortals.  :roll:
 
 </div>
 
-<div class="post" data-post-id="8900" data-author="Daisy" data-date="2005-10-04T08:31:14+00:00">
+<div class="post" data-post-id="8900" data-author="Daisy" data-date="2005-10-04T08:31:14+00:00" data-subject="hmmmmm">
 
 Sloth is not a pkill mud, as such it shouldn't be a pthievery mud.
 
@@ -172,7 +172,7 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8905" data-author="Poolp" data-date="2005-10-04T09:04:15+00:00">
+<div class="post" data-post-id="8905" data-author="Poolp" data-date="2005-10-04T09:04:15+00:00" data-subject="">
 
 Pthieving has been allowed since sloth started, so good luck trying to get immorts to change the rules.
 
@@ -184,7 +184,7 @@ Have a good day.
 
 </div>
 
-<div class="post" data-post-id="8907" data-author="13" data-date="2005-10-04T10:30:00+00:00">
+<div class="post" data-post-id="8907" data-author="13" data-date="2005-10-04T10:30:00+00:00" data-subject="">
 
 Pthieves distinguish the real players from the folks who are just along for the ride in my opinion.  I know a lot of folks who like hunt them for 'sport'.  Once you discover who a pthief's main character is, that character is fair game for
 
@@ -192,7 +192,7 @@ killing and looting, and sometimes that is extremely profitable :)  With a regul
 
 </div>
 
-<div class="post" data-post-id="8908" data-author="Poolp" data-date="2005-10-04T10:48:24+00:00">
+<div class="post" data-post-id="8908" data-author="Poolp" data-date="2005-10-04T10:48:24+00:00" data-subject="">
 
 Actually pthieves almost never steal from bags, because if its too heavy for their character to carry in inv, its a 100% chance of failure and 100% chance that you'll get boarded.
 
@@ -202,7 +202,7 @@ You should know that, you were one of the greatest pthieves back when I way play
 
 </div>
 
-<div class="post" data-post-id="8909" data-author="Qa" data-date="2005-10-04T11:04:47+00:00">
+<div class="post" data-post-id="8909" data-author="Qa" data-date="2005-10-04T11:04:47+00:00" data-subject="Re: hmmmmm">
 
 Sloth is not a pkill mud, as such it shouldn't be a pthievery mud.
 
@@ -218,25 +218,25 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="8910" data-author="13" data-date="2005-10-04T11:33:49+00:00">
+<div class="post" data-post-id="8910" data-author="13" data-date="2005-10-04T11:33:49+00:00" data-subject="">
 
 Yeah like I said it's a lot safer if you keep it in a container, that way it's not glaring and begging to be ripped off in inventory.  The str thing is relatively new I believe, maybe 4 yrs old ?  I miss the good old days :)
 
 </div>
 
-<div class="post" data-post-id="8911" data-author="12345" data-date="2005-10-04T11:40:06+00:00">
+<div class="post" data-post-id="8911" data-author="12345" data-date="2005-10-04T11:40:06+00:00" data-subject="">
 
 You have to admire his honesty...
 
 </div>
 
-<div class="post" data-post-id="8912" data-author="Leaf" data-date="2005-10-04T12:59:23+00:00">
+<div class="post" data-post-id="8912" data-author="Leaf" data-date="2005-10-04T12:59:23+00:00" data-subject="">
 
 We all know Aaron is a pthief.  Lets PKILL HIM AND LOOT HIM GOOD!!!
 
 </div>
 
-<div class="post" data-post-id="8913" data-author="brand" data-date="2005-10-04T13:15:33+00:00">
+<div class="post" data-post-id="8913" data-author="brand" data-date="2005-10-04T13:15:33+00:00" data-subject="">
 
 I glance at all of you alot. dad always said look but don't touch.  and i would have to agree that many players are getting reckless with the items in inventory.  a good case of thieving should help with most of this.  not to claim the high ground, i had my 2.robe snatched just yesterday.  But at least it was just my 2.robe, although i want that pair of dice back bad.  before this current unknown pthief i think Gets was top dog, and took Bird for some big items, hell Gets even stole my brand new vault key once (that really makes you angry).  But just keeping your chin up and putting items in your worn robe will save you from most problems.  maybe you'll hammer the pthiefs feet some day soon.
 
@@ -244,7 +244,7 @@ I glance at all of you alot. dad always said look but don't touch.  and i would 
 
 </div>
 
-<div class="post" data-post-id="8914" data-author="Weasel" data-date="2005-10-04T13:39:39+00:00">
+<div class="post" data-post-id="8914" data-author="Weasel" data-date="2005-10-04T13:39:39+00:00" data-subject="">
 
 Nods, common sense plays a big part, but when you're in a group and stopping for regen halfway through a run, or running to raise someone and when you get to there you get pthieved while changing into your raise eq, it's pretty rough. It doesn't do anything to improve gameplay or make it more challenging in those situations imho, it's just a nuisance, and certainly having to recall and/or run to a safe area just to get changed is detrimental to enjoying gameplay. 
 
@@ -252,19 +252,19 @@ Comparitively, it seems there really isn't all that much to deter people from be
 
 </div>
 
-<div class="post" data-post-id="8918" data-author="Weasel" data-date="2005-10-04T14:38:49+00:00">
+<div class="post" data-post-id="8918" data-author="Weasel" data-date="2005-10-04T14:38:49+00:00" data-subject="">
 
 btw, are rope rooms no-steal? If not, they should be.
 
 </div>
 
-<div class="post" data-post-id="8920" data-author="Poolp" data-date="2005-10-04T15:59:20+00:00">
+<div class="post" data-post-id="8920" data-author="Poolp" data-date="2005-10-04T15:59:20+00:00" data-subject="">
 
 Shipping doesn't work when you're boarded, just found out the hard way :)
 
 </div>
 
-<div class="post" data-post-id="8926" data-author="Poolp" data-date="2005-10-05T06:23:04+00:00">
+<div class="post" data-post-id="8926" data-author="Poolp" data-date="2005-10-05T06:23:04+00:00" data-subject="">
 
 2x Woven strands of silk webbing     2M min
 
@@ -278,7 +278,7 @@ In the chopping block, more to come! Bid away!
 
 </div>
 
-<div class="post" data-post-id="8927" data-author="Argeos" data-date="2005-10-05T06:24:54+00:00">
+<div class="post" data-post-id="8927" data-author="Argeos" data-date="2005-10-05T06:24:54+00:00" data-subject="">
 
 btw, are rope rooms no-steal? If not, they should be.[/quote:3txo6xhe]
 
@@ -288,7 +288,7 @@ Argeos
 
 </div>
 
-<div class="post" data-post-id="8928" data-author="seshi" data-date="2005-10-05T11:12:24+00:00">
+<div class="post" data-post-id="8928" data-author="seshi" data-date="2005-10-05T11:12:24+00:00" data-subject="">
 
 One pthief I can deal with, keep your stuff safe etc. as people have pointed out, but to blatently multiplay and then to openly sell the loot in game and on the block is not behaviour that should be allowed.
 
@@ -302,13 +302,13 @@ I will not be buying looted stuff on the block and I will not be logging on to p
 
 </div>
 
-<div class="post" data-post-id="8929" data-author="Poolp" data-date="2005-10-05T11:53:57+00:00">
+<div class="post" data-post-id="8929" data-author="Poolp" data-date="2005-10-05T11:53:57+00:00" data-subject="">
 
 If we were really multiplaying the immorts would have wiped us long ago, they don't need you to point it out to them.
 
 </div>
 
-<div class="post" data-post-id="8930" data-author="Daisy" data-date="2005-10-05T12:15:29+00:00">
+<div class="post" data-post-id="8930" data-author="Daisy" data-date="2005-10-05T12:15:29+00:00" data-subject="Good Point ... Well Made">
 
 One pthief I can deal with, keep your stuff safe etc. as people have pointed out, but to blatently multiplay and then to openly sell the loot in game and on the block is not behaviour that should be allowed.
 
@@ -336,13 +336,13 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8931" data-author="12345" data-date="2005-10-05T12:24:29+00:00">
+<div class="post" data-post-id="8931" data-author="12345" data-date="2005-10-05T12:24:29+00:00" data-subject="">
 
 I guess everyone has forgotten there's actually a way to see if they're the same player or not.  As a lowly mortal who only has access to what was leaked I can tell you that there is no record of these two logging on from the same or similar IPs.  At least as of about a year ago, however, even at that time they both had the same levels they do now... so I'm pretty sure they're realy different people.
 
 </div>
 
-<div class="post" data-post-id="8932" data-author="Daisy" data-date="2005-10-05T12:28:12+00:00">
+<div class="post" data-post-id="8932" data-author="Daisy" data-date="2005-10-05T12:28:12+00:00" data-subject="Word of Advice">
 
 if you're going to buy stuff from poolp on the chopping block ... stuff he's stolen from other players ... whats to say he won't either:
 
@@ -358,7 +358,7 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8933" data-author="Daisy" data-date="2005-10-05T12:30:31+00:00">
+<div class="post" data-post-id="8933" data-author="Daisy" data-date="2005-10-05T12:30:31+00:00" data-subject="">
 
 I guess everyone has forgotten there's actually a way to see if they're the same player or not.  As a lowly mortal who only has access to what was leaked I can tell you that there is no record of these two logging on from the same or similar IPs.  At least as of about a year ago, however, even at that time they both had the same levels they do now... so I'm pretty sure they're realy different people.[/quote:qle6atq2]
 
@@ -370,7 +370,7 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8934" data-author="12345" data-date="2005-10-05T12:34:40+00:00">
+<div class="post" data-post-id="8934" data-author="12345" data-date="2005-10-05T12:34:40+00:00" data-subject="">
 
 It's very easy, but that's not the point.  I doubt either of the suspected that a list of all the IPs that everyone plays from would be leaked a year ago.  Derro blatantly plays all of his MANY pthieves from similar addresses, logging them on and off to jump around the continents as needed.  Poolp appears to have only 1 pthief, and it's never been on the same IP as any of Derro's mults.
 
@@ -378,7 +378,7 @@ To be honest, I'm kinda hoping that Poolp plays from a school, because I know so
 
 </div>
 
-<div class="post" data-post-id="8935" data-author="Daisy" data-date="2005-10-05T12:50:01+00:00">
+<div class="post" data-post-id="8935" data-author="Daisy" data-date="2005-10-05T12:50:01+00:00" data-subject="">
 
 but that's not the point.  [/quote:163tw2iz]
 
@@ -402,7 +402,7 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8936" data-author="Poolp" data-date="2005-10-05T13:02:29+00:00">
+<div class="post" data-post-id="8936" data-author="Poolp" data-date="2005-10-05T13:02:29+00:00" data-subject="">
 
 Actually I did share a home connection with a couple of people about 5 years ago, and I believe Clink and Splork have checked 'us' for multiplaying and well, we obviously passed the test and nothing has happened.
 
@@ -416,7 +416,7 @@ Good day.
 
 </div>
 
-<div class="post" data-post-id="8937" data-author="Alberich" data-date="2005-10-05T13:03:41+00:00">
+<div class="post" data-post-id="8937" data-author="Alberich" data-date="2005-10-05T13:03:41+00:00" data-subject="">
 
 what is so hard about 'if he was multiplaying he'd be wiped'? 
 
@@ -424,7 +424,7 @@ saying he was to wind up impressionable newbs is kind of amusing, it's not an ad
 
 </div>
 
-<div class="post" data-post-id="8938" data-author="Daisy" data-date="2005-10-05T13:16:09+00:00">
+<div class="post" data-post-id="8938" data-author="Daisy" data-date="2005-10-05T13:16:09+00:00" data-subject="Not an admission?">
 
 I'm sorry but saying:
 
@@ -442,7 +442,7 @@ This dosen't take away from the reasonableness of players who dislike rule break
 
 </div>
 
-<div class="post" data-post-id="8939" data-author="12345" data-date="2005-10-05T13:19:43+00:00">
+<div class="post" data-post-id="8939" data-author="12345" data-date="2005-10-05T13:19:43+00:00" data-subject="">
 
 I'm sorry what exactly is the point?[/quote:13m8b1fu]
 
@@ -456,7 +456,7 @@ Settle down already.
 
 </div>
 
-<div class="post" data-post-id="8940" data-author="13" data-date="2005-10-05T13:45:42+00:00">
+<div class="post" data-post-id="8940" data-author="13" data-date="2005-10-05T13:45:42+00:00" data-subject="">
 
 [http://www.affordablesupplements.com/meltdown.jpg](http://www.affordablesupplements.com/meltdown.jpg)
 
@@ -466,7 +466,7 @@ Settle down already.
 
 </div>
 
-<div class="post" data-post-id="8941" data-author="Daisy" data-date="2005-10-05T13:56:50+00:00">
+<div class="post" data-post-id="8941" data-author="Daisy" data-date="2005-10-05T13:56:50+00:00" data-subject="Thankyou">
 
 sign (see I can sound world weary too)
 
@@ -474,13 +474,13 @@ Thanks for the pictures ... they're lovely
 
 </div>
 
-<div class="post" data-post-id="8942" data-author="Leaf" data-date="2005-10-05T14:04:40+00:00">
+<div class="post" data-post-id="8942" data-author="Leaf" data-date="2005-10-05T14:04:40+00:00" data-subject="">
 
 Don't take it personaly Daisy.  Thats just Aa showing his love for u :)
 
 </div>
 
-<div class="post" data-post-id="8943" data-author="Krok" data-date="2005-10-05T14:14:44+00:00">
+<div class="post" data-post-id="8943" data-author="Krok" data-date="2005-10-05T14:14:44+00:00" data-subject="">
 
 Dear Daisy, 
 
@@ -492,7 +492,7 @@ And if you are going to tell me to switch gossip off - you'll have another reaso
 
 </div>
 
-<div class="post" data-post-id="8944" data-author="Blackguard" data-date="2005-10-05T14:22:53+00:00">
+<div class="post" data-post-id="8944" data-author="Blackguard" data-date="2005-10-05T14:22:53+00:00" data-subject="">
 
 Whiners, please shut up, nothing will change.
 
@@ -500,19 +500,19 @@ WTS GOLDEN SACK 100k min send tells to Derro/Jormungandr ingame :)
 
 </div>
 
-<div class="post" data-post-id="8945" data-author="Daisy" data-date="2005-10-05T14:27:44+00:00">
+<div class="post" data-post-id="8945" data-author="Daisy" data-date="2005-10-05T14:27:44+00:00" data-subject="Deep Sigh">
 
 who's getting wound up now?
 
 </div>
 
-<div class="post" data-post-id="8946" data-author="12345" data-date="2005-10-05T14:35:45+00:00">
+<div class="post" data-post-id="8946" data-author="12345" data-date="2005-10-05T14:35:45+00:00" data-subject="">
 
 It's funny that Daisy is doing a better job trolling than the trolls are...  :lol:
 
 </div>
 
-<div class="post" data-post-id="8947" data-author="Daisy" data-date="2005-10-05T14:43:31+00:00">
+<div class="post" data-post-id="8947" data-author="Daisy" data-date="2005-10-05T14:43:31+00:00" data-subject="World weary sigh, forlorn look of desperation and pity">
 
 At least I'm keeping it out of the game and not spoiling other players enjoyment like ..... scroll down the thread for the rest of this post.
 
@@ -520,7 +520,7 @@ At least I'm keeping it out of the game and not spoiling other players enjoyment
 
 </div>
 
-<div class="post" data-post-id="8948" data-author="dt" data-date="2005-10-05T17:43:20+00:00">
+<div class="post" data-post-id="8948" data-author="dt" data-date="2005-10-05T17:43:20+00:00" data-subject="Pooping on Poolp&#x27;s Parade">
 
 A shortened but very brief session with Poolp....
 
@@ -620,7 +620,7 @@ Your right Poolp... no need to whine... best off making Poo triggers.
 
 </div>
 
-<div class="post" data-post-id="8949" data-author="Leaf" data-date="2005-10-05T17:52:22+00:00">
+<div class="post" data-post-id="8949" data-author="Leaf" data-date="2005-10-05T17:52:22+00:00" data-subject="">
 
 We need to bring back Web Lag!!!
 
@@ -628,13 +628,13 @@ Web his ass and PUSH Him /50 times!!!!
 
 </div>
 
-<div class="post" data-post-id="8950" data-author="Poolp" data-date="2005-10-05T17:58:43+00:00">
+<div class="post" data-post-id="8950" data-author="Poolp" data-date="2005-10-05T17:58:43+00:00" data-subject="">
 
 There's a higher chance I'd break out of those pitiful lvl 23 (I think) webs if you pushed me out :P
 
 </div>
 
-<div class="post" data-post-id="8962" data-author="Clink" data-date="2005-10-06T15:27:37+00:00">
+<div class="post" data-post-id="8962" data-author="Clink" data-date="2005-10-06T15:27:37+00:00" data-subject="">
 
 And another thing, the person who created DontBuyFromPthief I think is abusing his rights as a member of the forum because he's sabotaging auctions on purpose and I wish for the immorts to do something about it. Of course I realize where I stand and I wouldn't mind if nothing happens.
 
@@ -646,7 +646,7 @@ As it is, it seems that it is being fairly (not farely) abused, if there is such
 
 </div>
 
-<div class="post" data-post-id="8967" data-author="Daisy" data-date="2005-10-07T09:44:13+00:00">
+<div class="post" data-post-id="8967" data-author="Daisy" data-date="2005-10-07T09:44:13+00:00" data-subject="">
 
 As it is, it seems that it is being fairly (not farely) abused, if there is such a thing, within the context of the game.  An unintentional, though foreseen, consequence of the Chopping Block made it easier to trade in stolen goods, so I'm OK with players responding by making it more difficult.[/quote:2zfhimeu]
 
@@ -654,7 +654,7 @@ I think I love you Clink!!!
 
 </div>
 
-<div class="post" data-post-id="8969" data-author="13" data-date="2005-10-07T10:10:25+00:00">
+<div class="post" data-post-id="8969" data-author="13" data-date="2005-10-07T10:10:25+00:00" data-subject="">
 
 Hi!
 
@@ -672,7 +672,7 @@ GOLD CHAINS AND GREENISH RINGS.  I R SKEERED O PTHF.
 
 </div>
 
-<div class="post" data-post-id="8970" data-author="12345" data-date="2005-10-07T10:40:19+00:00">
+<div class="post" data-post-id="8970" data-author="12345" data-date="2005-10-07T10:40:19+00:00" data-subject="">
 
 We all know 13 holds a special place in his heart for pthieves :)
 
@@ -680,13 +680,13 @@ I'm waiting for the part where they get a clasp and then start whining because i
 
 </div>
 
-<div class="post" data-post-id="8971" data-author="13" data-date="2005-10-07T11:00:58+00:00">
+<div class="post" data-post-id="8971" data-author="13" data-date="2005-10-07T11:00:58+00:00" data-subject="">
 
 *hug*  ^^^
 
 </div>
 
-<div class="post" data-post-id="8985" data-author="mudder" data-date="2005-10-11T11:54:29+00:00">
+<div class="post" data-post-id="8985" data-author="mudder" data-date="2005-10-11T11:54:29+00:00" data-subject="New here">
 
 I'm fairly new here and found this thread facinating, personally I see nothing wrong with pstealing, under help steal it makes it clear this is allowed, therefore end of discussion.
 
@@ -698,19 +698,19 @@ God bless trolling,
 
 </div>
 
-<div class="post" data-post-id="8986" data-author="Krok" data-date="2005-10-11T14:04:28+00:00">
+<div class="post" data-post-id="8986" data-author="Krok" data-date="2005-10-11T14:04:28+00:00" data-subject="">
 
 We don't bother to answer because _their_ posts are childish. Trying to change what is allowed in a GAME is pointless, imho.
 
 </div>
 
-<div class="post" data-post-id="8987" data-author="13" data-date="2005-10-11T14:08:31+00:00">
+<div class="post" data-post-id="8987" data-author="13" data-date="2005-10-11T14:08:31+00:00" data-subject="">
 
 It's just that it's so easy to avoid being stolen from.  I'm serious dude, there is no debate necessary IMHO, because it's a non-factor.  What I really am irritated about is the way the people who dislike it complain constantly for the most part.  It's the tone and frequency of the comments, not their basic whining nature that bothers me.
 
 </div>
 
-<div class="post" data-post-id="8988" data-author="Talo/Ulrich" data-date="2005-10-11T15:05:05+00:00">
+<div class="post" data-post-id="8988" data-author="Talo/Ulrich" data-date="2005-10-11T15:05:05+00:00" data-subject="God Bless AA the asshole :-)">
 
 Preach it AA ill pass the collection plate....
 
@@ -722,7 +722,7 @@ Talo/Ulrich
 
 </div>
 
-<div class="post" data-post-id="8989" data-author="13" data-date="2005-10-11T15:14:01+00:00">
+<div class="post" data-post-id="8989" data-author="13" data-date="2005-10-11T15:14:01+00:00" data-subject="">
 
 [quote:mk3ql8gy]sounds a lot like the job of G W's peeps[/quote:mk3ql8gy]
 
@@ -732,7 +732,7 @@ Talo/Ulrich
 
 </div>
 
-<div class="post" data-post-id="8997" data-author="Rynquald" data-date="2005-10-11T18:18:35+00:00">
+<div class="post" data-post-id="8997" data-author="Rynquald" data-date="2005-10-11T18:18:35+00:00" data-subject="">
 
 [quote:104k7n61]I;m a newbie who likes to cry a lot because I'm an ineffectual turd 
 
@@ -744,7 +744,7 @@ Thank you for the exclusion :)
 
 </div>
 
-<div class="post" data-post-id="8998" data-author="Leaf" data-date="2005-10-12T02:54:49+00:00">
+<div class="post" data-post-id="8998" data-author="Leaf" data-date="2005-10-12T02:54:49+00:00" data-subject="">
 
 Multi playing ... 
 
@@ -780,7 +780,7 @@ mudding these days.
 
 </div>
 
-<div class="post" data-post-id="8999" data-author="guest" data-date="2005-10-12T02:57:15+00:00">
+<div class="post" data-post-id="8999" data-author="guest" data-date="2005-10-12T02:57:15+00:00" data-subject="">
 
 ------------------------------------------------------------------------------------
 
@@ -810,7 +810,7 @@ Jormungandr is multiplaying cause he has all this eq when he log in game.  Cute.
 
 </div>
 
-<div class="post" data-post-id="9000" data-author="Leaf" data-date="2005-10-12T03:02:45+00:00">
+<div class="post" data-post-id="9000" data-author="Leaf" data-date="2005-10-12T03:02:45+00:00" data-subject="">
 
 He can't use a gimlet ... he has 4 webbing scrolls.
 
@@ -822,7 +822,7 @@ in as his Jor and get all and wait for his webs to dispel????
 
 </div>
 
-<div class="post" data-post-id="9001" data-author="Medios" data-date="2005-10-12T03:27:50+00:00">
+<div class="post" data-post-id="9001" data-author="Medios" data-date="2005-10-12T03:27:50+00:00" data-subject="">
 
 IE
 
@@ -838,7 +838,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="9002" data-author="seshi" data-date="2005-10-12T03:33:31+00:00">
+<div class="post" data-post-id="9002" data-author="seshi" data-date="2005-10-12T03:33:31+00:00" data-subject="">
 
 Maybe he is not multiplaying or doing anything strictly against the rules but he is disrupting the game. He's probably sitting there laughing at how he can get away with it without anyone doing anything. We play this game to have fun and he's spoiling the fun for a lot of people. This isn't whining, this is stating the fact that the game we know and love is being ruined , I believe, by one person out to do just that. 
 
@@ -846,13 +846,13 @@ This is your game IMMS and you can do want you want with it but dont be surprise
 
 </div>
 
-<div class="post" data-post-id="9003" data-author="Poolp" data-date="2005-10-12T05:13:30+00:00">
+<div class="post" data-post-id="9003" data-author="Poolp" data-date="2005-10-12T05:13:30+00:00" data-subject="">
 
 I think by allowing pthievery the immorts have succesfully removed the whiners from the game and that is just what they need, something to get rid of people who can't handle the game. And from what you said, that's good because you're giving pthieves even more incentive to screw your mudlife up. Hurrah!
 
 </div>
 
-<div class="post" data-post-id="9004" data-author="Argeos" data-date="2005-10-12T06:50:42+00:00">
+<div class="post" data-post-id="9004" data-author="Argeos" data-date="2005-10-12T06:50:42+00:00" data-subject="">
 
 We don't bother to answer because _their_ posts are childish. Trying to change what is allowed in a GAME is pointless, imho.[/quote:24tyo9j0]
 
@@ -866,7 +866,7 @@ Argeos
 
 </div>
 
-<div class="post" data-post-id="9005" data-author="dt" data-date="2005-10-12T07:22:50+00:00">
+<div class="post" data-post-id="9005" data-author="dt" data-date="2005-10-12T07:22:50+00:00" data-subject="Pthieves: Devil&#x27;s Advocate">
 
 I must admit that while Derro/Jorm's antics can get tiring at times, he does at least offer to sell back said item to person robbed. He managed to grab someone's sword of valor and offered to sell it back instead of junking it. Thankfully, someone was able to kill him 1st saving coins for the person robbed. Point being, I've seen alot worse that Derro and if nothing else it should be noted to admit that he has won. No-one and I do mean no-one should have any items worthwhile unequipped ever. If you do, plan on having them stolen. Don't waste your time in peace rooms thinking you're safe cause your'e not. If something bad happens, it's not that you deserved it, it's just you failed to realize that Derro can and probably will steal said item from you in one of his characters.Learn from others being robbed and take notice.
 
@@ -876,13 +876,13 @@ That being said, how the hell does he manage to stay on the wanted board for suc
 
 </div>
 
-<div class="post" data-post-id="9006" data-author="13" data-date="2005-10-12T09:05:15+00:00">
+<div class="post" data-post-id="9006" data-author="13" data-date="2005-10-12T09:05:15+00:00" data-subject="">
 
 This still?
 
 </div>
 
-<div class="post" data-post-id="9007" data-author="Alberich" data-date="2005-10-12T10:56:07+00:00">
+<div class="post" data-post-id="9007" data-author="Alberich" data-date="2005-10-12T10:56:07+00:00" data-subject="">
 
 yep, this still.  at least the pthieves create some amusment as opposed to all these newbies that take things too damn seriously.
 
@@ -890,7 +890,7 @@ and seshi - of course he's sitting at home laughing at you, that's the point, so
 
 </div>
 
-<div class="post" data-post-id="9009" data-author="Leaf" data-date="2005-10-12T11:14:22+00:00">
+<div class="post" data-post-id="9009" data-author="Leaf" data-date="2005-10-12T11:14:22+00:00" data-subject="">
 
 IE
 
@@ -920,7 +920,7 @@ eq when u "quit".  Which is something I never knew for 6yrs of mudding.
 
 </div>
 
-<div class="post" data-post-id="9010" data-author="Daisy" data-date="2005-10-12T11:28:06+00:00">
+<div class="post" data-post-id="9010" data-author="Daisy" data-date="2005-10-12T11:28:06+00:00" data-subject="Whining">
 
 why is that the very few, and it does seem to me to be a very vocal minority, that try and defend pstealing seem to think they're in the majority?
 
@@ -940,7 +940,7 @@ Further, when someone gossips '***** the pthief is on' this isn't whining (as so
 
 </div>
 
-<div class="post" data-post-id="9012" data-author="12345" data-date="2005-10-12T12:17:41+00:00">
+<div class="post" data-post-id="9012" data-author="12345" data-date="2005-10-12T12:17:41+00:00" data-subject="Re: Whining">
 
 I'll acknowledge that pstealing is allowed under current sloth rules.
 
@@ -958,7 +958,7 @@ I think you've made the wrong choice.
 
 </div>
 
-<div class="post" data-post-id="9013" data-author="guest" data-date="2005-10-12T13:45:14+00:00">
+<div class="post" data-post-id="9013" data-author="guest" data-date="2005-10-12T13:45:14+00:00" data-subject="">
 
 [quote:28fi07a5]Not as so much as whining the hell out of everyone. I'm trying to understand 
 
@@ -976,7 +976,7 @@ Actually i never said that.  All i said (over and over and over) and all im stil
 
 </div>
 
-<div class="post" data-post-id="9014" data-author="Weasel" data-date="2005-10-12T15:25:23+00:00">
+<div class="post" data-post-id="9014" data-author="Weasel" data-date="2005-10-12T15:25:23+00:00" data-subject="">
 
 Unfortunately Daisy, a well reasoned arguement with data to back it up automatically makes you the worst kind of whiner on slothmud. I have no idea why this mentality exists here, because it completely defies common sense or logic, but that is how it is - I know first hand. Basically, if you have two opposing opinions, party #1 having all the empirical data in the world and a rock-solid arguement, while party #2 has absolutely no evidence to back up their opinion whatsoever, and their idea of a fair discussion consists of name-calling, insults and calling the other party a bunch a whiners who can't hack 'it', then guess what? Party #2 will win every time here.
 
@@ -986,7 +986,7 @@ It's very frustrating, and I can understand your point, but it is highly likely 
 
 </div>
 
-<div class="post" data-post-id="9017" data-author="Grue" data-date="2005-10-12T17:20:53+00:00">
+<div class="post" data-post-id="9017" data-author="Grue" data-date="2005-10-12T17:20:53+00:00" data-subject="">
 
 Daisy wrote:
 
@@ -998,13 +998,13 @@ Seems based on the current results of your poll only 22% of people support wipin
 
 </div>
 
-<div class="post" data-post-id="9018" data-author="12345" data-date="2005-10-12T17:25:48+00:00">
+<div class="post" data-post-id="9018" data-author="12345" data-date="2005-10-12T17:25:48+00:00" data-subject="">
 
 I was kinda curious where Daisy's well reasoned argument or data were... but Weasel seemed to think she had them, so I didn't say anything :)
 
 </div>
 
-<div class="post" data-post-id="9019" data-author="Weasel" data-date="2005-10-12T17:41:51+00:00">
+<div class="post" data-post-id="9019" data-author="Weasel" data-date="2005-10-12T17:41:51+00:00" data-subject="">
 
 heh.. reasoned arguements anyway.. somehow I don't think anybody would deny that having your eq stolen sucks.. unless of course you're the pthief :)  How does having your eq stolen improve gameplay? 
 
@@ -1012,7 +1012,7 @@ Actually I shouldn't get involved, it's pointless, so *waves*     :wink:
 
 </div>
 
-<div class="post" data-post-id="9020" data-author="12345" data-date="2005-10-12T17:55:24+00:00">
+<div class="post" data-post-id="9020" data-author="12345" data-date="2005-10-12T17:55:24+00:00" data-subject="">
 
 How does having your eq stolen improve gameplay? [/quote:jym6xlif]
 
@@ -1020,7 +1020,7 @@ It doesn't at all.  However, neither does dying, rent, gravity, drowning, aggro 
 
 </div>
 
-<div class="post" data-post-id="9021" data-author="Weasel" data-date="2005-10-12T18:12:01+00:00">
+<div class="post" data-post-id="9021" data-author="Weasel" data-date="2005-10-12T18:12:01+00:00" data-subject="">
 
 yeah, gravity sucks. :wink: 
 
@@ -1032,7 +1032,7 @@ Along the same lines, Poolp seems to pthief to teach people a lesson, and he/she
 
 </div>
 
-<div class="post" data-post-id="9022" data-author="Grue" data-date="2005-10-12T18:27:05+00:00">
+<div class="post" data-post-id="9022" data-author="Grue" data-date="2005-10-12T18:27:05+00:00" data-subject="">
 
 I must say I find the current spate of pthieving, mainly one person witha  whole string of known pthieves, logging on, off, on off etc, extremely annoying.
 
@@ -1044,7 +1044,7 @@ Having said all that, I'm tired of all the whining to change the rules.
 
 </div>
 
-<div class="post" data-post-id="9023" data-author="kjartan" data-date="2005-10-12T18:40:05+00:00">
+<div class="post" data-post-id="9023" data-author="kjartan" data-date="2005-10-12T18:40:05+00:00" data-subject="">
 
 How does having your eq stolen improve gameplay? [/quote:6wp9cp0u]
 
@@ -1054,7 +1054,7 @@ I would say all of these things add to gameplay - that's why they're there.
 
 </div>
 
-<div class="post" data-post-id="9024" data-author="Vixn" data-date="2005-10-13T03:56:29+00:00">
+<div class="post" data-post-id="9024" data-author="Vixn" data-date="2005-10-13T03:56:29+00:00" data-subject="">
 
 How does having your eq stolen improve gameplay? [/quote:37dnykje]
 
@@ -1068,7 +1068,7 @@ Vixn, The Laziest Always-JokA Whiner
 
 </div>
 
-<div class="post" data-post-id="9027" data-author="Daisy" data-date="2005-10-13T08:44:38+00:00">
+<div class="post" data-post-id="9027" data-author="Daisy" data-date="2005-10-13T08:44:38+00:00" data-subject="End of">
 
 ...  but it is highly likely you'll get nowhere with it except to end up holding a resentment, which really is going to be to sloth's detriment in the long run as you will be just one more person playing here who is now unwilling to help with the development of the mud, but hey, nobody gives a toss. Your suggestions, ideas and input are discouraged here, as ridiculous as that may sound...[/quote:2t9fwo7c]
 
@@ -1086,7 +1086,7 @@ anyway as this is my last post on this subject, I'll just say its been fun.
 
 </div>
 
-<div class="post" data-post-id="9028" data-author="Grue" data-date="2005-10-13T10:30:32+00:00">
+<div class="post" data-post-id="9028" data-author="Grue" data-date="2005-10-13T10:30:32+00:00" data-subject="">
 
 Daisy wrote
 
@@ -1100,7 +1100,7 @@ The poll at the moment shows that 60% of people are willing to live with pthievi
 
 </div>
 
-<div class="post" data-post-id="9030" data-author="Poolp" data-date="2005-10-13T11:07:22+00:00">
+<div class="post" data-post-id="9030" data-author="Poolp" data-date="2005-10-13T11:07:22+00:00" data-subject="">
 
 [url:34mgqals]http://slothmud.org/index.php?name=PNphpBB2&file=viewtopic&p=9029#9029[/url:34mgqals]
 
@@ -1108,7 +1108,7 @@ Since everybody loves reading this post so much.. Anyway I'm having plenty of sm
 
 </div>
 
-<div class="post" data-post-id="9031" data-author="12345" data-date="2005-10-13T11:07:33+00:00">
+<div class="post" data-post-id="9031" data-author="12345" data-date="2005-10-13T11:07:33+00:00" data-subject="">
 
 Grue, you are giving Daisy WAY too much credit.  Her arguments from the start have been very silly...
 
@@ -1122,7 +1122,7 @@ The facts of the matter are very simple.  Everything a pthief does is designed t
 
 </div>
 
-<div class="post" data-post-id="9033" data-author="mudder" data-date="2005-10-13T12:49:11+00:00">
+<div class="post" data-post-id="9033" data-author="mudder" data-date="2005-10-13T12:49:11+00:00" data-subject="Lets be fair?">
 
 I'm beginning to see the attraction in ptheft :) if it gets this much attention it becomes a whole new game of its own ... I think Daisy and others here have converted me :)
 
@@ -1152,7 +1152,7 @@ Troll Troll Troll Troll
 
 </div>
 
-<div class="post" data-post-id="9035" data-author="12345" data-date="2005-10-13T13:24:00+00:00">
+<div class="post" data-post-id="9035" data-author="12345" data-date="2005-10-13T13:24:00+00:00" data-subject="">
 
 Ok, I didn't interpret my statements as such, but I acquiesce.  The percieved offensive statements have been removed from my post.  I think the point still stands though.
 
@@ -1164,43 +1164,43 @@ My intent isn't to troll her, but I'm only human.  I'll apologize on that accoun
 
 </div>
 
-<div class="post" data-post-id="9037" data-author="firebrand" data-date="2005-10-13T15:17:12+00:00">
+<div class="post" data-post-id="9037" data-author="firebrand" data-date="2005-10-13T15:17:12+00:00" data-subject="">
 
 this is quite amusing.  we all say that responding to a pthief just accomplishes his goal of getting attention and of course feeds the fire and encourages the behavior, playing right into his hands and giving him exactly what he wants, but has anyone considered that they are giving the exact same power to daisy and we are giving her exactly what she wants?  kudos daisy - well played.  you got your fifteen seconds of fame.  now it's time to say good night, bow, and exit stage left .
 
 </div>
 
-<div class="post" data-post-id="9039" data-author="Ironwolf" data-date="2005-10-13T15:32:55+00:00">
+<div class="post" data-post-id="9039" data-author="Ironwolf" data-date="2005-10-13T15:32:55+00:00" data-subject="">
 
 one thing is that i don't like is that if the thief is boarded my alignment shouldn't go from spread good and joy to tainted heart, when i kill him.
 
 </div>
 
-<div class="post" data-post-id="9040" data-author="kjartan" data-date="2005-10-13T15:45:11+00:00">
+<div class="post" data-post-id="9040" data-author="kjartan" data-date="2005-10-13T15:45:11+00:00" data-subject="">
 
 That is a good point.  I will perhaps fix that sometime.
 
 </div>
 
-<div class="post" data-post-id="9041" data-author="Ironwolf" data-date="2005-10-13T15:48:20+00:00">
+<div class="post" data-post-id="9041" data-author="Ironwolf" data-date="2005-10-13T15:48:20+00:00" data-subject="">
 
 hehe thanks would be nice  :)
 
 </div>
 
-<div class="post" data-post-id="9045" data-author="Weasel" data-date="2005-10-13T18:53:42+00:00">
+<div class="post" data-post-id="9045" data-author="Weasel" data-date="2005-10-13T18:53:42+00:00" data-subject="">
 
 heh.. would be amusing if Poolp & co. started targeting all those who are pro-pthieving here.   :lol:
 
 </div>
 
-<div class="post" data-post-id="9046" data-author="13" data-date="2005-10-13T19:54:47+00:00">
+<div class="post" data-post-id="9046" data-author="13" data-date="2005-10-13T19:54:47+00:00" data-subject="">
 
 but then who would dispel them and fence their shit ?
 
 </div>
 
-<div class="post" data-post-id="9047" data-author="12345" data-date="2005-10-13T20:13:04+00:00">
+<div class="post" data-post-id="9047" data-author="12345" data-date="2005-10-13T20:13:04+00:00" data-subject="">
 
 heh.. would be amusing if Poolp & co. started targeting all those who are pro-pthieving here.   :lol:[/quote:a0dycyrm]
 
@@ -1214,7 +1214,7 @@ Just so you have an idea of some of the tricks he uses :)
 
 </div>
 
-<div class="post" data-post-id="9049" data-author="Poolp" data-date="2005-10-14T04:33:12+00:00">
+<div class="post" data-post-id="9049" data-author="Poolp" data-date="2005-10-14T04:33:12+00:00" data-subject="">
 
 but then who would dispel them and fence their shit ?[/quote:8xloowde]
 
@@ -1222,7 +1222,7 @@ Nobody. We get ourselves killed by our trustworthy friend the Sash Lieutenant, q
 
 </div>
 
-<div class="post" data-post-id="9050" data-author="13" data-date="2005-10-14T09:03:52+00:00">
+<div class="post" data-post-id="9050" data-author="13" data-date="2005-10-14T09:03:52+00:00" data-subject="">
 
 Hehe.  Well that's cool, feel free to come after me if you want, I'm a good sport..usually.  Goat trolls are super-mortable actually.  That's one of the
 
@@ -1232,7 +1232,7 @@ and Luhhan and Sedai normally.
 
 </div>
 
-<div class="post" data-post-id="9051" data-author="12345" data-date="2005-10-14T10:30:47+00:00">
+<div class="post" data-post-id="9051" data-author="12345" data-date="2005-10-14T10:30:47+00:00" data-subject="">
 
 Goat trolls are super-mortable actually.  That's one of the best places to mort for people.[/quote:2larj9tc]
 
@@ -1240,7 +1240,7 @@ I'll try to remember that.  I thought they were painful splork types.  I didnt' 
 
 </div>
 
-<div class="post" data-post-id="9052" data-author="Leaf" data-date="2005-10-14T11:25:37+00:00">
+<div class="post" data-post-id="9052" data-author="Leaf" data-date="2005-10-14T11:25:37+00:00" data-subject="">
 
 Ur tank wouldn't, but u can stab stab and maybe a wind to mort them.
 
@@ -1248,7 +1248,7 @@ I forgot, but I was able to mort 4 out of 6 of something.
 
 </div>
 
-<div class="post" data-post-id="9053" data-author="Blackguard" data-date="2005-10-14T17:43:38+00:00">
+<div class="post" data-post-id="9053" data-author="Blackguard" data-date="2005-10-14T17:43:38+00:00" data-subject="">
 
 So much misinformation in this thread...
 
@@ -1272,13 +1272,13 @@ Derro
 
 </div>
 
-<div class="post" data-post-id="9054" data-author="Poolp" data-date="2005-10-14T18:46:26+00:00">
+<div class="post" data-post-id="9054" data-author="Poolp" data-date="2005-10-14T18:46:26+00:00" data-subject="">
 
 Hurrah, I'm special again! And after 10 messages from Brad about how I ruin the MUD, how can I not thank God for being so kind? :)
 
 </div>
 
-<div class="post" data-post-id="9055" data-author="markg" data-date="2005-10-14T19:17:02+00:00">
+<div class="post" data-post-id="9055" data-author="markg" data-date="2005-10-14T19:17:02+00:00" data-subject="">
 
 wow 101 posts on this topic?!?
 
@@ -1286,7 +1286,7 @@ well... 102 now
 
 </div>
 
-<div class="post" data-post-id="9056" data-author="12345" data-date="2005-10-14T19:24:37+00:00">
+<div class="post" data-post-id="9056" data-author="12345" data-date="2005-10-14T19:24:37+00:00" data-subject="">
 
 "I would if I could kill them. Splork mobs aren't exactly my thing". Sounds like a lot like assistance of known pthief, pkillable offense :D[/quote:2mq1qigm]
 
@@ -1300,7 +1300,7 @@ Either way... it was fun watching you drooling.
 
 </div>
 
-<div class="post" data-post-id="9058" data-author="13" data-date="2005-10-14T21:08:39+00:00">
+<div class="post" data-post-id="9058" data-author="13" data-date="2005-10-14T21:08:39+00:00" data-subject="">
 
 [quote:28v8lf3a]after 10 messages from Brad about how I ruin the MUD,[/quote:28v8lf3a]
 
@@ -1308,13 +1308,13 @@ MELTDOWN!!
 
 </div>
 
-<div class="post" data-post-id="9061" data-author="Pine" data-date="2005-10-15T13:28:01+00:00">
+<div class="post" data-post-id="9061" data-author="Pine" data-date="2005-10-15T13:28:01+00:00" data-subject="">
 
 I didn't play for a month or two, and when I started again P-thieving seemed to have increased 100 fold.  So in the spirit of adding to gameplay, lets even the playing field a bit.  Those who pthieve should have a bad reputation in game, not just on the posts.  Innkeepers and other safe zone mobs should chase pthieves away after they steal for like 5 ticks or something.  That way pthieves have to have more skill than steal and rent.  The pthieves can try to survive for a few ticks.  It should spice things up a bit.
 
 </div>
 
-<div class="post" data-post-id="9062" data-author="Blackguard" data-date="2005-10-15T14:25:41+00:00">
+<div class="post" data-post-id="9062" data-author="Blackguard" data-date="2005-10-15T14:25:41+00:00" data-subject="">
 
 I didn't play for a month or two, and when I started again P-thieving seemed to have increased 100 fold.  So in the spirit of adding to gameplay, lets even the playing field a bit.  Those who pthieve should have a bad reputation in game, not just on the posts.  Innkeepers and other safe zone mobs should chase pthieves away after they steal for like 5 ticks or something.  That way pthieves have to have more skill than steal and rent.  The pthieves can try to survive for a few ticks.  It should spice things up a bit.[/quote:1evwa616]
 
@@ -1322,7 +1322,7 @@ Or how about you just stfu? :)
 
 </div>
 
-<div class="post" data-post-id="9171" data-author="Weasel" data-date="2005-10-25T18:59:56+00:00">
+<div class="post" data-post-id="9171" data-author="Weasel" data-date="2005-10-25T18:59:56+00:00" data-subject="">
 
 list as requested.. doesn't include a few more recent ones on this list.
 
@@ -1456,7 +1456,7 @@ add more as needed
 
 </div>
 
-<div class="post" data-post-id="9184" data-author="Krok" data-date="2005-10-26T04:16:04+00:00">
+<div class="post" data-post-id="9184" data-author="Krok" data-date="2005-10-26T04:16:04+00:00" data-subject="">
 
 I'm afraid to say that, but Cat is Zam/Shake's char. Actually, I don't wanna believe this, but... but... Weasel, do you have any proofs which will support your position? 
 
@@ -1464,7 +1464,7 @@ This all doesn't seem realistic to me, but we all know Zammie's nasty character.
 
 </div>
 
-<div class="post" data-post-id="9187" data-author="Weasel" data-date="2005-10-26T08:34:06+00:00">
+<div class="post" data-post-id="9187" data-author="Weasel" data-date="2005-10-26T08:34:06+00:00" data-subject="">
 
 yup - it was thanks to whatever ex-immort published that IP list a while back.. 
 
@@ -1472,19 +1472,19 @@ note: char ownership may have changed since, or if a pthief and a regular player
 
 </div>
 
-<div class="post" data-post-id="9188" data-author="13" data-date="2005-10-26T10:37:14+00:00">
+<div class="post" data-post-id="9188" data-author="13" data-date="2005-10-26T10:37:14+00:00" data-subject="">
 
 I saw a few discrepancies in the list myself.  I wouldn't count on it as rock-solid.
 
 </div>
 
-<div class="post" data-post-id="9192" data-author="12345" data-date="2005-10-26T11:50:58+00:00">
+<div class="post" data-post-id="9192" data-author="12345" data-date="2005-10-26T11:50:58+00:00" data-subject="">
 
 It may have helped if he made separate lists.  Derro has a number of characers, Poolp used to share a connection with real players and Briar was sold to a real player at some point. So yes, there's good potential for bystanders to be sucked into the list through poximity.
 
 </div>
 
-<div class="post" data-post-id="9203" data-author="Krok" data-date="2005-10-26T18:42:25+00:00">
+<div class="post" data-post-id="9203" data-author="Krok" data-date="2005-10-26T18:42:25+00:00" data-subject="">
 
 Ok, my irony wasn't appreciated.
 
@@ -1506,7 +1506,7 @@ Lots of love,
 
 </div>
 
-<div class="post" data-post-id="9211" data-author="Weasel" data-date="2005-10-27T08:26:48+00:00">
+<div class="post" data-post-id="9211" data-author="Weasel" data-date="2005-10-27T08:26:48+00:00" data-subject="">
 
 Dear Krok
 
@@ -1516,49 +1516,49 @@ These chars are associated by IP, not classo, as I said - I've advised where thi
 
 </div>
 
-<div class="post" data-post-id="9219" data-author="Krok" data-date="2005-10-27T13:27:21+00:00">
+<div class="post" data-post-id="9219" data-author="Krok" data-date="2005-10-27T13:27:21+00:00" data-subject="">
 
 Once again: there was a pwipe of lilttle chars. Zam made char with same name. He owns it now. And it doesn't mean he's a pthief! :PPP
 
 </div>
 
-<div class="post" data-post-id="9220" data-author="13" data-date="2005-10-27T13:42:22+00:00">
+<div class="post" data-post-id="9220" data-author="13" data-date="2005-10-27T13:42:22+00:00" data-subject="">
 
 Zam is solid.
 
 </div>
 
-<div class="post" data-post-id="9238" data-author="Weasel" data-date="2005-10-27T18:56:07+00:00">
+<div class="post" data-post-id="9238" data-author="Weasel" data-date="2005-10-27T18:56:07+00:00" data-subject="">
 
 Probably, since his char 'Zam' did not appear on any of the same IPs as any known pthief characters, so I guess you can strike 'Cat' off the list.. in fact I'll go and do that right now. :)
 
 </div>
 
-<div class="post" data-post-id="9267" data-author="Krok" data-date="2005-10-28T10:30:35+00:00">
+<div class="post" data-post-id="9267" data-author="Krok" data-date="2005-10-28T10:30:35+00:00" data-subject="">
 
 We won! :P
 
 </div>
 
-<div class="post" data-post-id="9268" data-author="Zam" data-date="2005-10-28T10:35:28+00:00">
+<div class="post" data-post-id="9268" data-author="Zam" data-date="2005-10-28T10:35:28+00:00" data-subject="">
 
 :)
 
 </div>
 
-<div class="post" data-post-id="9270" data-author="guest" data-date="2005-10-28T10:46:56+00:00">
+<div class="post" data-post-id="9270" data-author="guest" data-date="2005-10-28T10:46:56+00:00" data-subject="">
 
 We cant pkill zam anymore?   *pout sniff cry* :(
 
 </div>
 
-<div class="post" data-post-id="9272" data-author="Krok" data-date="2005-10-28T11:46:00+00:00">
+<div class="post" data-post-id="9272" data-author="Krok" data-date="2005-10-28T11:46:00+00:00" data-subject="">
 
 It doesn't matter if he is a pthief or not, smite him! :)
 
 </div>
 
-<div class="post" data-post-id="10867" data-author="brand" data-date="2006-02-23T21:45:17+00:00">
+<div class="post" data-post-id="10867" data-author="brand" data-date="2006-02-23T21:45:17+00:00" data-subject="">
 
 i'll have to take back what i said earlier about a dracma no steal clasp being lame.
 
@@ -1580,7 +1580,7 @@ brand :twisted:  :idea:
 
 </div>
 
-<div class="post" data-post-id="10870" data-author="Leaf" data-date="2006-02-23T22:58:53+00:00">
+<div class="post" data-post-id="10870" data-author="Leaf" data-date="2006-02-23T22:58:53+00:00" data-subject="">
 
 Arn't drachma robes no steal right now?
 
@@ -1588,7 +1588,7 @@ I know most ppl use a +spell/heal/hp/mana robe these days.
 
 </div>
 
-<div class="post" data-post-id="10890" data-author="bubba" data-date="2006-02-24T02:56:03+00:00">
+<div class="post" data-post-id="10890" data-author="bubba" data-date="2006-02-24T02:56:03+00:00" data-subject="">
 
 First time you fail a steal:
 
@@ -1606,7 +1606,7 @@ XXX tried to steal something from you!
 
 </div>
 
-<div class="post" data-post-id="10892" data-author="Aleksey" data-date="2006-02-24T04:54:47+00:00">
+<div class="post" data-post-id="10892" data-author="Aleksey" data-date="2006-02-24T04:54:47+00:00" data-subject="">
 
 So hard to change ip?
 

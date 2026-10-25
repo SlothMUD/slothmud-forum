@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="22454" data-author="madmax" data-date="2008-02-01T23:56:39+00:00">
+<div class="post" data-post-id="22454" data-author="madmax" data-date="2008-02-01T23:56:39+00:00" data-subject="Grab my corpse please someone.">
 
 Died in Moria while trying to get my looted stuff back form a previous death.  Forgot to rejoin channel and ICQ was busted at the moment so I just quit! out. 
 
@@ -24,7 +24,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="22457" data-author="mok" data-date="2008-02-02T04:38:31+00:00">
+<div class="post" data-post-id="22457" data-author="mok" data-date="2008-02-02T04:38:31+00:00" data-subject="I have your corpse">
 
 Madmax,
 
@@ -32,13 +32,13 @@ I have your corpse, please let me know when you are planning to go online so I c
 
 </div>
 
-<div class="post" data-post-id="22458" data-author="Autolycos" data-date="2008-02-02T04:55:55+00:00">
+<div class="post" data-post-id="22458" data-author="Autolycos" data-date="2008-02-02T04:55:55+00:00" data-subject="">
 
 I'll give you a dollar for his corpse  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22459" data-author="mok" data-date="2008-02-02T05:01:22+00:00">
+<div class="post" data-post-id="22459" data-author="mok" data-date="2008-02-02T05:01:22+00:00" data-subject="a whole dollar !">
 
 ummm, Madmax
 
@@ -50,7 +50,7 @@ ummm, iron rations, thats it , iron rations
 
 </div>
 
-<div class="post" data-post-id="22463" data-author="Autolycos" data-date="2008-02-02T13:52:55+00:00">
+<div class="post" data-post-id="22463" data-author="Autolycos" data-date="2008-02-02T13:52:55+00:00" data-subject="">
 
 you've made the right choice...
 

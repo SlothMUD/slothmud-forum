@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36134" data-author="Teron" data-date="2015-11-03T09:25:20+00:00">
+<div class="post" data-post-id="36134" data-author="Teron" data-date="2015-11-03T09:25:20+00:00" data-subject="Island Exp Areas for the Island Day">
 
 Greetings, fellow sloths.
 
@@ -82,7 +82,7 @@ P.S. For some reason only Hung mentioned Orc mines and Saurian frontier in the a
 
 </div>
 
-<div class="post" data-post-id="36137" data-author="Ker" data-date="2015-11-04T05:50:14+00:00">
+<div class="post" data-post-id="36137" data-author="Ker" data-date="2015-11-04T05:50:14+00:00" data-subject="Re: Island Exp Areas for the Island Day">
 
 Salutations T,
 
@@ -126,7 +126,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36138" data-author="Teron" data-date="2015-11-04T11:29:57+00:00">
+<div class="post" data-post-id="36138" data-author="Teron" data-date="2015-11-04T11:29:57+00:00" data-subject="Re: Island Exp Areas for the Island Day">
 
 Thanks for the comments.
 

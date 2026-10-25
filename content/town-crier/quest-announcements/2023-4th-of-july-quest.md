@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40053" data-author="*Idjit*" data-date="2023-06-30T20:50:19+00:00">
+<div class="post" data-post-id="40053" data-author="*Idjit*" data-date="2023-06-30T20:50:19+00:00" data-subject="2023 4th of July Quest">
 
 Good day one and all of Jord,
 

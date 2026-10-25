@@ -10,7 +10,7 @@ locked: false
 post_count: 140
 ---
 
-<div class="post" data-post-id="14657" data-author="13" data-date="2006-10-18T20:29:51+00:00">
+<div class="post" data-post-id="14657" data-author="13" data-date="2006-10-18T20:29:51+00:00" data-subject="Recent Alignment/Damnation changes">
 
 Ever -- 'how do i fucking know which is demon/devil in imms mind and which is fucking damnable mob :)'
 
@@ -20,7 +20,7 @@ Ever -- 'and how do i, who isnt native english, find that fuck out?'
 
 </div>
 
-<div class="post" data-post-id="14659" data-author="*juggleblood*" data-date="2006-10-18T21:51:44+00:00">
+<div class="post" data-post-id="14659" data-author="*juggleblood*" data-date="2006-10-18T21:51:44+00:00" data-subject="">
 
 Druids can detect species on mobs.
 
@@ -36,13 +36,13 @@ just out of curiousity, what other affects are species dependent?
 
 </div>
 
-<div class="post" data-post-id="14660" data-author="Weasel" data-date="2006-10-18T21:53:44+00:00">
+<div class="post" data-post-id="14660" data-author="Weasel" data-date="2006-10-18T21:53:44+00:00" data-subject="">
 
 egad.. damnation only works on *some* mobs now? Why? That's like the main opening spell for tanks in groups.. I thought the idea was to encourage groups on slothMUD? So has the same been done to curse?
 
 </div>
 
-<div class="post" data-post-id="14661" data-author="kjartan" data-date="2006-10-18T22:03:37+00:00">
+<div class="post" data-post-id="14661" data-author="kjartan" data-date="2006-10-18T22:03:37+00:00" data-subject="">
 
 Yes, Weasel, you have me sussed, I just hate the groups.
 
@@ -52,7 +52,7 @@ Efreeti are indeed not demons and shouldn't be classed as such.  I don't think w
 
 </div>
 
-<div class="post" data-post-id="14662" data-author="Weasel" data-date="2006-10-18T22:05:29+00:00">
+<div class="post" data-post-id="14662" data-author="Weasel" data-date="2006-10-18T22:05:29+00:00" data-subject="">
 
 Yes, Weasel, you have me sussed, I just hate the groups.[/quote:11enrsb1]
 
@@ -62,7 +62,7 @@ How about a new skill that can turn mobs towards evil ways (read: demons)? Of co
 
 </div>
 
-<div class="post" data-post-id="14663" data-author="13" data-date="2006-10-18T22:49:01+00:00">
+<div class="post" data-post-id="14663" data-author="13" data-date="2006-10-18T22:49:01+00:00" data-subject="">
 
 [quote:pp3fru2u]Damnation was changed because it doesn't make any sense that you are damning angels or devils[/quote:pp3fru2u]
 
@@ -72,13 +72,13 @@ rings and no ear-rings!
 
 </div>
 
-<div class="post" data-post-id="14664" data-author="Autolycos" data-date="2006-10-18T22:50:56+00:00">
+<div class="post" data-post-id="14664" data-author="Autolycos" data-date="2006-10-18T22:50:56+00:00" data-subject="">
 
 or how about a query command to use at anything to figure out wtf the imms are thinking and htf to continue playing  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14665" data-author="*Splork*" data-date="2006-10-18T22:57:15+00:00">
+<div class="post" data-post-id="14665" data-author="*Splork*" data-date="2006-10-18T22:57:15+00:00" data-subject="">
 
 htf to continue playing  :twisted:[/quote:181usggi]
 
@@ -88,7 +88,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14666" data-author="kjartan" data-date="2006-10-18T23:02:56+00:00">
+<div class="post" data-post-id="14666" data-author="kjartan" data-date="2006-10-18T23:02:56+00:00" data-subject="">
 
 It doesn't make any sense to carry a shield in a bag, or wield a weapon a held low a held high and a shield.  It doesn't make sense to only wear two rings and no ear-rings![/quote:389ztr22]
 
@@ -98,13 +98,13 @@ I (at least) would like to fix all of those things you mentioned, but disallowin
 
 </div>
 
-<div class="post" data-post-id="14667" data-author="13" data-date="2006-10-18T23:05:00+00:00">
+<div class="post" data-post-id="14667" data-author="13" data-date="2006-10-18T23:05:00+00:00" data-subject="">
 
 I was just yanking your chain Kj.  I'm sure we'll learn to make do :)
 
 </div>
 
-<div class="post" data-post-id="14668" data-author="*juggleblood*" data-date="2006-10-18T23:25:09+00:00">
+<div class="post" data-post-id="14668" data-author="*juggleblood*" data-date="2006-10-18T23:25:09+00:00" data-subject="Realism Rocks (in moderation)">
 
 I like the fact that its species specific. At least its not totally arbitrary like broadside where some mobs are simply broadsidable and others aren't.
 
@@ -116,7 +116,7 @@ Nice changes, keep em coming  :)
 
 </div>
 
-<div class="post" data-post-id="14671" data-author="Malison" data-date="2006-10-19T00:39:49+00:00">
+<div class="post" data-post-id="14671" data-author="Malison" data-date="2006-10-19T00:39:49+00:00" data-subject="">
 
 "How bout making broadside work against appropriate mobs "
 
@@ -124,7 +124,7 @@ How bout making broadside work?  I try it every time I bring my warrior in group
 
 </div>
 
-<div class="post" data-post-id="14673" data-author="*Splork*" data-date="2006-10-19T01:32:46+00:00">
+<div class="post" data-post-id="14673" data-author="*Splork*" data-date="2006-10-19T01:32:46+00:00" data-subject="">
 
 I've fixed the mobs Jug spoke about. We will look into any mob that is brought to our attn(whether it be for species, size, etc-just let us know).
 
@@ -136,7 +136,7 @@ I can say, probably with certainty, that we are not going through all 8k again t
 
 </div>
 
-<div class="post" data-post-id="14674" data-author="Diazz_Dizazter" data-date="2006-10-19T01:43:08+00:00">
+<div class="post" data-post-id="14674" data-author="Diazz_Dizazter" data-date="2006-10-19T01:43:08+00:00" data-subject="">
 
 [quote:1yto5bu8]Ditto for only-two-rings (although we didn't invent that one, the original Diku borrowed it from D&D).[/quote:1yto5bu8]
 
@@ -152,7 +152,7 @@ My 42 cents.
 
 </div>
 
-<div class="post" data-post-id="14675" data-author="osric" data-date="2006-10-19T06:13:26+00:00">
+<div class="post" data-post-id="14675" data-author="osric" data-date="2006-10-19T06:13:26+00:00" data-subject="">
 
 Ok Ok, I can't let this one go, you know, if we spend more time reading books we wouldn't have to argue about this stupid crap (or dare I say program it).  Then we could all spend more time on better things, like playing.
 
@@ -168,13 +168,13 @@ As usual I think this change was also unnecessary because its trying to split to
 
 </div>
 
-<div class="post" data-post-id="14676" data-author="osric" data-date="2006-10-19T06:15:38+00:00">
+<div class="post" data-post-id="14676" data-author="osric" data-date="2006-10-19T06:15:38+00:00" data-subject="">
 
 Oh and I can't believe I'm actually gonna have to tell you nerds this, but in D&D you can use two rings, if you want to use a third you have to sacrifice an amulet slot and take a feat! enjoy :roll:
 
 </div>
 
-<div class="post" data-post-id="14677" data-author="Diazz_Dizazter" data-date="2006-10-19T10:39:50+00:00">
+<div class="post" data-post-id="14677" data-author="Diazz_Dizazter" data-date="2006-10-19T10:39:50+00:00" data-subject="">
 
 Take a feat?  Which fuckin version you playing here.  
 
@@ -182,7 +182,7 @@ Anything past 2nd Ed is broken.
 
 </div>
 
-<div class="post" data-post-id="14681" data-author="Avatar" data-date="2006-10-19T13:33:41+00:00">
+<div class="post" data-post-id="14681" data-author="Avatar" data-date="2006-10-19T13:33:41+00:00" data-subject="D&amp;D versions">
 
 Just to sidetrack the discussion, I'll chip in and say that I prefer 3.5 ed to any of the others.  They really improved the systems from 2nd ed to 3.0, and 3.5 is only better.
 
@@ -192,7 +192,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="14682" data-author="Malison" data-date="2006-10-19T14:34:31+00:00">
+<div class="post" data-post-id="14682" data-author="Malison" data-date="2006-10-19T14:34:31+00:00" data-subject="">
 
 d&d 3.0 and 3.5 there is an amulet that lets you wear a ring on it
 
@@ -200,13 +200,13 @@ and at epic levels there is a feat, Additional Magic Item Space, but you don't h
 
 </div>
 
-<div class="post" data-post-id="14683" data-author="13" data-date="2006-10-19T15:01:17+00:00">
+<div class="post" data-post-id="14683" data-author="13" data-date="2006-10-19T15:01:17+00:00" data-subject="">
 
 nerds.
 
 </div>
 
-<div class="post" data-post-id="14684" data-author="kjartan" data-date="2006-10-19T17:05:32+00:00">
+<div class="post" data-post-id="14684" data-author="kjartan" data-date="2006-10-19T17:05:32+00:00" data-subject="">
 
 The idea of djinn (genies or any other way you care to spell it) and divas (no gang, not Celine Dion) as the evil and virtuous agents of the gods comes from the Persian religious traditions where in good and bad creatures are sent to help or harass people in crisis.  They were later co-opted by invading muslim armies as their societies moved across the Iranian plateau (this is why Aladin has a genie).[/quote:2tbhuzog]
 
@@ -218,7 +218,7 @@ They can't damn demons for the reasons you say; you can assume that the effects 
 
 </div>
 
-<div class="post" data-post-id="14685" data-author="Diazz_Dizazter" data-date="2006-10-19T17:36:33+00:00">
+<div class="post" data-post-id="14685" data-author="Diazz_Dizazter" data-date="2006-10-19T17:36:33+00:00" data-subject="">
 
 Im not a nerd.
 
@@ -226,7 +226,7 @@ I am a gork.  (Half geek, half dork).  0% nerdiness.
 
 </div>
 
-<div class="post" data-post-id="14686" data-author="Rodek" data-date="2006-10-19T17:51:38+00:00">
+<div class="post" data-post-id="14686" data-author="Rodek" data-date="2006-10-19T17:51:38+00:00" data-subject="">
 
 D&D:
 
@@ -246,7 +246,7 @@ Fixing broadside, supposedly a key warrior skill, which would be a good selectio
 
 </div>
 
-<div class="post" data-post-id="14687" data-author="Leaf" data-date="2006-10-19T18:28:43+00:00">
+<div class="post" data-post-id="14687" data-author="Leaf" data-date="2006-10-19T18:28:43+00:00" data-subject="">
 
 Just to make sure ... if the mob is a demon, they are already damned?
 
@@ -260,7 +260,7 @@ Back in the day, ppl always said Damn = 2x Curse.  Is this still the case?
 
 </div>
 
-<div class="post" data-post-id="14688" data-author="kjartan" data-date="2006-10-19T19:33:40+00:00">
+<div class="post" data-post-id="14688" data-author="kjartan" data-date="2006-10-19T19:33:40+00:00" data-subject="">
 
 The effects of the spell didn't change.  I think it is indeed similar to curse and twice as strong.
 
@@ -270,7 +270,7 @@ Besides (again following the lead of D&D) evil always has more plusses -  check 
 
 </div>
 
-<div class="post" data-post-id="14689" data-author="kjartan" data-date="2006-10-19T20:01:22+00:00">
+<div class="post" data-post-id="14689" data-author="kjartan" data-date="2006-10-19T20:01:22+00:00" data-subject="">
 
 Broadside:
 
@@ -280,7 +280,7 @@ We now have a flag to make mobs nopush independently of their weights, and thus 
 
 </div>
 
-<div class="post" data-post-id="14690" data-author="12345" data-date="2006-10-19T21:37:34+00:00">
+<div class="post" data-post-id="14690" data-author="12345" data-date="2006-10-19T21:37:34+00:00" data-subject="">
 
 I think what someone (forget who) was trying to say is that certain areas will basically receive a shift in balance because of this.  The Demonweb probably being the best example.  A mob like Orcus or Demo has a habit of beating the tar out of whatever is in front of them even with the added benefit of damn.  Since you're now limited to curse, you can expect to take more damage and burn up more of the healo.
 
@@ -292,7 +292,7 @@ Not complaining, just noting what's changed.
 
 </div>
 
-<div class="post" data-post-id="14691" data-author="Mace" data-date="2006-10-20T05:14:53+00:00">
+<div class="post" data-post-id="14691" data-author="Mace" data-date="2006-10-20T05:14:53+00:00" data-subject="">
 
 There appears to be much pontificating on why some meanings of
 
@@ -316,7 +316,7 @@ Now that's an avatar spell!
 
 </div>
 
-<div class="post" data-post-id="14692" data-author="Weasel" data-date="2006-10-20T06:05:45+00:00">
+<div class="post" data-post-id="14692" data-author="Weasel" data-date="2006-10-20T06:05:45+00:00" data-subject="">
 
 Damnation was changed because it doesn't make any sense that you are damning angels or devils..[/quote:28r4jbq6]
 
@@ -360,7 +360,7 @@ ALSO, using the same reality reasoning, casting damnation on a non-damnable mob 
 
 </div>
 
-<div class="post" data-post-id="14693" data-author="Gimlet" data-date="2006-10-20T11:18:40+00:00">
+<div class="post" data-post-id="14693" data-author="Gimlet" data-date="2006-10-20T11:18:40+00:00" data-subject="">
 
 i'm usually neutral to changes on the mud, but i have to say this
 
@@ -372,7 +372,7 @@ do ppl really care about the real meaning of the word "damnation"
 
 </div>
 
-<div class="post" data-post-id="14694" data-author="*Splork*" data-date="2006-10-20T11:25:47+00:00">
+<div class="post" data-post-id="14694" data-author="*Splork*" data-date="2006-10-20T11:25:47+00:00" data-subject="">
 
 With the amount of debuffing spells we have now, I have no problem at all with the recent change to one spell which affects a a small minority of mobs.
 
@@ -388,7 +388,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14695" data-author="13" data-date="2006-10-20T13:17:51+00:00">
+<div class="post" data-post-id="14695" data-author="13" data-date="2006-10-20T13:17:51+00:00" data-subject="">
 
 I wasn't crying, and I wish everyone else would get a hanky and a Midol
 
@@ -398,7 +398,7 @@ We still got it pretty easy.
 
 </div>
 
-<div class="post" data-post-id="14696" data-author="Diazz_Dizazter" data-date="2006-10-20T15:21:51+00:00">
+<div class="post" data-post-id="14696" data-author="Diazz_Dizazter" data-date="2006-10-20T15:21:51+00:00" data-subject="">
 
 [quote:17r8bz0b]The game has gotten considerably easier over the course of the years. There was a time it took a group to kill the majority of mobs on Sloth. [i:17r8bz0b]Now most are solo.[/i:17r8bz0b]
 
@@ -414,7 +414,7 @@ peons old classes to have a chance at this.
 
 </div>
 
-<div class="post" data-post-id="14697" data-author="Clink" data-date="2006-10-20T16:33:33+00:00">
+<div class="post" data-post-id="14697" data-author="Clink" data-date="2006-10-20T16:33:33+00:00" data-subject="">
 
 BTW, if over half the votes are against this change, will the coders rescind it? 
 
@@ -436,7 +436,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="14698" data-author="Weasel" data-date="2006-10-20T17:21:17+00:00">
+<div class="post" data-post-id="14698" data-author="Weasel" data-date="2006-10-20T17:21:17+00:00" data-subject="">
 
 OK thanks for the straight-up response. It does seem increasing clear from the poll here that the majority of players disagree with this change, but as you quite rightly said 'this is not a democracy', and considering it's abso-farking-lutely free for us to play, we can't expect to have much sway in what happens on slothMUD, unfortunately - that's one thing that has not changed in the years I have been here - basically if we don't like the changes, we are welcome to go fark ourselves (if you've seen the movie 'Departed' you'll know I meant that in jest). 
 
@@ -450,7 +450,7 @@ And yeah Splork, Dweb was one of the areas I was thinking of - fortunately there
 
 </div>
 
-<div class="post" data-post-id="14699" data-author="*Splork*" data-date="2006-10-20T18:24:47+00:00">
+<div class="post" data-post-id="14699" data-author="*Splork*" data-date="2006-10-20T18:24:47+00:00" data-subject="">
 
 Yes it applies to old school characters as well. Hell the regen change alone enabled Corum to increase his runs drastically once properly used. The new debuffs help everyone involved in a group, etc.
 
@@ -462,7 +462,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14700" data-author="Medios" data-date="2006-10-20T18:54:29+00:00">
+<div class="post" data-post-id="14700" data-author="Medios" data-date="2006-10-20T18:54:29+00:00" data-subject="">
 
 Does this mean we cant blind or weaken Autolycos anymore, since in reality he is semi-blind and weak.
 
@@ -470,13 +470,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="14702" data-author="13" data-date="2006-10-20T20:17:15+00:00">
+<div class="post" data-post-id="14702" data-author="13" data-date="2006-10-20T20:17:15+00:00" data-subject="">
 
 rofl
 
 </div>
 
-<div class="post" data-post-id="14706" data-author="Diazz_Dizazter" data-date="2006-10-21T01:20:55+00:00">
+<div class="post" data-post-id="14706" data-author="Diazz_Dizazter" data-date="2006-10-21T01:20:55+00:00" data-subject="">
 
 [quote:6p57mqf0]Yes it applies to old school characters as well. Hell the regen change alone enabled Corum to increase his runs drastically once properly used. The new debuffs help everyone involved in a group, etc. 
 
@@ -504,7 +504,7 @@ Dont waste time on things that maybe 2 people will gain enjoyment off of.
 
 </div>
 
-<div class="post" data-post-id="14707" data-author="12345" data-date="2006-10-21T02:50:44+00:00">
+<div class="post" data-post-id="14707" data-author="12345" data-date="2006-10-21T02:50:44+00:00" data-subject="">
 
 Chuckle...
 
@@ -516,7 +516,7 @@ So yeah, you might not strictly need a tard to run the Dweb anymore, but you'll 
 
 </div>
 
-<div class="post" data-post-id="14708" data-author="alias" data-date="2006-10-21T23:00:25+00:00">
+<div class="post" data-post-id="14708" data-author="alias" data-date="2006-10-21T23:00:25+00:00" data-subject="">
 
 Nobody also ever mentioned how you needed curse, weaken, slow, blind,and web on demo so he would miss 1 hit (not a round - 1 hit)on me in 3 kills. I don't have a problem being more realistic , but lets face it most realistic animals/people can't hit shit blinded let alone all the other debuff we have to use to stay alive.
 
@@ -524,7 +524,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="14711" data-author="Vixn" data-date="2006-10-22T11:38:46+00:00">
+<div class="post" data-post-id="14711" data-author="Vixn" data-date="2006-10-22T11:38:46+00:00" data-subject="">
 
 As for me I don't have any problem with new damnation cause I guess it's kinda warrior's spell and they use it only in large groups. 
 
@@ -546,7 +546,7 @@ There are a lot of other spells that may be conceive in this way.
 
 </div>
 
-<div class="post" data-post-id="14713" data-author="Rynquald" data-date="2006-10-22T12:43:59+00:00">
+<div class="post" data-post-id="14713" data-author="Rynquald" data-date="2006-10-22T12:43:59+00:00" data-subject="">
 
 There is a point where having to figure out what blast/debuff will actually work on any given mob will be downright annoying.
 
@@ -558,7 +558,7 @@ Also, if ether mobs don't have an "atomic structure", then why should they care 
 
 </div>
 
-<div class="post" data-post-id="14714" data-author="13" data-date="2006-10-22T13:14:46+00:00">
+<div class="post" data-post-id="14714" data-author="13" data-date="2006-10-22T13:14:46+00:00" data-subject="">
 
 Edd!
 
@@ -566,7 +566,7 @@ Edd!
 
 </div>
 
-<div class="post" data-post-id="14715" data-author="Vixn" data-date="2006-10-22T14:40:28+00:00">
+<div class="post" data-post-id="14715" data-author="Vixn" data-date="2006-10-22T14:40:28+00:00" data-subject="">
 
 who's that girl?
 
@@ -574,7 +574,7 @@ who's that girl?
 
 </div>
 
-<div class="post" data-post-id="14718" data-author="Medios" data-date="2006-10-22T18:02:49+00:00">
+<div class="post" data-post-id="14718" data-author="Medios" data-date="2006-10-22T18:02:49+00:00" data-subject="">
 
 Thats the Morton salt girl, cuz when it rains it pours.
 
@@ -584,7 +584,7 @@ PS Does Edd wonder if this is pure or virgin girl?
 
 </div>
 
-<div class="post" data-post-id="14722" data-author="12345" data-date="2006-10-23T01:53:20+00:00">
+<div class="post" data-post-id="14722" data-author="12345" data-date="2006-10-23T01:53:20+00:00" data-subject="">
 
 Dragons are already immune to a lot, and well, a unicorn might be pure atm, but there's no reason you can't un-pure it.[/quote:36xc04g1]
 
@@ -612,19 +612,19 @@ Laugh... who says a little more realism can't be fun?  Nothing like a little pyr
 
 </div>
 
-<div class="post" data-post-id="14724" data-author="Mace" data-date="2006-10-23T05:05:49+00:00">
+<div class="post" data-post-id="14724" data-author="Mace" data-date="2006-10-23T05:05:49+00:00" data-subject="">
 
 Hmm.  That does kind of tie in with the whole idea of red tentacles, er, tendrils of mist infusing the body.
 
 </div>
 
-<div class="post" data-post-id="14727" data-author="13" data-date="2006-10-23T05:32:13+00:00">
+<div class="post" data-post-id="14727" data-author="13" data-date="2006-10-23T05:32:13+00:00" data-subject="">
 
 that sounds like urotsukidoji
 
 </div>
 
-<div class="post" data-post-id="14729" data-author="Vixn" data-date="2006-10-23T16:41:11+00:00">
+<div class="post" data-post-id="14729" data-author="Vixn" data-date="2006-10-23T16:41:11+00:00" data-subject="">
 
 How god could it be all this maniacs play same mud w/ me?
 
@@ -632,13 +632,13 @@ Save the unicorn! Pkill 12345!
 
 </div>
 
-<div class="post" data-post-id="14730" data-author="Guinex" data-date="2006-10-23T17:40:07+00:00">
+<div class="post" data-post-id="14730" data-author="Guinex" data-date="2006-10-23T17:40:07+00:00" data-subject="">
 
 Hey Keith, let me know when that one is a corpse. *smoke*
 
 </div>
 
-<div class="post" data-post-id="14732" data-author="Autolycos" data-date="2006-10-23T19:13:18+00:00">
+<div class="post" data-post-id="14732" data-author="Autolycos" data-date="2006-10-23T19:13:18+00:00" data-subject="">
 
 Hey Keith, let me know when that one is a corpse. *smoke*[/quote:b6nwqim5]
 
@@ -648,7 +648,7 @@ just the way you like'm G  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14733" data-author="Blastem" data-date="2006-10-23T19:46:54+00:00">
+<div class="post" data-post-id="14733" data-author="Blastem" data-date="2006-10-23T19:46:54+00:00" data-subject="">
 
 Hey Keith, let me know when that one is a corpse. *smoke*[/quote:ryar2jt5]
 
@@ -662,13 +662,13 @@ And for the real quote
 
 </div>
 
-<div class="post" data-post-id="14734" data-author="13" data-date="2006-10-23T20:35:23+00:00">
+<div class="post" data-post-id="14734" data-author="13" data-date="2006-10-23T20:35:23+00:00" data-subject="">
 
 Paul :)
 
 </div>
 
-<div class="post" data-post-id="14737" data-author="12345" data-date="2006-10-24T04:30:08+00:00">
+<div class="post" data-post-id="14737" data-author="12345" data-date="2006-10-24T04:30:08+00:00" data-subject="">
 
 Hey Keith, let me know when that one is a corpse. *smoke*[/quote:3hncl49w]
 
@@ -676,7 +676,7 @@ Ya know, you're probably the only person I know for whom pyronecrobeastiality co
 
 </div>
 
-<div class="post" data-post-id="14767" data-author="*juggleblood*" data-date="2006-10-27T22:46:24+00:00">
+<div class="post" data-post-id="14767" data-author="*juggleblood*" data-date="2006-10-27T22:46:24+00:00" data-subject="">
 
 The reality check I'd love to see is on the protect skill. How can one person possibly defend (tank) a group of 20 people who are all attacking the same mob? Its insane.
 
@@ -690,7 +690,7 @@ Actually I heard it through the grapevine that this change is coming soon.  :!: 
 
 </div>
 
-<div class="post" data-post-id="14769" data-author="Diazz_Dizazter" data-date="2006-10-27T22:54:15+00:00">
+<div class="post" data-post-id="14769" data-author="Diazz_Dizazter" data-date="2006-10-27T22:54:15+00:00" data-subject="">
 
 Removal of specularems and protect chains would make sloth a much, much
 
@@ -698,13 +698,13 @@ better mud.
 
 </div>
 
-<div class="post" data-post-id="14771" data-author="12345" data-date="2006-10-27T23:51:26+00:00">
+<div class="post" data-post-id="14771" data-author="12345" data-date="2006-10-27T23:51:26+00:00" data-subject="">
 
 Ooooh! The return of rescue orders?
 
 </div>
 
-<div class="post" data-post-id="14777" data-author="Diazz_Dizazter" data-date="2006-10-28T08:56:49+00:00">
+<div class="post" data-post-id="14777" data-author="Diazz_Dizazter" data-date="2006-10-28T08:56:49+00:00" data-subject="">
 
 We can only hope mobs can disengage and the tank has to rescue.  :)
 
@@ -712,7 +712,7 @@ The player that is doing the most damage per second should tank the mob.
 
 </div>
 
-<div class="post" data-post-id="14781" data-author="12345" data-date="2006-10-28T19:00:58+00:00">
+<div class="post" data-post-id="14781" data-author="12345" data-date="2006-10-28T19:00:58+00:00" data-subject="">
 
 Chuckle, apparently Diazz doesn't remember rescue orders either...
 
@@ -720,13 +720,13 @@ Old school method of fighting mobs before protect was put in game.  Warriors bas
 
 </div>
 
-<div class="post" data-post-id="14783" data-author="Weasel" data-date="2006-10-28T19:57:24+00:00">
+<div class="post" data-post-id="14783" data-author="Weasel" data-date="2006-10-28T19:57:24+00:00" data-subject="">
 
 Still used very occassionally tho (tanks sharing the damage), although it's been a while..
 
 </div>
 
-<div class="post" data-post-id="14784" data-author="Diazz_Dizazter" data-date="2006-10-28T20:49:19+00:00">
+<div class="post" data-post-id="14784" data-author="Diazz_Dizazter" data-date="2006-10-28T20:49:19+00:00" data-subject="">
 
 [quote:30igue9a]Chuckle, apparently Diazz doesn't remember rescue orders either...
 
@@ -784,13 +784,13 @@ Merely standing in front of the mob should never be enough.
 
 </div>
 
-<div class="post" data-post-id="14785" data-author="brady" data-date="2006-10-28T22:23:23+00:00">
+<div class="post" data-post-id="14785" data-author="brady" data-date="2006-10-28T22:23:23+00:00" data-subject="">
 
 Personally, I think sharing damage often makes a lot of sense, especially in smaller groups.  Besides, fighting without getting hit is boring as hell.
 
 </div>
 
-<div class="post" data-post-id="14786" data-author="Weasel" data-date="2006-10-28T22:24:24+00:00">
+<div class="post" data-post-id="14786" data-author="Weasel" data-date="2006-10-28T22:24:24+00:00" data-subject="">
 
 So.. with this 'biggest threat gets attacked' style of mob play, what's the point of mages? If they actually use some of their prime power to blast, they get killed - unless they sacrifice a portion of their intended prime eq attributes in favor of gaining AC so they can, err, use their blasting power.. kinda defeats the purpose doesn't it? This would presumably propel the Warrior or AC-focussed classes up to being the far most important prime class (which it once was here), and/or may encourage soloing over grouping for certain classes, which I don't think the admins want.. or do they?
 
@@ -802,7 +802,7 @@ waves - going out for dinner  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14787" data-author="Diazz_Dizazter" data-date="2006-10-28T23:11:03+00:00">
+<div class="post" data-post-id="14787" data-author="Diazz_Dizazter" data-date="2006-10-28T23:11:03+00:00" data-subject="">
 
 Greater threat. 
 
@@ -902,7 +902,7 @@ Thou art tasty, and go well with ketchup.
 
 </div>
 
-<div class="post" data-post-id="14788" data-author="12345" data-date="2006-10-29T01:54:27+00:00">
+<div class="post" data-post-id="14788" data-author="12345" data-date="2006-10-29T01:54:27+00:00" data-subject="">
 
 Hmm, dangerous night to take a nap apparently.
 
@@ -918,7 +918,7 @@ If you want to go ranting against a skill, pick something like push.  Its ubsurb
 
 </div>
 
-<div class="post" data-post-id="14789" data-author="Weasel" data-date="2006-10-29T02:27:08+00:00">
+<div class="post" data-post-id="14789" data-author="Weasel" data-date="2006-10-29T02:27:08+00:00" data-subject="">
 
 [quote:3hzhardm]Sloth is the only game I've played online which favors the protect system rather then have a true tanking setup. [/quote:3hzhardm]
 
@@ -926,7 +926,7 @@ Just made me think - why would the admins want this mud to be the same as every 
 
 </div>
 
-<div class="post" data-post-id="14790" data-author="Avatar" data-date="2006-10-29T03:54:05+00:00">
+<div class="post" data-post-id="14790" data-author="Avatar" data-date="2006-10-29T03:54:05+00:00" data-subject="Protects Etc">
 
 At a basic level, what it comes down to is that muds are text-based, and there's a limit to the level of realism that muds can support.  Before you even reach that point, there's are points where the realism will get in the way of a fun game.
 
@@ -944,13 +944,13 @@ In all the normal aspects, I agree with 12345.  In a realistic sim, you would be
 
 </div>
 
-<div class="post" data-post-id="14791" data-author="Weasel" data-date="2006-10-29T04:33:16+00:00">
+<div class="post" data-post-id="14791" data-author="Weasel" data-date="2006-10-29T04:33:16+00:00" data-subject="">
 
 well explained, thanks Avatar :)
 
 </div>
 
-<div class="post" data-post-id="14792" data-author="Diazz_Dizazter" data-date="2006-10-29T05:11:11+00:00">
+<div class="post" data-post-id="14792" data-author="Diazz_Dizazter" data-date="2006-10-29T05:11:11+00:00" data-subject="">
 
 No, neither system simulates it well tanking well.  
 
@@ -994,19 +994,19 @@ changed more.
 
 </div>
 
-<div class="post" data-post-id="14793" data-author="Weasel" data-date="2006-10-29T05:38:28+00:00">
+<div class="post" data-post-id="14793" data-author="Weasel" data-date="2006-10-29T05:38:28+00:00" data-subject="">
 
 heh true :)
 
 </div>
 
-<div class="post" data-post-id="14794" data-author="12345" data-date="2006-10-29T07:13:49+00:00">
+<div class="post" data-post-id="14794" data-author="12345" data-date="2006-10-29T07:13:49+00:00" data-subject="">
 
 There will never be a system that simulates combat well because war is chaos and trying to organize it subtracts from its nature. It doesn't help that 95% of the things we're doing are completely fictional abilities. Since you've coded a mud, i'm sure you're familiar with the difficulties of coding positional and terrain based tactics into a room-based fighting system.  Tactically, Sloth doesn't do a bad job at it, though there are always going to be quirks.
 
 </div>
 
-<div class="post" data-post-id="14795" data-author="*juggleblood*" data-date="2006-10-29T09:27:41+00:00">
+<div class="post" data-post-id="14795" data-author="*juggleblood*" data-date="2006-10-29T09:27:41+00:00" data-subject="">
 
 If you want to go ranting against a skill, pick something like push.  Its ubsurb that a mob can watch someone push their allies away, never to be seen again, and then not be at least suspicious of someone trying to do the same to them.  Or guards that never yell for assistance.  Or someone running through an area with a warcry that's heard by everyone, and not catching on eventually.[/quote:2twjcrtq]
 
@@ -1018,7 +1018,7 @@ How hard would it be to get permissions to do stuff like this as a builder?
 
 </div>
 
-<div class="post" data-post-id="14796" data-author="13" data-date="2006-10-29T12:09:22+00:00">
+<div class="post" data-post-id="14796" data-author="13" data-date="2006-10-29T12:09:22+00:00" data-subject="">
 
 [quote:sljxkicz]I mainly
 
@@ -1028,7 +1028,7 @@ So get on the pvp server.
 
 </div>
 
-<div class="post" data-post-id="14797" data-author="alias" data-date="2006-10-29T12:47:57+00:00">
+<div class="post" data-post-id="14797" data-author="alias" data-date="2006-10-29T12:47:57+00:00" data-subject="">
 
 No alarms should be raised when I warcry in an area. The mobs just think Im hungry and forgot my Spoon!. Or you can just make it alarm out and it will be one more skill I wont use.
 
@@ -1036,7 +1036,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="14798" data-author="Weasel" data-date="2006-10-29T15:10:49+00:00">
+<div class="post" data-post-id="14798" data-author="Weasel" data-date="2006-10-29T15:10:49+00:00" data-subject="">
 
 Hrmm. Now I'm wondering if code is added at times just for the sake of adding stuff because someone can? That ain't good. 
 
@@ -1044,7 +1044,7 @@ I'd like to repeat something I've said before and ask what others think: if an a
 
 </div>
 
-<div class="post" data-post-id="14799" data-author="kjartan" data-date="2006-10-29T15:43:40+00:00">
+<div class="post" data-post-id="14799" data-author="kjartan" data-date="2006-10-29T15:43:40+00:00" data-subject="">
 
 Hrmm. Now I'm wondering if code is added at times just for the sake of adding stuff because someone can? That ain't good.[/quote:3nbemv0a]
 
@@ -1056,7 +1056,7 @@ If I took any old area and slapped a 10x xp multiplier on it, it would immediate
 
 </div>
 
-<div class="post" data-post-id="14800" data-author="kjartan" data-date="2006-10-29T15:50:31+00:00">
+<div class="post" data-post-id="14800" data-author="kjartan" data-date="2006-10-29T15:50:31+00:00" data-subject="">
 
 I guess some of this stuff is underused because its newish and I guess there might also be objections from the original builder to have someone else poking around in his original creation.
 
@@ -1068,13 +1068,13 @@ One thing we might do with push is make it so pushing a mob out of a room not on
 
 </div>
 
-<div class="post" data-post-id="14802" data-author="Weasel" data-date="2006-10-29T16:03:31+00:00">
+<div class="post" data-post-id="14802" data-author="Weasel" data-date="2006-10-29T16:03:31+00:00" data-subject="">
 
 With the push thing, yes it seems a reasonable idea for the sake of realism, but only that. Same for the alarm on warcry. Great, it'll certainly be more plausible, but as Alias said, it may also achieve creating more unused skills, which defeats the purpose of having them in the first place.. Of course that depends on just how sensitive the alarms are, or how likely you'll be attacked for pushing.. that push thing could have a major impact on some areas, depending on your style of play.. particularly for solo running.
 
 </div>
 
-<div class="post" data-post-id="14805" data-author="Diazz_Dizazter" data-date="2006-10-29T17:31:31+00:00">
+<div class="post" data-post-id="14805" data-author="Diazz_Dizazter" data-date="2006-10-29T17:31:31+00:00" data-subject="">
 
 [quote:3sn62uby]So get on the pvp server.[/quote:3sn62uby]
 
@@ -1084,7 +1084,7 @@ its not open pvp like it should be :P
 
 </div>
 
-<div class="post" data-post-id="14806" data-author="12345" data-date="2006-10-29T18:27:00+00:00">
+<div class="post" data-post-id="14806" data-author="12345" data-date="2006-10-29T18:27:00+00:00" data-subject="">
 
 The push thing was meant to be an example.  In reality, you'd want to limit the annoyed factor to mobs that are presumably allied and intelligent.  A fruit bat might not to much else than fly away if it sees another bat killed, where a guard patrol, who is supposedly more alert towards threats, would be more apt to be suspicious and/or follow and assist.  Another factor would be stealth, my thief tended to rely on push much more than my tank.
 
@@ -1092,7 +1092,7 @@ To be honest, there are currently many areas in the game which rely on clever us
 
 </div>
 
-<div class="post" data-post-id="14807" data-author="13" data-date="2006-10-30T00:17:49+00:00">
+<div class="post" data-post-id="14807" data-author="13" data-date="2006-10-30T00:17:49+00:00" data-subject="">
 
 [quote:102xtw54]ts not open pvp like it should be Razz[/quote:102xtw54]
 
@@ -1100,7 +1100,7 @@ To be honest, there are currently many areas in the game which rely on clever us
 
 </div>
 
-<div class="post" data-post-id="14808" data-author="Diazz_Dizazter" data-date="2006-10-30T00:44:35+00:00">
+<div class="post" data-post-id="14808" data-author="Diazz_Dizazter" data-date="2006-10-30T00:44:35+00:00" data-subject="">
 
 [quote:3jn16hy1] For example in Dweb, caller procs could be added to orcus and demogorgon that cause Marilith and Glabrezu to wander over and assist, with similar caller procs throughout the area and alarms should really be added to the castle on BH and the alchemists should be set alarm_aggressive. [/quote:3jn16hy1]
 
@@ -1130,7 +1130,7 @@ function to a lesser degree.
 
 </div>
 
-<div class="post" data-post-id="14809" data-author="*juggleblood*" data-date="2006-10-30T04:40:52+00:00">
+<div class="post" data-post-id="14809" data-author="*juggleblood*" data-date="2006-10-30T04:40:52+00:00" data-subject="">
 
 That sounds really cool Diazz, you should put it on your to do list. If Kj added an npc_in_world mudl function, the xp bonus for clearing all the mobs would be cake cuz you could just put a mudl proc on lolth that checks to see if the other mobs still exist. The xp bonus for clearing the zone would compensate for the increased difficulty of adding the caller procs to the other mobs.
 
@@ -1142,7 +1142,7 @@ I don't see why people are so resistant to change. The hack and slash genre is r
 
 </div>
 
-<div class="post" data-post-id="14810" data-author="Alberich" data-date="2006-10-30T11:41:56+00:00">
+<div class="post" data-post-id="14810" data-author="Alberich" data-date="2006-10-30T11:41:56+00:00" data-subject="">
 
 I don't see why people are so resistant to change. The hack and slash genre is really being taken over by graphic oriented mpgs. I think the real draw of Sloth is its sophistication, not its 'slothiness'.[/quote:37gv8129]
 
@@ -1150,7 +1150,7 @@ Speak for yourself.  I've never been one to whine (much) about changes that make
 
 </div>
 
-<div class="post" data-post-id="14811" data-author="Diazz_Dizazter" data-date="2006-10-30T12:32:22+00:00">
+<div class="post" data-post-id="14811" data-author="Diazz_Dizazter" data-date="2006-10-30T12:32:22+00:00" data-subject="">
 
 [quote:h01zcow3] If I wanted an excessively complex, or realistic, game, I'd probably stick to graphical ones.[/quote:h01zcow3]
 
@@ -1200,13 +1200,13 @@ the mud takes to regen top end.
 
 </div>
 
-<div class="post" data-post-id="14812" data-author="13" data-date="2006-10-30T13:11:52+00:00">
+<div class="post" data-post-id="14812" data-author="13" data-date="2006-10-30T13:11:52+00:00" data-subject="">
 
 this thread needs to fcking die already, it's just getting worse
 
 </div>
 
-<div class="post" data-post-id="14813" data-author="Diazz_Dizazter" data-date="2006-10-30T13:27:11+00:00">
+<div class="post" data-post-id="14813" data-author="Diazz_Dizazter" data-date="2006-10-30T13:27:11+00:00" data-subject="">
 
 So your saying people shouldn't communicate.  
 
@@ -1214,7 +1214,7 @@ Forums are for half senseless postings, ramblings and musings.
 
 </div>
 
-<div class="post" data-post-id="14814" data-author="13" data-date="2006-10-30T14:04:15+00:00">
+<div class="post" data-post-id="14814" data-author="13" data-date="2006-10-30T14:04:15+00:00" data-subject="">
 
 no I'm not saying that, I'm saying this thread is already full of stupid ass
 
@@ -1224,7 +1224,7 @@ if we get much more realistic im just gonna go with some real reality.
 
 </div>
 
-<div class="post" data-post-id="14815" data-author="kjartan" data-date="2006-10-30T15:12:44+00:00">
+<div class="post" data-post-id="14815" data-author="kjartan" data-date="2006-10-30T15:12:44+00:00" data-subject="">
 
 If Kj added an npc_in_world mudl function, the xp bonus for clearing all the mobs would be cake cuz you could just put a mudl proc on lolth that checks to see if the other mobs still exist. The xp bonus for clearing the zone would compensate for the increased difficulty of adding the caller procs to the other mobs.[/quote:3vl0jwyy]
 
@@ -1234,13 +1234,13 @@ If you want to check for presence of npcs and you only want to check in a certai
 
 </div>
 
-<div class="post" data-post-id="14816" data-author="13" data-date="2006-10-30T15:42:48+00:00">
+<div class="post" data-post-id="14816" data-author="13" data-date="2006-10-30T15:42:48+00:00" data-subject="">
 
 Also on an MMORPG the admins aren't doing it for free.
 
 </div>
 
-<div class="post" data-post-id="14818" data-author="*Splork*" data-date="2006-10-30T18:24:57+00:00">
+<div class="post" data-post-id="14818" data-author="*Splork*" data-date="2006-10-30T18:24:57+00:00" data-subject="">
 
 I don't think you have anything to worry about 13. We listen to the people who know and play sloth. For all intensive purposes, this is Sloth IV. The game has changed more in the last few years than it did from Sloth2 to Sloth3. :-) 
 
@@ -1252,7 +1252,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14819" data-author="Weasel" data-date="2006-10-30T18:36:37+00:00">
+<div class="post" data-post-id="14819" data-author="Weasel" data-date="2006-10-30T18:36:37+00:00" data-subject="">
 
 full of ... ideas that are likely to result in sloth changing more and for the worse imo. if we get much more realistic im just gonna go with some real reality.[/quote:39or898h]
 
@@ -1260,7 +1260,7 @@ I hear that.
 
 </div>
 
-<div class="post" data-post-id="14820" data-author="Diazz_Dizazter" data-date="2006-10-30T19:23:44+00:00">
+<div class="post" data-post-id="14820" data-author="Diazz_Dizazter" data-date="2006-10-30T19:23:44+00:00" data-subject="">
 
 [quote:3r2yjid5] We listen to the people who know and play sloth. [/quote:3r2yjid5]
 
@@ -1272,13 +1272,13 @@ Expose your pride and arrogant bigotry more?
 
 </div>
 
-<div class="post" data-post-id="14821" data-author="Guinex" data-date="2006-10-30T19:28:40+00:00">
+<div class="post" data-post-id="14821" data-author="Guinex" data-date="2006-10-30T19:28:40+00:00" data-subject="">
 
 No, Diazz i think he was simply saying that you generally don't know what you are talking about.
 
 </div>
 
-<div class="post" data-post-id="14822" data-author="Alberich" data-date="2006-10-30T19:29:50+00:00">
+<div class="post" data-post-id="14822" data-author="Alberich" data-date="2006-10-30T19:29:50+00:00" data-subject="">
 
 because it makes more sense to not listen to people who play, and instead pursue some theoretical ideal of what a mud 'should be'?
 
@@ -1286,7 +1286,7 @@ because it makes more sense to not listen to people who play, and instead pursue
 
 </div>
 
-<div class="post" data-post-id="14831" data-author="12345" data-date="2006-10-31T02:01:51+00:00">
+<div class="post" data-post-id="14831" data-author="12345" data-date="2006-10-31T02:01:51+00:00" data-subject="">
 
 Actually, I think the main issue being is that text and graphical games are completely and totally different.  Among other things, character speed, weapon range, knockback, terrain, obstacles, line of sight, and general mobility on the battlefield.  Unless you've magically become KaVir and already figured out how to make these things work in a MUD environment, you're talking about numerous changes that affect the core of the game and how it works.
 
@@ -1294,7 +1294,7 @@ It's like comparing apples to oranges, and right now we're happy with our apples
 
 </div>
 
-<div class="post" data-post-id="14834" data-author="*juggleblood*" data-date="2006-10-31T04:36:44+00:00">
+<div class="post" data-post-id="14834" data-author="*juggleblood*" data-date="2006-10-31T04:36:44+00:00" data-subject="">
 
 no I'm not saying that, I'm saying this thread is already full of stupid ass ideas.[/quote:1dfibgaa]
 
@@ -1302,7 +1302,7 @@ At least its more interesting than the thread about how we generally like you de
 
 </div>
 
-<div class="post" data-post-id="14836" data-author="12345" data-date="2006-10-31T05:05:07+00:00">
+<div class="post" data-post-id="14836" data-author="12345" data-date="2006-10-31T05:05:07+00:00" data-subject="">
 
 Heh, slightly.
 
@@ -1314,7 +1314,7 @@ That's not to say I don't appreciate cool areas, but it's getting to the point w
 
 </div>
 
-<div class="post" data-post-id="14840" data-author="tincts" data-date="2006-10-31T06:39:09+00:00">
+<div class="post" data-post-id="14840" data-author="tincts" data-date="2006-10-31T06:39:09+00:00" data-subject="">
 
 Yah.  Makes it a bit touchy for new leaders too - having to learn the very basics of running a group, which means finding people with the patience to let you explore, learn and cf them occasionally/frequently, create scripts and maps etc., which leads to slow xp runs for a long time.  Because more experienced players generally prefer to group with a leader and group that is going to keep things moving (which is quite a fair bias), the noob leader ends up leading noobs to their death in new areas, to be rescued by peeved, experienced players later.  (There are of course a number of older, patient players who will group and train new leaders, but the fact still stands.)  As leader becomes a more and more specialised and difficult skill, there will be less and less of them.
 
@@ -1322,7 +1322,7 @@ I myself love the continual change that goes on, but one of the drawbacks is tha
 
 </div>
 
-<div class="post" data-post-id="14843" data-author="13" data-date="2006-10-31T13:33:22+00:00">
+<div class="post" data-post-id="14843" data-author="13" data-date="2006-10-31T13:33:22+00:00" data-subject="">
 
 I agree Tinct.  Most of the time I am extremely reluctant to lead.  Mostly
 
@@ -1336,19 +1336,19 @@ for you", listening to the inane chatter that always happens.
 
 </div>
 
-<div class="post" data-post-id="14853" data-author="*juggleblood*" data-date="2006-10-31T22:04:17+00:00">
+<div class="post" data-post-id="14853" data-author="*juggleblood*" data-date="2006-10-31T22:04:17+00:00" data-subject="">
 
 :roll:
 
 </div>
 
-<div class="post" data-post-id="14854" data-author="12345" data-date="2006-10-31T22:12:18+00:00">
+<div class="post" data-post-id="14854" data-author="12345" data-date="2006-10-31T22:12:18+00:00" data-subject="">
 
 Of course juggle's right, however, Aa has been making an honest effort at reform lately. I would advise against giving him a reason to backslide please :)
 
 </div>
 
-<div class="post" data-post-id="14876" data-author="Medios" data-date="2006-11-01T22:08:46+00:00">
+<div class="post" data-post-id="14876" data-author="Medios" data-date="2006-11-01T22:08:46+00:00" data-subject="">
 
 He wont need a reason, wait and see.  
 
@@ -1364,7 +1364,7 @@ PS Dont take me wrong I know everyone loses link from time or time, or has an em
 
 </div>
 
-<div class="post" data-post-id="14881" data-author="Weasel" data-date="2006-11-01T22:42:25+00:00">
+<div class="post" data-post-id="14881" data-author="Weasel" data-date="2006-11-01T22:42:25+00:00" data-subject="">
 
 Nods Medios.. I wasn't overly impressed being killed due to lack of heals quite a while back when there were 5 clerics in the group all with mana and all 'afk'  ..and again in another group where (again as tank) I was killed, and I corpsed out while waiting for someone to raise - again the problem was all the raisers were afk, it wasn't a group CF or anything. Botting (which is often the equivalent of being afk in a chop group) used to be severely punished, and imho it still should be for excessive absenses, unless previously approved by the leader. You don't see me tank very often now, and that is one of the reasons (needless deaths), although mostly it's because I can't be at the keyboard for extended periods of time for one reason or another (read: I wont join a group if I'm aware I may have to go afk quite a bit myself). 
 
@@ -1372,7 +1372,7 @@ Nods Medios.. I wasn't overly impressed being killed due to lack of heals quite 
 
 </div>
 
-<div class="post" data-post-id="14882" data-author="12345" data-date="2006-11-01T22:45:17+00:00">
+<div class="post" data-post-id="14882" data-author="12345" data-date="2006-11-01T22:45:17+00:00" data-subject="">
 
 True, I know the feeling.  I think the worst I can say is that I was leading a group against mobs that I sometimes solo... the group was about 6 people besides me, decent levels, and we were dying at a pretty good rate.  Couldn't understand it for the life of me.  Then 1 person that I know pays attention joined and turned the whole group around.
 
@@ -1380,13 +1380,13 @@ I've noticed my newbie tolerance is higher than most, but honestly, some newbies
 
 </div>
 
-<div class="post" data-post-id="14884" data-author="kjartan" data-date="2006-11-01T23:08:24+00:00">
+<div class="post" data-post-id="14884" data-author="kjartan" data-date="2006-11-01T23:08:24+00:00" data-subject="">
 
 You aren't supposed to be botting, even in groups.  We want to encourage groups, but not at the price of allowing botters.  If you guys have any suggestions for ways we could automatically detect and eject botters in groups, let us know.  I am willing to devote some serious coding effort to this, so even if your ideas are pretty ambitious I'd love to hear them.  If you don't want to post something, you can email me at kjartan@slothmud.org.
 
 </div>
 
-<div class="post" data-post-id="14885" data-author="12345" data-date="2006-11-01T23:31:14+00:00">
+<div class="post" data-post-id="14885" data-author="12345" data-date="2006-11-01T23:31:14+00:00" data-subject="">
 
 Honestly Kj, I've been racking my brain and there's very little coming to mind.  The 2 problems that I keep running into are that half can be faked with a client, and the other half could be triggered by someone who is honestly afk for an emergency...
 
@@ -1402,7 +1402,7 @@ I'll have to think about that some.
 
 </div>
 
-<div class="post" data-post-id="14886" data-author="kjartan" data-date="2006-11-01T23:49:21+00:00">
+<div class="post" data-post-id="14886" data-author="kjartan" data-date="2006-11-01T23:49:21+00:00" data-subject="">
 
 We could deal with honest emergencies by adding an "idle" flag that you should set if you are afk for an emergency.  It would prevent you from gaining any xp while in the group; when you're back, you unset it.  We can also make it so the group leader can set it for you.
 
@@ -1410,13 +1410,13 @@ If you don't have the idle flag set, then the mud can start trying mercilessly t
 
 </div>
 
-<div class="post" data-post-id="14887" data-author="12345" data-date="2006-11-01T23:51:30+00:00">
+<div class="post" data-post-id="14887" data-author="12345" data-date="2006-11-01T23:51:30+00:00" data-subject="">
 
 If the leader can set it for you... that'd be a great start.
 
 </div>
 
-<div class="post" data-post-id="14888" data-author="Weasel" data-date="2006-11-02T00:02:53+00:00">
+<div class="post" data-post-id="14888" data-author="Weasel" data-date="2006-11-02T00:02:53+00:00" data-subject="">
 
 Good idea with the idle flag - and if it's going to be over X amount of time (say 2-3mins max), the leader should have to approve it.. but again I can think of ways around that.. ie: script timers to turn flag off after 2 mins and back on again a few seconds later. It's certainly a step in the right direction, and if nothing else will serve as a warning.
 
@@ -1424,13 +1424,13 @@ The most effective thing was when immorts actually spent time monitoring groups 
 
 </div>
 
-<div class="post" data-post-id="14889" data-author="Weasel" data-date="2006-11-02T00:07:38+00:00">
+<div class="post" data-post-id="14889" data-author="Weasel" data-date="2006-11-02T00:07:38+00:00" data-subject="">
 
 one more thing with leader-approved idle flag - leaders have enough to do, so perhaps a request system where the group member enters a 'request for absense' command and length of time requested in minutes, and the leader just receives a prompt to approve it, then all they have to do is type 'ok {some argument}' and the requester gets another message confirming their afk for X minutes.. if the leader does not respond within 30 seconds, a response can be sent to the group member saying 'disapproved' or something along those lines..
 
 </div>
 
-<div class="post" data-post-id="14890" data-author="Avatar" data-date="2006-11-02T00:08:32+00:00">
+<div class="post" data-post-id="14890" data-author="Avatar" data-date="2006-11-02T00:08:32+00:00" data-subject="idle vs. bot">
 
 Hrm, interesting interesting.
 
@@ -1444,19 +1444,19 @@ Hrm, what was I talking about?  The idle flag?  I seem to have rambled.
 
 </div>
 
-<div class="post" data-post-id="14891" data-author="13" data-date="2006-11-02T00:18:39+00:00">
+<div class="post" data-post-id="14891" data-author="13" data-date="2006-11-02T00:18:39+00:00" data-subject="">
 
 this is dogshit, people just need to recall the bots or leave them at demo.
 
 </div>
 
-<div class="post" data-post-id="14893" data-author="Weasel" data-date="2006-11-02T00:28:00+00:00">
+<div class="post" data-post-id="14893" data-author="Weasel" data-date="2006-11-02T00:28:00+00:00" data-subject="">
 
 heh.. yeah, that works too.
 
 </div>
 
-<div class="post" data-post-id="14894" data-author="12345" data-date="2006-11-02T00:30:17+00:00">
+<div class="post" data-post-id="14894" data-author="12345" data-date="2006-11-02T00:30:17+00:00" data-subject="">
 
 Some Aa, others have genuine emergencies (like me) and I'm not about to make a char they've got 60 days of playtime on unusable for a misunderstanding because they had to deal with something important, their computer crashes, or the rare instance (like me) where their keyboard's batteries go dead and they're scrambling around the house looking for charged batteries.
 
@@ -1468,7 +1468,7 @@ I really like this idea :)
 
 </div>
 
-<div class="post" data-post-id="14896" data-author="kjartan" data-date="2006-11-02T00:47:53+00:00">
+<div class="post" data-post-id="14896" data-author="kjartan" data-date="2006-11-02T00:47:53+00:00" data-subject="">
 
 For whatever reason, there is apparently sometimes a reluctance on the part of leaders to just demo some idlers.   I think we can't just say "demo them", everybody is aware of that option and they aren't doing it.
 
@@ -1490,7 +1490,7 @@ So, how's this sound - if the idle flag is set:
 
 </div>
 
-<div class="post" data-post-id="14897" data-author="12345" data-date="2006-11-02T00:58:54+00:00">
+<div class="post" data-post-id="14897" data-author="12345" data-date="2006-11-02T00:58:54+00:00" data-subject="">
 
 Honestly, it sounds good.  Probably more to the point, if I have someone sitting idle in the group for any length of time, they'll get recalled.  If I'm constantly tagging the same people idle... I just won't let them join.
 
@@ -1500,13 +1500,13 @@ And honestly, if the system doesn't work, I'm sure you'll hear plenty of suggest
 
 </div>
 
-<div class="post" data-post-id="14898" data-author="Weasel" data-date="2006-11-02T01:11:53+00:00">
+<div class="post" data-post-id="14898" data-author="Weasel" data-date="2006-11-02T01:11:53+00:00" data-subject="">
 
 Sounds good but for one thing.. the ones who abuse it the most atm are just as likely not to bother setting the flag or advising the leader, so only the ones who are honest about it are going to get penalized..
 
 </div>
 
-<div class="post" data-post-id="14899" data-author="*Splork*" data-date="2006-11-02T01:13:33+00:00">
+<div class="post" data-post-id="14899" data-author="*Splork*" data-date="2006-11-02T01:13:33+00:00" data-subject="">
 
 While this is something we are willing to work on, it ultimately comes down to the leaders-you guys know this. It has become acceptable behavior because you guys have allowed it to get to this point. I said this the last time we had thread, I've still yet to be notified once about a botter in a group.
 
@@ -1524,7 +1524,7 @@ I disagree with Weasel( again I know) but botting was at its lowest when annie a
 
 </div>
 
-<div class="post" data-post-id="14900" data-author="12345" data-date="2006-11-02T01:32:31+00:00">
+<div class="post" data-post-id="14900" data-author="12345" data-date="2006-11-02T01:32:31+00:00" data-subject="">
 
 Sounds good but for one thing.. the ones who abuse it the most atm are just as likely not to bother setting the flag or advising the leader, so only the ones who are honest about it are going to get penalized..[/quote:2oz8fv0l]
 
@@ -1534,7 +1534,7 @@ Which is why I made a point of making it a leader set option. If they don't want
 
 </div>
 
-<div class="post" data-post-id="14901" data-author="*Splork*" data-date="2006-11-02T01:35:55+00:00">
+<div class="post" data-post-id="14901" data-author="*Splork*" data-date="2006-11-02T01:35:55+00:00" data-subject="">
 
 Why should we trust a leader to set a player as idle when they are not informing immortals now that they have characters whom are botting?
 
@@ -1542,7 +1542,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="14902" data-author="12345" data-date="2006-11-02T01:42:39+00:00">
+<div class="post" data-post-id="14902" data-author="12345" data-date="2006-11-02T01:42:39+00:00" data-subject="">
 
 It's often two different things to suspect someone is botting and know they are.  If you suspect they are, you can ping them and set them idle.   At that point, you have a timer.  If they come back 2 minutes later and ask why you did that, you can unset them and tell them to pay better attention.  If after 15 minutes they don't mention it, you know they're botting and can recall them, push them into demo, tell Splork to have a barbeque... whatever.
 
@@ -1554,7 +1554,7 @@ Everyone wins :)
 
 </div>
 
-<div class="post" data-post-id="14903" data-author="Weasel" data-date="2006-11-02T03:53:19+00:00">
+<div class="post" data-post-id="14903" data-author="Weasel" data-date="2006-11-02T03:53:19+00:00" data-subject="">
 
 I disagree with Weasel( again I know) but botting was at its lowest when annie and others were pkilling botters, flight was removing their protects, groups refused to allow them to join, etc. Those immortals who spent countless hours finding botters should of been building us a new website or adding something fun for our players to abuse because ultimately it gained nothing for Sloth:-)[/quote:14h2avxi]
 
@@ -1568,7 +1568,7 @@ I think I just confused myself. ( O)(o )
 
 </div>
 
-<div class="post" data-post-id="14904" data-author="12345" data-date="2006-11-02T04:22:09+00:00">
+<div class="post" data-post-id="14904" data-author="12345" data-date="2006-11-02T04:22:09+00:00" data-subject="">
 
 After talking with Splork for a while, I came to understand that I misinterpretted a few things.  For instance, when I hear the phrase 'demo them' I think ungroup, push, forget about them... standard pkill type stuff.  Demo loots, dude is screwed.
 
@@ -1578,7 +1578,7 @@ I'm reluctant to full out screw someone, so I don't tend to go that route.  The 
 
 </div>
 
-<div class="post" data-post-id="14909" data-author="Diazz_Dizazter" data-date="2006-11-02T05:08:51+00:00">
+<div class="post" data-post-id="14909" data-author="Diazz_Dizazter" data-date="2006-11-02T05:08:51+00:00" data-subject="">
 
 Debunking botting....
 
@@ -1702,13 +1702,13 @@ caught with their scripts in action.
 
 </div>
 
-<div class="post" data-post-id="14910" data-author="Weasel" data-date="2006-11-02T05:15:16+00:00">
+<div class="post" data-post-id="14910" data-author="Weasel" data-date="2006-11-02T05:15:16+00:00" data-subject="">
 
 Ok, so idle person gets no exp as discussed, but make it so the rest of the group just gets the normal exp as if the idle person was still there, that way it cant be abused.. furthermore, it would actually encourage the leader to ungroup the idle person if they were idle too long, as it's wasting exp that the rest of the group could benefit from otherwise... sound like a good plan?
 
 </div>
 
-<div class="post" data-post-id="14915" data-author="Knight" data-date="2006-11-02T10:33:09+00:00">
+<div class="post" data-post-id="14915" data-author="Knight" data-date="2006-11-02T10:33:09+00:00" data-subject="">
 
 In circlemud there is a built in function that tells the imms how much time has passed since each player entered a command, I imagine the same function is available in Dikumud.  How about that function being used to put up a flag against a player (Idle 1, Idle 2 etc) who hasn't touched the keyboard in a minute so the group leader can more easily spot botters and deal with it according case by case.
 
@@ -1716,13 +1716,13 @@ Dennis
 
 </div>
 
-<div class="post" data-post-id="14916" data-author="Diazz_Dizazter" data-date="2006-11-02T12:09:42+00:00">
+<div class="post" data-post-id="14916" data-author="Diazz_Dizazter" data-date="2006-11-02T12:09:42+00:00" data-subject="">
 
 Hmm, I shall now go look up circle mud code.
 
 </div>
 
-<div class="post" data-post-id="14919" data-author="13" data-date="2006-11-02T14:04:31+00:00">
+<div class="post" data-post-id="14919" data-author="13" data-date="2006-11-02T14:04:31+00:00" data-subject="">
 
 Notorious Bots:
 
@@ -1744,7 +1744,7 @@ Sarge
 
 </div>
 
-<div class="post" data-post-id="14924" data-author="kjartan" data-date="2006-11-02T16:38:50+00:00">
+<div class="post" data-post-id="14924" data-author="kjartan" data-date="2006-11-02T16:38:50+00:00" data-subject="">
 
 [quote:2ejvntyo]
 
@@ -1786,7 +1786,7 @@ It is a common thing on these boards for people to assume that we will implement
 
 </div>
 
-<div class="post" data-post-id="14937" data-author="Medios" data-date="2006-11-02T21:36:01+00:00">
+<div class="post" data-post-id="14937" data-author="Medios" data-date="2006-11-02T21:36:01+00:00" data-subject="">
 
 Heres my point.  Killing a bot then spending my mana to raise them is pretty counterproductive in my mind.  I have to waste mana to kill them, then waste mana to raise them.  Hell I never knew we could pk bots or I woulda been whoopin ass a long time ago.  I better never hear anything from an immortal cuz im gonna start knockin heads.  Heed this warning, bot in my group and die.
 
@@ -1794,13 +1794,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="14941" data-author="Weasel" data-date="2006-11-02T21:46:44+00:00">
+<div class="post" data-post-id="14941" data-author="Weasel" data-date="2006-11-02T21:46:44+00:00" data-subject="">
 
 :twisted:  excellent
 
 </div>
 
-<div class="post" data-post-id="14952" data-author="Diazz_Dizazter" data-date="2006-11-03T12:11:20+00:00">
+<div class="post" data-post-id="14952" data-author="Diazz_Dizazter" data-date="2006-11-03T12:11:20+00:00" data-subject="">
 
 [quote:3l41sexq]Heres my point. Killing a bot then spending my mana to raise them is pretty counterproductive in my mind. I have to waste mana to kill them, then waste mana to raise them. Hell I never knew we could pk bots or I woulda been whoopin ass a long time ago. I better never hear anything from an immortal cuz im gonna start knockin heads. Heed this warning, bot in my group and die.
 
@@ -1814,7 +1814,7 @@ Pk'ing bots is likely the only way they could stop bot's.
 
 </div>
 
-<div class="post" data-post-id="14954" data-author="Avatar" data-date="2006-11-03T14:57:38+00:00">
+<div class="post" data-post-id="14954" data-author="Avatar" data-date="2006-11-03T14:57:38+00:00" data-subject="Bots yet again">
 
 Detecting and timing the commands that the mud receives from a player doesn't help, most of us have clients that automatically send 5 - 10 commands per fight anyway.
 
@@ -1824,7 +1824,7 @@ Myself, I've always preferred to just recall the bot / afk person and send them 
 
 </div>
 
-<div class="post" data-post-id="14958" data-author="kjartan" data-date="2006-11-03T18:23:41+00:00">
+<div class="post" data-post-id="14958" data-author="kjartan" data-date="2006-11-03T18:23:41+00:00" data-subject="Re: Bots yet again">
 
 Myself, I've always preferred to just recall the bot / afk person and send them a tell to rejoin when they are ready to play.  I don't often lead, but I do often recall people who don't fix protects.  I've often borrowed a recall before a fight, then used it immediately to recall someone.  Then I ask the person above if HE is ready to fix protects.  You don't have to be the leader to use recall scrolls, and most groups will applaud when you recall someone who's obviously not paying attention.[/quote:p3kg5fa5]
 
@@ -1834,7 +1834,7 @@ Does anybody see some benefit to the idle-flag system I had talked about over th
 
 </div>
 
-<div class="post" data-post-id="14959" data-author="Weasel" data-date="2006-11-03T18:58:56+00:00">
+<div class="post" data-post-id="14959" data-author="Weasel" data-date="2006-11-03T18:58:56+00:00" data-subject="">
 
 One of the main things imho was taking away exp from those who don't deserve it.. if idle flag can do that and a leader can set it while not messing up protect chain then maybe a good idea.. if the culprit continues to be afk, then they can take time to stop and recall them and have group fix protects when it is convenient.
 
@@ -1842,13 +1842,13 @@ Perhaps this discussion alone has raised awareness enough to have players be a b
 
 </div>
 
-<div class="post" data-post-id="14960" data-author="Guinex" data-date="2006-11-03T21:08:10+00:00">
+<div class="post" data-post-id="14960" data-author="Guinex" data-date="2006-11-03T21:08:10+00:00" data-subject="">
 
 I say don't waste the time on the bot system, and just let us kill the bots :evil:
 
 </div>
 
-<div class="post" data-post-id="14961" data-author="13" data-date="2006-11-03T23:56:52+00:00">
+<div class="post" data-post-id="14961" data-author="13" data-date="2006-11-03T23:56:52+00:00" data-subject="">
 
 [quote:1h79ajde]messing up the prot system[/quote:1h79ajde]
 
@@ -1856,7 +1856,7 @@ after recalling a bot, I like to encourage the people to fix prots.
 
 </div>
 
-<div class="post" data-post-id="14965" data-author="12345" data-date="2006-11-04T01:26:51+00:00">
+<div class="post" data-post-id="14965" data-author="12345" data-date="2006-11-04T01:26:51+00:00" data-subject="">
 
 Splork and I have difering opinions on this.  Then again, I have my own views on almost everything.  We seem to agree that it depends on the leader more than anything.  We also seem to agree that anyone who would use such a thing is already either recalling, pkilling or simply disallowing bots from their groups.
 

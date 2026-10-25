@@ -10,7 +10,7 @@ locked: true
 post_count: 16
 ---
 
-<div class="post" data-post-id="33981" data-author="Dragoth" data-date="2013-02-05T20:15:37+00:00">
+<div class="post" data-post-id="33981" data-author="Dragoth" data-date="2013-02-05T20:15:37+00:00" data-subject="Grouping, Leading, Chopping.">
 
 **We all know that all those things together lead to great exp.**
 
@@ -68,7 +68,7 @@ You want people to lead groups and deal with all that crap? Make the rewards mor
 
 </div>
 
-<div class="post" data-post-id="33982" data-author="*juggleblood*" data-date="2013-02-05T23:11:04+00:00">
+<div class="post" data-post-id="33982" data-author="*juggleblood*" data-date="2013-02-05T23:11:04+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 I hear ya. You're raising issues that have been around forever. 
 
@@ -94,7 +94,7 @@ I do think there are ways we can improve gameplay. Right now I am very focused o
 
 </div>
 
-<div class="post" data-post-id="33983" data-author="Dragoth" data-date="2013-02-05T23:52:06+00:00">
+<div class="post" data-post-id="33983" data-author="Dragoth" data-date="2013-02-05T23:52:06+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 Hey, thanks Juggs, appreciate walloftext to walloftext replies. 
 
@@ -106,7 +106,7 @@ I mean, if you want someone to try and jump a hoop 10 times, wouldnt you want to
 
 </div>
 
-<div class="post" data-post-id="33984" data-author="*Splork*" data-date="2013-02-06T00:20:50+00:00">
+<div class="post" data-post-id="33984" data-author="*Splork*" data-date="2013-02-06T00:20:50+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 We are quite generous already with lead and point exp/gold. The numbers on those leading clearly shows that. I really do not see us upping this reward any more than it already is. We are not going to see any results unless we grossly overdue the bonuses, and that we will not do. The same people will always lead, its always been like this. 
 
@@ -118,7 +118,7 @@ This is a group mud and we do plenty to encourage groups but we are not going to
 
 </div>
 
-<div class="post" data-post-id="33985" data-author="*Idjit*" data-date="2013-02-06T02:32:43+00:00">
+<div class="post" data-post-id="33985" data-author="*Idjit*" data-date="2013-02-06T02:32:43+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 I have to say one of the biggest reasons I don't lead Lyme is so that there is at least one offlyme leader.
 
@@ -128,7 +128,7 @@ The stacked continent bonuses calendar is having the desired effect, I find, if 
 
 </div>
 
-<div class="post" data-post-id="33986" data-author="*Splork*" data-date="2013-02-06T02:57:08+00:00">
+<div class="post" data-post-id="33986" data-author="*Splork*" data-date="2013-02-06T02:57:08+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 I would be willing to drop Lyme leader and point bonuses which were added on
 
@@ -138,7 +138,7 @@ and add that difference to off lyme leading and tanking...
 
 </div>
 
-<div class="post" data-post-id="33987" data-author="Ker" data-date="2013-02-06T11:45:53+00:00">
+<div class="post" data-post-id="33987" data-author="Ker" data-date="2013-02-06T11:45:53+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 > ***Splork* wrote:**
 > I would be willing to drop Lyme leader and point bonuses which were 
@@ -193,7 +193,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="33988" data-author="Dragoth" data-date="2013-02-06T12:09:40+00:00">
+<div class="post" data-post-id="33988" data-author="Dragoth" data-date="2013-02-06T12:09:40+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 > ***Splork* wrote:**
 > We are quite generous already with lead and point exp/gold. The numbers on those leading clearly shows that. I really do not see us upping this reward any more than it already is. We are not going to see any results unless we grossly overdue the bonuses, and that we will not do. The same people will always lead, its always been like this. 
@@ -220,7 +220,7 @@ Are you sure that doing nothing and being conservative is the right approach her
 
 </div>
 
-<div class="post" data-post-id="33989" data-author="Dragoth" data-date="2013-02-06T12:22:07+00:00">
+<div class="post" data-post-id="33989" data-author="Dragoth" data-date="2013-02-06T12:22:07+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 Also, it's not always about EXP, exp and gold is too conventional, why not go for something more interesting? 
 
@@ -230,7 +230,7 @@ Make an all-time leadership board at the recall points which will track everybod
 
 </div>
 
-<div class="post" data-post-id="33990" data-author="*Splork*" data-date="2013-02-06T15:38:05+00:00">
+<div class="post" data-post-id="33990" data-author="*Splork*" data-date="2013-02-06T15:38:05+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 I would hardly call the bonuses conservative and the majority of those receiving them would not either. We have addressed this issue in several ways but continually adding to the bonuses is not ideal. Honestly, I probably never should of given in to the players continually asking for lead and point experience on Lyme but I did and now here we are. Mostly because everyone will always lead on Lyme, that is how good the experience is.
 
@@ -252,7 +252,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33991" data-author="Dragoth" data-date="2013-02-06T16:20:15+00:00">
+<div class="post" data-post-id="33991" data-author="Dragoth" data-date="2013-02-06T16:20:15+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 Well, maybe its not completely outside the box, but at least its outside the exp box.
 
@@ -266,7 +266,7 @@ If you reduce chop exp, two things will change,
 
 </div>
 
-<div class="post" data-post-id="33992" data-author="*Splork*" data-date="2013-02-06T16:56:45+00:00">
+<div class="post" data-post-id="33992" data-author="*Splork*" data-date="2013-02-06T16:56:45+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 Another thing might change:
 
@@ -280,7 +280,7 @@ Just can't win:)
 
 </div>
 
-<div class="post" data-post-id="33996" data-author="*Splork*" data-date="2013-02-06T20:07:23+00:00">
+<div class="post" data-post-id="33996" data-author="*Splork*" data-date="2013-02-06T20:07:23+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 Listen guys,
 
@@ -290,7 +290,7 @@ This place is for fun, debate, and constructive criticism. I have said this doze
 
 </div>
 
-<div class="post" data-post-id="34003" data-author="*juggleblood*" data-date="2013-02-07T14:59:03+00:00">
+<div class="post" data-post-id="34003" data-author="*juggleblood*" data-date="2013-02-07T14:59:03+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 Any time a mortal asks for assistance in game my first action is to snoop them. Well I overheard more discussion ingame about this leader xp bonus.
 
@@ -302,7 +302,7 @@ I like you a lot and hope you stick around. Not because you're such a great lead
 
 </div>
 
-<div class="post" data-post-id="34006" data-author="Dragoth" data-date="2013-02-07T21:39:36+00:00">
+<div class="post" data-post-id="34006" data-author="Dragoth" data-date="2013-02-07T21:39:36+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 Thank you for compliments Juggleblood,
 
@@ -334,7 +334,7 @@ Because i love sharing ideas, i love making or participating in making things be
 
 </div>
 
-<div class="post" data-post-id="34007" data-author="*juggleblood*" data-date="2013-02-07T23:21:43+00:00">
+<div class="post" data-post-id="34007" data-author="*juggleblood*" data-date="2013-02-07T23:21:43+00:00" data-subject="Re: Grouping, Leading, Chopping.">
 
 Ok, but that'll have to be your last word on this specific topic. I'm locking it.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="23406" data-author="jezer" data-date="2008-03-24T23:00:35+00:00">
+<div class="post" data-post-id="23406" data-author="jezer" data-date="2008-03-24T23:00:35+00:00" data-subject="WTB: Tiger Fur Cloaks">
 
 I'm needing two... Don't have lyme vault to store temp cp's and at least one of the mobs needs a small spec group.
 
@@ -20,7 +20,7 @@ I'd also be interested in buying the cp's if I can get a full set to forge in th
 
 </div>
 
-<div class="post" data-post-id="23456" data-author="jezer" data-date="2008-03-26T22:26:52+00:00">
+<div class="post" data-post-id="23456" data-author="jezer" data-date="2008-03-26T22:26:52+00:00" data-subject="">
 
 On this point... is it possible to chop the spiritualist in Tony's solo... stupid idea? What spec weapon should I use, what is the chances of chopping self and dying? Any advice?
 
@@ -28,7 +28,7 @@ Also, whats the info on Ao Ping... (he's the only one I haven't tried yet.)
 
 </div>
 
-<div class="post" data-post-id="23458" data-author="Rynquald" data-date="2008-03-26T23:46:07+00:00">
+<div class="post" data-post-id="23458" data-author="Rynquald" data-date="2008-03-26T23:46:07+00:00" data-subject="">
 
 It's been a while, but I don't think spiritualist hits hard enough to be infeasible to solo. If you have a char with ac, you can pretty much just lead with damn and try to land a quick acid blind (if you have mage), then self-heal and pray for chops. A nightmare will help of course.
 
@@ -40,7 +40,7 @@ And the chances of chopping yourself are slim, I wouldn't worry about that dange
 
 </div>
 
-<div class="post" data-post-id="23459" data-author="Leaf" data-date="2008-03-27T00:33:40+00:00">
+<div class="post" data-post-id="23459" data-author="Leaf" data-date="2008-03-27T00:33:40+00:00" data-subject="">
 
 I forgot which char did, but was also a mage prime, Pi was it???
 
@@ -50,7 +50,7 @@ it took him about 3-5 runs.
 
 </div>
 
-<div class="post" data-post-id="24467" data-author="jezer" data-date="2008-05-23T01:44:09+00:00">
+<div class="post" data-post-id="24467" data-author="jezer" data-date="2008-05-23T01:44:09+00:00" data-subject="WTB/WTT: Rings!">
 
 I've long gotten my Tiger Fur Cloaks... Thanks to Yasik, Weasel and Assirian for helping me out. What I am chasing now is...
 
@@ -62,7 +62,7 @@ If you have these available for trade/sale... send me a tell.
 
 </div>
 
-<div class="post" data-post-id="24468" data-author="brady" data-date="2008-05-23T11:32:52+00:00">
+<div class="post" data-post-id="24468" data-author="brady" data-date="2008-05-23T11:32:52+00:00" data-subject="">
 
 I forgot which char did, but was also a mage prime, Pi was it???
 

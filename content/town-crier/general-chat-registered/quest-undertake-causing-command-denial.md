@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31968" data-author="Oboe" data-date="2010-11-05T01:14:49+00:00">
+<div class="post" data-post-id="31968" data-author="Oboe" data-date="2010-11-05T01:14:49+00:00" data-subject="quest undertake causing command denial">
 
 After undertaking a quest at about 2010-11-04 19:45 (mud time), the mud no longer processed my commands while I remained in the room with the questing mob.  I just got a new prompt without any of the command's usual outcomes:
 
@@ -74,7 +74,7 @@ I stilled received any mud messages (mobs casting spells, being hungry, tells, g
 
 </div>
 
-<div class="post" data-post-id="31971" data-author="Cizin" data-date="2010-11-05T08:57:29+00:00">
+<div class="post" data-post-id="31971" data-author="Cizin" data-date="2010-11-05T08:57:29+00:00" data-subject="Re: quest undertake causing command denial">
 
 The same thing happened to one of my alts.
 
@@ -86,7 +86,7 @@ Hope that helps
 
 </div>
 
-<div class="post" data-post-id="32036" data-author="Oboe" data-date="2010-11-15T00:04:30+00:00">
+<div class="post" data-post-id="32036" data-author="Oboe" data-date="2010-11-15T00:04:30+00:00" data-subject="Re: quest undertake causing command denial">
 
 Bump.  This still happens.
 

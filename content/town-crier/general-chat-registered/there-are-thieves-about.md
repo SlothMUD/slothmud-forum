@@ -10,7 +10,7 @@ locked: false
 post_count: 32
 ---
 
-<div class="post" data-post-id="18771" data-author="*juggleblood*" data-date="2007-06-03T17:41:54+00:00">
+<div class="post" data-post-id="18771" data-author="*juggleblood*" data-date="2007-06-03T17:41:54+00:00" data-subject="There are Thieves About">
 
 His Royal Afkness Jake has decreed that pthieving will now be a toggle like freepop, etc..
 
@@ -22,13 +22,13 @@ If you see such an indicator, simply find the nearest inn and type <rent>.
 
 </div>
 
-<div class="post" data-post-id="18772" data-author="Weasel" data-date="2007-06-03T18:27:13+00:00">
+<div class="post" data-post-id="18772" data-author="Weasel" data-date="2007-06-03T18:27:13+00:00" data-subject="">
 
 serious? wtf..
 
 </div>
 
-<div class="post" data-post-id="18773" data-author="Mosaix" data-date="2007-06-03T20:00:26+00:00">
+<div class="post" data-post-id="18773" data-author="Mosaix" data-date="2007-06-03T20:00:26+00:00" data-subject="">
 
 good to the mud being moved forward and made better.
 
@@ -38,7 +38,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="18774" data-author="Rynquald" data-date="2007-06-03T22:34:29+00:00">
+<div class="post" data-post-id="18774" data-author="Rynquald" data-date="2007-06-03T22:34:29+00:00" data-subject="">
 
 I can't help but wonder if the pthieving days will end up having like 5 people on, a pthief and a few people that like killing them :)
 
@@ -48,7 +48,7 @@ Edit: On a side note, can we pkill known pthieves all the time now? or just on p
 
 </div>
 
-<div class="post" data-post-id="18775" data-author="*Splork*" data-date="2007-06-03T22:38:30+00:00">
+<div class="post" data-post-id="18775" data-author="*Splork*" data-date="2007-06-03T22:38:30+00:00" data-subject="">
 
 When pthieving was removed, it was done so by using a toggle. This is nothing new that was coded.
 
@@ -60,19 +60,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="18776" data-author="Hades" data-date="2007-06-04T00:45:57+00:00">
+<div class="post" data-post-id="18776" data-author="Hades" data-date="2007-06-04T00:45:57+00:00" data-subject="">
 
 We are well pleased.
 
 </div>
 
-<div class="post" data-post-id="18777" data-author="brady" data-date="2007-06-04T00:47:46+00:00">
+<div class="post" data-post-id="18777" data-author="brady" data-date="2007-06-04T00:47:46+00:00" data-subject="">
 
 I like the idea of pthieving days.  Maybe you can also have shopkeepers sell Rollaids for all the bellyaching.
 
 </div>
 
-<div class="post" data-post-id="18778" data-author="Hades" data-date="2007-06-04T00:53:14+00:00">
+<div class="post" data-post-id="18778" data-author="Hades" data-date="2007-06-04T00:53:14+00:00" data-subject="">
 
 target 12345
 
@@ -82,7 +82,7 @@ stick that in your hat
 
 </div>
 
-<div class="post" data-post-id="18779" data-author="Weasel" data-date="2007-06-04T01:58:46+00:00">
+<div class="post" data-post-id="18779" data-author="Weasel" data-date="2007-06-04T01:58:46+00:00" data-subject="">
 
 Splork, I figured it was a toggle, but can you confirm that there are going to be ptheiving days, or is that just a vicious rumor? If true, will it be an entire day (real time) and like twice a month or something, like nocap, fargate etc was for years, or perhaps based on astrology. If the latter, please make it at the same time as futility - kill two birds with one stone so to speak. 
 
@@ -90,7 +90,7 @@ And yes, if pthieving is back, then I would see no reason why it would not also 
 
 </div>
 
-<div class="post" data-post-id="18780" data-author="Yinao" data-date="2007-06-04T02:07:45+00:00">
+<div class="post" data-post-id="18780" data-author="Yinao" data-date="2007-06-04T02:07:45+00:00" data-subject="">
 
 Where's da Weezel!?! :shock: 
 
@@ -100,7 +100,7 @@ On the other hand, I will enjoy open pthief killing, btw I got a decanter that r
 
 </div>
 
-<div class="post" data-post-id="18781" data-author="Hades" data-date="2007-06-04T02:09:35+00:00">
+<div class="post" data-post-id="18781" data-author="Hades" data-date="2007-06-04T02:09:35+00:00" data-subject="">
 
 Don't sing it, bring it. Just remember, you alt's alt's can also suffer retaliation.
 
@@ -110,37 +110,37 @@ Why even attack alt's anyways? It makes no sense. For clarification, watch South
 
 </div>
 
-<div class="post" data-post-id="18782" data-author="Weasel" data-date="2007-06-04T02:12:32+00:00">
+<div class="post" data-post-id="18782" data-author="Weasel" data-date="2007-06-04T02:12:32+00:00" data-subject="">
 
 sh*t that's an ugly tie mate..
 
 </div>
 
-<div class="post" data-post-id="18783" data-author="Yinao" data-date="2007-06-04T02:19:12+00:00">
+<div class="post" data-post-id="18783" data-author="Yinao" data-date="2007-06-04T02:19:12+00:00" data-subject="">
 
 I agree with Weasel, looks like someone wiped their a$$ with that tie. Even has the sh!t stripes.
 
 </div>
 
-<div class="post" data-post-id="18784" data-author="Hades" data-date="2007-06-04T02:25:50+00:00">
+<div class="post" data-post-id="18784" data-author="Hades" data-date="2007-06-04T02:25:50+00:00" data-subject="">
 
 I was actually showing off the glasses..nice to point out that you have sh!t on the brain. :twisted:
 
 </div>
 
-<div class="post" data-post-id="18786" data-author="brady" data-date="2007-06-04T03:55:25+00:00">
+<div class="post" data-post-id="18786" data-author="brady" data-date="2007-06-04T03:55:25+00:00" data-subject="">
 
 *release parking brake*
 
 </div>
 
-<div class="post" data-post-id="18787" data-author="Hades" data-date="2007-06-04T04:03:12+00:00">
+<div class="post" data-post-id="18787" data-author="Hades" data-date="2007-06-04T04:03:12+00:00" data-subject="A shout out to da haterz">
 
 [<LINK_TEXT text="http://www.youtube.com/watch?v=F-RUYQjG ... ed&search=">http://www.youtube.com/watch?v=F-RUYQjGQlg&mode=related&search=</LINK_TEXT>](http://www.youtube.com/watch?v=F-RUYQjGQlg&mode=related&search=)
 
 </div>
 
-<div class="post" data-post-id="18788" data-author="12345" data-date="2007-06-04T04:59:52+00:00">
+<div class="post" data-post-id="18788" data-author="12345" data-date="2007-06-04T04:59:52+00:00" data-subject="">
 
 target 12345
 
@@ -152,7 +152,7 @@ Oh goodie.  Should I make an appointment?  Or would you prefer to die unexpected
 
 </div>
 
-<div class="post" data-post-id="18789" data-author="Thraxas" data-date="2007-06-04T08:03:20+00:00">
+<div class="post" data-post-id="18789" data-author="Thraxas" data-date="2007-06-04T08:03:20+00:00" data-subject="">
 
 I like the idea of pthieving days.[/quote:12q2rnpy]
 
@@ -160,7 +160,7 @@ Me too, I play far too much as it is, nice to have a reason to rent more often.
 
 </div>
 
-<div class="post" data-post-id="18793" data-author="Yinao" data-date="2007-06-04T16:41:01+00:00">
+<div class="post" data-post-id="18793" data-author="Yinao" data-date="2007-06-04T16:41:01+00:00" data-subject="">
 
 [quote:2tcgy2bh]I was actually showing off the glasses..nice to point out that you have sh!t on the brain. [/quote:2tcgy2bh]
 
@@ -168,13 +168,13 @@ Gotta admit shit on the brain is better than shit for a brain there, Herpes. Err
 
 </div>
 
-<div class="post" data-post-id="18794" data-author="13" data-date="2007-06-04T17:19:19+00:00">
+<div class="post" data-post-id="18794" data-author="13" data-date="2007-06-04T17:19:19+00:00" data-subject="">
 
 who even cares about one day when people can pth, is it that hard not to be stolen from one day a month when only one faggy little thief is running around in a level 20?
 
 </div>
 
-<div class="post" data-post-id="18795" data-author="Leaf" data-date="2007-06-04T17:53:52+00:00">
+<div class="post" data-post-id="18795" data-author="Leaf" data-date="2007-06-04T17:53:52+00:00" data-subject="">
 
 Not hard at all, but I do admit I'm running around with some eq in my inv
 
@@ -188,25 +188,25 @@ cause its so heavy?
 
 </div>
 
-<div class="post" data-post-id="18807" data-author="Medios" data-date="2007-06-06T21:28:15+00:00">
+<div class="post" data-post-id="18807" data-author="Medios" data-date="2007-06-06T21:28:15+00:00" data-subject="">
 
 [http://www.liveleak.com/view?i=3dd_1181140608&p=1](http://www.liveleak.com/view?i=3dd_1181140608&p=1)
 
 </div>
 
-<div class="post" data-post-id="18808" data-author="13" data-date="2007-06-06T22:31:10+00:00">
+<div class="post" data-post-id="18808" data-author="13" data-date="2007-06-06T22:31:10+00:00" data-subject="">
 
 i cant even hear that shit
 
 </div>
 
-<div class="post" data-post-id="18809" data-author="Hades" data-date="2007-06-06T23:24:25+00:00">
+<div class="post" data-post-id="18809" data-author="Hades" data-date="2007-06-06T23:24:25+00:00" data-subject="">
 
 Bush in '08 8)
 
 </div>
 
-<div class="post" data-post-id="18810" data-author="Hades" data-date="2007-06-07T10:12:05+00:00">
+<div class="post" data-post-id="18810" data-author="Hades" data-date="2007-06-07T10:12:05+00:00" data-subject="Saving Silverman">
 
 She's hawt!!
 
@@ -214,7 +214,7 @@ She's hawt!!
 
 </div>
 
-<div class="post" data-post-id="18845" data-author="Hades" data-date="2007-06-12T01:09:35+00:00">
+<div class="post" data-post-id="18845" data-author="Hades" data-date="2007-06-12T01:09:35+00:00" data-subject="Thread-napped">
 
 Burger King ignites Spam war with rival
 
@@ -256,7 +256,7 @@ ___
 
 </div>
 
-<div class="post" data-post-id="18846" data-author="Weasel" data-date="2007-06-12T01:46:00+00:00">
+<div class="post" data-post-id="18846" data-author="Weasel" data-date="2007-06-12T01:46:00+00:00" data-subject="">
 
 WTF? Keep irrelevant crap on the random sh*t thread pls, that's what it's there for. 
 
@@ -264,7 +264,7 @@ Thucking fief.  :roll:
 
 </div>
 
-<div class="post" data-post-id="18848" data-author="Hades" data-date="2007-06-12T03:25:51+00:00">
+<div class="post" data-post-id="18848" data-author="Hades" data-date="2007-06-12T03:25:51+00:00" data-subject="There are Weasel&#x27;s about">
 
 [<LINK_TEXT text="http://www.top10virals.com/viralvideos/ ... apeno.html">http://www.top10virals.com/viralvideos/ferret-vs-jalapeno.html</LINK_TEXT>](http://www.top10virals.com/viralvideos/ferret-vs-jalapeno.html)
 
@@ -272,13 +272,13 @@ Now... that's revelant :twisted:
 
 </div>
 
-<div class="post" data-post-id="18855" data-author="Weasel" data-date="2007-06-12T10:19:27+00:00">
+<div class="post" data-post-id="18855" data-author="Weasel" data-date="2007-06-12T10:19:27+00:00" data-subject="">
 
 heh poor little guy.. my sister did the same thing to me when I was little.
 
 </div>
 
-<div class="post" data-post-id="18864" data-author="banedon" data-date="2007-06-13T18:46:03+00:00">
+<div class="post" data-post-id="18864" data-author="banedon" data-date="2007-06-13T18:46:03+00:00" data-subject="">
 
 The evul katz haff gone too far!  Theyve stoled some of Weasel's corm.  Here's evidence.
 
@@ -296,13 +296,13 @@ Banedon
 
 </div>
 
-<div class="post" data-post-id="18870" data-author="Weasel" data-date="2007-06-13T22:02:51+00:00">
+<div class="post" data-post-id="18870" data-author="Weasel" data-date="2007-06-13T22:02:51+00:00" data-subject="">
 
 MY CORM!! EVUL KATZ HAS MY CORM!![/color:3u9ieymg][/size:3u9ieymg]  :shock:
 
 </div>
 
-<div class="post" data-post-id="18871" data-author="Hades" data-date="2007-06-13T23:46:44+00:00">
+<div class="post" data-post-id="18871" data-author="Hades" data-date="2007-06-13T23:46:44+00:00" data-subject="There are Olsen&#x27;s about.">
 
 Oh hell yeah
 

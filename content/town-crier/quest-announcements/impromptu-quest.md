@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="36961" data-author="*Idjit*" data-date="2016-06-16T00:37:09+00:00">
+<div class="post" data-post-id="36961" data-author="*Idjit*" data-date="2016-06-16T00:37:09+00:00" data-subject="Impromptu Quest">
 
 To arms! To arms!
 
@@ -24,7 +24,7 @@ Come one come all.
 
 </div>
 
-<div class="post" data-post-id="36986" data-author="*Breeze*" data-date="2016-06-26T20:58:11+00:00">
+<div class="post" data-post-id="36986" data-author="*Breeze*" data-date="2016-06-26T20:58:11+00:00" data-subject="Re: Impromptu Quest">
 
 30 Jun 2016 @ 2200 GMT - Idjit made a new epic mob.  will load it and put either a) crystal token or b) group split token on it.  leaders choice.
 
@@ -38,7 +38,7 @@ regards, Breeze.
 
 </div>
 
-<div class="post" data-post-id="36995" data-author="Teron" data-date="2016-06-28T05:52:30+00:00">
+<div class="post" data-post-id="36995" data-author="Teron" data-date="2016-06-28T05:52:30+00:00" data-subject="Re: Impromptu Quest">
 
 What's the difference between the tokens? As far as I understand, both are group drachma split.
 
@@ -46,7 +46,7 @@ Did you mean a rainbow token, which may include a gem?
 
 </div>
 
-<div class="post" data-post-id="36997" data-author="*Breeze*" data-date="2016-06-28T19:46:47+00:00">
+<div class="post" data-post-id="36997" data-author="*Breeze*" data-date="2016-06-28T19:46:47+00:00" data-subject="Re: Impromptu Quest">
 
 group split =  everyone gets same thing
 
@@ -56,7 +56,7 @@ gem comes only from rainbow token which has 1 in 4 chance to load. all other cry
 
 </div>
 
-<div class="post" data-post-id="36998" data-author="Teron" data-date="2016-06-29T08:55:50+00:00">
+<div class="post" data-post-id="36998" data-author="Teron" data-date="2016-06-29T08:55:50+00:00" data-subject="Re: Impromptu Quest">
 
 Do the tokens have the same avg drachma per person?
 

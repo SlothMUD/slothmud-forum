@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="33434" data-author="Jaid" data-date="2012-08-08T18:56:43+00:00">
+<div class="post" data-post-id="33434" data-author="Jaid" data-date="2012-08-08T18:56:43+00:00" data-subject="Time Specials?">
 
 I have not been on the game much lately; having a little one keeps me busy.  Forgive me if this has been discussed somewhere (and please point me to where).  I had copied the list of time specials Splork posted in MUD Changes.  Is this list no longer valid?  I'm asking because a couple of the 'world specials' were not on when I checked on the day listed.  I have them marked on my calendar to remind me (don't tell me how sad that is) and I want to know if I need to make changes or if I am not understanding the list.  For example: today should be World Mob EQ Pop, according to the list, but I signed into the game and it is not on.  Only Fast Repop for SS is on.
 
@@ -82,7 +82,7 @@ Thanks in advance for helping.  I have attached the list I'm referring to, for r
 
 </div>
 
-<div class="post" data-post-id="33435" data-author="*Isabo*" data-date="2012-08-09T17:42:57+00:00">
+<div class="post" data-post-id="33435" data-author="*Isabo*" data-date="2012-08-09T17:42:57+00:00" data-subject="Re: Time Specials?">
 
 Greetings, brave warrior.
 
@@ -94,7 +94,7 @@ Enjoy ... :)
 
 </div>
 
-<div class="post" data-post-id="33437" data-author="Jaid" data-date="2012-08-10T17:06:38+00:00">
+<div class="post" data-post-id="33437" data-author="Jaid" data-date="2012-08-10T17:06:38+00:00" data-subject="Re: Time Specials?">
 
 Thanks, Isabo.  I appreciate that you started it for me.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36326" data-author="Dragoth" data-date="2015-12-17T11:45:12+00:00">
+<div class="post" data-post-id="36326" data-author="Dragoth" data-date="2015-12-17T11:45:12+00:00" data-subject="Fleeing mobs">
 
 Right now we have web and arms of the abyss as the main tool against fleeing mobs, but there are mobs that break that and it turns into a real annoyance and there is nothing that a player can do to combat that **directly**, which really goes against the spirit of the game, there should always exist a tool to deal with whatever situation the game throws at you, at the right level.
 
@@ -22,13 +22,13 @@ If this is an important annoyance, handdam check for stuns, cleric level check f
 
 </div>
 
-<div class="post" data-post-id="36327" data-author="alris" data-date="2015-12-17T15:14:05+00:00">
+<div class="post" data-post-id="36327" data-author="alris" data-date="2015-12-17T15:14:05+00:00" data-subject="Re: Fleeing mobs">
 
 And don't forget about warriors. Maybe something like taunt, as an independent skill or as a an extra to underrated oath skills.
 
 </div>
 
-<div class="post" data-post-id="36328" data-author="Teron" data-date="2015-12-18T19:29:10+00:00">
+<div class="post" data-post-id="36328" data-author="Teron" data-date="2015-12-18T19:29:10+00:00" data-subject="Re: Fleeing mobs">
 
 Bards do have haunted dirge, but I haven't seen it used outside testing.
 
@@ -40,7 +40,7 @@ In a large group, several warriors should be able to hold back a fleeing pyrohyd
 
 </div>
 
-<div class="post" data-post-id="36333" data-author="*juggleblood*" data-date="2015-12-20T18:26:39+00:00">
+<div class="post" data-post-id="36333" data-author="*juggleblood*" data-date="2015-12-20T18:26:39+00:00" data-subject="Re: Fleeing mobs">
 
 It would be pretty cool if there were a group tactic to prevent fleeing. Maybe something like people in front row can <block mobname>, suffering a 2 penalty to their AC.
 

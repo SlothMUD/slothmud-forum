@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34505" data-author="Marvel" data-date="2013-10-20T19:48:56+00:00">
+<div class="post" data-post-id="34505" data-author="Marvel" data-date="2013-10-20T19:48:56+00:00" data-subject="Ruins of Gildebruun Area Opener">
 
 At 12:00 Server time, the 20th of October 2013, Neptune bestowed upon SlothMUD his latest area - the Ruins of Gildebruun.
 

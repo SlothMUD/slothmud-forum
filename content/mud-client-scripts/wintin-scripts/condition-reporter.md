@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32336" data-author="Strago" data-date="2011-01-19T15:33:33+00:00">
+<div class="post" data-post-id="32336" data-author="Strago" data-date="2011-01-19T15:33:33+00:00" data-subject="Condition Reporter">
 
 This script is a condition reporter, with the health bar colored in red.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="39907" data-author="Gorka" data-date="2022-05-06T12:51:05+00:00">
+<div class="post" data-post-id="39907" data-author="Gorka" data-date="2022-05-06T12:51:05+00:00" data-subject="Removing Mana from the game...">
 
 I think we should just remove mana from the game at this point...
 
@@ -32,7 +32,7 @@ Oh well, it was good while it lasted... I'll remember the days when the game was
 
 </div>
 
-<div class="post" data-post-id="39908" data-author="Gorka" data-date="2022-05-06T13:40:51+00:00">
+<div class="post" data-post-id="39908" data-author="Gorka" data-date="2022-05-06T13:40:51+00:00" data-subject="Re: Removing Mana from the game...">
 
 You know before the conquest system, I was buying...
 
@@ -44,7 +44,7 @@ For what now... For what?
 
 </div>
 
-<div class="post" data-post-id="39909" data-author="Josiah" data-date="2022-05-07T22:24:29+00:00">
+<div class="post" data-post-id="39909" data-author="Josiah" data-date="2022-05-07T22:24:29+00:00" data-subject="Re: Removing Mana from the game...">
 
 Re: free drachma
 
@@ -58,7 +58,7 @@ In that context, energy drain exploits seem like an elegant solution to an antiq
 
 </div>
 
-<div class="post" data-post-id="39910" data-author="Ezekiel" data-date="2022-05-08T08:45:59+00:00">
+<div class="post" data-post-id="39910" data-author="Ezekiel" data-date="2022-05-08T08:45:59+00:00" data-subject="Re: Removing Mana from the game...">
 
 1. It does not defeat the point of mana. You would still buy mana as an avatar, because the drain cap has been set at 2.5 or 3x (one of these, can't remember which) your base mana.
 
@@ -74,7 +74,7 @@ Zeke
 
 </div>
 
-<div class="post" data-post-id="39911" data-author="Gorka" data-date="2022-05-08T12:27:07+00:00">
+<div class="post" data-post-id="39911" data-author="Gorka" data-date="2022-05-08T12:27:07+00:00" data-subject="Re: Removing Mana from the game...">
 
 I agree completely with Josiah and Ezekiel that 5-10min regens were dumb. I completely disagree that draining mana is an elegant solution. You've made it sound like it was a genius solution, the reality was the discovery was mostly accidental and mob dependent. They should have boosted regen instead imho.
 
@@ -94,7 +94,7 @@ Two years ago I had a conversation with Breeze trying to get him to allow more m
 
 </div>
 
-<div class="post" data-post-id="39912" data-author="Gorka" data-date="2022-05-08T15:22:32+00:00">
+<div class="post" data-post-id="39912" data-author="Gorka" data-date="2022-05-08T15:22:32+00:00" data-subject="Re: Removing Mana from the game...">
 
 Back again, there is a point I didn't make very well, that needs pressing...
 
@@ -110,7 +110,7 @@ It's so often true what they say about leadership - Water rises to the top.
 
 </div>
 
-<div class="post" data-post-id="39913" data-author="Ezekiel" data-date="2022-05-08T18:50:43+00:00">
+<div class="post" data-post-id="39913" data-author="Ezekiel" data-date="2022-05-08T18:50:43+00:00" data-subject="Re: Removing Mana from the game...">
 
 To say that 'mana underpins the whole game' is a stretch. It is an essential part of it, sure, but damage and ac are two just as relevant components. Mana is one part of the game they are making easier to manage due to antiquated systems. If you disagree with the implementation and think it's 'god mode' because once facet is changed (and capped) and then decide to rage, maybe it's time to go outside and touch some grass. I've been there, taking the game too seriously before. It makes one look foolish.
 
@@ -124,7 +124,7 @@ Done with this incessant whining.
 
 </div>
 
-<div class="post" data-post-id="39914" data-author="Gorka" data-date="2022-05-08T20:04:18+00:00">
+<div class="post" data-post-id="39914" data-author="Gorka" data-date="2022-05-08T20:04:18+00:00" data-subject="Re: Removing Mana from the game...">
 
 Not gonna bother with you Ezekiel. Yes, I got a copy of your email the last time you quit... Who are you to accuse me of whining, straw man arguments and bitterness? :shock: Shall I post it on the forum? People might find it enlightening.
 
@@ -136,7 +136,7 @@ It's more exciting to bet on how many times the hellwasps will kill Dingo tomorr
 
 </div>
 
-<div class="post" data-post-id="39916" data-author="Ezekiel" data-date="2022-05-08T20:58:28+00:00">
+<div class="post" data-post-id="39916" data-author="Ezekiel" data-date="2022-05-08T20:58:28+00:00" data-subject="Re: Removing Mana from the game...">
 
 Difference is, I've admitted when I've been irrational and unreasonable, attached to aspects of the game I was taking too seriously.  I'm hoping over time, you realize the same about your own arguments, which is why I brought it up. Release whatever you like, sir. I own my mistakes of the past. Stooping to such levels to throw shade at others past mistakes they've owned up to says more about your character than mine.
 
@@ -148,7 +148,7 @@ It really just comes down to something that you find a detrimental, game-breakin
 
 </div>
 
-<div class="post" data-post-id="39917" data-author="Gorka" data-date="2022-05-08T21:48:37+00:00">
+<div class="post" data-post-id="39917" data-author="Gorka" data-date="2022-05-08T21:48:37+00:00" data-subject="Re: Removing Mana from the game...">
 
 > **Ezekiel wrote:**
 > Difference is, I've admitted when I've been irrational and unreasonable, attached to aspects of the game I was taking too seriously.  I'm hoping over time, you realize the same, which is why I brought it up. Release whatever you like, sir. I own my mistakes of the past. Stooping to such levels to throw shade at others past mistakes they've owned up to says more about your character than mine.
@@ -161,13 +161,13 @@ My preferences aside, I really do truthfully think removing the challenge from S
 
 </div>
 
-<div class="post" data-post-id="39925" data-author="Insomnia" data-date="2022-05-09T17:21:50+00:00">
+<div class="post" data-post-id="39925" data-author="Insomnia" data-date="2022-05-09T17:21:50+00:00" data-subject="Re: Removing Mana from the game...">
 
 ...By the way, I believe raising the Ancient Sceptre of Dominion doesn't restore mob mana, so you have to give mobs enough regen time in order to drain them again. But I totally agree that discovering venerable plantwraiths in Herbalist II created disbalance – all other drainable mobs I know can kill you in 2-3 rounds if you are not careful enough.
 
 </div>
 
-<div class="post" data-post-id="39926" data-author="Gorka" data-date="2022-05-09T17:56:12+00:00">
+<div class="post" data-post-id="39926" data-author="Gorka" data-date="2022-05-09T17:56:12+00:00" data-subject="Re: Removing Mana from the game...">
 
 > **Insomnia wrote:**
 > By the way, I believe raising the Ancient Sceptre of Dominion doesn't restore mob mana
@@ -254,7 +254,7 @@ You drain the Grand Webmistress of some of her energy.
 
 </div>
 
-<div class="post" data-post-id="39927" data-author="Gorka" data-date="2022-05-09T18:25:09+00:00">
+<div class="post" data-post-id="39927" data-author="Gorka" data-date="2022-05-09T18:25:09+00:00" data-subject="Re: Removing Mana from the game...">
 
 <1855hp 574ma 616mv -10.9ac Desert of Despair 334490904410xp -%>
 
@@ -272,7 +272,7 @@ You drain an ogre magi of some of his energy.
 
 </div>
 
-<div class="post" data-post-id="39928" data-author="cnl" data-date="2022-05-09T19:18:57+00:00">
+<div class="post" data-post-id="39928" data-author="cnl" data-date="2022-05-09T19:18:57+00:00" data-subject="Re: Removing Mana from the game...">
 
 I've only played since there has been drain in game, so take that into account. That said, I've had a lot of fun with drain at low/mid-levels.
 
@@ -288,7 +288,7 @@ I don't think the issues that drain exacerbates are unique to drain - it just hi
 
 </div>
 
-<div class="post" data-post-id="39933" data-author="Belrath" data-date="2022-05-10T00:47:59+00:00">
+<div class="post" data-post-id="39933" data-author="Belrath" data-date="2022-05-10T00:47:59+00:00" data-subject="Re: Removing Mana from the game...">
 
 Hello all. I've played sloth few weeks and I feel Gorka's point. Years ago it took 3 months to make as much xp as its easily done nowadays in a week. But I dont care. I dont feel like I've lost something in those grinding times. I was having fun, talking to people, making friends, etc. That's what this game is about. Get online and kill in a huge group some kobolds and CF there. Oh boy. 
 
@@ -308,7 +308,7 @@ Sorry my bad english. I hope you can get my point outta all that gibberish.
 
 </div>
 
-<div class="post" data-post-id="39935" data-author="Insomnia" data-date="2022-05-10T10:02:29+00:00">
+<div class="post" data-post-id="39935" data-author="Insomnia" data-date="2022-05-10T10:02:29+00:00" data-subject="Re: Removing Mana from the game...">
 
 I think the bigger the mob, the more mana you should be able to drain from it. Maybe it makes sense to count in not only the mob's class, but also other attributes, such as damage, total exp, procs, ethereality, aggressiveness, alignment, etc... actually, we have a good example of such calculation – Spirit of Conquest does a very good job calculating how many points each mob is worth. Some similar formula could be used for energy drain (but casters should give more than non-casters, of course).
 
@@ -326,7 +326,7 @@ Speaking of numbers:
 
 </div>
 
-<div class="post" data-post-id="39936" data-author="Gorka" data-date="2022-05-10T11:38:04+00:00">
+<div class="post" data-post-id="39936" data-author="Gorka" data-date="2022-05-10T11:38:04+00:00" data-subject="Re: Removing Mana from the game...">
 
 From a programming perspective... I doubt mobs have an flag to denote if it's a caster or not. They probably just have a well of mana. Maybe they can tell it's a caster by the size of it's spell list? But your idea suggests the mana well should be proportional to the attributes of the mob. So unless the game starts overriding mob mana with a calculated mana... all the spell casting mobs would require editing in that case. Not an attractive option to edit all sloth mobs I would think.
 
@@ -336,7 +336,7 @@ A proper solution would be to give back mana in other ways, regen, vaults, impro
 
 </div>
 
-<div class="post" data-post-id="40018" data-author="Hung" data-date="2023-03-01T15:24:39+00:00">
+<div class="post" data-post-id="40018" data-author="Hung" data-date="2023-03-01T15:24:39+00:00" data-subject="Re: Removing Mana from the game...">
 
 I left the game in 2017 and logged in yesterday just to see the new stuff. 
 

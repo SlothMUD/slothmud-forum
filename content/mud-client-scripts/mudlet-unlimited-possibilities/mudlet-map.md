@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="39475" data-author="Bandit" data-date="2020-05-08T23:57:59+00:00">
+<div class="post" data-post-id="39475" data-author="Bandit" data-date="2020-05-08T23:57:59+00:00" data-subject="Mudlet map">
 
 Map scripts: [https://app.box.com/s/il2lpk701m2u2qwykgox6lxigkr4t4me](https://app.box.com/s/il2lpk701m2u2qwykgox6lxigkr4t4me)
 
@@ -26,7 +26,7 @@ Also if you have the generic_mapper installed you should disable / remove it, as
 
 </div>
 
-<div class="post" data-post-id="39582" data-author="cnl" data-date="2020-10-21T04:04:57+00:00">
+<div class="post" data-post-id="39582" data-author="cnl" data-date="2020-10-21T04:04:57+00:00" data-subject="Re: Mudlet map">
 
 Thanks for posting this - 
 
@@ -36,7 +36,7 @@ Does this depend on the generic_mapper being installed?
 
 </div>
 
-<div class="post" data-post-id="39583" data-author="cnl" data-date="2020-10-21T07:13:59+00:00">
+<div class="post" data-post-id="39583" data-author="cnl" data-date="2020-10-21T07:13:59+00:00" data-subject="Re: Mudlet map">
 
 I'm probably recreating the wheel here but I've mostly got a working instance of the mapper going -
 
@@ -44,7 +44,7 @@ I'm probably recreating the wheel here but I've mostly got a working instance of
 
 </div>
 
-<div class="post" data-post-id="39584" data-author="cnl" data-date="2020-10-21T17:30:28+00:00">
+<div class="post" data-post-id="39584" data-author="cnl" data-date="2020-10-21T17:30:28+00:00" data-subject="Re: Mudlet map">
 
 Your map data is super cool.
 
@@ -52,7 +52,7 @@ It looks like you also saved it with Id == room vnum so it loads perfectly with 
 
 </div>
 
-<div class="post" data-post-id="39586" data-author="cnl" data-date="2020-10-22T07:53:34+00:00">
+<div class="post" data-post-id="39586" data-author="cnl" data-date="2020-10-22T07:53:34+00:00" data-subject="Re: Mudlet map">
 
 I've been playing around with the msdp.COORD* variables and the map.
 
@@ -64,7 +64,7 @@ X means they reported Mob==1. It looks like this is a yes / no type result?
 
 </div>
 
-<div class="post" data-post-id="39588" data-author="Bandit" data-date="2020-10-22T22:22:47+00:00">
+<div class="post" data-post-id="39588" data-author="Bandit" data-date="2020-10-22T22:22:47+00:00" data-subject="Re: Mudlet map">
 
 The map tends to use data like msdp.CHARACTER_LOCATION.ROOM.VNUM to know where you are. It watches mspd.CHARACTER_LOCATION for changes and updates. I don't think I use the COORDS variables at all, those always seemed a bit weird.
 
@@ -74,7 +74,7 @@ I play Shatterhand and Bandit in the mud, feel free to ask anything there.
 
 </div>
 
-<div class="post" data-post-id="39590" data-author="Gorka" data-date="2020-10-24T06:02:06+00:00">
+<div class="post" data-post-id="39590" data-author="Gorka" data-date="2020-10-24T06:02:06+00:00" data-subject="Re: Mudlet map">
 
 IIRC there are some areas where the builders didn't even set the COORDS for the area. 
 

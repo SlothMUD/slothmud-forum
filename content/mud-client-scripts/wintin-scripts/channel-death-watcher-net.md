@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9763" data-author="jezer" data-date="2005-12-12T02:57:07+00:00">
+<div class="post" data-post-id="9763" data-author="jezer" data-date="2005-12-12T02:57:07+00:00" data-subject="Channel Death Watcher .NET">
 
 Heaps simple death checker script for channel droppers.
 

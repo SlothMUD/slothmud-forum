@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29173" data-author="*Splork*" data-date="2009-05-15T21:43:00+00:00">
+<div class="post" data-post-id="29173" data-author="*Splork*" data-date="2009-05-15T21:43:00+00:00" data-subject="Bard prime changes">
 
 Two key changes for bard primes to go with the already implemented new slot for instrument....
 
@@ -48,7 +48,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29184" data-author="*Splork*" data-date="2009-05-16T13:20:47+00:00">
+<div class="post" data-post-id="29184" data-author="*Splork*" data-date="2009-05-16T13:20:47+00:00" data-subject="Bard mana regen">
 
 1) Bard prime and secondary have had their mana regen increased. 
 

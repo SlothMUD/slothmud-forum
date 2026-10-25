@@ -10,7 +10,7 @@ locked: false
 post_count: 38
 ---
 
-<div class="post" data-post-id="30425" data-author="jezer" data-date="2009-12-06T08:34:11+00:00">
+<div class="post" data-post-id="30425" data-author="jezer" data-date="2009-12-06T08:34:11+00:00" data-subject="How to deathgrip Hamsters?">
 
 So I'd just recalled after fixing my align and thought, hey lets grab a peri to heal me up... Just my luck! A snotty nosed hamster was sitting at SS recall staring at me. So I leapt over and put him in a deathgrip! :twisted:
 
@@ -116,13 +116,13 @@ When a level 31 secondary monk can't deathgrip a hamster, do ya think I'm within
 
 </div>
 
-<div class="post" data-post-id="30428" data-author="Marvel" data-date="2009-12-06T15:26:45+00:00">
+<div class="post" data-post-id="30428" data-author="Marvel" data-date="2009-12-06T15:26:45+00:00" data-subject="">
 
 11 str seems a bit too low for gripping mobs in my view. I mean, grip is almost like stabbing in my view - you have a weak grip due to not having enough strength - from what I've experienced.
 
 </div>
 
-<div class="post" data-post-id="30429" data-author="jezer" data-date="2009-12-06T18:58:01+00:00">
+<div class="post" data-post-id="30429" data-author="jezer" data-date="2009-12-06T18:58:01+00:00" data-subject="">
 
 I think your right Marvel... and I expect if I had 18 str I could possibly deathgrip about 10-15k Mobs... however I get the feeling the damage from deathgrip works a bit like this...
 
@@ -150,7 +150,7 @@ At the end of the day, a secondary monk, of almost 2 x 40 levels, can't grip and
 
 </div>
 
-<div class="post" data-post-id="30430" data-author="*juggleblood*" data-date="2009-12-06T19:14:33+00:00">
+<div class="post" data-post-id="30430" data-author="*juggleblood*" data-date="2009-12-06T19:14:33+00:00" data-subject="">
 
 wowsers, 
 
@@ -158,7 +158,7 @@ wowsers,
 
 </div>
 
-<div class="post" data-post-id="30431" data-author="Marvel" data-date="2009-12-06T20:03:23+00:00">
+<div class="post" data-post-id="30431" data-author="Marvel" data-date="2009-12-06T20:03:23+00:00" data-subject="">
 
 You have to remember a couple of things: lion chorus helped Nab out a LOT, he had the natural handdam/dam/hit from levels, and focus (monk prime skill) helps immensely as well.
 
@@ -414,13 +414,13 @@ Your victim goes limp in your hands.
 
 </div>
 
-<div class="post" data-post-id="30432" data-author="Marvel" data-date="2009-12-06T20:14:14+00:00">
+<div class="post" data-post-id="30432" data-author="Marvel" data-date="2009-12-06T20:14:14+00:00" data-subject="">
 
 Another note: Jezer is at 31o, Marvel is 31o.  Only difference is that Marvel is monk prime and has 18 str / 5 handdam on him.  See if you can get up to 18 str and get some handdam on so we can see how monk secondary compares to prime. :)
 
 </div>
 
-<div class="post" data-post-id="30433" data-author="jezer" data-date="2009-12-06T20:18:10+00:00">
+<div class="post" data-post-id="30433" data-author="jezer" data-date="2009-12-06T20:18:10+00:00" data-subject="">
 
 Thanks for testing that Marvel... that was useful to me... My odd classo of druid/monk was an experiment, that is looking to fail at the moment, based on that information.
 
@@ -432,13 +432,13 @@ EDIT: Str is my last stat, and yeah, I'd be happy to try and compare the prime a
 
 </div>
 
-<div class="post" data-post-id="30435" data-author="Marvel" data-date="2009-12-06T21:31:51+00:00">
+<div class="post" data-post-id="30435" data-author="Marvel" data-date="2009-12-06T21:31:51+00:00" data-subject="">
 
 Well, our classos aren't that far apart - yours is d/o/c, mine is o/d/c... but the upside is that it will make said testing much easier.  Just ask if I'm on in any form whenever you want to try testing.  Marvel lives on BH.
 
 </div>
 
-<div class="post" data-post-id="30493" data-author="jezer" data-date="2009-12-16T08:24:09+00:00">
+<div class="post" data-post-id="30493" data-author="jezer" data-date="2009-12-16T08:24:09+00:00" data-subject="">
 
 So hows the gripping going Jez, well... I'm glad you asked!
 
@@ -472,7 +472,7 @@ That was with level 37 secondary monk, 16str and 6 damage. Now that I can JUST g
 
 </div>
 
-<div class="post" data-post-id="30494" data-author="Toxis" data-date="2009-12-16T09:23:15+00:00">
+<div class="post" data-post-id="30494" data-author="Toxis" data-date="2009-12-16T09:23:15+00:00" data-subject="">
 
 On S3 I kept trying to make hybrid characters and well all versions seemed to fail in one way or another.  Sometimes they can be fun, but in the end I take the advice that quite a few people gave to me and that is if you're going to make a druid, play like a druid.  If you're going to make a monk, play like a monk.
 
@@ -482,7 +482,7 @@ On the other hand, if Jezer works out someday and is kickass I will think dr/mo 
 
 </div>
 
-<div class="post" data-post-id="30505" data-author="jezer" data-date="2009-12-18T06:51:15+00:00">
+<div class="post" data-post-id="30505" data-author="jezer" data-date="2009-12-18T06:51:15+00:00" data-subject="Hive">
 
 I took my 18str and +11 dam +9 hit to hive tonight, whiffed 5/6 grips, no splorks. I can't grip a 65k aged xp splork mob. I've since had comments from 4 imms, since my original post, ranging from complete sympathy ~ yeah it could do with a tweak. Anyways, this post was not to moan about death grip again...
 
@@ -490,7 +490,7 @@ I think the ac on hive mobs might need to be looked at, I suspect it might be ef
 
 </div>
 
-<div class="post" data-post-id="30507" data-author="Thraxas" data-date="2009-12-18T09:30:50+00:00">
+<div class="post" data-post-id="30507" data-author="Thraxas" data-date="2009-12-18T09:30:50+00:00" data-subject="">
 
 Hive works well for me as is ... but then I treat as chop.
 
@@ -498,7 +498,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30509" data-author="*juggleblood*" data-date="2009-12-19T14:46:13+00:00">
+<div class="post" data-post-id="30509" data-author="*juggleblood*" data-date="2009-12-19T14:46:13+00:00" data-subject="Re: Hive">
 
 I think the ac on hive mobs might need to be looked at, I suspect it might be effected by that high random ac bug.[/color:3njx4mss][/quote:3njx4mss]
 
@@ -510,7 +510,7 @@ edit: HOLY COW, the mob AC there was ridiculous! Thx Jezer. Working on it now.
 
 </div>
 
-<div class="post" data-post-id="30514" data-author="jezer" data-date="2009-12-20T10:16:52+00:00">
+<div class="post" data-post-id="30514" data-author="jezer" data-date="2009-12-20T10:16:52+00:00" data-subject="Hive - Great area now for low prime Monks!">
 
 Ok, went back to hive tonight, and tested it out. I have to give credit, when credit is due...
 
@@ -528,7 +528,7 @@ Thanks for fix, that area is useful again in my opinion. Check it out low monks.
 
 </div>
 
-<div class="post" data-post-id="30516" data-author="*juggleblood*" data-date="2009-12-20T13:48:38+00:00">
+<div class="post" data-post-id="30516" data-author="*juggleblood*" data-date="2009-12-20T13:48:38+00:00" data-subject="">
 
 I'm glad to hear that.  I'm always open to suggestions on making areas more playable.
 
@@ -536,13 +536,13 @@ on firenewts, it plays out great for other classes as is. I've played it myself 
 
 </div>
 
-<div class="post" data-post-id="30519" data-author="Marvel" data-date="2009-12-20T16:26:16+00:00">
+<div class="post" data-post-id="30519" data-author="Marvel" data-date="2009-12-20T16:26:16+00:00" data-subject="">
 
 Quicklings definitely can be tweaked to do so.  The only way I could even run quicklings at a low level without only doing specific mobs was as a monk prime with flurry, dam reduce sleeves, and fluidity.  It was the only way I could stay alive by doing enough damage with the damage reduction I had to soften all the bashing/gangbanging going on with 2 patrols, commander, and all the guards in the same room beating on you.
 
 </div>
 
-<div class="post" data-post-id="30543" data-author="Jag" data-date="2009-12-27T15:56:01+00:00">
+<div class="post" data-post-id="30543" data-author="Jag" data-date="2009-12-27T15:56:01+00:00" data-subject="">
 
 File this under mobs that may need tweaking.  
 
@@ -556,13 +556,13 @@ If this is the proper level for this mob, I have no problem with it.  Just provi
 
 </div>
 
-<div class="post" data-post-id="30544" data-author="*juggleblood*" data-date="2009-12-28T01:46:51+00:00">
+<div class="post" data-post-id="30544" data-author="*juggleblood*" data-date="2009-12-28T01:46:51+00:00" data-subject="">
 
 How much honor is it worth?
 
 </div>
 
-<div class="post" data-post-id="30545" data-author="hounds" data-date="2009-12-29T00:59:59+00:00">
+<div class="post" data-post-id="30545" data-author="hounds" data-date="2009-12-29T00:59:59+00:00" data-subject="">
 
 A gray raider is dead! R.I.P.
 
@@ -578,7 +578,7 @@ Your blood freezes as you hear a gray raider's death cry.
 
 </div>
 
-<div class="post" data-post-id="30546" data-author="jezer" data-date="2009-12-29T01:06:08+00:00">
+<div class="post" data-post-id="30546" data-author="jezer" data-date="2009-12-29T01:06:08+00:00" data-subject="">
 
 Is it just bad mob ac that is effecting hits at the moment? I think dark covenant needs a look at. Mobs in Zuzu's group yesterday were dying before I even landed one hit!
 
@@ -586,7 +586,7 @@ I frequently miss 2/3 with +7 to hit. Doesn't seem right.
 
 </div>
 
-<div class="post" data-post-id="30552" data-author="*juggleblood*" data-date="2009-12-30T12:56:53+00:00">
+<div class="post" data-post-id="30552" data-author="*juggleblood*" data-date="2009-12-30T12:56:53+00:00" data-subject="">
 
 Is it just bad mob ac that is effecting hits at the moment? I think dark covenant needs a look at. Mobs in Zuzu's group yesterday were dying before I even landed one hit!
 
@@ -598,7 +598,7 @@ Regarding the grey raider, I don't see any problem. It's a little on the thick s
 
 </div>
 
-<div class="post" data-post-id="30555" data-author="*juggleblood*" data-date="2009-12-30T23:53:57+00:00">
+<div class="post" data-post-id="30555" data-author="*juggleblood*" data-date="2009-12-30T23:53:57+00:00" data-subject="">
 
 Ok this is fixed. Someone has pointed out that a similar problem exists in theris. I will attack that one tomorrow evening.
 
@@ -608,7 +608,7 @@ I think if you had more hit you'd be nailing more grips/stabs there.
 
 </div>
 
-<div class="post" data-post-id="30604" data-author="jezer" data-date="2010-01-09T06:03:53+00:00">
+<div class="post" data-post-id="30604" data-author="jezer" data-date="2010-01-09T06:03:53+00:00" data-subject="">
 
 I ran a few squares to kobolds tonight, to grab a corpse for Peri, I was in regen and this is how it worked out.
 
@@ -642,7 +642,7 @@ A failed splork on a kobold. 16str +5 dam.
 
 </div>
 
-<div class="post" data-post-id="30609" data-author="Leaf" data-date="2010-01-10T01:40:33+00:00">
+<div class="post" data-post-id="30609" data-author="Leaf" data-date="2010-01-10T01:40:33+00:00" data-subject="">
 
 I was surprised to see Jezer mention Fable :P
 
@@ -676,7 +676,7 @@ Will >: )-~
 
 </div>
 
-<div class="post" data-post-id="30611" data-author="jezer" data-date="2010-01-10T10:38:52+00:00">
+<div class="post" data-post-id="30611" data-author="jezer" data-date="2010-01-10T10:38:52+00:00" data-subject="">
 
 I did some testing with Kirah in the arena tonight. A bunch of things were found out.
 
@@ -712,7 +712,7 @@ I'm not sure if songs ever worked with deathgrip before monks were nerfed... but
 
 </div>
 
-<div class="post" data-post-id="30774" data-author="jezer" data-date="2010-02-01T08:38:33+00:00">
+<div class="post" data-post-id="30774" data-author="jezer" data-date="2010-02-01T08:38:33+00:00" data-subject="">
 
 I'm not going to quit bringing up this crap till it's fixed.
 
@@ -840,7 +840,7 @@ You are affected by the following spells:
 
 </div>
 
-<div class="post" data-post-id="30775" data-author="Tuck" data-date="2010-02-01T08:56:51+00:00">
+<div class="post" data-post-id="30775" data-author="Tuck" data-date="2010-02-01T08:56:51+00:00" data-subject="">
 
 [quote:162l4bmp]You get a leather wrist guard from the corpse of the kobold sage that's on the ground.
 
@@ -850,7 +850,7 @@ DOUBLE POP!!!!!
 
 </div>
 
-<div class="post" data-post-id="30777" data-author="Acedia" data-date="2010-02-01T09:42:36+00:00">
+<div class="post" data-post-id="30777" data-author="Acedia" data-date="2010-02-01T09:42:36+00:00" data-subject="">
 
 [quote:j62gtwfc]This is a failed splork on the kobold sage... a 33k mob with 18 str and +14 damage by a 3x40 secondary monk. [/quote:j62gtwfc]
 
@@ -872,7 +872,7 @@ It's just a skill.  No one said it had to rival stab, or anything else for that 
 
 </div>
 
-<div class="post" data-post-id="30780" data-author="jezer" data-date="2010-02-01T17:44:37+00:00">
+<div class="post" data-post-id="30780" data-author="jezer" data-date="2010-02-01T17:44:37+00:00" data-subject="">
 
 beats blowing 75/200 mana on winds and then another 100 or so healing myself. It's just a skill.  No one said it had to rival stab, or anything else for that matter.[/quote:1u2n78g4]
 
@@ -942,7 +942,7 @@ Two fireballs = +14 dam 18 str Deathgrip, interesting equation.
 
 </div>
 
-<div class="post" data-post-id="30802" data-author="Tuck" data-date="2010-02-02T14:51:19+00:00">
+<div class="post" data-post-id="30802" data-author="Tuck" data-date="2010-02-02T14:51:19+00:00" data-subject="">
 
 [quote:4aq1giry]You get a strange triangular shaped token from the corpse of the kobold sage that's on the ground.
 
@@ -956,7 +956,7 @@ ZOMG! DOUBLE POP AGAIN!
 
 </div>
 
-<div class="post" data-post-id="30899" data-author="jezer" data-date="2010-02-18T02:15:13+00:00">
+<div class="post" data-post-id="30899" data-author="jezer" data-date="2010-02-18T02:15:13+00:00" data-subject="">
 
 <540hp 200ma 129mv -8al -2.4ac +15dam +48mr 276836408xp>
 
@@ -998,13 +998,13 @@ Whats going on imms?  :shock:   :evil:
 
 </div>
 
-<div class="post" data-post-id="30900" data-author="*juggleblood*" data-date="2010-02-18T05:34:17+00:00">
+<div class="post" data-post-id="30900" data-author="*juggleblood*" data-date="2010-02-18T05:34:17+00:00" data-subject="">
 
 hard to say. what damage are you getting on your strikes in the arena?
 
 </div>
 
-<div class="post" data-post-id="30903" data-author="jezer" data-date="2010-02-18T09:18:46+00:00">
+<div class="post" data-post-id="30903" data-author="jezer" data-date="2010-02-18T09:18:46+00:00" data-subject="">
 
 An average strike does about 70hp.
 
@@ -1016,7 +1016,7 @@ Lets assume he regened on tick. It still wouldn't make sense. Stunned is like 0 
 
 </div>
 
-<div class="post" data-post-id="30905" data-author="Gimlet" data-date="2010-02-18T14:04:23+00:00">
+<div class="post" data-post-id="30905" data-author="Gimlet" data-date="2010-02-18T14:04:23+00:00" data-subject="">
 
 correct me if i'm wrong,
 
@@ -1026,13 +1026,13 @@ as far as I know +15 hand damage isn't very much even for a monk prime, so as a 
 
 </div>
 
-<div class="post" data-post-id="30906" data-author="*juggleblood*" data-date="2010-02-18T14:28:11+00:00">
+<div class="post" data-post-id="30906" data-author="*juggleblood*" data-date="2010-02-18T14:28:11+00:00" data-subject="">
 
 that would make sense that you can't strike and deathgrip at the same time. This would be testable in the arena. If you see me online ping me and I'll bring along a noob to kill. It's easier to figure such stuff out like that than it is for a coder to find it.
 
 </div>
 
-<div class="post" data-post-id="30907" data-author="jezer" data-date="2010-02-18T17:00:20+00:00">
+<div class="post" data-post-id="30907" data-author="jezer" data-date="2010-02-18T17:00:20+00:00" data-subject="">
 
 But from what I recall, the damage dealt from strikes or other hits are greatly reduced while u're in the process of gripping a mob[/quote:y1imd4hd]
 
@@ -1050,13 +1050,13 @@ Is it possible the mob regened 45hp on the round from being stunned? We have all
 
 </div>
 
-<div class="post" data-post-id="30908" data-author="*juggleblood*" data-date="2010-02-19T22:39:47+00:00">
+<div class="post" data-post-id="30908" data-author="*juggleblood*" data-date="2010-02-19T22:39:47+00:00" data-subject="">
 
 of course a mob can regen 45 hp in a round, it would just have to be a fairly large mob.
 
 </div>
 
-<div class="post" data-post-id="30974" data-author="Vixn" data-date="2010-03-19T18:24:43+00:00">
+<div class="post" data-post-id="30974" data-author="Vixn" data-date="2010-03-19T18:24:43+00:00" data-subject="">
 
 I got it 6x times in a raw ending with great lag after each attempt:
 

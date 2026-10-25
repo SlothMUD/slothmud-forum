@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="7082" data-author="Shyla" data-date="2005-06-12T03:46:30+00:00">
+<div class="post" data-post-id="7082" data-author="Shyla" data-date="2005-06-12T03:46:30+00:00" data-subject="Crossroads is now opened">
 
 Asryal had his area opener today for Crossroads.  I can't tell you for sure where it is but somehow it connects to Kozukura on ss.  We hunted xei to get to the beginning of the area.  MInstrel led the evil group and I led the good group.  Or rather the good group led me on a merry chase.  Either way we had an interesting time.
 
@@ -76,7 +76,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="7088" data-author="firebrand" data-date="2005-06-12T14:32:24+00:00">
+<div class="post" data-post-id="7088" data-author="firebrand" data-date="2005-06-12T14:32:24+00:00" data-subject="">
 
 this was hella fun.  very well thought out quest.  the story line was great, the clues were nicely thought out, too - made us think but not too hard.  i had a great time last night and i saw a lot of newbies turn out to join us too.  all in all, i think everyone agreed that they had fun.  good job, asryal, and gtz on your level!
 

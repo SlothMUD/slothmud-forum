@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="10975" data-author="Qa" data-date="2006-02-28T19:02:43+00:00">
+<div class="post" data-post-id="10975" data-author="Qa" data-date="2006-02-28T19:02:43+00:00" data-subject="Take Qa&#x27;s EQ and coins">
 
 Ok, folks.  I like muddung, but my life has changed and I don't have time to group anymore.  As a result, I am need of a couple of high end items, and would like to buy or trade for them.  The goal here is to get me over 900 hp for soloing.
 
@@ -42,7 +42,7 @@ qa_sloth@hotmail.com
 
 </div>
 
-<div class="post" data-post-id="11053" data-author="Qa" data-date="2006-03-04T13:27:34+00:00">
+<div class="post" data-post-id="11053" data-author="Qa" data-date="2006-03-04T13:27:34+00:00" data-subject="">
 
 Updated list...
 

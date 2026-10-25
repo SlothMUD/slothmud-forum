@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="9697" data-author="*Splork*" data-date="2005-12-01T01:25:33+00:00">
+<div class="post" data-post-id="9697" data-author="*Splork*" data-date="2005-12-01T01:25:33+00:00" data-subject="Spell strings">
 
 I need spell strings for the following spells; Frostbolt, Corrosive Tears, Thunder Clap, and Blizzard.
 
@@ -30,7 +30,7 @@ Ill give 5 drachma per string I use....
 
 </div>
 
-<div class="post" data-post-id="9699" data-author="Rynquald" data-date="2005-12-01T02:41:19+00:00">
+<div class="post" data-post-id="9699" data-author="Rynquald" data-date="2005-12-01T02:41:19+00:00" data-subject="">
 
 Firstly, i have never written anything at all before, so these quite possibly may suck :) They might also be a bit long/melodramatic in places, but i like the spells you can get your teath into.
 
@@ -78,7 +78,7 @@ Please don't laugh at me :D
 
 </div>
 
-<div class="post" data-post-id="9996" data-author="Dariel" data-date="2006-01-07T15:11:51+00:00">
+<div class="post" data-post-id="9996" data-author="Dariel" data-date="2006-01-07T15:11:51+00:00" data-subject="frostbolt finishing string">
 
 "Your frosbolt kills a mob."
 
@@ -88,7 +88,7 @@ Anybody got better ideas for the string?
 
 </div>
 
-<div class="post" data-post-id="9999" data-author="Weasel" data-date="2006-01-07T19:11:10+00:00">
+<div class="post" data-post-id="9999" data-author="Weasel" data-date="2006-01-07T19:11:10+00:00" data-subject="">
 
 {mobname} explodes into thousands of icy shards as your frostbolt finishes it off.
 

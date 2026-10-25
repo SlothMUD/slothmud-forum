@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="35992" data-author="Linx" data-date="2015-07-15T16:21:24+00:00">
+<div class="post" data-post-id="35992" data-author="Linx" data-date="2015-07-15T16:21:24+00:00" data-subject="AFFECTS">
 
 Thought I'd share a bit of code I use to display all the Prots currently up and their timers
 
@@ -106,7 +106,7 @@ Linx
 
 </div>
 
-<div class="post" data-post-id="35993" data-author="*Breeze*" data-date="2015-07-16T03:31:11+00:00">
+<div class="post" data-post-id="35993" data-author="*Breeze*" data-date="2015-07-16T03:31:11+00:00" data-subject="Re: AFFECTS">
 
 thanks for sharing Linx.
 
@@ -118,7 +118,7 @@ here is your script in a package importable into mudlet with the package manager
 
 </div>
 
-<div class="post" data-post-id="35995" data-author="Unsub" data-date="2015-07-16T15:21:31+00:00">
+<div class="post" data-post-id="35995" data-author="Unsub" data-date="2015-07-16T15:21:31+00:00" data-subject="Re: AFFECTS">
 
 Awesome stuff for the programmer/players.  At some point, I hope someone will do some stuff for non-programmers (me) and other newbies.  After playing a while, I understand that an enhanced interface is not necessary for me to play and have fun. I do enjoy my sloth.
 
@@ -132,7 +132,7 @@ Anyway, very cool stuff, good of you to share it.
 
 </div>
 
-<div class="post" data-post-id="35996" data-author="*Breeze*" data-date="2015-07-16T15:59:23+00:00">
+<div class="post" data-post-id="35996" data-author="*Breeze*" data-date="2015-07-16T15:59:23+00:00" data-subject="Re: AFFECTS">
 
 > **Unsub wrote:**
 > Awesome stuff for the programmer/players.  At some point, I hope someone will do some stuff for non-programmers (me) and other newbies.  After playing a while, I understand that an enhanced interface is not necessary for me to play and have fun. I do enjoy my sloth.
@@ -157,13 +157,13 @@ Already working on that. Check you pm.
 
 </div>
 
-<div class="post" data-post-id="35997" data-author="Unsub" data-date="2015-07-17T13:38:24+00:00">
+<div class="post" data-post-id="35997" data-author="Unsub" data-date="2015-07-17T13:38:24+00:00" data-subject="Re: AFFECTS">
 
 Thanks Breeze for helping me with Mudlet.  Much appreciated!
 
 </div>
 
-<div class="post" data-post-id="36689" data-author="Madigan" data-date="2016-03-02T20:21:25+00:00">
+<div class="post" data-post-id="36689" data-author="Madigan" data-date="2016-03-02T20:21:25+00:00" data-subject="Re: AFFECTS">
 
 So I stole some of the code from an old mudlet "status window" snippet but I can't seem to get it to work.
 
@@ -188,7 +188,7 @@ Any suggestions on how to get the above data into A miniconsole also?
 
 </div>
 
-<div class="post" data-post-id="36694" data-author="*Breeze*" data-date="2016-03-03T07:41:12+00:00">
+<div class="post" data-post-id="36694" data-author="*Breeze*" data-date="2016-03-03T07:41:12+00:00" data-subject="Re: AFFECTS">
 
 you have to use msdp not atcp. 
 
@@ -212,7 +212,7 @@ will show what the mud is sending. will share part of my mortal script in a few 
 
 </div>
 
-<div class="post" data-post-id="36695" data-author="Madigan" data-date="2016-03-03T07:53:57+00:00">
+<div class="post" data-post-id="36695" data-author="Madigan" data-date="2016-03-03T07:53:57+00:00" data-subject="Re: AFFECTS">
 
 > ***Breeze* wrote:**
 > you have to use msdp not atcp.
@@ -256,7 +256,7 @@ Blix
 
 </div>
 
-<div class="post" data-post-id="36696" data-author="*Breeze*" data-date="2016-03-03T08:03:25+00:00">
+<div class="post" data-post-id="36696" data-author="*Breeze*" data-date="2016-03-03T08:03:25+00:00" data-subject="Re: AFFECTS">
 
 onConnect is mine. 
 
@@ -266,7 +266,7 @@ echo("AffectsWindow",  "Foo:Bar") ;
 
 </div>
 
-<div class="post" data-post-id="36698" data-author="Madigan" data-date="2016-03-03T08:35:52+00:00">
+<div class="post" data-post-id="36698" data-author="Madigan" data-date="2016-03-03T08:35:52+00:00" data-subject="Re: AFFECTS">
 
 > ***Breeze* wrote:**
 > Screenshot.. not really as blurry as it looks but I edited it in cell phone. 
@@ -283,13 +283,13 @@ Yes, BOOM... Exactly THIS is what I was trying to build. I have a tabbed chat wi
 
 </div>
 
-<div class="post" data-post-id="36699" data-author="*Breeze*" data-date="2016-03-03T08:37:33+00:00">
+<div class="post" data-post-id="36699" data-author="*Breeze*" data-date="2016-03-03T08:37:33+00:00" data-subject="Re: AFFECTS">
 
 you should be able  to finish it now. :)
 
 </div>
 
-<div class="post" data-post-id="36700" data-author="Madigan" data-date="2016-03-03T09:13:19+00:00">
+<div class="post" data-post-id="36700" data-author="Madigan" data-date="2016-03-03T09:13:19+00:00" data-subject="Re: AFFECTS">
 
 > ***Breeze* wrote:**
 > you should be able  to finish it now. :)
@@ -322,19 +322,19 @@ PS - if all affects drop - the msdp vars drop too...
 
 </div>
 
-<div class="post" data-post-id="36701" data-author="*Breeze*" data-date="2016-03-03T09:25:36+00:00">
+<div class="post" data-post-id="36701" data-author="*Breeze*" data-date="2016-03-03T09:25:36+00:00" data-subject="Re: AFFECTS">
 
 missing the ; at the end of the commands
 
 </div>
 
-<div class="post" data-post-id="36702" data-author="*Breeze*" data-date="2016-03-03T09:27:24+00:00">
+<div class="post" data-post-id="36702" data-author="*Breeze*" data-date="2016-03-03T09:27:24+00:00" data-subject="Re: AFFECTS">
 
 also iirc you need to use msdp["xxxx"]  INSTEAD  of msdp. xxxx
 
 </div>
 
-<div class="post" data-post-id="36703" data-author="Madigan" data-date="2016-03-03T10:16:26+00:00">
+<div class="post" data-post-id="36703" data-author="Madigan" data-date="2016-03-03T10:16:26+00:00" data-subject="Re: AFFECTS">
 
 > ***Breeze* wrote:**
 > also iirc you need to use msdp["xxxx"]  INSTEAD  of msdp. xxxx
@@ -343,7 +343,7 @@ as far as I can tell it works the same for both syntax's.
 
 </div>
 
-<div class="post" data-post-id="36704" data-author="Madigan" data-date="2016-03-03T11:21:26+00:00">
+<div class="post" data-post-id="36704" data-author="Madigan" data-date="2016-03-03T11:21:26+00:00" data-subject="Re: AFFECTS">
 
 Here is my completed script as an update to both Linx's and Breeze's work. Please feel free to use freely.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="4654" data-author="guest" data-date="2005-02-27T18:42:03+00:00">
+<div class="post" data-post-id="4654" data-author="guest" data-date="2005-02-27T18:42:03+00:00" data-subject="New version - 0.80">
 
 From .net board :
 
@@ -26,13 +26,13 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="4943" data-author="Zimm" data-date="2005-03-09T22:35:30+00:00">
+<div class="post" data-post-id="4943" data-author="Zimm" data-date="2005-03-09T22:35:30+00:00" data-subject="Chat Addon for wintin">
 
 I just was wondering if it was possible to make a chat addon for .NET... If so i will be happy to make it.... Unless you got more time on your hands than i  8)
 
 </div>
 
-<div class="post" data-post-id="4945" data-author="guest" data-date="2005-03-10T03:03:25+00:00">
+<div class="post" data-post-id="4945" data-author="guest" data-date="2005-03-10T03:03:25+00:00" data-subject="">
 
 It would be great to have this, and nobody is working on it right now, it would be great if you could do it. I'm not sure whether you're thinking of a chat addin that works specifically with the Sloth website chat facility or something more general, but either should be reasonably easy. For example it's easy to write an addin that embeds an activeX control in a popup window.
 
@@ -44,7 +44,7 @@ William
 
 </div>
 
-<div class="post" data-post-id="4947" data-author="Weasel" data-date="2005-03-10T03:45:22+00:00">
+<div class="post" data-post-id="4947" data-author="Weasel" data-date="2005-03-10T03:45:22+00:00" data-subject="">
 
 MushClient has that and I believe in a plugin format too, might wanna go check it out.
 

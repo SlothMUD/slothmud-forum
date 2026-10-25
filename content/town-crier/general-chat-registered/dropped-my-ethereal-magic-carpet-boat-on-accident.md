@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="19028" data-author="Shyla" data-date="2007-06-22T03:06:47+00:00">
+<div class="post" data-post-id="19028" data-author="Shyla" data-date="2007-06-22T03:06:47+00:00" data-subject="dropped my ethereal magic carpet *boat* on accident">
 
 Just wanting to know if anyone found an ethereal magic carpet which is a boat in probably lyme.  I am betting I dropped it Wed when i meant to drop ethereal spellbook and didn't notice til today when it said i needed boat :( Now I am trying to refind my carpet. Anyways If anyone did pick up one or possibly has a spare ethereal magic carpet please give shyla or jacinda a holler
 
@@ -20,7 +20,7 @@ Deb aka shyla/jacinda
 
 </div>
 
-<div class="post" data-post-id="19029" data-author="Shyla" data-date="2007-06-22T03:11:07+00:00">
+<div class="post" data-post-id="19029" data-author="Shyla" data-date="2007-06-22T03:11:07+00:00" data-subject="">
 
 Actually I just scrolled back and I did drop it, but I dropped it in BH inn.  I really would like it back if some kind soul was nice enough to see it and pick it up, but like I said earlier I figure I am screwed and it just got lost when mud went down.  SIGH
 
@@ -30,13 +30,13 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="19033" data-author="Autolycos" data-date="2007-06-22T13:11:08+00:00">
+<div class="post" data-post-id="19033" data-author="Autolycos" data-date="2007-06-22T13:11:08+00:00" data-subject="">
 
 Deb,  I think I have one on an alt.  I'll ship it to you  :wink:
 
 </div>
 
-<div class="post" data-post-id="19034" data-author="Shyla" data-date="2007-06-22T16:18:10+00:00">
+<div class="post" data-post-id="19034" data-author="Shyla" data-date="2007-06-22T16:18:10+00:00" data-subject="">
 
 thanks I still can't believe i did it.....well I can believe it just wish it wasn't true snicker 
 
@@ -46,7 +46,7 @@ Deb
 
 </div>
 
-<div class="post" data-post-id="19035" data-author="Autolycos" data-date="2007-06-22T16:48:40+00:00">
+<div class="post" data-post-id="19035" data-author="Autolycos" data-date="2007-06-22T16:48:40+00:00" data-subject="">
 
 no worries, things happen. 
 

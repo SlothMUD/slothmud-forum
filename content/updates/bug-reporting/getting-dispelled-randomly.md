@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36881" data-author="Teron" data-date="2016-04-25T11:48:47+00:00">
+<div class="post" data-post-id="36881" data-author="Teron" data-date="2016-04-25T11:48:47+00:00" data-subject="Getting dispelled randomly">
 
 I was making a small undead army, when I got dispelled incompletely.
 
@@ -28,7 +28,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36883" data-author="Ker" data-date="2016-04-25T15:50:01+00:00">
+<div class="post" data-post-id="36883" data-author="Ker" data-date="2016-04-25T15:50:01+00:00" data-subject="Re: Getting dispelled randomly">
 
 Similar experience points at coliseum - were you following mighty druid?
 
@@ -38,7 +38,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36890" data-author="Teron" data-date="2016-04-26T08:29:25+00:00">
+<div class="post" data-post-id="36890" data-author="Teron" data-date="2016-04-26T08:29:25+00:00" data-subject="Re: Getting dispelled randomly">
 
 Yeah, as it turned out, I was following a mighty druid, who was in the coliseum at the time.
 

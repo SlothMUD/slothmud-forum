@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="17854" data-author="*juggleblood*" data-date="2007-04-07T19:21:32+00:00">
+<div class="post" data-post-id="17854" data-author="*juggleblood*" data-date="2007-04-07T19:21:32+00:00" data-subject="Purloin Modified">
 
 No longer boards you.
 
@@ -24,7 +24,7 @@ Oh...and no more imbues also.
 
 </div>
 
-<div class="post" data-post-id="17870" data-author="Bazilus" data-date="2007-04-08T10:29:54+00:00">
+<div class="post" data-post-id="17870" data-author="Bazilus" data-date="2007-04-08T10:29:54+00:00" data-subject="*sniff*">
 
 It only mean old classo chars lost some power... 
 
@@ -34,7 +34,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="17871" data-author="Bazilus" data-date="2007-04-08T14:06:14+00:00">
+<div class="post" data-post-id="17871" data-author="Bazilus" data-date="2007-04-08T14:06:14+00:00" data-subject="...">
 
 Better say thiefs lost this skill... 150mana on fail or teleported? maybe anything else... :)
 
@@ -44,7 +44,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="17872" data-author="Hades" data-date="2007-04-08T14:55:09+00:00">
+<div class="post" data-post-id="17872" data-author="Hades" data-date="2007-04-08T14:55:09+00:00" data-subject="!!!">
 
 Easy...don't fail :P
 

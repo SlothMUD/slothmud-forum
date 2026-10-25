@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36035" data-author="Yasik" data-date="2015-08-14T20:18:04+00:00">
+<div class="post" data-post-id="36035" data-author="Yasik" data-date="2015-08-14T20:18:04+00:00" data-subject="BH Quester&#x27;s one particular quest">
 
 Hello!
 
@@ -112,7 +112,7 @@ PS. Also "the keyword miniquest" needs to be solved once and for all somehow, I 
 
 </div>
 
-<div class="post" data-post-id="36036" data-author="*juggleblood*" data-date="2015-08-15T00:30:25+00:00">
+<div class="post" data-post-id="36036" data-author="*juggleblood*" data-date="2015-08-15T00:30:25+00:00" data-subject="Re: BH Quester&#x27;s one particular quest">
 
 Those don't get undertaken.  The syntax is ask quester about keyword.
 
@@ -122,7 +122,7 @@ As to the 2nd, "slay" means "kill", unequivocally.
 
 </div>
 
-<div class="post" data-post-id="36037" data-author="Yasik" data-date="2015-08-15T16:16:40+00:00">
+<div class="post" data-post-id="36037" data-author="Yasik" data-date="2015-08-15T16:16:40+00:00" data-subject="Re: BH Quester&#x27;s one particular quest">
 
 We have to do 'undertake' Luna's, he says directly.
 

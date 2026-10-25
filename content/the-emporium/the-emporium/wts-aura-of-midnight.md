@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10084" data-author="Krok" data-date="2006-01-11T18:11:33+00:00">
+<div class="post" data-post-id="10084" data-author="Krok" data-date="2006-01-11T18:11:33+00:00" data-subject="wts aura of midnight">
 
 sorry, one more item..
 

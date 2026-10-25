@@ -10,25 +10,25 @@ locked: false
 post_count: 111
 ---
 
-<div class="post" data-post-id="12435" data-author="13" data-date="2006-05-05T21:16:39+00:00">
+<div class="post" data-post-id="12435" data-author="13" data-date="2006-05-05T21:16:39+00:00" data-subject="Bend over, I&#x27;ll drive..">
 
 I just got off the phone with Medios.  Nice going screwing thieves with the new pth changes.  As if it wasn't hard enough for them already with imms checking IP addies.
 
 </div>
 
-<div class="post" data-post-id="12436" data-author="Mosaix" data-date="2006-05-05T21:48:24+00:00">
+<div class="post" data-post-id="12436" data-author="Mosaix" data-date="2006-05-05T21:48:24+00:00" data-subject="">
 
 Bummer for Sorabji.
 
 </div>
 
-<div class="post" data-post-id="12437" data-author="brady" data-date="2006-05-05T22:17:01+00:00">
+<div class="post" data-post-id="12437" data-author="brady" data-date="2006-05-05T22:17:01+00:00" data-subject="">
 
 Maybe next time, talk about sports or something.
 
 </div>
 
-<div class="post" data-post-id="12442" data-author="Weasel" data-date="2006-05-06T04:46:24+00:00">
+<div class="post" data-post-id="12442" data-author="Weasel" data-date="2006-05-06T04:46:24+00:00" data-subject="">
 
 New changes screwing pthiefs? Oh dear, how sad... 
 
@@ -36,7 +36,7 @@ maybe some people will come back and play now.  :shock:
 
 </div>
 
-<div class="post" data-post-id="12443" data-author="Weasel" data-date="2006-05-06T04:47:32+00:00">
+<div class="post" data-post-id="12443" data-author="Weasel" data-date="2006-05-06T04:47:32+00:00" data-subject="">
 
 Maybe next time, talk about sports or something.[/quote:2w23in9i]
 
@@ -44,19 +44,19 @@ rofl nice  :lol:
 
 </div>
 
-<div class="post" data-post-id="12445" data-author="Medios" data-date="2006-05-06T17:25:20+00:00">
+<div class="post" data-post-id="12445" data-author="Medios" data-date="2006-05-06T17:25:20+00:00" data-subject="">
 
 All I said was that the safe room mobs now attack known pthieves so I havent seen any.
 
 </div>
 
-<div class="post" data-post-id="12446" data-author="13" data-date="2006-05-06T17:27:14+00:00">
+<div class="post" data-post-id="12446" data-author="13" data-date="2006-05-06T17:27:14+00:00" data-subject="">
 
 You oughtta not be shady to Al Broc.  You've pthieved nearly as much shit as him, and some from your friends.
 
 </div>
 
-<div class="post" data-post-id="12447" data-author="Mosaix" data-date="2006-05-06T21:18:32+00:00">
+<div class="post" data-post-id="12447" data-author="Mosaix" data-date="2006-05-06T21:18:32+00:00" data-subject="">
 
 Your a funny guy Aaron.  
 
@@ -64,7 +64,7 @@ Al's a chronic pthief.   You guys share enough characters its hard to tell whos 
 
 </div>
 
-<div class="post" data-post-id="12448" data-author="Mosaix" data-date="2006-05-06T21:20:32+00:00">
+<div class="post" data-post-id="12448" data-author="Mosaix" data-date="2006-05-06T21:20:32+00:00" data-subject="">
 
 Also to be Frank about the matter.  Al was such a turd on sloth 2 he almost got my school site banned for his behavior.  Took 3 immortals from Maryland to plead to not have it done.
 
@@ -72,7 +72,7 @@ I think I will keep my opinion about him, its justified.
 
 </div>
 
-<div class="post" data-post-id="12449" data-author="Mosaix" data-date="2006-05-06T21:23:34+00:00">
+<div class="post" data-post-id="12449" data-author="Mosaix" data-date="2006-05-06T21:23:34+00:00" data-subject="">
 
 Since the soap box is up.  
 
@@ -84,13 +84,13 @@ Thats shady, but hey lesson learned on my end.
 
 </div>
 
-<div class="post" data-post-id="12451" data-author="13" data-date="2006-05-06T22:56:22+00:00">
+<div class="post" data-post-id="12451" data-author="13" data-date="2006-05-06T22:56:22+00:00" data-subject="">
 
 the deal was for the +25 healbonus held high which i gave you, plus the helm of dwarves I threw in since you did me a real kindness with the beer.  what am I missing?
 
 </div>
 
-<div class="post" data-post-id="12454" data-author="Grue" data-date="2006-05-07T03:18:37+00:00">
+<div class="post" data-post-id="12454" data-author="Grue" data-date="2006-05-07T03:18:37+00:00" data-subject="">
 
 I don't know which is saddest, that:
 
@@ -102,7 +102,7 @@ c) That either of think we'd give enough of a fig for you to post this on a web 
 
 </div>
 
-<div class="post" data-post-id="12455" data-author="jezer" data-date="2006-05-07T05:37:48+00:00">
+<div class="post" data-post-id="12455" data-author="jezer" data-date="2006-05-07T05:37:48+00:00" data-subject="">
 
 order sloth flame grue  :twisted: 
 
@@ -120,7 +120,7 @@ Your a classic! keep up the good work.  :D
 
 </div>
 
-<div class="post" data-post-id="12456" data-author="Mustang" data-date="2006-05-07T09:23:23+00:00">
+<div class="post" data-post-id="12456" data-author="Mustang" data-date="2006-05-07T09:23:23+00:00" data-subject="my 2 cents">
 
 alright, since this has turned out to be a thread about me, I'll give my 2 cents about this issue
 
@@ -138,7 +138,7 @@ So here, believe what you want.  If you choose to believe that I'm sorabji and g
 
 </div>
 
-<div class="post" data-post-id="12457" data-author="Mustang" data-date="2006-05-07T09:26:42+00:00">
+<div class="post" data-post-id="12457" data-author="Mustang" data-date="2006-05-07T09:26:42+00:00" data-subject="">
 
 another point:
 
@@ -148,7 +148,7 @@ but I've helped more random people with XP and EQ (giving out or helping them re
 
 </div>
 
-<div class="post" data-post-id="12458" data-author="jezer" data-date="2006-05-07T13:04:37+00:00">
+<div class="post" data-post-id="12458" data-author="jezer" data-date="2006-05-07T13:04:37+00:00" data-subject="">
 
 If you will permit me to make light of an tragic situation...
 
@@ -168,7 +168,7 @@ At least jerry springer made sense.  :D
 
 </div>
 
-<div class="post" data-post-id="12462" data-author="Weasel" data-date="2006-05-07T15:26:35+00:00">
+<div class="post" data-post-id="12462" data-author="Weasel" data-date="2006-05-07T15:26:35+00:00" data-subject="">
 
 There's a moral here somewhere...    
 
@@ -180,7 +180,7 @@ All in all, also a very good example of why I never share characters.
 
 </div>
 
-<div class="post" data-post-id="12463" data-author="Grue" data-date="2006-05-07T16:03:32+00:00">
+<div class="post" data-post-id="12463" data-author="Grue" data-date="2006-05-07T16:03:32+00:00" data-subject="">
 
 "I want to hear what grue has to say about all this! "
 
@@ -196,67 +196,67 @@ That's the reality. Trust is earned, not owed.
 
 </div>
 
-<div class="post" data-post-id="12464" data-author="Mustang" data-date="2006-05-07T16:38:21+00:00">
+<div class="post" data-post-id="12464" data-author="Mustang" data-date="2006-05-07T16:38:21+00:00" data-subject="">
 
 I don't see any reason to hide.  I've been a known (ex-)pthief most of my mud life, but it's also ironic that I should have more friends than alot of self-righteous people (like grue) on the game.
 
 </div>
 
-<div class="post" data-post-id="12465" data-author="Weasel" data-date="2006-05-07T17:07:22+00:00">
+<div class="post" data-post-id="12465" data-author="Weasel" data-date="2006-05-07T17:07:22+00:00" data-subject="">
 
 [img:4sr67qee]http://cs-people.bu.edu/jching/photo/catfight.jpg[/img:4sr67qee]
 
 </div>
 
-<div class="post" data-post-id="12466" data-author="Mystery" data-date="2006-05-07T18:58:06+00:00">
+<div class="post" data-post-id="12466" data-author="Mystery" data-date="2006-05-07T18:58:06+00:00" data-subject="Oh Snap">
 
 [img:2j5kzge0]http://www.funlol.com/pictures/penguin-slap.html[/img:2j5kzge0]
 
 </div>
 
-<div class="post" data-post-id="12467" data-author="Alberich" data-date="2006-05-07T19:09:48+00:00">
+<div class="post" data-post-id="12467" data-author="Alberich" data-date="2006-05-07T19:09:48+00:00" data-subject="">
 
 [img:2ngkjh0z]http://www.picpop.com/gallery/albums/userpics/0822/stupidity.jpg[/img:2ngkjh0z]
 
 </div>
 
-<div class="post" data-post-id="12468" data-author="brady" data-date="2006-05-07T20:32:02+00:00">
+<div class="post" data-post-id="12468" data-author="brady" data-date="2006-05-07T20:32:02+00:00" data-subject="">
 
 [img:253dicwx]http://i6.photobucket.com/albums/y217/mkhan2/Bitchfight.jpg[/img:253dicwx]
 
 </div>
 
-<div class="post" data-post-id="12470" data-author="Grue" data-date="2006-05-08T03:52:50+00:00">
+<div class="post" data-post-id="12470" data-author="Grue" data-date="2006-05-08T03:52:50+00:00" data-subject="">
 
 Yawn. You are a very silly little person if you make assumptions based on what you think you know about people from the Crier, Mustang. I am actually friends with most people on the MUD, they just don't know me as Grue.
 
 </div>
 
-<div class="post" data-post-id="12471" data-author="jezer" data-date="2006-05-08T04:48:41+00:00">
+<div class="post" data-post-id="12471" data-author="jezer" data-date="2006-05-08T04:48:41+00:00" data-subject="">
 
 Reveal yourself gruester!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="12472" data-author="Mustang" data-date="2006-05-08T07:42:24+00:00">
+<div class="post" data-post-id="12472" data-author="Mustang" data-date="2006-05-08T07:42:24+00:00" data-subject="">
 
 Like I said, I don't need to hide, unlike you.
 
 </div>
 
-<div class="post" data-post-id="12473" data-author="12345" data-date="2006-05-08T11:38:20+00:00">
+<div class="post" data-post-id="12473" data-author="12345" data-date="2006-05-08T11:38:20+00:00" data-subject="">
 
 Why hasn't this topic died yet?
 
 </div>
 
-<div class="post" data-post-id="12474" data-author="*juggleblood*" data-date="2006-05-08T12:12:22+00:00">
+<div class="post" data-post-id="12474" data-author="*juggleblood*" data-date="2006-05-08T12:12:22+00:00" data-subject="">
 
 Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.
 
 </div>
 
-<div class="post" data-post-id="12475" data-author="jezer" data-date="2006-05-08T13:09:19+00:00">
+<div class="post" data-post-id="12475" data-author="jezer" data-date="2006-05-08T13:09:19+00:00" data-subject="">
 
 Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.[/quote:fislfjag]
 
@@ -266,7 +266,7 @@ Gimlet no longer owns sorabji, and told me he doesn't know who does. *shrug*
 
 </div>
 
-<div class="post" data-post-id="12476" data-author="Alberich" data-date="2006-05-08T15:02:12+00:00">
+<div class="post" data-post-id="12476" data-author="Alberich" data-date="2006-05-08T15:02:12+00:00" data-subject="">
 
 Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.[/quote:4pockjub]
 
@@ -276,7 +276,7 @@ Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.
 
 </div>
 
-<div class="post" data-post-id="12477" data-author="12345" data-date="2006-05-08T15:19:41+00:00">
+<div class="post" data-post-id="12477" data-author="12345" data-date="2006-05-08T15:19:41+00:00" data-subject="">
 
 Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.[/quote:cpluclvh]
 
@@ -292,7 +292,7 @@ You also lose a wagon full of points for good sense.  There's many reasons why h
 
 </div>
 
-<div class="post" data-post-id="12479" data-author="Mustang" data-date="2006-05-08T16:55:09+00:00">
+<div class="post" data-post-id="12479" data-author="Mustang" data-date="2006-05-08T16:55:09+00:00" data-subject="">
 
 you _CAN_ pkill me and take all my eq, if that's what you really want.  I won't even put up a fight, but my eq pretty much sucks...hehehe.
 
@@ -300,7 +300,7 @@ I'll just start over and get to where I am now in no time
 
 </div>
 
-<div class="post" data-post-id="12480" data-author="*juggleblood*" data-date="2006-05-08T18:09:20+00:00">
+<div class="post" data-post-id="12480" data-author="*juggleblood*" data-date="2006-05-08T18:09:20+00:00" data-subject="">
 
 I (rub) would have a good shot at taking Gimlet if he didn't expect it. Might even take him in a fair fight. Frostbolt hurts.
 
@@ -316,7 +316,7 @@ The truth will set you free.
 
 </div>
 
-<div class="post" data-post-id="12482" data-author="13" data-date="2006-05-08T19:26:45+00:00">
+<div class="post" data-post-id="12482" data-author="13" data-date="2006-05-08T19:26:45+00:00" data-subject="">
 
 Grue,
 
@@ -326,7 +326,7 @@ aren't available nationwide, and I am a *good* beer afficionado.  If I can't get
 
 </div>
 
-<div class="post" data-post-id="12483" data-author="Qa" data-date="2006-05-08T20:17:50+00:00">
+<div class="post" data-post-id="12483" data-author="Qa" data-date="2006-05-08T20:17:50+00:00" data-subject="">
 
 What kind of beer was it, 'stang?
 
@@ -338,7 +338,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="12484" data-author="13" data-date="2006-05-08T21:04:53+00:00">
+<div class="post" data-post-id="12484" data-author="13" data-date="2006-05-08T21:04:53+00:00" data-subject="">
 
 It was some Dogfish Head Midas Touch. I can get Belles Two Hearted and Nut Brown here, but really only like the 2 heart.  What I'd like is some New Glarus
 
@@ -348,7 +348,7 @@ hit me at stomp442@gmail.com to discuss.
 
 </div>
 
-<div class="post" data-post-id="12485" data-author="Medios" data-date="2006-05-08T22:43:45+00:00">
+<div class="post" data-post-id="12485" data-author="Medios" data-date="2006-05-08T22:43:45+00:00" data-subject="">
 
 Theres alot of players here who have pthieved in the past.  I wont even begin to start naming people.  All that aside I think Gimlet has been quite the gentleman lately.  He used to be in our clan before he quit and has always helped me out.  The only problem I ever had with him was his loud mouth on the gossip.  Hes tamed that down alot and now some people start provoking him.  I would rather you guys leave him alone and let him keep being a decent player instead of throwing around a bunch of bullshit and pissin him off.  You guys are always talking about pking someone, but when a real pthief is on you turn your back.  Speaking of real pthiefs, has anyone seen one in the last month?
 
@@ -356,13 +356,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="12486" data-author="Mystery" data-date="2006-05-08T23:01:53+00:00">
+<div class="post" data-post-id="12486" data-author="Mystery" data-date="2006-05-08T23:01:53+00:00" data-subject="Coming Soon">
 
 Anyone notice 13 and Qa fixing to go thru the same thing? It's a vicious cycle. :twisted:
 
 </div>
 
-<div class="post" data-post-id="12487" data-author="jezer" data-date="2006-05-08T23:42:41+00:00">
+<div class="post" data-post-id="12487" data-author="jezer" data-date="2006-05-08T23:42:41+00:00" data-subject="">
 
 Hmm, opportune time to bring this up. I once posted about the arena and asked where it was. Everyone had a good ol' laugh at the n00b. Anyways Krok quoted me, and then added that second line.
 
@@ -384,7 +384,7 @@ Care to enlighten me Mike? Krok?
 
 </div>
 
-<div class="post" data-post-id="12488" data-author="12345" data-date="2006-05-08T23:48:28+00:00">
+<div class="post" data-post-id="12488" data-author="12345" data-date="2006-05-08T23:48:28+00:00" data-subject="">
 
 Or it could be that two of the main members of DoW are Aaron and Gimlet, both of whom are famous retired pthieves.
 
@@ -392,7 +392,7 @@ So no, DoW couldn't possibly have a pthief in it.
 
 </div>
 
-<div class="post" data-post-id="12489" data-author="Medios" data-date="2006-05-09T01:37:35+00:00">
+<div class="post" data-post-id="12489" data-author="Medios" data-date="2006-05-09T01:37:35+00:00" data-subject="">
 
 Is this the same Aaron that had an Imm and wrote Clipper and arbo II and redid demonweb xp?  Oh how could a famous retired pthief ever immort?  Aaron you scoundrel!!  <----Musta lied on his app!!
 
@@ -400,7 +400,7 @@ Is this the same Aaron that had an Imm and wrote Clipper and arbo II and redid d
 
 </div>
 
-<div class="post" data-post-id="12490" data-author="Mosaix" data-date="2006-05-09T01:48:59+00:00">
+<div class="post" data-post-id="12490" data-author="Mosaix" data-date="2006-05-09T01:48:59+00:00" data-subject="">
 
 This nonsense if you read back started cause I said Bummer for Sorabji.
 
@@ -464,7 +464,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="12492" data-author="Harlot" data-date="2006-05-09T02:25:37+00:00">
+<div class="post" data-post-id="12492" data-author="Harlot" data-date="2006-05-09T02:25:37+00:00" data-subject="Got it!">
 
 I agree, pthieving is wrong. I myself am only guilty of loving the wrong person. And no beer wasn't involved but there are other 'vices' just as bad.
 
@@ -472,7 +472,7 @@ Which reminds me, has anyone seen my babies daddy Autlolycos? Our son is growing
 
 </div>
 
-<div class="post" data-post-id="12493" data-author="jezer" data-date="2006-05-09T02:56:10+00:00">
+<div class="post" data-post-id="12493" data-author="jezer" data-date="2006-05-09T02:56:10+00:00" data-subject="">
 
 I am totally confused who is who now.
 
@@ -490,7 +490,7 @@ I am Jezer/Ecko/Jingjitdisk - I post to the board as Jezer - I do not pthief and
 
 </div>
 
-<div class="post" data-post-id="12494" data-author="Mustang" data-date="2006-05-09T03:49:39+00:00">
+<div class="post" data-post-id="12494" data-author="Mustang" data-date="2006-05-09T03:49:39+00:00" data-subject="">
 
 yeah it's funny how after i seemed to have done everything mosaix listed in his list, that i'm good friends with Jake.
 
@@ -500,7 +500,7 @@ as for mosaix, why don't you list what you've done
 
 </div>
 
-<div class="post" data-post-id="12495" data-author="jezer" data-date="2006-05-09T04:02:37+00:00">
+<div class="post" data-post-id="12495" data-author="jezer" data-date="2006-05-09T04:02:37+00:00" data-subject="">
 
 Mustang isn't Mosaix?  :shock: 
 
@@ -508,13 +508,13 @@ You mean there could actually be three people that play this game?
 
 </div>
 
-<div class="post" data-post-id="12496" data-author="Guinex" data-date="2006-05-09T04:13:34+00:00">
+<div class="post" data-post-id="12496" data-author="Guinex" data-date="2006-05-09T04:13:34+00:00" data-subject="">
 
 Damn im thirsty, all that beer talk MMMmmmMMMmmm.
 
 </div>
 
-<div class="post" data-post-id="12497" data-author="jezer" data-date="2006-05-09T04:16:07+00:00">
+<div class="post" data-post-id="12497" data-author="jezer" data-date="2006-05-09T04:16:07+00:00" data-subject="">
 
 order sorabji steal keg guinex 
 
@@ -522,19 +522,19 @@ Devil made him do it!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="12498" data-author="Guinex" data-date="2006-05-09T04:21:11+00:00">
+<div class="post" data-post-id="12498" data-author="Guinex" data-date="2006-05-09T04:21:11+00:00" data-subject="">
 
 I don't have any kegs, but if i find one around i will have the skeleton of a pthief hook ya up.
 
 </div>
 
-<div class="post" data-post-id="12499" data-author="Mosaix" data-date="2006-05-09T04:47:51+00:00">
+<div class="post" data-post-id="12499" data-author="Mosaix" data-date="2006-05-09T04:47:51+00:00" data-subject="">
 
 Mosaix is Mosaix/Osaka/Endor
 
 </div>
 
-<div class="post" data-post-id="12500" data-author="Mosaix" data-date="2006-05-09T05:08:09+00:00">
+<div class="post" data-post-id="12500" data-author="Mosaix" data-date="2006-05-09T05:08:09+00:00" data-subject="">
 
 Mike,
 
@@ -546,13 +546,13 @@ Elwood's last logon was Mon Apr  4 07:24:24 2005
 
 </div>
 
-<div class="post" data-post-id="12501" data-author="Elsie" data-date="2006-05-09T08:32:19+00:00">
+<div class="post" data-post-id="12501" data-author="Elsie" data-date="2006-05-09T08:32:19+00:00" data-subject="">
 
 Oh dear I'm so confused now ...
 
 </div>
 
-<div class="post" data-post-id="12502" data-author="Harlot" data-date="2006-05-09T11:07:07+00:00">
+<div class="post" data-post-id="12502" data-author="Harlot" data-date="2006-05-09T11:07:07+00:00" data-subject="Elsie">
 
 poolp isn't derro
 
@@ -564,7 +564,7 @@ Got it?
 
 </div>
 
-<div class="post" data-post-id="12503" data-author="*Splork*" data-date="2006-05-09T11:12:45+00:00">
+<div class="post" data-post-id="12503" data-author="*Splork*" data-date="2006-05-09T11:12:45+00:00" data-subject="">
 
 Elwood was a good Imm, the reason for his departure had nothing to do with cheating or pthieving.  
 
@@ -576,7 +576,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="12504" data-author="12345" data-date="2006-05-09T12:12:16+00:00">
+<div class="post" data-post-id="12504" data-author="12345" data-date="2006-05-09T12:12:16+00:00" data-subject="">
 
 Watching Jezer be confused is mildly entertaining...
 
@@ -592,7 +592,7 @@ I'm also not in DoW, so if I said anything obviously wrong... oh well, I'm sure 
 
 </div>
 
-<div class="post" data-post-id="12505" data-author="13" data-date="2006-05-09T13:09:02+00:00">
+<div class="post" data-post-id="12505" data-author="13" data-date="2006-05-09T13:09:02+00:00" data-subject="">
 
 Jesus Christ, what a messy slamfest this has become.  I haven't played sloth
 
@@ -682,7 +682,7 @@ Blackwind/13/Karkus/Cocaine
 
 </div>
 
-<div class="post" data-post-id="12506" data-author="Mosaix" data-date="2006-05-09T13:20:53+00:00">
+<div class="post" data-post-id="12506" data-author="Mosaix" data-date="2006-05-09T13:20:53+00:00" data-subject="">
 
 Splork.
 
@@ -692,13 +692,13 @@ What then was the actual reason for that?
 
 </div>
 
-<div class="post" data-post-id="12507" data-author="jezer" data-date="2006-05-09T14:10:43+00:00">
+<div class="post" data-post-id="12507" data-author="jezer" data-date="2006-05-09T14:10:43+00:00" data-subject="">
 
 Aaron, what char of yours could I buy for two cokes and a half a glass of evaporated milk? :|
 
 </div>
 
-<div class="post" data-post-id="12508" data-author="daedalus" data-date="2006-05-09T15:17:26+00:00">
+<div class="post" data-post-id="12508" data-author="daedalus" data-date="2006-05-09T15:17:26+00:00" data-subject="">
 
 As i remember, Jake was becoming real heavy about people voting, there was another mud that we was competing against, well pretty much.  Trying to get more votes than them ect.  some of those players from that other mud decided to post on the crier.  Elwood posted something that i guess was bad sportsmanship that referred to the other mud, which lead to him being passworded.  Tho these details may be a little summarized, it is generally what happened.  
 
@@ -720,13 +720,13 @@ Daedalus
 
 </div>
 
-<div class="post" data-post-id="12509" data-author="13" data-date="2006-05-09T17:32:35+00:00">
+<div class="post" data-post-id="12509" data-author="13" data-date="2006-05-09T17:32:35+00:00" data-subject="">
 
 I'm the only Elwood ever.  You should know immortals aren't allowed to be shared.
 
 </div>
 
-<div class="post" data-post-id="12510" data-author="Grue" data-date="2006-05-09T18:07:24+00:00">
+<div class="post" data-post-id="12510" data-author="Grue" data-date="2006-05-09T18:07:24+00:00" data-subject="">
 
 [i:24fxyzzn]"I wasn't desperate to get wasted. Believe it or not, there are some beers that aren't available nationwide, and I am a *good* beer afficionado. If I can't get it here, I'm happy to trade someone something that's local and easy for me."[/i:24fxyzzn]
 
@@ -734,7 +734,7 @@ I know, I'm just yanking your chain. Although I would have hoped it would have b
 
 </div>
 
-<div class="post" data-post-id="12511" data-author="Weasel" data-date="2006-05-09T18:17:15+00:00">
+<div class="post" data-post-id="12511" data-author="Weasel" data-date="2006-05-09T18:17:15+00:00" data-subject="">
 
 There's also plenty of people in the game that don't have a DoW tag, so acting like they're the Borg is a bit melodramatic.[/quote:tzi3384w]
 
@@ -742,7 +742,7 @@ hehe crack me up that did.. although not a good idea to put quest rewards to the
 
 </div>
 
-<div class="post" data-post-id="12512" data-author="Mosaix" data-date="2006-05-09T18:54:52+00:00">
+<div class="post" data-post-id="12512" data-author="Mosaix" data-date="2006-05-09T18:54:52+00:00" data-subject="">
 
 In your last post, it should be noted that in the same mysterious vault I lost a POY in your vault just after you came back from a break in playing.  It was unfortunate that then your cracked skull lamp also dissapeared.
 
@@ -762,25 +762,25 @@ Broc/Mosaix
 
 </div>
 
-<div class="post" data-post-id="12513" data-author="brady" data-date="2006-05-09T19:57:04+00:00">
+<div class="post" data-post-id="12513" data-author="brady" data-date="2006-05-09T19:57:04+00:00" data-subject="">
 
 You bitches are crazy.
 
 </div>
 
-<div class="post" data-post-id="12514" data-author="Guinex" data-date="2006-05-09T20:12:42+00:00">
+<div class="post" data-post-id="12514" data-author="Guinex" data-date="2006-05-09T20:12:42+00:00" data-subject="">
 
 The Days of our Sloth Lives......to be cotinued
 
 </div>
 
-<div class="post" data-post-id="12515" data-author="13" data-date="2006-05-09T20:24:10+00:00">
+<div class="post" data-post-id="12515" data-author="13" data-date="2006-05-09T20:24:10+00:00" data-subject="">
 
 Listen motherfu cker you still didn't say what else I was supposed to owe you.
 
 </div>
 
-<div class="post" data-post-id="12516" data-author="Medios" data-date="2006-05-09T20:41:28+00:00">
+<div class="post" data-post-id="12516" data-author="Medios" data-date="2006-05-09T20:41:28+00:00" data-subject="">
 
 First of all, im not defending any of Als past actions.  My comment is that he seems to be doing alot better and theres no reason to bring up old stuff that doesnt matter.  Aaron has asked me several times to invite Al back into the clan, he was a member before Mosaix.  As far as the trash talk about DoW,  I remember the stuff you guys say and the next time someone needs help I might not be around.  We can start making this personal if you like.
 
@@ -790,7 +790,7 @@ PS  My clan is about free thinkers, people that can do stuff for themselves.  We
 
 </div>
 
-<div class="post" data-post-id="12517" data-author="*Splork*" data-date="2006-05-09T21:05:46+00:00">
+<div class="post" data-post-id="12517" data-author="*Splork*" data-date="2006-05-09T21:05:46+00:00" data-subject="">
 
 The reason for Elwood's departure or any other Imms for that matter is between admin and that particular Immortal. 
 
@@ -802,31 +802,31 @@ Aaron was the Immortal Elwood...
 
 </div>
 
-<div class="post" data-post-id="12518" data-author="13" data-date="2006-05-09T21:07:35+00:00">
+<div class="post" data-post-id="12518" data-author="13" data-date="2006-05-09T21:07:35+00:00" data-subject="">
 
 Hell, there's really only one whiny baby on this thread, let's just lock 'er up.
 
 </div>
 
-<div class="post" data-post-id="12519" data-author="Weasel" data-date="2006-05-09T21:11:08+00:00">
+<div class="post" data-post-id="12519" data-author="Weasel" data-date="2006-05-09T21:11:08+00:00" data-subject="">
 
 Yeah I agree. Splork, consider yourself incarcerated.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="12520" data-author="*Splork*" data-date="2006-05-09T21:47:11+00:00">
+<div class="post" data-post-id="12520" data-author="*Splork*" data-date="2006-05-09T21:47:11+00:00" data-subject="">
 
 I don't even lock threads when their sole purpose is to rip me a new one, so I am pretty hesitant to lock this one. Especially when I am enjoying the drama :P
 
 </div>
 
-<div class="post" data-post-id="12521" data-author="Mystery" data-date="2006-05-09T22:36:18+00:00">
+<div class="post" data-post-id="12521" data-author="Mystery" data-date="2006-05-09T22:36:18+00:00" data-subject="Root  of the problem">
 
 I blame Splork :twisted:
 
 </div>
 
-<div class="post" data-post-id="12522" data-author="jezer" data-date="2006-05-09T23:43:47+00:00">
+<div class="post" data-post-id="12522" data-author="jezer" data-date="2006-05-09T23:43:47+00:00" data-subject="">
 
 I have also very much enjoyed this post. In fact its been the highlight of my mornings and I check it throughout the day.
 
@@ -840,7 +840,7 @@ Sometimes I think of ditching my southerners tag and joining a clan which could 
 
 </div>
 
-<div class="post" data-post-id="12523" data-author="13" data-date="2006-05-10T01:36:18+00:00">
+<div class="post" data-post-id="12523" data-author="13" data-date="2006-05-10T01:36:18+00:00" data-subject="">
 
 I was just that same way Jezer,only it was Zorich and Alpheus and Strider
 
@@ -848,7 +848,7 @@ and Argent that I wanted to know better.  May Nia and Hectordick rot in peace.
 
 </div>
 
-<div class="post" data-post-id="12524" data-author="Mosaix" data-date="2006-05-10T01:37:04+00:00">
+<div class="post" data-post-id="12524" data-author="Mosaix" data-date="2006-05-10T01:37:04+00:00" data-subject="">
 
 Someone asked me this online, thought it fair to respond here.
 
@@ -866,7 +866,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="12525" data-author="Mustang" data-date="2006-05-10T04:25:51+00:00">
+<div class="post" data-post-id="12525" data-author="Mustang" data-date="2006-05-10T04:25:51+00:00" data-subject="">
 
 Lol
 
@@ -876,13 +876,13 @@ after spending the past few days dissing us and telling us how we suck and how h
 
 </div>
 
-<div class="post" data-post-id="12526" data-author="Mosaix" data-date="2006-05-10T04:29:43+00:00">
+<div class="post" data-post-id="12526" data-author="Mosaix" data-date="2006-05-10T04:29:43+00:00" data-subject="">
 
 Albert dont be an ass.  Read before you attack.  At no point did I slander dow.  Im still not pleased with both of you, and am trying to resolve the issue so we dont perpetually argue with one another.
 
 </div>
 
-<div class="post" data-post-id="12527" data-author="Mustang" data-date="2006-05-10T04:54:23+00:00">
+<div class="post" data-post-id="12527" data-author="Mustang" data-date="2006-05-10T04:54:23+00:00" data-subject="">
 
 yeah it's a real good way of resolving things by digging up ppl's past shit
 
@@ -890,7 +890,7 @@ anyways i'm off this thread, happy flamin
 
 </div>
 
-<div class="post" data-post-id="12528" data-author="Elsie" data-date="2006-05-10T08:00:09+00:00">
+<div class="post" data-post-id="12528" data-author="Elsie" data-date="2006-05-10T08:00:09+00:00" data-subject="">
 
 Once upon a time there was once a little fisher-girl named Calyssa who lived with her grouchy old stepfather in a mud hovel by the sea-shore. Every day he sent her out with her hook and line to catch fish, and she angled and angled; though for herself she preferred to eat fried mushrooms and sourdough toast.
 
@@ -1148,7 +1148,7 @@ The moral of this story is OH GOD I'M CONFUSED !!!!
 
 </div>
 
-<div class="post" data-post-id="12529" data-author="Vixn" data-date="2006-05-10T09:27:08+00:00">
+<div class="post" data-post-id="12529" data-author="Vixn" data-date="2006-05-10T09:27:08+00:00" data-subject="">
 
 Once upon a time... [/quote:1ojdvmy6] 
 
@@ -1156,7 +1156,7 @@ omg Elsie are you crazy? I can't even scroll it down to the end. Do you really t
 
 </div>
 
-<div class="post" data-post-id="12530" data-author="Shara" data-date="2006-05-10T10:36:21+00:00">
+<div class="post" data-post-id="12530" data-author="Shara" data-date="2006-05-10T10:36:21+00:00" data-subject="">
 
 Oh my god I was so into it and then, blaaaaaaaaaaah
 
@@ -1168,7 +1168,7 @@ I demand a real ending!
 
 </div>
 
-<div class="post" data-post-id="12531" data-author="12345" data-date="2006-05-10T11:22:27+00:00">
+<div class="post" data-post-id="12531" data-author="12345" data-date="2006-05-10T11:22:27+00:00" data-subject="">
 
 I was just that same way Jezer,only it was Zorich and Alpheus and Strider
 
@@ -1178,7 +1178,7 @@ Wow... I haven't grouped with Alpheus since 93.  Anyone know what happened to hi
 
 </div>
 
-<div class="post" data-post-id="12533" data-author="13" data-date="2006-05-10T14:06:27+00:00">
+<div class="post" data-post-id="12533" data-author="13" data-date="2006-05-10T14:06:27+00:00" data-subject="">
 
 That's the first I've heard of any rune of the N. or obsidian sleeves.  I remember that you were working on the forge, but I wouldn't have agreed
 
@@ -1188,37 +1188,37 @@ we're gonna have to agree to disagree I guess.
 
 </div>
 
-<div class="post" data-post-id="12534" data-author="Mosaix" data-date="2006-05-10T14:55:42+00:00">
+<div class="post" data-post-id="12534" data-author="Mosaix" data-date="2006-05-10T14:55:42+00:00" data-subject="">
 
 Hi flyin Alpheus hell runs for exp.  sloth 2
 
 </div>
 
-<div class="post" data-post-id="12535" data-author="brady" data-date="2006-05-10T18:20:06+00:00">
+<div class="post" data-post-id="12535" data-author="brady" data-date="2006-05-10T18:20:06+00:00" data-subject="">
 
 [img:3qjy92op]http://www.labstory.net/plate/poop-big.jpg[/img:3qjy92op]
 
 </div>
 
-<div class="post" data-post-id="12536" data-author="Weasel" data-date="2006-05-10T18:29:41+00:00">
+<div class="post" data-post-id="12536" data-author="Weasel" data-date="2006-05-10T18:29:41+00:00" data-subject="">
 
 castrating dogs beyond this point is forbidden?
 
 </div>
 
-<div class="post" data-post-id="12537" data-author="Gimlet" data-date="2006-05-10T18:45:48+00:00">
+<div class="post" data-post-id="12537" data-author="Gimlet" data-date="2006-05-10T18:45:48+00:00" data-subject="">
 
 no playing ping pong with dogs
 
 </div>
 
-<div class="post" data-post-id="12539" data-author="osric" data-date="2006-05-11T05:56:48+00:00">
+<div class="post" data-post-id="12539" data-author="osric" data-date="2006-05-11T05:56:48+00:00" data-subject="">
 
 Ok, tell you what, I'll buy both of you guys a case of beer provided not only the squable subsides, but also the elsie never writes anything like that again ever!  Also you will have to come to Wisconsin for the beer (really it's a small price to pay, afterall you get to enjoy my beloved state)! Actually, Elsie you are also invited, but you will have to drink shots of stoli while writing a new masterpiece on the subject of a cure for the double whiffs! :P
 
 </div>
 
-<div class="post" data-post-id="12540" data-author="Elsie" data-date="2006-05-11T08:45:30+00:00">
+<div class="post" data-post-id="12540" data-author="Elsie" data-date="2006-05-11T08:45:30+00:00" data-subject="">
 
 Thanks, all I've got to say to that is:
 
@@ -1240,31 +1240,31 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="12541" data-author="13" data-date="2006-05-11T12:44:57+00:00">
+<div class="post" data-post-id="12541" data-author="13" data-date="2006-05-11T12:44:57+00:00" data-subject="">
 
 ebalo zavali :(
 
 </div>
 
-<div class="post" data-post-id="12542" data-author="brady" data-date="2006-05-11T15:52:20+00:00">
+<div class="post" data-post-id="12542" data-author="brady" data-date="2006-05-11T15:52:20+00:00" data-subject="">
 
 that's a daf kampf move.
 
 </div>
 
-<div class="post" data-post-id="12551" data-author="Turbo" data-date="2006-05-13T04:07:53+00:00">
+<div class="post" data-post-id="12551" data-author="Turbo" data-date="2006-05-13T04:07:53+00:00" data-subject="">
 
 Clarification of Al/Albert, people are asking if you are referring to me. My real life name is Al/Albert.  I am Turbo on Sloth; I don't have time to read 7 pages of messages on this topic.
 
 </div>
 
-<div class="post" data-post-id="12567" data-author="Qa" data-date="2006-05-15T17:18:57+00:00">
+<div class="post" data-post-id="12567" data-author="Qa" data-date="2006-05-15T17:18:57+00:00" data-subject="">
 
 I liked the story, Elsie.  Thanks.
 
 </div>
 
-<div class="post" data-post-id="12820" data-author="Blackguard" data-date="2006-06-01T14:39:08+00:00">
+<div class="post" data-post-id="12820" data-author="Blackguard" data-date="2006-06-01T14:39:08+00:00" data-subject="">
 
 "YOU STOLE MY CHARACTER"
 
@@ -1284,7 +1284,7 @@ Smoke your asses later,
 
 </div>
 
-<div class="post" data-post-id="12821" data-author="Weasel" data-date="2006-06-01T14:42:52+00:00">
+<div class="post" data-post-id="12821" data-author="Weasel" data-date="2006-06-01T14:42:52+00:00" data-subject="">
 
 fuk off Virus
 
@@ -1292,7 +1292,7 @@ Go on, bring your Lyme pthief back if you aren't still banned - you damaged Slot
 
 </div>
 
-<div class="post" data-post-id="12822" data-author="Blackguard" data-date="2006-06-01T14:46:12+00:00">
+<div class="post" data-post-id="12822" data-author="Blackguard" data-date="2006-06-01T14:46:12+00:00" data-subject="">
 
 fuk off Virus
 
@@ -1304,7 +1304,7 @@ I was by far the most innovative pthief this MUD has ever seen. I think you're j
 
 </div>
 
-<div class="post" data-post-id="12823" data-author="Weasel" data-date="2006-06-01T14:47:43+00:00">
+<div class="post" data-post-id="12823" data-author="Weasel" data-date="2006-06-01T14:47:43+00:00" data-subject="">
 
 Why do you think you were banned? No point playing innocent, there's no need to restate what you already know, heh.
 
@@ -1312,7 +1312,7 @@ Why do you think you were banned? No point playing innocent, there's no need to 
 
 </div>
 
-<div class="post" data-post-id="12824" data-author="Gimlet" data-date="2006-06-01T14:47:58+00:00">
+<div class="post" data-post-id="12824" data-author="Gimlet" data-date="2006-06-01T14:47:58+00:00" data-subject="">
 
 Blackguard's last logon was Tue Sep 20 17:06:42 2005
 
@@ -1322,13 +1322,13 @@ LIESSSSSSSSS!
 
 </div>
 
-<div class="post" data-post-id="12825" data-author="12345" data-date="2006-06-01T14:50:11+00:00">
+<div class="post" data-post-id="12825" data-author="12345" data-date="2006-06-01T14:50:11+00:00" data-subject="">
 
 Let the peon talk, it's the worst he can do and no one cares anyway.
 
 </div>
 
-<div class="post" data-post-id="12826" data-author="Blackguard" data-date="2006-06-01T14:51:58+00:00">
+<div class="post" data-post-id="12826" data-author="Blackguard" data-date="2006-06-01T14:51:58+00:00" data-subject="">
 
 Why do you think you were banned? Don't play innocent, there's no need to restate what you already know.[/quote:1wdam69d]
 
@@ -1348,7 +1348,7 @@ Blackguard
 
 </div>
 
-<div class="post" data-post-id="12827" data-author="Weasel" data-date="2006-06-01T14:53:06+00:00">
+<div class="post" data-post-id="12827" data-author="Weasel" data-date="2006-06-01T14:53:06+00:00" data-subject="">
 
 :roll: 
 
@@ -1356,7 +1356,7 @@ have a nice day.
 
 </div>
 
-<div class="post" data-post-id="12828" data-author="Clink" data-date="2006-06-01T14:54:57+00:00">
+<div class="post" data-post-id="12828" data-author="Clink" data-date="2006-06-01T14:54:57+00:00" data-subject="">
 
 This is clearly personal stuff.  Take it elsewhere.  It is not welcome here.
 
@@ -1366,7 +1366,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="12843" data-author="Krok" data-date="2006-06-02T01:22:23+00:00">
+<div class="post" data-post-id="12843" data-author="Krok" data-date="2006-06-02T01:22:23+00:00" data-subject="">
 
 That's quite a spam and I could barely read it. Elsie, try not to post the long stories! I don't really care about your personal stuff guys, I'm trying to be nice and helpful to all our clannies, but if someone says something bad about DoW, that might cost them.
 
@@ -1376,13 +1376,13 @@ About Tinkles - she got all her eq back after the triggers abuse and that's not 
 
 </div>
 
-<div class="post" data-post-id="12845" data-author="Guinex" data-date="2006-06-02T03:02:29+00:00">
+<div class="post" data-post-id="12845" data-author="Guinex" data-date="2006-06-02T03:02:29+00:00" data-subject="">
 
 What about poor Guinex  *sneef* :cry:
 
 </div>
 
-<div class="post" data-post-id="12846" data-author="Qa" data-date="2006-06-02T03:42:13+00:00">
+<div class="post" data-post-id="12846" data-author="Qa" data-date="2006-06-02T03:42:13+00:00" data-subject="">
 
 Someone quoted me about pths and DoW. I only meant that if a person is in a clan, that doesn't mean he/she can't steal or have another secret char, shrugs. That's about all clans in general.
 
@@ -1396,7 +1396,7 @@ Qa, member of the council of elders of the Golden Tigers.
 
 </div>
 
-<div class="post" data-post-id="12854" data-author="Medios" data-date="2006-06-02T20:55:02+00:00">
+<div class="post" data-post-id="12854" data-author="Medios" data-date="2006-06-02T20:55:02+00:00" data-subject="">
 
 I think Krok simply meant that its almost impossible for clans to police members.  The only way to find out alt chars is to level up an imm, then snoop ips.  This seems a little against the rules.  
 
@@ -1408,25 +1408,25 @@ PS If I catch you fuckin up Al, im gonna smoke you like this phat joint.
 
 </div>
 
-<div class="post" data-post-id="12861" data-author="12345" data-date="2006-06-03T01:30:14+00:00">
+<div class="post" data-post-id="12861" data-author="12345" data-date="2006-06-03T01:30:14+00:00" data-subject="">
 
 The same can be said of DragonSworn.  We're as selective as we can be, but nothing is foolproof.  If you are discovered to be a pthief, I hope you can outrun a relocate.
 
 </div>
 
-<div class="post" data-post-id="12863" data-author="Weasel" data-date="2006-06-03T02:51:39+00:00">
+<div class="post" data-post-id="12863" data-author="Weasel" data-date="2006-06-03T02:51:39+00:00" data-subject="">
 
 Any pthiefs in sMAc will be used as shark bait.
 
 </div>
 
-<div class="post" data-post-id="12865" data-author="Guinex" data-date="2006-06-03T03:06:25+00:00">
+<div class="post" data-post-id="12865" data-author="Guinex" data-date="2006-06-03T03:06:25+00:00" data-subject="">
 
 *smoke* As much as i hate pthieves terrorizing noobs, i really do miss killing them  :(
 
 </div>
 
-<div class="post" data-post-id="12873" data-author="12345" data-date="2006-06-03T16:22:21+00:00">
+<div class="post" data-post-id="12873" data-author="12345" data-date="2006-06-03T16:22:21+00:00" data-subject="">
 
 I wouldn't feel too bad G.  Nor and Jor have been around and are pretty lame.  Nor spent some time trying to hack my scripts so he could force me to quit!, drag me out of a safe area and loot me at will.  I imagine he would have eventually modified it to get me to remove some key equipment if he could have gotten it to work.  While it might have been interesting if he had gotten it to work, I'm pretty sure client rape would have gotten him wiped, banned, or worse.
 
@@ -1436,7 +1436,7 @@ So... you're not missing much.
 
 </div>
 
-<div class="post" data-post-id="12877" data-author="13" data-date="2006-06-04T02:28:38+00:00">
+<div class="post" data-post-id="12877" data-author="13" data-date="2006-06-04T02:28:38+00:00" data-subject="">
 
 Is blackguard that dude I killed a bunch of times?
 

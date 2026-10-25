@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="31813" data-author="jezer" data-date="2010-10-05T19:07:40+00:00">
+<div class="post" data-post-id="31813" data-author="jezer" data-date="2010-10-05T19:07:40+00:00" data-subject="Kill History">
 
 The kill history and age xp system effects soloing by 30-50% on the second run. I personally want to say this is too harsh considering players still undergo the already far to healthy failure rate in nearly everything we do. I crunched some numbers last night. I did a 75m hour run, followed by a second 45m hour, running 4 different areas. Maybe you feel I'm overpowered and 75m is a damn good run, or maybe I'm just not doing it right and your flaming awesome... but that's not the question.
 
@@ -26,13 +26,13 @@ Anyways, Please cast your vote. Watch where you click... Statistics show 15% wil
 
 </div>
 
-<div class="post" data-post-id="31814" data-author="Tuck" data-date="2010-10-05T21:29:33+00:00">
+<div class="post" data-post-id="31814" data-author="Tuck" data-date="2010-10-05T21:29:33+00:00" data-subject="Re: Kill History">
 
 i don't mean to be rude.. but leave as is.
 
 </div>
 
-<div class="post" data-post-id="31815" data-author="Cizin" data-date="2010-10-06T05:10:16+00:00">
+<div class="post" data-post-id="31815" data-author="Cizin" data-date="2010-10-06T05:10:16+00:00" data-subject="Re: Kill History">
 
 i like it as it is.
 
@@ -40,13 +40,13 @@ What is next ? Mobs aging ? Better poprate ? ....
 
 </div>
 
-<div class="post" data-post-id="31816" data-author="Dragoth" data-date="2010-10-06T05:14:42+00:00">
+<div class="post" data-post-id="31816" data-author="Dragoth" data-date="2010-10-06T05:14:42+00:00" data-subject="Re: Kill History">
 
 Where is the increase penalty option ? This poll is biased
 
 </div>
 
-<div class="post" data-post-id="31817" data-author="jezer" data-date="2010-10-06T05:34:57+00:00">
+<div class="post" data-post-id="31817" data-author="jezer" data-date="2010-10-06T05:34:57+00:00" data-subject="Re: Kill History">
 
 > **Cizin wrote:**
 > i like it as it is.
@@ -61,7 +61,7 @@ Start your own poll if you want a moron option Dragoth.
 
 </div>
 
-<div class="post" data-post-id="31823" data-author="Thraxas" data-date="2010-10-06T17:10:32+00:00">
+<div class="post" data-post-id="31823" data-author="Thraxas" data-date="2010-10-06T17:10:32+00:00" data-subject="Re: Kill History">
 
 > **jezer wrote:**
 > The kill history and age xp system effects soloing by 30-50% on the second run. I personally want to say this is too harsh considering players still undergo the already far to healthy failure rate in nearly everything we do. I crunched some numbers last night.
@@ -77,7 +77,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31826" data-author="blackmore" data-date="2010-10-06T18:29:18+00:00">
+<div class="post" data-post-id="31826" data-author="blackmore" data-date="2010-10-06T18:29:18+00:00" data-subject="Re: Kill History">
 
 You're confusing kill history with aged xp.  Kill a mob the first cycle after the mud reboots, then kill them again on repop and report how much of an affect kill history has on the run.
 
@@ -85,7 +85,7 @@ I really dislike kill history, mostly because my solo runs suck hard as it is, a
 
 </div>
 
-<div class="post" data-post-id="31827" data-author="jezer" data-date="2010-10-06T18:47:24+00:00">
+<div class="post" data-post-id="31827" data-author="jezer" data-date="2010-10-06T18:47:24+00:00" data-subject="Re: Kill History">
 
 > **blackmore wrote:**
 > You're confusing kill history with aged xp.  Kill a mob the first cycle after the mud reboots, then kill them again on repop and report how much of an affect kill history has on the run.
@@ -102,7 +102,7 @@ The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over Th
 
 </div>
 
-<div class="post" data-post-id="31830" data-author="*Splork*" data-date="2010-10-06T23:48:00+00:00">
+<div class="post" data-post-id="31830" data-author="*Splork*" data-date="2010-10-06T23:48:00+00:00" data-subject="Re: Kill History">
 
 Actually aged exp can not be, or rather should not be considered a penalty. 
 
@@ -114,13 +114,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31831" data-author="jezer" data-date="2010-10-07T00:26:49+00:00">
+<div class="post" data-post-id="31831" data-author="jezer" data-date="2010-10-07T00:26:49+00:00" data-subject="Re: Kill History">
 
 I can not find the post anywhere. I thought it was actually Jake who posted it. I'm pretty sure it read that mob xp had been lowered, but as a counter, if the mob had been standing around longer it would actually be worth more. Does anyone else recollect that? So for example if a mob had just repopped 0.85 * XP or if it had been standing 1.15 * XP. Was it posted or gossiped?
 
 </div>
 
-<div class="post" data-post-id="31832" data-author="*Splork*" data-date="2010-10-07T04:17:28+00:00">
+<div class="post" data-post-id="31832" data-author="*Splork*" data-date="2010-10-07T04:17:28+00:00" data-subject="Re: Kill History">
 
 Nobody will find the post and I am pretty sure will not remember the gossip( if there was one), as the initial change occurred  on May 6th of 1997 and was coded by Jake himself. The initial change only increased the experience points by 15%. Since then we have increased this several times and now aged exp can grow by nearly 50%.  
 
@@ -128,7 +128,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31833" data-author="jezer" data-date="2010-10-07T06:19:37+00:00">
+<div class="post" data-post-id="31833" data-author="jezer" data-date="2010-10-07T06:19:37+00:00" data-subject="Re: Kill History">
 
 > ***Splork* wrote:**
 > Nobody will find the post and I am pretty sure will not remember the gossip( if there was one), as the initial change occurred  on May 6th of 1997 and was coded by Jake himself. The initial change only increased the experience points by 15%. Since then we have increased this several times and now aged exp can grow by nearly 50%.  
@@ -147,7 +147,7 @@ In any case so far... 40% think the 30-50% difference isn't fair. Of course ya g
 
 </div>
 
-<div class="post" data-post-id="31835" data-author="*Splork*" data-date="2010-10-07T14:06:25+00:00">
+<div class="post" data-post-id="31835" data-author="*Splork*" data-date="2010-10-07T14:06:25+00:00" data-subject="Re: Kill History">
 
 As I tell my two year old son, you can ask the same question 100 different ways, my answer is not going to change.  
 
@@ -163,7 +163,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31836" data-author="Thraxas" data-date="2010-10-07T19:39:17+00:00">
+<div class="post" data-post-id="31836" data-author="Thraxas" data-date="2010-10-07T19:39:17+00:00" data-subject="Re: Kill History">
 
 > ***Splork* wrote:**
 > As I tell my two year old son, you can ask the same question 100 different ways, my answer is not going to change.

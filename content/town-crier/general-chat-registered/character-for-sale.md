@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="19824" data-author="Tetsulunathaya" data-date="2007-08-22T03:13:31+00:00">
+<div class="post" data-post-id="19824" data-author="Tetsulunathaya" data-date="2007-08-22T03:13:31+00:00" data-subject="Character for sale">
 
 trip 18 stats, hardly any drachma spent (only spend 10 on token so far, NO idea why i did that :P). Still needs some skills learned, and levels earned :)
 

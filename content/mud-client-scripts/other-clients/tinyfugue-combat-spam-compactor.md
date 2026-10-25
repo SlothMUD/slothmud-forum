@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30387" data-author="harik" data-date="2009-11-27T14:41:56+00:00">
+<div class="post" data-post-id="30387" data-author="harik" data-date="2009-11-27T14:41:56+00:00" data-subject="Tinyfugue combat spam compactor">
 
 [code:3jzqlsio]******
 

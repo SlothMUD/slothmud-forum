@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="3965" data-author="12345" data-date="2005-01-26T15:02:21+00:00">
+<div class="post" data-post-id="3965" data-author="12345" data-date="2005-01-26T15:02:21+00:00" data-subject="Rerolling">
 
 Seems like everyone I know has at least one char rerolling, and with all the new folks lately, I was just curious how many folks are scrounging for tokens.
 
@@ -18,7 +18,7 @@ Refer to poll.
 
 </div>
 
-<div class="post" data-post-id="3966" data-author="Qa" data-date="2005-01-26T15:47:28+00:00">
+<div class="post" data-post-id="3966" data-author="Qa" data-date="2005-01-26T15:47:28+00:00" data-subject="">
 
 Thank goodness it is just one for me.  (And why isn't it ZERO?)  Who could ever stand to be rolling more than one at a time?
 
@@ -26,13 +26,13 @@ Thank goodness it is just one for me.  (And why isn't it ZERO?)  Who could ever 
 
 </div>
 
-<div class="post" data-post-id="3967" data-author="Alberich" data-date="2005-01-26T15:57:04+00:00">
+<div class="post" data-post-id="3967" data-author="Alberich" data-date="2005-01-26T15:57:04+00:00" data-subject="">
 
 you forgot the option for "i have crappy stats but am too lazy to keep going'... i play 2 of those :)
 
 </div>
 
-<div class="post" data-post-id="3970" data-author="12345" data-date="2005-01-26T16:18:56+00:00">
+<div class="post" data-post-id="3970" data-author="12345" data-date="2005-01-26T16:18:56+00:00" data-subject="">
 
 you forgot the option for "i have crappy stats but am too lazy to keep going'... i play 2 of those :)[/quote:1nh2dsc5]
 

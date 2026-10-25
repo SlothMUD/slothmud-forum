@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="20325" data-author="Tap" data-date="2007-09-20T00:09:14+00:00">
+<div class="post" data-post-id="20325" data-author="Tap" data-date="2007-09-20T00:09:14+00:00" data-subject="Stupid is that stupid does sir">
 
 [b:20bpoi60][u:20bpoi60]Bonds: Man who bought record-breaking home run ball is an 'idiot'[/size:20bpoi60][/u:20bpoi60][/b:20bpoi60]
 
@@ -30,19 +30,19 @@ Survey says !!![/size:20bpoi60]
 
 </div>
 
-<div class="post" data-post-id="20326" data-author="13" data-date="2007-09-20T03:36:50+00:00">
+<div class="post" data-post-id="20326" data-author="13" data-date="2007-09-20T03:36:50+00:00" data-subject="">
 
 report more fully dork
 
 </div>
 
-<div class="post" data-post-id="20327" data-author="Weasel" data-date="2007-09-20T03:38:09+00:00">
+<div class="post" data-post-id="20327" data-author="Weasel" data-date="2007-09-20T03:38:09+00:00" data-subject="">
 
 don't encourage him  :shock:
 
 </div>
 
-<div class="post" data-post-id="20328" data-author="Tap" data-date="2007-09-20T10:12:34+00:00">
+<div class="post" data-post-id="20328" data-author="Tap" data-date="2007-09-20T10:12:34+00:00" data-subject="">
 
 Nebraska state senator sues God[\size]
 
@@ -54,13 +54,13 @@ The Omaha senator, who skips morning prayers during the legislative session and 
 
 </div>
 
-<div class="post" data-post-id="20329" data-author="13" data-date="2007-09-20T12:50:57+00:00">
+<div class="post" data-post-id="20329" data-author="13" data-date="2007-09-20T12:50:57+00:00" data-subject="">
 
 great..this really is a stupid thread.
 
 </div>
 
-<div class="post" data-post-id="20343" data-author="Tap" data-date="2007-09-21T22:06:49+00:00">
+<div class="post" data-post-id="20343" data-author="Tap" data-date="2007-09-21T22:06:49+00:00" data-subject="This just in.... UPDATE!!!">
 
 'God' apparently responds to lawsuit[/size:1sbsx9go]
 
@@ -86,7 +86,7 @@ Attempts to reach Chambers by phone and at his Capitol office Thursday were unsu
 
 </div>
 
-<div class="post" data-post-id="20353" data-author="Tap" data-date="2007-09-23T15:22:55+00:00">
+<div class="post" data-post-id="20353" data-author="Tap" data-date="2007-09-23T15:22:55+00:00" data-subject="">
 
 I was doing a wikipedia on warez and came across this little gem.
 

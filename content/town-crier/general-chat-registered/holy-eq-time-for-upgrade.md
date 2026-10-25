@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="9565" data-author="jezer" data-date="2005-11-18T05:00:14+00:00">
+<div class="post" data-post-id="9565" data-author="jezer" data-date="2005-11-18T05:00:14+00:00" data-subject="Holy Eq - Time For Upgrade?">
 
 Hmm... I gotta a newbie I am looking to get to -8 on VK. Currently -7.4. I figure I can do this with a few more items and some holy eq. So I look at the holy eq list... In just about everycase eq I can wear at Ad restricts has a better armor class than all of the holy eq items except for....
 
@@ -44,13 +44,13 @@ Hmm, just some thoughts... What are your opinions?
 
 </div>
 
-<div class="post" data-post-id="9566" data-author="Guinex" data-date="2005-11-18T05:41:55+00:00">
+<div class="post" data-post-id="9566" data-author="Guinex" data-date="2005-11-18T05:41:55+00:00" data-subject="">
 
 You don't even need holy gear to get -8 on vk.....i have a vk char with -8.1 or sumtin
 
 </div>
 
-<div class="post" data-post-id="9568" data-author="12345" data-date="2005-11-18T05:52:33+00:00">
+<div class="post" data-post-id="9568" data-author="12345" data-date="2005-11-18T05:52:33+00:00" data-subject="Re: Holy Eq - Time For Upgrade?">
 
 Holy Gauntlets  Hands  -0.3 ac, +1 Dam, +20 Moves  
 
@@ -64,7 +64,7 @@ There's more to the game than just AC.  Most thieves only keep AC as high as the
 
 </div>
 
-<div class="post" data-post-id="9570" data-author="Yasik" data-date="2005-11-18T08:56:27+00:00">
+<div class="post" data-post-id="9570" data-author="Yasik" data-date="2005-11-18T08:56:27+00:00" data-subject="">
 
 "HOLY" not equal  "VK restricted"
 
@@ -80,7 +80,7 @@ Jezer, you are plain regular greedy bastard ! :)
 
 </div>
 
-<div class="post" data-post-id="9571" data-author="jezer" data-date="2005-11-18T09:38:44+00:00">
+<div class="post" data-post-id="9571" data-author="jezer" data-date="2005-11-18T09:38:44+00:00" data-subject="">
 
 Yes, dam eq has lower ac, I'm ok with that. I find I only want holy eq for its ac properties though. There is generally easy to get "as good" +dam eq in the game. Hence I think the holy dam eq is under powered. Hmm, what about spicin' it up and giving holy eq some sort of cool proc? Just an idea.
 
@@ -92,7 +92,7 @@ Jezer
 
 </div>
 
-<div class="post" data-post-id="9572" data-author="Vixn" data-date="2005-11-18T10:23:36+00:00">
+<div class="post" data-post-id="9572" data-author="Vixn" data-date="2005-11-18T10:23:36+00:00" data-subject="">
 
 You guys with -8 Valkians... mine posting what you wear to make -8ac? I've been through the eq list and figure I can only make -7.7 without quest/forge/holy eq.
 
@@ -144,13 +144,13 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="9573" data-author="Hades" data-date="2005-11-18T10:36:49+00:00">
+<div class="post" data-post-id="9573" data-author="Hades" data-date="2005-11-18T10:36:49+00:00" data-subject="A val char with -8 armor class?!?">
 
 Real Valker's have -9 :twisted:
 
 </div>
 
-<div class="post" data-post-id="9574" data-author="Vixn" data-date="2005-11-18T10:43:08+00:00">
+<div class="post" data-post-id="9574" data-author="Vixn" data-date="2005-11-18T10:43:08+00:00" data-subject="Re: A val char with -8 armor class?!?">
 
 Real Valker's have -9 :twisted:[/quote:1i1ycpnd]
 
@@ -158,7 +158,7 @@ u forgot about tripple attack and firewind :)
 
 </div>
 
-<div class="post" data-post-id="9577" data-author="Blastem" data-date="2005-11-18T13:52:53+00:00">
+<div class="post" data-post-id="9577" data-author="Blastem" data-date="2005-11-18T13:52:53+00:00" data-subject="">
 
 hrmmm no classo but th/wa could add
 
@@ -172,7 +172,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="9578" data-author="12345" data-date="2005-11-18T15:17:27+00:00">
+<div class="post" data-post-id="9578" data-author="12345" data-date="2005-11-18T15:17:27+00:00" data-subject="">
 
 The troll hide are cool newbie eq.  You can also use the thick iron gaunts (-.4) if you have warrior in classo.  I've heard of -9 Valkers, but I don't think I've met one yet.  Honestly, at -8 you're pretty much good to tank any mob on Valk except the raging elemental (not including shopkeepers, guildmasters, etc).
 
@@ -182,7 +182,7 @@ Also, Yasik isn't kidding about the +dam gloves.  I think I used them a few time
 
 </div>
 
-<div class="post" data-post-id="9579" data-author="Qa" data-date="2005-11-18T15:47:14+00:00">
+<div class="post" data-post-id="9579" data-author="Qa" data-date="2005-11-18T15:47:14+00:00" data-subject="Re: Holy Eq - Time For Upgrade?">
 
 Is it time to have "1x40 holy eq", "avatar holy eq", "newbie holy eq."
 
@@ -194,7 +194,7 @@ No.
 
 </div>
 
-<div class="post" data-post-id="9580" data-author="jezer" data-date="2005-11-18T15:50:18+00:00">
+<div class="post" data-post-id="9580" data-author="jezer" data-date="2005-11-18T15:50:18+00:00" data-subject="">
 
 Thanks for the tips people.
 
@@ -206,7 +206,7 @@ Jezer
 
 </div>
 
-<div class="post" data-post-id="9606" data-author="Aleksey" data-date="2005-11-23T01:41:12+00:00">
+<div class="post" data-post-id="9606" data-author="Aleksey" data-date="2005-11-23T01:41:12+00:00" data-subject="">
 
 IF wearable and nothing to do    
 
@@ -256,7 +256,7 @@ Total -8,0                                       Total -9.2
 
 </div>
 
-<div class="post" data-post-id="9607" data-author="Aleksey" data-date="2005-11-23T02:04:53+00:00">
+<div class="post" data-post-id="9607" data-author="Aleksey" data-date="2005-11-23T02:04:53+00:00" data-subject="">
 
 Ouch what a mess it converts
 

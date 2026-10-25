@@ -10,7 +10,7 @@ locked: true
 post_count: 4
 ---
 
-<div class="post" data-post-id="35500" data-author="Ker" data-date="2014-11-11T07:21:25+00:00">
+<div class="post" data-post-id="35500" data-author="Ker" data-date="2014-11-11T07:21:25+00:00" data-subject="Fargate Skill/Spell">
 
 Hello my favorite people of Sloth,
 
@@ -36,7 +36,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="35501" data-author="*Breeze*" data-date="2014-11-11T07:33:40+00:00">
+<div class="post" data-post-id="35501" data-author="*Breeze*" data-date="2014-11-11T07:33:40+00:00" data-subject="Re: Fargate Skill/Spell">
 
 It's a quest reward to enable special config fargate..
 
@@ -46,7 +46,7 @@ AFAIK noone ever completed it.
 
 </div>
 
-<div class="post" data-post-id="35502" data-author="Ker" data-date="2014-11-11T08:09:22+00:00">
+<div class="post" data-post-id="35502" data-author="Ker" data-date="2014-11-11T08:09:22+00:00" data-subject="Re: Fargate Skill/Spell">
 
 Yay, thank you for the clarification Breeze ;)
 
@@ -56,7 +56,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="35503" data-author="*Breeze*" data-date="2014-11-11T08:53:01+00:00">
+<div class="post" data-post-id="35503" data-author="*Breeze*" data-date="2014-11-11T08:53:01+00:00" data-subject="Re: Fargate Skill/Spell">
 
 Welcome
 

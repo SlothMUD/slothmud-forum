@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="14629" data-author="Alberich" data-date="2006-10-15T16:02:14+00:00">
+<div class="post" data-post-id="14629" data-author="Alberich" data-date="2006-10-15T16:02:14+00:00" data-subject="transformers">
 
 so I've been wondering this all season... but WTF is up with the Fox NFL Transformer-thingie??
 
 </div>
 
-<div class="post" data-post-id="14630" data-author="Autolycos" data-date="2006-10-15T17:51:06+00:00">
+<div class="post" data-post-id="14630" data-author="Autolycos" data-date="2006-10-15T17:51:06+00:00" data-subject="">
 
 [url:2w1tsjdw]http://www.transformersthemovie.com[/url:2w1tsjdw]
 

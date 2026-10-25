@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="34448" data-author="Tuck" data-date="2013-09-25T00:33:12+00:00">
+<div class="post" data-post-id="34448" data-author="Tuck" data-date="2013-09-25T00:33:12+00:00" data-subject="Avatar Perma Light">
 
 Looks like nothing happens when you cast 'dark cloak' on your avatar perma light ability.
 
@@ -20,13 +20,13 @@ Can someone investigate it please, ask Cyprimus for moar info.
 
 </div>
 
-<div class="post" data-post-id="34449" data-author="cyprimus" data-date="2013-09-25T00:35:30+00:00">
+<div class="post" data-post-id="34449" data-author="cyprimus" data-date="2013-09-25T00:35:30+00:00" data-subject="Re: Avatar Perma Light">
 
 Yep.  all i get is a 'nothing seems to happen' message when i cast it on me.
 
 </div>
 
-<div class="post" data-post-id="34450" data-author="Tuck" data-date="2013-09-25T00:45:31+00:00">
+<div class="post" data-post-id="34450" data-author="Tuck" data-date="2013-09-25T00:45:31+00:00" data-subject="Re: Avatar Perma Light">
 
 Thanks Cyp!
 
@@ -36,19 +36,19 @@ Thanks in advance.
 
 </div>
 
-<div class="post" data-post-id="34451" data-author="*juggleblood*" data-date="2013-09-25T16:53:03+00:00">
+<div class="post" data-post-id="34451" data-author="*juggleblood*" data-date="2013-09-25T16:53:03+00:00" data-subject="Re: Avatar Perma Light">
 
 Sorry, you have to buy perma dark cloak now!
 
 </div>
 
-<div class="post" data-post-id="34456" data-author="Burl" data-date="2013-09-27T20:43:17+00:00">
+<div class="post" data-post-id="34456" data-author="Burl" data-date="2013-09-27T20:43:17+00:00" data-subject="Re: Avatar Perma Light">
 
 I haven't bought perma lite because dark cloak isn't on the list to buy and I don't want lite without cloak.  Will it show up if I buy the lite?
 
 </div>
 
-<div class="post" data-post-id="34458" data-author="Tuck" data-date="2013-09-27T23:56:37+00:00">
+<div class="post" data-post-id="34458" data-author="Tuck" data-date="2013-09-27T23:56:37+00:00" data-subject="Re: Avatar Perma Light">
 
 there is no dark cloak in avatar shop.
 
@@ -58,7 +58,7 @@ how to buy it?
 
 </div>
 
-<div class="post" data-post-id="34459" data-author="Tuck" data-date="2013-09-27T23:58:26+00:00">
+<div class="post" data-post-id="34459" data-author="Tuck" data-date="2013-09-27T23:58:26+00:00" data-subject="Re: Avatar Perma Light">
 
 we need it. no kidding.
 
@@ -68,13 +68,13 @@ thanks in advance
 
 </div>
 
-<div class="post" data-post-id="34460" data-author="*Breeze*" data-date="2013-09-28T17:50:13+00:00">
+<div class="post" data-post-id="34460" data-author="*Breeze*" data-date="2013-09-28T17:50:13+00:00" data-subject="Re: Avatar Perma Light">
 
 let me think on it. the tard perma light is probably just lvl50 is my guess
 
 </div>
 
-<div class="post" data-post-id="36311" data-author="Filk" data-date="2015-12-14T01:32:57+00:00">
+<div class="post" data-post-id="36311" data-author="Filk" data-date="2015-12-14T01:32:57+00:00" data-subject="Re: Avatar Perma Light">
 
 I want to bring back that topic into discussion.
 
@@ -86,7 +86,7 @@ Now we have way more 9x40 avatars who could use that permanent sanctuary spell. 
 
 </div>
 
-<div class="post" data-post-id="36314" data-author="Josiah" data-date="2015-12-14T18:02:39+00:00">
+<div class="post" data-post-id="36314" data-author="Josiah" data-date="2015-12-14T18:02:39+00:00" data-subject="Re: Avatar Perma Light">
 
 I'd also like to see perma sanc being dark cloak-able, (or replaced with perma flesh golem... it suits my character's flavor more!)
 
@@ -94,19 +94,19 @@ I'd also like 'darkness' and 'undead visage' added to the list of perma spells.
 
 </div>
 
-<div class="post" data-post-id="36320" data-author="Filk" data-date="2015-12-16T14:02:09+00:00">
+<div class="post" data-post-id="36320" data-author="Filk" data-date="2015-12-16T14:02:09+00:00" data-subject="Re: Avatar Perma Light">
 
 mm. Up? Any official opinion about that question?  :roll:
 
 </div>
 
-<div class="post" data-post-id="36335" data-author="Filk" data-date="2015-12-21T01:53:44+00:00">
+<div class="post" data-post-id="36335" data-author="Filk" data-date="2015-12-21T01:53:44+00:00" data-subject="Re: Avatar Perma Light">
 
 It is that hard to give just an opinion about that question?
 
 </div>
 
-<div class="post" data-post-id="36337" data-author="*Breeze*" data-date="2015-12-21T21:23:10+00:00">
+<div class="post" data-post-id="36337" data-author="*Breeze*" data-date="2015-12-21T21:23:10+00:00" data-subject="Re: Avatar Perma Light">
 
 yes because its not an issue i have time/desire to discuss when you guys dont like my answer..
 
@@ -116,7 +116,7 @@ i don't have the time atm to look for an email from 2013 or so which i may or ma
 
 </div>
 
-<div class="post" data-post-id="36338" data-author="Filk" data-date="2015-12-22T02:08:17+00:00">
+<div class="post" data-post-id="36338" data-author="Filk" data-date="2015-12-22T02:08:17+00:00" data-subject="Re: Avatar Perma Light">
 
 Well. At least its good to know, that i can spend my exp on something else.
 
@@ -126,13 +126,13 @@ Actually, real problem is that you just cant stop that permalight after you buy 
 
 </div>
 
-<div class="post" data-post-id="36342" data-author="Teron" data-date="2015-12-22T13:27:32+00:00">
+<div class="post" data-post-id="36342" data-author="Teron" data-date="2015-12-22T13:27:32+00:00" data-subject="Re: Avatar Perma Light">
 
 I think the obvious choice is to remove the light. Or are spells applied to the character, instead of the light source?
 
 </div>
 
-<div class="post" data-post-id="36363" data-author="Yasik" data-date="2015-12-24T18:22:31+00:00">
+<div class="post" data-post-id="36363" data-author="Yasik" data-date="2015-12-24T18:22:31+00:00" data-subject="Re: Avatar Perma Light">
 
 I'd solve this way:
 

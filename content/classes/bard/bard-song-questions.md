@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="21920" data-author="Widow" data-date="2008-01-09T17:07:24+00:00">
+<div class="post" data-post-id="21920" data-author="Widow" data-date="2008-01-09T17:07:24+00:00" data-subject="Bard song questions">
 
 Couple things - first is that it's interesting with all of the changes to bard songs that nobody's commented on this section since '06.
 
@@ -22,7 +22,7 @@ Oh, a message to the immorts: Give Bards the ability to build off one another! I
 
 </div>
 
-<div class="post" data-post-id="21921" data-author="Leaf" data-date="2008-01-09T18:33:17+00:00">
+<div class="post" data-post-id="21921" data-author="Leaf" data-date="2008-01-09T18:33:17+00:00" data-subject="">
 
 If another Bard is playing the same song, urs wouldn't work.  Also Lions
 
@@ -32,7 +32,7 @@ needs it.  Ooo same with Brothers and Valor too.
 
 </div>
 
-<div class="post" data-post-id="21924" data-author="strider" data-date="2008-01-09T20:51:25+00:00">
+<div class="post" data-post-id="21924" data-author="strider" data-date="2008-01-09T20:51:25+00:00" data-subject="">
 
 Your song can affect as many as nine people.
 
@@ -42,7 +42,7 @@ peace out
 
 </div>
 
-<div class="post" data-post-id="21927" data-author="alias" data-date="2008-01-09T21:43:27+00:00">
+<div class="post" data-post-id="21927" data-author="alias" data-date="2008-01-09T21:43:27+00:00" data-subject="">
 
 Would like sanct for the soul and body, and 7 luck to work more. There are very few higher bards that play and they definitely help the group dynamic.
 
@@ -52,7 +52,7 @@ Alias (Fez)
 
 </div>
 
-<div class="post" data-post-id="21937" data-author="Assirian" data-date="2008-01-10T07:58:25+00:00">
+<div class="post" data-post-id="21937" data-author="Assirian" data-date="2008-01-10T07:58:25+00:00" data-subject="Re: Bard song questions">
 
 There are several instances where I'd target the leader of the group and only affect two people (out of 6) or sometimes even 1, maybe not even the intended target![/quote:1imlqhze]
 
@@ -64,7 +64,7 @@ About charisma infuence.. don't know - i can sing gods for maximum allowed with 
 
 </div>
 
-<div class="post" data-post-id="21945" data-author="Vixn" data-date="2008-01-10T19:01:37+00:00">
+<div class="post" data-post-id="21945" data-author="Vixn" data-date="2008-01-10T19:01:37+00:00" data-subject="">
 
 1. Charisma helps for cry to make more damage. This is only 1 purpose I have noticed. Though it should help for other songs but you'd better test it yourself. As for me I prefer to have charisma on max level when I play my bard.
 
@@ -74,13 +74,13 @@ About charisma infuence.. don't know - i can sing gods for maximum allowed with 
 
 </div>
 
-<div class="post" data-post-id="21947" data-author="alias" data-date="2008-01-10T19:46:22+00:00">
+<div class="post" data-post-id="21947" data-author="alias" data-date="2008-01-10T19:46:22+00:00" data-subject="">
 
 Oghams helps them riposte more.
 
 </div>
 
-<div class="post" data-post-id="21959" data-author="*juggleblood*" data-date="2008-01-11T01:36:37+00:00">
+<div class="post" data-post-id="21959" data-author="*juggleblood*" data-date="2008-01-11T01:36:37+00:00" data-subject="">
 
 I'd like to see dance of the many work on smelly troll in autumnal on vk and pale mother and have success message.
 
@@ -96,7 +96,7 @@ Something like:
 
 </div>
 
-<div class="post" data-post-id="21967" data-author="Widow" data-date="2008-01-11T04:26:21+00:00">
+<div class="post" data-post-id="21967" data-author="Widow" data-date="2008-01-11T04:26:21+00:00" data-subject="">
 
 So, it's interesting because when I target the tank in a group, i get different lists - sometimes the tank (point) alone, sometimes the tank (point) and me. But then if i target others lower on the list below me, I'll only hit one or two. But if I go high on the list, I can hit 4-6. 
 
@@ -108,7 +108,7 @@ Thnx
 
 </div>
 
-<div class="post" data-post-id="21974" data-author="Assirian" data-date="2008-01-11T12:04:35+00:00">
+<div class="post" data-post-id="21974" data-author="Assirian" data-date="2008-01-11T12:04:35+00:00" data-subject="">
 
 Does it matter if those ppl in the group are full or not? Will it automatically target those ppl who need the mana regen?
 
@@ -118,7 +118,7 @@ My expirience said it target everybody sleeping. Full or not.
 
 </div>
 
-<div class="post" data-post-id="21977" data-author="alias" data-date="2008-01-11T15:16:31+00:00">
+<div class="post" data-post-id="21977" data-author="alias" data-date="2008-01-11T15:16:31+00:00" data-subject="">
 
 Part of the problem is described earlier in some aspect, if your singing "gods" and then you target it to a particular person, it will only affect those not already affected. If its a different song than what is being sung then I don't know. I only really have exp w/ fez and he hits 13 which is usually the entire group. (Oghams only seems to affect who I target it to.)
 
@@ -126,7 +126,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="21983" data-author="Widow" data-date="2008-01-11T18:49:47+00:00">
+<div class="post" data-post-id="21983" data-author="Widow" data-date="2008-01-11T18:49:47+00:00" data-subject="">
 
 I appreciate the comments, this has been a big help. I'll watch to see who is sleeping and who is affected by dreams.
 
@@ -140,7 +140,7 @@ Widow
 
 </div>
 
-<div class="post" data-post-id="21984" data-author="Leaf" data-date="2008-01-11T20:46:02+00:00">
+<div class="post" data-post-id="21984" data-author="Leaf" data-date="2008-01-11T20:46:02+00:00" data-subject="">
 
 From my understanding Charisma helps lower the saves a mob would make.
 
@@ -148,7 +148,7 @@ Like Wall of Sleep, Hymn of Artisan, Cry etc...
 
 </div>
 
-<div class="post" data-post-id="21999" data-author="Vixn" data-date="2008-01-12T10:07:47+00:00">
+<div class="post" data-post-id="21999" data-author="Vixn" data-date="2008-01-12T10:07:47+00:00" data-subject="">
 
 I was sure Oghams affect only tank who is on point.
 

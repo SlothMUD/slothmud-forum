@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="29981" data-author="blackmore" data-date="2009-09-12T05:22:47+00:00">
+<div class="post" data-post-id="29981" data-author="blackmore" data-date="2009-09-12T05:22:47+00:00" data-subject="Looted by lyme foot soldier">
 
 There's a foot soldier on lyme that's in posession of my dwarven broad axe.  I would appreciate if someone would be able to get it back for me.
 
@@ -18,13 +18,13 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="29982" data-author="blackmore" data-date="2009-09-12T17:33:17+00:00">
+<div class="post" data-post-id="29982" data-author="blackmore" data-date="2009-09-12T17:33:17+00:00" data-subject="">
 
 Thanks to Shyla's eq group, the foot soldier has been taken care of.
 
 </div>
 
-<div class="post" data-post-id="29983" data-author="Jag" data-date="2009-09-13T12:59:21+00:00">
+<div class="post" data-post-id="29983" data-author="Jag" data-date="2009-09-13T12:59:21+00:00" data-subject="dead in deemonee">
 
 Dead at deemolizard, prob cant get key without eq,  if anyone can  help it would be appreciatged.
 
@@ -32,7 +32,7 @@ Jag
 
 </div>
 
-<div class="post" data-post-id="29984" data-author="Jag" data-date="2009-09-13T13:30:32+00:00">
+<div class="post" data-post-id="29984" data-author="Jag" data-date="2009-09-13T13:30:32+00:00" data-subject="">
 
 thanks Niteraven for boating over and helping.  Much appreciated!!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="21379" data-author="Cizin" data-date="2007-11-22T21:23:33+00:00">
+<div class="post" data-post-id="21379" data-author="Cizin" data-date="2007-11-22T21:23:33+00:00" data-subject="WTB Cobalt Blue Armor">
 
 If yr interested, send me a tell or something.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34907" data-author="Popeye" data-date="2014-03-13T00:26:01+00:00">
+<div class="post" data-post-id="34907" data-author="Popeye" data-date="2014-03-13T00:26:01+00:00" data-subject="A random quest suggestion">
 
 Just throwing this out there.
 

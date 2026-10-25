@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34462" data-author="Tuck" data-date="2013-09-29T22:55:46+00:00">
+<div class="post" data-post-id="34462" data-author="Tuck" data-date="2013-09-29T22:55:46+00:00" data-subject="Script to drop junk from corpses.">
 
 Posting script upon request of cyp and resugram.
 

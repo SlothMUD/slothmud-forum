@@ -10,7 +10,7 @@ locked: false
 post_count: 39
 ---
 
-<div class="post" data-post-id="14509" data-author="*juggleblood*" data-date="2006-10-04T19:55:50+00:00">
+<div class="post" data-post-id="14509" data-author="*juggleblood*" data-date="2006-10-04T19:55:50+00:00" data-subject="Teach your boy Aaron some manners">
 
 Well I guess Karkus/Cocaine ..rl Aaron has a lot of friends on this mud since most the avatars seem to know him by his rl name.
 
@@ -32,7 +32,7 @@ I'm not the most mature person on the mud by far, but at least I'm generally fri
 
 </div>
 
-<div class="post" data-post-id="14510" data-author="13" data-date="2006-10-04T20:20:51+00:00">
+<div class="post" data-post-id="14510" data-author="13" data-date="2006-10-04T20:20:51+00:00" data-subject="">
 
 What the fuck man.  I never agree to lead anything, you put those words
 
@@ -50,7 +50,7 @@ recalling.
 
 </div>
 
-<div class="post" data-post-id="14511" data-author="Medios" data-date="2006-10-04T20:26:34+00:00">
+<div class="post" data-post-id="14511" data-author="Medios" data-date="2006-10-04T20:26:34+00:00" data-subject="">
 
 I can totally understand your frustration, since I have boated before only for Aaron to be afk for hours, or log off.  However real life usually dictates when we can play the mud and sometimes we have to log off with short notice.  
 
@@ -62,7 +62,7 @@ PS  Also if Aaron didnt like you, you would know by now.
 
 </div>
 
-<div class="post" data-post-id="14512" data-author="Diazz_Dizazter" data-date="2006-10-04T20:33:36+00:00">
+<div class="post" data-post-id="14512" data-author="Diazz_Dizazter" data-date="2006-10-04T20:33:36+00:00" data-subject="">
 
 [quote:21dvstd3]PS Also if Aaron didnt like you, you would know by now.
 
@@ -72,7 +72,7 @@ ROFLCOPTER!!
 
 </div>
 
-<div class="post" data-post-id="14513" data-author="13" data-date="2006-10-04T21:06:45+00:00">
+<div class="post" data-post-id="14513" data-author="13" data-date="2006-10-04T21:06:45+00:00" data-subject="">
 
 [quote:7gvrvtu6]ROFLCOPTER!![/quote:7gvrvtu6]
 
@@ -80,7 +80,7 @@ LMFAOMOBILE
 
 </div>
 
-<div class="post" data-post-id="14515" data-author="brand" data-date="2006-10-04T21:42:39+00:00">
+<div class="post" data-post-id="14515" data-author="brand" data-date="2006-10-04T21:42:39+00:00" data-subject="">
 
 It seems lately that unless Minstrel , Krok or Bit is leading, nothing will get done.[/quote:30ffpnw7]
 
@@ -92,7 +92,7 @@ postscript:  i feel like a damn troll.
 
 </div>
 
-<div class="post" data-post-id="14516" data-author="12345" data-date="2006-10-04T21:47:29+00:00">
+<div class="post" data-post-id="14516" data-author="12345" data-date="2006-10-04T21:47:29+00:00" data-subject="">
 
 If it makes you feel any better, Aaron has always been coarse.  Its one of the major reasons everyone knows him. If you want a decent example, I was part of a group that was running xp in ettins with him leading.  He went afk just as Splork noticed that his gjob was set to something vulgar... I don't recall what exactly, but I think he dropped an F-bomb or two.  Splork gave him about 30 seconds to change the gname...
 
@@ -108,7 +108,7 @@ My recommendation: Don't take too much he does personally. He knows what he's do
 
 </div>
 
-<div class="post" data-post-id="14517" data-author="13" data-date="2006-10-04T21:52:55+00:00">
+<div class="post" data-post-id="14517" data-author="13" data-date="2006-10-04T21:52:55+00:00" data-subject="">
 
 Well shit, I didn't know I was generous or nice, I better get to work on fixing
 
@@ -116,7 +116,7 @@ that, thanks Keith!
 
 </div>
 
-<div class="post" data-post-id="14518" data-author="12345" data-date="2006-10-04T21:55:24+00:00">
+<div class="post" data-post-id="14518" data-author="12345" data-date="2006-10-04T21:55:24+00:00" data-subject="">
 
 I think I also mentioned you're mostly a bastard :)
 
@@ -124,19 +124,19 @@ But I'll give you points for style.
 
 </div>
 
-<div class="post" data-post-id="14519" data-author="*juggleblood*" data-date="2006-10-04T21:55:40+00:00">
+<div class="post" data-post-id="14519" data-author="*juggleblood*" data-date="2006-10-04T21:55:40+00:00" data-subject="">
 
 [img:1mlagi1g]http://www.geocities.com/saudixpat/cartman.jpg[/img:1mlagi1g]
 
 </div>
 
-<div class="post" data-post-id="14520" data-author="13" data-date="2006-10-04T22:07:10+00:00">
+<div class="post" data-post-id="14520" data-author="13" data-date="2006-10-04T22:07:10+00:00" data-subject="">
 
 [img:o7m9xe7z]http://www.escapeportal.net/upload/jailbait.jpg[/img:o7m9xe7z]
 
 </div>
 
-<div class="post" data-post-id="14521" data-author="Diazz_Dizazter" data-date="2006-10-04T23:30:56+00:00">
+<div class="post" data-post-id="14521" data-author="Diazz_Dizazter" data-date="2006-10-04T23:30:56+00:00" data-subject="">
 
 [quote:1yxm21jm]For all the warnings, all the punishment that he's endured, and all the criticism, he's never changed. [/quote:1yxm21jm]
 
@@ -166,7 +166,7 @@ Really, really, really, sour, wine.
 
 </div>
 
-<div class="post" data-post-id="14523" data-author="13" data-date="2006-10-04T23:38:13+00:00">
+<div class="post" data-post-id="14523" data-author="13" data-date="2006-10-04T23:38:13+00:00" data-subject="">
 
 yeah I change....
 
@@ -176,13 +176,13 @@ FORM OF A FCKING BONER!
 
 </div>
 
-<div class="post" data-post-id="14531" data-author="osric" data-date="2006-10-05T06:33:52+00:00">
+<div class="post" data-post-id="14531" data-author="osric" data-date="2006-10-05T06:33:52+00:00" data-subject="">
 
 Who the fuck is Aaron?
 
 </div>
 
-<div class="post" data-post-id="14539" data-author="Elsie" data-date="2006-10-05T14:04:08+00:00">
+<div class="post" data-post-id="14539" data-author="Elsie" data-date="2006-10-05T14:04:08+00:00" data-subject="">
 
 [quote:1ouwuazb]If its worthy of it, he will still tell you to **** off and drop dead. 
 
@@ -202,7 +202,7 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="14540" data-author="Avatar" data-date="2006-10-05T14:06:24+00:00">
+<div class="post" data-post-id="14540" data-author="Avatar" data-date="2006-10-05T14:06:24+00:00" data-subject="Sloth training">
 
 I think one of the things that muds can teach is methods to deal with other people.  It's probably impossible to like every single person you find online.  I think it is possible though to learn how to deal with the different personality types that you find online.
 
@@ -210,7 +210,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="14541" data-author="Autolycos" data-date="2006-10-05T14:59:09+00:00">
+<div class="post" data-post-id="14541" data-author="Autolycos" data-date="2006-10-05T14:59:09+00:00" data-subject="">
 
 all too easy...
 
@@ -222,7 +222,7 @@ Brand... you are a damn troll  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14542" data-author="Gimlet" data-date="2006-10-05T15:39:49+00:00">
+<div class="post" data-post-id="14542" data-author="Gimlet" data-date="2006-10-05T15:39:49+00:00" data-subject="">
 
 aaron can appear to be a difficult person to handle.  I've known him since the day i started mudding over 10 years ago.  Through the years, we've had our good times and our bad, but he never holds a grudge against you.  one thing I know is that he stays loyal to his friends, always.  it's a game to him, and should be a game to everyone.  People like melanthe who used to mud 15hrs a day non-stop should really get help.
 
@@ -240,7 +240,7 @@ It's generally unwise for people who are new (less than 2-3 year play time) to t
 
 </div>
 
-<div class="post" data-post-id="14543" data-author="Elsie" data-date="2006-10-05T16:08:33+00:00">
+<div class="post" data-post-id="14543" data-author="Elsie" data-date="2006-10-05T16:08:33+00:00" data-subject="">
 
 Note to elsie (and all other newcomers):[/quote:84am32yz]
 
@@ -258,7 +258,7 @@ you too sweety, and I've always enjoyed mudding trading and chatting with you as
 
 </div>
 
-<div class="post" data-post-id="14545" data-author="Diazz_Dizazter" data-date="2006-10-05T16:54:45+00:00">
+<div class="post" data-post-id="14545" data-author="Diazz_Dizazter" data-date="2006-10-05T16:54:45+00:00" data-subject="">
 
 You get mouthy on public channels, then you best reap what you sow.  
 
@@ -274,7 +274,7 @@ Then again, we would both prosper if this was a pkill mud.
 
 </div>
 
-<div class="post" data-post-id="14546" data-author="Elsie" data-date="2006-10-05T17:37:43+00:00">
+<div class="post" data-post-id="14546" data-author="Elsie" data-date="2006-10-05T17:37:43+00:00" data-subject="">
 
 If you dont want to get yourself in shit, then stfu up gossip.[/quote:2br0ieve]
 
@@ -308,7 +308,7 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="14547" data-author="Popa" data-date="2006-10-05T18:32:29+00:00">
+<div class="post" data-post-id="14547" data-author="Popa" data-date="2006-10-05T18:32:29+00:00" data-subject="">
 
 How about just sucking it up and move on with your lives.  All this whining.. Just play and get exp. eq. or whatever it is you do. Let by-gones be by-gones. This IS just a game... 
 
@@ -316,7 +316,7 @@ now for the important part.. post more half naked young chicks!!!!!!!!!!!! :)
 
 </div>
 
-<div class="post" data-post-id="14548" data-author="Weasel" data-date="2006-10-05T18:40:53+00:00">
+<div class="post" data-post-id="14548" data-author="Weasel" data-date="2006-10-05T18:40:53+00:00" data-subject="">
 
 find a happy place..
 
@@ -324,7 +324,7 @@ find a happy place..
 
 </div>
 
-<div class="post" data-post-id="14549" data-author="13" data-date="2006-10-05T19:45:35+00:00">
+<div class="post" data-post-id="14549" data-author="13" data-date="2006-10-05T19:45:35+00:00" data-subject="">
 
 [quote:8ibfgy10]I hated my dad for hitting me, I hated him more for saying it was ok to hit me because he wouldn't have done it if I didn't deserve it. [/quote:8ibfgy10]
 
@@ -334,7 +334,7 @@ find a happy place..
 
 </div>
 
-<div class="post" data-post-id="14550" data-author="Medios" data-date="2006-10-05T20:43:15+00:00">
+<div class="post" data-post-id="14550" data-author="Medios" data-date="2006-10-05T20:43:15+00:00" data-subject="">
 
 Im really not here to listen about anyone takin an ass whoopin from dad.  My father has been an alcoholic for well over 30 years.  I wont begin to try and muster up sympathy for what he did to me as a child.  I will say this.  Im glad my dad beat my ass good.  Im a stronger person because of it.  If I had not received those various lashings im sure that I would be in prison today.  The fear of power is sometimes the only thing that will deter people from stupidity.  Granted an ass whoopin is not always deserving, it does help you walk the line.  I also get along with my father very well now, I dont hate.
 
@@ -346,13 +346,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="14551" data-author="tincts" data-date="2006-10-05T21:28:04+00:00">
+<div class="post" data-post-id="14551" data-author="tincts" data-date="2006-10-05T21:28:04+00:00" data-subject="">
 
 :shock:
 
 </div>
 
-<div class="post" data-post-id="14552" data-author="Diazz_Dizazter" data-date="2006-10-05T22:20:17+00:00">
+<div class="post" data-post-id="14552" data-author="Diazz_Dizazter" data-date="2006-10-05T22:20:17+00:00" data-subject="">
 
 [quote:1q4kxlyw]Next time say something like, that Diazz his eq sure sux[/quote:1q4kxlyw]
 
@@ -364,13 +364,13 @@ Mine eqz do's suxxor.
 
 </div>
 
-<div class="post" data-post-id="14557" data-author="12345" data-date="2006-10-06T00:18:27+00:00">
+<div class="post" data-post-id="14557" data-author="12345" data-date="2006-10-06T00:18:27+00:00" data-subject="">
 
 I though Diazz was one of the Souls group.
 
 </div>
 
-<div class="post" data-post-id="14558" data-author="Diazz_Dizazter" data-date="2006-10-06T03:34:58+00:00">
+<div class="post" data-post-id="14558" data-author="Diazz_Dizazter" data-date="2006-10-06T03:34:58+00:00" data-subject="">
 
 The Latvians call me 'Soul's Keeper'
 
@@ -378,7 +378,7 @@ They are cool like that.   :D
 
 </div>
 
-<div class="post" data-post-id="14561" data-author="Autolycos" data-date="2006-10-06T12:43:05+00:00">
+<div class="post" data-post-id="14561" data-author="Autolycos" data-date="2006-10-06T12:43:05+00:00" data-subject="">
 
 laff.  too bad the tournaments were a bust..
 
@@ -390,7 +390,7 @@ i can smell a big mc-large huge profit!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14600" data-author="jendead" data-date="2006-10-11T01:34:17+00:00">
+<div class="post" data-post-id="14600" data-author="jendead" data-date="2006-10-11T01:34:17+00:00" data-subject="z0mg">
 
 was browsing Sloth and noticed this thread. I said to myself there was no way in hell it'd be the same Aaron from eons past.. but it apparently is.
 
@@ -400,7 +400,7 @@ Just stopping by to say hi. :o
 
 </div>
 
-<div class="post" data-post-id="14605" data-author="Diazz_Dizazter" data-date="2006-10-11T11:04:46+00:00">
+<div class="post" data-post-id="14605" data-author="Diazz_Dizazter" data-date="2006-10-11T11:04:46+00:00" data-subject="">
 
 Jentai?
 
@@ -408,13 +408,13 @@ hit me at kell.sims@gmail.com
 
 </div>
 
-<div class="post" data-post-id="14606" data-author="13" data-date="2006-10-11T12:29:12+00:00">
+<div class="post" data-post-id="14606" data-author="13" data-date="2006-10-11T12:29:12+00:00" data-subject="">
 
 Xylene :}
 
 </div>
 
-<div class="post" data-post-id="14756" data-author="jendead" data-date="2006-10-26T05:34:07+00:00">
+<div class="post" data-post-id="14756" data-author="jendead" data-date="2006-10-26T05:34:07+00:00" data-subject="">
 
 Haha, Xylene is dead to me. I think Dug or someone has had her for the past like 10 years. :o
 
@@ -422,7 +422,7 @@ I made a little Jendead and I can't even last player.. grr
 
 </div>
 
-<div class="post" data-post-id="14762" data-author="Qa" data-date="2006-10-27T13:53:38+00:00">
+<div class="post" data-post-id="14762" data-author="Qa" data-date="2006-10-27T13:53:38+00:00" data-subject="A call for politeness">
 
 It's generally unwise for people who are new (less than 2-3 year play time) to the mud to get mouthy to the old-schoolers who have mudded for over a century.[/quote:3kyl16ad]
 
@@ -440,25 +440,25 @@ Edit: Hey, Xylene.  How are ya?
 
 </div>
 
-<div class="post" data-post-id="14766" data-author="12345" data-date="2006-10-27T21:40:32+00:00">
+<div class="post" data-post-id="14766" data-author="12345" data-date="2006-10-27T21:40:32+00:00" data-subject="">
 
 Actually, I'd like to see more people trying to learn to lead large groups instead of criticizing folks for trying.  If you're smart enough to criticize, take the lead and show us how it's done.
 
 </div>
 
-<div class="post" data-post-id="14768" data-author="13" data-date="2006-10-27T22:51:51+00:00">
+<div class="post" data-post-id="14768" data-author="13" data-date="2006-10-27T22:51:51+00:00" data-subject="">
 
 I can lead big groups sir.
 
 </div>
 
-<div class="post" data-post-id="14770" data-author="12345" data-date="2006-10-27T23:50:02+00:00">
+<div class="post" data-post-id="14770" data-author="12345" data-date="2006-10-27T23:50:02+00:00" data-subject="">
 
 True, but you're not a newbie either sir.
 
 </div>
 
-<div class="post" data-post-id="14778" data-author="13" data-date="2006-10-28T12:00:09+00:00">
+<div class="post" data-post-id="14778" data-author="13" data-date="2006-10-28T12:00:09+00:00" data-subject="">
 
 Sometimes, that is debatable sir.
 

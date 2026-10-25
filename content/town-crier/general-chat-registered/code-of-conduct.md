@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31749" data-author="Thraxas" data-date="2010-09-12T23:59:13+00:00">
+<div class="post" data-post-id="31749" data-author="Thraxas" data-date="2010-09-12T23:59:13+00:00" data-subject="Code of Conduct">
 
 Slothmud dosent as far as I can see have a formal code of conduct. I wonder if now might be the time to put one in place?
 

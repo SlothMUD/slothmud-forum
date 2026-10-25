@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37910" data-author="*Splork*" data-date="2016-12-29T23:18:45+00:00">
+<div class="post" data-post-id="37910" data-author="*Splork*" data-date="2016-12-29T23:18:45+00:00" data-subject="Gods of War bug fix">
 
 Fixed a bug where Gods of War was actually doing less damage than Lion Chorus for the following skills: backstab, grip, wraithtouch, strike,and circle.
 

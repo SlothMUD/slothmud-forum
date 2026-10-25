@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="8865" data-author="madmax" data-date="2005-09-30T02:47:08+00:00">
+<div class="post" data-post-id="8865" data-author="madmax" data-date="2005-09-30T02:47:08+00:00" data-subject="Corpse Recovery / Suggestion">
 
 While playing Micha this morning, I had an unfortunate accident in on Bal-Harbor that cost me my dear life.  Note to self, don't go check on a spellbook in an area that you are not real familiar wih 10 minutes before a meeting. 
 
@@ -26,7 +26,7 @@ Madmax / Micha
 
 </div>
 
-<div class="post" data-post-id="8866" data-author="rith" data-date="2005-09-30T06:44:29+00:00">
+<div class="post" data-post-id="8866" data-author="rith" data-date="2005-09-30T06:44:29+00:00" data-subject="">
 
 LOL,  
 
@@ -40,7 +40,7 @@ just as a joke. No offence intended (altought i did give some recall scrolls to 
 
 </div>
 
-<div class="post" data-post-id="8876" data-author="Daisy" data-date="2005-10-03T14:29:31+00:00">
+<div class="post" data-post-id="8876" data-author="Daisy" data-date="2005-10-03T14:29:31+00:00" data-subject="">
 
 As an idea:
 
@@ -58,13 +58,13 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="8877" data-author="12345" data-date="2005-10-03T14:36:15+00:00">
+<div class="post" data-post-id="8877" data-author="12345" data-date="2005-10-03T14:36:15+00:00" data-subject="">
 
 I hadn't thought self-CR was completely dead yet...
 
 </div>
 
-<div class="post" data-post-id="8878" data-author="Alberich" data-date="2005-10-03T15:02:47+00:00">
+<div class="post" data-post-id="8878" data-author="Alberich" data-date="2005-10-03T15:02:47+00:00" data-subject="">
 
 self-cr is about as unfasionable as actually popping your own sbs... much easier to simply whine about it until someone takes care of it for you.
 
@@ -72,7 +72,7 @@ as for your other concern, read Rule #2.  If you are dumb enough to loot your ow
 
 </div>
 
-<div class="post" data-post-id="8881" data-author="Grue" data-date="2005-10-03T16:06:23+00:00">
+<div class="post" data-post-id="8881" data-author="Grue" data-date="2005-10-03T16:06:23+00:00" data-subject="">
 
 Just to add some thoughts:
 
@@ -96,7 +96,7 @@ characters, as long as only one character is on at any time."[/i:32sqcfo1]
 
 </div>
 
-<div class="post" data-post-id="8902" data-author="Daisy" data-date="2005-10-04T08:37:05+00:00">
+<div class="post" data-post-id="8902" data-author="Daisy" data-date="2005-10-04T08:37:05+00:00" data-subject="Auto CR">
 
 Grue,
 

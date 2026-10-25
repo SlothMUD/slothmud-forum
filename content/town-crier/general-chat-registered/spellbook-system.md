@@ -10,7 +10,7 @@ locked: false
 post_count: 55
 ---
 
-<div class="post" data-post-id="11403" data-author="*juggleblood*" data-date="2006-03-17T14:23:00+00:00">
+<div class="post" data-post-id="11403" data-author="*juggleblood*" data-date="2006-03-17T14:23:00+00:00" data-subject="Spellbook System">
 
 Am I the only one that doesn't like the Slothmud Spellbook system, i.e. these books and manuals that magically imbue you with abilities and then vaporize after you read them?
 
@@ -32,13 +32,13 @@ etc, etc, etc...
 
 </div>
 
-<div class="post" data-post-id="11405" data-author="kjartan" data-date="2006-03-17T15:29:40+00:00">
+<div class="post" data-post-id="11405" data-author="kjartan" data-date="2006-03-17T15:29:40+00:00" data-subject="">
 
 If you immort and make the quests in question yourself, we would welcome the replacement of any and all spellbook pops with quests of equivalent difficulty.
 
 </div>
 
-<div class="post" data-post-id="11406" data-author="12345" data-date="2006-03-17T15:46:14+00:00">
+<div class="post" data-post-id="11406" data-author="12345" data-date="2006-03-17T15:46:14+00:00" data-subject="">
 
 There's things that I do and don't like about it.  I never really understood the old practice system.  Type 'prac backstab' 8x in 5 seconds and you magically know the skill.  The spellbooks at least has some basis in the original game where, depending on the rules you played with, you could find a spellbook and scribe spells from it to yours.
 
@@ -86,7 +86,7 @@ Of course, I'm only talking about what would be cool.  The current system is wha
 
 </div>
 
-<div class="post" data-post-id="11407" data-author="12345" data-date="2006-03-17T15:47:24+00:00">
+<div class="post" data-post-id="11407" data-author="12345" data-date="2006-03-17T15:47:24+00:00" data-subject="">
 
 If you immort and make the quests in question yourself, we would welcome the replacement of any and all spellbook pops with quests of equivalent difficulty.[/quote:12veaups]
 
@@ -94,7 +94,7 @@ You're serious?
 
 </div>
 
-<div class="post" data-post-id="11408" data-author="Autolycos" data-date="2006-03-17T16:11:02+00:00">
+<div class="post" data-post-id="11408" data-author="Autolycos" data-date="2006-03-17T16:11:02+00:00" data-subject="">
 
 hmmm... it's nice to know that 12345 is as enamored with me as I am..  :shock:  
 
@@ -106,13 +106,13 @@ crippling strike      - Lvl:  1,           Learned  85%  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11409" data-author="Krok" data-date="2006-03-17T16:25:51+00:00">
+<div class="post" data-post-id="11409" data-author="Krok" data-date="2006-03-17T16:25:51+00:00" data-subject="">
 
 I'm afraid people won't pop sbs at all then :)
 
 </div>
 
-<div class="post" data-post-id="11410" data-author="12345" data-date="2006-03-17T16:27:45+00:00">
+<div class="post" data-post-id="11410" data-author="12345" data-date="2006-03-17T16:27:45+00:00" data-subject="">
 
 hmmm... it's nice to know that 12345 is as enamored with me as I am..  :shock: [/quote:2nocbspp]
 
@@ -120,7 +120,7 @@ Amusing, but not possible.  :wink:
 
 </div>
 
-<div class="post" data-post-id="11411" data-author="Clink" data-date="2006-03-17T16:48:10+00:00">
+<div class="post" data-post-id="11411" data-author="Clink" data-date="2006-03-17T16:48:10+00:00" data-subject="">
 
 If you immort and make the quests in question yourself, we would welcome the replacement of any and all spellbook pops with quests of equivalent difficulty.[/quote:146tg9av]
 
@@ -132,7 +132,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="11412" data-author="Autolycos" data-date="2006-03-17T16:51:49+00:00">
+<div class="post" data-post-id="11412" data-author="Autolycos" data-date="2006-03-17T16:51:49+00:00" data-subject="">
 
 I'm afraid people won't pop sbs at all then :)[/quote:3nu9e1x3]
 
@@ -146,13 +146,13 @@ without spellbooks... they will be all gossiping for us to pop eq and stuff for 
 
 </div>
 
-<div class="post" data-post-id="11414" data-author="Krok" data-date="2006-03-17T17:48:20+00:00">
+<div class="post" data-post-id="11414" data-author="Krok" data-date="2006-03-17T17:48:20+00:00" data-subject="">
 
 *drinks poison*
 
 </div>
 
-<div class="post" data-post-id="11417" data-author="kjartan" data-date="2006-03-17T18:21:03+00:00">
+<div class="post" data-post-id="11417" data-author="kjartan" data-date="2006-03-17T18:21:03+00:00" data-subject="">
 
 If you immort and make the quests in question yourself, we would welcome the replacement of any and all spellbook pops with quests of equivalent difficulty.[/quote:1xxx70ls]
 
@@ -162,13 +162,13 @@ Sure I'm serious.  I would much rather see people doing some interesting quest t
 
 </div>
 
-<div class="post" data-post-id="11419" data-author="Guinex" data-date="2006-03-17T18:24:55+00:00">
+<div class="post" data-post-id="11419" data-author="Guinex" data-date="2006-03-17T18:24:55+00:00" data-subject="">
 
 [b:m60407ka]SLOTH IIII[/b:m60407ka] :!:
 
 </div>
 
-<div class="post" data-post-id="11423" data-author="Leaf" data-date="2006-03-17T18:34:34+00:00">
+<div class="post" data-post-id="11423" data-author="Leaf" data-date="2006-03-17T18:34:34+00:00" data-subject="">
 
 [b:3psl7hsm]SLOTH IIII[/b:3psl7hsm] :!:[/quote:3psl7hsm]
 
@@ -178,31 +178,31 @@ EDUMACATION!!!
 
 </div>
 
-<div class="post" data-post-id="11424" data-author="Weasel" data-date="2006-03-17T18:35:59+00:00">
+<div class="post" data-post-id="11424" data-author="Weasel" data-date="2006-03-17T18:35:59+00:00" data-subject="">
 
 sloth fore :)
 
 </div>
 
-<div class="post" data-post-id="11427" data-author="Leaf" data-date="2006-03-17T18:38:59+00:00">
+<div class="post" data-post-id="11427" data-author="Leaf" data-date="2006-03-17T18:38:59+00:00" data-subject="">
 
 Being a four legged animal, one would guess you would know how to spell :)
 
 </div>
 
-<div class="post" data-post-id="11428" data-author="Guinex" data-date="2006-03-17T18:41:15+00:00">
+<div class="post" data-post-id="11428" data-author="Guinex" data-date="2006-03-17T18:41:15+00:00" data-subject="">
 
 I never was good at my roman numerals.
 
 </div>
 
-<div class="post" data-post-id="11429" data-author="Weasel" data-date="2006-03-17T18:41:19+00:00">
+<div class="post" data-post-id="11429" data-author="Weasel" data-date="2006-03-17T18:41:19+00:00" data-subject="">
 
 :twisted:
 
 </div>
 
-<div class="post" data-post-id="11431" data-author="Autolycos" data-date="2006-03-17T19:04:09+00:00">
+<div class="post" data-post-id="11431" data-author="Autolycos" data-date="2006-03-17T19:04:09+00:00" data-subject="">
 
 geeeze  ull thfree uf ewe idgitz ar phawkun stoopuhd..
 
@@ -212,7 +212,7 @@ Sloph phore!![/b:1woh24h3][/i:1woh24h3][/color:1woh24h3][/size:1woh24h3]
 
 </div>
 
-<div class="post" data-post-id="11432" data-author="12345" data-date="2006-03-17T19:15:01+00:00">
+<div class="post" data-post-id="11432" data-author="12345" data-date="2006-03-17T19:15:01+00:00" data-subject="">
 
 ...and there's about a billion spellbooks.[/quote:1d0l4p9v]
 
@@ -220,7 +220,7 @@ Funny you should mention that.... we pretty much feel the same way.
 
 </div>
 
-<div class="post" data-post-id="11434" data-author="Leaf" data-date="2006-03-17T19:21:25+00:00">
+<div class="post" data-post-id="11434" data-author="Leaf" data-date="2006-03-17T19:21:25+00:00" data-subject="">
 
 ...and there's about a billion spellbooks.[/quote:1htk9k8m]
 
@@ -232,7 +232,7 @@ Ur move KJ :)
 
 </div>
 
-<div class="post" data-post-id="11437" data-author="Autolycos" data-date="2006-03-17T19:31:20+00:00">
+<div class="post" data-post-id="11437" data-author="Autolycos" data-date="2006-03-17T19:31:20+00:00" data-subject="">
 
 snicker  :twisted: 
 
@@ -240,7 +240,7 @@ hey Kj,   go cycle a few bro... start with firestorm  :evil:
 
 </div>
 
-<div class="post" data-post-id="11449" data-author="kjartan" data-date="2006-03-17T21:05:19+00:00">
+<div class="post" data-post-id="11449" data-author="kjartan" data-date="2006-03-17T21:05:19+00:00" data-subject="">
 
 Well, I tried, but they always pop immediately for me.  Weird.  Don't even have to kill the mob, he just hands it over.
 
@@ -260,13 +260,13 @@ When I say "knowledgeable", I mean you have to come up with reasonable mobs, don
 
 </div>
 
-<div class="post" data-post-id="11452" data-author="Krok" data-date="2006-03-17T21:10:56+00:00">
+<div class="post" data-post-id="11452" data-author="Krok" data-date="2006-03-17T21:10:56+00:00" data-subject="">
 
 Oh come on, storm pops much better than a dumb slow spell.
 
 </div>
 
-<div class="post" data-post-id="11468" data-author="osric" data-date="2006-03-17T23:26:15+00:00">
+<div class="post" data-post-id="11468" data-author="osric" data-date="2006-03-17T23:26:15+00:00" data-subject="">
 
 I have one.  Osrics Super SB Quest
 
@@ -274,19 +274,19 @@ Provide Osric $50 USD wait one month, get one spellbook of you choice! :)
 
 </div>
 
-<div class="post" data-post-id="11471" data-author="kjartan" data-date="2006-03-17T23:36:17+00:00">
+<div class="post" data-post-id="11471" data-author="kjartan" data-date="2006-03-17T23:36:17+00:00" data-subject="">
 
 You can do that one without any support from me.
 
 </div>
 
-<div class="post" data-post-id="11481" data-author="osric" data-date="2006-03-18T04:06:17+00:00">
+<div class="post" data-post-id="11481" data-author="osric" data-date="2006-03-18T04:06:17+00:00" data-subject="">
 
 Awww KJ that was just my spoiler mode quest.  I am feverishly working on one right now to send to you.  No need to take the piss!  :roll:
 
 </div>
 
-<div class="post" data-post-id="11554" data-author="*juggleblood*" data-date="2006-03-20T11:27:01+00:00">
+<div class="post" data-post-id="11554" data-author="*juggleblood*" data-date="2006-03-20T11:27:01+00:00" data-subject="">
 
 I think this is great and I just submitted one. But I wanted to get some people's thoughts on how these things should work.
 
@@ -300,13 +300,13 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="11555" data-author="gondor" data-date="2006-03-20T12:04:21+00:00">
+<div class="post" data-post-id="11555" data-author="gondor" data-date="2006-03-20T12:04:21+00:00" data-subject="">
 
 Can potential quest spellbooks be made to where only the person that completes the quest can read them? Can they be set for just a set number of reads other than 1? Can they be set to dissolve when dropped or transferred? Just some questions I would like to know for some of the spellbook quests I have been considering putting together.
 
 </div>
 
-<div class="post" data-post-id="11566" data-author="Weasel" data-date="2006-03-20T18:34:51+00:00">
+<div class="post" data-post-id="11566" data-author="Weasel" data-date="2006-03-20T18:34:51+00:00" data-subject="">
 
 How is cycling one mob for a spellbook different from cycling another mob for a cp to make that spellbook? Am I missing something here? Coders have already said they wont make it any easier than the current method, so...  :shock: 
 
@@ -314,13 +314,13 @@ How is cycling one mob for a spellbook different from cycling another mob for a 
 
 </div>
 
-<div class="post" data-post-id="11568" data-author="Alberich" data-date="2006-03-20T18:41:56+00:00">
+<div class="post" data-post-id="11568" data-author="Alberich" data-date="2006-03-20T18:41:56+00:00" data-subject="">
 
 maybe not easier, but perhaps less boring?  I'm certainly getting sick of cycling tiny little mobs (ice lichs, firemage, agox, etc etc etc) that have atrocious poprates - at least doing it in quest format (with higher poprates for cps or whatever!) give you a bit of a sense of accomplishment (assuming these quests are all soloable - if I have to group to get a spell, well, I'll probably just do without)
 
 </div>
 
-<div class="post" data-post-id="11570" data-author="12345" data-date="2006-03-20T19:02:49+00:00">
+<div class="post" data-post-id="11570" data-author="12345" data-date="2006-03-20T19:02:49+00:00" data-subject="">
 
 Well, one thing I've noticed about the books that pop on larger mobs is that they've got really good percentages.  It's almost easier to get an xp group together and pound the area than it is to endlessly cycle the smaller mobs.  It's a tactic I've been trying to use more and more since it helps get some of the more annoying spellbooks out of the way and doesn't slow down my quest for iron skin.
 
@@ -332,25 +332,25 @@ Anyway, that's what I have for ideas from the quest angle.  If it comes down to 
 
 </div>
 
-<div class="post" data-post-id="11572" data-author="Vixn" data-date="2006-03-20T19:15:41+00:00">
+<div class="post" data-post-id="11572" data-author="Vixn" data-date="2006-03-20T19:15:41+00:00" data-subject="">
 
 Does anybody here have 'demon touch' spell learned? I think the way you learn it is good quest idea. The only thing we need is just fix this fuggin tome to stop it from flying away without any read.
 
 </div>
 
-<div class="post" data-post-id="11573" data-author="12345" data-date="2006-03-20T19:22:36+00:00">
+<div class="post" data-post-id="11573" data-author="12345" data-date="2006-03-20T19:22:36+00:00" data-subject="">
 
 Not I.  No chars with high mage.  Anything like the paladin in shadow keep?
 
 </div>
 
-<div class="post" data-post-id="11574" data-author="Weasel" data-date="2006-03-20T19:33:40+00:00">
+<div class="post" data-post-id="11574" data-author="Weasel" data-date="2006-03-20T19:33:40+00:00" data-subject="">
 
 I learned demon touch a while back.. bit of a mission alright.. took a number of attempts.
 
 </div>
 
-<div class="post" data-post-id="11576" data-author="Alberich" data-date="2006-03-20T19:43:17+00:00">
+<div class="post" data-post-id="11576" data-author="Alberich" data-date="2006-03-20T19:43:17+00:00" data-subject="">
 
 nod I read dtouch years ago... at the time, you could forge one key, and any number of people could read the book, if they got to that one room in time... altho I understand it's since been changed, and since I never used it, I haven't bothered learning it for any chars I've made since... that wouldn't really work for this case though, last thing we need is have other people being able to read books someone else did quest for... then instead of newbies begging for sbs in their title, we'll have them begging for help on whole series of mobs, or infinite gossips of 'any1 reading xxx sb right now? plz i need help with it!!!1!'
 
@@ -358,7 +358,7 @@ I suppose you could do something whereby you learn say 30% of spell for each por
 
 </div>
 
-<div class="post" data-post-id="11577" data-author="12345" data-date="2006-03-20T20:01:14+00:00">
+<div class="post" data-post-id="11577" data-author="12345" data-date="2006-03-20T20:01:14+00:00" data-subject="">
 
 Well, you could do a lot of things that could preclude cheating.
 
@@ -372,7 +372,7 @@ The pop rate would be great, getting to whereever it is in time mind be a defina
 
 </div>
 
-<div class="post" data-post-id="11585" data-author="kjartan" data-date="2006-03-21T00:27:22+00:00">
+<div class="post" data-post-id="11585" data-author="kjartan" data-date="2006-03-21T00:27:22+00:00" data-subject="">
 
 Here are some disorganized thoughts on this:
 
@@ -388,7 +388,7 @@ Here are some disorganized thoughts on this:
 
 </div>
 
-<div class="post" data-post-id="11595" data-author="Weasel" data-date="2006-03-21T03:55:53+00:00">
+<div class="post" data-post-id="11595" data-author="Weasel" data-date="2006-03-21T03:55:53+00:00" data-subject="">
 
 Making it personalized is a bad idea imho - that's just going to make the sb impossible to ever get for some classos... 
 
@@ -396,7 +396,7 @@ ack, if you have to go through with this, I hope the option still remains to get
 
 </div>
 
-<div class="post" data-post-id="11605" data-author="Rajil" data-date="2006-03-21T06:49:41+00:00">
+<div class="post" data-post-id="11605" data-author="Rajil" data-date="2006-03-21T06:49:41+00:00" data-subject="">
 
 At least this way you and several friends could run different mobs each and not have to queue up on one or two mobs.
 
@@ -404,13 +404,13 @@ I'm sure you and your best friend Auto could pop the cps fast enough. :twisted:
 
 </div>
 
-<div class="post" data-post-id="11606" data-author="Guinex" data-date="2006-03-21T07:21:03+00:00">
+<div class="post" data-post-id="11606" data-author="Guinex" data-date="2006-03-21T07:21:03+00:00" data-subject="">
 
 SLOTH IV, THERE :evil:
 
 </div>
 
-<div class="post" data-post-id="11607" data-author="*juggleblood*" data-date="2006-03-21T07:30:45+00:00">
+<div class="post" data-post-id="11607" data-author="*juggleblood*" data-date="2006-03-21T07:30:45+00:00" data-subject="">
 
 This would be fun. :twisted: 
 
@@ -422,7 +422,7 @@ The arena master gossips 'I have place a spellbook for the spell haste in the ar
 
 </div>
 
-<div class="post" data-post-id="11638" data-author="kjartan" data-date="2006-03-21T18:12:24+00:00">
+<div class="post" data-post-id="11638" data-author="kjartan" data-date="2006-03-21T18:12:24+00:00" data-subject="">
 
 We could make more spellbooks pop in specific areas rather than on specific mobs, so you could run the area and get a lot of chances at a pop without having to wait a long time for one mob to reappear.  We would probably make the pop rate somewhat lower than it is on the mob in this case.  It depends on the area and the sb.
 
@@ -430,7 +430,7 @@ Oh, and regarding Weasel's earlier comment on the odds of having a streak of bad
 
 </div>
 
-<div class="post" data-post-id="11640" data-author="brand" data-date="2006-03-21T18:49:48+00:00">
+<div class="post" data-post-id="11640" data-author="brand" data-date="2006-03-21T18:49:48+00:00" data-subject="">
 
 practice shadowwalk
 
@@ -454,7 +454,7 @@ brand :idea:  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11658" data-author="Clink" data-date="2006-03-21T21:29:26+00:00">
+<div class="post" data-post-id="11658" data-author="Clink" data-date="2006-03-21T21:29:26+00:00" data-subject="">
 
 I'll take a tongue-in-cheek approach to summarizing Weasel:
 
@@ -468,7 +468,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="11660" data-author="Autolycos" data-date="2006-03-21T21:45:58+00:00">
+<div class="post" data-post-id="11660" data-author="Autolycos" data-date="2006-03-21T21:45:58+00:00" data-subject="">
 
 I'll take a tongue-in-cheek approach to summarizing Weasel:
 
@@ -482,7 +482,7 @@ for example.. a constipated cat with OCD in a litterbox :twisted:
 
 </div>
 
-<div class="post" data-post-id="11662" data-author="brand" data-date="2006-03-21T21:52:16+00:00">
+<div class="post" data-post-id="11662" data-author="brand" data-date="2006-03-21T21:52:16+00:00" data-subject="">
 
 3. the reason that a number of sbs require cycling tiny mobs with atrocious pop rates, and I'm not saying it's a good reason, is that the sb usually has to be on a mob that someone who can learn the spell can kill, but when we add a new spell it's mostly avatars who are going to be cycling for it.  So to make it non-trivial we give it a bad pop rate.  That's my guess, anyway.[/quote:2plm2o3n]
 
@@ -492,7 +492,7 @@ postscript: not saying i would want no new spells, it is really nice to have all
 
 </div>
 
-<div class="post" data-post-id="11666" data-author="Weasel" data-date="2006-03-21T23:08:13+00:00">
+<div class="post" data-post-id="11666" data-author="Weasel" data-date="2006-03-21T23:08:13+00:00" data-subject="">
 
 I'll take a tongue-in-cheek approach to summarizing Weasel:
 
@@ -522,7 +522,7 @@ Or to be more tongue-in-cheek, I'll summarize up a few immorts this way:
 
 </div>
 
-<div class="post" data-post-id="11670" data-author="12345" data-date="2006-03-22T05:24:29+00:00">
+<div class="post" data-post-id="11670" data-author="12345" data-date="2006-03-22T05:24:29+00:00" data-subject="">
 
 That was just funny Weasel...
 
@@ -532,7 +532,7 @@ And honestly Weasel, you'd make a great imm.  You could trade in that regen time
 
 </div>
 
-<div class="post" data-post-id="11672" data-author="*juggleblood*" data-date="2006-03-22T06:34:31+00:00">
+<div class="post" data-post-id="11672" data-author="*juggleblood*" data-date="2006-03-22T06:34:31+00:00" data-subject="">
 
 I joined just a few months ago and it took me a while to figure out that weasel wasn't an imm because his posts are usually authoritative and right on the mark.
 
@@ -542,7 +542,7 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="11673" data-author="Blackguard" data-date="2006-03-22T06:53:51+00:00">
+<div class="post" data-post-id="11673" data-author="Blackguard" data-date="2006-03-22T06:53:51+00:00" data-subject="">
 
 I'll take a tongue-in-cheek approach to summarizing Weasel:
 
@@ -558,7 +558,7 @@ I totally agree, Weasel [b:23g5yd59]is[/b:23g5yd59] a little bitch.
 
 </div>
 
-<div class="post" data-post-id="11679" data-author="12345" data-date="2006-03-22T12:38:18+00:00">
+<div class="post" data-post-id="11679" data-author="12345" data-date="2006-03-22T12:38:18+00:00" data-subject="">
 
 I totally agree, I [b:185224f5]am[/b:185224f5] a little bitch.[/quote:185224f5]
 
@@ -566,7 +566,7 @@ I couldn't agree more...
 
 </div>
 
-<div class="post" data-post-id="11680" data-author="Clink" data-date="2006-03-22T13:12:05+00:00">
+<div class="post" data-post-id="11680" data-author="Clink" data-date="2006-03-22T13:12:05+00:00" data-subject="">
 
 Or to be more tongue-in-cheek, I'll summarize up a few immorts this way:
 
@@ -594,7 +594,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="11682" data-author="Autolycos" data-date="2006-03-22T13:19:41+00:00">
+<div class="post" data-post-id="11682" data-author="Autolycos" data-date="2006-03-22T13:19:41+00:00" data-subject="">
 
 I totally agree, I [b:yrqzsnz0]am[/b:yrqzsnz0] a little bitch.[/quote:yrqzsnz0]
 
@@ -604,7 +604,7 @@ damn, thats some funny zhit  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11683" data-author="Autolycos" data-date="2006-03-22T13:24:08+00:00">
+<div class="post" data-post-id="11683" data-author="Autolycos" data-date="2006-03-22T13:24:08+00:00" data-subject="">
 
 For the record, I wasn't personally attacking you.  You would definitely know it if I were. [/quote:2n2um4aw]
 
@@ -616,7 +616,7 @@ Clinkiepooh and I had a little fun the other night.  His firewinds are weak didn
 
 </div>
 
-<div class="post" data-post-id="11692" data-author="kjartan" data-date="2006-03-22T15:33:45+00:00">
+<div class="post" data-post-id="11692" data-author="kjartan" data-date="2006-03-22T15:33:45+00:00" data-subject="">
 
 Juggleblood submitted a spellbook quest, and I put it in.  In this case I left the old method of popping it in place as well.  See 'help sanctuary'.  The quest method has the advantage that it doesn't require the repeated slaughter of innocent bystanders.
 

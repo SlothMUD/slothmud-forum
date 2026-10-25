@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13233" data-author="Melanthe" data-date="2006-07-01T11:58:15+00:00">
+<div class="post" data-post-id="13233" data-author="Melanthe" data-date="2006-07-01T11:58:15+00:00" data-subject="60 x 60 pixel character pic">
 
 I have a 60 x 60 pixel pic of my character I'd like to use on these forums. However, I see no way to upload it. Was told some immortal could upload it for me? 
 

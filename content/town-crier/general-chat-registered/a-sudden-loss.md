@@ -10,7 +10,7 @@ locked: false
 post_count: 25
 ---
 
-<div class="post" data-post-id="39546" data-author="Roga" data-date="2020-08-14T11:16:48+00:00">
+<div class="post" data-post-id="39546" data-author="Roga" data-date="2020-08-14T11:16:48+00:00" data-subject="A Sudden Loss">
 
 Hi all. It's Padme here.
 
@@ -176,7 +176,7 @@ Padme.
 
 </div>
 
-<div class="post" data-post-id="39547" data-author="Ker" data-date="2020-08-14T16:04:11+00:00">
+<div class="post" data-post-id="39547" data-author="Ker" data-date="2020-08-14T16:04:11+00:00" data-subject="Re: A Sudden Loss">
 
 Hey P,
 
@@ -186,7 +186,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="39548" data-author="Hung" data-date="2020-08-14T16:08:36+00:00">
+<div class="post" data-post-id="39548" data-author="Hung" data-date="2020-08-14T16:08:36+00:00" data-subject="Re: A Sudden Loss">
 
 Hello Padme,
 
@@ -200,13 +200,13 @@ I am very sorry again.
 
 </div>
 
-<div class="post" data-post-id="39549" data-author="Driven" data-date="2020-08-15T01:33:36+00:00">
+<div class="post" data-post-id="39549" data-author="Driven" data-date="2020-08-15T01:33:36+00:00" data-subject="Re: A Sudden Loss">
 
 Padme, I am sorry for you and your son's loss.  Roga was an important part of Sloth and he will be missed.  Last fall I took 4 months off to focus on my ministry, and when I came back in the new year, Roga was quick to welcome me back, telling me that he was glad I was back.  He was also tremendously encouraging to me in the work that I do  as an immortal, which mattered a lot to me.  When you said that his coworkers describe him as always friendly, looking to help, that matched exactly my impression of him on Sloth.  Roga will be missed greatly!
 
 </div>
 
-<div class="post" data-post-id="39550" data-author="Gorka" data-date="2020-08-15T08:20:44+00:00">
+<div class="post" data-post-id="39550" data-author="Gorka" data-date="2020-08-15T08:20:44+00:00" data-subject="Re: A Sudden Loss">
 
 Padme,
 
@@ -214,7 +214,7 @@ I wish I had something eloquent to say, but the words I write don't seem to expr
 
 </div>
 
-<div class="post" data-post-id="39551" data-author="Gorka" data-date="2020-08-15T08:55:56+00:00">
+<div class="post" data-post-id="39551" data-author="Gorka" data-date="2020-08-15T08:55:56+00:00" data-subject="Re: A Sudden Loss">
 
 Would it be possible to put a small tribute to Roga in game like we did for Taron... Idjit? IDJIT!!!
 
@@ -228,7 +228,7 @@ l warrior (Maybe Padme could write a small description for those who did not kno
 
 </div>
 
-<div class="post" data-post-id="39552" data-author="Roga" data-date="2020-08-15T09:16:19+00:00">
+<div class="post" data-post-id="39552" data-author="Roga" data-date="2020-08-15T09:16:19+00:00" data-subject="Re: A Sudden Loss">
 
 Hi again, it's Padme. 
 
@@ -240,7 +240,7 @@ Padme
 
 </div>
 
-<div class="post" data-post-id="39553" data-author="Roga" data-date="2020-08-15T09:57:29+00:00">
+<div class="post" data-post-id="39553" data-author="Roga" data-date="2020-08-15T09:57:29+00:00" data-subject="Re: A Sudden Loss">
 
 Padme here.
 
@@ -262,7 +262,7 @@ Padme.
 
 </div>
 
-<div class="post" data-post-id="39555" data-author="Nyx" data-date="2020-08-15T13:08:28+00:00">
+<div class="post" data-post-id="39555" data-author="Nyx" data-date="2020-08-15T13:08:28+00:00" data-subject="Re: A Sudden Loss">
 
 I am so sorry for your loss.
 
@@ -274,7 +274,7 @@ I didn't know Roga well, but the glimpses I saw give me a good idea of the man h
 
 </div>
 
-<div class="post" data-post-id="39556" data-author="Roga" data-date="2020-08-15T13:53:21+00:00">
+<div class="post" data-post-id="39556" data-author="Roga" data-date="2020-08-15T13:53:21+00:00" data-subject="Re: A Sudden Loss">
 
 Thank you so much, Beatrix.
 
@@ -286,7 +286,7 @@ Padme.
 
 </div>
 
-<div class="post" data-post-id="39558" data-author="Ezekiel" data-date="2020-08-15T19:18:29+00:00">
+<div class="post" data-post-id="39558" data-author="Ezekiel" data-date="2020-08-15T19:18:29+00:00" data-subject="Re: A Sudden Loss">
 
 Hey Padme,
 
@@ -300,7 +300,7 @@ Sincerely, Zeke
 
 </div>
 
-<div class="post" data-post-id="39560" data-author="Padme" data-date="2020-08-16T08:00:41+00:00">
+<div class="post" data-post-id="39560" data-author="Padme" data-date="2020-08-16T08:00:41+00:00" data-subject="Re: A Sudden Loss">
 
 Hi, you all.
 
@@ -324,7 +324,7 @@ Padme.
 
 </div>
 
-<div class="post" data-post-id="39561" data-author="Kida" data-date="2020-08-18T19:24:33+00:00">
+<div class="post" data-post-id="39561" data-author="Kida" data-date="2020-08-18T19:24:33+00:00" data-subject="Re: A Sudden Loss">
 
 Hi Padme,
 
@@ -338,7 +338,7 @@ Edd/Kida
 
 </div>
 
-<div class="post" data-post-id="39562" data-author="Padme" data-date="2020-08-18T19:58:04+00:00">
+<div class="post" data-post-id="39562" data-author="Padme" data-date="2020-08-18T19:58:04+00:00" data-subject="Re: A Sudden Loss">
 
 Thanks Edd/Kida!
 
@@ -348,7 +348,7 @@ Padme
 
 </div>
 
-<div class="post" data-post-id="39563" data-author="Padme" data-date="2020-08-18T20:01:42+00:00">
+<div class="post" data-post-id="39563" data-author="Padme" data-date="2020-08-18T20:01:42+00:00" data-subject="Re: A Sudden Loss">
 
 Thank you for your kind words, Zeke, and likewise as well.
 
@@ -356,7 +356,7 @@ Padme
 
 </div>
 
-<div class="post" data-post-id="39564" data-author="Padme" data-date="2020-08-20T02:01:09+00:00">
+<div class="post" data-post-id="39564" data-author="Padme" data-date="2020-08-20T02:01:09+00:00" data-subject="Re: A Sudden Loss">
 
 Here's another shout out to Zeke. I cannot thank you enough for being there for the first week of 
 
@@ -376,7 +376,7 @@ Padme
 
 </div>
 
-<div class="post" data-post-id="39565" data-author="Crik" data-date="2020-08-24T18:50:58+00:00">
+<div class="post" data-post-id="39565" data-author="Crik" data-date="2020-08-24T18:50:58+00:00" data-subject="Re: A Sudden Loss">
 
 I was told recently of Roga's passing and just wanted to add a few words for him too. 
 
@@ -388,7 +388,7 @@ Thank you Roga for the good memories you left behind.
 
 </div>
 
-<div class="post" data-post-id="39567" data-author="Padme" data-date="2020-08-25T02:27:11+00:00">
+<div class="post" data-post-id="39567" data-author="Padme" data-date="2020-08-25T02:27:11+00:00" data-subject="Re: A Sudden Loss">
 
 Thank you, Crik, for posting. My children and I appreciate it a lot. So, thank you very much.
 
@@ -396,7 +396,7 @@ Padme
 
 </div>
 
-<div class="post" data-post-id="39568" data-author="Belrath" data-date="2020-08-26T20:48:57+00:00">
+<div class="post" data-post-id="39568" data-author="Belrath" data-date="2020-08-26T20:48:57+00:00" data-subject="Re: A Sudden Loss">
 
 Hey Padme
 
@@ -426,7 +426,7 @@ Let my good shining thoughts be a light in your dark time.
 
 </div>
 
-<div class="post" data-post-id="39569" data-author="Padme" data-date="2020-08-26T22:39:56+00:00">
+<div class="post" data-post-id="39569" data-author="Padme" data-date="2020-08-26T22:39:56+00:00" data-subject="Re: A Sudden Loss">
 
 Oh Belrath,
 
@@ -438,7 +438,7 @@ Padme
 
 </div>
 
-<div class="post" data-post-id="39571" data-author="Padme" data-date="2020-08-30T10:48:34+00:00">
+<div class="post" data-post-id="39571" data-author="Padme" data-date="2020-08-30T10:48:34+00:00" data-subject="Re: A Sudden Loss">
 
 We received [Roga's] ashes on Tuesday, August 25, 2020, and on Saturday, August 29, 2020, we drove to the
 
@@ -460,7 +460,7 @@ children's father, and your friend: [Roga].
 
 </div>
 
-<div class="post" data-post-id="39576" data-author="Padme" data-date="2020-09-15T13:21:51+00:00">
+<div class="post" data-post-id="39576" data-author="Padme" data-date="2020-09-15T13:21:51+00:00" data-subject="Re: A Sudden Loss">
 
 The medical examiner has finally finished Roga's autopsy report.
 
@@ -468,7 +468,7 @@ What slew the mighty warrior Roga: hypertension and atherosclerotic cardiovascul
 
 </div>
 
-<div class="post" data-post-id="39577" data-author="*Idjit*" data-date="2020-09-19T02:52:25+00:00">
+<div class="post" data-post-id="39577" data-author="*Idjit*" data-date="2020-09-19T02:52:25+00:00" data-subject="Re: A Sudden Loss">
 
 Padme and I have begun talking a little about a statue or memorial for Roga and that she was basically okay with the idea.  I am looking to gather text captures from groups he was in where he had his chop message scripts and some other things.  Some have heard of my idea that we would have something a little more interactive than a statue, a mob of him that is practicing chopping with a chop weapon.  One possible location is Lyme Volcano (perhaps fairly close to Tyroch).  Gorka do you have some logs of his custom chop messages?
 
@@ -478,7 +478,7 @@ Anyway so the ball is finally rolling.  I just wanted to give people some time t
 
 </div>
 
-<div class="post" data-post-id="39578" data-author="Gorka" data-date="2020-09-19T06:05:20+00:00">
+<div class="post" data-post-id="39578" data-author="Gorka" data-date="2020-09-19T06:05:20+00:00" data-subject="Re: A Sudden Loss">
 
 Roga says 'HEAD CHOP! JUST GIMME THE PRIZE!'
 
@@ -494,7 +494,7 @@ Roga snags the head and chips it to YOU! HEEEAVE!!!
 
 </div>
 
-<div class="post" data-post-id="39579" data-author="jayclimbs" data-date="2020-10-04T20:34:53+00:00">
+<div class="post" data-post-id="39579" data-author="jayclimbs" data-date="2020-10-04T20:34:53+00:00" data-subject="Re: A Sudden Loss">
 
 I would like to see Roga roar out his warcry occasionally: KHAAAAAAAAAAAN!!!
 

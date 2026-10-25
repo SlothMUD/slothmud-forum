@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="12293" data-author="Ga" data-date="2006-04-21T17:18:25+00:00">
+<div class="post" data-post-id="12293" data-author="Ga" data-date="2006-04-21T17:18:25+00:00" data-subject="Server dead?">
 
 Ive been trying to connect for hours!!!!
 
@@ -20,7 +20,7 @@ AHHHHHHHH :shock:
 
 </div>
 
-<div class="post" data-post-id="12294" data-author="12345" data-date="2006-04-21T17:21:02+00:00">
+<div class="post" data-post-id="12294" data-author="12345" data-date="2006-04-21T17:21:02+00:00" data-subject="">
 
 Can't get anything by you, huh?
 
@@ -28,7 +28,7 @@ Can't get anything by you, huh?
 
 </div>
 
-<div class="post" data-post-id="12295" data-author="Ga" data-date="2006-04-21T17:24:29+00:00">
+<div class="post" data-post-id="12295" data-author="Ga" data-date="2006-04-21T17:24:29+00:00" data-subject="oops">
 
 BUT I NEED TO PLAY !!!1
 

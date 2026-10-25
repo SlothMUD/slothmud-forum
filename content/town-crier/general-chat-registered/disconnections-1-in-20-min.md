@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33614" data-author="Yasik" data-date="2012-09-19T08:38:17+00:00">
+<div class="post" data-post-id="33614" data-author="Yasik" data-date="2012-09-19T08:38:17+00:00" data-subject="Disconnections 1 in ~20 min">
 
 Anyone has an idea what is goins on?
 

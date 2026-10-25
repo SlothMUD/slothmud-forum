@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="38394" data-author="Gorka" data-date="2017-08-13T21:44:51+00:00">
+<div class="post" data-post-id="38394" data-author="Gorka" data-date="2017-08-13T21:44:51+00:00" data-subject="Record for the Longest Continuous Chop Group?">
 
 Grouped counters elapsed time: 14 hours, 18 minutes, 4 seconds
 
@@ -72,13 +72,13 @@ And Ezekiel is still going at the time of posting this...  :lol:
 
 </div>
 
-<div class="post" data-post-id="38395" data-author="*teker*" data-date="2017-08-14T14:27:58+00:00">
+<div class="post" data-post-id="38395" data-author="*teker*" data-date="2017-08-14T14:27:58+00:00" data-subject="Re: Record for the Longest Continuous Chop Group?">
 
 How was the chop on Euridyce?  Should we keep Eu days as chop on Eu days?
 
 </div>
 
-<div class="post" data-post-id="38396" data-author="Gorka" data-date="2017-08-14T15:02:47+00:00">
+<div class="post" data-post-id="38396" data-author="Gorka" data-date="2017-08-14T15:02:47+00:00" data-subject="Re: Record for the Longest Continuous Chop Group?">
 
 People will have varying opinions, my opinion is without EU chop days, EU probably would hardly be run at all by groups. I've already seen a number of EU chop days come and go and no one running EU.
 
@@ -86,13 +86,13 @@ It has to be a large and fairly keen group to run Euridyce - even on a chop day.
 
 </div>
 
-<div class="post" data-post-id="38397" data-author="Gorka" data-date="2017-08-14T15:31:56+00:00">
+<div class="post" data-post-id="38397" data-author="Gorka" data-date="2017-08-14T15:31:56+00:00" data-subject="Re: Record for the Longest Continuous Chop Group?">
 
 There is one other important thing working against EU, and that is gems. There is not much incentive for a large group of people to use a large amount of resource to drag down 1 mob for the possibility of 1 gem shared among many... when the same group (or smaller) could run 100 smaller mobs easier and get 100 more chances at gems. You can't blame EU for that, but it definitely works against it.
 
 </div>
 
-<div class="post" data-post-id="38398" data-author="Teron" data-date="2017-08-14T19:59:14+00:00">
+<div class="post" data-post-id="38398" data-author="Teron" data-date="2017-08-14T19:59:14+00:00" data-subject="Re: Record for the Longest Continuous Chop Group?">
 
 As I was leading EU, I'll say that:
 

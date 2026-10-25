@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32674" data-author="*Isabo*" data-date="2011-06-12T04:25:32+00:00">
+<div class="post" data-post-id="32674" data-author="*Isabo*" data-date="2011-06-12T04:25:32+00:00" data-subject="Assist self chop">
 
 Greeting mortals.
 

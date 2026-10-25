@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="27198" data-author="alias" data-date="2008-11-16T04:16:25+00:00">
+<div class="post" data-post-id="27198" data-author="alias" data-date="2008-11-16T04:16:25+00:00" data-subject="Fun in DoT">
 
 Restive -- 'target truck'
 
@@ -112,13 +112,13 @@ Stab and 2 bolts not lit, I felt like I might live for about 1/2 a second.
 
 </div>
 
-<div class="post" data-post-id="27199" data-author="Leaf" data-date="2008-11-16T05:05:20+00:00">
+<div class="post" data-post-id="27199" data-author="Leaf" data-date="2008-11-16T05:05:20+00:00" data-subject="">
 
 My bad dude, I had dispel on stab :)
 
 </div>
 
-<div class="post" data-post-id="27202" data-author="*juggleblood*" data-date="2008-11-16T08:28:02+00:00">
+<div class="post" data-post-id="27202" data-author="*juggleblood*" data-date="2008-11-16T08:28:02+00:00" data-subject="Re: Fun in DoT">
 
 You've got a good feeling about this fight...
 
@@ -128,7 +128,7 @@ Was it everything you hoped for?
 
 </div>
 
-<div class="post" data-post-id="27203" data-author="Assirian" data-date="2008-11-16T11:10:34+00:00">
+<div class="post" data-post-id="27203" data-author="Assirian" data-date="2008-11-16T11:10:34+00:00" data-subject="">
 
 Only 190 dam from 2 bolts not lit, no resists? 
 
@@ -138,7 +138,7 @@ sad...
 
 </div>
 
-<div class="post" data-post-id="27205" data-author="Restive" data-date="2008-11-17T03:33:29+00:00">
+<div class="post" data-post-id="27205" data-author="Restive" data-date="2008-11-17T03:33:29+00:00" data-subject="Re: Fun in Dot">
 
 1. Looks rather incriminating.  It was an accident though - honest!
 
@@ -148,19 +148,19 @@ sad...
 
 </div>
 
-<div class="post" data-post-id="27206" data-author="alias" data-date="2008-11-17T03:42:36+00:00">
+<div class="post" data-post-id="27206" data-author="alias" data-date="2008-11-17T03:42:36+00:00" data-subject="">
 
 Why would I want protection from having a good laugh?
 
 </div>
 
-<div class="post" data-post-id="27207" data-author="Restive" data-date="2008-11-17T03:46:35+00:00">
+<div class="post" data-post-id="27207" data-author="Restive" data-date="2008-11-17T03:46:35+00:00" data-subject="Re: Fun in Dot">
 
 Good Point!  You'll pay me to stab you in DoT, or do I have to do that for free?
 
 </div>
 
-<div class="post" data-post-id="27268" data-author="Krok" data-date="2008-11-21T08:02:40+00:00">
+<div class="post" data-post-id="27268" data-author="Krok" data-date="2008-11-21T08:02:40+00:00" data-subject="">
 
 So, when I was running DoT a lot as Marta or Krok, I used to gtell 'target man' because it's much easier and all mobs in the outer corridor are men except for Cheba.
 
@@ -168,7 +168,7 @@ So, target was always man, and guess what happened not just once when Mannu used
 
 </div>
 
-<div class="post" data-post-id="27281" data-author="13" data-date="2008-11-23T12:30:33+00:00">
+<div class="post" data-post-id="27281" data-author="13" data-date="2008-11-23T12:30:33+00:00" data-subject="">
 
 target is always man unless mannu or mandos was in the group.  i have
 

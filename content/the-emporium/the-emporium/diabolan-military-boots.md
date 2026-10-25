@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="831" data-author="Dragoth" data-date="2004-06-22T14:43:21+00:00">
+<div class="post" data-post-id="831" data-author="Dragoth" data-date="2004-06-22T14:43:21+00:00" data-subject="Diabolan Military Boots">
 
 lets start with 5mil, buyout is 10mil
 

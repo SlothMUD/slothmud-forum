@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="4560" data-author="Prog" data-date="2005-02-21T21:23:33+00:00">
+<div class="post" data-post-id="4560" data-author="Prog" data-date="2005-02-21T21:23:33+00:00" data-subject="WTT">
 
 Have ruyi for trade on gem-shard ( +15spelldam)
 
@@ -50,7 +50,7 @@ use this item.
 
 </div>
 
-<div class="post" data-post-id="4561" data-author="Sind" data-date="2005-02-22T09:08:55+00:00">
+<div class="post" data-post-id="4561" data-author="Sind" data-date="2005-02-22T09:08:55+00:00" data-subject=":)">
 
 unreal
 

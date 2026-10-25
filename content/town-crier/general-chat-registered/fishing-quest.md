@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="26257" data-author="*juggleblood*" data-date="2008-09-11T22:57:17+00:00">
+<div class="post" data-post-id="26257" data-author="*juggleblood*" data-date="2008-09-11T22:57:17+00:00" data-subject="Fishing Quest">
 
 The first person to catch me each of the following specimens of fish before I go to bed tonite will win 5 drachma. Let's say 2 wins per char max. I'll update you as stuff is completed.
 
@@ -42,7 +42,7 @@ The first person to catch me each of the following specimens of fish before I go
 
 </div>
 
-<div class="post" data-post-id="26258" data-author="*juggleblood*" data-date="2008-09-11T23:13:36+00:00">
+<div class="post" data-post-id="26258" data-author="*juggleblood*" data-date="2008-09-11T23:13:36+00:00" data-subject="">
 
 Way up north where the air is cold.
 
@@ -64,7 +64,7 @@ Killing the baby seals...
 
 </div>
 
-<div class="post" data-post-id="26263" data-author="jezer" data-date="2008-09-12T00:09:18+00:00">
+<div class="post" data-post-id="26263" data-author="jezer" data-date="2008-09-12T00:09:18+00:00" data-subject="">
 
 He's also offering 5 drachma if you start a new character  :twisted:
 

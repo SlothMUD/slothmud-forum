@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31091" data-author="Samel" data-date="2010-05-05T18:46:07+00:00">
+<div class="post" data-post-id="31091" data-author="Samel" data-date="2010-05-05T18:46:07+00:00" data-subject="tintin EXP counter">
 
 You need to set your prompt to include exp as one of the fields.  I use a variation on the following:
 
@@ -827,7 +827,7 @@ From here on out, we have all 'behind-the-scenes' aliases for calculation purpos
 
 </div>
 
-<div class="post" data-post-id="31092" data-author="Samel" data-date="2010-05-05T19:00:42+00:00">
+<div class="post" data-post-id="31092" data-author="Samel" data-date="2010-05-05T19:00:42+00:00" data-subject="">
 
 as an aside to the below script, i use '/' for my tintin command character as that's much easier for me to reach for than a shift-3 (#)
 
@@ -835,7 +835,7 @@ of course, change as you will and feedback is always welcome as well :)
 
 </div>
 
-<div class="post" data-post-id="31165" data-author="Samel" data-date="2010-05-19T18:25:59+00:00">
+<div class="post" data-post-id="31165" data-author="Samel" data-date="2010-05-19T18:25:59+00:00" data-subject="">
 
 As an update, if using tintin on unix, replace the /action in the below script with:
 

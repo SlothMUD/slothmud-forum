@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="8265" data-author="Falsra" data-date="2005-08-12T07:21:57+00:00">
+<div class="post" data-post-id="8265" data-author="Falsra" data-date="2005-08-12T07:21:57+00:00" data-subject="fast and slow">
 
 Hello everybody!
 
@@ -34,13 +34,13 @@ or even make this spell useless  :twisted:
 
 </div>
 
-<div class="post" data-post-id="8268" data-author="Avatar" data-date="2005-08-12T10:37:06+00:00">
+<div class="post" data-post-id="8268" data-author="Avatar" data-date="2005-08-12T10:37:06+00:00" data-subject="Spell">
 
 Sounds like a great druid spell, since druids don't get acid blast or weaken this would give them some spell to actually cast during a group.
 
 </div>
 
-<div class="post" data-post-id="8272" data-author="kjartan" data-date="2005-08-12T14:24:22+00:00">
+<div class="post" data-post-id="8272" data-author="kjartan" data-date="2005-08-12T14:24:22+00:00" data-subject="">
 
 It's a good idea.  I am buried in mob lairs and resectoring right now, but maybe in a month or so I could do it.
 

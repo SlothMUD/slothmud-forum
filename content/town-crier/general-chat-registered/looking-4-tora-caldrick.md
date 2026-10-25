@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="9908" data-author="Leaf" data-date="2005-12-22T12:57:12+00:00">
+<div class="post" data-post-id="9908" data-author="Leaf" data-date="2005-12-22T12:57:12+00:00" data-subject="Looking 4 Tora &amp; Caldrick">
 
 Hello,
 
@@ -20,13 +20,13 @@ Caldrick, same thing as I won Wisp off u and we need to meet :)
 
 </div>
 
-<div class="post" data-post-id="9910" data-author="madmax" data-date="2005-12-22T13:12:40+00:00">
+<div class="post" data-post-id="9910" data-author="madmax" data-date="2005-12-22T13:12:40+00:00" data-subject="">
 
 help ship
 
 </div>
 
-<div class="post" data-post-id="9911" data-author="Leaf" data-date="2005-12-22T17:30:20+00:00">
+<div class="post" data-post-id="9911" data-author="Leaf" data-date="2005-12-22T17:30:20+00:00" data-subject="">
 
 Help Ship...
 
@@ -38,7 +38,7 @@ good.  Also shipping can only be held for 10 days before anyone can claim it.  S
 
 </div>
 
-<div class="post" data-post-id="9914" data-author="Malison" data-date="2005-12-23T17:06:19+00:00">
+<div class="post" data-post-id="9914" data-author="Malison" data-date="2005-12-23T17:06:19+00:00" data-subject="">
 
 last player tora
 
@@ -50,7 +50,7 @@ Tora's last logon was Thu Dec 22 11:25:10 2005
 
 </div>
 
-<div class="post" data-post-id="9916" data-author="tora" data-date="2005-12-24T03:27:26+00:00">
+<div class="post" data-post-id="9916" data-author="tora" data-date="2005-12-24T03:27:26+00:00" data-subject="">
 
 your in game char name is leaf? when are u usually online?
 

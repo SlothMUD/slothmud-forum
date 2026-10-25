@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34139" data-author="Toxis" data-date="2013-03-13T07:10:45+00:00">
+<div class="post" data-post-id="34139" data-author="Toxis" data-date="2013-03-13T07:10:45+00:00" data-subject="Diary off Roberts">
 
 The 5th Day of the Month of the Spring, Year 479
 
@@ -74,7 +74,7 @@ Redbeard
 
 </div>
 
-<div class="post" data-post-id="35695" data-author="Teron" data-date="2015-02-15T08:12:12+00:00">
+<div class="post" data-post-id="35695" data-author="Teron" data-date="2015-02-15T08:12:12+00:00" data-subject="Re: Diary off Roberts">
 
 Has anyone figured out what this is about?
 

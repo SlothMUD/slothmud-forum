@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39371" data-author="*Neptune*" data-date="2020-02-09T00:07:09+00:00">
+<div class="post" data-post-id="39371" data-author="*Neptune*" data-date="2020-02-09T00:07:09+00:00" data-subject="Valkyre Quest, Area Opener">
 
 Greetings
 
@@ -42,7 +42,7 @@ As always, thanks, and happy hunting :)
 
 </div>
 
-<div class="post" data-post-id="39372" data-author="Bandit" data-date="2020-02-09T18:27:16+00:00">
+<div class="post" data-post-id="39372" data-author="Bandit" data-date="2020-02-09T18:27:16+00:00" data-subject="Re: Valkyre Quest, Area Opener">
 
 We saved the smurfs from the evil dragon, but nothing could stop the smurfs from us! We've looted their village and found some new items, although we didn't stop to ask any questions so we don't know if they have any tasks for us to do yet.
 

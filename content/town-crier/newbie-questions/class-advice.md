@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="31292" data-author="Towen" data-date="2010-06-11T17:58:04+00:00">
+<div class="post" data-post-id="31292" data-author="Towen" data-date="2010-06-11T17:58:04+00:00" data-subject="Class advice">
 
 Hello, me again!
 
@@ -22,13 +22,13 @@ Towen
 
 </div>
 
-<div class="post" data-post-id="31295" data-author="blackmore" data-date="2010-06-12T03:48:22+00:00">
+<div class="post" data-post-id="31295" data-author="blackmore" data-date="2010-06-12T03:48:22+00:00" data-subject="Re: Class advice">
 
 Backstabbing is only useful with good damage, and as a mage prime, you probably won't have great damage.  Your best defense when you get higher level is going to be mirror images, and you can't stab with images up.  I'd either go with druid or necro.  Druid will help your regen, and you'll want that with wa 2nd, though necro is interesting too.  You'll be able to use your images to absorb hits while you order your pets to attack.
 
 </div>
 
-<div class="post" data-post-id="31304" data-author="Towen" data-date="2010-06-14T01:34:29+00:00">
+<div class="post" data-post-id="31304" data-author="Towen" data-date="2010-06-14T01:34:29+00:00" data-subject="Re: Class advice">
 
 Thanks,
 
@@ -38,7 +38,7 @@ I was leaning towards druid and that's the way I'll go.
 
 </div>
 
-<div class="post" data-post-id="31311" data-author="Teron" data-date="2010-06-18T07:09:17+00:00">
+<div class="post" data-post-id="31311" data-author="Teron" data-date="2010-06-18T07:09:17+00:00" data-subject="Re: Class advice">
 
 Druid quad will only get you 4-6 mana regen outside (tested this myself), isn't a huge bonus for a class spot.
 
@@ -46,7 +46,7 @@ I'd go with ne for pets, which help you last in fights and do extra damage. As a
 
 </div>
 
-<div class="post" data-post-id="31312" data-author="Teron" data-date="2010-06-18T07:32:10+00:00">
+<div class="post" data-post-id="31312" data-author="Teron" data-date="2010-06-18T07:32:10+00:00" data-subject="Re: Class advice">
 
 I've just noticed that you've already went with Druid. I hope you do enjoy the limited forms (help shapeshift forms, you won't be able to go past 5x40, dragon/minotaur) and dawnfire ;)
 

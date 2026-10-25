@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="27964" data-author="*Splork*" data-date="2009-02-01T19:33:40+00:00">
+<div class="post" data-post-id="27964" data-author="*Splork*" data-date="2009-02-01T19:33:40+00:00" data-subject="Java client for new players">
 
 To my dismay, there was no way to connect to slothMUD via our website for quite some time. This was due to a typo in the ip address and the fact that windows had stopped using telnet. This is now fixed. 
 
@@ -26,19 +26,19 @@ We will also be revealing a flash client, so that new players can choose which o
 
 </div>
 
-<div class="post" data-post-id="27966" data-author="Rynquald" data-date="2009-02-01T20:57:22+00:00">
+<div class="post" data-post-id="27966" data-author="Rynquald" data-date="2009-02-01T20:57:22+00:00" data-subject="">
 
 That was fast. Nice work.
 
 </div>
 
-<div class="post" data-post-id="27967" data-author="jezer" data-date="2009-02-01T22:47:31+00:00">
+<div class="post" data-post-id="27967" data-author="jezer" data-date="2009-02-01T22:47:31+00:00" data-subject="">
 
 That's not a bad little client if you got JRE6 installed. Couldn't find the option to keep last command, but didn't look to hard.
 
 </div>
 
-<div class="post" data-post-id="27969" data-author="tincts" data-date="2009-02-02T02:52:11+00:00">
+<div class="post" data-post-id="27969" data-author="tincts" data-date="2009-02-02T02:52:11+00:00" data-subject="">
 
 Oh thankyou sweet lord (meaning Splork) the java client gets through the firewall at work!!  Hello sloth, goodbye productivity!
 

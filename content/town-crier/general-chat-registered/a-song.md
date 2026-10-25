@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="8570" data-author="kjartan" data-date="2005-09-08T21:51:08+00:00">
+<div class="post" data-post-id="8570" data-author="kjartan" data-date="2005-09-08T21:51:08+00:00" data-subject="a song">
 
 Hi all, here is a song I recently posted on mudconnect.  You can see that while I am occasionally sarcastic at you guys, I at least don't compose songs of it, so you are getting off relatively easily.
 
@@ -142,7 +142,7 @@ We'll be a little slice of mud heaven.
 
 </div>
 
-<div class="post" data-post-id="8573" data-author="13" data-date="2005-09-09T01:24:47+00:00">
+<div class="post" data-post-id="8573" data-author="13" data-date="2005-09-09T01:24:47+00:00" data-subject="">
 
 sloth-mud is the king of the hill
 

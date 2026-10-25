@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32955" data-author="*Isabo*" data-date="2011-10-22T04:35:05+00:00">
+<div class="post" data-post-id="32955" data-author="*Isabo*" data-date="2011-10-22T04:35:05+00:00" data-subject="A guide to disarming traps">
 
 Greeting mortals.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="30449" data-author="Thraxas" data-date="2009-12-08T09:17:54+00:00">
+<div class="post" data-post-id="30449" data-author="Thraxas" data-date="2009-12-08T09:17:54+00:00" data-subject="avatar hit and damage increased cont.">
 
 Nice change and very welcome ... or at least if your damage done is from personal attacks ... so deinately should be welcome by warriors, thieves, monks, (druids?)
 
@@ -20,7 +20,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30450" data-author="*Splork*" data-date="2009-12-08T13:11:13+00:00">
+<div class="post" data-post-id="30450" data-author="*Splork*" data-date="2009-12-08T13:11:13+00:00" data-subject="">
 
 I am pretty sure every class benefits from extra damage and hit.
 
@@ -36,7 +36,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30451" data-author="Thraxas" data-date="2009-12-08T13:22:23+00:00">
+<div class="post" data-post-id="30451" data-author="Thraxas" data-date="2009-12-08T13:22:23+00:00" data-subject="">
 
 all true ... necro as a prime class is working very well right now and I'm grateful for all the work you've put in ... my UC gives +80 hp or so (+ ~ 33%) on a wraith which is very nice.
 
@@ -48,7 +48,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30454" data-author="jezer" data-date="2009-12-08T19:02:59+00:00">
+<div class="post" data-post-id="30454" data-author="jezer" data-date="2009-12-08T19:02:59+00:00" data-subject="">
 
 I don't think avatar dam/hit shifts... But if you wanted to start picking holes in how "incompatible" shifting is with most game features where would the list end? 
 
@@ -60,7 +60,7 @@ It's not yet known the difference between players fighting in natural form vs av
 
 </div>
 
-<div class="post" data-post-id="30455" data-author="harik" data-date="2009-12-08T22:18:37+00:00">
+<div class="post" data-post-id="30455" data-author="harik" data-date="2009-12-08T22:18:37+00:00" data-subject="">
 
 my cheap 5mana spells dropping while shifted and spending 100's of mana to fix them./quote]
 

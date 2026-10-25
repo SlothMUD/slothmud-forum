@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="35904" data-author="Filk" data-date="2015-05-19T07:48:19+00:00">
+<div class="post" data-post-id="35904" data-author="Filk" data-date="2015-05-19T07:48:19+00:00" data-subject="Alternative eq search page">
 
 I was working for some time on eq search page. More convenient for me, then default eq page on site.
 
@@ -26,7 +26,7 @@ Also, A-record like eq.slothmud.org to its ip address might be usefull, if you h
 
 </div>
 
-<div class="post" data-post-id="35905" data-author="*Breeze*" data-date="2015-05-20T07:37:32+00:00">
+<div class="post" data-post-id="35905" data-author="*Breeze*" data-date="2015-05-20T07:37:32+00:00" data-subject="Re: Alternative eq search page">
 
 Not bad.
 
@@ -36,7 +36,7 @@ A few people said they could and no one followed through.
 
 </div>
 
-<div class="post" data-post-id="35906" data-author="Filk" data-date="2015-05-21T10:30:57+00:00">
+<div class="post" data-post-id="35906" data-author="Filk" data-date="2015-05-21T10:30:57+00:00" data-subject="Re: Alternative eq search page">
 
 Uploaded fresh version.
 
@@ -50,7 +50,7 @@ Breeze, is it posible to export forge page data as json file?
 
 </div>
 
-<div class="post" data-post-id="35907" data-author="*Breeze*" data-date="2015-05-21T11:27:44+00:00">
+<div class="post" data-post-id="35907" data-author="*Breeze*" data-date="2015-05-21T11:27:44+00:00" data-subject="Re: Alternative eq search page">
 
 its already dumped to json just noone has access to it except me.
 
@@ -60,7 +60,7 @@ i dont think i put the mob vnums in the dl eqlist not that i remembereither way.
 
 </div>
 
-<div class="post" data-post-id="35908" data-author="Filk" data-date="2015-05-21T14:10:33+00:00">
+<div class="post" data-post-id="35908" data-author="Filk" data-date="2015-05-21T14:10:33+00:00" data-subject="Re: Alternative eq search page">
 
 I have vnums of all objects, mobs and areas.
 
@@ -72,7 +72,7 @@ Might be good to have constant links with first elements as date of file change.
 
 </div>
 
-<div class="post" data-post-id="35909" data-author="*Breeze*" data-date="2015-05-21T16:20:46+00:00">
+<div class="post" data-post-id="35909" data-author="*Breeze*" data-date="2015-05-21T16:20:46+00:00" data-subject="Re: Alternative eq search page">
 
 i will see if i can remember where the file is
 
@@ -80,7 +80,7 @@ not going to code extra for it though. at least not anytime soon. still setting 
 
 </div>
 
-<div class="post" data-post-id="35910" data-author="*Breeze*" data-date="2015-05-21T22:50:50+00:00">
+<div class="post" data-post-id="35910" data-author="*Breeze*" data-date="2015-05-21T22:50:50+00:00" data-subject="Re: Alternative eq search page">
 
 here is what the data looks like
 
@@ -104,7 +104,7 @@ only real solution is for me to combine the forge and eqlist.json file
 
 </div>
 
-<div class="post" data-post-id="35911" data-author="Filk" data-date="2015-05-22T06:21:02+00:00">
+<div class="post" data-post-id="35911" data-author="Filk" data-date="2015-05-22T06:21:02+00:00" data-subject="Re: Alternative eq search page">
 
 Well. Current format seems almost good enough. Single addition of forger_name will make it better. With forger_area_vnum - perfect :)
 
@@ -128,19 +128,19 @@ If not, i can work with thing you have now. At least something. And we dont have
 
 </div>
 
-<div class="post" data-post-id="35912" data-author="*Breeze*" data-date="2015-05-22T09:53:40+00:00">
+<div class="post" data-post-id="35912" data-author="*Breeze*" data-date="2015-05-22T09:53:40+00:00" data-subject="Re: Alternative eq search page">
 
 Exporter works on coders port but not game port. It crashes the game port. .
 
 </div>
 
-<div class="post" data-post-id="35913" data-author="*Breeze*" data-date="2015-05-25T08:48:51+00:00">
+<div class="post" data-post-id="35913" data-author="*Breeze*" data-date="2015-05-25T08:48:51+00:00" data-subject="Re: Alternative eq search page">
 
 Email me filk.
 
 </div>
 
-<div class="post" data-post-id="35914" data-author="Yasik" data-date="2015-05-26T09:04:29+00:00">
+<div class="post" data-post-id="35914" data-author="Yasik" data-date="2015-05-26T09:04:29+00:00" data-subject="Re: Alternative eq search page">
 
 Limited practical use.
 
@@ -156,7 +156,7 @@ Blackmore's was the best, too bad its gone :(
 
 </div>
 
-<div class="post" data-post-id="35916" data-author="*Breeze*" data-date="2015-05-26T13:47:27+00:00">
+<div class="post" data-post-id="35916" data-author="*Breeze*" data-date="2015-05-26T13:47:27+00:00" data-subject="Re: Alternative eq search page">
 
 re:
 
@@ -166,7 +166,7 @@ re:
 
 </div>
 
-<div class="post" data-post-id="35917" data-author="Filk" data-date="2015-05-26T14:23:04+00:00">
+<div class="post" data-post-id="35917" data-author="Filk" data-date="2015-05-26T14:23:04+00:00" data-subject="Re: Alternative eq search page">
 
 > **Yasik wrote:**
 > Limited practical use.
@@ -204,7 +204,7 @@ No ideas what Bm did, never even heard. But whatever. More not less :)
 
 </div>
 
-<div class="post" data-post-id="35918" data-author="*Breeze*" data-date="2015-05-26T14:41:06+00:00">
+<div class="post" data-post-id="35918" data-author="*Breeze*" data-date="2015-05-26T14:41:06+00:00" data-subject="Re: Alternative eq search page">
 
 just emailed fluffy/filk.  here is the parts of the email that pertain to this conversation.
 
@@ -242,13 +242,13 @@ with the exception of area lifespans and unpopped/unidentified items (not many o
 
 </div>
 
-<div class="post" data-post-id="35920" data-author="Yasik" data-date="2015-05-27T08:36:10+00:00">
+<div class="post" data-post-id="35920" data-author="Yasik" data-date="2015-05-27T08:36:10+00:00" data-subject="Re: Alternative eq search page">
 
 Well, it would be really cool if you guys finish what you say is in your to-do list and what I mentioned.
 
 </div>
 
-<div class="post" data-post-id="35921" data-author="Marvel" data-date="2015-05-27T13:14:41+00:00">
+<div class="post" data-post-id="35921" data-author="Marvel" data-date="2015-05-27T13:14:41+00:00" data-subject="Re: Alternative eq search page">
 
 This is an awesome some start, Filk!
 
@@ -266,7 +266,7 @@ One thing I did do once was use table headers and simple JavaScript to be able t
 
 </div>
 
-<div class="post" data-post-id="35932" data-author="Filk" data-date="2015-06-03T14:00:36+00:00">
+<div class="post" data-post-id="35932" data-author="Filk" data-date="2015-06-03T14:00:36+00:00" data-subject="Re: Alternative eq search page">
 
 Uploaded some updates on the eq page.
 
@@ -282,7 +282,7 @@ That means that item was missing in eq dump, but i have its id from forge dump. 
 
 </div>
 
-<div class="post" data-post-id="36192" data-author="Filk" data-date="2015-11-19T07:10:22+00:00">
+<div class="post" data-post-id="36192" data-author="Filk" data-date="2015-11-19T07:10:22+00:00" data-subject="Re: Alternative eq search page">
 
 Some new updates.
 
@@ -292,7 +292,7 @@ Some new updates.
 
 </div>
 
-<div class="post" data-post-id="36199" data-author="Ertai" data-date="2015-11-21T07:32:56+00:00">
+<div class="post" data-post-id="36199" data-author="Ertai" data-date="2015-11-21T07:32:56+00:00" data-subject="Re: Alternative eq search page">
 
 Just wanted to say 'thanks'.
 

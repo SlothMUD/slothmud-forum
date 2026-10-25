@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34909" data-author="*Neptune*" data-date="2014-03-16T19:25:39+00:00">
+<div class="post" data-post-id="34909" data-author="*Neptune*" data-date="2014-03-16T19:25:39+00:00" data-subject="Moon Temple Rank Gain Fix">
 
 Greetings.
 

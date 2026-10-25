@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="20361" data-author="13" data-date="2007-09-24T13:20:21+00:00">
+<div class="post" data-post-id="20361" data-author="13" data-date="2007-09-24T13:20:21+00:00" data-subject="The ICQ Thread">
 
 Ok newbs,
 
@@ -60,7 +60,7 @@ I'll post my ICQ# to get the ball rolling here.  Feel free to add yours too.
 
 </div>
 
-<div class="post" data-post-id="20363" data-author="resouh" data-date="2007-09-24T14:40:22+00:00">
+<div class="post" data-post-id="20363" data-author="resouh" data-date="2007-09-24T14:40:22+00:00" data-subject="">
 
 Here's my ICQ:  446-367-098
 
@@ -72,7 +72,7 @@ Resouh and Lai
 
 </div>
 
-<div class="post" data-post-id="20364" data-author="Yinao" data-date="2007-09-24T15:51:07+00:00">
+<div class="post" data-post-id="20364" data-author="Yinao" data-date="2007-09-24T15:51:07+00:00" data-subject="">
 
 Here is mine: 422930827 
 
@@ -80,7 +80,7 @@ Maybe Weasel will get one and corpse less  :twisted:
 
 </div>
 
-<div class="post" data-post-id="20365" data-author="mahkra" data-date="2007-09-24T16:21:09+00:00">
+<div class="post" data-post-id="20365" data-author="mahkra" data-date="2007-09-24T16:21:09+00:00" data-subject="">
 
 My ICQ is 477030. 
 
@@ -94,7 +94,7 @@ Did this change?
 
 </div>
 
-<div class="post" data-post-id="20366" data-author="Alberich" data-date="2007-09-24T16:24:14+00:00">
+<div class="post" data-post-id="20366" data-author="Alberich" data-date="2007-09-24T16:24:14+00:00" data-subject="">
 
 no it didn't change.  logging in your other char after first one corpses isn't multi-playing
 
@@ -102,25 +102,25 @@ no it didn't change.  logging in your other char after first one corpses isn't m
 
 </div>
 
-<div class="post" data-post-id="20367" data-author="Krok" data-date="2007-09-24T17:28:07+00:00">
+<div class="post" data-post-id="20367" data-author="Krok" data-date="2007-09-24T17:28:07+00:00" data-subject="">
 
 136 708 250 Krok/Marta/Necrad. I don't actually play atm, but I sometimes happen to be online in ICQ. Perhaps, I'll be kind enough to log on and get your decaying body.
 
 </div>
 
-<div class="post" data-post-id="20368" data-author="Autolycos" data-date="2007-09-24T17:29:29+00:00">
+<div class="post" data-post-id="20368" data-author="Autolycos" data-date="2007-09-24T17:29:29+00:00" data-subject="">
 
 147827163
 
 </div>
 
-<div class="post" data-post-id="20370" data-author="Malison" data-date="2007-09-24T17:57:35+00:00">
+<div class="post" data-post-id="20370" data-author="Malison" data-date="2007-09-24T17:57:35+00:00" data-subject="">
 
 368133846
 
 </div>
 
-<div class="post" data-post-id="20371" data-author="Avatar" data-date="2007-09-24T18:06:46+00:00">
+<div class="post" data-post-id="20371" data-author="Avatar" data-date="2007-09-24T18:06:46+00:00" data-subject="ICQ">
 
 17107009
 
@@ -132,7 +132,7 @@ Anyone have experience with wiki's?  It seems that wiki's are an easy way to let
 
 </div>
 
-<div class="post" data-post-id="20374" data-author="Jag" data-date="2007-09-24T20:28:37+00:00">
+<div class="post" data-post-id="20374" data-author="Jag" data-date="2007-09-24T20:28:37+00:00" data-subject="">
 
 ICQ 339-741-871
 
@@ -142,7 +142,7 @@ Savvy, Jag, Zing, etc.
 
 </div>
 
-<div class="post" data-post-id="20375" data-author="banedon" data-date="2007-09-25T00:24:22+00:00">
+<div class="post" data-post-id="20375" data-author="banedon" data-date="2007-09-25T00:24:22+00:00" data-subject="">
 
 Here is mine: 422930827 
 
@@ -154,13 +154,13 @@ my icq is 429367025
 
 </div>
 
-<div class="post" data-post-id="20376" data-author="Rynquald" data-date="2007-09-25T00:34:54+00:00">
+<div class="post" data-post-id="20376" data-author="Rynquald" data-date="2007-09-25T00:34:54+00:00" data-subject="">
 
 275188800, 99% of the time I have ICQ up while mudding.
 
 </div>
 
-<div class="post" data-post-id="20377" data-author="Tap" data-date="2007-09-25T01:29:03+00:00">
+<div class="post" data-post-id="20377" data-author="Tap" data-date="2007-09-25T01:29:03+00:00" data-subject="">
 
 Don't die?
 
@@ -172,7 +172,7 @@ Works everytime.
 
 </div>
 
-<div class="post" data-post-id="20378" data-author="Yinao" data-date="2007-09-25T01:43:49+00:00">
+<div class="post" data-post-id="20378" data-author="Yinao" data-date="2007-09-25T01:43:49+00:00" data-subject="">
 
 Don't die?
 
@@ -186,7 +186,7 @@ Come again? You learn?
 
 </div>
 
-<div class="post" data-post-id="20379" data-author="van" data-date="2007-09-25T04:44:29+00:00">
+<div class="post" data-post-id="20379" data-author="van" data-date="2007-09-25T04:44:29+00:00" data-subject="">
 
 Anything to prevent clerics from getting raise xp!
 
@@ -198,7 +198,7 @@ I promise to make fun of you when I raise you.. On the other hand, I die so ofte
 
 </div>
 
-<div class="post" data-post-id="20380" data-author="smig1o" data-date="2007-09-25T07:37:00+00:00">
+<div class="post" data-post-id="20380" data-author="smig1o" data-date="2007-09-25T07:37:00+00:00" data-subject="">
 
 My ICQ is 236063520
 
@@ -208,7 +208,7 @@ Im online all the time im muding so fell free to call if in trouble.
 
 </div>
 
-<div class="post" data-post-id="20381" data-author="13" data-date="2007-09-25T13:46:26+00:00">
+<div class="post" data-post-id="20381" data-author="13" data-date="2007-09-25T13:46:26+00:00" data-subject="">
 
 [quote:8z6snsmd]I learn that in order to fly, one must throw one's self at the ground and not land[/quote:8z6snsmd]
 
@@ -216,7 +216,7 @@ David Eddings?  I can't remember where I read that.
 
 </div>
 
-<div class="post" data-post-id="20389" data-author="Weasel" data-date="2007-09-25T22:12:52+00:00">
+<div class="post" data-post-id="20389" data-author="Weasel" data-date="2007-09-25T22:12:52+00:00" data-subject="">
 
 Hitchhikers Guide to the Galaxy series - Douglas Adams.
 
@@ -224,13 +224,13 @@ I believe the trick is actually to throw one's self at the ground and miss.
 
 </div>
 
-<div class="post" data-post-id="20391" data-author="Tap" data-date="2007-09-25T22:35:16+00:00">
+<div class="post" data-post-id="20391" data-author="Tap" data-date="2007-09-25T22:35:16+00:00" data-subject="">
 
 What I'd like to do with my towel right now... :twisted:
 
 </div>
 
-<div class="post" data-post-id="20392" data-author="Weasel" data-date="2007-09-25T22:35:27+00:00">
+<div class="post" data-post-id="20392" data-author="Weasel" data-date="2007-09-25T22:35:27+00:00" data-subject="">
 
 I dunno if he still uses it at all, but Weasel has one.
 
@@ -242,7 +242,7 @@ I haven't reinstalled it since my last harddrive wipe and o/s re-install (I do i
 
 </div>
 
-<div class="post" data-post-id="20393" data-author="13" data-date="2007-09-25T23:10:29+00:00">
+<div class="post" data-post-id="20393" data-author="13" data-date="2007-09-25T23:10:29+00:00" data-subject="">
 
 right!
 

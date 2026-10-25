@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39959" data-author="Insomnia" data-date="2022-06-29T14:49:59+00:00">
+<div class="post" data-post-id="39959" data-author="Insomnia" data-date="2022-06-29T14:49:59+00:00" data-subject="How do you sort items in vaults / keep vaults clean?">
 
 I have hundreds of vaulted items that –
 
@@ -52,7 +52,7 @@ Am I missing anything? Thoughts?  :P
 
 </div>
 
-<div class="post" data-post-id="39960" data-author="cnl" data-date="2022-06-29T20:54:49+00:00">
+<div class="post" data-post-id="39960" data-author="cnl" data-date="2022-06-29T20:54:49+00:00" data-subject="Re: How do you sort items in vaults / keep vaults clean?">
 
 I use a rather manual approach involving annotations, single purpose vaults and containers in the vaults.
 

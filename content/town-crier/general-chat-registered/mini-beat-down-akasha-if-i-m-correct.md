@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="19219" data-author="Leaf" data-date="2007-07-11T15:06:12+00:00">
+<div class="post" data-post-id="19219" data-author="Leaf" data-date="2007-07-11T15:06:12+00:00" data-subject="Mini-Beat Down Akasha (If I&#x27;m correct)">
 
 Just wanted to say thx for the beat down yesterday.
 
@@ -58,7 +58,7 @@ Ooo and it seems Brad is back, after a short leave of absent (Tanker)
 
 </div>
 
-<div class="post" data-post-id="19222" data-author="Autolycos" data-date="2007-07-11T16:15:00+00:00">
+<div class="post" data-post-id="19222" data-author="Autolycos" data-date="2007-07-11T16:15:00+00:00" data-subject="">
 
 yeah it was an unexpected lot of fun.   I think Juggleblood started the heat and Akasha jumped in cause he loves to watch us die.
 
@@ -68,7 +68,7 @@ but i had fun.. and you can never have enuff crackma!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="19223" data-author="Mosaix" data-date="2007-07-11T16:38:29+00:00">
+<div class="post" data-post-id="19223" data-author="Mosaix" data-date="2007-07-11T16:38:29+00:00" data-subject="">
 
 I entered in just after the death of the first mob.
 
@@ -80,7 +80,7 @@ Mosaix/Broc
 
 </div>
 
-<div class="post" data-post-id="19224" data-author="*juggleblood*" data-date="2007-07-11T17:31:58+00:00">
+<div class="post" data-post-id="19224" data-author="*juggleblood*" data-date="2007-07-11T17:31:58+00:00" data-subject="">
 
 It wasn't me. I just logged on for a visit, gave Stryx madcow and left. 
 
@@ -88,7 +88,7 @@ Moo :!:
 
 </div>
 
-<div class="post" data-post-id="19225" data-author="Akasha" data-date="2007-07-11T18:38:11+00:00">
+<div class="post" data-post-id="19225" data-author="Akasha" data-date="2007-07-11T18:38:11+00:00" data-subject="">
 
 The worm was a test, and it had a swallow proc, but it didnt work for some resason.  You can expect the next time I use a mob like that I will have figured out why it didnt work ...
 
@@ -98,7 +98,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="19226" data-author="Leaf" data-date="2007-07-11T20:20:04+00:00">
+<div class="post" data-post-id="19226" data-author="Leaf" data-date="2007-07-11T20:20:04+00:00" data-subject="">
 
 Woooo ... funny that I mentioned about the swallow proc and it was coded
 
@@ -108,7 +108,7 @@ That and I wanted to see Brad get chewed up and spit out.
 
 </div>
 
-<div class="post" data-post-id="19229" data-author="Autolycos" data-date="2007-07-11T20:40:05+00:00">
+<div class="post" data-post-id="19229" data-author="Autolycos" data-date="2007-07-11T20:40:05+00:00" data-subject="">
 
 The worm was a test, and it had a swallow proc, but it didnt work for some resason.  You can expect the next time I use a mob like that I will have figured out why it didnt work ...Akasha[/quote:tjsrrr7a]
 
@@ -116,7 +116,7 @@ so it wouldnt work like the Ettin's oven trig etc?
 
 </div>
 
-<div class="post" data-post-id="19230" data-author="Akasha" data-date="2007-07-11T20:44:17+00:00">
+<div class="post" data-post-id="19230" data-author="Akasha" data-date="2007-07-11T20:44:17+00:00" data-subject="">
 
 [quote:2kxjkrc8]so it wouldnt work like the Ettin's oven trig etc?[/quote:2kxjkrc8]
 
@@ -124,19 +124,19 @@ Something that simple from me?  yer so funny
 
 </div>
 
-<div class="post" data-post-id="19231" data-author="Autolycos" data-date="2007-07-11T20:45:59+00:00">
+<div class="post" data-post-id="19231" data-author="Autolycos" data-date="2007-07-11T20:45:59+00:00" data-subject="">
 
 then code mah smyte rub command everytime i sac a corpse to mah god!!
 
 </div>
 
-<div class="post" data-post-id="19239" data-author="Weasel" data-date="2007-07-11T23:56:25+00:00">
+<div class="post" data-post-id="19239" data-author="Weasel" data-date="2007-07-11T23:56:25+00:00" data-subject="">
 
 Yeah thanks! Logged on briefly to check for any updates in the drachma shop, ended up with Shyla giving me a cps I was looking for, then Auto inviting me to join up resulting in 30 more drachma! Cheers!
 
 </div>
 
-<div class="post" data-post-id="19242" data-author="Tetsulunathaya" data-date="2007-07-12T03:28:20+00:00">
+<div class="post" data-post-id="19242" data-author="Tetsulunathaya" data-date="2007-07-12T03:28:20+00:00" data-subject="">
 
 It could have been that i wasn't letting it proc much at all, except for a few slip ups, and about 10 rounds when i was regenning mana.
 
@@ -146,7 +146,7 @@ If you 'test it' again, maybe mention to your group bard not to supress the proc
 
 </div>
 
-<div class="post" data-post-id="19246" data-author="firebrand" data-date="2007-07-12T15:15:21+00:00">
+<div class="post" data-post-id="19246" data-author="firebrand" data-date="2007-07-12T15:15:21+00:00" data-subject="">
 
 yer so funny[/quote:3jy32rq3]
 
@@ -156,7 +156,7 @@ yeah, but looks aren't everything (stares at autolycos)
 
 </div>
 
-<div class="post" data-post-id="19247" data-author="Autolycos" data-date="2007-07-12T15:20:08+00:00">
+<div class="post" data-post-id="19247" data-author="Autolycos" data-date="2007-07-12T15:20:08+00:00" data-subject="">
 
 yeah, but looks aren't everything (stares at autolycos)[/quote:308cnj37]
 
@@ -166,7 +166,7 @@ cept maybe a stab in the face.
 
 </div>
 
-<div class="post" data-post-id="19248" data-author="firebrand" data-date="2007-07-12T16:57:58+00:00">
+<div class="post" data-post-id="19248" data-author="firebrand" data-date="2007-07-12T16:57:58+00:00" data-subject="">
 
 HEEEEEEEE loves me!  whee!  (j/k, tiff.  i like breathing, tyvm)
 

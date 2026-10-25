@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16808" data-author="Avalon" data-date="2007-02-11T16:21:32+00:00">
+<div class="post" data-post-id="16808" data-author="Avalon" data-date="2007-02-11T16:21:32+00:00" data-subject="Black Short Sword (new pop location?)">
 
 Xiamond Adamant is using:
 
@@ -56,7 +56,7 @@ warriors, druids, necromancers, bards, or monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="35184" data-author="orihara" data-date="2014-05-28T07:42:37+00:00">
+<div class="post" data-post-id="35184" data-author="orihara" data-date="2014-05-28T07:42:37+00:00" data-subject="Re: Black Short Sword (new pop location?)">
 
 Thanks for the information bro now i can play with a little information about the sword black short.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="37918" data-author="Gorka" data-date="2016-12-30T22:07:17+00:00">
+<div class="post" data-post-id="37918" data-author="Gorka" data-date="2016-12-30T22:07:17+00:00" data-subject="Max AC possible without Potions">
 
 I am trying to work out the max possible AC in game without potions... so I thought I'd put it out there for you guys to spot check and tell me what I am missing.
 
@@ -116,7 +116,7 @@ Are we missing anything?
 
 </div>
 
-<div class="post" data-post-id="37920" data-author="Teron" data-date="2016-12-31T06:16:54+00:00">
+<div class="post" data-post-id="37920" data-author="Teron" data-date="2016-12-31T06:16:54+00:00" data-subject="Re: Max AC possible without Potions">
 
 No obsidian great helm, that's temp.
 
@@ -128,13 +128,13 @@ molten guards are -0.7 (guards of maul titans are -0.8 +max str), so any guards 
 
 </div>
 
-<div class="post" data-post-id="37922" data-author="*juggleblood*" data-date="2016-12-31T15:03:53+00:00">
+<div class="post" data-post-id="37922" data-author="*juggleblood*" data-date="2016-12-31T15:03:53+00:00" data-subject="Re: Max AC possible without Potions">
 
 I think using light for .4 AC is a mistake. If I were tank I'd have a max AC mode for group, but would focus on a solo mixed AC/damage for my more elite mode.
 
 </div>
 
-<div class="post" data-post-id="37924" data-author="Gorka" data-date="2016-12-31T16:00:12+00:00">
+<div class="post" data-post-id="37924" data-author="Gorka" data-date="2016-12-31T16:00:12+00:00" data-subject="Re: Max AC possible without Potions">
 
 > ***juggleblood* wrote:**
 > I think using light for .4 AC is a mistake. If I were tank I'd have a max AC mode for group, but would focus on a solo mixed AC/damage for my more elite mode.
@@ -151,7 +151,7 @@ Furthermore, it appears that most people consider that a group tank should at le
 
 </div>
 
-<div class="post" data-post-id="37926" data-author="Josiah" data-date="2016-12-31T17:12:39+00:00">
+<div class="post" data-post-id="37926" data-author="Josiah" data-date="2016-12-31T17:12:39+00:00" data-subject="Re: Max AC possible without Potions">
 
 I've learned almost nothing from "friends".  I do have a few suspicions from assisting with bug fixes over the years. I don't ask questions about hidden game mechanics.  Instead, I poke and prod within the game to figure out how it works.
 
@@ -179,7 +179,7 @@ This... will almost certainly never happen, and even if someday a decade from no
 
 </div>
 
-<div class="post" data-post-id="37929" data-author="Teron" data-date="2017-01-01T05:53:03+00:00">
+<div class="post" data-post-id="37929" data-author="Teron" data-date="2017-01-01T05:53:03+00:00" data-subject="Re: Max AC possible without Potions">
 
 Gorka, ac is not limited to high avatars. It is limited to warriors, who spend their time on getting eq, rather than fighting in the coliseum. 
 

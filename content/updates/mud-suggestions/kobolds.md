@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36197" data-author="Yasik" data-date="2015-11-20T15:42:40+00:00">
+<div class="post" data-post-id="36197" data-author="Yasik" data-date="2015-11-20T15:42:40+00:00" data-subject="Kobolds">
 
 The log is below.
 
@@ -390,7 +390,7 @@ Also, I collecting ideas and suggestons on low-level activity, and will submit s
 
 </div>
 
-<div class="post" data-post-id="36201" data-author="Yasik" data-date="2015-11-21T17:02:41+00:00">
+<div class="post" data-post-id="36201" data-author="Yasik" data-date="2015-11-21T17:02:41+00:00" data-subject="Re: Kobolds">
 
 Suggestion #3: In BH town, make rats unfleeable; if a newbie chooses to start in BH, the first mob they will hunt will be rats, but the newb dont know how to deal with fleeing mobs yet, so if his exp flees - this will lead to frustration.
 
@@ -398,13 +398,13 @@ Suggestion #4: kobold-mercenary, it need to be dealt with somehow, either remove
 
 </div>
 
-<div class="post" data-post-id="36204" data-author="Yasik" data-date="2015-11-21T18:27:00+00:00">
+<div class="post" data-post-id="36204" data-author="Yasik" data-date="2015-11-21T18:27:00+00:00" data-subject="Re: Kobolds">
 
 Suggestion #5: spirit of Splork in Newbatia Colledge - same as #4; newbie attack it, dies, then cant find his eq.
 
 </div>
 
-<div class="post" data-post-id="36209" data-author="*juggleblood*" data-date="2015-11-26T01:43:27+00:00">
+<div class="post" data-post-id="36209" data-author="*juggleblood*" data-date="2015-11-26T01:43:27+00:00" data-subject="Re: Kobolds">
 
 If a newbie dies in kobold village but no one posts it on the crier, does it still make Juggleblood cry?
 

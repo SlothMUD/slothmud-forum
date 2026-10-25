@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34063" data-author="*juggleblood*" data-date="2013-02-21T14:20:04+00:00">
+<div class="post" data-post-id="34063" data-author="*juggleblood*" data-date="2013-02-21T14:20:04+00:00" data-subject="Chicken change.">
 
 In the course of my meanderings, I removed the Lyme chicken gag. 
 
@@ -18,7 +18,7 @@ Having a newb deathtrap on the Lyme dock was funny to Blaster and I, but alas, w
 
 </div>
 
-<div class="post" data-post-id="34072" data-author="Yasik" data-date="2013-02-22T22:31:09+00:00">
+<div class="post" data-post-id="34072" data-author="Yasik" data-date="2013-02-22T22:31:09+00:00" data-subject="Re: Chicken change.">
 
 You just called Blaster immature or I misheard? He was there long before you appeared. He'll be back someday and kick your ass for touching his work.
 
@@ -28,7 +28,7 @@ PS. Can you tell someone to please stop following my runs and adjusting pop rate
 
 </div>
 
-<div class="post" data-post-id="34075" data-author="*juggleblood*" data-date="2013-02-23T01:58:12+00:00">
+<div class="post" data-post-id="34075" data-author="*juggleblood*" data-date="2013-02-23T01:58:12+00:00" data-subject="Re: Chicken change.">
 
 I ain't scared.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="27917" data-author="Yasik2" data-date="2009-01-30T05:52:45+00:00">
+<div class="post" data-post-id="27917" data-author="Yasik2" data-date="2009-01-30T05:52:45+00:00" data-subject="Abone">
 
 Master Devry tells you 'If you give away your rank insignia, or it otherwise[/color:3lvlbx35]'
 
@@ -64,7 +64,7 @@ If you need it back - send me a tell ingame, either should i give it back to you
 
 </div>
 
-<div class="post" data-post-id="27926" data-author="Assirian" data-date="2009-01-30T18:05:53+00:00">
+<div class="post" data-post-id="27926" data-author="Assirian" data-date="2009-01-30T18:05:53+00:00" data-subject="">
 
 Abone got a promotion and dropped old uselss insigna.. like everybody (expect Bazilus) does :)
 

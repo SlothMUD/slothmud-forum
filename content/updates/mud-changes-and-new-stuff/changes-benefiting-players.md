@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="28956" data-author="*Splork*" data-date="2009-04-17T13:53:40+00:00">
+<div class="post" data-post-id="28956" data-author="*Splork*" data-date="2009-04-17T13:53:40+00:00" data-subject="Changes benefiting players...">
 
 1) Kill history has been adjusted slightly, on the players behalf. Penalties lowered and arrays shortened
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 64
 ---
 
-<div class="post" data-post-id="25513" data-author="reboog" data-date="2008-08-01T06:15:16+00:00">
+<div class="post" data-post-id="25513" data-author="reboog" data-date="2008-08-01T06:15:16+00:00" data-subject="reboog is great">
 
 This is a thread documenting the deeds of greatness that I am doing and am will be achieving.  Consider it a privilege to witness my am achieving the acts of greatness.
 
@@ -36,7 +36,7 @@ I sure am great.
 
 </div>
 
-<div class="post" data-post-id="25514" data-author="reboog" data-date="2008-08-01T06:16:25+00:00">
+<div class="post" data-post-id="25514" data-author="reboog" data-date="2008-08-01T06:16:25+00:00" data-subject="">
 
 ent barnacle
 
@@ -52,37 +52,37 @@ There is no barnacle here.
 
 </div>
 
-<div class="post" data-post-id="25515" data-author="jezer" data-date="2008-08-01T08:08:27+00:00">
+<div class="post" data-post-id="25515" data-author="jezer" data-date="2008-08-01T08:08:27+00:00" data-subject="">
 
 Ohhhhhhh master, where hast thou been!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="25516" data-author="Yasik2" data-date="2008-08-01T09:07:18+00:00">
+<div class="post" data-post-id="25516" data-author="Yasik2" data-date="2008-08-01T09:07:18+00:00" data-subject="">
 
 ALL HAIL REBOOG !!! [/size:385yml14][/color:385yml14]
 
 </div>
 
-<div class="post" data-post-id="25517" data-author="jezer" data-date="2008-08-01T10:36:08+00:00">
+<div class="post" data-post-id="25517" data-author="jezer" data-date="2008-08-01T10:36:08+00:00" data-subject="">
 
 [img:2pvvx4hd]http://www.leapfreak.com/images/Sign.jpg[/img:2pvvx4hd]
 
 </div>
 
-<div class="post" data-post-id="25525" data-author="Yinao" data-date="2008-08-02T03:23:43+00:00">
+<div class="post" data-post-id="25525" data-author="Yinao" data-date="2008-08-02T03:23:43+00:00" data-subject="">
 
 According to Dictionary.com Reboog is just a re-bent rod... In Dutch of course.
 
 </div>
 
-<div class="post" data-post-id="25526" data-author="jezer" data-date="2008-08-02T07:06:47+00:00">
+<div class="post" data-post-id="25526" data-author="jezer" data-date="2008-08-02T07:06:47+00:00" data-subject="">
 
 If you swing it around it spells goober...  :wink:
 
 </div>
 
-<div class="post" data-post-id="25565" data-author="reboog" data-date="2008-08-03T20:18:45+00:00">
+<div class="post" data-post-id="25565" data-author="reboog" data-date="2008-08-03T20:18:45+00:00" data-subject="">
 
 press kalene
 
@@ -100,13 +100,13 @@ You grouptell: 'i caused that.'
 
 </div>
 
-<div class="post" data-post-id="25566" data-author="slobe" data-date="2008-08-03T21:39:54+00:00">
+<div class="post" data-post-id="25566" data-author="slobe" data-date="2008-08-03T21:39:54+00:00" data-subject="dead in lyme">
 
 not really just renaming this post in attmpt 2 hide it from reboog muahahaha
 
 </div>
 
-<div class="post" data-post-id="25622" data-author="reboog" data-date="2008-08-06T02:09:37+00:00">
+<div class="post" data-post-id="25622" data-author="reboog" data-date="2008-08-06T02:09:37+00:00" data-subject="">
 
 Lucifer, the dark angel is turned into a small pile of dust by a magical gesture from Reboog.
 
@@ -114,7 +114,7 @@ i caused that.
 
 </div>
 
-<div class="post" data-post-id="25629" data-author="reboog" data-date="2008-08-06T03:36:42+00:00">
+<div class="post" data-post-id="25629" data-author="reboog" data-date="2008-08-06T03:36:42+00:00" data-subject="">
 
 You try flexing to impress the ladies.
 
@@ -146,19 +146,19 @@ ARE WE GREAT?
 
 </div>
 
-<div class="post" data-post-id="25630" data-author="Poggle" data-date="2008-08-06T03:39:07+00:00">
+<div class="post" data-post-id="25630" data-author="Poggle" data-date="2008-08-06T03:39:07+00:00" data-subject="">
 
 WE R GREAT
 
 </div>
 
-<div class="post" data-post-id="25661" data-author="Acedia" data-date="2008-08-06T23:08:48+00:00">
+<div class="post" data-post-id="25661" data-author="Acedia" data-date="2008-08-06T23:08:48+00:00" data-subject="">
 
 *bump*
 
 </div>
 
-<div class="post" data-post-id="25690" data-author="reboog" data-date="2008-08-09T05:22:50+00:00">
+<div class="post" data-post-id="25690" data-author="reboog" data-date="2008-08-09T05:22:50+00:00" data-subject="">
 
 Poggle says 'reboog is great.'
 
@@ -168,7 +168,7 @@ You put your hand out, and Poggle slaps it.
 
 </div>
 
-<div class="post" data-post-id="25693" data-author="*juggleblood*" data-date="2008-08-09T06:55:39+00:00">
+<div class="post" data-post-id="25693" data-author="*juggleblood*" data-date="2008-08-09T06:55:39+00:00" data-subject="">
 
 u shuld start your clan;
 
@@ -182,7 +182,7 @@ Clan Great: ~G~
 
 </div>
 
-<div class="post" data-post-id="25730" data-author="reboog" data-date="2008-08-13T05:44:35+00:00">
+<div class="post" data-post-id="25730" data-author="reboog" data-date="2008-08-13T05:44:35+00:00" data-subject="the greatness is poggle sometimes capable of the great">
 
 Poggle brutally stomps a skeletal warrior.
 
@@ -190,19 +190,19 @@ A skeletal warrior is dead! R.I.P.
 
 </div>
 
-<div class="post" data-post-id="25735" data-author="13" data-date="2008-08-13T18:42:19+00:00">
+<div class="post" data-post-id="25735" data-author="13" data-date="2008-08-13T18:42:19+00:00" data-subject="">
 
 what's going on here?
 
 </div>
 
-<div class="post" data-post-id="25736" data-author="Poggle" data-date="2008-08-13T19:56:05+00:00">
+<div class="post" data-post-id="25736" data-author="Poggle" data-date="2008-08-13T19:56:05+00:00" data-subject="">
 
 We are being great.
 
 </div>
 
-<div class="post" data-post-id="25739" data-author="reboog" data-date="2008-08-14T05:23:00+00:00">
+<div class="post" data-post-id="25739" data-author="reboog" data-date="2008-08-14T05:23:00+00:00" data-subject="owmned, srsly">
 
 Acedia utters the words, 'qfzahz yaae'
 
@@ -222,37 +222,37 @@ You say 'OWMNED'
 
 </div>
 
-<div class="post" data-post-id="25745" data-author="tincts" data-date="2008-08-15T03:00:30+00:00">
+<div class="post" data-post-id="25745" data-author="tincts" data-date="2008-08-15T03:00:30+00:00" data-subject="">
 
 Best thread ever.
 
 </div>
 
-<div class="post" data-post-id="25746" data-author="reboog" data-date="2008-08-15T03:49:38+00:00">
+<div class="post" data-post-id="25746" data-author="reboog" data-date="2008-08-15T03:49:38+00:00" data-subject="">
 
 tincts: your nick is the correct length
 
 </div>
 
-<div class="post" data-post-id="25748" data-author="Weasel" data-date="2008-08-15T04:35:35+00:00">
+<div class="post" data-post-id="25748" data-author="Weasel" data-date="2008-08-15T04:35:35+00:00" data-subject="">
 
 ( O)(o )
 
 </div>
 
-<div class="post" data-post-id="25749" data-author="jezer" data-date="2008-08-15T04:50:15+00:00">
+<div class="post" data-post-id="25749" data-author="jezer" data-date="2008-08-15T04:50:15+00:00" data-subject="">
 
 No weasel, 6 letter names of animals are excluded from the awesomeness.
 
 </div>
 
-<div class="post" data-post-id="25750" data-author="Weasel" data-date="2008-08-15T04:52:03+00:00">
+<div class="post" data-post-id="25750" data-author="Weasel" data-date="2008-08-15T04:52:03+00:00" data-subject="">
 
 how awesome is my awesomeness.
 
 </div>
 
-<div class="post" data-post-id="25751" data-author="tincts" data-date="2008-08-15T05:29:16+00:00">
+<div class="post" data-post-id="25751" data-author="tincts" data-date="2008-08-15T05:29:16+00:00" data-subject="">
 
 tincts: your nick is the correct length[/quote:3qg08h4i]
 
@@ -260,7 +260,7 @@ Yah.  I pluralised it just to fit in :)
 
 </div>
 
-<div class="post" data-post-id="25755" data-author="Tap" data-date="2008-08-16T13:24:00+00:00">
+<div class="post" data-post-id="25755" data-author="Tap" data-date="2008-08-16T13:24:00+00:00" data-subject="Reboog, the other white meat">
 
 Dude's Awesome
 
@@ -268,7 +268,7 @@ Dude's Awesome
 
 </div>
 
-<div class="post" data-post-id="25758" data-author="reboog" data-date="2008-08-16T18:06:30+00:00">
+<div class="post" data-post-id="25758" data-author="reboog" data-date="2008-08-16T18:06:30+00:00" data-subject="">
 
 Poggle is great
 
@@ -282,13 +282,13 @@ WE SURE ARE GREAT!  srsly, i'm so srs.
 
 </div>
 
-<div class="post" data-post-id="25762" data-author="jezer" data-date="2008-08-17T01:39:00+00:00">
+<div class="post" data-post-id="25762" data-author="jezer" data-date="2008-08-17T01:39:00+00:00" data-subject="">
 
 Oh man! I want the awesomeness too!  :cry: From now on I will be known as Jezers.
 
 </div>
 
-<div class="post" data-post-id="25763" data-author="reboog" data-date="2008-08-17T03:49:49+00:00">
+<div class="post" data-post-id="25763" data-author="reboog" data-date="2008-08-17T03:49:49+00:00" data-subject="">
 
 jezers: hi
 
@@ -302,7 +302,7 @@ jezers is excellent, and so is his nick length
 
 </div>
 
-<div class="post" data-post-id="25764" data-author="Weasel" data-date="2008-08-17T04:01:46+00:00">
+<div class="post" data-post-id="25764" data-author="Weasel" data-date="2008-08-17T04:01:46+00:00" data-subject="">
 
 .[/color:2ixu6ntl]
 
@@ -314,7 +314,7 @@ corm is great.[/color:2ixu6ntl]
 
 </div>
 
-<div class="post" data-post-id="25766" data-author="Yasik2" data-date="2008-08-17T07:19:18+00:00">
+<div class="post" data-post-id="25766" data-author="Yasik2" data-date="2008-08-17T07:19:18+00:00" data-subject="">
 
 *demotivator*[/quote:3ganw573]
 
@@ -322,7 +322,7 @@ corm is great.[/color:2ixu6ntl]
 
 </div>
 
-<div class="post" data-post-id="25784" data-author="Acedia" data-date="2008-08-17T22:33:14+00:00">
+<div class="post" data-post-id="25784" data-author="Acedia" data-date="2008-08-17T22:33:14+00:00" data-subject="">
 
 teach fat kalene
 
@@ -338,13 +338,13 @@ Reboog is geat
 
 </div>
 
-<div class="post" data-post-id="25806" data-author="reboog" data-date="2008-08-18T08:22:44+00:00">
+<div class="post" data-post-id="25806" data-author="reboog" data-date="2008-08-18T08:22:44+00:00" data-subject="">
 
 omg i kno rite
 
 </div>
 
-<div class="post" data-post-id="25990" data-author="reboog" data-date="2008-08-29T21:36:06+00:00">
+<div class="post" data-post-id="25990" data-author="reboog" data-date="2008-08-29T21:36:06+00:00" data-subject="">
 
 Stream gossips-- 'u're great indeed'
 
@@ -356,7 +356,7 @@ You gossip-- 'I sure am great.'
 
 </div>
 
-<div class="post" data-post-id="25994" data-author="Tap" data-date="2008-08-29T22:00:31+00:00">
+<div class="post" data-post-id="25994" data-author="Tap" data-date="2008-08-29T22:00:31+00:00" data-subject="">
 
 Reboog is good but there is only one great.
 
@@ -364,7 +364,7 @@ Reboog is good but there is only one great.
 
 </div>
 
-<div class="post" data-post-id="26077" data-author="reboog" data-date="2008-09-02T07:57:15+00:00">
+<div class="post" data-post-id="26077" data-author="reboog" data-date="2008-09-02T07:57:15+00:00" data-subject="">
 
 Dear fats,
 
@@ -376,7 +376,7 @@ Reboog
 
 </div>
 
-<div class="post" data-post-id="26173" data-author="reboog" data-date="2008-09-06T09:05:25+00:00">
+<div class="post" data-post-id="26173" data-author="reboog" data-date="2008-09-06T09:05:25+00:00" data-subject="">
 
 Apprentice (gossip): that's great reboogt
 
@@ -394,13 +394,13 @@ Dubbs (gossip): i agree :)
 
 </div>
 
-<div class="post" data-post-id="26174" data-author="Yasik2" data-date="2008-09-06T09:14:11+00:00">
+<div class="post" data-post-id="26174" data-author="Yasik2" data-date="2008-09-06T09:14:11+00:00" data-subject="">
 
 Reboog for President!
 
 </div>
 
-<div class="post" data-post-id="26364" data-author="jezer" data-date="2008-09-17T11:54:34+00:00">
+<div class="post" data-post-id="26364" data-author="jezer" data-date="2008-09-17T11:54:34+00:00" data-subject="">
 
 <448hp 292ma 199mv 1.3ac +7al 1124047679xp +141mr>
 
@@ -420,13 +420,13 @@ Judge gossips-- 'goober is not great :P'
 
 </div>
 
-<div class="post" data-post-id="26373" data-author="Weasel" data-date="2008-09-17T20:20:36+00:00">
+<div class="post" data-post-id="26373" data-author="Weasel" data-date="2008-09-17T20:20:36+00:00" data-subject="">
 
 goober is grating?
 
 </div>
 
-<div class="post" data-post-id="26382" data-author="reboog" data-date="2008-09-18T07:54:09+00:00">
+<div class="post" data-post-id="26382" data-author="reboog" data-date="2008-09-18T07:54:09+00:00" data-subject="">
 
 Judge: bad nick length
 
@@ -434,7 +434,7 @@ Weasel: i sure am greating
 
 </div>
 
-<div class="post" data-post-id="26425" data-author="reboog" data-date="2008-09-21T23:38:09+00:00">
+<div class="post" data-post-id="26425" data-author="reboog" data-date="2008-09-21T23:38:09+00:00" data-subject="">
 
 -----{   Settlestone Pony Deluxe  }-----
 
@@ -456,7 +456,7 @@ Poggle
 
 </div>
 
-<div class="post" data-post-id="26598" data-author="reboog" data-date="2008-10-08T00:22:08+00:00">
+<div class="post" data-post-id="26598" data-author="reboog" data-date="2008-10-08T00:22:08+00:00" data-subject="">
 
 I wrote a love poem for everyone I am being in love with
 
@@ -472,25 +472,25 @@ Reboog
 
 </div>
 
-<div class="post" data-post-id="26690" data-author="Poggle" data-date="2008-10-14T18:51:22+00:00">
+<div class="post" data-post-id="26690" data-author="Poggle" data-date="2008-10-14T18:51:22+00:00" data-subject="">
 
 hi
 
 </div>
 
-<div class="post" data-post-id="26694" data-author="jezer" data-date="2008-10-14T23:46:15+00:00">
+<div class="post" data-post-id="26694" data-author="jezer" data-date="2008-10-14T23:46:15+00:00" data-subject="">
 
 I think reboog could have been greater if he kept his greatness charade up longer. It's run out... I'm disppointed... reboog was just good...  :evil:
 
 </div>
 
-<div class="post" data-post-id="26699" data-author="reboog" data-date="2008-10-15T02:38:28+00:00">
+<div class="post" data-post-id="26699" data-author="reboog" data-date="2008-10-15T02:38:28+00:00" data-subject="">
 
 Reboog is great.  Don't worry, I checked.
 
 </div>
 
-<div class="post" data-post-id="26708" data-author="tincts" data-date="2008-10-15T06:21:14+00:00">
+<div class="post" data-post-id="26708" data-author="tincts" data-date="2008-10-15T06:21:14+00:00" data-subject="">
 
 I'm thinking of playing sloth again.  I know that Reboog is great, but I need to experience it.  To FEEL it.
 
@@ -498,49 +498,49 @@ He's great, Reboog.
 
 </div>
 
-<div class="post" data-post-id="26713" data-author="Poggle" data-date="2008-10-15T16:43:12+00:00">
+<div class="post" data-post-id="26713" data-author="Poggle" data-date="2008-10-15T16:43:12+00:00" data-subject="">
 
 doubt: bad nick length
 
 </div>
 
-<div class="post" data-post-id="26722" data-author="reboog" data-date="2008-10-16T00:54:16+00:00">
+<div class="post" data-post-id="26722" data-author="reboog" data-date="2008-10-16T00:54:16+00:00" data-subject="">
 
 hi
 
 </div>
 
-<div class="post" data-post-id="27121" data-author="Poggle" data-date="2008-11-10T21:31:33+00:00">
+<div class="post" data-post-id="27121" data-author="Poggle" data-date="2008-11-10T21:31:33+00:00" data-subject="">
 
 Dear bear boys, the man in the moon is hammering his tin face, the stars are pins in the voodoo doll of the universe, the happiness tastes of blueberry and orange pancakes! cheers
 
 </div>
 
-<div class="post" data-post-id="27123" data-author="Weasel" data-date="2008-11-10T22:24:48+00:00">
+<div class="post" data-post-id="27123" data-author="Weasel" data-date="2008-11-10T22:24:48+00:00" data-subject="">
 
 Dear bear boys, the man in the moon is hammering his tin face, the stars are pins in the voodoo doll of the universe, the happiness tastes of blueberry and orange pancakes! cheers[/quote:phvyywmn] blueberry and orange... [i:phvyywmn]together[/i:phvyywmn] ?  Not sure about that one, but I guess if it's smothered with enough maple syrup it'll work. Cheers to you too.
 
 </div>
 
-<div class="post" data-post-id="28053" data-author="reboog" data-date="2009-02-11T07:05:55+00:00">
+<div class="post" data-post-id="28053" data-author="reboog" data-date="2009-02-11T07:05:55+00:00" data-subject="">
 
 Communism is bad.
 
 </div>
 
-<div class="post" data-post-id="28056" data-author="reboog" data-date="2009-02-11T10:54:29+00:00">
+<div class="post" data-post-id="28056" data-author="reboog" data-date="2009-02-11T10:54:29+00:00" data-subject="">
 
 Socialism is bad.
 
 </div>
 
-<div class="post" data-post-id="28060" data-author="jezer" data-date="2009-02-11T11:43:23+00:00">
+<div class="post" data-post-id="28060" data-author="jezer" data-date="2009-02-11T11:43:23+00:00" data-subject="">
 
 Reboog is bad.
 
 </div>
 
-<div class="post" data-post-id="28061" data-author="Gimlet" data-date="2009-02-11T12:08:09+00:00">
+<div class="post" data-post-id="28061" data-author="Gimlet" data-date="2009-02-11T12:08:09+00:00" data-subject="">
 
 stfu is good
 
@@ -550,25 +550,25 @@ go get one
 
 </div>
 
-<div class="post" data-post-id="28062" data-author="reboog" data-date="2009-02-11T19:52:55+00:00">
+<div class="post" data-post-id="28062" data-author="reboog" data-date="2009-02-11T19:52:55+00:00" data-subject="">
 
 Gimlet: your nick is the correct length.  The correct length is your nick length.  You nick length is correct.
 
 </div>
 
-<div class="post" data-post-id="28171" data-author="Poggle" data-date="2009-02-18T06:10:03+00:00">
+<div class="post" data-post-id="28171" data-author="Poggle" data-date="2009-02-18T06:10:03+00:00" data-subject="">
 
 1.d4
 
 </div>
 
-<div class="post" data-post-id="28173" data-author="reboog" data-date="2009-02-18T06:40:51+00:00">
+<div class="post" data-post-id="28173" data-author="reboog" data-date="2009-02-18T06:40:51+00:00" data-subject="">
 
 1.  ...d5
 
 </div>
 
-<div class="post" data-post-id="28174" data-author="jezer" data-date="2009-02-18T09:29:24+00:00">
+<div class="post" data-post-id="28174" data-author="jezer" data-date="2009-02-18T09:29:24+00:00" data-subject="reboog is grape">
 
 [img:94st2pky]http://assets.kaboose.com/media/00/00/00/d7/ed4881bff7b0bf72969572043831b4e8acfc3673/476x357/grape-guy_476x357.jpg[/img:94st2pky]
 
@@ -576,7 +576,7 @@ reboog is grape
 
 </div>
 
-<div class="post" data-post-id="28179" data-author="reboog" data-date="2009-02-18T09:59:23+00:00">
+<div class="post" data-post-id="28179" data-author="reboog" data-date="2009-02-18T09:59:23+00:00" data-subject="Re: reboog is grape">
 
 [img:205kbqn9]http://assets.kaboose.com/media/00/00/00/d7/ed4881bff7b0bf72969572043831b4e8acfc3673/476x357/grape-guy_476x357.jpg[/img:205kbqn9]
 
@@ -586,25 +586,25 @@ reboog: hi
 
 </div>
 
-<div class="post" data-post-id="28184" data-author="Poggle" data-date="2009-02-18T17:09:51+00:00">
+<div class="post" data-post-id="28184" data-author="Poggle" data-date="2009-02-18T17:09:51+00:00" data-subject="">
 
 2.f4
 
 </div>
 
-<div class="post" data-post-id="28187" data-author="reboog" data-date="2009-02-18T19:04:42+00:00">
+<div class="post" data-post-id="28187" data-author="reboog" data-date="2009-02-18T19:04:42+00:00" data-subject="">
 
 2. ...1-0
 
 </div>
 
-<div class="post" data-post-id="28304" data-author="reboog" data-date="2009-02-26T20:02:35+00:00">
+<div class="post" data-post-id="28304" data-author="reboog" data-date="2009-02-26T20:02:35+00:00" data-subject="">
 
 everyone: shutup
 
 </div>
 
-<div class="post" data-post-id="28321" data-author="reboog" data-date="2009-02-27T10:42:27+00:00">
+<div class="post" data-post-id="28321" data-author="reboog" data-date="2009-02-27T10:42:27+00:00" data-subject="">
 
 jezer: i'm glad we had  this conversation
 

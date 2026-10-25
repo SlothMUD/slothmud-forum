@@ -10,7 +10,7 @@ locked: false
 post_count: 48
 ---
 
-<div class="post" data-post-id="7149" data-author="Skar" data-date="2005-06-14T03:32:10+00:00">
+<div class="post" data-post-id="7149" data-author="Skar" data-date="2005-06-14T03:32:10+00:00" data-subject="Clerics-My Opinion">
 
 *I'm sorry if I come off as whiny, this is my opinion*
 
@@ -40,7 +40,7 @@ Flame me if you'd like, this is my opinion.. post yours. Thx for the time~~!
 
 </div>
 
-<div class="post" data-post-id="7151" data-author="Wintersdark" data-date="2005-06-14T05:42:05+00:00">
+<div class="post" data-post-id="7151" data-author="Wintersdark" data-date="2005-06-14T05:42:05+00:00" data-subject="">
 
 Well, I have to admit, I'm in the whole "Clerics are necessary in the Classo" group, so long as you intend on ever doing any solo play at all.  If you group ALL the time, then cleric is unnecessary - pretty much everyone else will have cleric in their classo, so it's fine if you don't.  
 
@@ -74,7 +74,7 @@ Don't get me started on that :)
 
 </div>
 
-<div class="post" data-post-id="7156" data-author="Gnu" data-date="2005-06-14T07:24:12+00:00">
+<div class="post" data-post-id="7156" data-author="Gnu" data-date="2005-06-14T07:24:12+00:00" data-subject="">
 
 Bards? Hehe... when the first bards were created, the most powerful group-oriented song was providing +1 dam to those who hear it :)
 
@@ -82,7 +82,7 @@ Undead followers can't heal? hm... re? ;)
 
 </div>
 
-<div class="post" data-post-id="7158" data-author="nomis" data-date="2005-06-14T08:08:31+00:00">
+<div class="post" data-post-id="7158" data-author="nomis" data-date="2005-06-14T08:08:31+00:00" data-subject="">
 
 Well, scar, I'm in the same boat as you, having no CL nor DR levels, I think I suck at solo's. Infuse soul for necros sucks, because you'd need to have lotsa huge corpses to get those master infusions. It was raised early before that necros actually lose more HP then the 100HP you get back from infusion. 
 
@@ -94,7 +94,7 @@ Just ignore my whining ... :)
 
 </div>
 
-<div class="post" data-post-id="7161" data-author="Avatar" data-date="2005-06-14T11:00:27+00:00">
+<div class="post" data-post-id="7161" data-author="Avatar" data-date="2005-06-14T11:00:27+00:00" data-subject="Err...what?">
 
 [quote:1t0xu2th]I've heard that a Cleric prime is useless as an avatar...[/quote:1t0xu2th]
 
@@ -104,7 +104,7 @@ Regarding the whole cleric.prime.useless.as.an.avatar comment, I think that's en
 
 </div>
 
-<div class="post" data-post-id="7162" data-author="Mosaix" data-date="2005-06-14T11:07:53+00:00">
+<div class="post" data-post-id="7162" data-author="Mosaix" data-date="2005-06-14T11:07:53+00:00" data-subject="">
 
 Skar
 
@@ -124,13 +124,13 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="7164" data-author="Mosaix" data-date="2005-06-14T11:29:04+00:00">
+<div class="post" data-post-id="7164" data-author="Mosaix" data-date="2005-06-14T11:29:04+00:00" data-subject="">
 
 Also when quest eq is handed out, maybe have some things that are Cleric Prime only.  Baring the high level pig that takes it to resell it, it should filter down to the healos when they pick.
 
 </div>
 
-<div class="post" data-post-id="7165" data-author="Chainer" data-date="2005-06-14T11:35:32+00:00">
+<div class="post" data-post-id="7165" data-author="Chainer" data-date="2005-06-14T11:35:32+00:00" data-subject="">
 
 thanx Mosaix for speaking for us cleric primes  :P 
 
@@ -142,7 +142,7 @@ GO CLERICS!!! GO!!!
 
 </div>
 
-<div class="post" data-post-id="7166" data-author="Autolycos" data-date="2005-06-14T11:36:18+00:00">
+<div class="post" data-post-id="7166" data-author="Autolycos" data-date="2005-06-14T11:36:18+00:00" data-subject="Smells like Cleric Envy!">
 
 i agree whole heartedly with Mosaix,  while having never played a cleric prime before, I can imagine the intense difficulty to solo anything. 
 
@@ -158,7 +158,7 @@ Support your Local Cleric Union!
 
 </div>
 
-<div class="post" data-post-id="7167" data-author="12345" data-date="2005-06-14T12:04:07+00:00">
+<div class="post" data-post-id="7167" data-author="12345" data-date="2005-06-14T12:04:07+00:00" data-subject="">
 
 The cleric cheering is kinda cool, but getting back to the point for a second...
 
@@ -172,7 +172,7 @@ Cleric isn't strictly necessary, but if you're new to the game, I definately rec
 
 </div>
 
-<div class="post" data-post-id="7168" data-author="madmax" data-date="2005-06-14T12:15:45+00:00">
+<div class="post" data-post-id="7168" data-author="madmax" data-date="2005-06-14T12:15:45+00:00" data-subject="">
 
 For the record:
 
@@ -210,7 +210,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="7169" data-author="madmax" data-date="2005-06-14T12:16:43+00:00">
+<div class="post" data-post-id="7169" data-author="madmax" data-date="2005-06-14T12:16:43+00:00" data-subject="">
 
 For the record:
 
@@ -248,7 +248,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="7170" data-author="madmax" data-date="2005-06-14T12:23:37+00:00">
+<div class="post" data-post-id="7170" data-author="madmax" data-date="2005-06-14T12:23:37+00:00" data-subject="">
 
 One more thought,
 
@@ -260,7 +260,7 @@ This may be from my lack of knowledge of other areas, but personally I dont like
 
 </div>
 
-<div class="post" data-post-id="7171" data-author="Skar" data-date="2005-06-14T12:30:04+00:00">
+<div class="post" data-post-id="7171" data-author="Skar" data-date="2005-06-14T12:30:04+00:00" data-subject="Sheesh!">
 
 I don't think cleric primes are overpowered, and I guess i see what you guys are saying, but I've never played 4 of these 8 classes, and I've only got alittle experience with 1.. so I'm just feeling right now that I wish I had a few of those spells... but thanks to those who posted tips, and sorry if I skimmed your post and didn't get the whole point some of you :P there's a lot of reading and I want to get back to playing.
 
@@ -268,19 +268,19 @@ Thanks for the responses and such!
 
 </div>
 
-<div class="post" data-post-id="7172" data-author="Weasel" data-date="2005-06-14T12:37:45+00:00">
+<div class="post" data-post-id="7172" data-author="Weasel" data-date="2005-06-14T12:37:45+00:00" data-subject="">
 
 I'm stunned at that 150m exp per hour solo! Wow!
 
 </div>
 
-<div class="post" data-post-id="7178" data-author="Autolycos" data-date="2005-06-14T14:17:24+00:00">
+<div class="post" data-post-id="7178" data-author="Autolycos" data-date="2005-06-14T14:17:24+00:00" data-subject="">
 
 its not that hard for me weasel,  it just seems i stay dead alot,  hence the need for more clerics!  One of my personal fav is Cami, she is a kick ass cleric to have with you,  with a 5man group of Me, Brady,Cami,Sita and Zukt, we viciously tore up the xp on Theris and Fiends  :twisted:
 
 </div>
 
-<div class="post" data-post-id="7179" data-author="Skar" data-date="2005-06-14T14:31:06+00:00">
+<div class="post" data-post-id="7179" data-author="Skar" data-date="2005-06-14T14:31:06+00:00" data-subject="Re: Clerics-My Opinion">
 
 i don't hate clerics and no i didn't say clerics are the best solo'ers in the world in fact i said i understand how a cleric prime could feel useless, and then you have the rest of you who think cleric prime rocks and what not.. 
 
@@ -290,7 +290,7 @@ some of you guys really need an attitude adjustment, a few days ago Saraen went 
 
 </div>
 
-<div class="post" data-post-id="7180" data-author="Aleksey" data-date="2005-06-14T14:32:55+00:00">
+<div class="post" data-post-id="7180" data-author="Aleksey" data-date="2005-06-14T14:32:55+00:00" data-subject="">
 
 OH while readed all that spam forgot what i wanted to say :)
 
@@ -336,7 +336,7 @@ go make him along in full mana run with only one daemon suplicate in your teath
 
 </div>
 
-<div class="post" data-post-id="7181" data-author="Leaf" data-date="2005-06-14T15:12:34+00:00">
+<div class="post" data-post-id="7181" data-author="Leaf" data-date="2005-06-14T15:12:34+00:00" data-subject="Re: Clerics-My Opinion">
 
 some of you guys really need an attitude adjustment, a few days ago Saraen went a little overboard and so far you guys pushed him into an early retirement with your reaction. that's just sad. grow up.
 
@@ -350,13 +350,13 @@ jack@$$!
 
 </div>
 
-<div class="post" data-post-id="7182" data-author="osric" data-date="2005-06-14T17:22:37+00:00">
+<div class="post" data-post-id="7182" data-author="osric" data-date="2005-06-14T17:22:37+00:00" data-subject="">
 
 I must be doubly screwed, I am a thief prime cleric secondary, and I can't solo a thing worth killing.  If it were possible to solo 150mil an hour nobody has clued me into how its done, I average around 30 mil an hour soloing and it seems really slow, I spend most of my time regening after mobs kick the crap out of my tiny little AC, cleric primes run around with better AC than I do.  So hey at least thats one thing clerics can do :)
 
 </div>
 
-<div class="post" data-post-id="7184" data-author="Wintersdark" data-date="2005-06-14T17:50:47+00:00">
+<div class="post" data-post-id="7184" data-author="Wintersdark" data-date="2005-06-14T17:50:47+00:00" data-subject="Re: Clerics-My Opinion">
 
 some of you guys really need an attitude adjustment, a few days ago Saraen went a little overboard and so far you guys pushed him into an early retirement with your reaction. that's just sad. grow up.
 
@@ -372,7 +372,7 @@ I doubt any will be sad to see him go - he deserved everything he got.
 
 </div>
 
-<div class="post" data-post-id="7188" data-author="Skar" data-date="2005-06-14T19:21:31+00:00">
+<div class="post" data-post-id="7188" data-author="Skar" data-date="2005-06-14T19:21:31+00:00" data-subject="You&#x27;re right">
 
 i didn't ever see anything like that.. we basicly leveled together and i was on easily more than him.. but i never saw anything like that..
 
@@ -388,7 +388,7 @@ sorry then, i apologize.    but i still never saw anything like that
 
 </div>
 
-<div class="post" data-post-id="7190" data-author="Chainer" data-date="2005-06-14T19:47:12+00:00">
+<div class="post" data-post-id="7190" data-author="Chainer" data-date="2005-06-14T19:47:12+00:00" data-subject="">
 
 i have to agree with Lead and Wintersdark.
 
@@ -400,7 +400,7 @@ P.S. GO CLERICS!!! GO!!!    :lol:
 
 </div>
 
-<div class="post" data-post-id="7193" data-author="Autolycos" data-date="2005-06-14T20:33:25+00:00">
+<div class="post" data-post-id="7193" data-author="Autolycos" data-date="2005-06-14T20:33:25+00:00" data-subject="">
 
 skar let me give you one good example...
 
@@ -414,13 +414,13 @@ retirement is too good for her, she deserves a public execution!
 
 </div>
 
-<div class="post" data-post-id="7194" data-author="Leaf" data-date="2005-06-14T22:40:44+00:00">
+<div class="post" data-post-id="7194" data-author="Leaf" data-date="2005-06-14T22:40:44+00:00" data-subject="">
 
 Tooo Chainer ...  It's LeaF not Lead :-P
 
 </div>
 
-<div class="post" data-post-id="7195" data-author="Skar" data-date="2005-06-14T22:57:53+00:00">
+<div class="post" data-post-id="7195" data-author="Skar" data-date="2005-06-14T22:57:53+00:00" data-subject="More, I tried to move on but..">
 
 tells you 'What's your nat stats?'
 
@@ -474,7 +474,7 @@ and now i'll wait for you guys to flame him, or me for posting this
 
 </div>
 
-<div class="post" data-post-id="7196" data-author="Akasha2" data-date="2005-06-14T23:03:11+00:00">
+<div class="post" data-post-id="7196" data-author="Akasha2" data-date="2005-06-14T23:03:11+00:00" data-subject="">
 
 Two people come to mind:
 
@@ -488,7 +488,7 @@ It's a little more difficult without cleric, but its not a requirement.  If you 
 
 </div>
 
-<div class="post" data-post-id="7197" data-author="Skar" data-date="2005-06-14T23:33:48+00:00">
+<div class="post" data-post-id="7197" data-author="Skar" data-date="2005-06-14T23:33:48+00:00" data-subject="Hmm, Let&#x27;s..">
 
 Well
 
@@ -500,7 +500,7 @@ let's all play cleric and then we can make a nice little movie and wear skirts a
 
 </div>
 
-<div class="post" data-post-id="7198" data-author="SirRobin" data-date="2005-06-14T23:35:52+00:00">
+<div class="post" data-post-id="7198" data-author="SirRobin" data-date="2005-06-14T23:35:52+00:00" data-subject="">
 
 Skar,
 
@@ -516,7 +516,7 @@ P.S. I’ve only been on Sloth about a month, so my ideas may be way off.
 
 </div>
 
-<div class="post" data-post-id="7199" data-author="Alberich" data-date="2005-06-14T23:49:21+00:00">
+<div class="post" data-post-id="7199" data-author="Alberich" data-date="2005-06-14T23:49:21+00:00" data-subject="">
 
 You don't "have to" have any class, really - the ones you have depend on how you want to play.  With no cl in classo, you will be limited in what you can solo, but  you have wall of flesh and stuff   - that's fine for the big choppish mobs, just realize your not going to be running around killing lots of small xp-type mobs (at least not very safely).   It's all in what you like to do.  I personally wouldn't make a char without cleric, but I also probably wouldn't make one without mage - doesn't mean either is too powerful though.  
 
@@ -524,7 +524,7 @@ As for the stats thing... I'm not fanatic about stats, but generally, total of 8
 
 </div>
 
-<div class="post" data-post-id="7200" data-author="kjartan" data-date="2005-06-15T00:14:58+00:00">
+<div class="post" data-post-id="7200" data-author="kjartan" data-date="2005-06-15T00:14:58+00:00" data-subject="Re: Hmm, Let&#x27;s..">
 
 Well
 
@@ -538,7 +538,7 @@ I don't know if you guys have noticed this, but cleric primes can't dance worth 
 
 </div>
 
-<div class="post" data-post-id="7201" data-author="12345" data-date="2005-06-15T00:15:25+00:00">
+<div class="post" data-post-id="7201" data-author="12345" data-date="2005-06-15T00:15:25+00:00" data-subject="">
 
 Just to give you an idea what you're working with...
 
@@ -562,7 +562,7 @@ I don't know if that makes things clearer or muddier... but I hope it helps.
 
 </div>
 
-<div class="post" data-post-id="7202" data-author="Skar" data-date="2005-06-15T01:12:16+00:00">
+<div class="post" data-post-id="7202" data-author="Skar" data-date="2005-06-15T01:12:16+00:00" data-subject="Thank you.">
 
 now that is a helpful post...
 
@@ -570,7 +570,7 @@ that one and avatar's suggestion to get eq for heal and make it as good as a ghe
 
 </div>
 
-<div class="post" data-post-id="7203" data-author="Malison" data-date="2005-06-15T01:16:57+00:00">
+<div class="post" data-post-id="7203" data-author="Malison" data-date="2005-06-15T01:16:57+00:00" data-subject="">
 
 Those of you who consider anyone under 3x40 to be a complete newbie, you can stop reading now.
 
@@ -612,7 +612,7 @@ Major 14thief 10necro 7mage 4monk  15 17 11 17 11  (sum=71)
 
 </div>
 
-<div class="post" data-post-id="7206" data-author="nomis" data-date="2005-06-15T03:28:11+00:00">
+<div class="post" data-post-id="7206" data-author="nomis" data-date="2005-06-15T03:28:11+00:00" data-subject="">
 
 Two people come to mind:
 
@@ -628,7 +628,7 @@ Would love if someone could show me a char w/out druid/cleric. Sapient comes to 
 
 </div>
 
-<div class="post" data-post-id="7207" data-author="nomis" data-date="2005-06-15T03:38:36+00:00">
+<div class="post" data-post-id="7207" data-author="nomis" data-date="2005-06-15T03:38:36+00:00" data-subject="">
 
 Sapient's last logon was Tue Jun 14 22:30:15 2005
 
@@ -644,7 +644,7 @@ LOL...
 
 </div>
 
-<div class="post" data-post-id="7208" data-author="Wintersdark" data-date="2005-06-15T04:27:06+00:00">
+<div class="post" data-post-id="7208" data-author="Wintersdark" data-date="2005-06-15T04:27:06+00:00" data-subject="Re: Hmm, Let&#x27;s..">
 
 Well
 
@@ -660,7 +660,7 @@ Don't need cleric.  I think it would be very difficult to play without cleric OR
 
 </div>
 
-<div class="post" data-post-id="7214" data-author="impz" data-date="2005-06-15T04:43:28+00:00">
+<div class="post" data-post-id="7214" data-author="impz" data-date="2005-06-15T04:43:28+00:00" data-subject="Re: More, I tried to move on but..">
 
 tells you 'What's your nat stats?'
 
@@ -720,7 +720,7 @@ Cleric is definitely a good classo for a new player (i guess that's the reason w
 
 </div>
 
-<div class="post" data-post-id="7218" data-author="Medios" data-date="2005-06-15T04:57:19+00:00">
+<div class="post" data-post-id="7218" data-author="Medios" data-date="2005-06-15T04:57:19+00:00" data-subject="">
 
 A major part of this game is testing new styles and areas.  Alot of people will complain its impossible to play without cleric, or that cleric primes suck.  I tend to disagree with both of these statements.  I know a few cleric primes that run in -10 and use pit fiend to solo much larger mobs than my thief mage.  
 
@@ -738,7 +738,7 @@ PSS Flame on!
 
 </div>
 
-<div class="post" data-post-id="7230" data-author="Avatar" data-date="2005-06-15T10:48:50+00:00">
+<div class="post" data-post-id="7230" data-author="Avatar" data-date="2005-06-15T10:48:50+00:00" data-subject="Go Medios">
 
 I agree with everything Medios said.  I've got a 40 avatar cleric prime with -10 ac, and use pit fiend sometimes.  It's not a matter of how many xp's per hour I get, I've never counted that on any of my characters...pit fiend is just fun to run with.
 
@@ -750,7 +750,7 @@ Most of us would suggest that newbies play with cleric in the classo, just the s
 
 </div>
 
-<div class="post" data-post-id="7231" data-author="Avatar" data-date="2005-06-15T10:54:21+00:00">
+<div class="post" data-post-id="7231" data-author="Avatar" data-date="2005-06-15T10:54:21+00:00" data-subject="healbonus">
 
 I forgot to mention, Medios, we tested with a char with no cleric in classo and the runed onyx seemed to make his heals do 110.  I don't have an explanation.  
 
@@ -760,7 +760,7 @@ I vote for more healbonus eq.
 
 </div>
 
-<div class="post" data-post-id="7246" data-author="madmax" data-date="2005-06-15T15:11:19+00:00">
+<div class="post" data-post-id="7246" data-author="madmax" data-date="2005-06-15T15:11:19+00:00" data-subject="">
 
 [quote:12jch2jp]I've heard theories that the healbonus max's would be 90/70/50/30, though I haven't been able to verify even one of those yet[/quote:12jch2jp]
 
@@ -770,25 +770,25 @@ Max
 
 </div>
 
-<div class="post" data-post-id="7251" data-author="brand" data-date="2005-06-15T17:21:17+00:00">
+<div class="post" data-post-id="7251" data-author="brand" data-date="2005-06-15T17:21:17+00:00" data-subject="madmax">
 
 so whats the cap message? :evil:  :?:
 
 </div>
 
-<div class="post" data-post-id="7252" data-author="12345" data-date="2005-06-15T17:35:30+00:00">
+<div class="post" data-post-id="7252" data-author="12345" data-date="2005-06-15T17:35:30+00:00" data-subject="">
 
 You have reached the peak of your potential for healing.
 
 </div>
 
-<div class="post" data-post-id="7254" data-author="Avatar" data-date="2005-06-15T17:49:19+00:00">
+<div class="post" data-post-id="7254" data-author="Avatar" data-date="2005-06-15T17:49:19+00:00" data-subject="healbonus">
 
 Argh, envy.  It's too bad that it requires quest eq to hit max healbonus.  Please add more healbonus eq!  Anyways, congrats Madmax!
 
 </div>
 
-<div class="post" data-post-id="7255" data-author="Leaf" data-date="2005-06-15T17:52:47+00:00">
+<div class="post" data-post-id="7255" data-author="Leaf" data-date="2005-06-15T17:52:47+00:00" data-subject="">
 
 Is it also the same for mage for +spell?
 
@@ -796,7 +796,7 @@ Changing subject wooooooooo
 
 </div>
 
-<div class="post" data-post-id="7263" data-author="Aleksey" data-date="2005-06-16T04:46:15+00:00">
+<div class="post" data-post-id="7263" data-author="Aleksey" data-date="2005-06-16T04:46:15+00:00" data-subject="">
 
 For speldamage 90/70/50/30 - its not rummors all being tested 
 
@@ -808,7 +808,7 @@ For speldamage 90/70/50/30 - its not rummors all being tested
 
 </div>
 
-<div class="post" data-post-id="7264" data-author="Leaf" data-date="2005-06-16T09:44:12+00:00">
+<div class="post" data-post-id="7264" data-author="Leaf" data-date="2005-06-16T09:44:12+00:00" data-subject="">
 
 Hum... Interesting ... I forsee a new char, once I hit 40 with my other
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35175" data-author="Hung" data-date="2014-05-25T04:17:39+00:00">
+<div class="post" data-post-id="35175" data-author="Hung" data-date="2014-05-25T04:17:39+00:00" data-subject="Paladin for Sale">
 
 Arthas Menethil  (level: 18)
 
@@ -50,7 +50,7 @@ Starting price: 6m
 
 </div>
 
-<div class="post" data-post-id="35177" data-author="Hung" data-date="2014-05-27T23:33:39+00:00">
+<div class="post" data-post-id="35177" data-author="Hung" data-date="2014-05-27T23:33:39+00:00" data-subject="Re: Paladin for Sale">
 
 Sold.
 

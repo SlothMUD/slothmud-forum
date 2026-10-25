@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9954" data-author="gondor" data-date="2005-12-31T21:58:33+00:00">
+<div class="post" data-post-id="9954" data-author="gondor" data-date="2005-12-31T21:58:33+00:00" data-subject="Mace of Blood">
 
 Found in the treasure chest in the thieves hideout on VK
 

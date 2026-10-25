@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="17264" data-author="banedon" data-date="2007-03-12T17:32:30+00:00">
+<div class="post" data-post-id="17264" data-author="banedon" data-date="2007-03-12T17:32:30+00:00" data-subject="Trouble changing prompt">
 
 Since I made 2x40 not too long ago, I was going to change my prompt to give me more info than the default hp,ma,mv.  Whenever I try to change it, It is not working at all, for example:
 
@@ -28,7 +28,7 @@ Thanks in advance.
 
 </div>
 
-<div class="post" data-post-id="17265" data-author="Medios" data-date="2007-03-12T18:20:24+00:00">
+<div class="post" data-post-id="17265" data-author="Medios" data-date="2007-03-12T18:20:24+00:00" data-subject="">
 
 You need to figure out how to send text as-is.  With wintin type # then enter.    Otherwise your client is going to send $$ and mess it up.
 
@@ -36,13 +36,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17266" data-author="13" data-date="2007-03-12T18:45:10+00:00">
+<div class="post" data-post-id="17266" data-author="13" data-date="2007-03-12T18:45:10+00:00" data-subject="">
 
 come kill some shit with us fisher
 
 </div>
 
-<div class="post" data-post-id="17271" data-author="12345" data-date="2007-03-12T21:05:38+00:00">
+<div class="post" data-post-id="17271" data-author="12345" data-date="2007-03-12T21:05:38+00:00" data-subject="">
 
 In wintin.net I send the prompt like so:
 
@@ -64,7 +64,7 @@ This will allow you to track anything you like in your prompt.  In the example g
 
 </div>
 
-<div class="post" data-post-id="17277" data-author="banedon" data-date="2007-03-13T04:40:21+00:00">
+<div class="post" data-post-id="17277" data-author="banedon" data-date="2007-03-13T04:40:21+00:00" data-subject="">
 
 In wintin.net I send the prompt like so:
 
@@ -76,7 +76,7 @@ Thanks that worked for me
 
 </div>
 
-<div class="post" data-post-id="17280" data-author="13" data-date="2007-03-13T20:42:30+00:00">
+<div class="post" data-post-id="17280" data-author="13" data-date="2007-03-13T20:42:30+00:00" data-subject="">
 
 you could log in on telnet and change it dude
 

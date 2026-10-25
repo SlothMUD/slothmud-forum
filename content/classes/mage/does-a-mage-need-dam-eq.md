@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="25320" data-author="Kelgar" data-date="2008-07-09T08:27:06+00:00">
+<div class="post" data-post-id="25320" data-author="Kelgar" data-date="2008-07-09T08:27:06+00:00" data-subject="Does a mage need +dam eq? :)">
 
 Hey all!
 
@@ -20,7 +20,7 @@ Thanks ahead!
 
 </div>
 
-<div class="post" data-post-id="25321" data-author="jezer" data-date="2008-07-09T08:55:40+00:00">
+<div class="post" data-post-id="25321" data-author="jezer" data-date="2008-07-09T08:55:40+00:00" data-subject="">
 
 Kelgar,
 
@@ -34,7 +34,7 @@ The cp's are worth nothing by themselves, so yeah I'd forge them, even if it's t
 
 </div>
 
-<div class="post" data-post-id="25322" data-author="Kelgar" data-date="2008-07-09T10:27:14+00:00">
+<div class="post" data-post-id="25322" data-author="Kelgar" data-date="2008-07-09T10:27:14+00:00" data-subject="">
 
 Jezer,
 
@@ -48,7 +48,7 @@ And yet ancious to leave Valk till autumn :)))
 
 </div>
 
-<div class="post" data-post-id="25323" data-author="Tap" data-date="2008-07-09T12:18:54+00:00">
+<div class="post" data-post-id="25323" data-author="Tap" data-date="2008-07-09T12:18:54+00:00" data-subject="">
 
 Might be fun for you to gather these...
 
@@ -90,13 +90,13 @@ Requires: 100000 coins,
 
 </div>
 
-<div class="post" data-post-id="25370" data-author="PolkAdotS" data-date="2008-07-14T04:07:53+00:00">
+<div class="post" data-post-id="25370" data-author="PolkAdotS" data-date="2008-07-14T04:07:53+00:00" data-subject="">
 
 I'm a thief, I could use some damn EQ.
 
 </div>
 
-<div class="post" data-post-id="25376" data-author="Tap" data-date="2008-07-14T21:56:14+00:00">
+<div class="post" data-post-id="25376" data-author="Tap" data-date="2008-07-14T21:56:14+00:00" data-subject="">
 
 Plenty of +damn equipment ingame. And you being a seasoned player who doesn't ever  need any help shouldn't have any problem gathering such items.
 
@@ -104,7 +104,7 @@ Plenty of +damn equipment ingame. And you being a seasoned player who doesn't ev
 
 </div>
 
-<div class="post" data-post-id="25396" data-author="PolkAdotS" data-date="2008-07-17T00:49:34+00:00">
+<div class="post" data-post-id="25396" data-author="PolkAdotS" data-date="2008-07-17T00:49:34+00:00" data-subject="">
 
 My shorts man, eat them and be sure to post yourself going  :oops: !!  Not real good of you to run off some stupid slack comment about my EQ when I had... scarab, nekode, 3 restrings, vault keys, tooled eq... that now I cannot use a 5x40 to gain things like tooled brace and on-such.  Lost shield of titans, ruddy scale also, keep the forges coming then Tap (whatever character you'll actually play, not that I know) however what's the great forge?  I also had cps for demonskin boots, and a pair of demonskins... I think I kept my caroborundum's on polk however that character is lost, along with Gumbi, nat stats on Gumbi were 18/33 18 15 18 17, Polk's nats were 18/79 18 15 18 15.  I hope that you understand why I'm upset.  I also lost a near full set of cps for helm of dwarves, including the -1.3 helm.  A scarab of destruction I mentioned before which was restrung, and 2 restrung diamond bracers, also forge eq.  If you mention my EQ, or my being the one whose "crying the most"  Tap --> Polk, nice post man.  Thanks for not being stupid and continuing to bring me up.  I quit this game and I still look at the site, like I said I would months ago.  I did you no wrong, stop mentioning me.  It's none of your business.
 
@@ -114,7 +114,7 @@ Polk
 
 </div>
 
-<div class="post" data-post-id="25398" data-author="Tap" data-date="2008-07-17T01:14:46+00:00">
+<div class="post" data-post-id="25398" data-author="Tap" data-date="2008-07-17T01:14:46+00:00" data-subject="">
 
 I'm still not sure how !quit equals "losing" something unless you managed to "lose" your temper and !quit out of frustration. If you don't play anymore and only read the boards from time to time, then what the heck does it matter about getting re-imbursment? Those items you mentioned can be replaced. Not easily grant you but just make a new char. And next time you get a wild hair up your bum, rent instead of !quit.
 
@@ -124,13 +124,13 @@ ps-I'm still willing to help you get a new char up in levels and eq some should 
 
 </div>
 
-<div class="post" data-post-id="25458" data-author="13" data-date="2008-07-25T15:50:17+00:00">
+<div class="post" data-post-id="25458" data-author="13" data-date="2008-07-25T15:50:17+00:00" data-subject="">
 
 what a fu ckin crybay, I swear to god.
 
 </div>
 
-<div class="post" data-post-id="25460" data-author="aeole" data-date="2008-07-25T16:53:21+00:00">
+<div class="post" data-post-id="25460" data-author="aeole" data-date="2008-07-25T16:53:21+00:00" data-subject="">
 
 And yet here you are still hanging around and whining like a little girl about something that is over and done with.  Grow up, grow a pair and GET OVER IT.  YOU'RE NOT GETTING THE EQ BACK.  No amount of whining and complaining here on any of these threads is going to change that.  Also, your "friendship" with Jake will not change this fact either, so you can stop the name-dropping already.  We're not impressed.  I think I mentioned once before about Jake disapproving of anyone attempting to drive players away from the game, and sonnyboy, you fit that bill.  
 

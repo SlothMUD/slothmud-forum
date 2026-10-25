@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34384" data-author="Nyx" data-date="2013-08-14T00:37:37+00:00">
+<div class="post" data-post-id="34384" data-author="Nyx" data-date="2013-08-14T00:37:37+00:00" data-subject="Question re: Pets/Supps">
 
 Hi all,
 
@@ -92,7 +92,7 @@ If you made it this far, thanks for your time and I appreciate any constructive 
 
 </div>
 
-<div class="post" data-post-id="34393" data-author="Magi" data-date="2013-08-23T17:40:51+00:00">
+<div class="post" data-post-id="34393" data-author="Magi" data-date="2013-08-23T17:40:51+00:00" data-subject="Re: Question re: Pets/Supps">
 
 Guess of the day:
 

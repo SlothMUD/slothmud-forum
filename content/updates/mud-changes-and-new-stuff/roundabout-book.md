@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32653" data-author="*Isabo*" data-date="2011-05-29T02:49:06+00:00">
+<div class="post" data-post-id="32653" data-author="*Isabo*" data-date="2011-05-29T02:49:06+00:00" data-subject="Roundabout book">
 
 Greeting mortals.
 

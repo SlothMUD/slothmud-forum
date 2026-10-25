@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="38981" data-author="Gorka" data-date="2018-09-29T20:46:30+00:00">
+<div class="post" data-post-id="38981" data-author="Gorka" data-date="2018-09-29T20:46:30+00:00" data-subject="Ogre Caverns (BH) New Eq">
 
 Hi Mud...
 
@@ -174,7 +174,7 @@ Viva Sloth!
 
 </div>
 
-<div class="post" data-post-id="38982" data-author="Gorka" data-date="2018-09-29T21:42:41+00:00">
+<div class="post" data-post-id="38982" data-author="Gorka" data-date="2018-09-29T21:42:41+00:00" data-subject="Re: Ogre Caverns (BH) New Eq">
 
 MOB : scorpion giant cave	LVL : 15	AREA : Ogre Caverns	XP : 90977
 
@@ -208,7 +208,7 @@ MOB : ogre fighter (summon)	LVL : 36	AREA : Ogre Caverns	XP : 660884
 
 </div>
 
-<div class="post" data-post-id="38983" data-author="Gorka" data-date="2018-09-29T22:22:22+00:00">
+<div class="post" data-post-id="38983" data-author="Gorka" data-date="2018-09-29T22:22:22+00:00" data-subject="Re: Ogre Caverns (BH) New Eq">
 
 -------------
 
@@ -272,7 +272,7 @@ warriors, druids, necromancers, bards, or monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="38984" data-author="Gorka" data-date="2018-09-30T07:36:32+00:00">
+<div class="post" data-post-id="38984" data-author="Gorka" data-date="2018-09-30T07:36:32+00:00" data-subject="Re: Ogre Caverns (BH) New Eq">
 
 The belt is currently bugged and you can't pick it up. 
 
@@ -308,7 +308,7 @@ Only those who are at least experienced bards may use this item.
 
 </div>
 
-<div class="post" data-post-id="38985" data-author="Gorka" data-date="2018-09-30T11:00:26+00:00">
+<div class="post" data-post-id="38985" data-author="Gorka" data-date="2018-09-30T11:00:26+00:00" data-subject="Re: Ogre Caverns (BH) New Eq">
 
 Dingo's found this... 
 
@@ -348,7 +348,7 @@ Bladesinger seems to pop all the ioun stones regularly... obviously the smaller 
 
 </div>
 
-<div class="post" data-post-id="38987" data-author="Gorka" data-date="2018-09-30T15:49:19+00:00">
+<div class="post" data-post-id="38987" data-author="Gorka" data-date="2018-09-30T15:49:19+00:00" data-subject="Re: Ogre Caverns (BH) New Eq">
 
 So bladesinger, worm, bear, pig, scorpions don't appear to pop eq after 25 cycles so I'm done with this for now... given there xp, it won't be great eq anyway.
 
@@ -364,7 +364,7 @@ Peace out, make sure you post anything here if you find it.
 
 </div>
 
-<div class="post" data-post-id="38988" data-author="*Neptune*" data-date="2018-09-30T18:00:06+00:00">
+<div class="post" data-post-id="38988" data-author="*Neptune*" data-date="2018-09-30T18:00:06+00:00" data-subject="Re: Ogre Caverns (BH) New Eq">
 
 Oops, typo.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="33945" data-author="Ker" data-date="2013-01-28T02:26:11+00:00">
+<div class="post" data-post-id="33945" data-author="Ker" data-date="2013-01-28T02:26:11+00:00" data-subject="Owlbear Changes">
 
 Good morning,
 
@@ -154,7 +154,7 @@ P.S You can replace Chuck Norris with Demon Prince Demogorgon :)
 
 </div>
 
-<div class="post" data-post-id="33946" data-author="*Splork*" data-date="2013-01-28T02:41:34+00:00">
+<div class="post" data-post-id="33946" data-author="*Splork*" data-date="2013-01-28T02:41:34+00:00" data-subject="Re: Owlbear Changes">
 
 Is Owlbear better than the lower forms?
 
@@ -162,7 +162,7 @@ Will the higher forms be used now?
 
 </div>
 
-<div class="post" data-post-id="33949" data-author="jezer" data-date="2013-01-28T23:44:53+00:00">
+<div class="post" data-post-id="33949" data-author="jezer" data-date="2013-01-28T23:44:53+00:00" data-subject="Re: Owlbear Changes">
 
 Owlbear isn't overpowered, it's more mana efficient to use... Owlbear is this big kink of mana efficency in a graph that you expected should be about linear improvement... ironically it would seem the mana efficency graph for druids is a bell curve, with owlbear reaching the highest point, and the higher forms taking us to new lows. It's all about the mana efficiency...
 
@@ -186,13 +186,13 @@ Most importantly... PLAN (Paper and Pen) these changes... don't implement until 
 
 </div>
 
-<div class="post" data-post-id="33951" data-author="jezer" data-date="2013-01-29T01:36:45+00:00">
+<div class="post" data-post-id="33951" data-author="jezer" data-date="2013-01-29T01:36:45+00:00" data-subject="RE: Druid Reform">
 
 Could someone drag Dr away from watching reruns of Walker Texas Ranger to test the new changes?
 
 </div>
 
-<div class="post" data-post-id="33952" data-author="Ker" data-date="2013-01-29T01:54:40+00:00">
+<div class="post" data-post-id="33952" data-author="Ker" data-date="2013-01-29T01:54:40+00:00" data-subject="Re: Owlbear Changes">
 
 After much testing and dicsussion with Splork, the man has put in a few favors for the druid class. 
 
@@ -200,7 +200,7 @@ Now the higher forms are very much playable, bump. :D
 
 </div>
 
-<div class="post" data-post-id="33960" data-author="Magi" data-date="2013-02-04T05:04:55+00:00">
+<div class="post" data-post-id="33960" data-author="Magi" data-date="2013-02-04T05:04:55+00:00" data-subject="Re: Owlbear Changes">
 
 Ask Magi what he thinks about Owlbear?
 
@@ -220,7 +220,7 @@ Also, the alarm in cloud giants is deadly!  (And I like it!)
 
 </div>
 
-<div class="post" data-post-id="33961" data-author="*juggleblood*" data-date="2013-02-04T06:47:56+00:00">
+<div class="post" data-post-id="33961" data-author="*juggleblood*" data-date="2013-02-04T06:47:56+00:00" data-subject="Re: Owlbear Changes">
 
 Thanks so much for the positive feedback.
 

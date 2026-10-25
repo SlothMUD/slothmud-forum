@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38717" data-author="*Neptune*" data-date="2018-04-01T01:35:17+00:00">
+<div class="post" data-post-id="38717" data-author="*Neptune*" data-date="2018-04-01T01:35:17+00:00" data-subject="Brand of the Rogue">
 
 Greetings
 

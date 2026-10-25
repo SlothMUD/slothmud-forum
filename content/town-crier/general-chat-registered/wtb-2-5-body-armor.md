@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35223" data-author="Thraxas" data-date="2014-06-04T18:12:58+00:00">
+<div class="post" data-post-id="35223" data-author="Thraxas" data-date="2014-06-04T18:12:58+00:00" data-subject="wtb -2.5 Body Armor">
 
 I'd like to buy -2.5 body armour.
 
@@ -28,7 +28,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="35237" data-author="Thraxas" data-date="2014-06-10T09:32:02+00:00">
+<div class="post" data-post-id="35237" data-author="Thraxas" data-date="2014-06-10T09:32:02+00:00" data-subject="Re: wtb -2.5 Body Armor">
 
 If anyone has a Congealed Flame for sale or trade so I can finish my mithril shirt please let me know.
 

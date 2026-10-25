@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="6146" data-author="guest" data-date="2005-05-14T14:52:15+00:00">
+<div class="post" data-post-id="6146" data-author="guest" data-date="2005-05-14T14:52:15+00:00" data-subject="prac avatar">
 
 Hi all ...
 

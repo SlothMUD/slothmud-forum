@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="32093" data-author="Teron" data-date="2010-11-20T11:20:18+00:00">
+<div class="post" data-post-id="32093" data-author="Teron" data-date="2010-11-20T11:20:18+00:00" data-subject="Thule EQ Group Planning">
 
 Greetings, heroes.
 
@@ -52,13 +52,13 @@ Meet you at the Wide Gate at 1am EST and 7pm EST Tuesday, 14th Dec.
 
 </div>
 
-<div class="post" data-post-id="32094" data-author="Tuck" data-date="2010-11-20T11:47:28+00:00">
+<div class="post" data-post-id="32094" data-author="Tuck" data-date="2010-11-20T11:47:28+00:00" data-subject="Re: Thule EQ Group Planning">
 
 ![](http://www.captainbot.com/wp-content/uploads/2010/05/bot.png)
 
 </div>
 
-<div class="post" data-post-id="32096" data-author="Teron" data-date="2010-11-21T19:04:43+00:00">
+<div class="post" data-post-id="32096" data-author="Teron" data-date="2010-11-21T19:04:43+00:00" data-subject="Re: Thule EQ Group Planning">
 
 After a crash, we decided to take a break (lost a pop, too :P).
 
@@ -66,7 +66,7 @@ I'll try to get back before the bonus runs out at about 10-11am EST.
 
 </div>
 
-<div class="post" data-post-id="32120" data-author="Teron" data-date="2010-12-07T00:34:38+00:00">
+<div class="post" data-post-id="32120" data-author="Teron" data-date="2010-12-07T00:34:38+00:00" data-subject="Re: Thule EQ Group Planning">
 
 Going to run the AH EQ group at a similar time:
 
@@ -82,13 +82,13 @@ The decision is always on the leader.
 
 </div>
 
-<div class="post" data-post-id="32122" data-author="jezer" data-date="2010-12-07T03:19:11+00:00">
+<div class="post" data-post-id="32122" data-author="jezer" data-date="2010-12-07T03:19:11+00:00" data-subject="Re: Thule EQ Group Planning">
 
 I plan not to be there, and since I'm calling it, you can't call it too!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="32147" data-author="Teron" data-date="2010-12-13T11:55:33+00:00">
+<div class="post" data-post-id="32147" data-author="Teron" data-date="2010-12-13T11:55:33+00:00" data-subject="Re: Thule EQ Group Planning">
 
 I plan to lead AH EQ once again this Tuesday, 14th Dec.
 
@@ -98,7 +98,7 @@ If there's anyone that'd be willing to lead from 11am to 7pm EST on Tuesday, I'l
 
 </div>
 
-<div class="post" data-post-id="32159" data-author="Teron" data-date="2010-12-14T14:52:40+00:00">
+<div class="post" data-post-id="32159" data-author="Teron" data-date="2010-12-14T14:52:40+00:00" data-subject="Re: Thule EQ Group Planning">
 
 Going to lead till eq pop drops tonight.
 
@@ -106,7 +106,7 @@ Fol up :)
 
 </div>
 
-<div class="post" data-post-id="32160" data-author="Tuck" data-date="2010-12-14T17:29:54+00:00">
+<div class="post" data-post-id="32160" data-author="Tuck" data-date="2010-12-14T17:29:54+00:00" data-subject="Re: Thule EQ Group Planning">
 
 Taron is leading '<Thule> EQ (Open)' on Thule:
 
@@ -118,7 +118,7 @@ Too bad that Taron do not allow bots in his group :P
 
 </div>
 
-<div class="post" data-post-id="32164" data-author="Teron" data-date="2010-12-15T17:53:26+00:00">
+<div class="post" data-post-id="32164" data-author="Teron" data-date="2010-12-15T17:53:26+00:00" data-subject="Re: Thule EQ Group Planning">
 
 Well, despite the few members, we did manage to get our pops regardless :) It was fun 2-3 manning earth guard and yooper smith, actually. Was almost dying on every yooper :)
 

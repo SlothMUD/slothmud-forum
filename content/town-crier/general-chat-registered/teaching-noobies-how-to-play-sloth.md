@@ -10,7 +10,7 @@ locked: false
 post_count: 60
 ---
 
-<div class="post" data-post-id="20405" data-author="Toxis" data-date="2007-09-27T22:34:22+00:00">
+<div class="post" data-post-id="20405" data-author="Toxis" data-date="2007-09-27T22:34:22+00:00" data-subject="Teaching Noobies How to Play Sloth">
 
 Ok, listen the fuck up... I'm so sick of dumbass botting fuckers, I've just about had it.  I like most poeple on the mud, but lately I'm just sick of the stupidity.  Most you dumbasses know how to play sloth, you just don't fucking pay attention anymore.  Take this for instance:
 
@@ -154,7 +154,7 @@ I love leading offlyme, I don't know why, but when you botassmutherfuckers get o
 
 </div>
 
-<div class="post" data-post-id="20406" data-author="brady" data-date="2007-09-27T22:57:20+00:00">
+<div class="post" data-post-id="20406" data-author="brady" data-date="2007-09-27T22:57:20+00:00" data-subject="">
 
 First of all, calm the f*ck down.  Second of all, if you want people to really pay attention 100% of the time, don't lead bh xp. I happened to get a phone call, saw that I was getting hit and I died.  Don't blame me for the group dying.  I'll tell you to F*ck off everytime.  Third, if it ruffled your feathers so much, maybe don't be a pussy and say something.
 
@@ -162,7 +162,7 @@ oh and ps...i was singing too.
 
 </div>
 
-<div class="post" data-post-id="20407" data-author="Toxis" data-date="2007-09-27T23:33:40+00:00">
+<div class="post" data-post-id="20407" data-author="Toxis" data-date="2007-09-27T23:33:40+00:00" data-subject="">
 
 Well I'm pissed cuz no one pays attention.  I'm sorry, it's completely my fault for not babysitting you.
 
@@ -170,13 +170,13 @@ Well I'm pissed cuz no one pays attention.  I'm sorry, it's completely my fault 
 
 </div>
 
-<div class="post" data-post-id="20408" data-author="brady" data-date="2007-09-27T23:46:18+00:00">
+<div class="post" data-post-id="20408" data-author="brady" data-date="2007-09-27T23:46:18+00:00" data-subject="">
 
 So I take stuff personally and get pissed.  Bottom line is, leading open groups is a nice thing to do and Brad does a good job.  |botting.
 
 </div>
 
-<div class="post" data-post-id="20409" data-author="Autolycos" data-date="2007-09-28T02:45:15+00:00">
+<div class="post" data-post-id="20409" data-author="Autolycos" data-date="2007-09-28T02:45:15+00:00" data-subject="">
 
 i refuse to say anything nice about Brad's leading ability.. 
 
@@ -184,7 +184,7 @@ he got his one f*cking compliment this year.   :evil:
 
 </div>
 
-<div class="post" data-post-id="20414" data-author="Messiaen" data-date="2007-09-28T06:46:39+00:00">
+<div class="post" data-post-id="20414" data-author="Messiaen" data-date="2007-09-28T06:46:39+00:00" data-subject="">
 
 3 deaths (excluding Petunia ofcourse )was 100% my fault. Sorry, Brad.
 
@@ -192,7 +192,7 @@ And yes, its really hard to pay attention in BH exp groups. Its just not interes
 
 </div>
 
-<div class="post" data-post-id="20415" data-author="Tap" data-date="2007-09-28T10:20:07+00:00">
+<div class="post" data-post-id="20415" data-author="Tap" data-date="2007-09-28T10:20:07+00:00" data-subject="">
 
 I'm going to weigh in on this later. Please, more juicy tidbits.
 
@@ -200,7 +200,7 @@ I'm going to weigh in on this later. Please, more juicy tidbits.
 
 </div>
 
-<div class="post" data-post-id="20416" data-author="Gimlet" data-date="2007-09-28T12:05:03+00:00">
+<div class="post" data-post-id="20416" data-author="Gimlet" data-date="2007-09-28T12:05:03+00:00" data-subject="">
 
 And yes, its really hard to pay attention in BH exp groups. Its just not interesting. If you lead dweb it might be different.[/quote:1109vytz]
 
@@ -210,13 +210,13 @@ That being said, I've been in groups where botting is permitted and sometimes en
 
 </div>
 
-<div class="post" data-post-id="20418" data-author="brady" data-date="2007-09-28T14:16:14+00:00">
+<div class="post" data-post-id="20418" data-author="brady" data-date="2007-09-28T14:16:14+00:00" data-subject="">
 
 Let it die already.
 
 </div>
 
-<div class="post" data-post-id="20419" data-author="13" data-date="2007-09-28T14:28:40+00:00">
+<div class="post" data-post-id="20419" data-author="13" data-date="2007-09-28T14:28:40+00:00" data-subject="">
 
 messiaen doesnt have heal btw
 
@@ -226,31 +226,31 @@ second only to redneck
 
 </div>
 
-<div class="post" data-post-id="20420" data-author="brady" data-date="2007-09-28T15:56:55+00:00">
+<div class="post" data-post-id="20420" data-author="brady" data-date="2007-09-28T15:56:55+00:00" data-subject="">
 
 Git!
 
 </div>
 
-<div class="post" data-post-id="20422" data-author="Guinex" data-date="2007-09-28T21:03:53+00:00">
+<div class="post" data-post-id="20422" data-author="Guinex" data-date="2007-09-28T21:03:53+00:00" data-subject="">
 
 Follow self;cast 'blizzard'
 
 </div>
 
-<div class="post" data-post-id="20423" data-author="Mosaix" data-date="2007-09-28T21:15:59+00:00">
+<div class="post" data-post-id="20423" data-author="Mosaix" data-date="2007-09-28T21:15:59+00:00" data-subject="">
 
 Guinex speaks the truth.
 
 </div>
 
-<div class="post" data-post-id="20427" data-author="Tap" data-date="2007-09-29T08:32:54+00:00">
+<div class="post" data-post-id="20427" data-author="Tap" data-date="2007-09-29T08:32:54+00:00" data-subject="">
 
 Guinex  <------- He Lies !!!!!
 
 </div>
 
-<div class="post" data-post-id="20429" data-author="*Krom*" data-date="2007-09-29T13:05:09+00:00">
+<div class="post" data-post-id="20429" data-author="*Krom*" data-date="2007-09-29T13:05:09+00:00" data-subject="">
 
 Rules are pretty simple, gotta be at keyboard when fighing, ie no botting.  See help bot ingame.
 
@@ -260,7 +260,7 @@ Bottom line, you need to pay attention and be at the keyboard if you are going t
 
 </div>
 
-<div class="post" data-post-id="20430" data-author="Mosaix" data-date="2007-09-29T13:56:12+00:00">
+<div class="post" data-post-id="20430" data-author="Mosaix" data-date="2007-09-29T13:56:12+00:00" data-subject="">
 
 Perhaps we could ask permission to idol dive bots on BH.
 
@@ -272,13 +272,13 @@ Will gladly be sending some notice to immortals about specific bots.  Some of yo
 
 </div>
 
-<div class="post" data-post-id="20431" data-author="13" data-date="2007-09-29T14:01:01+00:00">
+<div class="post" data-post-id="20431" data-author="13" data-date="2007-09-29T14:01:01+00:00" data-subject="">
 
 i bet weasel is against this
 
 </div>
 
-<div class="post" data-post-id="20434" data-author="Weasel" data-date="2007-09-29T14:52:10+00:00">
+<div class="post" data-post-id="20434" data-author="Weasel" data-date="2007-09-29T14:52:10+00:00" data-subject="">
 
 i bet weasel is against this[/quote:2ojs5umj]
 
@@ -290,19 +290,19 @@ It was agreed some time ago by one or two immorts that if a leader has botters, 
 
 </div>
 
-<div class="post" data-post-id="20437" data-author="13" data-date="2007-09-29T15:59:56+00:00">
+<div class="post" data-post-id="20437" data-author="13" data-date="2007-09-29T15:59:56+00:00" data-subject="">
 
 calm down i'm just yanking your chain about the pk thing
 
 </div>
 
-<div class="post" data-post-id="20439" data-author="Weasel" data-date="2007-09-29T16:18:01+00:00">
+<div class="post" data-post-id="20439" data-author="Weasel" data-date="2007-09-29T16:18:01+00:00" data-subject="">
 
 :P  lick my balls.
 
 </div>
 
-<div class="post" data-post-id="20450" data-author="Tap" data-date="2007-09-29T20:41:02+00:00">
+<div class="post" data-post-id="20450" data-author="Tap" data-date="2007-09-29T20:41:02+00:00" data-subject="">
 
 So next time someone says they are gonna grab a drink or gotta pee or gotta feed dog/cat/baby/alien etc etc and I can get your attention, they will lose 5 levels? Any chance that I could get 2 of those levels for bringing it to your attention? Would make for an interesting reward. I like the idea of policing ourselves.
 
@@ -312,13 +312,13 @@ Snitch --                         Learned 85%
 
 </div>
 
-<div class="post" data-post-id="20453" data-author="Weasel" data-date="2007-09-29T21:18:23+00:00">
+<div class="post" data-post-id="20453" data-author="Weasel" data-date="2007-09-29T21:18:23+00:00" data-subject="">
 
 :shock:  afk milking the cat.
 
 </div>
 
-<div class="post" data-post-id="20458" data-author="Messiaen" data-date="2007-09-29T22:45:38+00:00">
+<div class="post" data-post-id="20458" data-author="Messiaen" data-date="2007-09-29T22:45:38+00:00" data-subject="">
 
 Rules are pretty simple, gotta be at keyboard when fighing, ie no botting.  See help bot ingame.
 
@@ -330,13 +330,13 @@ If thats how you make a game more interesting, I prefer quitting.
 
 </div>
 
-<div class="post" data-post-id="20460" data-author="Tap" data-date="2007-09-29T23:49:37+00:00">
+<div class="post" data-post-id="20460" data-author="Tap" data-date="2007-09-29T23:49:37+00:00" data-subject="Teaching Messiaen how to play Sloth">
 
 You sure are in a pissy moody. Want to let it out? :roll:
 
 </div>
 
-<div class="post" data-post-id="20463" data-author="Autolycos" data-date="2007-09-30T00:13:17+00:00">
+<div class="post" data-post-id="20463" data-author="Autolycos" data-date="2007-09-30T00:13:17+00:00" data-subject="">
 
 Bottom line, you need to pay attention and be at the keyboard if you are going to be sucking some exp.[/quote:2hflx083]
 
@@ -344,7 +344,7 @@ Seda & Akasha are always botting
 
 </div>
 
-<div class="post" data-post-id="20466" data-author="Gimlet" data-date="2007-09-30T01:21:49+00:00">
+<div class="post" data-post-id="20466" data-author="Gimlet" data-date="2007-09-30T01:21:49+00:00" data-subject="">
 
 If thats how you make a game more interesting, I prefer quitting.[/quote:tkdb4ql1]
 
@@ -352,7 +352,7 @@ please do
 
 </div>
 
-<div class="post" data-post-id="20486" data-author="*Krom*" data-date="2007-09-30T12:54:45+00:00">
+<div class="post" data-post-id="20486" data-author="*Krom*" data-date="2007-09-30T12:54:45+00:00" data-subject="">
 
 Things come up and sometimes you have to step away from the keyboard for a min.  But lets get serious, if you need to take a crap, excuse yoruself from the group for a min and then you dont have the problem of everyone dying because you didnt fix the protect, you were the only with mana and the tank died, etc...
 
@@ -360,7 +360,7 @@ Most of the players know if you consistantly bot -- this is what Im really talki
 
 </div>
 
-<div class="post" data-post-id="20589" data-author="Messiaen" data-date="2007-10-05T14:50:21+00:00">
+<div class="post" data-post-id="20589" data-author="Messiaen" data-date="2007-10-05T14:50:21+00:00" data-subject="">
 
 If thats how you make a game more interesting, I prefer quitting.[/quote:n88oj0ir]
 
@@ -370,7 +370,7 @@ You know, Al, I've been watching you on the mud. I think that you're like that c
 
 </div>
 
-<div class="post" data-post-id="20590" data-author="Messiaen" data-date="2007-10-05T14:54:05+00:00">
+<div class="post" data-post-id="20590" data-author="Messiaen" data-date="2007-10-05T14:54:05+00:00" data-subject="">
 
 Things come up and sometimes you have to step away from the keyboard for a min.  But lets get serious, if you need to take a crap, excuse yoruself from the group for a min and then you dont have the problem of everyone dying because you didnt fix the protect, you were the only with mana and the tank died, etc...
 
@@ -382,7 +382,7 @@ Good luck with that mud stuff.
 
 </div>
 
-<div class="post" data-post-id="20591" data-author="Gimlet" data-date="2007-10-05T14:59:50+00:00">
+<div class="post" data-post-id="20591" data-author="Gimlet" data-date="2007-10-05T14:59:50+00:00" data-subject="">
 
 Krom, botting is sure bad. But the problem is that the way groups are being run nowdays it is almost impossible to disclose a good bot.
 
@@ -394,7 +394,7 @@ everyone knows who the bots are, I can name 10 off the top of my head.  And trus
 
 </div>
 
-<div class="post" data-post-id="20592" data-author="Tap" data-date="2007-10-05T15:00:26+00:00">
+<div class="post" data-post-id="20592" data-author="Tap" data-date="2007-10-05T15:00:26+00:00" data-subject="Teaching Messiaen How to Play Sloth">
 
 [quote:1eeh9m9t]it is almost impossible to disclose a good bot.[/quote:1eeh9m9t]
 
@@ -404,13 +404,13 @@ reportbot@slothmud.org
 
 </div>
 
-<div class="post" data-post-id="20593" data-author="Messiaen" data-date="2007-10-05T15:03:14+00:00">
+<div class="post" data-post-id="20593" data-author="Messiaen" data-date="2007-10-05T15:03:14+00:00" data-subject="">
 
 Trust me, a good bot cannot be disclosed without immortal help, and even with it, it is hard to proove.
 
 </div>
 
-<div class="post" data-post-id="20594" data-author="Gimlet" data-date="2007-10-05T15:14:10+00:00">
+<div class="post" data-post-id="20594" data-author="Gimlet" data-date="2007-10-05T15:14:10+00:00" data-subject="">
 
 Trust me, a good bot cannot be disclosed without immortal help, and even with it, it is hard to proove.[/quote:2oifo9zs]
 
@@ -420,19 +420,19 @@ just because most of the time ppl couldn't care enough to do enough doesn't mean
 
 </div>
 
-<div class="post" data-post-id="20595" data-author="Yinao" data-date="2007-10-05T15:46:13+00:00">
+<div class="post" data-post-id="20595" data-author="Yinao" data-date="2007-10-05T15:46:13+00:00" data-subject="">
 
 Wow im just glad I wasnt the one botting in that group :wink:
 
 </div>
 
-<div class="post" data-post-id="20596" data-author="13" data-date="2007-10-05T16:46:01+00:00">
+<div class="post" data-post-id="20596" data-author="13" data-date="2007-10-05T16:46:01+00:00" data-subject="">
 
 im the shittiest bot ever
 
 </div>
 
-<div class="post" data-post-id="20597" data-author="Tap" data-date="2007-10-05T16:57:27+00:00">
+<div class="post" data-post-id="20597" data-author="Tap" data-date="2007-10-05T16:57:27+00:00" data-subject="Teaching 13 and Yinao How To Play Sloth">
 
 I hope you're not falling for this endless tirade. He's full of MUD and you guys know it.
 
@@ -444,7 +444,7 @@ Starting with yourself?
 
 </div>
 
-<div class="post" data-post-id="20598" data-author="Yinao" data-date="2007-10-05T17:14:42+00:00">
+<div class="post" data-post-id="20598" data-author="Yinao" data-date="2007-10-05T17:14:42+00:00" data-subject="">
 
 If Tap would pull his head out of his ass, oh nvm, never gunna happen... 
 
@@ -452,7 +452,7 @@ Thats like asking Al to shut up  :twisted:, or Brad to stop making chars, the li
 
 </div>
 
-<div class="post" data-post-id="20604" data-author="Autolycos" data-date="2007-10-05T22:08:08+00:00">
+<div class="post" data-post-id="20604" data-author="Autolycos" data-date="2007-10-05T22:08:08+00:00" data-subject="">
 
 im the shittiest bot ever[/quote:3gru9m6l]
 
@@ -462,7 +462,7 @@ at least Aaron never tries to hide it...  he just logs on the next morning and a
 
 </div>
 
-<div class="post" data-post-id="20629" data-author="Yinao" data-date="2007-10-08T01:47:08+00:00">
+<div class="post" data-post-id="20629" data-author="Yinao" data-date="2007-10-08T01:47:08+00:00" data-subject="">
 
 I would like to nominate, "The best tank ingame", to this program
 
@@ -472,7 +472,7 @@ I am proud to bring you, TOXIS!
 
 </div>
 
-<div class="post" data-post-id="20632" data-author="Tap" data-date="2007-10-08T03:51:16+00:00">
+<div class="post" data-post-id="20632" data-author="Tap" data-date="2007-10-08T03:51:16+00:00" data-subject="Teaching Brad How To Play Sloth">
 
 [quote:75hn1f0p]Yinao
 
@@ -494,7 +494,7 @@ Ditto
 
 </div>
 
-<div class="post" data-post-id="20660" data-author="Gimlet" data-date="2007-10-09T09:29:26+00:00">
+<div class="post" data-post-id="20660" data-author="Gimlet" data-date="2007-10-09T09:29:26+00:00" data-subject="">
 
 threatening to quit the mud is like threatening to commit suicide
 
@@ -504,7 +504,7 @@ those who kick up a big fuss about wanting to leave, usually never do, and are j
 
 </div>
 
-<div class="post" data-post-id="20661" data-author="*juggleblood*" data-date="2007-10-09T12:11:56+00:00">
+<div class="post" data-post-id="20661" data-author="*juggleblood*" data-date="2007-10-09T12:11:56+00:00" data-subject="">
 
 Speaking of leaving quietly, I thought I'd stop in and say hi. I see the same addicts are bickering amongst themselves on the crier again. I miss the game a ton, but my rl situation has changed a lot. I came back to the US and married my ex gf, who happened to be pregnant at the time. She also happened to inherit a house, barn, and 120 acres of prime Indiana farmland. So I'm a daddy again. I got to choose the babies name and I named him Zeus Alejandro. It's a hard name to live up to, but he seems pretty mighty so far.
 
@@ -516,7 +516,7 @@ Rub
 
 </div>
 
-<div class="post" data-post-id="20663" data-author="Leaf" data-date="2007-10-09T14:50:11+00:00">
+<div class="post" data-post-id="20663" data-author="Leaf" data-date="2007-10-09T14:50:11+00:00" data-subject="">
 
 Dang Dude, I wish my fiance inherited a house instead of my butt paying
 
@@ -526,19 +526,19 @@ if it's "prime", and then mud :)  Greats on being a new daddy!
 
 </div>
 
-<div class="post" data-post-id="20664" data-author="13" data-date="2007-10-09T18:10:37+00:00">
+<div class="post" data-post-id="20664" data-author="13" data-date="2007-10-09T18:10:37+00:00" data-subject="">
 
 sell 100 acres are you nuts?
 
 </div>
 
-<div class="post" data-post-id="20670" data-author="Leaf" data-date="2007-10-09T21:13:46+00:00">
+<div class="post" data-post-id="20670" data-author="Leaf" data-date="2007-10-09T21:13:46+00:00" data-subject="">
 
 If he has 120 acres, he can make a good amount of money.  He wouldn't need all of it.  Cause he would have to mow or take care of the land.
 
 </div>
 
-<div class="post" data-post-id="20671" data-author="13" data-date="2007-10-09T21:32:59+00:00">
+<div class="post" data-post-id="20671" data-author="13" data-date="2007-10-09T21:32:59+00:00" data-subject="">
 
 only farming 120 acres is a hell of a lot of work for what it will pay in 
 
@@ -546,7 +546,7 @@ $/bushel
 
 </div>
 
-<div class="post" data-post-id="20672" data-author="Leaf" data-date="2007-10-09T21:47:58+00:00">
+<div class="post" data-post-id="20672" data-author="Leaf" data-date="2007-10-09T21:47:58+00:00" data-subject="">
 
 But then again u rednecks can farm 200-300 acres :)
 
@@ -554,7 +554,7 @@ Make sure to have the government pay u for NOT growing corn!
 
 </div>
 
-<div class="post" data-post-id="20675" data-author="13" data-date="2007-10-09T23:28:44+00:00">
+<div class="post" data-post-id="20675" data-author="13" data-date="2007-10-09T23:28:44+00:00" data-subject="">
 
 the fact that the government would ever pay anyone to not grow crops on
 
@@ -562,13 +562,13 @@ their land unless it was a wildlife refuge, shows how fuct things are
 
 </div>
 
-<div class="post" data-post-id="20679" data-author="Weasel" data-date="2007-10-10T02:55:53+00:00">
+<div class="post" data-post-id="20679" data-author="Weasel" data-date="2007-10-10T02:55:53+00:00" data-subject="">
 
 [img:2607c0xw]http://www.plasticshards.com/images/lolcat_staredowncat1.jpg[/img:2607c0xw]
 
 </div>
 
-<div class="post" data-post-id="20684" data-author="Tap" data-date="2007-10-10T12:07:21+00:00">
+<div class="post" data-post-id="20684" data-author="Tap" data-date="2007-10-10T12:07:21+00:00" data-subject="Teaching Imm&#x27;s How To Censor">
 
 bump
 
@@ -576,7 +576,7 @@ bump
 
 </div>
 
-<div class="post" data-post-id="20686" data-author="Ker" data-date="2007-10-10T12:52:17+00:00">
+<div class="post" data-post-id="20686" data-author="Ker" data-date="2007-10-10T12:52:17+00:00" data-subject="">
 
 Wow John, good shit mate. Haven't seen you in awhile now, how's the surgery?
 
@@ -590,13 +590,13 @@ Has anyone heard from Lis? (Sergey)
 
 </div>
 
-<div class="post" data-post-id="20687" data-author="Weasel" data-date="2007-10-10T13:13:41+00:00">
+<div class="post" data-post-id="20687" data-author="Weasel" data-date="2007-10-10T13:13:41+00:00" data-subject="">
 
 Heh nice work removing posts Someone :)
 
 </div>
 
-<div class="post" data-post-id="20689" data-author="*juggleblood*" data-date="2007-10-10T13:31:44+00:00">
+<div class="post" data-post-id="20689" data-author="*juggleblood*" data-date="2007-10-10T13:31:44+00:00" data-subject="">
 
 BTW, WTF has that got to do with teaching noobs how to play sloth? Please don't start that bollox of posting unrelated cr@p in random threads again..
 
@@ -620,13 +620,13 @@ Gimlet - Ask them to join you. Then inexplicably leave when you realize they suc
 
 </div>
 
-<div class="post" data-post-id="20690" data-author="Weasel" data-date="2007-10-10T13:41:50+00:00">
+<div class="post" data-post-id="20690" data-author="Weasel" data-date="2007-10-10T13:41:50+00:00" data-subject="">
 
 heh.. didn't think I'd need to explain that one..
 
 </div>
 
-<div class="post" data-post-id="20691" data-author="resouh" data-date="2007-10-10T15:25:56+00:00">
+<div class="post" data-post-id="20691" data-author="resouh" data-date="2007-10-10T15:25:56+00:00" data-subject="">
 
 ooh, juggle, you forgot my tactic to dealing w/ annoying newbie players......
 
@@ -648,7 +648,7 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="20707" data-author="Medios" data-date="2007-10-10T20:19:57+00:00">
+<div class="post" data-post-id="20707" data-author="Medios" data-date="2007-10-10T20:19:57+00:00" data-subject="">
 
 Most of Weasel's posts make about as much sense as this one does. Please don't post 'unrelated' stuff in 'random' threads? 
 
@@ -668,7 +668,7 @@ I never said that I do not help noobs.   I just don't agree with the welfare sys
 
 </div>
 
-<div class="post" data-post-id="20708" data-author="Yinao" data-date="2007-10-10T20:23:29+00:00">
+<div class="post" data-post-id="20708" data-author="Yinao" data-date="2007-10-10T20:23:29+00:00" data-subject="">
 
 [quote:1fnie4wd]Yinao - Let them watch you solo the Eternal Flame.[/quote:1fnie4wd]
 
@@ -676,7 +676,7 @@ I solo'd eternal flame b4? News to me.
 
 </div>
 
-<div class="post" data-post-id="20740" data-author="mudder" data-date="2007-10-11T12:07:36+00:00">
+<div class="post" data-post-id="20740" data-author="mudder" data-date="2007-10-11T12:07:36+00:00" data-subject="">
 
 An oath for Sloth III
 
@@ -728,13 +728,13 @@ Do you swear to write your own scripts or when you can't to at least understand 
 
 </div>
 
-<div class="post" data-post-id="20749" data-author="alias" data-date="2007-10-11T15:21:07+00:00">
+<div class="post" data-post-id="20749" data-author="alias" data-date="2007-10-11T15:21:07+00:00" data-subject="">
 
 I need to put you to work, you obviously have too much time on your hands.
 
 </div>
 
-<div class="post" data-post-id="20814" data-author="Thraxas" data-date="2007-10-12T17:03:45+00:00">
+<div class="post" data-post-id="20814" data-author="Thraxas" data-date="2007-10-12T17:03:45+00:00" data-subject="">
 
 An oath for Sloth III
 

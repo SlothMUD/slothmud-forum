@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33944" data-author="*Breeze*" data-date="2013-01-27T16:57:07+00:00">
+<div class="post" data-post-id="33944" data-author="*Breeze*" data-date="2013-01-27T16:57:07+00:00" data-subject="Changes to Owlbear Form">
 
 **SMALL CHANGES TO OWLBEAR FORM**
 

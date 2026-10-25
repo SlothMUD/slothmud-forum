@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="21219" data-author="Thraxas" data-date="2007-11-06T13:26:16+00:00">
+<div class="post" data-post-id="21219" data-author="Thraxas" data-date="2007-11-06T13:26:16+00:00" data-subject="Telnet / SSH">
 
 I have a new internet tablet device which is great for me as I travel a lot, its a Nokia N800, web browsing and internet connectivity is great, however it dosen't have telnet on it. 
 
@@ -26,7 +26,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="21223" data-author="Blastem" data-date="2007-11-06T16:21:42+00:00">
+<div class="post" data-post-id="21223" data-author="Blastem" data-date="2007-11-06T16:21:42+00:00" data-subject="">
 
 A quick google search brings back this page that has some promise 
 
@@ -34,7 +34,7 @@ A quick google search brings back this page that has some promise
 
 </div>
 
-<div class="post" data-post-id="21224" data-author="Autolycos" data-date="2007-11-06T20:55:34+00:00">
+<div class="post" data-post-id="21224" data-author="Autolycos" data-date="2007-11-06T20:55:34+00:00" data-subject="">
 
 what ever you do... DO NOT listen to Blastem!!!!
 
@@ -42,7 +42,7 @@ you could accidently learn something
 
 </div>
 
-<div class="post" data-post-id="21229" data-author="Thraxas" data-date="2007-11-07T10:57:22+00:00">
+<div class="post" data-post-id="21229" data-author="Thraxas" data-date="2007-11-07T10:57:22+00:00" data-subject="">
 
 Thanks for that Blastem, nice link, not one I'd found though I had found a few similar, contained some nice stuff but sadly no telnet client :(
 
@@ -52,7 +52,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="21231" data-author="Blastem" data-date="2007-11-07T14:38:11+00:00">
+<div class="post" data-post-id="21231" data-author="Blastem" data-date="2007-11-07T14:38:11+00:00" data-subject="">
 
 Hrmm listed on that page:
 

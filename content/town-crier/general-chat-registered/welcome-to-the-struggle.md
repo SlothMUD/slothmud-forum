@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30904" data-author="Toxis" data-date="2010-02-18T12:38:16+00:00">
+<div class="post" data-post-id="30904" data-author="Toxis" data-date="2010-02-18T12:38:16+00:00" data-subject="Welcome to the Struggle">
 
 A chubby eskimo is dead! R.I.P.
 

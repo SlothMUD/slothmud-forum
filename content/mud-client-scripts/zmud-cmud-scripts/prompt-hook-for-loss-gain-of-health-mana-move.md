@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="24216" data-author="Festeringhag" data-date="2008-05-06T02:17:40+00:00">
+<div class="post" data-post-id="24216" data-author="Festeringhag" data-date="2008-05-06T02:17:40+00:00" data-subject="Prompt hook for loss/gain of health/mana/move">
 
 Prompt code in game:
 
@@ -68,19 +68,19 @@ Works the same with ma and mv. really useful if you like to see exact numbers.
 
 </div>
 
-<div class="post" data-post-id="24217" data-author="jezer" data-date="2008-05-06T02:26:19+00:00">
+<div class="post" data-post-id="24217" data-author="jezer" data-date="2008-05-06T02:26:19+00:00" data-subject="">
 
 Jake! Is that you?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="24218" data-author="Festeringhag" data-date="2008-05-06T02:34:31+00:00">
+<div class="post" data-post-id="24218" data-author="Festeringhag" data-date="2008-05-06T02:34:31+00:00" data-subject="">
 
 Sorry, no. i'm new to the mud. :)
 
 </div>
 
-<div class="post" data-post-id="24221" data-author="Weasel" data-date="2008-05-06T04:11:38+00:00">
+<div class="post" data-post-id="24221" data-author="Weasel" data-date="2008-05-06T04:11:38+00:00" data-subject="">
 
 Double, double toil and trouble;
 
@@ -88,7 +88,7 @@ Double, double toil and trouble;
 
 </div>
 
-<div class="post" data-post-id="24226" data-author="Festeringhag" data-date="2008-05-06T06:02:39+00:00">
+<div class="post" data-post-id="24226" data-author="Festeringhag" data-date="2008-05-06T06:02:39+00:00" data-subject="">
 
 only change:
 
@@ -108,7 +108,7 @@ to..
 
 </div>
 
-<div class="post" data-post-id="24227" data-author="jezer" data-date="2008-05-06T06:34:50+00:00">
+<div class="post" data-post-id="24227" data-author="jezer" data-date="2008-05-06T06:34:50+00:00" data-subject="">
 
 A ball of twine, an old birds nest;
 
@@ -116,7 +116,7 @@ And now this brew is ready to test!
 
 </div>
 
-<div class="post" data-post-id="24228" data-author="jezer" data-date="2008-05-06T07:02:45+00:00">
+<div class="post" data-post-id="24228" data-author="jezer" data-date="2008-05-06T07:02:45+00:00" data-subject="">
 
 A dogs nose, a weasels tail
 
@@ -128,7 +128,7 @@ Muhahahahaha!
 
 </div>
 
-<div class="post" data-post-id="24232" data-author="Weasel" data-date="2008-05-06T14:30:08+00:00">
+<div class="post" data-post-id="24232" data-author="Weasel" data-date="2008-05-06T14:30:08+00:00" data-subject="">
 
 a weasel's tail? :shock:  now that's just wrong.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34392" data-author="Yasik" data-date="2013-08-23T10:44:03+00:00">
+<div class="post" data-post-id="34392" data-author="Yasik" data-date="2013-08-23T10:44:03+00:00" data-subject="Avatar Guide">
 
 Hello!
 
@@ -24,7 +24,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="34396" data-author="Tuck" data-date="2013-08-24T02:06:21+00:00">
+<div class="post" data-post-id="34396" data-author="Tuck" data-date="2013-08-24T02:06:21+00:00" data-subject="Re: Avatar Guide">
 
 > **Yasik wrote:**
 > Hello!

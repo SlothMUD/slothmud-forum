@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="2757" data-author="Viator" data-date="2004-11-10T19:49:58+00:00">
+<div class="post" data-post-id="2757" data-author="Viator" data-date="2004-11-10T19:49:58+00:00" data-subject="Little fix">
 
 <627hp 126ma 65mv>
 
@@ -30,7 +30,7 @@ You stagger but manage to keep your feet.
 
 </div>
 
-<div class="post" data-post-id="2762" data-author="kjartan" data-date="2004-11-11T02:25:17+00:00">
+<div class="post" data-post-id="2762" data-author="kjartan" data-date="2004-11-11T02:25:17+00:00" data-subject="">
 
 Thanks.  I'll fix that.
 

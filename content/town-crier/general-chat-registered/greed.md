@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="27308" data-author="Weasel" data-date="2008-11-28T16:23:44+00:00">
+<div class="post" data-post-id="27308" data-author="Weasel" data-date="2008-11-28T16:23:44+00:00" data-subject="Greed">
 
 This is disgusting. Tragic, and disgusting.
 
@@ -18,7 +18,7 @@ This is disgusting. Tragic, and disgusting.
 
 </div>
 
-<div class="post" data-post-id="27310" data-author="Rynquald" data-date="2008-11-28T22:16:32+00:00">
+<div class="post" data-post-id="27310" data-author="Rynquald" data-date="2008-11-28T22:16:32+00:00" data-subject="">
 
 It will be interesting to see where the blame for that falls.
 
@@ -26,7 +26,7 @@ Obviously it's not likely to be possible to work out much from security camera f
 
 </div>
 
-<div class="post" data-post-id="27311" data-author="Leaf" data-date="2008-11-28T23:51:36+00:00">
+<div class="post" data-post-id="27311" data-author="Leaf" data-date="2008-11-28T23:51:36+00:00" data-subject="">
 
 Alot of stores now give out tickets for certain items.  Ppl usually line up
 
@@ -46,7 +46,7 @@ kicking, punching their way thru....
 
 </div>
 
-<div class="post" data-post-id="27312" data-author="*juggleblood*" data-date="2008-11-29T07:10:41+00:00">
+<div class="post" data-post-id="27312" data-author="*juggleblood*" data-date="2008-11-29T07:10:41+00:00" data-subject="">
 
 this related event happened when i was living in riyadh
 
@@ -54,13 +54,13 @@ this related event happened when i was living in riyadh
 
 </div>
 
-<div class="post" data-post-id="27313" data-author="Yasik2" data-date="2008-11-29T09:16:04+00:00">
+<div class="post" data-post-id="27313" data-author="Yasik2" data-date="2008-11-29T09:16:04+00:00" data-subject="">
 
 what those zombies wanted to buy so much?
 
 </div>
 
-<div class="post" data-post-id="27314" data-author="Autolycos" data-date="2008-11-29T14:00:38+00:00">
+<div class="post" data-post-id="27314" data-author="Autolycos" data-date="2008-11-29T14:00:38+00:00" data-subject="">
 
 a great example of the disregard for human life.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="38361" data-author="*teker*" data-date="2017-07-30T02:38:10+00:00">
+<div class="post" data-post-id="38361" data-author="*teker*" data-date="2017-07-30T02:38:10+00:00" data-subject="Changelog 2017-07-29">
 
 The crash brought us:
 
@@ -20,7 +20,7 @@ The crash brought us:
 
 </div>
 
-<div class="post" data-post-id="38385" data-author="Gorka" data-date="2017-08-07T06:34:18+00:00">
+<div class="post" data-post-id="38385" data-author="Gorka" data-date="2017-08-07T06:34:18+00:00" data-subject="Re: Changelog 2017-07-29">
 
 Teker, can't confirm this is a "thing" but I had weird "send and receive" issues when I added GROUP2 to my msdp variables. At times I would type things like eq or inv and nothing would happen... like my send and receives of some mud text were being lost... this effected mud messages, grouptells and fighting. However I noted msdp was updating during these times because the timers on my spells were decreasing. Removing this variable from my msdp variables list seem to clear this issue up. Also Jackalope told me that the JSON variable arrives malformed sometimes. My suspicion is GROUP2 is either malformed, or lagging things to hell which leads to failed communications.
 
@@ -28,7 +28,7 @@ Also could you please tell me which msdp variable is the best to use for my hp, 
 
 </div>
 
-<div class="post" data-post-id="38387" data-author="*teker*" data-date="2017-08-08T02:01:57+00:00">
+<div class="post" data-post-id="38387" data-author="*teker*" data-date="2017-08-08T02:01:57+00:00" data-subject="Re: Changelog 2017-07-29">
 
 I would love to see one of the malformed JSON values.  The code for native MSDP versus JSON is the same except for the encoder so the same bug will be present in both.  I suspect it may have to do with the code I put in to handle larger groups.  I've only been able to test it with a small group myself, but I'm travelling this week so maybe I'll be able to catch a group one evening.
 
@@ -36,7 +36,7 @@ Right now the updates are the same for GROUP2 and CHARACTER_HEALTH.  I'm thinkin
 
 </div>
 
-<div class="post" data-post-id="38388" data-author="*teker*" data-date="2017-08-08T19:43:25+00:00">
+<div class="post" data-post-id="38388" data-author="*teker*" data-date="2017-08-08T19:43:25+00:00" data-subject="Re: Changelog 2017-07-29">
 
 I'm pretty sure I found it.  The fix should go in next reboot.
 

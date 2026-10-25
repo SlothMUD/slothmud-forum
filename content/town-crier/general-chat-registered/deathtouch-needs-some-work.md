@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="16361" data-author="Zukt" data-date="2007-01-19T03:38:05+00:00">
+<div class="post" data-post-id="16361" data-author="Zukt" data-date="2007-01-19T03:38:05+00:00" data-subject="Deathtouch needs some work.">
 
 Most avatar monks look forward and are disapointed by deathtouch. I tracked 500 deathtouches and landed 378... You miss an entire 1/4th the time.
 
@@ -26,13 +26,13 @@ If you want to keep dtouch more risky than grip, fine, but make it slightly more
 
 </div>
 
-<div class="post" data-post-id="16365" data-author="13" data-date="2007-01-19T12:35:25+00:00">
+<div class="post" data-post-id="16365" data-author="13" data-date="2007-01-19T12:35:25+00:00" data-subject="">
 
 You don't do less than a single unless you're running +10 and comparing vs Medios or something.  The rest is garbage though.  I agree with Z.
 
 </div>
 
-<div class="post" data-post-id="16368" data-author="alias" data-date="2007-01-19T17:17:36+00:00">
+<div class="post" data-post-id="16368" data-author="alias" data-date="2007-01-19T17:17:36+00:00" data-subject="">
 
 It would be nice to not miss as much as I do and I run +13 hitroll so I dont think I should miss much.
 
@@ -42,7 +42,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="16387" data-author="12345" data-date="2007-01-20T02:12:18+00:00">
+<div class="post" data-post-id="16387" data-author="12345" data-date="2007-01-20T02:12:18+00:00" data-subject="">
 
 The part about bros is off I think.  Deathtouch is definately not affected by bros, but I'm more or less certain that grip is.  You won't get as much benefit as a thief stabbing though.
 
@@ -52,7 +52,7 @@ If I were to suggest an improvement though, it would be to focus/kensai.  Seems 
 
 </div>
 
-<div class="post" data-post-id="16402" data-author="*Splork*" data-date="2007-01-20T20:31:04+00:00">
+<div class="post" data-post-id="16402" data-author="*Splork*" data-date="2007-01-20T20:31:04+00:00" data-subject="">
 
 We have improved deathtouch's hitrate slightly. Brothers will now affect it as well.
 
@@ -60,7 +60,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="16417" data-author="alias" data-date="2007-01-21T02:32:15+00:00">
+<div class="post" data-post-id="16417" data-author="alias" data-date="2007-01-21T02:32:15+00:00" data-subject="">
 
 thanx much. :D 
 

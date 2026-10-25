@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="37596" data-author="Teron" data-date="2016-12-01T08:05:28+00:00">
+<div class="post" data-post-id="37596" data-author="Teron" data-date="2016-12-01T08:05:28+00:00" data-subject="Promote the MUD: a job for all of us">
 
 Recently, Belrath raised a matter of acquiring new players, and since no one mentioned how to do it, here's a brief list of first things to do.
 
@@ -69,7 +69,7 @@ Any imm can do it, or wait till Taron finds time.
 
 </div>
 
-<div class="post" data-post-id="37599" data-author="*Splork*" data-date="2016-12-01T16:16:56+00:00">
+<div class="post" data-post-id="37599" data-author="*Splork*" data-date="2016-12-01T16:16:56+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
 > **Quote:**
 > Some time ago, I asked Splork, why couldn't immorts promote the site, to which he replied along the lines that imms can do little, mortals can do much more.
@@ -84,7 +84,7 @@ I just pushed out shortcuts to our website to all computers in my school's libra
 
 </div>
 
-<div class="post" data-post-id="37600" data-author="*Breeze*" data-date="2016-12-01T21:58:15+00:00">
+<div class="post" data-post-id="37600" data-author="*Breeze*" data-date="2016-12-01T21:58:15+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
 > **Teron wrote:**
 > Recently, Belrath raised a matter of acquiring new players, and since no one mentioned how to do it, here's a brief list of first things to do.
@@ -174,7 +174,7 @@ i cant make the header a link since its a background image. (at least not withou
 
 </div>
 
-<div class="post" data-post-id="37601" data-author="Teron" data-date="2016-12-02T05:38:53+00:00">
+<div class="post" data-post-id="37601" data-author="Teron" data-date="2016-12-02T05:38:53+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
 **Splork**, I can't find the email or post, it was probably via tell - I'm sure I'm not imagining it.
 
@@ -199,13 +199,13 @@ Another thing you can do is to add the "write a review about the MUD" link with 
 
 </div>
 
-<div class="post" data-post-id="37630" data-author="*juggleblood*" data-date="2016-12-03T23:18:38+00:00">
+<div class="post" data-post-id="37630" data-author="*juggleblood*" data-date="2016-12-03T23:18:38+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
 I just now went over to tmc and created some posts in a number of different forums and reached out to some folks who were asking questions there. My duty for the month is done.
 
 </div>
 
-<div class="post" data-post-id="37679" data-author="Teron" data-date="2016-12-06T08:41:03+00:00">
+<div class="post" data-post-id="37679" data-author="Teron" data-date="2016-12-06T08:41:03+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
 1. Maybe it's too early to draw results from the vote links that appear on rent, but it's better than nothing:
 
@@ -223,7 +223,7 @@ To get to #21 on TMS, which gives the same amount of visitors as #17 (19), we ne
 
 </div>
 
-<div class="post" data-post-id="37859" data-author="Teron" data-date="2016-12-21T10:28:24+00:00">
+<div class="post" data-post-id="37859" data-author="Teron" data-date="2016-12-21T10:28:24+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
 More stats.
 
@@ -239,13 +239,13 @@ Image uploader is broken (says file is empty), so I uploaded the screenshots to 
 
 </div>
 
-<div class="post" data-post-id="37861" data-author="Filk" data-date="2016-12-21T14:06:41+00:00">
+<div class="post" data-post-id="37861" data-author="Filk" data-date="2016-12-21T14:06:41+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
 I have no ideas what is tms. I just clicking on vote link from main page of the site. Once a day. And on rest message do it job for me as reminder, that i need to do it.
 
 </div>
 
-<div class="post" data-post-id="37862" data-author="*Neptune*" data-date="2016-12-21T14:47:00+00:00">
+<div class="post" data-post-id="37862" data-author="*Neptune*" data-date="2016-12-21T14:47:00+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
 TMS = Top Mud Sites. There's a small link directly underneath the TMC banner/image 
 
@@ -269,7 +269,7 @@ Hope that helps.
 
 </div>
 
-<div class="post" data-post-id="37863" data-author="Filk" data-date="2016-12-21T15:00:36+00:00">
+<div class="post" data-post-id="37863" data-author="Filk" data-date="2016-12-21T15:00:36+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
 Laugh. And they expect ppl to do such things?  :lol: 
 
@@ -291,7 +291,7 @@ So go and do some manual actions and maaabye then admins will allow you to actua
 
 </div>
 
-<div class="post" data-post-id="37868" data-author="Teron" data-date="2016-12-23T16:24:11+00:00">
+<div class="post" data-post-id="37868" data-author="Teron" data-date="2016-12-23T16:24:11+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
 Yeah, for a service that's lagging behind TMC, it does demand a great time/effort investment for a registration.
 

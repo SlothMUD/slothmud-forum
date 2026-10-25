@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3909" data-author="*Splork*" data-date="2005-01-24T00:35:39+00:00">
+<div class="post" data-post-id="3909" data-author="*Splork*" data-date="2005-01-24T00:35:39+00:00" data-subject="Monk Changes">
 
 I changed waterwalk and slowfall to be innate since I had yet see a monk who knew he was going to fall accidently and toggle it on.
 

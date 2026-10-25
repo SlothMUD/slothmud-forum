@@ -10,13 +10,13 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38995" data-author="*teker*" data-date="2018-11-11T16:27:50+00:00">
+<div class="post" data-post-id="38995" data-author="*teker*" data-date="2018-11-11T16:27:50+00:00" data-subject="Reports of chop issues">
 
 Sorry I wasn't able to hang around yesterday to see the issue - what exactly is going on?  I've run some tests with a scimitar and I see the chops happening, the mob is getting blinded, etc.
 
 </div>
 
-<div class="post" data-post-id="38996" data-author="Ezekiel" data-date="2018-11-12T17:10:18+00:00">
+<div class="post" data-post-id="38996" data-author="Ezekiel" data-date="2018-11-12T17:10:18+00:00" data-subject="Re: Reports of chop issues">
 
 Heya Teker,
 
@@ -30,7 +30,7 @@ Thanks for looking into it.
 
 </div>
 
-<div class="post" data-post-id="38997" data-author="*teker*" data-date="2018-11-13T20:05:37+00:00">
+<div class="post" data-post-id="38997" data-author="*teker*" data-date="2018-11-13T20:05:37+00:00" data-subject="Re: Reports of chop issues">
 
 I believe it should be fixed now that we rebooted.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="198" data-author="Deju" data-date="2004-05-21T17:59:03+00:00">
+<div class="post" data-post-id="198" data-author="Deju" data-date="2004-05-21T17:59:03+00:00" data-subject="Ashen Bracelet up - 3mil min">
 
 Object 'ashen bracelet forge', Item type: ARMOR
 
@@ -34,7 +34,7 @@ this item.
 
 </div>
 
-<div class="post" data-post-id="345" data-author="Deju" data-date="2004-05-26T04:05:21+00:00">
+<div class="post" data-post-id="345" data-author="Deju" data-date="2004-05-26T04:05:21+00:00" data-subject="">
 
 Closed... no winner
 

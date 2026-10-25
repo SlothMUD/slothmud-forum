@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31852" data-author="Thraxas" data-date="2010-10-08T22:09:38+00:00">
+<div class="post" data-post-id="31852" data-author="Thraxas" data-date="2010-10-08T22:09:38+00:00" data-subject="Counterpoint">
 
 As a counterpoint to some of the recent posts on the crier I just wanted to say I like playing sloth and I think it works well.
 
@@ -26,7 +26,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="31854" data-author="Spink" data-date="2010-10-08T23:38:28+00:00">
+<div class="post" data-post-id="31854" data-author="Spink" data-date="2010-10-08T23:38:28+00:00" data-subject="I don&#x27;t mean to be nice but...">
 
 Let's all be friends!
 
@@ -34,7 +34,7 @@ Everyone is great!
 
 </div>
 
-<div class="post" data-post-id="31857" data-author="Tuck" data-date="2010-10-09T06:26:48+00:00">
+<div class="post" data-post-id="31857" data-author="Tuck" data-date="2010-10-09T06:26:48+00:00" data-subject="Re: Counterpoint">
 
 <LINK_TEXT text="http://www.youtube.com/watch?v=hu57AM5Y ... r_embedded">http://www.youtube.com/watch?v=hu57AM5Yans&feature=player_embedded</LINK_TEXT>
 

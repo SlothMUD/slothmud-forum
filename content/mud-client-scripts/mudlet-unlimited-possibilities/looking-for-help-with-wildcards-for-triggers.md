@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="34417" data-author="Drule" data-date="2013-09-10T05:58:57+00:00">
+<div class="post" data-post-id="34417" data-author="Drule" data-date="2013-09-10T05:58:57+00:00" data-subject="Looking for help with wildcards for triggers">
 
 I've been trying to play around with lua in mudlet but I'm having trouble finding a good list of wildcards to use with triggers. Does anyone have a link to such a list or could someone set me up with a few basic ones?
 
@@ -22,7 +22,7 @@ Nate
 
 </div>
 
-<div class="post" data-post-id="34420" data-author="*juggleblood*" data-date="2013-09-10T11:50:09+00:00">
+<div class="post" data-post-id="34420" data-author="*juggleblood*" data-date="2013-09-10T11:50:09+00:00" data-subject="Re: Looking for help with wildcards for triggers">
 
 Here is a discussion of regex expressions:
 
@@ -42,13 +42,13 @@ I'm still terrible at it. I finally have some basic working scripts. I hope you 
 
 </div>
 
-<div class="post" data-post-id="34422" data-author="Tuck" data-date="2013-09-10T23:36:44+00:00">
+<div class="post" data-post-id="34422" data-author="Tuck" data-date="2013-09-10T23:36:44+00:00" data-subject="Re: Looking for help with wildcards for triggers">
 
 nice info jugg. publish it on wiki?
 
 </div>
 
-<div class="post" data-post-id="34423" data-author="*juggleblood*" data-date="2013-09-11T21:08:29+00:00">
+<div class="post" data-post-id="34423" data-author="*juggleblood*" data-date="2013-09-11T21:08:29+00:00" data-subject="Re: Looking for help with wildcards for triggers">
 
 I've never even looked at it. That's a player thing.
 
@@ -58,7 +58,7 @@ and that's not a cop-out btw, I have a Lyme area to get in game and it's rather 
 
 </div>
 
-<div class="post" data-post-id="34438" data-author="*Breeze*" data-date="2013-09-15T17:29:36+00:00">
+<div class="post" data-post-id="34438" data-author="*Breeze*" data-date="2013-09-15T17:29:36+00:00" data-subject="Re: Looking for help with wildcards for triggers">
 
 made this awhile back. 
 
@@ -76,7 +76,7 @@ break a leg
 
 </div>
 
-<div class="post" data-post-id="34439" data-author="Akaya" data-date="2013-09-15T20:31:31+00:00">
+<div class="post" data-post-id="34439" data-author="Akaya" data-date="2013-09-15T20:31:31+00:00" data-subject="Re: Looking for help with wildcards for triggers">
 
 > ***Breeze* wrote:**
 > made this awhile back. 
@@ -105,7 +105,7 @@ That's pretty neat! So it converts ??? to Lua and saves it as an .xml file?
 
 </div>
 
-<div class="post" data-post-id="34440" data-author="*Breeze*" data-date="2013-09-15T23:28:18+00:00">
+<div class="post" data-post-id="34440" data-author="*Breeze*" data-date="2013-09-15T23:28:18+00:00" data-subject="Re: Looking for help with wildcards for triggers">
 
 pseudo tin, yes. figured why not automate something i was doing tons of.
 

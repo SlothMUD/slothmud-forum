@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1525" data-author="Next" data-date="2004-08-21T13:48:18+00:00">
+<div class="post" data-post-id="1525" data-author="Next" data-date="2004-08-21T13:48:18+00:00" data-subject="seeking pitch black greaves">
 
 no big deal if they are dex but con are prefered. Will pay well or trade.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39710" data-author="Gorka" data-date="2021-04-08T08:38:28+00:00">
+<div class="post" data-post-id="39710" data-author="Gorka" data-date="2021-04-08T08:38:28+00:00" data-subject="Why was Belraths post removed?">
 
 Belrath wrote a satirical post last night claiming to have written a group bot script which allowed him to get "free xp" by allowing leaders to remote control him in a group while asleep and completely AFK. It was the funniest satirical post I've read in quite some time on this forum.
 
@@ -26,7 +26,7 @@ And to the bastage who thought that censorship is preferable to the truth, or de
 
 </div>
 
-<div class="post" data-post-id="39711" data-author="Belrath" data-date="2021-04-08T10:34:02+00:00">
+<div class="post" data-post-id="39711" data-author="Belrath" data-date="2021-04-08T10:34:02+00:00" data-subject="Re: Why was Belraths post removed?">
 
 Actually I removed it. I sobered up so decided to bleh. :-D
 
@@ -34,7 +34,7 @@ Actually I removed it. I sobered up so decided to bleh. :-D
 
 </div>
 
-<div class="post" data-post-id="39712" data-author="Gorka" data-date="2021-04-08T15:06:16+00:00">
+<div class="post" data-post-id="39712" data-author="Gorka" data-date="2021-04-08T15:06:16+00:00" data-subject="Re: Why was Belraths post removed?">
 
 :lol: 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="38081" data-author="Gorka" data-date="2017-02-21T07:15:25+00:00">
+<div class="post" data-post-id="38081" data-author="Gorka" data-date="2017-02-21T07:15:25+00:00" data-subject="To Rebirth or not to Rebirth, that is the question...">
 
 I've spent a few days questing hard to purchase -0.5 rings. After doing so, I tidied up my quest information, and worked out roughly how much drachma was left in the game for me and how much I'd spent. 
 
@@ -26,7 +26,7 @@ I'd be Interested to hear some feedback from 9x40's and rebirthers now we alread
 
 </div>
 
-<div class="post" data-post-id="38082" data-author="Gorka" data-date="2017-02-21T07:36:23+00:00">
+<div class="post" data-post-id="38082" data-author="Gorka" data-date="2017-02-21T07:36:23+00:00" data-subject="Re: To Rebirth or not to Rebirth, that is the question...">
 
 Expanding on my last post...
 
@@ -36,7 +36,7 @@ I guess the question is, should rebirth be a progression, and if the answer is y
 
 </div>
 
-<div class="post" data-post-id="38083" data-author="*juggleblood*" data-date="2017-02-22T03:29:39+00:00">
+<div class="post" data-post-id="38083" data-author="*juggleblood*" data-date="2017-02-22T03:29:39+00:00" data-subject="Re: To Rebirth or not to Rebirth, that is the question...">
 
 I've asked the various rebirthers why they did it and different aspects are more important to different people, but I'd say it goes something like this:
 
@@ -54,7 +54,7 @@ I'm approaching 9x40, about a month out, and I can tell you that i'll be spendin
 
 </div>
 
-<div class="post" data-post-id="38084" data-author="cyprimus" data-date="2017-02-22T16:30:08+00:00">
+<div class="post" data-post-id="38084" data-author="cyprimus" data-date="2017-02-22T16:30:08+00:00" data-subject="Re: To Rebirth or not to Rebirth, that is the question...">
 
 Well, for cy its all of the above... drac less for him, but still never hurts.  I enjoy leveling.. and being able to redo his classo to adjust it for what I have learned since I started him, is making it more fun.  
 
@@ -68,7 +68,7 @@ Well, logging in from apartments office, so reading and responding as best I can
 
 </div>
 
-<div class="post" data-post-id="38085" data-author="*Breeze*" data-date="2017-02-23T14:38:45+00:00">
+<div class="post" data-post-id="38085" data-author="*Breeze*" data-date="2017-02-23T14:38:45+00:00" data-subject="Re: To Rebirth or not to Rebirth, that is the question...">
 
 tl;dr version
 
@@ -128,7 +128,7 @@ so i decided against it.
 
 </div>
 
-<div class="post" data-post-id="38086" data-author="Gorka" data-date="2017-02-23T15:59:05+00:00">
+<div class="post" data-post-id="38086" data-author="Gorka" data-date="2017-02-23T15:59:05+00:00" data-subject="Re: To Rebirth or not to Rebirth, that is the question...">
 
 > ***Breeze* wrote:**
 > "lets see how twisted Breeze can be"
@@ -144,7 +144,7 @@ Pic.png
 
 </div>
 
-<div class="post" data-post-id="38088" data-author="Josiah" data-date="2017-02-24T19:13:07+00:00">
+<div class="post" data-post-id="38088" data-author="Josiah" data-date="2017-02-24T19:13:07+00:00" data-subject="Re: To Rebirth or not to Rebirth, that is the question...">
 
 Sweet Av light!  Man, I skip a week and look what happens.  I should get busy more often I guess.
 

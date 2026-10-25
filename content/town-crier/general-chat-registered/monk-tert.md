@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31273" data-author="Toxis" data-date="2010-06-03T05:18:09+00:00">
+<div class="post" data-post-id="31273" data-author="Toxis" data-date="2010-06-03T05:18:09+00:00" data-subject="Monk Tert?">
 
 Stun is wa/ba/cl, and Addict is wa/ba/mo.. yet we have same hp and he has nearly 100 mana more than I do.  Can someone look into this and perhaps discuss if this is meant to be?  Seems a little out of whack, and perhaps some sort of oversight from s3 to s4.
 
@@ -20,7 +20,7 @@ Brad
 
 </div>
 
-<div class="post" data-post-id="31276" data-author="Toxis" data-date="2010-06-03T20:10:42+00:00">
+<div class="post" data-post-id="31276" data-author="Toxis" data-date="2010-06-03T20:10:42+00:00" data-subject="Re: Monk Tert?">
 
 Stun and I stripped gear, and I had him put on 1 rusty bracer (-1 con) so that we both had 14 int and 16 con.
 

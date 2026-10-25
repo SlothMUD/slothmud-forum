@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="35205" data-author="*Idjit*" data-date="2014-06-01T19:01:26+00:00">
+<div class="post" data-post-id="35205" data-author="*Idjit*" data-date="2014-06-01T19:01:26+00:00" data-subject="Amaryllian Pass EQ">
 
 1. a pair of rabbit ears..It has a soft glowing aura!
 
@@ -88,7 +88,7 @@ Amaryllian Pass is located due north of where scroll of homing deposits you in T
 
 </div>
 
-<div class="post" data-post-id="35207" data-author="Marvel" data-date="2014-06-01T19:56:04+00:00">
+<div class="post" data-post-id="35207" data-author="Marvel" data-date="2014-06-01T19:56:04+00:00" data-subject="Re: Amaryllian Pass EQ">
 
 You recite an identify scroll which dissolves.
 
@@ -142,13 +142,13 @@ Thanks to Neptune for running the quest, opening this area, and all for followin
 
 </div>
 
-<div class="post" data-post-id="35209" data-author="DarkArtist" data-date="2014-06-01T20:43:36+00:00">
+<div class="post" data-post-id="35209" data-author="DarkArtist" data-date="2014-06-01T20:43:36+00:00" data-subject="Re: Amaryllian Pass EQ">
 
 Can boots please have adept mage added to restricts? .1 armor, 2 hit, and 5 spellbonus is a mage item
 
 </div>
 
-<div class="post" data-post-id="35210" data-author="Marvel" data-date="2014-06-01T20:49:35+00:00">
+<div class="post" data-post-id="35210" data-author="Marvel" data-date="2014-06-01T20:49:35+00:00" data-subject="Re: Amaryllian Pass EQ">
 
 You recite an identify scroll which dissolves.
 
@@ -192,25 +192,25 @@ Only those who are primary adept necromancers may use this item.
 
 </div>
 
-<div class="post" data-post-id="35212" data-author="Hung" data-date="2014-06-02T04:51:45+00:00">
+<div class="post" data-post-id="35212" data-author="Hung" data-date="2014-06-02T04:51:45+00:00" data-subject="Re: Amaryllian Pass EQ">
 
 Who pops the shield of the ram?
 
 </div>
 
-<div class="post" data-post-id="35213" data-author="Dragoth" data-date="2014-06-02T07:22:40+00:00">
+<div class="post" data-post-id="35213" data-author="Dragoth" data-date="2014-06-02T07:22:40+00:00" data-subject="Re: Amaryllian Pass EQ">
 
 Shield of the ram and the amaryl boots are a bit too OP for a lowbie area arent they ?
 
 </div>
 
-<div class="post" data-post-id="35214" data-author="fallen" data-date="2014-06-02T09:13:40+00:00">
+<div class="post" data-post-id="35214" data-author="fallen" data-date="2014-06-02T09:13:40+00:00" data-subject="Re: Amaryllian Pass EQ">
 
 indeed shield is OP
 
 </div>
 
-<div class="post" data-post-id="35215" data-author="Thraxas" data-date="2014-06-02T11:19:56+00:00">
+<div class="post" data-post-id="35215" data-author="Thraxas" data-date="2014-06-02T11:19:56+00:00" data-subject="Re: Amaryllian Pass EQ">
 
 a worm-eaten strap of flesh..It glows violet!..It has a soft glowing aura!
 
@@ -232,7 +232,7 @@ use this item.
 
 </div>
 
-<div class="post" data-post-id="35216" data-author="*Neptune*" data-date="2014-06-02T14:10:01+00:00">
+<div class="post" data-post-id="35216" data-author="*Neptune*" data-date="2014-06-02T14:10:01+00:00" data-subject="Re: Amaryllian Pass EQ">
 
 I'd like to take the time to mention a couple of small changes
 
@@ -248,13 +248,13 @@ not load anymore in that area.
 
 </div>
 
-<div class="post" data-post-id="35360" data-author="Hung" data-date="2014-06-30T15:24:21+00:00">
+<div class="post" data-post-id="35360" data-author="Hung" data-date="2014-06-30T15:24:21+00:00" data-subject="Re: Amaryllian Pass EQ">
 
 As new eq didnt appear in the eqlist I repeat my question. Please, share, who pops shield of the ram?
 
 </div>
 
-<div class="post" data-post-id="35361" data-author="Marvel" data-date="2014-06-30T23:23:08+00:00">
+<div class="post" data-post-id="35361" data-author="Marvel" data-date="2014-06-30T23:23:08+00:00" data-subject="Re: Amaryllian Pass EQ">
 
 As dead horse, I speak.
 
@@ -264,7 +264,7 @@ Resume beating.
 
 </div>
 
-<div class="post" data-post-id="35362" data-author="Hung" data-date="2014-07-01T02:29:30+00:00">
+<div class="post" data-post-id="35362" data-author="Hung" data-date="2014-07-01T02:29:30+00:00" data-subject="Re: Amaryllian Pass EQ">
 
 The Thalassian Captain of the Guard loads it.
 

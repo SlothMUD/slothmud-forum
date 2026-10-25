@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34658" data-author="*Neptune*" data-date="2013-12-19T16:11:02+00:00">
+<div class="post" data-post-id="34658" data-author="*Neptune*" data-date="2013-12-19T16:11:02+00:00" data-subject="Holy Item Updates">
 
 Greetings.
 

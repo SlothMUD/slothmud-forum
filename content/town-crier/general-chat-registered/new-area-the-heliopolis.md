@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39154" data-author="Gorka" data-date="2019-04-07T20:47:08+00:00">
+<div class="post" data-post-id="39154" data-author="Gorka" data-date="2019-04-07T20:47:08+00:00" data-subject="New Area - The Heliopolis">
 
 We completely explored the new area, joins up from war avatar iirc. Thanks Nep for the fun.
 

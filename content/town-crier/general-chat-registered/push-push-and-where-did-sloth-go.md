@@ -10,7 +10,7 @@ locked: true
 post_count: 30
 ---
 
-<div class="post" data-post-id="30281" data-author="Toxis" data-date="2009-11-17T05:34:41+00:00">
+<div class="post" data-post-id="30281" data-author="Toxis" data-date="2009-11-17T05:34:41+00:00" data-subject="Push Push, and where did sloth go?">
 
 If this is how it is going to be, then I'm done.  Doing a mob you've killed 10000 times in the past and all the sudden he dispels you?  And not just a change, I HATE being dispelled.  Take this mud and go to hell.  You have ruined it.  You have driven players and imms away.  You are just the end of sloth and I feel so hurt not for myself, because sloth was an institution.  I hate you.  Rot and die, you punks.  This is from a builder, an immort, that was level 45 and told them to wipe me twice because of their behavior. I came back because I thought things could change and evertyime splork came back, bs returned.  This is your mud, have fun with it.
 
@@ -60,7 +60,7 @@ You feel dizzy for a moment...
 
 </div>
 
-<div class="post" data-post-id="30282" data-author="Toxis" data-date="2009-11-17T05:42:08+00:00">
+<div class="post" data-post-id="30282" data-author="Toxis" data-date="2009-11-17T05:42:08+00:00" data-subject="">
 
 You suddenly have a feeling that everything is not right!
 
@@ -76,7 +76,7 @@ Your Leader
 
 </div>
 
-<div class="post" data-post-id="30283" data-author="hounds" data-date="2009-11-17T05:57:20+00:00">
+<div class="post" data-post-id="30283" data-author="hounds" data-date="2009-11-17T05:57:20+00:00" data-subject="">
 
 baby babality Toxis -- 'WWwwwwwwwAAAAAAaaaaaahhHHHHHH!!!!'
 
@@ -84,7 +84,7 @@ thats a little over they top you no shout then you dont alow himt to speak in gr
 
 </div>
 
-<div class="post" data-post-id="30284" data-author="*juggleblood*" data-date="2009-11-17T06:10:33+00:00">
+<div class="post" data-post-id="30284" data-author="*juggleblood*" data-date="2009-11-17T06:10:33+00:00" data-subject="">
 
 This was not a recent change. It was part of a mob proc behavior that has been in game for a long time. You just never noticed it or got hit with it before.
 
@@ -102,7 +102,7 @@ I don't think this policy qualifies me as a 'dictator' etc... The rules regardin
 
 </div>
 
-<div class="post" data-post-id="30285" data-author="Toxis" data-date="2009-11-17T06:12:17+00:00">
+<div class="post" data-post-id="30285" data-author="Toxis" data-date="2009-11-17T06:12:17+00:00" data-subject="">
 
 your'e right jug.. I'm so stupid... I QUIT
 
@@ -110,7 +110,7 @@ your'e right jug.. I'm so stupid... I QUIT
 
 </div>
 
-<div class="post" data-post-id="30286" data-author="angel" data-date="2009-11-17T06:19:13+00:00">
+<div class="post" data-post-id="30286" data-author="angel" data-date="2009-11-17T06:19:13+00:00" data-subject="">
 
 noshouting we can understand,but bability was just dumb. mud isnt as fun anymore
 
@@ -118,13 +118,13 @@ cheers
 
 </div>
 
-<div class="post" data-post-id="30287" data-author="Toxis" data-date="2009-11-17T06:20:53+00:00">
+<div class="post" data-post-id="30287" data-author="Toxis" data-date="2009-11-17T06:20:53+00:00" data-subject="">
 
 So I'm wondering, Toxis and Godz is gone, who's going to lead your stupid little mud?
 
 </div>
 
-<div class="post" data-post-id="30288" data-author="*juggleblood*" data-date="2009-11-17T06:26:41+00:00">
+<div class="post" data-post-id="30288" data-author="*juggleblood*" data-date="2009-11-17T06:26:41+00:00" data-subject="">
 
 your'e right jug.. I'm so stupid... I QUIT
 
@@ -140,13 +140,13 @@ Eat some damn food, get some sleep, and mull it over. What really changed in the
 
 </div>
 
-<div class="post" data-post-id="30289" data-author="Toxis" data-date="2009-11-17T06:49:06+00:00">
+<div class="post" data-post-id="30289" data-author="Toxis" data-date="2009-11-17T06:49:06+00:00" data-subject="">
 
 That mob always had reflection?
 
 </div>
 
-<div class="post" data-post-id="30290" data-author="Ezekiel" data-date="2009-11-17T07:00:06+00:00">
+<div class="post" data-post-id="30290" data-author="Ezekiel" data-date="2009-11-17T07:00:06+00:00" data-subject="">
 
 I don't agree with Toxis' approach but I do agree with his point. Juggleblood, you can say all you want that that mob proc has been there, he may have not been hit with it, but I've been mudding for over ten years and have seen that mob hit too, too many times and have NEVER seen it dispel ANYONE. I asked around from the veterans and got the same consensus. Toxis and Godz probably hit it the most, outside of the people I asked, and they agree that it never dispelled. Quit fucking with the damn mobs dependent on how people cycle things, how many people hit them, and adding autoquest stuff to commonly run xp/eq mobs so you are forced to beef them up. These three things are pissing off people that actually learn techniques and tricks to kill things... (or just people that have become accustomed to cycling things on an xp run and then *poof* there is a magical dispel/reflection proc that 'has always been there' yet never fired). Tweaking with things in these ways, such as how fallon, green dragon, and wu were changed...leads to nothing but veterans leaving who have found ways to kill these things with smaller numbers. Wanting people to group with larger numbers is one thing, forcing it when they don't is just bad imming.
 
@@ -154,7 +154,7 @@ I don't agree with Toxis' approach but I do agree with his point. Juggleblood, y
 
 </div>
 
-<div class="post" data-post-id="30293" data-author="Thraxas" data-date="2009-11-17T09:33:55+00:00">
+<div class="post" data-post-id="30293" data-author="Thraxas" data-date="2009-11-17T09:33:55+00:00" data-subject="">
 
 Oh dear,
 
@@ -170,7 +170,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30294" data-author="*Splork*" data-date="2009-11-17T12:42:19+00:00">
+<div class="post" data-post-id="30294" data-author="*Splork*" data-date="2009-11-17T12:42:19+00:00" data-subject="">
 
 Nobody has changed that mob, the proc has been there for years but rarely triggers in that way. Imms are not and will not be dispelling anyone or changing mobs while players are running them or they will be wiped.
 
@@ -234,7 +234,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30295" data-author="*juggleblood*" data-date="2009-11-17T14:06:54+00:00">
+<div class="post" data-post-id="30295" data-author="*juggleblood*" data-date="2009-11-17T14:06:54+00:00" data-subject="">
 
 Please all of you blame me entirely for the problems that have kicked this thread off ... it is ultimately all my fault. 
 
@@ -244,7 +244,7 @@ I knew it!
 
 </div>
 
-<div class="post" data-post-id="30316" data-author="*Krom*" data-date="2009-11-18T04:20:44+00:00">
+<div class="post" data-post-id="30316" data-author="*Krom*" data-date="2009-11-18T04:20:44+00:00" data-subject="">
 
 Ta is leading 'XP?' on Thordfalan:
 
@@ -274,7 +274,7 @@ Sa/Godz -- dont be influenced by him, do your own thing.  If you want to play, p
 
 </div>
 
-<div class="post" data-post-id="30317" data-author="Toxis" data-date="2009-11-18T05:45:22+00:00">
+<div class="post" data-post-id="30317" data-author="Toxis" data-date="2009-11-18T05:45:22+00:00" data-subject="">
 
 You can make this about me.  Where are the countless friends who have quit in the past 7 months?  If you can't remember them all... just look at the top... Godmode, Magi, Stryx, Toxis... there's milestones... and where are the others?  You say you have an awesome mud gathereing players, but you really don't realize anything I've tried to say.  And that is the ultimate reason I'm done and leaving.  I've tried so hard to make you realize what you're doing to our mud.
 
@@ -284,7 +284,7 @@ Where's Alana?  Where's Wasp?  Where are the hundreds of imms who quit because o
 
 </div>
 
-<div class="post" data-post-id="30323" data-author="Mace" data-date="2009-11-18T06:31:34+00:00">
+<div class="post" data-post-id="30323" data-author="Mace" data-date="2009-11-18T06:31:34+00:00" data-subject="">
 
 disp
 
@@ -320,7 +320,7 @@ Though in that alternate universe, this crier thread doesn't exist.  Also, there
 
 </div>
 
-<div class="post" data-post-id="30328" data-author="*Chobbs*" data-date="2009-11-18T07:11:53+00:00">
+<div class="post" data-post-id="30328" data-author="*Chobbs*" data-date="2009-11-18T07:11:53+00:00" data-subject="">
 
 Hm.  Afk for a week or so and I seem to miss all the fun.
 
@@ -360,7 +360,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30331" data-author="*Krom*" data-date="2009-11-18T12:47:02+00:00">
+<div class="post" data-post-id="30331" data-author="*Krom*" data-date="2009-11-18T12:47:02+00:00" data-subject="">
 
 Many many people have come and gone from sloth,  we lost people over the years like Argent, Blush, Raphael, the pittsburgh crew, the south florida guys, I can go on and on -- its just the nature of it.  If you are done and no longer enjoying it, then be done with it.  Those of us who are staying really are trying to make it the best place we can -- sometimes change is rough, but sometimes it is needed because in the end the mud will be better off with it.  Your opinion is just that, one opinion, and I personally feel like you just have no clue anymore, or Ive lost what you are trying to say with how you've been saying it.
 
@@ -368,7 +368,7 @@ Note to weasel -- whatever your opinion, that kind of personal attack and name c
 
 </div>
 
-<div class="post" data-post-id="30333" data-author="*Splork*" data-date="2009-11-18T13:08:45+00:00">
+<div class="post" data-post-id="30333" data-author="*Splork*" data-date="2009-11-18T13:08:45+00:00" data-subject="">
 
 last player wasp
 
@@ -388,7 +388,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30335" data-author="Thraxas" data-date="2009-11-18T13:16:04+00:00">
+<div class="post" data-post-id="30335" data-author="Thraxas" data-date="2009-11-18T13:16:04+00:00" data-subject="">
 
 Yeah Tox is probably in the wrong in this case, and should aplogise, often however he isn't wrong and raises many good and valid points. 
 
@@ -402,7 +402,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30339" data-author="strider" data-date="2009-11-19T00:21:13+00:00">
+<div class="post" data-post-id="30339" data-author="strider" data-date="2009-11-19T00:21:13+00:00" data-subject="">
 
 I wonder why this is really even an issue. Some people run right on that line between disaster and bigger disaster. Most all of us have become used to brad's tyrades. hell i even enjoy them because it breaks up the monotony of bh xp. if he stays away this time i'll miss that more than the leading. it happens, ya get slapped on the wrist, ya cool down, ya come back. it's the circle of life around here. and that applies to most of the people who got their milestorn eq and left. you push that hard and you tend to get burned out. i couldn't begin to count how many times i've felt that way and taken an extended break. hell i'm doin it right now. it has nothing to do with the gameplay it's just the nature of the beast. personally i think it would be nice if every mob did something random from time to time. i'm not talking about an insta-cf but a nice lil quirk now and then keeps things interesting. 
 
@@ -416,7 +416,7 @@ strider
 
 </div>
 
-<div class="post" data-post-id="30342" data-author="firebrand" data-date="2009-11-19T15:54:22+00:00">
+<div class="post" data-post-id="30342" data-author="firebrand" data-date="2009-11-19T15:54:22+00:00" data-subject="">
 
 chocolate is god.  
 
@@ -424,7 +424,7 @@ chocolate is god.
 
 </div>
 
-<div class="post" data-post-id="30345" data-author="Toxis" data-date="2009-11-19T20:40:47+00:00">
+<div class="post" data-post-id="30345" data-author="Toxis" data-date="2009-11-19T20:40:47+00:00" data-subject="">
 
 Baby is 2 and in process of potty training. Rebel, you F'n stupid pothead c-nt, go F yourself. Children normally are potty trained from 2 to 3 years of age. You're probably the dumbest bitch on the planet. If I were your kid, I'd cut my wrists. You stupid F'n COW. 
 
@@ -434,7 +434,7 @@ I'm nice enough to lead when no one else will and I am told by Krom that I regen
 
 </div>
 
-<div class="post" data-post-id="30346" data-author="Tap" data-date="2009-11-19T23:25:03+00:00">
+<div class="post" data-post-id="30346" data-author="Tap" data-date="2009-11-19T23:25:03+00:00" data-subject="">
 
 Wow Toxis, you are a prick.
 
@@ -442,7 +442,7 @@ ps- and yeah, this is news to me.. I pretty much lost any respect I had for you.
 
 </div>
 
-<div class="post" data-post-id="30348" data-author="Toxis" data-date="2009-11-19T23:54:22+00:00">
+<div class="post" data-post-id="30348" data-author="Toxis" data-date="2009-11-19T23:54:22+00:00" data-subject="">
 
 I get very defensive when people who don't even know wtf is going on, says I'm not raising my children right.
 
@@ -454,7 +454,7 @@ By the way, if you want parenting tips from reb, she smokes pot with her kid.
 
 </div>
 
-<div class="post" data-post-id="30349" data-author="jezer" data-date="2009-11-20T00:30:22+00:00">
+<div class="post" data-post-id="30349" data-author="jezer" data-date="2009-11-20T00:30:22+00:00" data-subject="">
 
 Push, Push, Push and where did Sloth go?
 
@@ -464,7 +464,7 @@ Here he is!   :roll:
 
 </div>
 
-<div class="post" data-post-id="30351" data-author="Thraxas" data-date="2009-11-20T00:58:51+00:00">
+<div class="post" data-post-id="30351" data-author="Thraxas" data-date="2009-11-20T00:58:51+00:00" data-subject="">
 
 dear god this thread is ugly now... it reflects badly on us all imms and players alike, the fact that it has spread into at least 2 other threads just makes it worse.
 
@@ -480,7 +480,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30353" data-author="Toxis" data-date="2009-11-20T01:11:59+00:00">
+<div class="post" data-post-id="30353" data-author="Toxis" data-date="2009-11-20T01:11:59+00:00" data-subject="Farewell...">
 
 Thraxas was right and that I should appologize for a mob that was not changed (which I thought it did).  That was the problem.  We had hit that mob many times and I had never seen it dispel someone before.  And I have to say I hate being dispelled more than anything on sloth with maybe the exception of web lag.  I assumed it was just another change of sloth.
 
@@ -496,13 +496,13 @@ So yes, I hold a big grudge and I was praying it would go away.  Unfortunately I
 
 </div>
 
-<div class="post" data-post-id="30354" data-author="Toxis" data-date="2009-11-20T01:32:04+00:00">
+<div class="post" data-post-id="30354" data-author="Toxis" data-date="2009-11-20T01:32:04+00:00" data-subject="">
 
 Oh yeah, Krom... just so you know I was the one talking Sa to come back to sloth and play.  I was the one trying to tell him not to quit, but keep playing and "things might get better".  I didn't tell Josh to quit.  I tried to get him to keep playing.  He's the one who kept telling me on instant messenger if I quit he was going to quit.  I've even tried to convince him to at least get 6x40 and then if he still wants to quit.  I'd just like to put that on the record.
 
 </div>
 
-<div class="post" data-post-id="30355" data-author="*Splork*" data-date="2009-11-20T01:41:30+00:00">
+<div class="post" data-post-id="30355" data-author="*Splork*" data-date="2009-11-20T01:41:30+00:00" data-subject="">
 
 Enough is enough. I handed out quest eq on the last day of sloth3, get over it( it was entirely meaningless since the mud was wiped within 24 hours). 
 

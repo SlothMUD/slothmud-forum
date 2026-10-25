@@ -10,7 +10,7 @@ locked: false
 post_count: 44
 ---
 
-<div class="post" data-post-id="29147" data-author="Magi" data-date="2009-05-14T00:28:43+00:00">
+<div class="post" data-post-id="29147" data-author="Magi" data-date="2009-05-14T00:28:43+00:00" data-subject="Unannounced fixes">
 
 Everyone's happy when Splork posts his updates, so I thought I'd add a few that weren't mentioned on the crier yet.
 
@@ -38,7 +38,7 @@ Everyone's happy when Splork posts his updates, so I thought I'd add a few that 
 
 </div>
 
-<div class="post" data-post-id="29148" data-author="*Splork*" data-date="2009-05-14T01:46:23+00:00">
+<div class="post" data-post-id="29148" data-author="*Splork*" data-date="2009-05-14T01:46:23+00:00" data-subject="a happy response from splork">
 
 Everyone's happy when Splork posts his updates, so I thought I'd add a few that weren't mentioned on the crier yet.
 
@@ -86,7 +86,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29149" data-author="Magi" data-date="2009-05-14T02:05:31+00:00">
+<div class="post" data-post-id="29149" data-author="Magi" data-date="2009-05-14T02:05:31+00:00" data-subject="Un(der)reported fixes">
 
 ** One player made more gold in basically one area then the next 15 players made in the entire game, this was a no brainer. 
 
@@ -140,7 +140,7 @@ One set of mobs is where Magi noticed this change, are the ryukyu in temple ruin
 
 </div>
 
-<div class="post" data-post-id="29150" data-author="*Krom*" data-date="2009-05-14T02:14:46+00:00">
+<div class="post" data-post-id="29150" data-author="*Krom*" data-date="2009-05-14T02:14:46+00:00" data-subject="">
 
 As far as "nerfing" of eq goes:
 
@@ -150,7 +150,7 @@ As far as "nerfing" of eq goes:
 
 </div>
 
-<div class="post" data-post-id="29151" data-author="*Splork*" data-date="2009-05-14T02:36:01+00:00">
+<div class="post" data-post-id="29151" data-author="*Splork*" data-date="2009-05-14T02:36:01+00:00" data-subject="">
 
 We are doing our best to keep the game balanced for everyone. Since the inception of this new version we have continuously listened to our players, taken their ideas and concerns, and added them to the game. Go through the list of changes we have made in our first two months, 95% of them are positive changes benefiting our players.
 
@@ -166,7 +166,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29152" data-author="Mosaix" data-date="2009-05-14T02:38:27+00:00">
+<div class="post" data-post-id="29152" data-author="Mosaix" data-date="2009-05-14T02:38:27+00:00" data-subject="">
 
 I am impressed for all the bitching going on, to still see those people still logged on and still mudding 30-45 mins later.
 
@@ -176,7 +176,7 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="29153" data-author="*juggleblood*" data-date="2009-05-14T16:47:10+00:00">
+<div class="post" data-post-id="29153" data-author="*juggleblood*" data-date="2009-05-14T16:47:10+00:00" data-subject="">
 
 Regarding eq pop rates...
 
@@ -184,7 +184,7 @@ There were a few that got changed unintentionally for the worse, but I've fixed 
 
 </div>
 
-<div class="post" data-post-id="29154" data-author="Medios" data-date="2009-05-14T18:22:37+00:00">
+<div class="post" data-post-id="29154" data-author="Medios" data-date="2009-05-14T18:22:37+00:00" data-subject="">
 
 I wonder why all the concern for druids.  They were super powerful from top to bottom on s3 and they remain the same.  Bards and Monks were and still are in short supply.  The thing is that the mud only really needs one Bard prime.  The guy your asking for hymn of an artisan, or charms or to sing seven luck gods while you cycle the rest of your mobs.  The guy who sings gods of war in the group where your blasting or shifting and getting the big dmg xp bonuses.  The guy who gets to sing dreams of the castle so that everyone else can mem and get their spells up while he watches the group regen.  Pretty much the guy who everyone relies on to save the group during a cf, or to relocate to a dead guy so he can raise him.  
 
@@ -212,7 +212,7 @@ Go ahead and tell me to make a druid, I dare you.
 
 </div>
 
-<div class="post" data-post-id="29156" data-author="*Splork*" data-date="2009-05-14T20:29:25+00:00">
+<div class="post" data-post-id="29156" data-author="*Splork*" data-date="2009-05-14T20:29:25+00:00" data-subject="">
 
 I believe there are plenty of hand items for the bard class that have 2 hit with ac and other stats so Im not entirely sure why you are losing 2 hit?
 
@@ -228,7 +228,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29157" data-author="Thraxas" data-date="2009-05-14T23:35:12+00:00">
+<div class="post" data-post-id="29157" data-author="Thraxas" data-date="2009-05-14T23:35:12+00:00" data-subject="">
 
 you asked for a Bard idea:
 
@@ -244,13 +244,13 @@ hmmm last suggestion ... how about a mood enhancing song to cheer everyon up and
 
 </div>
 
-<div class="post" data-post-id="29158" data-author="alias" data-date="2009-05-14T23:39:04+00:00">
+<div class="post" data-post-id="29158" data-author="alias" data-date="2009-05-14T23:39:04+00:00" data-subject="">
 
 You could up prime bards natural charisma so it helps their songs more, don't make a prime bard have 13 items to max their charisma...maybe 4-5.
 
 </div>
 
-<div class="post" data-post-id="29159" data-author="alias" data-date="2009-05-14T23:41:23+00:00">
+<div class="post" data-post-id="29159" data-author="alias" data-date="2009-05-14T23:41:23+00:00" data-subject="">
 
 you asked for a Bard idea:
 
@@ -260,7 +260,7 @@ I sing that song everyday, its just none of you can hear me.
 
 </div>
 
-<div class="post" data-post-id="29160" data-author="jezer" data-date="2009-05-14T23:53:36+00:00">
+<div class="post" data-post-id="29160" data-author="jezer" data-date="2009-05-14T23:53:36+00:00" data-subject="">
 
 Trying to remain constructive here... Even though it's becoming apparent this sloth is just like the old sloth... just twice as long with most things at half pace. Was this actually the intention? Cause all we have new is extra classes we don't have levels in...
 
@@ -280,7 +280,7 @@ As much as I think Minstrel enjoys grouping... and giving more group spells woul
 
 </div>
 
-<div class="post" data-post-id="29161" data-author="jezer" data-date="2009-05-15T00:10:39+00:00">
+<div class="post" data-post-id="29161" data-author="jezer" data-date="2009-05-15T00:10:39+00:00" data-subject="">
 
 I sing that song everyday, its just none of you can hear me.[/quote:muo601q1]
 
@@ -288,7 +288,7 @@ Trying wearing more charisma  :twisted:
 
 </div>
 
-<div class="post" data-post-id="29162" data-author="*Splork*" data-date="2009-05-15T01:51:05+00:00">
+<div class="post" data-post-id="29162" data-author="*Splork*" data-date="2009-05-15T01:51:05+00:00" data-subject="">
 
 I hate to say this but I am not going to lie, we do not plan on adding followers to any more classes, this included the charm spell.
 
@@ -296,13 +296,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29163" data-author="Virus" data-date="2009-05-15T02:07:31+00:00">
+<div class="post" data-post-id="29163" data-author="Virus" data-date="2009-05-15T02:07:31+00:00" data-subject="">
 
 Thanks for "fixing" juju, it'll be harder to solo now, I know this is suppose to be a group mud, but for some of us on the other side of the world with the time difference its very hard, for me I can usually only catch group when its about to end.  Btw are you planning on adding more type of pets? or just stretch the old ones we have for the 4 class system to this new 8 class system?
 
 </div>
 
-<div class="post" data-post-id="29164" data-author="*Splork*" data-date="2009-05-15T02:38:27+00:00">
+<div class="post" data-post-id="29164" data-author="*Splork*" data-date="2009-05-15T02:38:27+00:00" data-subject="">
 
 I am not going to allow 1600 hp jujus, Im sorry. Try to find another prime skill that has the power a juju has and you will fail.
 
@@ -312,7 +312,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29165" data-author="jezer" data-date="2009-05-15T02:44:53+00:00">
+<div class="post" data-post-id="29165" data-author="jezer" data-date="2009-05-15T02:44:53+00:00" data-subject="">
 
 Flush as in down the toilet? Your gonna nerf my elder ants? *Laughing* That's impossible! They were born nerfed! :evil:
 
@@ -338,7 +338,7 @@ If you want sloth to be fun to play... maybe remove your hands from around it's 
 
 </div>
 
-<div class="post" data-post-id="29166" data-author="Bennett" data-date="2009-05-15T05:04:52+00:00">
+<div class="post" data-post-id="29166" data-author="Bennett" data-date="2009-05-15T05:04:52+00:00" data-subject="">
 
 Splork:
 
@@ -348,7 +348,7 @@ Bennett
 
 </div>
 
-<div class="post" data-post-id="29167" data-author="Virus" data-date="2009-05-15T05:14:10+00:00">
+<div class="post" data-post-id="29167" data-author="Virus" data-date="2009-05-15T05:14:10+00:00" data-subject="">
 
 > **jezer wrote:**
 > If you want sloth to be fun to play... maybe remove your hands from around it's neck? Geahs Splork, we love the game, and we love the fact you maintain it... but sheeesshh. Your optioning us out here.
@@ -357,7 +357,7 @@ Amen...Thanks clannie
 
 </div>
 
-<div class="post" data-post-id="29168" data-author="Gimlet" data-date="2009-05-15T09:02:30+00:00">
+<div class="post" data-post-id="29168" data-author="Gimlet" data-date="2009-05-15T09:02:30+00:00" data-subject="">
 
 as much as i agree with some/much of what mike bitched about, this post is bordering on retarded.
 
@@ -399,7 +399,7 @@ If you want sloth to be fun to play... maybe remove your hands from around it's 
 
 </div>
 
-<div class="post" data-post-id="29169" data-author="Dragoth" data-date="2009-05-15T16:03:39+00:00">
+<div class="post" data-post-id="29169" data-author="Dragoth" data-date="2009-05-15T16:03:39+00:00" data-subject="">
 
 What i dont understand is this, You delete everyone, add 8 classes so that everyone will now at least quadruple their time to avatar so your efforts of making the gaming experience longer worked, but why do you bother with nerfs  as the purpose of nerfs is practically the same (taking longer to achieve the same thing)? 
 
@@ -413,7 +413,7 @@ Stop the nerfs and the disapointment.
 
 </div>
 
-<div class="post" data-post-id="29170" data-author="Thraxas" data-date="2009-05-15T16:07:01+00:00">
+<div class="post" data-post-id="29170" data-author="Thraxas" data-date="2009-05-15T16:07:01+00:00" data-subject="">
 
 Couple of points on this, I don't intend to really comment on any of the individual changes, mainly because it wouldn't make much difference what I say, but also because I welcome most (inc the recent necro) changes as good for the mud.
 
@@ -429,7 +429,7 @@ The other point is that it seems to me the imms are watching play to see the pow
 
 </div>
 
-<div class="post" data-post-id="29171" data-author="Dragoth" data-date="2009-05-15T16:10:43+00:00">
+<div class="post" data-post-id="29171" data-author="Dragoth" data-date="2009-05-15T16:10:43+00:00" data-subject="">
 
 As far as bards go, they ARE the weakest class on sloth and its not too hard to make them better if only immortals realise that bards really need a serious boost.
 
@@ -437,7 +437,7 @@ Make a song that enhances the damage of a particular elemental a spell (ice, ear
 
 </div>
 
-<div class="post" data-post-id="29172" data-author="Kanae" data-date="2009-05-15T19:07:46+00:00">
+<div class="post" data-post-id="29172" data-author="Kanae" data-date="2009-05-15T19:07:46+00:00" data-subject="">
 
 As a bard prime ... soloing i rely on all my other classes using very little of the bard class only skills..maybe 3 songs... when i join groups.. there are so many with bard in their class and with the mana to spare..they sing all the bard group songs that are really needed. It makes me ask why choose bard prime. Well you could say lower cost to sing, the benefit of hitting more people with your song. You could say to make charms, what kind of charms..to distribute..okay.. everyone can cast the same spells i can create so to help them reserve their mana fine or cover them until they get the spell okay. Sing for pops.. sounds great.. sit for hours at a mob and pray it pops the right item when you sing..oh don't wander to far... you have maybe 3 ticks to sing in if you get warning of when the mob is going to repop and you have to have enough mana to maintain the song.. gains for the bard ..well item if it pops..xp no..coin..no (unless you resell the item). How to improve the situation.... give the bard something unique..they have the unique they can sing.. the down fall.. everyone can be a bard to some degree. Personally we have not seen enough of high level bards to see how they are better than other classes with bard for songs. The idea of bard primes singing in chorus together for added benefit is a nice idea..does this help them solo no, but it may be a factor in being bard prime over another class. A change to cry of the avatar.. the sound of the song is suppose to do internal damage no? ..well make it like the asp poison then.. each additional strike increases a prolonged -hp affect on the mob? a prime only skill will it help solo well to a degree in rooms without many mobs yes. no need to increase the existing damage just add a "poison style" affect ever see ettin bard.. wow.. you have the chance of become deaf.which affects spell casting..talking etc.. so why is it that bards don't have a reduced power version of this same song..? I would say the ettin verision is seriously over powered as player song. 
 
@@ -447,7 +447,7 @@ Give the immortals a chance to listen to us watch us and  make improvements. If 
 
 </div>
 
-<div class="post" data-post-id="29176" data-author="jezer" data-date="2009-05-16T04:10:17+00:00">
+<div class="post" data-post-id="29176" data-author="jezer" data-date="2009-05-16T04:10:17+00:00" data-subject="">
 
 Nice changes to bard prime I see. Thx Splork, hope ya didn't make that spell book load on Tepa or something as a reprisal though... haha :twisted: 
 
@@ -455,7 +455,7 @@ So guess higher charisma and singing while blasting means a bard can sing cry of
 
 </div>
 
-<div class="post" data-post-id="29177" data-author="Magi" data-date="2009-05-16T04:59:57+00:00">
+<div class="post" data-post-id="29177" data-author="Magi" data-date="2009-05-16T04:59:57+00:00" data-subject="">
 
 The last two changes to bards (instruments and 'double casting') are nice, but they don't address the core issue.
 
@@ -465,13 +465,13 @@ There's a reason every bard has to be druid second, and it's a real shame.
 
 </div>
 
-<div class="post" data-post-id="29180" data-author="Thraxas" data-date="2009-05-16T10:26:45+00:00">
+<div class="post" data-post-id="29180" data-author="Thraxas" data-date="2009-05-16T10:26:45+00:00" data-subject="">
 
 perhaps an easier solution would be to say Bard is not available as a prime class?
 
 </div>
 
-<div class="post" data-post-id="29250" data-author="Magi" data-date="2009-05-22T02:28:03+00:00">
+<div class="post" data-post-id="29250" data-author="Magi" data-date="2009-05-22T02:28:03+00:00" data-subject="">
 
 More unreported changes:
 
@@ -487,7 +487,7 @@ Or -- did any other classo find their follower limit halved?
 
 </div>
 
-<div class="post" data-post-id="29251" data-author="jezer" data-date="2009-05-22T03:06:30+00:00">
+<div class="post" data-post-id="29251" data-author="jezer" data-date="2009-05-22T03:06:30+00:00" data-subject="">
 
 :evil:  :evil:  :evil:  :evil:  :evil:  :evil:  :evil:  :evil:  :evil:  :evil:  :evil: 
 
@@ -495,13 +495,13 @@ SPLORK!
 
 </div>
 
-<div class="post" data-post-id="29252" data-author="Magi" data-date="2009-05-22T03:20:04+00:00">
+<div class="post" data-post-id="29252" data-author="Magi" data-date="2009-05-22T03:20:04+00:00" data-subject="">
 
 Hey, it coulda been someone else! Why we gotta be yellin at Splork all the time :) Also, the 'very hard' might have been possible before -- but I never saw it so frequently as tonight.  Could just be the random number generator hatin on me. :)
 
 </div>
 
-<div class="post" data-post-id="29253" data-author="jezer" data-date="2009-05-22T04:04:48+00:00">
+<div class="post" data-post-id="29253" data-author="jezer" data-date="2009-05-22T04:04:48+00:00" data-subject="">
 
 It's another .5 nerf, it has to be splork.
 
@@ -511,7 +511,7 @@ Is it the top half or the bottom half splork?  :P
 
 </div>
 
-<div class="post" data-post-id="29254" data-author="Weasel" data-date="2009-05-22T05:24:37+00:00">
+<div class="post" data-post-id="29254" data-author="Weasel" data-date="2009-05-22T05:24:37+00:00" data-subject="">
 
 Hey hey hey, you guys were all for this reset, so live with it, suckers.
 
@@ -519,7 +519,7 @@ hehe, that ought to stir up some flames.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="29256" data-author="*Splork*" data-date="2009-05-22T11:54:27+00:00">
+<div class="post" data-post-id="29256" data-author="*Splork*" data-date="2009-05-22T11:54:27+00:00" data-subject="">
 
 Here is the wurms stats, I have not changed since this we have restarted except for the maxhit which I have lowered 80.
 
@@ -559,7 +559,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29257" data-author="Rigwarl" data-date="2009-05-22T12:29:59+00:00">
+<div class="post" data-post-id="29257" data-author="Rigwarl" data-date="2009-05-22T12:29:59+00:00" data-subject="">
 
 3) Are there any players ingame that can get 1200+ hps at 2x40 besides a druid (previously level 38)?
 
@@ -571,7 +571,7 @@ I probably could! Albeit at 40 40 39!
 
 </div>
 
-<div class="post" data-post-id="29262" data-author="Magi" data-date="2009-05-23T01:48:39+00:00">
+<div class="post" data-post-id="29262" data-author="Magi" data-date="2009-05-23T01:48:39+00:00" data-subject="">
 
 > Official wurm shapeshift form stats (for people searching later)
 
@@ -633,7 +633,7 @@ I think everyone needs to relax a little bit and look at the big picture, druid 
 
 </div>
 
-<div class="post" data-post-id="29264" data-author="jezer" data-date="2009-05-23T02:38:01+00:00">
+<div class="post" data-post-id="29264" data-author="jezer" data-date="2009-05-23T02:38:01+00:00" data-subject="">
 
 I think druids have stronger advantages AND disadvantages than most other classes, hence which ever side of the argument your on, you can always make a pretty strong argument.
 
@@ -655,7 +655,7 @@ Judge did awesome work last time fixing about 20 druid bugs... there were some n
 
 </div>
 
-<div class="post" data-post-id="29299" data-author="Mace" data-date="2009-05-26T21:10:56+00:00">
+<div class="post" data-post-id="29299" data-author="Mace" data-date="2009-05-26T21:10:56+00:00" data-subject="">
 
 Apologies if I'm repeating someone, but I just noticed the exiting new effect of the blindness spell.   Whereas it originally did -4 hitroll/+4 AC  (and later just -3 hitroll), it now does:
 
@@ -665,13 +665,13 @@ So... yeah.  For now go ahead and skip it.  :)
 
 </div>
 
-<div class="post" data-post-id="29300" data-author="Xamak" data-date="2009-05-26T22:11:40+00:00">
+<div class="post" data-post-id="29300" data-author="Xamak" data-date="2009-05-26T22:11:40+00:00" data-subject="">
 
 How do you know that the blindess effect has changed?
 
 </div>
 
-<div class="post" data-post-id="29301" data-author="Medios" data-date="2009-05-26T23:27:16+00:00">
+<div class="post" data-post-id="29301" data-author="Medios" data-date="2009-05-26T23:27:16+00:00" data-subject="">
 
 I verified it.
 
@@ -857,25 +857,25 @@ You are affected by the following spells:
 
 </div>
 
-<div class="post" data-post-id="29302" data-author="12345" data-date="2009-05-27T00:17:41+00:00">
+<div class="post" data-post-id="29302" data-author="12345" data-date="2009-05-27T00:17:41+00:00" data-subject="">
 
 A minor note.  Blindness has a weaker affect on players with Blindfight, which is a Level 4 Monk skill.  As Minstrel is Level 8, I would assume he already has it. So, the results may not be the same as if cast upon a mob.
 
 </div>
 
-<div class="post" data-post-id="29304" data-author="Guinex" data-date="2009-05-27T06:12:38+00:00">
+<div class="post" data-post-id="29304" data-author="Guinex" data-date="2009-05-27T06:12:38+00:00" data-subject="">
 
 I don't have blindfight and its -1 +1.
 
 </div>
 
-<div class="post" data-post-id="39887" data-author="Dawg" data-date="2022-02-19T02:42:09+00:00">
+<div class="post" data-post-id="39887" data-author="Dawg" data-date="2022-02-19T02:42:09+00:00" data-subject="Re: Unannounced fixes">
 
 Hate to tell you all this but your Wiedzmin forge is junk, it's broke as hell so either fix it or remove it
 
 </div>
 
-<div class="post" data-post-id="39889" data-author="cnl" data-date="2022-02-22T07:45:22+00:00">
+<div class="post" data-post-id="39889" data-author="cnl" data-date="2022-02-22T07:45:22+00:00" data-subject="Re: Unannounced fixes">
 
 I did test this out today and I'm not sure what happened for you but the portal at Simurgh did spawn for me like it should properly on charm. 
 

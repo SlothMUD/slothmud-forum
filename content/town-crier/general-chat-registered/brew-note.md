@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="18122" data-author="bubba" data-date="2007-04-23T18:18:55+00:00">
+<div class="post" data-post-id="18122" data-author="bubba" data-date="2007-04-23T18:18:55+00:00" data-subject="brew note?">
 
 Anyone recognize what this note is for?
 
@@ -28,7 +28,7 @@ Shewhotalkswiththeearth.
 
 </div>
 
-<div class="post" data-post-id="18123" data-author="bubba" data-date="2007-04-23T18:23:55+00:00">
+<div class="post" data-post-id="18123" data-author="bubba" data-date="2007-04-23T18:23:55+00:00" data-subject="">
 
 nvm, it's the note for the shifting shield
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10408" data-author="Mustang" data-date="2006-01-29T19:58:16+00:00">
+<div class="post" data-post-id="10408" data-author="Mustang" data-date="2006-01-29T19:58:16+00:00" data-subject="crash?">
 
 did it just crash or am i just unable to logon
 

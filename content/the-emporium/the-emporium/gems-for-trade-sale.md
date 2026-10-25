@@ -10,7 +10,7 @@ locked: false
 post_count: 61
 ---
 
-<div class="post" data-post-id="34253" data-author="cyprimus" data-date="2013-04-23T23:06:02+00:00">
+<div class="post" data-post-id="34253" data-author="cyprimus" data-date="2013-04-23T23:06:02+00:00" data-subject="gems for trade/sale">
 
 Trying to clear some vault space.  I have the following;
 
@@ -432,7 +432,7 @@ a Moss Agate
 
 </div>
 
-<div class="post" data-post-id="34254" data-author="cyprimus" data-date="2013-04-23T23:10:40+00:00">
+<div class="post" data-post-id="34254" data-author="cyprimus" data-date="2013-04-23T23:10:40+00:00" data-subject="Re: gems for trade/sale">
 
 Oh, i am needing cps for the desert clasps... both iolite and tanz..
 
@@ -442,7 +442,7 @@ Will post list of what i need as i get time.
 
 </div>
 
-<div class="post" data-post-id="34255" data-author="Dragoth" data-date="2013-04-24T04:35:37+00:00">
+<div class="post" data-post-id="34255" data-author="Dragoth" data-date="2013-04-24T04:35:37+00:00" data-subject="Re: gems for trade/sale">
 
 I need 2 purple star sapphires, i have
 
@@ -472,13 +472,13 @@ a Zircon
 
 </div>
 
-<div class="post" data-post-id="34256" data-author="Nyx" data-date="2013-04-24T07:51:00+00:00">
+<div class="post" data-post-id="34256" data-author="Nyx" data-date="2013-04-24T07:51:00+00:00" data-subject="Re: gems for trade/sale">
 
 I'm interested in Ruby, Tourmaline, GW Diamond and Chrysoprase. I can offer keychain or ars CPs or desert CPs. Or all of the above!
 
 </div>
 
-<div class="post" data-post-id="34257" data-author="Magi" data-date="2013-04-24T19:44:44+00:00">
+<div class="post" data-post-id="34257" data-author="Magi" data-date="2013-04-24T19:44:44+00:00" data-subject="Re: gems for trade/sale">
 
 I'm interested in these Cyp:
 
@@ -492,7 +492,7 @@ I could trade some random desert/mnm stuff, or forge you a keychain, if you pref
 
 </div>
 
-<div class="post" data-post-id="34258" data-author="Dagger" data-date="2013-04-25T16:44:36+00:00">
+<div class="post" data-post-id="34258" data-author="Dagger" data-date="2013-04-25T16:44:36+00:00" data-subject="Re: gems for trade/sale">
 
 I'll pay you 500k each for the four Salmon Pink Garnet gemstones if you believe
 
@@ -500,13 +500,13 @@ you might consider that offer.
 
 </div>
 
-<div class="post" data-post-id="34259" data-author="Marvel" data-date="2013-04-25T19:38:23+00:00">
+<div class="post" data-post-id="34259" data-author="Marvel" data-date="2013-04-25T19:38:23+00:00" data-subject="Re: gems for trade/sale">
 
 I'll buy 2 Citrines at 500k each as well.
 
 </div>
 
-<div class="post" data-post-id="34261" data-author="alris" data-date="2013-04-26T12:23:46+00:00">
+<div class="post" data-post-id="34261" data-author="alris" data-date="2013-04-26T12:23:46+00:00" data-subject="Re: gems for trade/sale">
 
 Interested in ruby/tiger eye/sapphire/tourmaline
 
@@ -520,7 +520,7 @@ overused anvil/some other minor cps
 
 </div>
 
-<div class="post" data-post-id="34267" data-author="cyprimus" data-date="2013-04-27T21:34:10+00:00">
+<div class="post" data-post-id="34267" data-author="cyprimus" data-date="2013-04-27T21:34:10+00:00" data-subject="Re: gems for trade/sale">
 
 salmon pink garnets shipped... to dagger
 
@@ -528,7 +528,7 @@ citrine.... i dunno who marvel is... marvel not logged in months.. but sent.
 
 </div>
 
-<div class="post" data-post-id="34268" data-author="cyprimus" data-date="2013-04-28T00:02:54+00:00">
+<div class="post" data-post-id="34268" data-author="cyprimus" data-date="2013-04-28T00:02:54+00:00" data-subject="Re: gems for trade/sale">
 
 Ok, had time to get a partial list of cps i need.  
 
@@ -554,7 +554,7 @@ Will do more as my eyes recover...
 
 </div>
 
-<div class="post" data-post-id="34269" data-author="cyprimus" data-date="2013-04-28T12:43:28+00:00">
+<div class="post" data-post-id="34269" data-author="cyprimus" data-date="2013-04-28T12:43:28+00:00" data-subject="Re: gems for trade/sale">
 
 Dragoth:
 
@@ -564,7 +564,7 @@ will take two eye agates for the purples... just need to know who you are.
 
 </div>
 
-<div class="post" data-post-id="34270" data-author="Ker" data-date="2013-04-28T12:53:08+00:00">
+<div class="post" data-post-id="34270" data-author="Ker" data-date="2013-04-28T12:53:08+00:00" data-subject="Re: gems for trade/sale">
 
 l i eggsack
 
@@ -646,7 +646,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="34271" data-author="*Idjit*" data-date="2013-04-28T23:40:56+00:00">
+<div class="post" data-post-id="34271" data-author="*Idjit*" data-date="2013-04-28T23:40:56+00:00" data-subject="Re: gems for trade/sale">
 
 Hi, I'll pay 400k apiece for five Lapus Lazuli or as many as you still have.
 
@@ -654,13 +654,13 @@ Hi, I'll pay 400k apiece for five Lapus Lazuli or as many as you still have.
 
 </div>
 
-<div class="post" data-post-id="34272" data-author="cyprimus" data-date="2013-04-29T00:26:11+00:00">
+<div class="post" data-post-id="34272" data-author="cyprimus" data-date="2013-04-29T00:26:11+00:00" data-subject="Re: gems for trade/sale">
 
 Lapus sent, x5
 
 </div>
 
-<div class="post" data-post-id="34279" data-author="Linx" data-date="2013-05-04T05:10:43+00:00">
+<div class="post" data-post-id="34279" data-author="Linx" data-date="2013-05-04T05:10:43+00:00" data-subject="Re: gems for trade/sale">
 
 Cyp
 
@@ -670,13 +670,13 @@ Linx
 
 </div>
 
-<div class="post" data-post-id="34280" data-author="cyprimus" data-date="2013-05-05T11:27:32+00:00">
+<div class="post" data-post-id="34280" data-author="cyprimus" data-date="2013-05-05T11:27:32+00:00" data-subject="Re: gems for trade/sale">
 
 Deep Blue Spinel's shipped. x5
 
 </div>
 
-<div class="post" data-post-id="34281" data-author="*Idjit*" data-date="2013-05-05T20:27:00+00:00">
+<div class="post" data-post-id="34281" data-author="*Idjit*" data-date="2013-05-05T20:27:00+00:00" data-subject="Re: gems for trade/sale">
 
 I would like to buy the 3 Azurites for 400k apiece.
 
@@ -686,13 +686,13 @@ Thanks,
 
 </div>
 
-<div class="post" data-post-id="34282" data-author="Magi" data-date="2013-05-06T23:43:07+00:00">
+<div class="post" data-post-id="34282" data-author="Magi" data-date="2013-05-06T23:43:07+00:00" data-subject="Re: gems for trade/sale">
 
 I would like to buy up to 5 azurites for 600k each.
 
 </div>
 
-<div class="post" data-post-id="34284" data-author="cyprimus" data-date="2013-05-07T22:25:26+00:00">
+<div class="post" data-post-id="34284" data-author="cyprimus" data-date="2013-05-07T22:25:26+00:00" data-subject="Re: gems for trade/sale">
 
 Sorry magi, shipped to idjit long before you posted.
 
@@ -700,7 +700,7 @@ Will see if I have more though.
 
 </div>
 
-<div class="post" data-post-id="34288" data-author="Linx" data-date="2013-05-11T04:53:57+00:00">
+<div class="post" data-post-id="34288" data-author="Linx" data-date="2013-05-11T04:53:57+00:00" data-subject="Re: gems for trade/sale">
 
 Cyp
 
@@ -712,13 +712,13 @@ Linx
 
 </div>
 
-<div class="post" data-post-id="34289" data-author="maloj" data-date="2013-05-11T08:11:26+00:00">
+<div class="post" data-post-id="34289" data-author="maloj" data-date="2013-05-11T08:11:26+00:00" data-subject="Re: gems for trade/sale">
 
 Hey Cyp! How about 1xBlue Quartz and 1xZircon 500k each? :)
 
 </div>
 
-<div class="post" data-post-id="34290" data-author="Marvel" data-date="2013-05-11T10:56:12+00:00">
+<div class="post" data-post-id="34290" data-author="Marvel" data-date="2013-05-11T10:56:12+00:00" data-subject="Re: gems for trade/sale">
 
 I will buy all the Freshwater Pearls at 200k each.
 
@@ -726,7 +726,7 @@ Ship to Lore with fee if you accept. This applies to anybody else too (Dragoth i
 
 </div>
 
-<div class="post" data-post-id="34291" data-author="cyprimus" data-date="2013-05-12T11:17:37+00:00">
+<div class="post" data-post-id="34291" data-author="cyprimus" data-date="2013-05-12T11:17:37+00:00" data-subject="Re: gems for trade/sale">
 
 Ship to maloj and lore
 
@@ -734,13 +734,13 @@ Needing to get Magi, Beatrix, Alris and Dr together to discuss the gem trade... 
 
 </div>
 
-<div class="post" data-post-id="34292" data-author="cyprimus" data-date="2013-05-12T13:46:25+00:00">
+<div class="post" data-post-id="34292" data-author="cyprimus" data-date="2013-05-12T13:46:25+00:00" data-subject="Re: gems for trade/sale">
 
 Purple star sapphires shipped x2
 
 </div>
 
-<div class="post" data-post-id="34301" data-author="cyprimus" data-date="2013-05-19T01:33:32+00:00">
+<div class="post" data-post-id="34301" data-author="cyprimus" data-date="2013-05-19T01:33:32+00:00" data-subject="Re: gems for trade/sale">
 
 ruby, tourmaline, chrysop, moonstones, gw diamond traded
 
@@ -748,7 +748,7 @@ will post new list when I get time.
 
 </div>
 
-<div class="post" data-post-id="34341" data-author="Linx" data-date="2013-07-07T23:32:37+00:00">
+<div class="post" data-post-id="34341" data-author="Linx" data-date="2013-07-07T23:32:37+00:00" data-subject="Re: gems for trade/sale">
 
 Cyp
 
@@ -760,7 +760,7 @@ Linx
 
 </div>
 
-<div class="post" data-post-id="34913" data-author="cyprimus" data-date="2014-03-18T00:03:32+00:00">
+<div class="post" data-post-id="34913" data-author="cyprimus" data-date="2014-03-18T00:03:32+00:00" data-subject="Re: gems for trade/sale">
 
 Ok, new list:
 
@@ -1204,19 +1204,19 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="34914" data-author="Magi" data-date="2014-03-18T00:21:24+00:00">
+<div class="post" data-post-id="34914" data-author="Magi" data-date="2014-03-18T00:21:24+00:00" data-subject="Re: gems for trade/sale">
 
 Bids complete
 
 </div>
 
-<div class="post" data-post-id="34915" data-author="fallen" data-date="2014-03-18T11:32:18+00:00">
+<div class="post" data-post-id="34915" data-author="fallen" data-date="2014-03-18T11:32:18+00:00" data-subject="Re: gems for trade/sale">
 
 sapphire gone
 
 </div>
 
-<div class="post" data-post-id="34916" data-author="Dagger" data-date="2014-03-18T14:49:51+00:00">
+<div class="post" data-post-id="34916" data-author="Dagger" data-date="2014-03-18T14:49:51+00:00" data-subject="Re: gems for trade/sale">
 
 #18 Sardonyx
 
@@ -1230,7 +1230,7 @@ More offers to come when I get my cash back up.
 
 </div>
 
-<div class="post" data-post-id="34917" data-author="cyprimus" data-date="2014-03-18T18:55:35+00:00">
+<div class="post" data-post-id="34917" data-author="cyprimus" data-date="2014-03-18T18:55:35+00:00" data-subject="Re: gems for trade/sale">
 
 sardonyx shipped.
 
@@ -1238,7 +1238,7 @@ List updated.
 
 </div>
 
-<div class="post" data-post-id="34919" data-author="Sam" data-date="2014-03-18T19:49:15+00:00">
+<div class="post" data-post-id="34919" data-author="Sam" data-date="2014-03-18T19:49:15+00:00" data-subject="Re: gems for trade/sale">
 
 Yo Cyp,
 
@@ -1258,7 +1258,7 @@ Yo Cyp,
 
 </div>
 
-<div class="post" data-post-id="34926" data-author="Dagger" data-date="2014-03-19T21:38:38+00:00">
+<div class="post" data-post-id="34926" data-author="Dagger" data-date="2014-03-19T21:38:38+00:00" data-subject="Re: gems for trade/sale">
 
 I don't honestly know what these things are worth as i never see any change hands
 
@@ -1278,13 +1278,13 @@ but I'll offer 1mil a piece for the following:
 
 </div>
 
-<div class="post" data-post-id="34927" data-author="fallen" data-date="2014-03-19T23:11:25+00:00">
+<div class="post" data-post-id="34927" data-author="fallen" data-date="2014-03-19T23:11:25+00:00" data-subject="Re: gems for trade/sale">
 
 updates in a post below.
 
 </div>
 
-<div class="post" data-post-id="34928" data-author="Magi" data-date="2014-03-20T14:35:56+00:00">
+<div class="post" data-post-id="34928" data-author="Magi" data-date="2014-03-20T14:35:56+00:00" data-subject="Re: gems for trade/sale">
 
 csapphire - 6.5 mil
 
@@ -1302,7 +1302,7 @@ gytopaz - 4m
 
 </div>
 
-<div class="post" data-post-id="34929" data-author="fallen" data-date="2014-03-20T14:49:42+00:00">
+<div class="post" data-post-id="34929" data-author="fallen" data-date="2014-03-20T14:49:42+00:00" data-subject="Re: gems for trade/sale">
 
 cs sapphire - 9mil
 
@@ -1312,7 +1312,7 @@ rhodo - 20mil
 
 </div>
 
-<div class="post" data-post-id="34930" data-author="Ezekiel" data-date="2014-03-20T14:51:31+00:00">
+<div class="post" data-post-id="34930" data-author="Ezekiel" data-date="2014-03-20T14:51:31+00:00" data-subject="Re: gems for trade/sale">
 
 Hey, thanks for the vault clearing!
 
@@ -1332,13 +1332,13 @@ Thanks, Ezekiel
 
 </div>
 
-<div class="post" data-post-id="34932" data-author="Marvel" data-date="2014-03-20T23:26:22+00:00">
+<div class="post" data-post-id="34932" data-author="Marvel" data-date="2014-03-20T23:26:22+00:00" data-subject="Re: gems for trade/sale">
 
 1M each on the FWPearls (2M total)
 
 </div>
 
-<div class="post" data-post-id="34933" data-author="cyprimus" data-date="2014-03-21T03:42:45+00:00">
+<div class="post" data-post-id="34933" data-author="cyprimus" data-date="2014-03-21T03:42:45+00:00" data-subject="Re: gems for trade/sale">
 
 Ok, delivered the uncontested ones, new list:
 
@@ -1722,19 +1722,19 @@ Ok, delivered the uncontested ones, new list:
 
 </div>
 
-<div class="post" data-post-id="34934" data-author="Marvel" data-date="2014-03-21T13:55:55+00:00">
+<div class="post" data-post-id="34934" data-author="Marvel" data-date="2014-03-21T13:55:55+00:00" data-subject="Re: gems for trade/sale">
 
 2M a freshwater pearl. I don't edit posts!
 
 </div>
 
-<div class="post" data-post-id="34935" data-author="jex" data-date="2014-03-21T15:28:12+00:00">
+<div class="post" data-post-id="34935" data-author="jex" data-date="2014-03-21T15:28:12+00:00" data-subject="Re: gems for trade/sale">
 
 Looking Colorless Sapphire for 10 mil coins
 
 </div>
 
-<div class="post" data-post-id="34936" data-author="Burl" data-date="2014-03-21T18:23:24+00:00">
+<div class="post" data-post-id="34936" data-author="Burl" data-date="2014-03-21T18:23:24+00:00" data-subject="Re: gems for trade/sale">
 
 3 million total for the 4 Red Spinels
 
@@ -1742,7 +1742,7 @@ Burl
 
 </div>
 
-<div class="post" data-post-id="34937" data-author="cyprimus" data-date="2014-03-22T09:17:47+00:00">
+<div class="post" data-post-id="34937" data-author="cyprimus" data-date="2014-03-22T09:17:47+00:00" data-subject="Re: gems for trade/sale">
 
 shipped another batch.  please check mail.
 
@@ -1756,7 +1756,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="34938" data-author="cyprimus" data-date="2014-03-22T09:29:53+00:00">
+<div class="post" data-post-id="34938" data-author="cyprimus" data-date="2014-03-22T09:29:53+00:00" data-subject="Re: gems for trade/sale">
 
 Ok, may end up placing stuff on auction, mails too limited for ppl that do not show often.  Will figure out when I am better rested.
 
@@ -1764,7 +1764,7 @@ Thank again!
 
 </div>
 
-<div class="post" data-post-id="34939" data-author="Sam" data-date="2014-03-22T10:41:25+00:00">
+<div class="post" data-post-id="34939" data-author="Sam" data-date="2014-03-22T10:41:25+00:00" data-subject="Re: gems for trade/sale">
 
 gy topaz 5m
 
@@ -1772,13 +1772,13 @@ alexandrites 4m for 4
 
 </div>
 
-<div class="post" data-post-id="34940" data-author="Ezekiel" data-date="2014-03-22T12:13:52+00:00">
+<div class="post" data-post-id="34940" data-author="Ezekiel" data-date="2014-03-22T12:13:52+00:00" data-subject="Re: gems for trade/sale">
 
 Heya, eze here. Cyp, I am out of town until Monday/Tuesday on business and posting this from my phone. If you could reclaim and hold my gems and ship my won gems Tuesday to free up some of your shipping, I'd appreciate it. As i did with the previous gems, I'll pick up asap...with my first chance to log on. Thanks, Ezekiel
 
 </div>
 
-<div class="post" data-post-id="34941" data-author="Dagger" data-date="2014-03-24T16:37:42+00:00">
+<div class="post" data-post-id="34941" data-author="Dagger" data-date="2014-03-24T16:37:42+00:00" data-subject="Re: gems for trade/sale">
 
 If you have no objections, 
 
@@ -1804,7 +1804,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="34942" data-author="cyprimus" data-date="2014-03-24T19:33:47+00:00">
+<div class="post" data-post-id="34942" data-author="cyprimus" data-date="2014-03-24T19:33:47+00:00" data-subject="Re: gems for trade/sale">
 
 Got class tonite, so little time.
 
@@ -1814,7 +1814,7 @@ Will edit as I have time.
 
 </div>
 
-<div class="post" data-post-id="34943" data-author="Ezekiel" data-date="2014-03-24T20:45:51+00:00">
+<div class="post" data-post-id="34943" data-author="Ezekiel" data-date="2014-03-24T20:45:51+00:00" data-subject="Re: gems for trade/sale">
 
 Mine received, still down one jasper (you only shipped two with cost) and one tiger eye (unless that was intentional to let bids run longer)...but I know you had limited space for shipping as well. Also, I'd like to buy:
 
@@ -1828,7 +1828,7 @@ Ezekiel
 
 </div>
 
-<div class="post" data-post-id="34944" data-author="cyprimus" data-date="2014-03-25T09:49:25+00:00">
+<div class="post" data-post-id="34944" data-author="cyprimus" data-date="2014-03-25T09:49:25+00:00" data-subject="Re: gems for trade/sale">
 
 Shipped alexandrites, t eye, jasper, silver pearls.
 
@@ -1836,13 +1836,13 @@ thanks!
 
 </div>
 
-<div class="post" data-post-id="34946" data-author="Ezekiel" data-date="2014-03-25T18:03:19+00:00">
+<div class="post" data-post-id="34946" data-author="Ezekiel" data-date="2014-03-25T18:03:19+00:00" data-subject="Re: gems for trade/sale">
 
 Will also buy the Champagne Pearl rune for 5 mil if possible. Thanks, Ezekiel
 
 </div>
 
-<div class="post" data-post-id="34948" data-author="Nyx" data-date="2014-03-29T20:19:25+00:00">
+<div class="post" data-post-id="34948" data-author="Nyx" data-date="2014-03-29T20:19:25+00:00" data-subject="Re: gems for trade/sale">
 
 Will pay 500k each for:
 
@@ -1858,13 +1858,13 @@ B
 
 </div>
 
-<div class="post" data-post-id="34949" data-author="cyprimus" data-date="2014-03-30T08:38:06+00:00">
+<div class="post" data-post-id="34949" data-author="cyprimus" data-date="2014-03-30T08:38:06+00:00" data-subject="Re: gems for trade/sale">
 
 Shipped
 
 </div>
 
-<div class="post" data-post-id="34952" data-author="Ezekiel" data-date="2014-04-01T14:05:18+00:00">
+<div class="post" data-post-id="34952" data-author="Ezekiel" data-date="2014-04-01T14:05:18+00:00" data-subject="Re: gems for trade/sale">
 
 Eze here, ready to buy more gems:
 
@@ -1880,19 +1880,19 @@ Thanks, Zeke
 
 </div>
 
-<div class="post" data-post-id="34955" data-author="cyprimus" data-date="2014-04-04T04:03:04+00:00">
+<div class="post" data-post-id="34955" data-author="cyprimus" data-date="2014-04-04T04:03:04+00:00" data-subject="Re: gems for trade/sale">
 
 Sorry zeke.  shipped.  was not checking, din know you needed more.
 
 </div>
 
-<div class="post" data-post-id="34958" data-author="cyprimus" data-date="2014-04-04T18:59:35+00:00">
+<div class="post" data-post-id="34958" data-author="cyprimus" data-date="2014-04-04T18:59:35+00:00" data-subject="Re: gems for trade/sale">
 
 advent rune sold.  man, monk must be poor..
 
 </div>
 
-<div class="post" data-post-id="34978" data-author="Mara" data-date="2014-04-11T17:48:31+00:00">
+<div class="post" data-post-id="34978" data-author="Mara" data-date="2014-04-11T17:48:31+00:00" data-subject="Re: gems for trade/sale">
 
 Hello,
 
@@ -1910,7 +1910,7 @@ Mara
 
 </div>
 
-<div class="post" data-post-id="34988" data-author="cyprimus" data-date="2014-04-13T11:05:36+00:00">
+<div class="post" data-post-id="34988" data-author="cyprimus" data-date="2014-04-13T11:05:36+00:00" data-subject="Re: gems for trade/sale">
 
 sorry, again, not checking forums often.
 
@@ -1918,7 +1918,7 @@ shipped
 
 </div>
 
-<div class="post" data-post-id="34999" data-author="Mara" data-date="2014-04-15T00:19:01+00:00">
+<div class="post" data-post-id="34999" data-author="Mara" data-date="2014-04-15T00:19:01+00:00" data-subject="Re: gems for trade/sale">
 
 Received/Paid.
 
@@ -1928,7 +1928,7 @@ Mara
 
 </div>
 
-<div class="post" data-post-id="35001" data-author="Truck" data-date="2014-04-17T01:25:45+00:00">
+<div class="post" data-post-id="35001" data-author="Truck" data-date="2014-04-17T01:25:45+00:00" data-subject="Re: gems for trade/sale">
 
 # 5 : a Eye Agate
 
@@ -1940,7 +1940,7 @@ Mara
 
 </div>
 
-<div class="post" data-post-id="35098" data-author="cyprimus" data-date="2014-05-06T06:59:24+00:00">
+<div class="post" data-post-id="35098" data-author="cyprimus" data-date="2014-05-06T06:59:24+00:00" data-subject="Re: gems for trade/sale">
 
 shipped, sorry for delays.  rl sucking right now..
 

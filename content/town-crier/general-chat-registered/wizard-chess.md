@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16542" data-author="*juggleblood*" data-date="2007-01-26T21:19:50+00:00">
+<div class="post" data-post-id="16542" data-author="*juggleblood*" data-date="2007-01-26T21:19:50+00:00" data-subject="Wizard Chess">
 
 What do you guys think of this idea for wizard chess.
 
@@ -26,7 +26,7 @@ Anyway thats the basic concept. What do yall think? It could also be fun for cla
 
 </div>
 
-<div class="post" data-post-id="16545" data-author="Aeolus" data-date="2007-01-27T01:09:45+00:00">
+<div class="post" data-post-id="16545" data-author="Aeolus" data-date="2007-01-27T01:09:45+00:00" data-subject="">
 
 Sound great but I think they already do that.
 

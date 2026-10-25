@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="21094" data-author="Widow" data-date="2007-10-26T11:54:08+00:00">
+<div class="post" data-post-id="21094" data-author="Widow" data-date="2007-10-26T11:54:08+00:00" data-subject="Scores when shifted">
 
 I just recognized this yesterday (with Yinao's helpful gossip) that if you change your prompt to reflect any additional information you want (including to show if you are outdoors or not) that the prompt will not transfer to your shifted form.
 
@@ -20,7 +20,7 @@ For anyone who does not know what I'm referring to, please 'help prompt' and whi
 
 </div>
 
-<div class="post" data-post-id="21102" data-author="Avatar" data-date="2007-10-26T13:30:07+00:00">
+<div class="post" data-post-id="21102" data-author="Avatar" data-date="2007-10-26T13:30:07+00:00" data-subject="Good point">
 
 Good point, it's a bug and hopefully someone has added it with the 'bug' command.  I can't remember if I did so or not.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38684" data-author="Dragoth" data-date="2018-02-27T11:26:42+00:00">
+<div class="post" data-post-id="38684" data-author="Dragoth" data-date="2018-02-27T11:26:42+00:00" data-subject="Coracinous tailcoat with brown spinel">
 
 Since I can't remove the darn rune and I need it, I will trade a runed tailcoat for a separate brown-red spinel rune.
 

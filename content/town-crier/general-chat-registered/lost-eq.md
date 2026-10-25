@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="30918" data-author="fallen" data-date="2010-02-24T08:08:27+00:00">
+<div class="post" data-post-id="30918" data-author="fallen" data-date="2010-02-24T08:08:27+00:00" data-subject="lost eq">
 
 Hi everyone,
 
@@ -48,7 +48,7 @@ Fallen
 
 </div>
 
-<div class="post" data-post-id="30919" data-author="Gimlet" data-date="2010-02-24T11:26:47+00:00">
+<div class="post" data-post-id="30919" data-author="Gimlet" data-date="2010-02-24T11:26:47+00:00" data-subject="">
 
 i feel for ya, but if you lost eq due to no fault of the mud, then  you won't get reimbursed by the imms
 
@@ -58,7 +58,7 @@ i'll go check the mobs for u when i get some time
 
 </div>
 
-<div class="post" data-post-id="30920" data-author="fallen" data-date="2010-02-24T13:25:31+00:00">
+<div class="post" data-post-id="30920" data-author="fallen" data-date="2010-02-24T13:25:31+00:00" data-subject="">
 
 all sorted, 
 
@@ -68,7 +68,7 @@ Fallen
 
 </div>
 
-<div class="post" data-post-id="30922" data-author="Gimlet" data-date="2010-02-24T18:48:33+00:00">
+<div class="post" data-post-id="30922" data-author="Gimlet" data-date="2010-02-24T18:48:33+00:00" data-subject="">
 
 gratz :)
 

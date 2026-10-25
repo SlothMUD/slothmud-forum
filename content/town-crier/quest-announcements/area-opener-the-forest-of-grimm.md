@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36754" data-author="*Neptune*" data-date="2016-03-19T20:00:38+00:00">
+<div class="post" data-post-id="36754" data-author="*Neptune*" data-date="2016-03-19T20:00:38+00:00" data-subject="Area Opener: The Forest of Grimm">
 
 Greetings.
 

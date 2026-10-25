@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="33091" data-author="Angels" data-date="2011-12-14T19:12:25+00:00">
+<div class="post" data-post-id="33091" data-author="Angels" data-date="2011-12-14T19:12:25+00:00" data-subject="runes and number of same rune you can attach">
 
 When runes first went in we where told you could only attach one of a given max stat. That is one rhodo or one emerald etc...
 
@@ -25,7 +25,7 @@ so in my opinion anyone able to socket two of the same rune should be posting it
 
 </div>
 
-<div class="post" data-post-id="33095" data-author="Slowdraw" data-date="2011-12-15T18:18:38+00:00">
+<div class="post" data-post-id="33095" data-author="Slowdraw" data-date="2011-12-15T18:18:38+00:00" data-subject="Re: runes and number of same rune you can attach">
 
 I'm somewhat confused by this post. What's the purpose of the quote you used? Is that your being 'told you could only attach one of a given max stat.' that you mentioned? If so, there are a couple of flaws with using that quote.
 
@@ -39,7 +39,7 @@ Anyway, I've never put very much effort into leveling, so I've only gotten to pr
 
 </div>
 
-<div class="post" data-post-id="33096" data-author="*juggleblood*" data-date="2011-12-15T22:47:40+00:00">
+<div class="post" data-post-id="33096" data-author="*juggleblood*" data-date="2011-12-15T22:47:40+00:00" data-subject="Re: runes and number of same rune you can attach">
 
 It's really not such a big deal. Angels is correct and the issue will be corrected. 
 
@@ -49,7 +49,7 @@ Let's not make this into more than it is. Obviously we would prefer that people 
 
 </div>
 
-<div class="post" data-post-id="33097" data-author="Angels" data-date="2011-12-16T05:04:11+00:00">
+<div class="post" data-post-id="33097" data-author="Angels" data-date="2011-12-16T05:04:11+00:00" data-subject="Re: runes and number of same rune you can attach">
 
 Thanks Juggleblood. My post was to bring the topic to light..not set blame anywhere. I only posted as a few people have tried to convince me i could use two emerald runes for max wisdom. And I clearly remember being told at the beginning of runes that this was not to be the case. Unfortunately the only thing I could find on the crier to confirm the idea was elements post. 
 
@@ -63,19 +63,19 @@ That is no two ring runes that are the same name?
 
 </div>
 
-<div class="post" data-post-id="33099" data-author="Slowdraw" data-date="2011-12-16T17:19:52+00:00">
+<div class="post" data-post-id="33099" data-author="Slowdraw" data-date="2011-12-16T17:19:52+00:00" data-subject="Re: runes and number of same rune you can attach">
 
 Ah, I wasn't trying to make a big deal about it.(or start a witch hunt) I was just trying to explain my confusion and ended up doing so in a less than concise manner. As a bonus Angels now has a very straightforward quote to use instead of the one from element.
 
 </div>
 
-<div class="post" data-post-id="33100" data-author="*juggleblood*" data-date="2011-12-16T23:46:40+00:00">
+<div class="post" data-post-id="33100" data-author="*juggleblood*" data-date="2011-12-16T23:46:40+00:00" data-subject="Re: runes and number of same rune you can attach">
 
 Best we confirm with Breeze, Krom, or Splork in regard to your question. Maybe you should shoot them an email.
 
 </div>
 
-<div class="post" data-post-id="33101" data-author="*Breeze*" data-date="2011-12-17T00:39:57+00:00">
+<div class="post" data-post-id="33101" data-author="*Breeze*" data-date="2011-12-17T00:39:57+00:00" data-subject="Re: runes and number of same rune you can attach">
 
 Hmm..
 
@@ -141,7 +141,7 @@ Regards,
 
 </div>
 
-<div class="post" data-post-id="33102" data-author="*juggleblood*" data-date="2011-12-17T14:23:53+00:00">
+<div class="post" data-post-id="33102" data-author="*juggleblood*" data-date="2011-12-17T14:23:53+00:00" data-subject="Re: runes and number of same rune you can attach">
 
 You rock Breeze. Thx.
 

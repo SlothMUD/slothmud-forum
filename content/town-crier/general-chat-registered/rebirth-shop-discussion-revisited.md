@@ -10,7 +10,7 @@ locked: false
 post_count: 30
 ---
 
-<div class="post" data-post-id="38999" data-author="*teker*" data-date="2018-11-17T18:19:44+00:00">
+<div class="post" data-post-id="38999" data-author="*teker*" data-date="2018-11-17T18:19:44+00:00" data-subject="Rebirth shop discussion revisited">
 
 I may have some time to put into the shop so lets rehash this and try to figure out an acceptable cost rate.  I have started with Fluffy's previous post that laid out the following costs:
 
@@ -54,7 +54,7 @@ I can't remember how the gold numbers were computed but it's a ratio of the xp.
 
 </div>
 
-<div class="post" data-post-id="39000" data-author="*Idjit*" data-date="2018-11-17T22:06:35+00:00">
+<div class="post" data-post-id="39000" data-author="*Idjit*" data-date="2018-11-17T22:06:35+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 I for one, if nothing else different happens would like
 
@@ -78,13 +78,13 @@ Actually that's a discussion that bleeds into an expansion of the regular 9x40 s
 
 </div>
 
-<div class="post" data-post-id="39001" data-author="Gorka" data-date="2018-11-18T07:42:47+00:00">
+<div class="post" data-post-id="39001" data-author="Gorka" data-date="2018-11-18T07:42:47+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 I think the time has probably come just to implement what you think was right from the last time we all discussed the shop specifically Teker. (I just want to see something go in - before the usual class/skill stink derails the discussion) I also favour Idjit's exponential increase ideas, on top of those proposed by myself and some adjustments to that by Fluffy. I would forecast the return of the Gork post Dec 14th if such a shop occurred.
 
 </div>
 
-<div class="post" data-post-id="39003" data-author="Driven" data-date="2018-11-18T23:50:18+00:00">
+<div class="post" data-post-id="39003" data-author="Driven" data-date="2018-11-18T23:50:18+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 Gorka had a good proposal here, which is a fair place to start:  
 
@@ -94,7 +94,7 @@ One thing to consider on the cost of AC is that AC applies when in-form, but max
 
 </div>
 
-<div class="post" data-post-id="39004" data-author="cyprimus" data-date="2018-11-19T13:23:37+00:00">
+<div class="post" data-post-id="39004" data-author="cyprimus" data-date="2018-11-19T13:23:37+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 really comes down to are we going to go with unlimited potential, or keep a hard cap of some sort?
 
@@ -122,13 +122,13 @@ All our heros are mathmaticians!... p
 
 </div>
 
-<div class="post" data-post-id="39005" data-author="norks" data-date="2018-11-19T17:26:12+00:00">
+<div class="post" data-post-id="39005" data-author="norks" data-date="2018-11-19T17:26:12+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 From my perspective, being able to purchase increasingly expensive mana, hp, moves or ac wouldn’t add anything to the game. I probably wouldn’t bother, preferring instead to play another character. What I would find attractive is the chance to buy different spells, skills and abilities either from other prime classes or totally new things.
 
 </div>
 
-<div class="post" data-post-id="39006" data-author="Filk" data-date="2018-11-19T18:34:17+00:00">
+<div class="post" data-post-id="39006" data-author="Filk" data-date="2018-11-19T18:34:17+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 I will not touch anything about crossclass things, since its totally diferent changes with global worktime. While we have one active coder - just keep that door closed. For those, who dont want to raise stats, well, another char is working perspective.
 
@@ -140,13 +140,13 @@ When i offered values and coefs Teker mentioned, i had in mind, that missing sta
 
 </div>
 
-<div class="post" data-post-id="39007" data-author="norks" data-date="2018-11-19T20:59:51+00:00">
+<div class="post" data-post-id="39007" data-author="norks" data-date="2018-11-19T20:59:51+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 Well then there’s really no need for a rebirth shop. And there’s really no discussion either. Just add these things to the avatar shop. Or do you have to run through 9x40 twice to buy more mana and hp, etcetera?
 
 </div>
 
-<div class="post" data-post-id="39008" data-author="cyprimus" data-date="2018-11-20T04:43:13+00:00">
+<div class="post" data-post-id="39008" data-author="cyprimus" data-date="2018-11-20T04:43:13+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 The next step is deciding if its a second shop, so the new costs go in after the current shop is maxed, for example, are ppl going to have to pay more for hp now ...or can they still get that first 100 for a bil a pop.
 
@@ -172,7 +172,7 @@ OK, done rambling..  for now.. back later for more ...ramblings..
 
 </div>
 
-<div class="post" data-post-id="39009" data-author="Gorka" data-date="2018-11-20T06:25:38+00:00">
+<div class="post" data-post-id="39009" data-author="Gorka" data-date="2018-11-20T06:25:38+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 On the first topic of a second shop, I think that's a no brainer... the prices are different between rebirth and avatar shop and they work differently, and it's better to keep the systems separate so each could be deactivated if required without messing each other up.
 
@@ -182,7 +182,7 @@ I have faith in the likes of Teker and Breeze to review those caps in time. The 
 
 </div>
 
-<div class="post" data-post-id="39010" data-author="Filk" data-date="2018-11-20T12:55:58+00:00">
+<div class="post" data-post-id="39010" data-author="Filk" data-date="2018-11-20T12:55:58+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 > **Gorka wrote:**
 > I'm suggesting we follow Fluffy's unlimited exponential path but just throttle the improvements for a period of review.
@@ -191,7 +191,7 @@ Sounds good. Keep the formulas, limit dam at 5-10 and other stats accordingly ba
 
 </div>
 
-<div class="post" data-post-id="39011" data-author="*teker*" data-date="2018-11-26T18:01:04+00:00">
+<div class="post" data-post-id="39011" data-author="*teker*" data-date="2018-11-26T18:01:04+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 Ok, so here's my present list with caps lowered to 3 atm:
 
@@ -245,7 +245,7 @@ Questions:
 
 </div>
 
-<div class="post" data-post-id="39012" data-author="Gorka" data-date="2018-11-27T06:18:41+00:00">
+<div class="post" data-post-id="39012" data-author="Gorka" data-date="2018-11-27T06:18:41+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 Nice Teker! That's genuinely exciting to see. Just one thing I noticed.
 
@@ -261,7 +261,7 @@ Movement points are valuable to "some." Warriors, Thieves, Monks. I doubt your a
 
 </div>
 
-<div class="post" data-post-id="39013" data-author="Filk" data-date="2018-11-27T15:40:35+00:00">
+<div class="post" data-post-id="39013" data-author="Filk" data-date="2018-11-27T15:40:35+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 Seems nice, but i have some observations.
 
@@ -289,7 +289,7 @@ But i could say the same for circle, kick, flail and most of the saves.
 
 </div>
 
-<div class="post" data-post-id="39014" data-author="*Idjit*" data-date="2018-11-27T23:54:47+00:00">
+<div class="post" data-post-id="39014" data-author="*Idjit*" data-date="2018-11-27T23:54:47+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 One thing we haven't talked about regarding the rebirth shop (both shops really), is possibly having the costs actually be different for the different prime classes.  Or maybe we did and i'm just crappy at following threads.  If so, sorry.
 
@@ -317,13 +317,13 @@ Just saying.
 
 </div>
 
-<div class="post" data-post-id="39015" data-author="Josiah" data-date="2018-11-29T07:44:02+00:00">
+<div class="post" data-post-id="39015" data-author="Josiah" data-date="2018-11-29T07:44:02+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 20 base strength??  You have my vote!
 
 </div>
 
-<div class="post" data-post-id="39016" data-author="*teker*" data-date="2018-11-30T22:36:22+00:00">
+<div class="post" data-post-id="39016" data-author="*teker*" data-date="2018-11-30T22:36:22+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 So it sounds like you want the caps to look like this:
 
@@ -348,7 +348,7 @@ So it sounds like you want the caps to look like this:
 
 </div>
 
-<div class="post" data-post-id="39017" data-author="Teron" data-date="2018-12-01T04:19:29+00:00">
+<div class="post" data-post-id="39017" data-author="Teron" data-date="2018-12-01T04:19:29+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 I just hope that eventually you figure out coefficients and remove the caps.
 
@@ -358,13 +358,13 @@ imho, if a mana point cost 10 coins, then a hp would be worth 4-5 coins and a mo
 
 </div>
 
-<div class="post" data-post-id="39018" data-author="cyprimus" data-date="2018-12-01T07:43:46+00:00">
+<div class="post" data-post-id="39018" data-author="cyprimus" data-date="2018-12-01T07:43:46+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 was thinking more along the lines of a set price for stat.. then an ever increasing price too raise the cap.. so you could hit classo limits.. relatively fast.. then slowly build past..
 
 </div>
 
-<div class="post" data-post-id="39019" data-author="cyprimus" data-date="2018-12-01T16:44:19+00:00">
+<div class="post" data-post-id="39019" data-author="cyprimus" data-date="2018-12-01T16:44:19+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 sorry, had to go..
 
@@ -386,7 +386,7 @@ Gl!
 
 </div>
 
-<div class="post" data-post-id="39020" data-author="Teron" data-date="2018-12-02T09:29:16+00:00">
+<div class="post" data-post-id="39020" data-author="Teron" data-date="2018-12-02T09:29:16+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 Straight multipliers and caps are inefficient.
 
@@ -394,7 +394,7 @@ The way I've seen this done is with increasing logarithmic coefficients - they a
 
 </div>
 
-<div class="post" data-post-id="39021" data-author="Filk" data-date="2018-12-03T08:33:05+00:00">
+<div class="post" data-post-id="39021" data-author="Filk" data-date="2018-12-03T08:33:05+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 > ***teker* wrote:**
 > So it sounds like you want the caps to look like this:
@@ -427,7 +427,7 @@ And some stats are missing, so not sure what values are there.
 
 </div>
 
-<div class="post" data-post-id="39022" data-author="Driven" data-date="2018-12-03T18:57:27+00:00">
+<div class="post" data-post-id="39022" data-author="Driven" data-date="2018-12-03T18:57:27+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 So maybe something like this?
 
@@ -482,7 +482,7 @@ And then I think a few more perm spells would be amazing.  Here are some thought
 
 </div>
 
-<div class="post" data-post-id="39023" data-author="Teron" data-date="2018-12-04T03:07:39+00:00">
+<div class="post" data-post-id="39023" data-author="Teron" data-date="2018-12-04T03:07:39+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 It seems suggested caps on saves are low.
 
@@ -506,7 +506,7 @@ Maybe there should be bonus -saves.
 
 </div>
 
-<div class="post" data-post-id="39024" data-author="cyprimus" data-date="2018-12-04T10:17:26+00:00">
+<div class="post" data-post-id="39024" data-author="cyprimus" data-date="2018-12-04T10:17:26+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 I would still like to see being able to buy everything up to my classo caps first, all i am seeing on the posts now is over cap bsb etc..
 
@@ -518,13 +518,13 @@ thanks!
 
 </div>
 
-<div class="post" data-post-id="39025" data-author="cyprimus" data-date="2018-12-04T11:27:57+00:00">
+<div class="post" data-post-id="39025" data-author="cyprimus" data-date="2018-12-04T11:27:57+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 OH, also.. can we get gauranteed masterfuls for spells that are really nice for that?
 
 </div>
 
-<div class="post" data-post-id="39029" data-author="Josiah" data-date="2018-12-10T20:48:21+00:00">
+<div class="post" data-post-id="39029" data-author="Josiah" data-date="2018-12-10T20:48:21+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 Like Driven, I'd like more options for persistent spells.
 
@@ -542,7 +542,7 @@ Greater Fluidity has similar issues to Avatar Sight; it has extra power with a m
 
 </div>
 
-<div class="post" data-post-id="39035" data-author="cyprimus" data-date="2019-01-02T17:58:35+00:00">
+<div class="post" data-post-id="39035" data-author="cyprimus" data-date="2019-01-02T17:58:35+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 OK, remembered, was going to post about being able to sell back to the shop too
 
@@ -552,13 +552,13 @@ for example... being able to cash in for 100 percent.. but you have to choose so
 
 </div>
 
-<div class="post" data-post-id="39036" data-author="cyprimus" data-date="2019-01-04T14:50:20+00:00">
+<div class="post" data-post-id="39036" data-author="cyprimus" data-date="2019-01-04T14:50:20+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 OH, would also be exceptionally  nice to be able to get perma corpus.
 
 </div>
 
-<div class="post" data-post-id="39074" data-author="Josiah" data-date="2019-01-23T04:49:14+00:00">
+<div class="post" data-post-id="39074" data-author="Josiah" data-date="2019-01-23T04:49:14+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
 > **Quote:**
 > Please add perception! Currently buying Avatar Sight from the mayor is a disaster because it doesn't come with perception. If not, then I'd like to buy detect invisibility and darksight (without avatar sight).

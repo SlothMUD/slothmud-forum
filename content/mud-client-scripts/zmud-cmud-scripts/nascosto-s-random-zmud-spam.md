@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="13380" data-author="Nascosto" data-date="2006-07-08T22:34:16+00:00">
+<div class="post" data-post-id="13380" data-author="Nascosto" data-date="2006-07-08T22:34:16+00:00" data-subject="Nascosto&#x27;s random zmud spam">
 
 It's useful to have color vars defined - makes it easier to use colors
 
@@ -40,7 +40,7 @@ grouptell [@c_cyan] TEST [@c_white]
 
 </div>
 
-<div class="post" data-post-id="13404" data-author="Nascosto" data-date="2006-07-10T02:33:03+00:00">
+<div class="post" data-post-id="13404" data-author="Nascosto" data-date="2006-07-10T02:33:03+00:00" data-subject="">
 
 This code is useful for formatting numbers. If you want to use it you'll have to save it to a text file and import text, else I think zmud will evalutate it at creation and make useless functions.
 

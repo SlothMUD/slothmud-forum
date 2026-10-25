@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36076" data-author="Dragoth" data-date="2015-09-07T09:01:15+00:00">
+<div class="post" data-post-id="36076" data-author="Dragoth" data-date="2015-09-07T09:01:15+00:00" data-subject="Valley of the mage bug">
 
 A cleric prime area that doesn't let the clerics in!
 
@@ -92,7 +92,7 @@ Necromancer Morgan says 'Crumbs you aren't carrying a dark mace!'
 
 </div>
 
-<div class="post" data-post-id="36077" data-author="*Breeze*" data-date="2015-09-07T14:09:41+00:00">
+<div class="post" data-post-id="36077" data-author="*Breeze*" data-date="2015-09-07T14:09:41+00:00" data-subject="Re: Valley of the mage bug">
 
 fixed.
 

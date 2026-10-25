@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="16063" data-author="banedon" data-date="2007-01-07T07:10:21+00:00">
+<div class="post" data-post-id="16063" data-author="banedon" data-date="2007-01-07T07:10:21+00:00" data-subject="Wintin question">
 
 I'm running wintin.net first off.
 
@@ -24,7 +24,7 @@ Banedon
 
 </div>
 
-<div class="post" data-post-id="16068" data-author="Alberich" data-date="2007-01-07T11:55:43+00:00">
+<div class="post" data-post-id="16068" data-author="Alberich" data-date="2007-01-07T11:55:43+00:00" data-subject="">
 
 I'm not 100% positive about this (I use tt++) but the toggle for alias/var/etc messages should be #mess (x).
 
@@ -32,7 +32,7 @@ So to turn off var, #mess var should toggle off, doing the same would turn it on
 
 </div>
 
-<div class="post" data-post-id="16081" data-author="banedon" data-date="2007-01-07T21:01:53+00:00">
+<div class="post" data-post-id="16081" data-author="banedon" data-date="2007-01-07T21:01:53+00:00" data-subject="">
 
 Thanks Alberich, that worked.
 
@@ -40,7 +40,7 @@ Banedon
 
 </div>
 
-<div class="post" data-post-id="16094" data-author="firebrand" data-date="2007-01-08T15:25:30+00:00">
+<div class="post" data-post-id="16094" data-author="firebrand" data-date="2007-01-08T15:25:30+00:00" data-subject="">
 
 or from wintin.net menu bar: file-->options-->command handling-->clear confirm scripted commands box
 

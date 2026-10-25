@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="7788" data-author="Taki" data-date="2005-07-08T13:06:18+00:00">
+<div class="post" data-post-id="7788" data-author="Taki" data-date="2005-07-08T13:06:18+00:00" data-subject="spellbooks in guilds (perm ones) related">
 
 I have noticed the following:
 

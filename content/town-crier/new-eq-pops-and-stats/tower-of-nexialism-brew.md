@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8978" data-author="Firon" data-date="2005-10-10T00:54:53+00:00">
+<div class="post" data-post-id="8978" data-author="Firon" data-date="2005-10-10T00:54:53+00:00" data-subject="Tower of Nexialism brew">
 
 Brew note is part of the alchemists room there:
 

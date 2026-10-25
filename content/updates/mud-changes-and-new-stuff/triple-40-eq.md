@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29200" data-author="*Splork*" data-date="2009-05-17T13:57:42+00:00">
+<div class="post" data-post-id="29200" data-author="*Splork*" data-date="2009-05-17T13:57:42+00:00" data-subject="Triple 40 eq">
 
 We will be giving away three triple 40 items. The items will be given away at level 3x40, 6x40, and 8x40.
 

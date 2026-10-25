@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="29806" data-author="Toxis" data-date="2009-08-13T22:35:12+00:00">
+<div class="post" data-post-id="29806" data-author="Toxis" data-date="2009-08-13T22:35:12+00:00" data-subject="Too Harsh lvl loss">
 
 The whole losing levels thing is a bit outdated, if you ask me.  It's so harsh that people leave sloth because of it.  I'm not saying there shouldn't be no penalty to death, but instead of xp loss and level loss, wouldn't it be better to add a death sickness for 10 minutes that lowers damage, hp regen and mana regen drastically?  I highly recommend removing level loss.
 
@@ -44,25 +44,25 @@ Paka[Clan:Dark Knights]> 'nods.. hopefully i'll b back..'
 
 </div>
 
-<div class="post" data-post-id="29808" data-author="sirrico1" data-date="2009-08-13T22:43:27+00:00">
+<div class="post" data-post-id="29808" data-author="sirrico1" data-date="2009-08-13T22:43:27+00:00" data-subject="">
 
 I also died the other day with close to 20 mil exp and lost secondary level, there have been a few other people who have lost secondary levels the past week that I've seen on gossip.
 
 </div>
 
-<div class="post" data-post-id="29810" data-author="Medios" data-date="2009-08-14T02:29:10+00:00">
+<div class="post" data-post-id="29810" data-author="Medios" data-date="2009-08-14T02:29:10+00:00" data-subject="">
 
 :roll:
 
 </div>
 
-<div class="post" data-post-id="29814" data-author="Toxis" data-date="2009-08-14T07:10:42+00:00">
+<div class="post" data-post-id="29814" data-author="Toxis" data-date="2009-08-14T07:10:42+00:00" data-subject="">
 
 I'm just wondering mike, do those eyes mean you're for the level loss and xp loss system?
 
 </div>
 
-<div class="post" data-post-id="29816" data-author="Dragoth" data-date="2009-08-14T08:35:40+00:00">
+<div class="post" data-post-id="29816" data-author="Dragoth" data-date="2009-08-14T08:35:40+00:00" data-subject="">
 
 This game is what separates men from boys! But i completely understand people who want to play a more relaxed and enjoyable game like WoW and its no surprise that we are losing players.
 
@@ -82,7 +82,7 @@ All this can be fixed, but immortals are just too old fashioned and unwilling to
 
 </div>
 
-<div class="post" data-post-id="29817" data-author="Dragoth" data-date="2009-08-14T09:18:08+00:00">
+<div class="post" data-post-id="29817" data-author="Dragoth" data-date="2009-08-14T09:18:08+00:00" data-subject="">
 
 I understand the difficulty of the situation with the lack of dedicated immortals working on the code and wanted to salute Splork once again for doing all the work he has been doing, as he is the only man who runs the mud at the moment, fixing the bugs adding new content and trying to respond to the whines of the players.
 
@@ -94,7 +94,7 @@ But i really think that this game should stop being a dictatorship and creators 
 
 </div>
 
-<div class="post" data-post-id="29818" data-author="Acedia" data-date="2009-08-14T10:18:17+00:00">
+<div class="post" data-post-id="29818" data-author="Acedia" data-date="2009-08-14T10:18:17+00:00" data-subject="">
 
 People are fun.
 
@@ -112,7 +112,7 @@ As you have verified, it is quite easy to point out what is wrong, but so much h
 
 </div>
 
-<div class="post" data-post-id="29819" data-author="Medios" data-date="2009-08-14T14:40:45+00:00">
+<div class="post" data-post-id="29819" data-author="Medios" data-date="2009-08-14T14:40:45+00:00" data-subject="">
 
 Honestly the reason I haven't been around has been due to real life activities.  I been taking a college class as well as working and we also got Zander who is now 16 months.  When my class started I was doing a lot of reading and my eyes were too sore to read Slothmud text.  I was also playing way too much and skirting my goals.  I decided it was time to take a break and see if I can live without Sloth.  
 
@@ -124,7 +124,7 @@ PS  Seriously stop crying about death penalties.  Games like WoW and Asherons Ca
 
 </div>
 
-<div class="post" data-post-id="29827" data-author="*Splork*" data-date="2009-08-14T21:06:15+00:00">
+<div class="post" data-post-id="29827" data-author="*Splork*" data-date="2009-08-14T21:06:15+00:00" data-subject="">
 
 I was just saying last night on wiznet that I wish I had more time to actually play, I do love that side of the game just as much as helping run it. However, I still strongly believe I have enough experience playing this game to form opinions on balance and other issues:0 I can't even count how many 5x40s I had on S3 and I have a 2x40 and 2 other lowbie characters that I spend most of my time in these days when I do get that chance to login a mortal. I do plan on playing Wintin more often though, life is just hectic and busy with a 20 month old, fiance, and school starting again in 3 weeks.
 
@@ -142,13 +142,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29828" data-author="Dragoth" data-date="2009-08-14T21:42:24+00:00">
+<div class="post" data-post-id="29828" data-author="Dragoth" data-date="2009-08-14T21:42:24+00:00" data-subject="">
 
 For what its worth I think It's a marvelous idea to have avatar start at 4x40.
 
 </div>
 
-<div class="post" data-post-id="29830" data-author="Rigwarl" data-date="2009-08-15T02:06:11+00:00">
+<div class="post" data-post-id="29830" data-author="Rigwarl" data-date="2009-08-15T02:06:11+00:00" data-subject="">
 
 The third bard skill is to transfer the bards mana to the group.
 
@@ -158,7 +158,7 @@ Opening up the first few avatar levels at 4x40 is a good idea in my opinion, and
 
 </div>
 
-<div class="post" data-post-id="29831" data-author="Cizin" data-date="2009-08-15T09:11:19+00:00">
+<div class="post" data-post-id="29831" data-author="Cizin" data-date="2009-08-15T09:11:19+00:00" data-subject="">
 
 I second that. It would bring more life into mud for sure.
 

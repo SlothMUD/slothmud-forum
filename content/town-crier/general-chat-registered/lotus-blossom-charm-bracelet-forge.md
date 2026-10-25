@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34013" data-author="Ker" data-date="2013-02-08T07:05:27+00:00">
+<div class="post" data-post-id="34013" data-author="Ker" data-date="2013-02-08T07:05:27+00:00" data-subject="lotus blossom charm bracelet forge">
 
 You can find most of the cps here from Pagoda of Enlightenment on SS.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9604" data-author="*Splork*" data-date="2005-11-22T16:19:04+00:00">
+<div class="post" data-post-id="9604" data-author="*Splork*" data-date="2005-11-22T16:19:04+00:00" data-subject="Finger cmd">
 
 Finger cmd is now available for anyone level 10 and above. Please refer to help finger for more information.
 

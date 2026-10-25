@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8552" data-author="Xuan" data-date="2005-09-06T13:36:04+00:00">
+<div class="post" data-post-id="8552" data-author="Xuan" data-date="2005-09-06T13:36:04+00:00" data-subject="lost  two onxy bracelet">
 
 lost two onyx bracelet in eden while lagged for updating of some data by wasp .... wonder any kind ppl were to find that n give it back ??
 

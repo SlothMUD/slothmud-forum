@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38658" data-author="Gorka" data-date="2018-01-31T18:24:03+00:00">
+<div class="post" data-post-id="38658" data-author="Gorka" data-date="2018-01-31T18:24:03+00:00" data-subject="Avatar Shop Issue">
 
 list
 
@@ -106,7 +106,7 @@ You have 228347878 experience points and 1900777 coins
 
 </div>
 
-<div class="post" data-post-id="38662" data-author="*teker*" data-date="2018-02-03T20:52:01+00:00">
+<div class="post" data-post-id="38662" data-author="*teker*" data-date="2018-02-03T20:52:01+00:00" data-subject="Re: Avatar Shop Issue">
 
 I've gone through the code and couldn't figure out why this was happening.  I started seeing it on the test server as well so I rewrote the "list" code.  Hopefully that fixes it and doesn't generate any other issues.  It'll be in the next reboot.
 

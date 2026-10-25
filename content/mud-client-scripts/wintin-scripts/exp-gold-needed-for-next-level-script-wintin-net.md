@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29565" data-author="islq" data-date="2009-06-19T13:26:22+00:00">
+<div class="post" data-post-id="29565" data-author="islq" data-date="2009-06-19T13:26:22+00:00" data-subject="Exp/Gold Needed for Next Level Script(wintin.net)">
 
 data from norks and Rigwarl's post
 

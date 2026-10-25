@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="30628" data-author="Toxis" data-date="2010-01-11T00:30:59+00:00">
+<div class="post" data-post-id="30628" data-author="Toxis" data-date="2010-01-11T00:30:59+00:00" data-subject="Supplicants">
 
 l monograph
 
@@ -278,13 +278,13 @@ your departing soul and restore it to your body.
 
 </div>
 
-<div class="post" data-post-id="30629" data-author="*juggleblood*" data-date="2010-01-11T01:51:18+00:00">
+<div class="post" data-post-id="30629" data-author="*juggleblood*" data-date="2010-01-11T01:51:18+00:00" data-subject="">
 
 How the heck did my prompt get in there when i added brownie to the monograph. odd.
 
 </div>
 
-<div class="post" data-post-id="30630" data-author="Marvel" data-date="2010-01-11T02:01:01+00:00">
+<div class="post" data-post-id="30630" data-author="Marvel" data-date="2010-01-11T02:01:01+00:00" data-subject="">
 
 read monograph
 
@@ -566,7 +566,7 @@ I think there's a 2nd monograph out there, for a 2 parter - since it doesn't des
 
 </div>
 
-<div class="post" data-post-id="30639" data-author="*juggleblood*" data-date="2010-01-11T13:00:43+00:00">
+<div class="post" data-post-id="30639" data-author="*juggleblood*" data-date="2010-01-11T13:00:43+00:00" data-subject="">
 
 I think there's a 2nd monograph out there, for a 2 parter - since it doesn't describe the Gremlin, Ifrit, Drangr, Succubus, Incubus, Leviathan, Ghul, Asura, Behemoth, and Pit Fiend pets.[/quote:3j2howcx]
 

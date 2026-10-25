@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="29336" data-author="Weasel" data-date="2009-06-07T19:12:44+00:00">
+<div class="post" data-post-id="29336" data-author="Weasel" data-date="2009-06-07T19:12:44+00:00" data-subject="GoodBye all, and good luck">
 
 I've been away long enough now to know I'm not coming back. This morning I uninstalled my client and deleted all my scripts. Just like to say thank you to the admin for the many years I enjoyed here and the many good people I've encountered over those years.
 
@@ -20,7 +20,7 @@ E noho rā.
 
 </div>
 
-<div class="post" data-post-id="29337" data-author="jezer" data-date="2009-06-08T03:08:32+00:00">
+<div class="post" data-post-id="29337" data-author="jezer" data-date="2009-06-08T03:08:32+00:00" data-subject="">
 
 You'll always be remembered as one of the big "personalities" of the game in my mind, passionate, witty and always enjoying a good laugh even at the expense of yourself with the whole "Weasel" thing at times.
 
@@ -28,7 +28,7 @@ Good Luck and all the best.
 
 </div>
 
-<div class="post" data-post-id="29338" data-author="Toxis" data-date="2009-06-08T09:07:25+00:00">
+<div class="post" data-post-id="29338" data-author="Toxis" data-date="2009-06-08T09:07:25+00:00" data-subject="">
 
 Crazy talk!
 
@@ -42,13 +42,13 @@ Don't cut it out yet, you might be surprised, my friend,
 
 </div>
 
-<div class="post" data-post-id="29339" data-author="12345" data-date="2009-06-08T11:52:46+00:00">
+<div class="post" data-post-id="29339" data-author="12345" data-date="2009-06-08T11:52:46+00:00" data-subject="">
 
 I've been gone for quite a while myself, but its still sad to see you go Weasel.  Take it easy bro.
 
 </div>
 
-<div class="post" data-post-id="29340" data-author="Mosaix" data-date="2009-06-08T15:42:48+00:00">
+<div class="post" data-post-id="29340" data-author="Mosaix" data-date="2009-06-08T15:42:48+00:00" data-subject="">
 
 [quote:4zbyo43e]
 
@@ -90,13 +90,13 @@ See ya till the next time you announce you are leaving.
 
 </div>
 
-<div class="post" data-post-id="29342" data-author="12345" data-date="2009-06-09T23:23:02+00:00">
+<div class="post" data-post-id="29342" data-author="12345" data-date="2009-06-09T23:23:02+00:00" data-subject="">
 
 Let me translate that for Mosaix.[/url:2fm2jnr0]
 
 </div>
 
-<div class="post" data-post-id="29343" data-author="Toxis" data-date="2009-06-09T23:34:41+00:00">
+<div class="post" data-post-id="29343" data-author="Toxis" data-date="2009-06-09T23:34:41+00:00" data-subject="">
 
 I think I might *sniffle* get a little choked up.
 
@@ -104,7 +104,7 @@ heh
 
 </div>
 
-<div class="post" data-post-id="29344" data-author="Tap" data-date="2009-06-10T04:18:41+00:00">
+<div class="post" data-post-id="29344" data-author="Tap" data-date="2009-06-10T04:18:41+00:00" data-subject="">
 
 Damn it Weasel..you are taking a bow out just when I was getting ready to start  new reign of terror.
 
@@ -114,7 +114,7 @@ ps- hate to see you go but if you ever play WOW..look me up on Blackwater Raider
 
 </div>
 
-<div class="post" data-post-id="29345" data-author="Toxis" data-date="2009-06-10T07:49:40+00:00">
+<div class="post" data-post-id="29345" data-author="Toxis" data-date="2009-06-10T07:49:40+00:00" data-subject="">
 
 What do you mean "just about to" ? :)~
 

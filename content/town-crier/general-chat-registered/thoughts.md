@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="31575" data-author="blackmore" data-date="2010-08-24T15:46:50+00:00">
+<div class="post" data-post-id="31575" data-author="blackmore" data-date="2010-08-24T15:46:50+00:00" data-subject="Thoughts">
 
 I've been 4x40 for awhile now, and thought I'd throw out some ideas.
 
@@ -26,7 +26,7 @@ I know this is more of a personal thing, but can oghams be changed to the caster
 
 </div>
 
-<div class="post" data-post-id="31576" data-author="Cizin" data-date="2010-08-24T16:38:16+00:00">
+<div class="post" data-post-id="31576" data-author="Cizin" data-date="2010-08-24T16:38:16+00:00" data-subject="Re: Thoughts">
 
 I have few suggestions you might be willing to consider.
 
@@ -44,7 +44,7 @@ Would add  real diff between 1x40 and 3x40 and 8x40 chars
 
 </div>
 
-<div class="post" data-post-id="31577" data-author="Thraxas" data-date="2010-08-24T17:29:31+00:00">
+<div class="post" data-post-id="31577" data-author="Thraxas" data-date="2010-08-24T17:29:31+00:00" data-subject="Re: Thoughts">
 
 > **Cizin wrote:**
 > 1. you should auto raise your prime skill (dex for thief for an example) at 1x40, 2x40 etc. Other skills might be raised by eq only.
@@ -59,13 +59,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="31580" data-author="jezer" data-date="2010-08-24T21:27:48+00:00">
+<div class="post" data-post-id="31580" data-author="jezer" data-date="2010-08-24T21:27:48+00:00" data-subject="Re: Thoughts">
 
 Good post Blackmore. Given your experience playing sloth, your comments hold a lot of weight. I agree we need the avatar levels to get the xp for the back 4x40.
 
 </div>
 
-<div class="post" data-post-id="31582" data-author="*Splork*" data-date="2010-08-24T23:47:46+00:00">
+<div class="post" data-post-id="31582" data-author="*Splork*" data-date="2010-08-24T23:47:46+00:00" data-subject="Re: Thoughts">
 
 Great thread and Im reading it every hour at work. We have some ideas in mind and are bashing them about but I am against giving all avatar levels out before a person reaches 8x40. I strongly believe that the last Avatar levels should not be able to be leveled until a player has reached the pinnacle of all his other classes.
 
@@ -75,25 +75,25 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31583" data-author="jezer" data-date="2010-08-25T00:39:35+00:00">
+<div class="post" data-post-id="31583" data-author="jezer" data-date="2010-08-25T00:39:35+00:00" data-subject="Re: Thoughts">
 
 I strongly believe we should start the game as 9x40 and level backwards until level 1 prime, where we get our limited edition newbie leather trousers.
 
 </div>
 
-<div class="post" data-post-id="31593" data-author="Dragoth" data-date="2010-08-25T15:12:13+00:00">
+<div class="post" data-post-id="31593" data-author="Dragoth" data-date="2010-08-25T15:12:13+00:00" data-subject="Re: Thoughts">
 
 Exactly the same thoughts as me blackmore, there's just too many levels and too much grinding and very little happening when you actually get the levels. I have actually proposed some sort of reward for every level 40 eons ago but it seems to have fallen on deaf ears
 
 </div>
 
-<div class="post" data-post-id="31594" data-author="jezer" data-date="2010-08-25T19:43:59+00:00">
+<div class="post" data-post-id="31594" data-author="jezer" data-date="2010-08-25T19:43:59+00:00" data-subject="Re: Thoughts">
 
 Yeah, the vibe I'm picking up is "they are listening" but they are just going to do what they want. You can see it in Splork's post about deathgrip, somehow they have deviated to hitroll? I'm like how the heck did they get there out of all this information! An then on getting avatar levels early, instead of "logic" we get "faith" in the belief it should be the way it is. It's not looking good, but still early days.
 
 </div>
 
-<div class="post" data-post-id="31595" data-author="Spink" data-date="2010-08-25T20:45:05+00:00">
+<div class="post" data-post-id="31595" data-author="Spink" data-date="2010-08-25T20:45:05+00:00" data-subject="Re: Thoughts">
 
 > **jezer wrote:**
 > Yeah, the vibe I'm picking up is "they are listening" but they are just going to do what they want. You can see it in Splork's post about deathgrip, somehow they have deviated to hitroll? I'm like how the heck did they get there out of all this information! An then on getting avatar levels early, instead of "logic" we get "faith" in the belief it should be the way it is. It's not looking good, but still early days.
@@ -108,7 +108,7 @@ To me, in your position, this is icing on the delicious cake that is a 2/3 reduc
 
 </div>
 
-<div class="post" data-post-id="31596" data-author="jezer" data-date="2010-08-25T20:58:34+00:00">
+<div class="post" data-post-id="31596" data-author="jezer" data-date="2010-08-25T20:58:34+00:00" data-subject="Re: Thoughts">
 
 Your right Spink, interaction has been good.
 
@@ -120,7 +120,7 @@ I started the "How to deathgrip hamsters?" Thread in December 2009. Every day I 
 
 </div>
 
-<div class="post" data-post-id="31597" data-author="*Splork*" data-date="2010-08-25T23:39:42+00:00">
+<div class="post" data-post-id="31597" data-author="*Splork*" data-date="2010-08-25T23:39:42+00:00" data-subject="Re: Thoughts">
 
 Im not going to sit here and go back and forth with a resentful and dissatisfied player.
 
@@ -138,7 +138,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31598" data-author="Toxis" data-date="2010-08-25T23:57:28+00:00">
+<div class="post" data-post-id="31598" data-author="Toxis" data-date="2010-08-25T23:57:28+00:00" data-subject="Re: Thoughts">
 
 What about a badge that attaches to a location not used, maybe on body or robe or something, that either improves with each 40 or is popped on a solo mob appropriate with that prime (ie thief badge pops on a thief solo mob appropriate with that level).  Each increase is a slight bonus, but more importantly a decent bonus for those 40's where you're really not feeling any power... such as is the case at 5x40 or 7x40.  I think it's kinda funny cizin isn't even leveling 20 av yet but ok.
 
@@ -168,7 +168,7 @@ The bonuses might be too high for this example.. but when you think about how mu
 
 </div>
 
-<div class="post" data-post-id="31600" data-author="jezer" data-date="2010-08-26T01:08:37+00:00">
+<div class="post" data-post-id="31600" data-author="jezer" data-date="2010-08-26T01:08:37+00:00" data-subject="Re: Thoughts">
 
 Thanks for looking at ALL the monk problems. I'm not bitter and resentful about the past. I am a tenacious campaigner, I've fought hard to see druid bugs fixed - after documenting them, I've supported all improvements to bard, and now kept the pressure up on these monk things. I regret having a break from sloth when new druid pets were being worked on. I figure if I campaigned hard then, we might have those implemented too. They were going to be "useful" not over power, I really liked Chobbs approach, I don't know what happened? I've never campaigned much at all to improve the damage of death grip, it mostly been about wimpy grip and low level gripping. I accept death grip at high levels of hand dam at the moment should be adequate, albeit harder at the start for newbs to make something with it. I can't find pure splork grip mobs over 300k non aged at 16 hand dam, yet my xp required to level is nearing 1 billion.
 
@@ -176,7 +176,7 @@ I don't know what can be done if avatar levels are not opened earlier. I can ima
 
 </div>
 
-<div class="post" data-post-id="31633" data-author="Dragoth" data-date="2010-08-29T11:04:05+00:00">
+<div class="post" data-post-id="31633" data-author="Dragoth" data-date="2010-08-29T11:04:05+00:00" data-subject="Re: Thoughts">
 
 Note: This is not a criticism but more of a constructive suggestion.
 

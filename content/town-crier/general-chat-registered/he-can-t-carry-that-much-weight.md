@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38598" data-author="Gorka" data-date="2018-01-07T10:43:45+00:00">
+<div class="post" data-post-id="38598" data-author="Gorka" data-date="2018-01-07T10:43:45+00:00" data-subject="He can&#x27;t carry that much weight.">
 
 I would normally email this into Teker, but with emails being down... here it is...
 

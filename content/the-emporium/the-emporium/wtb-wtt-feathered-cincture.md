@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1987" data-author="Briar" data-date="2004-09-20T06:47:40+00:00">
+<div class="post" data-post-id="1987" data-author="Briar" data-date="2004-09-20T06:47:40+00:00" data-subject="wtb/wtt: feathered cincture">
 
 looking for a feathered cincture
 

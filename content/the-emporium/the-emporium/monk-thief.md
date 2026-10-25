@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35783" data-author="Hung" data-date="2015-04-01T08:22:37+00:00">
+<div class="post" data-post-id="35783" data-author="Hung" data-date="2015-04-01T08:22:37+00:00" data-subject="Monk-Thief">
 
 1) Hand dam mode
 
@@ -220,7 +220,7 @@ Starting price: 25m
 
 </div>
 
-<div class="post" data-post-id="36316" data-author="Hung" data-date="2015-12-15T19:14:00+00:00">
+<div class="post" data-post-id="36316" data-author="Hung" data-date="2015-12-15T19:14:00+00:00" data-subject="Re: Monk-Thief">
 
 Most of eq has gone away. Therefore the price goes down to 15m. But the char is still for sale.
 

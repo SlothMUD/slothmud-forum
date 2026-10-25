@@ -10,7 +10,7 @@ locked: false
 post_count: 47
 ---
 
-<div class="post" data-post-id="23716" data-author="jezer" data-date="2008-04-14T00:26:20+00:00">
+<div class="post" data-post-id="23716" data-author="jezer" data-date="2008-04-14T00:26:20+00:00" data-subject="Hitting teh Big Mobs">
 
 Ok, all you _experts_... Iâ€™d like advice on how to solo some bigger/thicker/harder hitting mobsâ€¦ for instance Pheonix in Arbo and Mayor Galio. Yes, I know how to use a nightmareâ€¦ but more specifically to the pointâ€¦ Iâ€™m wondering how to get better effective use of my mana.
 
@@ -38,7 +38,7 @@ Ok, Fire at will! (no Aaronâ€¦ Iâ€™m not inviting you to abuse Leaf, mo
 
 </div>
 
-<div class="post" data-post-id="23717" data-author="Rynquald" data-date="2008-04-14T01:05:37+00:00">
+<div class="post" data-post-id="23717" data-author="Rynquald" data-date="2008-04-14T01:05:37+00:00" data-subject="">
 
 The best way start a shifted kill primarily depends on whether the mob in question actually has any chance of missing. Assuming it does, it's normally most efficient to fog the room (taking advantage of the fact that forms have high enough hit that you're not likely to miss most mobs even with fog up) and toss a damn/curse.
 
@@ -58,7 +58,7 @@ Edit:As you fight bigger and bigger mobs, and get more mana, you will start runn
 
 </div>
 
-<div class="post" data-post-id="23718" data-author="jezer" data-date="2008-04-14T01:48:11+00:00">
+<div class="post" data-post-id="23718" data-author="jezer" data-date="2008-04-14T01:48:11+00:00" data-subject="">
 
 Thanks Ryn, it's nice to get specific information on the questions.
 
@@ -88,7 +88,7 @@ Hmm, be nice to hear from king strides or stryx...
 
 </div>
 
-<div class="post" data-post-id="23719" data-author="brady" data-date="2008-04-14T02:03:31+00:00">
+<div class="post" data-post-id="23719" data-author="brady" data-date="2008-04-14T02:03:31+00:00" data-subject="">
 
 I remember trying to dispel Solarian before runs... It landed but seem to have little to no consequence on how long the fight took. I didn't bother after then... Maybe nothing good came off him. [/quote:3nw6d53v]
 
@@ -96,7 +96,7 @@ The Solarian has a spellshield that won't dispel fully with a single casting.  U
 
 </div>
 
-<div class="post" data-post-id="23722" data-author="jezer" data-date="2008-04-14T05:09:47+00:00">
+<div class="post" data-post-id="23722" data-author="jezer" data-date="2008-04-14T05:09:47+00:00" data-subject="">
 
 I've never really figured this one out... the whole... Darkness... Fog... Dark Cloak... Wearing Light... Mobs fighting blind etc.
 
@@ -110,13 +110,13 @@ Discuss...
 
 </div>
 
-<div class="post" data-post-id="23723" data-author="Evergreen" data-date="2008-04-14T06:09:23+00:00">
+<div class="post" data-post-id="23723" data-author="Evergreen" data-date="2008-04-14T06:09:23+00:00" data-subject="">
 
 galio has damn good saves, sometimes you need 10x to land a damnation on him
 
 </div>
 
-<div class="post" data-post-id="23725" data-author="jezer" data-date="2008-04-14T11:52:02+00:00">
+<div class="post" data-post-id="23725" data-author="jezer" data-date="2008-04-14T11:52:02+00:00" data-subject="">
 
 Evergreen is right, saves on this mob are incredible, debuffs are a waste of time for solo.
 
@@ -176,7 +176,7 @@ Here is the surprising part... next run I just breathed fire at mayor. It took m
 
 </div>
 
-<div class="post" data-post-id="23727" data-author="Leaf" data-date="2008-04-14T12:55:17+00:00">
+<div class="post" data-post-id="23727" data-author="Leaf" data-date="2008-04-14T12:55:17+00:00" data-subject="">
 
 Jezer did I read right ... You do not user Greater Fluid if u have shield of thorns?
 
@@ -188,13 +188,13 @@ as a prime spell only.  Since anyone that has druid in 2-4 can cast fluid.
 
 </div>
 
-<div class="post" data-post-id="23728" data-author="jezer" data-date="2008-04-14T13:19:28+00:00">
+<div class="post" data-post-id="23728" data-author="jezer" data-date="2008-04-14T13:19:28+00:00" data-subject="">
 
 I use greater fluid almost perm... but sometimes I'm scratching my head why. I don't see much difference. It would be the first thing I'd want to know about, if sloth was a bit more free with information.
 
 </div>
 
-<div class="post" data-post-id="23729" data-author="Autolycos" data-date="2008-04-14T14:38:31+00:00">
+<div class="post" data-post-id="23729" data-author="Autolycos" data-date="2008-04-14T14:38:31+00:00" data-subject="">
 
 if sloth was a bit more free with information.[/quote:1nnfmhmr]
 
@@ -202,7 +202,7 @@ The main reason sloth is not free with information is due to that most players n
 
 </div>
 
-<div class="post" data-post-id="23731" data-author="Vixn" data-date="2008-04-14T18:36:25+00:00">
+<div class="post" data-post-id="23731" data-author="Vixn" data-date="2008-04-14T18:36:25+00:00" data-subject="">
 
 If they made info available, everyone would pick out the inconsistencies and bad coding.[/quote:1a99s50u]
 
@@ -210,7 +210,7 @@ ROGL!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23734" data-author="*juggleblood*" data-date="2008-04-14T23:36:03+00:00">
+<div class="post" data-post-id="23734" data-author="*juggleblood*" data-date="2008-04-14T23:36:03+00:00" data-subject="">
 
 galio has damn good saves, sometimes you need 10x to land a damnation on him[/quote:639ag09n]
 
@@ -220,7 +220,7 @@ Galio is a pretty weak chop mob. You should be able to debuff him easily after u
 
 </div>
 
-<div class="post" data-post-id="23735" data-author="jezer" data-date="2008-04-14T23:49:58+00:00">
+<div class="post" data-post-id="23735" data-author="jezer" data-date="2008-04-14T23:49:58+00:00" data-subject="">
 
 It could be quite a laugh, to run some tests on some spells to gauge there effectiveness... A bit like "myth busters" on sloth. Yeah, people been doing it for ages I guess... but would be cool to start like a journal or newspaper on the crier about them.
 
@@ -236,7 +236,7 @@ I also tried that fog spell and it disappeared in like two ticks, and that's abo
 
 </div>
 
-<div class="post" data-post-id="23736" data-author="jezer" data-date="2008-04-14T23:53:36+00:00">
+<div class="post" data-post-id="23736" data-author="jezer" data-date="2008-04-14T23:53:36+00:00" data-subject="">
 
 Heh, try dispelling him first. He's prolly just got prot from evil up, like the lammasus and semielves in elemental school. I always get the damn on one try after a dispel.
 
@@ -246,7 +246,7 @@ Hmm, thanks, I'll give this a shot too... is his sanct perm? Cause if I could ha
 
 </div>
 
-<div class="post" data-post-id="23737" data-author="Zukt" data-date="2008-04-14T23:54:43+00:00">
+<div class="post" data-post-id="23737" data-author="Zukt" data-date="2008-04-14T23:54:43+00:00" data-subject="">
 
 I use greater fluid almost perm... but sometimes I'm scratching my head why. I don't see much difference. It would be the first thing I'd want to know about, if sloth was a bit more free with information.[/quote:2sqc7cf5]
 
@@ -254,7 +254,7 @@ Greater fluidity is 20% reduced damage from hits. Its a pretty major difference.
 
 </div>
 
-<div class="post" data-post-id="23738" data-author="jezer" data-date="2008-04-14T23:57:09+00:00">
+<div class="post" data-post-id="23738" data-author="jezer" data-date="2008-04-14T23:57:09+00:00" data-subject="">
 
 I use greater fluid almost perm... but sometimes I'm scratching my head why. I don't see much difference. It would be the first thing I'd want to know about, if sloth was a bit more free with information.[/quote:2ebbnwdo]
 
@@ -264,7 +264,7 @@ Greater fluidity is 20% reduced damage from hits. Its a pretty major difference.
 
 </div>
 
-<div class="post" data-post-id="23746" data-author="jezer" data-date="2008-04-15T08:29:39+00:00">
+<div class="post" data-post-id="23746" data-author="jezer" data-date="2008-04-15T08:29:39+00:00" data-subject="">
 
 galio has damn good saves, sometimes you need 10x to land a damnation on him[/quote:vkg52ncr]
 
@@ -276,7 +276,7 @@ Masterful dispels do nothing to Galio. Damn went awry. Maybe your just lucky.
 
 </div>
 
-<div class="post" data-post-id="23748" data-author="Yasik2" data-date="2008-04-15T08:33:43+00:00">
+<div class="post" data-post-id="23748" data-author="Yasik2" data-date="2008-04-15T08:33:43+00:00" data-subject="">
 
 Shield of Thorns is DamReduction spell, can be broken by mob's hits just like Bone Armor.
 
@@ -284,7 +284,7 @@ Druid-prime spell.
 
 </div>
 
-<div class="post" data-post-id="23756" data-author="Fable" data-date="2008-04-15T15:50:44+00:00">
+<div class="post" data-post-id="23756" data-author="Fable" data-date="2008-04-15T15:50:44+00:00" data-subject="">
 
 Nodz I'm not sure the exact % for Shield of Thorns, but I believe it does 
 
@@ -292,7 +292,7 @@ stack.  So this does help you Jezer!
 
 </div>
 
-<div class="post" data-post-id="23766" data-author="*juggleblood*" data-date="2008-04-15T22:21:57+00:00">
+<div class="post" data-post-id="23766" data-author="*juggleblood*" data-date="2008-04-15T22:21:57+00:00" data-subject="">
 
 Masterful dispels do nothing to Galio. Damn went awry. Maybe your just lucky.[/quote:1t9go8ui]
 
@@ -300,7 +300,7 @@ OOps. You're right, it's not dispellable.
 
 </div>
 
-<div class="post" data-post-id="23774" data-author="Medios" data-date="2008-04-16T02:27:29+00:00">
+<div class="post" data-post-id="23774" data-author="Medios" data-date="2008-04-16T02:27:29+00:00" data-subject="">
 
 I havent had much time lately to play but I am still voting.
 
@@ -308,7 +308,7 @@ So you think we are going to give all the secrets away?  Be happy that you can 4
 
 </div>
 
-<div class="post" data-post-id="23775" data-author="jezer" data-date="2008-04-16T02:47:34+00:00">
+<div class="post" data-post-id="23775" data-author="jezer" data-date="2008-04-16T02:47:34+00:00" data-subject="">
 
 So you think we are going to give all the secrets away?  Be happy that you can 4 run him :P[/quote:2mibbgu4]
 
@@ -324,7 +324,7 @@ I've heard avatar warriors talk about mayor being two runs... I'm not at the hei
 
 </div>
 
-<div class="post" data-post-id="23780" data-author="brady" data-date="2008-04-16T13:04:10+00:00">
+<div class="post" data-post-id="23780" data-author="brady" data-date="2008-04-16T13:04:10+00:00" data-subject="">
 
 At least with the pirates, everyone sucks, and everyone's a n00b, but they help you anyways :twisted:
 
@@ -334,7 +334,7 @@ Oh yeah?  I wouldn't expect much help now, Corky.
 
 </div>
 
-<div class="post" data-post-id="23781" data-author="jezer" data-date="2008-04-16T13:29:40+00:00">
+<div class="post" data-post-id="23781" data-author="jezer" data-date="2008-04-16T13:29:40+00:00" data-subject="">
 
 Hmm, I just realised they are two ways to take my remark, and you took it the wrong way :) Oh, man, I dug myself a hole there didn't I.  :oops:
 
@@ -344,7 +344,7 @@ You play with fire, you get burned...  :oops: I'm sorry. How embarrassing...
 
 </div>
 
-<div class="post" data-post-id="23787" data-author="Avatar" data-date="2008-04-16T17:27:49+00:00">
+<div class="post" data-post-id="23787" data-author="Avatar" data-date="2008-04-16T17:27:49+00:00" data-subject="Helping others">
 
 [quote:2qayhsr5]My experience with DoW has been 50% (Haha your a n00b you suck) 40% (Indifference) and 10% help when I needed it! [/quote:2qayhsr5]
 
@@ -362,7 +362,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="23792" data-author="Yinao" data-date="2008-04-16T19:06:20+00:00">
+<div class="post" data-post-id="23792" data-author="Yinao" data-date="2008-04-16T19:06:20+00:00" data-subject="">
 
 Hmm, I just realised they are two ways to take my remark, and you took it the wrong way :) Oh, man, I dug myself a hole there didn't I.  :oops:
 
@@ -374,7 +374,7 @@ Dont worry Jezer, Nancy just has a short fuse is all, rub her belly and she'll b
 
 </div>
 
-<div class="post" data-post-id="23801" data-author="jezer" data-date="2008-04-17T00:10:38+00:00">
+<div class="post" data-post-id="23801" data-author="jezer" data-date="2008-04-17T00:10:38+00:00" data-subject="">
 
 Yeah a lot of truth in your comments Charles.
 
@@ -386,7 +386,7 @@ Things are getting better, I've never ever pulled down a solo mob bigger than 5 
 
 </div>
 
-<div class="post" data-post-id="23803" data-author="Rynquald" data-date="2008-04-17T00:29:08+00:00">
+<div class="post" data-post-id="23803" data-author="Rynquald" data-date="2008-04-17T00:29:08+00:00" data-subject="">
 
 As willing as I am to provide information where I can, there really is no substitute for creating your own style through a lot of trial and error. One player's tactics aren't always going to work for another.
 
@@ -396,13 +396,13 @@ I'm most certainly not including myself in the aforementioned "best" category, b
 
 </div>
 
-<div class="post" data-post-id="23813" data-author="alias" data-date="2008-04-17T03:18:55+00:00">
+<div class="post" data-post-id="23813" data-author="alias" data-date="2008-04-17T03:18:55+00:00" data-subject="">
 
 Not too many other people Ive seen solo djab there ryn, I Would call you one of the best.
 
 </div>
 
-<div class="post" data-post-id="23814" data-author="jezer" data-date="2008-04-17T03:49:31+00:00">
+<div class="post" data-post-id="23814" data-author="jezer" data-date="2008-04-17T03:49:31+00:00" data-subject="">
 
 Hehe, I'll be checking sloth blog to see how many avatars die at djab in the next few days, trying to figure out if they are as good as ryn.  :D
 
@@ -410,7 +410,7 @@ $5 says Yinao has a shot  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23815" data-author="Rynquald" data-date="2008-04-17T04:38:30+00:00">
+<div class="post" data-post-id="23815" data-author="Rynquald" data-date="2008-04-17T04:38:30+00:00" data-subject="">
 
 Yinao's already done Djab :)
 
@@ -418,13 +418,13 @@ Thanks btw Alias.
 
 </div>
 
-<div class="post" data-post-id="23816" data-author="jezer" data-date="2008-04-17T04:51:38+00:00">
+<div class="post" data-post-id="23816" data-author="jezer" data-date="2008-04-17T04:51:38+00:00" data-subject="">
 
 Has Yinao done eternal flame yet Ryn? It was just a couple of runs for you right? :lol:  :wink:
 
 </div>
 
-<div class="post" data-post-id="23817" data-author="Rynquald" data-date="2008-04-17T05:09:52+00:00">
+<div class="post" data-post-id="23817" data-author="Rynquald" data-date="2008-04-17T05:09:52+00:00" data-subject="">
 
 Neither Yin nor me have soloed flame, but we two manned it once.
 
@@ -442,7 +442,7 @@ Everything The eternal flame was carrying suddenly drops to the ground.
 
 </div>
 
-<div class="post" data-post-id="23837" data-author="Medios" data-date="2008-04-18T00:59:05+00:00">
+<div class="post" data-post-id="23837" data-author="Medios" data-date="2008-04-18T00:59:05+00:00" data-subject="">
 
 First of all, just because DoW doesn't pop your spellbooks or tell you what eq you need and then help you pop it doesn't mean were all a bunch of dicks.  I spend quite a bit of time rescuing people that I could otherwise be using to horde these hidden coin runs.  I refuse to show everyone every step of the way.  Like Ryn says if your looted or need a cr I am sure you can find someone.  If your looking for someone to hold your hand or wipe your ass, I am sorry for you.
 
@@ -450,7 +450,7 @@ Secondly what do we owe you?  The game is meant for you to learn.  Not for us to
 
 </div>
 
-<div class="post" data-post-id="23839" data-author="jezer" data-date="2008-04-18T01:46:33+00:00">
+<div class="post" data-post-id="23839" data-author="jezer" data-date="2008-04-18T01:46:33+00:00" data-subject="">
 
 Last night I was shifted ferret, and tried to get past a blocking mob. The Tarantula in Gosseriuertjertj-on-the-somethingarather.
 
@@ -458,13 +458,13 @@ It attacked and killed me in a round. Ok, lessoned learned, block mobs block fer
 
 </div>
 
-<div class="post" data-post-id="23840" data-author="Rynquald" data-date="2008-04-18T02:11:44+00:00">
+<div class="post" data-post-id="23840" data-author="Rynquald" data-date="2008-04-18T02:11:44+00:00" data-subject="">
 
 Not many blocking mobs will block ferret, and very, very few block-aggro mobs will attack it on block. I've never found a block-aggro mob that will attack when you try to flee past in ferret though, and you'll normally get through.
 
 </div>
 
-<div class="post" data-post-id="23850" data-author="Stryx" data-date="2008-04-18T12:03:51+00:00">
+<div class="post" data-post-id="23850" data-author="Stryx" data-date="2008-04-18T12:03:51+00:00" data-subject="">
 
 [quote:j831la3c]No I don't expect the DoW Clan to help me with info at all. My experience with DoW has been 50% (Haha your a n00b you suck) 40% (Indifference) and 10% help when I needed it! 
 
@@ -480,7 +480,7 @@ My advice to you is to get 5x40, mana eq and ac shift eq, then go out and 'learn
 
 </div>
 
-<div class="post" data-post-id="23853" data-author="Yinao" data-date="2008-04-18T13:53:22+00:00">
+<div class="post" data-post-id="23853" data-author="Yinao" data-date="2008-04-18T13:53:22+00:00" data-subject="">
 
 [quote:11vy8fll]A thick beam of frost sprays forth from your body, hitting The eternal flame square in the chest.
 
@@ -510,13 +510,13 @@ Yin
 
 </div>
 
-<div class="post" data-post-id="23855" data-author="Weasel" data-date="2008-04-18T14:14:06+00:00">
+<div class="post" data-post-id="23855" data-author="Weasel" data-date="2008-04-18T14:14:06+00:00" data-subject="">
 
 heh.. I tried to solo eternal flame ..bad move.
 
 </div>
 
-<div class="post" data-post-id="23859" data-author="Sheng" data-date="2008-04-18T17:15:08+00:00">
+<div class="post" data-post-id="23859" data-author="Sheng" data-date="2008-04-18T17:15:08+00:00" data-subject="">
 
 It was 197 mil when I soloed it... mud must have been up longer.
 
@@ -524,7 +524,7 @@ Took me 8 runs though, ouch!  Also, it was during a house of major frost.  Alway
 
 </div>
 
-<div class="post" data-post-id="23975" data-author="jezer" data-date="2008-04-23T23:59:18+00:00">
+<div class="post" data-post-id="23975" data-author="jezer" data-date="2008-04-23T23:59:18+00:00" data-subject="">
 
 Last night I found myself leading a 3 man around SS. Such a big difference between "shift soloing" mobs and trying to run them with a group mindset. I found that if I didn't shift, the 3 of us could only kill about as much as what I do on one of my shifted runs. All mana was put into keeping the tank alive, instead of killing the mob, like with shift.
 
@@ -538,7 +538,7 @@ How do you suggest odd classo like this run together..? I need some advice. (I c
 
 </div>
 
-<div class="post" data-post-id="23995" data-author="alias" data-date="2008-04-24T02:33:45+00:00">
+<div class="post" data-post-id="23995" data-author="alias" data-date="2008-04-24T02:33:45+00:00" data-subject="">
 
 hello mcfly.....
 
@@ -550,31 +550,31 @@ in the case of your previous group, u and the tank split dam....necro debuff and
 
 </div>
 
-<div class="post" data-post-id="23997" data-author="Weasel" data-date="2008-04-24T02:35:51+00:00">
+<div class="post" data-post-id="23997" data-author="Weasel" data-date="2008-04-24T02:35:51+00:00" data-subject="">
 
 'supposed to' being the operative words..  :wink:
 
 </div>
 
-<div class="post" data-post-id="23999" data-author="jezer" data-date="2008-04-24T02:45:52+00:00">
+<div class="post" data-post-id="23999" data-author="jezer" data-date="2008-04-24T02:45:52+00:00" data-subject="">
 
 If my shield of thorns is still up... and don't blink cause you might miss it... I'd back myself as taking less dam than a monk or a warrior!
 
 </div>
 
-<div class="post" data-post-id="24003" data-author="Gimlet" data-date="2008-04-24T03:25:08+00:00">
+<div class="post" data-post-id="24003" data-author="Gimlet" data-date="2008-04-24T03:25:08+00:00" data-subject="">
 
 seriously, just learn to play instead of spamming the board with your retarded crap
 
 </div>
 
-<div class="post" data-post-id="24004" data-author="brady" data-date="2008-04-24T03:27:08+00:00">
+<div class="post" data-post-id="24004" data-author="brady" data-date="2008-04-24T03:27:08+00:00" data-subject="">
 
 :twisted:
 
 </div>
 
-<div class="post" data-post-id="24006" data-author="jezer" data-date="2008-04-24T03:40:57+00:00">
+<div class="post" data-post-id="24006" data-author="jezer" data-date="2008-04-24T03:40:57+00:00" data-subject="">
 
 seriously, just learn to play instead of spamming the board with your retarded crap[/quote:2fc4143u]
 

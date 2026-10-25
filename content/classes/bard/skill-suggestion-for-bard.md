@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="7841" data-author="Firon" data-date="2005-07-12T03:57:39+00:00">
+<div class="post" data-post-id="7841" data-author="Firon" data-date="2005-07-12T03:57:39+00:00" data-subject="Skill suggestion for bard">
 
 Since the bard class seems to combine thief skills and spells/songs what about giving them a single stab either in the teens or 20s as a skill?
 
@@ -18,13 +18,13 @@ I don't think a single would be too overpowering but give me your responses/thou
 
 </div>
 
-<div class="post" data-post-id="7842" data-author="Vixn" data-date="2005-07-12T05:33:49+00:00">
+<div class="post" data-post-id="7842" data-author="Vixn" data-date="2005-07-12T05:33:49+00:00" data-subject="">
 
 Bard has lots of mage spells, +dam song (and effect of this song lasts some time after singing). So it will be th/ma style classo with good ac (ba rolls Dex first). Maybe it won't be overpower b/c ppl who played th/ma know that it isn't so easy as it seems. But I guess immortals fear this mighty combination.
 
 </div>
 
-<div class="post" data-post-id="7852" data-author="impz" data-date="2005-07-12T13:56:51+00:00">
+<div class="post" data-post-id="7852" data-author="impz" data-date="2005-07-12T13:56:51+00:00" data-subject="Single stab for bards">
 
 i was just about to post something about that, so i personally feel that a single stab for bards on level 20 sounds good to me.
 
@@ -32,7 +32,7 @@ No idea about the others
 
 </div>
 
-<div class="post" data-post-id="7853" data-author="Alberich" data-date="2005-07-12T14:19:44+00:00">
+<div class="post" data-post-id="7853" data-author="Alberich" data-date="2005-07-12T14:19:44+00:00" data-subject="">
 
 I fail to see how poking things with sharp objects falls under the realm of 'bardish abilities', or what possible use a singlestab could have anyways.  Most people with bard in classo if they plan on soloing would have monk or thief anyways.
 
@@ -42,7 +42,7 @@ I don't see how it would hurt or be overpowered, but it seems kinda silly.
 
 </div>
 
-<div class="post" data-post-id="7855" data-author="12345" data-date="2005-07-12T15:16:24+00:00">
+<div class="post" data-post-id="7855" data-author="12345" data-date="2005-07-12T15:16:24+00:00" data-subject="">
 
 Traditionally, thieves are the only class that can backstab.  
 
@@ -52,7 +52,7 @@ So I guess I don't know where you'd go with it if you got it.
 
 </div>
 
-<div class="post" data-post-id="7856" data-author="Gnu" data-date="2005-07-12T15:27:14+00:00">
+<div class="post" data-post-id="7856" data-author="Gnu" data-date="2005-07-12T15:27:14+00:00" data-subject="">
 
 single stab is not of much use for bards! 
 
@@ -62,7 +62,7 @@ And I'd like to repeat again: let CHARISMA points affect CHARM spell or may be m
 
 </div>
 
-<div class="post" data-post-id="7870" data-author="Ditheca" data-date="2005-07-13T10:48:21+00:00">
+<div class="post" data-post-id="7870" data-author="Ditheca" data-date="2005-07-13T10:48:21+00:00" data-subject="">
 
 The days of charming baron drezmir and having him ambush the demogorgon are long gone, never to return.
 
@@ -72,7 +72,7 @@ Charm/Control have joined the ranks of the dead spells
 
 </div>
 
-<div class="post" data-post-id="7883" data-author=".kitn" data-date="2005-07-14T03:08:14+00:00">
+<div class="post" data-post-id="7883" data-author=".kitn" data-date="2005-07-14T03:08:14+00:00" data-subject="">
 
 The days of charming baron drezmir and having him ambush the demogorgon are long gone, never to return.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11910" data-author="kjartan" data-date="2006-04-02T14:57:54+00:00">
+<div class="post" data-post-id="11910" data-author="kjartan" data-date="2006-04-02T14:57:54+00:00" data-subject="New Warrior Skill: Oaths and Vows">
 
 (Since the news seems to be down today)
 

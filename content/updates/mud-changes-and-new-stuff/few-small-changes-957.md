@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5174" data-author="*Splork*" data-date="2005-03-18T17:31:50+00:00">
+<div class="post" data-post-id="5174" data-author="*Splork*" data-date="2005-03-18T17:31:50+00:00" data-subject="few small changes">
 
 1) New spell called Hedge maze. Thank Enea for the addition...
 

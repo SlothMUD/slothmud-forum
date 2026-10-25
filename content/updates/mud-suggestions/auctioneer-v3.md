@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="38965" data-author="*Breeze*" data-date="2018-08-28T18:23:25+00:00">
+<div class="post" data-post-id="38965" data-author="*Breeze*" data-date="2018-08-28T18:23:25+00:00" data-subject="Auctioneer v3">
 
 I am currently redoing the auctioneer..
 
@@ -44,7 +44,7 @@ Writing from my mobile so can't make post more coherent atm.
 
 </div>
 
-<div class="post" data-post-id="38966" data-author="Driven" data-date="2018-08-28T20:59:26+00:00">
+<div class="post" data-post-id="38966" data-author="Driven" data-date="2018-08-28T20:59:26+00:00" data-subject="Re: Auctioneer v3">
 
 I love these ideas.  Please add a batch cancel of all items you currently have on auction... this is particularly useful at token auctioneers when a friend want to roll and you want to give him your tokens you have on auction.  
 
@@ -52,7 +52,7 @@ Could we also add prepaid wanted ads to the auctioneer?  As in, I want Aventurin
 
 </div>
 
-<div class="post" data-post-id="38967" data-author="*Breeze*" data-date="2018-08-29T03:44:03+00:00">
+<div class="post" data-post-id="38967" data-author="*Breeze*" data-date="2018-08-29T03:44:03+00:00" data-subject="Re: Auctioneer v3">
 
 The only problem there is that if there is anything with a similar then it could be abused..
 
@@ -62,7 +62,7 @@ But let me think on it...
 
 </div>
 
-<div class="post" data-post-id="38968" data-author="Teron" data-date="2018-08-30T14:43:29+00:00">
+<div class="post" data-post-id="38968" data-author="Teron" data-date="2018-08-30T14:43:29+00:00" data-subject="Re: Auctioneer v3">
 
 These changes have been in the air for ages.
 
@@ -74,7 +74,7 @@ Wanted ad is a good idea as well: people could post eq they need and people migh
 
 </div>
 
-<div class="post" data-post-id="38969" data-author="Ezekiel" data-date="2018-08-30T20:07:57+00:00">
+<div class="post" data-post-id="38969" data-author="Ezekiel" data-date="2018-08-30T20:07:57+00:00" data-subject="Re: Auctioneer v3">
 
 Agreed with Driven and T. Please enable at least batch cancels for hexes/octs/gems, if not a cancel all function. Wanted ads seem like a great idea. It would then give the auctioneer full functionality to cover what the auction board thread used to actually do.
 
@@ -90,7 +90,7 @@ Thanks for all the hard work!
 
 </div>
 
-<div class="post" data-post-id="38970" data-author="Teron" data-date="2018-09-01T14:17:26+00:00">
+<div class="post" data-post-id="38970" data-author="Teron" data-date="2018-09-01T14:17:26+00:00" data-subject="Re: Auctioneer v3">
 
 One other thing: gem trades.
 
@@ -112,7 +112,7 @@ Still, an automated system for gem trading would ease the process and show the i
 
 </div>
 
-<div class="post" data-post-id="38978" data-author="*Breeze*" data-date="2018-09-25T18:41:58+00:00">
+<div class="post" data-post-id="38978" data-author="*Breeze*" data-date="2018-09-25T18:41:58+00:00" data-subject="Re: Auctioneer v3">
 
 Not so (QUICK) update
 
@@ -273,7 +273,7 @@ AUCTIONS = {
 
 </div>
 
-<div class="post" data-post-id="38986" data-author="*Breeze*" data-date="2018-09-30T13:39:17+00:00">
+<div class="post" data-post-id="38986" data-author="*Breeze*" data-date="2018-09-30T13:39:17+00:00" data-subject="Re: Auctioneer v3">
 
 because, who doesnt like screenies ?
 

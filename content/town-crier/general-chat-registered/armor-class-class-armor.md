@@ -10,7 +10,7 @@ locked: false
 post_count: 29
 ---
 
-<div class="post" data-post-id="16389" data-author="brand" data-date="2007-01-20T07:21:44+00:00">
+<div class="post" data-post-id="16389" data-author="brand" data-date="2007-01-20T07:21:44+00:00" data-subject="Armor Class...Class Armor">
 
 i just wanted to get in on the "this is not such a good idea" bandwagon.
 
@@ -28,7 +28,7 @@ postscript:  if i just imagined this whole thing...well then just ignore this!
 
 </div>
 
-<div class="post" data-post-id="16395" data-author="13" data-date="2007-01-20T13:59:05+00:00">
+<div class="post" data-post-id="16395" data-author="13" data-date="2007-01-20T13:59:05+00:00" data-subject="">
 
 [quote:4a6q0sq0]it would outdate alot of players...[/quote:4a6q0sq0]
 
@@ -36,7 +36,7 @@ Only the ones too lazy to upgrade their eq, or their stats THEN their eq.  12 is
 
 </div>
 
-<div class="post" data-post-id="16397" data-author="alias" data-date="2007-01-20T17:04:57+00:00">
+<div class="post" data-post-id="16397" data-author="alias" data-date="2007-01-20T17:04:57+00:00" data-subject="">
 
 Im sorry but unless new eq comes out I don't see how I will make -12.
 
@@ -46,7 +46,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="16399" data-author="Autolycos" data-date="2007-01-20T18:44:29+00:00">
+<div class="post" data-post-id="16399" data-author="Autolycos" data-date="2007-01-20T18:44:29+00:00" data-subject="">
 
 i'm sorry to have to repeat this again.. but...
 
@@ -64,7 +64,7 @@ progress keeps a rollin!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16400" data-author="Avatar" data-date="2007-01-20T19:07:55+00:00">
+<div class="post" data-post-id="16400" data-author="Avatar" data-date="2007-01-20T19:07:55+00:00" data-subject="AC">
 
 AC is cool, especially if new eq comes around with warrior-only restricts.
 
@@ -72,7 +72,7 @@ Even without new eq, I figure an old-class tank can get to -12 AC without any fo
 
 </div>
 
-<div class="post" data-post-id="16401" data-author="Autolycos" data-date="2007-01-20T19:11:55+00:00">
+<div class="post" data-post-id="16401" data-author="Autolycos" data-date="2007-01-20T19:11:55+00:00" data-subject="">
 
 i agree.. 
 
@@ -80,7 +80,7 @@ even though i hate to say this.. but maybe like the sword of valor.. there shoul
 
 </div>
 
-<div class="post" data-post-id="16405" data-author="brand" data-date="2007-01-20T21:42:11+00:00">
+<div class="post" data-post-id="16405" data-author="brand" data-date="2007-01-20T21:42:11+00:00" data-subject="">
 
 -11 a stretch i don't think most would agree with that.
 
@@ -102,7 +102,7 @@ again i'm just voting no... after the election no less, so whats it matter...
 
 </div>
 
-<div class="post" data-post-id="16406" data-author="Avatar" data-date="2007-01-20T21:48:41+00:00">
+<div class="post" data-post-id="16406" data-author="Avatar" data-date="2007-01-20T21:48:41+00:00" data-subject="AC changes">
 
 Mobs likely already had -11, -12, -13 AC.  It was probably bugged in the same ways that -11 for characters was.  Still, you can see some mobs have at least -11 AC by the miss messages.
 
@@ -114,7 +114,7 @@ At least now you can add +hit eq until those messages disappear for you, then yo
 
 </div>
 
-<div class="post" data-post-id="16409" data-author="13" data-date="2007-01-20T23:57:51+00:00">
+<div class="post" data-post-id="16409" data-author="13" data-date="2007-01-20T23:57:51+00:00" data-subject="">
 
 [quote:3g0fwu7u]who's the first to pony up a +2 dam light for a .4 ac light? [/quote:3g0fwu7u]
 
@@ -126,19 +126,19 @@ Toxis.
 
 </div>
 
-<div class="post" data-post-id="16410" data-author="12345" data-date="2007-01-21T01:33:10+00:00">
+<div class="post" data-post-id="16410" data-author="12345" data-date="2007-01-21T01:33:10+00:00" data-subject="">
 
 This will ultimately just serve as another way to tell the good tanks from the pros.  If you want to create a tank, you'll have to sacrifice quite a bit to get the AC you'll need.
 
 </div>
 
-<div class="post" data-post-id="16411" data-author="13" data-date="2007-01-21T01:57:09+00:00">
+<div class="post" data-post-id="16411" data-author="13" data-date="2007-01-21T01:57:09+00:00" data-subject="">
 
 Just some hp really.  And folks will have to not settle for shitty stats too.
 
 </div>
 
-<div class="post" data-post-id="16413" data-author="Qa" data-date="2007-01-21T02:12:19+00:00">
+<div class="post" data-post-id="16413" data-author="Qa" data-date="2007-01-21T02:12:19+00:00" data-subject="">
 
 This will ultimately just serve as another way to tell the good tanks from the pros.[/quote:1r0c631t]
 
@@ -158,19 +158,19 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="16420" data-author="Kong" data-date="2007-01-21T06:58:20+00:00">
+<div class="post" data-post-id="16420" data-author="Kong" data-date="2007-01-21T06:58:20+00:00" data-subject="">
 
 Honestly, does it really make since for a class other than a warrior to tank?  I mean thats what the class is supposed to do best.  Do you hear tanks whining that they can't heal as well as a cleric prime?  Its just what the class is built to do. Clerics heal, mages blast, warrriors tank, bards sing, druids do what ever. You get the idea.
 
 </div>
 
-<div class="post" data-post-id="16421" data-author="Guinex" data-date="2007-01-21T08:35:38+00:00">
+<div class="post" data-post-id="16421" data-author="Guinex" data-date="2007-01-21T08:35:38+00:00" data-subject="">
 
 I concur, and Guinexs play with corpses.
 
 </div>
 
-<div class="post" data-post-id="16422" data-author="Weasel" data-date="2007-01-21T10:06:10+00:00">
+<div class="post" data-post-id="16422" data-author="Weasel" data-date="2007-01-21T10:06:10+00:00" data-subject="Re: AC">
 
 Even without new eq, I figure an old-class tank can get to -12 AC without any forges. [/quote:3cfh44i2]
 
@@ -180,7 +180,7 @@ Really? How do you figure that?  :shock:  ..seems a tough call even with current
 
 </div>
 
-<div class="post" data-post-id="16423" data-author="Avatar" data-date="2007-01-21T12:58:16+00:00">
+<div class="post" data-post-id="16423" data-author="Avatar" data-date="2007-01-21T12:58:16+00:00" data-subject="AC changes">
 
 Qa, I used to argue against the same thing.  Prime-only abilities were the first sign of a change in sloth direction.  Now, in addition to those prime-only abilities there are many spells / skills that work differently depending on where a class is within your classo.
 
@@ -190,7 +190,7 @@ I would still argue against this as a strategic direction for sloth, but noone s
 
 </div>
 
-<div class="post" data-post-id="16424" data-author="Avatar" data-date="2007-01-21T13:04:51+00:00">
+<div class="post" data-post-id="16424" data-author="Avatar" data-date="2007-01-21T13:04:51+00:00" data-subject="AC changes">
 
 Check my math, maybe I figured something incorrectly.
 
@@ -234,7 +234,7 @@ This should all total 14.1 ac.  Add -4 for Dex and -4 for Iron = 22.1.
 
 </div>
 
-<div class="post" data-post-id="16427" data-author="13" data-date="2007-01-21T16:09:30+00:00">
+<div class="post" data-post-id="16427" data-author="13" data-date="2007-01-21T16:09:30+00:00" data-subject="">
 
 Well right off the bat the only real ac gains in this set are .4 ring/neck gain
 
@@ -246,7 +246,7 @@ I would look at Holy EQ and drachma EQ for the ac gain instead of losing stats.
 
 </div>
 
-<div class="post" data-post-id="16430" data-author="12345" data-date="2007-01-21T18:38:17+00:00">
+<div class="post" data-post-id="16430" data-author="12345" data-date="2007-01-21T18:38:17+00:00" data-subject="">
 
 To be fair, helm of the dwarves is a forge, but the spiked helm or helm of the old ones are also -1.3.  And the strands are -30 spelldamage.
 
@@ -258,7 +258,7 @@ Definately not worth it for solo though.
 
 </div>
 
-<div class="post" data-post-id="16434" data-author="Avatar" data-date="2007-01-21T19:12:03+00:00">
+<div class="post" data-post-id="16434" data-author="Avatar" data-date="2007-01-21T19:12:03+00:00" data-subject="AC changes">
 
 Ahh, the helm yeah.  I've had it so long I forgot it was a forge.  Still, with the Helm of the Old Ones that's still -12 with no forges.  Actually, -12.1 and you could use the .1 ac weapon, and if you pray for a holy item you could get another .1 ac.  Use those to swap out the bracelets and 1 ring for .4 gear, and you'd be in pretty good shape.
 
@@ -266,7 +266,7 @@ I agree it's probably not the best idea for solo runs.  If you're tanking for 4 
 
 </div>
 
-<div class="post" data-post-id="16435" data-author="Weasel" data-date="2007-01-21T19:13:35+00:00">
+<div class="post" data-post-id="16435" data-author="Weasel" data-date="2007-01-21T19:13:35+00:00" data-subject="Re: AC changes">
 
 Check my math, maybe I figured something incorrectly.[/quote:lemekzof]
 
@@ -274,7 +274,7 @@ Yup, thanks Avatar, I stand corrected, that would get me to -12ac, although it's
 
 </div>
 
-<div class="post" data-post-id="16439" data-author="Autolycos" data-date="2007-01-21T19:27:19+00:00">
+<div class="post" data-post-id="16439" data-author="Autolycos" data-date="2007-01-21T19:27:19+00:00" data-subject="">
 
 > **"Qa wrote:**
 > This is just another step down the path of guaranteeing that none but Wa prime will ever tank in a medium to xx-large group.
@@ -293,13 +293,13 @@ would you want necros or mages to have a stab advantage over prime thieves?   DU
 
 </div>
 
-<div class="post" data-post-id="16441" data-author="13" data-date="2007-01-22T02:29:52+00:00">
+<div class="post" data-post-id="16441" data-author="13" data-date="2007-01-22T02:29:52+00:00" data-subject="">
 
 Were we talking about non prime warriors having an advantage?
 
 </div>
 
-<div class="post" data-post-id="16446" data-author="Autolycos" data-date="2007-01-22T04:54:08+00:00">
+<div class="post" data-post-id="16446" data-author="Autolycos" data-date="2007-01-22T04:54:08+00:00" data-subject="">
 
 no.. just a local fisherman out for a pleasure cruise at night....
 
@@ -307,7 +307,7 @@ through eel infested waters...  :roll:
 
 </div>
 
-<div class="post" data-post-id="16448" data-author="alias" data-date="2007-01-22T05:38:03+00:00">
+<div class="post" data-post-id="16448" data-author="alias" data-date="2007-01-22T05:38:03+00:00" data-subject="">
 
 wow that eq list looks nice cept for the -2 dam and -2 con and that I cant wear the bracelets cause of restrictions and I cant use the ac weapon because of restrictions too so hmm kinda shoots that theory.
 
@@ -317,7 +317,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="16457" data-author="Avatar" data-date="2007-01-22T14:26:45+00:00">
+<div class="post" data-post-id="16457" data-author="Avatar" data-date="2007-01-22T14:26:45+00:00" data-subject="Alias AC">
 
 If you can't wear two of the .5 items, think of a way around them.  The eq posted was already 12.1, so you only need .1 more to work with.
 
@@ -331,7 +331,7 @@ charles
 
 </div>
 
-<div class="post" data-post-id="16463" data-author="brand" data-date="2007-01-22T15:32:06+00:00">
+<div class="post" data-post-id="16463" data-author="brand" data-date="2007-01-22T15:32:06+00:00" data-subject="Re: Alias AC">
 
 The walls of jericho are probably the best pure ac item. [/quote:3dpy3t30]
 
@@ -341,7 +341,7 @@ walls of jericho is the best pure ac item... check
 
 </div>
 
-<div class="post" data-post-id="16476" data-author="Medios" data-date="2007-01-22T22:57:18+00:00">
+<div class="post" data-post-id="16476" data-author="Medios" data-date="2007-01-22T22:57:18+00:00" data-subject="">
 
 Has anyone ever thought that possibly imms are working on new eq.  A total restriction change for all the good stuff is not going to happen so give it up.  However I would think that in the future someone with some foreskin, err I mean foresight might put in some eq that will cater to warrior primes.  I notice a majority of the mud plays for the now, not for the future.  I dont know if your short sighted, greedy, or just cant plan ahead but its a huge downfall.  If you pick your class because you wanted to get a eudaemon at double 40 instead of trip40 or you wanted to wear titanium greaves at double 40 etc, your making a huge mistake.  There are alot of players here that I never thought was make it to avatar 40 and they have.  Eventually with some patience and time anyone can.  
 
@@ -355,7 +355,7 @@ PS How can Atwell be powerful without monk, without druid, omg without thief!!!!
 
 </div>
 
-<div class="post" data-post-id="16478" data-author="*Splork*" data-date="2007-01-22T23:26:05+00:00">
+<div class="post" data-post-id="16478" data-author="*Splork*" data-date="2007-01-22T23:26:05+00:00" data-subject="">
 
 Medios is correct, new eq will be coming very soon. Also, there are still plenty of new items we zoned a few months ago that have not been found. This goes for some quest eq that was zoned as one time pops also.
 

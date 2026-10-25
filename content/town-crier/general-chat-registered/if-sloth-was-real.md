@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="33588" data-author="jezer" data-date="2012-09-09T05:50:57+00:00">
+<div class="post" data-post-id="33588" data-author="jezer" data-date="2012-09-09T05:50:57+00:00" data-subject="If Sloth Was Real">
 
 Semi Precious quartz gem stones... are commonly found in the world as the silica in quartz is one of the most abundant minerals found on the earth. Quartz are broken up into groups depending on the size of there crystal structure. The quartz that has the smallest crystal size structure (microcrystalline) are often referred to as "Agates" and perhaps it is the Agates of the quartz gemstones that are the most prized. Although not being worth much, they are very colourful and fantastic to work as jewelery. They are 3-4 grades lower in the hardness scale than diamonds. They can be found on beaches and lakes and in the ground, even my own beach where I live... If you want to know if you can find them where you live, I might be able to help. Essentially the material of all these gemstones below is the same, it's how they present that decides the name. Orange Agate is Carnelian, if it's Red Agate its Jasper... etc etc
 
@@ -62,7 +62,7 @@ There is no relation in Sloth to the rareness of the gem in real life, and the r
 
 </div>
 
-<div class="post" data-post-id="33589" data-author="jezer" data-date="2012-09-09T05:52:05+00:00">
+<div class="post" data-post-id="33589" data-author="jezer" data-date="2012-09-09T05:52:05+00:00" data-subject="Re: If Sloth Was Real">
 
 Brothers in Valor...
 
@@ -70,7 +70,7 @@ http://www.youtube.com/watch?v=xI6TRTBZUMM
 
 </div>
 
-<div class="post" data-post-id="33590" data-author="jezer" data-date="2012-09-09T06:08:00+00:00">
+<div class="post" data-post-id="33590" data-author="jezer" data-date="2012-09-09T06:08:00+00:00" data-subject="Re: If Sloth Was Real">
 
 Gods of War...
 
@@ -78,7 +78,7 @@ Gods of War...
 
 </div>
 
-<div class="post" data-post-id="33591" data-author="jezer" data-date="2012-09-09T06:11:10+00:00">
+<div class="post" data-post-id="33591" data-author="jezer" data-date="2012-09-09T06:11:10+00:00" data-subject="Re: If Sloth Was Real">
 
 Owlbear
 
@@ -86,7 +86,7 @@ Owlbear
 
 </div>
 
-<div class="post" data-post-id="33596" data-author="jezer" data-date="2012-09-11T19:41:38+00:00">
+<div class="post" data-post-id="33596" data-author="jezer" data-date="2012-09-11T19:41:38+00:00" data-subject="Re: If Sloth Was Real">
 
 Lion Dance
 
@@ -94,7 +94,7 @@ http://www.youtube.com/watch?v=SMeOVxUOk2E
 
 </div>
 
-<div class="post" data-post-id="33597" data-author="jezer" data-date="2012-09-11T19:45:48+00:00">
+<div class="post" data-post-id="33597" data-author="jezer" data-date="2012-09-11T19:45:48+00:00" data-subject="Re: If Sloth Was Real">
 
 Newb Chopping Self
 
@@ -102,7 +102,7 @@ http://www.youtube.com/watch?v=qsEZ2lpM0Yw
 
 </div>
 
-<div class="post" data-post-id="33598" data-author="jezer" data-date="2012-09-11T19:49:49+00:00">
+<div class="post" data-post-id="33598" data-author="jezer" data-date="2012-09-11T19:49:49+00:00" data-subject="Re: If Sloth Was Real">
 
 Swiftkick
 
@@ -110,7 +110,7 @@ http://www.youtube.com/watch?v=Jrh-6XqkHpw
 
 </div>
 
-<div class="post" data-post-id="33599" data-author="jezer" data-date="2012-09-11T20:08:03+00:00">
+<div class="post" data-post-id="33599" data-author="jezer" data-date="2012-09-11T20:08:03+00:00" data-subject="Re: If Sloth Was Real">
 
 Newbatia Monk Guild
 
@@ -118,7 +118,7 @@ http://www.youtube.com/watch?v=jUi68aPYP5k
 
 </div>
 
-<div class="post" data-post-id="33600" data-author="jezer" data-date="2012-09-11T20:28:43+00:00">
+<div class="post" data-post-id="33600" data-author="jezer" data-date="2012-09-11T20:28:43+00:00" data-subject="Re: If Sloth Was Real">
 
 Bodyslam
 
@@ -126,7 +126,7 @@ Bodyslam
 
 </div>
 
-<div class="post" data-post-id="33604" data-author="jezer" data-date="2012-09-12T20:35:20+00:00">
+<div class="post" data-post-id="33604" data-author="jezer" data-date="2012-09-12T20:35:20+00:00" data-subject="Re: If Sloth Was Real">
 
 You eat a date.
 
@@ -138,7 +138,7 @@ A single Date, cure for hunger since 92.
 
 </div>
 
-<div class="post" data-post-id="33612" data-author="jezer" data-date="2012-09-16T22:46:52+00:00">
+<div class="post" data-post-id="33612" data-author="jezer" data-date="2012-09-16T22:46:52+00:00" data-subject="Re: If Sloth Was Real">
 
 I didn't get a gem.
 

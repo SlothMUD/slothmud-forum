@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="2274" data-author="Tetsulunathaya" data-date="2004-10-13T16:35:16+00:00">
+<div class="post" data-post-id="2274" data-author="Tetsulunathaya" data-date="2004-10-13T16:35:16+00:00" data-subject="Bard seeking Charisma items!">
 
 Want to buy (or trade for):
 
@@ -34,7 +34,7 @@ Tetsu
 
 </div>
 
-<div class="post" data-post-id="2310" data-author="Avatar" data-date="2004-10-14T10:54:01+00:00">
+<div class="post" data-post-id="2310" data-author="Avatar" data-date="2004-10-14T10:54:01+00:00" data-subject="White Silk Sleeves">
 
 I don't know if you know this already, but the white silk sleeves are restricted to cleric primes only.  No bards allowed!
 
@@ -42,13 +42,13 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="2311" data-author="Falsra" data-date="2004-10-14T11:06:45+00:00">
+<div class="post" data-post-id="2311" data-author="Falsra" data-date="2004-10-14T11:06:45+00:00" data-subject="">
 
 Its cp for Jovian Armaments
 
 </div>
 
-<div class="post" data-post-id="2315" data-author="Tetsulunathaya" data-date="2004-10-14T13:21:07+00:00">
+<div class="post" data-post-id="2315" data-author="Tetsulunathaya" data-date="2004-10-14T13:21:07+00:00" data-subject="">
 
 Nod, cp for Jovian, which I've gotten (Thanks Riro!)
 
@@ -68,7 +68,7 @@ all of which i am unable to pop solo. (and having a third bard with Dance of sev
 
 </div>
 
-<div class="post" data-post-id="2318" data-author="Avatar" data-date="2004-10-14T16:51:54+00:00">
+<div class="post" data-post-id="2318" data-author="Avatar" data-date="2004-10-14T16:51:54+00:00" data-subject="Sleeves">
 
 My bad then.  I've never heard of these armaments.  If anyone else needs some sleeves, I think I have a spare set.
 

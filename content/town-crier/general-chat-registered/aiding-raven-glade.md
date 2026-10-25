@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="19012" data-author="Zorinom" data-date="2007-06-21T03:09:05+00:00">
+<div class="post" data-post-id="19012" data-author="Zorinom" data-date="2007-06-21T03:09:05+00:00" data-subject="Aiding Raven Glade">
 
 To Any Willing Adventurer:
 
@@ -24,19 +24,19 @@ Loremaster of Raven Glade
 
 </div>
 
-<div class="post" data-post-id="19015" data-author="13" data-date="2007-06-21T12:31:00+00:00">
+<div class="post" data-post-id="19015" data-author="13" data-date="2007-06-21T12:31:00+00:00" data-subject="">
 
 how can this have been posted at 8pm tonight?
 
 </div>
 
-<div class="post" data-post-id="19017" data-author="Leaf" data-date="2007-06-21T14:23:42+00:00">
+<div class="post" data-post-id="19017" data-author="Leaf" data-date="2007-06-21T14:23:42+00:00" data-subject="">
 
 What day and time Lordmaster Zorinom?
 
 </div>
 
-<div class="post" data-post-id="19050" data-author="Destiny" data-date="2007-06-24T16:42:28+00:00">
+<div class="post" data-post-id="19050" data-author="Destiny" data-date="2007-06-24T16:42:28+00:00" data-subject="">
 
 I am planning on running an area opener on Wednesday, June 27 at 9:30 est.  I am placing a little twist on the typical opener, and as such, I will not run it with less than 20 people or more than 30.  At this junction in time, only 3 people that I know of have solved the necessary Autoquest to participate (refer to original post), and one of those probably cannot make the start on time.  Provided you solve the AQ, email me at destiny@slothmud.org with the command line you used to solve the riddle, who you plan on questing with, class, and your preference for sides (defending or attacking).  You only need to solve it with one character to allow any of your characters to join the quest.  I am not promising you will get your alignment preference, but I will try my best.
 
@@ -46,19 +46,19 @@ Destiny
 
 </div>
 
-<div class="post" data-post-id="19056" data-author="13" data-date="2007-06-25T00:32:38+00:00">
+<div class="post" data-post-id="19056" data-author="13" data-date="2007-06-25T00:32:38+00:00" data-subject="">
 
 be prepared for the quest eq whiners!
 
 </div>
 
-<div class="post" data-post-id="19062" data-author="brady" data-date="2007-06-25T05:10:52+00:00">
+<div class="post" data-post-id="19062" data-author="brady" data-date="2007-06-25T05:10:52+00:00" data-subject="">
 
 :D Serenity Now! :D
 
 </div>
 
-<div class="post" data-post-id="19096" data-author="Destiny" data-date="2007-06-27T16:32:27+00:00">
+<div class="post" data-post-id="19096" data-author="Destiny" data-date="2007-06-27T16:32:27+00:00" data-subject="">
 
 IF anyone else is planning on attending tonight's opener, I need to receive your e-mail by 5:00 p.m est.  There are several more openings if you find that you can attend.  
 
@@ -66,7 +66,7 @@ Destiny
 
 </div>
 
-<div class="post" data-post-id="19097" data-author="Autolycos" data-date="2007-06-27T16:49:26+00:00">
+<div class="post" data-post-id="19097" data-author="Autolycos" data-date="2007-06-27T16:49:26+00:00" data-subject="">
 
 [b:34yedygj]I'm in ur Glade aidin ur Ravenz! :twisted: [/b:34yedygj][/size:34yedygj][/color:34yedygj]
 
@@ -74,13 +74,13 @@ Destiny
 
 </div>
 
-<div class="post" data-post-id="19098" data-author="Yinao" data-date="2007-06-27T19:13:40+00:00">
+<div class="post" data-post-id="19098" data-author="Yinao" data-date="2007-06-27T19:13:40+00:00" data-subject="">
 
 [b:99yctc3x]BUH KAW!!![/b:99yctc3x][/size:99yctc3x]
 
 </div>
 
-<div class="post" data-post-id="19099" data-author="Destiny" data-date="2007-06-27T23:12:10+00:00">
+<div class="post" data-post-id="19099" data-author="Destiny" data-date="2007-06-27T23:12:10+00:00" data-subject="">
 
 Quest teams are as follows:
 
@@ -102,7 +102,7 @@ Destiny
 
 </div>
 
-<div class="post" data-post-id="19101" data-author="Malison" data-date="2007-06-28T04:28:00+00:00">
+<div class="post" data-post-id="19101" data-author="Malison" data-date="2007-06-28T04:28:00+00:00" data-subject="">
 
 Chi is leading 'The Grim Corps' on Godsland:
 
@@ -204,7 +204,7 @@ And in case it wasn't mentioned...muchthx Destiny!
 
 </div>
 
-<div class="post" data-post-id="19102" data-author="13" data-date="2007-06-28T08:42:32+00:00">
+<div class="post" data-post-id="19102" data-author="13" data-date="2007-06-28T08:42:32+00:00" data-subject="">
 
 so .6 war prime forgable boots and some .1ac +1dmg +5mv shoulders th prime ....
 
@@ -212,7 +212,7 @@ what else?
 
 </div>
 
-<div class="post" data-post-id="19114" data-author="Sheng" data-date="2007-06-29T17:24:50+00:00">
+<div class="post" data-post-id="19114" data-author="Sheng" data-date="2007-06-29T17:24:50+00:00" data-subject="What else is there? (Area Opener)">
 
 Raven Glade:
 
@@ -264,7 +264,7 @@ Sunderian Patrol Leader - crinkled parchment (forge note for scintillating scale
 
 </div>
 
-<div class="post" data-post-id="19115" data-author="Sheng" data-date="2007-06-29T17:28:34+00:00">
+<div class="post" data-post-id="19115" data-author="Sheng" data-date="2007-06-29T17:28:34+00:00" data-subject="What else is there? (Area Opener)">
 
 Adelina Rumar in Raven Glade forges a scintillating scale for 1 million coins.  If anyone successfully forges (cps unknown) please post stats and cps.
 
@@ -278,7 +278,7 @@ Apparently Zorinom is the forger for the dragonscale sabotons (-.6 AC Warrior pr
 
 </div>
 
-<div class="post" data-post-id="19117" data-author="Teron" data-date="2007-06-29T18:10:55+00:00">
+<div class="post" data-post-id="19117" data-author="Teron" data-date="2007-06-29T18:10:55+00:00" data-subject="">
 
 For the record, the item (+con +10hp) can be used by a valker, and there are a couple of pure non-caster valkers, as far as I know.
 
@@ -300,13 +300,13 @@ Cheers.
 
 </div>
 
-<div class="post" data-post-id="19118" data-author="Leaf" data-date="2007-06-29T19:04:56+00:00">
+<div class="post" data-post-id="19118" data-author="Leaf" data-date="2007-06-29T19:04:56+00:00" data-subject="">
 
 Am I missing something here ... or is there no ac on the 'ironwood quiver'?
 
 </div>
 
-<div class="post" data-post-id="19161" data-author="strider" data-date="2007-07-05T17:24:14+00:00">
+<div class="post" data-post-id="19161" data-author="strider" data-date="2007-07-05T17:24:14+00:00" data-subject="">
 
 I was intrigued by the new area and it's forges so i spent some time poking around and this is what i came up with:
 
@@ -366,7 +366,7 @@ and there you have it, for 2mil coins and some cps you can have your very own pa
 
 </div>
 
-<div class="post" data-post-id="19163" data-author="tincts" data-date="2007-07-05T21:56:58+00:00">
+<div class="post" data-post-id="19163" data-author="tincts" data-date="2007-07-05T21:56:58+00:00" data-subject="">
 
 Loving ya work Strider!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32628" data-author="*Isabo*" data-date="2011-05-21T01:22:51+00:00">
+<div class="post" data-post-id="32628" data-author="*Isabo*" data-date="2011-05-21T01:22:51+00:00" data-subject="Dissertation on peaceful negotiations">
 
 Greeting mortals.
 

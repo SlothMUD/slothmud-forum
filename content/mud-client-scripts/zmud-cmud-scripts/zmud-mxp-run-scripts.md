@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31743" data-author="Thraxas" data-date="2010-09-09T09:50:29+00:00">
+<div class="post" data-post-id="31743" data-author="Thraxas" data-date="2010-09-09T09:50:29+00:00" data-subject="zmud mxp run scripts">
 
 I've been having a play with putting mxp links into my own zmud scripts to contol some of my functionality, one that I think may be of interest is to control runs, but it could be adapted to any group of aliases:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 32
 ---
 
-<div class="post" data-post-id="18884" data-author="*juggleblood*" data-date="2007-06-14T20:28:06+00:00">
+<div class="post" data-post-id="18884" data-author="*juggleblood*" data-date="2007-06-14T20:28:06+00:00" data-subject="Killing Iblis">
 
 People are more afraid of killing iblis than they need to be. The problem is that the healo is simply not listening to instructions.
 
@@ -186,7 +186,7 @@ Not picking on Yinao by any means. I'm just trying to help you all to help me ge
 
 </div>
 
-<div class="post" data-post-id="18888" data-author="Mosaix" data-date="2007-06-14T23:57:58+00:00">
+<div class="post" data-post-id="18888" data-author="Mosaix" data-date="2007-06-14T23:57:58+00:00" data-subject="">
 
 Its disgusting to me that out of a whole group of people, you can only find fault in Yinao for not healing as you think he should have.  How stupid.  You absolutely just blamed him, your comment about not doing so is silly.
 
@@ -196,7 +196,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="18889" data-author="Krok" data-date="2007-06-15T00:20:45+00:00">
+<div class="post" data-post-id="18889" data-author="Krok" data-date="2007-06-15T00:20:45+00:00" data-subject="">
 
 Broc, really, I don't see why it's stupid pointing out that a cleric screwed up. Doesn't it happen to everyone sometimes? This time it was a cleric, so what? :)
 
@@ -206,7 +206,7 @@ Imho there's no need to point this out right on the crier, you could've talked t
 
 </div>
 
-<div class="post" data-post-id="18890" data-author="*juggleblood*" data-date="2007-06-15T06:45:28+00:00">
+<div class="post" data-post-id="18890" data-author="*juggleblood*" data-date="2007-06-15T06:45:28+00:00" data-subject="">
 
 Hrrrm, I prolly know Yinao better than you, and I realize he's pretty thick skinned: obviously a lot thicker skinned than you Mosaix. 
 
@@ -232,7 +232,7 @@ Marge -- 'err, I thought I had a staff, I guess not'
 
 </div>
 
-<div class="post" data-post-id="18891" data-author="brand" data-date="2007-06-15T15:00:34+00:00">
+<div class="post" data-post-id="18891" data-author="brand" data-date="2007-06-15T15:00:34+00:00" data-subject="">
 
 you want hurt?
 
@@ -252,13 +252,13 @@ Brand: .... ok we're dead... all of us
 
 </div>
 
-<div class="post" data-post-id="18893" data-author="Autolycos" data-date="2007-06-15T17:06:38+00:00">
+<div class="post" data-post-id="18893" data-author="Autolycos" data-date="2007-06-15T17:06:38+00:00" data-subject="">
 
 i hope this thread keeps going... i'm grabbing some popcorn!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="18894" data-author="Medios" data-date="2007-06-15T20:49:04+00:00">
+<div class="post" data-post-id="18894" data-author="Medios" data-date="2007-06-15T20:49:04+00:00" data-subject="">
 
 Why is the leader fleeing?
 
@@ -266,7 +266,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="18897" data-author="Autolycos" data-date="2007-06-15T21:16:08+00:00">
+<div class="post" data-post-id="18897" data-author="Autolycos" data-date="2007-06-15T21:16:08+00:00" data-subject="">
 
 Why is the leader fleeing?
 
@@ -286,13 +286,13 @@ We need a write a guide book for *When a Good Group goes Wrong*
 
 </div>
 
-<div class="post" data-post-id="18901" data-author="Weasel" data-date="2007-06-15T22:17:40+00:00">
+<div class="post" data-post-id="18901" data-author="Weasel" data-date="2007-06-15T22:17:40+00:00" data-subject="">
 
 lol  :D
 
 </div>
 
-<div class="post" data-post-id="18904" data-author="12345" data-date="2007-06-16T01:27:28+00:00">
+<div class="post" data-post-id="18904" data-author="12345" data-date="2007-06-16T01:27:28+00:00" data-subject="">
 
 Its not hard to bone a good group.  I can usually keep them going pretty good, but when I bone it, its phenominally bad.  Famous last thoughts:
 
@@ -308,13 +308,13 @@ I think Smaug is responsible for a full third of my CFs.  My current policy is t
 
 </div>
 
-<div class="post" data-post-id="18905" data-author="Yinao" data-date="2007-06-16T02:13:14+00:00">
+<div class="post" data-post-id="18905" data-author="Yinao" data-date="2007-06-16T02:13:14+00:00" data-subject="">
 
 I must say, I was the person that was in control of your "useless" OH MY FUCKING GOD WE ARE GUNNA ALL DIE, SHIT STICK! and I managed to get atleast that off so all you fools coulda corpsed while I recalled myself and laughed. :roll:
 
 </div>
 
-<div class="post" data-post-id="18906" data-author="Gimlet" data-date="2007-06-16T02:21:43+00:00">
+<div class="post" data-post-id="18906" data-author="Gimlet" data-date="2007-06-16T02:21:43+00:00" data-subject="">
 
 Its not hard to bone a good group.  I can usually keep them going pretty good, but when I bone it, its phenominally bad.  Famous last thoughts:
 
@@ -334,13 +334,13 @@ u'd have to drag auto's ass along every time then
 
 </div>
 
-<div class="post" data-post-id="18907" data-author="Autolycos" data-date="2007-06-16T02:25:32+00:00">
+<div class="post" data-post-id="18907" data-author="Autolycos" data-date="2007-06-16T02:25:32+00:00" data-subject="">
 
 Laugh  :twisted:
 
 </div>
 
-<div class="post" data-post-id="18909" data-author="Mosaix" data-date="2007-06-16T03:34:09+00:00">
+<div class="post" data-post-id="18909" data-author="Mosaix" data-date="2007-06-16T03:34:09+00:00" data-subject="">
 
 Your a major league pole smoker Junglefart.  Take criticism for being a boob instead of trying to insult me further than I need to be.  
 
@@ -356,13 +356,13 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="18912" data-author="*juggleblood*" data-date="2007-06-16T10:45:59+00:00">
+<div class="post" data-post-id="18912" data-author="*juggleblood*" data-date="2007-06-16T10:45:59+00:00" data-subject="">
 
 I hope you see the irony in threatening to sell your char and quit because someone called you thin skinned.
 
 </div>
 
-<div class="post" data-post-id="18914" data-author="Autolycos" data-date="2007-06-16T14:36:26+00:00">
+<div class="post" data-post-id="18914" data-author="Autolycos" data-date="2007-06-16T14:36:26+00:00" data-subject="">
 
 *suddenly agrees with Adam that Cthulhu needs to htfu and come back so rub can be eaten*
 
@@ -370,13 +370,13 @@ I hope you see the irony in threatening to sell your char and quit because someo
 
 </div>
 
-<div class="post" data-post-id="18917" data-author="Yinao" data-date="2007-06-16T15:36:53+00:00">
+<div class="post" data-post-id="18917" data-author="Yinao" data-date="2007-06-16T15:36:53+00:00" data-subject="">
 
 Autolycos, got a spare bag of popcorn? I ran out! :shock:
 
 </div>
 
-<div class="post" data-post-id="18918" data-author="Autolycos" data-date="2007-06-16T15:41:47+00:00">
+<div class="post" data-post-id="18918" data-author="Autolycos" data-date="2007-06-16T15:41:47+00:00" data-subject="">
 
 Autolycos, got a spare bag of popcorn? I ran out! :shock:[/quote:3lfogugv]
 
@@ -384,7 +384,7 @@ SURE THING!   i made extra!!!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="18919" data-author="Autolycos" data-date="2007-06-16T15:51:40+00:00">
+<div class="post" data-post-id="18919" data-author="Autolycos" data-date="2007-06-16T15:51:40+00:00" data-subject="">
 
 Rub -- 'MOM!!!  Mosaix stole my sippy cup!!!'
 
@@ -414,7 +414,7 @@ Autolycos-- 'this is why some animals eat their young'
 
 </div>
 
-<div class="post" data-post-id="18920" data-author="Yinao" data-date="2007-06-16T15:56:01+00:00">
+<div class="post" data-post-id="18920" data-author="Yinao" data-date="2007-06-16T15:56:01+00:00" data-subject="">
 
 Now that my friends, well, thats what you call one hell of a good post!
 
@@ -424,13 +424,13 @@ Now that my friends, well, thats what you call one hell of a good post!
 
 </div>
 
-<div class="post" data-post-id="18921" data-author="Weasel" data-date="2007-06-16T17:17:16+00:00">
+<div class="post" data-post-id="18921" data-author="Weasel" data-date="2007-06-16T17:17:16+00:00" data-subject="">
 
 [img:e0ghjysu]http://www.cartoonstock.com/lowres/rjo0487l.jpg[/img:e0ghjysu]
 
 </div>
 
-<div class="post" data-post-id="18922" data-author="*juggleblood*" data-date="2007-06-16T17:27:55+00:00">
+<div class="post" data-post-id="18922" data-author="*juggleblood*" data-date="2007-06-16T17:27:55+00:00" data-subject="">
 
 Autolycos --' Don't cry Mosaix, Rub is just a big meanie. I'll make fun of him for you. '
 
@@ -444,13 +444,13 @@ Yinao --' hey auto, can I be your special little cabin boy?'
 
 </div>
 
-<div class="post" data-post-id="18923" data-author="Weasel" data-date="2007-06-16T17:42:18+00:00">
+<div class="post" data-post-id="18923" data-author="Weasel" data-date="2007-06-16T17:42:18+00:00" data-subject="">
 
 [img:24wg3x8u]http://urbanscrawl.net/images/misc/pirateninja.jpg[/img:24wg3x8u]
 
 </div>
 
-<div class="post" data-post-id="18924" data-author="Atwell" data-date="2007-06-16T17:52:09+00:00">
+<div class="post" data-post-id="18924" data-author="Atwell" data-date="2007-06-16T17:52:09+00:00" data-subject="">
 
 *suddenly agrees with Adam that Cthulhu needs to htfu and come back so rub can be eaten*
 
@@ -460,7 +460,7 @@ What happened to his other two tenactles?
 
 </div>
 
-<div class="post" data-post-id="18925" data-author="Alberich" data-date="2007-06-16T19:22:35+00:00">
+<div class="post" data-post-id="18925" data-author="Alberich" data-date="2007-06-16T19:22:35+00:00" data-subject="">
 
 I knew you'd come around eventually
 
@@ -470,7 +470,7 @@ I knew you'd come around eventually
 
 </div>
 
-<div class="post" data-post-id="18927" data-author="van" data-date="2007-06-16T19:35:36+00:00">
+<div class="post" data-post-id="18927" data-author="van" data-date="2007-06-16T19:35:36+00:00" data-subject="Van -- &#x27;target Rub&#x27;">
 
 Yinao --' hey auto, can I be your special little cabin boy?'
 
@@ -480,13 +480,13 @@ HEY! I'm the <~Pirate~> cabin boy! Just look at my description for confirmation.
 
 </div>
 
-<div class="post" data-post-id="18928" data-author="brady" data-date="2007-06-16T20:07:10+00:00">
+<div class="post" data-post-id="18928" data-author="brady" data-date="2007-06-16T20:07:10+00:00" data-subject="">
 
 I move that Prozac be added to all fountains.  All those in favor?
 
 </div>
 
-<div class="post" data-post-id="18933" data-author="Weasel" data-date="2007-06-16T23:12:36+00:00">
+<div class="post" data-post-id="18933" data-author="Weasel" data-date="2007-06-16T23:12:36+00:00" data-subject="">
 
 Van gossips-- 'sitting at the scribe's feeling silly... anybody coming? :)'
 
@@ -500,7 +500,7 @@ Silly's last logon was Tue Sep  5 10:12:55 2006
 
 </div>
 
-<div class="post" data-post-id="18934" data-author="Yinao" data-date="2007-06-17T01:13:02+00:00">
+<div class="post" data-post-id="18934" data-author="Yinao" data-date="2007-06-17T01:13:02+00:00" data-subject="">
 
 Rub -- '*Rub* this one time at summer school....'
 
@@ -530,7 +530,7 @@ Rub can shut up!  :shock:  :shock:
 
 </div>
 
-<div class="post" data-post-id="18935" data-author="Autolycos" data-date="2007-06-17T02:32:57+00:00">
+<div class="post" data-post-id="18935" data-author="Autolycos" data-date="2007-06-17T02:32:57+00:00" data-subject="">
 
 I knew you'd come around eventually[/quote:13vt9tvv]
 
@@ -538,7 +538,7 @@ I knew you'd come around eventually[/quote:13vt9tvv]
 
 </div>
 
-<div class="post" data-post-id="18937" data-author="firebrand" data-date="2007-06-17T03:02:40+00:00">
+<div class="post" data-post-id="18937" data-author="firebrand" data-date="2007-06-17T03:02:40+00:00" data-subject="">
 
 I move that Prozac be added to all fountains.  All those in favor?[/quote:2t0bl4xh]
 
@@ -548,7 +548,7 @@ either that or legalize weed and require everyone to start the day baked.
 
 </div>
 
-<div class="post" data-post-id="18985" data-author="van" data-date="2007-06-19T18:29:55+00:00">
+<div class="post" data-post-id="18985" data-author="van" data-date="2007-06-19T18:29:55+00:00" data-subject="">
 
 Van gossips-- 'sitting at the scribe's feeling silly... anybody coming? :)'
 

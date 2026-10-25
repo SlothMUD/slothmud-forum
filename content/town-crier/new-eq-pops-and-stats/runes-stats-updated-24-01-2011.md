@@ -10,7 +10,7 @@ locked: false
 post_count: 37
 ---
 
-<div class="post" data-post-id="31550" data-author="Tuck" data-date="2010-08-22T14:11:46+00:00">
+<div class="post" data-post-id="31550" data-author="Tuck" data-date="2010-08-22T14:11:46+00:00" data-subject="Runes stats (updated: 24.01.2011)">
 
 [Runes stats (updated 24.01.2011)](http://www.magi.biz/?page_id=5)
 
@@ -56,7 +56,7 @@ Update16: Red Spinel added
 
 </div>
 
-<div class="post" data-post-id="31551" data-author="DSF" data-date="2010-08-22T15:39:29+00:00">
+<div class="post" data-post-id="31551" data-author="DSF" data-date="2010-08-22T15:39:29+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 Tuk, 
 
@@ -176,7 +176,7 @@ DSFren
 
 </div>
 
-<div class="post" data-post-id="31552" data-author="Cizin" data-date="2010-08-22T16:26:38+00:00">
+<div class="post" data-post-id="31552" data-author="Cizin" data-date="2010-08-22T16:26:38+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 Some of those runes are not what they are supposed to be.
 
@@ -186,7 +186,7 @@ Don't trust Tuk ! he wants yr gems !
 
 </div>
 
-<div class="post" data-post-id="31553" data-author="Thraxas" data-date="2010-08-22T17:17:21+00:00">
+<div class="post" data-post-id="31553" data-author="Thraxas" data-date="2010-08-22T17:17:21+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 I've tried to keep my views on Tuk off the crier, but cant hold back any longer, I wouldnt want this to be seen as simply a feud between dsfren and tuk.
 
@@ -200,13 +200,13 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="31554" data-author="Tuck" data-date="2010-08-22T18:19:03+00:00">
+<div class="post" data-post-id="31554" data-author="Tuck" data-date="2010-08-22T18:19:03+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 Runes stats, faked by dsfren removed. List updated.
 
 </div>
 
-<div class="post" data-post-id="31555" data-author="Tuck" data-date="2010-08-22T18:22:01+00:00">
+<div class="post" data-post-id="31555" data-author="Tuck" data-date="2010-08-22T18:22:01+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 > **Cizin wrote:**
 > Some of those runes are not what they are supposed to be.
@@ -225,7 +225,7 @@ Identified runes stats are accurate, others are unconfirmed.
 
 </div>
 
-<div class="post" data-post-id="31556" data-author="Ezekiel" data-date="2010-08-23T03:47:54+00:00">
+<div class="post" data-post-id="31556" data-author="Ezekiel" data-date="2010-08-23T03:47:54+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 I love how the gems we had on our site that DS forged personally are not labelled as such in your little spreadsheet. You're so petty and insignificant. What a lame little attempt to feel some type of vengeance for us locking you out of illegally accessing our clan site. If you say it's not such an attempt at getting back at us, well...you posted this updated list just after we locked you out when you had been accessing our site daily. Why not post them earlier if you wanted rune info out there? What a child.
 
@@ -233,19 +233,19 @@ I love how the gems we had on our site that DS forged personally are not labelle
 
 </div>
 
-<div class="post" data-post-id="31557" data-author="Toxis" data-date="2010-08-23T08:29:05+00:00">
+<div class="post" data-post-id="31557" data-author="Toxis" data-date="2010-08-23T08:29:05+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 No offense but uh, post all the gems might have stopped all this? And what's so wrong with helping each other?  *shrug* love you all, don't hate me pls.
 
 </div>
 
-<div class="post" data-post-id="31558" data-author="Ezekiel" data-date="2010-08-23T08:33:05+00:00">
+<div class="post" data-post-id="31558" data-author="Ezekiel" data-date="2010-08-23T08:33:05+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 Not to be offensive Brad, but that's funny coming someone who hoarded and kept secret their gems for a long time. It's not the sharing that I'm calling him out for, it's his timing. Don't act like you're doing something of generosity when it's truly just in spitefulness.
 
 </div>
 
-<div class="post" data-post-id="31559" data-author="Thraxas" data-date="2010-08-23T10:42:45+00:00">
+<div class="post" data-post-id="31559" data-author="Thraxas" data-date="2010-08-23T10:42:45+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 The issue here isnt about whether Tuk has posted gem stats or not, to be honest I see no reason for this info to be held in secret by anyone hopefully it'll all appear on the eqlist as soon as someone id's a new rune at some point soon. The issue is that Tuk has spied on the dragonsworn site stolen details from the site and then when found out posted them on the crier pretending that he was doing is out of the goodness of his heart.
 
@@ -259,7 +259,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="31564" data-author="Tuck" data-date="2010-08-23T12:48:53+00:00">
+<div class="post" data-post-id="31564" data-author="Tuck" data-date="2010-08-23T12:48:53+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 @Thrax, Dsfren, Ezekiel:
 
@@ -269,7 +269,7 @@ Keep this bullshit coming, it way too funny  :D
 
 </div>
 
-<div class="post" data-post-id="31566" data-author="jezer" data-date="2010-08-23T22:05:44+00:00">
+<div class="post" data-post-id="31566" data-author="jezer" data-date="2010-08-23T22:05:44+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 Tuk, It's not good to be bad... then it would be bad to be good... 
 
@@ -281,7 +281,7 @@ All the same, funny you hacked the secret dragonsworn society. Amusing, but most
 
 </div>
 
-<div class="post" data-post-id="31567" data-author="Tuck" data-date="2010-08-24T02:23:55+00:00">
+<div class="post" data-post-id="31567" data-author="Tuck" data-date="2010-08-24T02:23:55+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 > **jezer wrote:**
 > All the same, funny you hacked the secret dragonsworn society.
@@ -290,13 +290,13 @@ Funniest thing is i that didn't hacked anything, and most flame of this topic is
 
 </div>
 
-<div class="post" data-post-id="31568" data-author="jezer" data-date="2010-08-24T02:36:45+00:00">
+<div class="post" data-post-id="31568" data-author="jezer" data-date="2010-08-24T02:36:45+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 Yeah I know you didn't hack, lets call it unauthorized entry... hacking... same difference to the media.
 
 </div>
 
-<div class="post" data-post-id="31569" data-author="Tuck" data-date="2010-08-24T02:55:29+00:00">
+<div class="post" data-post-id="31569" data-author="Tuck" data-date="2010-08-24T02:55:29+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 > **jezer wrote:**
 > Yeah I know you didn't hack, lets call it unauthorized entry... hacking... same difference to the media.
@@ -305,7 +305,7 @@ Yeah, let me say you are unauthorized to post in this topic too. :) Same BS.
 
 </div>
 
-<div class="post" data-post-id="31571" data-author="*Splork*" data-date="2010-08-24T05:25:55+00:00">
+<div class="post" data-post-id="31571" data-author="*Splork*" data-date="2010-08-24T05:25:55+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 We are not purposely holding back identified rune stats. I will speak to Benq and Isabo to see if we can get the ones which are ingame posted.
 
@@ -313,7 +313,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31578" data-author="Thraxas" data-date="2010-08-24T17:39:26+00:00">
+<div class="post" data-post-id="31578" data-author="Thraxas" data-date="2010-08-24T17:39:26+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 > ***Splork* wrote:**
 > We are not purposely holding back identified rune stats. I will speak to Benq and Isabo to see if we can get the ones which are ingame posted.
@@ -328,25 +328,25 @@ T
 
 </div>
 
-<div class="post" data-post-id="31581" data-author="Rynquald" data-date="2010-08-24T22:01:01+00:00">
+<div class="post" data-post-id="31581" data-author="Rynquald" data-date="2010-08-24T22:01:01+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
 The "nice guy" image that Tuk attempts to cultivate is getting tiresome. Especially when he effectively admitted where he got the gem stats from in his second post in this thread.
 
 </div>
 
-<div class="post" data-post-id="31629" data-author="Tuck" data-date="2010-08-28T20:31:51+00:00">
+<div class="post" data-post-id="31629" data-author="Tuck" data-date="2010-08-28T20:31:51+00:00" data-subject="Re: Runes stats (updated 29.08.2010)">
 
 Update2: Added Brown Red Spinel, Smokey Quartz.
 
 </div>
 
-<div class="post" data-post-id="31638" data-author="Tuck" data-date="2010-08-29T16:09:25+00:00">
+<div class="post" data-post-id="31638" data-author="Tuck" data-date="2010-08-29T16:09:25+00:00" data-subject="Re: Runes stats (updated 29.08.2010)">
 
 More rune stats added to list.
 
 </div>
 
-<div class="post" data-post-id="31694" data-author="Shyla" data-date="2010-09-03T03:29:30+00:00">
+<div class="post" data-post-id="31694" data-author="Shyla" data-date="2010-09-03T03:29:30+00:00" data-subject="Re: Runes stats (updated 29.08.2010-2)">
 
 I saw an amber rune today and I would like to know if the person that forged it can please share the stats on it :)
 
@@ -356,25 +356,25 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="31746" data-author="Tuck" data-date="2010-09-10T14:05:42+00:00">
+<div class="post" data-post-id="31746" data-author="Tuck" data-date="2010-09-10T14:05:42+00:00" data-subject="Re: Runes stats (updated 29.08.2010-2)">
 
 runes list and stats updated!
 
 </div>
 
-<div class="post" data-post-id="31776" data-author="Tuck" data-date="2010-09-19T07:27:18+00:00">
+<div class="post" data-post-id="31776" data-author="Tuck" data-date="2010-09-19T07:27:18+00:00" data-subject="Re: Runes stats (updated 10.09.2010)">
 
 List updated.
 
 </div>
 
-<div class="post" data-post-id="31778" data-author="blackmore" data-date="2010-09-19T14:42:59+00:00">
+<div class="post" data-post-id="31778" data-author="blackmore" data-date="2010-09-19T14:42:59+00:00" data-subject="Re: Runes stats (updated 19.09.2010)">
 
 Citrine attaches to About Body, not Neck
 
 </div>
 
-<div class="post" data-post-id="31788" data-author="Tuck" data-date="2010-09-24T11:37:05+00:00">
+<div class="post" data-post-id="31788" data-author="Tuck" data-date="2010-09-24T11:37:05+00:00" data-subject="Re: Runes stats (updated 19.09.2010)">
 
 > **blackmore wrote:**
 > Citrine attaches to About Body, not Neck
@@ -383,67 +383,67 @@ Thanks BM, list updated.
 
 </div>
 
-<div class="post" data-post-id="31810" data-author="Tuck" data-date="2010-10-02T21:42:39+00:00">
+<div class="post" data-post-id="31810" data-author="Tuck" data-date="2010-10-02T21:42:39+00:00" data-subject="Re: Runes stats (updated 03.10.2010)">
 
 Another update.
 
 </div>
 
-<div class="post" data-post-id="31829" data-author="Tuck" data-date="2010-10-06T22:34:17+00:00">
+<div class="post" data-post-id="31829" data-author="Tuck" data-date="2010-10-06T22:34:17+00:00" data-subject="Re: Runes stats (updated 07.10.2010)">
 
 Update7: Rose quartz stats added. Thanks Wimpy
 
 </div>
 
-<div class="post" data-post-id="31859" data-author="Tuck" data-date="2010-10-09T23:38:12+00:00">
+<div class="post" data-post-id="31859" data-author="Tuck" data-date="2010-10-09T23:38:12+00:00" data-subject="Re: Runes stats (updated 10.10.2010)">
 
 Update8: Azurite confirmed
 
 </div>
 
-<div class="post" data-post-id="31884" data-author="Tuck" data-date="2010-10-18T17:50:49+00:00">
+<div class="post" data-post-id="31884" data-author="Tuck" data-date="2010-10-18T17:50:49+00:00" data-subject="Re: Runes stats (updated 10.10.2010)">
 
 Update9: Another sucky rune: Quartz (kickdam feet)
 
 </div>
 
-<div class="post" data-post-id="31929" data-author="Tuck" data-date="2010-10-24T16:46:59+00:00">
+<div class="post" data-post-id="31929" data-author="Tuck" data-date="2010-10-24T16:46:59+00:00" data-subject="Re: Runes stats (updated 24.10.2010)">
 
 Update9: Mage runes updated.
 
 </div>
 
-<div class="post" data-post-id="31936" data-author="Tuck" data-date="2010-10-27T19:51:42+00:00">
+<div class="post" data-post-id="31936" data-author="Tuck" data-date="2010-10-27T19:51:42+00:00" data-subject="Re: Runes stats (updated 27.10.2010)">
 
 Update10: Colorless sapphire added. Thanks Katie!
 
 </div>
 
-<div class="post" data-post-id="32003" data-author="Tuck" data-date="2010-11-11T12:43:05+00:00">
+<div class="post" data-post-id="32003" data-author="Tuck" data-date="2010-11-11T12:43:05+00:00" data-subject="Re: Runes stats (updated 27.10.2010)">
 
 Update11: All known gems posted.
 
 </div>
 
-<div class="post" data-post-id="32174" data-author="Tuck" data-date="2010-12-18T07:19:56+00:00">
+<div class="post" data-post-id="32174" data-author="Tuck" data-date="2010-12-18T07:19:56+00:00" data-subject="Re: Runes stats (updated 11.11.2010)">
 
 Update12: Tomb Jade added.
 
 </div>
 
-<div class="post" data-post-id="32227" data-author="Tuck" data-date="2010-12-26T17:19:55+00:00">
+<div class="post" data-post-id="32227" data-author="Tuck" data-date="2010-12-26T17:19:55+00:00" data-subject="Re: Runes stats (updated 18.12.2010)">
 
 Update 13: Pink diamond added.
 
 </div>
 
-<div class="post" data-post-id="32353" data-author="Tuck" data-date="2011-01-22T22:02:13+00:00">
+<div class="post" data-post-id="32353" data-author="Tuck" data-date="2011-01-22T22:02:13+00:00" data-subject="Re: Runes stats (updated: 23.01.2011)">
 
 Update15: Opal added. Thanks Joesmoe. Please confirm.
 
 </div>
 
-<div class="post" data-post-id="32357" data-author="joesmoe" data-date="2011-01-24T02:59:24+00:00">
+<div class="post" data-post-id="32357" data-author="joesmoe" data-date="2011-01-24T02:59:24+00:00" data-subject="Re: Runes stats (updated: 23.01.2011)">
 
 5 "a Opal" gems
 
@@ -467,7 +467,7 @@ I thought someone said Silvery Blue Pearl should really be hand damage...
 
 </div>
 
-<div class="post" data-post-id="32368" data-author="Tuck" data-date="2011-01-24T20:45:02+00:00">
+<div class="post" data-post-id="32368" data-author="Tuck" data-date="2011-01-24T20:45:02+00:00" data-subject="Re: Runes stats (updated: 24.01.2011)">
 
 Update16: Red Spinel added
 

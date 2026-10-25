@@ -10,7 +10,7 @@ locked: true
 post_count: 1
 ---
 
-<div class="post" data-post-id="34584" data-author="*juggleblood*" data-date="2013-11-27T13:32:58+00:00">
+<div class="post" data-post-id="34584" data-author="*juggleblood*" data-date="2013-11-27T13:32:58+00:00" data-subject="Sorry guys.">
 
 Apparently there's a number of players who are threatening to boycott the game over me?
 

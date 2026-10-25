@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="4801" data-author="Falados" data-date="2005-03-05T20:01:50+00:00">
+<div class="post" data-post-id="4801" data-author="Falados" data-date="2005-03-05T20:01:50+00:00" data-subject="undead control limit and juju">
 
 I'm glad the problem w/ the supplication monster and undead monster summon thing was fixed but there's another problem.
 
@@ -22,13 +22,13 @@ I'd like juju thing not count towards undead control :)
 
 </div>
 
-<div class="post" data-post-id="4806" data-author="Alberich" data-date="2005-03-06T02:40:59+00:00">
+<div class="post" data-post-id="4806" data-author="Alberich" data-date="2005-03-06T02:40:59+00:00" data-subject="">
 
 if a juju zombie is not undead, what, exactly, is it?
 
 </div>
 
-<div class="post" data-post-id="4822" data-author="Falados" data-date="2005-03-06T21:41:42+00:00">
+<div class="post" data-post-id="4822" data-author="Falados" data-date="2005-03-06T21:41:42+00:00" data-subject="">
 
 if a juju zombie is not undead, what, exactly, is it?[/quote:2k1fcnrn]
 
@@ -38,7 +38,7 @@ But either make it so that juju have a control #, or make it like a sup summon, 
 
 </div>
 
-<div class="post" data-post-id="4830" data-author="Falados" data-date="2005-03-07T02:27:47+00:00">
+<div class="post" data-post-id="4830" data-author="Falados" data-date="2005-03-07T02:27:47+00:00" data-subject="">
 
 okay just found something else w/ juju, w/ juju summoned:
 
@@ -50,7 +50,7 @@ okay just found something else w/ juju, w/ juju summoned:
 
 </div>
 
-<div class="post" data-post-id="4831" data-author="Granty555" data-date="2005-03-07T08:30:37+00:00">
+<div class="post" data-post-id="4831" data-author="Granty555" data-date="2005-03-07T08:30:37+00:00" data-subject="">
 
 Yup it totally depends what order you summon in.
 

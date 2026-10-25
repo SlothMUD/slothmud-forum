@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="10435" data-author="*juggleblood*" data-date="2006-01-30T18:05:39+00:00">
+<div class="post" data-post-id="10435" data-author="*juggleblood*" data-date="2006-01-30T18:05:39+00:00" data-subject="Add a healer into middle of Healo .Net">
 
 Usage:
 

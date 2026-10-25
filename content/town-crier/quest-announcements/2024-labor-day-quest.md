@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40109" data-author="*Idjit*" data-date="2024-08-30T04:51:56+00:00">
+<div class="post" data-post-id="40109" data-author="*Idjit*" data-date="2024-08-30T04:51:56+00:00" data-subject="2024 Labor Day Quest">
 
 This is occurring NOON Pacific Saturday 8/31/2024
 

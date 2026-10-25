@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="5164" data-author="achazia" data-date="2005-03-18T07:02:08+00:00">
+<div class="post" data-post-id="5164" data-author="achazia" data-date="2005-03-18T07:02:08+00:00" data-subject="...">
 
 Hi again!
 
@@ -22,7 +22,7 @@ thanks for the answer....
 
 </div>
 
-<div class="post" data-post-id="5167" data-author="guest" data-date="2005-03-18T11:34:20+00:00">
+<div class="post" data-post-id="5167" data-author="guest" data-date="2005-03-18T11:34:20+00:00" data-subject="">
 
 Hi, Achazia!
 

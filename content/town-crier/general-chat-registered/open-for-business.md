@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34175" data-author="Kveldulfr" data-date="2013-03-24T14:28:12+00:00">
+<div class="post" data-post-id="34175" data-author="Kveldulfr" data-date="2013-03-24T14:28:12+00:00" data-subject="Open for Business!">
 
 I just couldn't take it anymore! I knew all the hard work would pay off one
 
@@ -58,7 +58,7 @@ The Raven's Roost Inn
 
 </div>
 
-<div class="post" data-post-id="34177" data-author="Tuck" data-date="2013-03-24T15:42:30+00:00">
+<div class="post" data-post-id="34177" data-author="Tuck" data-date="2013-03-24T15:42:30+00:00" data-subject="Re: Open for Business!">
 
 Object 'blade eternal damnation forge rr', Item type: WEAPON
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9063" data-author="*Splork*" data-date="2005-10-15T22:47:41+00:00">
+<div class="post" data-post-id="9063" data-author="*Splork*" data-date="2005-10-15T22:47:41+00:00" data-subject="MXP additions">
 
 1) new element RoomExits(will set your mxp variables to all the open exits in the room
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="15560" data-author="Shyla" data-date="2006-12-09T17:25:39+00:00">
+<div class="post" data-post-id="15560" data-author="Shyla" data-date="2006-12-09T17:25:39+00:00" data-subject="Keyless entry to vault changes">
 
 I would like to know what the official rules are regarding the changes to keyless entry.  Nothing has been officially posted anywhere about it yet , But I have been told by 2 different people whose vaults I have access to that they were told they have to change it.  Why have somethign about keyless vault entry for 3 mil if you aren't going to actually allow it? Can an immort that changed this please post what the official changes are and why they were made?
 
@@ -20,7 +20,7 @@ Deb aka shyla
 
 </div>
 
-<div class="post" data-post-id="15563" data-author="Medios" data-date="2006-12-09T20:39:26+00:00">
+<div class="post" data-post-id="15563" data-author="Medios" data-date="2006-12-09T20:39:26+00:00" data-subject="">
 
 I dont know how imms feel but I think its crap to have public access regen rooms.  If the vault in question is such a big deal pay the 1m for a key.  There are too many people abusing the keyless entry.
 
@@ -28,7 +28,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15564" data-author="Shyla" data-date="2006-12-09T21:09:28+00:00">
+<div class="post" data-post-id="15564" data-author="Shyla" data-date="2006-12-09T21:09:28+00:00" data-subject="">
 
 Just fyi i payed the 1 mil for the key and the 3 mil for keyless so i can get in without having to get keychain out of my robe which then can be stolen.  Or for times when i die and need to get to an emergency key i might have vaulted
 
@@ -36,7 +36,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="15565" data-author="Weasel" data-date="2006-12-09T21:17:51+00:00">
+<div class="post" data-post-id="15565" data-author="Weasel" data-date="2006-12-09T21:17:51+00:00" data-subject="">
 
 Maybe immorts could make the vault areas - or at least the rooms outside vaults - no steal? Considering how much is being paid for vaults, you'd think there'd be a little security built in too. The way things are at the moment means there is no way of entering a vault without exposing yourself to pthieving. At least make it an option to purchase that kind of security for an extra mil or something..
 
@@ -48,7 +48,7 @@ Alternatively, have a forged or drachma pouch for keys that is no-steal, and you
 
 </div>
 
-<div class="post" data-post-id="15567" data-author="12345" data-date="2006-12-10T00:31:59+00:00">
+<div class="post" data-post-id="15567" data-author="12345" data-date="2006-12-10T00:31:59+00:00" data-subject="">
 
 Yeah, Shyla donated 4 mil to our clanhall because there's a few of us that use it and we frequently offload lots of items while regenning or renting there.  She likes to pop in and retrieve spellbooks that other folks might find useful from time to time.
 
@@ -56,19 +56,19 @@ At the moment we're using a clandoor, but since she's not clanned she's kinda in
 
 </div>
 
-<div class="post" data-post-id="15568" data-author="13" data-date="2006-12-10T01:14:05+00:00">
+<div class="post" data-post-id="15568" data-author="13" data-date="2006-12-10T01:14:05+00:00" data-subject="">
 
 ive never heard of someone being pthieved in their vault or directly outside when they get their chain out
 
 </div>
 
-<div class="post" data-post-id="15569" data-author="Weasel" data-date="2006-12-10T01:33:07+00:00">
+<div class="post" data-post-id="15569" data-author="Weasel" data-date="2006-12-10T01:33:07+00:00" data-subject="">
 
 Didn't someone just get their keychain stolen as recently as last week?
 
 </div>
 
-<div class="post" data-post-id="15572" data-author="Leaf" data-date="2006-12-10T04:18:16+00:00">
+<div class="post" data-post-id="15572" data-author="Leaf" data-date="2006-12-10T04:18:16+00:00" data-subject="">
 
 Keychain was from Rub that was stolen.  However I believe some1 found
 
@@ -84,7 +84,7 @@ now Immorts wants to change all houses ...
 
 </div>
 
-<div class="post" data-post-id="15575" data-author="13" data-date="2006-12-10T15:05:26+00:00">
+<div class="post" data-post-id="15575" data-author="13" data-date="2006-12-10T15:05:26+00:00" data-subject="">
 
 [quote:1dkrjx3a]Didn't someone just get their keychain stolen as recently as last week?[/quote:1dkrjx3a]
 
@@ -94,7 +94,7 @@ Don't give out your entry keywords and you won't find shitheels fighting in your
 
 </div>
 
-<div class="post" data-post-id="15577" data-author="Ker" data-date="2006-12-10T15:39:24+00:00">
+<div class="post" data-post-id="15577" data-author="Ker" data-date="2006-12-10T15:39:24+00:00" data-subject="Keyless Entry to Vault Changes">
 
 Greetings, 
 
@@ -128,7 +128,7 @@ Quote: When you talk the talk, walk the walk.
 
 </div>
 
-<div class="post" data-post-id="15578" data-author="12345" data-date="2006-12-10T17:39:47+00:00">
+<div class="post" data-post-id="15578" data-author="12345" data-date="2006-12-10T17:39:47+00:00" data-subject="">
 
 Keyless entry isn't a big thing if you can keep it under control.  When it became blatantly obvious that the entire mud knew our password 2 days after we received it, we made plans to change it.  Not that we don't love you all, but it was kinda expensive and folks treating it like just another area of the mud kinda defeats the purpose.  
 
@@ -138,7 +138,7 @@ As far as clasps, I suppose you can do it if you want, but right now the imms ha
 
 </div>
 
-<div class="post" data-post-id="15585" data-author="Avatar" data-date="2006-12-11T14:52:04+00:00">
+<div class="post" data-post-id="15585" data-author="Avatar" data-date="2006-12-11T14:52:04+00:00" data-subject="Vaults">
 
 Is this option for keyless entry documented in the Help files?  I'm not online to check, but I don't remember seeing anything in NEWS about it.  For that matter, I don't remember seeing the "say recall" trigger listed as an option.  I'm not sure how people are supposed to hear about these things, but it seems to leave a wide gap.
 
@@ -146,7 +146,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="15586" data-author="Autolycos" data-date="2006-12-11T14:58:49+00:00">
+<div class="post" data-post-id="15586" data-author="Autolycos" data-date="2006-12-11T14:58:49+00:00" data-subject="">
 
 i was told about the recall trig from Diemos back when he was doing vaults.  The keyless i was unaware of.
 
@@ -154,7 +154,7 @@ ps. nice to see you Charles :)
 
 </div>
 
-<div class="post" data-post-id="15604" data-author="12345" data-date="2006-12-12T00:13:03+00:00">
+<div class="post" data-post-id="15604" data-author="12345" data-date="2006-12-12T00:13:03+00:00" data-subject="">
 
 It's not really anything new exactly.  It's on the current Sloth Housing page:
 
@@ -176,7 +176,7 @@ This issue came up before when Derro did a bunch of crying on the boards about p
 
 </div>
 
-<div class="post" data-post-id="15606" data-author="*Splork*" data-date="2006-12-12T05:37:55+00:00">
+<div class="post" data-post-id="15606" data-author="*Splork*" data-date="2006-12-12T05:37:55+00:00" data-subject="">
 
 I have no problem with tt's used to enter vaults but we need a way to prevent these spaces from becoming public regen areas.
 
@@ -188,7 +188,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="15608" data-author="Autolycos" data-date="2006-12-12T13:19:36+00:00">
+<div class="post" data-post-id="15608" data-author="Autolycos" data-date="2006-12-12T13:19:36+00:00" data-subject="">
 
 how about solving 2 threads at once?  
 
@@ -196,25 +196,25 @@ find a way to code clan clasps to act as a perma key to allow people to phase th
 
 </div>
 
-<div class="post" data-post-id="15616" data-author="Therum" data-date="2006-12-13T01:47:48+00:00">
+<div class="post" data-post-id="15616" data-author="Therum" data-date="2006-12-13T01:47:48+00:00" data-subject="">
 
 now that is a idea worth putting in game.
 
 </div>
 
-<div class="post" data-post-id="15617" data-author="13" data-date="2006-12-13T02:03:35+00:00">
+<div class="post" data-post-id="15617" data-author="13" data-date="2006-12-13T02:03:35+00:00" data-subject="">
 
 and flag you for PVP...
 
 </div>
 
-<div class="post" data-post-id="15619" data-author="Guinex" data-date="2006-12-13T05:57:13+00:00">
+<div class="post" data-post-id="15619" data-author="Guinex" data-date="2006-12-13T05:57:13+00:00" data-subject="">
 
 I like the flag for PVP option :D
 
 </div>
 
-<div class="post" data-post-id="15623" data-author="Avatar" data-date="2006-12-14T14:10:13+00:00">
+<div class="post" data-post-id="15623" data-author="Avatar" data-date="2006-12-14T14:10:13+00:00" data-subject="Yo Auto">
 
 Hiya man  :)
 
@@ -230,7 +230,7 @@ I might be the most relocating RL'er around here these last couple of years.  I'
 
 </div>
 
-<div class="post" data-post-id="15625" data-author="Autolycos" data-date="2006-12-14T15:02:35+00:00">
+<div class="post" data-post-id="15625" data-author="Autolycos" data-date="2006-12-14T15:02:35+00:00" data-subject="all your charles are belong to sloth">
 
 cool.. its been like 7-8 years?
 

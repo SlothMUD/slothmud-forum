@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="4968" data-author="Prog" data-date="2005-03-10T17:55:28+00:00">
+<div class="post" data-post-id="4968" data-author="Prog" data-date="2005-03-10T17:55:28+00:00" data-subject="wtb Bracer of Flames * 2">
 
 subj. catch me online
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32935" data-author="*Breeze*" data-date="2011-09-24T15:43:03+00:00">
+<div class="post" data-post-id="32935" data-author="*Breeze*" data-date="2011-09-24T15:43:03+00:00" data-subject="Auctioneer">
 
 The new Auctioneer is running on SS.  Go find Nia :)
 
@@ -18,7 +18,7 @@ Please report any bugs to Breeze.
 
 </div>
 
-<div class="post" data-post-id="32936" data-author="*Breeze*" data-date="2011-09-27T22:52:01+00:00">
+<div class="post" data-post-id="32936" data-author="*Breeze*" data-date="2011-09-27T22:52:01+00:00" data-subject="Re: Auctioneer">
 
 Added :: "auction status" command - shows who is bidding on what (similar to old bidlist command)
 
@@ -28,7 +28,7 @@ In the words of Isabo - changes in when someone moves code over and compiles/reb
 
 </div>
 
-<div class="post" data-post-id="32938" data-author="*Breeze*" data-date="2011-09-28T12:49:57+00:00">
+<div class="post" data-post-id="32938" data-author="*Breeze*" data-date="2011-09-28T12:49:57+00:00" data-subject="Re: Auctioneer">
 
 auctioneer live auctions added to the website right under live blog.
 

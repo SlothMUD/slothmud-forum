@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="5034" data-author="achazia" data-date="2005-03-14T09:52:10+00:00">
+<div class="post" data-post-id="5034" data-author="achazia" data-date="2005-03-14T09:52:10+00:00" data-subject="2 things...">
 
 Hi!
 
@@ -34,13 +34,13 @@ Thanks for a great MUD!  :wink:
 
 </div>
 
-<div class="post" data-post-id="5053" data-author="Weasel" data-date="2005-03-14T23:35:13+00:00">
+<div class="post" data-post-id="5053" data-author="Weasel" data-date="2005-03-14T23:35:13+00:00" data-subject="">
 
 For the last bit about associating mud character logon with the website logon, I think the issue is one of security - it would be too risky having someone hack the forum with comparitive ease, and then from there be able to clean out someone's character in-game.
 
 </div>
 
-<div class="post" data-post-id="5056" data-author="*Splork*" data-date="2005-03-14T23:53:31+00:00">
+<div class="post" data-post-id="5056" data-author="*Splork*" data-date="2005-03-14T23:53:31+00:00" data-subject="">
 
 We are planning on adding a finger command that will be accessible from both the mud and web page to access information about your characters and possible others.
 
@@ -52,13 +52,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="5060" data-author="Toxis" data-date="2005-03-15T00:23:35+00:00">
+<div class="post" data-post-id="5060" data-author="Toxis" data-date="2005-03-15T00:23:35+00:00" data-subject="">
 
 How about a "who list" of every character that has ever been made? (not including those that have been wiped, just those that are currently in the sloth code.)
 
 </div>
 
-<div class="post" data-post-id="5063" data-author="achazia" data-date="2005-03-15T07:29:50+00:00">
+<div class="post" data-post-id="5063" data-author="achazia" data-date="2005-03-15T07:29:50+00:00" data-subject="...">
 
 Hi again!
 

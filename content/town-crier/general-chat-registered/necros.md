@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="39405" data-author="Driven" data-date="2020-03-23T15:00:21+00:00">
+<div class="post" data-post-id="39405" data-author="Driven" data-date="2020-03-23T15:00:21+00:00" data-subject="Necros">
 
 So I'm seeing a couple necros returning to the game and this is wonderful--welcome back Beatrix, and good to see you Guinex.  I'm seeing in titles that necros need some attention and wanted to get the conversation started.  I played a necro to 3x40 but found that the playstyle was not for me, so I don't think that I qualify as a reliable source for ways in which necros need improvement.
 
@@ -18,7 +18,7 @@ Go!
 
 </div>
 
-<div class="post" data-post-id="39406" data-author="Gorka" data-date="2020-03-23T18:53:32+00:00">
+<div class="post" data-post-id="39406" data-author="Gorka" data-date="2020-03-23T18:53:32+00:00" data-subject="Re: Necros">
 
 Disclaimer: Never played a necro.
 
@@ -32,7 +32,7 @@ Epics are no longer hard, they are a complete joke, the worst reward system in t
 
 </div>
 
-<div class="post" data-post-id="39408" data-author="Bandit" data-date="2020-03-23T21:50:14+00:00">
+<div class="post" data-post-id="39408" data-author="Bandit" data-date="2020-03-23T21:50:14+00:00" data-subject="Re: Necros">
 
 I don't play a necro either, and that's probably because it seems like a class that needs a lot of player attention as well.
 
@@ -44,7 +44,7 @@ And to the point about making things stronger and combat more dangerous, we'll a
 
 </div>
 
-<div class="post" data-post-id="39410" data-author="Ker" data-date="2020-03-24T02:19:57+00:00">
+<div class="post" data-post-id="39410" data-author="Ker" data-date="2020-03-24T02:19:57+00:00" data-subject="Re: Necros">
 
 Dear Gorka,
 
@@ -60,7 +60,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="39411" data-author="Ker" data-date="2020-03-24T06:39:12+00:00">
+<div class="post" data-post-id="39411" data-author="Ker" data-date="2020-03-24T06:39:12+00:00" data-subject="Re: Necros">
 
 Moving on,
 

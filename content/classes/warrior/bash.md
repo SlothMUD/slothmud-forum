@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2189" data-author="Prometheus" data-date="2004-10-06T23:37:58+00:00">
+<div class="post" data-post-id="2189" data-author="Prometheus" data-date="2004-10-06T23:37:58+00:00" data-subject="Bash">
 
 So, I noticed that the warriors section is looking kinda sparse.  Kind of like their skill list was for so many years.  I'd just like to thank whoever it was that thought of things like extra warrior damage with nonstab weapons, frenzy, crit hit, and that cool warrior prime sword.  Really made me excited to play Prometheus for awhile.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="37156" data-author="*Idjit*" data-date="2016-07-30T23:11:40+00:00">
+<div class="post" data-post-id="37156" data-author="*Idjit*" data-date="2016-07-30T23:11:40+00:00" data-subject="Known Random Spellbook Mobs">
 
 I was searching the forum for spellbook mobs and did not see one single unified topic for this.
 
@@ -32,7 +32,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="37157" data-author="*Idjit*" data-date="2016-07-30T23:58:29+00:00">
+<div class="post" data-post-id="37157" data-author="*Idjit*" data-date="2016-07-30T23:58:29+00:00" data-subject="Re: Known Random Spellbook Mobs">
 
 definite maybes:
 
@@ -44,7 +44,7 @@ Please help!
 
 </div>
 
-<div class="post" data-post-id="37158" data-author="Teron" data-date="2016-07-31T06:15:32+00:00">
+<div class="post" data-post-id="37158" data-author="Teron" data-date="2016-07-31T06:15:32+00:00" data-subject="Re: Known Random Spellbook Mobs">
 
 Mobs in the Amaryllian Pass and the Moors pop randomized spellbooks under 20 level, which include ones that are harder to get, than others, such as:
 
@@ -90,7 +90,7 @@ Island: Siren's Rock, 5w, all s from the East Bamboo Gate.
 
 </div>
 
-<div class="post" data-post-id="37197" data-author="cyprimus" data-date="2016-08-08T01:52:29+00:00">
+<div class="post" data-post-id="37197" data-author="cyprimus" data-date="2016-08-08T01:52:29+00:00" data-subject="Re: Known Random Spellbook Mobs">
 
 residence in cloud giants.
 
@@ -108,7 +108,7 @@ will try and remember others
 
 </div>
 
-<div class="post" data-post-id="37198" data-author="*Idjit*" data-date="2016-08-08T02:28:49+00:00">
+<div class="post" data-post-id="37198" data-author="*Idjit*" data-date="2016-08-08T02:28:49+00:00" data-subject="Re: Known Random Spellbook Mobs">
 
 orangutan librarian in Unseen U.
 
@@ -116,7 +116,7 @@ dire wolves in Moors of Gr'Valdh (similar range of SB's to the amaryllian mobs)
 
 </div>
 
-<div class="post" data-post-id="37200" data-author="Teron" data-date="2016-08-08T06:26:14+00:00">
+<div class="post" data-post-id="37200" data-author="Teron" data-date="2016-08-08T06:26:14+00:00" data-subject="Re: Known Random Spellbook Mobs">
 
 All Moors mobs pop spellbooks, as far as I remember. 
 

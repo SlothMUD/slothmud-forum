@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11557" data-author="Falsra" data-date="2006-03-20T13:28:40+00:00">
+<div class="post" data-post-id="11557" data-author="Falsra" data-date="2006-03-20T13:28:40+00:00" data-subject="attach all">
 
 we have get all/wear all/rem all/dep all/with all commands.
 

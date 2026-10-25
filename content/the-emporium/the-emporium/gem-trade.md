@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="37475" data-author="Gorka" data-date="2016-10-29T19:38:53+00:00">
+<div class="post" data-post-id="37475" data-author="Gorka" data-date="2016-10-29T19:38:53+00:00" data-subject="GEM TRADE!">
 
 So I have these gems, nearly all of them from an earlier time when sloth 4 started... maybe some of you can cast your mind back to those days when gems used to pop... well at least t3's used to pop. Gorka has been playing 78 days now and only won 2 t3's in that time... so lets be optimistic and assume I win a t3 for every 50 days of playing time... I guess I will have my tomb jades and csapphires in 750 days... It's really to the point where instead of being extremely valuable, these gems are actually almost worthless... because it's unrealistic to get 5 - well at least in slots where people need 10.
 
@@ -86,13 +86,13 @@ Catch me in game for some trade talk, maybe we can all make something useful fro
 
 </div>
 
-<div class="post" data-post-id="37478" data-author="Teron" data-date="2016-10-30T06:00:40+00:00">
+<div class="post" data-post-id="37478" data-author="Teron" data-date="2016-10-30T06:00:40+00:00" data-subject="Re: GEM TRADE!">
 
 It took me a year to get a few t3 runes, though I did lead and group a lot. Maybe I had some from the days they popped easily. It's not that impossible, but hard, yes.
 
 </div>
 
-<div class="post" data-post-id="37492" data-author="Gorka" data-date="2016-11-01T20:35:08+00:00">
+<div class="post" data-post-id="37492" data-author="Gorka" data-date="2016-11-01T20:35:08+00:00" data-subject="Re: GEM TRADE!">
 
 Looking for one more violet garnet, and 2 more rock crystal quartz... anyone?
 
@@ -156,7 +156,7 @@ You get a Pink Diamond from a dark green robe. QTY: 1 STAT: 4 HB WORN: Head TIER
 
 </div>
 
-<div class="post" data-post-id="37508" data-author="Wallop" data-date="2016-11-20T03:08:50+00:00">
+<div class="post" data-post-id="37508" data-author="Wallop" data-date="2016-11-20T03:08:50+00:00" data-subject="Re: GEM TRADE!">
 
 I don't have the ones you're looking for, but I have some that match your list:
 

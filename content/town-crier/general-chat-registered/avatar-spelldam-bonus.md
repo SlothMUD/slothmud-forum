@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="14647" data-author="*juggleblood*" data-date="2006-10-17T13:27:09+00:00">
+<div class="post" data-post-id="14647" data-author="*juggleblood*" data-date="2006-10-17T13:27:09+00:00" data-subject="Avatar Spelldam Bonus">
 
 I just hit 20 avatar and I was curious to know if the +20 firewind damage also applies to frostbolt.
 
@@ -22,7 +22,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="14648" data-author="Avatar" data-date="2006-10-17T15:42:36+00:00">
+<div class="post" data-post-id="14648" data-author="Avatar" data-date="2006-10-17T15:42:36+00:00" data-subject="Avatar bonuses">
 
 Congrats on the 20 Av - getting close to iron skin now  :)
 

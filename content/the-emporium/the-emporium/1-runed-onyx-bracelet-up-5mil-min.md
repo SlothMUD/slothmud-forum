@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="201" data-author="Deju" data-date="2004-05-21T18:01:03+00:00">
+<div class="post" data-post-id="201" data-author="Deju" data-date="2004-05-21T18:01:03+00:00" data-subject="1.Runed Onyx Bracelet up 5mil min">
 
 Object 'bracelet runed onyx', Item type: TREASURE
 
@@ -34,13 +34,13 @@ may use this item.
 
 </div>
 
-<div class="post" data-post-id="232" data-author="Sind" data-date="2004-05-22T03:24:48+00:00">
+<div class="post" data-post-id="232" data-author="Sind" data-date="2004-05-22T03:24:48+00:00" data-subject="5mil on runed onyx">
 
 subj
 
 </div>
 
-<div class="post" data-post-id="256" data-author="Sind" data-date="2004-05-23T05:29:10+00:00">
+<div class="post" data-post-id="256" data-author="Sind" data-date="2004-05-23T05:29:10+00:00" data-subject="withdrawn :)">
 
 i got it,so subj.
 
@@ -48,13 +48,13 @@ enjoy :)
 
 </div>
 
-<div class="post" data-post-id="314" data-author="Eagle" data-date="2004-05-25T06:14:22+00:00">
+<div class="post" data-post-id="314" data-author="Eagle" data-date="2004-05-25T06:14:22+00:00" data-subject="5mil">
 
 5mil<BR>
 
 </div>
 
-<div class="post" data-post-id="355" data-author="Deju" data-date="2004-05-26T04:15:39+00:00">
+<div class="post" data-post-id="355" data-author="Deju" data-date="2004-05-26T04:15:39+00:00" data-subject="Closed">
 
 Closed.  Eagle wins for 5mil
 

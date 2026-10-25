@@ -10,7 +10,7 @@ locked: false
 post_count: 29
 ---
 
-<div class="post" data-post-id="39039" data-author="Gorka" data-date="2019-01-11T03:02:40+00:00">
+<div class="post" data-post-id="39039" data-author="Gorka" data-date="2019-01-11T03:02:40+00:00" data-subject="New 3x40 Items">
 
 OAKENSHIELD
 
@@ -2224,7 +2224,7 @@ Requires: 5000000 coins, 5x a palladium bar (0)
 
 </div>
 
-<div class="post" data-post-id="39040" data-author="Gorka" data-date="2019-01-11T08:19:26+00:00">
+<div class="post" data-post-id="39040" data-author="Gorka" data-date="2019-01-11T08:19:26+00:00" data-subject="Re: New 3x40 Items">
 
 Thought I'd post my first impressions of the new system...
 
@@ -2256,7 +2256,7 @@ Tokens are spent on items worth, 1 or 2 (6x40 item) or 3 (8x40 item) tokens. The
 
 </div>
 
-<div class="post" data-post-id="39041" data-author="Gorka" data-date="2019-01-11T10:33:08+00:00">
+<div class="post" data-post-id="39041" data-author="Gorka" data-date="2019-01-11T10:33:08+00:00" data-subject="Re: New 3x40 Items">
 
 I suspect this is a mistake and is supposed to be Primary Warrior, as monks already have another Primary Body Item with Hand Dam and this one is Weapon Dam. If an imm can confirm that would be great.
 
@@ -2294,13 +2294,13 @@ Requires: 0 coins, 1x Mithril Cuirass of the Ancients (0),
 
 </div>
 
-<div class="post" data-post-id="39042" data-author="Driven" data-date="2019-01-11T13:33:38+00:00">
+<div class="post" data-post-id="39042" data-author="Driven" data-date="2019-01-11T13:33:38+00:00" data-subject="Re: New 3x40 Items">
 
 Yes, should be primary warrior.  Teker, Neptune, or Breeze can fix.
 
 </div>
 
-<div class="post" data-post-id="39043" data-author="*Neptune*" data-date="2019-01-11T14:16:56+00:00">
+<div class="post" data-post-id="39043" data-author="*Neptune*" data-date="2019-01-11T14:16:56+00:00" data-subject="Re: New 3x40 Items">
 
 The cuirass has been adjusted to be 3x40 Warrior Prime.
 
@@ -2308,13 +2308,13 @@ The cuirass has been adjusted to be 3x40 Warrior Prime.
 
 </div>
 
-<div class="post" data-post-id="39044" data-author="Driven" data-date="2019-01-11T19:04:26+00:00">
+<div class="post" data-post-id="39044" data-author="Driven" data-date="2019-01-11T19:04:26+00:00" data-subject="Re: New 3x40 Items">
 
 Just looked, think you meant 8x40 warrior prime.
 
 </div>
 
-<div class="post" data-post-id="39045" data-author="*Neptune*" data-date="2019-01-12T00:26:17+00:00">
+<div class="post" data-post-id="39045" data-author="*Neptune*" data-date="2019-01-12T00:26:17+00:00" data-subject="Re: New 3x40 Items">
 
 Yes, I meant 8x40 Prime Warrior. 
 
@@ -2322,7 +2322,7 @@ Yes, I meant 8x40 Prime Warrior.
 
 </div>
 
-<div class="post" data-post-id="39047" data-author="Gorka" data-date="2019-01-14T17:00:56+00:00">
+<div class="post" data-post-id="39047" data-author="Gorka" data-date="2019-01-14T17:00:56+00:00" data-subject="Re: New 3x40 Items">
 
 Could an imm pls confirm that the bars load on epics, as there have been a number of houses recently and situations where epics have been killed probably in numbers to justify at least one pop, and no bars have loaded.
 
@@ -2332,7 +2332,7 @@ EDIT: Talked to Maniac, bars are on the epic treasure list... hence they should 
 
 </div>
 
-<div class="post" data-post-id="39048" data-author="Gorka" data-date="2019-01-15T06:42:04+00:00">
+<div class="post" data-post-id="39048" data-author="Gorka" data-date="2019-01-15T06:42:04+00:00" data-subject="Re: New 3x40 Items">
 
 I tried upgrading an item today and ran into this kink...
 
@@ -2374,7 +2374,7 @@ EDIT: Apparently old 3x40 items need to be "replaced" by oakenshield first befor
 
 </div>
 
-<div class="post" data-post-id="39049" data-author="Driven" data-date="2019-01-15T14:20:01+00:00">
+<div class="post" data-post-id="39049" data-author="Driven" data-date="2019-01-15T14:20:01+00:00" data-subject="Re: New 3x40 Items">
 
 Yes, the forges all use the new items.  Even though some of the Oakenshield 3x40 items have the same name and stats as the old objects, they are in fact different objects.
 
@@ -2382,7 +2382,7 @@ The exchanges of the old 3x40 items into tokens do not count towards your exchan
 
 </div>
 
-<div class="post" data-post-id="39050" data-author="Josiah" data-date="2019-01-15T23:30:06+00:00">
+<div class="post" data-post-id="39050" data-author="Josiah" data-date="2019-01-15T23:30:06+00:00" data-subject="Re: New 3x40 Items">
 
 The Axe of Dwarvish Kings is amazing, and literally everyone (except monks) should get it.  Possibly some monks should pick it up too...
 
@@ -2392,13 +2392,13 @@ Thank you for all the new options.
 
 </div>
 
-<div class="post" data-post-id="39055" data-author="Driven" data-date="2019-01-19T02:04:41+00:00">
+<div class="post" data-post-id="39055" data-author="Driven" data-date="2019-01-19T02:04:41+00:00" data-subject="Re: New 3x40 Items">
 
 Heads up.  Based on player feedback, we have matched the proc rate of the 6x40 staff to that of the whip from EU.  Please see me online for a replacement staff if you have already forged one.  Cheers!
 
 </div>
 
-<div class="post" data-post-id="39056" data-author="Gorka" data-date="2019-01-19T06:22:30+00:00">
+<div class="post" data-post-id="39056" data-author="Gorka" data-date="2019-01-19T06:22:30+00:00" data-subject="Re: New 3x40 Items">
 
 Are you SERIOUS? A weapon that procs firewind like the whip. That's too far. Whats next backstab every round? You think I'm kidding, but that staff would frequently do 1000 damage a round. This is me in my spellsaves mode and my whip is already nearly as good as my sword... without the procs. If it procced twice and I had two firewinds that would be almost 2000 a round. That's not good, that's just silly.
 
@@ -2426,13 +2426,13 @@ Total                              48        99.9
 
 </div>
 
-<div class="post" data-post-id="39057" data-author="Driven" data-date="2019-01-19T11:09:04+00:00">
+<div class="post" data-post-id="39057" data-author="Driven" data-date="2019-01-19T11:09:04+00:00" data-subject="Re: New 3x40 Items">
 
 I don't have a lot of time right now to reply, but let's have the conversation.  I think the math is not as bad as you think, but I could be wrong.  Start at baseline.  No bonuses, firewind is 150 damage?  1 in 6 proc rate equals 150 / 6 on average, which is 25 damage.  On the high end, 400 damage per firewind is 400 / 6, which is 66 damage.  Gorka is doing 98.6.  Now add into the equation that being in battle is *far more painful* on a caster than a warrior.  Help me understand the imbalance.
 
 </div>
 
-<div class="post" data-post-id="39058" data-author="Gorka" data-date="2019-01-19T19:09:31+00:00">
+<div class="post" data-post-id="39058" data-author="Gorka" data-date="2019-01-19T19:09:31+00:00" data-subject="Re: New 3x40 Items">
 
 > **Quote:**
 > Damage Dealt                    Times  Average Amount
@@ -2489,13 +2489,13 @@ Your giving them 1558 (26 * 700+ drachma) for nothing. This doesn't even factor 
 
 </div>
 
-<div class="post" data-post-id="39059" data-author="norks" data-date="2019-01-19T22:22:54+00:00">
+<div class="post" data-post-id="39059" data-author="norks" data-date="2019-01-19T22:22:54+00:00" data-subject="Re: New 3x40 Items">
 
 FYI: I don't get those damage figures. I average 20.4 staff damage and 375 proc damage. Don't get me wrong: it's the best weapon I've had, but your estimations are way off.
 
 </div>
 
-<div class="post" data-post-id="39060" data-author="Gorka" data-date="2019-01-19T22:44:53+00:00">
+<div class="post" data-post-id="39060" data-author="Gorka" data-date="2019-01-19T22:44:53+00:00" data-subject="Re: New 3x40 Items">
 
 30 * 20.4 = 612
 
@@ -2507,7 +2507,7 @@ If Nork's numbers are true, I have a lot less of a problem with it. 20.4 damage 
 
 </div>
 
-<div class="post" data-post-id="39061" data-author="Driven" data-date="2019-01-20T01:01:02+00:00">
+<div class="post" data-post-id="39061" data-author="Driven" data-date="2019-01-20T01:01:02+00:00" data-subject="Re: New 3x40 Items">
 
 I will have to work through your numbers, but it seems like at first glance you mixed eqsets to get your whip and staff melee damage in combination with 430 firewinds.  Said another way, there is no eqset that provides 437 damage firewinds and a 72.5 average damage on the pound.  Your 72.5 average pound includes two things:  warrior prime crit rate and 24 weapon damage.  To get 437 damage winds, you are probably at -23 saves and 100 spell damage, and your weapon damage is probably 13 (the 10 you bought from the avatar shop plus the 3 damroll you bought).  
 
@@ -2519,7 +2519,7 @@ Enough to chew on for now... am at a party with friends.
 
 </div>
 
-<div class="post" data-post-id="39062" data-author="Gorka" data-date="2019-01-20T07:55:11+00:00">
+<div class="post" data-post-id="39062" data-author="Gorka" data-date="2019-01-20T07:55:11+00:00" data-subject="Re: New 3x40 Items">
 
 The whip and firewind numbers I gave should be true if I had the staff. Just give me the staff for an hour and I can come back with some hard data instead of all this guessing. I predict You would give me about a 33% increase on top of my melee damage (It would be even more for players like Norks because his damage is low) in my saves mode... which already gives me more burst damage than anyone on the mud and hence why I have done well in the later parts of the coliseum. The coliseum will be rewritten with that weapon... but who really cares about that anyway...
 
@@ -2543,13 +2543,13 @@ But for heavens sake, stop arguing with me, give me the weapon for an hour and l
 
 </div>
 
-<div class="post" data-post-id="39064" data-author="Driven" data-date="2019-01-20T12:20:33+00:00">
+<div class="post" data-post-id="39064" data-author="Driven" data-date="2019-01-20T12:20:33+00:00" data-subject="Re: New 3x40 Items">
 
 All good points, Gorka.  I will lend you the weapon and let's get the facts.  In no way do we want to ruin this game, but rather the goal was to provide something worthy of two (and three) 3x40 items into a forge to give more options for playstyle, leading to a deeper game experience..
 
 </div>
 
-<div class="post" data-post-id="39065" data-author="Gorka" data-date="2019-01-20T14:38:53+00:00">
+<div class="post" data-post-id="39065" data-author="Gorka" data-date="2019-01-20T14:38:53+00:00" data-subject="Re: New 3x40 Items">
 
 Thanks to Maniac who gave me a staff for testing. I went ahead and did as fair a test as I could... Figures below... The short version is, the staff increased Gorka's total damage by about 200 per round, or by 40% over the 6 rounds. The difference the staff makes for any player can be measured as the difference between their firewind and their flamestrike, plus a little extra melee damage. Basically for any mage out there who uses the whip, this item is 200+ damage in 1/6 attacks... (That's attacks... not rounds) It would be like giving me two extra attacks for free or 30-40 unearned bonus weapon dam... it just doesn't make sense.
 
@@ -2779,13 +2779,13 @@ To any player the new staff is a damage increase of 200 damage per round.
 
 </div>
 
-<div class="post" data-post-id="39066" data-author="Driven" data-date="2019-01-20T16:07:00+00:00">
+<div class="post" data-post-id="39066" data-author="Driven" data-date="2019-01-20T16:07:00+00:00" data-subject="Re: New 3x40 Items">
 
 Thanks for the test!  I want to balance the item by keeping the 1/6 proc rate, but lower the spell damage.  Can you report back with your damage on hellstrike, ice ray, disint, and thunder clap?
 
 </div>
 
-<div class="post" data-post-id="39067" data-author="Gorka" data-date="2019-01-20T18:54:58+00:00">
+<div class="post" data-post-id="39067" data-author="Gorka" data-date="2019-01-20T18:54:58+00:00" data-subject="Re: New 3x40 Items">
 
 > **Quote:**
 > Flame strike                       12       177.5
@@ -2802,7 +2802,7 @@ You were prepared to give warriors items with +5 Weapon dam at the elitist 8x40 
 
 </div>
 
-<div class="post" data-post-id="39068" data-author="Josiah" data-date="2019-01-20T21:00:54+00:00">
+<div class="post" data-post-id="39068" data-author="Josiah" data-date="2019-01-20T21:00:54+00:00" data-subject="Re: New 3x40 Items">
 
 Just a quick caution:
 
@@ -2814,7 +2814,7 @@ I was unaware that proc weapons are already eclipsing that output.
 
 </div>
 
-<div class="post" data-post-id="39069" data-author="Driven" data-date="2019-01-20T23:55:21+00:00">
+<div class="post" data-post-id="39069" data-author="Driven" data-date="2019-01-20T23:55:21+00:00" data-subject="Re: New 3x40 Items">
 
 Thanks to Gorka and excellent testing and collaboration, I think we have a properly balanced item.  The 6x40 staff is now an ice ray proc with the same rate as the EU whip, and we have added -1 saving spell to the item.  
 
@@ -2846,7 +2846,7 @@ Keep the discussions going for other items that appear unbalanced.  Is the axe g
 
 </div>
 
-<div class="post" data-post-id="39070" data-author="Josiah" data-date="2019-01-22T02:15:17+00:00">
+<div class="post" data-post-id="39070" data-author="Josiah" data-date="2019-01-22T02:15:17+00:00" data-subject="Re: New 3x40 Items">
 
 In light of recent information about actually viable proc weapons, I'm no longer worried about the axe.  (I didn't realize there was already a whip with 25 average damage)
 
@@ -2858,7 +2858,7 @@ I'll go back to dreaming about +strikedam equipment!
 
 </div>
 
-<div class="post" data-post-id="39082" data-author="Ezekiel" data-date="2019-02-01T22:02:27+00:00">
+<div class="post" data-post-id="39082" data-author="Ezekiel" data-date="2019-02-01T22:02:27+00:00" data-subject="Re: New 3x40 Items">
 
 I'm gonna be the guy to go ahead and say it:
 
@@ -2882,7 +2882,7 @@ Just my two cents,
 
 </div>
 
-<div class="post" data-post-id="39083" data-author="Gorka" data-date="2019-02-03T13:42:08+00:00">
+<div class="post" data-post-id="39083" data-author="Gorka" data-date="2019-02-03T13:42:08+00:00" data-subject="Re: New 3x40 Items">
 
 > **Ezekiel wrote:**
 > The only solution I can think of that will boost a caster's max dam on proc without making it hugely OP for other tanky multi-class chars is to make innate dam on weapon itself middling and then the proc damage to scale with saves and spellbonus a lot more. Otherwise you'll have this same argument every time.
@@ -2899,7 +2899,7 @@ I think the base damage of spells has always been a bit too high... this is why 
 
 </div>
 
-<div class="post" data-post-id="39084" data-author="norks" data-date="2019-02-03T17:51:14+00:00">
+<div class="post" data-post-id="39084" data-author="norks" data-date="2019-02-03T17:51:14+00:00" data-subject="Re: New 3x40 Items">
 
 The staff is slightly better offensively than the whip in my hands. I get about 20 more damage on the proc from ice over fire and the dice are better. But it doesn't have the +dam or the +hit that the whip does. The passive attributes are nice but don't add to the weapon's offensive prowess. I much preferred it with a firewind proc. Why wouldn't I? Maybe we could have an 8x40, caster-restricted version with the same stats and proc rate but with a firewind proc? True it would be a big bump to our offensive capabilities but I don't think there's anything wrong with that.
 

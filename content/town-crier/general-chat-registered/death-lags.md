@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="10294" data-author="12345" data-date="2006-01-23T05:01:01+00:00">
+<div class="post" data-post-id="10294" data-author="12345" data-date="2006-01-23T05:01:01+00:00" data-subject="Death Lags">
 
 Ok, this is starting to get silly.
 
@@ -22,19 +22,19 @@ It's nearly impossible to group through that.  Any idea what's causing it?  Or b
 
 </div>
 
-<div class="post" data-post-id="10295" data-author="kjartan" data-date="2006-01-23T06:22:00+00:00">
+<div class="post" data-post-id="10295" data-author="kjartan" data-date="2006-01-23T06:22:00+00:00" data-subject="">
 
 Jake got this fixed; there was another server at our hosting provider sitting on our ip.  They have been vaporized; you may continue mudding now.
 
 </div>
 
-<div class="post" data-post-id="10296" data-author="Mustang" data-date="2006-01-23T08:14:56+00:00">
+<div class="post" data-post-id="10296" data-author="Mustang" data-date="2006-01-23T08:14:56+00:00" data-subject="">
 
 now the game is crashing every 2 mins....
 
 </div>
 
-<div class="post" data-post-id="10297" data-author="Daisy" data-date="2006-01-23T09:34:54+00:00">
+<div class="post" data-post-id="10297" data-author="Daisy" data-date="2006-01-23T09:34:54+00:00" data-subject="Thanks for that">
 
 Jake got this fixed; there was another server at our hosting provider sitting on our ip.  They have been vaporized; you may continue mudding now.[/quote:36b3wpsw]
 
@@ -46,13 +46,13 @@ Seriously though I understand that problems happen, that the cause isn't always 
 
 </div>
 
-<div class="post" data-post-id="10304" data-author="Avatar" data-date="2006-01-23T18:49:18+00:00">
+<div class="post" data-post-id="10304" data-author="Avatar" data-date="2006-01-23T18:49:18+00:00" data-subject="Game issues">
 
 I guess my fluency in sarcasm is getting rusty, surely from disuse.  I can't tell if Daisy is trying to be nice or trying to be annoying.
 
 </div>
 
-<div class="post" data-post-id="10305" data-author="12345" data-date="2006-01-23T19:13:26+00:00">
+<div class="post" data-post-id="10305" data-author="12345" data-date="2006-01-23T19:13:26+00:00" data-subject="">
 
 I've given up trying to make sense of Daisy:
 
@@ -62,13 +62,13 @@ Back on topic, does anyone know if the lags have stopped?
 
 </div>
 
-<div class="post" data-post-id="10306" data-author="Grue" data-date="2006-01-23T19:51:23+00:00">
+<div class="post" data-post-id="10306" data-author="Grue" data-date="2006-01-23T19:51:23+00:00" data-subject="">
 
 Hey Daisy, during the period you don't play because things aren't up to your standards, think you could maybe stop posting as well, please?
 
 </div>
 
-<div class="post" data-post-id="10307" data-author="Weasel" data-date="2006-01-23T19:53:47+00:00">
+<div class="post" data-post-id="10307" data-author="Weasel" data-date="2006-01-23T19:53:47+00:00" data-subject="">
 
 hmm. don't think it was sarcasm, personally.
 
@@ -76,13 +76,13 @@ hmm. don't think it was sarcasm, personally.
 
 </div>
 
-<div class="post" data-post-id="10308" data-author="kjartan" data-date="2006-01-23T20:33:33+00:00">
+<div class="post" data-post-id="10308" data-author="kjartan" data-date="2006-01-23T20:33:33+00:00" data-subject="">
 
 As far as I heard the lags have stopped.  If they have started up again we need to know (so we can complain to the hosting provider) because it was caused by a specific problem and is, the hosting provider assures us, fixed.
 
 </div>
 
-<div class="post" data-post-id="10309" data-author="12345" data-date="2006-01-23T20:35:09+00:00">
+<div class="post" data-post-id="10309" data-author="12345" data-date="2006-01-23T20:35:09+00:00" data-subject="Re: Thanks for that">
 
 I'm so glad[/color:anpygqj2] that contrary to all other evidence[/color:anpygqj2] this is now fixed[/color:anpygqj2] and I can continue playing in confidence.[/quote:anpygqj2]
 
@@ -92,7 +92,7 @@ Thanks Kj, you beat me to the send button :)
 
 </div>
 
-<div class="post" data-post-id="10310" data-author="Weasel" data-date="2006-01-23T20:40:37+00:00">
+<div class="post" data-post-id="10310" data-author="Weasel" data-date="2006-01-23T20:40:37+00:00" data-subject="">
 
 hmm ok, you're right and I'm a weasel.  :twisted:
 

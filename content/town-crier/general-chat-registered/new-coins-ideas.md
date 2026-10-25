@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29005" data-author="jezer" data-date="2009-04-22T09:37:51+00:00">
+<div class="post" data-post-id="29005" data-author="jezer" data-date="2009-04-22T09:37:51+00:00" data-subject="New Coins Ideas">
 
 I agree animals having coins is stupid, and so are easy island mobs that are loaded. But how can you fill this void? 
 
@@ -44,7 +44,7 @@ A lot of these things already exist in sloth, they just kind of needed to be wor
 
 </div>
 
-<div class="post" data-post-id="29006" data-author="jezer" data-date="2009-04-22T10:01:40+00:00">
+<div class="post" data-post-id="29006" data-author="jezer" data-date="2009-04-22T10:01:40+00:00" data-subject="">
 
 I know auctions are based on supply and demand, but there were aspects of the old sloth that compounded the problem. When I ran eq for coins I could make 10-20mill a day if I could cycle different mobs for multiple customers... but I soon found some mobs were not worth dealing with... 
 

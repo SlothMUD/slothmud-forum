@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="5489" data-author="Methyx" data-date="2005-04-09T18:47:41+00:00">
+<div class="post" data-post-id="5489" data-author="Methyx" data-date="2005-04-09T18:47:41+00:00" data-subject="Looking For Chainer and Stryker">
 
 Hey Guys,
 
@@ -22,13 +22,13 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="5490" data-author="Stryker" data-date="2005-04-09T23:05:10+00:00">
+<div class="post" data-post-id="5490" data-author="Stryker" data-date="2005-04-09T23:05:10+00:00" data-subject="">
 
 I was on today for much of the day. Should be on mostly on w/e. I play mullah more often these days.
 
 </div>
 
-<div class="post" data-post-id="5642" data-author="Methyx" data-date="2005-04-14T19:51:35+00:00">
+<div class="post" data-post-id="5642" data-author="Methyx" data-date="2005-04-14T19:51:35+00:00" data-subject="">
 
 Heh,
 
@@ -42,7 +42,7 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="6031" data-author="Chainer" data-date="2005-05-07T07:23:35+00:00">
+<div class="post" data-post-id="6031" data-author="Chainer" data-date="2005-05-07T07:23:35+00:00" data-subject="">
 
 yo, methyx can catch me on more often now
 

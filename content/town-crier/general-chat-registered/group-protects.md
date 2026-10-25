@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="15867" data-author="Dikus" data-date="2006-12-31T05:45:42+00:00">
+<div class="post" data-post-id="15867" data-author="Dikus" data-date="2006-12-31T05:45:42+00:00" data-subject="group protects">
 
 Group 'dweb xp' consists of:
 

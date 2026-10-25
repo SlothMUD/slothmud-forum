@@ -10,7 +10,7 @@ locked: false
 post_count: 32
 ---
 
-<div class="post" data-post-id="15246" data-author="Gimlet" data-date="2006-11-21T15:20:52+00:00">
+<div class="post" data-post-id="15246" data-author="Gimlet" data-date="2006-11-21T15:20:52+00:00" data-subject="Bye Mud">
 
 been fun these past 11-12 years.
 
@@ -22,13 +22,13 @@ al
 
 </div>
 
-<div class="post" data-post-id="15247" data-author="Autolycos" data-date="2006-11-21T15:24:03+00:00">
+<div class="post" data-post-id="15247" data-author="Autolycos" data-date="2006-11-21T15:24:03+00:00" data-subject="">
 
 that sucks man  :(
 
 </div>
 
-<div class="post" data-post-id="15248" data-author="Gimlet" data-date="2006-11-21T15:28:01+00:00">
+<div class="post" data-post-id="15248" data-author="Gimlet" data-date="2006-11-21T15:28:01+00:00" data-subject="">
 
 well you know what happened
 
@@ -36,7 +36,7 @@ and i'm not gonna post the conversation i had with clink
 
 </div>
 
-<div class="post" data-post-id="15249" data-author="Keirin" data-date="2006-11-21T15:28:51+00:00">
+<div class="post" data-post-id="15249" data-author="Keirin" data-date="2006-11-21T15:28:51+00:00" data-subject="">
 
 And I've got plocked for no apparent reason that I can think of.. *sigh* so I guess it's goodbye (by default) for me as well. Thanks for the fun and the help to everyone who taught me what mudding is about the last few months. 
 
@@ -46,7 +46,7 @@ Keirin/Quinte
 
 </div>
 
-<div class="post" data-post-id="15251" data-author="*juggleblood*" data-date="2006-11-21T15:54:09+00:00">
+<div class="post" data-post-id="15251" data-author="*juggleblood*" data-date="2006-11-21T15:54:09+00:00" data-subject="">
 
 :shock: 
 
@@ -54,7 +54,7 @@ Clink, will you please explain what's up? I play with Gimlet and Keirin all the 
 
 </div>
 
-<div class="post" data-post-id="15252" data-author="vrta" data-date="2006-11-21T16:14:41+00:00">
+<div class="post" data-post-id="15252" data-author="vrta" data-date="2006-11-21T16:14:41+00:00" data-subject="">
 
 Just like that?!
 
@@ -64,7 +64,7 @@ what's happened recently with people?
 
 </div>
 
-<div class="post" data-post-id="15253" data-author="Gimlet" data-date="2006-11-21T16:18:51+00:00">
+<div class="post" data-post-id="15253" data-author="Gimlet" data-date="2006-11-21T16:18:51+00:00" data-subject="">
 
 let's not get into a discussion over this
 
@@ -72,7 +72,7 @@ thanks clink for unlocking keirins' chars, she had nothing to do with this
 
 </div>
 
-<div class="post" data-post-id="15259" data-author="Leaf" data-date="2006-11-21T18:47:03+00:00">
+<div class="post" data-post-id="15259" data-author="Leaf" data-date="2006-11-21T18:47:03+00:00" data-subject="">
 
 $100 Al will be back!
 
@@ -82,7 +82,7 @@ Whatever crap u guys might have did, better talk to Clink asap!
 
 </div>
 
-<div class="post" data-post-id="15260" data-author="Autolycos" data-date="2006-11-21T18:50:16+00:00">
+<div class="post" data-post-id="15260" data-author="Autolycos" data-date="2006-11-21T18:50:16+00:00" data-subject="">
 
 did, done, resolved.
 
@@ -92,19 +92,19 @@ you'll get your eviction notice soon Will.. we all signed it.. I was the last an
 
 </div>
 
-<div class="post" data-post-id="15261" data-author="osric" data-date="2006-11-21T19:06:45+00:00">
+<div class="post" data-post-id="15261" data-author="osric" data-date="2006-11-21T19:06:45+00:00" data-subject="">
 
 Sucks to see you guys go, I hope you come back!
 
 </div>
 
-<div class="post" data-post-id="15264" data-author="Leaf" data-date="2006-11-21T19:33:15+00:00">
+<div class="post" data-post-id="15264" data-author="Leaf" data-date="2006-11-21T19:33:15+00:00" data-subject="">
 
 Hum.. does this mean ur not coming back Jason???
 
 </div>
 
-<div class="post" data-post-id="15265" data-author="Autolycos" data-date="2006-11-21T19:42:58+00:00">
+<div class="post" data-post-id="15265" data-author="Autolycos" data-date="2006-11-21T19:42:58+00:00" data-subject="">
 
 Hum.. does this mean ur not coming back Jason???[/quote:3su963b3]
 
@@ -118,7 +118,7 @@ Gimlet is leaving..  he was wronged.. and is being punished far too extreme..
 
 </div>
 
-<div class="post" data-post-id="15268" data-author="*Krom*" data-date="2006-11-21T20:28:58+00:00">
+<div class="post" data-post-id="15268" data-author="*Krom*" data-date="2006-11-21T20:28:58+00:00" data-subject="">
 
 Hum.. does this mean ur not coming back Jason???[/quote:30g7oj2m]
 
@@ -134,7 +134,7 @@ Although I put in a good word for him based on recent behavior, Al was actually 
 
 </div>
 
-<div class="post" data-post-id="15271" data-author="Autolycos" data-date="2006-11-21T22:56:10+00:00">
+<div class="post" data-post-id="15271" data-author="Autolycos" data-date="2006-11-21T22:56:10+00:00" data-subject="">
 
 honestly i have to interject something.
 
@@ -146,7 +146,7 @@ I think the playerbase should have the ability to make our own educated descisio
 
 </div>
 
-<div class="post" data-post-id="15272" data-author="alias" data-date="2006-11-21T23:02:45+00:00">
+<div class="post" data-post-id="15272" data-author="alias" data-date="2006-11-21T23:02:45+00:00" data-subject="">
 
 You Can't ban Gimlet, he owes me like 500k for recall scrolls Ive used on him when hes dead. I was just gonna let the total rack up till he could buy me a mansion somewhere. Man I'm off the mud for 2 days and people get banned and crap?  Sorry to see u go Al, but Ill see ya on Icq I guess.
 
@@ -154,7 +154,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="15273" data-author="*Splork*" data-date="2006-11-22T00:23:45+00:00">
+<div class="post" data-post-id="15273" data-author="*Splork*" data-date="2006-11-22T00:23:45+00:00" data-subject="">
 
 I disagree with that Auto. The Immortals are the ones who have to constantly deal with Albert. While I like Albert, it gets to the point where we need to ask ourselves if its worth it? 
 
@@ -166,7 +166,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="15274" data-author="Medios" data-date="2006-11-22T00:28:41+00:00">
+<div class="post" data-post-id="15274" data-author="Medios" data-date="2006-11-22T00:28:41+00:00" data-subject="">
 
 I have to say that Al has been a good active member of sloth since hes been in DoW.  I dont know what has happened to bring back this former trouble but was it deserving of a ban?  Hes not a grief player, does have a foul mouth sometimes but I never knew that was a problem.  From what I know about Al hes childish about his temper and some players push him and he retaliates and is punished.  I dont see him going out and starting problems.  If I wrong please interject. 
 
@@ -174,7 +174,7 @@ MikeI
 
 </div>
 
-<div class="post" data-post-id="15275" data-author="Rynquald" data-date="2006-11-22T01:04:28+00:00">
+<div class="post" data-post-id="15275" data-author="Rynquald" data-date="2006-11-22T01:04:28+00:00" data-subject="">
 
 Must say that i'm agreeing with some of what Auto said here, supposedly Gimlet's basicly being banned for words towards other players, yet no one other than immortals seem to agree with the ban, or are even being asked for their opinions on it.
 
@@ -182,7 +182,7 @@ And do any of us actually care about the "history" in favor of what what he's li
 
 </div>
 
-<div class="post" data-post-id="15276" data-author="*Splork*" data-date="2006-11-22T01:35:13+00:00">
+<div class="post" data-post-id="15276" data-author="*Splork*" data-date="2006-11-22T01:35:13+00:00" data-subject="">
 
 No one except a few of the Immortals know 1/100 of the dealings with Albert.
 
@@ -194,13 +194,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="15277" data-author="Medios" data-date="2006-11-22T02:20:39+00:00">
+<div class="post" data-post-id="15277" data-author="Medios" data-date="2006-11-22T02:20:39+00:00" data-subject="">
 
 :!:
 
 </div>
 
-<div class="post" data-post-id="15279" data-author="Weasel" data-date="2006-11-22T02:45:06+00:00">
+<div class="post" data-post-id="15279" data-author="Weasel" data-date="2006-11-22T02:45:06+00:00" data-subject="">
 
 Gimlet has been found guilty of being a prime instigator in a truly heinous series of sexual predation crimes against koboldity. Gimlet was taken down in a sting operation which uncovered a highly disturbing racket where naive young kobolds were lured into the wildlands north of the Kobold homeland with false promises of untold wealth and glory on the gold-paved streets of Bal Harbor. Once the bait of fame and fortune was taken, Gimlet would lie in wait and ambush the unsuspecting young kobolds just south of the west gate of Bal Harbor, at which point he'd incapacitate them and have his perverted deviant ways with them for days on end. When his sexual needs were finally satiated, he would then trade the distraught young kobolds to a used-sexslave dealer in Bal Horbor in exchange for unspecified amounts of shoop-shaped cookies (his other addiction). The identity of the used-sexslave dealer remains unknown at this stage in the investigation.
 
@@ -210,13 +210,13 @@ Gimlet has been found guilty of being a prime instigator in a truly heinous seri
 
 </div>
 
-<div class="post" data-post-id="15280" data-author="12345" data-date="2006-11-22T03:11:06+00:00">
+<div class="post" data-post-id="15280" data-author="12345" data-date="2006-11-22T03:11:06+00:00" data-subject="">
 
 Other victims of these crimes: ferrets in Newbatia and Weasel north of Bal Harbor.
 
 </div>
 
-<div class="post" data-post-id="15281" data-author="Hotara" data-date="2006-11-22T11:14:13+00:00">
+<div class="post" data-post-id="15281" data-author="Hotara" data-date="2006-11-22T11:14:13+00:00" data-subject="">
 
 God knows I've had my issues with Al, but to see him leave like this?
 
@@ -226,7 +226,7 @@ Hotara
 
 </div>
 
-<div class="post" data-post-id="15282" data-author="Hades" data-date="2006-11-22T11:15:00+00:00">
+<div class="post" data-post-id="15282" data-author="Hades" data-date="2006-11-22T11:15:00+00:00" data-subject="Nothing to see here">
 
 """ "" """" "" """"  """" "
 
@@ -242,7 +242,7 @@ Hotara
 
 </div>
 
-<div class="post" data-post-id="15283" data-author="Gimlet" data-date="2006-11-22T17:04:10+00:00">
+<div class="post" data-post-id="15283" data-author="Gimlet" data-date="2006-11-22T17:04:10+00:00" data-subject="Done and dusted">
 
 this issue has been resolved and settled, I hope everyone would just let it die down.
 
@@ -260,7 +260,7 @@ Al
 
 </div>
 
-<div class="post" data-post-id="15284" data-author="13" data-date="2006-11-22T17:21:03+00:00">
+<div class="post" data-post-id="15284" data-author="13" data-date="2006-11-22T17:21:03+00:00" data-subject="">
 
 I have the same sort of anger and it doesn't have anything to do with 
 
@@ -328,7 +328,7 @@ Jo Momma
 
 </div>
 
-<div class="post" data-post-id="15286" data-author="tincts" data-date="2006-11-22T21:18:54+00:00">
+<div class="post" data-post-id="15286" data-author="tincts" data-date="2006-11-22T21:18:54+00:00" data-subject="">
 
 Bummer  :( 
 
@@ -336,7 +336,7 @@ See ya Gimlet dude.
 
 </div>
 
-<div class="post" data-post-id="15287" data-author="12345" data-date="2006-11-22T21:36:30+00:00">
+<div class="post" data-post-id="15287" data-author="12345" data-date="2006-11-22T21:36:30+00:00" data-subject="">
 
 I think Aa has it right.  Al is a smart guy that's a little rough around the edges.  Sometimes people have to take a couple rough knocks to get straightened out.  That's just life. I think Al is taking this with a great deal of maturity, especially considering his character.
 
@@ -344,7 +344,7 @@ I've been known to be more tolerant than most...  However, I think the fact that
 
 </div>
 
-<div class="post" data-post-id="15292" data-author="Dikus" data-date="2006-11-23T10:27:20+00:00">
+<div class="post" data-post-id="15292" data-author="Dikus" data-date="2006-11-23T10:27:20+00:00" data-subject="Gimlets Ban">
 
 I am not gunna point fingers or say it is justified or anything like that. But i will say that i have put up with gimlet harrassing tossing pkilling and everything but i must say that as much as i hated him I still wouldnt want to see him go like this but i dont know what all went on in the past seeing how i just started about a yr or so ago if that. I was furious when he pkilled me and someone had to raise me at the time but now that he is gone where is that gunna come from :( but i wont say i am gunna miss that but i will miss ya Al sorry it ended like this :(
 
@@ -354,7 +354,7 @@ Orcs/ his alts
 
 </div>
 
-<div class="post" data-post-id="15298" data-author="Kotetzo" data-date="2006-11-23T17:53:18+00:00">
+<div class="post" data-post-id="15298" data-author="Kotetzo" data-date="2006-11-23T17:53:18+00:00" data-subject="">
 
 Notes? I'm ready to write a friggin' essay here.
 
@@ -366,7 +366,7 @@ Respectfully,
 
 </div>
 
-<div class="post" data-post-id="15299" data-author="Gimlet" data-date="2006-11-23T17:55:47+00:00">
+<div class="post" data-post-id="15299" data-author="Gimlet" data-date="2006-11-23T17:55:47+00:00" data-subject="">
 
 Yup Kotetzo
 
@@ -376,7 +376,7 @@ see ya all in 2 mths
 
 </div>
 
-<div class="post" data-post-id="15301" data-author="Weasel" data-date="2006-11-23T18:29:47+00:00">
+<div class="post" data-post-id="15301" data-author="Weasel" data-date="2006-11-23T18:29:47+00:00" data-subject="">
 
 I'll save you some pies.
 

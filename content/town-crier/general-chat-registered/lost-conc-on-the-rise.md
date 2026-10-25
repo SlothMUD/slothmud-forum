@@ -10,13 +10,13 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="23908" data-author="*juggleblood*" data-date="2008-04-22T13:13:19+00:00">
+<div class="post" data-post-id="23908" data-author="*juggleblood*" data-date="2008-04-22T13:13:19+00:00" data-subject="Lost Conc on the Rise?">
 
 see poll
 
 </div>
 
-<div class="post" data-post-id="23910" data-author="jezer" data-date="2008-04-22T13:56:55+00:00">
+<div class="post" data-post-id="23910" data-author="jezer" data-date="2008-04-22T13:56:55+00:00" data-subject="">
 
 I think we should stage the first industrial action sloth has ever seen, and page the gods with a simple exclamation mark (!) when it happens, as a sign of protest. It's totally ridiculous. It was not this bad when I first played, and it was not this bad when I came back again for the first few months.
 
@@ -24,25 +24,25 @@ Who changed it? Come on... out you come... fess up! :twisted:
 
 </div>
 
-<div class="post" data-post-id="23911" data-author="Kerri" data-date="2008-04-22T14:36:06+00:00">
+<div class="post" data-post-id="23911" data-author="Kerri" data-date="2008-04-22T14:36:06+00:00" data-subject="">
 
 I took a break from mudding for a few months due to baby Kai, and I'm definitely getting more lost concentrations.  Theca's mana gets owned when I cast spells or try to heal with her.
 
 </div>
 
-<div class="post" data-post-id="23912" data-author="Vixn" data-date="2008-04-22T16:18:48+00:00">
+<div class="post" data-post-id="23912" data-author="Vixn" data-date="2008-04-22T16:18:48+00:00" data-subject="">
 
 ----->> !  <<------
 
 </div>
 
-<div class="post" data-post-id="23913" data-author="Weasel" data-date="2008-04-22T16:21:09+00:00">
+<div class="post" data-post-id="23913" data-author="Weasel" data-date="2008-04-22T16:21:09+00:00" data-subject="">
 
 I blame Clink.    and Dot.    it's all their fault.
 
 </div>
 
-<div class="post" data-post-id="23914" data-author="Weasel" data-date="2008-04-22T18:16:43+00:00">
+<div class="post" data-post-id="23914" data-author="Weasel" data-date="2008-04-22T18:16:43+00:00" data-subject="">
 
 Is it related to some of the more common conjunctions at all? There are times where it seems ok, but there are times when it's just completely out of control, even after checking for diseases, remove curse, or even completely dispelling self several times, all to no avail.
 
@@ -52,7 +52,7 @@ Anyone done any stat gathering on lost conc rates recently?
 
 </div>
 
-<div class="post" data-post-id="23917" data-author="Toxis" data-date="2008-04-22T18:55:40+00:00">
+<div class="post" data-post-id="23917" data-author="Toxis" data-date="2008-04-22T18:55:40+00:00" data-subject="">
 
 I don't want to step over any boundries posting, as I am an immortal.  I do not know anything of the code, nor any imm info on this subject.  But last night I was in a group and this happened:
 
@@ -76,7 +76,7 @@ Patern?  Bug in the code?
 
 </div>
 
-<div class="post" data-post-id="23923" data-author="jezer" data-date="2008-04-22T23:39:21+00:00">
+<div class="post" data-post-id="23923" data-author="jezer" data-date="2008-04-22T23:39:21+00:00" data-subject="">
 
 [quote:2r0pzyi8]I could tell you, but I'd have to kill you.  0% 	 0%  	[ 0 ][/quote:2r0pzyi8]
 
@@ -84,13 +84,13 @@ Looks like Blaster hasn't voted yet...
 
 </div>
 
-<div class="post" data-post-id="23940" data-author="Widow" data-date="2008-04-23T04:19:31+00:00">
+<div class="post" data-post-id="23940" data-author="Widow" data-date="2008-04-23T04:19:31+00:00" data-subject="">
 
 no statistical data to back this up, but I appear to lose concentration at least twice as much in a fight than when I'm out. Probably more.
 
 </div>
 
-<div class="post" data-post-id="23943" data-author="Dragoth" data-date="2008-04-23T07:29:27+00:00">
+<div class="post" data-post-id="23943" data-author="Dragoth" data-date="2008-04-23T07:29:27+00:00" data-subject="">
 
 I think someone wanted to compensate for all those people with greater concentration skill and teaching spells which leads to lower % of lost conc.
 
@@ -112,7 +112,7 @@ The problem though, is the slothmud coder in the mood to change any of the syste
 
 </div>
 
-<div class="post" data-post-id="23960" data-author="Vixn" data-date="2008-04-23T18:22:16+00:00">
+<div class="post" data-post-id="23960" data-author="Vixn" data-date="2008-04-23T18:22:16+00:00" data-subject="">
 
 If a dice roll is 1d3 - you HAVE TO pop the item once if you kill the mob 3 times.[/quote:382t0bbw]
 
@@ -122,7 +122,7 @@ Another example - a dice has 6 sides. Don't you think if you roll it 6 times you
 
 </div>
 
-<div class="post" data-post-id="23961" data-author="Alberich" data-date="2008-04-23T18:37:21+00:00">
+<div class="post" data-post-id="23961" data-author="Alberich" data-date="2008-04-23T18:37:21+00:00" data-subject="">
 
 there was a pretty good discussion about that type of probability problem here
 
@@ -132,19 +132,19 @@ it's an old debate, but vixen is right.  A 1/3 chance means exactly that - not i
 
 </div>
 
-<div class="post" data-post-id="23962" data-author="Weasel" data-date="2008-04-23T20:21:47+00:00">
+<div class="post" data-post-id="23962" data-author="Weasel" data-date="2008-04-23T20:21:47+00:00" data-subject="">
 
 Yup, although if you roll (for example) a die consecutively, although each throw on it's own only has a 1/6 chance of showing the number 6, over time statistically speaking, the likelihood of throwing a 6 increase the longer you keep throwing without getting a 6. Over many many many throws, the pattern starts to emerge that you get a 6 to show 1/6th of the time... but this doesn't mean you'll definitely get a 6 within the first 6 throws..
 
 </div>
 
-<div class="post" data-post-id="23963" data-author="*juggleblood*" data-date="2008-04-23T20:24:15+00:00">
+<div class="post" data-post-id="23963" data-author="*juggleblood*" data-date="2008-04-23T20:24:15+00:00" data-subject="">
 
 I had never seen the monty hall problem before. I still didn't believe it until I went over to wikipedia and saw more proof. I'm gonna win a bet at the bar with that one.
 
 </div>
 
-<div class="post" data-post-id="24014" data-author="*juggleblood*" data-date="2008-04-24T12:44:45+00:00">
+<div class="post" data-post-id="24014" data-author="*juggleblood*" data-date="2008-04-24T12:44:45+00:00" data-subject="">
 
 I've been playing with this:
 
@@ -172,7 +172,7 @@ The clink command at bottom is to compensate for Clink's echos and bamfin.
 
 </div>
 
-<div class="post" data-post-id="24016" data-author="**Jake**" data-date="2008-04-24T13:30:30+00:00">
+<div class="post" data-post-id="24016" data-author="**Jake**" data-date="2008-04-24T13:30:30+00:00" data-subject="">
 
 Some skills used in battle do reduce concentration but these have done so since they were added (years ago) so it doesn't apply to any "recent changes".
 
@@ -184,13 +184,13 @@ It does seem that the random number generator is a bit on the "streaky" side tho
 
 </div>
 
-<div class="post" data-post-id="24020" data-author="*juggleblood*" data-date="2008-04-24T20:54:08+00:00">
+<div class="post" data-post-id="24020" data-author="*juggleblood*" data-date="2008-04-24T20:54:08+00:00" data-subject="">
 
 Thanks for the peace of mind.  :D
 
 </div>
 
-<div class="post" data-post-id="24025" data-author="Clink" data-date="2008-04-25T01:18:55+00:00">
+<div class="post" data-post-id="24025" data-author="Clink" data-date="2008-04-25T01:18:55+00:00" data-subject="">
 
 The clink command at bottom is to compensate for Clink's echos and bamfin.[/quote:2e7t73g1]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="30709" data-author="Gimlet" data-date="2010-01-20T06:05:36+00:00">
+<div class="post" data-post-id="30709" data-author="Gimlet" data-date="2010-01-20T06:05:36+00:00" data-subject="Help Files">
 
 I've been noticing that many spells/skills have been changed since the new version of sloth has started, whether ebing prime only or no longer being prime only, or the level which you can obtain it.
 
@@ -30,7 +30,7 @@ hope this helps the imms get on top of it.  I think the issues that benefit newb
 
 </div>
 
-<div class="post" data-post-id="30710" data-author="jezer" data-date="2010-01-20T07:34:13+00:00">
+<div class="post" data-post-id="30710" data-author="jezer" data-date="2010-01-20T07:34:13+00:00" data-subject="">
 
 help awaken_creatures
 
@@ -38,7 +38,7 @@ Can't summon slimes at 3x40.
 
 </div>
 
-<div class="post" data-post-id="30724" data-author="jezer" data-date="2010-01-21T02:14:56+00:00">
+<div class="post" data-post-id="30724" data-author="jezer" data-date="2010-01-21T02:14:56+00:00" data-subject="">
 
 help mythic_form
 
@@ -48,13 +48,13 @@ Shapeshift Mastery should move down to about Avatar 10, as this skill was suppos
 
 </div>
 
-<div class="post" data-post-id="30726" data-author="Toxis" data-date="2010-01-21T05:17:37+00:00">
+<div class="post" data-post-id="30726" data-author="Toxis" data-date="2010-01-21T05:17:37+00:00" data-subject="">
 
 ..
 
 </div>
 
-<div class="post" data-post-id="30728" data-author="Gimlet" data-date="2010-01-21T09:17:58+00:00">
+<div class="post" data-post-id="30728" data-author="Gimlet" data-date="2010-01-21T09:17:58+00:00" data-subject="">
 
 err was that even ncessary, brad?
 

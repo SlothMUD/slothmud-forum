@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33931" data-author="*Neptune*" data-date="2013-01-17T17:05:45+00:00">
+<div class="post" data-post-id="33931" data-author="*Neptune*" data-date="2013-01-17T17:05:45+00:00" data-subject="Minor Update">
 
 As the Mage spell 'slow' was removed from the game after the previous
 

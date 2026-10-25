@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36098" data-author="Dragoth" data-date="2015-09-11T07:43:13+00:00">
+<div class="post" data-post-id="36098" data-author="Dragoth" data-date="2015-09-11T07:43:13+00:00" data-subject="Silk shawl + demonskin set">
 
 <848hp 292ma 342mv>You get a torn green robe from a golden sack.
 

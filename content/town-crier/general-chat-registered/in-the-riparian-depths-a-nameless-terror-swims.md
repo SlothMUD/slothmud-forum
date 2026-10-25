@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="39808" data-author="*Idjit*" data-date="2021-09-05T19:07:15+00:00">
+<div class="post" data-post-id="39808" data-author="*Idjit*" data-date="2021-09-05T19:07:15+00:00" data-subject="in the riparian depths, a nameless terror swims">
 
 In the frozen waters
 
@@ -26,19 +26,19 @@ the last he knew
 
 </div>
 
-<div class="post" data-post-id="39809" data-author="Insomnia" data-date="2021-09-05T21:15:50+00:00">
+<div class="post" data-post-id="39809" data-author="Insomnia" data-date="2021-09-05T21:15:50+00:00" data-subject="Re: in the riparian depths, a nameless terror swims">
 
 Kingdom of Velera?
 
 </div>
 
-<div class="post" data-post-id="39810" data-author="Ker" data-date="2021-09-06T04:42:52+00:00">
+<div class="post" data-post-id="39810" data-author="Ker" data-date="2021-09-06T04:42:52+00:00" data-subject="Re: in the riparian depths, a nameless terror swims">
 
 Wooooo Woooooooooooo.
 
 </div>
 
-<div class="post" data-post-id="39816" data-author="Ker" data-date="2021-09-10T04:10:27+00:00">
+<div class="post" data-post-id="39816" data-author="Ker" data-date="2021-09-10T04:10:27+00:00" data-subject="Re: in the riparian depths, a nameless terror swims">
 
 scan
 
@@ -264,7 +264,7 @@ M
 
 </div>
 
-<div class="post" data-post-id="39817" data-author="*Idjit*" data-date="2021-09-10T04:51:00+00:00">
+<div class="post" data-post-id="39817" data-author="*Idjit*" data-date="2021-09-10T04:51:00+00:00" data-subject="Re: in the riparian depths, a nameless terror swims">
 
 I think there was a statement that they can't turn in the carp corpse or subdue for Conquest Points (as yet).
 
@@ -274,7 +274,7 @@ Rob will that update in a little while when it 'refreshes' itself?
 
 </div>
 
-<div class="post" data-post-id="39818" data-author="Driven" data-date="2021-09-11T19:23:02+00:00">
+<div class="post" data-post-id="39818" data-author="Driven" data-date="2021-09-11T19:23:02+00:00" data-subject="Re: in the riparian depths, a nameless terror swims">
 
 No, new mobs added to existing zones don't get automatically added.  New zones do, but not modifications on old zones.  If I get time this week at my computer I might be able to manually add the carp.  The summer is now over, so my available time is drastically reduced.
 

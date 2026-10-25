@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38691" data-author="*Breeze*" data-date="2018-03-06T18:06:47+00:00">
+<div class="post" data-post-id="38691" data-author="*Breeze*" data-date="2018-03-06T18:06:47+00:00" data-subject="Imm Emails">
 
 the @slothmud.org emails don't work anymore due to 
 
@@ -22,7 +22,7 @@ come back i will add it to @slothmud.com also.
 
 </div>
 
-<div class="post" data-post-id="38704" data-author="Josiah" data-date="2018-03-12T22:04:26+00:00">
+<div class="post" data-post-id="38704" data-author="Josiah" data-date="2018-03-12T22:04:26+00:00" data-subject="Re: Imm Emails">
 
 Do we have any control over the slothmud.com site?  Currently I'm seeing the following:
 
@@ -38,7 +38,7 @@ If we want to get fancy, a server side redirect could include the 301 code for '
 
 </div>
 
-<div class="post" data-post-id="38705" data-author="*Breeze*" data-date="2018-03-13T04:51:42+00:00">
+<div class="post" data-post-id="38705" data-author="*Breeze*" data-date="2018-03-13T04:51:42+00:00" data-subject="Re: Imm Emails">
 
 Will do it tonight when I get home from work.
 

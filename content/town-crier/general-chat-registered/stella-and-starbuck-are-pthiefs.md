@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="17808" data-author="*juggleblood*" data-date="2007-04-05T17:07:37+00:00">
+<div class="post" data-post-id="17808" data-author="*juggleblood*" data-date="2007-04-05T17:07:37+00:00" data-subject="Stella and Starbuck are Pthiefs">
 
 Stella and Starbuck are under ownership of Poolp
 
@@ -18,13 +18,13 @@ you have been warned
 
 </div>
 
-<div class="post" data-post-id="17811" data-author="Popa" data-date="2007-04-05T17:39:34+00:00">
+<div class="post" data-post-id="17811" data-author="Popa" data-date="2007-04-05T17:39:34+00:00" data-subject="">
 
 I was under that assumption when, a few days ago i was at BH in and stella comes and glances at me hoping i wouldnt notice, then dissapears. Finally track him/her down in the scribe look at him/her, seeing all newbie eq i ask if he/she's pthiveing or what. He/she shrugs and says they are working out eq. Doesnt matter to me.
 
 </div>
 
-<div class="post" data-post-id="17821" data-author="Medios" data-date="2007-04-05T21:42:21+00:00">
+<div class="post" data-post-id="17821" data-author="Medios" data-date="2007-04-05T21:42:21+00:00" data-subject="">
 
 Good job fellow DoW members.  Im really proud of you guys.  You would probably sell your soul for a ham sandwich.  Maybe I should sell Medios so Poolp can have a bigger char.
 
@@ -32,7 +32,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17822" data-author="Jag" data-date="2007-04-05T22:27:29+00:00">
+<div class="post" data-post-id="17822" data-author="Jag" data-date="2007-04-05T22:27:29+00:00" data-subject="">
 
 I doubt this is true, but a little birdie told me that our current batch of pthieves has a connection to another Mud.  The bird said the current attempts to drive off players from our game is another mud's idea of  humor.  
 
@@ -46,7 +46,7 @@ Something needs to be done when an imm can't run a fishing quest.
 
 </div>
 
-<div class="post" data-post-id="17823" data-author="Poolp" data-date="2007-04-06T00:01:31+00:00">
+<div class="post" data-post-id="17823" data-author="Poolp" data-date="2007-04-06T00:01:31+00:00" data-subject="">
 
 Good job fellow DoW members. Im really proud of you guys. You would probably sell your soul for a ham sandwich. Maybe I should sell Medios so Poolp can have a bigger char.
 
@@ -86,7 +86,7 @@ No, 4. is not Blame other people for selling chars to pthieves just because you 
 
 </div>
 
-<div class="post" data-post-id="17826" data-author="Medios" data-date="2007-04-06T03:07:02+00:00">
+<div class="post" data-post-id="17826" data-author="Medios" data-date="2007-04-06T03:07:02+00:00" data-subject="">
 
 BTW what's up with you lately? You talked bad about a friend on the crier, now you publically defame your own clan?
 
@@ -98,7 +98,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17828" data-author="Poolp" data-date="2007-04-06T03:52:10+00:00">
+<div class="post" data-post-id="17828" data-author="Poolp" data-date="2007-04-06T03:52:10+00:00" data-subject="">
 
 That is what happens when you quit smoking.  Yeh im being a dick, so what?
 
@@ -108,13 +108,13 @@ So nothing. Congratulations by the way. Start a pool on when you'll go back to s
 
 </div>
 
-<div class="post" data-post-id="17830" data-author="Medios" data-date="2007-04-06T05:18:01+00:00">
+<div class="post" data-post-id="17830" data-author="Medios" data-date="2007-04-06T05:18:01+00:00" data-subject="">
 
 I'll bid 28 days.
 
 </div>
 
-<div class="post" data-post-id="17833" data-author="*juggleblood*" data-date="2007-04-06T08:51:34+00:00">
+<div class="post" data-post-id="17833" data-author="*juggleblood*" data-date="2007-04-06T08:51:34+00:00" data-subject="">
 
 I took Zyban to quit. (buprion hydrchloride) It was really strange becuz I had absolutely no desire to smoke. But apparently smoking isn't the only addiction it works on. It also made me mud less and I found myself picking up after myself more and being more productive all around. When I quit taking it, I didn't return to smoking, but I did return to being a mud-addicted slob.
 
@@ -122,13 +122,13 @@ Good luck whichever route you go. There's plenty of honorable ways to die, but l
 
 </div>
 
-<div class="post" data-post-id="17834" data-author="13" data-date="2007-04-06T12:30:59+00:00">
+<div class="post" data-post-id="17834" data-author="13" data-date="2007-04-06T12:30:59+00:00" data-subject="">
 
 Heh, Medios has never been a cigarette-smoker :p
 
 </div>
 
-<div class="post" data-post-id="17835" data-author="*juggleblood*" data-date="2007-04-06T14:57:32+00:00">
+<div class="post" data-post-id="17835" data-author="*juggleblood*" data-date="2007-04-06T14:57:32+00:00" data-subject="">
 
 What?! You're giving up THAT?! 
 
@@ -136,13 +136,13 @@ Good God Man, What are you thinking?!
 
 </div>
 
-<div class="post" data-post-id="17837" data-author="banedon" data-date="2007-04-06T15:33:42+00:00">
+<div class="post" data-post-id="17837" data-author="banedon" data-date="2007-04-06T15:33:42+00:00" data-subject="">
 
 Just the thought of quitting smoking is scary to me.  Lat time I tried, I was meaner and worse than all the horror stories you could think to tell about Auto, 13, and Gimlet combined.
 
 </div>
 
-<div class="post" data-post-id="17843" data-author="13" data-date="2007-04-06T20:34:17+00:00">
+<div class="post" data-post-id="17843" data-author="13" data-date="2007-04-06T20:34:17+00:00" data-subject="">
 
 I quit smoking cigarettes, but I doubt I could quit one without the other without a lot of bloodshed and some seriously hurt feelings.
 

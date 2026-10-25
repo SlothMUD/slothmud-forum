@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="10177" data-author="Daisy" data-date="2006-01-17T22:20:52+00:00">
+<div class="post" data-post-id="10177" data-author="Daisy" data-date="2006-01-17T22:20:52+00:00" data-subject="Alias and Daisys Wedding Page">
 
 Welcome to Alias and Daisys Wedding Page.
 
@@ -32,13 +32,13 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="10179" data-author="Weasel" data-date="2006-01-17T22:32:56+00:00">
+<div class="post" data-post-id="10179" data-author="Weasel" data-date="2006-01-17T22:32:56+00:00" data-subject="">
 
 ..wha?  :shock:
 
 </div>
 
-<div class="post" data-post-id="10183" data-author="brand" data-date="2006-01-17T23:08:03+00:00">
+<div class="post" data-post-id="10183" data-author="brand" data-date="2006-01-17T23:08:03+00:00" data-subject="">
 
 theorizing that one can leap within his own lifetime, dr.sam beckett stepped into the quantum leap accelerator, and vanished...he woke to find himself trapped in the past, facing mirror images that where not his own, and driven by an unknown force to change history for the better,..his only guide on this jouney is al, an assistant from the future who appears in the form of a hologram that only sam can see and hear.
 
@@ -50,7 +50,7 @@ brand :!:
 
 </div>
 
-<div class="post" data-post-id="10184" data-author="Autolycos" data-date="2006-01-17T23:25:36+00:00">
+<div class="post" data-post-id="10184" data-author="Autolycos" data-date="2006-01-17T23:25:36+00:00" data-subject="">
 
 OMFG! :!: 
 
@@ -62,19 +62,19 @@ bravo. brand.. well done ole chap..
 
 </div>
 
-<div class="post" data-post-id="10185" data-author="Leaf" data-date="2006-01-18T01:37:10+00:00">
+<div class="post" data-post-id="10185" data-author="Leaf" data-date="2006-01-18T01:37:10+00:00" data-subject="">
 
 Alias better go pop a "Woman's Diamond Ring".
 
 </div>
 
-<div class="post" data-post-id="10187" data-author="Krok" data-date="2006-01-18T09:30:57+00:00">
+<div class="post" data-post-id="10187" data-author="Krok" data-date="2006-01-18T09:30:57+00:00" data-subject="">
 
 Ummm, is it supposed to be funny or what?
 
 </div>
 
-<div class="post" data-post-id="10188" data-author="Daisy" data-date="2006-01-18T10:45:12+00:00">
+<div class="post" data-post-id="10188" data-author="Daisy" data-date="2006-01-18T10:45:12+00:00" data-subject="Wedding plans">
 
 Ummm, is it supposed to be funny or what?[/quote:16pgxgpv]
 
@@ -90,19 +90,19 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="10190" data-author="Mustang" data-date="2006-01-18T10:53:04+00:00">
+<div class="post" data-post-id="10190" data-author="Mustang" data-date="2006-01-18T10:53:04+00:00" data-subject="">
 
 sorry but this is quite retarded
 
 </div>
 
-<div class="post" data-post-id="10193" data-author="Krok" data-date="2006-01-18T12:34:16+00:00">
+<div class="post" data-post-id="10193" data-author="Krok" data-date="2006-01-18T12:34:16+00:00" data-subject="">
 
 Oh well, that's a desire for a bit of attention for sure. :P *comf*
 
 </div>
 
-<div class="post" data-post-id="10196" data-author="alias" data-date="2006-01-18T15:08:25+00:00">
+<div class="post" data-post-id="10196" data-author="alias" data-date="2006-01-18T15:08:25+00:00" data-subject="">
 
 Wow is that what it takes to see a pic of someone now days? I mean I ask to see a pic and that somehow constitutes that I have to marry someone? Since sometimes women need it explained throughly -I'm Sorry my heart belongs to another. There will be no proposal. I am flattered tho.
 
@@ -112,13 +112,13 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="10197" data-author="Autolycos" data-date="2006-01-18T15:27:39+00:00">
+<div class="post" data-post-id="10197" data-author="Autolycos" data-date="2006-01-18T15:27:39+00:00" data-subject="">
 
 Good job Wesley,  sleep well,  i'll most likely kill you in the morning.
 
 </div>
 
-<div class="post" data-post-id="10198" data-author="12345" data-date="2006-01-18T15:35:56+00:00">
+<div class="post" data-post-id="10198" data-author="12345" data-date="2006-01-18T15:35:56+00:00" data-subject="">
 
 I'm guessing she likes to be on top too...
 
@@ -128,13 +128,13 @@ Nope... that's not on the list yet.
 
 </div>
 
-<div class="post" data-post-id="10202" data-author="Guinex" data-date="2006-01-18T19:01:19+00:00">
+<div class="post" data-post-id="10202" data-author="Guinex" data-date="2006-01-18T19:01:19+00:00" data-subject="">
 
 I am guessing she has been up the past few days cuddling with her crack pipe and getting consumed.
 
 </div>
 
-<div class="post" data-post-id="10210" data-author="osric" data-date="2006-01-18T20:00:12+00:00">
+<div class="post" data-post-id="10210" data-author="osric" data-date="2006-01-18T20:00:12+00:00" data-subject="">
 
 Holy Crap, I just snorted Grape soda out my nose in a filled university computer lab, people are staring at me, but I can't stop laughing! Brand that has to be the funniest shit I have heard in months!  Oh shit that was good :lol: 
 
@@ -146,7 +146,7 @@ PS Alias run for the hills bro, I'll keep her looked in there for a good hour or
 
 </div>
 
-<div class="post" data-post-id="10213" data-author="Autolycos" data-date="2006-01-18T20:42:59+00:00">
+<div class="post" data-post-id="10213" data-author="Autolycos" data-date="2006-01-18T20:42:59+00:00" data-subject="">
 
 laff Osric....  
 
@@ -156,7 +156,7 @@ strange to say the least..  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10216" data-author="osric" data-date="2006-01-18T23:09:06+00:00">
+<div class="post" data-post-id="10216" data-author="osric" data-date="2006-01-18T23:09:06+00:00" data-subject="">
 
 Oh they don't laugh at me, they run....in fear, cuz I'm so...uh....cool!
 

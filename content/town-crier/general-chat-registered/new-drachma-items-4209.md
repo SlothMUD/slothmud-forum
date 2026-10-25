@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="34910" data-author="Marvel" data-date="2014-03-16T20:07:08+00:00">
+<div class="post" data-post-id="34910" data-author="Marvel" data-date="2014-03-16T20:07:08+00:00" data-subject="New drachma items">
 
 Just an announcement for those of you not online earlier. There's been a few new drachma items (20 in total) added to the two drachma vendors with the least amount of items.
 
@@ -22,7 +22,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="34912" data-author="Magi" data-date="2014-03-17T13:52:39+00:00">
+<div class="post" data-post-id="34912" data-author="Magi" data-date="2014-03-17T13:52:39+00:00" data-subject="Re: New drachma items">
 
 Sorry, I couldn't identify the stuff that costs 600+.
 
@@ -176,7 +176,7 @@ Only those who are at least novice avatars may use this item.
 
 </div>
 
-<div class="post" data-post-id="34921" data-author="Cizin" data-date="2014-03-19T07:08:01+00:00">
+<div class="post" data-post-id="34921" data-author="Cizin" data-date="2014-03-19T07:08:01+00:00" data-subject="Re: New drachma items">
 
 I sold my soul to identify following items:
 
@@ -234,7 +234,7 @@ Only those who are at least novice avatars may use this item.
 
 </div>
 
-<div class="post" data-post-id="34923" data-author="Cizin" data-date="2014-03-19T16:01:45+00:00">
+<div class="post" data-post-id="34923" data-author="Cizin" data-date="2014-03-19T16:01:45+00:00" data-subject="Re: New drachma items">
 
 Items from a traveling wagon:
 
@@ -360,13 +360,13 @@ item.
 
 </div>
 
-<div class="post" data-post-id="34924" data-author="Marvel" data-date="2014-03-19T17:25:36+00:00">
+<div class="post" data-post-id="34924" data-author="Marvel" data-date="2014-03-19T17:25:36+00:00" data-subject="Re: New drachma items">
 
 Thanks for posting stats. The Platemail has wrong stat on it (bonus spell bonus, not heal) and the rose petals is missing undead control. I'll get both items fixed as soon as possible.
 
 </div>
 
-<div class="post" data-post-id="34925" data-author="Shyla" data-date="2014-03-19T17:54:24+00:00">
+<div class="post" data-post-id="34925" data-author="Shyla" data-date="2014-03-19T17:54:24+00:00" data-subject="Re: New drachma items">
 
 query blaze about infinity
 
@@ -390,13 +390,13 @@ Only those who are at least novice avatars may use this item.
 
 </div>
 
-<div class="post" data-post-id="34931" data-author="Marvel" data-date="2014-03-20T23:24:42+00:00">
+<div class="post" data-post-id="34931" data-author="Marvel" data-date="2014-03-20T23:24:42+00:00" data-subject="Re: New drachma items">
 
 The erroneous items have been repaired.
 
 </div>
 
-<div class="post" data-post-id="34954" data-author="Nyx" data-date="2014-04-02T10:08:42+00:00">
+<div class="post" data-post-id="34954" data-author="Nyx" data-date="2014-04-02T10:08:42+00:00" data-subject="Re: New drachma items">
 
 Few more items spotted in shop:
 

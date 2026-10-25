@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="15100" data-author="Leaf" data-date="2006-11-10T17:47:04+00:00">
+<div class="post" data-post-id="15100" data-author="Leaf" data-date="2006-11-10T17:47:04+00:00" data-subject="Turbo can you beat him!!!">
 
 I wonder if Turbo can beat this guy in bowling :)
 
@@ -20,7 +20,7 @@ FYI: [b:3khk2if0]POST TOPIC 600!!![/b:3khk2if0]
 
 </div>
 
-<div class="post" data-post-id="15109" data-author="osric" data-date="2006-11-11T20:39:57+00:00">
+<div class="post" data-post-id="15109" data-author="osric" data-date="2006-11-11T20:39:57+00:00" data-subject="">
 
 Al would have to use the sideways or KINGCRAB technique to defeat the backwards bowler! :P
 

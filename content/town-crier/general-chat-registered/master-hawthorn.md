@@ -10,7 +10,7 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="39968" data-author="Insomnia" data-date="2022-08-26T20:01:34+00:00">
+<div class="post" data-post-id="39968" data-author="Insomnia" data-date="2022-08-26T20:01:34+00:00" data-subject="Master Hawthorn">
 
 (Since only immortals have the rights to post in Mud changes and New Stuff, I'll post here.)
 
@@ -18,7 +18,7 @@ I really like these new tiny autoquests! I already managed to get a couple drach
 
 </div>
 
-<div class="post" data-post-id="39969" data-author="Ezekiel" data-date="2022-08-27T21:26:48+00:00">
+<div class="post" data-post-id="39969" data-author="Ezekiel" data-date="2022-08-27T21:26:48+00:00" data-subject="Re: Master Hawthorn">
 
 See below, found a bug, probably due to lack of difficulty level on paladin subdue. It gave max rewards plus some based on the tier:
 
@@ -84,7 +84,7 @@ You receive 1100000 gold coins.**
 
 </div>
 
-<div class="post" data-post-id="39972" data-author="Insomnia" data-date="2022-09-04T15:59:11+00:00">
+<div class="post" data-post-id="39972" data-author="Insomnia" data-date="2022-09-04T15:59:11+00:00" data-subject="Re: Master Hawthorn">
 
 It looks like difficulty can change for no obvious reason, feels a bit wrong.
 
@@ -109,7 +109,7 @@ Also, I haven't had a tier 3 subdue with difficulty higher than 4. Is it not ran
 
 </div>
 
-<div class="post" data-post-id="39973" data-author="Driven" data-date="2022-09-04T18:20:49+00:00">
+<div class="post" data-post-id="39973" data-author="Driven" data-date="2022-09-04T18:20:49+00:00" data-subject="Re: Master Hawthorn">
 
 Several things..
 
@@ -123,7 +123,7 @@ Several things..
 
 </div>
 
-<div class="post" data-post-id="39978" data-author="Insomnia" data-date="2022-10-15T19:06:35+00:00">
+<div class="post" data-post-id="39978" data-author="Insomnia" data-date="2022-10-15T19:06:35+00:00" data-subject="Re: Master Hawthorn">
 
 > **Quote:**
 > I believe the way the math works out is that the # of mobs in the kill-list for each tier is vast enough that you will likely not see the same mob until about 3 years from now
@@ -139,7 +139,7 @@ grep "You offer a subdued Paladin of goodness to Master Hawthorn." -R ./2022*
 
 </div>
 
-<div class="post" data-post-id="39980" data-author="Insomnia" data-date="2022-10-27T15:30:17+00:00">
+<div class="post" data-post-id="39980" data-author="Insomnia" data-date="2022-10-27T15:30:17+00:00" data-subject="Re: Master Hawthorn">
 
 ```
 offer subdued hawthorn
@@ -154,7 +154,7 @@ This is also not the first dark wizard I'm subduing for Hawthorn, the previous o
 
 </div>
 
-<div class="post" data-post-id="39982" data-author="Insomnia" data-date="2022-10-28T13:14:52+00:00">
+<div class="post" data-post-id="39982" data-author="Insomnia" data-date="2022-10-28T13:14:52+00:00" data-subject="Re: Master Hawthorn">
 
 ```
 offer subdued hawthorn
@@ -178,7 +178,7 @@ I'll stop spamming you, just know that something is broken there.  8)
 
 </div>
 
-<div class="post" data-post-id="39983" data-author="cnl" data-date="2022-10-29T23:39:48+00:00">
+<div class="post" data-post-id="39983" data-author="cnl" data-date="2022-10-29T23:39:48+00:00" data-subject="Re: Master Hawthorn">
 
 Mr Haws is a pretty cool addition. optional extra ways to acquire spirit points and drachma but throttled so AQs are still worthwhile doing. thanks for adding him to the game.
 
@@ -210,7 +210,7 @@ Rare spellbook handin (if it went to the library somehow)
 
 </div>
 
-<div class="post" data-post-id="39984" data-author="Insomnia" data-date="2022-11-02T23:42:55+00:00">
+<div class="post" data-post-id="39984" data-author="Insomnia" data-date="2022-11-02T23:42:55+00:00" data-subject="Re: Master Hawthorn">
 
 One thing I would improve in Hawthorn is the way the quests are given. Instead of a simple list of mobs and items, wouldn't it be cooler if there was a puzzle to solve? Nowhere else in the game do we get direct instructions like this, "bring me X and I will give you Y" – except that from Hawthorn. If we had to figure out what exactly he wants, it would have been a lot more fun.
 
@@ -224,7 +224,7 @@ In most cases you should be able to identify the mob easily. Sometimes not, but 
 
 </div>
 
-<div class="post" data-post-id="40058" data-author="Driven" data-date="2023-08-09T20:52:38+00:00">
+<div class="post" data-post-id="40058" data-author="Driven" data-date="2023-08-09T20:52:38+00:00" data-subject="Re: Master Hawthorn">
 
 Master Hawthorn now shows you the forge bounties for next week and next quarter.  This should enable us to keep streaks going.  This was rather difficult to code, so beware to the user.  If you find that Master Hawthorn is ever incorrect in his predictions, please let me know ASAP and I'll work to fix it.  
 
@@ -238,7 +238,7 @@ I hope to make the following updates, sooner than later:
 
 </div>
 
-<div class="post" data-post-id="40059" data-author="Insomnia" data-date="2023-08-10T10:36:12+00:00">
+<div class="post" data-post-id="40059" data-author="Insomnia" data-date="2023-08-10T10:36:12+00:00" data-subject="Re: Master Hawthorn">
 
 Here are two very different forges of difficulty 1:
 
@@ -252,13 +252,13 @@ Is this correct? While charcoal tome is indeed one of the easiest forges in the 
 
 </div>
 
-<div class="post" data-post-id="40060" data-author="Driven" data-date="2023-08-10T20:12:08+00:00">
+<div class="post" data-post-id="40060" data-author="Driven" data-date="2023-08-10T20:12:08+00:00" data-subject="Re: Master Hawthorn">
 
 That is a bug that was introduced as a result of adding the next object info.  Code has been fixed--note that your forge turn-ins for next period may change as a result of this fix.
 
 </div>
 
-<div class="post" data-post-id="40061" data-author="Driven" data-date="2023-08-10T20:35:54+00:00">
+<div class="post" data-post-id="40061" data-author="Driven" data-date="2023-08-10T20:35:54+00:00" data-subject="Re: Master Hawthorn">
 
 If you "look hunters" in Hawthorn's room, you should now see a leaderboard that starts as of today.  It tracks the total rewards you have received from Hawthorn, where each type of reward has its own list (conquest, gold, honor, and drachma).  There is also a 5th category for the longest streak in days.  Some comments
 
@@ -270,13 +270,13 @@ If you "look hunters" in Hawthorn's room, you should now see a leaderboard that 
 
 </div>
 
-<div class="post" data-post-id="40062" data-author="cnl" data-date="2023-08-15T17:39:17+00:00">
+<div class="post" data-post-id="40062" data-author="cnl" data-date="2023-08-15T17:39:17+00:00" data-subject="Re: Master Hawthorn">
 
 Neat feature improvements. Thanks! Now just need to find the time to work some of these tricky forges.
 
 </div>
 
-<div class="post" data-post-id="40069" data-author="cnl" data-date="2023-09-05T19:39:02+00:00">
+<div class="post" data-post-id="40069" data-author="cnl" data-date="2023-09-05T19:39:02+00:00" data-subject="Re: Master Hawthorn">
 
 After the crash, the new hunters board is empty and not populating.
 
@@ -304,7 +304,7 @@ The pre-weekly forge warnings seem to be working well. Now I just see how long I
 
 </div>
 
-<div class="post" data-post-id="40070" data-author="Insomnia" data-date="2023-09-11T10:41:10+00:00">
+<div class="post" data-post-id="40070" data-author="Insomnia" data-date="2023-09-11T10:41:10+00:00" data-subject="Re: Master Hawthorn">
 
 ```
   [Available]           Weekly forge:  the sage's walking stick  (difficulty:  1)
@@ -330,7 +330,7 @@ Is it a correct behavior that Hawthorn requests temp forges?
 
 </div>
 
-<div class="post" data-post-id="40071" data-author="Insomnia" data-date="2023-09-13T09:13:37+00:00">
+<div class="post" data-post-id="40071" data-author="Insomnia" data-date="2023-09-13T09:13:37+00:00" data-subject="Re: Master Hawthorn">
 
 I also think that ?? in difficulty meant that the mob was bigger than the normal difficulty of the bounty, and you get the highest reward or even a little more for such mobs. But now it's seems to be broken:
 
@@ -351,7 +351,7 @@ Here I got the lowest possible reward for the ?? difficulty mob.
 
 </div>
 
-<div class="post" data-post-id="40073" data-author="Insomnia" data-date="2023-10-01T20:13:06+00:00">
+<div class="post" data-post-id="40073" data-author="Insomnia" data-date="2023-10-01T20:13:06+00:00" data-subject="Re: Master Hawthorn">
 
 Yesterday:
 
@@ -385,7 +385,7 @@ Not only it's Winterblade instead of flaming black silk sleeves, but an adamanti
 
 </div>
 
-<div class="post" data-post-id="40081" data-author="Insomnia" data-date="2023-11-26T11:45:58+00:00">
+<div class="post" data-post-id="40081" data-author="Insomnia" data-date="2023-11-26T11:45:58+00:00" data-subject="Re: Master Hawthorn">
 
 Yesterday:
 
@@ -403,13 +403,13 @@ Today:
 
 </div>
 
-<div class="post" data-post-id="40083" data-author="Driven" data-date="2023-12-10T01:10:28+00:00">
+<div class="post" data-post-id="40083" data-author="Driven" data-date="2023-12-10T01:10:28+00:00" data-subject="Re: Master Hawthorn">
 
 When I get some time over the Christmas break, I will look at these oddities and why look hunters isn't working.
 
 </div>
 
-<div class="post" data-post-id="40084" data-author="Insomnia" data-date="2023-12-10T02:06:37+00:00">
+<div class="post" data-post-id="40084" data-author="Insomnia" data-date="2023-12-10T02:06:37+00:00" data-subject="Re: Master Hawthorn">
 
 Thanks, we appreciate it! :)
 
@@ -417,7 +417,7 @@ Hunters magically started working again. Maybe it required somebody else other t
 
 </div>
 
-<div class="post" data-post-id="40086" data-author="Driven" data-date="2023-12-26T17:19:24+00:00">
+<div class="post" data-post-id="40086" data-author="Driven" data-date="2023-12-26T17:19:24+00:00" data-subject="Re: Master Hawthorn">
 
 Ok, fixed a couple things--
 
@@ -431,7 +431,7 @@ As for 'look hunters', I strongly suspect there is an array initialization probl
 
 </div>
 
-<div class="post" data-post-id="40087" data-author="Driven" data-date="2024-01-22T01:42:07+00:00">
+<div class="post" data-post-id="40087" data-author="Driven" data-date="2024-01-22T01:42:07+00:00" data-subject="Re: Master Hawthorn">
 
 Look hunters should be fixed now.
 

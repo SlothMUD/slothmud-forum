@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="38839" data-author="Gorka" data-date="2018-06-03T09:18:20+00:00">
+<div class="post" data-post-id="38839" data-author="Gorka" data-date="2018-06-03T09:18:20+00:00" data-subject="Second Wind">
 
 So second wind was debated last night in a group... I get annoyed when people discuss this topic, because there is some stuff out there that's simply not true... I want to set the record straight but also propose a resolution.
 
@@ -36,7 +36,7 @@ I think enabling warriors to second wind spells was an oversight. I don't expect
 
 </div>
 
-<div class="post" data-post-id="38841" data-author="*teker*" data-date="2018-06-03T21:31:57+00:00">
+<div class="post" data-post-id="38841" data-author="*teker*" data-date="2018-06-03T21:31:57+00:00" data-subject="Re: Second Wind">
 
 Currently the game doesn't have lag types, it just has a lag counter.  So you cast a spell, order followers, or get bashed, it just increments the counter by how much time to lag you.  When you second wind successfully it sets the counter to 0 and the game starts processing your commands again.
 
@@ -46,7 +46,7 @@ Are there any other classes that need nerfed while we're looking at things?
 
 </div>
 
-<div class="post" data-post-id="38844" data-author="Teron" data-date="2018-06-04T03:57:29+00:00">
+<div class="post" data-post-id="38844" data-author="Teron" data-date="2018-06-04T03:57:29+00:00" data-subject="Re: Second Wind">
 
 I agree with Gorka about SW not being the honeypot everyone assumes it to be, though it does have its uses - particularly, when killing hard-hitting mobs solo.
 
@@ -70,13 +70,13 @@ That being said, prime skills is what would make multiple rebirths very interest
 
 </div>
 
-<div class="post" data-post-id="38847" data-author="norks" data-date="2018-06-04T09:03:26+00:00">
+<div class="post" data-post-id="38847" data-author="norks" data-date="2018-06-04T09:03:26+00:00" data-subject="Re: Second Wind">
 
 I would be inclined to leave it alone in terms of how and where it works but just make in non-prime
 
 </div>
 
-<div class="post" data-post-id="38859" data-author="*Neptune*" data-date="2018-06-05T16:59:33+00:00">
+<div class="post" data-post-id="38859" data-author="*Neptune*" data-date="2018-06-05T16:59:33+00:00" data-subject="Re: Second Wind">
 
 > **Teron wrote:**
 > They are as OP as an emerald dust in a lizardman shop, to the point, where people make classo decisions for an alt along the lines of, "My alt doesn't need mana, he'll use sidhe charms".

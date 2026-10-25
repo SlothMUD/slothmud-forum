@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="1522" data-author="Dragoth" data-date="2004-08-21T01:58:05+00:00">
+<div class="post" data-post-id="1522" data-author="Dragoth" data-date="2004-08-21T01:58:05+00:00" data-subject="Ok, lets try this again..char for sale..">
 
 Unkle's last logon was Fri Aug 20 20:52:28 2004
 
@@ -46,7 +46,7 @@ This time start the bidding at whatever price you see fit.
 
 </div>
 
-<div class="post" data-post-id="1523" data-author="Dragoth" data-date="2004-08-21T02:02:24+00:00">
+<div class="post" data-post-id="1523" data-author="Dragoth" data-date="2004-08-21T02:02:24+00:00" data-subject="">
 
 oh yeah, ill also be glad to take payment in triangles
 

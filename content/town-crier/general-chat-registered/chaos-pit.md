@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36729" data-author="*juggleblood*" data-date="2016-03-10T18:16:56+00:00">
+<div class="post" data-post-id="36729" data-author="*juggleblood*" data-date="2016-03-10T18:16:56+00:00" data-subject="Chaos Pit">
 
 Sorry for pit being down for last few days. There were some changes to mudl code that affected it.
 

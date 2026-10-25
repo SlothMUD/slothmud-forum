@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="8145" data-author="12345" data-date="2005-08-04T15:02:45+00:00">
+<div class="post" data-post-id="8145" data-author="12345" data-date="2005-08-04T15:02:45+00:00" data-subject="H5N1 bird flu">
 
 If anyone here reads the Asian Wall Street Journal, you may want to check out the article titled "Experts See Urgency for Flu Strategy --- Vaccine Research Quickens Amid H5N1 Virus Threat; Preparing for a Pandemic"
 
@@ -22,7 +22,7 @@ He and his colleagues estimated that with no vaccine or antiviral drugs, there w
 
 </div>
 
-<div class="post" data-post-id="8146" data-author="Vixn" data-date="2005-08-04T15:23:22+00:00">
+<div class="post" data-post-id="8146" data-author="Vixn" data-date="2005-08-04T15:23:22+00:00" data-subject="">
 
 really sorry if it looks like i'm very brutal, but... as to me, 0,25% of death (15'000 death in 6'000'000 cases) isn't very high rate...
 
@@ -30,7 +30,7 @@ sorry again if i got something wrong, but i think usual flu hits with same resul
 
 </div>
 
-<div class="post" data-post-id="8147" data-author="12345" data-date="2005-08-04T16:18:09+00:00">
+<div class="post" data-post-id="8147" data-author="12345" data-date="2005-08-04T16:18:09+00:00" data-subject="">
 
 Nothing brutal about it.
 
@@ -42,13 +42,13 @@ Because it's difficult to transmit, it's currently a tempest in a teapot.  Howev
 
 </div>
 
-<div class="post" data-post-id="8148" data-author="Weasel" data-date="2005-08-04T17:22:52+00:00">
+<div class="post" data-post-id="8148" data-author="Weasel" data-date="2005-08-04T17:22:52+00:00" data-subject="">
 
 I'm glad I'm a weasel.
 
 </div>
 
-<div class="post" data-post-id="8172" data-author="Argeos" data-date="2005-08-06T17:36:03+00:00">
+<div class="post" data-post-id="8172" data-author="Argeos" data-date="2005-08-06T17:36:03+00:00" data-subject="">
 
 You may also wants to check WHO (World Health Organization) website for valuable informations:
 
@@ -56,7 +56,7 @@ You may also wants to check WHO (World Health Organization) website for valuable
 
 </div>
 
-<div class="post" data-post-id="8175" data-author="Weasel" data-date="2005-08-06T22:09:04+00:00">
+<div class="post" data-post-id="8175" data-author="Weasel" data-date="2005-08-06T22:09:04+00:00" data-subject="">
 
 typical.. I've got a real bad flu now - and it's the middle of summer.. what the?
 

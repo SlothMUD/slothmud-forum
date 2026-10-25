@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="20145" data-author="Leaf" data-date="2007-09-05T00:18:12+00:00">
+<div class="post" data-post-id="20145" data-author="Leaf" data-date="2007-09-05T00:18:12+00:00" data-subject="Char for Sale">
 
 Rock Lee's tiny fists of DOOM!!!  (level: 40) 
 
@@ -60,7 +60,7 @@ interested in this bad boy send tells to Adun, or post here.  Gold or Eq
 
 </div>
 
-<div class="post" data-post-id="20148" data-author="madmax" data-date="2007-09-05T02:14:27+00:00">
+<div class="post" data-post-id="20148" data-author="madmax" data-date="2007-09-05T02:14:27+00:00" data-subject="Re: Char for Sale">
 
 Rock Lee's tiny fists of DOOM!!!  (level: 40) 
 
@@ -74,7 +74,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="20149" data-author="Autolycos" data-date="2007-09-05T02:23:03+00:00">
+<div class="post" data-post-id="20149" data-author="Autolycos" data-date="2007-09-05T02:23:03+00:00" data-subject="Re: Char for Sale">
 
 but man he is stupid :)
 
@@ -84,19 +84,19 @@ yeah... well.. it is Will's char  :twisted:
 
 </div>
 
-<div class="post" data-post-id="20152" data-author="Leaf" data-date="2007-09-05T10:59:05+00:00">
+<div class="post" data-post-id="20152" data-author="Leaf" data-date="2007-09-05T10:59:05+00:00" data-subject="">
 
 Hey Adun has a nat 18int. same with Tassadar, and Neji!
 
 </div>
 
-<div class="post" data-post-id="20162" data-author="13" data-date="2007-09-05T14:43:04+00:00">
+<div class="post" data-post-id="20162" data-author="13" data-date="2007-09-05T14:43:04+00:00" data-subject="">
 
 Mini Nab would have druid second not some NC class.
 
 </div>
 
-<div class="post" data-post-id="20191" data-author="Leaf" data-date="2007-09-05T23:41:05+00:00">
+<div class="post" data-post-id="20191" data-author="Leaf" data-date="2007-09-05T23:41:05+00:00" data-subject="">
 
 Correct Sir, but Nab use druid for faster mr and fluidy.  He still walks around
 
@@ -108,7 +108,7 @@ fluidy at lvl20.
 
 </div>
 
-<div class="post" data-post-id="20192" data-author="Tap" data-date="2007-09-06T00:16:57+00:00">
+<div class="post" data-post-id="20192" data-author="Tap" data-date="2007-09-06T00:16:57+00:00" data-subject="">
 
 [quote:3em65p3g]He still walks around
 

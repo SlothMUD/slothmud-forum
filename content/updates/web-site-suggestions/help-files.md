@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="15206" data-author="Jag" data-date="2006-11-16T14:14:49+00:00">
+<div class="post" data-post-id="15206" data-author="Jag" data-date="2006-11-16T14:14:49+00:00" data-subject="Help Files">
 
 The Game play helps in the library are great, but the online help files in game have much more recent spells, skills, etc and really awesome.  
 
@@ -20,7 +20,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="15667" data-author="*Splork*" data-date="2006-12-18T04:31:32+00:00">
+<div class="post" data-post-id="15667" data-author="*Splork*" data-date="2006-12-18T04:31:32+00:00" data-subject="">
 
 Clink has updated the game play helps-they are now current with what is ingame.
 

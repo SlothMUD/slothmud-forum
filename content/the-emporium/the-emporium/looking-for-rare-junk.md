@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36746" data-author="Yasik" data-date="2016-03-15T20:24:46+00:00">
+<div class="post" data-post-id="36746" data-author="Yasik" data-date="2016-03-15T20:24:46+00:00" data-subject="Looking for rare junk">
 
 Hello!
 

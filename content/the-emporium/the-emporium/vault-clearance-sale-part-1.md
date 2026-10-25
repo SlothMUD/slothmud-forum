@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="1162" data-author="Deju" data-date="2004-07-23T15:13:55+00:00">
+<div class="post" data-post-id="1162" data-author="Deju" data-date="2004-07-23T15:13:55+00:00" data-subject="Vault Clearance Sale! (Part 1)">
 
 Hey all -
 
@@ -110,31 +110,31 @@ item.
 
 </div>
 
-<div class="post" data-post-id="1171" data-author="Weasel" data-date="2004-07-23T16:19:00+00:00">
+<div class="post" data-post-id="1171" data-author="Weasel" data-date="2004-07-23T16:19:00+00:00" data-subject="">
 
 Polished Bone Leggings 500k
 
 </div>
 
-<div class="post" data-post-id="1176" data-author="Methyx" data-date="2004-07-23T20:57:06+00:00">
+<div class="post" data-post-id="1176" data-author="Methyx" data-date="2004-07-23T20:57:06+00:00" data-subject="Lancer&#x27;s Shield and Volcanic Leg Plates">
 
 1 Mil for the Volcanic Leg Plates and 500k for the Lancer's Shield
 
 </div>
 
-<div class="post" data-post-id="1180" data-author="Deju" data-date="2004-07-24T20:18:36+00:00">
+<div class="post" data-post-id="1180" data-author="Deju" data-date="2004-07-24T20:18:36+00:00" data-subject="Dreamcoat has been removed from auction">
 
 Just a notice that the dreamcoat has been removed
 
 </div>
 
-<div class="post" data-post-id="1183" data-author="Mosaix" data-date="2004-07-24T21:30:22+00:00">
+<div class="post" data-post-id="1183" data-author="Mosaix" data-date="2004-07-24T21:30:22+00:00" data-subject="">
 
 Divinity Guards 10mil
 
 </div>
 
-<div class="post" data-post-id="1202" data-author="Deju" data-date="2004-07-27T19:35:51+00:00">
+<div class="post" data-post-id="1202" data-author="Deju" data-date="2004-07-27T19:35:51+00:00" data-subject="Recap">
 
 Divinity Guards: Mosaix 10mil
 
@@ -148,7 +148,7 @@ I will be closing this auction on Wednesday at 11:00pm server time... moving it 
 
 </div>
 
-<div class="post" data-post-id="1212" data-author="Deju" data-date="2004-07-29T03:58:50+00:00">
+<div class="post" data-post-id="1212" data-author="Deju" data-date="2004-07-29T03:58:50+00:00" data-subject="Closed">
 
 Divinity Guards: Mosaix 10mil 
 

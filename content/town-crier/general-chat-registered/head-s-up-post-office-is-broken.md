@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30558" data-author="Gimlet" data-date="2010-01-01T15:40:20+00:00">
+<div class="post" data-post-id="30558" data-author="Gimlet" data-date="2010-01-01T15:40:20+00:00" data-subject="Head&#x27;s up...post office is broken">
 
 post office is curently broken, ppl don't ship anything
 
@@ -18,7 +18,7 @@ also imms plz look into it :)
 
 </div>
 
-<div class="post" data-post-id="30560" data-author="*Splork*" data-date="2010-01-01T18:35:34+00:00">
+<div class="post" data-post-id="30560" data-author="*Splork*" data-date="2010-01-01T18:35:34+00:00" data-subject="Post office reopen">
 
 Isabo has fixed the post offices, they go through this every January 1st.
 

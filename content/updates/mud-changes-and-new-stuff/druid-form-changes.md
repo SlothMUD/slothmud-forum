@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29201" data-author="*Splork*" data-date="2009-05-17T17:34:43+00:00">
+<div class="post" data-post-id="29201" data-author="*Splork*" data-date="2009-05-17T17:34:43+00:00" data-subject="Druid form changes">
 
 Roc is now level 36
 

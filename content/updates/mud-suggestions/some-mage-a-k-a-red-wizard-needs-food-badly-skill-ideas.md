@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="6119" data-author="brand" data-date="2005-05-12T14:32:12+00:00">
+<div class="post" data-post-id="6119" data-author="brand" data-date="2005-05-12T14:32:12+00:00" data-subject="some Mage (a.k.a. Red Wizard needs food badly) skill ideas">
 
 so while i was fishing, i caught a fever for some mage skills (and a little cowbell)....
 

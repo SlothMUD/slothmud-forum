@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="28838" data-author="Brujah" data-date="2009-04-11T22:09:27+00:00">
+<div class="post" data-post-id="28838" data-author="Brujah" data-date="2009-04-11T22:09:27+00:00" data-subject="New stat system">
 
 [code:22iaq0m0]You feel incredibly different!
 
@@ -48,19 +48,19 @@ Discuss.
 
 </div>
 
-<div class="post" data-post-id="28840" data-author="*juggleblood*" data-date="2009-04-11T22:12:54+00:00">
+<div class="post" data-post-id="28840" data-author="*juggleblood*" data-date="2009-04-11T22:12:54+00:00" data-subject="">
 
 awesomeness
 
 </div>
 
-<div class="post" data-post-id="28841" data-author="Ki" data-date="2009-04-11T22:24:50+00:00">
+<div class="post" data-post-id="28841" data-author="Ki" data-date="2009-04-11T22:24:50+00:00" data-subject="">
 
 at what level was that?
 
 </div>
 
-<div class="post" data-post-id="28844" data-author="Weasel" data-date="2009-04-11T22:30:48+00:00">
+<div class="post" data-post-id="28844" data-author="Weasel" data-date="2009-04-11T22:30:48+00:00" data-subject="">
 
 Are they static, or if you don't like any of the choices can you just destroy char and try again?
 
@@ -68,7 +68,7 @@ Are they static, or if you don't like any of the choices can you just destroy ch
 
 </div>
 
-<div class="post" data-post-id="28848" data-author="Brujah" data-date="2009-04-11T23:43:50+00:00">
+<div class="post" data-post-id="28848" data-author="Brujah" data-date="2009-04-11T23:43:50+00:00" data-subject="">
 
 That was at level 8.
 
@@ -76,7 +76,7 @@ What is really good about it - the lowest possible stat is 11, making sure you h
 
 </div>
 
-<div class="post" data-post-id="28849" data-author="Chelle" data-date="2009-04-11T23:59:24+00:00">
+<div class="post" data-post-id="28849" data-author="Chelle" data-date="2009-04-11T23:59:24+00:00" data-subject="">
 
 Mine was :
 
@@ -100,13 +100,13 @@ They just total a small range of numbers and you'll definitely get playable stat
 
 </div>
 
-<div class="post" data-post-id="28852" data-author="Weasel" data-date="2009-04-12T00:48:47+00:00">
+<div class="post" data-post-id="28852" data-author="Weasel" data-date="2009-04-12T00:48:47+00:00" data-subject="">
 
 Thanks.   ..and the 18/XX strength is gone now - just 18 max?
 
 </div>
 
-<div class="post" data-post-id="28862" data-author="Chelle" data-date="2009-04-12T13:12:17+00:00">
+<div class="post" data-post-id="28862" data-author="Chelle" data-date="2009-04-12T13:12:17+00:00" data-subject="">
 
 The max for nat stats now is 18 and the max that items can bring it up to is 25, as was mentioned.
 
@@ -114,7 +114,7 @@ The max for nat stats now is 18 and the max that items can bring it up to is 25,
 
 </div>
 
-<div class="post" data-post-id="28878" data-author="Clink" data-date="2009-04-12T20:31:51+00:00">
+<div class="post" data-post-id="28878" data-author="Clink" data-date="2009-04-12T20:31:51+00:00" data-subject="New Stat System (teaser)">
 
 The interaction between the 18 - 25, equipment, level and your effective stat and it's applicable bonus isn't as straightforward as:
 
@@ -126,7 +126,7 @@ It's not overly complex either, just possibly different from what you may expect
 
 </div>
 
-<div class="post" data-post-id="28884" data-author="Chelle" data-date="2009-04-12T21:40:11+00:00">
+<div class="post" data-post-id="28884" data-author="Chelle" data-date="2009-04-12T21:40:11+00:00" data-subject="">
 
 Any chance a char's Con at the time of leveling affects a chars total hp? I think that was the case in the earlier days of Sloth right?
 

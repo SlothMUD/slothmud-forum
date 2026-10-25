@@ -10,7 +10,7 @@ locked: false
 post_count: 29
 ---
 
-<div class="post" data-post-id="38119" data-author="Gorka" data-date="2017-03-17T10:05:54+00:00">
+<div class="post" data-post-id="38119" data-author="Gorka" data-date="2017-03-17T10:05:54+00:00" data-subject="&amp;quot;Useless&amp;quot; gems">
 
 Could the immortals look at doing something about recycling so called "Useless Gems?"
 
@@ -144,7 +144,7 @@ Gimme a G! Gimme a EM! Gimme a Bloodstone!  :|
 
 </div>
 
-<div class="post" data-post-id="38120" data-author="*teker*" data-date="2017-03-17T17:19:35+00:00">
+<div class="post" data-post-id="38120" data-author="*teker*" data-date="2017-03-17T17:19:35+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 I have a really hard time with the idea that gems are useless.  I understand that some runes are preferred and that there are conflicts as far as equipment positions, but useless?  You get 15 or so extra equipment slots with gems and that's a lot of opportunity to improve your stats - even if it's not "the best" rune at a given position.
 
@@ -166,7 +166,7 @@ The other gems on your list are connected with stats that I think are useful.  S
 
 </div>
 
-<div class="post" data-post-id="38122" data-author="Filk" data-date="2017-03-17T18:04:05+00:00">
+<div class="post" data-post-id="38122" data-author="Filk" data-date="2017-03-17T18:04:05+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Maybe simple gambling wouldnt hurt anything. Merge two gems and get another random gem of same tier. Sunk of gems that least valueble. And no real influence on gem economy because of sucky random :)
 
@@ -178,7 +178,7 @@ Saving poison changes will not change anything now. Too few forms use it, and th
 
 </div>
 
-<div class="post" data-post-id="38125" data-author="Gorka" data-date="2017-03-17T21:32:24+00:00">
+<div class="post" data-post-id="38125" data-author="Gorka" data-date="2017-03-17T21:32:24+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 When I said useless gems... obviously I was using a subjective term. This could include valuable gems, that are no longer needed by a player once they have them... This does not mean the gem is not useful, simply that the player no longer has a use for them. 
 
@@ -190,7 +190,7 @@ Preferably though, players want a use for gems that they don't need anymore or t
 
 </div>
 
-<div class="post" data-post-id="38130" data-author="Teron" data-date="2017-03-18T08:45:13+00:00">
+<div class="post" data-post-id="38130" data-author="Teron" data-date="2017-03-18T08:45:13+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Imho the gem of the next tier is worth 3, not 5, gems of the previous tier.
 
@@ -210,7 +210,7 @@ To Oboe, who says that I don't know how to play a bard, I'll say that I'd rather
 
 </div>
 
-<div class="post" data-post-id="38135" data-author="Gorka" data-date="2017-03-20T10:22:06+00:00">
+<div class="post" data-post-id="38135" data-author="Gorka" data-date="2017-03-20T10:22:06+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Many thanks to Breeze for providing a gem trading mob the past two days, which allowed us to trade 5 of our undesirable gems and 500k, for a random gem. 
 
@@ -226,7 +226,7 @@ Thanks again Breeze, that was "mighty!" Much appreciated.
 
 </div>
 
-<div class="post" data-post-id="38136" data-author="Ker" data-date="2017-03-20T12:10:29+00:00">
+<div class="post" data-post-id="38136" data-author="Ker" data-date="2017-03-20T12:10:29+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Good day,
 
@@ -238,7 +238,7 @@ Yay, Dr
 
 </div>
 
-<div class="post" data-post-id="38139" data-author="*Breeze*" data-date="2017-03-20T15:52:38+00:00">
+<div class="post" data-post-id="38139" data-author="*Breeze*" data-date="2017-03-20T15:52:38+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 i am on my night shift schedule atm. i will probably do a day run in 2 weeks when my day schedule begins.
 
@@ -252,7 +252,7 @@ i suggest you don't bother the other imm's about it since its my test mob/code
 
 </div>
 
-<div class="post" data-post-id="38143" data-author="Ker" data-date="2017-03-24T03:30:58+00:00">
+<div class="post" data-post-id="38143" data-author="Ker" data-date="2017-03-24T03:30:58+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Good day,
 
@@ -376,7 +376,7 @@ Have fun! Dr
 
 </div>
 
-<div class="post" data-post-id="38144" data-author="Tuck" data-date="2017-03-24T16:31:52+00:00">
+<div class="post" data-post-id="38144" data-author="Tuck" data-date="2017-03-24T16:31:52+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 My 50 cents.
 
@@ -386,7 +386,7 @@ Thanks for this event!
 
 </div>
 
-<div class="post" data-post-id="38147" data-author="Teron" data-date="2017-03-25T05:53:00+00:00">
+<div class="post" data-post-id="38147" data-author="Teron" data-date="2017-03-25T05:53:00+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Agreed, though a fair trade for a t1 rune would be 5 t1 gems, which can in turn be traded for the capricite gem.
 
@@ -394,7 +394,7 @@ or a straight trade for the capricite gem.
 
 </div>
 
-<div class="post" data-post-id="38148" data-author="Josiah" data-date="2017-03-25T06:56:06+00:00">
+<div class="post" data-post-id="38148" data-author="Josiah" data-date="2017-03-25T06:56:06+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Wow, I go visit Hyrule for a week and miss out on the Great Vault Clearing of 2017!
 
@@ -404,7 +404,7 @@ No regrets, Hyrule was amazing.
 
 </div>
 
-<div class="post" data-post-id="38149" data-author="*Breeze*" data-date="2017-03-25T07:49:12+00:00">
+<div class="post" data-post-id="38149" data-author="*Breeze*" data-date="2017-03-25T07:49:12+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 > **Teron wrote:**
 > Agreed, though a fair trade for a t1 rune would be 5 t1 gems, which can in turn be traded for the capricite gem.
@@ -419,7 +419,7 @@ If you can properly justify why there should be 5 and not 3 I will consider it, 
 
 </div>
 
-<div class="post" data-post-id="38152" data-author="*Splork*" data-date="2017-03-25T23:26:02+00:00">
+<div class="post" data-post-id="38152" data-author="*Splork*" data-date="2017-03-25T23:26:02+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 > **Quote:**
 > Some of us have many useless runes forged. Please let us trade runes to gems or gamble runes to gems.
@@ -428,7 +428,7 @@ They are useful to someone, pass them down... :lol:
 
 </div>
 
-<div class="post" data-post-id="38158" data-author="Teron" data-date="2017-03-27T09:05:01+00:00">
+<div class="post" data-post-id="38158" data-author="Teron" data-date="2017-03-27T09:05:01+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Breeze, I store t1 gems in runes, because:
 
@@ -446,7 +446,7 @@ So runes are how t1 gems stored, you only saw t1 gems that were less than 5 each
 
 </div>
 
-<div class="post" data-post-id="38160" data-author="*Breeze*" data-date="2017-03-27T10:09:56+00:00">
+<div class="post" data-post-id="38160" data-author="*Breeze*" data-date="2017-03-27T10:09:56+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Why is it that I offer a beer and ppl want a keg.
 
@@ -456,7 +456,7 @@ Frankly I am tired off bending rules and getting nothing but disdain.
 
 </div>
 
-<div class="post" data-post-id="38161" data-author="Teron" data-date="2017-03-27T12:19:42+00:00">
+<div class="post" data-post-id="38161" data-author="Teron" data-date="2017-03-27T12:19:42+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 I don't have any disdain for you, Breeze, I appreciate a chance to turn t1 gems into something useful.
 
@@ -472,7 +472,7 @@ If it takes lots of effort for you to create rune-specific quests, send me the c
 
 </div>
 
-<div class="post" data-post-id="38162" data-author="cyprimus" data-date="2017-03-27T15:35:23+00:00">
+<div class="post" data-post-id="38162" data-author="cyprimus" data-date="2017-03-27T15:35:23+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Free kegs of beer?  
 
@@ -480,7 +480,7 @@ Gimme!
 
 </div>
 
-<div class="post" data-post-id="38163" data-author="Vegetable" data-date="2017-03-27T22:10:02+00:00">
+<div class="post" data-post-id="38163" data-author="Vegetable" data-date="2017-03-27T22:10:02+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 I think its fair on the 1 rune > 3 t1 gems trade thing as you won't get 100% of the value back for the item you sell to an npc anyway. Adding drachma to the trade would make drachma more valuable and perhaps make rebirth more attractive? I see this as another feature you can add to the mud, adding more valuable trade/exchange/maybe unsocket rune (:P) at a cost of some reasonable amount of drachma. 
 
@@ -488,7 +488,7 @@ PS: thanks for the gem trade. I am addicted to this gem gambling thing!
 
 </div>
 
-<div class="post" data-post-id="38184" data-author="Gorka" data-date="2017-03-29T09:27:04+00:00">
+<div class="post" data-post-id="38184" data-author="Gorka" data-date="2017-03-29T09:27:04+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 I think it's really simple, no player will ever make a useless rune again, they will just keep the 5 loose gems.
 
@@ -496,25 +496,25 @@ Once bitten, twice shy.
 
 </div>
 
-<div class="post" data-post-id="38188" data-author="*Breeze*" data-date="2017-03-29T14:46:11+00:00">
+<div class="post" data-post-id="38188" data-author="*Breeze*" data-date="2017-03-29T14:46:11+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Or I could just not do gem trades anymore and then it's a non issue
 
 </div>
 
-<div class="post" data-post-id="38195" data-author="Tuck" data-date="2017-03-30T21:01:42+00:00">
+<div class="post" data-post-id="38195" data-author="Tuck" data-date="2017-03-30T21:01:42+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 let's just all blame cyprimus1
 
 </div>
 
-<div class="post" data-post-id="38196" data-author="*Breeze*" data-date="2017-03-30T23:45:04+00:00">
+<div class="post" data-post-id="38196" data-author="*Breeze*" data-date="2017-03-30T23:45:04+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 No blaming. My terms are my terms and no one is obligated to trade runes in
 
 </div>
 
-<div class="post" data-post-id="38203" data-author="Tuck" data-date="2017-04-02T18:30:11+00:00">
+<div class="post" data-post-id="38203" data-author="Tuck" data-date="2017-04-02T18:30:11+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 So, we traded gems, we traded runes, time to ask for moar...
 
@@ -524,13 +524,13 @@ honestly - it was fun, thanks again for this event, Breeze.
 
 </div>
 
-<div class="post" data-post-id="38204" data-author="Gorka" data-date="2017-04-02T19:35:37+00:00">
+<div class="post" data-post-id="38204" data-author="Gorka" data-date="2017-04-02T19:35:37+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Thanks Breeze, 385 gems and about +50 runes traded today by my count (by everyone). I am surprised how many "useless" gems all the players had stashed away. It exceeded my own estimates. It would be interesting to know how much these gems account for "All gems in the game." My guess would be in the 50-70% range at least if we only take active players into account. I suspect more than 3000-5000 gems have been traded so far. But it wasn't just about the gems, the randomness of the trading is pretty damn fun as well. Watching what other people get is just as fun for everyone as trading your own random gems. I mean Zuzu came along just to watch for example... It's more fun than a grenade group.
 
 </div>
 
-<div class="post" data-post-id="38205" data-author="Ezekiel" data-date="2017-04-03T02:24:24+00:00">
+<div class="post" data-post-id="38205" data-author="Ezekiel" data-date="2017-04-03T02:24:24+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Thanks for all the chances to trade in gems, Breeze. I think whatever you decide for trade-in will suffice and I'm glad we even get an opportunity to trade them in. I've heard this from many others also. Take the aforementioned 'suggestions' with a grain of salt. It's easy to see all that as disdain when that's all that's being posted... since those that are more than satisfied with current trade situation are not posting because...well, they ARE satsified and also too lazy to post. :P I'm usually in that camp, so figured I'd drop in for two cents. Thanks again for the effort.
 
@@ -538,7 +538,7 @@ Thanks for all the chances to trade in gems, Breeze. I think whatever you decide
 
 </div>
 
-<div class="post" data-post-id="38206" data-author="Teron" data-date="2017-04-03T13:02:16+00:00">
+<div class="post" data-post-id="38206" data-author="Teron" data-date="2017-04-03T13:02:16+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 Gorka, I've traded ~80 gems in the first day, 45 yesterday. I haven't seen more, than 5-7 ppl there, so I'd figure it's close to 500-700 gems in the first day. So your number of 5000 for 3 days is off. It's in the ballpark of 1200-1500 gems, including those from runes.
 
@@ -546,7 +546,7 @@ Now, I'm considering to trade in "useless" t2 runes/gems that no one wants to tr
 
 </div>
 
-<div class="post" data-post-id="38207" data-author="*Breeze*" data-date="2017-04-03T14:59:41+00:00">
+<div class="post" data-post-id="38207" data-author="*Breeze*" data-date="2017-04-03T14:59:41+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 I will probably make a gem similar to a capricite that loads up 3 random gems.
 
@@ -558,7 +558,7 @@ No eta. Probably a week or two.
 
 </div>
 
-<div class="post" data-post-id="38208" data-author="cyprimus" data-date="2017-04-03T15:19:48+00:00">
+<div class="post" data-post-id="38208" data-author="cyprimus" data-date="2017-04-03T15:19:48+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
 tri-capracite!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="30771" data-author="Toxis" data-date="2010-01-31T22:32:22+00:00">
+<div class="post" data-post-id="30771" data-author="Toxis" data-date="2010-01-31T22:32:22+00:00" data-subject="Valk Chars">
 
 *Immortals of SlothMUD* 
 
@@ -120,7 +120,7 @@ I'd just like to know other people's thoughts on it.
 
 </div>
 
-<div class="post" data-post-id="30772" data-author="Aaz" data-date="2010-01-31T23:14:50+00:00">
+<div class="post" data-post-id="30772" data-author="Aaz" data-date="2010-01-31T23:14:50+00:00" data-subject="">
 
 As for me i'm not going to leave valk until i'll finish jjd, all drachma quests and clown sleeves.
 
@@ -136,7 +136,7 @@ May be making, for example, Sunday an open-door Valk day for all players will re
 
 </div>
 
-<div class="post" data-post-id="30776" data-author="Acedia" data-date="2010-02-01T09:09:05+00:00">
+<div class="post" data-post-id="30776" data-author="Acedia" data-date="2010-02-01T09:09:05+00:00" data-subject="">
 
 [quote:2qw2vycs]I really really hate seeing so many level 20's.[/quote:2qw2vycs]
 
@@ -148,7 +148,7 @@ Each person plays the game the way they want to play.
 
 </div>
 
-<div class="post" data-post-id="30778" data-author="Xamak" data-date="2010-02-01T13:30:00+00:00">
+<div class="post" data-post-id="30778" data-author="Xamak" data-date="2010-02-01T13:30:00+00:00" data-subject="">
 
 Toxis,
 
@@ -164,7 +164,7 @@ Xamak / Karna / Zanax / Tripper
 
 </div>
 
-<div class="post" data-post-id="30781" data-author="jezer" data-date="2010-02-01T18:04:58+00:00">
+<div class="post" data-post-id="30781" data-author="jezer" data-date="2010-02-01T18:04:58+00:00" data-subject="">
 
 I know what Toxis is saying... you get a bunch of 20's joining a large group and all of a sudden the runs start getting shorter... a death is a loss of about 100 mana to the group, and even more when you consider time... against the recasting of spell durations being lost.
 
@@ -176,7 +176,7 @@ Xamak makes a fair point as well, although there are plenty of players over 40 l
 
 </div>
 
-<div class="post" data-post-id="30782" data-author="Gimlet" data-date="2010-02-01T19:25:42+00:00">
+<div class="post" data-post-id="30782" data-author="Gimlet" data-date="2010-02-01T19:25:42+00:00" data-subject="">
 
 how's it any different from ppl who join groups but are not paying attention 80% of the time and have near full mana at end of fights
 
@@ -186,7 +186,7 @@ One suggestion would be to have a low level mini-raise spell that only works for
 
 </div>
 
-<div class="post" data-post-id="30783" data-author="*juggleblood*" data-date="2010-02-01T23:24:12+00:00">
+<div class="post" data-post-id="30783" data-author="*juggleblood*" data-date="2010-02-01T23:24:12+00:00" data-subject="">
 
 This is a futile debate. Valk is not gonna get opened up.
 
@@ -196,7 +196,7 @@ I think Valk is awesome personally.
 
 </div>
 
-<div class="post" data-post-id="30786" data-author="Toxis" data-date="2010-02-01T23:49:16+00:00">
+<div class="post" data-post-id="30786" data-author="Toxis" data-date="2010-02-01T23:49:16+00:00" data-subject="">
 
 2x20's are no longer welcome in my xp groups until the admin want to do something about newbaturds.
 
@@ -208,7 +208,7 @@ I'm sorry all, but I don't need you soaking up our exp.  If you think valk is so
 
 </div>
 
-<div class="post" data-post-id="30787" data-author="Xamak" data-date="2010-02-02T00:11:34+00:00">
+<div class="post" data-post-id="30787" data-author="Xamak" data-date="2010-02-02T00:11:34+00:00" data-subject="">
 
 Poit, 
 
@@ -222,7 +222,7 @@ Xamak
 
 </div>
 
-<div class="post" data-post-id="30788" data-author="*juggleblood*" data-date="2010-02-02T00:34:44+00:00">
+<div class="post" data-post-id="30788" data-author="*juggleblood*" data-date="2010-02-02T00:34:44+00:00" data-subject="">
 
 2x20's are no longer welcome in my xp groups until the admin want to do something about newbaturds.
 
@@ -238,13 +238,13 @@ Toxis is leading: NO NOOBATURDS!
 
 </div>
 
-<div class="post" data-post-id="30792" data-author="*Splork*" data-date="2010-02-02T03:41:51+00:00">
+<div class="post" data-post-id="30792" data-author="*Splork*" data-date="2010-02-02T03:41:51+00:00" data-subject="">
 
 The way a player chooses to level is not an Admin's decision.
 
 </div>
 
-<div class="post" data-post-id="30793" data-author="Toxis" data-date="2010-02-02T03:47:20+00:00">
+<div class="post" data-post-id="30793" data-author="Toxis" data-date="2010-02-02T03:47:20+00:00" data-subject="">
 
 Design of areas, additions of drachma and damn good eq, and limiting the level restrictions to run those areas DOES MAKE A PLAYER DECIDE HOW TO LEVEL.
 
@@ -254,7 +254,7 @@ I guess someone forgot to put the 8x20 solo drachma quest on valk yet, right?  C
 
 </div>
 
-<div class="post" data-post-id="30794" data-author="resouh" data-date="2010-02-02T05:27:06+00:00">
+<div class="post" data-post-id="30794" data-author="resouh" data-date="2010-02-02T05:27:06+00:00" data-subject="">
 
 My gripe is this:
 
@@ -272,7 +272,7 @@ Caleb/Resouh
 
 </div>
 
-<div class="post" data-post-id="30795" data-author="Gimlet" data-date="2010-02-02T06:47:17+00:00">
+<div class="post" data-post-id="30795" data-author="Gimlet" data-date="2010-02-02T06:47:17+00:00" data-subject="">
 
 during the limited number of times I've led since sloth restarted, I've never had a problem with newbies joining my groups.
 
@@ -290,7 +290,7 @@ So they want to finish all drachma quests on valk, what's wrong with that?  Not 
 
 </div>
 
-<div class="post" data-post-id="30797" data-author="Thraxas" data-date="2010-02-02T09:03:18+00:00">
+<div class="post" data-post-id="30797" data-author="Thraxas" data-date="2010-02-02T09:03:18+00:00" data-subject="">
 
 This is a silly conversation.
 
@@ -308,19 +308,19 @@ T
 
 </div>
 
-<div class="post" data-post-id="30807" data-author="*juggleblood*" data-date="2010-02-03T00:46:19+00:00">
+<div class="post" data-post-id="30807" data-author="*juggleblood*" data-date="2010-02-03T00:46:19+00:00" data-subject="">
 
 Yeah, I don't see where noobaturds are really siphoning off that much xp. But people are entitled to group whoever they want. I remember powerleveling on lyme where I'd lead 3 or 4 man xp. A bunch of people would ask to join and it made me irritable, because I didn't really feel like letting anyone in, but felt guilty saying no. Locking group and going notell is an option tho. No need to be dramatic about it.
 
 </div>
 
-<div class="post" data-post-id="30817" data-author="Nyara" data-date="2010-02-04T20:10:07+00:00">
+<div class="post" data-post-id="30817" data-author="Nyara" data-date="2010-02-04T20:10:07+00:00" data-subject="">
 
 I am very new to Sloth. What amazes me is this discussion thread because I understood Sloth to be a grouping game. I was hoping for my own reasons, before I left VK to get all 8 classes to 20. I had hoped I would get the gist of Sloth by that time and receive decent stats. Now there are players who have power in the game dictating how much I should level and the need to get off VK so I can continue to acquire experience or I will not be able to group. No one likes to be told or given limits how a person should play a game and I resent the fact that I cannot be free to level to 8x20 if I want to before leaving the newbie area. I am not saying I canâ€™t but it will be so much more difficult without grouping. Personally, what drew me to sloth was the emphasis of grouping and I continued to play because so many players have been very helpful. This limit of playing style gives me second thoughts about whether Sloth is the game for me. What other limits will players come up with in dictating how others should play?
 
 </div>
 
-<div class="post" data-post-id="30818" data-author="Toxis" data-date="2010-02-04T20:53:10+00:00">
+<div class="post" data-post-id="30818" data-author="Toxis" data-date="2010-02-04T20:53:10+00:00" data-subject="">
 
 Nyara, you're not getting the reason why I dislike valk.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="5125" data-author="achazia" data-date="2005-03-17T09:36:27+00:00">
+<div class="post" data-post-id="5125" data-author="achazia" data-date="2005-03-17T09:36:27+00:00" data-subject="Summon?">
 
 Hi!
 
@@ -24,7 +24,7 @@ now and I can only have 1 summon?
 
 </div>
 
-<div class="post" data-post-id="5136" data-author="Vixn" data-date="2005-03-17T10:16:15+00:00">
+<div class="post" data-post-id="5136" data-author="Vixn" data-date="2005-03-17T10:16:15+00:00" data-subject="Re: Summon?">
 
 Hi!
 
@@ -42,19 +42,19 @@ Maybe BIG NECRO GUYS know more easy way to specify that?
 
 </div>
 
-<div class="post" data-post-id="5137" data-author="Vixn" data-date="2005-03-17T10:20:47+00:00">
+<div class="post" data-post-id="5137" data-author="Vixn" data-date="2005-03-17T10:20:47+00:00" data-subject="">
 
 And one more cent: skeletons actually aren't summoned but animated creatures. And Vixn cann't summon 2 ghosts at 20level prime.
 
 </div>
 
-<div class="post" data-post-id="5146" data-author="Driven" data-date="2005-03-17T13:49:45+00:00">
+<div class="post" data-post-id="5146" data-author="Driven" data-date="2005-03-17T13:49:45+00:00" data-subject="">
 
 As far as I can tell, control undead equipment does not affect how many undead you can summon.  This is determined by your necromancer level and whether you are necromancer prime or not.  For example, I can have my Ju-Ju and 2x wraiths summoned at lvl 40 prime.  From level 20 to 29 prime I could only summon one spectre in addition to my Ju-Ju, and from level 30 to level 39 prime I could only summon one poltergeist in addition to my Ju-Ju.  Maybe a non-necro-prime can chime in with what they can summon.
 
 </div>
 
-<div class="post" data-post-id="5147" data-author="Alberich" data-date="2005-03-17T14:40:48+00:00">
+<div class="post" data-post-id="5147" data-author="Alberich" data-date="2005-03-17T14:40:48+00:00" data-subject="">
 
 this thread might help some:
 

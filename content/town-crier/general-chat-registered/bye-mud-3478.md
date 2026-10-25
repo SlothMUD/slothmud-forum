@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="31527" data-author="van" data-date="2010-08-18T18:15:59+00:00">
+<div class="post" data-post-id="31527" data-author="van" data-date="2010-08-18T18:15:59+00:00" data-subject="Bye mud">
 
 I've realized lately that playing Sloth has become a more and more frustrating experience*, which is mainly about me and my 'gaming expectations' or whatever.  So, I'm going to stop playing, because I'm just not enjoying it very much.
 
@@ -48,7 +48,7 @@ Of course I'm not really serious about mages, and please don't bother substantiv
 
 </div>
 
-<div class="post" data-post-id="31528" data-author="jezer" data-date="2010-08-18T19:48:35+00:00">
+<div class="post" data-post-id="31528" data-author="jezer" data-date="2010-08-18T19:48:35+00:00" data-subject="Re: Bye mud">
 
 Later Van, you made grouping fun. The silly talk and fooling around always made grouping a riot. You never take yourself seriously either which is a good quality. Honestly sad to see you leave. Don't feel you have stay away for ever, log in on the rainy days when there is nothing to do won't ya.  :(
 
@@ -56,7 +56,7 @@ Maybe Goober can compose a farewell haiku in your honour.  :twisted: (It's like 
 
 </div>
 
-<div class="post" data-post-id="31529" data-author="reboog" data-date="2010-08-18T20:58:32+00:00">
+<div class="post" data-post-id="31529" data-author="reboog" data-date="2010-08-18T20:58:32+00:00" data-subject="Re: Bye mud">
 
 Dear beloved Van,
 
@@ -78,13 +78,13 @@ He's such a cool guy.
 
 </div>
 
-<div class="post" data-post-id="31530" data-author="jezer" data-date="2010-08-18T21:00:17+00:00">
+<div class="post" data-post-id="31530" data-author="jezer" data-date="2010-08-18T21:00:17+00:00" data-subject="Re: Bye mud">
 
 Beautiful Goober  :cry: Just Beautiful!  :cry:
 
 </div>
 
-<div class="post" data-post-id="31532" data-author="Mace" data-date="2010-08-18T21:43:53+00:00">
+<div class="post" data-post-id="31532" data-author="Mace" data-date="2010-08-18T21:43:53+00:00" data-subject="Re: Bye mud">
 
 Where's that Van going?
 
@@ -94,7 +94,7 @@ Ha ha, roundabout
 
 </div>
 
-<div class="post" data-post-id="31533" data-author="van" data-date="2010-08-19T01:11:19+00:00">
+<div class="post" data-post-id="31533" data-author="van" data-date="2010-08-19T01:11:19+00:00" data-subject="Re: Bye mud">
 
 Return to forums...
 
@@ -104,13 +104,13 @@ Sloth still not for me.
 
 </div>
 
-<div class="post" data-post-id="31534" data-author="jezer" data-date="2010-08-19T01:14:37+00:00">
+<div class="post" data-post-id="31534" data-author="jezer" data-date="2010-08-19T01:14:37+00:00" data-subject="Re: Bye mud">
 
 :twisted:
 
 </div>
 
-<div class="post" data-post-id="31535" data-author="Toxis" data-date="2010-08-19T01:44:16+00:00">
+<div class="post" data-post-id="31535" data-author="Toxis" data-date="2010-08-19T01:44:16+00:00" data-subject="Re: Bye mud">
 
 1) still thinks that sloth should open all avatar levels at 4x40
 
@@ -142,19 +142,19 @@ While I'm at it, we need more frontliners...
 
 </div>
 
-<div class="post" data-post-id="31536" data-author="Atwell" data-date="2010-08-19T02:22:09+00:00">
+<div class="post" data-post-id="31536" data-author="Atwell" data-date="2010-08-19T02:22:09+00:00" data-subject="Re: Bye mud">
 
 I can relate to your post, Van.  To play again, I'd have to constantly convince myself: just one more weekend and I'll once again be Atwell.
 
 </div>
 
-<div class="post" data-post-id="31537" data-author="Nobody" data-date="2010-08-19T05:49:42+00:00">
+<div class="post" data-post-id="31537" data-author="Nobody" data-date="2010-08-19T05:49:42+00:00" data-subject="Re: Bye mud">
 
 Nobody needs more than three classes.
 
 </div>
 
-<div class="post" data-post-id="31538" data-author="Dragoth" data-date="2010-08-19T09:01:56+00:00">
+<div class="post" data-post-id="31538" data-author="Dragoth" data-date="2010-08-19T09:01:56+00:00" data-subject="Re: Bye mud">
 
 Take care Van!
 
@@ -164,7 +164,7 @@ I bet noone likes to see 3x40+ and longtime slothers leave the game because of i
 
 </div>
 
-<div class="post" data-post-id="31540" data-author="Thraxas" data-date="2010-08-19T14:46:14+00:00">
+<div class="post" data-post-id="31540" data-author="Thraxas" data-date="2010-08-19T14:46:14+00:00" data-subject="Re: Bye mud">
 
 Van leaving makes me as sad as I was happy to see him return, its not nice to see a rollcall of old friends leave one by one. I wish you werent leaving but I respect your reasons ... you'll be missed.
 
@@ -199,7 +199,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31542" data-author="jezer" data-date="2010-08-20T01:52:43+00:00">
+<div class="post" data-post-id="31542" data-author="jezer" data-date="2010-08-20T01:52:43+00:00" data-subject="Re: Bye mud">
 
 "Hi, and welcome to the Sloth Complaint Hot Line, all our immortals are currently on other calls at the moment and will be with you shortly. Your call is important to us, please hold the line."
 
@@ -207,7 +207,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31543" data-author="Thraxas" data-date="2010-08-20T09:37:09+00:00">
+<div class="post" data-post-id="31543" data-author="Thraxas" data-date="2010-08-20T09:37:09+00:00" data-subject="Re: Bye mud">
 
 > **jezer wrote:**
 > "Hi, and welcome to the Sloth Complaint Hot Line, all our immortals are currently on other calls at the moment and will be with you shortly. Your call is important to us, please hold the line."
@@ -224,7 +224,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31544" data-author="van" data-date="2010-08-20T19:09:17+00:00">
+<div class="post" data-post-id="31544" data-author="van" data-date="2010-08-20T19:09:17+00:00" data-subject="Re: Bye mud">
 
 I figured I'd dip back in and just quickly respond to the comments regarding "tough it out, don't just quit, talk with the immortals, etc.".
 
@@ -246,7 +246,7 @@ Van
 
 </div>
 
-<div class="post" data-post-id="31546" data-author="Thraxas" data-date="2010-08-20T23:17:15+00:00">
+<div class="post" data-post-id="31546" data-author="Thraxas" data-date="2010-08-20T23:17:15+00:00" data-subject="Re: Bye mud">
 
 Van,
 

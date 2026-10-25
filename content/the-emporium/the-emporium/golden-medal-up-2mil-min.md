@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="204" data-author="Deju" data-date="2004-05-21T18:02:15+00:00">
+<div class="post" data-post-id="204" data-author="Deju" data-date="2004-05-21T18:02:15+00:00" data-subject="Golden Medal Up - 2mil min">
 
 Object 'medal golden', Item type: ARMOR
 
@@ -34,13 +34,13 @@ or master warriors may use this item.
 
 </div>
 
-<div class="post" data-post-id="312" data-author="Beagle" data-date="2004-05-25T05:43:55+00:00">
+<div class="post" data-post-id="312" data-author="Beagle" data-date="2004-05-25T05:43:55+00:00" data-subject="gold medal - 2mil">
 
 2mil :) :mrgreen:
 
 </div>
 
-<div class="post" data-post-id="354" data-author="Deju" data-date="2004-05-26T04:14:28+00:00">
+<div class="post" data-post-id="354" data-author="Deju" data-date="2004-05-26T04:14:28+00:00" data-subject="Closed">
 
 Closed.  Beagle Wins for 2mil
 

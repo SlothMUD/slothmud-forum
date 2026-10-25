@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32652" data-author="*Isabo*" data-date="2011-05-29T02:29:45+00:00">
+<div class="post" data-post-id="32652" data-author="*Isabo*" data-date="2011-05-29T02:29:45+00:00" data-subject="World restore on someone reaching a level 40">
 
 Greeting mortals.
 

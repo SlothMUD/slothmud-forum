@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="205" data-author="Deju" data-date="2004-05-21T18:02:47+00:00">
+<div class="post" data-post-id="205" data-author="Deju" data-date="2004-05-21T18:02:47+00:00" data-subject="Blue Felt Slippers Up - 500k min">
 
 Object 'felt blue slippers', Item type: ARMOR
 
@@ -34,7 +34,7 @@ warriors may use this item.
 
 </div>
 
-<div class="post" data-post-id="347" data-author="Deju" data-date="2004-05-26T04:07:02+00:00">
+<div class="post" data-post-id="347" data-author="Deju" data-date="2004-05-26T04:07:02+00:00" data-subject="">
 
 Closed.  No Winner.
 

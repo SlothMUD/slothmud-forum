@@ -10,7 +10,7 @@ locked: false
 post_count: 46
 ---
 
-<div class="post" data-post-id="19787" data-author="13" data-date="2007-08-21T14:39:06+00:00">
+<div class="post" data-post-id="19787" data-author="13" data-date="2007-08-21T14:39:06+00:00" data-subject="The Moral Majority">
 
 Saw this somewhere else, mildly interesting but not terribly surprising, which is sort of depressing.
 
@@ -136,7 +136,7 @@ Richard Dasen Sr: Montana based benefactor of Christian groups. Found guilty of 
 
 </div>
 
-<div class="post" data-post-id="19788" data-author="13" data-date="2007-08-21T15:19:04+00:00">
+<div class="post" data-post-id="19788" data-author="13" data-date="2007-08-21T15:19:04+00:00" data-subject="">
 
 Isn't this why H.S.Thompson was killed, for writing a book exposing things
 
@@ -144,7 +144,7 @@ like these?
 
 </div>
 
-<div class="post" data-post-id="19789" data-author="13" data-date="2007-08-21T15:29:06+00:00">
+<div class="post" data-post-id="19789" data-author="13" data-date="2007-08-21T15:29:06+00:00" data-subject="">
 
 damn and more
 
@@ -242,13 +242,13 @@ Republican benefactor of conservative Christian groups, Richard A. Dasen Sr., wa
 
 </div>
 
-<div class="post" data-post-id="19792" data-author="Medios" data-date="2007-08-21T17:04:06+00:00">
+<div class="post" data-post-id="19792" data-author="Medios" data-date="2007-08-21T17:04:06+00:00" data-subject="">
 
 Yeh we all know that Democrats would never do such a thing.
 
 </div>
 
-<div class="post" data-post-id="19793" data-author="Medios" data-date="2007-08-21T17:22:23+00:00">
+<div class="post" data-post-id="19793" data-author="Medios" data-date="2007-08-21T17:22:23+00:00" data-subject="">
 
 Here I will help you create more division.
 
@@ -278,7 +278,7 @@ nformation compiled from the Washington Post, â€œCongressional Sex Scandals 
 
 </div>
 
-<div class="post" data-post-id="19795" data-author="Mosaix" data-date="2007-08-21T17:27:44+00:00">
+<div class="post" data-post-id="19795" data-author="Mosaix" data-date="2007-08-21T17:27:44+00:00" data-subject="">
 
 One the list of Republicans doing it is alarming.  And secondly Democrats dont stand up on the podium all day long preaching to you about morals, gays, and religion.
 
@@ -286,7 +286,7 @@ Its a good post, cause its the truth that keeps getting burried.  Can you imagin
 
 </div>
 
-<div class="post" data-post-id="19796" data-author="13" data-date="2007-08-21T17:42:35+00:00">
+<div class="post" data-post-id="19796" data-author="13" data-date="2007-08-21T17:42:35+00:00" data-subject="">
 
 I wasn't really meaning to point fingers at one party or another, just at the
 
@@ -294,7 +294,7 @@ generally dirtiness of it.  Someone else looked the shit up not me.
 
 </div>
 
-<div class="post" data-post-id="19797" data-author="Medios" data-date="2007-08-21T19:07:39+00:00">
+<div class="post" data-post-id="19797" data-author="Medios" data-date="2007-08-21T19:07:39+00:00" data-subject="">
 
 One the list of Republicans doing it is alarming.  And secondly Democrats dont stand up on the podium all day long preaching to you about morals, gays, and religion.
 
@@ -318,7 +318,7 @@ We need to come together as people.
 
 </div>
 
-<div class="post" data-post-id="19798" data-author="Alberich" data-date="2007-08-21T19:37:42+00:00">
+<div class="post" data-post-id="19798" data-author="Alberich" data-date="2007-08-21T19:37:42+00:00" data-subject="">
 
 just a note mike, at least in recent years, the republicans are actually worse with government spending - they just spend it on different things.
 
@@ -326,7 +326,7 @@ Dr. Paul is indeed running as a republican for some reason, and i will be voting
 
 </div>
 
-<div class="post" data-post-id="19799" data-author="Mosaix" data-date="2007-08-21T19:40:26+00:00">
+<div class="post" data-post-id="19799" data-author="Mosaix" data-date="2007-08-21T19:40:26+00:00" data-subject="">
 
 If i could vote for a real 3rd party, or some sort of moderate party I would.
 
@@ -344,7 +344,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="19800" data-author="Mosaix" data-date="2007-08-21T19:43:08+00:00">
+<div class="post" data-post-id="19800" data-author="Mosaix" data-date="2007-08-21T19:43:08+00:00" data-subject="">
 
 Mike,
 
@@ -360,7 +360,7 @@ So do some more research first before you throw teachers and teacher unions unde
 
 </div>
 
-<div class="post" data-post-id="19801" data-author="Medios" data-date="2007-08-21T19:58:54+00:00">
+<div class="post" data-post-id="19801" data-author="Medios" data-date="2007-08-21T19:58:54+00:00" data-subject="">
 
 I never threw teachers under the bus.  Just the union.  The union bosses absorb any raises or money that the teachers would every see.  They will cite things like rising health care, rising expenses etc.  I never said that teachers make a lot of money.  I was simply stating that our govt wastes my money and yours.  They dump millions of dollars into education, most of which is absorbed by bureaucratic jobs.  I will contend that dollar for dollar private schools do a much better job at teaching than public ones.  As far as your ideal that all teachers are these great parents of needy children.  Wake up Broc.  Lemme tell you a little tale about how much teachers care.
 
@@ -372,7 +372,7 @@ Oh btw this teacher I am referring too.  Her husband is the county treasurer.  T
 
 </div>
 
-<div class="post" data-post-id="19802" data-author="Mosaix" data-date="2007-08-21T20:01:34+00:00">
+<div class="post" data-post-id="19802" data-author="Mosaix" data-date="2007-08-21T20:01:34+00:00" data-subject="">
 
 One teacher and all are bad, i understand now.
 
@@ -382,7 +382,7 @@ You are however making an opinion that the money paid to teachers isnt worth it.
 
 </div>
 
-<div class="post" data-post-id="19803" data-author="Medios" data-date="2007-08-21T20:06:55+00:00">
+<div class="post" data-post-id="19803" data-author="Medios" data-date="2007-08-21T20:06:55+00:00" data-subject="">
 
 My mom is a teacher....
 
@@ -390,7 +390,7 @@ The money doesn't ever make it to the teachers.  You can't just throw money at a
 
 </div>
 
-<div class="post" data-post-id="19804" data-author="Medios" data-date="2007-08-21T20:17:37+00:00">
+<div class="post" data-post-id="19804" data-author="Medios" data-date="2007-08-21T20:17:37+00:00" data-subject="">
 
 just a note mike, at least in recent years, the republicans are actually worse with government spending - they just spend it on different things.
 
@@ -402,7 +402,7 @@ In closing I don't agree with any new taxes, any new Departments, or any new lie
 
 </div>
 
-<div class="post" data-post-id="19806" data-author="banedon" data-date="2007-08-21T20:25:05+00:00">
+<div class="post" data-post-id="19806" data-author="banedon" data-date="2007-08-21T20:25:05+00:00" data-subject="">
 
 The money doesn't ever make it to the teachers.  [/quote:3pfaj948]
 
@@ -412,7 +412,7 @@ Also there are several small towns reigonally (most in So. Ill) that have had ta
 
 </div>
 
-<div class="post" data-post-id="19811" data-author="mahkra" data-date="2007-08-21T21:16:13+00:00">
+<div class="post" data-post-id="19811" data-author="mahkra" data-date="2007-08-21T21:16:13+00:00" data-subject="">
 
 My father was an auditor in this state and the problem is definitely not the the teachers. There is so much screwball accounting going on with funding and absolutely no accountability that the money will never get to the actual teachers.  
 
@@ -430,7 +430,7 @@ I grew up believing in the America of Jefferson and Franklin. As I grow older I 
 
 </div>
 
-<div class="post" data-post-id="19812" data-author="osric" data-date="2007-08-21T21:51:31+00:00">
+<div class="post" data-post-id="19812" data-author="osric" data-date="2007-08-21T21:51:31+00:00" data-subject="">
 
 Two Quick Thoughts
 
@@ -440,13 +440,13 @@ Two Quick Thoughts
 
 </div>
 
-<div class="post" data-post-id="19813" data-author="Weasel" data-date="2007-08-21T22:01:42+00:00">
+<div class="post" data-post-id="19813" data-author="Weasel" data-date="2007-08-21T22:01:42+00:00" data-subject="">
 
 vote for pedro
 
 </div>
 
-<div class="post" data-post-id="19815" data-author="Tap" data-date="2007-08-21T23:10:42+00:00">
+<div class="post" data-post-id="19815" data-author="Tap" data-date="2007-08-21T23:10:42+00:00" data-subject="">
 
 Hillary Clinton   Vince Foster
 
@@ -468,19 +468,19 @@ Mac ~n~ cheese done..cya
 
 </div>
 
-<div class="post" data-post-id="19819" data-author="Weasel" data-date="2007-08-21T23:53:19+00:00">
+<div class="post" data-post-id="19819" data-author="Weasel" data-date="2007-08-21T23:53:19+00:00" data-subject="">
 
 perhaps I should get my tinfoil hat ready..
 
 </div>
 
-<div class="post" data-post-id="19820" data-author="Avatar" data-date="2007-08-22T00:54:55+00:00">
+<div class="post" data-post-id="19820" data-author="Avatar" data-date="2007-08-22T00:54:55+00:00" data-subject="Politics">
 
 So, have any of you considered serving?  Even for local offices?
 
 </div>
 
-<div class="post" data-post-id="19821" data-author="Autolycos" data-date="2007-08-22T01:59:42+00:00">
+<div class="post" data-post-id="19821" data-author="Autolycos" data-date="2007-08-22T01:59:42+00:00" data-subject="">
 
 perhaps I should get my tinfoil hat ready..[/quote:ry9j5nqx]
 
@@ -490,7 +490,7 @@ Made this just for you bro  8)
 
 </div>
 
-<div class="post" data-post-id="19822" data-author="Tap" data-date="2007-08-22T02:37:43+00:00">
+<div class="post" data-post-id="19822" data-author="Tap" data-date="2007-08-22T02:37:43+00:00" data-subject="">
 
 With globalalization approaching record speeds, it's just a matter of time before one world government/commerce takes place. Yep, everyime that's mention the person in question is disregarded as a fluke. Yet, the signs are in plain view..just so many people are too scared to see. Myself, as someone who listens way to much to Coast to Coast and Alex Jones, I am perhaps screwup....scared shitless too.. also enthrawled by these exciting times that we live in.
 
@@ -500,25 +500,25 @@ ps- Nice Pic Autolycos but an audio rant of how weasels are running Hollywood wo
 
 </div>
 
-<div class="post" data-post-id="19823" data-author="Tap" data-date="2007-08-22T03:03:30+00:00">
+<div class="post" data-post-id="19823" data-author="Tap" data-date="2007-08-22T03:03:30+00:00" data-subject="">
 
 Also, I'm either mad or both :twisted:
 
 </div>
 
-<div class="post" data-post-id="19825" data-author="brand" data-date="2007-08-22T04:56:39+00:00">
+<div class="post" data-post-id="19825" data-author="brand" data-date="2007-08-22T04:56:39+00:00" data-subject="">
 
 hell look at us, we got it all...
 
 </div>
 
-<div class="post" data-post-id="19828" data-author="Alberich" data-date="2007-08-22T13:36:42+00:00">
+<div class="post" data-post-id="19828" data-author="Alberich" data-date="2007-08-22T13:36:42+00:00" data-subject="">
 
 laugh you have way to much free time jason
 
 </div>
 
-<div class="post" data-post-id="19829" data-author="alias" data-date="2007-08-22T14:14:47+00:00">
+<div class="post" data-post-id="19829" data-author="alias" data-date="2007-08-22T14:14:47+00:00" data-subject="">
 
 There are very few good and honest politicians willing to do the right thing. When you come across one  admire them while you can, because they won't be in office for long. They will either be turned into what we have now or will be run out of office or turned into a lame duck. The political system is broken and every canidate works for his/her friends not for the people. Most of you are lured into a particular political party by wedge issues; abortion, gay rights, religion, the children, gun control, ect. Just an example here, ever notice nothing really gets done on any of these issues no matter which party wins and controls congress- ie Bush and republican congress has done nothing to ban abortion, (don't start on me about which side I am its just an example). Its the same way for both parties, they are broken. Hopefully we can turn to system around, but I don't see it happening soon.
 
@@ -534,7 +534,7 @@ on a side note, my favorite quote.
 
 </div>
 
-<div class="post" data-post-id="19839" data-author="Avatar" data-date="2007-08-22T20:23:37+00:00">
+<div class="post" data-post-id="19839" data-author="Avatar" data-date="2007-08-22T20:23:37+00:00" data-subject="Politics">
 
 I think Americans don't understand what we want from our politicians.  If you want someone with Integrity, who won't back down, who insists on doing what he thinks is right, then keep supporting Bush.  You can't argue that he hasn't persevered through a lot of criticism and challenge to continue his passion, the one issue he's most concerned with, the war.
 
@@ -552,13 +552,13 @@ Using the same example, let's say that issue #5 concerns violent video games.  T
 
 </div>
 
-<div class="post" data-post-id="19840" data-author="Rynquald" data-date="2007-08-22T22:55:46+00:00">
+<div class="post" data-post-id="19840" data-author="Rynquald" data-date="2007-08-22T22:55:46+00:00" data-subject="">
 
 And that's why the amount change any government can ever make will always be inversely proportional to the number of politicians that have a say about it :)
 
 </div>
 
-<div class="post" data-post-id="19841" data-author="tincts" data-date="2007-08-23T02:08:54+00:00">
+<div class="post" data-post-id="19841" data-author="tincts" data-date="2007-08-23T02:08:54+00:00" data-subject="">
 
 "And that's why the amount change any government can ever make will always be inversely proportional to the number of politicians that have a say about it"
 
@@ -566,7 +566,7 @@ Yep :)  I'm all for monarchy/dictatorship
 
 </div>
 
-<div class="post" data-post-id="19843" data-author="alias" data-date="2007-08-23T02:26:13+00:00">
+<div class="post" data-post-id="19843" data-author="alias" data-date="2007-08-23T02:26:13+00:00" data-subject="">
 
 Want a dictatorship Tinct? might as well move here were damn close to it now.
 
@@ -574,7 +574,7 @@ just remember its all for the sake of the children *puke*
 
 </div>
 
-<div class="post" data-post-id="19847" data-author="Rynquald" data-date="2007-08-23T03:54:08+00:00">
+<div class="post" data-post-id="19847" data-author="Rynquald" data-date="2007-08-23T03:54:08+00:00" data-subject="">
 
 Honestly I'd say that monarchies strike (imo anyway) the best balance between having a power-crazed dictator and a large group of squabbling politicians.
 
@@ -588,7 +588,7 @@ Just my two cents though, probably all wrong :)
 
 </div>
 
-<div class="post" data-post-id="19848" data-author="13" data-date="2007-08-23T04:16:20+00:00">
+<div class="post" data-post-id="19848" data-author="13" data-date="2007-08-23T04:16:20+00:00" data-subject="">
 
 [quote:1q1t2p5m]I think Americans don't understand what we want from our politicians. If you want someone with Integrity, who won't back down, who insists on doing what he thinks is right, then keep supporting Bush. You can't argue that he hasn't persevered through a lot of criticism and challenge to continue his passion, the one issue he's most concerned with, the war. [/quote:1q1t2p5m]
 
@@ -596,7 +596,7 @@ I want this, but I want the guy to want the right things not this garbage.
 
 </div>
 
-<div class="post" data-post-id="19850" data-author="tincts" data-date="2007-08-23T07:34:24+00:00">
+<div class="post" data-post-id="19850" data-author="tincts" data-date="2007-08-23T07:34:24+00:00" data-subject="">
 
 My favorite ruler is the ruler of the universe depicted in hitchhiker's guide to the galaxy - as a person who wants to rule by definition is unsuited to the job (as decisions will be primarily influenced by the desire to maintain rule), (power corrupts etc.), the ultimate ruler is one who [b:spswvokz]doesn't even know[/b:spswvokz] that he's the ruler.  
 
@@ -604,7 +604,7 @@ Then again, I'm not sure Bush knows where his own nose is, so that probably inva
 
 </div>
 
-<div class="post" data-post-id="19853" data-author="Autolycos" data-date="2007-08-23T12:27:24+00:00">
+<div class="post" data-post-id="19853" data-author="Autolycos" data-date="2007-08-23T12:27:24+00:00" data-subject="">
 
 [i:vz57ix1z][b:vz57ix1z]*applaud* nice tincts![/b:vz57ix1z][/i:vz57ix1z]
 
@@ -614,13 +614,13 @@ I'd vote!
 
 </div>
 
-<div class="post" data-post-id="19854" data-author="Mosaix" data-date="2007-08-23T12:43:58+00:00">
+<div class="post" data-post-id="19854" data-author="Mosaix" data-date="2007-08-23T12:43:58+00:00" data-subject="">
 
 Magrathea!!!
 
 </div>
 
-<div class="post" data-post-id="19855" data-author="Avatar" data-date="2007-08-23T13:46:38+00:00">
+<div class="post" data-post-id="19855" data-author="Avatar" data-date="2007-08-23T13:46:38+00:00" data-subject="Politicians">
 
 Nice points Tincts, I agree.
 
@@ -628,7 +628,7 @@ Nice points Tincts, I agree.
 
 </div>
 
-<div class="post" data-post-id="19858" data-author="Weasel" data-date="2007-08-23T16:59:01+00:00">
+<div class="post" data-post-id="19858" data-author="Weasel" data-date="2007-08-23T16:59:01+00:00" data-subject="">
 
 My father was an auditor in this state and the problem is definitely not the the teachers. There is so much screwball accounting going on with funding and absolutely no accountability that the money will never get to the actual teachers.  
 
@@ -642,7 +642,7 @@ One of my professors was an auditor for the IRS, dealing with large corporates. 
 
 </div>
 
-<div class="post" data-post-id="19859" data-author="Weasel" data-date="2007-08-23T17:02:23+00:00">
+<div class="post" data-post-id="19859" data-author="Weasel" data-date="2007-08-23T17:02:23+00:00" data-subject="">
 
 perhaps I should get my tinfoil hat ready..[/quote:1d4mwmtn]
 
@@ -654,13 +654,13 @@ LOL classic, thanks mate :D
 
 </div>
 
-<div class="post" data-post-id="19860" data-author="osric" data-date="2007-08-23T17:28:16+00:00">
+<div class="post" data-post-id="19860" data-author="osric" data-date="2007-08-23T17:28:16+00:00" data-subject="">
 
 To answer a question Avatar posed a while back, no, I haven't ever run for public office (well I did run for student senate in college, but while that was official I don't really count it). However I did work closely on the campaign of a friend of mine for city council. It was actually a horribly disheartening experience, the political arena even in a small town can be really all about dirty fighting and lowest common denominator tactics. So if you are trying to get into politics to change things for the better you don't stand much chance at all. But if you want to get into politics to be self serving its actually a lot easier because political parties and bosses know that you can be bought, seriously.  My friend lost his race for city council against a guy who during the race got not one but 2 dui charges and assaulted a police officer and tried to use his political office to get out of the ticket, but people still preferred him to my candidate who had never been in trouble with the law but wasn't backed by the local party bosses. I lost a lot of faith in the American voter that day.
 
 </div>
 
-<div class="post" data-post-id="19863" data-author="mahkra" data-date="2007-08-23T19:37:16+00:00">
+<div class="post" data-post-id="19863" data-author="mahkra" data-date="2007-08-23T19:37:16+00:00" data-subject="">
 
 The American political system was designed to create gridlock. These are supposed to be the checks and balances that keep enormously bad decisions from becoming the law of the land. Where the founding fathers blew it was in their vague definition of the judiciary (It is the least defined in the constitution and bill of rights).  This setup a system where a president could legislate law bypassing the congress and ultimately could even grant congress or the president absolute authority.  This is entirely possible and may happen (It already has in limited cases i.E martial law being imposed on LA and New Orleans -Thanks Richard Nixon!).  Bush has certainly manipulated this system more effectively than probably any other president. 
 
@@ -696,7 +696,7 @@ Franklins wikipedia:
 
 </div>
 
-<div class="post" data-post-id="19865" data-author="mahkra" data-date="2007-08-23T19:56:33+00:00">
+<div class="post" data-post-id="19865" data-author="mahkra" data-date="2007-08-23T19:56:33+00:00" data-subject="">
 
 oh and by the way. A large majority of the founding fathers were Masons. and the Shriners (spelled Rich Masons with goofy hats) Dedicate thier efforts to running childrens hospitals, which will treat any child requardless of ability to pay. 
 
@@ -704,13 +704,13 @@ They get a pass from me automaticly.
 
 </div>
 
-<div class="post" data-post-id="19868" data-author="Tap" data-date="2007-08-23T21:34:36+00:00">
+<div class="post" data-post-id="19868" data-author="Tap" data-date="2007-08-23T21:34:36+00:00" data-subject="">
 
 Won't get into a long drag-out flameout here but Mason's and/Shriners have their own 'secret' covens. While on the surface they appear to be beneificial, underlying is some of the worst things you could possible imagine. I'd rather trust my son with a Catholic priest that any Shriner.
 
 </div>
 
-<div class="post" data-post-id="19871" data-author="Medios" data-date="2007-08-23T22:49:32+00:00">
+<div class="post" data-post-id="19871" data-author="Medios" data-date="2007-08-23T22:49:32+00:00" data-subject="">
 
 Won't get into a long drag-out flameout here but Mason's and/Shriners have their own 'secret' covens. While on the surface they appear to be beneificial, underlying is some of the worst things you could possible imagine. I'd rather trust my son with a Catholic priest that any Shriner.[/quote:1q8cp6b5]
 
@@ -718,7 +718,7 @@ Are you saying that secret societies have something to hide?
 
 </div>
 
-<div class="post" data-post-id="19872" data-author="13" data-date="2007-08-23T22:51:53+00:00">
+<div class="post" data-post-id="19872" data-author="13" data-date="2007-08-23T22:51:53+00:00" data-subject="">
 
 No way dude, the masons and shriners never cover anything up!
 

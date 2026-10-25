@@ -10,7 +10,7 @@ locked: true
 post_count: 6
 ---
 
-<div class="post" data-post-id="36471" data-author="cyprimus" data-date="2016-01-16T08:37:13+00:00">
+<div class="post" data-post-id="36471" data-author="cyprimus" data-date="2016-01-16T08:37:13+00:00" data-subject="continuing harassment">
 
 So problem still not addressed, once again dr sending harassing tells etc.. the day primal comes back we are back to 
 
@@ -20,7 +20,7 @@ Dr gossips-- 'poor baby, don't take it out on the gossip channel'
 
 </div>
 
-<div class="post" data-post-id="36472" data-author="Yasik" data-date="2016-01-16T08:54:47+00:00">
+<div class="post" data-post-id="36472" data-author="Yasik" data-date="2016-01-16T08:54:47+00:00" data-subject="Re: continuing harassment">
 
 ```
 ^\[(.*)\] PLAYERNAME (.*)$
@@ -50,7 +50,7 @@ gossips and gossip - needs to be exactly like that, to hide when they gossip and
 
 </div>
 
-<div class="post" data-post-id="36473" data-author="Teron" data-date="2016-01-16T10:31:01+00:00">
+<div class="post" data-post-id="36473" data-author="Teron" data-date="2016-01-16T10:31:01+00:00" data-subject="Re: continuing harassment">
 
 Ozzy, your suggestion doesn't stop the harassment.
 
@@ -58,7 +58,7 @@ Also, these patters can be easily overcome, if desired, unless you go notell and
 
 </div>
 
-<div class="post" data-post-id="36474" data-author="Ker" data-date="2016-01-16T11:18:54+00:00">
+<div class="post" data-post-id="36474" data-author="Ker" data-date="2016-01-16T11:18:54+00:00" data-subject="Re: continuing harassment">
 
 Sorry, it seems I need to defend myself yet again from this.
 
@@ -92,7 +92,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36475" data-author="Yasik" data-date="2016-01-16T12:51:51+00:00">
+<div class="post" data-post-id="36475" data-author="Yasik" data-date="2016-01-16T12:51:51+00:00" data-subject="Re: continuing harassment">
 
 Taron, I never said those are perfect defence, there is  always room for improvement.
 
@@ -102,7 +102,7 @@ Btw, afair, trigger abuse is wipeable offence. At least it was in S3, iirc.
 
 </div>
 
-<div class="post" data-post-id="36478" data-author="*Splork*" data-date="2016-01-16T14:53:08+00:00">
+<div class="post" data-post-id="36478" data-author="*Splork*" data-date="2016-01-16T14:53:08+00:00" data-subject="Re: continuing harassment">
 
 We are getting extremely tired of dealing with this situation. This does not represent our game and looks extremely bad for Sloth in general when people come here to check out us out and see this.
 

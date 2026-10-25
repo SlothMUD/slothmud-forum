@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="22605" data-author="madmax" data-date="2008-02-08T04:30:50+00:00">
+<div class="post" data-post-id="22605" data-author="madmax" data-date="2008-02-08T04:30:50+00:00" data-subject="Archangel Proc">
 
 In an epic group tonight we were talking about the Archangel and its Undead proc.  Well here is a log of what happened when I was "testing" it.
 
@@ -398,7 +398,7 @@ What a Proc!
 
 </div>
 
-<div class="post" data-post-id="22606" data-author="Rynquald" data-date="2008-02-08T07:44:30+00:00">
+<div class="post" data-post-id="22606" data-author="Rynquald" data-date="2008-02-08T07:44:30+00:00" data-subject="">
 
 If you were carrying recalls that multiple chance raise would definitely rock.
 
@@ -410,7 +410,7 @@ Of course the ivy is good enough to ruin your align, so assuming an archangel wo
 
 </div>
 
-<div class="post" data-post-id="22607" data-author="madmax" data-date="2008-02-08T12:42:47+00:00">
+<div class="post" data-post-id="22607" data-author="madmax" data-date="2008-02-08T12:42:47+00:00" data-subject="">
 
 Correct Ryn, the proc only happened on fighting a good aligned mob.
 
@@ -442,7 +442,7 @@ For thoes who think th
 
 </div>
 
-<div class="post" data-post-id="22609" data-author="Vixn" data-date="2008-02-08T18:05:23+00:00">
+<div class="post" data-post-id="22609" data-author="Vixn" data-date="2008-02-08T18:05:23+00:00" data-subject="">
 
 you were so annoying even archangel decided to shock you!  :twisted: 
 
@@ -450,7 +450,7 @@ p.s. now go play with fiend
 
 </div>
 
-<div class="post" data-post-id="22610" data-author="Autolycos" data-date="2008-02-08T19:12:25+00:00">
+<div class="post" data-post-id="22610" data-author="Autolycos" data-date="2008-02-08T19:12:25+00:00" data-subject="">
 
 i dont blame him.  i like shocking madmax too.
 
@@ -458,7 +458,7 @@ like a poetic irony  ;)
 
 </div>
 
-<div class="post" data-post-id="22622" data-author="*juggleblood*" data-date="2008-02-09T02:22:56+00:00">
+<div class="post" data-post-id="22622" data-author="*juggleblood*" data-date="2008-02-09T02:22:56+00:00" data-subject="">
 
 after reading that, I decided that I also should sub aerial servant aerial bitch
 
@@ -466,7 +466,7 @@ Thanks max
 
 </div>
 
-<div class="post" data-post-id="22667" data-author="tincts" data-date="2008-02-12T06:46:22+00:00">
+<div class="post" data-post-id="22667" data-author="tincts" data-date="2008-02-12T06:46:22+00:00" data-subject="">
 
 :lol:
 

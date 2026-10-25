@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31354" data-author="reboog" data-date="2010-07-16T00:00:53+00:00">
+<div class="post" data-post-id="31354" data-author="reboog" data-date="2010-07-16T00:00:53+00:00" data-subject="knights blessing not in eqlist">
 
 You see nothing special....It emits a faint humming sound!
 
@@ -30,13 +30,13 @@ Weight: 1, Value: 11000gold, Worn in: TAKE HOLD
 
 </div>
 
-<div class="post" data-post-id="31357" data-author="*Breeze*" data-date="2010-07-16T09:20:28+00:00">
+<div class="post" data-post-id="31357" data-author="*Breeze*" data-date="2010-07-16T09:20:28+00:00" data-subject="Re: knights blessing not in eqlist">
 
 that and a few other missing ones should hopefully be in eqlist next time mud reboots or crashes
 
 </div>
 
-<div class="post" data-post-id="31360" data-author="reboog" data-date="2010-07-17T21:51:11+00:00">
+<div class="post" data-post-id="31360" data-author="reboog" data-date="2010-07-17T21:51:11+00:00" data-subject="Re: knights blessing not in eqlist">
 
 Is this the behavior of the new eqlist, or was a fix put in that became active on crash/reboot?
 

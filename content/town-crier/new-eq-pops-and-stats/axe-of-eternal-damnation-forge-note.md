@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="16642" data-author="12345" data-date="2007-02-05T04:51:06+00:00">
+<div class="post" data-post-id="16642" data-author="12345" data-date="2007-02-05T04:51:06+00:00" data-subject="Axe of Eternal Damnation forge note">
 
 Axe of Eternal Damnation has no cps and no forge note listed. Think we popped it off of some silly mob in Kendermore... either way, I tried adding the note text to forge and it wouldn't let me, so I'm adding it here:
 
@@ -52,7 +52,7 @@ reconstruct the legendary weapon.  ------ Preva[/quote:14cd237l]
 
 </div>
 
-<div class="post" data-post-id="27618" data-author="Teron" data-date="2009-01-05T12:27:12+00:00">
+<div class="post" data-post-id="27618" data-author="Teron" data-date="2009-01-05T12:27:12+00:00" data-subject="">
 
 It is a forge in the Onyx tower.
 

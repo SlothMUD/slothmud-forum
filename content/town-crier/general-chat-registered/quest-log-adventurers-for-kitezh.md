@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33178" data-author="Magi" data-date="2012-03-01T20:48:38+00:00">
+<div class="post" data-post-id="33178" data-author="Magi" data-date="2012-03-01T20:48:38+00:00" data-subject="Quest Log - Adventurers for Kitezh">
 
 I never got around to posting this one. Alris led the quest a month(ish) ago.
 

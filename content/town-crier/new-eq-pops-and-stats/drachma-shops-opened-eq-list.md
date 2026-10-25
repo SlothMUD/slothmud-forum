@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="29723" data-author="Cizin" data-date="2009-07-27T15:15:26+00:00">
+<div class="post" data-post-id="29723" data-author="Cizin" data-date="2009-07-27T15:15:26+00:00" data-subject="Drachma shops opened - EQ list">
 
 High Priest SHOP
 
@@ -922,7 +922,7 @@ Only those who are at least experienced bards may use this item.
 
 </div>
 
-<div class="post" data-post-id="29724" data-author="Vixn" data-date="2009-07-27T17:24:53+00:00">
+<div class="post" data-post-id="29724" data-author="Vixn" data-date="2009-07-27T17:24:53+00:00" data-subject="">
 
 ====>> Affects: ARMOR by -1 <<====
 
@@ -936,7 +936,7 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="29725" data-author="Stryx" data-date="2009-07-27T18:00:49+00:00">
+<div class="post" data-post-id="29725" data-author="Stryx" data-date="2009-07-27T18:00:49+00:00" data-subject="">
 
 Somebody was bored!!
 
@@ -944,13 +944,13 @@ Excellent post tho Cizin  :D
 
 </div>
 
-<div class="post" data-post-id="29726" data-author="Jag" data-date="2009-07-27T22:31:35+00:00">
+<div class="post" data-post-id="29726" data-author="Jag" data-date="2009-07-27T22:31:35+00:00" data-subject="">
 
 thanks man.  It will be a long time before I have the drachma, but i like to plan.  :)  Anticipation is part of the fun.
 
 </div>
 
-<div class="post" data-post-id="29727" data-author="Rigwarl" data-date="2009-07-28T02:51:09+00:00">
+<div class="post" data-post-id="29727" data-author="Rigwarl" data-date="2009-07-28T02:51:09+00:00" data-subject="">
 
 ====>> Affects: ARMOR by -1 <<====
 
@@ -970,7 +970,7 @@ P.S. Thanks for the list Borat,
 
 </div>
 
-<div class="post" data-post-id="29731" data-author="Vixn" data-date="2009-07-28T12:43:50+00:00">
+<div class="post" data-post-id="29731" data-author="Vixn" data-date="2009-07-28T12:43:50+00:00" data-subject="">
 
 -0.1. Nod, nice robe, good luck Kida![/quote:2tu83nez]
 
@@ -1006,7 +1006,7 @@ So is it max for clerics nowdays? Or is there another way to get more HB?
 
 </div>
 
-<div class="post" data-post-id="29733" data-author="Rigwarl" data-date="2009-07-28T14:56:20+00:00">
+<div class="post" data-post-id="29733" data-author="Rigwarl" data-date="2009-07-28T14:56:20+00:00" data-subject="">
 
 Looks like you've  your plan all set..
 
@@ -1016,7 +1016,7 @@ Please get it soon so we can cycle contagion.
 
 </div>
 
-<div class="post" data-post-id="29764" data-author="Cizin" data-date="2009-08-05T19:34:55+00:00">
+<div class="post" data-post-id="29764" data-author="Cizin" data-date="2009-08-05T19:34:55+00:00" data-subject="">
 
 An update:
 

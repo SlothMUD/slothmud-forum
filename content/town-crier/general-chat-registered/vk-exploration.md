@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="25467" data-author="Acedia" data-date="2008-07-26T09:12:18+00:00">
+<div class="post" data-post-id="25467" data-author="Acedia" data-date="2008-07-26T09:12:18+00:00" data-subject="VK Exploration">
 
 Mornin' folks, just have some quick questions regarding exploration
 
@@ -28,7 +28,7 @@ Any information would be much appreciated.  Thanks in advance
 
 </div>
 
-<div class="post" data-post-id="25474" data-author="firebrand" data-date="2008-07-27T14:25:14+00:00">
+<div class="post" data-post-id="25474" data-author="firebrand" data-date="2008-07-27T14:25:14+00:00" data-subject="">
 
 are you running these areas using yellow potions/detect invisibility spells?  
 
@@ -50,7 +50,7 @@ always carry at least 2 recall scrolls/potions (some rooms are nocast)
 
 </div>
 
-<div class="post" data-post-id="25481" data-author="firebrand" data-date="2008-07-29T08:07:10+00:00">
+<div class="post" data-post-id="25481" data-author="firebrand" data-date="2008-07-29T08:07:10+00:00" data-subject="">
 
 heh i guess for the trig traps explanation i should have included to type commands list so that you can see the different commands we have available then look at the room description and see if you can "trigger" the "trap" by typing in the correct combination of command + keyword.  
 
@@ -60,7 +60,7 @@ and there are the always fun ones of figuring out what object you need to hold/w
 
 </div>
 
-<div class="post" data-post-id="25505" data-author="Avatar" data-date="2008-07-30T23:37:37+00:00">
+<div class="post" data-post-id="25505" data-author="Avatar" data-date="2008-07-30T23:37:37+00:00" data-subject="trigger commands">
 
 It was my understanding that the 'command list' has nothing to do with triggers.  The triggers can (and usually are) be completely arbitrary and random.  For example, using your example of 'sign ledger', the 'sign' command is not included in 'command list'.
 

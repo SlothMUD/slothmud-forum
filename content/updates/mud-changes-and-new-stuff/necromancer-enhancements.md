@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29987" data-author="*Splork*" data-date="2009-09-15T02:17:12+00:00">
+<div class="post" data-post-id="29987" data-author="*Splork*" data-date="2009-09-15T02:17:12+00:00" data-subject="Necromancer enhancements">
 
 1) Bonus control undead is given at 2x40, 3x40, and 4x40. Mobs are summoned based in a weight system. Each mob is designated a weight based on its power and each player is given so many pts to animate or summon mobs. Each of these levels gets a .15 bonus.
 

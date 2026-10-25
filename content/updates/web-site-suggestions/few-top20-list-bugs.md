@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="35408" data-author="Filk" data-date="2014-08-01T08:39:56+00:00">
+<div class="post" data-post-id="35408" data-author="Filk" data-date="2014-08-01T08:39:56+00:00" data-subject="Few top20 list bugs">
 
 1. There are weird player names in top 20 list. Kinda incorrect druid form saving in some way.
 
@@ -40,7 +40,7 @@ For example:
 
 </div>
 
-<div class="post" data-post-id="35409" data-author="Marvel" data-date="2014-08-02T14:50:39+00:00">
+<div class="post" data-post-id="35409" data-author="Marvel" data-date="2014-08-02T14:50:39+00:00" data-subject="Re: Few top20 list bugs">
 
 I'm not sure about the under 40 bug as I don't see them, but it'd be Neverbloom that you seek.
 
@@ -48,7 +48,7 @@ As for the other character issues (classes)... I can't help there apart from not
 
 </div>
 
-<div class="post" data-post-id="35410" data-author="Filk" data-date="2014-08-03T04:45:07+00:00">
+<div class="post" data-post-id="35410" data-author="Filk" data-date="2014-08-03T04:45:07+00:00" data-subject="Re: Few top20 list bugs">
 
 > **Marvel wrote:**
 > I'm not sure about the under 40 bug as I don't see them, but it'd be Neverbloom that you seek.

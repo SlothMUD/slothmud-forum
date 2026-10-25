@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="29994" data-author="*Chobbs*" data-date="2009-09-16T17:47:51+00:00">
+<div class="post" data-post-id="29994" data-author="*Chobbs*" data-date="2009-09-16T17:47:51+00:00" data-subject="Symphonia">
 
 A letter from Impresario Armand Moncharmin reads:
 
@@ -42,7 +42,7 @@ P.P.P.S.  Yes,  this is a quest.  Surprise!
 
 </div>
 
-<div class="post" data-post-id="29997" data-author="Dragoth" data-date="2009-09-16T21:36:29+00:00">
+<div class="post" data-post-id="29997" data-author="Dragoth" data-date="2009-09-16T21:36:29+00:00" data-subject="">
 
 Armand is located at Town Hall in BH and is looking for shards ( the one you attune with ) offering 15k gold/ 2 drachma/  some silly vouchers for them. 
 
@@ -78,13 +78,13 @@ Thank you for all your efforts!'
 
 </div>
 
-<div class="post" data-post-id="29998" data-author="Thraxas" data-date="2009-09-17T03:48:30+00:00">
+<div class="post" data-post-id="29998" data-author="Thraxas" data-date="2009-09-17T03:48:30+00:00" data-subject="">
 
 nice .. hoping its a repeatable quest. Bit of a cliche to stick it on BH though ... still I suppose it keeps the masses away from AH.
 
 </div>
 
-<div class="post" data-post-id="29999" data-author="serega" data-date="2009-09-17T10:01:38+00:00">
+<div class="post" data-post-id="29999" data-author="serega" data-date="2009-09-17T10:01:38+00:00" data-subject="">
 
 Need      Item
 
@@ -110,7 +110,7 @@ already
 
 </div>
 
-<div class="post" data-post-id="30005" data-author="Tuck" data-date="2009-09-18T08:31:10+00:00">
+<div class="post" data-post-id="30005" data-author="Tuck" data-date="2009-09-18T08:31:10+00:00" data-subject="">
 
 Armand is gone, probably to Opera Symphonia on SS.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="6044" data-author="Alberich" data-date="2005-05-08T11:23:45+00:00">
+<div class="post" data-post-id="6044" data-author="Alberich" data-date="2005-05-08T11:23:45+00:00" data-subject="wtb few things">
 
 looking for a couple things.. 
 
@@ -30,7 +30,7 @@ have coins of course, and some small stuff to trade, cinq, lava booties, ashens,
 
 </div>
 
-<div class="post" data-post-id="6048" data-author="Wrath" data-date="2005-05-08T22:28:38+00:00">
+<div class="post" data-post-id="6048" data-author="Wrath" data-date="2005-05-08T22:28:38+00:00" data-subject="">
 
 Gather you are trying to do the Maul Titan Guards forge - any interest in just trading for that?
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="29985" data-author="Toxis" data-date="2009-09-14T06:29:12+00:00">
+<div class="post" data-post-id="29985" data-author="Toxis" data-date="2009-09-14T06:29:12+00:00" data-subject="Part of Chapter ONE">
 
 One
 
@@ -62,7 +62,7 @@ He looked back at the landscape he had just fallen from.  The moonlight was illu
 
 </div>
 
-<div class="post" data-post-id="29986" data-author="Rigwarl" data-date="2009-09-14T21:39:40+00:00">
+<div class="post" data-post-id="29986" data-author="Rigwarl" data-date="2009-09-14T21:39:40+00:00" data-subject="">
 
 Here I thought this was a post about a quest announcement! Instead we get a glimpse of Brad's sad past!
 
@@ -70,7 +70,7 @@ Here I thought this was a post about a quest announcement! Instead we get a glim
 
 </div>
 
-<div class="post" data-post-id="29988" data-author="Toxis" data-date="2009-09-15T06:28:26+00:00">
+<div class="post" data-post-id="29988" data-author="Toxis" data-date="2009-09-15T06:28:26+00:00" data-subject="">
 
 That's right.  And when I get this spaceship figured out, you're all in trouble! :)~
 
@@ -80,7 +80,7 @@ But seriously, was it that bad?
 
 </div>
 
-<div class="post" data-post-id="29990" data-author="Vixn" data-date="2009-09-15T17:46:26+00:00">
+<div class="post" data-post-id="29990" data-author="Vixn" data-date="2009-09-15T17:46:26+00:00" data-subject="">
 
 Not bad but barely realistic. Try to get drunk once and jump off from the mountain down to the river to check if you feel it right way. I bet you'll be sober as a baby next moment you fall into the river. 
 

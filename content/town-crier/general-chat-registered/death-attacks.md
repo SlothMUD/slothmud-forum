@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="15792" data-author="kjartan" data-date="2006-12-27T16:40:30+00:00">
+<div class="post" data-post-id="15792" data-author="kjartan" data-date="2006-12-27T16:40:30+00:00" data-subject="Death Attacks">
 
 Lately I have added "death attacks" to a few mobs (the banshee's wail and the beholder's black ray, for example) using a game mechanism that I saw in D&D and liked.  I thought I would explain how it worked.
 
@@ -20,7 +20,7 @@ In general I will try to make any further death effects work like this.
 
 </div>
 
-<div class="post" data-post-id="15793" data-author="Autolycos" data-date="2006-12-27T17:52:33+00:00">
+<div class="post" data-post-id="15793" data-author="Autolycos" data-date="2006-12-27T17:52:33+00:00" data-subject="">
 
 OMG!!!!    :shock: 
 
@@ -28,13 +28,13 @@ the chickens and ducks on lyme will be even more lethal!!! :twisted:
 
 </div>
 
-<div class="post" data-post-id="15795" data-author="kjartan" data-date="2006-12-27T18:10:11+00:00">
+<div class="post" data-post-id="15795" data-author="kjartan" data-date="2006-12-27T18:10:11+00:00" data-subject="">
 
 Wait, are you saying there are chickens and ducks on Lyme that DON'T have death attacks?  What an oversight!
 
 </div>
 
-<div class="post" data-post-id="15796" data-author="Autolycos" data-date="2006-12-27T18:27:30+00:00">
+<div class="post" data-post-id="15796" data-author="Autolycos" data-date="2006-12-27T18:27:30+00:00" data-subject="">
 
 cackle!    :twisted: 
 
@@ -52,19 +52,19 @@ A corpse of Talo is laying here [25]
 
 </div>
 
-<div class="post" data-post-id="15797" data-author="Leaf" data-date="2006-12-27T18:54:38+00:00">
+<div class="post" data-post-id="15797" data-author="Leaf" data-date="2006-12-27T18:54:38+00:00" data-subject="">
 
 Sooo banshee that we can summon use this proc?
 
 </div>
 
-<div class="post" data-post-id="15799" data-author="Weasel" data-date="2006-12-27T19:17:09+00:00">
+<div class="post" data-post-id="15799" data-author="Weasel" data-date="2006-12-27T19:17:09+00:00" data-subject="">
 
 how about warriors having a death attack proc too?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="15800" data-author="Leaf" data-date="2006-12-27T20:10:54+00:00">
+<div class="post" data-post-id="15800" data-author="Leaf" data-date="2006-12-27T20:10:54+00:00" data-subject="">
 
 how about warriors having a death attack proc too?  :twisted:[/quote:2uw2m1q4]
 
@@ -72,7 +72,7 @@ I believe it's called Deathblow  :P
 
 </div>
 
-<div class="post" data-post-id="15801" data-author="Weasel" data-date="2006-12-27T22:03:12+00:00">
+<div class="post" data-post-id="15801" data-author="Weasel" data-date="2006-12-27T22:03:12+00:00" data-subject="">
 
 how about warriors having a death attack proc too?  :twisted:[/quote:2ev347aw]
 
@@ -86,7 +86,7 @@ Seriously, deathblow can be handy in a group, but as mentioned elsewhere, deathb
 
 </div>
 
-<div class="post" data-post-id="15803" data-author="Rynquald" data-date="2006-12-27T22:52:30+00:00">
+<div class="post" data-post-id="15803" data-author="Rynquald" data-date="2006-12-27T22:52:30+00:00" data-subject="">
 
 Well that sure heightens the importance of max hp for tanking, not to mention not leaving heals for the last second :)
 
@@ -94,7 +94,7 @@ I like it.
 
 </div>
 
-<div class="post" data-post-id="15807" data-author="12345" data-date="2006-12-28T01:49:23+00:00">
+<div class="post" data-post-id="15807" data-author="12345" data-date="2006-12-28T01:49:23+00:00" data-subject="">
 
 Seriously, deathblow can be handy in a group, but as mentioned elsewhere, deathblow is rarely used in solo play imho - you're better off blasting than wasting rounds just to find the mob is not quite dead enough for deathblow (unless we have some sort of message added in future saying the mob is ..err ..blowable)[/quote:1uz3mqse]
 
@@ -104,7 +104,7 @@ For chars without blasting (me) it's handy to keep a valor sword in inventory.  
 
 </div>
 
-<div class="post" data-post-id="15811" data-author="*juggleblood*" data-date="2006-12-28T11:39:44+00:00">
+<div class="post" data-post-id="15811" data-author="*juggleblood*" data-date="2006-12-28T11:39:44+00:00" data-subject="">
 
 A cool indicator that the mob is near death could be:
 
@@ -116,7 +116,7 @@ an extra attack per round or something.
 
 </div>
 
-<div class="post" data-post-id="15812" data-author="Autolycos" data-date="2006-12-28T14:28:20+00:00">
+<div class="post" data-post-id="15812" data-author="Autolycos" data-date="2006-12-28T14:28:20+00:00" data-subject="">
 
 ooooh i love when a mob goes crazy near dear and starts a frenzy.... especially if it throws you out of a room.
 
@@ -124,7 +124,7 @@ ooooh i love when a mob goes crazy near dear and starts a frenzy.... especially 
 
 </div>
 
-<div class="post" data-post-id="15825" data-author="Rynquald" data-date="2006-12-28T21:16:46+00:00">
+<div class="post" data-post-id="15825" data-author="Rynquald" data-date="2006-12-28T21:16:46+00:00" data-subject="">
 
 Only if it throws you into something twice as big :)
 

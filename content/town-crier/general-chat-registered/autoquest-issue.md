@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="9315" data-author="Shazuko" data-date="2005-10-30T01:33:59+00:00">
+<div class="post" data-post-id="9315" data-author="Shazuko" data-date="2005-10-30T01:33:59+00:00" data-subject="Autoquest  Issue">
 
 I was unable to complete an autoquest tonight, because when I tried to give the item required, I was told the merchants 'hands are full at the moment'....
 
@@ -18,7 +18,7 @@ For the normal economy this is totally understandable, but this item limit shoul
 
 </div>
 
-<div class="post" data-post-id="9316" data-author="13" data-date="2005-10-30T10:45:31+00:00">
+<div class="post" data-post-id="9316" data-author="13" data-date="2005-10-30T10:45:31+00:00" data-subject="">
 
 Dollar bet it was the AH smith who has been having his hands full off and on for a year now.  I agree it's dogshit
 

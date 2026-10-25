@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="31891" data-author="Spink" data-date="2010-10-20T18:23:43+00:00">
+<div class="post" data-post-id="31891" data-author="Spink" data-date="2010-10-20T18:23:43+00:00" data-subject="barehanded accuracy">
 
 This probably useful newbie skill has no help file, and searching for it in eqlist gives no results.
 
@@ -20,7 +20,7 @@ I'd really appreciate it if anyone could shed some light on this for me.
 
 </div>
 
-<div class="post" data-post-id="31892" data-author="Shyla" data-date="2010-10-20T20:19:08+00:00">
+<div class="post" data-post-id="31892" data-author="Shyla" data-date="2010-10-20T20:19:08+00:00" data-subject="Re: barehanded accuracy">
 
 you need to pop a mu zhang thingy that pops on gentle monks in star city and monks in orc mines the later you can NOT kill the first one i have no idea how hard they are.
 
@@ -30,13 +30,13 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="31896" data-author="Spink" data-date="2010-10-21T03:59:56+00:00">
+<div class="post" data-post-id="31896" data-author="Spink" data-date="2010-10-21T03:59:56+00:00" data-subject="Re: barehanded accuracy">
 
 Thanks, Shyla! You're the best.
 
 </div>
 
-<div class="post" data-post-id="31897" data-author="Teron" data-date="2010-10-21T04:13:29+00:00">
+<div class="post" data-post-id="31897" data-author="Teron" data-date="2010-10-21T04:13:29+00:00" data-subject="Re: barehanded accuracy">
 
 Gentle monks in Starcity are 6k mobs that have x3 extremely hard attacks (or harder, dont remember), but miss well against -5ac. If you land a few strikes or fireball blasts, then'll drop well.
 

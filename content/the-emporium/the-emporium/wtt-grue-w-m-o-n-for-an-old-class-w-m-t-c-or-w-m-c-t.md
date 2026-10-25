@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="3658" data-author="Grue" data-date="2005-01-07T18:57:38+00:00">
+<div class="post" data-post-id="3658" data-author="Grue" data-date="2005-01-07T18:57:38+00:00" data-subject="WTT Grue (w/m/o/n) for an &#x27;old class&#x27; W/M/T/C or W/M/C/T">
 
 I have this char (fairly low level, 25 wa) with great stats, 18/56 17 15 17 16 natural. I realize that is not a double 18 or anything, but at Avatar 40 it is 18/100 18 16 18 17 with spells only. The problem is I have tons of stuff in vaults I want to use that have either Cl or Th as part of the restriction.
 
@@ -22,7 +22,7 @@ BTW if you don't want Grue but have a really nice char you would trade for all 3
 
 </div>
 
-<div class="post" data-post-id="3667" data-author="Mustang" data-date="2005-01-08T11:09:17+00:00">
+<div class="post" data-post-id="3667" data-author="Mustang" data-date="2005-01-08T11:09:17+00:00" data-subject="">
 
 i have a char with 18/64 15 13 18 17 stats if u are interested
 

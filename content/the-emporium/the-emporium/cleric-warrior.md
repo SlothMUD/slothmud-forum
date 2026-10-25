@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35238" data-author="Hung" data-date="2014-06-10T11:02:11+00:00">
+<div class="post" data-post-id="35238" data-author="Hung" data-date="2014-06-10T11:02:11+00:00" data-subject="Cleric-warrior">
 
 Perl Extraction and Reporting  (level: 20)
 
@@ -56,7 +56,7 @@ Starting price: 10m
 
 </div>
 
-<div class="post" data-post-id="35244" data-author="Hung" data-date="2014-06-14T18:55:47+00:00">
+<div class="post" data-post-id="35244" data-author="Hung" data-date="2014-06-14T18:55:47+00:00" data-subject="Re: Cleric-warrior">
 
 Sold.
 

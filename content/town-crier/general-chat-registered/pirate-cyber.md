@@ -10,7 +10,7 @@ locked: false
 post_count: 26
 ---
 
-<div class="post" data-post-id="21964" data-author="Weasel" data-date="2008-01-11T03:17:30+00:00">
+<div class="post" data-post-id="21964" data-author="Weasel" data-date="2008-01-11T03:17:30+00:00" data-subject="Pirate Cyber">
 
 sweet17: Hi
 
@@ -412,7 +412,7 @@ bloodninja: HAARRRRRR!!!!!
 
 </div>
 
-<div class="post" data-post-id="21966" data-author="Rynquald" data-date="2008-01-11T03:27:18+00:00">
+<div class="post" data-post-id="21966" data-author="Rynquald" data-date="2008-01-11T03:27:18+00:00" data-subject="">
 
 I want those 5 minutes of my life back!
 
@@ -420,13 +420,13 @@ I want those 5 minutes of my life back!
 
 </div>
 
-<div class="post" data-post-id="21969" data-author="gondor" data-date="2008-01-11T04:34:11+00:00">
+<div class="post" data-post-id="21969" data-author="gondor" data-date="2008-01-11T04:34:11+00:00" data-subject="">
 
 Auto? Have you commandeered Weasels password? That sounds like something you would post. Ramoth agrees with me on that one too.If not then Weasel, You are one sick F***
 
 </div>
 
-<div class="post" data-post-id="21970" data-author="Autolycos" data-date="2008-01-11T04:50:06+00:00">
+<div class="post" data-post-id="21970" data-author="Autolycos" data-date="2008-01-11T04:50:06+00:00" data-subject="">
 
 lmfao  :twisted: 
 
@@ -434,19 +434,19 @@ NO! It wasnt me.. and YES Weasel r teh syck fuhck
 
 </div>
 
-<div class="post" data-post-id="21971" data-author="Weasel" data-date="2008-01-11T06:21:02+00:00">
+<div class="post" data-post-id="21971" data-author="Weasel" data-date="2008-01-11T06:21:02+00:00" data-subject="">
 
 :D  Strangely enough, when I was reading it, I instantly thought of Autolycos. HAARRRRRR!!!!!
 
 </div>
 
-<div class="post" data-post-id="21975" data-author="Autolycos" data-date="2008-01-11T13:43:59+00:00">
+<div class="post" data-post-id="21975" data-author="Autolycos" data-date="2008-01-11T13:43:59+00:00" data-subject="">
 
 :wink:
 
 </div>
 
-<div class="post" data-post-id="21978" data-author="alias" data-date="2008-01-11T15:21:40+00:00">
+<div class="post" data-post-id="21978" data-author="alias" data-date="2008-01-11T15:21:40+00:00" data-subject="">
 
 Heh I read that and didn't look at the avatar, my first thought is it was Tap posting. Way to go Weasel, btw we have wild turkeys up here, let me know if your gonna stop I'll shoot them all so they don't fear you.
 
@@ -454,13 +454,13 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="21979" data-author="Weasel" data-date="2008-01-11T15:47:26+00:00">
+<div class="post" data-post-id="21979" data-author="Weasel" data-date="2008-01-11T15:47:26+00:00" data-subject="">
 
 BWAH! ..I thought wild turkeys came in a bottle..
 
 </div>
 
-<div class="post" data-post-id="21980" data-author="Autolycos" data-date="2008-01-11T17:26:40+00:00">
+<div class="post" data-post-id="21980" data-author="Autolycos" data-date="2008-01-11T17:26:40+00:00" data-subject="">
 
 BWAH! ..I thought wild turkeys came in a bottle..[/quote:1g7miiyl]
 
@@ -470,19 +470,19 @@ I knew you were sick.. but thats just gross!
 
 </div>
 
-<div class="post" data-post-id="21981" data-author="Weasel" data-date="2008-01-11T17:53:23+00:00">
+<div class="post" data-post-id="21981" data-author="Weasel" data-date="2008-01-11T17:53:23+00:00" data-subject="">
 
 roflmao.. you're seriously twisted man (it's a good thing).
 
 </div>
 
-<div class="post" data-post-id="21982" data-author="Leaf" data-date="2008-01-11T18:37:42+00:00">
+<div class="post" data-post-id="21982" data-author="Leaf" data-date="2008-01-11T18:37:42+00:00" data-subject="">
 
 HAHAHA thats some funny shit!!!
 
 </div>
 
-<div class="post" data-post-id="21989" data-author="Yasik" data-date="2008-01-12T01:41:31+00:00">
+<div class="post" data-post-id="21989" data-author="Yasik" data-date="2008-01-12T01:41:31+00:00" data-subject="">
 
 thats disgusting, maybe in France or Japan
 
@@ -492,13 +492,13 @@ hey dont touch Japan or i'll divide you by zero!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="21990" data-author="Alberich" data-date="2008-01-12T01:47:42+00:00">
+<div class="post" data-post-id="21990" data-author="Alberich" data-date="2008-01-12T01:47:42+00:00" data-subject="">
 
 [img:3tsj7l9r]http://farm2.static.flickr.com/1323/1433529629_4c1f775559.jpg[/img:3tsj7l9r]
 
 </div>
 
-<div class="post" data-post-id="22022" data-author="Weasel" data-date="2008-01-14T07:01:40+00:00">
+<div class="post" data-post-id="22022" data-author="Weasel" data-date="2008-01-14T07:01:40+00:00" data-subject="">
 
 One day in cyberspace...
 
@@ -572,13 +572,13 @@ eminemBNJA: damn I gotta write down your names or something.
 
 </div>
 
-<div class="post" data-post-id="22023" data-author="tincts" data-date="2008-01-14T11:23:23+00:00">
+<div class="post" data-post-id="22023" data-author="tincts" data-date="2008-01-14T11:23:23+00:00" data-subject="">
 
 Weasel = BNJA?
 
 </div>
 
-<div class="post" data-post-id="22024" data-author="13" data-date="2008-01-14T13:49:56+00:00">
+<div class="post" data-post-id="22024" data-author="13" data-date="2008-01-14T13:49:56+00:00" data-subject="">
 
 welcome to five years ago.  that bninja shit used to slay me.  the one where
 
@@ -588,19 +588,19 @@ is good too.  13 used to have his chest item restrung to a rhinocerus shirt
 
 </div>
 
-<div class="post" data-post-id="22027" data-author="Alberich" data-date="2008-01-14T19:03:48+00:00">
+<div class="post" data-post-id="22027" data-author="Alberich" data-date="2008-01-14T19:03:48+00:00" data-subject="">
 
 [img:1inorwm1]http://img146.imageshack.us/img146/5384/motivator2284982rv3.jpg[/img:1inorwm1]
 
 </div>
 
-<div class="post" data-post-id="22029" data-author="Weasel" data-date="2008-01-14T20:53:44+00:00">
+<div class="post" data-post-id="22029" data-author="Weasel" data-date="2008-01-14T20:53:44+00:00" data-subject="">
 
 No, I'm not BNJA, and those are not copies, those are the original bloodninja scripts from years ago, to the best of my knowledge.
 
 </div>
 
-<div class="post" data-post-id="22031" data-author="Leaf" data-date="2008-01-15T03:43:30+00:00">
+<div class="post" data-post-id="22031" data-author="Leaf" data-date="2008-01-15T03:43:30+00:00" data-subject="">
 
 Bloodninja: Wanna cyber?
 
@@ -650,31 +650,31 @@ MommyMelissa: whatever.
 
 </div>
 
-<div class="post" data-post-id="22032" data-author="tincts" data-date="2008-01-15T06:16:01+00:00">
+<div class="post" data-post-id="22032" data-author="tincts" data-date="2008-01-15T06:16:01+00:00" data-subject="">
 
 Where was I five years ago hehe.  That gear is hilarious.
 
 </div>
 
-<div class="post" data-post-id="22037" data-author="Yasik" data-date="2008-01-16T15:42:52+00:00">
+<div class="post" data-post-id="22037" data-author="Yasik" data-date="2008-01-16T15:42:52+00:00" data-subject="">
 
 [img:1eootys7]http://yasik.kiev.ua/JapaneseWomen.jpg[/img:1eootys7]
 
 </div>
 
-<div class="post" data-post-id="22038" data-author="Weasel" data-date="2008-01-16T22:30:35+00:00">
+<div class="post" data-post-id="22038" data-author="Weasel" data-date="2008-01-16T22:30:35+00:00" data-subject="">
 
 wtf has that got to do with anything?
 
 </div>
 
-<div class="post" data-post-id="22052" data-author="tincts" data-date="2008-01-17T20:38:44+00:00">
+<div class="post" data-post-id="22052" data-author="tincts" data-date="2008-01-17T20:38:44+00:00" data-subject="">
 
 It is a random picture :)  Probably true, too.
 
 </div>
 
-<div class="post" data-post-id="22053" data-author="Alberich" data-date="2008-01-17T21:06:12+00:00">
+<div class="post" data-post-id="22053" data-author="Alberich" data-date="2008-01-17T21:06:12+00:00" data-subject="">
 
 wtf has that got to do with anything?[/quote:2745vnvb]
 
@@ -682,13 +682,13 @@ wtf has that got to do with anything?[/quote:2745vnvb]
 
 </div>
 
-<div class="post" data-post-id="22054" data-author="Weasel" data-date="2008-01-17T21:18:58+00:00">
+<div class="post" data-post-id="22054" data-author="Weasel" data-date="2008-01-17T21:18:58+00:00" data-subject="">
 
 [img:2r8rjjw0]http://somnambulantdigits.com/uploads/posts/pirate-cat.jpg[/img:2r8rjjw0]
 
 </div>
 
-<div class="post" data-post-id="32475" data-author="Thraxas" data-date="2011-03-11T14:19:52+00:00">
+<div class="post" data-post-id="32475" data-author="Thraxas" data-date="2011-03-11T14:19:52+00:00" data-subject="Re: Pirate Cyber">
 
 time to resurrect some of the old humour :)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35064" data-author="Thraxas" data-date="2014-04-22T07:25:01+00:00">
+<div class="post" data-post-id="35064" data-author="Thraxas" data-date="2014-04-22T07:25:01+00:00" data-subject="Too Sticky">
 
 Town Crier General Chat Forum homepage, there are 9 sticky topics. Only 2 of these show a last posted date in the last year.
 

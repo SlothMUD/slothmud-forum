@@ -10,7 +10,7 @@ locked: false
 post_count: 49
 ---
 
-<div class="post" data-post-id="24747" data-author="jezer" data-date="2008-06-06T02:17:10+00:00">
+<div class="post" data-post-id="24747" data-author="jezer" data-date="2008-06-06T02:17:10+00:00" data-subject="The trouble with valk...">
 
 Last night I was bored, and I decided towing some lowbies around valk was gonna be more fun than mindless lyme xp with my bigger characters. So I get a group startedâ€¦ and there are 4 of us all together. Group xp wasnâ€™t on.
 
@@ -42,7 +42,7 @@ And, andâ€¦ thatâ€™s my gripeâ€¦! And itâ€™s because I care ab
 
 </div>
 
-<div class="post" data-post-id="24748" data-author="Mosaix" data-date="2008-06-06T03:25:49+00:00">
+<div class="post" data-post-id="24748" data-author="Mosaix" data-date="2008-06-06T03:25:49+00:00" data-subject="">
 
 Exp on and off valk is already easy enough.  People make it to Quad 20 in no time at all.  
 
@@ -54,7 +54,7 @@ In general you rant too much.  Take a deep breath and try to enjoy sloth as a ga
 
 </div>
 
-<div class="post" data-post-id="24749" data-author="jezer" data-date="2008-06-06T03:51:12+00:00">
+<div class="post" data-post-id="24749" data-author="jezer" data-date="2008-06-06T03:51:12+00:00" data-subject="">
 
 [quote:3od87hco]Exp on and off valk is already easy enough.[/quote:3od87hco]
 
@@ -76,13 +76,13 @@ When people used to come and whinge about my program everyday at work... I would
 
 </div>
 
-<div class="post" data-post-id="24750" data-author="Yinao" data-date="2008-06-06T07:28:02+00:00">
+<div class="post" data-post-id="24750" data-author="Yinao" data-date="2008-06-06T07:28:02+00:00" data-subject="">
 
 Not to be the bearer of bad news, however, it is quite easy to get xp on valk, altho I would agree running variances in level sizes does kinda screw ya in valk, I ran with a lvl 20 18 on valk today in blasters temple I was lvl 17 and got probably 5k per kill on 28-38k xp mobs 2 man, I could have solo'd them and got the full xp but he was also running them and thought we could just 2 man them quicker, we could... however it shafted the xp :). Exp is fine on valk, solo, grouped, different story... Not that exp needs to be toned up just for newbies, but that it could just be calculated differently on valk per level.... *shrug* just my opinion never counts for anything anyways :)
 
 </div>
 
-<div class="post" data-post-id="24752" data-author="Roadrunr" data-date="2008-06-06T17:31:17+00:00">
+<div class="post" data-post-id="24752" data-author="Roadrunr" data-date="2008-06-06T17:31:17+00:00" data-subject="">
 
 gotta wonder, if the xp split obviously isnt based on quantity of levels, maybe it's weighted based on the xp required for each level (and thus 20 18 would be worth far more than 17 15 would be)?
 
@@ -90,13 +90,13 @@ just a thought.
 
 </div>
 
-<div class="post" data-post-id="24753" data-author="Yinao" data-date="2008-06-06T18:54:45+00:00">
+<div class="post" data-post-id="24753" data-author="Yinao" data-date="2008-06-06T18:54:45+00:00" data-subject="">
 
 Nod, sounds right rr
 
 </div>
 
-<div class="post" data-post-id="24755" data-author="13" data-date="2008-06-07T00:13:32+00:00">
+<div class="post" data-post-id="24755" data-author="13" data-date="2008-06-07T00:13:32+00:00" data-subject="">
 
 i think newb xp is s serious incongruence on sloth
 
@@ -104,7 +104,7 @@ or maybe it's incongruance I cant remember and am too lazy to check google
 
 </div>
 
-<div class="post" data-post-id="24758" data-author="*juggleblood*" data-date="2008-06-07T00:36:11+00:00">
+<div class="post" data-post-id="24758" data-author="*juggleblood*" data-date="2008-06-07T00:36:11+00:00" data-subject="">
 
 I don't understand why people stay on valk as long  as they do. I think getting quad 20 is a terribly inefficient way to level. It's not the fault of the mud that theres a few obsessive compulsive people who are scaired to get level 21.  Valk wasn't intended to make newbie areas on other continents obsolete. 
 
@@ -120,7 +120,7 @@ Edit: the xp for mob varies on a lot of diff independent factors. This makes som
 
 </div>
 
-<div class="post" data-post-id="24759" data-author="Tap" data-date="2008-06-07T01:04:53+00:00">
+<div class="post" data-post-id="24759" data-author="Tap" data-date="2008-06-07T01:04:53+00:00" data-subject="The trouble with Juggleblood...">
 
 [quote:387b5iq9]I think getting quad 20 is a terribly inefficient way to level.[/quote:387b5iq9]
 
@@ -132,7 +132,7 @@ Not so much scared, but you can kill a dolphin at level 21...regen for 15 minute
 
 </div>
 
-<div class="post" data-post-id="24760" data-author="Rynquald" data-date="2008-06-07T01:22:07+00:00">
+<div class="post" data-post-id="24760" data-author="Rynquald" data-date="2008-06-07T01:22:07+00:00" data-subject="">
 
 Quit complaining and put in an imm application already.
 
@@ -146,7 +146,7 @@ There used to be some feeling of achievement for levelling a char, it was a proc
 
 </div>
 
-<div class="post" data-post-id="24761" data-author="Atwell" data-date="2008-06-07T04:33:40+00:00">
+<div class="post" data-post-id="24761" data-author="Atwell" data-date="2008-06-07T04:33:40+00:00" data-subject="Re: The trouble with valk...">
 
 Now to slam Valkâ€¦
 
@@ -172,7 +172,7 @@ I do enjoy reading your commentaries; they usually prove thought-provoking.  All
 
 </div>
 
-<div class="post" data-post-id="24762" data-author="angel" data-date="2008-06-07T06:13:33+00:00">
+<div class="post" data-post-id="24762" data-author="angel" data-date="2008-06-07T06:13:33+00:00" data-subject="">
 
 first off,omg its atwell :P
 
@@ -192,7 +192,7 @@ on the other hand, i like the current xp style :)
 
 </div>
 
-<div class="post" data-post-id="24764" data-author="jezer" data-date="2008-06-07T10:14:52+00:00">
+<div class="post" data-post-id="24764" data-author="jezer" data-date="2008-06-07T10:14:52+00:00" data-subject="">
 
 Although personally I'd be right behind drastic reductions in xp everywhere. The speed with which xp can be ran is reaching ludicrous levels. We frequently see who lists where half the chars are 5x40(or at least avatars), And any names that aren't will probably be there sooner rather than later.[/quote:2hnvogmw]
 
@@ -206,7 +206,7 @@ To lower xp across the board would punish non thieves too much. Fix the REAL pro
 
 </div>
 
-<div class="post" data-post-id="24765" data-author="Tap" data-date="2008-06-07T10:36:01+00:00">
+<div class="post" data-post-id="24765" data-author="Tap" data-date="2008-06-07T10:36:01+00:00" data-subject="">
 
 [quote:3feedzbp]this game is biased to thieves... they have clearly been the teachers pet of immortals for quite some time.[/quote:3feedzbp]
 
@@ -214,13 +214,13 @@ To lower xp across the board would punish non thieves too much. Fix the REAL pro
 
 </div>
 
-<div class="post" data-post-id="24766" data-author="jezer" data-date="2008-06-07T10:38:03+00:00">
+<div class="post" data-post-id="24766" data-author="jezer" data-date="2008-06-07T10:38:03+00:00" data-subject="">
 
 Yum
 
 </div>
 
-<div class="post" data-post-id="24767" data-author="Rynquald" data-date="2008-06-07T11:16:00+00:00">
+<div class="post" data-post-id="24767" data-author="Rynquald" data-date="2008-06-07T11:16:00+00:00" data-subject="">
 
 Thieves seem to be a difficult class to balance (for the record, I'm not saying they're necessarially unbalanced atm). If they're nerfed just a little, they rapidly loose their usefulness, while a small buff is enough to throw their xp runs into the stratosphere. Imo, it stems from the obvious "all or nothing" nature of stabbing.
 
@@ -234,7 +234,7 @@ And no, I have no idea how that could be done, but it's a theory :)
 
 </div>
 
-<div class="post" data-post-id="24769" data-author="jezer" data-date="2008-06-07T11:49:12+00:00">
+<div class="post" data-post-id="24769" data-author="jezer" data-date="2008-06-07T11:49:12+00:00" data-subject="">
 
 [quote:3ji7prqn]Arguably, few game mechanics have been drastically changed since then, and people are beginning to run xp near the tens of billions. [/quote:3ji7prqn]
 
@@ -250,7 +250,7 @@ Dreams are free, I know. I don't have the dedication to write an area at the mom
 
 </div>
 
-<div class="post" data-post-id="24770" data-author="angel" data-date="2008-06-07T12:08:30+00:00">
+<div class="post" data-post-id="24770" data-author="angel" data-date="2008-06-07T12:08:30+00:00" data-subject="">
 
 chuckle
 
@@ -266,7 +266,7 @@ if u guys want better results, just work for it. quit yer yapping and enjoy the 
 
 </div>
 
-<div class="post" data-post-id="24771" data-author="Rynquald" data-date="2008-06-07T13:03:07+00:00">
+<div class="post" data-post-id="24771" data-author="Rynquald" data-date="2008-06-07T13:03:07+00:00" data-subject="">
 
 Sa is indeed the most spectacular example, because he maintains hard xp runs longer than anyone else has. But on a per-hour basis, anyone that knows how to handle stab/blast can match it. Frankly, I should know, I've been taking advantage of high speed stab/blast xp for a long while.
 
@@ -278,7 +278,7 @@ At the risk of sounding antagonistic, a discussion revolving around game balance
 
 </div>
 
-<div class="post" data-post-id="24772" data-author="angel" data-date="2008-06-07T13:20:00+00:00">
+<div class="post" data-post-id="24772" data-author="angel" data-date="2008-06-07T13:20:00+00:00" data-subject="">
 
 At the risk of sounding antagonistic, a discussion revolving around game balance does not equal complaining. And believe me, people have been "working for it" for a long time.[/quote:1drcmryq]
 
@@ -294,7 +294,7 @@ anyways how did this valk thing turn into top xp per week?:)
 
 </div>
 
-<div class="post" data-post-id="24773" data-author="Gimlet" data-date="2008-06-07T13:31:11+00:00">
+<div class="post" data-post-id="24773" data-author="Gimlet" data-date="2008-06-07T13:31:11+00:00" data-subject="">
 
 You mean Sa, and the reason is Cizin, Sneaky, Stormshadow and Ben (thieves). Yes, I don't remember much changing with the thief class in my stay here, and I think 10bills is possible only because Sa plays probably 6-8 hrs a day. A "luxury?" most don't have.
 
@@ -304,7 +304,7 @@ people reach 10bil a week coz they figure out how to play the game instead of cr
 
 </div>
 
-<div class="post" data-post-id="24776" data-author="Roadrunr" data-date="2008-06-07T16:49:02+00:00">
+<div class="post" data-post-id="24776" data-author="Roadrunr" data-date="2008-06-07T16:49:02+00:00" data-subject="">
 
 Here's a radical idea... how about going open source with the sloth source code, keep the area files private... let people submit code changes for approval to our immortals, who seem to be around less and less. After a bunch of months... release sloth IV. Extend the life of this awesome game which is probably going to die with it's current generation of players.
 
@@ -322,13 +322,13 @@ As for fixing vk xp for groups.  only way I know to fix that would be to make it
 
 </div>
 
-<div class="post" data-post-id="24777" data-author="Weasel" data-date="2008-06-07T16:52:32+00:00">
+<div class="post" data-post-id="24777" data-author="Weasel" data-date="2008-06-07T16:52:32+00:00" data-subject="">
 
 You mean Sa, and the reason is Cizin, Sneaky, Stormshadow and Ben (thieves). Yes, I don't remember much changing with the thief class in my stay here, and I think 10bills is possible only because Sa plays probably 6-8 hrs a day. A "luxury?" most don't have.[/quote:rglfmpfu] I'd imagine it's a whole lot more than 6-8 hours a day.. try 15+.. at least it seems that way - I log on at very sporadic times, and I've never not seen Sa on, no matter what time of night or day it is. Sa you're an extreme addict lol! Or else there's more than one person playing Sa, but not that I'm aware of.
 
 </div>
 
-<div class="post" data-post-id="24778" data-author="angel" data-date="2008-06-07T17:22:16+00:00">
+<div class="post" data-post-id="24778" data-author="angel" data-date="2008-06-07T17:22:16+00:00" data-subject="">
 
 im in australia,i have no TV!
 
@@ -338,7 +338,7 @@ theres just 1 person playing sa 99% of the time :P
 
 </div>
 
-<div class="post" data-post-id="24781" data-author="jezer" data-date="2008-06-08T01:13:54+00:00">
+<div class="post" data-post-id="24781" data-author="jezer" data-date="2008-06-08T01:13:54+00:00" data-subject="">
 
 problem with this.  I doubt it would be too hard to write in some massive benefit to you or your buddies that could get missed by the reviewing imm, then all of a sudden you get a huge boost for free, plus, the imms like control of what fixes/changes are made (and I dont blame them).[/quote:ogmz9qma]
 
@@ -352,19 +352,19 @@ I know it's not going to happen... but it COULD be done and it's success would b
 
 </div>
 
-<div class="post" data-post-id="24782" data-author="Gimlet" data-date="2008-06-08T01:44:33+00:00">
+<div class="post" data-post-id="24782" data-author="Gimlet" data-date="2008-06-08T01:44:33+00:00" data-subject="">
 
 people aren't resistant to change, they're just sick of you thinking everything should be fixed to suit the way u want to mud
 
 </div>
 
-<div class="post" data-post-id="24783" data-author="Weasel" data-date="2008-06-08T04:38:56+00:00">
+<div class="post" data-post-id="24783" data-author="Weasel" data-date="2008-06-08T04:38:56+00:00" data-subject="">
 
 Who you calling scum, m0therfutter?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="24788" data-author="Tap" data-date="2008-06-08T12:07:27+00:00">
+<div class="post" data-post-id="24788" data-author="Tap" data-date="2008-06-08T12:07:27+00:00" data-subject="">
 
 You know who else likes change?
 
@@ -372,13 +372,13 @@ You know who else likes change?
 
 </div>
 
-<div class="post" data-post-id="24789" data-author="13" data-date="2008-06-08T15:38:46+00:00">
+<div class="post" data-post-id="24789" data-author="13" data-date="2008-06-08T15:38:46+00:00" data-subject="">
 
 atwell :}
 
 </div>
 
-<div class="post" data-post-id="24791" data-author="*juggleblood*" data-date="2008-06-08T17:35:14+00:00">
+<div class="post" data-post-id="24791" data-author="*juggleblood*" data-date="2008-06-08T17:35:14+00:00" data-subject="">
 
 I'm really not sure what you're on about Jezer. But I think you're talking about what a hard slow climb it is to quad 20? 
 
@@ -386,7 +386,7 @@ One solution for that problem would be to make tri-tokens work until 40 prime. I
 
 </div>
 
-<div class="post" data-post-id="24792" data-author="Weasel" data-date="2008-06-08T18:31:38+00:00">
+<div class="post" data-post-id="24792" data-author="Weasel" data-date="2008-06-08T18:31:38+00:00" data-subject="">
 
 I thought the 4x20 chars were around because of Valk restricts, not tri tokens.. once they've got their stats anyway ..and actually there are (or at least used to be) the occasional quests restricted to those levels or held on Valk, which I would guess is why some people kept chars at that level.  The sleeves forge recently added is another good reason for keeping a Valker char.
 
@@ -394,7 +394,7 @@ Who cares if someone wants to keep a Valker anyway, that's their choice and wont
 
 </div>
 
-<div class="post" data-post-id="24797" data-author="*juggleblood*" data-date="2008-06-09T05:16:05+00:00">
+<div class="post" data-post-id="24797" data-author="*juggleblood*" data-date="2008-06-09T05:16:05+00:00" data-subject="">
 
 Who cares if someone wants to keep a Valker anyway, [/quote:112bs8jw]
 
@@ -402,13 +402,13 @@ I'm not against it. I'd just advise players who are new to the game to focus on 
 
 </div>
 
-<div class="post" data-post-id="24799" data-author="13" data-date="2008-06-09T07:02:36+00:00">
+<div class="post" data-post-id="24799" data-author="13" data-date="2008-06-09T07:02:36+00:00" data-subject="">
 
 and because valk sucks
 
 </div>
 
-<div class="post" data-post-id="24870" data-author="PolkAdotS" data-date="2008-06-11T07:19:09+00:00">
+<div class="post" data-post-id="24870" data-author="PolkAdotS" data-date="2008-06-11T07:19:09+00:00" data-subject="">
 
 > **Rynquald wrote:**
 > Sa is indeed the most spectacular example, because he maintains hard xp runs longer than anyone else has. But on a per-hour basis, anyone that knows how to handle stab/blast can match it. Frankly, I should know, I've been taking advantage of high speed stab/blast xp for a long while.
@@ -417,19 +417,19 @@ Ya know Rynquald it's a shame we never ran more often together.  We would have b
 
 </div>
 
-<div class="post" data-post-id="24872" data-author="Yinao" data-date="2008-06-11T07:47:57+00:00">
+<div class="post" data-post-id="24872" data-author="Yinao" data-date="2008-06-11T07:47:57+00:00" data-subject="">
 
 I've yet to see valkers run with razors, find a new thread poser
 
 </div>
 
-<div class="post" data-post-id="24873" data-author="Tap" data-date="2008-06-11T08:23:06+00:00">
+<div class="post" data-post-id="24873" data-author="Tap" data-date="2008-06-11T08:23:06+00:00" data-subject="">
 
 How did they steal your equipment when you quit! out? Did a mate come by while you were in a can and quit! you out and disconnect? I hope you do make it back. If you just make a new char, I can set you up with some newbie gear to help you get started.
 
 </div>
 
-<div class="post" data-post-id="24884" data-author="aeole" data-date="2008-06-11T14:51:19+00:00">
+<div class="post" data-post-id="24884" data-author="aeole" data-date="2008-06-11T14:51:19+00:00" data-subject="And the Darwin award goes to...">
 
 Someone stole my eq, deal with it. :oops:[/quote:32rlvg36]
 
@@ -441,7 +441,7 @@ In the immortal words of Tap: MAKE A NEW CHAR.
 
 </div>
 
-<div class="post" data-post-id="24886" data-author="Autolycos" data-date="2008-06-11T14:57:30+00:00">
+<div class="post" data-post-id="24886" data-author="Autolycos" data-date="2008-06-11T14:57:30+00:00" data-subject="">
 
 They're jealous cause I got a better stab than Autolycos and he spent MONTHS trying to get 2 razors. [/quote:1lg5dm2d]
 
@@ -449,7 +449,7 @@ only stab better then mine is Vaire.
 
 </div>
 
-<div class="post" data-post-id="24968" data-author="firebrand" data-date="2008-06-14T01:02:58+00:00">
+<div class="post" data-post-id="24968" data-author="firebrand" data-date="2008-06-14T01:02:58+00:00" data-subject="Re: And the Darwin award goes to...">
 
 In the immortal words of Tap: MAKE A NEW CHAR.[/quote:261vd1c9]
 
@@ -459,7 +459,7 @@ In the immortal words of Tap: MAKE A NEW CHAR.[/quote:261vd1c9]
 
 </div>
 
-<div class="post" data-post-id="24971" data-author="12345" data-date="2008-06-14T01:48:54+00:00">
+<div class="post" data-post-id="24971" data-author="12345" data-date="2008-06-14T01:48:54+00:00" data-subject="">
 
 I used to power-level people on Valk.  Its actually very easy.  I watched the shops and bought up greenish rings, the kobold helms and other equipment without restrictions and mailed them to a character on Valk.  Transferred the stuff over whenever I made a char.  You can run AC 2 with a level 1 character without too much trouble.  Send yourself about 50k gold, and run 2 man.
 
@@ -477,7 +477,7 @@ In short, levels are quick once you learn the game.  If more people are learning
 
 </div>
 
-<div class="post" data-post-id="24978" data-author="Atwell" data-date="2008-06-14T04:54:28+00:00">
+<div class="post" data-post-id="24978" data-author="Atwell" data-date="2008-06-14T04:54:28+00:00" data-subject="">
 
 The trick with xp is that all the areas in the game are have a formula.  Elders in Newbatia are cake with AC 6, a red potion and holy sword.  Bugbears in Blasters AC 4, a red potion, holy sword.  Autumnal, AC -7 for everything except warty, dragon, kender and hunter.  Ersa is -7, curse, blind (poison if you have it).  Catacombs, AC -6, curse, blind, holy sword. Stalkers, AC -8, curse, blind weaken. Theris, AC -9, damn, blind.  Upper Cano, AC -9, damn, blind weaken.  Lower Cano, AC -10, damn blind weaken.  MH, -10, curse/damn, blast.  Dmount...[/quote:3r80h30y]
 
@@ -485,7 +485,7 @@ Good to see you around, 12354 :).  Sage advice.
 
 </div>
 
-<div class="post" data-post-id="25041" data-author="Poggle" data-date="2008-06-16T09:45:38+00:00">
+<div class="post" data-post-id="25041" data-author="Poggle" data-date="2008-06-16T09:45:38+00:00" data-subject="RE: The trouble with valk...">
 
 My somewhat limited experience leads me to agree with 12345 in that gaining levels is not a problem.
 
@@ -511,7 +511,7 @@ I think something like this system would keep newbies interested in the game lon
 
 </div>
 
-<div class="post" data-post-id="25042" data-author="jezer" data-date="2008-06-16T09:48:43+00:00">
+<div class="post" data-post-id="25042" data-author="jezer" data-date="2008-06-16T09:48:43+00:00" data-subject="Re: RE: The trouble with valk...">
 
 My somewhat limited experience leads me to agree with 12345 in that gaining levels is not a problem.
 
@@ -539,19 +539,19 @@ Can someone make Poggle a coder? Thx.
 
 </div>
 
-<div class="post" data-post-id="25043" data-author="Tap" data-date="2008-06-16T11:02:14+00:00">
+<div class="post" data-post-id="25043" data-author="Tap" data-date="2008-06-16T11:02:14+00:00" data-subject="The trouble with Poggles...">
 
 That's a pretty neat idea. It's almost "questish" in newbie form with the reward being something a newbie could use immediately. Good Job.
 
 </div>
 
-<div class="post" data-post-id="25044" data-author="Gimlet" data-date="2008-06-16T12:14:47+00:00">
+<div class="post" data-post-id="25044" data-author="Gimlet" data-date="2008-06-16T12:14:47+00:00" data-subject="">
 
 brilliant idea
 
 </div>
 
-<div class="post" data-post-id="25049" data-author="firebrand" data-date="2008-06-16T19:57:09+00:00">
+<div class="post" data-post-id="25049" data-author="firebrand" data-date="2008-06-16T19:57:09+00:00" data-subject="">
 
 love it!  poggle, send an email to kjartan@slothmud.org with that idea.
 
@@ -559,7 +559,7 @@ love it!  poggle, send an email to kjartan@slothmud.org with that idea.
 
 </div>
 
-<div class="post" data-post-id="25168" data-author="13" data-date="2008-06-24T15:07:15+00:00">
+<div class="post" data-post-id="25168" data-author="13" data-date="2008-06-24T15:07:15+00:00" data-subject="">
 
 the trouble with valk is that you have to be a newbie to play there
 
@@ -567,7 +567,7 @@ and playing a newbie isnt fun because the spells and skills are shitty
 
 </div>
 
-<div class="post" data-post-id="25169" data-author="Sind" data-date="2008-06-24T15:37:31+00:00">
+<div class="post" data-post-id="25169" data-author="Sind" data-date="2008-06-24T15:37:31+00:00" data-subject="">
 
 What about some message at starting screen in huge ascii letters 
 
@@ -579,7 +579,7 @@ rly, sloth needs classo guides.
 
 </div>
 
-<div class="post" data-post-id="25181" data-author="jezer" data-date="2008-06-24T23:28:11+00:00">
+<div class="post" data-post-id="25181" data-author="jezer" data-date="2008-06-24T23:28:11+00:00" data-subject="">
 
 What about some message at starting screen in huge ascii letters telling peeps not to make wa/ba/th/mo (just an example).[/quote:rmph8lfv]
 

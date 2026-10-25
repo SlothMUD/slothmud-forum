@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37945" data-author="*juggleblood*" data-date="2017-01-07T16:12:06+00:00">
+<div class="post" data-post-id="37945" data-author="*juggleblood*" data-date="2017-01-07T16:12:06+00:00" data-subject="REBIRTHS ARE BANNED FROM COLISEUM">
 
 So first I discover that rebirths maintained all their skills from all levels and are using them in coliseum and I was not well pleased.
 

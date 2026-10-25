@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9937" data-author="blackmore" data-date="2005-12-29T13:49:27+00:00">
+<div class="post" data-post-id="9937" data-author="blackmore" data-date="2005-12-29T13:49:27+00:00" data-subject="EQ List update">
 
 I'm finally having some time to do more work on the eq.  All submitted eq, except for a brewed potion that needs cps cleaned up, have been listed.   I have some more potions in a log file that need to be added too.  Some of the new spellbooks are listed, some aren't.  I don't generally post those for the first month or so while I wait for the demand to go down from the people who found them.
 

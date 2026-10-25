@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="39191" data-author="Gorka" data-date="2019-05-16T08:41:09+00:00">
+<div class="post" data-post-id="39191" data-author="Gorka" data-date="2019-05-16T08:41:09+00:00" data-subject="Fox Direheart">
 
 I foolishly tried to solo Fox Direheart today (Because he's a rare thing left to do)... here are some highlights...
 
@@ -272,7 +272,7 @@ I'm also curious as I fought him as -13.1ac but died with -6.6ac, how? And I am 
 
 </div>
 
-<div class="post" data-post-id="39192" data-author="Gorka" data-date="2019-05-16T10:56:45+00:00">
+<div class="post" data-post-id="39192" data-author="Gorka" data-date="2019-05-16T10:56:45+00:00" data-subject="Re: Fox Direheart">
 
 Thanks to Maniac who transfered me to get my stuff from the no_exit room. My corpse had decomposed hours ago and all the stuff was on the floor.
 
@@ -324,13 +324,13 @@ If anyone knows a trig trap to enter "Murder for Pleasure" please post it. If th
 
 </div>
 
-<div class="post" data-post-id="39193" data-author="Driven" data-date="2019-05-16T13:51:06+00:00">
+<div class="post" data-post-id="39193" data-author="Driven" data-date="2019-05-16T13:51:06+00:00" data-subject="Re: Fox Direheart">
 
 Yea, Fox's room was busted.  I have fixed it.  And yes, his proc is extremely complex and appears to be intended to prevent people from soloing him.
 
 </div>
 
-<div class="post" data-post-id="39194" data-author="Gorka" data-date="2019-05-16T14:01:53+00:00">
+<div class="post" data-post-id="39194" data-author="Gorka" data-date="2019-05-16T14:01:53+00:00" data-subject="Re: Fox Direheart">
 
 For future reference this is how Fox should be taken.... 
 

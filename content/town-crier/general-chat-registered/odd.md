@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="14135" data-author="Malison" data-date="2006-09-18T18:55:05+00:00">
+<div class="post" data-post-id="14135" data-author="Malison" data-date="2006-09-18T18:55:05+00:00" data-subject="odd">
 
 Last bootup: Mon Sep 18 13:37:34 2006
 
@@ -44,7 +44,7 @@ The 'regeneration' spell on you is about to wear off.
 
 </div>
 
-<div class="post" data-post-id="14136" data-author="Malison" data-date="2006-09-18T18:58:55+00:00">
+<div class="post" data-post-id="14136" data-author="Malison" data-date="2006-09-18T18:58:55+00:00" data-subject="">
 
 7 minutes later...
 
@@ -76,7 +76,7 @@ This time without being hit my current hp and maxhp dropped to maxma.
 
 </div>
 
-<div class="post" data-post-id="14138" data-author="Jag" data-date="2006-09-18T19:19:21+00:00">
+<div class="post" data-post-id="14138" data-author="Jag" data-date="2006-09-18T19:19:21+00:00" data-subject="Two odd?">
 
 I was in Wyrmlings and I lost 132 hps while doing 3 consecutive cure minors on myself.  No mobs were in the room.
 
@@ -218,19 +218,19 @@ You are affected by the following spells:
 
 </div>
 
-<div class="post" data-post-id="14140" data-author="12345" data-date="2006-09-18T19:37:01+00:00">
+<div class="post" data-post-id="14140" data-author="12345" data-date="2006-09-18T19:37:01+00:00" data-subject="">
 
 The game has been up almost 8 days now.  Might be starting to flake out.
 
 </div>
 
-<div class="post" data-post-id="14142" data-author="kjartan" data-date="2006-09-18T19:55:47+00:00">
+<div class="post" data-post-id="14142" data-author="kjartan" data-date="2006-09-18T19:55:47+00:00" data-subject="">
 
 We just put in code that allows mobs to have higher max hp, and it sounds like there may be some bug related to that.  We're on it.
 
 </div>
 
-<div class="post" data-post-id="14144" data-author="12345" data-date="2006-09-18T21:12:29+00:00">
+<div class="post" data-post-id="14144" data-author="12345" data-date="2006-09-18T21:12:29+00:00" data-subject="">
 
 Funny bug to watch.  Glad I was regenning.
 
@@ -266,7 +266,7 @@ You are already standing.
 
 </div>
 
-<div class="post" data-post-id="14145" data-author="*Splork*" data-date="2006-09-18T21:53:34+00:00">
+<div class="post" data-post-id="14145" data-author="*Splork*" data-date="2006-09-18T21:53:34+00:00" data-subject="Fixed">
 
 This bug should be fixed(we rebooted), I apologize for not being around earlier to grab it but worked late.
 

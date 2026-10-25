@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="9121" data-author="auri" data-date="2005-10-23T12:44:18+00:00">
+<div class="post" data-post-id="9121" data-author="auri" data-date="2005-10-23T12:44:18+00:00" data-subject="Need 2 others for Mansion on AH">
 
 Hi,
 
@@ -32,13 +32,13 @@ Auriana
 
 </div>
 
-<div class="post" data-post-id="9122" data-author="Gnu" data-date="2005-10-23T14:43:42+00:00">
+<div class="post" data-post-id="9122" data-author="Gnu" data-date="2005-10-23T14:43:42+00:00" data-subject="">
 
 interesting idea... hm... of not that "players w/ good sloth history will be considered. " ... not for me :(
 
 </div>
 
-<div class="post" data-post-id="9123" data-author="Avatar" data-date="2005-10-23T19:05:18+00:00">
+<div class="post" data-post-id="9123" data-author="Avatar" data-date="2005-10-23T19:05:18+00:00" data-subject="Sounds good">
 
 Actually, I'll sign up for this.  I don't have vault space on AH yet, and I have some coins.  Sounds like a good idea.
 
@@ -48,7 +48,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="9124" data-author="auri" data-date="2005-10-23T19:08:51+00:00">
+<div class="post" data-post-id="9124" data-author="auri" data-date="2005-10-23T19:08:51+00:00" data-subject="Aife and I looking for 1 more for AH Mansion">
 
 Hi again,
 
@@ -60,13 +60,13 @@ Auri
 
 </div>
 
-<div class="post" data-post-id="9129" data-author="13" data-date="2005-10-24T10:25:29+00:00">
+<div class="post" data-post-id="9129" data-author="13" data-date="2005-10-24T10:25:29+00:00" data-subject="">
 
 Hey Aife, why don't ya go in with your clan-mates on an AH Mansion, since that's what were doing anyway?
 
 </div>
 
-<div class="post" data-post-id="9134" data-author="Avatar" data-date="2005-10-24T15:46:30+00:00">
+<div class="post" data-post-id="9134" data-author="Avatar" data-date="2005-10-24T15:46:30+00:00" data-subject="AH vaults">
 
 Hmm, I suppose I should consider both.  I hadn't heard we (klan) were considering anything like this.  I'm PM you here or chat with you both tonight.
 
@@ -74,7 +74,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="9200" data-author="Caribdis7" data-date="2005-10-26T13:26:23+00:00">
+<div class="post" data-post-id="9200" data-author="Caribdis7" data-date="2005-10-26T13:26:23+00:00" data-subject="">
 
 I'm interested in going in on this venture.  Let me know!
 

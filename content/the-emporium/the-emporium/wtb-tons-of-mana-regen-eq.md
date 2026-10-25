@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="4029" data-author="impz" data-date="2005-01-29T13:57:45+00:00">
+<div class="post" data-post-id="4029" data-author="impz" data-date="2005-01-29T13:57:45+00:00" data-subject="WTB Tons of mana regen eq">
 
 I need close to a good set of newbie mana regen eq
 
@@ -28,7 +28,7 @@ If you have any, find me online and we can discuss whether u want cash or perhap
 
 </div>
 
-<div class="post" data-post-id="4030" data-author="impz" data-date="2005-01-29T16:29:04+00:00">
+<div class="post" data-post-id="4030" data-author="impz" data-date="2005-01-29T16:29:04+00:00" data-subject="">
 
 got pebble, still need the others.
 

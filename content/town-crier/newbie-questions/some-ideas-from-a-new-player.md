@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30621" data-author="Brayden" data-date="2010-01-10T22:58:01+00:00">
+<div class="post" data-post-id="30621" data-author="Brayden" data-date="2010-01-10T22:58:01+00:00" data-subject="Some ideas from a  new player">
 
 Hi I tried to send earlier but it didn't work:
 
@@ -22,7 +22,7 @@ This mud is infinitely better than any I've seen, so it's a real privilege to pl
 
 </div>
 
-<div class="post" data-post-id="30624" data-author="Brayden" data-date="2010-01-10T23:27:31+00:00">
+<div class="post" data-post-id="30624" data-author="Brayden" data-date="2010-01-10T23:27:31+00:00" data-subject="">
 
 Many thanks to Splork for helping me.  It's help color.  Color Set.  So he set me straight!  Thanks again!
 

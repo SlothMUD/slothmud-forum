@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="31137" data-author="Toxis" data-date="2010-05-11T16:57:22+00:00">
+<div class="post" data-post-id="31137" data-author="Toxis" data-date="2010-05-11T16:57:22+00:00" data-subject="Monk Tert?">
 
 [40w 29b 23c 21n 13o 11m 11d  8t] Stun riposte,2ndwind,entrench
 
@@ -28,7 +28,7 @@ I don't even know how much damage reduction I'll get for monk tert, if anything 
 
 </div>
 
-<div class="post" data-post-id="31138" data-author="Vixn" data-date="2010-05-11T18:40:43+00:00">
+<div class="post" data-post-id="31138" data-author="Vixn" data-date="2010-05-11T18:40:43+00:00" data-subject="">
 
 Stop complain, make another newbie.
 
@@ -40,13 +40,13 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="31139" data-author="Toxis" data-date="2010-05-11T19:25:10+00:00">
+<div class="post" data-post-id="31139" data-author="Toxis" data-date="2010-05-11T19:25:10+00:00" data-subject="">
 
 I wasn't trying to complain, I want someone to tell me if Addict is a viable tank or if it would make more sense to create a different class warrior.
 
 </div>
 
-<div class="post" data-post-id="31140" data-author="jezer" data-date="2010-05-11T20:16:54+00:00">
+<div class="post" data-post-id="31140" data-author="jezer" data-date="2010-05-11T20:16:54+00:00" data-subject="">
 
 I've long suspected the totals of hp ma mv are not fair amongst the forty thousand possible class orders. 
 
@@ -64,7 +64,7 @@ It would not surprise me if the problem has been stretched with 8 classo's. I do
 
 </div>
 
-<div class="post" data-post-id="31141" data-author="jezer" data-date="2010-05-11T20:26:25+00:00">
+<div class="post" data-post-id="31141" data-author="jezer" data-date="2010-05-11T20:26:25+00:00" data-subject="">
 
 It would not surprise me if the problem has been stretched with 8 classo's. I doubt any one bothered to programmatically calculated the totals for the 40000 class orders just to make sure the min and max amongst them were not unfairly different.[/quote:1x269hs4]
 
@@ -74,13 +74,13 @@ At sloth the mechanics of the game code is hidden, but this works against the ga
 
 </div>
 
-<div class="post" data-post-id="31142" data-author="Dragoth" data-date="2010-05-11T21:10:15+00:00">
+<div class="post" data-post-id="31142" data-author="Dragoth" data-date="2010-05-11T21:10:15+00:00" data-subject="">
 
 Come on Brad, you are one of the more experienced guys who had played more chars with more hours put into this game than anyone else and you've got to ask questions like that  ?
 
 </div>
 
-<div class="post" data-post-id="31143" data-author="Toxis" data-date="2010-05-11T22:14:28+00:00">
+<div class="post" data-post-id="31143" data-author="Toxis" data-date="2010-05-11T22:14:28+00:00" data-subject="">
 
 I think the question that I'm aiming at is exactly how much damage reduction I'm getting for monk tert.
 
@@ -90,7 +90,7 @@ Thanks for adding quality information to this thread, Dragoth.
 
 </div>
 
-<div class="post" data-post-id="31144" data-author="jezer" data-date="2010-05-11T22:34:10+00:00">
+<div class="post" data-post-id="31144" data-author="jezer" data-date="2010-05-11T22:34:10+00:00" data-subject="">
 
 I think the question that I'm aiming at is exactly how much damage reduction I'm getting for monk tert.[/quote:2o5hlx40]
 
@@ -112,7 +112,7 @@ If an imm wants to post proper caps for a calculation, go ahead.
 
 </div>
 
-<div class="post" data-post-id="31145" data-author="jezer" data-date="2010-05-11T23:12:11+00:00">
+<div class="post" data-post-id="31145" data-author="jezer" data-date="2010-05-11T23:12:11+00:00" data-subject="">
 
 More ramblings... If dam reduct is still percentage point based... it works best when you get hit harder.
 
@@ -136,7 +136,7 @@ The true power comes at the end. Dam reduct is great, but it comes about as quic
 
 </div>
 
-<div class="post" data-post-id="31146" data-author="Dragoth" data-date="2010-05-11T23:50:36+00:00">
+<div class="post" data-post-id="31146" data-author="Dragoth" data-date="2010-05-11T23:50:36+00:00" data-subject="">
 
 Anything for you tox!
 
@@ -146,7 +146,7 @@ Once you know exactly what each point of damage reduction reduces you can come t
 
 </div>
 
-<div class="post" data-post-id="31147" data-author="jezer" data-date="2010-05-12T00:20:27+00:00">
+<div class="post" data-post-id="31147" data-author="jezer" data-date="2010-05-12T00:20:27+00:00" data-subject="">
 
 According to the last code leak (2004?), 1 dam reduct WAS 1%. Given the ravaging they gave monk hand dam a few years later, the lack of drachma eq, the lack of new skills from s3, I doubt it's changed.
 

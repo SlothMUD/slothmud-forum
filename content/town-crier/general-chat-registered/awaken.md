@@ -10,7 +10,7 @@ locked: false
 post_count: 25
 ---
 
-<div class="post" data-post-id="9730" data-author="Rynquald" data-date="2005-12-04T11:11:41+00:00">
+<div class="post" data-post-id="9730" data-author="Rynquald" data-date="2005-12-04T11:11:41+00:00" data-subject="Awaken">
 
 I might be wrong (it is rather late after all), but i think awaken is slightly bugged, it gves the message "You aren't powerful enough to awaken that kind of plant ... yet." upon trying to awaken 1 slime mold with my prime char (ma/dr/wa/cl lev 9 av).
 
@@ -18,19 +18,19 @@ Guess it could be the help file that's wrong though, not the spell. Thanks for a
 
 </div>
 
-<div class="post" data-post-id="9731" data-author="Grue" data-date="2005-12-04T14:28:21+00:00">
+<div class="post" data-post-id="9731" data-author="Grue" data-date="2005-12-04T14:28:21+00:00" data-subject="">
 
 Nope you are wrong, read the help file again. It works the same as supplication, ieit counts you level starting with druid. a level 9 avatar dr/cl/ma/wa is a 4x40 beacuse dr is the first class. A level 9 avatar ma/dr/cl/wa is only a 3x40 because the prime class doesn't count, likewise a level 9 avatar ma/cl/dr/wa is a double 40. You'll be able to get a slime mold at level 40 avatar (when you have 4x40 starting with your secondary class) and will never be able to get the last one.
 
 </div>
 
-<div class="post" data-post-id="9732" data-author="Guinex" data-date="2005-12-04T19:17:14+00:00">
+<div class="post" data-post-id="9732" data-author="Guinex" data-date="2005-12-04T19:17:14+00:00" data-subject="">
 
 Looks to me that slime mold is not the last awaken mob, and should be able to get at your level....
 
 </div>
 
-<div class="post" data-post-id="9734" data-author="Leaf" data-date="2005-12-04T19:56:41+00:00">
+<div class="post" data-post-id="9734" data-author="Leaf" data-date="2005-12-04T19:56:41+00:00" data-subject="">
 
 3x40 Druid prime here, and can't awaken slime mold.
 
@@ -38,13 +38,13 @@ Also it's interesting that you would need to be located in a forest area.
 
 </div>
 
-<div class="post" data-post-id="9735" data-author="Rynquald" data-date="2005-12-04T20:31:29+00:00">
+<div class="post" data-post-id="9735" data-author="Rynquald" data-date="2005-12-04T20:31:29+00:00" data-subject="">
 
 Thanks for the replys. And that was my point Grue, while my prime class doesn't count so i'm only 3x40 for this, slime mold's a 3x40 mob according to the help file...
 
 </div>
 
-<div class="post" data-post-id="9736" data-author="kjartan" data-date="2005-12-04T23:39:30+00:00">
+<div class="post" data-post-id="9736" data-author="kjartan" data-date="2005-12-04T23:39:30+00:00" data-subject="">
 
 Ok, there was a bug that was preventing anything higher than 1x40 from being awakened, should be fixed next crash or reboot.
 
@@ -56,7 +56,7 @@ Oh, and one more druid thing: I have changed it so that instead of dropping into
 
 </div>
 
-<div class="post" data-post-id="9738" data-author="Pine" data-date="2005-12-05T02:25:50+00:00">
+<div class="post" data-post-id="9738" data-author="Pine" data-date="2005-12-05T02:25:50+00:00" data-subject="">
 
 Oh, and one more druid thing: I have changed it so that instead of dropping into your inventory, any equipment you are wearing when you shift is just incorporated into your form. It will return in the same equipped slot when you shift back. It doesn't do anything for you while you're shifted. (Excepting shiftable equipment, which still behaves as it always did).
 
@@ -64,7 +64,7 @@ This is awesome, thanks.
 
 </div>
 
-<div class="post" data-post-id="9739" data-author="Grue" data-date="2005-12-05T05:03:43+00:00">
+<div class="post" data-post-id="9739" data-author="Grue" data-date="2005-12-05T05:03:43+00:00" data-subject="">
 
 My mistake sorry, for some reason I read the help file as 4x40 not 3x40. Apologies.
 
@@ -72,7 +72,7 @@ Anyone have any feedback on how good the forms are?
 
 </div>
 
-<div class="post" data-post-id="9740" data-author="Rynquald" data-date="2005-12-05T05:37:27+00:00">
+<div class="post" data-post-id="9740" data-author="Rynquald" data-date="2005-12-05T05:37:27+00:00" data-subject="">
 
 No worries. I've tried all the up to 1x40 forms and they seem pretty weak in general, but alowing that they could be used by a 1x40 druid prime they're nice, nice enough that the slime molds and elder ents will probably be usefull anyway.
 
@@ -80,19 +80,19 @@ Edit: Now that I've tested slime molds, i must say, awaken rocks :)
 
 </div>
 
-<div class="post" data-post-id="9741" data-author="kjartan" data-date="2005-12-06T04:34:13+00:00">
+<div class="post" data-post-id="9741" data-author="kjartan" data-date="2005-12-06T04:34:13+00:00" data-subject="">
 
 Ok, I have made it so undead control doesn't affect awakened critters, and also I have made awaken work in rooms with either a hedge maze or a spring (from the garden spell).  Changes in next crash or reboot.
 
 </div>
 
-<div class="post" data-post-id="9855" data-author="Shara" data-date="2005-12-18T08:30:50+00:00">
+<div class="post" data-post-id="9855" data-author="Shara" data-date="2005-12-18T08:30:50+00:00" data-subject="">
 
 Are there differences in order lag?  Do prime druids get one round of lag and all others get two, like necro and their undead?
 
 </div>
 
-<div class="post" data-post-id="9858" data-author="kjartan" data-date="2005-12-18T19:36:23+00:00">
+<div class="post" data-post-id="9858" data-author="kjartan" data-date="2005-12-18T19:36:23+00:00" data-subject="">
 
 Right now, the lag distribution isn't great, so let me just say how it will be after the next crash or reboot: you will get one round of order lag if you are ordering stuff controlled through your prime class (undead for necros, plants for druids, charms and fams for mages, supps for clerics) and two rounds if you are ordering anything else.
 
@@ -100,13 +100,13 @@ Edit: I just realized that I got them backwards when I made this change.  It wil
 
 </div>
 
-<div class="post" data-post-id="9861" data-author="Shara" data-date="2005-12-18T23:51:27+00:00">
+<div class="post" data-post-id="9861" data-author="Shara" data-date="2005-12-18T23:51:27+00:00" data-subject="">
 
 Okies, thanks for clarification :)
 
 </div>
 
-<div class="post" data-post-id="9873" data-author="Deju" data-date="2005-12-19T21:01:23+00:00">
+<div class="post" data-post-id="9873" data-author="Deju" data-date="2005-12-19T21:01:23+00:00" data-subject="Re: Order Lag">
 
 Since this new change has gone in, i have noticed an increase in my order lag for summons and juju.  I dont think its 2 full rounds, but it definitely seems longer than 1 round.
 
@@ -122,13 +122,13 @@ Edit: Ahh, i just noticed Kjartan's edit on his post.  Thanks Kj! :)
 
 </div>
 
-<div class="post" data-post-id="9875" data-author="kjartan" data-date="2005-12-20T01:16:13+00:00">
+<div class="post" data-post-id="9875" data-author="kjartan" data-date="2005-12-20T01:16:13+00:00" data-subject="Re: order lag">
 
 A further change: I cut the lag for familiars in half, because they're so small (based on Wasp's suggestion).  So, 1 round for non-mage-primes, half a round for mage-primes.  Also in next crash or reboot.
 
 </div>
 
-<div class="post" data-post-id="9876" data-author="Avatar" data-date="2005-12-20T13:47:30+00:00">
+<div class="post" data-post-id="9876" data-author="Avatar" data-date="2005-12-20T13:47:30+00:00" data-subject="Order Lag">
 
 This makes sense, and at a "tactical" level definitely seems more logical than the old methods of order lag.  So I do think it's an improvement.
 
@@ -146,7 +146,7 @@ In short, I have two points that I'd like to make:
 
 </div>
 
-<div class="post" data-post-id="9877" data-author="12345" data-date="2005-12-20T14:38:27+00:00">
+<div class="post" data-post-id="9877" data-author="12345" data-date="2005-12-20T14:38:27+00:00" data-subject="">
 
 I once played a game that had spell lag.  Interesting concept, it prevented you from casting spells, but you could still recall, chat and such.  It wasn't too bad to play, but the feature still gives me nightmares.  The coder that designed it got married and quit, and I inheritted it because no one else could figure out how to work with it.  Granted, it was implemented very poorly, but I swear the tangle of code involved with it was simply scary.
 
@@ -154,7 +154,7 @@ I won't comment on mages until they're done being retooled :)
 
 </div>
 
-<div class="post" data-post-id="9879" data-author="Driven" data-date="2005-12-20T14:58:07+00:00">
+<div class="post" data-post-id="9879" data-author="Driven" data-date="2005-12-20T14:58:07+00:00" data-subject="">
 
 Avatar, I don't think you can equate 2 rounds of lag with not having firewind.  Yes, a non-prime necro gets 2 rounds of lag, but you still have a swordwraith.  Now I do concede that being a non-prime mage leaves you with no drawbacks when using firewind, but I don't think the answer is to give power back to non-prime necros by removing the lag.  I think the correct answer would be increased mana requirements for non-prime mage (or conversely decreased mana requirements for prime mage).  I don't have a mage prime, so I don't know if this already exists?  Do prime mages cast firewind for less mana?  
 
@@ -166,7 +166,7 @@ rob
 
 </div>
 
-<div class="post" data-post-id="9881" data-author="Dariel" data-date="2005-12-20T15:20:21+00:00">
+<div class="post" data-post-id="9881" data-author="Dariel" data-date="2005-12-20T15:20:21+00:00" data-subject="Re: Order Lag">
 
 > **Avatar wrote:**
 > In short, I have two points that I'd like to make:
@@ -183,13 +183,13 @@ I agree with Avatar on these two points.
 
 </div>
 
-<div class="post" data-post-id="9886" data-author="kjartan" data-date="2005-12-20T17:15:08+00:00">
+<div class="post" data-post-id="9886" data-author="kjartan" data-date="2005-12-20T17:15:08+00:00" data-subject="">
 
 I guess we could charge mana per order instead of lag.  It would probably be a lot, because you don't order them to do stuff that often; it would certainly be more than the mana you can regen in the current lag time.  Probably it wouldn't be so much for familiars.  I'll talk to the other imms about it.
 
 </div>
 
-<div class="post" data-post-id="9888" data-author="Avatar" data-date="2005-12-20T20:15:54+00:00">
+<div class="post" data-post-id="9888" data-author="Avatar" data-date="2005-12-20T20:15:54+00:00" data-subject="Classo&#x27;s">
 
 Driven:  "Hard to say, but I have zero pity for a warrior prime with parry, wraithform, and a swordwraith in-toe that takes 2 rounds of lag to order around."
 
@@ -209,7 +209,7 @@ I'm trying to point out that these reduced capabilities based on class order mak
 
 </div>
 
-<div class="post" data-post-id="9889" data-author="Rynquald" data-date="2005-12-20T20:16:29+00:00">
+<div class="post" data-post-id="9889" data-author="Rynquald" data-date="2005-12-20T20:16:29+00:00" data-subject="">
 
 [quote:17h0fa0b]I guess we could charge mana per order instead of lag. It would probably be a lot, because you don't order them to do stuff that often; it would certainly be more than the mana you can regen in the current lag time. Probably it wouldn't be so much for familiars. I'll talk to the other imms about it.[/quote:17h0fa0b]
 
@@ -217,13 +217,13 @@ You see, this is *exactly* the kind of thing that happens when people complain a
 
 </div>
 
-<div class="post" data-post-id="9890" data-author="kjartan" data-date="2005-12-20T20:29:10+00:00">
+<div class="post" data-post-id="9890" data-author="kjartan" data-date="2005-12-20T20:29:10+00:00" data-subject="">
 
 To the extent we have a strategic direction, it is that there should not be many major differences in class abilities as a function of its position in the classo.  We have a few prime-only skills and spells, and we aren't planning on adding any more.  We are more willing to depower non-prime classes by changing numerical limits like caps and such.
 
 </div>
 
-<div class="post" data-post-id="9891" data-author="12345" data-date="2005-12-20T21:30:59+00:00">
+<div class="post" data-post-id="9891" data-author="12345" data-date="2005-12-20T21:30:59+00:00" data-subject="">
 
 Hmm.  I'm not a necro, so I'm not sure what to think about the statement about the lower undeads and no Juju.  My thinking seems to change on it depending on whether I think of the Juju as an undead or as prime ability.  As an undead, it's a major decrease in power.  As a prime ability... well, it's their major prime ability.  You can't really adjust for it without reducing the value of the Juju.
 
@@ -231,7 +231,7 @@ I have seen plenty of folks with necro in 3rd and 4th that appear to be sucessfu
 
 </div>
 
-<div class="post" data-post-id="9892" data-author="kjartan" data-date="2005-12-20T22:46:57+00:00">
+<div class="post" data-post-id="9892" data-author="kjartan" data-date="2005-12-20T22:46:57+00:00" data-subject="Re: order lag">
 
 After some discussion among the immortals, we have decided to leave order lag as it is now.
 

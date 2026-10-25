@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32560" data-author="Tuck" data-date="2011-04-08T20:52:47+00:00">
+<div class="post" data-post-id="32560" data-author="Tuck" data-date="2011-04-08T20:52:47+00:00" data-subject="Runewords / Spell names list in case someone need them.">
 
 Here is array of 160 spellnames and runewords. Might be used not in just cmud, just decode easy xml format.
 
@@ -38,13 +38,13 @@ $spelltoconvert=%2
 
 </div>
 
-<div class="post" data-post-id="32561" data-author="*Breeze*" data-date="2011-04-09T10:16:54+00:00">
+<div class="post" data-post-id="32561" data-author="*Breeze*" data-date="2011-04-09T10:16:54+00:00" data-subject="Re: Runewords / Spell names list in case someone need them.">
 
 try now Tuk
 
 </div>
 
-<div class="post" data-post-id="32562" data-author="Tuck" data-date="2011-04-13T20:18:14+00:00">
+<div class="post" data-post-id="32562" data-author="Tuck" data-date="2011-04-13T20:18:14+00:00" data-subject="Re: Runewords / Spell names list in case someone need them.">
 
 Thanks Benq!
 

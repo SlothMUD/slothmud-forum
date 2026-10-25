@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31873" data-author="element" data-date="2010-10-15T13:16:34+00:00">
+<div class="post" data-post-id="31873" data-author="element" data-date="2010-10-15T13:16:34+00:00" data-subject="Mud Lag or?">
 
 am I the only one who can't seem to log on?
 
@@ -20,7 +20,7 @@ but nothing happens
 
 </div>
 
-<div class="post" data-post-id="31874" data-author="*Splork*" data-date="2010-10-15T13:26:04+00:00">
+<div class="post" data-post-id="31874" data-author="*Splork*" data-date="2010-10-15T13:26:04+00:00" data-subject="Re: Mud Lag or?">
 
 Working on it.
 

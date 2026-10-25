@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32759" data-author="jezer" data-date="2011-07-24T09:59:18+00:00">
+<div class="post" data-post-id="32759" data-author="jezer" data-date="2011-07-24T09:59:18+00:00" data-subject="Golden Yellow Topaz">
 
 Just need one more to get it over with, will trade...
 

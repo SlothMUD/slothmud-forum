@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="19966" data-author="Jag" data-date="2007-08-29T12:24:23+00:00">
+<div class="post" data-post-id="19966" data-author="Jag" data-date="2007-08-29T12:24:23+00:00" data-subject="WTB Spelldam Rings and Waist Items">
 
 Savvy would like to buy Wiedzmin rings and Loop of burning coals.
 

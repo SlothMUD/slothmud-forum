@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35638" data-author="*juggleblood*" data-date="2015-01-15T17:52:55+00:00">
+<div class="post" data-post-id="35638" data-author="*juggleblood*" data-date="2015-01-15T17:52:55+00:00" data-subject="Minor Newbie Autoquest Reshuffle">
 
 To address some issues of autoquest bugs, I'm spreading out some of the autoquests from some of the quester mobs.  This, along with a code change implemented by Breeze should resolve the issues players have been having whereby the mob won't accept the required item.
 
@@ -22,7 +22,7 @@ In related news, corpses and subdued mobs are now non-rentable meaning that if y
 
 </div>
 
-<div class="post" data-post-id="35646" data-author="*juggleblood*" data-date="2015-01-17T11:29:31+00:00">
+<div class="post" data-post-id="35646" data-author="*juggleblood*" data-date="2015-01-17T11:29:31+00:00" data-subject="Re: Minor Newbie Autoquest Reshuffle">
 
 One step closer.
 

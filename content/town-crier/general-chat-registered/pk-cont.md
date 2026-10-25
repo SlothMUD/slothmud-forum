@@ -10,13 +10,13 @@ locked: false
 post_count: 108
 ---
 
-<div class="post" data-post-id="20075" data-author="Alberich" data-date="2007-09-03T11:49:35+00:00">
+<div class="post" data-post-id="20075" data-author="Alberich" data-date="2007-09-03T11:49:35+00:00" data-subject="PK cont">
 
 I think it's silly to assume 'only maybe 3-4 people would play there' but lets see.
 
 </div>
 
-<div class="post" data-post-id="20076" data-author="Leaf" data-date="2007-09-03T11:57:56+00:00">
+<div class="post" data-post-id="20076" data-author="Leaf" data-date="2007-09-03T11:57:56+00:00" data-subject="">
 
 I can only see this be an area of Clan vs Clan type of area.  Who would 
 
@@ -36,7 +36,7 @@ I would say let ppl fight in the arena or Dot/ET.
 
 </div>
 
-<div class="post" data-post-id="20077" data-author="Rynquald" data-date="2007-09-03T12:50:27+00:00">
+<div class="post" data-post-id="20077" data-author="Rynquald" data-date="2007-09-03T12:50:27+00:00" data-subject="">
 
 Having decent eq popping there could end up being the root of some tricky problems, no group can reasonably fight a good sized mob while simultaneously engaging other players.
 
@@ -50,7 +50,7 @@ Another thought would be developing a "points" system for kills whereby the lead
 
 </div>
 
-<div class="post" data-post-id="20078" data-author="Mosaix" data-date="2007-09-03T13:33:01+00:00">
+<div class="post" data-post-id="20078" data-author="Mosaix" data-date="2007-09-03T13:33:01+00:00" data-subject="">
 
 Thinking people are going to be considerate in an no-holds barred continent is wishfull thinking.  Take the concept of handing out quest eq after a quest, add the fact people can kill each other, shake well and serve.  
 
@@ -60,7 +60,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="20079" data-author="Medios" data-date="2007-09-03T13:36:44+00:00">
+<div class="post" data-post-id="20079" data-author="Medios" data-date="2007-09-03T13:36:44+00:00" data-subject="">
 
 This is like saying.  Iblis hits very hard and only 3-4 people in game need his eq, so lets not waste our time.  The idea is good and if your a pussy, stay home.  I would recommend that once you die, just like in the arena, your body is raised and transferred to a safe room.  You cannot leave the safe room for 5 minutes.  This alleviates anyone trying to exploit it killing mobs.  The area could have temp eq and also some high end eq or forges.  Again if you don't like the area, stay on vk with your ultra n00bs.
 
@@ -68,13 +68,13 @@ Edit: A determined amount of xp would be lost on death.
 
 </div>
 
-<div class="post" data-post-id="20080" data-author="Tap" data-date="2007-09-03T13:37:17+00:00">
+<div class="post" data-post-id="20080" data-author="Tap" data-date="2007-09-03T13:37:17+00:00" data-subject="">
 
 Then again new disease madness could have whole continent affect. Can't group and attack each other randomly on sight.If 2 clan members sit in seperate rooms and #3 busybody comes to continent, they would stand as much a chance of attacking each other as the new guy. :idea:
 
 </div>
 
-<div class="post" data-post-id="20081" data-author="Alberich" data-date="2007-09-03T13:43:26+00:00">
+<div class="post" data-post-id="20081" data-author="Alberich" data-date="2007-09-03T13:43:26+00:00" data-subject="">
 
 as i said in other thread, i'd say either limit group sizes on a pk cont, or just turn off grouping altogether while there.
 
@@ -82,25 +82,25 @@ I like Mikes idea of being raised in a safe room, with a timer to get out - I'd 
 
 </div>
 
-<div class="post" data-post-id="20082" data-author="Rynquald" data-date="2007-09-03T13:52:30+00:00">
+<div class="post" data-post-id="20082" data-author="Rynquald" data-date="2007-09-03T13:52:30+00:00" data-subject="">
 
 Minstrel has the best idea, as usual :)
 
 </div>
 
-<div class="post" data-post-id="20083" data-author="Weasel" data-date="2007-09-03T14:21:48+00:00">
+<div class="post" data-post-id="20083" data-author="Weasel" data-date="2007-09-03T14:21:48+00:00" data-subject="">
 
 HAH.. this poll is almost meaningless with the options given, get real.
 
 </div>
 
-<div class="post" data-post-id="20085" data-author="13" data-date="2007-09-03T14:49:23+00:00">
+<div class="post" data-post-id="20085" data-author="13" data-date="2007-09-03T14:49:23+00:00" data-subject="">
 
 weasel, what's your problem, just stay home you little bitch.
 
 </div>
 
-<div class="post" data-post-id="20087" data-author="Weasel" data-date="2007-09-03T15:04:37+00:00">
+<div class="post" data-post-id="20087" data-author="Weasel" data-date="2007-09-03T15:04:37+00:00" data-subject="">
 
 I'm expressing my opinion about the discussion at hand - that's the basis of discussion. If you don't like that, lick my balls. I realize I've been negative, and I just said as much on another thread, but that's no reason to get personally abusive. You can't seriously tell me the options in this poll are not clearly designed to skew the results though. How about the poll options were this:
 
@@ -116,7 +116,7 @@ gee.. those options sound fair don't they..  :roll:
 
 </div>
 
-<div class="post" data-post-id="20088" data-author="Yinao" data-date="2007-09-03T15:46:16+00:00">
+<div class="post" data-post-id="20088" data-author="Yinao" data-date="2007-09-03T15:46:16+00:00" data-subject="">
 
 Weasel must have been killed alot as a newb. :shock:. Regarding your reasons for going there, 1. im not a pthief, 2. well, I might be a dick, 3. I will go there bc it would be a challenge and fun. You obviously cant read either, they said that your dead body would be raised not that you would corpse and be plooted which wouldnt be the case even if you corpsed considering its against the rulez :roll: 
 
@@ -124,7 +124,7 @@ So for your reasons you stated to go there, you dont like it? Don't go, that was
 
 </div>
 
-<div class="post" data-post-id="20089" data-author="Weasel" data-date="2007-09-03T16:38:08+00:00">
+<div class="post" data-post-id="20089" data-author="Weasel" data-date="2007-09-03T16:38:08+00:00" data-subject="">
 
 You obviously cant read either, they said that your dead body would be raised not that you would corpse and be plooted which wouldnt be the case even if you corpsed considering its against the rulez :roll: [/quote:31gw8iip]
 
@@ -136,25 +136,25 @@ One of the original suggestions was that this be a kind of team arena, with the 
 
 </div>
 
-<div class="post" data-post-id="20090" data-author="13" data-date="2007-09-03T16:39:00+00:00">
+<div class="post" data-post-id="20090" data-author="13" data-date="2007-09-03T16:39:00+00:00" data-subject="">
 
 I would say it should probably be 5x40 only, no-ones interested in camping for newbs dude.  I want the wolves, not the sheep.
 
 </div>
 
-<div class="post" data-post-id="20091" data-author="Yinao" data-date="2007-09-03T16:42:46+00:00">
+<div class="post" data-post-id="20091" data-author="Yinao" data-date="2007-09-03T16:42:46+00:00" data-subject="">
 
 Either way Weasel, the point is plooting is against the rulez regardless. Unless the char is a pthief then thats a whole nother subject so your post is still invalid :roll:. I must say I agree with Aa if newbies want to go then sure they can go and get smoked gotta die to learn. Unless your hard-headed and just die and throw a fit. :twisted:
 
 </div>
 
-<div class="post" data-post-id="20092" data-author="brand" data-date="2007-09-03T16:44:05+00:00">
+<div class="post" data-post-id="20092" data-author="brand" data-date="2007-09-03T16:44:05+00:00" data-subject="">
 
 dumb.., you all saw how far the last tourney got...
 
 </div>
 
-<div class="post" data-post-id="20093" data-author="Autolycos" data-date="2007-09-03T16:46:30+00:00">
+<div class="post" data-post-id="20093" data-author="Autolycos" data-date="2007-09-03T16:46:30+00:00" data-subject="">
 
 as long as its !psteal i'm there..  but then again...  i'll be there anyway  :twisted:
 
@@ -162,13 +162,13 @@ lmfao  Brand... nod.. what a let down
 
 </div>
 
-<div class="post" data-post-id="20094" data-author="13" data-date="2007-09-03T16:46:44+00:00">
+<div class="post" data-post-id="20094" data-author="13" data-date="2007-09-03T16:46:44+00:00" data-subject="">
 
 it would be different because killing people would be legal.
 
 </div>
 
-<div class="post" data-post-id="20095" data-author="Alberich" data-date="2007-09-03T16:48:44+00:00">
+<div class="post" data-post-id="20095" data-author="Alberich" data-date="2007-09-03T16:48:44+00:00" data-subject="">
 
 i don't think level restriction on the continent itself would be very fun.  strict warnings before you go would probably be in order, and xp you get for a pk should be relative.  makes it worthless to camp newbies, but the ballsy (or good) ones might be able to make some nice quick xp if they can come up with a crafty way to take out an avatar.  if you make corpses recall at death (minus their gold, which drops for the winner) it still wouldn't make sense to camp newbs, since they probably don't have enough gold to be worth killing.
 
@@ -176,7 +176,7 @@ Of course, if you're running an avatar, and don't think you'd have a chance agai
 
 </div>
 
-<div class="post" data-post-id="20096" data-author="Weasel" data-date="2007-09-03T16:54:35+00:00">
+<div class="post" data-post-id="20096" data-author="Weasel" data-date="2007-09-03T16:54:35+00:00" data-subject="">
 
 Either way Weasel, the point is plooting is against the rulez regardless. Unless the char is a pthief then thats a whole nother subject so your post is still invalid [/quote:mizhkyfn]
 
@@ -184,25 +184,25 @@ Wha? Hey, the moon is made of cheese, therefore your post is invalid..
 
 </div>
 
-<div class="post" data-post-id="20097" data-author="Mosaix" data-date="2007-09-03T16:55:28+00:00">
+<div class="post" data-post-id="20097" data-author="Mosaix" data-date="2007-09-03T16:55:28+00:00" data-subject="">
 
 Im allowed to have an opinion Mike.  If you think that makes me a pussy than thats also your opinion.  I enjoy playing Osaka for what it is.  I dont know why that has to be a negative.
 
 </div>
 
-<div class="post" data-post-id="20100" data-author="Tap" data-date="2007-09-03T17:50:38+00:00">
+<div class="post" data-post-id="20100" data-author="Tap" data-date="2007-09-03T17:50:38+00:00" data-subject="">
 
 Well...where do I start? :twisted:
 
 </div>
 
-<div class="post" data-post-id="20101" data-author="Yinao" data-date="2007-09-03T21:24:10+00:00">
+<div class="post" data-post-id="20101" data-author="Yinao" data-date="2007-09-03T21:24:10+00:00" data-subject="">
 
 Lets visit the arena Weasel then you can see im not worried about the killing newbs.  :evil:
 
 </div>
 
-<div class="post" data-post-id="20102" data-author="Weasel" data-date="2007-09-03T21:35:55+00:00">
+<div class="post" data-post-id="20102" data-author="Weasel" data-date="2007-09-03T21:35:55+00:00" data-subject="">
 
 Lets visit the arena Weasel then you can see im not worried about the killing newbs.  :evil:[/quote:1q427soq]
 
@@ -210,13 +210,13 @@ heh, thanks for proving my point.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="20103" data-author="Yinao" data-date="2007-09-03T21:38:32+00:00">
+<div class="post" data-post-id="20103" data-author="Yinao" data-date="2007-09-03T21:38:32+00:00" data-subject="">
 
 :roll: Calling yourself a newb now?
 
 </div>
 
-<div class="post" data-post-id="20104" data-author="Weasel" data-date="2007-09-03T21:47:01+00:00">
+<div class="post" data-post-id="20104" data-author="Weasel" data-date="2007-09-03T21:47:01+00:00" data-subject="">
 
 WTF is your problem now? Pull yer dick out of your mouth for a moment will ya?
 
@@ -224,13 +224,13 @@ I have already said a pvp / team vs. team area with pkilling included could be g
 
 </div>
 
-<div class="post" data-post-id="20105" data-author="Yinao" data-date="2007-09-03T21:48:16+00:00">
+<div class="post" data-post-id="20105" data-author="Yinao" data-date="2007-09-03T21:48:16+00:00" data-subject="">
 
 *Yawn*  :cry: Almost got me!
 
 </div>
 
-<div class="post" data-post-id="20106" data-author="*Splork*" data-date="2007-09-03T21:51:14+00:00">
+<div class="post" data-post-id="20106" data-author="*Splork*" data-date="2007-09-03T21:51:14+00:00" data-subject="">
 
 In all honesty, its aggressive attitudes like this which causes the admin to be very skeptical of allowing a pk continent inside of SlothMUD. And when I play and pkill  I am just as guilty as anyone.
 
@@ -240,31 +240,31 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="20107" data-author="Weasel" data-date="2007-09-03T22:00:31+00:00">
+<div class="post" data-post-id="20107" data-author="Weasel" data-date="2007-09-03T22:00:31+00:00" data-subject="">
 
 thank you.
 
 </div>
 
-<div class="post" data-post-id="20108" data-author="Yinao" data-date="2007-09-03T22:02:21+00:00">
+<div class="post" data-post-id="20108" data-author="Yinao" data-date="2007-09-03T22:02:21+00:00" data-subject="">
 
 Laugh now Weasel has won everything, till he corpses in Moria again  :wink:
 
 </div>
 
-<div class="post" data-post-id="20109" data-author="Weasel" data-date="2007-09-03T22:02:58+00:00">
+<div class="post" data-post-id="20109" data-author="Weasel" data-date="2007-09-03T22:02:58+00:00" data-subject="">
 
 LOL.. bite me  :twisted:
 
 </div>
 
-<div class="post" data-post-id="20110" data-author="Yinao" data-date="2007-09-03T22:05:50+00:00">
+<div class="post" data-post-id="20110" data-author="Yinao" data-date="2007-09-03T22:05:50+00:00" data-subject="">
 
 Game Over!  :D
 
 </div>
 
-<div class="post" data-post-id="20111" data-author="Mosaix" data-date="2007-09-03T23:22:18+00:00">
+<div class="post" data-post-id="20111" data-author="Mosaix" data-date="2007-09-03T23:22:18+00:00" data-subject="">
 
 Thank you for your post Splork.
 
@@ -272,7 +272,7 @@ Broc/Mosaix
 
 </div>
 
-<div class="post" data-post-id="20112" data-author="Autolycos" data-date="2007-09-03T23:44:41+00:00">
+<div class="post" data-post-id="20112" data-author="Autolycos" data-date="2007-09-03T23:44:41+00:00" data-subject="">
 
 i'll be here, sharpening my blade and waiting for you all inside the gates..
 
@@ -280,13 +280,13 @@ make peace with your gods.
 
 </div>
 
-<div class="post" data-post-id="20113" data-author="Yinao" data-date="2007-09-03T23:49:49+00:00">
+<div class="post" data-post-id="20113" data-author="Yinao" data-date="2007-09-03T23:49:49+00:00" data-subject="">
 
 Peace? What is this peace you speak of!? :twisted:
 
 </div>
 
-<div class="post" data-post-id="20114" data-author="Malison" data-date="2007-09-04T00:11:16+00:00">
+<div class="post" data-post-id="20114" data-author="Malison" data-date="2007-09-04T00:11:16+00:00" data-subject="">
 
 Possibly the best indicator of people's desire for something like this has been the Chaos port.  It's been extremely fun each of the times it's been opened, especially with 10-20 players instead of the 1v1 frequent in arena.  Running it in DoT once had the added benefit of heavy-hitting aggros, and I don't think anything bad was said about it.  (Also, it was no-risk for those scared of getting pthiefed etc)
 
@@ -300,7 +300,7 @@ Rather than seeing all the extra work done to put in a continent for this, I'd t
 
 </div>
 
-<div class="post" data-post-id="20116" data-author="banedon" data-date="2007-09-04T01:15:44+00:00">
+<div class="post" data-post-id="20116" data-author="banedon" data-date="2007-09-04T01:15:44+00:00" data-subject="">
 
 Jeez, gone for the weekend and all hell breaks loose.
 
@@ -312,19 +312,19 @@ P.S. --- And its not like theres any permanant loss besides some exps, would be 
 
 </div>
 
-<div class="post" data-post-id="20117" data-author="Yinao" data-date="2007-09-04T01:23:06+00:00">
+<div class="post" data-post-id="20117" data-author="Yinao" data-date="2007-09-04T01:23:06+00:00" data-subject="">
 
 *Taunt*  :wink:
 
 </div>
 
-<div class="post" data-post-id="20118" data-author="Weasel" data-date="2007-09-04T01:40:08+00:00">
+<div class="post" data-post-id="20118" data-author="Weasel" data-date="2007-09-04T01:40:08+00:00" data-subject="">
 
 9 is more than 11? who knew?  :)
 
 </div>
 
-<div class="post" data-post-id="20119" data-author="Toxis" data-date="2007-09-04T03:38:07+00:00">
+<div class="post" data-post-id="20119" data-author="Toxis" data-date="2007-09-04T03:38:07+00:00" data-subject="">
 
 I don't know why people don't go into the arena to fight, I don't see this happen very often anyway.  And if someone wants a pkill continent, where are the people stepping up to build one?  I wouldn't have a problem with a pk continent, but don't create eq and spellbooks that make people go to the continent to get it.
 
@@ -340,7 +340,7 @@ I wouldn't be against it, I'm just saying I think it would be a bad idea for slo
 
 </div>
 
-<div class="post" data-post-id="20120" data-author="13" data-date="2007-09-04T04:03:09+00:00">
+<div class="post" data-post-id="20120" data-author="13" data-date="2007-09-04T04:03:09+00:00" data-subject="">
 
 [quote:1rsura5c]And if someone wants a pkill continent, where are the people stepping up to build one? [/quote:1rsura5c]
 
@@ -354,7 +354,7 @@ players benefitted more, yet isn't that always the truth, regardless of continen
 
 </div>
 
-<div class="post" data-post-id="20121" data-author="Toxis" data-date="2007-09-04T04:08:04+00:00">
+<div class="post" data-post-id="20121" data-author="Toxis" data-date="2007-09-04T04:08:04+00:00" data-subject="">
 
 Start there and stay there, I love that idea.  I'd love to start a new char on a pkill continent....
 
@@ -366,7 +366,7 @@ Well, now that there's a builder port, why don't you ask to get it started again
 
 </div>
 
-<div class="post" data-post-id="20122" data-author="banedon" data-date="2007-09-04T05:21:24+00:00">
+<div class="post" data-post-id="20122" data-author="banedon" data-date="2007-09-04T05:21:24+00:00" data-subject="">
 
 9 is more than 11? who knew?  :)[/quote:2xitgxf7]
 
@@ -376,7 +376,7 @@ Now be nice or I'll steal your corms.   :P
 
 </div>
 
-<div class="post" data-post-id="20123" data-author="Gimlet" data-date="2007-09-04T06:54:56+00:00">
+<div class="post" data-post-id="20123" data-author="Gimlet" data-date="2007-09-04T06:54:56+00:00" data-subject="">
 
 Start there and stay there, I love that idea.  I'd love to start a new char on a pkill continent....
 
@@ -390,7 +390,7 @@ we should build a continent just for brad's characters :)
 
 </div>
 
-<div class="post" data-post-id="20124" data-author="Yinao" data-date="2007-09-04T13:22:35+00:00">
+<div class="post" data-post-id="20124" data-author="Yinao" data-date="2007-09-04T13:22:35+00:00" data-subject="">
 
 And I'll be happy to step in the arena with either Yinao the cleric or Yinao the pizza bird.[/quote:kmbicvl7]
 
@@ -398,13 +398,13 @@ If you think I pvp in piasa you may not know pvp as well as you think you do. :w
 
 </div>
 
-<div class="post" data-post-id="20125" data-author="Autolycos" data-date="2007-09-04T13:27:12+00:00">
+<div class="post" data-post-id="20125" data-author="Autolycos" data-date="2007-09-04T13:27:12+00:00" data-subject="">
 
 ferret > piasa
 
 </div>
 
-<div class="post" data-post-id="20126" data-author="Medios" data-date="2007-09-04T13:30:45+00:00">
+<div class="post" data-post-id="20126" data-author="Medios" data-date="2007-09-04T13:30:45+00:00" data-subject="">
 
 If you think I pvp in piasa you may not know pvp as well as you think you do. :wink:[/quote:ykznd5of]
 
@@ -418,13 +418,13 @@ Yinaos arena mode
 
 </div>
 
-<div class="post" data-post-id="20127" data-author="Yinao" data-date="2007-09-04T13:33:45+00:00">
+<div class="post" data-post-id="20127" data-author="Yinao" data-date="2007-09-04T13:33:45+00:00" data-subject="">
 
 *Yawn* That post was something I expected from Weasel or something maybe even Tap.
 
 </div>
 
-<div class="post" data-post-id="20128" data-author="Tap" data-date="2007-09-04T14:01:02+00:00">
+<div class="post" data-post-id="20128" data-author="Tap" data-date="2007-09-04T14:01:02+00:00" data-subject="">
 
 Bugger off! I come up with better insults in my sleep.
 
@@ -432,13 +432,13 @@ Wanker! :twisted:
 
 </div>
 
-<div class="post" data-post-id="20130" data-author="13" data-date="2007-09-04T14:09:02+00:00">
+<div class="post" data-post-id="20130" data-author="13" data-date="2007-09-04T14:09:02+00:00" data-subject="">
 
 I said either or dork.
 
 </div>
 
-<div class="post" data-post-id="20131" data-author="Alberich" data-date="2007-09-04T14:13:31+00:00">
+<div class="post" data-post-id="20131" data-author="Alberich" data-date="2007-09-04T14:13:31+00:00" data-subject="">
 
 there's a HUGE difference in 1-on-1 pvp arena-style and open PK, in areas, with mob, trigtraps, etc, where knowledge of multiple areas and tricks can trump well-written scripts.  If you've ever fought in a tourney and run on chaos port, you know the difference.  Arenas are cool, don't get me wrong, even if the people who talk the most shit tend to be the ones who wouldn't be caught dead near one, so they kinda lose their usefulness (heh, some way to force people to fight duels might be fun, at that - can't rent with a challenge upon you or something.. but I digress).
 
@@ -446,7 +446,7 @@ I agree it could in theory wind up being way more work for the imms, and there a
 
 </div>
 
-<div class="post" data-post-id="20132" data-author="Vixn" data-date="2007-09-04T15:50:34+00:00">
+<div class="post" data-post-id="20132" data-author="Vixn" data-date="2007-09-04T15:50:34+00:00" data-subject="">
 
 Just my 2cents.
 
@@ -458,7 +458,7 @@ Edd aka Kida
 
 </div>
 
-<div class="post" data-post-id="20133" data-author="13" data-date="2007-09-04T16:30:47+00:00">
+<div class="post" data-post-id="20133" data-author="13" data-date="2007-09-04T16:30:47+00:00" data-subject="">
 
 What is this about pkilling noobs?  For the last time it is ILLEGAL to pkill people on Slothmud.  I CAN do it now, almost anyone can, but you suffer repercussions.  What we want is a fast-paced dangerous zone where it is
 
@@ -468,7 +468,7 @@ and starts talking shit, you hit 'em in the lip.
 
 </div>
 
-<div class="post" data-post-id="20134" data-author="Vixn" data-date="2007-09-04T18:04:55+00:00">
+<div class="post" data-post-id="20134" data-author="Vixn" data-date="2007-09-04T18:04:55+00:00" data-subject="">
 
 You can kill me, if I don't mind :P
 
@@ -482,7 +482,7 @@ p.s. You can kill people in RL. And probably you will think it's LEGAL. All you 
 
 </div>
 
-<div class="post" data-post-id="20135" data-author="Mosaix" data-date="2007-09-04T18:21:37+00:00">
+<div class="post" data-post-id="20135" data-author="Mosaix" data-date="2007-09-04T18:21:37+00:00" data-subject="">
 
 Vixin made an excellent post, thank you.
 
@@ -504,19 +504,19 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="20136" data-author="13" data-date="2007-09-04T18:45:06+00:00">
+<div class="post" data-post-id="20136" data-author="13" data-date="2007-09-04T18:45:06+00:00" data-subject="">
 
 haha
 
 </div>
 
-<div class="post" data-post-id="20137" data-author="Alberich" data-date="2007-09-04T19:00:33+00:00">
+<div class="post" data-post-id="20137" data-author="Alberich" data-date="2007-09-04T19:00:33+00:00" data-subject="">
 
 [img:10rsb3s4]http://icanhascheezburger.files.wordpress.com/2007/09/128297510055157500mommeethebig.jpg[/img:10rsb3s4]
 
 </div>
 
-<div class="post" data-post-id="20138" data-author="Avatar" data-date="2007-09-04T19:05:52+00:00">
+<div class="post" data-post-id="20138" data-author="Avatar" data-date="2007-09-04T19:05:52+00:00" data-subject="Pkill Cont">
 
 PVP - Sure, I enjoy fighing pvp in arenas and during chaos nights.  It's fun, but it's the novelty that draws my attention.  We aren't usually rewarded or punished for winning or losing in the arena's, and players don't typically get pissed off or frustrated if they are killed on a chaos night.
 
@@ -524,7 +524,7 @@ I had a lot of discussion points to introduce, but it comes down to the fact tha
 
 </div>
 
-<div class="post" data-post-id="20140" data-author="Tap" data-date="2007-09-04T21:55:31+00:00">
+<div class="post" data-post-id="20140" data-author="Tap" data-date="2007-09-04T21:55:31+00:00" data-subject="">
 
 [quote:ms8fnhke]p.s. You can kill people in RL. And probably you will think it's LEGAL. All you have to do is just enlist in army and go to Iraq[/quote:ms8fnhke]
 
@@ -532,13 +532,13 @@ What kind of B.S. is this? Maybe I should turn myself into an illegal mexican an
 
 </div>
 
-<div class="post" data-post-id="20141" data-author="Tap" data-date="2007-09-04T22:02:47+00:00">
+<div class="post" data-post-id="20141" data-author="Tap" data-date="2007-09-04T22:02:47+00:00" data-subject="">
 
 Make that illegal alien who happens to be of Mexican persuasion. Most amigo's are actually decent people stuck in a bad situation. So not grouping those with the a$$holes who are the true criminals.
 
 </div>
 
-<div class="post" data-post-id="20143" data-author="Medios" data-date="2007-09-04T22:38:22+00:00">
+<div class="post" data-post-id="20143" data-author="Medios" data-date="2007-09-04T22:38:22+00:00" data-subject="">
 
 Someone mentioned starting on the continent never to leave.  I like this.  This way nobody can complain about a higher level char coming to kill noobs.  The main problem is that few people will want to write areas for this continent.  
 
@@ -550,25 +550,25 @@ P.S.  No reason to get so upset.
 
 </div>
 
-<div class="post" data-post-id="20144" data-author="13" data-date="2007-09-04T22:46:01+00:00">
+<div class="post" data-post-id="20144" data-author="13" data-date="2007-09-04T22:46:01+00:00" data-subject="">
 
 A lot of these folks don't have any experience with how this shit really plays out in a game.  Mike has the right of it.
 
 </div>
 
-<div class="post" data-post-id="20146" data-author="Weasel" data-date="2007-09-05T00:29:34+00:00">
+<div class="post" data-post-id="20146" data-author="Weasel" data-date="2007-09-05T00:29:34+00:00" data-subject="">
 
 So much enthusiasm is a good thing.. perhaps channel that enthusiasm into increasing the player base, and then it might be more practical to dedicate an area or even continent to pvp.  ..I'll always be anti-pthieving though.
 
 </div>
 
-<div class="post" data-post-id="20147" data-author="Tap" data-date="2007-09-05T01:42:34+00:00">
+<div class="post" data-post-id="20147" data-author="Tap" data-date="2007-09-05T01:42:34+00:00" data-subject="">
 
 Why :?:
 
 </div>
 
-<div class="post" data-post-id="20150" data-author="Mosaix" data-date="2007-09-05T04:53:30+00:00">
+<div class="post" data-post-id="20150" data-author="Mosaix" data-date="2007-09-05T04:53:30+00:00" data-subject="">
 
 When players are calling other players pussies, crybabies and loosers, what are they supposed to do?  Be happy about it?  Of course they get angry.  And over what, expressing an opinion, and writing some words. 
 
@@ -580,7 +580,7 @@ Broc
 
 </div>
 
-<div class="post" data-post-id="20151" data-author="Liar" data-date="2007-09-05T08:25:03+00:00">
+<div class="post" data-post-id="20151" data-author="Liar" data-date="2007-09-05T08:25:03+00:00" data-subject="">
 
 You people always die and get looted on hard mobs with high class eq. But still whine about pk continent, that is just bit more challenging - you can get killed by a player too.
 
@@ -592,7 +592,7 @@ Truth, greedy little teapot.
 
 </div>
 
-<div class="post" data-post-id="20154" data-author="Weasel" data-date="2007-09-05T11:49:33+00:00">
+<div class="post" data-post-id="20154" data-author="Weasel" data-date="2007-09-05T11:49:33+00:00" data-subject="">
 
 OK, please get one thing straight. I for one was against this idea not so much because of pkilling, but because of pthieving, and partly now because of the animosity it is creating. I and others have mentioned this more than once, but it keeps getting ignored and we keep getting called pussies or other infantile names. It is because of this reaction that we / I am realizing that this idea is going to create even more of the same treatment, and start taking away the enjoyment of the friendly atmosphere that has been sloth up to now.
 
@@ -606,31 +606,31 @@ Try to keep this a discussion and cut the schoolyard names. please.
 
 </div>
 
-<div class="post" data-post-id="20155" data-author="Tap" data-date="2007-09-05T11:53:43+00:00">
+<div class="post" data-post-id="20155" data-author="Tap" data-date="2007-09-05T11:53:43+00:00" data-subject="">
 
 Why :?:
 
 </div>
 
-<div class="post" data-post-id="20156" data-author="Weasel" data-date="2007-09-05T12:04:16+00:00">
+<div class="post" data-post-id="20156" data-author="Weasel" data-date="2007-09-05T12:04:16+00:00" data-subject="">
 
 why what?
 
 </div>
 
-<div class="post" data-post-id="20157" data-author="Tap" data-date="2007-09-05T12:07:02+00:00">
+<div class="post" data-post-id="20157" data-author="Tap" data-date="2007-09-05T12:07:02+00:00" data-subject="">
 
 Exactly my point. :roll:
 
 </div>
 
-<div class="post" data-post-id="20158" data-author="Weasel" data-date="2007-09-05T12:08:08+00:00">
+<div class="post" data-post-id="20158" data-author="Weasel" data-date="2007-09-05T12:08:08+00:00" data-subject="">
 
 you have no point.  :roll:
 
 </div>
 
-<div class="post" data-post-id="20159" data-author="Tap" data-date="2007-09-05T12:30:26+00:00">
+<div class="post" data-post-id="20159" data-author="Tap" data-date="2007-09-05T12:30:26+00:00" data-subject="">
 
 I'm pointing at ewe :P 
 
@@ -638,7 +638,7 @@ I'm pointing at ewe :P
 
 </div>
 
-<div class="post" data-post-id="20160" data-author="Weasel" data-date="2007-09-05T14:08:26+00:00">
+<div class="post" data-post-id="20160" data-author="Weasel" data-date="2007-09-05T14:08:26+00:00" data-subject="">
 
 heh.. yeah ok, nobody cares. 
 
@@ -646,7 +646,7 @@ Don't know why I always get sucked into these 'discussions'.
 
 </div>
 
-<div class="post" data-post-id="20161" data-author="13" data-date="2007-09-05T14:41:54+00:00">
+<div class="post" data-post-id="20161" data-author="13" data-date="2007-09-05T14:41:54+00:00" data-subject="">
 
 [quote:3js4um73]Who facking cares how I choose to play[/quote:3js4um73]
 
@@ -674,7 +674,7 @@ little.  Kind of the opposite of Blastem, whom I would love to see return.
 
 </div>
 
-<div class="post" data-post-id="20163" data-author="Weasel" data-date="2007-09-05T15:28:55+00:00">
+<div class="post" data-post-id="20163" data-author="Weasel" data-date="2007-09-05T15:28:55+00:00" data-subject="">
 
 [quote:1ldme965]Who facking cares how I choose to play[/quote:1ldme965]
 
@@ -692,7 +692,7 @@ Don't pull me back in to the 'discussion' with inflammatory comments, and maybe 
 
 </div>
 
-<div class="post" data-post-id="20164" data-author="Alberich" data-date="2007-09-05T15:46:15+00:00">
+<div class="post" data-post-id="20164" data-author="Alberich" data-date="2007-09-05T15:46:15+00:00" data-subject="">
 
 are we all reading the same thread here?  I'm confused.  No-one has suggested allowing pthieving (actually i think Weasel was the only one to bring it up) although to be fair, if you lose a fight pvp, it's not really pthieving now, is it?  I mean, you lost a fight in an area you went to voluntarily, it's not like you where lazy and got caught out with some eq in the open.  I see some people coming up with some decent suggestions (none of which involved implementing, or even suggesting, pthieves), and some people saying oh noes! a voluntary area I'd never have to set foot in, pthieves oh my!
 
@@ -700,7 +700,7 @@ It's not like we're talking about making Olympus pvp so you'd be safe anyways.
 
 </div>
 
-<div class="post" data-post-id="20165" data-author="13" data-date="2007-09-05T16:20:53+00:00">
+<div class="post" data-post-id="20165" data-author="13" data-date="2007-09-05T16:20:53+00:00" data-subject="">
 
 Weasel yer being obtuse.
 
@@ -720,7 +720,7 @@ They are supposed to quit being pussies and crybabies.  Duh.
 
 </div>
 
-<div class="post" data-post-id="20167" data-author="Mosaix" data-date="2007-09-05T16:49:08+00:00">
+<div class="post" data-post-id="20167" data-author="Mosaix" data-date="2007-09-05T16:49:08+00:00" data-subject="">
 
 I dont even know where to begin with you Aaron.
 
@@ -754,13 +754,13 @@ Broc
 
 </div>
 
-<div class="post" data-post-id="20168" data-author="Mosaix" data-date="2007-09-05T16:50:24+00:00">
+<div class="post" data-post-id="20168" data-author="Mosaix" data-date="2007-09-05T16:50:24+00:00" data-subject="">
 
 You spliced, cut, and put back together what I wrote.  Very creative.
 
 </div>
 
-<div class="post" data-post-id="20169" data-author="13" data-date="2007-09-05T17:15:49+00:00">
+<div class="post" data-post-id="20169" data-author="13" data-date="2007-09-05T17:15:49+00:00" data-subject="">
 
 No, I'm not 'known for making eq disappear from a vault'.  You must be confused.  You did not 'give' mustang back, I had to buy him back.  
 
@@ -796,19 +796,19 @@ one way or another, that's a guarantee.
 
 </div>
 
-<div class="post" data-post-id="20170" data-author="Tap" data-date="2007-09-05T17:21:51+00:00">
+<div class="post" data-post-id="20170" data-author="Tap" data-date="2007-09-05T17:21:51+00:00" data-subject="">
 
 I think Weasel is also Tap.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="20171" data-author="13" data-date="2007-09-05T17:28:03+00:00">
+<div class="post" data-post-id="20171" data-author="13" data-date="2007-09-05T17:28:03+00:00" data-subject="">
 
 Weasel is gets.
 
 </div>
 
-<div class="post" data-post-id="20172" data-author="Mosaix" data-date="2007-09-05T17:56:27+00:00">
+<div class="post" data-post-id="20172" data-author="Mosaix" data-date="2007-09-05T17:56:27+00:00" data-subject="">
 
 Geez Aaron
 
@@ -846,13 +846,13 @@ Broc
 
 </div>
 
-<div class="post" data-post-id="20173" data-author="13" data-date="2007-09-05T18:05:01+00:00">
+<div class="post" data-post-id="20173" data-author="13" data-date="2007-09-05T18:05:01+00:00" data-subject="">
 
 edited for resolution
 
 </div>
 
-<div class="post" data-post-id="20174" data-author="13" data-date="2007-09-05T18:15:32+00:00">
+<div class="post" data-post-id="20174" data-author="13" data-date="2007-09-05T18:15:32+00:00" data-subject="Grownups?">
 
 [13:05] Aa: hey crybaby whats up
 
@@ -964,7 +964,7 @@ ill chill out, if likewise blah blah
 
 </div>
 
-<div class="post" data-post-id="20175" data-author="Tap" data-date="2007-09-05T19:06:19+00:00">
+<div class="post" data-post-id="20175" data-author="Tap" data-date="2007-09-05T19:06:19+00:00" data-subject="">
 
 I hate it when you guys go off topic. 8) 
 
@@ -982,7 +982,7 @@ Not sure if any prizes would be necessary as area was fleshed out. Maybe, a boar
 
 </div>
 
-<div class="post" data-post-id="20179" data-author="Weasel" data-date="2007-09-05T20:53:32+00:00">
+<div class="post" data-post-id="20179" data-author="Weasel" data-date="2007-09-05T20:53:32+00:00" data-subject="">
 
 are we all reading the same thread here?  I'm confused.  No-one has suggested allowing pthieving (actually i think Weasel was the only one to bring it up) [/quote:1p5abgdj]
 
@@ -998,7 +998,7 @@ BWAHAHAHA! Pot, kettle, black. Some of us have not forgotten who you are Tap. BT
 
 </div>
 
-<div class="post" data-post-id="20182" data-author="13" data-date="2007-09-05T21:38:38+00:00">
+<div class="post" data-post-id="20182" data-author="13" data-date="2007-09-05T21:38:38+00:00" data-subject="">
 
 please find where someone said there would be pthieving there weasel
 
@@ -1012,25 +1012,25 @@ period
 
 </div>
 
-<div class="post" data-post-id="20183" data-author="Weasel" data-date="2007-09-05T21:46:28+00:00">
+<div class="post" data-post-id="20183" data-author="Weasel" data-date="2007-09-05T21:46:28+00:00" data-subject="">
 
 Probably was Tap, and if it's not there now then probably been edited out - I sure as sh*t ain't plowing through all that thread again just to prove a point to you, and I've had enough of this anyway - as I said, best just to not get involved and hope some prat doesn't make changes to sloth for their own benefit.
 
 </div>
 
-<div class="post" data-post-id="20184" data-author="Alberich" data-date="2007-09-05T21:47:53+00:00">
+<div class="post" data-post-id="20184" data-author="Alberich" data-date="2007-09-05T21:47:53+00:00" data-subject="">
 
 I was including the original thread in my statement.  I've been following both.  I still don't see anyone saying that pk cont should include pthieving.
 
 </div>
 
-<div class="post" data-post-id="20185" data-author="13" data-date="2007-09-05T22:02:31+00:00">
+<div class="post" data-post-id="20185" data-author="13" data-date="2007-09-05T22:02:31+00:00" data-subject="">
 
 no reason to back up what you say weasel, im sure thats how you got your degrees bud
 
 </div>
 
-<div class="post" data-post-id="20188" data-author="Tap" data-date="2007-09-05T22:21:36+00:00">
+<div class="post" data-post-id="20188" data-author="Tap" data-date="2007-09-05T22:21:36+00:00" data-subject="">
 
 [quote:3lwns5m8]Probably was Tap,[/quote:3lwns5m8]
 
@@ -1048,7 +1048,7 @@ Thinking also, area could be neg regen. Obviously, the lower levels will suffer 
 
 </div>
 
-<div class="post" data-post-id="20189" data-author="Weasel" data-date="2007-09-05T22:51:56+00:00">
+<div class="post" data-post-id="20189" data-author="Weasel" data-date="2007-09-05T22:51:56+00:00" data-subject="">
 
 no reason to back up what you say weasel, im sure thats how you got your degrees bud[/quote:12065ujp]
 
@@ -1060,7 +1060,7 @@ Sheesh what a wanker.
 
 </div>
 
-<div class="post" data-post-id="20190" data-author="Tap" data-date="2007-09-05T22:56:43+00:00">
+<div class="post" data-post-id="20190" data-author="Tap" data-date="2007-09-05T22:56:43+00:00" data-subject="">
 
 [quote:1x4onri4]Sheesh what a wanker. [/quote:1x4onri4]
 
@@ -1068,13 +1068,13 @@ Told you I was him. :twisted:
 
 </div>
 
-<div class="post" data-post-id="20194" data-author="Tap" data-date="2007-09-06T00:17:59+00:00">
+<div class="post" data-post-id="20194" data-author="Tap" data-date="2007-09-06T00:17:59+00:00" data-subject="">
 
 Quite possibly, a bunch of perm valkers would like to duel it out.
 
 </div>
 
-<div class="post" data-post-id="20196" data-author="Liar" data-date="2007-09-06T04:54:06+00:00">
+<div class="post" data-post-id="20196" data-author="Liar" data-date="2007-09-06T04:54:06+00:00" data-subject="">
 
 Just make it 5x40.
 
@@ -1082,7 +1082,7 @@ Truth, greedy little teapot.
 
 </div>
 
-<div class="post" data-post-id="20197" data-author="Akasha" data-date="2007-09-06T07:44:10+00:00">
+<div class="post" data-post-id="20197" data-author="Akasha" data-date="2007-09-06T07:44:10+00:00" data-subject="">
 
 All I can say is, how very interesting this thread has been to read up on after a few days away.  Entertaining, dramatic, I give it a daytime Emmy award for best daytime dramatic series / soap opera.
 
@@ -1092,13 +1092,13 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="20198" data-author="Tap" data-date="2007-09-06T10:52:19+00:00">
+<div class="post" data-post-id="20198" data-author="Tap" data-date="2007-09-06T10:52:19+00:00" data-subject="">
 
 You can't or you won't? :twisted:
 
 </div>
 
-<div class="post" data-post-id="20202" data-author="Deju" data-date="2007-09-06T20:19:12+00:00">
+<div class="post" data-post-id="20202" data-author="Deju" data-date="2007-09-06T20:19:12+00:00" data-subject="">
 
 I find it absolutely hysterical that you guys are arguing so viciously about something that no Immort is planning on putting in, ever.
 
@@ -1108,31 +1108,31 @@ Am I for a PK area/island or against a PK area/island?  It doesn't matter, its n
 
 </div>
 
-<div class="post" data-post-id="20203" data-author="13" data-date="2007-09-06T20:30:16+00:00">
+<div class="post" data-post-id="20203" data-author="13" data-date="2007-09-06T20:30:16+00:00" data-subject="">
 
 fuck you deju its going in !!!!
 
 </div>
 
-<div class="post" data-post-id="20205" data-author="Medios" data-date="2007-09-06T22:02:40+00:00">
+<div class="post" data-post-id="20205" data-author="Medios" data-date="2007-09-06T22:02:40+00:00" data-subject="">
 
 Do I need to call anyone else a pussy?  Or we done with round 1?
 
 </div>
 
-<div class="post" data-post-id="20206" data-author="Weasel" data-date="2007-09-06T22:18:55+00:00">
+<div class="post" data-post-id="20206" data-author="Weasel" data-date="2007-09-06T22:18:55+00:00" data-subject="">
 
 [img:276xu7sn]http://riannanworld.typepad.com/my_weblog/images/2007/05/06/lion_single.jpg[/img:276xu7sn]
 
 </div>
 
-<div class="post" data-post-id="20208" data-author="Tap" data-date="2007-09-06T23:20:05+00:00">
+<div class="post" data-post-id="20208" data-author="Tap" data-date="2007-09-06T23:20:05+00:00" data-subject="">
 
 Besides Weasel admitting he's into animal porn. All I have heard is that certain IMM's are hesitant about a pk continent/arean area. Hrm.. perhaps a third port could be opened up for those who wanted to tourney/pk.  I'm sure some are resitant for a test run, but more positives than negatives would occur in suh an area.Oh, did I mention Weasel was into animal porn? :twisted:
 
 </div>
 
-<div class="post" data-post-id="20209" data-author="Avatar" data-date="2007-09-06T23:34:55+00:00">
+<div class="post" data-post-id="20209" data-author="Avatar" data-date="2007-09-06T23:34:55+00:00" data-subject="Pkill Cont">
 
 That's an interesting conclusion that you draw.  Still, my interpretation of the poll results would indicate that the current arenas and chaos areas are sufficient.
 
@@ -1140,7 +1140,7 @@ I'm sure there are reasons noone uses the existing arenas.  If we don't understa
 
 </div>
 
-<div class="post" data-post-id="20211" data-author="Tap" data-date="2007-09-07T01:11:47+00:00">
+<div class="post" data-post-id="20211" data-author="Tap" data-date="2007-09-07T01:11:47+00:00" data-subject="">
 
 And yet another drawn conclusion :wink: 
 
@@ -1154,7 +1154,7 @@ Add 20-25+ rooms,throw in some triptraps and some wandering mid-level aggro's an
 
 </div>
 
-<div class="post" data-post-id="20230" data-author="brady" data-date="2007-09-08T16:08:27+00:00">
+<div class="post" data-post-id="20230" data-author="brady" data-date="2007-09-08T16:08:27+00:00" data-subject="">
 
 I'm pretty sure there is a DoW forum I had access to at some point.
 
@@ -1162,13 +1162,13 @@ I'm pretty sure there is a DoW forum I had access to at some point.
 
 </div>
 
-<div class="post" data-post-id="20231" data-author="Autolycos" data-date="2007-09-08T17:34:24+00:00">
+<div class="post" data-post-id="20231" data-author="Autolycos" data-date="2007-09-08T17:34:24+00:00" data-subject="">
 
 LMFAO!!   i love it... :twisted:
 
 </div>
 
-<div class="post" data-post-id="20232" data-author="13" data-date="2007-09-08T22:14:43+00:00">
+<div class="post" data-post-id="20232" data-author="13" data-date="2007-09-08T22:14:43+00:00" data-subject="">
 
 [quote:x04001oh]I'm pretty sure there is a DoW forum I had access to at some point. [/quote:x04001oh]
 

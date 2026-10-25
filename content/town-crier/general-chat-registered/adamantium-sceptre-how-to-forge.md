@@ -10,13 +10,13 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="33406" data-author="Oboe" data-date="2012-07-28T07:50:02+00:00">
+<div class="post" data-post-id="33406" data-author="Oboe" data-date="2012-07-28T07:50:02+00:00" data-subject="Adamantium Sceptre - how to forge?">
 
 Kerwin in Lirgea forges this item.  However, he does not list the components, and I failed to find a forge note or other documentation within the area to fill in the blanks.  Would someone share how the component list is revealed in-game?  Failing that, would someone share the component list itself?  Thanks.
 
 </div>
 
-<div class="post" data-post-id="33407" data-author="Cizin" data-date="2012-07-28T13:26:55+00:00">
+<div class="post" data-post-id="33407" data-author="Cizin" data-date="2012-07-28T13:26:55+00:00" data-subject="Re: Adamantium Sceptre - how to forge?">
 
 Maybe it will help  if you read room descs near by.
 
@@ -24,7 +24,7 @@ Just a thought.
 
 </div>
 
-<div class="post" data-post-id="33408" data-author="Ker" data-date="2012-07-28T20:26:41+00:00">
+<div class="post" data-post-id="33408" data-author="Ker" data-date="2012-07-28T20:26:41+00:00" data-subject="Re: Adamantium Sceptre - how to forge?">
 
 Forge list is actually part of room desc, or some tome/scroll.
 
@@ -36,7 +36,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="33409" data-author="Ker" data-date="2012-07-28T20:42:34+00:00">
+<div class="post" data-post-id="33409" data-author="Ker" data-date="2012-07-28T20:42:34+00:00" data-subject="Re: Adamantium Sceptre - how to forge?">
 
 Kerwin's Abode
 
@@ -84,7 +84,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="34040" data-author="Ker" data-date="2013-02-14T17:37:31+00:00">
+<div class="post" data-post-id="34040" data-author="Ker" data-date="2013-02-14T17:37:31+00:00" data-subject="Re: Adamantium Sceptre - how to forge?">
 
 ADAMANTIUM SCEPTRE ...
 
@@ -134,7 +134,7 @@ P.S How do we input these things into the eqlist based on forge? Can search for 
 
 </div>
 
-<div class="post" data-post-id="34042" data-author="Ker" data-date="2013-02-14T20:29:28+00:00">
+<div class="post" data-post-id="34042" data-author="Ker" data-date="2013-02-14T20:29:28+00:00" data-subject="Re: Adamantium Sceptre - how to forge?">
 
 Sorry correction, forge cost was : 6,000,050 coins according to "list" cmd at forger Kerwin.
 
@@ -164,13 +164,13 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="34059" data-author="*Pixie*" data-date="2013-02-20T19:05:50+00:00">
+<div class="post" data-post-id="34059" data-author="*Pixie*" data-date="2013-02-20T19:05:50+00:00" data-subject="Re: Adamantium Sceptre - how to forge?">
 
 there is a way for immortals to enter forge information, or from their areas, i cannot remember how to do it though.
 
 </div>
 
-<div class="post" data-post-id="34062" data-author="*Breeze*" data-date="2013-02-20T20:07:37+00:00">
+<div class="post" data-post-id="34062" data-author="*Breeze*" data-date="2013-02-20T20:07:37+00:00" data-subject="Re: Adamantium Sceptre - how to forge?">
 
 it is broke at the moment.
 

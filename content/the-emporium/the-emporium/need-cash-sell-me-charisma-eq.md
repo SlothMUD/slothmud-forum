@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="13945" data-author="*juggleblood*" data-date="2006-09-09T07:30:08+00:00">
+<div class="post" data-post-id="13945" data-author="*juggleblood*" data-date="2006-09-09T07:30:08+00:00" data-subject="Need Cash? Sell me Charisma EQ">
 
 Need cash?
 
@@ -52,7 +52,7 @@ Wonka
 
 </div>
 
-<div class="post" data-post-id="13947" data-author="Atwell" data-date="2006-09-09T07:48:15+00:00">
+<div class="post" data-post-id="13947" data-author="Atwell" data-date="2006-09-09T07:48:15+00:00" data-subject="Re: Need Cash? Sell me Charisma EQ">
 
 Silk Traveling Vest $1mil Pops in Onyx Tower AH (dunno mob)[/quote:6x5h0wbo]
 
@@ -60,7 +60,7 @@ This loads on apprentice alchemist.  There are several (4?) of these mobs; I pop
 
 </div>
 
-<div class="post" data-post-id="13958" data-author="Vixn" data-date="2006-09-11T03:47:20+00:00">
+<div class="post" data-post-id="13958" data-author="Vixn" data-date="2006-09-11T03:47:20+00:00" data-subject="Re: Need Cash? Sell me Charisma EQ">
 
 Need cash?
 
@@ -74,7 +74,7 @@ shipped
 
 </div>
 
-<div class="post" data-post-id="14009" data-author="*juggleblood*" data-date="2006-09-13T09:22:30+00:00">
+<div class="post" data-post-id="14009" data-author="*juggleblood*" data-date="2006-09-13T09:22:30+00:00" data-subject="Is Akasha Sexist?">
 
 I was dismayed to discover that a platinum waiste chain can only be worn by a female char.  :( 
 
@@ -88,7 +88,7 @@ So raspberries at whoever flagged it female only. ppphhbbbttttt
 
 </div>
 
-<div class="post" data-post-id="14011" data-author="Autolycos" data-date="2006-09-13T13:17:20+00:00">
+<div class="post" data-post-id="14011" data-author="Autolycos" data-date="2006-09-13T13:17:20+00:00" data-subject="Re: Is Akasha Sexist?">
 
 Apart from the size issue, I don't see why I can't dress Wonka in a pink headband and platinum belly chain if I want to. Trannies can be just as charismatic as anyone else, if not moreso.[/quote:tqlkyvpi]
 
@@ -98,7 +98,7 @@ Well at least you can sell it to Van/Crisi.  he can wear it.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14013" data-author="Leaf" data-date="2006-09-13T14:52:00+00:00">
+<div class="post" data-post-id="14013" data-author="Leaf" data-date="2006-09-13T14:52:00+00:00" data-subject="">
 
 Size 29in for a guy .. man I hope ur like 12 or something.  (That or a tooth
 
@@ -108,7 +108,7 @@ I had a size 34 at age 15.  But then again i was 5'10 and 160lb too ...
 
 </div>
 
-<div class="post" data-post-id="14014" data-author="Autolycos" data-date="2006-09-13T14:59:11+00:00">
+<div class="post" data-post-id="14014" data-author="Autolycos" data-date="2006-09-13T14:59:11+00:00" data-subject="">
 
 But then again i was 5'10 and 160lb too ...[/quote:zp7v9ajp]
 
@@ -120,7 +120,7 @@ well.. at least your consistant  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14015" data-author="Leaf" data-date="2006-09-13T15:03:44+00:00">
+<div class="post" data-post-id="14015" data-author="Leaf" data-date="2006-09-13T15:03:44+00:00" data-subject="">
 
 so your frumpy, dumpy and ugly?
 
@@ -138,7 +138,7 @@ but 15-16.
 
 </div>
 
-<div class="post" data-post-id="14016" data-author="Weasel" data-date="2006-09-13T15:05:29+00:00">
+<div class="post" data-post-id="14016" data-author="Weasel" data-date="2006-09-13T15:05:29+00:00" data-subject="">
 
 hmm.. I would've thought 160lb at 5'10" was fairly lean, let alone overweight.. 
 
@@ -148,7 +148,7 @@ or is Auto just stirring sh*t again
 
 </div>
 
-<div class="post" data-post-id="14017" data-author="Leaf" data-date="2006-09-13T15:36:24+00:00">
+<div class="post" data-post-id="14017" data-author="Leaf" data-date="2006-09-13T15:36:24+00:00" data-subject="">
 
 Naw it's just like Auto trying to stir something up.  But at that age I wasn't
 
@@ -162,7 +162,7 @@ I'm not 5'10 and 200 lb but i'm more muscle then fat i would have to say :)
 
 </div>
 
-<div class="post" data-post-id="14018" data-author="Diazz_Dizazter" data-date="2006-09-13T15:41:21+00:00">
+<div class="post" data-post-id="14018" data-author="Diazz_Dizazter" data-date="2006-09-13T15:41:21+00:00" data-subject="">
 
 At 16 I wore a size 32" -- 6'2"  -- 170
 
@@ -176,7 +176,7 @@ Long live the mullet!
 
 </div>
 
-<div class="post" data-post-id="14019" data-author="Autolycos" data-date="2006-09-13T16:21:33+00:00">
+<div class="post" data-post-id="14019" data-author="Autolycos" data-date="2006-09-13T16:21:33+00:00" data-subject="">
 
 Naw it's just like Auto trying to stir something up.  
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="36645" data-author="Yasik" data-date="2016-02-26T11:29:49+00:00">
+<div class="post" data-post-id="36645" data-author="Yasik" data-date="2016-02-26T11:29:49+00:00" data-subject="Entrench / Defy">
 
 Hello!
 
@@ -36,7 +36,7 @@ Thanks in advance.
 
 </div>
 
-<div class="post" data-post-id="36650" data-author="Teron" data-date="2016-02-26T23:45:29+00:00">
+<div class="post" data-post-id="36650" data-author="Teron" data-date="2016-02-26T23:45:29+00:00" data-subject="Re: Entrench / Defy">
 
 Yeah, I already ideased the end-message for entrench.
 
@@ -48,7 +48,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36662" data-author="Yasik" data-date="2016-02-28T11:05:32+00:00">
+<div class="post" data-post-id="36662" data-author="Yasik" data-date="2016-02-28T11:05:32+00:00" data-subject="Re: Entrench / Defy">
 
 Also, would be nice to have one-round lag removed so we can re-entrench instantly, just like dispel magic spell works.
 
@@ -58,7 +58,7 @@ Also, yesterday I was bashed while being totally entrenched, so I guess this ski
 
 </div>
 
-<div class="post" data-post-id="36664" data-author="*Splork*" data-date="2016-02-28T15:43:57+00:00">
+<div class="post" data-post-id="36664" data-author="*Splork*" data-date="2016-02-28T15:43:57+00:00" data-subject="Re: Entrench / Defy">
 
 This is normal behavior and we will pass on removing the lag :mrgreen:
 
@@ -66,7 +66,7 @@ The down message is a good idea though...
 
 </div>
 
-<div class="post" data-post-id="36681" data-author="*juggleblood*" data-date="2016-03-01T01:06:12+00:00">
+<div class="post" data-post-id="36681" data-author="*juggleblood*" data-date="2016-03-01T01:06:12+00:00" data-subject="Re: Entrench / Defy">
 
 > **Teron wrote:**
 > Btw, the defy cooldown is definitely not 24 hours it is said in the help. So helpfiles or the cooldown timer need to be fixed as well.
@@ -75,7 +75,7 @@ The down message is a good idea though...
 
 </div>
 
-<div class="post" data-post-id="36684" data-author="Teron" data-date="2016-03-01T14:18:30+00:00">
+<div class="post" data-post-id="36684" data-author="Teron" data-date="2016-03-01T14:18:30+00:00" data-subject="Re: Entrench / Defy">
 
 JB, technically, yes, when it comes to time, 24 game hrs = 24 minutes.
 
@@ -85,7 +85,7 @@ I've tried it many times after the timer has run, so I don't consider that it ha
 
 </div>
 
-<div class="post" data-post-id="36688" data-author="*Splork*" data-date="2016-03-01T19:53:58+00:00">
+<div class="post" data-post-id="36688" data-author="*Splork*" data-date="2016-03-01T19:53:58+00:00" data-subject="Re: Entrench / Defy">
 
 We will adjust the helpfile, the skill is plenty powerful enough :lol:
 

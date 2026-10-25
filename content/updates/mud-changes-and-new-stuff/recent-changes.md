@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2056" data-author="*Splork*" data-date="2004-09-26T18:00:46+00:00">
+<div class="post" data-post-id="2056" data-author="*Splork*" data-date="2004-09-26T18:00:46+00:00" data-subject="Recent changes">
 
 1)Score stats for a necromencer's undead control have been added.
 

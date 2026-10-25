@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="9943" data-author="jezer" data-date="2005-12-30T07:26:58+00:00">
+<div class="post" data-post-id="9943" data-author="jezer" data-date="2005-12-30T07:26:58+00:00" data-subject="Monks The Ultimate Tanks?">
 
 Been pondering my classo cause it's pretty bad. Its my first sloth character and I had no idea. At the moment my skills are pretty limited to gripping and then recalling if nothing works out. I don't have winds and bolts to finish a mob after a grip.
 
@@ -24,7 +24,7 @@ Be interested to hear your thoughts on this.
 
 </div>
 
-<div class="post" data-post-id="9945" data-author="Gnu" data-date="2005-12-30T10:49:10+00:00">
+<div class="post" data-post-id="9945" data-author="Gnu" data-date="2005-12-30T10:49:10+00:00" data-subject="">
 
 Even a hen can fly, but look at eagles and u will see what is a real Flight ;)
 
@@ -32,7 +32,7 @@ You can find your place in this MUD with any classo, if u cant solo, if u are us
 
 </div>
 
-<div class="post" data-post-id="9953" data-author="12345" data-date="2005-12-31T20:15:49+00:00">
+<div class="post" data-post-id="9953" data-author="12345" data-date="2005-12-31T20:15:49+00:00" data-subject="">
 
 My character was designed to maximize damage reduction.  Zukt's also, since he basically has my same classo with Necro instead of Cleric.  With druid quad though, I'll have to become a fairly high avatar before I see the full effects. Damage reduction saves me a few heals and has probably saved my life once or twice, but it's tough to see a difference.
 
@@ -42,7 +42,7 @@ My character still needs a lot of work, but from what I've seen monk is much mor
 
 </div>
 
-<div class="post" data-post-id="10010" data-author="Teron" data-date="2006-01-08T07:56:44+00:00">
+<div class="post" data-post-id="10010" data-author="Teron" data-date="2006-01-08T07:56:44+00:00" data-subject="wa/mo and dam reduction">
 
 Hello, Jezer
 

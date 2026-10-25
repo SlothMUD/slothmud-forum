@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13267" data-author="*Splork*" data-date="2006-07-04T16:39:28+00:00">
+<div class="post" data-post-id="13267" data-author="*Splork*" data-date="2006-07-04T16:39:28+00:00" data-subject="Monk changes">
 
 After speaking with a few other Immortals we have decided to change a few eq items that were grossly out of whack. As well as add caps to hand damage, similar to that of spell, heal, etc, so that if anymore mistakes are made with eq we are covered.
 

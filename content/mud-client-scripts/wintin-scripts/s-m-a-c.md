@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="3229" data-author="Zeizel" data-date="2004-12-08T03:47:23+00:00">
+<div class="post" data-post-id="3229" data-author="Zeizel" data-date="2004-12-08T03:47:23+00:00" data-subject="S.M.A.C.">
 
 For any fellow anglers out there, I created for myself the 'fish' and 'nofish' commands.  Simply type 'fish' to begin fishing, and 'nofish' to stop automatically fishing (you will still need to 'reelin' your current cast).
 
@@ -24,7 +24,7 @@ Hope *someone* finds it usefull, or at least fun :-P
 
 </div>
 
-<div class="post" data-post-id="3236" data-author="Zeizel" data-date="2004-12-08T15:51:55+00:00">
+<div class="post" data-post-id="3236" data-author="Zeizel" data-date="2004-12-08T15:51:55+00:00" data-subject="">
 
 I just realized that I forgot to mention my script changes the command character to '/'.  (I couldn't stand pressing '#')
 

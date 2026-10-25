@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30399" data-author="*Splork*" data-date="2009-12-02T00:16:43+00:00">
+<div class="post" data-post-id="30399" data-author="*Splork*" data-date="2009-12-02T00:16:43+00:00" data-subject="Huge area experience bonuses for the following areas:">
 
 Settlestone
 
@@ -82,7 +82,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30401" data-author="*Splork*" data-date="2009-12-02T23:29:49+00:00">
+<div class="post" data-post-id="30401" data-author="*Splork*" data-date="2009-12-02T23:29:49+00:00" data-subject="">
 
 ISLAND
 

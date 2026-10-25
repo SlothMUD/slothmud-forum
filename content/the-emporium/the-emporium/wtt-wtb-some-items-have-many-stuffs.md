@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="3593" data-author="Gul" data-date="2005-01-01T16:56:34+00:00">
+<div class="post" data-post-id="3593" data-author="Gul" data-date="2005-01-01T16:56:34+00:00" data-subject="WTT /WTB some Items (have many stuffs)">
 
 I have these stuffs for trading...
 
@@ -62,7 +62,7 @@ Gul.
 
 </div>
 
-<div class="post" data-post-id="3829" data-author="Gul" data-date="2005-01-19T05:39:05+00:00">
+<div class="post" data-post-id="3829" data-author="Gul" data-date="2005-01-19T05:39:05+00:00" data-subject="">
 
 unfortunately, I need these, too.
 
@@ -72,7 +72,7 @@ unfortunately, I need these, too.
 
 </div>
 
-<div class="post" data-post-id="3830" data-author="Mirax" data-date="2005-01-19T06:15:12+00:00">
+<div class="post" data-post-id="3830" data-author="Mirax" data-date="2005-01-19T06:15:12+00:00" data-subject="">
 
 Gul, unfortunelly i haven't any of cps you need. And don't you wish to sell some of this items? I'm very interesting in serpent skin coif, mosaic boots and runed onyx bracelets. I'll try to pay well.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30445" data-author="*Splork*" data-date="2009-12-07T21:49:24+00:00">
+<div class="post" data-post-id="30445" data-author="*Splork*" data-date="2009-12-07T21:49:24+00:00" data-subject="Death change-no longer kicked out of the game upon death">
 
 I've tweaked the corpse code slightly. For those of you who are going to corpse and either quit out or time out, you will get a few messages, be prompted to press return, and then u are back at the SlothMUD log in screen and all you will have to do is press 1 to reenter the game.
 

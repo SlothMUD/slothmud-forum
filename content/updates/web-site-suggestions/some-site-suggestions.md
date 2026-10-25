@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32002" data-author="Filk" data-date="2010-11-11T10:37:25+00:00">
+<div class="post" data-post-id="32002" data-author="Filk" data-date="2010-11-11T10:37:25+00:00" data-subject="Some site suggestions.">
 
 1.When displaying cp in eqlist, show what it is cp for. Probably with expandable block, like forge info. Should be very usefull when you found something and dont know how usefull it is.
 
@@ -24,7 +24,7 @@ Thanks for attention.
 
 </div>
 
-<div class="post" data-post-id="32232" data-author="Filk" data-date="2010-12-27T05:41:41+00:00">
+<div class="post" data-post-id="32232" data-author="Filk" data-date="2010-12-27T05:41:41+00:00" data-subject="Re: Some site suggestions.">
 
 Any news on posibility to add this please?  :roll: 
 
@@ -36,7 +36,7 @@ I can even ask, if posible, to pass database tables(eq part) backup to me, so i 
 
 </div>
 
-<div class="post" data-post-id="32238" data-author="Tuck" data-date="2010-12-29T17:12:15+00:00">
+<div class="post" data-post-id="32238" data-author="Tuck" data-date="2010-12-29T17:12:15+00:00" data-subject="Re: Some site suggestions.">
 
 <bump> for a great justice!
 

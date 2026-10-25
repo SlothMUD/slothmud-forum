@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="12438" data-author="brand" data-date="2006-05-05T23:02:20+00:00">
+<div class="post" data-post-id="12438" data-author="brand" data-date="2006-05-05T23:02:20+00:00" data-subject="forging or fuse lighting?">
 
 so today I got hustled by the dwarf artisian in moria while forging up some golden net clasps...
 
@@ -30,19 +30,19 @@ the probability is high (so was I) that this would not happen right? that and th
 
 </div>
 
-<div class="post" data-post-id="12441" data-author="Weasel" data-date="2006-05-06T04:42:48+00:00">
+<div class="post" data-post-id="12441" data-author="Weasel" data-date="2006-05-06T04:42:48+00:00" data-subject="">
 
 hmm.. or maybe there's some time-based factor.. which is something I've suspected for a while now with rerolls (as in what time of day)..
 
 </div>
 
-<div class="post" data-post-id="12450" data-author="Ditheca" data-date="2006-05-06T21:24:45+00:00">
+<div class="post" data-post-id="12450" data-author="Ditheca" data-date="2006-05-06T21:24:45+00:00" data-subject="">
 
 I blew up my first forge at artisan today, but the second one was successful. (mithril ball)
 
 </div>
 
-<div class="post" data-post-id="12481" data-author="osric" data-date="2006-05-08T19:00:19+00:00">
+<div class="post" data-post-id="12481" data-author="osric" data-date="2006-05-08T19:00:19+00:00" data-subject="">
 
 Hmm,
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3822" data-author="*Splork*" data-date="2005-01-18T16:59:17+00:00">
+<div class="post" data-post-id="3822" data-author="*Splork*" data-date="2005-01-18T16:59:17+00:00" data-subject="Auto generated gnames">
 
 Kjartan has added auto generated gnames. This means you will no longer see Annie's Unnamed Group. A very amusing feature to say the least :-)
 

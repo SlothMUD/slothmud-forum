@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="36814" data-author="Yasik" data-date="2016-04-10T15:20:06+00:00">
+<div class="post" data-post-id="36814" data-author="Yasik" data-date="2016-04-10T15:20:06+00:00" data-subject="Error at run, entry point not found">
 
 Hello!
 
@@ -22,7 +22,7 @@ Googling now
 
 </div>
 
-<div class="post" data-post-id="36821" data-author="Yasik" data-date="2016-04-13T16:52:16+00:00">
+<div class="post" data-post-id="36821" data-author="Yasik" data-date="2016-04-13T16:52:16+00:00" data-subject="Re: Error at run, entry point not found">
 
 Microsoft says this .dll can be corrupted:  [https://support.microsoft.com/en-us/kb/324762](https://support.microsoft.com/en-us/kb/324762)
 
@@ -32,19 +32,19 @@ Trying to download older version of Mudlet  "Mudlet 2.1 (Windows)" give an error
 
 </div>
 
-<div class="post" data-post-id="36822" data-author="*Breeze*" data-date="2016-04-13T18:55:47+00:00">
+<div class="post" data-post-id="36822" data-author="*Breeze*" data-date="2016-04-13T18:55:47+00:00" data-subject="Re: Error at run, entry point not found">
 
 [http://www.slothmud.org/mudlet/](http://www.slothmud.org/mudlet/)
 
 </div>
 
-<div class="post" data-post-id="36823" data-author="Yasik" data-date="2016-04-13T20:44:44+00:00">
+<div class="post" data-post-id="36823" data-author="Yasik" data-date="2016-04-13T20:44:44+00:00" data-subject="Re: Error at run, entry point not found">
 
 It worked fine, thanks.
 
 </div>
 
-<div class="post" data-post-id="36825" data-author="*Breeze*" data-date="2016-04-14T04:49:19+00:00">
+<div class="post" data-post-id="36825" data-author="*Breeze*" data-date="2016-04-14T04:49:19+00:00" data-subject="Re: Error at run, entry point not found">
 
 you are welcome
 

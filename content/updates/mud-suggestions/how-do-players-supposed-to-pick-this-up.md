@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="36296" data-author="Yasik" data-date="2015-12-11T19:57:18+00:00">
+<div class="post" data-post-id="36296" data-author="Yasik" data-date="2015-12-11T19:57:18+00:00" data-subject="How do players supposed to pick this up?">
 
 l
 
@@ -68,7 +68,7 @@ You do not see that here.
 
 </div>
 
-<div class="post" data-post-id="36297" data-author="*Breeze*" data-date="2015-12-11T21:36:12+00:00">
+<div class="post" data-post-id="36297" data-author="*Breeze*" data-date="2015-12-11T21:36:12+00:00" data-subject="Re: How do players supposed to pick this up?">
 
 turn mxp stuff on and you can click it
 
@@ -80,7 +80,7 @@ but yes it probably needs fixing.  its junk anyways
 
 </div>
 
-<div class="post" data-post-id="36298" data-author="Yasik" data-date="2015-12-11T22:39:32+00:00">
+<div class="post" data-post-id="36298" data-author="Yasik" data-date="2015-12-11T22:39:32+00:00" data-subject="Re: How do players supposed to pick this up?">
 
 I cant turn that on because:
 
@@ -108,7 +108,7 @@ This particular matter is just design not thought throught well enough.
 
 </div>
 
-<div class="post" data-post-id="36301" data-author="*Breeze*" data-date="2015-12-12T00:56:47+00:00">
+<div class="post" data-post-id="36301" data-author="*Breeze*" data-date="2015-12-12T00:56:47+00:00" data-subject="Re: How do players supposed to pick this up?">
 
 it's one useless item. 
 
@@ -122,7 +122,7 @@ ask immortal to look at you so they see item vnum then they can fix it
 
 </div>
 
-<div class="post" data-post-id="36309" data-author="*juggleblood*" data-date="2015-12-13T23:07:47+00:00">
+<div class="post" data-post-id="36309" data-author="*juggleblood*" data-date="2015-12-13T23:07:47+00:00" data-subject="Re: How do players supposed to pick this up?">
 
 Fixed. Juggleblood lives!
 
@@ -138,7 +138,7 @@ A glowing, sparkling charm of breathing glitters in midair.
 
 </div>
 
-<div class="post" data-post-id="36313" data-author="Yasik" data-date="2015-12-14T09:58:07+00:00">
+<div class="post" data-post-id="36313" data-author="Yasik" data-date="2015-12-14T09:58:07+00:00" data-subject="Re: How do players supposed to pick this up?">
 
 Well, thanks and everything, but I have an suggestion of removing the "of breathing" part.
 
@@ -158,13 +158,13 @@ Maybe good practise is to not say in descriptions that it is a charm at all, and
 
 </div>
 
-<div class="post" data-post-id="36315" data-author="*juggleblood*" data-date="2015-12-15T12:54:33+00:00">
+<div class="post" data-post-id="36315" data-author="*juggleblood*" data-date="2015-12-15T12:54:33+00:00" data-subject="Re: How do players supposed to pick this up?">
 
 I am presuming that the residents of Jord as a whole for some reason are familiar with what a breathing charm looks like. Solved.
 
 </div>
 
-<div class="post" data-post-id="36317" data-author="Yasik" data-date="2015-12-15T20:38:15+00:00">
+<div class="post" data-post-id="36317" data-author="Yasik" data-date="2015-12-15T20:38:15+00:00" data-subject="Re: How do players supposed to pick this up?">
 
 I am presuming that the resident of Godsland as a whole for some reason are familiar with what a "Save" button looks like. OR, in case of *nix (vi/vim), Esc :wq    8)  :lol: 
 
@@ -172,7 +172,7 @@ I am presuming that the resident of Godsland as a whole for some reason are fami
 
 </div>
 
-<div class="post" data-post-id="36318" data-author="*juggleblood*" data-date="2015-12-15T22:46:10+00:00">
+<div class="post" data-post-id="36318" data-author="*juggleblood*" data-date="2015-12-15T22:46:10+00:00" data-subject="Re: How do players supposed to pick this up?">
 
 When I change and save an object it doesn't change any pre-existing copies of that object. And yes I was too lazy to gather and destroy any that were laying around.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="40092" data-author="Vegetable" data-date="2024-05-25T13:20:28+00:00">
+<div class="post" data-post-id="40092" data-author="Vegetable" data-date="2024-05-25T13:20:28+00:00" data-subject="How does spell bonus work?">
 
 Hi, I recently added about 30 bonus spell bonus to my mage but see little to no difference in the damage output on my spells (including Disintegrate, Firewind & Frostbolt). 
 
@@ -20,7 +20,7 @@ For reference, my current spell bonus 217 (85 spell bonus + 132 bonus spell bonu
 
 </div>
 
-<div class="post" data-post-id="40093" data-author="Guinex" data-date="2024-05-28T01:26:09+00:00">
+<div class="post" data-post-id="40093" data-author="Guinex" data-date="2024-05-28T01:26:09+00:00" data-subject="Re: How does spell bonus work?">
 
 I think the best guess on this was that it increases you max possible spell damage.
 
@@ -30,19 +30,19 @@ spell with 100 spellbonus does 100-300 damage
 
 </div>
 
-<div class="post" data-post-id="40094" data-author="cnl" data-date="2024-05-28T21:56:34+00:00">
+<div class="post" data-post-id="40094" data-author="cnl" data-date="2024-05-28T21:56:34+00:00" data-subject="Re: How does spell bonus work?">
 
 add it to the list of things we don't quite understand. like how exactly and to what damage reduction applies to. :)
 
 </div>
 
-<div class="post" data-post-id="40095" data-author="Driven" data-date="2024-05-29T18:44:24+00:00">
+<div class="post" data-post-id="40095" data-author="Driven" data-date="2024-05-29T18:44:24+00:00" data-subject="Re: How does spell bonus work?">
 
 I'll have to look at the code to see if I see anything suspicious, but have you tried removing 30 of your base spell bonus to test whether there is some sort of functional cap being applied under the covers?  In other words, if you changed to 55 spellbonus with your 132 bonus, does your damage output remain the same?  This is the kind of thing I would experiment with.
 
 </div>
 
-<div class="post" data-post-id="40096" data-author="cnl" data-date="2024-06-11T21:25:07+00:00">
+<div class="post" data-post-id="40096" data-author="cnl" data-date="2024-06-11T21:25:07+00:00" data-subject="Re: How does spell bonus work?">
 
 it's been a while since i last looked at this closely but based on this convo i spent a lot of time testing how spellbonus works again.
 
@@ -70,7 +70,7 @@ remember that even with diminishing returns - being able to buy spellbonus is wo
 
 </div>
 
-<div class="post" data-post-id="40097" data-author="Vegetable" data-date="2024-06-12T05:23:52+00:00">
+<div class="post" data-post-id="40097" data-author="Vegetable" data-date="2024-06-12T05:23:52+00:00" data-subject="Re: How does spell bonus work?">
 
 I haven't done the testing but just want to add some minor observation that some may have already know. This is what I think is happening but correct me if I'm wrong.
 

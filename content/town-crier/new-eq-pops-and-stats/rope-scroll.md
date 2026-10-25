@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="1651" data-author="Ender" data-date="2004-08-30T06:14:29+00:00">
+<div class="post" data-post-id="1651" data-author="Ender" data-date="2004-08-30T06:14:29+00:00" data-subject="Rope scroll">
 
 Not sure what to make of this... comment welcome.
 
@@ -74,13 +74,13 @@ Any info is welcome.
 
 </div>
 
-<div class="post" data-post-id="1663" data-author="Shyla" data-date="2004-08-31T01:40:12+00:00">
+<div class="post" data-post-id="1663" data-author="Shyla" data-date="2004-08-31T01:40:12+00:00" data-subject="">
 
 If I remember correctly rope scroll is a temp scroll from lyme that creates a magic rope room when you recite it.  How it got there I have NOOOOOOOOOO idea however if memory serves me correctly if temp items are smuggled off they don't go poof until you hit recall point or possibly in town in which case that would explain why it went away.  It still doesn't explain however how it got there in the first place.  Just my 2 cents take them how you want<BR>Shyla<BR>
 
 </div>
 
-<div class="post" data-post-id="1664" data-author=".kitn" data-date="2004-08-31T03:27:25+00:00">
+<div class="post" data-post-id="1664" data-author=".kitn" data-date="2004-08-31T03:27:25+00:00" data-subject="">
 
 If I remember correctly rope scroll is a temp scroll from lyme that creates a magic rope room when you recite it.  How it got there I have NOOOOOOOOOO idea however if memory serves me correctly if temp items are smuggled off they don't go poof until you hit recall point or possibly in town in which case that would explain why it went away.  It still doesn't explain however how it got there in the first place.  Just my 2 cents take them how you want<BR>Shyla<BR>[/quote:2q8kcvuc]
 
@@ -92,7 +92,7 @@ Check out [http://sloth.eunet.lv/mobs/showmob.phtml?id=7156WF7163](http://sloth.
 
 </div>
 
-<div class="post" data-post-id="1670" data-author="Ender" data-date="2004-08-31T11:58:02+00:00">
+<div class="post" data-post-id="1670" data-author="Ender" data-date="2004-08-31T11:58:02+00:00" data-subject="">
 
 Impressive resource...
 
@@ -100,13 +100,13 @@ Thanks to both.
 
 </div>
 
-<div class="post" data-post-id="7374" data-author="tigress2" data-date="2005-06-20T16:01:43+00:00">
+<div class="post" data-post-id="7374" data-author="tigress2" data-date="2005-06-20T16:01:43+00:00" data-subject="">
 
 most likely it wasn't smuggled - it is probably on the list of random pops
 
 </div>
 
-<div class="post" data-post-id="7376" data-author="12345" data-date="2005-06-20T16:19:21+00:00">
+<div class="post" data-post-id="7376" data-author="12345" data-date="2005-06-20T16:19:21+00:00" data-subject="">
 
 Holy thread necromancy...
 

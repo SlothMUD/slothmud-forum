@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="11907" data-author="jezer" data-date="2006-04-02T03:33:19+00:00">
+<div class="post" data-post-id="11907" data-author="jezer" data-date="2006-04-02T03:33:19+00:00" data-subject="Eq Pop">
 
 Last night (my time) for a lucky few on the MUD "eqpop" was turned on for an hour. Every mob killed in that time, when reappeared, loaded the item assigned to it. It was a great night, and now that its the next day and the mad scramble to kill mobs is over, it just starts to sink in how fun the whole event actually was. I don't talk about that in the "me, me, me, I got good eq" kind of factor, but the fact that everyone in my group all pooled together and helped each other out to get one pop for each person, that they really wanted.
 
@@ -22,13 +22,13 @@ Thanks Splork and thx Krok.
 
 </div>
 
-<div class="post" data-post-id="11908" data-author="brand" data-date="2006-04-02T03:45:30+00:00">
+<div class="post" data-post-id="11908" data-author="brand" data-date="2006-04-02T03:45:30+00:00" data-subject="">
 
 i really got to stop going out on fridays :twisted:
 
 </div>
 
-<div class="post" data-post-id="11909" data-author="Krok" data-date="2006-04-02T11:15:33+00:00">
+<div class="post" data-post-id="11909" data-author="Krok" data-date="2006-04-02T11:15:33+00:00" data-subject="">
 
 I'm sorry for the deaths, but I was a bit nervous after the first crashes and I wasn't planning to be in a hurry to kill mobs for this eq hour - just wanted some little ss eq instead. Also, don't forget that we had like 3 people with mage in classo for a looong time of the quest. But anyways, those who wanted their eq - got it. 
 
@@ -38,7 +38,7 @@ Thanks Splork!
 
 </div>
 
-<div class="post" data-post-id="11938" data-author="dezakin" data-date="2006-04-03T20:09:21+00:00">
+<div class="post" data-post-id="11938" data-author="dezakin" data-date="2006-04-03T20:09:21+00:00" data-subject="">
 
 Ah, there are a couple of mobs I'd like to run on eqpop, to see if they pop anything at all.
 

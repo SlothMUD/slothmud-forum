@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="27599" data-author="Gimlet" data-date="2009-01-03T06:15:30+00:00">
+<div class="post" data-post-id="27599" data-author="Gimlet" data-date="2009-01-03T06:15:30+00:00" data-subject="Quest!">
 
 since there wasn't any xmas or new year's quest this time round, I thought it'd be nice to organize one as I've done in the past.
 

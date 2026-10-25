@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39614" data-author="cnl" data-date="2020-11-14T23:01:56+00:00">
+<div class="post" data-post-id="39614" data-author="cnl" data-date="2020-11-14T23:01:56+00:00" data-subject="Mudlet potion substituion script">
 
 I was trying to look up potions on the EQ list and found for some reason a lot of them don't list the effect.
 
@@ -26,7 +26,7 @@ I did however find a couple of wintin & other scripts on the forum that provide 
 
 </div>
 
-<div class="post" data-post-id="39623" data-author="Truck" data-date="2020-11-21T19:25:49+00:00">
+<div class="post" data-post-id="39623" data-author="Truck" data-date="2020-11-21T19:25:49+00:00" data-subject="Re: Mudlet potion substituion script">
 
 Thanks for this!
 

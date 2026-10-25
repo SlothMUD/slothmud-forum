@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="21828" data-author="Dragoth" data-date="2008-01-01T11:56:56+00:00">
+<div class="post" data-post-id="21828" data-author="Dragoth" data-date="2008-01-01T11:56:56+00:00" data-subject="A good start to a New Year !">
 
 Decided to do the Ettan vampire-slayer quest, got the garlic string yesterday, got inside the quest zone and killed the quest-giver by mistake!!  :roll: 
 
@@ -124,7 +124,7 @@ Turns out there is a shipping bug!!!! How awesome is that ?
 
 </div>
 
-<div class="post" data-post-id="21830" data-author="Vixn" data-date="2008-01-01T14:21:04+00:00">
+<div class="post" data-post-id="21830" data-author="Vixn" data-date="2008-01-01T14:21:04+00:00" data-subject="">
 
 all your stuff are belong to Pirates.
 
@@ -134,7 +134,7 @@ p.s. comfort, i hope imms will return it to you
 
 </div>
 
-<div class="post" data-post-id="21843" data-author="brady" data-date="2008-01-02T17:54:15+00:00">
+<div class="post" data-post-id="21843" data-author="brady" data-date="2008-01-02T17:54:15+00:00" data-subject="">
 
 Same thing...shipped an axe of the Greater Demon to Petunia.  Nothing to be claimed, couldn't reclaim with Brady.  Can someone take a look at this please?
 

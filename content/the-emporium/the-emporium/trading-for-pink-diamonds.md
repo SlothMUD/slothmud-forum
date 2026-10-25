@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36375" data-author="Dragoth" data-date="2015-12-26T11:16:23+00:00">
+<div class="post" data-post-id="36375" data-author="Dragoth" data-date="2015-12-26T11:16:23+00:00" data-subject="Trading for Pink Diamonds">
 
 I have :
 

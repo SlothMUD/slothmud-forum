@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29334" data-author="*Splork*" data-date="2009-06-06T20:59:25+00:00">
+<div class="post" data-post-id="29334" data-author="*Splork*" data-date="2009-06-06T20:59:25+00:00" data-subject="Holy eq update">
 
 holy ring 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="8302" data-author="Ertai" data-date="2005-08-15T03:37:09+00:00">
+<div class="post" data-post-id="8302" data-author="Ertai" data-date="2005-08-15T03:37:09+00:00" data-subject="WTB/WTT">
 
 i m looking for :
 
@@ -56,19 +56,19 @@ Coins acceptable, put i prefer trades of course
 
 </div>
 
-<div class="post" data-post-id="8303" data-author="Vixn" data-date="2005-08-15T04:28:38+00:00">
+<div class="post" data-post-id="8303" data-author="Vixn" data-date="2005-08-15T04:28:38+00:00" data-subject="">
 
 I can offer glinting shield for woolen aasan. mail me vixn@pisem.net or catch Edd on-line if you are interesting. sure i'll buy dskin bracelet and flicker of flame if you'll sell it.
 
 </div>
 
-<div class="post" data-post-id="8304" data-author="13" data-date="2005-08-15T14:05:37+00:00">
+<div class="post" data-post-id="8304" data-author="13" data-date="2005-08-15T14:05:37+00:00" data-subject="">
 
 aasan for glinting ? chuckle
 
 </div>
 
-<div class="post" data-post-id="8312" data-author="Vixn" data-date="2005-08-16T03:47:27+00:00">
+<div class="post" data-post-id="8312" data-author="Vixn" data-date="2005-08-16T03:47:27+00:00" data-subject="">
 
 Hmm. Nod, i agree with Aa. This wonderful shining shield made from whole silver bar costs even more than woolen aasan, but my offer is still valid.
 
@@ -76,7 +76,7 @@ Or another variant - glinting shield and almost 4 mln GOLD coins for dskin brace
 
 </div>
 
-<div class="post" data-post-id="8313" data-author="Ertai" data-date="2005-08-16T06:08:40+00:00">
+<div class="post" data-post-id="8313" data-author="Ertai" data-date="2005-08-16T06:08:40+00:00" data-subject="">
 
 Okay here comes updates to my list:
 

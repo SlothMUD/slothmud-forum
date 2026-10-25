@@ -10,7 +10,7 @@ locked: false
 post_count: 24
 ---
 
-<div class="post" data-post-id="16996" data-author="Chasm" data-date="2007-02-19T01:32:39+00:00">
+<div class="post" data-post-id="16996" data-author="Chasm" data-date="2007-02-19T01:32:39+00:00" data-subject="Who do we appreciate?">
 
 Just thought it would be nice to throw out a topic of appreciation to those who help others all over the lands of Sloth.  Most of us do not go looking for the love but it still feels nice every once in a while.  Please follow up with anyone you'd like to say thanks to.  
 
@@ -20,25 +20,25 @@ Smile and be happy :)
 
 </div>
 
-<div class="post" data-post-id="16998" data-author="Lone" data-date="2007-02-19T14:16:07+00:00">
+<div class="post" data-post-id="16998" data-author="Lone" data-date="2007-02-19T14:16:07+00:00" data-subject="">
 
 Exx: for the tokens, exp, eq and help he gave me yesterday.
 
 </div>
 
-<div class="post" data-post-id="16999" data-author="Marchessa_red_witch" data-date="2007-02-19T14:54:40+00:00">
+<div class="post" data-post-id="16999" data-author="Marchessa_red_witch" data-date="2007-02-19T14:54:40+00:00" data-subject="The Immorts">
 
 The mud is easily the best it has ever been.
 
 </div>
 
-<div class="post" data-post-id="17000" data-author="Marchessa_red_witch" data-date="2007-02-19T14:57:52+00:00">
+<div class="post" data-post-id="17000" data-author="Marchessa_red_witch" data-date="2007-02-19T14:57:52+00:00" data-subject="The relocating raisers">
 
 Without whome we'd all be getting lots more shock therapy for our mud addiction.
 
 </div>
 
-<div class="post" data-post-id="17003" data-author="brand" data-date="2007-02-19T16:39:09+00:00">
+<div class="post" data-post-id="17003" data-author="brand" data-date="2007-02-19T16:39:09+00:00" data-subject="">
 
 hmm, i have these badges here that say i am animal hero rank 1 and rank 2.
 
@@ -46,7 +46,7 @@ can't remember who gave them to me. must have been someone who was very grateful
 
 </div>
 
-<div class="post" data-post-id="17005" data-author="12345" data-date="2007-02-19T17:36:44+00:00">
+<div class="post" data-post-id="17005" data-author="12345" data-date="2007-02-19T17:36:44+00:00" data-subject="">
 
 According to my Brand-to-English Dictionary:
 
@@ -56,7 +56,7 @@ I appreciate all the wonderful folks in DS, the people that let me follow them w
 
 </div>
 
-<div class="post" data-post-id="17006" data-author="resouh" data-date="2007-02-19T17:45:24+00:00">
+<div class="post" data-post-id="17006" data-author="resouh" data-date="2007-02-19T17:45:24+00:00" data-subject="">
 
 My quick and dirty honorable mention list.....
 
@@ -76,7 +76,7 @@ Yinao - For showing that the gay community does have a presence on sloth.
 
 </div>
 
-<div class="post" data-post-id="17009" data-author="Yinao" data-date="2007-02-19T19:32:12+00:00">
+<div class="post" data-post-id="17009" data-author="Yinao" data-date="2007-02-19T19:32:12+00:00" data-subject="">
 
 I will admit that i got a bad habbit of calling people gay as a insult or a bad comment etc but truthfully irl i got no problem with gays. Here lies my policy:
 
@@ -90,7 +90,7 @@ bring on the pain :twisted:  :twisted:  :twisted:
 
 </div>
 
-<div class="post" data-post-id="17010" data-author="Yinao" data-date="2007-02-19T19:45:35+00:00">
+<div class="post" data-post-id="17010" data-author="Yinao" data-date="2007-02-19T19:45:35+00:00" data-subject="">
 
 Anywho i guess i can throw out my shoutouts and thanks too while i am here. 
 
@@ -110,7 +110,7 @@ Bring on the Pain :twisted:  :twisted:  :twisted:
 
 </div>
 
-<div class="post" data-post-id="17011" data-author="Medios" data-date="2007-02-19T20:23:47+00:00">
+<div class="post" data-post-id="17011" data-author="Medios" data-date="2007-02-19T20:23:47+00:00" data-subject="">
 
 Don't confuse appreciation with survival.  If your kissing ass thats another thing.  
 
@@ -120,7 +120,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17012" data-author="resouh" data-date="2007-02-19T22:37:02+00:00">
+<div class="post" data-post-id="17012" data-author="resouh" data-date="2007-02-19T22:37:02+00:00" data-subject="">
 
 [i:2niich0k]This response is not intended as a personal slight against anyone blah blah blah[/i:2niich0k] My reason for posting on this thread is the fact that it is one of the few positive threads I have seen on the crier.  I'm a firm believer that regardless of level, how you act on the net still reflects on you as an individual irl.  I do appreciate the people I mentioned, the last couple were smart-a$$ comments since I have a hard time staying serious for more than 30 seconds straight, but I still appreciate auto and yinao and the elements they bring to the mud.  I am in no way a crier junkie, post prob an average of once every 3-4 months but saw this and thought 'hmmm......an opportunity to show people that they are noticed' so went w/ it.
 
@@ -128,19 +128,19 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="17013" data-author="Hades" data-date="2007-02-20T00:37:12+00:00">
+<div class="post" data-post-id="17013" data-author="Hades" data-date="2007-02-20T00:37:12+00:00" data-subject="We appreciate who?">
 
 Get a room already :roll:
 
 </div>
 
-<div class="post" data-post-id="17022" data-author="tincts" data-date="2007-02-20T09:28:40+00:00">
+<div class="post" data-post-id="17022" data-author="tincts" data-date="2007-02-20T09:28:40+00:00" data-subject="">
 
 I'd like to take the chance to thank Tinct.  Man, that guy will bend over backwards for anyone who needs it.  Any tiime I need cash he's given it to me without expecting a reward.  Also, he's a very good looking young man.  Peace out Tinct bro.  Love ya man.
 
 </div>
 
-<div class="post" data-post-id="17023" data-author="firebrand" data-date="2007-02-20T13:11:26+00:00">
+<div class="post" data-post-id="17023" data-author="firebrand" data-date="2007-02-20T13:11:26+00:00" data-subject="">
 
 i'd like to thank: 
 
@@ -174,7 +174,7 @@ and thx imms and admin for supporting our mud habit and paying the rl coinage to
 
 </div>
 
-<div class="post" data-post-id="17035" data-author="Rodek" data-date="2007-02-20T22:52:41+00:00">
+<div class="post" data-post-id="17035" data-author="Rodek" data-date="2007-02-20T22:52:41+00:00" data-subject="">
 
 I apreciate everybody who plays, except botters...I dont like those ;)
 
@@ -196,7 +196,7 @@ and tons more, but thats all I got time for right now.
 
 </div>
 
-<div class="post" data-post-id="17041" data-author="13" data-date="2007-02-21T14:03:44+00:00">
+<div class="post" data-post-id="17041" data-author="13" data-date="2007-02-21T14:03:44+00:00" data-subject="">
 
 I would like to say that I appreciate the fact that Balrog actually plays this mud with mortal characters.  That really helps an Imm appreciate the depth of the changes that are implemented and also helps gauge how high the general populace's frustration level will be, and whether it's warranted or just whining.
 
@@ -204,13 +204,13 @@ Go Erik.
 
 </div>
 
-<div class="post" data-post-id="17042" data-author="alias" data-date="2007-02-21T14:45:16+00:00">
+<div class="post" data-post-id="17042" data-author="alias" data-date="2007-02-21T14:45:16+00:00" data-subject="">
 
 A special thanx to everyone that makes this game fun. Which is pretty much everyone. (yes even Poit)
 
 </div>
 
-<div class="post" data-post-id="17046" data-author="Toxis" data-date="2007-02-21T23:56:26+00:00">
+<div class="post" data-post-id="17046" data-author="Toxis" data-date="2007-02-21T23:56:26+00:00" data-subject="">
 
 I want to thank the countless people who have ever helped me do anything on this mud, especially all my DoW members.  There's a lot of cool people on here, you know who you are, and there's so many to list I would hate to leave anyone out.
 
@@ -228,7 +228,7 @@ It ain't easy, being cheesy :)~
 
 </div>
 
-<div class="post" data-post-id="17049" data-author="Tysmiha" data-date="2007-02-22T00:50:44+00:00">
+<div class="post" data-post-id="17049" data-author="Tysmiha" data-date="2007-02-22T00:50:44+00:00" data-subject="Thank you!">
 
 There are truly a ton of people that I am thankful for in the Sloth community. I'll do my best here by limiting myself.
 
@@ -248,7 +248,7 @@ There are truly a ton of people that I am thankful for in the Sloth community. I
 
 </div>
 
-<div class="post" data-post-id="17065" data-author="Akasha" data-date="2007-02-22T23:47:19+00:00">
+<div class="post" data-post-id="17065" data-author="Akasha" data-date="2007-02-22T23:47:19+00:00" data-subject="">
 
 Wow, noone thanks Jake?  Jeesh, you should all thank the guy who makes sure that the game you love (or love to hate) is there when you click LoGiN.
 
@@ -256,13 +256,13 @@ That's not just sucking up either  :P Seeing as how I have nothing to gain in do
 
 </div>
 
-<div class="post" data-post-id="17066" data-author="Akasha" data-date="2007-02-22T23:49:35+00:00">
+<div class="post" data-post-id="17066" data-author="Akasha" data-date="2007-02-22T23:49:35+00:00" data-subject="">
 
 Oh, and you should also take a moment to show appreciation to Splork too for getting up at 4am when the mud crashes to reboot it for you addicts :P
 
 </div>
 
-<div class="post" data-post-id="17067" data-author="Autolycos" data-date="2007-02-23T01:41:13+00:00">
+<div class="post" data-post-id="17067" data-author="Autolycos" data-date="2007-02-23T01:41:13+00:00" data-subject="">
 
 Oh, and you should also take a moment to show appreciation to Splork too for getting up at 4am when the mud crashes to reboot it for you addicts :P[/quote:2xrps5oc]
 
@@ -276,13 +276,13 @@ Splork....  The Matrix has you.....
 
 </div>
 
-<div class="post" data-post-id="17100" data-author="Morkeleb" data-date="2007-02-25T03:50:41+00:00">
+<div class="post" data-post-id="17100" data-author="Morkeleb" data-date="2007-02-25T03:50:41+00:00" data-subject="">
 
 I appreciate anyone who remembers who I was.  Who I am now is yet to be decided, as some of you may have noticed with my latest character name choice. ;)  Hello all!  Long time no mud!
 
 </div>
 
-<div class="post" data-post-id="17104" data-author="Yasik" data-date="2007-02-25T08:23:48+00:00">
+<div class="post" data-post-id="17104" data-author="Yasik" data-date="2007-02-25T08:23:48+00:00" data-subject="">
 
 I appreciate Splork not to wipe/delev me again a week ago when i got drunk and was messin up w/ players  :D  :twisted:
 

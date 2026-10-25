@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="10050" data-author="Axtrel" data-date="2006-01-10T15:22:14+00:00">
+<div class="post" data-post-id="10050" data-author="Axtrel" data-date="2006-01-10T15:22:14+00:00" data-subject="Congrats to Nab">
 
 Got to love it...
 
@@ -18,13 +18,13 @@ Got to love it...
 
 </div>
 
-<div class="post" data-post-id="10052" data-author="12345" data-date="2006-01-10T15:42:53+00:00">
+<div class="post" data-post-id="10052" data-author="12345" data-date="2006-01-10T15:42:53+00:00" data-subject="">
 
 Heh, about time.  Congrats!  :D
 
 </div>
 
-<div class="post" data-post-id="10053" data-author="blackmore" data-date="2006-01-10T16:24:11+00:00">
+<div class="post" data-post-id="10053" data-author="blackmore" data-date="2006-01-10T16:24:11+00:00" data-subject="">
 
 That's awesome.  Monk was the last class to have no 5x40 prime.  Now to get a character with every classo to 5x40 (there's 1680 combinations possible, there can't be many more than 1630 left).
 

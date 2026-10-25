@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="17184" data-author="Rosher" data-date="2007-03-06T07:52:23+00:00">
+<div class="post" data-post-id="17184" data-author="Rosher" data-date="2007-03-06T07:52:23+00:00" data-subject="Blasting/debuffing and target setting">
 
 The main point of this script is to set target at the same as you cast sometihng on your victim. Of course if there is a target set by the leader you can use it as usual. Here is an example:
 
@@ -80,7 +80,7 @@ So it is easy to extend this set with additional aliases... I tried to cover all
 
 </div>
 
-<div class="post" data-post-id="17186" data-author="13" data-date="2007-03-06T12:55:48+00:00">
+<div class="post" data-post-id="17186" data-author="13" data-date="2007-03-06T12:55:48+00:00" data-subject="">
 
 That's a lot of work for 
 
@@ -88,13 +88,13 @@ That's a lot of work for
 
 </div>
 
-<div class="post" data-post-id="17187" data-author="Krok" data-date="2007-03-06T19:03:10+00:00">
+<div class="post" data-post-id="17187" data-author="Krok" data-date="2007-03-06T19:03:10+00:00" data-subject="">
 
 I even enjoyed it when I had to add 'frt' to my client's profile :)
 
 </div>
 
-<div class="post" data-post-id="17188" data-author="Medios" data-date="2007-03-06T22:02:55+00:00">
+<div class="post" data-post-id="17188" data-author="Medios" data-date="2007-03-06T22:02:55+00:00" data-subject="">
 
 When is someone going to write a script that does everything including respond to imms when they question whether im botting.  It would be alot easier if I didnt have to interact with sloth at all.  I mean really I could level to 5x40 and not know a single thing.  I could gate the inn from recall point.  Ask stupid questions like "where is the sun temple".  I could also let someone else pop all my spellbooks and teach them to me without even knowing im not there.  Someone needs to work on this.
 
@@ -102,19 +102,19 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17189" data-author="Autolycos" data-date="2007-03-06T22:11:32+00:00">
+<div class="post" data-post-id="17189" data-author="Autolycos" data-date="2007-03-06T22:11:32+00:00" data-subject="">
 
 i thought aaron already did that?
 
 </div>
 
-<div class="post" data-post-id="17190" data-author="13" data-date="2007-03-06T22:15:44+00:00">
+<div class="post" data-post-id="17190" data-author="13" data-date="2007-03-06T22:15:44+00:00" data-subject="">
 
 That was Sarge.  I'm the guy that kills people, remember?
 
 </div>
 
-<div class="post" data-post-id="17191" data-author="Autolycos" data-date="2007-03-07T00:19:30+00:00">
+<div class="post" data-post-id="17191" data-author="Autolycos" data-date="2007-03-07T00:19:30+00:00" data-subject="">
 
 riiiiiight....
 
@@ -122,13 +122,13 @@ didnt sarge have his head replaced with a melon? :shock:
 
 </div>
 
-<div class="post" data-post-id="17195" data-author="13" data-date="2007-03-07T13:14:17+00:00">
+<div class="post" data-post-id="17195" data-author="13" data-date="2007-03-07T13:14:17+00:00" data-subject="">
 
 [img:1mjnh3k1]http://www.ritasretros.com/folgers.jpg[/img:1mjnh3k1]
 
 </div>
 
-<div class="post" data-post-id="17216" data-author="Avatar" data-date="2007-03-08T06:27:30+00:00">
+<div class="post" data-post-id="17216" data-author="Avatar" data-date="2007-03-08T06:27:30+00:00" data-subject="aliases">
 
 I think you guys are going a little overboard.  All he did was post an alias that sets your target variable when you blast a new mob.  That's most likely to be useful when soloing, not grouping.  My client is setup similarly, so I can use 'look target' later in the fight and the client remembers what the target was.
 
@@ -136,7 +136,7 @@ It's a good script, one command usable in different situations.
 
 </div>
 
-<div class="post" data-post-id="17230" data-author="*juggleblood*" data-date="2007-03-09T12:57:58+00:00">
+<div class="post" data-post-id="17230" data-author="*juggleblood*" data-date="2007-03-09T12:57:58+00:00" data-subject="">
 
 When is someone going to write a script that does everything.........  It would be alot easier if I didnt have to interact with sloth at all..........level to 5x40 and not know a single thing...............Ask stupid questions like "where is the sun temple".....blah blah blah.....stupid noobs...blah blah blah....lazy botters...blah blah blah .....
 
@@ -146,13 +146,13 @@ Mania/Bipolar Disorder: Bipolar disorder is marked by mood swings between period
 
 </div>
 
-<div class="post" data-post-id="17231" data-author="*juggleblood*" data-date="2007-03-09T13:14:04+00:00">
+<div class="post" data-post-id="17231" data-author="*juggleblood*" data-date="2007-03-09T13:14:04+00:00" data-subject="">
 
 [img:gqglqapd]http://www.geocities.com/saudixpat/Lithium.jpg[/img:gqglqapd]
 
 </div>
 
-<div class="post" data-post-id="17235" data-author="Medios" data-date="2007-03-09T22:06:42+00:00">
+<div class="post" data-post-id="17235" data-author="Medios" data-date="2007-03-09T22:06:42+00:00" data-subject="">
 
 Feelings of importance:  This shit cracks me up.  I guess by this definition its safe to say that if you feel important your mentally unstable.  No wonder everyone is on pills.  "I feel good about myself Doc".  Here these pills will make that go away!  There is absolutely nothing wrong with self worth.
 
@@ -170,7 +170,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17236" data-author="Autolycos" data-date="2007-03-09T22:36:56+00:00">
+<div class="post" data-post-id="17236" data-author="Autolycos" data-date="2007-03-09T22:36:56+00:00" data-subject="">
 
 You talk about extreme highs and lows, hell I thought you knew me better than that.  You make it sound like im not this way all the time.  I was trying to be sarcastic about the welfare state of sloth. [/quote:1p4s08bo]
 
@@ -184,7 +184,7 @@ My autostabber was dangerous.. always stabbing random keywords... i'm just thank
 
 </div>
 
-<div class="post" data-post-id="17237" data-author="Hades" data-date="2007-03-10T00:17:21+00:00">
+<div class="post" data-post-id="17237" data-author="Hades" data-date="2007-03-10T00:17:21+00:00" data-subject="Target blah blah blah">
 
 a simple trigger to autoassist $tank and/or leader AFTER someone else has blinded it works out pretty good.... no mindless spam and you can sit back and surf the net while some dweeb (read: Medios) sits on his high horse and 
 
@@ -196,7 +196,7 @@ ps- I hate Auto
 
 </div>
 
-<div class="post" data-post-id="17238" data-author="Autolycos" data-date="2007-03-10T00:38:56+00:00">
+<div class="post" data-post-id="17238" data-author="Autolycos" data-date="2007-03-10T00:38:56+00:00" data-subject="Re: Target blah blah blah">
 
 Zmud/Wintin are/were designed for this for a reason.
 
@@ -212,7 +212,7 @@ ps.  kisses hades :x
 
 </div>
 
-<div class="post" data-post-id="17239" data-author="12345" data-date="2007-03-10T02:03:21+00:00">
+<div class="post" data-post-id="17239" data-author="12345" data-date="2007-03-10T02:03:21+00:00" data-subject="">
 
 There's nothing wrong with the script necessarily, in fact, its very nice for running solo.  The weakness of the script the same risk that anyone assumes when they don't use the target set by the leader.  Risky? Sure.  Unreasonable? Not if properly used.  Assuming they never use the re-targetting feature while grouped, its a non-issue.
 
@@ -220,7 +220,7 @@ That's a little idealist and unrealistic, but at least give folks a chance to pr
 
 </div>
 
-<div class="post" data-post-id="17240" data-author="Avatar" data-date="2007-03-10T20:18:27+00:00">
+<div class="post" data-post-id="17240" data-author="Avatar" data-date="2007-03-10T20:18:27+00:00" data-subject="script">
 
 People who understand what the script does in the first place would have enough sense to use it correctly.
 

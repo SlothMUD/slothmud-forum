@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="30993" data-author="angel" data-date="2010-03-25T02:31:30+00:00">
+<div class="post" data-post-id="30993" data-author="angel" data-date="2010-03-25T02:31:30+00:00" data-subject="fun stuff">
 
 You receive 557019 experience points as your share.
 
@@ -42,7 +42,7 @@ do look into it
 
 </div>
 
-<div class="post" data-post-id="30994" data-author="angel" data-date="2010-03-25T02:33:16+00:00">
+<div class="post" data-post-id="30994" data-author="angel" data-date="2010-03-25T02:33:16+00:00" data-subject="">
 
 here's more
 
@@ -90,7 +90,7 @@ Total exp for kill is 2450940.
 
 </div>
 
-<div class="post" data-post-id="30996" data-author="*Splork*" data-date="2010-03-25T02:44:18+00:00">
+<div class="post" data-post-id="30996" data-author="*Splork*" data-date="2010-03-25T02:44:18+00:00" data-subject="">
 
 This happens when one player's kill history is effecting them with the particular mobs more so than another player.
 
@@ -98,19 +98,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31041" data-author="Bazilus" data-date="2010-04-09T13:53:25+00:00">
+<div class="post" data-post-id="31041" data-author="Bazilus" data-date="2010-04-09T13:53:25+00:00" data-subject="">
 
 Hehe, Tuk drags! Hey Sa, how are you? :P
 
 </div>
 
-<div class="post" data-post-id="31043" data-author="angel" data-date="2010-04-09T16:21:56+00:00">
+<div class="post" data-post-id="31043" data-author="angel" data-date="2010-04-09T16:21:56+00:00" data-subject="">
 
 hi bazi,comin back?
 
 </div>
 
-<div class="post" data-post-id="31045" data-author="Tuck" data-date="2010-04-10T22:12:40+00:00">
+<div class="post" data-post-id="31045" data-author="Tuck" data-date="2010-04-10T22:12:40+00:00" data-subject="">
 
 Hehe, Tuk drags! Hey Sa, how are you? :P[/quote:l22p8bov]
 

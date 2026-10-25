@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="30092" data-author="sirrico1" data-date="2009-10-10T01:01:56+00:00">
+<div class="post" data-post-id="30092" data-author="sirrico1" data-date="2009-10-10T01:01:56+00:00" data-subject="thanks to all you bots">
 
 I want to thank all you bots who refuse to answer a call for help even during far gate times. thanks a ton for nothing at all.
 
@@ -18,7 +18,7 @@ I want to thank blackmore polk Doc joesmoe hounds jynx and un  for coming to hel
 
 </div>
 
-<div class="post" data-post-id="30096" data-author="jezer" data-date="2009-10-11T02:34:25+00:00">
+<div class="post" data-post-id="30096" data-author="jezer" data-date="2009-10-11T02:34:25+00:00" data-subject="">
 
 [img:30eo76x9]http://www.ducey.com/Graphics/GroLogo.gif[/img:30eo76x9]
 
@@ -26,13 +26,13 @@ Getting rescued is a privilege not a right.
 
 </div>
 
-<div class="post" data-post-id="30097" data-author="*juggleblood*" data-date="2009-10-11T03:48:59+00:00">
+<div class="post" data-post-id="30097" data-author="*juggleblood*" data-date="2009-10-11T03:48:59+00:00" data-subject="">
 
 [img:26k99eu6]http://www.inquisitr.com/wp-content/cry-baby.jpg[/img:26k99eu6]
 
 </div>
 
-<div class="post" data-post-id="30098" data-author="Kanae" data-date="2009-10-11T14:56:36+00:00">
+<div class="post" data-post-id="30098" data-author="Kanae" data-date="2009-10-11T14:56:36+00:00" data-subject="">
 
 Being rescued may be a privilege. But to be ignored on gossip, told oh sorry was afk.. fine, whatever.. but if your going to do that then vision, send a tell about something not related to the person trying to retrieve corpse and items.. have them get even madder and comment on gossip about leaving them alone they are 'naked and pissed' you best not start flaming gossip with  oh where i wanna see comments. 
 
@@ -46,7 +46,7 @@ Don't worry..this bard won't be asking for rescue help on gossip anytime soon no
 
 </div>
 
-<div class="post" data-post-id="30099" data-author="sirrico1" data-date="2009-10-11T15:39:05+00:00">
+<div class="post" data-post-id="30099" data-author="sirrico1" data-date="2009-10-11T15:39:05+00:00" data-subject="">
 
 [img:3d2j6mot]http://www.inquisitr.com/wp-content/cry-baby.jpg[/img:3d2j6mot][/quote:3d2j6mot]
 
@@ -54,7 +54,7 @@ why an immort is aloud to flame I have no idea, large lack of professionalism. r
 
 </div>
 
-<div class="post" data-post-id="30100" data-author="jezer" data-date="2009-10-11T19:20:17+00:00">
+<div class="post" data-post-id="30100" data-author="jezer" data-date="2009-10-11T19:20:17+00:00" data-subject="">
 
 You should treat others as you wish to be treated. Sometimes people make choices that you don't like - but are in your best interests. These are the friends you need... not necessary the ones you like. Juggleblood just wrote what 95% of what people probably thought... so how is he really any different? Yet you wish to point him out?
 
@@ -74,7 +74,7 @@ Play for a while with those who have a mutual understanding that what ever they 
 
 </div>
 
-<div class="post" data-post-id="30102" data-author="sirrico1" data-date="2009-10-11T22:55:46+00:00">
+<div class="post" data-post-id="30102" data-author="sirrico1" data-date="2009-10-11T22:55:46+00:00" data-subject="">
 
 You should treat others as you wish to be treated. Sometimes people make choices that you don't like - but are in your best interests. These are the friends you need... not necessary the ones you like. Juggleblood just wrote what 95% of what people probably thought... so how is he really any different? Yet you wish to point him out?
 
@@ -96,7 +96,7 @@ Jeezer I don't know about your country but in mine when a supervisor  does somet
 
 </div>
 
-<div class="post" data-post-id="30103" data-author="jezer" data-date="2009-10-11T23:10:36+00:00">
+<div class="post" data-post-id="30103" data-author="jezer" data-date="2009-10-11T23:10:36+00:00" data-subject="">
 
 "All that's necessary for evil to thrive is that good folk do nothing."
 
@@ -104,7 +104,7 @@ You were wrong to have a shot at everyone who didn't kiss your butt after your u
 
 </div>
 
-<div class="post" data-post-id="30104" data-author="sirrico1" data-date="2009-10-11T23:33:06+00:00">
+<div class="post" data-post-id="30104" data-author="sirrico1" data-date="2009-10-11T23:33:06+00:00" data-subject="">
 
 "All that's necessary for evil to thrive is that good folk do nothing."
 
@@ -114,7 +114,7 @@ You were wrong to have a shot at everyone who didn't kiss your butt after your u
 
 </div>
 
-<div class="post" data-post-id="30106" data-author="Thraxas" data-date="2009-10-12T08:36:05+00:00">
+<div class="post" data-post-id="30106" data-author="Thraxas" data-date="2009-10-12T08:36:05+00:00" data-subject="">
 
 Juggleblood just wrote what 95% of what people probably thought... 
 
@@ -124,7 +124,7 @@ agreed
 
 </div>
 
-<div class="post" data-post-id="30118" data-author="Medios" data-date="2009-10-16T20:37:44+00:00">
+<div class="post" data-post-id="30118" data-author="Medios" data-date="2009-10-16T20:37:44+00:00" data-subject="">
 
 I'm not happy to see its the same old mud.  :(
 
@@ -140,13 +140,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="30120" data-author="Tap" data-date="2009-10-18T05:53:03+00:00">
+<div class="post" data-post-id="30120" data-author="Tap" data-date="2009-10-18T05:53:03+00:00" data-subject="">
 
 I love you Mike
 
 </div>
 
-<div class="post" data-post-id="30123" data-author="*juggleblood*" data-date="2009-10-18T15:26:37+00:00">
+<div class="post" data-post-id="30123" data-author="*juggleblood*" data-date="2009-10-18T15:26:37+00:00" data-subject="">
 
 Jeezer I don't know about your country but in mine when a supervisor  does something similar to flaming on this forum such as juggle did it is grounds to fire that supervisor. and as for my comments on this forum, I feel I am justified and if there was a program that sniffed out bots 98% of sloth would be pointed at. so if you don't like my comments on here, do like the rest of the ppl have minus the 2 who want to flame me and ignore it.[/quote:p8c3u0wj]
 
@@ -158,7 +158,7 @@ When I corpse I blame myself, for not establishing a contingency plan. When you 
 
 </div>
 
-<div class="post" data-post-id="30125" data-author="Mosaix" data-date="2009-10-18T22:55:31+00:00">
+<div class="post" data-post-id="30125" data-author="Mosaix" data-date="2009-10-18T22:55:31+00:00" data-subject="">
 
 I am happy Juggleblood takes the time to fix sloth, when his time is most likely better spent.
 
@@ -168,7 +168,7 @@ For Fu*ks sake have fun or something, chill out and play the text-mud game.
 
 </div>
 
-<div class="post" data-post-id="30128" data-author="Thraxas" data-date="2009-10-18T23:19:44+00:00">
+<div class="post" data-post-id="30128" data-author="Thraxas" data-date="2009-10-18T23:19:44+00:00" data-subject="">
 
 someone new to sloth reading this thread would get some wierd and truely distorted view of sloth that is so far from my experience that it beggers belief.
 

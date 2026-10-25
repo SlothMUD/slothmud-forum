@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="11413" data-author="Alberich" data-date="2006-03-17T17:39:54+00:00">
+<div class="post" data-post-id="11413" data-author="Alberich" data-date="2006-03-17T17:39:54+00:00" data-subject="PSA">
 
 for those of you who are pondering the green beer, an alternative for tonite - 
 
@@ -36,7 +36,7 @@ Happy St. Patricks Day![/color:1aa5hskt][/size:1aa5hskt]
 
 </div>
 
-<div class="post" data-post-id="11433" data-author="Corinn" data-date="2006-03-17T19:21:15+00:00">
+<div class="post" data-post-id="11433" data-author="Corinn" data-date="2006-03-17T19:21:15+00:00" data-subject="">
 
 I've been doing these for years.  They're so good.
 
@@ -56,7 +56,7 @@ Happy St. Patty's Day!
 
 </div>
 
-<div class="post" data-post-id="11435" data-author="Leaf" data-date="2006-03-17T19:25:31+00:00">
+<div class="post" data-post-id="11435" data-author="Leaf" data-date="2006-03-17T19:25:31+00:00" data-subject="Re: PSA">
 
 for those of you who are pondering the green beer, an alternative for tonite - 
 
@@ -84,7 +84,7 @@ it down with the Guiness?
 
 </div>
 
-<div class="post" data-post-id="11439" data-author="Autolycos" data-date="2006-03-17T19:42:03+00:00">
+<div class="post" data-post-id="11439" data-author="Autolycos" data-date="2006-03-17T19:42:03+00:00" data-subject="Re: PSA">
 
 the Irish CarBomb
 
@@ -114,7 +114,7 @@ yell really loud  (no, really loud... think of your 100 virgins.. and lighter up
 
 </div>
 
-<div class="post" data-post-id="11454" data-author="brand" data-date="2006-03-17T21:14:05+00:00">
+<div class="post" data-post-id="11454" data-author="brand" data-date="2006-03-17T21:14:05+00:00" data-subject="">
 
 yeah!  gonna get tanked... tonight.
 
@@ -134,7 +134,7 @@ postscript:  your first 2 are on me if i'm there otherwise...they're not.  I'll 
 
 </div>
 
-<div class="post" data-post-id="11455" data-author="Leaf" data-date="2006-03-17T21:20:27+00:00">
+<div class="post" data-post-id="11455" data-author="Leaf" data-date="2006-03-17T21:20:27+00:00" data-subject="">
 
 Actually I get paid every 15 and 30/31 of each month. :)
 
@@ -142,19 +142,19 @@ Also I'm guessing the mix beer Black & Tan is a Irish beer?
 
 </div>
 
-<div class="post" data-post-id="11456" data-author="Alberich" data-date="2006-03-17T21:21:21+00:00">
+<div class="post" data-post-id="11456" data-author="Alberich" data-date="2006-03-17T21:21:21+00:00" data-subject="">
 
 don't know about drink specials but if anyones in Chicago, head up to the Metro for the Tossers gig and I'll buy you drinks :)
 
 </div>
 
-<div class="post" data-post-id="11457" data-author="Guinex" data-date="2006-03-17T21:22:26+00:00">
+<div class="post" data-post-id="11457" data-author="Guinex" data-date="2006-03-17T21:22:26+00:00" data-subject="">
 
 [quote:1cwcpnnz]Actually I get paid every 15 and 30/31 of each month. Smile[/quote:1cwcpnnz]I thought you worked on rice n larpenter more often than that.  You must be loosing customers.  :evil:
 
 </div>
 
-<div class="post" data-post-id="11458" data-author="Leaf" data-date="2006-03-17T21:24:44+00:00">
+<div class="post" data-post-id="11458" data-author="Leaf" data-date="2006-03-17T21:24:44+00:00" data-subject="">
 
 don't know about drink specials but if anyones in Chicago, head up to the Metro for the Tossers gig and I'll buy you drinks :)[/quote:27xgezur]
 
@@ -162,7 +162,7 @@ I didn't know Alberich live near Chicago....
 
 </div>
 
-<div class="post" data-post-id="11459" data-author="Leaf" data-date="2006-03-17T21:27:00+00:00">
+<div class="post" data-post-id="11459" data-author="Leaf" data-date="2006-03-17T21:27:00+00:00" data-subject="">
 
 I thought you worked on rice n larpenter more often than that.  You must be loosing customers.  :evil:[/quote:2qj6v33b]
 
@@ -170,7 +170,7 @@ Naw G, cash only ya little fat ugly phucker!
 
 </div>
 
-<div class="post" data-post-id="11460" data-author="Alberich" data-date="2006-03-17T21:47:42+00:00">
+<div class="post" data-post-id="11460" data-author="Alberich" data-date="2006-03-17T21:47:42+00:00" data-subject="">
 
 don't know about drink specials but if anyones in Chicago, head up to the Metro for the Tossers gig and I'll buy you drinks :)[/quote:1rrj4cm0]
 
@@ -180,7 +180,7 @@ I didn't know Alberich live near Chicago....[/quote:1rrj4cm0]
 
 </div>
 
-<div class="post" data-post-id="11461" data-author="Leaf" data-date="2006-03-17T22:04:14+00:00">
+<div class="post" data-post-id="11461" data-author="Leaf" data-date="2006-03-17T22:04:14+00:00" data-subject="">
 
 Hehe cool,
 
@@ -192,7 +192,7 @@ Ironwolf lives near Chicago, and Ki lives near me in Plainfield (never met).
 
 </div>
 
-<div class="post" data-post-id="11469" data-author="osric" data-date="2006-03-17T23:33:00+00:00">
+<div class="post" data-post-id="11469" data-author="osric" data-date="2006-03-17T23:33:00+00:00" data-subject="">
 
 Think Think.....Take a Drink!
 
@@ -210,19 +210,19 @@ Rats off to Ya!
 
 </div>
 
-<div class="post" data-post-id="11470" data-author="osric" data-date="2006-03-17T23:35:26+00:00">
+<div class="post" data-post-id="11470" data-author="osric" data-date="2006-03-17T23:35:26+00:00" data-subject="">
 
 Oh and Alberich if you should run across Chris Randall (smg) at the Metro buy him one from me!
 
 </div>
 
-<div class="post" data-post-id="11482" data-author="Guinex" data-date="2006-03-18T04:44:26+00:00">
+<div class="post" data-post-id="11482" data-author="Guinex" data-date="2006-03-18T04:44:26+00:00" data-subject="">
 
 Fuggin cheese head, im in minnesota O ima gonna bring my undead and eat some cheese!
 
 </div>
 
-<div class="post" data-post-id="11493" data-author="Autolycos" data-date="2006-03-18T14:48:41+00:00">
+<div class="post" data-post-id="11493" data-author="Autolycos" data-date="2006-03-18T14:48:41+00:00" data-subject="">
 
 Hehe cool,  I live in Plainfield, which is a wee bit south hehehe.  However I work in Chicago at LaSalle Bank.[/quote:1cc1eca2]
 
@@ -234,7 +234,7 @@ HURRY!!!!
 
 </div>
 
-<div class="post" data-post-id="11494" data-author="Shadis" data-date="2006-03-18T16:52:09+00:00">
+<div class="post" data-post-id="11494" data-author="Shadis" data-date="2006-03-18T16:52:09+00:00" data-subject="">
 
 Man Chicago is just getting too crowded ....
 
@@ -242,13 +242,13 @@ Man Chicago is just getting too crowded ....
 
 </div>
 
-<div class="post" data-post-id="11518" data-author="brady" data-date="2006-03-19T19:47:52+00:00">
+<div class="post" data-post-id="11518" data-author="brady" data-date="2006-03-19T19:47:52+00:00" data-subject="">
 
 A shining moment.  Sometimes J, you are fuggin hilarious!  But how many times do I gotta tell you?  Stay away from the GD US Navy! :twisted:  :shock:
 
 </div>
 
-<div class="post" data-post-id="11522" data-author="Leaf" data-date="2006-03-19T22:56:36+00:00">
+<div class="post" data-post-id="11522" data-author="Leaf" data-date="2006-03-19T22:56:36+00:00" data-subject="">
 
 Does Jim still play here?
 
@@ -260,7 +260,7 @@ worth of service fees :).  Then by all means, open an account with us :)
 
 </div>
 
-<div class="post" data-post-id="11539" data-author="Autolycos" data-date="2006-03-20T05:30:02+00:00">
+<div class="post" data-post-id="11539" data-author="Autolycos" data-date="2006-03-20T05:30:02+00:00" data-subject="">
 
 yawn.. Will...  my companies trash service would not use such a small bank as yours
 

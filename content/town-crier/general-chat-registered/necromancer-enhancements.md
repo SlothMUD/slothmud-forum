@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="29989" data-author="Thraxas" data-date="2009-09-15T12:40:01+00:00">
+<div class="post" data-post-id="29989" data-author="Thraxas" data-date="2009-09-15T12:40:01+00:00" data-subject="Necromancer enhancements">
 
 [quote:2sj58flh]
 
@@ -34,7 +34,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="29991" data-author="*Splork*" data-date="2009-09-15T18:18:18+00:00">
+<div class="post" data-post-id="29991" data-author="*Splork*" data-date="2009-09-15T18:18:18+00:00" data-subject="">
 
 These changes are not in till next reboot, sorry.
 
@@ -44,7 +44,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30000" data-author="Thraxas" data-date="2009-09-17T16:36:43+00:00">
+<div class="post" data-post-id="30000" data-author="Thraxas" data-date="2009-09-17T16:36:43+00:00" data-subject="">
 
 [i:10vdf3u5]its galling to die with serious xp loss while fargate is up and for no-one to know about it so bear in mind this suggestion is being made while incredibly pissed off about my last 2 days worth of soloing being wiped out through death xp loss.[/i:10vdf3u5]
 
@@ -64,7 +64,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30001" data-author="Dragoth" data-date="2009-09-17T20:36:06+00:00">
+<div class="post" data-post-id="30001" data-author="Dragoth" data-date="2009-09-17T20:36:06+00:00" data-subject="">
 
 I know its a nightmare Thraxas but this has been talked over many many hours. I have personally nearly quit after losing 75% of what i gained in 3 days of hardcore exping. 
 
@@ -72,13 +72,13 @@ It seems that there is no getting rid of this, immortals want death to be painfu
 
 </div>
 
-<div class="post" data-post-id="30002" data-author="Dragoth" data-date="2009-09-17T20:46:26+00:00">
+<div class="post" data-post-id="30002" data-author="Dragoth" data-date="2009-09-17T20:46:26+00:00" data-subject="">
 
 There has been numerous exp loss reductions of course, but a skill or something that would allow any of us to be easily identified as dead seems to be out of the question. And yes, lots of people actually do quit over this and i know a few, so it really makes you wonder..
 
 </div>
 
-<div class="post" data-post-id="30007" data-author="Avatar" data-date="2009-09-18T17:47:53+00:00">
+<div class="post" data-post-id="30007" data-author="Avatar" data-date="2009-09-18T17:47:53+00:00" data-subject="deaths">
 
 I guess we'd all agree that there should be some negative aspects to dying.  The bad part of all this is that the risk / impact are very spiky.  You die while soloing, there are several possibilities that you may get raised and lose nothing.  Even when corpsing, there are many times that you corpse, collect your eq, and you've lost some experience but its no big deal - you recover that xp with little effort.  Then there are the other times - the third time I leveled up Avatar I lost my second 40 twice in one week.  That was back before SS was a continent, so the xp per hour was much lower than it's become since.  So the chance of a large penalty is relatively low, but when you hit that small chance the penalty can be very large.
 
@@ -96,7 +96,7 @@ PS this may be unpopular, but I also think there should be some xp loss when you
 
 </div>
 
-<div class="post" data-post-id="30009" data-author="Thraxas" data-date="2009-09-18T22:24:50+00:00">
+<div class="post" data-post-id="30009" data-author="Thraxas" data-date="2009-09-18T22:24:50+00:00" data-subject="">
 
 I think that if you see my rants as just being upset about dying then you're missing the point. Death sucks there should be a downside to dying, and you're probably right even if you get raised.
 

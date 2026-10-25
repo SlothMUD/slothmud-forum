@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="38222" data-author="Hermoon" data-date="2017-04-19T09:56:13+00:00">
+<div class="post" data-post-id="38222" data-author="Hermoon" data-date="2017-04-19T09:56:13+00:00" data-subject="Calculating Damage">
 
 I wonder if anyone can give guidance about the amount of damage we inflict?
 
@@ -22,7 +22,7 @@ Kick dam, stab dam, circle dam, hand dam - some items of eq have these attribute
 
 </div>
 
-<div class="post" data-post-id="38223" data-author="Teron" data-date="2017-04-20T07:00:17+00:00">
+<div class="post" data-post-id="38223" data-author="Teron" data-date="2017-04-20T07:00:17+00:00" data-subject="Re: Calculating Damage">
 
 1. You can see your average damage of at least 5 attacks by typing: counters
 
@@ -58,7 +58,7 @@ If you want to increase your stab/melee damage you can:
 
 </div>
 
-<div class="post" data-post-id="38224" data-author="Gorka" data-date="2017-04-20T08:34:33+00:00">
+<div class="post" data-post-id="38224" data-author="Gorka" data-date="2017-04-20T08:34:33+00:00" data-subject="Re: Calculating Damage">
 
 > **Teron wrote:**
 > - increase your hitroll to at least 20
@@ -69,7 +69,7 @@ A valuable thing you can do, is use a good client such as mudlet to log your ses
 
 </div>
 
-<div class="post" data-post-id="38225" data-author="Hermoon" data-date="2017-04-20T10:44:55+00:00">
+<div class="post" data-post-id="38225" data-author="Hermoon" data-date="2017-04-20T10:44:55+00:00" data-subject="Re: Calculating Damage">
 
 Thank you very much for taking the time to share this information. I'm sure it will be helpful to new players who are not familiar with mud (or D&D) mechanics. The guidance on the amount of hitroll to aim for is essential when trying to balance out other enhancers of regen, damage, stats, etc. 
 
@@ -77,7 +77,7 @@ In addition to wearable equipment, there are numerous clasps that attach to equi
 
 </div>
 
-<div class="post" data-post-id="38226" data-author="Teron" data-date="2017-04-20T13:25:50+00:00">
+<div class="post" data-post-id="38226" data-author="Teron" data-date="2017-04-20T13:25:50+00:00" data-subject="Re: Calculating Damage">
 
 I only mentioned 20 hitroll, because 18-20 was needed to hit stabs on SS for thieves back in the days.
 
@@ -93,7 +93,7 @@ As far as avatar hitrolls, having +33 that I have is enough to hit much more, th
 
 </div>
 
-<div class="post" data-post-id="38227" data-author="Josiah" data-date="2017-04-21T20:05:52+00:00">
+<div class="post" data-post-id="38227" data-author="Josiah" data-date="2017-04-21T20:05:52+00:00" data-subject="Re: Calculating Damage">
 
 > **Teron wrote:**
 > Kickdam equals to your prime level+kick dam... So if you get all the kick dam eq and runes for a valker, then your kick might compare to a strike of a well-equipped 20lev monk.

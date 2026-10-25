@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="16232" data-author="Malison" data-date="2007-01-12T19:34:16+00:00">
+<div class="post" data-post-id="16232" data-author="Malison" data-date="2007-01-12T19:34:16+00:00" data-subject="mob code spam">
 
 megalodon in UD2 exploded in excessive lines of code:
 
@@ -254,13 +254,13 @@ the all seeing eye intones 'One is mfn_range.'
 
 </div>
 
-<div class="post" data-post-id="16233" data-author="kjartan" data-date="2007-01-12T20:22:56+00:00">
+<div class="post" data-post-id="16233" data-author="kjartan" data-date="2007-01-12T20:22:56+00:00" data-subject="">
 
 Haha, someone left debug on.  I'll get that tonight if nobody else does first.  Warning: it can kill your link with spam.
 
 </div>
 
-<div class="post" data-post-id="16248" data-author="firebrand" data-date="2007-01-13T19:28:15+00:00">
+<div class="post" data-post-id="16248" data-author="firebrand" data-date="2007-01-13T19:28:15+00:00" data-subject="">
 
 you wanna talk about spam?  look at parting blow from two-handed weapons.  it killed several ppls link yesterday or day before in ss group i was in.  i don't allow someone in my group to wield them because of the parting blow spam.  it is freakin RIDICULOUS.
 

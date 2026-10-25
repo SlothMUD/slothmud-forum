@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="34542" data-author="Dragoth" data-date="2013-11-05T09:03:11+00:00">
+<div class="post" data-post-id="34542" data-author="Dragoth" data-date="2013-11-05T09:03:11+00:00" data-subject="A new skill to help avatars keep spells up.">
 
 Keeping your spells up when you are an avatar becomes a pretty tedious exercise. I suggest making an avatar skill that would make those spells last forever, but at the cost of your mana regen.
 
@@ -24,13 +24,13 @@ Usage: <skillname> "spellname"
 
 </div>
 
-<div class="post" data-post-id="34544" data-author="Popeye" data-date="2013-11-06T19:35:57+00:00">
+<div class="post" data-post-id="34544" data-author="Popeye" data-date="2013-11-06T19:35:57+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
 I have noticed Sloth steers away from ideas that aid botting, and I think this would fall in that category
 
 </div>
 
-<div class="post" data-post-id="34548" data-author="Sam" data-date="2013-11-07T19:45:43+00:00">
+<div class="post" data-post-id="34548" data-author="Sam" data-date="2013-11-07T19:45:43+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
 In what way does it aid botting? 
 
@@ -40,7 +40,7 @@ And will greatly help those who use telnet, for example.
 
 </div>
 
-<div class="post" data-post-id="34550" data-author="Yasik" data-date="2013-11-08T11:40:14+00:00">
+<div class="post" data-post-id="34550" data-author="Yasik" data-date="2013-11-08T11:40:14+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
 I think it helps botting by removing the nessesity of writing recast scripts, fewer events processing.
 
@@ -50,7 +50,7 @@ Agree that on high levels keep all spells up is a problem, but not the unsolvabl
 
 </div>
 
-<div class="post" data-post-id="34555" data-author="Marvel" data-date="2013-11-09T13:12:56+00:00">
+<div class="post" data-post-id="34555" data-author="Marvel" data-date="2013-11-09T13:12:56+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
 > **Yasik wrote:**
 > Not sure if anyone still using telnet, it is so much inferior to specialized mud clients that barely allows playing aside from just standing at recall and watching whats happening.
@@ -61,7 +61,7 @@ I use telnet (Lore/Rain). On a mobile phone, no less. I've found telnet to be th
 
 </div>
 
-<div class="post" data-post-id="34556" data-author="Yasik" data-date="2013-11-09T16:55:27+00:00">
+<div class="post" data-post-id="34556" data-author="Yasik" data-date="2013-11-09T16:55:27+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
 > **Marvel wrote:**
 > I use telnet (Lore/Rain). On a mobile phone, no less. I've found telnet to be the far superior alternative to a client, but then again I'm already certifiably insane*.
@@ -72,7 +72,7 @@ You doing dumb job that wastes your time, which is limited resource. You can do 
 
 </div>
 
-<div class="post" data-post-id="34557" data-author="Marvel" data-date="2013-11-09T18:26:21+00:00">
+<div class="post" data-post-id="34557" data-author="Marvel" data-date="2013-11-09T18:26:21+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
 > **Yasik wrote:**
 > So, you typing "*cast 'stone skin' lore*" letter by letter every time it falls? On the phone? Other bunch of spells too? And you buff your undead same way, right?
@@ -83,7 +83,7 @@ Mmmkay. [/troll]
 
 </div>
 
-<div class="post" data-post-id="34558" data-author="Yasik" data-date="2013-11-09T18:58:01+00:00">
+<div class="post" data-post-id="34558" data-author="Yasik" data-date="2013-11-09T18:58:01+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
 Just checked - I have 611 aliases, 1353 triggers and 1981 lines of scripts with total size 51848 bytes.
 
@@ -91,7 +91,7 @@ Good luck putting all that on server side's 20 aliases  :P Those are not support
 
 </div>
 
-<div class="post" data-post-id="34559" data-author="Popeye" data-date="2013-11-09T21:06:16+00:00">
+<div class="post" data-post-id="34559" data-author="Popeye" data-date="2013-11-09T21:06:16+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
 I believe that one should not be able to cast some spells during combat like Sanc/Aegis. Re-casting of this should be down to the individual to type, before, after, or during if you flee. Aliases are as far as one should go with this.
 
@@ -103,7 +103,7 @@ The times I have died, it has mainly been because I have not paid attention, and
 
 </div>
 
-<div class="post" data-post-id="34560" data-author="*Splork*" data-date="2013-11-10T00:42:37+00:00">
+<div class="post" data-post-id="34560" data-author="*Splork*" data-date="2013-11-10T00:42:37+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
 A skill such as this probably won't happen. Timing runs with spell casting is a vital part of being a good player. Automating something such as this is simply not a good idea from the Admin's perspective. 
 
@@ -111,7 +111,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34564" data-author="Marvel" data-date="2013-11-11T02:42:30+00:00">
+<div class="post" data-post-id="34564" data-author="Marvel" data-date="2013-11-11T02:42:30+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
 > **Yasik wrote:**
 > Just checked - I have 611 aliases, 1353 triggers and 1981 lines of scripts with total size 51848 bytes.

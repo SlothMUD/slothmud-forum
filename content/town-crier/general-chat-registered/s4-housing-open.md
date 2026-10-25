@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30499" data-author="Thraxas" data-date="2009-12-17T13:54:24+00:00">
+<div class="post" data-post-id="30499" data-author="Thraxas" data-date="2009-12-17T13:54:24+00:00" data-subject="S4 Housing - open?">
 
 I was just wondering whether anyone knew anything about the new housing on S4. (really need just the room not the vault as a secure dumping ground for corpses where I know they'll not be [i:3fmbem9q]borrowed[/i:3fmbem9q] or sacced by a newbie, but will happily buy a vault at the same time).
 
@@ -26,7 +26,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="30500" data-author="*Splork*" data-date="2009-12-17T21:27:26+00:00">
+<div class="post" data-post-id="30500" data-author="*Splork*" data-date="2009-12-17T21:27:26+00:00" data-subject="">
 
 Right now there are only house guilds on BH and Lyme, I believe. Maybe tonight I can add them to AH and SS.
 
@@ -42,7 +42,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30510" data-author="Jag" data-date="2009-12-19T21:35:17+00:00">
+<div class="post" data-post-id="30510" data-author="Jag" data-date="2009-12-19T21:35:17+00:00" data-subject="">
 
 The only one I have found is on BH.  
 

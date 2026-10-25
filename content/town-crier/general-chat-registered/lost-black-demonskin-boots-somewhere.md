@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33318" data-author="Tuck" data-date="2012-05-31T01:04:42+00:00">
+<div class="post" data-post-id="33318" data-author="Tuck" data-date="2012-05-31T01:04:42+00:00" data-subject="Lost black demonskin boots somewhere">
 
 Lost black demonskin boots somewhere.
 

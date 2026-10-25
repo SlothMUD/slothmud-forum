@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="12736" data-author="Hobbes" data-date="2006-05-26T16:18:40+00:00">
+<div class="post" data-post-id="12736" data-author="Hobbes" data-date="2006-05-26T16:18:40+00:00" data-subject="Group Spam">
 
 The recent quest group and previous have been fun as always, but all the spam is gonna give me a seizure one of these days i think.  I had some thoughts on how to cut down on spam.
 
@@ -28,7 +28,7 @@ Anyway, just some thoughts to save my eyes :)
 
 </div>
 
-<div class="post" data-post-id="12737" data-author="Clink" data-date="2006-05-26T17:04:09+00:00">
+<div class="post" data-post-id="12737" data-author="Clink" data-date="2006-05-26T17:04:09+00:00" data-subject="">
 
 This is an interesting suggestion.  Really, I think the crux of what you are saying is based on communication.  
 
@@ -46,7 +46,7 @@ P.S.  I do not intend to persuade anyone's opinion either way on whether or not 
 
 </div>
 
-<div class="post" data-post-id="12738" data-author="12345" data-date="2006-05-26T17:27:23+00:00">
+<div class="post" data-post-id="12738" data-author="12345" data-date="2006-05-26T17:27:23+00:00" data-subject="">
 
 There is already ability to create channels on the fly, so a group could just decide that a tank could use some channel to whine on as well as the healo to communicate on.[/quote:3hvrj5jl]
 
@@ -70,7 +70,7 @@ Smurfy stuff... I'll shut up.
 
 </div>
 
-<div class="post" data-post-id="12740" data-author="Avatar" data-date="2006-05-26T18:15:02+00:00">
+<div class="post" data-post-id="12740" data-author="Avatar" data-date="2006-05-26T18:15:02+00:00" data-subject="group spam">
 
 I had similar problems during this last quest.  I blame it on being away for so long...dealing with large amounts of spam seems to be a skill that improves with practice.  I was definitely out of practice.  One thing that I noticed as helpful was Kronk's tank reporter, which had different color blocks for different status.  At times, I didn't have time to read and understand the current hp vs. max hps, and the color codes helped keep the tank alive.  Well, it helped anyway, it's possible the tank might have died MORE often without the color codes  :)
 
@@ -80,7 +80,7 @@ Well, just a thought.  Also, if players can make toggles for their mob reporters
 
 </div>
 
-<div class="post" data-post-id="12918" data-author="Hobbes" data-date="2006-06-08T13:59:38+00:00">
+<div class="post" data-post-id="12918" data-author="Hobbes" data-date="2006-06-08T13:59:38+00:00" data-subject="">
 
 Regarding Clink's comments about two tanks, yes I think two tanks would be cool.  If you did have two tanks, you would need some way to heal them and report, so that is why I was thinking of the subgroups and such, which yes, would be messy.   Mostly I was just thinking that it would be fun to have a bit more diversity in groups instead of the one long prot chain. 
 
@@ -98,7 +98,7 @@ Cheers
 
 </div>
 
-<div class="post" data-post-id="12928" data-author="Tetsulunathaya" data-date="2006-06-09T04:12:33+00:00">
+<div class="post" data-post-id="12928" data-author="Tetsulunathaya" data-date="2006-06-09T04:12:33+00:00" data-subject="">
 
 Really, a seperate channel or subgroup wouldn't be needed, just customization of whiners and such.
 
@@ -152,7 +152,7 @@ Anyway. I agree, in larger groups, the spam can get horrid. the spell gag idea s
 
 </div>
 
-<div class="post" data-post-id="12933" data-author="Chobbles" data-date="2006-06-09T06:32:11+00:00">
+<div class="post" data-post-id="12933" data-author="Chobbles" data-date="2006-06-09T06:32:11+00:00" data-subject="">
 
 Hm... maybe it's just me, but what you're describing seems to be just two completely autonomous groups which share the same leader.  Might as well split the group into two groups.  Managing a group of 30+ is tough enough, let alone two prot chains complete with their own healo and all the fun accessories of a group.  
 
@@ -166,7 +166,7 @@ Chobbles/Kronk
 
 </div>
 
-<div class="post" data-post-id="12954" data-author="thina" data-date="2006-06-10T08:45:03+00:00">
+<div class="post" data-post-id="12954" data-author="thina" data-date="2006-06-10T08:45:03+00:00" data-subject="">
 
 maybe use "think" as another channel. i believe only those in the room with you can see what you are thinking? also you can turn it off.
 

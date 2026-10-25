@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39633" data-author="Gorka" data-date="2020-12-08T18:44:17+00:00">
+<div class="post" data-post-id="39633" data-author="Gorka" data-date="2020-12-08T18:44:17+00:00" data-subject="Bad Procs">
 
 This isn't the only place in the game where procs don't check for shifted non-aggro.
 

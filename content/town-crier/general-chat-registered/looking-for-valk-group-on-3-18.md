@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32489" data-author="Harm" data-date="2011-03-17T20:31:41+00:00">
+<div class="post" data-post-id="32489" data-author="Harm" data-date="2011-03-17T20:31:41+00:00" data-subject="Looking for Valk group on 3/18">
 
 Hi all,
 

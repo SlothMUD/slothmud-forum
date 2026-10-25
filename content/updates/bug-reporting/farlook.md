@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="744" data-author="Zenkai" data-date="2004-06-16T06:53:17+00:00">
+<div class="post" data-post-id="744" data-author="Zenkai" data-date="2004-06-16T06:53:17+00:00" data-subject="Farlook">
 
 You need a "right here" message for farlook.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="3968" data-author="Granty555" data-date="2005-01-26T16:02:03+00:00">
+<div class="post" data-post-id="3968" data-author="Granty555" data-date="2005-01-26T16:02:03+00:00" data-subject="+dam +stabdam etc">
 
 Ok Im a little unsure here, hopefully someone can explain/verify for me.
 
@@ -26,7 +26,7 @@ NB this is the post that's confusing me :P
 
 </div>
 
-<div class="post" data-post-id="3969" data-author="Granty555" data-date="2005-01-26T16:03:35+00:00">
+<div class="post" data-post-id="3969" data-author="Granty555" data-date="2005-01-26T16:03:35+00:00" data-subject="">
 
 Damn cant edit...
 
@@ -34,7 +34,7 @@ Damn cant edit...
 
 </div>
 
-<div class="post" data-post-id="3971" data-author="Alberich" data-date="2005-01-26T16:44:29+00:00">
+<div class="post" data-post-id="3971" data-author="Alberich" data-date="2005-01-26T16:44:29+00:00" data-subject="">
 
 from what i have tested on my th/ma... +dam and weapon roll is applied before stab modifier, then stabdam is applied after, as spelldam is applied after mobs saving throw.  So, 14 stabdam for a thief prime = about +1dam x modifier
 
@@ -42,7 +42,7 @@ if I am completely wrong someone please correct :)
 
 </div>
 
-<div class="post" data-post-id="3972" data-author="12345" data-date="2005-01-26T16:54:54+00:00">
+<div class="post" data-post-id="3972" data-author="12345" data-date="2005-01-26T16:54:54+00:00" data-subject="">
 
 This has been hashed numerous times.  I'll try to give the basics as I see them.
 
@@ -60,7 +60,7 @@ Moral: look for the +stabdam eq that doesn't cost you your normal damage and you
 
 </div>
 
-<div class="post" data-post-id="3973" data-author="Leaf" data-date="2005-01-26T20:17:09+00:00">
+<div class="post" data-post-id="3973" data-author="Leaf" data-date="2005-01-26T20:17:09+00:00" data-subject="">
 
 +dam eq and a big stabber is KEY and then find +stab dam items.
 
@@ -74,7 +74,7 @@ If you get Double Stab the process gets done again with a matter of a sec.
 
 </div>
 
-<div class="post" data-post-id="3974" data-author="Medios" data-date="2005-01-26T20:48:11+00:00">
+<div class="post" data-post-id="3974" data-author="Medios" data-date="2005-01-26T20:48:11+00:00" data-subject="">
 
 All of the above is correct but doesnt really answer your question.  Medios is a true thief, I run with full damage.  This includes damage on body which i lose quite a bit of ac for.  Any spot that can have damage (that i have eq for) does.  Then I add in items that have stabdamage to my remaining slots.  Quite a few items have both regular damage and stabdamage.  Thief autoquest sleeves  .5  dam 10stab_dam.  Gauntlets of Mastery .2 dam 10 stab_dam.  opal bracelets dam 4stab_dam.  All of these items still have the normal damage that other items would have.  So once you max out your damage, add that stab_dam in for the extra gravy.  I have 25 stab_dam on top of my regular +24 damage.  This adds an extra 50 damage to a double stab, which is quite noticeable.  When I started messing with stab_dam eq I figured the extra 10 or so wouldnt matter, however it saves my mana when I corpse something that would normally take 2 stabs and a wind.  If the mob has 50hp after you stab and that first attack only takes 30, your getting hit really hard etc etc.  If you care more about ac than your preemptive attack then stab_dam isnt the way to go.  Hope this helps.
 
@@ -82,19 +82,19 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="3975" data-author="Leaf" data-date="2005-01-26T21:11:56+00:00">
+<div class="post" data-post-id="3975" data-author="Leaf" data-date="2005-01-26T21:11:56+00:00" data-subject="">
 
 Yea I wonder how you got all slots full of dam eq *cough* *bone guards*
 
 </div>
 
-<div class="post" data-post-id="3977" data-author="Deju" data-date="2005-01-26T23:05:23+00:00">
+<div class="post" data-post-id="3977" data-author="Deju" data-date="2005-01-26T23:05:23+00:00" data-subject="">
 
 Just another Th type to chime in on the subject.  Basically I can agree with everything Medios has said.  Stab_Dam doesnt seem like much one item at a time, but once you combine all of it together, it can be quite noticeable.
 
 </div>
 
-<div class="post" data-post-id="3978" data-author="Granty555" data-date="2005-01-27T12:21:28+00:00">
+<div class="post" data-post-id="3978" data-author="Granty555" data-date="2005-01-27T12:21:28+00:00" data-subject="">
 
 Cool, I understand now :)
 
@@ -102,13 +102,13 @@ Many thanks for the info folks!
 
 </div>
 
-<div class="post" data-post-id="4157" data-author="Choong" data-date="2005-02-07T12:10:54+00:00">
+<div class="post" data-post-id="4157" data-author="Choong" data-date="2005-02-07T12:10:54+00:00" data-subject=".">
 
 I just browse thru the web, not sure if I searched the right keyword, are stab dam eq mostly quest stuff and thief prime only?
 
 </div>
 
-<div class="post" data-post-id="4171" data-author="Alberich" data-date="2005-02-07T15:57:54+00:00">
+<div class="post" data-post-id="4171" data-author="Alberich" data-date="2005-02-07T15:57:54+00:00" data-subject="">
 
 there isn't a whole lot to begin with, but yeah - only non-th prime stabdam item that isn't sold at weavers or questish is that clasp from cloud giants
 

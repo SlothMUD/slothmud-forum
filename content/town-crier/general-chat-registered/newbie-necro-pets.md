@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="27111" data-author="Yinao" data-date="2008-11-10T06:58:26+00:00">
+<div class="post" data-post-id="27111" data-author="Yinao" data-date="2008-11-10T06:58:26+00:00" data-subject="Newbie Necro Pets">
 
 You slash a servant of Blaster hard.
 
@@ -214,13 +214,13 @@ Just to throw in a statistic, that is less than a 25% hitroll chance against a 2
 
 </div>
 
-<div class="post" data-post-id="27185" data-author="Yinao" data-date="2008-11-15T03:32:08+00:00">
+<div class="post" data-post-id="27185" data-author="Yinao" data-date="2008-11-15T03:32:08+00:00" data-subject="">
 
 :roll:
 
 </div>
 
-<div class="post" data-post-id="27190" data-author="Yasik2" data-date="2008-11-15T08:33:08+00:00">
+<div class="post" data-post-id="27190" data-author="Yasik2" data-date="2008-11-15T08:33:08+00:00" data-subject="">
 
 unholy aura + unholy strenght them maybe halp a bit
 
@@ -228,13 +228,13 @@ casters weak at low levels anyway
 
 </div>
 
-<div class="post" data-post-id="27196" data-author="Yinao" data-date="2008-11-16T01:48:24+00:00">
+<div class="post" data-post-id="27196" data-author="Yinao" data-date="2008-11-16T01:48:24+00:00" data-subject="">
 
 Iirc, Bless = Unholy Aura.... and Orange potion > Unholy Strength, not to mention I don't think you can cast unholy strength on anything else aside from yourself...
 
 </div>
 
-<div class="post" data-post-id="27197" data-author="Yasik2" data-date="2008-11-16T04:09:37+00:00">
+<div class="post" data-post-id="27197" data-author="Yasik2" data-date="2008-11-16T04:09:37+00:00" data-subject="">
 
 hey, you'll be able to solo group-oriented mobs later in the game, as they say
 
@@ -246,7 +246,7 @@ you can level up to the point when you get stronger servants faster than waiting
 
 </div>
 
-<div class="post" data-post-id="27209" data-author="Yinao" data-date="2008-11-18T04:47:32+00:00">
+<div class="post" data-post-id="27209" data-author="Yinao" data-date="2008-11-18T04:47:32+00:00" data-subject="">
 
 hey, you'll be able to solo group-oriented mobs later in the game, as they say
 

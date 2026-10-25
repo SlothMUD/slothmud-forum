@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="7961" data-author="Pine" data-date="2005-07-21T10:47:20+00:00">
+<div class="post" data-post-id="7961" data-author="Pine" data-date="2005-07-21T10:47:20+00:00" data-subject="Druid 2X40 questions">
 
 My ectasy at finally reaching 2X40 druid turned to chagrin over the fact that my naga is worse than my wurm.  Am I doing something wrong here?  Any druids have tips on how better to use naga?  As far as I can tell the naga doesn't hit as hard as the wurm and the improved AC is only significant against weaker mobs.  I am having to recall from fights with my naga that I didn't have to much trouble with as a wurm.  Consequently, I am thinking of just using wurm again.
 
@@ -18,7 +18,7 @@ On a different note, having reached 40 cleric, I am still unable to summon xeg a
 
 </div>
 
-<div class="post" data-post-id="7962" data-author="Vixn" data-date="2005-07-21T11:49:51+00:00">
+<div class="post" data-post-id="7962" data-author="Vixn" data-date="2005-07-21T11:49:51+00:00" data-subject="Re: Druid 2X40 questions">
 
 On a different note, having reached 40 cleric, I am still unable to summon xeg and xag supplicants.  Is there a trick to it?[/quote:2cabopiz]
 
@@ -30,13 +30,13 @@ I wonder is it permitted info. Can I post it here? Mabbe we need to put it into 
 
 </div>
 
-<div class="post" data-post-id="7963" data-author="kjartan" data-date="2005-07-21T14:20:15+00:00">
+<div class="post" data-post-id="7963" data-author="kjartan" data-date="2005-07-21T14:20:15+00:00" data-subject="">
 
 It is ok to post this.  I have written a book to be sold in-game that says what the different mobs do (well, the good-aligned ones, I'll do evil later) but there are still a couple of mobs that need some work which I want to finish before I put it in.  That's why the help doesn't have a list, there will be a very complete list in the book, when I get it finished.
 
 </div>
 
-<div class="post" data-post-id="7967" data-author="Wintersdark" data-date="2005-07-22T12:38:11+00:00">
+<div class="post" data-post-id="7967" data-author="Wintersdark" data-date="2005-07-22T12:38:11+00:00" data-subject="">
 
 To clear up the Xeg/Xag thing:
 

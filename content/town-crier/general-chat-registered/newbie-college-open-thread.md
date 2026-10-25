@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="36482" data-author="*juggleblood*" data-date="2016-01-16T17:25:30+00:00">
+<div class="post" data-post-id="36482" data-author="*juggleblood*" data-date="2016-01-16T17:25:30+00:00" data-subject="Newbie College Open Thread">
 
 Since the other thread is an announcement which players can't respond to, I've opened this thread for discussion.
 
@@ -34,7 +34,7 @@ Regarding some issues that have been raised:
 
 </div>
 
-<div class="post" data-post-id="36484" data-author="*juggleblood*" data-date="2016-01-16T17:46:50+00:00">
+<div class="post" data-post-id="36484" data-author="*juggleblood*" data-date="2016-01-16T17:46:50+00:00" data-subject="Re: Newbie College Open Thread">
 
 *Regarding newbies appearing in BH after graveyard, I think I'll leave it like that, but I've added  messages teaching about hometown command when they appear at west gate:
 
@@ -44,13 +44,13 @@ To return to your hometown, use the hometown command.
 
 </div>
 
-<div class="post" data-post-id="36485" data-author="Teron" data-date="2016-01-16T18:19:10+00:00">
+<div class="post" data-post-id="36485" data-author="Teron" data-date="2016-01-16T18:19:10+00:00" data-subject="Re: Newbie College Open Thread">
 
 Mention that a newbie will get some prize on 100% completion and give it to them after he finishes all trainers in any order. This way, he knows he's done and can leave the college.
 
 </div>
 
-<div class="post" data-post-id="36488" data-author="*juggleblood*" data-date="2016-01-16T18:33:46+00:00">
+<div class="post" data-post-id="36488" data-author="*juggleblood*" data-date="2016-01-16T18:33:46+00:00" data-subject="Re: Newbie College Open Thread">
 
 *Trainer vars should adjust accordingly when trainee quits now.
 
@@ -60,7 +60,7 @@ Will get to adjusting the door protocols in a bit.
 
 </div>
 
-<div class="post" data-post-id="36491" data-author="Dragoth" data-date="2016-01-16T19:10:19+00:00">
+<div class="post" data-post-id="36491" data-author="Dragoth" data-date="2016-01-16T19:10:19+00:00" data-subject="Re: Newbie College Open Thread">
 
 1) Problem: When i connect to the game for the first time there is no indication what continent a newbie should start at. 
 
@@ -200,7 +200,7 @@ I think people are more likely to use look poster than potions.
 
 </div>
 
-<div class="post" data-post-id="36496" data-author="*Splork*" data-date="2016-01-17T13:12:00+00:00">
+<div class="post" data-post-id="36496" data-author="*Splork*" data-date="2016-01-17T13:12:00+00:00" data-subject="Re: Newbie College Open Thread">
 
 > **Quote:**
 > You now must select your hometown.
@@ -240,7 +240,7 @@ Also, we should do a better job of letting a new player know that they can enter
 
 </div>
 
-<div class="post" data-post-id="36501" data-author="*juggleblood*" data-date="2016-01-17T16:14:29+00:00">
+<div class="post" data-post-id="36501" data-author="*juggleblood*" data-date="2016-01-17T16:14:29+00:00" data-subject="Re: Newbie College Open Thread">
 
 Added keywords to the poster at the nursing station. 
 
@@ -252,7 +252,7 @@ However, we probably do need something for when newbies mort outside the school.
 
 </div>
 
-<div class="post" data-post-id="36503" data-author="*juggleblood*" data-date="2016-01-17T16:42:24+00:00">
+<div class="post" data-post-id="36503" data-author="*juggleblood*" data-date="2016-01-17T16:42:24+00:00" data-subject="Re: Newbie College Open Thread">
 
 *Doors fixed to no longer shut behind you when you enter the room with trainer, but there's still some shutting and opening involved when you engage in/complete training.
 
@@ -264,7 +264,7 @@ A large sign has information for newbies. (look sign)
 
 </div>
 
-<div class="post" data-post-id="36504" data-author="*juggleblood*" data-date="2016-01-17T20:54:25+00:00">
+<div class="post" data-post-id="36504" data-author="*juggleblood*" data-date="2016-01-17T20:54:25+00:00" data-subject="Re: Newbie College Open Thread">
 
 *Reduced scorpion count to 5 and made sure plenty spawn. Trainer cures poisoned player.
 

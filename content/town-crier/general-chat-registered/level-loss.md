@@ -10,7 +10,7 @@ locked: false
 post_count: 48
 ---
 
-<div class="post" data-post-id="9230" data-author="13" data-date="2005-10-27T17:26:02+00:00">
+<div class="post" data-post-id="9230" data-author="13" data-date="2005-10-27T17:26:02+00:00" data-subject="Level loss">
 
 The fact that you can lose a fucking tertiary level is absolutely retarded.  I don't care if someone looks at the code and tells me it's 1/1000, it's still a
 
@@ -28,13 +28,13 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="9231" data-author="Guinex" data-date="2005-10-27T17:34:26+00:00">
+<div class="post" data-post-id="9231" data-author="Guinex" data-date="2005-10-27T17:34:26+00:00" data-subject="">
 
 Hmmmm, never lost a quad level before.....That possible too?
 
 </div>
 
-<div class="post" data-post-id="9232" data-author="Grue" data-date="2005-10-27T18:09:44+00:00">
+<div class="post" data-post-id="9232" data-author="Grue" data-date="2005-10-27T18:09:44+00:00" data-subject="">
 
 I fail to understand why people think by posting foul language on the crier it makes what they are saying any more effective. Do you honestly think that using a string of four letter words is going to make anyone rethink anything? All it does is make you sound like a badly-raised piece of trash. 
 
@@ -44,7 +44,7 @@ Grow up, get a life, learn some anger management techniques, work out was is rea
 
 </div>
 
-<div class="post" data-post-id="9233" data-author="Vixn" data-date="2005-10-27T18:10:25+00:00">
+<div class="post" data-post-id="9233" data-author="Vixn" data-date="2005-10-27T18:10:25+00:00" data-subject="">
 
 Hmmmm, never lost a quad level before.....That possible too?[/quote:127pdp9f]
 
@@ -54,7 +54,7 @@ yes, just added this special feature for Aa only.
 
 </div>
 
-<div class="post" data-post-id="9234" data-author="Bazilus" data-date="2005-10-27T18:16:21+00:00">
+<div class="post" data-post-id="9234" data-author="Bazilus" data-date="2005-10-27T18:16:21+00:00" data-subject="">
 
 Sorry :) has not had time to raise... But, really you think lost much exp and gold?
 
@@ -62,13 +62,13 @@ Its only game... :)
 
 </div>
 
-<div class="post" data-post-id="9240" data-author="Weasel" data-date="2005-10-27T19:04:55+00:00">
+<div class="post" data-post-id="9240" data-author="Weasel" data-date="2005-10-27T19:04:55+00:00" data-subject="">
 
 My condolences 13. hmm. Guess we should try to always make sure we have an additional 300mil unused exp on top of what we require to level at any given time.. what is the max (if there is one) on unused exp btw? obviously over 2bil since we have 2bil exp tokens.. I heard a while back there is a max not far over that point, but never tested it personally.. if there is, please can a coder adjust it to be 2bil + whatever the maximum level loss on death can be? ..just to keep the playing field balanced..
 
 </div>
 
-<div class="post" data-post-id="9242" data-author="13" data-date="2005-10-27T19:12:26+00:00">
+<div class="post" data-post-id="9242" data-author="13" data-date="2005-10-27T19:12:26+00:00" data-subject="">
 
 Hey Grue why don't you either identify your character ingame when you call
 
@@ -86,7 +86,7 @@ oh wait -- hang on Riurik/Harq, I'll be seeing you ingame buddyroo.
 
 </div>
 
-<div class="post" data-post-id="9245" data-author="Leaf" data-date="2005-10-27T19:35:37+00:00">
+<div class="post" data-post-id="9245" data-author="Leaf" data-date="2005-10-27T19:35:37+00:00" data-subject="">
 
 HAHAHAHA
 
@@ -100,7 +100,7 @@ But it's just a game, and u mud too much anyways :p
 
 </div>
 
-<div class="post" data-post-id="9247" data-author="Clink" data-date="2005-10-27T19:36:39+00:00">
+<div class="post" data-post-id="9247" data-author="Clink" data-date="2005-10-27T19:36:39+00:00" data-subject="">
 
 I don't know what it is, but I always get a good chuckle out of it these days when Aaron gets all riled up.
 
@@ -110,7 +110,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="9248" data-author="blackmore" data-date="2005-10-27T19:39:13+00:00">
+<div class="post" data-post-id="9248" data-author="blackmore" data-date="2005-10-27T19:39:13+00:00" data-subject="">
 
 I fail to understand why people think by posting foul language on the crier it makes what they are saying any more effective. Do you honestly think that using a string of four letter words is going to make anyone rethink anything? All it does is make you sound like a badly-raised piece of trash. 
 
@@ -124,7 +124,7 @@ Not that I'm defending Aa's post, but your post demonstrates a narrow view of ou
 
 </div>
 
-<div class="post" data-post-id="9249" data-author="13" data-date="2005-10-27T19:48:01+00:00">
+<div class="post" data-post-id="9249" data-author="13" data-date="2005-10-27T19:48:01+00:00" data-subject="">
 
 I agree Dean.  I have a pair of boys 7 and 3 years old and I have to censor
 
@@ -142,7 +142,7 @@ angry or not.  I'm coarse, deal with it.
 
 </div>
 
-<div class="post" data-post-id="9250" data-author="12345" data-date="2005-10-27T20:22:59+00:00">
+<div class="post" data-post-id="9250" data-author="12345" data-date="2005-10-27T20:22:59+00:00" data-subject="">
 
 Aa has the credentials to curse.  We have similar background and it's insanely difficult not to curse and drink like a fish... nature of the job.  Only one I know who managed to avoid it was a severe mormon who followed a code of ethics that Jesus would have trouble living up to.
 
@@ -150,7 +150,7 @@ Tert level loss in very rare.  Quad and Avatar level loss is impossible unless y
 
 </div>
 
-<div class="post" data-post-id="9251" data-author="Riurik" data-date="2005-10-27T20:38:32+00:00">
+<div class="post" data-post-id="9251" data-author="Riurik" data-date="2005-10-27T20:38:32+00:00" data-subject="">
 
 Heh :) Cool, came home and found my name being dragged through this thread. OK, well since i've been dragged into this, let me add to it.
 
@@ -172,19 +172,19 @@ Riurik/Mooch/Harq/Rhialto/Illich/Lots of other chars aka Pete
 
 </div>
 
-<div class="post" data-post-id="9253" data-author="Sind" data-date="2005-10-27T21:49:23+00:00">
+<div class="post" data-post-id="9253" data-author="Sind" data-date="2005-10-27T21:49:23+00:00" data-subject=".">
 
 bark bark  :arrow:
 
 </div>
 
-<div class="post" data-post-id="9254" data-author="Weasel" data-date="2005-10-27T21:59:00+00:00">
+<div class="post" data-post-id="9254" data-author="Weasel" data-date="2005-10-27T21:59:00+00:00" data-subject="">
 
 [http://demon.twinflame.org/images/blogpics/bark.gif](http://demon.twinflame.org/images/blogpics/bark.gif)
 
 </div>
 
-<div class="post" data-post-id="9255" data-author="Toxis" data-date="2005-10-27T22:32:13+00:00">
+<div class="post" data-post-id="9255" data-author="Toxis" data-date="2005-10-27T22:32:13+00:00" data-subject="">
 
 I tended to skip a lot of what dean and wasp said only because I hate long posts.  I tried to read the important parts.  Just an fyi in the future, I figure there were others who hate to read long-winded posts.
 
@@ -196,7 +196,7 @@ I have lost tert 3 times since brought into the game.  I haven't died all that o
 
 </div>
 
-<div class="post" data-post-id="9257" data-author="Deju" data-date="2005-10-28T00:38:47+00:00">
+<div class="post" data-post-id="9257" data-author="Deju" data-date="2005-10-28T00:38:47+00:00" data-subject="">
 
 Well, we all know that I die a lot.  I have never lost a tert level.  Perhaps you are just really unlucky Toxis? :)
 
@@ -204,7 +204,7 @@ Oh, and you swear all you want AA.  Consider this my official permission.
 
 </div>
 
-<div class="post" data-post-id="9258" data-author="Medios" data-date="2005-10-28T01:17:37+00:00">
+<div class="post" data-post-id="9258" data-author="Medios" data-date="2005-10-28T01:17:37+00:00" data-subject="">
 
 Fuck Aaron, ill ride over to his house and kick his little ass.  Oh wait hes bigger than me, well Ill still give him a sound thrashing.  I never knew it was inappropriate to curse here.  In fact I didnt quite realize it was inappropriate on the game, just about all of us do it.  I submit that the violence on sloth by killing things with swords, cutting off limbs, roasting other people in burning winds, and singing until someones head blows off is alot more negative than a few words.  I never did understand how a word can hurt someones feelings or make them feel dirty.  Its quite possible that if your worried about children then they dont need to be here.  Chrissy has 5 year old daughter and I have been known to use some foul language around her, she says Michael thats a bad word and she knows she isnt supposed to talk that way.  Maybe people need to police their own environment instead of trying to place rules on everyone else.    
 
@@ -214,13 +214,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="9259" data-author="brady" data-date="2005-10-28T02:47:52+00:00">
+<div class="post" data-post-id="9259" data-author="brady" data-date="2005-10-28T02:47:52+00:00" data-subject="">
 
 Trying to teach Aa some manners would be right up there with trying to teach yer dog to  whistle.  Choose your battles but mostly just STFU.  Peace be with you...
 
 </div>
 
-<div class="post" data-post-id="9260" data-author="Vixn" data-date="2005-10-28T04:11:57+00:00">
+<div class="post" data-post-id="9260" data-author="Vixn" data-date="2005-10-28T04:11:57+00:00" data-subject="">
 
 I was STRONGLY AGAINST level loss tert when it was brought up.  I still am very STRONGLY AGAINST level loss tert.
 
@@ -238,7 +238,7 @@ Any comments?
 
 </div>
 
-<div class="post" data-post-id="9261" data-author="Alberich" data-date="2005-10-28T04:22:41+00:00">
+<div class="post" data-post-id="9261" data-author="Alberich" data-date="2005-10-28T04:22:41+00:00" data-subject="">
 
 I was trying to come up with a nice way to say this is about the stupidest thing I've ever heard... but I couldn't.
 
@@ -256,7 +256,7 @@ Any comments?[/quote:36uu3q9j]
 
 </div>
 
-<div class="post" data-post-id="9264" data-author="Gnu" data-date="2005-10-28T06:14:26+00:00">
+<div class="post" data-post-id="9264" data-author="Gnu" data-date="2005-10-28T06:14:26+00:00" data-subject="">
 
 I suggest to change it this way:
 
@@ -274,7 +274,7 @@ last player Poolp.
 
 </div>
 
-<div class="post" data-post-id="9265" data-author="firebrand" data-date="2005-10-28T09:29:13+00:00">
+<div class="post" data-post-id="9265" data-author="firebrand" data-date="2005-10-28T09:29:13+00:00" data-subject="">
 
 I was STRONGLY AGAINST level loss tert when it was brought up.  I still am very STRONGLY AGAINST level loss tert.
 
@@ -294,7 +294,7 @@ yeah i have one: f u c k you.  lose quad are you fucking KIDDING me??? stfu and 
 
 </div>
 
-<div class="post" data-post-id="9269" data-author="Krok" data-date="2005-10-28T10:37:43+00:00">
+<div class="post" data-post-id="9269" data-author="Krok" data-date="2005-10-28T10:37:43+00:00" data-subject="">
 
 It's al a game, exp for weaks etc, but...
 
@@ -302,7 +302,7 @@ May I ask? I think clerics should have much less chances to shock. Krok, cl prim
 
 </div>
 
-<div class="post" data-post-id="9271" data-author="13" data-date="2005-10-28T10:54:00+00:00">
+<div class="post" data-post-id="9271" data-author="13" data-date="2005-10-28T10:54:00+00:00" data-subject="">
 
 Well here is the deal about sloth Pete..don't share your password.  I have no
 
@@ -316,7 +316,7 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="9273" data-author="Leaf" data-date="2005-10-28T11:46:10+00:00">
+<div class="post" data-post-id="9273" data-author="Leaf" data-date="2005-10-28T11:46:10+00:00" data-subject="">
 
 I met Aa before and I can stand to lose a few pounds :)
 
@@ -324,7 +324,7 @@ Come get some!!!   :lol:
 
 </div>
 
-<div class="post" data-post-id="9274" data-author="Grue" data-date="2005-10-28T13:08:13+00:00">
+<div class="post" data-post-id="9274" data-author="Grue" data-date="2005-10-28T13:08:13+00:00" data-subject="">
 
 Sigh. OK at work, can't remember Riurik's password, so I am posting as Grue, but for the record this is Pete.
 
@@ -340,7 +340,7 @@ Pete
 
 </div>
 
-<div class="post" data-post-id="9275" data-author="Grue" data-date="2005-10-28T13:19:21+00:00">
+<div class="post" data-post-id="9275" data-author="Grue" data-date="2005-10-28T13:19:21+00:00" data-subject="">
 
 And BTW, I don't share the passwords that matter. The char I play the most is not shared and hasn't been listed. Some of the chars I "own" I was given on the understanding I don't change the password, 2 of them are other peoples chars who have left the game (they said for a while, but it's been 4 years), and again I have a promise to them that they have access to them whenever they want. As far as crier passwords, the onlt one that anyone else has is Grue, and I have changed that now and asked Stan to creat his own account.
 
@@ -352,7 +352,7 @@ Pete
 
 </div>
 
-<div class="post" data-post-id="9276" data-author="13" data-date="2005-10-28T13:25:49+00:00">
+<div class="post" data-post-id="9276" data-author="13" data-date="2005-10-28T13:25:49+00:00" data-subject="">
 
 What I said is that if you called me poorly-raised trash to my face I would
 
@@ -360,7 +360,7 @@ have just dotted your eye.  I don't care whether you like my language or not, bu
 
 </div>
 
-<div class="post" data-post-id="9277" data-author="Grue" data-date="2005-10-28T13:40:27+00:00">
+<div class="post" data-post-id="9277" data-author="Grue" data-date="2005-10-28T13:40:27+00:00" data-subject="">
 
 OK lets do this. I can't speak for Stan, but I for one apologize for anything I've said, this has gotten out of hand.
 
@@ -374,7 +374,7 @@ Pete
 
 </div>
 
-<div class="post" data-post-id="9278" data-author="Grue" data-date="2005-10-28T13:43:08+00:00">
+<div class="post" data-post-id="9278" data-author="Grue" data-date="2005-10-28T13:43:08+00:00" data-subject="">
 
 OK, maybe this solved. I used the word fuck quoting you, but it came out as ****.
 
@@ -382,7 +382,7 @@ Pete
 
 </div>
 
-<div class="post" data-post-id="9279" data-author="Cami" data-date="2005-10-28T13:52:57+00:00">
+<div class="post" data-post-id="9279" data-author="Cami" data-date="2005-10-28T13:52:57+00:00" data-subject="">
 
 May I ask? I think clerics should have much less chances to shock. Krok, cl prime, shocks ppl with rina and shock eq. Is it fair? like... maybe good align will help us to shock less?[/quote:1fyjpwgt]
 
@@ -390,7 +390,7 @@ I agree 100%, for some reason it seems Cleric primes will shock more often than 
 
 </div>
 
-<div class="post" data-post-id="9280" data-author="13" data-date="2005-10-28T13:55:56+00:00">
+<div class="post" data-post-id="9280" data-author="13" data-date="2005-10-28T13:55:56+00:00" data-subject="">
 
 I just posted this to vent because I lost tert level twice in two weeks.
 
@@ -420,7 +420,7 @@ checks with your mouth that your ass can't cash.
 
 </div>
 
-<div class="post" data-post-id="9282" data-author="Grue" data-date="2005-10-28T14:23:59+00:00">
+<div class="post" data-post-id="9282" data-author="Grue" data-date="2005-10-28T14:23:59+00:00" data-subject="">
 
 BTW, I've spoken to the folks I share chars with and told them I am changing the passwords, as well as the names here. You are right it's not a good idea, I always tell other people that, so time to practive what I preach. What I'll do is give a few of the chars exclusively to my son, Ben. I have 2 rather pissed of people, but they'll get over it.
 
@@ -428,13 +428,13 @@ Pete
 
 </div>
 
-<div class="post" data-post-id="9283" data-author="13" data-date="2005-10-28T14:31:16+00:00">
+<div class="post" data-post-id="9283" data-author="13" data-date="2005-10-28T14:31:16+00:00" data-subject="">
 
 Solid Pete.
 
 </div>
 
-<div class="post" data-post-id="9284" data-author="Shara" data-date="2005-10-28T15:09:22+00:00">
+<div class="post" data-post-id="9284" data-author="Shara" data-date="2005-10-28T15:09:22+00:00" data-subject="">
 
 Maybe it only seems like cleric primes shock more often because cleric primes do a lot more raising?
 
@@ -442,13 +442,13 @@ I dunno...
 
 </div>
 
-<div class="post" data-post-id="9285" data-author="Leaf" data-date="2005-10-28T15:14:38+00:00">
+<div class="post" data-post-id="9285" data-author="Leaf" data-date="2005-10-28T15:14:38+00:00" data-subject="">
 
 Aa still plays too much, and u can get ur 3rd lvl within a day on the amount of time u mud :p
 
 </div>
 
-<div class="post" data-post-id="9286" data-author="Stan" data-date="2005-10-28T15:58:24+00:00">
+<div class="post" data-post-id="9286" data-author="Stan" data-date="2005-10-28T15:58:24+00:00" data-subject="">
 
 Now I remember why I quit this game in the 1st place. Small number of obnoxious aholes shooting their mouths off, flaming everyone, and no-one prepared to do anything about it. Lets all bow and scrape to Aaron even when hes being a prick.  Screw you all. Really neat that I loes access to all my chars because of your languge  :evil: Thanks Aaron!!!
 
@@ -456,7 +456,7 @@ Thanks to wheoever implemented whatever you did to block the cussing BTW.
 
 </div>
 
-<div class="post" data-post-id="9287" data-author="Poolp" data-date="2005-10-28T15:58:31+00:00">
+<div class="post" data-post-id="9287" data-author="Poolp" data-date="2005-10-28T15:58:31+00:00" data-subject="">
 
 I suggest to change it this way:
 
@@ -476,7 +476,7 @@ I can't quit when I'm boarded, so it hardly matters. But this does not make the 
 
 </div>
 
-<div class="post" data-post-id="9288" data-author="13" data-date="2005-10-28T16:17:45+00:00">
+<div class="post" data-post-id="9288" data-author="13" data-date="2005-10-28T16:17:45+00:00" data-subject="">
 
 Hey Stan, this happened because you stuck your nose in where it wasn't
 
@@ -510,7 +510,7 @@ Aa
 
 </div>
 
-<div class="post" data-post-id="9295" data-author="Toxis" data-date="2005-10-28T18:46:31+00:00">
+<div class="post" data-post-id="9295" data-author="Toxis" data-date="2005-10-28T18:46:31+00:00" data-subject="">
 
 I find ranting a very relaxing way to relieve stress.  Besides, try losing 2 terts in a month and see how pissed off you get then.
 
@@ -522,7 +522,7 @@ Oh, forgot one other thing.... STFU!!!!!!!
 
 </div>
 
-<div class="post" data-post-id="9300" data-author="Shadis" data-date="2005-10-28T22:50:08+00:00">
+<div class="post" data-post-id="9300" data-author="Shadis" data-date="2005-10-28T22:50:08+00:00" data-subject="">
 
 i don't fucking understand why people think there is any fucking bad assraping language in AA posts? i mean what in the shit 'n balls is wrong with that yeasty cunt anyways? Ya sound like a bunch of cock hugging liberals!
 
@@ -534,7 +534,7 @@ Hijo de la gran puta, chupa mi colo cabron!
 
 </div>
 
-<div class="post" data-post-id="9309" data-author="guest" data-date="2005-10-29T20:49:30+00:00">
+<div class="post" data-post-id="9309" data-author="guest" data-date="2005-10-29T20:49:30+00:00" data-subject="">
 
 [quote:24eluz6l]i figure if i ever lost a tert level i would just gossip the follwing 
 
@@ -546,7 +546,7 @@ P.d., its culo, not colo :)
 
 </div>
 
-<div class="post" data-post-id="9311" data-author="Medios" data-date="2005-10-29T21:07:19+00:00">
+<div class="post" data-post-id="9311" data-author="Medios" data-date="2005-10-29T21:07:19+00:00" data-subject="">
 
 If I lost a tert level I would just whine and cry on the crier.  Oh wait thats unoriginal... umm I would say something in another language, damnit already taken.  How about go kill myself.
 
@@ -554,13 +554,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="9313" data-author="Shadis" data-date="2005-10-29T23:24:03+00:00">
+<div class="post" data-post-id="9313" data-author="Shadis" data-date="2005-10-29T23:24:03+00:00" data-subject="">
 
 heh my wife only teaches me how to say curses in spanish, she doesn't show me how to spell them!
 
 </div>
 
-<div class="post" data-post-id="9320" data-author="13" data-date="2005-11-01T13:26:38+00:00">
+<div class="post" data-post-id="9320" data-author="13" data-date="2005-11-01T13:26:38+00:00" data-subject="Auriana?">
 
 What happened with her ?
 
@@ -568,13 +568,13 @@ What happened with her ?
 
 </div>
 
-<div class="post" data-post-id="9328" data-author="Poolp" data-date="2005-11-02T01:37:48+00:00">
+<div class="post" data-post-id="9328" data-author="Poolp" data-date="2005-11-02T01:37:48+00:00" data-subject="">
 
 You know, the usual. She felt the need to gossip about how I'm a chicken for not coming out of Inn. People tell her to shut up. She continues. She gets noshouted. She asks for a wipe.
 
 </div>
 
-<div class="post" data-post-id="9339" data-author="Alberich" data-date="2005-11-02T16:58:14+00:00">
+<div class="post" data-post-id="9339" data-author="Alberich" data-date="2005-11-02T16:58:14+00:00" data-subject="">
 
 that's too funny
 

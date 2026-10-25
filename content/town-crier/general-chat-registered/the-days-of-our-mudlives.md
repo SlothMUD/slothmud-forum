@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="9359" data-author="Blackguard" data-date="2005-11-04T07:31:46+00:00">
+<div class="post" data-post-id="9359" data-author="Blackguard" data-date="2005-11-04T07:31:46+00:00" data-subject="The Days of Our Mudlives">
 
 I just had an awesome idea. How about an funny MUD moments thread? Like, someone dying or someone saying something or doing something really stupid? Check this out, dudes!
 
@@ -1046,25 +1046,25 @@ P.S. For those who didn't get it: Gelding charmed an elf scout to try and kill m
 
 </div>
 
-<div class="post" data-post-id="9360" data-author="jezer" data-date="2005-11-04T09:39:12+00:00">
+<div class="post" data-post-id="9360" data-author="jezer" data-date="2005-11-04T09:39:12+00:00" data-subject="">
 
 troublemaker  :shock:
 
 </div>
 
-<div class="post" data-post-id="9362" data-author="Weasel" data-date="2005-11-04T12:42:12+00:00">
+<div class="post" data-post-id="9362" data-author="Weasel" data-date="2005-11-04T12:42:12+00:00" data-subject="">
 
 . .
 
 </div>
 
-<div class="post" data-post-id="9367" data-author="Rynquald" data-date="2005-11-04T21:29:46+00:00">
+<div class="post" data-post-id="9367" data-author="Rynquald" data-date="2005-11-04T21:29:46+00:00" data-subject="">
 
 yeah...weaker mobs generaly work better for that, just order them to flee if they attack the wrong char
 
 </div>
 
-<div class="post" data-post-id="9368" data-author="Leaf" data-date="2005-11-04T22:31:29+00:00">
+<div class="post" data-post-id="9368" data-author="Leaf" data-date="2005-11-04T22:31:29+00:00" data-subject="">
 
 Yea, but Braxus is a pthief so Gleding was trying to get a pkill on a thief.
 
@@ -1074,19 +1074,19 @@ sense Nice can get Gleding in trouble.  Like lvl deduct etc...
 
 </div>
 
-<div class="post" data-post-id="9370" data-author="Poolp" data-date="2005-11-05T05:32:52+00:00">
+<div class="post" data-post-id="9370" data-author="Poolp" data-date="2005-11-05T05:32:52+00:00" data-subject="">
 
 Hahaha, neat, pkill Nice more! Or anyone else in safe zones!
 
 </div>
 
-<div class="post" data-post-id="9421" data-author="Shadis" data-date="2005-11-09T00:22:01+00:00">
+<div class="post" data-post-id="9421" data-author="Shadis" data-date="2005-11-09T00:22:01+00:00" data-subject="">
 
 another example of why pthieving should not be allowed
 
 </div>
 
-<div class="post" data-post-id="9425" data-author="Krok" data-date="2005-11-09T10:20:29+00:00">
+<div class="post" data-post-id="9425" data-author="Krok" data-date="2005-11-09T10:20:29+00:00" data-subject="">
 
 is it?
 

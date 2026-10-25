@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="37896" data-author="Hung" data-date="2016-12-29T05:16:37+00:00">
+<div class="post" data-post-id="37896" data-author="Hung" data-date="2016-12-29T05:16:37+00:00" data-subject="Add shift damage gem">
 
 Hello,
 
@@ -26,7 +26,7 @@ I propose to do following:
 
 </div>
 
-<div class="post" data-post-id="37898" data-author="Josiah" data-date="2016-12-29T07:22:10+00:00">
+<div class="post" data-post-id="37898" data-author="Josiah" data-date="2016-12-29T07:22:10+00:00" data-subject="Re: Add shift damage gem">
 
 It would be nice if gems that are used in two slots (neck/neck, wrist/wrist) have a higher droprate than other gems.
 
@@ -40,7 +40,7 @@ Thanks for the recent gem update Breeze!
 
 </div>
 
-<div class="post" data-post-id="37900" data-author="Hung" data-date="2016-12-29T08:03:55+00:00">
+<div class="post" data-post-id="37900" data-author="Hung" data-date="2016-12-29T08:03:55+00:00" data-subject="Re: Add shift damage gem">
 
 I totally agree: thanks, Breeze!
 
@@ -56,7 +56,7 @@ Introducing shift_dam would solve previously mentioned issues. Also it would pro
 
 </div>
 
-<div class="post" data-post-id="37901" data-author="Gorka" data-date="2016-12-29T09:27:41+00:00">
+<div class="post" data-post-id="37901" data-author="Gorka" data-date="2016-12-29T09:27:41+00:00" data-subject="Re: Add shift damage gem">
 
 I don't disagree with the premise... but then I would have 3 GYT runes stuck on inferior equipment that would need removing instead of 2!
 
@@ -70,7 +70,7 @@ But it just needs to be said that making this change will screw some druids... a
 
 </div>
 
-<div class="post" data-post-id="37902" data-author="Filk" data-date="2016-12-29T14:07:31+00:00">
+<div class="post" data-post-id="37902" data-author="Filk" data-date="2016-12-29T14:07:31+00:00" data-subject="Re: Add shift damage gem">
 
 1. Bad and crude idea. You totally missing that its not only about that rune. You gonna change whole class vector of development just because you dont get enough gems. 
 
@@ -80,7 +80,7 @@ But you pointing at druids and offer to change them...  :lol:
 
 </div>
 
-<div class="post" data-post-id="37903" data-author="Hung" data-date="2016-12-29T15:11:09+00:00">
+<div class="post" data-post-id="37903" data-author="Hung" data-date="2016-12-29T15:11:09+00:00" data-subject="Re: Add shift damage gem">
 
 Again, it's not only about gems.
 
@@ -88,7 +88,7 @@ First and foremost, it's about nonobviousness of the current system, where hand_
 
 </div>
 
-<div class="post" data-post-id="37904" data-author="Filk" data-date="2016-12-29T15:22:24+00:00">
+<div class="post" data-post-id="37904" data-author="Filk" data-date="2016-12-29T15:22:24+00:00" data-subject="Re: Add shift damage gem">
 
 Its actually strictly logical. SInce hand dam should called unarmed dam first and foremost :)
 
@@ -100,13 +100,13 @@ So we should add notes about this to shapeshift and hand dam help files. Problem
 
 </div>
 
-<div class="post" data-post-id="37906" data-author="Josiah" data-date="2016-12-29T20:05:41+00:00">
+<div class="post" data-post-id="37906" data-author="Josiah" data-date="2016-12-29T20:05:41+00:00" data-subject="Re: Add shift damage gem">
 
 I agree fluffy, I've always called it 'unarmed damage', and I feel like that would have been a better name for it.
 
 </div>
 
-<div class="post" data-post-id="37909" data-author="Hung" data-date="2016-12-29T21:39:40+00:00">
+<div class="post" data-post-id="37909" data-author="Hung" data-date="2016-12-29T21:39:40+00:00" data-subject="Re: Add shift damage gem">
 
 Of course, renaming it to unarmed damage will help. As well as doubling rate for gems that take two slots.
 
@@ -128,7 +128,7 @@ And gy topaz will become much accessible.
 
 </div>
 
-<div class="post" data-post-id="37912" data-author="Filk" data-date="2016-12-30T02:20:07+00:00">
+<div class="post" data-post-id="37912" data-author="Filk" data-date="2016-12-30T02:20:07+00:00" data-subject="Re: Add shift damage gem">
 
 You cant make such changes after 7 years of game play. Because you ruining gameplay of players who rely on that stat for years, polishing their eq and stats around it.
 

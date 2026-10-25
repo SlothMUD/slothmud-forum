@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="12119" data-author="Nascosto" data-date="2006-04-16T22:41:02+00:00">
+<div class="post" data-post-id="12119" data-author="Nascosto" data-date="2006-04-16T22:41:02+00:00" data-subject="MXP and ZMUD">
 
 finally took a look at MXP, seems kind of interesting. Anyway, took me a while to figure out how to use it in ZMUD so I thought I'd share
 
@@ -30,7 +30,7 @@ I'm assuming the mxp tags also help for more accurate config of the automapper, 
 
 </div>
 
-<div class="post" data-post-id="12120" data-author="Nascosto" data-date="2006-04-17T03:52:11+00:00">
+<div class="post" data-post-id="12120" data-author="Nascosto" data-date="2006-04-17T03:52:11+00:00" data-subject="">
 
 also, thanks to the imms for putting this in. always fun to have new toys to play with.
 
@@ -38,13 +38,13 @@ and speaking of the automapper, one thing i prefer is to use diagonals direction
 
 </div>
 
-<div class="post" data-post-id="12121" data-author="Clink" data-date="2006-04-17T11:58:11+00:00">
+<div class="post" data-post-id="12121" data-author="Clink" data-date="2006-04-17T11:58:11+00:00" data-subject="">
 
 I'd be interested in the diagonals.  That's one of the few reason I don't use the automapper.  The other one was that it often repeated rooms, but that may happen less often now, especially with the mxp variables.
 
 </div>
 
-<div class="post" data-post-id="12132" data-author="Nascosto" data-date="2006-04-18T03:51:11+00:00">
+<div class="post" data-post-id="12132" data-author="Nascosto" data-date="2006-04-18T03:51:11+00:00" data-subject="">
 
 yeah, the automapper can be a little strange although mostly i've learnt to work around or live with most of its oddness.
 
@@ -96,7 +96,7 @@ yeah, hopefully that was somewhat coherent.
 
 </div>
 
-<div class="post" data-post-id="12134" data-author="Nascosto" data-date="2006-04-18T04:09:14+00:00">
+<div class="post" data-post-id="12134" data-author="Nascosto" data-date="2006-04-18T04:09:14+00:00" data-subject="">
 
 left out some steps,
 
@@ -104,7 +104,7 @@ once you create the NULL mud and open it once (step e), quit ZMUD and copy the d
 
 </div>
 
-<div class="post" data-post-id="27479" data-author="Ordin" data-date="2008-12-16T18:45:43+00:00">
+<div class="post" data-post-id="27479" data-author="Ordin" data-date="2008-12-16T18:45:43+00:00" data-subject="">
 
 #mxptrig {rdesc} {#var room_descrip %0} to set the variable room_descrip to its tagged value. 
 
@@ -112,7 +112,7 @@ can this be manipulated for other games or does the game have to have mxp?
 
 </div>
 
-<div class="post" data-post-id="27484" data-author="*Splork*" data-date="2008-12-16T22:56:42+00:00">
+<div class="post" data-post-id="27484" data-author="*Splork*" data-date="2008-12-16T22:56:42+00:00" data-subject="">
 
 The game has to have mxp...
 

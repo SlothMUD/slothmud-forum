@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="33173" data-author="Ezekiel" data-date="2012-02-23T17:30:41+00:00">
+<div class="post" data-post-id="33173" data-author="Ezekiel" data-date="2012-02-23T17:30:41+00:00" data-subject="Fargate? Fast Repop? No cap? Are these days set anymore?">
 
 Heya, Ezekiel here. I don't mean to complain...but rather question... if something has accidentally been messed up with the new integration of the continent specific fargate/nocap/fast repop days? The regular (non-continent specific) days seem to not be turning on automatically like they used to. For instance...I logged on the 23rd to finish some intercont quests. This is what I got...
 
@@ -44,7 +44,7 @@ Ezekiel
 
 </div>
 
-<div class="post" data-post-id="33174" data-author="*Isabo*" data-date="2012-02-23T18:23:39+00:00">
+<div class="post" data-post-id="33174" data-author="*Isabo*" data-date="2012-02-23T18:23:39+00:00" data-subject="Re: Fargate? Fast Repop? No cap? Are these days set anymore?">
 
 Greetings, Ezekiel.
 
@@ -119,7 +119,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="33175" data-author="Ezekiel" data-date="2012-02-23T18:52:34+00:00">
+<div class="post" data-post-id="33175" data-author="Ezekiel" data-date="2012-02-23T18:52:34+00:00" data-subject="Re: Fargate? Fast Repop? No cap? Are these days set anymore?">
 
 Thanks for the info...missed that post. I'm sure this will help some others who may have missed it as well.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32478" data-author="*Chobbs*" data-date="2011-03-12T23:01:40+00:00">
+<div class="post" data-post-id="32478" data-author="*Chobbs*" data-date="2011-03-12T23:01:40+00:00" data-subject="How about a SlothWiki!">
 
 Mornin' folks,
 
@@ -42,7 +42,7 @@ Chobbs
 
 </div>
 
-<div class="post" data-post-id="32479" data-author="*Breeze*" data-date="2011-03-13T00:31:53+00:00">
+<div class="post" data-post-id="32479" data-author="*Breeze*" data-date="2011-03-13T00:31:53+00:00" data-subject="Re: How about a SlothWiki!">
 
 looks great chobbs!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="20314" data-author="mahkra" data-date="2007-09-18T23:58:25+00:00">
+<div class="post" data-post-id="20314" data-author="mahkra" data-date="2007-09-18T23:58:25+00:00" data-subject="So anyone have a &quot;good&quot; linux Mud Client">
 
 So I am going thru my Bi-yearly I hate windows phase and am back running linux again. Good news is Ubuntu actually is not a complete science project to get to run anymore.
 
@@ -26,7 +26,7 @@ Oh and yes I tried getting wintin to work in mono gives library errors. (can pos
 
 </div>
 
-<div class="post" data-post-id="20315" data-author="Weasel" data-date="2007-09-19T00:13:27+00:00">
+<div class="post" data-post-id="20315" data-author="Weasel" data-date="2007-09-19T00:13:27+00:00" data-subject="">
 
 Have a look thru this list:
 
@@ -36,7 +36,7 @@ Have a look thru this list:
 
 </div>
 
-<div class="post" data-post-id="20331" data-author="mahkra" data-date="2007-09-20T15:18:36+00:00">
+<div class="post" data-post-id="20331" data-author="mahkra" data-date="2007-09-20T15:18:36+00:00" data-subject="">
 
 Looks like Kmuddy is the only linux client that does MXP...
 

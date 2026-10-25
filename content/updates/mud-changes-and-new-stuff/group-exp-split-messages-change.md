@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31057" data-author="*Isabo*" data-date="2010-04-17T02:35:20+00:00">
+<div class="post" data-post-id="31057" data-author="*Isabo*" data-date="2010-04-17T02:35:20+00:00" data-subject="Group exp split messages change">
 
 Good day, adventurers.
 

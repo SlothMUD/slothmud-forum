@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="8139" data-author="Leran" data-date="2005-08-04T02:53:16+00:00">
+<div class="post" data-post-id="8139" data-author="Leran" data-date="2005-08-04T02:53:16+00:00" data-subject="Equipment/Stat questions">
 
 I am new to this mud, and am currently playing a Ma/Mo/Cl/Dr.  I was curious about what items I should try to kit up with, since I know nothing about what's available to these classes (currently lvl 15/8/3/0, but xp isn't going so slow anymore).
 
@@ -18,7 +18,7 @@ I was also curious about stats.  Does wearing +int eq when you level gain give y
 
 </div>
 
-<div class="post" data-post-id="8140" data-author="Taki" data-date="2005-08-04T07:25:55+00:00">
+<div class="post" data-post-id="8140" data-author="Taki" data-date="2005-08-04T07:25:55+00:00" data-subject="">
 
 Welcome on board!
 
@@ -52,7 +52,7 @@ And above all, have fun!
 
 </div>
 
-<div class="post" data-post-id="8141" data-author="Alberich" data-date="2005-08-04T10:44:26+00:00">
+<div class="post" data-post-id="8141" data-author="Alberich" data-date="2005-08-04T10:44:26+00:00" data-subject="">
 
 well, for eq, the best idea is just spend some time looking over the eq list, checking restricts and such as you go - some of the nicer things will wind up being ridiculously hard to get, but you'll figure that out as you go :)
 
@@ -70,13 +70,13 @@ wis affects your mana regen/your chance to raise others
 
 </div>
 
-<div class="post" data-post-id="8142" data-author="13" data-date="2005-08-04T11:05:35+00:00">
+<div class="post" data-post-id="8142" data-author="13" data-date="2005-08-04T11:05:35+00:00" data-subject="">
 
 It looks like a pretty solid class-order to me.  I would concentrate on spelldmg/handdmg.  As a mage/monk firewind and bare hands are your weapons.  When using tokens try not to keep a stat under 14 if you can help it.  Look into drachma.  Drachma is currecny with which you can buy very nice eq.  Ask shelda about quests for a starter :)
 
 </div>
 
-<div class="post" data-post-id="8143" data-author="12345" data-date="2005-08-04T11:19:29+00:00">
+<div class="post" data-post-id="8143" data-author="12345" data-date="2005-08-04T11:19:29+00:00" data-subject="">
 
 One thing to keep in mind is that Sloth is dynamic and not level based.  For instance, you asked if higher int when leveling gave more mana.  This is both true and false.  Higher int will give you more mana.. up to about +30 mana or more for 18 int.  However, as soon as you take the int eq off, your mana will go back down again.  +Con equipment works the same way with hps.  Unlike some games where you load up with +con and +wis gear to level for high practices and high hps, that's not going to work here.
 

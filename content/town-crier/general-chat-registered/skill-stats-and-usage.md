@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="30547" data-author="*Splork*" data-date="2009-12-30T00:35:47+00:00">
+<div class="post" data-post-id="30547" data-author="*Splork*" data-date="2009-12-30T00:35:47+00:00" data-subject="Skill stats and usage">
 
 Against my better judgement and to get some chatter going amongst friends, I am posting 7 days worth of skills and their hit misses. I am not doing this to cause a stir or riot but to get some friendly banter going regarding our skills. 
 
@@ -168,7 +168,7 @@ Thanks for playing guys, the game has been running great and we could not be mor
 
 </div>
 
-<div class="post" data-post-id="30548" data-author="jezer" data-date="2009-12-30T04:50:53+00:00">
+<div class="post" data-post-id="30548" data-author="jezer" data-date="2009-12-30T04:50:53+00:00" data-subject="">
 
 Small update on this, after some checks it was found that the deathgrip counter was broken, and apparently it will be fixed next reboot.
 
@@ -182,7 +182,7 @@ Also for those who weren't on. Once an item has been popped and or identified it
 
 </div>
 
-<div class="post" data-post-id="30549" data-author="*Splork*" data-date="2009-12-30T05:00:58+00:00">
+<div class="post" data-post-id="30549" data-author="*Splork*" data-date="2009-12-30T05:00:58+00:00" data-subject="">
 
 Well the code works as originally intended, to make sure casting percentages and skill percentages were working correctly and to also show us which are being used the most or in the opposite case, which spells or skills need looking into because they are never used.
 
@@ -194,7 +194,7 @@ Rick
 
 </div>
 
-<div class="post" data-post-id="30550" data-author="jezer" data-date="2009-12-30T10:11:56+00:00">
+<div class="post" data-post-id="30550" data-author="jezer" data-date="2009-12-30T10:11:56+00:00" data-subject="">
 
 Some of these stats just can't be right. Mainly those ones with 0 fails. Kick fail seems to high, strike fail seems to low, and who has avatar attack and why is it working 100% of the time? Rapid shift and Battle Shift aren't as bad generally as these stats make out either.
 
@@ -204,7 +204,7 @@ I'd also like to know, who the heck is using dodge?  :shock:
 
 </div>
 
-<div class="post" data-post-id="30551" data-author="*Splork*" data-date="2009-12-30T12:44:14+00:00">
+<div class="post" data-post-id="30551" data-author="*Splork*" data-date="2009-12-30T12:44:14+00:00" data-subject="">
 
 There are no immortal checks and all of these stats are prehit.
 

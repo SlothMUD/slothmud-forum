@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="14956" data-author="*juggleblood*" data-date="2006-11-03T15:48:08+00:00">
+<div class="post" data-post-id="14956" data-author="*juggleblood*" data-date="2006-11-03T15:48:08+00:00" data-subject="Autoblast .NET">
 
 posted this at someones request. Its not complet, but does the trick
 
@@ -28,7 +28,7 @@ posted this at someones request. Its not complet, but does the trick
 
 </div>
 
-<div class="post" data-post-id="14957" data-author="Vixn" data-date="2006-11-03T18:07:52+00:00">
+<div class="post" data-post-id="14957" data-author="Vixn" data-date="2006-11-03T18:07:52+00:00" data-subject="">
 
 don't blast on double wiff? do you think it's impossible? 
 

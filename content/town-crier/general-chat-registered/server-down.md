@@ -10,19 +10,19 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="13152" data-author="Ker" data-date="2006-06-26T06:51:39+00:00">
+<div class="post" data-post-id="13152" data-author="Ker" data-date="2006-06-26T06:51:39+00:00" data-subject="Server Down ?">
 
 Title
 
 </div>
 
-<div class="post" data-post-id="13153" data-author="tincts" data-date="2006-06-26T07:14:11+00:00">
+<div class="post" data-post-id="13153" data-author="tincts" data-date="2006-06-26T07:14:11+00:00" data-subject="">
 
 Sigh.  Would appear so.  Would someone post when it's back up?
 
 </div>
 
-<div class="post" data-post-id="13154" data-author="tincts" data-date="2006-06-26T07:23:48+00:00">
+<div class="post" data-post-id="13154" data-author="tincts" data-date="2006-06-26T07:23:48+00:00" data-subject="">
 
 Hey I'll post :) Back up
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="39822" data-author="*teker*" data-date="2021-09-18T20:15:03+00:00">
+<div class="post" data-post-id="39822" data-author="*teker*" data-date="2021-09-18T20:15:03+00:00" data-subject="2021.09.18 recent changes">
 
 Hopefully you're seeing MXP back to where it was previously.
 
@@ -20,7 +20,7 @@ Some changes were made to EYE OF THE BEHOLDER to prevent shopkeepers and guild m
 
 </div>
 
-<div class="post" data-post-id="39823" data-author="cnl" data-date="2021-09-19T00:25:04+00:00">
+<div class="post" data-post-id="39823" data-author="cnl" data-date="2021-09-19T00:25:04+00:00" data-subject="Re: 2021.09.18 recent changes">
 
 MXP behavior seems to be normal again - people I spoke to report no more weird symbols on login and I don't see mxp tags showing up on channel command. The MXP parser in mudlet is broken though, as detailed in another post, so I personally recommend mudlet players not to use MXP at all. Thanks for getting the fixes for this and vault issue so quickly out there.
 
@@ -36,7 +36,7 @@ thanks
 
 </div>
 
-<div class="post" data-post-id="39824" data-author="Ezekiel" data-date="2021-09-19T06:29:44+00:00">
+<div class="post" data-post-id="39824" data-author="Ezekiel" data-date="2021-09-19T06:29:44+00:00" data-subject="Re: 2021.09.18 recent changes">
 
 I second that about eye of the beholder. Finding 'features' within the game is part of the fun, especially at end game for characters. You have people botting in groups for 100+B a week and 50M gold, but those at the keyboard that are active are the ones that get features that they've found nerfed? I mean, I understand if someone is abusing it for something game breaking. But if something is discovered that is harmless, what's the difference? Say for instance you were able to eye out Neptune's City of Dis mobs from their safe zones to make the kill/chop go more quickly (these safe zone mobs are intended to be killed). A change to safe zone mobs blanketly because it had happened to be noticed that a safe zone mob was moved, it changes the intent of some mobs that are in safe zones that are meant to be wooed out. i.e. Elzeard. That mob is designed to take some effort to be able to adequately kill, even though in a safe zone. Again, I've no issue with changing game breaking 'features'...but even if someone, say moved a guildmaster and killed it... it would show back up on repop no? That's not really game breaking. If one safe zone mob was being moved and someone was abusing/game-breaking, I'd hope that that singular mob would be changed based on the circumstance. I don't know the whole backstory though, but as someone at that end stage, finding these features within the game are the only new discoveries the veterans have left to give them that sense of 'ah-ha' as a new player on Valk would. To nerf these things on a blanket level based on room type or more than just circumstantially just gives us a feeling of a great part of the game being taken away and demotivates us to find even more features.... at end game more boredom and less things to be interested in.
 
@@ -46,13 +46,13 @@ Thanks- Zeke
 
 </div>
 
-<div class="post" data-post-id="39825" data-author="*teker*" data-date="2021-09-19T16:16:49+00:00">
+<div class="post" data-post-id="39825" data-author="*teker*" data-date="2021-09-19T16:16:49+00:00" data-subject="Re: 2021.09.18 recent changes">
 
 I was more concerned with shopkeepers and guildmasters being moved and not killed.  That will break some shops and make it difficult for new players to figure out where to level.
 
 </div>
 
-<div class="post" data-post-id="39826" data-author="cnl" data-date="2021-09-19T18:00:00+00:00">
+<div class="post" data-post-id="39826" data-author="cnl" data-date="2021-09-19T18:00:00+00:00" data-subject="Re: 2021.09.18 recent changes">
 
 Protecting newbies from confusion makes sense as a goal but I don't think that's a thing that's actually happening. I've been playing for a year but I'm not familiar with a single instance of a newbie not being able to find a shopkeeper or guild master because they've been moved about with eye.
 
@@ -66,7 +66,7 @@ And since most shop keepers / guildmasters don't respond to eye for whatever rea
 
 </div>
 
-<div class="post" data-post-id="39827" data-author="cnl" data-date="2021-09-20T17:25:17+00:00">
+<div class="post" data-post-id="39827" data-author="cnl" data-date="2021-09-20T17:25:17+00:00" data-subject="Re: 2021.09.18 recent changes">
 
 some initial testing post reboot on the assumption the changes went in with the reboot.
 
@@ -88,7 +88,7 @@ I suppose it's possible the changes aren't deployed as well :)
 
 </div>
 
-<div class="post" data-post-id="39828" data-author="Gorka" data-date="2021-09-22T05:20:34+00:00">
+<div class="post" data-post-id="39828" data-author="Gorka" data-date="2021-09-22T05:20:34+00:00" data-subject="Re: 2021.09.18 recent changes">
 
 Teker,
 
@@ -98,7 +98,7 @@ To me the eqset deposit command isn't useful because it deposits items used in o
 
 </div>
 
-<div class="post" data-post-id="39829" data-author="cnl" data-date="2021-09-22T16:59:10+00:00">
+<div class="post" data-post-id="39829" data-author="cnl" data-date="2021-09-22T16:59:10+00:00" data-subject="Re: 2021.09.18 recent changes">
 
 It's kind of a kludge and would be a maintenance headache, but you could create an eqset that has just the items you want to store sans any clasps etc.
 
@@ -110,7 +110,7 @@ I imagine at your level eq sets don't change that often so should be doable if n
 
 </div>
 
-<div class="post" data-post-id="39836" data-author="Insomnia" data-date="2021-10-09T01:12:12+00:00">
+<div class="post" data-post-id="39836" data-author="Insomnia" data-date="2021-10-09T01:12:12+00:00" data-subject="Re: 2021.09.18 recent changes">
 
 So can we get a different fix for whatever you tried to fix with changing eye of the beholder?
 

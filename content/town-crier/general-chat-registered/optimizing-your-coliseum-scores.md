@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39370" data-author="Gorka" data-date="2020-02-06T08:22:04+00:00">
+<div class="post" data-post-id="39370" data-author="Gorka" data-date="2020-02-06T08:22:04+00:00" data-subject="Optimizing your coliseum scores">
 
 So although it might be more convenient to blame any number of external factors outside of your control, the truth is there are ways to get more out of your coliseum runs no matter what class order you have or your player power. Clearly not everyone in the game cares about "being better" but for those who do, here are some tips to help your coliseum runs. It's completely normal to need to heal or refresh in the harder coliseums.
 

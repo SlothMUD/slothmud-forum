@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="36078" data-author="Dragoth" data-date="2015-09-08T13:40:38+00:00">
+<div class="post" data-post-id="36078" data-author="Dragoth" data-date="2015-09-08T13:40:38+00:00" data-subject="6x40 Necro for sale">
 
 Alright, havenâ€™t got the time to play this char, and I really see no point in storing chars - that does no one any good, so this guy is up for sale.
 
@@ -180,7 +180,7 @@ The following bonuses affect you:
 
 </div>
 
-<div class="post" data-post-id="36086" data-author="Dragoth" data-date="2015-09-09T18:58:32+00:00">
+<div class="post" data-post-id="36086" data-author="Dragoth" data-date="2015-09-09T18:58:32+00:00" data-subject="Re: 6x40 Necro for sale">
 
 Price reduction: 15million coins
 
@@ -506,7 +506,7 @@ The blueish glow surrounding the token fades.
 
 </div>
 
-<div class="post" data-post-id="36099" data-author="Dragoth" data-date="2015-09-12T14:06:47+00:00">
+<div class="post" data-post-id="36099" data-author="Dragoth" data-date="2015-09-12T14:06:47+00:00" data-subject="Re: 6x40 Necro for sale">
 
 Updated and final
 
@@ -516,7 +516,7 @@ Looking for:
 
 </div>
 
-<div class="post" data-post-id="36100" data-author="Tuck" data-date="2015-09-14T07:49:18+00:00">
+<div class="post" data-post-id="36100" data-author="Tuck" data-date="2015-09-14T07:49:18+00:00" data-subject="Re: 6x40 Necro for sale">
 
 don't buy it
 
@@ -524,7 +524,7 @@ she is clown ripper
 
 </div>
 
-<div class="post" data-post-id="36101" data-author="Dragoth" data-date="2015-09-14T13:11:40+00:00">
+<div class="post" data-post-id="36101" data-author="Dragoth" data-date="2015-09-14T13:11:40+00:00" data-subject="Re: 6x40 Necro for sale">
 
 lol what 
 

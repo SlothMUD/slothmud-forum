@@ -10,7 +10,7 @@ locked: true
 post_count: 2
 ---
 
-<div class="post" data-post-id="32851" data-author="*juggleblood*" data-date="2011-09-04T12:15:55+00:00">
+<div class="post" data-post-id="32851" data-author="*juggleblood*" data-date="2011-09-04T12:15:55+00:00" data-subject="Sloth Event Mail List">
 
 I'm pondering some small quest events. If you would like to receive an email notice that an event is about to go down, sign up for the event list.
 
@@ -20,7 +20,7 @@ Email breeze @ slothmud.org and put event list in the subject line to get added.
 
 </div>
 
-<div class="post" data-post-id="32904" data-author="*juggleblood*" data-date="2011-09-13T14:01:10+00:00">
+<div class="post" data-post-id="32904" data-author="*juggleblood*" data-date="2011-09-13T14:01:10+00:00" data-subject="Re: Sloth Event Mail List">
 
 Bump. Join!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34018" data-author="*Neptune*" data-date="2013-02-09T23:09:35+00:00">
+<div class="post" data-post-id="34018" data-author="*Neptune*" data-date="2013-02-09T23:09:35+00:00" data-subject="A Bit Of Newbatian Gossip">
 
 The other day, I was visiting the town of Newbatia on the continent of
 

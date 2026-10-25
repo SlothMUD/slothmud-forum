@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="25774" data-author="Ulmo" data-date="2008-08-17T16:57:07+00:00">
+<div class="post" data-post-id="25774" data-author="Ulmo" data-date="2008-08-17T16:57:07+00:00" data-subject="Herbalist Isle I AreaOpener Quest Friday, Aug 22 6pm Pacific">
 
 That pretty much says it.
 
@@ -36,13 +36,13 @@ hope to see you there,
 
 </div>
 
-<div class="post" data-post-id="25779" data-author="*juggleblood*" data-date="2008-08-17T17:49:34+00:00">
+<div class="post" data-post-id="25779" data-author="*juggleblood*" data-date="2008-08-17T17:49:34+00:00" data-subject="">
 
 Spread the word indeed. The quest is quite impressive and the zone itself is a lot of fun as well. Ulmo has put a lot of effort into both.
 
 </div>
 
-<div class="post" data-post-id="25780" data-author="Sind" data-date="2008-08-17T17:58:31+00:00">
+<div class="post" data-post-id="25780" data-author="Sind" data-date="2008-08-17T17:58:31+00:00" data-subject="">
 
 so theres Jamaica in sloth now, cool!
 
@@ -52,7 +52,7 @@ Bob Marley glows with a bright green light!
 
 </div>
 
-<div class="post" data-post-id="25782" data-author="Yasik2" data-date="2008-08-17T18:35:56+00:00">
+<div class="post" data-post-id="25782" data-author="Yasik2" data-date="2008-08-17T18:35:56+00:00" data-subject="">
 
 cool, i like herbs
 
@@ -60,7 +60,7 @@ cool, i like herbs
 
 </div>
 
-<div class="post" data-post-id="25783" data-author="Tap" data-date="2008-08-17T22:12:23+00:00">
+<div class="post" data-post-id="25783" data-author="Tap" data-date="2008-08-17T22:12:23+00:00" data-subject="">
 
 You brutally massacre Mob Barley to small fragments with your slash.
 
@@ -80,7 +80,7 @@ You are hungry.
 
 </div>
 
-<div class="post" data-post-id="25791" data-author="*juggleblood*" data-date="2008-08-18T01:21:37+00:00">
+<div class="post" data-post-id="25791" data-author="*juggleblood*" data-date="2008-08-18T01:21:37+00:00" data-subject="">
 
 cool, i like herbs
 
@@ -90,13 +90,13 @@ thc soluble in trans-fat? You think we have an obesity problem now!
 
 </div>
 
-<div class="post" data-post-id="25795" data-author="Weasel" data-date="2008-08-18T02:25:06+00:00">
+<div class="post" data-post-id="25795" data-author="Weasel" data-date="2008-08-18T02:25:06+00:00" data-subject="">
 
 I'll be in Vegas, sorry.
 
 </div>
 
-<div class="post" data-post-id="25805" data-author="jezer" data-date="2008-08-18T06:26:23+00:00">
+<div class="post" data-post-id="25805" data-author="jezer" data-date="2008-08-18T06:26:23+00:00" data-subject="">
 
 The last quest (Dorky Dorrin) I realized how little I actually know about this game.  :cry:  I had big intentions of impressing people with my smarts, and taking more of an active roll, and stupid Rynquald was far to smart for me to keep up! He even knew what Dorrin lost and where to find it before Dorrin himself could explain it all. I'm also expecting great things from reboog. With a name like goober spelt backwards that is definately the awesomeness.
 
@@ -106,19 +106,19 @@ Hope there is some drooid eq's to fight over... since herbs are from nature righ
 
 </div>
 
-<div class="post" data-post-id="25807" data-author="Stryx" data-date="2008-08-18T09:01:15+00:00">
+<div class="post" data-post-id="25807" data-author="Stryx" data-date="2008-08-18T09:01:15+00:00" data-subject="">
 
 Lets not forget. Big THANKS :D  to Ulmo, and all those who helped Ulmo, to continue to make SlothMud bigger and better for the rest of us lot to enjoy. Keeping SlothMud one of the top muds on TMC.
 
 </div>
 
-<div class="post" data-post-id="25809" data-author="Jag" data-date="2008-08-18T13:45:26+00:00">
+<div class="post" data-post-id="25809" data-author="Jag" data-date="2008-08-18T13:45:26+00:00" data-subject="">
 
 Yeah, what he said.  Thanks!
 
 </div>
 
-<div class="post" data-post-id="25813" data-author="Yinao" data-date="2008-08-18T18:12:47+00:00">
+<div class="post" data-post-id="25813" data-author="Yinao" data-date="2008-08-18T18:12:47+00:00" data-subject="">
 
 Whoa, wait... A reason to log on?  :shock: 
 
@@ -126,7 +126,7 @@ I'll try to show :)
 
 </div>
 
-<div class="post" data-post-id="25818" data-author="Mosaix" data-date="2008-08-18T21:35:36+00:00">
+<div class="post" data-post-id="25818" data-author="Mosaix" data-date="2008-08-18T21:35:36+00:00" data-subject="">
 
 The work on the new area is much appreciated.  
 
@@ -136,19 +136,19 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="25856" data-author="Ezekiel" data-date="2008-08-21T22:21:43+00:00">
+<div class="post" data-post-id="25856" data-author="Ezekiel" data-date="2008-08-21T22:21:43+00:00" data-subject="">
 
 Thanks much to Ulmo and all others who have been working diligently to make updates and create new areas. I'm surely in for the quest. See you all there. -Ezekiel
 
 </div>
 
-<div class="post" data-post-id="25858" data-author="jezer" data-date="2008-08-21T23:25:27+00:00">
+<div class="post" data-post-id="25858" data-author="jezer" data-date="2008-08-21T23:25:27+00:00" data-subject="">
 
 My internet is broke at home... waiting for tel co to fix the line at the exchange :( I may miss the opener if it's not fixed today. Have a good one.
 
 </div>
 
-<div class="post" data-post-id="25862" data-author="Shyla" data-date="2008-08-22T02:29:01+00:00">
+<div class="post" data-post-id="25862" data-author="Shyla" data-date="2008-08-22T02:29:01+00:00" data-subject="">
 
 I won't get home from work til probably about 1030 pm est is there anyway I will be allowed to quest? or should i just plan on not getting on at all b/c you will have the mud tied up :)
 
@@ -156,7 +156,7 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="25865" data-author="Tap" data-date="2008-08-22T02:45:11+00:00">
+<div class="post" data-post-id="25865" data-author="Tap" data-date="2008-08-22T02:45:11+00:00" data-subject="">
 
 I won't get home from work til probably about 1030 pm est is there anyway I will be allowed to quest? or should i just plan on not getting on at all b/c you will have the mud tied up :)
 
@@ -166,7 +166,7 @@ Bondage theme quest? Break out the leather-wear!!!
 
 </div>
 
-<div class="post" data-post-id="25872" data-author="*juggleblood*" data-date="2008-08-23T04:20:12+00:00">
+<div class="post" data-post-id="25872" data-author="*juggleblood*" data-date="2008-08-23T04:20:12+00:00" data-subject="">
 
 Sorry if the skiff destruction was somewhat anticlimatic. The messages for the skiff sinking got lost in the insane spam of everyone attacking it. Look for a new and improved skiff that sinks better in future autoquests with features like status indicator and better success proc.
 
@@ -174,7 +174,7 @@ Thanks Ulmo for a great quest and new area.
 
 </div>
 
-<div class="post" data-post-id="25876" data-author="Ezekiel" data-date="2008-08-23T04:58:20+00:00">
+<div class="post" data-post-id="25876" data-author="Ezekiel" data-date="2008-08-23T04:58:20+00:00" data-subject="">
 
 Thanks much for quest Ulmo, many deaths for fun and nice prizes at the end. To all who weren't there, I got some mob ping names we faced... ( though i don't know which would actually be in area and which are quest only)...
 
@@ -230,7 +230,7 @@ The kobold skiff captain is referred to by the words 'kobold male dog skiff comm
 
 </div>
 
-<div class="post" data-post-id="25877" data-author="Rynquald" data-date="2008-08-23T05:02:24+00:00">
+<div class="post" data-post-id="25877" data-author="Rynquald" data-date="2008-08-23T05:02:24+00:00" data-subject="">
 
 Thanks for the quest and new area. It was a very good opener :)
 
@@ -240,7 +240,7 @@ May I suggest adding a little lag to 'kill skiff', it might keep the spam rate d
 
 </div>
 
-<div class="post" data-post-id="25879" data-author="Liar" data-date="2008-08-23T05:17:47+00:00">
+<div class="post" data-post-id="25879" data-author="Liar" data-date="2008-08-23T05:17:47+00:00" data-subject="">
 
 Going to say same thing, thanks for the quest and new area :)
 
@@ -306,7 +306,7 @@ a hook-nailed avian claw..It has a soft glowing aura!
 
 </div>
 
-<div class="post" data-post-id="25880" data-author="shimbo" data-date="2008-08-23T05:19:47+00:00">
+<div class="post" data-post-id="25880" data-author="shimbo" data-date="2008-08-23T05:19:47+00:00" data-subject="">
 
 Thanx for the quest, was much fun. Rewards were good also. Here is the list of what was in the goody sacks:
 

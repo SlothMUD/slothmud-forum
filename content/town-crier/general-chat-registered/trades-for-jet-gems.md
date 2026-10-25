@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="33721" data-author="Ker" data-date="2012-11-11T02:25:31+00:00">
+<div class="post" data-post-id="33721" data-author="Ker" data-date="2012-11-11T02:25:31+00:00" data-subject="Trades for Jet gems.">
 
 Good day,
 
@@ -68,13 +68,13 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="33722" data-author="blackmore" data-date="2012-11-11T05:13:01+00:00">
+<div class="post" data-post-id="33722" data-author="blackmore" data-date="2012-11-11T05:13:01+00:00" data-subject="Re: Trades for Jet gems.">
 
 I'd be willing to give up a jet for C if it's still available - see me.
 
 </div>
 
-<div class="post" data-post-id="33723" data-author="Ker" data-date="2012-11-11T05:41:30+00:00">
+<div class="post" data-post-id="33723" data-author="Ker" data-date="2012-11-11T05:41:30+00:00" data-subject="Re: Trades for Jet gems.">
 
 Items C) and D) are traded away.
 
@@ -86,7 +86,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="33724" data-author="Ker" data-date="2012-11-11T12:44:45+00:00">
+<div class="post" data-post-id="33724" data-author="Ker" data-date="2012-11-11T12:44:45+00:00" data-subject="Re: Trades for Jet gems.">
 
 Items A) and B) are traded away.
 

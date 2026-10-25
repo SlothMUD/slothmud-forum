@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="20332" data-author="brand" data-date="2007-09-20T15:32:56+00:00">
+<div class="post" data-post-id="20332" data-author="brand" data-date="2007-09-20T15:32:56+00:00" data-subject="+1 str...275 drachma...grind it...">
 
 ok just asking your option...
 
@@ -26,7 +26,7 @@ brand
 
 </div>
 
-<div class="post" data-post-id="20333" data-author="13" data-date="2007-09-20T16:13:47+00:00">
+<div class="post" data-post-id="20333" data-author="13" data-date="2007-09-20T16:13:47+00:00" data-subject="">
 
 no deal
 
@@ -38,13 +38,13 @@ drachma is (mostly)finite and boring
 
 </div>
 
-<div class="post" data-post-id="20334" data-author="brady" data-date="2007-09-20T16:14:11+00:00">
+<div class="post" data-post-id="20334" data-author="brady" data-date="2007-09-20T16:14:11+00:00" data-subject="">
 
 275 drachma for one Strenth point?  Don't! Do! It!
 
 </div>
 
-<div class="post" data-post-id="20341" data-author="firebrand" data-date="2007-09-21T13:57:39+00:00">
+<div class="post" data-post-id="20341" data-author="firebrand" data-date="2007-09-21T13:57:39+00:00" data-subject="">
 
 you can list at lyme mayor to see what token + coin cost is for purchaseables
 
@@ -54,7 +54,7 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="20342" data-author="13" data-date="2007-09-21T16:11:19+00:00">
+<div class="post" data-post-id="20342" data-author="13" data-date="2007-09-21T16:11:19+00:00" data-subject="">
 
 only if youre a 40 tard i think
 

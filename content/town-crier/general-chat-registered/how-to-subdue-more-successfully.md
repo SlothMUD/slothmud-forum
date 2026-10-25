@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39743" data-author="Gorka" data-date="2021-06-26T18:43:30+00:00">
+<div class="post" data-post-id="39743" data-author="Gorka" data-date="2021-06-26T18:43:30+00:00" data-subject="How to subdue more successfully">
 
 Thought I would put this out there, now that with the new conquest system, rebirths will want to subdue all mobs in all areas... The issue is kind of contradictory in a way, because the points we spend to make ourselves more powerful, can make the subdue more difficult... so how can we aim for more success?
 
@@ -48,13 +48,13 @@ If you have other/better methods please post.
 
 </div>
 
-<div class="post" data-post-id="39744" data-author="Insomnia" data-date="2021-06-27T01:18:15+00:00">
+<div class="post" data-post-id="39744" data-author="Insomnia" data-date="2021-06-27T01:18:15+00:00" data-subject="Re: How to subdue more successfully">
 
 Check if the room is noflee/noretreat before fight. Keep the mob blind. Get sleeves of shadow and pain – some large mobs are immune to acid blast and blindness (e.g. Baraneth), and sleeves proc is invaluable.
 
 </div>
 
-<div class="post" data-post-id="39789" data-author="Guinex" data-date="2021-07-20T04:09:49+00:00">
+<div class="post" data-post-id="39789" data-author="Guinex" data-date="2021-07-20T04:09:49+00:00" data-subject="Re: How to subdue more successfully">
 
 Use a piercing weapon that is not impacted by weapon damage.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 47
 ---
 
-<div class="post" data-post-id="13002" data-author="slobe" data-date="2006-06-16T22:01:10+00:00">
+<div class="post" data-post-id="13002" data-author="slobe" data-date="2006-06-16T22:01:10+00:00" data-subject="splorks post">
 
 Why do you keep changing things jujus where all ready underpowered once right?
 
@@ -20,7 +20,7 @@ Ps I am done voting for sloth
 
 </div>
 
-<div class="post" data-post-id="13003" data-author="Weasel" data-date="2006-06-16T22:23:54+00:00">
+<div class="post" data-post-id="13003" data-author="Weasel" data-date="2006-06-16T22:23:54+00:00" data-subject="">
 
 "solo some kick ass eq" ..if you can do that with whatever your classo is, then you're almost certainly overpowered.. depending what you mean by 'kick ass eq' of course..
 
@@ -28,7 +28,7 @@ Most top of the line eq has almost always been group-level to get for however ma
 
 </div>
 
-<div class="post" data-post-id="13004" data-author="Medios" data-date="2006-06-16T23:43:21+00:00">
+<div class="post" data-post-id="13004" data-author="Medios" data-date="2006-06-16T23:43:21+00:00" data-subject="">
 
 This posting cracks me up.  Your done voting for sloth. LOL  You think the imms are gonna jump in there and fix the nerf just because you wont vote.  This post just shows how childish you are.  Necros are still powerful as hell and you dont know wtf your talking about.  Also if you think you can solo every piece of eq on the game your crazy,  at some point your going to have to group unless you want to run around with eq that looks like Rawr.  
 
@@ -36,13 +36,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13005" data-author="12345" data-date="2006-06-16T23:57:41+00:00">
+<div class="post" data-post-id="13005" data-author="12345" data-date="2006-06-16T23:57:41+00:00" data-subject="">
 
 Depends how you look at it.  Most players can solo some kick ass eq. Just not all of it :)
 
 </div>
 
-<div class="post" data-post-id="13006" data-author="Akasha" data-date="2006-06-17T05:53:16+00:00">
+<div class="post" data-post-id="13006" data-author="Akasha" data-date="2006-06-17T05:53:16+00:00" data-subject="">
 
 Normally I could care less, but I figured I'd chime in for a change.
 
@@ -58,31 +58,31 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="13007" data-author="Weasel" data-date="2006-06-17T05:58:36+00:00">
+<div class="post" data-post-id="13007" data-author="Weasel" data-date="2006-06-17T05:58:36+00:00" data-subject="">
 
 welcome back :)
 
 </div>
 
-<div class="post" data-post-id="13008" data-author="Rajil" data-date="2006-06-17T07:29:27+00:00">
+<div class="post" data-post-id="13008" data-author="Rajil" data-date="2006-06-17T07:29:27+00:00" data-subject="">
 
 Finding Nemo is tough! My 10 year old niece kicks my ass.
 
 </div>
 
-<div class="post" data-post-id="13009" data-author="Guinex" data-date="2006-06-17T08:08:14+00:00">
+<div class="post" data-post-id="13009" data-author="Guinex" data-date="2006-06-17T08:08:14+00:00" data-subject="">
 
 Im just going to chime in with that i would rather have a pit fiend than a juju now.
 
 </div>
 
-<div class="post" data-post-id="13010" data-author="Guinex" data-date="2006-06-17T08:16:49+00:00">
+<div class="post" data-post-id="13010" data-author="Guinex" data-date="2006-06-17T08:16:49+00:00" data-subject="">
 
 Also, on a side note when is sloth 4 coming? I think ive asked this before.....hmmm
 
 </div>
 
-<div class="post" data-post-id="13011" data-author="Gimlet" data-date="2006-06-17T09:26:47+00:00">
+<div class="post" data-post-id="13011" data-author="Gimlet" data-date="2006-06-17T09:26:47+00:00" data-subject="">
 
 it's hardly considered a "nerf" if it's not doing what the admin/coders intended it to do in the first place.  skills have been going in that have not been thoroughly tested, and it's hard to get the expected outcome just by looking at/thinking up lines of code.  it's also hard to anticipate how certain skills would turn out, when combined with other skills.
 
@@ -96,7 +96,7 @@ just my 2 cents.
 
 </div>
 
-<div class="post" data-post-id="13012" data-author="brady" data-date="2006-06-17T15:43:39+00:00">
+<div class="post" data-post-id="13012" data-author="brady" data-date="2006-06-17T15:43:39+00:00" data-subject="">
 
 [quote:1i3uu71w]Well thats my rant so yea enjoy a game where you have to depend on others to get good stuff. 
 
@@ -110,7 +110,7 @@ Oh, and I blame Akasha.  Welcome back but please...pay less attention.  Let the 
 
 </div>
 
-<div class="post" data-post-id="13013" data-author="Medios" data-date="2006-06-17T16:27:32+00:00">
+<div class="post" data-post-id="13013" data-author="Medios" data-date="2006-06-17T16:27:32+00:00" data-subject="">
 
 [quote:3c7lw2fr] I think we need to take a look at these crazy ass clerics with their spirit watchers and pit fiends.  [/quote:3c7lw2fr]
 
@@ -120,7 +120,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13023" data-author="marchessa_the_red_witch" data-date="2006-06-18T07:58:14+00:00">
+<div class="post" data-post-id="13023" data-author="marchessa_the_red_witch" data-date="2006-06-18T07:58:14+00:00" data-subject="Nerfs and such">
 
 While other people may not notice it, the changes to mob hatred have "nerfed" several of the runs that I have done for years. About this I have only one thing to say.
 
@@ -140,7 +140,7 @@ That necromancer abilities in groups aren't enticing is seen by the fact that mo
 
 </div>
 
-<div class="post" data-post-id="13027" data-author="marchessa_the_red_witch" data-date="2006-06-18T18:03:45+00:00">
+<div class="post" data-post-id="13027" data-author="marchessa_the_red_witch" data-date="2006-06-18T18:03:45+00:00" data-subject="Necro group spell ideas">
 
 All of these spells are pet restricted - necromancer may not cast with any pet except Juju.
 
@@ -268,7 +268,7 @@ Notes: Again, the group use of this is obvious. The necro isn't going anywhere, 
 
 </div>
 
-<div class="post" data-post-id="13060" data-author="marchessa_the_red_witch" data-date="2006-06-21T06:34:25+00:00">
+<div class="post" data-post-id="13060" data-author="marchessa_the_red_witch" data-date="2006-06-21T06:34:25+00:00" data-subject="Last suggestion">
 
 Make it possible for necros to cast wraithform on others while in combat. That would give a reason for every group to want a necro.
 
@@ -276,7 +276,7 @@ Balance could be attained by giving mobs a spell proc in place of one attack, or
 
 </div>
 
-<div class="post" data-post-id="13061" data-author="Melanthe" data-date="2006-06-21T06:56:50+00:00">
+<div class="post" data-post-id="13061" data-author="Melanthe" data-date="2006-06-21T06:56:50+00:00" data-subject="Necromancer">
 
 I believe the classes are fairly well balanced as is. I see no more reason to "nerf" necromancers anymore. All the old classes have been upgraded incredibly; in fact I am amazed at how powerful they are. I don't have any sympathy for anyone anymore that says necromancers are overpowered; cause they aren't.
 
@@ -290,7 +290,7 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13065" data-author="12345" data-date="2006-06-21T21:32:45+00:00">
+<div class="post" data-post-id="13065" data-author="12345" data-date="2006-06-21T21:32:45+00:00" data-subject="">
 
 Saying weaken isn't useful in groups is plain silly.  In fact, I have several necros that I routinely ask to join my groups specifically for weakening.
 
@@ -310,7 +310,7 @@ If you don't think you're useful in groups, your leader isn't using you right.
 
 </div>
 
-<div class="post" data-post-id="13066" data-author="Avatar" data-date="2006-06-21T22:14:40+00:00">
+<div class="post" data-post-id="13066" data-author="Avatar" data-date="2006-06-21T22:14:40+00:00" data-subject="Further feedback">
 
 I'll echo everything 12345 said.  Weaken just rocks, plain and simple.  If you're getting (attuned) a successful weaken 1/3 of the time, that's wonderful.  Non-attuned I'd estimate success at 1/10 maybe, and even then it's well worth spamming weakens.
 
@@ -320,7 +320,7 @@ It's unfortunate that necro's don't have anything specific to do AFTER the weake
 
 </div>
 
-<div class="post" data-post-id="13067" data-author="Melanthe" data-date="2006-06-21T23:04:21+00:00">
+<div class="post" data-post-id="13067" data-author="Melanthe" data-date="2006-06-21T23:04:21+00:00" data-subject="">
 
 Well in my experience with weaken and blind, blind seems to about 5 times more valuable.  But I guess I could be wrong.
 
@@ -328,7 +328,7 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13068" data-author="Roadrunr" data-date="2006-06-21T23:30:14+00:00">
+<div class="post" data-post-id="13068" data-author="Roadrunr" data-date="2006-06-21T23:30:14+00:00" data-subject="">
 
 I'll correct 12345 and take the blame off the leader.  There are plenty of things you can do in a group.  You have 4 classes.  If you cant find something to do after weaken, you're not trying very hard.
 
@@ -342,7 +342,7 @@ I think we need a chaos night so I can properly vent. (and die repeatedly w/o co
 
 </div>
 
-<div class="post" data-post-id="13069" data-author="Avatar" data-date="2006-06-21T23:35:09+00:00">
+<div class="post" data-post-id="13069" data-author="Avatar" data-date="2006-06-21T23:35:09+00:00" data-subject="weaken">
 
 Well, like many things in life I'd say "It depends."  Weaken has a few advantages.  Weaken has a longer duration.  Weaken works on every mob.  Weaken doesn't get removed if the target heals self.
 
@@ -350,7 +350,7 @@ Best of all, although it's not an advantage vs. blind, weaken stacks with blind.
 
 </div>
 
-<div class="post" data-post-id="13070" data-author="12345" data-date="2006-06-21T23:40:37+00:00">
+<div class="post" data-post-id="13070" data-author="12345" data-date="2006-06-21T23:40:37+00:00" data-subject="">
 
 To be precise, in your experience, blind is -4 to hit, weaken is a potential -1.  Blind is 4x more useful.  Blind and Acid Blast also have duration problems.  I've frequently asked for a reblind, I can't ever remember having asked for a reweaken unless someone dispelled it.
 
@@ -362,7 +362,7 @@ You'll always run into mobs that will beat strongly through debuffs... that's wh
 
 </div>
 
-<div class="post" data-post-id="13071" data-author="Melanthe" data-date="2006-06-21T23:44:13+00:00">
+<div class="post" data-post-id="13071" data-author="Melanthe" data-date="2006-06-21T23:44:13+00:00" data-subject="">
 
 I'll correct 12345 and take the blame off the leader.  There are plenty of things you can do in a group.  You have 4 classes.  If you cant find something to do after weaken, you're not trying very hard.
 
@@ -394,7 +394,7 @@ I am cool, no need to vent here.  I will play my classo regardless of anymore ne
 
 </div>
 
-<div class="post" data-post-id="13072" data-author="Gimlet" data-date="2006-06-22T02:47:50+00:00">
+<div class="post" data-post-id="13072" data-author="Gimlet" data-date="2006-06-22T02:47:50+00:00" data-subject="">
 
 talking about *prime classes*?
 
@@ -404,7 +404,7 @@ find me 1 prime class that can use all its skills or find all its skills useful 
 
 </div>
 
-<div class="post" data-post-id="13073" data-author="Medios" data-date="2006-06-22T02:59:09+00:00">
+<div class="post" data-post-id="13073" data-author="Medios" data-date="2006-06-22T02:59:09+00:00" data-subject="">
 
 Why do you assume that mobs have 18/100 strength, 25 is max.
 
@@ -412,13 +412,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13074" data-author="12345" data-date="2006-06-22T03:11:46+00:00">
+<div class="post" data-post-id="13074" data-author="12345" data-date="2006-06-22T03:11:46+00:00" data-subject="">
 
 I think I said average...  I wanted to use numbers that could be easily confirmed in the game.  A mob with strength of 19 or higher works just as well though, and in the case of strenght 25, works even better than the examples given.
 
 </div>
 
-<div class="post" data-post-id="13075" data-author="Avatar" data-date="2006-06-22T04:18:43+00:00">
+<div class="post" data-post-id="13075" data-author="Avatar" data-date="2006-06-22T04:18:43+00:00" data-subject="necro">
 
 I haven't played necro prime to any respectable level, but I have played two characters with necro in the classo to avatar levels.  I agree with RR, it's difficult to talk about relative power unless you've played the classes and "learned" how to play them.  Necro definitely has it's own style of play.  They are strong at some things and weak at others.
 
@@ -426,7 +426,7 @@ What was my point?  I don't want to ramble too much.  It seems that necro's don'
 
 </div>
 
-<div class="post" data-post-id="13076" data-author="Roadrunr" data-date="2006-06-22T05:53:55+00:00">
+<div class="post" data-post-id="13076" data-author="Roadrunr" data-date="2006-06-22T05:53:55+00:00" data-subject="Re: Necromancer">
 
 How about adding some skills/spells to necromancer to be more useful in groups, like Marchessa said.  How about modifiying the master soul infusion so it gets avatar heal bonus if the tank, in the point position, while grouped with more than 2 players, is in the same room? (or somethign along those lines).Melanthe[/quote:kot2q4it]
 
@@ -546,13 +546,13 @@ Yup, you sure did get most of your xp from grouping lately....ummm one thing....
 
 </div>
 
-<div class="post" data-post-id="13077" data-author="Weasel" data-date="2006-06-22T06:16:01+00:00">
+<div class="post" data-post-id="13077" data-author="Weasel" data-date="2006-06-22T06:16:01+00:00" data-subject="">
 
 wtf? Thanks for those enlightening stats RR - I don't believe I've ever achieved that much solo exp in one week at 5x40 let alone 2x40, and yes, I have spent a lot of time online some weeks as well.. damn that's just insane..  All this does is highlight just how excessively overpowered they appear to be, particularly solo, so might be a good time to stop complaining before the coders realize that they haven't nerfed anywhere near enough as yet..
 
 </div>
 
-<div class="post" data-post-id="13079" data-author="Guinex" data-date="2006-06-22T08:58:26+00:00">
+<div class="post" data-post-id="13079" data-author="Guinex" data-date="2006-06-22T08:58:26+00:00" data-subject="">
 
 RR sad as this may sound even Fyrstenheart xped faster than that, ahem he was a prime warrior.  I don't really think melanthe's xp numbers for a week are that impressive for someone that is online for 18 hours a day.
 
@@ -562,7 +562,7 @@ Oh yea, fyrstenheart didn't even realise his pets worth worth using til he was a
 
 </div>
 
-<div class="post" data-post-id="13080" data-author="Melanthe" data-date="2006-06-22T10:32:41+00:00">
+<div class="post" data-post-id="13080" data-author="Melanthe" data-date="2006-06-22T10:32:41+00:00" data-subject="">
 
 Thanks for the flame RR. LOL. Calm down. All of my recent xp is from *grouping*, as I stated, regardless of what you posted just now. Look at the Top 20 for the next week and you'll see. (Or heck why don't you finger me when I am online and see for yourself.)
 
@@ -576,7 +576,7 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13081" data-author="Roadrunr" data-date="2006-06-22T12:58:08+00:00">
+<div class="post" data-post-id="13081" data-author="Roadrunr" data-date="2006-06-22T12:58:08+00:00" data-subject="">
 
 RR sad as this may sound even Fyrstenheart xped faster than that, ahem he was a prime warrior.  I don't really think melanthe's xp numbers for a week are that impressive for someone that is online for 18 hours a day.
 
@@ -602,7 +602,7 @@ Apparently recently means 3-4 days to you, to me it means 3-4 weeks
 
 </div>
 
-<div class="post" data-post-id="13082" data-author="Avatar" data-date="2006-06-22T12:59:47+00:00">
+<div class="post" data-post-id="13082" data-author="Avatar" data-date="2006-06-22T12:59:47+00:00" data-subject="necro">
 
 Wow, for a 3x40 to collect enough exps to be 4th on the 4x40 list seems pretty rare.  
 
@@ -612,7 +612,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="13083" data-author="Melanthe" data-date="2006-06-22T14:24:52+00:00">
+<div class="post" data-post-id="13083" data-author="Melanthe" data-date="2006-06-22T14:24:52+00:00" data-subject="">
 
 Well RR, this week I got 1.3m from grouping and 500m soloing. (3x more from grouping.. this is what I have been referring to).  :)
 
@@ -624,7 +624,7 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13084" data-author="Weasel" data-date="2006-06-22T14:25:18+00:00">
+<div class="post" data-post-id="13084" data-author="Weasel" data-date="2006-06-22T14:25:18+00:00" data-subject="">
 
 hmm guess I must really suck at solo exp if 1+billion exp a week is considered normal(ish). Fyrstenheart had Necro in his classo btw, just not prime.
 
@@ -636,7 +636,7 @@ Perhaps if the stats showed points per hour online - I still spend a lot of time
 
 </div>
 
-<div class="post" data-post-id="13085" data-author="Melanthe" data-date="2006-06-22T15:53:25+00:00">
+<div class="post" data-post-id="13085" data-author="Melanthe" data-date="2006-06-22T15:53:25+00:00" data-subject="">
 
 Try a Cleric-Mage-Warrior-Bard and see if you can solo from 1x40 to 3x40 in 2 weeks.[/quote:3vikw3ms]
 
@@ -648,7 +648,7 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13086" data-author="*Splork*" data-date="2006-06-22T16:06:19+00:00">
+<div class="post" data-post-id="13086" data-author="*Splork*" data-date="2006-06-22T16:06:19+00:00" data-subject="">
 
 Im staying out of this silly argument, but I will say this, Vaire did not reach avatar in 2 months-it was much more than that.
 
@@ -656,13 +656,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="13087" data-author="Weasel" data-date="2006-06-22T16:17:16+00:00">
+<div class="post" data-post-id="13087" data-author="Weasel" data-date="2006-06-22T16:17:16+00:00" data-subject="">
 
 *tickle Splork* tee hee
 
 </div>
 
-<div class="post" data-post-id="13088" data-author="Roadrunr" data-date="2006-06-22T16:51:36+00:00">
+<div class="post" data-post-id="13088" data-author="Roadrunr" data-date="2006-06-22T16:51:36+00:00" data-subject="">
 
 Try a Cleric-Mage-Warrior-Bard and see if you can solo from 1x40 to 3x40 in 2 weeks.[/quote:1swlm7v8]
 
@@ -682,7 +682,7 @@ And, now I'm done with this.  I could not care less that a 2x40 necro can solo f
 
 </div>
 
-<div class="post" data-post-id="13089" data-author="Melanthe" data-date="2006-06-22T16:56:56+00:00">
+<div class="post" data-post-id="13089" data-author="Melanthe" data-date="2006-06-22T16:56:56+00:00" data-subject="">
 
 Rr, I won't use any hand dam gear. I wont' be gripping or striking. I'll be blasting frostbolt.  Don't see why I couldn't go with monk instead of warrior for this challenge.  In fact, warrior has advantage over monk with this challenge, the extra attack (and many other new warrior skills). Also, I'll have counterattack way late in this test on the monk.  The warrior skills make up for the monk's counterattack. Also, I have no quad class (i.e. no bard lion chorus for this test.) With this classo, I'll be focusing on spell dam gear not monk hand dam.  I won't level a c/m/o/x any faster than c/m/w/x. I just wanna keep this classo for later on, after my point is proven that prime necros aren't anymore powerful than any other class, including c/m.
 
@@ -690,7 +690,7 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13093" data-author="Krok" data-date="2006-06-22T20:26:49+00:00">
+<div class="post" data-post-id="13093" data-author="Krok" data-date="2006-06-22T20:26:49+00:00" data-subject="">
 
 Clerics soloing abilities are insane now? Hah. Hah, hah! I'd like you to explain that to me, how did solo change for little clerics? They can now run better in catas or what? :))
 
@@ -700,13 +700,13 @@ Necros should be happy they have so cool solo stuff and stop whining about small
 
 </div>
 
-<div class="post" data-post-id="13094" data-author="Rynquald" data-date="2006-06-22T22:09:54+00:00">
+<div class="post" data-post-id="13094" data-author="Rynquald" data-date="2006-06-22T22:09:54+00:00" data-subject="">
 
 Most dmg my 5x40 attuned prime mage has ever bolted for in testing was 500, only 73 spelldam gear, but i fail to see how the extra from capping it is going to make up 300 dam. Pretty sure that 500 was on a failed save too.
 
 </div>
 
-<div class="post" data-post-id="13095" data-author="Melanthe" data-date="2006-06-23T00:06:45+00:00">
+<div class="post" data-post-id="13095" data-author="Melanthe" data-date="2006-06-23T00:06:45+00:00" data-subject="">
 
 Krok, I wasn't whining. I was responding and agreeing to Marchessa's post about necro group skills being weak (who is not a necro ... but a warrior right?).. LOL.  Personally, I don't care if necro group skills aren't improved. I am still an excellent healer in groups using my cleric skills, and will still weaken of course.
 
@@ -718,7 +718,7 @@ Melanthe
 
 </div>
 
-<div class="post" data-post-id="13097" data-author="Medios" data-date="2006-06-23T01:50:19+00:00">
+<div class="post" data-post-id="13097" data-author="Medios" data-date="2006-06-23T01:50:19+00:00" data-subject="">
 
 Krok is 100% right.  The player makes the char.  Necros are supposed to be solo type chars imho.  Adding group skills would pretty much make them overpowered.  Group prime chars are bards, clerics, and possibly druids.  What skills do druids have for grouping?  Fire bane? hah.  They gain power from mana.  Also bards dont need much, Im quite happy with my bard prime and he cant strike/grip/stab.  I play mage style lead with damnation and can prob solo about any mob your super powerful necros can.  Not only that I got the most powerful group support char and leader.
 
@@ -726,7 +726,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13098" data-author="12345" data-date="2006-06-23T02:08:10+00:00">
+<div class="post" data-post-id="13098" data-author="12345" data-date="2006-06-23T02:08:10+00:00" data-subject="">
 
 Well, I do think there's a condiction to that.  Knowing the areas to run and how to fight the mobs in them is a pretty big part of the game.  There's no area guides to the different areas and its really hard to tell how to fight a mob just by looking at it.
 
@@ -736,13 +736,13 @@ Most of that comes back to the player of course.
 
 </div>
 
-<div class="post" data-post-id="13099" data-author="Melanthe" data-date="2006-06-23T02:09:05+00:00">
+<div class="post" data-post-id="13099" data-author="Melanthe" data-date="2006-06-23T02:09:05+00:00" data-subject="">
 
 Nod Medios & 12345. :)
 
 </div>
 
-<div class="post" data-post-id="13109" data-author="Aleksey" data-date="2006-06-23T17:40:29+00:00">
+<div class="post" data-post-id="13109" data-author="Aleksey" data-date="2006-06-23T17:40:29+00:00" data-subject="">
 
 Strange posts
 

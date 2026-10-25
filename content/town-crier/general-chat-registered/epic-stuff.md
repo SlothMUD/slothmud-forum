@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="29704" data-author="Akasha" data-date="2009-07-19T03:56:59+00:00">
+<div class="post" data-post-id="29704" data-author="Akasha" data-date="2009-07-19T03:56:59+00:00" data-subject="Epic Stuff">
 
 Master Devry gossips-- 'With the renewal of the land, that the malignant evil pulsing in the land'
 
@@ -26,13 +26,13 @@ New mobs have been released on the confines of good.  These mobs can be expected
 
 </div>
 
-<div class="post" data-post-id="29705" data-author="Akasha" data-date="2009-07-19T04:15:06+00:00">
+<div class="post" data-post-id="29705" data-author="Akasha" data-date="2009-07-19T04:15:06+00:00" data-subject="">
 
 The dark forces have been on the move!  Reports have poured in of movement in the land of Thule at the site of the massacre that took place at the Old Mage Tower.  Sightings have been reported of the land itself shifting and repositioning on the order of Tyrenoth'gyus.  Be warned!
 
 </div>
 
-<div class="post" data-post-id="29706" data-author="Rigwarl" data-date="2009-07-19T05:33:32+00:00">
+<div class="post" data-post-id="29706" data-author="Rigwarl" data-date="2009-07-19T05:33:32+00:00" data-subject="">
 
 Found one in BH castle. Took this group size 2 runs:
 

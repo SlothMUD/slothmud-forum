@@ -10,7 +10,7 @@ locked: false
 post_count: 24
 ---
 
-<div class="post" data-post-id="22794" data-author="Medios" data-date="2008-02-19T03:19:41+00:00">
+<div class="post" data-post-id="22794" data-author="Medios" data-date="2008-02-19T03:19:41+00:00" data-subject="Top Ten Thread">
 
 Aaron called me several days ago and was excited to talk about Obama.  Well I have to say it excited me some too.  If a man could get Aaron interested in politics I'm game to hear what he has to say.  So I dig around some to find out what Obama is really about.  Mainly I hear a bunch of noise and misinformation.  So I have to really wonder What's Up.  Candidate for America or just another big business crook.  Anyways heres to you Mr Obama.  Pure satire folks but if you read the paper you will think its true.
 
@@ -38,7 +38,7 @@ Top Ten Media reasons Why not to cast your ballot for Obama
 
 </div>
 
-<div class="post" data-post-id="22795" data-author="Weasel" data-date="2008-02-19T03:53:40+00:00">
+<div class="post" data-post-id="22795" data-author="Weasel" data-date="2008-02-19T03:53:40+00:00" data-subject="">
 
 Was it here or somewhere else I saw a link (youtube maybe, but cant find it now) to a Jay Leno show where he had some guy on videolink with a bunch of Obama supporters all seated in a room. Jay asked the guy to ask each of the supporters to name any one thing, just one thing Obama had achieved in his entire political career. Not a single one of them had an answer, until one replied "he's a great orator" and then of couple of others nodded as if that really covered it. Amazing. It's a cult.
 
@@ -66,7 +66,7 @@ I guess for the Dems it's down to gender versus ethnicity.
 
 </div>
 
-<div class="post" data-post-id="22796" data-author="jezer" data-date="2008-02-19T05:09:19+00:00">
+<div class="post" data-post-id="22796" data-author="jezer" data-date="2008-02-19T05:09:19+00:00" data-subject="">
 
 Looks like weasels discovered politics is actually about popularity and public opinion more than anything else. Your surprised?
 
@@ -76,7 +76,7 @@ I'm trying to think in my life when a change of government actually had a direct
 
 </div>
 
-<div class="post" data-post-id="22798" data-author="Yasik" data-date="2008-02-19T06:21:57+00:00">
+<div class="post" data-post-id="22798" data-author="Yasik" data-date="2008-02-19T06:21:57+00:00" data-subject="">
 
 all these candidates are pretty much the same old candy inside a different wrapping. 
 
@@ -86,7 +86,7 @@ golden words
 
 </div>
 
-<div class="post" data-post-id="22799" data-author="Thraxas" data-date="2008-02-19T06:22:18+00:00">
+<div class="post" data-post-id="22799" data-author="Thraxas" data-date="2008-02-19T06:22:18+00:00" data-subject="">
 
 I'm shocked !!! 
 
@@ -96,7 +96,7 @@ I thought that only happened here.
 
 </div>
 
-<div class="post" data-post-id="22803" data-author="alias" data-date="2008-02-19T15:02:33+00:00">
+<div class="post" data-post-id="22803" data-author="alias" data-date="2008-02-19T15:02:33+00:00" data-subject="">
 
 Looks like weasels discovered politics is actually about popularity and public opinion more than anything else. Your surprised?
 
@@ -108,7 +108,7 @@ Wow you must be rich and live on a desert island and have no human contact to th
 
 </div>
 
-<div class="post" data-post-id="22809" data-author="Thraxas" data-date="2008-02-19T18:11:57+00:00">
+<div class="post" data-post-id="22809" data-author="Thraxas" data-date="2008-02-19T18:11:57+00:00" data-subject="">
 
 While we're all posting our best 'top ten's :
 
@@ -138,7 +138,7 @@ Sample from UK Office workers who were gullible to tell someone else their passw
 
 </div>
 
-<div class="post" data-post-id="22810" data-author="Vixn" data-date="2008-02-19T20:10:11+00:00">
+<div class="post" data-post-id="22810" data-author="Vixn" data-date="2008-02-19T20:10:11+00:00" data-subject="">
 
 2imms: how it happened passwords for almost all brads chars posted on crier? 
 
@@ -148,7 +148,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="22816" data-author="jezer" data-date="2008-02-19T22:44:01+00:00">
+<div class="post" data-post-id="22816" data-author="jezer" data-date="2008-02-19T22:44:01+00:00" data-subject="">
 
 Wow you must be rich and live on a desert island and have no human contact to think that politics don't affect you. Anyone who ever shops, drives, lives or breathes is affected by politics- you just may be unaware of it.[/quote:2no20kka]
 
@@ -164,25 +164,25 @@ Still I'd have to say though, that it's my job, family and friends that influenc
 
 </div>
 
-<div class="post" data-post-id="22817" data-author="Yasik" data-date="2008-02-19T22:59:17+00:00">
+<div class="post" data-post-id="22817" data-author="Yasik" data-date="2008-02-19T22:59:17+00:00" data-subject="">
 
 [img:6pweaelo]http://yasik.kiev.ua/I_Like_Where_This_Thread_Is_Going.jpg[/img:6pweaelo]
 
 </div>
 
-<div class="post" data-post-id="22819" data-author="Tap" data-date="2008-02-20T00:20:31+00:00">
+<div class="post" data-post-id="22819" data-author="Tap" data-date="2008-02-20T00:20:31+00:00" data-subject="">
 
 Maybe those who can't see a difference haven't been able to live 'misguided' freedom and thus don't really know what they are missing. In this day and age there rumors/accusations of what may/may not happen should the "wrong" candidate get elected. Level an accusation and you get labeled a racist,sexist,religious nut or conspiracy theorist. Personally, I think they are all f'n crooked. I'm content to sit back and watch them destroy themselves. Yet, even knowing that I will undoubtly been the one to suffer the most, I'm a big believer in karma and knowing that the devil will receive his in due time.
 
 </div>
 
-<div class="post" data-post-id="22820" data-author="Alberich" data-date="2008-02-20T00:24:30+00:00">
+<div class="post" data-post-id="22820" data-author="Alberich" data-date="2008-02-20T00:24:30+00:00" data-subject="">
 
 [img:vq7ijs53]http://img125.imageshack.us/img125/1313/1203464591525gp7.gif[/img:vq7ijs53]
 
 </div>
 
-<div class="post" data-post-id="22821" data-author="Weasel" data-date="2008-02-20T00:29:00+00:00">
+<div class="post" data-post-id="22821" data-author="Weasel" data-date="2008-02-20T00:29:00+00:00" data-subject="">
 
 Maybe those who can't see a difference haven't been able to live 'misguided' freedom and thus don't really know what they are missing. In this day and age there rumors/accusations of what may/may not happen should the "wrong" candidate get elected. Level an accusation and you get labeled a racist,sexist,religious nut or conspiracy theorist. Personally, I think they are all f'n crooked. I'm content to sit back and watch them destroy themselves. Yet, even knowing that I will undoubtly been the one to suffer the most, I'm a big believer in karma and knowing that the devil will receive his in due time.[/quote:3uzsyye8]
 
@@ -190,7 +190,7 @@ wow. good post Tap.
 
 </div>
 
-<div class="post" data-post-id="22826" data-author="Thraxas" data-date="2008-02-20T08:45:00+00:00">
+<div class="post" data-post-id="22826" data-author="Thraxas" data-date="2008-02-20T08:45:00+00:00" data-subject="">
 
 Where are all the top ten lists? To bring this thread back onto title subject:
 
@@ -254,7 +254,7 @@ Top Ten things to do with a broken lightbulb:
 
 </div>
 
-<div class="post" data-post-id="22829" data-author="Rynquald" data-date="2008-02-20T10:21:05+00:00">
+<div class="post" data-post-id="22829" data-author="Rynquald" data-date="2008-02-20T10:21:05+00:00" data-subject="">
 
 7. Collect a boxful, then sneak into a neighbors house and change all of their bulbs and tell them them their electricity was cut off.[/quote:3shnemk9]
 
@@ -262,7 +262,7 @@ lol
 
 </div>
 
-<div class="post" data-post-id="22835" data-author="*juggleblood*" data-date="2008-02-20T23:09:45+00:00">
+<div class="post" data-post-id="22835" data-author="*juggleblood*" data-date="2008-02-20T23:09:45+00:00" data-subject="">
 
 1. Hold it upside-down in the middle of a flat field during a thunderstorm, wait for lightning, and then watch it glow![/quote:1ox7ic18]
 
@@ -270,7 +270,7 @@ this really works?
 
 </div>
 
-<div class="post" data-post-id="22852" data-author="jezer" data-date="2008-02-21T03:06:43+00:00">
+<div class="post" data-post-id="22852" data-author="jezer" data-date="2008-02-21T03:06:43+00:00" data-subject="">
 
 1. Hold it upside-down in the middle of a flat field during a thunderstorm, wait for lightning, and then watch it glow![/quote:38d6die0]
 
@@ -280,7 +280,7 @@ What Thraxas said may be a joke, but holding fluorescents up by power lines make
 
 </div>
 
-<div class="post" data-post-id="22860" data-author="Rynquald" data-date="2008-02-21T13:53:49+00:00">
+<div class="post" data-post-id="22860" data-author="Rynquald" data-date="2008-02-21T13:53:49+00:00" data-subject="">
 
 If you did the lightbulb/lightning thing, I'm sure you'd have the impression that something had been glowing afterwards :)
 
@@ -288,7 +288,7 @@ And yay for induction.
 
 </div>
 
-<div class="post" data-post-id="22866" data-author="Medios" data-date="2008-02-21T16:55:01+00:00">
+<div class="post" data-post-id="22866" data-author="Medios" data-date="2008-02-21T16:55:01+00:00" data-subject="">
 
 Top ten reasons to play SlothmudIII
 
@@ -316,7 +316,7 @@ Only problem is that I have a job.
 
 </div>
 
-<div class="post" data-post-id="22868" data-author="Thraxas" data-date="2008-02-21T17:37:36+00:00">
+<div class="post" data-post-id="22868" data-author="Thraxas" data-date="2008-02-21T17:37:36+00:00" data-subject="">
 
 Top Ten Bushisms - you can't make this stuff up!
 
@@ -342,13 +342,13 @@ Top Ten Bushisms - you can't make this stuff up!
 
 </div>
 
-<div class="post" data-post-id="22871" data-author="Weasel" data-date="2008-02-21T18:12:09+00:00">
+<div class="post" data-post-id="22871" data-author="Weasel" data-date="2008-02-21T18:12:09+00:00" data-subject="">
 
 hehehee
 
 </div>
 
-<div class="post" data-post-id="22879" data-author="*juggleblood*" data-date="2008-02-21T22:16:13+00:00">
+<div class="post" data-post-id="22879" data-author="*juggleblood*" data-date="2008-02-21T22:16:13+00:00" data-subject="">
 
 Top Ten Dumbest American Congressmen
 
@@ -418,7 +418,7 @@ Mainly, though, there's her Stalin-esque management style, which includes attack
 
 </div>
 
-<div class="post" data-post-id="22894" data-author="Thraxas" data-date="2008-02-22T17:07:26+00:00">
+<div class="post" data-post-id="22894" data-author="Thraxas" data-date="2008-02-22T17:07:26+00:00" data-subject="">
 
 Not a top ten but i like it .. .enjoy
 
@@ -558,7 +558,7 @@ A woman whose knickers are too small for her, so she looks like she's got 4 butt
 
 </div>
 
-<div class="post" data-post-id="22900" data-author="Alberich" data-date="2008-02-23T01:22:41+00:00">
+<div class="post" data-post-id="22900" data-author="Alberich" data-date="2008-02-23T01:22:41+00:00" data-subject="">
 
 7) "I know the human being and fish can coexist peacefully." â€”Saginaw, Mich., Sept. 29, 2000 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3732" data-author="Prog" data-date="2005-01-11T18:52:25+00:00">
+<div class="post" data-post-id="3732" data-author="Prog" data-date="2005-01-11T18:52:25+00:00" data-subject="wtb/T">
 
 I need crystal shield or quatrz-shield ( cmp for crystal). have coins and eq for trade (ruyi, bolt, etc)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="39634" data-author="Bandit" data-date="2020-12-09T18:01:09+00:00">
+<div class="post" data-post-id="39634" data-author="Bandit" data-date="2020-12-09T18:01:09+00:00" data-subject="Class order and how it can affect you">
 
 This isn't meant to be a guide on what order you should pick, but more of a post on how the order of classes can affect your character's stats. The caps are based on being 9x40 (max level) and should be used to plan out your character. As you're leveling the caps for some things will be lower and will increase every time you gain a level 40.
 
@@ -162,7 +162,7 @@ I'll fill this in as I get more data from players and my other characters, hope 
 
 </div>
 
-<div class="post" data-post-id="39635" data-author="Gorka" data-date="2020-12-10T07:09:57+00:00">
+<div class="post" data-post-id="39635" data-author="Gorka" data-date="2020-12-10T07:09:57+00:00" data-subject="Re: Class order and how it can affect you">
 
 Great post, I had started doing this earlier as well. Sharing what I have...
 
@@ -182,7 +182,7 @@ You could close a significant gap between the classes in 3 changes... 1) by intr
 
 </div>
 
-<div class="post" data-post-id="39650" data-author="Josiah" data-date="2020-12-24T20:37:09+00:00">
+<div class="post" data-post-id="39650" data-author="Josiah" data-date="2020-12-24T20:37:09+00:00" data-subject="Re: Class order and how it can affect you">
 
 I agree, it is time to revisit the AC cap for non-warriors. Equipment power creep has left everyone else in the dust.
 
@@ -190,13 +190,13 @@ How about a Christmas gift of -1.0 AC cap for all the poor crunchies? :)
 
 </div>
 
-<div class="post" data-post-id="39669" data-author="Guinex" data-date="2021-01-10T21:41:14+00:00">
+<div class="post" data-post-id="39669" data-author="Guinex" data-date="2021-01-10T21:41:14+00:00" data-subject="Re: Class order and how it can affect you">
 
 19 is weapon damage for W4
 
 </div>
 
-<div class="post" data-post-id="39987" data-author="cnl" data-date="2022-12-04T00:35:31+00:00">
+<div class="post" data-post-id="39987" data-author="cnl" data-date="2022-12-04T00:35:31+00:00" data-subject="Re: Class order and how it can affect you">
 
 127 is spell bonus for mage prime
 
@@ -204,7 +204,7 @@ How about a Christmas gift of -1.0 AC cap for all the poor crunchies? :)
 
 </div>
 
-<div class="post" data-post-id="39988" data-author="Ker" data-date="2022-12-08T09:10:01+00:00">
+<div class="post" data-post-id="39988" data-author="Ker" data-date="2022-12-08T09:10:01+00:00" data-subject="Re: Class order and how it can affect you">
 
 127 sounds right!
 
@@ -212,7 +212,7 @@ How about a Christmas gift of -1.0 AC cap for all the poor crunchies? :)
 
 </div>
 
-<div class="post" data-post-id="40001" data-author="jayclimbs" data-date="2023-01-25T17:13:32+00:00">
+<div class="post" data-post-id="40001" data-author="jayclimbs" data-date="2023-01-25T17:13:32+00:00" data-subject="Re: Class order and how it can affect you">
 
 This thread begs completion.
 

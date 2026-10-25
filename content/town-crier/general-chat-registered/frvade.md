@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="8867" data-author="12345" data-date="2005-09-30T22:55:42+00:00">
+<div class="post" data-post-id="8867" data-author="12345" data-date="2005-09-30T22:55:42+00:00" data-subject="Frvade">
 
 I actually picked this up off the Russian site, but had such a blast with it that I figured I'd post it over here to get a little more exposure.
 
@@ -22,7 +22,7 @@ Let me know if you make it to the temp end  :D
 
 </div>
 
-<div class="post" data-post-id="8872" data-author="seshi" data-date="2005-10-01T19:06:51+00:00">
+<div class="post" data-post-id="8872" data-author="seshi" data-date="2005-10-01T19:06:51+00:00" data-subject="frvade">
 
 cool!  :) 
 

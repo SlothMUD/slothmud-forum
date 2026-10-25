@@ -10,7 +10,7 @@ locked: false
 post_count: 32
 ---
 
-<div class="post" data-post-id="19739" data-author="Toxis" data-date="2007-08-17T18:17:14+00:00">
+<div class="post" data-post-id="19739" data-author="Toxis" data-date="2007-08-17T18:17:14+00:00" data-subject="Warrior Skills">
 
 I'd like to be able to do more when I'm tanking than auto crits/auto ripostes... and for the warriors in groups that aren't tanking I had some ideas and hopefully someone thinks their cool, because every tank knows it can get boring to tank.  You can't flee to debuff or save someone's ass, you gotta sit there and take it like a.. tank.
 
@@ -30,7 +30,7 @@ wa: tend wounds - 21 level warrior skill that heals wounds.  heals anywhere from
 
 </div>
 
-<div class="post" data-post-id="19740" data-author="Leaf" data-date="2007-08-17T21:21:19+00:00">
+<div class="post" data-post-id="19740" data-author="Leaf" data-date="2007-08-17T21:21:19+00:00" data-subject="">
 
 Impale/Chop = Warriors can Frenzy and Bersek.  Who wants to use a 
 
@@ -66,7 +66,7 @@ stomp, bash, or kick.
 
 </div>
 
-<div class="post" data-post-id="19742" data-author="Tap" data-date="2007-08-17T21:39:42+00:00">
+<div class="post" data-post-id="19742" data-author="Tap" data-date="2007-08-17T21:39:42+00:00" data-subject="">
 
 [quote:2wrtk6lk]Warriors may seem to be a boring class, but you picked it. The are just
 
@@ -78,7 +78,7 @@ MOB's Rule :twisted:
 
 </div>
 
-<div class="post" data-post-id="19744" data-author="Shazuko" data-date="2007-08-18T02:36:29+00:00">
+<div class="post" data-post-id="19744" data-author="Shazuko" data-date="2007-08-18T02:36:29+00:00" data-subject="">
 
 #1) I'd like to see dodge work with parry and be both a mo AND wa skill
 
@@ -100,19 +100,19 @@ MOB's Rule :twisted:
 
 </div>
 
-<div class="post" data-post-id="19745" data-author="13" data-date="2007-08-18T04:14:42+00:00">
+<div class="post" data-post-id="19745" data-author="13" data-date="2007-08-18T04:14:42+00:00" data-subject="">
 
 So now you need more than -15 ac?  Be a tank or not.
 
 </div>
 
-<div class="post" data-post-id="19758" data-author="Vixn" data-date="2007-08-19T09:53:37+00:00">
+<div class="post" data-post-id="19758" data-author="Vixn" data-date="2007-08-19T09:53:37+00:00" data-subject="">
 
 bump
 
 </div>
 
-<div class="post" data-post-id="19765" data-author="Leaf" data-date="2007-08-20T13:05:55+00:00">
+<div class="post" data-post-id="19765" data-author="Leaf" data-date="2007-08-20T13:05:55+00:00" data-subject="">
 
 #1) I'd like to see dodge work with parry and be both a mo AND wa skill
 
@@ -146,7 +146,7 @@ damage over ac.
 
 </div>
 
-<div class="post" data-post-id="19766" data-author="alias" data-date="2007-08-20T14:05:48+00:00">
+<div class="post" data-post-id="19766" data-author="alias" data-date="2007-08-20T14:05:48+00:00" data-subject="">
 
 Hey I want -15 ac gimmie.  
 
@@ -156,7 +156,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="19771" data-author="Avatar" data-date="2007-08-20T20:02:29+00:00">
+<div class="post" data-post-id="19771" data-author="Avatar" data-date="2007-08-20T20:02:29+00:00" data-subject="Tank skills">
 
 It's silly for tanks to ask for new skills now.  We have Warcry, 2 Oaths, Defy Pain, Frenzy, Deathblow, Trip, Bash, Stomp, Flail.  Those all make tanking a lot more fun and interactive than it used to be...and they're all useful at one time or another... ok except for Flail.  
 
@@ -164,7 +164,7 @@ It's silly for tanks to ask for new skills now.  We have Warcry, 2 Oaths, Defy P
 
 </div>
 
-<div class="post" data-post-id="19772" data-author="Leaf" data-date="2007-08-20T21:08:58+00:00">
+<div class="post" data-post-id="19772" data-author="Leaf" data-date="2007-08-20T21:08:58+00:00" data-subject="">
 
 2-Handed weapons:  I don't care to have any extra AC, but having some Two handed weapons that are worth using would be nice.  I don't mind taking some penalty to AC to do more damage, if I'm a 2. or 3. warrior, but at this point it's not even possible.  Valor does more damage than any 2-handed weapon in game.[/quote:1vxdh6kb]
 
@@ -192,7 +192,7 @@ stabs, it will go back to the original dice.
 
 </div>
 
-<div class="post" data-post-id="19773" data-author="Weasel" data-date="2007-08-20T21:35:41+00:00">
+<div class="post" data-post-id="19773" data-author="Weasel" data-date="2007-08-20T21:35:41+00:00" data-subject="Re: Tank skills">
 
 It's silly for tanks to ask for new skills now.  We have Warcry, 2 Oaths, Defy Pain, Frenzy, Deathblow, Trip, Bash, Stomp, Flail.  Those all make tanking a lot more fun and interactive than it used to be...and they're all useful at one time or another... ok except for Flail.  
 
@@ -208,7 +208,7 @@ Damn, I forgot what my point was again. Seem to be doing that a bit lately..  :s
 
 </div>
 
-<div class="post" data-post-id="19777" data-author="Tap" data-date="2007-08-20T22:08:04+00:00">
+<div class="post" data-post-id="19777" data-author="Tap" data-date="2007-08-20T22:08:04+00:00" data-subject="Stance the Man">
 
 Warrior Skill --  Stance
 
@@ -216,31 +216,31 @@ This would allow a warrior to really dig in his heels preventing said warrior fr
 
 </div>
 
-<div class="post" data-post-id="19779" data-author="banedon" data-date="2007-08-20T22:23:21+00:00">
+<div class="post" data-post-id="19779" data-author="banedon" data-date="2007-08-20T22:23:21+00:00" data-subject="">
 
 Unless I'm wrong isnt that pretty much what entrench does?  Not sure about the extra save against fear, but I'm pretty sure about the rest.
 
 </div>
 
-<div class="post" data-post-id="19780" data-author="Tap" data-date="2007-08-20T22:33:08+00:00">
+<div class="post" data-post-id="19780" data-author="Tap" data-date="2007-08-20T22:33:08+00:00" data-subject="">
 
 Possibly, I must confess I don't have that skill so it could be the same. :shock:
 
 </div>
 
-<div class="post" data-post-id="19781" data-author="mahkra" data-date="2007-08-20T23:12:26+00:00">
+<div class="post" data-post-id="19781" data-author="mahkra" data-date="2007-08-20T23:12:26+00:00" data-subject="">
 
 What is with all the Flail hate? It's a great thing in the Duergars! :)
 
 </div>
 
-<div class="post" data-post-id="19784" data-author="Malison" data-date="2007-08-21T13:51:17+00:00">
+<div class="post" data-post-id="19784" data-author="Malison" data-date="2007-08-21T13:51:17+00:00" data-subject="">
 
 Yeah flail's great, it doesn't hit supplicants, only hits mobs that are engaged with your group unless none are, and does 2-3x the damage of a normal attack.  It's a decent option for someone who doesn't have frostbolt...or destruction, cry of the avatars, flame strike, strike, or circle stab.
 
 </div>
 
-<div class="post" data-post-id="19785" data-author="Avatar" data-date="2007-08-21T14:32:33+00:00">
+<div class="post" data-post-id="19785" data-author="Avatar" data-date="2007-08-21T14:32:33+00:00" data-subject="Flail">
 
 [quote:3gpzt97y]Yeah flail's great ... and does 2-3x the damage of a normal attack.[/quote:3gpzt97y]
 
@@ -248,7 +248,7 @@ Interesting, I wonder where you got this idea.  From my experience, it didn't do
 
 </div>
 
-<div class="post" data-post-id="19786" data-author="13" data-date="2007-08-21T14:34:25+00:00">
+<div class="post" data-post-id="19786" data-author="13" data-date="2007-08-21T14:34:25+00:00" data-subject="">
 
 Flail has never been too appealing to me dmg-wise, broadside can hit hard
 
@@ -256,13 +256,13 @@ though, and you can massive crit with it.
 
 </div>
 
-<div class="post" data-post-id="19817" data-author="12345" data-date="2007-08-21T23:12:19+00:00">
+<div class="post" data-post-id="19817" data-author="12345" data-date="2007-08-21T23:12:19+00:00" data-subject="">
 
 Flail has specific uses in my arsenal, mostly because its the only area attack I have.  It makes the mermaid into an easy solo, compared to sure fire death.  Other than that, I have to be pretty desperate to attempt it.
 
 </div>
 
-<div class="post" data-post-id="19830" data-author="alias" data-date="2007-08-22T14:20:23+00:00">
+<div class="post" data-post-id="19830" data-author="alias" data-date="2007-08-22T14:20:23+00:00" data-subject="">
 
 Sorry been in school last couple of days.. if you really think Valor is the best damage weapon in game maybe u need to do a little more research.
 
@@ -272,7 +272,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="19856" data-author="Avatar" data-date="2007-08-23T13:48:24+00:00">
+<div class="post" data-post-id="19856" data-author="Avatar" data-date="2007-08-23T13:48:24+00:00" data-subject="Warrior skills">
 
 Yes I was wrong about the Valor being highest.  Especially if you sharpen a 2-handed weapon, it can get to be a bit better than Valor.
 
@@ -280,19 +280,19 @@ I still don't like flail much.  From what I can see, it doesn't work as the help
 
 </div>
 
-<div class="post" data-post-id="19857" data-author="Weasel" data-date="2007-08-23T16:39:03+00:00">
+<div class="post" data-post-id="19857" data-author="Weasel" data-date="2007-08-23T16:39:03+00:00" data-subject="">
 
 ..and flail is dangerous in the wrong hands.. seen it cause a CF more than once..
 
 </div>
 
-<div class="post" data-post-id="19861" data-author="13" data-date="2007-08-23T18:23:10+00:00">
+<div class="post" data-post-id="19861" data-author="13" data-date="2007-08-23T18:23:10+00:00" data-subject="">
 
 Well these skills need to be tweaked a little maybe then?  Admins..what ya tink?
 
 </div>
 
-<div class="post" data-post-id="19862" data-author="Avatar" data-date="2007-08-23T19:26:32+00:00">
+<div class="post" data-post-id="19862" data-author="Avatar" data-date="2007-08-23T19:26:32+00:00" data-subject="Warrior skills">
 
 It's hard for me to tell, but I suspect that flail doesn't get the bonuses from Weapon Damage added either.  It's too bad that weapon damage gear is so rare, I only know of the drachma relic and the avatar forge for 50 mils coins.
 
@@ -300,19 +300,19 @@ Anyone want to toss me a set of Devilskins for testing?  They aren't personal ar
 
 </div>
 
-<div class="post" data-post-id="19864" data-author="mahkra" data-date="2007-08-23T19:42:41+00:00">
+<div class="post" data-post-id="19864" data-author="mahkra" data-date="2007-08-23T19:42:41+00:00" data-subject="">
 
 Isn't flail still more damage than a kick or bash?
 
 </div>
 
-<div class="post" data-post-id="19866" data-author="Leaf" data-date="2007-08-23T20:49:31+00:00">
+<div class="post" data-post-id="19866" data-author="Leaf" data-date="2007-08-23T20:49:31+00:00" data-subject="">
 
 Can you sharpen a valor?
 
 </div>
 
-<div class="post" data-post-id="19867" data-author="Avatar" data-date="2007-08-23T20:58:29+00:00">
+<div class="post" data-post-id="19867" data-author="Avatar" data-date="2007-08-23T20:58:29+00:00" data-subject="Warrior skills">
 
 As long as you have +15 or so damage on your 'score', Flail should be just more than a kick.
 
@@ -320,13 +320,13 @@ Yes you can sharpen Valor, and hope it doesn't break on you.  Two handed weapons
 
 </div>
 
-<div class="post" data-post-id="19875" data-author="Leaf" data-date="2007-08-24T01:10:09+00:00">
+<div class="post" data-post-id="19875" data-author="Leaf" data-date="2007-08-24T01:10:09+00:00" data-subject="">
 
 Has any1 ever broken their valor?  Or any other swords?
 
 </div>
 
-<div class="post" data-post-id="19878" data-author="Malison" data-date="2007-08-24T03:49:04+00:00">
+<div class="post" data-post-id="19878" data-author="Malison" data-date="2007-08-24T03:49:04+00:00" data-subject="">
 
 Tested out damage with assist and flail based on xp gain for each during a desert/palace run.  Flail consistently gave 1.5-2x the xp of the single hit from assisting.
 
@@ -338,7 +338,7 @@ That's where I got the twice as much damage idea.
 
 </div>
 
-<div class="post" data-post-id="19881" data-author="Atwell" data-date="2007-08-24T05:19:40+00:00">
+<div class="post" data-post-id="19881" data-author="Atwell" data-date="2007-08-24T05:19:40+00:00" data-subject="">
 
 Indeed, weapon damage does not add to flail.
 
@@ -346,7 +346,7 @@ I have never heard of someone breaking a valor sword.  I broke a few shop swords
 
 </div>
 
-<div class="post" data-post-id="19886" data-author="Weasel" data-date="2007-08-24T17:16:52+00:00">
+<div class="post" data-post-id="19886" data-author="Weasel" data-date="2007-08-24T17:16:52+00:00" data-subject="">
 
 Indeed, weapon damage does not add to flail.[/quote:2u5e5llq]
 
@@ -354,7 +354,7 @@ Yup, which would kind of make sense since there is +flail eq available.. althoug
 
 </div>
 
-<div class="post" data-post-id="19887" data-author="Avatar" data-date="2007-08-24T19:43:52+00:00">
+<div class="post" data-post-id="19887" data-author="Avatar" data-date="2007-08-24T19:43:52+00:00" data-subject="Weapon skills">
 
 I'd guess that +weapon damage doesn't apply to broadside either, but I can't say for sure yet.
 

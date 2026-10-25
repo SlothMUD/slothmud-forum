@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="40075" data-author="cnl" data-date="2023-11-04T16:30:49+00:00">
+<div class="post" data-post-id="40075" data-author="cnl" data-date="2023-11-04T16:30:49+00:00" data-subject="Slothmud is down">
 
 Slothmud is down
 
@@ -30,7 +30,7 @@ Come chat on sloth discord. [https://discord.gg/YRzSRSd](https://discord.gg/YRzS
 
 </div>
 
-<div class="post" data-post-id="40076" data-author="*Breeze*" data-date="2023-11-13T11:52:40+00:00">
+<div class="post" data-post-id="40076" data-author="*Breeze*" data-date="2023-11-13T11:52:40+00:00" data-subject="Re: Slothmud is down">
 
 Its back up!
 
@@ -42,13 +42,13 @@ Thanks Teker for the fix!
 
 </div>
 
-<div class="post" data-post-id="40077" data-author="cnl" data-date="2023-11-14T00:25:06+00:00">
+<div class="post" data-post-id="40077" data-author="cnl" data-date="2023-11-14T00:25:06+00:00" data-subject="Re: Slothmud is down">
 
 Thanks Breeze! Thanks Teker!
 
 </div>
 
-<div class="post" data-post-id="40078" data-author="Insomnia" data-date="2023-11-14T16:30:22+00:00">
+<div class="post" data-post-id="40078" data-author="Insomnia" data-date="2023-11-14T16:30:22+00:00" data-subject="Re: Slothmud is down">
 
 Thank you for fixing it!
 

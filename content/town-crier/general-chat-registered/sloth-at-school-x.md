@@ -10,13 +10,13 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="30744" data-author="ciphersoft" data-date="2010-01-25T20:33:06+00:00">
+<div class="post" data-post-id="30744" data-author="ciphersoft" data-date="2010-01-25T20:33:06+00:00" data-subject="Sloth at School :X">
 
 So it appears my university has blocked Sloth somehow. I can access the website I just can't connect to the game.  Anybody know any clever ways around this problem? :P
 
 </div>
 
-<div class="post" data-post-id="30745" data-author="*Splork*" data-date="2010-01-26T03:24:47+00:00">
+<div class="post" data-post-id="30745" data-author="*Splork*" data-date="2010-01-26T03:24:47+00:00" data-subject="">
 
 Try the fmud option on the main page of this website. Its not the best but it should bypass any school telnet ban.
 
@@ -24,13 +24,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30746" data-author="jex" data-date="2010-01-26T10:25:16+00:00">
+<div class="post" data-post-id="30746" data-author="jex" data-date="2010-01-26T10:25:16+00:00" data-subject="">
 
 i guess it will be block as well. I am working, company firewall in fact block all the 3 site that allow us to play. For my side: it will show security error.
 
 </div>
 
-<div class="post" data-post-id="30747" data-author="Redcross" data-date="2010-01-26T12:28:28+00:00">
+<div class="post" data-post-id="30747" data-author="Redcross" data-date="2010-01-26T12:28:28+00:00" data-subject="">
 
 There are a plethora of ways around; 
 
@@ -42,7 +42,7 @@ The first option has the advantage of being able to run your tintin/wintin/zmud 
 
 </div>
 
-<div class="post" data-post-id="30748" data-author="ciphersoft" data-date="2010-01-26T17:08:35+00:00">
+<div class="post" data-post-id="30748" data-author="ciphersoft" data-date="2010-01-26T17:08:35+00:00" data-subject="">
 
 Splork: Thanks, tried that but it was a no go :(
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="14803" data-author="Shiv" data-date="2006-10-29T16:28:02+00:00">
+<div class="post" data-post-id="14803" data-author="Shiv" data-date="2006-10-29T16:28:02+00:00" data-subject="Just a few amusing pics...">
 
 [img:x4shlm7m]http://www.knitemare.org/cats/270913948_610f50b666.jpg[/img:x4shlm7m]
 
@@ -30,13 +30,13 @@ post_count: 3
 
 </div>
 
-<div class="post" data-post-id="14804" data-author="Autolycos" data-date="2006-10-29T17:17:58+00:00">
+<div class="post" data-post-id="14804" data-author="Autolycos" data-date="2006-10-29T17:17:58+00:00" data-subject="">
 
 i love it!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="14845" data-author="Morkeleb" data-date="2006-10-31T16:56:07+00:00">
+<div class="post" data-post-id="14845" data-author="Morkeleb" data-date="2006-10-31T16:56:07+00:00" data-subject="">
 
 Very cool!
 

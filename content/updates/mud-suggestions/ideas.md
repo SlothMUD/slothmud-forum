@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="1138" data-author="Ender" data-date="2004-07-21T03:44:41+00:00">
+<div class="post" data-post-id="1138" data-author="Ender" data-date="2004-07-21T03:44:41+00:00" data-subject="Ideas...">
 
 I was noticing a few things about our wonderful mud that I thought seemed kind of strange.  They're not terrible, but they seem odd, and some of the more sneaky of us could take advantage of these basic ideas if they made a little more sense.
 
@@ -26,13 +26,13 @@ As always, suggestions are welcome.
 
 </div>
 
-<div class="post" data-post-id="1139" data-author="impz" data-date="2004-07-21T03:58:47+00:00">
+<div class="post" data-post-id="1139" data-author="impz" data-date="2004-07-21T03:58:47+00:00" data-subject="hmmm">
 
 Probably due to the fact that druids do have certain shapeshifts that aids them in cr (correct me if i am wrong), possibly it will be hard for immortals to make another for another class...
 
 </div>
 
-<div class="post" data-post-id="1140" data-author="Ender" data-date="2004-07-21T12:13:26+00:00">
+<div class="post" data-post-id="1140" data-author="Ender" data-date="2004-07-21T12:13:26+00:00" data-subject="Aide?">
 
 Haven't played a druid, so I'm not exactly sure what you mean, though I have considered that druids would appear to have many forms to change into.
 
@@ -44,7 +44,7 @@ Comments welcome...
 
 </div>
 
-<div class="post" data-post-id="1141" data-author="Alberich" data-date="2004-07-21T12:39:43+00:00">
+<div class="post" data-post-id="1141" data-author="Alberich" data-date="2004-07-21T12:39:43+00:00" data-subject="">
 
 A - would be ridiculously spammy, tanks especially die all the time
 
@@ -54,7 +54,7 @@ C - druids and necros do get a bit of an advantage for self-cr's (druids with lo
 
 </div>
 
-<div class="post" data-post-id="1144" data-author="Ender" data-date="2004-07-21T15:20:08+00:00">
+<div class="post" data-post-id="1144" data-author="Ender" data-date="2004-07-21T15:20:08+00:00" data-subject="">
 
 A - would be ridiculously spammy, tanks especially die all the time
 

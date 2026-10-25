@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="34228" data-author="*juggleblood*" data-date="2013-04-09T00:52:59+00:00">
+<div class="post" data-post-id="34228" data-author="*juggleblood*" data-date="2013-04-09T00:52:59+00:00" data-subject="autoquest conventions">
 
 Please remember that it is convention to not discuss autoquests on gossip. No it's not a huge deal and no, we don't enforce it. 
 
@@ -38,7 +38,7 @@ The grandmaster thug immolates himself! His corpse is reduced to ash.
 
 </div>
 
-<div class="post" data-post-id="34229" data-author="Marvel" data-date="2013-04-09T20:15:45+00:00">
+<div class="post" data-post-id="34229" data-author="Marvel" data-date="2013-04-09T20:15:45+00:00" data-subject="Re: autoquest conventions">
 
 Considering that I was cycling the thug... I thought I'd offer some input in why I did so.
 
@@ -48,7 +48,7 @@ If this corpse poofs, that's fine with me, but will you at least make sure that 
 
 </div>
 
-<div class="post" data-post-id="34231" data-author="*juggleblood*" data-date="2013-04-12T13:21:00+00:00">
+<div class="post" data-post-id="34231" data-author="*juggleblood*" data-date="2013-04-12T13:21:00+00:00" data-subject="Re: autoquest conventions">
 
 Thanks. I hadn't tested that. I had to remove the proc until I can get the coins transporting to the floor of the room correctly.
 
@@ -60,13 +60,13 @@ Putting 30 drachma and 2 elite newbie items all the same mob is undesirable to m
 
 </div>
 
-<div class="post" data-post-id="34232" data-author="Dragoth" data-date="2013-04-12T15:19:16+00:00">
+<div class="post" data-post-id="34232" data-author="Dragoth" data-date="2013-04-12T15:19:16+00:00" data-subject="Re: autoquest conventions">
 
 Here comes the Newbie Patrol! Ruuuun!
 
 </div>
 
-<div class="post" data-post-id="34234" data-author="Oboe" data-date="2013-04-13T02:21:07+00:00">
+<div class="post" data-post-id="34234" data-author="Oboe" data-date="2013-04-13T02:21:07+00:00" data-subject="Re: autoquest conventions">
 
 > ***juggleblood* wrote:**
 > Putting 30 drachma and 2 elite newbie items all the same mob is undesirable to me.
@@ -75,7 +75,7 @@ The items aren't elite.  People cycle for those items to get the experience of d
 
 </div>
 
-<div class="post" data-post-id="34235" data-author="Marvel" data-date="2013-04-13T15:34:42+00:00">
+<div class="post" data-post-id="34235" data-author="Marvel" data-date="2013-04-13T15:34:42+00:00" data-subject="Re: autoquest conventions">
 
 Another thing to think about. What about Valk groups that hit the grandmaster thug? Often, they'll have someone who has already done the quest. What if they strike the killing blow, but the newbie who needs the quest sees the corpse poof?
 

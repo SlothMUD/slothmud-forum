@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="8264" data-author="iz" data-date="2005-08-11T20:10:06+00:00">
+<div class="post" data-post-id="8264" data-author="iz" data-date="2005-08-11T20:10:06+00:00" data-subject="classo stuff">
 
 I'm new to slothmud, and I have a couple of questions about my classo.  I've tried a few classo combinations, and have decided to go with a Mo/Ma/Cl/Ne.  I was wondering if this is a good combo, and if there's any pros/cons to being monk primary.
 
@@ -22,7 +22,7 @@ Iz
 
 </div>
 
-<div class="post" data-post-id="8266" data-author="blackmore" data-date="2005-08-12T10:25:34+00:00">
+<div class="post" data-post-id="8266" data-author="blackmore" data-date="2005-08-12T10:25:34+00:00" data-subject="">
 
 I don't think it's a bad classo.  I'm not sure how powerful monk prime is compared to monk in other slots, but any prime is fine if that's what you decide you want to play.  The prime skill that I can think of is being able to grip ether mobs, which plays in well with mage.
 
@@ -30,7 +30,7 @@ As for your other classes, clerics and necros have spells that are affected base
 
 </div>
 
-<div class="post" data-post-id="8267" data-author="13" data-date="2005-08-12T10:33:37+00:00">
+<div class="post" data-post-id="8267" data-author="13" data-date="2005-08-12T10:33:37+00:00" data-subject="">
 
 I have a 3x40 mo/ma/ne/cl and think it's a fine classo, essentially the
 
@@ -44,7 +44,7 @@ Good choice.
 
 </div>
 
-<div class="post" data-post-id="8269" data-author="12345" data-date="2005-08-12T11:30:52+00:00">
+<div class="post" data-post-id="8269" data-author="12345" data-date="2005-08-12T11:30:52+00:00" data-subject="">
 
 Only concern I'd have playing it is the stat order:
 
@@ -56,7 +56,7 @@ I'm curious what 13 has for stats on his Mo/Ma and how many tokens it took him.
 
 </div>
 
-<div class="post" data-post-id="8270" data-author="blackmore" data-date="2005-08-12T11:36:35+00:00">
+<div class="post" data-post-id="8270" data-author="blackmore" data-date="2005-08-12T11:36:35+00:00" data-subject="">
 
 I forgot, you asked about pvp, 'splork' mobs and 'chop' mobs.
 

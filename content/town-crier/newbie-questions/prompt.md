@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31328" data-author="Kelven" data-date="2010-06-24T12:24:05+00:00">
+<div class="post" data-post-id="31328" data-author="Kelven" data-date="2010-06-24T12:24:05+00:00" data-subject="Prompt">
 
 I have two questions concerning prompts. Firstly...
 
@@ -28,7 +28,7 @@ Is it possible to add another prompt function that will display my current targe
 
 </div>
 
-<div class="post" data-post-id="31329" data-author="Thraxas" data-date="2010-06-25T08:43:25+00:00">
+<div class="post" data-post-id="31329" data-author="Thraxas" data-date="2010-06-25T08:43:25+00:00" data-subject="Re: Prompt">
 
 > **Kelven wrote:**
 > I have two questions concerning prompts. Firstly...

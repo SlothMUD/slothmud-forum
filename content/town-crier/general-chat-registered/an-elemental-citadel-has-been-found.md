@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31693" data-author="Pbx" data-date="2010-09-03T03:20:16+00:00">
+<div class="post" data-post-id="31693" data-author="Pbx" data-date="2010-09-03T03:20:16+00:00" data-subject="An elemental citadel has been found!">
 
 Information has been made available to me through my network of mortal spies that an elemental citadel has been found!  Being the curious deity that I am, I visited this citadel myself to see exactly what was going on.
 

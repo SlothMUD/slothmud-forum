@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="30982" data-author="Gandolf" data-date="2010-03-24T21:22:51+00:00">
+<div class="post" data-post-id="30982" data-author="Gandolf" data-date="2010-03-24T21:22:51+00:00" data-subject="Dear Immortals">
 
 You are very retarded, I would like to thank you for ruining grouping, and screwing up areas. You guys say you want this to be a group oriented friendly mud, right? You guys could atleast warn us when your gonna screw up an area. Or tell us you dont want us to run the area... Instead of trying to prove a point and randomly making big ass mobs scan aggro all of a sudden where safe regen spots used to be safe... How fawking hard is it to do that? I mean really? You guys keep fawking up the xp runs and no one is gonna lead your bullshit Group oriented mud... Then you'll have people sitting around just chatting and making nothing out of your years of coding bullshit... Just wait and see. Maybe people can walk around and make useless conversations with your stupid ass talking mobs instead of killing them...
 
@@ -20,7 +20,7 @@ Your an idiot
 
 </div>
 
-<div class="post" data-post-id="30983" data-author="Toxis" data-date="2010-03-24T21:29:40+00:00">
+<div class="post" data-post-id="30983" data-author="Toxis" data-date="2010-03-24T21:29:40+00:00" data-subject="">
 
 If you make changes in an area that's been run one billion times and don't tell the players, expect a shitstorm headed directly at you.  I think you owe Rogue some exp.  66 deaths wasn't enough last week?
 
@@ -28,7 +28,7 @@ If you make changes in an area that's been run one billion times and don't tell 
 
 </div>
 
-<div class="post" data-post-id="30985" data-author="*Splork*" data-date="2010-03-24T22:16:22+00:00">
+<div class="post" data-post-id="30985" data-author="*Splork*" data-date="2010-03-24T22:16:22+00:00" data-subject="Sorry">
 
 As I said online, this was me changing it. I put very little thought into it other than, this will be a fun surprise. I really should of remembered how it felt.
 
@@ -38,19 +38,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30986" data-author="Gandolf" data-date="2010-03-24T22:41:55+00:00">
+<div class="post" data-post-id="30986" data-author="Gandolf" data-date="2010-03-24T22:41:55+00:00" data-subject="Apologies">
 
 I've apologized he changed it back, regardless we know about the change and I could have just announced it on here instead of blaming imms etc... Shit happens, Shit changes.. I'm not a common leader on sloth4 and I was on sloth3... I led alot on sloth 3 and it was fun, I've led twice or so on sloth4 and its harder, yes you get more rewards etc.. but that doesnt make the leading part of it any easier. I could have just gone back and killed that stupid worm that charged us instead :)... Regardless its done flags removed move on... I apologized for personally attacking Splork, wasn't my intentions I was just pissed and trying to make a point and made it the wrong way... Thanks Rick for the changes you make in the mud good bad / etc... I'll probably end up leading regardless anyway, but its hard to encourage new leaders :)
 
 </div>
 
-<div class="post" data-post-id="30987" data-author="Toxis" data-date="2010-03-24T23:12:26+00:00">
+<div class="post" data-post-id="30987" data-author="Toxis" data-date="2010-03-24T23:12:26+00:00" data-subject="">
 
 Here, let me stitch those on back between your legs, Gandolf. :)
 
 </div>
 
-<div class="post" data-post-id="30988" data-author="Bennett" data-date="2010-03-24T23:34:16+00:00">
+<div class="post" data-post-id="30988" data-author="Bennett" data-date="2010-03-24T23:34:16+00:00" data-subject="">
 
 Sounds like fun to me.   I would say put them back in Splork, only it seems that the low risk / high return group xp is still not enough for some people.
 
@@ -58,13 +58,13 @@ If I fly off the handle, will you raise solo xp ? ;)
 
 </div>
 
-<div class="post" data-post-id="30989" data-author="Gandolf" data-date="2010-03-25T00:24:03+00:00">
+<div class="post" data-post-id="30989" data-author="Gandolf" data-date="2010-03-25T00:24:03+00:00" data-subject="">
 
 Regardless its fixed, and either way, face it your gonna still lead, and so are whoever ends up leading in the future of this game... If you were leading in the first place we would have had more joiners and we wouldnt have cf'd in the first place :)
 
 </div>
 
-<div class="post" data-post-id="30991" data-author="Bennett" data-date="2010-03-25T01:40:00+00:00">
+<div class="post" data-post-id="30991" data-author="Bennett" data-date="2010-03-25T01:40:00+00:00" data-subject="">
 
 Desert xp is low risk? 
 
@@ -104,7 +104,7 @@ And most likely someone was right there to throw a raise on or grab their corpse
 
 </div>
 
-<div class="post" data-post-id="30992" data-author="jezer" data-date="2010-03-25T01:46:15+00:00">
+<div class="post" data-post-id="30992" data-author="jezer" data-date="2010-03-25T01:46:15+00:00" data-subject="">
 
 Desert xp is low risk? 
 
@@ -146,7 +146,7 @@ Ok, chat to whiff about today.
 
 </div>
 
-<div class="post" data-post-id="30997" data-author="Gimlet" data-date="2010-03-25T05:56:37+00:00">
+<div class="post" data-post-id="30997" data-author="Gimlet" data-date="2010-03-25T05:56:37+00:00" data-subject="">
 
 seriously, xp risk shouldn't be directly linked to the number of deaths.
 
@@ -192,7 +192,7 @@ Ok, chat to whiff about today.[/quote:20w2gzcv]
 
 </div>
 
-<div class="post" data-post-id="30998" data-author="*Chobbs*" data-date="2010-03-25T07:47:40+00:00">
+<div class="post" data-post-id="30998" data-author="*Chobbs*" data-date="2010-03-25T07:47:40+00:00" data-subject="">
 
 Mornin' folks,
 
@@ -242,7 +242,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30999" data-author="Gandolf" data-date="2010-03-25T08:38:56+00:00">
+<div class="post" data-post-id="30999" data-author="Gandolf" data-date="2010-03-25T08:38:56+00:00" data-subject="">
 
 [quote:1wlwbxai]Leaders know exactly what to expect, it just becomes automatic after a point. The groups that run there are enormous, almost quest size. To really screw up, you'd have to either really try, push the group to its absolute limit[/quote:1wlwbxai]
 
@@ -250,7 +250,7 @@ Now this would have been a correct statement, however the group that was running
 
 </div>
 
-<div class="post" data-post-id="31001" data-author="jezer" data-date="2010-03-25T11:17:24+00:00">
+<div class="post" data-post-id="31001" data-author="jezer" data-date="2010-03-25T11:17:24+00:00" data-subject="">
 
 If Chobbs argument was supposed to prove Desert and Mystica are not risky xp in the context of group xp on sloth... what is risky group xp on sloth? And if it existed who would do it anyway? We just whined about the changes to desert?
 
@@ -268,7 +268,7 @@ Do you think deleting my posts all the time Splork makes the problem go away?
 
 </div>
 
-<div class="post" data-post-id="31002" data-author="*Splork*" data-date="2010-03-25T11:34:07+00:00">
+<div class="post" data-post-id="31002" data-author="*Splork*" data-date="2010-03-25T11:34:07+00:00" data-subject="">
 
 Ill delete any post that insults or degrades the Immortals, including me on these forums. 
 
@@ -280,7 +280,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31003" data-author="Thraxas" data-date="2010-03-25T12:17:25+00:00">
+<div class="post" data-post-id="31003" data-author="Thraxas" data-date="2010-03-25T12:17:25+00:00" data-subject="">
 
 You gotta love slothmud sometimes, and this thread is symptomatic of why.
 
@@ -296,7 +296,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31027" data-author="Medios" data-date="2010-04-06T22:00:18+00:00">
+<div class="post" data-post-id="31027" data-author="Medios" data-date="2010-04-06T22:00:18+00:00" data-subject="">
 
 The only problem I see here is that Minstrel wasn't leading.  When people get comfortable running around in castles and MH they don't need to step up to the desert.  I always personally thought it was crap that the mobs were the same every time and that I could run thru desert and necropolis without regen non stop.  Believe me if it was still fun running around and doing the same crap I would still be playing.  I had way more fun killing epics than desert (some of which were near impossible to defeat).  Some people play for the elite part of the game, the risky part, the nobody else has crystal sleeves part.  The other 99.9% expect everything to be easy and handed to them.  They think if they bot in enough that one day they will just magically learn the ability to actually play the game.  Sure levels help but the game is much more than levels.  This game is so slow paced compared to other video games that its ridiculous that people whine.  Especially when you consider the fact that they "follow" someone else.  
 
@@ -306,7 +306,7 @@ PS Anyone who doesn't like Rick can kiss my ass.  He kept this game going while 
 
 </div>
 
-<div class="post" data-post-id="31030" data-author="Gimlet" data-date="2010-04-07T11:11:23+00:00">
+<div class="post" data-post-id="31030" data-author="Gimlet" data-date="2010-04-07T11:11:23+00:00" data-subject="">
 
 I honestly don't think about sloth much, but when I do I am sad that the elite part of the game has turned into this.
 
@@ -316,7 +316,7 @@ amen bro
 
 </div>
 
-<div class="post" data-post-id="31031" data-author="Thraxas" data-date="2010-04-07T18:16:13+00:00">
+<div class="post" data-post-id="31031" data-author="Thraxas" data-date="2010-04-07T18:16:13+00:00" data-subject="">
 
 To Medios, Gimlet and all other legends in their own minds who want to perpetuate this nonsensical and out of date thread,
 

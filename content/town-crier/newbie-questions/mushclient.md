@@ -10,37 +10,37 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="4780" data-author="zaphod" data-date="2005-03-04T15:47:38+00:00">
+<div class="post" data-post-id="4780" data-author="zaphod" data-date="2005-03-04T15:47:38+00:00" data-subject="mushclient">
 
 Hey i'm new to this game, though i do have a lot of experience with muds. I have mush client right now, and this game says it's compatable, but when i type in slothmud.org into the address it says that it can't connect. I think it might be confused by the voting system, but i doubt it, so what's going on?
 
 </div>
 
-<div class="post" data-post-id="4781" data-author="Weasel" data-date="2005-03-04T15:56:26+00:00">
+<div class="post" data-post-id="4781" data-author="Weasel" data-date="2005-03-04T15:56:26+00:00" data-subject="">
 
 did you enter the port number as well? 6101
 
 </div>
 
-<div class="post" data-post-id="4785" data-author="zaphod" data-date="2005-03-04T16:25:26+00:00">
+<div class="post" data-post-id="4785" data-author="zaphod" data-date="2005-03-04T16:25:26+00:00" data-subject="">
 
 i feel like an idiot....thanks weasel
 
 </div>
 
-<div class="post" data-post-id="4786" data-author="zaphod" data-date="2005-03-04T16:30:44+00:00">
+<div class="post" data-post-id="4786" data-author="zaphod" data-date="2005-03-04T16:30:44+00:00" data-subject="">
 
 ok this is pointless but weasel, you signed up on this game on my birthday
 
 </div>
 
-<div class="post" data-post-id="4790" data-author="Weasel" data-date="2005-03-04T22:48:47+00:00">
+<div class="post" data-post-id="4790" data-author="Weasel" data-date="2005-03-04T22:48:47+00:00" data-subject="">
 
 muahahah  :twisted:
 
 </div>
 
-<div class="post" data-post-id="4792" data-author="Autolycos" data-date="2005-03-04T23:57:24+00:00">
+<div class="post" data-post-id="4792" data-author="Autolycos" data-date="2005-03-04T23:57:24+00:00" data-subject="">
 
 knowing weasel like i do,  he probably did it on purpose with malicious intent, and it is all part of a much bigger diabolical conspiracy joined with the evil dark minions from hell to dominate the known galaxy!
 
@@ -50,19 +50,19 @@ heh
 
 </div>
 
-<div class="post" data-post-id="4793" data-author="Weasel" data-date="2005-03-05T07:09:08+00:00">
+<div class="post" data-post-id="4793" data-author="Weasel" data-date="2005-03-05T07:09:08+00:00" data-subject="">
 
 ..and all that before breakfast  :twisted:
 
 </div>
 
-<div class="post" data-post-id="5288" data-author="zaphod" data-date="2005-03-28T14:16:27+00:00">
+<div class="post" data-post-id="5288" data-author="zaphod" data-date="2005-03-28T14:16:27+00:00" data-subject="">
 
 How do you find the port number for these things?
 
 </div>
 
-<div class="post" data-post-id="5289" data-author="12345" data-date="2005-03-28T15:33:48+00:00">
+<div class="post" data-post-id="5289" data-author="12345" data-date="2005-03-28T15:33:48+00:00" data-subject="">
 
 It's listed all over...
 
@@ -86,7 +86,7 @@ Since you can't connect without knowing the correct port, any mud will make sure
 
 </div>
 
-<div class="post" data-post-id="5290" data-author="zaphod" data-date="2005-03-28T17:07:51+00:00">
+<div class="post" data-post-id="5290" data-author="zaphod" data-date="2005-03-28T17:07:51+00:00" data-subject="">
 
 thanks a lot that really helped
 

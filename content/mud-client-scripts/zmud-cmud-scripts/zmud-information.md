@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13" data-author="erick" data-date="2003-06-06T19:35:06+00:00">
+<div class="post" data-post-id="13" data-author="erick" data-date="2003-06-06T19:35:06+00:00" data-subject="zMUD Information">
 
 [b:2axchpnc]Introduction[/b:2axchpnc] -
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35974" data-author="Yasik" data-date="2015-06-30T20:31:46+00:00">
+<div class="post" data-post-id="35974" data-author="Yasik" data-date="2015-06-30T20:31:46+00:00" data-subject="He&#x27;s back.">
 
 He told us that he'll be.
 

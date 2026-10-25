@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="3637" data-author="iain" data-date="2005-01-06T15:49:37+00:00">
+<div class="post" data-post-id="3637" data-author="iain" data-date="2005-01-06T15:49:37+00:00" data-subject="wtb: mana wrist stuff">
 
 Interested in any of the following, looking to buy 6 or so items, so cough em up please. :)
 
@@ -26,7 +26,7 @@ Bracer of Flames 	Undead General 	Tomb	-0.0	+3 Mana, +1 Ma Regen
 
 </div>
 
-<div class="post" data-post-id="3638" data-author="13" data-date="2005-01-06T16:12:52+00:00">
+<div class="post" data-post-id="3638" data-author="13" data-date="2005-01-06T16:12:52+00:00" data-subject="">
 
 heh
 

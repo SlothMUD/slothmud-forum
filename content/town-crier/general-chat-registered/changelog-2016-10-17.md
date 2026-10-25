@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="37403" data-author="*teker*" data-date="2016-10-17T14:26:59+00:00">
+<div class="post" data-post-id="37403" data-author="*teker*" data-date="2016-10-17T14:26:59+00:00" data-subject="Changelog 2016-10-17">
 
 The rank command should show correct information now.
 
@@ -26,13 +26,13 @@ I added to the target code so that mobs that are targeted show "[Target]" when t
 
 </div>
 
-<div class="post" data-post-id="37404" data-author="*teker*" data-date="2016-10-17T16:24:54+00:00">
+<div class="post" data-post-id="37404" data-author="*teker*" data-date="2016-10-17T16:24:54+00:00" data-subject="Re: Changelog 2016-10-17">
 
 Ok, we've found a bug where sometimes mobs are shown as "someone" when you can see them.  I'll have it fixed for tomorrow morning.
 
 </div>
 
-<div class="post" data-post-id="37405" data-author="Teron" data-date="2016-10-17T18:41:37+00:00">
+<div class="post" data-post-id="37405" data-author="Teron" data-date="2016-10-17T18:41:37+00:00" data-subject="Re: Changelog 2016-10-17">
 
 As a leader, I have started using the target command almost immediately, once you've reintroduced it, but I don't know how many of my followers use it.
 
@@ -52,7 +52,7 @@ P.S. I've heard a complaint that the word [Target] is spammy, so perhaps a toggl
 
 </div>
 
-<div class="post" data-post-id="37406" data-author="Gorka" data-date="2016-10-18T05:47:59+00:00">
+<div class="post" data-post-id="37406" data-author="Gorka" data-date="2016-10-18T05:47:59+00:00" data-subject="Re: Changelog 2016-10-17">
 
 I can't think of one new change that's been implemented that hasn't been called spammy by some dork. Remember what happened when someone called auctioneer spammy... now it takes a whole minute of senseless waiting to list items, because some dork said it was being spammy... if I shall ever find the dork that said this I will... I will...  :evil:  :twisted: 
 
@@ -68,7 +68,7 @@ As a person who likes to mess with scripts for the hell of it, even if that does
 
 </div>
 
-<div class="post" data-post-id="37407" data-author="*teker*" data-date="2016-10-18T16:25:08+00:00">
+<div class="post" data-post-id="37407" data-author="*teker*" data-date="2016-10-18T16:25:08+00:00" data-subject="Re: Changelog 2016-10-17">
 
 So the "someone" problems should be fixed but it looks like my fixes for practice didn't make it in for some reason.  I'll try to figure out why.
 
@@ -76,7 +76,7 @@ If there are folks that are getting annoyed with the [Target] tag, speak up and 
 
 </div>
 
-<div class="post" data-post-id="37408" data-author="Teron" data-date="2016-10-19T15:54:06+00:00">
+<div class="post" data-post-id="37408" data-author="Teron" data-date="2016-10-19T15:54:06+00:00" data-subject="Re: Changelog 2016-10-17">
 
 1. Gorka does have a point.
 
@@ -119,7 +119,7 @@ P.S. Not trying to hijack the thread, just mentioning ideas.
 
 </div>
 
-<div class="post" data-post-id="37409" data-author="Gorka" data-date="2016-10-19T16:56:15+00:00">
+<div class="post" data-post-id="37409" data-author="Gorka" data-date="2016-10-19T16:56:15+00:00" data-subject="Re: Changelog 2016-10-17">
 
 I suspect in the past the lost con message was generic to stop botters.
 
@@ -139,7 +139,7 @@ But anyways, my overall point is Spam is good. If you don't like it, gag it in y
 
 </div>
 
-<div class="post" data-post-id="37410" data-author="*teker*" data-date="2016-10-19T18:12:34+00:00">
+<div class="post" data-post-id="37410" data-author="*teker*" data-date="2016-10-19T18:12:34+00:00" data-subject="Re: Changelog 2016-10-17">
 
 I got in late this morning but the targeting code should be re-enabled now.  I don't plan on rebooting for a while unless there's something else majorly broken.  The practice code should be displaying the right information now.
 
@@ -156,7 +156,7 @@ I've been thinking about the auctioneer .  It would be pretty easy to add queuin
 
 </div>
 
-<div class="post" data-post-id="37411" data-author="Gorka" data-date="2016-10-19T20:37:05+00:00">
+<div class="post" data-post-id="37411" data-author="Gorka" data-date="2016-10-19T20:37:05+00:00" data-subject="Re: Changelog 2016-10-17">
 
 The auction lag problem is actually a symptom of a greater problem. There would be no problem with the auction system, without listing tokens... tokens are about the only items we sell in bulk.
 
@@ -178,7 +178,7 @@ If you changed the spell fail message, that to most players would be probably th
 
 </div>
 
-<div class="post" data-post-id="37412" data-author="*juggleblood*" data-date="2016-10-19T20:49:07+00:00">
+<div class="post" data-post-id="37412" data-author="*juggleblood*" data-date="2016-10-19T20:49:07+00:00" data-subject="Re: Changelog 2016-10-17">
 
 Please change this thread so that players can not post to it. It would read much better as a clean record of changes. Also please delete existing player comments.
 
@@ -186,7 +186,7 @@ Please change this thread so that players can not post to it. It would read much
 
 </div>
 
-<div class="post" data-post-id="37413" data-author="Gorka" data-date="2016-10-19T20:55:53+00:00">
+<div class="post" data-post-id="37413" data-author="Gorka" data-date="2016-10-19T20:55:53+00:00" data-subject="Re: Changelog 2016-10-17">
 
 > ***juggleblood* wrote:**
 > @Gorka It is absurd to complain about not being able to depend on token sales for income, when no one but you is trying to do that.  No one is forcing you to spend so much time in the coliseum. You could go out and solo for coins like everybody else.
@@ -195,7 +195,7 @@ This is what I am doing... and no, I am not the only one making money from token
 
 </div>
 
-<div class="post" data-post-id="37415" data-author="*juggleblood*" data-date="2016-10-19T21:01:34+00:00">
+<div class="post" data-post-id="37415" data-author="*juggleblood*" data-date="2016-10-19T21:01:34+00:00" data-subject="Re: Changelog 2016-10-17">
 
 This would be like arguing that xerxes wasn't enough coins because if you're only killing xerxes then you don't have enough coins to level. There are no mobs, only xerxes!
 
@@ -203,7 +203,7 @@ This would be like arguing that xerxes wasn't enough coins because if you're onl
 
 </div>
 
-<div class="post" data-post-id="37420" data-author="cyprimus" data-date="2016-10-20T02:59:58+00:00">
+<div class="post" data-post-id="37420" data-author="cyprimus" data-date="2016-10-20T02:59:58+00:00" data-subject="Re: Changelog 2016-10-17">
 
 I agree with gokra.. we have an overabundance of exp!
 
@@ -213,7 +213,7 @@ Nerf it!
 
 </div>
 
-<div class="post" data-post-id="37431" data-author="Teron" data-date="2016-10-22T18:21:33+00:00">
+<div class="post" data-post-id="37431" data-author="Teron" data-date="2016-10-22T18:21:33+00:00" data-subject="Re: Changelog 2016-10-17">
 
 Teker, I guess engaging on "backstab target" or "cast 'firewind' target" would work. After all, it's not "backstab guard".
 
@@ -223,13 +223,13 @@ P.S. Even though moving offtopic posts to other threads would work, I don't see 
 
 </div>
 
-<div class="post" data-post-id="37432" data-author="*juggleblood*" data-date="2016-10-22T18:30:50+00:00">
+<div class="post" data-post-id="37432" data-author="*juggleblood*" data-date="2016-10-22T18:30:50+00:00" data-subject="Re: Changelog 2016-10-17">
 
 Feedback is great sure, but it would be nice to be able to read a clear listing of game changes without all the player banter mixed in. Just a thread with a list of changes by that immortal.
 
 </div>
 
-<div class="post" data-post-id="37439" data-author="*Splork*" data-date="2016-10-22T23:58:28+00:00">
+<div class="post" data-post-id="37439" data-author="*Splork*" data-date="2016-10-22T23:58:28+00:00" data-subject="Re: Changelog 2016-10-17">
 
 I'd recommend posting to "Game Changes and New Stuff" for game additions by Immortals. If I remember right, that's for Immortals only and players can start new threads here regarding when they are looking for discussion...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="23870" data-author="Dragoth" data-date="2008-04-20T14:01:39+00:00">
+<div class="post" data-post-id="23870" data-author="Dragoth" data-date="2008-04-20T14:01:39+00:00" data-subject="wtb: hook avian claw or cps">
 
 any cps, offers here or online.
 

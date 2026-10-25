@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31799" data-author="*Isabo*" data-date="2010-09-26T19:14:58+00:00">
+<div class="post" data-post-id="31799" data-author="*Isabo*" data-date="2010-09-26T19:14:58+00:00" data-subject="Names command cutting study/teach/learn">
 
 Good day, students.
 

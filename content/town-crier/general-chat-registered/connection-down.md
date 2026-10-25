@@ -10,25 +10,25 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="15121" data-author="Dikus" data-date="2006-11-12T21:26:34+00:00">
+<div class="post" data-post-id="15121" data-author="Dikus" data-date="2006-11-12T21:26:34+00:00" data-subject="Connection Down">
 
 I called Brian and he said that we need to get ahold of Rick. He Said that he doesnt know what is wrong with it but he said that he would check it out. :twisted:  :oops:
 
 </div>
 
-<div class="post" data-post-id="15126" data-author="Talo/Ulrich" data-date="2006-11-12T22:38:17+00:00">
+<div class="post" data-post-id="15126" data-author="Talo/Ulrich" data-date="2006-11-12T22:38:17+00:00" data-subject="">
 
 wow cool thanx a million!!!! (I wanna play on my veterance day 4 day weekend!!!!)
 
 </div>
 
-<div class="post" data-post-id="15202" data-author="java" data-date="2006-11-15T22:38:14+00:00">
+<div class="post" data-post-id="15202" data-author="java" data-date="2006-11-15T22:38:14+00:00" data-subject="">
 
 Just connection checking... mud seems down ...
 
 </div>
 
-<div class="post" data-post-id="15203" data-author="Medios" data-date="2006-11-15T22:43:57+00:00">
+<div class="post" data-post-id="15203" data-author="Medios" data-date="2006-11-15T22:43:57+00:00" data-subject="">
 
 wow cool thanx a million!!!! (I wanna play on my veterance day 4 day weekend!!!!)[/quote:3nlt3uad]
 
@@ -38,7 +38,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15204" data-author="13" data-date="2006-11-15T22:48:29+00:00">
+<div class="post" data-post-id="15204" data-author="13" data-date="2006-11-15T22:48:29+00:00" data-subject="Veterans Day">
 
 Veterans Day is an American holiday for honoring war veterans. It is celebrated on the same day as Armistice Day or Remembrance Day in other parts of the world, falling on November 11, the anniversary of the signing of the armistice that ended World War I. It is both a federal holiday and a state holiday in all states. All major hostilities of World War I were formally ended at the 11th hour of the 11th day of the 11th month of 1918 with the German signing of the Armistice. Armistice Day was first commemorated in the United States by President Woodrow Wilson in 1919, and many states made it a legal holiday. Congress passed a resolution in 1926 inviting all Americans to observe the day and made it a legal holiday nationwide in 1938.
 
@@ -52,7 +52,7 @@ Veterans Day, without an apostrophe, is the official designation, but it is comm
 
 </div>
 
-<div class="post" data-post-id="15223" data-author="Talo/Ulrich" data-date="2006-11-19T00:42:14+00:00">
+<div class="post" data-post-id="15223" data-author="Talo/Ulrich" data-date="2006-11-19T00:42:14+00:00" data-subject="wow didnt realize how critical people can be......">
 
 Talo/Ulrich wrote: 
 
@@ -74,13 +74,13 @@ I was playin the dumb vet game.....for those of you who missed it check our fux 
 
 </div>
 
-<div class="post" data-post-id="15227" data-author="13" data-date="2006-11-20T01:56:05+00:00">
+<div class="post" data-post-id="15227" data-author="13" data-date="2006-11-20T01:56:05+00:00" data-subject="">
 
 I didn't even know there was a 'dumb vet game', my bad.
 
 </div>
 
-<div class="post" data-post-id="15228" data-author="Weasel" data-date="2006-11-20T03:01:54+00:00">
+<div class="post" data-post-id="15228" data-author="Weasel" data-date="2006-11-20T03:01:54+00:00" data-subject="">
 
 [img:4ou6nxwf]http://michellemalkin.com/archives/images/bannerkerry.jpg[/img:4ou6nxwf]
 
@@ -88,7 +88,7 @@ fulll size version [url:4ou6nxwf]http://hotair.com/wp/wp-content/uploads/2006/11
 
 </div>
 
-<div class="post" data-post-id="15238" data-author="Talo/Ulrich" data-date="2006-11-21T04:53:18+00:00">
+<div class="post" data-post-id="15238" data-author="Talo/Ulrich" data-date="2006-11-21T04:53:18+00:00" data-subject="Ok then Ill ejoomuhk8 u about the dum vet game">
 
 [http://flapsblog.com/?p=3717](http://flapsblog.com/?p=3717)
 

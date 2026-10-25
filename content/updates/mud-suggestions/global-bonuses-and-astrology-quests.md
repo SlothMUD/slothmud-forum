@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38247" data-author="Teron" data-date="2017-05-13T17:39:40+00:00">
+<div class="post" data-post-id="38247" data-author="Teron" data-date="2017-05-13T17:39:40+00:00" data-subject="Global bonuses and astrology quests">
 
 Since global bonuses are a difference between an area being good or bad exp for a group, it'd help to have quests to enable group bonuses (groupexp, exp bonus, regen).
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29642" data-author="*Splork*" data-date="2009-07-01T14:21:23+00:00">
+<div class="post" data-post-id="29642" data-author="*Splork*" data-date="2009-07-01T14:21:23+00:00" data-subject="More great changes">
 
 1) New special day, pop rates cut by 20%(does not work in combination with seven luck)
 

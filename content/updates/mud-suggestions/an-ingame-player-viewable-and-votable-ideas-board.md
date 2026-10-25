@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36038" data-author="Dragoth" data-date="2015-08-16T15:39:50+00:00">
+<div class="post" data-post-id="36038" data-author="Dragoth" data-date="2015-08-16T15:39:50+00:00" data-subject="An ingame, player viewable and votable ideas board.">
 
 We have these boards with note dispensers, why not turn them into something useful ?
 
@@ -22,7 +22,7 @@ This would introduce a democratic aspect to our gamechanging additions and reduc
 
 </div>
 
-<div class="post" data-post-id="36039" data-author="cyprimus" data-date="2015-08-16T16:03:23+00:00">
+<div class="post" data-post-id="36039" data-author="cyprimus" data-date="2015-08-16T16:03:23+00:00" data-subject="Re: An ingame, player viewable and votable ideas board.">
 
 I think its would be great for everyone too at least see the idea.. 
 
@@ -38,7 +38,7 @@ not sure how you would deal with 10+ alt individuals though..
 
 </div>
 
-<div class="post" data-post-id="36041" data-author="Dragoth" data-date="2015-08-16T16:24:17+00:00">
+<div class="post" data-post-id="36041" data-author="Dragoth" data-date="2015-08-16T16:24:17+00:00" data-subject="Re: An ingame, player viewable and votable ideas board.">
 
 Thanks for the feedback Cyp.
 
@@ -56,7 +56,7 @@ I would also suggest anonymous postings, so there is no prejudice.
 
 </div>
 
-<div class="post" data-post-id="36340" data-author="Teron" data-date="2015-12-22T07:11:22+00:00">
+<div class="post" data-post-id="36340" data-author="Teron" data-date="2015-12-22T07:11:22+00:00" data-subject="Re: An ingame, player viewable and votable ideas board.">
 
 You know, I've had the same idea recently: we need to collect input from the players ingame and see the status of our ideas/suggestions.
 

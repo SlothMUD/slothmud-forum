@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="22282" data-author="Firon" data-date="2008-01-25T04:31:31+00:00">
+<div class="post" data-post-id="22282" data-author="Firon" data-date="2008-01-25T04:31:31+00:00" data-subject="DNS error">
 
 Hi,
 
@@ -30,7 +30,7 @@ Leif
 
 </div>
 
-<div class="post" data-post-id="22283" data-author="Weasel" data-date="2008-01-25T05:30:54+00:00">
+<div class="post" data-post-id="22283" data-author="Weasel" data-date="2008-01-25T05:30:54+00:00" data-subject="">
 
 Yup was about to post the same. 
 
@@ -42,7 +42,7 @@ Fix up yer DNS info yo.
 
 </div>
 
-<div class="post" data-post-id="22284" data-author="Akasha" data-date="2008-01-25T07:44:31+00:00">
+<div class="post" data-post-id="22284" data-author="Akasha" data-date="2008-01-25T07:44:31+00:00" data-subject="">
 
 i dont have that problem, tried it, goes here.
 
@@ -50,7 +50,7 @@ aka
 
 </div>
 
-<div class="post" data-post-id="22285" data-author="jezer" data-date="2008-01-25T08:00:54+00:00">
+<div class="post" data-post-id="22285" data-author="jezer" data-date="2008-01-25T08:00:54+00:00" data-subject="">
 
 Speaking of DNS issues... every time I go to the coliseum it's not there either! I think it's a DNS issue! :evil:
 
@@ -58,7 +58,7 @@ I have 81 Drachma King Degrance can have towards the running costs of the colise
 
 </div>
 
-<div class="post" data-post-id="22287" data-author="Weasel" data-date="2008-01-25T12:47:19+00:00">
+<div class="post" data-post-id="22287" data-author="Weasel" data-date="2008-01-25T12:47:19+00:00" data-subject="">
 
 i dont have that problem, tried it, goes here.
 

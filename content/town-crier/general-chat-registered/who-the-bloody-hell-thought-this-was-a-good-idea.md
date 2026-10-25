@@ -10,7 +10,7 @@ locked: false
 post_count: 28
 ---
 
-<div class="post" data-post-id="30003" data-author="Thraxas" data-date="2009-09-17T22:30:58+00:00">
+<div class="post" data-post-id="30003" data-author="Thraxas" data-date="2009-09-17T22:30:58+00:00" data-subject="who the bloody hell thought this was a good idea">
 
 <rant>
 
@@ -36,7 +36,7 @@ The name "Sloth" was chosen to embody the original philosophy of the mud, which 
 
 </div>
 
-<div class="post" data-post-id="30004" data-author="jezer" data-date="2009-09-17T23:20:28+00:00">
+<div class="post" data-post-id="30004" data-author="jezer" data-date="2009-09-17T23:20:28+00:00" data-subject="">
 
 I agree. When instant chat programs, phone numbers, mobile phones, SMS/Texting, Email and even the crier its self can work to communicate someones death outside of the game... whats the point in trying to restrict it in game?
 
@@ -46,7 +46,7 @@ If modern day people can sense spirits... imagine how much better the power of s
 
 </div>
 
-<div class="post" data-post-id="30006" data-author="Thraxas" data-date="2009-09-18T13:38:41+00:00">
+<div class="post" data-post-id="30006" data-author="Thraxas" data-date="2009-09-18T13:38:41+00:00" data-subject="Re: who the bloody hell thought this was a good idea">
 
 As an alternative to icq perhaps we should all log into an alternate mud as well as sloth ... and use that purely for channel talking .... if we chose a mud with very few players (bottom of the TMC list thing) then conversation would be unlikely to disturb their players ... then comms could be within a separate window in the same client ... hmmm gives me another idea ... lets have a sloth outing to another mud holiday style ... actually that could even be a quest idea that requires little work from imms ... pick a mud at random, all log on, the player who can find the most coins and pass to an imm at the end of an hour gets a reward in sloth.
 
@@ -58,7 +58,7 @@ The name "Sloth" was chosen to embody the original philosophy of the mud, which 
 
 </div>
 
-<div class="post" data-post-id="30010" data-author="Rynquald" data-date="2009-09-19T01:00:06+00:00">
+<div class="post" data-post-id="30010" data-author="Rynquald" data-date="2009-09-19T01:00:06+00:00" data-subject="">
 
 Back in the day there used to be plenty of people using ICQ while playing Sloth, but that does seem to have gone out of fashion in the last year or two.
 
@@ -68,7 +68,7 @@ Also, I realise not everyone uses Wintin or ZMud, but they both have a built-in 
 
 </div>
 
-<div class="post" data-post-id="30014" data-author="*juggleblood*" data-date="2009-09-21T02:24:50+00:00">
+<div class="post" data-post-id="30014" data-author="*juggleblood*" data-date="2009-09-21T02:24:50+00:00" data-subject="">
 
 My suggestion is to give certain pets the ability to gossip that you're dead. Perhaps the brownie. This would come at the expense of using a better supp, but would be worth it when you're doing dangerous solo work.
 
@@ -76,7 +76,7 @@ it wasn't my idea to fix the channel bump glitch btw...but it was a glitch...it'
 
 </div>
 
-<div class="post" data-post-id="30016" data-author="Thraxas" data-date="2009-09-21T13:02:03+00:00">
+<div class="post" data-post-id="30016" data-author="Thraxas" data-date="2009-09-21T13:02:03+00:00" data-subject="">
 
 Yes a brownie or other pet would work, nice idea btw.
 
@@ -94,13 +94,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="30019" data-author="Jag" data-date="2009-09-21T21:06:31+00:00">
+<div class="post" data-post-id="30019" data-author="Jag" data-date="2009-09-21T21:06:31+00:00" data-subject="">
 
 Excellent idea Thraxis
 
 </div>
 
-<div class="post" data-post-id="30024" data-author="Toxis" data-date="2009-09-23T07:49:29+00:00">
+<div class="post" data-post-id="30024" data-author="Toxis" data-date="2009-09-23T07:49:29+00:00" data-subject="">
 
 Thraxas has a great point.  People joined channels for chat/safety.  Chat promoted friendship and unity and instead of people dropping link to tell people they die, just let it be said in channels from now on.  I think it would promote more people to join together, to talk, to interract.  Why should we be forced to use programs like ICQ and other programs?  I think we need to keep it more "in-house" and not rely on other programs (like the phone, the webpage, and other programs).
 
@@ -110,7 +110,7 @@ Brad
 
 </div>
 
-<div class="post" data-post-id="30028" data-author="Vixn" data-date="2009-09-23T17:07:46+00:00">
+<div class="post" data-post-id="30028" data-author="Vixn" data-date="2009-09-23T17:07:46+00:00" data-subject="">
 
 I personally enjoyed the previous issue when you had to suffer all these Russian transliterations in exchange for small chance to get raised. Well now it's gone and frankly speaking I'm almost sure it was a racist anti-Russian decision.
 
@@ -126,13 +126,13 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="30030" data-author="Ezekiel" data-date="2009-09-23T20:48:34+00:00">
+<div class="post" data-post-id="30030" data-author="Ezekiel" data-date="2009-09-23T20:48:34+00:00" data-subject="">
 
 I agree with Thraxas' second post, and Brad's follow up as well. There is no point in not allowing us to speak to each other on channels when dead. We, of course, can communicate through some other fashion like ICQ, but from how I see it,  having more people on channels more often leads to communication about more than just death...which is why the channels were integrated in the first place.
 
 </div>
 
-<div class="post" data-post-id="30031" data-author="jezer" data-date="2009-09-24T00:06:33+00:00">
+<div class="post" data-post-id="30031" data-author="jezer" data-date="2009-09-24T00:06:33+00:00" data-subject="">
 
 I agree with...
 
@@ -148,7 +148,7 @@ I agree with...
 
 </div>
 
-<div class="post" data-post-id="30032" data-author="*juggleblood*" data-date="2009-09-24T04:10:07+00:00">
+<div class="post" data-post-id="30032" data-author="*juggleblood*" data-date="2009-09-24T04:10:07+00:00" data-subject="">
 
 I personally enjoyed the previous issue when you had to suffer all these Russian transliterations in exchange for small chance to get raised. Well now it's gone and frankly speaking I'm almost sure it was a racist anti-Russian decision.
 
@@ -164,7 +164,7 @@ I'll keep you posted.
 
 </div>
 
-<div class="post" data-post-id="30033" data-author="Thraxas" data-date="2009-09-24T14:07:43+00:00">
+<div class="post" data-post-id="30033" data-author="Thraxas" data-date="2009-09-24T14:07:43+00:00" data-subject="">
 
 I agree with...[/quote:26w4xjte]
 
@@ -176,7 +176,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30034" data-author="*Splork*" data-date="2009-09-24T15:04:19+00:00">
+<div class="post" data-post-id="30034" data-author="*Splork*" data-date="2009-09-24T15:04:19+00:00" data-subject="">
 
 We are listening to the suggestions, however I do not anticipate us having channels open to dead people, I'm sorry.
 
@@ -194,7 +194,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30035" data-author="*Splork*" data-date="2009-09-24T19:18:42+00:00">
+<div class="post" data-post-id="30035" data-author="*Splork*" data-date="2009-09-24T19:18:42+00:00" data-subject="">
 
 Corpus Severance will be level 13 necro and 38 cleric on reboot, same as S3, also the percentages of it working have been increased.
 
@@ -204,7 +204,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30037" data-author="Thraxas" data-date="2009-09-24T21:53:59+00:00">
+<div class="post" data-post-id="30037" data-author="Thraxas" data-date="2009-09-24T21:53:59+00:00" data-subject="">
 
 ct -- Im dead at the spectral guardian
 
@@ -222,7 +222,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30040" data-author="*Splork*" data-date="2009-09-24T22:55:50+00:00">
+<div class="post" data-post-id="30040" data-author="*Splork*" data-date="2009-09-24T22:55:50+00:00" data-subject="">
 
 The code is quite confusing so if it isnt working people will have to tell me.
 
@@ -232,7 +232,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30043" data-author="Clink" data-date="2009-09-25T13:01:54+00:00">
+<div class="post" data-post-id="30043" data-author="Clink" data-date="2009-09-25T13:01:54+00:00" data-subject="">
 
 ...Encourage us all to work and socialise... 
 
@@ -260,7 +260,7 @@ So, as obvious as it is to do this, it is actual socialization on channels that 
 
 </div>
 
-<div class="post" data-post-id="30044" data-author="Vixn" data-date="2009-09-25T16:27:10+00:00">
+<div class="post" data-post-id="30044" data-author="Vixn" data-date="2009-09-25T16:27:10+00:00" data-subject="">
 
 I'm glad how we managed to drag imms into discussion. And I'm sure it will be helpful for the mud we all love so much.
 
@@ -270,7 +270,7 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="30045" data-author="Thraxas" data-date="2009-09-25T16:29:46+00:00">
+<div class="post" data-post-id="30045" data-author="Thraxas" data-date="2009-09-25T16:29:46+00:00" data-subject="">
 
 ...Encourage us all to work and socialise... 
 
@@ -294,7 +294,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30046" data-author="*Splork*" data-date="2009-09-25T17:08:09+00:00">
+<div class="post" data-post-id="30046" data-author="*Splork*" data-date="2009-09-25T17:08:09+00:00" data-subject="">
 
 Actually, I disagree wholeheartedly that channel usage is way down because the drop channel bug was removed.  There are several reasons for this and one of them includes the removal of it.
 
@@ -306,7 +306,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30063" data-author="reboog" data-date="2009-09-30T08:31:49+00:00">
+<div class="post" data-post-id="30063" data-author="reboog" data-date="2009-09-30T08:31:49+00:00" data-subject="">
 
 I find the main problem with channels is that people talk too much.
 
@@ -314,19 +314,19 @@ No talking allowed.
 
 </div>
 
-<div class="post" data-post-id="30075" data-author="Toxis" data-date="2009-10-01T07:29:02+00:00">
+<div class="post" data-post-id="30075" data-author="Toxis" data-date="2009-10-01T07:29:02+00:00" data-subject="">
 
 SILENCE!!!! I KEEL U!
 
 </div>
 
-<div class="post" data-post-id="30076" data-author="Shadis" data-date="2009-10-01T20:40:01+00:00">
+<div class="post" data-post-id="30076" data-author="Shadis" data-date="2009-10-01T20:40:01+00:00" data-subject="">
 
 See, Brad is scaring away all the newbies
 
 </div>
 
-<div class="post" data-post-id="30081" data-author="*Splork*" data-date="2009-10-04T03:25:26+00:00">
+<div class="post" data-post-id="30081" data-author="*Splork*" data-date="2009-10-04T03:25:26+00:00" data-subject="Channel &quot;feature&quot; back!">
 
 While many of us agree with Clink's reply, the simple fact is the channels have never worked this way and we are pretty sure they never will. 
 
@@ -346,7 +346,7 @@ Please thank Krom when you see him for continually pressing me on this one:)
 
 </div>
 
-<div class="post" data-post-id="30082" data-author="jezer" data-date="2009-10-04T04:50:07+00:00">
+<div class="post" data-post-id="30082" data-author="jezer" data-date="2009-10-04T04:50:07+00:00" data-subject="">
 
 I don't call listening to reason, and going against one's own personal beliefs in the interest of others soft, Clink. I'd call it strength.
 
@@ -354,7 +354,7 @@ I found it really tough when I started on the hosers channel, and I NEVER felt t
 
 </div>
 
-<div class="post" data-post-id="30083" data-author="Thraxas" data-date="2009-10-04T09:22:50+00:00">
+<div class="post" data-post-id="30083" data-author="Thraxas" data-date="2009-10-04T09:22:50+00:00" data-subject="">
 
 Thank you.
 
@@ -362,7 +362,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30084" data-author="Stab" data-date="2009-10-04T14:48:04+00:00">
+<div class="post" data-post-id="30084" data-author="Stab" data-date="2009-10-04T14:48:04+00:00" data-subject="">
 
 That's great,  I sense an aura of surrender. somewhere. Channels are an excellent enhancement. Um.. The altruistic value of one mudder helping another. Thanks for the great improvements, channels back sets it apart. Especially for those who only spend a few hours a day, die and lose two days solo xp.! whiff
 

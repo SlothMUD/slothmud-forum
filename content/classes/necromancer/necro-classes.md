@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="311" data-author="nomis" data-date="2004-05-25T01:26:23+00:00">
+<div class="post" data-post-id="311" data-author="nomis" data-date="2004-05-25T01:26:23+00:00" data-subject="Necro Classes">
 
 When the new classes started, I was very interested to know that there is a necro class, hence started Nomis. However, after playing some time (approaching 26 days Mudding time), its obvious that necros suck as a prime level, and especially without cleric or druid classes. 
 
@@ -26,7 +26,7 @@ Well, hope to get that 3X40 soon. See ya all and happy mudding
 
 </div>
 
-<div class="post" data-post-id="318" data-author="Avatar" data-date="2004-05-25T12:53:38+00:00">
+<div class="post" data-post-id="318" data-author="Avatar" data-date="2004-05-25T12:53:38+00:00" data-subject="Necros">
 
 What are your other classes?  The choice of 2nd and 3rd can dramatically affect soloing.  Especially with HPs and how easy / hard it is to get AC.
 
@@ -36,7 +36,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="322" data-author="*Splork*" data-date="2004-05-25T16:06:53+00:00">
+<div class="post" data-post-id="322" data-author="*Splork*" data-date="2004-05-25T16:06:53+00:00" data-subject="Necro class">
 
 **I will adjust the time limit on the potions tonight and see if we can find a happy medium.
 
@@ -50,19 +50,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="324" data-author="Kambal" data-date="2004-05-25T17:11:54+00:00">
+<div class="post" data-post-id="324" data-author="Kambal" data-date="2004-05-25T17:11:54+00:00" data-subject="">
 
 Nomis, I'd like to ask what ac you have? Wonder, have you noticed ac-wraithform relation? Guess it shouldn' t be so, but you never know.  :roll:
 
 </div>
 
-<div class="post" data-post-id="327" data-author="Avatar" data-date="2004-05-25T18:46:59+00:00">
+<div class="post" data-post-id="327" data-author="Avatar" data-date="2004-05-25T18:46:59+00:00" data-subject="AC">
 
 I've had pretty good luck with wraithform at -2 AC, so I'm not really convinced there is a correlation.  The only downfall there is the duration, but my little caster isn't at the level yet where he can take the intense fast hard hitting mobs - which would be ideal for wraithform.
 
 </div>
 
-<div class="post" data-post-id="387" data-author="nomis" data-date="2004-05-28T08:20:42+00:00">
+<div class="post" data-post-id="387" data-author="nomis" data-date="2004-05-28T08:20:42+00:00" data-subject="">
 
 I've been running at -6 and -7, dont see any difference. This would be another thing to look at to improve the necro class abit. 
 
@@ -78,7 +78,7 @@ Thanks all.
 
 </div>
 
-<div class="post" data-post-id="653" data-author="Vekna" data-date="2004-06-12T08:48:43+00:00">
+<div class="post" data-post-id="653" data-author="Vekna" data-date="2004-06-12T08:48:43+00:00" data-subject="">
 
 ju ju zombie, 2x wight with control undead, 4x vampires
 
@@ -92,7 +92,7 @@ mabbe ne\cl\dr\ma is cool... but with it classo possible make -10 ac only at ava
 
 </div>
 
-<div class="post" data-post-id="9801" data-author="Paradave" data-date="2005-12-15T10:13:53+00:00">
+<div class="post" data-post-id="9801" data-author="Paradave" data-date="2005-12-15T10:13:53+00:00" data-subject="complications">
 
 I have only been here a few days, and don't have my necro up high yet, but this is a very similar spell/heal/soul trap setup as I used to play with on 3Kingdoms in the early 90's and it was a lot of fun then simply because it was so complex and required some real thought and timing, and 3K didn't have additional classes to be, you were a Necro and that's it.
 
@@ -100,7 +100,7 @@ I don't mean to sound rude about it, but I see this on every forum I read these 
 
 </div>
 
-<div class="post" data-post-id="9802" data-author="Gnu" data-date="2005-12-15T12:51:26+00:00">
+<div class="post" data-post-id="9802" data-author="Gnu" data-date="2005-12-15T12:51:26+00:00" data-subject="Re: AC">
 
 I've had pretty good luck with wraithform at -2 AC, so I'm not really convinced there is a correlation.  The only downfall there is the duration, but my little caster isn't at the level yet where he can take the intense fast hard hitting mobs - which would be ideal for wraithform.[/quote:2i42gg3d]
 
@@ -116,7 +116,7 @@ I may be wrong, but that's what I have seen when used that spell...
 
 </div>
 
-<div class="post" data-post-id="9826" data-author="Aleksey" data-date="2005-12-16T07:48:26+00:00">
+<div class="post" data-post-id="9826" data-author="Aleksey" data-date="2005-12-16T07:48:26+00:00" data-subject="">
 
 Whan newb was small about 1x40 tested wraithform work with ac combo  in Rlieh castle on spectral-guards and gugs(was 32 level mobs that time)
 

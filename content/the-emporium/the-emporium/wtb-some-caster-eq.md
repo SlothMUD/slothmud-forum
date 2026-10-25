@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3991" data-author="bintang" data-date="2005-01-27T19:23:43+00:00">
+<div class="post" data-post-id="3991" data-author="bintang" data-date="2005-01-27T19:23:43+00:00" data-subject="WTB: Some Caster  EQ">
 
 Hi Folks,
 

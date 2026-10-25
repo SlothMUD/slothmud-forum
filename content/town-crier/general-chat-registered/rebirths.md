@@ -10,7 +10,7 @@ locked: false
 post_count: 113
 ---
 
-<div class="post" data-post-id="37509" data-author="Gorka" data-date="2016-11-20T05:24:35+00:00">
+<div class="post" data-post-id="37509" data-author="Gorka" data-date="2016-11-20T05:24:35+00:00" data-subject="Rebirths">
 
 Some of us were asking Josiah about his "rebirth" today over gossip. I like the idea of coming back in a new and improved form to replay the game again.
 
@@ -22,13 +22,13 @@ Anyone else got ideas? Nice to see a whole new path for avatars.
 
 </div>
 
-<div class="post" data-post-id="37510" data-author="Gorka" data-date="2016-11-20T07:24:35+00:00">
+<div class="post" data-post-id="37510" data-author="Gorka" data-date="2016-11-20T07:24:35+00:00" data-subject="Re: Rebirths">
 
 Any chance rebirths could wear 6 pieces of 3x40 eq?
 
 </div>
 
-<div class="post" data-post-id="37511" data-author="Teron" data-date="2016-11-20T08:33:21+00:00">
+<div class="post" data-post-id="37511" data-author="Teron" data-date="2016-11-20T08:33:21+00:00" data-subject="Re: Rebirths">
 
 In my opinion, avatars need 5x40-9x40 raid content, similar to epics, but more challenging (not necessarily in damage, but in fight tactics) that they can look forward to and stay active. Similar to the raid content that WoW regularly delivers.
 
@@ -40,13 +40,13 @@ However, I agree that rebirthing is appealing and I'm already considering it for
 
 </div>
 
-<div class="post" data-post-id="37512" data-author="Vegetable" data-date="2016-11-20T11:31:26+00:00">
+<div class="post" data-post-id="37512" data-author="Vegetable" data-date="2016-11-20T11:31:26+00:00" data-subject="Re: Rebirths">
 
 I think this is a great feature. Allow Max avvie to "reborn" could bring them back to the game. It should make reborn char much stronger as well to encourage reborn (better damage/hp/mana/regen/etc). Perhaps implement some "reborn" restricted eq and open up some reborn difficulty area for (xp/quest/forge/drachma gear/gems/etc) as we progress. This can help easing the traffic in some xp area currently camped out by high avatar (i.e most of non group lyme area).
 
 </div>
 
-<div class="post" data-post-id="37513" data-author="Teron" data-date="2016-11-20T11:59:46+00:00">
+<div class="post" data-post-id="37513" data-author="Teron" data-date="2016-11-20T11:59:46+00:00" data-subject="Re: Rebirths">
 
 Vege, only a small percentage of players will rebirth, so the area needs to be open to regular 6x40+.
 
@@ -56,7 +56,7 @@ Unfortunately, how hard mobs can be is limited by the 10mil cap of avatars. If o
 
 </div>
 
-<div class="post" data-post-id="37514" data-author="*Breeze*" data-date="2016-11-20T21:57:38+00:00">
+<div class="post" data-post-id="37514" data-author="*Breeze*" data-date="2016-11-20T21:57:38+00:00" data-subject="Re: Rebirths">
 
 i am not even sure yet how rebirth will even work yet..
 
@@ -70,25 +70,25 @@ will do a helpfile or something later for it.
 
 </div>
 
-<div class="post" data-post-id="37515" data-author="Vegetable" data-date="2016-11-20T22:09:28+00:00">
+<div class="post" data-post-id="37515" data-author="Vegetable" data-date="2016-11-20T22:09:28+00:00" data-subject="Re: Rebirths">
 
 Good point Taron. However, if the rebirth option is attractive enough (substantially stronger as they progress/higher cap) we should see more people doing rebirth. Also, with a new progression path, we can probably tweak to allow players to level faster (maybe from 5.40 - 9.40 range) as I see people usually slow down or stop playing around that range. But this sounds like a "new expansion" to the game. Not sure if sloth has the manpower to implement this anytime soon.
 
 </div>
 
-<div class="post" data-post-id="37516" data-author="*juggleblood*" data-date="2016-11-20T23:59:56+00:00">
+<div class="post" data-post-id="37516" data-author="*juggleblood*" data-date="2016-11-20T23:59:56+00:00" data-subject="Re: Rebirths">
 
 Taron should immort and be in charge of all the raid mobs.
 
 </div>
 
-<div class="post" data-post-id="37517" data-author="Vegetable" data-date="2016-11-21T00:33:22+00:00">
+<div class="post" data-post-id="37517" data-author="Vegetable" data-date="2016-11-21T00:33:22+00:00" data-subject="Re: Rebirths">
 
 Agreed. GET TO WORK Taron !
 
 </div>
 
-<div class="post" data-post-id="37518" data-author="Filk" data-date="2016-11-21T07:50:55+00:00">
+<div class="post" data-post-id="37518" data-author="Filk" data-date="2016-11-21T07:50:55+00:00" data-subject="Re: Rebirths">
 
 I dont see any power advantages in that rebirth, except extra drachma from quests. And since its posible to get everything you want from quest shop in single 9x40 route (like Josiah did for example), so no point in that. In terms of power for sure.
 
@@ -98,7 +98,7 @@ Personally for my, i dont mind remorting Fluffy only if there will be real power
 
 </div>
 
-<div class="post" data-post-id="37519" data-author="Gorka" data-date="2016-11-21T09:28:12+00:00">
+<div class="post" data-post-id="37519" data-author="Gorka" data-date="2016-11-21T09:28:12+00:00" data-subject="Re: Rebirths">
 
 Josiah kept his stats as well, but didn't keep his shop bought bonuses.
 
@@ -110,7 +110,7 @@ There are so many cool places to take this idea, but it's like it's not really o
 
 </div>
 
-<div class="post" data-post-id="37520" data-author="*Breeze*" data-date="2016-11-21T09:48:44+00:00">
+<div class="post" data-post-id="37520" data-author="*Breeze*" data-date="2016-11-21T09:48:44+00:00" data-subject="Re: Rebirths">
 
 josiah kept what he kept simply because thats what i decided to leave him with.
 
@@ -128,13 +128,13 @@ worth it or not is no one's concern except for josiah.  he is the one who asked 
 
 </div>
 
-<div class="post" data-post-id="37521" data-author="Gorka" data-date="2016-11-21T10:02:53+00:00">
+<div class="post" data-post-id="37521" data-author="Gorka" data-date="2016-11-21T10:02:53+00:00" data-subject="Re: Rebirths">
 
 You puzzle me Breeze, you almost created life after avatar and doubled the length of the game, and now your kinda like ho hum, whatever, I should be more evil, it's not going anywhere.
 
 </div>
 
-<div class="post" data-post-id="37522" data-author="*Breeze*" data-date="2016-11-21T10:07:32+00:00">
+<div class="post" data-post-id="37522" data-author="*Breeze*" data-date="2016-11-21T10:07:32+00:00" data-subject="Re: Rebirths">
 
 is anyone else willing to give up what he did?
 
@@ -142,7 +142,7 @@ all I am saying is it was unplanned and he is only one affected by it
 
 </div>
 
-<div class="post" data-post-id="37523" data-author="Gorka" data-date="2016-11-21T10:16:05+00:00">
+<div class="post" data-post-id="37523" data-author="Gorka" data-date="2016-11-21T10:16:05+00:00" data-subject="Re: Rebirths">
 
 > ***Breeze* wrote:**
 > is anyone else willing to give up what he did?
@@ -155,13 +155,13 @@ I don't see many new players sticking with Sloth, but I am always seeing old pla
 
 </div>
 
-<div class="post" data-post-id="37524" data-author="*Breeze*" data-date="2016-11-21T10:29:07+00:00">
+<div class="post" data-post-id="37524" data-author="*Breeze*" data-date="2016-11-21T10:29:07+00:00" data-subject="Re: Rebirths">
 
 hmmmmmm...
 
 </div>
 
-<div class="post" data-post-id="37525" data-author="Filk" data-date="2016-11-21T12:31:49+00:00">
+<div class="post" data-post-id="37525" data-author="Filk" data-date="2016-11-21T12:31:49+00:00" data-subject="Re: Rebirths">
 
 I really think that idea worth to be discussed and implemented in some way. 
 
@@ -175,7 +175,7 @@ Be honest, now we are stagnating. That will bring some interesting side to our g
 
 </div>
 
-<div class="post" data-post-id="37526" data-author="*Breeze*" data-date="2016-11-21T12:39:49+00:00">
+<div class="post" data-post-id="37526" data-author="*Breeze*" data-date="2016-11-21T12:39:49+00:00" data-subject="Re: Rebirths">
 
 talk among selves and come up with a full/realistic idea and i will discuss it with rick and the others
 
@@ -183,7 +183,7 @@ keyword: realistic
 
 </div>
 
-<div class="post" data-post-id="37527" data-author="cyprimus" data-date="2016-11-21T16:07:00+00:00">
+<div class="post" data-post-id="37527" data-author="cyprimus" data-date="2016-11-21T16:07:00+00:00" data-subject="Re: Rebirths">
 
 Seems perfect for me too.  Do not see me redoing cy, but paka definately, ip likely.
 
@@ -207,7 +207,7 @@ Avvie light... same...
 
 </div>
 
-<div class="post" data-post-id="37528" data-author="Teron" data-date="2016-11-21T19:40:57+00:00">
+<div class="post" data-post-id="37528" data-author="Teron" data-date="2016-11-21T19:40:57+00:00" data-subject="Re: Rebirths">
 
 **Breeze**, it does add a bit of room for thought, because it's not just doing another char, with all the sbs and eq, which require cycling, and also allows one to build a 2nd or 3d set of drachma eq (ie, not just ac, but hd or spell damage).
 
@@ -225,7 +225,7 @@ Anyway, I too agree that there could be something that'd accumulate over rebirth
 
 </div>
 
-<div class="post" data-post-id="37529" data-author="Gorka" data-date="2016-11-21T22:49:49+00:00">
+<div class="post" data-post-id="37529" data-author="Gorka" data-date="2016-11-21T22:49:49+00:00" data-subject="Re: Rebirths">
 
 It appears the idea of "Rebirths" really got tongues wagging. It's also been discussed a lot in the telegram channel and people are really interested. It's also been unanimously (?) supported that the base of the idea should be what happened to Josiah. However some people believe it needs to go just a little further by allowing the transportation of "something" from the avatar shop before being reborn.
 
@@ -247,7 +247,7 @@ etc
 
 </div>
 
-<div class="post" data-post-id="37530" data-author="Josiah" data-date="2016-11-22T01:20:20+00:00">
+<div class="post" data-post-id="37530" data-author="Josiah" data-date="2016-11-22T01:20:20+00:00" data-subject="Re: Rebirths">
 
 I made out like a bandit; I'd be the first to admit.  All I asked for was to be deleted without losing my personal eq.
 
@@ -263,7 +263,7 @@ If there is a reasonable demand for increased endgame power via Reborn, I'd reco
 
 </div>
 
-<div class="post" data-post-id="37531" data-author="Josiah" data-date="2016-11-22T01:29:17+00:00">
+<div class="post" data-post-id="37531" data-author="Josiah" data-date="2016-11-22T01:29:17+00:00" data-subject="Re: Rebirths">
 
 Unrelated, but since we're talking about new stuff... I've always liked the idea of grabbing a prime skill or spell from another class.
 
@@ -271,13 +271,13 @@ Shield of Thorns, Second Wind, Frostbolt, Deathtouch, Apply Poison, Adaptation t
 
 </div>
 
-<div class="post" data-post-id="37532" data-author="Teron" data-date="2016-11-22T07:00:38+00:00">
+<div class="post" data-post-id="37532" data-author="Teron" data-date="2016-11-22T07:00:38+00:00" data-subject="Re: Rebirths">
 
 Josiah, you forgot the prime skill that I'd grab first: wraithform. Though the shield of thorns is a strong contender.
 
 </div>
 
-<div class="post" data-post-id="37541" data-author="Filk" data-date="2016-11-25T06:20:14+00:00">
+<div class="post" data-post-id="37541" data-author="Filk" data-date="2016-11-25T06:20:14+00:00" data-subject="Re: Rebirths">
 
 I was long thinking about that question. Thats my thoughts about how it could be done.
 
@@ -325,7 +325,7 @@ Discuss
 
 </div>
 
-<div class="post" data-post-id="37542" data-author="Gorka" data-date="2016-11-25T06:52:42+00:00">
+<div class="post" data-post-id="37542" data-author="Gorka" data-date="2016-11-25T06:52:42+00:00" data-subject="Re: Rebirths">
 
 > **Filk wrote:**
 > Though i have feeling, that will kill avatar shop, because ppl will not play at 9x40 for long :)
@@ -340,7 +340,7 @@ Double drachma will also increase the calls to do something about the state of d
 
 </div>
 
-<div class="post" data-post-id="37544" data-author="Teron" data-date="2016-11-25T07:24:06+00:00">
+<div class="post" data-post-id="37544" data-author="Teron" data-date="2016-11-25T07:24:06+00:00" data-subject="Re: Rebirths">
 
 1. Since avatars can buy stats once, and keep them, there's no point in giving 5 stat points every remort.
 
@@ -364,7 +364,7 @@ Raising caps by 10 spellbonus/healbonus/stab/circle/1 dam reduction/-2 all saves
 
 </div>
 
-<div class="post" data-post-id="37545" data-author="Filk" data-date="2016-11-25T07:56:58+00:00">
+<div class="post" data-post-id="37545" data-author="Filk" data-date="2016-11-25T07:56:58+00:00" data-subject="Re: Rebirths">
 
 1. Just for the record. I dont offer to keep any avatar bonus shops. Because it gonna be too overpowered, if you continiously buying it. And too overpowered, if low level chars keeps it. So all avatar shop bonuses are cleaned. Including stats. Thats why i offer plain +1 to each stat on each reincarnation.
 
@@ -384,7 +384,7 @@ Hit could be raised also, yeah. Forgot about it. By 1 or 2 probably.
 
 </div>
 
-<div class="post" data-post-id="37546" data-author="Gorka" data-date="2016-11-25T08:31:59+00:00">
+<div class="post" data-post-id="37546" data-author="Gorka" data-date="2016-11-25T08:31:59+00:00" data-subject="Re: Rebirths">
 
 I don't think OP is an issue... essentially caps are meant to stop this happening... so why not keep the small offerings from the avatar shop each rebirth? Only going to hit the cap anyway.
 
@@ -394,7 +394,7 @@ It's fun to discuss ideas, but I feel some of the issues we have raised have com
 
 </div>
 
-<div class="post" data-post-id="37547" data-author="Filk" data-date="2016-11-25T08:47:22+00:00">
+<div class="post" data-post-id="37547" data-author="Filk" data-date="2016-11-25T08:47:22+00:00" data-subject="Re: Rebirths">
 
 After some thinking, i believe avatar shop and reincarnation perfectly fits each other. Some players able to choose to play at top, with all shop bonuses. OR. Could reincarnate, and become waaay more weaker in current time with potential to be little more powerful in future.
 
@@ -404,7 +404,7 @@ And about power - read again Breeze last message. If we want that thing to be do
 
 </div>
 
-<div class="post" data-post-id="37548" data-author="Gorka" data-date="2016-11-25T08:57:29+00:00">
+<div class="post" data-post-id="37548" data-author="Gorka" data-date="2016-11-25T08:57:29+00:00" data-subject="Re: Rebirths">
 
 3.reborn...
 
@@ -412,7 +412,7 @@ Should the number of rebirths be limited? Does it matter? What possible power in
 
 </div>
 
-<div class="post" data-post-id="37549" data-author="Filk" data-date="2016-11-25T09:15:56+00:00">
+<div class="post" data-post-id="37549" data-author="Filk" data-date="2016-11-25T09:15:56+00:00" data-subject="Re: Rebirths">
 
 Shrug. My idea for it to not be limited. So you can play for another 20 years for 20.reborns :)
 
@@ -420,7 +420,7 @@ I wrote example for 5.reborn in my offer post.
 
 </div>
 
-<div class="post" data-post-id="37550" data-author="Teron" data-date="2016-11-25T19:43:39+00:00">
+<div class="post" data-post-id="37550" data-author="Teron" data-date="2016-11-25T19:43:39+00:00" data-subject="Re: Rebirths">
 
 1. 
 
@@ -484,7 +484,7 @@ Simple.
 
 </div>
 
-<div class="post" data-post-id="37558" data-author="cyprimus" data-date="2016-11-27T04:06:18+00:00">
+<div class="post" data-post-id="37558" data-author="cyprimus" data-date="2016-11-27T04:06:18+00:00" data-subject="Re: Rebirths">
 
 For me the drachma is more than enough.. keeping stats good, 19 in all fine... do not care for more..
 
@@ -512,7 +512,7 @@ anyways. gl
 
 </div>
 
-<div class="post" data-post-id="37559" data-author="Teron" data-date="2016-11-27T06:36:37+00:00">
+<div class="post" data-post-id="37559" data-author="Teron" data-date="2016-11-27T06:36:37+00:00" data-subject="Re: Rebirths">
 
 I thought about unlocking bought effects/spells at the next 9x40, but it'd be unfair to Josiah and I don't know how to do this retrospectively for him.
 
@@ -526,7 +526,7 @@ How op is it? I don't know. It doesn't increase anything by itself, but the rebi
 
 </div>
 
-<div class="post" data-post-id="37575" data-author="Filk" data-date="2016-11-28T11:27:51+00:00">
+<div class="post" data-post-id="37575" data-author="Filk" data-date="2016-11-28T11:27:51+00:00" data-subject="Re: Rebirths">
 
 > **Teron wrote:**
 > 1.
@@ -631,7 +631,7 @@ I guess i think that 50 bonus stats is just to high for five remorts. So we coul
 
 </div>
 
-<div class="post" data-post-id="37580" data-author="Teron" data-date="2016-11-28T15:01:43+00:00">
+<div class="post" data-post-id="37580" data-author="Teron" data-date="2016-11-28T15:01:43+00:00" data-subject="Re: Rebirths">
 
 Explain to me, why you think that +50 bonus is too high for 5 remorts.
 
@@ -643,7 +643,7 @@ And here you say that getting the same bonus for leveling from 1 to 9x40 5 times
 
 </div>
 
-<div class="post" data-post-id="37581" data-author="Filk" data-date="2016-11-28T15:14:38+00:00">
+<div class="post" data-post-id="37581" data-author="Filk" data-date="2016-11-28T15:14:38+00:00" data-subject="Re: Rebirths">
 
 Because you get 50 extra. Over the shop. And after it, you get 100 extra. And then 500 extra. And so on.
 
@@ -659,7 +659,7 @@ Well. I would like to get such power and so on, but:
 
 </div>
 
-<div class="post" data-post-id="37582" data-author="Zlodiak" data-date="2016-11-28T15:23:44+00:00">
+<div class="post" data-post-id="37582" data-author="Zlodiak" data-date="2016-11-28T15:23:44+00:00" data-subject="Re: Rebirths">
 
 What about making chars 10x40, where 10th class is remort?
 
@@ -677,7 +677,7 @@ So, it may be profitably to buy these upgrades even just for future (after remor
 
 </div>
 
-<div class="post" data-post-id="37583" data-author="Filk" data-date="2016-11-28T16:19:51+00:00">
+<div class="post" data-post-id="37583" data-author="Filk" data-date="2016-11-28T16:19:51+00:00" data-subject="Re: Rebirths">
 
 I guess making x10 class will be too huge change to the game. No one will do it probably untill another global restart, which is doubtfully coming :)
 
@@ -685,7 +685,7 @@ You are not forced to make purchaces at avatar shop. Its your will, if you going
 
 </div>
 
-<div class="post" data-post-id="37586" data-author="Teron" data-date="2016-11-29T09:49:48+00:00">
+<div class="post" data-post-id="37586" data-author="Teron" data-date="2016-11-29T09:49:48+00:00" data-subject="Re: Rebirths">
 
 > **Filk wrote:**
 > Because you get 50 extra. Over the shop. And after it, you get 100 extra. And then 500 extra. And so on.
@@ -708,7 +708,7 @@ Either with the cap variant, or basic skill bonuses, the amount of rebirths is l
 
 </div>
 
-<div class="post" data-post-id="37587" data-author="Filk" data-date="2016-11-29T10:59:41+00:00">
+<div class="post" data-post-id="37587" data-author="Filk" data-date="2016-11-29T10:59:41+00:00" data-subject="Re: Rebirths">
 
 Well. From any of those ways, there are troubles. Or you get too much in long way, or you get too few in each reborn.
 
@@ -728,7 +728,7 @@ Such buff system even looks like extended avatar bonus shop. So it fits current 
 
 </div>
 
-<div class="post" data-post-id="37588" data-author="Gorka" data-date="2016-11-29T11:18:27+00:00">
+<div class="post" data-post-id="37588" data-author="Gorka" data-date="2016-11-29T11:18:27+00:00" data-subject="Re: Rebirths">
 
 > **Filk wrote:**
 > Maybe we should give up with idea of endless reborn and just set up like 5-10 steps of rebirths. With predefined bonuses for each(maybe even the same each time).
@@ -743,7 +743,7 @@ I think Josiah got a good deal and if you'd all like to spend some time improvin
 
 </div>
 
-<div class="post" data-post-id="37589" data-author="Filk" data-date="2016-11-29T12:35:48+00:00">
+<div class="post" data-post-id="37589" data-author="Filk" data-date="2016-11-29T12:35:48+00:00" data-subject="Re: Rebirths">
 
 > **Gorka wrote:**
 > For each rebirth... +2 hit, +2 damage, 10 Bonus Spell Bonus, 10 Bonus Heal Bonus
@@ -756,7 +756,7 @@ Ok. Sounds like a good plan to me for next 10 years :)
 
 </div>
 
-<div class="post" data-post-id="37594" data-author="Teron" data-date="2016-12-01T06:33:54+00:00">
+<div class="post" data-post-id="37594" data-author="Teron" data-date="2016-12-01T06:33:54+00:00" data-subject="Re: Rebirths">
 
 1. So we agree that 9x40 bonuses should be kept and revealed at 9x40 - we only need to convince Breeze to grant that to Josiah.
 
@@ -802,7 +802,7 @@ If not, then it's hard to understand what's being talked about.
 
 </div>
 
-<div class="post" data-post-id="37662" data-author="Teron" data-date="2016-12-05T16:27:19+00:00">
+<div class="post" data-post-id="37662" data-author="Teron" data-date="2016-12-05T16:27:19+00:00" data-subject="Re: Rebirths">
 
 What's left to discuss:
 
@@ -816,7 +816,7 @@ I feel that since we don't get additional tri40 eq, no additional 9x40 light is 
 
 </div>
 
-<div class="post" data-post-id="37663" data-author="Filk" data-date="2016-12-05T17:02:22+00:00">
+<div class="post" data-post-id="37663" data-author="Filk" data-date="2016-12-05T17:02:22+00:00" data-subject="Re: Rebirths">
 
 I vote for most plain and simple variant. Which is easy to implement, and easy to understand.
 
@@ -830,7 +830,7 @@ Extra 9x40  light actually might be really interesting addition. Its fair balanc
 
 </div>
 
-<div class="post" data-post-id="37665" data-author="Josiah" data-date="2016-12-05T17:25:31+00:00">
+<div class="post" data-post-id="37665" data-author="Josiah" data-date="2016-12-05T17:25:31+00:00" data-subject="Re: Rebirths">
 
 You are all trying to figure out how to power up your characters via rebirth, which really wasn't my original purpose.  My goal was just to enjoy leveling again on the character that I love.
 
@@ -846,7 +846,7 @@ This could be a big turning point in game design, perhaps the biggest since the 
 
 </div>
 
-<div class="post" data-post-id="37666" data-author="cyprimus" data-date="2016-12-05T17:47:17+00:00">
+<div class="post" data-post-id="37666" data-author="cyprimus" data-date="2016-12-05T17:47:17+00:00" data-subject="Re: Rebirths">
 
 I agree with Josiah.  
 
@@ -858,7 +858,7 @@ Thinking about it.. 360 levels for over 4 k drac.. so essentially 10 drac a leve
 
 </div>
 
-<div class="post" data-post-id="37672" data-author="Teron" data-date="2016-12-05T20:50:41+00:00">
+<div class="post" data-post-id="37672" data-author="Teron" data-date="2016-12-05T20:50:41+00:00" data-subject="Re: Rebirths">
 
 Josiah, I agree wholeheartedly.
 
@@ -876,7 +876,7 @@ Truth be told, be able to use another prime skill after rebirth seems very natur
 
 </div>
 
-<div class="post" data-post-id="37673" data-author="*Splork*" data-date="2016-12-05T21:30:09+00:00">
+<div class="post" data-post-id="37673" data-author="*Splork*" data-date="2016-12-05T21:30:09+00:00" data-subject="Re: Rebirths">
 
 > **Quote:**
 > I vote for most plain and simple variant. Which is easy to implement, and easy to understand.
@@ -887,7 +887,7 @@ Hopefully, we can come up with something which isn't too difficult to implement 
 
 </div>
 
-<div class="post" data-post-id="37704" data-author="Filk" data-date="2016-12-08T08:57:01+00:00">
+<div class="post" data-post-id="37704" data-author="Filk" data-date="2016-12-08T08:57:01+00:00" data-subject="Re: Rebirths">
 
 > **Filk wrote:**
 > > **Gorka wrote:**
@@ -908,7 +908,7 @@ So probably we need to hear immortals opinion about that result. What do you thi
 
 </div>
 
-<div class="post" data-post-id="37705" data-author="Teron" data-date="2016-12-08T10:17:59+00:00">
+<div class="post" data-post-id="37705" data-author="Teron" data-date="2016-12-08T10:17:59+00:00" data-subject="Re: Rebirths">
 
 1. Why cap at 10? Seems like an arbitrary number. Why not 7 or 15? If you rebirth 20 times in 10-15 years, what exactly stops you from having +200 heal bonus? 
 
@@ -952,7 +952,7 @@ Also, it'd be awesome to be immune to blind, chop, or to run like hell underwate
 
 </div>
 
-<div class="post" data-post-id="37713" data-author="Filk" data-date="2016-12-09T01:59:17+00:00">
+<div class="post" data-post-id="37713" data-author="Filk" data-date="2016-12-09T01:59:17+00:00" data-subject="Re: Rebirths">
 
 Some custom effect are interesting. But that requires some new shop or other interface to do it. Along with effects itself. Which maybe little to hard to do.
 
@@ -964,7 +964,7 @@ And plain bonuses we mentioned before are also could be done. Just as cherry on 
 
 </div>
 
-<div class="post" data-post-id="37714" data-author="Teron" data-date="2016-12-09T03:31:37+00:00">
+<div class="post" data-post-id="37714" data-author="Teron" data-date="2016-12-09T03:31:37+00:00" data-subject="Re: Rebirths">
 
 1. I guess prime skills dependant on class order is logical, however we don't choose classo based on that. Maybe it'll add another dimension to classo picking for rebirthing.
 
@@ -978,7 +978,7 @@ That's why it's important to offer more unique bonuses per rebirth to keep playe
 
 </div>
 
-<div class="post" data-post-id="37717" data-author="Filk" data-date="2016-12-09T08:16:44+00:00">
+<div class="post" data-post-id="37717" data-author="Filk" data-date="2016-12-09T08:16:44+00:00" data-subject="Re: Rebirths">
 
 > **Teron wrote:**
 > Though we can change classos during rebirth, does it mean that perm skills persist once gotten?
@@ -995,7 +995,7 @@ I dont see any reason at trying to build infinite rebirth cycle right now. I alr
 
 </div>
 
-<div class="post" data-post-id="37730" data-author="Teron" data-date="2016-12-09T15:55:24+00:00">
+<div class="post" data-post-id="37730" data-author="Teron" data-date="2016-12-09T15:55:24+00:00" data-subject="Re: Rebirths">
 
 Yeah, I'll let imms draw the line on additional bonuses.
 
@@ -1059,13 +1059,13 @@ One or several of these, up to imms to decide, whether they are easy/reasonable:
 
 </div>
 
-<div class="post" data-post-id="37732" data-author="Josiah" data-date="2016-12-09T16:01:50+00:00">
+<div class="post" data-post-id="37732" data-author="Josiah" data-date="2016-12-09T16:01:50+00:00" data-subject="Re: Rebirths">
 
 It kind of looks like you took everything that was suggested, and then asked for all of it.
 
 </div>
 
-<div class="post" data-post-id="37738" data-author="Teron" data-date="2016-12-09T17:22:21+00:00">
+<div class="post" data-post-id="37738" data-author="Teron" data-date="2016-12-09T17:22:21+00:00" data-subject="Re: Rebirths">
 
 Yup. Because one thing is to rebirth out of boredom or for drachma, another is to be reborn to gain a skill.
 
@@ -1075,7 +1075,7 @@ What's your suggestion, then?
 
 </div>
 
-<div class="post" data-post-id="37745" data-author="*Breeze*" data-date="2016-12-09T23:41:23+00:00">
+<div class="post" data-post-id="37745" data-author="*Breeze*" data-date="2016-12-09T23:41:23+00:00" data-subject="Re: Rebirths">
 
 > **Teron wrote:**
 > Yeah, I'll let imms draw the line on additional bonuses.
@@ -1178,7 +1178,7 @@ bedtime.
 
 </div>
 
-<div class="post" data-post-id="37747" data-author="Gorka" data-date="2016-12-10T01:14:01+00:00">
+<div class="post" data-post-id="37747" data-author="Gorka" data-date="2016-12-10T01:14:01+00:00" data-subject="Re: Rebirths">
 
 Yes, the power increment of the ideas in this thread has amused me also.
 
@@ -1188,7 +1188,7 @@ There is already a threads about improving avatar shop, and drachma eq... if the
 
 </div>
 
-<div class="post" data-post-id="37751" data-author="Teron" data-date="2016-12-10T01:40:00+00:00">
+<div class="post" data-post-id="37751" data-author="Teron" data-date="2016-12-10T01:40:00+00:00" data-subject="Re: Rebirths">
 
 The cost of bonuses including ac/dam is about 300-350bil w/o considering it's bonus. Irrc 300bil is what you spend on the few last 40s. Earlier I suggested picking 2 or 3 bonuses, but it was said to be too complex.
 
@@ -1218,7 +1218,7 @@ If anything, the program can be improved over time and early reborns won't be up
 
 </div>
 
-<div class="post" data-post-id="37754" data-author="*Splork*" data-date="2016-12-10T02:10:23+00:00">
+<div class="post" data-post-id="37754" data-author="*Splork*" data-date="2016-12-10T02:10:23+00:00" data-subject="Re: Rebirths">
 
 ```
 Also, didn't Splork say it was a discussion? Am I wrong to assume that, as well as that it doesn't require his stamp of approval, if there's an agreement among imms (and maybe players) on the topic?
@@ -1234,7 +1234,7 @@ Again, there is a middle ground if you are willing to reach it.
 
 </div>
 
-<div class="post" data-post-id="37755" data-author="Teron" data-date="2016-12-10T02:24:34+00:00">
+<div class="post" data-post-id="37755" data-author="Teron" data-date="2016-12-10T02:24:34+00:00" data-subject="Re: Rebirths">
 
 In the gold thread, where Josiah and I killed large mobs, we spent lots of potions, a number of regen scrolls, and corpses, to get through the mobs. We didn't even kill all the mobs, just skipped past the upper levels and hit Shiva for a good measure.
 
@@ -1248,7 +1248,7 @@ And still, I'm willing to find the middle ground, provided imms and players clea
 
 </div>
 
-<div class="post" data-post-id="37757" data-author="Josiah" data-date="2016-12-10T03:08:38+00:00">
+<div class="post" data-post-id="37757" data-author="Josiah" data-date="2016-12-10T03:08:38+00:00" data-subject="Re: Rebirths">
 
 I wouldn't call our area exploration 'running wild in a group area.'  We burned through about 500k gold worth of consumables in order to 'run wild in a group area.'  Exploring the changes to pagoda also took us the better part of an hour.
 
@@ -1260,7 +1260,7 @@ The changes to Pagoda have improved the area from bad to mediocre.  I would cons
 
 </div>
 
-<div class="post" data-post-id="37759" data-author="Filk" data-date="2016-12-10T03:21:26+00:00">
+<div class="post" data-post-id="37759" data-author="Filk" data-date="2016-12-10T03:21:26+00:00" data-subject="Re: Rebirths">
 
 About additional prime classes. I understand that will not gonna be easy task. But maybe its the one is worth doing actually.
 
@@ -1280,7 +1280,7 @@ But that will be really option only for boring avatars. Not next stage of playin
 
 </div>
 
-<div class="post" data-post-id="37760" data-author="*Splork*" data-date="2016-12-10T04:01:18+00:00">
+<div class="post" data-post-id="37760" data-author="*Splork*" data-date="2016-12-10T04:01:18+00:00" data-subject="Re: Rebirths">
 
 The "running wild in group areas"  was brought to me before JB ever made the change to that area.
 
@@ -1288,7 +1288,7 @@ It had zero to do with you guys.
 
 </div>
 
-<div class="post" data-post-id="37766" data-author="*Breeze*" data-date="2016-12-10T09:58:03+00:00">
+<div class="post" data-post-id="37766" data-author="*Breeze*" data-date="2016-12-10T09:58:03+00:00" data-subject="Re: Rebirths">
 
 > **Teron wrote:**
 > .. snip ..
@@ -1313,13 +1313,13 @@ hmm that could be fun. let make iblis into an innkeeper.
 
 </div>
 
-<div class="post" data-post-id="37768" data-author="Filk" data-date="2016-12-10T11:39:22+00:00">
+<div class="post" data-post-id="37768" data-author="Filk" data-date="2016-12-10T11:39:22+00:00" data-subject="Re: Rebirths">
 
 Well. Better comment about our topic related ideas. What do you think about them in terms of balance etc :)
 
 </div>
 
-<div class="post" data-post-id="37773" data-author="Teron" data-date="2016-12-11T09:59:48+00:00">
+<div class="post" data-post-id="37773" data-author="Teron" data-date="2016-12-11T09:59:48+00:00" data-subject="Re: Rebirths">
 
 So currently, it seems that what can be done is:
 
@@ -1337,7 +1337,7 @@ Is it?
 
 </div>
 
-<div class="post" data-post-id="37774" data-author="*Breeze*" data-date="2016-12-11T16:17:20+00:00">
+<div class="post" data-post-id="37774" data-author="*Breeze*" data-date="2016-12-11T16:17:20+00:00" data-subject="Re: Rebirths">
 
 I already stated where i stand on those bonuses.
 
@@ -1353,7 +1353,7 @@ also I checked and I need to fix the automated avatar light trade in. not sure w
 
 </div>
 
-<div class="post" data-post-id="37775" data-author="*Splork*" data-date="2016-12-11T20:15:17+00:00">
+<div class="post" data-post-id="37775" data-author="*Splork*" data-date="2016-12-11T20:15:17+00:00" data-subject="Re: Rebirths">
 
 I actually like the idea of rebirth which is why we agreed to it. The only thing which concerns me is the fact that all of our 9x40s are power players. How quickly are they going to be able to achieve the next rebirth? 
 
@@ -1367,7 +1367,7 @@ Good thread!
 
 </div>
 
-<div class="post" data-post-id="37777" data-author="Filk" data-date="2016-12-12T07:00:31+00:00">
+<div class="post" data-post-id="37777" data-author="Filk" data-date="2016-12-12T07:00:31+00:00" data-subject="Re: Rebirths">
 
 If we speaks about little stats increase(ie +2 to everything from posts above), thats just 10-20 extra damage for 5-10 reborns. And extra 1-2ac. Good, but doesnt seems like any gamebreaking addition.
 
@@ -1439,7 +1439,7 @@ Such additions will never ruin the mud in my opinion.
 
 </div>
 
-<div class="post" data-post-id="37778" data-author="Teron" data-date="2016-12-12T07:59:44+00:00">
+<div class="post" data-post-id="37778" data-author="Teron" data-date="2016-12-12T07:59:44+00:00" data-subject="Re: Rebirths">
 
 1. The rate of rebirths and power depend on how enticing rebirthing is, which depends on whether we get to use another prime skill after it.
 
@@ -1461,7 +1461,7 @@ If you are concerned with powerplayers, make areas for them, don't hope for them
 
 </div>
 
-<div class="post" data-post-id="37779" data-author="Zlodiak" data-date="2016-12-12T09:03:53+00:00">
+<div class="post" data-post-id="37779" data-author="Zlodiak" data-date="2016-12-12T09:03:53+00:00" data-subject="Re: Rebirths">
 
 As for me adding some reasonable bonuses for remort won't ruin game.
 
@@ -1517,7 +1517,7 @@ We need to rework this system hard and it looks quite hard to implement, so it m
 
 </div>
 
-<div class="post" data-post-id="37780" data-author="Filk" data-date="2016-12-12T09:22:36+00:00">
+<div class="post" data-post-id="37780" data-author="Filk" data-date="2016-12-12T09:22:36+00:00" data-subject="Re: Rebirths">
 
 > **Zlodiak wrote:**
 > Noone will take cleric or monk as prime class after rebirth.
@@ -1530,7 +1530,7 @@ And as a monk, you get better grip modifier and higer caps.
 
 </div>
 
-<div class="post" data-post-id="37781" data-author="Teron" data-date="2016-12-12T13:42:02+00:00">
+<div class="post" data-post-id="37781" data-author="Teron" data-date="2016-12-12T13:42:02+00:00" data-subject="Re: Rebirths">
 
 As a cleric you get to use auto-assisting pit fiend, and if you do a few rebirths, you'll get prime skills to protect you, like parry or shield of thorns, arriving at cl/dr/wa/ma or cl/dr/ma/wa, which would be a very powerful combo.
 
@@ -1542,7 +1542,7 @@ While they can be slightly reduced, also lowering the poprate would make them mo
 
 </div>
 
-<div class="post" data-post-id="37782" data-author="Zlodiak" data-date="2016-12-12T14:36:55+00:00">
+<div class="post" data-post-id="37782" data-author="Zlodiak" data-date="2016-12-12T14:36:55+00:00" data-subject="Re: Rebirths">
 
 Pit fiend still autoassist?
 
@@ -1578,7 +1578,7 @@ These potions are much more OP and everyone can get them easy. I consider it as 
 
 </div>
 
-<div class="post" data-post-id="37785" data-author="Josiah" data-date="2016-12-12T16:02:38+00:00">
+<div class="post" data-post-id="37785" data-author="Josiah" data-date="2016-12-12T16:02:38+00:00" data-subject="Re: Rebirths">
 
 Yes, the coliseum drops have drastically altered gameplay.  I feel like we should have to form a large group to kill big epic mobs, not just grab a couple friends and eat 4-5 restoration scrolls. 
 
@@ -1606,7 +1606,7 @@ I think #3 is the best fix.  Players who like running xp in the coliseum can con
 
 </div>
 
-<div class="post" data-post-id="37786" data-author="Josiah" data-date="2016-12-12T16:18:18+00:00">
+<div class="post" data-post-id="37786" data-author="Josiah" data-date="2016-12-12T16:18:18+00:00" data-subject="Re: Rebirths">
 
 +dam +weapondam +handdam is more balanced than +2 dam.  That's +20 damage on grips, and +30-45 on stabs.  The thieves are still coming out ahead.  If you want them even further ahead, give them +3 circle dam too.
 
@@ -1622,7 +1622,7 @@ I can't see them having a little extra survivability or dps being terrible for t
 
 </div>
 
-<div class="post" data-post-id="37787" data-author="*Breeze*" data-date="2016-12-12T17:09:11+00:00">
+<div class="post" data-post-id="37787" data-author="*Breeze*" data-date="2016-12-12T17:09:11+00:00" data-subject="Re: Rebirths">
 
 I started coding. will recruit josiah to test before going live.
 
@@ -1632,7 +1632,7 @@ thanks for the input
 
 </div>
 
-<div class="post" data-post-id="37789" data-author="Filk" data-date="2016-12-12T17:42:41+00:00">
+<div class="post" data-post-id="37789" data-author="Filk" data-date="2016-12-12T17:42:41+00:00" data-subject="Re: Rebirths">
 
 Holy cow!  :roll: 
 
@@ -1642,7 +1642,7 @@ So we could prepare :)
 
 </div>
 
-<div class="post" data-post-id="37790" data-author="Josiah" data-date="2016-12-12T19:22:54+00:00">
+<div class="post" data-post-id="37790" data-author="Josiah" data-date="2016-12-12T19:22:54+00:00" data-subject="Re: Rebirths">
 
 The decisions that haven't been made yet are almost certainly what we all want to know!  Now, how are we going to come to a consensus on what we should get from a rebirth?
 
@@ -1664,13 +1664,13 @@ I think spell teaching lessons should also persist.  Teaching spells like frostb
 
 </div>
 
-<div class="post" data-post-id="37791" data-author="*juggleblood*" data-date="2016-12-13T02:04:10+00:00">
+<div class="post" data-post-id="37791" data-author="*juggleblood*" data-date="2016-12-13T02:04:10+00:00" data-subject="Re: Rebirths">
 
 Other prime skills is the only thing that would draw me in to such a system.  I understand the concern about high-power characters. I tried to answer the question of whether the mud could handle it, or would we die of inflation. But I didn't come up with anything. I dunno.
 
 </div>
 
-<div class="post" data-post-id="37796" data-author="*Splork*" data-date="2016-12-13T03:19:11+00:00">
+<div class="post" data-post-id="37796" data-author="*Splork*" data-date="2016-12-13T03:19:11+00:00" data-subject="Re: Rebirths">
 
 > **Quote:**
 > The decisions that haven't been made yet are almost certainly what we all want to know! Now, how are we going to come to a consensus on what we should get from a rebirth?
@@ -1683,7 +1683,7 @@ I will admit, I am a bit worried but that is my job :twisted:
 
 </div>
 
-<div class="post" data-post-id="37798" data-author="Josiah" data-date="2016-12-13T06:43:21+00:00">
+<div class="post" data-post-id="37798" data-author="Josiah" data-date="2016-12-13T06:43:21+00:00" data-subject="Re: Rebirths">
 
 After carefully reading through all the posts again, here is my proposal for the Rebirth shop.  I think it's about in the middle of what people were proposing.  I hope it includes enough of a bonus to tempt those like Juggleblood into trying it, while being (barely) tame enough to not break the game. Each rebirth grants one character redefining skill, and two selected bonuses.  
 
@@ -1751,7 +1751,7 @@ Please respond whether you agree, disagree, or show us your own proposal.  It so
 
 </div>
 
-<div class="post" data-post-id="37799" data-author="Teron" data-date="2016-12-13T07:14:57+00:00">
+<div class="post" data-post-id="37799" data-author="Teron" data-date="2016-12-13T07:14:57+00:00" data-subject="Re: Rebirths">
 
 1. One prime skill/spell per rebirth sounds reasonable: it doesn't dilute the value of primes overall.
 
@@ -1767,7 +1767,7 @@ If there are no caps on the bonuses, we shouldn't be able to pick two of the sam
 
 </div>
 
-<div class="post" data-post-id="37801" data-author="Josiah" data-date="2016-12-13T07:41:05+00:00">
+<div class="post" data-post-id="37801" data-author="Josiah" data-date="2016-12-13T07:41:05+00:00" data-subject="Re: Rebirths">
 
 The '40' boost would not apply to caps or wearable eq, but only towards the listed class-restricted spells.  It's effectively a way to open up a few more prime skills like pit fiends and piasas, similar to the other unlockable prime skills.
 
@@ -1793,7 +1793,7 @@ Bard prime instrument use might deserve to stay unavailable, since the other pri
 
 </div>
 
-<div class="post" data-post-id="37802" data-author="Filk" data-date="2016-12-13T07:58:44+00:00">
+<div class="post" data-post-id="37802" data-author="Filk" data-date="2016-12-13T07:58:44+00:00" data-subject="Re: Rebirths">
 
 > **Josiah wrote:**
 > Please respond whether you agree, disagree, or show us your own proposal.  It sounds like it is up to us to figure this out.
@@ -1810,13 +1810,13 @@ With plain -0.2 AC +2mr +10 bonus spellbonus +10 bonus heal spellbonus. 1 dam, 1
 
 </div>
 
-<div class="post" data-post-id="37804" data-author="Teron" data-date="2016-12-13T09:54:55+00:00">
+<div class="post" data-post-id="37804" data-author="Teron" data-date="2016-12-13T09:54:55+00:00" data-subject="Re: Rebirths">
 
 I found 7-8 useful skills I'd rebirth for, though rebirthing just for sleight of hand seems too generous.
 
 </div>
 
-<div class="post" data-post-id="37805" data-author="Zlodiak" data-date="2016-12-13T12:11:38+00:00">
+<div class="post" data-post-id="37805" data-author="Zlodiak" data-date="2016-12-13T12:11:38+00:00" data-subject="Re: Rebirths">
 
 > **Josiah wrote:**
 > Please respond whether you agree, disagree, or show us your own proposal.  It sounds like it is up to us to figure this out.
@@ -1879,7 +1879,7 @@ i'd suggest minor changes, like:
 
 </div>
 
-<div class="post" data-post-id="37807" data-author="Teron" data-date="2016-12-13T15:07:15+00:00">
+<div class="post" data-post-id="37807" data-author="Teron" data-date="2016-12-13T15:07:15+00:00" data-subject="Re: Rebirths">
 
 Zlodiak, you put skills and spells in arbitrary couples. Not only sometimes unevenly, but why should it be one combo, not the other?
 
@@ -1889,7 +1889,7 @@ Simply picking two (or two of the same class) would be more elegant, however I g
 
 </div>
 
-<div class="post" data-post-id="37811" data-author="Josiah" data-date="2016-12-13T15:41:02+00:00">
+<div class="post" data-post-id="37811" data-author="Josiah" data-date="2016-12-13T15:41:02+00:00" data-subject="Re: Rebirths">
 
 I don't think Zlodiak's grouping were arbitrary.  He grouped the skills that belong together, and then broke up the strongest skills into different groups.  I like the idea of grouping them in order to include the less attractive abilities.
 
@@ -1901,7 +1901,7 @@ Spells are restricted to those you have the levels to cast.  You can't relocate 
 
 </div>
 
-<div class="post" data-post-id="37812" data-author="Filk" data-date="2016-12-13T16:10:30+00:00">
+<div class="post" data-post-id="37812" data-author="Filk" data-date="2016-12-13T16:10:30+00:00" data-subject="Re: Rebirths">
 
 > **Josiah wrote:**
 > Previously learned skills are not level-gated. As a level 1 reborn character, you already have deathblow, double stab, and avatar attack.
@@ -1922,7 +1922,7 @@ But actually i want to hear Breeze opinion about what he thinking to implement n
 
 </div>
 
-<div class="post" data-post-id="37813" data-author="Josiah" data-date="2016-12-13T16:55:50+00:00">
+<div class="post" data-post-id="37813" data-author="Josiah" data-date="2016-12-13T16:55:50+00:00" data-subject="Re: Rebirths">
 
 > **Filk wrote:**
 > > **Josiah wrote:**
@@ -1937,7 +1937,7 @@ Maybe you're looking for confirmation that this is intended (it wasn't) and that
 
 </div>
 
-<div class="post" data-post-id="37814" data-author="Filk" data-date="2016-12-13T17:10:53+00:00">
+<div class="post" data-post-id="37814" data-author="Filk" data-date="2016-12-13T17:10:53+00:00" data-subject="Re: Rebirths">
 
 > **Josiah wrote:**
 > confirmation that this is intended
@@ -1946,13 +1946,13 @@ Exactly. But that just to make things clearer.
 
 </div>
 
-<div class="post" data-post-id="37819" data-author="*juggleblood*" data-date="2016-12-14T00:44:35+00:00">
+<div class="post" data-post-id="37819" data-author="*juggleblood*" data-date="2016-12-14T00:44:35+00:00" data-subject="Re: Rebirths">
 
 One prime skill from another class seems kinda lame to me. Like over-the-clothes dry humping level of lame. I'd want to adopt a whole skillset from another class, not choose 1 skill. I'm imagining it should take someone about a year to hit 9x40 again? Make it fun.
 
 </div>
 
-<div class="post" data-post-id="37821" data-author="Filk" data-date="2016-12-14T04:09:57+00:00">
+<div class="post" data-post-id="37821" data-author="Filk" data-date="2016-12-14T04:09:57+00:00" data-subject="Re: Rebirths">
 
 > ***juggleblood* wrote:**
 > One prime skill from another class seems kinda lame to me. Like over-the-clothes dry humping level of lame. I'd want to adopt a whole skillset from another class, not choose 1 skill. I'm imagining it should take someone about a year to hit 9x40 again? Make it fun.
@@ -2080,7 +2080,7 @@ And skills costs
 
 </div>
 
-<div class="post" data-post-id="37822" data-author="Teron" data-date="2016-12-14T10:23:27+00:00">
+<div class="post" data-post-id="37822" data-author="Teron" data-date="2016-12-14T10:23:27+00:00" data-subject="Re: Rebirths">
 
 1. Agreed, JB, more skills is more fun.
 
@@ -2100,7 +2100,7 @@ Not to mention that I suspect a bard would love to get bonus charisma, rather th
 
 </div>
 
-<div class="post" data-post-id="37823" data-author="Filk" data-date="2016-12-14T10:58:48+00:00">
+<div class="post" data-post-id="37823" data-author="Filk" data-date="2016-12-14T10:58:48+00:00" data-subject="Re: Rebirths">
 
 > **Teron wrote:**
 > 2. Fluffy, I thought we agreed on bonus bonuses.
@@ -2141,7 +2141,7 @@ I think Juju is powerfull enough to cost 4. Maybe i am wrong, i never played wit
 
 </div>
 
-<div class="post" data-post-id="37824" data-author="*Splork*" data-date="2016-12-14T12:52:44+00:00">
+<div class="post" data-post-id="37824" data-author="*Splork*" data-date="2016-12-14T12:52:44+00:00" data-subject="Re: Rebirths">
 
 I think the most balanced route would be to allow one prime skill every other rebirth while allowing bonuses every rebirth.
 
@@ -2153,7 +2153,7 @@ Personally, I feel that its always better to error on the side of caution and ad
 
 </div>
 
-<div class="post" data-post-id="37825" data-author="Teron" data-date="2016-12-14T13:32:21+00:00">
+<div class="post" data-post-id="37825" data-author="Teron" data-date="2016-12-14T13:32:21+00:00" data-subject="Re: Rebirths">
 
 Fluffy, I didn't look closely at other skills, but resurrection stood out.
 
@@ -2193,7 +2193,7 @@ Perhaps we/you/all of us need to define how to measure power progress and provid
 
 </div>
 
-<div class="post" data-post-id="37827" data-author="*Splork*" data-date="2016-12-14T13:58:58+00:00">
+<div class="post" data-post-id="37827" data-author="*Splork*" data-date="2016-12-14T13:58:58+00:00" data-subject="Re: Rebirths">
 
 > **Quote:**
 > Splork, it depends how exciting you want the rebirthing process to be. If you want to turn it into a 15 year grind - without pwipes - then yeah, one skill every other year.
@@ -2213,7 +2213,7 @@ Its just my opinion and I have been wrong plenty of times. Only time will tell :
 
 </div>
 
-<div class="post" data-post-id="37828" data-author="Teron" data-date="2016-12-14T14:09:33+00:00">
+<div class="post" data-post-id="37828" data-author="Teron" data-date="2016-12-14T14:09:33+00:00" data-subject="Re: Rebirths">
 
 I meant that whatever we do with rebirths, avatars at 9x40 will be however more powerful, than they were before. This would require tougher areas (they already need them, even).
 
@@ -2225,7 +2225,7 @@ The least we can do is to measure current power growth and continue it with the 
 
 </div>
 
-<div class="post" data-post-id="37829" data-author="Filk" data-date="2016-12-14T14:17:22+00:00">
+<div class="post" data-post-id="37829" data-author="Filk" data-date="2016-12-14T14:17:22+00:00" data-subject="Re: Rebirths">
 
 > **Quote:**
 > it would lead to a restart or the end of Sloth because the game can't handle it.
@@ -2248,7 +2248,7 @@ About immortal application - i offer to make some page with more technical detai
 
 </div>
 
-<div class="post" data-post-id="37830" data-author="*teker*" data-date="2016-12-14T17:27:16+00:00">
+<div class="post" data-post-id="37830" data-author="*teker*" data-date="2016-12-14T17:27:16+00:00" data-subject="Re: Rebirths">
 
 > **Quote:**
 > I read mudl docs you gave to me, they see really unfinished. Tytorials dropped on the middle. No actual info about procs or kvps, except little introduction. Some information probably hidden in help files that not available to mortals. Maybe thats wrong. Why not give some actual info to ppl who want to know how it works inside before they make application
@@ -2261,7 +2261,7 @@ I haven't moved over any of the old MUDL documentation but there is documentatio
 
 </div>
 
-<div class="post" data-post-id="37833" data-author="norks" data-date="2016-12-14T18:10:53+00:00">
+<div class="post" data-post-id="37833" data-author="norks" data-date="2016-12-14T18:10:53+00:00" data-subject="Re: Rebirths">
 
 Well Iâ€™m 9/10ths retired and a way off 9x40 anyway so my opinion might be invalid, but here it is nevertheless:
 
@@ -2273,7 +2273,7 @@ Norks
 
 </div>
 
-<div class="post" data-post-id="37834" data-author="Josiah" data-date="2016-12-14T19:26:08+00:00">
+<div class="post" data-post-id="37834" data-author="Josiah" data-date="2016-12-14T19:26:08+00:00" data-subject="Re: Rebirths">
 
 > ***Splork* wrote:**
 > I think the most balanced route would be to allow one prime skill every other rebirth while allowing bonuses every rebirth.
@@ -2294,7 +2294,7 @@ If you want to slow down runaway power, we could take a page from other systems 
 
 </div>
 
-<div class="post" data-post-id="37836" data-author="Hung" data-date="2016-12-14T20:22:40+00:00">
+<div class="post" data-post-id="37836" data-author="Hung" data-date="2016-12-14T20:22:40+00:00" data-subject="Re: Rebirths">
 
 I semi support Filk's proposal. As prime skills are far from being equal. There are overpowered prime skills such second wind or shield of thorns. And there are balanced prime skills such as focus or dark mace. Finally there are useless skills such as knight's prayer.
 
@@ -2304,7 +2304,7 @@ Filk's point system is a perfect solution for that. However I'd set price of a o
 
 </div>
 
-<div class="post" data-post-id="37837" data-author="Teron" data-date="2016-12-14T20:41:32+00:00">
+<div class="post" data-post-id="37837" data-author="Teron" data-date="2016-12-14T20:41:32+00:00" data-subject="Re: Rebirths">
 
 Imho, we need to:
 
@@ -2336,7 +2336,7 @@ And yeah, I agree that rebirthing should be worthwhile and exciting. Rebirthing 
 
 </div>
 
-<div class="post" data-post-id="37838" data-author="*Breeze*" data-date="2016-12-14T21:20:49+00:00">
+<div class="post" data-post-id="37838" data-author="*Breeze*" data-date="2016-12-14T21:20:49+00:00" data-subject="Re: Rebirths">
 
 re: mudl 
 
@@ -2352,7 +2352,7 @@ tl;dr. need to make time to read complete thread again whenever i get more than 
 
 </div>
 
-<div class="post" data-post-id="37949" data-author="Josiah" data-date="2017-01-08T05:17:25+00:00">
+<div class="post" data-post-id="37949" data-author="Josiah" data-date="2017-01-08T05:17:25+00:00" data-subject="Re: Rebirths">
 
 For those who follow along on the crier but haven't been logging into the game, here is the helpfile for rebirth.  Currently it is a very superior implementation of 'remort' character concept.  A 9x40 can reset their levels and quests and get a lot of replay value out of the game having to make a new character.  We currently have 3 rebirthed avatars, with more expected.
 
@@ -2455,7 +2455,7 @@ It falls short of the infinite progression / repeat-ability that was speculated 
 
 </div>
 
-<div class="post" data-post-id="37950" data-author="Gorka" data-date="2017-01-08T06:50:15+00:00">
+<div class="post" data-post-id="37950" data-author="Gorka" data-date="2017-01-08T06:50:15+00:00" data-subject="Re: Rebirths">
 
 Good Deal!  8) Thanks Breeze.
 

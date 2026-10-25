@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="19805" data-author="Yinao" data-date="2007-08-21T20:24:28+00:00">
+<div class="post" data-post-id="19805" data-author="Yinao" data-date="2007-08-21T20:24:28+00:00" data-subject="Old Character for Sale.">
 
 Orcs bleah  (level: 40)
 
@@ -54,43 +54,43 @@ if your interested send me a tell ingame Yinao/Bombard/Barael
 
 </div>
 
-<div class="post" data-post-id="19807" data-author="Medios" data-date="2007-08-21T20:25:27+00:00">
+<div class="post" data-post-id="19807" data-author="Medios" data-date="2007-08-21T20:25:27+00:00" data-subject="">
 
 Must you remind us that it was you!!!
 
 </div>
 
-<div class="post" data-post-id="19808" data-author="Yinao" data-date="2007-08-21T20:26:19+00:00">
+<div class="post" data-post-id="19808" data-author="Yinao" data-date="2007-08-21T20:26:19+00:00" data-subject="">
 
 It was that big of a secret?  :shock:
 
 </div>
 
-<div class="post" data-post-id="19809" data-author="Medios" data-date="2007-08-21T20:32:35+00:00">
+<div class="post" data-post-id="19809" data-author="Medios" data-date="2007-08-21T20:32:35+00:00" data-subject="">
 
 Nah I'm just trying to forget :)
 
 </div>
 
-<div class="post" data-post-id="19810" data-author="Yinao" data-date="2007-08-21T20:35:50+00:00">
+<div class="post" data-post-id="19810" data-author="Yinao" data-date="2007-08-21T20:35:50+00:00" data-subject="">
 
 Well as soon as he is gone you can forget faster  :?
 
 </div>
 
-<div class="post" data-post-id="19818" data-author="Tap" data-date="2007-08-21T23:12:34+00:00">
+<div class="post" data-post-id="19818" data-author="Tap" data-date="2007-08-21T23:12:34+00:00" data-subject="">
 
 I'll offer 400k
 
 </div>
 
-<div class="post" data-post-id="19827" data-author="13" data-date="2007-08-22T12:20:20+00:00">
+<div class="post" data-post-id="19827" data-author="13" data-date="2007-08-22T12:20:20+00:00" data-subject="">
 
 Moderately reliable.
 
 </div>
 
-<div class="post" data-post-id="19883" data-author="Yinao" data-date="2007-08-24T14:46:29+00:00">
+<div class="post" data-post-id="19883" data-author="Yinao" data-date="2007-08-24T14:46:29+00:00" data-subject="">
 
 SOLD!!
 
@@ -98,13 +98,13 @@ PS And its not to the poser with the three letter name in the front row  :twiste
 
 </div>
 
-<div class="post" data-post-id="19894" data-author="Tap" data-date="2007-08-24T22:43:09+00:00">
+<div class="post" data-post-id="19894" data-author="Tap" data-date="2007-08-24T22:43:09+00:00" data-subject="">
 
 Keep telling yourself that.... :twisted:
 
 </div>
 
-<div class="post" data-post-id="19901" data-author="Yinao" data-date="2007-08-25T03:22:52+00:00">
+<div class="post" data-post-id="19901" data-author="Yinao" data-date="2007-08-25T03:22:52+00:00" data-subject="">
 
 Telling myself your a poser, or telling myself you got the character, bc im sure you dont have the character  :roll:
 

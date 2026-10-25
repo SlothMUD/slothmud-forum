@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="26501" data-author="jezer" data-date="2008-09-30T00:43:30+00:00">
+<div class="post" data-post-id="26501" data-author="jezer" data-date="2008-09-30T00:43:30+00:00" data-subject="Whifting">
 
 So yesterday... I was up in tabaxi and the tabaxi lord had just popped his item of awesomeness. 
 
@@ -62,13 +62,13 @@ I guess one is far more likely to remember a day where they loose con twice in a
 
 </div>
 
-<div class="post" data-post-id="26503" data-author="alias" data-date="2008-09-30T12:06:27+00:00">
+<div class="post" data-post-id="26503" data-author="alias" data-date="2008-09-30T12:06:27+00:00" data-subject="">
 
 Or Wait 10 seconds before you try to shift again after you fail.
 
 </div>
 
-<div class="post" data-post-id="26504" data-author="*juggleblood*" data-date="2008-09-30T15:13:45+00:00">
+<div class="post" data-post-id="26504" data-author="*juggleblood*" data-date="2008-09-30T15:13:45+00:00" data-subject="Re: Whifting">
 
 So I have 3 ideas that (nice :twisted:) immortals might consider...
 
@@ -88,13 +88,13 @@ That first one would take all the fun out of lost conc. Doubt it would fly.
 
 </div>
 
-<div class="post" data-post-id="26505" data-author="alias" data-date="2008-09-30T20:48:57+00:00">
+<div class="post" data-post-id="26505" data-author="alias" data-date="2008-09-30T20:48:57+00:00" data-subject="">
 
 I usually have someone good in the group who I don't need to tell to light me so I don't even worry about it. My job as a warrior is to bleed and die, I let someone else do the thinking.
 
 </div>
 
-<div class="post" data-post-id="26538" data-author="Vixn" data-date="2008-10-02T12:19:17+00:00">
+<div class="post" data-post-id="26538" data-author="Vixn" data-date="2008-10-02T12:19:17+00:00" data-subject="">
 
 I usually have someone good in the group who I don't need to tell to light me so I don't even worry about it. My job as a warrior is to bleed and die, I let someone else do the thinking.[/quote:xlakhr8z]
 
@@ -102,7 +102,7 @@ Don't use lite and you'll make your job faster.
 
 </div>
 
-<div class="post" data-post-id="26567" data-author="jezer" data-date="2008-10-05T23:45:30+00:00">
+<div class="post" data-post-id="26567" data-author="jezer" data-date="2008-10-05T23:45:30+00:00" data-subject="">
 
 Judge has changed it so whifts are now only half of the mana cost... bringing it in line with how the rest of the game works with lost concentration.
 
@@ -118,7 +118,7 @@ A few more prime druids on of late! I guess since the primes have been strengthe
 
 </div>
 
-<div class="post" data-post-id="26568" data-author="Weasel" data-date="2008-10-06T01:37:30+00:00">
+<div class="post" data-post-id="26568" data-author="Weasel" data-date="2008-10-06T01:37:30+00:00" data-subject="">
 
 Warriors suck Weasel, deal with it!  :D  Cross over![/quote:35puhm49]
 
@@ -126,7 +126,7 @@ Funny you should say that - I created a couple of thief prime noobs just recentl
 
 </div>
 
-<div class="post" data-post-id="26569" data-author="jezer" data-date="2008-10-06T02:01:01+00:00">
+<div class="post" data-post-id="26569" data-author="jezer" data-date="2008-10-06T02:01:01+00:00" data-subject="">
 
 I'm pretty sure you'd like druid... like I used to play monks... and I thought, oh yeah this is my style etc, nothing will ever change. I crossed over and not really looked back. Honestly, after putting up with your sucky regen as a warrior... playing a tard druid would be like a "sweet day as a warrior" every day. You also still get to do your warrior stuffs, shift piasa, chop chop. Even regen is awesome, you brag about your max mana, and regen stats... to your captive groupies. Make sure you set triggers to announce how quickly you are full, just to rub it in :twisted:
 
@@ -134,7 +134,7 @@ Like, last time you played, all do did was itch, scratch and sniff the people co
 
 </div>
 
-<div class="post" data-post-id="26570" data-author="Weasel" data-date="2008-10-06T02:23:18+00:00">
+<div class="post" data-post-id="26570" data-author="Weasel" data-date="2008-10-06T02:23:18+00:00" data-subject="">
 
 Like, last time you played, all you did was itch, scratch and sniff the people coming past, swim in your decanter, puke up your stomach and return to eat it later... [/quote:2sq3t7m0]
 
@@ -142,7 +142,7 @@ Yeah, but I did it with style!
 
 </div>
 
-<div class="post" data-post-id="26612" data-author="Yasik2" data-date="2008-10-08T05:46:44+00:00">
+<div class="post" data-post-id="26612" data-author="Yasik2" data-date="2008-10-08T05:46:44+00:00" data-subject="Re: Whifting">
 
 Now I know there is probably nothing in the code that causes that... but it all comes back to that silly supposedly â€œrandomâ€ number generator[/color:33ini68e] again![/quote:33ini68e]
 

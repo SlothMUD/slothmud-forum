@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="25019" data-author="mullah~ds~" data-date="2008-06-15T21:27:21+00:00">
+<div class="post" data-post-id="25019" data-author="mullah~ds~" data-date="2008-06-15T21:27:21+00:00" data-subject="Druid Bug with Takhisis epic?">
 
 We were fighting tak, then the proc transfered Aife and I to godisland somewhere....
 
@@ -106,13 +106,13 @@ You sense a hidden life form in the room.
 
 </div>
 
-<div class="post" data-post-id="25038" data-author="Menthu" data-date="2008-06-16T05:22:14+00:00">
+<div class="post" data-post-id="25038" data-author="Menthu" data-date="2008-06-16T05:22:14+00:00" data-subject="">
 
 Fixed.
 
 </div>
 
-<div class="post" data-post-id="25039" data-author="jezer" data-date="2008-06-16T09:14:59+00:00">
+<div class="post" data-post-id="25039" data-author="jezer" data-date="2008-06-16T09:14:59+00:00" data-subject="">
 
 Fixed.[/quote:30iwzve1]
 

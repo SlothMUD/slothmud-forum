@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="7752" data-author="12345" data-date="2005-07-06T12:23:17+00:00">
+<div class="post" data-post-id="7752" data-author="12345" data-date="2005-07-06T12:23:17+00:00" data-subject="Class Abilities">
 
 The 'Find' menu under class abilities is a great feature but very understated I think.  Currently, if you are in say... the Bard Class Abilities list and you click on Wealth and Glory, it gives you what's listed on the website Game Play Helps (or I think it does).  Would it be possible to have this link to the Find instead?  Since it lists the help for the skill as well, I don't think you'd lose anything.
 
@@ -20,7 +20,7 @@ Either way, they're both great features, just seem like they could work better t
 
 </div>
 
-<div class="post" data-post-id="7997" data-author="Taki" data-date="2005-07-25T10:10:56+00:00">
+<div class="post" data-post-id="7997" data-author="Taki" data-date="2005-07-25T10:10:56+00:00" data-subject="">
 
 ... one of the missing skills in the class abilities tables is double attack for thieves.
 

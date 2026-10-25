@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="9205" data-author="*Splork*" data-date="2005-10-26T20:05:43+00:00">
+<div class="post" data-post-id="9205" data-author="*Splork*" data-date="2005-10-26T20:05:43+00:00" data-subject="Wintin.Net 1.09">
 
 Frobisher has released version 1.09 of Wintin.Net. Here is his post on [www.wintin.org](http://www.wintin.org)
 
@@ -40,7 +40,7 @@ There is one small bug that ha been found, apparently the tick messages were lef
 
 </div>
 
-<div class="post" data-post-id="9226" data-author="Shara" data-date="2005-10-27T15:25:34+00:00">
+<div class="post" data-post-id="9226" data-author="Shara" data-date="2005-10-27T15:25:34+00:00" data-subject="">
 
 Is the link to download under beta downloads?
 
@@ -48,7 +48,7 @@ I clicked on the downloads page, and I didn't know which one would give me the v
 
 </div>
 
-<div class="post" data-post-id="9236" data-author="Rynquald" data-date="2005-10-27T18:25:10+00:00">
+<div class="post" data-post-id="9236" data-author="Rynquald" data-date="2005-10-27T18:25:10+00:00" data-subject="">
 
 Yeah, the wintin site isn't exactly clear about what version you're getting, but 1.09 will be in the beta section at the bottom of the page.
 
@@ -56,7 +56,7 @@ EDIT: On a side note, anyone else notice just now that my avatar is posed allmos
 
 </div>
 
-<div class="post" data-post-id="9241" data-author="Weasel" data-date="2005-10-27T19:07:29+00:00">
+<div class="post" data-post-id="9241" data-author="Weasel" data-date="2005-10-27T19:07:29+00:00" data-subject="">
 
 yeah ..it's just you.
 
@@ -64,7 +64,7 @@ yeah ..it's just you.
 
 </div>
 
-<div class="post" data-post-id="9244" data-author="Rynquald" data-date="2005-10-27T19:28:38+00:00">
+<div class="post" data-post-id="9244" data-author="Rynquald" data-date="2005-10-27T19:28:38+00:00" data-subject="">
 
 heh, figured :)
 

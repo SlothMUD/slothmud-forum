@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32037" data-author="*Splork*" data-date="2010-11-15T03:21:27+00:00">
+<div class="post" data-post-id="32037" data-author="*Splork*" data-date="2010-11-15T03:21:27+00:00" data-subject="Circle of Healing reduced">
 
 We have had several complaints regarding Circle of Healing inside the Immortal and Mortal ranks and decided to finally do something regarding the issue. Currently, the spell grows with total levels and we have clerics doing upwards and over 200 hps per person in a group for about 55 mana. This makes it possible for a SINGLE character to heal large groups, say of 20 people, a total of 2000 + hps with 55 mana. This is just unacceptable and was not thought out well by its coder( me ). This is just an example but I think everyone can clearly see our point in this situation. 
 

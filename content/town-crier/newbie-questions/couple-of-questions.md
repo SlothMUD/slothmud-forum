@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31286" data-author="Towen" data-date="2010-06-07T14:03:29+00:00">
+<div class="post" data-post-id="31286" data-author="Towen" data-date="2010-06-07T14:03:29+00:00" data-subject="couple of questions">
 
 Hello all!
 
@@ -24,7 +24,7 @@ Thanks again!
 
 </div>
 
-<div class="post" data-post-id="31287" data-author="blackmore" data-date="2010-06-07T16:33:35+00:00">
+<div class="post" data-post-id="31287" data-author="blackmore" data-date="2010-06-07T16:33:35+00:00" data-subject="Re: couple of questions">
 
 > **Towen wrote:**
 > Hello all!
@@ -54,7 +54,7 @@ Yes, if someone with more sac points than you prays for the item you are current
 
 </div>
 
-<div class="post" data-post-id="31303" data-author="Teron" data-date="2010-06-13T21:04:56+00:00">
+<div class="post" data-post-id="31303" data-author="Teron" data-date="2010-06-13T21:04:56+00:00" data-subject="Re: couple of questions">
 
 Not sure about weapon damage, but it does increase the hitroll by about +4 (just checked at 40th prime warrior), when you are wielding a sword.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="38518" data-author="Gorka" data-date="2017-12-04T16:30:07+00:00">
+<div class="post" data-post-id="38518" data-author="Gorka" data-date="2017-12-04T16:30:07+00:00" data-subject="I&#x27;d have to check my vaults...">
 
 We have all had it happen when trading with other players for gems and cps that we have had to check our vaults to find something. With the new vault code and vaults now storing 100 items, the management of vaults is becoming an issue. I have at least 500 vault slots, but I know other players have more. I also have vaults on every continent except island (for the moment) which means relo'ing around every continent to try and find something. I've tried to organize my crap into gem/personal/cp vaults but still having issues.
 
@@ -28,7 +28,7 @@ GIMME A G! if you're a player and feel this would help you a lot...
 
 </div>
 
-<div class="post" data-post-id="38519" data-author="*Splork*" data-date="2017-12-04T23:52:34+00:00">
+<div class="post" data-post-id="38519" data-author="*Splork*" data-date="2017-12-04T23:52:34+00:00" data-subject="Re: I&#x27;d have to check my vaults...">
 
 I could of sworn we had added that information to the webpage login?
 
@@ -36,13 +36,13 @@ Vaults are SQL driven, it should be rather easy to add that information to a com
 
 </div>
 
-<div class="post" data-post-id="38520" data-author="Gorka" data-date="2017-12-05T12:08:59+00:00">
+<div class="post" data-post-id="38520" data-author="Gorka" data-date="2017-12-05T12:08:59+00:00" data-subject="Re: I&#x27;d have to check my vaults...">
 
 Yeah, there is a button for vaults on the website. I've tried to get that and the quest one working in the past to no avail. When I logged in it thought I was Zuzu, obviously I am so much better looking... but he is the player with the last name alphabetically so it had some sort of bug. In fact even the player stats was bugged for me. I'm not sure any of it will work with the website being only partially operational now... Hence the request for the in game feature.
 
 </div>
 
-<div class="post" data-post-id="38524" data-author="*Breeze*" data-date="2017-12-05T19:16:59+00:00">
+<div class="post" data-post-id="38524" data-author="*Breeze*" data-date="2017-12-05T19:16:59+00:00" data-subject="Re: I&#x27;d have to check my vaults...">
 
 > ***Splork* wrote:**
 > I could of sworn we had added that information to the webpage login?
@@ -128,7 +128,7 @@ Vault # 76018
 
 </div>
 
-<div class="post" data-post-id="38526" data-author="*Breeze*" data-date="2017-12-06T15:11:49+00:00">
+<div class="post" data-post-id="38526" data-author="*Breeze*" data-date="2017-12-06T15:11:49+00:00" data-subject="Re: I&#x27;d have to check my vaults...">
 
 just checked.  it is linked to new vaults.
 

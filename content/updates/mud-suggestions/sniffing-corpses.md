@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2365" data-author="Nascosto" data-date="2004-10-18T07:05:04+00:00">
+<div class="post" data-post-id="2365" data-author="Nascosto" data-date="2004-10-18T07:05:04+00:00" data-subject="Sniffing Corpses,">
 
 OK, kind of a weird idea, but anyway --
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="34418" data-author="Drule" data-date="2013-09-10T11:17:06+00:00">
+<div class="post" data-post-id="34418" data-author="Drule" data-date="2013-09-10T11:17:06+00:00" data-subject="Basic Health/Move/Mana and Opponent Health Bars">
 
 Here are some very basic Hp/Mv/Ma bars and an opponent Hp bar for Mudlet. They are designed to show current/max and update whenever any of the 3 current values change. I'm focusing on very minimal code and my main goal is to understand this stuff as I create it. At any rate, I was glad to finally see some progress and would appreciate any suggestions. Big thanks to Akayan for the MSDP code and other pointers.
 
@@ -62,7 +62,7 @@ In hopes of not losing this post to a second Chrome crash I will post a screensh
 
 </div>
 
-<div class="post" data-post-id="34419" data-author="Drule" data-date="2013-09-10T11:35:57+00:00">
+<div class="post" data-post-id="34419" data-author="Drule" data-date="2013-09-10T11:35:57+00:00" data-subject="Re: Basic Health/Move/Mana and Opponent Health Bars">
 
 ![](http://i44.tinypic.com/357ir8p.jpg)
 
@@ -72,7 +72,7 @@ I have since realized that OPPONENT_HEALTH seems to be percentage.. not sure why
 
 </div>
 
-<div class="post" data-post-id="34421" data-author="Drule" data-date="2013-09-10T12:02:01+00:00">
+<div class="post" data-post-id="34421" data-author="Drule" data-date="2013-09-10T12:02:01+00:00" data-subject="Re: Basic Health/Move/Mana and Opponent Health Bars">
 
 ![](http://i42.tinypic.com/15i4uix.jpg)
 
@@ -80,7 +80,7 @@ Here's the updatebars script in case that was confusing
 
 </div>
 
-<div class="post" data-post-id="34425" data-author="Akaya" data-date="2013-09-12T07:36:36+00:00">
+<div class="post" data-post-id="34425" data-author="Akaya" data-date="2013-09-12T07:36:36+00:00" data-subject="Re: Basic Health/Move/Mana and Opponent Health Bars">
 
 > **Drule wrote:**
 > If anyone knows how to make gauges fill the opposite way I would be interested in knowing your secret!

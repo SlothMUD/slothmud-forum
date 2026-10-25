@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8818" data-author="Harq" data-date="2005-09-25T04:40:15+00:00">
+<div class="post" data-post-id="8818" data-author="Harq" data-date="2005-09-25T04:40:15+00:00" data-subject="WTS: 3x18 Character">
 
 Harq  FOR SALE  (level: 36)
 

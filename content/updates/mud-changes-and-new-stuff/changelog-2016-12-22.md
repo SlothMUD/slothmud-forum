@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="37866" data-author="*teker*" data-date="2016-12-22T15:48:40+00:00">
+<div class="post" data-post-id="37866" data-author="*teker*" data-date="2016-12-22T15:48:40+00:00" data-subject="Changelog 2016-12-22">
 
 Breeze's adjustments to the gem upgrade rate should be in place.  I believe the change is beneficial to the players.
 
@@ -24,13 +24,13 @@ There were a bunch of additional internal changes that should not be visible at 
 
 </div>
 
-<div class="post" data-post-id="37867" data-author="*teker*" data-date="2016-12-22T19:12:55+00:00">
+<div class="post" data-post-id="37867" data-author="*teker*" data-date="2016-12-22T19:12:55+00:00" data-subject="Re: Changelog 2016-12-22">
 
 And I broke practice without any arguments.  It does work by class or spell name.  I've got a fix that I'll get in tomorrow to fix this issue.
 
 </div>
 
-<div class="post" data-post-id="37948" data-author="*Breeze*" data-date="2017-01-08T03:15:34+00:00">
+<div class="post" data-post-id="37948" data-author="*Breeze*" data-date="2017-01-08T03:15:34+00:00" data-subject="Changelog 2017-Jan-07">
 
 committed change to rebirth.   
 

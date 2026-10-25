@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30080" data-author="*Splork*" data-date="2009-10-03T23:56:27+00:00">
+<div class="post" data-post-id="30080" data-author="*Splork*" data-date="2009-10-03T23:56:27+00:00" data-subject="experience increases">
 
 Experience changes
 
@@ -26,7 +26,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32694" data-author="*Splork*" data-date="2011-06-23T15:53:42+00:00">
+<div class="post" data-post-id="32694" data-author="*Splork*" data-date="2011-06-23T15:53:42+00:00" data-subject="Re: experience increases">
 
 1) Solo exp increased slightly
 
@@ -48,7 +48,7 @@ Changes in next reboot
 
 </div>
 
-<div class="post" data-post-id="32871" data-author="*Splork*" data-date="2011-09-09T05:38:27+00:00">
+<div class="post" data-post-id="32871" data-author="*Splork*" data-date="2011-09-09T05:38:27+00:00" data-subject="Re: experience increases">
 
 * New extra day
 

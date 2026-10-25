@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="1963" data-author="Alexdmage" data-date="2004-09-16T10:02:31+00:00">
+<div class="post" data-post-id="1963" data-author="Alexdmage" data-date="2004-09-16T10:02:31+00:00" data-subject="Suggestions on some skills/spells">
 
 I was playing a Ma/Ne/Dr/Mo for a while and now i want to make some suggestions on this classes (mostly on druid). Just like Next in his topic on necros i will just bring up bunch of ideas on skills, that are not nearly overpowering but can be handy or just fun.
 
@@ -58,7 +58,7 @@ Feel free to criticize me :)
 
 </div>
 
-<div class="post" data-post-id="1964" data-author="Ender" data-date="2004-09-16T12:52:23+00:00">
+<div class="post" data-post-id="1964" data-author="Ender" data-date="2004-09-16T12:52:23+00:00" data-subject="Re: Suggestions on some skills/spells">
 
 3. It would be EXTREMALLY fun to make some of druid forms mountable (elephant? or even dragon?) Not that it will be very usefull, only fun :)[/quote:109cqtem]
 
@@ -102,7 +102,7 @@ Again, not sure where you're going with this, but basically sounds like you're t
 
 </div>
 
-<div class="post" data-post-id="1965" data-author="Alexdmage" data-date="2004-09-16T13:48:47+00:00">
+<div class="post" data-post-id="1965" data-author="Alexdmage" data-date="2004-09-16T13:48:47+00:00" data-subject="">
 
 About mounts:
 
@@ -120,7 +120,7 @@ And you are probably right about Hypnotize. I was thinking only about making mob
 
 </div>
 
-<div class="post" data-post-id="1966" data-author="Ender" data-date="2004-09-16T15:41:38+00:00">
+<div class="post" data-post-id="1966" data-author="Ender" data-date="2004-09-16T15:41:38+00:00" data-subject="">
 
 About mounts:
 
@@ -142,19 +142,19 @@ I concede.
 
 </div>
 
-<div class="post" data-post-id="1967" data-author="Alexdmage" data-date="2004-09-16T16:23:49+00:00">
+<div class="post" data-post-id="1967" data-author="Alexdmage" data-date="2004-09-16T16:23:49+00:00" data-subject="">
 
 Hehe, you are right. I haven't realized that a *mana potion* can be created that way :) Thought it would take some time to gather couple hundred corpses :P
 
 </div>
 
-<div class="post" data-post-id="1969" data-author="Ender" data-date="2004-09-16T17:16:10+00:00">
+<div class="post" data-post-id="1969" data-author="Ender" data-date="2004-09-16T17:16:10+00:00" data-subject="">
 
 Yes, it's impractical.  I can think of a couple situations I might try though.
 
 </div>
 
-<div class="post" data-post-id="1971" data-author="doug" data-date="2004-09-17T03:36:16+00:00">
+<div class="post" data-post-id="1971" data-author="doug" data-date="2004-09-17T03:36:16+00:00" data-subject="skills i would like to see">
 
 Thieves:
 
@@ -188,13 +188,13 @@ sleepy
 
 </div>
 
-<div class="post" data-post-id="1972" data-author="Leizu" data-date="2004-09-17T04:16:31+00:00">
+<div class="post" data-post-id="1972" data-author="Leizu" data-date="2004-09-17T04:16:31+00:00" data-subject="">
 
 Treants are not so bad. Yes, they almost don't do any dmg but still are good to save valuable undeads when you're soloing big mobs.
 
 </div>
 
-<div class="post" data-post-id="1973" data-author="Ender" data-date="2004-09-17T16:04:57+00:00">
+<div class="post" data-post-id="1973" data-author="Ender" data-date="2004-09-17T16:04:57+00:00" data-subject="">
 
 Actually, I've always found that kind of funny.  We have summon, gate, then nothing until relocate.
 
@@ -232,13 +232,13 @@ I tried thinking of a version necros could use... but they already have summon u
 
 </div>
 
-<div class="post" data-post-id="1974" data-author="blackmore" data-date="2004-09-17T17:59:18+00:00">
+<div class="post" data-post-id="1974" data-author="blackmore" data-date="2004-09-17T17:59:18+00:00" data-subject="">
 
 Bards have this spell already, but the intercontinental version is level 38 avatar.  It's actually a lloyds beacon that opens a 1-way portal.  I know it isn't really the same thing, but I thought I'd point out the a relatively similar (if less powerful) version of what you're suggesting is level 38 avatar.
 
 </div>
 
-<div class="post" data-post-id="1975" data-author="Ender" data-date="2004-09-17T20:47:09+00:00">
+<div class="post" data-post-id="1975" data-author="Ender" data-date="2004-09-17T20:47:09+00:00" data-subject="">
 
 Heh, figures.
 

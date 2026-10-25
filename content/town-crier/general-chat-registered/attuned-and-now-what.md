@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="12036" data-author="Mystery" data-date="2006-04-10T12:18:12+00:00">
+<div class="post" data-post-id="12036" data-author="Mystery" data-date="2006-04-10T12:18:12+00:00" data-subject="Attuned and now what?">
 
 Curious if anyone druid prime has noticed any difference from being attuned during the house of nature. Shyla helped me last night and I did a check before and after to see the results. 
 
@@ -38,7 +38,7 @@ post :twisted:
 
 </div>
 
-<div class="post" data-post-id="12038" data-author="Ditheca" data-date="2006-04-10T13:09:24+00:00">
+<div class="post" data-post-id="12038" data-author="Ditheca" data-date="2006-04-10T13:09:24+00:00" data-subject="">
 
 Could be wrong, but isn't attunement supposed to be done for a strata and not for a house?
 
@@ -48,7 +48,7 @@ When you attune to these you get very specific, usually very powerful benefits. 
 
 </div>
 
-<div class="post" data-post-id="12040" data-author="Liar" data-date="2006-04-10T13:28:28+00:00">
+<div class="post" data-post-id="12040" data-author="Liar" data-date="2006-04-10T13:28:28+00:00" data-subject="">
 
 I think attunement to shaping should not affect your way
 
@@ -80,7 +80,7 @@ can be attuned to shaping during that house.
 
 </div>
 
-<div class="post" data-post-id="12057" data-author="Rynquald" data-date="2006-04-10T21:57:48+00:00">
+<div class="post" data-post-id="12057" data-author="Rynquald" data-date="2006-04-10T21:57:48+00:00" data-subject="">
 
 It's not all about mana use, during the house of nature shift forms have more max hp from what I've observed.
 

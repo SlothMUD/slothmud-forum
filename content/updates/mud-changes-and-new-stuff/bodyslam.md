@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29691" data-author="*Splork*" data-date="2009-07-14T11:08:55+00:00">
+<div class="post" data-post-id="29691" data-author="*Splork*" data-date="2009-07-14T11:08:55+00:00" data-subject="bodyslam">
 
 Bodyslam has been fixed, the strength needed to use the maneuver was based on our old strength charts.
 

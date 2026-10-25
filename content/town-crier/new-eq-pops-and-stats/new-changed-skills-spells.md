@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="28938" data-author="Thraxas" data-date="2009-04-16T16:36:07+00:00">
+<div class="post" data-post-id="28938" data-author="Thraxas" data-date="2009-04-16T16:36:07+00:00" data-subject="New / changed Skills &amp; Spells">
 
 Now Ne level 40 only
 

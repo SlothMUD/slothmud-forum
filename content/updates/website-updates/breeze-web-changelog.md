@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="33146" data-author="*Breeze*" data-date="2012-02-01T23:29:34+00:00">
+<div class="post" data-post-id="33146" data-author="*Breeze*" data-date="2012-02-01T23:29:34+00:00" data-subject="Breeze Web Changelog">
 
 * Upgraded forum a week or 2 ago (forgot to post)
 
@@ -24,7 +24,7 @@ post_count: 5
 
 </div>
 
-<div class="post" data-post-id="33160" data-author="*Breeze*" data-date="2012-02-12T16:35:59+00:00">
+<div class="post" data-post-id="33160" data-author="*Breeze*" data-date="2012-02-12T16:35:59+00:00" data-subject="Breeze Web Changelog - 12 Feb 2012">
 
 ```
 Changes ::
@@ -34,7 +34,7 @@ Changes ::
 
 </div>
 
-<div class="post" data-post-id="33404" data-author="*Breeze*" data-date="2012-07-27T18:34:17+00:00">
+<div class="post" data-post-id="33404" data-author="*Breeze*" data-date="2012-07-27T18:34:17+00:00" data-subject="Re: Breeze Web Changelog">
 
 ```
 Changes ::
@@ -44,7 +44,7 @@ Changes ::
 
 </div>
 
-<div class="post" data-post-id="35944" data-author="*Breeze*" data-date="2015-06-09T10:03:49+00:00">
+<div class="post" data-post-id="35944" data-author="*Breeze*" data-date="2015-06-09T10:03:49+00:00" data-subject="Re: Breeze Web Changelog">
 
 ```
 WebCVS on the website is working once again. It was broken due to updates to the backend software.
@@ -55,7 +55,7 @@ http://www.slothmud.org/wp/live-info/webcvs
 
 </div>
 
-<div class="post" data-post-id="37767" data-author="*Breeze*" data-date="2016-12-10T10:57:11+00:00">
+<div class="post" data-post-id="37767" data-author="*Breeze*" data-date="2016-12-10T10:57:11+00:00" data-subject="Re: Breeze Web Changelog">
 
 fixed "Who is online" page to account for *josiah* and to fix mis-truncated player titles.
 

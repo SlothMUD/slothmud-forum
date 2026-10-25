@@ -10,7 +10,7 @@ locked: false
 post_count: 25
 ---
 
-<div class="post" data-post-id="39091" data-author="*Neptune*" data-date="2019-02-14T03:09:03+00:00">
+<div class="post" data-post-id="39091" data-author="*Neptune*" data-date="2019-02-14T03:09:03+00:00" data-subject="Area Opener">
 
 Greetings!
 
@@ -54,7 +54,7 @@ shall require the use of a sword or spell :)
 
 </div>
 
-<div class="post" data-post-id="39093" data-author="Josiah" data-date="2019-02-17T20:27:19+00:00">
+<div class="post" data-post-id="39093" data-author="Josiah" data-date="2019-02-17T20:27:19+00:00" data-subject="Re: Area Opener">
 
 Object 'ruby sceptre baator ice', Item type: LIGHT
 
@@ -346,7 +346,7 @@ crown twisted tongues 3x40 item 76648 coins head -0.9 ac -1 saving spells mana +
 
 </div>
 
-<div class="post" data-post-id="39094" data-author="*Idjit*" data-date="2019-02-17T20:27:31+00:00">
+<div class="post" data-post-id="39094" data-author="*Idjit*" data-date="2019-02-17T20:27:31+00:00" data-subject="Re: Area Opener">
 
 The counter for the secondary quest deadline is here:
 
@@ -358,7 +358,7 @@ Respectfully
 
 </div>
 
-<div class="post" data-post-id="39095" data-author="Josiah" data-date="2019-02-17T20:41:36+00:00">
+<div class="post" data-post-id="39095" data-author="Josiah" data-date="2019-02-17T20:41:36+00:00" data-subject="Re: Area Opener">
 
 Second quest:
 
@@ -372,7 +372,7 @@ Neptune gossips-- 'There are five cps to find throughout the 11 new zones'
 
 </div>
 
-<div class="post" data-post-id="39096" data-author="norks" data-date="2019-02-18T13:34:37+00:00">
+<div class="post" data-post-id="39096" data-author="norks" data-date="2019-02-18T13:34:37+00:00" data-subject="Re: Area Opener">
 
 You feel informed:
 
@@ -398,7 +398,7 @@ Pops on Devils, I think
 
 </div>
 
-<div class="post" data-post-id="39097" data-author="Werelord" data-date="2019-02-18T18:39:21+00:00">
+<div class="post" data-post-id="39097" data-author="Werelord" data-date="2019-02-18T18:39:21+00:00" data-subject="Re: Area Opener">
 
 You feel informed:
 
@@ -420,7 +420,7 @@ necromancers, or bards may use this item.
 
 </div>
 
-<div class="post" data-post-id="39098" data-author="Ezekiel" data-date="2019-02-19T08:30:56+00:00">
+<div class="post" data-post-id="39098" data-author="Ezekiel" data-date="2019-02-19T08:30:56+00:00" data-subject="Re: Area Opener">
 
 FOUND DA FORGES!!! Thanks to Padme, Swarv, and Cy for exploring area with meh last night!
 
@@ -656,7 +656,7 @@ North-west then up to room that seems it *might* be an epic spawning room.
 
 </div>
 
-<div class="post" data-post-id="39099" data-author="norks" data-date="2019-02-21T11:33:57+00:00">
+<div class="post" data-post-id="39099" data-author="norks" data-date="2019-02-21T11:33:57+00:00" data-subject="Re: Area Opener">
 
 You feel informed:
 
@@ -676,7 +676,7 @@ pops on Sekolah, the Devil Shark
 
 </div>
 
-<div class="post" data-post-id="39100" data-author="Driven" data-date="2019-02-21T15:55:06+00:00">
+<div class="post" data-post-id="39100" data-author="Driven" data-date="2019-02-21T15:55:06+00:00" data-subject="Re: Area Opener">
 
 Object 'gauntlets unholy might ice', Item type: ARMOR
 
@@ -716,7 +716,7 @@ Popped on Buer in Mala.
 
 </div>
 
-<div class="post" data-post-id="39101" data-author="Driven" data-date="2019-02-21T16:05:25+00:00">
+<div class="post" data-post-id="39101" data-author="Driven" data-date="2019-02-21T16:05:25+00:00" data-subject="Re: Area Opener">
 
 Object 'circlet striking hell', Item type: ARMOR
 
@@ -740,7 +740,7 @@ Popped on Lamia noble in city of Dis... I think.
 
 </div>
 
-<div class="post" data-post-id="39102" data-author="Driven" data-date="2019-02-21T16:07:52+00:00">
+<div class="post" data-post-id="39102" data-author="Driven" data-date="2019-02-21T16:07:52+00:00" data-subject="Re: Area Opener">
 
 You feel informed:
 
@@ -754,7 +754,7 @@ Popped on Erinye Sentinel in Avernus... I think.
 
 </div>
 
-<div class="post" data-post-id="39104" data-author="*Neptune*" data-date="2019-02-22T14:29:52+00:00">
+<div class="post" data-post-id="39104" data-author="*Neptune*" data-date="2019-02-22T14:29:52+00:00" data-subject="Re: Area Opener">
 
 Greetings
 
@@ -778,7 +778,7 @@ I hope that helps. Thanks.
 
 </div>
 
-<div class="post" data-post-id="39111" data-author="Gorka" data-date="2019-03-04T13:39:06+00:00">
+<div class="post" data-post-id="39111" data-author="Gorka" data-date="2019-03-04T13:39:06+00:00" data-subject="Re: Area Opener">
 
 I started work on the winterblade tonight by soloing Ivan. I eventually loaded 2 hilts and 2 blades. I took them to the gypsy blacksmith to forge into a Raven's Fires only to find the forge proc is broken. Checked logs from my last Raven's Fire forge and definitely think something is broken as "forge fire" worked then. Forge now appears to forge the hilt cp which is a cp used in the forge... (a recursive forge) rather than the raven's fire. 
 
@@ -786,7 +786,7 @@ Info is just so people know for now. Will chase an imm (Nep) in game and post wh
 
 </div>
 
-<div class="post" data-post-id="39115" data-author="*Neptune*" data-date="2019-03-05T00:25:53+00:00">
+<div class="post" data-post-id="39115" data-author="*Neptune*" data-date="2019-03-05T00:25:53+00:00" data-subject="Re: Area Opener">
 
 Fixed the typo in the Raven's Fire forge. 
 
@@ -798,7 +798,7 @@ Hope that helps.
 
 </div>
 
-<div class="post" data-post-id="39126" data-author="Gorka" data-date="2019-03-10T23:17:35+00:00">
+<div class="post" data-post-id="39126" data-author="Gorka" data-date="2019-03-10T23:17:35+00:00" data-subject="Re: Area Opener">
 
 Neptune did you mod Executioner's Pupils in Prison by any chance for the Winterblade Forge? 135 kills now and nothing. Wealth and Glory seems to suggest the item still pops. I'm nearing that point where I am a bit suspicious... most things in sloth pop within 100 kills.
 
@@ -806,7 +806,7 @@ EDIT: Beware Maniac may have identified some issues last night that may mean the
 
 </div>
 
-<div class="post" data-post-id="39132" data-author="*teker*" data-date="2019-03-13T19:55:57+00:00">
+<div class="post" data-post-id="39132" data-author="*teker*" data-date="2019-03-13T19:55:57+00:00" data-subject="Re: Area Opener">
 
 I posted in the changelog thread that the algorithm has been changed for mobs that pop in multiple rooms that should "fix" this problem.  I put fix in quotes because there was an obscure way a player could beat the algorithm and get the pop you're looking for but it'd be hard to figure it out without access to the code.
 
@@ -814,7 +814,7 @@ It should be straightforward now.
 
 </div>
 
-<div class="post" data-post-id="39133" data-author="Gorka" data-date="2019-03-14T08:22:56+00:00">
+<div class="post" data-post-id="39133" data-author="Gorka" data-date="2019-03-14T08:22:56+00:00" data-subject="Re: Area Opener">
 
 You get a torturing tool from the corpse of an executioner's pupil that's on the ground.
 
@@ -828,7 +828,7 @@ On a side note, I believe Waza has forged the Winterblade now. I am just the rod
 
 </div>
 
-<div class="post" data-post-id="39134" data-author="Gorka" data-date="2019-03-17T13:30:06+00:00">
+<div class="post" data-post-id="39134" data-author="Gorka" data-date="2019-03-17T13:30:06+00:00" data-subject="Re: Area Opener">
 
 So I forged the seal clasp for the winterblade...
 
@@ -882,7 +882,7 @@ this item.
 
 </div>
 
-<div class="post" data-post-id="39145" data-author="Gorka" data-date="2019-04-01T22:06:18+00:00">
+<div class="post" data-post-id="39145" data-author="Gorka" data-date="2019-04-01T22:06:18+00:00" data-subject="Re: Area Opener">
 
 Finally finished the Winterblade and clasp tonight... A bit more info... Cryonax loads in Frost Giant / Ancient Darkness / Winterwolf.
 
@@ -896,19 +896,19 @@ Thanks to Nep for the design and areas.
 
 </div>
 
-<div class="post" data-post-id="39166" data-author="Gorka" data-date="2019-04-14T22:03:48+00:00">
+<div class="post" data-post-id="39166" data-author="Gorka" data-date="2019-04-14T22:03:48+00:00" data-subject="Re: Area Opener">
 
 I'm looking for the key to get to Arioch in City of Dis, if someone knows what that is from the opener quest. I've tried most of the keys that pop on EU in the eqlist. A couple more to try tomorrow.
 
 </div>
 
-<div class="post" data-post-id="39167" data-author="Driven" data-date="2019-04-15T12:13:35+00:00">
+<div class="post" data-post-id="39167" data-author="Driven" data-date="2019-04-15T12:13:35+00:00" data-subject="Re: Area Opener">
 
 I know every time we killed him, we either ambushed Arioch directly or we ambushed a watcher, and everyone else shadowwalked in.  In other words,  don't think anyone found the key.
 
 </div>
 
-<div class="post" data-post-id="39168" data-author="Gorka" data-date="2019-04-15T12:26:32+00:00">
+<div class="post" data-post-id="39168" data-author="Gorka" data-date="2019-04-15T12:26:32+00:00" data-subject="Re: Area Opener">
 
 Roga found this in his logs...
 
@@ -916,7 +916,7 @@ A gigantic key fashioned from stone bears the insigna of the archdevil. { ennui 
 
 </div>
 
-<div class="post" data-post-id="39179" data-author="Gorka" data-date="2019-04-26T08:54:52+00:00">
+<div class="post" data-post-id="39179" data-author="Gorka" data-date="2019-04-26T08:54:52+00:00" data-subject="New EU Areas">
 
 I have spoken with Neptune and come up with an agreed mapping format which I have used to produce maps for all of the new areas recently added to EU. Neptune has fairly high standards (so I found out), which I think is ultimately good for the game - and I think that shows in his area design. Draft maps I will make available in the next few days, so any small detail can be corrected, before my final submission of all 12 maps. Creating maps is far more work than you'd expect. I've spent a good part of 5-7 days doing this. The work of the first day is almost completely wasted due to the learning curve of figuring out how to do things better. I am no graphical artist like Zaq, but new maps will be easy to read and functional. In fact I remember someone commenting about the drachma Zaq received for creating the original EU maps, and he said that it wasn't worth the drachma... something I now perfectly understand.
 
@@ -932,7 +932,7 @@ Tomorrow before the quest I may lead a few hours there - just the non chop mobs 
 
 </div>
 
-<div class="post" data-post-id="39180" data-author="Gorka" data-date="2019-04-26T13:44:58+00:00">
+<div class="post" data-post-id="39180" data-author="Gorka" data-date="2019-04-26T13:44:58+00:00" data-subject="New EU Areas">
 
 Phlegethos
 
@@ -986,7 +986,7 @@ They are only drafts, map fixes and resolution will be improved for finals.
 
 </div>
 
-<div class="post" data-post-id="39187" data-author="Gorka" data-date="2019-05-04T15:48:32+00:00">
+<div class="post" data-post-id="39187" data-author="Gorka" data-date="2019-05-04T15:48:32+00:00" data-subject="New EU Maps">
 
 Ok Draft EU Maps are all up. Let me know any mistakes before publishing.
 

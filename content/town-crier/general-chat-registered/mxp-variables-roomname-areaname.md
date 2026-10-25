@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="31834" data-author="Thraxas" data-date="2010-10-07T11:51:24+00:00">
+<div class="post" data-post-id="31834" data-author="Thraxas" data-date="2010-10-07T11:51:24+00:00" data-subject="mxp Variables RoomName AreaName">
 
 Did we ever get the mxp Variables RoomName AreaName working?
 
@@ -22,7 +22,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31868" data-author="Thraxas" data-date="2010-10-14T16:35:27+00:00">
+<div class="post" data-post-id="31868" data-author="Thraxas" data-date="2010-10-14T16:35:27+00:00" data-subject="Re: mxp Variables RoomName AreaName">
 
 > **Thraxas wrote:**
 > Did we ever get the mxp Variables RoomName AreaName working?
@@ -43,7 +43,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31869" data-author="*Isabo*" data-date="2010-10-14T20:17:36+00:00">
+<div class="post" data-post-id="31869" data-author="*Isabo*" data-date="2010-10-14T20:17:36+00:00" data-subject="Re: mxp Variables RoomName AreaName">
 
 Good day, dark necromancer.
 
@@ -59,7 +59,7 @@ Pd. Readt your post and was going to answer the day you posted it, but for some 
 
 </div>
 
-<div class="post" data-post-id="31872" data-author="Thraxas" data-date="2010-10-14T20:49:31+00:00">
+<div class="post" data-post-id="31872" data-author="Thraxas" data-date="2010-10-14T20:49:31+00:00" data-subject="Re: mxp Variables RoomName AreaName">
 
 > ***Isabo* wrote:**
 > Good day, dark necromancer.

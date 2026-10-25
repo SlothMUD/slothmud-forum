@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="34163" data-author="Nyx" data-date="2013-03-18T02:29:19+00:00">
+<div class="post" data-post-id="34163" data-author="Nyx" data-date="2013-03-18T02:29:19+00:00" data-subject="Updated Temp EQ stats">
 
 Hi all,
 
@@ -114,7 +114,7 @@ at least three classes may use this item.
 
 </div>
 
-<div class="post" data-post-id="34165" data-author="Tuck" data-date="2013-03-20T05:06:08+00:00">
+<div class="post" data-post-id="34165" data-author="Tuck" data-date="2013-03-20T05:06:08+00:00" data-subject="Re: Updated Temp EQ stats">
 
 Thanks for posting new stats.
 
@@ -122,7 +122,7 @@ Thanks for posting new stats.
 
 </div>
 
-<div class="post" data-post-id="34168" data-author="Burl" data-date="2013-03-20T20:37:01+00:00">
+<div class="post" data-post-id="34168" data-author="Burl" data-date="2013-03-20T20:37:01+00:00" data-subject="Re: Updated Temp EQ stats">
 
 **Red Satin Boots**
 
@@ -146,7 +146,7 @@ this item.
 
 </div>
 
-<div class="post" data-post-id="34169" data-author="Burl" data-date="2013-03-21T16:47:09+00:00">
+<div class="post" data-post-id="34169" data-author="Burl" data-date="2013-03-21T16:47:09+00:00" data-subject="Re: Updated Temp EQ stats">
 
 **Great Black Pearl**
 
@@ -168,7 +168,7 @@ item.
 
 </div>
 
-<div class="post" data-post-id="34171" data-author="Nyx" data-date="2013-03-23T03:51:46+00:00">
+<div class="post" data-post-id="34171" data-author="Nyx" data-date="2013-03-23T03:51:46+00:00" data-subject="Re: Updated Temp EQ stats">
 
 **Snow Leopard Boots**
 

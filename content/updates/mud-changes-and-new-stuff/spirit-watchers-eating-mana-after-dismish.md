@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31870" data-author="*Isabo*" data-date="2010-10-14T20:22:01+00:00">
+<div class="post" data-post-id="31870" data-author="*Isabo*" data-date="2010-10-14T20:22:01+00:00" data-subject="Spirit watchers eating mana after dismish">
 
 Greeting mortals.
 

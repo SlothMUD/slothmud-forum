@@ -10,7 +10,7 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="29787" data-author="*Breeze*" data-date="2009-08-08T01:20:55+00:00">
+<div class="post" data-post-id="29787" data-author="*Breeze*" data-date="2009-08-08T01:20:55+00:00" data-subject=".: Website Changes :.">
 
 The Dynamic World Map has been skinned to match the rest of the website.
 
@@ -18,7 +18,7 @@ The EQ List and Maproom are in the process of being redone also. (read as, if yo
 
 </div>
 
-<div class="post" data-post-id="29788" data-author="Rigwarl" data-date="2009-08-08T03:47:14+00:00">
+<div class="post" data-post-id="29788" data-author="Rigwarl" data-date="2009-08-08T03:47:14+00:00" data-subject="">
 
 I am glad they are being updated, however i have a small request.
 
@@ -32,7 +32,7 @@ What happened :)
 
 </div>
 
-<div class="post" data-post-id="29789" data-author="*Breeze*" data-date="2009-08-08T09:41:37+00:00">
+<div class="post" data-post-id="29789" data-author="*Breeze*" data-date="2009-08-08T09:41:37+00:00" data-subject="">
 
 I am glad they are being updated, however i have a small request.
 
@@ -50,7 +50,7 @@ link me to the gwhere script and will see if it can be updated (otherwise i sear
 
 </div>
 
-<div class="post" data-post-id="29790" data-author="Rigwarl" data-date="2009-08-08T12:44:43+00:00">
+<div class="post" data-post-id="29790" data-author="Rigwarl" data-date="2009-08-08T12:44:43+00:00" data-subject="">
 
 Here's the code I'm using
 
@@ -70,13 +70,13 @@ Here's the code I'm using
 
 </div>
 
-<div class="post" data-post-id="29791" data-author="Jag" data-date="2009-08-08T18:25:24+00:00">
+<div class="post" data-post-id="29791" data-author="Jag" data-date="2009-08-08T18:25:24+00:00" data-subject="">
 
 Very Cool.  I use the website a lot and appreciate your working on it.
 
 </div>
 
-<div class="post" data-post-id="29793" data-author="*Breeze*" data-date="2009-08-10T00:08:09+00:00">
+<div class="post" data-post-id="29793" data-author="*Breeze*" data-date="2009-08-10T00:08:09+00:00" data-subject="">
 
 Very Cool.  I use the website a lot and appreciate your working on it.[/quote:2es0nntg]
 
@@ -88,7 +88,7 @@ Not a problem :) I enjoy it.
 
 </div>
 
-<div class="post" data-post-id="29794" data-author="Rigwarl" data-date="2009-08-11T18:45:12+00:00">
+<div class="post" data-post-id="29794" data-author="Rigwarl" data-date="2009-08-11T18:45:12+00:00" data-subject="">
 
 It's been mislabeled for a while but the cartography section incorrectly shows 2 maps.
 
@@ -98,7 +98,7 @@ Mercurial woods map [AH] leads to a map of Murkwood [SS] and vice versa.
 
 </div>
 
-<div class="post" data-post-id="29797" data-author="*Breeze*" data-date="2009-08-12T20:34:25+00:00">
+<div class="post" data-post-id="29797" data-author="*Breeze*" data-date="2009-08-12T20:34:25+00:00" data-subject="">
 
 It's been mislabeled for a while but the cartography section incorrectly shows 2 maps.
 
@@ -110,7 +110,7 @@ Fixed! thanks :)
 
 </div>
 
-<div class="post" data-post-id="29837" data-author="*Breeze*" data-date="2009-08-16T11:51:24+00:00">
+<div class="post" data-post-id="29837" data-author="*Breeze*" data-date="2009-08-16T11:51:24+00:00" data-subject="">
 
 Modified :)
 
@@ -132,7 +132,7 @@ Modified :)
 
 </div>
 
-<div class="post" data-post-id="31591" data-author="*Breeze*" data-date="2010-08-25T13:21:04+00:00">
+<div class="post" data-post-id="31591" data-author="*Breeze*" data-date="2010-08-25T13:21:04+00:00" data-subject="Re: .: Website Changes :.">
 
 This is old-ish, but I don't think I posted it anywhere..
 
@@ -150,13 +150,13 @@ turns this feature off.
 
 </div>
 
-<div class="post" data-post-id="31946" data-author="*Breeze*" data-date="2010-10-30T13:04:33+00:00">
+<div class="post" data-post-id="31946" data-author="*Breeze*" data-date="2010-10-30T13:04:33+00:00" data-subject=".: Website Changes :.">
 
 upgraded forum. let me know if you see any odd behaviour
 
 </div>
 
-<div class="post" data-post-id="32983" data-author="*Breeze*" data-date="2011-11-15T20:38:00+00:00">
+<div class="post" data-post-id="32983" data-author="*Breeze*" data-date="2011-11-15T20:38:00+00:00" data-subject="Re: .: Website Changes :.">
 
 New link on left side menu: WebCVS
 
@@ -168,7 +168,7 @@ week.
 
 </div>
 
-<div class="post" data-post-id="33086" data-author="*Breeze*" data-date="2011-12-12T14:50:08+00:00">
+<div class="post" data-post-id="33086" data-author="*Breeze*" data-date="2011-12-12T14:50:08+00:00" data-subject="New Mount &#x27;An Mystica Map">
 
 New map submitted by Alris
 
@@ -176,13 +176,13 @@ New map submitted by Alris
 
 </div>
 
-<div class="post" data-post-id="33087" data-author="Slowdraw" data-date="2011-12-12T16:08:28+00:00">
+<div class="post" data-post-id="33087" data-author="Slowdraw" data-date="2011-12-12T16:08:28+00:00" data-subject="Re: .: Website Changes :.">
 
 Hmm. This seems like as suitable places as any, so I guess I'll post it here. I found a couple of nonfunctional website links. The big one is that the MUSHclient plugin on the menu tree doesn't find the file and redirects to the site map. The other one is on the site map. Both the eqlist link in the equipment information section and the find book or manual link in the class abilities section try to link to [http://www.slothmud.org/www.slothmud.org/eqlist/](http://www.slothmud.org/www.slothmud.org/eqlist/) instead of [http://www.slothmud.org/index.php?module=EQList](http://www.slothmud.org/index.php?module=EQList) and end up redirecting back to the site map.
 
 </div>
 
-<div class="post" data-post-id="33089" data-author="*Breeze*" data-date="2011-12-12T17:43:07+00:00">
+<div class="post" data-post-id="33089" data-author="*Breeze*" data-date="2011-12-12T17:43:07+00:00" data-subject="Re: .: Website Changes :.">
 
 > **Slowdraw wrote:**
 > Hmm. This seems like as suitable places as any, so I guess I'll post it here. I found a couple of nonfunctional website links. The big one is that the MUSHclient plugin on the menu tree doesn't find the file and redirects to the site map. The other one is on the site map. Both the eqlist link in the equipment information section and the find book or manual link in the class abilities section try to link to [http://www.slothmud.org/www.slothmud.org/eqlist/](http://www.slothmud.org/www.slothmud.org/eqlist/) instead of [http://www.slothmud.org/index.php?module=EQList](http://www.slothmud.org/index.php?module=EQList) and end up redirecting back to the site map.

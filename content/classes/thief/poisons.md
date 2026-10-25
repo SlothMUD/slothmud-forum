@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="389" data-author="Shadis" data-date="2004-05-28T12:27:03+00:00">
+<div class="post" data-post-id="389" data-author="Shadis" data-date="2004-05-28T12:27:03+00:00" data-subject="Poisons">
 
 Well its just not a thief section without me posting
 
@@ -56,7 +56,7 @@ Just an idea
 
 </div>
 
-<div class="post" data-post-id="949" data-author="Ender" data-date="2004-07-06T20:17:24+00:00">
+<div class="post" data-post-id="949" data-author="Ender" data-date="2004-07-06T20:17:24+00:00" data-subject="Brews">
 
 I think the major reason no one wants to brew poisons is because of the cost involved for a couple of doses.  If brewed poisons were significantly stronger, or even had the possibility to a one hit kill, they might be more attractive.
 
@@ -68,7 +68,7 @@ If all that's too complicated, perhaps you could just increase the numbers of ap
 
 </div>
 
-<div class="post" data-post-id="3557" data-author="Methyx" data-date="2004-12-28T04:01:26+00:00">
+<div class="post" data-post-id="3557" data-author="Methyx" data-date="2004-12-28T04:01:26+00:00" data-subject="">
 
 Being limited on mana, I find myself looking more closely at adding new poisons to my attack strategy.  I am particularly interested in the Macedon and Spirit Seeker poisons.
 
@@ -88,13 +88,13 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="3561" data-author="Alberich" data-date="2004-12-28T12:00:28+00:00">
+<div class="post" data-post-id="3561" data-author="Alberich" data-date="2004-12-28T12:00:28+00:00" data-subject="">
 
 i would not be able to solo well at all with my th/ma without poisons - at +13 dam, +23 stabdam, with poisons, I can splork 2 mil+ mobs - take away the iocaines, and what i can splork on stab drops to at most around 500-600k mobs... so basically, by not being cheap, and willing to spend a few k gold, I can do around 10-11mils xp solo at low tri40 (and could do at 2x40, for that matter) as supposed to around 3-4mils xp solo.. i do think it is moderatly ridiculous how high the failed apply rate is, and having a prime ability that can damage you sucks, but for me at least, the benefits so far outweigh the costs i would not consider doing it any other way.
 
 </div>
 
-<div class="post" data-post-id="3562" data-author="12345" data-date="2004-12-28T13:34:40+00:00">
+<div class="post" data-post-id="3562" data-author="12345" data-date="2004-12-28T13:34:40+00:00" data-subject="">
 
 Considering the rate I go through iocaine, and the number of times I see 'You think it looks right.', poison myself or double whiff, I'm not convinced that the other poisons are worth the cycling time unless I was trying to forge a scarab of destruction.
 
@@ -102,7 +102,7 @@ As for iocaine, as a 2x40 running +13 damage, I wouldn't consider running withou
 
 </div>
 
-<div class="post" data-post-id="3563" data-author="Deju" data-date="2004-12-28T14:24:33+00:00">
+<div class="post" data-post-id="3563" data-author="Deju" data-date="2004-12-28T14:24:33+00:00" data-subject="">
 
 As a thief prime, I can say that i feel that using iocaine is pretty much the only way to solo, even though i feel that a prime skill that REQUIRES that you spend gold is annoying.
 
@@ -114,7 +114,7 @@ Of course, thats just my opinion.  I could be wrong.
 
 </div>
 
-<div class="post" data-post-id="3565" data-author="Medios" data-date="2004-12-28T20:22:59+00:00">
+<div class="post" data-post-id="3565" data-author="Medios" data-date="2004-12-28T20:22:59+00:00" data-subject="">
 
 I use iocaine every time I stab.  The extra damage it does keeps me from getting hit or having to use mana.  The 5k cost isnt a factor since I can kill several more mobs and recoup the coins.  The brewed poisons I tested and do not use.  Spending time to collect components, brew, and fail to apply 3-4 times for one good application isnt worth the time or effort.  Spirit Seeker is really more of a pain than anything, I can usually get 2 winds off on an ether mob before it attacks, or i can brew the poison and get the silly proc and maybe one wind if im lucky.  The concentrated iocaine is pretty cool but a pain to brew.  The other poisons as someone else mentioned arent worth messing with to get a blind, or silence a mob.  Most mobs that cast have procs that silence doesnt affect anyways.  
 
@@ -124,7 +124,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="3566" data-author="Methyx" data-date="2004-12-29T00:26:45+00:00">
+<div class="post" data-post-id="3566" data-author="Methyx" data-date="2004-12-29T00:26:45+00:00" data-subject="">
 
 It looks like I'll just have to focus on getting up to the 2x40 mark so I can hound some better eq, get a better stabber, work on increasing my total dam bonus (+11 is pretty lousy for a Thief Prime I hear), and keep plenty of Iocain handy :)
 
@@ -136,7 +136,7 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="27632" data-author="Teron" data-date="2009-01-05T17:29:53+00:00">
+<div class="post" data-post-id="27632" data-author="Teron" data-date="2009-01-05T17:29:53+00:00" data-subject="">
 
 Has anyone since 2004 used poisons, other than iocaine, for stabs?
 
@@ -148,7 +148,7 @@ I still haven't figured out what other poisons do, I guess I should brew them.
 
 </div>
 
-<div class="post" data-post-id="27639" data-author="Rynquald" data-date="2009-01-05T22:58:59+00:00">
+<div class="post" data-post-id="27639" data-author="Rynquald" data-date="2009-01-05T22:58:59+00:00" data-subject="">
 
 I carry and use a small assortment of poisons on Chrome.
 
@@ -164,7 +164,7 @@ Of course spiritseeker is laughably useless.
 
 </div>
 
-<div class="post" data-post-id="27641" data-author="Autolycos" data-date="2009-01-05T23:50:29+00:00">
+<div class="post" data-post-id="27641" data-author="Autolycos" data-date="2009-01-05T23:50:29+00:00" data-subject="">
 
 I carry and use a small assortment of poisons on Chrome..[/quote:5wxxiwc6]
 
@@ -176,7 +176,7 @@ Indeed... almost as useless as Brad  :)
 
 </div>
 
-<div class="post" data-post-id="27645" data-author="Rynquald" data-date="2009-01-06T01:39:05+00:00">
+<div class="post" data-post-id="27645" data-author="Rynquald" data-date="2009-01-06T01:39:05+00:00" data-subject="">
 
 as do i, well rounded bag of tricks Wink[/quote:25u6kq5g]
 
@@ -184,7 +184,7 @@ Exactly, what's a thief to do without trickery? :)
 
 </div>
 
-<div class="post" data-post-id="27668" data-author="Teron" data-date="2009-01-08T07:57:51+00:00">
+<div class="post" data-post-id="27668" data-author="Teron" data-date="2009-01-08T07:57:51+00:00" data-subject="">
 
 A few days ago I tried Spirit Seeker on a ghost maid: got her to qaf.
 
@@ -198,7 +198,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="27669" data-author="Rynquald" data-date="2009-01-08T08:52:30+00:00">
+<div class="post" data-post-id="27669" data-author="Rynquald" data-date="2009-01-08T08:52:30+00:00" data-subject="">
 
 I've used spiritseeker on a couple of good group-sized ethers and taken them to scratches. I'm more inclined to believe that you just get a generic damage proc.
 
@@ -206,7 +206,7 @@ Also, obtaining poisons takes pretty much no effort at all, as long as you know 
 
 </div>
 
-<div class="post" data-post-id="27670" data-author="Teron" data-date="2009-01-08T13:48:52+00:00">
+<div class="post" data-post-id="27670" data-author="Teron" data-date="2009-01-08T13:48:52+00:00" data-subject="">
 
 There are 5 brewed poisons, 3-5 cps for each, which means you might as well be carrying 20-30 items before brewing a single poison. 
 
@@ -216,7 +216,7 @@ And yes, I vaguely remembered stabbing flamewraith to scratches :) Unfortunately
 
 </div>
 
-<div class="post" data-post-id="27671" data-author="Rynquald" data-date="2009-01-08T23:15:47+00:00">
+<div class="post" data-post-id="27671" data-author="Rynquald" data-date="2009-01-08T23:15:47+00:00" data-subject="">
 
 Yeah, the eternal no-space problem :)
 
@@ -224,7 +224,7 @@ I wouldn't bet much on this, but if I recall right, no poison other than spirits
 
 </div>
 
-<div class="post" data-post-id="27672" data-author="Autolycos" data-date="2009-01-09T04:38:13+00:00">
+<div class="post" data-post-id="27672" data-author="Autolycos" data-date="2009-01-09T04:38:13+00:00" data-subject="">
 
 the Assassin's dagger used to proc during passes on ether mobs out of random accident..
 
@@ -232,7 +232,7 @@ of course.. they fixed this feature  ;)
 
 </div>
 
-<div class="post" data-post-id="28425" data-author="Teron" data-date="2009-03-08T08:01:36+00:00">
+<div class="post" data-post-id="28425" data-author="Teron" data-date="2009-03-08T08:01:36+00:00" data-subject="">
 
 Anyone knows who pops ground pepper for macedon?
 

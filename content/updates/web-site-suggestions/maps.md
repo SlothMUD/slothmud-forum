@@ -10,19 +10,19 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="25277" data-author="sirrico" data-date="2008-07-06T14:17:58+00:00">
+<div class="post" data-post-id="25277" data-author="sirrico" data-date="2008-07-06T14:17:58+00:00" data-subject="maps">
 
 maps of sloth world would be nice for old timers who are returning and new ppl who are just starting  :D
 
 </div>
 
-<div class="post" data-post-id="25280" data-author="*juggleblood*" data-date="2008-07-06T20:34:43+00:00">
+<div class="post" data-post-id="25280" data-author="*juggleblood*" data-date="2008-07-06T20:34:43+00:00" data-subject="">
 
 erm, yeah. That is nice that maps are available on the webpage. It's a frequently cited compliment about Sloth. Under Cartography.
 
 </div>
 
-<div class="post" data-post-id="25285" data-author="firebrand" data-date="2008-07-07T14:28:21+00:00">
+<div class="post" data-post-id="25285" data-author="firebrand" data-date="2008-07-07T14:28:21+00:00" data-subject="">
 
 not everyone who reads this forum/browses this site is american.  perhaps they do not know that the word 'cartography' refers to maps and mapmaking/reading.  perhaps if we simply changed the label from cartography to 'maps' there would be less confusion.  
 
@@ -30,7 +30,7 @@ not everyone who reads this forum/browses this site is american.  perhaps they d
 
 </div>
 
-<div class="post" data-post-id="25286" data-author="Tap" data-date="2008-07-07T15:15:09+00:00">
+<div class="post" data-post-id="25286" data-author="Tap" data-date="2008-07-07T15:15:09+00:00" data-subject="taps">
 
 Good idea
 
@@ -38,13 +38,13 @@ Good idea
 
 </div>
 
-<div class="post" data-post-id="25288" data-author="Leaf" data-date="2008-07-07T18:27:39+00:00">
+<div class="post" data-post-id="25288" data-author="Leaf" data-date="2008-07-07T18:27:39+00:00" data-subject="">
 
 Good at what???
 
 </div>
 
-<div class="post" data-post-id="25289" data-author="*juggleblood*" data-date="2008-07-07T20:26:05+00:00">
+<div class="post" data-post-id="25289" data-author="*juggleblood*" data-date="2008-07-07T20:26:05+00:00" data-subject="">
 
 Maybe it would help if we offered the website in Jive.
 
@@ -80,7 +80,7 @@ Site Map - Lists tha most important pages on this website.
 
 </div>
 
-<div class="post" data-post-id="25291" data-author="Tap" data-date="2008-07-07T21:16:30+00:00">
+<div class="post" data-post-id="25291" data-author="Tap" data-date="2008-07-07T21:16:30+00:00" data-subject="Recommend editing">
 
 [quote:2m84ov9d] 7,100 pieces of equipment, charms, trinkets n brotha items,[/quote:2m84ov9d]
 
@@ -90,7 +90,7 @@ this could be summed up by
 
 </div>
 
-<div class="post" data-post-id="25293" data-author="Rynquald" data-date="2008-07-07T22:05:02+00:00">
+<div class="post" data-post-id="25293" data-author="Rynquald" data-date="2008-07-07T22:05:02+00:00" data-subject="">
 
 > **"Firebrand wrote:**
 > not everyone who reads this forum/browses this site is american.
@@ -99,7 +99,7 @@ Although they do presumably speak english.
 
 </div>
 
-<div class="post" data-post-id="25294" data-author="jezer" data-date="2008-07-07T23:47:16+00:00">
+<div class="post" data-post-id="25294" data-author="jezer" data-date="2008-07-07T23:47:16+00:00" data-subject="">
 
 Maybe he was American...
 
@@ -107,7 +107,7 @@ Maybe he was American...
 
 </div>
 
-<div class="post" data-post-id="25295" data-author="Tap" data-date="2008-07-07T23:59:05+00:00">
+<div class="post" data-post-id="25295" data-author="Tap" data-date="2008-07-07T23:59:05+00:00" data-subject="">
 
 Ok, this thread already took a sharp turn in the other direction..and on that note..I hereby declare this thread null and void!!!! 
 
@@ -115,7 +115,7 @@ Ok, this thread already took a sharp turn in the other direction..and on that no
 
 </div>
 
-<div class="post" data-post-id="25302" data-author="firebrand" data-date="2008-07-08T14:30:26+00:00">
+<div class="post" data-post-id="25302" data-author="firebrand" data-date="2008-07-08T14:30:26+00:00" data-subject="">
 
 > **Rynquald wrote:**
 > > **"Firebrand wrote:**
@@ -137,7 +137,7 @@ Although they do presumably speak english.[/quote:1s2k0edt]
 
 </div>
 
-<div class="post" data-post-id="25303" data-author="firebrand" data-date="2008-07-08T14:36:45+00:00">
+<div class="post" data-post-id="25303" data-author="firebrand" data-date="2008-07-08T14:36:45+00:00" data-subject="">
 
 > **Rynquald wrote:**
 > > **"Firebrand wrote:**
@@ -159,7 +159,7 @@ Although they do presumably speak english.[/quote:14kd6wsx]
 
 </div>
 
-<div class="post" data-post-id="25304" data-author="Tap" data-date="2008-07-08T14:42:16+00:00">
+<div class="post" data-post-id="25304" data-author="Tap" data-date="2008-07-08T14:42:16+00:00" data-subject="faps">
 
 It's terrible two's day and yoiu must post twice!!!
 
@@ -167,7 +167,7 @@ It's terrible two's day and yoiu must post twice!!!
 
 </div>
 
-<div class="post" data-post-id="25306" data-author="Tap" data-date="2008-07-08T14:43:32+00:00">
+<div class="post" data-post-id="25306" data-author="Tap" data-date="2008-07-08T14:43:32+00:00" data-subject="faps">
 
 It's terrible two's day and you must post twice!!!
 
@@ -175,7 +175,7 @@ It's terrible two's day and you must post twice!!!
 
 </div>
 
-<div class="post" data-post-id="25307" data-author="firebrand" data-date="2008-07-08T14:44:42+00:00">
+<div class="post" data-post-id="25307" data-author="firebrand" data-date="2008-07-08T14:44:42+00:00" data-subject="">
 
 krap.  how the hell did that happen?  i blame microsoft
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37384" data-author="Hung" data-date="2016-10-03T00:39:07+00:00">
+<div class="post" data-post-id="37384" data-author="Hung" data-date="2016-10-03T00:39:07+00:00" data-subject="Found some gear at xanth">
 
 It was lying on the ground and includes gilded corset or crimson and gold. PM me in forum, or mudmail(use Diogenes as it is unlikely I'll log to other chars) and name other items to reclaim it.
 

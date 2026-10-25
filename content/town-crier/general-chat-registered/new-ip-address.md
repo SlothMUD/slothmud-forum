@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36693" data-author="*Splork*" data-date="2016-03-03T00:58:42+00:00">
+<div class="post" data-post-id="36693" data-author="*Splork*" data-date="2016-03-03T00:58:42+00:00" data-subject="New Ip Address">
 
 Please use the following address until DNS updates:
 

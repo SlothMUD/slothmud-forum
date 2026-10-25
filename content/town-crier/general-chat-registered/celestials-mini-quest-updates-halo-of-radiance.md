@@ -10,7 +10,7 @@ locked: true
 post_count: 5
 ---
 
-<div class="post" data-post-id="18198" data-author="Akasha" data-date="2007-04-27T06:20:59+00:00">
+<div class="post" data-post-id="18198" data-author="Akasha" data-date="2007-04-27T06:20:59+00:00" data-subject="Celestials Mini Quest Updates - Halo of Radiance">
 
 Around 3:00 system time, the Lyrran Priestess announced the awakening of the first relic, and that her scrying had revealed it was in the southern hemisphere, south of Valkyrie.  She was unable to discern anything more on its location, but concerned adventurers went on the hunt for the celestial relics.  Yinao found that the Dark Angel in Hades had possession of the Celestial Halo of Radiance, and a large group assembled to recover it.  Despite assistance from a legion of lemures and the demon, Nalfeshnee, the angel was defeated and the relic recovered.  The adventurers were treated to this sight:
 
@@ -32,7 +32,7 @@ More to come as quest continues...[/quote:u8jhanr7]
 
 </div>
 
-<div class="post" data-post-id="18199" data-author="Akasha" data-date="2007-04-27T06:22:04+00:00">
+<div class="post" data-post-id="18199" data-author="Akasha" data-date="2007-04-27T06:22:04+00:00" data-subject="Celesitials minis updates - Helm of the Dragon">
 
 After informing the Priestess of the relic's recovery, she informed the world that another relic had returned, in a place of great darkness, and that some great force was preventing her attempts to scry on it.  Despite limited information again, Atwell found the next in the Shadow Realm.  Several legions of lemures and an immense dracolich guarded Rystoniden and his Celestial Helm of the Dragon.
 
@@ -82,7 +82,7 @@ writeup to continue as more relics appear...dun dun dun[/quote:3dtv6yxm]
 
 </div>
 
-<div class="post" data-post-id="18200" data-author="Akasha" data-date="2007-04-27T06:23:04+00:00">
+<div class="post" data-post-id="18200" data-author="Akasha" data-date="2007-04-27T06:23:04+00:00" data-subject="Celesitials minis updates - Gauntlets of the Forger">
 
 At about 8pm system time, the Lyrran Priestess announced the arrival of the next relic, somewhere deep underground.  After much searching, Atwell and Yinao found a much souped up Balor Demon...and lost their hp.  Whatever...lives are expendable when you've got high-powered clerics on your side.  This was fortunate since the balor demon smashed the large group of adventurers several times over and made the rest flee wildly around the matterhorn with its proc.  Sadly despite the extreme effort required for its death, it popped only a heavy iron ring.
 
@@ -96,7 +96,7 @@ Mortals now wait anxiously for word of the next relic's return...[/quote:1gjext1
 
 </div>
 
-<div class="post" data-post-id="18205" data-author="Akasha" data-date="2007-04-27T06:31:24+00:00">
+<div class="post" data-post-id="18205" data-author="Akasha" data-date="2007-04-27T06:31:24+00:00" data-subject="Celesitials minis updates - Ribbons of Peace">
 
 The Lyrran Priestess once again informed the world of an appearing relic:
 
@@ -140,7 +140,7 @@ The Lyrran Priestess quests-- ' the gods save the relic if no "true heroes" are 
 
 </div>
 
-<div class="post" data-post-id="18206" data-author="Akasha" data-date="2007-04-27T06:42:40+00:00">
+<div class="post" data-post-id="18206" data-author="Akasha" data-date="2007-04-27T06:42:40+00:00" data-subject="The Relics So Far">
 
 These pieces of god-forged armor have been thoroughly documented over the centuries. They are known as the Celestial Relics, this is but a brief summary: 
 

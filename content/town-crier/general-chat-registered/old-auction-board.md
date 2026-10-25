@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="3414" data-author="Riurik" data-date="2004-12-18T17:20:17+00:00">
+<div class="post" data-post-id="3414" data-author="Riurik" data-date="2004-12-18T17:20:17+00:00" data-subject="Old auction board">
 
 Anyone aghree with me that they would rather have the old auction board back. It is not like anonymity was that that much of an issue in auction threads (although it was a problem at times), but the emporium is unbelievably hard to track large auctions in, plus what should be 2 screens of informations becomes 6.
 
@@ -22,13 +22,13 @@ Riuirik
 
 </div>
 
-<div class="post" data-post-id="3422" data-author="Alberich" data-date="2004-12-19T02:46:31+00:00">
+<div class="post" data-post-id="3422" data-author="Alberich" data-date="2004-12-19T02:46:31+00:00" data-subject="">
 
 personally, I much prefer the block to old auction page, and emporium is good for advertising you need something, but imho, if you try to use it to sell stuff instead of chopping block, you deserve the headaches :P
 
 </div>
 
-<div class="post" data-post-id="3423" data-author="Truip" data-date="2004-12-19T02:50:18+00:00">
+<div class="post" data-post-id="3423" data-author="Truip" data-date="2004-12-19T02:50:18+00:00" data-subject="">
 
 I agree with Alberich. While at first it seems like a pain to get used to, it works great once you do.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32177" data-author="Tuck" data-date="2010-12-18T15:58:40+00:00">
+<div class="post" data-post-id="32177" data-author="Tuck" data-date="2010-12-18T15:58:40+00:00" data-subject="battleshift problems">
 
 Battleshift failed 4 times. Someone please look into this, fix this maybe?
 

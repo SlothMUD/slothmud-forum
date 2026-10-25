@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="35702" data-author="Hunter" data-date="2015-02-22T03:33:00+00:00">
+<div class="post" data-post-id="35702" data-author="Hunter" data-date="2015-02-22T03:33:00+00:00" data-subject="New Items Added!">
 
 Some new items have been added to the game.  In addition, half of the previous items I added have not been identified.  I'm including hints for the 4 existing ones plus 8 new ones.
 
@@ -40,13 +40,13 @@ Some new items have been added to the game.  In addition, half of the previous i
 
 </div>
 
-<div class="post" data-post-id="35786" data-author="Hung" data-date="2015-04-01T16:15:50+00:00">
+<div class="post" data-post-id="35786" data-author="Hung" data-date="2015-04-01T16:15:50+00:00" data-subject="Re: New Items Added!">
 
 8 is purple guest in Chaeston. He pops liturgical book, held low +2manaregen +1 charisma. Nice bard item. Thanks, War!
 
 </div>
 
-<div class="post" data-post-id="35789" data-author="Teron" data-date="2015-04-01T19:03:16+00:00">
+<div class="post" data-post-id="35789" data-author="Teron" data-date="2015-04-01T19:03:16+00:00" data-subject="Re: New Items Added!">
 
 7. is the burly glassblower in Fireworks. Pops a +hit +7hp light.
 
@@ -54,7 +54,7 @@ War also discovered 12, which is the luck dragon in Kuo-Toan, pops +5hp shiftabl
 
 </div>
 
-<div class="post" data-post-id="35793" data-author="Hung" data-date="2015-04-06T04:34:57+00:00">
+<div class="post" data-post-id="35793" data-author="Hung" data-date="2015-04-06T04:34:57+00:00" data-subject="Re: New Items Added!">
 
 1. is Forana on Clipper. She loads a braided band of gold.
 
@@ -76,13 +76,13 @@ Only those who are at least supreme bards may use this item.
 
 </div>
 
-<div class="post" data-post-id="35795" data-author="Hung" data-date="2015-04-06T20:47:25+00:00">
+<div class="post" data-post-id="35795" data-author="Hung" data-date="2015-04-06T20:47:25+00:00" data-subject="Re: New Items Added!">
 
 Dear Hunter, can you tell us how are new items spread on continents?
 
 </div>
 
-<div class="post" data-post-id="35796" data-author="Hung" data-date="2015-04-07T13:58:03+00:00">
+<div class="post" data-post-id="35796" data-author="Hung" data-date="2015-04-07T13:58:03+00:00" data-subject="Re: New Items Added!">
 
 11 is  Lieutenant Forst at Diabolan Valley Encampment. He loads golden link belt:
 
@@ -102,7 +102,7 @@ Only those who are at least supreme monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="35797" data-author="Hung" data-date="2015-04-07T19:07:40+00:00">
+<div class="post" data-post-id="35797" data-author="Hung" data-date="2015-04-07T19:07:40+00:00" data-subject="Re: New Items Added!">
 
 9 is Weaponsmith at Diabolan Valley Encampment. He loads bronze galea:
 
@@ -124,7 +124,7 @@ Only those who are at least supreme monks may use this item.
 
 </div>
 
-<div class="post" data-post-id="35798" data-author="Hung" data-date="2015-04-07T20:08:03+00:00">
+<div class="post" data-post-id="35798" data-author="Hung" data-date="2015-04-07T20:08:03+00:00" data-subject="Re: New Items Added!">
 
 2 is gnome guardian at the UD entrance. He pops hemp hewn sandals:
 
@@ -146,7 +146,7 @@ Five items left
 
 </div>
 
-<div class="post" data-post-id="35800" data-author="Hung" data-date="2015-04-08T23:06:56+00:00">
+<div class="post" data-post-id="35800" data-author="Hung" data-date="2015-04-08T23:06:56+00:00" data-subject="Re: New Items Added!">
 
 Some guesses for yet undiscovered items:
 
@@ -164,7 +164,7 @@ Thanks everyone for help.
 
 </div>
 
-<div class="post" data-post-id="35802" data-author="Hung" data-date="2015-04-09T16:40:38+00:00">
+<div class="post" data-post-id="35802" data-author="Hung" data-date="2015-04-09T16:40:38+00:00" data-subject="Re: New Items Added!">
 
 10 is gelugon in Ravenloft. He pops black candle:
 
@@ -188,7 +188,7 @@ Only those who are at least supreme necromancers may use this item.
 
 </div>
 
-<div class="post" data-post-id="35803" data-author="Hung" data-date="2015-04-09T17:01:47+00:00">
+<div class="post" data-post-id="35803" data-author="Hung" data-date="2015-04-09T17:01:47+00:00" data-subject="Re: New Items Added!">
 
 5 is kuo-toan council member as Kuo-Toan Hamlet. She pops a braided scarlet belt:
 
@@ -210,7 +210,7 @@ Only those who are at least experienced bards may use this item.
 
 </div>
 
-<div class="post" data-post-id="35809" data-author="Hung" data-date="2015-04-14T01:16:43+00:00">
+<div class="post" data-post-id="35809" data-author="Hung" data-date="2015-04-14T01:16:43+00:00" data-subject="Re: New Items Added!">
 
 6 is Astaras at Karasa. He loads black satin shoes:
 

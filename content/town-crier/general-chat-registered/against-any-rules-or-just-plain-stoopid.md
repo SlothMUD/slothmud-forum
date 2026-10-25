@@ -10,7 +10,7 @@ locked: false
 post_count: 43
 ---
 
-<div class="post" data-post-id="21001" data-author="Static" data-date="2007-10-24T05:21:19+00:00">
+<div class="post" data-post-id="21001" data-author="Static" data-date="2007-10-24T05:21:19+00:00" data-subject="Against Any RULES ? or just plain stoopid">
 
 <455/457Hp 79/161Ma 184/184Mv 8193863EXP +10al>
 
@@ -308,7 +308,7 @@ You tell Adagio 'im gonna report to imms'
 
 </div>
 
-<div class="post" data-post-id="21003" data-author="Tap" data-date="2007-10-24T10:19:16+00:00">
+<div class="post" data-post-id="21003" data-author="Tap" data-date="2007-10-24T10:19:16+00:00" data-subject="">
 
 There are two sides to every story. Careful manipulation of copy-paste might lead one to think one way, when in reality, it was something else entirely. I,myself, who have chosen to make this thread about me, can rest assure you that I am, in fact, subject of the same censorshippingism. Oh, the Imm's don't normally interfere in mortal matters.
 
@@ -318,7 +318,7 @@ Happy Humpday [That's Wednesday for the non-informed]
 
 </div>
 
-<div class="post" data-post-id="21004" data-author="Jag" data-date="2007-10-24T12:34:56+00:00">
+<div class="post" data-post-id="21004" data-author="Jag" data-date="2007-10-24T12:34:56+00:00" data-subject="">
 
 Stupid is taking action without really knowing the situation.  
 
@@ -340,7 +340,7 @@ When this crap happens, it best to talk the other party and give it a day to get
 
 </div>
 
-<div class="post" data-post-id="21005" data-author="Autolycos" data-date="2007-10-24T12:37:06+00:00">
+<div class="post" data-post-id="21005" data-author="Autolycos" data-date="2007-10-24T12:37:06+00:00" data-subject="">
 
 hell i do that to random people for fun...  or i'll just pkill you and leave you for dead.. either way i still get my fun..
 
@@ -348,7 +348,7 @@ hell i do that to random people for fun...  or i'll just pkill you and leave you
 
 </div>
 
-<div class="post" data-post-id="21011" data-author="resouh" data-date="2007-10-24T15:41:50+00:00">
+<div class="post" data-post-id="21011" data-author="resouh" data-date="2007-10-24T15:41:50+00:00" data-subject="">
 
 [quote:1jtnjhcg]... or i'll just pkill you and leave you for dead.. [/quote:1jtnjhcg]
 
@@ -358,13 +358,13 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="21014" data-author="13" data-date="2007-10-24T17:35:03+00:00">
+<div class="post" data-post-id="21014" data-author="13" data-date="2007-10-24T17:35:03+00:00" data-subject="">
 
 I guess newbatia is the friendliest continent after all.
 
 </div>
 
-<div class="post" data-post-id="21015" data-author="Trajan" data-date="2007-10-24T18:05:07+00:00">
+<div class="post" data-post-id="21015" data-author="Trajan" data-date="2007-10-24T18:05:07+00:00" data-subject="Was cycling mob to get the shovel for the autoquest.">
 
 My apologies for recalling Static.  Perhaps the wandering young punks in the autumnal forest near the fortune hunter should have been a sign that someone was cycling said fortune hunter.  Now thanks to someones inquiry my password has been locked out.
 
@@ -372,7 +372,7 @@ Trajan
 
 </div>
 
-<div class="post" data-post-id="21016" data-author="Autolycos" data-date="2007-10-24T18:23:28+00:00">
+<div class="post" data-post-id="21016" data-author="Autolycos" data-date="2007-10-24T18:23:28+00:00" data-subject="">
 
 Quit lying auto....u've always raised me after pkilling me in town.  Resouh[/quote:3d2so7he]
 
@@ -384,7 +384,7 @@ muahahahahahahaha   :twisted:
 
 </div>
 
-<div class="post" data-post-id="21018" data-author="Mosaix" data-date="2007-10-24T20:02:54+00:00">
+<div class="post" data-post-id="21018" data-author="Mosaix" data-date="2007-10-24T20:02:54+00:00" data-subject="">
 
 You cant be serious.  
 
@@ -394,7 +394,7 @@ If it is that simple, thats really dissapointing.  Is it any wonder sloth is in 
 
 </div>
 
-<div class="post" data-post-id="21021" data-author="13" data-date="2007-10-24T20:19:33+00:00">
+<div class="post" data-post-id="21021" data-author="13" data-date="2007-10-24T20:19:33+00:00" data-subject="">
 
 well anywhere but VK i would probably agree
 
@@ -410,25 +410,25 @@ i may have rerolled them tho
 
 </div>
 
-<div class="post" data-post-id="21022" data-author="Jag" data-date="2007-10-24T20:25:15+00:00">
+<div class="post" data-post-id="21022" data-author="Jag" data-date="2007-10-24T20:25:15+00:00" data-subject="">
 
 Plocked over a first time recall?  I bet there is more to the story.  Much much worse has been done with no action.
 
 </div>
 
-<div class="post" data-post-id="21023" data-author="Medios" data-date="2007-10-24T20:32:04+00:00">
+<div class="post" data-post-id="21023" data-author="Medios" data-date="2007-10-24T20:32:04+00:00" data-subject="">
 
 It really depends on the Immortal involved with the problem.  When the same thing happened to my newb I just resorted to threatening the guy.  This will make you feel better but does not do much good.  The only response I got was that if I retaliate then I will be in trouble.  So the story sounds fishy to me.  There is no punishment for recalling someone.  It seems fairly petty to me.
 
 </div>
 
-<div class="post" data-post-id="21024" data-author="Trajan" data-date="2007-10-24T20:39:56+00:00">
+<div class="post" data-post-id="21024" data-author="Trajan" data-date="2007-10-24T20:39:56+00:00" data-subject="">
 
 Accepted 5 prime level loss to get character back. Henchforth bloody piles of mob corpses shall mark my presence.
 
 </div>
 
-<div class="post" data-post-id="21028" data-author="Weasel" data-date="2007-10-24T21:21:31+00:00">
+<div class="post" data-post-id="21028" data-author="Weasel" data-date="2007-10-24T21:21:31+00:00" data-subject="">
 
 seriously must be more to it..
 
@@ -436,7 +436,7 @@ but glad nobody leaving over it.
 
 </div>
 
-<div class="post" data-post-id="21033" data-author="Tap" data-date="2007-10-24T21:53:18+00:00">
+<div class="post" data-post-id="21033" data-author="Tap" data-date="2007-10-24T21:53:18+00:00" data-subject="">
 
 Let dead dogs lie already. I hate it when you guys go on and on. If you people could let all parties involved hash things out without all the innuendo, it would be a better all around.
 
@@ -446,7 +446,7 @@ How do you know it was a real newbie and why wasn't this addressed? The same tre
 
 </div>
 
-<div class="post" data-post-id="21034" data-author="Twig" data-date="2007-10-24T21:56:26+00:00">
+<div class="post" data-post-id="21034" data-author="Twig" data-date="2007-10-24T21:56:26+00:00" data-subject="">
 
 Plocked for a recall?   Loss of 5 levels?   The story doesn't justify it.
 
@@ -456,13 +456,13 @@ I think a newbie who's trying to steal seeker as a solo should know better than 
 
 </div>
 
-<div class="post" data-post-id="21035" data-author="Weasel" data-date="2007-10-24T21:57:59+00:00">
+<div class="post" data-post-id="21035" data-author="Weasel" data-date="2007-10-24T21:57:59+00:00" data-subject="">
 
 @ Jayde - seer loaded a shield for me :) yay!
 
 </div>
 
-<div class="post" data-post-id="21036" data-author="brady" data-date="2007-10-24T22:13:29+00:00">
+<div class="post" data-post-id="21036" data-author="brady" data-date="2007-10-24T22:13:29+00:00" data-subject="">
 
 @ Jayde - seer loaded a shield for me :) yay![/quote:3o07vt4d]
 
@@ -470,7 +470,7 @@ Just in time for winter!  That makes a lovely sled.
 
 </div>
 
-<div class="post" data-post-id="21037" data-author="Autolycos" data-date="2007-10-24T22:41:11+00:00">
+<div class="post" data-post-id="21037" data-author="Autolycos" data-date="2007-10-24T22:41:11+00:00" data-subject="">
 
 Just in time for winter!  That makes a lovely sled.[/quote:3s0xkxlc]
 
@@ -480,7 +480,7 @@ it'll match nicely with his tin-foil hat
 
 </div>
 
-<div class="post" data-post-id="21038" data-author="13" data-date="2007-10-24T23:48:49+00:00">
+<div class="post" data-post-id="21038" data-author="13" data-date="2007-10-24T23:48:49+00:00" data-subject="">
 
 [quote:33turu7q]The same treatment was given to Fyrstenheart, unfairly I might add,[/quote:33turu7q]
 
@@ -498,7 +498,7 @@ Where ever you are..here's a big FU CK YOU from the DoW swine.
 
 </div>
 
-<div class="post" data-post-id="21039" data-author="resouh" data-date="2007-10-25T01:16:22+00:00">
+<div class="post" data-post-id="21039" data-author="resouh" data-date="2007-10-25T01:16:22+00:00" data-subject="">
 
 [quote:iyuc28mh]stfu resouh.... 
 
@@ -512,13 +512,13 @@ resouh
 
 </div>
 
-<div class="post" data-post-id="21041" data-author="Tap" data-date="2007-10-25T01:35:30+00:00">
+<div class="post" data-post-id="21041" data-author="Tap" data-date="2007-10-25T01:35:30+00:00" data-subject="">
 
 Ok 13, I almost took the bait but realizing what an attention whore you are, I decided to overlook your many faults. However, with regards to Fyrst, you sir, are full of bunk. You and your clique of hog lovers decided that Fyrst needed killing since he didn't take any of your crap. You think you can bully around and to a small extent you get away with it. However, your reputation(s) precede you from your ingame and crier attitudes/responses that shows how silly and insecure you really are. Shame. Oh, feel free to swear more, maybe one day when you older than 14, you'll hopefully realize how immature it makes you.
 
 </div>
 
-<div class="post" data-post-id="21044" data-author="alias" data-date="2007-10-25T02:52:25+00:00">
+<div class="post" data-post-id="21044" data-author="alias" data-date="2007-10-25T02:52:25+00:00" data-subject="">
 
 Wtb shovel.
 
@@ -526,7 +526,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="21045" data-author="Autolycos" data-date="2007-10-25T03:39:46+00:00">
+<div class="post" data-post-id="21045" data-author="Autolycos" data-date="2007-10-25T03:39:46+00:00" data-subject="">
 
 As much as I'm playing lately feel free to corpse me, not worried about level loss.....but when the baby pops out in another 4 months w/ an eyepatch I'm kicking ur arse!!  resouh[/quote:hwwc7e1q]
 
@@ -534,7 +534,7 @@ muahahahahaha, she's had a little of the cap'n in her. *cackle*  :twisted:
 
 </div>
 
-<div class="post" data-post-id="21046" data-author="firebrand" data-date="2007-10-25T03:40:36+00:00">
+<div class="post" data-post-id="21046" data-author="firebrand" data-date="2007-10-25T03:40:36+00:00" data-subject="">
 
 Quit lying auto....u've always raised me after pkilling me in town.  Resouh[/quote:ybygy5t1]
 
@@ -550,7 +550,7 @@ auto, you lyin pirate!  you always shag his woman as he lies there bleeding to d
 
 </div>
 
-<div class="post" data-post-id="21047" data-author="Static" data-date="2007-10-25T03:47:09+00:00">
+<div class="post" data-post-id="21047" data-author="Static" data-date="2007-10-25T03:47:09+00:00" data-subject="">
 
 Anyhow guys, this topic has gone long enough.
 
@@ -602,13 +602,13 @@ Finally, my apologies to Imm staffs, Trajan and the people of Sloth for any inco
 
 </div>
 
-<div class="post" data-post-id="21048" data-author="Yinao" data-date="2007-10-25T05:52:48+00:00">
+<div class="post" data-post-id="21048" data-author="Yinao" data-date="2007-10-25T05:52:48+00:00" data-subject="">
 
 *applaud* Good thing bc I just ran out of popcorn.
 
 </div>
 
-<div class="post" data-post-id="21049" data-author="Tap" data-date="2007-10-25T10:17:14+00:00">
+<div class="post" data-post-id="21049" data-author="Tap" data-date="2007-10-25T10:17:14+00:00" data-subject="">
 
 [quote:9o1vjnah]For me, I would have expected
 
@@ -644,7 +644,7 @@ I remember when people were fussing over who got to kill fat constable when he's
 
 </div>
 
-<div class="post" data-post-id="21050" data-author="Autolycos" data-date="2007-10-25T12:27:27+00:00">
+<div class="post" data-post-id="21050" data-author="Autolycos" data-date="2007-10-25T12:27:27+00:00" data-subject="">
 
 But thats because you have been here long enough to joke around with each other as a token of friendship.
 
@@ -656,7 +656,7 @@ i aint jokin around,  i am gonna shag resouh's woman!!!  :x
 
 </div>
 
-<div class="post" data-post-id="21051" data-author="13" data-date="2007-10-25T14:57:00+00:00">
+<div class="post" data-post-id="21051" data-author="13" data-date="2007-10-25T14:57:00+00:00" data-subject="">
 
 Tap you're 100% wrong, I don't know where you get your information, but they lied.   As for swearing, that's just how I roll with my limited intelligence
 
@@ -680,7 +680,7 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="21052" data-author="resouh" data-date="2007-10-25T15:14:53+00:00">
+<div class="post" data-post-id="21052" data-author="resouh" data-date="2007-10-25T15:14:53+00:00" data-subject="">
 
 [quote:12ezdpdr]are you kidding? 
 
@@ -694,7 +694,7 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="21053" data-author="Autolycos" data-date="2007-10-25T16:01:54+00:00">
+<div class="post" data-post-id="21053" data-author="Autolycos" data-date="2007-10-25T16:01:54+00:00" data-subject="">
 
 All talk there mr. Pirate, we all hung out for a good 2-3 hours over in Indy and the most you went for from the lady was a hug.  Now I appreciate it, if you were just being polite because of me, but I really think you are just one big (well slightly skinny) teddy bear.  :)
 
@@ -708,7 +708,7 @@ we all know Todd is the teddy bear  :wink:
 
 </div>
 
-<div class="post" data-post-id="21054" data-author="Yinao" data-date="2007-10-25T18:22:48+00:00">
+<div class="post" data-post-id="21054" data-author="Yinao" data-date="2007-10-25T18:22:48+00:00" data-subject="">
 
 Better watch it Resouh I found him in one of these meetings before.
 
@@ -716,7 +716,7 @@ Better watch it Resouh I found him in one of these meetings before.
 
 </div>
 
-<div class="post" data-post-id="21055" data-author="resouh" data-date="2007-10-25T18:44:47+00:00">
+<div class="post" data-post-id="21055" data-author="resouh" data-date="2007-10-25T18:44:47+00:00" data-subject="">
 
 nods Todd is the teddy bear, I will amend my last comment towards you auto, I've never heard of a teddy bear using language anywhere near as vulgar as you can spout at a moments notice.
 
@@ -726,7 +726,7 @@ resouh
 
 </div>
 
-<div class="post" data-post-id="21056" data-author="mahkra" data-date="2007-10-25T18:55:44+00:00">
+<div class="post" data-post-id="21056" data-author="mahkra" data-date="2007-10-25T18:55:44+00:00" data-subject="">
 
 I always thought the rules were pretty clear on this kind of stuff. At least they used to be.
 
@@ -740,13 +740,13 @@ Seems like the imms took a pretty standard action in this case.
 
 </div>
 
-<div class="post" data-post-id="21057" data-author="Yinao" data-date="2007-10-25T18:56:35+00:00">
+<div class="post" data-post-id="21057" data-author="Yinao" data-date="2007-10-25T18:56:35+00:00" data-subject="">
 
 *Snicker* That was Auto with a pre-shag with your woman   :shock:
 
 </div>
 
-<div class="post" data-post-id="21058" data-author="resouh" data-date="2007-10-25T19:06:44+00:00">
+<div class="post" data-post-id="21058" data-author="resouh" data-date="2007-10-25T19:06:44+00:00" data-subject="">
 
 So you're saying Auto looks like a white '80's michael jackson?
 
@@ -756,13 +756,13 @@ resouh
 
 </div>
 
-<div class="post" data-post-id="21060" data-author="Yinao" data-date="2007-10-25T19:31:18+00:00">
+<div class="post" data-post-id="21060" data-author="Yinao" data-date="2007-10-25T19:31:18+00:00" data-subject="">
 
 Truth hurts throw a pirate cap on him and a hook with a side of a peg leg and you got yourself a pirate  :twisted:
 
 </div>
 
-<div class="post" data-post-id="21062" data-author="Avatar" data-date="2007-10-25T20:50:34+00:00">
+<div class="post" data-post-id="21062" data-author="Avatar" data-date="2007-10-25T20:50:34+00:00" data-subject="Incident">
 
 Regarding this incident, the standard action is for Imms to do what they think needs to be done.  If you want more information, ask one of the imms.  It's clear that the whole story isn't posted here, and I bet that it won't be.  
 
@@ -770,13 +770,13 @@ In the end, it turns out that Sloth is a game where you play with other people o
 
 </div>
 
-<div class="post" data-post-id="21063" data-author="Weasel" data-date="2007-10-25T21:02:46+00:00">
+<div class="post" data-post-id="21063" data-author="Weasel" data-date="2007-10-25T21:02:46+00:00" data-subject="">
 
 nice summation Avatar :)
 
 </div>
 
-<div class="post" data-post-id="21084" data-author="*Krom*" data-date="2007-10-26T03:38:59+00:00">
+<div class="post" data-post-id="21084" data-author="*Krom*" data-date="2007-10-26T03:38:59+00:00" data-subject="">
 
 I was not personally involved, but I think Mahkra and Avatar pretty much captured the reasoning behind the punishment.  I would like to emphasize that I think 95% of these types of incidents can be resolved peacefully if both players keep their cool and talk.  I dont understand what would make a person lose their cool and either go off on someone else or take action to disrupt their play without discussion.
 
@@ -784,13 +784,13 @@ Take a minute, ask nicely, and if that doesnt work consider some other action.  
 
 </div>
 
-<div class="post" data-post-id="21087" data-author="13" data-date="2007-10-26T04:11:34+00:00">
+<div class="post" data-post-id="21087" data-author="13" data-date="2007-10-26T04:11:34+00:00" data-subject="">
 
 did you just coin a new phrase erik?
 
 </div>
 
-<div class="post" data-post-id="21088" data-author="Weasel" data-date="2007-10-26T04:58:39+00:00">
+<div class="post" data-post-id="21088" data-author="Weasel" data-date="2007-10-26T04:58:39+00:00" data-subject="">
 
 In the real world, if things dont go your way, you dont get far by going off on someone,  trying to kill them, run them off the road, or whatever.[/quote:1purjci2]
 

@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="25866" data-author="sirrico1" data-date="2008-08-22T18:06:05+00:00">
+<div class="post" data-post-id="25866" data-author="sirrico1" data-date="2008-08-22T18:06:05+00:00" data-subject="WTB avatar">
 
 let me know if you have an avatar for sale msg me ingame or here ty
 
 </div>
 
-<div class="post" data-post-id="26591" data-author="sirrico1" data-date="2008-10-07T22:10:34+00:00">
+<div class="post" data-post-id="26591" data-author="sirrico1" data-date="2008-10-07T22:10:34+00:00" data-subject="Re: WTB avatar">
 
 let me know if you have an avatar for sale msg me ingame or here ty[/quote:1pc2whqi]
 

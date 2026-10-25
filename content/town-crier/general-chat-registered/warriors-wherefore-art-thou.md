@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="31683" data-author="Thraxas" data-date="2010-09-02T13:41:24+00:00">
+<div class="post" data-post-id="31683" data-author="Thraxas" data-date="2010-09-02T13:41:24+00:00" data-subject="Warriors  - wherefore art thou?">
 
 Theres been a whole raft of changes mooted on the crier recently, some by imms as serious suggestions for us to comment on, some pie in the sky wouldnt it be *nice ifs *by players with vested interest and bias towards their own character and playstyle, some fantastic easy to implement suggestions that I would never have thought of but are so obvious once pointed out, this is fantactic, the level of engagement by both players and imms here is truely amazing and impressive.
 
@@ -26,13 +26,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="31684" data-author="Dragoth" data-date="2010-09-02T14:26:44+00:00">
+<div class="post" data-post-id="31684" data-author="Dragoth" data-date="2010-09-02T14:26:44+00:00" data-subject="Re: Warriors  - wherefore art thou?">
 
 Make monks and druids viable tanks, as per other topic.
 
 </div>
 
-<div class="post" data-post-id="31685" data-author="Shyla" data-date="2010-09-02T14:40:46+00:00">
+<div class="post" data-post-id="31685" data-author="Shyla" data-date="2010-09-02T14:40:46+00:00" data-subject="Re: Warriors  - wherefore art thou?">
 
 On a smiliar note I have said it before and i will say it again.  THis protection system SUCKS!!!!!!
 
@@ -48,13 +48,13 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="31686" data-author="Dragoth" data-date="2010-09-02T15:01:07+00:00">
+<div class="post" data-post-id="31686" data-author="Dragoth" data-date="2010-09-02T15:01:07+00:00" data-subject="Re: Warriors  - wherefore art thou?">
 
 You make some valid points but why rant when you dont offer a solution Shyla ? Propose something to fix this predicament and i am sure immortals will listen.
 
 </div>
 
-<div class="post" data-post-id="31689" data-author="jezer" data-date="2010-09-02T19:38:37+00:00">
+<div class="post" data-post-id="31689" data-author="jezer" data-date="2010-09-02T19:38:37+00:00" data-subject="Re: Warriors  - wherefore art thou?">
 
 *write back*
 
@@ -66,7 +66,7 @@ You write back.
 
 </div>
 
-<div class="post" data-post-id="31690" data-author="Thraxas" data-date="2010-09-02T22:08:56+00:00">
+<div class="post" data-post-id="31690" data-author="Thraxas" data-date="2010-09-02T22:08:56+00:00" data-subject="Re: Warriors  - wherefore art thou?">
 
 e.g.
 
@@ -106,31 +106,31 @@ T
 
 </div>
 
-<div class="post" data-post-id="31691" data-author="blackmore" data-date="2010-09-02T23:46:59+00:00">
+<div class="post" data-post-id="31691" data-author="blackmore" data-date="2010-09-02T23:46:59+00:00" data-subject="Re: Warriors  - wherefore art thou?">
 
 Just curious, but were there any monk or druid primes on that could have taken over tanking?  I'm not sure that a monk prime can't be at least a functional tank right now (I don't know about anyone else), but you need to find someone that's going to get tank gear (dam reduce, ac and hps), knowing they would only use them if they wanted to group but no wa prime was available.  I wouldn't put the effort in just to be an emergency backup.
 
 </div>
 
-<div class="post" data-post-id="31692" data-author="jezer" data-date="2010-09-03T01:40:25+00:00">
+<div class="post" data-post-id="31692" data-author="jezer" data-date="2010-09-03T01:40:25+00:00" data-subject="Re: Warriors  - wherefore art thou?">
 
 After being a druid and being treated as a cleric, now I play like a monk and they want me to be a warrior?  :roll:
 
 </div>
 
-<div class="post" data-post-id="31704" data-author="Dragoth" data-date="2010-09-04T09:44:08+00:00">
+<div class="post" data-post-id="31704" data-author="Dragoth" data-date="2010-09-04T09:44:08+00:00" data-subject="Re: Warriors  - wherefore art thou?">
 
 wouldnt it be nice to have different styles of tanking though ? Warriors tank through ac and parry. Monks tank through damage reduction and dodge and druids use whatever the forms give them ?
 
 </div>
 
-<div class="post" data-post-id="31718" data-author="Roadrunr" data-date="2010-09-06T21:37:24+00:00">
+<div class="post" data-post-id="31718" data-author="Roadrunr" data-date="2010-09-06T21:37:24+00:00" data-subject="Re: Warriors  - wherefore art thou?">
 
 here's an idea...rather than making druids or monks more powerful by making them tank-worthy, how about making warrior a class thats worth playing again.  Just sayin...if people aren't playing WA, there's probably a reason (solo xp capabilities of other classes maybe?)
 
 </div>
 
-<div class="post" data-post-id="31728" data-author="Dragoth" data-date="2010-09-07T06:43:44+00:00">
+<div class="post" data-post-id="31728" data-author="Dragoth" data-date="2010-09-07T06:43:44+00:00" data-subject="Re: Warriors  - wherefore art thou?">
 
 There are plenty of warriors around, but very few of them have a good tank gear, DSfren is probably the best tank around now, but he just chooses to solo or run small groups most of the time for some reasons. Stun and Jex are also worthy tanks who prefer to solo and Wronsky needs some levels and EQ. You cant just become a group tank overnight, it takes time, so Katie is pretty much all we have at the moment . And there is absolutely nothing wrong with a warrior, one of the best classes in game currently.
 

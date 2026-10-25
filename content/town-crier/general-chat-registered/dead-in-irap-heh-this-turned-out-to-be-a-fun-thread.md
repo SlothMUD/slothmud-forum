@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="14616" data-author="Popa" data-date="2006-10-12T21:50:02+00:00">
+<div class="post" data-post-id="14616" data-author="Popa" data-date="2006-10-12T21:50:02+00:00" data-subject="dead in irap- heh this turned out to be a fun thread :)">
 
 Popa'a dead in Irap. if anyone can get me
 
@@ -18,37 +18,37 @@ thanks
 
 </div>
 
-<div class="post" data-post-id="14617" data-author="Popa" data-date="2006-10-12T21:55:01+00:00">
+<div class="post" data-post-id="14617" data-author="Popa" data-date="2006-10-12T21:55:01+00:00" data-subject="">
 
 too late i corpsed
 
 </div>
 
-<div class="post" data-post-id="14618" data-author="Jag" data-date="2006-10-13T03:54:36+00:00">
+<div class="post" data-post-id="14618" data-author="Jag" data-date="2006-10-13T03:54:36+00:00" data-subject="">
 
 Hmm I'm dead in cata - spectre - wonder if anyone will read this :)
 
 </div>
 
-<div class="post" data-post-id="14619" data-author="Jag" data-date="2006-10-13T03:58:46+00:00">
+<div class="post" data-post-id="14619" data-author="Jag" data-date="2006-10-13T03:58:46+00:00" data-subject="">
 
 Nope.
 
 </div>
 
-<div class="post" data-post-id="14620" data-author="Weasel" data-date="2006-10-13T17:31:17+00:00">
+<div class="post" data-post-id="14620" data-author="Weasel" data-date="2006-10-13T17:31:17+00:00" data-subject="">
 
 dead in Tony's..
 
 </div>
 
-<div class="post" data-post-id="14622" data-author="Weasel" data-date="2006-10-13T17:49:38+00:00">
+<div class="post" data-post-id="14622" data-author="Weasel" data-date="2006-10-13T17:49:38+00:00" data-subject="">
 
 cheers Luke :)
 
 </div>
 
-<div class="post" data-post-id="14627" data-author="Weasel" data-date="2006-10-15T07:35:41+00:00">
+<div class="post" data-post-id="14627" data-author="Weasel" data-date="2006-10-15T07:35:41+00:00" data-subject="">
 
 dead at militia commander in Tonys Temple...
 
@@ -56,7 +56,7 @@ dead at militia commander in Tonys Temple...
 
 </div>
 
-<div class="post" data-post-id="14628" data-author="Medios" data-date="2006-10-15T14:45:06+00:00">
+<div class="post" data-post-id="14628" data-author="Medios" data-date="2006-10-15T14:45:06+00:00" data-subject="I suck heres why.">
 
 I changed the title of this thread for you guys.
 
@@ -64,7 +64,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="14631" data-author="12345" data-date="2006-10-15T19:21:43+00:00">
+<div class="post" data-post-id="14631" data-author="12345" data-date="2006-10-15T19:21:43+00:00" data-subject="">
 
 Ok, we need to teach Weasel the wonders of being in channel....
 
@@ -72,7 +72,7 @@ Ok, we need to teach Weasel the wonders of being in channel....
 
 </div>
 
-<div class="post" data-post-id="14632" data-author="Weasel" data-date="2006-10-15T23:00:05+00:00">
+<div class="post" data-post-id="14632" data-author="Weasel" data-date="2006-10-15T23:00:05+00:00" data-subject="">
 
 I got help via ICQ in the end - there were only a handful of people on at the time (in the teens I believe), and the few times I've been in channel it was of no help, so I rarely bother with it. I do have to question sayinging someone sucks for using the forum when the forum is an opportunity to get raised rather than corpsing - if you think using it is stupid, than no skin off my back - corpse and enjoy the exp loss in the knowledge that you could have prevented it. It's saved me more than once, and I'll continue to use it in future from time to time if I can't raise anyone on ICQ. 
 
@@ -82,19 +82,19 @@ I'll try channels in future maybe, but they've been ignored in the past when I'v
 
 </div>
 
-<div class="post" data-post-id="14633" data-author="tincts" data-date="2006-10-16T03:15:08+00:00">
+<div class="post" data-post-id="14633" data-author="tincts" data-date="2006-10-16T03:15:08+00:00" data-subject="">
 
 I tend to hang out in hosers channel, get helped probably 80% of the time.
 
 </div>
 
-<div class="post" data-post-id="14634" data-author="Krok" data-date="2006-10-16T05:04:29+00:00">
+<div class="post" data-post-id="14634" data-author="Krok" data-date="2006-10-16T05:04:29+00:00" data-subject="">
 
 Shrugs, hosers or russian channel always save me unless only newbies are on.
 
 </div>
 
-<div class="post" data-post-id="14638" data-author="13" data-date="2006-10-16T12:46:57+00:00">
+<div class="post" data-post-id="14638" data-author="13" data-date="2006-10-16T12:46:57+00:00" data-subject="I suck, here&#x27;s why.">
 
 Heh, I was sitting at the computer when you ICQ'd but was really in
 
@@ -102,13 +102,13 @@ no condition to fuck with sloth :)  I like Mike's title better.
 
 </div>
 
-<div class="post" data-post-id="14639" data-author="Jag" data-date="2006-10-16T17:25:02+00:00">
+<div class="post" data-post-id="14639" data-author="Jag" data-date="2006-10-16T17:25:02+00:00" data-subject="">
 
 Just blundered into city of undead ss, died quick, wondered if this or hoser will help . :)
 
 </div>
 
-<div class="post" data-post-id="14640" data-author="Jag" data-date="2006-10-16T17:39:28+00:00">
+<div class="post" data-post-id="14640" data-author="Jag" data-date="2006-10-16T17:39:28+00:00" data-subject="">
 
 Sigh, can't ferret to it.  (over water)  Noone available for cr.  Just died as a frog.  Same vamp follower I think.
 
@@ -118,19 +118,19 @@ THanks
 
 </div>
 
-<div class="post" data-post-id="14642" data-author="13" data-date="2006-10-16T19:51:07+00:00">
+<div class="post" data-post-id="14642" data-author="13" data-date="2006-10-16T19:51:07+00:00" data-subject="I suck, here&#x27;s why.">
 
 heh
 
 </div>
 
-<div class="post" data-post-id="14643" data-author="Rynquald" data-date="2006-10-16T23:11:22+00:00">
+<div class="post" data-post-id="14643" data-author="Rynquald" data-date="2006-10-16T23:11:22+00:00" data-subject="">
 
 Would just like to point out here that the ss supply shop sells rafts for your ferret-cr needs :)
 
 </div>
 
-<div class="post" data-post-id="14644" data-author="Jag" data-date="2006-10-16T23:49:43+00:00">
+<div class="post" data-post-id="14644" data-author="Jag" data-date="2006-10-16T23:49:43+00:00" data-subject="">
 
 Meant to say it loudly before.  
 
@@ -138,7 +138,7 @@ Thanks Brady and Karkus for rescuing the Newbie "HC".
 
 </div>
 
-<div class="post" data-post-id="14646" data-author="12345" data-date="2006-10-17T00:48:10+00:00">
+<div class="post" data-post-id="14646" data-author="12345" data-date="2006-10-17T00:48:10+00:00" data-subject="">
 
 Would just like to point out here that the ss supply shop sells rafts for your ferret-cr needs :)[/quote:3efuxavd]
 
@@ -146,7 +146,7 @@ Keeping some gold in banks is useful for buying them too :)
 
 </div>
 
-<div class="post" data-post-id="14649" data-author="Malison" data-date="2006-10-17T18:19:26+00:00">
+<div class="post" data-post-id="14649" data-author="Malison" data-date="2006-10-17T18:19:26+00:00" data-subject="also dying">
 
 waiting to corpse from -4hp is rather excessively long...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 38
 ---
 
-<div class="post" data-post-id="37422" data-author="Gorka" data-date="2016-10-21T08:34:14+00:00">
+<div class="post" data-post-id="37422" data-author="Gorka" data-date="2016-10-21T08:34:14+00:00" data-subject="Kill History vs Bonus Experience">
 
 No kill history is on today, and the only reason I noticed was the xp I am getting from my coliseum runs is almost doubled. Which lead me to question why Bonus Experience was implemented, when it would appear that perhaps the real problem was that kill history was just a bit too effective?
 
@@ -22,7 +22,7 @@ I'm interested to hear what people think about this.
 
 </div>
 
-<div class="post" data-post-id="37423" data-author="Teron" data-date="2016-10-21T14:44:54+00:00">
+<div class="post" data-post-id="37423" data-author="Teron" data-date="2016-10-21T14:44:54+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 1. We don't hit other areas, because of aged exp, not kill history.
 
@@ -60,7 +60,7 @@ P.S. Apparently, of all active imms, only Splork knows the answers to these ques
 
 </div>
 
-<div class="post" data-post-id="37424" data-author="*juggleblood*" data-date="2016-10-21T19:51:47+00:00">
+<div class="post" data-post-id="37424" data-author="*juggleblood*" data-date="2016-10-21T19:51:47+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 I hesitate to discuss this topic too much with mortals...because it's such a fundamentally hot topic, at the core of player behavior and we could argue for months and never come to consensus. That's one of the reasons why there are so few us with the ability to manipulate xp values on a wide scale and why we touch it so infrequently.
 
@@ -76,7 +76,7 @@ I'm not real keen on revamping areas at the moment. I'm still proud of how the n
 
 </div>
 
-<div class="post" data-post-id="37425" data-author="*Splork*" data-date="2016-10-22T00:18:34+00:00">
+<div class="post" data-post-id="37425" data-author="*Splork*" data-date="2016-10-22T00:18:34+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 I may not be as active but I check the website and the server daily...
 
@@ -94,7 +94,7 @@ I also think the time it takes for mobs to fully age should be much longer, that
 
 </div>
 
-<div class="post" data-post-id="37426" data-author="Teron" data-date="2016-10-22T04:21:01+00:00">
+<div class="post" data-post-id="37426" data-author="Teron" data-date="2016-10-22T04:21:01+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 Hey, Splork, nice to see you participating in this discussion :)
 
@@ -114,7 +114,7 @@ Also, you said that making mobs age much slower would help people move more. Cou
 
 </div>
 
-<div class="post" data-post-id="37428" data-author="*juggleblood*" data-date="2016-10-22T13:46:46+00:00">
+<div class="post" data-post-id="37428" data-author="*juggleblood*" data-date="2016-10-22T13:46:46+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 A few things here. One, I don't get the passive aggressive attitude toward Splork. Can we please try to be pleasant?
 
@@ -132,7 +132,7 @@ So before we pick apart the xp system, tell me what your objective here is? You 
 
 </div>
 
-<div class="post" data-post-id="37430" data-author="Teron" data-date="2016-10-22T16:32:40+00:00">
+<div class="post" data-post-id="37430" data-author="Teron" data-date="2016-10-22T16:32:40+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 1. First of all, I only stated how I feel about Splork's responses to my suggestions. I don't expect him to respond to all my posts, but in my/his case, 'monitoring site daily' and 'responding to suggestions' are different things.
 
@@ -178,7 +178,7 @@ But just as with anything,it's more about making the game more enjoyable, really
 
 </div>
 
-<div class="post" data-post-id="37433" data-author="*juggleblood*" data-date="2016-10-22T18:41:21+00:00">
+<div class="post" data-post-id="37433" data-author="*juggleblood*" data-date="2016-10-22T18:41:21+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 > **Teron wrote:**
 > - the inability to get all the exp you deserve for the mob is unfair and reduces the enjoyment of the game. By opening the cap, we allow people to get the exp they worked on.
@@ -191,13 +191,13 @@ Ending the xp caps is a non-starter in my opinion. They are fundamental to the g
 
 </div>
 
-<div class="post" data-post-id="37434" data-author="*juggleblood*" data-date="2016-10-22T18:58:08+00:00">
+<div class="post" data-post-id="37434" data-author="*juggleblood*" data-date="2016-10-22T18:58:08+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 Double posting here, cuz I forgot to mention that xp caps help in mob design, in that we can give the builders a freer hand to design the mobs however they want, knowing that they can't game the xp algorithm too much because there's an xp cap. If caps were removed someone would suddenly need to start nerfing outlier mobs, and we know how the players love those kind of changes. Won't be a lot of imms volunteering for that job.
 
 </div>
 
-<div class="post" data-post-id="37435" data-author="Gorka" data-date="2016-10-22T19:04:51+00:00">
+<div class="post" data-post-id="37435" data-author="Gorka" data-date="2016-10-22T19:04:51+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 Interesting discussion... it's a difficult and emotional topic.
 
@@ -207,13 +207,13 @@ Things are often done in the mud to "encourage" players or "force" players to be
 
 </div>
 
-<div class="post" data-post-id="37436" data-author="*juggleblood*" data-date="2016-10-22T22:41:42+00:00">
+<div class="post" data-post-id="37436" data-author="*juggleblood*" data-date="2016-10-22T22:41:42+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 Yeah, we're guilty of trying to force a certain vision for the game on you. Our vision is that the optimal strategy in the game is to maximize cooperation with other players. Part of that vision is the large, open XP group, so we reward leaders and tanks with extra xp to incentivize/acknowledge that need.  We shouldn't need to force anyone into our vision. They either find something they like about the game as we've structured it and stay, or they don't.
 
 </div>
 
-<div class="post" data-post-id="37437" data-author="*Splork*" data-date="2016-10-22T22:58:53+00:00">
+<div class="post" data-post-id="37437" data-author="*Splork*" data-date="2016-10-22T22:58:53+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 > **Quote:**
 > 1. First of all, I only stated how I feel about Splork's responses to my suggestions. I don't expect him to respond to all my posts, but in my/his case, 'monitoring site daily' and 'responding to suggestions' are different things.
@@ -234,7 +234,7 @@ Time to bow out, two posts in this thread is too many from me:)
 
 </div>
 
-<div class="post" data-post-id="37440" data-author="Teron" data-date="2016-10-23T06:15:54+00:00">
+<div class="post" data-post-id="37440" data-author="Teron" data-date="2016-10-23T06:15:54+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 **JB,**
 
@@ -315,7 +315,7 @@ but then you don't explain this logic that contradicts what I'm seeing in the ga
 
 </div>
 
-<div class="post" data-post-id="37441" data-author="Gorka" data-date="2016-10-23T07:54:09+00:00">
+<div class="post" data-post-id="37441" data-author="Gorka" data-date="2016-10-23T07:54:09+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 > ***juggleblood* wrote:**
 > Yeah, we're guilty of trying to force a certain vision for the game on you. Our vision is that the optimal strategy in the game is to maximize cooperation with other players. Part of that vision is the large, open XP group, so we reward leaders and tanks with extra xp to incentivize/acknowledge that need.
@@ -328,7 +328,7 @@ I didn't mean to get anyone's back up... It's a bit disappointing it always ends
 
 </div>
 
-<div class="post" data-post-id="37442" data-author="*Splork*" data-date="2016-10-23T13:54:56+00:00">
+<div class="post" data-post-id="37442" data-author="*Splork*" data-date="2016-10-23T13:54:56+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 > **Quote:**
 > Splork,
@@ -349,7 +349,7 @@ Enjoy your thread,
 
 </div>
 
-<div class="post" data-post-id="37443" data-author="Teron" data-date="2016-10-23T15:57:36+00:00">
+<div class="post" data-post-id="37443" data-author="Teron" data-date="2016-10-23T15:57:36+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 Well, I was under assumption that you do call the shots.
 
@@ -363,7 +363,7 @@ So on every mob that we kill in a group, I look at my cap and try to assess othe
 
 </div>
 
-<div class="post" data-post-id="37447" data-author="*juggleblood*" data-date="2016-10-25T02:24:14+00:00">
+<div class="post" data-post-id="37447" data-author="*juggleblood*" data-date="2016-10-25T02:24:14+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 I'm sorry Taron, but you don't know what you're talking about with regard to the xp algorithm. It is a very blunt tool. And the thing that you are ignoring is that not all classes are the same, nor playstyle. Let's imagine a 250 hp point mob. It could be designed for a newbie warrior to hack down with his sword, or a supreme mage to blast down with a single bolt. Trust me when I say that the xp algorithm will end up cheating the newbie warrior. It is a BLUNT TOOL.  Because it is a blunt tool, there exists an xp cap. The xp cap is the upward end of what a player deserves for any given kill. Then we designate another tier of cap for encounters with epic mobs, because it's understood that such mobs are much more of an ordeal. All mobs are imperfectly designed and all xp settings are imperfect because they are set up by player volunteers, i.e. builders.
 
@@ -373,7 +373,7 @@ Give me an idea of what days you want me to turn nocap on, and if you're announc
 
 </div>
 
-<div class="post" data-post-id="37448" data-author="Teron" data-date="2016-10-25T03:36:31+00:00">
+<div class="post" data-post-id="37448" data-author="Teron" data-date="2016-10-25T03:36:31+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 I did say that there were exceptions.
 
@@ -387,13 +387,13 @@ I guess I have hijacked the thread inadvertently - Gorka does have a few questio
 
 </div>
 
-<div class="post" data-post-id="37453" data-author="*juggleblood*" data-date="2016-10-26T03:40:52+00:00">
+<div class="post" data-post-id="37453" data-author="*juggleblood*" data-date="2016-10-26T03:40:52+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 There is no such thing as a universal algorithm that doesn't take the player into account. Think about it, the amount of damage the mob done largely depends on how many rounds of combat it goes, which depends on the player character in question. This is why the xp system needs to be complex and why bonus xp scales with player level.
 
 </div>
 
-<div class="post" data-post-id="37455" data-author="Gorka" data-date="2016-10-26T06:36:42+00:00">
+<div class="post" data-post-id="37455" data-author="Gorka" data-date="2016-10-26T06:36:42+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 > **Quote:**
 > There is no such thing as a universal algorithm
@@ -404,13 +404,13 @@ Hung is right ya know, I read his post from ages ago about sloth becoming open s
 
 </div>
 
-<div class="post" data-post-id="37457" data-author="*juggleblood*" data-date="2016-10-26T12:55:14+00:00">
+<div class="post" data-post-id="37457" data-author="*juggleblood*" data-date="2016-10-26T12:55:14+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 I don't get what's so sad about. There is a system and it is working. Players just need to understand that the cap is part of what makes the game work and that its not somehow "stealing their xp". Also figuring out which mobs to kill is part of the game's strategy.
 
 </div>
 
-<div class="post" data-post-id="37459" data-author="Teron" data-date="2016-10-26T21:08:05+00:00">
+<div class="post" data-post-id="37459" data-author="Teron" data-date="2016-10-26T21:08:05+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 > ***juggleblood* wrote:**
 > There is no such thing as a universal algorithm that doesn't take the player into account. Think about it, the amount of damage the mob done largely depends on how many rounds of combat it goes, which depends on the player character in question. This is why the xp system needs to be complex and why bonus xp scales with player level.
@@ -427,7 +427,7 @@ So, perhaps you need to give more exp for mob hps, and that'd at least solve the
 
 </div>
 
-<div class="post" data-post-id="37461" data-author="*juggleblood*" data-date="2016-10-26T21:25:17+00:00">
+<div class="post" data-post-id="37461" data-author="*juggleblood*" data-date="2016-10-26T21:25:17+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 You ignore my main point. The issue is that all players are different. There is no objective measurement of how much experience any given mob is worth.
 
@@ -441,7 +441,7 @@ The xp algorithm will definitely not be tweaked. Firstly, because that would cha
 
 </div>
 
-<div class="post" data-post-id="37463" data-author="Teron" data-date="2016-10-27T08:33:33+00:00">
+<div class="post" data-post-id="37463" data-author="Teron" data-date="2016-10-27T08:33:33+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 1. Of course we need to take into account how hard it is to kill mobs.
 
@@ -463,7 +463,7 @@ I don't think you found many objections from builders to change the backend for 
 
 </div>
 
-<div class="post" data-post-id="37464" data-author="Gorka" data-date="2016-10-27T08:48:34+00:00">
+<div class="post" data-post-id="37464" data-author="Gorka" data-date="2016-10-27T08:48:34+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 Give up Taron  :lol: You keep coming back for more... You only have to read the tone of JB's many replies to know that arguing with the content is futile. I think I made a strong point, we have a conflict in bonuses and caps in xp calculations... it's simply the truth.
 
@@ -475,13 +475,13 @@ Not many days pass in my own life, where I feel myself trying to swallow this tr
 
 </div>
 
-<div class="post" data-post-id="37465" data-author="*juggleblood*" data-date="2016-10-27T13:38:01+00:00">
+<div class="post" data-post-id="37465" data-author="*juggleblood*" data-date="2016-10-27T13:38:01+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 Wow Gorka/Taron. This is not hard to understand. There is no conflict between those two things at all. They are complementary. And no, YOU CAN NOT MAKE A MEANINGFUL UNIVERSAL XP ALGORITHM BECAUSE THE PLAYERS ARE SO VASTLY DIFFERENT. You and Taron both just keep disregarding everything I am explaining to you and come back and say "Nuh-uh". At this point please just drop it. Cuz you are going to continue to resist understanding and it's not up for debate anyway.
 
 </div>
 
-<div class="post" data-post-id="37466" data-author="*Splork*" data-date="2016-10-27T20:22:20+00:00">
+<div class="post" data-post-id="37466" data-author="*Splork*" data-date="2016-10-27T20:22:20+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 > **Quote:**
 > At my work, I designed a system for calculating sales and cost prices using a single core formula, despite the fact our products and services are completely unrelated and with different calculations and attributes. I know it can be done... how maintainable it would make updating every mob... but at the end of the day, even with the best intentions, plans and ideas we are not in charge of other people's decisions.
@@ -494,7 +494,7 @@ As JB said, it's not something we are looking to alter at this time, as the resu
 
 </div>
 
-<div class="post" data-post-id="37469" data-author="Teron" data-date="2016-10-28T07:24:22+00:00">
+<div class="post" data-post-id="37469" data-author="Teron" data-date="2016-10-28T07:24:22+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 JB, for the sake of enlightment, care to clarify, where you can't analyze different players with numbers? Can you give an example? If we don't understand it, surely we need something more, than the same thing repeated in CAPS.
 
@@ -504,7 +504,7 @@ Also, we aren't assuming that players of vastly different levels will be killing
 
 </div>
 
-<div class="post" data-post-id="37471" data-author="*juggleblood*" data-date="2016-10-28T12:51:52+00:00">
+<div class="post" data-post-id="37471" data-author="*juggleblood*" data-date="2016-10-28T12:51:52+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 Maybe this is better:
 
@@ -514,7 +514,7 @@ When you write one, post it here for debate.
 
 </div>
 
-<div class="post" data-post-id="37472" data-author="Teron" data-date="2016-10-29T04:32:16+00:00">
+<div class="post" data-post-id="37472" data-author="Teron" data-date="2016-10-29T04:32:16+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 I did think about what you wrote above.
 
@@ -526,7 +526,7 @@ Yes, I'll think more about the algorithm.
 
 </div>
 
-<div class="post" data-post-id="37479" data-author="Josiah" data-date="2016-10-30T06:12:51+00:00">
+<div class="post" data-post-id="37479" data-author="Josiah" data-date="2016-10-30T06:12:51+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 I would love if xp caps were removed from the game!
 
@@ -544,7 +544,7 @@ And lyme grip/stab/blast would still probably be the best xp in the game.  There
 
 </div>
 
-<div class="post" data-post-id="37480" data-author="Filk" data-date="2016-10-30T08:23:39+00:00">
+<div class="post" data-post-id="37480" data-author="Filk" data-date="2016-10-30T08:23:39+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 I agree with Josiah.
 
@@ -560,7 +560,7 @@ Though speaking by true, that will not change anything for me -  i will only run
 
 </div>
 
-<div class="post" data-post-id="37483" data-author="*juggleblood*" data-date="2016-10-30T13:24:55+00:00">
+<div class="post" data-post-id="37483" data-author="*juggleblood*" data-date="2016-10-30T13:24:55+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 You don't think small groups would start coming into conflict over who gets to kill the ice mobs in Saurian Frontier over and over again? Crazy easy nocap exp for a few avatars.
 
@@ -574,7 +574,7 @@ If we had some particular admin who was keen on doing this and was dedicated to 
 
 </div>
 
-<div class="post" data-post-id="37484" data-author="Gorka" data-date="2016-10-30T17:54:13+00:00">
+<div class="post" data-post-id="37484" data-author="Gorka" data-date="2016-10-30T17:54:13+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 It's like the system "created" outliers...
 
@@ -590,7 +590,7 @@ We appreciate the work of the immortals, but just expressing our concerns, it's 
 
 </div>
 
-<div class="post" data-post-id="37485" data-author="*Splork*" data-date="2016-10-30T20:24:46+00:00">
+<div class="post" data-post-id="37485" data-author="*Splork*" data-date="2016-10-30T20:24:46+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 The current experience function is hundreds of lines of code which takes into account everything from a mob's total attacks, damage they do, procs the mobs have(dif procs have dif exp bonuses), hitroll, hit points, armor class, bleah bleah bleah bleah bleah bleah bleah bleah bleah bleah bleah bleah...
 
@@ -602,7 +602,7 @@ There are two major changes on the lines of these which come to mind and went in
 
 </div>
 
-<div class="post" data-post-id="37486" data-author="cyprimus" data-date="2016-10-30T23:05:30+00:00">
+<div class="post" data-post-id="37486" data-author="cyprimus" data-date="2016-10-30T23:05:30+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 Just a few observations...
 
@@ -630,7 +630,7 @@ well, my two cents.. thanks!
 
 </div>
 
-<div class="post" data-post-id="37487" data-author="Filk" data-date="2016-10-31T05:40:03+00:00">
+<div class="post" data-post-id="37487" data-author="Filk" data-date="2016-10-31T05:40:03+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 Shrugs. Noone speaks bad about exp formula i guess. 
 
@@ -646,7 +646,7 @@ As for me - i dont care about caps, or bonuses, or kill history. Everything is f
 
 </div>
 
-<div class="post" data-post-id="37488" data-author="Teron" data-date="2016-10-31T10:05:39+00:00">
+<div class="post" data-post-id="37488" data-author="Teron" data-date="2016-10-31T10:05:39+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
 Cyprimus,
 

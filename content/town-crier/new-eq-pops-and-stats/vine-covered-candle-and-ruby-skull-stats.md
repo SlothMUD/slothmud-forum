@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="9956" data-author="alias" data-date="2006-01-03T00:38:46+00:00">
+<div class="post" data-post-id="9956" data-author="alias" data-date="2006-01-03T00:38:46+00:00" data-subject="vine covered candle and ruby skull stats.">
 
 Vine covered candle
 
@@ -50,7 +50,7 @@ this item.
 
 </div>
 
-<div class="post" data-post-id="9960" data-author="Guinex" data-date="2006-01-03T18:44:19+00:00">
+<div class="post" data-post-id="9960" data-author="Guinex" data-date="2006-01-03T18:44:19+00:00" data-subject="">
 
 trade you a ruby fist charm +1 hand dam attach to arms. for that skull
 

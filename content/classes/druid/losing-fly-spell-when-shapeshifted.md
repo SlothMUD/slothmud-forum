@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1510" data-author="Force" data-date="2004-08-19T23:37:30+00:00">
+<div class="post" data-post-id="1510" data-author="Force" data-date="2004-08-19T23:37:30+00:00" data-subject="Losing Fly Spell when shapeshifted...">
 
 Hi... I've noticed when the 'fly spell' (cast on myself) expires while I am in the shapeshift form of dragon, that fly is removed from my affected spells list.  That is, what appeared to be a natural affect of the dragon (fly ability) seems to disappear when the cleric spell fly expires.  I have fallen from this before, but fortunately not to an untimely death.
 

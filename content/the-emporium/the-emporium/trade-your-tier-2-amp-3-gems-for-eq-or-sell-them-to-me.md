@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37507" data-author="Teron" data-date="2016-11-19T15:28:43+00:00">
+<div class="post" data-post-id="37507" data-author="Teron" data-date="2016-11-19T15:28:43+00:00" data-subject="Trade your tier 2&amp;amp;3 gems for EQ or sell them to me :)">
 
 Greetings.
 

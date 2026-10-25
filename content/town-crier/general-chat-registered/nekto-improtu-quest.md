@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33329" data-author="Shyla" data-date="2012-06-05T22:57:57+00:00">
+<div class="post" data-post-id="33329" data-author="Shyla" data-date="2012-06-05T22:57:57+00:00" data-subject="Nekto improtu quest">
 
 Nekto ran an improptu quest today to finish off the one forge that was not yet made from kitzeh.  
 

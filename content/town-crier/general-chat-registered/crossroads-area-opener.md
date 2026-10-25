@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="7084" data-author="Medios" data-date="2005-06-12T06:26:43+00:00">
+<div class="post" data-post-id="7084" data-author="Medios" data-date="2005-06-12T06:26:43+00:00" data-subject="Crossroads:  Area Opener">
 
 Decider wanted everyone on the island.  Minstrel (evil) and Shyla (good) were team captains.  We picked teams and had to find our respective mob in Crossroads.  Crossroads begins somewhere near Kozakura.  I believe Annie found the entrance for the good team.  Good mob was Xei, the lord of light.  Evil mob was  Ei, the lord of darkness.  After finding Ei he gave us an evil letter describing 5 mobs that contained emblems of light.  We were to retrieve the emblems and bring them back.
 
@@ -56,7 +56,7 @@ PS Thank Asryal next time you see him.   :twisted:
 
 </div>
 
-<div class="post" data-post-id="7120" data-author="13" data-date="2005-06-13T11:35:25+00:00">
+<div class="post" data-post-id="7120" data-author="13" data-date="2005-06-13T11:35:25+00:00" data-subject="">
 
 Damn
 
@@ -74,19 +74,19 @@ Confused,
 
 </div>
 
-<div class="post" data-post-id="7130" data-author="brand" data-date="2005-06-13T13:26:59+00:00">
+<div class="post" data-post-id="7130" data-author="brand" data-date="2005-06-13T13:26:59+00:00" data-subject="">
 
 I'm with 13, don't understand this one.  However, she was leader of the good team... and I remember what my buddy Dark Helmet said about good... :!:
 
 </div>
 
-<div class="post" data-post-id="7249" data-author="13" data-date="2005-06-15T15:51:44+00:00">
+<div class="post" data-post-id="7249" data-author="13" data-date="2005-06-15T15:51:44+00:00" data-subject="">
 
 My bad, Shyla got eq AND the spellbook, even though her team lost.  Someone please explain.
 
 </div>
 
-<div class="post" data-post-id="7250" data-author="brand" data-date="2005-06-15T16:55:05+00:00">
+<div class="post" data-post-id="7250" data-author="brand" data-date="2005-06-15T16:55:05+00:00" data-subject="">
 
 :twisted:
 

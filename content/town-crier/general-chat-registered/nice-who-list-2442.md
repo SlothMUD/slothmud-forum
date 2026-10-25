@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="17953" data-author="*Splork*" data-date="2007-04-15T23:48:45+00:00">
+<div class="post" data-post-id="17953" data-author="*Splork*" data-date="2007-04-15T23:48:45+00:00" data-subject="Nice who list...">
 
 *Immortals of SlothMUD III*
 

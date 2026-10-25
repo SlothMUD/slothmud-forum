@@ -10,25 +10,25 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="30391" data-author="blackmore" data-date="2009-11-28T03:32:51+00:00">
+<div class="post" data-post-id="30391" data-author="blackmore" data-date="2009-11-28T03:32:51+00:00" data-subject="Morted in Opera">
 
 I'm at -4, not gateable, if someone could run and get me I'd appreciate it.
 
 </div>
 
-<div class="post" data-post-id="30392" data-author="blackmore" data-date="2009-11-28T03:44:21+00:00">
+<div class="post" data-post-id="30392" data-author="blackmore" data-date="2009-11-28T03:44:21+00:00" data-subject="">
 
 oh well, corpsed.
 
 </div>
 
-<div class="post" data-post-id="30408" data-author="orange" data-date="2009-12-04T01:01:34+00:00">
+<div class="post" data-post-id="30408" data-author="orange" data-date="2009-12-04T01:01:34+00:00" data-subject="">
 
 how do i start to play this game :?:  :?:  :?:  :?:  :?:  :?:  :?:
 
 </div>
 
-<div class="post" data-post-id="30409" data-author="Thraxas" data-date="2009-12-04T14:06:06+00:00">
+<div class="post" data-post-id="30409" data-author="Thraxas" data-date="2009-12-04T14:06:06+00:00" data-subject="how do i start to play this game :?:">
 
 how do i start to play this game :?:  :?:  :?:  :?:  :?:  :?:  :?:[/quote:8kk3mvvl]
 
@@ -50,7 +50,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="30426" data-author="jezer" data-date="2009-12-06T08:57:22+00:00">
+<div class="post" data-post-id="30426" data-author="jezer" data-date="2009-12-06T08:57:22+00:00" data-subject="Re: how do i start to play this game :?:">
 
 Perhaps an answer to this question could be stickied?
 

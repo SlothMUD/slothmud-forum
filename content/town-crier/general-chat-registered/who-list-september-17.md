@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="14123" data-author="*Splork*" data-date="2006-09-17T21:08:20+00:00">
+<div class="post" data-post-id="14123" data-author="*Splork*" data-date="2006-09-17T21:08:20+00:00" data-subject="who list september 17">
 
 Here is a who list to checkout in a few yrs...
 
@@ -140,7 +140,7 @@ Highest total since last bootup: 57.
 
 </div>
 
-<div class="post" data-post-id="22017" data-author="jezer" data-date="2008-01-13T13:13:02+00:00">
+<div class="post" data-post-id="22017" data-author="jezer" data-date="2008-01-13T13:13:02+00:00" data-subject="">
 
 Yeah, old post... but I came across this finding information to support something that I've noticed recently.
 
@@ -158,7 +158,7 @@ I'm trying to answer the question in my mind... where are the avatar druids... a
 
 </div>
 
-<div class="post" data-post-id="22018" data-author="Atwell" data-date="2008-01-13T14:34:12+00:00">
+<div class="post" data-post-id="22018" data-author="Atwell" data-date="2008-01-13T14:34:12+00:00" data-subject="">
 
 Apart from necro's... not many people play a prime of the new classes... and even less of those play them through to avatar...
 
@@ -188,13 +188,13 @@ Prime bards solo well.  They have major advantages over non-prime bards, so I ca
 
 </div>
 
-<div class="post" data-post-id="22228" data-author="Morkeleb" data-date="2008-01-23T14:50:05+00:00">
+<div class="post" data-post-id="22228" data-author="Morkeleb" data-date="2008-01-23T14:50:05+00:00" data-subject="">
 
 It may be cool to look at in a few years, but the real question is "How many of those chars in a few years will be run by the same players?" Hehe.
 
 </div>
 
-<div class="post" data-post-id="22230" data-author="Autolycos" data-date="2008-01-23T17:16:24+00:00">
+<div class="post" data-post-id="22230" data-author="Autolycos" data-date="2008-01-23T17:16:24+00:00" data-subject="">
 
 It may be cool to look at in a few years, but the real question is "How many of those chars in a few years will be run by the same players?" Hehe.[/quote:hcrg04eu]
 

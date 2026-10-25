@@ -10,7 +10,7 @@ locked: false
 post_count: 27
 ---
 
-<div class="post" data-post-id="28435" data-author="Toxis" data-date="2009-03-10T03:23:41+00:00">
+<div class="post" data-post-id="28435" data-author="Toxis" data-date="2009-03-10T03:23:41+00:00" data-subject="Quest">
 
 I will be running a quest approximately around 5pm central USA time.
 
@@ -22,7 +22,7 @@ Drachma, EXP, Gold... gluck! :)~
 
 </div>
 
-<div class="post" data-post-id="28443" data-author="Toxis" data-date="2009-03-11T01:33:43+00:00">
+<div class="post" data-post-id="28443" data-author="Toxis" data-date="2009-03-11T01:33:43+00:00" data-subject="">
 
 *Immortals of SlothMUD III* 
 
@@ -190,7 +190,7 @@ We had quite a few leave durring that time.  Expect more quests in the future.  
 
 </div>
 
-<div class="post" data-post-id="28445" data-author="Yasik2" data-date="2009-03-11T02:41:03+00:00">
+<div class="post" data-post-id="28445" data-author="Yasik2" data-date="2009-03-11T02:41:03+00:00" data-subject="">
 
 I, personally, enjoyed the massacra.
 
@@ -198,7 +198,7 @@ What else a good quest needs anyway?!  8)
 
 </div>
 
-<div class="post" data-post-id="28447" data-author="Toxis" data-date="2009-03-11T03:35:00+00:00">
+<div class="post" data-post-id="28447" data-author="Toxis" data-date="2009-03-11T03:35:00+00:00" data-subject="">
 
 This was a rare and unusual quest with lots of eq.  It won't happen for quite some time, but I felt is was overdue.
 
@@ -252,19 +252,19 @@ ferrum rerolled his newbie, he only got playable stats.. sorry.
 
 </div>
 
-<div class="post" data-post-id="28449" data-author="Weasel" data-date="2009-03-11T04:53:29+00:00">
+<div class="post" data-post-id="28449" data-author="Weasel" data-date="2009-03-11T04:53:29+00:00" data-subject="">
 
 Sorry I couldn't hang around for it. Hopefully next time!
 
 </div>
 
-<div class="post" data-post-id="28450" data-author="angel" data-date="2009-03-11T06:55:47+00:00">
+<div class="post" data-post-id="28450" data-author="angel" data-date="2009-03-11T06:55:47+00:00" data-subject="">
 
 nice stuff,make more of these quests:) very enjoyable
 
 </div>
 
-<div class="post" data-post-id="28493" data-author="Toxis" data-date="2009-03-14T22:30:10+00:00">
+<div class="post" data-post-id="28493" data-author="Toxis" data-date="2009-03-14T22:30:10+00:00" data-subject="">
 
 I'm glad you all liked it.  I will try to run more quests more often and at different times.  I will also be trying to find different ways to run quests.
 
@@ -274,7 +274,7 @@ Next quest will be monday 10 AM central.
 
 </div>
 
-<div class="post" data-post-id="28496" data-author="Weasel" data-date="2009-03-14T23:10:18+00:00">
+<div class="post" data-post-id="28496" data-author="Weasel" data-date="2009-03-14T23:10:18+00:00" data-subject="">
 
 Next quest will be monday 10 AM central. -Tox[/quote:265ux7ar]
 
@@ -282,7 +282,7 @@ Bah. I'll be picking up my pen and starting a 2 hour midterm exam on Consolidate
 
 </div>
 
-<div class="post" data-post-id="28516" data-author="Toxis" data-date="2009-03-16T11:41:25+00:00">
+<div class="post" data-post-id="28516" data-author="Toxis" data-date="2009-03-16T11:41:25+00:00" data-subject="">
 
 Many have asked about eq given out for this quest, so I thought long and hard over it and decided on the following...
 
@@ -298,7 +298,7 @@ Tox
 
 </div>
 
-<div class="post" data-post-id="28522" data-author="Bazilus" data-date="2009-03-16T21:21:46+00:00">
+<div class="post" data-post-id="28522" data-author="Bazilus" data-date="2009-03-16T21:21:46+00:00" data-subject="Last Quest">
 
 Some hours ago Tox run quest:
 
@@ -520,7 +520,7 @@ Bazilus The Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28524" data-author="Bazilus" data-date="2009-03-16T21:38:30+00:00">
+<div class="post" data-post-id="28524" data-author="Bazilus" data-date="2009-03-16T21:38:30+00:00" data-subject="Quest">
 
 Ohh forgot to say Ferrum got his godroll for lowbie. (17 17 18 16 16)
 
@@ -528,13 +528,13 @@ Bazilus the Crazy Pyhon
 
 </div>
 
-<div class="post" data-post-id="28525" data-author="Weasel" data-date="2009-03-16T22:39:02+00:00">
+<div class="post" data-post-id="28525" data-author="Weasel" data-date="2009-03-16T22:39:02+00:00" data-subject="">
 
 wow.. that's a lot of impressive eq given out. nice.
 
 </div>
 
-<div class="post" data-post-id="28526" data-author="Toxis" data-date="2009-03-17T00:42:21+00:00">
+<div class="post" data-post-id="28526" data-author="Toxis" data-date="2009-03-17T00:42:21+00:00" data-subject="">
 
 I took those silk pants back from concept since he got something on the first quest and it was a part two to the first one for people who couldn't join.  I'm sorry for those who couldn't come for both, but there'll be more quests in the future.
 
@@ -548,13 +548,13 @@ By the way, Bazilus.. that was amazing summary of the quest.  Standing ovation t
 
 </div>
 
-<div class="post" data-post-id="28527" data-author="brady" data-date="2009-03-17T00:50:13+00:00">
+<div class="post" data-post-id="28527" data-author="brady" data-date="2009-03-17T00:50:13+00:00" data-subject="">
 
 It was a good time and I would have been happy with just the drachma.  I'm certainly not complaining but I'm of the opinion that quest eq should be given out based on merit.  Just my two cents.
 
 </div>
 
-<div class="post" data-post-id="28534" data-author="Sheng" data-date="2009-03-17T13:19:53+00:00">
+<div class="post" data-post-id="28534" data-author="Sheng" data-date="2009-03-17T13:19:53+00:00" data-subject="">
 
 And by merit, I think he's referring to the fact that when the quest became not 'check epics for scrolls', but 'search all the big mobs on the entire mud for scrolls, and by the way immort is afk', Brady was the one that came through and found the Krakken for us :)
 
@@ -566,7 +566,7 @@ If immorts and quest leaders don't want to take the responsibility of choosing w
 
 </div>
 
-<div class="post" data-post-id="28536" data-author="OldTower" data-date="2009-03-17T14:16:07+00:00">
+<div class="post" data-post-id="28536" data-author="OldTower" data-date="2009-03-17T14:16:07+00:00" data-subject="">
 
 I bet Kjar is up to the task of writing a contribution system for you guys.  It could be attached to the group descriptor and used for quests or really any applicable time.  The group leader could start it up with something like "gcontrib enable" then "gcontrib clear".  Then something like "gcontrib report" can report relative contribution since the last clear to the group.  Assign contribution for healing (successful, not overhealing), damage dealt, damage taken (again actual, not overkill), debuffs applied, etc.  The trick would be to allow (and regulate) additional bonus contribution points for those things in quests like finding the hidden mob/item/room or coming up with the winning strategy.  But I think a group leader (or an immort member of the group) could run "gcontrib bonus <player>", and said bonuses were always displayed to the group, would be sufficient.
 
@@ -578,7 +578,7 @@ Edit: By the way, this idea is totally ripped from Warhammer: Online.  If they r
 
 </div>
 
-<div class="post" data-post-id="28537" data-author="Sheng" data-date="2009-03-17T15:29:39+00:00">
+<div class="post" data-post-id="28537" data-author="Sheng" data-date="2009-03-17T15:29:39+00:00" data-subject="">
 
 So by that system I could get quest eq by sleeping during combat, healing the heck out of the tank during regen, and randomly wandering off to run stab xp when no one was looking.
 
@@ -588,7 +588,7 @@ It's the people who pay attention the whole quest and go above and beyond blasti
 
 </div>
 
-<div class="post" data-post-id="28538" data-author="OldTower" data-date="2009-03-17T16:01:46+00:00">
+<div class="post" data-post-id="28538" data-author="OldTower" data-date="2009-03-17T16:01:46+00:00" data-subject="">
 
 So by that system I could get quest eq by sleeping during combat, healing the heck out of the tank during regen, and randomly wandering off to run stab xp when no one was looking.
 
@@ -604,7 +604,7 @@ Geez, just trying to help a guy out.
 
 </div>
 
-<div class="post" data-post-id="28539" data-author="Bazilus" data-date="2009-03-17T17:15:35+00:00">
+<div class="post" data-post-id="28539" data-author="Bazilus" data-date="2009-03-17T17:15:35+00:00" data-subject="">
 
 Sheng, i seen same posts many times here, if you realy want changes, go in immortal command and do it. My knowledge dont give me any chance to make immortal, i can play... I love play!
 
@@ -616,13 +616,13 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28541" data-author="*juggleblood*" data-date="2009-03-17T22:17:26+00:00">
+<div class="post" data-post-id="28541" data-author="*juggleblood*" data-date="2009-03-17T22:17:26+00:00" data-subject="">
 
 I think quest eq giveaways should just be eliminated entirely and quest rewards should just be drachma based. Instead of having an mvp, there could just be bonus drachma given for accomplishing certain tasks for the group during the quest.
 
 </div>
 
-<div class="post" data-post-id="28543" data-author="Bazilus" data-date="2009-03-17T22:30:20+00:00">
+<div class="post" data-post-id="28543" data-author="Bazilus" data-date="2009-03-17T22:30:20+00:00" data-subject="Quest">
 
 I think quest eq giveaways should just be eliminated entirely and quest rewards should just be drachma based. Instead of having an mvp, there could just be bonus drachma given for accomplishing certain tasks for the group during the quest.[/quote:1qo9f2ob]
 
@@ -632,7 +632,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="28544" data-author="Medios" data-date="2009-03-17T23:00:36+00:00">
+<div class="post" data-post-id="28544" data-author="Medios" data-date="2009-03-17T23:00:36+00:00" data-subject="">
 
 Quest giveaways are cool but not two quests within a few days.  Also quest eq is valuable and we don't want to inflate everything by passing out 5 pieces every week.
 
@@ -642,7 +642,7 @@ Keep up the good work Brad.
 
 </div>
 
-<div class="post" data-post-id="28545" data-author="Sheng" data-date="2009-03-17T23:41:22+00:00">
+<div class="post" data-post-id="28545" data-author="Sheng" data-date="2009-03-17T23:41:22+00:00" data-subject="">
 
 Just in case there was confusion (baz) I wasn't slamming on any immorts in my post.  I was suggesting that we don't need or want a mathmatical formula that calculates who the 'best contributor' is.
 
@@ -654,7 +654,7 @@ Since I don't have an immort, I can get away with things that would possibly be 
 
 </div>
 
-<div class="post" data-post-id="28547" data-author="*Splork*" data-date="2009-03-18T01:10:28+00:00">
+<div class="post" data-post-id="28547" data-author="*Splork*" data-date="2009-03-18T01:10:28+00:00" data-subject="">
 
 I agree, my punishment may of been slightly overboard. At the time, I was simply fed up with with constant abuse by a few players.  Our mud was changing monthly and our Immortal staff was adding projects and code at a record pace. Some of additions obviously had holes:)
 
@@ -670,7 +670,7 @@ Splork@slothmud.org
 
 </div>
 
-<div class="post" data-post-id="28548" data-author="Virus" data-date="2009-03-18T01:26:36+00:00">
+<div class="post" data-post-id="28548" data-author="Virus" data-date="2009-03-18T01:26:36+00:00" data-subject="">
 
 > **Sheng wrote:**
 > except that (like everyone else), he always had mana when Sa died.
@@ -679,13 +679,13 @@ Splork@slothmud.org
 
 </div>
 
-<div class="post" data-post-id="28554" data-author="angel" data-date="2009-03-18T08:52:57+00:00">
+<div class="post" data-post-id="28554" data-author="angel" data-date="2009-03-18T08:52:57+00:00" data-subject="">
 
 stare...
 
 </div>
 
-<div class="post" data-post-id="28556" data-author="Sheng" data-date="2009-03-18T12:38:08+00:00">
+<div class="post" data-post-id="28556" data-author="Sheng" data-date="2009-03-18T12:38:08+00:00" data-subject="">
 
 cackle!
 

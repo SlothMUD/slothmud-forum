@@ -10,7 +10,7 @@ locked: false
 post_count: 21
 ---
 
-<div class="post" data-post-id="37793" data-author="Gorka" data-date="2016-12-13T02:15:25+00:00">
+<div class="post" data-post-id="37793" data-author="Gorka" data-date="2016-12-13T02:15:25+00:00" data-subject="Coliseum">
 
 I see more comments about the coliseum appearing in other threads, and sense something is still festering away underneath... so lets have it out here...
 
@@ -42,7 +42,7 @@ Treat the problemsâ€¦ not the symptoms.
 
 </div>
 
-<div class="post" data-post-id="37794" data-author="Filk" data-date="2016-12-13T02:39:52+00:00">
+<div class="post" data-post-id="37794" data-author="Filk" data-date="2016-12-13T02:39:52+00:00" data-subject="Re: Coliseum">
 
 As for me, colliseum exp should be remove at all. It wasnt intented to run it for exp i think. And since that place is so easy to botting, you cant actually control if ppl afk or not while they scripted running in one place.
 
@@ -50,7 +50,7 @@ If exp will be removed, all other problems will be tuned down, because little pp
 
 </div>
 
-<div class="post" data-post-id="37795" data-author="*Splork*" data-date="2016-12-13T03:09:13+00:00">
+<div class="post" data-post-id="37795" data-author="*Splork*" data-date="2016-12-13T03:09:13+00:00" data-subject="Re: Coliseum">
 
 Josiah summarizes most of my thoughts at 
 
@@ -60,7 +60,7 @@ I wish that coliseum conquests and gains only helped within future coliseum comp
 
 </div>
 
-<div class="post" data-post-id="37797" data-author="Gorka" data-date="2016-12-13T03:30:16+00:00">
+<div class="post" data-post-id="37797" data-author="Gorka" data-date="2016-12-13T03:30:16+00:00" data-subject="Re: Coliseum">
 
 > **Filk wrote:**
 > As for me, colliseum exp should be remove at all. It wasnt intented to run it for exp i think. And since that place is so easy to botting, you cant actually control if ppl afk or not while they scripted running in one place.
@@ -79,7 +79,7 @@ The concept that blue pots are overpower could also be flawed, as I suspect the 
 
 </div>
 
-<div class="post" data-post-id="37800" data-author="Teron" data-date="2016-12-13T07:40:17+00:00">
+<div class="post" data-post-id="37800" data-author="Teron" data-date="2016-12-13T07:40:17+00:00" data-subject="Re: Coliseum">
 
 Yeah, I think people overestimate how often stuff pops in the coliseum.
 
@@ -95,13 +95,13 @@ There wouldn't be any major epic kills without scrolls. Who likes to regen 1-2 t
 
 </div>
 
-<div class="post" data-post-id="37803" data-author="Filk" data-date="2016-12-13T08:29:46+00:00">
+<div class="post" data-post-id="37803" data-author="Filk" data-date="2016-12-13T08:29:46+00:00" data-subject="Re: Coliseum">
 
 As for me - i dont care about pops. At all. I just dont like the idea of such simple place to make bot exists. So you doing something slow, but non-stop.
 
 </div>
 
-<div class="post" data-post-id="37806" data-author="*juggleblood*" data-date="2016-12-13T14:10:54+00:00">
+<div class="post" data-post-id="37806" data-author="*juggleblood*" data-date="2016-12-13T14:10:54+00:00" data-subject="Re: Coliseum">
 
 @splork - The potions add a really neat element to the game and personally if I had to go back to the days of regenning 5-7 minutes several times on a single epic mob, I would probably not play. I love the group recharge scrolls. 
 
@@ -129,25 +129,25 @@ Here's what Josiah suggested in other thread:
 
 </div>
 
-<div class="post" data-post-id="37808" data-author="Gorka" data-date="2016-12-13T15:17:39+00:00">
+<div class="post" data-post-id="37808" data-author="Gorka" data-date="2016-12-13T15:17:39+00:00" data-subject="Re: Coliseum">
 
 Limiting is a bad idea, why should everyone be punished for the behavior of a few? How will anyone get a good run in during a rare major house with it limited? The xp is low, and coins are low, a few people are afk botting... Where are the bot police? This idea chucks the baby out with the bathwater. This shouldn't mean everyone is punished and we need to start a new precedent of area limiting. There has to be better solutions. Treat the problems not the symptoms. This area is no better than any other area in game, it's just getting camped. In the past area's like this have been nerfed too drastically and have rendered the area almost useless. Let's be cautious...
 
 </div>
 
-<div class="post" data-post-id="37809" data-author="Josiah" data-date="2016-12-13T15:22:02+00:00">
+<div class="post" data-post-id="37809" data-author="Josiah" data-date="2016-12-13T15:22:02+00:00" data-subject="Re: Coliseum">
 
 Thanks for bringing my comments over from the other thread.  I just wanted to clarify that I am not suggesting we do all of the things in my list.  It was just my brainstorming of options, if we aren't happy with the status quo.
 
 </div>
 
-<div class="post" data-post-id="37810" data-author="Filk" data-date="2016-12-13T15:26:46+00:00">
+<div class="post" data-post-id="37810" data-author="Filk" data-date="2016-12-13T15:26:46+00:00" data-subject="Re: Coliseum">
 
 That area is total no risk, with auto raise and single room. That eliminates any issues in scripting bot for it and add to big temptation for some ppl. You cant fight with bots, because every of them has alerts. But you could make life harder by removing such simple areas for exping. So reduce exp to the ground and move ppl out of colliseum doesnt seems as bad idea.
 
 </div>
 
-<div class="post" data-post-id="37815" data-author="Vegetable" data-date="2016-12-13T22:24:55+00:00">
+<div class="post" data-post-id="37815" data-author="Vegetable" data-date="2016-12-13T22:24:55+00:00" data-subject="Re: Coliseum">
 
 I have to agree with Fluffy on this. Whilst some player enjoy grinding xp in colliseum, there are plenty of botters around. At one point, i actually took up the idea and run a trial bot with my mediocre scripting knowledge and it works fine. 
 
@@ -157,13 +157,13 @@ I'm not saying this our of jealousy, to be honest, i did enjoy the cheap pots, t
 
 </div>
 
-<div class="post" data-post-id="37816" data-author="Gorka" data-date="2016-12-13T22:51:13+00:00">
+<div class="post" data-post-id="37816" data-author="Gorka" data-date="2016-12-13T22:51:13+00:00" data-subject="Re: Coliseum">
 
 Let's not get precious about what is botting, lest I start outing players in their hypocrisy. I've seen most players do something... I've even seen immortals do things... the important thing is are you attentive and present. It's odd to me at the moment there are calls to change second wind, and nerf my niche business... when I played a druid in s3 and ran an eq for coins business I was likewise targetted... Interesting correlation of circumstances... I can't rule out jealously sometimes... Change the items, deal with the afk botters, then see what happens. No need to be rash.
 
 </div>
 
-<div class="post" data-post-id="37817" data-author="*juggleblood*" data-date="2016-12-13T23:02:35+00:00">
+<div class="post" data-post-id="37817" data-author="*juggleblood*" data-date="2016-12-13T23:02:35+00:00" data-subject="Re: Coliseum">
 
 From someone who has been the bot police in the past, I can tell you best way to go about it is to address the underlying incentives, i.e. things that are easy to abuse for bot or player. So Gorka, stop trying to throw other people under the bus. You aren't any better than the two you want punished and you're also the one raising the biggest stink about the whole thing, which is somewhat mind boggling. Seems like the smarter strategy would have been to be quiet. Instead you're trying to portray yourself as the victim, or hero here.
 
@@ -175,7 +175,7 @@ Don't expect me to dictate what needs to happen with it. I'll act when I sense t
 
 </div>
 
-<div class="post" data-post-id="37818" data-author="Vegetable" data-date="2016-12-14T00:03:01+00:00">
+<div class="post" data-post-id="37818" data-author="Vegetable" data-date="2016-12-14T00:03:01+00:00" data-subject="Re: Coliseum">
 
 Just a small suggestion. If the concern is on falling supply of pots/scroll, how about making them load in certain areas (maybe depending on area difficulty) i.e. mob in high group xp area have chance to drop scroll. So it makes people cycle those areas for xp and they get some scroll for epic (sort of like incentive or bonus). You can then adjust to add/take out the pop rate/pop chance to divert people to certain areas if you choose to do so in the future. *OUT OF TOPIC: we should do this also on some old XP area like tomb of forever kings but tweak the xp (like increase them substantially). With rebirth coming, we need more good xp area for the rebirth char to run through* 
 
@@ -189,19 +189,19 @@ Of course, this is just a suggestion. Feel free to debate on this.
 
 </div>
 
-<div class="post" data-post-id="37820" data-author="*juggleblood*" data-date="2016-12-14T00:49:38+00:00">
+<div class="post" data-post-id="37820" data-author="*juggleblood*" data-date="2016-12-14T00:49:38+00:00" data-subject="Re: Coliseum">
 
 hrm.... can easily make a treasure category for it and assign it to different zones every week... That... is pretty good idea...
 
 </div>
 
-<div class="post" data-post-id="37840" data-author="Riurik" data-date="2016-12-15T13:24:19+00:00">
+<div class="post" data-post-id="37840" data-author="Riurik" data-date="2016-12-15T13:24:19+00:00" data-subject="Re: Coliseum">
 
 Laugh, put a gotcha at the entry point :) When you  pull the chain have a prompt required that would be hard to script and guess. That way at a minimum you have to be present when you enter each time. If Gorka is really at his keyboard every day for 8 hours, he will have to swap over every so many minutes to get in.
 
 </div>
 
-<div class="post" data-post-id="37841" data-author="Gorka" data-date="2016-12-15T15:03:23+00:00">
+<div class="post" data-post-id="37841" data-author="Gorka" data-date="2016-12-15T15:03:23+00:00" data-subject="Re: Coliseum">
 
 ![](https://daviddemar.files.wordpress.com/2012/05/thewordintelligenceisalsothepolaroppositeofdolan_0a6e3bd1f9d88e169795acdf58dd97ee.jpg)
 
@@ -219,7 +219,7 @@ This would make the coliseum dangerous to bot, and make it more unworthwhile eco
 
 </div>
 
-<div class="post" data-post-id="37842" data-author="Filk" data-date="2016-12-15T15:59:46+00:00">
+<div class="post" data-post-id="37842" data-author="Filk" data-date="2016-12-15T15:59:46+00:00" data-subject="Re: Coliseum">
 
 You understand, that with all your proposals you just defending that source of easy bot exp? :)
 
@@ -227,7 +227,7 @@ Go and run in the wilds! :)
 
 </div>
 
-<div class="post" data-post-id="37843" data-author="Gorka" data-date="2016-12-15T22:49:51+00:00">
+<div class="post" data-post-id="37843" data-author="Gorka" data-date="2016-12-15T22:49:51+00:00" data-subject="Re: Coliseum">
 
 I know EXACTLY what I am doing... running the coliseum worked when it was just me and I was small (I learned I could make a living feeding top players) and I had bad mana regen, and I was a reliable supplier for things people wanted... but now with the afk bots, it doesn't work, and public opinion brings me down to their level... Which was never true, just their dumb ass speculation. The commenters don't know me, don't know my job and obviously they don't understand the coliseum. It's not for nothing rich players buy the potions, because for the most sake, it's not worth their time... and now it's not worth mine. The botters can go to hell. Two island runs and I make as many coins in 1 hour as a do in a day. There was a time when this worked, but increasingly now it doesn't. 
 
@@ -235,7 +235,7 @@ I don't care whether you think I am a hero or a villain but I see the writing wa
 
 </div>
 
-<div class="post" data-post-id="37845" data-author="Vegetable" data-date="2016-12-16T01:21:50+00:00">
+<div class="post" data-post-id="37845" data-author="Vegetable" data-date="2016-12-16T01:21:50+00:00" data-subject="Re: Coliseum">
 
 Not sure what was the original intention of coliseum but it's probably not for exp. I always thought that it was to allow players to compete on the kill counts and show the potential of their characters. Also to be honest, i think the loots currently dropped by mob in coliseum shouldn't be in there in the first place. Since you can't use the item you pop in the coliseum anyway. Probably best to load them on some area that are relevant to the area you run in. Or make item that pop in coliseum only usable in coliseum. idk.
 
@@ -245,7 +245,7 @@ This is not directed at you or anyone. Its just what i have in mind since i star
 
 </div>
 
-<div class="post" data-post-id="37846" data-author="Gorka" data-date="2016-12-16T02:29:53+00:00">
+<div class="post" data-post-id="37846" data-author="Gorka" data-date="2016-12-16T02:29:53+00:00" data-subject="Re: Coliseum">
 
 > **Vegetable wrote:**
 > Probably best to load them on some area that are relevant to the area you run in. Or make item that pop in coliseum only usable in coliseum. idk.

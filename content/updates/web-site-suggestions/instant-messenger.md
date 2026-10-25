@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2715" data-author="blackmore" data-date="2004-11-09T12:18:23+00:00">
+<div class="post" data-post-id="2715" data-author="blackmore" data-date="2004-11-09T12:18:23+00:00" data-subject="Instant Messenger">
 
 Can instant messages be changed so that we can delete them without replying?  It seems stupid that if I don't want to reply, I have to close the message, then go to my list of messages, just so I can delete the one I just read.
 

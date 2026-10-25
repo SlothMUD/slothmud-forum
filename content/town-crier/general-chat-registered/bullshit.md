@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="28666" data-author="Vixn" data-date="2009-04-04T18:14:02+00:00">
+<div class="post" data-post-id="28666" data-author="Vixn" data-date="2009-04-04T18:14:02+00:00" data-subject="bullshit">
 
 sing 'hymn of an artisan' silance
 
@@ -50,7 +50,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="28667" data-author="Rynquald" data-date="2009-04-05T00:35:20+00:00">
+<div class="post" data-post-id="28667" data-author="Rynquald" data-date="2009-04-05T00:35:20+00:00" data-subject="">
 
 Things like that are bound to happen anywhere you have a RNG calling the shots.
 
@@ -58,7 +58,7 @@ I know what you mean though, it still sucks when it happens.
 
 </div>
 
-<div class="post" data-post-id="28668" data-author="Vixn" data-date="2009-04-05T07:01:11+00:00">
+<div class="post" data-post-id="28668" data-author="Vixn" data-date="2009-04-05T07:01:11+00:00" data-subject="">
 
 You're wrong Rynq or try to fool us. If you think that ... has came from RNG go try to blow Ars of Magic or Devilskin Gauntlets (both final forges).
 
@@ -70,7 +70,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="28670" data-author="*juggleblood*" data-date="2009-04-05T22:20:01+00:00">
+<div class="post" data-post-id="28670" data-author="*juggleblood*" data-date="2009-04-05T22:20:01+00:00" data-subject="">
 
 I took a look at it and you r right. Fail rate was set unfairly high. I knocked it down considerably.
 
@@ -78,13 +78,13 @@ Comfort.
 
 </div>
 
-<div class="post" data-post-id="28671" data-author="jezer" data-date="2009-04-05T23:05:19+00:00">
+<div class="post" data-post-id="28671" data-author="jezer" data-date="2009-04-05T23:05:19+00:00" data-subject="">
 
 Give the man his item.  :evil:
 
 </div>
 
-<div class="post" data-post-id="28672" data-author="Rynquald" data-date="2009-04-06T03:13:23+00:00">
+<div class="post" data-post-id="28672" data-author="Rynquald" data-date="2009-04-06T03:13:23+00:00" data-subject="">
 
 I stand corrected.
 
@@ -92,7 +92,7 @@ For some reason I was thinking Silance was the forger for Wiedzmins rings. Would
 
 </div>
 
-<div class="post" data-post-id="28674" data-author="Jag" data-date="2009-04-06T14:57:26+00:00">
+<div class="post" data-post-id="28674" data-author="Jag" data-date="2009-04-06T14:57:26+00:00" data-subject="">
 
 Three cheers for anyone, and especially our imms who take the time to look into gripes, recognize when a problem is real and take action.  
 
@@ -100,13 +100,13 @@ Nice going!  Yeah Sloth.
 
 </div>
 
-<div class="post" data-post-id="28675" data-author="Vixn" data-date="2009-04-06T16:59:42+00:00">
+<div class="post" data-post-id="28675" data-author="Vixn" data-date="2009-04-06T16:59:42+00:00" data-subject="">
 
 Thank you very much!
 
 </div>
 
-<div class="post" data-post-id="28685" data-author="Yinao" data-date="2009-04-08T08:58:14+00:00">
+<div class="post" data-post-id="28685" data-author="Yinao" data-date="2009-04-08T08:58:14+00:00" data-subject="">
 
 We like to hear Edd squeel once in a while anyways!
 

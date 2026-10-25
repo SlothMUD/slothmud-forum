@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="38627" data-author="*teker*" data-date="2018-01-17T15:57:49+00:00">
+<div class="post" data-post-id="38627" data-author="*teker*" data-date="2018-01-17T15:57:49+00:00" data-subject="Changelog 2018-01-17">
 
 I modified spectral shield and the hidden mace of the underworld to behave differently when mana is full.  It shouldn't drop your mana down when the effect triggers but if you're in a situation where your current mana is a lot higher than your maximum mana there's a chance it'll do damage to you instead.
 
@@ -34,13 +34,13 @@ The rack is currently empty and will remain that way until players start deposit
 
 </div>
 
-<div class="post" data-post-id="38629" data-author="Ezekiel" data-date="2018-01-17T19:51:10+00:00">
+<div class="post" data-post-id="38629" data-author="Ezekiel" data-date="2018-01-17T19:51:10+00:00" data-subject="Re: Changelog 2018-01-17">
 
 Thank you imms! Much appreciated.
 
 </div>
 
-<div class="post" data-post-id="38631" data-author="Teron" data-date="2018-01-18T06:22:32+00:00">
+<div class="post" data-post-id="38631" data-author="Teron" data-date="2018-01-18T06:22:32+00:00" data-subject="Re: Changelog 2018-01-17">
 
 Thanks for the spectral and weight message fixes. You've retired one of my aliases and triggers that captured, to whom I was trying to give smth - they sucked.
 
@@ -56,13 +56,13 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="38632" data-author="*teker*" data-date="2018-01-19T15:18:52+00:00">
+<div class="post" data-post-id="38632" data-author="*teker*" data-date="2018-01-19T15:18:52+00:00" data-subject="Re: Changelog 2018-01-17">
 
 We're not changing it to a locker.  You guys are going to have to find a way to get along.
 
 </div>
 
-<div class="post" data-post-id="38633" data-author="Teron" data-date="2018-01-20T18:00:51+00:00">
+<div class="post" data-post-id="38633" data-author="Teron" data-date="2018-01-20T18:00:51+00:00" data-subject="Re: Changelog 2018-01-17">
 
 Changing it to a 4 slots personal locker would mean everyone would have to pop their own specs to keep groups going, and that the two people popping specs would be able to start a group.
 

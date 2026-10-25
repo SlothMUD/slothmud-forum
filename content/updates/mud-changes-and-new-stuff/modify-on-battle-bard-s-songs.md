@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31607" data-author="*Isabo*" data-date="2010-08-26T05:13:16+00:00">
+<div class="post" data-post-id="31607" data-author="*Isabo*" data-date="2010-08-26T05:13:16+00:00" data-subject="Modify on battle bard&#x27;s songs">
 
 Good day, mortals.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="26820" data-author="Assirian" data-date="2008-10-23T10:57:04+00:00">
+<div class="post" data-post-id="26820" data-author="Assirian" data-date="2008-10-23T10:57:04+00:00" data-subject="valk broken?">
 
 <586hp 316ma 123mv>
 
@@ -68,7 +68,7 @@ pls, look at it..
 
 </div>
 
-<div class="post" data-post-id="26821" data-author="angel" data-date="2008-10-23T12:07:08+00:00">
+<div class="post" data-post-id="26821" data-author="angel" data-date="2008-10-23T12:07:08+00:00" data-subject="broken stuffs?">
 
 <958hp 156ma 117mv>[-12.0] [+16h - +15d] [742,054] [+10] [The Ebony Tower]
 
@@ -150,19 +150,19 @@ minotaur missed me a full good round n i still received damage.might wanna check
 
 </div>
 
-<div class="post" data-post-id="26822" data-author="*juggleblood*" data-date="2008-10-23T13:49:59+00:00">
+<div class="post" data-post-id="26822" data-author="*juggleblood*" data-date="2008-10-23T13:49:59+00:00" data-subject="">
 
 strange bug indeed
 
 </div>
 
-<div class="post" data-post-id="26828" data-author="jezer" data-date="2008-10-23T23:33:43+00:00">
+<div class="post" data-post-id="26828" data-author="jezer" data-date="2008-10-23T23:33:43+00:00" data-subject="">
 
 I like hilda better  :evil:
 
 </div>
 
-<div class="post" data-post-id="26829" data-author="Tap" data-date="2008-10-23T23:37:27+00:00">
+<div class="post" data-post-id="26829" data-author="Tap" data-date="2008-10-23T23:37:27+00:00" data-subject="">
 
 Please don't scare me like that. No star city or those midnight jaunts to Ersa?
 
@@ -170,7 +170,7 @@ Please don't scare me like that. No star city or those midnight jaunts to Ersa?
 
 </div>
 
-<div class="post" data-post-id="26832" data-author="Assirian" data-date="2008-10-24T09:49:03+00:00">
+<div class="post" data-post-id="26832" data-author="Assirian" data-date="2008-10-24T09:49:03+00:00" data-subject="">
 
 it is fixed, thanks )
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="34294" data-author="Nyx" data-date="2013-05-16T04:10:57+00:00">
+<div class="post" data-post-id="34294" data-author="Nyx" data-date="2013-05-16T04:10:57+00:00" data-subject="Slime destroys pops?">
 
 In BH Sewers:
 
@@ -50,7 +50,7 @@ Can someone please advise/fix? Thanks.
 
 </div>
 
-<div class="post" data-post-id="34295" data-author="Yasik" data-date="2013-05-17T04:51:22+00:00">
+<div class="post" data-post-id="34295" data-author="Yasik" data-date="2013-05-17T04:51:22+00:00" data-subject="Re: Slime destroys pops?">
 
 infravision + darksight
 
@@ -58,7 +58,7 @@ PS: You have Autoloot turned on or off?
 
 </div>
 
-<div class="post" data-post-id="34296" data-author="Nyx" data-date="2013-05-17T08:24:44+00:00">
+<div class="post" data-post-id="34296" data-author="Nyx" data-date="2013-05-17T08:24:44+00:00" data-subject="Re: Slime destroys pops?">
 
 Loot on - not that it matters because there's no corpse.
 
@@ -66,19 +66,19 @@ Always have masterful avatar sight up :)
 
 </div>
 
-<div class="post" data-post-id="34297" data-author="Yasik" data-date="2013-05-17T11:02:22+00:00">
+<div class="post" data-post-id="34297" data-author="Yasik" data-date="2013-05-17T11:02:22+00:00" data-subject="Re: Slime destroys pops?">
 
 I have noticed sometimes mobs don't leave corpses, vines on the way from BH to Westwood, for example. Probably a bug, or a feature.
 
 </div>
 
-<div class="post" data-post-id="34299" data-author="Nyx" data-date="2013-05-17T22:20:05+00:00">
+<div class="post" data-post-id="34299" data-author="Nyx" data-date="2013-05-17T22:20:05+00:00" data-subject="Re: Slime destroys pops?">
 
 The lack of corpse is a feature but I'm not sure if it's a bug or feature that the pop disappears. It's not the first time I've seen slime/plant type creature destroy it's pop. If it's by design some confirmation would be nice, please.
 
 </div>
 
-<div class="post" data-post-id="34300" data-author="*Breeze*" data-date="2013-05-18T16:00:35+00:00">
+<div class="post" data-post-id="34300" data-author="*Breeze*" data-date="2013-05-18T16:00:35+00:00" data-subject="Re: Slime destroys pops?">
 
 looked into it, sent rick an email.
 
@@ -86,13 +86,13 @@ will see what we can do.
 
 </div>
 
-<div class="post" data-post-id="34302" data-author="Marvel" data-date="2013-05-19T11:11:42+00:00">
+<div class="post" data-post-id="34302" data-author="Marvel" data-date="2013-05-19T11:11:42+00:00" data-subject="Re: Slime destroys pops?">
 
 PS: It's not just slimes in sewers. Pretty much all "leave-no-corpses" procs have destroyed pops. Have noticed it across Valkyre and BH, etc... like the bees in park, wasps in Valkyre, mosquitos in Valkyre, etc.
 
 </div>
 
-<div class="post" data-post-id="34304" data-author="Yasik" data-date="2013-05-24T10:15:06+00:00">
+<div class="post" data-post-id="34304" data-author="Yasik" data-date="2013-05-24T10:15:06+00:00" data-subject="Re: Slime destroys pops?">
 
 Shadows in Catacombs, BH, loot corpses and dont leave anything upon death.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5343" data-author="*Splork*" data-date="2005-04-01T02:49:10+00:00">
+<div class="post" data-post-id="5343" data-author="*Splork*" data-date="2005-04-01T02:49:10+00:00" data-subject="New Druid Skill">
 
 New druid skill called cover tracks is now ingame, please refer to the help file...
 

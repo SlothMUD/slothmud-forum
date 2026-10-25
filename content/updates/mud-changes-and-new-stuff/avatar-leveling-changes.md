@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29836" data-author="*Splork*" data-date="2009-08-15T23:21:58+00:00">
+<div class="post" data-post-id="29836" data-author="*Splork*" data-date="2009-08-15T23:21:58+00:00" data-subject="Avatar leveling changes">
 
 Starting at 4x40, a player can level the avatar class. Every 40th in a class there after gains an additional 5 possible avatar levels.
 

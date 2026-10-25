@@ -10,7 +10,7 @@ locked: false
 post_count: 57
 ---
 
-<div class="post" data-post-id="15472" data-author="Medios" data-date="2006-12-06T23:42:20+00:00">
+<div class="post" data-post-id="15472" data-author="Medios" data-date="2006-12-06T23:42:20+00:00" data-subject="Boycott?">
 
 I heard some hilarious shit today.  Something about DS banding together to "defy" DoW.  Hah , the jokes on you jack.
 
@@ -18,37 +18,37 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15473" data-author="13" data-date="2006-12-06T23:57:42+00:00">
+<div class="post" data-post-id="15473" data-author="13" data-date="2006-12-06T23:57:42+00:00" data-subject="">
 
 funny shit, gl with those raises in the pyramid, oh wait, you'll be at the elites on the castle, my bad.
 
 </div>
 
-<div class="post" data-post-id="15475" data-author="Rynquald" data-date="2006-12-07T01:03:52+00:00">
+<div class="post" data-post-id="15475" data-author="Rynquald" data-date="2006-12-07T01:03:52+00:00" data-subject="">
 
 First I've heard about it, nothing against DoW or any of its members here.
 
 </div>
 
-<div class="post" data-post-id="15476" data-author="12345" data-date="2006-12-07T01:04:21+00:00">
+<div class="post" data-post-id="15476" data-author="12345" data-date="2006-12-07T01:04:21+00:00" data-subject="">
 
 Personally, I'd love to know where you heard it.  I've not heard of such a thing.
 
 </div>
 
-<div class="post" data-post-id="15477" data-author="13" data-date="2006-12-07T01:12:00+00:00">
+<div class="post" data-post-id="15477" data-author="13" data-date="2006-12-07T01:12:00+00:00" data-subject="">
 
 I think Rub wants to get Down.
 
 </div>
 
-<div class="post" data-post-id="15478" data-author="Ironwolf" data-date="2006-12-07T01:13:40+00:00">
+<div class="post" data-post-id="15478" data-author="Ironwolf" data-date="2006-12-07T01:13:40+00:00" data-subject="">
 
 Ya thats the frist i heard  that. There is no such thing as ds banning together to defy any clan on sloth.
 
 </div>
 
-<div class="post" data-post-id="15479" data-author="Toxis" data-date="2006-12-07T01:15:11+00:00">
+<div class="post" data-post-id="15479" data-author="Toxis" data-date="2006-12-07T01:15:11+00:00" data-subject="Childish Behavior">
 
 It's just silly stuff.  It seems as if Rub has a personal vendetta against Aaron and Al.
 
@@ -64,19 +64,19 @@ Now if that isn't childish, I don't know what is.
 
 </div>
 
-<div class="post" data-post-id="15480" data-author="12345" data-date="2006-12-07T01:29:47+00:00">
+<div class="post" data-post-id="15480" data-author="12345" data-date="2006-12-07T01:29:47+00:00" data-subject="">
 
 Thanks for the info Brad.
 
 </div>
 
-<div class="post" data-post-id="15481" data-author="Medios" data-date="2006-12-07T02:06:38+00:00">
+<div class="post" data-post-id="15481" data-author="Medios" data-date="2006-12-07T02:06:38+00:00" data-subject="">
 
 Ok i know more, ill be breakin my foot off in Rubs rosey hind.
 
 </div>
 
-<div class="post" data-post-id="15482" data-author="alias" data-date="2006-12-07T02:44:35+00:00">
+<div class="post" data-post-id="15482" data-author="alias" data-date="2006-12-07T02:44:35+00:00" data-subject="">
 
 Hmm i seem to be way out of the loop. Its on and off again before I even log in. geesh. Well some things never change.
 
@@ -88,13 +88,13 @@ well everyone but Auto.
 
 </div>
 
-<div class="post" data-post-id="15483" data-author="Ironwolf" data-date="2006-12-07T02:47:05+00:00">
+<div class="post" data-post-id="15483" data-author="Ironwolf" data-date="2006-12-07T02:47:05+00:00" data-subject="">
 
 ya no one likes auto :)
 
 </div>
 
-<div class="post" data-post-id="15484" data-author="Autolycos" data-date="2006-12-07T03:50:15+00:00">
+<div class="post" data-post-id="15484" data-author="Autolycos" data-date="2006-12-07T03:50:15+00:00" data-subject="">
 
 heh..  like i care..  :twisted: 
 
@@ -106,19 +106,19 @@ if someone is talkin smack.. they should be big enuff to say it at least
 
 </div>
 
-<div class="post" data-post-id="15486" data-author="Krok" data-date="2006-12-07T04:43:31+00:00">
+<div class="post" data-post-id="15486" data-author="Krok" data-date="2006-12-07T04:43:31+00:00" data-subject="">
 
 Wow, 2 noobs helping the 3rd.. that's some great support!
 
 </div>
 
-<div class="post" data-post-id="15487" data-author="brady" data-date="2006-12-07T05:06:44+00:00">
+<div class="post" data-post-id="15487" data-author="brady" data-date="2006-12-07T05:06:44+00:00" data-subject="">
 
 Which one of you took my damn milk money?   :x
 
 </div>
 
-<div class="post" data-post-id="15488" data-author="12345" data-date="2006-12-07T05:12:05+00:00">
+<div class="post" data-post-id="15488" data-author="12345" data-date="2006-12-07T05:12:05+00:00" data-subject="">
 
 Milk money? That was a charitable donation to the... Help Keep the Message Boards Clean Fund... yeah, that's it.
 
@@ -126,7 +126,7 @@ The message boards have been getting spammed a lot lately, and we're collecting 
 
 </div>
 
-<div class="post" data-post-id="15490" data-author="*juggleblood*" data-date="2006-12-07T08:09:22+00:00">
+<div class="post" data-post-id="15490" data-author="*juggleblood*" data-date="2006-12-07T08:09:22+00:00" data-subject="Ridiculous Accusations??">
 
 Hrm, thats a strange thought. I was grouping with Al and Keirin every day before he got booted. I bugged Clink constantly afterward and was the first person to ask for an explanation on the crier. I also still talk to him on MSN and look forward to his coming back.
 
@@ -146,7 +146,7 @@ Much love to all
 
 </div>
 
-<div class="post" data-post-id="15491" data-author="Krok" data-date="2006-12-07T08:32:37+00:00">
+<div class="post" data-post-id="15491" data-author="Krok" data-date="2006-12-07T08:32:37+00:00" data-subject="">
 
 I just read that you and Elsie are trying to piss 'certain' people off. I thought it's pretty silly and funny, sowwy. And about calling you a newb.. Erm, is the truth SO offensive? :)
 
@@ -154,37 +154,37 @@ Anyways, I'm mostly playing WoW, so I just log on to crier to get my spam points
 
 </div>
 
-<div class="post" data-post-id="15492" data-author="*juggleblood*" data-date="2006-12-07T08:36:04+00:00">
+<div class="post" data-post-id="15492" data-author="*juggleblood*" data-date="2006-12-07T08:36:04+00:00" data-subject="">
 
 I'm a newb. You're a bitch. So what?
 
 </div>
 
-<div class="post" data-post-id="15493" data-author="Krok" data-date="2006-12-07T08:38:27+00:00">
+<div class="post" data-post-id="15493" data-author="Krok" data-date="2006-12-07T08:38:27+00:00" data-subject="">
 
 Nothing, I just couldn't resist stating that. Wasn't me to gt that crap :)
 
 </div>
 
-<div class="post" data-post-id="15494" data-author="Ezekiel" data-date="2006-12-07T08:40:50+00:00">
+<div class="post" data-post-id="15494" data-author="Ezekiel" data-date="2006-12-07T08:40:50+00:00" data-subject="">
 
 had no idea any of this was going on...sounds pretty lame and childish to me and would hope no one takes offense on any 'side' or whatever the hell you wanna call it. DoW and Pirates even have always rocked in my view, some of the most helpful on the game and run some badass groups along with DS. I'd rather be mudding and enjoying everybody's company than flaming. Peace all.
 
 </div>
 
-<div class="post" data-post-id="15495" data-author="Krok" data-date="2006-12-07T08:43:14+00:00">
+<div class="post" data-post-id="15495" data-author="Krok" data-date="2006-12-07T08:43:14+00:00" data-subject="">
 
 As for me, it doesn't even concern DS.
 
 </div>
 
-<div class="post" data-post-id="15496" data-author="*juggleblood*" data-date="2006-12-07T08:49:23+00:00">
+<div class="post" data-post-id="15496" data-author="*juggleblood*" data-date="2006-12-07T08:49:23+00:00" data-subject="">
 
 It doesn't concern you either. You don't even play anymore.
 
 </div>
 
-<div class="post" data-post-id="15497" data-author="Krok" data-date="2006-12-07T08:54:30+00:00">
+<div class="post" data-post-id="15497" data-author="Krok" data-date="2006-12-07T08:54:30+00:00" data-subject="">
 
 I thought you don't play as well!
 
@@ -196,13 +196,13 @@ Exp total:       663268042
 
 </div>
 
-<div class="post" data-post-id="15498" data-author="*juggleblood*" data-date="2006-12-07T09:32:25+00:00">
+<div class="post" data-post-id="15498" data-author="*juggleblood*" data-date="2006-12-07T09:32:25+00:00" data-subject="">
 
 Grats.
 
 </div>
 
-<div class="post" data-post-id="15499" data-author="Vixn" data-date="2006-12-07T09:41:39+00:00">
+<div class="post" data-post-id="15499" data-author="Vixn" data-date="2006-12-07T09:41:39+00:00" data-subject="">
 
 Heh, my 1x40 feeble newbie got more last week.
 
@@ -210,7 +210,7 @@ Heh, my 1x40 feeble newbie got more last week.
 
 </div>
 
-<div class="post" data-post-id="15500" data-author="Elsie" data-date="2006-12-07T09:47:46+00:00">
+<div class="post" data-post-id="15500" data-author="Elsie" data-date="2006-12-07T09:47:46+00:00" data-subject="How did my name get pulled into this?">
 
 hmmm not for the first time my names been brought into a thread on here without my knowledge and I seem to now be in the middle of some stuff I didn't ask for. 
 
@@ -238,13 +238,13 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="15501" data-author="Krok" data-date="2006-12-07T10:17:14+00:00">
+<div class="post" data-post-id="15501" data-author="Krok" data-date="2006-12-07T10:17:14+00:00" data-subject="">
 
 Hey, Edd, that was only for this morning :)))
 
 </div>
 
-<div class="post" data-post-id="15502" data-author="Hades" data-date="2006-12-07T11:27:25+00:00">
+<div class="post" data-post-id="15502" data-author="Hades" data-date="2006-12-07T11:27:25+00:00" data-subject="Char for sale">
 
 name is Dowpthief...
 
@@ -254,7 +254,7 @@ asking 15-20 mil coins
 
 </div>
 
-<div class="post" data-post-id="15503" data-author="Elsie" data-date="2006-12-07T12:54:42+00:00">
+<div class="post" data-post-id="15503" data-author="Elsie" data-date="2006-12-07T12:54:42+00:00" data-subject="">
 
 oh gods I knew something like this would happen if I posted in this thread but as my name had been dragged in I felt I had to.
 
@@ -284,7 +284,7 @@ And before you complain, yes I am now making a little bit of fun of you but only
 
 </div>
 
-<div class="post" data-post-id="15504" data-author="Autolycos" data-date="2006-12-07T13:34:10+00:00">
+<div class="post" data-post-id="15504" data-author="Autolycos" data-date="2006-12-07T13:34:10+00:00" data-subject="">
 
 laff Elsie..  Osa is pretty harmless.. his motivation factors greatly outweigh any anger he might have.
 
@@ -294,7 +294,7 @@ if so.. i'm going to Tickmaster for my front row seats!!!
 
 </div>
 
-<div class="post" data-post-id="15505" data-author="Medios" data-date="2006-12-07T13:40:42+00:00">
+<div class="post" data-post-id="15505" data-author="Medios" data-date="2006-12-07T13:40:42+00:00" data-subject="">
 
 My reason for doing this, apart from my good nature (I've done this to a lesser extent for many new players), is that he was getting hassled by as I understand it 3 members of DoW who took offence at his name or wanted to buy his char.
 
@@ -318,7 +318,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15506" data-author="13" data-date="2006-12-07T13:41:26+00:00">
+<div class="post" data-post-id="15506" data-author="13" data-date="2006-12-07T13:41:26+00:00" data-subject="dorks">
 
 Just what the fuck is going on here?  I wasn't aware that anyone was 'hassling' this guy Dow, (who I still think is not a true newb).  I guess 
 
@@ -330,7 +330,7 @@ the wrong way, I'm sure it's no secret.  What's the big deal?
 
 </div>
 
-<div class="post" data-post-id="15507" data-author="Hades" data-date="2006-12-07T13:59:05+00:00">
+<div class="post" data-post-id="15507" data-author="Hades" data-date="2006-12-07T13:59:05+00:00" data-subject="Also..">
 
 Dowdork is also for sale.. I hate to let him go but will sell for 5 mil coins or piece of equipment of equal or greater value.
 
@@ -340,7 +340,7 @@ Serious offers only
 
 </div>
 
-<div class="post" data-post-id="15508" data-author="*juggleblood*" data-date="2006-12-07T14:18:39+00:00">
+<div class="post" data-post-id="15508" data-author="*juggleblood*" data-date="2006-12-07T14:18:39+00:00" data-subject="Re: dorks">
 
 What's the big deal?[/quote:2g16f1s1]
 
@@ -348,19 +348,19 @@ No clue. Read the X-Mas thread. It's more entertaining. (I even got Aaron presen
 
 </div>
 
-<div class="post" data-post-id="15509" data-author="13" data-date="2006-12-07T14:18:53+00:00">
+<div class="post" data-post-id="15509" data-author="13" data-date="2006-12-07T14:18:53+00:00" data-subject="">
 
 Laugh
 
 </div>
 
-<div class="post" data-post-id="15510" data-author="Autolycos" data-date="2006-12-07T14:19:09+00:00">
+<div class="post" data-post-id="15510" data-author="Autolycos" data-date="2006-12-07T14:19:09+00:00" data-subject="">
 
 1 ration!   and not a crumb more!
 
 </div>
 
-<div class="post" data-post-id="15512" data-author="Toxis" data-date="2006-12-07T18:37:00+00:00">
+<div class="post" data-post-id="15512" data-author="Toxis" data-date="2006-12-07T18:37:00+00:00" data-subject="noob">
 
 I'm the DoW noob, yeah yeah... that's why I can't wait for Gimlet to return, he makes me look good. :)~
 
@@ -372,13 +372,13 @@ Brad
 
 </div>
 
-<div class="post" data-post-id="15513" data-author="Krok" data-date="2006-12-07T18:39:07+00:00">
+<div class="post" data-post-id="15513" data-author="Krok" data-date="2006-12-07T18:39:07+00:00" data-subject="">
 
 Do you REALLY think that'll make you look good? :D
 
 </div>
 
-<div class="post" data-post-id="15514" data-author="Autolycos" data-date="2006-12-07T18:41:54+00:00">
+<div class="post" data-post-id="15514" data-author="Autolycos" data-date="2006-12-07T18:41:54+00:00" data-subject="">
 
 laff...  
 
@@ -386,7 +386,7 @@ and Brad is the one who wanted to patent any char name with (tox) in it  :twiste
 
 </div>
 
-<div class="post" data-post-id="15517" data-author="Ingold" data-date="2006-12-07T20:49:03+00:00">
+<div class="post" data-post-id="15517" data-author="Ingold" data-date="2006-12-07T20:49:03+00:00" data-subject="New Players">
 
 Smile. Ok guys it's too close to Christmas for this. :P  Anyway my opinion is that Dow is a new player, who was pulled into this.  I have seen this player asking too many "real" new player questions of us in groups and in person.
 
@@ -406,7 +406,7 @@ What ever we do let's insure that new players continue to enjoy Sloth.
 
 </div>
 
-<div class="post" data-post-id="15518" data-author="Weasel" data-date="2006-12-07T20:55:51+00:00">
+<div class="post" data-post-id="15518" data-author="Weasel" data-date="2006-12-07T20:55:51+00:00" data-subject="">
 
 I wonder how Auto will react when someone starts a char named goatf***ker.  :twisted:
 
@@ -414,7 +414,7 @@ errr.. no offense meant to Damsel, of course.
 
 </div>
 
-<div class="post" data-post-id="15519" data-author="Lis" data-date="2006-12-07T21:36:10+00:00">
+<div class="post" data-post-id="15519" data-author="Lis" data-date="2006-12-07T21:36:10+00:00" data-subject="">
 
 [quote:3kq0canp]and I think that Rub was just having some harmless fun[/quote:3kq0canp]
 
@@ -440,7 +440,7 @@ Shame
 
 </div>
 
-<div class="post" data-post-id="15520" data-author="Autolycos" data-date="2006-12-07T21:36:18+00:00">
+<div class="post" data-post-id="15520" data-author="Autolycos" data-date="2006-12-07T21:36:18+00:00" data-subject="">
 
 wow.....
 
@@ -448,19 +448,19 @@ was nice knowing you weasel.    :twisted:
 
 </div>
 
-<div class="post" data-post-id="15521" data-author="Mosaix" data-date="2006-12-07T21:48:39+00:00">
+<div class="post" data-post-id="15521" data-author="Mosaix" data-date="2006-12-07T21:48:39+00:00" data-subject="">
 
 Im sorry i took the time to read this thread.
 
 </div>
 
-<div class="post" data-post-id="15522" data-author="13" data-date="2006-12-07T22:19:47+00:00">
+<div class="post" data-post-id="15522" data-author="13" data-date="2006-12-07T22:19:47+00:00" data-subject="">
 
 Dow isn't a newb, laugh.  I knew it.
 
 </div>
 
-<div class="post" data-post-id="15523" data-author="Ingold" data-date="2006-12-07T22:29:30+00:00">
+<div class="post" data-post-id="15523" data-author="Ingold" data-date="2006-12-07T22:29:30+00:00" data-subject="">
 
 No absolutely do not think its funny!!  I feel bad for Dow if she is a new player.
 
@@ -468,7 +468,7 @@ Drum
 
 </div>
 
-<div class="post" data-post-id="15524" data-author="Shyla" data-date="2006-12-07T22:32:50+00:00">
+<div class="post" data-post-id="15524" data-author="Shyla" data-date="2006-12-07T22:32:50+00:00" data-subject="">
 
 You know normally I don't get involved and don't make waves because I want everyone to like me BUT I have had enough.
 
@@ -482,7 +482,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="15525" data-author="*Splork*" data-date="2006-12-07T22:46:03+00:00">
+<div class="post" data-post-id="15525" data-author="*Splork*" data-date="2006-12-07T22:46:03+00:00" data-subject="">
 
 The Immortals of SlothMUD would not allow anyone/group drive a newbie off. We would of stepped in.
 
@@ -492,7 +492,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="15526" data-author="Hades" data-date="2006-12-07T23:55:05+00:00">
+<div class="post" data-post-id="15526" data-author="Hades" data-date="2006-12-07T23:55:05+00:00" data-subject="Drawing conclusions">
 
 No need NOT to say it
 
@@ -502,7 +502,7 @@ I Blame Splork
 
 </div>
 
-<div class="post" data-post-id="15527" data-author="Hades" data-date="2006-12-08T03:21:40+00:00">
+<div class="post" data-post-id="15527" data-author="Hades" data-date="2006-12-08T03:21:40+00:00" data-subject="Attitude">
 
 I have two char's for sale
 
@@ -522,13 +522,13 @@ avoid making the deal yes,
 
 </div>
 
-<div class="post" data-post-id="15528" data-author="Snugger" data-date="2006-12-08T04:44:34+00:00">
+<div class="post" data-post-id="15528" data-author="Snugger" data-date="2006-12-08T04:44:34+00:00" data-subject="Thank You!">
 
 I knew if I waited long enough something would happen that would make the work day pass a little more quickly.  Thanks for the (melo)drama.  :)
 
 </div>
 
-<div class="post" data-post-id="15529" data-author="resouh" data-date="2006-12-08T09:28:56+00:00">
+<div class="post" data-post-id="15529" data-author="resouh" data-date="2006-12-08T09:28:56+00:00" data-subject="">
 
 Wow, haven't been on in a while, I found this thread amusing until I got to shyla's post, I had hoped that the newbie hadn't found the crier yet and wasn't hearing about it in game:( I gotta say it straight......... I'm relatively new, only about 2 1/2 years under my belt, and the reason I haven't been on is because of stuff like this.  On several occasions have had higher ups be confrontational towards me in my newb char... and call me a wuss but it ruins my fun:( I love sloth, but I think I'm leaning on taking another break from it, not because of the game, but because of the lack of cohesion of the player base, the overall attitude of the mud, I've been here forever and u can't run this area because my newb needs the xp..etc
 
@@ -540,7 +540,7 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="15530" data-author="Hades" data-date="2006-12-08T10:42:51+00:00">
+<div class="post" data-post-id="15530" data-author="Hades" data-date="2006-12-08T10:42:51+00:00" data-subject="Ok..auction withdrawn">
 
 More ribbing than you silly humans can handle at the moment, I'm withdrawing char's for sale. Most of thread was silly and replies in jest except
 
@@ -556,7 +556,7 @@ The Dead Guy
 
 </div>
 
-<div class="post" data-post-id="15540" data-author="Medios" data-date="2006-12-08T23:02:01+00:00">
+<div class="post" data-post-id="15540" data-author="Medios" data-date="2006-12-08T23:02:01+00:00" data-subject="">
 
 Resouh dont sweat the small stuff.  If you read past Shyla's post youll realize its not a newbie and everyone can draw conclusions from there.  Everyone on sloth gets along well for a npk mud.  Complaining over areas is really silly in my mind.  If you have to rely on 1-2 areas to play then you need to think of your overall sloth experience and mix it up.  There are alot of thing to do on sloth other than run xp.  I can log Medios on with 4 other Avatar thiefs in game and still have stuff that I need to kill regardless of who is runnin what.
 
@@ -570,7 +570,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15545" data-author="Autolycos" data-date="2006-12-09T02:31:24+00:00">
+<div class="post" data-post-id="15545" data-author="Autolycos" data-date="2006-12-09T02:31:24+00:00" data-subject="">
 
 I can log Medios on with 4 other Avatar thiefs in game and still have stuff that I need to kill regardless of who is runnin what.
 
@@ -584,7 +584,7 @@ Vaire.. you are gonna need to pick up my slack bro  :twisted:
 
 </div>
 
-<div class="post" data-post-id="15548" data-author="Yasik" data-date="2006-12-09T03:22:28+00:00">
+<div class="post" data-post-id="15548" data-author="Yasik" data-date="2006-12-09T03:22:28+00:00" data-subject="">
 
 cut teh spam already mmmkay :)
 
@@ -592,7 +592,7 @@ cut teh spam already mmmkay :)
 
 </div>
 
-<div class="post" data-post-id="15570" data-author="Ki" data-date="2006-12-10T02:59:47+00:00">
+<div class="post" data-post-id="15570" data-author="Ki" data-date="2006-12-10T02:59:47+00:00" data-subject="Nice Yasik">
 
 Hey, Yas....
 

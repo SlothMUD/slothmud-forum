@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1376" data-author="doug" data-date="2004-08-12T15:53:19+00:00">
+<div class="post" data-post-id="1376" data-author="doug" data-date="2004-08-12T15:53:19+00:00" data-subject="considering selling masado">
 
 Hi I'm thinking of selling off my character masado and wanted to gauge interest. I would sell for coins or perhaps eq if it's something I need for my newbie tank char. Here are his stats. I am not 100% decided on selling but if you are interested please make me an offer.
 

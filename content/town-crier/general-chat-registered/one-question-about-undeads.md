@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="8355" data-author="Gnu" data-date="2005-08-20T06:54:15+00:00">
+<div class="post" data-post-id="8355" data-author="Gnu" data-date="2005-08-20T06:54:15+00:00" data-subject="One question about Undeads">
 
 I have some questions about undeads that one can summon and animate. I have summoned 
 
@@ -108,13 +108,13 @@ mob, which can see.
 
 </div>
 
-<div class="post" data-post-id="8356" data-author="13" data-date="2005-08-20T10:23:27+00:00">
+<div class="post" data-post-id="8356" data-author="13" data-date="2005-08-20T10:23:27+00:00" data-subject="">
 
 agree.
 
 </div>
 
-<div class="post" data-post-id="8357" data-author="kjartan" data-date="2005-08-20T12:23:48+00:00">
+<div class="post" data-post-id="8357" data-author="kjartan" data-date="2005-08-20T12:23:48+00:00" data-subject="">
 
 I think the problem here is that the phantom's messages were broken.  The message is "A phantom billows cloudy white haze around you, making it difficult to see".  So, it's not supposed to be real blindness.  I fixed the messages.
 
@@ -122,13 +122,13 @@ The other problem is that this effect blocks the 'blindness' spell.  I have fixe
 
 </div>
 
-<div class="post" data-post-id="8358" data-author="13" data-date="2005-08-20T14:56:54+00:00">
+<div class="post" data-post-id="8358" data-author="13" data-date="2005-08-20T14:56:54+00:00" data-subject="">
 
 Hot dog :)
 
 </div>
 
-<div class="post" data-post-id="8359" data-author="Gnu" data-date="2005-08-20T17:33:16+00:00">
+<div class="post" data-post-id="8359" data-author="Gnu" data-date="2005-08-20T17:33:16+00:00" data-subject="">
 
 Thanx, Kj!
 

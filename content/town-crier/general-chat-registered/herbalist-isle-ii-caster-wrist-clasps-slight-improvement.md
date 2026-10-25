@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33138" data-author="*Idjit*" data-date="2012-01-14T03:22:47+00:00">
+<div class="post" data-post-id="33138" data-author="*Idjit*" data-date="2012-01-14T03:22:47+00:00" data-subject="Herbalist Isle II caster wrist clasps : slight improvement">
 
 Good evening,
 

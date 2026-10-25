@@ -10,19 +10,19 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="1565" data-author="El_Furax" data-date="2004-08-24T15:07:26+00:00">
+<div class="post" data-post-id="1565" data-author="El_Furax" data-date="2004-08-24T15:07:26+00:00" data-subject="Common skills across classes">
 
 Hi folks,<BR><BR>Well I hope I won't hit a RTFM for my first post =)<BR>I discovering sloth III and I'm a bit confused by the multiclass thingie (previous MUD experience = Abandoned Realms).<BR>What if several of my classes have common skills (eg : cure light) ? Will I get bonuses for these common skills ? Will they be the "same" skill (ie I'll get the % of the skill I already have from the previous class o­nce I have the level for the same skill in a secondary class) ?<BR><BR>I've always tried to get as much info as possible before choosing a class. My "trial" char is a ma/cl/ne/dr, and when I looked at the spells available for those classes, I realized a good chunk of them are available to all my classes (even more if you consider similar spells which have different names and can't stack together). What gives ? Any point in creating "pure caster" chars then ?<BR><BR>I gather that a *few* exclusive skills make a class special. If "prime o­nly" skills are quite easy to spot, what are the "bread and butter" skills of each classes that other classes can't get ? Or is this something I should discover myself... <BR><BR>Thanks a lot for all your input.<BR><BR>
 
 </div>
 
-<div class="post" data-post-id="1566" data-author="El_Furax" data-date="2004-08-24T15:08:41+00:00">
+<div class="post" data-post-id="1566" data-author="El_Furax" data-date="2004-08-24T15:08:41+00:00" data-subject="">
 
 Arg... well I do apologize for the ugly style of the above message, but I [i:3729y8dd]swear[/i:3729y8dd] it's all the fault of the "visual mode" which I'll never use again  :(
 
 </div>
 
-<div class="post" data-post-id="1567" data-author="Alberich" data-date="2004-08-24T15:29:10+00:00">
+<div class="post" data-post-id="1567" data-author="Alberich" data-date="2004-08-24T15:29:10+00:00" data-subject="">
 
 no, you don't get a bonus for spells that carry across classes - they are just there to give people a bit more options.  
 
@@ -34,7 +34,7 @@ Experiment, have fun, and don't be afraid to ask questions :)
 
 </div>
 
-<div class="post" data-post-id="1569" data-author="Ender" data-date="2004-08-24T16:12:51+00:00">
+<div class="post" data-post-id="1569" data-author="Ender" data-date="2004-08-24T16:12:51+00:00" data-subject="Advantages...">
 
 Many games have characters that are mostly similiar except for their available skill list.  Sloth isn't like this.  Differences in class order can affect the following:
 
@@ -56,7 +56,7 @@ For all else, Alberich says it very well.
 
 </div>
 
-<div class="post" data-post-id="1570" data-author="El_Furax" data-date="2004-08-24T17:24:41+00:00">
+<div class="post" data-post-id="1570" data-author="El_Furax" data-date="2004-08-24T17:24:41+00:00" data-subject="">
 
 Since I'm connecting from France, I guess I'll spent much of my time soloing...  Hmm... still time to consider a new class ! 
 
@@ -66,7 +66,7 @@ Thanks for your answers, hope to see you soon.
 
 </div>
 
-<div class="post" data-post-id="1573" data-author="blackmore" data-date="2004-08-24T19:30:46+00:00">
+<div class="post" data-post-id="1573" data-author="blackmore" data-date="2004-08-24T19:30:46+00:00" data-subject="">
 
 I've caused too many RL cf's at work today, so I think I'll rent from work for the day and respond to some of these questions.
 
@@ -80,7 +80,7 @@ In general: mages blast harder, clerics heal better, druids hug trees tighter, n
 
 </div>
 
-<div class="post" data-post-id="1574" data-author="El_Furax" data-date="2004-08-24T19:43:10+00:00">
+<div class="post" data-post-id="1574" data-author="El_Furax" data-date="2004-08-24T19:43:10+00:00" data-subject="">
 
 In general: mages blast harder, clerics heal better, druids hug trees tighter, necros play with the dead, warriors hit harder, thieves stab, bards sing songs, and monks have lots of different ways of causing physical harm - sort of like the nightwatch guards at Abu Ghraib.[/quote:lap706zl]
 
@@ -88,7 +88,7 @@ Lol, blackmore, you mind me using this one as sig ?  :D
 
 </div>
 
-<div class="post" data-post-id="1578" data-author="Zenkai" data-date="2004-08-25T01:34:43+00:00">
+<div class="post" data-post-id="1578" data-author="Zenkai" data-date="2004-08-25T01:34:43+00:00" data-subject="M/C/T/W">
 
 Welcome, El_Furax
 
@@ -98,7 +98,7 @@ This classo is a great solo or group character with a lot of equipment available
 
 </div>
 
-<div class="post" data-post-id="1580" data-author="El_Furax" data-date="2004-08-25T06:22:39+00:00">
+<div class="post" data-post-id="1580" data-author="El_Furax" data-date="2004-08-25T06:22:39+00:00" data-subject="Re: M/C/T/W">
 
 Welcome, El_Furax
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 43
 ---
 
-<div class="post" data-post-id="21911" data-author="jezer" data-date="2008-01-09T00:33:49+00:00">
+<div class="post" data-post-id="21911" data-author="jezer" data-date="2008-01-09T00:33:49+00:00" data-subject="Sloth Playerbase In Demise?">
 
 Is it just me, or are there half as much players level 20 and under these days than there was logged on, say 2 years ago?
 
@@ -22,7 +22,7 @@ Just interested to know your thoughts. Discuss...
 
 </div>
 
-<div class="post" data-post-id="21912" data-author="Rynquald" data-date="2008-01-09T00:43:53+00:00">
+<div class="post" data-post-id="21912" data-author="Rynquald" data-date="2008-01-09T00:43:53+00:00" data-subject="">
 
 Loosing so much ground on TMC hasn't been good for the newbie supply.
 
@@ -32,7 +32,7 @@ Specifically about the epics, they seem to have actually increased online number
 
 </div>
 
-<div class="post" data-post-id="21913" data-author="jezer" data-date="2008-01-09T01:36:44+00:00">
+<div class="post" data-post-id="21913" data-author="jezer" data-date="2008-01-09T01:36:44+00:00" data-subject="">
 
 [quote:2ncie4ae]Does it really matter if people that have been here for years are playing newbs or tards?[/quote:2ncie4ae]
 
@@ -52,19 +52,19 @@ So I guess I'm saying... where is the new blood these days? Am I right in thinki
 
 </div>
 
-<div class="post" data-post-id="21914" data-author="brady" data-date="2008-01-09T02:03:36+00:00">
+<div class="post" data-post-id="21914" data-author="brady" data-date="2008-01-09T02:03:36+00:00" data-subject="">
 
 Like Rynq said, we're ranked 9 on TMC.  If you want to see fresh players, rally the vote.
 
 </div>
 
-<div class="post" data-post-id="21915" data-author="Weasel" data-date="2008-01-09T02:07:49+00:00">
+<div class="post" data-post-id="21915" data-author="Weasel" data-date="2008-01-09T02:07:49+00:00" data-subject="">
 
 Yup - epics have appeared to increase grouping and online players imho, but mostly higher level. Voting us up on TMC worked previously..
 
 </div>
 
-<div class="post" data-post-id="21916" data-author="*juggleblood*" data-date="2008-01-09T04:14:30+00:00">
+<div class="post" data-post-id="21916" data-author="*juggleblood*" data-date="2008-01-09T04:14:30+00:00" data-subject="">
 
 I think you are imagining the playerbase decline. I took a 6 month break from the game and I came back and  now see lots of newer motivated chars hovering right around 3x40.
 
@@ -72,7 +72,7 @@ Epics have unquestioningly increased interest and enthusiasm for the game. We ju
 
 </div>
 
-<div class="post" data-post-id="21923" data-author="Vixn" data-date="2008-01-09T20:21:26+00:00">
+<div class="post" data-post-id="21923" data-author="Vixn" data-date="2008-01-09T20:21:26+00:00" data-subject="">
 
 1. Epics are for skilled players - I think real newbies don't join very often for honor hunting due to low exp.
 
@@ -86,7 +86,7 @@ Epics have unquestioningly increased interest and enthusiasm for the game. We ju
 
 </div>
 
-<div class="post" data-post-id="21925" data-author="*juggleblood*" data-date="2008-01-09T21:01:28+00:00">
+<div class="post" data-post-id="21925" data-author="*juggleblood*" data-date="2008-01-09T21:01:28+00:00" data-subject="">
 
 make game more interesting because newbie can run exp/eq with lowbie tank but should pay attention and not just sponge behind huge tard's arse.[/quote:1m9mp69p]
 
@@ -94,19 +94,19 @@ Exactly.
 
 </div>
 
-<div class="post" data-post-id="21926" data-author="Medios" data-date="2008-01-09T21:41:33+00:00">
+<div class="post" data-post-id="21926" data-author="Medios" data-date="2008-01-09T21:41:33+00:00" data-subject="">
 
 For me it breaks down like this.  For quite some time my clan members have been leaving to bigger and better games.  This leaves me with little, if any, support for small tasks.  I try to be fair and honest about my groups and can't remember glocking drachma/honor/quest groups.  I have even led groups and not called any mobs, just to help others(not my clannies either). With rising honor caps for each consecutive increase the easier mobs (Tasha, Vouhx, etc) are being locked down by small elite groups.  On a 4k honor mob, if you cap at 2k you can just be an ass and 2 run it 2 man.  Of course anyone wanting to join with be refused due to cycling rules.  I for one refuse to help people gain honor so that they can later turn their back on me.  I was working very hard leading honor mobs until I found out that it is not about honor at all.  It is about greed.  There is nothing honorable in the least about asking for my help when you need, then excluding me when not needed.  I would rather never play sloth ever again than to be turned down for quest/honor groups.  I get on this website and sometimes check the gwho.  I am glad that a few people are still leading in my absence.  I checked out WoW and decided its not for me but I still don't know if I am ready for more bots, afkrs and @ssholes.
 
 </div>
 
-<div class="post" data-post-id="21928" data-author="Leaf" data-date="2008-01-09T22:27:58+00:00">
+<div class="post" data-post-id="21928" data-author="Leaf" data-date="2008-01-09T22:27:58+00:00" data-subject="">
 
 Fight the good fight Mikey!!!
 
 </div>
 
-<div class="post" data-post-id="21929" data-author="jezer" data-date="2008-01-09T22:45:23+00:00">
+<div class="post" data-post-id="21929" data-author="jezer" data-date="2008-01-09T22:45:23+00:00" data-subject="">
 
 That's one thing I have noticed in the (very) few honor groups I have been involved in... When it's doesn't go right hitting the mob, there is quite a lot of small resentments coming out against other players. Sometimes I get the impression people are grouping with people, they would not want to group with if they had a choice. It's kind of like epics are holding them together... but at any point some one is ready to storm off in a hissy fit.
 
@@ -116,7 +116,7 @@ I 'd like to see more new players... voting is good... but we have fewer people 
 
 </div>
 
-<div class="post" data-post-id="21930" data-author="Alberich" data-date="2008-01-09T23:23:37+00:00">
+<div class="post" data-post-id="21930" data-author="Alberich" data-date="2008-01-09T23:23:37+00:00" data-subject="">
 
 Sometimes I get the impression people are grouping with people, they would not want to group with if they had a choice. [/quote:q1l44zi3]
 
@@ -124,7 +124,7 @@ pretty much deadon.  groups suck, but are neccessary for some mobs.  how is this
 
 </div>
 
-<div class="post" data-post-id="21938" data-author="Bazilus" data-date="2008-01-10T10:14:52+00:00">
+<div class="post" data-post-id="21938" data-author="Bazilus" data-date="2008-01-10T10:14:52+00:00" data-subject="">
 
 For me it breaks down like this.  For quite some time my clan members have been leaving to bigger and better games.  This leaves me with little, if any, support for small tasks.  I try to be fair and honest about my groups and can't remember glocking drachma/honor/quest groups.  I have even led groups and not called any mobs, just to help others(not my clannies either). With rising honor caps for each consecutive increase the easier mobs (Tasha, Vouhx, etc) are being locked down by small elite groups.  On a 4k honor mob, if you cap at 2k you can just be an ass and 2 run it 2 man.  Of course anyone wanting to join with be refused due to cycling rules.  I for one refuse to help people gain honor so that they can later turn their back on me.  I was working very hard leading honor mobs until I found out that it is not about honor at all.  It is about greed.  There is nothing honorable in the least about asking for my help when you need, then excluding me when not needed.  I would rather never play sloth ever again than to be turned down for quest/honor groups.  I get on this website and sometimes check the gwho.  I am glad that a few people are still leading in my absence.  I checked out WoW and decided its not for me but I still don't know if I am ready for more bots, afkrs and @ssholes.[/quote:17mds29m]
 
@@ -136,7 +136,7 @@ Bazlus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="21939" data-author="13" data-date="2008-01-10T14:58:33+00:00">
+<div class="post" data-post-id="21939" data-author="13" data-date="2008-01-10T14:58:33+00:00" data-subject="">
 
 It's not nonsense Baz.  It's horseshit that you would lock Mike out.
 
@@ -166,7 +166,7 @@ P.S. - I love PVP.
 
 </div>
 
-<div class="post" data-post-id="21940" data-author="*juggleblood*" data-date="2008-01-10T15:12:49+00:00">
+<div class="post" data-post-id="21940" data-author="*juggleblood*" data-date="2008-01-10T15:12:49+00:00" data-subject="">
 
 I think Mike does make a fair point here. In the future when more people have higher rank and their caps rise, theres going to be a growing desire to reduce the number of groupmembers in an epic group. 
 
@@ -176,7 +176,7 @@ I don't see it as too much of a problem now, but I see some potential for future
 
 </div>
 
-<div class="post" data-post-id="21943" data-author="Bazilus" data-date="2008-01-10T16:58:25+00:00">
+<div class="post" data-post-id="21943" data-author="Bazilus" data-date="2008-01-10T16:58:25+00:00" data-subject="">
 
 I think Mike does make a fair point here. In the future when more people have higher rank and their caps rise, theres going to be a growing desire to reduce the number of groupmembers in an epic group. 
 
@@ -192,13 +192,13 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="21944" data-author="Krok" data-date="2008-01-10T17:23:29+00:00">
+<div class="post" data-post-id="21944" data-author="Krok" data-date="2008-01-10T17:23:29+00:00" data-subject="">
 
 Oh, Aaron, you guys are playing WoW? :) What are your chars? Yes, I'm lazy to check US armory.
 
 </div>
 
-<div class="post" data-post-id="21946" data-author="Vixn" data-date="2008-01-10T19:20:46+00:00">
+<div class="post" data-post-id="21946" data-author="Vixn" data-date="2008-01-10T19:20:46+00:00" data-subject="">
 
 Hey Eudaemon! 
 
@@ -206,13 +206,13 @@ How are you!?
 
 </div>
 
-<div class="post" data-post-id="21948" data-author="13" data-date="2008-01-10T20:30:42+00:00">
+<div class="post" data-post-id="21948" data-author="13" data-date="2008-01-10T20:30:42+00:00" data-subject="">
 
 I have a 35 troll hunter who is BM spec, a 30 rogue, an 18 druid, Krodar, who is the GM.  roll a newb on dragonmaw kroka, nabster did :)
 
 </div>
 
-<div class="post" data-post-id="21951" data-author="jezer" data-date="2008-01-10T22:36:33+00:00">
+<div class="post" data-post-id="21951" data-author="jezer" data-date="2008-01-10T22:36:33+00:00" data-subject="">
 
 Frankly, I'm disappointed with Weasel, it's around about this time he posts a lol cat....  :twisted:  Where the heck is it?!?!  :evil: 
 
@@ -222,13 +222,13 @@ Ok, over to weasel, hit us with it....
 
 </div>
 
-<div class="post" data-post-id="21952" data-author="Weasel" data-date="2008-01-10T23:04:44+00:00">
+<div class="post" data-post-id="21952" data-author="Weasel" data-date="2008-01-10T23:04:44+00:00" data-subject="">
 
 [img:3du6zft0]http://lolcat.com/pics/purplzkitty.jpg[/img:3du6zft0]
 
 </div>
 
-<div class="post" data-post-id="21953" data-author="Medios" data-date="2008-01-10T23:22:34+00:00">
+<div class="post" data-post-id="21953" data-author="Medios" data-date="2008-01-10T23:22:34+00:00" data-subject="">
 
 Oh so now the mob was awful?
 
@@ -236,13 +236,13 @@ Heh, no comment.  I am pretty sure there was other people there at the time and 
 
 </div>
 
-<div class="post" data-post-id="21954" data-author="jezer" data-date="2008-01-10T23:37:40+00:00">
+<div class="post" data-post-id="21954" data-author="jezer" data-date="2008-01-10T23:37:40+00:00" data-subject="">
 
 [img:2tetyahh]http://icanhascheezburger.files.wordpress.com/2007/02/1170053901187.jpg[/img:2tetyahh]
 
 </div>
 
-<div class="post" data-post-id="21955" data-author="Bazilus" data-date="2008-01-11T00:42:04+00:00">
+<div class="post" data-post-id="21955" data-author="Bazilus" data-date="2008-01-11T00:42:04+00:00" data-subject="">
 
 Oh so now the mob was awful?
 
@@ -254,7 +254,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="21956" data-author="Bazilus" data-date="2008-01-11T00:45:23+00:00">
+<div class="post" data-post-id="21956" data-author="Bazilus" data-date="2008-01-11T00:45:23+00:00" data-subject="">
 
 Oh so now the mob was awful?
 
@@ -266,19 +266,19 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="21957" data-author="jezer" data-date="2008-01-11T01:22:23+00:00">
+<div class="post" data-post-id="21957" data-author="jezer" data-date="2008-01-11T01:22:23+00:00" data-subject="">
 
 [img:lgr2885z]http://pksundar.sulekha.com/mstore/pksundar/albums/MySnap3.jpg[/img:lgr2885z]
 
 </div>
 
-<div class="post" data-post-id="21958" data-author="*juggleblood*" data-date="2008-01-11T01:28:40+00:00">
+<div class="post" data-post-id="21958" data-author="*juggleblood*" data-date="2008-01-11T01:28:40+00:00" data-subject="">
 
 I bid 100 USD for character cocaine w/eq...
 
 </div>
 
-<div class="post" data-post-id="21960" data-author="13" data-date="2008-01-11T02:03:58+00:00">
+<div class="post" data-post-id="21960" data-author="13" data-date="2008-01-11T02:03:58+00:00" data-subject="">
 
 i keep tellin brad 500$
 
@@ -288,7 +288,7 @@ but if someone has 500 bucks..all yours baby
 
 </div>
 
-<div class="post" data-post-id="21961" data-author="jezer" data-date="2008-01-11T02:31:39+00:00">
+<div class="post" data-post-id="21961" data-author="jezer" data-date="2008-01-11T02:31:39+00:00" data-subject="">
 
 A sloth character worth $500?!?!?!  :shock: 
 
@@ -296,13 +296,13 @@ Any chance of doing, a score, a prac, balance, and an eq and pasting the results
 
 </div>
 
-<div class="post" data-post-id="21962" data-author="Yinao" data-date="2008-01-11T02:56:47+00:00">
+<div class="post" data-post-id="21962" data-author="Yinao" data-date="2008-01-11T02:56:47+00:00" data-subject="">
 
 "Cocaine is a hell of a drug"  8)
 
 </div>
 
-<div class="post" data-post-id="21963" data-author="Weasel" data-date="2008-01-11T03:11:00+00:00">
+<div class="post" data-post-id="21963" data-author="Weasel" data-date="2008-01-11T03:11:00+00:00" data-subject="">
 
 Cocaine is God's way of saying you're making too much money. (Robin Williams)
 
@@ -310,19 +310,19 @@ I would never do crack... I would never do a drug named after a part of my own a
 
 </div>
 
-<div class="post" data-post-id="21965" data-author="jezer" data-date="2008-01-11T03:18:04+00:00">
+<div class="post" data-post-id="21965" data-author="jezer" data-date="2008-01-11T03:18:04+00:00" data-subject="">
 
 I am not confused about which cocaine I meant... but at $500... maybe 13 is...  :)
 
 </div>
 
-<div class="post" data-post-id="21972" data-author="Krok" data-date="2008-01-11T08:16:55+00:00">
+<div class="post" data-post-id="21972" data-author="Krok" data-date="2008-01-11T08:16:55+00:00" data-subject="">
 
 I'd roll a noob, Aa, but you guys are playing an American version of WoW, while mine is European. Yeah yeah, it sucks.
 
 </div>
 
-<div class="post" data-post-id="21986" data-author="Medios" data-date="2008-01-11T23:06:14+00:00">
+<div class="post" data-post-id="21986" data-author="Medios" data-date="2008-01-11T23:06:14+00:00" data-subject="">
 
 I'd roll a noob, Aa, but you guys are playing an American version of WoW, while mine is European. Yeah yeah, it sucks.[/quote:2wneibju]
 
@@ -330,13 +330,13 @@ Free server?
 
 </div>
 
-<div class="post" data-post-id="21988" data-author="13" data-date="2008-01-12T01:07:58+00:00">
+<div class="post" data-post-id="21988" data-author="13" data-date="2008-01-12T01:07:58+00:00" data-subject="">
 
 what language does euro WoW use
 
 </div>
 
-<div class="post" data-post-id="21991" data-author="jezer" data-date="2008-01-12T01:58:51+00:00">
+<div class="post" data-post-id="21991" data-author="jezer" data-date="2008-01-12T01:58:51+00:00" data-subject="">
 
 So yeah, the demise of the sloth player base... Interesting...
 
@@ -346,13 +346,13 @@ I guess some things answer themselves in time.
 
 </div>
 
-<div class="post" data-post-id="21996" data-author="13" data-date="2008-01-12T02:23:00+00:00">
+<div class="post" data-post-id="21996" data-author="13" data-date="2008-01-12T02:23:00+00:00" data-subject="">
 
 i wasnt really offering to sell, but 500 bucks...damn
 
 </div>
 
-<div class="post" data-post-id="22000" data-author="Vixn" data-date="2008-01-12T10:24:54+00:00">
+<div class="post" data-post-id="22000" data-author="Vixn" data-date="2008-01-12T10:24:54+00:00" data-subject="">
 
 what language does euro WoW use[/quote:3ggbyjbi]
 
@@ -360,7 +360,7 @@ It uses european language of cause   :)
 
 </div>
 
-<div class="post" data-post-id="22010" data-author="13" data-date="2008-01-12T21:38:54+00:00">
+<div class="post" data-post-id="22010" data-author="13" data-date="2008-01-12T21:38:54+00:00" data-subject="">
 
 which would be italian german russian french spanish and english?
 
@@ -368,7 +368,7 @@ how does that work?
 
 </div>
 
-<div class="post" data-post-id="22012" data-author="Vixn" data-date="2008-01-12T22:14:08+00:00">
+<div class="post" data-post-id="22012" data-author="Vixn" data-date="2008-01-12T22:14:08+00:00" data-subject="">
 
 screwy english i suppose
 
@@ -376,13 +376,13 @@ it works fine :P
 
 </div>
 
-<div class="post" data-post-id="22014" data-author="Krok" data-date="2008-01-13T00:10:53+00:00">
+<div class="post" data-post-id="22014" data-author="Krok" data-date="2008-01-13T00:10:53+00:00" data-subject="">
 
 No, it's not a free server. It's one of Blizzard European servers. They use English by default, but there are some German, French and Spanish servers. Russian ones are going to be introduced soon.
 
 </div>
 
-<div class="post" data-post-id="22226" data-author="Morkeleb" data-date="2008-01-23T14:22:33+00:00">
+<div class="post" data-post-id="22226" data-author="Morkeleb" data-date="2008-01-23T14:22:33+00:00" data-subject="">
 
 I've said it before and I'll say it again, what Gaming character is worth $.01?  It's a game. Part of the fun of a game, IMHO, is starting where everybody else did. Otherwise, you can't truly compare your achievments against anything except the green stuff you paid for the character.
 
@@ -390,7 +390,7 @@ Oh, and if you remember me, you definitely have too much time on your hands and 
 
 </div>
 
-<div class="post" data-post-id="22231" data-author="Autolycos" data-date="2008-01-23T17:18:26+00:00">
+<div class="post" data-post-id="22231" data-author="Autolycos" data-date="2008-01-23T17:18:26+00:00" data-subject="">
 
 Oh, and if you remember me, you definitely have too much time on your hands and probably have at least one original character that you made from level 1.[/quote:11mm3yvm]
 

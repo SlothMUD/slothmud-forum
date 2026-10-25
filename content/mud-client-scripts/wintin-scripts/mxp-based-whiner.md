@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="12002" data-author="*juggleblood*" data-date="2006-04-07T21:58:24+00:00">
+<div class="post" data-post-id="12002" data-author="*juggleblood*" data-date="2006-04-07T21:58:24+00:00" data-subject="MXP based Whiner">
 
 Please share any mxp based scripts you might have. I'm curious to see them.
 

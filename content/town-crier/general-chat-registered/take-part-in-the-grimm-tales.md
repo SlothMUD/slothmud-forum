@@ -10,7 +10,7 @@ locked: true
 post_count: 4
 ---
 
-<div class="post" data-post-id="36756" data-author="Teron" data-date="2016-03-20T19:17:04+00:00">
+<div class="post" data-post-id="36756" data-author="Teron" data-date="2016-03-20T19:17:04+00:00" data-subject="Take part in the Grimm Tales">
 
 Today, Neptune has opened a new area, the Forest of Grimm.
 
@@ -253,7 +253,7 @@ Thanks everyone for following me.
 
 </div>
 
-<div class="post" data-post-id="36759" data-author="Yasik" data-date="2016-03-21T07:46:09+00:00">
+<div class="post" data-post-id="36759" data-author="Yasik" data-date="2016-03-21T07:46:09+00:00" data-subject="Re: Take part in the Grimm Tales">
 
 Area seems ok for lowbies to hunt and pop spellbooks, with one exception IIRC - small fleeing mobs breaking Mage 20 webs >> players will have to bring moldy-scrolls >> which cost ~500 coins (cheaper on VK) >> quite a lot for a lowbie to spend on kobold-size mob; I see it can be adjusted by removing 'flee' option from mobs at all, or make them weak enough not to break 20- webs.
 
@@ -267,7 +267,7 @@ It is hard for me to believe that you two choose silly ~10 drachmas over reputat
 
 </div>
 
-<div class="post" data-post-id="36760" data-author="Lekach" data-date="2016-03-21T13:52:34+00:00">
+<div class="post" data-post-id="36760" data-author="Lekach" data-date="2016-03-21T13:52:34+00:00" data-subject="Re: Take part in the Grimm Tales">
 
 Thank you for the new area Neptune! Also Taron/Tiron for leading!
 
@@ -431,7 +431,7 @@ Tembikai
 
 </div>
 
-<div class="post" data-post-id="36762" data-author="Teron" data-date="2016-03-22T16:38:50+00:00">
+<div class="post" data-post-id="36762" data-author="Teron" data-date="2016-03-22T16:38:50+00:00" data-subject="Re: Take part in the Grimm Tales">
 
 Yasik, I let anyone loot, so it'd distribute semi-randomly.
 

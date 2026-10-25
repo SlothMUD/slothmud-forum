@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="10544" data-author="Poolp" data-date="2006-02-03T08:10:32+00:00">
+<div class="post" data-post-id="10544" data-author="Poolp" data-date="2006-02-03T08:10:32+00:00" data-subject="Sash Patrol Leaders help pthieves too much!">
 
 <1hp 68ma 140mv>
 
@@ -102,25 +102,25 @@ You gossip-- 'nice bug'
 
 </div>
 
-<div class="post" data-post-id="10545" data-author="Alberich" data-date="2006-02-03T08:58:43+00:00">
+<div class="post" data-post-id="10545" data-author="Alberich" data-date="2006-02-03T08:58:43+00:00" data-subject="">
 
 man, I always knew RL cops where crooked, Sloth ones too now?
 
 </div>
 
-<div class="post" data-post-id="10547" data-author="12345" data-date="2006-02-03T14:11:21+00:00">
+<div class="post" data-post-id="10547" data-author="12345" data-date="2006-02-03T14:11:21+00:00" data-subject="">
 
 You have to admire his honesty....
 
 </div>
 
-<div class="post" data-post-id="10549" data-author="Clink" data-date="2006-02-03T16:51:47+00:00">
+<div class="post" data-post-id="10549" data-author="Clink" data-date="2006-02-03T16:51:47+00:00" data-subject="">
 
 I believe I have fixed this issue as well as another one related to the leader that was much more severe.
 
 </div>
 
-<div class="post" data-post-id="10557" data-author="Poolp" data-date="2006-02-04T12:04:05+00:00">
+<div class="post" data-post-id="10557" data-author="Poolp" data-date="2006-02-04T12:04:05+00:00" data-subject="">
 
 More cool bugs!
 
@@ -166,13 +166,13 @@ The more severe bug allowed me to steal without getting boarded, so yes, admire 
 
 </div>
 
-<div class="post" data-post-id="10561" data-author="Weasel" data-date="2006-02-04T16:38:41+00:00">
+<div class="post" data-post-id="10561" data-author="Weasel" data-date="2006-02-04T16:38:41+00:00" data-subject="">
 
 lol
 
 </div>
 
-<div class="post" data-post-id="10564" data-author="Autolycos" data-date="2006-02-04T17:21:52+00:00">
+<div class="post" data-post-id="10564" data-author="Autolycos" data-date="2006-02-04T17:21:52+00:00" data-subject="">
 
 Brady utters the words, 'wagg xzb'
 

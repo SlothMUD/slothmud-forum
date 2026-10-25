@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13899" data-author="*juggleblood*" data-date="2006-09-04T07:32:24+00:00">
+<div class="post" data-post-id="13899" data-author="*juggleblood*" data-date="2006-09-04T07:32:24+00:00" data-subject="dumb">
 
 I asked a stupid question and I can't remove the post, so I'll just change it into a joke. Here you go...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="33896" data-author="*Splork*" data-date="2013-01-07T02:07:13+00:00">
+<div class="post" data-post-id="33896" data-author="*Splork*" data-date="2013-01-07T02:07:13+00:00" data-subject="Mudlet forums added, Clients added to navbar">
 
 We have added a mudlet forum to our clients section.
 
@@ -34,7 +34,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="36633" data-author="Madigan" data-date="2016-02-25T09:26:12+00:00">
+<div class="post" data-post-id="36633" data-author="Madigan" data-date="2016-02-25T09:26:12+00:00" data-subject="Re: Mudlet forums added, Clients added to navbar">
 
 3 year old post... i know.
 
@@ -48,19 +48,19 @@ Blix
 
 </div>
 
-<div class="post" data-post-id="36634" data-author="celerra7" data-date="2016-02-25T17:50:53+00:00">
+<div class="post" data-post-id="36634" data-author="celerra7" data-date="2016-02-25T17:50:53+00:00" data-subject="Re: Mudlet forums added, Clients added to navbar">
 
 I'm in the same boat.  CMUD support/upgrades ended and looking for new maintained client.  Mudlet looks great, but I have yet to find a beginner starting place.
 
 </div>
 
-<div class="post" data-post-id="36635" data-author="cyprimus" data-date="2016-02-25T20:19:43+00:00">
+<div class="post" data-post-id="36635" data-author="cyprimus" data-date="2016-02-25T20:19:43+00:00" data-subject="Re: Mudlet forums added, Clients added to navbar">
 
 same here, would like to be able to import my cmud scripts..
 
 </div>
 
-<div class="post" data-post-id="36641" data-author="Madigan" data-date="2016-02-26T06:26:29+00:00">
+<div class="post" data-post-id="36641" data-author="Madigan" data-date="2016-02-26T06:26:29+00:00" data-subject="Re: Mudlet forums added, Clients added to navbar">
 
 I know sochi, linx, and a few others (especially akayan) are guru's of mudlet... I've been asking around for someone to share a basic mudlet config to no avail, but  I wonder if we could convince them to maybe host a 30 minute -1 hour websession (i have hosting capabilities if needed) on Mudlet 101 with the following agenda:
 
@@ -80,7 +80,7 @@ Blix
 
 </div>
 
-<div class="post" data-post-id="36649" data-author="Madigan" data-date="2016-02-26T22:04:42+00:00">
+<div class="post" data-post-id="36649" data-author="Madigan" data-date="2016-02-26T22:04:42+00:00" data-subject="Re: Mudlet forums added, Clients added to navbar">
 
 moved this to the mudlet client section of the forums - please respond there.
 

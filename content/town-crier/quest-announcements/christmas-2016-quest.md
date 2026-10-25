@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="37871" data-author="*Neptune*" data-date="2016-12-24T03:36:27+00:00">
+<div class="post" data-post-id="37871" data-author="*Neptune*" data-date="2016-12-24T03:36:27+00:00" data-subject="Christmas 2016 Quest">
 
 Greetings
 
@@ -32,7 +32,7 @@ Hope to see you guys there!
 
 </div>
 
-<div class="post" data-post-id="37872" data-author="*Neptune*" data-date="2016-12-24T03:57:58+00:00">
+<div class="post" data-post-id="37872" data-author="*Neptune*" data-date="2016-12-24T03:57:58+00:00" data-subject="Re: Christmas 2016 Quest">
 
 In case it wasn't clear, we'll be doing this on Saturday the 24th of December.
 
@@ -42,7 +42,7 @@ Sorry for any confusion.
 
 </div>
 
-<div class="post" data-post-id="37877" data-author="*Neptune*" data-date="2016-12-24T19:48:41+00:00">
+<div class="post" data-post-id="37877" data-author="*Neptune*" data-date="2016-12-24T19:48:41+00:00" data-subject="Re: Christmas 2016 Quest">
 
 Thanks for all who showed up and participated in this year's Christmas quest. While I'm sure that we all
 

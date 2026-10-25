@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40178" data-author="*Idjit*" data-date="2025-03-16T15:14:04+00:00">
+<div class="post" data-post-id="40178" data-author="*Idjit*" data-date="2025-03-16T15:14:04+00:00" data-subject="2025 Saint Patrick&#x27;s Day Quest">
 
 Hello One and All, we will have a belated St Patricks Day quest for 2025.
 

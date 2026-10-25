@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="33454" data-author="Yasik" data-date="2012-08-21T08:33:06+00:00">
+<div class="post" data-post-id="33454" data-author="Yasik" data-date="2012-08-21T08:33:06+00:00" data-subject="Truly old &#x27;feature&#x27;">
 
 Guys, seriously, how can that be happening anyway?
 
@@ -20,13 +20,13 @@ Guys, seriously, how can that be happening anyway?
 
 </div>
 
-<div class="post" data-post-id="33455" data-author="*juggleblood*" data-date="2012-08-21T12:58:41+00:00">
+<div class="post" data-post-id="33455" data-author="*juggleblood*" data-date="2012-08-21T12:58:41+00:00" data-subject="Re: Truly old &#x27;feature&#x27;">
 
 I looked at it. Seems the random pop potions that have a random spell, have no value set, so the shop doesn't want to buy them. (despite the message saying its not a potion) I'll see if there's any reason we can't assign a value to em. Thx.
 
 </div>
 
-<div class="post" data-post-id="33456" data-author="*Splork*" data-date="2012-08-21T14:44:51+00:00">
+<div class="post" data-post-id="33456" data-author="*Splork*" data-date="2012-08-21T14:44:51+00:00" data-subject="Re: Truly old &#x27;feature&#x27;">
 
 This actually is not an "old"feature as these potions are relatively new in the last couple of years.
 
@@ -38,7 +38,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33623" data-author="Yasik" data-date="2012-09-29T10:06:28+00:00">
+<div class="post" data-post-id="33623" data-author="Yasik" data-date="2012-09-29T10:06:28+00:00" data-subject="Re: Truly old &#x27;feature&#x27;">
 
 ![](http://dl.dropbox.com/u/72105811/Pics/potion_greater_refresh_fail.jpg)
 

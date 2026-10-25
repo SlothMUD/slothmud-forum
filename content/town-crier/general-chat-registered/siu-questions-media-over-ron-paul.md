@@ -10,7 +10,7 @@ locked: false
 post_count: 49
 ---
 
-<div class="post" data-post-id="20713" data-author="Medios" data-date="2007-10-10T22:40:17+00:00">
+<div class="post" data-post-id="20713" data-author="Medios" data-date="2007-10-10T22:40:17+00:00" data-subject="SIU questions media over Ron Paul">
 
 [<LINK_TEXT text="http://media.www.siude.com/media/storag ... storiestab">http://media.www.siude.com/media/storage/paper1096/news/2007/10/10/Columns/Column.The.Ron.Paul.Factor-3021821.shtml?reffeature=recentlycommentedstoriestab</LINK_TEXT>](http://media.www.siude.com/media/storage/paper1096/news/2007/10/10/Columns/Column.The.Ron.Paul.Factor-3021821.shtml?reffeature=recentlycommentedstoriestab)
 
@@ -20,7 +20,7 @@ Ron Paul 08
 
 </div>
 
-<div class="post" data-post-id="20714" data-author="Tap" data-date="2007-10-10T23:40:47+00:00">
+<div class="post" data-post-id="20714" data-author="Tap" data-date="2007-10-10T23:40:47+00:00" data-subject="">
 
 He refuses to go on the Glenn Beck program. The point was made that he has about 2% of the vote mainly due to low publicity. He's been heckled that for someone who wants to get the word out about who he is and what he stands for, he refuses to go on many national radio talk shows due to the fact he has a hard time answering question and during interviews has displayed the behavior of someone being trapped in a corner. I don't know anything about Ron Paul other than the fact he doesn't step up and either acknowledge 
 
@@ -30,19 +30,19 @@ Oh don't worry, I'm sure this post will be removed before too many people get to
 
 </div>
 
-<div class="post" data-post-id="20715" data-author="Weasel" data-date="2007-10-11T00:57:29+00:00">
+<div class="post" data-post-id="20715" data-author="Weasel" data-date="2007-10-11T00:57:29+00:00" data-subject="">
 
 I read it Tap!
 
 </div>
 
-<div class="post" data-post-id="20716" data-author="Medios" data-date="2007-10-11T00:59:47+00:00">
+<div class="post" data-post-id="20716" data-author="Medios" data-date="2007-10-11T00:59:47+00:00" data-subject="">
 
 Did you actually research any of the polls?  The media is clearly trying to bash him.  I have watched several of the debates and his ideas are sound.  It is amazing to me the way the media covers the candidates.  I could tell that Hillary Clinton and Rudy Guiliani had the media support over a year ago.  It is obvious if you watch any tv and take third party perspective.  The real reason a candidate like Ron Paul won't win is because the bankers will have him killed.
 
 </div>
 
-<div class="post" data-post-id="20717" data-author="Weasel" data-date="2007-10-11T01:07:46+00:00">
+<div class="post" data-post-id="20717" data-author="Weasel" data-date="2007-10-11T01:07:46+00:00" data-subject="">
 
 Since this topic is on it's own thread, I hope it won't be deleted.
 
@@ -52,13 +52,13 @@ I hold the media (as a gross generalization) at about the same level of esteem a
 
 </div>
 
-<div class="post" data-post-id="20719" data-author="blackmore" data-date="2007-10-11T01:27:14+00:00">
+<div class="post" data-post-id="20719" data-author="blackmore" data-date="2007-10-11T01:27:14+00:00" data-subject="">
 
 I know little about him, other than what I read on wikipedia.  However, how much of what he says he believes in are under the authority of the president to enact, especially with a democratic congress and house?  Even if republicans managed to take control again, how many of his beliefs would have majority support to get bills passed, so that they can be sent to him to be signed?
 
 </div>
 
-<div class="post" data-post-id="20726" data-author="Medios" data-date="2007-10-11T02:25:35+00:00">
+<div class="post" data-post-id="20726" data-author="Medios" data-date="2007-10-11T02:25:35+00:00" data-subject="">
 
 Just like presidents before him signed executive orders to get the ball rolling on laws or to just plain enforce something of his own.  If the courts do not rule against an executive order it is the same as law.  Since the executive branch controls the military it has the power to enforce anything it theoretically wants.  Ron Paul wants "sound money".  He also wonders why we borrow money from the Central Bank err I mean Federal Reserve.  The Dept of Treasury should have the power to print money interest free.  He also believes in small Federal Government and more laws being controlled by the States.  Its Amendment 10 to the Bill of Rights.  Out of all the tyrants he is the only one willing to stand up and fight for less control.
 
@@ -66,7 +66,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="20729" data-author="Mosaix" data-date="2007-10-11T03:29:37+00:00">
+<div class="post" data-post-id="20729" data-author="Mosaix" data-date="2007-10-11T03:29:37+00:00" data-subject="">
 
 This is a slothmud game website right?  Im sure there are forums and blogs for presidental candidates out there.  Trying to stir up what maybe 20 people on this crier doesnt serve the candidate much purpose.  The question is why does Mike feel the need to play politics on a sloth game website?  Dogs got that boring to play?
 
@@ -80,7 +80,7 @@ Would a kind immortal please take a second and remove this entire thread.
 
 </div>
 
-<div class="post" data-post-id="20732" data-author="Weasel" data-date="2007-10-11T04:16:14+00:00">
+<div class="post" data-post-id="20732" data-author="Weasel" data-date="2007-10-11T04:16:14+00:00" data-subject="">
 
 first amendment yo.  :twisted: 
 
@@ -90,7 +90,7 @@ meh.  up to the admins.
 
 </div>
 
-<div class="post" data-post-id="20734" data-author="banedon" data-date="2007-10-11T04:19:35+00:00">
+<div class="post" data-post-id="20734" data-author="banedon" data-date="2007-10-11T04:19:35+00:00" data-subject="">
 
 this forum may be for the mud, but look at the section this thread is in - GENERAL CHAT - meaning anything is open for discussion, within the bounds of decency and taste.  asking the imms to delete this thread is disrupting and ignoting the very thing americans have fought so hard for so long to preserve, basic civil freedoms, namely the freedom of expression.  if you dont like whats in a thread, dont read it.  just let the rest of us exercise our rights to talk about whatever we want (within reason) or sound as intelligent or insanely ignorant as we want (*poke* tap)
 
@@ -98,19 +98,19 @@ flame away, im a proud american and i will take the heat to defend our rights, a
 
 </div>
 
-<div class="post" data-post-id="20738" data-author="osric" data-date="2007-10-11T04:57:01+00:00">
+<div class="post" data-post-id="20738" data-author="osric" data-date="2007-10-11T04:57:01+00:00" data-subject="">
 
 I think Ron Paul might be the only Republican worth voting for, its odd be he seems to actually be a real human being. I checked out his site, I don't agree with the guy about everything but at least he is not some knee jerk reactionary, his stands actually seem thought out. The places we disagree I can't fault him for, I mean I can't expect a guy who delivers babies to be pro choice, it would kinda put him outa work.
 
 </div>
 
-<div class="post" data-post-id="20739" data-author="Alberich" data-date="2007-10-11T12:02:05+00:00">
+<div class="post" data-post-id="20739" data-author="Alberich" data-date="2007-10-11T12:02:05+00:00" data-subject="">
 
 more importantly the man's a firm libertarian.  It really doesn't matter if people agree with him, or he with them - not everyones going to agree, the point is, it's not a governments responsibility to pass laws dictating what is and isn't ok, based on a random group getting their panties in a bunch and making lots of noise about it.  It shouldn't matter if you agree with a candidates personal beliefs, as those should not be a large factor in their performance - their job is not (supposedly) to impose their own ideas on a nation, or do what they feel is 'best', but to faithfully uphold the Constitution, which is pretty explicit about what the government can and cannot do.  Most of the areas where I'd personally disagree with Dr. Paul are moot, as while there may be personal disagreements, he shows no desire to inflict ideas on others through government, which stands out in itself.  Not to say I agree with the other running republicans (or certainly any of the democrats) on more than a bare handful of issues, but even where I tend to agree with others, I have problems with their concepts of implementation, which is invariably through more laws, more resolutions, more taxes, more police, more everything that's slowly rotting away at this country.
 
 </div>
 
-<div class="post" data-post-id="20741" data-author="mudder" data-date="2007-10-11T12:43:58+00:00">
+<div class="post" data-post-id="20741" data-author="mudder" data-date="2007-10-11T12:43:58+00:00" data-subject="">
 
 asking the imms to delete this thread is disrupting and ignoting the very thing americans have fought so hard for so long to preserve[/quote:2ghzx0ia]
 
@@ -120,13 +120,13 @@ I've no idea who you're all talking about and have no opinions on the matter, bu
 
 </div>
 
-<div class="post" data-post-id="20742" data-author="13" data-date="2007-10-11T12:54:38+00:00">
+<div class="post" data-post-id="20742" data-author="13" data-date="2007-10-11T12:54:38+00:00" data-subject="">
 
 once again I had a whole thing typed up and scrapped it at the last moment.
 
 </div>
 
-<div class="post" data-post-id="20743" data-author="Autolycos" data-date="2007-10-11T13:01:09+00:00">
+<div class="post" data-post-id="20743" data-author="Autolycos" data-date="2007-10-11T13:01:09+00:00" data-subject="">
 
 Since this topic is on it's own thread, I hope it won't be deleted.
 
@@ -140,7 +140,7 @@ there is no real comparison...  a turd does not try to influence you to believe 
 
 </div>
 
-<div class="post" data-post-id="20744" data-author="Autolycos" data-date="2007-10-11T13:14:53+00:00">
+<div class="post" data-post-id="20744" data-author="Autolycos" data-date="2007-10-11T13:14:53+00:00" data-subject="">
 
 I'm not an american, can I delete it?
 
@@ -154,7 +154,7 @@ good day.
 
 </div>
 
-<div class="post" data-post-id="20746" data-author="resouh" data-date="2007-10-11T15:08:45+00:00">
+<div class="post" data-post-id="20746" data-author="resouh" data-date="2007-10-11T15:08:45+00:00" data-subject="">
 
 *clap for auto*
 
@@ -180,7 +180,7 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="20748" data-author="alias" data-date="2007-10-11T15:16:59+00:00">
+<div class="post" data-post-id="20748" data-author="alias" data-date="2007-10-11T15:16:59+00:00" data-subject="">
 
 As soon as you all realize that the world does indeed revolve around not only the U.S. but Me specifically then we can all get back to the issue of making ME happy.
 
@@ -190,7 +190,7 @@ I'm Alias and I approved this message.
 
 </div>
 
-<div class="post" data-post-id="20765" data-author="Autolycos" data-date="2007-10-11T18:45:40+00:00">
+<div class="post" data-post-id="20765" data-author="Autolycos" data-date="2007-10-11T18:45:40+00:00" data-subject="">
 
 *cackle*   :twisted: 
 
@@ -198,13 +198,13 @@ I'm Alias and I approved this message.
 
 </div>
 
-<div class="post" data-post-id="20768" data-author="Corinn" data-date="2007-10-11T20:16:11+00:00">
+<div class="post" data-post-id="20768" data-author="Corinn" data-date="2007-10-11T20:16:11+00:00" data-subject="">
 
 Alias has my vote as well as all the other creatures in my watery domain.  (I'll break their thumbs if they don't show up on election day)
 
 </div>
 
-<div class="post" data-post-id="20772" data-author="Tap" data-date="2007-10-11T21:48:29+00:00">
+<div class="post" data-post-id="20772" data-author="Tap" data-date="2007-10-11T21:48:29+00:00" data-subject="">
 
 [quote:gfcr95mk] Resouh posted:
 
@@ -228,7 +228,7 @@ Tap for Secretary of Treasure and Foreign Relations 8)
 
 </div>
 
-<div class="post" data-post-id="20774" data-author="Tap" data-date="2007-10-12T00:24:15+00:00">
+<div class="post" data-post-id="20774" data-author="Tap" data-date="2007-10-12T00:24:15+00:00" data-subject="Hi-jacking a thread in broad daylight">
 
 http://www.northcom.mil/News/2007/083007.html
 
@@ -240,7 +240,7 @@ We'll see...probably one of the 'rumors of war' but still....I'm paranoid a f*ck
 
 </div>
 
-<div class="post" data-post-id="20800" data-author="Avatar" data-date="2007-10-12T13:48:27+00:00">
+<div class="post" data-post-id="20800" data-author="Avatar" data-date="2007-10-12T13:48:27+00:00" data-subject="Ron Paul">
 
 Ron is an interesting guy.  I agree with a lot of what he says, but I wouldn't vote for him.
 
@@ -250,19 +250,19 @@ It's interesting to see polls and hear about who's in the 'lead' day after day, 
 
 </div>
 
-<div class="post" data-post-id="20804" data-author="osric" data-date="2007-10-12T15:41:43+00:00">
+<div class="post" data-post-id="20804" data-author="osric" data-date="2007-10-12T15:41:43+00:00" data-subject="">
 
 I think that the reason I look at the personal beliefs of those whom I might vote is that I haven't seen an american president in my lifetime abide simply by their sworn duty to uphold the constitution, therefore I want to know more about how they will most likely act before voting them in (or not as the last two elections have gone for me). I think that Ron Paul would be a good candidate, in my opinion, the best the republicans have to offer. He will most likely not get elected though as most americans don't seem too interested in finding the best person for the job only the one with the most advertising. I don't know I just might have to vote for whoever most closely holds to the ideals of pastafarianism.
 
 </div>
 
-<div class="post" data-post-id="20827" data-author="Tap" data-date="2007-10-12T23:02:27+00:00">
+<div class="post" data-post-id="20827" data-author="Tap" data-date="2007-10-12T23:02:27+00:00" data-subject="">
 
 [img:notfz2ic]http://www.basimo.de/words/wp-content/super_mario.jpg[/img:notfz2ic]
 
 </div>
 
-<div class="post" data-post-id="21758" data-author="Tap" data-date="2007-12-21T04:23:09+00:00">
+<div class="post" data-post-id="21758" data-author="Tap" data-date="2007-12-21T04:23:09+00:00" data-subject="">
 
 I finally got to see Ron Paul in an interview on Glenn Beck tv program.
 
@@ -272,7 +272,7 @@ While he has some ideas I favor myself, he doesn't seem to carry himself well. I
 
 </div>
 
-<div class="post" data-post-id="21760" data-author="mahkra" data-date="2007-12-22T06:19:04+00:00">
+<div class="post" data-post-id="21760" data-author="mahkra" data-date="2007-12-22T06:19:04+00:00" data-subject="">
 
 Seems like i keep hearing the theme of I like a lot of what RP has to say but I am not going to vote for him. So I am wondering why the hell not? We know for a fact everyone else is a liar and most likely a crook. Why not give a new perspective a chance? 
 
@@ -280,7 +280,7 @@ Hell we are going to likely get a carter/bush performance from the next twit any
 
 </div>
 
-<div class="post" data-post-id="21761" data-author="Tap" data-date="2007-12-22T19:20:37+00:00">
+<div class="post" data-post-id="21761" data-author="Tap" data-date="2007-12-22T19:20:37+00:00" data-subject="">
 
 I never stated I liked alot of what he had to stay. Each candidate has some ideas that I support. Unfortunately, as with all for them, they all have 1-3 key issues that I find more important that they seem to waver on. Each person has their own priority on what's important. In Ron Paul's case, there are several key issues for me that for the most part, disqualifies any other important positive points he has. One is abolishing the IRS. Not feasible, and stating against the obvious doesn't help. He wants to get rid of tax altogether. Instead,to raise money for government, people will pay a 'use-age fee'.
 
@@ -290,7 +290,7 @@ Hello, a hole by any other name is still a hole.Also, his plan to tuck tail and 
 
 </div>
 
-<div class="post" data-post-id="21763" data-author="Weasel" data-date="2007-12-22T21:20:35+00:00">
+<div class="post" data-post-id="21763" data-author="Weasel" data-date="2007-12-22T21:20:35+00:00" data-subject="">
 
 Right now, for better or for worse, I think if Bush ran he'd get in - not on his own merit, but on the appalling alternatives available, much like when his main contender was Kerry (laugh!). Yes some candidates have good points, but their bad points outweigh their good... it's a case of "better the devil you know than the devil you don't" imho, as sad as that may be.
 
@@ -312,7 +312,7 @@ Fark that, I'd like to slap these people in the face and throw their sorry a55es
 
 </div>
 
-<div class="post" data-post-id="21764" data-author="Weasel" data-date="2007-12-22T21:43:09+00:00">
+<div class="post" data-post-id="21764" data-author="Weasel" data-date="2007-12-22T21:43:09+00:00" data-subject="">
 
 At about the time our original 13 states adopted their new constitution, in the year 1787, Alexander Tyler (a Scottish history professor at The University of Edinborough) had this to say about â€œThe Fall of The Athenian Republicâ€ some 2,000 years prior.
 
@@ -338,7 +338,7 @@ From dependence back into bondage.â€
 
 </div>
 
-<div class="post" data-post-id="21790" data-author="mahkra" data-date="2007-12-24T17:49:14+00:00">
+<div class="post" data-post-id="21790" data-author="mahkra" data-date="2007-12-24T17:49:14+00:00" data-subject="">
 
 Jefferson and Hamilton had a similar debate as what Weasel posted before. 
 
@@ -354,13 +354,13 @@ The reason things get hosed up so bad is when there is no check and balance. The
 
 </div>
 
-<div class="post" data-post-id="21973" data-author="Weasel" data-date="2008-01-11T08:30:19+00:00">
+<div class="post" data-post-id="21973" data-author="Weasel" data-date="2008-01-11T08:30:19+00:00" data-subject="">
 
 Fred Thompson was pretty impressive in the South Carolina Republican debate earlier tonight. Bit of a late start, but I think he got a few people rethinking their position. Gonna be real interesting to see how things go from here. As I read on another site, itâ€™s not unthinkable that Romney wins Michigan, Thompson wins South Carolina (which seems a given now), and Giuliani wins Florida. Under that scenario, the five biggest contests of the early GOP Primary season will have generated five different winners. Fun. As far as Ron Paul goes.. seriously, wtf? Clown.
 
 </div>
 
-<div class="post" data-post-id="21985" data-author="Medios" data-date="2008-01-11T23:04:03+00:00">
+<div class="post" data-post-id="21985" data-author="Medios" data-date="2008-01-11T23:04:03+00:00" data-subject="">
 
 Before anyone says that the country cannot survive without the income tax we need to ask how we were operating before the 16th amendment.  I would also ask how the country got along without the federal reserve.  It is all about manipulation.  The reason I support Ron Paul is not because he wants to decriminalize marijuana or abolish the IRS.  I like Dr. Paul because he believes in personal responsibility.  Our government has long since abandoned its stance on this.
 
@@ -374,7 +374,7 @@ In response to Weasel.  This country was not founded on Christian ideals.  It wa
 
 </div>
 
-<div class="post" data-post-id="21992" data-author="Weasel" data-date="2008-01-12T02:00:20+00:00">
+<div class="post" data-post-id="21992" data-author="Weasel" data-date="2008-01-12T02:00:20+00:00" data-subject="">
 
 Totally agree 100% re mortgage bailouts and immigration - both piss me off big time, and will most determine how I vote. I think McCain is actually a Democrat who happens to wear a Republican pin, seriously. Just about all of them want to reward people for breaking the law (immigration) and irresponsible actions (mortgages), which is why Fred's looking so much better. Ron just seems a little unhinged to me.. 
 
@@ -382,7 +382,7 @@ If it ends up a choice between Clinton and McCain, this country is screwed.
 
 </div>
 
-<div class="post" data-post-id="21997" data-author="Medios" data-date="2008-01-12T03:02:47+00:00">
+<div class="post" data-post-id="21997" data-author="Medios" data-date="2008-01-12T03:02:47+00:00" data-subject="">
 
 The reason he looks unhinged is because he says things that people are scared to say.  He challenges the federal reserve, promotes responsibility both fiscally and personally, income tax, and most of all he promotes state rights.  
 
@@ -390,7 +390,7 @@ Btw I think of McCain like the Manchurian Candidate.  *Shiver*
 
 </div>
 
-<div class="post" data-post-id="21998" data-author="13" data-date="2008-01-12T04:28:03+00:00">
+<div class="post" data-post-id="21998" data-author="13" data-date="2008-01-12T04:28:03+00:00" data-subject="">
 
 [quote:1r38qpgk]This country was not founded on Christian ideals. It was a belief in Deity or God. Many of the founder fathers were not Christian but deists.[/quote:1r38qpgk]
 
@@ -402,7 +402,7 @@ somethign greater than yourself.  Not christianity or anything in particular.
 
 </div>
 
-<div class="post" data-post-id="22001" data-author="Vixn" data-date="2008-01-12T10:43:53+00:00">
+<div class="post" data-post-id="22001" data-author="Vixn" data-date="2008-01-12T10:43:53+00:00" data-subject="">
 
 This money is going to subsidize failed industries, loan bailouts, and foreign nationals. [/quote:10mtik8h]
 
@@ -412,13 +412,13 @@ Good thread cause it's very interesting for me to get yours standpoint not from 
 
 </div>
 
-<div class="post" data-post-id="22005" data-author="Weasel" data-date="2008-01-12T18:23:17+00:00">
+<div class="post" data-post-id="22005" data-author="Weasel" data-date="2008-01-12T18:23:17+00:00" data-subject="">
 
 Obama has just jumped on the bailout bandwagon too.  :roll:
 
 </div>
 
-<div class="post" data-post-id="22028" data-author="mahkra" data-date="2008-01-14T20:47:23+00:00">
+<div class="post" data-post-id="22028" data-author="mahkra" data-date="2008-01-14T20:47:23+00:00" data-subject="">
 
 Just for fun. Somewhat of a carification. Cristian ideals were involved in the creation of this nation.  Yes The previously mentioned individuals were the balance to those opinions. Ben Franklin's editing and removal of Church speak and replacing it with scientific speak makes him in my mind the single most important founding father. (Never mind the whole library thing he created.)
 
@@ -432,7 +432,7 @@ All that said I want to be able to vote Ron Paul into office and given a chance 
 
 </div>
 
-<div class="post" data-post-id="22074" data-author="Weasel" data-date="2008-01-20T05:24:51+00:00">
+<div class="post" data-post-id="22074" data-author="Weasel" data-date="2008-01-20T05:24:51+00:00" data-subject="">
 
 LOL you'll love this one Medios:
 
@@ -444,7 +444,7 @@ Here's a photo from it which kinda says it all:
 
 </div>
 
-<div class="post" data-post-id="22083" data-author="Medios" data-date="2008-01-20T19:52:46+00:00">
+<div class="post" data-post-id="22083" data-author="Medios" data-date="2008-01-20T19:52:46+00:00" data-subject="">
 
 My guy Dr. Ron Paul
 
@@ -452,7 +452,7 @@ My guy Dr. Ron Paul
 
 </div>
 
-<div class="post" data-post-id="22143" data-author="13" data-date="2008-01-22T13:28:48+00:00">
+<div class="post" data-post-id="22143" data-author="13" data-date="2008-01-22T13:28:48+00:00" data-subject="">
 
 So they asked Obama if he thought Bill C was really the first black
 
@@ -460,19 +460,19 @@ president last night.  Keith and I were rollin'.
 
 </div>
 
-<div class="post" data-post-id="22147" data-author="Weasel" data-date="2008-01-22T15:02:23+00:00">
+<div class="post" data-post-id="22147" data-author="Weasel" data-date="2008-01-22T15:02:23+00:00" data-subject="">
 
 heh yeah that was classic.. good response too.. "I haven't seen him dance yet"
 
 </div>
 
-<div class="post" data-post-id="22177" data-author="Tap" data-date="2008-01-23T01:32:45+00:00">
+<div class="post" data-post-id="22177" data-author="Tap" data-date="2008-01-23T01:32:45+00:00" data-subject="Not necessarily the news">
 
 [url:1l5ar86t]http://www.nypost.com/video/?vxSiteId=0db7b365-a288-4708-857b-8bdb545cbd0f&vxChannel=NY%20Post&vxClip[/url:1l5ar86t]
 
 </div>
 
-<div class="post" data-post-id="22178" data-author="Tap" data-date="2008-01-23T01:34:59+00:00">
+<div class="post" data-post-id="22178" data-author="Tap" data-date="2008-01-23T01:34:59+00:00" data-subject="">
 
 Damn it..plays the wrong clip..video of B. Clit-on falling asleep at MLK JR. speech yesterday.
 
@@ -480,13 +480,13 @@ yeah, he's got jokes!
 
 </div>
 
-<div class="post" data-post-id="22244" data-author="Weasel" data-date="2008-01-23T23:30:08+00:00">
+<div class="post" data-post-id="22244" data-author="Weasel" data-date="2008-01-23T23:30:08+00:00" data-subject="">
 
 WTF? Hunter endorses Huck? I don't get it.. smells like a payoff, because they were polar opposites in some of their major campaign points, particularly regarding the border and immigration.. it's either a payoff for an appointment, or Hunter was straight out lying during his campaign... well I guess the latter would hardly be surprising for a politician.
 
 </div>
 
-<div class="post" data-post-id="22434" data-author="Alberich" data-date="2008-01-31T21:05:23+00:00">
+<div class="post" data-post-id="22434" data-author="Alberich" data-date="2008-01-31T21:05:23+00:00" data-subject="">
 
 roundup of the last debate:
 
@@ -494,7 +494,7 @@ roundup of the last debate:
 
 </div>
 
-<div class="post" data-post-id="22435" data-author="Tap" data-date="2008-01-31T23:26:01+00:00">
+<div class="post" data-post-id="22435" data-author="Tap" data-date="2008-01-31T23:26:01+00:00" data-subject="">
 
 [img:3qdzj7id]http://glennz.typepad.com/photos/uncategorized/john_mccain_1.jpg[/img:3qdzj7id][img:3qdzj7id]http://www.mcgrade.com/The%20Hinkel's/Mr%20Old%20Fart.jpg[/img:3qdzj7id]
 
@@ -516,7 +516,7 @@ roundup of the last debate:
 
 </div>
 
-<div class="post" data-post-id="22436" data-author="jezer" data-date="2008-02-01T02:07:58+00:00">
+<div class="post" data-post-id="22436" data-author="jezer" data-date="2008-02-01T02:07:58+00:00" data-subject="">
 
 [img:6500r21g]http://i101.photobucket.com/albums/m47/ellroon/LolCatRenderer2aspx-2.jpg[/img:6500r21g]
 

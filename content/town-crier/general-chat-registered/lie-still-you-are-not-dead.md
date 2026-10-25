@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31779" data-author="jezer" data-date="2010-09-21T02:07:43+00:00">
+<div class="post" data-post-id="31779" data-author="jezer" data-date="2010-09-21T02:07:43+00:00" data-subject="Lie Still; you are not DEAD!!! :-(">
 
 Not quite the new druid fix I was looking for, but fighting while dead was an interesting experience. Not only could I fight and limb chop, I could also talk! Until the mob died, and then it seems to click I was dead. As for everyone finding my death hilarious, I had just been chopped less than 30 seconds before. Maybe remove the if ch = jezer condition from self procs? :p
 

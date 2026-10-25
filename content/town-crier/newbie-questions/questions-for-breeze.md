@@ -10,13 +10,13 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="33378" data-author="*Breeze*" data-date="2012-07-14T12:48:43+00:00">
+<div class="post" data-post-id="33378" data-author="*Breeze*" data-date="2012-07-14T12:48:43+00:00" data-subject="Questions for Breeze">
 
 DO NOT USE BUGS/TYPOS/IDEAS COMMAND TO SEND ME PRIVATE QUESTIONS. THATS JUST PLAIN ANNOYING, AND WHO KNOWS WHEN I WILL GET AROUND TO READING THEM. JUST EMAIL ME.
 
 </div>
 
-<div class="post" data-post-id="33379" data-author="*Breeze*" data-date="2012-07-14T12:48:53+00:00">
+<div class="post" data-post-id="33379" data-author="*Breeze*" data-date="2012-07-14T12:48:53+00:00" data-subject="Re: Questions for Breeze">
 
 > **Quote:**
 > 2012-07-10 16:24:23 ** 7000 ** Tuk ** breeze e.g. diamond sleeves loads on Melephus or Gargantuan, how the list sorted? or random?
@@ -25,7 +25,7 @@ totally random (random 5 poppers iirc)
 
 </div>
 
-<div class="post" data-post-id="33380" data-author="*juggleblood*" data-date="2012-07-14T19:06:00+00:00">
+<div class="post" data-post-id="33380" data-author="*juggleblood*" data-date="2012-07-14T19:06:00+00:00" data-subject="Re: Questions for Breeze">
 
 bugs Who do you think would win in a fight, Faur or the junk dealer?
 
@@ -41,7 +41,7 @@ bugs Why is a maimed elf so hard to kill?
 
 </div>
 
-<div class="post" data-post-id="33381" data-author="*Breeze*" data-date="2012-07-14T19:44:57+00:00">
+<div class="post" data-post-id="33381" data-author="*Breeze*" data-date="2012-07-14T19:44:57+00:00" data-subject="Re: Questions for Breeze">
 
 > ***juggleblood* wrote:**
 > bugs Who do you think would win in a fight, Faur or the junk dealer?
@@ -80,13 +80,13 @@ smart ass :)
 
 </div>
 
-<div class="post" data-post-id="33383" data-author="Yasik" data-date="2012-07-18T18:03:19+00:00">
+<div class="post" data-post-id="33383" data-author="Yasik" data-date="2012-07-18T18:03:19+00:00" data-subject="Re: Questions for Breeze">
 
 Watch out, don't give away imminfo!
 
 </div>
 
-<div class="post" data-post-id="33384" data-author="*Splork*" data-date="2012-07-19T15:57:48+00:00">
+<div class="post" data-post-id="33384" data-author="*Splork*" data-date="2012-07-19T15:57:48+00:00" data-subject="Re: Questions for Breeze ( too funny  to resist )">
 
 Too Funny:)
 
@@ -94,7 +94,7 @@ Too Funny:)
 
 </div>
 
-<div class="post" data-post-id="33385" data-author="Tuck" data-date="2012-07-19T21:51:21+00:00">
+<div class="post" data-post-id="33385" data-author="Tuck" data-date="2012-07-19T21:51:21+00:00" data-subject="Re: Questions for Breeze">
 
 > ***Breeze* wrote:**
 > > **Quote:**
@@ -108,7 +108,7 @@ thanks. but why not sort it by poprate?
 
 </div>
 
-<div class="post" data-post-id="33386" data-author="*Breeze*" data-date="2012-07-19T22:01:35+00:00">
+<div class="post" data-post-id="33386" data-author="*Breeze*" data-date="2012-07-19T22:01:35+00:00" data-subject="Re: Questions for Breeze">
 
 dont want to, and i dont have access to that information on the www anyways
 

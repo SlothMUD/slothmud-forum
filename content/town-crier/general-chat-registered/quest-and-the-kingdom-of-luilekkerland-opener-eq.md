@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="37878" data-author="Teron" data-date="2016-12-24T21:28:34+00:00">
+<div class="post" data-post-id="37878" data-author="Teron" data-date="2016-12-24T21:28:34+00:00" data-subject="Quest and the Kingdom of Luilekkerland Opener EQ">
 
 Greetings.
 
@@ -234,7 +234,7 @@ Thanks Josiah for leading and others for following.
 
 </div>
 
-<div class="post" data-post-id="37879" data-author="*Neptune*" data-date="2016-12-24T21:37:51+00:00">
+<div class="post" data-post-id="37879" data-author="*Neptune*" data-date="2016-12-24T21:37:51+00:00" data-subject="Re: Quest and the Kingdom of Luilekkerland Opener EQ">
 
 Thanks for posting.
 
@@ -252,7 +252,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37880" data-author="zenoko" data-date="2016-12-24T21:42:55+00:00">
+<div class="post" data-post-id="37880" data-author="zenoko" data-date="2016-12-24T21:42:55+00:00" data-subject="Re: Quest and the Kingdom of Luilekkerland Opener EQ">
 
 You recite a scroll of identify which dissolves.
 

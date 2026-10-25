@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36063" data-author="*Breeze*" data-date="2015-08-27T12:07:08+00:00">
+<div class="post" data-post-id="36063" data-author="*Breeze*" data-date="2015-08-27T12:07:08+00:00" data-subject="Unsocket Rune Cheats">
 
 there are a few unsocket rune cheats/bugs.
 
@@ -42,7 +42,7 @@ before this desocket. yes i know who your main is.
 
 </div>
 
-<div class="post" data-post-id="36064" data-author="*Breeze*" data-date="2015-08-27T13:30:38+00:00">
+<div class="post" data-post-id="36064" data-author="*Breeze*" data-date="2015-08-27T13:30:38+00:00" data-subject="Re: Unsocket Rune Cheats">
 
 runes will reattach back to confiscated items on receive, after reboot.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="32940" data-author="*Splork*" data-date="2011-09-28T21:54:58+00:00">
+<div class="post" data-post-id="32940" data-author="*Splork*" data-date="2011-09-28T21:54:58+00:00" data-subject="MSDP and Mushclient/Mudlet and few other clients">
 
 I have been working on MSDP lately, it is a mud protocol which can be found at [http://tintin.sourceforge.net/msdp/](http://tintin.sourceforge.net/msdp/)
 
@@ -26,13 +26,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32947" data-author="Breezewood" data-date="2011-10-13T13:54:14+00:00">
+<div class="post" data-post-id="32947" data-author="Breezewood" data-date="2011-10-13T13:54:14+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
 Is this info now available in WinTin?
 
 </div>
 
-<div class="post" data-post-id="32949" data-author="*Splork*" data-date="2011-10-15T00:09:10+00:00">
+<div class="post" data-post-id="32949" data-author="*Splork*" data-date="2011-10-15T00:09:10+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
 WinTin, the windows versin of TinTin does use MSDP also, I believe.
 
@@ -58,7 +58,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33344" data-author="*Splork*" data-date="2012-06-27T18:26:32+00:00">
+<div class="post" data-post-id="33344" data-author="*Splork*" data-date="2012-06-27T18:26:32+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
 This project was put on hold for quite some time due to work, life, children, yadda, yadda, but we are back on track.
 
@@ -86,7 +86,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33345" data-author="Stark" data-date="2012-06-27T19:42:06+00:00">
+<div class="post" data-post-id="33345" data-author="Stark" data-date="2012-06-27T19:42:06+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
 Woohoo!  Thanks, Splork!  I've been waiting on this as an excuse to wipe my scripts and start from scratch.  
 
@@ -98,7 +98,7 @@ P.S.- It looks like you've got quite a load of drachma you're carrying around.  
 
 </div>
 
-<div class="post" data-post-id="33346" data-author="*Splork*" data-date="2012-06-27T21:20:19+00:00">
+<div class="post" data-post-id="33346" data-author="*Splork*" data-date="2012-06-27T21:20:19+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
 Exact hit points of opponents will not be shown and those of you spoofing the flash client will not be able to once this protocol goes in-game. Hp % is just that, you will get a % that the mob, tank, etc is alive. If you see 77, it means he is 77% health, etc.
 
@@ -296,7 +296,7 @@ send request to splork@slothmud.org
 
 </div>
 
-<div class="post" data-post-id="33347" data-author="Stark" data-date="2012-06-27T22:07:33+00:00">
+<div class="post" data-post-id="33347" data-author="Stark" data-date="2012-06-27T22:07:33+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
 Thanks for clarifying and for the list of variables.
 
@@ -312,7 +312,7 @@ Everything else seem to be standard values.
 
 </div>
 
-<div class="post" data-post-id="33354" data-author="Tuck" data-date="2012-06-30T20:11:34+00:00">
+<div class="post" data-post-id="33354" data-author="Tuck" data-date="2012-06-30T20:11:34+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
 Confirmed to work with Cmud 3.34. 
 
@@ -320,13 +320,13 @@ Good job, Rickster.
 
 </div>
 
-<div class="post" data-post-id="33397" data-author="Magi" data-date="2012-07-26T14:03:38+00:00">
+<div class="post" data-post-id="33397" data-author="Magi" data-date="2012-07-26T14:03:38+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
 Anxiously awaiting news that MSDP is on the live server, and that it works in Wintin.Net :)
 
 </div>
 
-<div class="post" data-post-id="33401" data-author="*Splork*" data-date="2012-07-26T22:11:47+00:00">
+<div class="post" data-post-id="33401" data-author="*Splork*" data-date="2012-07-26T22:11:47+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
 The main coding port has been down for close to two weeks. Ive contacted Jake and once its brought back up I can commit and add MSDP.
 
@@ -336,7 +336,7 @@ MSDP works with Mushclient, Mudlet, CMUD, Zmud, tintin, and one of our players h
 
 </div>
 
-<div class="post" data-post-id="33416" data-author="harik" data-date="2012-08-02T16:36:12+00:00">
+<div class="post" data-post-id="33416" data-author="harik" data-date="2012-08-02T16:36:12+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
 > ***Splork* wrote:**
 > MSDP works with Mushclient, Mudlet, CMUD, Zmud, tintin, and one of our players has recently finished an update to TinyFugue which has this feature. He will be adding it relatively soon to the Mudbytes site.
@@ -351,7 +351,7 @@ Hit me up in-game (harik/kirah) with any questions.  I also have a fairly large 
 
 </div>
 
-<div class="post" data-post-id="33440" data-author="Tuck" data-date="2012-08-12T02:26:14+00:00">
+<div class="post" data-post-id="33440" data-author="Tuck" data-date="2012-08-12T02:26:14+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
 *BUMP* for MSDP on LIVE server.
 

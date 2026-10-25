@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2405" data-author="Guest" data-date="2004-10-21T22:04:09+00:00">
+<div class="post" data-post-id="2405" data-author="Guest" data-date="2004-10-21T22:04:09+00:00" data-subject="I didnt find it, but">
 
 Typing claim at the post office crashes the mud.
 

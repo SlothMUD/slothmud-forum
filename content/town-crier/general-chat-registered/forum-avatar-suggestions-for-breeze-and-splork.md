@@ -10,19 +10,19 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="34010" data-author="*juggleblood*" data-date="2013-02-08T00:40:57+00:00">
+<div class="post" data-post-id="34010" data-author="*juggleblood*" data-date="2013-02-08T00:40:57+00:00" data-subject="Forum avatar suggestions for Breeze and Splork">
 
 Breeze and Splork told me they want player suggestions for their forum avatars.
 
 </div>
 
-<div class="post" data-post-id="34011" data-author="*Splork*" data-date="2013-02-08T01:03:47+00:00">
+<div class="post" data-post-id="34011" data-author="*Splork*" data-date="2013-02-08T01:03:47+00:00" data-subject="Re: Forum avatar suggestions for Breeze and Splork">
 
 Way to start a flame thread:)
 
 </div>
 
-<div class="post" data-post-id="34014" data-author="Toxis" data-date="2013-02-08T09:49:43+00:00">
+<div class="post" data-post-id="34014" data-author="Toxis" data-date="2013-02-08T09:49:43+00:00" data-subject="Re: Forum avatar suggestions for Breeze and Splork">
 
 Stephen Hawking
 
@@ -38,7 +38,7 @@ I'm not gonna say who should be which.
 
 </div>
 
-<div class="post" data-post-id="34015" data-author="Yasik" data-date="2013-02-08T11:22:19+00:00">
+<div class="post" data-post-id="34015" data-author="Yasik" data-date="2013-02-08T11:22:19+00:00" data-subject="Re: Forum avatar suggestions for Breeze and Splork">
 
 **Splork and Breeze, you say... Let's see...**
 
@@ -46,7 +46,7 @@ I'm not gonna say who should be which.
 
 </div>
 
-<div class="post" data-post-id="34016" data-author="Yasik" data-date="2013-02-08T11:46:00+00:00">
+<div class="post" data-post-id="34016" data-author="Yasik" data-date="2013-02-08T11:46:00+00:00" data-subject="Re: Forum avatar suggestions for Breeze and Splork">
 
 Jokes put aside, here's what I made for Breeze:
 
@@ -60,7 +60,7 @@ Atm thinking about Splork's, a bit harder to come up with anything.
 
 </div>
 
-<div class="post" data-post-id="34017" data-author="*Splork*" data-date="2013-02-08T13:33:24+00:00">
+<div class="post" data-post-id="34017" data-author="*Splork*" data-date="2013-02-08T13:33:24+00:00" data-subject="Re: Forum avatar suggestions for Breeze and Splork">
 
 Too funny Yasik:)
 

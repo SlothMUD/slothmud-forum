@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40088" data-author="cnl" data-date="2024-01-29T18:49:52+00:00">
+<div class="post" data-post-id="40088" data-author="cnl" data-date="2024-01-29T18:49:52+00:00" data-subject="eq.slothmud.org">
 
 The eq list has long been a staple of slothmud and the version put together by Fluffy has proven invaluable to many a new and experienced player alike.
 

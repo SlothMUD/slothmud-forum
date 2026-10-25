@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="208" data-author="Deju" data-date="2004-05-21T18:03:52+00:00">
+<div class="post" data-post-id="208" data-author="Deju" data-date="2004-05-21T18:03:52+00:00" data-subject="Granite Tipped Boots Up - 500k min">
 
 Object 'boots granite tipped cp', Item type: ARMOR
 
@@ -34,13 +34,13 @@ thieves, and adept warriors may use this item.
 
 </div>
 
-<div class="post" data-post-id="219" data-author="Eagle" data-date="2004-05-22T01:03:55+00:00">
+<div class="post" data-post-id="219" data-author="Eagle" data-date="2004-05-22T01:03:55+00:00" data-subject="500k">
 
 500k
 
 </div>
 
-<div class="post" data-post-id="346" data-author="Deju" data-date="2004-05-26T04:06:33+00:00">
+<div class="post" data-post-id="346" data-author="Deju" data-date="2004-05-26T04:06:33+00:00" data-subject="">
 
 Closed.. Eagle wins for 500k
 

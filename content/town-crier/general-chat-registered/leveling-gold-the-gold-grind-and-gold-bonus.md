@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="36785" data-author="Teron" data-date="2016-03-30T17:40:11+00:00">
+<div class="post" data-post-id="36785" data-author="Teron" data-date="2016-03-30T17:40:11+00:00" data-subject="Leveling Gold, the Gold Grind and Gold Bonus">
 
 Greetings.
 
@@ -40,7 +40,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36787" data-author="Josiah" data-date="2016-03-30T19:53:38+00:00">
+<div class="post" data-post-id="36787" data-author="Josiah" data-date="2016-03-30T19:53:38+00:00" data-subject="Re: Leveling Gold, the Gold Grind and Gold Bonus">
 
 I've always done well with selling equipment, forges, gems, and services like cycling for obscure equipment for a fee.  Obviously that isn't an option for everyone.  Running lyme xp is definitely profitable for those that can do it, so really the problem lies with those who group, and those who solo poorly.
 
@@ -56,7 +56,7 @@ Selling gems is available to all players, and works best for those in the groups
 
 </div>
 
-<div class="post" data-post-id="36790" data-author="cyprimus" data-date="2016-03-30T21:52:07+00:00">
+<div class="post" data-post-id="36790" data-author="cyprimus" data-date="2016-03-30T21:52:07+00:00" data-subject="Re: Leveling Gold, the Gold Grind and Gold Bonus">
 
 Its temporary Taron. once you get thru it, it will be easy..  I said essentially the same thing with cy... and with the exp increase... yet now, i leveled with a remorts bonus and still was able to not have to gold.
 
@@ -72,7 +72,7 @@ anyways, just waking up ...
 
 </div>
 
-<div class="post" data-post-id="36791" data-author="Vegetable" data-date="2016-03-31T01:23:03+00:00">
+<div class="post" data-post-id="36791" data-author="Vegetable" data-date="2016-03-31T01:23:03+00:00" data-subject="Re: Leveling Gold, the Gold Grind and Gold Bonus">
 
 I have a problem with gold as well. Mainly due to funding leveling cost for myself and the wife...... However, I'm not at Taron's level to worry too much about it yet. I still run gold from time to time before I have enough XP to level. Nevertheless, it will be good to see more gold areas to the game (Ideally solo with reasonable XP and somewhere off lyme!). I saw some great area of this kind introduced just recently to the mud and I think we are on the right track. Hope to see more of these areas in the future. 
 
@@ -80,7 +80,7 @@ I have a problem with gold as well. Mainly due to funding leveling cost for myse
 
 </div>
 
-<div class="post" data-post-id="36792" data-author="Teron" data-date="2016-03-31T07:40:11+00:00">
+<div class="post" data-post-id="36792" data-author="Teron" data-date="2016-03-31T07:40:11+00:00" data-subject="Re: Leveling Gold, the Gold Grind and Gold Bonus">
 
 Josiah, you are right, you did remind me that my exp/hr ratio in groups is pretty good. But then again, what does one expect, if imms force us to leave Lyme and exp offlyme, and to group, rather than solo? Given enough time, any leader will optimize his exp/hr above some level.
 
@@ -98,7 +98,7 @@ I too think that the reasonable solution would've been to reduce the level exp r
 
 </div>
 
-<div class="post" data-post-id="36793" data-author="Ker" data-date="2016-03-31T13:49:37+00:00">
+<div class="post" data-post-id="36793" data-author="Ker" data-date="2016-03-31T13:49:37+00:00" data-subject="Re: Leveling Gold, the Gold Grind and Gold Bonus">
 
 Zhou Zan,
 
@@ -110,7 +110,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36801" data-author="Teron" data-date="2016-04-02T06:15:36+00:00">
+<div class="post" data-post-id="36801" data-author="Teron" data-date="2016-04-02T06:15:36+00:00" data-subject="Re: Leveling Gold, the Gold Grind and Gold Bonus">
 
 > **Josiah wrote:**
 > I'm on the fence about whether this is good game design, but clearly the premise that when maximizing your xp/hour, you should be gifted with enough gold to use it is questionable.
@@ -135,7 +135,7 @@ What I'm saying is, maybe we don't need hours of gold farming to get one level b
 
 </div>
 
-<div class="post" data-post-id="36805" data-author="*Idjit*" data-date="2016-04-04T02:39:54+00:00">
+<div class="post" data-post-id="36805" data-author="*Idjit*" data-date="2016-04-04T02:39:54+00:00" data-subject="Re: Leveling Gold, the Gold Grind and Gold Bonus">
 
 People have always been free to sell me gems for gold.
 

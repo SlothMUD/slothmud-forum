@@ -10,7 +10,7 @@ locked: false
 post_count: 31
 ---
 
-<div class="post" data-post-id="11790" data-author="Guinex" data-date="2006-03-25T09:10:13+00:00">
+<div class="post" data-post-id="11790" data-author="Guinex" data-date="2006-03-25T09:10:13+00:00" data-subject="Pthieves/Jail/Bot">
 
 I have an idea that will either be hated or loved.
 
@@ -26,7 +26,7 @@ Are you pickin up what im puttin down?
 
 </div>
 
-<div class="post" data-post-id="11791" data-author="Guinex" data-date="2006-03-25T09:11:51+00:00">
+<div class="post" data-post-id="11791" data-author="Guinex" data-date="2006-03-25T09:11:51+00:00" data-subject="">
 
 Just to inforce my statement.
 
@@ -36,7 +36,7 @@ I have been logged on for approximately 1 hour and 10 minutes, and i have not be
 
 </div>
 
-<div class="post" data-post-id="11793" data-author="Harlot" data-date="2006-03-25T11:23:31+00:00">
+<div class="post" data-post-id="11793" data-author="Harlot" data-date="2006-03-25T11:23:31+00:00" data-subject="Good idea but....">
 
 Don't have a problem sitting at the keyboard while I wait but extending my sentence if I'm not? Only problem I have with that is being jailed when not boarded but known pthief is OK but being jailed and sitting indefeinitly blows... having an Imm tell you well ugh I don't know ask Splork and Splork not responding. You think I'm gonna sit at this keyboard and stare at the screen for hours at end (yes I see the irony) while jailed? Hah hah.. don't think so..I just find it funny that as sucky as I am at pthieving I get a a 'harsh' sentence 
 
@@ -46,19 +46,19 @@ Flame if you wish but my thoughts not scrambled..I'm just high
 
 </div>
 
-<div class="post" data-post-id="11803" data-author="Guinex" data-date="2006-03-25T18:48:42+00:00">
+<div class="post" data-post-id="11803" data-author="Guinex" data-date="2006-03-25T18:48:42+00:00" data-subject="">
 
 Tissue?
 
 </div>
 
-<div class="post" data-post-id="11806" data-author="12345" data-date="2006-03-25T22:41:13+00:00">
+<div class="post" data-post-id="11806" data-author="12345" data-date="2006-03-25T22:41:13+00:00" data-subject="">
 
 What a concept... the jail doing what it's supposed to.
 
 </div>
 
-<div class="post" data-post-id="11810" data-author="*juggleblood*" data-date="2006-03-26T09:22:11+00:00">
+<div class="post" data-post-id="11810" data-author="*juggleblood*" data-date="2006-03-26T09:22:11+00:00" data-subject="">
 
 Could someone post a rough explanation of how jail and 'getting boarded' works?
 
@@ -80,13 +80,13 @@ thx
 
 </div>
 
-<div class="post" data-post-id="11811" data-author="Guinex" data-date="2006-03-26T10:01:36+00:00">
+<div class="post" data-post-id="11811" data-author="Guinex" data-date="2006-03-26T10:01:36+00:00" data-subject="">
 
 Shit, do you want some lube with that?
 
 </div>
 
-<div class="post" data-post-id="11813" data-author="Wasp" data-date="2006-03-26T17:19:07+00:00">
+<div class="post" data-post-id="11813" data-author="Wasp" data-date="2006-03-26T17:19:07+00:00" data-subject="">
 
 The same applies to this thread as was requested of the pthieving thread. Do not let this thread get out of hand. 
 
@@ -94,7 +94,7 @@ Wasp
 
 </div>
 
-<div class="post" data-post-id="11815" data-author="12345" data-date="2006-03-26T18:28:43+00:00">
+<div class="post" data-post-id="11815" data-author="12345" data-date="2006-03-26T18:28:43+00:00" data-subject="">
 
 The basics as I know them:
 
@@ -116,7 +116,7 @@ Does that answer most your questions Juggle?
 
 </div>
 
-<div class="post" data-post-id="11816" data-author="Weasel" data-date="2006-03-26T19:14:51+00:00">
+<div class="post" data-post-id="11816" data-author="Weasel" data-date="2006-03-26T19:14:51+00:00" data-subject="">
 
 As far as I knew, you had to have a key to enter a vaultroom from outside - which obviously presented a problem in that a pthief could hang out around the vaults and steal robes / keys as soon as a player came along wanting to enter their vaultroom , because to enter their vaultroom(s) they'd need to remove their robe to get their keys out, or even if they already had got their keys out while in a safe room the keys themselves could still be stolen, ie: there is no way to protect against being thieved from at this point.
 
@@ -135,13 +135,13 @@ I'd love to have keyless entry to my mansion etc using some sort of password in 
 
 </div>
 
-<div class="post" data-post-id="11817" data-author="Weasel" data-date="2006-03-26T19:19:07+00:00">
+<div class="post" data-post-id="11817" data-author="Weasel" data-date="2006-03-26T19:19:07+00:00" data-subject="">
 
 An alternative is to make public rooms outside vaultrooms nosteal rooms - which is something I have suggested previously but never got a reply on.
 
 </div>
 
-<div class="post" data-post-id="11818" data-author="*Splork*" data-date="2006-03-26T19:23:39+00:00">
+<div class="post" data-post-id="11818" data-author="*Splork*" data-date="2006-03-26T19:23:39+00:00" data-subject="">
 
 We have been through this before Weasel, many players have tt's as entrances.
 
@@ -155,13 +155,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="11819" data-author="12345" data-date="2006-03-26T19:24:09+00:00">
+<div class="post" data-post-id="11819" data-author="12345" data-date="2006-03-26T19:24:09+00:00" data-subject="">
 
 Well, you can protect yourself to some extent, though it's not convient.  Mosaix laid it out best I think...  Area blast the room.  If anyone's there, I've yet to see a rule that says you can't web and recall a pthief.  :)
 
 </div>
 
-<div class="post" data-post-id="11820" data-author="*Splork*" data-date="2006-03-26T19:35:42+00:00">
+<div class="post" data-post-id="11820" data-author="*Splork*" data-date="2006-03-26T19:35:42+00:00" data-subject="to further prove my pt">
 
 Lets see, a help file for room bonuses that dates back half a year... Please read carefully weasel.. You may see something interesting
 
@@ -207,7 +207,7 @@ Further Room Bonuses:
 
 </div>
 
-<div class="post" data-post-id="11821" data-author="Weasel" data-date="2006-03-26T19:51:16+00:00">
+<div class="post" data-post-id="11821" data-author="Weasel" data-date="2006-03-26T19:51:16+00:00" data-subject="">
 
 We have been through this before Weasel, many players have tt's as entrances.
 
@@ -227,13 +227,13 @@ I also wasn't making an assumption here - I have asked a long time ago (like sev
 
 </div>
 
-<div class="post" data-post-id="11822" data-author="Weasel" data-date="2006-03-26T19:56:17+00:00">
+<div class="post" data-post-id="11822" data-author="Weasel" data-date="2006-03-26T19:56:17+00:00" data-subject="">
 
 ahh ok just saw your 2nd post re helpfile. My bad for not noticing in the last 6 months the detail about house entry - probably just saw the words ' 3M Special triggers' and read no further. I stand corrected. Thanks.
 
 </div>
 
-<div class="post" data-post-id="11823" data-author="12345" data-date="2006-03-26T20:05:49+00:00">
+<div class="post" data-post-id="11823" data-author="12345" data-date="2006-03-26T20:05:49+00:00" data-subject="">
 
 One day I'm going to get really bored and make Sloth toys.  This is what I have so far:
 
@@ -253,7 +253,7 @@ Any other ideas?
 
 </div>
 
-<div class="post" data-post-id="11824" data-author="Weasel" data-date="2006-03-26T20:17:45+00:00">
+<div class="post" data-post-id="11824" data-author="Weasel" data-date="2006-03-26T20:17:45+00:00" data-subject="">
 
 hehe :)
 
@@ -261,7 +261,7 @@ hehe :)
 
 </div>
 
-<div class="post" data-post-id="11825" data-author="12345" data-date="2006-03-26T20:26:12+00:00">
+<div class="post" data-post-id="11825" data-author="12345" data-date="2006-03-26T20:26:12+00:00" data-subject="">
 
 *laugh*
 
@@ -269,7 +269,7 @@ I like that!  :lol:
 
 </div>
 
-<div class="post" data-post-id="11826" data-author="*Splork*" data-date="2006-03-26T20:30:32+00:00">
+<div class="post" data-post-id="11826" data-author="*Splork*" data-date="2006-03-26T20:30:32+00:00" data-subject="">
 
 I never called YOU a dumbass, but implying that its "odd" that the only person with a tt entrance to their vault is a pthief is an extremely, hmm dumbass thought. Especially when the ability to purchase it has been there for over half a year.
 
@@ -279,7 +279,7 @@ Splork :twisted:   :roll:
 
 </div>
 
-<div class="post" data-post-id="11827" data-author="*Splork*" data-date="2006-03-26T20:33:54+00:00">
+<div class="post" data-post-id="11827" data-author="*Splork*" data-date="2006-03-26T20:33:54+00:00" data-subject="">
 
 For the record Judge, I do not think Weasel is a dumbass.
 
@@ -293,13 +293,13 @@ Oh yeah, before I get scolded-tone down this thread:)
 
 </div>
 
-<div class="post" data-post-id="11828" data-author="Guinex" data-date="2006-03-27T01:33:20+00:00">
+<div class="post" data-post-id="11828" data-author="Guinex" data-date="2006-03-27T01:33:20+00:00" data-subject="">
 
 Touche! Good stuffs! :D
 
 </div>
 
-<div class="post" data-post-id="11845" data-author="Autolycos" data-date="2006-03-27T19:43:34+00:00">
+<div class="post" data-post-id="11845" data-author="Autolycos" data-date="2006-03-27T19:43:34+00:00" data-subject="">
 
 For the record Judge, I do not think Weasel is a dumbass.
 
@@ -315,7 +315,7 @@ cackle  :twisted:  nice one Susan!
 
 </div>
 
-<div class="post" data-post-id="11846" data-author="Autolycos" data-date="2006-03-27T19:47:33+00:00">
+<div class="post" data-post-id="11846" data-author="Autolycos" data-date="2006-03-27T19:47:33+00:00" data-subject="">
 
 One day I'm going to get really bored and make Sloth toys.  This is what I have so far:
 
@@ -337,7 +337,7 @@ nope, can't think of anything... actually,  I'LL BUY A DOZEN!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16220" data-author="12345" data-date="2007-01-12T02:12:07+00:00">
+<div class="post" data-post-id="16220" data-author="12345" data-date="2007-01-12T02:12:07+00:00" data-subject="">
 
 I thought of another...
 
@@ -345,7 +345,7 @@ Brand - a manc depressive megalomanical sorcercer with a deck of Trumps in one h
 
 </div>
 
-<div class="post" data-post-id="16221" data-author="Autolycos" data-date="2007-01-12T02:36:27+00:00">
+<div class="post" data-post-id="16221" data-author="Autolycos" data-date="2007-01-12T02:36:27+00:00" data-subject="">
 
 i love it.. love it.. love it!
 
@@ -353,7 +353,7 @@ i love it.. love it.. love it!
 
 </div>
 
-<div class="post" data-post-id="16222" data-author="firebrand" data-date="2007-01-12T14:03:56+00:00">
+<div class="post" data-post-id="16222" data-author="firebrand" data-date="2007-01-12T14:03:56+00:00" data-subject="">
 
 what about a firebrand doll with a tiger and a fliptop head that -not surprisingly- has no brain inside?
 
@@ -361,7 +361,7 @@ what about a firebrand doll with a tiger and a fliptop head that -not surprising
 
 </div>
 
-<div class="post" data-post-id="16227" data-author="Autolycos" data-date="2007-01-12T15:38:00+00:00">
+<div class="post" data-post-id="16227" data-author="Autolycos" data-date="2007-01-12T15:38:00+00:00" data-subject="">
 
 a fliptop head [/quote:7tod9236]
 
@@ -369,13 +369,13 @@ you got that right....  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16238" data-author="12345" data-date="2007-01-13T01:45:05+00:00">
+<div class="post" data-post-id="16238" data-author="12345" data-date="2007-01-13T01:45:05+00:00" data-subject="">
 
 Actually, I was thinking more along the lines of a tigress with a firebrand in one hand and burning hair covering most of her body.
 
 </div>
 
-<div class="post" data-post-id="16239" data-author="Autolycos" data-date="2007-01-13T01:52:37+00:00">
+<div class="post" data-post-id="16239" data-author="Autolycos" data-date="2007-01-13T01:52:37+00:00" data-subject="">
 
 love it.. but can we still add in the human pez dispenser idea? 
 
@@ -385,7 +385,7 @@ i mean.. you could load it with either pez, gummi bears or prozac.
 
 </div>
 
-<div class="post" data-post-id="16240" data-author="12345" data-date="2007-01-13T02:17:58+00:00">
+<div class="post" data-post-id="16240" data-author="12345" data-date="2007-01-13T02:17:58+00:00" data-subject="">
 
 The Prozac seems oddly fitting...
 

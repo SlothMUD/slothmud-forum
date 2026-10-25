@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36370" data-author="*Idjit*" data-date="2015-12-24T21:22:47+00:00">
+<div class="post" data-post-id="36370" data-author="*Idjit*" data-date="2015-12-24T21:22:47+00:00" data-subject="2015 Christmas Quest Leader Poll">
 
 The person with the most votes will be the first team captain.
 

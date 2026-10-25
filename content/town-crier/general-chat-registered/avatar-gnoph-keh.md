@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="12039" data-author="Liar" data-date="2006-04-10T13:12:00+00:00">
+<div class="post" data-post-id="12039" data-author="Liar" data-date="2006-04-10T13:12:00+00:00" data-subject="Avatar Gnoph-Keh">
 
 Avatar Gnoph-Keh is dead! R.I.P.
 

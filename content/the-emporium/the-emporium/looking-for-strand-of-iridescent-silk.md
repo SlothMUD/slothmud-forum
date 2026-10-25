@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="24519" data-author="mullah~ds~" data-date="2008-05-26T20:43:57+00:00">
+<div class="post" data-post-id="24519" data-author="mullah~ds~" data-date="2008-05-26T20:43:57+00:00" data-subject="looking for Strand of Iridescent Silk">
 
 Looking for :
 

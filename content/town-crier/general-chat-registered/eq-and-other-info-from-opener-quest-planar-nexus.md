@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38279" data-author="Tuck" data-date="2017-06-11T20:57:41+00:00">
+<div class="post" data-post-id="38279" data-author="Tuck" data-date="2017-06-11T20:57:41+00:00" data-subject="EQ and other info from opener quest (Planar Nexus)">
 
 - new continent Euridyce with it's own recall point - recall area is Planar Nexus.
 
@@ -70,7 +70,7 @@ Thanks to Neptune for area, Taron for leading, and all other peeps for fun.
 
 </div>
 
-<div class="post" data-post-id="38280" data-author="Ezekiel" data-date="2017-06-12T04:39:34+00:00">
+<div class="post" data-post-id="38280" data-author="Ezekiel" data-date="2017-06-12T04:39:34+00:00" data-subject="Re: EQ and other info from opener quest (Planar Nexus)">
 
 Wow, seems heavy on the th/mo/wa eq so far...hopefully caster gear will be found soon!
 

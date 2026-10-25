@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32886" data-author="Toxis" data-date="2011-09-09T22:06:15+00:00">
+<div class="post" data-post-id="32886" data-author="Toxis" data-date="2011-09-09T22:06:15+00:00" data-subject="Valk Quest">
 
 There will be a quest on valk.. yes valk... saturday the 10th of
 
@@ -20,7 +20,7 @@ September.  It will start approximately at 2pm central.
 
 </div>
 
-<div class="post" data-post-id="32887" data-author="Harm" data-date="2011-09-10T05:52:00+00:00">
+<div class="post" data-post-id="32887" data-author="Harm" data-date="2011-09-10T05:52:00+00:00" data-subject="Re: Valk Quest">
 
 Booh. I gotta work.
 
@@ -28,7 +28,7 @@ On another note, thanx for doin stuff.
 
 </div>
 
-<div class="post" data-post-id="32897" data-author="Toxis" data-date="2011-09-11T10:32:29+00:00">
+<div class="post" data-post-id="32897" data-author="Toxis" data-date="2011-09-11T10:32:29+00:00" data-subject="Re: Valk Quest">
 
 The valiant protectors of Valkyre gathered up 15 quest flags.  Those that participated got drachma, while the mighty Overture came in first place finding 4 of the missing flags.  Gratz.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34381" data-author="*Neptune*" data-date="2013-08-13T23:58:03+00:00">
+<div class="post" data-post-id="34381" data-author="*Neptune*" data-date="2013-08-13T23:58:03+00:00" data-subject="Mob Updates">
 
 Just a quick heads up for some of you guys out there.
 
@@ -40,7 +40,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="34386" data-author="*juggleblood*" data-date="2013-08-14T11:48:11+00:00">
+<div class="post" data-post-id="34386" data-author="*juggleblood*" data-date="2013-08-14T11:48:11+00:00" data-subject="Re: Mob Updates">
 
 Likewise, a handful of mobs in dark dreams have been made uncharmable for the sake of preventing crashes.
 

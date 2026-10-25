@@ -10,25 +10,25 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="17935" data-author="12345" data-date="2007-04-14T07:21:18+00:00">
+<div class="post" data-post-id="17935" data-author="12345" data-date="2007-04-14T07:21:18+00:00" data-subject="Sunday Quest">
 
 I will be attempting to hold a quest on Sunday.  The current plan is to begin at 7pm EDT on Sunday, April 15th.  Kjartan has graciously offered to help out with the end game.  The beginning portion I should be able to handle myself.   The first clue will be posted onto the crier, probably this thread, and that will trigger the start of the quest.  Some killing will be involved, but I am currently planning on it being more like a puzzle than a kill fest... at least to start.  So bring your thinking caps, you'll need them :)
 
 </div>
 
-<div class="post" data-post-id="17937" data-author="Hades" data-date="2007-04-14T20:06:03+00:00">
+<div class="post" data-post-id="17937" data-author="Hades" data-date="2007-04-14T20:06:03+00:00" data-subject="RE: Quest">
 
 Most  clues can be found in the latest Harry Potter book. Pick up a copy today :oops:
 
 </div>
 
-<div class="post" data-post-id="17938" data-author="Infested" data-date="2007-04-14T20:28:02+00:00">
+<div class="post" data-post-id="17938" data-author="Infested" data-date="2007-04-14T20:28:02+00:00" data-subject="">
 
 Snape killed Dumbledore!
 
 </div>
 
-<div class="post" data-post-id="17942" data-author="firebrand" data-date="2007-04-15T16:20:01+00:00">
+<div class="post" data-post-id="17942" data-author="firebrand" data-date="2007-04-15T16:20:01+00:00" data-subject="">
 
 Snape killed Dumbledore![/quote:3inoro06]
 
@@ -38,13 +38,13 @@ nuh uh!  it was colonel mustard and he used the candlestick.
 
 </div>
 
-<div class="post" data-post-id="17944" data-author="Leaf" data-date="2007-04-15T21:15:47+00:00">
+<div class="post" data-post-id="17944" data-author="Leaf" data-date="2007-04-15T21:15:47+00:00" data-subject="">
 
 Soooo 7pm EDT is 1hr head of Central Time right??? So it would 6:00 cst?
 
 </div>
 
-<div class="post" data-post-id="17945" data-author="12345" data-date="2007-04-15T23:00:41+00:00">
+<div class="post" data-post-id="17945" data-author="12345" data-date="2007-04-15T23:00:41+00:00" data-subject="">
 
 I'll make it easy.... it's starting NOW.  See below.
 
@@ -92,7 +92,7 @@ May the drachma be with you.
 
 </div>
 
-<div class="post" data-post-id="17946" data-author="Atwell" data-date="2007-04-15T23:21:34+00:00">
+<div class="post" data-post-id="17946" data-author="Atwell" data-date="2007-04-15T23:21:34+00:00" data-subject="">
 
 Aviendha found Qaan the demi-lich in luna's temple.  He had this note:
 
@@ -116,7 +116,7 @@ Who am I?
 
 </div>
 
-<div class="post" data-post-id="17947" data-author="Atwell" data-date="2007-04-15T23:28:10+00:00">
+<div class="post" data-post-id="17947" data-author="Atwell" data-date="2007-04-15T23:28:10+00:00" data-subject="">
 
 Kida found another not on Ur-Baal in tel makor:
 
@@ -142,7 +142,7 @@ Who am I?
 
 </div>
 
-<div class="post" data-post-id="17948" data-author="Atwell" data-date="2007-04-15T23:31:08+00:00">
+<div class="post" data-post-id="17948" data-author="Atwell" data-date="2007-04-15T23:31:08+00:00" data-subject="">
 
 I found this note on ivec in sheol:
 
@@ -172,7 +172,7 @@ Who am I?
 
 </div>
 
-<div class="post" data-post-id="17949" data-author="Atwell" data-date="2007-04-15T23:32:44+00:00">
+<div class="post" data-post-id="17949" data-author="Atwell" data-date="2007-04-15T23:32:44+00:00" data-subject="">
 
 Next note obviously loaded on cthulga:
 
@@ -198,7 +198,7 @@ Who am I?
 
 </div>
 
-<div class="post" data-post-id="17950" data-author="Atwell" data-date="2007-04-15T23:36:19+00:00">
+<div class="post" data-post-id="17950" data-author="Atwell" data-date="2007-04-15T23:36:19+00:00" data-subject="">
 
 Aviendha found kender in dwarven mtn with a note:
 
@@ -220,7 +220,7 @@ Who am I?
 
 </div>
 
-<div class="post" data-post-id="17951" data-author="Atwell" data-date="2007-04-15T23:40:52+00:00">
+<div class="post" data-post-id="17951" data-author="Atwell" data-date="2007-04-15T23:40:52+00:00" data-subject="">
 
 Next mob was Sipa in aaost (identified by rynquald), loaded note:
 
@@ -248,7 +248,7 @@ Who am I?
 
 </div>
 
-<div class="post" data-post-id="17952" data-author="Atwell" data-date="2007-04-15T23:42:57+00:00">
+<div class="post" data-post-id="17952" data-author="Atwell" data-date="2007-04-15T23:42:57+00:00" data-subject="">
 
 Ivan obviously had next note:
 
@@ -274,7 +274,7 @@ Who am I?
 
 </div>
 
-<div class="post" data-post-id="17954" data-author="Atwell" data-date="2007-04-15T23:50:17+00:00">
+<div class="post" data-post-id="17954" data-author="Atwell" data-date="2007-04-15T23:50:17+00:00" data-subject="">
 
 Lout in cholemry had next note, truth found him:
 
@@ -298,7 +298,7 @@ Who am I?
 
 </div>
 
-<div class="post" data-post-id="17955" data-author="Atwell" data-date="2007-04-15T23:51:43+00:00">
+<div class="post" data-post-id="17955" data-author="Atwell" data-date="2007-04-15T23:51:43+00:00" data-subject="">
 
 Mob was obviously vicar, here's his note:
 
@@ -324,7 +324,7 @@ Who am I?
 
 </div>
 
-<div class="post" data-post-id="17956" data-author="Atwell" data-date="2007-04-15T23:58:13+00:00">
+<div class="post" data-post-id="17956" data-author="Atwell" data-date="2007-04-15T23:58:13+00:00" data-subject="">
 
 Bazilus found next note on Ei in crossroads:
 
@@ -350,7 +350,7 @@ Who am I?
 
 </div>
 
-<div class="post" data-post-id="17957" data-author="Atwell" data-date="2007-04-16T00:02:03+00:00">
+<div class="post" data-post-id="17957" data-author="Atwell" data-date="2007-04-16T00:02:03+00:00" data-subject="">
 
 Truth found next note on rhagar in kara'sa
 
@@ -360,7 +360,7 @@ This is End. Die Now.
 
 </div>
 
-<div class="post" data-post-id="17958" data-author="Weasel" data-date="2007-04-16T00:42:58+00:00">
+<div class="post" data-post-id="17958" data-author="Weasel" data-date="2007-04-16T00:42:58+00:00" data-subject="">
 
 Truth found next note on rhagar in kara'sa
 
@@ -372,7 +372,7 @@ LOL nice
 
 </div>
 
-<div class="post" data-post-id="17961" data-author="Atwell" data-date="2007-04-16T01:58:04+00:00">
+<div class="post" data-post-id="17961" data-author="Atwell" data-date="2007-04-16T01:58:04+00:00" data-subject="">
 
 Kida noted that concatenating the first letters the name of each mob we had killed yielded the word "quicksilver".  We found a quicksilver golem in the BH construction site.  Upon death, this golem divided into four quicksliver blobs:
 
@@ -432,7 +432,7 @@ Thanks to Ender for a fun quest and to everyone who came along.
 
 </div>
 
-<div class="post" data-post-id="17962" data-author="12345" data-date="2007-04-16T03:01:56+00:00">
+<div class="post" data-post-id="17962" data-author="12345" data-date="2007-04-16T03:01:56+00:00" data-subject="">
 
 Thanks all for the help on my first quest  :D 
 
@@ -440,13 +440,13 @@ More to come hopefully... As I think up new and improved ways to kill you all fo
 
 </div>
 
-<div class="post" data-post-id="17970" data-author="*juggleblood*" data-date="2007-04-16T06:42:15+00:00">
+<div class="post" data-post-id="17970" data-author="*juggleblood*" data-date="2007-04-16T06:42:15+00:00" data-subject="">
 
 Wow, that was really clever. Makes me want to start reading room descriptions.  :)
 
 </div>
 
-<div class="post" data-post-id="17978" data-author="Malorne" data-date="2007-04-16T09:38:11+00:00">
+<div class="post" data-post-id="17978" data-author="Malorne" data-date="2007-04-16T09:38:11+00:00" data-subject="">
 
 Great quest :) I thought it was pretty amazing how you guys found the rooms so quickly one after another without help. 
 
@@ -454,7 +454,7 @@ Thanks Ender, keep em' coming!
 
 </div>
 
-<div class="post" data-post-id="18017" data-author="Vixn" data-date="2007-04-17T19:20:31+00:00">
+<div class="post" data-post-id="18017" data-author="Vixn" data-date="2007-04-17T19:20:31+00:00" data-subject="">
 
 Thanks for quest, it was really fun.
 

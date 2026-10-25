@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="2953" data-author="Zeizel" data-date="2004-11-22T05:00:55+00:00">
+<div class="post" data-post-id="2953" data-author="Zeizel" data-date="2004-11-22T05:00:55+00:00" data-subject="Are _all_ weapons pointy?">
 
 I'm a Dr/M/N/Mo, and this is my first char.  That said, I found a bull whip today and decided to try striking with it wielded.  Apparently, a bull whip is a pointy weapon?
 
@@ -20,19 +20,19 @@ Is there any kind of weapon that allows strike?  I can't really do much damage b
 
 </div>
 
-<div class="post" data-post-id="2954" data-author="iain" data-date="2004-11-22T05:31:30+00:00">
+<div class="post" data-post-id="2954" data-author="iain" data-date="2004-11-22T05:31:30+00:00" data-subject="play that char">
 
 It is a pimpin good classo. By the time you hit 38 prime you will just shift all the time anyhow. That said I don't believe there is anything you can wield while still striking. Would be nice though. <Wielded> a roll of quarters
 
 </div>
 
-<div class="post" data-post-id="2955" data-author="iain" data-date="2004-11-22T05:33:59+00:00">
+<div class="post" data-post-id="2955" data-author="iain" data-date="2004-11-22T05:33:59+00:00" data-subject="oh yeah">
 
 Everytime I see your name, I think longingly of O fries.
 
 </div>
 
-<div class="post" data-post-id="2957" data-author="Howl" data-date="2004-11-22T11:30:47+00:00">
+<div class="post" data-post-id="2957" data-author="Howl" data-date="2004-11-22T11:30:47+00:00" data-subject="">
 
 The reason your strike doesn't do much damage is not that monk is your quad, it's that you have low monk levels. Your strike will get bigger when your monk levels do.
 
@@ -42,7 +42,7 @@ Barehanded attacks are actually "emptyhanded". You can't do them so long as you 
 
 </div>
 
-<div class="post" data-post-id="2960" data-author="Zeizel" data-date="2004-11-22T11:48:49+00:00">
+<div class="post" data-post-id="2960" data-author="Zeizel" data-date="2004-11-22T11:48:49+00:00" data-subject="">
 
 I wasn't saying that my strike doesn't do much damage, just that I haven't noticed my bare-hand attacks being all that good.
 
@@ -54,7 +54,7 @@ PS - I love Antoons.  Haven't had O' fries in over a year, though.  Too greasy f
 
 </div>
 
-<div class="post" data-post-id="2962" data-author="12345" data-date="2004-11-22T12:19:11+00:00">
+<div class="post" data-post-id="2962" data-author="12345" data-date="2004-11-22T12:19:11+00:00" data-subject="">
 
 Barehanded attacks are kind of fun.  I have a little monk and he hits much weaker with a weapon in his hand, not to mention losing strike.  Strength is a key factor in bareharded attacks though.  I'm running 18/100 str (+6 dam) and just +3 handdam equipment and I'm getting 100% massacres at level 20.  Barehanded attacks also seem to have very little variance in their strength, unlike weapons which can run from 3-18 points of damage (for a 3d6).
 
@@ -62,7 +62,7 @@ As for the original question, any weapon is not a barehanded attack, and disable
 
 </div>
 
-<div class="post" data-post-id="2968" data-author="guest" data-date="2004-11-22T17:10:46+00:00">
+<div class="post" data-post-id="2968" data-author="guest" data-date="2004-11-22T17:10:46+00:00" data-subject="">
 
 Howl, what is your str (if you don't mind)?
 
@@ -74,7 +74,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="2969" data-author="12345" data-date="2004-11-22T17:40:14+00:00">
+<div class="post" data-post-id="2969" data-author="12345" data-date="2004-11-22T17:40:14+00:00" data-subject="">
 
 I don't have the old web page to refer to, but if I remember correctly, you recieve damage bonuses for strength at 17, 18/01, 18/10, 18/80, 18/90 and 18/100.
 
@@ -84,7 +84,7 @@ Or you can just shift, gain several hard hitting attacks and not worry about it.
 
 </div>
 
-<div class="post" data-post-id="2996" data-author="guest" data-date="2004-11-23T20:09:39+00:00">
+<div class="post" data-post-id="2996" data-author="guest" data-date="2004-11-23T20:09:39+00:00" data-subject="">
 
 I did some very quick analysis of a few battles last night, and it looks like I average about the same damage whether I go barehanded or with a weapon.  My weapon damage had (as mentioned in other posts) a much wider range, while my handdamage was fairly consistent.
 
@@ -96,7 +96,7 @@ Thanks for all of your input!
 
 </div>
 
-<div class="post" data-post-id="2997" data-author="Zeizel" data-date="2004-11-23T20:10:53+00:00">
+<div class="post" data-post-id="2997" data-author="Zeizel" data-date="2004-11-23T20:10:53+00:00" data-subject="">
 
 Forgot to log in again.  That was me.
 

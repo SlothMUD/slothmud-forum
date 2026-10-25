@@ -10,13 +10,13 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="10663" data-author="Weasel" data-date="2006-02-11T18:10:52+00:00">
+<div class="post" data-post-id="10663" data-author="Weasel" data-date="2006-02-11T18:10:52+00:00" data-subject="BH Autoquests">
 
 list them here
 
 </div>
 
-<div class="post" data-post-id="10664" data-author="Weasel" data-date="2006-02-11T18:14:51+00:00">
+<div class="post" data-post-id="10664" data-author="Weasel" data-date="2006-02-11T18:14:51+00:00" data-subject="">
 
 Name of quest: Bal_Harbor
 
@@ -28,7 +28,7 @@ Reward: 15 drachma and 250k gold
 
 </div>
 
-<div class="post" data-post-id="10665" data-author="Weasel" data-date="2006-02-11T18:19:48+00:00">
+<div class="post" data-post-id="10665" data-author="Weasel" data-date="2006-02-11T18:19:48+00:00" data-subject="">
 
 Name of quest: sacred_wine
 
@@ -40,7 +40,7 @@ Reward: 30 drachma
 
 </div>
 
-<div class="post" data-post-id="10666" data-author="Weasel" data-date="2006-02-11T18:23:09+00:00">
+<div class="post" data-post-id="10666" data-author="Weasel" data-date="2006-02-11T18:23:09+00:00" data-subject="">
 
 Name of quest: scrolls
 
@@ -52,7 +52,7 @@ Reward: 5 drachma and a powerfull scroll of enchantments (for this first part of
 
 </div>
 
-<div class="post" data-post-id="10667" data-author="Weasel" data-date="2006-02-11T18:26:03+00:00">
+<div class="post" data-post-id="10667" data-author="Weasel" data-date="2006-02-11T18:26:03+00:00" data-subject="">
 
 Name of quest: mine_canary
 
@@ -64,7 +64,7 @@ Reward: 10 drachma, 100k coin and a godsanc
 
 </div>
 
-<div class="post" data-post-id="10668" data-author="Weasel" data-date="2006-02-11T18:29:18+00:00">
+<div class="post" data-post-id="10668" data-author="Weasel" data-date="2006-02-11T18:29:18+00:00" data-subject="">
 
 Name of quest: meal
 
@@ -76,7 +76,7 @@ Reward: 5 drachma
 
 </div>
 
-<div class="post" data-post-id="10672" data-author="Mustang" data-date="2006-02-11T18:38:23+00:00">
+<div class="post" data-post-id="10672" data-author="Mustang" data-date="2006-02-11T18:38:23+00:00" data-subject="">
 
 name of auto : bugs
 
@@ -86,7 +86,7 @@ reward : 30 drachma
 
 </div>
 
-<div class="post" data-post-id="10718" data-author="Weasel" data-date="2006-02-14T19:22:08+00:00">
+<div class="post" data-post-id="10718" data-author="Weasel" data-date="2006-02-14T19:22:08+00:00" data-subject="">
 
 Name of quest: beautiful_girl
 
@@ -98,7 +98,7 @@ Reward: 5 drachma and 25k experience
 
 </div>
 
-<div class="post" data-post-id="10719" data-author="Weasel" data-date="2006-02-14T19:24:10+00:00">
+<div class="post" data-post-id="10719" data-author="Weasel" data-date="2006-02-14T19:24:10+00:00" data-subject="">
 
 Name of quest: health_of_my_forest
 
@@ -110,7 +110,7 @@ Reward: 2 drachma
 
 </div>
 
-<div class="post" data-post-id="10720" data-author="Weasel" data-date="2006-02-14T19:26:32+00:00">
+<div class="post" data-post-id="10720" data-author="Weasel" data-date="2006-02-14T19:26:32+00:00" data-subject="">
 
 Name of quest: exotic_weapon
 
@@ -122,7 +122,7 @@ Reward: 20 drachma
 
 </div>
 
-<div class="post" data-post-id="10722" data-author="Weasel" data-date="2006-02-14T19:59:19+00:00">
+<div class="post" data-post-id="10722" data-author="Weasel" data-date="2006-02-14T19:59:19+00:00" data-subject="">
 
 Name of quest: sword (this is the warrior prime autoquest)
 
@@ -134,7 +134,7 @@ Reward: 10 drachma and Brilliant Sword of Valor 4D5 +2Dam +1Hit (warrior prime a
 
 </div>
 
-<div class="post" data-post-id="10790" data-author="Weasel" data-date="2006-02-19T17:05:19+00:00">
+<div class="post" data-post-id="10790" data-author="Weasel" data-date="2006-02-19T17:05:19+00:00" data-subject="">
 
 Name of quest: staff
 
@@ -146,7 +146,7 @@ Reward: 5 drachma
 
 </div>
 
-<div class="post" data-post-id="11069" data-author="Weasel" data-date="2006-03-05T08:51:47+00:00">
+<div class="post" data-post-id="11069" data-author="Weasel" data-date="2006-03-05T08:51:47+00:00" data-subject="">
 
 Name of quest: book
 
@@ -160,7 +160,7 @@ Reward: 2 drachma, about 50k coin and 2mil exp.
 
 </div>
 
-<div class="post" data-post-id="13120" data-author="marchessa_the_red_witch" data-date="2006-06-24T04:59:39+00:00">
+<div class="post" data-post-id="13120" data-author="marchessa_the_red_witch" data-date="2006-06-24T04:59:39+00:00" data-subject="Witch Hunter Autoquest">
 
 Name:witch_hunting
 
@@ -170,7 +170,7 @@ You must be of good alignment for this
 
 </div>
 
-<div class="post" data-post-id="13455" data-author="Zing" data-date="2006-07-12T18:31:40+00:00">
+<div class="post" data-post-id="13455" data-author="Zing" data-date="2006-07-12T18:31:40+00:00" data-subject="">
 
 name of auto : bugs
 

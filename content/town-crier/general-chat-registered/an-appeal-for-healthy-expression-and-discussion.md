@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="35804" data-author="*Neptune*" data-date="2015-04-12T17:17:33+00:00">
+<div class="post" data-post-id="35804" data-author="*Neptune*" data-date="2015-04-12T17:17:33+00:00" data-subject="An Appeal for Healthy Expression and Discussion">
 
 Greetings.
 
@@ -50,7 +50,7 @@ Ok, ready, set, go!
 
 </div>
 
-<div class="post" data-post-id="35806" data-author="cyprimus" data-date="2015-04-12T18:27:03+00:00">
+<div class="post" data-post-id="35806" data-author="cyprimus" data-date="2015-04-12T18:27:03+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
 For me, with myriad alts... each areas different... for example..
 
@@ -86,7 +86,7 @@ Hardest thing i have seen lately is getting a leader/tank/healer ....that's not 
 
 </div>
 
-<div class="post" data-post-id="35807" data-author="Teron" data-date="2015-04-13T09:51:45+00:00">
+<div class="post" data-post-id="35807" data-author="Teron" data-date="2015-04-13T09:51:45+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
 If we only take into account an area theme, then the Desert is my favorite. It feels like a vast, dry ocean with an oasis in it. Maybe it's related to my previous experience in camping for marid in S3.
 
@@ -406,7 +406,7 @@ I may have other areas I lke, but this is all I could think of atm.
 
 </div>
 
-<div class="post" data-post-id="35811" data-author="Yasik" data-date="2015-04-15T07:40:54+00:00">
+<div class="post" data-post-id="35811" data-author="Yasik" data-date="2015-04-15T07:40:54+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
 I dont think it is a good idea to reply to this thread, we uncover what area we like (=easy and beneficial), those areas will be changed, 'rebalanced' or nerfed.
 
@@ -414,7 +414,7 @@ It happened before, especially for me: all VK, Autumnal in particular (I ran the
 
 </div>
 
-<div class="post" data-post-id="35812" data-author="Teron" data-date="2015-04-15T09:39:33+00:00">
+<div class="post" data-post-id="35812" data-author="Teron" data-date="2015-04-15T09:39:33+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
 Yasik's post has some truth in it.
 
@@ -456,7 +456,7 @@ Thank you.
 
 </div>
 
-<div class="post" data-post-id="35813" data-author="Unsub" data-date="2015-04-15T15:13:33+00:00">
+<div class="post" data-post-id="35813" data-author="Unsub" data-date="2015-04-15T15:13:33+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
 Hi Folks
 
@@ -486,7 +486,7 @@ I want to hit 3 or 4 large areas with the best gold/exp I can get.  The problem 
 
 </div>
 
-<div class="post" data-post-id="35814" data-author="celerra7" data-date="2015-04-15T15:18:56+00:00">
+<div class="post" data-post-id="35814" data-author="celerra7" data-date="2015-04-15T15:18:56+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
 I'm throwing my hat in with Yasik also.  Nerfing has greatly reduced my interest in playing areas that I used to like, especially on BH for prime solos, and VK for alt solos.  BH Catacombs used to be a blast to see how hard and fast it could be run, plus getting some good xp and gp out of it.  Now, its not worth the effort.  
 
@@ -496,7 +496,7 @@ I don't have a huge prime to play Lyme, but I don't play just VK with alts.  It'
 
 </div>
 
-<div class="post" data-post-id="35815" data-author="*Splork*" data-date="2015-04-15T18:29:55+00:00">
+<div class="post" data-post-id="35815" data-author="*Splork*" data-date="2015-04-15T18:29:55+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
 I think some people's memories are too good and they are remembering changes from years and years past. They are not remembering anything from recent history, and by recent I am speaking about this version of Sloth. 
 
@@ -508,7 +508,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35817" data-author="Marvel" data-date="2015-04-15T23:34:41+00:00">
+<div class="post" data-post-id="35817" data-author="Marvel" data-date="2015-04-15T23:34:41+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
 Disclaimer: I do have an immortal, although I think everybody knows this. I tend to play a lot more as a mortal in short bursts. The opinions provided within are mine only. I prefer bard primes and characters that rely on trickery rather than straightforward hack & slash. At times I do like playing as a mage prime just for frostbolt and ether runs.
 
@@ -538,7 +538,7 @@ Those are just points that came immediately to mind - there are several other ar
 
 </div>
 
-<div class="post" data-post-id="35818" data-author="Marvel" data-date="2015-04-16T01:49:09+00:00">
+<div class="post" data-post-id="35818" data-author="Marvel" data-date="2015-04-16T01:49:09+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
 To counterbalance the above post - here are the areas I believe need some work done somehow on them:
 
@@ -580,7 +580,7 @@ Ghost Mansion: Still not much of a reason to run this area. Recently rebalanced,
 
 </div>
 
-<div class="post" data-post-id="35829" data-author="Toxis" data-date="2015-04-17T19:22:15+00:00">
+<div class="post" data-post-id="35829" data-author="Toxis" data-date="2015-04-17T19:22:15+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
 I love areas like Greek Forest, Shadow Keep, Demon Web, Chasm... areas that have a good variety of exp mobs in about the same level limits.
 
@@ -596,7 +596,7 @@ Other fav areas: MH, Hades, dmount, fiends, ettins, burbalangs, underdark 2, pos
 
 </div>
 
-<div class="post" data-post-id="35830" data-author="*Neptune*" data-date="2015-04-17T19:41:28+00:00">
+<div class="post" data-post-id="35830" data-author="*Neptune*" data-date="2015-04-17T19:41:28+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
 Thanks a bunch for all the suggestions and notes. As noted by Splork, it is not my 
 
@@ -642,7 +642,7 @@ Enjoy, and thanks again.
 
 </div>
 
-<div class="post" data-post-id="35831" data-author="Hung" data-date="2015-04-17T20:36:29+00:00">
+<div class="post" data-post-id="35831" data-author="Hung" data-date="2015-04-17T20:36:29+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
 Mostly I play as prime monk and spend my time soloing xp. Prime monks' solo mobs are quite same as prime mages'. We both prefer thin nostab or ether mob carrying huge amount of xp.
 

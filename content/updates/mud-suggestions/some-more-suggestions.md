@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="2809" data-author="Alexdmage" data-date="2004-11-13T11:51:54+00:00">
+<div class="post" data-post-id="2809" data-author="Alexdmage" data-date="2004-11-13T11:51:54+00:00" data-subject="some more suggestions">
 
 It would be nice if we could somehow sense usage of magical transportation spells in the area. (gate, teleport, etc)
 
@@ -20,7 +20,7 @@ If you don't want to give monks additional bonuses for not using shields, then a
 
 </div>
 
-<div class="post" data-post-id="2810" data-author="Alberich" data-date="2004-11-13T12:09:33+00:00">
+<div class="post" data-post-id="2810" data-author="Alberich" data-date="2004-11-13T12:09:33+00:00" data-subject="Re: some more suggestions">
 
 It would be nice if we could somehow sense usage of magical transportation spells in the area. (gate, teleport, etc)[/quote:1q5kd8vs]
 
@@ -32,7 +32,7 @@ restrings!  seriously, this would make things easier, but since you can already 
 
 </div>
 
-<div class="post" data-post-id="2811" data-author="Weasel" data-date="2004-11-13T14:17:06+00:00">
+<div class="post" data-post-id="2811" data-author="Weasel" data-date="2004-11-13T14:17:06+00:00" data-subject="Re: some more suggestions">
 
 restrings!  seriously, this would make things easier, but since you can already do this with just restrings (and quite alot of people have) I do not see it happening as just a spell[/quote:10scdyz3]
 
@@ -42,13 +42,13 @@ If this 'rule' has been changed, please can some immort advise here.
 
 </div>
 
-<div class="post" data-post-id="2812" data-author="Medios" data-date="2004-11-13T14:51:05+00:00">
+<div class="post" data-post-id="2812" data-author="Medios" data-date="2004-11-13T14:51:05+00:00" data-subject="">
 
 You can have special key words on your restrings.  What you cant do is take the regular key words out.  If an item is cast iron boots, you cant make key words Medios-tank.  It could be iron-boots-medios-tank however.
 
 </div>
 
-<div class="post" data-post-id="2813" data-author="Gnu" data-date="2004-11-13T15:14:28+00:00">
+<div class="post" data-post-id="2813" data-author="Gnu" data-date="2004-11-13T15:14:28+00:00" data-subject="">
 
 There are two problems, making eq change faster and decreasing the value of spam, don't mix them... I don't think admins want to do anything with speed of changing eq... as for removing spam from the mud, I think it would be nice to extend the list of gagable messsages, that MUD provides, or even make it free, so one can gag any message (as it is done in clients).
 

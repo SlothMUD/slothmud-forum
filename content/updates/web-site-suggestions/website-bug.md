@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="12591" data-author="jezer" data-date="2006-05-19T05:41:36+00:00">
+<div class="post" data-post-id="12591" data-author="jezer" data-date="2006-05-19T05:41:36+00:00" data-subject="Website Bug">
 
 Library->Fantasy Names got me to a page about Clients!
 
@@ -18,7 +18,7 @@ When is the class skill pages coming back to the website?
 
 </div>
 
-<div class="post" data-post-id="12592" data-author="jezer" data-date="2006-05-19T05:44:17+00:00">
+<div class="post" data-post-id="12592" data-author="jezer" data-date="2006-05-19T05:44:17+00:00" data-subject="">
 
 And Hall of Flame needs updating as well...
 

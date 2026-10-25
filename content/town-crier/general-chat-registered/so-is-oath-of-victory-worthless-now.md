@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="17200" data-author="alias" data-date="2007-03-07T15:23:31+00:00">
+<div class="post" data-post-id="17200" data-author="alias" data-date="2007-03-07T15:23:31+00:00" data-subject="so is oath of Victory worthless now?">
 
 <871hp 364ma 139mv> 202,173  +9
 
@@ -86,19 +86,19 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="17209" data-author="Rynquald" data-date="2007-03-07T20:42:03+00:00">
+<div class="post" data-post-id="17209" data-author="Rynquald" data-date="2007-03-07T20:42:03+00:00" data-subject="">
 
 I haven't used oaths much, but it looks like it still gave you hp, but you just started with low enough hp that it didn't put you over max, of course i could be totally wrong about how it works :)
 
 </div>
 
-<div class="post" data-post-id="17210" data-author="12345" data-date="2007-03-07T22:12:18+00:00">
+<div class="post" data-post-id="17210" data-author="12345" data-date="2007-03-07T22:12:18+00:00" data-subject="">
 
 My understanding was that they were only temp hps. If you take a hit, they are the first ones used and so you wouldn't notice when they went away.  I'm not sure how long the duration is supposed to be though.  By what you have posted, only a couple rounds.  Van has been having complaints that they're not even lasting that long I think.
 
 </div>
 
-<div class="post" data-post-id="17212" data-author="Marchessa_red_witch" data-date="2007-03-07T23:10:49+00:00">
+<div class="post" data-post-id="17212" data-author="Marchessa_red_witch" data-date="2007-03-07T23:10:49+00:00" data-subject="Oath of Victory">
 
 hps decay in between 1 and 5 rounds. Generally 2 or 3.
 
@@ -106,13 +106,13 @@ I've pulled it out of many of my scripts as it just isn't useful for the amount 
 
 </div>
 
-<div class="post" data-post-id="17213" data-author="kjartan" data-date="2007-03-08T00:40:31+00:00">
+<div class="post" data-post-id="17213" data-author="kjartan" data-date="2007-03-08T00:40:31+00:00" data-subject="">
 
 If the hit points aren't useful because they don't last long enough, I can make them last longer.  I had figured you would usually get hit and lose them in a couple of rounds anyway, so there was no need.
 
 </div>
 
-<div class="post" data-post-id="17215" data-author="alias" data-date="2007-03-08T03:34:25+00:00">
+<div class="post" data-post-id="17215" data-author="alias" data-date="2007-03-08T03:34:25+00:00" data-subject="">
 
 My complaint is why do they have to be temp if they dont put you over the max? if u want to make them fade in 3-4 rounds fine but the risk of death for 1 round of nothing seems kindof pointless. I think they are a neat idea and yes most of the time I lose them when I get hit but sometimes in large groups by the time I rescue the stabber and swear the mob is debuffed, so its kind of disheartening to see my hitpoints drop below my max when I never got touched.
 
@@ -124,7 +124,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="17217" data-author="*juggleblood*" data-date="2007-03-08T12:37:22+00:00">
+<div class="post" data-post-id="17217" data-author="*juggleblood*" data-date="2007-03-08T12:37:22+00:00" data-subject="">
 
 So that 130hp you lost after round 3 was just from the oath? or from warcry also?
 
@@ -136,7 +136,7 @@ thanks
 
 </div>
 
-<div class="post" data-post-id="17219" data-author="Marchessa_red_witch" data-date="2007-03-08T16:32:14+00:00">
+<div class="post" data-post-id="17219" data-author="Marchessa_red_witch" data-date="2007-03-08T16:32:14+00:00" data-subject="Oath of Victory/Oath of Protection Notes">
 
 1. Juggleblood is 200% correct - we should have some way of more specifically tracking our oath track record.
 
@@ -158,7 +158,7 @@ Right now oath of victory is most use when there is less honor - on mobs that it
 
 </div>
 
-<div class="post" data-post-id="17220" data-author="*juggleblood*" data-date="2007-03-08T17:57:52+00:00">
+<div class="post" data-post-id="17220" data-author="*juggleblood*" data-date="2007-03-08T17:57:52+00:00" data-subject="">
 
 Well I haven't messed with it yet, but I'm thinking if it gives 100+ temp hit points per mob its perfect for the stab blast i run on lyme where I'm tanking and stabbing. Cuz it's always a kill or be killed scenario.
 
@@ -168,13 +168,13 @@ Also, um what is the syntax. The help file said "swear <target>. But that ain't 
 
 </div>
 
-<div class="post" data-post-id="17221" data-author="Marchessa_red_witch" data-date="2007-03-08T21:09:19+00:00">
+<div class="post" data-post-id="17221" data-author="Marchessa_red_witch" data-date="2007-03-08T21:09:19+00:00" data-subject="Swear and Stab">
 
 Any stab you can swear after is a bad stab.
 
 </div>
 
-<div class="post" data-post-id="17222" data-author="12345" data-date="2007-03-08T22:08:33+00:00">
+<div class="post" data-post-id="17222" data-author="12345" data-date="2007-03-08T22:08:33+00:00" data-subject="">
 
 Oath of victory has to be made after battle starts, and the mob has to be better than quite a few wounds.  So basically, it cannot be effectively used for stabbing unless you're stabbing something that has no chance of dieing from the stab.
 
@@ -184,7 +184,7 @@ Having a method of restoring honor would be nice though.  If one exists already,
 
 </div>
 
-<div class="post" data-post-id="17223" data-author="alias" data-date="2007-03-08T22:17:54+00:00">
+<div class="post" data-post-id="17223" data-author="alias" data-date="2007-03-08T22:17:54+00:00" data-subject="">
 
 swear victory,
 
@@ -206,7 +206,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="17224" data-author="Medios" data-date="2007-03-08T22:41:05+00:00">
+<div class="post" data-post-id="17224" data-author="Medios" data-date="2007-03-08T22:41:05+00:00" data-subject="">
 
 I dont understand why swearing an oath basically makes you the tank.  Anytime I ever tried to use it, the mob starts whoopin me down, ignoring the tank.  It made me think this skill is only for tanks on large mobs that cant possibly kill you.  The detrimental effects of using it when your not the tank, and on mobs that could kill you undermine the overall skill.
 
@@ -214,7 +214,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17225" data-author="alias" data-date="2007-03-09T02:37:06+00:00">
+<div class="post" data-post-id="17225" data-author="alias" data-date="2007-03-09T02:37:06+00:00" data-subject="">
 
 yeah if your not tanking and you swear  your gonna screw up the prot order cause the mob is gonna go after you like a red-headed step-child.
 
@@ -222,7 +222,7 @@ as it stands it basically a tank skill and not a good one at that if the hp diss
 
 </div>
 
-<div class="post" data-post-id="17227" data-author="tincts" data-date="2007-03-09T04:52:53+00:00">
+<div class="post" data-post-id="17227" data-author="tincts" data-date="2007-03-09T04:52:53+00:00" data-subject="">
 
 [quote:3n0u9hf1]cause the mob is gonna go after you like a red-headed step-child.[/quote:3n0u9hf1]
 
@@ -230,7 +230,7 @@ LOL  :)  never heard that before hehe
 
 </div>
 
-<div class="post" data-post-id="17228" data-author="Marchessa_red_witch" data-date="2007-03-09T12:41:26+00:00">
+<div class="post" data-post-id="17228" data-author="Marchessa_red_witch" data-date="2007-03-09T12:41:26+00:00" data-subject="">
 
 Oath of victory prevents any action which would take you out of combat. That means that once the mob engages you, it can't move on, you can't disengage, and someone else can't rescue you.
 
@@ -242,7 +242,7 @@ Mike[/quote:2sj3ajm0]
 
 </div>
 
-<div class="post" data-post-id="17229" data-author="*juggleblood*" data-date="2007-03-09T12:44:43+00:00">
+<div class="post" data-post-id="17229" data-author="*juggleblood*" data-date="2007-03-09T12:44:43+00:00" data-subject="">
 
 er seems rather useless then
 
@@ -250,19 +250,19 @@ Thanks for clearing that up
 
 </div>
 
-<div class="post" data-post-id="17256" data-author="kjartan" data-date="2007-03-12T05:09:35+00:00">
+<div class="post" data-post-id="17256" data-author="kjartan" data-date="2007-03-12T05:09:35+00:00" data-subject="">
 
 I made the temp hp last a bit longer.
 
 </div>
 
-<div class="post" data-post-id="17257" data-author="Marchessa_red_witch" data-date="2007-03-12T12:01:59+00:00">
+<div class="post" data-post-id="17257" data-author="Marchessa_red_witch" data-date="2007-03-12T12:01:59+00:00" data-subject="Oath, now longer lasting!">
 
 It seems to help. Has the level required for oath changed? Or am I just used to the rakashas being more buff?
 
 </div>
 
-<div class="post" data-post-id="17259" data-author="13" data-date="2007-03-12T13:01:50+00:00">
+<div class="post" data-post-id="17259" data-author="13" data-date="2007-03-12T13:01:50+00:00" data-subject="">
 
 I'm almost ready to bust out the all new class bard and out tank the warriors.
 
@@ -270,7 +270,7 @@ Have had a nice little break :)
 
 </div>
 
-<div class="post" data-post-id="23291" data-author="Mike" data-date="2008-03-19T19:00:30+00:00">
+<div class="post" data-post-id="23291" data-author="Mike" data-date="2008-03-19T19:00:30+00:00" data-subject="">
 
 <518hp 66ma 210mv +10>
 
@@ -306,7 +306,7 @@ I was wondering when oath should be broken, if healo can heal tank back from -9?
 
 </div>
 
-<div class="post" data-post-id="23294" data-author="Medios" data-date="2008-03-19T22:17:18+00:00">
+<div class="post" data-post-id="23294" data-author="Medios" data-date="2008-03-19T22:17:18+00:00" data-subject="">
 
 Mike better just put this one on the shelf with demonic aura... where it belongs.
 

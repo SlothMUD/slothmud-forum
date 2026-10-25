@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="32899" data-author="Strago" data-date="2011-09-12T16:13:42+00:00">
+<div class="post" data-post-id="32899" data-author="Strago" data-date="2011-09-12T16:13:42+00:00" data-subject="Burbalangs">
 
 Got pretty lucky when running through the Burbalangs.
 
@@ -132,7 +132,7 @@ resist cold
 
 </div>
 
-<div class="post" data-post-id="32900" data-author="Toxis" data-date="2011-09-12T17:28:41+00:00">
+<div class="post" data-post-id="32900" data-author="Toxis" data-date="2011-09-12T17:28:41+00:00" data-subject="Re: Burbalangs">
 
 turtle statue is supposed to have 5 mana and 5 hp and weight fixed, and shirt should only have 5ma on it...  This will be fixed if eq is rented and comes back into the game.
 
@@ -142,7 +142,7 @@ Thanks,
 
 </div>
 
-<div class="post" data-post-id="32901" data-author="Strago" data-date="2011-09-13T11:36:13+00:00">
+<div class="post" data-post-id="32901" data-author="Strago" data-date="2011-09-13T11:36:13+00:00" data-subject="Re: Burbalangs">
 
 You feel informed:
 
@@ -160,13 +160,13 @@ Can affect you as:
 
 </div>
 
-<div class="post" data-post-id="32902" data-author="*juggleblood*" data-date="2011-09-13T12:35:22+00:00">
+<div class="post" data-post-id="32902" data-author="*juggleblood*" data-date="2011-09-13T12:35:22+00:00" data-subject="Re: Burbalangs">
 
 That's some pretty cool newbie gear.
 
 </div>
 
-<div class="post" data-post-id="32903" data-author="celerra7" data-date="2011-09-13T12:57:55+00:00">
+<div class="post" data-post-id="32903" data-author="celerra7" data-date="2011-09-13T12:57:55+00:00" data-subject="Re: Burbalangs">
 
 You feel informed:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="7976" data-author="seshi" data-date="2005-07-24T12:24:22+00:00">
+<div class="post" data-post-id="7976" data-author="seshi" data-date="2005-07-24T12:24:22+00:00" data-subject="targetting for Mushclient">
 
 Targeting for Mushclient
 

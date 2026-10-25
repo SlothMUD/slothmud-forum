@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34002" data-author="blackmore" data-date="2013-02-07T14:39:39+00:00">
+<div class="post" data-post-id="34002" data-author="blackmore" data-date="2013-02-07T14:39:39+00:00" data-subject="Gandalf is greedy">
 
 Stolen from George Takei's FB account...
 

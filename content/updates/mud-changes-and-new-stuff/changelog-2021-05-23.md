@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39722" data-author="Driven" data-date="2021-05-23T18:20:30+00:00">
+<div class="post" data-post-id="39722" data-author="Driven" data-date="2021-05-23T18:20:30+00:00" data-subject="Changelog 2021-05-23">
 
 Several changes went in today...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32388" data-author="*Isabo*" data-date="2011-01-28T01:21:50+00:00">
+<div class="post" data-post-id="32388" data-author="*Isabo*" data-date="2011-01-28T01:21:50+00:00" data-subject="Change in memorize">
 
 Greeting mortals.
 

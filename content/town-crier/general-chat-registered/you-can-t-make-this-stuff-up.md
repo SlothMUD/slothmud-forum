@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="18557" data-author="Hades" data-date="2007-05-20T18:58:15+00:00">
+<div class="post" data-post-id="18557" data-author="Hades" data-date="2007-05-20T18:58:15+00:00" data-subject="You can&#x27;t make this stuff up">
 
 PATNA, India (Reuters) - Turned down for marriage due to his dark complexion, an Indian man staged a hunger strike outside his would be bride's house for two days before she finally relented, an official said Saturday.
 
@@ -28,7 +28,7 @@ Most Indian women, especially those in rural areas, often have no choice in matt
 
 </div>
 
-<div class="post" data-post-id="18566" data-author="Hades" data-date="2007-05-21T05:16:55+00:00">
+<div class="post" data-post-id="18566" data-author="Hades" data-date="2007-05-21T05:16:55+00:00" data-subject="You can&#x27;t make this stuff up - 2">
 
 [http://www.youtube.com/watch?v=d98KJNnOoak](http://www.youtube.com/watch?v=d98KJNnOoak)
 
@@ -36,7 +36,7 @@ Most Indian women, especially those in rural areas, often have no choice in matt
 
 </div>
 
-<div class="post" data-post-id="18593" data-author="13" data-date="2007-05-22T19:16:03+00:00">
+<div class="post" data-post-id="18593" data-author="13" data-date="2007-05-22T19:16:03+00:00" data-subject="Asswipe">
 
 How to wipe your ass
 
@@ -98,13 +98,13 @@ Note this survey only applied to men, as women ALWAYS wipe while sitting down
 
 </div>
 
-<div class="post" data-post-id="18594" data-author="13" data-date="2007-05-22T19:20:30+00:00">
+<div class="post" data-post-id="18594" data-author="13" data-date="2007-05-22T19:20:30+00:00" data-subject="">
 
 [img:71e2wbbf]http://www.tonyrogers.com/humor/images/tommy_toilet_900px.jpg[/img:71e2wbbf]
 
 </div>
 
-<div class="post" data-post-id="18600" data-author="12345" data-date="2007-05-22T21:39:29+00:00">
+<div class="post" data-post-id="18600" data-author="12345" data-date="2007-05-22T21:39:29+00:00" data-subject="">
 
 Mmmm... toilet humor.
 
@@ -132,25 +132,25 @@ And to think that it all started as a joke.[/quote:2w6q7eym]
 
 </div>
 
-<div class="post" data-post-id="18601" data-author="13" data-date="2007-05-22T22:15:22+00:00">
+<div class="post" data-post-id="18601" data-author="13" data-date="2007-05-22T22:15:22+00:00" data-subject="">
 
 no shitty thread can go without mention of sheryl crow right?
 
 </div>
 
-<div class="post" data-post-id="18602" data-author="Weasel" data-date="2007-05-23T05:56:31+00:00">
+<div class="post" data-post-id="18602" data-author="Weasel" data-date="2007-05-23T05:56:31+00:00" data-subject="">
 
 yeah.. wasn't there something about wiping your ass on your sleeves.. or was it your ugly throwback bell-bottom jeans.. pfft.. just use a gerbil.
 
 </div>
 
-<div class="post" data-post-id="18603" data-author="Hades" data-date="2007-05-23T09:14:20+00:00">
+<div class="post" data-post-id="18603" data-author="Hades" data-date="2007-05-23T09:14:20+00:00" data-subject="13">
 
 [img:18vbny70]http://www.picsserver.net/pictures/1363/thumbs/tn4-6.jpg[/img:18vbny70]
 
 </div>
 
-<div class="post" data-post-id="18652" data-author="Hades" data-date="2007-05-26T00:32:50+00:00">
+<div class="post" data-post-id="18652" data-author="Hades" data-date="2007-05-26T00:32:50+00:00" data-subject="Exclusive Clip from the new Harry Potter movie!!!">
 
 You saw it here first!!!
 
@@ -160,7 +160,7 @@ You saw it here first!!!
 
 </div>
 
-<div class="post" data-post-id="18766" data-author="Weasel" data-date="2007-06-02T06:01:06+00:00">
+<div class="post" data-post-id="18766" data-author="Weasel" data-date="2007-06-02T06:01:06+00:00" data-subject="">
 
 LOL classic - a guy back in New Zealand just posted this on a forum I visit:
 
@@ -172,7 +172,7 @@ So I looked him straight in the eye and said "Ahh, OK, so which one are you then
 
 </div>
 
-<div class="post" data-post-id="18768" data-author="Hades" data-date="2007-06-02T10:27:09+00:00">
+<div class="post" data-post-id="18768" data-author="Hades" data-date="2007-06-02T10:27:09+00:00" data-subject="Got Kids?">
 
 Man falls off balcony in spitting contest
 

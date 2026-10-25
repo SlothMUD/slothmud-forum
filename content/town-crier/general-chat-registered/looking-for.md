@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="24024" data-author="Yinao" data-date="2008-04-25T00:36:55+00:00">
+<div class="post" data-post-id="24024" data-author="Yinao" data-date="2008-04-25T00:36:55+00:00" data-subject="Looking for...">
 
 I'm looking for Ruyi or cps, along with woven strands of gold from semester, and Dgown from cg :)...
 

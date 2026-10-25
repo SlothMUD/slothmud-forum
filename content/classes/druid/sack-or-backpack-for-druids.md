@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="6029" data-author="SirRobin" data-date="2005-05-07T04:59:27+00:00">
+<div class="post" data-post-id="6029" data-author="SirRobin" data-date="2005-05-07T04:59:27+00:00" data-subject="Sack or Backpack for Druids?">
 
 Just started a new character with Druid prime again, the idea of shapeshifting really appeals to me. A couple of questions related to this:
 
@@ -22,7 +22,7 @@ Just started a new character with Druid prime again, the idea of shapeshifting r
 
 </div>
 
-<div class="post" data-post-id="6035" data-author="Avatar" data-date="2005-05-07T11:57:01+00:00">
+<div class="post" data-post-id="6035" data-author="Avatar" data-date="2005-05-07T11:57:01+00:00" data-subject="">
 
 Druid primes start with a green cape, which is a sort of backpack.  You can put your stuff in there and wear it, then you won't have stuff in your inventory and it should be easier to pick stuff up.  It does get easier as you level, because your carrying capacity will increase and the strength of the shift forms increases.
 
@@ -34,7 +34,7 @@ charles
 
 </div>
 
-<div class="post" data-post-id="6038" data-author="SirRobin" data-date="2005-05-07T23:33:12+00:00">
+<div class="post" data-post-id="6038" data-author="SirRobin" data-date="2005-05-07T23:33:12+00:00" data-subject="">
 
 The cape has pockets? THE CAPE HAS POCKETS!!!
 
@@ -46,7 +46,7 @@ So I’m assuming that most Druids don’t worry about their AR in human form, a
 
 </div>
 
-<div class="post" data-post-id="6042" data-author="Avatar" data-date="2005-05-08T00:26:56+00:00">
+<div class="post" data-post-id="6042" data-author="Avatar" data-date="2005-05-08T00:26:56+00:00" data-subject="Druids again">
 
 It seems pretty common that druids looking for eq will focus on mana or mana regen eq, to either increase the time they can stay shifted or to reduce the time they need to regen between fights.  Then of course any shiftable eq that we can wear while shifting is nice too.
 

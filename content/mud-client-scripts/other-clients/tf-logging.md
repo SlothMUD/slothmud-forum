@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33839" data-author="raincrab" data-date="2012-12-11T23:53:23+00:00">
+<div class="post" data-post-id="33839" data-author="raincrab" data-date="2012-12-11T23:53:23+00:00" data-subject="tf logging">
 
 autologging with log rotation with date in filename
 

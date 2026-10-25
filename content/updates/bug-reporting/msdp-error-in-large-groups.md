@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36131" data-author="Dandelo" data-date="2015-11-01T02:57:25+00:00">
+<div class="post" data-post-id="36131" data-author="Dandelo" data-date="2015-11-01T02:57:25+00:00" data-subject="MSDP error in large groups">
 
 Not that it happens a lot, but it should be noted and maybe fixed. During the ridiculously large group this morning for the quest (thanks Idjit), I noticed that the GROUP variable in MSDP could only handle 27 or 28 members then it locked up and didn't update. I dropped link and reconnected to see if it was an error on my end, but the GROUP variable was empty. After the quest was over, the group shrunk down to 26 or 27 again and the GROUP variable starting updating again.
 
@@ -34,7 +34,7 @@ Stilgar
 
 </div>
 
-<div class="post" data-post-id="36132" data-author="Filk" data-date="2015-11-01T04:53:11+00:00">
+<div class="post" data-post-id="36132" data-author="Filk" data-date="2015-11-01T04:53:11+00:00" data-subject="Re: MSDP error in large groups">
 
 Noticed and bugged the same thing. Seems its not my client related only.
 

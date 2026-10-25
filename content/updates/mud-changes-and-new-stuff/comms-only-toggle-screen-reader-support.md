@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33331" data-author="*Splork*" data-date="2012-06-06T23:33:51+00:00">
+<div class="post" data-post-id="33331" data-author="*Splork*" data-date="2012-06-06T23:33:51+00:00" data-subject="comms_only toggle ( screen reader support )">
 
 At the request of one of our players, whom uses a screen reader, the following settings option has been added, comms_only. 
 

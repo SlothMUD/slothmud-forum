@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="36116" data-author="*teker*" data-date="2015-10-21T16:00:07+00:00">
+<div class="post" data-post-id="36116" data-author="*teker*" data-date="2015-10-21T16:00:07+00:00" data-subject="Changelog 2015-10-21">
 
 Been a while since we posted one so I'll try to remember what we've been working on lately:
 
@@ -24,7 +24,7 @@ We're also working to organize the vaults on the island - they're currently scat
 
 </div>
 
-<div class="post" data-post-id="36117" data-author="Ker" data-date="2015-10-22T17:59:47+00:00">
+<div class="post" data-post-id="36117" data-author="Ker" data-date="2015-10-22T17:59:47+00:00" data-subject="Re: Changelog 2015-10-21">
 
 Awesome idea!
 
@@ -34,7 +34,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="36118" data-author="Teron" data-date="2015-10-22T22:31:29+00:00">
+<div class="post" data-post-id="36118" data-author="Teron" data-date="2015-10-22T22:31:29+00:00" data-subject="Re: Changelog 2015-10-21">
 
 I liked the features we had in S3: a fountain, regen, and maybe extra rooms for walking in a castle.
 
@@ -50,7 +50,7 @@ P.S. Thanks for fixing the caching issue. I never thought it's that hard to do, 
 
 </div>
 
-<div class="post" data-post-id="36136" data-author="*teker*" data-date="2015-11-04T00:01:34+00:00">
+<div class="post" data-post-id="36136" data-author="*teker*" data-date="2015-11-04T00:01:34+00:00" data-subject="Re: Changelog 2015-10-21">
 
 Other than the fountains, how did the Sloth3 castles differ from what is available now?  From the help file they appear to be 6 room prefabricated vaults.  As is, you'd have to buy/build them now but it seems like the same features are there.
 
@@ -58,7 +58,7 @@ Mana regen will definitely be available as a purchasable item up to 5 points.
 
 </div>
 
-<div class="post" data-post-id="36190" data-author="Ertai" data-date="2015-11-18T15:23:58+00:00">
+<div class="post" data-post-id="36190" data-author="Ertai" data-date="2015-11-18T15:23:58+00:00" data-subject="Re: Changelog 2015-10-21">
 
 > ***teker* wrote:**
 > Mana regen will definitely be available as a purchasable item up to 5 points.
@@ -87,13 +87,13 @@ I think it's enough...
 
 </div>
 
-<div class="post" data-post-id="36191" data-author="*juggleblood*" data-date="2015-11-18T23:16:42+00:00">
+<div class="post" data-post-id="36191" data-author="*juggleblood*" data-date="2015-11-18T23:16:42+00:00" data-subject="Re: Changelog 2015-10-21">
 
 I don't remember why either. Perhaps it was that the proc was changed and I just wasn't sure how it was supposed to be done anymore. Regarding renaming your key, I have no idea why I would have objected to that either other than not wanting to accidentally disregard an existing procedure.
 
 </div>
 
-<div class="post" data-post-id="36193" data-author="Ertai" data-date="2015-11-19T14:32:28+00:00">
+<div class="post" data-post-id="36193" data-author="Ertai" data-date="2015-11-19T14:32:28+00:00" data-subject="Re: Changelog 2015-10-21">
 
 > ***juggleblood* wrote:**
 > I don't remember why either. Perhaps it was that the proc was changed and I just wasn't sure how it was supposed to be done anymore. Regarding renaming your key, I have no idea why I would have objected to that either other than not wanting to accidentally disregard an existing procedure.
@@ -106,7 +106,7 @@ Plus 'a cast iron vault key owned owned by Ertai' sounds at least... hmm... stra
 
 </div>
 
-<div class="post" data-post-id="36198" data-author="*Splork*" data-date="2015-11-20T18:46:43+00:00">
+<div class="post" data-post-id="36198" data-author="*Splork*" data-date="2015-11-20T18:46:43+00:00" data-subject="Re: Changelog 2015-10-21">
 
 There really is no reason to add in special "packages" like we had in S3 in regards to castles, palaces, etc. A player can easily build those themselves now. The only reason we had those before was because a player placed an "order" of what they wanted and an Immortal built it. 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="7678" data-author="daedalus" data-date="2005-06-29T19:13:26+00:00">
+<div class="post" data-post-id="7678" data-author="daedalus" data-date="2005-06-29T19:13:26+00:00" data-subject="Absolutely Ridiculous">
 
 <269hp 272ma 152mv>
 
@@ -82,7 +82,7 @@ This is to a point where you might want to look at it.
 
 </div>
 
-<div class="post" data-post-id="7679" data-author="Gnu" data-date="2005-06-29T19:55:42+00:00">
+<div class="post" data-post-id="7679" data-author="Gnu" data-date="2005-06-29T19:55:42+00:00" data-subject="">
 
 help detect disease,
 
@@ -90,13 +90,13 @@ help detect disease,
 
 </div>
 
-<div class="post" data-post-id="7681" data-author="daedalus" data-date="2005-06-30T00:01:11+00:00">
+<div class="post" data-post-id="7681" data-author="daedalus" data-date="2005-06-30T00:01:11+00:00" data-subject="">
 
 So there is a disease that makes you lose con?  I looked through the list and it dont appear so.
 
 </div>
 
-<div class="post" data-post-id="7683" data-author="Ditheca" data-date="2005-06-30T00:52:21+00:00">
+<div class="post" data-post-id="7683" data-author="Ditheca" data-date="2005-06-30T00:52:21+00:00" data-subject="">
 
 you are affected by an unknown strain of deafness...
 
@@ -104,19 +104,19 @@ my record is 9 lost conc in a row
 
 </div>
 
-<div class="post" data-post-id="7694" data-author="Gnu" data-date="2005-06-30T07:58:37+00:00">
+<div class="post" data-post-id="7694" data-author="Gnu" data-date="2005-06-30T07:58:37+00:00" data-subject="">
 
 I do not remember for sure hm... it might be Slurrr. I defenitely know that one of SIDHE may curse you with such a disease.
 
 </div>
 
-<div class="post" data-post-id="7695" data-author="Pine" data-date="2005-06-30T09:15:20+00:00">
+<div class="post" data-post-id="7695" data-author="Pine" data-date="2005-06-30T09:15:20+00:00" data-subject="">
 
 Just a suggestion, would it be possible to have your basic spells such as heals NOT fail outside of combat.  I don't see that failed spells while you are regening add any realism or enjoyment to the game.  Well, they don't add any enjoyment during combat either, but I suppose realism wins out there. :)
 
 </div>
 
-<div class="post" data-post-id="7696" data-author="Leaf" data-date="2005-06-30T09:57:09+00:00">
+<div class="post" data-post-id="7696" data-author="Leaf" data-date="2005-06-30T09:57:09+00:00" data-subject="">
 
 I just want to know is why Daedalus use "zz" as cast restore self....
 
@@ -126,7 +126,7 @@ To heal tank I triggered "crt" = cast restore tank :)
 
 </div>
 
-<div class="post" data-post-id="7697" data-author="12345" data-date="2005-06-30T10:44:02+00:00">
+<div class="post" data-post-id="7697" data-author="12345" data-date="2005-06-30T10:44:02+00:00" data-subject="">
 
 Just a suggestion, would it be possible to have your basic spells such as heals NOT fail outside of combat.  I don't see that failed spells while you are regening add any realism or enjoyment to the game.  Well, they don't add any enjoyment during combat either, but I suppose realism wins out there. :)[/quote:3sxs4206]
 

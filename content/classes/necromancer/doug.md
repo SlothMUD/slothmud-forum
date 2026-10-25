@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="1142" data-author="doug" data-date="2004-07-21T14:14:36+00:00">
+<div class="post" data-post-id="1142" data-author="doug" data-date="2004-07-21T14:14:36+00:00" data-subject="doug">
 
 Necro is an interesting classo to play but it has some serious deficiencies in my opinion. Among them are:
 
@@ -28,7 +28,7 @@ Anyhow, opinions?
 
 </div>
 
-<div class="post" data-post-id="1145" data-author="Ender" data-date="2004-07-21T15:36:23+00:00">
+<div class="post" data-post-id="1145" data-author="Ender" data-date="2004-07-21T15:36:23+00:00" data-subject="Um...">
 
 I haven't played a necro, so correct me if I'm wrong on any of this.
 
@@ -42,7 +42,7 @@ I'm intrested to hear what the other necros suggest though.
 
 </div>
 
-<div class="post" data-post-id="1151" data-author="doug" data-date="2004-07-22T14:17:44+00:00">
+<div class="post" data-post-id="1151" data-author="doug" data-date="2004-07-22T14:17:44+00:00" data-subject="redux">
 
 I understand they aren't meant to be mage equivalents and need to be played accordingly, but necros get pretty decent blasting in game now, you just have to wait will the mid 20s to get any of it. There is tenebrous claw and then word of pain at 25, there should be something in the middle so that it steps up like all the other caster classes. 
 
@@ -50,7 +50,7 @@ Of course I couldn't really use it anyhow since I need to save all of my mana to
 
 </div>
 
-<div class="post" data-post-id="1152" data-author="Ender" data-date="2004-07-22T18:10:14+00:00">
+<div class="post" data-post-id="1152" data-author="Ender" data-date="2004-07-22T18:10:14+00:00" data-subject="Re: redux">
 
 Of course I couldn't really use it anyhow since I need to save all of my mana to continaully recast bone armor if I'm fighting anything tougher than a grymlyn.[/quote:41m8nu98]
 
@@ -60,13 +60,13 @@ Don't know if that would help your problem at all, but it seems like it would be
 
 </div>
 
-<div class="post" data-post-id="1153" data-author="Ender" data-date="2004-07-22T18:32:26+00:00">
+<div class="post" data-post-id="1153" data-author="Ender" data-date="2004-07-22T18:32:26+00:00" data-subject="Avatar or Splork?">
 
 Running through the other posts in this category, I see that Avatar and Splork have necros...  Both are beyond accomplished players, I'm curious of their opinions on this, and more to the point, how they adjusted for this, since I'm relatively sure it didn't slow them down much...
 
 </div>
 
-<div class="post" data-post-id="1154" data-author="*Splork*" data-date="2004-07-22T20:20:46+00:00">
+<div class="post" data-post-id="1154" data-author="*Splork*" data-date="2004-07-22T20:20:46+00:00" data-subject="Necros">
 
 I do have a player which has necro in the classo, but playing a Necro prime and a character which simply contains necromancers is completely different.
 
@@ -82,7 +82,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="1159" data-author="Avatar" data-date="2004-07-23T12:16:34+00:00">
+<div class="post" data-post-id="1159" data-author="Avatar" data-date="2004-07-23T12:16:34+00:00" data-subject="Avatar">
 
 Like Splork, my Rizzen character isn't a necro prime.  Also I haven't tried to solo with him much because his stats aren't good.  As a group character, he pretty well rocks...by the time I solo though I doubt I'll run into any of the problems other classorders might, because I also have cleric and mage.  The real versions of Strength, Stone Skin, Firewind, etc.
 
@@ -90,7 +90,7 @@ I think the JuJu would be critical for a necro solo.  Necro/Warrior or Necro/Mon
 
 </div>
 
-<div class="post" data-post-id="1161" data-author="Ender" data-date="2004-07-23T12:58:09+00:00">
+<div class="post" data-post-id="1161" data-author="Ender" data-date="2004-07-23T12:58:09+00:00" data-subject="Red Mage?">
 
 I don't know how many people will understand the reference, but the necro sounds a bit like the Red Mage in Final Fantasy.  Able to do a little of everything, little of it well.  I've seen references to healing, blasting, tanking, summoning, near-sancing, etc.
 
@@ -100,7 +100,7 @@ I think my advice to Doug is to act like any other weak class.  Hide behind a gr
 
 </div>
 
-<div class="post" data-post-id="1166" data-author="brand" data-date="2004-07-23T15:27:27+00:00">
+<div class="post" data-post-id="1166" data-author="brand" data-date="2004-07-23T15:27:27+00:00" data-subject="">
 
 red mage it is...
 
@@ -120,7 +120,7 @@ low level necros should bring there weaken spellbook and join the supergroups ru
 
 </div>
 
-<div class="post" data-post-id="1175" data-author="Ender" data-date="2004-07-23T16:40:58+00:00">
+<div class="post" data-post-id="1175" data-author="Ender" data-date="2004-07-23T16:40:58+00:00" data-subject="Silly thought...">
 
 This is a silly thought, but I thought I'd throw it up here, simply because it seems to fit the class.
 

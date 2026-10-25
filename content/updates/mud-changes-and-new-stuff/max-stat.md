@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29259" data-author="*Splork*" data-date="2009-05-22T12:37:45+00:00">
+<div class="post" data-post-id="29259" data-author="*Splork*" data-date="2009-05-22T12:37:45+00:00" data-subject="max stat">
 
 Ive been getting a lot of questions on max stats. Here is a small chart that shows when each of your stats can be taken higher. Remember, you need to use max_stat eq to do this.
 
@@ -34,7 +34,7 @@ level          Class Stat ordering
 
 </div>
 
-<div class="post" data-post-id="30479" data-author="*Splork*" data-date="2009-12-12T00:00:33+00:00">
+<div class="post" data-post-id="30479" data-author="*Splork*" data-date="2009-12-12T00:00:33+00:00" data-subject="Max stat bonuses( Part II)">
 
 Here is a small chart that shows when each of your stats can be taken higher.
 

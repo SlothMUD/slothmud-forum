@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39357" data-author="Gorka" data-date="2020-01-20T10:51:22+00:00">
+<div class="post" data-post-id="39357" data-author="Gorka" data-date="2020-01-20T10:51:22+00:00" data-subject="How to die less...">
 
 Generally solo deaths in sloth are stupid, the majority of which are caused by poor calculations, unexpected circumstances and the inability to react to them in time. (Unless you get "one shotted" in which case you are forgiven)
 

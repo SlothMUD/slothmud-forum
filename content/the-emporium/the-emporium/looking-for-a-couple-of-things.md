@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="2814" data-author="Xandora" data-date="2004-11-14T02:21:04+00:00">
+<div class="post" data-post-id="2814" data-author="Xandora" data-date="2004-11-14T02:21:04+00:00" data-subject="looking for a couple of things">
 
 It's a long shot, but I am looking for these:
 
@@ -28,7 +28,7 @@ will pay well for any of these, see me online, or post a reply here.
 
 </div>
 
-<div class="post" data-post-id="2836" data-author="madmax" data-date="2004-11-15T12:20:25+00:00">
+<div class="post" data-post-id="2836" data-author="madmax" data-date="2004-11-15T12:20:25+00:00" data-subject="">
 
 I would like to find a couple of them too.  BTW, why were thry taken out of the game?
 

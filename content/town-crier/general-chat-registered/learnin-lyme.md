@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="16916" data-author="*juggleblood*" data-date="2007-02-15T19:52:52+00:00">
+<div class="post" data-post-id="16916" data-author="*juggleblood*" data-date="2007-02-15T19:52:52+00:00" data-subject="Learnin Lyme">
 
 Thanks to all you who've been following me around getting splattered while I learn my way around lyme. Thanks for being patient during cf's etc..
 
@@ -60,31 +60,31 @@ hope this helps
 
 </div>
 
-<div class="post" data-post-id="16918" data-author="Guinex" data-date="2007-02-15T20:20:24+00:00">
+<div class="post" data-post-id="16918" data-author="Guinex" data-date="2007-02-15T20:20:24+00:00" data-subject="">
 
 Last I checked Invis does nothing in DOT.
 
 </div>
 
-<div class="post" data-post-id="16919" data-author="Guinex" data-date="2007-02-15T20:27:48+00:00">
+<div class="post" data-post-id="16919" data-author="Guinex" data-date="2007-02-15T20:27:48+00:00" data-subject="">
 
 Also ET mobs do not see in the dark.
 
 </div>
 
-<div class="post" data-post-id="16932" data-author="*juggleblood*" data-date="2007-02-16T00:19:22+00:00">
+<div class="post" data-post-id="16932" data-author="*juggleblood*" data-date="2007-02-16T00:19:22+00:00" data-subject="">
 
 Yeah they don't see in the dark, but gargs still growl at you and attack if you try to go by em (cept the first one at main entrance). And if you try to flee past one, you'll find yourself at the other cuz there's 2 in each stairwell.
 
 </div>
 
-<div class="post" data-post-id="16945" data-author="Guinex" data-date="2007-02-16T05:53:00+00:00">
+<div class="post" data-post-id="16945" data-author="Guinex" data-date="2007-02-16T05:53:00+00:00" data-subject="">
 
 You can get past all those gargoyles with out even being scratched.  Keep trying :)
 
 </div>
 
-<div class="post" data-post-id="16949" data-author="Medios" data-date="2007-02-16T14:09:02+00:00">
+<div class="post" data-post-id="16949" data-author="Medios" data-date="2007-02-16T14:09:02+00:00" data-subject="">
 
 Minstrel can get past them without darkness or shifting.
 
@@ -94,7 +94,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16950" data-author="*juggleblood*" data-date="2007-02-16T14:28:21+00:00">
+<div class="post" data-post-id="16950" data-author="*juggleblood*" data-date="2007-02-16T14:28:21+00:00" data-subject="">
 
 er how can I? urban stealth don't work
 
@@ -104,31 +104,31 @@ thanks
 
 </div>
 
-<div class="post" data-post-id="16951" data-author="Krok" data-date="2007-02-16T14:34:04+00:00">
+<div class="post" data-post-id="16951" data-author="Krok" data-date="2007-02-16T14:34:04+00:00" data-subject="">
 
 Everyone can do it, even with old classo, think a little creative.
 
 </div>
 
-<div class="post" data-post-id="16952" data-author="13" data-date="2007-02-16T16:21:35+00:00">
+<div class="post" data-post-id="16952" data-author="13" data-date="2007-02-16T16:21:35+00:00" data-subject="">
 
 just hunt past etc
 
 </div>
 
-<div class="post" data-post-id="16953" data-author="Aleksey" data-date="2007-02-16T17:05:24+00:00">
+<div class="post" data-post-id="16953" data-author="Aleksey" data-date="2007-02-16T17:05:24+00:00" data-subject="">
 
 phase tham all:D
 
 </div>
 
-<div class="post" data-post-id="16956" data-author="Guinex" data-date="2007-02-16T19:47:44+00:00">
+<div class="post" data-post-id="16956" data-author="Guinex" data-date="2007-02-16T19:47:44+00:00" data-subject="">
 
 Mike stole my *smoke*  :cry:
 
 </div>
 
-<div class="post" data-post-id="16957" data-author="Autolycos" data-date="2007-02-16T20:25:39+00:00">
+<div class="post" data-post-id="16957" data-author="Autolycos" data-date="2007-02-16T20:25:39+00:00" data-subject="">
 
 Mike stole my *smoke*  :cry:[/quote:1qsdy9fm]
 
@@ -136,7 +136,7 @@ thuckin fiefs  Â© weasel
 
 </div>
 
-<div class="post" data-post-id="16960" data-author="Medios" data-date="2007-02-16T21:56:33+00:00">
+<div class="post" data-post-id="16960" data-author="Medios" data-date="2007-02-16T21:56:33+00:00" data-subject="">
 
 Nah G I just wanted a hit.
 
@@ -144,13 +144,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="16964" data-author="12345" data-date="2007-02-17T01:45:54+00:00">
+<div class="post" data-post-id="16964" data-author="12345" data-date="2007-02-17T01:45:54+00:00" data-subject="">
 
 With thief in classo it should be even easier... unless shadowwalk doesn't work in ET.
 
 </div>
 
-<div class="post" data-post-id="16974" data-author="firebrand" data-date="2007-02-17T15:45:02+00:00">
+<div class="post" data-post-id="16974" data-author="firebrand" data-date="2007-02-17T15:45:02+00:00" data-subject="">
 
 pass it this way, mike.  i'll throw down some
 
@@ -158,7 +158,7 @@ pass it this way, mike.  i'll throw down some
 
 </div>
 
-<div class="post" data-post-id="16985" data-author="Vixn" data-date="2007-02-18T11:52:38+00:00">
+<div class="post" data-post-id="16985" data-author="Vixn" data-date="2007-02-18T11:52:38+00:00" data-subject="Re: Learnin Lyme">
 
 Necropolis/Palace
 
@@ -172,13 +172,13 @@ you have to kill naga cause it blocks exit to the north. naga is not aggro.
 
 </div>
 
-<div class="post" data-post-id="17030" data-author="osric" data-date="2007-02-20T19:49:20+00:00">
+<div class="post" data-post-id="17030" data-author="osric" data-date="2007-02-20T19:49:20+00:00" data-subject="">
 
 Last I checked those damn Gargs are still killable (even if they do have -80ac)  :)
 
 </div>
 
-<div class="post" data-post-id="17060" data-author="*juggleblood*" data-date="2007-02-22T09:05:05+00:00">
+<div class="post" data-post-id="17060" data-author="*juggleblood*" data-date="2007-02-22T09:05:05+00:00" data-subject="">
 
 Starting to get the hang of desert now. Got a few questions for yall:
 
@@ -214,7 +214,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="17061" data-author="Medios" data-date="2007-02-22T13:11:14+00:00">
+<div class="post" data-post-id="17061" data-author="Medios" data-date="2007-02-22T13:11:14+00:00" data-subject="">
 
 Since Toxis has spectral shield its good for form on almost all the mobs.  The sandworm, ogre, guardian daemon, sphinx, stone giants, and priests most ignore form, but will occasionally still pass thru.  Even if he only avoids 2 hits it is still better than players healing, when they can be blasting.  Wraithform is highly effective on marid and sultan. 
 

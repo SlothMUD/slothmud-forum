@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="28654" data-author="Vixn" data-date="2009-04-02T17:27:15+00:00">
+<div class="post" data-post-id="28654" data-author="Vixn" data-date="2009-04-02T17:27:15+00:00" data-subject="2 Virus">
 
 Hello, i'm playing Edd / Nojd. 
 
@@ -22,13 +22,13 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="28659" data-author="Virus" data-date="2009-04-03T07:32:28+00:00">
+<div class="post" data-post-id="28659" data-author="Virus" data-date="2009-04-03T07:32:28+00:00" data-subject="">
 
 I'll be on and off during the weekend I'll try to catch you or catch me in Virus or Suriv
 
 </div>
 
-<div class="post" data-post-id="28660" data-author="jezer" data-date="2009-04-03T09:05:16+00:00">
+<div class="post" data-post-id="28660" data-author="jezer" data-date="2009-04-03T09:05:16+00:00" data-subject="">
 
 This week's hot tip : Suriv is Virus spelt backwards. :shock:
 
@@ -36,7 +36,7 @@ Next week... How to splork kobolds with a holy dagger.
 
 </div>
 
-<div class="post" data-post-id="28662" data-author="Virus" data-date="2009-04-03T13:33:01+00:00">
+<div class="post" data-post-id="28662" data-author="Virus" data-date="2009-04-03T13:33:01+00:00" data-subject="">
 
 damn, you are smart Jezer, how did you figure it out?  :lol:
 

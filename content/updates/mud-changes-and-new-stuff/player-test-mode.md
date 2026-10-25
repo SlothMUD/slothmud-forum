@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32974" data-author="*Splork*" data-date="2011-11-05T23:58:52+00:00">
+<div class="post" data-post-id="32974" data-author="*Splork*" data-date="2011-11-05T23:58:52+00:00" data-subject="Player Test Mode!!!">
 
 While our player base is extremely solid, the majority of you are older players and we canâ€™t seem to get the dozens of players who try us every day to stay for longer than a few seconds. If we could keep one of these guys a week, our player base would grow at a very nice rate.  I am able to tell who logs in from where, and we probably get ten or so a day from TMC. These are experienced mudders whom are checking out different games, for one reason or another.  Most likely because we are always high on the TMC rankings list.
 
@@ -36,7 +36,7 @@ This change goes in-game with tomorrow morning's reboot!
 
 </div>
 
-<div class="post" data-post-id="33031" data-author="*Splork*" data-date="2011-12-01T06:22:29+00:00">
+<div class="post" data-post-id="33031" data-author="*Splork*" data-date="2011-12-01T06:22:29+00:00" data-subject="Re: Player Test Mode!!!">
 
 Im posting one last reminder regarding ptesting. This is mostly a feature for players wanting to test the spells and skills of another classo/prime class or new players to sloth. This is not a feature to help one of your other characters or friends characters cycle mobs/honor/exp/gold or whatever.
 

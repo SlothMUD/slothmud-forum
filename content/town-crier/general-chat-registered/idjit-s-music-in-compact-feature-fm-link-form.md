@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40064" data-author="*Idjit*" data-date="2023-08-25T22:20:39+00:00">
+<div class="post" data-post-id="40064" data-author="*Idjit*" data-date="2023-08-25T22:20:39+00:00" data-subject="Idjit&#x27;s music, in compact feature.fm link form">
 
 I will update this here and there, now and then.
 

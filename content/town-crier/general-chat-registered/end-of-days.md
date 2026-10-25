@@ -10,7 +10,7 @@ locked: false
 post_count: 66
 ---
 
-<div class="post" data-post-id="17630" data-author="Popa" data-date="2007-03-31T13:48:32+00:00">
+<div class="post" data-post-id="17630" data-author="Popa" data-date="2007-03-31T13:48:32+00:00" data-subject="End of Days?">
 
 I know I will probably be ridiculed and taunted for writing this. I know i could create a new anon name and write this without the repercussions of possibly offending someone. However I'm not gonna do that. This is my chance to be a testimony to others that might not beleive.
 
@@ -66,7 +66,7 @@ Restoration for Godâ€™s People
 
 </div>
 
-<div class="post" data-post-id="17632" data-author="Popa" data-date="2007-03-31T14:07:54+00:00">
+<div class="post" data-post-id="17632" data-author="Popa" data-date="2007-03-31T14:07:54+00:00" data-subject="">
 
 These two verses describe a great horror of death and destruction. As prophisied, it will come true. whether it will be in the near future, or sometime in our lifetime. I just ask all beleivers and non beleiver to prepare yourself spiritually.
 
@@ -74,7 +74,7 @@ God Bless
 
 </div>
 
-<div class="post" data-post-id="17634" data-author="Mosaix" data-date="2007-03-31T15:04:58+00:00">
+<div class="post" data-post-id="17634" data-author="Mosaix" data-date="2007-03-31T15:04:58+00:00" data-subject="">
 
 When you start to force your feelings and thoughts on others you overstep the boundries of religous purpose.  
 
@@ -90,7 +90,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="17635" data-author="Popa" data-date="2007-03-31T15:24:07+00:00">
+<div class="post" data-post-id="17635" data-author="Popa" data-date="2007-03-31T15:24:07+00:00" data-subject="">
 
 In no way shape or form did write this to "damn others" 
 
@@ -102,7 +102,7 @@ Russia IS allying with Iran. Soon other countries will too. This is not a statem
 
 </div>
 
-<div class="post" data-post-id="17636" data-author="Aeolus" data-date="2007-03-31T15:56:15+00:00">
+<div class="post" data-post-id="17636" data-author="Aeolus" data-date="2007-03-31T15:56:15+00:00" data-subject="">
 
 When you start to force your feelings and thoughts on others you overstep the boundries of religous purpose.  
 
@@ -120,19 +120,19 @@ He wasn't forcing his opinion on anyone. He didn't say read this or I will punis
 
 </div>
 
-<div class="post" data-post-id="17637" data-author="Alberich" data-date="2007-03-31T16:03:54+00:00">
+<div class="post" data-post-id="17637" data-author="Alberich" data-date="2007-03-31T16:03:54+00:00" data-subject="">
 
 [img:3r3r0ye1]http://people.emich.edu/twiggin/cthulhutract4vt.gif[/img:3r3r0ye1]
 
 </div>
 
-<div class="post" data-post-id="17638" data-author="Popa" data-date="2007-03-31T16:08:56+00:00">
+<div class="post" data-post-id="17638" data-author="Popa" data-date="2007-03-31T16:08:56+00:00" data-subject="">
 
 *chuckle*
 
 </div>
 
-<div class="post" data-post-id="17640" data-author="Weasel" data-date="2007-03-31T16:47:25+00:00">
+<div class="post" data-post-id="17640" data-author="Weasel" data-date="2007-03-31T16:47:25+00:00" data-subject="">
 
 No worries Popa, regardless of what the Bible says, anyone who cares to look can see those bonds forming already - that passage in the Bible is just pointing out the obvious. 
 
@@ -140,7 +140,7 @@ No worries Popa, regardless of what the Bible says, anyone who cares to look can
 
 </div>
 
-<div class="post" data-post-id="17642" data-author="12345" data-date="2007-03-31T17:28:44+00:00">
+<div class="post" data-post-id="17642" data-author="12345" data-date="2007-03-31T17:28:44+00:00" data-subject="">
 
 I'll just play the role of confused.  I read that entire thing and I'd need some pretty hardcore explaination to see how it relates to current times at all, or how the geography applies.  One of the particular points that I would think needs explaining is the portion where it says that Isreal would be attacked after they had been at peace for some crazy amount of time.
 
@@ -148,7 +148,7 @@ They've been fighting on and off for decades.  Did someone declare peace and I d
 
 </div>
 
-<div class="post" data-post-id="17645" data-author="Popa" data-date="2007-03-31T18:22:52+00:00">
+<div class="post" data-post-id="17645" data-author="Popa" data-date="2007-03-31T18:22:52+00:00" data-subject="">
 
 12345,
 
@@ -156,13 +156,13 @@ They've been fighting on and off for decades.  Did someone declare peace and I d
 
 </div>
 
-<div class="post" data-post-id="17653" data-author="Aeolus" data-date="2007-03-31T21:01:00+00:00">
+<div class="post" data-post-id="17653" data-author="Aeolus" data-date="2007-03-31T21:01:00+00:00" data-subject="">
 
 LOL. Revelation is definitely confusing. Don't read it right before you go to bed. Wierd dreams..
 
 </div>
 
-<div class="post" data-post-id="17655" data-author="Hades" data-date="2007-03-31T22:20:08+00:00">
+<div class="post" data-post-id="17655" data-author="Hades" data-date="2007-03-31T22:20:08+00:00" data-subject="End Times">
 
 Dare I stick my toe in the waters to test?
 
@@ -182,19 +182,19 @@ peace
 
 </div>
 
-<div class="post" data-post-id="17659" data-author="Medios" data-date="2007-03-31T22:55:03+00:00">
+<div class="post" data-post-id="17659" data-author="Medios" data-date="2007-03-31T22:55:03+00:00" data-subject="">
 
 When a few well timed nuclear devices go off in major cities the one world govt will form.  I won't be surprised if the UN can declare martial law within 10 years.  It does not matter what you want to do.  The people that fight back initially will be slaughtered to show that the NWO does not deal lightly with rebels.  The US provides the majority of tactical weapons, troops, and money.  America will easily be tricked into the one world power.  Waco and OK already paved the way for legislation destroying the right to form a militia.  911 destroyed privacy rights and formed the basis for govts around the world to communicate intel.  America is full ready for the final brainwashing.  Freedom of Religion down the drain in place of "environmentalism".
 
 </div>
 
-<div class="post" data-post-id="17661" data-author="Hades" data-date="2007-03-31T23:40:27+00:00">
+<div class="post" data-post-id="17661" data-author="Hades" data-date="2007-03-31T23:40:27+00:00" data-subject="Medios makes a good point">
 
 I have heard that 3-5 nukes are already in the US ready to be set-off at a moments notice. Probably more if the truth was told.  I think def New York City and Washington D.C. are top cities that will be attacked... also Miama, 2-3 major cities out west and likely Atlanta since the C.D.C. is based there.
 
 </div>
 
-<div class="post" data-post-id="17668" data-author="Popa" data-date="2007-04-01T02:05:37+00:00">
+<div class="post" data-post-id="17668" data-author="Popa" data-date="2007-04-01T02:05:37+00:00" data-subject="">
 
 This might be a little lengthy because i'm going to quote things from a book. (Probably the same one hades just got done reading) The book's title is called  Jerusalem Countdown a prelude to war. 
 
@@ -232,13 +232,13 @@ This might be a little lengthy because i'm going to quote things from a book. (P
 
 </div>
 
-<div class="post" data-post-id="17671" data-author="12345" data-date="2007-04-01T05:52:41+00:00">
+<div class="post" data-post-id="17671" data-author="12345" data-date="2007-04-01T05:52:41+00:00" data-subject="">
 
 This has the distinct feel of Y2K about it. Peace in Isreal is near impossible given its history and geography.  Considering it is the basic pre-requisite of all this, I think we got a lot of time on our hands.
 
 </div>
 
-<div class="post" data-post-id="17677" data-author="Medios" data-date="2007-04-01T13:15:24+00:00">
+<div class="post" data-post-id="17677" data-author="Medios" data-date="2007-04-01T13:15:24+00:00" data-subject="">
 
 Jimmy Carter wanted to be the antichrist.  Too bad hes just a hick farmer with not enough sense to wipe his ass.
 
@@ -246,7 +246,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17682" data-author="13" data-date="2007-04-01T14:12:19+00:00">
+<div class="post" data-post-id="17682" data-author="13" data-date="2007-04-01T14:12:19+00:00" data-subject="">
 
 Technically it's all myth.  
 
@@ -264,7 +264,7 @@ Technically it's all myth.
 
 </div>
 
-<div class="post" data-post-id="17683" data-author="Shoop" data-date="2007-04-01T14:42:08+00:00">
+<div class="post" data-post-id="17683" data-author="Shoop" data-date="2007-04-01T14:42:08+00:00" data-subject="">
 
 dictionary.com is one of my favorite websites. Check this out.
 
@@ -288,7 +288,7 @@ Also, considering the number of people on this planet... we're bound to have mas
 
 </div>
 
-<div class="post" data-post-id="17684" data-author="Shazuko" data-date="2007-04-01T16:40:05+00:00">
+<div class="post" data-post-id="17684" data-author="Shazuko" data-date="2007-04-01T16:40:05+00:00" data-subject="">
 
 what the ufck is this shit?!?
 
@@ -302,7 +302,7 @@ First of all, I SPANKED god when he was 4 years old....you need to take this som
 
 </div>
 
-<div class="post" data-post-id="17686" data-author="Popa" data-date="2007-04-01T17:37:31+00:00">
+<div class="post" data-post-id="17686" data-author="Popa" data-date="2007-04-01T17:37:31+00:00" data-subject="">
 
 I'm mearly posting words of compassion for my fellow man. The bible has fortold many many prophecies, of which more than 500 have been fulfilled. The jewish state of Israel ceased to be a nation in a.d 70 when the Roman army lead under Titus scattered the jews over the ends of the earth.  it would be more than 2000 yrs before they would Proclaim Israel an independant state again. Ezekiel fortold this. 
 
@@ -326,13 +326,13 @@ God Bless.
 
 </div>
 
-<div class="post" data-post-id="17690" data-author="Aeolus" data-date="2007-04-01T18:55:33+00:00">
+<div class="post" data-post-id="17690" data-author="Aeolus" data-date="2007-04-01T18:55:33+00:00" data-subject="">
 
 I'm puzzled by the harsh responses to Popa. He is not trying to be malicious to anyone and therefore deserves no mis-treatment. He's trying to help. It's like this, we are all in a log cabin in the mountains going skiing. Popa finds out an enormous avalance is going to happen which will destroy the cabin and kill everyone in it. He can either tell everyone about it, or keep it to himself. He is choosing to tell. Whether or not you believe him is irrelevant. He isn't saying get out of the cabin or I will kill you or if you don't believe this avalanche is coming, you are an idiot and I will laugh as you are being consumed in freezing snow and impaled by shattered logs. He's just saying, dude, I think there is an avalanche coming and it will destroy this cabin. Really, if he believed that and didn't tell anyone, he would be a selfish jerk. Aside from that, there a lot of non-MUD related posts in the crier. No one is being forced to read them and certainly no one is being forced to agree with them. I think Popa is just wanting to be compassionate.
 
 </div>
 
-<div class="post" data-post-id="17692" data-author="Hades" data-date="2007-04-01T20:26:07+00:00">
+<div class="post" data-post-id="17692" data-author="Hades" data-date="2007-04-01T20:26:07+00:00" data-subject="Popa&#x27;s Strife">
 
 I think he's after all our shoop-shaped cookies :lol: 
 
@@ -342,13 +342,13 @@ Some people would see the avalanche coming and deny it any more than a large sno
 
 </div>
 
-<div class="post" data-post-id="17693" data-author="tincts" data-date="2007-04-01T20:29:00+00:00">
+<div class="post" data-post-id="17693" data-author="tincts" data-date="2007-04-01T20:29:00+00:00" data-subject="">
 
 By definition, a discussion of this sort WILL draw a lot of emotional response, even if the emotion is "this is crap".  Popa would surely have been prepared for this :) Part of the end-time persecution prophecy stuff tends to foresee a lot of crap coming down on any surviving christians.
 
 </div>
 
-<div class="post" data-post-id="17695" data-author="Mosaix" data-date="2007-04-01T21:38:51+00:00">
+<div class="post" data-post-id="17695" data-author="Mosaix" data-date="2007-04-01T21:38:51+00:00" data-subject="">
 
 Popa seems to want to be higher than life.
 
@@ -358,7 +358,7 @@ Keep your religion in church, I dont go to your church and preach sloth.
 
 </div>
 
-<div class="post" data-post-id="17696" data-author="12345" data-date="2007-04-01T21:45:19+00:00">
+<div class="post" data-post-id="17696" data-author="12345" data-date="2007-04-01T21:45:19+00:00" data-subject="">
 
 I'm not saying anything good or bad about Popa.  Time marches on.  I've heard many doomsayers, and none of them have been right yet.  Popa's goes so far as to identify benchmarks of when this will all happen.  Peace in Israel has been bumpy, to say the least.  Just last year it was upset when the Humas failed to acknowledge that Israel existed at all.
 
@@ -366,13 +366,13 @@ So, the avalanche may be coming, but given the timelines, we'll have plenty of o
 
 </div>
 
-<div class="post" data-post-id="17697" data-author="13" data-date="2007-04-01T21:48:40+00:00">
+<div class="post" data-post-id="17697" data-author="13" data-date="2007-04-01T21:48:40+00:00" data-subject="">
 
 Steve I think you should have just invited them all to be good people and try to do the right thing always.
 
 </div>
 
-<div class="post" data-post-id="17698" data-author="firebrand" data-date="2007-04-01T21:56:42+00:00">
+<div class="post" data-post-id="17698" data-author="firebrand" data-date="2007-04-01T21:56:42+00:00" data-subject="">
 
 before i get started, let it be understood that i am not specifically attacking steve.  when i say "you/your" it is just the words that i am thinking at the moment, so please don't anyone take this personally.
 
@@ -410,7 +410,7 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="17700" data-author="Popa" data-date="2007-04-01T22:30:25+00:00">
+<div class="post" data-post-id="17700" data-author="Popa" data-date="2007-04-01T22:30:25+00:00" data-subject="">
 
 I dont hold any ill will towards anyone who might be critical of me. My main reason for sharing what i beleive to be the end of days , is to mearly say that. Not to run around and shout the sky is falling . the sky is falling. BUt mearly to give facts of world events. show correlation between those factual events and what events in the bible lead to the End of Days. I have alot of friends who play here. My purpose of posting this is to share what i beleive could happen IN OUR LIFE TIME. Not saying its gonna happen tomorrow. or the next day. or even next year, or even at all. But quite possibly in our lifetime. That's my peace. Flame on if you will.
 
@@ -418,7 +418,7 @@ God bless
 
 </div>
 
-<div class="post" data-post-id="17701" data-author="Weasel" data-date="2007-04-01T22:51:22+00:00">
+<div class="post" data-post-id="17701" data-author="Weasel" data-date="2007-04-01T22:51:22+00:00" data-subject="">
 
 Hmm. IMHO most recognized religions are just different expressions of the same thing - they all acknowledge a higher power of some form (or multiple forms) but have different ways of honoring those dieties/gods/whatever. If each religion would just recognize that their form of worship is just one option of many, each as valid as the next to the practitioner, there would be few problems. How one chooses to do it should not be the issue, the fact that you do it, or even just how you live your life and how you treat others (*poke* at pthieves hehe) is what matters imho. In the meantime, there are a number of religions that are little more than groups of closed-minded people fighting over who has the best imaginary friend. 
 
@@ -426,7 +426,7 @@ FB, what's a celtic shaman priestess? Is that Wiccan?
 
 </div>
 
-<div class="post" data-post-id="17702" data-author="Aeolus" data-date="2007-04-01T23:16:45+00:00">
+<div class="post" data-post-id="17702" data-author="Aeolus" data-date="2007-04-01T23:16:45+00:00" data-subject="">
 
 Once again I am taking liberty in speaking for Popa. Popa, if I misrepresent your intentions, please correct me. 
 
@@ -434,7 +434,7 @@ Firebrand - Popa is not trying to convert you nor anyone else on this board. He 
 
 </div>
 
-<div class="post" data-post-id="17704" data-author="firebrand" data-date="2007-04-02T01:13:44+00:00">
+<div class="post" data-post-id="17704" data-author="firebrand" data-date="2007-04-02T01:13:44+00:00" data-subject="">
 
 weasel sed:
 
@@ -450,7 +450,7 @@ aeolus, you totally bypassed my first sentence where i explained that i am NOT a
 
 </div>
 
-<div class="post" data-post-id="17707" data-author="Aeolus" data-date="2007-04-02T03:38:05+00:00">
+<div class="post" data-post-id="17707" data-author="Aeolus" data-date="2007-04-02T03:38:05+00:00" data-subject="">
 
 aeolus, you totally bypassed my first sentence where i explained that i am NOT attacking steve/popa and also the use of you/your was not directed at any ONE person, but as a way of organizing my thoughts.  secondly, i acknowledge that steve himself is not trying to convert me.  read things carefully before correcting me, mmkay?
 
@@ -474,7 +474,7 @@ I wasn't correcting you. I just tried to explain what Popa said in a different w
 
 </div>
 
-<div class="post" data-post-id="17708" data-author="Shazuko" data-date="2007-04-02T04:19:43+00:00">
+<div class="post" data-post-id="17708" data-author="Shazuko" data-date="2007-04-02T04:19:43+00:00" data-subject="">
 
 thought popa was under new ownership...is this the same Steve I met in Ft. Lauderdale two years ago??
 
@@ -490,7 +490,7 @@ let me put it in a nutshell(as it pertains to me), putting all the politics and 
 
 </div>
 
-<div class="post" data-post-id="17711" data-author="Thraxas" data-date="2007-04-02T09:39:41+00:00">
+<div class="post" data-post-id="17711" data-author="Thraxas" data-date="2007-04-02T09:39:41+00:00" data-subject="">
 
 hmm interesting thread,
 
@@ -504,13 +504,13 @@ I've heard many pet theories by many self proclaimed experts all good meaning an
 
 </div>
 
-<div class="post" data-post-id="17712" data-author="Mace" data-date="2007-04-02T09:48:12+00:00">
+<div class="post" data-post-id="17712" data-author="Mace" data-date="2007-04-02T09:48:12+00:00" data-subject="">
 
 The movie was ok, but the whole 'omniscient, all-powerful-devil until-the-last-5-minutes' thing gets a little old.
 
 </div>
 
-<div class="post" data-post-id="17713" data-author="Thraxas" data-date="2007-04-02T10:20:53+00:00">
+<div class="post" data-post-id="17713" data-author="Thraxas" data-date="2007-04-02T10:20:53+00:00" data-subject="">
 
 Just in case anyone is seriously concerned most of the below are predictions of doom, make your own mind up:
 
@@ -666,7 +666,7 @@ About 1990:  Peter Ruckman concluded from his analysis of the Bible that the rap
 
 </div>
 
-<div class="post" data-post-id="17714" data-author="Hades" data-date="2007-04-02T10:30:24+00:00">
+<div class="post" data-post-id="17714" data-author="Hades" data-date="2007-04-02T10:30:24+00:00" data-subject="Den of Aye&#x27;s">
 
 Unfortunately, it only takes one person to get it right.
 
@@ -676,19 +676,19 @@ Bummer
 
 </div>
 
-<div class="post" data-post-id="17718" data-author="*juggleblood*" data-date="2007-04-02T11:57:50+00:00">
+<div class="post" data-post-id="17718" data-author="*juggleblood*" data-date="2007-04-02T11:57:50+00:00" data-subject="I have seen the light!">
 
 Thanks to this thread -Alberich in particular- I am no longer an atheist! I have explored my religious identity and discovered that I am a discordian and that I believe that in end of time Cthuluhu will awaken the great old ones and we will all be eaten. Our only hope is to be eaten first. Hopefully we will have our own slothmud discordian sect up and running in short order.
 
 </div>
 
-<div class="post" data-post-id="17719" data-author="13" data-date="2007-04-02T12:13:14+00:00">
+<div class="post" data-post-id="17719" data-author="13" data-date="2007-04-02T12:13:14+00:00" data-subject="">
 
 Adam's good for shit like that.
 
 </div>
 
-<div class="post" data-post-id="17736" data-author="Medios" data-date="2007-04-03T00:06:21+00:00">
+<div class="post" data-post-id="17736" data-author="Medios" data-date="2007-04-03T00:06:21+00:00" data-subject="">
 
 Don't forget to add 
 
@@ -698,7 +698,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17741" data-author="Hades" data-date="2007-04-03T01:39:53+00:00">
+<div class="post" data-post-id="17741" data-author="Hades" data-date="2007-04-03T01:39:53+00:00" data-subject="Slow News Day: Rise of the Anti-Spam">
 
 [<LINK_TEXT text="http://news.yahoo.com/s/ap/20070402/ap_ ... a_as_jesus">http://news.yahoo.com/s/ap/20070402/ap_on_el_pr/obama_as_jesus</LINK_TEXT>](http://news.yahoo.com/s/ap/20070402/ap_on_el_pr/obama_as_jesus)
 
@@ -706,7 +706,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17748" data-author="*juggleblood*" data-date="2007-04-03T13:50:35+00:00">
+<div class="post" data-post-id="17748" data-author="*juggleblood*" data-date="2007-04-03T13:50:35+00:00" data-subject="">
 
 Don't forget to add 
 
@@ -718,7 +718,7 @@ What's your deal lately?  Has the fall of the neoconservative movement really af
 
 </div>
 
-<div class="post" data-post-id="17749" data-author="Popa" data-date="2007-04-03T14:04:44+00:00">
+<div class="post" data-post-id="17749" data-author="Popa" data-date="2007-04-03T14:04:44+00:00" data-subject="">
 
 [quote:2mdl1nji]2006 - Al Gore - General retard and once vice president of the US. During his VP he never said a single word about global warming. Then during several election cycles later he goes stark raving mad. Starts telling everyone that polar bears will drown in the arctic if he doesn't stop spending 20k a year in electricity. Other politicians ask him to curb his carbon emissions and he politely buys credits from the very company he formed. The end is near.[/quote:2mdl1nji]
 
@@ -734,7 +734,7 @@ However they began as a world peace organization. As soon as  you start seeing s
 
 </div>
 
-<div class="post" data-post-id="17750" data-author="Aeolus" data-date="2007-04-03T14:35:02+00:00">
+<div class="post" data-post-id="17750" data-author="Aeolus" data-date="2007-04-03T14:35:02+00:00" data-subject="">
 
 [quote:51g6ngx5]2006 - Al Gore - General retard and once vice president of the US. During his VP he never said a single word about global warming. Then during several election cycles later he goes stark raving mad. Starts telling everyone that polar bears will drown in the arctic if he doesn't stop spending 20k a year in electricity. Other politicians ask him to curb his carbon emissions and he politely buys credits from the very company he formed. The end is near.[/quote:51g6ngx5]
 
@@ -752,7 +752,7 @@ I honestly don't see Gore running. He's done too much wierd stuff to have any ch
 
 </div>
 
-<div class="post" data-post-id="17751" data-author="Popa" data-date="2007-04-03T14:58:44+00:00">
+<div class="post" data-post-id="17751" data-author="Popa" data-date="2007-04-03T14:58:44+00:00" data-subject="">
 
 Let me retract my previous post about gauranteeing he would run. I cant gaurantee anything. However i wouldnt be surprised if he did.
 
@@ -760,7 +760,7 @@ I appreciate everyone's reposnses to this post.
 
 </div>
 
-<div class="post" data-post-id="17752" data-author="*juggleblood*" data-date="2007-04-03T18:16:26+00:00">
+<div class="post" data-post-id="17752" data-author="*juggleblood*" data-date="2007-04-03T18:16:26+00:00" data-subject="Al Gore is the AntiChrist">
 
 Al Gore must be the anti-christ then. 
 
@@ -776,7 +776,7 @@ But, who's the messiah?
 
 </div>
 
-<div class="post" data-post-id="17753" data-author="Infested" data-date="2007-04-03T18:28:36+00:00">
+<div class="post" data-post-id="17753" data-author="Infested" data-date="2007-04-03T18:28:36+00:00" data-subject="Re: Al Gore is the AntiChrist">
 
 Al Gore must be the anti-christ then. 
 
@@ -788,7 +788,7 @@ But, who's the messiah?[/quote:3a6wctmf]
 
 </div>
 
-<div class="post" data-post-id="17755" data-author="Medios" data-date="2007-04-03T20:33:25+00:00">
+<div class="post" data-post-id="17755" data-author="Medios" data-date="2007-04-03T20:33:25+00:00" data-subject="">
 
 Don't forget to add 
 
@@ -804,25 +804,25 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17756" data-author="Alberich" data-date="2007-04-03T20:45:05+00:00">
+<div class="post" data-post-id="17756" data-author="Alberich" data-date="2007-04-03T20:45:05+00:00" data-subject="">
 
 but...but... Al invented the intertubes!
 
 </div>
 
-<div class="post" data-post-id="17758" data-author="Rynquald" data-date="2007-04-03T21:21:00+00:00">
+<div class="post" data-post-id="17758" data-author="Rynquald" data-date="2007-04-03T21:21:00+00:00" data-subject="">
 
 You know your country's gone nuts when there are helicopters patrolling for illegal barbecue use :)
 
 </div>
 
-<div class="post" data-post-id="17766" data-author="13" data-date="2007-04-04T14:44:30+00:00">
+<div class="post" data-post-id="17766" data-author="13" data-date="2007-04-04T14:44:30+00:00" data-subject="">
 
 my god
 
 </div>
 
-<div class="post" data-post-id="17768" data-author="*juggleblood*" data-date="2007-04-04T14:47:38+00:00">
+<div class="post" data-post-id="17768" data-author="*juggleblood*" data-date="2007-04-04T14:47:38+00:00" data-subject="">
 
 The BBQ isn't true. It was some party in British Parliament that wanted to tax portable natural gas containers the same way that gasoline is taxed at the pump. The opponents labeled it the BBQ tax and shot it down. How this translates into a vast conspiracy to form a one world government I fail to see.
 
@@ -840,7 +840,7 @@ And don't try to give some bullcrap answer that somehow involves Al Gore, Jimmy 
 
 </div>
 
-<div class="post" data-post-id="17771" data-author="Popa" data-date="2007-04-04T16:55:19+00:00">
+<div class="post" data-post-id="17771" data-author="Popa" data-date="2007-04-04T16:55:19+00:00" data-subject="">
 
 I'm not sure if the carbon tax i was referring to is this same propane tax. I'm not gonna give my input, cause i dont know.
 
@@ -854,7 +854,7 @@ We do need to watch the amount of resources we use because they do polute. Polut
 
 </div>
 
-<div class="post" data-post-id="17774" data-author="Thraxas" data-date="2007-04-04T17:12:18+00:00">
+<div class="post" data-post-id="17774" data-author="Thraxas" data-date="2007-04-04T17:12:18+00:00" data-subject="">
 
 The BBQ isn't true. It was some party in British Parliament that wanted to tax portable natural gas containers the same way that gasoline is taxed at the pump. The opponents labeled it the BBQ tax and shot it down. How this translates into a vast conspiracy to form a one world government I fail to see.[/quote:20qwn21v]
 
@@ -866,13 +866,13 @@ We do have helicopters who look for illegal hosepipe use using thermal imaging. 
 
 </div>
 
-<div class="post" data-post-id="17775" data-author="13" data-date="2007-04-04T17:15:55+00:00">
+<div class="post" data-post-id="17775" data-author="13" data-date="2007-04-04T17:15:55+00:00" data-subject="">
 
 Wow, you folks aren't allowed to use garden hoses?
 
 </div>
 
-<div class="post" data-post-id="17776" data-author="Alberich" data-date="2007-04-04T17:27:30+00:00">
+<div class="post" data-post-id="17776" data-author="Alberich" data-date="2007-04-04T17:27:30+00:00" data-subject="">
 
 it's the same place that has a CCTV camera every damn where - nanny-state gone mad, and probably beyond saving for any individual-liberty-minded folks.  I heard an interview with some cat on PBS who was discussing the recent european smoking bans, and he came out with "i wish they'd just outlaw smoking entirely - i've been trying to quit for years".  There's nothing you can do to help someone with the mentality that the government is the solution to all problems.   They're by definition not bright enough to educate (or they wouldn't be relying on the government in the first place) and have obviously lost the will to take responsibility for their own actions.
 
@@ -888,7 +888,7 @@ You're also missing the fact that regardless of ones opinion on global warming, 
 
 </div>
 
-<div class="post" data-post-id="17779" data-author="Mosaix" data-date="2007-04-04T19:41:17+00:00">
+<div class="post" data-post-id="17779" data-author="Mosaix" data-date="2007-04-04T19:41:17+00:00" data-subject="">
 
 When we all have cancer, and have wiped out the majority of species, maybe then we'll bother to clean the place up, or move to Mars colonies. :)
 
@@ -902,7 +902,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="17786" data-author="Medios" data-date="2007-04-04T21:19:14+00:00">
+<div class="post" data-post-id="17786" data-author="Medios" data-date="2007-04-04T21:19:14+00:00" data-subject="">
 
 The BBQ isn't true. It was some party in British Parliament that wanted to tax portable natural gas containers the same way that gasoline is taxed at the pump. The opponents labeled it the BBQ tax and shot it down. How this translates into a vast conspiracy to form a one world government I fail to see.
 
@@ -932,7 +932,7 @@ PS Next time you try to debunk me get your fuckin facts straight.  Im not agains
 
 </div>
 
-<div class="post" data-post-id="17801" data-author="*juggleblood*" data-date="2007-04-05T13:04:31+00:00">
+<div class="post" data-post-id="17801" data-author="*juggleblood*" data-date="2007-04-05T13:04:31+00:00" data-subject="">
 
 Well what point are you trying to make will all this ranting anyway then? It's certainly not very clear. 
 
@@ -948,7 +948,7 @@ in the White House, not 535 commanders in chief on Capitol Hill."
 
 </div>
 
-<div class="post" data-post-id="17831" data-author="Avatar" data-date="2007-04-06T05:44:21+00:00">
+<div class="post" data-post-id="17831" data-author="Avatar" data-date="2007-04-06T05:44:21+00:00" data-subject="Hoax story">
 
 Mike, I like you a lot, but you gotta learn that you can't believe everything you read.
 
@@ -960,7 +960,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="17842" data-author="Medios" data-date="2007-04-06T20:19:55+00:00">
+<div class="post" data-post-id="17842" data-author="Medios" data-date="2007-04-06T20:19:55+00:00" data-subject="">
 
 "Reports appeared in local media earlier in the month that a law had been approved to charge residents of the 4-million-strong region 20 euros for each grilling session beginning in June."
 
@@ -978,7 +978,7 @@ PS  What about Thraxas and the hosepipe ban.  BBQ taxes are a possibility.
 
 </div>
 
-<div class="post" data-post-id="21556" data-author="Tap" data-date="2007-12-06T09:53:36+00:00">
+<div class="post" data-post-id="21556" data-author="Tap" data-date="2007-12-06T09:53:36+00:00" data-subject="Bringing back the dead(thread)">
 
 Here's a Chuck Norris fact you may not know. If Chuck Norris endorses you and appears in one of your campaign's TV ads, you take the lead in an Iowa poll and your Web server crashes. That's what happened to Mike Huckabee, the shrewder-than-you-realize former Arkansas governor (sound familiar?) who has become a major player in the tight Republican presidential race. The ad opens with Huckabee deadpanning: "My plan to secure the border? Two words: Chuck Norris." The camera moves back to reveal the Man Himself, who praises Huckabee as a solid, gun-loving, IRS-loathing conservative. Huckabee adds a twist at the end. "I approved this message ... So did Chuck."
 
@@ -986,7 +986,7 @@ Here's a Chuck Norris fact you may not know. If Chuck Norris endorses you and ap
 
 </div>
 
-<div class="post" data-post-id="21557" data-author="mahkra" data-date="2007-12-06T10:48:30+00:00">
+<div class="post" data-post-id="21557" data-author="mahkra" data-date="2007-12-06T10:48:30+00:00" data-subject="">
 
 I just wonder how people can look outside see that the air is frggin brown and figure everything is A ok. 
 
@@ -996,7 +996,7 @@ oh and big AL is as big a crook a Nixon was. Don't believe a word he says.
 
 </div>
 
-<div class="post" data-post-id="21559" data-author="Autolycos" data-date="2007-12-06T13:39:24+00:00">
+<div class="post" data-post-id="21559" data-author="Autolycos" data-date="2007-12-06T13:39:24+00:00" data-subject="">
 
 It's easier to live by the philosophy that everyone that tells you what to do is a liar.
 
@@ -1008,7 +1008,7 @@ The future is coming..  and we better be ready.
 
 </div>
 
-<div class="post" data-post-id="21560" data-author="blackmore" data-date="2007-12-06T15:12:50+00:00">
+<div class="post" data-post-id="21560" data-author="blackmore" data-date="2007-12-06T15:12:50+00:00" data-subject="">
 
 [url:psx7uvdk]http://www.newsbusters.org/blogs/noel-sheppard/2007/11/23/not-enough-parking-private-jets-going-un-climate-conference[/url:psx7uvdk]
 

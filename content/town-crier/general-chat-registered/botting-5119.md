@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40155" data-author="*teker*" data-date="2025-02-26T16:25:58+00:00">
+<div class="post" data-post-id="40155" data-author="*teker*" data-date="2025-02-26T16:25:58+00:00" data-subject="Botting">
 
 Hey guys, it's become pretty clear that the amount of botting going on is overkill.  As a reminder, the botting rules are:
 

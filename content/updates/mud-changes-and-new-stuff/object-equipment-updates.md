@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36950" data-author="*Neptune*" data-date="2016-06-05T17:41:29+00:00">
+<div class="post" data-post-id="36950" data-author="*Neptune*" data-date="2016-06-05T17:41:29+00:00" data-subject="Object / Equipment Updates">
 
 Greetings,
 
@@ -44,7 +44,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="37960" data-author="*Neptune*" data-date="2017-01-15T00:32:40+00:00">
+<div class="post" data-post-id="37960" data-author="*Neptune*" data-date="2017-01-15T00:32:40+00:00" data-subject="Re: Object / Equipment Updates">
 
 The book for the 22nd level warrior skill "Stomp" has been moved from Marta
 
@@ -70,7 +70,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="39105" data-author="*Neptune*" data-date="2019-02-24T21:11:02+00:00">
+<div class="post" data-post-id="39105" data-author="*Neptune*" data-date="2019-02-24T21:11:02+00:00" data-subject="Re: Object / Equipment Updates">
 
 Greetings
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="33854" data-author="raincrab" data-date="2012-12-19T23:10:51+00:00">
+<div class="post" data-post-id="33854" data-author="raincrab" data-date="2012-12-19T23:10:51+00:00" data-subject="misc tinyfugue triggers">
 
 ```
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -593,7 +593,7 @@ post_count: 3
 
 </div>
 
-<div class="post" data-post-id="33874" data-author="Tuck" data-date="2012-12-30T21:13:32+00:00">
+<div class="post" data-post-id="33874" data-author="Tuck" data-date="2012-12-30T21:13:32+00:00" data-subject="Re: misc tinyfugue triggers">
 
 Good job Rain!
 
@@ -601,7 +601,7 @@ Especially channel name :-)
 
 </div>
 
-<div class="post" data-post-id="33876" data-author="blackmore" data-date="2012-12-31T01:04:32+00:00">
+<div class="post" data-post-id="33876" data-author="blackmore" data-date="2012-12-31T01:04:32+00:00" data-subject="Re: misc tinyfugue triggers">
 
 I do this for spell macros:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 25
 ---
 
-<div class="post" data-post-id="34707" data-author="*Breeze*" data-date="2013-12-28T21:35:47+00:00">
+<div class="post" data-post-id="34707" data-author="*Breeze*" data-date="2013-12-28T21:35:47+00:00" data-subject="EQList">
 
 I received a few messages from people saying that a few others don't like the eqlist.
 
@@ -38,7 +38,7 @@ Its not really that different.
 
 </div>
 
-<div class="post" data-post-id="34708" data-author="*Splork*" data-date="2013-12-28T21:46:55+00:00">
+<div class="post" data-post-id="34708" data-author="*Splork*" data-date="2013-12-28T21:46:55+00:00" data-subject="Re: EQList">
 
 I haven't received one complaint via email or tell in-game so I am rather clueless in regards to how the players feel. There were many compliments on gossip and I do know people are trying to get used to the new Eqlist.
 
@@ -52,13 +52,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34711" data-author="Maarg" data-date="2013-12-29T00:02:33+00:00">
+<div class="post" data-post-id="34711" data-author="Maarg" data-date="2013-12-29T00:02:33+00:00" data-subject="Re: EQList">
 
 It has been a refreshing change from the old EQ List. Just needs a tad of fine tuning.
 
 </div>
 
-<div class="post" data-post-id="34712" data-author="DarkArtist" data-date="2013-12-29T00:28:37+00:00">
+<div class="post" data-post-id="34712" data-author="DarkArtist" data-date="2013-12-29T00:28:37+00:00" data-subject="Re: EQList">
 
 It's trivial, but if you ever got around to it, I liked the feature of looking up the eq for a particular zone. I don't see that option on the new page. It's not a priority tho.
 
@@ -66,7 +66,7 @@ Maybe some of the people with feedback on the format could be more specific abou
 
 </div>
 
-<div class="post" data-post-id="34713" data-author="*Splork*" data-date="2013-12-29T00:45:19+00:00">
+<div class="post" data-post-id="34713" data-author="*Splork*" data-date="2013-12-29T00:45:19+00:00" data-subject="Re: EQList">
 
 Breeze actually added Area as one of the possible selections to search from on the EqList before he went to bed. 
 
@@ -82,13 +82,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34715" data-author="Nyctivoe" data-date="2013-12-29T01:12:41+00:00">
+<div class="post" data-post-id="34715" data-author="Nyctivoe" data-date="2013-12-29T01:12:41+00:00" data-subject="Re: EQList">
 
 Now that I've gotten my slow mind around the website changes, I like the new EQList. Thanks to those who did the work.
 
 </div>
 
-<div class="post" data-post-id="34716" data-author="Shyla" data-date="2013-12-29T03:15:19+00:00">
+<div class="post" data-post-id="34716" data-author="Shyla" data-date="2013-12-29T03:15:19+00:00" data-subject="Re: EQList">
 
 any chance if we put in a mob we can see what all it pops like typing in baoht and come up with all that is listed for him..?? also I was trying to find windrun book and windrun came up with nothing as did manual of wind I had to put in manual of THE wind before anything at all would show up ..anychance we can put in spell name and have mobs come up and not just the complete book name
 
@@ -96,7 +96,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="34719" data-author="*Splork*" data-date="2013-12-29T03:42:25+00:00">
+<div class="post" data-post-id="34719" data-author="*Splork*" data-date="2013-12-29T03:42:25+00:00" data-subject="Re: EQList">
 
 I am not sure about the requests themselves, that is Breeze's expertise. However, I believe you must be doing something wrong in terms of your search because I type in manual of wind and the first result is clearly the A Manual of the Wind.
 
@@ -114,7 +114,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34721" data-author="blackmore" data-date="2013-12-29T04:56:42+00:00">
+<div class="post" data-post-id="34721" data-author="blackmore" data-date="2013-12-29T04:56:42+00:00" data-subject="Re: EQList">
 
 Some issues I see with the new eqlist...
 
@@ -128,13 +128,13 @@ Overall, it's definitely a good step, and I'm going to have to experiment with t
 
 </div>
 
-<div class="post" data-post-id="34724" data-author="Agni" data-date="2013-12-29T06:25:14+00:00">
+<div class="post" data-post-id="34724" data-author="Agni" data-date="2013-12-29T06:25:14+00:00" data-subject="Re: EQList">
 
 also weapon dice and potions affects are not displayed
 
 </div>
 
-<div class="post" data-post-id="34725" data-author="*Breeze*" data-date="2013-12-29T07:44:41+00:00">
+<div class="post" data-post-id="34725" data-author="*Breeze*" data-date="2013-12-29T07:44:41+00:00" data-subject="Re: EQList">
 
 > **Agni wrote:**
 > also weapon dice and potions affects are not displayed
@@ -159,7 +159,7 @@ if it doesnt show up in normal mode, the eqlist doesnt know it.
 
 </div>
 
-<div class="post" data-post-id="34726" data-author="*Breeze*" data-date="2013-12-29T07:46:28+00:00">
+<div class="post" data-post-id="34726" data-author="*Breeze*" data-date="2013-12-29T07:46:28+00:00" data-subject="Re: EQList">
 
 > **blackmore wrote:**
 > Overall, it's definitely a good step, and I'm going to have to experiment with the json file.  You pretty much have to write a parser to be able to read it, and I'm not quite that far yet.
@@ -174,7 +174,7 @@ has parsers for just about every language.
 
 </div>
 
-<div class="post" data-post-id="34727" data-author="*Breeze*" data-date="2013-12-29T09:33:52+00:00">
+<div class="post" data-post-id="34727" data-author="*Breeze*" data-date="2013-12-29T09:33:52+00:00" data-subject="Re: EQList">
 
 linked in eq by area. click the area name on a regular search or use the *AREA* filter to pull up a list of areas then
 
@@ -186,7 +186,7 @@ just a straight dump of the data.
 
 </div>
 
-<div class="post" data-post-id="34729" data-author="Marvel" data-date="2013-12-29T15:23:39+00:00">
+<div class="post" data-post-id="34729" data-author="Marvel" data-date="2013-12-29T15:23:39+00:00" data-subject="Re: EQList">
 
 Is there a way to see eq that can shapeshift?
 
@@ -194,13 +194,13 @@ Also - any way to display that an item is a CP for a forge? You can find cps for
 
 </div>
 
-<div class="post" data-post-id="34742" data-author="Yasik" data-date="2013-12-30T14:43:55+00:00">
+<div class="post" data-post-id="34742" data-author="Yasik" data-date="2013-12-30T14:43:55+00:00" data-subject="Re: EQList">
 
 What about sorting? Can we sort ascending/descending by AC, for example?
 
 </div>
 
-<div class="post" data-post-id="34751" data-author="*Breeze*" data-date="2014-01-02T23:21:10+00:00">
+<div class="post" data-post-id="34751" data-author="*Breeze*" data-date="2014-01-02T23:21:10+00:00" data-subject="Re: EQList">
 
 what you are both asking for is basically more filters.
 
@@ -220,7 +220,7 @@ i am not about to do a bunch more queries to the database to see if each and eve
 
 </div>
 
-<div class="post" data-post-id="34752" data-author="Marvel" data-date="2014-01-03T23:53:53+00:00">
+<div class="post" data-post-id="34752" data-author="Marvel" data-date="2014-01-03T23:53:53+00:00" data-subject="Re: EQList">
 
 Thanks for all the hard work, Breeze!
 
@@ -230,7 +230,7 @@ Shapeshift is found in extra flags, but it's viewable now due to your additions.
 
 </div>
 
-<div class="post" data-post-id="34756" data-author="*Breeze*" data-date="2014-01-04T07:46:06+00:00">
+<div class="post" data-post-id="34756" data-author="*Breeze*" data-date="2014-01-04T07:46:06+00:00" data-subject="Re: EQList">
 
 I could link that forge page to the eq list to filter if the item found is part of a forge but it wouldn't be automatic.
 
@@ -240,7 +240,7 @@ Will think about it.
 
 </div>
 
-<div class="post" data-post-id="34762" data-author="*Breeze*" data-date="2014-01-06T20:04:49+00:00">
+<div class="post" data-post-id="34762" data-author="*Breeze*" data-date="2014-01-06T20:04:49+00:00" data-subject="Re: EQList">
 
 splork added code to export the eq sets (eg all leather sets)
 
@@ -264,7 +264,7 @@ that says how to use eqlist i will add it in.  no pictures tho. if we want pictu
 
 </div>
 
-<div class="post" data-post-id="34763" data-author="Marvel" data-date="2014-01-06T21:38:20+00:00">
+<div class="post" data-post-id="34763" data-author="Marvel" data-date="2014-01-06T21:38:20+00:00" data-subject="Re: EQList">
 
 Thanks Splork and Breeze.
 
@@ -272,7 +272,7 @@ I'll see what I can do about the separate page. But I just got a Win 8 machine (
 
 </div>
 
-<div class="post" data-post-id="34764" data-author="*Breeze*" data-date="2014-01-06T21:41:05+00:00">
+<div class="post" data-post-id="34764" data-author="*Breeze*" data-date="2014-01-06T21:41:05+00:00" data-subject="Re: EQList">
 
 come up with the text / pics / layout and i will 
 
@@ -280,7 +280,7 @@ make it a page on the main site.
 
 </div>
 
-<div class="post" data-post-id="34768" data-author="blackmore" data-date="2014-01-08T01:40:08+00:00">
+<div class="post" data-post-id="34768" data-author="blackmore" data-date="2014-01-08T01:40:08+00:00" data-subject="Re: EQList">
 
 I have a question about the json.
 
@@ -288,7 +288,7 @@ It seems like the list of objects should have a common property name.  In the do
 
 </div>
 
-<div class="post" data-post-id="34769" data-author="*Breeze*" data-date="2014-01-08T02:29:36+00:00">
+<div class="post" data-post-id="34769" data-author="*Breeze*" data-date="2014-01-08T02:29:36+00:00" data-subject="Re: EQList">
 
 the layout was designed to not be able to overwrite other items in php.
 
@@ -305,13 +305,13 @@ if you have a better way i am willing to listen but not promising i will change 
 
 </div>
 
-<div class="post" data-post-id="34770" data-author="blackmore" data-date="2014-01-08T03:59:44+00:00">
+<div class="post" data-post-id="34770" data-author="blackmore" data-date="2014-01-08T03:59:44+00:00" data-subject="Re: EQList">
 
 I don't know if I have a better idea of not, I'm just asking.  I've never consumed json I haven't written before, it just looked different.
 
 </div>
 
-<div class="post" data-post-id="34771" data-author="*Breeze*" data-date="2014-01-08T04:02:52+00:00">
+<div class="post" data-post-id="34771" data-author="*Breeze*" data-date="2014-01-08T04:02:52+00:00" data-subject="Re: EQList">
 
 nod.  99% of everything i do, i export with php parseable json. :)
 

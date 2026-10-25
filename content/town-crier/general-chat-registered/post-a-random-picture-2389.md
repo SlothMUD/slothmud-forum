@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="17245" data-author="Yinao" data-date="2007-03-11T07:20:33+00:00">
+<div class="post" data-post-id="17245" data-author="Yinao" data-date="2007-03-11T07:20:33+00:00" data-subject="Post a random picture">
 
 Why buy a Van with leather, :roll: 
 
@@ -24,7 +24,7 @@ when we can just paint him and with a few mods make him look like.......
 
 </div>
 
-<div class="post" data-post-id="17246" data-author="Weasel" data-date="2007-03-11T08:46:21+00:00">
+<div class="post" data-post-id="17246" data-author="Weasel" data-date="2007-03-11T08:46:21+00:00" data-subject="">
 
 some admin wanna shift this to the existing 'post a random pic' thread pls?
 

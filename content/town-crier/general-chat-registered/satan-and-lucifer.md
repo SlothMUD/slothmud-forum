@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32706" data-author="Kanae" data-date="2011-07-01T03:43:47+00:00">
+<div class="post" data-post-id="32706" data-author="Kanae" data-date="2011-07-01T03:43:47+00:00" data-subject="satan and lucifer">
 
 okay.. i am getting mixed information and am a bit confused. 
 
@@ -98,7 +98,7 @@ so i guess i'm wondering has satan been removed ..or am i missing something stup
 
 </div>
 
-<div class="post" data-post-id="32707" data-author="surfnazi" data-date="2011-07-01T14:50:52+00:00">
+<div class="post" data-post-id="32707" data-author="surfnazi" data-date="2011-07-01T14:50:52+00:00" data-subject="Re: satan and lucifer">
 
 > **Kanae wrote:**
 > so i guess i'm wondering has satan been removed ..or am i missing something stupid?

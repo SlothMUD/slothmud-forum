@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="36267" data-author="basche" data-date="2015-12-07T04:12:15+00:00">
+<div class="post" data-post-id="36267" data-author="basche" data-date="2015-12-07T04:12:15+00:00" data-subject="Bot killed my followers 2 days in a row">
 
 Here's today's log:
 
@@ -236,7 +236,7 @@ Like I said, second day in a row.  Enough is enough.
 
 </div>
 
-<div class="post" data-post-id="36268" data-author="Ertai" data-date="2015-12-07T05:45:34+00:00">
+<div class="post" data-post-id="36268" data-author="Ertai" data-date="2015-12-07T05:45:34+00:00" data-subject="Re: Bot killed my followers 2 days in a row">
 
 Both PK and charm person on players are illegal, so the one way is dispel-blind-web-recite recall.
 
@@ -244,19 +244,19 @@ Not a solution at all, but it will stop a bot for a while and prolly ruin its pr
 
 </div>
 
-<div class="post" data-post-id="36269" data-author="Vegetable" data-date="2015-12-07T06:02:14+00:00">
+<div class="post" data-post-id="36269" data-author="Vegetable" data-date="2015-12-07T06:02:14+00:00" data-subject="Re: Bot killed my followers 2 days in a row">
 
 Hrmm, Vegant was my char. Passed it to a friend earlier to try the game and told him a few area to kill. Don't know if he is doing what you said or just have no idea what he is doing. I am taking back the char till i get to talk to him. Sorry for the trouble.
 
 </div>
 
-<div class="post" data-post-id="36271" data-author="*Splork*" data-date="2015-12-07T13:20:04+00:00">
+<div class="post" data-post-id="36271" data-author="*Splork*" data-date="2015-12-07T13:20:04+00:00" data-subject="Re: Bot killed my followers 2 days in a row">
 
 He has been passworded. He can speak with one of us online.
 
 </div>
 
-<div class="post" data-post-id="36631" data-author="basche" data-date="2016-02-24T23:49:17+00:00">
+<div class="post" data-post-id="36631" data-author="basche" data-date="2016-02-24T23:49:17+00:00" data-subject="Re: Bot killed my followers 2 days in a row">
 
 Sorry to bump this, but here's today's log in Lycanthropia...
 
@@ -390,25 +390,25 @@ You gossip-- 'Another bot killing necro followers'
 
 </div>
 
-<div class="post" data-post-id="36632" data-author="Minibean" data-date="2016-02-25T00:21:00+00:00">
+<div class="post" data-post-id="36632" data-author="Minibean" data-date="2016-02-25T00:21:00+00:00" data-subject="Re: Bot killed my followers 2 days in a row">
 
 This is Vegant. i'm not exactly botting. just hit kill mob and then check website on available quest that i can do. i didnt really notice you there untill you gossip.
 
 </div>
 
-<div class="post" data-post-id="36636" data-author="Teron" data-date="2016-02-25T23:52:27+00:00">
+<div class="post" data-post-id="36636" data-author="Teron" data-date="2016-02-25T23:52:27+00:00" data-subject="Re: Bot killed my followers 2 days in a row">
 
 Vegant, why did you hit a mob that wasn't typically the area resident and was a follower of a player?
 
 </div>
 
-<div class="post" data-post-id="36637" data-author="Minibean" data-date="2016-02-26T01:10:40+00:00">
+<div class="post" data-post-id="36637" data-author="Minibean" data-date="2016-02-26T01:10:40+00:00" data-subject="Re: Bot killed my followers 2 days in a row">
 
 I dont know. i just kill ghoul. dont know why it hit the pet.
 
 </div>
 
-<div class="post" data-post-id="36644" data-author="Yasik" data-date="2016-02-26T10:44:38+00:00">
+<div class="post" data-post-id="36644" data-author="Yasik" data-date="2016-02-26T10:44:38+00:00" data-subject="Re: Bot killed my followers 2 days in a row">
 
 Ban is just.
 
@@ -416,7 +416,7 @@ For not being able to code correct targeting and alarm bot-off subroutines.
 
 </div>
 
-<div class="post" data-post-id="36647" data-author="*juggleblood*" data-date="2016-02-26T16:59:23+00:00">
+<div class="post" data-post-id="36647" data-author="*juggleblood*" data-date="2016-02-26T16:59:23+00:00" data-subject="Re: Bot killed my followers 2 days in a row">
 
 I'm guessing he hit pet ghoul cuz he is simply autotracking mob targets and firing the attack on the "right in front of you" message.
 

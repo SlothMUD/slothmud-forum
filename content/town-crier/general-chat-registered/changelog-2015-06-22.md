@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="35956" data-author="*teker*" data-date="2015-06-22T14:37:53+00:00">
+<div class="post" data-post-id="35956" data-author="*teker*" data-date="2015-06-22T14:37:53+00:00" data-subject="Changelog 2015-06-22">
 
 Drop all.keyword works now
 
@@ -24,7 +24,7 @@ I've also done some performance tuning with a particularly active part of the co
 
 </div>
 
-<div class="post" data-post-id="35957" data-author="*teker*" data-date="2015-06-23T02:15:09+00:00">
+<div class="post" data-post-id="35957" data-author="*teker*" data-date="2015-06-23T02:15:09+00:00" data-subject="Re: Changelog 2015-06-22">
 
 Forgot to mention that I updated greater refresh - it should default to self if no target is specified.
 
@@ -32,13 +32,13 @@ I'm also working on memorize and ioun stones.  Would be curious to know what spe
 
 </div>
 
-<div class="post" data-post-id="35958" data-author="Marvel" data-date="2015-06-23T13:45:04+00:00">
+<div class="post" data-post-id="35958" data-author="Marvel" data-date="2015-06-23T13:45:04+00:00" data-subject="Re: Changelog 2015-06-22">
 
 I used to memorize mirror image, haste, and reflection as well.
 
 </div>
 
-<div class="post" data-post-id="35959" data-author="Ker" data-date="2015-06-23T14:41:59+00:00">
+<div class="post" data-post-id="35959" data-author="Ker" data-date="2015-06-23T14:41:59+00:00" data-subject="Re: Changelog 2015-06-22">
 
 Would be great if we could check spells memorized asleep. This has been on debate for eons.
 
@@ -50,7 +50,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="35961" data-author="*Breeze*" data-date="2015-06-23T20:03:05+00:00">
+<div class="post" data-post-id="35961" data-author="*Breeze*" data-date="2015-06-23T20:03:05+00:00" data-subject="Re: Changelog 2015-06-22">
 
 > **Ker wrote:**
 > Would be great if we could check spells memorized asleep. 
@@ -67,7 +67,7 @@ Teker already added that. Should be live
 
 </div>
 
-<div class="post" data-post-id="35962" data-author="*teker*" data-date="2015-06-23T20:18:52+00:00">
+<div class="post" data-post-id="35962" data-author="*teker*" data-date="2015-06-23T20:18:52+00:00" data-subject="Re: Changelog 2015-06-22">
 
 > ***Breeze* wrote:**
 > Teker already added that. Should be live
@@ -76,7 +76,7 @@ Ooops, it is live accidentally.  "mem" and "mem clear" will both work while slee
 
 </div>
 
-<div class="post" data-post-id="35963" data-author="Ker" data-date="2015-06-24T12:35:07+00:00">
+<div class="post" data-post-id="35963" data-author="Ker" data-date="2015-06-24T12:35:07+00:00" data-subject="Re: Changelog 2015-06-22">
 
 Awesomeeeeeeeee <3
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 26
 ---
 
-<div class="post" data-post-id="15398" data-author="*juggleblood*" data-date="2006-12-01T10:13:16+00:00">
+<div class="post" data-post-id="15398" data-author="*juggleblood*" data-date="2006-12-01T10:13:16+00:00" data-subject="EQ suggestions">
 
 I quit for a week and I don't like it. I guess I'm guilty of being a big premadonna. 
 
@@ -26,7 +26,7 @@ Rub
 
 </div>
 
-<div class="post" data-post-id="15399" data-author="Leaf" data-date="2006-12-01T11:39:59+00:00">
+<div class="post" data-post-id="15399" data-author="Leaf" data-date="2006-12-01T11:39:59+00:00" data-subject="">
 
 Hey Rub,
 
@@ -44,13 +44,13 @@ Then we can say add eq with +mana ect ....
 
 </div>
 
-<div class="post" data-post-id="15400" data-author="Weasel" data-date="2006-12-01T11:54:55+00:00">
+<div class="post" data-post-id="15400" data-author="Weasel" data-date="2006-12-01T11:54:55+00:00" data-subject="">
 
 Clasps of any sort always go down well.. although maybe in a location other than the usual neck, head or held high/low slots where there seems to be a relative abundance of clasps...
 
 </div>
 
-<div class="post" data-post-id="15401" data-author="*juggleblood*" data-date="2006-12-01T12:17:59+00:00">
+<div class="post" data-post-id="15401" data-author="*juggleblood*" data-date="2006-12-01T12:17:59+00:00" data-subject="">
 
 Hey Rub,
 
@@ -66,7 +66,7 @@ Feel free to make suggestions for any kind of eq. There are numerous mobs of dif
 
 </div>
 
-<div class="post" data-post-id="15402" data-author="13" data-date="2006-12-01T12:34:06+00:00">
+<div class="post" data-post-id="15402" data-author="13" data-date="2006-12-01T12:34:06+00:00" data-subject="">
 
 yeah clasps with real stats please
 
@@ -74,7 +74,7 @@ and not in the high/low/neck/head/chest slots plz
 
 </div>
 
-<div class="post" data-post-id="15403" data-author="Elsie" data-date="2006-12-01T13:38:20+00:00">
+<div class="post" data-post-id="15403" data-author="Elsie" data-date="2006-12-01T13:38:20+00:00" data-subject="">
 
 The one thing I think is lacking from the game is good ac legwear.
 
@@ -102,7 +102,7 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="15405" data-author="Rajil" data-date="2006-12-01T15:16:08+00:00">
+<div class="post" data-post-id="15405" data-author="Rajil" data-date="2006-12-01T15:16:08+00:00" data-subject="">
 
 So far, the +3 hand dam prime monk gloves pop on only one mob, AFAIK.
 
@@ -110,7 +110,7 @@ An alternative would be nice.
 
 </div>
 
-<div class="post" data-post-id="15406" data-author="Jag" data-date="2006-12-01T16:25:12+00:00">
+<div class="post" data-post-id="15406" data-author="Jag" data-date="2006-12-01T16:25:12+00:00" data-subject="EQ sugg.">
 
 May I suggest a  piece of eq for warriors with new classo's?
 
@@ -122,19 +122,19 @@ Worn Bloody Coif  -0.8, +1 str, MW prime.
 
 </div>
 
-<div class="post" data-post-id="15407" data-author="13" data-date="2006-12-01T16:51:26+00:00">
+<div class="post" data-post-id="15407" data-author="13" data-date="2006-12-01T16:51:26+00:00" data-subject="">
 
 heh coif is on your head
 
 </div>
 
-<div class="post" data-post-id="15409" data-author="Jag" data-date="2006-12-01T18:03:11+00:00">
+<div class="post" data-post-id="15409" data-author="Jag" data-date="2006-12-01T18:03:11+00:00" data-subject="On your head :)">
 
 Coif is also used to refer to mail that covers the neck area and under a helmet.
 
 </div>
 
-<div class="post" data-post-id="15410" data-author="Alberich" data-date="2006-12-01T18:08:06+00:00">
+<div class="post" data-post-id="15410" data-author="Alberich" data-date="2006-12-01T18:08:06+00:00" data-subject="">
 
 last time i checked, what was under a helmet, was a head
 
@@ -146,7 +146,7 @@ also, duping one of the best forged guards into poppable eq = horrible idea
 
 </div>
 
-<div class="post" data-post-id="15411" data-author="Jag" data-date="2006-12-01T19:21:55+00:00">
+<div class="post" data-post-id="15411" data-author="Jag" data-date="2006-12-01T19:21:55+00:00" data-subject="Nice Picture">
 
 Exactly what I was trying to describe, mail that covers head and neck area.  
 
@@ -154,7 +154,7 @@ What forge are you refering to?
 
 </div>
 
-<div class="post" data-post-id="15412" data-author="Alberich" data-date="2006-12-01T19:48:42+00:00">
+<div class="post" data-post-id="15412" data-author="Alberich" data-date="2006-12-01T19:48:42+00:00" data-subject="">
 
 maul guards, the -.8 +str ones :P
 
@@ -164,7 +164,7 @@ not to mention that all the other coifs currently ingame are worn on head :)
 
 </div>
 
-<div class="post" data-post-id="15413" data-author="Jag" data-date="2006-12-01T20:01:08+00:00">
+<div class="post" data-post-id="15413" data-author="Jag" data-date="2006-12-01T20:01:08+00:00" data-subject="Not for war">
 
 My suggestion was for a warrior neck eq. for warriars that have new classo.
 
@@ -172,25 +172,25 @@ Maul Titan Guards are for thieves, once again making the point there is no regul
 
 </div>
 
-<div class="post" data-post-id="15414" data-author="kjartan" data-date="2006-12-01T20:48:53+00:00">
+<div class="post" data-post-id="15414" data-author="kjartan" data-date="2006-12-01T20:48:53+00:00" data-subject="">
 
 A little googling reveals that the part of a coif that covers the neck, if found separately from the head part, is called an aventail or camail.  Similar armor made of plate rather than chain is a gorget.  Before the invention of gorgets and aventails, torcs were worn for neck protection, but it's not clear whether they did any good.
 
 </div>
 
-<div class="post" data-post-id="15415" data-author="13" data-date="2006-12-01T20:49:46+00:00">
+<div class="post" data-post-id="15415" data-author="13" data-date="2006-12-01T20:49:46+00:00" data-subject="">
 
 wars roll str first, any one that needs str gear is a pos warrior.
 
 </div>
 
-<div class="post" data-post-id="15416" data-author="Vixn" data-date="2006-12-01T21:22:02+00:00">
+<div class="post" data-post-id="15416" data-author="Vixn" data-date="2006-12-01T21:22:02+00:00" data-subject="">
 
 hey, it's Autolycos on the photo!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="15417" data-author="Krok" data-date="2006-12-02T04:37:05+00:00">
+<div class="post" data-post-id="15417" data-author="Krok" data-date="2006-12-02T04:37:05+00:00" data-subject="">
 
 +5 hp or mana clasp (might be a forge)
 
@@ -198,7 +198,7 @@ hey, it's Autolycos on the photo!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="15418" data-author="Guinex" data-date="2006-12-02T06:51:33+00:00">
+<div class="post" data-post-id="15418" data-author="Guinex" data-date="2006-12-02T06:51:33+00:00" data-subject="">
 
 new item slot (worn around body (aura)) the 1337 aura of necrophiliac pwnage.
 
@@ -210,13 +210,13 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="15419" data-author="Krok" data-date="2006-12-02T07:13:47+00:00">
+<div class="post" data-post-id="15419" data-author="Krok" data-date="2006-12-02T07:13:47+00:00" data-subject="">
 
 Damn, 15 is weak. Make it 20.
 
 </div>
 
-<div class="post" data-post-id="15420" data-author="Rajil" data-date="2006-12-02T08:25:51+00:00">
+<div class="post" data-post-id="15420" data-author="Rajil" data-date="2006-12-02T08:25:51+00:00" data-subject="">
 
 1337 aura of necrophiliac pwnage...
 
@@ -228,13 +228,13 @@ DAMN YOU GUINEX :(
 
 </div>
 
-<div class="post" data-post-id="15421" data-author="Krok" data-date="2006-12-02T09:01:22+00:00">
+<div class="post" data-post-id="15421" data-author="Krok" data-date="2006-12-02T09:01:22+00:00" data-subject="">
 
 Master Guinex sure knows the true undead love.
 
 </div>
 
-<div class="post" data-post-id="15422" data-author="Vixn" data-date="2006-12-02T11:36:32+00:00">
+<div class="post" data-post-id="15422" data-author="Vixn" data-date="2006-12-02T11:36:32+00:00" data-subject="">
 
 Lob's Favorite Helm -1.0ac, -4 wis, perma hide, immune to fire/cold
 
@@ -242,13 +242,13 @@ I need it badly cause I still can accidentally raise Lob.
 
 </div>
 
-<div class="post" data-post-id="15423" data-author="Krok" data-date="2006-12-02T12:59:47+00:00">
+<div class="post" data-post-id="15423" data-author="Krok" data-date="2006-12-02T12:59:47+00:00" data-subject="">
 
 Edd, stop acting like a child. Just let him corpse!
 
 </div>
 
-<div class="post" data-post-id="15425" data-author="Roadrunr" data-date="2006-12-02T23:00:27+00:00">
+<div class="post" data-post-id="15425" data-author="Roadrunr" data-date="2006-12-02T23:00:27+00:00" data-subject="">
 
 wars roll str first, any one that needs str gear is a pos warrior.[/quote:33czsvsp]
 
@@ -258,7 +258,7 @@ I'm gonna go cry in a corner now thanks.
 
 </div>
 
-<div class="post" data-post-id="15426" data-author="13" data-date="2006-12-03T01:20:07+00:00">
+<div class="post" data-post-id="15426" data-author="13" data-date="2006-12-03T01:20:07+00:00" data-subject="">
 
 Just doing my job RR.
 

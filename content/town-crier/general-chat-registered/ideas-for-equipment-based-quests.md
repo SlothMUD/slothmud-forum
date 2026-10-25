@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38177" data-author="Hermoon" data-date="2017-03-28T16:34:44+00:00">
+<div class="post" data-post-id="38177" data-author="Hermoon" data-date="2017-03-28T16:34:44+00:00" data-subject="Ideas for Equipment Based Quests">
 
 Here are two simple quests that would be easy to organise:
 

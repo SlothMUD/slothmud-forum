@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="18197" data-author="Akasha" data-date="2007-04-27T06:07:44+00:00">
+<div class="post" data-post-id="18197" data-author="Akasha" data-date="2007-04-27T06:07:44+00:00" data-subject="We&#x27;re off to see the wizard">
 
 the not so friendly wizard of oz.. alternate ending by Mad TV
 

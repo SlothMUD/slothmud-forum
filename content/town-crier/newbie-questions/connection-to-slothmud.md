@@ -10,19 +10,19 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="24716" data-author="Gold-Dragon" data-date="2008-06-03T03:48:12+00:00">
+<div class="post" data-post-id="24716" data-author="Gold-Dragon" data-date="2008-06-03T03:48:12+00:00" data-subject="Connection to SlothMud">
 
 I have a MudClient called JMC and I can't understand how to connect to Sloth. Also I tried to connect by Tinnet, but i can't write anything. Client in the begginig ask my name and I can't type it, I don't know why :( . Can somebody help?
 
 </div>
 
-<div class="post" data-post-id="24717" data-author="Gold-Dragon" data-date="2008-06-03T03:52:23+00:00">
+<div class="post" data-post-id="24717" data-author="Gold-Dragon" data-date="2008-06-03T03:52:23+00:00" data-subject="Re: Connection to SlothMud">
 
 I have a MudClient called JMC and I can't understand how to connect to Sloth. Also I tried to connect by Telnet(I made an error :) ), but i can't write anything. Client in the begginig ask my name and I can't type it, I don't know why :( . Can somebody help?
 
 </div>
 
-<div class="post" data-post-id="24718" data-author="jezer" data-date="2008-06-03T03:55:37+00:00">
+<div class="post" data-post-id="24718" data-author="jezer" data-date="2008-06-03T03:55:37+00:00" data-subject="">
 
 Hey Gold Dragon...
 
@@ -40,7 +40,7 @@ If that doesn't connect to slothmud... then it's NOT your client, but your conne
 
 </div>
 
-<div class="post" data-post-id="24720" data-author="stun" data-date="2008-06-03T07:21:06+00:00">
+<div class="post" data-post-id="24720" data-author="stun" data-date="2008-06-03T07:21:06+00:00" data-subject="">
 
 #alias {sloth} {#connect slothmud.org 6101}
 
@@ -48,7 +48,7 @@ just type sloth to connect
 
 </div>
 
-<div class="post" data-post-id="24722" data-author="Gold-Dragon" data-date="2008-06-03T11:11:22+00:00">
+<div class="post" data-post-id="24722" data-author="Gold-Dragon" data-date="2008-06-03T11:11:22+00:00" data-subject="">
 
 #alias {sloth} {#connect slothmud.org 6101}
 

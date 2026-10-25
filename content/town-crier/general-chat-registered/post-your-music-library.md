@@ -10,7 +10,7 @@ locked: false
 post_count: 50
 ---
 
-<div class="post" data-post-id="15875" data-author="13" data-date="2007-01-01T01:56:02+00:00">
+<div class="post" data-post-id="15875" data-author="13" data-date="2007-01-01T01:56:02+00:00" data-subject="Post your music library">
 
 Here's mine
 
@@ -2338,7 +2338,7 @@ Right-click here to save this HTML file.
 
 </div>
 
-<div class="post" data-post-id="15876" data-author="13" data-date="2007-01-01T02:01:36+00:00">
+<div class="post" data-post-id="15876" data-author="13" data-date="2007-01-01T02:01:36+00:00" data-subject="">
 
 part 2
 
@@ -4728,7 +4728,7 @@ it was truncated
 
 </div>
 
-<div class="post" data-post-id="15877" data-author="13" data-date="2007-01-01T02:08:08+00:00">
+<div class="post" data-post-id="15877" data-author="13" data-date="2007-01-01T02:08:08+00:00" data-subject="">
 
 part 3
 
@@ -7078,13 +7078,13 @@ part 3
 
 </div>
 
-<div class="post" data-post-id="15878" data-author="13" data-date="2007-01-01T02:09:45+00:00">
+<div class="post" data-post-id="15878" data-author="13" data-date="2007-01-01T02:09:45+00:00" data-subject="">
 
 fuck, theres more but im too lazy to make another post
 
 </div>
 
-<div class="post" data-post-id="15879" data-author="Hades" data-date="2007-01-01T02:32:31+00:00">
+<div class="post" data-post-id="15879" data-author="Hades" data-date="2007-01-01T02:32:31+00:00" data-subject="Strokin">
 
 No CCR :evil: 
 
@@ -7096,19 +7096,19 @@ and damn it.. no Willie? :twisted:
 
 </div>
 
-<div class="post" data-post-id="15880" data-author="Hades" data-date="2007-01-01T02:48:25+00:00">
+<div class="post" data-post-id="15880" data-author="Hades" data-date="2007-01-01T02:48:25+00:00" data-subject="13">
 
 No David Allen Coe :roll:
 
 </div>
 
-<div class="post" data-post-id="15883" data-author="Autolycos" data-date="2007-01-01T05:39:03+00:00">
+<div class="post" data-post-id="15883" data-author="Autolycos" data-date="2007-01-01T05:39:03+00:00" data-subject="">
 
 he didnt post the other cause it was all  backstreet boys, erin carter & the spicegirls  :twisted:
 
 </div>
 
-<div class="post" data-post-id="15884" data-author="13" data-date="2007-01-01T07:17:32+00:00">
+<div class="post" data-post-id="15884" data-author="13" data-date="2007-01-01T07:17:32+00:00" data-subject="">
 
 no DAC is a lie
 
@@ -7122,7 +7122,7 @@ the other is all ween and zappa..
 
 </div>
 
-<div class="post" data-post-id="15885" data-author="Hades" data-date="2007-01-01T11:58:41+00:00">
+<div class="post" data-post-id="15885" data-author="Hades" data-date="2007-01-01T11:58:41+00:00" data-subject="Lost soon to be classics">
 
 No Devo or Blue Man Group :x 
 
@@ -7130,25 +7130,25 @@ Maybe you should start over from scratch :?:
 
 </div>
 
-<div class="post" data-post-id="15887" data-author="13" data-date="2007-01-01T15:55:29+00:00">
+<div class="post" data-post-id="15887" data-author="13" data-date="2007-01-01T15:55:29+00:00" data-subject="">
 
 post your library hades
 
 </div>
 
-<div class="post" data-post-id="15888" data-author="12345" data-date="2007-01-01T18:38:44+00:00">
+<div class="post" data-post-id="15888" data-author="12345" data-date="2007-01-01T18:38:44+00:00" data-subject="">
 
 The scary part is that Hades actually bothered to read that...
 
 </div>
 
-<div class="post" data-post-id="15893" data-author="Krok" data-date="2007-01-02T02:22:32+00:00">
+<div class="post" data-post-id="15893" data-author="Krok" data-date="2007-01-02T02:22:32+00:00" data-subject="">
 
 I love you, but I haven't read anythingb, I just made a search for "Britney" :))
 
 </div>
 
-<div class="post" data-post-id="15898" data-author="13" data-date="2007-01-02T14:49:53+00:00">
+<div class="post" data-post-id="15898" data-author="13" data-date="2007-01-02T14:49:53+00:00" data-subject="">
 
 you lazy turds wont even post your music?
 
@@ -7156,13 +7156,13 @@ jesus christ it takes like 30 secs
 
 </div>
 
-<div class="post" data-post-id="15899" data-author="Corinn" data-date="2007-01-02T16:33:11+00:00">
+<div class="post" data-post-id="15899" data-author="Corinn" data-date="2007-01-02T16:33:11+00:00" data-subject="">
 
 30 secs to you must be at least an hour for me.  I cant just copy/paste from my itunes to a text that makes any sort of sense without doing a lot of editing to get rid of a bunch of crap...
 
 </div>
 
-<div class="post" data-post-id="15907" data-author="13" data-date="2007-01-02T20:23:09+00:00">
+<div class="post" data-post-id="15907" data-author="13" data-date="2007-01-02T20:23:09+00:00" data-subject="">
 
 i use winamp
 
@@ -7174,7 +7174,7 @@ click it and generat ehtml playlist file :)
 
 </div>
 
-<div class="post" data-post-id="15916" data-author="Corinn" data-date="2007-01-03T00:52:24+00:00">
+<div class="post" data-post-id="15916" data-author="Corinn" data-date="2007-01-03T00:52:24+00:00" data-subject="">
 
 Hello? Is This Thing On?	!!! Chk Chik Chick
 
@@ -10314,7 +10314,7 @@ Season of the Shark	Yo La Tengo
 
 </div>
 
-<div class="post" data-post-id="15921" data-author="Hades" data-date="2007-01-03T11:20:05+00:00">
+<div class="post" data-post-id="15921" data-author="Hades" data-date="2007-01-03T11:20:05+00:00" data-subject="Sigh">
 
 No Outkast No Offspring No Prsidents of the United States
 
@@ -10324,19 +10324,19 @@ WTF is wrong with you people?
 
 </div>
 
-<div class="post" data-post-id="15924" data-author="Autolycos" data-date="2007-01-03T13:14:48+00:00">
+<div class="post" data-post-id="15924" data-author="Autolycos" data-date="2007-01-03T13:14:48+00:00" data-subject="">
 
 yeah..  but Bob Marley is the 3rd on the list.. not too shabby  :wink:
 
 </div>
 
-<div class="post" data-post-id="15925" data-author="Aleksey" data-date="2007-01-03T13:19:00+00:00">
+<div class="post" data-post-id="15925" data-author="Aleksey" data-date="2007-01-03T13:19:00+00:00" data-subject="">
 
 No Shyfutinskiy, No Luba Uspenskaia even no Alena Apina:D
 
 </div>
 
-<div class="post" data-post-id="15927" data-author="Corinn" data-date="2007-01-03T13:25:09+00:00">
+<div class="post" data-post-id="15927" data-author="Corinn" data-date="2007-01-03T13:25:09+00:00" data-subject="">
 
 yeah..  but Bob Marley is the 3rd on the list.. not too shabby  :wink:[/quote:2ysdw6kd]
 
@@ -10346,7 +10346,7 @@ I do have a couple of old offspring and PUSA, just havent put them on my compute
 
 </div>
 
-<div class="post" data-post-id="15935" data-author="13" data-date="2007-01-03T15:42:07+00:00">
+<div class="post" data-post-id="15935" data-author="13" data-date="2007-01-03T15:42:07+00:00" data-subject="">
 
 good rinn you get props for social D, morphine and the pogues.
 
@@ -10354,7 +10354,7 @@ now hades, show us what you got.
 
 </div>
 
-<div class="post" data-post-id="15952" data-author="Aleksey" data-date="2007-01-03T23:28:03+00:00">
+<div class="post" data-post-id="15952" data-author="Aleksey" data-date="2007-01-03T23:28:03+00:00" data-subject="">
 
 Got questions
 
@@ -10364,19 +10364,19 @@ Some one can classify "Dark Reality" in what style thay playing?
 
 </div>
 
-<div class="post" data-post-id="15955" data-author="13" data-date="2007-01-04T00:44:10+00:00">
+<div class="post" data-post-id="15955" data-author="13" data-date="2007-01-04T00:44:10+00:00" data-subject="">
 
 Dark Reality sounds like Goth to me Aleks, Im not sure about prison chanson style.
 
 </div>
 
-<div class="post" data-post-id="15961" data-author="brady" data-date="2007-01-04T08:33:58+00:00">
+<div class="post" data-post-id="15961" data-author="brady" data-date="2007-01-04T08:33:58+00:00" data-subject="">
 
 Good to see another proximity Canadian with a love for the Tragically Hip...good fishy!
 
 </div>
 
-<div class="post" data-post-id="15962" data-author="resouh" data-date="2007-01-04T09:35:18+00:00">
+<div class="post" data-post-id="15962" data-author="resouh" data-date="2007-01-04T09:35:18+00:00" data-subject="">
 
 sorry, gotta say prison chanson sounds a little too much like something I wouldn't want to discover while celled up w/ bubba......no chanson runnin, no chanson hell
 
@@ -10418,31 +10418,31 @@ Napalm Death
 
 </div>
 
-<div class="post" data-post-id="15975" data-author="brady" data-date="2007-01-04T18:23:02+00:00">
+<div class="post" data-post-id="15975" data-author="brady" data-date="2007-01-04T18:23:02+00:00" data-subject="">
 
 Anyone else sensing an anger management issue?
 
 </div>
 
-<div class="post" data-post-id="15978" data-author="13" data-date="2007-01-04T19:40:41+00:00">
+<div class="post" data-post-id="15978" data-author="13" data-date="2007-01-04T19:40:41+00:00" data-subject="">
 
 shut the fuck up brady, no ones fucking angry here
 
 </div>
 
-<div class="post" data-post-id="15982" data-author="*juggleblood*" data-date="2007-01-05T00:00:12+00:00">
+<div class="post" data-post-id="15982" data-author="*juggleblood*" data-date="2007-01-05T00:00:12+00:00" data-subject="">
 
 He must mean Hanson, not Chanson. Very good American music!
 
 </div>
 
-<div class="post" data-post-id="15983" data-author="13" data-date="2007-01-05T00:01:27+00:00">
+<div class="post" data-post-id="15983" data-author="13" data-date="2007-01-05T00:01:27+00:00" data-subject="">
 
 mmm bop?
 
 </div>
 
-<div class="post" data-post-id="19004" data-author="Hades" data-date="2007-06-20T22:28:53+00:00">
+<div class="post" data-post-id="19004" data-author="Hades" data-date="2007-06-20T22:28:53+00:00" data-subject="Sing, sing sweet sounds of the abyss">
 
 [<LINK_TEXT text="http://www.jesus-is-savior.com/sounds/s ... m_hell.mp3">http://www.jesus-is-savior.com/sounds/sounds_from_hell.mp3</LINK_TEXT>](http://www.jesus-is-savior.com/sounds/sounds_from_hell.mp3)
 
@@ -10450,7 +10450,7 @@ mmm bop?
 
 </div>
 
-<div class="post" data-post-id="19088" data-author="Hades" data-date="2007-06-27T01:30:40+00:00">
+<div class="post" data-post-id="19088" data-author="Hades" data-date="2007-06-27T01:30:40+00:00" data-subject="">
 
 1150. 10 Puff (The Magic Dragon).mp3 
 
@@ -10458,13 +10458,13 @@ You know what that song was really about, don't you?
 
 </div>
 
-<div class="post" data-post-id="19089" data-author="tincts" data-date="2007-06-27T01:51:57+00:00">
+<div class="post" data-post-id="19089" data-author="tincts" data-date="2007-06-27T01:51:57+00:00" data-subject="">
 
 Men performing felatio on other men?
 
 </div>
 
-<div class="post" data-post-id="19094" data-author="Alberich" data-date="2007-06-27T12:09:44+00:00">
+<div class="post" data-post-id="19094" data-author="Alberich" data-date="2007-06-27T12:09:44+00:00" data-subject="">
 
 not everything, just current playlist
 
@@ -10810,7 +10810,7 @@ not everything, just current playlist
 
 </div>
 
-<div class="post" data-post-id="19100" data-author="firebrand" data-date="2007-06-28T01:25:56+00:00">
+<div class="post" data-post-id="19100" data-author="firebrand" data-date="2007-06-28T01:25:56+00:00" data-subject="">
 
 Men performing felatio on other men?[/quote:3fotw097]
 
@@ -10820,7 +10820,7 @@ you say that like it's a bad thing!
 
 </div>
 
-<div class="post" data-post-id="19103" data-author="13" data-date="2007-06-28T08:45:53+00:00">
+<div class="post" data-post-id="19103" data-author="13" data-date="2007-06-28T08:45:53+00:00" data-subject="">
 
 this is just the heavy metal file
 
@@ -11762,7 +11762,7 @@ this is just the heavy metal file
 
 </div>
 
-<div class="post" data-post-id="19104" data-author="13" data-date="2007-06-28T08:47:36+00:00">
+<div class="post" data-post-id="19104" data-author="13" data-date="2007-06-28T08:47:36+00:00" data-subject="">
 
 and the punk/hardcore folder
 
@@ -12232,7 +12232,7 @@ and the punk/hardcore folder
 
 </div>
 
-<div class="post" data-post-id="19105" data-author="13" data-date="2007-06-28T08:50:06+00:00">
+<div class="post" data-post-id="19105" data-author="13" data-date="2007-06-28T08:50:06+00:00" data-subject="">
 
 the bluegrass folder
 
@@ -12942,7 +12942,7 @@ the bluegrass folder
 
 </div>
 
-<div class="post" data-post-id="19106" data-author="banedon" data-date="2007-06-28T16:32:42+00:00">
+<div class="post" data-post-id="19106" data-author="banedon" data-date="2007-06-28T16:32:42+00:00" data-subject="">
 
 162. Fugazi - Waiting Room (2:53)
 
@@ -12976,13 +12976,13 @@ Until I saw this I thought I was about the only person on Earth who remembered F
 
 </div>
 
-<div class="post" data-post-id="19108" data-author="resouh" data-date="2007-06-29T00:17:44+00:00">
+<div class="post" data-post-id="19108" data-author="resouh" data-date="2007-06-29T00:17:44+00:00" data-subject="">
 
 Just out of curiousity 13, do you ever listen to floater?
 
 </div>
 
-<div class="post" data-post-id="19109" data-author="13" data-date="2007-06-29T01:06:05+00:00">
+<div class="post" data-post-id="19109" data-author="13" data-date="2007-06-29T01:06:05+00:00" data-subject="">
 
 I've never heard floater, what is it?
 
@@ -12994,7 +12994,7 @@ one of the best tunes ever, I'm down with the minor threat too
 
 </div>
 
-<div class="post" data-post-id="19110" data-author="Weasel" data-date="2007-06-29T03:38:24+00:00">
+<div class="post" data-post-id="19110" data-author="Weasel" data-date="2007-06-29T03:38:24+00:00" data-subject="">
 
 I've never heard floater, what is it?[/quote:qgy6lg73]
 
@@ -13008,7 +13008,7 @@ There's yer floater.
 
 </div>
 
-<div class="post" data-post-id="19111" data-author="alias" data-date="2007-06-29T13:46:06+00:00">
+<div class="post" data-post-id="19111" data-author="alias" data-date="2007-06-29T13:46:06+00:00" data-subject="">
 
 I just try to promote the mud so I only really listen to NSYNC.
 
@@ -13024,7 +13024,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="19112" data-author="Autolycos" data-date="2007-06-29T14:01:13+00:00">
+<div class="post" data-post-id="19112" data-author="Autolycos" data-date="2007-06-29T14:01:13+00:00" data-subject="">
 
 ..oh, one more thing.. if its got eyes, don't flush.  
 
@@ -13036,7 +13036,7 @@ Oh yeah... you're in NYC.. that's the C.H.U.D. breeding capitol of the world!   
 
 </div>
 
-<div class="post" data-post-id="19113" data-author="brady" data-date="2007-06-29T15:24:37+00:00">
+<div class="post" data-post-id="19113" data-author="brady" data-date="2007-06-29T15:24:37+00:00" data-subject="">
 
 I just try to promote the mud so I only really listen to NSYNC.  Brady is the only one I know here in a band so I just listen to him. Alias[/quote:1chfuzjx]
 
@@ -13044,7 +13044,7 @@ Are you sure you aren't the biggest fan?
 
 </div>
 
-<div class="post" data-post-id="19123" data-author="resouh" data-date="2007-06-30T07:50:21+00:00">
+<div class="post" data-post-id="19123" data-author="resouh" data-date="2007-06-30T07:50:21+00:00" data-subject="">
 
 floater is hmmm....I would call it irish punk.....sort of like flogging molly or drop kick murphys.  I saw you had some punk listed and your avatar is of course the misfits wanted to see if you'd heard of em....i.e. 'sad ballad of danny boy' <---good song
 
@@ -13052,19 +13052,19 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="19125" data-author="13" data-date="2007-06-30T13:00:54+00:00">
+<div class="post" data-post-id="19125" data-author="13" data-date="2007-06-30T13:00:54+00:00" data-subject="">
 
 Hrm, no I haven't heard of them but I enjoy the Pogues quite a bit.
 
 </div>
 
-<div class="post" data-post-id="19126" data-author="Weasel" data-date="2007-06-30T13:02:31+00:00">
+<div class="post" data-post-id="19126" data-author="Weasel" data-date="2007-06-30T13:02:31+00:00" data-subject="">
 
 ahh Pogues :)  Dirty Old Town and CHristmas Tale (err.. fairytale of New York it's called).. old favorites. Used to have Rum Sodomy and The Lash album.. guess someone stole it somewhere along the line.
 
 </div>
 
-<div class="post" data-post-id="19127" data-author="alias" data-date="2007-06-30T15:00:59+00:00">
+<div class="post" data-post-id="19127" data-author="alias" data-date="2007-06-30T15:00:59+00:00" data-subject="">
 
 If I'm not your biggest fan Lance, I'm right up there.
 
@@ -13072,13 +13072,13 @@ Bye-Bye-Bye.
 
 </div>
 
-<div class="post" data-post-id="19137" data-author="Yasik" data-date="2007-07-01T05:45:34+00:00">
+<div class="post" data-post-id="19137" data-author="Yasik" data-date="2007-07-01T05:45:34+00:00" data-subject="">
 
 [img:33bm0qqh]http://yasik.kiev.ua/MyDarkMusic.jpg[/img:33bm0qqh]
 
 </div>
 
-<div class="post" data-post-id="19140" data-author="13" data-date="2007-07-01T12:51:30+00:00">
+<div class="post" data-post-id="19140" data-author="13" data-date="2007-07-01T12:51:30+00:00" data-subject="">
 
 nice spelling of downloads
 

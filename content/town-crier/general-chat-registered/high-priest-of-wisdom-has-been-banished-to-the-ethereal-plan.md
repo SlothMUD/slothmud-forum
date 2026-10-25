@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="39269" data-author="Gorka" data-date="2019-07-15T19:57:37+00:00">
+<div class="post" data-post-id="39269" data-author="Gorka" data-date="2019-07-15T19:57:37+00:00" data-subject="High Priest of Wisdom has been banished to the ethereal plan">
 
 This thread is a spinoff from the Rebirth Shop thread where I called the new gauntlets of fury overpowered.
 
@@ -220,7 +220,7 @@ BTW: The simple solution to this new problem is to give all shop keepers reflect
 
 </div>
 
-<div class="post" data-post-id="39270" data-author="Driven" data-date="2019-07-15T21:09:38+00:00">
+<div class="post" data-post-id="39270" data-author="Driven" data-date="2019-07-15T21:09:38+00:00" data-subject="Re: High Priest of Wisdom has been banished to the ethereal">
 
 The gauntlets should not be usable in a safe room... I will fix.  The gauntlets themselves are a couple thousand lines of code... anything this complicated is going to have some bugs sneak through.  In the future please just let me know what the bugs are right away so I can fix them, or the powers that be will simply stop allowing cool stuff like this to be put into the game.
 
@@ -232,7 +232,7 @@ And I will lock down the item so it can't be unleashed in the coliseum.
 
 </div>
 
-<div class="post" data-post-id="39272" data-author="Gorka" data-date="2019-07-15T21:39:35+00:00">
+<div class="post" data-post-id="39272" data-author="Gorka" data-date="2019-07-15T21:39:35+00:00" data-subject="Re: High Priest of Wisdom has been banished to the ethereal">
 
 I had informed Breeze of the exploit, because I had asked him if I would be able to try and kill the keeper under his supervision... as it's every players dream. We kept missing each other online and getting a chance to talk about it and test it. Usually I would have just told you... Because this discussion happened on the forum, I took the liberty and then emailed Breeze and Nep. Breeze has been busy in r/l. I've being waiting over 2 weeks to do it. I figured the other players were way off getting there gaunts to lvl 10, and also probably hadn't thought about it.
 
@@ -242,7 +242,7 @@ In a perfect world, shop keepers shouldn't really be mobs in the first place... 
 
 </div>
 
-<div class="post" data-post-id="39274" data-author="Gorka" data-date="2019-07-15T23:05:44+00:00">
+<div class="post" data-post-id="39274" data-author="Gorka" data-date="2019-07-15T23:05:44+00:00" data-subject="Re: High Priest of Wisdom has been banished to the ethereal">
 
 > **Quote:**
 > * You can build seemingly unlimited procs.
@@ -273,13 +273,13 @@ I just don't see, how you can not see how powerful these things are. Why people 
 
 </div>
 
-<div class="post" data-post-id="39275" data-author="Driven" data-date="2019-07-16T00:09:57+00:00">
+<div class="post" data-post-id="39275" data-author="Driven" data-date="2019-07-16T00:09:57+00:00" data-subject="Re: High Priest of Wisdom has been banished to the ethereal ">
 
 Gauntlets are fixed for both safe rooms and the coliseum.  Please let me know if the fixes look incomplete or you think of any other loopholes.
 
 </div>
 
-<div class="post" data-post-id="39277" data-author="cyprimus" data-date="2019-07-16T04:24:35+00:00">
+<div class="post" data-post-id="39277" data-author="cyprimus" data-date="2019-07-16T04:24:35+00:00" data-subject="Re: High Priest of Wisdom has been banished to the ethereal ">
 
 Yes, i agree gorka. mages are evil.
 
@@ -301,7 +301,7 @@ GL
 
 </div>
 
-<div class="post" data-post-id="39282" data-author="Josiah" data-date="2019-07-17T15:45:25+00:00">
+<div class="post" data-post-id="39282" data-author="Josiah" data-date="2019-07-17T15:45:25+00:00" data-subject="Re: High Priest of Wisdom has been banished to the ethereal ">
 
 Congrats, brave sir Gorka.
 
@@ -311,7 +311,7 @@ The easiest fix for every method I can think of is to add ethereal and the Arcan
 
 </div>
 
-<div class="post" data-post-id="39283" data-author="Gorka" data-date="2019-07-17T17:05:59+00:00">
+<div class="post" data-post-id="39283" data-author="Gorka" data-date="2019-07-17T17:05:59+00:00" data-subject="Re: High Priest of Wisdom has been banished to the ethereal">
 
 Thanks Josiah, yes there are at least two other ways I suspect I could get drachma shopkeepers to take damage. If their equipment is to be really safeguarded, they really shouldn't be mobs. Furthermore if these other ways did work they probably wouldn't be economical. I literally procced the high priest to death in a couple of minutes while Wind (the player) slept in the next room. If people like myself actually had a way to get small amounts of renewable drachma for hard work, maybe our minds wouldn't wander into these dark places in the first place. I don't think there is enough drachma left in the game at the moment for me to even buy the cheapest clasp. I'm totally reliant on imm run quests on the public holidays, which are fine, but I don't think 150 drachma received botting in a group for 2 hours encourages the type of players the game needs. Ideally drachma should be earned... not "soaked." I think Nep's token forge idea is a better way, where the reward is earned. Drachma for some of those old outdated forges is a great idea in my opinion.
 

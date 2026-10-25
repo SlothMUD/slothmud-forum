@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="21838" data-author="madmax" data-date="2008-01-02T03:17:49+00:00">
+<div class="post" data-post-id="21838" data-author="madmax" data-date="2008-01-02T03:17:49+00:00" data-subject="LOL - Fun Spam">
 
 As I was running a backup, I was idle and voided.. When I came back there is what I saw.
 
@@ -412,7 +412,7 @@ Holy SPAM Batman!
 
 </div>
 
-<div class="post" data-post-id="21839" data-author="Weasel" data-date="2008-01-02T04:12:40+00:00">
+<div class="post" data-post-id="21839" data-author="Weasel" data-date="2008-01-02T04:12:40+00:00" data-subject="">
 
 woozles got into the RedBull again huh..
 

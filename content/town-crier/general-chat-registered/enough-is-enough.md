@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="19046" data-author="van" data-date="2007-06-23T23:11:04+00:00">
+<div class="post" data-post-id="19046" data-author="van" data-date="2007-06-23T23:11:04+00:00" data-subject="Enough is enough">
 
 <705/1104hp 284/524ma 185/185mv -12.0ac -9al>
 
@@ -40,25 +40,25 @@ I hate echoing Firebrand, but what's the point of masterful casts now?  More to 
 
 </div>
 
-<div class="post" data-post-id="19047" data-author="Messiaen" data-date="2007-06-24T11:57:07+00:00">
+<div class="post" data-post-id="19047" data-author="Messiaen" data-date="2007-06-24T11:57:07+00:00" data-subject="">
 
 I've figured that covering the mob with acid makes no sense any more when you're soloing. On the other hand, soloing has became easier now, you don't have to do anything, just spam blast and go afk
 
 </div>
 
-<div class="post" data-post-id="19048" data-author="13" data-date="2007-06-24T13:40:04+00:00">
+<div class="post" data-post-id="19048" data-author="13" data-date="2007-06-24T13:40:04+00:00" data-subject="All the admins are gone">
 
 All the Admins are gone and don't care.  Sorry.
 
 </div>
 
-<div class="post" data-post-id="19049" data-author="Vixn" data-date="2007-06-24T15:05:33+00:00">
+<div class="post" data-post-id="19049" data-author="Vixn" data-date="2007-06-24T15:05:33+00:00" data-subject="">
 
 Good news. At least they won't *fix* spells anymore.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="19053" data-author="Hades" data-date="2007-06-24T19:36:12+00:00">
+<div class="post" data-post-id="19053" data-author="Hades" data-date="2007-06-24T19:36:12+00:00" data-subject="">
 
 13  	
 

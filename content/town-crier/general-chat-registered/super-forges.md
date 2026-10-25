@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="27711" data-author="jezer" data-date="2009-01-14T02:08:06+00:00">
+<div class="post" data-post-id="27711" data-author="jezer" data-date="2009-01-14T02:08:06+00:00" data-subject="Super Forges">
 
 My character is entering that "avatar end zone" where meager improvements can only be done through tedious drachma, tokens and honor. The thing I've enjoyed the most from sloth is forges on non Lyme continents... and basically... I've run out of these forges to do to improve my character... So my idea is too make more! :twisted:
 
@@ -36,25 +36,25 @@ All your really doing is cutting down on the eq we carry, rent costs, small incr
 
 </div>
 
-<div class="post" data-post-id="27712" data-author="Yasik2" data-date="2009-01-14T07:11:28+00:00">
+<div class="post" data-post-id="27712" data-author="Yasik2" data-date="2009-01-14T07:11:28+00:00" data-subject="">
 
 MAX AC SHIELD actually -1.3
 
 </div>
 
-<div class="post" data-post-id="27714" data-author="Sind" data-date="2009-01-14T16:47:36+00:00">
+<div class="post" data-post-id="27714" data-author="Sind" data-date="2009-01-14T16:47:36+00:00" data-subject="">
 
 tri40 axe + kris = happy me
 
 </div>
 
-<div class="post" data-post-id="27719" data-author="Dragoth" data-date="2009-01-14T21:10:23+00:00">
+<div class="post" data-post-id="27719" data-author="Dragoth" data-date="2009-01-14T21:10:23+00:00" data-subject="">
 
 :roll:
 
 </div>
 
-<div class="post" data-post-id="27720" data-author="Autolycos" data-date="2009-01-14T23:07:45+00:00">
+<div class="post" data-post-id="27720" data-author="Autolycos" data-date="2009-01-14T23:07:45+00:00" data-subject="Re: Super Forges">
 
 The forging/trade could be administered by Lyme Mayor[/quote:niedqvfe]
 
@@ -64,7 +64,7 @@ then you'd be pissed.
 
 </div>
 
-<div class="post" data-post-id="27721" data-author="Rynquald" data-date="2009-01-14T23:43:00+00:00">
+<div class="post" data-post-id="27721" data-author="Rynquald" data-date="2009-01-14T23:43:00+00:00" data-subject="">
 
 Could make him take bribes to be more careful in the form of XP tokens.
 
@@ -74,7 +74,7 @@ Edit: And now I think about it. If you give him too many tokens at once, he deci
 
 </div>
 
-<div class="post" data-post-id="27722" data-author="jezer" data-date="2009-01-15T00:05:24+00:00">
+<div class="post" data-post-id="27722" data-author="jezer" data-date="2009-01-15T00:05:24+00:00" data-subject="">
 
 I compiled a list of all the forges I want and still don't have...
 
@@ -108,7 +108,7 @@ To me, one of the most unique things about sloth... is it's long term players...
 
 </div>
 
-<div class="post" data-post-id="27723" data-author="Medios" data-date="2009-01-15T02:23:22+00:00">
+<div class="post" data-post-id="27723" data-author="Medios" data-date="2009-01-15T02:23:22+00:00" data-subject="">
 
 I hate to break it to you but your light years from Strider.  Just because you can solo some high level forges with overpowered druid shifts doesn't mean a whole lot.  This game has a lot more depth than just eq.  Now I will say that eq does mean a lot when it comes to the power of your char, but your having a hard time understanding why we work for that extra 5 mana/1mr.  The most important things in sloth are mr and damage.  These items come at a premium and usually earn eq the title "quest".  Many of us veteran players don't get butterflies in our stomach when we die or forge something new, we like sloth for the people and the relaxation of making fun of your posts.
 
@@ -116,7 +116,7 @@ What rank is Apprentice?  How many area openers have you led?  In which area hav
 
 </div>
 
-<div class="post" data-post-id="27724" data-author="jezer" data-date="2009-01-15T02:47:37+00:00">
+<div class="post" data-post-id="27724" data-author="jezer" data-date="2009-01-15T02:47:37+00:00" data-subject="">
 
 I know what your saying Mike, and your right.
 
@@ -132,7 +132,7 @@ Isn't Histachi a brand of vacuum cleaners? : p
 
 </div>
 
-<div class="post" data-post-id="27725" data-author="Weasel" data-date="2009-01-15T03:53:46+00:00">
+<div class="post" data-post-id="27725" data-author="Weasel" data-date="2009-01-15T03:53:46+00:00" data-subject="">
 
 What about teaching, thereby maxing your spells to 100%? That's a mission. Have you done all the drachma autoquests - I'm sure there's a few yet to be discovered, I've also heard there's some eq items here and there that have never been popped. Is that area off CG still open where you have to wear the breathing charm on your head? Honor rankings - how you doing there? Got perfect nat stats yet?
 
@@ -142,7 +142,7 @@ Or you can do a Toxis and start your own private army of characters. :)
 
 </div>
 
-<div class="post" data-post-id="27726" data-author="jezer" data-date="2009-01-15T04:36:23+00:00">
+<div class="post" data-post-id="27726" data-author="jezer" data-date="2009-01-15T04:36:23+00:00" data-subject="">
 
 Undeniable Weasel... there is plenty to do... plenty I have written down to do... but when I stop and analyze it... practically none of these things makes me more powerful... except buying mana... 
 
@@ -158,7 +158,7 @@ There is plenty to do once you reach SAv, one of those things isn't really eq...
 
 </div>
 
-<div class="post" data-post-id="27728" data-author="Bazilus" data-date="2009-01-15T07:39:26+00:00">
+<div class="post" data-post-id="27728" data-author="Bazilus" data-date="2009-01-15T07:39:26+00:00" data-subject="Enjoy SLoth">
 
 Enjoy Sloth, Apprentice. Wait new zones for new eqs. Till you wait, you can run autos, search for fun places in mud, explore... Help ppl with exp and eq. Lead groups. So much thing to have fun...
 
@@ -166,13 +166,13 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="27729" data-author="Yasik2" data-date="2009-01-15T10:50:11+00:00">
+<div class="post" data-post-id="27729" data-author="Yasik2" data-date="2009-01-15T10:50:11+00:00" data-subject="">
 
 this game is all about eq
 
 </div>
 
-<div class="post" data-post-id="27730" data-author="Dragoth" data-date="2009-01-15T11:30:28+00:00">
+<div class="post" data-post-id="27730" data-author="Dragoth" data-date="2009-01-15T11:30:28+00:00" data-subject="">
 
 The problem is, you won Apprentice. Every game has its beginning and an end.  At the end of the game You have exp tokens and stats to buy which should entertain your for the rest of your life but can only make you marginally stronger, but those margins add up over time. The problem is as a druid there isnt much that can make you more powerful except for maybe more mana regen.
 
@@ -182,7 +182,7 @@ If you just want to grow and become stronger as you did before avatar 40, im afr
 
 </div>
 
-<div class="post" data-post-id="27731" data-author="Teron" data-date="2009-01-15T14:06:46+00:00">
+<div class="post" data-post-id="27731" data-author="Teron" data-date="2009-01-15T14:06:46+00:00" data-subject="">
 
 As many have hinted before, fun comes from doing various things, not focusing on only one of them:
 
@@ -214,7 +214,7 @@ Also, you might as well try to find the char that you'd love playing not because
 
 </div>
 
-<div class="post" data-post-id="27747" data-author="brady" data-date="2009-01-16T13:29:34+00:00">
+<div class="post" data-post-id="27747" data-author="brady" data-date="2009-01-16T13:29:34+00:00" data-subject="">
 
 As many have hinted before, fun comes from doing various things, not focusing on only one of them:
 

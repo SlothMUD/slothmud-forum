@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="15841" data-author="brand" data-date="2006-12-29T14:25:36+00:00">
+<div class="post" data-post-id="15841" data-author="brand" data-date="2006-12-29T14:25:36+00:00" data-subject="skill">
 
 binge or gorge
 

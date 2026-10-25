@@ -10,7 +10,7 @@ locked: true
 post_count: 10
 ---
 
-<div class="post" data-post-id="35707" data-author="Teron" data-date="2015-02-26T21:25:46+00:00">
+<div class="post" data-post-id="35707" data-author="Teron" data-date="2015-02-26T21:25:46+00:00" data-subject="How to have fun in Newbatia as a newbie">
 
 You die before your time!
 
@@ -200,7 +200,7 @@ P.S. I regularly see newbie starting gear lying around at the South Gate, probab
 
 </div>
 
-<div class="post" data-post-id="35708" data-author="*Breeze*" data-date="2015-02-27T12:13:50+00:00">
+<div class="post" data-post-id="35708" data-author="*Breeze*" data-date="2015-02-27T12:13:50+00:00" data-subject="Re: How to have fun in Newbatia as a newbie">
 
 Splork disabled this proc today. 
 
@@ -210,7 +210,7 @@ Thanks for the report.
 
 </div>
 
-<div class="post" data-post-id="35709" data-author="Teron" data-date="2015-02-27T23:27:08+00:00">
+<div class="post" data-post-id="35709" data-author="Teron" data-date="2015-02-27T23:27:08+00:00" data-subject="Re: How to have fun in Newbatia as a newbie">
 
 I'm sure someone put it there with the best intentions.
 
@@ -218,13 +218,13 @@ Thank you for your work.
 
 </div>
 
-<div class="post" data-post-id="35710" data-author="*juggleblood*" data-date="2015-02-28T03:59:49+00:00">
+<div class="post" data-post-id="35710" data-author="*juggleblood*" data-date="2015-02-28T03:59:49+00:00" data-subject="Re: How to have fun in Newbatia as a newbie">
 
 You were the first "newbie" to eat it. Congrats.
 
 </div>
 
-<div class="post" data-post-id="35711" data-author="Teron" data-date="2015-02-28T04:38:56+00:00">
+<div class="post" data-post-id="35711" data-author="Teron" data-date="2015-02-28T04:38:56+00:00" data-subject="Re: How to have fun in Newbatia as a newbie">
 
 I'm pretty sure I wasnt the first one being attacked by the oaf, because I had to help a newbie finish it off.
 
@@ -232,7 +232,7 @@ Even though my automatic glance at the oaf does seem stupid, I wonder what's the
 
 </div>
 
-<div class="post" data-post-id="35712" data-author="*juggleblood*" data-date="2015-02-28T04:59:27+00:00">
+<div class="post" data-post-id="35712" data-author="*juggleblood*" data-date="2015-02-28T04:59:27+00:00" data-subject="Re: How to have fun in Newbatia as a newbie">
 
 Yeah, after discussing it with you online and you demanding I explain the benefit of the proc...
 
@@ -246,7 +246,7 @@ The part that annoyed me, was the incorrect implication on your part that south 
 
 </div>
 
-<div class="post" data-post-id="35713" data-author="*Breeze*" data-date="2015-02-28T09:00:23+00:00">
+<div class="post" data-post-id="35713" data-author="*Breeze*" data-date="2015-02-28T09:00:23+00:00" data-subject="Re: How to have fun in Newbatia as a newbie">
 
 > ***juggleblood* wrote:**
 > The benefit of the proc is seeing Taron dying to a level 8 mob with his 2x20 character and laughing at him.
@@ -255,7 +255,7 @@ Thanks for the laugh. I needed it. After the month I have had... Cousin getting 
 
 </div>
 
-<div class="post" data-post-id="35714" data-author="Teron" data-date="2015-02-28T09:16:37+00:00">
+<div class="post" data-post-id="35714" data-author="Teron" data-date="2015-02-28T09:16:37+00:00" data-subject="Re: How to have fun in Newbatia as a newbie">
 
 I didn't know that the oaf had a level check.
 
@@ -271,7 +271,7 @@ Though I do admit that that death was the last one in a chain of deaths, and los
 
 </div>
 
-<div class="post" data-post-id="35715" data-author="*Breeze*" data-date="2015-02-28T09:24:53+00:00">
+<div class="post" data-post-id="35715" data-author="*Breeze*" data-date="2015-02-28T09:24:53+00:00" data-subject="Re: How to have fun in Newbatia as a newbie">
 
 He has nothing to defend. He didn't write the proc and in fact did add a level check.
 
@@ -279,7 +279,7 @@ I myself would have probably set the level check to 1x20 but it's a stupid thing
 
 </div>
 
-<div class="post" data-post-id="35722" data-author="*Breeze*" data-date="2015-03-03T23:52:11+00:00">
+<div class="post" data-post-id="35722" data-author="*Breeze*" data-date="2015-03-03T23:52:11+00:00" data-subject="Re: How to have fun in Newbatia as a newbie">
 
 i guess someone didn't understand the its sorted so drop it and quit instigating subtle hint.
 

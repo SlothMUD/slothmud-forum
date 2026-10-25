@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35763" data-author="rebel" data-date="2015-03-16T19:28:29+00:00">
+<div class="post" data-post-id="35763" data-author="rebel" data-date="2015-03-16T19:28:29+00:00" data-subject="Fixing it till it breaks">
 
 Regarding the changes outlined in: [Newbie Fixes Hometown, aggro, and soon graveyard](http://www.slothmud.org/forum//viewtopic.php?t=4460) 
 
@@ -66,7 +66,7 @@ and will thus reduce the time I am able to be logged on and playing.
 
 </div>
 
-<div class="post" data-post-id="35764" data-author="*Splork*" data-date="2015-03-16T20:24:52+00:00">
+<div class="post" data-post-id="35764" data-author="*Splork*" data-date="2015-03-16T20:24:52+00:00" data-subject="Re: Fixing it till it breaks">
 
 Actually, there was quite a bit of debate regarding this change and its been brought up for a few month now.
 

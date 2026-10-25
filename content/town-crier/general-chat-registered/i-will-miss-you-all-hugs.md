@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="28706" data-author="Shyla" data-date="2009-04-11T01:30:59+00:00">
+<div class="post" data-post-id="28706" data-author="Shyla" data-date="2009-04-11T01:30:59+00:00" data-subject="I will miss you all HUGS">
 
 I have been playing here since 91 and probably would have been til I died snicker, but I just don't have the ability to level someone up again.  Ever since i got the optic neuritis in 06 my eyes have bothered me so much that I just can't really group anymore because I get headaches from it.  What I enjoyed was doing spellbooks and minor eq and stuff like that for newbies.  There really isn't a person on the mud that I haven't helped at one time or another.  But with this resetting of the mud I will not be able to do that which I loved.  I will miss you all dearly.  I still plan on logging on but just to talk really I don't have the ability to do much more.  Please know that it really was a lot of fun and I spent way too many hours doing this anyway.   
 
@@ -24,7 +24,7 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="28709" data-author="Weasel" data-date="2009-04-11T02:01:50+00:00">
+<div class="post" data-post-id="28709" data-author="Weasel" data-date="2009-04-11T02:01:50+00:00" data-subject="">
 
 Shyla, slothmud will never be the same without you. Judging from the posts, it's a full reset. Pretty ballsy thing for the admin to do - it's almost certainly a make or break for slothmud as a result. 
 
@@ -34,7 +34,7 @@ Game over man.
 
 </div>
 
-<div class="post" data-post-id="28710" data-author="brady" data-date="2009-04-11T02:07:23+00:00">
+<div class="post" data-post-id="28710" data-author="brady" data-date="2009-04-11T02:07:23+00:00" data-subject="Re: I will miss you all HUGS">
 
 What I enjoyed was doing spellbooks and minor eq and stuff like that for newbies.  There really isn't a person on the mud that I haven't helped at one time or another.  But with this resetting of the mud I will not be able to do that which I loved. [/quote:2dcjg6mb]
 
@@ -42,7 +42,7 @@ You were the kind mother of slothmud.  I'm with ya.  Best of luck to the players
 
 </div>
 
-<div class="post" data-post-id="28716" data-author="Yasik2" data-date="2009-04-11T02:42:14+00:00">
+<div class="post" data-post-id="28716" data-author="Yasik2" data-date="2009-04-11T02:42:14+00:00" data-subject="">
 
 Despite anything that may happen, I want you to know.
 
@@ -56,7 +56,7 @@ You are the most shiny example of our race in Universe' terms.
 
 </div>
 
-<div class="post" data-post-id="28719" data-author="Weasel" data-date="2009-04-11T02:48:51+00:00">
+<div class="post" data-post-id="28719" data-author="Weasel" data-date="2009-04-11T02:48:51+00:00" data-subject="">
 
 Shyla.. if you come back, I will.
 
@@ -68,25 +68,25 @@ Maybe this pathetic kid will do it for you:
 
 </div>
 
-<div class="post" data-post-id="28721" data-author="jezer" data-date="2009-04-11T02:50:03+00:00">
+<div class="post" data-post-id="28721" data-author="jezer" data-date="2009-04-11T02:50:03+00:00" data-subject="">
 
 Yeap, Shyla, some players will be remembered for what they achieved, and then others like yourself will be remembered for who they were. Character is everything. You were the true legend. All the best in however this pans out.
 
 </div>
 
-<div class="post" data-post-id="28725" data-author="angel" data-date="2009-04-11T02:57:28+00:00">
+<div class="post" data-post-id="28725" data-author="angel" data-date="2009-04-11T02:57:28+00:00" data-subject="">
 
 hugs deb, im retiring as u are:) gl hf and all the best to upcoming sloth
 
 </div>
 
-<div class="post" data-post-id="28728" data-author="Medios" data-date="2009-04-11T03:03:09+00:00">
+<div class="post" data-post-id="28728" data-author="Medios" data-date="2009-04-11T03:03:09+00:00" data-subject="">
 
 If Ba Dr stats give me another 9 str I will prob be retiring as well :)
 
 </div>
 
-<div class="post" data-post-id="28734" data-author="Rynquald" data-date="2009-04-11T03:35:07+00:00">
+<div class="post" data-post-id="28734" data-author="Rynquald" data-date="2009-04-11T03:35:07+00:00" data-subject="">
 
 Sloth3 wouldn't have been what it was without you Deb.
 
@@ -94,7 +94,7 @@ I hope you'll still be around in the new incarnation of the game. But if not, I 
 
 </div>
 
-<div class="post" data-post-id="28739" data-author="Shyla" data-date="2009-04-11T04:30:24+00:00">
+<div class="post" data-post-id="28739" data-author="Shyla" data-date="2009-04-11T04:30:24+00:00" data-subject="">
 
 i still plan on getting on to chat just probably not much more...you can get a hold of me on icq at 562319582
 
@@ -106,19 +106,19 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="28765" data-author="Virus" data-date="2009-04-11T13:36:12+00:00">
+<div class="post" data-post-id="28765" data-author="Virus" data-date="2009-04-11T13:36:12+00:00" data-subject="">
 
 I vote Shyla for Sloth player hall of fame....hope to see you around Deb.
 
 </div>
 
-<div class="post" data-post-id="28766" data-author="Turbo" data-date="2009-04-11T13:44:53+00:00">
+<div class="post" data-post-id="28766" data-author="Turbo" data-date="2009-04-11T13:44:53+00:00" data-subject="">
 
 Hey Deb I am out too, can't keep starting over.  Maybe we can start a mud for retirees :-)
 
 </div>
 
-<div class="post" data-post-id="28771" data-author="Sind" data-date="2009-04-11T14:52:34+00:00">
+<div class="post" data-post-id="28771" data-author="Sind" data-date="2009-04-11T14:52:34+00:00" data-subject="">
 
 I vote Shyla for Sloth player hall of fame....hope to see you around Deb.[/quote:19hqrds2]
 
@@ -126,7 +126,7 @@ gief back sloth museum :)
 
 </div>
 
-<div class="post" data-post-id="28795" data-author="Stryx" data-date="2009-04-11T18:13:24+00:00">
+<div class="post" data-post-id="28795" data-author="Stryx" data-date="2009-04-11T18:13:24+00:00" data-subject="">
 
 You stupid bloody noob, jesus dont you have a brain, why the hell would you go and do something like that!
 
@@ -136,7 +136,7 @@ It'll be nice to see you play again, you're probably one of the reasons SlothIII
 
 </div>
 
-<div class="post" data-post-id="28924" data-author="Weasel" data-date="2009-04-15T17:57:21+00:00">
+<div class="post" data-post-id="28924" data-author="Weasel" data-date="2009-04-15T17:57:21+00:00" data-subject="buh-bye mudders">
 
 Like Shyla, after logging in a couple of times I have (finally) come to the decision I just don't have the time or the inclination to start again from scratch. Don't get me wrong - there are no hard feelings about the reset at all, it just created an opportunity for me to make a personal decision, which is in no way a negative reflection on SlothMud itself. 
 
@@ -154,7 +154,7 @@ Out.
 
 </div>
 
-<div class="post" data-post-id="28927" data-author="*Splork*" data-date="2009-04-15T23:22:02+00:00">
+<div class="post" data-post-id="28927" data-author="*Splork*" data-date="2009-04-15T23:22:02+00:00" data-subject="">
 
 I hate to hear that someone is leaving because they just don't have the time to dedicate to Sloth anymore but if anyone understands, its me and several others here. 
 
@@ -186,7 +186,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28928" data-author="*Splork*" data-date="2009-04-15T23:25:26+00:00">
+<div class="post" data-post-id="28928" data-author="*Splork*" data-date="2009-04-15T23:25:26+00:00" data-subject="">
 
 I hate to hear that someone is leaving because they just don't have the time to dedicate to Sloth anymore but if anyone understands, its me and several others here. 
 
@@ -218,7 +218,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28929" data-author="Shyla" data-date="2009-04-16T00:26:07+00:00">
+<div class="post" data-post-id="28929" data-author="Shyla" data-date="2009-04-16T00:26:07+00:00" data-subject="">
 
 Oh i am getting on and doing a very little, but my problem isn't about time I have time at least for the next week while I am still on medical leave.  My problem is I can't do big groups b/c my eyes can't take it it gives me headaches.  And because of that I will never have the levels to do what I really loved doing which was popping spellbooks relocating them to newbies...moving newbies and dowsing and teaching.
 
@@ -234,7 +234,7 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="28936" data-author="Thraxas" data-date="2009-04-16T14:38:18+00:00">
+<div class="post" data-post-id="28936" data-author="Thraxas" data-date="2009-04-16T14:38:18+00:00" data-subject="">
 
 I don't know of a player on sloth over the past few years that hasn't been helped by Shyla, I don't know of any player that dosen't have respect / admiration for her.
 

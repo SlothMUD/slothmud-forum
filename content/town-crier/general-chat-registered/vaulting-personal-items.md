@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="38255" data-author="Gorka" data-date="2017-05-28T10:14:09+00:00">
+<div class="post" data-post-id="38255" data-author="Gorka" data-date="2017-05-28T10:14:09+00:00" data-subject="Vaulting Personal Items">
 
 I was cycling in Herbalist the other day, and got sick of being infected with "slur." So I ran back to my vaults and pulled out my emerald serpent brooches. Now I do have a couple of alts so I had more than one emerald serpent brooch in my vault. It's not possible to identify which brooch is personalized to which alt in the vault, so when I pulled out a personalized item not belonging to that character, only that character can deposit it again. Annoying... and once again you suffer rent penalties to switch, you loose beacons... and other 1st world problems.
 
@@ -18,7 +18,7 @@ I'm not sure why the game works this way? Is there good reason? Is this idea jus
 
 </div>
 
-<div class="post" data-post-id="38256" data-author="*teker*" data-date="2017-05-28T17:33:26+00:00">
+<div class="post" data-post-id="38256" data-author="*teker*" data-date="2017-05-28T17:33:26+00:00" data-subject="Re: Vaulting Personal Items">
 
 From what I've seen, the personal flag is basically a way to stop people from pooling drachma and sharing 3x40 and drachma equipment.  I'm not sure what other purpose there is at this point.
 
@@ -26,7 +26,7 @@ With respect to vaults, I can do a couple things: show the personal owner of eac
 
 </div>
 
-<div class="post" data-post-id="38257" data-author="Gorka" data-date="2017-05-28T19:24:02+00:00">
+<div class="post" data-post-id="38257" data-author="Gorka" data-date="2017-05-28T19:24:02+00:00" data-subject="Re: Vaulting Personal Items">
 
 > **Quote:**
 > show the personal owner of each item in the list and make it so that you can't withdraw someone else's personal item.
@@ -35,7 +35,7 @@ That would be great!
 
 </div>
 
-<div class="post" data-post-id="38258" data-author="*teker*" data-date="2017-05-28T23:02:46+00:00">
+<div class="post" data-post-id="38258" data-author="*teker*" data-date="2017-05-28T23:02:46+00:00" data-subject="Re: Vaulting Personal Items">
 
 Ok, I've added those two items in the next reboot.  In addition:
 
@@ -45,7 +45,7 @@ Ok, I've added those two items in the next reboot.  In addition:
 
 </div>
 
-<div class="post" data-post-id="38259" data-author="Filk" data-date="2017-05-29T02:35:16+00:00">
+<div class="post" data-post-id="38259" data-author="Filk" data-date="2017-05-29T02:35:16+00:00" data-subject="Re: Vaulting Personal Items">
 
 > ***teker* wrote:**
 > it provides another mechanism for transferring money between players.
@@ -56,7 +56,7 @@ Maybe while on that tune, its time to remove online check for usual bank money s
 
 </div>
 
-<div class="post" data-post-id="38260" data-author="Teron" data-date="2017-05-29T08:40:40+00:00">
+<div class="post" data-post-id="38260" data-author="Teron" data-date="2017-05-29T08:40:40+00:00" data-subject="Re: Vaulting Personal Items">
 
 Thanks. Just at this moment I am carrying a friend's personal item I took.
 
@@ -64,13 +64,13 @@ And there are 3 more personal items with the same name in my different vaults.
 
 </div>
 
-<div class="post" data-post-id="38261" data-author="jarlaxle" data-date="2017-05-31T00:49:53+00:00">
+<div class="post" data-post-id="38261" data-author="jarlaxle" data-date="2017-05-31T00:49:53+00:00" data-subject="Re: Vaulting Personal Items">
 
 Personal Items should be a thing of the past if you put in the time to get something is it really that bad to sell or share it?  The game has limited player base already will continue to shrink keeping core players shouldn't be a penalty for have more than one character.
 
 </div>
 
-<div class="post" data-post-id="38264" data-author="Teron" data-date="2017-05-31T08:32:22+00:00">
+<div class="post" data-post-id="38264" data-author="Teron" data-date="2017-05-31T08:32:22+00:00" data-subject="Re: Vaulting Personal Items">
 
 1. Removing "personal" from quest items would make drachma unlimited to all your characters, which wasn't the intention of drachma. 
 
@@ -92,7 +92,7 @@ Which is the only reasonable post on the topic, though.
 
 </div>
 
-<div class="post" data-post-id="38265" data-author="jarlaxle" data-date="2017-05-31T15:52:18+00:00">
+<div class="post" data-post-id="38265" data-author="jarlaxle" data-date="2017-05-31T15:52:18+00:00" data-subject="Re: Vaulting Personal Items">
 
 Drachma was added to make getting quest eq more equal verse only one person get all the quest eq.  Back when we had quests 3-4 times a month with 30+ player completing for 1-2 quest eq, and then that quest eq could be traded freely if a person wanted.
 
@@ -100,7 +100,7 @@ Drachma was added to make getting quest eq more equal verse only one person get 
 
 </div>
 
-<div class="post" data-post-id="38266" data-author="jarlaxle" data-date="2017-05-31T15:52:23+00:00">
+<div class="post" data-post-id="38266" data-author="jarlaxle" data-date="2017-05-31T15:52:23+00:00" data-subject="Re: Vaulting Personal Items">
 
 Drachma was added to make getting quest eq more equal verse only one person get all the quest eq.  Back when we had quests 3-4 times a month with 30+ player completing for 1-2 quest eq, and then that quest eq could be traded freely if a person wanted.
 
@@ -108,7 +108,7 @@ Drachma was added to make getting quest eq more equal verse only one person get 
 
 </div>
 
-<div class="post" data-post-id="38269" data-author="*teker*" data-date="2017-05-31T17:37:16+00:00">
+<div class="post" data-post-id="38269" data-author="*teker*" data-date="2017-05-31T17:37:16+00:00" data-subject="Re: Vaulting Personal Items">
 
 I'll try to get back to working on the quest library I started a while ago.  Part of the idea was to have a set of quests that would be fairly regularly scheduled - some daily, weekly, etc.  We could set some of them up to be group quests that involve killing epic sized mobs.
 
@@ -116,7 +116,7 @@ Back to vaults for a sec - is the current max capacity of 40 a good number still
 
 </div>
 
-<div class="post" data-post-id="38273" data-author="Gorka" data-date="2017-05-31T19:01:46+00:00">
+<div class="post" data-post-id="38273" data-author="Gorka" data-date="2017-05-31T19:01:46+00:00" data-subject="Re: Vaulting Personal Items">
 
 I like the idea of extending vaults more, maybe in a second column if there is space. I keep and vault all my t2's and t3's and managing them among different vaults is a pain in the proverbial when trying to keep groups of gems together.
 
@@ -124,7 +124,7 @@ A function to sort the items in a vault alphabetically would be useful in the ca
 
 </div>
 
-<div class="post" data-post-id="38277" data-author="Teron" data-date="2017-06-01T06:02:29+00:00">
+<div class="post" data-post-id="38277" data-author="Teron" data-date="2017-06-01T06:02:29+00:00" data-subject="Re: Vaulting Personal Items">
 
 1. Well, current quest items are limited by the factor that quests are one time, so I guess it puts a cap on how many items can be traded, even though it'd be far easier to get them.
 

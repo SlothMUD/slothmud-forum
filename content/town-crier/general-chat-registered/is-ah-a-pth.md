@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="16489" data-author="13" data-date="2007-01-23T21:14:47+00:00">
+<div class="post" data-post-id="16489" data-author="13" data-date="2007-01-23T21:14:47+00:00" data-subject="Is AH a pth?">
 
 Seems he's selling items on auction that cost 8mil to forge and starting bidding at 2m.  When questioned about why he would do that and lose money
 
@@ -18,7 +18,7 @@ he replied 'Am I?'.  Also when questioned about Fyrstens whereabouts he said he 
 
 </div>
 
-<div class="post" data-post-id="16491" data-author="Ah_Puch" data-date="2007-01-24T00:37:25+00:00">
+<div class="post" data-post-id="16491" data-author="Ah_Puch" data-date="2007-01-24T00:37:25+00:00" data-subject="Is AH a pthief?">
 
 I'm not selling items that cost 8 mil to forge etc etc... I sold 1 item that cost 8 mil to forge starting at 2 mil. This was more foolish on my part as I did not research the item in question as far as value.. all I knew were it's stats and could have taken quite a lost had I sold it at a time when less people were on for less money. As far as Fyrstenheart is concerned, I'm not him and if you choose to believe otherwise then more power to you. I only stated that I hadn't seen him online in about a month. I play often enough to know that other's as well would have noticed him on thru who/gossip etc etc. Finally, I couldn't tell you who Fyrstenheart other char's are... I haven't put much thought into it because for the most part.. don't care. This could be said to most people here including myself.  Doesn't make me guilty for not knowing.
 
@@ -28,19 +28,19 @@ ps-I still don't like Autolycos though but that's a given 8)
 
 </div>
 
-<div class="post" data-post-id="16492" data-author="13" data-date="2007-01-24T00:43:26+00:00">
+<div class="post" data-post-id="16492" data-author="13" data-date="2007-01-24T00:43:26+00:00" data-subject="">
 
 Exposed!
 
 </div>
 
-<div class="post" data-post-id="16493" data-author="Hades" data-date="2007-01-24T01:50:15+00:00">
+<div class="post" data-post-id="16493" data-author="Hades" data-date="2007-01-24T01:50:15+00:00" data-subject="13 anh Ah sitting in a tree....">
 
 Get a room already! I hear 13 likes to spoon :twisted:
 
 </div>
 
-<div class="post" data-post-id="16494" data-author="Autolycos" data-date="2007-01-24T02:07:16+00:00">
+<div class="post" data-post-id="16494" data-author="Autolycos" data-date="2007-01-24T02:07:16+00:00" data-subject="Re: Is AH a pthief?">
 
 ps-I still don't like Autolycos though but that's a given 8)[/quote:jdrnvt5w]
 
@@ -50,7 +50,7 @@ laff hades..  :D
 
 </div>
 
-<div class="post" data-post-id="16495" data-author="12345" data-date="2007-01-24T02:41:15+00:00">
+<div class="post" data-post-id="16495" data-author="12345" data-date="2007-01-24T02:41:15+00:00" data-subject="Re: Is AH a pthief?">
 
 I'm not selling items that cost 8 mil to forge etc etc... I sold 1 item that cost 8 mil to forge starting at 2 mil. [/quote:11mygcs1]
 
@@ -58,7 +58,7 @@ Ah has a short memory... he opened the bidding at 300k.
 
 </div>
 
-<div class="post" data-post-id="16496" data-author="Ah_Puch" data-date="2007-01-24T02:47:46+00:00">
+<div class="post" data-post-id="16496" data-author="Ah_Puch" data-date="2007-01-24T02:47:46+00:00" data-subject="What did I eat last Friday for supper?">
 
 Umm I'm sue your'e right.. just assumed what someone said I started out that I did..again..this is withiut having any idea what kind of value I was looking at.  One important thing to note... Not one person has come forward stating that there neck clasp was stolen.
 
@@ -66,13 +66,13 @@ Case Closed :roll:
 
 </div>
 
-<div class="post" data-post-id="16500" data-author="13" data-date="2007-01-24T13:16:55+00:00">
+<div class="post" data-post-id="16500" data-author="13" data-date="2007-01-24T13:16:55+00:00" data-subject="">
 
 I still think it's bullshittish
 
 </div>
 
-<div class="post" data-post-id="16502" data-author="Jag" data-date="2007-01-24T14:21:04+00:00">
+<div class="post" data-post-id="16502" data-author="Jag" data-date="2007-01-24T14:21:04+00:00" data-subject="">
 
 My two cents.
 
@@ -86,7 +86,7 @@ Ah doesn't need to explain himself to me or anyone else.  But, if he wants to ge
 
 </div>
 
-<div class="post" data-post-id="16503" data-author="Corinn" data-date="2007-01-24T14:50:48+00:00">
+<div class="post" data-post-id="16503" data-author="Corinn" data-date="2007-01-24T14:50:48+00:00" data-subject="Re: Is AH a pthief?">
 
 ps-I still don't like Autolycos though but that's a given 8)[/quote:3ljhwesp]
 
@@ -94,13 +94,13 @@ Not that I care much, but what has that got to do with anything?
 
 </div>
 
-<div class="post" data-post-id="16512" data-author="Medios" data-date="2007-01-24T22:10:52+00:00">
+<div class="post" data-post-id="16512" data-author="Medios" data-date="2007-01-24T22:10:52+00:00" data-subject="">
 
 Auto is always the center of attention, Aaron tries to be :P
 
 </div>
 
-<div class="post" data-post-id="16513" data-author="12345" data-date="2007-01-24T22:42:59+00:00">
+<div class="post" data-post-id="16513" data-author="12345" data-date="2007-01-24T22:42:59+00:00" data-subject="">
 
 I had to dust out the old noggin, but the reason I think you're full of shit Ah had to do with a run-in that Harlot had with Splork...
 
@@ -114,13 +114,13 @@ My memory is fuzzy... but I still have one.
 
 </div>
 
-<div class="post" data-post-id="16515" data-author="13" data-date="2007-01-24T23:17:18+00:00">
+<div class="post" data-post-id="16515" data-author="13" data-date="2007-01-24T23:17:18+00:00" data-subject="">
 
 Nice one Keith.
 
 </div>
 
-<div class="post" data-post-id="16516" data-author="Ah_Puch" data-date="2007-01-24T23:18:18+00:00">
+<div class="post" data-post-id="16516" data-author="Ah_Puch" data-date="2007-01-24T23:18:18+00:00" data-subject="Won&#x27;t post on this anymore">
 
 1. This char was made right before Christmas of last year.
 
@@ -140,7 +140,7 @@ Nice one Keith.
 
 </div>
 
-<div class="post" data-post-id="16517" data-author="13" data-date="2007-01-24T23:20:09+00:00">
+<div class="post" data-post-id="16517" data-author="13" data-date="2007-01-24T23:20:09+00:00" data-subject="">
 
 3. No one is claiming 'lost/stolen' item 
 
@@ -148,19 +148,19 @@ that fact that you post this and wont tell where you got it means your ass is su
 
 </div>
 
-<div class="post" data-post-id="16522" data-author="Guinex" data-date="2007-01-25T05:29:54+00:00">
+<div class="post" data-post-id="16522" data-author="Guinex" data-date="2007-01-25T05:29:54+00:00" data-subject="">
 
 I still think if people are allowed to steal w/o being banned, i should be able to kill anyone i want to w/o being banned.  Sure make me an outlaw or something and people can try to kill me.  Just my 2 cents it should be all or nothing.
 
 </div>
 
-<div class="post" data-post-id="16523" data-author="Rajil" data-date="2007-01-25T08:32:11+00:00">
+<div class="post" data-post-id="16523" data-author="Rajil" data-date="2007-01-25T08:32:11+00:00" data-subject="">
 
 Hey G. I'm poor... Can I have 1 cent?
 
 </div>
 
-<div class="post" data-post-id="16532" data-author="Autolycos" data-date="2007-01-25T18:20:53+00:00">
+<div class="post" data-post-id="16532" data-author="Autolycos" data-date="2007-01-25T18:20:53+00:00" data-subject="">
 
 Auto is always the center of attention, Aaron tries to be :P[/quote:2ydzrmvb]
 

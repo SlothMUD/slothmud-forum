@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35655" data-author="Teron" data-date="2015-01-27T22:47:34+00:00">
+<div class="post" data-post-id="35655" data-author="Teron" data-date="2015-01-27T22:47:34+00:00" data-subject="Claim newbie EQ found north of the great white shark on SS">
 
 I found a set of newbie eq lying on the ground north of the great white shark on SS.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="14040" data-author="Corinn" data-date="2006-09-14T22:41:16+00:00">
+<div class="post" data-post-id="14040" data-author="Corinn" data-date="2006-09-14T22:41:16+00:00" data-subject="need some opinions...">
 
 Well, I suppose its time for me to work on getting a change of clothes....perhaps 3 changes of clothes...
 
@@ -60,49 +60,49 @@ Any suggestions would be greatly appreciated :)
 
 </div>
 
-<div class="post" data-post-id="14041" data-author="Diazz_Dizazter" data-date="2006-09-14T22:53:13+00:00">
+<div class="post" data-post-id="14041" data-author="Diazz_Dizazter" data-date="2006-09-14T22:53:13+00:00" data-subject="">
 
 Also leave your nat stats...
 
 </div>
 
-<div class="post" data-post-id="14043" data-author="Corinn" data-date="2006-09-14T23:11:16+00:00">
+<div class="post" data-post-id="14043" data-author="Corinn" data-date="2006-09-14T23:11:16+00:00" data-subject="">
 
 done...see original post
 
 </div>
 
-<div class="post" data-post-id="14072" data-author="brady" data-date="2006-09-16T17:44:38+00:00">
+<div class="post" data-post-id="14072" data-author="brady" data-date="2006-09-16T17:44:38+00:00" data-subject="">
 
 I have an idea  :idea: There is a link under the navigation bar that reads "Equipment."  I think you will find this tool very useful.  Big thanks to Blackmore for keeping it rolling.
 
 </div>
 
-<div class="post" data-post-id="14080" data-author="Krok" data-date="2006-09-16T20:00:02+00:00">
+<div class="post" data-post-id="14080" data-author="Krok" data-date="2006-09-16T20:00:02+00:00" data-subject="">
 
 Sometimes even Brady can say something smart!
 
 </div>
 
-<div class="post" data-post-id="14081" data-author="brady" data-date="2006-09-16T20:15:21+00:00">
+<div class="post" data-post-id="14081" data-author="brady" data-date="2006-09-16T20:15:21+00:00" data-subject="">
 
 If I had a nickel for every nice thing Krok has said to me, I'd have about 18 cents. :shock:
 
 </div>
 
-<div class="post" data-post-id="14085" data-author="Krok" data-date="2006-09-16T20:59:32+00:00">
+<div class="post" data-post-id="14085" data-author="Krok" data-date="2006-09-16T20:59:32+00:00" data-subject="">
 
 Ohh, you'll be rich in about 14589 years, dear (+cent)!
 
 </div>
 
-<div class="post" data-post-id="14088" data-author="Weasel" data-date="2006-09-16T21:31:17+00:00">
+<div class="post" data-post-id="14088" data-author="Weasel" data-date="2006-09-16T21:31:17+00:00" data-subject="">
 
 That's a cute little fishie avatar you have there Corinn.  :)
 
 </div>
 
-<div class="post" data-post-id="14122" data-author="Corinn" data-date="2006-09-17T20:13:27+00:00">
+<div class="post" data-post-id="14122" data-author="Corinn" data-date="2006-09-17T20:13:27+00:00" data-subject="">
 
 I have an idea  :idea: There is a link under the navigation bar that reads "Equipment."  I think you will find this tool very useful. [/quote:2tkswbvc]
 
@@ -112,7 +112,7 @@ Boy the air is so thick with sarcasm I can chop it with a macu :P
 
 </div>
 
-<div class="post" data-post-id="14153" data-author="Avatar" data-date="2006-09-19T06:18:56+00:00">
+<div class="post" data-post-id="14153" data-author="Avatar" data-date="2006-09-19T06:18:56+00:00" data-subject="eq advice">
 
 Several posts, but there seems to be little actual advice.  For your question "C" raise gear, the eqlist is the best option.  There isn't a lot of +shock gear, so anything you find there is a possibility.  
 
@@ -132,7 +132,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="14160" data-author="Diazz_Dizazter" data-date="2006-09-19T13:37:31+00:00">
+<div class="post" data-post-id="14160" data-author="Diazz_Dizazter" data-date="2006-09-19T13:37:31+00:00" data-subject="">
 
 When i get in large groups id prefer to be down in the protect order and do 
 
@@ -200,13 +200,13 @@ ars magica
 
 </div>
 
-<div class="post" data-post-id="14172" data-author="12345" data-date="2006-09-19T21:37:53+00:00">
+<div class="post" data-post-id="14172" data-author="12345" data-date="2006-09-19T21:37:53+00:00" data-subject="">
 
 Actually, Charles has some very good advice admist the ramblings.
 
 </div>
 
-<div class="post" data-post-id="14186" data-author="Avatar" data-date="2006-09-20T13:48:43+00:00">
+<div class="post" data-post-id="14186" data-author="Avatar" data-date="2006-09-20T13:48:43+00:00" data-subject="Advice">
 
 Woot!  Someone read the whole post!
 

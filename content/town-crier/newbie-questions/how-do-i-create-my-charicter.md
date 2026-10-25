@@ -10,13 +10,13 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="5099" data-author="holy_force" data-date="2005-03-16T11:27:10+00:00">
+<div class="post" data-post-id="5099" data-author="holy_force" data-date="2005-03-16T11:27:10+00:00" data-subject="how do i create my charicter">
 
 i have no clue what to do and were to go on this game. i have yet to make a person (because i dont know how). someone tell me. what do i need to click on to do something? i just signed up, my name is still on the newest member thing.
 
 </div>
 
-<div class="post" data-post-id="5100" data-author="Leaf" data-date="2005-03-16T11:47:26+00:00">
+<div class="post" data-post-id="5100" data-author="Leaf" data-date="2005-03-16T11:47:26+00:00" data-subject="">
 
 Near the upper left hand corner there is a link that says "Connect!!!"
 
@@ -34,7 +34,7 @@ Yes, enter, 1 enter, enter, and BAM UR IN!!!!
 
 </div>
 
-<div class="post" data-post-id="5102" data-author="holy_force" data-date="2005-03-16T12:18:32+00:00">
+<div class="post" data-post-id="5102" data-author="holy_force" data-date="2005-03-16T12:18:32+00:00" data-subject="nothing happend????">
 
 i seen the connect thing but it dont click. I HAVE NO CLUE WHAT TO DO. why didnt the game tell me that. and why have been trying to do this for 4 hours now, i have gotten nowere and personaly I am very confused. if you do not know how to help me please ask someone that knows how, to help me.
 
@@ -42,7 +42,7 @@ thank you to all that try to help.
 
 </div>
 
-<div class="post" data-post-id="5104" data-author="Leaf" data-date="2005-03-16T12:40:33+00:00">
+<div class="post" data-post-id="5104" data-author="Leaf" data-date="2005-03-16T12:40:33+00:00" data-subject="">
 
 Sorry my bad, look at "Connect" there should be a little box.
 
@@ -52,13 +52,13 @@ Click on the little box until there is a - within it.  Then you should see
 
 </div>
 
-<div class="post" data-post-id="5111" data-author="Alberich" data-date="2005-03-16T14:48:04+00:00">
+<div class="post" data-post-id="5111" data-author="Alberich" data-date="2005-03-16T14:48:04+00:00" data-subject="">
 
 don't bother with the link.  download a mud client and put slothmud.org:6101 in connect field (or hell, just use regular telnet)
 
 </div>
 
-<div class="post" data-post-id="5115" data-author="guest" data-date="2005-03-16T15:33:07+00:00">
+<div class="post" data-post-id="5115" data-author="guest" data-date="2005-03-16T15:33:07+00:00" data-subject="">
 
 Try this link ...
 
@@ -68,7 +68,7 @@ once online, ask people and they will tell you all you need to know.
 
 </div>
 
-<div class="post" data-post-id="5119" data-author="12345" data-date="2005-03-16T19:07:44+00:00">
+<div class="post" data-post-id="5119" data-author="12345" data-date="2005-03-16T19:07:44+00:00" data-subject="">
 
 Here's one for the silly question bin...
 
@@ -78,7 +78,7 @@ Sorry, but I haven't seen one of these yet.  If you connect the same way you wou
 
 </div>
 
-<div class="post" data-post-id="5292" data-author="Random" data-date="2005-03-28T20:25:36+00:00">
+<div class="post" data-post-id="5292" data-author="Random" data-date="2005-03-28T20:25:36+00:00" data-subject="">
 
 In response to the WebTV question:
 
@@ -92,7 +92,7 @@ Thanks to any and all who can help!
 
 </div>
 
-<div class="post" data-post-id="5295" data-author="kjartan" data-date="2005-03-28T20:37:28+00:00">
+<div class="post" data-post-id="5295" data-author="kjartan" data-date="2005-03-28T20:37:28+00:00" data-subject="">
 
 It means that your alignment is a little bit on the evil side of neutral.  This generally happens because you have been killing good mobs, although there are also some spells that make you more evil if you cast them.
 
@@ -102,7 +102,7 @@ We, the admin, are mulling over making more alignment-dependent aspects of the g
 
 </div>
 
-<div class="post" data-post-id="5309" data-author="Random" data-date="2005-03-29T18:27:14+00:00">
+<div class="post" data-post-id="5309" data-author="Random" data-date="2005-03-29T18:27:14+00:00" data-subject="">
 
 Thanks for the answers! If you don't mind me picking your brain a bit more, is there a place that tells us what is a good mob and what is a bad mob?
 
@@ -110,7 +110,7 @@ This is easily one of the deepest and most detailed MUD's I've ever played! Grea
 
 </div>
 
-<div class="post" data-post-id="5310" data-author="kjartan" data-date="2005-03-29T18:30:29+00:00">
+<div class="post" data-post-id="5310" data-author="kjartan" data-date="2005-03-29T18:30:29+00:00" data-subject="">
 
 The spells 'detect good' and 'detect evil' do this.  You can also often guess.  Normal citizens in towns are usually good or neutral; non-aggressive animals are usually neutral, etc.
 

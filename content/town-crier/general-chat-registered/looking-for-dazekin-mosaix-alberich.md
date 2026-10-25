@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13922" data-author="Xuan" data-date="2006-09-06T21:19:56+00:00">
+<div class="post" data-post-id="13922" data-author="Xuan" data-date="2006-09-06T21:19:56+00:00" data-subject="Looking for Dazekin / mosaix / alberich">
 
 Hi need to get the auctioned eq from u guys or wanted to sell u the auctioned eqs.........
 

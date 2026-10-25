@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="13262" data-author="madmax" data-date="2006-07-04T04:28:19+00:00">
+<div class="post" data-post-id="13262" data-author="madmax" data-date="2006-07-04T04:28:19+00:00" data-subject="Valkyrie Bug">
 
 Here is a small sample of what happened..
 
@@ -42,7 +42,7 @@ You feel much, much better!
 
 </div>
 
-<div class="post" data-post-id="13263" data-author="12345" data-date="2006-07-04T04:37:08+00:00">
+<div class="post" data-post-id="13263" data-author="12345" data-date="2006-07-04T04:37:08+00:00" data-subject="">
 
 Actually, I've had that happen with eudaemon and I think a peri as too.  The sups heal, but they don't update position.  So you have to wait for something to update it for you.... like a raise dead spell.
 

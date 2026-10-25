@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="32051" data-author="Kelgar" data-date="2010-11-16T14:18:26+00:00">
+<div class="post" data-post-id="32051" data-author="Kelgar" data-date="2010-11-16T14:18:26+00:00" data-subject="Supplication creatures">
 
 Hello everyone! 
 
@@ -26,7 +26,7 @@ Thanks ahead for your answers!
 
 </div>
 
-<div class="post" data-post-id="32054" data-author="element" data-date="2010-11-16T16:10:46+00:00">
+<div class="post" data-post-id="32054" data-author="element" data-date="2010-11-16T16:10:46+00:00" data-subject="Re: Supplication creatures">
 
 pets are not meant to tank for you, so if u order it to attack before you do, they'll disengage.
 
@@ -34,7 +34,7 @@ if i'm not wrong, xeg-yi's heal your undead pets i think.
 
 </div>
 
-<div class="post" data-post-id="32055" data-author="Thraxas" data-date="2010-11-16T17:04:54+00:00">
+<div class="post" data-post-id="32055" data-author="Thraxas" data-date="2010-11-16T17:04:54+00:00" data-subject="Re: Supplication creatures">
 
 Different pets have different abilities, some of the common ones are;
 
@@ -86,7 +86,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="32056" data-author="Thraxas" data-date="2010-11-16T17:08:35+00:00">
+<div class="post" data-post-id="32056" data-author="Thraxas" data-date="2010-11-16T17:08:35+00:00" data-subject="Re: Supplication creatures">
 
 > **element wrote:**
 > if u order it to attack before you do, they'll disengage.
@@ -99,13 +99,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="32057" data-author="Filk" data-date="2010-11-16T17:09:33+00:00">
+<div class="post" data-post-id="32057" data-author="Filk" data-date="2010-11-16T17:09:33+00:00" data-subject="Re: Supplication creatures">
 
 Would be nice, if other people, who knows what other supplicated creatures doing, will post that info here. Would be very very nice :)
 
 </div>
 
-<div class="post" data-post-id="32058" data-author="Thraxas" data-date="2010-11-16T17:29:02+00:00">
+<div class="post" data-post-id="32058" data-author="Thraxas" data-date="2010-11-16T17:29:02+00:00" data-subject="Re: Supplication creatures">
 
 > **Filk wrote:**
 > Would be nice, if other people, who knows what other supplicated creatures doing, will post that info here. Would be very very nice :)
@@ -116,7 +116,7 @@ Cacodaemon - havent played with this for a while but seem to remember it has a p
 
 </div>
 
-<div class="post" data-post-id="32059" data-author="Teron" data-date="2010-11-16T17:53:23+00:00">
+<div class="post" data-post-id="32059" data-author="Teron" data-date="2010-11-16T17:53:23+00:00" data-subject="Re: Supplication creatures">
 
 There are monographs of supplication sold somewhere. There are two parts, sold at BH and Thal scribes respectively, and another part is missing, if I remember right.
 
@@ -132,7 +132,7 @@ I think it's chan chu that increases mobs gold by 100% if it's less, than 100k (
 
 </div>
 
-<div class="post" data-post-id="32060" data-author="Kelgar" data-date="2010-11-16T18:29:39+00:00">
+<div class="post" data-post-id="32060" data-author="Kelgar" data-date="2010-11-16T18:29:39+00:00" data-subject="Re: Supplication creatures">
 
 Wow, thank you all for the answers! It is so exciting to know all about that new things!  :P 
 
@@ -146,7 +146,7 @@ Oh, and as I guess to summon Xeg you need a quite good proper sacrifice (high le
 
 </div>
 
-<div class="post" data-post-id="32061" data-author="Thraxas" data-date="2010-11-16T22:15:56+00:00">
+<div class="post" data-post-id="32061" data-author="Thraxas" data-date="2010-11-16T22:15:56+00:00" data-subject="Re: Supplication creatures">
 
 I'm ot sure that assisting your pets is a good idea, either order them to assist you or order them to kill mob them attack the mob yourself.
 
@@ -156,13 +156,13 @@ T
 
 </div>
 
-<div class="post" data-post-id="32067" data-author="mahkra" data-date="2010-11-17T16:43:11+00:00">
+<div class="post" data-post-id="32067" data-author="mahkra" data-date="2010-11-17T16:43:11+00:00" data-subject="Re: Supplication creatures">
 
 gremlin although low level throws poo to blind (I think) and autoassists which is nice.
 
 </div>
 
-<div class="post" data-post-id="32077" data-author="Kelgar" data-date="2010-11-18T22:04:27+00:00">
+<div class="post" data-post-id="32077" data-author="Kelgar" data-date="2010-11-18T22:04:27+00:00" data-subject="Re: Supplication creatures">
 
 Selkie the imp whips his spiked tail, striking a female troglodyte!
 

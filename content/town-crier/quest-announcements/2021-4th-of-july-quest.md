@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39746" data-author="*Idjit*" data-date="2021-07-01T03:55:46+00:00">
+<div class="post" data-post-id="39746" data-author="*Idjit*" data-date="2021-07-01T03:55:46+00:00" data-subject="2021 4th of July Quest">
 
 Greetings,
 
@@ -36,7 +36,7 @@ Prepare to defend!
 
 </div>
 
-<div class="post" data-post-id="39749" data-author="cnl" data-date="2021-07-01T07:59:46+00:00">
+<div class="post" data-post-id="39749" data-author="cnl" data-date="2021-07-01T07:59:46+00:00" data-subject="Re: 2021 4th of July Quest">
 
 Awesome - thanks for taking the time to put this together
 

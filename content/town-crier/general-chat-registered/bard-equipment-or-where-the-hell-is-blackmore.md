@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="13222" data-author="Mystery" data-date="2006-06-30T18:47:14+00:00">
+<div class="post" data-post-id="13222" data-author="Mystery" data-date="2006-06-30T18:47:14+00:00" data-subject="Bard Equipment ? or Where the hell is Blackmore?">
 
 Looking up instruments on eqlist and notice that several sets of numbers
 
@@ -26,7 +26,7 @@ does the best piece get used by default ?
 
 </div>
 
-<div class="post" data-post-id="13223" data-author="Tetsulunathaya" data-date="2006-06-30T19:31:25+00:00">
+<div class="post" data-post-id="13223" data-author="Tetsulunathaya" data-date="2006-06-30T19:31:25+00:00" data-subject="">
 
 Bardic Instruments stats: X%/Y%/Z
 
@@ -40,7 +40,7 @@ Bardic instruments do not stack, and when you sing it will automatically select 
 
 </div>
 
-<div class="post" data-post-id="13224" data-author="Melanthe" data-date="2006-06-30T19:38:42+00:00">
+<div class="post" data-post-id="13224" data-author="Melanthe" data-date="2006-06-30T19:38:42+00:00" data-subject="">
 
 Would be nice if non-prime bards could get an instrument of this type, although much weaker of course =P (duck)
 

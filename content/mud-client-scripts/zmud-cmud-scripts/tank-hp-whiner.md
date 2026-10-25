@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5883" data-author="slice" data-date="2005-04-30T11:43:46+00:00">
+<div class="post" data-post-id="5883" data-author="slice" data-date="2005-04-30T11:43:46+00:00" data-subject="Tank HP whiner">
 
 A tank hitpoint whiner, some of the features are:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="13870" data-author="Mog" data-date="2006-09-01T08:16:24+00:00">
+<div class="post" data-post-id="13870" data-author="Mog" data-date="2006-09-01T08:16:24+00:00" data-subject="Quest Medium items on Eqlist">
 
 Eqlist has items marked "Quest Medium".  Looking for anyone that can tell me if any of the following items are available in-game via quests or if they were given to mortals by the imms for one reason or another.
 
@@ -32,19 +32,19 @@ Thank you
 
 </div>
 
-<div class="post" data-post-id="13871" data-author="Aleksey" data-date="2006-09-01T08:55:31+00:00">
+<div class="post" data-post-id="13871" data-author="Aleksey" data-date="2006-09-01T08:55:31+00:00" data-subject="">
 
 Check drachma shop
 
 </div>
 
-<div class="post" data-post-id="13872" data-author="Krok" data-date="2006-09-01T09:23:09+00:00">
+<div class="post" data-post-id="13872" data-author="Krok" data-date="2006-09-01T09:23:09+00:00" data-subject="">
 
 It was given out in the quests.
 
 </div>
 
-<div class="post" data-post-id="13873" data-author="13" data-date="2006-09-01T12:05:47+00:00">
+<div class="post" data-post-id="13873" data-author="13" data-date="2006-09-01T12:05:47+00:00" data-subject="">
 
 bubba - mithril knights helm
 

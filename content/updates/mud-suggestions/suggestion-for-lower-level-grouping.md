@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34329" data-author="zenoko" data-date="2013-06-29T00:11:28+00:00">
+<div class="post" data-post-id="34329" data-author="zenoko" data-date="2013-06-29T00:11:28+00:00" data-subject="suggestion for lower level grouping">
 
 with groups being based on total levels, finding a group before level 40 can be hard and heres why i think it is
 
@@ -40,7 +40,7 @@ what i suggest to do (and this can be debated) is
 
 </div>
 
-<div class="post" data-post-id="34330" data-author="Dragoth" data-date="2013-06-29T07:31:05+00:00">
+<div class="post" data-post-id="34330" data-author="Dragoth" data-date="2013-06-29T07:31:05+00:00" data-subject="Re: suggestion for lower level grouping">
 
 I believe what the developers were thinking - the exp should be distributed equally according to the person's requirement for EXP and his contribution tp the group. 
 

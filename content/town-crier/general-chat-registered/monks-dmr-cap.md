@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="24405" data-author="angel" data-date="2008-05-19T17:13:37+00:00">
+<div class="post" data-post-id="24405" data-author="angel" data-date="2008-05-19T17:13:37+00:00" data-subject="monks dmr cap">
 
 its 22/18/16/14 according to monks classo order.been wondering myself, so i thought id share it with u.thx krom.
 

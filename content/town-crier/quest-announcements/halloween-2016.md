@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="37467" data-author="*Idjit*" data-date="2016-10-27T23:28:14+00:00">
+<div class="post" data-post-id="37467" data-author="*Idjit*" data-date="2016-10-27T23:28:14+00:00" data-subject="Halloween 2016">
 
 Due to time constraints and everyone being busy, this quest will have the exact same goodies (and structure and all other details) as last year.
 
@@ -24,7 +24,7 @@ See you all there,
 
 </div>
 
-<div class="post" data-post-id="37468" data-author="Gorka" data-date="2016-10-28T05:50:36+00:00">
+<div class="post" data-post-id="37468" data-author="Gorka" data-date="2016-10-28T05:50:36+00:00" data-subject="Re: Halloween 2016">
 
 <LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... een#p36119">http://www.slothmud.org/forum/viewtopic.php?f=27&t=4529&p=36119&hilit=halloween#p36119</LINK_TEXT>
 
@@ -36,7 +36,7 @@ WTB Staff of awesomeness.
 
 </div>
 
-<div class="post" data-post-id="37481" data-author="*Idjit*" data-date="2016-10-30T08:27:21+00:00">
+<div class="post" data-post-id="37481" data-author="*Idjit*" data-date="2016-10-30T08:27:21+00:00" data-subject="Re: Halloween 2016">
 
 So sorry for delays, things are deployed now. Slept in
 
@@ -44,7 +44,7 @@ So sorry for delays, things are deployed now. Slept in
 
 </div>
 
-<div class="post" data-post-id="37482" data-author="*Idjit*" data-date="2016-10-30T08:57:31+00:00">
+<div class="post" data-post-id="37482" data-author="*Idjit*" data-date="2016-10-30T08:57:31+00:00" data-subject="Re: Halloween 2016">
 
 The offending cats have been recalled and properly scolded.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="35412" data-author="Filk" data-date="2014-08-12T04:04:55+00:00">
+<div class="post" data-post-id="35412" data-author="Filk" data-date="2014-08-12T04:04:55+00:00" data-subject="Reddish glass eye clasp forge bugged?">
 
 l
 
@@ -140,7 +140,7 @@ Whats wrong with this forge?
 
 </div>
 
-<div class="post" data-post-id="35413" data-author="Agni" data-date="2014-08-12T05:20:56+00:00">
+<div class="post" data-post-id="35413" data-author="Agni" data-date="2014-08-12T05:20:56+00:00" data-subject="Re: Reddish glass eye clasp forge bugged?">
 
 try using te full name as in the forge list:
 
@@ -148,13 +148,13 @@ forge  reddish glass eye
 
 </div>
 
-<div class="post" data-post-id="35415" data-author="*Breeze*" data-date="2014-08-12T08:31:05+00:00">
+<div class="post" data-post-id="35415" data-author="*Breeze*" data-date="2014-08-12T08:31:05+00:00" data-subject="Re: Reddish glass eye clasp forge bugged?">
 
 its a trade not a forge... read the message....
 
 </div>
 
-<div class="post" data-post-id="35416" data-author="Agni" data-date="2014-08-12T13:34:41+00:00">
+<div class="post" data-post-id="35416" data-author="Agni" data-date="2014-08-12T13:34:41+00:00" data-subject="Re: Reddish glass eye clasp forge bugged?">
 
 it was forge in 2012, and you had to use the full name. not sure if i became a trade.
 
@@ -174,7 +174,7 @@ Xibona the Guild Master finishes up a reddish-colored glass eye and hands it to 
 
 </div>
 
-<div class="post" data-post-id="35417" data-author="Filk" data-date="2014-08-13T02:49:46+00:00">
+<div class="post" data-post-id="35417" data-author="Filk" data-date="2014-08-13T02:49:46+00:00" data-subject="Re: Reddish glass eye clasp forge bugged?">
 
 Heh. I tried plenty of name coombinations. Including full name. But with "-" instead of spaces. Seems odd, that thing works different way that almost all other names in game.
 
@@ -182,7 +182,7 @@ Thanks anyway ;)
 
 </div>
 
-<div class="post" data-post-id="35421" data-author="Marvel" data-date="2014-08-16T02:27:12+00:00">
+<div class="post" data-post-id="35421" data-author="Marvel" data-date="2014-08-16T02:27:12+00:00" data-subject="Re: Reddish glass eye clasp forge bugged?">
 
 Just copy and paste the exact string from forge list. That's the keyword. Need the whole string for that one.
 

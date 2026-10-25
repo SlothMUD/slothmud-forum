@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="22069" data-author="Lis" data-date="2008-01-19T11:37:41+00:00">
+<div class="post" data-post-id="22069" data-author="Lis" data-date="2008-01-19T11:37:41+00:00" data-subject="WTB/WTT">
 
 Looking for last cps for few forges
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33929" data-author="Constin" data-date="2013-01-17T14:32:50+00:00">
+<div class="post" data-post-id="33929" data-author="Constin" data-date="2013-01-17T14:32:50+00:00" data-subject="Need help with Geyser">
 
 I dont like Vyzor, couse it on betatest, it lag etc.
 
@@ -42,7 +42,7 @@ Can smb help me? Akaya?
 
 </div>
 
-<div class="post" data-post-id="33930" data-author="Constin" data-date="2013-01-17T14:55:04+00:00">
+<div class="post" data-post-id="33930" data-author="Constin" data-date="2013-01-17T14:55:04+00:00" data-subject="Re: Need help with Geyser">
 
 message = atcp.MSDPCHARACTER_NAME 
 

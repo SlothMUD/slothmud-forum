@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32474" data-author="Jaid" data-date="2011-03-11T12:34:55+00:00">
+<div class="post" data-post-id="32474" data-author="Jaid" data-date="2011-03-11T12:34:55+00:00" data-subject="Sloth Joke of the Day">
 
 A necro and a juju walk into a bar.  The necro tells the bartender, â€œI want you to meet my new friend.â€  The bartender shakes the jujuâ€™s hand and says, â€œCharmed, Iâ€™m sure.â€   :P
 
@@ -18,7 +18,7 @@ Jaid/Rayne
 
 </div>
 
-<div class="post" data-post-id="32491" data-author="*juggleblood*" data-date="2011-03-18T15:17:26+00:00">
+<div class="post" data-post-id="32491" data-author="*juggleblood*" data-date="2011-03-18T15:17:26+00:00" data-subject="Re: Sloth Joke of the Day">
 
 Two prisoners are sitting down in the jail cafeteria eating lunch. One turns to the other and says "You know, the food was better when *you *were governor."
 

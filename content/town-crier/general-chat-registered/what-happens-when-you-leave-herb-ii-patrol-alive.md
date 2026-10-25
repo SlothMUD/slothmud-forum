@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="37039" data-author="Teron" data-date="2016-07-11T05:15:54+00:00">
+<div class="post" data-post-id="37039" data-author="Teron" data-date="2016-07-11T05:15:54+00:00" data-subject="What happens when you leave Herb II patrol alive">
 
 There long have been tales of assassins roaming the Herbalist Island II, when you leave the patrol alive, yet few have lived to tell the tale.
 
@@ -1056,7 +1056,7 @@ You grouptell: 'what the duck'
 
 </div>
 
-<div class="post" data-post-id="37044" data-author="Josiah" data-date="2016-07-12T14:34:43+00:00">
+<div class="post" data-post-id="37044" data-author="Josiah" data-date="2016-07-12T14:34:43+00:00" data-subject="Re: What happens when you leave Herb II patrol alive">
 
 > **Quote:**
 > Here's an account of what really happens:
@@ -1067,7 +1067,7 @@ Next time just second wind a couple firestorms.  Or tell your dr to shapeshift i
 
 </div>
 
-<div class="post" data-post-id="37050" data-author="Teron" data-date="2016-07-13T07:18:25+00:00">
+<div class="post" data-post-id="37050" data-author="Teron" data-date="2016-07-13T07:18:25+00:00" data-subject="Re: What happens when you leave Herb II patrol alive">
 
 lol.
 

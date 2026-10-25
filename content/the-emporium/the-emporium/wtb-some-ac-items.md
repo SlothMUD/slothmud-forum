@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="13545" data-author="Icefyre" data-date="2006-07-24T18:58:41+00:00">
+<div class="post" data-post-id="13545" data-author="Icefyre" data-date="2006-07-24T18:58:41+00:00" data-subject="wtb some ac items">
 
 I'm looking for some AC items, 2.4 armor, cloaks, and possibly boots.
 
@@ -24,7 +24,7 @@ Ice
 
 </div>
 
-<div class="post" data-post-id="13547" data-author="Daisy" data-date="2006-07-24T23:50:50+00:00">
+<div class="post" data-post-id="13547" data-author="Daisy" data-date="2006-07-24T23:50:50+00:00" data-subject="">
 
 I may be able to help out, but I've no idea what ac boots or cloaks you want what restricts you have etc.
 
@@ -32,7 +32,7 @@ As a suggestion it'd probably be more helpful to have specific item names ... sa
 
 </div>
 
-<div class="post" data-post-id="13558" data-author="Icefyre" data-date="2006-07-25T22:06:11+00:00">
+<div class="post" data-post-id="13558" data-author="Icefyre" data-date="2006-07-25T22:06:11+00:00" data-subject="">
 
 Items for ST/MW.
 

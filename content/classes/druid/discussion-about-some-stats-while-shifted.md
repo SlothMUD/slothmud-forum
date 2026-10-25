@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35561" data-author="Filk" data-date="2014-12-20T07:11:44+00:00">
+<div class="post" data-post-id="35561" data-author="Filk" data-date="2014-12-20T07:11:44+00:00" data-subject="Discussion about some stats while shifted">
 
 I've been told, there are already were explanations about some of my questions. But i wasnt able to find any.
 
@@ -44,7 +44,7 @@ How they works now?
 
 </div>
 
-<div class="post" data-post-id="35571" data-author="Magi" data-date="2014-12-22T18:08:55+00:00">
+<div class="post" data-post-id="35571" data-author="Magi" data-date="2014-12-22T18:08:55+00:00" data-subject="Re: Discussion about some stats while shifted">
 
 Sorry to hear your rhodo-ars bugged out on you.  I know how hard you worked to make it!
 

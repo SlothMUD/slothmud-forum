@@ -10,7 +10,7 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="34746" data-author="*Neptune*" data-date="2014-01-01T18:52:19+00:00">
+<div class="post" data-post-id="34746" data-author="*Neptune*" data-date="2014-01-01T18:52:19+00:00" data-subject="Mob Updates">
 
 Hey guys
 
@@ -42,7 +42,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="34747" data-author="*Neptune*" data-date="2014-01-01T19:16:19+00:00">
+<div class="post" data-post-id="34747" data-author="*Neptune*" data-date="2014-01-01T19:16:19+00:00" data-subject="Re: Mob Updates">
 
 The wandering tea hawker in The Ahenaeum had a truncated quest message. When asking the hawker
 
@@ -54,7 +54,7 @@ Thanks to goes to Cizin who found this error.
 
 </div>
 
-<div class="post" data-post-id="34856" data-author="*Neptune*" data-date="2014-02-06T00:30:19+00:00">
+<div class="post" data-post-id="34856" data-author="*Neptune*" data-date="2014-02-06T00:30:19+00:00" data-subject="Re: Mob Updates">
 
 Greetings.
 
@@ -78,7 +78,7 @@ Thanks for the heads up goes to Kimchee and Yasik. Thanks guys!
 
 </div>
 
-<div class="post" data-post-id="34884" data-author="*Neptune*" data-date="2014-02-27T17:38:03+00:00">
+<div class="post" data-post-id="34884" data-author="*Neptune*" data-date="2014-02-27T17:38:03+00:00" data-subject="Re: Mob Updates">
 
 After months of mulling, I've decded to remove the Galavan Thief. For the moment at least,
 
@@ -106,7 +106,7 @@ Thanks and Enjoy.
 
 </div>
 
-<div class="post" data-post-id="34906" data-author="*Neptune*" data-date="2014-03-11T18:50:03+00:00">
+<div class="post" data-post-id="34906" data-author="*Neptune*" data-date="2014-03-11T18:50:03+00:00" data-subject="Re: Mob Updates">
 
 Having come to the realization that a number of mobs were dying 
 
@@ -150,7 +150,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="34974" data-author="*Neptune*" data-date="2014-04-09T16:41:39+00:00">
+<div class="post" data-post-id="34974" data-author="*Neptune*" data-date="2014-04-09T16:41:39+00:00" data-subject="Re: Mob Updates">
 
 Greetings.
 
@@ -166,7 +166,7 @@ do otherwise.
 
 </div>
 
-<div class="post" data-post-id="35161" data-author="*Neptune*" data-date="2014-05-15T16:22:03+00:00">
+<div class="post" data-post-id="35161" data-author="*Neptune*" data-date="2014-05-15T16:22:03+00:00" data-subject="Re: Mob Updates">
 
 Greetings.
 
@@ -182,7 +182,7 @@ now require a minimum level.
 
 </div>
 
-<div class="post" data-post-id="35805" data-author="*Neptune*" data-date="2015-04-12T18:18:07+00:00">
+<div class="post" data-post-id="35805" data-author="*Neptune*" data-date="2015-04-12T18:18:07+00:00" data-subject="Re: Mob Updates">
 
 Greetings.
 
@@ -202,7 +202,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="35882" data-author="*Neptune*" data-date="2015-05-01T14:30:53+00:00">
+<div class="post" data-post-id="35882" data-author="*Neptune*" data-date="2015-05-01T14:30:53+00:00" data-subject="Re: Mob Updates">
 
 Morning Guys and Gals
 
@@ -246,7 +246,7 @@ as quickly as we can.
 
 </div>
 
-<div class="post" data-post-id="36534" data-author="*Neptune*" data-date="2016-01-23T20:01:47+00:00">
+<div class="post" data-post-id="36534" data-author="*Neptune*" data-date="2016-01-23T20:01:47+00:00" data-subject="Re: Mob Updates">
 
 First off, thanks to all who participated in the Formian Colony area opener. I must apologize,
 
@@ -270,7 +270,7 @@ Thanks, and enjoy.
 
 </div>
 
-<div class="post" data-post-id="36627" data-author="*Neptune*" data-date="2016-02-22T15:26:11+00:00">
+<div class="post" data-post-id="36627" data-author="*Neptune*" data-date="2016-02-22T15:26:11+00:00" data-subject="Re: Mob Updates">
 
 Greetings.
 
@@ -296,7 +296,7 @@ increase n his experience yield....maybe. :)
 
 </div>
 
-<div class="post" data-post-id="36678" data-author="*Neptune*" data-date="2016-03-01T00:39:11+00:00">
+<div class="post" data-post-id="36678" data-author="*Neptune*" data-date="2016-03-01T00:39:11+00:00" data-subject="Re: Mob Updates">
 
 Greetings.
 
@@ -332,7 +332,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36761" data-author="*Neptune*" data-date="2016-03-22T14:07:02+00:00">
+<div class="post" data-post-id="36761" data-author="*Neptune*" data-date="2016-03-22T14:07:02+00:00" data-subject="Re: Mob Updates">
 
 Greetings.
 
@@ -352,7 +352,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="36856" data-author="*Neptune*" data-date="2016-04-17T18:51:15+00:00">
+<div class="post" data-post-id="36856" data-author="*Neptune*" data-date="2016-04-17T18:51:15+00:00" data-subject="Re: Mob Updates">
 
 Greetings.
 
@@ -372,7 +372,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37996" data-author="*Neptune*" data-date="2017-01-26T16:47:13+00:00">
+<div class="post" data-post-id="37996" data-author="*Neptune*" data-date="2017-01-26T16:47:13+00:00" data-subject="Re: Mob Updates">
 
 Greetings,
 
@@ -396,7 +396,7 @@ Feedback appreciated.
 
 </div>
 
-<div class="post" data-post-id="38943" data-author="*Neptune*" data-date="2018-07-07T23:36:22+00:00">
+<div class="post" data-post-id="38943" data-author="*Neptune*" data-date="2018-07-07T23:36:22+00:00" data-subject="Re: Mob Updates">
 
 Greetings
 
@@ -422,7 +422,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="39037" data-author="*Neptune*" data-date="2019-01-05T20:18:54+00:00">
+<div class="post" data-post-id="39037" data-author="*Neptune*" data-date="2019-01-05T20:18:54+00:00" data-subject="Re: Mob Updates">
 
 Greetings
 
@@ -446,7 +446,7 @@ Hope that helps guys.
 
 </div>
 
-<div class="post" data-post-id="39081" data-author="*Neptune*" data-date="2019-01-27T18:13:41+00:00">
+<div class="post" data-post-id="39081" data-author="*Neptune*" data-date="2019-01-27T18:13:41+00:00" data-subject="Re: Mob Updates">
 
 Greetings
 
@@ -466,7 +466,7 @@ Hope that helps. Thanks!
 
 </div>
 
-<div class="post" data-post-id="39108" data-author="*Neptune*" data-date="2019-03-03T03:13:59+00:00">
+<div class="post" data-post-id="39108" data-author="*Neptune*" data-date="2019-03-03T03:13:59+00:00" data-subject="Re: Mob Updates">
 
 Greetings
 
@@ -482,7 +482,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="39110" data-author="*Neptune*" data-date="2019-03-03T05:09:33+00:00">
+<div class="post" data-post-id="39110" data-author="*Neptune*" data-date="2019-03-03T05:09:33+00:00" data-subject="Re: Mob Updates">
 
 Greetings once again
 
@@ -502,7 +502,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="39195" data-author="*Neptune*" data-date="2019-05-18T16:56:44+00:00">
+<div class="post" data-post-id="39195" data-author="*Neptune*" data-date="2019-05-18T16:56:44+00:00" data-subject="Re: Mob Updates">
 
 Greetings
 
@@ -526,7 +526,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="39311" data-author="*Neptune*" data-date="2019-11-03T04:11:55+00:00">
+<div class="post" data-post-id="39311" data-author="*Neptune*" data-date="2019-11-03T04:11:55+00:00" data-subject="Re: Mob Updates">
 
 Greetings
 
@@ -552,7 +552,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="39428" data-author="*Neptune*" data-date="2020-04-08T01:28:07+00:00">
+<div class="post" data-post-id="39428" data-author="*Neptune*" data-date="2020-04-08T01:28:07+00:00" data-subject="Re: Mob Updates">
 
 Papa Smurf will no longer cast firewind. My bad. Oops.
 

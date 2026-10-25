@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36089" data-author="Dragoth" data-date="2015-09-10T08:09:27+00:00">
+<div class="post" data-post-id="36089" data-author="Dragoth" data-date="2015-09-10T08:09:27+00:00" data-subject="Call of the Cuillen bug">
 
 <855hp 769ma 334mv>drop all.gem
 
@@ -316,7 +316,7 @@ I stood there for like 5 ticks along with the sidhe, and it never gave me my run
 
 </div>
 
-<div class="post" data-post-id="36090" data-author="Dragoth" data-date="2015-09-10T08:20:26+00:00">
+<div class="post" data-post-id="36090" data-author="Dragoth" data-date="2015-09-10T08:20:26+00:00" data-subject="Re: Call of the Cuillen bug">
 
 Alright it was pointed out to me that i need to continuously sing the call of the cuillen song during the whole process, so turn your triggers off and try not to cast anything or you'll lose your gems..
 

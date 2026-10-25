@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="22739" data-author="Mike" data-date="2008-02-15T16:28:55+00:00">
+<div class="post" data-post-id="22739" data-author="Mike" data-date="2008-02-15T16:28:55+00:00" data-subject="spiritual hammer bug?">
 
 You weave the threads of magic masterfully!
 
@@ -46,7 +46,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="22743" data-author="Bazilus" data-date="2008-02-15T18:12:18+00:00">
+<div class="post" data-post-id="22743" data-author="Bazilus" data-date="2008-02-15T18:12:18+00:00" data-subject="Re: spiritual hammer bug?">
 
 You weave the threads of magic masterfully!
 
@@ -114,13 +114,13 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="22746" data-author="Yinao" data-date="2008-02-15T21:43:57+00:00">
+<div class="post" data-post-id="22746" data-author="Yinao" data-date="2008-02-15T21:43:57+00:00" data-subject="">
 
 No matter what whether the proc is meant to hit ethers or not the attack that proc'd should still be able to hit ether imo.
 
 </div>
 
-<div class="post" data-post-id="22752" data-author="Widow" data-date="2008-02-15T23:44:40+00:00">
+<div class="post" data-post-id="22752" data-author="Widow" data-date="2008-02-15T23:44:40+00:00" data-subject="">
 
 In the vein of to hit ether or not...
 
@@ -130,13 +130,13 @@ Does kick bypass ether?
 
 </div>
 
-<div class="post" data-post-id="22753" data-author="*juggleblood*" data-date="2008-02-16T01:50:56+00:00">
+<div class="post" data-post-id="22753" data-author="*juggleblood*" data-date="2008-02-16T01:50:56+00:00" data-subject="">
 
 Make sure you submit this kind of thing using the bugs command. It's the best way to be sure the right person sees it.
 
 </div>
 
-<div class="post" data-post-id="22758" data-author="Autolycos" data-date="2008-02-16T03:40:12+00:00">
+<div class="post" data-post-id="22758" data-author="Autolycos" data-date="2008-02-16T03:40:12+00:00" data-subject="">
 
 or maybe its just important to know that we should all kick you  :twisted:
 

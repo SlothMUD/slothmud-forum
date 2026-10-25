@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="16560" data-author="Avalon" data-date="2007-01-28T15:04:21+00:00">
+<div class="post" data-post-id="16560" data-author="Avalon" data-date="2007-01-28T15:04:21+00:00" data-subject="Belt of Darkness (Updated Restricts)">
 
 You recite a scroll of identify which dissolves.
 

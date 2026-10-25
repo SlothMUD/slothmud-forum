@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31875" data-author="*Isabo*" data-date="2010-10-17T00:11:28+00:00">
+<div class="post" data-post-id="31875" data-author="*Isabo*" data-date="2010-10-17T00:11:28+00:00" data-subject="Hollow wooden cornett">
 
 Greetings, mortals.
 

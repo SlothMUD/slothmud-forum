@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32027" data-author="*Isabo*" data-date="2010-11-14T03:27:26+00:00">
+<div class="post" data-post-id="32027" data-author="*Isabo*" data-date="2010-11-14T03:27:26+00:00" data-subject="Thalassas mailman">
 
 Greetings, mortals.
 

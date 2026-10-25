@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39554" data-author="Gorka" data-date="2020-08-15T10:06:01+00:00">
+<div class="post" data-post-id="39554" data-author="Gorka" data-date="2020-08-15T10:06:01+00:00" data-subject="How to register for the forum...">
 
 This post is for people trying to register on the forum, of which I frequently hear that people are unable to do. I think most times the issue is that people put the wrong skills in the wrong columns, because the phrase "Who knows what these are???" can be taken either way.
 
@@ -18,7 +18,7 @@ Prediction, Swiftkick, Sharpen, DeathTouch, Urban Stealth need to be in the left
 
 </div>
 
-<div class="post" data-post-id="39557" data-author="Padme" data-date="2020-08-15T15:09:00+00:00">
+<div class="post" data-post-id="39557" data-author="Padme" data-date="2020-08-15T15:09:00+00:00" data-subject="Re: How to register for the forum...">
 
 Thank you so much, Gorka! 
 

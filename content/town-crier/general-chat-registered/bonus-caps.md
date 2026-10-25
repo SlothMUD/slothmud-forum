@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="33072" data-author="Tigris" data-date="2011-12-10T20:45:29+00:00">
+<div class="post" data-post-id="33072" data-author="Tigris" data-date="2011-12-10T20:45:29+00:00" data-subject="Bonus Caps">
 
 Ok, really like all the new information you guys are sharing with us. The new score bonus stats are great! After looking at these new score stats I noticed that Circle damage is capped at 50.....after talking to Cizin it seems that this cap never goes up... I haven't talked to any 1x40 thieves but for the purpose of this post I'll assume that they are capped at 50 also. First this seems very low considering that there are 4 +20 circle damage runes that can be slotted at the same time. 
 
@@ -22,7 +22,7 @@ Also I must admit that I am miffed that I spent all the time and coins to aquire
 
 </div>
 
-<div class="post" data-post-id="33073" data-author="Cizin" data-date="2011-12-10T21:07:05+00:00">
+<div class="post" data-post-id="33073" data-author="Cizin" data-date="2011-12-10T21:07:05+00:00" data-subject="Re: Bonus Caps">
 
 lets see ...
 
@@ -52,7 +52,7 @@ So my question is what is the point of all those circledam and stabdam runes if 
 
 </div>
 
-<div class="post" data-post-id="33074" data-author="*Breeze*" data-date="2011-12-10T21:27:16+00:00">
+<div class="post" data-post-id="33074" data-author="*Breeze*" data-date="2011-12-10T21:27:16+00:00" data-subject="Re: Bonus Caps">
 
 and discussions like this are the reason i told Tuk i would not show exact caps.
 
@@ -70,7 +70,7 @@ thanks.
 
 </div>
 
-<div class="post" data-post-id="33075" data-author="Cizin" data-date="2011-12-10T21:48:50+00:00">
+<div class="post" data-post-id="33075" data-author="Cizin" data-date="2011-12-10T21:48:50+00:00" data-subject="Re: Bonus Caps">
 
 score all2 is probably one of the best feature in past year imho.
 
@@ -80,7 +80,7 @@ No idea why you taking it personally.
 
 </div>
 
-<div class="post" data-post-id="33076" data-author="*Splork*" data-date="2011-12-10T22:21:35+00:00">
+<div class="post" data-post-id="33076" data-author="*Splork*" data-date="2011-12-10T22:21:35+00:00" data-subject="Re: Bonus Caps">
 
 We take it personally sometimes because of how little thought goes into the phrasing of some of the responses, such as "this sucks", or "all the immortals do is nerf", etc etc. Very rarely does a player actually view something through an admins eyes... Obviously it can and does get a little frustrating for us.
 
@@ -94,7 +94,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33077" data-author="Shyla" data-date="2011-12-11T02:04:31+00:00">
+<div class="post" data-post-id="33077" data-author="Shyla" data-date="2011-12-11T02:04:31+00:00" data-subject="Re: Bonus Caps">
 
 is 50 supposed to be the max for circle damage or is this something that is being looked into and tweaked? I have no idea btw what that is like and if it should or not I think they are just curious if it is supposed to be higher to make better use out of the new runes that are out there?
 
@@ -108,13 +108,13 @@ p.s. as much as I whine I must really love it here to be playing here since 1991
 
 </div>
 
-<div class="post" data-post-id="33078" data-author="Tigris" data-date="2011-12-11T02:30:37+00:00">
+<div class="post" data-post-id="33078" data-author="Tigris" data-date="2011-12-11T02:30:37+00:00" data-subject="Re: Bonus Caps">
 
 I thought my original post was pretty diplomatic and provided feedback and ideas..... would you rather us just quit like the other 5x40's and higher you pointed out in the earlier posts? I've played this game since the early 90's (when Geddy and Vom were the creators) and almost never complain and appreciate all you guys do! Love the new score thing .... you provided us with more information.....and in doing so another inconsistency was found and pointed out.... thought that was how things got fixed or changed I didn't expect it to be done today nor was I trying to point a finger at anyone I know you guys do this on your own time and I think all of us appreciate that at least I do.
 
 </div>
 
-<div class="post" data-post-id="33079" data-author="*Splork*" data-date="2011-12-11T02:54:48+00:00">
+<div class="post" data-post-id="33079" data-author="*Splork*" data-date="2011-12-11T02:54:48+00:00" data-subject="Re: Bonus Caps">
 
 > **Tigris wrote:**
 > would you rather us just quit like the other 5x40's and higher you pointed out in the earlier posts?
@@ -144,7 +144,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33080" data-author="blackmore" data-date="2011-12-11T18:08:32+00:00">
+<div class="post" data-post-id="33080" data-author="blackmore" data-date="2011-12-11T18:08:32+00:00" data-subject="Re: Bonus Caps">
 
 I could contribute some.  Caps are all getting easier to reach, and I don't think there's any that go up with levels, it would be nice to see that.  
 
@@ -152,7 +152,7 @@ I cap on dam reduce with no eq at all, that seems sort of  wrong.
 
 </div>
 
-<div class="post" data-post-id="33081" data-author="cyprimus" data-date="2011-12-11T19:08:39+00:00">
+<div class="post" data-post-id="33081" data-author="cyprimus" data-date="2011-12-11T19:08:39+00:00" data-subject="Re: Bonus Caps">
 
 Never knew about caps till new feature was added, so not much i can do.  Only one i though was particularly low was flail damage, i managed to get 3 gems that where +20 each and the walls of jerico shield, only to find it capped at 50.  There are also more eq items to boost it... think you could hit 120 with it if you gave up a lot.. though  i am happy with 50 too.
 
@@ -162,7 +162,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="33082" data-author="Cizin" data-date="2011-12-11T19:10:46+00:00">
+<div class="post" data-post-id="33082" data-author="Cizin" data-date="2011-12-11T19:10:46+00:00" data-subject="Re: Bonus Caps">
 
 Caps for thieves:
 
@@ -226,7 +226,7 @@ Just my two cents.
 
 </div>
 
-<div class="post" data-post-id="33084" data-author="Dragoth" data-date="2011-12-12T04:01:44+00:00">
+<div class="post" data-post-id="33084" data-author="Dragoth" data-date="2011-12-12T04:01:44+00:00" data-subject="Re: Bonus Caps">
 
 > **Cizin wrote:**
 > **Make it 80 fox 8x40, 70 for 7x40, 60 for 6x40 â€¦. 10 for 1x40**.

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2971" data-author="doug" data-date="2004-11-22T21:24:49+00:00">
+<div class="post" data-post-id="2971" data-author="doug" data-date="2004-11-22T21:24:49+00:00" data-subject="looking for comps">
 
 need:
 

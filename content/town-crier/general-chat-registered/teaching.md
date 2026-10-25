@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="12108" data-author="*Splork*" data-date="2006-04-15T22:02:51+00:00">
+<div class="post" data-post-id="12108" data-author="*Splork*" data-date="2006-04-15T22:02:51+00:00" data-subject="Teaching">
 
 I'd like to get everyone's initial reaction to teaching...
 
@@ -28,7 +28,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="12109" data-author="Guinex" data-date="2006-04-15T22:18:43+00:00">
+<div class="post" data-post-id="12109" data-author="Guinex" data-date="2006-04-15T22:18:43+00:00" data-subject="">
 
 I like the who teaching gig.  If you have a pendulum/shard/relocation it is fairly easy to find your focus point, if you don't have those your sol or its gonna take you a while.  And yes i think it helps quite a bit with popping sbs.
 
@@ -36,7 +36,7 @@ One question is can you teach drachma sbs?
 
 </div>
 
-<div class="post" data-post-id="12110" data-author="*Splork*" data-date="2006-04-15T22:21:30+00:00">
+<div class="post" data-post-id="12110" data-author="*Splork*" data-date="2006-04-15T22:21:30+00:00" data-subject="">
 
 Quest spells can not be taught.
 
@@ -44,7 +44,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="12111" data-author="madmax" data-date="2006-04-15T22:56:15+00:00">
+<div class="post" data-post-id="12111" data-author="madmax" data-date="2006-04-15T22:56:15+00:00" data-subject="">
 
 First of all, Kudos to the immortal staff for the introduction of this new skill.
 
@@ -58,7 +58,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="12112" data-author="*Splork*" data-date="2006-04-15T23:21:07+00:00">
+<div class="post" data-post-id="12112" data-author="*Splork*" data-date="2006-04-15T23:21:07+00:00" data-subject="">
 
 I used the peristratum because it  adds a little bit of challenge and questing to the skill. The fact is, it only takes 1 person to find the point. Then the rest of the mud benefits. Having a fixed room is way too easy. 
 
@@ -74,7 +74,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="12113" data-author="*juggleblood*" data-date="2006-04-16T09:13:55+00:00">
+<div class="post" data-post-id="12113" data-author="*juggleblood*" data-date="2006-04-16T09:13:55+00:00" data-subject="">
 
 It's a really interesting addition and saves us the misery of having to pop the same mob twice. Is there a way to make the peristratum not appear in a no-magic room?
 
@@ -88,7 +88,7 @@ P.S. Can I have a drach reward for the spellbook quest submission I gave that KJ
 
 </div>
 
-<div class="post" data-post-id="12114" data-author="12345" data-date="2006-04-16T15:34:59+00:00">
+<div class="post" data-post-id="12114" data-author="12345" data-date="2006-04-16T15:34:59+00:00" data-subject="">
 
 Unless the spellbook quests can be done more than once, it's probably best to keep the normal pops.  I did the sactuary book one and it's a cool quest, less annoying than actually popping (game had just rebooted) and for someone who's familiar with the old school newbie areas, pretty simple.
 
@@ -96,7 +96,7 @@ I only got 2 books though, and my int sucked.  So I had to go find a third book 
 
 </div>
 
-<div class="post" data-post-id="12118" data-author="Tetsulunathaya" data-date="2006-04-16T18:15:44+00:00">
+<div class="post" data-post-id="12118" data-author="Tetsulunathaya" data-date="2006-04-16T18:15:44+00:00" data-subject="">
 
 [quote:1ay4pkk2]Quest spells can not be taught[/quote:1ay4pkk2]
 

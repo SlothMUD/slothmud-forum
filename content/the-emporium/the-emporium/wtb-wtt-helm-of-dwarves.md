@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3166" data-author="Mosaix" data-date="2004-12-04T00:37:22+00:00">
+<div class="post" data-post-id="3166" data-author="Mosaix" data-date="2004-12-04T00:37:22+00:00" data-subject="WTB/WTT Helm of Dwarves">
 
 WTB or WTT for a Helm of the Dwarves.
 

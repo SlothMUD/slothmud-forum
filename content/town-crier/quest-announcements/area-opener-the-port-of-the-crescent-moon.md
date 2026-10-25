@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="38889" data-author="*Idjit*" data-date="2018-06-12T02:14:28+00:00">
+<div class="post" data-post-id="38889" data-author="*Idjit*" data-date="2018-06-12T02:14:28+00:00" data-subject="Area Opener: The Port of the Crescent Moon">
 
 Greetings fellow Jordians:
 
@@ -28,19 +28,19 @@ Join us!
 
 </div>
 
-<div class="post" data-post-id="38891" data-author="Dragoth" data-date="2018-06-13T09:53:09+00:00">
+<div class="post" data-post-id="38891" data-author="Dragoth" data-date="2018-06-13T09:53:09+00:00" data-subject="Re: Area Opener: The Port of the Crescent Moon">
 
 Thank you for pumping out more content for us to enjoy!
 
 </div>
 
-<div class="post" data-post-id="38893" data-author="Driven" data-date="2018-06-13T14:11:39+00:00">
+<div class="post" data-post-id="38893" data-author="Driven" data-date="2018-06-13T14:11:39+00:00" data-subject="Re: Area Opener: The Port of the Crescent Moon">
 
 Aye, though be forewarned -- this isn't a full area -- just a small port town that will be the foundation for my new area.  Quest should be fun though!
 
 </div>
 
-<div class="post" data-post-id="38897" data-author="Josiah" data-date="2018-06-15T05:32:12+00:00">
+<div class="post" data-post-id="38897" data-author="Josiah" data-date="2018-06-15T05:32:12+00:00" data-subject="Re: Area Opener: The Port of the Crescent Moon">
 
 We overheard Captain Paebel and Higgins talking about a new cove they'd found, and also heard a rumor that Azzenon has done some remodeling.
 

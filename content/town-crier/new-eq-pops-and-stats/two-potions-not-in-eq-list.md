@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="7585" data-author="Taki" data-date="2005-06-25T10:49:56+00:00">
+<div class="post" data-post-id="7585" data-author="Taki" data-date="2005-06-25T10:49:56+00:00" data-subject="two potions not in eq list">
 
 hissing blue potion
 

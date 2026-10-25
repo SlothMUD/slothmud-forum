@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26753" data-author="Judge" data-date="2008-10-18T00:29:24+00:00">
+<div class="post" data-post-id="26753" data-author="Judge" data-date="2008-10-18T00:29:24+00:00" data-subject="Change: Exploration &amp; Doors">
 
 After you've explored an area to a certain amount you will be able to see obvious exits in the showexits list
 

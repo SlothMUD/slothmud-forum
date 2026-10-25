@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39293" data-author="Driven" data-date="2019-08-17T16:07:54+00:00">
+<div class="post" data-post-id="39293" data-author="Driven" data-date="2019-08-17T16:07:54+00:00" data-subject="Athenaeum stuff">
 
 I have been intrigued by the Athenaeum eqset for quite some time and I stumbled on the hidden rose petals forge about 6 months ago... this week I finally got around to popping the various pieces of eq in Athenaeum to try to complete the forge as the components are hidden as well.  So here is the info:
 

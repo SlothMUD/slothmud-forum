@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="5360" data-author="Gecko" data-date="2005-04-01T13:25:54+00:00">
+<div class="post" data-post-id="5360" data-author="Gecko" data-date="2005-04-01T13:25:54+00:00" data-subject="skill prac">
 
 Hi everyone.
 
@@ -20,7 +20,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="6361" data-author="Dullgor" data-date="2005-05-21T18:00:48+00:00">
+<div class="post" data-post-id="6361" data-author="Dullgor" data-date="2005-05-21T18:00:48+00:00" data-subject="maybe">
 
 I'm not sure what you have tried but when i was level 1 thief i had to type in read manual, then read 2.manual, read 3.manual...and so on. Try reading them over and over so that you learn everything you can.
 

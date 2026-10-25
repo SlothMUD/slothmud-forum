@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="15820" data-author="Medios" data-date="2006-12-28T19:55:05+00:00">
+<div class="post" data-post-id="15820" data-author="Medios" data-date="2006-12-28T19:55:05+00:00" data-subject="Old Email">
 
 Date: Fri, 30 Jun 2000 22:43:16 -0700 (PDT) 
 
@@ -144,7 +144,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15821" data-author="Autolycos" data-date="2006-12-28T20:12:23+00:00">
+<div class="post" data-post-id="15821" data-author="Autolycos" data-date="2006-12-28T20:12:23+00:00" data-subject="">
 
 even a specialty class being added would be cool... 
 
@@ -156,25 +156,25 @@ cmon... a wraithing thief is just awesome... and adding bard for some would be k
 
 </div>
 
-<div class="post" data-post-id="15822" data-author="Weasel" data-date="2006-12-28T20:18:19+00:00">
+<div class="post" data-post-id="15822" data-author="Weasel" data-date="2006-12-28T20:18:19+00:00" data-subject="">
 
 How about skills/spells that can only be used in specific areas (if you didn't already say that) - that way they don't make players overpowered for the rest of the mud in general..
 
 </div>
 
-<div class="post" data-post-id="15823" data-author="Yinao" data-date="2006-12-28T20:26:42+00:00">
+<div class="post" data-post-id="15823" data-author="Yinao" data-date="2006-12-28T20:26:42+00:00" data-subject="THE new suggestion">
 
 I like the ideas, (comming from a person who doesnt even own a 5x40 char) It gives the Avatars much more to work for and it keeps characters around longer. Seeing people stick around with their original chars would be fun to see and see some old chars come out of retirement would be even more fun. I havent been around long enough to see many chars retired but seeing em come back whether seeing them leave or not would be a major excitement.  :idea:
 
 </div>
 
-<div class="post" data-post-id="15824" data-author="Krok" data-date="2006-12-28T20:33:24+00:00">
+<div class="post" data-post-id="15824" data-author="Krok" data-date="2006-12-28T20:33:24+00:00" data-subject="">
 
 How about trading 40av levels to change a non-prime class? :) (Or 40av and 40 quad, whatever :)
 
 </div>
 
-<div class="post" data-post-id="15830" data-author="Medios" data-date="2006-12-29T01:05:16+00:00">
+<div class="post" data-post-id="15830" data-author="Medios" data-date="2006-12-29T01:05:16+00:00" data-subject="">
 
 I sent this email back in 2000.  I had just found it on an old yahoo acount.  Some of the stuff in the email is in game now.
 
@@ -182,7 +182,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15832" data-author="Corinn" data-date="2006-12-29T03:35:50+00:00">
+<div class="post" data-post-id="15832" data-author="Corinn" data-date="2006-12-29T03:35:50+00:00" data-subject="Re: Old Email">
 
 A point brought up in the
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="457" data-author="Kambal" data-date="2004-06-01T17:53:47+00:00">
+<div class="post" data-post-id="457" data-author="Kambal" data-date="2004-06-01T17:53:47+00:00" data-subject="Animating Dead is it worth?">
 
 Sorry for long post, but i was schocked  :shock: .
 
@@ -174,13 +174,13 @@ The Demolished Room
 
 </div>
 
-<div class="post" data-post-id="460" data-author="Avatar" data-date="2004-06-02T00:21:02+00:00">
+<div class="post" data-post-id="460" data-author="Avatar" data-date="2004-06-02T00:21:02+00:00" data-subject="vampires">
 
 Odd, they even took damage from the acid spit.  That should have drawn them into the fight too.
 
 </div>
 
-<div class="post" data-post-id="472" data-author="Eagle" data-date="2004-06-02T14:47:32+00:00">
+<div class="post" data-post-id="472" data-author="Eagle" data-date="2004-06-02T14:47:32+00:00" data-subject="followers">
 
 This is how i do it,
 
@@ -196,7 +196,7 @@ just set yourself as tank in solo mode. :)
 
 </div>
 
-<div class="post" data-post-id="478" data-author="impz" data-date="2004-06-02T16:53:08+00:00">
+<div class="post" data-post-id="478" data-author="impz" data-date="2004-06-02T16:53:08+00:00" data-subject="Re: followers">
 
 This is how i do it,
 
@@ -214,7 +214,7 @@ why not just order followers assist $tank..easier :)
 
 </div>
 
-<div class="post" data-post-id="483" data-author="Kambal" data-date="2004-06-02T18:59:39+00:00">
+<div class="post" data-post-id="483" data-author="Kambal" data-date="2004-06-02T18:59:39+00:00" data-subject="Re: followers">
 
 This is how i do it,
 
@@ -232,7 +232,7 @@ This should suck, couse every order command ads lag.
 
 </div>
 
-<div class="post" data-post-id="489" data-author="Calim" data-date="2004-06-02T21:57:55+00:00">
+<div class="post" data-post-id="489" data-author="Calim" data-date="2004-06-02T21:57:55+00:00" data-subject="">
 
 I was under the impression that order followerS (note the s) assist kambal would work.  
 
@@ -240,13 +240,13 @@ I don't use them very often, so, try it first on a safe mob :)
 
 </div>
 
-<div class="post" data-post-id="492" data-author="Eagle" data-date="2004-06-02T23:54:11+00:00">
+<div class="post" data-post-id="492" data-author="Eagle" data-date="2004-06-02T23:54:11+00:00" data-subject="followers">
 
 nice, did know followers worked, ill do that now
 
 </div>
 
-<div class="post" data-post-id="549" data-author="nomis" data-date="2004-06-06T03:11:49+00:00">
+<div class="post" data-post-id="549" data-author="nomis" data-date="2004-06-06T03:11:49+00:00" data-subject="">
 
 That is odd indeed. In the begining, I use to order 1.zombie, order 2.zombie etc, until I found out about order followers. 
 
@@ -256,7 +256,7 @@ Anyway, I understand how painful it is for the order followers lag, luckily for 
 
 </div>
 
-<div class="post" data-post-id="554" data-author="Next" data-date="2004-06-06T03:52:22+00:00">
+<div class="post" data-post-id="554" data-author="Next" data-date="2004-06-06T03:52:22+00:00" data-subject="">
 
 The reason they don't always flee is because when anyone tries to flee the mud picks a direction in which they try to do it, if that direction doesn't have an exit then you fail the flee. I could be totaly wrong, since i don't know the code here, but the point is the same - sometimes mobs and players fail their flee :)
 

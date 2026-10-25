@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34150" data-author="*Splork*" data-date="2013-03-14T00:37:59+00:00">
+<div class="post" data-post-id="34150" data-author="*Splork*" data-date="2013-03-14T00:37:59+00:00" data-subject="Lyme Temp Equipment Overhauled">
 
 98% of all temp Lyme equipment has been adjusted. Much of the equipment now contains max_stat affects. 
 

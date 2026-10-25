@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="36108" data-author="Yasik" data-date="2015-09-30T12:06:03+00:00">
+<div class="post" data-post-id="36108" data-author="Yasik" data-date="2015-09-30T12:06:03+00:00" data-subject="A sore in perfectionist&#x27;s eyes">
 
 **A1 the cherub tells you 'I've found a wereturtle in Dark Tunnel, sir!  he's got something!'**
 
@@ -22,7 +22,7 @@ Thanks in advance.
 
 </div>
 
-<div class="post" data-post-id="36465" data-author="Yasik" data-date="2016-01-14T16:50:09+00:00">
+<div class="post" data-post-id="36465" data-author="Yasik" data-date="2016-01-14T16:50:09+00:00" data-subject="Re: A sore in perfectionist&#x27;s eyes">
 
 h rule 1
 
@@ -146,7 +146,7 @@ Anyone caught smuggling temporary equipment will feel the wrath of the gods!
 
 </div>
 
-<div class="post" data-post-id="36492" data-author="Yasik" data-date="2016-01-17T09:27:55+00:00">
+<div class="post" data-post-id="36492" data-author="Yasik" data-date="2016-01-17T09:27:55+00:00" data-subject="Re: A sore in perfectionist&#x27;s eyes">
 
 You are carrying:
 
@@ -214,19 +214,19 @@ Junk what?
 
 </div>
 
-<div class="post" data-post-id="36499" data-author="Teron" data-date="2016-01-17T13:32:25+00:00">
+<div class="post" data-post-id="36499" data-author="Teron" data-date="2016-01-17T13:32:25+00:00" data-subject="Re: A sore in perfectionist&#x27;s eyes">
 
 I think it's safe and easier to submit this one w/ a typos command, Yasik.
 
 </div>
 
-<div class="post" data-post-id="36506" data-author="*juggleblood*" data-date="2016-01-17T21:55:22+00:00">
+<div class="post" data-post-id="36506" data-author="*juggleblood*" data-date="2016-01-17T21:55:22+00:00" data-subject="Re: A sore in perfectionist&#x27;s eyes">
 
 Keyword bright added.
 
 </div>
 
-<div class="post" data-post-id="36806" data-author="Yasik" data-date="2016-04-04T11:19:38+00:00">
+<div class="post" data-post-id="36806" data-author="Yasik" data-date="2016-04-04T11:19:38+00:00" data-subject="Re: A sore in perfectionist&#x27;s eyes">
 
 l
 
@@ -264,7 +264,7 @@ A set of dark jodhpurs lie abandoned here [needs a dot at the end of sentence]
 
 </div>
 
-<div class="post" data-post-id="36815" data-author="Yasik" data-date="2016-04-10T17:52:10+00:00">
+<div class="post" data-post-id="36815" data-author="Yasik" data-date="2016-04-10T17:52:10+00:00" data-subject="Re: A sore in perfectionist&#x27;s eyes">
 
 sack (carried):
 
@@ -304,7 +304,7 @@ a Aquamarine
 
 </div>
 
-<div class="post" data-post-id="36912" data-author="Yasik" data-date="2016-05-07T13:10:11+00:00">
+<div class="post" data-post-id="36912" data-author="Yasik" data-date="2016-05-07T13:10:11+00:00" data-subject="Re: A sore in perfectionist&#x27;s eyes">
 
 Forum cuts images' right side; to see full - link here : [http://s19.postimg.org/pvd38vqqr/AH_immi.jpg](http://s19.postimg.org/pvd38vqqr/AH_immi.jpg)
 
@@ -312,7 +312,7 @@ Forum cuts images' right side; to see full - link here : [http://s19.postimg.org
 
 </div>
 
-<div class="post" data-post-id="36913" data-author="Yasik" data-date="2016-05-07T17:06:52+00:00">
+<div class="post" data-post-id="36913" data-author="Yasik" data-date="2016-05-07T17:06:52+00:00" data-subject="Re: A sore in perfectionist&#x27;s eyes">
 
 Is it supposed to be so ?
 
@@ -390,7 +390,7 @@ A white-robed maiden with tiny white swan-like wings lounges here.
 
 </div>
 
-<div class="post" data-post-id="36941" data-author="Yasik" data-date="2016-05-21T10:57:23+00:00">
+<div class="post" data-post-id="36941" data-author="Yasik" data-date="2016-05-21T10:57:23+00:00" data-subject="Re: A sore in perfectionist&#x27;s eyes">
 
 I'm sure this concept needs to be adjusted.
 
@@ -598,7 +598,7 @@ speak with dead               - Lvl:  3, Mana: 25, Learned  95%
 
 </div>
 
-<div class="post" data-post-id="37040" data-author="Yasik" data-date="2016-07-11T09:29:35+00:00">
+<div class="post" data-post-id="37040" data-author="Yasik" data-date="2016-07-11T09:29:35+00:00" data-subject="Re: A sore in perfectionist&#x27;s eyes">
 
 Cannot sacrifice anything except top corpse in the room, and it must be not 1.corpse, but just "corpse".
 

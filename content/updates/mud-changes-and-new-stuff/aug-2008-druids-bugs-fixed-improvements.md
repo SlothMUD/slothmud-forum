@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26445" data-author="Judge" data-date="2008-09-24T07:42:57+00:00">
+<div class="post" data-post-id="26445" data-author="Judge" data-date="2008-09-24T07:42:57+00:00" data-subject="Aug 2008: Druids - Bugs Fixed &amp; Improvements">
 
 There have been a huge number of bugs relating to druid, I've made a big dent in that pile:
 

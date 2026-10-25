@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="33366" data-author="Bettina" data-date="2012-07-09T19:55:53+00:00">
+<div class="post" data-post-id="33366" data-author="Bettina" data-date="2012-07-09T19:55:53+00:00" data-subject="Drachma EQ ?">
 
 Been wondering for the past couple days when and why drachma shops have gone back to selling old eq?  Tried to find out ingame on several occasions but ended up getting no results..  Feeling a bit ignored and that no one cares.. *sniff*  I could be the only one to feel this way, but I think being informed at all times on what's currently going on with dr eq is very important.. 
 
@@ -18,7 +18,7 @@ Been wondering for the past couple days when and why drachma shops have gone bac
 
 </div>
 
-<div class="post" data-post-id="33367" data-author="*Splork*" data-date="2012-07-10T00:08:42+00:00">
+<div class="post" data-post-id="33367" data-author="*Splork*" data-date="2012-07-10T00:08:42+00:00" data-subject="Re: Drachma EQ ?">
 
 This was probably caused by me, I had to copy area files from the test port to here in regards to the x and y coordinates used for flash client. I am guessing the shops were not updated over there. The grenade bug was also caused by this move...
 
@@ -28,13 +28,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33368" data-author="Bettina" data-date="2012-07-10T02:27:20+00:00">
+<div class="post" data-post-id="33368" data-author="Bettina" data-date="2012-07-10T02:27:20+00:00" data-subject="Re: Drachma EQ ?">
 
 Ok, thank you.  Appreciate the info :)
 
 </div>
 
-<div class="post" data-post-id="33387" data-author="Tuck" data-date="2012-07-19T22:01:53+00:00">
+<div class="post" data-post-id="33387" data-author="Tuck" data-date="2012-07-19T22:01:53+00:00" data-subject="Re: Drachma EQ ?">
 
 > **Bettina wrote:**
 > Ok, thank you.  Appreciate the info :)
@@ -45,7 +45,7 @@ there is also feature of eqlist when it showing items with same name, but with d
 
 </div>
 
-<div class="post" data-post-id="33390" data-author="*Breeze*" data-date="2012-07-20T06:44:34+00:00">
+<div class="post" data-post-id="33390" data-author="*Breeze*" data-date="2012-07-20T06:44:34+00:00" data-subject="Re: Drachma EQ ?">
 
 ok. the eq both have the same exact names. 
 
@@ -61,7 +61,7 @@ play.
 
 </div>
 
-<div class="post" data-post-id="33391" data-author="Toxis" data-date="2012-07-21T01:20:48+00:00">
+<div class="post" data-post-id="33391" data-author="Toxis" data-date="2012-07-21T01:20:48+00:00" data-subject="Re: Drachma EQ ?">
 
 Currently there is an old bal harbor area file that got moved over on accident.  We are waiting for the newer version of the area file to be loaded and then, yes, I will add the legacy flag on the equipment.
 
@@ -69,7 +69,7 @@ Currently there is an old bal harbor area file that got moved over on accident. 
 
 </div>
 
-<div class="post" data-post-id="33392" data-author="*Breeze*" data-date="2012-07-21T10:19:40+00:00">
+<div class="post" data-post-id="33392" data-author="*Breeze*" data-date="2012-07-21T10:19:40+00:00" data-subject="Re: Drachma EQ ?">
 
 area restored by Splork this morning.
 

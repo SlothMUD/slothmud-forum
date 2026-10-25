@@ -10,7 +10,7 @@ locked: false
 post_count: 33
 ---
 
-<div class="post" data-post-id="2674" data-author="Alexdmage" data-date="2004-11-08T12:47:56+00:00">
+<div class="post" data-post-id="2674" data-author="Alexdmage" data-date="2004-11-08T12:47:56+00:00" data-subject="Some spells suggestions.">
 
 Our immortals seem to be in the mood to make some changes and additions to a mud, so i decided to make some more random suggestions on spells and skills.
 
@@ -22,13 +22,13 @@ enough imho) If you give it to Druid (some kind of Regrowth) you can make it wor
 
 </div>
 
-<div class="post" data-post-id="2675" data-author="12345" data-date="2004-11-08T13:24:41+00:00">
+<div class="post" data-post-id="2675" data-author="12345" data-date="2004-11-08T13:24:41+00:00" data-subject="">
 
 I'd like to see clerics (primes especially) be more useful.  In particular, one of there prime abilities (blindness) is actually more useful as the mage spell acid blast.  Clerics get blindness at lower levels, but can only cast it outside of battle.  Also, many mobs that are noblind can be acid blinded.  How about an improved blindness spell at higher levels that clerics could use to fight the extended battles they're built for?  Even better, a version that could be cast while the mob is STILL blind to reset the timer?
 
 </div>
 
-<div class="post" data-post-id="2679" data-author="guest" data-date="2004-11-08T15:44:01+00:00">
+<div class="post" data-post-id="2679" data-author="guest" data-date="2004-11-08T15:44:01+00:00" data-subject="">
 
 As for the first spell... hm... why not to give a monk burning
 
@@ -60,7 +60,7 @@ able to put a breath of life into that soulless body.
 
 </div>
 
-<div class="post" data-post-id="2680" data-author="Gnu" data-date="2004-11-08T15:46:30+00:00">
+<div class="post" data-post-id="2680" data-author="Gnu" data-date="2004-11-08T15:46:30+00:00" data-subject="">
 
 That was :)
 
@@ -68,7 +68,7 @@ And one more comment, Alex, collect spellbonus mode and you'll see the real powe
 
 </div>
 
-<div class="post" data-post-id="2682" data-author="Alberich" data-date="2004-11-08T15:51:08+00:00">
+<div class="post" data-post-id="2682" data-author="Alberich" data-date="2004-11-08T15:51:08+00:00" data-subject="Re: Some spells suggestions.">
 
 2. Raise Dead. There are no abilities except Raise Dead that can be used by only one class. You was talking about increasing gropability of Ne and Dr class, then give one of them an analog of this spell! If you give it to Necro, you can make it a flawed version or Raise Dead, afflicting raised player with weaken or disease or something. (lepricosy disease looks bad 
 
@@ -78,7 +78,7 @@ uhm.. firewind?  clerics raise, mages blast, that is what they do.  give those a
 
 </div>
 
-<div class="post" data-post-id="2684" data-author="12345" data-date="2004-11-08T16:30:45+00:00">
+<div class="post" data-post-id="2684" data-author="12345" data-date="2004-11-08T16:30:45+00:00" data-subject="Re: Some spells suggestions.">
 
 should alway be unique spells for classes so you have to make choices when you create a classo, otherwise why have a multi-class mud?[/quote:a1rd7y7y]
 
@@ -86,13 +86,13 @@ I agree with Alberich, but the original reason Sloth allowed you to play all fou
 
 </div>
 
-<div class="post" data-post-id="2690" data-author="Alexdmage" data-date="2004-11-08T17:25:11+00:00">
+<div class="post" data-post-id="2690" data-author="Alexdmage" data-date="2004-11-08T17:25:11+00:00" data-subject="">
 
 Ppl, I repeat, Raise Dead is the only unique spell ingame. Every other ability is available in some form to at least two classes. Necros and Bards can blast, Druids can heal, Bards can steal end etc. And about enother my suggestion, it's in some way an analog of enchant weapon but for unarmed fighters. No one says that you must make 100% rate proc.
 
 </div>
 
-<div class="post" data-post-id="2691" data-author="12345" data-date="2004-11-08T17:39:39+00:00">
+<div class="post" data-post-id="2691" data-author="12345" data-date="2004-11-08T17:39:39+00:00" data-subject="">
 
 Unique/Semi-unique abilities:
 
@@ -116,7 +116,7 @@ What are you talking about?
 
 </div>
 
-<div class="post" data-post-id="2693" data-author="Alexdmage" data-date="2004-11-08T18:28:36+00:00">
+<div class="post" data-post-id="2693" data-author="Alexdmage" data-date="2004-11-08T18:28:36+00:00" data-subject="">
 
 12345, I will be patient and will just answer all your examples.
 
@@ -144,13 +144,13 @@ Wraithform... well, no analogs for wraithform, i agree.
 
 </div>
 
-<div class="post" data-post-id="2694" data-author="Alexdmage" data-date="2004-11-08T18:36:45+00:00">
+<div class="post" data-post-id="2694" data-author="Alexdmage" data-date="2004-11-08T18:36:45+00:00" data-subject="">
 
 Btw you can say that Death Pact is analog of Raise Dead, but it only allows you to raise self, and is not improving groupability of necro imho. Well, anyway it exists, so maybe there is really no need to add something else.
 
 </div>
 
-<div class="post" data-post-id="2695" data-author="12345" data-date="2004-11-08T19:07:49+00:00">
+<div class="post" data-post-id="2695" data-author="12345" data-date="2004-11-08T19:07:49+00:00" data-subject="">
 
 I apologize, I wasn't trying to sounds offensive.  However, I think many of the analogs you mentioned have some key differences.  For instance, Darksight allows you to see items in the dark, instead of having to hold a light to loot.  Nice ability.  If a +darksight light ever comes out in the game it will near the top of my list of items to acquire and I may go so far as to request it as an Avatar item.
 
@@ -162,19 +162,19 @@ This was fun  :)
 
 </div>
 
-<div class="post" data-post-id="2696" data-author="Avatar" data-date="2004-11-08T19:15:28+00:00">
+<div class="post" data-post-id="2696" data-author="Avatar" data-date="2004-11-08T19:15:28+00:00" data-subject="Cl">
 
 Raise dead should stay cleric only.  The same day Jake talked about bards being the least-picked class he also said that clerics are the most-picked class.  (Just not prime.)  Cleric is a very useful class, just not very powerful when soloing.
 
 </div>
 
-<div class="post" data-post-id="2698" data-author="Sapient" data-date="2004-11-08T20:05:50+00:00">
+<div class="post" data-post-id="2698" data-author="Sapient" data-date="2004-11-08T20:05:50+00:00" data-subject="Warrior skills/abilities">
 
 How about something new for the warrior? I like the idea of weapon masteries. In addition, how about giving warrior a natural ability to resist magic (improved saving throws)?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="2702" data-author="guest" data-date="2004-11-08T21:49:09+00:00">
+<div class="post" data-post-id="2702" data-author="guest" data-date="2004-11-08T21:49:09+00:00" data-subject="New spells">
 
 I agree with sapient on the weapon masteries.  That could be used by a variety of classes.  Certain classes rely on bladed weapons, while others non-bladed.  You could even included a specialization for pole arms.
 
@@ -188,7 +188,7 @@ There would have to be some kind of system put in place as to when you could inc
 
 </div>
 
-<div class="post" data-post-id="2713" data-author="Gnu" data-date="2004-11-09T09:25:57+00:00">
+<div class="post" data-post-id="2713" data-author="Gnu" data-date="2004-11-09T09:25:57+00:00" data-subject="Re: New spells">
 
 I have also lobbied for an additional guild that would allow additional mastery of spells beyond 95%.  In exchange for exp and coin, one could increase their spell knowledge to a supreme level or even to the point of arcane knowledge.  With that knowledge, loosing concentration would not occur as often and having such superior knowledge, even the power of a spell could be increased slightly. 
 
@@ -200,7 +200,7 @@ I think you forgot to suggest 'summon grenade' spell! And 'mass grenade summon' 
 
 </div>
 
-<div class="post" data-post-id="2717" data-author="Mullah" data-date="2004-11-09T14:06:41+00:00">
+<div class="post" data-post-id="2717" data-author="Mullah" data-date="2004-11-09T14:06:41+00:00" data-subject="">
 
 I wish folks weren't so crafty, anonymity for weaks!
 
@@ -208,7 +208,7 @@ aa
 
 </div>
 
-<div class="post" data-post-id="2718" data-author="12345" data-date="2004-11-09T14:13:01+00:00">
+<div class="post" data-post-id="2718" data-author="12345" data-date="2004-11-09T14:13:01+00:00" data-subject="Re: New spells">
 
 I think you forgot to suggest 'summon grenade' spell! And 'mass grenade summon' for avatars...[/quote:1ik3rj8v]
 
@@ -218,7 +218,7 @@ Don't think I added anything too overpower in that  :)
 
 </div>
 
-<div class="post" data-post-id="2731" data-author="Ki" data-date="2004-11-09T21:08:43+00:00">
+<div class="post" data-post-id="2731" data-author="Ki" data-date="2004-11-09T21:08:43+00:00" data-subject="grenade?">
 
 I don't think a +20 bonus on heal is gernade power.  The bonus attributed to the spell you choose to increase knowledge in would have to be proportional to the cost in exp and gold required for such schooling.  Blasting spells should not be increased to do insane amounts of extra damage but an acceptable increase.  I am not sure how much more potent a masterful cast really is on any spell, but I don't think you knowledge of the spell increases the amount of masterful casts.  I have cast masterful on spells only known at 50%.  It would give people yet another thing to spend time earning xp and coins for, besides just leveling.
 
@@ -226,25 +226,25 @@ Even those who choose to keep a valk character under level 21 could participate.
 
 </div>
 
-<div class="post" data-post-id="2732" data-author="Avatar" data-date="2004-11-09T21:30:07+00:00">
+<div class="post" data-post-id="2732" data-author="Avatar" data-date="2004-11-09T21:30:07+00:00" data-subject="specialty spells">
 
 If they do anything to allow a character to specialize spells / abilities past 95%, I hope they add some drastic limits.  Maybe each character should only have 1 spell that they can specialize in to that extent.
 
 </div>
 
-<div class="post" data-post-id="2736" data-author="Avatar" data-date="2004-11-09T22:36:24+00:00">
+<div class="post" data-post-id="2736" data-author="Avatar" data-date="2004-11-09T22:36:24+00:00" data-subject="cl">
 
 How come I've never seen a masterful heal/gheal/restore?  Cures even?
 
 </div>
 
-<div class="post" data-post-id="2739" data-author="blackmore" data-date="2004-11-10T02:15:22+00:00">
+<div class="post" data-post-id="2739" data-author="blackmore" data-date="2004-11-10T02:15:22+00:00" data-subject="">
 
 There are 2 skills to improve concentration rates - and they're both avatar skills.  Do we really think they'll make them 1x40 skills?  I'm not saying it's impossible, since they did it before with ID for bards, but I'd consider it highly unlikely.
 
 </div>
 
-<div class="post" data-post-id="2743" data-author="Mullah" data-date="2004-11-10T12:43:19+00:00">
+<div class="post" data-post-id="2743" data-author="Mullah" data-date="2004-11-10T12:43:19+00:00" data-subject="">
 
 firewind and heals do not have masterful versions that I have ever noticed.
 
@@ -256,7 +256,7 @@ quit puling..characters are so overpowered now it's not funny.
 
 </div>
 
-<div class="post" data-post-id="2744" data-author="12345" data-date="2004-11-10T13:25:31+00:00">
+<div class="post" data-post-id="2744" data-author="12345" data-date="2004-11-10T13:25:31+00:00" data-subject="">
 
 There are 2 skills to improve concentration rates - and they're both avatar skills.  Do we really think they'll make them 1x40 skills?[/quote:qt10rr30]
 
@@ -268,7 +268,7 @@ It would be reasonable for spells up to a certain level gain a percentage boost 
 
 </div>
 
-<div class="post" data-post-id="2745" data-author="Xandora" data-date="2004-11-10T13:43:48+00:00">
+<div class="post" data-post-id="2745" data-author="Xandora" data-date="2004-11-10T13:43:48+00:00" data-subject="">
 
 quit puling..characters are so overpowered now it's not funny.[/quote:1qdbi5im]
 
@@ -286,7 +286,7 @@ Flame away >:)
 
 </div>
 
-<div class="post" data-post-id="2746" data-author="12345" data-date="2004-11-10T13:55:05+00:00">
+<div class="post" data-post-id="2746" data-author="12345" data-date="2004-11-10T13:55:05+00:00" data-subject="">
 
 Characters are very overpowered.  It's likely to stay that way until AC is fixed.  It can't get any lower without reworking half the mud.  It can't get any higher without nerfing almost everyone but the druids and warriors.
 
@@ -294,7 +294,7 @@ Unless they come up with some kind of classo determined AC cap, it's likely to s
 
 </div>
 
-<div class="post" data-post-id="2747" data-author="12345" data-date="2004-11-10T14:25:14+00:00">
+<div class="post" data-post-id="2747" data-author="12345" data-date="2004-11-10T14:25:14+00:00" data-subject="">
 
 For example:
 
@@ -322,7 +322,7 @@ Flames?
 
 </div>
 
-<div class="post" data-post-id="2749" data-author="blackmore" data-date="2004-11-10T15:39:00+00:00">
+<div class="post" data-post-id="2749" data-author="blackmore" data-date="2004-11-10T15:39:00+00:00" data-subject="">
 
 I don't think this would ever work.  First of all, people put a large amount of time and effort into their eq sets, and telling them something they spent 3 months forging is no longer useful would not go over well.
 
@@ -332,7 +332,7 @@ I'm not opposed to a system where everyone doesn't run around like a tank, but I
 
 </div>
 
-<div class="post" data-post-id="2750" data-author="Mullah" data-date="2004-11-10T17:55:02+00:00">
+<div class="post" data-post-id="2750" data-author="Mullah" data-date="2004-11-10T17:55:02+00:00" data-subject="">
 
 pretty much, parry is the only thing that makes a warrior prime
 
@@ -352,7 +352,7 @@ why do none of the new classes roll str ?
 
 </div>
 
-<div class="post" data-post-id="2751" data-author="12345" data-date="2004-11-10T18:36:52+00:00">
+<div class="post" data-post-id="2751" data-author="12345" data-date="2004-11-10T18:36:52+00:00" data-subject="">
 
 Second, bmore currently runs at -10ac, 892hps, 539 mana.  Forcing him to run at an extra 1.0ac would probably increase his power once I got a new eq set built, because of all the added bonuses he could get with a different eq set.[/quote:18tb3w21]
 
@@ -364,13 +364,13 @@ Not the arguments I was expecting.  :lol:
 
 </div>
 
-<div class="post" data-post-id="2753" data-author="nada" data-date="2004-11-10T19:11:58+00:00">
+<div class="post" data-post-id="2753" data-author="nada" data-date="2004-11-10T19:11:58+00:00" data-subject="wa">
 
 I think they were saying that warriors are the only characters that would stay static under your system, which means that everyone else pretty much gets shafted.  It might be nice if you could start a new system from scratch, but it's not going to work with so many legacy players who have put forth so much effort to get that -10 and -11 gear.
 
 </div>
 
-<div class="post" data-post-id="2754" data-author="Mullah" data-date="2004-11-10T19:20:58+00:00">
+<div class="post" data-post-id="2754" data-author="Mullah" data-date="2004-11-10T19:20:58+00:00" data-subject="">
 
 Hehe, 12345 I'm not gonna even dignify your armor classing suggestions
 
@@ -388,7 +388,7 @@ a necro rolls con secondary ..
 
 </div>
 
-<div class="post" data-post-id="2756" data-author="12345" data-date="2004-11-10T19:43:39+00:00">
+<div class="post" data-post-id="2756" data-author="12345" data-date="2004-11-10T19:43:39+00:00" data-subject="">
 
 Hehe, 12345 I'm not gonna even dignify your armor classing suggestions with a flame...it's just not how Sloth works.[/quote:bphd87uf]
 
@@ -398,7 +398,7 @@ The solution, simple as it is, seems more painful than the problem.  Another sol
 
 </div>
 
-<div class="post" data-post-id="2759" data-author="Mullah" data-date="2004-11-10T22:14:30+00:00">
+<div class="post" data-post-id="2759" data-author="Mullah" data-date="2004-11-10T22:14:30+00:00" data-subject="">
 
 it's cool dude I agree
 

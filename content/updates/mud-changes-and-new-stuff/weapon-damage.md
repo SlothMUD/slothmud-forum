@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35411" data-author="*Splork*" data-date="2014-08-06T22:38:39+00:00">
+<div class="post" data-post-id="35411" data-author="*Splork*" data-date="2014-08-06T22:38:39+00:00" data-subject="Weapon Damage">
 
 Weapon damage was slightly broken. There was no cap being applied and the MSDP was reading the actual
 

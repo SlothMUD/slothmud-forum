@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="4269" data-author="*Splork*" data-date="2005-02-09T16:40:49+00:00">
+<div class="post" data-post-id="4269" data-author="*Splork*" data-date="2005-02-09T16:40:49+00:00" data-subject="Small change">
 
 We have made it so that players below the level of 10 will not disengage a mob when they are incapped, stunned, or mortally wounded. We did this because the majority, if not all, of the new players we are getting hated typing kill <mobname) 100 times to kill a mob.
 

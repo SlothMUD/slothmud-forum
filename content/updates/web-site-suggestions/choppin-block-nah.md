@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="5400" data-author="Vekna" data-date="2005-04-03T00:06:25+00:00">
+<div class="post" data-post-id="5400" data-author="Vekna" data-date="2005-04-03T00:06:25+00:00" data-subject="choppin block nah">
 
 Look at date plz!
 
@@ -62,7 +62,7 @@ Falados	5900000	2005-03-31 16:00:46
 
 </div>
 
-<div class="post" data-post-id="5401" data-author="Clink" data-date="2005-04-03T01:43:31+00:00">
+<div class="post" data-post-id="5401" data-author="Clink" data-date="2005-04-03T01:43:31+00:00" data-subject="">
 
 I guess what you are asking is why you didn't win the auction.  The answer is that Vixn posted a higher bid on 3-29 and you kept bidding smaller amounts up on 4-2.  You never exceeded Vixn's high bid (which isn't actually shown since it was never exceeded).  All you did was push up Vixn's bid to an increment above what you decided your maximum was (though you decided your maximum three times).
 
@@ -72,7 +72,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="5405" data-author="Vekna" data-date="2005-04-03T07:11:19+00:00">
+<div class="post" data-post-id="5405" data-author="Vekna" data-date="2005-04-03T07:11:19+00:00" data-subject="">
 
 i cant give full log of auction, but when i submit any bid _at once_ after reload page Vixn make higher bid. AND! in log i cant see this Vixn's bid.
 
@@ -170,7 +170,7 @@ Well... I still think here is some problem with chopping block.
 
 </div>
 
-<div class="post" data-post-id="5406" data-author="Avatar" data-date="2005-04-03T12:00:57+00:00">
+<div class="post" data-post-id="5406" data-author="Avatar" data-date="2005-04-03T12:00:57+00:00" data-subject="auction">
 
 When you bid on an item, the web page doesn't apply your entire bid automatically.  It starts at whatever the current value is, adds the increment, and applies that as your bid.  If that's high enough to win the item, you don't pay your highest bid you only pay the current winning bid.
 
@@ -178,7 +178,7 @@ If there's an item on there that someone has bid 500 coins on, and the increment
 
 </div>
 
-<div class="post" data-post-id="5407" data-author="Mosaix" data-date="2005-04-03T12:52:06+00:00">
+<div class="post" data-post-id="5407" data-author="Mosaix" data-date="2005-04-03T12:52:06+00:00" data-subject="">
 
 This auction seems to work on the same idea as [www.ebay.com](http://www.ebay.com).
 
@@ -192,13 +192,13 @@ If you want to win an item, make a winning bid, its pretty simple.
 
 </div>
 
-<div class="post" data-post-id="5408" data-author="Avatar" data-date="2005-04-03T13:51:04+00:00">
+<div class="post" data-post-id="5408" data-author="Avatar" data-date="2005-04-03T13:51:04+00:00" data-subject="bids">
 
 I think more likely he doesn't understand how e-bay / chopping block work.  It's probably a simple misunderstanding.
 
 </div>
 
-<div class="post" data-post-id="5411" data-author="Vekna" data-date="2005-04-03T18:02:43+00:00">
+<div class="post" data-post-id="5411" data-author="Vekna" data-date="2005-04-03T18:02:43+00:00" data-subject="">
 
 Stupid idea i think.
 
@@ -206,7 +206,7 @@ But i understand.
 
 </div>
 
-<div class="post" data-post-id="5413" data-author="Deju" data-date="2005-04-04T00:33:58+00:00">
+<div class="post" data-post-id="5413" data-author="Deju" data-date="2005-04-04T00:33:58+00:00" data-subject="">
 
 Yeah, stupid idea.  Thats why ebay and just about every other auction site in the world uses the same method for bidding.
 
@@ -214,7 +214,7 @@ Yeah, stupid idea.  Thats why ebay and just about every other auction site in th
 
 </div>
 
-<div class="post" data-post-id="5419" data-author="Autolycos" data-date="2005-04-04T13:25:59+00:00">
+<div class="post" data-post-id="5419" data-author="Autolycos" data-date="2005-04-04T13:25:59+00:00" data-subject="">
 
 laff  Deju...  :twisted:
 

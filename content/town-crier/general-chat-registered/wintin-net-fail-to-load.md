@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="24108" data-author="nomic" data-date="2008-04-30T04:15:10+00:00">
+<div class="post" data-post-id="24108" data-author="nomic" data-date="2008-04-30T04:15:10+00:00" data-subject="Wintin.net Fail to load">
 
 Greetings Guys, 
 
@@ -28,7 +28,7 @@ Nomic
 
 </div>
 
-<div class="post" data-post-id="24112" data-author="jezer" data-date="2008-04-30T04:39:24+00:00">
+<div class="post" data-post-id="24112" data-author="jezer" data-date="2008-04-30T04:39:24+00:00" data-subject="">
 
 Wintin uses XML to store the settings from memory. If you reinstall wintin and it's not fixed, then the bug/corruption that causes the crash is in something that has been left behind... like a setting file. Look for files with an XML extenstion.
 
@@ -46,7 +46,7 @@ If you really want to fix your current copy, then send me a pm, and we can arran
 
 </div>
 
-<div class="post" data-post-id="24114" data-author="nomic" data-date="2008-04-30T05:11:03+00:00">
+<div class="post" data-post-id="24114" data-author="nomic" data-date="2008-04-30T05:11:03+00:00" data-subject="">
 
 U R the SAVIOUR! 
 

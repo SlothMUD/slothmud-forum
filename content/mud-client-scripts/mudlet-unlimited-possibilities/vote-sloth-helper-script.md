@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39652" data-author="cnl" data-date="2020-12-30T19:56:27+00:00">
+<div class="post" data-post-id="39652" data-author="cnl" data-date="2020-12-30T19:56:27+00:00" data-subject="VOTE SLOTH Helper Script">
 
 Displays a large clickable banner on login or reconnect reminding you to vote for SlothMUD if it has been more than 12 hours since you last clicked the banner.
 

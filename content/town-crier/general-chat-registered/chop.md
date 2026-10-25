@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="26128" data-author="jezer" data-date="2008-09-04T00:06:25+00:00">
+<div class="post" data-post-id="26128" data-author="jezer" data-date="2008-09-04T00:06:25+00:00" data-subject="Chop">
 
 I need a relo book soon. I remember hitting the mob with Yasik... Hermes right? Chop mob. I'm also forging Sleeves of the Laughing Rogue which requires me to hit the master thief in CK.
 
@@ -22,7 +22,7 @@ Does anyone know how much damage a chop does roughly to a mobs hit points?
 
 </div>
 
-<div class="post" data-post-id="26129" data-author="alias" data-date="2008-09-04T02:14:01+00:00">
+<div class="post" data-post-id="26129" data-author="alias" data-date="2008-09-04T02:14:01+00:00" data-subject="">
 
 You can.
 
@@ -32,13 +32,13 @@ Not as many groups in general lately.
 
 </div>
 
-<div class="post" data-post-id="26132" data-author="Yinao" data-date="2008-09-04T03:31:54+00:00">
+<div class="post" data-post-id="26132" data-author="Yinao" data-date="2008-09-04T03:31:54+00:00" data-subject="">
 
 From what I understand with chop, correct me if I'm wrong, but each chop isn't a certain amount of HP. It's a % of hp based on what the Mob has remaining.
 
 </div>
 
-<div class="post" data-post-id="26134" data-author="*juggleblood*" data-date="2008-09-04T04:49:47+00:00">
+<div class="post" data-post-id="26134" data-author="*juggleblood*" data-date="2008-09-04T04:49:47+00:00" data-subject="">
 
 Actually, once you chop off all of a mobs limbs it dies, regardless of hp.
 
@@ -46,7 +46,7 @@ All chop mobs have around 3d4 limbs.
 
 </div>
 
-<div class="post" data-post-id="26138" data-author="jezer" data-date="2008-09-04T05:15:52+00:00">
+<div class="post" data-post-id="26138" data-author="jezer" data-date="2008-09-04T05:15:52+00:00" data-subject="">
 
 Interesting stuff... what Yinao said sounds about right. I remember when we hit spiritualist in tony's the first chops seemed to do more damage than the later ones, which suggests a percentage. 
 
@@ -58,7 +58,7 @@ Oh, BTW, can't you throw the spec at the mob, doing a large amount of damage... 
 
 </div>
 
-<div class="post" data-post-id="26141" data-author="brady" data-date="2008-09-04T12:40:58+00:00">
+<div class="post" data-post-id="26141" data-author="brady" data-date="2008-09-04T12:40:58+00:00" data-subject="">
 
 Master Thief is a pretty easy chop.  He can be a one run solo, provided you don't chop off your own head.
 
@@ -68,7 +68,7 @@ And chop is just boring, I think.  I've been wanting 2 of those schmancy rings o
 
 </div>
 
-<div class="post" data-post-id="26143" data-author="Yasik2" data-date="2008-09-04T15:34:29+00:00">
+<div class="post" data-post-id="26143" data-author="Yasik2" data-date="2008-09-04T15:34:29+00:00" data-subject="">
 
 Hermes is solo. I did that.
 

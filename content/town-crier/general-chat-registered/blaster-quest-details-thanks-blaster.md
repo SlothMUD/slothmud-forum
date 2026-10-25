@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="12726" data-author="madmax" data-date="2006-05-26T04:23:56+00:00">
+<div class="post" data-post-id="12726" data-author="madmax" data-date="2006-05-26T04:23:56+00:00" data-subject="Blaster Quest Details --- Thanks Blaster!!">
 
 For thoes who were not online Wed, 8pm CT, Blaster ran another "greed" quest similar to the previous one.  Very well thoughtout, lots of carnage, especially with the quest group.
 
@@ -78,7 +78,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="12727" data-author="Gimlet" data-date="2006-05-26T10:58:13+00:00">
+<div class="post" data-post-id="12727" data-author="Gimlet" data-date="2006-05-26T10:58:13+00:00" data-subject="">
 
 I arrived late for the quest, but from whatever i experienced from it, was pretty fun :)
 
@@ -86,7 +86,7 @@ shame on those of you who sent blaster nasty tells because you didn't get any re
 
 </div>
 
-<div class="post" data-post-id="12730" data-author="Corinn" data-date="2006-05-26T12:25:26+00:00">
+<div class="post" data-post-id="12730" data-author="Corinn" data-date="2006-05-26T12:25:26+00:00" data-subject="">
 
 I have to re-apologize that minstrel and blaster thought I was botting, when in reality I fell asleep.  I was all drugged up on cold medicine.  My short stint in mud jail made me realize that I was no help whatsoever in my condition so I withdrew from the quest.  It was fun while I was there though, and hopefully I'll be able to make it to the next one.  
 
@@ -94,7 +94,7 @@ I have to re-apologize that minstrel and blaster thought I was botting, when in 
 
 </div>
 
-<div class="post" data-post-id="12742" data-author="Medios" data-date="2006-05-26T21:54:02+00:00">
+<div class="post" data-post-id="12742" data-author="Medios" data-date="2006-05-26T21:54:02+00:00" data-subject="">
 
 I had alot of fun leading this quest.  I have led several in the past but only recently have group numbers been so inflated.  I feel confident in leading any size group, but my monitor is only so big.  Here are a few ideas I have to help increase the fun.
 
@@ -136,7 +136,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="12743" data-author="Blaster" data-date="2006-05-26T23:14:08+00:00">
+<div class="post" data-post-id="12743" data-author="Blaster" data-date="2006-05-26T23:14:08+00:00" data-subject="">
 
 1  Giving super duper eq to a leader and asking to keep or trade in kinda detracts from the whole drachma idea.  I thought drachma was something to keep everyone in quests from being upset about rewards.  Even 10 drachma is good and everyone has a good time.  Should the imm or the group decide who gets something?  One time Dug passed out eq to players in the group who did the most to finish the puzzle.  We all felt it was very fair and everyone was happy, this was pre-drachma times.  
 
@@ -154,7 +154,7 @@ Dustin aka Blaster
 
 </div>
 
-<div class="post" data-post-id="12750" data-author="Gimlet" data-date="2006-05-27T03:25:24+00:00">
+<div class="post" data-post-id="12750" data-author="Gimlet" data-date="2006-05-27T03:25:24+00:00" data-subject="">
 
 it's funny too, how several of the "hotshots" who said they would do the same and loot the quest eq during quest and not turn it in even if they weren't leader, were the same ones who supposedly bitched about not getting a reward.
 
@@ -162,7 +162,7 @@ lame hypocrites
 
 </div>
 
-<div class="post" data-post-id="12753" data-author="Clink" data-date="2006-05-28T00:25:40+00:00">
+<div class="post" data-post-id="12753" data-author="Clink" data-date="2006-05-28T00:25:40+00:00" data-subject="">
 
 Just an update on another quest:
 
@@ -250,7 +250,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="12754" data-author="madmax" data-date="2006-05-28T03:09:32+00:00">
+<div class="post" data-post-id="12754" data-author="madmax" data-date="2006-05-28T03:09:32+00:00" data-subject="">
 
 MMMM Carnage!
 

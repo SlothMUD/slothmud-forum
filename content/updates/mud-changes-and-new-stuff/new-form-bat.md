@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26751" data-author="Judge" data-date="2008-10-17T20:02:22+00:00">
+<div class="post" data-post-id="26751" data-author="Judge" data-date="2008-10-17T20:02:22+00:00" data-subject="New Form: Bat">
 
 This form requires an object to aid transformation
 

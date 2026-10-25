@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="2319" data-author="wampire" data-date="2004-10-14T20:44:59+00:00">
+<div class="post" data-post-id="2319" data-author="wampire" data-date="2004-10-14T20:44:59+00:00" data-subject="WTB These &amp;#304;tems">
 
 Banded leather sleeves
 
@@ -30,7 +30,7 @@ thanks.
 
 </div>
 
-<div class="post" data-post-id="2325" data-author="wampire" data-date="2004-10-15T14:54:04+00:00">
+<div class="post" data-post-id="2325" data-author="wampire" data-date="2004-10-15T14:54:04+00:00" data-subject="">
 
 got glinting shield....
 
@@ -42,13 +42,13 @@ Celestial or crystal bracer....
 
 </div>
 
-<div class="post" data-post-id="2330" data-author="Prometheus" data-date="2004-10-15T18:18:12+00:00">
+<div class="post" data-post-id="2330" data-author="Prometheus" data-date="2004-10-15T18:18:12+00:00" data-subject="">
 
 Have a crystal bracelet, catch me online with an offer
 
 </div>
 
-<div class="post" data-post-id="2398" data-author="wampire" data-date="2004-10-21T14:23:56+00:00">
+<div class="post" data-post-id="2398" data-author="wampire" data-date="2004-10-21T14:23:56+00:00" data-subject="">
 
 Now Wtb these:
 
@@ -64,13 +64,13 @@ Thanks you for your help.
 
 </div>
 
-<div class="post" data-post-id="2399" data-author="wampire" data-date="2004-10-21T14:26:39+00:00">
+<div class="post" data-post-id="2399" data-author="wampire" data-date="2004-10-21T14:26:39+00:00" data-subject="">
 
 *iridescent exactly.
 
 </div>
 
-<div class="post" data-post-id="2476" data-author="wampire" data-date="2004-10-28T01:16:22+00:00">
+<div class="post" data-post-id="2476" data-author="wampire" data-date="2004-10-28T01:16:22+00:00" data-subject="Wtb: or can trade.">
 
 PLease tell me if you want to sell or trade any of these items.
 

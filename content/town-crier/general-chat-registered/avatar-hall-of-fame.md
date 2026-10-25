@@ -10,31 +10,31 @@ locked: false
 post_count: 27
 ---
 
-<div class="post" data-post-id="23706" data-author="Gumbi" data-date="2008-04-13T04:39:02+00:00">
+<div class="post" data-post-id="23706" data-author="Gumbi" data-date="2008-04-13T04:39:02+00:00" data-subject="Avatar Hall of Fame">
 
 Hey, I got avatar 5x40 after Autolycos, is this going to begin a second page with all past Autolycos or are we getting shafted?
 
 </div>
 
-<div class="post" data-post-id="23707" data-author="Gumbi" data-date="2008-04-13T04:52:21+00:00">
+<div class="post" data-post-id="23707" data-author="Gumbi" data-date="2008-04-13T04:52:21+00:00" data-subject="">
 
 I wanted to see if my poster-choice had to have a post in order to be visible.
 
 </div>
 
-<div class="post" data-post-id="23708" data-author="Yasik2" data-date="2008-04-13T04:52:32+00:00">
+<div class="post" data-post-id="23708" data-author="Yasik2" data-date="2008-04-13T04:52:32+00:00" data-subject="">
 
 Hell yeah, YOU'RE ALL GONNA BE SHAFTED ! :twisted:
 
 </div>
 
-<div class="post" data-post-id="23709" data-author="Gumbi" data-date="2008-04-13T04:53:54+00:00">
+<div class="post" data-post-id="23709" data-author="Gumbi" data-date="2008-04-13T04:53:54+00:00" data-subject="">
 
 Hey Yasik or Yasik2 or whatever, how do I get my poster to work?
 
 </div>
 
-<div class="post" data-post-id="23711" data-author="Autolycos" data-date="2008-04-13T15:05:33+00:00">
+<div class="post" data-post-id="23711" data-author="Autolycos" data-date="2008-04-13T15:05:33+00:00" data-subject="Re: Avatar Hall of Fame">
 
 Hey, I got avatar 5x40 after Autolycos, is this going to begin a second page with all past Autolycos or are we getting shafted?[/quote:23wuz0cm]
 
@@ -46,13 +46,13 @@ Lets see which you can pick out as who  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23712" data-author="jezer" data-date="2008-04-13T15:33:38+00:00">
+<div class="post" data-post-id="23712" data-author="jezer" data-date="2008-04-13T15:33:38+00:00" data-subject="">
 
 Some people are in there twice...?
 
 </div>
 
-<div class="post" data-post-id="23713" data-author="Clink" data-date="2008-04-13T15:45:52+00:00">
+<div class="post" data-post-id="23713" data-author="Clink" data-date="2008-04-13T15:45:52+00:00" data-subject="">
 
 The Hall of Fame was supposed to be a list of all of the players reaching 5x40.  At some point it became just too many to update on a continual basis.  Perhaps we'll figure out a more automated way to keep it updated.
 
@@ -62,7 +62,7 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="23714" data-author="brady" data-date="2008-04-13T17:56:08+00:00">
+<div class="post" data-post-id="23714" data-author="brady" data-date="2008-04-13T17:56:08+00:00" data-subject="">
 
 There is only one Pirate on there.
 
@@ -72,7 +72,7 @@ Feel free to add me at any point.
 
 </div>
 
-<div class="post" data-post-id="23720" data-author="Autolycos" data-date="2008-04-14T02:17:18+00:00">
+<div class="post" data-post-id="23720" data-author="Autolycos" data-date="2008-04-14T02:17:18+00:00" data-subject="">
 
 lmfao....
 
@@ -84,7 +84,7 @@ that poor bastard has had to put up with me for years... and that takes courage 
 
 </div>
 
-<div class="post" data-post-id="23749" data-author="Yasik2" data-date="2008-04-15T08:40:13+00:00">
+<div class="post" data-post-id="23749" data-author="Yasik2" data-date="2008-04-15T08:40:13+00:00" data-subject="Re: Avatar Hall of Fame">
 
 an extremely difficult pain in the arse.[/quote:lki3nx1a]
 
@@ -92,7 +92,7 @@ are you, sir, picking on me, as usual ?
 
 </div>
 
-<div class="post" data-post-id="23750" data-author="jezer" data-date="2008-04-15T08:48:23+00:00">
+<div class="post" data-post-id="23750" data-author="jezer" data-date="2008-04-15T08:48:23+00:00" data-subject="Re: Avatar Hall of Fame">
 
 an extremely difficult pain in the arse.[/quote:1si2x9xm]
 
@@ -104,7 +104,7 @@ It's funny how you've dobbed yourself in Yasik... You really should have said no
 
 </div>
 
-<div class="post" data-post-id="23753" data-author="13" data-date="2008-04-15T12:54:57+00:00">
+<div class="post" data-post-id="23753" data-author="13" data-date="2008-04-15T12:54:57+00:00" data-subject="">
 
 5
 
@@ -128,19 +128,19 @@ The 5th Avatar
 
 </div>
 
-<div class="post" data-post-id="23754" data-author="brady" data-date="2008-04-15T12:56:08+00:00">
+<div class="post" data-post-id="23754" data-author="brady" data-date="2008-04-15T12:56:08+00:00" data-subject="">
 
 Now that's funny  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23759" data-author="Fable" data-date="2008-04-15T16:44:37+00:00">
+<div class="post" data-post-id="23759" data-author="Fable" data-date="2008-04-15T16:44:37+00:00" data-subject="">
 
 Hehe, that it was Ghost :)
 
 </div>
 
-<div class="post" data-post-id="23760" data-author="Autolycos" data-date="2008-04-15T18:53:34+00:00">
+<div class="post" data-post-id="23760" data-author="Autolycos" data-date="2008-04-15T18:53:34+00:00" data-subject="Re: Avatar Hall of Fame">
 
 I think he was actually referring to himself... that's a fairly strong good point amongst the pirates, they don't take them selves too seriously and most of the ones I've run with have been jokers, a little obxious, but lovable all the same. 
 
@@ -154,7 +154,7 @@ ps yasuck..  stfu.. they dont have a "Hall of Sux0r"  if they did.. you'd be kin
 
 </div>
 
-<div class="post" data-post-id="23761" data-author="Fable" data-date="2008-04-15T19:11:27+00:00">
+<div class="post" data-post-id="23761" data-author="Fable" data-date="2008-04-15T19:11:27+00:00" data-subject="">
 
 HAHAHA, Damn Jason ur so mean!
 
@@ -162,7 +162,7 @@ Man, soooo many Hall of Framers that no longer play.  (N the missing Zera)
 
 </div>
 
-<div class="post" data-post-id="23763" data-author="Yasik2" data-date="2008-04-15T21:42:29+00:00">
+<div class="post" data-post-id="23763" data-author="Yasik2" data-date="2008-04-15T21:42:29+00:00" data-subject="Re: Avatar Hall of Fame">
 
 I doubt any of us take this too seriously.. after all.. it's only a game right?
 
@@ -178,7 +178,7 @@ I love you guise, for giving me the cause to dig up the truth.
 
 </div>
 
-<div class="post" data-post-id="23764" data-author="Fable" data-date="2008-04-15T22:00:38+00:00">
+<div class="post" data-post-id="23764" data-author="Fable" data-date="2008-04-15T22:00:38+00:00" data-subject="">
 
 Give Jason a break, he is a real live Ghost Buster!  I think he looks like
 
@@ -186,13 +186,13 @@ Egon too!
 
 </div>
 
-<div class="post" data-post-id="23765" data-author="*juggleblood*" data-date="2008-04-15T22:18:41+00:00">
+<div class="post" data-post-id="23765" data-author="*juggleblood*" data-date="2008-04-15T22:18:41+00:00" data-subject="">
 
 [img:28rfsjo9]http://images.quizilla.com/G/GH/GHO/GhostbusterFan/1143829022_ictureEgon.jpg[/img:28rfsjo9]
 
 </div>
 
-<div class="post" data-post-id="23776" data-author="Autolycos" data-date="2008-04-16T03:30:06+00:00">
+<div class="post" data-post-id="23776" data-author="Autolycos" data-date="2008-04-16T03:30:06+00:00" data-subject="Re: Avatar Hall of Fame">
 
 I love you guise, for giving me the cause to dig up the truth.[/quote:3598dus9]
 
@@ -212,7 +212,7 @@ Will / John,   nice  ;)
 
 </div>
 
-<div class="post" data-post-id="23778" data-author="Yasik2" data-date="2008-04-16T10:40:25+00:00">
+<div class="post" data-post-id="23778" data-author="Yasik2" data-date="2008-04-16T10:40:25+00:00" data-subject="">
 
 What about fantasy, imagination and roleplay?
 
@@ -232,7 +232,7 @@ There is an areas on a disk made of ferromagnetic alloy or something, that are m
 
 </div>
 
-<div class="post" data-post-id="23779" data-author="Autolycos" data-date="2008-04-16T13:02:57+00:00">
+<div class="post" data-post-id="23779" data-author="Autolycos" data-date="2008-04-16T13:02:57+00:00" data-subject="">
 
 you're like a trained monkey.
 
@@ -240,7 +240,7 @@ without the training.
 
 </div>
 
-<div class="post" data-post-id="23782" data-author="brady" data-date="2008-04-16T14:01:28+00:00">
+<div class="post" data-post-id="23782" data-author="brady" data-date="2008-04-16T14:01:28+00:00" data-subject="">
 
 you're like a trained monkey.
 
@@ -250,7 +250,7 @@ Match!
 
 </div>
 
-<div class="post" data-post-id="23783" data-author="Yinao" data-date="2008-04-16T15:30:35+00:00">
+<div class="post" data-post-id="23783" data-author="Yinao" data-date="2008-04-16T15:30:35+00:00" data-subject="">
 
 you're like a trained monkey.
 
@@ -262,7 +262,7 @@ Just don't spank the monkey, I'm warning you...
 
 </div>
 
-<div class="post" data-post-id="23788" data-author="Avatar" data-date="2008-04-16T18:07:31+00:00">
+<div class="post" data-post-id="23788" data-author="Avatar" data-date="2008-04-16T18:07:31+00:00" data-subject="Gaming">
 
 [quote:bg6v7nvk]What about fantasy, imagination and roleplay? 
 
@@ -276,7 +276,7 @@ It will be interesting to see the direction of the video game industry when our 
 
 </div>
 
-<div class="post" data-post-id="23789" data-author="Autolycos" data-date="2008-04-16T18:10:36+00:00">
+<div class="post" data-post-id="23789" data-author="Autolycos" data-date="2008-04-16T18:10:36+00:00" data-subject="Re: Gaming">
 
 I expect someone could make a lot of money by producing games that target an older customer.[/quote:oaq284ex]
 
@@ -286,7 +286,7 @@ But Firebrand will still attack the wrong one   :twisted:
 
 </div>
 
-<div class="post" data-post-id="23790" data-author="Yasik2" data-date="2008-04-16T18:16:12+00:00">
+<div class="post" data-post-id="23790" data-author="Yasik2" data-date="2008-04-16T18:16:12+00:00" data-subject="">
 
 you're like a trained monkey.
 

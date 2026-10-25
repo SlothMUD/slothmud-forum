@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="21132" data-author="Roadrunr" data-date="2007-10-29T23:42:44+00:00">
+<div class="post" data-post-id="21132" data-author="Roadrunr" data-date="2007-10-29T23:42:44+00:00" data-subject="top 20 hosed?">
 
 looks like we have two entries for Oct 22 and none for Oct 29.
 
 </div>
 
-<div class="post" data-post-id="21158" data-author="*Krom*" data-date="2007-10-31T22:44:16+00:00">
+<div class="post" data-post-id="21158" data-author="*Krom*" data-date="2007-10-31T22:44:16+00:00" data-subject="">
 
 it got hosed from the server downtime, I think clink is gonna work on it.
 

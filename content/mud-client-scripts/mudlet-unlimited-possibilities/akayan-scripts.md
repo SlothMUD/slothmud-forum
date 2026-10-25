@@ -10,7 +10,7 @@ locked: false
 post_count: 59
 ---
 
-<div class="post" data-post-id="33908" data-author="Akaya" data-date="2013-01-10T08:04:48+00:00">
+<div class="post" data-post-id="33908" data-author="Akaya" data-date="2013-01-10T08:04:48+00:00" data-subject="Akayan Scripts">
 
 I'm very new to SlothMUD but not Mudlet. I'll do my best to post some useful scripts here. If you have any suggestions, or things you'd like to have, feel free to speak your voice.
 
@@ -20,7 +20,7 @@ I'm happy to answer any questions you have and/or walk you through the installat
 
 </div>
 
-<div class="post" data-post-id="33909" data-author="Akaya" data-date="2013-01-10T08:13:39+00:00">
+<div class="post" data-post-id="33909" data-author="Akaya" data-date="2013-01-10T08:13:39+00:00" data-subject="Re: Akayan Scripts">
 
 This first script will activate the MSDP information exchange. This will give you loads of information sent by the game server for you to utilize in your scripts.
 
@@ -44,7 +44,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="33910" data-author="Akaya" data-date="2013-01-10T09:11:58+00:00">
+<div class="post" data-post-id="33910" data-author="Akaya" data-date="2013-01-10T09:11:58+00:00" data-subject="Fancy Gauges">
 
 Need some fancy gauges for your UI?
 
@@ -68,7 +68,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="33911" data-author="Akaya" data-date="2013-01-10T22:45:06+00:00">
+<div class="post" data-post-id="33911" data-author="Akaya" data-date="2013-01-10T22:45:06+00:00" data-subject="Tabbed Chat Window">
 
 This nifty script will redirect all your channels to a single window for you to sort through at your leisure.
 
@@ -90,7 +90,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="33912" data-author="Akaya" data-date="2013-01-11T09:49:00+00:00">
+<div class="post" data-post-id="33912" data-author="Akaya" data-date="2013-01-11T09:49:00+00:00" data-subject="Re: Akayan Scripts">
 
 Here's a screencast of a UI in action.
 
@@ -100,7 +100,7 @@ http://youtu.be/t2DjeKRhN74
 
 </div>
 
-<div class="post" data-post-id="33917" data-author="*Breeze*" data-date="2013-01-12T13:51:28+00:00">
+<div class="post" data-post-id="33917" data-author="*Breeze*" data-date="2013-01-12T13:51:28+00:00" data-subject="Re: Akayan Scripts">
 
 neat scripts :)
 
@@ -108,19 +108,19 @@ thanks!
 
 </div>
 
-<div class="post" data-post-id="33918" data-author="Constin" data-date="2013-01-12T14:29:35+00:00">
+<div class="post" data-post-id="33918" data-author="Constin" data-date="2013-01-12T14:29:35+00:00" data-subject="Re: Akayan Scripts">
 
 Does MSDP vars TANK_HEALTH TANK_HEALTH_MAX TANK_LEVEL TANK_NAME exist? And how they used in game if yes?
 
 </div>
 
-<div class="post" data-post-id="33920" data-author="*Breeze*" data-date="2013-01-12T19:55:55+00:00">
+<div class="post" data-post-id="33920" data-author="*Breeze*" data-date="2013-01-12T19:55:55+00:00" data-subject="Re: Akayan Scripts">
 
 those are set if you are in a group and the tank uses the 'point' command.
 
 </div>
 
-<div class="post" data-post-id="33921" data-author="Akaya" data-date="2013-01-13T03:15:36+00:00">
+<div class="post" data-post-id="33921" data-author="Akaya" data-date="2013-01-13T03:15:36+00:00" data-subject="Re: Akayan Scripts">
 
 > **Constin wrote:**
 > Does MSDP vars TANK_HEALTH TANK_HEALTH_MAX TANK_LEVEL TANK_NAME exist?
@@ -154,7 +154,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="33922" data-author="Akaya" data-date="2013-01-13T07:22:25+00:00">
+<div class="post" data-post-id="33922" data-author="Akaya" data-date="2013-01-13T07:22:25+00:00" data-subject="Re: Akayan Scripts">
 
 Someone requested the following script, so here you are Someone.
 
@@ -174,13 +174,13 @@ Due note that you'll need to set which EQ set your wearing and which containers 
 
 </div>
 
-<div class="post" data-post-id="33923" data-author="*Breeze*" data-date="2013-01-13T09:05:53+00:00">
+<div class="post" data-post-id="33923" data-author="*Breeze*" data-date="2013-01-13T09:05:53+00:00" data-subject="Re: Akayan Scripts">
 
 tyvm.  will try it
 
 </div>
 
-<div class="post" data-post-id="33924" data-author="Constin" data-date="2013-01-13T16:01:50+00:00">
+<div class="post" data-post-id="33924" data-author="Constin" data-date="2013-01-13T16:01:50+00:00" data-subject="Re: Akayan Scripts">
 
 > **Akaya wrote:**
 > To switch between equipment sets simply type: **ex <set name>**
@@ -219,7 +219,7 @@ I can use this window and scripts w/o visior, am i right?  Whoohoo!
 
 </div>
 
-<div class="post" data-post-id="33925" data-author="Akaya" data-date="2013-01-14T04:31:04+00:00">
+<div class="post" data-post-id="33925" data-author="Akaya" data-date="2013-01-14T04:31:04+00:00" data-subject="Re: Akayan Scripts">
 
 Updated the EQ Exchange script.
 
@@ -233,7 +233,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="33927" data-author="Akaya" data-date="2013-01-17T10:44:46+00:00">
+<div class="post" data-post-id="33927" data-author="Akaya" data-date="2013-01-17T10:44:46+00:00" data-subject="Re: Akayan Scripts">
 
 If you are using the latest version of Mudlet (2.1 is currently the latest) you will be able to run lua from the command prompt.
 
@@ -257,7 +257,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="33932" data-author="Constin" data-date="2013-01-18T06:29:14+00:00">
+<div class="post" data-post-id="33932" data-author="Constin" data-date="2013-01-18T06:29:14+00:00" data-subject="Re: Akayan Scripts">
 
 function getmsdpvars(event, args)
 
@@ -273,7 +273,7 @@ how to run this script at start? i need to start it manualy by using command get
 
 </div>
 
-<div class="post" data-post-id="33933" data-author="Akaya" data-date="2013-01-18T21:07:07+00:00">
+<div class="post" data-post-id="33933" data-author="Akaya" data-date="2013-01-18T21:07:07+00:00" data-subject="Re: Akayan Scripts">
 
 MSDPSERVER_ID is raised each time you log in. So you can create an event handler to run getmsdpvars() when you do. It would look like this:
 
@@ -283,7 +283,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="34053" data-author="Tuck" data-date="2013-02-19T23:13:30+00:00">
+<div class="post" data-post-id="34053" data-author="Tuck" data-date="2013-02-19T23:13:30+00:00" data-subject="Re: Akayan Scripts">
 
 Did you get TANK_NAME, TANK_HEALTH and other TANK related vars to work?
 
@@ -291,7 +291,7 @@ Thanks for your answer.
 
 </div>
 
-<div class="post" data-post-id="34118" data-author="Akaya" data-date="2013-03-03T19:00:30+00:00">
+<div class="post" data-post-id="34118" data-author="Akaya" data-date="2013-03-03T19:00:30+00:00" data-subject="Re: Akayan Scripts">
 
 > **Tuck wrote:**
 > Did you get TANK_NAME, TANK_HEALTH and other TANK related vars to work?
@@ -342,7 +342,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="34197" data-author="Akaya" data-date="2013-03-28T03:53:21+00:00">
+<div class="post" data-post-id="34197" data-author="Akaya" data-date="2013-03-28T03:53:21+00:00" data-subject="Akayan GUI Creator">
 
 I'd like to invite the Sloth community to try out the new Akayan GUI Creator.
 
@@ -364,7 +364,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="34238" data-author="Jecka" data-date="2013-04-16T07:13:01+00:00">
+<div class="post" data-post-id="34238" data-author="Jecka" data-date="2013-04-16T07:13:01+00:00" data-subject="Re: Akayan Scripts">
 
 > **Akaya wrote:**
 > I'm happy to answer any questions you have and/or walk you through the installation process. Enjoy!
@@ -387,7 +387,7 @@ any advice please :)
 
 </div>
 
-<div class="post" data-post-id="34245" data-author="Akaya" data-date="2013-04-19T03:57:03+00:00">
+<div class="post" data-post-id="34245" data-author="Akaya" data-date="2013-04-19T03:57:03+00:00" data-subject="Re: Akayan Scripts">
 
 I'm guessing you installed vyzor.xml instead of vyzor.mpackage
 
@@ -399,7 +399,7 @@ If your problems persist, I'm more than willing to walk you through the process 
 
 </div>
 
-<div class="post" data-post-id="34249" data-author="Jecka" data-date="2013-04-20T09:28:33+00:00">
+<div class="post" data-post-id="34249" data-author="Jecka" data-date="2013-04-20T09:28:33+00:00" data-subject="Re: Akayan Scripts">
 
 > **Akaya wrote:**
 > I'm guessing you installed vyzor.xml instead of vyzor.mpackage
@@ -412,7 +412,7 @@ So please post some more additionel help :)
 
 </div>
 
-<div class="post" data-post-id="34250" data-author="Akaya" data-date="2013-04-20T17:37:41+00:00">
+<div class="post" data-post-id="34250" data-author="Akaya" data-date="2013-04-20T17:37:41+00:00" data-subject="Re: Akayan Scripts">
 
 Each of my scripts come in a .zip file.
 
@@ -424,7 +424,7 @@ If you'd like, send me a PM on this forum and we'll set up a date/time where I c
 
 </div>
 
-<div class="post" data-post-id="34251" data-author="Jecka" data-date="2013-04-21T07:04:00+00:00">
+<div class="post" data-post-id="34251" data-author="Jecka" data-date="2013-04-21T07:04:00+00:00" data-subject="Re: Akayan Scripts">
 
 > **Akaya wrote:**
 > Each of my scripts come in a .zip file.
@@ -445,7 +445,7 @@ I got some improvements but still not all of them :(
 
 </div>
 
-<div class="post" data-post-id="34287" data-author="Akaya" data-date="2013-05-10T19:29:30+00:00">
+<div class="post" data-post-id="34287" data-author="Akaya" data-date="2013-05-10T19:29:30+00:00" data-subject="Mudlet Gameboys!">
 
 For those that struggle to make the switch between Vyzor and Geyser, if you just want some great examples of how they differ from each other, or just need something to kill time while you wait/sleep in-game, I've created some Mudlet Gameboys for you to play with. Each comes with a default pong game.
 
@@ -459,7 +459,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="34298" data-author="Akaya" data-date="2013-05-17T18:42:35+00:00">
+<div class="post" data-post-id="34298" data-author="Akaya" data-date="2013-05-17T18:42:35+00:00" data-subject="Re: Akayan Scripts">
 
 Someone requested that I post a few screenshots of GUI work I've done in the past so I figured I'd share the link to my website. It's incomplete at the moment, but I plan on fleshing it out in the near future...
 
@@ -471,7 +471,7 @@ and my YouTube channel always has the latest projects I'm working on...
 
 </div>
 
-<div class="post" data-post-id="34441" data-author="Akaya" data-date="2013-09-17T02:50:50+00:00">
+<div class="post" data-post-id="34441" data-author="Akaya" data-date="2013-09-17T02:50:50+00:00" data-subject="Re: Akayan Scripts">
 
 Here's an example of how to make a visual cooldown timer. I didn't write this but someone in the Sloth community found it useful so I figured I'd repost it here.
 
@@ -503,7 +503,7 @@ cssback: Optional argument. The stylesheet to apply to the back portion of the g
 
 </div>
 
-<div class="post" data-post-id="34648" data-author="Akaya" data-date="2013-12-17T18:12:24+00:00">
+<div class="post" data-post-id="34648" data-author="Akaya" data-date="2013-12-17T18:12:24+00:00" data-subject="Exit Parser for Linux">
 
 Here's a function I wrote with Ubuntu that will return a table of exits in your current room by parsing MSDPROOM_EXITS. Not sure if this works with other operating systems because of the weird characters that separate the exit names, but if you're not on Linux, still give it a whirl, lemme know what happens:
 
@@ -550,13 +550,13 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="34649" data-author="Akaya" data-date="2013-12-17T18:19:28+00:00">
+<div class="post" data-post-id="34649" data-author="Akaya" data-date="2013-12-17T18:19:28+00:00" data-subject="Re: Akayan Scripts">
 
 Unfortunately, the forum doesn't want to post the 'weird characters' which is the reason for the above script. So if you're still looking to parse the exits, you'll want to manually insert the 'weird characters' you see in MSDPROOM_EXITS to **string.ends(str,"weird_character")** of the above script.
 
 </div>
 
-<div class="post" data-post-id="34650" data-author="DarkArtist" data-date="2013-12-17T22:13:43+00:00">
+<div class="post" data-post-id="34650" data-author="DarkArtist" data-date="2013-12-17T22:13:43+00:00" data-subject="Re: Akayan Scripts">
 
 I admit to being a newb, but I couldn't understand what weird chars you meant at first cuz I couldn't even get MSDPROOM_EXITS to give me anything, until I realized it was absent from getmsdpvars() that I got from you. So fyi other newbs, don't forget to add it to the list if its not there.
 
@@ -582,7 +582,7 @@ btw, it seems the board duplicates your post when u change title, i hope i respo
 
 </div>
 
-<div class="post" data-post-id="34651" data-author="Akaya" data-date="2013-12-18T07:12:41+00:00">
+<div class="post" data-post-id="34651" data-author="Akaya" data-date="2013-12-18T07:12:41+00:00" data-subject="Re: Akayan Scripts">
 
 The characters seem to vary depending on the OS. To use the characters in a script, you'll want to display MSDPROOM_EXITS via Mudlet and copy/paste them into your Mudlet script. They will come out as 'forgein letters' but at least Mudlet keeps them consistent within itself.
 
@@ -590,7 +590,7 @@ As for capturing exits via triggers: That's always a viable option and I'm sure 
 
 </div>
 
-<div class="post" data-post-id="34652" data-author="*Breeze*" data-date="2013-12-18T07:27:27+00:00">
+<div class="post" data-post-id="34652" data-author="*Breeze*" data-date="2013-12-18T07:27:27+00:00" data-subject="Re: Akayan Scripts">
 
 could also ask the benevolent Splork to change the output to something nicer?
 
@@ -598,7 +598,7 @@ also, can mudlet parse JSON and put into a database that it can look up stuff fr
 
 </div>
 
-<div class="post" data-post-id="34653" data-author="Akaya" data-date="2013-12-18T17:00:53+00:00">
+<div class="post" data-post-id="34653" data-author="Akaya" data-date="2013-12-18T17:00:53+00:00" data-subject="Re: Akayan Scripts">
 
 > ***Breeze* wrote:**
 > also, can mudlet parse JSON and put into a database that it can look up stuff from?
@@ -607,7 +607,7 @@ Yes! Just use yajl.to_string and yajl.to_value: [<LINK_TEXT text="http://wiki.mu
 
 </div>
 
-<div class="post" data-post-id="34654" data-author="*Breeze*" data-date="2013-12-18T17:35:12+00:00">
+<div class="post" data-post-id="34654" data-author="*Breeze*" data-date="2013-12-18T17:35:12+00:00" data-subject="Re: Akayan Scripts">
 
 sweet.  i let someone else who has time try to deal with it then, if they have the time/desire.
 
@@ -619,7 +619,7 @@ save as [eqlist.json](http://www.slothmud.org/eqlist.json)
 
 </div>
 
-<div class="post" data-post-id="34655" data-author="Akaya" data-date="2013-12-18T18:44:04+00:00">
+<div class="post" data-post-id="34655" data-author="Akaya" data-date="2013-12-18T18:44:04+00:00" data-subject="Re: Akayan Scripts">
 
 ooo. That's neat. It's a massive string though. I was able to take small sections of it and convert it to a lua table:
 
@@ -663,7 +663,7 @@ This might be possible with [Mudlet's Database Functions](http://wiki.mudlet.org
 
 </div>
 
-<div class="post" data-post-id="34656" data-author="*Breeze*" data-date="2013-12-18T19:10:08+00:00">
+<div class="post" data-post-id="34656" data-author="*Breeze*" data-date="2013-12-18T19:10:08+00:00" data-subject="Re: Akayan Scripts">
 
 yeah, it was meant to be used for that purpose exactly.
 
@@ -708,7 +708,7 @@ or a few other simple variations thereof to sort by OBJECT_TYPE or anything else
 
 </div>
 
-<div class="post" data-post-id="34670" data-author="Akaya" data-date="2013-12-21T15:45:49+00:00">
+<div class="post" data-post-id="34670" data-author="Akaya" data-date="2013-12-21T15:45:49+00:00" data-subject="Re: Akayan Scripts">
 
 Need to capture your group info to a miniConsole? Here's a nice start...
 Group Capture.xml.xml
@@ -716,7 +716,7 @@ Just change myConsole to the name of your miniConsole.
 
 </div>
 
-<div class="post" data-post-id="34706" data-author="Akaya" data-date="2013-12-28T20:50:10+00:00">
+<div class="post" data-post-id="34706" data-author="Akaya" data-date="2013-12-28T20:50:10+00:00" data-subject="Re: Akayan Scripts">
 
 Here's a nice compass that will display not only room exits, but whether its an open/closed door or window:
 
@@ -728,7 +728,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="34748" data-author="Akaya" data-date="2014-01-02T06:59:48+00:00">
+<div class="post" data-post-id="34748" data-author="Akaya" data-date="2014-01-02T06:59:48+00:00" data-subject="Re: Akayan Scripts">
 
 Here's a script that will automatically set your target to whatever the group leader calls (and only what the group leader calls). You can also manually set the target by typing **t <whatever>**. If you want to use your target in a macro, you can do so: 
 
@@ -742,7 +742,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="34767" data-author="Akaya" data-date="2014-01-07T19:20:18+00:00">
+<div class="post" data-post-id="34767" data-author="Akaya" data-date="2014-01-07T19:20:18+00:00" data-subject="Scan">
 
 This script captures all information via the SCAN command. It is placed in a lua table named Scan. The table is updated when you SCAN.
 
@@ -761,7 +761,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="34792" data-author="Akaya" data-date="2014-01-14T22:26:25+00:00">
+<div class="post" data-post-id="34792" data-author="Akaya" data-date="2014-01-14T22:26:25+00:00" data-subject="Re: Akayan Scripts">
 
 Toyed around with Mudlet's new database functions and was able to parse the eqlist json file to produce this nice UI that displays my current eq:
 
@@ -771,13 +771,13 @@ I'm still messing around with the parsing function though so I don't have a usab
 
 </div>
 
-<div class="post" data-post-id="34793" data-author="*Splork*" data-date="2014-01-14T22:45:56+00:00">
+<div class="post" data-post-id="34793" data-author="*Splork*" data-date="2014-01-14T22:45:56+00:00" data-subject="Re: Akayan Scripts">
 
 That is awesome!
 
 </div>
 
-<div class="post" data-post-id="34803" data-author="Akaya" data-date="2014-01-17T22:25:07+00:00">
+<div class="post" data-post-id="34803" data-author="Akaya" data-date="2014-01-17T22:25:07+00:00" data-subject="Re: Akayan Scripts">
 
 I present to you the eqlist database for Mudlet users!
 
@@ -805,13 +805,13 @@ The file is too big for this forum apparently so here's a direct download link v
 
 </div>
 
-<div class="post" data-post-id="34804" data-author="Akaya" data-date="2014-01-18T00:34:13+00:00">
+<div class="post" data-post-id="34804" data-author="Akaya" data-date="2014-01-18T00:34:13+00:00" data-subject="Re: Akayan Scripts">
 
 made a small update to how the database was queried. Wasn't capturing all the info. Is now. Link updated in previous post.
 
 </div>
 
-<div class="post" data-post-id="34822" data-author="Akaya" data-date="2014-01-24T18:25:19+00:00">
+<div class="post" data-post-id="34822" data-author="Akaya" data-date="2014-01-24T18:25:19+00:00" data-subject="Simple Gauges">
 
 Here are some simple gauges to keep track of your health, mana, movement and mob health.
 
@@ -827,7 +827,7 @@ Enjoy!
 
 </div>
 
-<div class="post" data-post-id="36230" data-author="Arus" data-date="2015-12-01T17:04:57+00:00">
+<div class="post" data-post-id="36230" data-author="Arus" data-date="2015-12-01T17:04:57+00:00" data-subject="Re: Akayan Scripts">
 
 could you please re-upload your database scripts?
 
@@ -838,13 +838,13 @@ There are two triggers to set links in equipment and merchant windows which you 
 
 </div>
 
-<div class="post" data-post-id="36232" data-author="*Breeze*" data-date="2015-12-02T00:08:32+00:00">
+<div class="post" data-post-id="36232" data-author="*Breeze*" data-date="2015-12-02T00:08:32+00:00" data-subject="Re: Akayan Scripts">
 
 Db script?
 
 </div>
 
-<div class="post" data-post-id="36243" data-author="Arus" data-date="2015-12-04T04:54:47+00:00">
+<div class="post" data-post-id="36243" data-author="Arus" data-date="2015-12-04T04:54:47+00:00" data-subject="Re: Akayan Scripts">
 
 Yes, Akaya's dropbox link went dead. Could you please repost?
 
@@ -856,25 +856,25 @@ Akaya, where are you? Have you stopped developing for SlothMUD?
 
 </div>
 
-<div class="post" data-post-id="36246" data-author="*Breeze*" data-date="2015-12-04T05:16:30+00:00">
+<div class="post" data-post-id="36246" data-author="*Breeze*" data-date="2015-12-04T05:16:30+00:00" data-subject="Re: Akayan Scripts">
 
 [http://www.slothmud.org/mudlet/](http://www.slothmud.org/mudlet/)
 
 </div>
 
-<div class="post" data-post-id="36248" data-author="Arus" data-date="2015-12-04T09:31:57+00:00">
+<div class="post" data-post-id="36248" data-author="Arus" data-date="2015-12-04T09:31:57+00:00" data-subject="Re: Akayan Scripts">
 
 why did all the COORDS become empty?  :roll: bug? was working fine 10 minutes ago.
 
 </div>
 
-<div class="post" data-post-id="36250" data-author="*Splork*" data-date="2015-12-04T16:37:52+00:00">
+<div class="post" data-post-id="36250" data-author="*Splork*" data-date="2015-12-04T16:37:52+00:00" data-subject="Re: Akayan Scripts">
 
 I thought I disabled COORD1-25 a long time ago due to performance issues...
 
 </div>
 
-<div class="post" data-post-id="36251" data-author="Arus" data-date="2015-12-04T17:11:40+00:00">
+<div class="post" data-post-id="36251" data-author="Arus" data-date="2015-12-04T17:11:40+00:00" data-subject="Re: Akayan Scripts">
 
 If you didn't notice, then there was no performance issue. I almost finished the code....
 
@@ -882,13 +882,13 @@ I was not going to report COORDS on every move but send them only in new rooms a
 
 </div>
 
-<div class="post" data-post-id="36971" data-author="Akaya" data-date="2016-06-23T05:46:05+00:00">
+<div class="post" data-post-id="36971" data-author="Akaya" data-date="2016-06-23T05:46:05+00:00" data-subject="Re: Akayan Scripts">
 
 Dropbox link for the eq db is alive now. I'll try to find a better way to keep it that way.
 
 </div>
 
-<div class="post" data-post-id="36972" data-author="Akaya" data-date="2016-06-23T06:04:39+00:00">
+<div class="post" data-post-id="36972" data-author="Akaya" data-date="2016-06-23T06:04:39+00:00" data-subject="Re: Akayan Scripts">
 
 > **Arus wrote:**
 > If you didn't notice, then there was no performance issue. I almost finished the code....
@@ -901,7 +901,7 @@ I did, however, write a mapping script for use with Mudlet's native mapper. Henc
 
 </div>
 
-<div class="post" data-post-id="37003" data-author="Akaya" data-date="2016-06-29T18:01:08+00:00">
+<div class="post" data-post-id="37003" data-author="Akaya" data-date="2016-06-29T18:01:08+00:00" data-subject="Group Triggers">
 
 Probably the #1 request I receive is for group triggers. So here they are. Props to Taron for writing this post: [http://www.slothmud.org/forum/viewtopic.php?f=28&t=4642](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4642) I've based this script off of his wisdom.
 
@@ -921,7 +921,7 @@ Group Triggers by Akaya.trigger.xml
 
 </div>
 
-<div class="post" data-post-id="37006" data-author="Teron" data-date="2016-06-29T19:59:37+00:00">
+<div class="post" data-post-id="37006" data-author="Teron" data-date="2016-06-29T19:59:37+00:00" data-subject="Re: Akayan Scripts">
 
 So, if I were to create an alias to specify a tank or a leader, what would it look like?
 
@@ -929,7 +929,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="37008" data-author="Akaya" data-date="2016-06-29T20:09:09+00:00">
+<div class="post" data-post-id="37008" data-author="Akaya" data-date="2016-06-29T20:09:09+00:00" data-subject="Re: Akayan Scripts">
 
 Pattern: ^leader (.*)$
 
@@ -937,13 +937,13 @@ Script: leader = matches[2]
 
 </div>
 
-<div class="post" data-post-id="37009" data-author="*Splork*" data-date="2016-06-30T01:12:47+00:00">
+<div class="post" data-post-id="37009" data-author="*Splork*" data-date="2016-06-30T01:12:47+00:00" data-subject="Re: Akayan Scripts">
 
 Missed you Akaya!
 
 </div>
 
-<div class="post" data-post-id="37015" data-author="Akaya" data-date="2016-06-30T17:03:39+00:00">
+<div class="post" data-post-id="37015" data-author="Akaya" data-date="2016-06-30T17:03:39+00:00" data-subject="Re: Akayan Scripts">
 
 > ***Splork* wrote:**
 > Missed you Akaya!

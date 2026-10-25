@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38646" data-author="*teker*" data-date="2018-01-26T15:33:52+00:00">
+<div class="post" data-post-id="38646" data-author="*teker*" data-date="2018-01-26T15:33:52+00:00" data-subject="Changelog 2018-01-26">
 
 Made further changes to spectral shield - let me know if it's working better now.
 

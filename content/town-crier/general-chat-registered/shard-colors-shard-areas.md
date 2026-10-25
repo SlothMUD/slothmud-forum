@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38974" data-author="*Idjit*" data-date="2018-09-16T03:53:28+00:00">
+<div class="post" data-post-id="38974" data-author="*Idjit*" data-date="2018-09-16T03:53:28+00:00" data-subject="Shard Colors Shard Areas">
 
 Herewith, the contents of "Shard Colors.txt"
 
@@ -36,7 +36,7 @@ Dark Chasm (AH) is Random Shards.
 
 </div>
 
-<div class="post" data-post-id="38975" data-author="Teron" data-date="2018-09-17T12:47:31+00:00">
+<div class="post" data-post-id="38975" data-author="Teron" data-date="2018-09-17T12:47:31+00:00" data-subject="Re: Shard Colors Shard Areas">
 
 More info:
 

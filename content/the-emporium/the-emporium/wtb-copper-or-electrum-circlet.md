@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="1060" data-author="Vekna" data-date="2004-07-13T19:12:43+00:00">
+<div class="post" data-post-id="1060" data-author="Vekna" data-date="2004-07-13T19:12:43+00:00" data-subject="wtb copper or electrum circlet">
 
 subj
 
 </div>
 
-<div class="post" data-post-id="1063" data-author="Vekna" data-date="2004-07-13T22:15:54+00:00">
+<div class="post" data-post-id="1063" data-author="Vekna" data-date="2004-07-13T22:15:54+00:00" data-subject="">
 
 got it :)
 

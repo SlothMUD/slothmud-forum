@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="34079" data-author="Constin" data-date="2013-02-23T11:11:35+00:00">
+<div class="post" data-post-id="34079" data-author="Constin" data-date="2013-02-23T11:11:35+00:00" data-subject="Geyser UI for slothmud">
 
 Hello. Here i would post my UI for sloth based on Geyser engine
 
@@ -60,7 +60,7 @@ etc u can find it in target folder
 
 </div>
 
-<div class="post" data-post-id="34082" data-author="Constin" data-date="2013-02-23T12:52:44+00:00">
+<div class="post" data-post-id="34082" data-author="Constin" data-date="2013-02-23T12:52:44+00:00" data-subject="Re: Geyser GUI for slothmud">
 
 Update ver 1.1 
 
@@ -70,7 +70,7 @@ script:
 
 </div>
 
-<div class="post" data-post-id="34900" data-author="Maarg" data-date="2014-03-09T08:18:40+00:00">
+<div class="post" data-post-id="34900" data-author="Maarg" data-date="2014-03-09T08:18:40+00:00" data-subject="Re: Geyser UI for slothmud">
 
 How do I go about timestamping the chat window?
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2705" data-author="Deju" data-date="2004-11-09T03:08:35+00:00">
+<div class="post" data-post-id="2705" data-author="Deju" data-date="2004-11-09T03:08:35+00:00" data-subject="Looking for Mosaic Gauntlets">
 
 Hey All -
 

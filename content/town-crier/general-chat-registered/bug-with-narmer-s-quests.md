@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="16969" data-author="van" data-date="2007-02-17T08:24:40+00:00">
+<div class="post" data-post-id="16969" data-author="van" data-date="2007-02-17T08:24:40+00:00" data-subject="Bug with Narmer&#x27;s quests">
 
 Yeah, so... tried to undertake Epaulette (protection oath) at Narmer before completing Kenji. Epaulette starts following me, I go complete the Kenji quest, come back, do the thing with Epaulette, but when I try to go back and complete the quest...
 
@@ -40,7 +40,7 @@ P.S. Killing Narmer did nothing.  Not that I expected it to, but you never know.
 
 </div>
 
-<div class="post" data-post-id="16975" data-author="firebrand" data-date="2007-02-17T15:56:53+00:00">
+<div class="post" data-post-id="16975" data-author="firebrand" data-date="2007-02-17T15:56:53+00:00" data-subject="">
 
 shazuko told me that the same thing happened to him too.  no one going to laugh at you for waiting so long to do the quest.  a lot of us were tards before it ever went ingame.  we have no room to laugh at you.
 
@@ -48,7 +48,7 @@ shazuko told me that the same thing happened to him too.  no one going to laugh 
 
 </div>
 
-<div class="post" data-post-id="16976" data-author="alias" data-date="2007-02-17T16:37:17+00:00">
+<div class="post" data-post-id="16976" data-author="alias" data-date="2007-02-17T16:37:17+00:00" data-subject="">
 
 Killing him wont work neither will waiting for a reboot. your best bet is to get w/ Clink as he has fixed this for others when it happened to them.
 

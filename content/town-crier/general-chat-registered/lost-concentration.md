@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="37416" data-author="*juggleblood*" data-date="2016-10-19T21:19:32+00:00">
+<div class="post" data-post-id="37416" data-author="*juggleblood*" data-date="2016-10-19T21:19:32+00:00" data-subject="Lost concentration">
 
 Another topic from the changelog thread that I'm making it's own thread rather than dirty up changelog.
 
@@ -38,7 +38,7 @@ I'm 100% in favor of adding clarity to the players' actions. I wish we could ple
 
 </div>
 
-<div class="post" data-post-id="37445" data-author="Gorka" data-date="2016-10-24T05:58:31+00:00">
+<div class="post" data-post-id="37445" data-author="Gorka" data-date="2016-10-24T05:58:31+00:00" data-subject="Re: Lost concentration">
 
 It's empty already.
 
@@ -64,13 +64,13 @@ Thank you for implementing! That could seriously be the best game improvement si
 
 </div>
 
-<div class="post" data-post-id="37462" data-author="*juggleblood*" data-date="2016-10-26T22:11:53+00:00">
+<div class="post" data-post-id="37462" data-author="*juggleblood*" data-date="2016-10-26T22:11:53+00:00" data-subject="Re: Lost concentration">
 
 In this same vein, something else script heavy people would really appreciate is seeing spell down messages while asleep. :)
 
 </div>
 
-<div class="post" data-post-id="37473" data-author="Yasik" data-date="2016-10-29T05:36:08+00:00">
+<div class="post" data-post-id="37473" data-author="Yasik" data-date="2016-10-29T05:36:08+00:00" data-subject="Re: Lost concentration">
 
 This fix is not good at all.
 
@@ -82,7 +82,7 @@ If it cant be cancelled, then least worst idea would be to make it switchable - 
 
 </div>
 
-<div class="post" data-post-id="37474" data-author="*juggleblood*" data-date="2016-10-29T13:11:30+00:00">
+<div class="post" data-post-id="37474" data-author="*juggleblood*" data-date="2016-10-29T13:11:30+00:00" data-subject="Re: Lost concentration">
 
 It don't look ugly to me.
 
@@ -94,7 +94,7 @@ Hi Yasik. I miss you.
 
 </div>
 
-<div class="post" data-post-id="37490" data-author="Yasik" data-date="2016-11-01T08:56:16+00:00">
+<div class="post" data-post-id="37490" data-author="Yasik" data-date="2016-11-01T08:56:16+00:00" data-subject="Re: Lost concentration">
 
 Yeah, I knew you'll answer something like that :)
 
@@ -106,7 +106,7 @@ Anyway, do whatever you think is right, its "your" game after all :)
 
 </div>
 
-<div class="post" data-post-id="37493" data-author="*juggleblood*" data-date="2016-11-01T23:38:53+00:00">
+<div class="post" data-post-id="37493" data-author="*juggleblood*" data-date="2016-11-01T23:38:53+00:00" data-subject="Re: Lost concentration">
 
 Will do, but know that your feedback is appreciated. Sometimes we agree.
 

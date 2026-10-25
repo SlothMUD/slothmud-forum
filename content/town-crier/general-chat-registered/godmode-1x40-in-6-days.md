@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="28973" data-author="Brujah" data-date="2009-04-18T20:23:39+00:00">
+<div class="post" data-post-id="28973" data-author="Brujah" data-date="2009-04-18T20:23:39+00:00" data-subject="Godmode - 1x40 in 6 days">
 
 [code:fc0o7ifj]Ress the Fighter says 'Godmode is ready for the next level'
 
@@ -174,7 +174,7 @@ Keep it up :)
 
 </div>
 
-<div class="post" data-post-id="28975" data-author="Magi" data-date="2009-04-18T22:39:20+00:00">
+<div class="post" data-post-id="28975" data-author="Magi" data-date="2009-04-18T22:39:20+00:00" data-subject="">
 
 That was pretty close Godmode!  Some friends said yesterday that I should give you a run for your money, so I gave it my best shot.
 
@@ -186,7 +186,7 @@ Beat me by 3 hours and 45 minutes. GG
 
 </div>
 
-<div class="post" data-post-id="28976" data-author="jezer" data-date="2009-04-19T01:11:15+00:00">
+<div class="post" data-post-id="28976" data-author="jezer" data-date="2009-04-19T01:11:15+00:00" data-subject="">
 
 Isn't it funny how a huge proportion of the world believe that everything is gained in death... unlike in sloth. Maybe the penalty paid is not actually the price of death but the price of coming back.  :twisted: 
 

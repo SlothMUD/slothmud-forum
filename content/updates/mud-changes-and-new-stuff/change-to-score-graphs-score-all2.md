@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38962" data-author="*Breeze*" data-date="2018-08-12T11:54:21+00:00">
+<div class="post" data-post-id="38962" data-author="*Breeze*" data-date="2018-08-12T11:54:21+00:00" data-subject="Change to Score Graphs (score all2)">
 
 Change to the way 
 
@@ -63,7 +63,7 @@ do a poll or something.
 
 </div>
 
-<div class="post" data-post-id="38964" data-author="*Breeze*" data-date="2018-08-26T10:45:31+00:00">
+<div class="post" data-post-id="38964" data-author="*Breeze*" data-date="2018-08-26T10:45:31+00:00" data-subject="Re: Change to Score Graphs (score all2)">
 
 score all2 / score stats2
 

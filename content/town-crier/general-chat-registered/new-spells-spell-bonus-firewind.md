@@ -10,13 +10,13 @@ locked: false
 post_count: 42
 ---
 
-<div class="post" data-post-id="9762" data-author="Guinex" data-date="2005-12-12T00:50:55+00:00">
+<div class="post" data-post-id="9762" data-author="Guinex" data-date="2005-12-12T00:50:55+00:00" data-subject="New Spells/Spell Bonus/Firewind">
 
 I am curious to know if either spell bonus is messed up right now, or if firewind has been weakened and the dice for damage has been moved to frostbolt?
 
 </div>
 
-<div class="post" data-post-id="9770" data-author="*Splork*" data-date="2005-12-13T02:35:51+00:00">
+<div class="post" data-post-id="9770" data-author="*Splork*" data-date="2005-12-13T02:35:51+00:00" data-subject="">
 
 Spell damage bonus is now being counted before saves, resistances, etc(previously it had been added at the end of the damage calculation). This means that if a creature saves vs your casting, you will not get the full amount of damage for the eq that is worn. This change was necesarry to add spell dam and avatar bonuses to all mage spells and also to allow us to add more damage spells. There was simply no way possible we could allow a possible 180 base damage to spells( 100 spell eq, 80 av bonus) before a spell was ever cast. One side affect(that I had not thought of) has been the fact high level mobs and players make saves the majority of the time(except against bards), I am working on this now.
 
@@ -34,7 +34,7 @@ Hopefully I should have saves worked out by tomorrow night.
 
 </div>
 
-<div class="post" data-post-id="9771" data-author="Deju" data-date="2005-12-13T03:58:05+00:00">
+<div class="post" data-post-id="9771" data-author="Deju" data-date="2005-12-13T03:58:05+00:00" data-subject="">
 
 I understand that this was technically a bug that needed fixing.  However, I'm sure you guys can also understand that cutting spell bonus (and avatar bonus? i dont know about this one) essentially in half is a rather large blow to a very large portion of the player base.
 
@@ -48,7 +48,7 @@ Just a thought....
 
 </div>
 
-<div class="post" data-post-id="9772" data-author="blackmore" data-date="2005-12-13T04:18:06+00:00">
+<div class="post" data-post-id="9772" data-author="blackmore" data-date="2005-12-13T04:18:06+00:00" data-subject="">
 
 Ok, since this isn't intended to nerf mages, I'll refrain from bitching and just post some facts.
 
@@ -60,7 +60,7 @@ Finally, with spelldam basically halved, in the time that bmore reached 5x40, al
 
 </div>
 
-<div class="post" data-post-id="9773" data-author="blackmore" data-date="2005-12-13T04:24:21+00:00">
+<div class="post" data-post-id="9773" data-author="blackmore" data-date="2005-12-13T04:24:21+00:00" data-subject="">
 
 In an effort to find a way to help players try to get some of this blasting power back, perhaps we could double all the spelldam caps?  This wouldnt immediately give any player more power, but would allow them to work towards getting their bonuses back to where they were.
 
@@ -70,7 +70,7 @@ In order for bmore to solo with spelldam, almost all of his spelldam eq is bough
 
 </div>
 
-<div class="post" data-post-id="9775" data-author="12345" data-date="2005-12-13T12:06:33+00:00">
+<div class="post" data-post-id="9775" data-author="12345" data-date="2005-12-13T12:06:33+00:00" data-subject="">
 
 Actually, you're all ignoring saves.  It's been known for a while that cry of the avatars works out to be a bigger damage spell than firewind even though firewind does a lot more damage.  This is because bard charisma makes it damned hard to save and everyone else makes their saves against mage spells near constantly.
 
@@ -78,7 +78,7 @@ If the actual problem, which is saves, is fixed, it will effectively double the 
 
 </div>
 
-<div class="post" data-post-id="9776" data-author="Deju" data-date="2005-12-13T15:25:32+00:00">
+<div class="post" data-post-id="9776" data-author="Deju" data-date="2005-12-13T15:25:32+00:00" data-subject="">
 
 After a conversation with Splork, I think I actually understand the situation here (believe it or not).
 
@@ -100,7 +100,7 @@ ps.  I understand that you dont want every player in the game to immediately hav
 
 </div>
 
-<div class="post" data-post-id="9777" data-author="12345" data-date="2005-12-13T16:01:18+00:00">
+<div class="post" data-post-id="9777" data-author="12345" data-date="2005-12-13T16:01:18+00:00" data-subject="">
 
 Deju is exactly correct.
 
@@ -122,7 +122,7 @@ Since mages are 2-1-2-1-2, etc. That works out to about 50 damage lost per round
 
 </div>
 
-<div class="post" data-post-id="9778" data-author="Weasel" data-date="2005-12-13T16:34:26+00:00">
+<div class="post" data-post-id="9778" data-author="Weasel" data-date="2005-12-13T16:34:26+00:00" data-subject="">
 
 Nods offensive spells appear to be consistantly nerfed for me.. a mob I hit all the time that took a double stab and 3 winds (sometimes only 2 winds if I was lucky) now takes double stab +5 winds - and that's with 2 of the winds being masterful - otherwise dbl stab + 6 winds, and on top of that is all the additional HP cost while battling the mob (2-3 times as much HP cost as prior to these changes) due to the additional rounds taken to kill the mob, which in the end means the effect overall is more than halving player effectiveness in this case. 
 
@@ -136,7 +136,7 @@ As Splork said below, "This is in no way meant to be a nerfing and if it is I wi
 
 </div>
 
-<div class="post" data-post-id="9779" data-author="12345" data-date="2005-12-13T18:05:38+00:00">
+<div class="post" data-post-id="9779" data-author="12345" data-date="2005-12-13T18:05:38+00:00" data-subject="">
 
 Heh... you don't see that every day.  
 
@@ -146,13 +146,13 @@ Just teasing bro.  :lol:
 
 </div>
 
-<div class="post" data-post-id="9780" data-author="Weasel" data-date="2005-12-13T18:22:58+00:00">
+<div class="post" data-post-id="9780" data-author="Weasel" data-date="2005-12-13T18:22:58+00:00" data-subject="">
 
 well actually, now that you mention it.... hehe   :wink:
 
 </div>
 
-<div class="post" data-post-id="9781" data-author="Leaf" data-date="2005-12-13T18:44:55+00:00">
+<div class="post" data-post-id="9781" data-author="Leaf" data-date="2005-12-13T18:44:55+00:00" data-subject="">
 
 Actually I wasn't going to mention this at all.  I thought it was something
 
@@ -178,7 +178,7 @@ mana WASTED, on a mob that we use to be able to kill...
 
 </div>
 
-<div class="post" data-post-id="9782" data-author="_edd_" data-date="2005-12-13T18:46:31+00:00">
+<div class="post" data-post-id="9782" data-author="_edd_" data-date="2005-12-13T18:46:31+00:00" data-subject="">
 
 .. a mob I hit all the time that took a double stab and 3 winds (sometimes only 2 winds if I was lucky) now takes double stab +5 winds - and that's with 2 of the winds being masterful ..[/quote:3gtwzn59]
 
@@ -186,7 +186,7 @@ I've winded self in arena and figured out that masterful wind means nothing at a
 
 </div>
 
-<div class="post" data-post-id="9783" data-author="Weasel" data-date="2005-12-13T19:01:04+00:00">
+<div class="post" data-post-id="9783" data-author="Weasel" data-date="2005-12-13T19:01:04+00:00" data-subject="">
 
 .. a mob I hit all the time that took a double stab and 3 winds (sometimes only 2 winds if I was lucky) now takes double stab +5 winds - and that's with 2 of the winds being masterful ..[/quote:32nf6pr8]
 
@@ -196,7 +196,7 @@ ahh ok thanks, interesting to know. So I guess mob is dbl stab + 5-6 winds regar
 
 </div>
 
-<div class="post" data-post-id="9784" data-author="brand" data-date="2005-12-13T19:08:02+00:00">
+<div class="post" data-post-id="9784" data-author="brand" data-date="2005-12-13T19:08:02+00:00" data-subject="">
 
 I honestly believe that once combined with the other new mage spells(haste, slow, improved haste).[/quote:1bsrl4n2]
 
@@ -208,13 +208,13 @@ post script: can anyone list the names of the new spellbooks, just for me?
 
 </div>
 
-<div class="post" data-post-id="9785" data-author="12345" data-date="2005-12-13T19:17:24+00:00">
+<div class="post" data-post-id="9785" data-author="12345" data-date="2005-12-13T19:17:24+00:00" data-subject="">
 
 Does haste let you cast faster than 2-1-2-1?  I thought the help file said it let you sneak in an extra attack, which seems more along the lines of fluidity.  Not that have any problems with mages having it, it just doesn't seem like it would help them a lot :)
 
 </div>
 
-<div class="post" data-post-id="9786" data-author="Weasel" data-date="2005-12-13T19:20:06+00:00">
+<div class="post" data-post-id="9786" data-author="Weasel" data-date="2005-12-13T19:20:06+00:00" data-subject="">
 
 hmm so haste is like avatar attack (avatar 36).. except it's at druid level 31 instead.. or avatar-druid 31 for longer lasting haste..
 
@@ -226,13 +226,13 @@ btw, convocation is a very nice spell for leaders, thanks.
 
 </div>
 
-<div class="post" data-post-id="9787" data-author="Guinex" data-date="2005-12-13T19:34:14+00:00">
+<div class="post" data-post-id="9787" data-author="Guinex" data-date="2005-12-13T19:34:14+00:00" data-subject="">
 
 Last i heard those druid spells were being moved to mage, I am guessing these spells were possibly part of the cause of our recent crashes.  Perhaps that is why they have not been moved as of yet to mage.  Other than that i don't recall hearing that they were staying druid spells.
 
 </div>
 
-<div class="post" data-post-id="9788" data-author="Weasel" data-date="2005-12-13T20:09:33+00:00">
+<div class="post" data-post-id="9788" data-author="Weasel" data-date="2005-12-13T20:09:33+00:00" data-subject="">
 
 I don't get it - if haste becomes a mage spell instead of druid, what's the point other than having to use up more mana casting haste to achieve the same level of offensiveness ..that is assuming that the one extra round from haste makes up for the spelldam lost and the additional HP cost from increased fight duration.. 
 
@@ -242,13 +242,13 @@ maybe I should just shuddup.
 
 </div>
 
-<div class="post" data-post-id="9789" data-author="brand" data-date="2005-12-13T20:59:01+00:00">
+<div class="post" data-post-id="9789" data-author="brand" data-date="2005-12-13T20:59:01+00:00" data-subject="">
 
 the only point i can think of that then both brand and weasel would be able to cast haste, which i would like very much :twisted:
 
 </div>
 
-<div class="post" data-post-id="9790" data-author="blackmore" data-date="2005-12-13T21:02:03+00:00">
+<div class="post" data-post-id="9790" data-author="blackmore" data-date="2005-12-13T21:02:03+00:00" data-subject="">
 
 If the actual problem, which is saves, is fixed, it will effectively double the power of every spell you cast.  ie.  You'll get supercharged instead of nerfed, because not only will that lost spelldam blast through, but all the normal damage that you've been thinking you were getting, but weren't.[/quote:2g24s3pk]
 
@@ -260,7 +260,7 @@ Please don't point out how oversimplified this post is, the concept is valid whe
 
 </div>
 
-<div class="post" data-post-id="9791" data-author="12345" data-date="2005-12-13T21:27:30+00:00">
+<div class="post" data-post-id="9791" data-author="12345" data-date="2005-12-13T21:27:30+00:00" data-subject="">
 
 I think you said that backwards, but it's still a valid point. ie.  mobs currently always save.  
 
@@ -280,7 +280,7 @@ So I guess the question is basically: Would you rather have an underpowered clas
 
 </div>
 
-<div class="post" data-post-id="9792" data-author="Avatar" data-date="2005-12-13T22:33:46+00:00">
+<div class="post" data-post-id="9792" data-author="Avatar" data-date="2005-12-13T22:33:46+00:00" data-subject="Winds and Saves">
 
 I'd hate to add more flames (heh, firewinds) to the fire, but this is a reminder of how silly the early AD&D save system was.  It'd be cool to have saves actually mean something in terms of playing.  For example, some classes (thieves, etc) might have faster reflexes.  Against those types of targets, you (as the mage) might want to choose a lower level spell that saves vs. a different attribute.  Your base spell may do less damage, but if the target saves less often you might be far better off.
 
@@ -292,7 +292,7 @@ Well, back to work.  AFK!
 
 </div>
 
-<div class="post" data-post-id="9795" data-author="_edd_" data-date="2005-12-14T07:14:15+00:00">
+<div class="post" data-post-id="9795" data-author="_edd_" data-date="2005-12-14T07:14:15+00:00" data-subject="">
 
 Theoretically, the areas should be rebalanced after this happens so that they work the way the builders intended.  However, assuming that the new saved version is weaker than the old saved version, this will create an immediate problem in terms of mob survivability.
 
@@ -302,7 +302,7 @@ The question is do you really have so much time to wait for rebalancing? It woul
 
 </div>
 
-<div class="post" data-post-id="9796" data-author="Falsra" data-date="2005-12-14T12:48:19+00:00">
+<div class="post" data-post-id="9796" data-author="Falsra" data-date="2005-12-14T12:48:19+00:00" data-subject="">
 
 For the recent spellbonus changes...
 
@@ -338,7 +338,7 @@ items for the same price they bought them.
 
 </div>
 
-<div class="post" data-post-id="9797" data-author="Leaf" data-date="2005-12-15T01:29:11+00:00">
+<div class="post" data-post-id="9797" data-author="Leaf" data-date="2005-12-15T01:29:11+00:00" data-subject="">
 
 Drum Roll Please .....
 
@@ -346,7 +346,7 @@ So when are they going to mess with saves on Cry of Avatar?!?
 
 </div>
 
-<div class="post" data-post-id="9799" data-author="Aleksey" data-date="2005-12-15T05:43:58+00:00">
+<div class="post" data-post-id="9799" data-author="Aleksey" data-date="2005-12-15T05:43:58+00:00" data-subject="">
 
 Totaly disagree with Deju and 12345 about spelsaves on mobs and that new spell damage formula will do more damage in future than fue days ago, Unless thay will increase 'wind' damage or change/remove that 1/2 rate.
 
@@ -368,43 +368,43 @@ To Falsra post: Oleg, speldamage was real bonus for lowbies. On valk in past fir
 
 </div>
 
-<div class="post" data-post-id="9803" data-author="12345" data-date="2005-12-15T13:59:21+00:00">
+<div class="post" data-post-id="9803" data-author="12345" data-date="2005-12-15T13:59:21+00:00" data-subject="">
 
 I'm curious if anyone is actually aware how saves work in this game...
 
 </div>
 
-<div class="post" data-post-id="9805" data-author="Weasel" data-date="2005-12-15T16:43:35+00:00">
+<div class="post" data-post-id="9805" data-author="Weasel" data-date="2005-12-15T16:43:35+00:00" data-subject="">
 
 I'm sorry, but this is really frustrating. I now get maybe 30 seconds of play in and I then need to regen again for 7 minutes. Honestly this is just ridiculous. If this is how it's supposed to work then thank gawd it never did because the mud would have died a long time ago.
 
 </div>
 
-<div class="post" data-post-id="9806" data-author="12345" data-date="2005-12-15T16:50:02+00:00">
+<div class="post" data-post-id="9806" data-author="12345" data-date="2005-12-15T16:50:02+00:00" data-subject="">
 
 I think it's safe to say it still needs work Weasel.
 
 </div>
 
-<div class="post" data-post-id="9807" data-author="Weasel" data-date="2005-12-15T16:51:13+00:00">
+<div class="post" data-post-id="9807" data-author="Weasel" data-date="2005-12-15T16:51:13+00:00" data-subject="">
 
 hehe ya think? sorry, should be patient and stop whining huh (rhetorical question btw).
 
 </div>
 
-<div class="post" data-post-id="9808" data-author="12345" data-date="2005-12-15T17:06:20+00:00">
+<div class="post" data-post-id="9808" data-author="12345" data-date="2005-12-15T17:06:20+00:00" data-subject="">
 
 Actually, I think your concern and all the mage's concern is very valid.  I apologize if it seems otherwise :)
 
 </div>
 
-<div class="post" data-post-id="9810" data-author="kjartan" data-date="2005-12-15T17:12:26+00:00">
+<div class="post" data-post-id="9810" data-author="kjartan" data-date="2005-12-15T17:12:26+00:00" data-subject="">
 
 We'll try to look at this sometime soon.  The current system for saves totally sucks - it wasn't designed to work with every mob being lvl 40, which is essentially the situation now.   We are thinking over what to do with it.  But anyhow, we will probably do something to get spelldam back to about where it was, except that it will still not penetrate fire resistance etc (before, it did).  This is being delayed by me being swamped by work and Splork's computer being broken; both of these situations should improve soon.
 
 </div>
 
-<div class="post" data-post-id="9812" data-author="Weasel" data-date="2005-12-15T17:22:29+00:00">
+<div class="post" data-post-id="9812" data-author="Weasel" data-date="2005-12-15T17:22:29+00:00" data-subject="">
 
 thanks for the update Kj :)
 
@@ -412,7 +412,7 @@ thanks for the update Kj :)
 
 </div>
 
-<div class="post" data-post-id="9813" data-author="Deju" data-date="2005-12-15T20:56:51+00:00">
+<div class="post" data-post-id="9813" data-author="Deju" data-date="2005-12-15T20:56:51+00:00" data-subject="">
 
 Thanks very much for the post Kj.  If by chance there is anything i can do to help, just let me know.  Also, I wanted to thank you for the quick addition of the lurk flag too... very helpful!
 
@@ -422,7 +422,7 @@ Deju
 
 </div>
 
-<div class="post" data-post-id="9814" data-author="blackmore" data-date="2005-12-15T22:25:30+00:00">
+<div class="post" data-post-id="9814" data-author="blackmore" data-date="2005-12-15T22:25:30+00:00" data-subject="">
 
 > ***kjartan* wrote:**
 > We'll try to look at this sometime soon.  The current system for saves totally sucks - it wasn't designed to work with every mob being lvl 40, which is essentially the situation now.   We are thinking over what to do with it.  But anyhow, we will probably do something to get spelldam back to about where it was, except that it will still not penetrate fire resistance etc (before, it did).  This is being delayed by me being swamped by work and Splork's computer being broken; both of these situations should improve soon.
@@ -431,7 +431,7 @@ I wish posts like this were more frequent.  A short update like this is really a
 
 </div>
 
-<div class="post" data-post-id="9816" data-author="*Splork*" data-date="2005-12-15T23:33:19+00:00">
+<div class="post" data-post-id="9816" data-author="*Splork*" data-date="2005-12-15T23:33:19+00:00" data-subject="">
 
 Im sorry I havent been able to post, my new computer has a bad OS and I havent been able to connect till basically now.
 
@@ -449,7 +449,7 @@ These will go in on tonight's reboot.
 
 </div>
 
-<div class="post" data-post-id="9831" data-author="blackmore" data-date="2005-12-16T13:32:48+00:00">
+<div class="post" data-post-id="9831" data-author="blackmore" data-date="2005-12-16T13:32:48+00:00" data-subject="">
 
 Until we can fix this, I have returned spell damage to being calculated after saves. Also, I have put back the original avatar bonuses which will stay this figure.
 
@@ -459,19 +459,19 @@ This is yet another thing that I wish happened more often.  Thanks Rick.
 
 </div>
 
-<div class="post" data-post-id="9832" data-author="12345" data-date="2005-12-16T15:27:04+00:00">
+<div class="post" data-post-id="9832" data-author="12345" data-date="2005-12-16T15:27:04+00:00" data-subject="">
 
 Yeah, I think this was handled better than normal myself.  Though the mages might disagree with me :)
 
 </div>
 
-<div class="post" data-post-id="9835" data-author="Weasel" data-date="2005-12-16T18:14:53+00:00">
+<div class="post" data-post-id="9835" data-author="Weasel" data-date="2005-12-16T18:14:53+00:00" data-subject="">
 
 cheers Splork and Kj
 
 </div>
 
-<div class="post" data-post-id="9839" data-author="*Splork*" data-date="2005-12-16T21:25:20+00:00">
+<div class="post" data-post-id="9839" data-author="*Splork*" data-date="2005-12-16T21:25:20+00:00" data-subject="">
 
 I do want to apologize again. I really expected to have everything corrected basically that night and then all hell broke loose with my computer. Im still basiucally away till next week because of it.
 
@@ -483,7 +483,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="9840" data-author="brand" data-date="2005-12-16T21:29:58+00:00">
+<div class="post" data-post-id="9840" data-author="brand" data-date="2005-12-16T21:29:58+00:00" data-subject="">
 
 ULTIMA!!!!!
 

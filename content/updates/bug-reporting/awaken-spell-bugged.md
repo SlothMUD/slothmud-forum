@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="32231" data-author="Filk" data-date="2010-12-27T05:11:03+00:00">
+<div class="post" data-post-id="32231" data-author="Filk" data-date="2010-12-27T05:11:03+00:00" data-subject="Awaken spell bugged">
 
 > **Quote:**
 > "AWAKEN CREATURES" "AWAKENED CREATURES"
@@ -67,7 +67,7 @@ Not to mention, that spell dont fit well 8 class system, since it ends on 4x40.
 
 </div>
 
-<div class="post" data-post-id="32233" data-author="jezer" data-date="2010-12-27T07:51:56+00:00">
+<div class="post" data-post-id="32233" data-author="jezer" data-date="2010-12-27T07:51:56+00:00" data-subject="Re: Awaken spell bugged">
 
 :lol:
 
@@ -75,7 +75,7 @@ Suggest you give this one up, been on it for years. And believe me... YOU DON'T 
 
 </div>
 
-<div class="post" data-post-id="32237" data-author="Magi" data-date="2010-12-29T14:39:07+00:00">
+<div class="post" data-post-id="32237" data-author="Magi" data-date="2010-12-29T14:39:07+00:00" data-subject="Re: Awaken spell bugged">
 
 <Bump>
 
@@ -85,7 +85,7 @@ Please please let us druid types have our inferior pets!  Short of eliminating l
 
 </div>
 
-<div class="post" data-post-id="32239" data-author="Magi" data-date="2010-12-29T22:54:28+00:00">
+<div class="post" data-post-id="32239" data-author="Magi" data-date="2010-12-29T22:54:28+00:00" data-subject="Re: Awaken spell bugged">
 
 The lack of changes to the help file point to our lack of slime mold as being a bug and not intentional, which is somewhat of a relief.
 
@@ -101,19 +101,19 @@ I know I've got necro levels and could use dark arts to conjure up abominations 
 
 </div>
 
-<div class="post" data-post-id="32242" data-author="Dragoth" data-date="2010-12-30T11:49:31+00:00">
+<div class="post" data-post-id="32242" data-author="Dragoth" data-date="2010-12-30T11:49:31+00:00" data-subject="Re: Awaken spell bugged">
 
 Remember the days of non scaling nercro pets and druid's ability to order them around while shapeshifted ? I think those days are long gone for a reason, the same reason that you druids have crappy awakened creatures now i think.
 
 </div>
 
-<div class="post" data-post-id="32243" data-author="Magi" data-date="2010-12-30T14:21:21+00:00">
+<div class="post" data-post-id="32243" data-author="Magi" data-date="2010-12-30T14:21:21+00:00" data-subject="Re: Awaken spell bugged">
 
 If you read carefully you'll see that we aren't complaining about "crappy awakened creatures", we aren't asking for buffs to "crappy awakened creatures", and are in fact begging for said creatures to be put back in-game *as they were* before they got hit with a bug that made them un-summonable.
 
 </div>
 
-<div class="post" data-post-id="32245" data-author="*Splork*" data-date="2010-12-30T16:18:30+00:00">
+<div class="post" data-post-id="32245" data-author="*Splork*" data-date="2010-12-30T16:18:30+00:00" data-subject="Re: Awaken spell bugged">
 
 Some spells got left behind and forgotten during the restart and this was one of them. 
 
@@ -131,7 +131,7 @@ We are looking into the lost concentration on battleshift now.
 
 </div>
 
-<div class="post" data-post-id="32246" data-author="Magi" data-date="2010-12-30T16:45:57+00:00">
+<div class="post" data-post-id="32246" data-author="Magi" data-date="2010-12-30T16:45:57+00:00" data-subject="Awaken spell unbugged!">
 
 Thanks!  It's elder ent at 6x40, in case anyone got excited about 'Ants', although a small army of ants would make cool summon... *ponder ponder*
 
@@ -143,7 +143,7 @@ It's like Christmas morning, only better! You made my day.
 
 </div>
 
-<div class="post" data-post-id="32249" data-author="Tuck" data-date="2010-12-31T22:37:41+00:00">
+<div class="post" data-post-id="32249" data-author="Tuck" data-date="2010-12-31T22:37:41+00:00" data-subject="Re: Awaken spell bugged">
 
 > **Quote:**
 > We are looking into the lost concentration on battleshift now.

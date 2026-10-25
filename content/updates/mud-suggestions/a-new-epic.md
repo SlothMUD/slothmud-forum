@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="34453" data-author="Popeye" data-date="2013-09-26T22:45:23+00:00">
+<div class="post" data-post-id="34453" data-author="Popeye" data-date="2013-09-26T22:45:23+00:00" data-subject="A new Epic">
 
 Let's call him Uno
 
@@ -24,13 +24,13 @@ Just an idea to encourage big groups
 
 </div>
 
-<div class="post" data-post-id="34454" data-author="*Breeze*" data-date="2013-09-27T12:50:34+00:00">
+<div class="post" data-post-id="34454" data-author="*Breeze*" data-date="2013-09-27T12:50:34+00:00" data-subject="Re: A new Epic">
 
 and if complete group dies/corpses?
 
 </div>
 
-<div class="post" data-post-id="34455" data-author="Sleeping Forest" data-date="2013-09-27T13:56:40+00:00">
+<div class="post" data-post-id="34455" data-author="Sleeping Forest" data-date="2013-09-27T13:56:40+00:00" data-subject="Re: A new Epic">
 
 Invite only sounds like a less than promising idea for gathering groups. A "1 run" epic for that much drachma doesnt sound like much of a "epic" mob at all. and the payout seems way to high for such little work.
 
@@ -38,7 +38,7 @@ On the other hand if u want to see more epic grouping, adding 1 drachma on every
 
 </div>
 
-<div class="post" data-post-id="34457" data-author="Popeye" data-date="2013-09-27T20:53:30+00:00">
+<div class="post" data-post-id="34457" data-author="Popeye" data-date="2013-09-27T20:53:30+00:00" data-subject="Re: A new Epic">
 
 Corpses would be chucked out somewhere for people to collect equip.
 
@@ -50,7 +50,7 @@ Imm sets difficulty based on group content/size. Minimum group 15. Mob would be 
 
 </div>
 
-<div class="post" data-post-id="34461" data-author="Yasik" data-date="2013-09-29T13:33:38+00:00">
+<div class="post" data-post-id="34461" data-author="Yasik" data-date="2013-09-29T13:33:38+00:00" data-subject="Re: A new Epic">
 
 > **Popeye wrote:**
 > Corpses would be chucked out somewhere for people to collect equip.
@@ -61,13 +61,13 @@ PS. Can this whole idea be replaced by repeatable drachma autoquests? Just like 
 
 </div>
 
-<div class="post" data-post-id="34463" data-author="*Breeze*" data-date="2013-10-02T06:24:21+00:00">
+<div class="post" data-post-id="34463" data-author="*Breeze*" data-date="2013-10-02T06:24:21+00:00" data-subject="Re: A new Epic">
 
 i never agreed to super-epic. was just wondering what he thought should be done with the deads....
 
 </div>
 
-<div class="post" data-post-id="34464" data-author="Ker" data-date="2013-10-02T10:11:13+00:00">
+<div class="post" data-post-id="34464" data-author="Ker" data-date="2013-10-02T10:11:13+00:00" data-subject="Re: A new Epic">
 
 I like new ideas of encouraging big groups but probably not on the basis of a one time epic spawn.
 
@@ -83,7 +83,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="34465" data-author="*juggleblood*" data-date="2013-10-03T21:00:10+00:00">
+<div class="post" data-post-id="34465" data-author="*juggleblood*" data-date="2013-10-03T21:00:10+00:00" data-subject="Re: A new Epic">
 
 This is the natural flow and ebb of mud. The summer always dries up and activity always picks up in the fall and peaks around new year.
 
@@ -97,7 +97,7 @@ Activity is picking up, so who knows what will come.
 
 </div>
 
-<div class="post" data-post-id="34466" data-author="Tuck" data-date="2013-10-04T16:56:58+00:00">
+<div class="post" data-post-id="34466" data-author="Tuck" data-date="2013-10-04T16:56:58+00:00" data-subject="Re: A new Epic">
 
 > **Quote:**
 > You end up with situations where two avatars are arguing over which one gets to solo a mob that's supposed to take a large group.

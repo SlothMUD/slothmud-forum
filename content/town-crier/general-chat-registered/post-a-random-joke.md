@@ -10,7 +10,7 @@ locked: false
 post_count: 53
 ---
 
-<div class="post" data-post-id="17524" data-author="firebrand" data-date="2007-03-27T18:11:57+00:00">
+<div class="post" data-post-id="17524" data-author="firebrand" data-date="2007-03-27T18:11:57+00:00" data-subject="post a random joke">
 
 LOVE IN A MENTAL HOSPITAL
 
@@ -30,7 +30,7 @@ Autolycos replied, "He didn't hang himself, I put him there to dry. How soon can
 
 </div>
 
-<div class="post" data-post-id="17526" data-author="Autolycos" data-date="2007-03-27T18:16:20+00:00">
+<div class="post" data-post-id="17526" data-author="Autolycos" data-date="2007-03-27T18:16:20+00:00" data-subject="">
 
 that is pretty damn funny..  :twisted: 
 
@@ -38,7 +38,7 @@ but everyone knows i would never have saved him in the first place.   :x
 
 </div>
 
-<div class="post" data-post-id="17527" data-author="Leaf" data-date="2007-03-27T18:19:21+00:00">
+<div class="post" data-post-id="17527" data-author="Leaf" data-date="2007-03-27T18:19:21+00:00" data-subject="">
 
 I may not mud anymore, but still great to know Reb and Jason remembers
 
@@ -48,7 +48,7 @@ Plus Jason is too weak to rescue anyone.  He would drown in a 2 inch pool.
 
 </div>
 
-<div class="post" data-post-id="17528" data-author="firebrand" data-date="2007-03-27T18:20:36+00:00">
+<div class="post" data-post-id="17528" data-author="firebrand" data-date="2007-03-27T18:20:36+00:00" data-subject="">
 
 no but the hanging him out to dry is completely believable about you hehehe
 
@@ -56,7 +56,7 @@ no but the hanging him out to dry is completely believable about you hehehe
 
 </div>
 
-<div class="post" data-post-id="17529" data-author="Autolycos" data-date="2007-03-27T18:23:50+00:00">
+<div class="post" data-post-id="17529" data-author="Autolycos" data-date="2007-03-27T18:23:50+00:00" data-subject="">
 
 Plus Jason is too weak to rescue anyone.  He would drown in a 2 inch pool.[/quote:2u34zuo2]
 
@@ -64,7 +64,7 @@ you keep on believing that Susie.
 
 </div>
 
-<div class="post" data-post-id="17530" data-author="firebrand" data-date="2007-03-27T18:28:27+00:00">
+<div class="post" data-post-id="17530" data-author="firebrand" data-date="2007-03-27T18:28:27+00:00" data-subject="">
 
 THE CREATION OF A VAGINA
 
@@ -104,7 +104,7 @@ THE CREATION OF A VAGINA
 
 </div>
 
-<div class="post" data-post-id="17531" data-author="firebrand" data-date="2007-03-27T18:37:19+00:00">
+<div class="post" data-post-id="17531" data-author="firebrand" data-date="2007-03-27T18:37:19+00:00" data-subject="">
 
 It was entertainment day at the Senior Center and the amazing Claude was topping the bill. People came from miles around to see the famed hypnotist do his stuff.
 
@@ -138,13 +138,13 @@ It was entertainment day at the Senior Center and the amazing Claude was topping
 
 </div>
 
-<div class="post" data-post-id="17569" data-author="13" data-date="2007-03-28T13:00:10+00:00">
+<div class="post" data-post-id="17569" data-author="13" data-date="2007-03-28T13:00:10+00:00" data-subject="">
 
 2 Pirates walk into a bar, the third one ducks.
 
 </div>
 
-<div class="post" data-post-id="17733" data-author="13" data-date="2007-04-02T22:11:17+00:00">
+<div class="post" data-post-id="17733" data-author="13" data-date="2007-04-02T22:11:17+00:00" data-subject="">
 
 A cabbie picks up a Nun. She gets into the cab, and notices that the VERY handsome cab driver won't stop staring at her.   She asks him why he is staring.
 
@@ -186,7 +186,7 @@ The nun says, "That's OK.  My name is Kevin and I'm going to a Halloween party."
 
 </div>
 
-<div class="post" data-post-id="17743" data-author="firebrand" data-date="2007-04-03T03:37:52+00:00">
+<div class="post" data-post-id="17743" data-author="firebrand" data-date="2007-04-03T03:37:52+00:00" data-subject="">
 
 nun halloween costume: $50 
 
@@ -200,7 +200,7 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="17777" data-author="Popa" data-date="2007-04-04T17:41:10+00:00">
+<div class="post" data-post-id="17777" data-author="Popa" data-date="2007-04-04T17:41:10+00:00" data-subject="">
 
 Jesus was in a restaraunt sitting at a booth eating. 
 
@@ -222,7 +222,7 @@ walking up to the 3rd guy. Jesus offers to heal him from the wheel chair, and gu
 
 </div>
 
-<div class="post" data-post-id="17780" data-author="Mosaix" data-date="2007-04-04T19:43:48+00:00">
+<div class="post" data-post-id="17780" data-author="Mosaix" data-date="2007-04-04T19:43:48+00:00" data-subject="">
 
 I guess that joke could be funny if you obsess about religion 24/7
 
@@ -234,7 +234,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="17782" data-author="firebrand" data-date="2007-04-04T20:35:45+00:00">
+<div class="post" data-post-id="17782" data-author="firebrand" data-date="2007-04-04T20:35:45+00:00" data-subject="">
 
 hey mosaix chill and leave steve alone.  he's posting a joke, so let him.....besides, here's another one:
 
@@ -244,7 +244,7 @@ jesus walks into an inn, hands the innkeeper three nails and says "can you put m
 
 </div>
 
-<div class="post" data-post-id="17783" data-author="tincts" data-date="2007-04-04T20:35:52+00:00">
+<div class="post" data-post-id="17783" data-author="tincts" data-date="2007-04-04T20:35:52+00:00" data-subject="">
 
 [http://www.youtube.com/watch?v=NFwvs8eYt6E](http://www.youtube.com/watch?v=NFwvs8eYt6E)
 
@@ -252,7 +252,7 @@ Also, Mosaix gotta chill, man
 
 </div>
 
-<div class="post" data-post-id="17788" data-author="Medios" data-date="2007-04-04T21:28:42+00:00">
+<div class="post" data-post-id="17788" data-author="Medios" data-date="2007-04-04T21:28:42+00:00" data-subject="">
 
 Damn Broc whats up.  Did you get handled by a priest as a young boy?  
 
@@ -268,7 +268,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="17844" data-author="firebrand" data-date="2007-04-06T22:44:06+00:00">
+<div class="post" data-post-id="17844" data-author="firebrand" data-date="2007-04-06T22:44:06+00:00" data-subject="">
 
 A girl came skipping home from school one day. "Mommy, Mommy" , she yelled, "we were counting today and all the other kids could only count to four, but I counted to 10". 
 
@@ -302,7 +302,7 @@ The next day the girl came skipping home from school. "Mommy, Mommy", she yelled
 
 </div>
 
-<div class="post" data-post-id="17924" data-author="firebrand" data-date="2007-04-13T16:24:48+00:00">
+<div class="post" data-post-id="17924" data-author="firebrand" data-date="2007-04-13T16:24:48+00:00" data-subject="">
 
 How all American business phones SHOULD be answered! 
 
@@ -316,7 +316,7 @@ Press "2" to disconnect until you learn to speak English.
 
 </div>
 
-<div class="post" data-post-id="17925" data-author="Leaf" data-date="2007-04-13T16:49:16+00:00">
+<div class="post" data-post-id="17925" data-author="Leaf" data-date="2007-04-13T16:49:16+00:00" data-subject="">
 
 Thats not a Joke Reb, that should be a FACT!!!
 
@@ -326,7 +326,7 @@ for English.  They shouldn't even offer that option!
 
 </div>
 
-<div class="post" data-post-id="17926" data-author="firebrand" data-date="2007-04-13T17:07:49+00:00">
+<div class="post" data-post-id="17926" data-author="firebrand" data-date="2007-04-13T17:07:49+00:00" data-subject="">
 
 agreed. 
 
@@ -334,7 +334,7 @@ agreed.
 
 </div>
 
-<div class="post" data-post-id="17928" data-author="Akasha" data-date="2007-04-13T17:51:49+00:00">
+<div class="post" data-post-id="17928" data-author="Akasha" data-date="2007-04-13T17:51:49+00:00" data-subject="">
 
 Sadly, I've met people who have traveled abroad to other countries and came home complaining that "I'm a visitor there, they should be respectful hosts and learn to speak english."
 
@@ -344,13 +344,13 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="17930" data-author="Autolycos" data-date="2007-04-13T17:54:50+00:00">
+<div class="post" data-post-id="17930" data-author="Autolycos" data-date="2007-04-13T17:54:50+00:00" data-subject="">
 
 indeed
 
 </div>
 
-<div class="post" data-post-id="17932" data-author="Shazuko" data-date="2007-04-13T21:38:31+00:00">
+<div class="post" data-post-id="17932" data-author="Shazuko" data-date="2007-04-13T21:38:31+00:00" data-subject="">
 
 Q: What's black and blue and hates sex?
 
@@ -364,7 +364,7 @@ Shazuko Six Dragons
 
 </div>
 
-<div class="post" data-post-id="17933" data-author="tincts" data-date="2007-04-14T03:16:42+00:00">
+<div class="post" data-post-id="17933" data-author="tincts" data-date="2007-04-14T03:16:42+00:00" data-subject="">
 
 How all American business phones SHOULD be answered! 
 
@@ -380,13 +380,13 @@ Shouldn't you all be speaking American Indian then? (Like we aussies should be s
 
 </div>
 
-<div class="post" data-post-id="17934" data-author="Weasel" data-date="2007-04-14T04:16:41+00:00">
+<div class="post" data-post-id="17934" data-author="Weasel" data-date="2007-04-14T04:16:41+00:00" data-subject="">
 
 blame the destruction of the tower of babel.
 
 </div>
 
-<div class="post" data-post-id="17936" data-author="firebrand" data-date="2007-04-14T14:35:43+00:00">
+<div class="post" data-post-id="17936" data-author="firebrand" data-date="2007-04-14T14:35:43+00:00" data-subject="">
 
 *sigh* obviously no one noticed the title of this thread, which happens to be post a random JOKE.  jeez, ppl lighten up.
 
@@ -512,7 +512,7 @@ Hell, no! He just yelled, "April Fool!" And that's when I shot him, the little b
 
 </div>
 
-<div class="post" data-post-id="19000" data-author="firebrand" data-date="2007-06-20T17:36:54+00:00">
+<div class="post" data-post-id="19000" data-author="firebrand" data-date="2007-06-20T17:36:54+00:00" data-subject="">
 
 autolycos is really worried about his health, and is waiting nervously in the hallway at the infirmary of farlorne while a team of mad doctors gathers together to consult about his case.
 
@@ -532,13 +532,13 @@ after a few minutes, will escapes and runs back to uncle autolycos.
 
 </div>
 
-<div class="post" data-post-id="19002" data-author="Corinn" data-date="2007-06-20T19:28:13+00:00">
+<div class="post" data-post-id="19002" data-author="Corinn" data-date="2007-06-20T19:28:13+00:00" data-subject="">
 
 snore
 
 </div>
 
-<div class="post" data-post-id="19013" data-author="firebrand" data-date="2007-06-21T04:51:20+00:00">
+<div class="post" data-post-id="19013" data-author="firebrand" data-date="2007-06-21T04:51:20+00:00" data-subject="">
 
 snore[/quote:mj4jp3g0] darlin, if you find this one unfunny, perhaps you can post a better one......after all, that is why i started this thread in the first place!  
 
@@ -546,7 +546,7 @@ snore[/quote:mj4jp3g0] darlin, if you find this one unfunny, perhaps you can pos
 
 </div>
 
-<div class="post" data-post-id="19014" data-author="12345" data-date="2007-06-21T08:30:40+00:00">
+<div class="post" data-post-id="19014" data-author="12345" data-date="2007-06-21T08:30:40+00:00" data-subject="">
 
 [quote:25oixfk6][b:25oixfk6]Hades[/b:25oixfk6]
 
@@ -560,25 +560,25 @@ Posts: 210[/size:25oixfk6][/quote:25oixfk6]
 
 </div>
 
-<div class="post" data-post-id="19016" data-author="Autolycos" data-date="2007-06-21T12:32:47+00:00">
+<div class="post" data-post-id="19016" data-author="Autolycos" data-date="2007-06-21T12:32:47+00:00" data-subject="">
 
 now THAT is funny!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="19018" data-author="Leaf" data-date="2007-06-21T14:28:22+00:00">
+<div class="post" data-post-id="19018" data-author="Leaf" data-date="2007-06-21T14:28:22+00:00" data-subject="">
 
 its funny how much love Jason and I share!  Reb is jealous!
 
 </div>
 
-<div class="post" data-post-id="19019" data-author="brady" data-date="2007-06-21T14:37:30+00:00">
+<div class="post" data-post-id="19019" data-author="brady" data-date="2007-06-21T14:37:30+00:00" data-subject="">
 
 A jubilant group of minstrels, mages and morphers gathered behind the fierce Firebrand.  It seems she needed at least 30 to explore the forboding land of Theris.  Afer slaying the Forgiveness Juggernaut a silence fell heavy across the land, much like a wet blanket.  It seemed the intrepid leader fell victim to a bowl of chicken soup.  The end.
 
 </div>
 
-<div class="post" data-post-id="19020" data-author="Autolycos" data-date="2007-06-21T14:49:12+00:00">
+<div class="post" data-post-id="19020" data-author="Autolycos" data-date="2007-06-21T14:49:12+00:00" data-subject="">
 
 lmfao... that was funny!
 
@@ -586,7 +586,7 @@ of course the joke is that there is NFW way firebrand's group could kill a mob, 
 
 </div>
 
-<div class="post" data-post-id="19322" data-author="Shazuko" data-date="2007-07-21T15:42:29+00:00">
+<div class="post" data-post-id="19322" data-author="Shazuko" data-date="2007-07-21T15:42:29+00:00" data-subject="">
 
 Two families moved from Afghanistan to America. When they arrived, the two 
 
@@ -610,7 +610,7 @@ The second man replies, "Fuck you, towel head."
 
 </div>
 
-<div class="post" data-post-id="19323" data-author="resouh" data-date="2007-07-21T15:55:23+00:00">
+<div class="post" data-post-id="19323" data-author="resouh" data-date="2007-07-21T15:55:23+00:00" data-subject="">
 
 Three men were hiking when they came upon a raging river.  Not knowing how to get across the first one raises his arms and prays 'Dear god, Please give me the strength to cross this river'.  Poof, his arms and legs grow strong and muscular and he proceeds to swim across the river.  After 2 hours and almost drowning twice he makes it across.
 
@@ -622,7 +622,7 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="23317" data-author="Jag" data-date="2008-03-20T13:31:38+00:00">
+<div class="post" data-post-id="23317" data-author="Jag" data-date="2008-03-20T13:31:38+00:00" data-subject="">
 
 A mudder with a pegleg, hook hand and an eyepatch went to apply to be a pirate.
 
@@ -644,7 +644,7 @@ Pirate: No, it was the day after I got me hook.
 
 </div>
 
-<div class="post" data-post-id="24638" data-author="firebrand" data-date="2008-05-31T15:06:29+00:00">
+<div class="post" data-post-id="24638" data-author="firebrand" data-date="2008-05-31T15:06:29+00:00" data-subject="">
 
 Subject: Dr. Appt.
 
@@ -700,7 +700,7 @@ Subject: Dr. Appt.
 
 </div>
 
-<div class="post" data-post-id="24647" data-author="firebrand" data-date="2008-06-01T16:08:25+00:00">
+<div class="post" data-post-id="24647" data-author="firebrand" data-date="2008-06-01T16:08:25+00:00" data-subject="">
 
 WARNING FROM THE MIDDLE EAST! This morning, from a cave somewhere in Pakistan, Taliban Minister of Migration, Mohammed Omar, warned the United States, "that if military action against Iraq continues, Taliban authorities will":  
 
@@ -712,7 +712,7 @@ It's getting ugly out there....
 
 </div>
 
-<div class="post" data-post-id="24661" data-author="PolkAdotS" data-date="2008-06-02T05:24:51+00:00">
+<div class="post" data-post-id="24661" data-author="PolkAdotS" data-date="2008-06-02T05:24:51+00:00" data-subject="">
 
 Why is it, lightning never strikes in the same place twice?
 
@@ -720,7 +720,7 @@ Why is it, lightning never strikes in the same place twice?
 
 </div>
 
-<div class="post" data-post-id="24664" data-author="Yinao" data-date="2008-06-02T05:36:36+00:00">
+<div class="post" data-post-id="24664" data-author="Yinao" data-date="2008-06-02T05:36:36+00:00" data-subject="">
 
 Funny Joke:
 
@@ -730,7 +730,7 @@ Polk quit! in his vault and lost his eq...
 
 </div>
 
-<div class="post" data-post-id="24671" data-author="PolkAdotS" data-date="2008-06-02T06:42:22+00:00">
+<div class="post" data-post-id="24671" data-author="PolkAdotS" data-date="2008-06-02T06:42:22+00:00" data-subject="">
 
 So there's this morom cab driver, picks up his fair.  The man he picks up says something to the effect of a religious discussion topic.  You all know how cab drivers are, so the cabbie pipes up, says to the guy... 
 
@@ -746,7 +746,7 @@ The driver just nods, says 'No reason really, I just figured I should let her wa
 
 </div>
 
-<div class="post" data-post-id="24688" data-author="*juggleblood*" data-date="2008-06-02T16:29:47+00:00">
+<div class="post" data-post-id="24688" data-author="*juggleblood*" data-date="2008-06-02T16:29:47+00:00" data-subject="">
 
 What did the fish say when it ran into a wall?
 
@@ -754,7 +754,7 @@ Dam
 
 </div>
 
-<div class="post" data-post-id="25207" data-author="Alberich" data-date="2008-06-26T21:27:16+00:00">
+<div class="post" data-post-id="25207" data-author="Alberich" data-date="2008-06-26T21:27:16+00:00" data-subject="">
 
 A fleeing Taliban, desperate for water, was plodding through the Afghanistan desert when he saw something far off in the distance. Hoping to find water, he hurried toward the object only to find a little old Jew at a small stand selling neckties. 
 
@@ -782,7 +782,7 @@ The Taliban asked, 'Do you have water?' The Jew replied, 'I have no water. Would
 
 </div>
 
-<div class="post" data-post-id="25971" data-author="firebrand" data-date="2008-08-29T02:07:04+00:00">
+<div class="post" data-post-id="25971" data-author="firebrand" data-date="2008-08-29T02:07:04+00:00" data-subject="">
 
 Subject: Mississippi Wal-Marts Run Out of Ammo!!!
 
@@ -806,7 +806,7 @@ Georgia, they sure as heck better not mess with Mississippi.[/color:3src2tap]
 
 </div>
 
-<div class="post" data-post-id="26297" data-author="*juggleblood*" data-date="2008-09-13T05:14:53+00:00">
+<div class="post" data-post-id="26297" data-author="*juggleblood*" data-date="2008-09-13T05:14:53+00:00" data-subject="">
 
 Smoking in the Rain   
 
@@ -828,7 +828,7 @@ The old lady thought for a minute and said, "One that will fit a Camel."
 
 </div>
 
-<div class="post" data-post-id="26303" data-author="Widow" data-date="2008-09-13T15:59:52+00:00">
+<div class="post" data-post-id="26303" data-author="Widow" data-date="2008-09-13T15:59:52+00:00" data-subject="">
 
 "What's a Pirate's favorite letter of the alphabet?"
 
@@ -836,19 +836,19 @@ The old lady thought for a minute and said, "One that will fit a Camel."
 
 </div>
 
-<div class="post" data-post-id="26366" data-author="Elwood" data-date="2008-09-17T13:30:55+00:00">
+<div class="post" data-post-id="26366" data-author="Elwood" data-date="2008-09-17T13:30:55+00:00" data-subject="">
 
 [Legends]
 
 </div>
 
-<div class="post" data-post-id="26367" data-author="13" data-date="2008-09-17T13:32:18+00:00">
+<div class="post" data-post-id="26367" data-author="13" data-date="2008-09-17T13:32:18+00:00" data-subject="">
 
 whoops that was supposed to be with 13
 
 </div>
 
-<div class="post" data-post-id="27733" data-author="firebrand" data-date="2009-01-15T15:54:13+00:00">
+<div class="post" data-post-id="27733" data-author="firebrand" data-date="2009-01-15T15:54:13+00:00" data-subject="">
 
 Grandma's letter.  She is eighty-eight years old and still drives her own car.
 
@@ -868,7 +868,7 @@ Grandma
 
 </div>
 
-<div class="post" data-post-id="27738" data-author="Alberich" data-date="2009-01-15T20:39:37+00:00">
+<div class="post" data-post-id="27738" data-author="Alberich" data-date="2009-01-15T20:39:37+00:00" data-subject="">
 
 A Mexican woodpecker and a Canadian woodpecker were in Mexico arguing about which place had the toughest trees. The Mexican woodpecker claimed Mexico had a tree that no woodpecker could peck.
 
@@ -888,7 +888,7 @@ Apparently, your pecker gets harder when you're away from home
 
 </div>
 
-<div class="post" data-post-id="27745" data-author="Yasik2" data-date="2009-01-16T07:30:05+00:00">
+<div class="post" data-post-id="27745" data-author="Yasik2" data-date="2009-01-16T07:30:05+00:00" data-subject="">
 
 almost without brea king[/quote:3ndz283e]
 
@@ -896,7 +896,7 @@ You meant BRA KING?
 
 </div>
 
-<div class="post" data-post-id="27757" data-author="Afea" data-date="2009-01-16T23:01:03+00:00">
+<div class="post" data-post-id="27757" data-author="Afea" data-date="2009-01-16T23:01:03+00:00" data-subject="">
 
 If girls with big boobs work at Hooters.. where do girls with one leg work?
 
@@ -904,7 +904,7 @@ A: IHOP
 
 </div>
 
-<div class="post" data-post-id="27763" data-author="Yasik2" data-date="2009-01-17T04:30:35+00:00">
+<div class="post" data-post-id="27763" data-author="Yasik2" data-date="2009-01-17T04:30:35+00:00" data-subject="">
 
 I guess this thread is now about tits...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="38879" data-author="Teron" data-date="2018-06-10T02:42:28+00:00">
+<div class="post" data-post-id="38879" data-author="Teron" data-date="2018-06-10T02:42:28+00:00" data-subject="applying remort tokens to 8/1 chars">
 
 Hi.
 
@@ -20,7 +20,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="38880" data-author="*Breeze*" data-date="2018-06-10T08:12:09+00:00">
+<div class="post" data-post-id="38880" data-author="*Breeze*" data-date="2018-06-10T08:12:09+00:00" data-subject="Re: applying remort tokens to 8/1 chars">
 
 its possible.
 
@@ -36,7 +36,7 @@ i restricted the token in its code.
 
 </div>
 
-<div class="post" data-post-id="38883" data-author="*Idjit*" data-date="2018-06-11T01:01:22+00:00">
+<div class="post" data-post-id="38883" data-author="*Idjit*" data-date="2018-06-11T01:01:22+00:00" data-subject="Re: applying remort tokens to 8/1 chars">
 
 So here's a question, since we can do this with an 8/1 can we delevel an established fairly high level char all the way down to 8/1, and then use the token.
 
@@ -48,13 +48,13 @@ I would suppose, yes.
 
 </div>
 
-<div class="post" data-post-id="38884" data-author="cyprimus" data-date="2018-06-11T04:56:51+00:00">
+<div class="post" data-post-id="38884" data-author="cyprimus" data-date="2018-06-11T04:56:51+00:00" data-subject="Re: applying remort tokens to 8/1 chars">
 
 I tried. was told it had to be a newly created character.  could not delevel for it.
 
 </div>
 
-<div class="post" data-post-id="38894" data-author="Teron" data-date="2018-06-14T05:36:56+00:00">
+<div class="post" data-post-id="38894" data-author="Teron" data-date="2018-06-14T05:36:56+00:00" data-subject="Re: applying remort tokens to 8/1 chars">
 
 I have 2 8/1 chars with stats that I'd like to eventually remort, once I'm done with rebirth and 1 remort.
 
@@ -66,7 +66,7 @@ Perhaps it'd help to clarify the stance on which chars the remort token can be a
 
 </div>
 
-<div class="post" data-post-id="38895" data-author="Gorka" data-date="2018-06-14T15:17:07+00:00">
+<div class="post" data-post-id="38895" data-author="Gorka" data-date="2018-06-14T15:17:07+00:00" data-subject="Re: applying remort tokens to 8/1 chars">
 
 I've been trying to figure out what the reason is, any player who has a (9x40) can't remort a non-remorted char they have at any level. The vibe I kind of get is that there would be an apocalypse... but my curiosity, not my interest in the idea,  stills begs me to ask the question, why? Why is it important to be 1/1, 8/1 or 13/6/27/41... am I missing something obvious?  :|
 
@@ -84,7 +84,7 @@ Why can't we just come out and say it, hey Breeze, was there any good reason we 
 
 </div>
 
-<div class="post" data-post-id="38896" data-author="*Breeze*" data-date="2018-06-14T16:38:16+00:00">
+<div class="post" data-post-id="38896" data-author="*Breeze*" data-date="2018-06-14T16:38:16+00:00" data-subject="Re: applying remort tokens to 8/1 chars">
 
 honestly dont care either way.
 
@@ -94,7 +94,7 @@ pretty sure the thought behind it is so that someone doesnt give token to higher
 
 </div>
 
-<div class="post" data-post-id="38900" data-author="Teron" data-date="2018-06-16T04:28:42+00:00">
+<div class="post" data-post-id="38900" data-author="Teron" data-date="2018-06-16T04:28:42+00:00" data-subject="Re: applying remort tokens to 8/1 chars">
 
 It's good to know that 8/1s can be applied tokens to.
 
@@ -110,7 +110,7 @@ Thank you.
 
 </div>
 
-<div class="post" data-post-id="38914" data-author="*Idjit*" data-date="2018-06-19T00:44:40+00:00">
+<div class="post" data-post-id="38914" data-author="*Idjit*" data-date="2018-06-19T00:44:40+00:00" data-subject="Re: applying remort tokens to 8/1 chars">
 
 Notice though, I asked:
 
@@ -128,7 +128,7 @@ I'd also like to point out that we'd be zeroing out any stored xp at the same ti
 
 </div>
 
-<div class="post" data-post-id="38956" data-author="Teron" data-date="2018-08-02T00:59:37+00:00">
+<div class="post" data-post-id="38956" data-author="Teron" data-date="2018-08-02T00:59:37+00:00" data-subject="Re: applying remort tokens to 8/1 chars">
 
 Upping thread, would like to know the answer to my question.
 
@@ -136,7 +136,7 @@ Deleveling to apply the token and leveling again seems pointless, though - you a
 
 </div>
 
-<div class="post" data-post-id="38957" data-author="*Breeze*" data-date="2018-08-02T17:38:53+00:00">
+<div class="post" data-post-id="38957" data-author="*Breeze*" data-date="2018-08-02T17:38:53+00:00" data-subject="Re: applying remort tokens to 8/1 chars">
 
 1) its that way because thats how i wanted it when i designed it.
 
@@ -144,7 +144,7 @@ Deleveling to apply the token and leveling again seems pointless, though - you a
 
 </div>
 
-<div class="post" data-post-id="38960" data-author="*Breeze*" data-date="2018-08-12T07:18:29+00:00">
+<div class="post" data-post-id="38960" data-author="*Breeze*" data-date="2018-08-12T07:18:29+00:00" data-subject="Re: applying remort tokens to 8/1 chars">
 
 3) i don't really care what level, i just don't understand why you guys can't be happy with my design decisions as i make them.   
 
@@ -156,7 +156,7 @@ the item and i did the code to actually rip your heart out.  then we added other
 
 </div>
 
-<div class="post" data-post-id="38961" data-author="Teron" data-date="2018-08-12T08:03:54+00:00">
+<div class="post" data-post-id="38961" data-author="Teron" data-date="2018-08-12T08:03:54+00:00" data-subject="Re: applying remort tokens to 8/1 chars">
 
 Hi, Breeze.
 

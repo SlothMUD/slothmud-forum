@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13442" data-author="Leaf" data-date="2006-07-11T18:10:47+00:00">
+<div class="post" data-post-id="13442" data-author="Leaf" data-date="2006-07-11T18:10:47+00:00" data-subject="Blind or what???">
 
 I swear there use to be a link that shows each class spell and skill located
 

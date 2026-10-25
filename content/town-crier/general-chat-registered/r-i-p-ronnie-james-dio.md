@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="31156" data-author="blackmore" data-date="2010-05-17T00:54:05+00:00">
+<div class="post" data-post-id="31156" data-author="blackmore" data-date="2010-05-17T00:54:05+00:00" data-subject="R.I.P. Ronnie James Dio">
 
 One day in the year of the fox
 
@@ -30,7 +30,7 @@ To the temple of the king.
 
 </div>
 
-<div class="post" data-post-id="31158" data-author="*Neptune*" data-date="2010-05-18T04:30:19+00:00">
+<div class="post" data-post-id="31158" data-author="*Neptune*" data-date="2010-05-18T04:30:19+00:00" data-subject="">
 
 Here, here!
 

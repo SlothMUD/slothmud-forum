@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="35810" data-author="Teron" data-date="2015-04-14T13:03:48+00:00">
+<div class="post" data-post-id="35810" data-author="Teron" data-date="2015-04-14T13:03:48+00:00" data-subject="Change Class Order Easily">
 
 Greetings.
 
@@ -78,7 +78,7 @@ This solves several issues:
 
 </div>
 
-<div class="post" data-post-id="35819" data-author="cyprimus" data-date="2015-04-16T16:31:39+00:00">
+<div class="post" data-post-id="35819" data-author="cyprimus" data-date="2015-04-16T16:31:39+00:00" data-subject="Re: Change Class Order Easily">
 
 I had suggested a exp bank ..about the time i was same levels as taron.. still like to see it.  
 
@@ -86,7 +86,7 @@ as for classo changes... well.. i just made alts... so no longer need.. if i had
 
 </div>
 
-<div class="post" data-post-id="35828" data-author="*juggleblood*" data-date="2015-04-17T19:08:21+00:00">
+<div class="post" data-post-id="35828" data-author="*juggleblood*" data-date="2015-04-17T19:08:21+00:00" data-subject="Re: Change Class Order Easily">
 
 > **Teron wrote:**
 > - allow players of any levels to complete the avatar token quest
@@ -122,7 +122,7 @@ As for making it easier to change class, there would not be a lot of support for
 
 </div>
 
-<div class="post" data-post-id="35839" data-author="Teron" data-date="2015-04-20T11:53:15+00:00">
+<div class="post" data-post-id="35839" data-author="Teron" data-date="2015-04-20T11:53:15+00:00" data-subject="Re: Change Class Order Easily">
 
 1. I agree that 9x40 should have the most benefit.
 
@@ -200,7 +200,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="35842" data-author="*juggleblood*" data-date="2015-04-21T09:59:53+00:00">
+<div class="post" data-post-id="35842" data-author="*juggleblood*" data-date="2015-04-21T09:59:53+00:00" data-subject="Re: Change Class Order Easily">
 
 > **Teron wrote:**
 > 4. If I want to change a prime at 7x40, are you saying that I should bring an alt to 7x40 without an exp bonus? Are you serious?
@@ -211,7 +211,7 @@ I don't accept your assumption that the game is not fun at lower levels.
 
 </div>
 
-<div class="post" data-post-id="35844" data-author="Teron" data-date="2015-04-21T15:16:12+00:00">
+<div class="post" data-post-id="35844" data-author="Teron" data-date="2015-04-21T15:16:12+00:00" data-subject="Re: Change Class Order Easily">
 
 I play warriors and I'm more of a group player. Grinding solo just bores me, especially, at newbie levels.
 
@@ -223,7 +223,7 @@ Moreover, a 2x40 wa, th or mo can't expect prime roles in their groups, only sin
 
 </div>
 
-<div class="post" data-post-id="35847" data-author="*juggleblood*" data-date="2015-04-22T06:51:11+00:00">
+<div class="post" data-post-id="35847" data-author="*juggleblood*" data-date="2015-04-22T06:51:11+00:00" data-subject="Re: Change Class Order Easily">
 
 Then don't make another warrior.
 
@@ -235,7 +235,7 @@ When I made my bard I was just messing around testplaying some low level areas. 
 
 </div>
 
-<div class="post" data-post-id="35865" data-author="Teron" data-date="2015-04-26T20:26:02+00:00">
+<div class="post" data-post-id="35865" data-author="Teron" data-date="2015-04-26T20:26:02+00:00" data-subject="Re: Change Class Order Easily">
 
 Being useful in groups and enjoying playing a char are different things.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="12617" data-author="jezer" data-date="2006-05-22T05:19:40+00:00">
+<div class="post" data-post-id="12617" data-author="jezer" data-date="2006-05-22T05:19:40+00:00" data-subject="Lyme Blues">
 
 Ecko has just reached Lyme, and well to be honest, I've probably spent less than an hour playing on Lyme. (Between Jezer and Ecko)
 
@@ -28,7 +28,7 @@ Wraithform/Sanct/3 Wraiths/Deathgrip/Wraithtouch/Gods of War
 
 </div>
 
-<div class="post" data-post-id="12618" data-author="Ditheca" data-date="2006-05-22T05:30:39+00:00">
+<div class="post" data-post-id="12618" data-author="Ditheca" data-date="2006-05-22T05:30:39+00:00" data-subject="">
 
 You should be able to get 100 mil an hour once you learn your way around ecko.
 
@@ -44,7 +44,7 @@ And yes, prepare to kill or be killed :)  Again, I suggest the kill option *wave
 
 </div>
 
-<div class="post" data-post-id="12621" data-author="12345" data-date="2006-05-22T11:26:34+00:00">
+<div class="post" data-post-id="12621" data-author="12345" data-date="2006-05-22T11:26:34+00:00" data-subject="">
 
 Lyme is basically divided up into 3 types of areas.
 
@@ -64,7 +64,7 @@ Once you've got that much figured out, you can start working on some other areas
 
 </div>
 
-<div class="post" data-post-id="12626" data-author="jezer" data-date="2006-05-22T14:27:33+00:00">
+<div class="post" data-post-id="12626" data-author="jezer" data-date="2006-05-22T14:27:33+00:00" data-subject="">
 
 Can I one man chop with a spec weapon?
 
@@ -76,7 +76,7 @@ Can reasonable xp be done this way?
 
 </div>
 
-<div class="post" data-post-id="12627" data-author="12345" data-date="2006-05-22T14:58:30+00:00">
+<div class="post" data-post-id="12627" data-author="12345" data-date="2006-05-22T14:58:30+00:00" data-subject="">
 
 Simple answer? No.
 
@@ -86,7 +86,7 @@ So... I'll let you decide.  If you do it, let me know, I want to invite all my f
 
 </div>
 
-<div class="post" data-post-id="12634" data-author="Weasel" data-date="2006-05-22T19:41:38+00:00">
+<div class="post" data-post-id="12634" data-author="Weasel" data-date="2006-05-22T19:41:38+00:00" data-subject="">
 
 Ditheca - you said 100mil / hour.. solo?  :shock:   
 
@@ -94,13 +94,13 @@ I'd be lucky to get that in a group let alone solo... at least for my classo.
 
 </div>
 
-<div class="post" data-post-id="12637" data-author="Guinex" data-date="2006-05-22T20:09:26+00:00">
+<div class="post" data-post-id="12637" data-author="Guinex" data-date="2006-05-22T20:09:26+00:00" data-subject="">
 
 I can do 200-300mil an hour afking......*smoke*
 
 </div>
 
-<div class="post" data-post-id="12638" data-author="12345" data-date="2006-05-22T20:35:05+00:00">
+<div class="post" data-post-id="12638" data-author="12345" data-date="2006-05-22T20:35:05+00:00" data-subject="">
 
 Ditheca - you said 100mil / hour.. solo?  :shock:   
 
@@ -112,7 +112,7 @@ If I remember correctly Weasel, you've a wa/ma/cl/th, you should be able to team
 
 </div>
 
-<div class="post" data-post-id="12639" data-author="blackmore" data-date="2006-05-22T20:40:02+00:00">
+<div class="post" data-post-id="12639" data-author="blackmore" data-date="2006-05-22T20:40:02+00:00" data-subject="">
 
 Can I one man chop with a spec weapon?[/quote:22axmca1]
 
@@ -132,7 +132,7 @@ No, not really.  There's a few SBs and items that can be obtained pretty easily 
 
 </div>
 
-<div class="post" data-post-id="12644" data-author="Roadrunr" data-date="2006-05-23T00:53:40+00:00">
+<div class="post" data-post-id="12644" data-author="Roadrunr" data-date="2006-05-23T00:53:40+00:00" data-subject="">
 
 At +18 grip, oly paupers are splork (hit hard through -8 if you miss though),
 
@@ -146,7 +146,7 @@ We wont even discuss the fact that I can solo more xp/hr with X than with Ana.  
 
 </div>
 
-<div class="post" data-post-id="12645" data-author="jezer" data-date="2006-05-23T02:30:31+00:00">
+<div class="post" data-post-id="12645" data-author="jezer" data-date="2006-05-23T02:30:31+00:00" data-subject="">
 
 I've taken lower oly, pronghorns and lyme elites/foot soliders.
 

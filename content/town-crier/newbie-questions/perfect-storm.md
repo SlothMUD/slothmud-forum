@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36939" data-author="Yasik" data-date="2016-05-21T06:46:25+00:00">
+<div class="post" data-post-id="36939" data-author="Yasik" data-date="2016-05-21T06:46:25+00:00" data-subject="Perfect storm">
 
 2 days ago there was a power outage in my home.
 

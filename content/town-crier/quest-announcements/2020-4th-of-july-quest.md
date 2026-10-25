@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39512" data-author="*Idjit*" data-date="2020-07-02T03:28:17+00:00">
+<div class="post" data-post-id="39512" data-author="*Idjit*" data-date="2020-07-02T03:28:17+00:00" data-subject="2020 4th of July Quest">
 
 Good evening ladies and gents,
 

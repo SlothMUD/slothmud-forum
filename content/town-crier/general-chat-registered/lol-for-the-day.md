@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="27392" data-author="Medios" data-date="2008-12-09T20:31:53+00:00">
+<div class="post" data-post-id="27392" data-author="Medios" data-date="2008-12-09T20:31:53+00:00" data-subject="Lol for the day">
 
 [<LINK_TEXT text="http://cbs2chicago.com/local/rod.blagoj ... 83170.html">http://cbs2chicago.com/local/rod.blagojevich.charged.2.883170.html</LINK_TEXT>](http://cbs2chicago.com/local/rod.blagojevich.charged.2.883170.html)
 
@@ -34,7 +34,7 @@ Now explain this away.  Is this G W Bush's fault also?  Seriously all politician
 
 </div>
 
-<div class="post" data-post-id="27394" data-author="Weasel" data-date="2008-12-09T21:35:27+00:00">
+<div class="post" data-post-id="27394" data-author="Weasel" data-date="2008-12-09T21:35:27+00:00" data-subject="">
 
 Yup, and the Chicago ones are the worst of the worst. Worth note: Blagojevich is the 4th of the last 7 elected Illinois governors to be indicted since 1960. Obama's political home turf. Not so surprising a junior senator from Chicago with zero accomplishments and almost no experience makes it to president now is it..
 
@@ -42,7 +42,7 @@ Oh, and notice the MSM have immediately jumped on to say that Obama knew nothing
 
 </div>
 
-<div class="post" data-post-id="27400" data-author="Mosaix" data-date="2008-12-09T23:46:33+00:00">
+<div class="post" data-post-id="27400" data-author="Mosaix" data-date="2008-12-09T23:46:33+00:00" data-subject="">
 
 Funny I dont remember any comments on sloth when Republican Governor Ryan from Illinoi was brought up on charges and sent to jail 6 years ago.....
 
@@ -54,13 +54,13 @@ Lol for sure
 
 </div>
 
-<div class="post" data-post-id="27401" data-author="Weasel" data-date="2008-12-10T00:00:31+00:00">
+<div class="post" data-post-id="27401" data-author="Weasel" data-date="2008-12-10T00:00:31+00:00" data-subject="">
 
 LOL.. hey, don't feel bad, I don't remember what was posted here 6 years ago either!
 
 </div>
 
-<div class="post" data-post-id="27402" data-author="Tap" data-date="2008-12-10T00:03:17+00:00">
+<div class="post" data-post-id="27402" data-author="Tap" data-date="2008-12-10T00:03:17+00:00" data-subject="">
 
 [quote:3vq8frqo]'Nanny' state? Drescher eyes Clinton's Senate seat[/quote:3vq8frqo]
 
@@ -68,7 +68,7 @@ Oh, the Lol is that it's usually the other way around 8)
 
 </div>
 
-<div class="post" data-post-id="27403" data-author="Alberich" data-date="2008-12-10T02:33:36+00:00">
+<div class="post" data-post-id="27403" data-author="Alberich" data-date="2008-12-10T02:33:36+00:00" data-subject="">
 
 Funny I dont remember any comments on sloth when Republican Governor Ryan from Illinoi was brought up on charges and sent to jail 6 years ago.....
 
@@ -78,7 +78,7 @@ oh those of us who live here are quite happy to stipulate they are all corrupt -
 
 </div>
 
-<div class="post" data-post-id="27404" data-author="*juggleblood*" data-date="2008-12-10T02:50:44+00:00">
+<div class="post" data-post-id="27404" data-author="*juggleblood*" data-date="2008-12-10T02:50:44+00:00" data-subject="">
 
 It's news that Chicago/IL politics are corrupt? Shouldn't be.
 
@@ -86,7 +86,7 @@ This guy is pretty funny to me, so bold and flagrant. Fun stuff.
 
 </div>
 
-<div class="post" data-post-id="27409" data-author="Medios" data-date="2008-12-10T21:09:13+00:00">
+<div class="post" data-post-id="27409" data-author="Medios" data-date="2008-12-10T21:09:13+00:00" data-subject="">
 
 Funny I dont remember any comments on sloth when Republican Governor Ryan from Illinoi was brought up on charges and sent to jail 6 years ago.....
 
@@ -102,7 +102,7 @@ Let's talk about Larry Craig vs Barney Frank.  Craig gets caught in some homosex
 
 </div>
 
-<div class="post" data-post-id="27410" data-author="*juggleblood*" data-date="2008-12-10T22:16:05+00:00">
+<div class="post" data-post-id="27410" data-author="*juggleblood*" data-date="2008-12-10T22:16:05+00:00" data-subject="">
 
 Believe me Republicans are held to account, because the people in the party will kick you in the balls for any discretion.  However in the Democrat party people tend to look the other way when their guy gets into some trouble.   Don't get your feelings hurt if this spreads to Obama.  Better gag "I told you so".[/quote:135qhjdt]
 
@@ -116,25 +116,25 @@ p.s. I hope this doesn't hurt your feelings. Better gag 'stfu retard'.
 
 </div>
 
-<div class="post" data-post-id="27411" data-author="Medios" data-date="2008-12-10T23:28:55+00:00">
+<div class="post" data-post-id="27411" data-author="Medios" data-date="2008-12-10T23:28:55+00:00" data-subject="">
 
 What is illegal and what you perceive or wish to be illegal are two different matters.  If these people you mentioned have done so much wrong then you would expect the Democrat controlled Congress to do something...  The president did not force Hillary Clinton to vote for the Iraqi Occupation.  G W Bush does not control nearly as much as you guys would want everyone to believe.  I never exalted Bush, I have been critical of him the whole time.  He is a moderate at best and has no resemblance to a conservative.  Why do your feelings get hurt when one of your guys goes down?  I am much less partisan than you have shown yourself to be.  I live in Illinois.  Blagojevich and Obama are both from Illinois.  Pass the butter.
 
 </div>
 
-<div class="post" data-post-id="27412" data-author="Yasik2" data-date="2008-12-11T09:18:05+00:00">
+<div class="post" data-post-id="27412" data-author="Yasik2" data-date="2008-12-11T09:18:05+00:00" data-subject="">
 
 this thread is troll-bait
 
 </div>
 
-<div class="post" data-post-id="27413" data-author="Jag" data-date="2008-12-11T12:32:22+00:00">
+<div class="post" data-post-id="27413" data-author="Jag" data-date="2008-12-11T12:32:22+00:00" data-subject="">
 
 OMG, I agree with Yasik.   :shock:
 
 </div>
 
-<div class="post" data-post-id="27414" data-author="Tap" data-date="2008-12-11T18:00:14+00:00">
+<div class="post" data-post-id="27414" data-author="Tap" data-date="2008-12-11T18:00:14+00:00" data-subject="">
 
 [quote:1h3e6hn2]Bush should be forgiven, on the grounds he is mentally retarded.[/quote:1h3e6hn2]
 
@@ -146,7 +146,7 @@ Oh Yeah, President-Elect Osama hates America and wants to kill as many Americans
 
 </div>
 
-<div class="post" data-post-id="27421" data-author="jezer" data-date="2008-12-12T02:07:44+00:00">
+<div class="post" data-post-id="27421" data-author="jezer" data-date="2008-12-12T02:07:44+00:00" data-subject="">
 
 For quite some months Iâ€™ve been hearing the stories about declines in the automotive market. (Job cuts and plant closures) They were happening before the current economic crisis. It scares me when a government is going to try and salvage something that was collapsing anyways... and has been slowing down for years... 
 
@@ -160,7 +160,7 @@ I think the balls rolling, and itâ€™s picking up momentum... and well... th
 
 </div>
 
-<div class="post" data-post-id="27422" data-author="*juggleblood*" data-date="2008-12-12T02:34:07+00:00">
+<div class="post" data-post-id="27422" data-author="*juggleblood*" data-date="2008-12-12T02:34:07+00:00" data-subject="">
 
 Yep and still managed to become president. what is it that you do again? Making sure there isn't too much salt on the fries?
 
@@ -174,13 +174,13 @@ Edit: nice tag line btw, any bites yet?
 
 </div>
 
-<div class="post" data-post-id="27438" data-author="Medios" data-date="2008-12-12T23:17:04+00:00">
+<div class="post" data-post-id="27438" data-author="Medios" data-date="2008-12-12T23:17:04+00:00" data-subject="">
 
 I just can't believe that most of you guys won't admit that almost all politicians are corrupted in some form.  I know you think I "tow the line" for the Republican party, but honestly I am one of the only people who criticizes all parties involved.  BTW I have never voted for John McCain...
 
 </div>
 
-<div class="post" data-post-id="27439" data-author="*juggleblood*" data-date="2008-12-13T03:12:03+00:00">
+<div class="post" data-post-id="27439" data-author="*juggleblood*" data-date="2008-12-13T03:12:03+00:00" data-subject="">
 
 Call me naive, but I really think Obama is the real deal, out for the greater good that is. I also think he's intelligent and wise. 
 
@@ -190,7 +190,7 @@ Did you vote for Bush btw? Just curious.
 
 </div>
 
-<div class="post" data-post-id="27440" data-author="Mosaix" data-date="2008-12-13T03:44:07+00:00">
+<div class="post" data-post-id="27440" data-author="Mosaix" data-date="2008-12-13T03:44:07+00:00" data-subject="">
 
 Both parties have issues, no doubt about that.  I registered Independent years ago.  
 
@@ -200,7 +200,7 @@ Obama looks to do some good things,  if it turns out not to be that, the country
 
 </div>
 
-<div class="post" data-post-id="27461" data-author="Medios" data-date="2008-12-15T15:48:09+00:00">
+<div class="post" data-post-id="27461" data-author="Medios" data-date="2008-12-15T15:48:09+00:00" data-subject="">
 
 I will admit that I voted for G W.  I was seemingly convinced that Republicans stood for smaller government and less taxes.  Well GW came through on the taxes and I got a nice rebate check that year.  We made about 50k and I think we got $600 tax refund.  Now I am sure that people that make more money got an even bigger refund but that is the thing.  They paid in more than me and when your based on a % that is how it works.  
 
@@ -234,7 +234,7 @@ Believe me I am not happy with either party.  Regardless we still head into a on
 
 </div>
 
-<div class="post" data-post-id="27471" data-author="Tap" data-date="2008-12-16T00:03:43+00:00">
+<div class="post" data-post-id="27471" data-author="Tap" data-date="2008-12-16T00:03:43+00:00" data-subject="">
 
 Word
 

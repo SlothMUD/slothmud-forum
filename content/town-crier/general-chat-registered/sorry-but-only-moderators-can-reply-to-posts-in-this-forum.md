@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="21245" data-author="Ah_Puch" data-date="2007-11-09T09:41:46+00:00">
+<div class="post" data-post-id="21245" data-author="Ah_Puch" data-date="2007-11-09T09:41:46+00:00" data-subject="Sorry, but only moderators can reply to posts in this forum.">
 
 I blame Akasha.
 
@@ -22,7 +22,7 @@ reason I ask is because some might wish to "solo" MOB's during raids for honor o
 
 </div>
 
-<div class="post" data-post-id="21246" data-author="Akasha" data-date="2007-11-09T10:23:14+00:00">
+<div class="post" data-post-id="21246" data-author="Akasha" data-date="2007-11-09T10:23:14+00:00" data-subject="">
 
 This was on my list to fix tonight, BUT
 
@@ -36,13 +36,13 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="21248" data-author="Weasel" data-date="2007-11-09T16:00:34+00:00">
+<div class="post" data-post-id="21248" data-author="Weasel" data-date="2007-11-09T16:00:34+00:00" data-subject="">
 
 Thanks for all the work Akasha - the honor system is an awesome (and huge) new feature for sloth.
 
 </div>
 
-<div class="post" data-post-id="21252" data-author="Hotara" data-date="2007-11-09T17:57:32+00:00">
+<div class="post" data-post-id="21252" data-author="Hotara" data-date="2007-11-09T17:57:32+00:00" data-subject="">
 
 Repop rates on Bolg has been whacky. Sometimes, He doesn't repop at all.
 
@@ -56,13 +56,13 @@ Cheers,
 
 </div>
 
-<div class="post" data-post-id="21255" data-author="Ah_Puch" data-date="2007-11-09T22:15:49+00:00">
+<div class="post" data-post-id="21255" data-author="Ah_Puch" data-date="2007-11-09T22:15:49+00:00" data-subject="">
 
 Speaking of which, thre might be a helpfile on the subject somewhere but are honor quests allowed to be discussed on public channels or do they fall under the same guidelines of drachma quests being discussed?
 
 </div>
 
-<div class="post" data-post-id="21273" data-author="Akasha" data-date="2007-11-11T20:09:15+00:00">
+<div class="post" data-post-id="21273" data-author="Akasha" data-date="2007-11-11T20:09:15+00:00" data-subject="">
 
 Depends, with this system there are certain repeatable quests that requrie certain random items that load sometimes around the world.  These small quests I dont really care about, if someone finds a random item somewhere and asks over gossip what it is, i couldnt care less if you tell.
 
@@ -72,7 +72,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="23476" data-author="Avatar" data-date="2008-03-27T22:11:11+00:00">
+<div class="post" data-post-id="23476" data-author="Avatar" data-date="2008-03-27T22:11:11+00:00" data-subject="Shift bug">
 
 I seem to have fallen victim to a shift bug.  On Bolg, I got 1 honor out of 6 total.
 

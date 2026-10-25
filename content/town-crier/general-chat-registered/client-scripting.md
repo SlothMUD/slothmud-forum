@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="15067" data-author="Avatar" data-date="2006-11-08T01:05:18+00:00">
+<div class="post" data-post-id="15067" data-author="Avatar" data-date="2006-11-08T01:05:18+00:00" data-subject="Client Scripting">
 
 I'm not surprised that the previous thread was closed, it was getting pretty inflammatory.  I would like to hear some more feedback about the client scripting.
 
@@ -32,7 +32,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="15079" data-author="Elsie" data-date="2006-11-08T09:41:36+00:00">
+<div class="post" data-post-id="15079" data-author="Elsie" data-date="2006-11-08T09:41:36+00:00" data-subject="">
 
 I love client scripting, I remember the days of pre-client, telnet only mudding and not fondly, pkduals on Muds I've used in the past have come down to who can read spam and type the fastest on many occasions, rather than luck, knowledge of and skill at the game.
 
@@ -42,7 +42,7 @@ I did write a long bit from here on about bad scripts I personally hate, suggest
 
 </div>
 
-<div class="post" data-post-id="15080" data-author="*juggleblood*" data-date="2006-11-08T10:03:34+00:00">
+<div class="post" data-post-id="15080" data-author="*juggleblood*" data-date="2006-11-08T10:03:34+00:00" data-subject="">
 
 You can hardly blame people for botting a little if you're in a really boring xp group and your only job is to assist.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32380" data-author="*Isabo*" data-date="2011-01-26T03:50:59+00:00">
+<div class="post" data-post-id="32380" data-author="*Isabo*" data-date="2011-01-26T03:50:59+00:00" data-subject="Fix in masterful succor">
 
 Greeting mortals.
 

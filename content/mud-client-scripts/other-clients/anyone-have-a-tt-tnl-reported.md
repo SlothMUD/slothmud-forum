@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3724" data-author="Strago" data-date="2005-01-11T13:47:46+00:00">
+<div class="post" data-post-id="3724" data-author="Strago" data-date="2005-01-11T13:47:46+00:00" data-subject="Anyone Have a tt++ TNL Reported">
 
 I have found the documentation on tintin++ to be a little lacking, as compared to say ZMud. I might just be missing something.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="28926" data-author="*juggleblood*" data-date="2009-04-15T22:12:21+00:00">
+<div class="post" data-post-id="28926" data-author="*juggleblood*" data-date="2009-04-15T22:12:21+00:00" data-subject="Island gold">
 
 I've heard players moaning about the reduced gold on native shop keepers and ghoul citiguards.
 

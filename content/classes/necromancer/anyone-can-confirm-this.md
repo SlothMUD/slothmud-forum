@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="8592" data-author="Taki" data-date="2005-09-10T09:51:31+00:00">
+<div class="post" data-post-id="8592" data-author="Taki" data-date="2005-09-10T09:51:31+00:00" data-subject="anyone can confirm this?">
 
 I had my (small) juju quaff an orange potion and it seemed that  it worked (+str by more frequent massacres).
 
@@ -20,7 +20,7 @@ Thanks for adding info...
 
 </div>
 
-<div class="post" data-post-id="8594" data-author="Leaf" data-date="2005-09-10T12:40:17+00:00">
+<div class="post" data-post-id="8594" data-author="Leaf" data-date="2005-09-10T12:40:17+00:00" data-subject="">
 
 I know JuJu use "Unholy Strenght"... So I don't think the potion worked.
 

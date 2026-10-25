@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="2027" data-author="Weasel" data-date="2004-09-23T04:06:44+00:00">
+<div class="post" data-post-id="2027" data-author="Weasel" data-date="2004-09-23T04:06:44+00:00" data-subject="Looking for various cps">
 
 Long shot, but just looking for cps to complete some forges... offering coin, price negotiable.
 
@@ -46,19 +46,19 @@ Cheers.
 
 </div>
 
-<div class="post" data-post-id="2028" data-author="Weasel" data-date="2004-09-23T04:14:05+00:00">
+<div class="post" data-post-id="2028" data-author="Weasel" data-date="2004-09-23T04:14:05+00:00" data-subject="">
 
 Oh, and pretty much ANY Tanzanite or Iolite cps would be kewl too if you have any spare.. the only cps I have for either of these is a sharp set of horns (iolite cps) and that is it.   :roll:
 
 </div>
 
-<div class="post" data-post-id="2039" data-author="Dragoth" data-date="2004-09-24T07:44:46+00:00">
+<div class="post" data-post-id="2039" data-author="Dragoth" data-date="2004-09-24T07:44:46+00:00" data-subject="">
 
 just sell me your horns and be done with it :)
 
 </div>
 
-<div class="post" data-post-id="2048" data-author="Weasel" data-date="2004-09-25T16:45:50+00:00">
+<div class="post" data-post-id="2048" data-author="Weasel" data-date="2004-09-25T16:45:50+00:00" data-subject="">
 
 Got the fiery red gloves (thanks Krok :)) and forged the diamond studded gaunlets ..still looking for any and all of the other cps.
 

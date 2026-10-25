@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31586" data-author="*Isabo*" data-date="2010-08-25T01:31:17+00:00">
+<div class="post" data-post-id="31586" data-author="*Isabo*" data-date="2010-08-25T01:31:17+00:00" data-subject="Bugfix identify Runes">
 
 Good day, mortals.
 

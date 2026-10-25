@@ -10,7 +10,7 @@ locked: false
 post_count: 69
 ---
 
-<div class="post" data-post-id="17960" data-author="Akasha" data-date="2007-04-16T01:48:37+00:00">
+<div class="post" data-post-id="17960" data-author="Akasha" data-date="2007-04-16T01:48:37+00:00" data-subject="Pthieves, Builders Port, and Immortals -- The Bottom Line">
 
 In reply to the debate taking place over pthieving immts, allow me to clear this up for everyone.  Immortals on the active game port are held to rules preventing them from participating in suspect or unacceptable behavior due to the fact that they have access to live character information and live area information.  Builders on the builder's port are not held to these same strict guidelines because the area samples provided on the builder's port are old files with little up-to-date information and NO active mortal players to spy on.  Very few, if any, builders become active immortals on game site.  Those that do are held to the same principles as any other immortal.  One of our guidelines in determining whether anyone (builder or active mortal) is allowed to become an immortal on the game site is their behavior throughout their gaming career.  As such, a known past pthief has very little chance of becoming an immortal, and a current, active pthief has no chance of becoming an immortal on game site. 
 
@@ -24,7 +24,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="17963" data-author="Poolp" data-date="2007-04-16T04:40:25+00:00">
+<div class="post" data-post-id="17963" data-author="Poolp" data-date="2007-04-16T04:40:25+00:00" data-subject="">
 
 score
 
@@ -58,7 +58,7 @@ May I know what the MUD's current policy is on that? I really do want to rejoin 
 
 </div>
 
-<div class="post" data-post-id="17964" data-author="Zam" data-date="2007-04-16T05:37:26+00:00">
+<div class="post" data-post-id="17964" data-author="Zam" data-date="2007-04-16T05:37:26+00:00" data-subject="Re: Pthieves, Builders Port, and Immortals -- The Bottom Lin">
 
 As such, a known past pthief has very little chance of becoming an immortal, and a current, active pthief has no chance of becoming an immortal on game site.
 
@@ -68,13 +68,13 @@ mwahahahahahahahaha
 
 </div>
 
-<div class="post" data-post-id="17965" data-author="Yinao" data-date="2007-04-16T06:02:50+00:00">
+<div class="post" data-post-id="17965" data-author="Yinao" data-date="2007-04-16T06:02:50+00:00" data-subject="">
 
 *smirk* :roll: And I have heard you have tried to pthief with that char......So I will ask this question, is that why you never leave VK inn? For me its worth risking and alt to see if you have :)
 
 </div>
 
-<div class="post" data-post-id="17967" data-author="Poolp" data-date="2007-04-16T06:28:47+00:00">
+<div class="post" data-post-id="17967" data-author="Poolp" data-date="2007-04-16T06:28:47+00:00" data-subject="">
 
 *smirk* :roll: And I have heard you have tried to pthief with that char......So I will ask this question, is that why you never leave VK inn? For me its worth risking and alt to see if you have :)[/quote:1e4qsqe1]
 
@@ -84,7 +84,7 @@ Just general info for everyone =)
 
 </div>
 
-<div class="post" data-post-id="17968" data-author="*juggleblood*" data-date="2007-04-16T06:29:29+00:00">
+<div class="post" data-post-id="17968" data-author="*juggleblood*" data-date="2007-04-16T06:29:29+00:00" data-subject="">
 
 score
 
@@ -106,13 +106,13 @@ If you want to play, start a char without thief or bard in classo and don't both
 
 </div>
 
-<div class="post" data-post-id="17969" data-author="Yinao" data-date="2007-04-16T06:31:33+00:00">
+<div class="post" data-post-id="17969" data-author="Yinao" data-date="2007-04-16T06:31:33+00:00" data-subject="Pulp">
 
 Nods, I know your pulp there is a difference tho.... Pulp has no steal class, however, wts seems to :)
 
 </div>
 
-<div class="post" data-post-id="17971" data-author="Poolp" data-date="2007-04-16T06:46:11+00:00">
+<div class="post" data-post-id="17971" data-author="Poolp" data-date="2007-04-16T06:46:11+00:00" data-subject="">
 
 Don't be ridiculous. This possibly temporary ban on pthieving is not going to be an opportunity for you to put some levels on your pthief chars in case the ban is later lifted.
 
@@ -128,7 +128,7 @@ I don't need more pthief chars anyway, I've got a 3x40 and 2x40 to pthief with i
 
 </div>
 
-<div class="post" data-post-id="17972" data-author="Yinao" data-date="2007-04-16T07:09:05+00:00">
+<div class="post" data-post-id="17972" data-author="Yinao" data-date="2007-04-16T07:09:05+00:00" data-subject="">
 
 Poop wrote:
 
@@ -138,7 +138,7 @@ Sniff your not gunna let a poor little cleric like me run you off after you ran 
 
 </div>
 
-<div class="post" data-post-id="17973" data-author="Poolp" data-date="2007-04-16T07:12:25+00:00">
+<div class="post" data-post-id="17973" data-author="Poolp" data-date="2007-04-16T07:12:25+00:00" data-subject="">
 
 Sniff your not gunna let a poor little cleric like me run you off after you ran others off would you? :evil: I mean I would hate to see you leave and all after making others do the same.[/quote:3ktlq55m]
 
@@ -146,7 +146,7 @@ Nah, I'm not worried. I spoke to Akasha about it and I'm going to continue playi
 
 </div>
 
-<div class="post" data-post-id="17976" data-author="Yasik" data-date="2007-04-16T09:21:32+00:00">
+<div class="post" data-post-id="17976" data-author="Yasik" data-date="2007-04-16T09:21:32+00:00" data-subject="">
 
 Nah, I'm not worried. I spoke to Akasha about it and I'm going to continue playing Pulp. Let's group![/quote:2lo9vqci]
 
@@ -154,7 +154,7 @@ Go group with your mom. You've accepted your path of pthief (your own words from
 
 </div>
 
-<div class="post" data-post-id="17977" data-author="Poolp" data-date="2007-04-16T09:28:05+00:00">
+<div class="post" data-post-id="17977" data-author="Poolp" data-date="2007-04-16T09:28:05+00:00" data-subject="">
 
 Go group with your mom. You've accepted your path of pthief (your own words from another topic) so live with it and shut up.[/quote:2h76buel]
 
@@ -166,7 +166,7 @@ I don't know what exactly I've done for you to say 'shut up' because that's prec
 
 </div>
 
-<div class="post" data-post-id="17979" data-author="Yasik" data-date="2007-04-16T09:38:52+00:00">
+<div class="post" data-post-id="17979" data-author="Yasik" data-date="2007-04-16T09:38:52+00:00" data-subject="">
 
 Er, right. I would if my mom played here.
 
@@ -190,7 +190,7 @@ You lose. :roll:
 
 </div>
 
-<div class="post" data-post-id="17980" data-author="Malorne" data-date="2007-04-16T09:41:49+00:00">
+<div class="post" data-post-id="17980" data-author="Malorne" data-date="2007-04-16T09:41:49+00:00" data-subject="">
 
 Go group with your mom. You've accepted your path of pthief (your own words from another topic) so live with it and shut up.[/quote:3rsqqvs0]
 
@@ -204,7 +204,7 @@ Then shouldn't part of your plan be to shut up and not tell us so we won't start
 
 </div>
 
-<div class="post" data-post-id="17981" data-author="Yasik" data-date="2007-04-16T09:45:35+00:00">
+<div class="post" data-post-id="17981" data-author="Yasik" data-date="2007-04-16T09:45:35+00:00" data-subject="">
 
 Then shouldn't part of your plan be to shut up and not tell us so we won't start suspecting each lowbie that comes around now? Sheesh, now leaders are gonna have to think twice about helping newbs out. Good work.[/quote:263x0vns]
 
@@ -212,7 +212,7 @@ I just said that aloud, its already there. What else did you expect after that '
 
 </div>
 
-<div class="post" data-post-id="17982" data-author="Poolp" data-date="2007-04-16T09:49:08+00:00">
+<div class="post" data-post-id="17982" data-author="Poolp" data-date="2007-04-16T09:49:08+00:00" data-subject="">
 
 I'm not grouping with strangers, especially newly-created or low-levels until them prove to be alts of those i know personally.
 
@@ -238,7 +238,7 @@ I hope that answers your question as well Malorne, I quite frankly don't care.
 
 </div>
 
-<div class="post" data-post-id="17983" data-author="Yasik" data-date="2007-04-16T10:02:36+00:00">
+<div class="post" data-post-id="17983" data-author="Yasik" data-date="2007-04-16T10:02:36+00:00" data-subject="">
 
 The only thing lost here is your trust in people in this MUD, thanks to pthieves.[/quote:2spt3f0q]
 
@@ -248,7 +248,7 @@ What esle do you expect? Blindly thusting everyone while you easily can make a n
 
 </div>
 
-<div class="post" data-post-id="17984" data-author="Gimlet" data-date="2007-04-16T11:00:11+00:00">
+<div class="post" data-post-id="17984" data-author="Gimlet" data-date="2007-04-16T11:00:11+00:00" data-subject="">
 
 Here's my point of view, having been on both sides of the law on sloth for much of my time here.
 
@@ -262,7 +262,7 @@ You're not going to let a child-sex-offender into your house just because he's b
 
 </div>
 
-<div class="post" data-post-id="17985" data-author="Weasel" data-date="2007-04-16T11:17:10+00:00">
+<div class="post" data-post-id="17985" data-author="Weasel" data-date="2007-04-16T11:17:10+00:00" data-subject="">
 
 An immort (Akasha) has stated very clearly how things stand right now, so there is little point arguing about it:
 
@@ -274,7 +274,7 @@ From the wording, you pthieves will need to create -new- characters to play stra
 
 </div>
 
-<div class="post" data-post-id="17987" data-author="13" data-date="2007-04-16T12:42:58+00:00">
+<div class="post" data-post-id="17987" data-author="13" data-date="2007-04-16T12:42:58+00:00" data-subject="">
 
 [quote:284okjg3]I'm not grouping with strangers,[/quote:284okjg3]
 
@@ -282,7 +282,7 @@ Rofl, Yasik you barely even play Sloth, let alone group!
 
 </div>
 
-<div class="post" data-post-id="17988" data-author="firebrand" data-date="2007-04-16T14:26:24+00:00">
+<div class="post" data-post-id="17988" data-author="firebrand" data-date="2007-04-16T14:26:24+00:00" data-subject="">
 
 > **"Yasik wrote:**
 > I'm not grouping with strangers, especially newly-created or low-levels until them prove to be alts of those i know personally.
@@ -295,7 +295,7 @@ hey yASSix: i play requiem, a lev 20 bard prime.  are you going to pk him just b
 
 </div>
 
-<div class="post" data-post-id="17990" data-author="Avatar" data-date="2007-04-16T15:30:36+00:00">
+<div class="post" data-post-id="17990" data-author="Avatar" data-date="2007-04-16T15:30:36+00:00" data-subject="">
 
 "In other words, if Bo and Luke are the same player, but Bo is a pthief and Luke isn't... anyone caught pkilling Luke will be subject to the same punishment as any other illegal pkilling, Bo, on the other hand, is still fair game."
 
@@ -303,7 +303,7 @@ My understanding was that known alts of a pthief are fair game.  In other words,
 
 </div>
 
-<div class="post" data-post-id="17991" data-author="Leaf" data-date="2007-04-16T15:40:45+00:00">
+<div class="post" data-post-id="17991" data-author="Leaf" data-date="2007-04-16T15:40:45+00:00" data-subject="">
 
 Chucky I believe with the new change that players can NOT steal from 
 
@@ -313,7 +313,7 @@ apply, so you can not pkill the new alt.
 
 </div>
 
-<div class="post" data-post-id="17993" data-author="Avatar" data-date="2007-04-16T16:06:13+00:00">
+<div class="post" data-post-id="17993" data-author="Avatar" data-date="2007-04-16T16:06:13+00:00" data-subject="pthieving">
 
 That's what I figure too, but I'm hoping I understood the message incorrectly.
 
@@ -327,7 +327,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="17994" data-author="Autolycos" data-date="2007-04-16T17:36:53+00:00">
+<div class="post" data-post-id="17994" data-author="Autolycos" data-date="2007-04-16T17:36:53+00:00" data-subject="">
 
 charles old friend... 
 
@@ -337,7 +337,7 @@ this game only caters fairly to those that are janus.
 
 </div>
 
-<div class="post" data-post-id="17995" data-author="Mosaix" data-date="2007-04-16T19:12:23+00:00">
+<div class="post" data-post-id="17995" data-author="Mosaix" data-date="2007-04-16T19:12:23+00:00" data-subject="">
 
 I think enough is enough.  Its getting to be silly on both sides of this pthief coin.
 
@@ -349,7 +349,7 @@ To expect anything less is foolish and stupid.
 
 </div>
 
-<div class="post" data-post-id="17996" data-author="Poolp" data-date="2007-04-17T01:15:51+00:00">
+<div class="post" data-post-id="17996" data-author="Poolp" data-date="2007-04-17T01:15:51+00:00" data-subject="">
 
 Even if pthieving turns into something of the past permanently, the arguments regarding the treatment of these players will never stop. Some are going to tell others not to help these people, some will feel it's unfair for them. It all goes back to how so many players on this MUD love telling people what they think is right and calling everyone else a dumbass because others don't agree with them.
 
@@ -367,19 +367,19 @@ Thanks for the feedback. Maybe I'll reveal my identity in about a year.
 
 </div>
 
-<div class="post" data-post-id="17997" data-author="12345" data-date="2007-04-17T01:33:43+00:00">
+<div class="post" data-post-id="17997" data-author="12345" data-date="2007-04-17T01:33:43+00:00" data-subject="">
 
 Pthief shocked that the mud doesn't like him! Filmed at 11!
 
 </div>
 
-<div class="post" data-post-id="17998" data-author="alias" data-date="2007-04-17T01:41:31+00:00">
+<div class="post" data-post-id="17998" data-author="alias" data-date="2007-04-17T01:41:31+00:00" data-subject="">
 
 What the hell you can group w/ me.
 
 </div>
 
-<div class="post" data-post-id="17999" data-author="Hades" data-date="2007-04-17T01:49:47+00:00">
+<div class="post" data-post-id="17999" data-author="Hades" data-date="2007-04-17T01:49:47+00:00" data-subject="Oh My God, they killed Gimmy!">
 
 Gimlet pondered...
 
@@ -397,7 +397,7 @@ Right, logging on and checking shops... typing gwho... typing time and gossiping
 
 </div>
 
-<div class="post" data-post-id="18000" data-author="Gimlet" data-date="2007-04-17T04:35:30+00:00">
+<div class="post" data-post-id="18000" data-author="Gimlet" data-date="2007-04-17T04:35:30+00:00" data-subject="">
 
 heh
 
@@ -415,7 +415,7 @@ so now u can't pkill known pthief's alts, u can't web/blind them, neither can u 
 
 </div>
 
-<div class="post" data-post-id="18001" data-author="Weasel" data-date="2007-04-17T05:34:35+00:00">
+<div class="post" data-post-id="18001" data-author="Weasel" data-date="2007-04-17T05:34:35+00:00" data-subject="">
 
 AFAIK, where disciplinary measures are concerned, the immortals will *generally* intervene only when pkilling is involved  - webbing etc is most often left to the players to sort out amongst themselves, unless it gets excessive or it is malicious and unprovoked. Basically it's a judgment call by the immorts as to when (or if) they should get involved, but as a rough guideline, any actions deemed to be significantly disrupting the harmony of the mud are liable for immortal intervention. Correct me if I'm wrong - things may well have changed. 
 
@@ -427,7 +427,7 @@ Just one Weasel's opinion.
 
 </div>
 
-<div class="post" data-post-id="18005" data-author="Thraxas" data-date="2007-04-17T09:57:27+00:00">
+<div class="post" data-post-id="18005" data-author="Thraxas" data-date="2007-04-17T09:57:27+00:00" data-subject="End this thread? please!">
 
 Pthieving is over, congrats those of you (us) who diliked ptheft as part of sloth have won the arguement with the imms (for now at least) lets be good winners, accept the victory and not carry on the fight we already won.
 
@@ -443,7 +443,7 @@ Lets end this thread ... please.
 
 </div>
 
-<div class="post" data-post-id="18006" data-author="Poolp" data-date="2007-04-17T10:12:12+00:00">
+<div class="post" data-post-id="18006" data-author="Poolp" data-date="2007-04-17T10:12:12+00:00" data-subject="Re: End this thread? please!">
 
 @Thraxas:
 
@@ -461,13 +461,13 @@ Thank you.
 
 </div>
 
-<div class="post" data-post-id="18007" data-author="Hades" data-date="2007-04-17T10:20:11+00:00">
+<div class="post" data-post-id="18007" data-author="Hades" data-date="2007-04-17T10:20:11+00:00" data-subject="Unknown Imm spreading lies....">
 
 Was it ...... Mulva :?:
 
 </div>
 
-<div class="post" data-post-id="18011" data-author="*juggleblood*" data-date="2007-04-17T14:18:10+00:00">
+<div class="post" data-post-id="18011" data-author="*juggleblood*" data-date="2007-04-17T14:18:10+00:00" data-subject="">
 
 Poolp is having a mud-life crisis.
 
@@ -475,7 +475,7 @@ Poolp is having a mud-life crisis.
 
 </div>
 
-<div class="post" data-post-id="18012" data-author="Yasik" data-date="2007-04-17T15:41:52+00:00">
+<div class="post" data-post-id="18012" data-author="Yasik" data-date="2007-04-17T15:41:52+00:00" data-subject="">
 
 > **"Yasik wrote:**
 > I'm not grouping with strangers, especially newly-created or low-levels until them prove to be alts of those i know personally.
@@ -490,7 +490,7 @@ Your words fly out faster than you think and read. I didnt say im goin to PK som
 
 </div>
 
-<div class="post" data-post-id="18013" data-author="resouh" data-date="2007-04-17T16:04:28+00:00">
+<div class="post" data-post-id="18013" data-author="resouh" data-date="2007-04-17T16:04:28+00:00" data-subject="">
 
 My two cents:
 
@@ -504,7 +504,7 @@ P.S. will be back on and playing more once I get used to my new college schedule
 
 </div>
 
-<div class="post" data-post-id="18015" data-author="Yinao" data-date="2007-04-17T18:29:01+00:00">
+<div class="post" data-post-id="18015" data-author="Yinao" data-date="2007-04-17T18:29:01+00:00" data-subject="">
 
 Glad to hear your commin back Resouh.....
 
@@ -512,7 +512,7 @@ In referance to Poolp...... Give my decanter back and I will gladly let you in m
 
 </div>
 
-<div class="post" data-post-id="18016" data-author="*juggleblood*" data-date="2007-04-17T19:08:14+00:00">
+<div class="post" data-post-id="18016" data-author="*juggleblood*" data-date="2007-04-17T19:08:14+00:00" data-subject="">
 
 Well, I was one of the first people to jump right on and start harassing pulp as he think he's earned it and I don't really believe he wants to play. I think he's just gonna start pumping out level 8 thieves for a while.
 
@@ -524,13 +524,13 @@ Knock on wood.
 
 </div>
 
-<div class="post" data-post-id="18018" data-author="13" data-date="2007-04-17T19:42:02+00:00">
+<div class="post" data-post-id="18018" data-author="13" data-date="2007-04-17T19:42:02+00:00" data-subject="">
 
 I had to stand up for Al in the same way with Elwood.  In the end I'm glad I did.
 
 </div>
 
-<div class="post" data-post-id="18019" data-author="Guinex" data-date="2007-04-17T19:57:30+00:00">
+<div class="post" data-post-id="18019" data-author="Guinex" data-date="2007-04-17T19:57:30+00:00" data-subject="">
 
 :(   :cry: 
 
@@ -538,7 +538,7 @@ Is it fair to buy pthieved eq now?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="18020" data-author="Medios" data-date="2007-04-17T20:38:45+00:00">
+<div class="post" data-post-id="18020" data-author="Medios" data-date="2007-04-17T20:38:45+00:00" data-subject="">
 
 Your words fly out faster than you think and read. I didnt say im goin to PK someone. Its my own business how to theat friends/unfamiliar_ppl/pthieves so put your threats away or i'll be very scared and will crying run away huhuhuh. I know your chars and avoid you coz you are dangerous enuf even while not performing any actions (blind/web/etc) simply by tanking in regen-mode.[/quote:1buch2ze]
 
@@ -548,7 +548,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="18021" data-author="Poolp" data-date="2007-04-18T00:37:08+00:00">
+<div class="post" data-post-id="18021" data-author="Poolp" data-date="2007-04-18T00:37:08+00:00" data-subject="">
 
 In referance to Poolp...... Give my decanter back and I will gladly let you in my groups when or if I happen to lead  :twisted: . It would suck to solo your entire way to 5x40, but I figure I will give you the chance to earn my semi-respect and allow you in my groups.[/quote:us0k2zdq]
 
@@ -568,7 +568,7 @@ When has it not been fair?
 
 </div>
 
-<div class="post" data-post-id="18022" data-author="Yinao" data-date="2007-04-18T00:45:35+00:00">
+<div class="post" data-post-id="18022" data-author="Yinao" data-date="2007-04-18T00:45:35+00:00" data-subject="">
 
 Sounds fair enough looks like I can lead more often and just keep em locked groups to who I know then :twisted: . Doesn't hurt my feelings that I was pthieved against and it isnt like decanters are worth a fortune anyways. Honestly it was just a chance for you to gain my respect again, you shot it down your choice, probably a decision on your part for the good or bad thats up to you to decide. :roll: 
 
@@ -576,7 +576,7 @@ PS- Don't look for my groups to be open to all the newbies it used to anymore fe
 
 </div>
 
-<div class="post" data-post-id="18023" data-author="firebrand" data-date="2007-04-18T03:03:18+00:00">
+<div class="post" data-post-id="18023" data-author="firebrand" data-date="2007-04-18T03:03:18+00:00" data-subject="">
 
 > **"Yasik wrote:**
 > Your words fly out faster than you think and read. I didnt say im goin to PK someone. Its my own business how to theat friends/unfamiliar_ppl/pthieves so put your threats away or i'll be very scared and will crying run away huhuhuh. I know your chars and avoid you coz you are dangerous enuf even while not performing any actions (blind/web/etc) simply by tanking in regen-mode.
@@ -587,13 +587,13 @@ even in regen mode i outtank you and STILL save your scrawny ass.
 
 </div>
 
-<div class="post" data-post-id="18024" data-author="brady" data-date="2007-04-18T03:59:16+00:00">
+<div class="post" data-post-id="18024" data-author="brady" data-date="2007-04-18T03:59:16+00:00" data-subject="">
 
 I think Yinao needs a nap  :x
 
 </div>
 
-<div class="post" data-post-id="18025" data-author="12345" data-date="2007-04-18T04:06:34+00:00">
+<div class="post" data-post-id="18025" data-author="12345" data-date="2007-04-18T04:06:34+00:00" data-subject="">
 
 I can see what this thread needs already....
 
@@ -619,7 +619,7 @@ Anyone else want a slot?
 
 </div>
 
-<div class="post" data-post-id="18026" data-author="Yinao" data-date="2007-04-18T04:24:29+00:00">
+<div class="post" data-post-id="18026" data-author="Yinao" data-date="2007-04-18T04:24:29+00:00" data-subject="">
 
 Sorry 12345, can't fill my slot considering the round 1 is a win and assuming round 2 is against Reb I dont see any odds in winning. :twisted: 
 
@@ -627,7 +627,7 @@ PS- I've had my nap and I am back in business  :wink:
 
 </div>
 
-<div class="post" data-post-id="18028" data-author="*juggleblood*" data-date="2007-04-18T05:55:10+00:00">
+<div class="post" data-post-id="18028" data-author="*juggleblood*" data-date="2007-04-18T05:55:10+00:00" data-subject="">
 
 [quote:2hrygf5n]
 
@@ -645,13 +645,13 @@ I think Akasha is standing up for not because "it's his job", but because he thi
 
 </div>
 
-<div class="post" data-post-id="18031" data-author="brady" data-date="2007-04-18T14:05:01+00:00">
+<div class="post" data-post-id="18031" data-author="brady" data-date="2007-04-18T14:05:01+00:00" data-subject="">
 
 Can I kill Firebrand then?  I'll babble incoherently and pretend I'm Yinao ;)  PLEASE?
 
 </div>
 
-<div class="post" data-post-id="18033" data-author="firebrand" data-date="2007-04-18T14:18:02+00:00">
+<div class="post" data-post-id="18033" data-author="firebrand" data-date="2007-04-18T14:18:02+00:00" data-subject="">
 
 *giggle*  sure brady you can kill me......let's chop!!!  
 
@@ -659,7 +659,7 @@ Can I kill Firebrand then?  I'll babble incoherently and pretend I'm Yinao ;)  P
 
 </div>
 
-<div class="post" data-post-id="18035" data-author="banedon" data-date="2007-04-18T14:23:14+00:00">
+<div class="post" data-post-id="18035" data-author="banedon" data-date="2007-04-18T14:23:14+00:00" data-subject="">
 
 3 drachma on FB
 
@@ -667,13 +667,13 @@ any takers?
 
 </div>
 
-<div class="post" data-post-id="18037" data-author="brady" data-date="2007-04-18T15:16:28+00:00">
+<div class="post" data-post-id="18037" data-author="brady" data-date="2007-04-18T15:16:28+00:00" data-subject="">
 
 I'll give you 5:1 odds.
 
 </div>
 
-<div class="post" data-post-id="18040" data-author="Poolp" data-date="2007-04-18T18:16:05+00:00">
+<div class="post" data-post-id="18040" data-author="Poolp" data-date="2007-04-18T18:16:05+00:00" data-subject="">
 
 You and I both know that it's a moot argument, because you are free to play with us anonymously. Despite that, you persist in trying to garner attention by aggravating people. "Ha ha you can't kill me anymore and I'm gonna flaunt it in your face." You pthieved for exactly the same reason.
 
@@ -695,25 +695,25 @@ What exactly have you won?
 
 </div>
 
-<div class="post" data-post-id="18041" data-author="Yinao" data-date="2007-04-18T18:54:26+00:00">
+<div class="post" data-post-id="18041" data-author="Yinao" data-date="2007-04-18T18:54:26+00:00" data-subject="">
 
 If I am immature I would hate to have to see what you think of yourself, anyways man, you obviously have your own issues good luck hope you get through it all. Refering to the bracket it was a joke and it had nothing to do with the pthieving it was about arguements if I am not mistaken but do as you wish but deal with your own issues then come talk to me. 8)
 
 </div>
 
-<div class="post" data-post-id="18043" data-author="13" data-date="2007-04-18T20:49:05+00:00">
+<div class="post" data-post-id="18043" data-author="13" data-date="2007-04-18T20:49:05+00:00" data-subject="">
 
 you're all a pack of nancies
 
 </div>
 
-<div class="post" data-post-id="18045" data-author="alias" data-date="2007-04-18T21:12:40+00:00">
+<div class="post" data-post-id="18045" data-author="alias" data-date="2007-04-18T21:12:40+00:00" data-subject="">
 
 100 drach on Brady. sorry Reb but hes dangerous.
 
 </div>
 
-<div class="post" data-post-id="18046" data-author="12345" data-date="2007-04-18T21:43:36+00:00">
+<div class="post" data-post-id="18046" data-author="12345" data-date="2007-04-18T21:43:36+00:00" data-subject="">
 
 [code:d1xm2rxl]
 
@@ -747,7 +747,7 @@ Brady is Offering 5:1 on Firebrand to win.
 
 </div>
 
-<div class="post" data-post-id="18048" data-author="firebrand" data-date="2007-04-18T22:33:51+00:00">
+<div class="post" data-post-id="18048" data-author="firebrand" data-date="2007-04-18T22:33:51+00:00" data-subject="">
 
 100 drach on Brady. sorry Reb but hes dangerous.[/quote:3idxessc]
 
@@ -757,7 +757,7 @@ agreed.  if they're pitting me against brady, i'm takin my toys and goin home.  
 
 </div>
 
-<div class="post" data-post-id="18049" data-author="12345" data-date="2007-04-18T22:42:17+00:00">
+<div class="post" data-post-id="18049" data-author="12345" data-date="2007-04-18T22:42:17+00:00" data-subject="">
 
 [code:fwm1w3tm]
 
@@ -787,7 +787,7 @@ Brady___|
 
 </div>
 
-<div class="post" data-post-id="18050" data-author="banedon" data-date="2007-04-18T23:00:41+00:00">
+<div class="post" data-post-id="18050" data-author="banedon" data-date="2007-04-18T23:00:41+00:00" data-subject="">
 
 agreed.  if they're pitting me against brady, i'm takin my toys and goin home.  brady IS dangerous.  [/quote:3g32sbs7]
 
@@ -795,13 +795,13 @@ Well hell, i had faith in rebs, but i'll gladly defer to the lady's judgement.
 
 </div>
 
-<div class="post" data-post-id="18051" data-author="13" data-date="2007-04-18T23:06:22+00:00">
+<div class="post" data-post-id="18051" data-author="13" data-date="2007-04-18T23:06:22+00:00" data-subject="">
 
 brady's gay, put me up in reb's spot
 
 </div>
 
-<div class="post" data-post-id="18052" data-author="12345" data-date="2007-04-18T23:18:20+00:00">
+<div class="post" data-post-id="18052" data-author="12345" data-date="2007-04-18T23:18:20+00:00" data-subject="">
 
 [code:3jxjakzj]
 
@@ -839,7 +839,7 @@ Bye_____|
 
 </div>
 
-<div class="post" data-post-id="18054" data-author="firebrand" data-date="2007-04-19T00:19:14+00:00">
+<div class="post" data-post-id="18054" data-author="firebrand" data-date="2007-04-19T00:19:14+00:00" data-subject="">
 
 ahhh hell......put me back vs yasik like it was originally and i'll put up a good fight.   i need brady for blastin mobs and raisin my dead ass.  
 
@@ -847,13 +847,13 @@ ahhh hell......put me back vs yasik like it was originally and i'll put up a goo
 
 </div>
 
-<div class="post" data-post-id="18055" data-author="Hades" data-date="2007-04-19T01:42:20+00:00">
+<div class="post" data-post-id="18055" data-author="Hades" data-date="2007-04-19T01:42:20+00:00" data-subject="Fat Bottom Girls Make the Rockin World go Round">
 
 post your pics here :twisted:
 
 </div>
 
-<div class="post" data-post-id="18056" data-author="brady" data-date="2007-04-19T03:18:16+00:00">
+<div class="post" data-post-id="18056" data-author="brady" data-date="2007-04-19T03:18:16+00:00" data-subject="">
 
 [quote:167b3vvk]brady's gay, put me up in reb's spot[/quote:167b3vvk]
 
@@ -861,13 +861,13 @@ Go suck yer thumb turban, ya guzzler.
 
 </div>
 
-<div class="post" data-post-id="18058" data-author="Yasik" data-date="2007-04-19T08:50:41+00:00">
+<div class="post" data-post-id="18058" data-author="Yasik" data-date="2007-04-19T08:50:41+00:00" data-subject="">
 
 [img:1jj98ea1]http://yasik.mci.kiev.ua/VomitBulldog.gif[/img:1jj98ea1]
 
 </div>
 
-<div class="post" data-post-id="18065" data-author="Nordael" data-date="2007-04-19T19:04:48+00:00">
+<div class="post" data-post-id="18065" data-author="Nordael" data-date="2007-04-19T19:04:48+00:00" data-subject="">
 
 I like this change.
 

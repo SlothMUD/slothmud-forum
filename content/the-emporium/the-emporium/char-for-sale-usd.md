@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="21706" data-author="Popa" data-date="2007-12-18T20:27:08+00:00">
+<div class="post" data-post-id="21706" data-author="Popa" data-date="2007-12-18T20:27:08+00:00" data-subject="Char for sale USD">
 
 Popa is for sale. Looking for cash offer. I'm hanging up my mudding days. I've got too much real life stuff going on. Doubt I'll ever return. The Knights clan membership will not be transferred with this sale.
 
@@ -300,7 +300,7 @@ a saffron robe
 
 </div>
 
-<div class="post" data-post-id="21707" data-author="Popa" data-date="2007-12-18T20:34:59+00:00">
+<div class="post" data-post-id="21707" data-author="Popa" data-date="2007-12-18T20:34:59+00:00" data-subject="">
 
 With eq and some spells
 
@@ -856,13 +856,13 @@ swiftkick                 - Lvl: 33,           Learned  50%
 
 </div>
 
-<div class="post" data-post-id="21709" data-author="Leaf" data-date="2007-12-18T21:59:13+00:00">
+<div class="post" data-post-id="21709" data-author="Leaf" data-date="2007-12-18T21:59:13+00:00" data-subject="">
 
 Best of luck Steveo!!!
 
 </div>
 
-<div class="post" data-post-id="21724" data-author="brand" data-date="2007-12-19T07:47:15+00:00">
+<div class="post" data-post-id="21724" data-author="brand" data-date="2007-12-19T07:47:15+00:00" data-subject="">
 
 hmm...
 
@@ -870,7 +870,7 @@ hmm...
 
 </div>
 
-<div class="post" data-post-id="21733" data-author="alias" data-date="2007-12-19T16:53:52+00:00">
+<div class="post" data-post-id="21733" data-author="alias" data-date="2007-12-19T16:53:52+00:00" data-subject="">
 
 Sorry to see anyone hang up the gloves, but you have a pm.
 
@@ -878,7 +878,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="21742" data-author="Popa" data-date="2007-12-20T04:58:55+00:00">
+<div class="post" data-post-id="21742" data-author="Popa" data-date="2007-12-20T04:58:55+00:00" data-subject="">
 
 [quote:ncl3wv13]Sorry to see anyone hang up the gloves, but you have a pm. 
 
@@ -892,7 +892,7 @@ As far as leaving. Yea. Its something I've thought long and hard about. But real
 
 </div>
 
-<div class="post" data-post-id="21745" data-author="jezer" data-date="2007-12-20T05:06:54+00:00">
+<div class="post" data-post-id="21745" data-author="jezer" data-date="2007-12-20T05:06:54+00:00" data-subject="">
 
 Last thing I remember, I was
 
@@ -912,13 +912,13 @@ But you can never leave!
 
 </div>
 
-<div class="post" data-post-id="21754" data-author="Evergreen" data-date="2007-12-20T08:29:20+00:00">
+<div class="post" data-post-id="21754" data-author="Evergreen" data-date="2007-12-20T08:29:20+00:00" data-subject="">
 
 true enough jezer
 
 </div>
 
-<div class="post" data-post-id="21845" data-author="bellafea" data-date="2008-01-02T21:41:50+00:00">
+<div class="post" data-post-id="21845" data-author="bellafea" data-date="2008-01-02T21:41:50+00:00" data-subject="still available?">
 
 char still for sale?
 

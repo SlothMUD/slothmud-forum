@@ -10,7 +10,7 @@ locked: false
 post_count: 28
 ---
 
-<div class="post" data-post-id="13756" data-author="Alexus" data-date="2006-08-25T03:32:24+00:00">
+<div class="post" data-post-id="13756" data-author="Alexus" data-date="2006-08-25T03:32:24+00:00" data-subject="Where have all the good times gone?">
 
 I know this may bring flames. I really am not interested.
 
@@ -36,7 +36,7 @@ Alexus
 
 </div>
 
-<div class="post" data-post-id="13758" data-author="*juggleblood*" data-date="2006-08-25T04:38:25+00:00">
+<div class="post" data-post-id="13758" data-author="*juggleblood*" data-date="2006-08-25T04:38:25+00:00" data-subject="">
 
 For those who have no idea what she's talking about, heres the wrapup.
 
@@ -52,7 +52,7 @@ Rub
 
 </div>
 
-<div class="post" data-post-id="13759" data-author="Krok" data-date="2006-08-25T10:11:18+00:00">
+<div class="post" data-post-id="13759" data-author="Krok" data-date="2006-08-25T10:11:18+00:00" data-subject="">
 
 Oh God, whining about the deserved pkill is so lame. (If you ask me, I won't bitch if someone kills me while having a long argue or something.) It's sometimes much quicker and really, that's not like killing a lowbie, so letting imms know that is.. childish :) 
 
@@ -60,7 +60,7 @@ Oh God, whining about the deserved pkill is so lame. (If you ask me, I won't bit
 
 </div>
 
-<div class="post" data-post-id="13761" data-author="Mosaix" data-date="2006-08-25T10:16:05+00:00">
+<div class="post" data-post-id="13761" data-author="Mosaix" data-date="2006-08-25T10:16:05+00:00" data-subject="">
 
 Someone mudmail Alexus a box of Kleenex and some Ben and Jerry's ice cream.  Perhaps a dvd of Sleepless in Seattle as well or another similar movie.
 
@@ -74,7 +74,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="13762" data-author="Autolycos" data-date="2006-08-25T11:42:40+00:00">
+<div class="post" data-post-id="13762" data-author="Autolycos" data-date="2006-08-25T11:42:40+00:00" data-subject="">
 
 Oh God, whining about the deserved pkill is so lame. (If you ask me, I won't bitch if someone kills me while having a long argue or something.) It's sometimes much quicker and really, that's not like killing a lowbie, so letting imms know that is.. childish :) [/quote:2qfx4lbb]
 
@@ -86,7 +86,7 @@ good times.
 
 </div>
 
-<div class="post" data-post-id="13763" data-author="Diazz" data-date="2006-08-25T11:49:31+00:00">
+<div class="post" data-post-id="13763" data-author="Diazz" data-date="2006-08-25T11:49:31+00:00" data-subject="">
 
 [quote:3odch0b2]There are people on this mud that make it hard to enjoy for many other characters. Other characters that don't want to say anything because they would rather just have a good time without the confrontation[/quote:3odch0b2]
 
@@ -102,7 +102,7 @@ Cliques started forming between classes thousands of years ago, and still do it 
 
 </div>
 
-<div class="post" data-post-id="13767" data-author="Alexus" data-date="2006-08-25T14:19:16+00:00">
+<div class="post" data-post-id="13767" data-author="Alexus" data-date="2006-08-25T14:19:16+00:00" data-subject="You enjoy pkilling.">
 
 Well, I do not harass mudders. And, for you pkilling may be fun. For me, that is harassment.
 
@@ -118,7 +118,7 @@ Alexus
 
 </div>
 
-<div class="post" data-post-id="13768" data-author="Alexus" data-date="2006-08-25T14:29:49+00:00">
+<div class="post" data-post-id="13768" data-author="Alexus" data-date="2006-08-25T14:29:49+00:00" data-subject="Amazing">
 
 It still amazes me that men try to make up for their penis size, even on a MUD.
 
@@ -128,7 +128,7 @@ Alexus
 
 </div>
 
-<div class="post" data-post-id="13769" data-author="Ki" data-date="2006-08-25T15:12:37+00:00">
+<div class="post" data-post-id="13769" data-author="Ki" data-date="2006-08-25T15:12:37+00:00" data-subject="">
 
 Wouldn't you like to have some berries to go with that twig? 
 
@@ -136,7 +136,7 @@ Sounds like someone here is in need of berries and twig herself.
 
 </div>
 
-<div class="post" data-post-id="13770" data-author="Krok" data-date="2006-08-25T15:19:35+00:00">
+<div class="post" data-post-id="13770" data-author="Krok" data-date="2006-08-25T15:19:35+00:00" data-subject="">
 
 OMFG, I just don't know what a person should do to make Van mad, he's usually very calm guy. If you can't solve your problems without letting whole mud know at tard levels, well, you suck.
 
@@ -146,7 +146,7 @@ Go get a fuck or something, this whining is really annoying.
 
 </div>
 
-<div class="post" data-post-id="13771" data-author="Alexus" data-date="2006-08-25T15:47:49+00:00">
+<div class="post" data-post-id="13771" data-author="Alexus" data-date="2006-08-25T15:47:49+00:00" data-subject="">
 
 There you go talking about stuff you know nothing about.
 
@@ -182,13 +182,13 @@ Alexus
 
 </div>
 
-<div class="post" data-post-id="13772" data-author="Krok" data-date="2006-08-25T15:52:59+00:00">
+<div class="post" data-post-id="13772" data-author="Krok" data-date="2006-08-25T15:52:59+00:00" data-subject="">
 
 Well nods, go ahead, report everything, accuse everyone, I wonder how many friends here you'll have soon.
 
 </div>
 
-<div class="post" data-post-id="13773" data-author="Autolycos" data-date="2006-08-25T17:10:36+00:00">
+<div class="post" data-post-id="13773" data-author="Autolycos" data-date="2006-08-25T17:10:36+00:00" data-subject="">
 
 [i:30nfxalm][b:30nfxalm]Everyone grab a bag of popcorn[/b:30nfxalm][/i:30nfxalm][/color:30nfxalm]
 
@@ -196,7 +196,7 @@ Well nods, go ahead, report everything, accuse everyone, I wonder how many frien
 
 </div>
 
-<div class="post" data-post-id="13774" data-author="Mosaix" data-date="2006-08-25T20:19:49+00:00">
+<div class="post" data-post-id="13774" data-author="Mosaix" data-date="2006-08-25T20:19:49+00:00" data-subject="">
 
 The best part about this thread is this.  Whether Alexus likes the mud or not, the sun will still rise tomorrow morning and set again in the evening.
 
@@ -206,7 +206,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="13775" data-author="Avatar" data-date="2006-08-25T20:26:12+00:00">
+<div class="post" data-post-id="13775" data-author="Avatar" data-date="2006-08-25T20:26:12+00:00" data-subject="The Show">
 
 I guess I'm just tired of dealing with people at work, so I apologize if this sounds a little frustrated.  What's the point though?  Can't we deal with interpersonal problems ourselves?  In any group of people, there will be some that don't get along with others.  If you don't get along with someone, it's a large mud there should be room to avoid certain people.  Alexus, I've grouped with you and always enjoyed it.  I'm sure there are a lot of people here that you get along with.
 
@@ -220,7 +220,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="13776" data-author="Medios" data-date="2006-08-25T21:27:53+00:00">
+<div class="post" data-post-id="13776" data-author="Medios" data-date="2006-08-25T21:27:53+00:00" data-subject="">
 
 As a side note.  Don't shoot down clans just because you had a disagreement with someone.  Dogs of War had a clan long before it was put in game.  We fought for each other and defended each other just the same as we do now that we have ktalk channel.  We strive to find the best members, players who can solo, group, and try to make sloth more fun, not less. 
 
@@ -234,7 +234,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13777" data-author="Vixn" data-date="2006-08-25T22:11:09+00:00">
+<div class="post" data-post-id="13777" data-author="Vixn" data-date="2006-08-25T22:11:09+00:00" data-subject="">
 
 What happened to that guy?[/quote:z7ulkcja]
 
@@ -242,7 +242,7 @@ He takes a gun and kill all his stupid classmates and the teacher, right?
 
 </div>
 
-<div class="post" data-post-id="13778" data-author="Alexus" data-date="2006-08-25T22:17:17+00:00">
+<div class="post" data-post-id="13778" data-author="Alexus" data-date="2006-08-25T22:17:17+00:00" data-subject="">
 
 There you go! What did happen to that guy?
 
@@ -252,7 +252,7 @@ I'll admit though.. forgiveness is not my strong suit.. Perhaps because I have a
 
 </div>
 
-<div class="post" data-post-id="13780" data-author="Guinex" data-date="2006-08-26T02:24:07+00:00">
+<div class="post" data-post-id="13780" data-author="Guinex" data-date="2006-08-26T02:24:07+00:00" data-subject="">
 
 [quote:351gmddq]If you enjoy pkilling, keep it amongst your fans. Because it is against the rules on this mud, which is part of why this mud is popular. [/quote:351gmddq]
 
@@ -260,7 +260,7 @@ No offense or anything, but in my 12 years of mudding I have found that muds tha
 
 </div>
 
-<div class="post" data-post-id="13781" data-author="Weasel" data-date="2006-08-26T03:02:40+00:00">
+<div class="post" data-post-id="13781" data-author="Weasel" data-date="2006-08-26T03:02:40+00:00" data-subject="">
 
 No offense or anything, but in my 12 years of mudding I have found that muds that allow pking tend to attract more people.[/quote:2ro6n4bu]
 
@@ -268,13 +268,13 @@ That's because there are so many a$$holes out there  ...imho, of course.  :twist
 
 </div>
 
-<div class="post" data-post-id="13782" data-author="Guinex" data-date="2006-08-26T04:00:46+00:00">
+<div class="post" data-post-id="13782" data-author="Guinex" data-date="2006-08-26T04:00:46+00:00" data-subject="">
 
 I can't help myself :(
 
 </div>
 
-<div class="post" data-post-id="13783" data-author="Alexus" data-date="2006-08-26T04:40:02+00:00">
+<div class="post" data-post-id="13783" data-author="Alexus" data-date="2006-08-26T04:40:02+00:00" data-subject="The best part is">
 
 The best part of this is.. the hipocrites who criticize me about all of this... and then jump into alternate characters and follow me as the leader of their group. Hehe. If that isn't a big bully with low self esteem, I don't know what is.
 
@@ -286,7 +286,7 @@ Alexus
 
 </div>
 
-<div class="post" data-post-id="13785" data-author="Alexus" data-date="2006-08-26T06:30:49+00:00">
+<div class="post" data-post-id="13785" data-author="Alexus" data-date="2006-08-26T06:30:49+00:00" data-subject="Finally">
 
 Finally I want to address the black eye that Medios just posted about. So many mudders think I should just pkill Van and that he should learn by that as a lesson. There are two problems with this. One is that this action would make me a hippocrite myself, and two it would subject my pchar to even more harsh punishment as was publicly declared by Clink.
 
@@ -308,19 +308,19 @@ Character assasination complete.
 
 </div>
 
-<div class="post" data-post-id="13787" data-author="Mustang" data-date="2006-08-26T10:02:15+00:00">
+<div class="post" data-post-id="13787" data-author="Mustang" data-date="2006-08-26T10:02:15+00:00" data-subject="">
 
 shut the fuck up thank you
 
 </div>
 
-<div class="post" data-post-id="13791" data-author="Krok" data-date="2006-08-26T15:03:04+00:00">
+<div class="post" data-post-id="13791" data-author="Krok" data-date="2006-08-26T15:03:04+00:00" data-subject="">
 
 btw, Alexus, I think you are using a pic which Falsra uploaded for himself, that's a lil bit confusing for reading the crier
 
 </div>
 
-<div class="post" data-post-id="13792" data-author="12345" data-date="2006-08-26T15:43:04+00:00">
+<div class="post" data-post-id="13792" data-author="12345" data-date="2006-08-26T15:43:04+00:00" data-subject="">
 
 I've been trying to stay out of this, but I think it should be mentioned that Van was surprised when Alexus died that easily.  It seems that spell does a little more damage than he was expecting it to.  The fact Van had Alexus raised shows he was expressing frustration more than any genuine desire to harm Alexus' character.  Pretty much for the same reason Alexus says that Clink killing Van was a non-punishment.
 
@@ -328,13 +328,13 @@ I don't have an issue with either of these characters.  They handled the situati
 
 </div>
 
-<div class="post" data-post-id="13793" data-author="brady" data-date="2006-08-26T16:45:52+00:00">
+<div class="post" data-post-id="13793" data-author="brady" data-date="2006-08-26T16:45:52+00:00" data-subject="">
 
 [img:24lgnk2w]http://www3.estart.com/stores/media/tired%20man%20copy.jpg[/img:24lgnk2w]
 
 </div>
 
-<div class="post" data-post-id="13794" data-author="Guinex" data-date="2006-08-26T17:01:19+00:00">
+<div class="post" data-post-id="13794" data-author="Guinex" data-date="2006-08-26T17:01:19+00:00" data-subject="">
 
 Hey Brady, would you carry my books to english class for me?
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="13457" data-author="codetown" data-date="2006-07-12T21:17:57+00:00">
+<div class="post" data-post-id="13457" data-author="codetown" data-date="2006-07-12T21:17:57+00:00" data-subject="Potion Type Helper">
 
 It should not be hard to convert this to a script that is usable by other clients, I have written it for tt++.
 
@@ -234,7 +234,7 @@ now see: yellow potion (detect invisibility)
 
 </div>
 
-<div class="post" data-post-id="32107" data-author="mahkra" data-date="2010-12-03T01:38:44+00:00">
+<div class="post" data-post-id="32107" data-author="mahkra" data-date="2010-12-03T01:38:44+00:00" data-subject="Re: Potion Type Helper">
 
 For CMud dupes removed
 
@@ -339,13 +339,13 @@ For CMud dupes removed
 
 </div>
 
-<div class="post" data-post-id="32108" data-author="Dragoth" data-date="2010-12-03T08:22:24+00:00">
+<div class="post" data-post-id="32108" data-author="Dragoth" data-date="2010-12-03T08:22:24+00:00" data-subject="Re: Potion Type Helper">
 
 good database, thanks.
 
 </div>
 
-<div class="post" data-post-id="32110" data-author="Tuck" data-date="2010-12-03T08:45:55+00:00">
+<div class="post" data-post-id="32110" data-author="Tuck" data-date="2010-12-03T08:45:55+00:00" data-subject="Re: Potion Type Helper">
 
 Good job!
 

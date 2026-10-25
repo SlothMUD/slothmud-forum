@@ -10,7 +10,7 @@ locked: false
 post_count: 30
 ---
 
-<div class="post" data-post-id="28701" data-author="*Splork*" data-date="2009-04-10T16:26:24+00:00">
+<div class="post" data-post-id="28701" data-author="*Splork*" data-date="2009-04-10T16:26:24+00:00" data-subject="Major Announcement tonight, 9 pm Eastern time">
 
 Tonight, at around 9 pm Eastern time, we will be holding conference and making a major announcement.
 
@@ -20,7 +20,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28702" data-author="Yasik2" data-date="2009-04-10T16:33:28+00:00">
+<div class="post" data-post-id="28702" data-author="Yasik2" data-date="2009-04-10T16:33:28+00:00" data-subject="">
 
 Its not a wipe / Sloth IV / etc, I hope?
 
@@ -28,7 +28,7 @@ I'm not 5x40 yet and not retired, just taking a break for educational purposes.
 
 </div>
 
-<div class="post" data-post-id="28703" data-author="Tap" data-date="2009-04-10T22:14:13+00:00">
+<div class="post" data-post-id="28703" data-author="Tap" data-date="2009-04-10T22:14:13+00:00" data-subject="">
 
 No..I have recently made several contributions to the game. It's why you haven't seen me ranting lately on the crier...with the guidance of Jake, i will be taking over a majority of duties. I hope everyone likes the new direction I plan on taking the game and invite their friends to come back to play and try to get new people to show up as well. Contrary to what a few Immortal's have suggested, I am NOT changing the name to TapMUD. There will not be a pwipe nor am I planning one. However, some immediate changes will possibly throw alot for a loop but all I ask is that you bear with me.
 
@@ -36,13 +36,13 @@ Tap
 
 </div>
 
-<div class="post" data-post-id="28704" data-author="*juggleblood*" data-date="2009-04-11T00:24:33+00:00">
+<div class="post" data-post-id="28704" data-author="*juggleblood*" data-date="2009-04-11T00:24:33+00:00" data-subject="">
 
 :lol:
 
 </div>
 
-<div class="post" data-post-id="28708" data-author="Weasel" data-date="2009-04-11T01:58:16+00:00">
+<div class="post" data-post-id="28708" data-author="Weasel" data-date="2009-04-11T01:58:16+00:00" data-subject="">
 
 I take it from Shyla's post, the major announcement = full p.wipe?
 
@@ -52,7 +52,7 @@ Game over man.
 
 </div>
 
-<div class="post" data-post-id="28711" data-author="Tap" data-date="2009-04-11T02:28:18+00:00">
+<div class="post" data-post-id="28711" data-author="Tap" data-date="2009-04-11T02:28:18+00:00" data-subject="">
 
 buy a copy of WOW and come to Blackwater raiders realm..look up Autolycos and I will power-level you
 
@@ -60,7 +60,7 @@ I has me a rogue you now :-)
 
 </div>
 
-<div class="post" data-post-id="28712" data-author="Weasel" data-date="2009-04-11T02:29:13+00:00">
+<div class="post" data-post-id="28712" data-author="Weasel" data-date="2009-04-11T02:29:13+00:00" data-subject="">
 
 can someone please respond? 
 
@@ -68,7 +68,7 @@ can someone please respond?
 
 </div>
 
-<div class="post" data-post-id="28713" data-author="Weasel" data-date="2009-04-11T02:37:14+00:00">
+<div class="post" data-post-id="28713" data-author="Weasel" data-date="2009-04-11T02:37:14+00:00" data-subject="">
 
 buy a copy of WOW and come to Blackwater raiders realm..look up Autolycos and I will power-level you
 
@@ -80,7 +80,7 @@ I just finished building a new PC that can handle pretty much anything - includi
 
 </div>
 
-<div class="post" data-post-id="28714" data-author="madmax" data-date="2009-04-11T02:38:21+00:00">
+<div class="post" data-post-id="28714" data-author="madmax" data-date="2009-04-11T02:38:21+00:00" data-subject="">
 
 It has been announced that the entire playerbase will be wiped clean.  Character Names and Passwords will remain for one month.  
 
@@ -98,7 +98,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="28715" data-author="Sheng" data-date="2009-04-11T02:38:48+00:00">
+<div class="post" data-post-id="28715" data-author="Sheng" data-date="2009-04-11T02:38:48+00:00" data-subject="">
 
 Splork gossips-- 'we will be back up tomorrow afternoon'
 
@@ -176,7 +176,7 @@ Log in tomorrow and check it out.
 
 </div>
 
-<div class="post" data-post-id="28718" data-author="Weasel" data-date="2009-04-11T02:47:13+00:00">
+<div class="post" data-post-id="28718" data-author="Weasel" data-date="2009-04-11T02:47:13+00:00" data-subject="">
 
 [b:cjbqcd5l] F U C K[/color:cjbqcd5l][/size:cjbqcd5l][/b:cjbqcd5l]
 
@@ -192,7 +192,7 @@ Guess it doesn't matter.
 
 </div>
 
-<div class="post" data-post-id="28726" data-author="blackmore" data-date="2009-04-11T03:00:59+00:00">
+<div class="post" data-post-id="28726" data-author="blackmore" data-date="2009-04-11T03:00:59+00:00" data-subject="">
 
 can someone please respond? 
 
@@ -202,19 +202,19 @@ I'm sure we'll see plenty of these over the next week, but really, what other op
 
 </div>
 
-<div class="post" data-post-id="28729" data-author="belgarath" data-date="2009-04-11T03:03:17+00:00">
+<div class="post" data-post-id="28729" data-author="belgarath" data-date="2009-04-11T03:03:17+00:00" data-subject="I do not know anyone to talk too.">
 
 What is going ON? Shyla, send me some kind of contact, I do not know how to talk to you outside of the game and now it is GONE!
 
 </div>
 
-<div class="post" data-post-id="28735" data-author="sirrico1" data-date="2009-04-11T03:40:21+00:00">
+<div class="post" data-post-id="28735" data-author="sirrico1" data-date="2009-04-11T03:40:21+00:00" data-subject="no wipe hah">
 
 guess I was right after all huh splork, and here you were blowing me smack saying it was not determined yet when it has been for the past month or 2. oh well I'll come back tomorrow and be a bigger pain in the neck than before just to keep you on your toes
 
 </div>
 
-<div class="post" data-post-id="28736" data-author="Yasik2" data-date="2009-04-11T03:51:48+00:00">
+<div class="post" data-post-id="28736" data-author="Yasik2" data-date="2009-04-11T03:51:48+00:00" data-subject="Re: no wipe hah">
 
 guess I was right after all huh splork, and here you were blowing me smack saying it was not determined yet when it has been for the past month or 2. oh well I'll come back tomorrow and be a bigger pain in the neck than before just to keep you on your toes[/quote:2cjp777u]
 
@@ -224,7 +224,7 @@ Still, had guts to get outss that.
 
 </div>
 
-<div class="post" data-post-id="28905" data-author="Yasik2" data-date="2009-04-13T19:04:08+00:00">
+<div class="post" data-post-id="28905" data-author="Yasik2" data-date="2009-04-13T19:04:08+00:00" data-subject="">
 
 The sun rises in the east.
 
@@ -240,7 +240,7 @@ fixed
 
 </div>
 
-<div class="post" data-post-id="28908" data-author="Weasel" data-date="2009-04-13T21:06:44+00:00">
+<div class="post" data-post-id="28908" data-author="Weasel" data-date="2009-04-13T21:06:44+00:00" data-subject="">
 
 The sun rises in the east.
 
@@ -258,7 +258,7 @@ ffs shut up you freaking moron.
 
 </div>
 
-<div class="post" data-post-id="28911" data-author="firebrand" data-date="2009-04-14T02:27:35+00:00">
+<div class="post" data-post-id="28911" data-author="firebrand" data-date="2009-04-14T02:27:35+00:00" data-subject="">
 
 apparently i am not the only one that is thoroughly sick and tired of ya55hole's constant trolling and invasion of threads with pictures that are usually totally irrelevant to the conversation.   (yeah, yeah i know - pot/kettle/black - i don't do it constantly nor do i do it with the specific intent to troll like ya$$hat does)
 
@@ -266,13 +266,13 @@ apparently i am not the only one that is thoroughly sick and tired of ya55hole's
 
 </div>
 
-<div class="post" data-post-id="28912" data-author="jezer" data-date="2009-04-14T03:54:44+00:00">
+<div class="post" data-post-id="28912" data-author="jezer" data-date="2009-04-14T03:54:44+00:00" data-subject="">
 
 The problem is half you. He enjoys berating you because he always gets a lame but passionate reaction from you. I enjoy how he ticks you off so much, and your responses... and I have nothing against you... it's just so lame it's funny. He drops the bait, you bite every time. Call a truce, treat him as an equal, problem solved. It worked for me.
 
 </div>
 
-<div class="post" data-post-id="28913" data-author="Yasik2" data-date="2009-04-14T05:36:50+00:00">
+<div class="post" data-post-id="28913" data-author="Yasik2" data-date="2009-04-14T05:36:50+00:00" data-subject="">
 
 What bait and trolling are you talking about?
 
@@ -286,7 +286,7 @@ And always those two came up with insults etc, most likely just assert themselve
 
 </div>
 
-<div class="post" data-post-id="28916" data-author="Medios" data-date="2009-04-14T15:56:34+00:00">
+<div class="post" data-post-id="28916" data-author="Medios" data-date="2009-04-14T15:56:34+00:00" data-subject="">
 
 What bait and trolling are you talking about?
 
@@ -304,7 +304,7 @@ Match.
 
 </div>
 
-<div class="post" data-post-id="28917" data-author="Weasel" data-date="2009-04-14T17:48:09+00:00">
+<div class="post" data-post-id="28917" data-author="Weasel" data-date="2009-04-14T17:48:09+00:00" data-subject="">
 
 BWAHAHAHAHA! yeah right. Game was already over and the stadium empty. 
 
@@ -314,7 +314,7 @@ Not.
 
 </div>
 
-<div class="post" data-post-id="29066" data-author="*Splork*" data-date="2009-04-26T18:38:43+00:00">
+<div class="post" data-post-id="29066" data-author="*Splork*" data-date="2009-04-26T18:38:43+00:00" data-subject="">
 
 who
 
@@ -442,13 +442,13 @@ Highest total since last bootup: 54.
 
 </div>
 
-<div class="post" data-post-id="29067" data-author="Tap" data-date="2009-04-27T22:41:30+00:00">
+<div class="post" data-post-id="29067" data-author="Tap" data-date="2009-04-27T22:41:30+00:00" data-subject="">
 
 bump
 
 </div>
 
-<div class="post" data-post-id="29070" data-author="Shadis" data-date="2009-04-28T15:05:29+00:00">
+<div class="post" data-post-id="29070" data-author="Shadis" data-date="2009-04-28T15:05:29+00:00" data-subject="">
 
 Damn, now there is proof i logged back in
 
@@ -456,7 +456,7 @@ I hope i don't get wiped now!!!!
 
 </div>
 
-<div class="post" data-post-id="29734" data-author="Avatar" data-date="2009-07-29T16:02:04+00:00">
+<div class="post" data-post-id="29734" data-author="Avatar" data-date="2009-07-29T16:02:04+00:00" data-subject="Welcome">
 
 I guess this is the place to post, welcome to SlothIV.  I had some spare time last week, so I logged into the crier.  This was the first time I've been to the crier since January 09.  Just a short note: life has been busy lately, I relocated again in Dec 08.  This was the first of my relocations where I've had to sell a house, and it's been a fun time to try to sell a house.  Also, we had a major software project going on at work, I spent about 10 weeks traveling during the first three months of 09 and workload has been higher than normal since.  I haven't been active for some 6 months but I wouldn't say I was 'Retired' by any definition.
 
@@ -472,7 +472,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="29735" data-author="jezer" data-date="2009-07-29T19:46:31+00:00">
+<div class="post" data-post-id="29735" data-author="jezer" data-date="2009-07-29T19:46:31+00:00" data-subject="">
 
 Avatar! One of the few gentlemen of sloth... You playing a druid again? 
 
@@ -480,19 +480,19 @@ I may play casually again in a couple of weeks. The 14th of August is the settle
 
 </div>
 
-<div class="post" data-post-id="29736" data-author="*juggleblood*" data-date="2009-07-30T00:00:10+00:00">
+<div class="post" data-post-id="29736" data-author="*juggleblood*" data-date="2009-07-30T00:00:10+00:00" data-subject="">
 
 CHARLES!
 
 </div>
 
-<div class="post" data-post-id="29737" data-author="jezer" data-date="2009-07-30T02:10:44+00:00">
+<div class="post" data-post-id="29737" data-author="jezer" data-date="2009-07-30T02:10:44+00:00" data-subject="">
 
 JONATHAN!
 
 </div>
 
-<div class="post" data-post-id="29759" data-author="Avatar" data-date="2009-08-05T01:47:11+00:00">
+<div class="post" data-post-id="29759" data-author="Avatar" data-date="2009-08-05T01:47:11+00:00" data-subject="">
 
 Congratulations on buying a house, it was a major turning point for me as well.  
 

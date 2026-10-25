@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36751" data-author="*Splork*" data-date="2016-03-19T04:08:04+00:00">
+<div class="post" data-post-id="36751" data-author="*Splork*" data-date="2016-03-19T04:08:04+00:00" data-subject="CVS logs">
 
 Spent the day reworking the CVS logs.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33126" data-author="Magi" data-date="2012-01-02T17:11:04+00:00">
+<div class="post" data-post-id="33126" data-author="Magi" data-date="2012-01-02T17:11:04+00:00" data-subject="New Year&#x27;s Quest">
 
 The first priest quests-- 'I will require the assistance of some stu....err, brave adventurers who are willing to serve Kitezh once more.'
 
@@ -182,7 +182,7 @@ The first priest quests-- 'Adios!'
 
 </div>
 
-<div class="post" data-post-id="33128" data-author="jezer" data-date="2012-01-05T06:37:59+00:00">
+<div class="post" data-post-id="33128" data-author="jezer" data-date="2012-01-05T06:37:59+00:00" data-subject="Re: New Year&#x27;s Quest">
 
 Good times eh.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="36638" data-author="*juggleblood*" data-date="2016-02-26T01:44:58+00:00">
+<div class="post" data-post-id="36638" data-author="*juggleblood*" data-date="2016-02-26T01:44:58+00:00" data-subject="lastLine, lineBefore, and duplicate line &amp;quot;+&amp;quot; echo">
 
 Here's a simple one that I like.
 
@@ -48,13 +48,13 @@ Now anytime you get a duplicate line from the mud, it will be deleted, and a mar
 
 </div>
 
-<div class="post" data-post-id="36640" data-author="Madigan" data-date="2016-02-26T06:06:24+00:00">
+<div class="post" data-post-id="36640" data-author="Madigan" data-date="2016-02-26T06:06:24+00:00" data-subject="Re: lastLine, lineBefore, and duplicate line &amp;quot;+&amp;quot; echo">
 
 what's an example of when this would be handy?
 
 </div>
 
-<div class="post" data-post-id="36653" data-author="*juggleblood*" data-date="2016-02-27T03:01:52+00:00">
+<div class="post" data-post-id="36653" data-author="*juggleblood*" data-date="2016-02-27T03:01:52+00:00" data-subject="Re: lastLine, lineBefore, and duplicate line &amp;quot;+&amp;quot; echo">
 
 You could add a check to the xp updater for example to see what lastLine is and you could track averages on the xp that your strikes or blasts were doing.
 

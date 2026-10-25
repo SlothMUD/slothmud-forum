@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9834" data-author="12345" data-date="2005-12-16T16:40:07+00:00">
+<div class="post" data-post-id="9834" data-author="12345" data-date="2005-12-16T16:40:07+00:00" data-subject="Finger cmd">
 
 I think some of this already exists, but the rest may take some work.
 

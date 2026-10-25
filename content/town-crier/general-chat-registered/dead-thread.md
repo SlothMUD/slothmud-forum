@@ -10,25 +10,25 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="18336" data-author="Weasel" data-date="2007-05-06T15:46:07+00:00">
+<div class="post" data-post-id="18336" data-author="Weasel" data-date="2007-05-06T15:46:07+00:00" data-subject="dead thread">
 
 nevermind
 
 </div>
 
-<div class="post" data-post-id="18339" data-author="Autolycos" data-date="2007-05-06T16:23:51+00:00">
+<div class="post" data-post-id="18339" data-author="Autolycos" data-date="2007-05-06T16:23:51+00:00" data-subject="">
 
 we never do
 
 </div>
 
-<div class="post" data-post-id="18340" data-author="Weasel" data-date="2007-05-06T16:48:24+00:00">
+<div class="post" data-post-id="18340" data-author="Weasel" data-date="2007-05-06T16:48:24+00:00" data-subject="">
 
 die   :twisted:
 
 </div>
 
-<div class="post" data-post-id="18341" data-author="Autolycos" data-date="2007-05-06T16:53:11+00:00">
+<div class="post" data-post-id="18341" data-author="Autolycos" data-date="2007-05-06T16:53:11+00:00" data-subject="">
 
 well thank you sir, 
 
@@ -36,7 +36,7 @@ but after you,  I insist  :twisted:
 
 </div>
 
-<div class="post" data-post-id="18418" data-author="Shazuko" data-date="2007-05-08T13:57:07+00:00">
+<div class="post" data-post-id="18418" data-author="Shazuko" data-date="2007-05-08T13:57:07+00:00" data-subject="cocain&#x27;t...">
 
 why start a new thread...
 
@@ -54,7 +54,7 @@ why start a new thread...
 
 </div>
 
-<div class="post" data-post-id="18687" data-author="Weasel" data-date="2007-05-28T03:33:50+00:00">
+<div class="post" data-post-id="18687" data-author="Weasel" data-date="2007-05-28T03:33:50+00:00" data-subject="dead at hebe">
 
 dead at Hebe - top of Olympus.. help?
 
@@ -62,7 +62,7 @@ never mind.. CR by duck :)
 
 </div>
 
-<div class="post" data-post-id="18770" data-author="Weasel" data-date="2007-06-03T08:24:42+00:00">
+<div class="post" data-post-id="18770" data-author="Weasel" data-date="2007-06-03T08:24:42+00:00" data-subject="">
 
 Bah ..lost connect again and can't get back on (connect died for most people about 10 mins prior for about a minute - but mud stayed up).. and I'm holding 2 sacks with all but 9 of the 48 cps required for devilskin gaunts.. and it's all temp.. bah.
 
@@ -70,7 +70,7 @@ Bah ..lost connect again and can't get back on (connect died for most people abo
 
 </div>
 
-<div class="post" data-post-id="18878" data-author="Assirian" data-date="2007-06-14T15:51:23+00:00">
+<div class="post" data-post-id="18878" data-author="Assirian" data-date="2007-06-14T15:51:23+00:00" data-subject="">
 
 damn it.. got dead at Poseidon temple and lost connect during CR :(
 
@@ -78,13 +78,13 @@ It would be very nice if someone safe my staff... sure, if whole mud is not down
 
 </div>
 
-<div class="post" data-post-id="18882" data-author="Assirian" data-date="2007-06-14T19:10:19+00:00">
+<div class="post" data-post-id="18882" data-author="Assirian" data-date="2007-06-14T19:10:19+00:00" data-subject="">
 
 i'm mostly ok, sorry for disturbing
 
 </div>
 
-<div class="post" data-post-id="18931" data-author="Weasel" data-date="2007-06-16T21:23:45+00:00">
+<div class="post" data-post-id="18931" data-author="Weasel" data-date="2007-06-16T21:23:45+00:00" data-subject="">
 
 dead in CG by elites
 
@@ -92,7 +92,7 @@ dead in CG by elites
 
 </div>
 
-<div class="post" data-post-id="18938" data-author="Weasel" data-date="2007-06-17T04:36:45+00:00">
+<div class="post" data-post-id="18938" data-author="Weasel" data-date="2007-06-17T04:36:45+00:00" data-subject="">
 
 goddam it, dead again in same place.. please come help!
 
@@ -100,7 +100,7 @@ goddam it, dead again in same place.. please come help!
 
 </div>
 
-<div class="post" data-post-id="18939" data-author="12345" data-date="2007-06-17T05:07:38+00:00">
+<div class="post" data-post-id="18939" data-author="12345" data-date="2007-06-17T05:07:38+00:00" data-subject="">
 
 force weasel join channel hosers
 
@@ -114,13 +114,13 @@ force weasel gossip i has a corm!
 
 </div>
 
-<div class="post" data-post-id="18940" data-author="Weasel" data-date="2007-06-17T05:30:47+00:00">
+<div class="post" data-post-id="18940" data-author="Weasel" data-date="2007-06-17T05:30:47+00:00" data-subject="">
 
 lol
 
 </div>
 
-<div class="post" data-post-id="18941" data-author="Autolycos" data-date="2007-06-17T05:57:26+00:00">
+<div class="post" data-post-id="18941" data-author="Autolycos" data-date="2007-06-17T05:57:26+00:00" data-subject="">
 
 12345 you forgot...
 

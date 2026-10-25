@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33851" data-author="*Splork*" data-date="2012-12-19T22:12:09+00:00">
+<div class="post" data-post-id="33851" data-author="*Splork*" data-date="2012-12-19T22:12:09+00:00" data-subject="Coliseum Help file ( reward )">
 
 We need a help file for the coliseum. The help file should include the basic idea behind the concept, basic usage, and anything else you deem important. 
 

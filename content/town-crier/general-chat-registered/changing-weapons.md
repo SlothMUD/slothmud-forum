@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="39123" data-author="Gorka" data-date="2019-03-06T13:34:54+00:00">
+<div class="post" data-post-id="39123" data-author="Gorka" data-date="2019-03-06T13:34:54+00:00" data-subject="Changing Weapons">
 
 There is a game issue I'd like to discuss surrounding switching weapons, because as a stabber, gripper, warrior and user of proc weapons - things are complicated these days with the increased arsenal of options. Recently for example in MNM I stab and switch to a chopper to take advantage of a possible excruciating blow/chop combo. There isn't really a combination I don't use at some point as a tank...
 
@@ -34,13 +34,13 @@ But also if implementing this idea interfered with rebirth shop, whatever is hap
 
 </div>
 
-<div class="post" data-post-id="39127" data-author="*teker*" data-date="2019-03-11T19:32:31+00:00">
+<div class="post" data-post-id="39127" data-author="*teker*" data-date="2019-03-11T19:32:31+00:00" data-subject="Re: Changing Weapons">
 
 Rather than have the game do things automatically, I would prefer to create a new MSDP variable that would give you a list of mobs (and/or players) in the room with information currently available to you via a LOOK or other command.  So you could tell who is fighting whom, etc.  Then you can choose what to do about it on the client side.
 
 </div>
 
-<div class="post" data-post-id="39128" data-author="Gorka" data-date="2019-03-11T22:44:57+00:00">
+<div class="post" data-post-id="39128" data-author="Gorka" data-date="2019-03-11T22:44:57+00:00" data-subject="Re: Changing Weapons">
 
 Perhaps if you made msdp.OPPONENT... msdp.OPPONENTS it might solve the multi-mob issue. If the OPPONENTS array has multiple mobs in it after a death I won't re-equip my stabber and continue slashing... however I know whats going to happen... I will kill the last mob and the array won't update quick enough... and I will keep wielding an incorrect weapon... Msdp isn't useful in every case because it's slightly delayed. For instance try build a healbot using msdp... terrible idea. Try echoing your status on mob death and you will find sometimes it still says you are FIGHTING and other times STANDING.
 
@@ -50,7 +50,7 @@ It's messy and I have to handle things in non centralised ways. Not sure how you
 
 </div>
 
-<div class="post" data-post-id="39129" data-author="*teker*" data-date="2019-03-11T23:16:11+00:00">
+<div class="post" data-post-id="39129" data-author="*teker*" data-date="2019-03-11T23:16:11+00:00" data-subject="Re: Changing Weapons">
 
 Modern game architecture runs on a slight delay so that the client and server are both running independent simulations of the same events.  You can script easier on that type of architecture because the client knows the future for a small period of time.
 
@@ -58,7 +58,7 @@ If I were to build the list as you suggest, I could include a field to identify 
 
 </div>
 
-<div class="post" data-post-id="39130" data-author="Gorka" data-date="2019-03-12T01:55:35+00:00">
+<div class="post" data-post-id="39130" data-author="Gorka" data-date="2019-03-12T01:55:35+00:00" data-subject="Re: Changing Weapons">
 
 That's possibly a good idea... I could manually remove the opponent I am fighting from the opponents array. However it's not fool proof, there are potential problems to do with the timing of when the msdp OPPONENTS updates and other mobs of the same name in the existing room. I can see a scenario where the msdp updates in a timely fashion, and my manual update, removes incorrectly the second mob of the same name. 
 
@@ -66,7 +66,7 @@ In any case Teker, I still think even if it didn't solve the multi-fighting weap
 
 </div>
 
-<div class="post" data-post-id="39142" data-author="Roga" data-date="2019-03-26T02:54:14+00:00">
+<div class="post" data-post-id="39142" data-author="Roga" data-date="2019-03-26T02:54:14+00:00" data-subject="Re: Changing Weapons">
 
 I mostly do this manually with an automated assist.  In Mudlet I use the following to capture my current wielded weapon in VAR.wielded (Item 16 appears to stay constant for me as wielded):
 
@@ -109,7 +109,7 @@ Roga
 
 </div>
 
-<div class="post" data-post-id="39143" data-author="Gorka" data-date="2019-03-26T06:11:54+00:00">
+<div class="post" data-post-id="39143" data-author="Gorka" data-date="2019-03-26T06:11:54+00:00" data-subject="Re: Changing Weapons">
 
 I also use msdp to get my wielded item in the eqset from position 16, but the core of the issue is not that I don't know what I am wielding, but what I am fighting and at what stage - and if the best weapon is equipped for that.
 
@@ -131,7 +131,7 @@ end
 
 </div>
 
-<div class="post" data-post-id="39144" data-author="Roga" data-date="2019-03-26T10:49:54+00:00">
+<div class="post" data-post-id="39144" data-author="Roga" data-date="2019-03-26T10:49:54+00:00" data-subject="Re: Changing Weapons">
 
 Thanks Gorka.  Sometimes I get too focused on a particular solution.  Adding your method should capture the majority of those situations that I was missing.
 
@@ -139,7 +139,7 @@ Roga
 
 </div>
 
-<div class="post" data-post-id="39292" data-author="Gorka" data-date="2019-08-14T07:42:53+00:00">
+<div class="post" data-post-id="39292" data-author="Gorka" data-date="2019-08-14T07:42:53+00:00" data-subject="Re: Changing Weapons">
 
 Is the changing of the msdp.OPPONENTS variable to include an array of all opponents that are currently fighting you rather than just the engaged one, still something we can do?
 
@@ -147,7 +147,7 @@ Today for instance, I nearly died when 3 maug fighters engaged me a few seconds 
 
 </div>
 
-<div class="post" data-post-id="39358" data-author="Gorka" data-date="2020-01-22T08:47:55+00:00">
+<div class="post" data-post-id="39358" data-author="Gorka" data-date="2020-01-22T08:47:55+00:00" data-subject="Re: Changing Weapons">
 
 Last night I changed my weapon switching mechanics again in my sloth scripts. As I have lamented in the past, being 100% sure of what weapon you are wielding at any one point is not a straight forward exercise for a tank. Msdp updates too slow, if you splork something, often you will equip your sword after the splork when you want to keep your backstab weapon for the next mob. Squelching means you can loose track of what you were wielding if you try and track weapon movements in aliases... and there are far to many triggers to capture all the wearing and unwearing of your weapons and eqsets to not end up with a tangled mess. Add to this the different scenario's such as tanking, chopping, or letting another person stab... it's a very difficult thing to track your weapon for tanks.
 

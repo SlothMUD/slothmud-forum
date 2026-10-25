@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="10572" data-author="*juggleblood*" data-date="2006-02-05T20:51:33+00:00">
+<div class="post" data-post-id="10572" data-author="*juggleblood*" data-date="2006-02-05T20:51:33+00:00" data-subject="Singing and Stabbing?">
 
 You can't stab a wounded person "because they're too alert"
 
@@ -18,7 +18,7 @@ But a mob with full health doesn't notice the th/ba sneaking up it while singing
 
 </div>
 
-<div class="post" data-post-id="10573" data-author="*Splork*" data-date="2006-02-05T21:12:47+00:00">
+<div class="post" data-post-id="10573" data-author="*Splork*" data-date="2006-02-05T21:12:47+00:00" data-subject="">
 
 Using skills while singing is one of the best aspects of being a bard, this will not change. There are also songs which help increase the power of several skills one way or another, such as Ogham's, brothers, etc
 
@@ -28,7 +28,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="10574" data-author="Tetsulunathaya" data-date="2006-02-05T21:22:35+00:00">
+<div class="post" data-post-id="10574" data-author="Tetsulunathaya" data-date="2006-02-05T21:22:35+00:00" data-subject="">
 
 Im not completely sure what the purpose of your post is here?
 
@@ -38,7 +38,7 @@ The other thing I can see that you might be complaining about is 'realism' of mo
 
 </div>
 
-<div class="post" data-post-id="10580" data-author="Avatar" data-date="2006-02-06T17:26:21+00:00">
+<div class="post" data-post-id="10580" data-author="Avatar" data-date="2006-02-06T17:26:21+00:00" data-subject="sing stab">
 
 I don't know why I'm even replying, but each of those other options would be easy to explain away.  Sanc -> dark cloak.  Armor -> minor silence cantrip would take care of it.  Other people present -> sneaking is easier, not harder.
 
@@ -46,7 +46,7 @@ In my opinion, I just think of the bard as singing along to Metallica in his hea
 
 </div>
 
-<div class="post" data-post-id="10582" data-author="Tetsulunathaya" data-date="2006-02-06T17:51:40+00:00">
+<div class="post" data-post-id="10582" data-author="Tetsulunathaya" data-date="2006-02-06T17:51:40+00:00" data-subject="">
 
 I agree avatar, and only mentioned such to show that the suggestion (was there even a suggestion?) was lacking in completeness. 
 
@@ -56,7 +56,7 @@ I think the current system is fine as it is. :)
 
 </div>
 
-<div class="post" data-post-id="10586" data-author="Leaf" data-date="2006-02-06T19:39:12+00:00">
+<div class="post" data-post-id="10586" data-author="Leaf" data-date="2006-02-06T19:39:12+00:00" data-subject="">
 
 On this Topic I do have a Thief/bard/cleric/monk for sell if the price is right.
 
@@ -70,13 +70,13 @@ PS.  8 MORE POST FOR [b:21bm0y9f]500[/b:21bm0y9f]!!!
 
 </div>
 
-<div class="post" data-post-id="10588" data-author="Autolycos" data-date="2006-02-06T19:46:50+00:00">
+<div class="post" data-post-id="10588" data-author="Autolycos" data-date="2006-02-06T19:46:50+00:00" data-subject="">
 
 psssst Will...stfu!
 
 </div>
 
-<div class="post" data-post-id="10590" data-author="Leaf" data-date="2006-02-06T20:00:35+00:00">
+<div class="post" data-post-id="10590" data-author="Leaf" data-date="2006-02-06T20:00:35+00:00" data-subject="">
 
 BRING IT BITCH
 
@@ -84,13 +84,13 @@ BRING IT BITCH
 
 </div>
 
-<div class="post" data-post-id="10592" data-author="Autolycos" data-date="2006-02-06T20:15:18+00:00">
+<div class="post" data-post-id="10592" data-author="Autolycos" data-date="2006-02-06T20:15:18+00:00" data-subject="">
 
 me bring it?  if your present, the bitch has already been brought.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10601" data-author="Shazuko" data-date="2006-02-07T14:58:52+00:00">
+<div class="post" data-post-id="10601" data-author="Shazuko" data-date="2006-02-07T14:58:52+00:00" data-subject="eating and spellcasting">
 
 *munch*utters the words*munch*crunch* 'fire*chomp*wind'
 

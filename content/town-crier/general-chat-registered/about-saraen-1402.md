@@ -10,7 +10,7 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="8201" data-author="DarkShaman" data-date="2005-08-09T17:42:33+00:00">
+<div class="post" data-post-id="8201" data-author="DarkShaman" data-date="2005-08-09T17:42:33+00:00" data-subject="About Saraen">
 
 :evil:  yeah....
 
@@ -42,7 +42,7 @@ P 4: read P 3 again
 
 </div>
 
-<div class="post" data-post-id="8202" data-author="13" data-date="2005-08-09T17:52:49+00:00">
+<div class="post" data-post-id="8202" data-author="13" data-date="2005-08-09T17:52:49+00:00" data-subject="">
 
 dude..
 
@@ -50,7 +50,7 @@ dude..
 
 </div>
 
-<div class="post" data-post-id="8206" data-author="Slipknot" data-date="2005-08-09T18:39:40+00:00">
+<div class="post" data-post-id="8206" data-author="Slipknot" data-date="2005-08-09T18:39:40+00:00" data-subject="">
 
 [img:30isbwlr]http://forumspam.articblue.nl/user_related/stfu/images/0417.jpg[/img:30isbwlr]
 
@@ -58,13 +58,13 @@ I think it's more classy when Yoda says.
 
 </div>
 
-<div class="post" data-post-id="8209" data-author="Krok" data-date="2005-08-10T06:04:17+00:00">
+<div class="post" data-post-id="8209" data-author="Krok" data-date="2005-08-10T06:04:17+00:00" data-subject="">
 
 Hrm, Saraen, do you really think that's an excuse? I guess noone will forget that, esp. after silly words about "you just pissed me off, that's why I did that". Amen.
 
 </div>
 
-<div class="post" data-post-id="8211" data-author="12345" data-date="2005-08-10T12:04:10+00:00">
+<div class="post" data-post-id="8211" data-author="12345" data-date="2005-08-10T12:04:10+00:00" data-subject="Re: About Saraen">
 
 2: Autolooting from a corpse in a group on either BH or SS with Firebrand.
 
@@ -80,7 +80,7 @@ If Saraen ends up permasolo or unusable, that seems like a suitable punishment t
 
 </div>
 
-<div class="post" data-post-id="8213" data-author="Pine" data-date="2005-08-10T13:09:56+00:00">
+<div class="post" data-post-id="8213" data-author="Pine" data-date="2005-08-10T13:09:56+00:00" data-subject="">
 
 How feasible would a group looting command  be that overrides individual autoloot commands?
 
@@ -104,19 +104,19 @@ Goes back to individual autolooting settings
 
 </div>
 
-<div class="post" data-post-id="8214" data-author="DarkShaman" data-date="2005-08-10T13:34:24+00:00">
+<div class="post" data-post-id="8214" data-author="DarkShaman" data-date="2005-08-10T13:34:24+00:00" data-subject="re: Pine">
 
 Is that an accusation or a suggestion..... Anytime i autolooted i had autoloot on... Why would I waste time adding advanced triggers that just essential turn autoloot back on..... I can see it now ~Yes my puppets, fall into my trap.... you think i have turned off autoloot but i really havent, For i have advanced triggers that autoloot ANYWAY..... AH HA HA HA HA HA HAAAA!!!! .... I mean really
 
 </div>
 
-<div class="post" data-post-id="8215" data-author="Pine" data-date="2005-08-10T13:39:35+00:00">
+<div class="post" data-post-id="8215" data-author="Pine" data-date="2005-08-10T13:39:35+00:00" data-subject="">
 
 Go away.  Saraen is already not welcome in groups, so why would this comment be directed towards you.
 
 </div>
 
-<div class="post" data-post-id="8216" data-author="DarkShaman" data-date="2005-08-10T13:43:26+00:00">
+<div class="post" data-post-id="8216" data-author="DarkShaman" data-date="2005-08-10T13:43:26+00:00" data-subject="re: Krok">
 
 Hrm, Saraen, do you really think that's an excuse? I guess noone will forget that, esp. after silly words about "you just pissed me off, that's why I did that". Amen.[/quote:3tpzyi00]
 
@@ -130,7 +130,7 @@ and no more starting fights for no reason....  :idea:
 
 </div>
 
-<div class="post" data-post-id="8217" data-author="DarkShaman" data-date="2005-08-10T13:46:59+00:00">
+<div class="post" data-post-id="8217" data-author="DarkShaman" data-date="2005-08-10T13:46:59+00:00" data-subject="re: Pine.....   again">
 
 Go away.  Saraen is already not welcome in groups, so why would this comment be directed towards you.[/quote:2s1t5z46]
 
@@ -140,13 +140,13 @@ Go away.  Saraen is already not welcome in groups, so why would this comment be 
 
 </div>
 
-<div class="post" data-post-id="8218" data-author="12345" data-date="2005-08-10T13:49:43+00:00">
+<div class="post" data-post-id="8218" data-author="12345" data-date="2005-08-10T13:49:43+00:00" data-subject="">
 
 By your logic, if you rob my neighbor, I shouldn't be concerned about you robbing me.  You seem to think this is between you and those people, and it's not.  You demonstrated in more than one group that you cannot be trusted.  Hense, we do not trust you... simple.
 
 </div>
 
-<div class="post" data-post-id="8219" data-author="DarkShaman" data-date="2005-08-10T13:50:58+00:00">
+<div class="post" data-post-id="8219" data-author="DarkShaman" data-date="2005-08-10T13:50:58+00:00" data-subject="re: pine pine pine">
 
 [http://www.jordansplace.net/homepage/shutup.jpg](http://www.jordansplace.net/homepage/shutup.jpg)[/quote:3mulffa5]
 
@@ -156,7 +156,7 @@ And why the hell not this goes out to you to 13
 
 </div>
 
-<div class="post" data-post-id="8220" data-author="DarkShaman" data-date="2005-08-10T13:56:17+00:00">
+<div class="post" data-post-id="8220" data-author="DarkShaman" data-date="2005-08-10T13:56:17+00:00" data-subject="re: 12345">
 
 By your logic, if you rob my neighbor, I shouldn't be concerned about you robbing me.  You seem to think this is between you and those people, and it's not.  You demonstrated in more than one group that you cannot be trusted.  Hense, we do not trust you... simple.[/quote:2owuu8i7]
 
@@ -164,13 +164,13 @@ Yes i do understand that but again that isnt my point. Like i said its the lies 
 
 </div>
 
-<div class="post" data-post-id="8221" data-author="12345" data-date="2005-08-10T14:06:17+00:00">
+<div class="post" data-post-id="8221" data-author="12345" data-date="2005-08-10T14:06:17+00:00" data-subject="">
 
 I think that's called karma.  If you lie, cheat and steal to get ahead, you can expect people to lie, cheat and steal back.  The fact this pisses you off seems rather ironic considering you're basically asking us not to care.  Where I'm from, turnabout is fair play.  Deal with it.
 
 </div>
 
-<div class="post" data-post-id="8222" data-author="Alberich" data-date="2005-08-10T14:09:48+00:00">
+<div class="post" data-post-id="8222" data-author="Alberich" data-date="2005-08-10T14:09:48+00:00" data-subject="">
 
 "I was a dick"
 
@@ -182,7 +182,7 @@ you're out of your mind.
 
 </div>
 
-<div class="post" data-post-id="8223" data-author="DarkShaman" data-date="2005-08-10T14:24:28+00:00">
+<div class="post" data-post-id="8223" data-author="DarkShaman" data-date="2005-08-10T14:24:28+00:00" data-subject="">
 
 Im not asking you not to care.  There you go again with false accusations, i havent been lying about it and i havent been stealing except for the one corpse loot back in VK when i first started... and what none of you realize is that there were plenty of other people doing crooked shit way back when i first started, i dont remember who but there were these newbs on VK that pretty much abused me and took all my stuff for pstealing as a ferret, again i had no clue of the rule at that time but i know it was really screwed up... How can you have a thief class with a steal skill and then outlaw the very idea??? Either the rules need to be revised or steal needs to be removed all together. 
 
@@ -202,7 +202,7 @@ And by the way read rule 3. You know how many times ive been p-killed with no ju
 
 </div>
 
-<div class="post" data-post-id="8224" data-author="12345" data-date="2005-08-10T14:48:40+00:00">
+<div class="post" data-post-id="8224" data-author="12345" data-date="2005-08-10T14:48:40+00:00" data-subject="">
 
 There's that karma thing again... Let me be more blunt.
 
@@ -214,7 +214,7 @@ It seems to me that you are unable to deal with the tactics that you use yoursel
 
 </div>
 
-<div class="post" data-post-id="8225" data-author="blackmore" data-date="2005-08-10T14:52:55+00:00">
+<div class="post" data-post-id="8225" data-author="blackmore" data-date="2005-08-10T14:52:55+00:00" data-subject="">
 
 You're brain is so screwed up, it's not even worth trying to debate the point.  It's pretty damn funny to read though.  I'm just trying to relate it to RL, and it gets even funnier.
 
@@ -226,13 +226,13 @@ I only charged the mound!  I don't see why the other 24 players on the team came
 
 </div>
 
-<div class="post" data-post-id="8226" data-author="DarkShaman" data-date="2005-08-10T15:39:03+00:00">
+<div class="post" data-post-id="8226" data-author="DarkShaman" data-date="2005-08-10T15:39:03+00:00" data-subject="OXOXOXO..... NOT!!">
 
 WELL YOU WIN IM TIRED OF THIS SO READ MY NEXT POST AND TELL ME WHAT YOU THINK....
 
 </div>
 
-<div class="post" data-post-id="8252" data-author="Avatar" data-date="2005-08-10T20:18:45+00:00">
+<div class="post" data-post-id="8252" data-author="Avatar" data-date="2005-08-10T20:18:45+00:00" data-subject="Annoyed">
 
 You're reasoning is so far below normal that I doubt you're an adult.
 
@@ -242,7 +242,7 @@ Secondly, the rules are guidelines from the immortals here.  Most conflict not c
 
 </div>
 
-<div class="post" data-post-id="8256" data-author="13" data-date="2005-08-11T11:43:34+00:00">
+<div class="post" data-post-id="8256" data-author="13" data-date="2005-08-11T11:43:34+00:00" data-subject="">
 
 Oh this cat actually stole a pop from groups he was in ?
 
@@ -250,7 +250,7 @@ In this case I think I can go into Super-Swine mode.
 
 </div>
 
-<div class="post" data-post-id="8259" data-author="12345" data-date="2005-08-11T12:49:43+00:00">
+<div class="post" data-post-id="8259" data-author="12345" data-date="2005-08-11T12:49:43+00:00" data-subject="">
 
 Smirk... Do a search on the forums for Saraen and you'll find most of the stuff he's talking about.  Including a log of him killing a level 10 mage on Valk with a treant, Autolycos shocking after Firebrand was recalled while the group was killing Orcus, and Gnu's group popping sleeves from the earth elemental just to have Saraen keep them, leave the group and rent.  It's safe to say a few folks are pissed off.
 
@@ -268,7 +268,7 @@ Gnu's group:
 
 </div>
 
-<div class="post" data-post-id="8263" data-author="13" data-date="2005-08-11T16:00:51+00:00">
+<div class="post" data-post-id="8263" data-author="13" data-date="2005-08-11T16:00:51+00:00" data-subject="">
 
 Saraen is dead!
 

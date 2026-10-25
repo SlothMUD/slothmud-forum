@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="493" data-author="Blaster" data-date="2004-06-03T03:00:07+00:00">
+<div class="post" data-post-id="493" data-author="Blaster" data-date="2004-06-03T03:00:07+00:00" data-subject="New trivia system added">
 
 A new trivia system was added with the intentions of having sloth trivia contests. You should see the block for the new system on the right side just under the voting both on the home page. 
 
@@ -26,7 +26,7 @@ We reserve the right to add new rules as we see fit.
 
 </div>
 
-<div class="post" data-post-id="504" data-author="HelxenKitamelorif" data-date="2004-06-03T13:55:17+00:00">
+<div class="post" data-post-id="504" data-author="HelxenKitamelorif" data-date="2004-06-03T13:55:17+00:00" data-subject="some ketchups">
 
 Question #2
 
@@ -50,19 +50,19 @@ But i like the idea. Really
 
 </div>
 
-<div class="post" data-post-id="506" data-author="Weasel" data-date="2004-06-03T14:17:05+00:00">
+<div class="post" data-post-id="506" data-author="Weasel" data-date="2004-06-03T14:17:05+00:00" data-subject="">
 
 err.. I actually thought that the raft was the hollow corpse that pops in crematory, not the one Helxen mentions.. I don't know who wrote that area though heh.
 
 </div>
 
-<div class="post" data-post-id="507" data-author="Weasel" data-date="2004-06-03T14:18:29+00:00">
+<div class="post" data-post-id="507" data-author="Weasel" data-date="2004-06-03T14:18:29+00:00" data-subject="">
 
 Neat idea btw (trivia quiz) ..just shows how little I know.. 3/10  :shock:
 
 </div>
 
-<div class="post" data-post-id="508" data-author="Drauk" data-date="2004-06-03T14:55:34+00:00">
+<div class="post" data-post-id="508" data-author="Drauk" data-date="2004-06-03T14:55:34+00:00" data-subject="Re: some ketchups">
 
 Question #3
 
@@ -74,7 +74,7 @@ MH (both oroginal and new) isn't Blasters'a area.
 
 </div>
 
-<div class="post" data-post-id="516" data-author="Blaster" data-date="2004-06-03T19:12:51+00:00">
+<div class="post" data-post-id="516" data-author="Blaster" data-date="2004-06-03T19:12:51+00:00" data-subject="">
 
 Just because there may be more of something in the game, you need to figure out what answer best fits the question.  Trust me, all questions have answers that are correct, even if it means none of the above.  Some are just a little more tricky then others.
 

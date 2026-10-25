@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="8973" data-author="bubba" data-date="2005-10-07T20:20:16+00:00">
+<div class="post" data-post-id="8973" data-author="bubba" data-date="2005-10-07T20:20:16+00:00" data-subject="possible bug with cursed equipment?">
 
 I seem to be having a problem maintaining the curse spell on various parts of my equipment.  I haven't been able to figure out exactly when my equipment loses its curse but it appears it may only be happening to my equipment that has a clasp attached to it.  Here are some log exceprts:
 
@@ -86,7 +86,7 @@ Notice my helmet is no longer cursed.
 
 </div>
 
-<div class="post" data-post-id="8974" data-author="13" data-date="2005-10-07T20:22:10+00:00">
+<div class="post" data-post-id="8974" data-author="13" data-date="2005-10-07T20:22:10+00:00" data-subject="">
 
 curse the clasp and then the item then attach then wear and youll be gravy bub.
 

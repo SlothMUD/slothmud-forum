@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="36391" data-author="*teker*" data-date="2015-12-29T15:55:30+00:00">
+<div class="post" data-post-id="36391" data-author="*teker*" data-date="2015-12-29T15:55:30+00:00" data-subject="Changelog 2015-12-29">
 
 Some minor bugfixes:
 
@@ -42,7 +42,7 @@ The code that prevents you from leveling secondary classes higher than prime is 
 
 </div>
 
-<div class="post" data-post-id="36392" data-author="Dragoth" data-date="2015-12-29T16:13:37+00:00">
+<div class="post" data-post-id="36392" data-author="Dragoth" data-date="2015-12-29T16:13:37+00:00" data-subject="Re: Changelog 2015-12-29">
 
 <901hp 628ma 369mv>save
 
@@ -64,7 +64,7 @@ Connected to host slothmud.org
 
 </div>
 
-<div class="post" data-post-id="36395" data-author="*teker*" data-date="2015-12-30T02:58:59+00:00">
+<div class="post" data-post-id="36395" data-author="*teker*" data-date="2015-12-30T02:58:59+00:00" data-subject="Re: Changelog 2015-12-29">
 
 Was that during my test this morning that caused an infinite loop, or something else?
 
@@ -72,7 +72,7 @@ I forgot to mention that I also fixed the maneuver code so that change messages 
 
 </div>
 
-<div class="post" data-post-id="36397" data-author="*juggleblood*" data-date="2015-12-30T15:51:16+00:00">
+<div class="post" data-post-id="36397" data-author="*juggleblood*" data-date="2015-12-30T15:51:16+00:00" data-subject="Re: Changelog 2015-12-29">
 
 Regarding the bleeds, I have seen a few recently. It always seems to be after I've been in the pit and handled a lot of coliseum potions. I see a class abbrev on an empty line, usually bard, i.e.
 
@@ -80,7 +80,7 @@ Ba
 
 </div>
 
-<div class="post" data-post-id="36399" data-author="Yasik" data-date="2015-12-31T09:22:27+00:00">
+<div class="post" data-post-id="36399" data-author="Yasik" data-date="2015-12-31T09:22:27+00:00" data-subject="Re: Changelog 2015-12-29">
 
 > ***teker* wrote:**
 > Some minor bugfixes:
@@ -169,7 +169,7 @@ The mob is ethereal. I guess its working now, thanks for fix.
 
 </div>
 
-<div class="post" data-post-id="36403" data-author="Teron" data-date="2016-01-01T09:08:30+00:00">
+<div class="post" data-post-id="36403" data-author="Teron" data-date="2016-01-01T09:08:30+00:00" data-subject="Re: Changelog 2015-12-29">
 
 You can parry ethers w/o a hammer now:
 
@@ -187,13 +187,13 @@ Noticed it earlier on an ether dragon too.
 
 </div>
 
-<div class="post" data-post-id="36405" data-author="*teker*" data-date="2016-01-04T03:05:07+00:00">
+<div class="post" data-post-id="36405" data-author="*teker*" data-date="2016-01-04T03:05:07+00:00" data-subject="Re: Changelog 2015-12-29">
 
 The fix will be in the next build.  Enjoy the bonus until then!
 
 </div>
 
-<div class="post" data-post-id="36464" data-author="*teker*" data-date="2016-01-13T20:43:34+00:00">
+<div class="post" data-post-id="36464" data-author="*teker*" data-date="2016-01-13T20:43:34+00:00" data-subject="Re: Changelog 2015-12-29">
 
 Today's reboot should have fixed the bleed caused by MAX-attribute potions wearing off.  They should display the same message that plus-attribute potions display.  This was the one JB mentioned above which would print out a class string like "Ba" or "Dr" on a blank line.
 

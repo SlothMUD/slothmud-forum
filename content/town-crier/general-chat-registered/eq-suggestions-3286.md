@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30247" data-author="*juggleblood*" data-date="2009-11-08T13:34:04+00:00">
+<div class="post" data-post-id="30247" data-author="*juggleblood*" data-date="2009-11-08T13:34:04+00:00" data-subject="eq suggestions">
 
 I have a project underway and am looking for a few eq suggestions.
 

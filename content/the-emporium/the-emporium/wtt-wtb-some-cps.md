@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="905" data-author="Gul" data-date="2004-07-02T00:49:28+00:00">
+<div class="post" data-post-id="905" data-author="Gul" data-date="2004-07-02T00:49:28+00:00" data-subject="WTT/WTB Some cps....">
 
 Here is what i need...
 

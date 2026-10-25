@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="38731" data-author="Gorka" data-date="2018-04-13T11:16:09+00:00">
+<div class="post" data-post-id="38731" data-author="Gorka" data-date="2018-04-13T11:16:09+00:00" data-subject="Telegram blocked in Russia">
 
 <LINK_TEXT text="https://www.independent.co.uk/life-styl ... 02541.html">https://www.independent.co.uk/life-style/gadgets-and-tech/news/telegram-down-russia-blocked-not-working-offline-encryption-messaging-a8302541.html</LINK_TEXT>
 
@@ -22,7 +22,7 @@ So what now for sloth telegram?
 
 </div>
 
-<div class="post" data-post-id="38733" data-author="Teron" data-date="2018-04-14T07:49:33+00:00">
+<div class="post" data-post-id="38733" data-author="Teron" data-date="2018-04-14T07:49:33+00:00" data-subject="Re: Telegram blocked in Russia">
 
 Gorka, you are forgetting one thing.
 

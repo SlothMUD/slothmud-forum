@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9066" data-author="Leaf" data-date="2005-10-17T13:58:04+00:00">
+<div class="post" data-post-id="9066" data-author="Leaf" data-date="2005-10-17T13:58:04+00:00" data-subject="WTB Dex Light">
 
 Looking for Star or Orb for Dex Light.
 

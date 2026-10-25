@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="13520" data-author="Medios" data-date="2006-07-20T21:13:15+00:00">
+<div class="post" data-post-id="13520" data-author="Medios" data-date="2006-07-20T21:13:15+00:00" data-subject="Fight the Good Fight!">
 
 As I was reading the crier today I responded to the smac post.  Refreshed the page and noticed my signature, the same warcry that I use with Medios.  I began thinking about the old motto and what it means on sloth.  Heres a brief history of my clan.
 
@@ -26,7 +26,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13522" data-author="Leaf" data-date="2006-07-20T21:31:22+00:00">
+<div class="post" data-post-id="13522" data-author="Leaf" data-date="2006-07-20T21:31:22+00:00" data-subject="">
 
 Yes u also met me there at the computer labs with ur White Man Afro!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 122
 ---
 
-<div class="post" data-post-id="23015" data-author="jezer" data-date="2008-03-01T05:37:12+00:00">
+<div class="post" data-post-id="23015" data-author="jezer" data-date="2008-03-01T05:37:12+00:00" data-subject="Grouping">
 
 Jake asked the question on gossip about people's opinions on grouping etc... 
 
@@ -24,7 +24,7 @@ Lots of people had opinions... And there are probably a whole bunch more. I've g
 
 </div>
 
-<div class="post" data-post-id="23016" data-author="jezer" data-date="2008-03-01T07:55:35+00:00">
+<div class="post" data-post-id="23016" data-author="jezer" data-date="2008-03-01T07:55:35+00:00" data-subject="">
 
 *The changes to castle hindered the progress of new leaders
 
@@ -64,7 +64,7 @@ The best groups I have been in, the memorable ones... have all been because of t
 
 </div>
 
-<div class="post" data-post-id="23017" data-author="Rynquald" data-date="2008-03-01T10:02:33+00:00">
+<div class="post" data-post-id="23017" data-author="Rynquald" data-date="2008-03-01T10:02:33+00:00" data-subject="">
 
 Some of the best experiences I've had grouping have been in times where a group was running hard on the last fumes of mana, where everyone's, including the low level character's, healing (or blasting, or what have you) counted.
 
@@ -80,7 +80,7 @@ Probably an unworkable idea on levels I'm not seeing at this time of night, but 
 
 </div>
 
-<div class="post" data-post-id="23018" data-author="jezer" data-date="2008-03-01T11:18:40+00:00">
+<div class="post" data-post-id="23018" data-author="jezer" data-date="2008-03-01T11:18:40+00:00" data-subject="">
 
 I think that would be exciting too...! But I really hate dying  :cry:  I mean really hate dying... 
 
@@ -92,7 +92,7 @@ Kind wish I could not suffer xp loss for a week, and just explore and learn thin
 
 </div>
 
-<div class="post" data-post-id="23019" data-author="Tap" data-date="2008-03-01T11:38:47+00:00">
+<div class="post" data-post-id="23019" data-author="Tap" data-date="2008-03-01T11:38:47+00:00" data-subject="">
 
 Things were also exciting when psteal was ingame. When there aren't groups or group that are closed, solo'ing can, at time, be boring/frustrating. However, pthievery always seemed to keep people on their toes and gave
 
@@ -100,7 +100,7 @@ the soloers and groups alike something to keep their eye out for.
 
 </div>
 
-<div class="post" data-post-id="23020" data-author="Rynquald" data-date="2008-03-01T11:48:26+00:00">
+<div class="post" data-post-id="23020" data-author="Rynquald" data-date="2008-03-01T11:48:26+00:00" data-subject="">
 
 Ouch, didn't know you shocked at the bear, sorry I was afk or I would have gotten you.
 
@@ -112,7 +112,7 @@ And I really don't mean to undermine your point, but if you enjoy exploring and 
 
 </div>
 
-<div class="post" data-post-id="23021" data-author="Rynquald" data-date="2008-03-01T11:55:51+00:00">
+<div class="post" data-post-id="23021" data-author="Rynquald" data-date="2008-03-01T11:55:51+00:00" data-subject="">
 
 Psteal was a good way to get some pvp going, pitty you guys were always so weak  :twisted: 
 
@@ -122,7 +122,7 @@ Yes I realize Sloth isn't a pkill mud, and I would never suggest turning it into
 
 </div>
 
-<div class="post" data-post-id="23022" data-author="jezer" data-date="2008-03-01T12:02:41+00:00">
+<div class="post" data-post-id="23022" data-author="jezer" data-date="2008-03-01T12:02:41+00:00" data-subject="">
 
 Things were also exciting when psteal was ingame. When there aren't groups or group that are closed, solo'ing can, at time, be boring/frustrating. However, pthievery always seemed to keep people on their toes and gave
 
@@ -134,7 +134,7 @@ And Ryn, don't sweat it, the snake mob in dark chasm devours your corpse causing
 
 </div>
 
-<div class="post" data-post-id="23024" data-author="firebrand" data-date="2008-03-01T14:44:51+00:00">
+<div class="post" data-post-id="23024" data-author="firebrand" data-date="2008-03-01T14:44:51+00:00" data-subject="">
 
 imho, a tiny fraction of people don't like to get into a group due to the lag coded into actions such as bash, trip, RESCUE and several others actions i know i have forgotten to list or simply don't know because i mainly play an oldskewl wa prime.  ppl group to gain xps and perhaps eq, drachma, honor - whatever the main purpose of the group is - not to die/shock/corpse/lose lev or xp because the tank is lagged.  when a groupie is getting attacked and sings for a rescue, there should not be a bloody lag that winds up getting groupie dead instead of actually rescued!  yes i know we have second wind but second wind should work for when you are running and run out of moves instead of counteracting the lag coded into what are supposed to be beneficial actions.  honestly i wish there were some other checks and balances to some things rather than the worn and WAY overused lag.  and yeah, my thoughts are all over the page and slightly off topic, so flame me if ya will, pick me apart - whatever, but i am throwing my two cents out there as food for thought - or at least spam to take up space on this thread.
 
@@ -142,13 +142,13 @@ imho, a tiny fraction of people don't like to get into a group due to the lag co
 
 </div>
 
-<div class="post" data-post-id="23026" data-author="Medios" data-date="2008-03-01T16:09:36+00:00">
+<div class="post" data-post-id="23026" data-author="Medios" data-date="2008-03-01T16:09:36+00:00" data-subject="">
 
 I would hope that my groups are exciting and hard to bot in.  I don't let ppl hog mana and I try to pay attention to whos blasting/debuffing.  I also run the group until all the mana is gone.  So if your sitting on mana you cause players to die.  Then I let them tongue-lash you for you being a scrub.  The free market usually works itself out, even in sloth.  If you bot and piss a bunch of ppl off you will get a reputation and not be welcome to join.  I have several ideas about getting more small vk type groups running and I am going to talk with a few imms about implementing them.
 
 </div>
 
-<div class="post" data-post-id="23027" data-author="Widow" data-date="2008-03-01T17:15:11+00:00">
+<div class="post" data-post-id="23027" data-author="Widow" data-date="2008-03-01T17:15:11+00:00" data-subject="">
 
 One of the concerns about groups I routinely hear is botting and 'there's nothing for me to do'. I gotta say, that's bunch of horsepucky. There isn't a classo out there that can't kick, bash, blast, sing, heal, or whatever. On Every mob. Just because it isn't the most damaging thing you can do, doesn't mean you shouldn't do it. Hell, I've kicked Tiamat plenty of times and I've got bard 4 with 16 str!
 
@@ -158,7 +158,7 @@ It would really be no headache at all to code a command where the person being f
 
 </div>
 
-<div class="post" data-post-id="23028" data-author="Toxis" data-date="2008-03-01T20:00:47+00:00">
+<div class="post" data-post-id="23028" data-author="Toxis" data-date="2008-03-01T20:00:47+00:00" data-subject="">
 
 There are several things I have noticed that makes grouping a big pain.  If people just worked harder at helping the group, they'd realize they'd get xp two or three times faster.  I once did an example with a group, after everyone was basically botting... I told everyone to blast and pay attention and the mob died twice as fast.  
 
@@ -216,7 +216,7 @@ I asked Rodek if he was there and wanted to tank but he was afk.  I guess Nimski
 
 </div>
 
-<div class="post" data-post-id="23030" data-author="Rynquald" data-date="2008-03-01T22:39:54+00:00">
+<div class="post" data-post-id="23030" data-author="Rynquald" data-date="2008-03-01T22:39:54+00:00" data-subject="">
 
 Just thinking from Brad's post...it would be nice if a mob could equally focus on fighting more than one or two people. A group of casters running without prots and all taking a hit or two a round would be pretty fun, and you can be sure people aren't going to bot when they're actively getting beat up.
 
@@ -232,7 +232,7 @@ Exactly.
 
 </div>
 
-<div class="post" data-post-id="23031" data-author="Tap" data-date="2008-03-02T00:06:24+00:00">
+<div class="post" data-post-id="23031" data-author="Tap" data-date="2008-03-02T00:06:24+00:00" data-subject="">
 
 Jezer wrote:[quote:br57c6r7]That disgusts me. You like pthiefing because you have everything to gain and nothing to loose... and you think the misery of other's is a good time... you can not get any lower. [/quote:br57c6r7]
 
@@ -240,7 +240,7 @@ Whoa there, kinda harsh aren't you? Who said misery of other's is a good time. I
 
 </div>
 
-<div class="post" data-post-id="23032" data-author="Rynquald" data-date="2008-03-02T00:18:05+00:00">
+<div class="post" data-post-id="23032" data-author="Rynquald" data-date="2008-03-02T00:18:05+00:00" data-subject="">
 
 it's just the pvp for something different. We don't have enough off-port tourneys, so fault me.[/quote:sm8zpbdf]
 
@@ -248,7 +248,7 @@ Dear God. I agree with something Tap said.
 
 </div>
 
-<div class="post" data-post-id="23033" data-author="jezer" data-date="2008-03-02T01:29:19+00:00">
+<div class="post" data-post-id="23033" data-author="jezer" data-date="2008-03-02T01:29:19+00:00" data-subject="">
 
 I still think more has to be done to remove the group bias to warriors and clerics. 
 
@@ -266,7 +266,7 @@ Without clerics and warriors, groups are far too impractical, and 2 man in an xp
 
 </div>
 
-<div class="post" data-post-id="23034" data-author="jezer" data-date="2008-03-02T01:45:26+00:00">
+<div class="post" data-post-id="23034" data-author="jezer" data-date="2008-03-02T01:45:26+00:00" data-subject="">
 
 6-8 Man Group vs Tiamat
 
@@ -280,7 +280,7 @@ Why Group unless there are good warriors and clerics? I for one don't even bothe
 
 </div>
 
-<div class="post" data-post-id="23035" data-author="bellafea" data-date="2008-03-02T02:41:57+00:00">
+<div class="post" data-post-id="23035" data-author="bellafea" data-date="2008-03-02T02:41:57+00:00" data-subject="">
 
 > **Toxis wrote:**
 > I bet we could get Afea to tank :) -Toxis
@@ -309,7 +309,7 @@ botters find themselves at the gates or dead and wonder why!
 
 </div>
 
-<div class="post" data-post-id="23037" data-author="jezer" data-date="2008-03-02T03:05:45+00:00">
+<div class="post" data-post-id="23037" data-author="jezer" data-date="2008-03-02T03:05:45+00:00" data-subject="">
 
 Another small idea, thanks to Afea...
 
@@ -321,7 +321,7 @@ PS I apologise if some of my posts sounds whiny... its not my intent. I am tryin
 
 </div>
 
-<div class="post" data-post-id="23038" data-author="Rynquald" data-date="2008-03-02T03:22:40+00:00">
+<div class="post" data-post-id="23038" data-author="Rynquald" data-date="2008-03-02T03:22:40+00:00" data-subject="">
 
 Nervous xp rocks, and a group of shifted druids chops pretty fast.
 
@@ -331,19 +331,19 @@ But it would be fun to get to shift in groups sometimes.
 
 </div>
 
-<div class="post" data-post-id="23039" data-author="jezer" data-date="2008-03-02T03:30:17+00:00">
+<div class="post" data-post-id="23039" data-author="jezer" data-date="2008-03-02T03:30:17+00:00" data-subject="">
 
 Haha Ryn, I love it how diplomatic you are... no one is ever wrong, and no one is really right, but they all make good points!  :twisted: That's an awesome quality!
 
 </div>
 
-<div class="post" data-post-id="23040" data-author="Rynquald" data-date="2008-03-02T03:51:05+00:00">
+<div class="post" data-post-id="23040" data-author="Rynquald" data-date="2008-03-02T03:51:05+00:00" data-subject="">
 
 Hehe, thanks :)
 
 </div>
 
-<div class="post" data-post-id="23041" data-author="bellafea" data-date="2008-03-02T04:23:08+00:00">
+<div class="post" data-post-id="23041" data-author="bellafea" data-date="2008-03-02T04:23:08+00:00" data-subject="">
 
 Another small idea, thanks to Afea...
 
@@ -353,7 +353,7 @@ we do, you just have to be sleeping to get the full effect of it, dreams of the 
 
 </div>
 
-<div class="post" data-post-id="23042" data-author="jezer" data-date="2008-03-02T04:50:11+00:00">
+<div class="post" data-post-id="23042" data-author="jezer" data-date="2008-03-02T04:50:11+00:00" data-subject="">
 
 Heh, Regening mana while I'm sleeping shifted... is something I try and keep to a minimum...  :wink:
 
@@ -365,7 +365,7 @@ Would a song like that lead to more bard/druid groups? I'd be keen.
 
 </div>
 
-<div class="post" data-post-id="23053" data-author="12345" data-date="2008-03-03T06:01:11+00:00">
+<div class="post" data-post-id="23053" data-author="12345" data-date="2008-03-03T06:01:11+00:00" data-subject="">
 
 I'm having trouble believing this is even a topic.
 
@@ -383,7 +383,7 @@ Hm... This isn't where I parked my car...
 
 </div>
 
-<div class="post" data-post-id="23055" data-author="jezer" data-date="2008-03-03T06:11:57+00:00">
+<div class="post" data-post-id="23055" data-author="jezer" data-date="2008-03-03T06:11:57+00:00" data-subject="">
 
 Bit!  :shock: 
 
@@ -397,7 +397,7 @@ Medios reckon's he has some good ideas to help... would u post them Mike?
 
 </div>
 
-<div class="post" data-post-id="23056" data-author="12345" data-date="2008-03-03T06:24:35+00:00">
+<div class="post" data-post-id="23056" data-author="12345" data-date="2008-03-03T06:24:35+00:00" data-subject="">
 
 Running 2x40 groups is rough because of Lyme.  All the Tards get sucked away and putting something together with what's left is kinda hard.  The castle was a nice place to hang out during those times for a while, but once Geber and Vicar got changed into Golden Gloves champs, that came to an end pretty quick.
 
@@ -407,13 +407,13 @@ I haven't played for a little over a year. Mind is a bit rusty.
 
 </div>
 
-<div class="post" data-post-id="23057" data-author="Tap" data-date="2008-03-03T11:51:00+00:00">
+<div class="post" data-post-id="23057" data-author="Tap" data-date="2008-03-03T11:51:00+00:00" data-subject="">
 
 Since you don't play here much now, have any equipment you might want to part with by donating?
 
 </div>
 
-<div class="post" data-post-id="23062" data-author="Thraxas" data-date="2008-03-03T13:47:14+00:00">
+<div class="post" data-post-id="23062" data-author="Thraxas" data-date="2008-03-03T13:47:14+00:00" data-subject="">
 
 You want to make more groups happen?
 
@@ -479,7 +479,7 @@ Hmm what else ... take my soapbox off me before I can post again ... many more i
 
 </div>
 
-<div class="post" data-post-id="23063" data-author="firebrand" data-date="2008-03-03T15:24:47+00:00">
+<div class="post" data-post-id="23063" data-author="firebrand" data-date="2008-03-03T15:24:47+00:00" data-subject="">
 
 - the leader should be able to group people they want to and eject others that they don't want. This is something i found astounding about Sloth when I came. I fol someone and automatically I am grouped - no questions asked!
 
@@ -491,19 +491,19 @@ we currently do have such commands in place: glock to lock group to prevent new 
 
 </div>
 
-<div class="post" data-post-id="23064" data-author="Widow" data-date="2008-03-03T15:54:55+00:00">
+<div class="post" data-post-id="23064" data-author="Widow" data-date="2008-03-03T15:54:55+00:00" data-subject="">
 
 Thanks, FB, I wasn't aware of the ungroup command and will review the remaining help files.
 
 </div>
 
-<div class="post" data-post-id="23065" data-author="Jag" data-date="2008-03-03T15:58:09+00:00">
+<div class="post" data-post-id="23065" data-author="Jag" data-date="2008-03-03T15:58:09+00:00" data-subject="">
 
 Nice post Thraxas.
 
 </div>
 
-<div class="post" data-post-id="23066" data-author="Assirian" data-date="2008-03-03T16:11:16+00:00">
+<div class="post" data-post-id="23066" data-author="Assirian" data-date="2008-03-03T16:11:16+00:00" data-subject="">
 
 wow, so much letters.. :)
 
@@ -513,13 +513,13 @@ And, imho, sloth is not grouporiented.. (since we have necros 8-\)
 
 </div>
 
-<div class="post" data-post-id="23070" data-author="Leaf" data-date="2008-03-03T18:32:59+00:00">
+<div class="post" data-post-id="23070" data-author="Leaf" data-date="2008-03-03T18:32:59+00:00" data-subject="">
 
 U forgot Thiefs too.  They don't get along with anyone!
 
 </div>
 
-<div class="post" data-post-id="23074" data-author="jezer" data-date="2008-03-03T22:44:31+00:00">
+<div class="post" data-post-id="23074" data-author="jezer" data-date="2008-03-03T22:44:31+00:00" data-subject="">
 
 U forgot Thiefs too.  They don't get along with anyone![/quote:iufz6vl9]
 
@@ -533,7 +533,7 @@ Slam them every time!  :twisted: Don't give up slamming them! Someday some immor
 
 </div>
 
-<div class="post" data-post-id="23136" data-author="Thraxas" data-date="2008-03-07T13:47:01+00:00">
+<div class="post" data-post-id="23136" data-author="Thraxas" data-date="2008-03-07T13:47:01+00:00" data-subject="">
 
 Nice post Thraxas.[/quote:39c8y91u]
 
@@ -541,7 +541,7 @@ Thanks, I'm surprised there haven't been loads more serious suggestions though, 
 
 </div>
 
-<div class="post" data-post-id="23170" data-author="Thraxas" data-date="2008-03-10T09:33:30+00:00">
+<div class="post" data-post-id="23170" data-author="Thraxas" data-date="2008-03-10T09:33:30+00:00" data-subject="">
 
 Are we still looking for ideas for grouping? Probably not but here goes anyway.
 
@@ -575,7 +575,7 @@ If someone in group could declare themselves legally afk in such a way or the le
 
 </div>
 
-<div class="post" data-post-id="23172" data-author="Vixn" data-date="2008-03-10T10:33:23+00:00">
+<div class="post" data-post-id="23172" data-author="Vixn" data-date="2008-03-10T10:33:23+00:00" data-subject="">
 
 No the problem to my mind is that when these things happen you have no good and legal way to say you are afk then afk without disrupting the flow of the group and risking death.[/quote:1q8yfjdk]
 
@@ -611,7 +611,7 @@ Vixn aka Edd
 
 </div>
 
-<div class="post" data-post-id="23176" data-author="Thraxas" data-date="2008-03-10T13:55:15+00:00">
+<div class="post" data-post-id="23176" data-author="Thraxas" data-date="2008-03-10T13:55:15+00:00" data-subject="">
 
 sojme stuff [/quote:rvn0rzgz]
 
@@ -623,7 +623,7 @@ I know I don't have all the answers, and I can find more flaws in my last post t
 
 </div>
 
-<div class="post" data-post-id="23188" data-author="13" data-date="2008-03-11T16:32:14+00:00">
+<div class="post" data-post-id="23188" data-author="13" data-date="2008-03-11T16:32:14+00:00" data-subject="">
 
 LOL back in the day we had imms and they watched things with severity
 
@@ -653,7 +653,7 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="23189" data-author="Weasel" data-date="2008-03-11T16:41:21+00:00">
+<div class="post" data-post-id="23189" data-author="Weasel" data-date="2008-03-11T16:41:21+00:00" data-subject="">
 
 Can't argue with that. If you let it happen in a group (as leader), then don't whine about it. Simple. Kick their a55es! You can do it!
 
@@ -663,7 +663,7 @@ AFAIK it is ok to do your own CR, just so long as it's a corpse so you aren't ac
 
 </div>
 
-<div class="post" data-post-id="23193" data-author="*juggleblood*" data-date="2008-03-11T22:41:29+00:00">
+<div class="post" data-post-id="23193" data-author="*juggleblood*" data-date="2008-03-11T22:41:29+00:00" data-subject="">
 
 I would be willing to bet that I could get away with levelling a
 
@@ -677,7 +677,7 @@ Problems are never as extreme as they appear on the crier. It just gives us some
 
 </div>
 
-<div class="post" data-post-id="23195" data-author="jezer" data-date="2008-03-11T23:15:11+00:00">
+<div class="post" data-post-id="23195" data-author="jezer" data-date="2008-03-11T23:15:11+00:00" data-subject="">
 
 Problems are never as extreme as they appear on the crier. It just gives us something to talk about and get indignant about once in a while.[/quote:uw8nta1h]
 
@@ -691,7 +691,7 @@ I've heard bits and piece's about Hectordick and Nia, seems most people didn't l
 
 </div>
 
-<div class="post" data-post-id="23200" data-author="Tap" data-date="2008-03-12T00:49:44+00:00">
+<div class="post" data-post-id="23200" data-author="Tap" data-date="2008-03-12T00:49:44+00:00" data-subject="">
 
 Jism wrote:
 
@@ -719,7 +719,7 @@ TMI
 
 </div>
 
-<div class="post" data-post-id="23202" data-author="jezer" data-date="2008-03-12T01:39:11+00:00">
+<div class="post" data-post-id="23202" data-author="jezer" data-date="2008-03-12T01:39:11+00:00" data-subject="">
 
 I DO NOT support pthiefing...
 
@@ -735,7 +735,7 @@ Your a sly one Tap, clever at twisting facts.. your dangerous.
 
 </div>
 
-<div class="post" data-post-id="23203" data-author="Zukt" data-date="2008-03-12T03:57:18+00:00">
+<div class="post" data-post-id="23203" data-author="Zukt" data-date="2008-03-12T03:57:18+00:00" data-subject="">
 
 I DO NOT support pthiefing...
 
@@ -749,7 +749,7 @@ I don't get an extra rush out of parking my car in the lot where my window has a
 
 </div>
 
-<div class="post" data-post-id="23204" data-author="jezer" data-date="2008-03-12T06:11:30+00:00">
+<div class="post" data-post-id="23204" data-author="jezer" data-date="2008-03-12T06:11:30+00:00" data-subject="">
 
 I generally hate pthieving in general because the way the mud works is such that it dispraportionately targetted players with little experience and offered little in the way of extra fun for the mud. This generally either attracted rather worthless cretins who's idea of fun was egging my house or driving away new players that just had their first jjd stolen. 
 
@@ -759,7 +759,7 @@ You crack me up Zukt! +1 to Vocabulary!
 
 </div>
 
-<div class="post" data-post-id="23205" data-author="Toxis" data-date="2008-03-12T07:36:11+00:00">
+<div class="post" data-post-id="23205" data-author="Toxis" data-date="2008-03-12T07:36:11+00:00" data-subject="">
 
 I've been trying to think on this subject, about why it's hard to find a good tank...
 
@@ -775,13 +775,13 @@ Do we need more hp eq for lower level warriors with perhaps minus damage and man
 
 </div>
 
-<div class="post" data-post-id="23206" data-author="13" data-date="2008-03-12T13:40:32+00:00">
+<div class="post" data-post-id="23206" data-author="13" data-date="2008-03-12T13:40:32+00:00" data-subject="">
 
 I leike teh TANKINGZ job
 
 </div>
 
-<div class="post" data-post-id="23208" data-author="Leaf" data-date="2008-03-12T15:39:20+00:00">
+<div class="post" data-post-id="23208" data-author="Leaf" data-date="2008-03-12T15:39:20+00:00" data-subject="">
 
 Most of the larger tanks like urself over shadow the little ones.
 
@@ -803,7 +803,7 @@ P.S.  Reduce the Grip Lag Rescue!!!  (Akasha :))
 
 </div>
 
-<div class="post" data-post-id="23209" data-author="jezer" data-date="2008-03-12T22:32:48+00:00">
+<div class="post" data-post-id="23209" data-author="jezer" data-date="2008-03-12T22:32:48+00:00" data-subject="">
 
 Sounds interesting Leaf, I'll give that a try sometime soon. I died at skeletal night in Drakuun Forest. I think I was fumbling with the gate when he hit me for a surprise 700hp round when I was in a shift eq mode. Ouch! 
 
@@ -811,7 +811,7 @@ I am REALLY looking forward to exploring... which brings me to a question, how d
 
 </div>
 
-<div class="post" data-post-id="23210" data-author="Rynquald" data-date="2008-03-12T22:50:44+00:00">
+<div class="post" data-post-id="23210" data-author="Rynquald" data-date="2008-03-12T22:50:44+00:00" data-subject="">
 
 You'll run across the odd mob that doesn't like ferrets, the only two on AH that i can think of atm are the dog (or hellhound or whatever) in Sheol and Ryzen in Mercurial. Ryzen won't actually attack, but you'll get his death proc.
 
@@ -819,13 +819,13 @@ You could also possibly die if you run out of mvs at something dangerous and hav
 
 </div>
 
-<div class="post" data-post-id="23211" data-author="13" data-date="2008-03-13T00:08:17+00:00">
+<div class="post" data-post-id="23211" data-author="13" data-date="2008-03-13T00:08:17+00:00" data-subject="">
 
 I know where the notorious monk is.
 
 </div>
 
-<div class="post" data-post-id="23214" data-author="banedon" data-date="2008-03-13T05:14:20+00:00">
+<div class="post" data-post-id="23214" data-author="banedon" data-date="2008-03-13T05:14:20+00:00" data-subject="">
 
 =
 
@@ -837,7 +837,7 @@ Well I dunno how many ppl are gonna like hearing this, but Ive just found out ab
 
 </div>
 
-<div class="post" data-post-id="23218" data-author="Leaf" data-date="2008-03-13T16:55:01+00:00">
+<div class="post" data-post-id="23218" data-author="Leaf" data-date="2008-03-13T16:55:01+00:00" data-subject="">
 
 Well Banedon, hopefully you will get more time to mud due to "good"
 
@@ -851,7 +851,7 @@ Do a Who, and u will see the number of class are Ma>Th>Ne>Wa>Cl>Ba>Dr>Mo
 
 </div>
 
-<div class="post" data-post-id="23221" data-author="Roadrunr" data-date="2008-03-13T22:57:39+00:00">
+<div class="post" data-post-id="23221" data-author="Roadrunr" data-date="2008-03-13T22:57:39+00:00" data-subject="">
 
 I've been trying to think on this subject, about why it's hard to find a good tank...
 
@@ -867,7 +867,7 @@ Oh, and I dont auto-rescue on double whiff (and for all I know, all my other res
 
 </div>
 
-<div class="post" data-post-id="23251" data-author="**Jake**" data-date="2008-03-17T19:26:21+00:00">
+<div class="post" data-post-id="23251" data-author="**Jake**" data-date="2008-03-17T19:26:21+00:00" data-subject="">
 
 Just got caught up on this thread.  Lots of great discussion - and many topics related (but not to the root) of my concern at the time.  The concern was: "Why is off-lyme/non-epic grouping so boring".
 
@@ -879,7 +879,7 @@ I think the weaken bug (where it incorrectly removed 13 strength points on mobs 
 
 </div>
 
-<div class="post" data-post-id="23252" data-author="Jag" data-date="2008-03-17T20:34:26+00:00">
+<div class="post" data-post-id="23252" data-author="Jag" data-date="2008-03-17T20:34:26+00:00" data-subject="">
 
 Debuffs could be made better to improve group play.
 
@@ -893,7 +893,7 @@ I would not suggest changing the system for non-grouped debuffs.
 
 </div>
 
-<div class="post" data-post-id="23253" data-author="Leaf" data-date="2008-03-17T21:30:52+00:00">
+<div class="post" data-post-id="23253" data-author="Leaf" data-date="2008-03-17T21:30:52+00:00" data-subject="">
 
 That wouldn't be a great idea Jag.  Tanks need blinds/weaken to stick and
 
@@ -909,7 +909,7 @@ Jake, this would all be resolved if Monk's rescue lag grip is fixed :P
 
 </div>
 
-<div class="post" data-post-id="23254" data-author="Alberich" data-date="2008-03-17T21:38:43+00:00">
+<div class="post" data-post-id="23254" data-author="Alberich" data-date="2008-03-17T21:38:43+00:00" data-subject="">
 
 speaking of rescue lag
 
@@ -919,7 +919,7 @@ I usually don't run in groups because you can get more xp 2man and frankly, grou
 
 </div>
 
-<div class="post" data-post-id="23256" data-author="Medios" data-date="2008-03-17T23:49:32+00:00">
+<div class="post" data-post-id="23256" data-author="Medios" data-date="2008-03-17T23:49:32+00:00" data-subject="">
 
 Lately debuffs have become so hard to stick that I have almost given up on them.  In my desert groups it seems much smarter to have everyone blast their biggest dmg and kill the mob fast than to try for 10 rounds to blind it.  I don't know what was changed but I rarely hit any debuffs anymore.  I notice necromancy attuned people have a pretty good chance but what good is that for newer players.  Recently I have just been using fog and damnation and stop wasting my time with the rest.  I ran with a bh xp group and one of the main problems is a lack of mid level areas.  You either need a small group or decent group with a big tank. 
 
@@ -929,7 +929,7 @@ Peace
 
 </div>
 
-<div class="post" data-post-id="23257" data-author="Leaf" data-date="2008-03-18T00:30:28+00:00">
+<div class="post" data-post-id="23257" data-author="Leaf" data-date="2008-03-18T00:30:28+00:00" data-subject="">
 
 Not sure if it has been fixed.  
 
@@ -949,7 +949,7 @@ I just sat there watching 3-4 rounds go by before I can cast anything.
 
 </div>
 
-<div class="post" data-post-id="23260" data-author="**Jake**" data-date="2008-03-18T05:41:44+00:00">
+<div class="post" data-post-id="23260" data-author="**Jake**" data-date="2008-03-18T05:41:44+00:00" data-subject="">
 
 On the debuff question.  Chances of getting them to stick hasn't changed since I've been back from a code perspective..  I've not watched desert groups lately, but it doesn't seem to be too bad off of lyme.
 
@@ -963,7 +963,7 @@ Peace[/quote:6rmoxeri]
 
 </div>
 
-<div class="post" data-post-id="23270" data-author="13" data-date="2008-03-18T14:11:46+00:00">
+<div class="post" data-post-id="23270" data-author="13" data-date="2008-03-18T14:11:46+00:00" data-subject="">
 
 wtf....alth stabbing for groups?
 
@@ -971,7 +971,7 @@ wtf....alth stabbing for groups?
 
 </div>
 
-<div class="post" data-post-id="23285" data-author="*juggleblood*" data-date="2008-03-18T22:14:07+00:00">
+<div class="post" data-post-id="23285" data-author="*juggleblood*" data-date="2008-03-18T22:14:07+00:00" data-subject="">
 
 It's hard for me to believe that mobs saves against blind and weaken weren't changed somehow about six months ago. Seems harder to land debuffs. Also remember that someone tinkered with blind duration and with masterful acid. It really seems that the success rate was altered also.
 
@@ -981,31 +981,31 @@ Imho one approach would be to increase the mobs' base hit rolls, but increase th
 
 </div>
 
-<div class="post" data-post-id="23288" data-author="Zukt" data-date="2008-03-19T05:47:44+00:00">
+<div class="post" data-post-id="23288" data-author="Zukt" data-date="2008-03-19T05:47:44+00:00" data-subject="">
 
 Weaken inflicted more than a -1 to hit was the issue. going from 18/100 to 15 was bigger than blind.
 
 </div>
 
-<div class="post" data-post-id="23293" data-author="*juggleblood*" data-date="2008-03-19T21:51:57+00:00">
+<div class="post" data-post-id="23293" data-author="*juggleblood*" data-date="2008-03-19T21:51:57+00:00" data-subject="">
 
 .........
 
 </div>
 
-<div class="post" data-post-id="23295" data-author="Medios" data-date="2008-03-19T22:19:19+00:00">
+<div class="post" data-post-id="23295" data-author="Medios" data-date="2008-03-19T22:19:19+00:00" data-subject="">
 
 I gave up on weaken too.  Its cool if my demilich casts it but I'm tired of wasting 5 rounds for no benefit.  Pretty soon well be back to stab blast on everything.
 
 </div>
 
-<div class="post" data-post-id="23298" data-author="Dragoth" data-date="2008-03-19T23:35:24+00:00">
+<div class="post" data-post-id="23298" data-author="Dragoth" data-date="2008-03-19T23:35:24+00:00" data-subject="">
 
 I also think that its a bit unfair that necro's juju steals exp from group if it kills the mob, its the prime necromancer's power and alienates us from everyone else and makes necros ungroupworthy.
 
 </div>
 
-<div class="post" data-post-id="23302" data-author="**Jake**" data-date="2008-03-20T02:05:37+00:00">
+<div class="post" data-post-id="23302" data-author="**Jake**" data-date="2008-03-20T02:05:37+00:00" data-subject="">
 
 I gave up on weaken too.  Its cool if my demilich casts it but
 
@@ -1061,7 +1061,7 @@ Jake
 
 </div>
 
-<div class="post" data-post-id="23303" data-author="jezer" data-date="2008-03-20T02:39:14+00:00">
+<div class="post" data-post-id="23303" data-author="jezer" data-date="2008-03-20T02:39:14+00:00" data-subject="">
 
 Druids will go back to working precisely as they did before.  This means you will have to use shift eq to work from 18/100  to 25/100.  As it currently stands, treating an 18/100 mob as 25/30 gives a druid all hitroll/damroll without the need for a single shift item and this isn't a good thing.[/quote:3e0mbll1]
 
@@ -1075,13 +1075,13 @@ Oh, btw, I thought the immortals don't listen much to whats posted on the board.
 
 </div>
 
-<div class="post" data-post-id="23304" data-author="Akasha" data-date="2008-03-20T03:00:07+00:00">
+<div class="post" data-post-id="23304" data-author="Akasha" data-date="2008-03-20T03:00:07+00:00" data-subject="">
 
 We read the board.  I specifically read everything <<loosely a moderator>> duh.
 
 </div>
 
-<div class="post" data-post-id="23305" data-author="jezer" data-date="2008-03-20T03:30:21+00:00">
+<div class="post" data-post-id="23305" data-author="jezer" data-date="2008-03-20T03:30:21+00:00" data-subject="">
 
 We read the board.  I specifically read everything <<loosely a moderator>> duh.[/quote:y16q7yeb]
 
@@ -1095,7 +1095,7 @@ I know ferret bug is still in... not sure about fly/waterbreath wearing off but 
 
 </div>
 
-<div class="post" data-post-id="23307" data-author="Weasel" data-date="2008-03-20T04:16:15+00:00">
+<div class="post" data-post-id="23307" data-author="Weasel" data-date="2008-03-20T04:16:15+00:00" data-subject="">
 
 I don't play any droooids, but thanks for looking into it and fixing the issues.
 
@@ -1105,7 +1105,7 @@ Now about us Warrior primes...
 
 </div>
 
-<div class="post" data-post-id="23308" data-author="jezer" data-date="2008-03-20T04:19:49+00:00">
+<div class="post" data-post-id="23308" data-author="jezer" data-date="2008-03-20T04:19:49+00:00" data-subject="">
 
 Now about us Warrior primes... 
 
@@ -1115,13 +1115,13 @@ Yeah, It's about time they got nerfed!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23309" data-author="Weasel" data-date="2008-03-20T04:23:46+00:00">
+<div class="post" data-post-id="23309" data-author="Weasel" data-date="2008-03-20T04:23:46+00:00" data-subject="">
 
 NOOOOOoooooo!
 
 </div>
 
-<div class="post" data-post-id="23312" data-author="**Jake**" data-date="2008-03-20T06:18:50+00:00">
+<div class="post" data-post-id="23312" data-author="**Jake**" data-date="2008-03-20T06:18:50+00:00" data-subject="">
 
 We read the board.  I specifically read 
 
@@ -1139,7 +1139,7 @@ Also note the monk rescue lag has been fixed to match that of a thief.  It won't
 
 </div>
 
-<div class="post" data-post-id="23313" data-author="jezer" data-date="2008-03-20T06:34:53+00:00">
+<div class="post" data-post-id="23313" data-author="jezer" data-date="2008-03-20T06:34:53+00:00" data-subject="">
 
 Ferret bug? What, do you have fleas?[/quote:2l9jn6lz]
 
@@ -1153,13 +1153,13 @@ And... now it's time to stop sucking up, because... I need to find your email ad
 
 </div>
 
-<div class="post" data-post-id="23314" data-author="Weasel" data-date="2008-03-20T07:06:15+00:00">
+<div class="post" data-post-id="23314" data-author="Weasel" data-date="2008-03-20T07:06:15+00:00" data-subject="">
 
 [img:dukmdg2s]http://www.4guysfromviewpoint.com/uploadedimages/BlackMage.JPG[/img:dukmdg2s]
 
 </div>
 
-<div class="post" data-post-id="23316" data-author="Medios" data-date="2008-03-20T13:17:49+00:00">
+<div class="post" data-post-id="23316" data-author="Medios" data-date="2008-03-20T13:17:49+00:00" data-subject="">
 
 The reason I suggested taunt is this.  In epic groups or undead eq groups I get pounded.  With Minstrel singing gods of war to his undeads the target will engage me every few rounds.  We had this happen multiple times last night.  We are fighting everything is well, then im getting hit for 500.  I sing, get rescued, lag from rescue then die while lagged.  The target seems to engage me because I am doing the most damage to it?  It doesn't seem reasonable that if I'm in the back of the group and the tank is in front the mob continues to bulldoze through the whole group and attack me specifically.  Rescue helps but without a mob engage message the tank has no idea, the person has to sing(once they realize), and the group doesn't know who to heal because the attack lines are missing in gag fight.  With taunt the warrior can taunt the mob and keep its attention so the group can do its work.  
 
@@ -1167,13 +1167,13 @@ Also can we get someone to review concise.  When I lead a big group all concise 
 
 </div>
 
-<div class="post" data-post-id="23318" data-author="13" data-date="2008-03-20T14:44:36+00:00">
+<div class="post" data-post-id="23318" data-author="13" data-date="2008-03-20T14:44:36+00:00" data-subject="">
 
 welcome back Hayward :)
 
 </div>
 
-<div class="post" data-post-id="23320" data-author="Leaf" data-date="2008-03-20T15:42:52+00:00">
+<div class="post" data-post-id="23320" data-author="Leaf" data-date="2008-03-20T15:42:52+00:00" data-subject="">
 
 Also note the monk rescue lag has been fixed to match that of a thief.  It won't go in until tomorrow morning's reboot though.[/quote:1t6lthoc]
 
@@ -1209,13 +1209,13 @@ You have (836/836+188) hit, (560/583+49) mana and (203/203+33) movement points. 
 
 </div>
 
-<div class="post" data-post-id="23321" data-author="brady" data-date="2008-03-20T16:06:54+00:00">
+<div class="post" data-post-id="23321" data-author="brady" data-date="2008-03-20T16:06:54+00:00" data-subject="">
 
 Your mnrg sucks too  :evil:
 
 </div>
 
-<div class="post" data-post-id="23324" data-author="Leaf" data-date="2008-03-20T16:28:54+00:00">
+<div class="post" data-post-id="23324" data-author="Leaf" data-date="2008-03-20T16:28:54+00:00" data-subject="">
 
 Can you believe thats my regen in mr gear resting? 
 
@@ -1227,13 +1227,13 @@ I know Nab is mostly a caster, but I'm sure he was also around +300hr.
 
 </div>
 
-<div class="post" data-post-id="23328" data-author="Weasel" data-date="2008-03-20T16:40:47+00:00">
+<div class="post" data-post-id="23328" data-author="Weasel" data-date="2008-03-20T16:40:47+00:00" data-subject="">
 
 sheesh.. Warrior prime here, old school, and in regen eq sleeping I get 80hpregen and 70manaregen.. and non-warrior prime can get up to 300freaking hpregen..  you wanna fix something, there's a good place to start! lol
 
 </div>
 
-<div class="post" data-post-id="23329" data-author="Leaf" data-date="2008-03-20T16:59:34+00:00">
+<div class="post" data-post-id="23329" data-author="Leaf" data-date="2008-03-20T16:59:34+00:00" data-subject="">
 
 sheesh.. Warrior prime here, old school, and in regen eq sleeping I get 80hpregen and 70manaregen.. and non-warrior prime can get up to 300freaking hpregen..  you wanna fix something, there's a good place to start! lol[/quote:1go293s8]
 
@@ -1241,7 +1241,7 @@ Weasel you can "fix" this by adding Monk in your class order :P
 
 </div>
 
-<div class="post" data-post-id="23330" data-author="Medios" data-date="2008-03-20T19:09:04+00:00">
+<div class="post" data-post-id="23330" data-author="Medios" data-date="2008-03-20T19:09:04+00:00" data-subject="">
 
 nc nc gets more hp regen from contemplation I am assuming to make up for lost mana and mr.  You can't really compare Nab or Dogs to Fable.  Your eq is for weaks firstly secondly your still small.  Dogs relies on contemplation as his main source of hp.  I have no healing.  I can make soul infusions but after around 10 I am out of mana.  I wear hpr when I can.
 
@@ -1249,7 +1249,7 @@ I won't go into detail about my gear but if you notice I wear lots of mv and hpr
 
 </div>
 
-<div class="post" data-post-id="23331" data-author="Alberich" data-date="2008-03-20T19:37:09+00:00">
+<div class="post" data-post-id="23331" data-author="Alberich" data-date="2008-03-20T19:37:09+00:00" data-subject="">
 
 sheesh.. Warrior prime here, old school, and in regen eq sleeping I get 80hpregen and 70manaregen.. and non-warrior prime can get up to 300freaking hpregen..  you wanna fix something, there's a good place to start! lol[/quote:16nawsk3]
 
@@ -1259,7 +1259,7 @@ my th/ma sleeping in a vault regens w/regen gear is around 106 hpr, outside is s
 
 </div>
 
-<div class="post" data-post-id="23332" data-author="Leaf" data-date="2008-03-20T19:58:21+00:00">
+<div class="post" data-post-id="23332" data-author="Leaf" data-date="2008-03-20T19:58:21+00:00" data-subject="">
 
 nc nc gets more hp regen from contemplation I am assuming to make up for lost mana and mr.  You can't really compare Nab or Dogs to Fable.  Your eq is for weaks firstly secondly your still small.  Dogs relies on contemplation as his main source of hp.  I have no healing.  I can make soul infusions but after around 10 I am out of mana.  I wear hpr when I can.
 
@@ -1333,7 +1333,7 @@ a!
 
 </div>
 
-<div class="post" data-post-id="23333" data-author="Alberich" data-date="2008-03-20T20:02:07+00:00">
+<div class="post" data-post-id="23333" data-author="Alberich" data-date="2008-03-20T20:02:07+00:00" data-subject="">
 
 (My EQ an't all thatz Weak! :( )[/quote:22p8iil2]
 
@@ -1341,7 +1341,7 @@ no..... no, it really is
 
 </div>
 
-<div class="post" data-post-id="23334" data-author="Leaf" data-date="2008-03-20T20:06:33+00:00">
+<div class="post" data-post-id="23334" data-author="Leaf" data-date="2008-03-20T20:06:33+00:00" data-subject="">
 
 Thanks Adam :P
 
@@ -1371,13 +1371,13 @@ regen much HP with contemplation.
 
 </div>
 
-<div class="post" data-post-id="23340" data-author="13" data-date="2008-03-21T13:41:09+00:00">
+<div class="post" data-post-id="23340" data-author="13" data-date="2008-03-21T13:41:09+00:00" data-subject="">
 
 lol will, rings of the sun wizard lol
 
 </div>
 
-<div class="post" data-post-id="23341" data-author="strider" data-date="2008-03-21T14:12:26+00:00">
+<div class="post" data-post-id="23341" data-author="strider" data-date="2008-03-21T14:12:26+00:00" data-subject="">
 
 one thing to remember when checking your monk's hp regen is that
 
@@ -1389,7 +1389,7 @@ been noticing while it's not in effect. If not, then you just suck.
 
 </div>
 
-<div class="post" data-post-id="23342" data-author="Leaf" data-date="2008-03-21T15:39:32+00:00">
+<div class="post" data-post-id="23342" data-author="Leaf" data-date="2008-03-21T15:39:32+00:00" data-subject="">
 
 lol will, rings of the sun wizard lol[/quote:1zd5k0k5]
 
@@ -1403,7 +1403,7 @@ the crap for the forge.
 
 </div>
 
-<div class="post" data-post-id="23343" data-author="Leaf" data-date="2008-03-21T15:44:29+00:00">
+<div class="post" data-post-id="23343" data-author="Leaf" data-date="2008-03-21T15:44:29+00:00" data-subject="">
 
 one thing to remember when checking your monk's hp regen is that
 
@@ -1419,7 +1419,7 @@ Thats why I brought it up as a Monk Prime!!!  You prove my point, Dork!
 
 </div>
 
-<div class="post" data-post-id="23344" data-author="Gimlet" data-date="2008-03-21T17:48:08+00:00">
+<div class="post" data-post-id="23344" data-author="Gimlet" data-date="2008-03-21T17:48:08+00:00" data-subject="">
 
 lol will, rings of the sun wizard lol[/quote:3sj2sc09]
 
@@ -1435,7 +1435,7 @@ better yet, don't wear any rings...only another +1mana regen difference...and yo
 
 </div>
 
-<div class="post" data-post-id="23345" data-author="Leaf" data-date="2008-03-21T18:25:41+00:00">
+<div class="post" data-post-id="23345" data-author="Leaf" data-date="2008-03-21T18:25:41+00:00" data-subject="">
 
 better yet, don't wear any rings...only another +1mana regen difference...and you don't have to go thru all the crap of cycling for eq![/quote:3fdr8m3v]
 
@@ -1447,7 +1447,7 @@ Sure I can ask for a 3x40 ring, but I've better picks for my char.
 
 </div>
 
-<div class="post" data-post-id="23346" data-author="Medios" data-date="2008-03-21T18:26:17+00:00">
+<div class="post" data-post-id="23346" data-author="Medios" data-date="2008-03-21T18:26:17+00:00" data-subject="">
 
 You are using:
 
@@ -1529,7 +1529,7 @@ This is of course without bone armor.  But anyways what were you saying about ma
 
 </div>
 
-<div class="post" data-post-id="23347" data-author="brady" data-date="2008-03-21T18:50:59+00:00">
+<div class="post" data-post-id="23347" data-author="brady" data-date="2008-03-21T18:50:59+00:00" data-subject="">
 
 lol will, rings of the sun wizard lol[/quote:2altwznp]
 
@@ -1545,7 +1545,7 @@ Those basalt rings are dead sexy too.  Just think of all that mana that'll take 
 
 </div>
 
-<div class="post" data-post-id="23348" data-author="Leaf" data-date="2008-03-21T20:04:12+00:00">
+<div class="post" data-post-id="23348" data-author="Leaf" data-date="2008-03-21T20:04:12+00:00" data-subject="">
 
 lol will, rings of the sun wizard lol[/quote:1khfj3b4]
 
@@ -1563,7 +1563,7 @@ I don't like the fact they are also -2 dam with both of them on.
 
 </div>
 
-<div class="post" data-post-id="23349" data-author="Leaf" data-date="2008-03-21T20:07:01+00:00">
+<div class="post" data-post-id="23349" data-author="Leaf" data-date="2008-03-21T20:07:01+00:00" data-subject="">
 
 You are using:
 
@@ -1657,25 +1657,25 @@ some light on this matter?
 
 </div>
 
-<div class="post" data-post-id="23351" data-author="brady" data-date="2008-03-21T20:28:30+00:00">
+<div class="post" data-post-id="23351" data-author="brady" data-date="2008-03-21T20:28:30+00:00" data-subject="">
 
 ummm...are you using one set of eq, Will?
 
 </div>
 
-<div class="post" data-post-id="23352" data-author="Medios" data-date="2008-03-21T21:14:53+00:00">
+<div class="post" data-post-id="23352" data-author="Medios" data-date="2008-03-21T21:14:53+00:00" data-subject="">
 
 Dogs can't cast Rejuv.
 
 </div>
 
-<div class="post" data-post-id="23358" data-author="alias" data-date="2008-03-22T14:06:35+00:00">
+<div class="post" data-post-id="23358" data-author="alias" data-date="2008-03-22T14:06:35+00:00" data-subject="">
 
 w/ rejuv in ac no hp regen eq 280-290 hpr for me. Mana regen > hpr if you can heal so don't get excited.
 
 </div>
 
-<div class="post" data-post-id="23360" data-author="Leaf" data-date="2008-03-22T14:48:20+00:00">
+<div class="post" data-post-id="23360" data-author="Leaf" data-date="2008-03-22T14:48:20+00:00" data-subject="">
 
 I use two set, Dam Eq (-4 +10 +22) n Ma Regen Eq.
 
@@ -1693,13 +1693,13 @@ eq on.  So it doesn't matter about ur HP Regen Eq.  We do have a gap here.
 
 </div>
 
-<div class="post" data-post-id="23366" data-author="alias" data-date="2008-03-22T16:19:19+00:00">
+<div class="post" data-post-id="23366" data-author="alias" data-date="2008-03-22T16:19:19+00:00" data-subject="">
 
 Nab's is higher than mine, we discussed it at one point.
 
 </div>
 
-<div class="post" data-post-id="23367" data-author="13" data-date="2008-03-22T20:23:33+00:00">
+<div class="post" data-post-id="23367" data-author="13" data-date="2008-03-22T20:23:33+00:00" data-subject="">
 
 you are getting the benefits of serious frostbolt margn mana spelldmg
 
@@ -1707,7 +1707,7 @@ restoration and all that jazz.  each class order is meant to be different, so sh
 
 </div>
 
-<div class="post" data-post-id="23368" data-author="13" data-date="2008-03-22T20:24:55+00:00">
+<div class="post" data-post-id="23368" data-author="13" data-date="2008-03-22T20:24:55+00:00" data-subject="">
 
 Lack of planning on your part does not constitute an emergency on the 
 
@@ -1715,7 +1715,7 @@ part of the immortals.
 
 </div>
 
-<div class="post" data-post-id="23369" data-author="Leaf" data-date="2008-03-22T21:54:01+00:00">
+<div class="post" data-post-id="23369" data-author="Leaf" data-date="2008-03-22T21:54:01+00:00" data-subject="">
 
 Lack of planning on your part does not constitute an emergency on the 
 
@@ -1731,7 +1731,7 @@ There was something wrong with it, and it was fixed cause I brought it up.
 
 </div>
 
-<div class="post" data-post-id="23370" data-author="Medios" data-date="2008-03-22T23:03:47+00:00">
+<div class="post" data-post-id="23370" data-author="Medios" data-date="2008-03-22T23:03:47+00:00" data-subject="">
 
 Lack of planning on your part does not constitute an emergency on the 
 
@@ -1749,13 +1749,13 @@ So your saying you don't have an increased mr over dogs by about 15-20 points?  
 
 </div>
 
-<div class="post" data-post-id="23379" data-author="13" data-date="2008-03-23T13:27:39+00:00">
+<div class="post" data-post-id="23379" data-author="13" data-date="2008-03-23T13:27:39+00:00" data-subject="">
 
 damn now why in the FU CK should a monk WAR have more hp than a monk MAGE?  huh!!??  someone answer me [i:jtie18m5]THAT[/i:jtie18m5]!
 
 </div>
 
-<div class="post" data-post-id="23380" data-author="Medios" data-date="2008-03-23T13:40:59+00:00">
+<div class="post" data-post-id="23380" data-author="Medios" data-date="2008-03-23T13:40:59+00:00" data-subject="">
 
 damn now why in the FU CK should a monk WAR have more hp than a monk MAGE?  huh!!??  someone answer me [i:3ctlrp6q]THAT[/i:3ctlrp6q]![/quote:3ctlrp6q]
 
@@ -1763,7 +1763,7 @@ If you want a discussion based on common sense and reality this is not the place
 
 </div>
 
-<div class="post" data-post-id="23382" data-author="Leaf" data-date="2008-03-23T15:52:03+00:00">
+<div class="post" data-post-id="23382" data-author="Leaf" data-date="2008-03-23T15:52:03+00:00" data-subject="">
 
 Damn Aa u must be high again.
 
@@ -1787,7 +1787,7 @@ total hp difference? Well over 100hr.
 
 </div>
 
-<div class="post" data-post-id="23384" data-author="Rynquald" data-date="2008-03-23T22:12:56+00:00">
+<div class="post" data-post-id="23384" data-author="Rynquald" data-date="2008-03-23T22:12:56+00:00" data-subject="">
 
 Assuming a low-average tard heal of 200hp...
 
@@ -1801,7 +1801,7 @@ As always, you need to play to your char's strengths.
 
 </div>
 
-<div class="post" data-post-id="23389" data-author="Leaf" data-date="2008-03-24T14:08:25+00:00">
+<div class="post" data-post-id="23389" data-author="Leaf" data-date="2008-03-24T14:08:25+00:00" data-subject="">
 
 Joey even with your calculation, its still not even close to an average char
 
@@ -1823,7 +1823,7 @@ then a Monk PRIME?  Thats all i have been saying.... So Aa post ur score.
 
 </div>
 
-<div class="post" data-post-id="23390" data-author="13" data-date="2008-03-24T14:28:08+00:00">
+<div class="post" data-post-id="23390" data-author="13" data-date="2008-03-24T14:28:08+00:00" data-subject="">
 
 <902hp 246ma 285mv><1262683644xp>
 
@@ -1923,7 +1923,7 @@ do anymore comparison/complaints.  Just what I think.
 
 </div>
 
-<div class="post" data-post-id="23391" data-author="Leaf" data-date="2008-03-24T14:34:30+00:00">
+<div class="post" data-post-id="23391" data-author="Leaf" data-date="2008-03-24T14:34:30+00:00" data-subject="">
 
 Thx Aa for this info and showing that I'm correct.  Fable will have a bit less
 
@@ -1941,7 +1941,7 @@ wedding stuff doesn't allow me to mud much.
 
 </div>
 
-<div class="post" data-post-id="23392" data-author="13" data-date="2008-03-24T14:41:21+00:00">
+<div class="post" data-post-id="23392" data-author="13" data-date="2008-03-24T14:41:21+00:00" data-subject="">
 
 I think you need to be complaining about your playtime then not your
 
@@ -1949,13 +1949,13 @@ character.  The power of one is a direct result of the other.
 
 </div>
 
-<div class="post" data-post-id="23393" data-author="alias" data-date="2008-03-24T14:42:05+00:00">
+<div class="post" data-post-id="23393" data-author="alias" data-date="2008-03-24T14:42:05+00:00" data-subject="">
 
 Quit playing the when game and just post facts. Get to 5x40 cast rejuv and then rest and post what your hpr is until then I will not respond on this anymore, I know that mine went up as I leveled.
 
 </div>
 
-<div class="post" data-post-id="23394" data-author="Leaf" data-date="2008-03-24T15:34:58+00:00">
+<div class="post" data-post-id="23394" data-author="Leaf" data-date="2008-03-24T15:34:58+00:00" data-subject="">
 
 I know that mine went up as I leveled.[/quote:6h6df397]
 
@@ -1967,7 +1967,7 @@ Tis all I shall say, carry on ppl :P
 
 </div>
 
-<div class="post" data-post-id="23403" data-author="13" data-date="2008-03-24T21:59:31+00:00">
+<div class="post" data-post-id="23403" data-author="13" data-date="2008-03-24T21:59:31+00:00" data-subject="">
 
 It might mention it on the avatar list thing, not sure.  I thought it was 
 
@@ -1975,7 +1975,7 @@ common knowledge.
 
 </div>
 
-<div class="post" data-post-id="23404" data-author="Leaf" data-date="2008-03-24T22:07:54+00:00">
+<div class="post" data-post-id="23404" data-author="Leaf" data-date="2008-03-24T22:07:54+00:00" data-subject="">
 
 Avatar List post when u will get the +4hp regen and +5ma regen.  
 

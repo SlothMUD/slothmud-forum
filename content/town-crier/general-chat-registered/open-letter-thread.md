@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="7633" data-author="13" data-date="2005-06-27T22:04:08+00:00">
+<div class="post" data-post-id="7633" data-author="13" data-date="2005-06-27T22:04:08+00:00" data-subject="Open letter thread">
 
 Feel free to write an open letter to anyone who pisses you off.
 
@@ -24,7 +24,7 @@ barely able to speak enlish and gave poor advice to boot.
 
 </div>
 
-<div class="post" data-post-id="7638" data-author="Gnu" data-date="2005-06-28T05:57:20+00:00">
+<div class="post" data-post-id="7638" data-author="Gnu" data-date="2005-06-28T05:57:20+00:00" data-subject="Re: Open letter thread">
 
 Dear president Bush,
 
@@ -34,7 +34,7 @@ shit Georgian dancing and stupid smiles.  Your ministers are barely able to spea
 
 </div>
 
-<div class="post" data-post-id="7643" data-author="12345" data-date="2005-06-28T10:44:55+00:00">
+<div class="post" data-post-id="7643" data-author="12345" data-date="2005-06-28T10:44:55+00:00" data-subject="">
 
 How about other people's letters?
 
@@ -44,7 +44,7 @@ As of 01 Oct, 2003:
 
 </div>
 
-<div class="post" data-post-id="7645" data-author="13" data-date="2005-06-28T10:53:02+00:00">
+<div class="post" data-post-id="7645" data-author="13" data-date="2005-06-28T10:53:02+00:00" data-subject="">
 
 Dear Tuk,
 
@@ -76,7 +76,7 @@ Aa
 
 </div>
 
-<div class="post" data-post-id="7646" data-author="Leaf" data-date="2005-06-28T11:34:26+00:00">
+<div class="post" data-post-id="7646" data-author="Leaf" data-date="2005-06-28T11:34:26+00:00" data-subject="">
 
 HAHAHAHAHAHA!!!
 
@@ -84,7 +84,7 @@ I never thought about doing that ... but ... now that u mention it ....  :twiste
 
 </div>
 
-<div class="post" data-post-id="7651" data-author="**Jake**" data-date="2005-06-28T16:20:41+00:00">
+<div class="post" data-post-id="7651" data-author="**Jake**" data-date="2005-06-28T16:20:41+00:00" data-subject="">
 
 Most likely it wasn't Tuk's fault here.  They only showed tuk in the "TO: column because it was the first in batch of emails they are spamming to. (Spammers often break emails up into groups of addresses and thats where this spam list gets broken up at.  The first one gets the "TO:" option, the rest get "BCC").
 
@@ -126,13 +126,13 @@ Aa[/quote:vhb3st5l]
 
 </div>
 
-<div class="post" data-post-id="7653" data-author="Hades" data-date="2005-06-28T20:31:24+00:00">
+<div class="post" data-post-id="7653" data-author="Hades" data-date="2005-06-28T20:31:24+00:00" data-subject="The spit stops here...">
 
 I blame Jake of course. :twisted:
 
 </div>
 
-<div class="post" data-post-id="7708" data-author="Granty555" data-date="2005-07-01T08:32:24+00:00">
+<div class="post" data-post-id="7708" data-author="Granty555" data-date="2005-07-01T08:32:24+00:00" data-subject="">
 
 Dear British Telecom
 

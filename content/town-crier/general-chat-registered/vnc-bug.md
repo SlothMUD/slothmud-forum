@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="12986" data-author="jezer" data-date="2006-06-13T06:20:50+00:00">
+<div class="post" data-post-id="12986" data-author="jezer" data-date="2006-06-13T06:20:50+00:00" data-subject="VNC Bug!">
 
 Hardly a sloth mud topic... but I know the amount of programmers and nerds that frequent here, it will be helpful...
 
@@ -30,7 +30,7 @@ Kill your VNC's if they are connected to the outside world.
 
 </div>
 
-<div class="post" data-post-id="12997" data-author="Vixn" data-date="2006-06-15T17:28:47+00:00">
+<div class="post" data-post-id="12997" data-author="Vixn" data-date="2006-06-15T17:28:47+00:00" data-subject="">
 
 Could it be Morpheus and others?
 
@@ -38,7 +38,7 @@ Remember the Matrix has you and stuff..
 
 </div>
 
-<div class="post" data-post-id="12998" data-author="jezer" data-date="2006-06-15T23:31:16+00:00">
+<div class="post" data-post-id="12998" data-author="jezer" data-date="2006-06-15T23:31:16+00:00" data-subject="">
 
 I wasn't offered any pills...
 

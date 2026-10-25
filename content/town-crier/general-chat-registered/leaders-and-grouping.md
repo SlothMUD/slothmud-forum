@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="26636" data-author="Toxis" data-date="2008-10-11T00:17:47+00:00">
+<div class="post" data-post-id="26636" data-author="Toxis" data-date="2008-10-11T00:17:47+00:00" data-subject="Leaders and Grouping">
 
 People wonder why I picked two good two person group characters to play...
 
@@ -26,7 +26,7 @@ These people tell you to "stop bitching" or "what a whinner" but do you ever see
 
 </div>
 
-<div class="post" data-post-id="26637" data-author="brady" data-date="2008-10-11T00:47:01+00:00">
+<div class="post" data-post-id="26637" data-author="brady" data-date="2008-10-11T00:47:01+00:00" data-subject="">
 
 I knew this was coming.  I wasn't botting, i was paying attention, I spammed you back as a joke and as per usual, you got your panties in a bunch.  Pull em out of your ass and yeah, stop whining.  It isn't easy to pay attention to every line when all you can do is blind and hit.
 
@@ -34,13 +34,13 @@ So yeah, if you pull a d*ck move like recalling me for making a joke, i'll tell 
 
 </div>
 
-<div class="post" data-post-id="26638" data-author="Toxis" data-date="2008-10-11T01:14:16+00:00">
+<div class="post" data-post-id="26638" data-author="Toxis" data-date="2008-10-11T01:14:16+00:00" data-subject="">
 
 You weren't the only one I recalled and ungrouped, you were just the mouthiest one.  I'm sorry for ungrouping your powerful level 20 from my generous bh xp group.
 
 </div>
 
-<div class="post" data-post-id="26639" data-author="brady" data-date="2008-10-11T01:34:46+00:00">
+<div class="post" data-post-id="26639" data-author="brady" data-date="2008-10-11T01:34:46+00:00" data-subject="">
 
 You weren't the only one I recalled and ungrouped, you were just the mouthiest one. [/quote:a2owoj3u]
 
@@ -48,7 +48,7 @@ Its the Pirate way.  Now seriously, can Jackson join Legends?
 
 </div>
 
-<div class="post" data-post-id="26641" data-author="Autolycos" data-date="2008-10-11T02:36:48+00:00">
+<div class="post" data-post-id="26641" data-author="Autolycos" data-date="2008-10-11T02:36:48+00:00" data-subject="">
 
 lmfao
 
@@ -56,7 +56,7 @@ i'm so sorry i missed that...
 
 </div>
 
-<div class="post" data-post-id="26650" data-author="Yasik2" data-date="2008-10-11T11:36:54+00:00">
+<div class="post" data-post-id="26650" data-author="Yasik2" data-date="2008-10-11T11:36:54+00:00" data-subject="">
 
 I knew this was coming.  I wasn't botting, i was paying attention, I spammed you back as a joke and as per usual, you got your panties in a bunch.  Pull em out of your ass and yeah, stop whining.  It isn't easy to pay attention to every line when all you can do is blind and hit.
 
@@ -66,7 +66,7 @@ So yeah, if you pull a d*ck move like recalling me for making a joke, i'll tell 
 
 </div>
 
-<div class="post" data-post-id="26652" data-author="*juggleblood*" data-date="2008-10-11T14:30:19+00:00">
+<div class="post" data-post-id="26652" data-author="*juggleblood*" data-date="2008-10-11T14:30:19+00:00" data-subject="">
 
 if you're getting frustrated brad and just want to kick back and lead some xp, do it by invite only.  If you always lead open xp you will keep getting frustrated by the sponges. 
 
@@ -74,7 +74,7 @@ I def feel your pain. The hassle of running open xp is often great. In general y
 
 </div>
 
-<div class="post" data-post-id="26653" data-author="Medios" data-date="2008-10-11T14:33:57+00:00">
+<div class="post" data-post-id="26653" data-author="Medios" data-date="2008-10-11T14:33:57+00:00" data-subject="">
 
 Lol
 
@@ -82,13 +82,13 @@ Try leading epics when players want to be in level 40s instead of their avatars.
 
 </div>
 
-<div class="post" data-post-id="26663" data-author="*juggleblood*" data-date="2008-10-11T21:21:04+00:00">
+<div class="post" data-post-id="26663" data-author="*juggleblood*" data-date="2008-10-11T21:21:04+00:00" data-subject="">
 
 Exactly, and it's hard to say no to an old skool tard who wants the honor on their noob, but then you have noobs wanting to bring their noob alts. It's hard to tell someone, sorry but you're too much of an idiot and I don't trust you to stay alive.
 
 </div>
 
-<div class="post" data-post-id="26665" data-author="Autolycos" data-date="2008-10-11T22:09:03+00:00">
+<div class="post" data-post-id="26665" data-author="Autolycos" data-date="2008-10-11T22:09:03+00:00" data-subject="">
 
 It's hard to tell someone, sorry but you're too much of an idiot and I don't trust you to stay alive.[/quote:okb5d24m]
 
@@ -98,7 +98,7 @@ thats EXACTLY what you should be telling them!
 
 </div>
 
-<div class="post" data-post-id="26673" data-author="firebrand" data-date="2008-10-13T14:29:02+00:00">
+<div class="post" data-post-id="26673" data-author="firebrand" data-date="2008-10-13T14:29:02+00:00" data-subject="">
 
 Lol
 
@@ -110,7 +110,7 @@ and ppl wonder why i despise epics and/or why i  have quit leading or joining gr
 
 </div>
 
-<div class="post" data-post-id="26676" data-author="Yinao" data-date="2008-10-13T16:29:50+00:00">
+<div class="post" data-post-id="26676" data-author="Yinao" data-date="2008-10-13T16:29:50+00:00" data-subject="">
 
 Don't worry Nancy... Brad ungrouped me too  :( 
 
@@ -118,13 +118,13 @@ Don't worry Nancy... Brad ungrouped me too  :(
 
 </div>
 
-<div class="post" data-post-id="26689" data-author="alias" data-date="2008-10-14T17:55:28+00:00">
+<div class="post" data-post-id="26689" data-author="alias" data-date="2008-10-14T17:55:28+00:00" data-subject="">
 
 If you want to kill sashs ect do it. Hell I killed the king about 20 times just to pop some rings. Yes you lose honor , but its not like you can't earn it back if it matters to you.
 
 </div>
 
-<div class="post" data-post-id="26693" data-author="jezer" data-date="2008-10-14T23:40:53+00:00">
+<div class="post" data-post-id="26693" data-author="jezer" data-date="2008-10-14T23:40:53+00:00" data-subject="">
 
 If you want to kill sashs ect do it. Hell I killed the king about 20 times just to pop some rings. Yes you lose honor , but its not like you can't earn it back if it matters to you.[/quote:2o500o1r]
 

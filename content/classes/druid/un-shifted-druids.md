@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="19832" data-author="Widow" data-date="2007-08-22T18:29:04+00:00">
+<div class="post" data-post-id="19832" data-author="Widow" data-date="2007-08-22T18:29:04+00:00" data-subject="Un-shifted Druids">
 
 Ok, I am not Prime Druid, but I am 2nd and there are a few spells at L20 that I've found have been more than helpful. Freshwater and regeneration and fluidity come immediately to mind. Even though I'm new and considerably lower level than many ppl on this mud, are there advantages to un-shifted druids aside from these spells?
 
@@ -24,7 +24,7 @@ Widow
 
 </div>
 
-<div class="post" data-post-id="19836" data-author="Avatar" data-date="2007-08-22T19:26:48+00:00">
+<div class="post" data-post-id="19836" data-author="Avatar" data-date="2007-08-22T19:26:48+00:00" data-subject="Druids Unshifted">
 
 I'd guess that the biggest benefit to druids unshifted is the bonus mana regen.  If you haven't seen already, you'll regen mana much faster if you stand/rest/sleep outdoors rather than indoors.  Use the "weather" command to check, if you're indoors you won't be able to see the weather.  That bonus mana regen will help to power any spells from druid or your other classes.
 
@@ -38,7 +38,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="19842" data-author="tincts" data-date="2007-08-23T02:13:34+00:00">
+<div class="post" data-post-id="19842" data-author="tincts" data-date="2007-08-23T02:13:34+00:00" data-subject="Re: Druids Unshifted">
 
 If you are ordering pets from your prime class (necro for example), this is a 1 tick delay.  If you're ordering pets from other classes (awaken, supplication), you'll have a 2 tick delay.
 
@@ -48,7 +48,7 @@ Just to clarify (not being anal), it's a 1/2 battle round delay, not tick.
 
 </div>
 
-<div class="post" data-post-id="19846" data-author="Widow" data-date="2007-08-23T03:13:59+00:00">
+<div class="post" data-post-id="19846" data-author="Widow" data-date="2007-08-23T03:13:59+00:00" data-subject="">
 
 Good deal. Now if I could just get the sb, I'd give it a shot!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="10671" data-author="Weasel" data-date="2006-02-11T18:34:21+00:00">
+<div class="post" data-post-id="10671" data-author="Weasel" data-date="2006-02-11T18:34:21+00:00" data-subject="Valk Autoquests">
 
 list them here
 
@@ -24,7 +24,7 @@ Reward:
 
 </div>
 
-<div class="post" data-post-id="12115" data-author="Zing" data-date="2006-04-16T15:50:56+00:00">
+<div class="post" data-post-id="12115" data-author="Zing" data-date="2006-04-16T15:50:56+00:00" data-subject="VK Autoquests - If I remember correctly...">
 
 Name of quest: Scorcher
 
@@ -36,7 +36,7 @@ Reward: Scorched link mail of the sun
 
 </div>
 
-<div class="post" data-post-id="12116" data-author="Zing" data-date="2006-04-16T15:53:33+00:00">
+<div class="post" data-post-id="12116" data-author="Zing" data-date="2006-04-16T15:53:33+00:00" data-subject="Please correct my mistakes">
 
 Name of quest: Eggs
 
@@ -48,7 +48,7 @@ Reward: God Sanc Potion
 
 </div>
 
-<div class="post" data-post-id="12117" data-author="Zing" data-date="2006-04-16T15:59:37+00:00">
+<div class="post" data-post-id="12117" data-author="Zing" data-date="2006-04-16T15:59:37+00:00" data-subject="VK autoquests - What bits I remember">
 
 Name of quest: Dark Magic
 
@@ -100,7 +100,7 @@ Reward:
 
 </div>
 
-<div class="post" data-post-id="13808" data-author="broeggle" data-date="2006-08-27T18:48:22+00:00">
+<div class="post" data-post-id="13808" data-author="broeggle" data-date="2006-08-27T18:48:22+00:00" data-subject="Re: VK autoquests - What bits I remember">
 
 Name of quest: Grandmaster - law
 
@@ -128,7 +128,7 @@ Reward: 5 Drachma
 
 </div>
 
-<div class="post" data-post-id="15343" data-author="Bazilus" data-date="2006-11-26T14:10:34+00:00">
+<div class="post" data-post-id="15343" data-author="Bazilus" data-date="2006-11-26T14:10:34+00:00" data-subject="">
 
 :twisted:
 
@@ -138,13 +138,13 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="15349" data-author="Rajil" data-date="2006-11-26T16:47:31+00:00">
+<div class="post" data-post-id="15349" data-author="Rajil" data-date="2006-11-26T16:47:31+00:00" data-subject="AQs">
 
 Hell, just monitor slothblog and you'll know the quests.
 
 </div>
 
-<div class="post" data-post-id="25586" data-author="Kelgar" data-date="2008-08-05T08:17:05+00:00">
+<div class="post" data-post-id="25586" data-author="Kelgar" data-date="2008-08-05T08:17:05+00:00" data-subject="">
 
 Name of the quest: ?
 
@@ -172,7 +172,7 @@ Reward: 10000 gold
 
 </div>
 
-<div class="post" data-post-id="30240" data-author="Marvel" data-date="2009-11-07T00:45:48+00:00">
+<div class="post" data-post-id="30240" data-author="Marvel" data-date="2009-11-07T00:45:48+00:00" data-subject="Tiger_Breeches">
 
 Name of the Quest: Tiger_Breeches
 
@@ -186,7 +186,7 @@ Thanks to Chobbs for adding the quest!
 
 </div>
 
-<div class="post" data-post-id="31934" data-author="Kelgar" data-date="2010-10-27T13:01:55+00:00">
+<div class="post" data-post-id="31934" data-author="Kelgar" data-date="2010-10-27T13:01:55+00:00" data-subject="Re: Valk Autoquests">
 
 Name of quest: herbs_for_mikala
 
@@ -206,7 +206,7 @@ Reward: single-sided die
 
 </div>
 
-<div class="post" data-post-id="33092" data-author="Jagon" data-date="2011-12-15T06:27:50+00:00">
+<div class="post" data-post-id="33092" data-author="Jagon" data-date="2011-12-15T06:27:50+00:00" data-subject="Re: Valk Autoquests">
 
 Name of quest:for_tisa
 
@@ -218,7 +218,7 @@ Reward: one drachma
 
 </div>
 
-<div class="post" data-post-id="33093" data-author="Jagon" data-date="2011-12-15T06:30:57+00:00">
+<div class="post" data-post-id="33093" data-author="Jagon" data-date="2011-12-15T06:30:57+00:00" data-subject="Re: Valk Autoquests">
 
 Name of quest:shodas_boots
 
@@ -230,7 +230,7 @@ Reward:2 drachma
 
 </div>
 
-<div class="post" data-post-id="33094" data-author="Jagon" data-date="2011-12-15T06:34:59+00:00">
+<div class="post" data-post-id="33094" data-author="Jagon" data-date="2011-12-15T06:34:59+00:00" data-subject="Re: Valk Autoquests">
 
 Name of quest:library_visit
 
@@ -242,7 +242,7 @@ Reward: 10000 exp
 
 </div>
 
-<div class="post" data-post-id="33127" data-author="Jagon" data-date="2012-01-04T15:44:49+00:00">
+<div class="post" data-post-id="33127" data-author="Jagon" data-date="2012-01-04T15:44:49+00:00" data-subject="Re: Valk Autoquests">
 
 Name of quest: a_pretty_gem
 
@@ -256,7 +256,7 @@ can be repeated
 
 </div>
 
-<div class="post" data-post-id="33133" data-author="Jagon" data-date="2012-01-10T07:54:11+00:00">
+<div class="post" data-post-id="33133" data-author="Jagon" data-date="2012-01-10T07:54:11+00:00" data-subject="Re: Valk Autoquests">
 
 Name of quest:lost
 
@@ -268,7 +268,7 @@ Reward: ??
 
 </div>
 
-<div class="post" data-post-id="34263" data-author="Yasik" data-date="2013-04-27T12:33:29+00:00">
+<div class="post" data-post-id="34263" data-author="Yasik" data-date="2013-04-27T12:33:29+00:00" data-subject="Re: Valk Autoquests">
 
 > **Jagon wrote:**
 > Name of quest:lost
@@ -293,7 +293,7 @@ PS. 200 alignment point changed my alignment from 0 to +1, is it really so much?
 
 </div>
 
-<div class="post" data-post-id="34313" data-author="Yasik" data-date="2013-06-08T15:34:57+00:00">
+<div class="post" data-post-id="34313" data-author="Yasik" data-date="2013-06-08T15:34:57+00:00" data-subject="Re: Valk Autoquests">
 
 Erdogan tells you 'Congratulations, you have completed the quest 'slay_wrathgen'!'
 
@@ -381,7 +381,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="34314" data-author="Yasik" data-date="2013-06-08T17:58:00+00:00">
+<div class="post" data-post-id="34314" data-author="Yasik" data-date="2013-06-08T17:58:00+00:00" data-subject="Re: Valk Autoquests">
 
 "eggs" remade:
 
@@ -397,7 +397,7 @@ Much better!
 
 </div>
 
-<div class="post" data-post-id="34315" data-author="Yasik" data-date="2013-06-08T18:16:51+00:00">
+<div class="post" data-post-id="34315" data-author="Yasik" data-date="2013-06-08T18:16:51+00:00" data-subject="Re: Valk Autoquests">
 
 Master Boda tells you 'Congratulations, you have completed the quest 'slay_burbalangs'!'
 

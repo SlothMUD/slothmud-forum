@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="33877" data-author="Burl" data-date="2012-12-31T18:22:51+00:00">
+<div class="post" data-post-id="33877" data-author="Burl" data-date="2012-12-31T18:22:51+00:00" data-subject="Can&#x27;t logon">
 
 Anybody else having trouble logging in?  Traceroute is timing out
 
@@ -34,7 +34,7 @@ Anybody else having trouble logging in?  Traceroute is timing out
 
 </div>
 
-<div class="post" data-post-id="33878" data-author="*Splork*" data-date="2012-12-31T18:30:05+00:00">
+<div class="post" data-post-id="33878" data-author="*Splork*" data-date="2012-12-31T18:30:05+00:00" data-subject="Re: Can&#x27;t logon">
 
 Investigating
 
@@ -42,7 +42,7 @@ Lets hope TMC is not resetting and the DDOS attacks are beginning again:)
 
 </div>
 
-<div class="post" data-post-id="33879" data-author="dracmas" data-date="2012-12-31T19:02:27+00:00">
+<div class="post" data-post-id="33879" data-author="dracmas" data-date="2012-12-31T19:02:27+00:00" data-subject="Re: Can&#x27;t logon">
 
 I don't even get that far.
 
@@ -50,7 +50,7 @@ It automatically goes to "could not connect"
 
 </div>
 
-<div class="post" data-post-id="33880" data-author="Toxis" data-date="2012-12-31T20:44:02+00:00">
+<div class="post" data-post-id="33880" data-author="Toxis" data-date="2012-12-31T20:44:02+00:00" data-subject="Re: Can&#x27;t logon">
 
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIi wannaplayslothrightnowgoddammit!
 
@@ -58,7 +58,7 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIi wannaplayslothrightnowgoddammit!
 
 </div>
 
-<div class="post" data-post-id="33881" data-author="*Splork*" data-date="2012-12-31T21:00:52+00:00">
+<div class="post" data-post-id="33881" data-author="*Splork*" data-date="2012-12-31T21:00:52+00:00" data-subject="Back up">
 
 Mud is back up
 

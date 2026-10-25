@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="9589" data-author="Yasik" data-date="2005-11-20T04:36:34+00:00">
+<div class="post" data-post-id="9589" data-author="Yasik" data-date="2005-11-20T04:36:34+00:00" data-subject="Lost con 5 times in a row">
 
 [img:34uejai9]http://yasik.mci.kiev.ua/LostCon5.jpg[/img:34uejai9]
 
@@ -22,7 +22,7 @@ No whine, post only for fun :)
 
 </div>
 
-<div class="post" data-post-id="9605" data-author="Blackguard" data-date="2005-11-22T23:56:43+00:00">
+<div class="post" data-post-id="9605" data-author="Blackguard" data-date="2005-11-22T23:56:43+00:00" data-subject="">
 
 <430hp 32ma 146mv 1391359xp>
 
@@ -140,7 +140,7 @@ I lost it 4 times. I'm cooler than you are so I guess I win.
 
 </div>
 
-<div class="post" data-post-id="9608" data-author="Clink" data-date="2005-11-23T03:49:46+00:00">
+<div class="post" data-post-id="9608" data-author="Clink" data-date="2005-11-23T03:49:46+00:00" data-subject="">
 
 For the record, I wasn't online at the time.
 

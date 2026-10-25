@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="33389" data-author="harik" data-date="2012-07-20T03:27:20+00:00">
+<div class="post" data-post-id="33389" data-author="harik" data-date="2012-07-20T03:27:20+00:00" data-subject="Blood Requiem">
 
 (Cross-pasted from the quest topic)
 
@@ -112,7 +112,7 @@ Only those who are primary adept necromancers may use this item.
 
 </div>
 
-<div class="post" data-post-id="33431" data-author="harik" data-date="2012-08-07T23:54:04+00:00">
+<div class="post" data-post-id="33431" data-author="harik" data-date="2012-08-07T23:54:04+00:00" data-subject="Re: Blood Requiem">
 
 > **harik wrote:**
 > a piece of stretched lycan skin:
@@ -154,7 +154,7 @@ Sorry pixie!  Still love the area. :)
 
 </div>
 
-<div class="post" data-post-id="33432" data-author="Toxis" data-date="2012-08-08T11:20:31+00:00">
+<div class="post" data-post-id="33432" data-author="Toxis" data-date="2012-08-08T11:20:31+00:00" data-subject="Re: Blood Requiem">
 
 Blade now stabs as it was intended to do.
 
@@ -164,7 +164,7 @@ I will get with Pixie as soon as possible to fix the forge note.  Thank you for 
 
 </div>
 
-<div class="post" data-post-id="33436" data-author="harik" data-date="2012-08-10T17:03:49+00:00">
+<div class="post" data-post-id="33436" data-author="harik" data-date="2012-08-10T17:03:49+00:00" data-subject="Re: Blood Requiem">
 
 > **Toxis wrote:**
 > Blade now stabs as it was intended to do.

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39989" data-author="cnl" data-date="2022-12-17T22:58:39+00:00">
+<div class="post" data-post-id="39989" data-author="cnl" data-date="2022-12-17T22:58:39+00:00" data-subject="Dark Valk Area Opener &amp;amp; Forges">
 
 Many thanks Maniac for the many, many hours put into this large new expansion of areas and new forges, thanks Idjit for the setup and herding of cats of the area(s) opener quest, and Riq for being willing to lead us unruly laggards around.
 
@@ -524,7 +524,7 @@ Requires: 5000000 coins, 5x a pulsating shard of darkness (1)
 
 </div>
 
-<div class="post" data-post-id="39994" data-author="Ezekiel" data-date="2022-12-28T09:06:54+00:00">
+<div class="post" data-post-id="39994" data-author="Ezekiel" data-date="2022-12-28T09:06:54+00:00" data-subject="Re: Dark Valk Area Opener &amp;amp; Forges">
 
 At master-forge in Dark Star City:
 

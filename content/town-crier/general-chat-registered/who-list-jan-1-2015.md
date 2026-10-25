@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="35608" data-author="*juggleblood*" data-date="2015-01-01T17:26:15+00:00">
+<div class="post" data-post-id="35608" data-author="*juggleblood*" data-date="2015-01-01T17:26:15+00:00" data-subject="Who List Jan 1, 2015">
 
 ```
 [   *Creator*    ] Splork mudlet.org
@@ -48,7 +48,7 @@ Highest total since last bootup: 26.
 
 </div>
 
-<div class="post" data-post-id="35609" data-author="Tuck" data-date="2015-01-02T13:14:37+00:00">
+<div class="post" data-post-id="35609" data-author="Tuck" data-date="2015-01-02T13:14:37+00:00" data-subject="Re: Who List Jan 1, 2015">
 
 Wow, Clink!
 

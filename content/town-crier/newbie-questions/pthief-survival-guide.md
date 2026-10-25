@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="17866" data-author="12345" data-date="2007-04-08T06:04:17+00:00">
+<div class="post" data-post-id="17866" data-author="12345" data-date="2007-04-08T06:04:17+00:00" data-subject="Pthief Survival Guide">
 
 Moving this to its own thread... 
 
@@ -60,19 +60,19 @@ just my 2 cents.[/quote:2u06j8ju]
 
 </div>
 
-<div class="post" data-post-id="17867" data-author="12345" data-date="2007-04-08T06:05:28+00:00">
+<div class="post" data-post-id="17867" data-author="12345" data-date="2007-04-08T06:05:28+00:00" data-subject="">
 
 Oh, and I forgot to mention the most basic pthief rule.  They can't steal anything that's not in your inventory.  Keep your inventory clean and the the worst they can really do to you is make you thirsty.
 
 </div>
 
-<div class="post" data-post-id="17868" data-author="Assirian" data-date="2007-04-08T08:06:28+00:00">
+<div class="post" data-post-id="17868" data-author="Assirian" data-date="2007-04-08T08:06:28+00:00" data-subject="">
 
 Use 'where' command. It shows all players (even hidden, as I know) in area. So, it is needed to get more care if there is some pthief-like char in the same area with you.
 
 </div>
 
-<div class="post" data-post-id="17869" data-author="Assirian" data-date="2007-04-08T09:10:20+00:00">
+<div class="post" data-post-id="17869" data-author="Assirian" data-date="2007-04-08T09:10:20+00:00" data-subject="">
 
 I applogise for wrong advice, hidden players are visible only on 'where char_name' command. Thats useful only for known pthiefs..
 

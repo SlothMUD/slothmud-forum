@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38528" data-author="Gorka" data-date="2017-12-08T08:26:26+00:00">
+<div class="post" data-post-id="38528" data-author="Gorka" data-date="2017-12-08T08:26:26+00:00" data-subject="Crossroads EQ">
 
 Not sure why this isn't on the eq list in an area as old as crossroads...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="27605" data-author="Nicolai" data-date="2009-01-04T09:42:21+00:00">
+<div class="post" data-post-id="27605" data-author="Nicolai" data-date="2009-01-04T09:42:21+00:00" data-subject="updating account on website">
 
 Hi,
 
@@ -22,7 +22,7 @@ Am i doing someting wrong?
 
 </div>
 
-<div class="post" data-post-id="27606" data-author="Rynquald" data-date="2009-01-04T11:17:11+00:00">
+<div class="post" data-post-id="27606" data-author="Rynquald" data-date="2009-01-04T11:17:11+00:00" data-subject="">
 
 Trying to change your info has been a bit of a hit and miss process for quite some time now.
 
@@ -32,13 +32,13 @@ And welcome to the Crier :)
 
 </div>
 
-<div class="post" data-post-id="27613" data-author="jezer" data-date="2009-01-04T21:21:30+00:00">
+<div class="post" data-post-id="27613" data-author="jezer" data-date="2009-01-04T21:21:30+00:00" data-subject="">
 
 Where ya been Ryn? Taking a break? Lost interest?
 
 </div>
 
-<div class="post" data-post-id="27615" data-author="Rynquald" data-date="2009-01-05T04:24:30+00:00">
+<div class="post" data-post-id="27615" data-author="Rynquald" data-date="2009-01-05T04:24:30+00:00" data-subject="">
 
 I've mostly just been doing other things. I definitely want to get back involved with the mud though. It would also be nice to finish my area sometime before we all grow old.
 

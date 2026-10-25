@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="16228" data-author="firebrand" data-date="2007-01-12T17:11:45+00:00">
+<div class="post" data-post-id="16228" data-author="firebrand" data-date="2007-01-12T17:11:45+00:00" data-subject="clan  channels">
 
 clan channels need to show joiners/leavers please
 
@@ -18,19 +18,19 @@ clan channels need to show joiners/leavers please
 
 </div>
 
-<div class="post" data-post-id="16235" data-author="Autolycos" data-date="2007-01-12T21:09:16+00:00">
+<div class="post" data-post-id="16235" data-author="Autolycos" data-date="2007-01-12T21:09:16+00:00" data-subject="">
 
 why?  there is only 2 of you anyway
 
 </div>
 
-<div class="post" data-post-id="16247" data-author="firebrand" data-date="2007-01-13T19:24:38+00:00">
+<div class="post" data-post-id="16247" data-author="firebrand" data-date="2007-01-13T19:24:38+00:00" data-subject="">
 
 because perhaps -other- clans are interested in seeing join/leave messages as well
 
 </div>
 
-<div class="post" data-post-id="16249" data-author="Autolycos" data-date="2007-01-13T21:33:12+00:00">
+<div class="post" data-post-id="16249" data-author="Autolycos" data-date="2007-01-13T21:33:12+00:00" data-subject="">
 
 there are other clans????  :shock: 
 
@@ -38,7 +38,7 @@ surely you jest  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16250" data-author="Weasel" data-date="2007-01-13T21:47:08+00:00">
+<div class="post" data-post-id="16250" data-author="Weasel" data-date="2007-01-13T21:47:08+00:00" data-subject="">
 
 there can be only one...
 
@@ -46,7 +46,7 @@ there can be only one...
 
 </div>
 
-<div class="post" data-post-id="16251" data-author="12345" data-date="2007-01-13T22:34:20+00:00">
+<div class="post" data-post-id="16251" data-author="12345" data-date="2007-01-13T22:34:20+00:00" data-subject="">
 
 That would be a worthy use of the chaos port me thinks.
 
@@ -54,13 +54,13 @@ Would be fun to see how the dust settles.
 
 </div>
 
-<div class="post" data-post-id="16252" data-author="13" data-date="2007-01-14T00:13:12+00:00">
+<div class="post" data-post-id="16252" data-author="13" data-date="2007-01-14T00:13:12+00:00" data-subject="">
 
 chuckle
 
 </div>
 
-<div class="post" data-post-id="16257" data-author="Blastard" data-date="2007-01-14T16:49:44+00:00">
+<div class="post" data-post-id="16257" data-author="Blastard" data-date="2007-01-14T16:49:44+00:00" data-subject="">
 
 To all things...there IS a season.
 

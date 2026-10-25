@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="139" data-author="Nascosto" data-date="2004-04-05T07:16:08+00:00">
+<div class="post" data-post-id="139" data-author="Nascosto" data-date="2004-04-05T07:16:08+00:00" data-subject="WTT Blue Ring of Ice for White Ring of Fire">
 
 I have a Blue Ring of Ice, -0.4 resist cold
 

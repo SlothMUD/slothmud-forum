@@ -10,7 +10,7 @@ locked: true
 post_count: 96
 ---
 
-<div class="post" data-post-id="17192" data-author="Toxis" data-date="2007-03-07T04:05:20+00:00">
+<div class="post" data-post-id="17192" data-author="Toxis" data-date="2007-03-07T04:05:20+00:00" data-subject="Top Mudsites Vote Reset">
 
 There's only a handful of votes out there atm, we could try to at least stay in the top 20 now, draw a new crowd to Sloth.  It only takes a second.  So if you like Sloth, give a shout out and vote for Sloth.
 
@@ -18,7 +18,7 @@ There's only a handful of votes out there atm, we could try to at least stay in 
 
 </div>
 
-<div class="post" data-post-id="17193" data-author="brand" data-date="2007-03-07T06:01:18+00:00">
+<div class="post" data-post-id="17193" data-author="brand" data-date="2007-03-07T06:01:18+00:00" data-subject="">
 
 i'm trying to get down to that mudsites vote...
 
@@ -28,13 +28,13 @@ GO SLOTH!  VOTE SLOTH! :!:
 
 </div>
 
-<div class="post" data-post-id="21536" data-author="brady" data-date="2007-12-04T22:01:37+00:00">
+<div class="post" data-post-id="21536" data-author="brady" data-date="2007-12-04T22:01:37+00:00" data-subject="">
 
 Reset again...please take a second to vote.
 
 </div>
 
-<div class="post" data-post-id="21537" data-author="resouh" data-date="2007-12-04T22:27:28+00:00">
+<div class="post" data-post-id="21537" data-author="resouh" data-date="2007-12-04T22:27:28+00:00" data-subject="">
 
 Nods, I generally don't get hyped on the whole voting thing but sloth is ranked 68th right now so please vote.  I'm beginning to feel like I'm voting for the green party here.
 
@@ -44,13 +44,13 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="21539" data-author="Rynquald" data-date="2007-12-04T23:59:50+00:00">
+<div class="post" data-post-id="21539" data-author="Rynquald" data-date="2007-12-04T23:59:50+00:00" data-subject="">
 
 We've actually dropped down to #1585 (!) now, looks like everyone else is voting pretty hard.
 
 </div>
 
-<div class="post" data-post-id="21542" data-author="Leaf" data-date="2007-12-05T02:50:06+00:00">
+<div class="post" data-post-id="21542" data-author="Leaf" data-date="2007-12-05T02:50:06+00:00" data-subject="">
 
 We do have the best Mud out there, can't you tell!!!
 
@@ -58,7 +58,7 @@ We do have the best Mud out there, can't you tell!!!
 
 </div>
 
-<div class="post" data-post-id="21543" data-author="brady" data-date="2007-12-05T03:18:55+00:00">
+<div class="post" data-post-id="21543" data-author="brady" data-date="2007-12-05T03:18:55+00:00" data-subject="">
 
 16. SlothMUD III  view stats  20  
 
@@ -66,7 +66,7 @@ still a little sad but it ain't 1585.
 
 </div>
 
-<div class="post" data-post-id="21545" data-author="Akasha" data-date="2007-12-05T09:30:27+00:00">
+<div class="post" data-post-id="21545" data-author="Akasha" data-date="2007-12-05T09:30:27+00:00" data-subject="">
 
 Make sure to vote.  We're 4 points out of the top 10 now
 
@@ -76,7 +76,7 @@ Make sure to vote.  We're 4 points out of the top 10 now
 
 </div>
 
-<div class="post" data-post-id="21546" data-author="Leaf" data-date="2007-12-05T15:00:17+00:00">
+<div class="post" data-post-id="21546" data-author="Leaf" data-date="2007-12-05T15:00:17+00:00" data-subject="">
 
 Is there another link to check our status?
 
@@ -86,7 +86,7 @@ dropped from #12 to #16.
 
 </div>
 
-<div class="post" data-post-id="21547" data-author="brady" data-date="2007-12-05T15:14:13+00:00">
+<div class="post" data-post-id="21547" data-author="brady" data-date="2007-12-05T15:14:13+00:00" data-subject="">
 
 8. SlothMUD III  view stats  44  
 
@@ -94,7 +94,7 @@ dropped from #12 to #16.
 
 </div>
 
-<div class="post" data-post-id="21592" data-author="brady" data-date="2007-12-09T17:18:07+00:00">
+<div class="post" data-post-id="21592" data-author="brady" data-date="2007-12-09T17:18:07+00:00" data-subject="">
 
 Connection Stats Votes Cast 
 
@@ -116,7 +116,7 @@ Connection Stats Votes Cast
 
 </div>
 
-<div class="post" data-post-id="21666" data-author="Widow" data-date="2007-12-14T20:49:30+00:00">
+<div class="post" data-post-id="21666" data-author="Widow" data-date="2007-12-14T20:49:30+00:00" data-subject="">
 
 Just an FYI - you can vote 1/day. My suggestion is boot up this website while you are booting your client/scripts - click vote and log in. Wash rinse - repeat daily.
 
@@ -126,7 +126,7 @@ I found this mud because it was the first mud that came up on the Wintin client 
 
 </div>
 
-<div class="post" data-post-id="21680" data-author="brady" data-date="2007-12-16T15:25:07+00:00">
+<div class="post" data-post-id="21680" data-author="brady" data-date="2007-12-16T15:25:07+00:00" data-subject="">
 
 In case you were wondering...
 
@@ -148,7 +148,7 @@ In case you were wondering...
 
 </div>
 
-<div class="post" data-post-id="21681" data-author="Autolycos" data-date="2007-12-16T17:57:23+00:00">
+<div class="post" data-post-id="21681" data-author="Autolycos" data-date="2007-12-16T17:57:23+00:00" data-subject="">
 
 I found this mud because it was the first mud that came up on the Wintin client list. Wouldn't you like to see people more like me?! 
 
@@ -158,7 +158,7 @@ stfu bytch
 
 </div>
 
-<div class="post" data-post-id="21683" data-author="Alberich" data-date="2007-12-16T19:04:06+00:00">
+<div class="post" data-post-id="21683" data-author="Alberich" data-date="2007-12-16T19:04:06+00:00" data-subject="">
 
 I found this mud because it was the first mud that came up on the Wintin client list. Wouldn't you like to see people more like me?! 
 
@@ -168,31 +168,31 @@ I'd imagine that has rather more to do with who wrote wintin than any rankings o
 
 </div>
 
-<div class="post" data-post-id="21887" data-author="Weasel" data-date="2008-01-07T17:39:43+00:00">
+<div class="post" data-post-id="21887" data-author="Weasel" data-date="2008-01-07T17:39:43+00:00" data-subject="">
 
 some unknown mud has suddenly gained hundreds of votes and is about to push sloth down to 9th.. vote pls. every day.
 
 </div>
 
-<div class="post" data-post-id="21904" data-author="Widow" data-date="2008-01-08T16:28:00+00:00">
+<div class="post" data-post-id="21904" data-author="Widow" data-date="2008-01-08T16:28:00+00:00" data-subject="Lost 8th place by 4 votes.">
 
 Anyone here feel like a Floridian?
 
 </div>
 
-<div class="post" data-post-id="21968" data-author="Widow" data-date="2008-01-11T04:27:47+00:00">
+<div class="post" data-post-id="21968" data-author="Widow" data-date="2008-01-11T04:27:47+00:00" data-subject="Vote every day">
 
 There was a change with the mud list, looks like it's updating every day instead of whenever they get around to it. Let's hear it for immediate gratification!
 
 </div>
 
-<div class="post" data-post-id="22030" data-author="Rynquald" data-date="2008-01-14T21:03:57+00:00">
+<div class="post" data-post-id="22030" data-author="Rynquald" data-date="2008-01-14T21:03:57+00:00" data-subject="">
 
 We're up to 7th after dropping down to 9th a few days ago, nice work :)
 
 </div>
 
-<div class="post" data-post-id="22033" data-author="Thraxas" data-date="2008-01-15T09:00:07+00:00">
+<div class="post" data-post-id="22033" data-author="Thraxas" data-date="2008-01-15T09:00:07+00:00" data-subject="">
 
 ... 30 votes off catching 6th place, 30 votes from falling to 8th again.
 
@@ -200,7 +200,7 @@ Nice work all, keep it up.
 
 </div>
 
-<div class="post" data-post-id="22035" data-author="Thraxas" data-date="2008-01-16T10:49:39+00:00">
+<div class="post" data-post-id="22035" data-author="Thraxas" data-date="2008-01-16T10:49:39+00:00" data-subject="">
 
 Nice work!
 
@@ -228,7 +228,7 @@ Mud Name Connection Stats Votes Cast
 
 </div>
 
-<div class="post" data-post-id="22036" data-author="Widow" data-date="2008-01-16T14:16:08+00:00">
+<div class="post" data-post-id="22036" data-author="Widow" data-date="2008-01-16T14:16:08+00:00" data-subject="">
 
 It's interesting because on our home page it says we're ranked #7, I hit the TMC site and it says #6.
 
@@ -236,7 +236,7 @@ Either way - keep voting! We're almost to #5!
 
 </div>
 
-<div class="post" data-post-id="22088" data-author="tincts" data-date="2008-01-20T22:48:57+00:00">
+<div class="post" data-post-id="22088" data-author="tincts" data-date="2008-01-20T22:48:57+00:00" data-subject="13 short of #5">
 
 Roll on, you voters.  Roll on those americans amongst you who choose to vote (it's compulsory here in Australia).  Roll on, you citizens of autocracies who don't know how to vote (click on the little vote button).  Vote on, you rollers.
 
@@ -244,7 +244,7 @@ Roll on, you voters.  Roll on those americans amongst you who choose to vote (it
 
 </div>
 
-<div class="post" data-post-id="22098" data-author="Thraxas" data-date="2008-01-21T15:10:01+00:00">
+<div class="post" data-post-id="22098" data-author="Thraxas" data-date="2008-01-21T15:10:01+00:00" data-subject="Keep On Voting ...">
 
 Mud Name Connection Stats Votes Cast 
 
@@ -270,7 +270,7 @@ Mud Name Connection Stats Votes Cast
 
 </div>
 
-<div class="post" data-post-id="22110" data-author="Thraxas" data-date="2008-01-21T18:06:25+00:00">
+<div class="post" data-post-id="22110" data-author="Thraxas" data-date="2008-01-21T18:06:25+00:00" data-subject="TMC Rank 5 !">
 
 Mud Name Connection Stats Votes Cast 
 
@@ -298,7 +298,7 @@ Mud Name Connection Stats Votes Cast
 
 </div>
 
-<div class="post" data-post-id="22131" data-author="slobe" data-date="2008-01-22T03:42:55+00:00">
+<div class="post" data-post-id="22131" data-author="slobe" data-date="2008-01-22T03:42:55+00:00" data-subject="">
 
 Yea I just looked and we're just 128 votes from second! Keep up the rad voting guys
 
@@ -306,13 +306,13 @@ With mud down gives us plenty of time to do so :)
 
 </div>
 
-<div class="post" data-post-id="22133" data-author="jezer" data-date="2008-01-22T06:23:52+00:00">
+<div class="post" data-post-id="22133" data-author="jezer" data-date="2008-01-22T06:23:52+00:00" data-subject="">
 
 Thought it must be my turn to state the obvious, and rant on about how you should keep voting, now that we are number 5... and you should vote... I mean really... please?... pretty please? meh...  :roll:
 
 </div>
 
-<div class="post" data-post-id="22184" data-author="banedon" data-date="2008-01-23T03:36:16+00:00">
+<div class="post" data-post-id="22184" data-author="banedon" data-date="2008-01-23T03:36:16+00:00" data-subject="">
 
 well even though i dont have much time to mud lately, i'm still trying to keep an eye on things are going.  WAY TO GO ADDICTS!  in less than a month we have blown the doors off of the voting and are within 75 votes of 2nd place.  If we can keep up this pace i forsee 1st place before very long.
 
@@ -330,7 +330,7 @@ Mud Name 	Connection Stats 	Votes Cast
 
 </div>
 
-<div class="post" data-post-id="22241" data-author="Widow" data-date="2008-01-23T23:06:06+00:00">
+<div class="post" data-post-id="22241" data-author="Widow" data-date="2008-01-23T23:06:06+00:00" data-subject="">
 
 VOTE VOTE VOTE VOTE VOTE!
 
@@ -338,7 +338,7 @@ We're 3 votes from #3!
 
 </div>
 
-<div class="post" data-post-id="22243" data-author="Weasel" data-date="2008-01-23T23:25:21+00:00">
+<div class="post" data-post-id="22243" data-author="Weasel" data-date="2008-01-23T23:25:21+00:00" data-subject="">
 
 Make that 2 away!
 
@@ -354,7 +354,7 @@ Make that 2 away!
 
 </div>
 
-<div class="post" data-post-id="22256" data-author="**Jake**" data-date="2008-01-24T09:18:20+00:00">
+<div class="post" data-post-id="22256" data-author="**Jake**" data-date="2008-01-24T09:18:20+00:00" data-subject="">
 
 It's a battle, we got to #3 in time for the top 10 update, but we've dropped to #4 again (we are just a few votes behind).
 
@@ -364,31 +364,31 @@ We're 3 votes from #3![/quote:3t6cgwhq]
 
 </div>
 
-<div class="post" data-post-id="22264" data-author="Leaf" data-date="2008-01-24T15:36:21+00:00">
+<div class="post" data-post-id="22264" data-author="Leaf" data-date="2008-01-24T15:36:21+00:00" data-subject="">
 
 I think this is the most Jake has posted in a week time period!
 
 </div>
 
-<div class="post" data-post-id="22267" data-author="Vixn" data-date="2008-01-24T20:20:17+00:00">
+<div class="post" data-post-id="22267" data-author="Vixn" data-date="2008-01-24T20:20:17+00:00" data-subject="">
 
 crush us one more time and probably jake will start to play again :P
 
 </div>
 
-<div class="post" data-post-id="22270" data-author="Vixn" data-date="2008-01-24T21:18:55+00:00">
+<div class="post" data-post-id="22270" data-author="Vixn" data-date="2008-01-24T21:18:55+00:00" data-subject="">
 
 cmon, it was joke! stop it! :D
 
 </div>
 
-<div class="post" data-post-id="22273" data-author="Widow" data-date="2008-01-24T22:35:24+00:00">
+<div class="post" data-post-id="22273" data-author="Widow" data-date="2008-01-24T22:35:24+00:00" data-subject="">
 
 So we're inches away from the #2 spot. I say we get the coders to automate a vote upon Slothmud login!
 
 </div>
 
-<div class="post" data-post-id="22281" data-author="Weasel" data-date="2008-01-25T03:25:26+00:00">
+<div class="post" data-post-id="22281" data-author="Weasel" data-date="2008-01-25T03:25:26+00:00" data-subject="">
 
 W( O)(o )T
 
@@ -402,7 +402,7 @@ W( O)(o )T
 
 </div>
 
-<div class="post" data-post-id="22286" data-author="nomic" data-date="2008-01-25T08:24:25+00:00">
+<div class="post" data-post-id="22286" data-author="nomic" data-date="2008-01-25T08:24:25+00:00" data-subject="">
 
 As Weasel stated.....we r 2ND!!!!
 
@@ -412,13 +412,13 @@ Let's go baby Let's GO!
 
 </div>
 
-<div class="post" data-post-id="22288" data-author="Weasel" data-date="2008-01-25T12:49:25+00:00">
+<div class="post" data-post-id="22288" data-author="Weasel" data-date="2008-01-25T12:49:25+00:00" data-subject="">
 
 There's a wee way to go to catch #1 spot, but as soon as those other muds realize we've taken #2, they'll be going hard to topple our lead over them, so don't let up. Keep up the good work. Carry on.
 
 </div>
 
-<div class="post" data-post-id="22289" data-author="Autolycos" data-date="2008-01-25T13:50:53+00:00">
+<div class="post" data-post-id="22289" data-author="Autolycos" data-date="2008-01-25T13:50:53+00:00" data-subject="">
 
 its nice to see others finally voting..
 
@@ -426,7 +426,7 @@ ya bastards!   :twisted:
 
 </div>
 
-<div class="post" data-post-id="22298" data-author="Akasha" data-date="2008-01-26T06:40:28+00:00">
+<div class="post" data-post-id="22298" data-author="Akasha" data-date="2008-01-26T06:40:28+00:00" data-subject="">
 
 I'm impressed.  I'm not around much due to RL stuff atm, but I'm always checkin in.  Keep up the good work.
 
@@ -434,7 +434,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="22327" data-author="**Jake**" data-date="2008-01-28T03:31:45+00:00">
+<div class="post" data-post-id="22327" data-author="**Jake**" data-date="2008-01-28T03:31:45+00:00" data-subject="You rock!">
 
 Dang folks, you all really rock!  Nice voting.  Our hold on #2 gets stronger each day.  And yes, for those who asked, I did finally get some sleep.  Those two days really sucked.
 
@@ -444,7 +444,7 @@ There's a wee way to go to catch #1 spot, but as soon as those other muds realiz
 
 </div>
 
-<div class="post" data-post-id="22335" data-author="nomic" data-date="2008-01-28T15:17:20+00:00">
+<div class="post" data-post-id="22335" data-author="nomic" data-date="2008-01-28T15:17:20+00:00" data-subject="">
 
 Well....i believe a lot of pple will say this to you....
 
@@ -454,7 +454,7 @@ Either or....we'll remember to vote...it's ...kinda...addictive to see us high u
 
 </div>
 
-<div class="post" data-post-id="22437" data-author="Weasel" data-date="2008-02-01T05:38:23+00:00">
+<div class="post" data-post-id="22437" data-author="Weasel" data-date="2008-02-01T05:38:23+00:00" data-subject="">
 
 WTF.. they reset it again? We're now ranked #1583.  :( 
 
@@ -462,7 +462,7 @@ That sucks, but we apparently have to start again, so get voting please..
 
 </div>
 
-<div class="post" data-post-id="22438" data-author="jezer" data-date="2008-02-01T07:42:54+00:00">
+<div class="post" data-post-id="22438" data-author="jezer" data-date="2008-02-01T07:42:54+00:00" data-subject="">
 
 That's really annoying... it seems everyone is back to 0 votes. Even though I just voted right now it's still at 0... I thought these votes were live? All the top 10 I have never heard of... this stinks! 
 
@@ -470,7 +470,7 @@ That's really annoying... it seems everyone is back to 0 votes. Even though I ju
 
 </div>
 
-<div class="post" data-post-id="22439" data-author="*Breeze*" data-date="2008-02-01T08:28:59+00:00">
+<div class="post" data-post-id="22439" data-author="*Breeze*" data-date="2008-02-01T08:28:59+00:00" data-subject="">
 
 That's really annoying... it seems everyone is back to 0 votes. Even though I just voted right now it's still at 0... I thought these votes were live? All the top 10 I have never heard of... this stinks! 
 
@@ -488,7 +488,7 @@ which i guess means we will see how it goes.
 
 </div>
 
-<div class="post" data-post-id="22440" data-author="Thraxas" data-date="2008-02-01T08:41:15+00:00">
+<div class="post" data-post-id="22440" data-author="Thraxas" data-date="2008-02-01T08:41:15+00:00" data-subject="">
 
 oh dear ... it is sort of soul destroying isn't it
 
@@ -518,25 +518,25 @@ Mud Name Connection Stats Votes Cast
 
 </div>
 
-<div class="post" data-post-id="22443" data-author="Autolycos" data-date="2008-02-01T13:22:17+00:00">
+<div class="post" data-post-id="22443" data-author="Autolycos" data-date="2008-02-01T13:22:17+00:00" data-subject="">
 
 thats when you get the feeling that the universe is against you... or at least just against weasel..
 
 </div>
 
-<div class="post" data-post-id="22444" data-author="Weasel" data-date="2008-02-01T13:24:47+00:00">
+<div class="post" data-post-id="22444" data-author="Weasel" data-date="2008-02-01T13:24:47+00:00" data-subject="">
 
 stoopid pirate, go feed your parrot.
 
 </div>
 
-<div class="post" data-post-id="22445" data-author="jezer" data-date="2008-02-01T13:33:23+00:00">
+<div class="post" data-post-id="22445" data-author="jezer" data-date="2008-02-01T13:33:23+00:00" data-subject="">
 
 And I thought the parrot fed Auto?  :shock:
 
 </div>
 
-<div class="post" data-post-id="22446" data-author="Weasel" data-date="2008-02-01T13:48:34+00:00">
+<div class="post" data-post-id="22446" data-author="Weasel" data-date="2008-02-01T13:48:34+00:00" data-subject="">
 
 damn close..
 
@@ -552,7 +552,7 @@ damn close..
 
 </div>
 
-<div class="post" data-post-id="22448" data-author="Weasel" data-date="2008-02-01T18:33:10+00:00">
+<div class="post" data-post-id="22448" data-author="Weasel" data-date="2008-02-01T18:33:10+00:00" data-subject="">
 
 eep! vote vote vote
 
@@ -568,13 +568,13 @@ eep! vote vote vote
 
 </div>
 
-<div class="post" data-post-id="22830" data-author="Weasel" data-date="2008-02-20T16:56:56+00:00">
+<div class="post" data-post-id="22830" data-author="Weasel" data-date="2008-02-20T16:56:56+00:00" data-subject="">
 
 Keep voting - there's a couple of muds I'd never heard of climbing very rapidly up behind us..
 
 </div>
 
-<div class="post" data-post-id="22831" data-author="Yasik" data-date="2008-02-20T18:19:30+00:00">
+<div class="post" data-post-id="22831" data-author="Yasik" data-date="2008-02-20T18:19:30+00:00" data-subject="">
 
 Keep voting - there's a couple of muds I'd never heard of climbing very rapidly up behind us..[/quote:2dychqht]
 
@@ -582,7 +582,7 @@ not until bugs with exp fixed and so-called "rules" enforced
 
 </div>
 
-<div class="post" data-post-id="22832" data-author="Karna" data-date="2008-02-20T19:36:30+00:00">
+<div class="post" data-post-id="22832" data-author="Karna" data-date="2008-02-20T19:36:30+00:00" data-subject="">
 
 So, let me get this straight... you are saying you won't vote for sloth until its perfect?
 
@@ -590,7 +590,7 @@ Get a clue.
 
 </div>
 
-<div class="post" data-post-id="22833" data-author="blackmore" data-date="2008-02-20T20:02:21+00:00">
+<div class="post" data-post-id="22833" data-author="blackmore" data-date="2008-02-20T20:02:21+00:00" data-subject="">
 
 So, let me get this straight... you are saying you won't vote for sloth until its perfect?
 
@@ -600,7 +600,7 @@ That reminds me of a quote from our pastor.  If you're looking for a place that'
 
 </div>
 
-<div class="post" data-post-id="22834" data-author="Yasik" data-date="2008-02-20T20:11:08+00:00">
+<div class="post" data-post-id="22834" data-author="Yasik" data-date="2008-02-20T20:11:08+00:00" data-subject="">
 
 So, let me get this straight... you are saying you won't vote for sloth until its perfect?
 
@@ -616,7 +616,7 @@ ps. also i'd like sloth3 to move to another category, "pay-to-play" because this
 
 </div>
 
-<div class="post" data-post-id="22837" data-author="Rynquald" data-date="2008-02-20T23:44:39+00:00">
+<div class="post" data-post-id="22837" data-author="Rynquald" data-date="2008-02-20T23:44:39+00:00" data-subject="">
 
 You apparently haven't noticed, but the negative xp bug was fixed a week ago. As soon as you hit 2.1b xp now, it stops gaining and you get a message telling you as much after every hit.
 
@@ -628,7 +628,7 @@ And even if you're paying to play something, the answer can still be "if you don
 
 </div>
 
-<div class="post" data-post-id="22838" data-author="Weasel" data-date="2008-02-20T23:56:43+00:00">
+<div class="post" data-post-id="22838" data-author="Weasel" data-date="2008-02-20T23:56:43+00:00" data-subject="">
 
 On the pay-to-play note, I and others have offered to contribute in the past, and it is for the very reason that players would then expect to have their wishes/demands fulfilled that the powers that be declined subscription of any sort. Fair enough. I'd still be happy to donate a little though, no strings attached. 
 
@@ -638,13 +638,13 @@ If you must know, I am very touchy at the moment - my Dad has had 3 heart attack
 
 </div>
 
-<div class="post" data-post-id="22839" data-author="Jag" data-date="2008-02-21T00:12:59+00:00">
+<div class="post" data-post-id="22839" data-author="Jag" data-date="2008-02-21T00:12:59+00:00" data-subject="">
 
 Sorry to hear about your Dad.  I'll be keeping a good thought for him.
 
 </div>
 
-<div class="post" data-post-id="22840" data-author="Yasik" data-date="2008-02-21T00:23:38+00:00">
+<div class="post" data-post-id="22840" data-author="Yasik" data-date="2008-02-21T00:23:38+00:00" data-subject="">
 
 Regarding pkilling, frankly I'm somewhat surprised an immort hasn't already done it to you Yasik.  :twisted:  but seriously, I don't make a habit of breaking rules on Sloth, so you're pretty safe. For now. Just because I wanted to doesn't mean I will. Probably.[/quote:87cnqglu]
 
@@ -672,25 +672,25 @@ i want my nerves saved, my time spent ingame not wasted because i crossed somedo
 
 </div>
 
-<div class="post" data-post-id="22841" data-author="Yinao" data-date="2008-02-21T00:40:45+00:00">
+<div class="post" data-post-id="22841" data-author="Yinao" data-date="2008-02-21T00:40:45+00:00" data-subject="">
 
 Sorry to hear about your father Weasel, but if you paid me a good handful of coins I might just kill him myself when he "'just logs on" even in the inn  :twisted:  :D
 
 </div>
 
-<div class="post" data-post-id="22843" data-author="Weasel" data-date="2008-02-21T00:45:46+00:00">
+<div class="post" data-post-id="22843" data-author="Weasel" data-date="2008-02-21T00:45:46+00:00" data-subject="">
 
 Thanks.
 
 </div>
 
-<div class="post" data-post-id="22844" data-author="Rynquald" data-date="2008-02-21T01:31:32+00:00">
+<div class="post" data-post-id="22844" data-author="Rynquald" data-date="2008-02-21T01:31:32+00:00" data-subject="">
 
 Sorry to hear about your father Weasel, will be thinking of him.
 
 </div>
 
-<div class="post" data-post-id="22845" data-author="Tap" data-date="2008-02-21T01:55:21+00:00">
+<div class="post" data-post-id="22845" data-author="Tap" data-date="2008-02-21T01:55:21+00:00" data-subject="">
 
 I might be an asshole but at least I'm not THAT asshole *points at Yasik*
 
@@ -704,13 +704,13 @@ Peace
 
 </div>
 
-<div class="post" data-post-id="22846" data-author="Tap" data-date="2008-02-21T01:58:41+00:00">
+<div class="post" data-post-id="22846" data-author="Tap" data-date="2008-02-21T01:58:41+00:00" data-subject="">
 
 I've been making too many positive posts (for me). Time to let the darkside out! :twisted:
 
 </div>
 
-<div class="post" data-post-id="22847" data-author="Yasik" data-date="2008-02-21T02:14:06+00:00">
+<div class="post" data-post-id="22847" data-author="Yasik" data-date="2008-02-21T02:14:06+00:00" data-subject="">
 
 but I don't know of any IMM that will blatantly 
 
@@ -722,13 +722,13 @@ you still angry that pthieving has been turned off so you cant enjoy stealing fr
 
 </div>
 
-<div class="post" data-post-id="22848" data-author="Weasel" data-date="2008-02-21T02:31:07+00:00">
+<div class="post" data-post-id="22848" data-author="Weasel" data-date="2008-02-21T02:31:07+00:00" data-subject="">
 
 Thanks again all (except Yasik who doesn't give a F about anyone but himself), and thanks Tap, appreciate the words.
 
 </div>
 
-<div class="post" data-post-id="22850" data-author="Yasik" data-date="2008-02-21T02:42:33+00:00">
+<div class="post" data-post-id="22850" data-author="Yasik" data-date="2008-02-21T02:42:33+00:00" data-subject="">
 
 Thanks again all (except Yasik who doesn't give a F about anyone but himself), and thanks Tap, appreciate the words.[/quote:bbmkn07n]
 
@@ -736,13 +736,13 @@ yeah, i dont give a F about any jerks who dont give a F about anything exept the
 
 </div>
 
-<div class="post" data-post-id="22851" data-author="brady" data-date="2008-02-21T02:58:08+00:00">
+<div class="post" data-post-id="22851" data-author="brady" data-date="2008-02-21T02:58:08+00:00" data-subject="">
 
 [img:owdghf0m]http://i226.photobucket.com/albums/dd202/penntell/asshole.jpg[/img:owdghf0m]
 
 </div>
 
-<div class="post" data-post-id="22853" data-author="Weasel" data-date="2008-02-21T03:24:02+00:00">
+<div class="post" data-post-id="22853" data-author="Weasel" data-date="2008-02-21T03:24:02+00:00" data-subject="">
 
 Yasik, the last 'suggestion' I made was regarding the exp loss on chop while shifted, which is an issue that does not effect any of my characters.
 
@@ -752,7 +752,7 @@ You just keep digging that hole though - each time you post you only make it wor
 
 </div>
 
-<div class="post" data-post-id="22854" data-author="Yasik" data-date="2008-02-21T03:44:54+00:00">
+<div class="post" data-post-id="22854" data-author="Yasik" data-date="2008-02-21T03:44:54+00:00" data-subject="">
 
 *[/quote:6foilu56]
 
@@ -770,7 +770,7 @@ you have more important things to turn you attention to, as i get from your post
 
 </div>
 
-<div class="post" data-post-id="22855" data-author="Tap" data-date="2008-02-21T04:17:25+00:00">
+<div class="post" data-post-id="22855" data-author="Tap" data-date="2008-02-21T04:17:25+00:00" data-subject="">
 
 Umm..no use in contiuning but what the hell... mad they took pthieving out? Not really. I wasn't exactly good at it. More of a running joke that I still log on and gossip Got it!! for old time sakes..not that I ever got it.. was just taunting.And on that note...
 
@@ -778,19 +778,19 @@ Umm..no use in contiuning but what the hell... mad they took pthieving out? Not 
 
 </div>
 
-<div class="post" data-post-id="22856" data-author="Weasel" data-date="2008-02-21T04:59:31+00:00">
+<div class="post" data-post-id="22856" data-author="Weasel" data-date="2008-02-21T04:59:31+00:00" data-subject="">
 
 lol
 
 </div>
 
-<div class="post" data-post-id="22857" data-author="Yasik" data-date="2008-02-21T06:01:56+00:00">
+<div class="post" data-post-id="22857" data-author="Yasik" data-date="2008-02-21T06:01:56+00:00" data-subject="">
 
 [img:2gxjnnj4]http://yasik.kiev.ua/Tap_Fail.jpg[/img:2gxjnnj4]
 
 </div>
 
-<div class="post" data-post-id="22858" data-author="banedon" data-date="2008-02-21T07:07:30+00:00">
+<div class="post" data-post-id="22858" data-author="banedon" data-date="2008-02-21T07:07:30+00:00" data-subject="">
 
 First off, 
 
@@ -812,7 +812,7 @@ Josh
 
 </div>
 
-<div class="post" data-post-id="22859" data-author="Yasik" data-date="2008-02-21T07:29:28+00:00">
+<div class="post" data-post-id="22859" data-author="Yasik" data-date="2008-02-21T07:29:28+00:00" data-subject="">
 
 Yasik STFU for cripes sake.[/quote:2s35wkro]
 
@@ -826,7 +826,7 @@ it was once ONCE, you faggot
 
 </div>
 
-<div class="post" data-post-id="22863" data-author="Leaf" data-date="2008-02-21T15:53:45+00:00">
+<div class="post" data-post-id="22863" data-author="Leaf" data-date="2008-02-21T15:53:45+00:00" data-subject="">
 
 I think Yasik and Tap has switched roles.  
 
@@ -840,13 +840,13 @@ telling him to shut up.
 
 </div>
 
-<div class="post" data-post-id="22865" data-author="Medios" data-date="2008-02-21T16:48:37+00:00">
+<div class="post" data-post-id="22865" data-author="Medios" data-date="2008-02-21T16:48:37+00:00" data-subject="">
 
 When was Yasik the nice guy?
 
 </div>
 
-<div class="post" data-post-id="22869" data-author="Thraxas" data-date="2008-02-21T17:42:25+00:00">
+<div class="post" data-post-id="22869" data-author="Thraxas" data-date="2008-02-21T17:42:25+00:00" data-subject="">
 
 What the hell is going on in this thread? I just don't undertstand half of it and its probably very interesting but to be quite honest I got bored and confused before the 2nd page. Obviously too blonde today ... better dye my hair tonight and try again.
 
@@ -854,13 +854,13 @@ Any chance someone can summarise or is it just that everyones pointlessly flamin
 
 </div>
 
-<div class="post" data-post-id="22870" data-author="Thraxas" data-date="2008-02-21T17:43:50+00:00">
+<div class="post" data-post-id="22870" data-author="Thraxas" data-date="2008-02-21T17:43:50+00:00" data-subject="">
 
 Oh yeah and keep on voting ... I love bringing threads back onto topic
 
 </div>
 
-<div class="post" data-post-id="22872" data-author="Tap" data-date="2008-02-21T20:00:52+00:00">
+<div class="post" data-post-id="22872" data-author="Tap" data-date="2008-02-21T20:00:52+00:00" data-subject="">
 
 Thraxas wrote:
 
@@ -872,13 +872,13 @@ Make a long point short, Yasik and Tap swapped passwords. Now that asshole Hades
 
 </div>
 
-<div class="post" data-post-id="22875" data-author="*juggleblood*" data-date="2008-02-21T21:38:18+00:00">
+<div class="post" data-post-id="22875" data-author="*juggleblood*" data-date="2008-02-21T21:38:18+00:00" data-subject="">
 
 Sorry, but Yasik is way funnier and that should count for a lot.
 
 </div>
 
-<div class="post" data-post-id="22882" data-author="Yasik" data-date="2008-02-22T08:07:01+00:00">
+<div class="post" data-post-id="22882" data-author="Yasik" data-date="2008-02-22T08:07:01+00:00" data-subject="">
 
 Hey, stop deleting my posts! This is undemocratic!  :D 
 
@@ -886,13 +886,13 @@ Hey, stop deleting my posts! This is undemocratic!  :D
 
 </div>
 
-<div class="post" data-post-id="22890" data-author="Weasel" data-date="2008-02-22T15:30:24+00:00">
+<div class="post" data-post-id="22890" data-author="Weasel" data-date="2008-02-22T15:30:24+00:00" data-subject="">
 
 heh.. since when was slothmud a democracy?
 
 </div>
 
-<div class="post" data-post-id="22891" data-author="Akasha" data-date="2008-02-22T16:29:55+00:00">
+<div class="post" data-post-id="22891" data-author="Akasha" data-date="2008-02-22T16:29:55+00:00" data-subject="">
 
 Heh, let me tell you my version of free speech...
 
@@ -908,7 +908,7 @@ I would step down from the soapbox now, but i live up here, and i aint giving up
 
 </div>
 
-<div class="post" data-post-id="22892" data-author="mok" data-date="2008-02-22T16:58:41+00:00">
+<div class="post" data-post-id="22892" data-author="mok" data-date="2008-02-22T16:58:41+00:00" data-subject="We are within 38 votes of losing second place">
 
 We need to get voting, we are within 38 votes to lose second place. For a while we were almost 100 votes ahead but our lead is shrinking fast.
 
@@ -916,7 +916,7 @@ We need to get voting, we are within 38 votes to lose second place. For a while 
 
 </div>
 
-<div class="post" data-post-id="22893" data-author="Leaf" data-date="2008-02-22T17:04:52+00:00">
+<div class="post" data-post-id="22893" data-author="Leaf" data-date="2008-02-22T17:04:52+00:00" data-subject="">
 
 OOo Yasik it must be another bug.  You posts are POOFING.  Maybe u
 
@@ -926,7 +926,7 @@ bugs.
 
 </div>
 
-<div class="post" data-post-id="22895" data-author="Thraxas" data-date="2008-02-22T17:11:29+00:00">
+<div class="post" data-post-id="22895" data-author="Thraxas" data-date="2008-02-22T17:11:29+00:00" data-subject="">
 
 I'm a VERY liberal person[/quote:319zvbj0]
 
@@ -938,7 +938,7 @@ Oh yeah and who are these 2 muds I've never heard of who seem to be suddenly rac
 
 </div>
 
-<div class="post" data-post-id="22896" data-author="Tap" data-date="2008-02-22T21:46:28+00:00">
+<div class="post" data-post-id="22896" data-author="Tap" data-date="2008-02-22T21:46:28+00:00" data-subject="">
 
 [quote:zirn4205] 	
 
@@ -956,7 +956,7 @@ Someone who has a fondness for trees and hugging them, sleeps on the couch so th
 
 </div>
 
-<div class="post" data-post-id="22897" data-author="banedon" data-date="2008-02-22T21:53:34+00:00">
+<div class="post" data-post-id="22897" data-author="banedon" data-date="2008-02-22T21:53:34+00:00" data-subject="">
 
 Someone who has a fondness for trees and hugging them, sleeps on the couch so the cat/dog can sleep on the bed, pays their bills ahead of time, eats artichokes and basically walks around announcing to the world that they are in fact 'liberal'.[/quote:1ws2advo]
 
@@ -968,7 +968,7 @@ Lastly, VOTE YOU ADDICTS!!!!!!
 
 </div>
 
-<div class="post" data-post-id="22901" data-author="Akasha" data-date="2008-02-23T02:40:52+00:00">
+<div class="post" data-post-id="22901" data-author="Akasha" data-date="2008-02-23T02:40:52+00:00" data-subject="">
 
 [quote:1q0ln3c4] 	
 
@@ -984,7 +984,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="22902" data-author="Tap" data-date="2008-02-23T04:09:47+00:00">
+<div class="post" data-post-id="22902" data-author="Tap" data-date="2008-02-23T04:09:47+00:00" data-subject="">
 
 I guess location might play a part in the perception of what being a 'liberal' means. Take me for example, I live in the south, the deep south, and my perception and prob others is that a liberal person is very passive.For example, they may look at both sides of the coin but they are content to set aside if it doesn't affect them personally. Now I admit, I could very well be wrong about this, but thats my perception.I also think age/maturity affects ones perception of being liberal. Example, when I was younger I use to smoke pot, drink, dabbled a little with other social drugs. I had very little morals about alot of things. I also considered being liberal a good thing. I had heard this was something liberals were ok with if not promoters.Not everything of course.However, as I have gotten older and realizing the errors of my ways, I find myself alot more conservative. Life lessons I know and somewhat hypocritical but I still have the perception that while liberals promote 'freedoms', they in fact continous want take all the freedoms away from everyone else to put everyone on the same playing field.Again, maybe I am wrong on this but this is from information I read/hear on the internet/talk radio/tv etc etc. Now, maybe someone from up north or out west has the exact same views towards conservatives. I pose this, maybe we are both right...or maybe we are both wrong.
 
@@ -992,7 +992,7 @@ This is Tap
 
 </div>
 
-<div class="post" data-post-id="22903" data-author="Hades" data-date="2008-02-23T04:18:59+00:00">
+<div class="post" data-post-id="22903" data-author="Hades" data-date="2008-02-23T04:18:59+00:00" data-subject="">
 
 [quote:1lwzhxkk]And to think, I unbanned Hades a few days ago... maybe I should go back and ban him[/quote:1lwzhxkk]
 
@@ -1002,7 +1002,7 @@ Please Don't
 
 </div>
 
-<div class="post" data-post-id="22904" data-author="Akasha" data-date="2008-02-23T04:52:20+00:00">
+<div class="post" data-post-id="22904" data-author="Akasha" data-date="2008-02-23T04:52:20+00:00" data-subject="">
 
 I'm a VERY liberal person (not an opening for political discussions[/quote:28ut7nfn]
 
@@ -1010,13 +1010,13 @@ anyway....
 
 </div>
 
-<div class="post" data-post-id="22908" data-author="Widow" data-date="2008-02-23T14:24:32+00:00">
+<div class="post" data-post-id="22908" data-author="Widow" data-date="2008-02-23T14:24:32+00:00" data-subject="">
 
 Bringing the thread back to topic - we're only 20 votes or so from those WoT ppls. Nippin' at our heels so to speak. Time to vote people.
 
 </div>
 
-<div class="post" data-post-id="22913" data-author="Akasha" data-date="2008-02-23T16:06:36+00:00">
+<div class="post" data-post-id="22913" data-author="Akasha" data-date="2008-02-23T16:06:36+00:00" data-subject="Last Warning">
 
 Cease with this incesant trolling (whch is what it amounts to) Yasik else I'll be forced to cease it myself.
 

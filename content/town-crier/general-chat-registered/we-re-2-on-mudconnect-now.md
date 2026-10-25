@@ -10,7 +10,7 @@ locked: false
 post_count: 45
 ---
 
-<div class="post" data-post-id="8368" data-author="**Jake**" data-date="2005-08-23T09:43:21+00:00">
+<div class="post" data-post-id="8368" data-author="**Jake**" data-date="2005-08-23T09:43:21+00:00" data-subject="We&#x27;re #2 on mudconnect now.">
 
 I do want to thank everyone: your voting kept us at #1 for many months now!
 
@@ -26,7 +26,7 @@ Jake
 
 </div>
 
-<div class="post" data-post-id="8369" data-author="13" data-date="2005-08-23T12:10:41+00:00">
+<div class="post" data-post-id="8369" data-author="13" data-date="2005-08-23T12:10:41+00:00" data-subject="">
 
 I hate to say this, and I know it won't matter a hill of beans,
 
@@ -36,7 +36,7 @@ time that the alignment was 'fixed' as well.
 
 </div>
 
-<div class="post" data-post-id="8370" data-author="12345" data-date="2005-08-23T13:08:09+00:00">
+<div class="post" data-post-id="8370" data-author="12345" data-date="2005-08-23T13:08:09+00:00" data-subject="">
 
 Speaking of which, I'm probably going to have to start experimenting with the evil supplicants.  I'm just reaching 40 cleric, and have 25 or so in my next class.
 
@@ -46,7 +46,7 @@ Any suggestions on which are good for what?
 
 </div>
 
-<div class="post" data-post-id="8371" data-author="kjartan" data-date="2005-08-23T13:49:27+00:00">
+<div class="post" data-post-id="8371" data-author="kjartan" data-date="2005-08-23T13:49:27+00:00" data-subject="">
 
 I hate to say this, and I know it won't matter a hill of beans,
 
@@ -60,19 +60,19 @@ Like Jake said, people stopped voting when he stopped reminding them.
 
 </div>
 
-<div class="post" data-post-id="8377" data-author="13" data-date="2005-08-23T23:25:54+00:00">
+<div class="post" data-post-id="8377" data-author="13" data-date="2005-08-23T23:25:54+00:00" data-subject="">
 
 Ok, by 'a lot of people' I really meant me :)
 
 </div>
 
-<div class="post" data-post-id="8378" data-author="Nothing" data-date="2005-08-24T08:00:40+00:00">
+<div class="post" data-post-id="8378" data-author="Nothing" data-date="2005-08-24T08:00:40+00:00" data-subject="">
 
 You could add me to that list too.  But I'm still a noob so I don't count for much.
 
 </div>
 
-<div class="post" data-post-id="8379" data-author="Jehru" data-date="2005-08-24T12:20:39+00:00">
+<div class="post" data-post-id="8379" data-author="Jehru" data-date="2005-08-24T12:20:39+00:00" data-subject="">
 
 Actually there was no correlation, at least in total number of votes.  Maybe some people stopped voting and others started voting to make up for it.  
 
@@ -82,13 +82,13 @@ Could you provide the data from your detailed correlational analysis?  Was that 
 
 </div>
 
-<div class="post" data-post-id="8380" data-author="Weasel" data-date="2005-08-24T12:33:21+00:00">
+<div class="post" data-post-id="8380" data-author="Weasel" data-date="2005-08-24T12:33:21+00:00" data-subject="">
 
 ouch, at the current rate we're going to drop to 3rd soon..   :evil:
 
 </div>
 
-<div class="post" data-post-id="8381" data-author="12345" data-date="2005-08-24T14:18:05+00:00">
+<div class="post" data-post-id="8381" data-author="12345" data-date="2005-08-24T14:18:05+00:00" data-subject="">
 
 Voting... yeah.
 
@@ -100,7 +100,7 @@ I don't mind being reminded, but change the topic once in a while.  I don't know
 
 </div>
 
-<div class="post" data-post-id="8383" data-author="Grue" data-date="2005-08-24T16:45:03+00:00">
+<div class="post" data-post-id="8383" data-author="Grue" data-date="2005-08-24T16:45:03+00:00" data-subject="">
 
 Hmm, OK...
 
@@ -134,7 +134,7 @@ Maybe I'm logging on at the wrong time, but I'm more worried by the loss in conc
 
 </div>
 
-<div class="post" data-post-id="8384" data-author="Avatar" data-date="2005-08-24T18:02:08+00:00">
+<div class="post" data-post-id="8384" data-author="Avatar" data-date="2005-08-24T18:02:08+00:00" data-subject="Voting and online population">
 
 I think it's pretty clear that this is a more complex question than "eh, they changed something so people refuse to vote and left sloth".  If you've been here any number of years I think there is a noticable swing in the mud "who" lists depending on time of year.  In the middle of summer a lot of people are out doing stuff (and meeting chicks, yay!).  Also, summer months mean the younger crowd is going to be on summer break - away from the dorms and computer labs.
 
@@ -144,7 +144,7 @@ Actually, for my input #2 I'd like to say that players trying to exercise their 
 
 </div>
 
-<div class="post" data-post-id="8385" data-author="12345" data-date="2005-08-24T18:29:15+00:00">
+<div class="post" data-post-id="8385" data-author="12345" data-date="2005-08-24T18:29:15+00:00" data-subject="Re: Voting and online population">
 
 Actually, for my input #2 I'd like to say that players trying to exercise their vote or lack of voting as some sort of method to influence the admin are quite silly.[/quote:vofwf6eu]
 
@@ -156,7 +156,7 @@ And before you mention it, I still vote when I'm online at home, though my firew
 
 </div>
 
-<div class="post" data-post-id="8386" data-author="*Splork*" data-date="2005-08-24T19:23:55+00:00">
+<div class="post" data-post-id="8386" data-author="*Splork*" data-date="2005-08-24T19:23:55+00:00" data-subject="">
 
 I disagree with Grue about our playerbase shrinking-- I think it is far from the truth....
 
@@ -172,7 +172,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="8387" data-author="Leaf" data-date="2005-08-24T22:44:34+00:00">
+<div class="post" data-post-id="8387" data-author="Leaf" data-date="2005-08-24T22:44:34+00:00" data-subject="">
 
 *Comes back from the dead*
 
@@ -198,7 +198,7 @@ Will
 
 </div>
 
-<div class="post" data-post-id="8388" data-author="Vixn" data-date="2005-08-25T05:26:28+00:00">
+<div class="post" data-post-id="8388" data-author="Vixn" data-date="2005-08-25T05:26:28+00:00" data-subject="">
 
 Hello everyone. 
 
@@ -220,25 +220,25 @@ Vixn.
 
 </div>
 
-<div class="post" data-post-id="8389" data-author="Alberich" data-date="2005-08-25T11:33:55+00:00">
+<div class="post" data-post-id="8389" data-author="Alberich" data-date="2005-08-25T11:33:55+00:00" data-subject="">
 
 Myself personally... I'm a stubborn bastard, and dislike being told what to do.  I stopped voting BECAUSE jake and others where constantly harping on it.  Since that has stopped, I've started voting again.
 
 </div>
 
-<div class="post" data-post-id="8390" data-author="Krok" data-date="2005-08-25T11:54:12+00:00">
+<div class="post" data-post-id="8390" data-author="Krok" data-date="2005-08-25T11:54:12+00:00" data-subject="">
 
 I totally, totally, TOTALLY agree with Leaf and Alb.
 
 </div>
 
-<div class="post" data-post-id="8391" data-author="Weasel" data-date="2005-08-25T13:29:58+00:00">
+<div class="post" data-post-id="8391" data-author="Weasel" data-date="2005-08-25T13:29:58+00:00" data-subject="">
 
 hey, if we always remember to vote, Jake wont need to remind us :)
 
 </div>
 
-<div class="post" data-post-id="8392" data-author="blackmore" data-date="2005-08-25T15:08:58+00:00">
+<div class="post" data-post-id="8392" data-author="blackmore" data-date="2005-08-25T15:08:58+00:00" data-subject="">
 
 Myself personally... I'm a stubborn bastard, and dislike being told what to do.  I stopped voting BECAUSE jake and others where constantly harping on it.[/quote:1klu8oro]
 
@@ -248,7 +248,7 @@ As for newbies, I'm not sure it's even worth responding to those posts.  At one 
 
 </div>
 
-<div class="post" data-post-id="8393" data-author="Avatar" data-date="2005-08-25T15:27:44+00:00">
+<div class="post" data-post-id="8393" data-author="Avatar" data-date="2005-08-25T15:27:44+00:00" data-subject="voting">
 
 Blackmore's right, Jake's efforts were effective.  I was one of the people that typically only voted when Jake (or someone else) mentioned it in-game.  I don't know why that is, really, it just is.  
 
@@ -262,7 +262,7 @@ PS.  I haven't been voting (or online) for the past several weeks.  It may be an
 
 </div>
 
-<div class="post" data-post-id="8394" data-author="12345" data-date="2005-08-25T16:09:23+00:00">
+<div class="post" data-post-id="8394" data-author="12345" data-date="2005-08-25T16:09:23+00:00" data-subject="">
 
 I certainly agree with Avatar since I make it a point to vote when reminded as well.  I certainly appreciate Jake's efforts as well.  It's not easy reminding everyone every day for what? A year straight now? More? As it stands now, the first thing everyone thinks of when they see Jake's name is voting, and he kinda needs to get out of the vote whore spotlight.
 
@@ -270,7 +270,7 @@ If we're going to devote this kind of time to voting, I'd almost say someone nee
 
 </div>
 
-<div class="post" data-post-id="8398" data-author="PvtDeth" data-date="2005-08-25T19:00:15+00:00">
+<div class="post" data-post-id="8398" data-author="PvtDeth" data-date="2005-08-25T19:00:15+00:00" data-subject="">
 
 Of course newbies are a pain, but does it even need to be said that everybody was one once?  I've heard people say that they don't like children and wish there were none. This is the same logic. Eventually attrition eats away at the numbers (as was said: new job, baby, marriage, school) and if the membership isn't replensihed, the mud will dwindle. How much fun would it be if there were only five or six players on at a time?
 
@@ -282,7 +282,7 @@ Of course newbies are a pain, but does it even need to be said that everybody wa
 
 </div>
 
-<div class="post" data-post-id="8399" data-author="*Splork*" data-date="2005-08-25T19:11:49+00:00">
+<div class="post" data-post-id="8399" data-author="*Splork*" data-date="2005-08-25T19:11:49+00:00" data-subject="">
 
 I must admit, it irks me when I hear people have stopped voting over this or that. But then again what doesnt irk me :twisted: 
 
@@ -296,7 +296,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="8407" data-author="Shadis" data-date="2005-08-26T04:50:06+00:00">
+<div class="post" data-post-id="8407" data-author="Shadis" data-date="2005-08-26T04:50:06+00:00" data-subject="">
 
 2 things
 
@@ -314,7 +314,7 @@ Maybe KJ can code a toggle flag to gag vote promos
 
 </div>
 
-<div class="post" data-post-id="8409" data-author="Krok" data-date="2005-08-26T06:52:26+00:00">
+<div class="post" data-post-id="8409" data-author="Krok" data-date="2005-08-26T06:52:26+00:00" data-subject="">
 
 What I meant about newbies.. 
 
@@ -328,7 +328,7 @@ PS Splork appealed to my conscience, I gotta vote. :)
 
 </div>
 
-<div class="post" data-post-id="8411" data-author="**Jake**" data-date="2005-08-26T08:20:46+00:00">
+<div class="post" data-post-id="8411" data-author="**Jake**" data-date="2005-08-26T08:20:46+00:00" data-subject="">
 
 I hate to say this, and I know it won't matter a hill of beans,
 
@@ -356,7 +356,7 @@ Jake
 
 </div>
 
-<div class="post" data-post-id="8414" data-author="Pete" data-date="2005-08-26T10:04:11+00:00">
+<div class="post" data-post-id="8414" data-author="Pete" data-date="2005-08-26T10:04:11+00:00" data-subject="">
 
 Since I share Grue with someone I work with I just wanted to post my own opinions on this so people don't think Grue's post was mine. (BTW I share Grue and most of my other chars with another Pete (Peter Byrd) and my son Ben. If you see them on don't assume they are me, the only one I don't share is Riurik).
 
@@ -370,7 +370,7 @@ Pete
 
 </div>
 
-<div class="post" data-post-id="8417" data-author="12345" data-date="2005-08-26T12:26:12+00:00">
+<div class="post" data-post-id="8417" data-author="12345" data-date="2005-08-26T12:26:12+00:00" data-subject="">
 
 Shadis:  No offense taken.  From a vote reminder perspective, I had [b:2kqgput5]mostly[/b:2kqgput5] changed to using tells to keep from annoying people (I did use other means at times, like near the end of the day).  Those that expressed a dislike towards me reminding them to vote would go onto a "no-remind" list and wouldn't be sent tells. My intention wasn't to annoy people.[/quote:2kqgput5]
 
@@ -380,7 +380,7 @@ And for a change of pace, people might actually start ASKING you to remind them 
 
 </div>
 
-<div class="post" data-post-id="8418" data-author="Blastem" data-date="2005-08-26T12:26:54+00:00">
+<div class="post" data-post-id="8418" data-author="Blastem" data-date="2005-08-26T12:26:54+00:00" data-subject="">
 
 Ok here's my perspective on voting.... I vote before I log on as I haven't been playing much lately do to work constraints I haven't been voting as regularly as usual.  Yes I've been ticked off about a lot of the changes implemented some less than others mostly I think they are heading in the right direction just need to be tweaked a bit (slow down alignment swings).  But holding back your votes as a strong arm tactic is just plain wrong if the immortals were to give into this type of tactic pretty soon it would be a mud where everyone runs with 3000 HP's and -27 AC.  If you really want to picket a change stop playing ... obviously if you enjoy playing the mud enough to continue when things have pissed you off this much then it's worth voting for no?  
 
@@ -394,7 +394,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="8541" data-author="Malison" data-date="2005-09-04T16:51:27+00:00">
+<div class="post" data-post-id="8541" data-author="Malison" data-date="2005-09-04T16:51:27+00:00" data-subject="">
 
 While refusing to vote is probably not an effective tactic to use to get things that you may want, I don't think you should call it childish.  Most people that do that have been doing it (I believe) are trying to get modifications on recent changes, which isn't "godsanc me or I won't vote," it's "listen to my input or I won't recognize this as the best mud."
 
@@ -402,7 +402,7 @@ In regards to me, I took a week off on vacation back in July.  When I returned, 
 
 </div>
 
-<div class="post" data-post-id="8543" data-author="Gnu" data-date="2005-09-05T13:28:46+00:00">
+<div class="post" data-post-id="8543" data-author="Gnu" data-date="2005-09-05T13:28:46+00:00" data-subject="">
 
 Some words about no-remind list. Once upon a time Jake asked me if I had voted today or not. After some answer I aksed him to include me into no-remind list? since I vote every time I can and do not if I can not... he agreed, smiled at me and I continued my bot-session... next day I've heard Jake's quastion about my voting again... 
 
@@ -410,7 +410,7 @@ So... please, add Pendalf, Pendy, Gnu, Mnu, Pnu, Badguy, Arachna and Fik to no-r
 
 </div>
 
-<div class="post" data-post-id="8544" data-author="Leaf" data-date="2005-09-05T13:58:11+00:00">
+<div class="post" data-post-id="8544" data-author="Leaf" data-date="2005-09-05T13:58:11+00:00" data-subject="">
 
 We are not even on the list of "Top Mud Site"!!!  I remember when we were
 
@@ -418,7 +418,7 @@ like 8th and 9th place.  OOooo how we have fallen :)
 
 </div>
 
-<div class="post" data-post-id="8545" data-author="BlackRaindrops" data-date="2005-09-05T19:20:51+00:00">
+<div class="post" data-post-id="8545" data-author="BlackRaindrops" data-date="2005-09-05T19:20:51+00:00" data-subject="We&#x27;re #3 on Mudconnector NOW">
 
 We are not even on the list of "Top Mud Site"!!!  I remember when we were
 
@@ -428,7 +428,7 @@ From the looks of it, the imms are highly inactive lately. The live wholist page
 
 </div>
 
-<div class="post" data-post-id="8546" data-author="*Splork*" data-date="2005-09-05T20:50:10+00:00">
+<div class="post" data-post-id="8546" data-author="*Splork*" data-date="2005-09-05T20:50:10+00:00" data-subject="">
 
 Interesting and rather rediculous last post. 
 
@@ -448,7 +448,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="8547" data-author="13" data-date="2005-09-05T22:02:28+00:00">
+<div class="post" data-post-id="8547" data-author="13" data-date="2005-09-05T22:02:28+00:00" data-subject="">
 
 Yo, Blackraindrops....
 
@@ -456,7 +456,7 @@ Yo, Blackraindrops....
 
 </div>
 
-<div class="post" data-post-id="8548" data-author="*Splork*" data-date="2005-09-06T00:35:23+00:00">
+<div class="post" data-post-id="8548" data-author="*Splork*" data-date="2005-09-06T00:35:23+00:00" data-subject="">
 
 Playerstats are now up-to-date...
 
@@ -468,19 +468,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="8549" data-author="Weasel" data-date="2005-09-06T00:43:29+00:00">
+<div class="post" data-post-id="8549" data-author="Weasel" data-date="2005-09-06T00:43:29+00:00" data-subject="">
 
 thanks
 
 </div>
 
-<div class="post" data-post-id="8550" data-author="Weasel" data-date="2005-09-06T05:41:46+00:00">
+<div class="post" data-post-id="8550" data-author="Weasel" data-date="2005-09-06T05:41:46+00:00" data-subject="">
 
 ouch.. we've dropped to 3rd now.. by a long way. :oops:
 
 </div>
 
-<div class="post" data-post-id="8551" data-author="12345" data-date="2005-09-06T11:07:43+00:00">
+<div class="post" data-post-id="8551" data-author="12345" data-date="2005-09-06T11:07:43+00:00" data-subject="">
 
 I've heard resectoring mentioned a lot lately, which is a lot of work with as many rooms as Sloth has. I was kinda hoping someone had some more details on this since it seems to be a relatively large project and I haven't heard much about it yet.  Anyone have info?
 
@@ -496,7 +496,7 @@ Error accessing data ... please, contact an administrator ...[/code:czjlcthe]
 
 </div>
 
-<div class="post" data-post-id="8553" data-author="kjartan" data-date="2005-09-06T15:35:56+00:00">
+<div class="post" data-post-id="8553" data-author="kjartan" data-date="2005-09-06T15:35:56+00:00" data-subject="">
 
 Resectoring isn't by itself going to produce any immediate game changes, but it will make lots of nice stuff possible.  Previously we were using the stock dikumud list of room types, plus a couple that had been added.  There were about 10.  We have made a more detailed list, which is up to about 70, and we are reclassifying all the rooms as one of the new types.  (Many of the old types are still in the list, actually.)
 
@@ -514,13 +514,13 @@ We did something similar with mob species about a year ago and I have found a nu
 
 </div>
 
-<div class="post" data-post-id="8554" data-author="12345" data-date="2005-09-06T15:39:58+00:00">
+<div class="post" data-post-id="8554" data-author="12345" data-date="2005-09-06T15:39:58+00:00" data-subject="">
 
 Sounds cool.  Thanks for the info.  :)
 
 </div>
 
-<div class="post" data-post-id="8555" data-author="*Splork*" data-date="2005-09-06T21:23:01+00:00">
+<div class="post" data-post-id="8555" data-author="*Splork*" data-date="2005-09-06T21:23:01+00:00" data-subject="">
 
 Live group lists are back online...
 
@@ -534,7 +534,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="8565" data-author="Blastem" data-date="2005-09-08T14:13:43+00:00">
+<div class="post" data-post-id="8565" data-author="Blastem" data-date="2005-09-08T14:13:43+00:00" data-subject="">
 
 New clan channel called ktalk is now ingame, Ill add the helps once I can I get a chance...
 
@@ -550,13 +550,13 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="8566" data-author="12345" data-date="2005-09-08T14:26:11+00:00">
+<div class="post" data-post-id="8566" data-author="12345" data-date="2005-09-08T14:26:11+00:00" data-subject="">
 
 I actually have a request on this... would it be possible to see when people join and leave the channel like ctalk does?  Since folks automatically join when logging on, I guess this would work kinda like friends does.  At the moment though, I'm using both ktalk and ctalk, even though it's basically the same people on both channels.
 
 </div>
 
-<div class="post" data-post-id="9042" data-author="Guinex" data-date="2005-10-13T16:58:34+00:00">
+<div class="post" data-post-id="9042" data-author="Guinex" data-date="2005-10-13T16:58:34+00:00" data-subject="Ughh were #4">
 
 What is going on with this?  Come on people start voting and quit whining, we need some more player base rolling in here.  This is probably the best mud out there and our votes aren't showing it.  Do we need Jake to come and poke us again? Hell if it was working bring it on!
 

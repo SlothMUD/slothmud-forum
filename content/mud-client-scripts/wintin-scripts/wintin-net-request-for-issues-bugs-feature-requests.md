@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30365" data-author="wish" data-date="2009-11-21T22:24:11+00:00">
+<div class="post" data-post-id="30365" data-author="wish" data-date="2009-11-21T22:24:11+00:00" data-subject="Wintin.NET - request for issues/bugs/feature requests">
 
 For wintin.net please reply with any large issues / bugs or feature requests
 
@@ -22,7 +22,7 @@ Steven
 
 </div>
 
-<div class="post" data-post-id="30366" data-author="*Splork*" data-date="2009-11-22T00:01:07+00:00">
+<div class="post" data-post-id="30366" data-author="*Splork*" data-date="2009-11-22T00:01:07+00:00" data-subject="">
 
 This bug was fixed at one point, but sometime before William took off he inadvertently put it back in:
 

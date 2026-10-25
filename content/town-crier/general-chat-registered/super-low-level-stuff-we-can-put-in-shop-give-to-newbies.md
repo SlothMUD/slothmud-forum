@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33335" data-author="*Idjit*" data-date="2012-06-16T21:05:23+00:00">
+<div class="post" data-post-id="33335" data-author="*Idjit*" data-date="2012-06-16T21:05:23+00:00" data-subject="Super Low Level Stuff We Can Put in shop/give to Newbies">
 
 I put this in general chat section of Crier,
 
@@ -98,7 +98,7 @@ Thank you for your attention.
 
 </div>
 
-<div class="post" data-post-id="33336" data-author="Fire" data-date="2012-06-19T09:40:18+00:00">
+<div class="post" data-post-id="33336" data-author="Fire" data-date="2012-06-19T09:40:18+00:00" data-subject="Re: Super Low Level Stuff We Can Put in shop/give to Newbies">
 
 BH White Silk Robe - Librarian in asylum.
 

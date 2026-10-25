@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9651" data-author="*Splork*" data-date="2005-11-27T22:41:12+00:00">
+<div class="post" data-post-id="9651" data-author="*Splork*" data-date="2005-11-27T22:41:12+00:00" data-subject="few small updates">
 
 1) clans added to finger
 

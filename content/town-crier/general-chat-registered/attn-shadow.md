@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="11073" data-author="Weasel" data-date="2006-03-06T01:11:59+00:00">
+<div class="post" data-post-id="11073" data-author="Weasel" data-date="2006-03-06T01:11:59+00:00" data-subject="attn: Shadow">
 
 Hey Shadow - you got the winning bid on the chopping block for the grey robe (closed last Friday), but nobody seems to know who you are in-game.
 
@@ -24,7 +24,7 @@ cheers
 
 </div>
 
-<div class="post" data-post-id="11095" data-author="shadow" data-date="2006-03-08T14:00:18+00:00">
+<div class="post" data-post-id="11095" data-author="shadow" data-date="2006-03-08T14:00:18+00:00" data-subject="shadow">
 
 shadow is druke have not been on line looking for you
 

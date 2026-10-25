@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="37907" data-author="Josiah" data-date="2016-12-29T20:13:13+00:00">
+<div class="post" data-post-id="37907" data-author="Josiah" data-date="2016-12-29T20:13:13+00:00" data-subject="Slothmud Mobile App">
 
 What would be useful or cool in a slothmud phone app?  Don't worry about how hard to code it might be.  
 
@@ -18,7 +18,7 @@ I'll start with the easy ones, convenient access to the eqlist and maps.
 
 </div>
 
-<div class="post" data-post-id="37908" data-author="Teron" data-date="2016-12-29T21:39:11+00:00">
+<div class="post" data-post-id="37908" data-author="Teron" data-date="2016-12-29T21:39:11+00:00" data-subject="Re: Slothmud Mobile App">
 
 1. This isn't popular for many, but it might be: a check of who is online and what the groups are.
 
@@ -44,7 +44,7 @@ Cheers.
 
 </div>
 
-<div class="post" data-post-id="37911" data-author="Filk" data-date="2016-12-30T02:17:21+00:00">
+<div class="post" data-post-id="37911" data-author="Filk" data-date="2016-12-30T02:17:21+00:00" data-subject="Re: Slothmud Mobile App">
 
 I also was thinking about telegram bot instead of mobile app. Its api is quite simple tbh.
 
@@ -54,7 +54,7 @@ Special mobile mud client would be interesting on other hand. But i cant imaging
 
 </div>
 
-<div class="post" data-post-id="37914" data-author="Josiah" data-date="2016-12-30T07:42:02+00:00">
+<div class="post" data-post-id="37914" data-author="Josiah" data-date="2016-12-30T07:42:02+00:00" data-subject="Re: Slothmud Mobile App">
 
 Is there anything not currently available at slothmud.org that would be useful?
 
@@ -62,7 +62,7 @@ Would you like to be able to chat in game from your phone while logged out?  Tha
 
 </div>
 
-<div class="post" data-post-id="37915" data-author="Filk" data-date="2016-12-30T07:58:56+00:00">
+<div class="post" data-post-id="37915" data-author="Filk" data-date="2016-12-30T07:58:56+00:00" data-subject="Re: Slothmud Mobile App">
 
 There are several mobile mud clients around. Its posible to chat with any of them.
 
@@ -82,7 +82,7 @@ Nothing of that would be really usefull on their own. But maybe in single applic
 
 </div>
 
-<div class="post" data-post-id="37916" data-author="Teron" data-date="2016-12-30T08:36:19+00:00">
+<div class="post" data-post-id="37916" data-author="Teron" data-date="2016-12-30T08:36:19+00:00" data-subject="Re: Slothmud Mobile App">
 
 1. Fluffy, search for playrpgbot on telegram and play around with it. There you can at least wander around and kill some mobs. While it's hard to swap eq there, it may still be possible to play with the limited commands and farm easy/gold mobs.
 
@@ -134,19 +134,19 @@ what else might we need?
 
 </div>
 
-<div class="post" data-post-id="37917" data-author="*Breeze*" data-date="2016-12-30T14:48:53+00:00">
+<div class="post" data-post-id="37917" data-author="*Breeze*" data-date="2016-12-30T14:48:53+00:00" data-subject="Re: Slothmud Mobile App">
 
 "which specials are on atm"
 
 </div>
 
-<div class="post" data-post-id="37919" data-author="*juggleblood*" data-date="2016-12-30T22:13:01+00:00">
+<div class="post" data-post-id="37919" data-author="*juggleblood*" data-date="2016-12-30T22:13:01+00:00" data-subject="Re: Slothmud Mobile App">
 
 Which raid mobs and epics are up.
 
 </div>
 
-<div class="post" data-post-id="37925" data-author="*Breeze*" data-date="2016-12-31T16:55:45+00:00">
+<div class="post" data-post-id="37925" data-author="*Breeze*" data-date="2016-12-31T16:55:45+00:00" data-subject="Re: Slothmud Mobile App">
 
 > ***juggleblood* wrote:**
 > Which raid mobs and epics are up.

@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="35" data-author="*Splork*" data-date="2004-01-31T21:02:23+00:00">
+<div class="post" data-post-id="35" data-author="*Splork*" data-date="2004-01-31T21:02:23+00:00" data-subject="Various ideas and scripts">
 
 Always use a ^(an anchor) before your triggers when you need to make a trigger that starts on a new line.  Like when you want to make a trigger for You are hungry.  An anchor is used to keep other players from abusing your scripts.  If you do not use an anchor and you have a trigger on You are hungry you will eat every time You are hungry is on the screen.
 
@@ -210,7 +210,7 @@ HealO
 
 </div>
 
-<div class="post" data-post-id="130" data-author="Teron" data-date="2004-03-18T05:56:09+00:00">
+<div class="post" data-post-id="130" data-author="Teron" data-date="2004-03-18T05:56:09+00:00" data-subject="">
 
 #al pingo 'mb1=%1;mb2=%2;mb3=%3;mb4=%4;mb5=%5;mb6=%6;mb7=%7;mb8=%8;mb9=%9'
 
@@ -226,7 +226,7 @@ Teron
 
 </div>
 
-<div class="post" data-post-id="2642" data-author="Xandora" data-date="2004-11-07T08:20:38+00:00">
+<div class="post" data-post-id="2642" data-author="Xandora" data-date="2004-11-07T08:20:38+00:00" data-subject="For all you tanks that don&#x27;t have Tank Scripts: Zmud 7.02">
 
 #CLASS {Tank} {disable}
 
@@ -256,7 +256,7 @@ Teron
 
 </div>
 
-<div class="post" data-post-id="2643" data-author="Xandora" data-date="2004-11-07T08:44:01+00:00">
+<div class="post" data-post-id="2643" data-author="Xandora" data-date="2004-11-07T08:44:01+00:00" data-subject="Whiner for Zmud 7.05">
 
 This whiner only reports on hp changes of +/- 20.
 
@@ -314,13 +314,13 @@ To operate these whiners, you must have an alias in a class folder that is alway
 
 </div>
 
-<div class="post" data-post-id="2644" data-author="Xandora" data-date="2004-11-07T08:44:55+00:00">
+<div class="post" data-post-id="2644" data-author="Xandora" data-date="2004-11-07T08:44:55+00:00" data-subject="Both the following ZMUD scripts are for 7.05 (not 7.02)">
 
 See subject
 
 </div>
 
-<div class="post" data-post-id="2645" data-author="Xandora" data-date="2004-11-07T08:58:18+00:00">
+<div class="post" data-post-id="2645" data-author="Xandora" data-date="2004-11-07T08:58:18+00:00" data-subject="Autostabber for Zmud 7.05">
 
 The following scripts are for an auto backstabber.  This stabber takes into account whether you are actually the stabber, and whether you have *quietmode* on.  The following prereq scripts are required for it to work:
 
@@ -362,7 +362,7 @@ If you noticed, Firebrand has her own script.  This is because no matter how har
 
 </div>
 
-<div class="post" data-post-id="2646" data-author="Xandora" data-date="2004-11-07T09:02:48+00:00">
+<div class="post" data-post-id="2646" data-author="Xandora" data-date="2004-11-07T09:02:48+00:00" data-subject="About the Autostabber script">
 
 I forgot to mention, this autostabber can remain onconstantly because it also doubles as a targetter.  It can stay on all the time because it checks the condition of whether you are stabber or not, if you are not, it doesnt try to stab.
 
@@ -370,7 +370,7 @@ Have a nice day ;)
 
 </div>
 
-<div class="post" data-post-id="2647" data-author="Xandora" data-date="2004-11-07T09:57:36+00:00">
+<div class="post" data-post-id="2647" data-author="Xandora" data-date="2004-11-07T09:57:36+00:00" data-subject="Opps, Tank Whiner : the forgotten script">
 
 This script needs to be put in with either one of the You have ... scripts from the whiner in the other post:
 
@@ -378,7 +378,7 @@ This script needs to be put in with either one of the You have ... scripts from 
 
 </div>
 
-<div class="post" data-post-id="2654" data-author="Zenkai" data-date="2004-11-07T15:47:48+00:00">
+<div class="post" data-post-id="2654" data-author="Zenkai" data-date="2004-11-07T15:47:48+00:00" data-subject="spell cipher">
 
 Here is a spell cipher script.
 
@@ -802,7 +802,7 @@ Avatar 38 - there and back again
 
 </div>
 
-<div class="post" data-post-id="2659" data-author="Zenkai" data-date="2004-11-07T17:23:53+00:00">
+<div class="post" data-post-id="2659" data-author="Zenkai" data-date="2004-11-07T17:23:53+00:00" data-subject="status bar">
 
 Here is a color status bar when you 'look' at a mob or player.
 
@@ -834,13 +834,13 @@ Triggers:
 
 </div>
 
-<div class="post" data-post-id="2661" data-author="Xandora" data-date="2004-11-07T18:26:51+00:00">
+<div class="post" data-post-id="2661" data-author="Xandora" data-date="2004-11-07T18:26:51+00:00" data-subject="Mobreporter">
 
 I thought about putting mine up here, but they can get annoying if people don't have on and off switches for them and some of the commands inside them, so I left it out on purpose ;)
 
 </div>
 
-<div class="post" data-post-id="2664" data-author="Zenkai" data-date="2004-11-07T20:08:24+00:00">
+<div class="post" data-post-id="2664" data-author="Zenkai" data-date="2004-11-07T20:08:24+00:00" data-subject="setting level gain variables">
 
 That script is not a mob reporter, just a substitution :)
 

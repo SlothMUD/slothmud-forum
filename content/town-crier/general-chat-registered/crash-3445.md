@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31277" data-author="takinogaki" data-date="2010-06-03T21:05:34+00:00">
+<div class="post" data-post-id="31277" data-author="takinogaki" data-date="2010-06-03T21:05:34+00:00" data-subject="crash">
 
 6/03/10 4:03 pm did mud crash?
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="1360" data-author="Selane" data-date="2004-08-12T08:55:24+00:00">
+<div class="post" data-post-id="1360" data-author="Selane" data-date="2004-08-12T08:55:24+00:00" data-subject="some observations">
 
 Natures revival - what's the purpose in casting this spell instead of say a cure critic?  The hitpoint regeneration gain doesn't seem to be worth the mana loss.
 
@@ -24,7 +24,7 @@ And don't even get me started on dawnfire.
 
 </div>
 
-<div class="post" data-post-id="1361" data-author="Kambal" data-date="2004-08-12T09:49:30+00:00">
+<div class="post" data-post-id="1361" data-author="Kambal" data-date="2004-08-12T09:49:30+00:00" data-subject="Re: some observations">
 
 It'd be nice if druids had at least one blasting spell that wasn't overly expensive and didn't have the possibility to pick up other creatures in the room.
 
@@ -34,7 +34,7 @@ The druid forms are pretty unusable.  It's easier for me to solo using flame str
 
 </div>
 
-<div class="post" data-post-id="1362" data-author="Kambal" data-date="2004-08-12T09:52:45+00:00">
+<div class="post" data-post-id="1362" data-author="Kambal" data-date="2004-08-12T09:52:45+00:00" data-subject="">
 
 forgot to type what i wanted :P
 
@@ -46,7 +46,7 @@ Just my .02$
 
 </div>
 
-<div class="post" data-post-id="1363" data-author="Alberich" data-date="2004-08-12T10:28:37+00:00">
+<div class="post" data-post-id="1363" data-author="Alberich" data-date="2004-08-12T10:28:37+00:00" data-subject="">
 
 different styles of play for different classes... 
 
@@ -62,7 +62,7 @@ Personally, I think that, properly played, druids are one of (if not the) most p
 
 </div>
 
-<div class="post" data-post-id="1366" data-author="Ender" data-date="2004-08-12T12:47:33+00:00">
+<div class="post" data-post-id="1366" data-author="Ender" data-date="2004-08-12T12:47:33+00:00" data-subject="Classes....">
 
 Few notes:
 
@@ -82,7 +82,7 @@ Have a nice day  :D
 
 </div>
 
-<div class="post" data-post-id="6763" data-author="nexus" data-date="2005-06-03T06:19:32+00:00">
+<div class="post" data-post-id="6763" data-author="nexus" data-date="2005-06-03T06:19:32+00:00" data-subject="Re: some observations">
 
 Natures revival - what's the purpose in casting this spell instead of say a cure critic?  The hitpoint regeneration gain doesn't seem to be worth the mana loss.
 
@@ -100,7 +100,7 @@ That is roleplay..... why try to make an elephant from a fly? Try make a dragonf
 
 </div>
 
-<div class="post" data-post-id="6766" data-author="Vixn" data-date="2005-06-03T07:39:58+00:00">
+<div class="post" data-post-id="6766" data-author="Vixn" data-date="2005-06-03T07:39:58+00:00" data-subject="">
 
 Nexus, really, you are too late :)
 

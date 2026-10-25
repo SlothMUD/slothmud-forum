@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38584" data-author="Gorka" data-date="2018-01-04T16:59:08+00:00">
+<div class="post" data-post-id="38584" data-author="Gorka" data-date="2018-01-04T16:59:08+00:00" data-subject="The Axe of the Greater Demon">
 
 will forge the axe of the greater demon from
 
@@ -138,7 +138,7 @@ I had 6m coins on me... what am I doing wrong?
 
 </div>
 
-<div class="post" data-post-id="38585" data-author="*Breeze*" data-date="2018-01-04T20:41:07+00:00">
+<div class="post" data-post-id="38585" data-author="*Breeze*" data-date="2018-01-04T20:41:07+00:00" data-subject="Re: The Axe of the Greater Demon">
 
 upgraded to new forge proc (was old one)
 
@@ -148,7 +148,7 @@ was a keyword issue.
 
 </div>
 
-<div class="post" data-post-id="38586" data-author="Gorka" data-date="2018-01-04T20:47:11+00:00">
+<div class="post" data-post-id="38586" data-author="Gorka" data-date="2018-01-04T20:47:11+00:00" data-subject="Re: The Axe of the Greater Demon">
 
 Yeah, so we have Burly Dwarven Smith 2.0 now... still smells the same... what is it with dwarves...  :roll: 
 

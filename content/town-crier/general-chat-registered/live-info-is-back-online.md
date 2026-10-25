@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13923" data-author="*Splork*" data-date="2006-09-06T23:27:14+00:00">
+<div class="post" data-post-id="13923" data-author="*Splork*" data-date="2006-09-06T23:27:14+00:00" data-subject="Live Info is back online">
 
 We apologize for the downtime of live info but it is back in action...
 

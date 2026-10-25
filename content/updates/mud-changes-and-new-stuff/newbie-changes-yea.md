@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32973" data-author="*Splork*" data-date="2011-11-05T23:40:32+00:00">
+<div class="post" data-post-id="32973" data-author="*Splork*" data-date="2011-11-05T23:40:32+00:00" data-subject="Newbie Changes!!! Yea...">
 
 Sloth is a very intricate and difficult MUD, twenty years of development will do that. At one time, we were one of the friendliest newbie MUDS out there, but with time and changes, that may no longer be the case. Itâ€™s time to get back to our roots and help the little guys out. I have spent the last few weeks coding tons changes, which should make new players to MUDS and experienced players whom are new to Sloth, be able to adapt, level, and enjoy our game much more than they had been able to. 
 

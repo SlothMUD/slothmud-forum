@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="35201" data-author="Hung" data-date="2014-06-01T10:00:13+00:00">
+<div class="post" data-post-id="35201" data-author="Hung" data-date="2014-06-01T10:00:13+00:00" data-subject="Basin of balms">
 
 Any idea who pops it now?
 
@@ -26,19 +26,19 @@ Same question about ring of death from wraith guard in the Darken Wood. Have kil
 
 </div>
 
-<div class="post" data-post-id="35202" data-author="Hung" data-date="2014-06-01T10:17:10+00:00">
+<div class="post" data-post-id="35202" data-author="Hung" data-date="2014-06-01T10:17:10+00:00" data-subject="Re: Basin of balms">
 
 Disregard question about wraith guard's ring. It just popped.
 
 </div>
 
-<div class="post" data-post-id="35204" data-author="DarkArtist" data-date="2014-06-01T19:00:00+00:00">
+<div class="post" data-post-id="35204" data-author="DarkArtist" data-date="2014-06-01T19:00:00+00:00" data-subject="Re: Basin of balms">
 
 I thought mujen doll was the strike book that loads in star city. Is there another mujen doll?
 
 </div>
 
-<div class="post" data-post-id="35208" data-author="Marvel" data-date="2014-06-01T19:59:32+00:00">
+<div class="post" data-post-id="35208" data-author="Marvel" data-date="2014-06-01T19:59:32+00:00" data-subject="Re: Basin of balms">
 
 Yes. the mu-jen doll is a +4 hitroll low item. The item you're thinking of is a mu ren zheng (barehanded accuracy book item).
 
@@ -48,13 +48,13 @@ I also think it may be a brew somehow but don't quote me on that.
 
 </div>
 
-<div class="post" data-post-id="35211" data-author="Hung" data-date="2014-06-02T01:29:23+00:00">
+<div class="post" data-post-id="35211" data-author="Hung" data-date="2014-06-02T01:29:23+00:00" data-subject="Re: Basin of balms">
 
 Thank you very much.
 
 </div>
 
-<div class="post" data-post-id="35219" data-author="Hung" data-date="2014-06-04T06:14:27+00:00">
+<div class="post" data-post-id="35219" data-author="Hung" data-date="2014-06-04T06:14:27+00:00" data-subject="Re: Basin of balms">
 
 Finally popped mujen doll from 5th or 6th Wu after reboot.
 
@@ -66,7 +66,7 @@ So maybe it doesnt pop doll if it uses stash.
 
 </div>
 
-<div class="post" data-post-id="35222" data-author="*Neptune*" data-date="2014-06-04T15:55:34+00:00">
+<div class="post" data-post-id="35222" data-author="*Neptune*" data-date="2014-06-04T15:55:34+00:00" data-subject="Re: Basin of balms">
 
 Thinking here by 'stash' you mean 'cache' :
 
@@ -90,7 +90,7 @@ I hope this helps.
 
 </div>
 
-<div class="post" data-post-id="35232" data-author="DarkArtist" data-date="2014-06-06T11:42:57+00:00">
+<div class="post" data-post-id="35232" data-author="DarkArtist" data-date="2014-06-06T11:42:57+00:00" data-subject="Re: Basin of balms">
 
 > **Hung wrote:**
 > Finally popped mujen doll from 5th or 6th Wu after reboot.

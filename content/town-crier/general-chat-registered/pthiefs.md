@@ -10,7 +10,7 @@ locked: false
 post_count: 304
 ---
 
-<div class="post" data-post-id="11169" data-author="Gnu" data-date="2006-03-12T19:29:19+00:00">
+<div class="post" data-post-id="11169" data-author="Gnu" data-date="2006-03-12T19:29:19+00:00" data-subject="pthiefs?">
 
 I can not prove anything and I may be wrong, BUT (!) look like the ring of harmony, which is in the chopping block ([<LINK_TEXT text="http://www.slothmud.org/index.php?modul ... on&id=1520">http://www.slothmud.org/index.php?module=pnAuction&func=display_auction&id=1520</LINK_TEXT>](http://www.slothmud.org/index.php?module=pnAuction&func=display_auction&id=1520)) was stolen by Poolp one day... 
 
@@ -18,7 +18,7 @@ hm... interesting... Gondor is a seller... hm... interesting :)
 
 </div>
 
-<div class="post" data-post-id="11170" data-author="*juggleblood*" data-date="2006-03-12T20:26:10+00:00">
+<div class="post" data-post-id="11170" data-author="*juggleblood*" data-date="2006-03-12T20:26:10+00:00" data-subject="Re: pthiefs?">
 
 hm... interesting... Gondor is a seller... hm... interesting :)[/quote:htpqwdpq]
 
@@ -28,13 +28,13 @@ Not making an accusation, just offering an observation.
 
 </div>
 
-<div class="post" data-post-id="11172" data-author="Vixn" data-date="2006-03-12T21:09:36+00:00">
+<div class="post" data-post-id="11172" data-author="Vixn" data-date="2006-03-12T21:09:36+00:00" data-subject="">
 
 I wonder if this ring is personal eq or is there new service 'remove person flag' available now? :P
 
 </div>
 
-<div class="post" data-post-id="11173" data-author="alias" data-date="2006-03-12T21:26:32+00:00">
+<div class="post" data-post-id="11173" data-author="alias" data-date="2006-03-12T21:26:32+00:00" data-subject="observation also.">
 
 I know Gondor well, on the mud as well as rl and he despises pthieves. He spoke of the ring he found in unclaimed at Post office. I would trust him w/ all my stuff. So that is my observation. hope this settles your mind.
 
@@ -42,25 +42,25 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="11174" data-author="12345" data-date="2006-03-12T21:29:05+00:00">
+<div class="post" data-post-id="11174" data-author="12345" data-date="2006-03-12T21:29:05+00:00" data-subject="">
 
 Not unreasonable...  Demi mailed me an oct token.  I don't want it and it will eventually become unclaimed as well.
 
 </div>
 
-<div class="post" data-post-id="11175" data-author="resouh" data-date="2006-03-12T21:30:31+00:00">
+<div class="post" data-post-id="11175" data-author="resouh" data-date="2006-03-12T21:30:31+00:00" data-subject="">
 
 Nods, laugh, I've been running w/ the same group of people since I started on this mud and gondor is one of em......so, man, I guess I'm not to be trusted either..... :twisted:  lol
 
 </div>
 
-<div class="post" data-post-id="11176" data-author="gondor" data-date="2006-03-12T21:39:24+00:00">
+<div class="post" data-post-id="11176" data-author="gondor" data-date="2006-03-12T21:39:24+00:00" data-subject="">
 
 I can assure you that this ring was found in the unclaimed bin at the post office. It has been identified and it does not have a personal tag to it as you can see by the information posted from that identify. To be honest I am shocked and appalled for someone to think I could possibly be a pthief. I thank you ALias and Resouh for sticking up for me. I have had equipment stolen just like the rest of you and will join any fight against pthieves. But please the next time you have a beef with me find me ingame and ask. No need to make it a public debate and run my good name through the mud.
 
 </div>
 
-<div class="post" data-post-id="11177" data-author="Ramoth" data-date="2006-03-12T21:41:36+00:00">
+<div class="post" data-post-id="11177" data-author="Ramoth" data-date="2006-03-12T21:41:36+00:00" data-subject="">
 
 Gondor is not now nor has he ever been a pthief...He spends a good bit of time chasing them down and making their lives difficult, actually. The very idea is idiocy as well as more than a little offensive to people that know him both here and in real life.
 
@@ -68,13 +68,13 @@ Before you go pointing fingers and speaking things that you cannot prove and hav
 
 </div>
 
-<div class="post" data-post-id="11178" data-author="Weasel" data-date="2006-03-12T22:06:54+00:00">
+<div class="post" data-post-id="11178" data-author="Weasel" data-date="2006-03-12T22:06:54+00:00" data-subject="">
 
 see? ptheifs DO disrupt the harmony of the mud..  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11180" data-author="Gnu" data-date="2006-03-12T22:58:20+00:00">
+<div class="post" data-post-id="11180" data-author="Gnu" data-date="2006-03-12T22:58:20+00:00" data-subject="">
 
 nothing that I cannot prove was posted here:
 
@@ -90,13 +90,13 @@ As for the personal flag, a ring of harmony was one of those elite items that ha
 
 </div>
 
-<div class="post" data-post-id="11182" data-author="Weasel" data-date="2006-03-12T23:21:41+00:00">
+<div class="post" data-post-id="11182" data-author="Weasel" data-date="2006-03-12T23:21:41+00:00" data-subject="">
 
 knowing it's definitely a pthieved item, and as far as I know it's the only ring of harmony in existance at present,  perhaps it could be returned to its rightful owner for a small reward? ..just a suggestion..
 
 </div>
 
-<div class="post" data-post-id="11183" data-author="Yasik" data-date="2006-03-12T23:26:41+00:00">
+<div class="post" data-post-id="11183" data-author="Yasik" data-date="2006-03-12T23:26:41+00:00" data-subject="">
 
 <drunk>
 
@@ -106,7 +106,7 @@ Medicine is here : [url:h2zutnqh]http://images.google.com.ua/images?q=tits&ie=ut
 
 </div>
 
-<div class="post" data-post-id="11185" data-author="Autolycos" data-date="2006-03-13T00:25:17+00:00">
+<div class="post" data-post-id="11185" data-author="Autolycos" data-date="2006-03-13T00:25:17+00:00" data-subject="">
 
 I must chime in and add something here.  
 
@@ -120,7 +120,7 @@ thank you.
 
 </div>
 
-<div class="post" data-post-id="11186" data-author="Harlot" data-date="2006-03-13T03:42:33+00:00">
+<div class="post" data-post-id="11186" data-author="Harlot" data-date="2006-03-13T03:42:33+00:00" data-subject="pthiefs? &lt;cont&gt;">
 
 Damn it Auto,
 
@@ -128,19 +128,19 @@ STFU :evil:
 
 </div>
 
-<div class="post" data-post-id="11187" data-author="Weasel" data-date="2006-03-13T04:16:02+00:00">
+<div class="post" data-post-id="11187" data-author="Weasel" data-date="2006-03-13T04:16:02+00:00" data-subject="">
 
 Auto did it.
 
 </div>
 
-<div class="post" data-post-id="11190" data-author="*juggleblood*" data-date="2006-03-13T07:58:48+00:00">
+<div class="post" data-post-id="11190" data-author="*juggleblood*" data-date="2006-03-13T07:58:48+00:00" data-subject="">
 
 Hmm... Don't believe them, they're all in together.
 
 </div>
 
-<div class="post" data-post-id="11195" data-author="Elsie" data-date="2006-03-13T09:58:27+00:00">
+<div class="post" data-post-id="11195" data-author="Elsie" data-date="2006-03-13T09:58:27+00:00" data-subject="">
 
 I've had a few things stolen over my time on Sloth, for me ptheft mars the game and hands one disruptive player far too much power to disrupt the harmony of what is mostly a cooperative harmony amony the players, that said I knew ptheft was allowed when I started, I accepted that and will live with it.
 
@@ -156,7 +156,7 @@ I'm not sure much can  be done about this, I'm almost certain nothing will be do
 
 </div>
 
-<div class="post" data-post-id="11198" data-author="Vixn" data-date="2006-03-13T10:57:44+00:00">
+<div class="post" data-post-id="11198" data-author="Vixn" data-date="2006-03-13T10:57:44+00:00" data-subject="">
 
 [i:2eowjdxb]..Disruption the harmony of Sloth..[/i:2eowjdxb]
 
@@ -166,7 +166,7 @@ P.S. Have you ever seen those tons of crap Auto usually offers in chopping block
 
 </div>
 
-<div class="post" data-post-id="11200" data-author="gondor" data-date="2006-03-13T12:13:48+00:00">
+<div class="post" data-post-id="11200" data-author="gondor" data-date="2006-03-13T12:13:48+00:00" data-subject="">
 
 Juggleblood,
 
@@ -176,19 +176,19 @@ I went out of my way to help with a group CF and do what I could to help my fell
 
 </div>
 
-<div class="post" data-post-id="11202" data-author="Krok" data-date="2006-03-13T12:36:52+00:00">
+<div class="post" data-post-id="11202" data-author="Krok" data-date="2006-03-13T12:36:52+00:00" data-subject="">
 
 Well, Gnu is only thinking about his ring, I guess it's pretty obvious he wants it back. I think it would best for Gondor to give it back :)
 
 </div>
 
-<div class="post" data-post-id="11203" data-author="gondor" data-date="2006-03-13T13:02:03+00:00">
+<div class="post" data-post-id="11203" data-author="gondor" data-date="2006-03-13T13:02:03+00:00" data-subject="">
 
 The ring is on the chopping block and goes to the highest bidder. If the winner is not Gnu and they choose to make a deal with him then that is their choice. I have been sitting on this ring for nearly 2 months and seeing as how I dont have a bard that needs it I decided to put it on the block. Had I known it was gonna cause this much crap to be stirred up I would have just held onto it and created a bard character that could one day use it. Live and learn I guess. Probably best if  I just sit on all the other stuff I have and will continue to claim from the post office.
 
 </div>
 
-<div class="post" data-post-id="11204" data-author="Autolycos" data-date="2006-03-13T13:19:17+00:00">
+<div class="post" data-post-id="11204" data-author="Autolycos" data-date="2006-03-13T13:19:17+00:00" data-subject="">
 
 P.S. Have you ever seen those tons of crap Auto usually offers in chopping block?   :twisted:[/quote:63iq975y]
 
@@ -200,13 +200,13 @@ btw i have always been an eq whore, sometimes feel like a pawn shop.  not only d
 
 </div>
 
-<div class="post" data-post-id="11211" data-author="Krok" data-date="2006-03-13T15:23:33+00:00">
+<div class="post" data-post-id="11211" data-author="Krok" data-date="2006-03-13T15:23:33+00:00" data-subject="">
 
 Ok, I'll feel free to buy/re-sell your stolen eq then :D
 
 </div>
 
-<div class="post" data-post-id="11212" data-author="Autolycos" data-date="2006-03-13T15:53:52+00:00">
+<div class="post" data-post-id="11212" data-author="Autolycos" data-date="2006-03-13T15:53:52+00:00" data-subject="">
 
 coolies  :twisted: ...  
 
@@ -214,7 +214,7 @@ oh nice, your in luck krokie,  Edd had a magic missle spellbook in his corpse!
 
 </div>
 
-<div class="post" data-post-id="11213" data-author="12345" data-date="2006-03-13T15:53:58+00:00">
+<div class="post" data-post-id="11213" data-author="12345" data-date="2006-03-13T15:53:58+00:00" data-subject="">
 
 Shyla is the high bidder last I looked.  She'd probably be more than understanding if it was removed from the block, and would quite likely try to work something out to return it to Gnu if it's not.
 
@@ -226,7 +226,7 @@ I'd at least talk to Gnu.  If he hasn't got coins to your liking he almost certa
 
 </div>
 
-<div class="post" data-post-id="11214" data-author="12345" data-date="2006-03-13T16:20:46+00:00">
+<div class="post" data-post-id="11214" data-author="12345" data-date="2006-03-13T16:20:46+00:00" data-subject="">
 
 2. That a level 40 pthief can pray on a level 10 newbie with no come back, and gives the newbie no realistic opportunity to get the items back.[/quote:3czl9z47]
 
@@ -244,13 +244,13 @@ And I suggest this for a few reasons.  First, the game makes a huge show of gett
 
 </div>
 
-<div class="post" data-post-id="11215" data-author="Krok" data-date="2006-03-13T16:33:13+00:00">
+<div class="post" data-post-id="11215" data-author="Krok" data-date="2006-03-13T16:33:13+00:00" data-subject="">
 
 Nods nods, we are good at making the personal hell for guys :)))
 
 </div>
 
-<div class="post" data-post-id="11216" data-author="brand" data-date="2006-03-13T17:44:30+00:00">
+<div class="post" data-post-id="11216" data-author="brand" data-date="2006-03-13T17:44:30+00:00" data-subject="">
 
 well maybe it is time to put player thieving on hold here at sloth.
 
@@ -274,7 +274,7 @@ brand :twisted:  :?:
 
 </div>
 
-<div class="post" data-post-id="11217" data-author="gondor" data-date="2006-03-13T19:48:45+00:00">
+<div class="post" data-post-id="11217" data-author="gondor" data-date="2006-03-13T19:48:45+00:00" data-subject="">
 
 Yes. I now know who it belongs to. But that doesnt change the beginning point I made. If someone has a problem with me or something I am doing send me a message or find me ingame and ask me. No need to make it a public debate and run my name through the ringer. Had Gnu sent me a private message when I put this ring on the block or even within a couple of days I would have gladly made an attempt to return it to him for a small fee. However once he started this thread and made insinuations that I was a pthief is when I took personal offense and decided then the ring would stay on the block.
 
@@ -282,7 +282,7 @@ Next time make an attempt to message me. Its not hard. My ICQ number is even lis
 
 </div>
 
-<div class="post" data-post-id="11218" data-author="Autolycos" data-date="2006-03-13T20:22:51+00:00">
+<div class="post" data-post-id="11218" data-author="Autolycos" data-date="2006-03-13T20:22:51+00:00" data-subject="">
 
 [i:1ytn2rz3]I'm a cereal killer, 
 
@@ -302,7 +302,7 @@ of raisin bran...  [/i:1ytn2rz3] :twisted:
 
 </div>
 
-<div class="post" data-post-id="11219" data-author="Harlot" data-date="2006-03-13T20:29:17+00:00">
+<div class="post" data-post-id="11219" data-author="Harlot" data-date="2006-03-13T20:29:17+00:00" data-subject="Pthieving ain&#x27;t easy">
 
 Just like pimping my fellow ho's it's a rough life.. however to rebute 12345 and/or Brand (maybe the same since I never seen them at the same place at the same time) let me state for the most part that a certain unoffical brother/sisterhood of ptheives don't steal out of malice. We usually only run about when the MUD is too quite/slow and want to liven up the enviroment. Mind you, if I see a flashy piece of equipment in someone's inventory then I feel a need to lighten their load but I will sometimes just run around and poke at other lowbies such as myself just to 'play a mini-game of hide-n-seek. I've as well as others of my like are known to even advise lowbies about what we could have stolen should we have wanted to steal said item. So to be fair, the pthief who is running around might not be the 'bad guy' that you think they are. We're just bored.
 
@@ -310,7 +310,7 @@ btw-- Got it! :twisted:
 
 </div>
 
-<div class="post" data-post-id="11222" data-author="Weasel" data-date="2006-03-13T21:01:00+00:00">
+<div class="post" data-post-id="11222" data-author="Weasel" data-date="2006-03-13T21:01:00+00:00" data-subject="">
 
 hmm.. knowingly receiving stolen goods used to equate to aiding a pthief on sloth, and hence you suffered the same fate as a pthief to some extent (constantly webbed and slept whenever you logged on, although not pkilled necessarily), but that was before ship was invented. Now I guess it's almost impossible to know if the goods were stolen or not when they are obtained through claim.. unless of course the eq is a one-of-a-kind quest item and thus a known stolen item. 
 
@@ -320,13 +320,13 @@ For example, I scored 2 glinting jade bracelets through claim recently, but ther
 
 </div>
 
-<div class="post" data-post-id="11224" data-author="12345" data-date="2006-03-13T21:03:06+00:00">
+<div class="post" data-post-id="11224" data-author="12345" data-date="2006-03-13T21:03:06+00:00" data-subject="">
 
 It is fun chasing the occasional thief.  And some of the recent thieves have actually been fairly cool.  However, it no longer seems to be an occasional thing.  Having a goofy uncle over is fun for a while, then you'd like him to leave.  When thieving starts hurting the mud, I think it's time to tone it down for a while.  So, if you don't mind, I will try to make it a little more difficult for you.  :)
 
 </div>
 
-<div class="post" data-post-id="11225" data-author="Gnu" data-date="2006-03-13T21:04:04+00:00">
+<div class="post" data-post-id="11225" data-author="Gnu" data-date="2006-03-13T21:04:04+00:00" data-subject="">
 
 One of the my principals in sloth is not to deal with pthiefs, never buy items they sell and never pay for the items that were stolen from me... Well... everything was legal, nothing to blame Gondor for... he simply found the item... Only now I do understand how lucky I was several monthes ago, when dead and was not able to log in for few hours... fortunately no1 found the entire set of my eq, lying on the ground... I still remember the posts on this crier, when ppl were trying to find the owners of this or that item, that was found somewhere... Old happy days... 
 
@@ -338,7 +338,7 @@ And just keep in mind that gold is cold, good luck.
 
 </div>
 
-<div class="post" data-post-id="11230" data-author="Lai" data-date="2006-03-13T23:03:43+00:00">
+<div class="post" data-post-id="11230" data-author="Lai" data-date="2006-03-13T23:03:43+00:00" data-subject="">
 
 For the record, before beginning my first rant here, I would like to say that there is no doubt in my mind that Gondor is NOT Poolp.  He has been in parties that have tracked down and killed him.  I don't have access to his IP addy, but I am 99.9% sure that he in not among the "sister/brotherhood" of thieves.....and I HAVE trusted him with my eq before.
 
@@ -364,7 +364,7 @@ PS. I don't have a thief prime char....but I've spoken to one once or twice...so
 
 </div>
 
-<div class="post" data-post-id="11231" data-author="Gnu" data-date="2006-03-13T23:37:11+00:00">
+<div class="post" data-post-id="11231" data-author="Gnu" data-date="2006-03-13T23:37:11+00:00" data-subject="">
 
 My opinion is that if it is not a personal item and there is no way of proving who it belongs to (not pointing fingers here, of course) why are you making such a big issue out of it??  Was that the only Ring of Harmony every made before it was made a personal item??  Maybe it is not yours Gnu.....and maybe you are a pthief!! [/quote:3a8ieh44]
 
@@ -384,7 +384,7 @@ Finally, I do not blame anyone, I do not whine... I just see who is who and make
 
 </div>
 
-<div class="post" data-post-id="11233" data-author="Lai" data-date="2006-03-14T00:42:07+00:00">
+<div class="post" data-post-id="11233" data-author="Lai" data-date="2006-03-14T00:42:07+00:00" data-subject="">
 
 I do not doubt that gold is cold....but so is accusing others of pthieving in an environment that most hate pthieves and is the only reason for pkilling.  Nor do I doubt that the Ring of Harmony is a very valuable item.  However, your original post was an accusation against a fellow player that you should know is not a pthief.  Then came the building of hate against others.  My point is that this is getting outrageous and we will lose more players if this continues without putting someone in check or coming to some sort of agreement to disagree.  A little drama makes life interesting....thus the pthieves being allowed to play on the edge of the rules....but there is no reason to tear each other down!  If I had/was able to give you the 250 drachma to buy the ring for Shyla, I would, but unfortunately that is personal too.
 
@@ -394,7 +394,7 @@ As to how he came by it, he told everyone and he would have returned it had this
 
 </div>
 
-<div class="post" data-post-id="11234" data-author="Medios" data-date="2006-03-14T00:44:44+00:00">
+<div class="post" data-post-id="11234" data-author="Medios" data-date="2006-03-14T00:44:44+00:00" data-subject="">
 
 Ring of Harmony is trash, Gondor probably found it in a dumpster.  Bards without 18 int... rubbish.  I think pendalf got smart, threw ring in garbage and someone trying to steal his identity found the ring and shipped it to their cousin.  Cousin forgot to claim it and Gondor (Who learned from Ironwolf) sits in the post office waiting for unclaimed goods to sell at the swap meet.  Gondor knew that young sir william would be at the meet and the ring could fetch a nifty price.  Now poor Gondor looks like Martha Stewart after a prison term.  Webbed, slept, sore ass, all symptoms of swap meet bartering.  I like these new days where everyone goes around personally attacking other players with no solid evidence of wrongdoing.  I have really been waiting for it to happen to a clan member.  Oh wait where did Fyrstenheart run off too?
 
@@ -402,25 +402,25 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="11235" data-author="Lai" data-date="2006-03-14T01:08:50+00:00">
+<div class="post" data-post-id="11235" data-author="Lai" data-date="2006-03-14T01:08:50+00:00" data-subject="">
 
 *LMAO* Love it!! *hugs*
 
 </div>
 
-<div class="post" data-post-id="11236" data-author="brady" data-date="2006-03-14T01:11:57+00:00">
+<div class="post" data-post-id="11236" data-author="brady" data-date="2006-03-14T01:11:57+00:00" data-subject="">
 
 I just wanna know what the hell Auto was doing at a luncheon.  I hope you raised you're pinky, guzzler.
 
 </div>
 
-<div class="post" data-post-id="11238" data-author="Shara" data-date="2006-03-14T01:21:31+00:00">
+<div class="post" data-post-id="11238" data-author="Shara" data-date="2006-03-14T01:21:31+00:00" data-subject="">
 
 I have an icon!
 
 </div>
 
-<div class="post" data-post-id="11239" data-author="Harlot" data-date="2006-03-14T01:23:49+00:00">
+<div class="post" data-post-id="11239" data-author="Harlot" data-date="2006-03-14T01:23:49+00:00" data-subject="pthief&#x27;s">
 
 Why you hating so much? You act like pthievery is the worst thing in the world. As for Fyrstenheart, I do miss him :twisted: 
 
@@ -432,7 +432,7 @@ and no I am Poolp or not rather...or am I?  :roll:
 
 </div>
 
-<div class="post" data-post-id="11240" data-author="Autolycos" data-date="2006-03-14T03:03:26+00:00">
+<div class="post" data-post-id="11240" data-author="Autolycos" data-date="2006-03-14T03:03:26+00:00" data-subject="">
 
 I just wanna know what the hell Auto was doing at a luncheon.  I hope you raised you're pinky, guzzler.[/quote:25xohp4g]
 
@@ -440,7 +440,7 @@ cackle.. not quite.. some of us still prefer to eat at a table with others.. unl
 
 </div>
 
-<div class="post" data-post-id="11241" data-author="Lai" data-date="2006-03-14T04:15:55+00:00">
+<div class="post" data-post-id="11241" data-author="Lai" data-date="2006-03-14T04:15:55+00:00" data-subject="">
 
 [quote:233je815]Let's make all eq personal... I was laughing my ass off till I saw that you were serious.. then I was puzzled.....silly people...[/quote:233je815]
 
@@ -448,7 +448,7 @@ cackle.. not quite.. some of us still prefer to eat at a table with others.. unl
 
 </div>
 
-<div class="post" data-post-id="11242" data-author="Poolp" data-date="2006-03-14T04:28:45+00:00">
+<div class="post" data-post-id="11242" data-author="Poolp" data-date="2006-03-14T04:28:45+00:00" data-subject="">
 
 2. That a level 40 pthief can pray on a level 10 newbie with no come back, and gives the newbie no realistic opportunity to get the items back.[/quote:1heggg0a]
 
@@ -476,7 +476,7 @@ And I suggest this for a few reasons.  First, the game makes a huge show of gett
 
 </div>
 
-<div class="post" data-post-id="11244" data-author="12345" data-date="2006-03-14T05:05:40+00:00">
+<div class="post" data-post-id="11244" data-author="12345" data-date="2006-03-14T05:05:40+00:00" data-subject="">
 
 It's amazing how many numbers you need to say that the mud protects newbies.
 
@@ -484,19 +484,19 @@ If you don't want to stop, that's fine.  Of course the more annoying you get, th
 
 </div>
 
-<div class="post" data-post-id="11246" data-author="Weasel" data-date="2006-03-14T05:18:20+00:00">
+<div class="post" data-post-id="11246" data-author="Weasel" data-date="2006-03-14T05:18:20+00:00" data-subject="">
 
 [img:3lrpjshc]http://ninjaspirit.hypermart.net/ninja/grow_9/harvest_grow_a/grow_9_a_AK47_04.JPG[/img:3lrpjshc]
 
 </div>
 
-<div class="post" data-post-id="11247" data-author="Ditheca" data-date="2006-03-14T05:22:52+00:00">
+<div class="post" data-post-id="11247" data-author="Ditheca" data-date="2006-03-14T05:22:52+00:00" data-subject="">
 
 Anyone else as amused as I over all the controversy over this 'ring of [i:3hduytf9]harmony[/i:3hduytf9]?
 
 </div>
 
-<div class="post" data-post-id="11248" data-author="brand" data-date="2006-03-14T06:27:25+00:00">
+<div class="post" data-post-id="11248" data-author="brand" data-date="2006-03-14T06:27:25+00:00" data-subject="Re: Pthieving ain&#x27;t easy">
 
 Just like pimping my fellow ho's it's a rough life.. however to rebute 12345 and/or Brand (maybe the same since I never seen them at the same place at the same time) let me state for the most part that a certain unoffical brother/sisterhood of ptheives don't steal out of malice. We usually only run about when the MUD is too quite/slow and want to liven up the enviroment. Mind you, if I see a flashy piece of equipment in someone's inventory then I feel a need to lighten their load but I will sometimes just run around and poke at other lowbies such as myself just to 'play a mini-game of hide-n-seek. I've as well as others of my like are known to even advise lowbies about what we could have stolen should we have wanted to steal said item. So to be fair, the pthief who is running around might not be the 'bad guy' that you think they are. We're just bored.
 
@@ -514,31 +514,31 @@ brand :!:  :evil:
 
 </div>
 
-<div class="post" data-post-id="11249" data-author="Weasel" data-date="2006-03-14T06:34:10+00:00">
+<div class="post" data-post-id="11249" data-author="Weasel" data-date="2006-03-14T06:34:10+00:00" data-subject="">
 
 [img:2bm6gewp]http://www.cafzone.net/dotclear/images/stfu_noob_dogs.jpg[/img:2bm6gewp]
 
 </div>
 
-<div class="post" data-post-id="11250" data-author="Weasel" data-date="2006-03-14T06:35:35+00:00">
+<div class="post" data-post-id="11250" data-author="Weasel" data-date="2006-03-14T06:35:35+00:00" data-subject="">
 
 [img:2eq1pl7m]http://www.lordshaper.com/albums/Razors-Realm-of-Random-Stuff/stfu_noob.sized.jpg[/img:2eq1pl7m]
 
 </div>
 
-<div class="post" data-post-id="11251" data-author="Weasel" data-date="2006-03-14T06:39:54+00:00">
+<div class="post" data-post-id="11251" data-author="Weasel" data-date="2006-03-14T06:39:54+00:00" data-subject="">
 
 [img:1xaeesmd]http://media.gamerfeed.com/blogs/shayotovich/stfunoob.jpg[/img:1xaeesmd]
 
 </div>
 
-<div class="post" data-post-id="11252" data-author="Weasel" data-date="2006-03-14T06:41:29+00:00">
+<div class="post" data-post-id="11252" data-author="Weasel" data-date="2006-03-14T06:41:29+00:00" data-subject="">
 
 [img:2dn0bhvu]http://www.tirod.com/smilies/stfunoob.gif[/img:2dn0bhvu]
 
 </div>
 
-<div class="post" data-post-id="11253" data-author="Weasel" data-date="2006-03-14T06:43:08+00:00">
+<div class="post" data-post-id="11253" data-author="Weasel" data-date="2006-03-14T06:43:08+00:00" data-subject="">
 
 not quite what you wanted, but amusing...
 
@@ -546,7 +546,7 @@ not quite what you wanted, but amusing...
 
 </div>
 
-<div class="post" data-post-id="11254" data-author="Rajil" data-date="2006-03-14T08:44:14+00:00">
+<div class="post" data-post-id="11254" data-author="Rajil" data-date="2006-03-14T08:44:14+00:00" data-subject="">
 
 ...
 
@@ -556,13 +556,13 @@ I think Weasel has too much time on his hands.
 
 </div>
 
-<div class="post" data-post-id="11256" data-author="Autolycos" data-date="2006-03-14T13:55:11+00:00">
+<div class="post" data-post-id="11256" data-author="Autolycos" data-date="2006-03-14T13:55:11+00:00" data-subject="">
 
 i love it!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11257" data-author="Zing" data-date="2006-03-14T15:31:29+00:00">
+<div class="post" data-post-id="11257" data-author="Zing" data-date="2006-03-14T15:31:29+00:00" data-subject="Pthieving should be banned">
 
 Yes, I like Sloth better then any other Mud I've seen.  That's why I keep coming back.  Yes, every time Poolp and Ptheiving becomes active I spend my time looking at or playing other muds instead of playing here.
 
@@ -578,7 +578,7 @@ This is the crap that makes potential new blood say, why deal with this hassle, 
 
 </div>
 
-<div class="post" data-post-id="11265" data-author="Weasel" data-date="2006-03-14T19:02:17+00:00">
+<div class="post" data-post-id="11265" data-author="Weasel" data-date="2006-03-14T19:02:17+00:00" data-subject="">
 
 I think the oft-used catch-phrase to legitimize the inclusion of pthieving in SlothMUD is 'challenge' ..my reply to that at the moment is.. GFY !:
 
@@ -586,7 +586,7 @@ I think the oft-used catch-phrase to legitimize the inclusion of pthieving in Sl
 
 </div>
 
-<div class="post" data-post-id="11266" data-author="Autolycos" data-date="2006-03-14T19:36:07+00:00">
+<div class="post" data-post-id="11266" data-author="Autolycos" data-date="2006-03-14T19:36:07+00:00" data-subject="">
 
 cackle,  the sad thing is,  he is doing it to his own country  :shock: 
 
@@ -594,7 +594,7 @@ cackle,  the sad thing is,  he is doing it to his own country  :shock:
 
 </div>
 
-<div class="post" data-post-id="11267" data-author="Harlot" data-date="2006-03-14T20:14:04+00:00">
+<div class="post" data-post-id="11267" data-author="Harlot" data-date="2006-03-14T20:14:04+00:00" data-subject="Elwood....">
 
 Who the fuck is Elwood? 8)  and to respond...
 
@@ -602,19 +602,19 @@ Who the fuck is Elwood? 8)  and to respond...
 
 </div>
 
-<div class="post" data-post-id="11268" data-author="12345" data-date="2006-03-14T20:52:10+00:00">
+<div class="post" data-post-id="11268" data-author="12345" data-date="2006-03-14T20:52:10+00:00" data-subject="">
 
 It's asking that kind of question that lets everyone know you're a newbie...
 
 </div>
 
-<div class="post" data-post-id="11273" data-author="kjartan" data-date="2006-03-14T23:59:26+00:00">
+<div class="post" data-post-id="11273" data-author="kjartan" data-date="2006-03-14T23:59:26+00:00" data-subject="">
 
 So, and I'm not saying I'm going to do this, what would be the implications for pthieves and their victims if I made it so that a druid shifted into a dog could smell an item and tell who had handled it in (say) the last rt month, maybe with some further details like "this item smells strongly of Guinex", "this item carries a faint, recent odor of Poolp", etc.?
 
 </div>
 
-<div class="post" data-post-id="11275" data-author="Weasel" data-date="2006-03-15T01:08:15+00:00">
+<div class="post" data-post-id="11275" data-author="Weasel" data-date="2006-03-15T01:08:15+00:00" data-subject="">
 
 Unfortunately I think that would just mean the turnover time of stolen eq would increase - pthiefs could ship it to another char and that char (which would not be a known pthief) would just sit on it until it smells only of them - if it was time based.. 
 
@@ -622,7 +622,7 @@ If it were based on the last X people who handled it regardless of time, then th
 
 </div>
 
-<div class="post" data-post-id="11276" data-author="jezer" data-date="2006-03-15T01:27:11+00:00">
+<div class="post" data-post-id="11276" data-author="jezer" data-date="2006-03-15T01:27:11+00:00" data-subject="">
 
 Isn't it amazing how quickly Weasel comes up with stuff to circum navigate a pthief protection system... Are you thinking what I'm thinking?
 
@@ -634,7 +634,7 @@ target weasel  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11278" data-author="Weasel" data-date="2006-03-15T01:33:55+00:00">
+<div class="post" data-post-id="11278" data-author="Weasel" data-date="2006-03-15T01:33:55+00:00" data-subject="">
 
 heh.. doesn't take a genius to figure out what I did in 5 seconds flat.. 
 
@@ -642,13 +642,13 @@ heh.. doesn't take a genius to figure out what I did in 5 seconds flat..
 
 </div>
 
-<div class="post" data-post-id="11280" data-author="kjartan" data-date="2006-03-15T01:44:55+00:00">
+<div class="post" data-post-id="11280" data-author="kjartan" data-date="2006-03-15T01:44:55+00:00" data-subject="">
 
 Oh, I was aware they could circumvent the thing like that, but would they bother?  And would anybody care if there was a way to tell who had had his hands on equipment?
 
 </div>
 
-<div class="post" data-post-id="11281" data-author="Weasel" data-date="2006-03-15T01:50:15+00:00">
+<div class="post" data-post-id="11281" data-author="Weasel" data-date="2006-03-15T01:50:15+00:00" data-subject="">
 
 True.. if you suspect you just scored stolen eq then I guess it becomes an ethical question really.. 
 
@@ -656,19 +656,19 @@ What will be will be I guess.
 
 </div>
 
-<div class="post" data-post-id="11283" data-author="Autolycos" data-date="2006-03-15T03:05:10+00:00">
+<div class="post" data-post-id="11283" data-author="Autolycos" data-date="2006-03-15T03:05:10+00:00" data-subject="">
 
 of course it would be much easier to not leave stuff in your inventory.... :evil:
 
 </div>
 
-<div class="post" data-post-id="11285" data-author="Weasel" data-date="2006-03-15T05:13:19+00:00">
+<div class="post" data-post-id="11285" data-author="Weasel" data-date="2006-03-15T05:13:19+00:00" data-subject="">
 
 Well yeah hehe, but being pthieved while getting changed to do a raise or while changing into regen while in a group? The only way to avoid that is don't raise or be prepared to shock the dead (unless you wear raise eq all the time), and don't change into regen gear - that way groups can be even more fun while we sit around regenning for double the usual time.. pthieving in that situation is not a challenge, it's just a way to lessen the enjoyment of slothmud.
 
 </div>
 
-<div class="post" data-post-id="11286" data-author="Rajil" data-date="2006-03-15T05:41:05+00:00">
+<div class="post" data-post-id="11286" data-author="Rajil" data-date="2006-03-15T05:41:05+00:00" data-subject="">
 
 Yeah, forget regen. :P
 
@@ -678,7 +678,7 @@ Fun!
 
 </div>
 
-<div class="post" data-post-id="11287" data-author="Vixn" data-date="2006-03-15T07:04:25+00:00">
+<div class="post" data-post-id="11287" data-author="Vixn" data-date="2006-03-15T07:04:25+00:00" data-subject="">
 
 Yeah, forget regen. :P
 
@@ -696,7 +696,7 @@ what about to type 'where' before change to shock gear? and as I see when the le
 
 </div>
 
-<div class="post" data-post-id="11289" data-author="*juggleblood*" data-date="2006-03-15T09:25:38+00:00">
+<div class="post" data-post-id="11289" data-author="*juggleblood*" data-date="2006-03-15T09:25:38+00:00" data-subject="">
 
 [quote:3psj3w6t]Autolycos: The sad thing is he's doing it to his own country[/quote:3psj3w6t]
 
@@ -706,7 +706,7 @@ I see your bumbling idiot and raise u a crazed lunatic.
 
 </div>
 
-<div class="post" data-post-id="11290" data-author="Weasel" data-date="2006-03-15T11:09:16+00:00">
+<div class="post" data-post-id="11290" data-author="Weasel" data-date="2006-03-15T11:09:16+00:00" data-subject="">
 
 Well yeah hehe, but being pthieved while getting changed to do a raise or while changing into regen while in a group?
 
@@ -720,19 +720,19 @@ one word: stealth.
 
 </div>
 
-<div class="post" data-post-id="11291" data-author="Krok" data-date="2006-03-15T11:23:34+00:00">
+<div class="post" data-post-id="11291" data-author="Krok" data-date="2006-03-15T11:23:34+00:00" data-subject="">
 
 Oh crap, Edd. So you are telling that all the things I do every time you lead a group are against the rules?! Daaamn. I'll really have to stop assist the poor meditating irda then.
 
 </div>
 
-<div class="post" data-post-id="11292" data-author="Vixn" data-date="2006-03-15T12:25:28+00:00">
+<div class="post" data-post-id="11292" data-author="Vixn" data-date="2006-03-15T12:25:28+00:00" data-subject="">
 
 Got it already from the first repop (but don't tell Crush, he prolly will shot himself :P ). Now I'm kicking cooking male there. BTW it seems his regen kinda bugged. He respawned in awful condition but became exellent after we start to kick him and mare don't stop him to regen hp.
 
 </div>
 
-<div class="post" data-post-id="11293" data-author="12345" data-date="2006-03-15T12:36:13+00:00">
+<div class="post" data-post-id="11293" data-author="12345" data-date="2006-03-15T12:36:13+00:00" data-subject="">
 
 Hmm.
 
@@ -760,7 +760,7 @@ And yes, I know that's a lot of work and is probably still flawed.  But I think 
 
 </div>
 
-<div class="post" data-post-id="11296" data-author="Autolycos" data-date="2006-03-15T12:50:42+00:00">
+<div class="post" data-post-id="11296" data-author="Autolycos" data-date="2006-03-15T12:50:42+00:00" data-subject="">
 
 [i:1bs880iz][b:1bs880iz]**applaud**[/b:1bs880iz][/i:1bs880iz]
 
@@ -770,7 +770,7 @@ I see your bumbling idiot and raise u a crazed lunatic.
 
 </div>
 
-<div class="post" data-post-id="11297" data-author="Krok" data-date="2006-03-15T13:48:45+00:00">
+<div class="post" data-post-id="11297" data-author="Krok" data-date="2006-03-15T13:48:45+00:00" data-subject="">
 
 Well, I can assist cooking too. 
 
@@ -778,7 +778,7 @@ Well, I can assist cooking too.
 
 </div>
 
-<div class="post" data-post-id="11300" data-author="Autolycos" data-date="2006-03-15T14:16:04+00:00">
+<div class="post" data-post-id="11300" data-author="Autolycos" data-date="2006-03-15T14:16:04+00:00" data-subject="">
 
 cackle  :twisted: 
 
@@ -786,7 +786,7 @@ cackle  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11302" data-author="Blastem" data-date="2006-03-15T14:20:56+00:00">
+<div class="post" data-post-id="11302" data-author="Blastem" data-date="2006-03-15T14:20:56+00:00" data-subject="">
 
 [quote:1ipl0go9]Well, I can assist cooking too. [/quote:1ipl0go9]
 
@@ -794,7 +794,7 @@ ok I'll have a cheese burger, onion rings....
 
 </div>
 
-<div class="post" data-post-id="11305" data-author="12345" data-date="2006-03-15T14:24:51+00:00">
+<div class="post" data-post-id="11305" data-author="12345" data-date="2006-03-15T14:24:51+00:00" data-subject="">
 
 I suppose I could wonder which of my 3000 tombstones that one is...
 
@@ -802,7 +802,7 @@ When did you add stick figures to your repertoire of psychobabble?
 
 </div>
 
-<div class="post" data-post-id="11306" data-author="Autolycos" data-date="2006-03-15T14:35:48+00:00">
+<div class="post" data-post-id="11306" data-author="Autolycos" data-date="2006-03-15T14:35:48+00:00" data-subject="">
 
 I suppose I could wonder which of my 3000 tombstones that one is...
 
@@ -814,7 +814,7 @@ oh come on.. give me more credit then that...  i am a thief remember?
 
 </div>
 
-<div class="post" data-post-id="11307" data-author="Rajil" data-date="2006-03-15T14:35:54+00:00">
+<div class="post" data-post-id="11307" data-author="Rajil" data-date="2006-03-15T14:35:54+00:00" data-subject="">
 
 Hmmm...
 
@@ -828,13 +828,13 @@ Nice suit Blastem.
 
 </div>
 
-<div class="post" data-post-id="11308" data-author="Krok" data-date="2006-03-15T15:05:38+00:00">
+<div class="post" data-post-id="11308" data-author="Krok" data-date="2006-03-15T15:05:38+00:00" data-subject="">
 
 OMFG that's awesome :))))))))
 
 </div>
 
-<div class="post" data-post-id="11309" data-author="Clink" data-date="2006-03-15T15:15:57+00:00">
+<div class="post" data-post-id="11309" data-author="Clink" data-date="2006-03-15T15:15:57+00:00" data-subject="">
 
 Yeah, forget regen. :P
 
@@ -876,13 +876,13 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="11310" data-author="Krok" data-date="2006-03-15T15:20:52+00:00">
+<div class="post" data-post-id="11310" data-author="Krok" data-date="2006-03-15T15:20:52+00:00" data-subject="">
 
 Only if you get me a beer, Paul, btw :)
 
 </div>
 
-<div class="post" data-post-id="11312" data-author="osric" data-date="2006-03-15T16:16:37+00:00">
+<div class="post" data-post-id="11312" data-author="osric" data-date="2006-03-15T16:16:37+00:00" data-subject="">
 
 Chug Chug Chug Chug Chug Chug Chug Chug Chug Chug Chug Chug 
 
@@ -890,19 +890,19 @@ Chug Chug Chug Chug Chug Chug Chug Chug Chug Chug Chug Chug
 
 </div>
 
-<div class="post" data-post-id="11315" data-author="Harlot" data-date="2006-03-15T17:53:40+00:00">
+<div class="post" data-post-id="11315" data-author="Harlot" data-date="2006-03-15T17:53:40+00:00" data-subject="Got it !!!">
 
 Someone missing a really,really nice sword? :twisted:
 
 </div>
 
-<div class="post" data-post-id="11316" data-author="Alberich" data-date="2006-03-15T17:54:51+00:00">
+<div class="post" data-post-id="11316" data-author="Alberich" data-date="2006-03-15T17:54:51+00:00" data-subject="">
 
 ooooh, so that's where my katana went!
 
 </div>
 
-<div class="post" data-post-id="11318" data-author="Guinex" data-date="2006-03-15T18:42:41+00:00">
+<div class="post" data-post-id="11318" data-author="Guinex" data-date="2006-03-15T18:42:41+00:00" data-subject="">
 
 I am against this change on item tracer on pthieved items, as much as i hate pthieves, whats the point of the item tracer?  Why not get rid of pthieving if your going to do this? BTW I love smashing pthieves around.
 
@@ -910,13 +910,13 @@ And i think the sword Harlot is referring to is a shiny longsword.  NOOB  :evil:
 
 </div>
 
-<div class="post" data-post-id="11319" data-author="kjartan" data-date="2006-03-15T18:52:35+00:00">
+<div class="post" data-post-id="11319" data-author="kjartan" data-date="2006-03-15T18:52:35+00:00" data-subject="">
 
 I'm certainly not going to make a faultless item tracer like 12345 suggested; I'm not really trying to stop pthieving with this, I just thought it might be interesting to be able to tell who had been handling an item.  Would the odor thing as I had originally proposed be that tough on pthieves?  Mostly what it would tell you is who the item originally belonged to if it was stolen.  It might also tell you who stole it, although that would be pretty easy to hide by having another character sit on it for a little while.
 
 </div>
 
-<div class="post" data-post-id="11321" data-author="Autolycos" data-date="2006-03-15T19:16:13+00:00">
+<div class="post" data-post-id="11321" data-author="Autolycos" data-date="2006-03-15T19:16:13+00:00" data-subject="">
 
 the only thing thats really going to be shown in the tracer is exactly how much krap passes through me from one time to another.
 
@@ -924,7 +924,7 @@ hey Kj,   how about you let me buy my own shopkeeper in a town so I can start a 
 
 </div>
 
-<div class="post" data-post-id="11322" data-author="*juggleblood*" data-date="2006-03-15T19:19:34+00:00">
+<div class="post" data-post-id="11322" data-author="*juggleblood*" data-date="2006-03-15T19:19:34+00:00" data-subject="">
 
 I was sleeping at the fountain with all my eq in my inventory and now its all gone...someone help me! :( 
 
@@ -932,19 +932,19 @@ I was sleeping at the fountain with all my eq in my inventory and now its all go
 
 </div>
 
-<div class="post" data-post-id="11323" data-author="brady" data-date="2006-03-15T19:52:11+00:00">
+<div class="post" data-post-id="11323" data-author="brady" data-date="2006-03-15T19:52:11+00:00" data-subject="">
 
 LMFAO, that picture rocks!  And Auto, I really don't thing anybody wants anything that passed through you.  :shock:
 
 </div>
 
-<div class="post" data-post-id="11324" data-author="Weasel" data-date="2006-03-15T19:56:07+00:00">
+<div class="post" data-post-id="11324" data-author="Weasel" data-date="2006-03-15T19:56:07+00:00" data-subject="">
 
 :shock:
 
 </div>
 
-<div class="post" data-post-id="11325" data-author="Autolycos" data-date="2006-03-15T19:59:47+00:00">
+<div class="post" data-post-id="11325" data-author="Autolycos" data-date="2006-03-15T19:59:47+00:00" data-subject="">
 
 [quote:27xuzrcy][b:27xuzrcy]Brady[/color:27xuzrcy][/b:27xuzrcy] LMFAO, that picture rocks! And Auto, I really don't thing anybody wants anything that passed through you. [/quote:27xuzrcy]
 
@@ -952,13 +952,13 @@ i'm not selling kidney stones and plasma, ya jackass!  :evil:
 
 </div>
 
-<div class="post" data-post-id="11326" data-author="Weasel" data-date="2006-03-15T20:02:43+00:00">
+<div class="post" data-post-id="11326" data-author="Weasel" data-date="2006-03-15T20:02:43+00:00" data-subject="">
 
 I think all rooms outside vaults should be nosteal, for obvious reasons.. or give us password access to main entrance of vaults rather than keys.
 
 </div>
 
-<div class="post" data-post-id="11327" data-author="Blastem" data-date="2006-03-15T20:14:00+00:00">
+<div class="post" data-post-id="11327" data-author="Blastem" data-date="2006-03-15T20:14:00+00:00" data-subject="">
 
 [quote:23umvbj8]Mostly what it would tell you is who the item originally belonged to if it was stolen. [/quote:23umvbj8]
 
@@ -974,7 +974,7 @@ Funny stuff
 
 </div>
 
-<div class="post" data-post-id="11328" data-author="Autolycos" data-date="2006-03-15T20:21:27+00:00">
+<div class="post" data-post-id="11328" data-author="Autolycos" data-date="2006-03-15T20:21:27+00:00" data-subject="">
 
 cackle..
 
@@ -982,7 +982,7 @@ then your really gonna have everyones nose up your ass!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11329" data-author="12345" data-date="2006-03-15T20:25:36+00:00">
+<div class="post" data-post-id="11329" data-author="12345" data-date="2006-03-15T20:25:36+00:00" data-subject="">
 
 I'm certainly not going to make a faultless item tracer like 12345 suggested...[/quote:1a4nvryg]
 
@@ -996,7 +996,7 @@ I'm not exactly suggesting we banish pthieves... but I do think they've had it w
 
 </div>
 
-<div class="post" data-post-id="11330" data-author="Shazuko" data-date="2006-03-15T20:26:42+00:00">
+<div class="post" data-post-id="11330" data-author="Shazuko" data-date="2006-03-15T20:26:42+00:00" data-subject="">
 
 #1--require that the druid(at some point) had to have been in the same
 
@@ -1014,13 +1014,13 @@ Shazuko Roku Ryuu
 
 </div>
 
-<div class="post" data-post-id="11331" data-author="Weasel" data-date="2006-03-15T20:35:46+00:00">
+<div class="post" data-post-id="11331" data-author="Weasel" data-date="2006-03-15T20:35:46+00:00" data-subject="">
 
 limit the amount of times they can use the steal command in one day...
 
 </div>
 
-<div class="post" data-post-id="11332" data-author="Autolycos" data-date="2006-03-15T20:45:10+00:00">
+<div class="post" data-post-id="11332" data-author="Autolycos" data-date="2006-03-15T20:45:10+00:00" data-subject="">
 
 #2--make the odor on the item temporary(whether its stolen again or not)  as even the strongest smells eventually fade...[/quote:8odk5hou]
 
@@ -1028,7 +1028,7 @@ apparently you have not spent much time around Weasel.... that little rodent has
 
 </div>
 
-<div class="post" data-post-id="11333" data-author="Shazuko" data-date="2006-03-15T20:47:32+00:00">
+<div class="post" data-post-id="11333" data-author="Shazuko" data-date="2006-03-15T20:47:32+00:00" data-subject="">
 
 [quote:1nblzelm]apparently you have not spent much time around Weasel.... that little rodent has not bathed in months... I doubt his stench would fade without a ritualistic cleansing, and a few human sacrifices..[/quote:1nblzelm]
 
@@ -1036,13 +1036,13 @@ heheh.....
 
 </div>
 
-<div class="post" data-post-id="11337" data-author="Weasel" data-date="2006-03-15T20:57:42+00:00">
+<div class="post" data-post-id="11337" data-author="Weasel" data-date="2006-03-15T20:57:42+00:00" data-subject="">
 
 heh.. it's not me, it's that damn Autolycos that keeps following me around :P
 
 </div>
 
-<div class="post" data-post-id="11338" data-author="Autolycos" data-date="2006-03-15T21:01:27+00:00">
+<div class="post" data-post-id="11338" data-author="Autolycos" data-date="2006-03-15T21:01:27+00:00" data-subject="">
 
 heh.. it's not me, it's that damn Autolycos that keeps following me around :P[/quote:k33veiwn]
 
@@ -1050,37 +1050,37 @@ ya, i'm following you with a damn can of Glade Air Freshener ya stinky bastard! 
 
 </div>
 
-<div class="post" data-post-id="11342" data-author="Weasel" data-date="2006-03-15T21:09:37+00:00">
+<div class="post" data-post-id="11342" data-author="Weasel" data-date="2006-03-15T21:09:37+00:00" data-subject="">
 
 lol.. likely story  :wink:
 
 </div>
 
-<div class="post" data-post-id="11346" data-author="Guinex" data-date="2006-03-15T21:26:03+00:00">
+<div class="post" data-post-id="11346" data-author="Guinex" data-date="2006-03-15T21:26:03+00:00" data-subject="">
 
 I just don't see the point in this, or what it would even solve.
 
 </div>
 
-<div class="post" data-post-id="11348" data-author="Autolycos" data-date="2006-03-15T21:28:29+00:00">
+<div class="post" data-post-id="11348" data-author="Autolycos" data-date="2006-03-15T21:28:29+00:00" data-subject="">
 
 well to be honest Guinex,  the point is to keep posting crazy nonsense until my counter hits 500 posts and i become an Avatar poster  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11359" data-author="Krok" data-date="2006-03-15T22:35:11+00:00">
+<div class="post" data-post-id="11359" data-author="Krok" data-date="2006-03-15T22:35:11+00:00" data-subject="">
 
 G, some people, basically four of em - Weasel, Auto, 12345 and Leaf (check the counters if ya don't believe your master) just have tooo much free time, that's why we are supposed to read their crazy stuff. :))
 
 </div>
 
-<div class="post" data-post-id="11360" data-author="12345" data-date="2006-03-15T22:45:12+00:00">
+<div class="post" data-post-id="11360" data-author="12345" data-date="2006-03-15T22:45:12+00:00" data-subject="">
 
 Perhaps.  I'm just getting tired of the topic.  If they go away, I don't have to hear about it anymore :)
 
 </div>
 
-<div class="post" data-post-id="11361" data-author="Weasel" data-date="2006-03-15T23:04:43+00:00">
+<div class="post" data-post-id="11361" data-author="Weasel" data-date="2006-03-15T23:04:43+00:00" data-subject="">
 
 We're the entertainment Krok. This forum would be dead without us :)
 
@@ -1088,13 +1088,13 @@ We're the entertainment Krok. This forum would be dead without us :)
 
 </div>
 
-<div class="post" data-post-id="11363" data-author="Autolycos" data-date="2006-03-15T23:39:47+00:00">
+<div class="post" data-post-id="11363" data-author="Autolycos" data-date="2006-03-15T23:39:47+00:00" data-subject="">
 
 no doubt... sad krok couldnt be in our little group... but alas... she isnt annoying enuff..  she is just sad... poor sad little klurik  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11367" data-author="Krok" data-date="2006-03-16T00:20:49+00:00">
+<div class="post" data-post-id="11367" data-author="Krok" data-date="2006-03-16T00:20:49+00:00" data-subject="">
 
 *crying quietly in the corner*
 
@@ -1102,13 +1102,13 @@ no doubt... sad krok couldnt be in our little group... but alas... she isnt anno
 
 </div>
 
-<div class="post" data-post-id="11371" data-author="Autolycos" data-date="2006-03-16T01:13:45+00:00">
+<div class="post" data-post-id="11371" data-author="Autolycos" data-date="2006-03-16T01:13:45+00:00" data-subject="">
 
 :twisted:  sulk your life away lil klurik..
 
 </div>
 
-<div class="post" data-post-id="11372" data-author="Harlot" data-date="2006-03-16T03:30:12+00:00">
+<div class="post" data-post-id="11372" data-author="Harlot" data-date="2006-03-16T03:30:12+00:00" data-subject="Can&#x27;t we just all get along?">
 
 I could go on a mass sleeping attack but I'd rather settle for the small baubles 
 
@@ -1116,13 +1116,13 @@ that I can grab and go about my way.. btw is it illegal to sell personal items t
 
 </div>
 
-<div class="post" data-post-id="11373" data-author="fuego" data-date="2006-03-16T03:59:59+00:00">
+<div class="post" data-post-id="11373" data-author="fuego" data-date="2006-03-16T03:59:59+00:00" data-subject="">
 
 Ooh, who wants to bet she stole a sword of the defenders from the coliseum... I hope she tried to rent with the thing <snicker>
 
 </div>
 
-<div class="post" data-post-id="11374" data-author="Leaf" data-date="2006-03-16T04:16:02+00:00">
+<div class="post" data-post-id="11374" data-author="Leaf" data-date="2006-03-16T04:16:02+00:00" data-subject="">
 
 G, some people, basically four of em - Weasel, Auto, 12345 and Leaf (check the counters if ya don't believe your master) just have tooo much free time, that's why we are supposed to read their crazy stuff. :))[/quote:33ut6jo8]
 
@@ -1134,7 +1134,7 @@ PS:  Auto's stick figure of Krok ... is she flat chested???
 
 </div>
 
-<div class="post" data-post-id="11378" data-author="12345" data-date="2006-03-16T05:13:09+00:00">
+<div class="post" data-post-id="11378" data-author="12345" data-date="2006-03-16T05:13:09+00:00" data-subject="">
 
 PS:  Auto's stick figure of Krok ... is she flat chested???[/quote:x73dvdbf]
 
@@ -1144,7 +1144,7 @@ Young Sir William... Never ask a woman her age or cup size.  A little research i
 
 </div>
 
-<div class="post" data-post-id="11379" data-author="jezer" data-date="2006-03-16T05:23:37+00:00">
+<div class="post" data-post-id="11379" data-author="jezer" data-date="2006-03-16T05:23:37+00:00" data-subject="">
 
 Who's the guy on the left, think I seen him in the sloth gallery somewhere...
 
@@ -1152,13 +1152,13 @@ And who is the dentist in the middle?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11381" data-author="Zam" data-date="2006-03-16T06:12:24+00:00">
+<div class="post" data-post-id="11381" data-author="Zam" data-date="2006-03-16T06:12:24+00:00" data-subject="">
 
 heh
 
 </div>
 
-<div class="post" data-post-id="11382" data-author="Rajil" data-date="2006-03-16T06:15:10+00:00">
+<div class="post" data-post-id="11382" data-author="Rajil" data-date="2006-03-16T06:15:10+00:00" data-subject="">
 
 And you know who they're all laughing at. . .
 
@@ -1168,19 +1168,19 @@ Yes Will, they're all laughing at you.
 
 </div>
 
-<div class="post" data-post-id="11386" data-author="Krok" data-date="2006-03-16T12:21:17+00:00">
+<div class="post" data-post-id="11386" data-author="Krok" data-date="2006-03-16T12:21:17+00:00" data-subject="">
 
 Looool, Zammy, how much did we drink? :)))
 
 </div>
 
-<div class="post" data-post-id="11388" data-author="Zam" data-date="2006-03-16T12:41:24+00:00">
+<div class="post" data-post-id="11388" data-author="Zam" data-date="2006-03-16T12:41:24+00:00" data-subject="">
 
 I dont remember , Krokie ))
 
 </div>
 
-<div class="post" data-post-id="11389" data-author="Autolycos" data-date="2006-03-16T14:32:02+00:00">
+<div class="post" data-post-id="11389" data-author="Autolycos" data-date="2006-03-16T14:32:02+00:00" data-subject="">
 
 I'm not surprised Zam,  making fun of Will is always a good reason to bring the old gang together to drink and have a good time.. 
 
@@ -1190,7 +1190,7 @@ We should all take a moment to think and reflect at all the great jokes, zingers
 
 </div>
 
-<div class="post" data-post-id="11393" data-author="osric" data-date="2006-03-16T17:45:26+00:00">
+<div class="post" data-post-id="11393" data-author="osric" data-date="2006-03-16T17:45:26+00:00" data-subject="">
 
 I propose a sloth drinking contest! I think it should be arranged along either Clan or State lines and should be a full on drink till you drop affair! The winner should then be crowned all time sloth brew meister and given drachma as well as the respect and adoration of all players!  
 
@@ -1198,13 +1198,13 @@ Of course Will will lose and we will all have a good laugh about that!  :P
 
 </div>
 
-<div class="post" data-post-id="11397" data-author="brady" data-date="2006-03-16T20:17:47+00:00">
+<div class="post" data-post-id="11397" data-author="brady" data-date="2006-03-16T20:17:47+00:00" data-subject="">
 
 I respectfully bow out and throw my support behind Brad.  He is the only person I know that can be muddin, and have the cops stop by to answer a noise complaint.  *glug glug glug*
 
 </div>
 
-<div class="post" data-post-id="11398" data-author="Autolycos" data-date="2006-03-16T20:32:03+00:00">
+<div class="post" data-post-id="11398" data-author="Autolycos" data-date="2006-03-16T20:32:03+00:00" data-subject="">
 
 are you crazy?  what about Steve?  
 
@@ -1212,13 +1212,13 @@ i dont think Brad ever had the cops stop by to pick him up while he was mudding 
 
 </div>
 
-<div class="post" data-post-id="11399" data-author="brady" data-date="2006-03-16T20:44:14+00:00">
+<div class="post" data-post-id="11399" data-author="brady" data-date="2006-03-16T20:44:14+00:00" data-subject="">
 
 ahhh...Steve.  Twue twue.
 
 </div>
 
-<div class="post" data-post-id="11401" data-author="Leaf" data-date="2006-03-16T23:19:39+00:00">
+<div class="post" data-post-id="11401" data-author="Leaf" data-date="2006-03-16T23:19:39+00:00" data-subject="">
 
 Hey all I can say is I can't drink.  I'm pretty buzzin after 3 drinks, maybe
 
@@ -1228,13 +1228,13 @@ hum... thats about it.  Pasted out that nite :)
 
 </div>
 
-<div class="post" data-post-id="11402" data-author="Harlot" data-date="2006-03-17T11:05:03+00:00">
+<div class="post" data-post-id="11402" data-author="Harlot" data-date="2006-03-17T11:05:03+00:00" data-subject="Sucky pthief wts personal sword">
 
 Sword of Brillant Valor up....will turn loose for 1 mil coins ransom...no more no less :twisted:
 
 </div>
 
-<div class="post" data-post-id="11415" data-author="brand" data-date="2006-03-17T18:04:15+00:00">
+<div class="post" data-post-id="11415" data-author="brand" data-date="2006-03-17T18:04:15+00:00" data-subject="Re: Sucky pthief wts personal sword">
 
 Sword of Brillant Valor up....will turn loose for 1 mil coins ransom...no more no less :twisted:[/quote:u46w53yv]
 
@@ -1246,25 +1246,25 @@ brand :!:
 
 </div>
 
-<div class="post" data-post-id="11416" data-author="Weasel" data-date="2006-03-17T18:18:07+00:00">
+<div class="post" data-post-id="11416" data-author="Weasel" data-date="2006-03-17T18:18:07+00:00" data-subject="">
 
 ..and in this case, it's not like you can redo the quest to get a replacement - it's a one-shot prime eq deal only.. this could indeed cause a player to reconsider ever returning to sloth - many players would not want to start a new char from scratch just to regain that piece of eq.. and if someone thinks that this sort of play makes sloth interesting, well, you're probably not all that interested in sloth having much of a future. It's not like the playerbase has been growing lately and we can afford to lose people...
 
 </div>
 
-<div class="post" data-post-id="11418" data-author="kjartan" data-date="2006-03-17T18:22:41+00:00">
+<div class="post" data-post-id="11418" data-author="kjartan" data-date="2006-03-17T18:22:41+00:00" data-subject="">
 
 But where's the meaning in being good, if it's not even possible to be evil?
 
 </div>
 
-<div class="post" data-post-id="11420" data-author="Guinex" data-date="2006-03-17T18:27:12+00:00">
+<div class="post" data-post-id="11420" data-author="Guinex" data-date="2006-03-17T18:27:12+00:00" data-subject="">
 
 Anyone have any idea where our pbase is gone?  Quit griping about this pthief krep, were running out of players here.  Maybe its time to focus on something else.
 
 </div>
 
-<div class="post" data-post-id="11421" data-author="Weasel" data-date="2006-03-17T18:28:50+00:00">
+<div class="post" data-post-id="11421" data-author="Weasel" data-date="2006-03-17T18:28:50+00:00" data-subject="">
 
 But where's the meaning in being good, if it's not even possible to be evil?[/quote:jhgtcl7y]
 
@@ -1274,7 +1274,7 @@ Actually your response doesn't make much sense. This is not about good and evil,
 
 </div>
 
-<div class="post" data-post-id="11422" data-author="Weasel" data-date="2006-03-17T18:31:41+00:00">
+<div class="post" data-post-id="11422" data-author="Weasel" data-date="2006-03-17T18:31:41+00:00" data-subject="">
 
 Anyone have any idea where our pbase is gone?  Quit griping about this pthief krep, were running out of players here.  Maybe its time to focus on something else.[/quote:sas3bu19]
 
@@ -1282,7 +1282,7 @@ Any idea WHY our playerbase is dwindling? It is quite possible that pthievery is
 
 </div>
 
-<div class="post" data-post-id="11425" data-author="Guinex" data-date="2006-03-17T18:36:59+00:00">
+<div class="post" data-post-id="11425" data-author="Guinex" data-date="2006-03-17T18:36:59+00:00" data-subject="">
 
 I realise that pthieving is part of the problem, but its not the only one.  Also you should realise that clearly the imm staff does not care if this is a problem with loosing a few people here and there for this.  People leave becoming discouraged with other changes as well.  People leave because they get tired of cycling the same stuff over and over.
 
@@ -1290,7 +1290,7 @@ What my point is.....do something proactive perhaps and [b:3dfblrli]VOTE[/b:3dfb
 
 </div>
 
-<div class="post" data-post-id="11426" data-author="Leaf" data-date="2006-03-17T18:37:26+00:00">
+<div class="post" data-post-id="11426" data-author="Leaf" data-date="2006-03-17T18:37:26+00:00" data-subject="">
 
 Off the top of my head there has been about 3-5 ppl that quit because of
 
@@ -1302,7 +1302,7 @@ Then again I haven't been on for awhile :)
 
 </div>
 
-<div class="post" data-post-id="11436" data-author="Blastem" data-date="2006-03-17T19:25:52+00:00">
+<div class="post" data-post-id="11436" data-author="Blastem" data-date="2006-03-17T19:25:52+00:00" data-subject="">
 
 Well I know of a couple people who have quit because of nasty things ... one was blind for over 40min... logged .. he tried coming back on and his char is still blind... another was something that dropped his stats (unknown disease) to the point that he could not play... waited over 45min and it never went away got discusted and left... Others just plain got tired of cycling the same mobs over and over and fighting people for them to pop books.
 
@@ -1318,7 +1318,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="11438" data-author="Autolycos" data-date="2006-03-17T19:37:10+00:00">
+<div class="post" data-post-id="11438" data-author="Autolycos" data-date="2006-03-17T19:37:10+00:00" data-subject="">
 
 Off the top of my head there has been about 3-5 ppl that quit because of pthiefs.  They were from lvl 20 - 2x40
 
@@ -1328,13 +1328,13 @@ actually Will.. its only partially because of the pthiefs.. the rest is people r
 
 </div>
 
-<div class="post" data-post-id="11440" data-author="Leaf" data-date="2006-03-17T19:51:26+00:00">
+<div class="post" data-post-id="11440" data-author="Leaf" data-date="2006-03-17T19:51:26+00:00" data-subject="">
 
 So when r u leaving?
 
 </div>
 
-<div class="post" data-post-id="11442" data-author="Autolycos" data-date="2006-03-17T20:00:23+00:00">
+<div class="post" data-post-id="11442" data-author="Autolycos" data-date="2006-03-17T20:00:23+00:00" data-subject="">
 
 your delusional,   Bit is my lover  :twisted: 
 
@@ -1342,7 +1342,7 @@ besides.. if i left.. who would torment you?
 
 </div>
 
-<div class="post" data-post-id="11445" data-author="12345" data-date="2006-03-17T20:37:47+00:00">
+<div class="post" data-post-id="11445" data-author="12345" data-date="2006-03-17T20:37:47+00:00" data-subject="">
 
 *mutters something about psychobabble..*
 
@@ -1350,7 +1350,7 @@ I was trying to stay out of this thread....
 
 </div>
 
-<div class="post" data-post-id="11447" data-author="Autolycos" data-date="2006-03-17T20:44:33+00:00">
+<div class="post" data-post-id="11447" data-author="Autolycos" data-date="2006-03-17T20:44:33+00:00" data-subject="">
 
 *mutters something about psychobabble..*
 
@@ -1362,13 +1362,13 @@ give up!
 
 </div>
 
-<div class="post" data-post-id="11450" data-author="tincts" data-date="2006-03-17T21:05:45+00:00">
+<div class="post" data-post-id="11450" data-author="tincts" data-date="2006-03-17T21:05:45+00:00" data-subject="">
 
 I'd like to point out that this is the third time I've ever posted on the crier.
 
 </div>
 
-<div class="post" data-post-id="11451" data-author="Krok" data-date="2006-03-17T21:09:46+00:00">
+<div class="post" data-post-id="11451" data-author="Krok" data-date="2006-03-17T21:09:46+00:00" data-subject="">
 
 I think the playerbase is dropping, cause the old players just can't find a new thing to do. New skills and spells add a bit of fun, but when you finally get the damn book after 10+hours of perm cycling on all of the continents.. you are a bit discouraged, actually. We can solo stuff which was a dream for us in the childhood. We can do almost everything pretty well, but we have noooo new stuff to do. No new areas, no new forges etc. 
 
@@ -1376,7 +1376,7 @@ btw, as for Tinner, who forged bone-hilted, silly sword is valor wasn't the reas
 
 </div>
 
-<div class="post" data-post-id="11466" data-author="Harlot" data-date="2006-03-17T23:07:19+00:00">
+<div class="post" data-post-id="11466" data-author="Harlot" data-date="2006-03-17T23:07:19+00:00" data-subject="Damn weasels">
 
 My intentions, my four-legged furry friend is to allow Tinner who owned said weapon to re-acquire it should he ever return to character to play. By NOT
 
@@ -1386,31 +1386,31 @@ ps-bollocks to you for trying to damage my image. :evil:
 
 </div>
 
-<div class="post" data-post-id="11472" data-author="Harlot" data-date="2006-03-17T23:41:08+00:00">
+<div class="post" data-post-id="11472" data-author="Harlot" data-date="2006-03-17T23:41:08+00:00" data-subject="psps">
 
 touche
 
 </div>
 
-<div class="post" data-post-id="11473" data-author="Krok" data-date="2006-03-17T23:56:51+00:00">
+<div class="post" data-post-id="11473" data-author="Krok" data-date="2006-03-17T23:56:51+00:00" data-subject="">
 
 Harlot, almost all pthieves I met on Sloth are smart. You are such a cute exception.
 
 </div>
 
-<div class="post" data-post-id="11474" data-author="Harlot" data-date="2006-03-18T00:47:37+00:00">
+<div class="post" data-post-id="11474" data-author="Harlot" data-date="2006-03-18T00:47:37+00:00" data-subject="To Krok and others...">
 
 Flattery will get you nowhere...the price remains at 1 mil coins  :wink:
 
 </div>
 
-<div class="post" data-post-id="11477" data-author="Weasel" data-date="2006-03-18T03:20:12+00:00">
+<div class="post" data-post-id="11477" data-author="Weasel" data-date="2006-03-18T03:20:12+00:00" data-subject="">
 
 hehe. Actually it IS good that you are giving them the opportunity to get it back ..not that it's of any use to you being personal eq. Then again, it would be worth substantially more on auction were it not personal. Whatever, I still think something that cannot ever be replaced should also be nosteal, but that's just me.
 
 </div>
 
-<div class="post" data-post-id="11488" data-author="Clink" data-date="2006-03-18T13:26:37+00:00">
+<div class="post" data-post-id="11488" data-author="Clink" data-date="2006-03-18T13:26:37+00:00" data-subject="">
 
 Any idea WHY our playerbase is dwindling? It is quite possible that pthievery is a significant cause, so that is probably why so many people are focussing on it. Duh...[/quote:1xnrpg8k]
 
@@ -1420,13 +1420,13 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="11489" data-author="Harlot" data-date="2006-03-18T13:33:56+00:00">
+<div class="post" data-post-id="11489" data-author="Harlot" data-date="2006-03-18T13:33:56+00:00" data-subject="You tell em Clink">
 
 Stick that in your pipe and smoke it... pthief mode now in the ON position!!! :P
 
 </div>
 
-<div class="post" data-post-id="11495" data-author="Weasel" data-date="2006-03-18T17:16:11+00:00">
+<div class="post" data-post-id="11495" data-author="Weasel" data-date="2006-03-18T17:16:11+00:00" data-subject="">
 
 maybe.. or we might have a bigger playerbase now. Whatever, it's theoretical and I think I said way back somewhere that what will be will be and there's jack we can do about it.
 
@@ -1436,7 +1436,7 @@ maybe.. or we might have a bigger playerbase now. Whatever, it's theoretical and
 
 </div>
 
-<div class="post" data-post-id="11498" data-author="Mustang" data-date="2006-03-18T18:07:06+00:00">
+<div class="post" data-post-id="11498" data-author="Mustang" data-date="2006-03-18T18:07:06+00:00" data-subject="">
 
 pthieving was even MORE rampant back in the days we had queues to log into sloth, and it wasn't even just 1 or 2 items stolen.  sometimes a robe full of elite eq were stolen, etc.
 
@@ -1448,7 +1448,7 @@ my 2 cents
 
 </div>
 
-<div class="post" data-post-id="11500" data-author="Weasel" data-date="2006-03-18T19:11:20+00:00">
+<div class="post" data-post-id="11500" data-author="Weasel" data-date="2006-03-18T19:11:20+00:00" data-subject="">
 
 nod, that was then, this is now :)  but yeah ok if pthieving has to stay, perhaps make certain items nosteal if they are irreplaceable.. like prime eq autoquest eq.. And yes, they are personalized which means nobody else can use that item, but unfortunately that doesn't stop pthieves from taking them. 
 
@@ -1460,7 +1460,7 @@ I getting kind of sick of talking about it to be honest.. it's all just rhetoric
 
 </div>
 
-<div class="post" data-post-id="11502" data-author="Shazuko" data-date="2006-03-18T19:46:35+00:00">
+<div class="post" data-post-id="11502" data-author="Shazuko" data-date="2006-03-18T19:46:35+00:00" data-subject="">
 
 I always considered pthieving as an element to sharpen my playing skill, and become more aware..Use it as motivation to become more SAVVY, and grow a spine already...jeez, Get smart, dont whine like little girls with skinned knees! I dont like gettin eq stolen either, but I decided that for every action, there's GONNA be a reaction! But if you think that thieves dont ever steal, then you probably need to get jacked a few times...now quit bitching and go to bed...
 
@@ -1472,7 +1472,7 @@ Shazuko Roku Ryuu
 
 </div>
 
-<div class="post" data-post-id="11503" data-author="Harlot" data-date="2006-03-18T19:47:19+00:00">
+<div class="post" data-post-id="11503" data-author="Harlot" data-date="2006-03-18T19:47:19+00:00" data-subject="Weasel wants to make me happy">
 
 :lol: 
 
@@ -1480,13 +1480,13 @@ Have a not- too- heavy non-personal bag/pack/robe of goodies and sleep in a non-
 
 </div>
 
-<div class="post" data-post-id="11507" data-author="Weasel" data-date="2006-03-18T22:53:00+00:00">
+<div class="post" data-post-id="11507" data-author="Weasel" data-date="2006-03-18T22:53:00+00:00" data-subject="">
 
 I think Shazuko just laid down a challenge for you Harlot..  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11508" data-author="Avatar" data-date="2006-03-19T04:30:22+00:00">
+<div class="post" data-post-id="11508" data-author="Avatar" data-date="2006-03-19T04:30:22+00:00" data-subject="pthieving">
 
 Well, it's been a while since I logged on and I'll say upfront that it's not pthieves that have prevented me from playing.
 
@@ -1498,13 +1498,13 @@ For the specific situation that created this thread:  The person selling the rin
 
 </div>
 
-<div class="post" data-post-id="11509" data-author="Weasel" data-date="2006-03-19T05:08:44+00:00">
+<div class="post" data-post-id="11509" data-author="Weasel" data-date="2006-03-19T05:08:44+00:00" data-subject="">
 
 well said.
 
 </div>
 
-<div class="post" data-post-id="11510" data-author="resouh" data-date="2006-03-19T06:45:39+00:00">
+<div class="post" data-post-id="11510" data-author="resouh" data-date="2006-03-19T06:45:39+00:00" data-subject="">
 
 This is a response to avatars post........
 
@@ -1518,7 +1518,7 @@ Resouh
 
 </div>
 
-<div class="post" data-post-id="11511" data-author="Lai" data-date="2006-03-19T07:09:46+00:00">
+<div class="post" data-post-id="11511" data-author="Lai" data-date="2006-03-19T07:09:46+00:00" data-subject="">
 
 Also in response to Avatar's post:
 
@@ -1528,7 +1528,7 @@ The ring is off of the chopping block.  This entire topic is a matter of ethics 
 
 </div>
 
-<div class="post" data-post-id="11512" data-author="Harlot" data-date="2006-03-19T10:57:03+00:00">
+<div class="post" data-post-id="11512" data-author="Harlot" data-date="2006-03-19T10:57:03+00:00" data-subject="avatars?">
 
 Points of interest by the artist formerly known as Avatar
 
@@ -1544,13 +1544,13 @@ Let me just state that I never stole from a person I didn't like but in your cas
 
 </div>
 
-<div class="post" data-post-id="11513" data-author="Harlot" data-date="2006-03-19T13:07:40+00:00">
+<div class="post" data-post-id="11513" data-author="Harlot" data-date="2006-03-19T13:07:40+00:00" data-subject="Update">
 
 Now that I find that druids can kill in a peaceroom while shifted I think it's only fair that they should also be allowed to steal in a peaceroom... gonna make me a druid pthief and get right on that.Thanks  :P
 
 </div>
 
-<div class="post" data-post-id="11514" data-author="jezer" data-date="2006-03-19T13:14:18+00:00">
+<div class="post" data-post-id="11514" data-author="jezer" data-date="2006-03-19T13:14:18+00:00" data-subject="">
 
 I honestly pity you harlot...
 
@@ -1558,13 +1558,13 @@ Is the only power you feel in life come from making others hate you?
 
 </div>
 
-<div class="post" data-post-id="11515" data-author="Krok" data-date="2006-03-19T13:43:17+00:00">
+<div class="post" data-post-id="11515" data-author="Krok" data-date="2006-03-19T13:43:17+00:00" data-subject="">
 
 That's only about Gondor's reputation and some players not helping him in the future. I'm evil enough to remember that my friend Pendalf didn't get the ring.
 
 </div>
 
-<div class="post" data-post-id="11516" data-author="Harlot" data-date="2006-03-19T14:23:21+00:00">
+<div class="post" data-post-id="11516" data-author="Harlot" data-date="2006-03-19T14:23:21+00:00" data-subject="You tell em Krok">
 
 I would like to petition that a higher level druid shift be allowed to steal.. shifting into level 4 ferret doesn't allow much of a chance for ptheivery.. may I suggest...
 
@@ -1572,13 +1572,13 @@ level 40 mongoose    shadowwalk,steal,hide ??? :twisted:
 
 </div>
 
-<div class="post" data-post-id="11517" data-author="Weasel" data-date="2006-03-19T14:39:02+00:00">
+<div class="post" data-post-id="11517" data-author="Weasel" data-date="2006-03-19T14:39:02+00:00" data-subject="">
 
 [img:1rksjwfr]http://demon.twinflame.org/images/temp/stfu2.jpg[/img:1rksjwfr]
 
 </div>
 
-<div class="post" data-post-id="11521" data-author="Rynquald" data-date="2006-03-19T22:17:08+00:00">
+<div class="post" data-post-id="11521" data-author="Rynquald" data-date="2006-03-19T22:17:08+00:00" data-subject="">
 
 Sure...you can get right onto levelling a druid to 32 avatar (same level a druid can pkill in a safe room, only fair it's the same level you can steal in one)  :twisted: 
 
@@ -1586,7 +1586,7 @@ Sure...you can get right onto levelling a druid to 32 avatar (same level a druid
 
 </div>
 
-<div class="post" data-post-id="11525" data-author="gondor" data-date="2006-03-20T00:25:34+00:00">
+<div class="post" data-post-id="11525" data-author="gondor" data-date="2006-03-20T00:25:34+00:00" data-subject="">
 
 Perhaps my reputation has been slightly soiled by all of this but I did what I felt was right after the way things started. Had they been acted upon differently the outcome would have surely been different. In the future try resolving the issue directly with the seller instead of taking it directly to the public. 
 
@@ -1596,13 +1596,13 @@ Everyone has their own opinion. At least we are in agreement that I we disagree.
 
 </div>
 
-<div class="post" data-post-id="11526" data-author="Harlot" data-date="2006-03-20T01:35:50+00:00">
+<div class="post" data-post-id="11526" data-author="Harlot" data-date="2006-03-20T01:35:50+00:00" data-subject="Soiling reputations">
 
 Count on me Gondor....  I myself have never judged you and if your ever in a pickle I'll be glad to help. Having said that, I suggest that the ones that take offense to what happened to wake up and smell the roses. Had it been someone not well known or liked, it would have been perfectly ok to auction said item off. Get your priorities straight,the ones who are eager to accuse and condemn perhaps have the biggest skeletons in their closet. :idea:
 
 </div>
 
-<div class="post" data-post-id="11530" data-author="foxy" data-date="2006-03-20T03:41:10+00:00">
+<div class="post" data-post-id="11530" data-author="foxy" data-date="2006-03-20T03:41:10+00:00" data-subject="">
 
 Come'n guys, pls dun have all this ill feelings over what started out as a big misunderstanding.
 
@@ -1622,7 +1622,7 @@ p/s: my first post!!! yes!!! HI GUYS!! SHARA! G! NYX! CHOBS! RAJ! *waves vigorou
 
 </div>
 
-<div class="post" data-post-id="11531" data-author="jezer" data-date="2006-03-20T03:42:59+00:00">
+<div class="post" data-post-id="11531" data-author="jezer" data-date="2006-03-20T03:42:59+00:00" data-subject="">
 
 Who are you to offer advice...   :evil:
 
@@ -1630,7 +1630,7 @@ Bring back the cookie monster!    :twisted:
 
 </div>
 
-<div class="post" data-post-id="11532" data-author="Avatar" data-date="2006-03-20T03:44:59+00:00">
+<div class="post" data-post-id="11532" data-author="Avatar" data-date="2006-03-20T03:44:59+00:00" data-subject="helping others">
 
 I'm usually very willing to help with CR's raises whenever I can help, and I'll still help anyone who's dead.  My disagreement with specific people doesn't mean I'll stop helping, even those I disagree with.  I know it doesn't help much, since I'm not online often these days.
 
@@ -1640,7 +1640,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="11533" data-author="foxy" data-date="2006-03-20T03:45:48+00:00">
+<div class="post" data-post-id="11533" data-author="foxy" data-date="2006-03-20T03:45:48+00:00" data-subject="">
 
 grrrrrr....
 
@@ -1648,25 +1648,25 @@ grrrrrr....
 
 </div>
 
-<div class="post" data-post-id="11536" data-author="jezer" data-date="2006-03-20T03:54:32+00:00">
+<div class="post" data-post-id="11536" data-author="jezer" data-date="2006-03-20T03:54:32+00:00" data-subject="">
 
 Haha, sorry foxy, my post was at harlot until you cut in.. mean ol' hag  :lol:
 
 </div>
 
-<div class="post" data-post-id="11537" data-author="foxy" data-date="2006-03-20T04:01:11+00:00">
+<div class="post" data-post-id="11537" data-author="foxy" data-date="2006-03-20T04:01:11+00:00" data-subject="">
 
 omg! omg! :shock:   sorrryyy!!!  :oops:
 
 </div>
 
-<div class="post" data-post-id="11541" data-author="Krok" data-date="2006-03-20T06:18:03+00:00">
+<div class="post" data-post-id="11541" data-author="Krok" data-date="2006-03-20T06:18:03+00:00" data-subject="">
 
 Yeah, I usually help even morons, but I'm too bored. Need to flame etc. :)
 
 </div>
 
-<div class="post" data-post-id="11544" data-author="jezer" data-date="2006-03-20T06:47:03+00:00">
+<div class="post" data-post-id="11544" data-author="jezer" data-date="2006-03-20T06:47:03+00:00" data-subject="">
 
 Get out of Harm's Way Certificates	500000	500000	brand	5 Days 16 Hours 47 Minutes 3 Seconds	Harlot
 
@@ -1674,19 +1674,19 @@ Get out of Harm's Way Certificates	500000	500000	brand	5 Days 16 Hours 47 Minute
 
 </div>
 
-<div class="post" data-post-id="11550" data-author="Weasel" data-date="2006-03-20T10:56:12+00:00">
+<div class="post" data-post-id="11550" data-author="Weasel" data-date="2006-03-20T10:56:12+00:00" data-subject="">
 
 How about a "I may consider not pkilling your pthieving arse more then five times a day" certificate.. cost 5,000,000.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11551" data-author="Vixn" data-date="2006-03-20T11:00:00+00:00">
+<div class="post" data-post-id="11551" data-author="Vixn" data-date="2006-03-20T11:00:00+00:00" data-subject="">
 
 Evil kluriks, venal pthieves acting like a whore, useless spells, retired avatars stealing gold from newbies and Decider who donâ€™t remember how to make spell_dam shard. No fun, no funâ€¦
 
 </div>
 
-<div class="post" data-post-id="11552" data-author="Weasel" data-date="2006-03-20T11:03:24+00:00">
+<div class="post" data-post-id="11552" data-author="Weasel" data-date="2006-03-20T11:03:24+00:00" data-subject="">
 
 Get out of Harm's Way Certificates	500000	500000	brand	5 Days 16 Hours 47 Minutes 3 Seconds	Harlot[/quote:dfecpjf1]
 
@@ -1694,7 +1694,7 @@ btw, this is a pthief offering this agreement... does anyone seriously believe a
 
 </div>
 
-<div class="post" data-post-id="11553" data-author="foxy" data-date="2006-03-20T11:11:01+00:00">
+<div class="post" data-post-id="11553" data-author="foxy" data-date="2006-03-20T11:11:01+00:00" data-subject="">
 
 there's a few bridges here in NYC I'd like to sell you while you're at it...[/quote:b8kc7n28]
 
@@ -1704,7 +1704,7 @@ hrmmm... how much? stats? im bored waiting for the stupid Spirit of Bal Harbor t
 
 </div>
 
-<div class="post" data-post-id="11562" data-author="12345" data-date="2006-03-20T17:39:26+00:00">
+<div class="post" data-post-id="11562" data-author="12345" data-date="2006-03-20T17:39:26+00:00" data-subject="">
 
 Get out of Harm's Way Certificates	500000	500000	brand	5 Days 16 Hours 47 Minutes 3 Seconds	Harlot[/quote:1ymmz86o]
 
@@ -1720,7 +1720,7 @@ Choices, choices...
 
 </div>
 
-<div class="post" data-post-id="11563" data-author="Autolycos" data-date="2006-03-20T17:48:53+00:00">
+<div class="post" data-post-id="11563" data-author="Autolycos" data-date="2006-03-20T17:48:53+00:00" data-subject="">
 
 Or, I could just keep my money, web, blind, silence, jail, pkill, etc Harlot at will and laugh at them a lot. 
 
@@ -1730,7 +1730,7 @@ i love it!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11567" data-author="Weasel" data-date="2006-03-20T18:37:16+00:00">
+<div class="post" data-post-id="11567" data-author="Weasel" data-date="2006-03-20T18:37:16+00:00" data-subject="">
 
 hrmmm... how much? stats? im bored waiting for the stupid Spirit of Bal Harbor to dock. a private bridge will do nicely. 
 
@@ -1740,13 +1740,13 @@ hehe nice work :)
 
 </div>
 
-<div class="post" data-post-id="11582" data-author="Harlot" data-date="2006-03-21T00:13:34+00:00">
+<div class="post" data-post-id="11582" data-author="Harlot" data-date="2006-03-21T00:13:34+00:00" data-subject="No harm no foul">
 
 Not accusing any Imm's but allowing non-imm char's to know who alt non-pthief char's for killing should be againt the rules. Probably isn't and I'm not going to lose any sleep over it but maybe I was more annoying than good at ptheiving but at least I kept people busy chasing and killed the monotany from slow game days.. whatever.. screw it I'll go into semi-retirement. It's not a case of I lost and you won.. I would like to think of it as you got what you wanted.. now go back to being bored.
 
 </div>
 
-<div class="post" data-post-id="11584" data-author="jezer" data-date="2006-03-21T00:24:18+00:00">
+<div class="post" data-post-id="11584" data-author="jezer" data-date="2006-03-21T00:24:18+00:00" data-subject="">
 
 When pthief's lose its "retirement," when players lose we are "weak and stupid."
 
@@ -1754,13 +1754,13 @@ To quote a weasel "I don't have an attitude problem, you have a perception probl
 
 </div>
 
-<div class="post" data-post-id="11587" data-author="Harlot" data-date="2006-03-21T00:33:51+00:00">
+<div class="post" data-post-id="11587" data-author="Harlot" data-date="2006-03-21T00:33:51+00:00" data-subject="Jezer needs help deciphering...someone please assist">
 
 Never suggested anyone was weak or stupid. But I never came out unless it was really low amount of players and/or no groups on for awhile. Like I stated previous I never stole from someone I didn't like and if anything enjoyed sparring with my fellow mudder.I'm only suggesting that getting all worked up over a pthief that had a less than 20% success rate isn't worth it.. I had fun and if you didn't *shrug* wasn't mean to ruin your fun...I had enough people tell me they enjoyed my somewhat comical approach to thievery and if you didn't fall into this group.. well then apologies. :twisted:
 
 </div>
 
-<div class="post" data-post-id="11589" data-author="jezer" data-date="2006-03-21T00:43:42+00:00">
+<div class="post" data-post-id="11589" data-author="jezer" data-date="2006-03-21T00:43:42+00:00" data-subject="">
 
 Not sure I even know you Harlot... my comment is about the attitude of pthief's...
 
@@ -1778,13 +1778,13 @@ A bunch of wrongs don't make a right!
 
 </div>
 
-<div class="post" data-post-id="11593" data-author="Zing" data-date="2006-03-21T02:18:53+00:00">
+<div class="post" data-post-id="11593" data-author="Zing" data-date="2006-03-21T02:18:53+00:00" data-subject="pthiefs?">
 
 Well said!
 
 </div>
 
-<div class="post" data-post-id="11601" data-author="Guinex" data-date="2006-03-21T05:13:37+00:00">
+<div class="post" data-post-id="11601" data-author="Guinex" data-date="2006-03-21T05:13:37+00:00" data-subject="">
 
 [quote:2sncmole] Like I stated previous I never stole from someone I didn't like [/quote:2sncmole] 
 
@@ -1792,7 +1792,7 @@ Maybe the problem was, you weren't capable of it?
 
 </div>
 
-<div class="post" data-post-id="11602" data-author="Grue" data-date="2006-03-21T05:45:41+00:00">
+<div class="post" data-post-id="11602" data-author="Grue" data-date="2006-03-21T05:45:41+00:00" data-subject="">
 
 [i:3cz8pmd6]" don't understand why people in life accept evil... ok I'm starting to moralise a bit here... I think it's wrong to say "You shouldn't of had that hex in inv, its your own fault." To say that, you suggest people should tolerate evil... I refuse to tolerate evil! Stand up! This is how people die in genocide... No one bothers to stand up! This IS just a game, but I try to play this game in the way I conduct my own life."[/i:3cz8pmd6]
 
@@ -1802,7 +1802,7 @@ It is a game. Games have rules, and when you agree to play the game, you agree t
 
 </div>
 
-<div class="post" data-post-id="11604" data-author="jezer" data-date="2006-03-21T05:51:32+00:00">
+<div class="post" data-post-id="11604" data-author="jezer" data-date="2006-03-21T05:51:32+00:00" data-subject="">
 
 I knew it was just a matter of time before some idiot mistook the SPIRIT in which I said what I said... sigh, I just can't be bothered explaining myself. From your past posts sometimes I think you just try to be a nuisance!
 
@@ -1812,7 +1812,7 @@ I mean what do you think... I go around killing people in real life like I do mo
 
 </div>
 
-<div class="post" data-post-id="11609" data-author="Harlot" data-date="2006-03-21T11:09:25+00:00">
+<div class="post" data-post-id="11609" data-author="Harlot" data-date="2006-03-21T11:09:25+00:00" data-subject="Auto&#x27;s contribution to this game....">
 
 stfu :twisted: 
 
@@ -1820,7 +1820,7 @@ stfu :twisted:
 
 </div>
 
-<div class="post" data-post-id="11611" data-author="Mustang" data-date="2006-03-21T12:22:35+00:00">
+<div class="post" data-post-id="11611" data-author="Mustang" data-date="2006-03-21T12:22:35+00:00" data-subject="">
 
 Oh what a crock of shit Jeezer :) You play this game the way you conduct yourself in real life? That mean you go around killing hundreds of people in real life? If you want to seriously try portray Sloth in terms of actual good and evil we are all evil by societies standards!!![/quote:3hr4enda]
 
@@ -1830,7 +1830,7 @@ stfu please, thank you
 
 </div>
 
-<div class="post" data-post-id="11612" data-author="jezer" data-date="2006-03-21T12:24:17+00:00">
+<div class="post" data-post-id="11612" data-author="jezer" data-date="2006-03-21T12:24:17+00:00" data-subject="">
 
 Heh, I might actually take Harlots advice... :) 
 
@@ -1844,7 +1844,7 @@ I think I might take a week break from the board.
 
 </div>
 
-<div class="post" data-post-id="11614" data-author="Autolycos" data-date="2006-03-21T14:36:45+00:00">
+<div class="post" data-post-id="11614" data-author="Autolycos" data-date="2006-03-21T14:36:45+00:00" data-subject="">
 
 When they steal they are being "Robin Hoods" or "Adding to the Mud" or they say "People are enjoying it." They try to come across as "[b:2defavgi]lovable rogues[/color:2defavgi][/b:2defavgi]."[/quote:2defavgi]
 
@@ -1856,7 +1856,7 @@ i'm touched.. truly.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11617" data-author="12345" data-date="2006-03-21T14:45:00+00:00">
+<div class="post" data-post-id="11617" data-author="12345" data-date="2006-03-21T14:45:00+00:00" data-subject="">
 
 Ever wonder if thieves go spellbook hunting?
 
@@ -1864,7 +1864,7 @@ Ever wonder if thieves go spellbook hunting?
 
 </div>
 
-<div class="post" data-post-id="11618" data-author="Autolycos" data-date="2006-03-21T14:50:54+00:00">
+<div class="post" data-post-id="11618" data-author="Autolycos" data-date="2006-03-21T14:50:54+00:00" data-subject="">
 
 [b:6m4mlfr8]its Avatar thief lv5  restricted... this greatly reduces common pthieves from using... [/b:6m4mlfr8]
 
@@ -1872,7 +1872,7 @@ i cant wait  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11619" data-author="Harlot" data-date="2006-03-21T15:32:58+00:00">
+<div class="post" data-post-id="11619" data-author="Harlot" data-date="2006-03-21T15:32:58+00:00" data-subject="pthief?">
 
 quit!
 
@@ -1882,7 +1882,7 @@ Ok you talked me into it!!!! :P
 
 </div>
 
-<div class="post" data-post-id="11620" data-author="Grue" data-date="2006-03-21T15:41:09+00:00">
+<div class="post" data-post-id="11620" data-author="Grue" data-date="2006-03-21T15:41:09+00:00" data-subject="">
 
 Thanks Jezer, it was intended humorously hence the smileys, sorry if it offended. 
 
@@ -1896,19 +1896,19 @@ My point was valid and constitutes debate, not a flame. Your kind of reaction is
 
 </div>
 
-<div class="post" data-post-id="11621" data-author="Harlot" data-date="2006-03-21T15:45:15+00:00">
+<div class="post" data-post-id="11621" data-author="Harlot" data-date="2006-03-21T15:45:15+00:00" data-subject="Sloth community">
 
 I'm the resident harlot if that helps :twisted:
 
 </div>
 
-<div class="post" data-post-id="11622" data-author="Harlot" data-date="2006-03-21T15:49:29+00:00">
+<div class="post" data-post-id="11622" data-author="Harlot" data-date="2006-03-21T15:49:29+00:00" data-subject="Why hate on me?">
 
 I renounced my ptheiving and still get attacked on sight...where is this community you speak of? Can we not all get along? I'm perfectlly content  to keeping to myself. No use to make a new char because Forest will just look up IP addy and match names and attack new non-thief char.. ho hum 8)
 
 </div>
 
-<div class="post" data-post-id="11623" data-author="Autolycos" data-date="2006-03-21T15:55:53+00:00">
+<div class="post" data-post-id="11623" data-author="Autolycos" data-date="2006-03-21T15:55:53+00:00" data-subject="">
 
 ya  forest is a big mean bully...
 
@@ -1916,7 +1916,7 @@ thats probably why i like him so much  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11624" data-author="*Splork*" data-date="2006-03-21T15:58:50+00:00">
+<div class="post" data-post-id="11624" data-author="*Splork*" data-date="2006-03-21T15:58:50+00:00" data-subject="">
 
 If that was true Harlot, he would be killing your main characters which all use the very same IP as your well played pthiefs do.
 
@@ -1926,7 +1926,7 @@ Splork :twisted:
 
 </div>
 
-<div class="post" data-post-id="11625" data-author="Autolycos" data-date="2006-03-21T16:03:11+00:00">
+<div class="post" data-post-id="11625" data-author="Autolycos" data-date="2006-03-21T16:03:11+00:00" data-subject="">
 
 *Cackle!   yippon!  10 point to the Splorkenator
 
@@ -1934,13 +1934,13 @@ Splork :twisted:
 
 </div>
 
-<div class="post" data-post-id="11626" data-author="Alberich" data-date="2006-03-21T16:19:48+00:00">
+<div class="post" data-post-id="11626" data-author="Alberich" data-date="2006-03-21T16:19:48+00:00" data-subject="">
 
 [img:y1kiz1e3]http://www.omgpwned.net/pics/owned/donkeybite.jpg[/img:y1kiz1e3]
 
 </div>
 
-<div class="post" data-post-id="11627" data-author="Harlot" data-date="2006-03-21T17:09:08+00:00">
+<div class="post" data-post-id="11627" data-author="Harlot" data-date="2006-03-21T17:09:08+00:00" data-subject="pthiefs?">
 
 Direct quote from Splork
 
@@ -1950,13 +1950,13 @@ Well gosh Splork, i'm not proclaiming to be any good but thanx for the vote of c
 
 </div>
 
-<div class="post" data-post-id="11628" data-author="Autolycos" data-date="2006-03-21T17:17:30+00:00">
+<div class="post" data-post-id="11628" data-author="Autolycos" data-date="2006-03-21T17:17:30+00:00" data-subject="">
 
 Albie that phawkin rocks man!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11629" data-author="*Splork*" data-date="2006-03-21T17:19:50+00:00">
+<div class="post" data-post-id="11629" data-author="*Splork*" data-date="2006-03-21T17:19:50+00:00" data-subject="">
 
 For once I actually didn't mean it like that but..
 
@@ -1968,7 +1968,7 @@ If at first you don't succeed, try-try again lil pthief :P
 
 </div>
 
-<div class="post" data-post-id="11631" data-author="Autolycos" data-date="2006-03-21T17:26:42+00:00">
+<div class="post" data-post-id="11631" data-author="Autolycos" data-date="2006-03-21T17:26:42+00:00" data-subject="">
 
 *chuckle*
 
@@ -1984,13 +1984,13 @@ BEEEEEE THERE!
 
 </div>
 
-<div class="post" data-post-id="11665" data-author="Harlot" data-date="2006-03-21T22:43:59+00:00">
+<div class="post" data-post-id="11665" data-author="Harlot" data-date="2006-03-21T22:43:59+00:00" data-subject="Auto">
 
 stfu :P
 
 </div>
 
-<div class="post" data-post-id="11667" data-author="brand" data-date="2006-03-21T23:51:02+00:00">
+<div class="post" data-post-id="11667" data-author="brand" data-date="2006-03-21T23:51:02+00:00" data-subject="">
 
 so i just had another water container stolen, i guess you could call it rare.
 
@@ -2008,7 +2008,7 @@ anyone...
 
 </div>
 
-<div class="post" data-post-id="11668" data-author="Harlot" data-date="2006-03-22T00:24:21+00:00">
+<div class="post" data-post-id="11668" data-author="Harlot" data-date="2006-03-22T00:24:21+00:00" data-subject="Brand is a bloody pthief">
 
 Direct quote from Brand:
 
@@ -2018,19 +2018,19 @@ I rest my case,let the flames continue :twisted:
 
 </div>
 
-<div class="post" data-post-id="11671" data-author="Blackguard" data-date="2006-03-22T06:29:02+00:00">
+<div class="post" data-post-id="11671" data-author="Blackguard" data-date="2006-03-22T06:29:02+00:00" data-subject="">
 
 I give this thread a thumbs up.
 
 </div>
 
-<div class="post" data-post-id="11674" data-author="Guinex" data-date="2006-03-22T07:17:32+00:00">
+<div class="post" data-post-id="11674" data-author="Guinex" data-date="2006-03-22T07:17:32+00:00" data-subject="">
 
 zzzzz......bring it on *smoke*
 
 </div>
 
-<div class="post" data-post-id="11675" data-author="Blackguard" data-date="2006-03-22T07:34:57+00:00">
+<div class="post" data-post-id="11675" data-author="Blackguard" data-date="2006-03-22T07:34:57+00:00" data-subject="">
 
 Guinex is such a swindler.
 
@@ -2038,13 +2038,13 @@ He's got people thinking his avatar is not a RL photo that he himself uploaded.
 
 </div>
 
-<div class="post" data-post-id="11676" data-author="Guinex" data-date="2006-03-22T07:54:07+00:00">
+<div class="post" data-post-id="11676" data-author="Guinex" data-date="2006-03-22T07:54:07+00:00" data-subject="">
 
 Heh, you must be the only one that thinks i don't have leprosy.  Thanks
 
 </div>
 
-<div class="post" data-post-id="11677" data-author="Blackguard" data-date="2006-03-22T11:33:11+00:00">
+<div class="post" data-post-id="11677" data-author="Blackguard" data-date="2006-03-22T11:33:11+00:00" data-subject="">
 
 On another note, does anyone know who this Forest fellow is?
 
@@ -2118,7 +2118,7 @@ Nia ERRR....Derro
 
 </div>
 
-<div class="post" data-post-id="11678" data-author="12345" data-date="2006-03-22T12:29:30+00:00">
+<div class="post" data-post-id="11678" data-author="12345" data-date="2006-03-22T12:29:30+00:00" data-subject="">
 
 You can access my vault which has recently been broken into by ~DRAGONSWORN PLAYER BURGLARS~ (since then they have changed their tag to the unwritten ~PBURGLARS~ tag)[/quote:203poq98]
 
@@ -2126,7 +2126,7 @@ You just can't trust anyone anymore...
 
 </div>
 
-<div class="post" data-post-id="11681" data-author="Autolycos" data-date="2006-03-22T13:15:47+00:00">
+<div class="post" data-post-id="11681" data-author="Autolycos" data-date="2006-03-22T13:15:47+00:00" data-subject="">
 
 On yet another note, I decided to start my own fanclub. Current members are*:
 
@@ -2166,7 +2166,7 @@ state of decay, they wouldn't allow it on the site for humanitarian reasons.
 
 </div>
 
-<div class="post" data-post-id="11684" data-author="Zing" data-date="2006-03-22T13:53:43+00:00">
+<div class="post" data-post-id="11684" data-author="Zing" data-date="2006-03-22T13:53:43+00:00" data-subject="pthiefs">
 
 I have a system for  dealing with pthiefs.  It doesn't work well, but I don't see a better way.  Unfortunately it punishes me, not the pthief.
 
@@ -2188,13 +2188,13 @@ Zing
 
 </div>
 
-<div class="post" data-post-id="11685" data-author="Avatar" data-date="2006-03-22T14:03:19+00:00">
+<div class="post" data-post-id="11685" data-author="Avatar" data-date="2006-03-22T14:03:19+00:00" data-subject="pthief">
 
 I agree completely with Zing.
 
 </div>
 
-<div class="post" data-post-id="11686" data-author="Blackguard" data-date="2006-03-22T14:18:48+00:00">
+<div class="post" data-post-id="11686" data-author="Blackguard" data-date="2006-03-22T14:18:48+00:00" data-subject="Re: pthiefs">
 
 I have a system for  dealing with pthiefs.  It doesn't work well, but I don't see a better way.  Unfortunately it punishes me, not the pthief.
 
@@ -2222,7 +2222,7 @@ I'd love to have seen you play back in those times when pthieving was as easy as
 
 </div>
 
-<div class="post" data-post-id="11687" data-author="12345" data-date="2006-03-22T14:35:14+00:00">
+<div class="post" data-post-id="11687" data-author="12345" data-date="2006-03-22T14:35:14+00:00" data-subject="Re: pthiefs">
 
 With recent skills/gamechanges like avatar druid shapeshift, toss, nightmares, inability to enter vault while boarded, unless you're on Valkyre you'll be surprised to find your ass served to you on a pretty platter with a side dish of your choice even if you're not boarded.[/quote:luyt46m4]
 
@@ -2232,7 +2232,7 @@ In the end though, I'm sure it won't bother you at all.  It's allowed, so obviou
 
 </div>
 
-<div class="post" data-post-id="11689" data-author="Leaf" data-date="2006-03-22T15:11:21+00:00">
+<div class="post" data-post-id="11689" data-author="Leaf" data-date="2006-03-22T15:11:21+00:00" data-subject="">
 
 I'm pretty sure every ~DS~ has killed your pthief once.  
 
@@ -2246,7 +2246,7 @@ PS:  Come bring your pthief, I'm sure we will pkill you again, and again,
 
 </div>
 
-<div class="post" data-post-id="11690" data-author="Mosaix" data-date="2006-03-22T15:14:15+00:00">
+<div class="post" data-post-id="11690" data-author="Mosaix" data-date="2006-03-22T15:14:15+00:00" data-subject="">
 
 Pthiefs cant take your things unless you have items in your inv.  So keep them out of your inv etc.  Adjust to the threat.  If you die on a mob without sanc do you keep trying to kill it without sanc?  Keep your things out of reach and they dont get stolen.
 
@@ -2262,7 +2262,7 @@ Before I enter my vaults I check who, look around, and even cast an area spell t
 
 </div>
 
-<div class="post" data-post-id="11691" data-author="Blackguard" data-date="2006-03-22T15:22:49+00:00">
+<div class="post" data-post-id="11691" data-author="Blackguard" data-date="2006-03-22T15:22:49+00:00" data-subject="">
 
 PS.  that pic is much tamer then what guinex really looks like, at his current 
 
@@ -2274,7 +2274,7 @@ Guinex is still my favorite concubine. Nobody has the "sharpen weapon" skill in 
 
 </div>
 
-<div class="post" data-post-id="11694" data-author="kjartan" data-date="2006-03-22T15:37:07+00:00">
+<div class="post" data-post-id="11694" data-author="kjartan" data-date="2006-03-22T15:37:07+00:00" data-subject="">
 
 What truly ruins the mud is players who treat all like noobes and think they are a gift to the game.  Getting put down, laughed at, and made an example of for asking what they consider simple questions is much more likely to have a new player not play sloth.  Some noobes are annoying and ask many many endless questions.  But most of the newbies that get shot down dont really need the reaction that they get to their question.
 
@@ -2284,7 +2284,7 @@ This is a very good point - I have repeatedly seen on mud review sites complaint
 
 </div>
 
-<div class="post" data-post-id="11695" data-author="12345" data-date="2006-03-22T15:52:33+00:00">
+<div class="post" data-post-id="11695" data-author="12345" data-date="2006-03-22T15:52:33+00:00" data-subject="">
 
 Mosaix has the best plan, hands down.  I subscribe to it myself.  Pthieves are still annoying.  I'll use an example that Blackguard can easily confirm.
 
@@ -2306,7 +2306,7 @@ So, please, take Mosaix' advice.  I think the game would be better without them,
 
 </div>
 
-<div class="post" data-post-id="11697" data-author="brady" data-date="2006-03-22T16:23:49+00:00">
+<div class="post" data-post-id="11697" data-author="brady" data-date="2006-03-22T16:23:49+00:00" data-subject="">
 
 Guinex is a very sophisticated transexual, so be nice...
 
@@ -2314,7 +2314,7 @@ Guinex is a very sophisticated transexual, so be nice...
 
 </div>
 
-<div class="post" data-post-id="11698" data-author="brand" data-date="2006-03-22T16:45:18+00:00">
+<div class="post" data-post-id="11698" data-author="brand" data-date="2006-03-22T16:45:18+00:00" data-subject="">
 
 Sorry but you are a retard, as is any other whiner who cries like a bitch about pthieves...
 
@@ -2334,7 +2334,7 @@ i'll help with a cr or a question whenever, but i can't help someone get back st
 
 </div>
 
-<div class="post" data-post-id="11699" data-author="Blackguard" data-date="2006-03-22T17:45:57+00:00">
+<div class="post" data-post-id="11699" data-author="Blackguard" data-date="2006-03-22T17:45:57+00:00" data-subject="">
 
 we all can see how talking to derro about getting an item back or even the nightly news could make someone stop playing all together. [/quote:2zp4eil0]
 
@@ -2352,7 +2352,7 @@ And hahahaha @ your post, Bit. So the [b:2zp4eil0]bit[/b:2zp4eil0]ter truth fina
 
 </div>
 
-<div class="post" data-post-id="11700" data-author="12345" data-date="2006-03-22T17:53:37+00:00">
+<div class="post" data-post-id="11700" data-author="12345" data-date="2006-03-22T17:53:37+00:00" data-subject="">
 
 And hahahaha @ your post, Bit. So the [b:2zgv7flh]bitt[/b:2zgv7flh]er truth finally comes out. You still have your bra on a little too tight because I didn't sell you your jing-jit disk back. Once again I'll explain it to you. The market value of the JJD is 5M. I gave you a million coin discount. It's not my fault that you didn't have/want to pay/want to borrow the money, I hope I taught you a good lesson. Needless to say I sold the JJD for 4M. So why was it stupid of me, exactly? I got mine, you got yours.[/quote:2zgv7flh]
 
@@ -2360,7 +2360,7 @@ Bitter? Nah.  I just don't like you, can't say I ever really did.  And if I real
 
 </div>
 
-<div class="post" data-post-id="11701" data-author="Blackguard" data-date="2006-03-22T17:59:25+00:00">
+<div class="post" data-post-id="11701" data-author="Blackguard" data-date="2006-03-22T17:59:25+00:00" data-subject="">
 
 And hahahaha @ your post, Bit. So the [b:3w0qrwte]bitt[/b:3w0qrwte]er truth finally comes out. You still have your bra on a little too tight because I didn't sell you your jing-jit disk back. Once again I'll explain it to you. The market value of the JJD is 5M. I gave you a million coin discount. It's not my fault that you didn't have/want to pay/want to borrow the money, I hope I taught you a good lesson. Needless to say I sold the JJD for 4M. So why was it stupid of me, exactly? I got mine, you got yours.[/quote:3w0qrwte]
 
@@ -2378,19 +2378,19 @@ Tears roll down your face
 
 </div>
 
-<div class="post" data-post-id="11702" data-author="brady" data-date="2006-03-22T18:30:22+00:00">
+<div class="post" data-post-id="11702" data-author="brady" data-date="2006-03-22T18:30:22+00:00" data-subject="">
 
 The best way to encourage an asshole is to acknowlege him.
 
 </div>
 
-<div class="post" data-post-id="11703" data-author="Mosaix" data-date="2006-03-22T18:52:16+00:00">
+<div class="post" data-post-id="11703" data-author="Mosaix" data-date="2006-03-22T18:52:16+00:00" data-subject="">
 
 Brady speaks the truth.  Excellent comment.
 
 </div>
 
-<div class="post" data-post-id="11704" data-author="12345" data-date="2006-03-22T18:53:08+00:00">
+<div class="post" data-post-id="11704" data-author="12345" data-date="2006-03-22T18:53:08+00:00" data-subject="">
 
 The best way to encourage an asshole is to acknowlege him.[/quote:2o884jeq]
 
@@ -2398,7 +2398,7 @@ Bah, he just doesn't know how to read.  It wasn't written for him, so he can thi
 
 </div>
 
-<div class="post" data-post-id="11706" data-author="Blackguard" data-date="2006-03-22T19:00:16+00:00">
+<div class="post" data-post-id="11706" data-author="Blackguard" data-date="2006-03-22T19:00:16+00:00" data-subject="">
 
 The best way to encourage an asshole is to acknowlege him.[/quote:3emkdcgn]
 
@@ -2412,7 +2412,7 @@ Oh yeah.
 
 </div>
 
-<div class="post" data-post-id="11707" data-author="Autolycos" data-date="2006-03-22T19:02:41+00:00">
+<div class="post" data-post-id="11707" data-author="Autolycos" data-date="2006-03-22T19:02:41+00:00" data-subject="">
 
 The best way to encourage an asshole is to acknowlege him.[/quote:6572rllq]
 
@@ -2424,7 +2424,7 @@ He shall speak wisdom, and spread his teachings accross the land.
 
 </div>
 
-<div class="post" data-post-id="11708" data-author="12345" data-date="2006-03-22T19:03:09+00:00">
+<div class="post" data-post-id="11708" data-author="12345" data-date="2006-03-22T19:03:09+00:00" data-subject="">
 
 Sorry Auto, you beat me to the send... I'll fix :)
 
@@ -2436,7 +2436,7 @@ Ok, you've degenerated from twisted to pathetic... want to try for moronic?
 
 </div>
 
-<div class="post" data-post-id="11709" data-author="Autolycos" data-date="2006-03-22T19:07:20+00:00">
+<div class="post" data-post-id="11709" data-author="Autolycos" data-date="2006-03-22T19:07:20+00:00" data-subject="">
 
 Ok, you've degenerated from twisted to pathetic... want to try for moronic?[/quote:4ipn0dah]
 
@@ -2446,7 +2446,7 @@ bravo i say!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11710" data-author="13" data-date="2006-03-22T19:27:30+00:00">
+<div class="post" data-post-id="11710" data-author="13" data-date="2006-03-22T19:27:30+00:00" data-subject="">
 
 Mmmmmmm.
 
@@ -2454,13 +2454,13 @@ Bring on the meltdowns!
 
 </div>
 
-<div class="post" data-post-id="11711" data-author="Autolycos" data-date="2006-03-22T19:39:19+00:00">
+<div class="post" data-post-id="11711" data-author="Autolycos" data-date="2006-03-22T19:39:19+00:00" data-subject="">
 
 seems someone forgot to close the gate again..  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11714" data-author="Harlot" data-date="2006-03-22T20:16:46+00:00">
+<div class="post" data-post-id="11714" data-author="Harlot" data-date="2006-03-22T20:16:46+00:00" data-subject="Too much violence against pthief&#x27;s">
 
 Brady, Autolycos and that 12345678910 fellow, 
 
@@ -2470,13 +2470,13 @@ against pthieves, I ask you this, who would you rather have your equipment? Moi 
 
 </div>
 
-<div class="post" data-post-id="11715" data-author="Alberich" data-date="2006-03-22T20:18:40+00:00">
+<div class="post" data-post-id="11715" data-author="Alberich" data-date="2006-03-22T20:18:40+00:00" data-subject="">
 
 [img:yhmhnwr5]http://www.oohshiny.net/gallery/d/464-1/monkey_001.jpg[/img:yhmhnwr5]
 
 </div>
 
-<div class="post" data-post-id="11717" data-author="12345" data-date="2006-03-22T20:21:51+00:00">
+<div class="post" data-post-id="11717" data-author="12345" data-date="2006-03-22T20:21:51+00:00" data-subject="">
 
 Harlot...
 
@@ -2484,7 +2484,7 @@ For someone who has an alt that still plays the game, you talk a lot.  I recomme
 
 </div>
 
-<div class="post" data-post-id="11718" data-author="Autolycos" data-date="2006-03-22T20:25:35+00:00">
+<div class="post" data-post-id="11718" data-author="Autolycos" data-date="2006-03-22T20:25:35+00:00" data-subject="Re: Too much violence against pthief&#x27;s">
 
 Brady, Autolycos and that 12345678910 fellow, 
 
@@ -2496,7 +2496,7 @@ PS.. Albie... dude.. that takes pure talent..  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11719" data-author="Avatar" data-date="2006-03-22T21:29:26+00:00">
+<div class="post" data-post-id="11719" data-author="Avatar" data-date="2006-03-22T21:29:26+00:00" data-subject="pthieving">
 
 Mosiax:
 
@@ -2506,7 +2506,7 @@ I agree with you, but at that point I have to say that I'm not even going to bot
 
 </div>
 
-<div class="post" data-post-id="11722" data-author="*Splork*" data-date="2006-03-22T22:52:48+00:00">
+<div class="post" data-post-id="11722" data-author="*Splork*" data-date="2006-03-22T22:52:48+00:00" data-subject="">
 
 Pthieving has hurt our pbase recently. I also think the lack of Imms being around lately has also hurt us. When many of us went afk couple months ago, our who lists were 40-50 people-now they are 30-40. Whether it is because of pthieves, lack of Imm interaction, lack of Imm control (because Ive noticed way too many unslothy things since my return), I dont know. But hopefully this is going to stop now that a few of us are back...
 
@@ -2534,19 +2534,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="11723" data-author="Lai" data-date="2006-03-22T23:33:27+00:00">
+<div class="post" data-post-id="11723" data-author="Lai" data-date="2006-03-22T23:33:27+00:00" data-subject="">
 
 Thank you Splork!! :)
 
 </div>
 
-<div class="post" data-post-id="11724" data-author="Harlot" data-date="2006-03-23T00:04:47+00:00">
+<div class="post" data-post-id="11724" data-author="Harlot" data-date="2006-03-23T00:04:47+00:00" data-subject="pthiefs?">
 
 Fight the power!!!!
 
 </div>
 
-<div class="post" data-post-id="11725" data-author="Leaf" data-date="2006-03-23T01:25:58+00:00">
+<div class="post" data-post-id="11725" data-author="Leaf" data-date="2006-03-23T01:25:58+00:00" data-subject="">
 
 Im off work next couple of weeks but i am one handed so Ill add what I can in this time...
 
@@ -2556,7 +2556,7 @@ What u do there Ricky?
 
 </div>
 
-<div class="post" data-post-id="11728" data-author="Blackguard" data-date="2006-03-23T03:19:41+00:00">
+<div class="post" data-post-id="11728" data-author="Blackguard" data-date="2006-03-23T03:19:41+00:00" data-subject="">
 
 Im off work next couple of weeks but i am one handed so Ill add what I can in this time...[/quote:2vi9zm88]
 
@@ -2564,7 +2564,7 @@ Translation: "I will be watching porn for two weeks straight so don't expect any
 
 </div>
 
-<div class="post" data-post-id="11732" data-author="12345" data-date="2006-03-23T04:56:19+00:00">
+<div class="post" data-post-id="11732" data-author="12345" data-date="2006-03-23T04:56:19+00:00" data-subject="">
 
 Im off work next couple of weeks but i am one handed so Ill add what I can in this time...[/quote:22kxv4t8]
 
@@ -2574,13 +2574,13 @@ Translation: "I can't hide in my vault anymore so I've resorted to trolling."
 
 </div>
 
-<div class="post" data-post-id="11735" data-author="tincts" data-date="2006-03-23T10:12:42+00:00">
+<div class="post" data-post-id="11735" data-author="tincts" data-date="2006-03-23T10:12:42+00:00" data-subject="">
 
 Am I the only one who finds Lai's avatar disproportionately sexy?  Should I start to worry about myself?
 
 </div>
 
-<div class="post" data-post-id="11736" data-author="Blackguard" data-date="2006-03-23T10:40:20+00:00">
+<div class="post" data-post-id="11736" data-author="Blackguard" data-date="2006-03-23T10:40:20+00:00" data-subject="">
 
 Im off work next couple of weeks but i am one handed so Ill add what I can in this time...[/quote:2p08onlp]
 
@@ -2594,13 +2594,13 @@ Funny you should mention trolling. At least this board isn't my life.
 
 </div>
 
-<div class="post" data-post-id="11737" data-author="12345" data-date="2006-03-23T12:10:14+00:00">
+<div class="post" data-post-id="11737" data-author="12345" data-date="2006-03-23T12:10:14+00:00" data-subject="">
 
 Yeah... I post a lot.  Maybe I should just imm and save a lot of time.
 
 </div>
 
-<div class="post" data-post-id="11738" data-author="Autolycos" data-date="2006-03-23T12:35:57+00:00">
+<div class="post" data-post-id="11738" data-author="Autolycos" data-date="2006-03-23T12:35:57+00:00" data-subject="">
 
 [12d -1n  0c  0b] Shapeshifter 
 
@@ -2608,7 +2608,7 @@ Yeah... I post a lot.  Maybe I should just imm and save a lot of time.
 
 </div>
 
-<div class="post" data-post-id="11739" data-author="12345" data-date="2006-03-23T14:06:33+00:00">
+<div class="post" data-post-id="11739" data-author="12345" data-date="2006-03-23T14:06:33+00:00" data-subject="">
 
 Couldn't have happened to a better guy..
 
@@ -2618,13 +2618,13 @@ Actually, it's a cheat code.  A level -1 necromancer isn't bound by the traditio
 
 </div>
 
-<div class="post" data-post-id="11740" data-author="Autolycos" data-date="2006-03-23T14:11:56+00:00">
+<div class="post" data-post-id="11740" data-author="Autolycos" data-date="2006-03-23T14:11:56+00:00" data-subject="">
 
 hmm...  sounds crunchy
 
 </div>
 
-<div class="post" data-post-id="11742" data-author="Blackguard" data-date="2006-03-23T14:41:26+00:00">
+<div class="post" data-post-id="11742" data-author="Blackguard" data-date="2006-03-23T14:41:26+00:00" data-subject="">
 
 [b:r53i75gg]RAP BATTLE TIME[/color:r53i75gg][/size:r53i75gg][/b:r53i75gg]
 
@@ -2666,19 +2666,19 @@ Your turn Bit.
 
 </div>
 
-<div class="post" data-post-id="11743" data-author="12345" data-date="2006-03-23T14:53:06+00:00">
+<div class="post" data-post-id="11743" data-author="12345" data-date="2006-03-23T14:53:06+00:00" data-subject="">
 
 You win.
 
 </div>
 
-<div class="post" data-post-id="11744" data-author="Leaf" data-date="2006-03-23T15:22:36+00:00">
+<div class="post" data-post-id="11744" data-author="Leaf" data-date="2006-03-23T15:22:36+00:00" data-subject="">
 
 We can all see someone has WAY too much time on their hands.
 
 </div>
 
-<div class="post" data-post-id="11746" data-author="Blackguard" data-date="2006-03-23T15:37:20+00:00">
+<div class="post" data-post-id="11746" data-author="Blackguard" data-date="2006-03-23T15:37:20+00:00" data-subject="">
 
 We can all see someone has WAY too much time on their hands.[/quote:26hgojw6]
 
@@ -2686,13 +2686,13 @@ I wrote it in the 5 mins that it took me to corpse out
 
 </div>
 
-<div class="post" data-post-id="11747" data-author="12345" data-date="2006-03-23T15:50:03+00:00">
+<div class="post" data-post-id="11747" data-author="12345" data-date="2006-03-23T15:50:03+00:00" data-subject="">
 
 The sad part is that you wrote it in the first place.  You are officially more addicted to sloth than anyone else here.
 
 </div>
 
-<div class="post" data-post-id="11748" data-author="Autolycos" data-date="2006-03-23T16:14:30+00:00">
+<div class="post" data-post-id="11748" data-author="Autolycos" data-date="2006-03-23T16:14:30+00:00" data-subject="">
 
 *snicker... 
 
@@ -2700,7 +2700,7 @@ and thats truly sad...
 
 </div>
 
-<div class="post" data-post-id="11749" data-author="Blackguard" data-date="2006-03-23T17:41:13+00:00">
+<div class="post" data-post-id="11749" data-author="Blackguard" data-date="2006-03-23T17:41:13+00:00" data-subject="">
 
 I do believe Autolycos is the best at the crier-fellatio. For someone who buys ornate scroll bags from me at 5% of market value you aren't too supportive of your partner-in-crime.
 
@@ -2728,7 +2728,7 @@ But that was good shit dudes, 40 year old virgin nerds whose post-JJD-theft head
 
 </div>
 
-<div class="post" data-post-id="11750" data-author="12345" data-date="2006-03-23T17:51:40+00:00">
+<div class="post" data-post-id="11750" data-author="12345" data-date="2006-03-23T17:51:40+00:00" data-subject="">
 
 Well, replying to all your inane little posts is a waste of time, so here's what I'm going to do.
 
@@ -2738,7 +2738,7 @@ Try to have something clever to say in that time.  You can do it!  :)
 
 </div>
 
-<div class="post" data-post-id="11751" data-author="Autolycos" data-date="2006-03-23T17:59:15+00:00">
+<div class="post" data-post-id="11751" data-author="Autolycos" data-date="2006-03-23T17:59:15+00:00" data-subject="">
 
 I do believe Autolycos is the best at the crier-fellatio. For someone who buys ornate scroll bags from me at 5% of market value you aren't too supportive of your partner-in-crime.
 
@@ -2760,7 +2760,7 @@ for your information,
 
 </div>
 
-<div class="post" data-post-id="11752" data-author="Weasel" data-date="2006-03-23T18:45:02+00:00">
+<div class="post" data-post-id="11752" data-author="Weasel" data-date="2006-03-23T18:45:02+00:00" data-subject="">
 
 d) I had sex with Icequeen
 
@@ -2770,7 +2770,7 @@ pardon? watch what you say, I take shit like that very personal.
 
 </div>
 
-<div class="post" data-post-id="11754" data-author="Harlot" data-date="2006-03-23T18:52:32+00:00">
+<div class="post" data-post-id="11754" data-author="Harlot" data-date="2006-03-23T18:52:32+00:00" data-subject="Responding to my baby&#x27;s daddy">
 
 quotes and interpretations from Autolycos or as I know him...Pops
 
@@ -2798,7 +2798,7 @@ for your information,
 
 </div>
 
-<div class="post" data-post-id="11755" data-author="Autolycos" data-date="2006-03-23T19:01:40+00:00">
+<div class="post" data-post-id="11755" data-author="Autolycos" data-date="2006-03-23T19:01:40+00:00" data-subject="Re: Responding to my baby&#x27;s daddy">
 
 quotes and interpretations from Autolycos or as I know him...Pops
 
@@ -2808,7 +2808,7 @@ quotes and interpretations from Autolycos or as I know him...Pops
 
 </div>
 
-<div class="post" data-post-id="11758" data-author="Harlot" data-date="2006-03-24T00:15:01+00:00">
+<div class="post" data-post-id="11758" data-author="Harlot" data-date="2006-03-24T00:15:01+00:00" data-subject="Re: Re: Re: Re: etc etc tec">
 
 Dearest Autolycos,
 
@@ -2818,13 +2818,13 @@ ps-stfu
 
 </div>
 
-<div class="post" data-post-id="11759" data-author="Autolycos" data-date="2006-03-24T02:00:57+00:00">
+<div class="post" data-post-id="11759" data-author="Autolycos" data-date="2006-03-24T02:00:57+00:00" data-subject="">
 
 me silly?
 
 </div>
 
-<div class="post" data-post-id="11761" data-author="Lai" data-date="2006-03-24T05:04:03+00:00">
+<div class="post" data-post-id="11761" data-author="Lai" data-date="2006-03-24T05:04:03+00:00" data-subject="">
 
 :oops: *cackle* Thank you Tinct....honestly, I had no idea what Ecko was talking about.  *HUGS*
 
@@ -2832,25 +2832,25 @@ me silly?
 
 </div>
 
-<div class="post" data-post-id="11762" data-author="Guinex" data-date="2006-03-24T05:09:38+00:00">
+<div class="post" data-post-id="11762" data-author="Guinex" data-date="2006-03-24T05:09:38+00:00" data-subject="">
 
 3 inches of PAIN
 
 </div>
 
-<div class="post" data-post-id="11763" data-author="Lai" data-date="2006-03-24T06:09:41+00:00">
+<div class="post" data-post-id="11763" data-author="Lai" data-date="2006-03-24T06:09:41+00:00" data-subject="">
 
 Werk it big boy!! :twisted:
 
 </div>
 
-<div class="post" data-post-id="11766" data-author="*juggleblood*" data-date="2006-03-24T13:43:27+00:00">
+<div class="post" data-post-id="11766" data-author="*juggleblood*" data-date="2006-03-24T13:43:27+00:00" data-subject="">
 
 add hellmaster to derro/shapeshifters list of chars
 
 </div>
 
-<div class="post" data-post-id="11767" data-author="Autolycos" data-date="2006-03-24T15:32:48+00:00">
+<div class="post" data-post-id="11767" data-author="Autolycos" data-date="2006-03-24T15:32:48+00:00" data-subject="">
 
 :roll: Uhmmmm....as a matter of fact, in this area Harlot is correct...you are silly Auto!  :wink:[/quote:z62nnqbj]
 
@@ -2862,7 +2862,7 @@ Lai sweetie...
 
 </div>
 
-<div class="post" data-post-id="11770" data-author="Blackguard" data-date="2006-03-24T17:53:32+00:00">
+<div class="post" data-post-id="11770" data-author="Blackguard" data-date="2006-03-24T17:53:32+00:00" data-subject="">
 
 I cut my cock for shits and laughs, 
 
@@ -2884,13 +2884,13 @@ Yo-ho-ho
 
 </div>
 
-<div class="post" data-post-id="11771" data-author="12345" data-date="2006-03-24T18:32:49+00:00">
+<div class="post" data-post-id="11771" data-author="12345" data-date="2006-03-24T18:32:49+00:00" data-subject="">
 
 An entire day and that's the best you could come up with?
 
 </div>
 
-<div class="post" data-post-id="11772" data-author="Autolycos" data-date="2006-03-24T18:44:10+00:00">
+<div class="post" data-post-id="11772" data-author="Autolycos" data-date="2006-03-24T18:44:10+00:00" data-subject="">
 
 yeah,  that was pretty pathetic... 
 
@@ -2898,7 +2898,7 @@ maybe if he takes off a few weeks, he can think of something mildy amusing.
 
 </div>
 
-<div class="post" data-post-id="11773" data-author="Guinex" data-date="2006-03-24T19:14:04+00:00">
+<div class="post" data-post-id="11773" data-author="Guinex" data-date="2006-03-24T19:14:04+00:00" data-subject="">
 
 [quote:2n3o72s3]
 
@@ -2924,13 +2924,13 @@ Everyone knows this is what i do with my spare time.  :D
 
 </div>
 
-<div class="post" data-post-id="11774" data-author="Autolycos" data-date="2006-03-24T19:44:32+00:00">
+<div class="post" data-post-id="11774" data-author="Autolycos" data-date="2006-03-24T19:44:32+00:00" data-subject="">
 
 :shock:
 
 </div>
 
-<div class="post" data-post-id="11781" data-author="Lai" data-date="2006-03-24T22:30:34+00:00">
+<div class="post" data-post-id="11781" data-author="Lai" data-date="2006-03-24T22:30:34+00:00" data-subject="">
 
 Auto, darling......YOU CAN'T MAKE ME!!! :twisted: 
 
@@ -2942,7 +2942,7 @@ Guiner.......WTF dude?!?! :P
 
 </div>
 
-<div class="post" data-post-id="11783" data-author="Weasel" data-date="2006-03-25T02:37:07+00:00">
+<div class="post" data-post-id="11783" data-author="Weasel" data-date="2006-03-25T02:37:07+00:00" data-subject="">
 
 :shock:[/quote:3h06vlek]
 
@@ -2950,19 +2950,19 @@ exactly.
 
 </div>
 
-<div class="post" data-post-id="11786" data-author="Blackguard" data-date="2006-03-25T06:17:03+00:00">
+<div class="post" data-post-id="11786" data-author="Blackguard" data-date="2006-03-25T06:17:03+00:00" data-subject="">
 
 afk30 Icequeen just called
 
 </div>
 
-<div class="post" data-post-id="11788" data-author="Guinex" data-date="2006-03-25T08:38:54+00:00">
+<div class="post" data-post-id="11788" data-author="Guinex" data-date="2006-03-25T08:38:54+00:00" data-subject="">
 
 Fuggin hilarious is all i have to say
 
 </div>
 
-<div class="post" data-post-id="11789" data-author="Weasel" data-date="2006-03-25T08:55:06+00:00">
+<div class="post" data-post-id="11789" data-author="Weasel" data-date="2006-03-25T08:55:06+00:00" data-subject="">
 
 Blackguard / Jormungandr, I don't know who the fark you are, but making completely false statements in public both here and ingame that you are fucking my Mrs is nasty, sadistic and sick. There is absolutely no reason for you to make such personal attacks, and you are fully aware of what kind of reaction you're provoking with such disgusting and antagonistic statements, you pathetic, perverted little coward.
 
@@ -2970,7 +2970,7 @@ I really hope the immorts will do something about it because you are definitely 
 
 </div>
 
-<div class="post" data-post-id="11792" data-author="Blackguard" data-date="2006-03-25T09:21:49+00:00">
+<div class="post" data-post-id="11792" data-author="Blackguard" data-date="2006-03-25T09:21:49+00:00" data-subject="">
 
 Blackguard / Jormungandr, I don't know who the fark you are, but making completely false statements in public both here and ingame that you are fucking my Mrs is nasty, sadistic and sick. There is absolutely no reason for you to make such personal attacks, and you are fully aware of what kind of reaction you're provoking with such disgusting and antagonistic statements, you pathetic, perverted little coward.[/quote:raduc2gr]
 
@@ -2988,7 +2988,7 @@ Blackguard
 
 </div>
 
-<div class="post" data-post-id="11794" data-author="Harlot" data-date="2006-03-25T11:31:58+00:00">
+<div class="post" data-post-id="11794" data-author="Harlot" data-date="2006-03-25T11:31:58+00:00" data-subject="Ummm">
 
 I might be an asshole but at least I'm NOT this asshole. Gotta agree with my non-thieiving pc's.. personally jest's aside there is a line that shouldn't be crossed. Doesn't mean it won't be but best thing is not to acknowledge such things. That said....
 
@@ -2996,7 +2996,7 @@ Autolycos is the worst dead-beat dad in the world. Those gold coins he sent were
 
 </div>
 
-<div class="post" data-post-id="11795" data-author="Autolycos" data-date="2006-03-25T14:23:51+00:00">
+<div class="post" data-post-id="11795" data-author="Autolycos" data-date="2006-03-25T14:23:51+00:00" data-subject="">
 
 heh,  at least Harlot gives me a chuckle..
 
@@ -3006,7 +3006,7 @@ but a direct attack on someone not involved isn't cool.. but the irony is.. i kn
 
 </div>
 
-<div class="post" data-post-id="11796" data-author="Harlot" data-date="2006-03-25T15:35:10+00:00">
+<div class="post" data-post-id="11796" data-author="Harlot" data-date="2006-03-25T15:35:10+00:00" data-subject="I&#x27;ll give you a chuckle">
 
 chuckle indeed..
 
@@ -3014,13 +3014,13 @@ Anyone seen my rolling pin around? :twisted:
 
 </div>
 
-<div class="post" data-post-id="11797" data-author="Autolycos" data-date="2006-03-25T15:37:54+00:00">
+<div class="post" data-post-id="11797" data-author="Autolycos" data-date="2006-03-25T15:37:54+00:00" data-subject="">
 
 Autolycos panics and attempts to flee!   :shock:
 
 </div>
 
-<div class="post" data-post-id="11798" data-author="Wasp" data-date="2006-03-25T16:17:56+00:00">
+<div class="post" data-post-id="11798" data-author="Wasp" data-date="2006-03-25T16:17:56+00:00" data-subject="">
 
 I would like to ask everyone to please tone this thread down, both in trems of content and language.
 
@@ -3028,13 +3028,13 @@ Wasp
 
 </div>
 
-<div class="post" data-post-id="11799" data-author="Harlot" data-date="2006-03-25T16:20:46+00:00">
+<div class="post" data-post-id="11799" data-author="Harlot" data-date="2006-03-25T16:20:46+00:00" data-subject="Post 299">
 
 Harlot was here
 
 </div>
 
-<div class="post" data-post-id="11801" data-author="Autolycos" data-date="2006-03-25T16:29:17+00:00">
+<div class="post" data-post-id="11801" data-author="Autolycos" data-date="2006-03-25T16:29:17+00:00" data-subject="">
 
 um....  
 
@@ -3048,7 +3048,7 @@ i can't think of anything non-evil......  :evil:
 
 </div>
 
-<div class="post" data-post-id="11802" data-author="Blackguard" data-date="2006-03-25T17:21:59+00:00">
+<div class="post" data-post-id="11802" data-author="Blackguard" data-date="2006-03-25T17:21:59+00:00" data-subject="">
 
 To reconcile our differences I am hosting a party in my vault north of Bal Harbor. Forest and Autolycos will be performing as strippers. Splork is invited only if he puts a beer fountain in my room.
 
@@ -3060,7 +3060,7 @@ COME ONE COME ALL
 
 </div>
 
-<div class="post" data-post-id="11805" data-author="12345" data-date="2006-03-25T22:34:12+00:00">
+<div class="post" data-post-id="11805" data-author="12345" data-date="2006-03-25T22:34:12+00:00" data-subject="">
 
 A party?  Let me see if I can remember how to get there...
 
@@ -3070,7 +3070,7 @@ That sounds about right?
 
 </div>
 
-<div class="post" data-post-id="11809" data-author="Clink" data-date="2006-03-26T07:18:16+00:00">
+<div class="post" data-post-id="11809" data-author="Clink" data-date="2006-03-26T07:18:16+00:00" data-subject="">
 
 Enough trolling.
 

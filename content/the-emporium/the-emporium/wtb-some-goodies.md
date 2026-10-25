@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2914" data-author="Mosaix" data-date="2004-11-18T04:56:38+00:00">
+<div class="post" data-post-id="2914" data-author="Mosaix" data-date="2004-11-18T04:56:38+00:00" data-subject="WTB some goodies">
 
 WTB 
 

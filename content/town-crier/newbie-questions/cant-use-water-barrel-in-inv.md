@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="34367" data-author="Yasik" data-date="2013-07-30T08:47:59+00:00">
+<div class="post" data-post-id="34367" data-author="Yasik" data-date="2013-07-30T08:47:59+00:00" data-subject="Cant use water barrel in Inv">
 
 **drink water-barrel
 
@@ -146,19 +146,19 @@ You do not feel thirsty.
 
 </div>
 
-<div class="post" data-post-id="34368" data-author="zenoko" data-date="2013-07-31T00:43:33+00:00">
+<div class="post" data-post-id="34368" data-author="zenoko" data-date="2013-07-31T00:43:33+00:00" data-subject="Re: Cant use water barrel in Inv">
 
 my guess is your using "barrel" to use identify/fill it but your using "water-barrel" when you try to drink it have you tried just using plain "barrel"
 
 </div>
 
-<div class="post" data-post-id="34369" data-author="Oboe" data-date="2013-07-31T02:22:09+00:00">
+<div class="post" data-post-id="34369" data-author="Oboe" data-date="2013-07-31T02:22:09+00:00" data-subject="Re: Cant use water barrel in Inv">
 
 Water containers pick up a keyword from whatever liquid they hold.  It's just "barrel" when empty, but it's "water barrel" when it contains water.  Filling with milk would probably yield "milk barrel".
 
 </div>
 
-<div class="post" data-post-id="34370" data-author="*juggleblood*" data-date="2013-08-03T07:08:54+00:00">
+<div class="post" data-post-id="34370" data-author="*juggleblood*" data-date="2013-08-03T07:08:54+00:00" data-subject="Re: Cant use water barrel in Inv">
 
 I found that the keyword for the barrel is water-barrel and then when you create water it becomes water-barrel-water and then when you drink it all it becomes water-barrel again.
 
@@ -168,7 +168,7 @@ Is a mystery.
 
 </div>
 
-<div class="post" data-post-id="34391" data-author="Tuck" data-date="2013-08-19T14:27:34+00:00">
+<div class="post" data-post-id="34391" data-author="Tuck" data-date="2013-08-19T14:27:34+00:00" data-subject="Re: Cant use water barrel in Inv">
 
 it's just feature.
 

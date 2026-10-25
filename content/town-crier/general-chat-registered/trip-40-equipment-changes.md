@@ -10,7 +10,7 @@ locked: false
 post_count: 70
 ---
 
-<div class="post" data-post-id="19916" data-author="*Krom*" data-date="2007-08-27T03:44:04+00:00">
+<div class="post" data-post-id="19916" data-author="*Krom*" data-date="2007-08-27T03:44:04+00:00" data-subject="Trip 40 equipment changes">
 
 Periodically we try and adjust the trip40 eq, the last time was about 5 years ago so some of it is sorely in need of updating.  Here is the new list of what will be available and what the stats of each item are.  Some items got dropped, if you happen to have one of these you can hang on to it or trade it in for free for another item, but you cannot get that item again.  Some items may be re-introduced or new items may be added, but this is the list that will go into affect within the next couple of days.  Your existing items, if they gets changed, will be changed automatically.
 
@@ -62,7 +62,7 @@ Most of the items are intentionally kept fairly generic, although a few will obv
 
 </div>
 
-<div class="post" data-post-id="19917" data-author="Weasel" data-date="2007-08-27T04:01:54+00:00">
+<div class="post" data-post-id="19917" data-author="Weasel" data-date="2007-08-27T04:01:54+00:00" data-subject="">
 
 NIce one cheers.
 
@@ -122,7 +122,7 @@ Any one-time exchanges will skip the exchange cost for that item, but it does co
 
 </div>
 
-<div class="post" data-post-id="19918" data-author="Rynquald" data-date="2007-08-27T05:06:02+00:00">
+<div class="post" data-post-id="19918" data-author="Rynquald" data-date="2007-08-27T05:06:02+00:00" data-subject="">
 
 Good changes all around.
 
@@ -130,7 +130,7 @@ And thanks a lot for changing maple leaf to mana regen :)
 
 </div>
 
-<div class="post" data-post-id="19919" data-author="Yinao" data-date="2007-08-27T05:17:23+00:00">
+<div class="post" data-post-id="19919" data-author="Yinao" data-date="2007-08-27T05:17:23+00:00" data-subject="">
 
 Ah hell, now I lost 11 mana for 1 mana regen, wtf am I gunna do now!?! I needed that mana as a caster now its not there bc I lost an int point! 
 
@@ -138,7 +138,7 @@ Just kidding, good work Krom changes look good and fancy hope everyone likes the
 
 </div>
 
-<div class="post" data-post-id="19921" data-author="Tetsulunathaya" data-date="2007-08-27T05:30:26+00:00">
+<div class="post" data-post-id="19921" data-author="Tetsulunathaya" data-date="2007-08-27T05:30:26+00:00" data-subject="">
 
 Very good changes as well, in my view.
 
@@ -146,7 +146,7 @@ Now we should be able to expect to see more then just Curaiss's and Shrouds for 
 
 </div>
 
-<div class="post" data-post-id="19922" data-author="Messiaen" data-date="2007-08-27T06:52:03+00:00">
+<div class="post" data-post-id="19922" data-author="Messiaen" data-date="2007-08-27T06:52:03+00:00" data-subject="Re: Trip 40 equipment changes">
 
 Thanks alot Krom! Changes look nice and reasonable.
 
@@ -158,19 +158,19 @@ item quite nice, but on the other hand mages who reached their cap already just 
 
 </div>
 
-<div class="post" data-post-id="19923" data-author="Rynquald" data-date="2007-08-27T08:28:12+00:00">
+<div class="post" data-post-id="19923" data-author="Rynquald" data-date="2007-08-27T08:28:12+00:00" data-subject="">
 
 It's all about consolidating what you need, a slot that packs in ac and spelldam could free up a slot for healbonus, or mana, or regen, or dam, and probably more.
 
 </div>
 
-<div class="post" data-post-id="19924" data-author="*Krom*" data-date="2007-08-27T10:46:56+00:00">
+<div class="post" data-post-id="19924" data-author="*Krom*" data-date="2007-08-27T10:46:56+00:00" data-subject="">
 
 We are reviewing the caps for each spelldam/heal bonus, so kep that in mind.
 
 </div>
 
-<div class="post" data-post-id="19925" data-author="Rynquald" data-date="2007-08-27T11:00:16+00:00">
+<div class="post" data-post-id="19925" data-author="Rynquald" data-date="2007-08-27T11:00:16+00:00" data-subject="">
 
 We are reviewing the caps for each spelldam/heal bonus, so kep that in mind.[/quote:36rvswqj]
 
@@ -178,7 +178,7 @@ I like the sound of that, cap goes up, more damage, cap goes down, more mana/reg
 
 </div>
 
-<div class="post" data-post-id="19926" data-author="Leaf" data-date="2007-08-27T12:33:56+00:00">
+<div class="post" data-post-id="19926" data-author="Leaf" data-date="2007-08-27T12:33:56+00:00" data-subject="">
 
 Some really cool improvements.  Works well with some of my current
 
@@ -188,13 +188,13 @@ Also wanted to know, will newer stuff for Bards, Monks, and Necro be added?
 
 </div>
 
-<div class="post" data-post-id="19927" data-author="blackmore" data-date="2007-08-27T13:25:20+00:00">
+<div class="post" data-post-id="19927" data-author="blackmore" data-date="2007-08-27T13:25:20+00:00" data-subject="">
 
 I'll be sure to get the eqlist updated as soon as possible, which might be this weekend.  I've got a buisness trip and 2 fantasy football drafts this week, so I might not be able to get to it before then.
 
 </div>
 
-<div class="post" data-post-id="19928" data-author="Autolycos" data-date="2007-08-27T13:45:34+00:00">
+<div class="post" data-post-id="19928" data-author="Autolycos" data-date="2007-08-27T13:45:34+00:00" data-subject="">
 
 [quote:3iclxk2i]7) Arcane Tome of Power: held low .5 ac +1 dam +8 mv regen [/quote:3iclxk2i][/color:3iclxk2i]
 
@@ -206,7 +206,7 @@ Also, before I bother to start.  Is there going to be an equivalent made also to
 
 </div>
 
-<div class="post" data-post-id="19929" data-author="Mosaix" data-date="2007-08-27T14:32:50+00:00">
+<div class="post" data-post-id="19929" data-author="Mosaix" data-date="2007-08-27T14:32:50+00:00" data-subject="">
 
 I agree with autolycos about the high forges.  They should be hard because they are so powerful.  I also think the list is a bit thief heavy.  held low, dagger, and belt are all impressive thief items.  
 
@@ -216,7 +216,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="19930" data-author="13" data-date="2007-08-27T16:20:11+00:00">
+<div class="post" data-post-id="19930" data-author="13" data-date="2007-08-27T16:20:11+00:00" data-subject="">
 
 it's a bit caster heavy if ya ask me!
 
@@ -224,13 +224,13 @@ finally dmg held low for monks
 
 </div>
 
-<div class="post" data-post-id="19931" data-author="blackmore" data-date="2007-08-27T16:25:07+00:00">
+<div class="post" data-post-id="19931" data-author="blackmore" data-date="2007-08-27T16:25:07+00:00" data-subject="">
 
 One of the complaints the last time 3x40 eq was upgraded was that the Staff of Ra had become more powerful than a 5x40 could get on their light (4mr/30 mana vs 4mr/25 mana).  Here it is 5 years later, we're going through a 2nd upgrade of 3x40 eq, the Staff of Ra gained 5 more mana, and 5x40 stats still have not been addressed.  I was hoping that would be part of the 3x40 eq upgrade, but it doesn't appear that it has.  As far as I know, 5x40 light stats have never been changed from what they were when the first avatar reached 5x40.  I know there was talk about upgrading those stats, especially to add new class abilities as options, but it's never been done.  Can any immort comment on when we can have that?  Depending on the changes, it's possible that it would affect what 3x40 eq I would be looking at.
 
 </div>
 
-<div class="post" data-post-id="19932" data-author="Toxis" data-date="2007-08-27T17:50:49+00:00">
+<div class="post" data-post-id="19932" data-author="Toxis" data-date="2007-08-27T17:50:49+00:00" data-subject="">
 
 I've been trying to talk the imms into changing the way the 5x40 gear has been run for like 7 years.  What I would like to see are different catagories of what you could put on an avatar light.  You cannot choose two of the same choice on a avatar light, it has to be two different choices.
 
@@ -256,7 +256,7 @@ etc.. it's an avatar light, it should be tough
 
 </div>
 
-<div class="post" data-post-id="19933" data-author="Tap" data-date="2007-08-27T19:00:13+00:00">
+<div class="post" data-post-id="19933" data-author="Tap" data-date="2007-08-27T19:00:13+00:00" data-subject="I blame a dwarf named Brandor">
 
 If he was really appreciative of your accomplishments, he would allow you to name your pieces of eq.
 
@@ -264,13 +264,13 @@ F'n lil peeps
 
 </div>
 
-<div class="post" data-post-id="19934" data-author="blackmore" data-date="2007-08-27T19:16:33+00:00">
+<div class="post" data-post-id="19934" data-author="blackmore" data-date="2007-08-27T19:16:33+00:00" data-subject="">
 
 Just replying to get the original thread name back, for those people who don't read every thread with a million responses.
 
 </div>
 
-<div class="post" data-post-id="19936" data-author="Deju" data-date="2007-08-27T20:03:42+00:00">
+<div class="post" data-post-id="19936" data-author="Deju" data-date="2007-08-27T20:03:42+00:00" data-subject="">
 
 I agree that giving the +dam to a held low item has somewhat invalidated the scarab forge.  Sure, I understand that already having the scarab frees up another 3x40 item we can use.. but its still kinda annoying.
 
@@ -278,7 +278,7 @@ Oh... and in all fairness, I told Auto that he wasn't a real thief because he su
 
 </div>
 
-<div class="post" data-post-id="19939" data-author="Autolycos" data-date="2007-08-27T20:45:03+00:00">
+<div class="post" data-post-id="19939" data-author="Autolycos" data-date="2007-08-27T20:45:03+00:00" data-subject="">
 
 Oh... and in all fairness, I told Auto that he wasn't a real thief because he sucked... not because he didn't have a scarab.[/quote:bch99lj3]
 
@@ -286,7 +286,7 @@ love you too bro.. *kisses*  :twisted:
 
 </div>
 
-<div class="post" data-post-id="19945" data-author="Shazuko" data-date="2007-08-27T22:52:25+00:00">
+<div class="post" data-post-id="19945" data-author="Shazuko" data-date="2007-08-27T22:52:25+00:00" data-subject="">
 
 Some of the new tri40 eq is awesome!...theres a few things I'd still like to see, but way to go-much needed! It also got me thinking, that in the past I've also seen overlapping eq discrepencies, like a med_quest item becoming lesser as an ingame item becomes better, etc...I think before the other categories of eq are modified/evolved(as they eventually will be), its most important to decide first and foremost, how powerfull each type of eq should be in relation to the other, in other words their power needs to be ranked...for example, and this is just at first glance, #1 being the weakest, I can see something like:
 
@@ -316,7 +316,7 @@ some of these may be switched around..the idea is that once its decided which of
 
 </div>
 
-<div class="post" data-post-id="19946" data-author="Avatar" data-date="2007-08-28T00:12:59+00:00">
+<div class="post" data-post-id="19946" data-author="Avatar" data-date="2007-08-28T00:12:59+00:00" data-subject="New AC">
 
 Weasel, we just got .6 boots.  Can't expect 1 new area to have 7 items with beyond current in-game AC  :)  I just hope that new AC items aren't all high-end forges.  It's gonna be hard enough to hit -13 without adding a list of forges to complete  :)
 
@@ -326,7 +326,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="19947" data-author="*Krom*" data-date="2007-08-28T02:27:06+00:00">
+<div class="post" data-post-id="19947" data-author="*Krom*" data-date="2007-08-28T02:27:06+00:00" data-subject="">
 
 [quote:1wwflde4]7) Arcane Tome of Power: held low .5 ac +1 dam +8 mv regen [/quote:1wwflde4][/color:1wwflde4]
 
@@ -346,13 +346,13 @@ For the quint40 lights--I can take a look at that next.
 
 </div>
 
-<div class="post" data-post-id="19949" data-author="13" data-date="2007-08-28T03:04:07+00:00">
+<div class="post" data-post-id="19949" data-author="13" data-date="2007-08-28T03:04:07+00:00" data-subject="">
 
 woof woof!
 
 </div>
 
-<div class="post" data-post-id="19950" data-author="alias" data-date="2007-08-28T03:36:51+00:00">
+<div class="post" data-post-id="19950" data-author="alias" data-date="2007-08-28T03:36:51+00:00" data-subject="">
 
 Nice Work, look forward to running the numbers on all the eq.
 
@@ -362,31 +362,31 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="19951" data-author="Kali" data-date="2007-08-28T05:16:39+00:00">
+<div class="post" data-post-id="19951" data-author="Kali" data-date="2007-08-28T05:16:39+00:00" data-subject="">
 
 Thanks for the updated eq but where's the love for the druids? We seem to be the red headed step children around here :p In the last update for the drachma eq, there were a bunch of necro stuff and spell dam eq for casters but there wasnt one shiftable eq available. Even the hooves which are meant to be for druids arent even shiftable. Aside from that I think the stone token is the only item which is a slight upgrade from ars for about 1k drachma. I hope this message isnt perceived as bitching and whining. I just dont want you folks up there to forget about us. Ginger kids unite!
 
 </div>
 
-<div class="post" data-post-id="19954" data-author="Avatar" data-date="2007-08-28T05:22:26+00:00">
+<div class="post" data-post-id="19954" data-author="Avatar" data-date="2007-08-28T05:22:26+00:00" data-subject="3x40">
 
 Yay Kali, good points.  I thought you played a Thief though!
 
 </div>
 
-<div class="post" data-post-id="19955" data-author="*Krom*" data-date="2007-08-28T10:39:55+00:00">
+<div class="post" data-post-id="19955" data-author="*Krom*" data-date="2007-08-28T10:39:55+00:00" data-subject="">
 
 Overall, a couple of items were meant for certain classes, and the maple leaf did get a little bit of an upgrade for druids, but the items were kept generic with broader appeal.  It was just too difficult to tailor multiple items for each class, and to keep these items current would also be a challenge.
 
 </div>
 
-<div class="post" data-post-id="19957" data-author="Mosaix" data-date="2007-08-28T13:41:35+00:00">
+<div class="post" data-post-id="19957" data-author="Mosaix" data-date="2007-08-28T13:41:35+00:00" data-subject="">
 
 I can feel for the issues with Druid, as the problems are similar with Cleric prime.
 
 </div>
 
-<div class="post" data-post-id="19958" data-author="*juggleblood*" data-date="2007-08-28T15:43:44+00:00">
+<div class="post" data-post-id="19958" data-author="*juggleblood*" data-date="2007-08-28T15:43:44+00:00" data-subject="">
 
 I don't agree that 3x40 eq should necessarily be better than forge eq. Forging high-end eq is infinitely more challenging than sponging xps.
 
@@ -394,7 +394,7 @@ I don't agree that 3x40 eq should necessarily be better than forge eq. Forging h
 
 </div>
 
-<div class="post" data-post-id="19959" data-author="Weasel" data-date="2007-08-28T17:08:20+00:00">
+<div class="post" data-post-id="19959" data-author="Weasel" data-date="2007-08-28T17:08:20+00:00" data-subject="">
 
 I don't agree that 3x40 eq should necessarily be better than forge eq. Forging high-end eq is infinitely more challenging than sponging xps.
 
@@ -404,7 +404,7 @@ good point.. generally speaking. but avatar light attributes should be a little 
 
 </div>
 
-<div class="post" data-post-id="19961" data-author="Mosaix" data-date="2007-08-28T18:00:51+00:00">
+<div class="post" data-post-id="19961" data-author="Mosaix" data-date="2007-08-28T18:00:51+00:00" data-subject="">
 
 Id like to add to what is already being said.  I think getting to 40 avatar takes some work, to get the light.  Getting just to tri-40 can be done rather quickly especially with some help.  I found forging the Ars Magica to be the hardest thing I have accomplished on the mud, with the exception of getting to 40 avatar.  Hard forges, some of them are very hard, which is why id imagine they were statted the way they were.
 
@@ -412,19 +412,19 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="19967" data-author="*juggleblood*" data-date="2007-08-29T13:45:27+00:00">
+<div class="post" data-post-id="19967" data-author="*juggleblood*" data-date="2007-08-29T13:45:27+00:00" data-subject="">
 
 Weasel I can see making the avatar light the most powerful eq available for the light slot.  For 3x40 eq tho, I'd prefer that players have the opportunity to replace it with more powerful forges.  I think we should get out of the mind set that 3x40 eq HAS to be the most powerful eq available for any particular eq slot.
 
 </div>
 
-<div class="post" data-post-id="19971" data-author="Karna" data-date="2007-08-29T15:15:35+00:00">
+<div class="post" data-post-id="19971" data-author="Karna" data-date="2007-08-29T15:15:35+00:00" data-subject="">
 
 My thought is, why not let players pick ANY ( or just about any ) item as their 3x40 eq?  Why limit it to the list that is currently available.  One nice advantage of that would be that you could avoid the classo restricts on some eq that doesn't ( seem ) to make sense.  Also, it would potentially allow access to some low or mid quest (drachma) items as 3x40 picks.  Not that it would change me having the Cuirass and Shield, but it would allow more customization. I can see the point regarding some of the more difficult forges, so perhaps disqualify them from the selection process.
 
 </div>
 
-<div class="post" data-post-id="19976" data-author="alias" data-date="2007-08-29T18:44:18+00:00">
+<div class="post" data-post-id="19976" data-author="alias" data-date="2007-08-29T18:44:18+00:00" data-subject="">
 
 [quote:qlamf41e]Ginger kids unite![/quote:qlamf41e]
 
@@ -432,7 +432,7 @@ I'm here who are we killing?
 
 </div>
 
-<div class="post" data-post-id="19978" data-author="Weasel" data-date="2007-08-29T20:16:37+00:00">
+<div class="post" data-post-id="19978" data-author="Weasel" data-date="2007-08-29T20:16:37+00:00" data-subject="">
 
 [quote:g6a7lyyq]Ginger kids unite![/quote:g6a7lyyq]
 
@@ -442,7 +442,7 @@ yourselves.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="19979" data-author="Jag" data-date="2007-08-29T20:58:28+00:00">
+<div class="post" data-post-id="19979" data-author="Jag" data-date="2007-08-29T20:58:28+00:00" data-subject="">
 
 Will our 3x40 eq that are already in use convert to the same properties as the new 3x40 eq?  
 
@@ -450,7 +450,7 @@ Will Savvy's old "Jeweled Gauntlets of the Magi" pick up the extra 0.1 ac that t
 
 </div>
 
-<div class="post" data-post-id="19980" data-author="Atwell" data-date="2007-08-29T21:18:15+00:00">
+<div class="post" data-post-id="19980" data-author="Atwell" data-date="2007-08-29T21:18:15+00:00" data-subject="">
 
 For 3x40 eq tho, I'd prefer that players have the opportunity to replace it with more powerful forges.  I think we should get out of the mind set that 3x40 eq HAS to be the most powerful eq available for any particular eq slot.[/quote:3bvbf93r]
 
@@ -458,13 +458,13 @@ If this became the case, trip40 eq would become a low-level novelty much like ho
 
 </div>
 
-<div class="post" data-post-id="19981" data-author="Avatar" data-date="2007-08-29T21:25:03+00:00">
+<div class="post" data-post-id="19981" data-author="Avatar" data-date="2007-08-29T21:25:03+00:00" data-subject="3x40">
 
 I agree with Atwell.  The 3x40 eq should precisely be the most powerful eq for a slot (for a particular function).  Otherwise, we'll just be vaulting that eq rather than wearing it, since most of us will have finished the forges we're interested in anyway.
 
 </div>
 
-<div class="post" data-post-id="19982" data-author="Weasel" data-date="2007-08-29T21:25:32+00:00">
+<div class="post" data-post-id="19982" data-author="Weasel" data-date="2007-08-29T21:25:32+00:00" data-subject="">
 
 Will our 3x40 eq that are already in use convert to the same properties as the new 3x40 eq?  
 
@@ -476,7 +476,7 @@ From Krom at the start of this thread:
 
 </div>
 
-<div class="post" data-post-id="19984" data-author="Avatar" data-date="2007-08-29T22:44:37+00:00">
+<div class="post" data-post-id="19984" data-author="Avatar" data-date="2007-08-29T22:44:37+00:00" data-subject="3x40 eq">
 
 I seem to remember when healbonus / spellbonus was added that some imm told us that some items might give these bonuses beyond the cap.  That certain quest eq might give +10 for example, but this +10 would not be included in the cap question.
 
@@ -486,13 +486,13 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="19987" data-author="Kali" data-date="2007-08-30T01:51:56+00:00">
+<div class="post" data-post-id="19987" data-author="Kali" data-date="2007-08-30T01:51:56+00:00" data-subject="">
 
 Any chance we can get the deadline pushed? I've been trying to find a imm to help me swap out my trip40 eq the last few days and no luck.
 
 </div>
 
-<div class="post" data-post-id="19988" data-author="madmax" data-date="2007-08-30T02:19:32+00:00">
+<div class="post" data-post-id="19988" data-author="madmax" data-date="2007-08-30T02:19:32+00:00" data-subject="">
 
 As of 9:30 PM CT - August 28th, the new stats on 3x40 eq are not active yet.  I would hope the deadline would be extended as well.
 
@@ -500,7 +500,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="20017" data-author="*Krom*" data-date="2007-08-31T01:07:26+00:00">
+<div class="post" data-post-id="20017" data-author="*Krom*" data-date="2007-08-31T01:07:26+00:00" data-subject="">
 
 The item revisions went in this morning EST, final item listing (some changes)
 
@@ -546,7 +546,7 @@ Bonus) Another item is available, but not currently listed.
 
 </div>
 
-<div class="post" data-post-id="20018" data-author="Tap" data-date="2007-08-31T01:11:42+00:00">
+<div class="post" data-post-id="20018" data-author="Tap" data-date="2007-08-31T01:11:42+00:00" data-subject="">
 
 Will newer stuff suited more for bards, monks, and/or necro be added? And what/how can we find out about the mystery item? Future quest? How can we
 
@@ -554,7 +554,7 @@ find out if it's something we might request?
 
 </div>
 
-<div class="post" data-post-id="20020" data-author="van" data-date="2007-08-31T03:04:36+00:00">
+<div class="post" data-post-id="20020" data-author="van" data-date="2007-08-31T03:04:36+00:00" data-subject="">
 
 I'd like to second an extension on the deadline... I just got back from vacation and finding someone to swap eq is difficult.  Only two days left! :(
 
@@ -562,7 +562,7 @@ Patrick
 
 </div>
 
-<div class="post" data-post-id="20023" data-author="Weasel" data-date="2007-08-31T03:25:27+00:00">
+<div class="post" data-post-id="20023" data-author="Weasel" data-date="2007-08-31T03:25:27+00:00" data-subject="">
 
 Bonus) Another item is available, but not currently listed.[/quote:3kqsycwx]
 
@@ -570,7 +570,7 @@ Bonus) Another item is available, but not currently listed.[/quote:3kqsycwx]
 
 </div>
 
-<div class="post" data-post-id="20024" data-author="van" data-date="2007-08-31T03:29:26+00:00">
+<div class="post" data-post-id="20024" data-author="van" data-date="2007-08-31T03:29:26+00:00" data-subject="">
 
 For 3x40 eq tho, I'd prefer that players have the opportunity to replace it with more powerful forges.  I think we should get out of the mind set that 3x40 eq HAS to be the most powerful eq available for any particular eq slot.[/quote:27ups2ir]
 
@@ -592,7 +592,7 @@ Patrick
 
 </div>
 
-<div class="post" data-post-id="20025" data-author="brand" data-date="2007-08-31T03:47:07+00:00">
+<div class="post" data-post-id="20025" data-author="brand" data-date="2007-08-31T03:47:07+00:00" data-subject="">
 
 yeah what Van said!
 
@@ -600,7 +600,7 @@ change is good... but it still looks like the Cuirass is Elvis.
 
 </div>
 
-<div class="post" data-post-id="20030" data-author="*Krom*" data-date="2007-08-31T11:06:24+00:00">
+<div class="post" data-post-id="20030" data-author="*Krom*" data-date="2007-08-31T11:06:24+00:00" data-subject="">
 
 Sorry Oct.1 was the intended deadline.  You have a month.
 
@@ -610,7 +610,7 @@ If you have already forged the scarab, the tome probably is not the best choice.
 
 </div>
 
-<div class="post" data-post-id="20031" data-author="Autolycos" data-date="2007-08-31T12:19:26+00:00">
+<div class="post" data-post-id="20031" data-author="Autolycos" data-date="2007-08-31T12:19:26+00:00" data-subject="">
 
 change is good... but it still looks like the Cuirass is Elvis.[/quote:q53xsqls]
 
@@ -622,13 +622,13 @@ bbl.. going to the mental ward :x  *grabs crayons*
 
 </div>
 
-<div class="post" data-post-id="20059" data-author="osric" data-date="2007-09-02T01:32:49+00:00">
+<div class="post" data-post-id="20059" data-author="osric" data-date="2007-09-02T01:32:49+00:00" data-subject="">
 
 Wow, over a year wasted for me! Oh well, if the tome were this good then I would have loved it! I was really hoping for some stabdam on the Battle Spiked Armbands, but either way I like the extra AC.
 
 </div>
 
-<div class="post" data-post-id="20210" data-author="12345" data-date="2007-09-06T23:50:40+00:00">
+<div class="post" data-post-id="20210" data-author="12345" data-date="2007-09-06T23:50:40+00:00" data-subject="">
 
 change is good... but it still looks like the Cuirass is Elvis.[/quote:1k5n62ke]
 
@@ -642,7 +642,7 @@ Oh good, can you explain it to me?  I'll make a new entry in the Brand to Englis
 
 </div>
 
-<div class="post" data-post-id="20212" data-author="alias" data-date="2007-09-07T01:15:28+00:00">
+<div class="post" data-post-id="20212" data-author="alias" data-date="2007-09-07T01:15:28+00:00" data-subject="">
 
 2 things
 
@@ -654,13 +654,13 @@ anything else before I close the book?
 
 </div>
 
-<div class="post" data-post-id="20214" data-author="Tap" data-date="2007-09-07T10:19:04+00:00">
+<div class="post" data-post-id="20214" data-author="Tap" data-date="2007-09-07T10:19:04+00:00" data-subject="">
 
 Yeah, what the hell was Lisa Marie thinking? :shock:
 
 </div>
 
-<div class="post" data-post-id="20215" data-author="Autolycos" data-date="2007-09-07T12:29:03+00:00">
+<div class="post" data-post-id="20215" data-author="Autolycos" data-date="2007-09-07T12:29:03+00:00" data-subject="">
 
 Yeah, what the hell was Lisa Marie thinking? :shock:[/quote:efy4nl3x]
 
@@ -668,7 +668,7 @@ she wasnt
 
 </div>
 
-<div class="post" data-post-id="20216" data-author="brady" data-date="2007-09-07T14:35:57+00:00">
+<div class="post" data-post-id="20216" data-author="brady" data-date="2007-09-07T14:35:57+00:00" data-subject="">
 
 Yeah, what the hell was Lisa Marie thinking? :shock:[/quote:34yld7o7]
 
@@ -676,7 +676,7 @@ The red ones are pretty.
 
 </div>
 
-<div class="post" data-post-id="20218" data-author="brand" data-date="2007-09-07T15:42:48+00:00">
+<div class="post" data-post-id="20218" data-author="brand" data-date="2007-09-07T15:42:48+00:00" data-subject="">
 
 so any chance of some ac on clasps? 
 
@@ -686,7 +686,7 @@ my max ac is -10 anyhow...
 
 </div>
 
-<div class="post" data-post-id="20219" data-author="Avatar" data-date="2007-09-07T15:49:22+00:00">
+<div class="post" data-post-id="20219" data-author="Avatar" data-date="2007-09-07T15:49:22+00:00" data-subject="Brand-to-English">
 
 Someone translate that one?
 
@@ -694,7 +694,7 @@ If your max ac is -10 anyhow, why do you want AC on clasps?  It should be a mino
 
 </div>
 
-<div class="post" data-post-id="20220" data-author="Autolycos" data-date="2007-09-07T15:59:48+00:00">
+<div class="post" data-post-id="20220" data-author="Autolycos" data-date="2007-09-07T15:59:48+00:00" data-subject="Re: Brand-to-English">
 
 Someone translate that one?[/quote:3puct2nj]
 
@@ -704,19 +704,19 @@ He wants to move some eq's around to better pimp out his set and the ac clasps w
 
 </div>
 
-<div class="post" data-post-id="20221" data-author="13" data-date="2007-09-07T16:10:22+00:00">
+<div class="post" data-post-id="20221" data-author="13" data-date="2007-09-07T16:10:22+00:00" data-subject="">
 
 [img:61rbkd6d]http://www.contact-sheet.de/postings/god-says-no.jpg[/img:61rbkd6d]
 
 </div>
 
-<div class="post" data-post-id="20222" data-author="Autolycos" data-date="2007-09-07T19:18:23+00:00">
+<div class="post" data-post-id="20222" data-author="Autolycos" data-date="2007-09-07T19:18:23+00:00" data-subject="">
 
 [img:30m7i4yk]http://www.xgenco.com/sloth3/seanC.jpg[/img:30m7i4yk]
 
 </div>
 
-<div class="post" data-post-id="21134" data-author="Weasel" data-date="2007-10-30T02:21:58+00:00">
+<div class="post" data-post-id="21134" data-author="Weasel" data-date="2007-10-30T02:21:58+00:00" data-subject="">
 
 Two questions:
 
@@ -736,7 +736,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="21154" data-author="13" data-date="2007-10-31T14:41:54+00:00">
+<div class="post" data-post-id="21154" data-author="13" data-date="2007-10-31T14:41:54+00:00" data-subject="">
 
 did they get changed again or what?
 
@@ -744,7 +744,7 @@ and what is this extra item?
 
 </div>
 
-<div class="post" data-post-id="21156" data-author="Weasel" data-date="2007-10-31T21:00:01+00:00">
+<div class="post" data-post-id="21156" data-author="Weasel" data-date="2007-10-31T21:00:01+00:00" data-subject="attn Krom">
 
 No, eq not changed again (afaik).. the post previous to mine is nearly 2 months earlier.. I've been waiting patiently all this time for these same questions to be answered, and thought it time for a reminder.. so again:
 
@@ -774,13 +774,13 @@ The 2 main items warriors use from 3x40eq just happened to be the 2 items that w
 
 </div>
 
-<div class="post" data-post-id="21157" data-author="*Krom*" data-date="2007-10-31T22:42:48+00:00">
+<div class="post" data-post-id="21157" data-author="*Krom*" data-date="2007-10-31T22:42:48+00:00" data-subject="">
 
 Still in the works, just lacked a bit of motivation since all the eq revamping is a lot of work and takes a long time to get things through, and seemingly very little reward or appreciation.  That being said, I have not forgotten about it.
 
 </div>
 
-<div class="post" data-post-id="21159" data-author="Weasel" data-date="2007-10-31T23:06:08+00:00">
+<div class="post" data-post-id="21159" data-author="Weasel" data-date="2007-10-31T23:06:08+00:00" data-subject="">
 
 It's definitely appreciated, cheers Krom. I'd award you some drachma if I could :)
 
@@ -788,19 +788,19 @@ So the bonus / 20th 3x40 item doesn't actually exist yet?
 
 </div>
 
-<div class="post" data-post-id="21160" data-author="bubba" data-date="2007-10-31T23:58:16+00:00">
+<div class="post" data-post-id="21160" data-author="bubba" data-date="2007-10-31T23:58:16+00:00" data-subject="thanks!">
 
 Just a thanks to you Krom for the eq work.
 
 </div>
 
-<div class="post" data-post-id="21161" data-author="Tap" data-date="2007-11-01T01:00:24+00:00">
+<div class="post" data-post-id="21161" data-author="Tap" data-date="2007-11-01T01:00:24+00:00" data-subject="">
 
 :roll:
 
 </div>
 
-<div class="post" data-post-id="21169" data-author="van" data-date="2007-11-02T01:13:21+00:00">
+<div class="post" data-post-id="21169" data-author="van" data-date="2007-11-02T01:13:21+00:00" data-subject="">
 
 Despite my personal bitching - thanks for the work Krom!!!  Just because I get sad sometimes doesn't mean I'm not as excited as a lubed up hamster overall. :)
 

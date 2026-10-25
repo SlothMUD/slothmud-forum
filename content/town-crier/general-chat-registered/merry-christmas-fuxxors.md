@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32214" data-author="13" data-date="2010-12-25T09:33:59+00:00">
+<div class="post" data-post-id="32214" data-author="13" data-date="2010-12-25T09:33:59+00:00" data-subject="Merry christmas fuxxors!">
 
 from yer old pal Aaron..new house (my own finally) new job (teaching music)
 
@@ -24,13 +24,13 @@ aaron
 
 </div>
 
-<div class="post" data-post-id="32224" data-author="Tuck" data-date="2010-12-26T12:23:00+00:00">
+<div class="post" data-post-id="32224" data-author="Tuck" data-date="2010-12-26T12:23:00+00:00" data-subject="Re: Merry christmas fuxxors!">
 
 merry xmas you too, aaron!
 
 </div>
 
-<div class="post" data-post-id="32241" data-author="Evergreen" data-date="2010-12-29T23:16:28+00:00">
+<div class="post" data-post-id="32241" data-author="Evergreen" data-date="2010-12-29T23:16:28+00:00" data-subject="Re: Merry christmas fuxxors!">
 
 merry christmas, good luck on getting usable gifts :D
 

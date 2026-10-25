@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="9957" data-author="alias" data-date="2006-01-03T00:52:57+00:00">
+<div class="post" data-post-id="9957" data-author="alias" data-date="2006-01-03T00:52:57+00:00" data-subject="wtt vine covered candle">
 
 Wtt vine covered candle for some -.5 boots or shoulder guards I can wear.
 
@@ -36,7 +36,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="9958" data-author="alias" data-date="2006-01-03T02:16:30+00:00">
+<div class="post" data-post-id="9958" data-author="alias" data-date="2006-01-03T02:16:30+00:00" data-subject="">
 
 Ok I got some guards so Im looking for some blood covered, orcish boots, mirrored boots or feathered cinture.
 
@@ -46,7 +46,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="9967" data-author="Avatar" data-date="2006-01-04T02:16:19+00:00">
+<div class="post" data-post-id="9967" data-author="Avatar" data-date="2006-01-04T02:16:19+00:00" data-subject="Druid light">
 
 As much as I've whined and complained about the need for lowbie druids to get a shiftable light ... I kind of feel like an advocate for the druid class sometimes ... anyway even after the whining I can't see trading some top of the line in-game eq (feathered cincture?) for a shiftable light with no stats.  This should be in-game and low level.  
 
@@ -54,7 +54,7 @@ Just for the record, I don't recommend playing a druid and hoping to shift unles
 
 </div>
 
-<div class="post" data-post-id="9968" data-author="Rynquald" data-date="2006-01-04T03:53:14+00:00">
+<div class="post" data-post-id="9968" data-author="Rynquald" data-date="2006-01-04T03:53:14+00:00" data-subject="">
 
 there's allways will o the wisp...
 
@@ -62,7 +62,7 @@ allthough a propper shift light would simplify changing eq to shift for a dark a
 
 </div>
 
-<div class="post" data-post-id="9990" data-author="alias" data-date="2006-01-05T15:45:55+00:00">
+<div class="post" data-post-id="9990" data-author="alias" data-date="2006-01-05T15:45:55+00:00" data-subject="">
 
 hey brothers I had to try. If you dont ask you surely won't get it.
 

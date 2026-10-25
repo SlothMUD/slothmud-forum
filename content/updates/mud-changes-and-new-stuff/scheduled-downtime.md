@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29315" data-author="*Splork*" data-date="2009-05-27T18:19:51+00:00">
+<div class="post" data-post-id="29315" data-author="*Splork*" data-date="2009-05-27T18:19:51+00:00" data-subject="SCheduled Downtime">
 
 Wednesday, May 27, 2009
 
@@ -78,7 +78,7 @@ scheduled or anticipated.
 
 </div>
 
-<div class="post" data-post-id="29316" data-author="*Splork*" data-date="2009-05-27T19:04:49+00:00">
+<div class="post" data-post-id="29316" data-author="*Splork*" data-date="2009-05-27T19:04:49+00:00" data-subject="Downtime ending, bringing us back up..">
 
 See title...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36384" data-author="Hung" data-date="2015-12-28T13:31:45+00:00">
+<div class="post" data-post-id="36384" data-author="Hung" data-date="2015-12-28T13:31:45+00:00" data-subject="Christmas Quest 2015">
 
 I would like to support good but dying tradition of making a forum topic about each past quest event.
 

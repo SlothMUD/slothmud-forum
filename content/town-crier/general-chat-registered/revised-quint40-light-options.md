@@ -10,7 +10,7 @@ locked: false
 post_count: 53
 ---
 
-<div class="post" data-post-id="21264" data-author="*Krom*" data-date="2007-11-10T14:52:22+00:00">
+<div class="post" data-post-id="21264" data-author="*Krom*" data-date="2007-11-10T14:52:22+00:00" data-subject="**Revised quint40 light options**">
 
 The quint40 lights have been upgraded/revised.  You can now select any 2 of the following, with the exception of doubling up mana regen or spell/heal bonuses.
 
@@ -38,7 +38,7 @@ You can send me an email to krom@slothmud.org with your character name, and all 
 
 </div>
 
-<div class="post" data-post-id="21266" data-author="Weasel" data-date="2007-11-10T16:22:33+00:00">
+<div class="post" data-post-id="21266" data-author="Weasel" data-date="2007-11-10T16:22:33+00:00" data-subject="">
 
 thanks
 
@@ -46,13 +46,13 @@ is 2.1ac out of the question?  :wink:
 
 </div>
 
-<div class="post" data-post-id="21267" data-author="Ah_Puch" data-date="2007-11-10T18:27:03+00:00">
+<div class="post" data-post-id="21267" data-author="Ah_Puch" data-date="2007-11-10T18:27:03+00:00" data-subject="">
 
 Can we pre-order?
 
 </div>
 
-<div class="post" data-post-id="21268" data-author="13" data-date="2007-11-10T21:31:06+00:00">
+<div class="post" data-post-id="21268" data-author="13" data-date="2007-11-10T21:31:06+00:00" data-subject="">
 
 While, this is cool, I have to say that I think charisma and UC are 
 
@@ -68,13 +68,13 @@ time and effort involved in making changes like this though.
 
 </div>
 
-<div class="post" data-post-id="21269" data-author="Roadrunr" data-date="2007-11-11T02:46:23+00:00">
+<div class="post" data-post-id="21269" data-author="Roadrunr" data-date="2007-11-11T02:46:23+00:00" data-subject="">
 
 So, say I already have the mr and mana...will the mana on my current light automatically go up from 25 to 35 or do I have to ask for it?
 
 </div>
 
-<div class="post" data-post-id="21270" data-author="Weasel" data-date="2007-11-11T05:28:06+00:00">
+<div class="post" data-post-id="21270" data-author="Weasel" data-date="2007-11-11T05:28:06+00:00" data-subject="">
 
 thanks
 
@@ -86,7 +86,7 @@ I mean -0.25 ac or something, so if you just get one it's effectively -0.2, but 
 
 </div>
 
-<div class="post" data-post-id="21271" data-author="Teron" data-date="2007-11-11T07:38:14+00:00">
+<div class="post" data-post-id="21271" data-author="Teron" data-date="2007-11-11T07:38:14+00:00" data-subject="">
 
 I think it'd make sense to make those new class attributes non-cappable and add dam reduction, as well as hand damage.
 
@@ -94,7 +94,7 @@ If they dont add up to caps, they don't make much sense, though.
 
 </div>
 
-<div class="post" data-post-id="21272" data-author="Autolycos" data-date="2007-11-11T19:06:18+00:00">
+<div class="post" data-post-id="21272" data-author="Autolycos" data-date="2007-11-11T19:06:18+00:00" data-subject="">
 
 If they dont add up to caps, they don't make much sense, though.[/quote:xenm0h0y]
 
@@ -102,7 +102,7 @@ Teron of course being the leading authority on not making sense ;)
 
 </div>
 
-<div class="post" data-post-id="21276" data-author="Leaf" data-date="2007-11-12T03:14:40+00:00">
+<div class="post" data-post-id="21276" data-author="Leaf" data-date="2007-11-12T03:14:40+00:00" data-subject="">
 
 Me thought I was leading person of never making sense?!
 
@@ -112,13 +112,13 @@ Or was it picking 3 stats = ur lite?
 
 </div>
 
-<div class="post" data-post-id="21277" data-author="Weasel" data-date="2007-11-12T04:09:23+00:00">
+<div class="post" data-post-id="21277" data-author="Weasel" data-date="2007-11-12T04:09:23+00:00" data-subject="">
 
 yeah trying to make sense of that myself.. I think it means 3 stats = your light. ..but what if you want stat and something else, like dex and dam.. so you kind of lose out, because if you chose 2 stats instead you get a 3rd one free in effect..
 
 </div>
 
-<div class="post" data-post-id="21278" data-author="Teron" data-date="2007-11-12T11:42:09+00:00">
+<div class="post" data-post-id="21278" data-author="Teron" data-date="2007-11-12T11:42:09+00:00" data-subject="">
 
 Okay. I suspect that currently, the tard light affects, such as charisma, go within the cap, thus allowing someone to drop other charisma eq. Basically, this isn't very useful, IMHO.
 
@@ -132,7 +132,7 @@ The second variant is much more useful, because it gives the avatars an edge, in
 
 </div>
 
-<div class="post" data-post-id="21280" data-author="*Krom*" data-date="2007-11-12T14:59:35+00:00">
+<div class="post" data-post-id="21280" data-author="*Krom*" data-date="2007-11-12T14:59:35+00:00" data-subject="">
 
 some clarification and additions:
 
@@ -150,13 +150,13 @@ We have talked about the monk abilities (hand damage and dmg reduction), but do 
 
 </div>
 
-<div class="post" data-post-id="21281" data-author="*Krom*" data-date="2007-11-12T15:03:10+00:00">
+<div class="post" data-post-id="21281" data-author="*Krom*" data-date="2007-11-12T15:03:10+00:00" data-subject="">
 
 Also, since every light is custom, you must get it changed manually.  Isabo or myself can change online, or you can email as stated below and when you log in it will be fixed.
 
 </div>
 
-<div class="post" data-post-id="21282" data-author="Weasel" data-date="2007-11-12T15:56:08+00:00">
+<div class="post" data-post-id="21282" data-author="Weasel" data-date="2007-11-12T15:56:08+00:00" data-subject="">
 
 some clarification and additions:
 
@@ -176,7 +176,7 @@ and remember.. every time you don't help a warrior, gawd kills a kitten, so do i
 
 </div>
 
-<div class="post" data-post-id="21283" data-author="13" data-date="2007-11-12T17:05:34+00:00">
+<div class="post" data-post-id="21283" data-author="13" data-date="2007-11-12T17:05:34+00:00" data-subject="">
 
 weasel the coders have allowed you to go from -10.5 to like -13 in the last 8 months or so, calm yourself and go buy some drachma eq or something
 
@@ -188,7 +188,7 @@ and all of this is within cap right?
 
 </div>
 
-<div class="post" data-post-id="21284" data-author="*Krom*" data-date="2007-11-12T17:14:48+00:00">
+<div class="post" data-post-id="21284" data-author="*Krom*" data-date="2007-11-12T17:14:48+00:00" data-subject="">
 
 There was already .4 ac available for light.  I think this is more than sufficient, seeing as there is no other permanent ac for lights at all.  You can already reach -12 ac at 3x40, look at calin and I think Bomb or Bombard who did it, and Stryker at least one who did it at low level avatar.
 
@@ -200,7 +200,7 @@ The one thing I am aware of and have been trying to make some changes for, is th
 
 </div>
 
-<div class="post" data-post-id="21285" data-author="Hotara" data-date="2007-11-12T17:32:45+00:00">
+<div class="post" data-post-id="21285" data-author="Hotara" data-date="2007-11-12T17:32:45+00:00" data-subject="">
 
 I would suppose weasel's argument stems from the fact that there is now an unlimited ac cap for warrior primes, but, however, they may only hit -12 with anything available ingame (inc. drachma). I would suppose that is a valid argument considering that he as a war prime is only getting -1 ac more than other classes (albeit w/ warrior in them). 
 
@@ -218,7 +218,7 @@ Cheers!
 
 </div>
 
-<div class="post" data-post-id="21286" data-author="Weasel" data-date="2007-11-12T17:50:54+00:00">
+<div class="post" data-post-id="21286" data-author="Weasel" data-date="2007-11-12T17:50:54+00:00" data-subject="">
 
 Well I had to give it a shot. Thanks for responding and clarifying at least Krom, even if I still don't agree with some points.
 
@@ -238,7 +238,7 @@ So... anyone got a Thief prime for sale? Preferably one without a bad rep..
 
 </div>
 
-<div class="post" data-post-id="21288" data-author="brady" data-date="2007-11-12T19:36:28+00:00">
+<div class="post" data-post-id="21288" data-author="brady" data-date="2007-11-12T19:36:28+00:00" data-subject="">
 
 [quote:dvh5l2h1]="Weasel Sorry for whining, but every time there's been a change I keep hoping someone will finally throw warriors a bone, but this is the last change available and still not a thing. Kinda upset about it.[/quote:dvh5l2h1]
 
@@ -246,7 +246,7 @@ Is that Mosaix in a Weasel suit?  Halloween was last month...ya missed it!
 
 </div>
 
-<div class="post" data-post-id="21289" data-author="Autolycos" data-date="2007-11-12T19:36:41+00:00">
+<div class="post" data-post-id="21289" data-author="Autolycos" data-date="2007-11-12T19:36:41+00:00" data-subject="">
 
 So... anyone got a Thief prime for sale? Preferably one without a bad rep..[/quote:2u3dj1li]
 
@@ -256,7 +256,7 @@ you should really try making a warrior  :twisted:
 
 </div>
 
-<div class="post" data-post-id="21290" data-author="alias" data-date="2007-11-12T19:41:38+00:00">
+<div class="post" data-post-id="21290" data-author="alias" data-date="2007-11-12T19:41:38+00:00" data-subject="">
 
 First of all sorry for going on a tangent on this thread, but here goes.
 
@@ -272,7 +272,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="21291" data-author="blackmore" data-date="2007-11-12T20:24:17+00:00">
+<div class="post" data-post-id="21291" data-author="blackmore" data-date="2007-11-12T20:24:17+00:00" data-subject="">
 
 Imho, If tripling stats on the av light from a max of 2 stats to a max of 6 stats is not excessively extending the power of the item, then I don't know what is. [/quote:14kqx3i0]
 
@@ -280,7 +280,7 @@ Just because something was insanely underpowered before shouldn't mean it needs 
 
 </div>
 
-<div class="post" data-post-id="21292" data-author="Weasel" data-date="2007-11-12T20:54:49+00:00">
+<div class="post" data-post-id="21292" data-author="Weasel" data-date="2007-11-12T20:54:49+00:00" data-subject="">
 
 how much +3any-stat eq is out there, let alone +6any-stat..  guess it's a matter of perspective.. 
 
@@ -288,7 +288,7 @@ seems I'm pushing sh*t uphill here.
 
 </div>
 
-<div class="post" data-post-id="21293" data-author="blackmore" data-date="2007-11-12T21:28:15+00:00">
+<div class="post" data-post-id="21293" data-author="blackmore" data-date="2007-11-12T21:28:15+00:00" data-subject="">
 
 how much +3any-stat eq is out there, let alone +6any-stat..  guess it's a matter of perspective.. 
 
@@ -298,7 +298,7 @@ If there was some, it wouldn't be a quint 40 light.  I'm thinking you're confuse
 
 </div>
 
-<div class="post" data-post-id="21294" data-author="Roadrunr" data-date="2007-11-12T23:53:53+00:00">
+<div class="post" data-post-id="21294" data-author="Roadrunr" data-date="2007-11-12T23:53:53+00:00" data-subject="">
 
 heres the way I'm trying to look at it.
 
@@ -314,7 +314,7 @@ I dont think anyone bothers to run the way I do...I know strider used to run mas
 
 </div>
 
-<div class="post" data-post-id="21295" data-author="Tap" data-date="2007-11-13T02:39:52+00:00">
+<div class="post" data-post-id="21295" data-author="Tap" data-date="2007-11-13T02:39:52+00:00" data-subject="">
 
 Blackmore wrote to Furball
 
@@ -326,19 +326,19 @@ giggle*snort*chuckle*snicker*laff*snicker*smirk
 
 </div>
 
-<div class="post" data-post-id="21296" data-author="Weasel" data-date="2007-11-13T03:45:26+00:00">
+<div class="post" data-post-id="21296" data-author="Weasel" data-date="2007-11-13T03:45:26+00:00" data-subject="">
 
 lick my balls.
 
 </div>
 
-<div class="post" data-post-id="21297" data-author="Hotara" data-date="2007-11-13T08:04:30+00:00">
+<div class="post" data-post-id="21297" data-author="Hotara" data-date="2007-11-13T08:04:30+00:00" data-subject="">
 
 Indeed, this discussion has turned into an intellectual one :)
 
 </div>
 
-<div class="post" data-post-id="21298" data-author="Evergreen" data-date="2007-11-13T12:07:33+00:00">
+<div class="post" data-post-id="21298" data-author="Evergreen" data-date="2007-11-13T12:07:33+00:00" data-subject="">
 
 way too much changes nowdays :)~ cant figure all the benefits i can have from this, you making my chars too powerful!!!
 
@@ -350,7 +350,7 @@ now where is my avian claw...
 
 </div>
 
-<div class="post" data-post-id="21299" data-author="Avatar" data-date="2007-11-13T15:08:31+00:00">
+<div class="post" data-post-id="21299" data-author="Avatar" data-date="2007-11-13T15:08:31+00:00" data-subject="40 Av light">
 
 Thanks for the work Krom, I think your approach makes sense.
 
@@ -364,7 +364,7 @@ If -13 is possible, it should be something you do for big groups only.  -dam, -s
 
 </div>
 
-<div class="post" data-post-id="21300" data-author="13" data-date="2007-11-13T15:15:26+00:00">
+<div class="post" data-post-id="21300" data-author="13" data-date="2007-11-13T15:15:26+00:00" data-subject="">
 
 [quote:spm4eh9i] It used to be that it was almost embarrassing to pick a stat for your light[/quote:spm4eh9i]
 
@@ -380,7 +380,7 @@ out drachma for any spelldmg eq other than the robe.
 
 </div>
 
-<div class="post" data-post-id="21301" data-author="blackmore" data-date="2007-11-13T17:37:58+00:00">
+<div class="post" data-post-id="21301" data-author="blackmore" data-date="2007-11-13T17:37:58+00:00" data-subject="">
 
 I would say that if you need 6 of one stat by the time you're a 40 tard, it's
 
@@ -392,7 +392,7 @@ I would agree, except that I'm one considering changing to stats.  See, str is m
 
 </div>
 
-<div class="post" data-post-id="21302" data-author="Weasel" data-date="2007-11-13T20:06:14+00:00">
+<div class="post" data-post-id="21302" data-author="Weasel" data-date="2007-11-13T20:06:14+00:00" data-subject="">
 
 I would say that if you need 6 of one stat by the time you're a 40 tard, it's
 
@@ -410,7 +410,7 @@ I'm sure someone will come up with some reason to tell me I'm wrong, or I'm gree
 
 </div>
 
-<div class="post" data-post-id="21303" data-author="13" data-date="2007-11-13T20:31:32+00:00">
+<div class="post" data-post-id="21303" data-author="13" data-date="2007-11-13T20:31:32+00:00" data-subject="">
 
 [img:43ijio3t]http://icanhascheezburger.files.wordpress.com/2007/03/doinitwrong.jpg[/img:43ijio3t]
 
@@ -420,13 +420,13 @@ I'm sure someone will come up with some reason to tell me I'm wrong, or I'm gree
 
 </div>
 
-<div class="post" data-post-id="21304" data-author="Weasel" data-date="2007-11-13T20:33:41+00:00">
+<div class="post" data-post-id="21304" data-author="Weasel" data-date="2007-11-13T20:33:41+00:00" data-subject="">
 
 heh.. kinda asked for that didn't I..
 
 </div>
 
-<div class="post" data-post-id="21307" data-author="Tap" data-date="2007-11-13T23:43:04+00:00">
+<div class="post" data-post-id="21307" data-author="Tap" data-date="2007-11-13T23:43:04+00:00" data-subject="My fair Weasel">
 
 Your'e wrong, your'e greedy, and you should just start a different classo.
 
@@ -434,13 +434,13 @@ Your'e wrong, your'e greedy, and you should just start a different classo.
 
 </div>
 
-<div class="post" data-post-id="21309" data-author="Autolycos" data-date="2007-11-14T01:41:30+00:00">
+<div class="post" data-post-id="21309" data-author="Autolycos" data-date="2007-11-14T01:41:30+00:00" data-subject="">
 
 thanks... that's just fawkin hilarious :)
 
 </div>
 
-<div class="post" data-post-id="21311" data-author="blackmore" data-date="2007-11-14T01:49:23+00:00">
+<div class="post" data-post-id="21311" data-author="blackmore" data-date="2007-11-14T01:49:23+00:00" data-subject="">
 
 [..which might explain why the +6 stats seem to be such a good idea for you. If you were short on AC and were trying to hit -12, or better yet -12.3 to allow for webs, then perhaps your opinion may have been different. ...[/quote:e3lfun59]
 
@@ -450,7 +450,7 @@ I don't disagree that more wa equipment should be added.  I think lots of classe
 
 </div>
 
-<div class="post" data-post-id="21312" data-author="Weasel" data-date="2007-11-14T02:55:35+00:00">
+<div class="post" data-post-id="21312" data-author="Weasel" data-date="2007-11-14T02:55:35+00:00" data-subject="">
 
 I don't disagree that more wa equipment should be added.  I think lots of classes have eq they should have but don't,  and there is very little eq just to benefit warriors, compared to what there is for other classes.  That doesn't mean the AC on a tard light is out of balance compared to the rest of the options.[/quote:14k0axiw]
 
@@ -462,7 +462,7 @@ Appreciate that you haven't taken my comments personally btw :)
 
 </div>
 
-<div class="post" data-post-id="21313" data-author="Hotara" data-date="2007-11-14T03:01:25+00:00">
+<div class="post" data-post-id="21313" data-author="Hotara" data-date="2007-11-14T03:01:25+00:00" data-subject="">
 
 This may be besides the point, but my 4x caster has a dex of 14, and even with that, I won't take the +6 dex as that character's 5x40 :)
 
@@ -474,7 +474,7 @@ Hotara
 
 </div>
 
-<div class="post" data-post-id="21314" data-author="Weasel" data-date="2007-11-14T03:06:18+00:00">
+<div class="post" data-post-id="21314" data-author="Weasel" data-date="2007-11-14T03:06:18+00:00" data-subject="">
 
 This may be besides the point, but my 4x caster has a dex of 14, and even with that, I won't take the +6 dex as that character's 5x40 :)
 
@@ -488,19 +488,19 @@ Well no, and I wouldn't expect you to - your 4xCaster is not a tank. Then again,
 
 </div>
 
-<div class="post" data-post-id="21315" data-author="Rynquald" data-date="2007-11-14T03:21:57+00:00">
+<div class="post" data-post-id="21315" data-author="Rynquald" data-date="2007-11-14T03:21:57+00:00" data-subject="">
 
 Of course, anyone that settles for low nat dex probably doesn't care about ac enough to get a dex light over the other options.
 
 </div>
 
-<div class="post" data-post-id="21316" data-author="13" data-date="2007-11-14T03:24:09+00:00">
+<div class="post" data-post-id="21316" data-author="13" data-date="2007-11-14T03:24:09+00:00" data-subject="">
 
 i would like to see more weapon dmg with good ac
 
 </div>
 
-<div class="post" data-post-id="21317" data-author="Hotara" data-date="2007-11-14T03:38:50+00:00">
+<div class="post" data-post-id="21317" data-author="Hotara" data-date="2007-11-14T03:38:50+00:00" data-subject="">
 
 Of course, anyone that settles for low nat dex probably doesn't care about ac enough to get a dex light over the other options.[/quote:1oz38lle]
 
@@ -510,7 +510,7 @@ Sure I care about the ac, but it's rather hard to think about rolling
 
 </div>
 
-<div class="post" data-post-id="21318" data-author="alias" data-date="2007-11-14T03:57:09+00:00">
+<div class="post" data-post-id="21318" data-author="alias" data-date="2007-11-14T03:57:09+00:00" data-subject="">
 
 btw there is an ac light, it may be temp but its still there.
 
@@ -518,7 +518,7 @@ just fueling the fire here.
 
 </div>
 
-<div class="post" data-post-id="21320" data-author="13" data-date="2007-11-14T13:28:01+00:00">
+<div class="post" data-post-id="21320" data-author="13" data-date="2007-11-14T13:28:01+00:00" data-subject="">
 
 its a quad caster...just shift for your ac
 
@@ -526,19 +526,19 @@ or roll some good stats
 
 </div>
 
-<div class="post" data-post-id="21324" data-author="Rynquald" data-date="2007-11-14T23:16:20+00:00">
+<div class="post" data-post-id="21324" data-author="Rynquald" data-date="2007-11-14T23:16:20+00:00" data-subject="">
 
 Note "enough to get a dex light over the other options", you'd give up mana/regen/spellbonus etc for ac?
 
 </div>
 
-<div class="post" data-post-id="21325" data-author="13" data-date="2007-11-14T23:19:17+00:00">
+<div class="post" data-post-id="21325" data-author="13" data-date="2007-11-14T23:19:17+00:00" data-subject="">
 
 we need like 4 or 5 weapondmg as an option on tard light i think
 
 </div>
 
-<div class="post" data-post-id="21326" data-author="Teron" data-date="2007-11-15T04:49:54+00:00">
+<div class="post" data-post-id="21326" data-author="Teron" data-date="2007-11-15T04:49:54+00:00" data-subject="">
 
 Technically, a stat point is worth from mana to -0.3 (sometimes -0.4 but you dont wear such eq). Using 6 stats to swap for ac or its equivalent (dam, regen) you effectively get more than -0.4 ac.
 
@@ -546,7 +546,7 @@ Thus, I'd think it'd make sense to increase the ac to -0.3 one slot and -0.6 to 
 
 </div>
 
-<div class="post" data-post-id="21328" data-author="*Krom*" data-date="2007-11-15T21:26:00+00:00">
+<div class="post" data-post-id="21328" data-author="*Krom*" data-date="2007-11-15T21:26:00+00:00" data-subject="">
 
 Technically, a stat point is worth from mana to -0.3 (sometimes -0.4 but you dont wear such eq). Using 6 stats to swap for ac or its equivalent (dam, regen) you effectively get more than -0.4 ac.
 
@@ -560,7 +560,7 @@ Ill consider the weapon damage option.  Also, I think I may allow you to split u
 
 </div>
 
-<div class="post" data-post-id="21329" data-author="Weasel" data-date="2007-11-15T22:32:26+00:00">
+<div class="post" data-post-id="21329" data-author="Weasel" data-date="2007-11-15T22:32:26+00:00" data-subject="">
 
 :shock:  
 
@@ -568,7 +568,7 @@ yeah, that really makes sense...
 
 </div>
 
-<div class="post" data-post-id="21330" data-author="13" data-date="2007-11-16T04:49:56+00:00">
+<div class="post" data-post-id="21330" data-author="13" data-date="2007-11-16T04:49:56+00:00" data-subject="">
 
 thats cool five of one and one of another or something
 
@@ -576,7 +576,7 @@ thanks for considering weapondmg
 
 </div>
 
-<div class="post" data-post-id="21692" data-author="Widow" data-date="2007-12-17T02:19:17+00:00">
+<div class="post" data-post-id="21692" data-author="Widow" data-date="2007-12-17T02:19:17+00:00" data-subject="">
 
 With the 3x40 gear, you have an option to spill some gold to make a change. Is that a possibility with the Avatar light as well? Or is it a one time choice?
 

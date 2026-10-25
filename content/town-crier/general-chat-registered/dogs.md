@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29696" data-author="Medios" data-date="2009-07-15T21:10:40+00:00">
+<div class="post" data-post-id="29696" data-author="Medios" data-date="2009-07-15T21:10:40+00:00" data-subject="Dogs">
 
 You gotta be crazy, you gotta have a real need
 
@@ -96,7 +96,7 @@ Who was dragged down by the stone.
 
 </div>
 
-<div class="post" data-post-id="29699" data-author="Medios" data-date="2009-07-16T19:39:08+00:00">
+<div class="post" data-post-id="29699" data-author="Medios" data-date="2009-07-16T19:39:08+00:00" data-subject="">
 
 Pigs on the wing.
 

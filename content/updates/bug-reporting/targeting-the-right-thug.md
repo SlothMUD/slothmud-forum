@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="6622" data-author="SirRobin" data-date="2005-05-28T06:18:47+00:00">
+<div class="post" data-post-id="6622" data-author="SirRobin" data-date="2005-05-28T06:18:47+00:00" data-subject="Targeting the Right Thug">
 
 I think the IDs for the new mobs in Newbatia may need some adjustment. The three I’m speaking of are:
 
@@ -28,7 +28,7 @@ Thug #1 seems to be the easiest of the three, so I’d like to be able to target
 
 </div>
 
-<div class="post" data-post-id="6624" data-author="guest" data-date="2005-05-28T07:10:27+00:00">
+<div class="post" data-post-id="6624" data-author="guest" data-date="2005-05-28T07:10:27+00:00" data-subject="">
 
 Hi, Sir ...
 
@@ -36,13 +36,13 @@ Next time you visit one of those evil thug (#1, the one you want) type names thu
 
 </div>
 
-<div class="post" data-post-id="6643" data-author="SirRobin" data-date="2005-05-28T23:55:32+00:00">
+<div class="post" data-post-id="6643" data-author="SirRobin" data-date="2005-05-28T23:55:32+00:00" data-subject="">
 
 Thanks, Isabo, I had forgotten about the Names command.
 
 </div>
 
-<div class="post" data-post-id="6644" data-author="SirRobin" data-date="2005-05-29T00:11:22+00:00">
+<div class="post" data-post-id="6644" data-author="SirRobin" data-date="2005-05-29T00:11:22+00:00" data-subject="Still a problem targeting the Evil Thug">
 
 Ok, I used the Names command to see what each thug would respond too:
 
@@ -56,7 +56,7 @@ As you can see, there is no one word that references the Evil Thug that does not
 
 </div>
 
-<div class="post" data-post-id="6646" data-author="Akasha2" data-date="2005-05-29T01:31:07+00:00">
+<div class="post" data-post-id="6646" data-author="Akasha2" data-date="2005-05-29T01:31:07+00:00" data-subject="Re: Still a problem targeting the Evil Thug">
 
 Ok, I used the Names command to see what each thug would respond too:
 
@@ -76,13 +76,13 @@ Gang leader: leader-thug
 
 </div>
 
-<div class="post" data-post-id="6655" data-author="SirRobin" data-date="2005-05-30T03:32:26+00:00">
+<div class="post" data-post-id="6655" data-author="SirRobin" data-date="2005-05-30T03:32:26+00:00" data-subject="">
 
 Thanks, Evil-member seems to work great!
 
 </div>
 
-<div class="post" data-post-id="6673" data-author="blackmore" data-date="2005-05-30T12:03:06+00:00">
+<div class="post" data-post-id="6673" data-author="blackmore" data-date="2005-05-30T12:03:06+00:00" data-subject="">
 
 I'm a bit confused as to why you would need to worry about this, but I think I can guess.  You are spamming a spell or skill that requires a target, causing you to hit a 2nd mob after the first has died.
 
@@ -90,7 +90,7 @@ You can stop spamming commands, but there's a more reliable way.  All attack ski
 
 </div>
 
-<div class="post" data-post-id="6674" data-author="Aleksey" data-date="2005-05-30T12:15:44+00:00">
+<div class="post" data-post-id="6674" data-author="Aleksey" data-date="2005-05-30T12:15:44+00:00" data-subject="">
 
 Target 3.thug and can spam as much as you want. Whan he down do 2.thug
 
@@ -98,7 +98,7 @@ Target 3.thug and can spam as much as you want. Whan he down do 2.thug
 
 </div>
 
-<div class="post" data-post-id="6690" data-author="SirRobin" data-date="2005-05-31T03:41:25+00:00">
+<div class="post" data-post-id="6690" data-author="SirRobin" data-date="2005-05-31T03:41:25+00:00" data-subject="">
 
 You were half right, Blackmore, I wasn’t spamming commands, but I had created a variable that all my macro keys referenced so that every attack was targeted.
 
@@ -106,7 +106,7 @@ I didn’t know that once you engaged a mob it stayed targeted internally. Just 
 
 </div>
 
-<div class="post" data-post-id="6691" data-author="guest" data-date="2005-05-31T05:14:09+00:00">
+<div class="post" data-post-id="6691" data-author="guest" data-date="2005-05-31T05:14:09+00:00" data-subject="">
 
 Hi, Sir.
 
@@ -114,7 +114,7 @@ Turn autokill on. It'll help to kill mortally wounded mobs w/o retargeting.
 
 </div>
 
-<div class="post" data-post-id="6845" data-author="SirRobin" data-date="2005-06-06T13:55:09+00:00">
+<div class="post" data-post-id="6845" data-author="SirRobin" data-date="2005-06-06T13:55:09+00:00" data-subject="Follow-up on targeting needed for final blow">
 
 Regarding the need to target mobs for the final blow, here is an example below (with autokill on):
 
@@ -174,19 +174,19 @@ If it’s a bug it must not be a big deal for anyone, since it looks like I’m 
 
 </div>
 
-<div class="post" data-post-id="6846" data-author="12345" data-date="2005-06-06T14:10:05+00:00">
+<div class="post" data-post-id="6846" data-author="12345" data-date="2005-06-06T14:10:05+00:00" data-subject="">
 
 It would seem to be a bug with autokill.  I can tell you from past experience that blindly striking a mob can be dangerous if you're in a place like Blaster's temple where mobs with the same name wander in and out during battle.  For safety, I will normally look at the mob prior to finishing it off to make sure I'm targeting the correct one.  If it's in excellent condition.. it's not the right one.
 
 </div>
 
-<div class="post" data-post-id="6849" data-author="Avatar" data-date="2005-06-06T15:14:36+00:00">
+<div class="post" data-post-id="6849" data-author="Avatar" data-date="2005-06-06T15:14:36+00:00" data-subject="difference">
 
 The difference is the necro pet, if the ghost morts the mob I don't think the autokill on your char is happening.
 
 </div>
 
-<div class="post" data-post-id="6851" data-author="SirRobin" data-date="2005-06-06T16:41:31+00:00">
+<div class="post" data-post-id="6851" data-author="SirRobin" data-date="2005-06-06T16:41:31+00:00" data-subject="">
 
 The pet? Interesting possibility. I was going to say that the same thing is happening with my Druid, but I don’t recall if I noticed it before I started using Treants or not. With my Necro I thought I noticed that sometimes, if one of his pets mortally wounded the mob, that the fight would basically stop, but I’d need to go through my logs more thoroughly to find those examples. By basically stop I mean something like this:
 
@@ -232,13 +232,13 @@ Again my solution was to do a targeted attack after the mob is wounded.
 
 </div>
 
-<div class="post" data-post-id="6852" data-author="Weasel" data-date="2005-06-06T17:27:27+00:00">
+<div class="post" data-post-id="6852" data-author="Weasel" data-date="2005-06-06T17:27:27+00:00" data-subject="">
 
 thuck'n fugs  :evil:
 
 </div>
 
-<div class="post" data-post-id="7955" data-author="Taki" data-date="2005-07-20T07:27:22+00:00">
+<div class="post" data-post-id="7955" data-author="Taki" data-date="2005-07-20T07:27:22+00:00" data-subject="">
 
 I am supporting the 'pet-theory' since i noticed the same, and even worse annoyances related to pets/followers (cleric's supplicants and necro's undeads, not sure about mage's familiars).
 
@@ -246,7 +246,7 @@ If a pet/follower is the one who strikes the morting hit, then the fight stops -
 
 </div>
 
-<div class="post" data-post-id="7960" data-author="Wintersdark" data-date="2005-07-21T07:21:07+00:00">
+<div class="post" data-post-id="7960" data-author="Wintersdark" data-date="2005-07-21T07:21:07+00:00" data-subject="">
 
 It's the pet thing.   If a pet morts a mob, then the fight stops.  I've lost a good number of kills to bloodloss that way, on both of my chars.
 

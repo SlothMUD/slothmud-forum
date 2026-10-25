@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="7434" data-author="Taki" data-date="2005-06-22T06:15:48+00:00">
+<div class="post" data-post-id="7434" data-author="Taki" data-date="2005-06-22T06:15:48+00:00" data-subject="Thanks to cr helpers - a short story">
 
 Yesterday Salan and Taki were venturing in the northern lands of Thule to reach a cold place called Diabolan Valley. They heard that some intrepid avdenturers might find glory and wealth in such a land and that was a good reason for travelling so far... and they moved on.
 
@@ -28,7 +28,7 @@ Notes:
 
 </div>
 
-<div class="post" data-post-id="7435" data-author="seshi" data-date="2005-06-22T08:36:36+00:00">
+<div class="post" data-post-id="7435" data-author="seshi" data-date="2005-06-22T08:36:36+00:00" data-subject="Thanks for the rescue">
 
 Just want to add my thanks to the kind rescuers. Standing at Wide Gate Thule with not a piece of equipment or even a pair of pants is not the most pleasant ofexperieriences! 
 
@@ -40,7 +40,7 @@ Salan
 
 </div>
 
-<div class="post" data-post-id="7438" data-author="Avatar" data-date="2005-06-22T10:20:15+00:00">
+<div class="post" data-post-id="7438" data-author="Avatar" data-date="2005-06-22T10:20:15+00:00" data-subject="AH run">
 
 The berserker is quite fun, I can't say the xp total on him.  I usually don't kill him even if he hits me and hates me, I just flee and try to run past him.  
 
@@ -52,7 +52,7 @@ Glad you got the eq back though, and nice story introduction  :)
 
 </div>
 
-<div class="post" data-post-id="7440" data-author="Zalasta" data-date="2005-06-22T10:28:35+00:00">
+<div class="post" data-post-id="7440" data-author="Zalasta" data-date="2005-06-22T10:28:35+00:00" data-subject="">
 
 The berserker is a bit less than 200k experience, but that's kind of deceptive because he's much harder than say a ghoul from the catacombs.  Generally I think of him (actually there are 2) as an obstacle to get by, rather than a mob to kill, and that's with a 5x40!  That being said, I expect that a level 40 character could kill him if there was a pressing need (like a CR).
 

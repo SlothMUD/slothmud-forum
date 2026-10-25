@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8863" data-author="13" data-date="2005-09-29T18:31:52+00:00">
+<div class="post" data-post-id="8863" data-author="13" data-date="2005-09-29T18:31:52+00:00" data-subject="Need Two Items">
 
 I need two items from Olympus, chances are someone someone has the shit
 

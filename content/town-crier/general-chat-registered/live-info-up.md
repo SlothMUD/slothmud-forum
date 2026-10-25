@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="28676" data-author="Stab" data-date="2009-04-07T12:51:05+00:00">
+<div class="post" data-post-id="28676" data-author="Stab" data-date="2009-04-07T12:51:05+00:00" data-subject="Live Info Up">
 
 Thanks, Live Info's so good to have working.
 
@@ -24,13 +24,13 @@ Especially when the nearest raiser is 2 continents away without relocate.
 
 </div>
 
-<div class="post" data-post-id="28678" data-author="jezer" data-date="2009-04-07T13:02:34+00:00">
+<div class="post" data-post-id="28678" data-author="jezer" data-date="2009-04-07T13:02:34+00:00" data-subject="">
 
 You die Stab?  :shock: Nah....  :twisted:
 
 </div>
 
-<div class="post" data-post-id="28680" data-author="*Splork*" data-date="2009-04-07T20:28:42+00:00">
+<div class="post" data-post-id="28680" data-author="*Splork*" data-date="2009-04-07T20:28:42+00:00" data-subject="">
 
 Yes, all live info is back and working!
 
@@ -40,7 +40,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28682" data-author="Weasel" data-date="2009-04-07T20:42:36+00:00">
+<div class="post" data-post-id="28682" data-author="Weasel" data-date="2009-04-07T20:42:36+00:00" data-subject="">
 
 thanks
 

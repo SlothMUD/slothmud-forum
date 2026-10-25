@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="37060" data-author="Gorka" data-date="2016-07-14T07:01:11+00:00">
+<div class="post" data-post-id="37060" data-author="Gorka" data-date="2016-07-14T07:01:11+00:00" data-subject="Prime Gems!">
 
 Prime gems! These days it's common to see Mages, Necros and Clerics calling Tomb Jades and Golden Yellow Topaz and Rhodo/Jet in groups. What I think has happened is some older players have pretty much maxed out there prime abilities and are now working down the list of creating different modes for themselves such as damage, spells save etc. Nothing wrong with that, except if you are new to the game, and somebody that pretty much already has EVERYTHING in your eyes, is calling a gem that's pretty much of prime importance to your class, but only secondary or thirdly important to the person who is calling it!
 
@@ -36,7 +36,7 @@ Druid Prime - Nothing, damn druids!  :x
 
 </div>
 
-<div class="post" data-post-id="37063" data-author="Gorka" data-date="2016-07-16T11:45:28+00:00">
+<div class="post" data-post-id="37063" data-author="Gorka" data-date="2016-07-16T11:45:28+00:00" data-subject="It&#x27;s Not About The Poprate - The System Is Broken!">
 
 I asked a few older players why no one was saying anything about my prime gems idea, and they said they are sick of talking about the problem and that no one was listening, and they were glad it was coming from someone else for a change. They also egged me on to say moreâ€¦ So here is a list of what I think are the issues, that I hope some immortal will address them... The pop rate of gems to one sideâ€¦ there are clearly some other flaws in the system making the problems worse.
 
@@ -70,7 +70,7 @@ Please donâ€™t read this post and think itâ€™s just another complaint 
 
 </div>
 
-<div class="post" data-post-id="37065" data-author="Teron" data-date="2016-07-16T14:57:18+00:00">
+<div class="post" data-post-id="37065" data-author="Teron" data-date="2016-07-16T14:57:18+00:00" data-subject="Re: Prime Gems!">
 
 1. It's not entirely clear how you propose the new prime gems to work.
 
@@ -122,7 +122,7 @@ To save some Splork's time, so he doesn't spend time to post the same again, I'l
 
 </div>
 
-<div class="post" data-post-id="37069" data-author="Gorka" data-date="2016-07-16T19:24:22+00:00">
+<div class="post" data-post-id="37069" data-author="Gorka" data-date="2016-07-16T19:24:22+00:00" data-subject="Re: Prime Gems!">
 
 So in the sloth channel, Hung made a point... should the gem system actually reward work? It's a good question.
 
@@ -141,7 +141,7 @@ As for newb's calling t3's. The group leader should handle that issue themselves
 
 </div>
 
-<div class="post" data-post-id="37070" data-author="*Splork*" data-date="2016-07-17T02:39:12+00:00">
+<div class="post" data-post-id="37070" data-author="*Splork*" data-date="2016-07-17T02:39:12+00:00" data-subject="Re: Prime Gems!">
 
 > **Quote:**
 > . Gem pop already depends on the number of players and mob level. I've long suggested making it depend on mob hps (to reward effort put in killing the mob), but it isn't in yet and I haven't heard feedback on this (maybe that it needs to be done and some changes were going in). I suspect this will also reduce poprate for t1 gems on 2-5mil solo mobs.

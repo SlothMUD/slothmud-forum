@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34969" data-author="Hung" data-date="2014-04-05T16:19:40+00:00">
+<div class="post" data-post-id="34969" data-author="Hung" data-date="2014-04-05T16:19:40+00:00" data-subject="Aisholm Stables">
 
 Is there any chance AH will have stables?
 

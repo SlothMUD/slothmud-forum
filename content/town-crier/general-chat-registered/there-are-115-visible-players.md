@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="28730" data-author="islq" data-date="2009-04-11T03:03:56+00:00">
+<div class="post" data-post-id="28730" data-author="islq" data-date="2009-04-11T03:03:56+00:00" data-subject="There are 115 visible players.">
 
 <294/294 255/255 95/95>1582166|3361|5:18 pm|Vk|Newbatia
 
@@ -260,7 +260,7 @@ Highest total since last bootup: 115.
 
 </div>
 
-<div class="post" data-post-id="28737" data-author="Yasik2" data-date="2009-04-11T03:53:15+00:00">
+<div class="post" data-post-id="28737" data-author="Yasik2" data-date="2009-04-11T03:53:15+00:00" data-subject="">
 
 Oh, at least i got into *legendary* who-list with decent title.
 

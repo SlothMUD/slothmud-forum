@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2943" data-author="*Splork*" data-date="2004-11-21T19:26:50+00:00">
+<div class="post" data-post-id="2943" data-author="*Splork*" data-date="2004-11-21T19:26:50+00:00" data-subject="Three New Warrior Skills: Bloodrage, Engage, and Entrench">
 
 Posted: Nov 16, 2004 - 10:24 AM    Post subject: Three new warrior 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="24703" data-author="*juggleblood*" data-date="2008-06-03T00:40:39+00:00">
+<div class="post" data-post-id="24703" data-author="*juggleblood*" data-date="2008-06-03T00:40:39+00:00" data-subject="Char Trade Wanted">
 
 Want to trade:
 

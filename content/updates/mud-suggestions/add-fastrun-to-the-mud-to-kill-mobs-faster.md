@@ -10,7 +10,7 @@ locked: false
 post_count: 26
 ---
 
-<div class="post" data-post-id="36407" data-author="Teron" data-date="2016-01-05T10:15:21+00:00">
+<div class="post" data-post-id="36407" data-author="Teron" data-date="2016-01-05T10:15:21+00:00" data-subject="Add Fastrun to the MUD to kill mobs faster">
 
 Greetings.
 
@@ -95,13 +95,13 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36408" data-author="Filk" data-date="2016-01-05T11:17:06+00:00">
+<div class="post" data-post-id="36408" data-author="Filk" data-date="2016-01-05T11:17:06+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 How that differs from your own personal run alias in your client, which you could make with all doors, flees, shifting ferrets etc? I see only skipping description part in your message. But they dont make runs any noticeble slower. as i see on my own speedwalk sets.
 
 </div>
 
-<div class="post" data-post-id="36409" data-author="Teron" data-date="2016-01-05T14:43:21+00:00">
+<div class="post" data-post-id="36409" data-author="Teron" data-date="2016-01-05T14:43:21+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 1. Newbies don't:
 
@@ -123,7 +123,7 @@ P.S. I'm now considering adding speed-running aliases in addition to group-frien
 
 </div>
 
-<div class="post" data-post-id="36410" data-author="*Splork*" data-date="2016-01-05T15:14:15+00:00">
+<div class="post" data-post-id="36410" data-author="*Splork*" data-date="2016-01-05T15:14:15+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 Its not a terrible idea just one which I don't think would as much an effect as you think it will. 
 
@@ -131,7 +131,7 @@ We would never add something which took away the danger of runs to and through a
 
 </div>
 
-<div class="post" data-post-id="36411" data-author="Teron" data-date="2016-01-05T16:13:59+00:00">
+<div class="post" data-post-id="36411" data-author="Teron" data-date="2016-01-05T16:13:59+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 I agree that aggro needs to stay. Who doesn't want to be ripped apart by a beholder in a nocast room.
 
@@ -149,7 +149,7 @@ As for impact on newbies, I agree that it is no magic pill. I still think that a
 
 </div>
 
-<div class="post" data-post-id="36412" data-author="cyprimus" data-date="2016-01-05T22:28:48+00:00">
+<div class="post" data-post-id="36412" data-author="cyprimus" data-date="2016-01-05T22:28:48+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 maybe just add a run command.
 
@@ -159,7 +159,7 @@ also cannot run while hiding sneaking et.c..
 
 </div>
 
-<div class="post" data-post-id="36413" data-author="*teker*" data-date="2016-01-06T03:50:25+00:00">
+<div class="post" data-post-id="36413" data-author="*teker*" data-date="2016-01-06T03:50:25+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 So is this a feature to run to the entrance of a zone?  Or would it be used to run around inside zones also to get to the next mob?  How would I get a list of potential destinations?
 
@@ -181,7 +181,7 @@ Do players consume movement points faster when running?  This is a huge problem 
 
 </div>
 
-<div class="post" data-post-id="36414" data-author="Filk" data-date="2016-01-06T08:42:44+00:00">
+<div class="post" data-post-id="36414" data-author="Filk" data-date="2016-01-06T08:42:44+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 I guess you dont expect answers on these questions, but just displayng that such addition is quite complicated for the output  :lol: 
 
@@ -189,7 +189,7 @@ Though i could add several more questions and problems to that list, but dont do
 
 </div>
 
-<div class="post" data-post-id="36415" data-author="Teron" data-date="2016-01-06T10:22:03+00:00">
+<div class="post" data-post-id="36415" data-author="Teron" data-date="2016-01-06T10:22:03+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 Fluffy, these questions are good product questions that needs answers. So ask more questions, so we have a deeper understanding of the mechanics, so that we have a more useful feature that imms can develop faster.
 
@@ -276,7 +276,7 @@ Tl;dr: Still need ideas on how to save mob aggro from a technical side. Since I 
 
 </div>
 
-<div class="post" data-post-id="36416" data-author="cyprimus" data-date="2016-01-06T11:05:48+00:00">
+<div class="post" data-post-id="36416" data-author="cyprimus" data-date="2016-01-06T11:05:48+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 I have also seen bypassing it with portals to area entrances in town... and teleports... but they ignore the intervening areas.. and usually take you to the last safe room on the way... ie-not past aggro mobs.
 
@@ -286,13 +286,13 @@ maybe a forge like the invitations etc..  but requires you to have completely ex
 
 </div>
 
-<div class="post" data-post-id="36417" data-author="Teron" data-date="2016-01-06T12:08:09+00:00">
+<div class="post" data-post-id="36417" data-author="Teron" data-date="2016-01-06T12:08:09+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 Portals from forges or autoquests can be a good idea, as well. Unfortunately, it doesn't help newbies a lot, because it is invisible to them, unless they get a portal in the inv or from newbie college.
 
 </div>
 
-<div class="post" data-post-id="36419" data-author="Dragoth" data-date="2016-01-06T15:28:50+00:00">
+<div class="post" data-post-id="36419" data-author="Dragoth" data-date="2016-01-06T15:28:50+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 Before wasting coder's resources to add or fix stuff shouldn't we first figure out the issue that we are trying to address ?
 
@@ -306,7 +306,7 @@ Either way I think I have to agree with Splork, this function isn't going to hav
 
 </div>
 
-<div class="post" data-post-id="36420" data-author="*Splork*" data-date="2016-01-06T17:02:04+00:00">
+<div class="post" data-post-id="36420" data-author="*Splork*" data-date="2016-01-06T17:02:04+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 I am still having a difficult time understanding how exactly this would help real newbies to Sloth. I have used fastwalk/run on some other muds and found that its not really as useful as a newbie as I thought it would be. A player needs to know different aspects of the game before it actually becomes useful such as names of areas you want to explore, names of mobs you want to visit, etc.  I can't count how many times on other games I have speedwalked to an area, died, and not had a clue how to get my equipment back.
 
@@ -318,7 +318,7 @@ For the record, I am not for or against this type of feature. I am against anyth
 
 </div>
 
-<div class="post" data-post-id="36421" data-author="*teker*" data-date="2016-01-06T17:05:46+00:00">
+<div class="post" data-post-id="36421" data-author="*teker*" data-date="2016-01-06T17:05:46+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 I'm going to go ahead and continue posing questions about this particular feature request to see how it hashes out.  I think the question of where resources should be spent would probably be better in another thread where we look at a variety of ideas from a higher/less detailed level.
 
@@ -366,7 +366,7 @@ Not very newbie friendly.
 
 </div>
 
-<div class="post" data-post-id="36424" data-author="*Breeze*" data-date="2016-01-06T20:02:21+00:00">
+<div class="post" data-post-id="36424" data-author="*Breeze*" data-date="2016-01-06T20:02:21+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 #
 
@@ -378,7 +378,7 @@ would go well with the idea I had to add in dodge/agility stats.
 
 </div>
 
-<div class="post" data-post-id="36431" data-author="Teron" data-date="2016-01-07T11:24:12+00:00">
+<div class="post" data-post-id="36431" data-author="Teron" data-date="2016-01-07T11:24:12+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 **Splork**/**Crumbs**, in short, fastruns means that:
 
@@ -448,7 +448,7 @@ Also, another way to know what to do, besides estimating conversions, is to actu
 
 </div>
 
-<div class="post" data-post-id="36433" data-author="Teron" data-date="2016-01-07T13:13:21+00:00">
+<div class="post" data-post-id="36433" data-author="Teron" data-date="2016-01-07T13:13:21+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 Teker,
 
@@ -492,7 +492,7 @@ So I'd suggest to stopping before rooms that require a person to fly or have a b
 
 </div>
 
-<div class="post" data-post-id="36435" data-author="*Splork*" data-date="2016-01-07T16:26:16+00:00">
+<div class="post" data-post-id="36435" data-author="*Splork*" data-date="2016-01-07T16:26:16+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 I believe that players should have exploration to 100% before they would ever be able to use a feature like this. This belief directly counters your initial ideas regarding the feature because you stated it would make it easier for real newbies to find areas to play in. I've already countered this thought process in my last post because these types of players simply do not possess the knowledge to use the feature. Although, this isn't much different from features like advice and others which newbies just don't know about...
 
@@ -524,7 +524,7 @@ This also has a huge effect on corpse retrievals and death in general. Plenty of
 
 </div>
 
-<div class="post" data-post-id="36439" data-author="Teron" data-date="2016-01-08T16:04:17+00:00">
+<div class="post" data-post-id="36439" data-author="Teron" data-date="2016-01-08T16:04:17+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 > ***Splork* wrote:**
 > I believe that players should have exploration to 100% before they would ever be able to use a feature like this. This belief directly counters your initial ideas regarding the feature because you stated it would make it easier for real newbies to find areas to play in. I've already countered this thought process in my last post because these types of players simply do not possess the knowledge to use the feature. Although, this isn't much different from features like advice and others which newbies just don't know about...
@@ -650,7 +650,7 @@ Even if you do believe that fastrunning will somehow help CRs, getting back EQ e
 
 </div>
 
-<div class="post" data-post-id="36441" data-author="*Splork*" data-date="2016-01-08T19:08:34+00:00">
+<div class="post" data-post-id="36441" data-author="*Splork*" data-date="2016-01-08T19:08:34+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 You are reading but not understanding what I am saying, which is fine. 
 
@@ -662,7 +662,7 @@ Enjoy,
 
 </div>
 
-<div class="post" data-post-id="36444" data-author="Teron" data-date="2016-01-09T08:28:18+00:00">
+<div class="post" data-post-id="36444" data-author="Teron" data-date="2016-01-09T08:28:18+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 Splork, I see that you want more active exploration and travelling, than fast running. I like the idea, too, but in my mind, slow random walking is what can drive the newbies in despair, if they don't find what to kill. Questions  "What do I kill after college" or "what do I kill on bh for xp?" are asked too often to be ignored, as well, meaning that this exploration *does not work*. No one visits the old library any more. Or knows about it.
 
@@ -676,7 +676,7 @@ Still, I'd prefer you clarify your point of view, because clearly I am not getti
 
 </div>
 
-<div class="post" data-post-id="36446" data-author="*Breeze*" data-date="2016-01-09T14:33:11+00:00">
+<div class="post" data-post-id="36446" data-author="*Breeze*" data-date="2016-01-09T14:33:11+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 more informative help files per area would be a useful/awesome thing that would help people decide what to kill after newbie school and even help older players remember areas they haven't run in awhile..  players can write them and submit to us and we can add them in.
 
@@ -684,19 +684,19 @@ we could even display a message after they leave newbie school that points to th
 
 </div>
 
-<div class="post" data-post-id="36467" data-author="*Breeze*" data-date="2016-01-15T20:06:23+00:00">
+<div class="post" data-post-id="36467" data-author="*Breeze*" data-date="2016-01-15T20:06:23+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 no takers?
 
 </div>
 
-<div class="post" data-post-id="36477" data-author="Teron" data-date="2016-01-16T13:25:43+00:00">
+<div class="post" data-post-id="36477" data-author="Teron" data-date="2016-01-16T13:25:43+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 I am going to do it, just not sure when. Guess I need to plan better.
 
 </div>
 
-<div class="post" data-post-id="36479" data-author="*Splork*" data-date="2016-01-16T15:01:31+00:00">
+<div class="post" data-post-id="36479" data-author="*Splork*" data-date="2016-01-16T15:01:31+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 We've spoke about doing a system very similar to what Taron has suggested many times, it really comes down to the vast amount of work it actually takes.
 
@@ -720,7 +720,7 @@ Its definitely something which we could add to over time but I honestly don't se
 
 </div>
 
-<div class="post" data-post-id="36487" data-author="Teron" data-date="2016-01-16T18:33:31+00:00">
+<div class="post" data-post-id="36487" data-author="Teron" data-date="2016-01-16T18:33:31+00:00" data-subject="Re: Add Fastrun to the MUD to kill mobs faster">
 
 Since the amount of areas is limited, the helpfiles can be written - all it takes is dedication, planning and perseverence.
 

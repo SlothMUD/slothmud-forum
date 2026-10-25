@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1244" data-author="thanatos" data-date="2004-08-03T15:15:07+00:00">
+<div class="post" data-post-id="1244" data-author="thanatos" data-date="2004-08-03T15:15:07+00:00" data-subject="WTB/WTT for Mithril Studded War Helm">
 
 Would like to buy or trade for this item.
 

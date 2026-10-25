@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="993" data-author="Ender" data-date="2004-07-09T04:12:17+00:00">
+<div class="post" data-post-id="993" data-author="Ender" data-date="2004-07-09T04:12:17+00:00" data-subject="Warrior Ideas">
 
 I've been kicking around ideas for warriors, and here are a couple that may or may not be worthy of the mud.  These won't exactly aid in battle... but they may help out all the same.
 

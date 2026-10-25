@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3235" data-author="Selane" data-date="2004-12-08T14:46:00+00:00">
+<div class="post" data-post-id="3235" data-author="Selane" data-date="2004-12-08T14:46:00+00:00" data-subject="Character for sale!">
 
 Not the best, but not the worst.  Might be fun to play...
 

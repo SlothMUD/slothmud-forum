@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="13901" data-author="Diazz_Dizazter" data-date="2006-09-04T18:17:50+00:00">
+<div class="post" data-post-id="13901" data-author="Diazz_Dizazter" data-date="2006-09-04T18:17:50+00:00" data-subject="Seeking stuff...">
 
 Need some stuff, a little for trade, mostly offering cash.  
 
@@ -32,7 +32,7 @@ thanks
 
 </div>
 
-<div class="post" data-post-id="13907" data-author="Diazz_Dizazter" data-date="2006-09-05T00:26:45+00:00">
+<div class="post" data-post-id="13907" data-author="Diazz_Dizazter" data-date="2006-09-05T00:26:45+00:00" data-subject="">
 
 also needed
 

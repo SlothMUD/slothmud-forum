@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34447" data-author="*juggleblood*" data-date="2013-09-24T18:01:36+00:00">
+<div class="post" data-post-id="34447" data-author="*juggleblood*" data-date="2013-09-24T18:01:36+00:00" data-subject="Misc recent typos.">
 
 Following typos have been corrected. Why didn't I fix typos in the help files you ask?  Too busy to learn how. Maybe later.
 

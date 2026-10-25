@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="7132" data-author="Blastem" data-date="2005-06-13T17:30:15+00:00">
+<div class="post" data-post-id="7132" data-author="Blastem" data-date="2005-06-13T17:30:15+00:00" data-subject="Crossroads Pops">
 
 ok lets start this with a run.
 
@@ -30,7 +30,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="7134" data-author="brand" data-date="2005-06-13T18:16:00+00:00">
+<div class="post" data-post-id="7134" data-author="brand" data-date="2005-06-13T18:16:00+00:00" data-subject="">
 
 Osric, Merlin and me have wrangled into this place twice now.  We've had a little more luck then just spellbooks here's two of them.
 

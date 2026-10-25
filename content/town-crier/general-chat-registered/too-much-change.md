@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="5344" data-author="Qa" data-date="2005-04-01T03:50:15+00:00">
+<div class="post" data-post-id="5344" data-author="Qa" data-date="2005-04-01T03:50:15+00:00" data-subject="Too much Change?">
 
 (from Splork)
 
@@ -22,13 +22,13 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="5345" data-author="Alberich" data-date="2005-04-01T04:54:45+00:00">
+<div class="post" data-post-id="5345" data-author="Alberich" data-date="2005-04-01T04:54:45+00:00" data-subject="">
 
 change is good, it keeps things interesting.  for the "where can i find these" people - for almost all the new manuals that i've seen, if you put even the slightest effort into actually reading the helpfiles, and perhaps thinking about the bookname, it's really not too hard for the great majority of them - some  (crippling strike is a good example) actually has the mobname in the helpfile!  what more you want?
 
 </div>
 
-<div class="post" data-post-id="5346" data-author="Weasel" data-date="2005-04-01T05:13:06+00:00">
+<div class="post" data-post-id="5346" data-author="Weasel" data-date="2005-04-01T05:13:06+00:00" data-subject="">
 
 T least it stops the shitfights that invariably occur when everyone is trying to pop the same manual at the same time.
 
@@ -38,7 +38,7 @@ T least it stops the shitfights that invariably occur when everyone is trying to
 
 </div>
 
-<div class="post" data-post-id="5347" data-author="Choong" data-date="2005-04-01T09:15:18+00:00">
+<div class="post" data-post-id="5347" data-author="Choong" data-date="2005-04-01T09:15:18+00:00" data-subject="&#x27;">
 
 It really depends on which stage of sloth you are in. If you are actively playing 5-8 hrs per day. I think its not much changes at all. But if you are like me, logging in at most 1 hr per day and struggling to finish a forge which used to take me a week or so, I guess the changes maybe too much for you. 
 
@@ -46,7 +46,7 @@ For me personally, I think its too much for the above reason. Guess I should ret
 
 </div>
 
-<div class="post" data-post-id="5355" data-author="Autolycos" data-date="2005-04-01T12:54:48+00:00">
+<div class="post" data-post-id="5355" data-author="Autolycos" data-date="2005-04-01T12:54:48+00:00" data-subject="">
 
 i think all the changes are exciting.  confusing & annoying to search and learn yes.  But it makes Sloth so much more fun.  Other muds resemble more like a lunch menu in comparison.  When i I came back after 2 years of retirement, there were 4 new classes, tons of new areas, and hundreds of new items.  *which I still havent quite got the hang of*  All i care is that alot of my old friends are still around, and i have made alot of new ones.  
 
@@ -54,7 +54,7 @@ ALL YOUR PLAYERBASE ARE BELONG TO ME!! :twisted:
 
 </div>
 
-<div class="post" data-post-id="5358" data-author="Qa" data-date="2005-04-01T13:13:53+00:00">
+<div class="post" data-post-id="5358" data-author="Qa" data-date="2005-04-01T13:13:53+00:00" data-subject="Re: &#x27;">
 
 For me personally, I think its too much for the above reason. Guess I should retire then, so will someone build an area called the nursing home for retirees like me to run   :D[/quote:n5y2kq9l]
 
@@ -64,7 +64,7 @@ Qa (aka 'Have you seen my dentures?  I left them somewhere.')
 
 </div>
 
-<div class="post" data-post-id="5372" data-author="Blastem" data-date="2005-04-01T16:51:31+00:00">
+<div class="post" data-post-id="5372" data-author="Blastem" data-date="2005-04-01T16:51:31+00:00" data-subject="">
 
 I like change myself keeps me looking for ways to exploit I mean use the new skills and spells.  But most of the newer skills are not going to be game breakers if you do not learn them so if you don't want to go book hunting just either sit back and run the mobs you've been running with the skills you've had, or if you want the skills pop the book or find someone to do it for you.  The only thing thats worrying me is a lot of the new skills seem to me to be more usefull in PvP/Pthieving situations than in general game play could be just because I just havn't played with them enough yet.
 
@@ -72,7 +72,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="5399" data-author="Blaster" data-date="2005-04-02T23:29:08+00:00">
+<div class="post" data-post-id="5399" data-author="Blaster" data-date="2005-04-02T23:29:08+00:00" data-subject="">
 
 I'm not one to get into rather the changes are good or not as I feel as long as the game isn't getting stale and keeps pushing to improve, the job of all immortals are being done and things are improving for the world.
 
@@ -86,7 +86,7 @@ Blaster
 
 </div>
 
-<div class="post" data-post-id="5403" data-author="Toxis" data-date="2005-04-03T03:25:26+00:00">
+<div class="post" data-post-id="5403" data-author="Toxis" data-date="2005-04-03T03:25:26+00:00" data-subject="">
 
 I like the changes, but popping books is a freaking nightmare.  I left for a year, and I can't even get one char 5% of the spells I'm missing.  I've spent days trying to pop a book with no luck.  I'm not the only one.  I think someone needs to take a poll "Do you think popping spellbooks and manuals is too hard?".  I'd love to play more characters, but trying to get books makes that impossible.
 
@@ -94,7 +94,7 @@ I like the changes, but popping books is a freaking nightmare.  I left for a yea
 
 </div>
 
-<div class="post" data-post-id="5404" data-author="Malison" data-date="2005-04-03T04:02:16+00:00">
+<div class="post" data-post-id="5404" data-author="Malison" data-date="2005-04-03T04:02:16+00:00" data-subject="">
 
 I like the changes as well.  I like to have all of the spells/skills, but I still end up just using the same things as I did before.  A lot of these things are really conditional, like hedge maze or sharpen.  On the other hand, when something like supplication comes in, it's just really cool, and worth the trouble of finding the book (okay, bad example, the book is everywhere.  New skills are working pretty well to even out the classes, too.  You can actually find warrior primes that aren't on Lyme now.
 
@@ -102,7 +102,7 @@ On the other hand, that might just be the massive influx of newbies that don't k
 
 </div>
 
-<div class="post" data-post-id="5440" data-author="Mace" data-date="2005-04-06T01:47:33+00:00">
+<div class="post" data-post-id="5440" data-author="Mace" data-date="2005-04-06T01:47:33+00:00" data-subject="">
 
 The quantity of changes has been quite impressive for Sloth.
 
@@ -158,7 +158,7 @@ However, the quality of changes has been lacking I would say.  :)
 
 </div>
 
-<div class="post" data-post-id="5443" data-author="Leaf" data-date="2005-04-06T11:05:40+00:00">
+<div class="post" data-post-id="5443" data-author="Leaf" data-date="2005-04-06T11:05:40+00:00" data-subject="">
 
 The quantity of changes has been quite impressive for Sloth.
 
@@ -218,7 +218,7 @@ with ac-10 still gets 1 hell of a beat down!
 
 </div>
 
-<div class="post" data-post-id="5444" data-author="12345" data-date="2005-04-06T12:21:39+00:00">
+<div class="post" data-post-id="5444" data-author="12345" data-date="2005-04-06T12:21:39+00:00" data-subject="">
 
 Between the liquor, the bed and the noise in my head
 
@@ -268,7 +268,7 @@ Dunno... getting beat down has certain advantages.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="5505" data-author="blackmore" data-date="2005-04-11T02:02:39+00:00">
+<div class="post" data-post-id="5505" data-author="blackmore" data-date="2005-04-11T02:02:39+00:00" data-subject="">
 
 I recently remembered a conversation I had with Blaster a year or two ago, when there were a number of changes being made that I thought were done too quickly and not being thought out well before being added to the game.  Blaster's comment was, these people aren't getting paid to code, and they want to do things.  Sloth had many years where the code was relatively stagnant because nobody wanted to code anything.  Now that there's a lot of coders offering to write code, do you tell them no?  You never know when the coders will go away again and sloth will have several years of very little being added.  You can get caught up then.
 

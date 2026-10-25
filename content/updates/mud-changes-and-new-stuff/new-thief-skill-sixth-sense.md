@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11696" data-author="*Splork*" data-date="2006-03-22T16:08:25+00:00">
+<div class="post" data-post-id="11696" data-author="*Splork*" data-date="2006-03-22T16:08:25+00:00" data-subject="New thief skill- Sixth Sense">
 
 This skill reaches deep into a player's soul, bringing
 

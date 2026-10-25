@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31739" data-author="Pbx" data-date="2010-09-08T18:41:41+00:00">
+<div class="post" data-post-id="31739" data-author="Pbx" data-date="2010-09-08T18:41:41+00:00" data-subject="More notes from my spies">
 
 Turns out that my mortal spies are good at more than just finding elemental citadels, eh?  Who would've guessed!  Anyway, this time they told me about some denizen or another of Valkyre, who happens to be an elemental as well, has started dabbling in some magical art or another.
 

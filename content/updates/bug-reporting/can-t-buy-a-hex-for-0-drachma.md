@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38459" data-author="Teron" data-date="2017-11-03T06:53:42+00:00">
+<div class="post" data-post-id="38459" data-author="Teron" data-date="2017-11-03T06:53:42+00:00" data-subject="can&#x27;t buy a hex for 0 drachma">
 
 The Dreamer's Haven
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="26209" data-author="Mike" data-date="2008-09-09T16:01:51+00:00">
+<div class="post" data-post-id="26209" data-author="Mike" data-date="2008-09-09T16:01:51+00:00" data-subject="Undead control info">
 
 I was wondering how much undead control gear affects necro pets and so I've run some tests and got this statistic:
 
@@ -96,7 +96,7 @@ Thanks
 
 </div>
 
-<div class="post" data-post-id="26213" data-author="Poggle" data-date="2008-09-10T00:14:08+00:00">
+<div class="post" data-post-id="26213" data-author="Poggle" data-date="2008-09-10T00:14:08+00:00" data-subject="">
 
 Thanks for sharing your data!
 
@@ -106,19 +106,19 @@ Now I don't have to do the work myself. :)
 
 </div>
 
-<div class="post" data-post-id="26214" data-author="Tap" data-date="2008-09-10T01:16:43+00:00">
+<div class="post" data-post-id="26214" data-author="Tap" data-date="2008-09-10T01:16:43+00:00" data-subject="">
 
 I might be wrong but I have heard +UC adds +hitroll/damroll to pets as well..
 
 </div>
 
-<div class="post" data-post-id="26218" data-author="Rodek" data-date="2008-09-10T10:45:14+00:00">
+<div class="post" data-post-id="26218" data-author="Rodek" data-date="2008-09-10T10:45:14+00:00" data-subject="">
 
 undead control adds significantly to hitroll also.  Test that one out too ;)
 
 </div>
 
-<div class="post" data-post-id="26219" data-author="Mike" data-date="2008-09-10T11:14:58+00:00">
+<div class="post" data-post-id="26219" data-author="Mike" data-date="2008-09-10T11:14:58+00:00" data-subject="">
 
 undead control adds significantly to hitroll also.  Test that one out too ;)[/quote:34nrbfcc]
 
@@ -130,7 +130,7 @@ PS And extra ac, and more dam and hps :)
 
 </div>
 
-<div class="post" data-post-id="26314" data-author="Liar" data-date="2008-09-14T19:51:41+00:00">
+<div class="post" data-post-id="26314" data-author="Liar" data-date="2008-09-14T19:51:41+00:00" data-subject="">
 
 Correct one is, that without any necro houses up, summon undead costs 20 mana
 

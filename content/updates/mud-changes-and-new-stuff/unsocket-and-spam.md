@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32954" data-author="*Splork*" data-date="2011-10-22T01:49:45+00:00">
+<div class="post" data-post-id="32954" data-author="*Splork*" data-date="2011-10-22T01:49:45+00:00" data-subject="Unsocket and spam">
 
 Upon reboot, new command unsocket will be in-game. 
 

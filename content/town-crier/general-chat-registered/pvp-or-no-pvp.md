@@ -10,7 +10,7 @@ locked: false
 post_count: 24
 ---
 
-<div class="post" data-post-id="29757" data-author="sirrico1" data-date="2009-08-05T01:44:09+00:00">
+<div class="post" data-post-id="29757" data-author="sirrico1" data-date="2009-08-05T01:44:09+00:00" data-subject="PvP or No PvP">
 
 I am not sure if this is a bug or deliberate but I always thought sloth was a NON PVP mud, tonight a player turned wyvern form and almost killed 3 people. Personaly I think that needs to be fixed so they get slapped by a demon or something instead of being treated like a mob.
 
@@ -22,7 +22,7 @@ I know this is not the first time this has happened and I am assuming it is beca
 
 </div>
 
-<div class="post" data-post-id="29761" data-author="*Splork*" data-date="2009-08-05T02:11:52+00:00">
+<div class="post" data-post-id="29761" data-author="*Splork*" data-date="2009-08-05T02:11:52+00:00" data-subject="">
 
 Very understandable and this has actually been a problem with shapeshift and forms since its inception. 
 
@@ -36,13 +36,13 @@ Rick
 
 </div>
 
-<div class="post" data-post-id="29762" data-author="Mosaix" data-date="2009-08-05T04:21:34+00:00">
+<div class="post" data-post-id="29762" data-author="Mosaix" data-date="2009-08-05T04:21:34+00:00" data-subject="">
 
 stfu sirrico.  Your not making much sense.
 
 </div>
 
-<div class="post" data-post-id="29763" data-author="sirrico1" data-date="2009-08-05T14:13:37+00:00">
+<div class="post" data-post-id="29763" data-author="sirrico1" data-date="2009-08-05T14:13:37+00:00" data-subject="">
 
 stfu sirrico.  Your not making much sense.[/quote:1h9qnyct]
 
@@ -50,7 +50,7 @@ stfu sirrico.  Your not making much sense.[/quote:1h9qnyct]
 
 </div>
 
-<div class="post" data-post-id="29765" data-author="*juggleblood*" data-date="2009-08-06T00:26:34+00:00">
+<div class="post" data-post-id="29765" data-author="*juggleblood*" data-date="2009-08-06T00:26:34+00:00" data-subject="">
 
 Did this individual (the pkiller) initiate combat using a special attack or just the regular kill cmd?
 
@@ -60,7 +60,7 @@ The kill command working against players seems strange to me. I don't believe it
 
 </div>
 
-<div class="post" data-post-id="29766" data-author="*Splork*" data-date="2009-08-06T00:43:21+00:00">
+<div class="post" data-post-id="29766" data-author="*Splork*" data-date="2009-08-06T00:43:21+00:00" data-subject="">
 
 Kill command does not work if shifted on other players and most special attacks of forms are already fixed apparently.
 
@@ -70,7 +70,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29767" data-author="sirrico1" data-date="2009-08-06T01:49:07+00:00">
+<div class="post" data-post-id="29767" data-author="sirrico1" data-date="2009-08-06T01:49:07+00:00" data-subject="">
 
 it happened when the player used a breathe weapon, I am assuming on a mob but it hit all of us at the well in SS and after the mob died he did not flee, he used the breathe weapon on 2 small mobs but all who were there got hit and started fighting. once he changed back the fighting stopped.
 
@@ -78,7 +78,7 @@ it happened when the player used a breathe weapon, I am assuming on a mob but it
 
 </div>
 
-<div class="post" data-post-id="29768" data-author="alias" data-date="2009-08-06T02:00:11+00:00">
+<div class="post" data-post-id="29768" data-author="alias" data-date="2009-08-06T02:00:11+00:00" data-subject="">
 
 all of them work and that's the point. One of the cool things about being a druid was being able to shift and kill someone even in so called safe rooms.
 
@@ -86,13 +86,13 @@ sorry to see these abilities changed.
 
 </div>
 
-<div class="post" data-post-id="29769" data-author="jezer" data-date="2009-08-06T19:22:31+00:00">
+<div class="post" data-post-id="29769" data-author="jezer" data-date="2009-08-06T19:22:31+00:00" data-subject="">
 
 Did any players have pets, some of the lower druid breath weapons area. Is it frost that areas? Can't remember.
 
 </div>
 
-<div class="post" data-post-id="29770" data-author="*juggleblood*" data-date="2009-08-06T21:02:03+00:00">
+<div class="post" data-post-id="29770" data-author="*juggleblood*" data-date="2009-08-06T21:02:03+00:00" data-subject="">
 
 One of the cool things about being a druid was being able to shift and kill someone even in so called safe rooms.[/quote:z013p13h]
 
@@ -102,7 +102,7 @@ Area affects will still be dangerous to other players, people will just have to 
 
 </div>
 
-<div class="post" data-post-id="29771" data-author="sirrico1" data-date="2009-08-06T21:28:20+00:00">
+<div class="post" data-post-id="29771" data-author="sirrico1" data-date="2009-08-06T21:28:20+00:00" data-subject="">
 
 Did any players have pets, some of the lower druid breath weapons area. Is it frost that areas? Can't remember.[/quote:po5fxcf6]
 
@@ -110,7 +110,7 @@ Did any players have pets, some of the lower druid breath weapons area. Is it fr
 
 </div>
 
-<div class="post" data-post-id="29772" data-author="Medios" data-date="2009-08-06T22:39:39+00:00">
+<div class="post" data-post-id="29772" data-author="Medios" data-date="2009-08-06T22:39:39+00:00" data-subject="">
 
 This drivel is worse than any political thread.
 
@@ -118,7 +118,7 @@ Is this what we've become?
 
 </div>
 
-<div class="post" data-post-id="29773" data-author="jezer" data-date="2009-08-06T22:55:29+00:00">
+<div class="post" data-post-id="29773" data-author="jezer" data-date="2009-08-06T22:55:29+00:00" data-subject="">
 
 Area affects will still be dangerous to other players, people will just have to be more careful.[/quote:3ubkv4tr]
 
@@ -126,7 +126,7 @@ Word. Toughen Up - you die in sloth when a monster makes the room a refrigerator
 
 </div>
 
-<div class="post" data-post-id="29774" data-author="sirrico1" data-date="2009-08-06T23:17:26+00:00">
+<div class="post" data-post-id="29774" data-author="sirrico1" data-date="2009-08-06T23:17:26+00:00" data-subject="">
 
 Area affects will still be dangerous to other players, people will just have to be more careful.[/quote:2kmipakk]
 
@@ -136,7 +136,7 @@ Word. Toughen Up - you die in sloth when a monster makes the room a refrigerator
 
 </div>
 
-<div class="post" data-post-id="29775" data-author="jezer" data-date="2009-08-07T00:48:01+00:00">
+<div class="post" data-post-id="29775" data-author="jezer" data-date="2009-08-07T00:48:01+00:00" data-subject="">
 
 A non PvP game should be just that NON PVP but hey, who cares right? let's just exploit the system and kill off the innocent to ruin the other person's fun.[/quote:2aj9kudq]
 
@@ -144,13 +144,13 @@ In your case it does sound appealing.
 
 </div>
 
-<div class="post" data-post-id="29776" data-author="Avatar" data-date="2009-08-07T01:01:54+00:00">
+<div class="post" data-post-id="29776" data-author="Avatar" data-date="2009-08-07T01:01:54+00:00" data-subject="breath weapons">
 
 I don't think that having a few abilities that initiate combat with other players makes this a pvp mud.  Like Splork said, if the person died then he would reimburse the lost xps.  If someone's doing this repeatedly to kill others, I'm sure that person would be corrected as well.
 
 </div>
 
-<div class="post" data-post-id="29777" data-author="sirrico1" data-date="2009-08-07T01:27:28+00:00">
+<div class="post" data-post-id="29777" data-author="sirrico1" data-date="2009-08-07T01:27:28+00:00" data-subject="">
 
 A non PvP game should be just that NON PVP but hey, who cares right? let's just exploit the system and kill off the innocent to ruin the other person's fun.[/quote:2cmpq7nf]
 
@@ -160,7 +160,7 @@ in my case I was in no danger of dieing, but my wife, Baby Niteraven and Paka we
 
 </div>
 
-<div class="post" data-post-id="29779" data-author="Jag" data-date="2009-08-07T12:54:56+00:00">
+<div class="post" data-post-id="29779" data-author="Jag" data-date="2009-08-07T12:54:56+00:00" data-subject="">
 
 I wasn't there so you can tell me to STFU, but here is my take on it. 
 
@@ -176,7 +176,7 @@ So, next time some newb area spells  people or pets, give them a good toss and t
 
 </div>
 
-<div class="post" data-post-id="29781" data-author="Dragoth" data-date="2009-08-07T21:09:13+00:00">
+<div class="post" data-post-id="29781" data-author="Dragoth" data-date="2009-08-07T21:09:13+00:00" data-subject="">
 
 HMm, it was I who did it.
 
@@ -190,7 +190,7 @@ Didnt think it would cause you guys so much pain and hardships. :(
 
 </div>
 
-<div class="post" data-post-id="29782" data-author="*juggleblood*" data-date="2009-08-07T21:22:41+00:00">
+<div class="post" data-post-id="29782" data-author="*juggleblood*" data-date="2009-08-07T21:22:41+00:00" data-subject="">
 
 This drivel is worse than any political thread.
 
@@ -204,7 +204,7 @@ Cheers.
 
 </div>
 
-<div class="post" data-post-id="29783" data-author="Medios" data-date="2009-08-07T21:43:01+00:00">
+<div class="post" data-post-id="29783" data-author="Medios" data-date="2009-08-07T21:43:01+00:00" data-subject="">
 
 Reimbursing xp for tomfoolery?  That is not the SlothMud that I know.  Hell we couldn't barely get an eq reimbursement for something that wasn't our fault in the past and now your saying that any time someone dies and gets on the crier and whines hes gonna get reimbursed xp?
 
@@ -216,13 +216,13 @@ Good day.
 
 </div>
 
-<div class="post" data-post-id="29784" data-author="alias" data-date="2009-08-07T21:44:42+00:00">
+<div class="post" data-post-id="29784" data-author="alias" data-date="2009-08-07T21:44:42+00:00" data-subject="">
 
 crabby old-skooler, ex-player, and now prob ex-poster. Enjoy the new mud folks , its just not for me.
 
 </div>
 
-<div class="post" data-post-id="29785" data-author="*Splork*" data-date="2009-08-07T23:02:28+00:00">
+<div class="post" data-post-id="29785" data-author="*Splork*" data-date="2009-08-07T23:02:28+00:00" data-subject="">
 
 There are plenty of old-schoolers from this game, especially since we have been up and running a solid 18+ years now.  
 
@@ -234,7 +234,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29795" data-author="*juggleblood*" data-date="2009-08-12T02:13:10+00:00">
+<div class="post" data-post-id="29795" data-author="*juggleblood*" data-date="2009-08-12T02:13:10+00:00" data-subject="">
 
 I'm cross generational: a whiny old skooler
 

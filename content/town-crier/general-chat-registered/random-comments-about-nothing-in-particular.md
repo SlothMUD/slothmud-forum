@@ -10,7 +10,7 @@ locked: false
 post_count: 425
 ---
 
-<div class="post" data-post-id="23262" data-author="Weasel" data-date="2008-03-18T06:14:05+00:00">
+<div class="post" data-post-id="23262" data-author="Weasel" data-date="2008-03-18T06:14:05+00:00" data-subject="random comments about nothing in particular">
 
 So stoked! Finally switched from DSL (3mbps d/l, 780kbps u/l) to cable today - currently running just under 15mbps d/l and 1.9 u/l, but the added dedicated boost pipe kicks in within the next 48hours and then I should be hitting up to 30mbps d/l and 5mbps u/l! This is awesome after DSL!! 
 
@@ -18,13 +18,13 @@ Wow and some countries have 100mbps d/l apparently.. insane!
 
 </div>
 
-<div class="post" data-post-id="23263" data-author="jezer" data-date="2008-03-18T06:24:29+00:00">
+<div class="post" data-post-id="23263" data-author="jezer" data-date="2008-03-18T06:24:29+00:00" data-subject="">
 
 :!:
 
 </div>
 
-<div class="post" data-post-id="23306" data-author="Weasel" data-date="2008-03-20T04:09:10+00:00">
+<div class="post" data-post-id="23306" data-author="Weasel" data-date="2008-03-20T04:09:10+00:00" data-subject="">
 
 sweet! 
 
@@ -36,7 +36,7 @@ multiple speed tests came out roughly the same.. nice.
 
 </div>
 
-<div class="post" data-post-id="23310" data-author="jezer" data-date="2008-03-20T04:24:59+00:00">
+<div class="post" data-post-id="23310" data-author="jezer" data-date="2008-03-20T04:24:59+00:00" data-subject="">
 
 shift ferret
 
@@ -62,13 +62,13 @@ Nod
 
 </div>
 
-<div class="post" data-post-id="23311" data-author="Weasel" data-date="2008-03-20T04:56:25+00:00">
+<div class="post" data-post-id="23311" data-author="Weasel" data-date="2008-03-20T04:56:25+00:00" data-subject="">
 
 lol
 
 </div>
 
-<div class="post" data-post-id="23359" data-author="alias" data-date="2008-03-22T14:11:10+00:00">
+<div class="post" data-post-id="23359" data-author="alias" data-date="2008-03-22T14:11:10+00:00" data-subject="">
 
 gratz on the bandwidth, its prob the best it will ever be. As soon others in your neighborhood start hooking up it will start dropping as cable is shared between everyone at the box. I would personally kill for 3Mbps dsl but alas Im stuck on 512 wireless until I move or die. 
 
@@ -76,13 +76,13 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="23363" data-author="Yasik2" data-date="2008-03-22T15:21:27+00:00">
+<div class="post" data-post-id="23363" data-author="Yasik2" data-date="2008-03-22T15:21:27+00:00" data-subject="">
 
 you definitely don't know what's 14.400 dial-up is
 
 </div>
 
-<div class="post" data-post-id="23364" data-author="Autolycos" data-date="2008-03-22T15:27:02+00:00">
+<div class="post" data-post-id="23364" data-author="Autolycos" data-date="2008-03-22T15:27:02+00:00" data-subject="">
 
 you definitely don't know what's 14.400 dial-up is[/quote:39cytrhr]
 
@@ -94,13 +94,13 @@ My first modem was a 1200bps for my Commodore Vic-20 in 1983!
 
 </div>
 
-<div class="post" data-post-id="23365" data-author="Yasik2" data-date="2008-03-22T15:53:35+00:00">
+<div class="post" data-post-id="23365" data-author="Yasik2" data-date="2008-03-22T15:53:35+00:00" data-subject="">
 
 oldfart detected...
 
 </div>
 
-<div class="post" data-post-id="23372" data-author="Medios" data-date="2008-03-23T00:15:01+00:00">
+<div class="post" data-post-id="23372" data-author="Medios" data-date="2008-03-23T00:15:01+00:00" data-subject="">
 
 What is up with this.  I clearly should have won.
 
@@ -170,7 +170,7 @@ You received 2387104 experience points.
 
 </div>
 
-<div class="post" data-post-id="23373" data-author="banedon" data-date="2008-03-23T01:30:49+00:00">
+<div class="post" data-post-id="23373" data-author="banedon" data-date="2008-03-23T01:30:49+00:00" data-subject="">
 
 you definitely don't know what's 14.400 dial-up is[/quote:2g2hx5d1]
 
@@ -184,7 +184,7 @@ First modem I used was a 600 baud to connect to the mainframe at the local colle
 
 </div>
 
-<div class="post" data-post-id="23374" data-author="Akasha" data-date="2008-03-23T02:11:46+00:00">
+<div class="post" data-post-id="23374" data-author="Akasha" data-date="2008-03-23T02:11:46+00:00" data-subject="">
 
 You caught a tick and the mob regened maybe?
 
@@ -256,7 +256,7 @@ You received 2387104 experience points.[/quote:1ofqurkl]
 
 </div>
 
-<div class="post" data-post-id="23396" data-author="Avatar" data-date="2008-03-24T17:35:08+00:00">
+<div class="post" data-post-id="23396" data-author="Avatar" data-date="2008-03-24T17:35:08+00:00" data-subject="modem memories">
 
 Yeah, I'm old.  We purchased our first modems as a pair, and initially only used them to 'network' two computers with null-modem cables.  300 baud baby!  I win!
 
@@ -272,7 +272,7 @@ Still, that wasn't even the first computer our family had when I was growing up.
 
 </div>
 
-<div class="post" data-post-id="23397" data-author="Alberich" data-date="2008-03-24T17:53:24+00:00">
+<div class="post" data-post-id="23397" data-author="Alberich" data-date="2008-03-24T17:53:24+00:00" data-subject="">
 
 while we're on the subject
 
@@ -286,7 +286,7 @@ I used to run an old Renegade BBS too, another buddy ran a Wildcat setup... good
 
 </div>
 
-<div class="post" data-post-id="23400" data-author="Yasik2" data-date="2008-03-24T18:32:04+00:00">
+<div class="post" data-post-id="23400" data-author="Yasik2" data-date="2008-03-24T18:32:04+00:00" data-subject="">
 
 i owned a Sinclair too, based on Z80A processor, made in USSR and it's name was 'Spark'
 
@@ -304,7 +304,7 @@ PS. no idea why there's a stars replacing the name, but it was 'S.p.a.r.k.' (w/o
 
 </div>
 
-<div class="post" data-post-id="23466" data-author="Weasel" data-date="2008-03-27T09:11:00+00:00">
+<div class="post" data-post-id="23466" data-author="Weasel" data-date="2008-03-27T09:11:00+00:00" data-subject="">
 
 gratz on the bandwidth, its prob the best it will ever be. As soon others in your neighborhood start hooking up it will start dropping as cable is shared between everyone at the box. I would personally kill for 3Mbps dsl but alas Im stuck on 512 wireless until I move or die. 
 
@@ -314,7 +314,7 @@ Thanks :) Fortunately I have what I guess equates to dedicated pipe bandwidth - 
 
 </div>
 
-<div class="post" data-post-id="23467" data-author="Weasel" data-date="2008-03-27T09:13:07+00:00">
+<div class="post" data-post-id="23467" data-author="Weasel" data-date="2008-03-27T09:13:07+00:00" data-subject="">
 
 Had a Commodore Amiga 500 for years - loved that little beast! 
 
@@ -322,7 +322,7 @@ Remember playing around on TRS80's waaay back..
 
 </div>
 
-<div class="post" data-post-id="23481" data-author="banedon" data-date="2008-03-28T04:13:03+00:00">
+<div class="post" data-post-id="23481" data-author="banedon" data-date="2008-03-28T04:13:03+00:00" data-subject="">
 
 Had a couple classics
 
@@ -334,7 +334,7 @@ Oh and lets not forget one magic word - BASIC
 
 </div>
 
-<div class="post" data-post-id="23487" data-author="alias" data-date="2008-03-28T15:42:26+00:00">
+<div class="post" data-post-id="23487" data-author="alias" data-date="2008-03-28T15:42:26+00:00" data-subject="">
 
 very nice, not exactly sure why u want such a big pipe but it would be nice.
 
@@ -350,7 +350,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="23488" data-author="Yasik2" data-date="2008-03-28T16:05:57+00:00">
+<div class="post" data-post-id="23488" data-author="Yasik2" data-date="2008-03-28T16:05:57+00:00" data-subject="">
 
 very nice, not exactly sure why u want such a big pipe but it would be nice.[/quote:2zv8829y]
 
@@ -358,7 +358,7 @@ very nice, not exactly sure why u want such a big pipe but it would be nice.[/qu
 
 </div>
 
-<div class="post" data-post-id="23489" data-author="Weasel" data-date="2008-03-28T17:12:42+00:00">
+<div class="post" data-post-id="23489" data-author="Weasel" data-date="2008-03-28T17:12:42+00:00" data-subject="">
 
 enjoy the pipe sir but don't let your palms get too hairy
 
@@ -376,13 +376,13 @@ Novelty has worn off a little now - just had to post when I first got it - could
 
 </div>
 
-<div class="post" data-post-id="23490" data-author="Leaf" data-date="2008-03-28T17:28:23+00:00">
+<div class="post" data-post-id="23490" data-author="Leaf" data-date="2008-03-28T17:28:23+00:00" data-subject="">
 
 Nerds!
 
 </div>
 
-<div class="post" data-post-id="23492" data-author="alias" data-date="2008-03-28T20:30:48+00:00">
+<div class="post" data-post-id="23492" data-author="alias" data-date="2008-03-28T20:30:48+00:00" data-subject="">
 
 unless you paid for a static ip then its not, what happens is your router will request a renewal of your current ip from the dhcp server. If the power doesn't go out and you lose connection to the isp you will prob keep the same ip addy.
 
@@ -394,7 +394,7 @@ Nerd ? yes but this is what I go to school for and enjoy it immensely.
 
 </div>
 
-<div class="post" data-post-id="23494" data-author="Weasel" data-date="2008-03-28T21:22:56+00:00">
+<div class="post" data-post-id="23494" data-author="Weasel" data-date="2008-03-28T21:22:56+00:00" data-subject="">
 
 Didn't pay for static, but just been away to Las Vegas for 5 days and had powered everything off.. IP still the same now we're back.
 
@@ -406,7 +406,7 @@ Oh and yes, Dynamic Domain Name Server (DDNS) is available at no additional cost
 
 </div>
 
-<div class="post" data-post-id="23510" data-author="Tap" data-date="2008-03-30T17:32:16+00:00">
+<div class="post" data-post-id="23510" data-author="Tap" data-date="2008-03-30T17:32:16+00:00" data-subject="">
 
 Sorry furball but this is right up your alley and no joke :twisted: 
 
@@ -428,7 +428,7 @@ Prosecutors said alcohol played a large part in Cradock's life, although his def
 
 </div>
 
-<div class="post" data-post-id="23511" data-author="Tap" data-date="2008-03-30T17:35:20+00:00">
+<div class="post" data-post-id="23511" data-author="Tap" data-date="2008-03-30T17:35:20+00:00" data-subject="">
 
 If only we could edit our post::: sigh
 
@@ -440,7 +440,7 @@ Story Below
 
 </div>
 
-<div class="post" data-post-id="23512" data-author="Yasik2" data-date="2008-03-30T18:23:57+00:00">
+<div class="post" data-post-id="23512" data-author="Yasik2" data-date="2008-03-30T18:23:57+00:00" data-subject="">
 
 If only we could edit our post::: sigh[/quote:3l5l4rdr]
 
@@ -448,7 +448,7 @@ If only we could edit our post::: sigh[/quote:3l5l4rdr]
 
 </div>
 
-<div class="post" data-post-id="23513" data-author="Weasel" data-date="2008-03-30T18:53:44+00:00">
+<div class="post" data-post-id="23513" data-author="Weasel" data-date="2008-03-30T18:53:44+00:00" data-subject="">
 
 Sorry furball but this is right up your alley and no joke :twisted: 
 
@@ -474,7 +474,7 @@ Btw we don't have wombats in NZ - they're native to Australia.
 
 </div>
 
-<div class="post" data-post-id="23516" data-author="Rynquald" data-date="2008-03-30T23:32:24+00:00">
+<div class="post" data-post-id="23516" data-author="Rynquald" data-date="2008-03-30T23:32:24+00:00" data-subject="">
 
 "using a phone for a fictitious purpose", they think of some great names for these minor crimes don't they.
 
@@ -482,7 +482,7 @@ Was pretty funny though.
 
 </div>
 
-<div class="post" data-post-id="23517" data-author="jezer" data-date="2008-03-30T23:46:36+00:00">
+<div class="post" data-post-id="23517" data-author="jezer" data-date="2008-03-30T23:46:36+00:00" data-subject="">
 
 Why don't the police catch a REAL criminal... ?
 
@@ -494,7 +494,7 @@ I've found Australian's far more racial... but I guess America is probably worse
 
 </div>
 
-<div class="post" data-post-id="23518" data-author="Yasik2" data-date="2008-03-31T03:45:16+00:00">
+<div class="post" data-post-id="23518" data-author="Yasik2" data-date="2008-03-31T03:45:16+00:00" data-subject="">
 
 When you are admitted to a hospital, they place on your wrist a white wristband with your name on it. But there are other different colored wristbands which symbolizes other things. The red wristbands are placed on dead people.
 
@@ -506,13 +506,13 @@ The woman smiled and raised her arm: "Something like this?"
 
 </div>
 
-<div class="post" data-post-id="23520" data-author="Rynquald" data-date="2008-03-31T04:42:31+00:00">
+<div class="post" data-post-id="23520" data-author="Rynquald" data-date="2008-03-31T04:42:31+00:00" data-subject="">
 
 Actually, we do have native animals other than birds. There are fish, insects and other invertebrates, reptiles, amphibians, land mammals(only bats), marine mammals, and of course birds.
 
 </div>
 
-<div class="post" data-post-id="23521" data-author="jezer" data-date="2008-03-31T06:21:58+00:00">
+<div class="post" data-post-id="23521" data-author="jezer" data-date="2008-03-31T06:21:58+00:00" data-subject="">
 
 [quote:2cqm0x1p]With the exception of two species of bat, no indigenous mammals are native to New Zealand. The only other wild mammals at present are those that have been introduced and they are usually considered as pests. These includes deer, goats, pigs, rabbits, weasels, ferrets, and the Australian opossum, as well as domesticated animals such as dogs and cats. New Zealand contains no snakes and has only one poisonous spider called the Katipo, which is related to the Australian Redback. The Katipo is very rare and its bite is never lethal.[/quote:2cqm0x1p]
 
@@ -520,7 +520,7 @@ So there you have it, we got two... that's if Ryn's alt hasn't triple stabbed th
 
 </div>
 
-<div class="post" data-post-id="23593" data-author="brady" data-date="2008-04-04T23:25:55+00:00">
+<div class="post" data-post-id="23593" data-author="brady" data-date="2008-04-04T23:25:55+00:00" data-subject="">
 
 ??
 
@@ -544,31 +544,31 @@ A female green dragon seems to be blinded!
 
 </div>
 
-<div class="post" data-post-id="23594" data-author="Tap" data-date="2008-04-04T23:54:34+00:00">
+<div class="post" data-post-id="23594" data-author="Tap" data-date="2008-04-04T23:54:34+00:00" data-subject="">
 
 2 sets of eyes, mystery solved. Lets get back to annoying animals. That weasel on South Park was hilarious.
 
 </div>
 
-<div class="post" data-post-id="23603" data-author="alias" data-date="2008-04-06T17:32:41+00:00">
+<div class="post" data-post-id="23603" data-author="alias" data-date="2008-04-06T17:32:41+00:00" data-subject="">
 
 Been that way for quite some time...the proc gives it a chance to blind but the mob can still save, thus u can still blind it.
 
 </div>
 
-<div class="post" data-post-id="23604" data-author="Tap" data-date="2008-04-06T18:56:47+00:00">
+<div class="post" data-post-id="23604" data-author="Tap" data-date="2008-04-06T18:56:47+00:00" data-subject="">
 
 Be glad death is more permanent.Killing something then having it still brutally massacre you after death would <deleted> nvm, don't wanan give the Imm's any ideas....
 
 </div>
 
-<div class="post" data-post-id="23605" data-author="12345" data-date="2008-04-06T20:11:59+00:00">
+<div class="post" data-post-id="23605" data-author="12345" data-date="2008-04-06T20:11:59+00:00" data-subject="">
 
 Is there a Scientologist in the house that could claim copyright on Tap?
 
 </div>
 
-<div class="post" data-post-id="23606" data-author="jezer" data-date="2008-04-06T23:40:37+00:00">
+<div class="post" data-post-id="23606" data-author="jezer" data-date="2008-04-06T23:40:37+00:00" data-subject="">
 
 What the heck is it with New Zealanders, Animals and the police at the moment..? probably just Australian media...
 
@@ -588,7 +588,7 @@ When I came here to post this I typed... [http://www.slothmug.org](http://www.sl
 
 </div>
 
-<div class="post" data-post-id="23607" data-author="jezer" data-date="2008-04-06T23:46:03+00:00">
+<div class="post" data-post-id="23607" data-author="jezer" data-date="2008-04-06T23:46:03+00:00" data-subject="">
 
 If it were a weasel and not a hedgehog he killed...
 
@@ -596,13 +596,13 @@ He woulda got 1 year for the assault, and reduced sentence for killing da weasel
 
 </div>
 
-<div class="post" data-post-id="23609" data-author="Weasel" data-date="2008-04-07T03:32:35+00:00">
+<div class="post" data-post-id="23609" data-author="Weasel" data-date="2008-04-07T03:32:35+00:00" data-subject="">
 
 prepare to die  ...by hedgehog!
 
 </div>
 
-<div class="post" data-post-id="23630" data-author="Tap" data-date="2008-04-08T23:45:41+00:00">
+<div class="post" data-post-id="23630" data-author="Tap" data-date="2008-04-08T23:45:41+00:00" data-subject="">
 
 [quote:209j1hh5]12345  	
 
@@ -618,7 +618,7 @@ Have a Nice Day
 
 </div>
 
-<div class="post" data-post-id="23631" data-author="jezer" data-date="2008-04-09T01:12:24+00:00">
+<div class="post" data-post-id="23631" data-author="jezer" data-date="2008-04-09T01:12:24+00:00" data-subject="">
 
 Announcing New Sloth Player Difficulty Settings! (Doom Style...)
 
@@ -638,7 +638,7 @@ Impossible: 	6, Lie still! You are Perm DEAD! :-(
 
 </div>
 
-<div class="post" data-post-id="23636" data-author="Yasik2" data-date="2008-04-09T05:52:12+00:00">
+<div class="post" data-post-id="23636" data-author="Yasik2" data-date="2008-04-09T05:52:12+00:00" data-subject="">
 
 Look 12345, I wish you would stick to one name. Either direct your stupid asinine comments as 12345 or your other post name Yasik/Yasik2.[/quote:1ouuskt2]
 
@@ -654,37 +654,37 @@ Pic about you:
 
 </div>
 
-<div class="post" data-post-id="23650" data-author="Weasel" data-date="2008-04-10T14:40:05+00:00">
+<div class="post" data-post-id="23650" data-author="Weasel" data-date="2008-04-10T14:40:05+00:00" data-subject="">
 
 Can you believe this sh*t - Paris Hilton has been accepted to Harvard University... she never even passed her high school diploma, and had to sit GED in order to get it, known drug abuser, has a criminal record and has done jail time, yet Harvard takes her in.. fack Harvard, that so devalues their degree program. Meanwhile other people who score hugely on GMATs and already have graduate degrees don't get in because they're not from some wealthy family. Elitist a55holes. I really despise Paris Hilton, she is made a role model yet she represents everything wrong with youth today - believe they're entitled to everything, are not willing to lift a finger to earn anything, and are dumb as a bag of hammers. Pathetic, absolutely pathetic. And what's the bet, like G W Bush (who actually was rejected by state university before he went to ivy-league), she wont do any work, miss most of her lectures, and yet will somehow manage to pass with the minimum required C average, which will be awarded to her because she's a Hilton. WTF? Slap that b*tch.
 
 </div>
 
-<div class="post" data-post-id="23663" data-author="jezer" data-date="2008-04-11T01:12:51+00:00">
+<div class="post" data-post-id="23663" data-author="jezer" data-date="2008-04-11T01:12:51+00:00" data-subject="">
 
 [img:ihyjtuqw]http://www.leapfreak.com/images/weasel.jpg[/img:ihyjtuqw]
 
 </div>
 
-<div class="post" data-post-id="23667" data-author="Tap" data-date="2008-04-11T02:39:14+00:00">
+<div class="post" data-post-id="23667" data-author="Tap" data-date="2008-04-11T02:39:14+00:00" data-subject="">
 
 Leave Paris alone!!!
 
 </div>
 
-<div class="post" data-post-id="23670" data-author="Weasel" data-date="2008-04-11T04:00:27+00:00">
+<div class="post" data-post-id="23670" data-author="Weasel" data-date="2008-04-11T04:00:27+00:00" data-subject="">
 
 ROFL x2
 
 </div>
 
-<div class="post" data-post-id="23673" data-author="Yasik2" data-date="2008-04-11T05:25:31+00:00">
+<div class="post" data-post-id="23673" data-author="Yasik2" data-date="2008-04-11T05:25:31+00:00" data-subject="">
 
 totally agree  :evil:
 
 </div>
 
-<div class="post" data-post-id="23680" data-author="Weasel" data-date="2008-04-11T18:31:48+00:00">
+<div class="post" data-post-id="23680" data-author="Weasel" data-date="2008-04-11T18:31:48+00:00" data-subject="">
 
 p.s. Paris Hilton thought Wal-Mart sold walls... 
 
@@ -692,7 +692,7 @@ clueless.
 
 </div>
 
-<div class="post" data-post-id="23715" data-author="Tap" data-date="2008-04-13T18:32:13+00:00">
+<div class="post" data-post-id="23715" data-author="Tap" data-date="2008-04-13T18:32:13+00:00" data-subject="">
 
 Yanks unearth Sox jersey at new stadium
 
@@ -708,7 +708,7 @@ The Yankees plan to donate the jersey to charity, and
 
 </div>
 
-<div class="post" data-post-id="23721" data-author="jezer" data-date="2008-04-14T02:18:25+00:00">
+<div class="post" data-post-id="23721" data-author="jezer" data-date="2008-04-14T02:18:25+00:00" data-subject="">
 
 If mud classo's had wheels...
 
@@ -730,7 +730,7 @@ Thief - The worlds most powerful motorbike, with a teaspoon of petrol
 
 </div>
 
-<div class="post" data-post-id="23955" data-author="Weasel" data-date="2008-04-23T17:05:30+00:00">
+<div class="post" data-post-id="23955" data-author="Weasel" data-date="2008-04-23T17:05:30+00:00" data-subject="">
 
 All we hear these days is whining from reckless home borrowers and their banks.
 
@@ -750,7 +750,7 @@ do it.
 
 </div>
 
-<div class="post" data-post-id="23958" data-author="alias" data-date="2008-04-23T17:28:17+00:00">
+<div class="post" data-post-id="23958" data-author="alias" data-date="2008-04-23T17:28:17+00:00" data-subject="">
 
 If mud classo's had wheels...
 
@@ -774,7 +774,7 @@ Clerics should be offended...fords suck.
 
 </div>
 
-<div class="post" data-post-id="24007" data-author="brady" data-date="2008-04-24T03:57:00+00:00">
+<div class="post" data-post-id="24007" data-author="brady" data-date="2008-04-24T03:57:00+00:00" data-subject="">
 
 Demo Bowl for the win!  Am I the only one that has never heard of this?
 
@@ -782,7 +782,7 @@ Demo Bowl for the win!  Am I the only one that has never heard of this?
 
 </div>
 
-<div class="post" data-post-id="24109" data-author="Weasel" data-date="2008-04-30T04:18:38+00:00">
+<div class="post" data-post-id="24109" data-author="Weasel" data-date="2008-04-30T04:18:38+00:00" data-subject="">
 
 most effective pickup line of all time: 
 
@@ -790,7 +790,7 @@ most effective pickup line of all time:
 
 </div>
 
-<div class="post" data-post-id="24222" data-author="Weasel" data-date="2008-05-06T04:26:28+00:00">
+<div class="post" data-post-id="24222" data-author="Weasel" data-date="2008-05-06T04:26:28+00:00" data-subject="">
 
 overheard in NYC:
 
@@ -804,7 +804,7 @@ Tom: Thanks.
 
 </div>
 
-<div class="post" data-post-id="24239" data-author="*juggleblood*" data-date="2008-05-07T15:26:10+00:00">
+<div class="post" data-post-id="24239" data-author="*juggleblood*" data-date="2008-05-07T15:26:10+00:00" data-subject="">
 
 Women's Love Poem
 
@@ -848,7 +848,7 @@ doesn't rhyme and I don't give a shit.
 
 </div>
 
-<div class="post" data-post-id="24244" data-author="Weasel" data-date="2008-05-08T04:42:08+00:00">
+<div class="post" data-post-id="24244" data-author="Weasel" data-date="2008-05-08T04:42:08+00:00" data-subject="">
 
 Warbit gossips-- 'with is the pklanet of the nymphos?..need directions'
 
@@ -856,7 +856,7 @@ brilliant.
 
 </div>
 
-<div class="post" data-post-id="24326" data-author="brady" data-date="2008-05-13T10:55:13+00:00">
+<div class="post" data-post-id="24326" data-author="brady" data-date="2008-05-13T10:55:13+00:00" data-subject="">
 
 Experience for tanking
 
@@ -880,7 +880,7 @@ LEVEL
 
 </div>
 
-<div class="post" data-post-id="24327" data-author="Autolycos" data-date="2008-05-13T16:58:19+00:00">
+<div class="post" data-post-id="24327" data-author="Autolycos" data-date="2008-05-13T16:58:19+00:00" data-subject="">
 
 [i:byp6637m][b:byp6637m]7 Firebrand 99 [/b:byp6637m][/i:byp6637m][/quote:byp6637m]
 
@@ -888,7 +888,7 @@ tankin grymlyns aint easy  :roll:
 
 </div>
 
-<div class="post" data-post-id="24328" data-author="Yinao" data-date="2008-05-13T17:16:04+00:00">
+<div class="post" data-post-id="24328" data-author="Yinao" data-date="2008-05-13T17:16:04+00:00" data-subject="">
 
 Someone please explain wtf over takes nearly three minutes to get a successful berserk at 85%?
 
@@ -926,13 +926,13 @@ berserk                   - Lvl: 11,           Learned  85%
 
 </div>
 
-<div class="post" data-post-id="24329" data-author="Autolycos" data-date="2008-05-13T18:23:44+00:00">
+<div class="post" data-post-id="24329" data-author="Autolycos" data-date="2008-05-13T18:23:44+00:00" data-subject="">
 
 have you ever thought for a minute that you just might really like KITTENS!!!!  :x
 
 </div>
 
-<div class="post" data-post-id="24378" data-author="Tap" data-date="2008-05-17T23:53:19+00:00">
+<div class="post" data-post-id="24378" data-author="Tap" data-date="2008-05-17T23:53:19+00:00" data-subject="Pirate Rant">
 
 I take a break from Sloth and go to my local steakhouse called Santa Fe. I sit down and order an appetizer and sweet tea and look over the menu. Hrm.. a nice New York strip would be good tonite. I place my order, make small talk with the wife and we look at the pictures/memorobilla on the walls and admire the stuffed animals they have on display. So far so good... it seems like its going to be a decent evening... 
 
@@ -944,7 +944,7 @@ I blame Auto
 
 </div>
 
-<div class="post" data-post-id="24381" data-author="Weasel" data-date="2008-05-18T02:53:52+00:00">
+<div class="post" data-post-id="24381" data-author="Weasel" data-date="2008-05-18T02:53:52+00:00" data-subject="Re: Pirate Rant">
 
 I take a break from Sloth and go to my local [b:3a0anndy]streakhouse[/b:3a0anndy].. [/quote:3a0anndy]
 
@@ -954,7 +954,7 @@ so.. you went to a nudie bar.. with your Mrs...
 
 </div>
 
-<div class="post" data-post-id="24408" data-author="Autolycos" data-date="2008-05-20T13:47:14+00:00">
+<div class="post" data-post-id="24408" data-author="Autolycos" data-date="2008-05-20T13:47:14+00:00" data-subject="Re: Pirate Rant">
 
 So, our waitress brings out our meals and right there... in the very center of my steak... is a goddamned plastic pirate sword. WTF!!!!!!
 
@@ -968,7 +968,7 @@ Finally our diabolical plan to infiltrate all of the sliced bovine broiling  est
 
 </div>
 
-<div class="post" data-post-id="24484" data-author="angel" data-date="2008-05-24T08:14:45+00:00">
+<div class="post" data-post-id="24484" data-author="angel" data-date="2008-05-24T08:14:45+00:00" data-subject="">
 
 > Seda -- 'The bank teller tells you 'Cizin just deposited 127500000 coins into 
 
@@ -1022,7 +1022,7 @@ Seda -- 'women! yes'
 
 </div>
 
-<div class="post" data-post-id="24527" data-author="PolkAdotS" data-date="2008-05-27T03:50:27+00:00">
+<div class="post" data-post-id="24527" data-author="PolkAdotS" data-date="2008-05-27T03:50:27+00:00" data-subject="Re: Pirate Rant">
 
 So far so good... it seems like its going to be a decent evening... 
 
@@ -1036,7 +1036,7 @@ Well, that break from sloth seemed to have lasted you around dinner?  That must 
 
 </div>
 
-<div class="post" data-post-id="24529" data-author="Tap" data-date="2008-05-27T03:58:18+00:00">
+<div class="post" data-post-id="24529" data-author="Tap" data-date="2008-05-27T03:58:18+00:00" data-subject="">
 
 Wow!! You responded to a post 6 days old. You are sharp as a knife. I'm telling you guys, don't mess with PoldAdotS. Scold points on pointing me out as a loser.
 
@@ -1044,7 +1044,7 @@ Wow!! You responded to a post 6 days old. You are sharp as a knife. I'm telling 
 
 </div>
 
-<div class="post" data-post-id="24533" data-author="PolkAdotS" data-date="2008-05-27T04:08:55+00:00">
+<div class="post" data-post-id="24533" data-author="PolkAdotS" data-date="2008-05-27T04:08:55+00:00" data-subject="">
 
 Tap this profile didn't exist 6 days ago... I am making up for lost time, and permenantly ignoring you.
 
@@ -1052,7 +1052,7 @@ Tap this profile didn't exist 6 days ago... I am making up for lost time, and pe
 
 </div>
 
-<div class="post" data-post-id="24535" data-author="jezer" data-date="2008-05-27T07:24:08+00:00">
+<div class="post" data-post-id="24535" data-author="jezer" data-date="2008-05-27T07:24:08+00:00" data-subject="">
 
 [img:289c22cn]http://ministrywatchman.com/wp-content/uploads/argue.jpg[/img:289c22cn]
 
@@ -1060,7 +1060,7 @@ Tap this profile didn't exist 6 days ago... I am making up for lost time, and pe
 
 </div>
 
-<div class="post" data-post-id="24600" data-author="Weasel" data-date="2008-05-30T03:36:30+00:00">
+<div class="post" data-post-id="24600" data-author="Weasel" data-date="2008-05-30T03:36:30+00:00" data-subject="IMPEACH PELOSI">
 
 Pelosi is a fapping b*tch. Months ago Pelosi screamed over and over (like the harpy she is) that Iran was not involved in supporting insurgents in Iraq, despite proof to the contrary, and accused Bush & co of manufacturing evidence in order to provoke hostilities with Iran and go ahead with the 'surge'. Of course the MSM supported her, and a huge amount of the citizens of USA followed along with the spoonfed lies like a bunch of stupid lemmings. 
 
@@ -1070,7 +1070,7 @@ There is no way this hate-filled b*tch should be in the position she is, when cl
 
 </div>
 
-<div class="post" data-post-id="24605" data-author="Tap" data-date="2008-05-30T09:06:54+00:00">
+<div class="post" data-post-id="24605" data-author="Tap" data-date="2008-05-30T09:06:54+00:00" data-subject="">
 
 You'd be better off sitting back and enjoying your cup of coffee and enjoy the ride. The next 2-4 years will certainly "change" the way you have lived.
 
@@ -1078,7 +1078,7 @@ You'd be better off sitting back and enjoying your cup of coffee and enjoy the r
 
 </div>
 
-<div class="post" data-post-id="24608" data-author="*juggleblood*" data-date="2008-05-30T13:40:14+00:00">
+<div class="post" data-post-id="24608" data-author="*juggleblood*" data-date="2008-05-30T13:40:14+00:00" data-subject="Re: IMPEACH PELOSI">
 
 that Iran was not involved in supporting insurgents in Iraq, despite proof to the contrary,....Now the surge appears to have actually given results, [/quote:15j72vi3]
 
@@ -1092,7 +1092,7 @@ You sound like you know about as much as Pelosi or McCain.
 
 </div>
 
-<div class="post" data-post-id="24611" data-author="Weasel" data-date="2008-05-30T14:32:59+00:00">
+<div class="post" data-post-id="24611" data-author="Weasel" data-date="2008-05-30T14:32:59+00:00" data-subject="Re: IMPEACH PELOSI">
 
 that Iran was not involved in supporting insurgents in Iraq, despite proof to the contrary,....Now the surge appears to have actually given results, [/quote:101a3yoc]
 
@@ -1116,7 +1116,7 @@ And for the record, I do not support McCain. I do not like war. BUT my post was 
 
 </div>
 
-<div class="post" data-post-id="24612" data-author="Weasel" data-date="2008-05-30T14:34:47+00:00">
+<div class="post" data-post-id="24612" data-author="Weasel" data-date="2008-05-30T14:34:47+00:00" data-subject="">
 
 You'd be better off sitting back and enjoying your cup of coffee and enjoy the ride. The next 2-4 years will certainly "change" the way you have lived.  :evil:[/quote:2dgyak4b]
 
@@ -1124,13 +1124,13 @@ You're not wrong there Tap. Not like we have much choice either.
 
 </div>
 
-<div class="post" data-post-id="24615" data-author="Alberich" data-date="2008-05-30T14:44:08+00:00">
+<div class="post" data-post-id="24615" data-author="Alberich" data-date="2008-05-30T14:44:08+00:00" data-subject="">
 
 dude... you really need to start reading beyond Fox, the drudge report and that crazy malkin chick
 
 </div>
 
-<div class="post" data-post-id="24616" data-author="brady" data-date="2008-05-30T15:21:33+00:00">
+<div class="post" data-post-id="24616" data-author="brady" data-date="2008-05-30T15:21:33+00:00" data-subject="Re: IMPEACH PELOSI">
 
 Of course the MSM supported her, and a huge amount of the citizens of USA followed along with the spoonfed lies like a bunch of stupid lemmings. [/quote:nvexljxx]
 
@@ -1138,7 +1138,7 @@ Like grandma always said...when life serves you up a bunch of lemmings, make lem
 
 </div>
 
-<div class="post" data-post-id="24617" data-author="Weasel" data-date="2008-05-30T15:28:57+00:00">
+<div class="post" data-post-id="24617" data-author="Weasel" data-date="2008-05-30T15:28:57+00:00" data-subject="">
 
 dude... you really need to start reading beyond Fox, the drudge report and that crazy malkin chick[/quote:2xqb0t7p]
 
@@ -1162,7 +1162,7 @@ I just can't fathom how anyone could fall for this cr@p, but clearly here are ot
 
 </div>
 
-<div class="post" data-post-id="24619" data-author="*juggleblood*" data-date="2008-05-30T19:20:44+00:00">
+<div class="post" data-post-id="24619" data-author="*juggleblood*" data-date="2008-05-30T19:20:44+00:00" data-subject="">
 
 You're short-sighted. Some of your basic assumptions are totally false. And you don't even seem to have a basic grasp of the facts. So, it's not very fun trying to argue with you, but what the hell.
 
@@ -1188,7 +1188,7 @@ Now you can't accuse me of changing the subject or painting a straw target.
 
 </div>
 
-<div class="post" data-post-id="24620" data-author="Weasel" data-date="2008-05-30T19:48:45+00:00">
+<div class="post" data-post-id="24620" data-author="Weasel" data-date="2008-05-30T19:48:45+00:00" data-subject="">
 
 You're short-sighted. Some of your basic assumptions are totally false. And you don't even seem to have a basic grasp of the facts. So, it's not very fun trying to argue with you, but what the hell.
 
@@ -1228,7 +1228,7 @@ You're either being intentionally obtuse to wind me up, or you just can't stand 
 
 </div>
 
-<div class="post" data-post-id="24621" data-author="*juggleblood*" data-date="2008-05-30T20:59:45+00:00">
+<div class="post" data-post-id="24621" data-author="*juggleblood*" data-date="2008-05-30T20:59:45+00:00" data-subject="">
 
 Actually I'm just trying to figure out what you're saying. I didn't nail it? I haven't tarred you or diverged from the topic. Quite the opposite in fact.
 
@@ -1250,7 +1250,7 @@ Everything should be made as simple as possible, but not simpler.
 
 </div>
 
-<div class="post" data-post-id="24622" data-author="Weasel" data-date="2008-05-30T21:51:43+00:00">
+<div class="post" data-post-id="24622" data-author="Weasel" data-date="2008-05-30T21:51:43+00:00" data-subject="">
 
 Actually I'm just trying to figure out what you're saying. I didn't nail it? I haven't tarred you or diverged from the topic. Quite the opposite in fact.
 
@@ -1286,7 +1286,7 @@ So.. you agree with me. At least indirectly. If you follow my reasoning.  :D
 
 </div>
 
-<div class="post" data-post-id="24623" data-author="Tap" data-date="2008-05-30T22:01:03+00:00">
+<div class="post" data-post-id="24623" data-author="Tap" data-date="2008-05-30T22:01:03+00:00" data-subject="">
 
 [quote:2koi29lb]If you forced me to say who the bad guys are, I'd have to say that we are.[/quote:2koi29lb]
 
@@ -1316,7 +1316,7 @@ Maybe, why attack when you can stand in the shadows and dupe suicide killers to 
 
 </div>
 
-<div class="post" data-post-id="24624" data-author="*juggleblood*" data-date="2008-05-30T22:21:54+00:00">
+<div class="post" data-post-id="24624" data-author="*juggleblood*" data-date="2008-05-30T22:21:54+00:00" data-subject="">
 
 Pelosi appears to be motivated not by facts, not by logic, not by evidence, not even by patriotism, but by some kind of blind rage against Bush, to the point she will deny any relative success being credited to Bush / military, even if it means completely contradicting herself and praising what is technically an enemy of the US,
 
@@ -1326,7 +1326,7 @@ I wonder what could have driven her to this behavior? And yeah I have no idea wt
 
 </div>
 
-<div class="post" data-post-id="24628" data-author="alias" data-date="2008-05-31T02:06:37+00:00">
+<div class="post" data-post-id="24628" data-author="alias" data-date="2008-05-31T02:06:37+00:00" data-subject="">
 
 Facts are not used in politics for the most part. I also have a blind rage towards Bu$h- I'm biased and I know it, so don't bother pointing it out.
 
@@ -1344,7 +1344,7 @@ btw nice duds in the video Jon, could u make a few calls and get the price of ga
 
 </div>
 
-<div class="post" data-post-id="24633" data-author="Tap" data-date="2008-05-31T02:39:25+00:00">
+<div class="post" data-post-id="24633" data-author="Tap" data-date="2008-05-31T02:39:25+00:00" data-subject="">
 
 [quote:3alj0alf]And on the Pelosi thing, last I knew people were allowed to get more information and change their minds. [/quote:3alj0alf]
 
@@ -1356,13 +1356,13 @@ I',m only speaking for myself, yet I hear the same reflection from people I don'
 
 </div>
 
-<div class="post" data-post-id="24634" data-author="Weasel" data-date="2008-05-31T02:46:13+00:00">
+<div class="post" data-post-id="24634" data-author="Weasel" data-date="2008-05-31T02:46:13+00:00" data-subject="">
 
 Nods. I will be voting, but only at local / Congress level so at least we have a chance of getting a few intelligent people in Congress, and perhaps some hope after 2012, and I encourage all disenchanted voters to make the same effort. As far as the presidential position goes, I can see no viable option there, so it'll just be left blank. I might have considered a write-in, but the one-arm bandit voting machines in use where I live don't allow for that option.
 
 </div>
 
-<div class="post" data-post-id="24640" data-author="alias" data-date="2008-06-01T03:02:52+00:00">
+<div class="post" data-post-id="24640" data-author="alias" data-date="2008-06-01T03:02:52+00:00" data-subject="">
 
 [quote:5yqvlvyz]In closing please vote in the coming election, no matter how you vote- just vote. [/quote:5yqvlvyz]
 
@@ -1372,7 +1372,7 @@ Imho If you don't vote then you have no right to bitch and complain. even if the
 
 </div>
 
-<div class="post" data-post-id="24641" data-author="Weasel" data-date="2008-06-01T04:40:13+00:00">
+<div class="post" data-post-id="24641" data-author="Weasel" data-date="2008-06-01T04:40:13+00:00" data-subject="">
 
 Have to agree to disagree. I don't want to vote for someone that I think is definitely not fit for the job just because the alternative candidate is even worse. If I want to bitch about how badly they're f***ing up the country later, I will do so because they are f***ing up the country badly, not because I was forced into voting for them when I didn't believe they were right for the job.. I mean.. duh. As far as having the "right to complain they did not live up to what you hoped", that would be true if I had any expectation of them to do a reasonable job, but at this moment, I do not. If Hitler and Idi Amin were the choices, would you vote for one of them just for the sake of voting?
 
@@ -1384,7 +1384,7 @@ Do vote though - there are many other positions besides President that can have 
 
 </div>
 
-<div class="post" data-post-id="24646" data-author="Tap" data-date="2008-06-01T14:41:45+00:00">
+<div class="post" data-post-id="24646" data-author="Tap" data-date="2008-06-01T14:41:45+00:00" data-subject="">
 
 [quote:z243aaix]Voting just for the sake of voting is ignorant. [/quote:z243aaix]
 
@@ -1398,7 +1398,7 @@ Apparently, Alias would. He doesn't want to be a pussy.
 
 </div>
 
-<div class="post" data-post-id="24649" data-author="alias" data-date="2008-06-01T16:39:07+00:00">
+<div class="post" data-post-id="24649" data-author="alias" data-date="2008-06-01T16:39:07+00:00" data-subject="">
 
 heh you guys are really sad.
 
@@ -1408,7 +1408,7 @@ So, fellas feel free to not vote, just don't complain to me.
 
 </div>
 
-<div class="post" data-post-id="24651" data-author="Weasel" data-date="2008-06-01T18:17:03+00:00">
+<div class="post" data-post-id="24651" data-author="Weasel" data-date="2008-06-01T18:17:03+00:00" data-subject="">
 
 heh you guys are really sad.
 
@@ -1420,13 +1420,13 @@ heh.. if you can't win an argument, insult the person instead. Good on ya Grandp
 
 </div>
 
-<div class="post" data-post-id="24652" data-author="Tap" data-date="2008-06-01T20:02:31+00:00">
+<div class="post" data-post-id="24652" data-author="Tap" data-date="2008-06-01T20:02:31+00:00" data-subject="">
 
 While Furball has a slightly different take on the coming elections than I do, he makes a more sound argument. I'm curious,Alias, which candidate are you standing behind.Each one has some major baggage and issues behind them. I'm not talking about they don't butter their bread, but some serious flaws. And it doesn't look like it's going to get any better.So, with all due respect to your grandfather, he lived in simplier times. Sure, there was always danger in the world and corruption in politics BUT these days it's off the scale. You can point fingers and call names all you want. You can't even come up with a response as to why you would knowingly vote for someone who is going to screw you over.....big time.
 
 </div>
 
-<div class="post" data-post-id="24653" data-author="*juggleblood*" data-date="2008-06-01T21:08:09+00:00">
+<div class="post" data-post-id="24653" data-author="*juggleblood*" data-date="2008-06-01T21:08:09+00:00" data-subject="">
 
 I supported HillBear cuz I didn't think Obama could win (black man named Barak Hussein Obama, left of the Clintons?)
 
@@ -1436,7 +1436,7 @@ My dream team ticket was Colbert/Daily.
 
 </div>
 
-<div class="post" data-post-id="24654" data-author="Tap" data-date="2008-06-01T22:03:13+00:00">
+<div class="post" data-post-id="24654" data-author="Tap" data-date="2008-06-01T22:03:13+00:00" data-subject="">
 
 Colbert/Huckabee would have been a interesting pick also.
 
@@ -1446,7 +1446,7 @@ Next!
 
 </div>
 
-<div class="post" data-post-id="24680" data-author="PolkAdotS" data-date="2008-06-02T11:30:40+00:00">
+<div class="post" data-post-id="24680" data-author="PolkAdotS" data-date="2008-06-02T11:30:40+00:00" data-subject="Wow is Yinao ever Dumb.. Too Talented for Sloth (Signed ME)">
 
 Alright, I apologize to Krom.  The rest of you are a bunch of critical morons who don't deserve my company any longer.  Take care....  Thank you for removing the two posts I had put onto that Last thread of mine Krom.  Just because it makes Yinao look _really_ REALLY stupid.  Wonderful day, to well.. none of you.  Cya
 
@@ -1454,13 +1454,13 @@ Alright, I apologize to Krom.  The rest of you are a bunch of critical morons wh
 
 </div>
 
-<div class="post" data-post-id="24683" data-author="*juggleblood*" data-date="2008-06-02T13:11:29+00:00">
+<div class="post" data-post-id="24683" data-author="*juggleblood*" data-date="2008-06-02T13:11:29+00:00" data-subject="">
 
 You can't get the last word here, no matter how hard you try. This is our forum. We are staying. You are leaving (by your own free choice I might add). We will continue to play the game and post here about the game long after you are gone.  No one here cares about your thoughts on warrior skills or anything else. So just leave already. Bye. Adios. Take care. Peace out. Good luck. So long. Farewell. Ma' Salama. Vaya con dios.
 
 </div>
 
-<div class="post" data-post-id="24698" data-author="Rynquald" data-date="2008-06-02T22:41:56+00:00">
+<div class="post" data-post-id="24698" data-author="Rynquald" data-date="2008-06-02T22:41:56+00:00" data-subject="">
 
 In my experience with Sloth and other net communities, very few people that post anything after their original "goodbye" post actually leave.
 
@@ -1468,7 +1468,7 @@ I tend to liken it to bands that have multiple "final" concerts. Once they see t
 
 </div>
 
-<div class="post" data-post-id="24699" data-author="brady" data-date="2008-06-02T22:54:03+00:00">
+<div class="post" data-post-id="24699" data-author="brady" data-date="2008-06-02T22:54:03+00:00" data-subject="">
 
 In my experience with Sloth and other net communities, very few people that post anything after their original "goodbye" post actually leave.
 
@@ -1478,7 +1478,7 @@ So Autolycos=Cher?
 
 </div>
 
-<div class="post" data-post-id="24700" data-author="Rynquald" data-date="2008-06-02T23:09:30+00:00">
+<div class="post" data-post-id="24700" data-author="Rynquald" data-date="2008-06-02T23:09:30+00:00" data-subject="">
 
 So Autolycos=Cher?[/quote:1xyhvz25]
 
@@ -1486,7 +1486,7 @@ Gasp! It all makes sense now!
 
 </div>
 
-<div class="post" data-post-id="24702" data-author="Autolycos" data-date="2008-06-03T00:02:05+00:00">
+<div class="post" data-post-id="24702" data-author="Autolycos" data-date="2008-06-03T00:02:05+00:00" data-subject="">
 
 So Autolycos=Cher?[/quote:17ks7f0r]
 
@@ -1502,7 +1502,7 @@ If only..... I could find a way.....
 
 </div>
 
-<div class="post" data-post-id="24704" data-author="Weasel" data-date="2008-06-03T00:48:38+00:00">
+<div class="post" data-post-id="24704" data-author="Weasel" data-date="2008-06-03T00:48:38+00:00" data-subject="">
 
 CURSES!!!  I've been figured out....  :x 
 
@@ -1518,19 +1518,19 @@ No, it's not Cher, it's.. Jackolycos!
 
 </div>
 
-<div class="post" data-post-id="24705" data-author="Autolycos" data-date="2008-06-03T02:18:48+00:00">
+<div class="post" data-post-id="24705" data-author="Autolycos" data-date="2008-06-03T02:18:48+00:00" data-subject="">
 
 heh..  now thats funny shit  :lol:
 
 </div>
 
-<div class="post" data-post-id="24743" data-author="angel" data-date="2008-06-05T05:16:26+00:00">
+<div class="post" data-post-id="24743" data-author="angel" data-date="2008-06-05T05:16:26+00:00" data-subject="">
 
 boo
 
 </div>
 
-<div class="post" data-post-id="24808" data-author="Tap" data-date="2008-06-10T00:38:24+00:00">
+<div class="post" data-post-id="24808" data-author="Tap" data-date="2008-06-10T00:38:24+00:00" data-subject="">
 
 [quote:2is5z8qn] 	
 
@@ -1552,7 +1552,7 @@ Is this the same Iran who week after week,month after month,year after year thre
 
 </div>
 
-<div class="post" data-post-id="24809" data-author="Medios" data-date="2008-06-10T01:20:00+00:00">
+<div class="post" data-post-id="24809" data-author="Medios" data-date="2008-06-10T01:20:00+00:00" data-subject="">
 
 Iran:  We will destroy the foul Israel.  Wipe it off the map.
 
@@ -1584,13 +1584,13 @@ Israel:  LOL
 
 </div>
 
-<div class="post" data-post-id="24810" data-author="Alberich" data-date="2008-06-10T01:22:24+00:00">
+<div class="post" data-post-id="24810" data-author="Alberich" data-date="2008-06-10T01:22:24+00:00" data-subject="">
 
 LOL
 
 </div>
 
-<div class="post" data-post-id="24812" data-author="*juggleblood*" data-date="2008-06-10T01:44:24+00:00">
+<div class="post" data-post-id="24812" data-author="*juggleblood*" data-date="2008-06-10T01:44:24+00:00" data-subject="">
 
 Funny.
 
@@ -1626,13 +1626,13 @@ Unlisted Candidate for VP - 30
 
 </div>
 
-<div class="post" data-post-id="24854" data-author="Tap" data-date="2008-06-10T23:32:14+00:00">
+<div class="post" data-post-id="24854" data-author="Tap" data-date="2008-06-10T23:32:14+00:00" data-subject="The plot thickens....">
 
 [url:11rxc2cu]http://www.philly.com/philly/blogs/attytood/Barack_on_torture.html[/url:11rxc2cu]
 
 </div>
 
-<div class="post" data-post-id="24855" data-author="jezer" data-date="2008-06-11T00:16:03+00:00">
+<div class="post" data-post-id="24855" data-author="jezer" data-date="2008-06-11T00:16:03+00:00" data-subject="">
 
 ONLY IN AUSTRALIA...
 
@@ -1666,7 +1666,7 @@ Mr Zutt's friend drove him to a medical centre before he was moved to a hospital
 
 </div>
 
-<div class="post" data-post-id="24866" data-author="jezer" data-date="2008-06-11T04:35:22+00:00">
+<div class="post" data-post-id="24866" data-author="jezer" data-date="2008-06-11T04:35:22+00:00" data-subject="">
 
 Thank you for calling slothmud, please select one of the following...
 
@@ -1680,7 +1680,7 @@ Bah! meeting... gotta go, you get the idea... etc etc
 
 </div>
 
-<div class="post" data-post-id="24961" data-author="*juggleblood*" data-date="2008-06-13T20:23:15+00:00">
+<div class="post" data-post-id="24961" data-author="*juggleblood*" data-date="2008-06-13T20:23:15+00:00" data-subject="">
 
 Bleah. Being a murder suspect really sucks. My roomie didn't come home last night. People at her work freaked and contacted her family. Then some guy from the bar she was at said she mentioned she was having a fight with her room-mate. Family starts suggesting that I killed her. After two hours of insanity they found her at a friends house. At which point I cursed them all out and tossed their asses out the door.
 
@@ -1688,13 +1688,13 @@ Strange day.
 
 </div>
 
-<div class="post" data-post-id="24963" data-author="Yasik2" data-date="2008-06-13T20:37:03+00:00">
+<div class="post" data-post-id="24963" data-author="Yasik2" data-date="2008-06-13T20:37:03+00:00" data-subject="">
 
 Everybody must see "The IT Crowd". Most funny thing on teh Internets along with South Park, Futurama, Drawn Together etc.
 
 </div>
 
-<div class="post" data-post-id="24966" data-author="Weasel" data-date="2008-06-13T22:02:52+00:00">
+<div class="post" data-post-id="24966" data-author="Weasel" data-date="2008-06-13T22:02:52+00:00" data-subject="">
 
 Bleah. Being a murder suspect really sucks. My roomie didn't come home last night. People at her work freaked and contacted her family. Then some guy from the bar she was at said she mentioned she was having a fight with her room-mate. Family starts suggesting that I killed her. After two hours of insanity they found her at a friends house. At which point I cursed them all out and tossed their asses out the door.
 
@@ -1704,7 +1704,7 @@ I hope you got rid of her as a flatmate, not just kicked her family out. And if 
 
 </div>
 
-<div class="post" data-post-id="24980" data-author="*juggleblood*" data-date="2008-06-14T05:20:45+00:00">
+<div class="post" data-post-id="24980" data-author="*juggleblood*" data-date="2008-06-14T05:20:45+00:00" data-subject="">
 
 Actually it got worse. She came home with one of her sisters in tow and they insisted that I should move out this weekend. I pointed out that she owed me 500. The family payed me and I'm moving out this weekend. It's tres bizarre.
 
@@ -1714,19 +1714,19 @@ I would never sue ne1 for anything. Not my style. I'll just move.
 
 </div>
 
-<div class="post" data-post-id="24983" data-author="Weasel" data-date="2008-06-14T07:23:17+00:00">
+<div class="post" data-post-id="24983" data-author="Weasel" data-date="2008-06-14T07:23:17+00:00" data-subject="">
 
 Sheesh, probably best idea to bail - she sounds like a bit of a nut.. mixed messages etc etc..
 
 </div>
 
-<div class="post" data-post-id="24984" data-author="Tap" data-date="2008-06-14T09:59:33+00:00">
+<div class="post" data-post-id="24984" data-author="Tap" data-date="2008-06-14T09:59:33+00:00" data-subject="">
 
 Sounds like a British comedy :lol:
 
 </div>
 
-<div class="post" data-post-id="24992" data-author="Yasik2" data-date="2008-06-14T19:38:42+00:00">
+<div class="post" data-post-id="24992" data-author="Yasik2" data-date="2008-06-14T19:38:42+00:00" data-subject="">
 
 [i:245fmltz]The Murchison meteorite was a meteorite that entered Earth's atmosphere in September 1969. The meteor fragmented before impact and remnants were recovered near Murchison, Australia (located about 60 mi [96.5 km] north of Melbourne). The fragments recovered dated to nearly five billion years agoâ€”to the time greater than the estimated age of Earth. In addition to interest generated by the age of the meteorite, analysis of fragments revealed evidence of carbon-based compounds. The finds have fueled research into whether the organic compounds were formed from inorganic processes or are[/i:245fmltz] [b:245fmltz]proof of extraterrestrial life[/color:245fmltz][/b:245fmltz] [i:245fmltz]dating to the time of Earth's creation.[/i:245fmltz]
 
@@ -1738,13 +1738,13 @@ Personally, i never liked this planet much anyway.  :D
 
 </div>
 
-<div class="post" data-post-id="24993" data-author="Tap" data-date="2008-06-14T21:38:27+00:00">
+<div class="post" data-post-id="24993" data-author="Tap" data-date="2008-06-14T21:38:27+00:00" data-subject="">
 
 What is the interest on the tax for a 5 billion year old carbon footprint?
 
 </div>
 
-<div class="post" data-post-id="24995" data-author="jezer" data-date="2008-06-15T01:27:16+00:00">
+<div class="post" data-post-id="24995" data-author="jezer" data-date="2008-06-15T01:27:16+00:00" data-subject="">
 
 OR[/color:1mk79cyp] are proof of extraterrestrial life dating to the time of Earth's creation.[/quote:1mk79cyp]
 
@@ -1758,7 +1758,7 @@ Belief and truth can always be two different things.
 
 </div>
 
-<div class="post" data-post-id="24997" data-author="Roadrunr" data-date="2008-06-15T01:48:35+00:00">
+<div class="post" data-post-id="24997" data-author="Roadrunr" data-date="2008-06-15T01:48:35+00:00" data-subject="">
 
 OR[/color:248lpwyk] are proof of extraterrestrial life dating to the time of Earth's creation.[/quote:248lpwyk]
 
@@ -1768,7 +1768,7 @@ keep that in mind next time you think you need to post telling us what sloth nee
 
 </div>
 
-<div class="post" data-post-id="24998" data-author="jezer" data-date="2008-06-15T02:14:19+00:00">
+<div class="post" data-post-id="24998" data-author="jezer" data-date="2008-06-15T02:14:19+00:00" data-subject="">
 
 Sloth is a game... not something you believe in, or the "truth."
 
@@ -1780,19 +1780,19 @@ We never will... because sloth has no truth! I will continue to voice my opinion
 
 </div>
 
-<div class="post" data-post-id="24999" data-author="Tap" data-date="2008-06-15T02:23:34+00:00">
+<div class="post" data-post-id="24999" data-author="Tap" data-date="2008-06-15T02:23:34+00:00" data-subject="">
 
 Splitting hairs but proof of life before humans or other than human does not disprove nor prove the existence of God or any other diety. As a Christian, I am open to the idea of both. Genesis states that before Adam was created, that there was life. I'm also open to the idea that 'life' elsewhere. I've read versions of theories where angels who were thrown out of Heaven created life elsewhere. Both theories could be true or untrue. As far as Jezer posting thoughts, more power to him. At least he has some. It's good to think outside the box and to post suggestions both good and bad.
 
 </div>
 
-<div class="post" data-post-id="25000" data-author="Weasel" data-date="2008-06-15T03:40:37+00:00">
+<div class="post" data-post-id="25000" data-author="Weasel" data-date="2008-06-15T03:40:37+00:00" data-subject="">
 
 If you believe the universe is infinite, then the chances of there [i:1jawk9j4]not[/i:1jawk9j4] being life elsewhere (in some form) is impossible.
 
 </div>
 
-<div class="post" data-post-id="25088" data-author="Weasel" data-date="2008-06-19T04:28:11+00:00">
+<div class="post" data-post-id="25088" data-author="Weasel" data-date="2008-06-19T04:28:11+00:00" data-subject="">
 
 Hey, I heard Autolycos went to see 'Pirates of the Caribbean' the other day but was refused entry because it was rated ARRRRRRRR!
 
@@ -1800,7 +1800,7 @@ Hey, I heard Autolycos went to see 'Pirates of the Caribbean' the other day but 
 
 </div>
 
-<div class="post" data-post-id="25089" data-author="angel" data-date="2008-06-19T08:54:23+00:00">
+<div class="post" data-post-id="25089" data-author="angel" data-date="2008-06-19T08:54:23+00:00" data-subject="">
 
 [http://webmessenger.msn.com/](http://webmessenger.msn.com/) 
 
@@ -1812,7 +1812,7 @@ or if u prefer a better version,download it at
 
 </div>
 
-<div class="post" data-post-id="25095" data-author="firebrand" data-date="2008-06-19T17:11:33+00:00">
+<div class="post" data-post-id="25095" data-author="firebrand" data-date="2008-06-19T17:11:33+00:00" data-subject="">
 
 OR[/color:1oiw5omy] are proof of extraterrestrial life dating to the time of Earth's creation.[/quote:1oiw5omy]
 
@@ -1828,13 +1828,13 @@ p.s. *smooch* and hush to all of you who already know i am a perma-confuzzled bl
 
 </div>
 
-<div class="post" data-post-id="25096" data-author="aeole" data-date="2008-06-19T17:44:44+00:00">
+<div class="post" data-post-id="25096" data-author="aeole" data-date="2008-06-19T17:44:44+00:00" data-subject="">
 
 Huh?
 
 </div>
 
-<div class="post" data-post-id="25100" data-author="*juggleblood*" data-date="2008-06-19T22:16:08+00:00">
+<div class="post" data-post-id="25100" data-author="*juggleblood*" data-date="2008-06-19T22:16:08+00:00" data-subject="">
 
 20Invisible Man say, "I can has fish
 
@@ -1872,7 +1872,7 @@ u eats fruitz. 30Aminulz eats greenz.
 
 </div>
 
-<div class="post" data-post-id="25124" data-author="Yasik2" data-date="2008-06-22T05:58:35+00:00">
+<div class="post" data-post-id="25124" data-author="Yasik2" data-date="2008-06-22T05:58:35+00:00" data-subject="">
 
 Happy Birthday, Herman Minkowski ![/color:2a8nygbj]
 
@@ -1884,7 +1884,7 @@ By 1907 Minkowski realized that the special theory of relativity, introduced by 
 
 </div>
 
-<div class="post" data-post-id="25141" data-author="Tap" data-date="2008-06-23T01:50:26+00:00">
+<div class="post" data-post-id="25141" data-author="Tap" data-date="2008-06-23T01:50:26+00:00" data-subject="">
 
 wikipedia digital angel
 
@@ -1892,13 +1892,13 @@ Digital Angel GPS and RFID products enable the rapid and accurate identification
 
 </div>
 
-<div class="post" data-post-id="25142" data-author="Weasel" data-date="2008-06-23T02:21:48+00:00">
+<div class="post" data-post-id="25142" data-author="Weasel" data-date="2008-06-23T02:21:48+00:00" data-subject="">
 
 It's never wise to quote wikipedia..
 
 </div>
 
-<div class="post" data-post-id="25143" data-author="Rynquald" data-date="2008-06-23T03:38:20+00:00">
+<div class="post" data-post-id="25143" data-author="Rynquald" data-date="2008-06-23T03:38:20+00:00" data-subject="">
 
 It's going to happen sooner or later anyway.
 
@@ -1910,7 +1910,7 @@ There's also every reason to believe that eventually a world event will be manip
 
 </div>
 
-<div class="post" data-post-id="25144" data-author="Weasel" data-date="2008-06-23T04:07:41+00:00">
+<div class="post" data-post-id="25144" data-author="Weasel" data-date="2008-06-23T04:07:41+00:00" data-subject="">
 
 I think I've posted this before...
 
@@ -1938,7 +1938,7 @@ IMHO, we're (USA) somewhere on the last two lines, and dangerously close to fall
 
 </div>
 
-<div class="post" data-post-id="25145" data-author="Rynquald" data-date="2008-06-23T04:20:03+00:00">
+<div class="post" data-post-id="25145" data-author="Rynquald" data-date="2008-06-23T04:20:03+00:00" data-subject="">
 
 Agreed.
 
@@ -1946,13 +1946,13 @@ That's a good way of explaining it.
 
 </div>
 
-<div class="post" data-post-id="25146" data-author="jezer" data-date="2008-06-23T07:39:03+00:00">
+<div class="post" data-post-id="25146" data-author="jezer" data-date="2008-06-23T07:39:03+00:00" data-subject="">
 
 Yeah, that's pretty smart... for a rodent.  :D
 
 </div>
 
-<div class="post" data-post-id="25165" data-author="firebrand" data-date="2008-06-24T14:04:39+00:00">
+<div class="post" data-post-id="25165" data-author="firebrand" data-date="2008-06-24T14:04:39+00:00" data-subject="">
 
 since this is a random thread, i am going off on a$$hats who think fwds are fun.  i do not like having my email address given out to thousands of people i do not know.   i do not like having the choice of whether or not my address is given out taken from me.  like it or not, imo it is fucking theft of choice and goddess knows what else   :twisted: .  and yeah i am going to get my ass flamed for this and i don't fapping care.  just think before forwarding to everyone in your email list.  not all of us like a box full of spam and crap - and yeah i may be going way, WAY  out on a limb with this one, but i don't like the idea that the email including my addy and hundreds of others eventually winds up in the hands of some dumbshit who is going to take all these legit address and send out spam for porn or whatever.   (or in the minds of paranoid conspiracy theorists, having an email like that is potential fuel for a hacker to send out viruses and worms.)  thank you very fu kk ing much assholes.  
 
@@ -1962,7 +1962,7 @@ and before you say "make a new char (addy)", i already did.
 
 </div>
 
-<div class="post" data-post-id="25167" data-author="13" data-date="2008-06-24T15:06:05+00:00">
+<div class="post" data-post-id="25167" data-author="13" data-date="2008-06-24T15:06:05+00:00" data-subject="">
 
 FWD: FWD: FWD:
 
@@ -1974,7 +1974,7 @@ why yes, it does.  how kind of you to notice.
 
 </div>
 
-<div class="post" data-post-id="25174" data-author="Alberich" data-date="2008-06-24T19:07:42+00:00">
+<div class="post" data-post-id="25174" data-author="Alberich" data-date="2008-06-24T19:07:42+00:00" data-subject="">
 
 ok my random thought for the day
 
@@ -1982,7 +1982,7 @@ I really wish FF3 didn't break formatting on the sloth mainpage :(
 
 </div>
 
-<div class="post" data-post-id="25177" data-author="13" data-date="2008-06-24T21:01:46+00:00">
+<div class="post" data-post-id="25177" data-author="13" data-date="2008-06-24T21:01:46+00:00" data-subject="">
 
 I'm still rocking FF2 until the browser itself prompts me to change, i.e.
 
@@ -1990,13 +1990,13 @@ when the bugs are workin' out.
 
 </div>
 
-<div class="post" data-post-id="25179" data-author="Tap" data-date="2008-06-24T22:46:58+00:00">
+<div class="post" data-post-id="25179" data-author="Tap" data-date="2008-06-24T22:46:58+00:00" data-subject="random comments about tigresses">
 
 What you have against porn?
 
 </div>
 
-<div class="post" data-post-id="25191" data-author="firebrand" data-date="2008-06-25T16:49:28+00:00">
+<div class="post" data-post-id="25191" data-author="firebrand" data-date="2008-06-25T16:49:28+00:00" data-subject="">
 
 nothing against porn - just against spam.  all i want is my illusion of email privacy.  i don't think that is too much to ask.
 
@@ -2004,7 +2004,7 @@ nothing against porn - just against spam.  all i want is my illusion of email pr
 
 </div>
 
-<div class="post" data-post-id="25196" data-author="Tap" data-date="2008-06-26T01:43:18+00:00">
+<div class="post" data-post-id="25196" data-author="Tap" data-date="2008-06-26T01:43:18+00:00" data-subject="">
 
 On Yahoo.com
 
@@ -2014,7 +2014,7 @@ Well duh....its more original than running out of gas
 
 </div>
 
-<div class="post" data-post-id="25416" data-author="Weasel" data-date="2008-07-19T18:22:27+00:00">
+<div class="post" data-post-id="25416" data-author="Weasel" data-date="2008-07-19T18:22:27+00:00" data-subject="">
 
 BWAHAHAHA.. Zimbabwe introduce a new $100 [b:25dx2ips]b[/b:25dx2ips]illion banknote.. and guess how much it can buy? 
 
@@ -2028,13 +2028,13 @@ That Mugabe is such a criminal POS.
 
 </div>
 
-<div class="post" data-post-id="25421" data-author="13" data-date="2008-07-20T15:12:32+00:00">
+<div class="post" data-post-id="25421" data-author="13" data-date="2008-07-20T15:12:32+00:00" data-subject="">
 
 I flat-out love John Hartford.
 
 </div>
 
-<div class="post" data-post-id="25422" data-author="PolkAdotS" data-date="2008-07-21T09:08:01+00:00">
+<div class="post" data-post-id="25422" data-author="PolkAdotS" data-date="2008-07-21T09:08:01+00:00" data-subject="">
 
 Hey, uhm... Word to you slothers. (morons).  Just thought I would do two things, call it an honorable mention, with the 'random comments' thread here.  1:  I started another character, even though I'm at a fat ZERO on eq (see above comment to the effect of "morons") I might play or even try to get an honest imm's reimb opinion. *cough* Jake *cough* ...B) I'm picking up an old 386 p.c. today with a 40mgb HD that was the shizzlezs in 1995 and I've got a flight simulator for it.  I doubt I'll be playing at all what so ever without a reimb my having a flight simulator, got a submarine sim too.  New character name is Thivevin, feel free to send me MUDmail and all your really sweet EQ.  For the record anything in MUD mail should have some way for me to send you a cheap-ass shop item for a fee, name your fee and I'll send you something short of rations, maybe a backpack, or a small leather bag, or something.  Thank you for your donation(s).  Anyway, that old p.c. is the very same I'd used years and years ago, going to dig around on it, see if I can't find sloth2 code embedded in it... I sure hope so, it will be fun to see a Ripple tells Hand, or something.  Anyway, happy hunting (morons).
 
@@ -2042,19 +2042,19 @@ Polk :arrow:
 
 </div>
 
-<div class="post" data-post-id="25423" data-author="Tap" data-date="2008-07-21T10:25:35+00:00">
+<div class="post" data-post-id="25423" data-author="Tap" data-date="2008-07-21T10:25:35+00:00" data-subject="">
 
 word
 
 </div>
 
-<div class="post" data-post-id="25424" data-author="Mosaix" data-date="2008-07-21T11:18:56+00:00">
+<div class="post" data-post-id="25424" data-author="Mosaix" data-date="2008-07-21T11:18:56+00:00" data-subject="">
 
 Sounds great Uncle Rico.
 
 </div>
 
-<div class="post" data-post-id="25425" data-author="Weasel" data-date="2008-07-21T15:03:50+00:00">
+<div class="post" data-post-id="25425" data-author="Weasel" data-date="2008-07-21T15:03:50+00:00" data-subject="">
 
 You're calling us all morons, then expecting a handout? Go fu[/color:2e2shr4o]ck yourself, skippy.
 
@@ -2062,19 +2062,19 @@ You're calling us all morons, then expecting a handout? Go fu[/color:2e2shr4o]ck
 
 </div>
 
-<div class="post" data-post-id="25428" data-author="Jag" data-date="2008-07-21T18:16:50+00:00">
+<div class="post" data-post-id="25428" data-author="Jag" data-date="2008-07-21T18:16:50+00:00" data-subject="">
 
 Ditto
 
 </div>
 
-<div class="post" data-post-id="25429" data-author="13" data-date="2008-07-21T18:59:34+00:00">
+<div class="post" data-post-id="25429" data-author="13" data-date="2008-07-21T18:59:34+00:00" data-subject="">
 
 what a waste of flesh
 
 </div>
 
-<div class="post" data-post-id="25449" data-author="firebrand" data-date="2008-07-24T17:23:49+00:00">
+<div class="post" data-post-id="25449" data-author="firebrand" data-date="2008-07-24T17:23:49+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.thedailymash.co.uk/news/heal ... 807231117/">http://www.thedailymash.co.uk/news/health/alcohol-to-carry-%27shitfaced%27-warning--200807231117/</LINK_TEXT>](http://www.thedailymash.co.uk/news/health/alcohol-to-carry-%27shitfaced%27-warning--200807231117/)
 
@@ -2082,7 +2082,7 @@ what a waste of flesh
 
 </div>
 
-<div class="post" data-post-id="25453" data-author="jezer" data-date="2008-07-24T23:45:04+00:00">
+<div class="post" data-post-id="25453" data-author="jezer" data-date="2008-07-24T23:45:04+00:00" data-subject="">
 
 I heard Obama do his speel on the radio this morning on my way to work... It's constantly on the news here in Australia. I must say I was somewhat amused by his speech... 
 
@@ -2092,13 +2092,13 @@ I would have loved to have had my face painted blue, yelled "freedom" at the top
 
 </div>
 
-<div class="post" data-post-id="25454" data-author="Tap" data-date="2008-07-25T00:48:43+00:00">
+<div class="post" data-post-id="25454" data-author="Tap" data-date="2008-07-25T00:48:43+00:00" data-subject="">
 
 [img:1bjb1ghp]http://www.postfunnypics.com/funny-blog-pictures/funny-000949.jpg[/img:1bjb1ghp]
 
 </div>
 
-<div class="post" data-post-id="25456" data-author="13" data-date="2008-07-25T15:13:45+00:00">
+<div class="post" data-post-id="25456" data-author="13" data-date="2008-07-25T15:13:45+00:00" data-subject="">
 
 Because a man is a skilled and eloquent orator he is
 
@@ -2120,7 +2120,7 @@ but shit....McCain?   No thanks.
 
 </div>
 
-<div class="post" data-post-id="25459" data-author="firebrand" data-date="2008-07-25T16:22:13+00:00">
+<div class="post" data-post-id="25459" data-author="firebrand" data-date="2008-07-25T16:22:13+00:00" data-subject="">
 
 here are a few of the many things that disturb me about obama:  he refuses to recite the pledge of allegiance, sing the national anthem or wear the flag of the united states lapel pin because he is "afraid of offending someone" yet at one of his photo-op press conferences, one of his staffers asked a couple of veiled muslim ladies to please move because their visible presence on camera behind obama could potentially embarrass him or something equally similar and juevenile.  mind you, to the blind eyes of the politically correct flocks of sheep nowadays, very few people seem to notice or even think twice about these "minor details" but these things strike a wrong chord with me.  
 
@@ -2134,7 +2134,7 @@ granted, i understand there are far more important issues that i should be conce
 
 </div>
 
-<div class="post" data-post-id="25488" data-author="13" data-date="2008-07-29T16:22:47+00:00">
+<div class="post" data-post-id="25488" data-author="13" data-date="2008-07-29T16:22:47+00:00" data-subject="">
 
 I've never heard anything about him refusing the recite the
 
@@ -2144,13 +2144,13 @@ cite source?
 
 </div>
 
-<div class="post" data-post-id="25490" data-author="Mosaix" data-date="2008-07-29T16:50:32+00:00">
+<div class="post" data-post-id="25490" data-author="Mosaix" data-date="2008-07-29T16:50:32+00:00" data-subject="">
 
 too much rush limbaugh for firebrand.
 
 </div>
 
-<div class="post" data-post-id="25491" data-author="firebrand" data-date="2008-07-29T17:21:20+00:00">
+<div class="post" data-post-id="25491" data-author="firebrand" data-date="2008-07-29T17:21:20+00:00" data-subject="">
 
 not too much limbaugh...i don't watch that crap.  it's lakkacoffee and i forgot to check snopes on the refusal thing.  :oops: normally i do check things out but like the post says....i had too much blood in my caffeine stream.  anyhoo i don't wanna talk politics.  does nothing but raise my blood pressure so i will do what i always do and vote for the candidates that most closely represent my views - or at least i vote against the candidates that i would rather NOT see go into office.
 
@@ -2158,13 +2158,13 @@ not too much limbaugh...i don't watch that crap.  it's lakkacoffee and i forgot 
 
 </div>
 
-<div class="post" data-post-id="25492" data-author="13" data-date="2008-07-29T20:28:48+00:00">
+<div class="post" data-post-id="25492" data-author="13" data-date="2008-07-29T20:28:48+00:00" data-subject="">
 
 so it was all just a big facade
 
 </div>
 
-<div class="post" data-post-id="25493" data-author="Medios" data-date="2008-07-29T20:57:24+00:00">
+<div class="post" data-post-id="25493" data-author="Medios" data-date="2008-07-29T20:57:24+00:00" data-subject="">
 
 so it was all just a big facade[/quote:1u0z4hwv]
 
@@ -2176,7 +2176,7 @@ When he was in Germany Obama said he was a citizen of the world, not the US.  Ho
 
 </div>
 
-<div class="post" data-post-id="25498" data-author="Mosaix" data-date="2008-07-30T03:22:38+00:00">
+<div class="post" data-post-id="25498" data-author="Mosaix" data-date="2008-07-30T03:22:38+00:00" data-subject="">
 
 And here he is pledging the flag...
 
@@ -2196,7 +2196,7 @@ You can post election stuff from both sides till everyone is on the ground passe
 
 </div>
 
-<div class="post" data-post-id="25499" data-author="firebrand" data-date="2008-07-30T05:27:17+00:00">
+<div class="post" data-post-id="25499" data-author="firebrand" data-date="2008-07-30T05:27:17+00:00" data-subject="">
 
 so it was all just a big facade[/quote:29476aqd]
 
@@ -2206,7 +2206,7 @@ nope.  once again i repeat: i was sleepy and was reading some email someone sent
 
 </div>
 
-<div class="post" data-post-id="25503" data-author="13" data-date="2008-07-30T17:04:02+00:00">
+<div class="post" data-post-id="25503" data-author="13" data-date="2008-07-30T17:04:02+00:00" data-subject="">
 
 that particular picture with obama and the 2 foot tall hilary has been all over
 
@@ -2224,13 +2224,13 @@ if you dont vote you can shut the fuck up now
 
 </div>
 
-<div class="post" data-post-id="25504" data-author="Yinao" data-date="2008-07-30T21:36:28+00:00">
+<div class="post" data-post-id="25504" data-author="Yinao" data-date="2008-07-30T21:36:28+00:00" data-subject="">
 
 Shuts up now.  :!:
 
 </div>
 
-<div class="post" data-post-id="25512" data-author="angel" data-date="2008-07-31T14:34:47+00:00">
+<div class="post" data-post-id="25512" data-author="angel" data-date="2008-07-31T14:34:47+00:00" data-subject="">
 
 <804hp 3ma 180mv>[-12.0] [+14h - +14d] [142,934] [+9] [Mount 'An Mystica]
 
@@ -2284,7 +2284,7 @@ ill shut up now :)
 
 </div>
 
-<div class="post" data-post-id="25562" data-author="Tap" data-date="2008-08-03T17:45:11+00:00">
+<div class="post" data-post-id="25562" data-author="Tap" data-date="2008-08-03T17:45:11+00:00" data-subject="">
 
 [quote:1bpf5lm3] its hard for me to know about the citizen of the world thing
 
@@ -2300,7 +2300,7 @@ sign on the door because I wanted you to join us. -Tommy-> Snatch
 
 </div>
 
-<div class="post" data-post-id="25563" data-author="Weasel" data-date="2008-08-03T18:40:09+00:00">
+<div class="post" data-post-id="25563" data-author="Weasel" data-date="2008-08-03T18:40:09+00:00" data-subject="">
 
 Oh of course you're not interrupting Gorgeous, I put the do not disturb sign on the door because I wanted you to join us. -Tommy-> Snatch[/quote:386rnhrg]
 
@@ -2348,7 +2348,7 @@ For more amazing Obama facts, go check out [url:386rnhrg]http://bestobamafacts.c
 
 </div>
 
-<div class="post" data-post-id="25564" data-author="Weasel" data-date="2008-08-03T19:43:13+00:00">
+<div class="post" data-post-id="25564" data-author="Weasel" data-date="2008-08-03T19:43:13+00:00" data-subject="">
 
 Badgered by critics whining about his unwillingness to take a clearly defined stance on issues, Barack Obama has released the following document, which explains his position on several important matters. We hope this clears things up.
 
@@ -2356,7 +2356,7 @@ Badgered by critics whining about his unwillingness to take a clearly defined st
 
 </div>
 
-<div class="post" data-post-id="25726" data-author="jezer" data-date="2008-08-12T11:42:16+00:00">
+<div class="post" data-post-id="25726" data-author="jezer" data-date="2008-08-12T11:42:16+00:00" data-subject="">
 
 My Grade 1 Report Card...
 
@@ -2366,7 +2366,7 @@ Ohhhh yeah Mrs Clarke! You fat, fatter, fattest cow!   :twisted:
 
 </div>
 
-<div class="post" data-post-id="25822" data-author="Tap" data-date="2008-08-19T02:11:56+00:00">
+<div class="post" data-post-id="25822" data-author="Tap" data-date="2008-08-19T02:11:56+00:00" data-subject="">
 
 Disabled turtle finds romance after getting wheels[/size:3eewvhpt]
 
@@ -2378,7 +2378,7 @@ Arava arrived in Jerusalem a few months ago from a petting zoo in southern Israe
 
 </div>
 
-<div class="post" data-post-id="25904" data-author="Tap" data-date="2008-08-24T20:27:49+00:00">
+<div class="post" data-post-id="25904" data-author="Tap" data-date="2008-08-24T20:27:49+00:00" data-subject="">
 
 Hillary miffed by Obama's decision, kicks referee in head.
 
@@ -2388,7 +2388,7 @@ Anywho
 
 </div>
 
-<div class="post" data-post-id="25923" data-author="firebrand" data-date="2008-08-27T00:52:23+00:00">
+<div class="post" data-post-id="25923" data-author="firebrand" data-date="2008-08-27T00:52:23+00:00" data-subject="">
 
 things i learned in texas:
 
@@ -2484,7 +2484,7 @@ and those who just wish they were from texas.
 
 </div>
 
-<div class="post" data-post-id="25926" data-author="Tap" data-date="2008-08-27T01:51:03+00:00">
+<div class="post" data-post-id="25926" data-author="Tap" data-date="2008-08-27T01:51:03+00:00" data-subject="">
 
 things i learned in texas:
 
@@ -2502,7 +2502,7 @@ ps- If you havent seen this movie,I recommend it..one of the funniest scenes I h
 
 </div>
 
-<div class="post" data-post-id="26204" data-author="jezer" data-date="2008-09-09T00:32:24+00:00">
+<div class="post" data-post-id="26204" data-author="jezer" data-date="2008-09-09T00:32:24+00:00" data-subject="">
 
 I saw the humor in this...
 
@@ -2562,7 +2562,7 @@ To learn more about crap visit Britannica.com[/color:6m6ojxrh]
 
 </div>
 
-<div class="post" data-post-id="26205" data-author="Weasel" data-date="2008-09-09T01:57:45+00:00">
+<div class="post" data-post-id="26205" data-author="Weasel" data-date="2008-09-09T01:57:45+00:00" data-subject="">
 
 Well, yeah it doesn't really allow my dice to roll and by dice I mean testicles. Speaking of testicles, let me get a beer. -Luke -->Out Cold
 
@@ -2578,7 +2578,7 @@ That's such a good scheme.
 
 </div>
 
-<div class="post" data-post-id="26307" data-author="angel" data-date="2008-09-14T12:17:09+00:00">
+<div class="post" data-post-id="26307" data-author="angel" data-date="2008-09-14T12:17:09+00:00" data-subject="">
 
 You are affected by the following spells:
 
@@ -2614,7 +2614,7 @@ double sanc'd ?:))
 
 </div>
 
-<div class="post" data-post-id="26326" data-author="jezer" data-date="2008-09-15T09:20:47+00:00">
+<div class="post" data-post-id="26326" data-author="jezer" data-date="2008-09-15T09:20:47+00:00" data-subject="When pronghorns attack!?">
 
 Grazing Field
 
@@ -2654,13 +2654,13 @@ You miss a pronghorn with your pierce.
 
 </div>
 
-<div class="post" data-post-id="26327" data-author="Weasel" data-date="2008-09-15T12:06:59+00:00">
+<div class="post" data-post-id="26327" data-author="Weasel" data-date="2008-09-15T12:06:59+00:00" data-subject="">
 
 mad pronghorn disease.
 
 </div>
 
-<div class="post" data-post-id="26328" data-author="jezer" data-date="2008-09-15T13:26:08+00:00">
+<div class="post" data-post-id="26328" data-author="jezer" data-date="2008-09-15T13:26:08+00:00" data-subject="">
 
 Yeah, it's a sad case.
 
@@ -2670,13 +2670,13 @@ But then again 3k for a recall... maybe he can burn in hell!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="26439" data-author="Tap" data-date="2008-09-24T00:25:53+00:00">
+<div class="post" data-post-id="26439" data-author="Tap" data-date="2008-09-24T00:25:53+00:00" data-subject="">
 
 Speaking of meat pies. Look for Hillary to make a re-emergence as Obama's VP 2(nd) choice. Here's a conspiracy theory for ya, he had Hillary pegged all along but had her keep a low profile to 1) keep the heat off both of them and 2) see who McCain was going with. Biden took the reigns and now is positioning himself to be "removed" and allow Hillary to assume the controls.
 
 </div>
 
-<div class="post" data-post-id="26440" data-author="Medios" data-date="2008-09-24T00:38:08+00:00">
+<div class="post" data-post-id="26440" data-author="Medios" data-date="2008-09-24T00:38:08+00:00" data-subject="">
 
 Speaking of meat pies. Look for Hillary to make a re-emergence as Obama's VP 2(nd) choice. Here's a conspiracy theory for ya, he had Hillary pegged all along but had her keep a low profile to 1) keep the heat off both of them and 2) see who McCain was going with. Biden took the reigns and now is positioning himself to be "removed" and allow Hillary to assume the controls.[/quote:2go6kauq]
 
@@ -2684,13 +2684,13 @@ Old news and I still don't think Obama wants to get taken out by the Clintonites
 
 </div>
 
-<div class="post" data-post-id="26441" data-author="Tap" data-date="2008-09-24T02:35:59+00:00">
+<div class="post" data-post-id="26441" data-author="Tap" data-date="2008-09-24T02:35:59+00:00" data-subject="">
 
 He's more in a panic mode now. And he doesn't really have that much of a say in the matter..he r da puppet.
 
 </div>
 
-<div class="post" data-post-id="26442" data-author="Tap" data-date="2008-09-24T02:57:31+00:00">
+<div class="post" data-post-id="26442" data-author="Tap" data-date="2008-09-24T02:57:31+00:00" data-subject="">
 
 Speaking of old news,
 
@@ -2698,7 +2698,7 @@ Speaking of old news,
 
 </div>
 
-<div class="post" data-post-id="26443" data-author="Weasel" data-date="2008-09-24T04:35:56+00:00">
+<div class="post" data-post-id="26443" data-author="Weasel" data-date="2008-09-24T04:35:56+00:00" data-subject="">
 
 omigad Clay Aiken is gay!!!??? 
 
@@ -2706,7 +2706,7 @@ LOL - the entire planet already figured that one out long ago Clay.. the 'closet
 
 </div>
 
-<div class="post" data-post-id="26549" data-author="Tap" data-date="2008-10-04T11:29:25+00:00">
+<div class="post" data-post-id="26549" data-author="Tap" data-date="2008-10-04T11:29:25+00:00" data-subject="">
 
 Boy wreaks zoo havoc while feeding croc[/size:we5dj8jv]
 
@@ -2724,19 +2724,19 @@ The boy was unknown at the center and had "clammed up" [/color:we5dj8jv]when que
 
 </div>
 
-<div class="post" data-post-id="26550" data-author="*juggleblood*" data-date="2008-10-04T12:57:53+00:00">
+<div class="post" data-post-id="26550" data-author="*juggleblood*" data-date="2008-10-04T12:57:53+00:00" data-subject="">
 
 please do not feed the animals...to the other animals.
 
 </div>
 
-<div class="post" data-post-id="26560" data-author="Tap" data-date="2008-10-05T14:44:36+00:00">
+<div class="post" data-post-id="26560" data-author="Tap" data-date="2008-10-05T14:44:36+00:00" data-subject="">
 
 Kimbo has his ass handed to him in 14 seconds by a guy with pink hair.
 
 </div>
 
-<div class="post" data-post-id="26806" data-author="Tap" data-date="2008-10-22T02:07:34+00:00">
+<div class="post" data-post-id="26806" data-author="Tap" data-date="2008-10-22T02:07:34+00:00" data-subject="">
 
 I hope Gene Hackman plays Joe Biden in the movie.
 
@@ -2746,7 +2746,7 @@ I hope Gene Hackman plays Joe Biden in the movie.
 
 </div>
 
-<div class="post" data-post-id="26807" data-author="Weasel" data-date="2008-10-22T02:30:59+00:00">
+<div class="post" data-post-id="26807" data-author="Weasel" data-date="2008-10-22T02:30:59+00:00" data-subject="">
 
 I hope Gene Hackman plays Joe Biden in the movie.[/quote:19ej3428]
 
@@ -2760,19 +2760,19 @@ note the lack of botox like he's been sporting recently..
 
 </div>
 
-<div class="post" data-post-id="26810" data-author="Tap" data-date="2008-10-22T04:22:36+00:00">
+<div class="post" data-post-id="26810" data-author="Tap" data-date="2008-10-22T04:22:36+00:00" data-subject="">
 
 Sorry but no one is going to go watch a Chevy Chase film.
 
 </div>
 
-<div class="post" data-post-id="26811" data-author="Weasel" data-date="2008-10-22T05:25:24+00:00">
+<div class="post" data-post-id="26811" data-author="Weasel" data-date="2008-10-22T05:25:24+00:00" data-subject="">
 
 exactly.
 
 </div>
 
-<div class="post" data-post-id="26816" data-author="jezer" data-date="2008-10-23T00:49:37+00:00">
+<div class="post" data-post-id="26816" data-author="jezer" data-date="2008-10-23T00:49:37+00:00" data-subject="">
 
 Something on our news sites, kind of cool, if it's not propaganda that is...
 
@@ -2792,7 +2792,7 @@ He was finally evacuated from the battle field at high speed still lashed to the
 
 </div>
 
-<div class="post" data-post-id="26869" data-author="jezer" data-date="2008-10-27T22:26:38+00:00">
+<div class="post" data-post-id="26869" data-author="jezer" data-date="2008-10-27T22:26:38+00:00" data-subject="">
 
 The future, according to some scientists, will be exactly like the past, only far more expensive.
 
@@ -2800,7 +2800,7 @@ The future, according to some scientists, will be exactly like the past, only fa
 
 </div>
 
-<div class="post" data-post-id="26887" data-author="jezer" data-date="2008-10-30T22:45:23+00:00">
+<div class="post" data-post-id="26887" data-author="jezer" data-date="2008-10-30T22:45:23+00:00" data-subject="">
 
 [ *Skinwalker*  ] 	 Stelios [Legends] God of Magic
 
@@ -2828,13 +2828,13 @@ Just wondered when the legends are going to pop there own spellbooks  :twisted: 
 
 </div>
 
-<div class="post" data-post-id="26888" data-author="Tap" data-date="2008-10-30T23:02:23+00:00">
+<div class="post" data-post-id="26888" data-author="Tap" data-date="2008-10-30T23:02:23+00:00" data-subject="random comment about Australia, where art thou Jezer?">
 
 I caught the tail end of a conversation on the radio today regarding something about Australia blocking internet content blah blah. Is this something that has happened rather recently or has it already been in place for awhile. Just curious, the story being reported was that US was already headed in this direction to censor a huge amount of websites currently availible. All part of the Fairness Doctrine would-be king Osama has already stated it would the one of many changes he would immediately implement. This along with his 250,000 "volunteer peace force" that will match the strength of the army. The same army he is also planning on budget cutting by 25%. Good times!!!!
 
 </div>
 
-<div class="post" data-post-id="26889" data-author="jezer" data-date="2008-10-30T23:08:13+00:00">
+<div class="post" data-post-id="26889" data-author="jezer" data-date="2008-10-30T23:08:13+00:00" data-subject="">
 
 I swear the only news tap reads is about Australia  :D 
 
@@ -2842,7 +2842,7 @@ Where do you find this stuff? No, not heard of this story either... although I q
 
 </div>
 
-<div class="post" data-post-id="26891" data-author="Weasel" data-date="2008-10-30T23:26:10+00:00">
+<div class="post" data-post-id="26891" data-author="Weasel" data-date="2008-10-30T23:26:10+00:00" data-subject="Re: random comment about Australia, where art thou Jezer?">
 
 would-be king Osama has already stated it would the one of many changes he would immediately implement. This along with his 250,000 "volunteer peace force" that will match the strength of the army.[/quote:1bb2frxk]
 
@@ -2850,19 +2850,19 @@ because 'O' decided that Hitler's one mistake was not making the SS big enough.
 
 </div>
 
-<div class="post" data-post-id="26894" data-author="Tap" data-date="2008-10-30T23:49:05+00:00">
+<div class="post" data-post-id="26894" data-author="Tap" data-date="2008-10-30T23:49:05+00:00" data-subject="Random comment about Jezer">
 
 Of course, if you were being censored you wouldn't even know it. Oh well..ignorance is bliss.
 
 </div>
 
-<div class="post" data-post-id="26895" data-author="Rynquald" data-date="2008-10-30T23:54:53+00:00">
+<div class="post" data-post-id="26895" data-author="Rynquald" data-date="2008-10-30T23:54:53+00:00" data-subject="">
 
 There were some good points made about that earlier this month here[/url:3j23s1v2].
 
 </div>
 
-<div class="post" data-post-id="26897" data-author="jezer" data-date="2008-10-31T00:54:29+00:00">
+<div class="post" data-post-id="26897" data-author="jezer" data-date="2008-10-31T00:54:29+00:00" data-subject="">
 
 ISP's won't support it, neither will majority of Australia. Our prime minister likes himself too much to have the public hating him. Only people in favor probably be some unmarried lady politician who coincidentally can't use a computer, or has two brain cells to rub together to produce a s p a r k of intelligence to understand the costs and opposition of such a plan.
 
@@ -2874,7 +2874,7 @@ Plans like this get talked about all the time in practically all western countri
 
 </div>
 
-<div class="post" data-post-id="26898" data-author="jezer" data-date="2008-10-31T01:07:48+00:00">
+<div class="post" data-post-id="26898" data-author="jezer" data-date="2008-10-31T01:07:48+00:00" data-subject="">
 
 This is for Tap... Straight from the web page of the current Government... what you heard on the radio was probably scare mongering by free speech groups. The government says you can opt out or in... but of course... these people... whose favorite movie also happens to be conspiracy theory... are all worried about there rights...
 
@@ -2914,13 +2914,13 @@ Can't you see, it's an opt in safety scheme for families to protect children fro
 
 </div>
 
-<div class="post" data-post-id="26901" data-author="Tap" data-date="2008-10-31T02:42:17+00:00">
+<div class="post" data-post-id="26901" data-author="Tap" data-date="2008-10-31T02:42:17+00:00" data-subject="">
 
 I admit I am biased, I favor free speech. Sorry if you take offense to my half-truths but I wasn't stating a fact, just asking a question about something that I caught the tail end of a conversation. I thought perhaps since you were from Australia you might be able to clue me in. I'm surprised at the defensive stance you seem to have taken. What are YOU hiding? hmmmm..
 
 </div>
 
-<div class="post" data-post-id="26902" data-author="Weasel" data-date="2008-10-31T03:11:36+00:00">
+<div class="post" data-post-id="26902" data-author="Weasel" data-date="2008-10-31T03:11:36+00:00" data-subject="">
 
 Tap, you're anti-Obama, so of course everything you say has some dark ulterior motive. [i:32j5ozok]Anyone[/i:32j5ozok] whom is not voting Obama is not to be trusted, and therefore [i:32j5ozok]anything[/i:32j5ozok] you say is to be treated with the utmost suspicion and disdain, and responded to in a highly defensive manner.
 
@@ -2930,13 +2930,13 @@ teehee.
 
 </div>
 
-<div class="post" data-post-id="26903" data-author="Tap" data-date="2008-10-31T03:27:17+00:00">
+<div class="post" data-post-id="26903" data-author="Tap" data-date="2008-10-31T03:27:17+00:00" data-subject="">
 
 Damn.
 
 </div>
 
-<div class="post" data-post-id="26905" data-author="jezer" data-date="2008-10-31T04:23:21+00:00">
+<div class="post" data-post-id="26905" data-author="jezer" data-date="2008-10-31T04:23:21+00:00" data-subject="">
 
 Yes, very defensive... see you have a history...
 
@@ -2952,7 +2952,7 @@ If you want to take pot shoots at Australia or anything else, you'd better get y
 
 </div>
 
-<div class="post" data-post-id="26907" data-author="Weasel" data-date="2008-10-31T04:52:40+00:00">
+<div class="post" data-post-id="26907" data-author="Weasel" data-date="2008-10-31T04:52:40+00:00" data-subject="">
 
 Nothing wrong with Australia mate.. except for one geographic feature :
 
@@ -2964,7 +2964,7 @@ Nothing wrong with Australia mate.. except for one geographic feature :
 
 </div>
 
-<div class="post" data-post-id="26908" data-author="jezer" data-date="2008-10-31T06:00:29+00:00">
+<div class="post" data-post-id="26908" data-author="jezer" data-date="2008-10-31T06:00:29+00:00" data-subject="">
 
 As opposed to comments made by weasel, who you know is either just troublemaking... or is not hearing you over the sound of how bad Obama is... :twisted: 
 
@@ -2974,7 +2974,7 @@ It's the way people put forward information, some ways are just slimey and devio
 
 </div>
 
-<div class="post" data-post-id="26910" data-author="Tap" data-date="2008-10-31T09:45:13+00:00">
+<div class="post" data-post-id="26910" data-author="Tap" data-date="2008-10-31T09:45:13+00:00" data-subject="">
 
 Relish the chance to see humanity fail? You have me confused with those people who stocked up on toilet paper and water when Y2K was going to end the world. Fear is a funny thing, some people embrace it in hopes of bowing down and not being affected. Others,such as myself, fear the unknown especially when certain details make themselves availble. I fear for the future that my kids will have to face if certain aspects take place. As someone who loves life, when I am told that I will NOT be allowed to live that life ever again and that I have no say in the matter..well yeah...it does grab my attention. People are sheep for the most part..when they become complacent and lazy they turn a blind eye to the raging storm headed their way...well my friend...my eyes are open. I hope I am wrong about what I think is coming but if I'm right...well..I am going to do what I can to spread the message so hopefully others can prepare themselves.
 
@@ -2988,7 +2988,7 @@ psps- Pthievery hasn't even been ingame in what 2-3 years?...Dude,let it go.
 
 </div>
 
-<div class="post" data-post-id="26911" data-author="jezer" data-date="2008-10-31T11:09:04+00:00">
+<div class="post" data-post-id="26911" data-author="jezer" data-date="2008-10-31T11:09:04+00:00" data-subject="">
 
 Things were also exciting when psteal was ingame. When there aren't groups or group that are closed, solo'ing can, at time, be boring/frustrating. However, pthievery always seemed to keep people on their toes and gave the soloers and groups alike something to keep their eye out for.[/quote:3s020934]
 
@@ -3024,19 +3024,19 @@ Given a rat with one eye, named smokey and well read version of Moby Dick, Tap w
 
 </div>
 
-<div class="post" data-post-id="26912" data-author="Weasel" data-date="2008-10-31T14:51:08+00:00">
+<div class="post" data-post-id="26912" data-author="Weasel" data-date="2008-10-31T14:51:08+00:00" data-subject="">
 
 :shock:
 
 </div>
 
-<div class="post" data-post-id="26913" data-author="Tap" data-date="2008-10-31T18:14:28+00:00">
+<div class="post" data-post-id="26913" data-author="Tap" data-date="2008-10-31T18:14:28+00:00" data-subject="">
 
 Congragulations, you've completely missed the point. You seem to think I am bashing Australia by asking about something I heard. If I wanted to bash Australia, I could point out how just today, a news article gave details how a person with down syndrome was denied citizenship due to the increase cost of healthcare to the community. Now, I didn't realize there was an epidemic of such persons seeking citizenship to your lovely island. But did I bash ya? No. You seem to be unable to collect your thoughts and respond accordingly, perhaps you should take a break and go "pound one out"
 
 </div>
 
-<div class="post" data-post-id="26916" data-author="Medios" data-date="2008-10-31T20:53:32+00:00">
+<div class="post" data-post-id="26916" data-author="Medios" data-date="2008-10-31T20:53:32+00:00" data-subject="">
 
 Check out this racist conservative Republican.
 
@@ -3048,7 +3048,7 @@ This guys ideas are crazy!!!
 
 </div>
 
-<div class="post" data-post-id="26917" data-author="*juggleblood*" data-date="2008-10-31T22:37:46+00:00">
+<div class="post" data-post-id="26917" data-author="*juggleblood*" data-date="2008-10-31T22:37:46+00:00" data-subject="">
 
 So what is the platform of the Republican party. Can anyone actually tell me that? It seems to me they aren't for anything, they're just against not being in power.
 
@@ -3056,7 +3056,7 @@ And what are you trying to imply by your sarcasm about this guy being racist and
 
 </div>
 
-<div class="post" data-post-id="26918" data-author="Medios" data-date="2008-10-31T23:33:53+00:00">
+<div class="post" data-post-id="26918" data-author="Medios" data-date="2008-10-31T23:33:53+00:00" data-subject="">
 
 So what is the platform of the Republican party. Can anyone actually tell me that? It seems to me they aren't for anything, they're just against not being in power.
 
@@ -3078,7 +3078,7 @@ I try to argue facts not toss blame and post bs.
 
 </div>
 
-<div class="post" data-post-id="26919" data-author="*juggleblood*" data-date="2008-11-01T00:30:18+00:00">
+<div class="post" data-post-id="26919" data-author="*juggleblood*" data-date="2008-11-01T00:30:18+00:00" data-subject="">
 
 There's this thing called the middle class and it is not a natural result of the 'hidden hand of the market'; its an artificial and necessary construct. Without it, we exist in a feudal system where workaday serfs labor for the benefit of corporate lords. You don't agree? You think the economy performed better under Bush than Clinton? You think the Bush tax cuts for the ultra-wealthy were good for the nation as a whole and should be made permanent? 
 
@@ -3088,7 +3088,7 @@ Joe the plumber is just some putz who's too slow to realize he'd benefit more un
 
 </div>
 
-<div class="post" data-post-id="26922" data-author="Mosaix" data-date="2008-11-01T00:56:14+00:00">
+<div class="post" data-post-id="26922" data-author="Mosaix" data-date="2008-11-01T00:56:14+00:00" data-subject="">
 
 I could post blunt hardcore facts that prove what I want to say.  And some will turn around and punch Rush Limbaugh sized holes in them.  So I will spare my time and energy on that, and skip to the next step.  To paraphrase Right Wing politics of the last 8 years have failed, free market capitalism has failed, and this country appears to be choosing to move in another direction.
 
@@ -3104,7 +3104,7 @@ Mud hard, have fun.
 
 </div>
 
-<div class="post" data-post-id="26923" data-author="Weasel" data-date="2008-11-01T02:17:25+00:00">
+<div class="post" data-post-id="26923" data-author="Weasel" data-date="2008-11-01T02:17:25+00:00" data-subject="">
 
 ..He's just another moron like Joe the Plumber..[/quote:212sliat]
 
@@ -3128,7 +3128,7 @@ Damn, I really didn't want to post on this thread again.
 
 </div>
 
-<div class="post" data-post-id="26924" data-author="Tap" data-date="2008-11-01T03:03:12+00:00">
+<div class="post" data-post-id="26924" data-author="Tap" data-date="2008-11-01T03:03:12+00:00" data-subject="">
 
 You can't define a whole class as there are extremes in each case however for the most part: 
 
@@ -3150,7 +3150,7 @@ On the plus side...Bush could always declare martial law and stay in office!!!
 
 </div>
 
-<div class="post" data-post-id="26925" data-author="*juggleblood*" data-date="2008-11-01T03:07:19+00:00">
+<div class="post" data-post-id="26925" data-author="*juggleblood*" data-date="2008-11-01T03:07:19+00:00" data-subject="">
 
 He is an idiot because he oversimplifies complex issues on which he really doesn't know anything and says stupid things. Much like you when you rant about Obama being a socialist and call all his supporters cultists despite the fact that the majority of country is rallying behind him for very pragmatic reasons or when you repeat the ridiculous things the McCain campaign is saying about Obama being a terrorist or a commie or that he's going to ruin the economy with high taxes, when the rates he's proposing are lower than Ronald Reagan's.  A large percentage of the geniuses in the state of Texas still believe that Obama is a secret Muslim. McCain is losing because the only demographics that still support him are the rich,  and the retarded.
 
@@ -3158,13 +3158,13 @@ Edit: the description tap offers of republicans is a farce. The republican party
 
 </div>
 
-<div class="post" data-post-id="26926" data-author="Tap" data-date="2008-11-01T03:10:44+00:00">
+<div class="post" data-post-id="26926" data-author="Tap" data-date="2008-11-01T03:10:44+00:00" data-subject="">
 
 bump
 
 </div>
 
-<div class="post" data-post-id="26927" data-author="Weasel" data-date="2008-11-01T03:18:32+00:00">
+<div class="post" data-post-id="26927" data-author="Weasel" data-date="2008-11-01T03:18:32+00:00" data-subject="">
 
 He is an idiot because he oversimplifies complex issues on which he really doesn't know anything and says stupid things.[/quote:387taust] 
 
@@ -3186,13 +3186,13 @@ Thanks for reminding me why I should not have entered this thread again.
 
 </div>
 
-<div class="post" data-post-id="26928" data-author="*juggleblood*" data-date="2008-11-01T03:20:44+00:00">
+<div class="post" data-post-id="26928" data-author="*juggleblood*" data-date="2008-11-01T03:20:44+00:00" data-subject="">
 
 Another lie.  That joker doesn't make anywhere near that amount. He might now that he's become a political pundit.
 
 </div>
 
-<div class="post" data-post-id="26929" data-author="Weasel" data-date="2008-11-01T03:23:36+00:00">
+<div class="post" data-post-id="26929" data-author="Weasel" data-date="2008-11-01T03:23:36+00:00" data-subject="">
 
 Another lie.  That joker doesn't make anywhere near that amount. He might now that he's become a political pundit.[/quote:29uicns0]
 
@@ -3204,7 +3204,7 @@ Ahhh somebody stop me!
 
 </div>
 
-<div class="post" data-post-id="26930" data-author="Tap" data-date="2008-11-01T03:32:16+00:00">
+<div class="post" data-post-id="26930" data-author="Tap" data-date="2008-11-01T03:32:16+00:00" data-subject="">
 
 I really gotta go to bed *yawn* 
 
@@ -3216,7 +3216,7 @@ It's one thing not to believe a thing you read and only half what you hear but w
 
 </div>
 
-<div class="post" data-post-id="26931" data-author="*juggleblood*" data-date="2008-11-01T03:38:01+00:00">
+<div class="post" data-post-id="26931" data-author="*juggleblood*" data-date="2008-11-01T03:38:01+00:00" data-subject="">
 
 My dad and I own a construction company in Indpls. I do tons of plumbing, roofing, carpentry, electrical, etc.  The reason we don't hire anyone is 2 reasons: the labor pool is terrible (alcoholics and crackheads), and we can't afford accident liability on them because the health care system is so messed up. If we could grow our business to where I was making 250k a year I don't think the tax issue would sink us. I can't imagine its much different for that fool on tv. Taxes aren't causing this recession/depression and eliminating Bush's tax cuts for the wealthy shouldn't even be the issue of the day. It should be a given that we can't afford those tax cuts when we've just doubled or tripled the national debt bailing out corrupt/incompetent bankers and stock brokers and waging a fools errand in Iraq. If the wealthy aren't going to pay for it, who is? me? You'll have to rip the money out of my ex-wife's cold fingers. I just don't understand how the reality on planet Weasel is any different.
 
@@ -3224,7 +3224,7 @@ edit: I'm done, I'd rather go play with the gremlin supplicant procs. If anyone 
 
 </div>
 
-<div class="post" data-post-id="26932" data-author="Weasel" data-date="2008-11-01T03:48:41+00:00">
+<div class="post" data-post-id="26932" data-author="Weasel" data-date="2008-11-01T03:48:41+00:00" data-subject="">
 
 I agree that the health insurance situation is insane, and am well aware that someone in your position in particular has a big issue with employing, because even hiring independent contractors that would normally be responsible for their own tax and health liabilities, construction is one of the few places where you can still be held liable for him injuring himself (despite usual agency laws) because construction sites are considered hazardous conditions. Strangely enough I am covering some of this very thing in an advanced business law course at university right now.
 
@@ -3234,7 +3234,7 @@ However, Obama is still a socialist, by his own admission. I can't understand wh
 
 </div>
 
-<div class="post" data-post-id="26933" data-author="*juggleblood*" data-date="2008-11-01T03:54:40+00:00">
+<div class="post" data-post-id="26933" data-author="*juggleblood*" data-date="2008-11-01T03:54:40+00:00" data-subject="">
 
 I honestly just want to be able to put people to work insulating houses, saving people money and lessening the amount of fuel we use. The government can kiss my ass.
 
@@ -3242,7 +3242,7 @@ Try to argue with that.
 
 </div>
 
-<div class="post" data-post-id="26934" data-author="Weasel" data-date="2008-11-01T03:58:02+00:00">
+<div class="post" data-post-id="26934" data-author="Weasel" data-date="2008-11-01T03:58:02+00:00" data-subject="">
 
 I honestly just want to be able to put people to work insulating houses, saving people money and lessening the amount of fuel we use. The government can kiss my ass.
 
@@ -3260,7 +3260,7 @@ I win.
 
 </div>
 
-<div class="post" data-post-id="26935" data-author="*juggleblood*" data-date="2008-11-01T04:06:22+00:00">
+<div class="post" data-post-id="26935" data-author="*juggleblood*" data-date="2008-11-01T04:06:22+00:00" data-subject="">
 
 I really don't feel like arguing anymore. So I will just say this to make you happy:
 
@@ -3278,7 +3278,7 @@ I guess I did feel like arguing.
 
 </div>
 
-<div class="post" data-post-id="26936" data-author="Weasel" data-date="2008-11-01T04:11:42+00:00">
+<div class="post" data-post-id="26936" data-author="Weasel" data-date="2008-11-01T04:11:42+00:00" data-subject="">
 
 I believe Barack Obama is a Socialist!
 
@@ -3290,25 +3290,25 @@ Happy halloween!
 
 </div>
 
-<div class="post" data-post-id="26937" data-author="Tap" data-date="2008-11-01T10:48:45+00:00">
+<div class="post" data-post-id="26937" data-author="Tap" data-date="2008-11-01T10:48:45+00:00" data-subject="">
 
 [url:odglr64c]http://www.youtube.com/watch?v=yfw8acB7TVk[/url:odglr64c]
 
 </div>
 
-<div class="post" data-post-id="26949" data-author="Weasel" data-date="2008-11-02T06:17:31+00:00">
+<div class="post" data-post-id="26949" data-author="Weasel" data-date="2008-11-02T06:17:31+00:00" data-subject="">
 
 [url:1b2ai2fh]http://www.youtube.com/watch?v=Tt2yGzHfy7s[/url:1b2ai2fh]
 
 </div>
 
-<div class="post" data-post-id="26950" data-author="jezer" data-date="2008-11-02T09:22:05+00:00">
+<div class="post" data-post-id="26950" data-author="jezer" data-date="2008-11-02T09:22:05+00:00" data-subject="">
 
 I have to admit, that civilian national security force sounds weird... think it's all just hot air though.
 
 </div>
 
-<div class="post" data-post-id="26953" data-author="Tap" data-date="2008-11-02T11:24:50+00:00">
+<div class="post" data-post-id="26953" data-author="Tap" data-date="2008-11-02T11:24:50+00:00" data-subject="">
 
 [quote:20ac0idf]think it's all just hot air though.[/quote:20ac0idf]
 
@@ -3316,7 +3316,7 @@ Are you familiar with the term "cool-aid drinker"?
 
 </div>
 
-<div class="post" data-post-id="26954" data-author="Weasel" data-date="2008-11-02T13:16:05+00:00">
+<div class="post" data-post-id="26954" data-author="Weasel" data-date="2008-11-02T13:16:05+00:00" data-subject="">
 
 Civilian Security Forces. That combined with Biden warning of a major international crisis within the first couple of months of Obama's rule, and that they're going to do 'something' that Americans are not going to like (hence the need for the security forces).. I find this all very troubling. Furthermore, this same sentiment is being hinted at by other prominent politicians, including Colin Powell, Madeline Albright, Australian PM Kevin Rudd, and predictions of impending doom are even coming from England and France. 
 
@@ -3338,7 +3338,7 @@ Gird your loins indeed..
 
 </div>
 
-<div class="post" data-post-id="26956" data-author="*juggleblood*" data-date="2008-11-02T14:58:31+00:00">
+<div class="post" data-post-id="26956" data-author="*juggleblood*" data-date="2008-11-02T14:58:31+00:00" data-subject="">
 
 don't most advanced countries have interior forces? Personally, I'm not in favor of it. I like the way the national guard is set up already. But I don't see what the big deal is. 
 
@@ -3350,7 +3350,7 @@ I'd rather have a guy who was cool, calm, and collected in charge.
 
 </div>
 
-<div class="post" data-post-id="26958" data-author="Tap" data-date="2008-11-02T16:02:34+00:00">
+<div class="post" data-post-id="26958" data-author="Tap" data-date="2008-11-02T16:02:34+00:00" data-subject="">
 
 [quote:2jgdon1i]I'd rather have a guy who was cool, calm, and collected in charge[/quote:2jgdon1i]
 
@@ -3378,13 +3378,13 @@ Maybe you didn't see the news where Osama stated we could go into Pakistan and g
 
 </div>
 
-<div class="post" data-post-id="26959" data-author="*juggleblood*" data-date="2008-11-02T16:18:35+00:00">
+<div class="post" data-post-id="26959" data-author="*juggleblood*" data-date="2008-11-02T16:18:35+00:00" data-subject="">
 
 if mccain knew osama's location in pakistan i doubt he would hesitate to send some cruise missiles his way. If I remember correctly we sent 40 of em when we thought we knew where saddam was. I think most American's would support such a decision.
 
 </div>
 
-<div class="post" data-post-id="26960" data-author="Tap" data-date="2008-11-02T16:46:12+00:00">
+<div class="post" data-post-id="26960" data-author="Tap" data-date="2008-11-02T16:46:12+00:00" data-subject="">
 
 You just proved your own point in an indirect way. If,without a doubt, they knew exactly what cave (set of caves) that Obama was hiding, McCain OR whoever would still have to negotiate with Pakistan to go after him. Now, with it seemingly that Pakistan may be harboring Obama, that might not be much of an negotiation, however, Osama would charge headfirst. The problem with that? Nukes. Pakistan has nukes. Pakistan wouldn't blink about using them. Osama doesn't have the foreign respect it would take to puff out his chest and demand Obama be handed over. Pakistan would no doubtedly thumb their nose at us and tell us to f*ck off. Now, I have also heard that McCain is a hothead but, and I may be wrong, McCain might send in a team and "handle" Obama whereas Osama would negotiate a meeting, without preconditions, and who knows....give the guy a pardon or something.
 
@@ -3394,13 +3394,13 @@ Good times indeed...
 
 </div>
 
-<div class="post" data-post-id="26967" data-author="*juggleblood*" data-date="2008-11-02T23:48:48+00:00">
+<div class="post" data-post-id="26967" data-author="*juggleblood*" data-date="2008-11-02T23:48:48+00:00" data-subject="">
 
 if i make one more post, i catch up to tap
 
 </div>
 
-<div class="post" data-post-id="26969" data-author="Tap" data-date="2008-11-03T01:29:49+00:00">
+<div class="post" data-post-id="26969" data-author="Tap" data-date="2008-11-03T01:29:49+00:00" data-subject="">
 
 No small feat. This one's on me.
 
@@ -3408,13 +3408,13 @@ No small feat. This one's on me.
 
 </div>
 
-<div class="post" data-post-id="26978" data-author="tincts" data-date="2008-11-04T05:57:45+00:00">
+<div class="post" data-post-id="26978" data-author="tincts" data-date="2008-11-04T05:57:45+00:00" data-subject="">
 
 Dammit Tap you gotta stop mixing up Obama and Osama - us redneck Aussies are having trouble working out if it's hard-hitting analysis or subtle parody  :wink:
 
 </div>
 
-<div class="post" data-post-id="26980" data-author="Tap" data-date="2008-11-04T11:32:08+00:00">
+<div class="post" data-post-id="26980" data-author="Tap" data-date="2008-11-04T11:32:08+00:00" data-subject="">
 
 Speaking of parody.Check out the pair of these.
 
@@ -3424,13 +3424,13 @@ Sorry..the sign reads NO DIVING ALLOWED
 
 </div>
 
-<div class="post" data-post-id="26983" data-author="Tap" data-date="2008-11-05T00:37:00+00:00">
+<div class="post" data-post-id="26983" data-author="Tap" data-date="2008-11-05T00:37:00+00:00" data-subject="">
 
 Just now starting and at 2% reporting, McCain is leading so far although ti will probably go back and forth all thru the nite...in any case...if Obama happens to lose... prepare thyself
 
 </div>
 
-<div class="post" data-post-id="26988" data-author="Tap" data-date="2008-11-05T04:05:15+00:00">
+<div class="post" data-post-id="26988" data-author="Tap" data-date="2008-11-05T04:05:15+00:00" data-subject="">
 
 That was short. Osama wins,Osama wins!!!
 
@@ -3438,13 +3438,13 @@ Oh yeah, now we are f*cked
 
 </div>
 
-<div class="post" data-post-id="26992" data-author="banedon" data-date="2008-11-05T04:48:39+00:00">
+<div class="post" data-post-id="26992" data-author="banedon" data-date="2008-11-05T04:48:39+00:00" data-subject="">
 
 Sad thing is, they've called the race with some states not having any results reported, like Hawaii or others with a minimal amount of returns in, such as -  (even though I have a good idea how the state leans politically) California, with less than 10% of the votes in.
 
 </div>
 
-<div class="post" data-post-id="27009" data-author="Avatar" data-date="2008-11-05T18:47:44+00:00">
+<div class="post" data-post-id="27009" data-author="Avatar" data-date="2008-11-05T18:47:44+00:00" data-subject="">
 
 Nice thread guys, generally polite, generally interesting.
 
@@ -3462,7 +3462,7 @@ I used to consider myself religious, but I never felt a need to enforce my belie
 
 </div>
 
-<div class="post" data-post-id="27022" data-author="jezer" data-date="2008-11-05T22:50:34+00:00">
+<div class="post" data-post-id="27022" data-author="jezer" data-date="2008-11-05T22:50:34+00:00" data-subject="">
 
 I used to consider myself religious, but I never felt a need to enforce my beliefs on other people.  I can be happy without hindering other people's lives.  It seems to me that religious conservatives can't do that, that they can't be happy without enforcing their beliefs on others.  If I have a choice, I won't support that subset of the Republican party gaining more political power in the US.[/quote:154nvt3v]
 
@@ -3470,13 +3470,13 @@ I think it takes a man of character, to recognize, and to stand firm against the
 
 </div>
 
-<div class="post" data-post-id="27028" data-author="Avatar" data-date="2008-11-05T23:44:38+00:00">
+<div class="post" data-post-id="27028" data-author="Avatar" data-date="2008-11-05T23:44:38+00:00" data-subject="">
 
 Thanks, I appreciate the nice comment.  I'm sorry if I don't agree on some other threads.
 
 </div>
 
-<div class="post" data-post-id="27173" data-author="Tap" data-date="2008-11-14T04:35:38+00:00">
+<div class="post" data-post-id="27173" data-author="Tap" data-date="2008-11-14T04:35:38+00:00" data-subject="">
 
 Anne Hathaway's ex-boyfriend not enjoying prison
 
@@ -3486,7 +3486,7 @@ Are you sure?
 
 </div>
 
-<div class="post" data-post-id="27191" data-author="Vixn" data-date="2008-11-15T09:49:12+00:00">
+<div class="post" data-post-id="27191" data-author="Vixn" data-date="2008-11-15T09:49:12+00:00" data-subject="">
 
 Due to the current financial crisis, the light at the end of the tunnel will be switched off to save on electricity costs, until further notice.
 
@@ -3496,7 +3496,7 @@ God.
 
 </div>
 
-<div class="post" data-post-id="27192" data-author="Tap" data-date="2008-11-15T19:43:03+00:00">
+<div class="post" data-post-id="27192" data-author="Tap" data-date="2008-11-15T19:43:03+00:00" data-subject="">
 
 The Chopping Block
 
@@ -3524,7 +3524,7 @@ Place New Bid:
 
 </div>
 
-<div class="post" data-post-id="27195" data-author="*juggleblood*" data-date="2008-11-15T22:35:17+00:00">
+<div class="post" data-post-id="27195" data-author="*juggleblood*" data-date="2008-11-15T22:35:17+00:00" data-subject="">
 
 The biggest I can think of was the mini-ticks and constant regeneration.  There was a lot of negativity and uncertainty about the change, but I think we can all agree now that the game is better with those than without.[/quote:11ujt940]
 
@@ -3532,7 +3532,7 @@ CATCH!!!
 
 </div>
 
-<div class="post" data-post-id="27231" data-author="jezer" data-date="2008-11-19T23:27:41+00:00">
+<div class="post" data-post-id="27231" data-author="jezer" data-date="2008-11-19T23:27:41+00:00" data-subject="">
 
 AN Indian warship destroyed a pirate "mother vessel" in the Gulf of Aden, the Indian navy said, as bandits demanded a ransom for a seized Saudi super-tanker.
 
@@ -3554,19 +3554,19 @@ Kind of funny how many navies are trying to protect boats out there at the momen
 
 </div>
 
-<div class="post" data-post-id="27233" data-author="Tap" data-date="2008-11-20T00:18:16+00:00">
+<div class="post" data-post-id="27233" data-author="Tap" data-date="2008-11-20T00:18:16+00:00" data-subject="">
 
 Hrm....I wonder...if the people on the oil tanker were allowed to have guns then maybe they could have just shot the pirates from the get go...no..that would make too much sense...
 
 </div>
 
-<div class="post" data-post-id="27234" data-author="jezer" data-date="2008-11-20T00:47:29+00:00">
+<div class="post" data-post-id="27234" data-author="jezer" data-date="2008-11-20T00:47:29+00:00" data-subject="">
 
 Yeah, that would have been awesome... the pirates would have taken over the ship and killed everyone as well. The fact they are still alive and are hostages is tribute to the fact they don't have guns.
 
 </div>
 
-<div class="post" data-post-id="27236" data-author="Alberich" data-date="2008-11-20T01:02:19+00:00">
+<div class="post" data-post-id="27236" data-author="Alberich" data-date="2008-11-20T01:02:19+00:00" data-subject="">
 
 uhmm the pirates do have guns
 
@@ -3576,7 +3576,7 @@ giving small arms to the crew and allowing merchant vessels to mount small canno
 
 </div>
 
-<div class="post" data-post-id="27237" data-author="jezer" data-date="2008-11-20T01:16:09+00:00">
+<div class="post" data-post-id="27237" data-author="jezer" data-date="2008-11-20T01:16:09+00:00" data-subject="">
 
 You Americans are all the same aren't you.... if you don't like someone/something, kill them. Gotta look out for number one... don't give a toss about doing the right thing cause it's all about me!
 
@@ -3590,13 +3590,13 @@ Yes, the pirates need to be stopped... it's a job for law enforcement, not saile
 
 </div>
 
-<div class="post" data-post-id="27238" data-author="Tap" data-date="2008-11-20T01:26:52+00:00">
+<div class="post" data-post-id="27238" data-author="Tap" data-date="2008-11-20T01:26:52+00:00" data-subject="">
 
 I change my mind. You are an idiot.
 
 </div>
 
-<div class="post" data-post-id="27241" data-author="Weasel" data-date="2008-11-20T01:32:32+00:00">
+<div class="post" data-post-id="27241" data-author="Weasel" data-date="2008-11-20T01:32:32+00:00" data-subject="">
 
 I change my mind. You are an idiot.[/quote:tl6w0vhl]
 
@@ -3604,13 +3604,13 @@ I'll second that.
 
 </div>
 
-<div class="post" data-post-id="27242" data-author="jezer" data-date="2008-11-20T01:35:39+00:00">
+<div class="post" data-post-id="27242" data-author="jezer" data-date="2008-11-20T01:35:39+00:00" data-subject="">
 
 Heh Tap, coming from you, I consider that a compliment!
 
 </div>
 
-<div class="post" data-post-id="27243" data-author="Alberich" data-date="2008-11-20T01:57:20+00:00">
+<div class="post" data-post-id="27243" data-author="Alberich" data-date="2008-11-20T01:57:20+00:00" data-subject="">
 
 they have RPGs already too.  or do you not follow the news?  standard MO for pirates is RPGs and light machine guns, dissable the engines and the crew are almost never harmed.  It is a business in a certain part of the world.  The crew are not killed not because they don't resist, they aren't killed because they are worth money - it's highly unlikely the company will negotiation on favorable terms if their employees die a horrible death.
 
@@ -3620,7 +3620,7 @@ not that i expect liberals to listen to logic :)
 
 </div>
 
-<div class="post" data-post-id="27245" data-author="Rynquald" data-date="2008-11-20T03:49:11+00:00">
+<div class="post" data-post-id="27245" data-author="Rynquald" data-date="2008-11-20T03:49:11+00:00" data-subject="">
 
 Yes, the pirates need to be stopped... it's a job for law enforcement, not sailers, fishermen and cooks.[/quote:2u4tpppr]
 
@@ -3638,13 +3638,13 @@ Bringing a light vessel up beside an oil tanker, throwing ropes up the side, and
 
 </div>
 
-<div class="post" data-post-id="27246" data-author="Weasel" data-date="2008-11-20T03:53:50+00:00">
+<div class="post" data-post-id="27246" data-author="Weasel" data-date="2008-11-20T03:53:50+00:00" data-subject="">
 
 Can't help but wonder if Jezer is just saying these things to get a reaction, not because he actually believes it.. surely.
 
 </div>
 
-<div class="post" data-post-id="27247" data-author="jezer" data-date="2008-11-20T05:39:57+00:00">
+<div class="post" data-post-id="27247" data-author="jezer" data-date="2008-11-20T05:39:57+00:00" data-subject="">
 
 [img:2n414o6k]http://www.maximumeyewear.com/productfolder/safety-glasses/wood-chipper-goggles/wood-chipper-goggles.jpg[/img:2n414o6k]
 
@@ -3670,7 +3670,7 @@ I know this is idealistic... but people's beliefs... even idealistic... change p
 
 </div>
 
-<div class="post" data-post-id="27248" data-author="Rynquald" data-date="2008-11-20T06:03:59+00:00">
+<div class="post" data-post-id="27248" data-author="Rynquald" data-date="2008-11-20T06:03:59+00:00" data-subject="">
 
 Shooting someone who's about to shoot you, or indeed, returning fire towards pirates attacking a ship you're on, has nothing to do with justice.
 
@@ -3680,7 +3680,7 @@ I could go on to systematically answer all the points that I can pick out of tha
 
 </div>
 
-<div class="post" data-post-id="27249" data-author="jezer" data-date="2008-11-20T06:13:35+00:00">
+<div class="post" data-post-id="27249" data-author="jezer" data-date="2008-11-20T06:13:35+00:00" data-subject="">
 
 You assume, that my "moral conclusions" will be "pressed" on others causing conflict... but that's actually one thing I've discovered... 
 
@@ -3698,7 +3698,7 @@ What does it have to do with? Why am I right to shoot them, and they are wrong t
 
 </div>
 
-<div class="post" data-post-id="27252" data-author="Rynquald" data-date="2008-11-20T06:56:37+00:00">
+<div class="post" data-post-id="27252" data-author="Rynquald" data-date="2008-11-20T06:56:37+00:00" data-subject="">
 
 You assume, that my "moral conclusions" will be "pressed" on others causing conflict... but that's actually one thing I've discovered...[/quote:147hbznr]
 
@@ -3728,7 +3728,7 @@ Surely you distinguish the aggressor from the defender?
 
 </div>
 
-<div class="post" data-post-id="27253" data-author="jezer" data-date="2008-11-20T07:28:06+00:00">
+<div class="post" data-post-id="27253" data-author="jezer" data-date="2008-11-20T07:28:06+00:00" data-subject="">
 
 [quote:1teshfe2]Surely you distinguish the aggressor from the defender?[/quote:1teshfe2]
 
@@ -3742,7 +3742,7 @@ Fear is one thing, perfectly natural response in the body... but using it to lev
 
 </div>
 
-<div class="post" data-post-id="27254" data-author="Rynquald" data-date="2008-11-20T08:52:29+00:00">
+<div class="post" data-post-id="27254" data-author="Rynquald" data-date="2008-11-20T08:52:29+00:00" data-subject="">
 
 Yeah, fear is a great tool for encouraging the public to allow themselves to be disarmed
 
@@ -3754,7 +3754,7 @@ And my "accusation" about fear was as simple as it sounded, there was no hidden 
 
 </div>
 
-<div class="post" data-post-id="27255" data-author="Tap" data-date="2008-11-20T11:35:14+00:00">
+<div class="post" data-post-id="27255" data-author="Tap" data-date="2008-11-20T11:35:14+00:00" data-subject="">
 
 [quote:1epajamz]What does it have to do with? Why am I right to shoot them, and they are wrong to shoot me? Whats it really about then?[/quote:1epajamz]
 
@@ -3764,7 +3764,7 @@ If you want to debate the merits of shooting someone, right or wrong, in the aft
 
 </div>
 
-<div class="post" data-post-id="27256" data-author="Alberich" data-date="2008-11-20T13:52:59+00:00">
+<div class="post" data-post-id="27256" data-author="Alberich" data-date="2008-11-20T13:52:59+00:00" data-subject="">
 
 I think maybe you are failing to grasp that there is a difference between aggression, and violence.  Aggression is almost never justifiable, i think you can find broad agreement on that.  Justified or not, however, plenty of folks without your lofty ideals will still see it as a valid course of action.  That is where the reciprocal, violence, comes into the discussion.  Meeting unwarranted aggression with violence I have no problems with and you'd have a hard time convincing me there is anything immoral about it.
 
@@ -3776,7 +3776,7 @@ does this apply not  just to an idea - i've no idea how old you are, but are you
 
 </div>
 
-<div class="post" data-post-id="27259" data-author="jezer" data-date="2008-11-20T23:27:08+00:00">
+<div class="post" data-post-id="27259" data-author="jezer" data-date="2008-11-20T23:27:08+00:00" data-subject="">
 
 It's amazing how often, it all comes back down to taking bullets... Heck, I have no idea what I'd do. Because it's about ideas, these idea's are not at a point where they are shaping my actions yet, because the idea's haven't had time to 'mature' and change my outlook yet... because it's a process and journey, not a destination. 
 
@@ -3798,7 +3798,7 @@ I'm not a scholar of religions... but I do know that in the story of Jesus... he
 
 </div>
 
-<div class="post" data-post-id="27260" data-author="Weasel" data-date="2008-11-20T23:33:02+00:00">
+<div class="post" data-post-id="27260" data-author="Weasel" data-date="2008-11-20T23:33:02+00:00" data-subject="">
 
 ..blah blah blah..
 
@@ -3810,7 +3810,7 @@ What an unbelievably arrogant, narcissistic statement.
 
 </div>
 
-<div class="post" data-post-id="27261" data-author="Rynquald" data-date="2008-11-21T01:22:13+00:00">
+<div class="post" data-post-id="27261" data-author="Rynquald" data-date="2008-11-21T01:22:13+00:00" data-subject="">
 
 I hate to bring a debate down to personal insults. But these latest points are so incredibly naive that it forces me to question the stability of anyone making them. They could only make sense through an astoundingly twisted understanding of reality.
 
@@ -3818,7 +3818,7 @@ I hate to bring a debate down to personal insults. But these latest points are s
 
 </div>
 
-<div class="post" data-post-id="27263" data-author="Medios" data-date="2008-11-21T02:10:05+00:00">
+<div class="post" data-post-id="27263" data-author="Medios" data-date="2008-11-21T02:10:05+00:00" data-subject="">
 
 Matthew 21:12
 
@@ -3828,7 +3828,7 @@ Which bible you been reading Jezer?
 
 </div>
 
-<div class="post" data-post-id="27264" data-author="jezer" data-date="2008-11-21T02:28:11+00:00">
+<div class="post" data-post-id="27264" data-author="jezer" data-date="2008-11-21T02:28:11+00:00" data-subject="">
 
 I was more expecting...
 
@@ -3844,7 +3844,7 @@ It may seem like what he did was two faced, but I don't think it was... it was j
 
 </div>
 
-<div class="post" data-post-id="27265" data-author="Tap" data-date="2008-11-21T03:22:51+00:00">
+<div class="post" data-post-id="27265" data-author="Tap" data-date="2008-11-21T03:22:51+00:00" data-subject="">
 
 I'm certainly no theologian but [quote:17hm1huy]He certainly saw the world a different way, he too spoke about justice... eye for an eye, tooth for a tooth, but said to turn the other cheek... [/quote:17hm1huy]
 
@@ -3854,7 +3854,7 @@ The actual context was how the Jewish way of doing things was the eye for an eye
 
 </div>
 
-<div class="post" data-post-id="27266" data-author="Weasel" data-date="2008-11-21T04:12:17+00:00">
+<div class="post" data-post-id="27266" data-author="Weasel" data-date="2008-11-21T04:12:17+00:00" data-subject="">
 
 He certainly saw the world a different way, [b:3s9x5ng7]he too[/b:3s9x5ng7] spoke about justice... [/quote:3s9x5ng7]
 
@@ -3862,7 +3862,7 @@ So you see yourself on the same level as Jesus now.. :roll:
 
 </div>
 
-<div class="post" data-post-id="27267" data-author="jezer" data-date="2008-11-21T04:53:04+00:00">
+<div class="post" data-post-id="27267" data-author="jezer" data-date="2008-11-21T04:53:04+00:00" data-subject="">
 
 Yasik, Warrior Skills, Obama and now Jezer it seems...
 
@@ -3872,13 +3872,13 @@ How do you get rid of this guy and his sharp little teeth? Your beginning to rem
 
 </div>
 
-<div class="post" data-post-id="27271" data-author="Weasel" data-date="2008-11-21T14:57:05+00:00">
+<div class="post" data-post-id="27271" data-author="Weasel" data-date="2008-11-21T14:57:05+00:00" data-subject="">
 
 Don't flatter yourself dude. I'm only responding to some of your comments, although it doesn't surprise me that you interpret it as some unprovoked personal vendetta, rather than simply someone pointing out some of the things you are saying. I guess if you didn't come across as if you think you're so much better than everyone else, myself and a few others might react a little differently.
 
 </div>
 
-<div class="post" data-post-id="27272" data-author="firebrand" data-date="2008-11-21T15:34:51+00:00">
+<div class="post" data-post-id="27272" data-author="firebrand" data-date="2008-11-21T15:34:51+00:00" data-subject="">
 
 jezer, i have a proposition for you, since you are anti-violence and anti-guns.   show me just how "non-violent" you are.  go play sloth with no weapons and no blasting.  get items and exps from mobs without killing or subduing them. let's see just how far you get.  now get your ostrich head out of your horse's ass and stfu.  we are all tired of your sanctimonious "it can't happen to me because i follow the law and i am non-violent" bullshit.  sell it to the tabloids because we aren't buying it.  
 
@@ -3886,13 +3886,13 @@ jezer, i have a proposition for you, since you are anti-violence and anti-guns. 
 
 </div>
 
-<div class="post" data-post-id="27273" data-author="Tap" data-date="2008-11-21T17:07:24+00:00">
+<div class="post" data-post-id="27273" data-author="Tap" data-date="2008-11-21T17:07:24+00:00" data-subject="">
 
 "Medic!" - Sgt. Zim --> Starship Troopers
 
 </div>
 
-<div class="post" data-post-id="27295" data-author="brady" data-date="2008-11-26T19:32:31+00:00">
+<div class="post" data-post-id="27295" data-author="brady" data-date="2008-11-26T19:32:31+00:00" data-subject="">
 
 cast 'dispel magic' surfnazi
 
@@ -3926,13 +3926,13 @@ You managed to dispel the 'retardation' spell!
 
 </div>
 
-<div class="post" data-post-id="27298" data-author="jezer" data-date="2008-11-26T23:13:26+00:00">
+<div class="post" data-post-id="27298" data-author="jezer" data-date="2008-11-26T23:13:26+00:00" data-subject="">
 
 I always thought retardation was perm.  :shock:
 
 </div>
 
-<div class="post" data-post-id="27299" data-author="Tap" data-date="2008-11-27T13:35:05+00:00">
+<div class="post" data-post-id="27299" data-author="Tap" data-date="2008-11-27T13:35:05+00:00" data-subject="">
 
 Happy Thanksgiving to all
 
@@ -3940,7 +3940,7 @@ And on this great day, i'm perusing a story about a school in california that di
 
 </div>
 
-<div class="post" data-post-id="27300" data-author="Medios" data-date="2008-11-27T14:50:51+00:00">
+<div class="post" data-post-id="27300" data-author="Medios" data-date="2008-11-27T14:50:51+00:00" data-subject="">
 
 Happy Thanksgiving to all
 
@@ -3950,7 +3950,7 @@ Now all we need is a black Santa...
 
 </div>
 
-<div class="post" data-post-id="27301" data-author="Weasel" data-date="2008-11-27T14:53:47+00:00">
+<div class="post" data-post-id="27301" data-author="Weasel" data-date="2008-11-27T14:53:47+00:00" data-subject="">
 
 Happy Thanksgiving to all
 
@@ -3962,7 +3962,7 @@ SouthPark do an awesome version of a school Thanksgiving play.
 
 </div>
 
-<div class="post" data-post-id="27302" data-author="Alberich" data-date="2008-11-27T16:06:41+00:00">
+<div class="post" data-post-id="27302" data-author="Alberich" data-date="2008-11-27T16:06:41+00:00" data-subject="">
 
 Happy Thanksgiving to all
 
@@ -3978,7 +3978,7 @@ don't forget the canadian kids who don't want to donate to cistic fibrosis chari
 
 </div>
 
-<div class="post" data-post-id="27303" data-author="Weasel" data-date="2008-11-28T00:34:01+00:00">
+<div class="post" data-post-id="27303" data-author="Weasel" data-date="2008-11-28T00:34:01+00:00" data-subject="">
 
 Happy Thanksgiving to all
 
@@ -3996,7 +3996,7 @@ LOL yeah saw that.. unbelievable. If I had donated to that, I'd be demanding my 
 
 </div>
 
-<div class="post" data-post-id="27305" data-author="*juggleblood*" data-date="2008-11-28T15:17:27+00:00">
+<div class="post" data-post-id="27305" data-author="*juggleblood*" data-date="2008-11-28T15:17:27+00:00" data-subject="">
 
 Happy Thanksgiving to all
 
@@ -4006,7 +4006,7 @@ I don't think it causes racisim, but the traditional thanksgiving story that we 
 
 </div>
 
-<div class="post" data-post-id="27307" data-author="Weasel" data-date="2008-11-28T16:22:05+00:00">
+<div class="post" data-post-id="27307" data-author="Weasel" data-date="2008-11-28T16:22:05+00:00" data-subject="">
 
 I don't think it causes racisim, but the traditional thanksgiving story that we give to kids is a bunch of bs that covers up the real facts of a massive genocide. I'm not sure exactly if this causes any harm, but I won't trivialize those who say it does. Does it seem odd to anyone else that we celebrate the friendship between the pilgrims and the indians, when we all know what happened next?[/quote:7qq5nlvy]
 
@@ -4014,7 +4014,7 @@ More than just a little odd.
 
 </div>
 
-<div class="post" data-post-id="27309" data-author="Mosaix" data-date="2008-11-28T17:47:58+00:00">
+<div class="post" data-post-id="27309" data-author="Mosaix" data-date="2008-11-28T17:47:58+00:00" data-subject="">
 
 If your ever in the area of Phoenix, AZ, go see the Heard Museum.
 
@@ -4022,7 +4022,7 @@ It shows many forgotten examples of the different regions and tribes.  One exhib
 
 </div>
 
-<div class="post" data-post-id="27335" data-author="Blastard" data-date="2008-12-01T18:39:33+00:00">
+<div class="post" data-post-id="27335" data-author="Blastard" data-date="2008-12-01T18:39:33+00:00" data-subject="FIRE ARMS REFRESHER COURSE">
 
 Fire Arms Refresher Course
 
@@ -4088,19 +4088,19 @@ Fire Arms Refresher Course
 
 </div>
 
-<div class="post" data-post-id="27337" data-author="Vixn" data-date="2008-12-02T17:20:06+00:00">
+<div class="post" data-post-id="27337" data-author="Vixn" data-date="2008-12-02T17:20:06+00:00" data-subject="world crisis forecast">
 
 If the global crisis continues by the end of the year only two Banks will be operational, the Blood Bank And the Sperm Bank!!! Then these 2 banks will merge and it will be called "The Bloody F@cking Bank"
 
 </div>
 
-<div class="post" data-post-id="27338" data-author="Rynquald" data-date="2008-12-02T22:10:42+00:00">
+<div class="post" data-post-id="27338" data-author="Rynquald" data-date="2008-12-02T22:10:42+00:00" data-subject="">
 
 Nice list Blastard.
 
 </div>
 
-<div class="post" data-post-id="27482" data-author="Yasik2" data-date="2008-12-16T21:34:17+00:00">
+<div class="post" data-post-id="27482" data-author="Yasik2" data-date="2008-12-16T21:34:17+00:00" data-subject="">
 
 [http://lolcode.com/](http://lolcode.com/)
 
@@ -4116,7 +4116,7 @@ KTHXBYE
 
 </div>
 
-<div class="post" data-post-id="27490" data-author="marge" data-date="2008-12-17T19:14:48+00:00">
+<div class="post" data-post-id="27490" data-author="marge" data-date="2008-12-17T19:14:48+00:00" data-subject="">
 
 Berlin politician proposes solving rat problem by paying the poor to catch them.
 
@@ -4124,7 +4124,7 @@ Berlin politician proposes solving rat problem by paying the poor to catch them.
 
 </div>
 
-<div class="post" data-post-id="27491" data-author="firebrand" data-date="2008-12-17T20:36:35+00:00">
+<div class="post" data-post-id="27491" data-author="firebrand" data-date="2008-12-17T20:36:35+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.walletpop.com/blog/2008/12/1 ... -two-days/">http://www.walletpop.com/blog/2008/12/17/tow-truck-operator-leaves-corpse-in-towed-car-for-two-days/</LINK_TEXT>](http://www.walletpop.com/blog/2008/12/17/tow-truck-operator-leaves-corpse-in-towed-car-for-two-days/)
 
@@ -4132,7 +4132,7 @@ Berlin politician proposes solving rat problem by paying the poor to catch them.
 
 </div>
 
-<div class="post" data-post-id="27551" data-author="firebrand" data-date="2008-12-29T18:05:08+00:00">
+<div class="post" data-post-id="27551" data-author="firebrand" data-date="2008-12-29T18:05:08+00:00" data-subject="">
 
 this is copy/pasted directly from another website and was written by don cooper
 
@@ -4172,7 +4172,7 @@ Once sufficiently sedated with bourbon, I sat back and relaxed and thought to my
 
 </div>
 
-<div class="post" data-post-id="27555" data-author="Yasik2" data-date="2008-12-30T15:50:11+00:00">
+<div class="post" data-post-id="27555" data-author="Yasik2" data-date="2008-12-30T15:50:11+00:00" data-subject="">
 
 A kitchen[/size:1a9i38a6][/color:1a9i38a6], is a room or part of a room (sometimes called "kitchen area[/color:1a9i38a6]" or a "kitchenette[/color:1a9i38a6]") used for food preparation including cooking[/color:1a9i38a6], and sometimes also for eating and entertaining guests, if the kitchen[/color:1a9i38a6] is large enough and designed to be used that way.
 
@@ -4182,13 +4182,13 @@ Although the main function of a kitchen[/color:1a9i38a6] is supposed to be cooki
 
 </div>
 
-<div class="post" data-post-id="27559" data-author="Weasel" data-date="2008-12-31T01:57:05+00:00">
+<div class="post" data-post-id="27559" data-author="Weasel" data-date="2008-12-31T01:57:05+00:00" data-subject="">
 
 :shock:
 
 </div>
 
-<div class="post" data-post-id="27564" data-author="Yasik2" data-date="2008-12-31T04:51:49+00:00">
+<div class="post" data-post-id="27564" data-author="Yasik2" data-date="2008-12-31T04:51:49+00:00" data-subject="">
 
 That "Once upon a time..." thread is just so much win!!!
 
@@ -4202,13 +4202,13 @@ I love you gyze... Happy New Year etc![/color:2nafj323]
 
 </div>
 
-<div class="post" data-post-id="27652" data-author="marge" data-date="2009-01-07T01:40:09+00:00">
+<div class="post" data-post-id="27652" data-author="marge" data-date="2009-01-07T01:40:09+00:00" data-subject="">
 
 OMG, Al Franken is winnning the recount in Minnesota. Looks like he's going to be senator Al Franken!
 
 </div>
 
-<div class="post" data-post-id="27653" data-author="Weasel" data-date="2009-01-07T05:39:07+00:00">
+<div class="post" data-post-id="27653" data-author="Weasel" data-date="2009-01-07T05:39:07+00:00" data-subject="">
 
 OMG, Al Franken is winnning the recount in Minnesota. Looks like he's going to be senator Al Franken![/quote:clm6k8sp]
 
@@ -4220,7 +4220,7 @@ Hey Bernie Mac should run! I know he's dead, but heck, plenty of dead people vot
 
 </div>
 
-<div class="post" data-post-id="27654" data-author="jezer" data-date="2009-01-07T06:38:40+00:00">
+<div class="post" data-post-id="27654" data-author="jezer" data-date="2009-01-07T06:38:40+00:00" data-subject="">
 
 What luck for rulers that men do not think.
 
@@ -4228,7 +4228,7 @@ What luck for rulers that men do not think.
 
 </div>
 
-<div class="post" data-post-id="27664" data-author="Mosaix" data-date="2009-01-07T17:07:49+00:00">
+<div class="post" data-post-id="27664" data-author="Mosaix" data-date="2009-01-07T17:07:49+00:00" data-subject="">
 
 Al Franken isnt a senator yet.  That Burris is about to be a senator is far more disturbing.
 
@@ -4242,7 +4242,7 @@ Please dont start now with Franken.  If your going to beat the drum about issues
 
 </div>
 
-<div class="post" data-post-id="27665" data-author="Weasel" data-date="2009-01-07T17:34:07+00:00">
+<div class="post" data-post-id="27665" data-author="Weasel" data-date="2009-01-07T17:34:07+00:00" data-subject="">
 
 And Weasel, considering you never had anything to say about Senators David Vitter, Ted Stevens, and Larry Craig representing the Republican party....  
 
@@ -4256,7 +4256,7 @@ Get this straight: if Franken were running on a Republican ticket I would still 
 
 </div>
 
-<div class="post" data-post-id="27666" data-author="brady" data-date="2009-01-07T18:21:17+00:00">
+<div class="post" data-post-id="27666" data-author="brady" data-date="2009-01-07T18:21:17+00:00" data-subject="">
 
 OMG, Al Franken is winnning the recount in Minnesota. Looks like he's going to be senator Al Franken![/quote:37tvl4k7]Hey Bernie Mac should run! I know he's dead, but heck, plenty of dead people voted for Obama and that wasn't an issue...
 
@@ -4266,7 +4266,7 @@ This is getting old too...hell, it's been old.
 
 </div>
 
-<div class="post" data-post-id="27667" data-author="marge" data-date="2009-01-07T18:48:21+00:00">
+<div class="post" data-post-id="27667" data-author="marge" data-date="2009-01-07T18:48:21+00:00" data-subject="">
 
 just for the record, my OMG comment is one of shock and delight. I'm all for it!
 
@@ -4274,7 +4274,7 @@ Colbert/Daily 2016!
 
 </div>
 
-<div class="post" data-post-id="27898" data-author="marge" data-date="2009-01-28T04:23:07+00:00">
+<div class="post" data-post-id="27898" data-author="marge" data-date="2009-01-28T04:23:07+00:00" data-subject="">
 
 <-40hp 56ma 272mv>
 
@@ -4282,7 +4282,7 @@ burning phoenix bird Aston -- 'heal tank?'
 
 </div>
 
-<div class="post" data-post-id="27911" data-author="firebrand" data-date="2009-01-29T19:14:10+00:00">
+<div class="post" data-post-id="27911" data-author="firebrand" data-date="2009-01-29T19:14:10+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.parentdish.com/2009/01/29/ne ... libraries/">http://www.parentdish.com/2009/01/29/new-law-may-eviscerate-libraries/</LINK_TEXT>](http://www.parentdish.com/2009/01/29/new-law-may-eviscerate-libraries/)
 
@@ -4290,7 +4290,7 @@ burning phoenix bird Aston -- 'heal tank?'
 
 </div>
 
-<div class="post" data-post-id="27912" data-author="firebrand" data-date="2009-01-29T19:23:27+00:00">
+<div class="post" data-post-id="27912" data-author="firebrand" data-date="2009-01-29T19:23:27+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.gadling.com/2007/12/23/libra ... el-in-nyc/">http://www.gadling.com/2007/12/23/library-themed-hotel-in-nyc/</LINK_TEXT>](http://www.gadling.com/2007/12/23/library-themed-hotel-in-nyc/)
 
@@ -4298,19 +4298,19 @@ burning phoenix bird Aston -- 'heal tank?'
 
 </div>
 
-<div class="post" data-post-id="27961" data-author="marge" data-date="2009-02-01T01:20:44+00:00">
+<div class="post" data-post-id="27961" data-author="marge" data-date="2009-02-01T01:20:44+00:00" data-subject="">
 
 contagion epic should reward now.
 
 </div>
 
-<div class="post" data-post-id="27968" data-author="marge" data-date="2009-02-02T02:38:00+00:00">
+<div class="post" data-post-id="27968" data-author="marge" data-date="2009-02-02T02:38:00+00:00" data-subject="">
 
 I think I fixed zallah and contagion right this time. Should give leader and point bonuses now.
 
 </div>
 
-<div class="post" data-post-id="27983" data-author="marge" data-date="2009-02-05T00:26:21+00:00">
+<div class="post" data-post-id="27983" data-author="marge" data-date="2009-02-05T00:26:21+00:00" data-subject="">
 
 The evilness he emits is unequivocable.  Dark rays of black light radiate
 
@@ -4380,7 +4380,7 @@ Toxis reports 942/1317 hp. Change: -103. Need: 375. Spells: aegis, greater fluid
 
 </div>
 
-<div class="post" data-post-id="27989" data-author="Tap" data-date="2009-02-05T10:17:52+00:00">
+<div class="post" data-post-id="27989" data-author="Tap" data-date="2009-02-05T10:17:52+00:00" data-subject="">
 
 Talk about evil...
 
@@ -4394,7 +4394,7 @@ Bill Gates Unleashes Swarm of Mosquitoes on Crowd
 
 </div>
 
-<div class="post" data-post-id="28027" data-author="Mosaix" data-date="2009-02-09T17:45:47+00:00">
+<div class="post" data-post-id="28027" data-author="Mosaix" data-date="2009-02-09T17:45:47+00:00" data-subject="">
 
 Great news!
 
@@ -4402,7 +4402,7 @@ Great news!
 
 </div>
 
-<div class="post" data-post-id="28029" data-author="Medios" data-date="2009-02-09T21:03:42+00:00">
+<div class="post" data-post-id="28029" data-author="Medios" data-date="2009-02-09T21:03:42+00:00" data-subject="">
 
 Great news!
 
@@ -4426,13 +4426,13 @@ Clearly this is a bs article.  I can come up with plenty of correlations which a
 
 </div>
 
-<div class="post" data-post-id="28031" data-author="Mosaix" data-date="2009-02-10T02:12:52+00:00">
+<div class="post" data-post-id="28031" data-author="Mosaix" data-date="2009-02-10T02:12:52+00:00" data-subject="">
 
 For random reading only, no need to pitch a fit about weed.
 
 </div>
 
-<div class="post" data-post-id="28576" data-author="Yasik2" data-date="2009-03-21T11:50:24+00:00">
+<div class="post" data-post-id="28576" data-author="Yasik2" data-date="2009-03-21T11:50:24+00:00" data-subject="">
 
 [i:u8r6x6za]The embattled US insurance company AIG has warned its staff to travel in pairs after dark, not to wear company logos and to avoid discussing their work outside the office, as public outrage boils over at multimillion-dollar executive bonuses.
 
@@ -4452,13 +4452,13 @@ The time has come to strike fear into slimy hearts of greedy cunning swindlers, 
 
 </div>
 
-<div class="post" data-post-id="28577" data-author="Tap" data-date="2009-03-21T17:35:36+00:00">
+<div class="post" data-post-id="28577" data-author="Tap" data-date="2009-03-21T17:35:36+00:00" data-subject="">
 
 Not sure if you are being sarcastic or not but this is terrible. Now the book is wide open to throw out all contracts of all types for whatever suits the guv-mint.
 
 </div>
 
-<div class="post" data-post-id="28578" data-author="Yasik2" data-date="2009-03-21T17:51:55+00:00">
+<div class="post" data-post-id="28578" data-author="Yasik2" data-date="2009-03-21T17:51:55+00:00" data-subject="">
 
 Not being sarcastic.
 
@@ -4474,7 +4474,7 @@ Bonus applies when you work over-time etc, or invent something useful.
 
 </div>
 
-<div class="post" data-post-id="28579" data-author="Vixn" data-date="2009-03-21T18:33:05+00:00">
+<div class="post" data-post-id="28579" data-author="Vixn" data-date="2009-03-21T18:33:05+00:00" data-subject="">
 
 No, as I know company pays retention bonus to person who promised to stay for the company for another 12 months and fulfil the promise. Though I think those guys are turds anyway. And their bosses alike.
 
@@ -4482,7 +4482,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="28580" data-author="Weasel" data-date="2009-03-21T19:51:32+00:00">
+<div class="post" data-post-id="28580" data-author="Weasel" data-date="2009-03-21T19:51:32+00:00" data-subject="">
 
 Not sure if you are being sarcastic or not but this is terrible. Now the book is wide open to throw out all contracts of all types for whatever suits the guv-mint.[/quote:2ay1mdgl]
 
@@ -4494,7 +4494,7 @@ Note that I am talking in particular about retention bonuses here btw, which [i:
 
 </div>
 
-<div class="post" data-post-id="28581" data-author="Yasik2" data-date="2009-03-21T22:56:10+00:00">
+<div class="post" data-post-id="28581" data-author="Yasik2" data-date="2009-03-21T22:56:10+00:00" data-subject="">
 
 Let me explain.
 
@@ -4516,13 +4516,13 @@ If you have spare 1M coins and loan to someone, making a deal they return 1.1M -
 
 </div>
 
-<div class="post" data-post-id="28582" data-author="Tap" data-date="2009-03-22T04:34:10+00:00">
+<div class="post" data-post-id="28582" data-author="Tap" data-date="2009-03-22T04:34:10+00:00" data-subject="">
 
 Loaning someone a million dollars and having them pay you back 1.1 mil is not cheating,swindling etc..it's investing.. you might not be doing the "work" per se but you are taking a chance of getting nothing back. It could fall flat then you are out 1 million.You should be compensated for your commitment which in itself is aiding someone else reach their goals. I don't know all the details of what happens at A.I.G.,, I'm not sure anyone does.. I do know alot of spin from both sides have came out of this mess.. If what I hear is true, then some of the payments would be legitimate and others just "good ole boys" taking care of each other. They did in fact get paid from completing a service for which they were hired. Sure, they might have fixed themselves out of having a job, but I'm guessing their expertise as advisors would force them to work for only companies that needed help. Not unlike a physician..once they fix you, they don't keep working on you, they move on to someone else. What you define as work might work for you but you don't know what these people did.. maybe they did use their hands.. maybe they spent 60+ hours a week working to fix a problem which they did complete in order to receive the bonuses. from what I am hearing, Fannie Mae and Freddie Mac are also giving out bonuses that rival in amounts to what A.I.G. has. I'm to the point, being the suspicious person that I am *read paranoid* that this is only a diversion to draw attention from something bigger that is going on. Most people are sheep, they can be goaded to follow a certain path. Osama knows this and he is playing the crowd like a fiddle.
 
 </div>
 
-<div class="post" data-post-id="28583" data-author="Yasik2" data-date="2009-03-22T04:44:03+00:00">
+<div class="post" data-post-id="28583" data-author="Yasik2" data-date="2009-03-22T04:44:03+00:00" data-subject="">
 
 "Helping someone reach their goals" is such a sorry self-excuse !
 
@@ -4532,7 +4532,7 @@ Charging %% is taking advantage of someone's misery.
 
 </div>
 
-<div class="post" data-post-id="28584" data-author="Weasel" data-date="2009-03-22T12:27:46+00:00">
+<div class="post" data-post-id="28584" data-author="Weasel" data-date="2009-03-22T12:27:46+00:00" data-subject="">
 
 Yasik you make my head hurt. You really do.
 
@@ -4544,7 +4544,7 @@ Never Argue with an Idiot. They'll drag you down to their level and beat you wit
 
 </div>
 
-<div class="post" data-post-id="28585" data-author="firebrand" data-date="2009-03-22T16:08:22+00:00">
+<div class="post" data-post-id="28585" data-author="firebrand" data-date="2009-03-22T16:08:22+00:00" data-subject="">
 
 [<LINK_TEXT text="http://news.aol.com/article/california- ... her/392241">http://news.aol.com/article/california-student-saves-choking-teacher/392241</LINK_TEXT>](http://news.aol.com/article/california-student-saves-choking-teacher/392241)
 
@@ -4552,7 +4552,7 @@ Never Argue with an Idiot. They'll drag you down to their level and beat you wit
 
 </div>
 
-<div class="post" data-post-id="28586" data-author="Yasik2" data-date="2009-03-22T18:29:20+00:00">
+<div class="post" data-post-id="28586" data-author="Yasik2" data-date="2009-03-22T18:29:20+00:00" data-subject="">
 
 Yasik you make my head hurt. You really do.
 
@@ -4564,13 +4564,13 @@ Never Argue with an Idiot. They'll drag you down to their level and beat you wit
 
 </div>
 
-<div class="post" data-post-id="28587" data-author="Weasel" data-date="2009-03-22T19:14:37+00:00">
+<div class="post" data-post-id="28587" data-author="Weasel" data-date="2009-03-22T19:14:37+00:00" data-subject="">
 
 see?
 
 </div>
 
-<div class="post" data-post-id="28588" data-author="Yasik2" data-date="2009-03-22T19:31:45+00:00">
+<div class="post" data-post-id="28588" data-author="Yasik2" data-date="2009-03-22T19:31:45+00:00" data-subject="">
 
 If you're OK with your money goes to smartass society parazites - your choise.
 
@@ -4578,7 +4578,7 @@ I still believe there can't be capitalist with a human face.
 
 </div>
 
-<div class="post" data-post-id="28590" data-author="Medios" data-date="2009-03-23T00:31:31+00:00">
+<div class="post" data-post-id="28590" data-author="Medios" data-date="2009-03-23T00:31:31+00:00" data-subject="">
 
 I don't quite understand what your saying Yasik.  I use credit cards but have never paid 1 cent in interest on them.  I use the rewards to actually make money from them.
 
@@ -4586,7 +4586,7 @@ I do have a home mortgage at 6.125% but I pay less with my mortgage and taxes/in
 
 </div>
 
-<div class="post" data-post-id="28592" data-author="*juggleblood*" data-date="2009-03-23T02:06:20+00:00">
+<div class="post" data-post-id="28592" data-author="*juggleblood*" data-date="2009-03-23T02:06:20+00:00" data-subject="">
 
 There is no black and white distinction 'capitalist' or 'socialist' or even 'communist'. Much of the arguing that goes back and forth is hyperbole and abstract jargon.
 
@@ -4598,7 +4598,7 @@ I thought Obama would be more moderate than he's demonstrated so far. I don't li
 
 </div>
 
-<div class="post" data-post-id="28594" data-author="Tap" data-date="2009-03-23T04:50:08+00:00">
+<div class="post" data-post-id="28594" data-author="Tap" data-date="2009-03-23T04:50:08+00:00" data-subject="">
 
 Crazy guy in the back raising hand.
 
@@ -4608,7 +4608,7 @@ A global reset to which all nations will unite and become a one world government
 
 </div>
 
-<div class="post" data-post-id="28603" data-author="Vixn" data-date="2009-03-23T16:26:38+00:00">
+<div class="post" data-post-id="28603" data-author="Vixn" data-date="2009-03-23T16:26:38+00:00" data-subject="">
 
 A global reset to which all nations will unite and become a one world government under one currency.[/quote:9prji3up]
 
@@ -4618,7 +4618,7 @@ Nods, nods. All hail Mao!
 
 </div>
 
-<div class="post" data-post-id="28606" data-author="angel" data-date="2009-03-24T01:18:53+00:00">
+<div class="post" data-post-id="28606" data-author="angel" data-date="2009-03-24T01:18:53+00:00" data-subject="">
 
 Toxis skillfully parries the attack of Sailor Bill.
 
@@ -4652,7 +4652,7 @@ flex
 
 </div>
 
-<div class="post" data-post-id="28608" data-author="Weasel" data-date="2009-03-24T05:41:27+00:00">
+<div class="post" data-post-id="28608" data-author="Weasel" data-date="2009-03-24T05:41:27+00:00" data-subject="">
 
 A global reset to which all nations will unite and become a one world government under one currency.[/quote:1epf6soy]
 
@@ -4666,7 +4666,7 @@ not at all surprised.
 
 </div>
 
-<div class="post" data-post-id="28609" data-author="Tap" data-date="2009-03-24T22:18:48+00:00">
+<div class="post" data-post-id="28609" data-author="Tap" data-date="2009-03-24T22:18:48+00:00" data-subject="">
 
 Britain pondering on how to reduce its population to just 30 million people...
 
@@ -4686,7 +4686,7 @@ so 10 minutes later I tried Gordon Brown O.P.P.
 
 </div>
 
-<div class="post" data-post-id="28624" data-author="jezer" data-date="2009-03-28T00:26:56+00:00">
+<div class="post" data-post-id="28624" data-author="jezer" data-date="2009-03-28T00:26:56+00:00" data-subject="">
 
 Just got back from a 3 week holiday to New Zealand. The effect of the 'Recession' is different there, exports are hurting more... I'd have to say in Australia where I am, we are still waiting for it to 'hit' in comparison.
 
@@ -4696,13 +4696,13 @@ I'm not sure China can stay being, so called, "communist", if the full power of 
 
 </div>
 
-<div class="post" data-post-id="28625" data-author="Weasel" data-date="2009-03-28T01:09:08+00:00">
+<div class="post" data-post-id="28625" data-author="Weasel" data-date="2009-03-28T01:09:08+00:00" data-subject="">
 
 Nice, where did you go in NZ? That's where I'm from :)
 
 </div>
 
-<div class="post" data-post-id="28626" data-author="jezer" data-date="2009-03-28T01:34:50+00:00">
+<div class="post" data-post-id="28626" data-author="jezer" data-date="2009-03-28T01:34:50+00:00" data-subject="">
 
 Oamaru/Christchurch. All my extended family live there. It's an awesome lifestyle... snowboarding, hunting, hiking, surfing (if your mad). I have a bunch of cousins of a similar age heavily into these things. I just can't do this city thing any more... it's not me, and I just find myself wishing I was back. The weather can be pretty random but I discovered this clothing brand called icebreaker.
 
@@ -4714,7 +4714,7 @@ OMG! Unbelievable! I can wear like 2 layers of this stuff at 5 degrees and not f
 
 </div>
 
-<div class="post" data-post-id="28627" data-author="Weasel" data-date="2009-03-28T01:45:54+00:00">
+<div class="post" data-post-id="28627" data-author="Weasel" data-date="2009-03-28T01:45:54+00:00" data-subject="">
 
 HA! Bunch of the boys drove from Dunedin to Oamaru just to get takeaways once - they have (or had) one of the best takeaway fish and chip shops in the country. At least it seemed that way when we had the munchies. 
 
@@ -4724,7 +4724,7 @@ Skiing around there is EPIC too. Mt Hutt is great. My grandma lived most of her 
 
 </div>
 
-<div class="post" data-post-id="28628" data-author="jezer" data-date="2009-03-28T02:23:54+00:00">
+<div class="post" data-post-id="28628" data-author="jezer" data-date="2009-03-28T02:23:54+00:00" data-subject="">
 
 Sounds like the fish and chip shop at the junction. We had it 3 times while I was over.  :D 
 
@@ -4748,7 +4748,7 @@ Good times with all the laughs added for good measure. I can't wait to move back
 
 </div>
 
-<div class="post" data-post-id="28629" data-author="Weasel" data-date="2009-03-28T03:03:53+00:00">
+<div class="post" data-post-id="28629" data-author="Weasel" data-date="2009-03-28T03:03:53+00:00" data-subject="">
 
 Great pics, thanks for posting! I like a panorama shot too. What sort of camera? Starting to cool down a little over there now I guess.. late summer.. nice time of year. Actually most any time is a nice time of year there. :)
 
@@ -4756,7 +4756,7 @@ I miss NZ.
 
 </div>
 
-<div class="post" data-post-id="28630" data-author="jezer" data-date="2009-03-28T03:12:29+00:00">
+<div class="post" data-post-id="28630" data-author="jezer" data-date="2009-03-28T03:12:29+00:00" data-subject="">
 
 Camera was a Canon 450 Digital SLR. I obviously had to size the photo for posting, but in it's original form its 5 x 10 mega pixel photo's stitched together.
 
@@ -4764,7 +4764,7 @@ A lot of people from NZ leave and go overseas... most return within 15 years. Gu
 
 </div>
 
-<div class="post" data-post-id="28631" data-author="Weasel" data-date="2009-03-28T03:43:54+00:00">
+<div class="post" data-post-id="28631" data-author="Weasel" data-date="2009-03-28T03:43:54+00:00" data-subject="">
 
 Nice stitching work. I recently got a Canon SX10IS (actually it was a present from my g/f). Nice camera - about as close as it gets to SLR without actually officially being one.
 
@@ -4772,7 +4772,7 @@ I've been gone from NZ since 2001. Who knows when we'll head back. You're Aussie
 
 </div>
 
-<div class="post" data-post-id="28632" data-author="Yasik2" data-date="2009-03-28T05:00:30+00:00">
+<div class="post" data-post-id="28632" data-author="Yasik2" data-date="2009-03-28T05:00:30+00:00" data-subject="">
 
 The focus of the recession all seems to be about China here... rumours our government is borrowing big from them. Private companies in China seem to be investing big in other countries infrastructure while people are desperate for cash. When(?) it all clears up, figure China is going to be a huge player in practically everything. It seems to be in the throws of going from caterpillar to butterfly... however so much conflicting information... like is there economic strength really as large as suggested, or is it just some phoney communistic spin?
 
@@ -4784,7 +4784,7 @@ Chinese now own your ass.
 
 </div>
 
-<div class="post" data-post-id="28634" data-author="jezer" data-date="2009-03-28T05:17:22+00:00">
+<div class="post" data-post-id="28634" data-author="jezer" data-date="2009-03-28T05:17:22+00:00" data-subject="">
 
 The stitch photo was played around with in photoshop for a bit to make sure the stitch lines were cleared, and the light was adjusted. Clear sky's and good light for photographs can be a rare thing in New Zealand especially down south or on the mountains. When we were following the creek bed, it was absolutely beautiful. The sun shining through the canopy into a creek with old trees messed up by avalanches covered in moss up to 20cm's thick, but the light was bad, and with no tripod the photo's were disappointing and blured. This place was pretty remote... about 4hrs walk from the nearest road, carrying camera equip is a real drag. I'd personally not bother dragging an DSLR out there with a bunch of lenses and just enjoy the outdoors more. 
 
@@ -4792,7 +4792,7 @@ My cousin's wife works at a photo shop and my cousin kind of does the whole phot
 
 </div>
 
-<div class="post" data-post-id="28635" data-author="Medios" data-date="2009-03-28T14:07:58+00:00">
+<div class="post" data-post-id="28635" data-author="Medios" data-date="2009-03-28T14:07:58+00:00" data-subject="">
 
 Because chinese WORK, not play on markets?exchanges helpin' to blow up the financial balloon (which is broke half-year ago).
 
@@ -4804,7 +4804,7 @@ I might have to take Tap's player hater award and certify it to Yasik.
 
 </div>
 
-<div class="post" data-post-id="28637" data-author="Yasik2" data-date="2009-03-28T14:55:06+00:00">
+<div class="post" data-post-id="28637" data-author="Yasik2" data-date="2009-03-28T14:55:06+00:00" data-subject="">
 
 Because chinese WORK, not play on markets?exchanges helpin' to blow up the financial balloon (which is broke half-year ago).
 
@@ -4828,7 +4828,7 @@ What makes you think i hate someone or something?
 
 </div>
 
-<div class="post" data-post-id="28638" data-author="Tap" data-date="2009-03-28T15:02:22+00:00">
+<div class="post" data-post-id="28638" data-author="Tap" data-date="2009-03-28T15:02:22+00:00" data-subject="">
 
 China is great because if you open your mouth and protest, you get ran over by a tank or get to take an exciting "vacation" for a long time(usually on the down-lo). They also ban all those pesky religions and make sure you handle your own abortions..you know.. its illegal to have too many kids there.
 
@@ -4836,7 +4836,7 @@ Awesome!!!
 
 </div>
 
-<div class="post" data-post-id="28639" data-author="Yasik2" data-date="2009-03-28T15:10:18+00:00">
+<div class="post" data-post-id="28639" data-author="Yasik2" data-date="2009-03-28T15:10:18+00:00" data-subject="">
 
 Also they almost dont have corrupted officials of any rank.
 
@@ -4848,7 +4848,7 @@ i'm outta here
 
 </div>
 
-<div class="post" data-post-id="28640" data-author="Weasel" data-date="2009-03-28T16:06:44+00:00">
+<div class="post" data-post-id="28640" data-author="Weasel" data-date="2009-03-28T16:06:44+00:00" data-subject="">
 
 Also they almost dont have corrupted officials of any rank.[/quote:15aveofy]
 
@@ -4858,7 +4858,7 @@ p.s. just so you don't accuse me of biased 'hating', imo much of America's polit
 
 </div>
 
-<div class="post" data-post-id="28641" data-author="Yasik2" data-date="2009-03-28T16:22:25+00:00">
+<div class="post" data-post-id="28641" data-author="Yasik2" data-date="2009-03-28T16:22:25+00:00" data-subject="">
 
 HAHAHAHA! Holy crap what fantasy world are you living in? China's (political) elite are as corrupt as Russia's, if not more! You really don't seem to have a clue about anything, except maybe posting death metal videos from youtube. Maybe you should just stick to that.
 
@@ -4868,7 +4868,7 @@ Oh, you've been inspecting chinese bureaucracy for last 20 years, that's why you
 
 </div>
 
-<div class="post" data-post-id="28642" data-author="Weasel" data-date="2009-03-28T16:26:08+00:00">
+<div class="post" data-post-id="28642" data-author="Weasel" data-date="2009-03-28T16:26:08+00:00" data-subject="">
 
 HAHAHAHA! Holy crap what fantasy world are you living in? China's (political) elite are as corrupt as Russia's, if not more! You really don't seem to have a clue about anything, except maybe posting death metal videos from youtube. Maybe you should just stick to that.
 
@@ -4880,13 +4880,13 @@ Yes I have. You really are an ignorant f*ck aren't you. Never mind - I need to t
 
 </div>
 
-<div class="post" data-post-id="28643" data-author="Yasik2" data-date="2009-03-28T16:50:21+00:00">
+<div class="post" data-post-id="28643" data-author="Yasik2" data-date="2009-03-28T16:50:21+00:00" data-subject="">
 
 Aww you posted only twice, ran out of arguments and switched to insults? I expected more, but looks like you dont improve. That's sad...
 
 </div>
 
-<div class="post" data-post-id="28644" data-author="Weasel" data-date="2009-03-28T17:57:15+00:00">
+<div class="post" data-post-id="28644" data-author="Weasel" data-date="2009-03-28T17:57:15+00:00" data-subject="">
 
 Aww you posted only twice, ran out of arguments and switched to insults? I expected more, but looks like you dont improve. That's sad...[/quote:1xd0cmzg]
 
@@ -4894,13 +4894,13 @@ Aww you posted only twice, ran out of arguments and switched to insults? I expec
 
 </div>
 
-<div class="post" data-post-id="28645" data-author="Yasik2" data-date="2009-03-28T18:17:23+00:00">
+<div class="post" data-post-id="28645" data-author="Yasik2" data-date="2009-03-28T18:17:23+00:00" data-subject="">
 
 [img:3m3oc0ta]http://yasik.kiev.ua/Scared_boy_Weasel.jpg[/img:3m3oc0ta]
 
 </div>
 
-<div class="post" data-post-id="28646" data-author="Weasel" data-date="2009-03-28T18:21:24+00:00">
+<div class="post" data-post-id="28646" data-author="Weasel" data-date="2009-03-28T18:21:24+00:00" data-subject="">
 
 fear me.
 
@@ -4908,19 +4908,19 @@ fear me.
 
 </div>
 
-<div class="post" data-post-id="28647" data-author="angel" data-date="2009-03-29T10:05:43+00:00">
+<div class="post" data-post-id="28647" data-author="angel" data-date="2009-03-29T10:05:43+00:00" data-subject="">
 
 is mud getting verry laggish or what?
 
 </div>
 
-<div class="post" data-post-id="28648" data-author="Weasel" data-date="2009-03-29T16:58:04+00:00">
+<div class="post" data-post-id="28648" data-author="Weasel" data-date="2009-03-29T16:58:04+00:00" data-subject="">
 
 yeah I've noticed it almost every time I've logged in the last week or so.. :(
 
 </div>
 
-<div class="post" data-post-id="28677" data-author="jezer" data-date="2009-04-07T12:57:46+00:00">
+<div class="post" data-post-id="28677" data-author="jezer" data-date="2009-04-07T12:57:46+00:00" data-subject="">
 
 I guess my mental pic for some players is the overweight twenty something wearing a black death metal t-shirt hanging out with the fat chicks at some no name concert. If that's you... you won't like this...  :twisted: 
 
@@ -4932,13 +4932,13 @@ Yasik Unsafe :!:
 
 </div>
 
-<div class="post" data-post-id="28679" data-author="Weasel" data-date="2009-04-07T20:10:17+00:00">
+<div class="post" data-post-id="28679" data-author="Weasel" data-date="2009-04-07T20:10:17+00:00" data-subject="">
 
 Too depressing for me sorry. Sounds like he's spent a few years under a whiskey bottle with that husky voice. As far as that genre goes, I prefer the likes of James Taylor or some Cat Stevens (albeit a couple of decades earlier).
 
 </div>
 
-<div class="post" data-post-id="28951" data-author="Yasik2" data-date="2009-04-17T05:23:25+00:00">
+<div class="post" data-post-id="28951" data-author="Yasik2" data-date="2009-04-17T05:23:25+00:00" data-subject="">
 
 [code:gp2bk0kg]<331hp 99ma 88mv> -10 [overcast] AC: -0.5   EXP: 1140610   COINS: 9
 
@@ -4950,7 +4950,7 @@ The Mayor Sir Virdo leaves up.[/code:gp2bk0kg]
 
 </div>
 
-<div class="post" data-post-id="29063" data-author="Weasel" data-date="2009-04-26T16:14:58+00:00">
+<div class="post" data-post-id="29063" data-author="Weasel" data-date="2009-04-26T16:14:58+00:00" data-subject="Anyone play Guild Wars?">
 
 Anyone here play Guild Wars? Would appreciate any views on it - I'm considering getting Trilogy (includes Guild Wars, Guild Wars Factions, and Guild Wars Nightfall).. the fact it has no subscription fee is a [b:31hmsnq0]big[/b:31hmsnq0] plus for me.. 
 
@@ -4958,7 +4958,7 @@ Got my new PC up and running sweet; Vista 64-bit, i7-920 now clocked and very st
 
 </div>
 
-<div class="post" data-post-id="29064" data-author="Rigwarl" data-date="2009-04-26T16:45:03+00:00">
+<div class="post" data-post-id="29064" data-author="Rigwarl" data-date="2009-04-26T16:45:03+00:00" data-subject="">
 
 Guild wars is alright and I reckon it will be fun. The no subscription fees is indeed a bonus. Anyhow you will be quick to find annoying and rude kids on there within your first hour ;)
 
@@ -4968,7 +4968,7 @@ P.S. Nice Rig! EVGA makes very decent cards! What kind of mobo you powering this
 
 </div>
 
-<div class="post" data-post-id="29065" data-author="Weasel" data-date="2009-04-26T17:24:52+00:00">
+<div class="post" data-post-id="29065" data-author="Weasel" data-date="2009-04-26T17:24:52+00:00" data-subject="">
 
 Guild wars is alright and I reckon it will be fun. The no subscription fees is indeed a bonus. Anyhow you will be quick to find annoying and rude kids on there within your first hour[/quote:su124kzz]
 
@@ -5002,13 +5002,13 @@ It leaves my old PC for dead.. a Dell Dimension 4600 (Pentium4, 2.66GHz) with 3G
 
 </div>
 
-<div class="post" data-post-id="29068" data-author="Tap" data-date="2009-04-27T22:45:41+00:00">
+<div class="post" data-post-id="29068" data-author="Tap" data-date="2009-04-27T22:45:41+00:00" data-subject="">
 
 spend the 15 bucks already you cheap ba$tard and come to WOW realm Blackwater Raiders....look up Autolycos and I'll powerlevel ya
 
 </div>
 
-<div class="post" data-post-id="29074" data-author="Rigwarl" data-date="2009-04-28T17:48:13+00:00">
+<div class="post" data-post-id="29074" data-author="Rigwarl" data-date="2009-04-28T17:48:13+00:00" data-subject="">
 
 Nope, not an ASUS. Mobo is EVGA X58 3xSLI (although I only have a single GTX 285 SSC in there..[i:384hk730] so far[/i:384hk730] ). Latest BIOS seems pretty good.
 
@@ -5026,7 +5026,7 @@ Enjoy your rig!
 
 </div>
 
-<div class="post" data-post-id="29078" data-author="Weasel" data-date="2009-04-29T00:43:17+00:00">
+<div class="post" data-post-id="29078" data-author="Weasel" data-date="2009-04-29T00:43:17+00:00" data-subject="">
 
 Yeah the EVGA motherboards are fine too, but here's the thing, SLI-ing 3x GTX 285 is not worth the dough. With what, a 10% boost that is not visible to the naked eye, but prolly distinguishable on 3D MARK.[/quote:3noo2rav]
 
@@ -5050,7 +5050,7 @@ Sorry, going on a bit about it I guess.. my first ever build and first proper ov
 
 </div>
 
-<div class="post" data-post-id="29079" data-author="Rigwarl" data-date="2009-04-29T10:09:58+00:00">
+<div class="post" data-post-id="29079" data-author="Rigwarl" data-date="2009-04-29T10:09:58+00:00" data-subject="">
 
 Don't worry, if and/or when the novelty runs out, you can upgrade to water cooling!
 
@@ -5064,7 +5064,7 @@ Looking forward to the pics and the pre/post mod shots.
 
 </div>
 
-<div class="post" data-post-id="29528" data-author="Acedia" data-date="2009-06-13T18:35:27+00:00">
+<div class="post" data-post-id="29528" data-author="Acedia" data-date="2009-06-13T18:35:27+00:00" data-subject="">
 
 golden sack 10k
 
@@ -5074,7 +5074,7 @@ gos uh, whoops.  mistell
 
 </div>
 
-<div class="post" data-post-id="29529" data-author="reboog" data-date="2009-06-13T22:38:38+00:00">
+<div class="post" data-post-id="29529" data-author="reboog" data-date="2009-06-13T22:38:38+00:00" data-subject="">
 
 these random comments
 
@@ -5084,19 +5084,19 @@ my thread is better
 
 </div>
 
-<div class="post" data-post-id="29530" data-author="Akasha" data-date="2009-06-14T00:30:35+00:00">
+<div class="post" data-post-id="29530" data-author="Akasha" data-date="2009-06-14T00:30:35+00:00" data-subject="">
 
 Move this silliness back to the appropriate thread pls.
 
 </div>
 
-<div class="post" data-post-id="29531" data-author="Toxis" data-date="2009-06-14T02:30:17+00:00">
+<div class="post" data-post-id="29531" data-author="Toxis" data-date="2009-06-14T02:30:17+00:00" data-subject="">
 
 It was a joke, and it made me laugh.
 
 </div>
 
-<div class="post" data-post-id="29532" data-author="reboog" data-date="2009-06-14T20:43:12+00:00">
+<div class="post" data-post-id="29532" data-author="reboog" data-date="2009-06-14T20:43:12+00:00" data-subject="">
 
 censorship police
 
@@ -5106,7 +5106,7 @@ open for all talk
 
 </div>
 
-<div class="post" data-post-id="29536" data-author="nealo" data-date="2009-06-15T05:59:17+00:00">
+<div class="post" data-post-id="29536" data-author="nealo" data-date="2009-06-15T05:59:17+00:00" data-subject="">
 
 the system is down
 
@@ -5116,7 +5116,7 @@ i am the walrus.
 
 </div>
 
-<div class="post" data-post-id="29552" data-author="jezer" data-date="2009-06-18T00:25:34+00:00">
+<div class="post" data-post-id="29552" data-author="jezer" data-date="2009-06-18T00:25:34+00:00" data-subject="">
 
 Flying to NZ to live - tonight, talk to ya's from time to time on the flip side.
 
@@ -5124,13 +5124,13 @@ Flying to NZ to live - tonight, talk to ya's from time to time on the flip side.
 
 </div>
 
-<div class="post" data-post-id="29560" data-author="Rynquald" data-date="2009-06-18T05:37:18+00:00">
+<div class="post" data-post-id="29560" data-author="Rynquald" data-date="2009-06-18T05:37:18+00:00" data-subject="">
 
 Really? Welcome.
 
 </div>
 
-<div class="post" data-post-id="29561" data-author="jezer" data-date="2009-06-18T07:59:32+00:00">
+<div class="post" data-post-id="29561" data-author="jezer" data-date="2009-06-18T07:59:32+00:00" data-subject="">
 
 Really? Yeap! Moving out of home, changing countries, buying a house, starting a business, contracting current work to my employer over the internet. Doing music things again, everything in my life changes tonight. Hope to do more outdoors stuff, climbing my mountains, search and rescue... real life CR's! :twisted:
 
@@ -5138,25 +5138,25 @@ Bottom line is Australia is crap, or maybe city life is crap, or maybe both, I d
 
 </div>
 
-<div class="post" data-post-id="29562" data-author="Virus" data-date="2009-06-18T08:59:44+00:00">
+<div class="post" data-post-id="29562" data-author="Virus" data-date="2009-06-18T08:59:44+00:00" data-subject="">
 
 Gratz Jezer, hope everything works out for ya...  :D
 
 </div>
 
-<div class="post" data-post-id="29635" data-author="reboog" data-date="2009-06-30T10:03:35+00:00">
+<div class="post" data-post-id="29635" data-author="reboog" data-date="2009-06-30T10:03:35+00:00" data-subject="">
 
 severe economic doom
 
 </div>
 
-<div class="post" data-post-id="29673" data-author="Acedia" data-date="2009-07-07T03:55:13+00:00">
+<div class="post" data-post-id="29673" data-author="Acedia" data-date="2009-07-07T03:55:13+00:00" data-subject="random comments on nothing">
 
 reboog is great
 
 </div>
 
-<div class="post" data-post-id="29688" data-author="Toxis" data-date="2009-07-10T05:21:56+00:00">
+<div class="post" data-post-id="29688" data-author="Toxis" data-date="2009-07-10T05:21:56+00:00" data-subject="">
 
 The Island of Doctor Moreau is an 1896 science fiction novel written by H. G. Wells.
 
@@ -5166,7 +5166,7 @@ I think Reboog is the offspring of the creations of Dr. Moreau. :)~
 
 </div>
 
-<div class="post" data-post-id="29843" data-author="jezer" data-date="2009-08-17T19:37:00+00:00">
+<div class="post" data-post-id="29843" data-author="jezer" data-date="2009-08-17T19:37:00+00:00" data-subject="">
 
 Just wish to point out the new changes to bard seem a good example to me of improving a class without overpowering it.
 
@@ -5176,19 +5176,19 @@ It would be good to see similar improvements to monks, not over powering them, j
 
 </div>
 
-<div class="post" data-post-id="29844" data-author="Dragoth" data-date="2009-08-17T21:47:03+00:00">
+<div class="post" data-post-id="29844" data-author="Dragoth" data-date="2009-08-17T21:47:03+00:00" data-subject="">
 
 Its not a song that gives you AC , its a song that allows you to get -1ac max more than other classes apparently..  :roll:
 
 </div>
 
-<div class="post" data-post-id="29845" data-author="jezer" data-date="2009-08-17T23:00:33+00:00">
+<div class="post" data-post-id="29845" data-author="jezer" data-date="2009-08-17T23:00:33+00:00" data-subject="">
 
 Ohhh... little use unless u have leet gears then. Hitting ethers is kinda nice, esp if it hits harder than spirit hammer.
 
 </div>
 
-<div class="post" data-post-id="29846" data-author="Dragoth" data-date="2009-08-18T00:36:20+00:00">
+<div class="post" data-post-id="29846" data-author="Dragoth" data-date="2009-08-18T00:36:20+00:00" data-subject="">
 
 Shrugs, with a cleric in your class order you can create a spiritual hammer which will hit ether mobs. Granted it might not have the best dice roll, but you can sing lion chorus which will give you +4 extra damage.
 
@@ -5196,7 +5196,7 @@ As for AC song I was under the impression that it was -1 AC, not -1 AC_max as we
 
 </div>
 
-<div class="post" data-post-id="29880" data-author="Rigwarl" data-date="2009-08-20T14:09:08+00:00">
+<div class="post" data-post-id="29880" data-author="Rigwarl" data-date="2009-08-20T14:09:08+00:00" data-subject="Safe and Easy Fun on Lyme">
 
 This is a good run btw ;)
 
@@ -5316,7 +5316,7 @@ Won't you join us? ;)
 
 </div>
 
-<div class="post" data-post-id="29881" data-author="Dragoth" data-date="2009-08-20T16:42:05+00:00">
+<div class="post" data-post-id="29881" data-author="Dragoth" data-date="2009-08-20T16:42:05+00:00" data-subject="">
 
 You receive 4,635,715 experience points as your share.
 
@@ -5324,7 +5324,7 @@ I have to kill 10 mobs to get that, and you got that in 10 seconds even after a 
 
 </div>
 
-<div class="post" data-post-id="29883" data-author="Rigwarl" data-date="2009-08-20T17:49:45+00:00">
+<div class="post" data-post-id="29883" data-author="Rigwarl" data-date="2009-08-20T17:49:45+00:00" data-subject="">
 
 Hence my calling it a good run ;)
 
@@ -5332,13 +5332,13 @@ Hence my calling it a good run ;)
 
 </div>
 
-<div class="post" data-post-id="29884" data-author="Dragoth" data-date="2009-08-20T18:13:03+00:00">
+<div class="post" data-post-id="29884" data-author="Dragoth" data-date="2009-08-20T18:13:03+00:00" data-subject="">
 
 And i guess wont you join us is an invitation for everyone to do exp with next time ? :wink:
 
 </div>
 
-<div class="post" data-post-id="29885" data-author="Rigwarl" data-date="2009-08-20T18:17:45+00:00">
+<div class="post" data-post-id="29885" data-author="Rigwarl" data-date="2009-08-20T18:17:45+00:00" data-subject="">
 
 Most definitely. 
 
@@ -5346,13 +5346,13 @@ Most definitely.
 
 </div>
 
-<div class="post" data-post-id="29886" data-author="Dragoth" data-date="2009-08-20T18:32:39+00:00">
+<div class="post" data-post-id="29886" data-author="Dragoth" data-date="2009-08-20T18:32:39+00:00" data-subject="">
 
 Cool, i guess i wont take Cizin's - "we are too big already" response into consideration and join you anyway  :wink:
 
 </div>
 
-<div class="post" data-post-id="29891" data-author="jezer" data-date="2009-08-21T00:54:04+00:00">
+<div class="post" data-post-id="29891" data-author="jezer" data-date="2009-08-21T00:54:04+00:00" data-subject="">
 
 [url:2sinuh4l]http://www.youtube.com/watch?v=nqM4tKPDlR8[/url:2sinuh4l]
 
@@ -5362,7 +5362,7 @@ What do all you yanks think about this? Sounds scarey to me.
 
 </div>
 
-<div class="post" data-post-id="29932" data-author="jezer" data-date="2009-08-26T01:01:00+00:00">
+<div class="post" data-post-id="29932" data-author="jezer" data-date="2009-08-26T01:01:00+00:00" data-subject="">
 
 [url:3ot0zax7]http://www.youtube.com/watch?v=518XP8prwZo[/url:3ot0zax7]
 
@@ -5370,7 +5370,7 @@ One of the best.
 
 </div>
 
-<div class="post" data-post-id="29935" data-author="Medios" data-date="2009-08-26T21:05:31+00:00">
+<div class="post" data-post-id="29935" data-author="Medios" data-date="2009-08-26T21:05:31+00:00" data-subject="">
 
 Is Obama spreading the wealth around???  
 
@@ -5388,7 +5388,7 @@ Itâ€™s all part of the massive American Recovery and Reinvestment Act of 20
 
 </div>
 
-<div class="post" data-post-id="29936" data-author="*juggleblood*" data-date="2009-08-26T21:24:55+00:00">
+<div class="post" data-post-id="29936" data-author="*juggleblood*" data-date="2009-08-26T21:24:55+00:00" data-subject="">
 
 And the same did not occur w/ Bush's stimulus checks?
 
@@ -5398,7 +5398,7 @@ If not then the only possible conclusion is clear: Obama loves murderers and rap
 
 </div>
 
-<div class="post" data-post-id="29938" data-author="Mosaix" data-date="2009-08-26T23:51:39+00:00">
+<div class="post" data-post-id="29938" data-author="Mosaix" data-date="2009-08-26T23:51:39+00:00" data-subject="">
 
 Good to see Mike on the citizens watch after being asleep the last 8 years.
 
@@ -5408,25 +5408,25 @@ Wingnuts....
 
 </div>
 
-<div class="post" data-post-id="29939" data-author="*juggleblood*" data-date="2009-08-27T00:13:02+00:00">
+<div class="post" data-post-id="29939" data-author="*juggleblood*" data-date="2009-08-27T00:13:02+00:00" data-subject="">
 
 You laff now Mosaix, but just wait until Obama turns us all into his zombie sex slaves! Then you'll be sorry...
 
 </div>
 
-<div class="post" data-post-id="29941" data-author="Medios" data-date="2009-08-27T02:46:55+00:00">
+<div class="post" data-post-id="29941" data-author="Medios" data-date="2009-08-27T02:46:55+00:00" data-subject="">
 
 I have posted plenty of grievances I had with the Bush admin.  To me it isn't about Republican versus Democrat.  It is about Federalist versus Anti-Federalist.  If you want the federal government to own all the business and control industry then that's fine your entitled to your opinion.  But seriously stop trying to distort mine.
 
 </div>
 
-<div class="post" data-post-id="29943" data-author="*juggleblood*" data-date="2009-08-27T18:29:23+00:00">
+<div class="post" data-post-id="29943" data-author="*juggleblood*" data-date="2009-08-27T18:29:23+00:00" data-subject="">
 
 I don't see how we could possibly make your opinions look worse than they are. You can't post that bs without expecting to get flamed. As if you didn't already know that...
 
 </div>
 
-<div class="post" data-post-id="29944" data-author="Medios" data-date="2009-08-27T20:19:06+00:00">
+<div class="post" data-post-id="29944" data-author="Medios" data-date="2009-08-27T20:19:06+00:00" data-subject="">
 
 It did not take me long to find this.
 
@@ -5444,7 +5444,7 @@ So it looks like you are also against taxpayer supported hand outs.  What a craz
 
 </div>
 
-<div class="post" data-post-id="29945" data-author="*juggleblood*" data-date="2009-08-27T21:41:22+00:00">
+<div class="post" data-post-id="29945" data-author="*juggleblood*" data-date="2009-08-27T21:41:22+00:00" data-subject="">
 
 I didn't knock you for your anti-federalist position. It's a perfectly respectable point of view.
 
@@ -5462,13 +5462,13 @@ And yah, I occasionally rant as well. U caught me.
 
 </div>
 
-<div class="post" data-post-id="29964" data-author="firebrand" data-date="2009-09-04T03:46:21+00:00">
+<div class="post" data-post-id="29964" data-author="firebrand" data-date="2009-09-04T03:46:21+00:00" data-subject="">
 
 3.25 gpa.  firebrand is great.
 
 </div>
 
-<div class="post" data-post-id="30015" data-author="Vixn" data-date="2009-09-21T05:34:10+00:00">
+<div class="post" data-post-id="30015" data-author="Vixn" data-date="2009-09-21T05:34:10+00:00" data-subject="">
 
 mighty deathgrip
 
@@ -5516,7 +5516,7 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="30245" data-author="Weasel" data-date="2009-11-08T06:19:06+00:00">
+<div class="post" data-post-id="30245" data-author="Weasel" data-date="2009-11-08T06:19:06+00:00" data-subject="">
 
 Wow Sloth still running huh? Good job. 
 
@@ -5534,13 +5534,13 @@ That's about it. Hope you're all well! Hang loose and full of juice.  :wink:
 
 </div>
 
-<div class="post" data-post-id="30246" data-author="Playboy" data-date="2009-11-08T13:21:16+00:00">
+<div class="post" data-post-id="30246" data-author="Playboy" data-date="2009-11-08T13:21:16+00:00" data-subject="">
 
 Thx for the update, good to hear from you. Good luck with the job hunt!
 
 </div>
 
-<div class="post" data-post-id="30250" data-author="Mosaix" data-date="2009-11-10T21:29:25+00:00">
+<div class="post" data-post-id="30250" data-author="Mosaix" data-date="2009-11-10T21:29:25+00:00" data-subject="">
 
 Unemployed/underemployed, and still playing games.
 
@@ -5550,7 +5550,7 @@ Looking forward to hearing about you finally moving out of your mom's basement b
 
 </div>
 
-<div class="post" data-post-id="30251" data-author="Weasel" data-date="2009-11-10T22:14:23+00:00">
+<div class="post" data-post-id="30251" data-author="Weasel" data-date="2009-11-10T22:14:23+00:00" data-subject="">
 
 Unemployed/underemployed, and still playing games.
 
@@ -5570,7 +5570,7 @@ So long, and thanks for reminding me just what an assh0le you are Mosaix, and on
 
 </div>
 
-<div class="post" data-post-id="30252" data-author="*juggleblood*" data-date="2009-11-10T22:43:26+00:00">
+<div class="post" data-post-id="30252" data-author="*juggleblood*" data-date="2009-11-10T22:43:26+00:00" data-subject="">
 
 So long, and thanks for reminding me just what an assh0le you are Mosaix, and one of the reasons not returning was such a good move. Pretty sad that you still have no life outside of SlothMud ..LOL you loser!
 
@@ -5580,13 +5580,13 @@ You're a tool. Thanks for stopping bye. Have a nice life.
 
 </div>
 
-<div class="post" data-post-id="30254" data-author="jezer" data-date="2009-11-11T01:01:03+00:00">
+<div class="post" data-post-id="30254" data-author="jezer" data-date="2009-11-11T01:01:03+00:00" data-subject="">
 
 Always chokes me up to see a coupla 'ol friends meet up again...  :cry:
 
 </div>
 
-<div class="post" data-post-id="30255" data-author="angel" data-date="2009-11-11T01:49:17+00:00">
+<div class="post" data-post-id="30255" data-author="angel" data-date="2009-11-11T01:49:17+00:00" data-subject="">
 
 The librarian auctions-- 'Can you believe Katie is selling me a locked spellbook?'
 
@@ -5600,7 +5600,7 @@ haha
 
 </div>
 
-<div class="post" data-post-id="30257" data-author="Weasel" data-date="2009-11-11T07:01:50+00:00">
+<div class="post" data-post-id="30257" data-author="Weasel" data-date="2009-11-11T07:01:50+00:00" data-subject="">
 
 You're a tool. Thanks for stopping bye. Have a nice life.[/quote:1ryn3zam]
 
@@ -5612,7 +5612,7 @@ You're a tool. Thanks for stopping bye. Have a nice life.[/quote:1ryn3zam]
 
 </div>
 
-<div class="post" data-post-id="30261" data-author="Weasel" data-date="2009-11-11T07:45:31+00:00">
+<div class="post" data-post-id="30261" data-author="Weasel" data-date="2009-11-11T07:45:31+00:00" data-subject="">
 
 HAI JUGGZ!
 
@@ -5622,7 +5622,7 @@ HAI JUGGZ!
 
 </div>
 
-<div class="post" data-post-id="30263" data-author="angel" data-date="2009-11-11T18:49:19+00:00">
+<div class="post" data-post-id="30263" data-author="angel" data-date="2009-11-11T18:49:19+00:00" data-subject="">
 
 [<LINK_TEXT text="http://www.facebook.com/video/video.php ... 713&ref=mf">http://www.facebook.com/video/video.php?v=194652665713&ref=mf</LINK_TEXT>](http://www.facebook.com/video/video.php?v=194652665713&ref=mf)
 
@@ -5630,7 +5630,7 @@ HAI JUGGZ!
 
 </div>
 
-<div class="post" data-post-id="30264" data-author="jezer" data-date="2009-11-11T18:55:56+00:00">
+<div class="post" data-post-id="30264" data-author="jezer" data-date="2009-11-11T18:55:56+00:00" data-subject="">
 
 Congrats Juggleblood on making Weasels signature, you must be proud. Weasel sure knows how to hate doesn't he. He might look friendly, but beware the sharp teeth.
 
@@ -5638,7 +5638,7 @@ I'm pleased for ya Weasel, and all the best etc, but you don't need to come back
 
 </div>
 
-<div class="post" data-post-id="30265" data-author="*juggleblood*" data-date="2009-11-12T12:31:36+00:00">
+<div class="post" data-post-id="30265" data-author="*juggleblood*" data-date="2009-11-12T12:31:36+00:00" data-subject="">
 
 Congrats Juggleblood on making Weasels signature, you must be proud. [/quote:3n6poj1k]
 
@@ -5646,13 +5646,13 @@ Indeed.
 
 </div>
 
-<div class="post" data-post-id="30269" data-author="Medios" data-date="2009-11-13T21:26:41+00:00">
+<div class="post" data-post-id="30269" data-author="Medios" data-date="2009-11-13T21:26:41+00:00" data-subject="">
 
 I really have to wonder what you guys got against Weasel.  I find it humorous at best that some political view gets you seriously hating.  I personally thought Weasel was a positive for sloth.  See Weasel was out helping people instead of playing newbie pthieves and stealing from his clan mates.  There are reasons that serious players leave and don't come back.  I miss Sloth a lot, but not this shit.
 
 </div>
 
-<div class="post" data-post-id="30270" data-author="*Splork*" data-date="2009-11-13T22:19:51+00:00">
+<div class="post" data-post-id="30270" data-author="*Splork*" data-date="2009-11-13T22:19:51+00:00" data-subject="">
 
 Actually Sloth misses you guys just as much Medios, Weasel, and the rest of you.
 
@@ -5666,7 +5666,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30271" data-author="angel" data-date="2009-11-14T05:32:27+00:00">
+<div class="post" data-post-id="30271" data-author="angel" data-date="2009-11-14T05:32:27+00:00" data-subject="">
 
 yes i miss o school playa's:)
 

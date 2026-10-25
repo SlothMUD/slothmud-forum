@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32574" data-author="blackmore" data-date="2011-04-29T20:30:20+00:00">
+<div class="post" data-post-id="32574" data-author="blackmore" data-date="2011-04-29T20:30:20+00:00" data-subject="Ouch">
 
 Insomniac -- 'bmore in pls'
 
@@ -326,7 +326,7 @@ You have been KILLED!!
 
 </div>
 
-<div class="post" data-post-id="32575" data-author="Tuck" data-date="2011-04-29T23:17:43+00:00">
+<div class="post" data-post-id="32575" data-author="Tuck" data-date="2011-04-29T23:17:43+00:00" data-subject="Re: Ouch">
 
 Comf bm.
 
@@ -334,7 +334,7 @@ One day it was the same with me, but i was shocked two times in a row :)
 
 </div>
 
-<div class="post" data-post-id="32617" data-author="ramos" data-date="2011-05-14T03:01:20+00:00">
+<div class="post" data-post-id="32617" data-author="ramos" data-date="2011-05-14T03:01:20+00:00" data-subject="Re: Ouch">
 
 I can hear the gossip already:  "Be careful with Blackmore in your group - he's always losing his head in battle."
 

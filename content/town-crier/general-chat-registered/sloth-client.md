@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="37615" data-author="*teker*" data-date="2016-12-03T17:37:54+00:00">
+<div class="post" data-post-id="37615" data-author="*teker*" data-date="2016-12-03T17:37:54+00:00" data-subject="Sloth client">
 
 I think it would really help new players if we had a Mudlet package they could download to help them with grouping in Sloth.  I've started working on my client scripts recently with the idea that they could be published for new users.  What should they contain?  I've got "man back", some triggers to follow the leader through portals, archways, and some other obstacles.  What else do new players need?
 
@@ -18,7 +18,7 @@ I'm thinking there should be a set of basic triggers for all players and then th
 
 </div>
 
-<div class="post" data-post-id="37616" data-author="*Breeze*" data-date="2016-12-03T17:59:40+00:00">
+<div class="post" data-post-id="37616" data-author="*Breeze*" data-date="2016-12-03T17:59:40+00:00" data-subject="Re: Sloth client">
 
 this is as far as I bothered to go
 
@@ -30,7 +30,7 @@ it's my basic scripts. .
 
 </div>
 
-<div class="post" data-post-id="37617" data-author="Teron" data-date="2016-12-03T18:09:15+00:00">
+<div class="post" data-post-id="37617" data-author="Teron" data-date="2016-12-03T18:09:15+00:00" data-subject="Re: Sloth client">
 
 That's a nifty idea, though you should remember that Mudlet is only easy for software developers.
 

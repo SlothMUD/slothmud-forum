@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9385" data-author="Medios" data-date="2005-11-06T07:24:13+00:00">
+<div class="post" data-post-id="9385" data-author="Medios" data-date="2005-11-06T07:24:13+00:00" data-subject="wtb a couple cps">
 
 I need a couple small golden ember of flames.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 32
 ---
 
-<div class="post" data-post-id="36804" data-author="Teron" data-date="2016-04-03T09:32:40+00:00">
+<div class="post" data-post-id="36804" data-author="Teron" data-date="2016-04-03T09:32:40+00:00" data-subject="Newbies are not affected by nocap">
 
 9 and 14lev druids in and out of forms are not affected by nocap from the house of the Winter Wolf.
 
@@ -18,13 +18,13 @@ I tested this on my own druid.
 
 </div>
 
-<div class="post" data-post-id="36807" data-author="Ezekiel" data-date="2016-04-07T02:50:06+00:00">
+<div class="post" data-post-id="36807" data-author="Ezekiel" data-date="2016-04-07T02:50:06+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 As I understood it, nocap does not remove built in newb caps (if it did, that would encourage people to really scam on nocap days and get their alts ridiculously quick levels running with another)...it only applies to chars that have extended past a certain point cap wise (i.e. past newb levs)
 
 </div>
 
-<div class="post" data-post-id="36808" data-author="Teron" data-date="2016-04-07T07:45:55+00:00">
+<div class="post" data-post-id="36808" data-author="Teron" data-date="2016-04-07T07:45:55+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Eze, nocap still has a cap, just x7-8 larger, than normal. It doesn't actually remove the cap, so a 1x40 can't get full 50mil from a morted mob, 12.5mil at best, irrc. So, if a 20lev player was under nocap effect, he'd have a cap of 5.6-6.4mil.
 
@@ -42,7 +42,7 @@ You mentioned 'scam morting their alts'. What exactly do you mean - not grinding
 
 </div>
 
-<div class="post" data-post-id="36812" data-author="Ezekiel" data-date="2016-04-10T07:09:30+00:00">
+<div class="post" data-post-id="36812" data-author="Ezekiel" data-date="2016-04-10T07:09:30+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 No, I'm saying any newb limits should remain because it's bad enough:
 
@@ -58,7 +58,7 @@ Imms can get mad all they want that I'm posting this here, but it's the truth. T
 
 </div>
 
-<div class="post" data-post-id="36813" data-author="Teron" data-date="2016-04-10T09:07:44+00:00">
+<div class="post" data-post-id="36813" data-author="Teron" data-date="2016-04-10T09:07:44+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 I guess you are right, to an extent.
 
@@ -74,7 +74,7 @@ So, if I were an imm, I'd put more effort in acquiring new players, retaining ex
 
 </div>
 
-<div class="post" data-post-id="36817" data-author="Ezekiel" data-date="2016-04-13T04:44:22+00:00">
+<div class="post" data-post-id="36817" data-author="Ezekiel" data-date="2016-04-13T04:44:22+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 I'm not saying people shouldn't use their main to help their alts...I'm saying it's not conducive for a 9x40 to drag his lev 20 friends all over lyme to breeze through mid-levs...it discourages new playerbase. Also I'm saying that mid-levs are pretty much only getting popped eq that are on exp runs, b/c once everyone gets high lev enough...no one wants to help mid-levs get equipped unless it helps them (which inevitably means they'll only group with these mid-levs in xp groups). I'm not saying your high lev chars should play more with their mid-lev alts necessarily..I'm saying that if the high level chars choose not to...please spend a little time trying to help equip the new playerbase at mid-levs, even if that means it coming at *GASP* a slower xp per hour... and actually doing something off lyme. Only time I see people actually hitting mobs to help mid-levs equip are on nocap when they can benefit, which is pretty f'ing sad.
 
@@ -86,7 +86,7 @@ Sometimes I wish they would just nerf Lyme into oblivion to actually guide peopl
 
 </div>
 
-<div class="post" data-post-id="36818" data-author="Yasik" data-date="2016-04-13T15:34:32+00:00">
+<div class="post" data-post-id="36818" data-author="Yasik" data-date="2016-04-13T15:34:32+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Zek, I dont hate you, but I cannot agree completely with what you say.
 
@@ -102,7 +102,7 @@ Solution to this can be we all be friends, shake our hands and run exp together!
 
 </div>
 
-<div class="post" data-post-id="36819" data-author="Teron" data-date="2016-04-13T15:39:06+00:00">
+<div class="post" data-post-id="36819" data-author="Teron" data-date="2016-04-13T15:39:06+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Woah, Eze, slow down. Let's identify the issues you raised:
 
@@ -150,13 +150,13 @@ Even if you do insist on making Lyme exp low enough to force people offlyme, it 
 
 </div>
 
-<div class="post" data-post-id="36820" data-author="Yasik" data-date="2016-04-13T16:15:57+00:00">
+<div class="post" data-post-id="36820" data-author="Yasik" data-date="2016-04-13T16:15:57+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Let us be honest, anyone with high-level friend can and will power-level their lowbie, because why not?
 
 </div>
 
-<div class="post" data-post-id="36824" data-author="Ezekiel" data-date="2016-04-14T03:15:35+00:00">
+<div class="post" data-post-id="36824" data-author="Ezekiel" data-date="2016-04-14T03:15:35+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Yeah, says the Yasik who is the one that gets dragged around contributing to the new mid lev playerbase death. And Taron, yes..you lead xp...because it benefits you..and like I said...eq benefits no large tanks/healers that you need for eq groups (just try getting one together, you'll see what i mean...everyone there for xp..you mention eq and they all disappear like farts in the wind)...they'd rather just be running xp...this means the mid levs are left in the cold for eq...or going to auction hoping that, of the few chars left in the game, someone happens to cycle something they want (not likely when everyone is running xp unless you happen to get a lucky vault clearing).
 
@@ -206,7 +206,7 @@ And that's consistently. Need I say more?
 
 </div>
 
-<div class="post" data-post-id="36827" data-author="Teron" data-date="2016-04-14T08:16:14+00:00">
+<div class="post" data-post-id="36827" data-author="Teron" data-date="2016-04-14T08:16:14+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 1. Eze, I did try to get eq groups going, and like you said, it's much harder to get them going, than exp groups.
 
@@ -236,7 +236,7 @@ To be fair, when I lead exp groups, I only hit eq mobs that also have exp and ar
 
 </div>
 
-<div class="post" data-post-id="36831" data-author="Ezekiel" data-date="2016-04-14T20:12:12+00:00">
+<div class="post" data-post-id="36831" data-author="Ezekiel" data-date="2016-04-14T20:12:12+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Taron, just so many things to refute from your post:
 
@@ -290,7 +290,7 @@ This, again, is false. 9x40 that speed run Lyme will not get the same yields per
 
 </div>
 
-<div class="post" data-post-id="36832" data-author="Yasik" data-date="2016-04-14T22:25:56+00:00">
+<div class="post" data-post-id="36832" data-author="Yasik" data-date="2016-04-14T22:25:56+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 I do not understand how am I "contributing to the new mid lev playerbase death".
 
@@ -302,7 +302,7 @@ Nowadays, it is much, much easier than ever to get exp: time bonuses, 3x40 bonus
 
 </div>
 
-<div class="post" data-post-id="36833" data-author="Ezekiel" data-date="2016-04-14T23:06:41+00:00">
+<div class="post" data-post-id="36833" data-author="Ezekiel" data-date="2016-04-14T23:06:41+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 You are contributing by this, as previously mentioned..by being dragged around Lyme all day by a 9x40 and thinking nothing of it, you are: preventing other true newb/mid-levs from partcipating in groups off Lyme when they need experienced players of similar level to run along side with/learn the ins and outs of grouping/cycle eq so they can become half decent. Keep looking out for yourself though.
 
@@ -318,7 +318,7 @@ Have a nice day in your tower.
 
 </div>
 
-<div class="post" data-post-id="36834" data-author="Yasik" data-date="2016-04-14T23:50:13+00:00">
+<div class="post" data-post-id="36834" data-author="Yasik" data-date="2016-04-14T23:50:13+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 So, am I guilty by doing my own business and by doing that I dont babysit others and they suffer from it, did I get it right?
 
@@ -328,7 +328,7 @@ Somehow I dragged myself to level I am at this moment, and somehow I got my eq; 
 
 </div>
 
-<div class="post" data-post-id="36835" data-author="Ezekiel" data-date="2016-04-14T23:54:37+00:00">
+<div class="post" data-post-id="36835" data-author="Ezekiel" data-date="2016-04-14T23:54:37+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Wrong, it's not doable for everyone else if you got yours by a benefactory nature of eq groups and the like, but you're not willing to extend the same...all is not equal in that equation.I like how you just glossed over those details and stuck to generalities. That's the sign of a weakly backed argument. What if those other veteran alt mid-levs had left you in the dust for mid-lev grouping and eq, and were able to just have their friends drag them around Lyme while you stagntated in many more ways because of it?
 
@@ -340,7 +340,7 @@ Your type of attitude will be the death of this mud. Looks like the apple doesn'
 
 </div>
 
-<div class="post" data-post-id="36836" data-author="Yasik" data-date="2016-04-15T00:14:43+00:00">
+<div class="post" data-post-id="36836" data-author="Yasik" data-date="2016-04-15T00:14:43+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 No you're wrong, I scavenged most of my eq from stores and from auctions, because somebody somewhere pops something they dont need, someday; they then put it on auction and I buy. Everybody can do that, it a nobrainer.
 
@@ -354,7 +354,7 @@ PS. I personally consider "mid-game" starts from 4x40. Below that is lowbies and
 
 </div>
 
-<div class="post" data-post-id="36837" data-author="Ezekiel" data-date="2016-04-15T00:18:32+00:00">
+<div class="post" data-post-id="36837" data-author="Ezekiel" data-date="2016-04-15T00:18:32+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 All of our actions make or break the mud as a whole...we make it what it is..so yeah..it is completely logical to assail those that are gaming the system to make new playerbase feel isolated for their own benefit.
 
@@ -364,7 +364,7 @@ This standard of 'just grabbing mid-lev eq' you speak of...that's a pipe dream t
 
 </div>
 
-<div class="post" data-post-id="36838" data-author="Yasik" data-date="2016-04-15T00:38:18+00:00">
+<div class="post" data-post-id="36838" data-author="Yasik" data-date="2016-04-15T00:38:18+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 You arent serious, are you? Tell what this thread is about, without scrolling to 1st page.
 
@@ -372,7 +372,7 @@ Not going to argue, see me ingame if you need me.
 
 </div>
 
-<div class="post" data-post-id="36840" data-author="Ezekiel" data-date="2016-04-15T04:09:08+00:00">
+<div class="post" data-post-id="36840" data-author="Ezekiel" data-date="2016-04-15T04:09:08+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 This is about same topic that I've been mentioning whole time...since my first extended post to Taron here...
 
@@ -394,7 +394,7 @@ But then again, I guess 'it's legal' sums it all up from your end.
 
 </div>
 
-<div class="post" data-post-id="36844" data-author="Yasik" data-date="2016-04-15T05:24:30+00:00">
+<div class="post" data-post-id="36844" data-author="Yasik" data-date="2016-04-15T05:24:30+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 I think this thread was made to just your steam out, and not to resolve a problem you describing, if it exists at all. I'm not sure why I continue to
 
@@ -410,7 +410,7 @@ The game as it is today - is much easier than it was before. Making it even more
 
 </div>
 
-<div class="post" data-post-id="36845" data-author="Ezekiel" data-date="2016-04-15T05:35:40+00:00">
+<div class="post" data-post-id="36845" data-author="Ezekiel" data-date="2016-04-15T05:35:40+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Much easier for who? I assure you the new playerbase mid-levs that just want to group and learn xp/eq/mud tactics from those close in lev to themselves... they leave in droves while vets are sponging with their newb/mid-lev alts on Lyme...thoe that leave wouldn't say that the game is 'easier' for them....
 
@@ -460,7 +460,7 @@ Usually 0 or maybe 1 character between the lev of 20 - 3x40 or 4x40
 
 </div>
 
-<div class="post" data-post-id="36846" data-author="Yasik" data-date="2016-04-15T05:50:29+00:00">
+<div class="post" data-post-id="36846" data-author="Yasik" data-date="2016-04-15T05:50:29+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Easier for everyone.
 
@@ -480,7 +480,7 @@ Not being lazy is enough. Using every legal opportunity is ok.
 
 </div>
 
-<div class="post" data-post-id="36848" data-author="Ezekiel" data-date="2016-04-15T06:17:28+00:00">
+<div class="post" data-post-id="36848" data-author="Ezekiel" data-date="2016-04-15T06:17:28+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 1. I help people not only as newbs, but also through mid-levs, while I help them more as newbs I show them areas to hit, I show them how to use website, familiarize them with commands and tactics...if they ask for help at mid-levs I try to make them hit mob first solo...even die to it often, before I go two man it...often times I will group with them after to help 2 man up some eq, as it takes real vulnerability and a willingness to learn to take that leap and challenge yourself. Just ask the few mid-levs around or the 20's for sure.
 
@@ -488,7 +488,7 @@ Not being lazy is enough. Using every legal opportunity is ok.
 
 </div>
 
-<div class="post" data-post-id="36849" data-author="Teron" data-date="2016-04-15T06:18:11+00:00">
+<div class="post" data-post-id="36849" data-author="Teron" data-date="2016-04-15T06:18:11+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 1. Eze, I need eq on mobs that are hard or impossible for me to solo, but I don't hit them, because it's hard to get an eq group going, so I focus on the smaller stuff that I can solo.
 
@@ -544,7 +544,7 @@ The latter can be done in a form of an open-ended, rated list of suggestions. If
 
 </div>
 
-<div class="post" data-post-id="36850" data-author="Ezekiel" data-date="2016-04-15T06:27:41+00:00">
+<div class="post" data-post-id="36850" data-author="Ezekiel" data-date="2016-04-15T06:27:41+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Taron, 
 
@@ -568,7 +568,7 @@ Ezekiel
 
 </div>
 
-<div class="post" data-post-id="36852" data-author="Teron" data-date="2016-04-15T06:52:15+00:00">
+<div class="post" data-post-id="36852" data-author="Teron" data-date="2016-04-15T06:52:15+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Eze, I do remember following the great people to the MH.
 
@@ -594,7 +594,7 @@ P.S. For the record, limiting levels of people, who can group together, is sever
 
 </div>
 
-<div class="post" data-post-id="36853" data-author="Ezekiel" data-date="2016-04-15T22:10:58+00:00">
+<div class="post" data-post-id="36853" data-author="Ezekiel" data-date="2016-04-15T22:10:58+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 "*As for avatars leading newbies on Lyme..it's kind of an easy way for them to group. How else would they group? What if the tard doesn't have a remort and isn't interested in playing his alts?
 
@@ -610,7 +610,7 @@ These veteran lowbie/mid-lev chars that run alts then would have to be off lyme 
 
 </div>
 
-<div class="post" data-post-id="36854" data-author="Teron" data-date="2016-04-16T20:42:11+00:00">
+<div class="post" data-post-id="36854" data-author="Teron" data-date="2016-04-16T20:42:11+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 1. When I said "they group", I meant the tard and his buddies. Not avatars. I know avatars can solo the entire Lyme, if they want to. Why would anyone think otherwise?
 
@@ -678,7 +678,7 @@ I sorted the above by how easy it is to do them.
 
 </div>
 
-<div class="post" data-post-id="36859" data-author="Ezekiel" data-date="2016-04-19T02:42:21+00:00">
+<div class="post" data-post-id="36859" data-author="Ezekiel" data-date="2016-04-19T02:42:21+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Since we are just getting repetitive with this thread...I'll restate my points of disagreement, then done with this:
 
@@ -726,13 +726,13 @@ Ezekiel
 
 </div>
 
-<div class="post" data-post-id="36860" data-author="Yasik" data-date="2016-04-19T04:04:20+00:00">
+<div class="post" data-post-id="36860" data-author="Yasik" data-date="2016-04-19T04:04:20+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 You really expect someon to read your long twaddle?
 
 </div>
 
-<div class="post" data-post-id="36861" data-author="Teron" data-date="2016-04-19T09:18:00+00:00">
+<div class="post" data-post-id="36861" data-author="Teron" data-date="2016-04-19T09:18:00+00:00" data-subject="Re: Newbies are not affected by nocap">
 
 Just a quick question: what if imms reinstate chop, make it slightly less exp, than offlyme, and keep no-restricts on Lyme? Wouldn't that promote groups on Lyme that'd require newbies to chop more limbs and pop more gems?
 

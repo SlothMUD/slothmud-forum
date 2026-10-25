@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="10833" data-author="Elsie" data-date="2006-02-22T09:12:34+00:00">
+<div class="post" data-post-id="10833" data-author="Elsie" data-date="2006-02-22T09:12:34+00:00" data-subject="Greaves of Forsaken">
 
 I'm looking to buy or trade for some Greaves of the Forsaken (-1.7 leg eq)
 
@@ -56,7 +56,7 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="10845" data-author="Medios" data-date="2006-02-22T21:56:12+00:00">
+<div class="post" data-post-id="10845" data-author="Medios" data-date="2006-02-22T21:56:12+00:00" data-subject="">
 
 A trade for these is not out of the question.  First youll need to come up with some eq thats not store bought.
 
@@ -66,13 +66,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="10848" data-author="Krok" data-date="2006-02-23T05:13:40+00:00">
+<div class="post" data-post-id="10848" data-author="Krok" data-date="2006-02-23T05:13:40+00:00" data-subject="">
 
 and not that the greaves are very common item :)
 
 </div>
 
-<div class="post" data-post-id="11191" data-author="Elsie" data-date="2006-03-13T09:22:14+00:00">
+<div class="post" data-post-id="11191" data-author="Elsie" data-date="2006-03-13T09:22:14+00:00" data-subject="">
 
 I'm beginning to think that Greaves of Forsaken cannot be traded for ... the problem I have is that they're the only 1.7 legs I can wear at triple40 that are not drachma bought, and I can't pop them myself because 1. Solo I'm not powerful enough and 2. perhaps because I'm on UK time I've never seen an SS eq group going ever, and have only ever seen a fargate eq group going once.
 
@@ -90,7 +90,7 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="11197" data-author="Elsie" data-date="2006-03-13T10:08:54+00:00">
+<div class="post" data-post-id="11197" data-author="Elsie" data-date="2006-03-13T10:08:54+00:00" data-subject="">
 
 btw, I'm also looking for, but less urgently that the greaves as I have some chance of getting these without trading:
 
@@ -112,7 +112,7 @@ Forgot to say I also have to offer :
 
 </div>
 
-<div class="post" data-post-id="11201" data-author="12345" data-date="2006-03-13T12:22:37+00:00">
+<div class="post" data-post-id="11201" data-author="12345" data-date="2006-03-13T12:22:37+00:00" data-subject="">
 
 SS is a pretty good place to run xp and equipment.  I generally don't have too much difficulty getting groups started there.
 
@@ -124,7 +124,7 @@ Sin is easily the toughest there, and will CF most groups quick, fast and in a h
 
 </div>
 
-<div class="post" data-post-id="11205" data-author="Elsie" data-date="2006-03-13T13:20:24+00:00">
+<div class="post" data-post-id="11205" data-author="Elsie" data-date="2006-03-13T13:20:24+00:00" data-subject="">
 
 Thanks for that,
 
@@ -138,25 +138,25 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="11237" data-author="brady" data-date="2006-03-14T01:18:44+00:00">
+<div class="post" data-post-id="11237" data-author="brady" data-date="2006-03-14T01:18:44+00:00" data-subject="">
 
 Sin is fairly easy with a few healers.  You just want to make sure you hit Kas first.  Attacking Sin with Kas still alive will be ugly and a cf will be likely.  Sin will wait till Kas dies before he starts smacking.
 
 </div>
 
-<div class="post" data-post-id="11255" data-author="Krok" data-date="2006-03-14T11:03:02+00:00">
+<div class="post" data-post-id="11255" data-author="Krok" data-date="2006-03-14T11:03:02+00:00" data-subject="">
 
 Nope, they both fight the tank, but Kas hits harder, that's why you quickly kill Kas first. So it's cool to damn/blind Sin too, when tank is already attacked.
 
 </div>
 
-<div class="post" data-post-id="11258" data-author="12345" data-date="2006-03-14T16:15:28+00:00">
+<div class="post" data-post-id="11258" data-author="12345" data-date="2006-03-14T16:15:28+00:00" data-subject="">
 
 Always someone trying to iceskate uphill..
 
 </div>
 
-<div class="post" data-post-id="11259" data-author="Autolycos" data-date="2006-03-14T16:45:50+00:00">
+<div class="post" data-post-id="11259" data-author="Autolycos" data-date="2006-03-14T16:45:50+00:00" data-subject="">
 
 Nope, they both fight the tank, but Kas hits harder, that's why you quickly kill Kas first. So it's cool to damn/blind Sin too, when tank is already attacked.[/quote:3vmy89ao]
 
@@ -164,7 +164,7 @@ which opposed to any other time would be Kas, Sin, AND Krok,  all fighting the t
 
 </div>
 
-<div class="post" data-post-id="11260" data-author="brady" data-date="2006-03-14T16:48:17+00:00">
+<div class="post" data-post-id="11260" data-author="brady" data-date="2006-03-14T16:48:17+00:00" data-subject="">
 
 Always someone trying to iceskate uphill..[/quote:r1o45bhn]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="4932" data-author="benq2" data-date="2005-03-09T20:00:15+00:00">
+<div class="post" data-post-id="4932" data-author="benq2" data-date="2005-03-09T20:00:15+00:00" data-subject="shadowwalk">
 
 does anyone have any clue where to get this manual? 
 
@@ -22,13 +22,13 @@ sorry to nag on gossip bout this but I really have no idea where to start lookin
 
 </div>
 
-<div class="post" data-post-id="5015" data-author="benq2" data-date="2005-03-13T08:38:22+00:00">
+<div class="post" data-post-id="5015" data-author="benq2" data-date="2005-03-13T08:38:22+00:00" data-subject="">
 
 problem solved.
 
 </div>
 
-<div class="post" data-post-id="5016" data-author="Chainer" data-date="2005-03-13T12:05:40+00:00">
+<div class="post" data-post-id="5016" data-author="Chainer" data-date="2005-03-13T12:05:40+00:00" data-subject="">
 
 so....where did that nasty shadowwalk manual popped?  :twisted:
 

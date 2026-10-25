@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="37" data-author="Lex" data-date="2004-02-13T15:20:18+00:00">
+<div class="post" data-post-id="37" data-author="Lex" data-date="2004-02-13T15:20:18+00:00" data-subject="Tank Reporter">
 
 can someone plz send me a tank reporter, as mine nolonger works 
 
@@ -22,7 +22,7 @@ Thanks to anyone who replies
 
 </div>
 
-<div class="post" data-post-id="38" data-author="lex" data-date="2004-02-13T15:22:02+00:00">
+<div class="post" data-post-id="38" data-author="lex" data-date="2004-02-13T15:22:02+00:00" data-subject="">
 
 thats rye_bread80
 

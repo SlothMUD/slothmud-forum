@@ -10,13 +10,13 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="5475" data-author="sloth12" data-date="2005-04-07T22:51:01+00:00">
+<div class="post" data-post-id="5475" data-author="sloth12" data-date="2005-04-07T22:51:01+00:00" data-subject="Bid on stuff.">
 
 Are we bid on reall things or not?
 
 </div>
 
-<div class="post" data-post-id="5482" data-author="Qa" data-date="2005-04-08T16:13:12+00:00">
+<div class="post" data-post-id="5482" data-author="Qa" data-date="2005-04-08T16:13:12+00:00" data-subject="">
 
 Define 'real.'
 
@@ -26,7 +26,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="5486" data-author="Dandelo" data-date="2005-04-09T02:26:21+00:00">
+<div class="post" data-post-id="5486" data-author="Dandelo" data-date="2005-04-09T02:26:21+00:00" data-subject="">
 
 My guess would be somewhere near St Louis, MO:
 

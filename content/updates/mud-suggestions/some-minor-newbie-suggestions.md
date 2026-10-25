@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="39589" data-author="cnl" data-date="2020-10-23T17:46:04+00:00">
+<div class="post" data-post-id="39589" data-author="cnl" data-date="2020-10-23T17:46:04+00:00" data-subject="Some minor newbie suggestions">
 
 HI. some newbie suggestions 
 
@@ -34,19 +34,19 @@ The other spellbooks you can carry I don't mind, you can read them while doing r
 
 </div>
 
-<div class="post" data-post-id="39596" data-author="Insomnia" data-date="2020-10-27T10:08:17+00:00">
+<div class="post" data-post-id="39596" data-author="Insomnia" data-date="2020-10-27T10:08:17+00:00" data-subject="Re: Some minor newbie suggestions">
 
 I think reading level 1-3 books straight to 95% is a really nice suggestion, should help newcomers a lot.
 
 </div>
 
-<div class="post" data-post-id="39598" data-author="*Breeze*" data-date="2020-11-03T04:20:30+00:00">
+<div class="post" data-post-id="39598" data-author="*Breeze*" data-date="2020-11-03T04:20:30+00:00" data-subject="Re: Some minor newbie suggestions">
 
 Good ideas
 
 </div>
 
-<div class="post" data-post-id="39612" data-author="*Idjit*" data-date="2020-11-13T22:14:54+00:00">
+<div class="post" data-post-id="39612" data-author="*Idjit*" data-date="2020-11-13T22:14:54+00:00" data-subject="Re: Some minor newbie suggestions">
 
 We might have done better to refer to straight newbie mode as what it is, not a mode but a -channel-.
 
@@ -60,13 +60,13 @@ That's likely causing the conflation of concepts.
 
 </div>
 
-<div class="post" data-post-id="39613" data-author="cnl" data-date="2020-11-14T21:26:06+00:00">
+<div class="post" data-post-id="39613" data-author="cnl" data-date="2020-11-14T21:26:06+00:00" data-subject="Re: Some minor newbie suggestions">
 
 Ah, I see. I was toggling the newbie channel on and off. Funny. I should have picked up on that but it was telling me I could get rid of the hints by turning off Newbie Mode and typing newbie was telling me it was changing  "newbie mode". I do think the renaming you suggest would help because I was looking for ways to turn off "newbie mode" and so keyed in on that.
 
 </div>
 
-<div class="post" data-post-id="39630" data-author="cnl" data-date="2020-12-05T23:15:40+00:00">
+<div class="post" data-post-id="39630" data-author="cnl" data-date="2020-12-05T23:15:40+00:00" data-subject="Re: Some minor newbie suggestions">
 
 Another idea : when you read a spellbook / guide / tome / pages etc - it could say what spell/skill you've learned.
 
@@ -76,13 +76,13 @@ I know there are other ways to find this out, like going to the EQ website, but 
 
 </div>
 
-<div class="post" data-post-id="39631" data-author="Gorka" data-date="2020-12-06T13:38:59+00:00">
+<div class="post" data-post-id="39631" data-author="Gorka" data-date="2020-12-06T13:38:59+00:00" data-subject="Re: Some minor newbie suggestions">
 
 It's not quite what you are suggesting, but using the keyword "examine" spellbook/manual/etc is part of the solution.
 
 </div>
 
-<div class="post" data-post-id="39636" data-author="cnl" data-date="2020-12-12T01:27:24+00:00">
+<div class="post" data-post-id="39636" data-author="cnl" data-date="2020-12-12T01:27:24+00:00" data-subject="Re: Some minor newbie suggestions">
 
 yes -- that works exactly well. btw Gorka I've spent some time browsing these forums while learning stuff and you've put a lot of great information on here (as have a lot of others) - it really helps so thanks for the effort and also it helped my get more interested because there's a lot more complexity than is at first apparent and a lot of interesting mechanics to think about and poke at.
 
@@ -92,7 +92,7 @@ I suppose the challenge for trying to help Newbies is that with some things you 
 
 </div>
 
-<div class="post" data-post-id="39637" data-author="Gorka" data-date="2020-12-12T10:48:02+00:00">
+<div class="post" data-post-id="39637" data-author="Gorka" data-date="2020-12-12T10:48:02+00:00" data-subject="Re: Some minor newbie suggestions">
 
 > **cnl wrote:**
 > I'm not sure what thought process lead me to assume that examine spellbook only worked in the library - perhaps because that's where I saw it first it.

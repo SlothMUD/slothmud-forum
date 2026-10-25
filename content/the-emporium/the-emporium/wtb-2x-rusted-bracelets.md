@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="1093" data-author="Briar" data-date="2004-07-16T03:29:06+00:00">
+<div class="post" data-post-id="1093" data-author="Briar" data-date="2004-07-16T03:29:06+00:00" data-subject="wtb: 2x rusted bracelets">
 
 would like to acquire 2 rusted bracelets
 

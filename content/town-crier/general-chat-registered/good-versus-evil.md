@@ -10,7 +10,7 @@ locked: false
 post_count: 32
 ---
 
-<div class="post" data-post-id="13130" data-author="marchessa_the_red_witch" data-date="2006-06-24T12:29:07+00:00">
+<div class="post" data-post-id="13130" data-author="marchessa_the_red_witch" data-date="2006-06-24T12:29:07+00:00" data-subject="&quot;Good&quot; versus &quot;Evil&quot;">
 
 Last night's experience with Marsup pointed out how bad the current mud alignment system is. Up front I will admit that Marchessa became an amoral thug for a large part of her career - a significant fall from grace for a character that was an early templar and supposed good witch.
 
@@ -34,7 +34,7 @@ Right now the alignment system is reaching the implosion point of being amoral a
 
 </div>
 
-<div class="post" data-post-id="13139" data-author="Rynquald" data-date="2006-06-25T06:24:54+00:00">
+<div class="post" data-post-id="13139" data-author="Rynquald" data-date="2006-06-25T06:24:54+00:00" data-subject="">
 
 Well Akasha's post did say the castle was taking measures against bh constantly attacking it, the well armed group of invaders Marsup's attacking seem rather more evil than him, as for him calling you scum, I think it takes a little more than that to make him an evil mob.
 
@@ -42,7 +42,7 @@ When you think about it, players could allmost allways be considered "evil" when
 
 </div>
 
-<div class="post" data-post-id="13141" data-author="marchessa_the_red_witch" data-date="2006-06-25T16:13:47+00:00">
+<div class="post" data-post-id="13141" data-author="marchessa_the_red_witch" data-date="2006-06-25T16:13:47+00:00" data-subject="Good is as Good does">
 
 Good mobs should not attack good characters on sight. 
 
@@ -50,7 +50,7 @@ It's kind of in the definition of "good".
 
 </div>
 
-<div class="post" data-post-id="13144" data-author="12345" data-date="2006-06-25T20:29:29+00:00">
+<div class="post" data-post-id="13144" data-author="12345" data-date="2006-06-25T20:29:29+00:00" data-subject="">
 
 Also in the definition of Good is following the orders of your superiors.  The king doesn't like his subjects being repeatedly slain and issued orders for all intruders to be killed on sight. If he failed to follow those orders and someone was harmed because of it, he would be Evil... not good.
 
@@ -58,7 +58,7 @@ If you have issue with it, you might wish to take it up with the King, not Marsu
 
 </div>
 
-<div class="post" data-post-id="13155" data-author="Avatar" data-date="2006-06-26T14:21:22+00:00">
+<div class="post" data-post-id="13155" data-author="Avatar" data-date="2006-06-26T14:21:22+00:00" data-subject="Dissent!">
 
 -Also in the definition of Good is following the orders of your superiors. 
 
@@ -74,7 +74,7 @@ Dissent!
 
 </div>
 
-<div class="post" data-post-id="13156" data-author="marchessa_the_red_witch" data-date="2006-06-26T15:19:17+00:00">
+<div class="post" data-post-id="13156" data-author="marchessa_the_red_witch" data-date="2006-06-26T15:19:17+00:00" data-subject="Ummm No.">
 
 "Also in the definition of Good is following the orders of your superiors. The king doesn't like his subjects being repeatedly slain and issued orders for all intruders to be killed on sight."
 
@@ -88,7 +88,7 @@ For however long that lasts.
 
 </div>
 
-<div class="post" data-post-id="13157" data-author="marchessa_the_red_witch" data-date="2006-06-26T15:20:47+00:00">
+<div class="post" data-post-id="13157" data-author="marchessa_the_red_witch" data-date="2006-06-26T15:20:47+00:00" data-subject="">
 
 And personally, if there were another BH area that filled the ecological niche of the castle in getting groups going - I would happily say good bye to castle runs.
 
@@ -96,13 +96,13 @@ I've killed hundreds of elites and alchemists, in three incarnations of this mud
 
 </div>
 
-<div class="post" data-post-id="13165" data-author="Shazuko" data-date="2006-06-26T18:30:17+00:00">
+<div class="post" data-post-id="13165" data-author="Shazuko" data-date="2006-06-26T18:30:17+00:00" data-subject="">
 
 I could see a colossal slide from one side to the other (either way) depending on who/what you killed. If its the pope, the president, the mayor, or a cop...you might slide hard...however, there should also be gradual inclinations, such as when you kill someone who happens to be on the fbi's most wanted list, I have a feeling there not gonna take it too hard...I havent seen marsup, or know what his position or 'occupation' he has in that area...but it seems that a dial would make more sense, then say a light on your dashboard that comes on when your OUT of gas...
 
 </div>
 
-<div class="post" data-post-id="13168" data-author="12345" data-date="2006-06-26T20:17:50+00:00">
+<div class="post" data-post-id="13168" data-author="12345" data-date="2006-06-26T20:17:50+00:00" data-subject="Re: Ummm No.">
 
 Good people don't follow bad orders.[/quote:xnzqgghu]
 
@@ -112,7 +112,7 @@ You're also forgetting Chaotic Good... which takes the stance that the ends just
 
 </div>
 
-<div class="post" data-post-id="13170" data-author="Medios" data-date="2006-06-26T21:13:32+00:00">
+<div class="post" data-post-id="13170" data-author="Medios" data-date="2006-06-26T21:13:32+00:00" data-subject="">
 
 I thought originally the castle fighters and knights were aggro.  The elites were also aggro?  I guess the main complaint is that you cant easily go in there for good corpses, because this argument about groups is nonsense.  Unless your soloing this area it doesnt make a bit of difference.
 
@@ -120,7 +120,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13172" data-author="Tetsulunathaya" data-date="2006-06-26T21:37:48+00:00">
+<div class="post" data-post-id="13172" data-author="Tetsulunathaya" data-date="2006-06-26T21:37:48+00:00" data-subject="">
 
 Okay. 
 
@@ -138,7 +138,7 @@ Marsup should be good, and if you don't wanna kill him, then don't. Its been ano
 
 </div>
 
-<div class="post" data-post-id="13173" data-author="alias" data-date="2006-06-26T21:48:28+00:00">
+<div class="post" data-post-id="13173" data-author="alias" data-date="2006-06-26T21:48:28+00:00" data-subject="">
 
 This guy is "paid" to protect the castle - his home. Just to let you know if I come home and find you in my house I really don't care if your a good or evil person I will shoot your ass. I consider myself a good person but if your in my house(my castle) uninvited be prepared to get your ass kicked. 
 
@@ -148,7 +148,7 @@ just my point of view of course.
 
 </div>
 
-<div class="post" data-post-id="13175" data-author="Avatar" data-date="2006-06-26T22:22:26+00:00">
+<div class="post" data-post-id="13175" data-author="Avatar" data-date="2006-06-26T22:22:26+00:00" data-subject="align">
 
 "Well, now your going elsewhere. There is no lawful/chaotic alignment system in Sloth. But a Lawful Good Character WOULD be bound by oath to fufill his servitude, even to unjust orders (which these arnt)."
 
@@ -164,7 +164,7 @@ Most alignment systems in games are inherently broken, for various reasons.  Our
 
 </div>
 
-<div class="post" data-post-id="13179" data-author="Shazuko" data-date="2006-06-27T16:09:17+00:00">
+<div class="post" data-post-id="13179" data-author="Shazuko" data-date="2006-06-27T16:09:17+00:00" data-subject="">
 
 [quote:1th6bnvb]You're also forgetting Chaotic Good... which takes the stance that the ends justify the means.[/quote:1th6bnvb]
 
@@ -186,7 +186,7 @@ When you make one friend, make one enemy.
 
 </div>
 
-<div class="post" data-post-id="13180" data-author="Avatar" data-date="2006-06-27T17:37:02+00:00">
+<div class="post" data-post-id="13180" data-author="Avatar" data-date="2006-06-27T17:37:02+00:00" data-subject="Align">
 
 I totally agree Shazuko.
 
@@ -196,19 +196,19 @@ Also, neutral alignment pretty well stinks as-is.  It's odd the being good or ev
 
 </div>
 
-<div class="post" data-post-id="13181" data-author="Guinex" data-date="2006-06-27T18:06:26+00:00">
+<div class="post" data-post-id="13181" data-author="Guinex" data-date="2006-06-27T18:06:26+00:00" data-subject="">
 
 A neutral supp would be cool, however with that alignment would need to be changed a bit to fit that.  Right now if you kill a good align mob you are instantly evil, on the other side you have to kill 10 extremly evil mobs just to pinch the goodnes.  So becoming and balancing neutrality is basically impossible.
 
 </div>
 
-<div class="post" data-post-id="13182" data-author="Weasel" data-date="2006-06-27T18:35:04+00:00">
+<div class="post" data-post-id="13182" data-author="Weasel" data-date="2006-06-27T18:35:04+00:00" data-subject="">
 
 How about some sort of time margin.. ie: you kill a good mob (whether it be on purpose or accidentally) and your alignment changes to evil. Instead of immediately losing your sup, a game generated message could say "you have 5 minutes to revert back to good alignment or your supp is gone"..  yes? no? maybe?
 
 </div>
 
-<div class="post" data-post-id="13183" data-author="Avatar" data-date="2006-06-27T19:59:15+00:00">
+<div class="post" data-post-id="13183" data-author="Avatar" data-date="2006-06-27T19:59:15+00:00" data-subject="align">
 
 I like both of those ideas, and I hope the imms are watching  :)
 
@@ -216,7 +216,7 @@ For neutral, I was thinking the range from -3 to +3 could all be considered neut
 
 </div>
 
-<div class="post" data-post-id="13184" data-author="kjartan" data-date="2006-06-27T20:07:44+00:00">
+<div class="post" data-post-id="13184" data-author="kjartan" data-date="2006-06-27T20:07:44+00:00" data-subject="">
 
 We aren't going to add neutral supplication servants.
 
@@ -226,13 +226,13 @@ The topic of letting you maintain a supplication servant for a few minutes while
 
 </div>
 
-<div class="post" data-post-id="13185" data-author="12345" data-date="2006-06-27T21:39:02+00:00">
+<div class="post" data-post-id="13185" data-author="12345" data-date="2006-06-27T21:39:02+00:00" data-subject="">
 
 It happens quite a bit actually.  I'd like to say its usually intentional, but it almost never seems to work out that way.
 
 </div>
 
-<div class="post" data-post-id="13189" data-author="brady" data-date="2006-06-28T05:57:49+00:00">
+<div class="post" data-post-id="13189" data-author="brady" data-date="2006-06-28T05:57:49+00:00" data-subject="">
 
 Personally, I really don't understand why you would want to continue running the bh castle day after day.  I would prefer reading the tv guide, myself.  There are plenty of other areas that can be run for xp with the same size group.  Venture out young ruffians!  There is a whole world out there...
 
@@ -240,7 +240,7 @@ If it can't kill you back, it ain't worth killing.
 
 </div>
 
-<div class="post" data-post-id="13191" data-author="Elsie" data-date="2006-06-28T17:50:07+00:00">
+<div class="post" data-post-id="13191" data-author="Elsie" data-date="2006-06-28T17:50:07+00:00" data-subject="Re: Good is as Good does">
 
 Good mobs should not attack good characters on sight. 
 
@@ -254,7 +254,7 @@ good or evil is always relative to your own stance
 
 </div>
 
-<div class="post" data-post-id="13192" data-author="madmax" data-date="2006-06-28T17:53:01+00:00">
+<div class="post" data-post-id="13192" data-author="madmax" data-date="2006-06-28T17:53:01+00:00" data-subject="">
 
 We aren't going to add neutral supplication servants.
 
@@ -278,7 +278,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="13204" data-author="marchessa_the_red_witch" data-date="2006-06-29T07:42:04+00:00">
+<div class="post" data-post-id="13204" data-author="marchessa_the_red_witch" data-date="2006-06-29T07:42:04+00:00" data-subject="Re: Good is as Good does">
 
 Good mobs should not attack good characters on sight. 
 
@@ -300,7 +300,7 @@ Marsup seems not to attack good aligned characters - though I haven't engaged in
 
 </div>
 
-<div class="post" data-post-id="13205" data-author="marchessa_the_red_witch" data-date="2006-06-29T07:47:01+00:00">
+<div class="post" data-post-id="13205" data-author="marchessa_the_red_witch" data-date="2006-06-29T07:47:01+00:00" data-subject="Re: Ummm No.">
 
 [quote:wdylzg4h]Bad orders?  The castle isn't exactly a town.  Granted, the occasional person passes through on a quest or for a forge, but the vast majority are there to kill and slay. 
 
@@ -316,7 +316,7 @@ I'll also note that there is no "lawful" versus "chaotic" division of the mud al
 
 </div>
 
-<div class="post" data-post-id="13206" data-author="marchessa_the_red_witch" data-date="2006-06-29T07:50:58+00:00">
+<div class="post" data-post-id="13206" data-author="marchessa_the_red_witch" data-date="2006-06-29T07:50:58+00:00" data-subject="Current aggro mobs in castle">
 
 I thought originally the castle fighters and knights were aggro.  The elites were also aggro?  I guess the main complaint is that you cant easily go in there for good corpses, because this argument about groups is nonsense.  Unless your soloing this area it doesnt make a bit of difference.
 
@@ -332,7 +332,7 @@ Harder for smaller groups, but not really that much more difficult once the grou
 
 </div>
 
-<div class="post" data-post-id="13207" data-author="Elsie" data-date="2006-06-29T12:10:34+00:00">
+<div class="post" data-post-id="13207" data-author="Elsie" data-date="2006-06-29T12:10:34+00:00" data-subject="Re: Good is as Good does">
 
 I'll leave aside the arguments of depraved indifference and negligence - that is simply "doing what you think is right" is only good if you don't have any way of knowing any better, but wrong, and illegal, if you ought to. 
 
@@ -360,7 +360,7 @@ Hold on a minute this isn;t real life and thats a bit ridiculous ... since when 
 
 </div>
 
-<div class="post" data-post-id="13208" data-author="Avatar" data-date="2006-06-29T15:27:47+00:00">
+<div class="post" data-post-id="13208" data-author="Avatar" data-date="2006-06-29T15:27:47+00:00" data-subject="align">
 
 "Good and evil are matters of perspective and can only be so."  
 
@@ -372,7 +372,7 @@ On the other hand, this seems like it should be the goal.  Games (books / movies
 
 </div>
 
-<div class="post" data-post-id="13209" data-author="kjartan" data-date="2006-06-29T16:22:20+00:00">
+<div class="post" data-post-id="13209" data-author="kjartan" data-date="2006-06-29T16:22:20+00:00" data-subject="">
 
 I haven't noticed any arguments that Sloth's alignment system is inconsistent, just that it's not good-evil symmetric.  I don't see any reason it [i:1hwo3dbl]should[/i:1hwo3dbl] be good-evil symmetric; that's what dikus do by default, I guess, but I don't think any real-world moral or philosophical systems claim that good and evil are symmetric.  
 
@@ -394,7 +394,7 @@ Sloth's system is basically like this, except we have more restrictions on atone
 
 </div>
 
-<div class="post" data-post-id="13210" data-author="Hobbes" data-date="2006-06-29T16:48:36+00:00">
+<div class="post" data-post-id="13210" data-author="Hobbes" data-date="2006-06-29T16:48:36+00:00" data-subject="">
 
 The issue at hand with sloth alignment is not how you define it, but that you can't play the game very well and remain one alignment.  Quests require you to cycle good and evil mobs, to get a good set of EQ you have to cycle good and evil mobs.  One example, the jjd is all evil or neutral mobs except the dragon. (although maybe this changed recently, I didn't lose peri last time I killed him.)  Buying EQ doesn't solve any moral dilemma as you are at least financing the wrong doer, or right doer.  And there are no long term benefits for remaining one alignment so what's the point beyond losing a supplicant every now and then? 
 
@@ -404,7 +404,7 @@ I view the alignment as nothing more than a feature of the game which adds inter
 
 </div>
 
-<div class="post" data-post-id="13212" data-author="12345" data-date="2006-06-29T21:51:10+00:00">
+<div class="post" data-post-id="13212" data-author="12345" data-date="2006-06-29T21:51:10+00:00" data-subject="">
 
 I'll make an addition to that.  Good mobs might let good players pass unmolested eventually.  
 
@@ -416,7 +416,7 @@ The only really genuine way to code it would be to see if you have received firs
 
 </div>
 
-<div class="post" data-post-id="13213" data-author="Avatar" data-date="2006-06-30T00:03:56+00:00">
+<div class="post" data-post-id="13213" data-author="Avatar" data-date="2006-06-30T00:03:56+00:00" data-subject="align">
 
 That's a good summary Hobbes.  
 

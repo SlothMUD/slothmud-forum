@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31772" data-author="*Isabo*" data-date="2010-09-18T02:13:35+00:00">
+<div class="post" data-post-id="31772" data-author="*Isabo*" data-date="2010-09-18T02:13:35+00:00" data-subject="Room message on gem generation">
 
 Greetings, mortals.
 

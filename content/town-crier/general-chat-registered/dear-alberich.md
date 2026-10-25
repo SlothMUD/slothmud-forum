@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="15852" data-author="13" data-date="2006-12-30T00:12:19+00:00">
+<div class="post" data-post-id="15852" data-author="13" data-date="2006-12-30T00:12:19+00:00" data-subject="Dear Alberich">
 
 [quote:3huwpt6y] [  *Enchanter*  ] 	 Alberich the Imperial Brown Goose ~sapphire~[/quote:3huwpt6y]
 

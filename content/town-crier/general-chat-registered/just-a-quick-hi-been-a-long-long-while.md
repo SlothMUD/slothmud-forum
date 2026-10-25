@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34125" data-author="impz" data-date="2013-03-07T15:27:17+00:00">
+<div class="post" data-post-id="34125" data-author="impz" data-date="2013-03-07T15:27:17+00:00" data-subject="Just a quick hi, been a long long while">
 
 Hi all :D Probably the really really old folks might remember me, maybe not :)
 
@@ -20,7 +20,7 @@ Cheers and continue to have fun guys!~
 
 </div>
 
-<div class="post" data-post-id="34126" data-author="Ker" data-date="2013-03-07T17:04:21+00:00">
+<div class="post" data-post-id="34126" data-author="Ker" data-date="2013-03-07T17:04:21+00:00" data-subject="Re: Just a quick hi, been a long long while">
 
 Hiiiiii Impz <3
 

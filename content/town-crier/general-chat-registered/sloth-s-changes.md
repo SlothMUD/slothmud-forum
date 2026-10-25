@@ -10,7 +10,7 @@ locked: false
 post_count: 28
 ---
 
-<div class="post" data-post-id="28740" data-author="*Splork*" data-date="2009-04-11T04:32:45+00:00">
+<div class="post" data-post-id="28740" data-author="*Splork*" data-date="2009-04-11T04:32:45+00:00" data-subject="Sloth&#x27;s changes">
 
 1) Upon login, you will choose primary and secondary class. From there you will pick your classes by walking   to that guild and gaining a level
 
@@ -132,13 +132,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28743" data-author="Weasel" data-date="2009-04-11T04:58:00+00:00">
+<div class="post" data-post-id="28743" data-author="Weasel" data-date="2009-04-11T04:58:00+00:00" data-subject="">
 
 Whole new ball game huh. That's one hell of a lot of work. Well done.
 
 </div>
 
-<div class="post" data-post-id="28767" data-author="Jag" data-date="2009-04-11T13:56:43+00:00">
+<div class="post" data-post-id="28767" data-author="Jag" data-date="2009-04-11T13:56:43+00:00" data-subject="">
 
 Holy Crap!  Lotta work put in, this is very exciting.
 
@@ -148,7 +148,7 @@ BTW thanks!
 
 </div>
 
-<div class="post" data-post-id="28839" data-author="*juggleblood*" data-date="2009-04-11T22:11:19+00:00">
+<div class="post" data-post-id="28839" data-author="*juggleblood*" data-date="2009-04-11T22:11:19+00:00" data-subject="">
 
 Some info to consider when choosing your classo.
 
@@ -188,7 +188,7 @@ Juggs
 
 </div>
 
-<div class="post" data-post-id="28842" data-author="Weasel" data-date="2009-04-11T22:25:15+00:00">
+<div class="post" data-post-id="28842" data-author="Weasel" data-date="2009-04-11T22:25:15+00:00" data-subject="">
 
 frostbolt is prime only? seriously? bah. 
 
@@ -200,7 +200,7 @@ Oh, and for the record, calling frenzy a warrior skill was silly when it effecte
 
 </div>
 
-<div class="post" data-post-id="28845" data-author="Chelle" data-date="2009-04-11T22:31:43+00:00">
+<div class="post" data-post-id="28845" data-author="Chelle" data-date="2009-04-11T22:31:43+00:00" data-subject="">
 
 Basically classo is less important now than in the past, but each prime class is slightly more unique than before. My personal preference is to balance out my hit points and mana by choosing either:
 
@@ -216,7 +216,7 @@ That's just my theory anyway. Just wondering why a balance of hp/ma would be imp
 
 </div>
 
-<div class="post" data-post-id="28846" data-author="*juggleblood*" data-date="2009-04-11T22:42:13+00:00">
+<div class="post" data-post-id="28846" data-author="*juggleblood*" data-date="2009-04-11T22:42:13+00:00" data-subject="">
 
 I've become a fan of well balanced char. I played Rub (wa/ma/cl/th) same as Weasel and found it to be a lot more enjoyable than Marge (Cl/dr/ma/ne). I really missed having melee skills playing marge. 
 
@@ -232,7 +232,7 @@ Medios -- 'one of you clerics in the back man up!'
 
 </div>
 
-<div class="post" data-post-id="28851" data-author="Weasel" data-date="2009-04-12T00:46:13+00:00">
+<div class="post" data-post-id="28851" data-author="Weasel" data-date="2009-04-12T00:46:13+00:00" data-subject="">
 
 Whoever coded frenzy and associated effects told me.. can't remember which immort is was offhand.. Kjartan maybe?, but it's on these forums somewhere as well (I posted about it back then obviously). 
 
@@ -242,7 +242,7 @@ Heck it may not even exist now for all I know.
 
 </div>
 
-<div class="post" data-post-id="28853" data-author="Toxis" data-date="2009-04-12T01:55:11+00:00">
+<div class="post" data-post-id="28853" data-author="Toxis" data-date="2009-04-12T01:55:11+00:00" data-subject="">
 
 I remember too, Weasel, it was posted that it didn't affect those.
 
@@ -250,7 +250,7 @@ I remember too, Weasel, it was posted that it didn't affect those.
 
 </div>
 
-<div class="post" data-post-id="28854" data-author="Toxis" data-date="2009-04-12T03:57:52+00:00">
+<div class="post" data-post-id="28854" data-author="Toxis" data-date="2009-04-12T03:57:52+00:00" data-subject="">
 
 Someone post something... I'm getting bored. :)~
 
@@ -258,7 +258,7 @@ Someone post something... I'm getting bored. :)~
 
 </div>
 
-<div class="post" data-post-id="28855" data-author="Weasel" data-date="2009-04-12T04:20:14+00:00">
+<div class="post" data-post-id="28855" data-author="Weasel" data-date="2009-04-12T04:20:14+00:00" data-subject="">
 
 something.
 
@@ -266,13 +266,13 @@ better now?
 
 </div>
 
-<div class="post" data-post-id="28864" data-author="alias" data-date="2009-04-12T14:33:14+00:00">
+<div class="post" data-post-id="28864" data-author="alias" data-date="2009-04-12T14:33:14+00:00" data-subject="">
 
 Do you have your perfect classo set now Brad?
 
 </div>
 
-<div class="post" data-post-id="28870" data-author="Toxis" data-date="2009-04-12T16:54:13+00:00">
+<div class="post" data-post-id="28870" data-author="Toxis" data-date="2009-04-12T16:54:13+00:00" data-subject="">
 
 No!  I'm at a loss of what classo to play.  How long do you think it'd take to level 8 chars each of a different prime up to 9x40? :)~
 
@@ -284,7 +284,7 @@ I'm only playing one character this time around.  It will be a cleric prime beca
 
 </div>
 
-<div class="post" data-post-id="28872" data-author="Chelle" data-date="2009-04-12T18:03:46+00:00">
+<div class="post" data-post-id="28872" data-author="Chelle" data-date="2009-04-12T18:03:46+00:00" data-subject="">
 
 I'm going to experiment with a mage prime because I'm a little curious about the changes. For one thing, every class has had its really important prime only spells/skills, and some get a whole bunch of them, but all mages get is frostbolt (aside from mirror and reflection, which were already there to begin with). Maybe they made frostbolt significantly stronger or something? I'll find out. Most people on Beta weren't very keen on playing mage primes anyway.
 
@@ -292,7 +292,7 @@ Clueless about the secondary as well - either druid or cleric. Also clueless abo
 
 </div>
 
-<div class="post" data-post-id="28877" data-author="sirrico1" data-date="2009-04-12T20:02:29+00:00">
+<div class="post" data-post-id="28877" data-author="sirrico1" data-date="2009-04-12T20:02:29+00:00" data-subject="">
 
 No!  I'm at a loss of what classo to play.  How long do you think it'd take to level 8 chars each of a different prime up to 9x40? :)~
 
@@ -306,7 +306,7 @@ I agree brad I am going to work only 1 character as well, and again I want to sa
 
 </div>
 
-<div class="post" data-post-id="28880" data-author="Yasik2" data-date="2009-04-12T20:45:58+00:00">
+<div class="post" data-post-id="28880" data-author="Yasik2" data-date="2009-04-12T20:45:58+00:00" data-subject="">
 
 I'm only playing one character this time around.[/quote:emgpxipl]
 
@@ -316,7 +316,7 @@ I mean - we have another 12 or 17 years ahead, which means...
 
 </div>
 
-<div class="post" data-post-id="28881" data-author="Thraxas" data-date="2009-04-12T21:02:20+00:00">
+<div class="post" data-post-id="28881" data-author="Thraxas" data-date="2009-04-12T21:02:20+00:00" data-subject="">
 
 I'm going to play ne then probably cl ... a wa prime has got to win the race to 1x40 and will probably progress faster from there, but having played all classes (except monk ... I kinda hate monks) in III and got av's as wa ne and th primes I've found I enjoyed playing with pets far more than anything else. I'd rather pick something I think is going to be more fun than something that's going to be more powerful or progress faster for a first char.
 
@@ -326,7 +326,7 @@ just my tuppence worth on classo choices.
 
 </div>
 
-<div class="post" data-post-id="28893" data-author="Roadrunr" data-date="2009-04-12T23:29:49+00:00">
+<div class="post" data-post-id="28893" data-author="Roadrunr" data-date="2009-04-12T23:29:49+00:00" data-subject="">
 
 I'm torn, I'm sure I'll go wa prime, just not sure about second, likely either dr or cl although since cl primes are the only ones that get restoration, dr may be better for regen (assuming things havent changed too much).  Then there's also ne (which I'm assuming probably needed a lot of changes due to level requirements for pets).  Ug.
 
@@ -336,7 +336,7 @@ ug.  either way, I dont have the time I used to have and probably should only ha
 
 </div>
 
-<div class="post" data-post-id="28895" data-author="Clink" data-date="2009-04-12T23:50:27+00:00">
+<div class="post" data-post-id="28895" data-author="Clink" data-date="2009-04-12T23:50:27+00:00" data-subject="">
 
 You can only pick one class on character creation now.
 
@@ -346,7 +346,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="28898" data-author="Weasel" data-date="2009-04-13T00:47:00+00:00">
+<div class="post" data-post-id="28898" data-author="Weasel" data-date="2009-04-13T00:47:00+00:00" data-subject="">
 
 Only Cl prime get restoration? Really? Ok.. so that means even [i:yoo1ud5c]more[/i:yoo1ud5c] time spent in sleep regen for Warriors running solo?
 
@@ -356,7 +356,7 @@ Really this new setup sounds great for grouping, and encourages everyone to be t
 
 </div>
 
-<div class="post" data-post-id="28907" data-author="firebrand" data-date="2009-04-13T19:33:27+00:00">
+<div class="post" data-post-id="28907" data-author="firebrand" data-date="2009-04-13T19:33:27+00:00" data-subject="">
 
 can we finally all see inventory inherently or do we still have to wait till we get bard, druid or thief class (with glance skill) to be able to see inventory?  
 
@@ -374,7 +374,7 @@ pleasepleaseplease quit insulting our intelligence.  quit telling us that we bec
 
 </div>
 
-<div class="post" data-post-id="28909" data-author="madmax" data-date="2009-04-13T21:58:51+00:00">
+<div class="post" data-post-id="28909" data-author="madmax" data-date="2009-04-13T21:58:51+00:00" data-subject="">
 
 I do not know for sure, but since spells, now not targeted go directly to the caster, I think you can heal self while blind.
 
@@ -388,7 +388,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="28910" data-author="jezer" data-date="2009-04-14T00:33:06+00:00">
+<div class="post" data-post-id="28910" data-author="jezer" data-date="2009-04-14T00:33:06+00:00" data-subject="">
 
 I think the new start has gone pretty well so far. I enjoyed playing yesterday... I also liked the feeling of "being all in it together" that the wipe created. I'm surprised how well the majority have taken there old characters being wiped. I'm kind of ok with it as well, although I doubt I will ever go through the experience of getting my old eq back, and will somewhat be a binge/casual player.
 
@@ -404,7 +404,7 @@ So enjoying it at the moment, pondering life after 4x40 though.
 
 </div>
 
-<div class="post" data-post-id="28914" data-author="Toxis" data-date="2009-04-14T08:12:53+00:00">
+<div class="post" data-post-id="28914" data-author="Toxis" data-date="2009-04-14T08:12:53+00:00" data-subject="">
 
 if anyone wants to know, exp 5th 160k, 6th 240k, 7th 480k, 8th 640k
 
@@ -414,7 +414,7 @@ and for level 2 respectively for 5-8 is: 320k, 480k, 960k, and 1.28 mil
 
 </div>
 
-<div class="post" data-post-id="28920" data-author="Assirian" data-date="2009-04-15T15:18:17+00:00">
+<div class="post" data-post-id="28920" data-author="Assirian" data-date="2009-04-15T15:18:17+00:00" data-subject="">
 
 [code:1lmud0hm]You charge and bash into a hunched ghoul.
 
@@ -432,7 +432,7 @@ mabbe it was in solth3 too, no clue
 
 </div>
 
-<div class="post" data-post-id="28933" data-author="Chelle" data-date="2009-04-16T12:48:06+00:00">
+<div class="post" data-post-id="28933" data-author="Chelle" data-date="2009-04-16T12:48:06+00:00" data-subject="">
 
 For those who still don't know, here's a summary of how rerolls work now.
 
@@ -444,7 +444,7 @@ Single sided die still does the same - minimum 10 of every stat.
 
 </div>
 
-<div class="post" data-post-id="28934" data-author="Thraxas" data-date="2009-04-16T12:56:13+00:00">
+<div class="post" data-post-id="28934" data-author="Thraxas" data-date="2009-04-16T12:56:13+00:00" data-subject="">
 
 so I guess its save up hex / octs .. roll for keepers .. but have a backup tri in case of a disasterous series of rolls.
 
@@ -452,7 +452,7 @@ Its not a lack of reroll hell ... just a different version ...
 
 </div>
 
-<div class="post" data-post-id="28935" data-author="Vixn" data-date="2009-04-16T13:31:39+00:00">
+<div class="post" data-post-id="28935" data-author="Vixn" data-date="2009-04-16T13:31:39+00:00" data-subject="">
 
 so I guess its save up hex / octs .. roll for keepers .. but have a backup tri in case of a disasterous series of rolls.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="6039" data-author="guest" data-date="2005-05-07T23:49:16+00:00">
+<div class="post" data-post-id="6039" data-author="guest" data-date="2005-05-07T23:49:16+00:00" data-subject="skills &lt;class&gt; min_level max_level">
 
 Hi all ...
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="15453" data-author="13" data-date="2006-12-05T17:32:54+00:00">
+<div class="post" data-post-id="15453" data-author="13" data-date="2006-12-05T17:32:54+00:00" data-subject="The Christmas Thread">
 
 That's right, it's that time of year again!  Hope you haven't been naughty (sorry Edd and Lob), because Santa/Pere Noel/Mr Hanky will know!
 
@@ -42,13 +42,13 @@ Merry Fuckin' Christmas from your friends at ~[DoW]~
 
 </div>
 
-<div class="post" data-post-id="15454" data-author="Krok" data-date="2006-12-05T18:42:42+00:00">
+<div class="post" data-post-id="15454" data-author="Krok" data-date="2006-12-05T18:42:42+00:00" data-subject="">
 
 Sup Aa :) I been naughty, but can I get this cute rock (?), please? :D
 
 </div>
 
-<div class="post" data-post-id="15455" data-author="Vixn" data-date="2006-12-05T19:47:15+00:00">
+<div class="post" data-post-id="15455" data-author="Vixn" data-date="2006-12-05T19:47:15+00:00" data-subject="">
 
 nah, i'll sell this chunk of granite to ss supplies for hm.. 134 coins.
 
@@ -58,7 +58,7 @@ don't tell Lob.
 
 </div>
 
-<div class="post" data-post-id="15489" data-author="*juggleblood*" data-date="2006-12-07T07:56:25+00:00">
+<div class="post" data-post-id="15489" data-author="*juggleblood*" data-date="2006-12-07T07:56:25+00:00" data-subject="">
 
 I'm starting my christmas shopping. Here's what I have in mind so far...
 

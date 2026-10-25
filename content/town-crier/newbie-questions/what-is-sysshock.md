@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="7489" data-author="Taki" data-date="2005-06-23T08:28:15+00:00">
+<div class="post" data-post-id="7489" data-author="Taki" data-date="2005-06-23T08:28:15+00:00" data-subject="what is SysShock...">
 
 and why should I be concerned?
 
@@ -28,7 +28,7 @@ Taki (who has Dwarven Ringmail, +1 SysShock, but doesn't know what that means...
 
 </div>
 
-<div class="post" data-post-id="7490" data-author="madmax" data-date="2005-06-23T10:50:14+00:00">
+<div class="post" data-post-id="7490" data-author="madmax" data-date="2005-06-23T10:50:14+00:00" data-subject="">
 
 + Shock eq is specific to the caster who uses the "raise dead" spell.
 
@@ -44,13 +44,13 @@ Madmax the Roming Healer :) <*GT*>
 
 </div>
 
-<div class="post" data-post-id="7491" data-author="12345" data-date="2005-06-23T10:58:57+00:00">
+<div class="post" data-post-id="7491" data-author="12345" data-date="2005-06-23T10:58:57+00:00" data-subject="">
 
 +shock gear worn by the victim is also considered.
 
 </div>
 
-<div class="post" data-post-id="7495" data-author="Taki" data-date="2005-06-23T11:43:58+00:00">
+<div class="post" data-post-id="7495" data-author="Taki" data-date="2005-06-23T11:43:58+00:00" data-subject="">
 
 Thanks, that definitely made me understand what shock is.
 

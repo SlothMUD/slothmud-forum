@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="9726" data-author="*Splork*" data-date="2005-12-03T23:37:00+00:00">
+<div class="post" data-post-id="9726" data-author="*Splork*" data-date="2005-12-03T23:37:00+00:00" data-subject="Changes and additions">
 
 1) New mage spell frostbolt.
 
@@ -50,7 +50,7 @@ Please check ingame helpfiles for more details...
 
 </div>
 
-<div class="post" data-post-id="9729" data-author="kjartan" data-date="2005-12-04T05:27:58+00:00">
+<div class="post" data-post-id="9729" data-author="kjartan" data-date="2005-12-04T05:27:58+00:00" data-subject="">
 
 11) additional druid servants for 'natures familiar' will be in
 

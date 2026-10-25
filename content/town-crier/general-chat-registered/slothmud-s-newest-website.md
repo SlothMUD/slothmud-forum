@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="34692" data-author="*Splork*" data-date="2013-12-26T23:10:21+00:00">
+<div class="post" data-post-id="34692" data-author="*Splork*" data-date="2013-12-26T23:10:21+00:00" data-subject="SlothMUD&#x27;s Newest Website!">
 
 After a year in the making, we are happy to announce the release of our newest website for SlothMUD.  The old one needed to be replaced for several reasons but most notably the CMS which it was built upon was no longer being maintained and continuing any further development with it would not be wise.  This site is built using Wordpress which allows us the confidence to continue to build custom content for our players and extend upon that which we already have.
 
@@ -52,13 +52,13 @@ Splork & Breeze
 
 </div>
 
-<div class="post" data-post-id="34694" data-author="*Pixie*" data-date="2013-12-27T19:32:14+00:00">
+<div class="post" data-post-id="34694" data-author="*Pixie*" data-date="2013-12-27T19:32:14+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
 looks good! keep up the work!
 
 </div>
 
-<div class="post" data-post-id="34695" data-author="Jaid" data-date="2013-12-27T22:03:29+00:00">
+<div class="post" data-post-id="34695" data-author="Jaid" data-date="2013-12-27T22:03:29+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
 The new website looks cool - I'm just still figuring out how to get around.
 
@@ -70,7 +70,7 @@ Jaid/Rayne
 
 </div>
 
-<div class="post" data-post-id="34696" data-author="*Splork*" data-date="2013-12-27T22:11:58+00:00">
+<div class="post" data-post-id="34696" data-author="*Splork*" data-date="2013-12-27T22:11:58+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
 Registration/login has been disabled for the main part of the website, this is only available via forum. The box is there because we have plans to incorporate it with your in-game characters in the near future.
 
@@ -78,7 +78,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34717" data-author="Shyla" data-date="2013-12-29T03:18:10+00:00">
+<div class="post" data-post-id="34717" data-author="Shyla" data-date="2013-12-29T03:18:10+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
 can we get links put back on the left side of the page for eq list and live info because a lot of people don't even know where to find them anymore and if we have new people stopping by having them where they can be easily seen will really help out please please please
 
@@ -88,7 +88,7 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="34718" data-author="*Splork*" data-date="2013-12-29T03:36:28+00:00">
+<div class="post" data-post-id="34718" data-author="*Splork*" data-date="2013-12-29T03:36:28+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
 The only change in the menus is that we moved the location to the top of the website instead of the side. This is standard protocol in regards to website design. This is the design of our new template and can not be changed. Anyone who is familiar with opening a website in a browser should have no issue finding the drop down menus, my six year old was able to locate them :lol: 
 
@@ -108,7 +108,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34720" data-author="*Splork*" data-date="2013-12-29T04:47:03+00:00">
+<div class="post" data-post-id="34720" data-author="*Splork*" data-date="2013-12-29T04:47:03+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
 We added Live Info and Equipment to the top navigation. That should help out a bit. I will fix the order of the top a bit tomorrow, I am heading to bed!
 
@@ -116,25 +116,25 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34728" data-author="Sleeping Forest" data-date="2013-12-29T15:00:01+00:00">
+<div class="post" data-post-id="34728" data-author="Sleeping Forest" data-date="2013-12-29T15:00:01+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
 Fantastic new site, great job guys. As discussed some things need some fine tuning, but other than that cheers. Keep up the marvelous work.  :)
 
 </div>
 
-<div class="post" data-post-id="34730" data-author="cyprimus" data-date="2013-12-29T16:00:52+00:00">
+<div class="post" data-post-id="34730" data-author="cyprimus" data-date="2013-12-29T16:00:52+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
 Not finding the leveling calculator.  I still have old link too it, but seems to help new players to have it all in one spot.
 
 </div>
 
-<div class="post" data-post-id="34731" data-author="*Splork*" data-date="2013-12-29T16:33:24+00:00">
+<div class="post" data-post-id="34731" data-author="*Splork*" data-date="2013-12-29T16:33:24+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
 Please post the link and we can look into it, I don't remember the page off hand...
 
 </div>
 
-<div class="post" data-post-id="34736" data-author="*Splork*" data-date="2013-12-29T18:00:05+00:00">
+<div class="post" data-post-id="34736" data-author="*Splork*" data-date="2013-12-29T18:00:05+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
 Added Cartography to the main menu and re-ordered. This should now provide quick access to the most visited pages we offer.
 
@@ -142,7 +142,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34737" data-author="cyprimus" data-date="2013-12-29T19:11:49+00:00">
+<div class="post" data-post-id="34737" data-author="cyprimus" data-date="2013-12-29T19:11:49+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
 The link I have is the old one.
 
@@ -152,7 +152,7 @@ Not sure if the one on the old website was the same.
 
 </div>
 
-<div class="post" data-post-id="34738" data-author="Shyla" data-date="2013-12-29T19:15:53+00:00">
+<div class="post" data-post-id="34738" data-author="Shyla" data-date="2013-12-29T19:15:53+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
 thankyou splork the new links up top fixed what I was looking for :) HUGS
 

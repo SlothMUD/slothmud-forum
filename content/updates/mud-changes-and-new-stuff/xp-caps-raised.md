@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31644" data-author="*Splork*" data-date="2010-08-30T03:56:17+00:00">
+<div class="post" data-post-id="31644" data-author="*Splork*" data-date="2010-08-30T03:56:17+00:00" data-subject="xp caps raised">
 
 XP caps have been raised, approximately 500k per cap level.
 

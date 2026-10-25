@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="29630" data-author="Toxis" data-date="2009-06-30T06:34:01+00:00">
+<div class="post" data-post-id="29630" data-author="Toxis" data-date="2009-06-30T06:34:01+00:00" data-subject="Here&#x27;s my BIG Whine :(">
 
 Uhhhl screams in pain from the fire!
 
@@ -30,7 +30,7 @@ Paka splits 26324 coins.  Your share is 1096 coins.
 
 </div>
 
-<div class="post" data-post-id="29631" data-author="Toxis" data-date="2009-06-30T06:39:50+00:00">
+<div class="post" data-post-id="29631" data-author="Toxis" data-date="2009-06-30T06:39:50+00:00" data-subject="">
 
 If kind imms want to reimburse us for our time, here's a list of the group.
 
@@ -88,7 +88,7 @@ Group 'Zuzu's Incomparable Party' is led by Zuzu and consists of:
 
 </div>
 
-<div class="post" data-post-id="29632" data-author="Rigwarl" data-date="2009-06-30T06:41:20+00:00">
+<div class="post" data-post-id="29632" data-author="Rigwarl" data-date="2009-06-30T06:41:20+00:00" data-subject="">
 
 You could have taken a better  slot where i had more than 18 mana!
 
@@ -96,7 +96,7 @@ You could have taken a better  slot where i had more than 18 mana!
 
 </div>
 
-<div class="post" data-post-id="29636" data-author="Jag" data-date="2009-06-30T13:37:09+00:00">
+<div class="post" data-post-id="29636" data-author="Jag" data-date="2009-06-30T13:37:09+00:00" data-subject="">
 
 Grats on killing an epic!  
 
@@ -108,13 +108,13 @@ Now for a real whine.  I can't believe you went epic killing as soon as I went t
 
 </div>
 
-<div class="post" data-post-id="29637" data-author="Dragoth" data-date="2009-06-30T15:05:35+00:00">
+<div class="post" data-post-id="29637" data-author="Dragoth" data-date="2009-06-30T15:05:35+00:00" data-subject="">
 
 Granted Toxis likes to whine without reasons, but in this scenario i suppose its the 1 honor that's got to him.
 
 </div>
 
-<div class="post" data-post-id="29638" data-author="Thraxas" data-date="2009-06-30T16:24:22+00:00">
+<div class="post" data-post-id="29638" data-author="Thraxas" data-date="2009-06-30T16:24:22+00:00" data-subject="">
 
 Grats on killing an epic!  
 
@@ -128,13 +128,13 @@ I'm so glad its not just me ... I read this and just could not for the life of m
 
 </div>
 
-<div class="post" data-post-id="29639" data-author="Medios" data-date="2009-06-30T20:40:20+00:00">
+<div class="post" data-post-id="29639" data-author="Medios" data-date="2009-06-30T20:40:20+00:00" data-subject="">
 
 I was going to reply to this but then remembered how much time I wasted here...
 
 </div>
 
-<div class="post" data-post-id="29640" data-author="Toxis" data-date="2009-06-30T22:38:09+00:00">
+<div class="post" data-post-id="29640" data-author="Toxis" data-date="2009-06-30T22:38:09+00:00" data-subject="">
 
 Heh, I wasn't mad or anything.  Killing Uhhhl was fun.  We got one honor a piece and it has to be a bug or something.
 
@@ -142,7 +142,7 @@ Heh, I wasn't mad or anything.  Killing Uhhhl was fun.  We got one honor a piece
 
 </div>
 
-<div class="post" data-post-id="29641" data-author="*Splork*" data-date="2009-06-30T23:25:58+00:00">
+<div class="post" data-post-id="29641" data-author="*Splork*" data-date="2009-06-30T23:25:58+00:00" data-subject="">
 
 Someone will have to reach out to juggle or Akasha about this type of stuff.
 
@@ -150,7 +150,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29643" data-author="Tap" data-date="2009-07-02T04:22:24+00:00">
+<div class="post" data-post-id="29643" data-author="Tap" data-date="2009-07-02T04:22:24+00:00" data-subject="Got it!">
 
 1) Beggars can't be choosers
 
@@ -164,7 +164,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29646" data-author="Mace" data-date="2009-07-03T00:33:11+00:00">
+<div class="post" data-post-id="29646" data-author="Mace" data-date="2009-07-03T00:33:11+00:00" data-subject="">
 
 On the plus side, the group can keep hitting the castle!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="31333" data-author="Towen" data-date="2010-06-28T18:41:13+00:00">
+<div class="post" data-post-id="31333" data-author="Towen" data-date="2010-06-28T18:41:13+00:00" data-subject="Enchanted weapon and telepathy">
 
 Hello all,
 
@@ -22,7 +22,7 @@ Couple questions:
 
 </div>
 
-<div class="post" data-post-id="31334" data-author="Atwell" data-date="2010-06-28T22:05:08+00:00">
+<div class="post" data-post-id="31334" data-author="Atwell" data-date="2010-06-28T22:05:08+00:00" data-subject="Re: Enchanted weapon and telepathy">
 
 Hi Towen,
 
@@ -32,7 +32,7 @@ Hi Towen,
 
 </div>
 
-<div class="post" data-post-id="31335" data-author="jezer" data-date="2010-06-29T00:13:38+00:00">
+<div class="post" data-post-id="31335" data-author="jezer" data-date="2010-06-29T00:13:38+00:00" data-subject="Re: Enchanted weapon and telepathy">
 
 > **Atwell wrote:**
 > Relatively few mobs ever have thoughts visible to telepathy
@@ -43,7 +43,7 @@ I definitely need more hints for the talking wind in castle black  :)
 
 </div>
 
-<div class="post" data-post-id="31336" data-author="Towen" data-date="2010-06-29T00:24:31+00:00">
+<div class="post" data-post-id="31336" data-author="Towen" data-date="2010-06-29T00:24:31+00:00" data-subject="Re: Enchanted weapon and telepathy">
 
 I just checked and the small saber did not glow violet.  Meaning the enchant didn't take.
 

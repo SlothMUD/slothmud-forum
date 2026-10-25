@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="28967" data-author="Rigwarl" data-date="2009-04-18T12:00:55+00:00">
+<div class="post" data-post-id="28967" data-author="Rigwarl" data-date="2009-04-18T12:00:55+00:00" data-subject="Missing EQ in A Pack">
 
 Hello guys,
 

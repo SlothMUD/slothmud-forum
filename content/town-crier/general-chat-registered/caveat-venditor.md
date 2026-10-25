@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="30874" data-author="*Chobbs*" data-date="2010-02-09T18:18:26+00:00">
+<div class="post" data-post-id="30874" data-author="*Chobbs*" data-date="2010-02-09T18:18:26+00:00" data-subject="Caveat Venditor!">
 
 Mornin' folks,
 
@@ -38,7 +38,7 @@ P.S. Thanks for all the folks who have helped me test this in the last few weeks
 
 </div>
 
-<div class="post" data-post-id="30902" data-author="*Chobbs*" data-date="2010-02-18T06:05:24+00:00">
+<div class="post" data-post-id="30902" data-author="*Chobbs*" data-date="2010-02-18T06:05:24+00:00" data-subject="">
 
 Mornin' folks,
 
@@ -74,7 +74,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30915" data-author="*Chobbs*" data-date="2010-02-22T11:33:53+00:00">
+<div class="post" data-post-id="30915" data-author="*Chobbs*" data-date="2010-02-22T11:33:53+00:00" data-subject="">
 
 Mornin' folks,
 
@@ -228,7 +228,7 @@ Chobbs!
 
 </div>
 
-<div class="post" data-post-id="30916" data-author="celerra7" data-date="2010-02-22T16:10:55+00:00">
+<div class="post" data-post-id="30916" data-author="celerra7" data-date="2010-02-22T16:10:55+00:00" data-subject="">
 
 Really like this new system (have purchased from it).  One suggestion is a default sort by ending date/time, with the item closing soonest at top, and most recently added items at bottom (or in the middle somewhere if they have shorter action durations).  But, in essence, having the list be auto sorted by time ending.  Right now there does not seem to be a recognizable sort order.
 
@@ -236,7 +236,7 @@ Thanks for all the hard work - looks and works well.
 
 </div>
 
-<div class="post" data-post-id="30970" data-author="*Splork*" data-date="2010-03-16T01:03:07+00:00">
+<div class="post" data-post-id="30970" data-author="*Splork*" data-date="2010-03-16T01:03:07+00:00" data-subject="Auction help files ingame!">
 
 You may now find all these helpfiles ingame. Please refer to help auction for a full list of helpfiles.
 

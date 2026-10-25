@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="39308" data-author="*Idjit*" data-date="2019-10-26T23:02:33+00:00">
+<div class="post" data-post-id="39308" data-author="*Idjit*" data-date="2019-10-26T23:02:33+00:00" data-subject="2019 Halloween Quest on Saturday 11/2">
 
 Nobody likes doing holiday quests right on holiday, so...
 
@@ -28,7 +28,7 @@ I will get a timer link going when I get a moment.
 
 </div>
 
-<div class="post" data-post-id="39309" data-author="*Idjit*" data-date="2019-10-26T23:10:22+00:00">
+<div class="post" data-post-id="39309" data-author="*Idjit*" data-date="2019-10-26T23:10:22+00:00" data-subject="Re: 2019 Halloween Quest on Saturday 11/2">
 
 For the incredibly few of you that clicked on the timer linkright away, I had it accidentally set to Noon on 10/31 instead of on 11/2.
 

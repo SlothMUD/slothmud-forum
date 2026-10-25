@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="12553" data-author="Weasel" data-date="2006-05-13T07:00:50+00:00">
+<div class="post" data-post-id="12553" data-author="Weasel" data-date="2006-05-13T07:00:50+00:00" data-subject="dead in CG">
 
 pls help.. accidentalltyhit storm :(
 
 </div>
 
-<div class="post" data-post-id="12554" data-author="Weasel" data-date="2006-05-13T07:03:29+00:00">
+<div class="post" data-post-id="12554" data-author="Weasel" data-date="2006-05-13T07:03:29+00:00" data-subject="">
 
 thanks Shyla :)
 

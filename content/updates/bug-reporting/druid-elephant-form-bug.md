@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="31970" data-author="Filk" data-date="2010-11-05T08:13:24+00:00">
+<div class="post" data-post-id="31970" data-author="Filk" data-date="2010-11-05T08:13:24+00:00" data-subject="Druid elephant form bug">
 
 Its written in help files, that elephants can bash and stop.
 

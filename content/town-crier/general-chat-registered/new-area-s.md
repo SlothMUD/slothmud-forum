@@ -10,7 +10,7 @@ locked: false
 post_count: 42
 ---
 
-<div class="post" data-post-id="11475" data-author="jezer" data-date="2006-03-18T01:39:24+00:00">
+<div class="post" data-post-id="11475" data-author="jezer" data-date="2006-03-18T01:39:24+00:00" data-subject="New Area&#x27;s">
 
 Krok wrote this...
 
@@ -28,13 +28,13 @@ Most people that play sloth are fairly good with computers. I for one am a progr
 
 </div>
 
-<div class="post" data-post-id="11476" data-author="gondor" data-date="2006-03-18T03:02:25+00:00">
+<div class="post" data-post-id="11476" data-author="gondor" data-date="2006-03-18T03:02:25+00:00" data-subject="">
 
 Very nicely said Jezer. I would have to agree. I for one would truly enjoy putting together an area and perhaps a few quests for spellbooks even.  I am sure there are others out there that would enjoy it as well. Perhaps the creators can bring this about and we can help add to the game that we have become addicted to.
 
 </div>
 
-<div class="post" data-post-id="11478" data-author="Weasel" data-date="2006-03-18T03:23:34+00:00">
+<div class="post" data-post-id="11478" data-author="Weasel" data-date="2006-03-18T03:23:34+00:00" data-subject="">
 
 Wasn't there some mention not long ago of an offer something to do with learning slothcode etc? Did anyone email Splork or whoever about it at the time? If not, then really we don't have a leg to stand on, because as I recall, the opportunity to learn was there... I think.
 
@@ -42,7 +42,7 @@ Considering how many players we have online at any given time, there's a lot of 
 
 </div>
 
-<div class="post" data-post-id="11479" data-author="jezer" data-date="2006-03-18T03:43:48+00:00">
+<div class="post" data-post-id="11479" data-author="jezer" data-date="2006-03-18T03:43:48+00:00" data-subject="">
 
 I think it was Enea or maybe Clink that once asked something like... If you were allowed to create areas without being an imm would you do it? A lot of people including myself said yes.
 
@@ -54,7 +54,7 @@ Its mostly just good intentions at the moment.
 
 </div>
 
-<div class="post" data-post-id="11480" data-author="jezer" data-date="2006-03-18T04:03:24+00:00">
+<div class="post" data-post-id="11480" data-author="jezer" data-date="2006-03-18T04:03:24+00:00" data-subject="">
 
 Considering how many players we have online at any given time, there's a lot of areas out there not being touched.. although some areas are hellish to get a CR from due to entrance requirements, which is kinda self-defeating.[/quote:3h0y3j93]
 
@@ -70,13 +70,13 @@ IE, Create a 2x40 orientated area, must have blah blah blah... best entry receiv
 
 </div>
 
-<div class="post" data-post-id="11483" data-author="Weasel" data-date="2006-03-18T05:37:46+00:00">
+<div class="post" data-post-id="11483" data-author="Weasel" data-date="2006-03-18T05:37:46+00:00" data-subject="">
 
 Good ideas.
 
 </div>
 
-<div class="post" data-post-id="11484" data-author="Guinex" data-date="2006-03-18T08:30:19+00:00">
+<div class="post" data-post-id="11484" data-author="Guinex" data-date="2006-03-18T08:30:19+00:00" data-subject="">
 
 [quote:kr4vwrag]Weasel  	
 
@@ -88,7 +88,7 @@ Nice post.
 
 </div>
 
-<div class="post" data-post-id="11485" data-author="*juggleblood*" data-date="2006-03-18T08:33:02+00:00">
+<div class="post" data-post-id="11485" data-author="*juggleblood*" data-date="2006-03-18T08:33:02+00:00" data-subject="">
 
 Some complete area's are only ever run because of as little as 1 or 2 items of  eq. There are a lot of areas, a lot of them are poor imho. I think more "quality" not "quantity" area's need to be built.
 
@@ -118,7 +118,7 @@ It does seem like the muds in a slump and it's got a negative feedback kind of e
 
 </div>
 
-<div class="post" data-post-id="11486" data-author="Guinex" data-date="2006-03-18T08:33:41+00:00">
+<div class="post" data-post-id="11486" data-author="Guinex" data-date="2006-03-18T08:33:41+00:00" data-subject="">
 
 [quote:13n305ni]Weasel  	
 
@@ -130,7 +130,7 @@ Nice post.
 
 </div>
 
-<div class="post" data-post-id="11492" data-author="Autolycos" data-date="2006-03-18T14:41:13+00:00">
+<div class="post" data-post-id="11492" data-author="Autolycos" data-date="2006-03-18T14:41:13+00:00" data-subject="">
 
 and Autolycos said..
 
@@ -154,13 +154,13 @@ PS. juggle  if i'm going to offer 15mil for something simple... then i will offe
 
 </div>
 
-<div class="post" data-post-id="11496" data-author="Weasel" data-date="2006-03-18T17:26:09+00:00">
+<div class="post" data-post-id="11496" data-author="Weasel" data-date="2006-03-18T17:26:09+00:00" data-subject="">
 
 I wouldn't say sloth is in a slump at all - there's a huge amount of new skills and spells that have been introduced recently thanks to the busy coders. Maybe people are getting tired of cycling mobs lately to learn all the new spells and skills, which perhaps makes it feel like a slump..
 
 </div>
 
-<div class="post" data-post-id="11497" data-author="Autolycos" data-date="2006-03-18T17:49:29+00:00">
+<div class="post" data-post-id="11497" data-author="Autolycos" data-date="2006-03-18T17:49:29+00:00" data-subject="">
 
 sloth isnt the one in the slump.  its the playerbase itself, we are the life blood of the game, we impact the changes, and inspire the trouble the Imms go through to improve things... 
 
@@ -174,19 +174,19 @@ it doesnt take much to do.  the last token trivia i ran lasted 2.5 hours and i h
 
 </div>
 
-<div class="post" data-post-id="11499" data-author="Weasel" data-date="2006-03-18T19:00:40+00:00">
+<div class="post" data-post-id="11499" data-author="Weasel" data-date="2006-03-18T19:00:40+00:00" data-subject="">
 
 ..no more 'bring me the head of a weasel' please..  :evil:
 
 </div>
 
-<div class="post" data-post-id="11501" data-author="Autolycos" data-date="2006-03-18T19:15:46+00:00">
+<div class="post" data-post-id="11501" data-author="Autolycos" data-date="2006-03-18T19:15:46+00:00" data-subject="">
 
 *scoffs*  fine.... Mr. Big Barrel of no fun.....  :evil:
 
 </div>
 
-<div class="post" data-post-id="11504" data-author="*juggleblood*" data-date="2006-03-18T20:09:04+00:00">
+<div class="post" data-post-id="11504" data-author="*juggleblood*" data-date="2006-03-18T20:09:04+00:00" data-subject="">
 
 1. WTF? STFUFAH! 
 
@@ -202,7 +202,7 @@ Garsh Auto... :shock:
 
 </div>
 
-<div class="post" data-post-id="11505" data-author="Autolycos" data-date="2006-03-18T20:14:23+00:00">
+<div class="post" data-post-id="11505" data-author="Autolycos" data-date="2006-03-18T20:14:23+00:00" data-subject="">
 
 amusing..  
 
@@ -210,7 +210,7 @@ i'll give you 1 point for the attempt, but -1000 for lack of style.
 
 </div>
 
-<div class="post" data-post-id="11506" data-author="brady" data-date="2006-03-18T20:43:09+00:00">
+<div class="post" data-post-id="11506" data-author="brady" data-date="2006-03-18T20:43:09+00:00" data-subject="">
 
 Krok will be running a bra burning ceremony to rally the female mudders into breathing new life to the mud.  I think we should all be there to support her efforts.  Idol Square 8pm CST.  Autolycos and I will be doing free idol dives for your amusement.  
 
@@ -218,13 +218,13 @@ Seriously though, just vote.  That's all you need to do to keep fresh people and
 
 </div>
 
-<div class="post" data-post-id="11519" data-author="blackmore" data-date="2006-03-19T21:32:56+00:00">
+<div class="post" data-post-id="11519" data-author="blackmore" data-date="2006-03-19T21:32:56+00:00" data-subject="">
 
 One thing I've noticed more recently is that sloth seems to be extremely anti-social these days.  I know I'm not one to talk, I'm almost never paying attention when I'm on, but I can't remember the last time I saw any sort of discussion on gossip that wasn't directly related to the game.  I just don't think it has the "friendly" atmosphere it used to.
 
 </div>
 
-<div class="post" data-post-id="11520" data-author="Alberich" data-date="2006-03-19T22:04:46+00:00">
+<div class="post" data-post-id="11520" data-author="Alberich" data-date="2006-03-19T22:04:46+00:00" data-subject="">
 
 when every third thing on gossip is some newbie begging for sbs, I'd rather imagine most people just have public channels turned off (I know I have for months now...)
 
@@ -232,7 +232,7 @@ Plenty OOC going on in private chans/gtells :)
 
 </div>
 
-<div class="post" data-post-id="11524" data-author="Mosaix" data-date="2006-03-19T23:48:24+00:00">
+<div class="post" data-post-id="11524" data-author="Mosaix" data-date="2006-03-19T23:48:24+00:00" data-subject="">
 
 Gossip works like this, and is why i dont use it.
 
@@ -260,7 +260,7 @@ Enjoy.  See you when I see you.
 
 </div>
 
-<div class="post" data-post-id="11527" data-author="blackmore" data-date="2006-03-20T01:46:06+00:00">
+<div class="post" data-post-id="11527" data-author="blackmore" data-date="2006-03-20T01:46:06+00:00" data-subject="">
 
 Posting that you're still holding a grudge from a year ago over one gossip says something about you.  I'm not sure what, but it's certainly not positive in my mind.
 
@@ -268,13 +268,13 @@ I help those that need help.  If an avatar can't be bothered to pop a book thems
 
 </div>
 
-<div class="post" data-post-id="11535" data-author="jezer" data-date="2006-03-20T03:53:13+00:00">
+<div class="post" data-post-id="11535" data-author="jezer" data-date="2006-03-20T03:53:13+00:00" data-subject="">
 
 I was hungry the other day and you didn't even rellocate and cast create food for me...  :evil:
 
 </div>
 
-<div class="post" data-post-id="11538" data-author="jezer" data-date="2006-03-20T04:18:48+00:00">
+<div class="post" data-post-id="11538" data-author="jezer" data-date="2006-03-20T04:18:48+00:00" data-subject="">
 
 Heh, on a more serious note... 
 
@@ -290,7 +290,7 @@ Come on the mob is almost splork! Pops normally better than 1/4. 500k xp  :shock
 
 </div>
 
-<div class="post" data-post-id="11540" data-author="Mosaix" data-date="2006-03-20T05:43:00+00:00">
+<div class="post" data-post-id="11540" data-author="Mosaix" data-date="2006-03-20T05:43:00+00:00" data-subject="">
 
 It says that i think you act like an disgruntled ass.  
 
@@ -312,7 +312,7 @@ Shyla is very generous, and you are very stipulated.  Takes all kinds I suppose.
 
 </div>
 
-<div class="post" data-post-id="11542" data-author="Yasik" data-date="2006-03-20T06:31:10+00:00">
+<div class="post" data-post-id="11542" data-author="Yasik" data-date="2006-03-20T06:31:10+00:00" data-subject="Re: New Area&#x27;s">
 
 Krok wrote this...
 
@@ -336,7 +336,7 @@ Jezer! You still ARENT even 4x40! Now be a good boy, shut teh chatter and lead t
 
 </div>
 
-<div class="post" data-post-id="11543" data-author="jezer" data-date="2006-03-20T06:37:10+00:00">
+<div class="post" data-post-id="11543" data-author="jezer" data-date="2006-03-20T06:37:10+00:00" data-subject="">
 
 cackle!
 
@@ -348,13 +348,13 @@ Honestly yasik, read a post before replying... remember how you toasted me about
 
 </div>
 
-<div class="post" data-post-id="11549" data-author="Zam" data-date="2006-03-20T09:14:52+00:00">
+<div class="post" data-post-id="11549" data-author="Zam" data-date="2006-03-20T09:14:52+00:00" data-subject="">
 
 Mosaix you suck
 
 </div>
 
-<div class="post" data-post-id="11556" data-author="12345" data-date="2006-03-20T13:11:06+00:00">
+<div class="post" data-post-id="11556" data-author="12345" data-date="2006-03-20T13:11:06+00:00" data-subject="">
 
 Come on the mob is almost splork! Pops normally better than 1/4. 500k xp  :shock:[/quote:24ybngqt]
 
@@ -384,7 +384,7 @@ Which usually results in me needing more eq and spellbooks, and coins... I alway
 
 </div>
 
-<div class="post" data-post-id="11559" data-author="Autolycos" data-date="2006-03-20T14:06:00+00:00">
+<div class="post" data-post-id="11559" data-author="Autolycos" data-date="2006-03-20T14:06:00+00:00" data-subject="">
 
 Which usually results in me needing more eq and spellbooks, and coins... I always seem to need coins....[/quote:xgjxcdah]
 
@@ -392,13 +392,13 @@ coins?  coins?  *cackle  :twisted:
 
 </div>
 
-<div class="post" data-post-id="11560" data-author="12345" data-date="2006-03-20T17:08:15+00:00">
+<div class="post" data-post-id="11560" data-author="12345" data-date="2006-03-20T17:08:15+00:00" data-subject="">
 
 Yes coins.  Until I pop enough vguards to outfit all my clanies, I won't have an extra one for you, Weasel and Qa to fight over.  However, after that I figure I'll have enough for quite some time.  :wink:
 
 </div>
 
-<div class="post" data-post-id="11561" data-author="Autolycos" data-date="2006-03-20T17:19:56+00:00">
+<div class="post" data-post-id="11561" data-author="Autolycos" data-date="2006-03-20T17:19:56+00:00" data-subject="">
 
 bravo!  thats the spirit!   :twisted: 
 
@@ -406,7 +406,7 @@ i'll be more then happy to buy them off you.  it will look quite a fetching addi
 
 </div>
 
-<div class="post" data-post-id="11564" data-author="blackmore" data-date="2006-03-20T18:18:38+00:00">
+<div class="post" data-post-id="11564" data-author="blackmore" data-date="2006-03-20T18:18:38+00:00" data-subject="">
 
 Just dont like the way you act on the mud.[/quote:1l1a931d]
 
@@ -420,7 +420,7 @@ I know this post is an excellent example of my "self righteous" attitude.  I'd r
 
 </div>
 
-<div class="post" data-post-id="11565" data-author="blackmore" data-date="2006-03-20T18:23:58+00:00">
+<div class="post" data-post-id="11565" data-author="blackmore" data-date="2006-03-20T18:23:58+00:00" data-subject="">
 
 He's also nostab.  Which for a splork mob makes him kinda rough.  Easy if you have monk in classo, or are a winding mage.  I had a 2x40 old classo that had quite a problem with him because I have mage 4th.
 
@@ -430,7 +430,7 @@ If you are a winding mage, you don't really need the spell, but yeah, without gr
 
 </div>
 
-<div class="post" data-post-id="11569" data-author="Weasel" data-date="2006-03-20T18:44:13+00:00">
+<div class="post" data-post-id="11569" data-author="Weasel" data-date="2006-03-20T18:44:13+00:00" data-subject="">
 
 ..it will look quite a fetching addition to my hand crafted weasel fur cloak..[/quote:13n5mext]
 
@@ -438,7 +438,7 @@ It's nearly moulting season.. I guess I could sell you some of my sheddings.. it
 
 </div>
 
-<div class="post" data-post-id="11571" data-author="Autolycos" data-date="2006-03-20T19:05:44+00:00">
+<div class="post" data-post-id="11571" data-author="Autolycos" data-date="2006-03-20T19:05:44+00:00" data-subject="">
 
 ..it will look quite a fetching addition to my hand crafted weasel fur cloak..[/quote:24kmucua]
 
@@ -452,7 +452,7 @@ the only hard part i see is getting the eyes right
 
 </div>
 
-<div class="post" data-post-id="11575" data-author="Weasel" data-date="2006-03-20T19:40:01+00:00">
+<div class="post" data-post-id="11575" data-author="Weasel" data-date="2006-03-20T19:40:01+00:00" data-subject="">
 
 settings [enter]
 
@@ -474,7 +474,7 @@ autolycos [enter]
 
 </div>
 
-<div class="post" data-post-id="11579" data-author="Autolycos" data-date="2006-03-20T20:39:44+00:00">
+<div class="post" data-post-id="11579" data-author="Autolycos" data-date="2006-03-20T20:39:44+00:00" data-subject="">
 
 NOOOOOOOOOOOO!!!!!!!!  :shock: 
 
@@ -506,7 +506,7 @@ AAAAAAAAAAAAAAARRRGH!!!
 
 </div>
 
-<div class="post" data-post-id="11580" data-author="jezer" data-date="2006-03-20T23:33:36+00:00">
+<div class="post" data-post-id="11580" data-author="jezer" data-date="2006-03-20T23:33:36+00:00" data-subject="">
 
 the only hard part i see is getting the eyes right 
 
@@ -516,7 +516,7 @@ Cackle! Auto is winning this one... still a few rounds to go no doubt.
 
 </div>
 
-<div class="post" data-post-id="11594" data-author="Weasel" data-date="2006-03-21T03:45:27+00:00">
+<div class="post" data-post-id="11594" data-author="Weasel" data-date="2006-03-21T03:45:27+00:00" data-subject="">
 
 Cackle! Auto is winning this one... still a few rounds to go no doubt.[/quote:2xxpt063]
 
@@ -524,19 +524,19 @@ How much did Autolycos pay you to write that, hmm?  :P
 
 </div>
 
-<div class="post" data-post-id="11596" data-author="jezer" data-date="2006-03-21T03:56:10+00:00">
+<div class="post" data-post-id="11596" data-author="jezer" data-date="2006-03-21T03:56:10+00:00" data-subject="">
 
 If auto wanted to pay someone to say nice things about him... do you really think he would choose me???  :twisted:  :wink:
 
 </div>
 
-<div class="post" data-post-id="11597" data-author="Weasel" data-date="2006-03-21T04:02:51+00:00">
+<div class="post" data-post-id="11597" data-author="Weasel" data-date="2006-03-21T04:02:51+00:00" data-subject="">
 
 maybe it was a threat then?  :wink:
 
 </div>
 
-<div class="post" data-post-id="11603" data-author="Grue" data-date="2006-03-21T05:47:57+00:00">
+<div class="post" data-post-id="11603" data-author="Grue" data-date="2006-03-21T05:47:57+00:00" data-subject="">
 
 I think Auto and Weasel should just get a room and get it over with  :twisted:
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="40186" data-author="*Idjit*" data-date="2025-04-17T15:52:41+00:00">
+<div class="post" data-post-id="40186" data-author="*Idjit*" data-date="2025-04-17T15:52:41+00:00" data-subject="2025 SlothMUD Easter Quest">
 
 Good day one and all, we will have an Easter Quest at 10AM Pacific time Sunday April 20th
 

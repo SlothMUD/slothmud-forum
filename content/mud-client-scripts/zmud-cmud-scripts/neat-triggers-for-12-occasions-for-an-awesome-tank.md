@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37450" data-author="Teron" data-date="2016-10-25T17:52:25+00:00">
+<div class="post" data-post-id="37450" data-author="Teron" data-date="2016-10-25T17:52:25+00:00" data-subject="Neat Triggers for 12 Occasions for an Awesome Tank">
 
 These days, simple rescue triggers don't do the job well, you need to combat the new mechanics that immort added to baffle tanks and when players get in trouble on their own.
 

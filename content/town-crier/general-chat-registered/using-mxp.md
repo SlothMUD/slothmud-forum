@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="11891" data-author="*Splork*" data-date="2006-03-30T14:19:02+00:00">
+<div class="post" data-post-id="11891" data-author="*Splork*" data-date="2006-03-30T14:19:02+00:00" data-subject="Using MXP?">
 
 I've been stating players the last week to find out why some people are not using mxp, here are the three reasons just about everyone gave(which are all fixable);
 
@@ -48,7 +48,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="11892" data-author="Autolycos" data-date="2006-03-30T15:24:30+00:00">
+<div class="post" data-post-id="11892" data-author="Autolycos" data-date="2006-03-30T15:24:30+00:00" data-subject="Re: Using MXP?">
 
 2) MXP in channels allows players to create funky tank reporters or silly grouptells. Or for people like Autolycos-very annoying ones:-)[/quote:2e8f3uoh]
 
@@ -58,7 +58,7 @@ i find it highly unlikely that any of my grouptells could possibly be anymore an
 
 </div>
 
-<div class="post" data-post-id="11903" data-author="*juggleblood*" data-date="2006-04-01T09:17:15+00:00">
+<div class="post" data-post-id="11903" data-author="*juggleblood*" data-date="2006-04-01T09:17:15+00:00" data-subject="Re: Using MXP?">
 
 2) MXP in channels allows players to create funky tank reporters or silly grouptells. Or for people like Autolycos-very annoying ones:-)
 
@@ -72,7 +72,7 @@ Does the variable thing work with Wintin.Net?
 
 </div>
 
-<div class="post" data-post-id="11904" data-author="*Splork*" data-date="2006-04-01T12:54:45+00:00">
+<div class="post" data-post-id="11904" data-author="*Splork*" data-date="2006-04-01T12:54:45+00:00" data-subject="">
 
 Yes, Wintin.NET can do all this. Its right in the helpfiles.
 

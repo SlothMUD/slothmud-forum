@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="13504" data-author="Medios" data-date="2006-07-17T21:47:03+00:00">
+<div class="post" data-post-id="13504" data-author="Medios" data-date="2006-07-17T21:47:03+00:00" data-subject="gilded book">
 
 I always seen this item on locate but could never find it.  Using wealth I found it it was in Kara'sa so I went there and tried to sing for it but got bored and started adventuring.  Found a pale attendant
 
@@ -66,7 +66,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13505" data-author="12345" data-date="2006-07-17T22:16:33+00:00">
+<div class="post" data-post-id="13505" data-author="12345" data-date="2006-07-17T22:16:33+00:00" data-subject="">
 
 I think it's more of an atmosphere item for the sa.  I popped it when I was learning the area and it basically just explains why half the mobs there (the royalty and servants) are good aligned (and ether I think) and the rest (including the ether king) are evil.   The sa is a cool area building-wise, but the number of ether mobs and the radical alignment differences make it difficult to run anything besides the bottom floor.
 
@@ -74,13 +74,13 @@ At least for me :)
 
 </div>
 
-<div class="post" data-post-id="13507" data-author="blackmore" data-date="2006-07-18T04:31:53+00:00">
+<div class="post" data-post-id="13507" data-author="blackmore" data-date="2006-07-18T04:31:53+00:00" data-subject="">
 
 The storyline of the area is told on several notes found in the area.  That's one, and I think one of the first floor mobs has another.  I don't remember if there's any more than that or not.
 
 </div>
 
-<div class="post" data-post-id="13511" data-author="12345" data-date="2006-07-18T20:21:27+00:00">
+<div class="post" data-post-id="13511" data-author="12345" data-date="2006-07-18T20:21:27+00:00" data-subject="">
 
 The king permapops another reddish note or something.  Think it's forge instructions though.
 

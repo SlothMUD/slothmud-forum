@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5805" data-author="Falsra" data-date="2005-04-23T17:42:07+00:00">
+<div class="post" data-post-id="5805" data-author="Falsra" data-date="2005-04-23T17:42:07+00:00" data-subject="2Strider: tail">
 
 Somehow i cant place a bid as Falsra on chopping block from home.
 

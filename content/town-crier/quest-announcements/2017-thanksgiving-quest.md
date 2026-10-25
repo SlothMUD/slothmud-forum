@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38502" data-author="*Idjit*" data-date="2017-11-21T19:05:13+00:00">
+<div class="post" data-post-id="38502" data-author="*Idjit*" data-date="2017-11-21T19:05:13+00:00" data-subject="2017 Thanksgiving Quest">
 
 There will be something...remember it's traditionally smaller than the Halloween Quest...at..this time:
 
@@ -22,7 +22,7 @@ See folks there.
 
 </div>
 
-<div class="post" data-post-id="38504" data-author="Teron" data-date="2017-11-24T04:35:27+00:00">
+<div class="post" data-post-id="38504" data-author="Teron" data-date="2017-11-24T04:35:27+00:00" data-subject="Re: 2017 Thanksgiving Quest">
 
 Tickcounter doesn't load for me.
 
@@ -30,7 +30,7 @@ What's the scheduled PST/EST time? Thanks.
 
 </div>
 
-<div class="post" data-post-id="38505" data-author="*Breeze*" data-date="2017-11-24T08:51:55+00:00">
+<div class="post" data-post-id="38505" data-author="*Breeze*" data-date="2017-11-24T08:51:55+00:00" data-subject="Re: 2017 Thanksgiving Quest">
 
 [http://www.slothmud.org/quests.php](http://www.slothmud.org/quests.php)
 

@@ -10,7 +10,7 @@ locked: true
 post_count: 5
 ---
 
-<div class="post" data-post-id="33251" data-author="Ezekiel" data-date="2012-03-29T03:51:02+00:00">
+<div class="post" data-post-id="33251" data-author="Ezekiel" data-date="2012-03-29T03:51:02+00:00" data-subject="Wow, thanks for squandering months of effort">
 
 You are carrying:
 
@@ -78,7 +78,7 @@ Wow...somehow you would think that with a prime bard singing, a very tough forge
 
 </div>
 
-<div class="post" data-post-id="33252" data-author="*Breeze*" data-date="2012-03-29T13:09:35+00:00">
+<div class="post" data-post-id="33252" data-author="*Breeze*" data-date="2012-03-29T13:09:35+00:00" data-subject="Re: Wow, thanks for squandering months of effort">
 
 So instead of a message saying, "hey, I think something is wrong with the ghost artisan forges, because I had a
 
@@ -102,13 +102,13 @@ to reimburse you now.
 
 </div>
 
-<div class="post" data-post-id="33253" data-author="Ezekiel" data-date="2012-03-30T04:21:29+00:00">
+<div class="post" data-post-id="33253" data-author="Ezekiel" data-date="2012-03-30T04:21:29+00:00" data-subject="Re: Wow, thanks for squandering months of effort">
 
 Sorry for the hostile nature before. It was right after it happened and I was frustrated (considering I had others helping me cycle for the last cp at the time...it was double as frustrating).. I didn't know the imms would be open to looking into it, and spose I should have asked. Thanks for the responsiveness and generosity. -Zeke
 
 </div>
 
-<div class="post" data-post-id="33270" data-author="Yasik" data-date="2012-04-13T15:51:47+00:00">
+<div class="post" data-post-id="33270" data-author="Yasik" data-date="2012-04-13T15:51:47+00:00" data-subject="Re: Wow, thanks for squandering months of effort">
 
 Zek, you did everything right and don't have to apologize.
 
@@ -116,7 +116,7 @@ Breeze, drama is an important part and aspect of the game. Too bad it happens le
 
 </div>
 
-<div class="post" data-post-id="33272" data-author="*Breeze*" data-date="2012-04-14T05:21:14+00:00">
+<div class="post" data-post-id="33272" data-author="*Breeze*" data-date="2012-04-14T05:21:14+00:00" data-subject="Re: Wow, thanks for squandering months of effort">
 
 I code things/do imm things to relax after a long day at work. 
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="17249" data-author="Marchessa_red_witch" data-date="2007-03-11T17:47:37+00:00">
+<div class="post" data-post-id="17249" data-author="Marchessa_red_witch" data-date="2007-03-11T17:47:37+00:00" data-subject="Crash">
 
 Last bootup: Sun Mar 11 12:43:53 2007
 

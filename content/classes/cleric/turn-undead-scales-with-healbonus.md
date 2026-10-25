@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="39046" data-author="*Idjit*" data-date="2019-01-13T07:46:34+00:00">
+<div class="post" data-post-id="39046" data-author="*Idjit*" data-date="2019-01-13T07:46:34+00:00" data-subject="Turn Undead scales with healbonus">
 
 Teker has done some changes to turn undead which now scales with heal bonus.  Also a review of which mobs are vulnerable to 'positive' damage has concurrently been done, as well as seeing which undead creatures are not set to undead species which should-be.  Get out there and test it!
 
@@ -18,7 +18,7 @@ Teker has done some changes to turn undead which now scales with heal bonus.  Al
 
 </div>
 
-<div class="post" data-post-id="39051" data-author="Dragoth" data-date="2019-01-16T08:01:08+00:00">
+<div class="post" data-post-id="39051" data-author="Dragoth" data-date="2019-01-16T08:01:08+00:00" data-subject="Re: Turn Undead scales with healbonus">
 
 Thanks, a decent change.
 
@@ -28,13 +28,13 @@ And instead of a linear progression, maybe it would make sense to make it expone
 
 </div>
 
-<div class="post" data-post-id="39052" data-author="Josiah" data-date="2019-01-16T20:24:36+00:00">
+<div class="post" data-post-id="39052" data-author="Josiah" data-date="2019-01-16T20:24:36+00:00" data-subject="Re: Turn Undead scales with healbonus">
 
 Aerial servant already scales with total levels.
 
 </div>
 
-<div class="post" data-post-id="39053" data-author="Dragoth" data-date="2019-01-17T06:26:59+00:00">
+<div class="post" data-post-id="39053" data-author="Dragoth" data-date="2019-01-17T06:26:59+00:00" data-subject="Re: Turn Undead scales with healbonus">
 
 It sure does, and wouldn't it be great if it also scaled with healbonus ?
 

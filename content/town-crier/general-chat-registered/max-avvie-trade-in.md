@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="37667" data-author="cyprimus" data-date="2016-12-05T17:55:29+00:00">
+<div class="post" data-post-id="37667" data-author="cyprimus" data-date="2016-12-05T17:55:29+00:00" data-subject="max avvie trade in">
 
 Was digressing on rebirth thread..
 
@@ -26,13 +26,13 @@ OK, let the abuse begin...
 
 </div>
 
-<div class="post" data-post-id="37670" data-author="Josiah" data-date="2016-12-05T19:24:15+00:00">
+<div class="post" data-post-id="37670" data-author="Josiah" data-date="2016-12-05T19:24:15+00:00" data-subject="Re: max avvie trade in">
 
 Resetting quests does not have to be part of the rebirth process.  It is, currently, because Breeze assumed it should be.  If multiple rebirths becomes a thing, I'd definitely question resetting autoquests every time.
 
 </div>
 
-<div class="post" data-post-id="37671" data-author="Josiah" data-date="2016-12-05T19:29:15+00:00">
+<div class="post" data-post-id="37671" data-author="Josiah" data-date="2016-12-05T19:29:15+00:00" data-subject="Re: max avvie trade in">
 
 Gaining benefits for one character by playing another has never been a thing in Slothmud.  I'd prefer we focus on unlimited progression for characters without the need for secondary characters.
 

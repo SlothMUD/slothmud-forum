@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33684" data-author="raincrab" data-date="2012-10-27T10:07:58+00:00">
+<div class="post" data-post-id="33684" data-author="raincrab" data-date="2012-10-27T10:07:58+00:00" data-subject="VK Autoquest bug">
 
 I showed this to juggleblood a week ago or so, he said it was setup right, but probably a bug in the code.  I poked around a bit more with it, came up with this cyclical conversation:
 

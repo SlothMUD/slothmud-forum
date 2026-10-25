@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="32646" data-author="Angels" data-date="2011-05-28T03:21:45+00:00">
+<div class="post" data-post-id="32646" data-author="Angels" data-date="2011-05-28T03:21:45+00:00" data-subject="shapeshift bug">
 
 You raise your hands to the sky and slowly shift into a monster template (Angels).
 
@@ -30,7 +30,7 @@ shapeshift fetter
 
 </div>
 
-<div class="post" data-post-id="32647" data-author="*Isabo*" data-date="2011-05-28T13:57:52+00:00">
+<div class="post" data-post-id="32647" data-author="*Isabo*" data-date="2011-05-28T13:57:52+00:00" data-subject="Re: shapeshift bug">
 
 Greetings, young cleric.
 
@@ -71,7 +71,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="32648" data-author="Angels" data-date="2011-05-28T16:40:53+00:00">
+<div class="post" data-post-id="32648" data-author="Angels" data-date="2011-05-28T16:40:53+00:00" data-subject="Re: shapeshift bug">
 
 thanks.. game has crashed since that post was made :) was not aware that its not recompiled every time.
 
@@ -83,7 +83,7 @@ Fix post was 7 days ago :)
 
 </div>
 
-<div class="post" data-post-id="32649" data-author="*Isabo*" data-date="2011-05-28T17:56:10+00:00">
+<div class="post" data-post-id="32649" data-author="*Isabo*" data-date="2011-05-28T17:56:10+00:00" data-subject="Re: shapeshift bug">
 
 Greetings, cleric.
 
@@ -93,7 +93,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="32655" data-author="Tuck" data-date="2011-06-02T20:58:17+00:00">
+<div class="post" data-post-id="32655" data-author="Tuck" data-date="2011-06-02T20:58:17+00:00" data-subject="Re: shapeshift bug">
 
 Isabo, how about stop silly posting 10 threads and make cumulative update notices in one thread so we can read it and do not broke our eyes?
 

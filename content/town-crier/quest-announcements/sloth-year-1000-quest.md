@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38434" data-author="*Idjit*" data-date="2017-10-06T12:18:55+00:00">
+<div class="post" data-post-id="38434" data-author="*Idjit*" data-date="2017-10-06T12:18:55+00:00" data-subject="Sloth Year 1000 Quest">
 
 Sloth Year 1000 is Upon Us.
 
@@ -28,7 +28,7 @@ There will be epics, and some drachma.
 
 </div>
 
-<div class="post" data-post-id="38435" data-author="Gorka" data-date="2017-10-06T17:39:44+00:00">
+<div class="post" data-post-id="38435" data-author="Gorka" data-date="2017-10-06T17:39:44+00:00" data-subject="Re: Sloth Year 1000 Quest">
 
 Yeeeeoooow Sloth Party! 
 
@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=9jK-NcRmVcw
 
 </div>
 
-<div class="post" data-post-id="38436" data-author="*Idjit*" data-date="2017-10-06T23:15:40+00:00">
+<div class="post" data-post-id="38436" data-author="*Idjit*" data-date="2017-10-06T23:15:40+00:00" data-subject="Re: Sloth Year 1000 Quest">
 
 events list has been emailed.
 

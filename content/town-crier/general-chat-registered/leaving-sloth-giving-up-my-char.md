@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="14086" data-author="Sashka" data-date="2006-09-16T21:00:48+00:00">
+<div class="post" data-post-id="14086" data-author="Sashka" data-date="2006-09-16T21:00:48+00:00" data-subject="leaving sloth, giving up my char">
 
 So after 3 months of playing I decided to leave... I don't have the time to play this game plus I really get involved too much when I start playing. I just can't handle both this and real life. Something has to get sacrificed after all.  Which is too bad, I really enjoyed the game. I know that people usually come back, but I really shouldn't. Gotta keep my focus on what I'm doing and just can't afford to get distracted, thinking about how I 'm going to go to the autumnal tomorrow and pop that necklace from Kiteen...
 
@@ -56,7 +56,7 @@ P.S. and thanks to Dzyhar, Shyla, Lob and many many other players who made my ex
 
 </div>
 
-<div class="post" data-post-id="14113" data-author="osric" data-date="2006-09-17T17:57:59+00:00">
+<div class="post" data-post-id="14113" data-author="osric" data-date="2006-09-17T17:57:59+00:00" data-subject="">
 
 Sorry to see you go  :cry:
 

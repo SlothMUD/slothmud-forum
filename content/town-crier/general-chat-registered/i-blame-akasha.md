@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="20153" data-author="Tap" data-date="2007-09-05T11:27:04+00:00">
+<div class="post" data-post-id="20153" data-author="Tap" data-date="2007-09-05T11:27:04+00:00" data-subject="I blame Akasha">
 
 [b:1r09sd4i][u:1r09sd4i] Airline sacrifices goats to appease sky god[/b:1r09sd4i][/u:1r09sd4i][/color:1r09sd4i][/size:1r09sd4i]
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="37881" data-author="*juggleblood*" data-date="2016-12-25T15:31:12+00:00">
+<div class="post" data-post-id="37881" data-author="*juggleblood*" data-date="2016-12-25T15:31:12+00:00" data-subject="Coliseum Clarity">
 
 There is no perfect consensus on what changes could/should be implemented to the coliseum. I've taken everybody's perspective into consideration and I think I see the principles that need to be applied.
 
@@ -24,7 +24,7 @@ So this would leave us with a coliseum where pretty much the only draw is going 
 
 </div>
 
-<div class="post" data-post-id="37883" data-author="Filk" data-date="2016-12-26T02:33:49+00:00">
+<div class="post" data-post-id="37883" data-author="Filk" data-date="2016-12-26T02:33:49+00:00" data-subject="Re: Coliseum Clarity">
 
 I agree on everything.
 
@@ -32,13 +32,13 @@ Also, i wish it would be posible to nullify houses effect inside colliseums. Bec
 
 </div>
 
-<div class="post" data-post-id="37884" data-author="Riurik" data-date="2016-12-26T03:38:38+00:00">
+<div class="post" data-post-id="37884" data-author="Riurik" data-date="2016-12-26T03:38:38+00:00" data-subject="Re: Coliseum Clarity">
 
 I would suggest incremental changes and seeing how it affects usage would be preferable to a big bang to do everything being discussed. FYI I am one of the people who finds the XP in the coliseum rather nice as a newbie when I need to hit that next level, but I don't run the XP constantly in semi-bot mode. I'd like to suggest it would be nice to have a trigger that cuts in if you have run the coliseum more than say 3 or 5 times in a day before XP gets cut off. Essentially you are penalizing those of who don't bot the coliseum for a handful of people who do.
 
 </div>
 
-<div class="post" data-post-id="37885" data-author="Teron" data-date="2016-12-26T06:15:50+00:00">
+<div class="post" data-post-id="37885" data-author="Teron" data-date="2016-12-26T06:15:50+00:00" data-subject="Re: Coliseum Clarity">
 
 Fluffy, then waiting for the right houses shows your persistance in achieving high scores.
 
@@ -48,7 +48,7 @@ Mage didn't wait for a major sun/heat house on the BH day, and leveled fast. If 
 
 </div>
 
-<div class="post" data-post-id="37886" data-author="Filk" data-date="2016-12-26T07:18:13+00:00">
+<div class="post" data-post-id="37886" data-author="Filk" data-date="2016-12-26T07:18:13+00:00" data-subject="Re: Coliseum Clarity">
 
 Shrug. I think colliseum scores should be done only with colliseum environment. Following that logic, all items using was excluded. Houses do exactly the same. Just giving more problems to get exact situation when you could do high score. You need to wait for some house. Sometimes it could take months, before its long enough and in your time zone. Thats just plain stupid.
 
@@ -62,7 +62,7 @@ Problem isnt in drachma. Its about perfectionism. If you could do it better, you
 
 </div>
 
-<div class="post" data-post-id="37887" data-author="Gorka" data-date="2016-12-26T07:59:39+00:00">
+<div class="post" data-post-id="37887" data-author="Gorka" data-date="2016-12-26T07:59:39+00:00" data-subject="Re: Coliseum Clarity">
 
 I agree with Filk... it would have been better if houses didn't effect coliseum... but it's too late now. I hate waiting for major's to get good scores. Good houses seem to favor mages types as the place is full on a heat/sun but it's empty for most of the other majors. This is adding to the clear "mage bias" the coliseum has at least in the first 5-6 levels.
 
@@ -72,7 +72,7 @@ I don't have a problem with the coliseum essentially becoming an "auto-quest" on
 
 </div>
 
-<div class="post" data-post-id="37888" data-author="*juggleblood*" data-date="2016-12-26T13:38:35+00:00">
+<div class="post" data-post-id="37888" data-author="*juggleblood*" data-date="2016-12-26T13:38:35+00:00" data-subject="Re: Coliseum Clarity">
 
 I agree that we could've cut out astrology, but also don't see what's to be done about it now because the scores are what they are. These rooms do have special flags that make devak not work and imbued spells not work. We  probably should have included astrology at that time. On the positive side, it's something that makes people pay very close attention to astrology.
 
@@ -80,7 +80,7 @@ I agree that we could've cut out astrology, but also don't see what's to be done
 
 </div>
 
-<div class="post" data-post-id="37889" data-author="Josiah" data-date="2016-12-26T22:14:37+00:00">
+<div class="post" data-post-id="37889" data-author="Josiah" data-date="2016-12-26T22:14:37+00:00" data-subject="Re: Coliseum Clarity">
 
 While you are looking at potentially changing raid mobs, I would like to see them be more numerous.  Often they are ignored, but they can all be wiped out quickly by a single avatar.  If there are two people running raids at the same time, they'll all be dead in 5 minutes or less.
 
@@ -90,19 +90,19 @@ Either larger or groups or much more common spawns would be great.  Alternately 
 
 </div>
 
-<div class="post" data-post-id="37891" data-author="*juggleblood*" data-date="2016-12-27T04:13:17+00:00">
+<div class="post" data-post-id="37891" data-author="*juggleblood*" data-date="2016-12-27T04:13:17+00:00" data-subject="Re: Coliseum Clarity">
 
 Definitely doable. First need to make sure they all even working. I finding a few that I think might be defunct. Do you know Bohtk, Tanra, or Slosih raid leaders? Another issue is that many of the timers are no longer functional and mobs don't disappear as intended and in some cases, such as imps they build up to quite a number. I'm not sure I want to fix them tho, I'm wondering if all the raids can't just hang around until killed.
 
 </div>
 
-<div class="post" data-post-id="37892" data-author="Josiah" data-date="2016-12-27T07:17:29+00:00">
+<div class="post" data-post-id="37892" data-author="Josiah" data-date="2016-12-27T07:17:29+00:00" data-subject="Re: Coliseum Clarity">
 
 Some of the timers are working.  I've often been fighting elemental furies when suddenly they all de-spawn.
 
 </div>
 
-<div class="post" data-post-id="37893" data-author="cyprimus" data-date="2016-12-27T16:48:39+00:00">
+<div class="post" data-post-id="37893" data-author="cyprimus" data-date="2016-12-27T16:48:39+00:00" data-subject="Re: Coliseum Clarity">
 
 I am thinking ever increasing admittance fees, insurance if you want raised.
 
@@ -114,7 +114,7 @@ heading to work, just got a vision of the old dragon magazine cartoon with 'inse
 
 </div>
 
-<div class="post" data-post-id="37894" data-author="*juggleblood*" data-date="2016-12-27T23:31:55+00:00">
+<div class="post" data-post-id="37894" data-author="*juggleblood*" data-date="2016-12-27T23:31:55+00:00" data-subject="Re: Coliseum Clarity">
 
 Nothing like that is necessary if we cease running coli for loot and xp. Get in, get your honor and drachma, get out.
 

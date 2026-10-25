@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="39182" data-author="Gorka" data-date="2019-04-30T07:48:28+00:00">
+<div class="post" data-post-id="39182" data-author="Gorka" data-date="2019-04-30T07:48:28+00:00" data-subject="New Drachma Eq Observations">
 
 Since the new drachma eq has gone in, I have observed my ac/weapon damage mode change to exist of almost entirely non regular eq... that is 3x40 and drachma eq. That's not a bad thing... I play a lot, I am rebirth and have sourced a lot of drachma... it's come about by a greater investment in sloth than most players are prepared to make. I like the new drachma eq, and I purchased a crap load of it, with plans to buy more.
 
@@ -34,7 +34,7 @@ http://slothmudeq.tk/?forge=on&noquest=on
 
 </div>
 
-<div class="post" data-post-id="39184" data-author="Driven" data-date="2019-04-30T22:54:41+00:00">
+<div class="post" data-post-id="39184" data-author="Driven" data-date="2019-04-30T22:54:41+00:00" data-subject="Re: New Drachma Eq Observations">
 
 Yep, good point about the old forges.  I also am a huge fan of requiring stepping stones for progression, where the forges can be used in drachma-related forges or for quest turn-in.  Which forges do you feel have been antiquated?
 
@@ -112,13 +112,13 @@ I know there are a number of forges that are no longer 'the best' because of new
 
 </div>
 
-<div class="post" data-post-id="39185" data-author="cyprimus" data-date="2019-05-01T16:17:33+00:00">
+<div class="post" data-post-id="39185" data-author="cyprimus" data-date="2019-05-01T16:17:33+00:00" data-subject="Re: New Drachma Eq Observations">
 
 Ahem. yep. like i said. would like to be able to buy base stats..to cap, not just bonus.   I also rarely forge anything.. i an not on long enough most the time to do eq pops..
 
 </div>
 
-<div class="post" data-post-id="39186" data-author="Gorka" data-date="2019-05-02T10:28:57+00:00">
+<div class="post" data-post-id="39186" data-author="Gorka" data-date="2019-05-02T10:28:57+00:00" data-subject="Ideas for the Obsolete Forges">
 
 Personally I feel drachma eq should be better than forges... forges could be used more in drachma eq forges. So what to do with all the crappy forges? Decided to pen some ideas and attempt to be useful.
 
@@ -146,7 +146,7 @@ Personally I feel drachma eq should be better than forges... forges could be use
 
 </div>
 
-<div class="post" data-post-id="39221" data-author="Gorka" data-date="2019-06-21T12:16:10+00:00">
+<div class="post" data-post-id="39221" data-author="Gorka" data-date="2019-06-21T12:16:10+00:00" data-subject="EQ IS DEAD! R.I.P! What&#x27;s Next?">
 
 I had a conversation with Seda today about the changes to the game since she left, mixed in with some ideas to keep the game progressing for grumpy old farts like myself. The hairy mole's a bit grey these days.
 
@@ -164,7 +164,7 @@ But most of all, I am feeling a bit bored. With the changes to the new drachma i
 
 </div>
 
-<div class="post" data-post-id="39224" data-author="Driven" data-date="2019-06-24T22:31:34+00:00">
+<div class="post" data-post-id="39224" data-author="Driven" data-date="2019-06-24T22:31:34+00:00" data-subject="Re: New Drachma Eq Observations">
 
 Progression is a good thing.  We already have precedence of using ingame forges to upgrade drachma gear (new demonskins forge), so there is a lot of meat on that bone as we go forward.  Hopefully once rebirth shop goes in we can find other avenues of new progression as well.
 

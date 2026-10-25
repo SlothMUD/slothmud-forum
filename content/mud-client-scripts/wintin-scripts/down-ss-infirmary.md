@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="12897" data-author="brand" data-date="2006-06-06T21:05:09+00:00">
+<div class="post" data-post-id="12897" data-author="brand" data-date="2006-06-06T21:05:09+00:00" data-subject="down ss infirmary!">
 
 dead
 
 </div>
 
-<div class="post" data-post-id="12899" data-author="Weasel" data-date="2006-06-06T21:45:52+00:00">
+<div class="post" data-post-id="12899" data-author="Weasel" data-date="2006-06-06T21:45:52+00:00" data-subject="">
 
 :( at least you're in the right place for that sort of thing..
 

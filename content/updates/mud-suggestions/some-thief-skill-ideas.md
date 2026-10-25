@@ -10,7 +10,7 @@ locked: false
 post_count: 25
 ---
 
-<div class="post" data-post-id="5894" data-author="brand" data-date="2005-05-01T20:29:35+00:00">
+<div class="post" data-post-id="5894" data-author="brand" data-date="2005-05-01T20:29:35+00:00" data-subject="Some thief skill ideas">
 
 i remember thinking some of these might be kool, used ideas ingame on a few of them but just in case what you think...
 
@@ -28,19 +28,19 @@ i remember thinking some of these might be kool, used ideas ingame on a few of t
 
 </div>
 
-<div class="post" data-post-id="5898" data-author="13" data-date="2005-05-02T10:24:25+00:00">
+<div class="post" data-post-id="5898" data-author="13" data-date="2005-05-02T10:24:25+00:00" data-subject="">
 
 [quote:8lsfpdhx] Corwin (lead aura) [/quote:8lsfpdhx]
 
 </div>
 
-<div class="post" data-post-id="5901" data-author="Prog" data-date="2005-05-02T11:40:31+00:00">
+<div class="post" data-post-id="5901" data-author="Prog" data-date="2005-05-02T11:40:31+00:00" data-subject="">
 
 i like idea about coins :)
 
 </div>
 
-<div class="post" data-post-id="5907" data-author="13" data-date="2005-05-02T13:41:04+00:00">
+<div class="post" data-post-id="5907" data-author="13" data-date="2005-05-02T13:41:04+00:00" data-subject="Speaking of thieves...">
 
 Check out this short partial transcript below and this audio file from Thursday's Alex Jones show. The audio clip has material not in the transcript.
 
@@ -78,7 +78,7 @@ CALLER "Thomas in Colorado": I never met Mr. -- Dr. Thompson myself, but we had 
 
 </div>
 
-<div class="post" data-post-id="5908" data-author="Autolycos" data-date="2005-05-02T13:48:18+00:00">
+<div class="post" data-post-id="5908" data-author="Autolycos" data-date="2005-05-02T13:48:18+00:00" data-subject="">
 
 i sit here trying to find out WTF this has to do with thief skills?
 
@@ -92,7 +92,7 @@ the gold is cool to, but i would rather they use the term
 
 </div>
 
-<div class="post" data-post-id="5909" data-author="13" data-date="2005-05-02T14:08:53+00:00">
+<div class="post" data-post-id="5909" data-author="13" data-date="2005-05-02T14:08:53+00:00" data-subject="">
 
 obviously autolycos doesnt pay attention to thread titles
 
@@ -100,7 +100,7 @@ obviously autolycos doesnt pay attention to thread titles
 
 </div>
 
-<div class="post" data-post-id="5912" data-author="12345" data-date="2005-05-02T14:22:21+00:00">
+<div class="post" data-post-id="5912" data-author="12345" data-date="2005-05-02T14:22:21+00:00" data-subject="">
 
 Ah, I thought you had just switched from posting gay photos to gay text.
 
@@ -108,7 +108,7 @@ Thanks for clearing that up.
 
 </div>
 
-<div class="post" data-post-id="5916" data-author="13" data-date="2005-05-02T15:21:55+00:00">
+<div class="post" data-post-id="5916" data-author="13" data-date="2005-05-02T15:21:55+00:00" data-subject="">
 
 did you guys read that ?  its about hunter s thompson "shooting himself" 
 
@@ -122,7 +122,7 @@ for it.  although i might make a conspiracy theory thread..
 
 </div>
 
-<div class="post" data-post-id="5917" data-author="12345" data-date="2005-05-02T15:29:02+00:00">
+<div class="post" data-post-id="5917" data-author="12345" data-date="2005-05-02T15:29:02+00:00" data-subject="">
 
 Saying Bush and his administration are gay isn't a conspiracy theory, it's a fact.  Implying the government had someone killed and tried covering it up is equally unamazing.  After all, this is the same administration that publicly approved the secret plan to kill Suddam.  This time they just secretly approved the public plan to kill Hunter.
 
@@ -130,7 +130,7 @@ Whatcha say we actually follow the thread that was started instead of publicly s
 
 </div>
 
-<div class="post" data-post-id="5918" data-author="Autolycos" data-date="2005-05-02T15:29:49+00:00">
+<div class="post" data-post-id="5918" data-author="Autolycos" data-date="2005-05-02T15:29:49+00:00" data-subject="">
 
 obviously autolycos doesnt pay attention to thread titles
 
@@ -156,7 +156,7 @@ the threat is out there, and it has sharp pointy teeth! :twisted:
 
 </div>
 
-<div class="post" data-post-id="5921" data-author="13" data-date="2005-05-02T15:56:06+00:00">
+<div class="post" data-post-id="5921" data-author="13" data-date="2005-05-02T15:56:06+00:00" data-subject="powarful stabbar!">
 
 [quote:2mxmakwk]your
 
@@ -166,7 +166,7 @@ im a monk dude.
 
 </div>
 
-<div class="post" data-post-id="5926" data-author="Autolycos" data-date="2005-05-02T17:04:04+00:00">
+<div class="post" data-post-id="5926" data-author="Autolycos" data-date="2005-05-02T17:04:04+00:00" data-subject="Re: powarful stabbar!">
 
 im a monk dude.[/quote:4170hiwr]
 
@@ -176,7 +176,7 @@ I was refrencing your ability to swipe text, not your char class
 
 </div>
 
-<div class="post" data-post-id="5928" data-author="12345" data-date="2005-05-02T18:05:20+00:00">
+<div class="post" data-post-id="5928" data-author="12345" data-date="2005-05-02T18:05:20+00:00" data-subject="">
 
 To get back on topic, I actually like the idea of the coins myself.  Thought something like the following might be cool:
 
@@ -234,7 +234,7 @@ Might be too spammy, dunno.  One way of doing it though.
 
 </div>
 
-<div class="post" data-post-id="5930" data-author="Autolycos" data-date="2005-05-02T18:28:54+00:00">
+<div class="post" data-post-id="5930" data-author="Autolycos" data-date="2005-05-02T18:28:54+00:00" data-subject="">
 
 hehe  i like it, 
 
@@ -244,19 +244,19 @@ There was 2500000 coins. nice catch!
 
 </div>
 
-<div class="post" data-post-id="5980" data-author="brand" data-date="2005-05-05T03:08:19+00:00">
+<div class="post" data-post-id="5980" data-author="brand" data-date="2005-05-05T03:08:19+00:00" data-subject="another one...">
 
 item scan... instead on players you see items on ground
 
 </div>
 
-<div class="post" data-post-id="5981" data-author="brand" data-date="2005-05-05T03:11:19+00:00">
+<div class="post" data-post-id="5981" data-author="brand" data-date="2005-05-05T03:11:19+00:00" data-subject="try that again">
 
 item scan... instead OF players and mobs you see items on ground
 
 </div>
 
-<div class="post" data-post-id="5984" data-author="Weasel" data-date="2005-05-05T10:27:10+00:00">
+<div class="post" data-post-id="5984" data-author="Weasel" data-date="2005-05-05T10:27:10+00:00" data-subject="">
 
 heh.. maybe we should have bots/people play the game for us, and then email a report at the end of each day and tell us whether we had a good time or not.
 
@@ -264,19 +264,19 @@ heh.. maybe we should have bots/people play the game for us, and then email a re
 
 </div>
 
-<div class="post" data-post-id="5985" data-author="12345" data-date="2005-05-05T10:39:29+00:00">
+<div class="post" data-post-id="5985" data-author="12345" data-date="2005-05-05T10:39:29+00:00" data-subject="">
 
 You've been playing Weasel for me for years.  I've never gotten a report though.  Am I having a good time yet?
 
 </div>
 
-<div class="post" data-post-id="5986" data-author="Alberich" data-date="2005-05-05T10:53:30+00:00">
+<div class="post" data-post-id="5986" data-author="Alberich" data-date="2005-05-05T10:53:30+00:00" data-subject="">
 
 most people would only do that if you wrote the scripts for them, explained in small words how to use them, and also had a link to the stats because god forbid anyone actually look something up.   I suppose a nice option would be autotitling all the things you are too lazy to go find too...
 
 </div>
 
-<div class="post" data-post-id="5987" data-author="12345" data-date="2005-05-05T11:52:28+00:00">
+<div class="post" data-post-id="5987" data-author="12345" data-date="2005-05-05T11:52:28+00:00" data-subject="">
 
 In fairness, modern games have evolved somewhat.  For instance, most come with a manual, Sloth has help, but you kind of have to know what you're looking for to use it.  Many have built in tutorials that force you to practice using a feature the first time you come to it, along with an indepth explaination of how it works.  And for those that still can't figure it out, you can buy a handy strategy guide for $19.95 that will literally walk you through the game.  Not to mention the tons of handy tips and tricks you can download from places like gamefaqs to further aid your quest into the unknown.
 
@@ -284,7 +284,7 @@ With all the handy aids offered by other games, you want people to actually figu
 
 </div>
 
-<div class="post" data-post-id="5993" data-author="kjartan" data-date="2005-05-05T14:13:11+00:00">
+<div class="post" data-post-id="5993" data-author="kjartan" data-date="2005-05-05T14:13:11+00:00" data-subject="">
 
 We have the 'advice' command, that's pretty user-friendly.
 
@@ -292,7 +292,7 @@ I am working on something that will let you talk to mobs a little bit more than 
 
 </div>
 
-<div class="post" data-post-id="5994" data-author="12345" data-date="2005-05-05T14:27:37+00:00">
+<div class="post" data-post-id="5994" data-author="12345" data-date="2005-05-05T14:27:37+00:00" data-subject="">
 
 Newbie asks Mob 'Could I kill you?'
 
@@ -300,7 +300,7 @@ Mob replies 'I hit pretty hard but I don't think I can penetrate your armor.  If
 
 </div>
 
-<div class="post" data-post-id="5999" data-author="Autolycos" data-date="2005-05-05T15:32:17+00:00">
+<div class="post" data-post-id="5999" data-author="Autolycos" data-date="2005-05-05T15:32:17+00:00" data-subject="">
 
 I suppose a nice option would be autotitling all the things you are too lazy to go find too...[/quote:lc5w7doh]
 
@@ -312,7 +312,7 @@ i just find it amusing when a 2x40 char has a book in their title that is an ez 
 
 </div>
 
-<div class="post" data-post-id="6003" data-author="Weasel" data-date="2005-05-05T18:13:26+00:00">
+<div class="post" data-post-id="6003" data-author="Weasel" data-date="2005-05-05T18:13:26+00:00" data-subject="">
 
 You've been playing Weasel for me for years.  I've never gotten a report though.  Am I having a good time yet?[/quote:1azksjb4]
 
@@ -320,7 +320,7 @@ LOL  nice :)
 
 </div>
 
-<div class="post" data-post-id="6004" data-author="Weasel" data-date="2005-05-05T18:15:59+00:00">
+<div class="post" data-post-id="6004" data-author="Weasel" data-date="2005-05-05T18:15:59+00:00" data-subject="">
 
 Newbie asks Mob 'Could I kill you?'
 

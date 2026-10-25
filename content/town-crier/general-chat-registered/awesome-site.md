@@ -10,13 +10,13 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="31196" data-author="Tuck" data-date="2010-05-23T01:27:05+00:00">
+<div class="post" data-post-id="31196" data-author="Tuck" data-date="2010-05-23T01:27:05+00:00" data-subject="AWESOME SITE!">
 
 Great Website. Lots of info. Thanks Benq! Thanks all imms!
 
 </div>
 
-<div class="post" data-post-id="31199" data-author="reboog" data-date="2010-05-23T08:04:28+00:00">
+<div class="post" data-post-id="31199" data-author="reboog" data-date="2010-05-23T08:04:28+00:00" data-subject="Re: AWESOME SITE!">
 
 I don't make many serious posts here, but this is one, so I hope it is not simply ignored.
 
@@ -30,7 +30,7 @@ Having said all that, thanks to everyone who worked on improving the site.
 
 </div>
 
-<div class="post" data-post-id="31202" data-author="*Breeze*" data-date="2010-05-23T11:26:51+00:00">
+<div class="post" data-post-id="31202" data-author="*Breeze*" data-date="2010-05-23T11:26:51+00:00" data-subject="Re: AWESOME SITE!">
 
 > **reboog wrote:**
 > I love the fact that the forum login is fixed, and that the posts no longer go in reverse date order.  However, the slate grey with light blue font is really difficult on the eyes.  Black is the best background color we could possibly have, could we go back to that?  I don't see any customizable options.
@@ -62,7 +62,7 @@ you're welcome
 
 </div>
 
-<div class="post" data-post-id="31203" data-author="jezer" data-date="2010-05-23T13:40:40+00:00">
+<div class="post" data-post-id="31203" data-author="jezer" data-date="2010-05-23T13:40:40+00:00" data-subject="Re: AWESOME SITE!">
 
 > **reboog wrote:**
 > I don't make many serious posts here, but this is one, so I hope it is not simply ignored.
@@ -101,7 +101,7 @@ Naga form damage die - 4d7
 
 </div>
 
-<div class="post" data-post-id="31204" data-author="reboog" data-date="2010-05-23T17:40:20+00:00">
+<div class="post" data-post-id="31204" data-author="reboog" data-date="2010-05-23T17:40:20+00:00" data-subject="Re: AWESOME SITE!">
 
 I do not want a bare site with a forum; in fact, I very specifically stated what I didn't want, which leaves more than half of the tree items still up.
 
@@ -109,7 +109,7 @@ I would recommend taking spellstats and skillstats off the tree menu.  Basically
 
 </div>
 
-<div class="post" data-post-id="31205" data-author="Tuck" data-date="2010-05-23T17:56:28+00:00">
+<div class="post" data-post-id="31205" data-author="Tuck" data-date="2010-05-23T17:56:28+00:00" data-subject="Re: AWESOME SITE!">
 
 > **reboog wrote:**
 > I do not want a bare site with a forum; in fact, I very specifically stated what I didn't want, which leaves more than half of the tree items still up.
@@ -120,7 +120,7 @@ And turn on avatars please.
 
 </div>
 
-<div class="post" data-post-id="31207" data-author="*Splork*" data-date="2010-05-23T21:31:12+00:00">
+<div class="post" data-post-id="31207" data-author="*Splork*" data-date="2010-05-23T21:31:12+00:00" data-subject="Re: AWESOME SITE!">
 
 Slothmud has been up for nearly twenty years now. What one player finds unnecessary and unappealing, another probably finds necessary. Removing links for sloth slang, shops, and a few others mentioned is not a good option. New players should most definitely be reading these pages and getting a heads up on the game. Those who find the information useless can simply skip them, as they always have. 
 
@@ -134,7 +134,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31208" data-author="Rynquald" data-date="2010-05-23T23:32:35+00:00">
+<div class="post" data-post-id="31208" data-author="Rynquald" data-date="2010-05-23T23:32:35+00:00" data-subject="Re: AWESOME SITE!">
 
 The new site looks great. I especially like the inclusion of Memory Lane.
 
@@ -144,7 +144,7 @@ Thanks for all the hard work that must have gone into this.
 
 </div>
 
-<div class="post" data-post-id="31213" data-author="Thraxas" data-date="2010-05-24T16:19:22+00:00">
+<div class="post" data-post-id="31213" data-author="Thraxas" data-date="2010-05-24T16:19:22+00:00" data-subject="Re: AWESOME SITE!">
 
 Overall the website revamp is great and a huge improvement .... obviously a work still in progress but looking good so far.
 
@@ -156,7 +156,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31215" data-author="blackmore" data-date="2010-05-24T20:13:26+00:00">
+<div class="post" data-post-id="31215" data-author="blackmore" data-date="2010-05-24T20:13:26+00:00" data-subject="Re: AWESOME SITE!">
 
 > ***Splork* wrote:**
 > What one player finds unnecessary and unappealing, another probably finds necessary.
@@ -165,7 +165,7 @@ Amen.
 
 </div>
 
-<div class="post" data-post-id="31216" data-author="blackmore" data-date="2010-05-24T20:15:55+00:00">
+<div class="post" data-post-id="31216" data-author="blackmore" data-date="2010-05-24T20:15:55+00:00" data-subject="Re: AWESOME SITE!">
 
 > **Thraxas wrote:**
 > I am however finding this colour scheme on the forum really hard to cope with .... any way to customise?
@@ -174,7 +174,7 @@ If you go to "User Control Panel", it gives you a place to pick the skin - I for
 
 </div>
 
-<div class="post" data-post-id="31217" data-author="*Splork*" data-date="2010-05-24T23:37:28+00:00">
+<div class="post" data-post-id="31217" data-author="*Splork*" data-date="2010-05-24T23:37:28+00:00" data-subject="Re: AWESOME SITE!">
 
 Ive installed four new themes, maybe one of these you will like better.
 
@@ -184,13 +184,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31218" data-author="reboog" data-date="2010-05-24T23:46:41+00:00">
+<div class="post" data-post-id="31218" data-author="reboog" data-date="2010-05-24T23:46:41+00:00" data-subject="Re: AWESOME SITE!">
 
 DVGFX and darksky are much nicer on the eyes :)
 
 </div>
 
-<div class="post" data-post-id="31223" data-author="Thraxas" data-date="2010-05-25T08:30:37+00:00">
+<div class="post" data-post-id="31223" data-author="Thraxas" data-date="2010-05-25T08:30:37+00:00" data-subject="Re: AWESOME SITE!">
 
 > **reboog wrote:**
 > DVGFX and darksky are much nicer on the eyes :)
@@ -203,7 +203,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31224" data-author="Teron" data-date="2010-05-25T16:14:16+00:00">
+<div class="post" data-post-id="31224" data-author="Teron" data-date="2010-05-25T16:14:16+00:00" data-subject="Re: AWESOME SITE!">
 
 Benq, if you like black text on grey(ish) background, please hop on this page and read to the end:
 
@@ -217,7 +217,7 @@ P.P.S. I like new additions to the site: especially the clan numbers are great i
 
 </div>
 
-<div class="post" data-post-id="31227" data-author="*Breeze*" data-date="2010-05-26T08:56:05+00:00">
+<div class="post" data-post-id="31227" data-author="*Breeze*" data-date="2010-05-26T08:56:05+00:00" data-subject="Re: AWESOME SITE!">
 
 @Teron:: most of this is not directed at you, just in general comments and reasoning on why i did what i did.  
 
@@ -250,7 +250,7 @@ eventually i plan on getting the xml interface back up, and maybe an old style o
 
 </div>
 
-<div class="post" data-post-id="31250" data-author="Thraxas" data-date="2010-05-28T15:10:35+00:00">
+<div class="post" data-post-id="31250" data-author="Thraxas" data-date="2010-05-28T15:10:35+00:00" data-subject="Re: AWESOME SITE!">
 
 Benq,
 
@@ -265,7 +265,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31263" data-author="Teron" data-date="2010-05-31T08:44:21+00:00">
+<div class="post" data-post-id="31263" data-author="Teron" data-date="2010-05-31T08:44:21+00:00" data-subject="Re: AWESOME SITE!">
 
 I've seen eqlist work, but it had outdated item names and ac stats.
 

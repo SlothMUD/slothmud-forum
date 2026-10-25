@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="23597" data-author="Toxis" data-date="2008-04-05T01:34:08+00:00">
+<div class="post" data-post-id="23597" data-author="Toxis" data-date="2008-04-05T01:34:08+00:00" data-subject="The Elite Avatars">
 
 Group 'boo hoo' consists of:
 
@@ -642,13 +642,13 @@ Tremble -- '++++ Woot! +208hp ++++ [956/1227] 77% - need 271 Moon Up'
 
 </div>
 
-<div class="post" data-post-id="23598" data-author="Rynquald" data-date="2008-04-05T02:59:08+00:00">
+<div class="post" data-post-id="23598" data-author="Rynquald" data-date="2008-04-05T02:59:08+00:00" data-subject="">
 
 Wow, compact makes everything totally unreadable :)
 
 </div>
 
-<div class="post" data-post-id="23599" data-author="Medios" data-date="2008-04-05T05:50:08+00:00">
+<div class="post" data-post-id="23599" data-author="Medios" data-date="2008-04-05T05:50:08+00:00" data-subject="">
 
 Elite avatars?
 
@@ -656,7 +656,7 @@ This looks like the fuckin noon day optimist club to me.
 
 </div>
 
-<div class="post" data-post-id="23600" data-author="brady" data-date="2008-04-05T12:58:59+00:00">
+<div class="post" data-post-id="23600" data-author="brady" data-date="2008-04-05T12:58:59+00:00" data-subject="">
 
 For the record, if you start with more mana than everyone else, you're probably going to have more at the end of the fight...so eat a shitz sammich.  Weasel, Rub and Shimbo are clearly the slackers   :twisted:
 
@@ -664,7 +664,7 @@ ps, the mob died and it was the second run.
 
 </div>
 
-<div class="post" data-post-id="23601" data-author="Tap" data-date="2008-04-06T00:08:05+00:00">
+<div class="post" data-post-id="23601" data-author="Tap" data-date="2008-04-06T00:08:05+00:00" data-subject="">
 
 [quote:lrf8301o]ps, the mob died.[/quote:lrf8301o]
 
@@ -676,7 +676,7 @@ The Establishment
 
 </div>
 
-<div class="post" data-post-id="23602" data-author="brady" data-date="2008-04-06T01:17:41+00:00">
+<div class="post" data-post-id="23602" data-author="brady" data-date="2008-04-06T01:17:41+00:00" data-subject="">
 
 Brady [Ma:5.40 771hp 100ma 172mv] --- 
 

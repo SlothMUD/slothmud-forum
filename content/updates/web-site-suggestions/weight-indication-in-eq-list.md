@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="7085" data-author="Taki" data-date="2005-06-12T10:32:38+00:00">
+<div class="post" data-post-id="7085" data-author="Taki" data-date="2005-06-12T10:32:38+00:00" data-subject="weight indication in eq list">
 
 Hello!
 
@@ -22,7 +22,7 @@ Taki the monk
 
 </div>
 
-<div class="post" data-post-id="7119" data-author="12345" data-date="2005-06-13T11:23:22+00:00">
+<div class="post" data-post-id="7119" data-author="12345" data-date="2005-06-13T11:23:22+00:00" data-subject="">
 
 Weight isn't as important here as in some games.  It can be a bother at low levels, but generally, with the strength spell, strength eq, rerolling and such, it's not too hard to carry a ton of stuff.  I've been known to carry around 130+ items with 18/100 strength and the max you can rent is only 110.  If you're having problems with weight, you may want to look into raising your strength... especially as a monk since it will also help your +hit and +dam.  Figure that as a fighter type you want to be running with at least 18/10 strength... if not a lot higher.
 
@@ -34,13 +34,13 @@ Muling is pretty non-existant here.  Everyone wears equipment regardless of posi
 
 </div>
 
-<div class="post" data-post-id="7122" data-author="Weasel" data-date="2005-06-13T11:55:22+00:00">
+<div class="post" data-post-id="7122" data-author="Weasel" data-date="2005-06-13T11:55:22+00:00" data-subject="">
 
 I just wish they'd make some of the robes capable of holding a bit more, what with clasps and cps etc, there's more stuff to cart around now but robe capacity has remained unchanged... although I have a tank mode (-11ac), standard mode (-10.3ac with added dam), regen mode and raise mode, so I guess it's not all that surprising I'm getting my robes overfull sometimes.
 
 </div>
 
-<div class="post" data-post-id="7137" data-author="Taki" data-date="2005-06-13T19:54:20+00:00">
+<div class="post" data-post-id="7137" data-author="Taki" data-date="2005-06-13T19:54:20+00:00" data-subject="">
 
 Thanks for the replies, you made my mind clearer :)
 
@@ -50,7 +50,7 @@ Pity because i liked my 18 con, which i fear to lose in wild rerolls...
 
 </div>
 
-<div class="post" data-post-id="7138" data-author="12345" data-date="2005-06-13T21:19:45+00:00">
+<div class="post" data-post-id="7138" data-author="12345" data-date="2005-06-13T21:19:45+00:00" data-subject="">
 
 Check out the Royal Library tab on the web page.  There's a sublink called Stat Ordering.  I don't know what your second class is, but you should be able to look up your specific order on this list.  Monks always have Con as their highest stat, so getting an 18 in that is comparitively simple.  
 

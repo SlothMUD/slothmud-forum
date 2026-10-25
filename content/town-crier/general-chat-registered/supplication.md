@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="17581" data-author="Malison" data-date="2007-03-29T05:06:52+00:00">
+<div class="post" data-post-id="17581" data-author="Malison" data-date="2007-03-29T05:06:52+00:00" data-subject="Supplication">
 
 I've been trying out a lot of my newly acquired supplicants in the last few days, and got to the Thunderbird.  According to the 'monograph on supplication'...
 
@@ -30,7 +30,7 @@ PS - 1 if anyone does remember how to do this, I'd love to know.  I couldn't fin
 
 </div>
 
-<div class="post" data-post-id="17582" data-author="Mace" data-date="2007-03-29T07:43:30+00:00">
+<div class="post" data-post-id="17582" data-author="Mace" data-date="2007-03-29T07:43:30+00:00" data-subject="">
 
 This won't be helpful but perhaps it will jog someone's memory.
 
@@ -42,7 +42,7 @@ say go to continent.. but apparently that was not it.
 
 </div>
 
-<div class="post" data-post-id="17584" data-author="Avatar" data-date="2007-03-29T11:22:09+00:00">
+<div class="post" data-post-id="17584" data-author="Avatar" data-date="2007-03-29T11:22:09+00:00" data-subject="Thunderbird">
 
 I'm pretty sure it was 'order thunderbird go <somewhere>' but I haven't been online and can't check this myself.
 
@@ -50,7 +50,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="17586" data-author="Autolycos" data-date="2007-03-29T17:13:14+00:00">
+<div class="post" data-post-id="17586" data-author="Autolycos" data-date="2007-03-29T17:13:14+00:00" data-subject="">
 
 ooooooh..
 
@@ -60,25 +60,25 @@ thats always a blast  :twisted:
 
 </div>
 
-<div class="post" data-post-id="17587" data-author="Weasel" data-date="2007-03-29T17:58:10+00:00">
+<div class="post" data-post-id="17587" data-author="Weasel" data-date="2007-03-29T17:58:10+00:00" data-subject="">
 
 heh yeah that was fun.. we were headed from SS to AH.. got dumped off the coast of the Island.. *glub* *glub*
 
 </div>
 
-<div class="post" data-post-id="17588" data-author="osric" data-date="2007-03-29T18:44:10+00:00">
+<div class="post" data-post-id="17588" data-author="osric" data-date="2007-03-29T18:44:10+00:00" data-subject="">
 
 Heh if people are gonna try using the thunderbird again some imm should add some tigersharks to the ocean so you can have a really good time when you get dumped there! :)
 
 </div>
 
-<div class="post" data-post-id="17589" data-author="Krok" data-date="2007-03-29T22:59:40+00:00">
+<div class="post" data-post-id="17589" data-author="Krok" data-date="2007-03-29T22:59:40+00:00" data-subject="">
 
 say 'bird go ss' or 'go ss', I don't remember exactly - haven't played with it for a year, and haven't played at all for months. :)
 
 </div>
 
-<div class="post" data-post-id="17590" data-author="Atwell" data-date="2007-03-29T23:02:06+00:00">
+<div class="post" data-post-id="17590" data-author="Atwell" data-date="2007-03-29T23:02:06+00:00" data-subject="">
 
 The owner can direct it while on its back like this:
 
@@ -92,7 +92,7 @@ Incidentally, last I tried, only one player can board it at a time now.  I wasn'
 
 </div>
 
-<div class="post" data-post-id="17705" data-author="kjartan" data-date="2007-04-02T01:51:05+00:00">
+<div class="post" data-post-id="17705" data-author="kjartan" data-date="2007-04-02T01:51:05+00:00" data-subject="">
 
 The one-player bug is fixed.
 
@@ -100,7 +100,7 @@ I also made the thunderbird a little easier to command: it now responds to tell,
 
 </div>
 
-<div class="post" data-post-id="17706" data-author="Malison" data-date="2007-04-02T03:19:07+00:00">
+<div class="post" data-post-id="17706" data-author="Malison" data-date="2007-04-02T03:19:07+00:00" data-subject="thanks kj!">
 
 Muchthanks to Kj for the fix, and how fast the last bug with it was worked out (tested with 1 bird, and we still had time to reloc with it before it melted).
 
@@ -112,7 +112,7 @@ Thunderbird doesn't respond to call followers.  It did before the fix, so I'm gu
 
 </div>
 
-<div class="post" data-post-id="17725" data-author="Elwin" data-date="2007-04-02T15:16:08+00:00">
+<div class="post" data-post-id="17725" data-author="Elwin" data-date="2007-04-02T15:16:08+00:00" data-subject="">
 
 lol
 
@@ -120,7 +120,7 @@ I lost my connection for about an hour right after boarding the bird.  I came ba
 
 </div>
 
-<div class="post" data-post-id="17731" data-author="Malison" data-date="2007-04-02T19:16:00+00:00">
+<div class="post" data-post-id="17731" data-author="Malison" data-date="2007-04-02T19:16:00+00:00" data-subject="">
 
 well actually that wasn't the drowning part.  it seems the sea is gateable, so we pushed you back to land and you voided out inside thal palace.  the coming in at 1 1 1 was probably a 'you were voided too long' proc
 

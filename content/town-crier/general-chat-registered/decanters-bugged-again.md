@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="24047" data-author="Alberich" data-date="2008-04-26T14:03:05+00:00">
+<div class="post" data-post-id="24047" data-author="Alberich" data-date="2008-04-26T14:03:05+00:00" data-subject="decanters bugged again?">
 
 Seems that when you refill decanter, even with 18/100 you can't pick up anything until you rent and come back.
 
@@ -20,19 +20,19 @@ I remember this being a real problem with decanters a few years ago, to the poin
 
 </div>
 
-<div class="post" data-post-id="24048" data-author="alias" data-date="2008-04-26T14:15:15+00:00">
+<div class="post" data-post-id="24048" data-author="alias" data-date="2008-04-26T14:15:15+00:00" data-subject="">
 
 My diamond carafe has been that way since I got it. fill it and vault it or rent.
 
 </div>
 
-<div class="post" data-post-id="24049" data-author="Weasel" data-date="2008-04-26T14:17:33+00:00">
+<div class="post" data-post-id="24049" data-author="Weasel" data-date="2008-04-26T14:17:33+00:00" data-subject="">
 
 I use decanter and yup, that's always been the case afaik, and still is.. I fill up before I rent, otherwise you're exactly right, you can't pick up anything, not even coins from a corpse, once you refill the decanter.
 
 </div>
 
-<div class="post" data-post-id="24050" data-author="Tap" data-date="2008-04-26T14:44:30+00:00">
+<div class="post" data-post-id="24050" data-author="Tap" data-date="2008-04-26T14:44:30+00:00" data-subject="">
 
 You can buy:
 
@@ -124,13 +124,13 @@ you have no further use. Once it's junked, you can't get it back.[/size:7m18apgh
 
 </div>
 
-<div class="post" data-post-id="24057" data-author="alias" data-date="2008-04-27T01:08:31+00:00">
+<div class="post" data-post-id="24057" data-author="alias" data-date="2008-04-27T01:08:31+00:00" data-subject="">
 
 Just because you aren't cool enough to have a decent water container doesn't mean we should junk ours.
 
 </div>
 
-<div class="post" data-post-id="24060" data-author="Weasel" data-date="2008-04-27T02:22:53+00:00">
+<div class="post" data-post-id="24060" data-author="Weasel" data-date="2008-04-27T02:22:53+00:00" data-subject="">
 
 nods - tall poppy syndrome.
 
@@ -138,7 +138,7 @@ nods - tall poppy syndrome.
 
 </div>
 
-<div class="post" data-post-id="24062" data-author="Tap" data-date="2008-04-27T07:40:01+00:00">
+<div class="post" data-post-id="24062" data-author="Tap" data-date="2008-04-27T07:40:01+00:00" data-subject="">
 
 I'm sorry, I forgot to highlight the part about only costing 5 mana to cast create water. Point was water barrels wouldn't cause you the same headache. But yeah, go ahead and smoke your cig's in the boys bathroom toughguy.
 
@@ -146,7 +146,7 @@ I'm sorry, I forgot to highlight the part about only costing 5 mana to cast crea
 
 </div>
 
-<div class="post" data-post-id="24065" data-author="alias" data-date="2008-04-27T14:39:59+00:00">
+<div class="post" data-post-id="24065" data-author="alias" data-date="2008-04-27T14:39:59+00:00" data-subject="">
 
 I don't have to smoke to be cool and I don't have to annoy other people in threads to make myself feel better either.
 
@@ -154,13 +154,13 @@ get a real character and learn to play it.
 
 </div>
 
-<div class="post" data-post-id="24066" data-author="Tap" data-date="2008-04-27T15:37:50+00:00">
+<div class="post" data-post-id="24066" data-author="Tap" data-date="2008-04-27T15:37:50+00:00" data-subject="">
 
 I offered a simple solution about a water container since you didn't like the way yours was working. Don't get all pissy with me.
 
 </div>
 
-<div class="post" data-post-id="24067" data-author="Gumbi" data-date="2008-04-27T19:09:09+00:00">
+<div class="post" data-post-id="24067" data-author="Gumbi" data-date="2008-04-27T19:09:09+00:00" data-subject="">
 
 Here's a thought...
 
@@ -176,13 +176,13 @@ pour barrel decanter
 
 </div>
 
-<div class="post" data-post-id="24068" data-author="brady" data-date="2008-04-27T20:28:57+00:00">
+<div class="post" data-post-id="24068" data-author="brady" data-date="2008-04-27T20:28:57+00:00" data-subject="">
 
 or just fix the decanters.
 
 </div>
 
-<div class="post" data-post-id="24069" data-author="Gumbi" data-date="2008-04-27T22:47:23+00:00">
+<div class="post" data-post-id="24069" data-author="Gumbi" data-date="2008-04-27T22:47:23+00:00" data-subject="">
 
 Tap has a simple solution, Brady has a more simple solution.  I still like the idea of filling an 'endless decanter of water' with pitchers though.
 

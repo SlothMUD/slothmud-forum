@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="14655" data-author="Qa" data-date="2006-10-18T20:21:51+00:00">
+<div class="post" data-post-id="14655" data-author="Qa" data-date="2006-10-18T20:21:51+00:00" data-subject="5x40 Light Changes">
 
 I have an Avatar light question.
 
@@ -26,7 +26,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="14656" data-author="Diazz_Dizazter" data-date="2006-10-18T20:26:08+00:00">
+<div class="post" data-post-id="14656" data-author="Diazz_Dizazter" data-date="2006-10-18T20:26:08+00:00" data-subject="">
 
 With enough junk and a .2ac +1 dam light, -11ac and +22 dam is still
 
@@ -34,7 +34,7 @@ attainable.  So one of these days I'll do the unconventional thing too.
 
 </div>
 
-<div class="post" data-post-id="14658" data-author="Weasel" data-date="2006-10-18T21:48:59+00:00">
+<div class="post" data-post-id="14658" data-author="Weasel" data-date="2006-10-18T21:48:59+00:00" data-subject="">
 
 Yes, you can change the stats on the light Qa - or at least you could in the past. I've done it for the same reasons as you - I had to wait until I could buy a stat before I could turn it from +1Dam +1Con into a +2Dam light..  although I think I was charged for the priviledge.. either 3 or 5 million coin.
 

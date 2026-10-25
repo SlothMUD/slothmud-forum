@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="8680" data-author="Shara" data-date="2005-09-15T08:52:15+00:00">
+<div class="post" data-post-id="8680" data-author="Shara" data-date="2005-09-15T08:52:15+00:00" data-subject="Suggestion for SlothMUD!">
 
 Hey imms!  Me and Chobchob would love to have more emotes in the game!!  We'd love to make suggestions, as I'm sure other players would too!
 
@@ -22,7 +22,7 @@ but it's just not the same :(
 
 </div>
 
-<div class="post" data-post-id="8687" data-author="Clink" data-date="2005-09-15T17:39:06+00:00">
+<div class="post" data-post-id="8687" data-author="Clink" data-date="2005-09-15T17:39:06+00:00" data-subject="">
 
 You are welcome to suggest specifics and they will be evaluated on a case by case basis.
 
@@ -36,13 +36,13 @@ Clink
 
 </div>
 
-<div class="post" data-post-id="8688" data-author="Weasel" data-date="2005-09-15T17:40:09+00:00">
+<div class="post" data-post-id="8688" data-author="Weasel" data-date="2005-09-15T17:40:09+00:00" data-subject="">
 
 *weasel sticks a wet finger in your ear*
 
 </div>
 
-<div class="post" data-post-id="8689" data-author="12345" data-date="2005-09-15T17:42:52+00:00">
+<div class="post" data-post-id="8689" data-author="12345" data-date="2005-09-15T17:42:52+00:00" data-subject="">
 
 The requirements for building an emote include 9 versions of the message for the different scenarios of actor, actee and observer.[/quote:2ubs40gq]
 
@@ -50,7 +50,7 @@ It might be helpful if you enumerated these, please.
 
 </div>
 
-<div class="post" data-post-id="8691" data-author="kjartan" data-date="2005-09-15T18:04:13+00:00">
+<div class="post" data-post-id="8691" data-author="kjartan" data-date="2005-09-15T18:04:13+00:00" data-subject="">
 
 I think there are in fact 8 versions, which are:
 
@@ -102,7 +102,7 @@ Note that you can submit emotes but we may or may not put them in depending on w
 
 </div>
 
-<div class="post" data-post-id="8698" data-author="Shara" data-date="2005-09-15T19:26:03+00:00">
+<div class="post" data-post-id="8698" data-author="Shara" data-date="2005-09-15T19:26:03+00:00" data-subject="">
 
 Will start on it!  :cackle:
 
@@ -110,13 +110,13 @@ Where can I find a list of current available emotes?
 
 </div>
 
-<div class="post" data-post-id="8699" data-author="12345" data-date="2005-09-15T19:29:30+00:00">
+<div class="post" data-post-id="8699" data-author="12345" data-date="2005-09-15T19:29:30+00:00" data-subject="">
 
 They're known as socials.  'commands socials' should bring up a list of all of them.
 
 </div>
 
-<div class="post" data-post-id="8733" data-author="K&#x27;eth" data-date="2005-09-18T16:43:23+00:00">
+<div class="post" data-post-id="8733" data-author="K&#x27;eth" data-date="2005-09-18T16:43:23+00:00" data-subject="">
 
 Another suggestion: to add Braille alphabet to the braille spellbook or to help file. I can post here this alphabet. :^)
 
@@ -126,19 +126,19 @@ Singing here about Thule snow.
 
 </div>
 
-<div class="post" data-post-id="8754" data-author="Shara" data-date="2005-09-20T16:00:56+00:00">
+<div class="post" data-post-id="8754" data-author="Shara" data-date="2005-09-20T16:00:56+00:00" data-subject="">
 
 Where do I email it to?  :(
 
 </div>
 
-<div class="post" data-post-id="8755" data-author="Alberich" data-date="2005-09-20T16:04:11+00:00">
+<div class="post" data-post-id="8755" data-author="Alberich" data-date="2005-09-20T16:04:11+00:00" data-subject="">
 
 *cough*EMAIL*cough*
 
 </div>
 
-<div class="post" data-post-id="8758" data-author="Shara" data-date="2005-09-20T17:36:44+00:00">
+<div class="post" data-post-id="8758" data-author="Shara" data-date="2005-09-20T17:36:44+00:00" data-subject="">
 
 Where and what is the wizlist :(
 
@@ -146,13 +146,13 @@ Sorry, I'm really new :(
 
 </div>
 
-<div class="post" data-post-id="8760" data-author="12345" data-date="2005-09-20T17:55:18+00:00">
+<div class="post" data-post-id="8760" data-author="12345" data-date="2005-09-20T17:55:18+00:00" data-subject="">
 
 coders:at:slothmud.org is probably your best bet.
 
 </div>
 
-<div class="post" data-post-id="8761" data-author="Shara" data-date="2005-09-20T18:13:22+00:00">
+<div class="post" data-post-id="8761" data-author="Shara" data-date="2005-09-20T18:13:22+00:00" data-subject="">
 
 Thanks!! You guys are really nice!
 

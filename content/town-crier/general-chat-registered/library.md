@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="40110" data-author="Belrath" data-date="2024-09-25T00:42:05+00:00">
+<div class="post" data-post-id="40110" data-author="Belrath" data-date="2024-09-25T00:42:05+00:00" data-subject="Library">
 
 Hello.
 
@@ -26,7 +26,7 @@ Take care now.
 
 </div>
 
-<div class="post" data-post-id="40111" data-author="cnl" data-date="2024-09-25T01:23:21+00:00">
+<div class="post" data-post-id="40111" data-author="cnl" data-date="2024-09-25T01:23:21+00:00" data-subject="Re: Library">
 
 I spend a lot of time moving books to BH library and I always noticed that there was loss of books over time but I assumed it was people borrowing and consuming / not returning.
 

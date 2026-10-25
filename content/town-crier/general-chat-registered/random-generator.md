@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31367" data-author="Dragoth" data-date="2010-07-23T13:52:09+00:00">
+<div class="post" data-post-id="31367" data-author="Dragoth" data-date="2010-07-23T13:52:09+00:00" data-subject="Random generator">
 
 712hp 719ma 230mv>Ok.
 
@@ -58,7 +58,7 @@ I guess I am that unlucky huh!
 
 </div>
 
-<div class="post" data-post-id="31368" data-author="*juggleblood*" data-date="2010-07-23T20:53:08+00:00">
+<div class="post" data-post-id="31368" data-author="*juggleblood*" data-date="2010-07-23T20:53:08+00:00" data-subject="Re: Random generator">
 
 Yes you are :)
 
@@ -66,7 +66,7 @@ I used to suspect that the random number generator was streaky. So I wrote a num
 
 </div>
 
-<div class="post" data-post-id="31369" data-author="Dragoth" data-date="2010-07-24T06:27:59+00:00">
+<div class="post" data-post-id="31369" data-author="Dragoth" data-date="2010-07-24T06:27:59+00:00" data-subject="Re: Random generator">
 
 spooky!  :shock:
 

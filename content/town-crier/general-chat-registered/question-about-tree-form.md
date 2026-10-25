@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="21430" data-author="Medios" data-date="2007-11-26T22:28:45+00:00">
+<div class="post" data-post-id="21430" data-author="Medios" data-date="2007-11-26T22:28:45+00:00" data-subject="Question about tree form">
 
 I thought druid tree form was supposed to not be attacked by mobs.  I know druids use it to disengage and to get on top for spectral but I also thought it was like ferret in that you could be in tree and not get attacked.  Anyways thats not the case.
 
@@ -218,13 +218,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="21431" data-author="Rynquald" data-date="2007-11-26T22:59:41+00:00">
+<div class="post" data-post-id="21431" data-author="Rynquald" data-date="2007-11-26T22:59:41+00:00" data-subject="">
 
 Looks like your pets dragged you back into the fight after shift, I'm pretty sure that can happen in ferret form too.
 
 </div>
 
-<div class="post" data-post-id="21433" data-author="Hotara" data-date="2007-11-27T02:56:18+00:00">
+<div class="post" data-post-id="21433" data-author="Hotara" data-date="2007-11-27T02:56:18+00:00" data-subject="">
 
 As you know, using pets at any instance does not prevent you from being hit as it was a looooooooooong time before. Anyhow, Ryn is right in the pets dragging you back into the fight. Regardless of being a tree, however, had you no pets whilst this occurred, you won't have been attacked. 
 
@@ -236,7 +236,7 @@ Hotara
 
 </div>
 
-<div class="post" data-post-id="21435" data-author="13" data-date="2007-11-27T15:17:52+00:00">
+<div class="post" data-post-id="21435" data-author="13" data-date="2007-11-27T15:17:52+00:00" data-subject="">
 
 so it's a feature?
 

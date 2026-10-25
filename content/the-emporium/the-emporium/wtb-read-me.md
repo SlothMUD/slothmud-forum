@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="21846" data-author="bellafea" data-date="2008-01-02T21:49:36+00:00">
+<div class="post" data-post-id="21846" data-author="bellafea" data-date="2008-01-02T21:49:36+00:00" data-subject="WTB *read me*">
 
 Looking for a Mana set/regen (can be items that are both mana and regen)
 
@@ -34,7 +34,7 @@ thanks
 
 </div>
 
-<div class="post" data-post-id="21847" data-author="bellafea" data-date="2008-01-02T21:51:38+00:00">
+<div class="post" data-post-id="21847" data-author="bellafea" data-date="2008-01-02T21:51:38+00:00" data-subject="what i have atm.">
 
 You are using:
 
@@ -86,7 +86,7 @@ not the greatest but it works for now.
 
 </div>
 
-<div class="post" data-post-id="21850" data-author="Leaf" data-date="2008-01-02T22:52:16+00:00">
+<div class="post" data-post-id="21850" data-author="Leaf" data-date="2008-01-02T22:52:16+00:00" data-subject="">
 
 Well first of all, what are ur nat stats?
 
@@ -96,7 +96,7 @@ shield, belt, n bracelets.
 
 </div>
 
-<div class="post" data-post-id="21851" data-author="bellafea" data-date="2008-01-02T23:23:20+00:00">
+<div class="post" data-post-id="21851" data-author="bellafea" data-date="2008-01-02T23:23:20+00:00" data-subject="nat">
 
 Str: 9 / 0, Int: 17, Wis: 14, Dex: 17, Con: 15
 
@@ -104,7 +104,7 @@ obviously i should roll
 
 </div>
 
-<div class="post" data-post-id="21859" data-author="Leaf" data-date="2008-01-03T20:12:17+00:00">
+<div class="post" data-post-id="21859" data-author="Leaf" data-date="2008-01-03T20:12:17+00:00" data-subject="">
 
 Well going back i would say the same: Like the helm, legs, sleeves, 
 

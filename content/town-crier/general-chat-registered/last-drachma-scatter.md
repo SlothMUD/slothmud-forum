@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="9846" data-author="Shara" data-date="2005-12-16T23:03:19+00:00">
+<div class="post" data-post-id="9846" data-author="Shara" data-date="2005-12-16T23:03:19+00:00" data-subject="Last drachma scatter">
 
 This happened in Dark Dreams:
 
@@ -38,25 +38,25 @@ Just so you know :)
 
 </div>
 
-<div class="post" data-post-id="9850" data-author="Alberich" data-date="2005-12-17T06:50:21+00:00">
+<div class="post" data-post-id="9850" data-author="Alberich" data-date="2005-12-17T06:50:21+00:00" data-subject="">
 
 gee, a looting mob picked something up off the ground?  whoever would have thought..
 
 </div>
 
-<div class="post" data-post-id="9851" data-author="jezer" data-date="2005-12-17T06:55:44+00:00">
+<div class="post" data-post-id="9851" data-author="jezer" data-date="2005-12-17T06:55:44+00:00" data-subject="">
 
 I remember that scatter, and I recall at the time someone said or asked if mobs could pick up the drachma... I recall someone saying they couldn't... would have to check logs.
 
 </div>
 
-<div class="post" data-post-id="9854" data-author="12345" data-date="2005-12-18T04:03:24+00:00">
+<div class="post" data-post-id="9854" data-author="12345" data-date="2005-12-18T04:03:24+00:00" data-subject="">
 
 Blaster once went through a lot of effort to try to make it so tokens couldn't be looted by mobs. He's probably one of very few who might be able to fix it if it is a bug.
 
 </div>
 
-<div class="post" data-post-id="9856" data-author="Gnu" data-date="2005-12-18T10:29:25+00:00">
+<div class="post" data-post-id="9856" data-author="Gnu" data-date="2005-12-18T10:29:25+00:00" data-subject="">
 
 The same day, the same place:
 
@@ -100,7 +100,7 @@ You can buy:
 
 </div>
 
-<div class="post" data-post-id="9857" data-author="brand" data-date="2005-12-18T16:55:43+00:00">
+<div class="post" data-post-id="9857" data-author="brand" data-date="2005-12-18T16:55:43+00:00" data-subject="">
 
 !!! now thats a deal at twice the price.
 
@@ -110,7 +110,7 @@ nice score Gnu.  i'm gonna dust off a space on the floor and wait for the next s
 
 </div>
 
-<div class="post" data-post-id="9859" data-author="Shazuko" data-date="2005-12-18T21:00:09+00:00">
+<div class="post" data-post-id="9859" data-author="Shazuko" data-date="2005-12-18T21:00:09+00:00" data-subject="">
 
 youGOTTAbekiddin...
 

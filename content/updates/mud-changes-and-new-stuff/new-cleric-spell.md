@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29710" data-author="*Splork*" data-date="2009-07-22T12:10:25+00:00">
+<div class="post" data-post-id="29710" data-author="*Splork*" data-date="2009-07-22T12:10:25+00:00" data-subject="New Cleric Spell">
 
 "CIRCLE OF HEALING"
 

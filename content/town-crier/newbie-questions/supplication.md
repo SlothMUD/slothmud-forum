@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="9321" data-author="Daisy" data-date="2005-11-01T15:26:45+00:00">
+<div class="post" data-post-id="9321" data-author="Daisy" data-date="2005-11-01T15:26:45+00:00" data-subject="Supplication">
 
 I've learnt how to use supplication,
 
@@ -48,7 +48,7 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="9322" data-author="Shara" data-date="2005-11-01T17:04:15+00:00">
+<div class="post" data-post-id="9322" data-author="Shara" data-date="2005-11-01T17:04:15+00:00" data-subject="">
 
 The help file says that all supplications disappear after 30 hours, so I guess that's 30 ticks?
 
@@ -60,13 +60,13 @@ I dunno, I'm not a very good cleric myself, so I can't tell you much :(
 
 </div>
 
-<div class="post" data-post-id="9325" data-author="brand" data-date="2005-11-01T21:08:20+00:00">
+<div class="post" data-post-id="9325" data-author="brand" data-date="2005-11-01T21:08:20+00:00" data-subject="">
 
 there was a list going around at some point, also rumored help file or book or both... let me ask SPG the Eudaemon if he knows anything about what he can do... nope he ain't talking... :evil:
 
 </div>
 
-<div class="post" data-post-id="9327" data-author="kjartan" data-date="2005-11-01T22:57:43+00:00">
+<div class="post" data-post-id="9327" data-author="kjartan" data-date="2005-11-01T22:57:43+00:00" data-subject="">
 
 Ok, I will try to get the book about the good-aligned supplication mobs in shops tonight or tomorrow.
 
@@ -76,13 +76,13 @@ Further edit: the seraph, djinn, and valkyrie entries describe what those mobs a
 
 </div>
 
-<div class="post" data-post-id="9335" data-author="12345" data-date="2005-11-02T13:51:02+00:00">
+<div class="post" data-post-id="9335" data-author="12345" data-date="2005-11-02T13:51:02+00:00" data-subject="">
 
 *blink*  Did hell finally freeze?
 
 </div>
 
-<div class="post" data-post-id="9336" data-author="13" data-date="2005-11-02T13:54:50+00:00">
+<div class="post" data-post-id="9336" data-author="13" data-date="2005-11-02T13:54:50+00:00" data-subject="Instability on Slothmud">
 
 What has been the cause of these crashes in the last 2-3 days ?
 
@@ -90,7 +90,7 @@ Seems pretty frequent.
 
 </div>
 
-<div class="post" data-post-id="9346" data-author="Weasel" data-date="2005-11-02T20:05:22+00:00">
+<div class="post" data-post-id="9346" data-author="Weasel" data-date="2005-11-02T20:05:22+00:00" data-subject="">
 
 *blink*  Did hell finally freeze?[/quote:39dv52gf]
 
@@ -100,7 +100,7 @@ apparently, yes.
 
 </div>
 
-<div class="post" data-post-id="9348" data-author="Blaster" data-date="2005-11-02T20:36:37+00:00">
+<div class="post" data-post-id="9348" data-author="Blaster" data-date="2005-11-02T20:36:37+00:00" data-subject="">
 
 *blink*  Did hell finally freeze?[/quote:2a97zo9n]
 
@@ -114,7 +114,7 @@ Blaster
 
 </div>
 
-<div class="post" data-post-id="9351" data-author="Avatar" data-date="2005-11-03T01:48:01+00:00">
+<div class="post" data-post-id="9351" data-author="Avatar" data-date="2005-11-03T01:48:01+00:00" data-subject="Yo">
 
 Heya Blaster!  I haven't been on much, travelling some again, but it's nice to see that you still connect to the crier and check up on us every once in awhile.
 
@@ -124,31 +124,31 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="9354" data-author="Roadrunr" data-date="2005-11-03T23:35:41+00:00">
+<div class="post" data-post-id="9354" data-author="Roadrunr" data-date="2005-11-03T23:35:41+00:00" data-subject="">
 
 From my perspective, Hell has always been frozen.  Then again, I hate cold.
 
 </div>
 
-<div class="post" data-post-id="9355" data-author="Medios" data-date="2005-11-03T23:42:45+00:00">
+<div class="post" data-post-id="9355" data-author="Medios" data-date="2005-11-03T23:42:45+00:00" data-subject="">
 
 Hell on Earth
 
 </div>
 
-<div class="post" data-post-id="9356" data-author="Medios" data-date="2005-11-03T23:48:30+00:00">
+<div class="post" data-post-id="9356" data-author="Medios" data-date="2005-11-03T23:48:30+00:00" data-subject="">
 
 test 1...2
 
 </div>
 
-<div class="post" data-post-id="9357" data-author="Alberich" data-date="2005-11-04T06:08:56+00:00">
+<div class="post" data-post-id="9357" data-author="Alberich" data-date="2005-11-04T06:08:56+00:00" data-subject="">
 
 oooh fancy new avatar mike!
 
 </div>
 
-<div class="post" data-post-id="9512" data-author="brand" data-date="2005-11-14T21:51:13+00:00">
+<div class="post" data-post-id="9512" data-author="brand" data-date="2005-11-14T21:51:13+00:00" data-subject="">
 
 Ok, I will try to get the book about the good-aligned supplication mobs in shops tonight or tomorrow.
 
@@ -188,7 +188,7 @@ Urdas the scribe tells you 'I don't know what you're talking about.'
 
 </div>
 
-<div class="post" data-post-id="9513" data-author="kjartan" data-date="2005-11-14T22:02:02+00:00">
+<div class="post" data-post-id="9513" data-author="kjartan" data-date="2005-11-14T22:02:02+00:00" data-subject="">
 
 Weird.
 
@@ -200,13 +200,13 @@ EDIT: ok, it's back.  Hopefully it will stay this time.
 
 </div>
 
-<div class="post" data-post-id="9516" data-author="firebrand" data-date="2005-11-15T18:03:56+00:00">
+<div class="post" data-post-id="9516" data-author="firebrand" data-date="2005-11-15T18:03:56+00:00" data-subject="">
 
 *grumble* fix the bite social while yer at it :P it went back to bitenails :(
 
 </div>
 
-<div class="post" data-post-id="9517" data-author="Yasik" data-date="2005-11-15T18:50:31+00:00">
+<div class="post" data-post-id="9517" data-author="Yasik" data-date="2005-11-15T18:50:31+00:00" data-subject="">
 
 Weird.
 
@@ -220,13 +220,13 @@ Pls add another monograph describin evil supplicants
 
 </div>
 
-<div class="post" data-post-id="9518" data-author="kjartan" data-date="2005-11-15T19:10:11+00:00">
+<div class="post" data-post-id="9518" data-author="kjartan" data-date="2005-11-15T19:10:11+00:00" data-subject="">
 
 Yeah, I'll do that at some point; these things don't write themselves, you know.
 
 </div>
 
-<div class="post" data-post-id="9720" data-author="Daisy" data-date="2005-12-02T11:11:30+00:00">
+<div class="post" data-post-id="9720" data-author="Daisy" data-date="2005-12-02T11:11:30+00:00" data-subject="Supplication Levels">
 
 I've finally got around to finding Urdas on the Island and reading his guide, its great thanks!
 
@@ -236,7 +236,7 @@ Daisy
 
 </div>
 
-<div class="post" data-post-id="9721" data-author="Shara" data-date="2005-12-02T19:49:22+00:00">
+<div class="post" data-post-id="9721" data-author="Shara" data-date="2005-12-02T19:49:22+00:00" data-subject="">
 
 Yay supplicants!
 
@@ -250,13 +250,13 @@ That's all I got!
 
 </div>
 
-<div class="post" data-post-id="9722" data-author="kjartan" data-date="2005-12-03T14:49:35+00:00">
+<div class="post" data-post-id="9722" data-author="kjartan" data-date="2005-12-03T14:49:35+00:00" data-subject="">
 
 It's been a mystery long enough (and anyway I know at least some mortals figured them all out).  The levels are now in 'help supplication'.
 
 </div>
 
-<div class="post" data-post-id="9725" data-author="Rynquald" data-date="2005-12-03T22:56:25+00:00">
+<div class="post" data-post-id="9725" data-author="Rynquald" data-date="2005-12-03T22:56:25+00:00" data-subject="">
 
 *gasp* thanks KJ :)
 

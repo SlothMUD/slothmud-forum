@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="38040" data-author="Gorka" data-date="2017-02-06T08:43:24+00:00">
+<div class="post" data-post-id="38040" data-author="Gorka" data-date="2017-02-06T08:43:24+00:00" data-subject="Small Tweaks for Leaders">
 
 When I lead my mind is normally focused on how dead the mob is, how much mana the healo has left, and where the next mob is in the run.
 
@@ -46,7 +46,7 @@ I assume MSDP.GROUP.MEMBER.POSITION is Leader, Tank, Front, Back? Sorry I wrote 
 
 </div>
 
-<div class="post" data-post-id="38041" data-author="Teron" data-date="2017-02-06T09:13:02+00:00">
+<div class="post" data-post-id="38041" data-author="Teron" data-date="2017-02-06T09:13:02+00:00" data-subject="Re: Small Tweaks for Leaders">
 
 You can see and/or highlight a number of those, if you type group.
 
@@ -58,7 +58,7 @@ And whether the bard is singing a song, and which song he is singing.
 
 </div>
 
-<div class="post" data-post-id="38042" data-author="Filk" data-date="2017-02-06T13:09:15+00:00">
+<div class="post" data-post-id="38042" data-author="Filk" data-date="2017-02-06T13:09:15+00:00" data-subject="Re: Small Tweaks for Leaders">
 
 Group member is... Drowning - auto trigger from game to notify you
 

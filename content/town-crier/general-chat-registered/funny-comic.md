@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="17043" data-author="Leaf" data-date="2007-02-21T17:45:59+00:00">
+<div class="post" data-post-id="17043" data-author="Leaf" data-date="2007-02-21T17:45:59+00:00" data-subject="Funny Comic">
 
 Sounds like a lot of u mudders and dreamers of being in Sloth!
 

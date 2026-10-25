@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="40040" data-author="cnl" data-date="2023-03-15T23:14:45+00:00">
+<div class="post" data-post-id="40040" data-author="cnl" data-date="2023-03-15T23:14:45+00:00" data-subject="Kill Bil">
 
 From mud change log many moons ago : [<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 932#p36672">http://www.slothmud.org/forum/viewtopic.php?t=4439&p=37932#p36672</LINK_TEXT>](http://www.slothmud.org/forum/viewtopic.php?t=4439&p=37932#p36672)
 
@@ -21,13 +21,13 @@ This appears to be broken - for both lesser and greater only Selene spawns on de
 
 </div>
 
-<div class="post" data-post-id="40041" data-author="Driven" data-date="2023-03-22T01:51:26+00:00">
+<div class="post" data-post-id="40041" data-author="Driven" data-date="2023-03-22T01:51:26+00:00" data-subject="Re: Kill Bil">
 
 There is a typo in the code.  I fixed it... let me know if the fix works.
 
 </div>
 
-<div class="post" data-post-id="40042" data-author="cnl" data-date="2023-03-22T03:32:10+00:00">
+<div class="post" data-post-id="40042" data-author="cnl" data-date="2023-03-22T03:32:10+00:00" data-subject="Re: Kill Bil">
 
 > **Quote:**
 > Bil [target] is reduced to a pile of dust.

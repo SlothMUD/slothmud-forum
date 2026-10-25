@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="24425" data-author="jezer" data-date="2008-05-21T01:40:05+00:00">
+<div class="post" data-post-id="24425" data-author="jezer" data-date="2008-05-21T01:40:05+00:00" data-subject="Exploration - The Final Frontier!">
 
 I'm thinking of doing some exploring... and of course that can be quiet dangerous when you never know what is going to happen in the next room... So I got to wondering how I can explore the world safely. 
 
@@ -38,13 +38,13 @@ Thankyou.
 
 </div>
 
-<div class="post" data-post-id="24428" data-author="Tap" data-date="2008-05-21T03:34:15+00:00">
+<div class="post" data-post-id="24428" data-author="Tap" data-date="2008-05-21T03:34:15+00:00" data-subject="">
 
 You should join a channel to use as a backup since a surprise attack might leave you dead before you know what hits you. I'd recommend dragonsworn instead of hosers. They pay better attention to when you drop link.
 
 </div>
 
-<div class="post" data-post-id="24431" data-author="strider" data-date="2008-05-21T05:32:38+00:00">
+<div class="post" data-post-id="24431" data-author="strider" data-date="2008-05-21T05:32:38+00:00" data-subject="">
 
 heh, couple things, first off tap. hosers pays attn, we just don't like to raise you!! ohh wait, we're a channel of proud afk'ers, ya we don't pay attn.
 
@@ -54,7 +54,7 @@ that big string of questions you have, that's what xploring is, it's no fair if 
 
 </div>
 
-<div class="post" data-post-id="24432" data-author="jezer" data-date="2008-05-21T06:00:46+00:00">
+<div class="post" data-post-id="24432" data-author="jezer" data-date="2008-05-21T06:00:46+00:00" data-subject="">
 
 All stats this week are:
 
@@ -70,7 +70,7 @@ Dying is against my religion!  :evil:   You may like it, but it's another flamin
 
 </div>
 
-<div class="post" data-post-id="24433" data-author="Rynquald" data-date="2008-05-21T06:11:32+00:00">
+<div class="post" data-post-id="24433" data-author="Rynquald" data-date="2008-05-21T06:11:32+00:00" data-subject="">
 
 Death != corpse
 
@@ -78,7 +78,7 @@ As Strider and Tap said, join a channel. Adding as many people to your icq list 
 
 </div>
 
-<div class="post" data-post-id="24435" data-author="Stryx" data-date="2008-05-21T11:49:13+00:00">
+<div class="post" data-post-id="24435" data-author="Stryx" data-date="2008-05-21T11:49:13+00:00" data-subject="">
 
 R.I.P.
 
@@ -90,7 +90,7 @@ Dude, you really should be doing some thinking yourself. A lot of people here ar
 
 </div>
 
-<div class="post" data-post-id="24440" data-author="jezer" data-date="2008-05-21T13:55:22+00:00">
+<div class="post" data-post-id="24440" data-author="jezer" data-date="2008-05-21T13:55:22+00:00" data-subject="">
 
 R.I.P.
 
@@ -106,7 +106,7 @@ Screams are heard in the distance...
 
 </div>
 
-<div class="post" data-post-id="26759" data-author="*juggleblood*" data-date="2008-10-18T17:17:53+00:00">
+<div class="post" data-post-id="26759" data-author="*juggleblood*" data-date="2008-10-18T17:17:53+00:00" data-subject="">
 
 Have the bugs in exploration been repaired? There were a lot of zones where track didn't work. 
 
@@ -114,7 +114,7 @@ Lis and Stryx reported all the areas where it didn't work a while back. Can some
 
 </div>
 
-<div class="post" data-post-id="26761" data-author="Tap" data-date="2008-10-18T20:02:52+00:00">
+<div class="post" data-post-id="26761" data-author="Tap" data-date="2008-10-18T20:02:52+00:00" data-subject="">
 
 God-Island
 

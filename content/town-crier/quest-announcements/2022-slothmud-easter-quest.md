@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39901" data-author="*Idjit*" data-date="2022-04-16T15:50:08+00:00">
+<div class="post" data-post-id="39901" data-author="*Idjit*" data-date="2022-04-16T15:50:08+00:00" data-subject="2022 SlothMUD Easter Quest">
 
 Sorry for the short notice.
 

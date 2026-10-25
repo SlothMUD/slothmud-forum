@@ -10,7 +10,7 @@ locked: false
 post_count: 59
 ---
 
-<div class="post" data-post-id="20442" data-author="Mosaix" data-date="2007-09-29T16:42:24+00:00">
+<div class="post" data-post-id="20442" data-author="Mosaix" data-date="2007-09-29T16:42:24+00:00" data-subject="Cleric Prime">
 
 Why was the essence of life (drachma eq) changed from mass raise dead, to just raise dead.  It was one of the only cleric oriented drachma eq as it was, and you nerfed it and made it even more useless.   
 
@@ -26,7 +26,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="20447" data-author="Atwell" data-date="2007-09-29T18:49:58+00:00">
+<div class="post" data-post-id="20447" data-author="Atwell" data-date="2007-09-29T18:49:58+00:00" data-subject="Re: Cleric Prime">
 
 Why was the essence of life (drachma eq) changed from mass raise dead, to just raise dead.  It was one of the only cleric oriented drachma eq as it was, and you nerfed it and made it even more useless.   
 
@@ -58,7 +58,7 @@ As ever, it is a staff of raise dead.  Activating it casts raise dead on every p
 
 </div>
 
-<div class="post" data-post-id="20448" data-author="Mosaix" data-date="2007-09-29T20:12:16+00:00">
+<div class="post" data-post-id="20448" data-author="Mosaix" data-date="2007-09-29T20:12:16+00:00" data-subject="">
 
 Staff item or otherwise when I have statted it before it has said 5 charges of mass raise dead.  Now it says just raise dead.  Id have to see the item in action before ever believing thats what it now actually does.
 
@@ -66,25 +66,25 @@ Does anyone have this item currently to be able to tell either way?
 
 </div>
 
-<div class="post" data-post-id="20451" data-author="kjartan" data-date="2007-09-29T20:41:22+00:00">
+<div class="post" data-post-id="20451" data-author="kjartan" data-date="2007-09-29T20:41:22+00:00" data-subject="">
 
 Are you sure?  Because there is no 'mass raise dead' spell, and I don't think there ever was.  A staff of 'raise dead' will hit everybody in the room; that's what staves do,  generally.
 
 </div>
 
-<div class="post" data-post-id="20459" data-author="brand" data-date="2007-09-29T23:48:06+00:00">
+<div class="post" data-post-id="20459" data-author="brand" data-date="2007-09-29T23:48:06+00:00" data-subject="">
 
 i think the main problem here isn't cleric prime. it's that the staff is a complete waste of drachma even if it casts mass raise dead 5 times in a row for only one charge point.  i need raise eq like other players need not to die.     i need heal bonus about as much as a used stick of chewing gum.  drachma eq should be repriced somewhat... like that +1 str clasp i was thinking about until other players reminded me that it was a pipe dream at 250 drachma.  lower the prices or just sell all the lame crap at one hippee dealer so we know it's a joke or something.  as for that robe M well some of us bought it for 250 and some of us wish we did.  me, i dropped the hammer on that one along time ago.  no clerics in groups is all good by me, that way whenever i show up everyone is like.... wow brand is soooo cooool look at him heal the tank and then not heal the tank... then he raises the tank and chuckles... what a jerk... i also got no knocks on what Mosaix said, hell we both started out around the same time, when we both thought cleric prime was the place to be, and M's earned the right to say whatever.  but not me, i've earned nothing.... i have bought a few things though... :twisted:
 
 </div>
 
-<div class="post" data-post-id="20464" data-author="Autolycos" data-date="2007-09-30T00:17:39+00:00">
+<div class="post" data-post-id="20464" data-author="Autolycos" data-date="2007-09-30T00:17:39+00:00" data-subject="">
 
 Leah is a hippie.. I caught Krom buyin a bag of peyote off her.
 
 </div>
 
-<div class="post" data-post-id="20469" data-author="Mosaix" data-date="2007-09-30T04:13:30+00:00">
+<div class="post" data-post-id="20469" data-author="Mosaix" data-date="2007-09-30T04:13:30+00:00" data-subject="">
 
 KJ
 
@@ -116,13 +116,13 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="20471" data-author="Weasel" data-date="2007-09-30T04:32:16+00:00">
+<div class="post" data-post-id="20471" data-author="Weasel" data-date="2007-09-30T04:32:16+00:00" data-subject="">
 
 raise dead as cleric prime spell? good luck finding anyone to tank...
 
 </div>
 
-<div class="post" data-post-id="20472" data-author="Toxis" data-date="2007-09-30T05:03:48+00:00">
+<div class="post" data-post-id="20472" data-author="Toxis" data-date="2007-09-30T05:03:48+00:00" data-subject="">
 
 Having been a cleric prime since sloth 2, and on several characters in sloth 3, I can say being a cleric sucks.  Mages get more blasting, druids get more hp in shift, warriors get parry, thieves their stabs and monks their grips+dam reduction, necros get a juju.
 
@@ -136,7 +136,7 @@ And speaking as a tank... RESTORATION CLERIC ONLY??? MY GOD, WHAT IN THE HELL AR
 
 </div>
 
-<div class="post" data-post-id="20475" data-author="13" data-date="2007-09-30T05:53:05+00:00">
+<div class="post" data-post-id="20475" data-author="13" data-date="2007-09-30T05:53:05+00:00" data-subject="">
 
 Mage primes don't blast any harder innately than mage quads.  Same as clerics, the cap is increased.  I agree that dark mace is cool, but a waste
 
@@ -156,7 +156,7 @@ a newb to 40 tard again.
 
 </div>
 
-<div class="post" data-post-id="20479" data-author="Mosaix" data-date="2007-09-30T06:09:44+00:00">
+<div class="post" data-post-id="20479" data-author="Mosaix" data-date="2007-09-30T06:09:44+00:00" data-subject="">
 
 I wise man once told me it was my fault for cutting off my own hand then trying to play sloth with it.  This turns out to be the truth.
 
@@ -164,7 +164,7 @@ I think the mud could use a nice challenge like Prime only on raise dead Weasel.
 
 </div>
 
-<div class="post" data-post-id="20481" data-author="Vixn" data-date="2007-09-30T06:31:59+00:00">
+<div class="post" data-post-id="20481" data-author="Vixn" data-date="2007-09-30T06:31:59+00:00" data-subject="">
 
 1) last player Sheng and don't tell me cl-prime is lame or clerics need groups to gain exp.
 
@@ -174,13 +174,13 @@ I think the mud could use a nice challenge like Prime only on raise dead Weasel.
 
 </div>
 
-<div class="post" data-post-id="20484" data-author="Weasel" data-date="2007-09-30T07:15:15+00:00">
+<div class="post" data-post-id="20484" data-author="Weasel" data-date="2007-09-30T07:15:15+00:00" data-subject="">
 
 Yup, I definitely appreciate raises, thanks Mosaix :)
 
 </div>
 
-<div class="post" data-post-id="20485" data-author="Gimlet" data-date="2007-09-30T11:10:37+00:00">
+<div class="post" data-post-id="20485" data-author="Gimlet" data-date="2007-09-30T11:10:37+00:00" data-subject="">
 
 as much as i agree that clerics suck as a prime class, to go as far as to say punish the mud coz nobody wants to play cleric prime is, kinda....how shall i put it...gay?
 
@@ -192,7 +192,7 @@ just my 2 cents
 
 </div>
 
-<div class="post" data-post-id="20489" data-author="Mosaix" data-date="2007-09-30T16:09:49+00:00">
+<div class="post" data-post-id="20489" data-author="Mosaix" data-date="2007-09-30T16:09:49+00:00" data-subject="">
 
 Cleric as a classo pick for prime, has almost no distinction from Prime to Quad.  The things that make up Cleric Prime currently are next to useless attributes.  Drachma eq for a cleric doesnt exist.  I have bought mostly mana and spelldamn eq.  A cleric prime drachma weapon would kick ass by the way.   Talk to some clerics and let them help you design it.  Even something simple like +5 or +10 healbonus clasps would be a nice offering to see.  Bezel set fire opal clasps are nice thiefy ring clasps, it can be done for another style of prime.
 
@@ -208,13 +208,13 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="20490" data-author="13" data-date="2007-09-30T16:14:32+00:00">
+<div class="post" data-post-id="20490" data-author="13" data-date="2007-09-30T16:14:32+00:00" data-subject="">
 
 I totally agree they need some love.  Prime love.
 
 </div>
 
-<div class="post" data-post-id="20492" data-author="Vixn" data-date="2007-09-30T18:41:17+00:00">
+<div class="post" data-post-id="20492" data-author="Vixn" data-date="2007-09-30T18:41:17+00:00" data-subject="">
 
 People pick warrior, necro, druid, thief, bard, monk mostly, sometimes mage, and almost never cleric for prime.[/quote:2mguwx1x]
 
@@ -222,19 +222,19 @@ Hm, I can't remember every-day-playing-bard prime since AC were finely fixed. Ca
 
 </div>
 
-<div class="post" data-post-id="20494" data-author="Atwell" data-date="2007-09-30T20:11:20+00:00">
+<div class="post" data-post-id="20494" data-author="Atwell" data-date="2007-09-30T20:11:20+00:00" data-subject="">
 
 While we're at it, the chess bishop needs some help; it just hasn't measured up to queens.  We need a new bishop skill, "move along ranks once every 10 moves".
 
 </div>
 
-<div class="post" data-post-id="20496" data-author="alias" data-date="2007-09-30T20:31:16+00:00">
+<div class="post" data-post-id="20496" data-author="alias" data-date="2007-09-30T20:31:16+00:00" data-subject="">
 
 Im cleric 3rd when do I get my pitfiend?
 
 </div>
 
-<div class="post" data-post-id="20497" data-author="Mosaix" data-date="2007-09-30T22:03:20+00:00">
+<div class="post" data-post-id="20497" data-author="Mosaix" data-date="2007-09-30T22:03:20+00:00" data-subject="">
 
 Atwell and Alias, is that the best quipp you can come up with to a resonable argument?
 
@@ -242,7 +242,7 @@ At least I know who to let corpse next time.
 
 </div>
 
-<div class="post" data-post-id="20498" data-author="Mosaix" data-date="2007-09-30T22:18:47+00:00">
+<div class="post" data-post-id="20498" data-author="Mosaix" data-date="2007-09-30T22:18:47+00:00" data-subject="">
 
 I wont disagree about the Bard Prime thing.  Alot of the Bard songs are obviously awesome, and group oriented.  There could also be distinction between Prime and Quad.  
 
@@ -250,7 +250,7 @@ Perhaps a Bard Prime thread is in order.
 
 </div>
 
-<div class="post" data-post-id="20501" data-author="brand" data-date="2007-09-30T22:50:19+00:00">
+<div class="post" data-post-id="20501" data-author="brand" data-date="2007-09-30T22:50:19+00:00" data-subject="">
 
 a mass heal or mass dark cloak would be nice additions to cleric.
 
@@ -260,7 +260,7 @@ wait.. i take that back.. i am strong! :twisted:
 
 </div>
 
-<div class="post" data-post-id="20503" data-author="Rynquald" data-date="2007-10-01T00:55:44+00:00">
+<div class="post" data-post-id="20503" data-author="Rynquald" data-date="2007-10-01T00:55:44+00:00" data-subject="">
 
 It might be a good idea to have a look at the difference between prime and quad for most the other classes before deciding that it's prime skills which hold clerics back. A quad druid gets piasa, a quad mage can use bolt/wind, a quad thief can still backstab, a quad monk can deathgrip/prediction, etc.
 
@@ -270,7 +270,7 @@ Also, any group can conceivably run with any single kind of prime char missing. 
 
 </div>
 
-<div class="post" data-post-id="20504" data-author="Leaf" data-date="2007-10-01T02:07:58+00:00">
+<div class="post" data-post-id="20504" data-author="Leaf" data-date="2007-10-01T02:07:58+00:00" data-subject="">
 
 I think Ryn is correct :)
 
@@ -308,7 +308,7 @@ shrug
 
 </div>
 
-<div class="post" data-post-id="20505" data-author="Yinao" data-date="2007-10-01T03:10:32+00:00">
+<div class="post" data-post-id="20505" data-author="Yinao" data-date="2007-10-01T03:10:32+00:00" data-subject="">
 
 Damn, im gone for 4-5 days and everyone goes nuts in the meantime about my main chars prime classo, I dont really have a problem with the cleric prime classo. I haven't baught essance of life or whatever that thing is, with rina I dont need the sysshock, and with max healbonus without it seems like a waste of drachma and time. Thankfully I baught that shnazy robe b4 they up'd the price on it, but other than that I will take any luv yall wanna gimme  :wink:
 
@@ -316,7 +316,7 @@ PS I do like the fact that they put in eq like the sandy britches that are prett
 
 </div>
 
-<div class="post" data-post-id="20510" data-author="13" data-date="2007-10-01T03:30:09+00:00">
+<div class="post" data-post-id="20510" data-author="13" data-date="2007-10-01T03:30:09+00:00" data-subject="">
 
 [quote:1qpbf0tn]I haven't baught essance of life [/quote:1qpbf0tn]
 
@@ -326,25 +326,25 @@ Didn't pay much attention in spelling class either I guess.
 
 </div>
 
-<div class="post" data-post-id="20511" data-author="Yinao" data-date="2007-10-01T03:31:50+00:00">
+<div class="post" data-post-id="20511" data-author="Yinao" data-date="2007-10-01T03:31:50+00:00" data-subject="">
 
 Does it matter? Its just an eq item :roll:
 
 </div>
 
-<div class="post" data-post-id="20512" data-author="*Krom*" data-date="2007-10-01T04:03:18+00:00">
+<div class="post" data-post-id="20512" data-author="*Krom*" data-date="2007-10-01T04:03:18+00:00" data-subject="">
 
 I didnt read this whole post, but I had originally changed the crystalline robe to 425 drachma.  How it ended up back at 250 I am not sure, but it has been corrected. Thanks for pointing that out.
 
 </div>
 
-<div class="post" data-post-id="20514" data-author="Mosaix" data-date="2007-10-01T04:32:27+00:00">
+<div class="post" data-post-id="20514" data-author="Mosaix" data-date="2007-10-01T04:32:27+00:00" data-subject="">
 
 Nods the cleric prime auto, everyone can basically get now with the new eq.  Maybe a new cleric prime auto would be a nice gesture.
 
 </div>
 
-<div class="post" data-post-id="20516" data-author="Avatar" data-date="2007-10-01T13:53:23+00:00">
+<div class="post" data-post-id="20516" data-author="Avatar" data-date="2007-10-01T13:53:23+00:00" data-subject="Classes">
 
 I think it's nice to have a person or two who will always be arguing for each favorite class.  Clerics balance has been a problem in the past, but I don't know if that's still the case.
 
@@ -358,7 +358,7 @@ So here's my idea.  I think someone said a druid prime has +13 mana regen (outdo
 
 </div>
 
-<div class="post" data-post-id="20517" data-author="Toxis" data-date="2007-10-01T14:40:39+00:00">
+<div class="post" data-post-id="20517" data-author="Toxis" data-date="2007-10-01T14:40:39+00:00" data-subject="">
 
 There needs to be a valkyrie that doesn't auto assist, but still heals group.
 
@@ -374,19 +374,19 @@ Clerics are insane healers, I want to play a cleric druid mage necro, but I have
 
 </div>
 
-<div class="post" data-post-id="20549" data-author="Weasel" data-date="2007-10-02T03:04:41+00:00">
+<div class="post" data-post-id="20549" data-author="Weasel" data-date="2007-10-02T03:04:41+00:00" data-subject="">
 
 Kjartan gossips-- 'Also, I don't know if anyone noticed but the darkmace flee proc should be much reduced'
 
 </div>
 
-<div class="post" data-post-id="20553" data-author="13" data-date="2007-10-02T04:23:47+00:00">
+<div class="post" data-post-id="20553" data-author="13" data-date="2007-10-02T04:23:47+00:00" data-subject="">
 
 well that's cool
 
 </div>
 
-<div class="post" data-post-id="20555" data-author="Atwell" data-date="2007-10-02T04:42:58+00:00">
+<div class="post" data-post-id="20555" data-author="Atwell" data-date="2007-10-02T04:42:58+00:00" data-subject="">
 
 Atwell and Alias, is that the best quipp you can come up with to a resonable argument?[/quote:7xr6fmf6]
 
@@ -400,13 +400,13 @@ Remember how this thread started?  You didn't know what "Item type: STAFF" impli
 
 </div>
 
-<div class="post" data-post-id="20556" data-author="Yinao" data-date="2007-10-02T05:53:49+00:00">
+<div class="post" data-post-id="20556" data-author="Yinao" data-date="2007-10-02T05:53:49+00:00" data-subject="">
 
 :shock:
 
 </div>
 
-<div class="post" data-post-id="20558" data-author="Mosaix" data-date="2007-10-02T13:18:53+00:00">
+<div class="post" data-post-id="20558" data-author="Mosaix" data-date="2007-10-02T13:18:53+00:00" data-subject="">
 
 the item used to say mass raise dead.  Now it doesnt.  That a staff can area is obvious i.e. red and white staff.   Buy the item just saying raise dead i was asking for clarity about it, not a smart ass comment from a tank who's never looked at the item.  I never said in this thread I dont know what a staff is.  You can imply whatever you want, at the end of the day the sun still sets.
 
@@ -416,7 +416,7 @@ There are some primes that also are not in healthy numbers.  If you would like t
 
 </div>
 
-<div class="post" data-post-id="20559" data-author="Sheng" data-date="2007-10-02T14:10:09+00:00">
+<div class="post" data-post-id="20559" data-author="Sheng" data-date="2007-10-02T14:10:09+00:00" data-subject="">
 
 [quote:24fowzwe]
 
@@ -458,7 +458,7 @@ Let me know when you see 6 bards or monks up there and then we'll talk.
 
 </div>
 
-<div class="post" data-post-id="20560" data-author="Mosaix" data-date="2007-10-02T14:58:52+00:00">
+<div class="post" data-post-id="20560" data-author="Mosaix" data-date="2007-10-02T14:58:52+00:00" data-subject="">
 
 You have shown a  snapshot of one instant in time.  Just as I have observed no-cleric primes in a lyme group at one time.
 
@@ -476,13 +476,13 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="20561" data-author="13" data-date="2007-10-02T15:07:50+00:00">
+<div class="post" data-post-id="20561" data-author="13" data-date="2007-10-02T15:07:50+00:00" data-subject="">
 
 Also the only real killers in that list are Mithrandir (who barely ever plays his cl prime) and Sheng.
 
 </div>
 
-<div class="post" data-post-id="20562" data-author="Yinao" data-date="2007-10-02T16:13:19+00:00">
+<div class="post" data-post-id="20562" data-author="Yinao" data-date="2007-10-02T16:13:19+00:00" data-subject="">
 
 Also the only real killers in that list are Mithrandir (who barely ever plays his cl prime) and Sheng.[/quote:1pddnsp4]
 
@@ -490,25 +490,25 @@ Hahahah
 
 </div>
 
-<div class="post" data-post-id="20563" data-author="13" data-date="2007-10-02T16:18:24+00:00">
+<div class="post" data-post-id="20563" data-author="13" data-date="2007-10-02T16:18:24+00:00" data-subject="">
 
 you're not bad but you're not on their level yet
 
 </div>
 
-<div class="post" data-post-id="20564" data-author="Yinao" data-date="2007-10-02T16:22:47+00:00">
+<div class="post" data-post-id="20564" data-author="Yinao" data-date="2007-10-02T16:22:47+00:00" data-subject="">
 
 It wasnt myself I was including but im sure that there are other "killer" cleric primes heh
 
 </div>
 
-<div class="post" data-post-id="20566" data-author="13" data-date="2007-10-02T17:34:00+00:00">
+<div class="post" data-post-id="20566" data-author="13" data-date="2007-10-02T17:34:00+00:00" data-subject="">
 
 choong and krok and doc as far as old school goes
 
 </div>
 
-<div class="post" data-post-id="20567" data-author="strider" data-date="2007-10-02T19:59:09+00:00">
+<div class="post" data-post-id="20567" data-author="strider" data-date="2007-10-02T19:59:09+00:00" data-subject="">
 
 I rarely play mithrandir not because he is weak or that cleric primes suck. i just don't play him because i have other chars who's style of play i prefer. mith is by far my favorite group character to play, but rarely does a group need a cleric prime more than they need a stabber or a tank who can also heal. yes cleric primes are hard to come by, because unless you really really like the top supplicants they are just as solid most anywhere else in the classo. unlike a couple other classes who main power comes from being the prime class (thief is an obvious one).  
 
@@ -516,7 +516,7 @@ as far as restricting certain spells to cleric prime only, that's a painful slip
 
 </div>
 
-<div class="post" data-post-id="20568" data-author="Tap" data-date="2007-10-02T23:12:22+00:00">
+<div class="post" data-post-id="20568" data-author="Tap" data-date="2007-10-02T23:12:22+00:00" data-subject="">
 
 [quote:156wcmpf]I work my ass off all day, and most nights.[/quote:156wcmpf]
 
@@ -534,7 +534,7 @@ answer that, the images are bad enough without any further detail.
 
 </div>
 
-<div class="post" data-post-id="20569" data-author="13" data-date="2007-10-02T23:57:31+00:00">
+<div class="post" data-post-id="20569" data-author="13" data-date="2007-10-02T23:57:31+00:00" data-subject="">
 
 strider makes a good point.. zera would roll over in his grave.  I think brad
 
@@ -542,13 +542,13 @@ brought up earlier something like this as well.
 
 </div>
 
-<div class="post" data-post-id="20570" data-author="tincts" data-date="2007-10-03T06:07:29+00:00">
+<div class="post" data-post-id="20570" data-author="tincts" data-date="2007-10-03T06:07:29+00:00" data-subject="">
 
 Philly orchestra?? Less posting, more practice, dude
 
 </div>
 
-<div class="post" data-post-id="20599" data-author="Alberich" data-date="2007-10-05T18:07:46+00:00">
+<div class="post" data-post-id="20599" data-author="Alberich" data-date="2007-10-05T18:07:46+00:00" data-subject="">
 
 [img:1k87dua5]http://img310.imageshack.us/img310/2584/paladins0gf.jpg[/img:1k87dua5]
 
@@ -556,13 +556,13 @@ seems applicable here  ;)
 
 </div>
 
-<div class="post" data-post-id="20602" data-author="Tap" data-date="2007-10-05T21:09:10+00:00">
+<div class="post" data-post-id="20602" data-author="Tap" data-date="2007-10-05T21:09:10+00:00" data-subject="">
 
 Programmers at Blizzard play here? I thought they'd be at a stripclub on their time off.
 
 </div>
 
-<div class="post" data-post-id="20603" data-author="Weasel" data-date="2007-10-05T21:23:53+00:00">
+<div class="post" data-post-id="20603" data-author="Weasel" data-date="2007-10-05T21:23:53+00:00" data-subject="">
 
 Programmers at Blizzard play here? I thought they'd be at a stripclub on their time off.[/quote:2s04hvyk]
 
@@ -570,13 +570,13 @@ Yup - where do you think they get their ideas from?  :twisted:
 
 </div>
 
-<div class="post" data-post-id="20613" data-author="Leaf" data-date="2007-10-06T19:26:34+00:00">
+<div class="post" data-post-id="20613" data-author="Leaf" data-date="2007-10-06T19:26:34+00:00" data-subject="">
 
 Nice Weasel... :)
 
 </div>
 
-<div class="post" data-post-id="20614" data-author="Leaf" data-date="2007-10-06T19:43:05+00:00">
+<div class="post" data-post-id="20614" data-author="Leaf" data-date="2007-10-06T19:43:05+00:00" data-subject="">
 
 I know I shouldn't have anymore chars ...
 
@@ -586,13 +586,13 @@ Look for Cl/Dr/Ne (Wa or Mo) or Cl/Wa/Ne/Ba with some good stats
 
 </div>
 
-<div class="post" data-post-id="20628" data-author="tincts" data-date="2007-10-08T01:16:49+00:00">
+<div class="post" data-post-id="20628" data-author="tincts" data-date="2007-10-08T01:16:49+00:00" data-subject="">
 
 Got a cl dr ba ma with 16 16 18 18 14 . . .
 
 </div>
 
-<div class="post" data-post-id="20631" data-author="Leaf" data-date="2007-10-08T02:48:30+00:00">
+<div class="post" data-post-id="20631" data-author="Leaf" data-date="2007-10-08T02:48:30+00:00" data-subject="">
 
 Since the mail system is broke ... I have no other way of contacting u :(
 
@@ -600,13 +600,13 @@ Who else do you play?  Who is this Char, and what is his lvl?
 
 </div>
 
-<div class="post" data-post-id="20643" data-author="tincts" data-date="2007-10-08T05:53:25+00:00">
+<div class="post" data-post-id="20643" data-author="tincts" data-date="2007-10-08T05:53:25+00:00" data-subject="">
 
 Last player tangent.  Don't play him much, virtually no eq I'm afraid.  But I'll sell him cheap.  Email me at crysdan@bigpond.com
 
 </div>
 
-<div class="post" data-post-id="20799" data-author="Ker" data-date="2007-10-12T13:28:03+00:00">
+<div class="post" data-post-id="20799" data-author="Ker" data-date="2007-10-12T13:28:03+00:00" data-subject="">
 
 *************************************************************
 
@@ -680,13 +680,13 @@ Maybe someone can look into this? Think raise dead is somewhat screwed.
 
 </div>
 
-<div class="post" data-post-id="20807" data-author="van" data-date="2007-10-12T16:34:23+00:00">
+<div class="post" data-post-id="20807" data-author="van" data-date="2007-10-12T16:34:23+00:00" data-subject="">
 
 After the third lost conc, I would have been noshouted for screaming obscenities on gossip.  I'd like to commend you for your restraint.
 
 </div>
 
-<div class="post" data-post-id="20809" data-author="Leaf" data-date="2007-10-12T16:50:24+00:00">
+<div class="post" data-post-id="20809" data-author="Leaf" data-date="2007-10-12T16:50:24+00:00" data-subject="">
 
 My Monk has been shocked 2/3 within a week.  Once with Patty and another
 
@@ -694,7 +694,7 @@ time with hum... Patty also i think!
 
 </div>
 
-<div class="post" data-post-id="20811" data-author="van" data-date="2007-10-12T16:53:19+00:00">
+<div class="post" data-post-id="20811" data-author="van" data-date="2007-10-12T16:53:19+00:00" data-subject="">
 
 Uh, I'd like to blame that on whatever is wrong with raise dead.
 

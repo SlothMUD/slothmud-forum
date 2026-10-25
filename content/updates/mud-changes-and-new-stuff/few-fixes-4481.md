@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="35888" data-author="*Splork*" data-date="2015-05-03T03:33:54+00:00">
+<div class="post" data-post-id="35888" data-author="*Splork*" data-date="2015-05-03T03:33:54+00:00" data-subject="Few fixes">
 
 ** 91038 ** Vinjion ** fix masterful hammer spell so they aren't worse than 
 
@@ -40,7 +40,7 @@ improved by about 35%.
 
 </div>
 
-<div class="post" data-post-id="35889" data-author="*juggleblood*" data-date="2015-05-05T17:28:20+00:00">
+<div class="post" data-post-id="35889" data-author="*juggleblood*" data-date="2015-05-05T17:28:20+00:00" data-subject="Re: Few fixes">
 
 !
 
@@ -48,7 +48,7 @@ Man, you guys are doing great things lately. Thanks for all the hard work. I don
 
 </div>
 
-<div class="post" data-post-id="35890" data-author="*Splork*" data-date="2015-05-06T13:13:57+00:00">
+<div class="post" data-post-id="35890" data-author="*Splork*" data-date="2015-05-06T13:13:57+00:00" data-subject="Re: Few fixes">
 
 Thanks Juggle,
 
@@ -80,7 +80,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="35915" data-author="*Splork*" data-date="2015-05-26T13:14:00+00:00">
+<div class="post" data-post-id="35915" data-author="*Splork*" data-date="2015-05-26T13:14:00+00:00" data-subject="Re: Few fixes">
 
 Below are a few more fixes going in on today's reboot. There have been reports of some garbled information being displayed when players are communicating with questers, this fix is going in next reboot.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="40146" data-author="cnl" data-date="2025-02-07T18:30:57+00:00">
+<div class="post" data-post-id="40146" data-author="cnl" data-date="2025-02-07T18:30:57+00:00" data-subject="Revisiting suggestion - extra damage messages">
 
 I think Bel suggested this a while back. I would like to see 2 damage levels above viciously
 
@@ -22,7 +22,7 @@ I suggest annihilates and obliterates but I don't really care too much what they
 
 </div>
 
-<div class="post" data-post-id="40148" data-author="cnl" data-date="2025-02-08T01:32:46+00:00">
+<div class="post" data-post-id="40148" data-author="cnl" data-date="2025-02-08T01:32:46+00:00" data-subject="Re: Revisiting suggestion - extra damage messages">
 
 You annihilate the Shadow Demon with your cleave.
 
@@ -52,19 +52,19 @@ You visibly score Lucifer with your slash. If viewed from the appropriate angle 
 
 </div>
 
-<div class="post" data-post-id="40151" data-author="*teker*" data-date="2025-02-12T16:03:27+00:00">
+<div class="post" data-post-id="40151" data-author="*teker*" data-date="2025-02-12T16:03:27+00:00" data-subject="Re: Revisiting suggestion - extra damage messages">
 
 How much damage would you need to do to reach these new messages?  Currently viciously massacres is for damage >= 75.
 
 </div>
 
-<div class="post" data-post-id="40152" data-author="Insomnia" data-date="2025-02-12T17:05:41+00:00">
+<div class="post" data-post-id="40152" data-author="Insomnia" data-date="2025-02-12T17:05:41+00:00" data-subject="Re: Revisiting suggestion - extra damage messages">
 
 I don't know what problem extra damage messages are supposed to solve. For me, it will bring absolutely no value but require rewriting a lot of triggers.
 
 </div>
 
-<div class="post" data-post-id="40154" data-author="cnl" data-date="2025-02-13T01:25:48+00:00">
+<div class="post" data-post-id="40154" data-author="cnl" data-date="2025-02-13T01:25:48+00:00" data-subject="Re: Revisiting suggestion - extra damage messages">
 
 Teker - whatever the gap is currently from brutally to vicious can just be repeated and then anything greater on the last level.
 
@@ -74,7 +74,7 @@ the advantage is admittedly just flavor but it's just so you can see what player
 
 </div>
 
-<div class="post" data-post-id="40192" data-author="*teker*" data-date="2025-07-13T21:36:30+00:00">
+<div class="post" data-post-id="40192" data-author="*teker*" data-date="2025-07-13T21:36:30+00:00" data-subject="Re: Revisiting suggestion - extra damage messages">
 
 Expect to see the new messages soon.
 

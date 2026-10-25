@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="21610" data-author="mahkra" data-date="2007-12-10T20:39:37+00:00">
+<div class="post" data-post-id="21610" data-author="mahkra" data-date="2007-12-10T20:39:37+00:00" data-subject="Drunk and feast/gorge">
 
 Any chance of feast being changed so it doesn't create alcohol?  Or is my time better spent cleverly scripting around the problem?
 

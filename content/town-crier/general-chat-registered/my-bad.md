@@ -10,7 +10,7 @@ locked: false
 post_count: 7
 ---
 
-<div class="post" data-post-id="15535" data-author="13" data-date="2006-12-08T20:02:49+00:00">
+<div class="post" data-post-id="15535" data-author="13" data-date="2006-12-08T20:02:49+00:00" data-subject="My bad">
 
 I'm sorry, I've been mean.  I'll try to do better in the future.
 
@@ -18,19 +18,19 @@ I'm sorry, I've been mean.  I'll try to do better in the future.
 
 </div>
 
-<div class="post" data-post-id="15537" data-author="Autolycos" data-date="2006-12-08T20:42:49+00:00">
+<div class="post" data-post-id="15537" data-author="Autolycos" data-date="2006-12-08T20:42:49+00:00" data-subject="">
 
 i think i am going to be sick  :shock:
 
 </div>
 
-<div class="post" data-post-id="15538" data-author="Krok" data-date="2006-12-08T22:24:46+00:00">
+<div class="post" data-post-id="15538" data-author="Krok" data-date="2006-12-08T22:24:46+00:00" data-subject="">
 
 How sweet. Is it for Brad?
 
 </div>
 
-<div class="post" data-post-id="15552" data-author="Blastem" data-date="2006-12-09T07:12:45+00:00">
+<div class="post" data-post-id="15552" data-author="Blastem" data-date="2006-12-09T07:12:45+00:00" data-subject="">
 
 *puke* like you really think we are gunna buy that **** from a thumb turban wearin bitch?
 
@@ -40,7 +40,7 @@ Paul
 
 </div>
 
-<div class="post" data-post-id="15555" data-author="Rajil" data-date="2006-12-09T10:31:48+00:00">
+<div class="post" data-post-id="15555" data-author="Rajil" data-date="2006-12-09T10:31:48+00:00" data-subject="">
 
 ... thumb turban wearing bitch ...
 
@@ -50,13 +50,13 @@ Oh, and 13? Who are you and what have you done to Aa?
 
 </div>
 
-<div class="post" data-post-id="15556" data-author="13" data-date="2006-12-09T10:47:50+00:00">
+<div class="post" data-post-id="15556" data-author="13" data-date="2006-12-09T10:47:50+00:00" data-subject="">
 
 [img:agytm0fh]http://i83.photobucket.com/albums/j286/greendevil74/39941becauseheisaattentzi7.jpg[/img:agytm0fh]
 
 </div>
 
-<div class="post" data-post-id="15557" data-author="Leaf" data-date="2006-12-09T13:16:53+00:00">
+<div class="post" data-post-id="15557" data-author="Leaf" data-date="2006-12-09T13:16:53+00:00" data-subject="">
 
 Now thats the Aa that we know and love.
 

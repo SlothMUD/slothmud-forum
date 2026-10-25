@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="22631" data-author="Dragoth" data-date="2008-02-10T00:44:46+00:00">
+<div class="post" data-post-id="22631" data-author="Dragoth" data-date="2008-02-10T00:44:46+00:00" data-subject="the WTF thread.">
 
 Spot the WTF moment in this:
 
@@ -70,7 +70,7 @@ Can we start wearing boots on our feet and helmets on our asses now please?
 
 </div>
 
-<div class="post" data-post-id="22634" data-author="Tap" data-date="2008-02-10T13:05:56+00:00">
+<div class="post" data-post-id="22634" data-author="Tap" data-date="2008-02-10T13:05:56+00:00" data-subject="">
 
 Your neither holding a light source nor wielding a weapon Dragoth.
 
@@ -78,7 +78,7 @@ WTF ?!?[/size:3iy684e4][/color:3iy684e4]
 
 </div>
 
-<div class="post" data-post-id="22635" data-author="Tap" data-date="2008-02-10T13:36:08+00:00">
+<div class="post" data-post-id="22635" data-author="Tap" data-date="2008-02-10T13:36:08+00:00" data-subject="">
 
 Mud Info: SlothMUD III
 
@@ -90,13 +90,13 @@ WTF ?!?[/size:1iy57vr7][/color:1iy57vr7]
 
 </div>
 
-<div class="post" data-post-id="22637" data-author="Yasik" data-date="2008-02-10T17:37:45+00:00">
+<div class="post" data-post-id="22637" data-author="Yasik" data-date="2008-02-10T17:37:45+00:00" data-subject="">
 
 [img:2ag2oxg6]http://yasik.kiev.ua/WTFIsThisShit.jpg[/img:2ag2oxg6]
 
 </div>
 
-<div class="post" data-post-id="22662" data-author="*juggleblood*" data-date="2008-02-11T23:50:20+00:00">
+<div class="post" data-post-id="22662" data-author="*juggleblood*" data-date="2008-02-11T23:50:20+00:00" data-subject="">
 
 You quaff from a water barrel.  It tastes like water.
 
@@ -138,7 +138,7 @@ demon bind. Is this new or am I slow?
 
 </div>
 
-<div class="post" data-post-id="22708" data-author="*juggleblood*" data-date="2008-02-13T20:40:59+00:00">
+<div class="post" data-post-id="22708" data-author="*juggleblood*" data-date="2008-02-13T20:40:59+00:00" data-subject="">
 
 The thunderbird grabs you in a massive claw and places you on his back.
 
@@ -204,13 +204,13 @@ wtf...
 
 </div>
 
-<div class="post" data-post-id="22709" data-author="Akasha" data-date="2008-02-13T21:08:54+00:00">
+<div class="post" data-post-id="22709" data-author="Akasha" data-date="2008-02-13T21:08:54+00:00" data-subject="">
 
 You thunderbird ran out of juice.. i know gas is expensive, but if your gonna be travelling trans-contiental, you should really splurge on a fill up :P
 
 </div>
 
-<div class="post" data-post-id="22719" data-author="*juggleblood*" data-date="2008-02-14T05:14:53+00:00">
+<div class="post" data-post-id="22719" data-author="*juggleblood*" data-date="2008-02-14T05:14:53+00:00" data-subject="">
 
 I had just summoned it no more than 10 seconds b4 entering it.
 
@@ -244,7 +244,7 @@ Yinao gossips-- 'indeed'
 
 </div>
 
-<div class="post" data-post-id="22886" data-author="Dragoth" data-date="2008-02-22T13:46:04+00:00">
+<div class="post" data-post-id="22886" data-author="Dragoth" data-date="2008-02-22T13:46:04+00:00" data-subject="">
 
 Left a helper bot at West gate on for the night to help people out with spells, and what do i get ? Put in jail ? For what ? Im not making anything out of it, so why should anyone care. 
 
@@ -252,7 +252,7 @@ Next you'll be putting people in jail for having eat/drink triggers when you are
 
 </div>
 
-<div class="post" data-post-id="22887" data-author="Alberich" data-date="2008-02-22T13:52:47+00:00">
+<div class="post" data-post-id="22887" data-author="Alberich" data-date="2008-02-22T13:52:47+00:00" data-subject="">
 
 [quote:2yf2uar5]4) No Robotting.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="9483" data-author="12345" data-date="2005-11-11T17:20:40+00:00">
+<div class="post" data-post-id="9483" data-author="12345" data-date="2005-11-11T17:20:40+00:00" data-subject="Brain fault: Core dumped...">
 
 00100101001100110011000000100101001100110011010000100101001 
 
@@ -170,13 +170,13 @@ post_count: 3
 
 </div>
 
-<div class="post" data-post-id="9487" data-author="Roadrunr" data-date="2005-11-11T23:48:14+00:00">
+<div class="post" data-post-id="9487" data-author="Roadrunr" data-date="2005-11-11T23:48:14+00:00" data-subject="">
 
 C'mon, we all know yer brain isn't that big...
 
 </div>
 
-<div class="post" data-post-id="9488" data-author="Avatar" data-date="2005-11-12T00:50:03+00:00">
+<div class="post" data-post-id="9488" data-author="Avatar" data-date="2005-11-12T00:50:03+00:00" data-subject=":)">
 
 0110100001100101011010000000110100001010
 

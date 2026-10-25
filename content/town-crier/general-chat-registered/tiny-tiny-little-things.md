@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="39999" data-author="Belrath" data-date="2023-01-13T19:27:05+00:00">
+<div class="post" data-post-id="39999" data-author="Belrath" data-date="2023-01-13T19:27:05+00:00" data-subject="Tiny Tiny little things">
 
 Hello!
 
@@ -52,7 +52,7 @@ Special thanks for Maniac for making this HUGE new area.
 
 </div>
 
-<div class="post" data-post-id="40000" data-author="cnl" data-date="2023-01-14T20:12:05+00:00">
+<div class="post" data-post-id="40000" data-author="cnl" data-date="2023-01-14T20:12:05+00:00" data-subject="Re: Tiny Tiny little things">
 
 > **Belrath wrote:**
 > 1. When player in zone types 'where' I feel like it should show lurking persons.
@@ -140,7 +140,7 @@ Plus it would be cool to see on a crit hit if you do mega damage
 
 </div>
 
-<div class="post" data-post-id="40002" data-author="jayclimbs" data-date="2023-01-25T17:26:56+00:00">
+<div class="post" data-post-id="40002" data-author="jayclimbs" data-date="2023-01-25T17:26:56+00:00" data-subject="Re: Tiny Tiny little things">
 
 My two cents:
 
@@ -150,7 +150,7 @@ If that is the case, I'd add my vote to un-nerf it. If nothing else, when an 85%
 
 </div>
 
-<div class="post" data-post-id="40004" data-author="cnl" data-date="2023-01-31T01:22:06+00:00">
+<div class="post" data-post-id="40004" data-author="cnl" data-date="2023-01-31T01:22:06+00:00" data-subject="Re: Tiny Tiny little things">
 
 Here's some real data from 104 attempted entrenches from Fuli (Wa 2nd, learned 85%)
 
@@ -168,7 +168,7 @@ values seem about what I would expect on straight 85% chance of success.
 
 </div>
 
-<div class="post" data-post-id="40005" data-author="cnl" data-date="2023-01-31T20:38:30+00:00">
+<div class="post" data-post-id="40005" data-author="cnl" data-date="2023-01-31T20:38:30+00:00" data-subject="Re: Tiny Tiny little things">
 
 Rather interestingly I did a grep/count on my logs on this pc for all instances of fail and succeed on entrench and found that for some 3500~ entrenches I had closer to an 80% success, 20% fail rate.
 
@@ -176,7 +176,7 @@ This does include multiple chars some of which may not have had entrench fully l
 
 </div>
 
-<div class="post" data-post-id="40008" data-author="*Idjit*" data-date="2023-02-12T05:45:07+00:00">
+<div class="post" data-post-id="40008" data-author="*Idjit*" data-date="2023-02-12T05:45:07+00:00" data-subject="Re: Tiny Tiny little things">
 
 I got shouted down for wanting 
 
@@ -202,7 +202,7 @@ The same damage messages but lower case?
 
 </div>
 
-<div class="post" data-post-id="40009" data-author="*Idjit*" data-date="2023-02-12T05:46:42+00:00">
+<div class="post" data-post-id="40009" data-author="*Idjit*" data-date="2023-02-12T05:46:42+00:00" data-subject="Re: Tiny Tiny little things">
 
 circleMUD's precise ranges were
 
@@ -224,7 +224,7 @@ not sure where vicious lands in this but perhaps kept supreme at the top?
 
 </div>
 
-<div class="post" data-post-id="40011" data-author="Insomnia" data-date="2023-02-13T19:22:53+00:00">
+<div class="post" data-post-id="40011" data-author="Insomnia" data-date="2023-02-13T19:22:53+00:00" data-subject="Re: Tiny Tiny little things">
 
 Definitely not upper case! :)
 
@@ -257,13 +257,13 @@ Here are some suggestions by ChatGPT:
 
 </div>
 
-<div class="post" data-post-id="40012" data-author="Belrath" data-date="2023-02-14T07:13:38+00:00">
+<div class="post" data-post-id="40012" data-author="Belrath" data-date="2023-02-14T07:13:38+00:00" data-subject="Re: Tiny Tiny little things">
 
 I wasn't only thinking about player chars. Some mobs hit really really hard.
 
 </div>
 
-<div class="post" data-post-id="40013" data-author="*Idjit*" data-date="2023-02-18T15:18:37+00:00">
+<div class="post" data-post-id="40013" data-author="*Idjit*" data-date="2023-02-18T15:18:37+00:00" data-subject="Re: Tiny Tiny little things">
 
 Also and if i don't miss my guess Belrath is partly talking about subdividing existing damage messages below vicious into more precise stuff too.
 
@@ -273,7 +273,7 @@ At least a little bit.  Can speak for himself though :)
 
 </div>
 
-<div class="post" data-post-id="40014" data-author="*Breeze*" data-date="2023-02-18T20:00:45+00:00">
+<div class="post" data-post-id="40014" data-author="*Breeze*" data-date="2023-02-18T20:00:45+00:00" data-subject="Re: Tiny Tiny little things">
 
 @cnl EU is supposed to be EaC.. completely different.
 
@@ -291,13 +291,13 @@ May even redo proc to get heart to rebirth.. undecided yet (working to get unfil
 
 </div>
 
-<div class="post" data-post-id="40015" data-author="*Breeze*" data-date="2023-02-18T20:03:39+00:00">
+<div class="post" data-post-id="40015" data-author="*Breeze*" data-date="2023-02-18T20:03:39+00:00" data-subject="Re: Tiny Tiny little things">
 
 For dam messages it may be possible to do more but we need upper lower limits to define or we just send via msdp... not sure what's better atm
 
 </div>
 
-<div class="post" data-post-id="40016" data-author="Belrath" data-date="2023-02-21T08:19:30+00:00">
+<div class="post" data-post-id="40016" data-author="Belrath" data-date="2023-02-21T08:19:30+00:00" data-subject="Re: Tiny Tiny little things">
 
 Idjit wrote: "Also and if i don't miss my guess Belrath is partly talking about subdividing existing damage messages below vicious into more precise stuff too."
 
@@ -307,7 +307,7 @@ Also I dont know what's the difference between 'brutally massacres' and 'vicious
 
 </div>
 
-<div class="post" data-post-id="40017" data-author="Belrath" data-date="2023-02-21T08:23:51+00:00">
+<div class="post" data-post-id="40017" data-author="Belrath" data-date="2023-02-21T08:23:51+00:00" data-subject="Re: Tiny Tiny little things">
 
 Also its good to hear from you Breeze. I hope you feel better soon. Always hard to hear people been having such a hard time. *hug*
 

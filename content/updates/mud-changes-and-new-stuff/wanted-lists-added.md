@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="29018" data-author="*Splork*" data-date="2009-04-22T17:27:21+00:00">
+<div class="post" data-post-id="29018" data-author="*Splork*" data-date="2009-04-22T17:27:21+00:00" data-subject="wanted lists added">
 
 Ive added a place to put some of your more desired items. People like Shyla and others can then finger you( no jokes here please) and see if they might have the items you want.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30569" data-author="Toxis" data-date="2010-01-05T09:06:23+00:00">
+<div class="post" data-post-id="30569" data-author="Toxis" data-date="2010-01-05T09:06:23+00:00" data-subject="rent query...">
 
 My question is are these too high rent costs?
 

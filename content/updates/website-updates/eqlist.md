@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="31590" data-author="*Breeze*" data-date="2010-08-25T13:04:54+00:00">
+<div class="post" data-post-id="31590" data-author="*Breeze*" data-date="2010-08-25T13:04:54+00:00" data-subject="EQList">
 
 **ChangeLog**
 
@@ -26,7 +26,7 @@ post_count: 4
 
 </div>
 
-<div class="post" data-post-id="31938" data-author="*Breeze*" data-date="2010-10-28T00:28:35+00:00">
+<div class="post" data-post-id="31938" data-author="*Breeze*" data-date="2010-10-28T00:28:35+00:00" data-subject="EQList">
 
 you should start seeing more information on runes/clasps/instruments on eqlist.  
 
@@ -42,7 +42,7 @@ enjoy and thank isabo for her work on exporting said data to me :)
 
 </div>
 
-<div class="post" data-post-id="31939" data-author="jezer" data-date="2010-10-28T06:28:31+00:00">
+<div class="post" data-post-id="31939" data-author="jezer" data-date="2010-10-28T06:28:31+00:00" data-subject="Re: EQList">
 
 Silvery Blue Pearl Rune		+20 Circ Dam
 
@@ -54,7 +54,7 @@ These rune things are still bugged. 5 Silvery Blue Pearls creates a black pearl 
 
 </div>
 
-<div class="post" data-post-id="31941" data-author="*Breeze*" data-date="2010-10-28T10:11:13+00:00">
+<div class="post" data-post-id="31941" data-author="*Breeze*" data-date="2010-10-28T10:11:13+00:00" data-subject="EQList Update">
 
 Forges will now link the list of required components to the Mobile / Area so you don't need to do extra searches.
 

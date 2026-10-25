@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36901" data-author="Yasik" data-date="2016-05-01T16:30:57+00:00">
+<div class="post" data-post-id="36901" data-author="Yasik" data-date="2016-05-01T16:30:57+00:00" data-subject="ogres, morgan">
 
 ***** tells you 'at morgan say lormak'
 
@@ -160,19 +160,19 @@ This is unfinished or/and buggy. It needs to be looked upon. This is very un-Slo
 
 </div>
 
-<div class="post" data-post-id="36902" data-author="Ezekiel" data-date="2016-05-02T04:52:36+00:00">
+<div class="post" data-post-id="36902" data-author="Ezekiel" data-date="2016-05-02T04:52:36+00:00" data-subject="Re: ogres, morgan">
 
 This is what bugs command in game is for. Quit spamming the forum with this nonsense.
 
 </div>
 
-<div class="post" data-post-id="36904" data-author="Yasik" data-date="2016-05-02T11:14:30+00:00">
+<div class="post" data-post-id="36904" data-author="Yasik" data-date="2016-05-02T11:14:30+00:00" data-subject="Re: ogres, morgan">
 
 I knew one of you two will come leave comment like that. Now you banned.
 
 </div>
 
-<div class="post" data-post-id="36905" data-author="Ezekiel" data-date="2016-05-03T02:23:39+00:00">
+<div class="post" data-post-id="36905" data-author="Ezekiel" data-date="2016-05-03T02:23:39+00:00" data-subject="Re: ogres, morgan">
 
 Banned? From what?
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 30
 ---
 
-<div class="post" data-post-id="13610" data-author="mudder" data-date="2006-07-28T17:33:13+00:00">
+<div class="post" data-post-id="13610" data-author="mudder" data-date="2006-07-28T17:33:13+00:00" data-subject="Acceptable Language">
 
 First off let me quote from the TMC description of SlothIII under the list of attributes: 
 
@@ -116,13 +116,13 @@ If someone replys with STFU does that mean they haven't read this far or just a 
 
 </div>
 
-<div class="post" data-post-id="13611" data-author="mudder" data-date="2006-07-28T17:52:42+00:00">
+<div class="post" data-post-id="13611" data-author="mudder" data-date="2006-07-28T17:52:42+00:00" data-subject="">
 
 darn it the website censored me and put a load of ****ing *****'s in ...
 
 </div>
 
-<div class="post" data-post-id="13612" data-author="Avatar" data-date="2006-07-28T18:06:05+00:00">
+<div class="post" data-post-id="13612" data-author="Avatar" data-date="2006-07-28T18:06:05+00:00" data-subject="language">
 
 I'm not connected to the game at the moment, so I can't direct you to a specific place to find documented info.  I can say for certain that cursing is not allowed on public channels.  Most imms will give a warning and then apply a no-shout to person abusing the channel.
 
@@ -136,7 +136,7 @@ B)  People often disagree regarding the definition of cursing.  Something that s
 
 </div>
 
-<div class="post" data-post-id="13613" data-author="Alberich" data-date="2006-07-28T18:42:39+00:00">
+<div class="post" data-post-id="13613" data-author="Alberich" data-date="2006-07-28T18:42:39+00:00" data-subject="">
 
 sheesh, time for another one of these thread again?  Please refer to the other times we've gone over this:
 
@@ -148,13 +148,13 @@ oh, and stfu :P
 
 </div>
 
-<div class="post" data-post-id="13614" data-author="Guinex" data-date="2006-07-28T18:43:30+00:00">
+<div class="post" data-post-id="13614" data-author="Guinex" data-date="2006-07-28T18:43:30+00:00" data-subject="">
 
 *Yawn* Please take a moment to STFU!  :evil:
 
 </div>
 
-<div class="post" data-post-id="13617" data-author="Leaf" data-date="2006-07-28T20:46:26+00:00">
+<div class="post" data-post-id="13617" data-author="Leaf" data-date="2006-07-28T20:46:26+00:00" data-subject="">
 
 Well the only difference I see is that back like 2yrs ago.  If you even used
 
@@ -170,7 +170,7 @@ And if any1 says to "STFU" to me, all i can say is GEAD (Go eat a dick!)
 
 </div>
 
-<div class="post" data-post-id="13618" data-author="Medios" data-date="2006-07-28T21:20:27+00:00">
+<div class="post" data-post-id="13618" data-author="Medios" data-date="2006-07-28T21:20:27+00:00" data-subject="">
 
 Can we just remove gossip instead?
 
@@ -180,7 +180,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13619" data-author="12345" data-date="2006-07-28T23:13:33+00:00">
+<div class="post" data-post-id="13619" data-author="12345" data-date="2006-07-28T23:13:33+00:00" data-subject="">
 
 Wait a sec...  All this because Elsie might have been offended?  Did she become a newbie suddenly? Last I looked, these were her levels:
 
@@ -192,7 +192,7 @@ Generally, if someone (like a newbie) asks an honest question, they get a mostly
 
 </div>
 
-<div class="post" data-post-id="13621" data-author="Akasha" data-date="2006-07-29T00:54:37+00:00">
+<div class="post" data-post-id="13621" data-author="Akasha" data-date="2006-07-29T00:54:37+00:00" data-subject="">
 
 I assure you I speak not on behalf of the rest of the immorts.  This is my own personal thoughts on the subject.
 
@@ -216,7 +216,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="13622" data-author="alias" data-date="2006-07-29T01:22:54+00:00">
+<div class="post" data-post-id="13622" data-author="alias" data-date="2006-07-29T01:22:54+00:00" data-subject="">
 
 A day I don't tell a co-worker, friend or my boss to f-off or stfu or get the f out of here is an extreme rarity. I try not to swear in front of children or at a restraunt but sloth isnt  like either of those, its a place of recreceation. How many times have you been to a ball game and not heard someone cursing at the ref cause their 7yr got a foul called on him? That I think is way more damaging than to see stfu in type across a screen but maybe thats just me.
 
@@ -228,13 +228,13 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="13624" data-author="Weasel" data-date="2006-07-29T03:23:20+00:00">
+<div class="post" data-post-id="13624" data-author="Weasel" data-date="2006-07-29T03:23:20+00:00" data-subject="">
 
 ..I wonder if I'll get noshouted again for gossing "WTF?"  :roll:
 
 </div>
 
-<div class="post" data-post-id="13633" data-author="Autolycos" data-date="2006-07-30T13:18:56+00:00">
+<div class="post" data-post-id="13633" data-author="Autolycos" data-date="2006-07-30T13:18:56+00:00" data-subject="">
 
 you should get noshouted for twitching your nose, you little vermin!!! :twisted: 
 
@@ -246,31 +246,31 @@ wonderful,  a drive by stfu'ing :idea:
 
 </div>
 
-<div class="post" data-post-id="13641" data-author="osric" data-date="2006-07-31T01:44:13+00:00">
+<div class="post" data-post-id="13641" data-author="osric" data-date="2006-07-31T01:44:13+00:00" data-subject="">
 
 You know the roman alphabet can be used to type some really mean stuff sometimes, maybe we should just get rid of it! :P
 
 </div>
 
-<div class="post" data-post-id="13642" data-author="Nascosto" data-date="2006-07-31T02:14:53+00:00">
+<div class="post" data-post-id="13642" data-author="Nascosto" data-date="2006-07-31T02:14:53+00:00" data-subject="">
 
 if it really bothers you - you could write a #sub to replace those bad bad words... 'stfu' could become, i don't know, 'i love unicorns and rainbows!', wtf could be err.. 'my cat's name is mittens'.  whatever floats your boat.
 
 </div>
 
-<div class="post" data-post-id="13643" data-author="osric" data-date="2006-07-31T02:49:34+00:00">
+<div class="post" data-post-id="13643" data-author="osric" data-date="2006-07-31T02:49:34+00:00" data-subject="">
 
 Now thats hilarious!
 
 </div>
 
-<div class="post" data-post-id="13645" data-author="Weasel" data-date="2006-07-31T06:32:29+00:00">
+<div class="post" data-post-id="13645" data-author="Weasel" data-date="2006-07-31T06:32:29+00:00" data-subject="">
 
 wheelbarrow that!
 
 </div>
 
-<div class="post" data-post-id="13647" data-author="Autolycos" data-date="2006-07-31T13:14:12+00:00">
+<div class="post" data-post-id="13647" data-author="Autolycos" data-date="2006-07-31T13:14:12+00:00" data-subject="">
 
 if it really bothers you - you could write a #sub to replace those bad bad words... 'stfu' could become, i don't know, 'i love unicorns and rainbows!', wtf could be err.. 'my cat's name is mittens'.  whatever floats your boat.[/quote:2ecznchh]
 
@@ -280,7 +280,7 @@ and Nacosto will be used instead of...  die all of you skanky rat bastards!
 
 </div>
 
-<div class="post" data-post-id="13648" data-author="Qa" data-date="2006-07-31T18:11:54+00:00">
+<div class="post" data-post-id="13648" data-author="Qa" data-date="2006-07-31T18:11:54+00:00" data-subject="">
 
 I don't care for the use of STFU or WTF on gossip.  In my opinion, it should be prosecuted the same as the F word - a warning, a no shout and then escalation.  I do use profanities liberally on private channels, and think they should be allowed.
 
@@ -290,13 +290,13 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="13649" data-author="Mustang" data-date="2006-08-01T04:30:06+00:00">
+<div class="post" data-post-id="13649" data-author="Mustang" data-date="2006-08-01T04:30:06+00:00" data-subject="">
 
 STFU, thank you.
 
 </div>
 
-<div class="post" data-post-id="13652" data-author="banedon" data-date="2006-08-01T15:36:08+00:00">
+<div class="post" data-post-id="13652" data-author="banedon" data-date="2006-08-01T15:36:08+00:00" data-subject="">
 
 I've been off and on of SlothIII for several years as a different character, and have lurked on the forums for just as long and felt it was time to break the silence.  As far as I'm concerned, STFU, WTF and the like are no more than everyday comments, usually between people who either know each other outside of Sloth or have become friends online.  I rarely see someone getting pissed off and starting to blast everyone with F-bombs, usually its someone giving a friend a load of crap and being told to STFU in a joking, playful manner.
 
@@ -310,7 +310,7 @@ remember: that which does not kill you makes you crazier
 
 </div>
 
-<div class="post" data-post-id="13653" data-author="Weasel" data-date="2006-08-01T16:33:14+00:00">
+<div class="post" data-post-id="13653" data-author="Weasel" data-date="2006-08-01T16:33:14+00:00" data-subject="">
 
 yes, replacement triggers are a good idea..
 
@@ -326,7 +326,7 @@ Autolycos gossips -- I'm ugly and my mother dresses me funny!
 
 </div>
 
-<div class="post" data-post-id="13655" data-author="Autolycos" data-date="2006-08-01T17:31:08+00:00">
+<div class="post" data-post-id="13655" data-author="Autolycos" data-date="2006-08-01T17:31:08+00:00" data-subject="">
 
 yes, replacement triggers are a good idea..
 
@@ -350,13 +350,13 @@ heh
 
 </div>
 
-<div class="post" data-post-id="13656" data-author="Weasel" data-date="2006-08-01T20:23:07+00:00">
+<div class="post" data-post-id="13656" data-author="Weasel" data-date="2006-08-01T20:23:07+00:00" data-subject="">
 
 hehe
 
 </div>
 
-<div class="post" data-post-id="13657" data-author="Autolycos" data-date="2006-08-01T20:50:58+00:00">
+<div class="post" data-post-id="13657" data-author="Autolycos" data-date="2006-08-01T20:50:58+00:00" data-subject="">
 
 [img:3sm0wai0]http://www.xgenco.com/sloth3/pissedweasel.jpg[/img:3sm0wai0]
 
@@ -364,7 +364,7 @@ cackle  :twisted:
 
 </div>
 
-<div class="post" data-post-id="13659" data-author="Clink" data-date="2006-08-01T21:17:47+00:00">
+<div class="post" data-post-id="13659" data-author="Clink" data-date="2006-08-01T21:17:47+00:00" data-subject="">
 
 As probably noted in the other threads on this and very similar topics, we have a censor feature on gossip so that we don't have to have as many arbitrary enforcements of rules about acceptable and unacceptable language on public channels.  Clearly STFU and WTF are not on the censor lists or this discussion would be mute.
 
@@ -380,7 +380,7 @@ Clink, the baddest MF admin in the whole GD mud!
 
 </div>
 
-<div class="post" data-post-id="13660" data-author="Corinn" data-date="2006-08-02T03:11:06+00:00">
+<div class="post" data-post-id="13660" data-author="Corinn" data-date="2006-08-02T03:11:06+00:00" data-subject="">
 
 I think I'm going to start worshipping Clink now, how do you get to that temple?   :P 
 
@@ -392,7 +392,7 @@ Love and Kisses,
 
 </div>
 
-<div class="post" data-post-id="13661" data-author="Autolycos" data-date="2006-08-02T11:40:23+00:00">
+<div class="post" data-post-id="13661" data-author="Autolycos" data-date="2006-08-02T11:40:23+00:00" data-subject="">
 
 heh, thanx..
 
@@ -400,7 +400,7 @@ forget clink...  i need to buy and build my own temple.. and when you come to it
 
 </div>
 
-<div class="post" data-post-id="13680" data-author="Alberich" data-date="2006-08-04T16:31:49+00:00">
+<div class="post" data-post-id="13680" data-author="Alberich" data-date="2006-08-04T16:31:49+00:00" data-subject="">
 
 so which one of you works at the Ohio DMV?
 
@@ -408,13 +408,13 @@ so which one of you works at the Ohio DMV?
 
 </div>
 
-<div class="post" data-post-id="13682" data-author="Autolycos" data-date="2006-08-04T18:38:15+00:00">
+<div class="post" data-post-id="13682" data-author="Autolycos" data-date="2006-08-04T18:38:15+00:00" data-subject="">
 
 thats great!   i would love to have a plate that says  USTFU!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="13683" data-author="Hades" data-date="2006-08-05T11:58:59+00:00">
+<div class="post" data-post-id="13683" data-author="Hades" data-date="2006-08-05T11:58:59+00:00" data-subject="Pirates should never offer censorship advice">
 
 [http://www.youtube.com/watch?v=8h0jAfmdnRA](http://www.youtube.com/watch?v=8h0jAfmdnRA)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31752" data-author="Dragoth" data-date="2010-09-14T07:21:20+00:00">
+<div class="post" data-post-id="31752" data-author="Dragoth" data-date="2010-09-14T07:21:20+00:00" data-subject="Specs disappearing">
 
 Is it possible to please make chop weapons not disappear on reboots and crashes when they are in use and in inventory ? Spend hours popping specs then it crashes and its all over before you could start.
 
@@ -20,7 +20,7 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="31753" data-author="jezer" data-date="2010-09-14T09:54:39+00:00">
+<div class="post" data-post-id="31753" data-author="jezer" data-date="2010-09-14T09:54:39+00:00" data-subject="Re: Specs disappearing">
 
 On the subject of chop, immortals, thanks for making the changes to make it worth doing. I really enjoyed the chop groups today.
 
@@ -28,7 +28,7 @@ And yeah, one of the choppers poofing was my bad.
 
 </div>
 
-<div class="post" data-post-id="31754" data-author="*Splork*" data-date="2010-09-14T10:24:54+00:00">
+<div class="post" data-post-id="31754" data-author="*Splork*" data-date="2010-09-14T10:24:54+00:00" data-subject="Re: Specs disappearing">
 
 Poofs will always disappear on crash/reboot. This helps keep this aspect of the game balanced.
 

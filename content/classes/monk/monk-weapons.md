@@ -10,7 +10,7 @@ locked: false
 post_count: 25
 ---
 
-<div class="post" data-post-id="19302" data-author="Modello" data-date="2007-07-19T00:59:35+00:00">
+<div class="post" data-post-id="19302" data-author="Modello" data-date="2007-07-19T00:59:35+00:00" data-subject="Monk Weapons">
 
 I'd like to open discussion and conduct a poll....... the topic is monk weapons.
 
@@ -34,13 +34,13 @@ P.S.  Nunchaku are a must!!!
 
 </div>
 
-<div class="post" data-post-id="19303" data-author="Yinao" data-date="2007-07-19T01:06:31+00:00">
+<div class="post" data-post-id="19303" data-author="Yinao" data-date="2007-07-19T01:06:31+00:00" data-subject="">
 
 Personally I dont have a monk but it would be a nice idea, however some ideas for thoughts are would you need to remove the "monk weapon" for things like deathgrip or deathtouch. You mentioned strike, flurry,and stun, just trying to grasp on what and what not would be available. All in all I think its a nice idea.
 
 </div>
 
-<div class="post" data-post-id="19306" data-author="13" data-date="2007-07-19T04:24:34+00:00">
+<div class="post" data-post-id="19306" data-author="13" data-date="2007-07-19T04:24:34+00:00" data-subject="">
 
 You wouldn't have to remove shit.  Use a garrote technique or even have it as a monk skill at low avatar = the ability to use monk weaps, kamas, sais, bo staff, nunchaku, nekode, cesti, katars...get down.  I want a phone cord.
 
@@ -48,7 +48,7 @@ This is a great idea I 100% approve.
 
 </div>
 
-<div class="post" data-post-id="19307" data-author="banedon" data-date="2007-07-19T06:00:36+00:00">
+<div class="post" data-post-id="19307" data-author="banedon" data-date="2007-07-19T06:00:36+00:00" data-subject="">
 
 I do play a monk prime, and I think this is a helluva good idea.  From the way I've always seen it interpeted, striking weapons like staves and nunchaku could be used with strike or stun, because its a monk's knowledge of vital spots that allows them to use these skills, and the weapon just gives them a little breathing room compared to bare hands.
 
@@ -60,13 +60,13 @@ Banedon
 
 </div>
 
-<div class="post" data-post-id="19308" data-author="Weasel" data-date="2007-07-19T10:31:38+00:00">
+<div class="post" data-post-id="19308" data-author="Weasel" data-date="2007-07-19T10:31:38+00:00" data-subject="">
 
 Just a thought based on what was just said about the weapon giving a little room.. perhaps a wielded staff, while not increasing damage in any way, could work like a very mild form of parry in that it keeps the mob at bay somewhat, causing them to miss a blow every now and then as it is 'blocked' from connecting by the staff..
 
 </div>
 
-<div class="post" data-post-id="19310" data-author="alias" data-date="2007-07-20T14:28:22+00:00">
+<div class="post" data-post-id="19310" data-author="alias" data-date="2007-07-20T14:28:22+00:00" data-subject="">
 
 Its all about style points, put some nice looking weapons in there for monks.
 
@@ -78,7 +78,7 @@ alias
 
 </div>
 
-<div class="post" data-post-id="19311" data-author="Autolycos" data-date="2007-07-20T18:12:15+00:00">
+<div class="post" data-post-id="19311" data-author="Autolycos" data-date="2007-07-20T18:12:15+00:00" data-subject="">
 
 I'd have to agree it would be a cool addition.  Even if they only had a proc like curse/damn or blind etc. it would be neat to see..
 
@@ -92,7 +92,7 @@ that would really breathe new creative arts to killing Yasik.   FUN! :twisted:
 
 </div>
 
-<div class="post" data-post-id="19312" data-author="Medios" data-date="2007-07-20T19:39:08+00:00">
+<div class="post" data-post-id="19312" data-author="Medios" data-date="2007-07-20T19:39:08+00:00" data-subject="">
 
 Monk weapons with +hit.
 
@@ -100,7 +100,7 @@ Gravy.
 
 </div>
 
-<div class="post" data-post-id="19313" data-author="Leaf" data-date="2007-07-20T21:38:32+00:00">
+<div class="post" data-post-id="19313" data-author="Leaf" data-date="2007-07-20T21:38:32+00:00" data-subject="">
 
 Maybe they will update the 3x40 with some Prime Eq first.
 
@@ -108,7 +108,7 @@ Monk Hand Dam Gloves would be rockin!
 
 </div>
 
-<div class="post" data-post-id="19314" data-author="Akasha" data-date="2007-07-20T22:14:07+00:00">
+<div class="post" data-post-id="19314" data-author="Akasha" data-date="2007-07-20T22:14:07+00:00" data-subject="">
 
 Hello?  Is this still Sloth?  I think a virus changed the bookmark of this website... never have I seen ppl on Sloth agree about anything..
 
@@ -118,7 +118,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="19316" data-author="Tap" data-date="2007-07-21T00:32:00+00:00">
+<div class="post" data-post-id="19316" data-author="Tap" data-date="2007-07-21T00:32:00+00:00" data-subject="Akasha">
 
 So your'e just gonna remove my post instead of explaining why other char's who have posted alot worse  pic's/offensive language haven't been bothered with? Admit it... who has pull with you?... just curious.  Again.. akasha bans me from crier for posting a stringline of weasels from hunting yet other people who have posted pics and/or use offensive words haven't even be given even as much as a slap on the wrist.
 
@@ -128,7 +128,7 @@ Nice Job
 
 </div>
 
-<div class="post" data-post-id="19317" data-author="Akasha" data-date="2007-07-21T01:09:11+00:00">
+<div class="post" data-post-id="19317" data-author="Akasha" data-date="2007-07-21T01:09:11+00:00" data-subject="">
 
 I'm not getting into a public battle of insults or explanations.  Post something constructive and "on-topic" instead of spamming every topic with useless garbage and we'll talk.
 
@@ -140,19 +140,19 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="19318" data-author="Yinao" data-date="2007-07-21T01:38:39+00:00">
+<div class="post" data-post-id="19318" data-author="Yinao" data-date="2007-07-21T01:38:39+00:00" data-subject="">
 
 Way to go! Sorry but R.I.P  :twisted:  :twisted:  :twisted:
 
 </div>
 
-<div class="post" data-post-id="19319" data-author="Weasel" data-date="2007-07-21T01:59:52+00:00">
+<div class="post" data-post-id="19319" data-author="Weasel" data-date="2007-07-21T01:59:52+00:00" data-subject="">
 
 bwah! nice move Akasha!
 
 </div>
 
-<div class="post" data-post-id="19343" data-author="13" data-date="2007-07-22T06:07:23+00:00">
+<div class="post" data-post-id="19343" data-author="13" data-date="2007-07-22T06:07:23+00:00" data-subject="">
 
 was it hades that got banned?
 
@@ -162,7 +162,7 @@ Gauntlets of the Yellow Rose
 
 </div>
 
-<div class="post" data-post-id="19348" data-author="Tap" data-date="2007-07-22T13:03:31+00:00">
+<div class="post" data-post-id="19348" data-author="Tap" data-date="2007-07-22T13:03:31+00:00" data-subject="">
 
 Nope.. not a troll but a phoenix
 
@@ -182,7 +182,7 @@ flame on
 
 </div>
 
-<div class="post" data-post-id="19369" data-author="Leaf" data-date="2007-07-23T15:37:49+00:00">
+<div class="post" data-post-id="19369" data-author="Leaf" data-date="2007-07-23T15:37:49+00:00" data-subject="">
 
 was it hades that got banned?
 
@@ -202,7 +202,7 @@ gay stuff AA ... anal beads is what u were thinking!)
 
 </div>
 
-<div class="post" data-post-id="27633" data-author="Teron" data-date="2009-01-05T17:45:29+00:00">
+<div class="post" data-post-id="27633" data-author="Teron" data-date="2009-01-05T17:45:29+00:00" data-subject="">
 
 Any imm opinions on this? It'd be fun to use weapons as a monk. 
 
@@ -210,7 +210,7 @@ Possibly, by adding +1/2hit, +1/2dam, skill procs (trip, strike, blind, etc) or 
 
 </div>
 
-<div class="post" data-post-id="27644" data-author="Weasel" data-date="2009-01-06T00:42:31+00:00">
+<div class="post" data-post-id="27644" data-author="Weasel" data-date="2009-01-06T00:42:31+00:00" data-subject="">
 
 I thought one of the major 'things' about monks was their bare handed fighting skills like deathgrip, counterattack etc (I don't play monk so whatever).. but if you want to use weapons, seems to me you should be playing a warrior prime. Or lose some monk bare-handed fighting skills.
 
@@ -218,13 +218,13 @@ I thought one of the major 'things' about monks was their bare handed fighting s
 
 </div>
 
-<div class="post" data-post-id="27681" data-author="Brujah" data-date="2009-01-10T18:46:12+00:00">
+<div class="post" data-post-id="27681" data-author="Brujah" data-date="2009-01-10T18:46:12+00:00" data-subject="">
 
 Saying this as a monk: Giev nunchakas and shurikens pls kk? :)
 
 </div>
 
-<div class="post" data-post-id="27682" data-author="Vixn" data-date="2009-01-10T21:11:30+00:00">
+<div class="post" data-post-id="27682" data-author="Vixn" data-date="2009-01-10T21:11:30+00:00" data-subject="">
 
 Saying this as a monk: Giev nunchakas and shurikens pls kk? :)[/quote:197hw1qm]
 
@@ -234,19 +234,19 @@ I bet 'nunchakas' must have proc to hit monk's balls.
 
 </div>
 
-<div class="post" data-post-id="27684" data-author="Brujah" data-date="2009-01-11T01:14:43+00:00">
+<div class="post" data-post-id="27684" data-author="Brujah" data-date="2009-01-11T01:14:43+00:00" data-subject="">
 
 [http://www.youtube.com/watch?v=_tSDd9sR1tc](http://www.youtube.com/watch?v=_tSDd9sR1tc)
 
 </div>
 
-<div class="post" data-post-id="27685" data-author="marge" data-date="2009-01-11T12:52:55+00:00">
+<div class="post" data-post-id="27685" data-author="marge" data-date="2009-01-11T12:52:55+00:00" data-subject="">
 
 I wish the monk skill stun worked better. Currently it seems it successfully stuns less than the warrior skill broadside does.
 
 </div>
 
-<div class="post" data-post-id="27705" data-author="Brujah" data-date="2009-01-13T16:24:03+00:00">
+<div class="post" data-post-id="27705" data-author="Brujah" data-date="2009-01-13T16:24:03+00:00" data-subject="">
 
 I wish the monk skill stun worked better. Currently it seems it successfully stuns less than the warrior skill broadside does.[/quote:sekxhpmg]
 
@@ -260,7 +260,7 @@ Stun % should be raised [b:sekxhpmg]considerably[/b:sekxhpmg] to make it any wor
 
 </div>
 
-<div class="post" data-post-id="27708" data-author="Weasel" data-date="2009-01-13T23:32:21+00:00">
+<div class="post" data-post-id="27708" data-author="Weasel" data-date="2009-01-13T23:32:21+00:00" data-subject="">
 
 I wish the monk skill stun worked better. Currently it seems it successfully stuns less than the warrior skill broadside does.[/quote:1ls9f9o3]
 

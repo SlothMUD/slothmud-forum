@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="27317" data-author="Yasik2" data-date="2008-11-30T05:27:46+00:00">
+<div class="post" data-post-id="27317" data-author="Yasik2" data-date="2008-11-30T05:27:46+00:00" data-subject="Request to fix a &#x27;feature&#x27;">
 
 <664hp 207ma 285mv> -5 [overcast] AC: -11.0   EXP: 1,881,191,175   COINS: 4,817,978[/color:209ds1jk]
 
@@ -72,7 +72,7 @@ It's hard to get rid of trolls nowadays.
 
 </div>
 
-<div class="post" data-post-id="27318" data-author="Vixn" data-date="2008-11-30T06:04:41+00:00">
+<div class="post" data-post-id="27318" data-author="Vixn" data-date="2008-11-30T06:04:41+00:00" data-subject="Re: Request to fix a &#x27;feature&#x27;">
 
 <664hp 207ma 285mv> -5 [overcast] AC: -11.0   EXP: 1,881,191,175   COINS: 4,817,978[/quote:3gm5y0bd]
 
@@ -80,7 +80,7 @@ It's hard to get rid of trolls nowadays.
 
 </div>
 
-<div class="post" data-post-id="27320" data-author="Yasik2" data-date="2008-11-30T06:36:12+00:00">
+<div class="post" data-post-id="27320" data-author="Yasik2" data-date="2008-11-30T06:36:12+00:00" data-subject="Re: Request to fix a &#x27;feature&#x27;">
 
 -5 in your prompt might be your hitroll, huh?  :lol:[/quote:278i3v0t]
 

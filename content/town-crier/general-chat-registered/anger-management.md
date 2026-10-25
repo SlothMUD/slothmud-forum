@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="9059" data-author="firebrand" data-date="2005-10-14T22:33:18+00:00">
+<div class="post" data-post-id="9059" data-author="firebrand" data-date="2005-10-14T22:33:18+00:00" data-subject="Anger Management">
 
 hehe someone emailed me this:
 
@@ -114,7 +114,7 @@ six squad cars, a police helicopter and a news crew.  NOW I feel much better. Yo
 
 </div>
 
-<div class="post" data-post-id="9060" data-author="Weasel" data-date="2005-10-14T23:00:45+00:00">
+<div class="post" data-post-id="9060" data-author="Weasel" data-date="2005-10-14T23:00:45+00:00" data-subject="">
 
 heh, yeah a classic - have had that on my website for a few years - interesting to see how little details of the story change over time though. :)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="35197" data-author="Yasik" data-date="2014-05-30T09:44:39+00:00">
+<div class="post" data-post-id="35197" data-author="Yasik" data-date="2014-05-30T09:44:39+00:00" data-subject="Hunger games on VK">
 
 Its something broke itself on its own, or food store moved to another vendor?
 
@@ -88,7 +88,7 @@ PS. In her responce, after "sorry" should be a comma, no?
 
 </div>
 
-<div class="post" data-post-id="35198" data-author="Yasik" data-date="2014-05-30T09:49:18+00:00">
+<div class="post" data-post-id="35198" data-author="Yasik" data-date="2014-05-30T09:49:18+00:00" data-subject="Re: Hunger games on VK">
 
 Found temporary solution, but still...
 
@@ -178,7 +178,7 @@ You eat a soft bun.**
 
 </div>
 
-<div class="post" data-post-id="35737" data-author="Yasik" data-date="2015-03-12T08:58:00+00:00">
+<div class="post" data-post-id="35737" data-author="Yasik" data-date="2015-03-12T08:58:00+00:00" data-subject="Re: Hunger games on VK">
 
 What do I do wrong ?
 
@@ -276,7 +276,7 @@ BTW, vendors still running out of money and refure to buy things. I'm not sure i
 
 </div>
 
-<div class="post" data-post-id="35738" data-author="*Breeze*" data-date="2015-03-12T09:09:36+00:00">
+<div class="post" data-post-id="35738" data-author="*Breeze*" data-date="2015-03-12T09:09:36+00:00" data-subject="Re: Hunger games on VK">
 
 you are trying to buy 6 kender rations
 
@@ -284,7 +284,7 @@ you are trying to buy 6 kender rations
 
 </div>
 
-<div class="post" data-post-id="35741" data-author="*juggleblood*" data-date="2015-03-12T16:22:11+00:00">
+<div class="post" data-post-id="35741" data-author="*juggleblood*" data-date="2015-03-12T16:22:11+00:00" data-subject="Re: Hunger games on VK">
 
 > **Yasik wrote:**
 > Mikala tells you 'I'm sorry sir, I am currently out of those.'
@@ -309,7 +309,7 @@ The pedant in me prefers the semicolon, because it is arguably a textbook exampl
 
 </div>
 
-<div class="post" data-post-id="35742" data-author="*Breeze*" data-date="2015-03-12T16:26:30+00:00">
+<div class="post" data-post-id="35742" data-author="*Breeze*" data-date="2015-03-12T16:26:30+00:00" data-subject="Re: Hunger games on VK">
 
 /begin annoy jb :)
 
@@ -319,7 +319,7 @@ knock urself out. iirc u shud b abl 2 chng that urself.
 
 </div>
 
-<div class="post" data-post-id="35743" data-author="Yasik" data-date="2015-03-12T16:33:05+00:00">
+<div class="post" data-post-id="35743" data-author="Yasik" data-date="2015-03-12T16:33:05+00:00" data-subject="Re: Hunger games on VK">
 
 Ideas:  newly sold items appear at the bottom of the list.
 
@@ -329,7 +329,7 @@ The comma is needed. At current spelling we learn that Mikala is a sorry (pained
 
 </div>
 
-<div class="post" data-post-id="35744" data-author="*juggleblood*" data-date="2015-03-12T16:38:12+00:00">
+<div class="post" data-post-id="35744" data-author="*juggleblood*" data-date="2015-03-12T16:38:12+00:00" data-subject="Re: Hunger games on VK">
 
 > **Yasik wrote:**
 > The comma is needed. At current spelling we learn that Mikala is a sorry (pained, grieved, chagrined, disappointed, afflicted, regretful, rueful, remorseful) sir (lord, master, gentleman, mister, governor).
@@ -338,7 +338,7 @@ I'm sorry. I don't see the indefinite article "a" which you refer to. If it exis
 
 </div>
 
-<div class="post" data-post-id="35748" data-author="Yasik" data-date="2015-03-13T16:18:21+00:00">
+<div class="post" data-post-id="35748" data-author="Yasik" data-date="2015-03-13T16:18:21+00:00" data-subject="Re: Hunger games on VK">
 
 [http://www.grammarbook.com/punctuation/commas.asp](http://www.grammarbook.com/punctuation/commas.asp)
 
@@ -360,7 +360,7 @@ Thank you, sir, very much.
 
 </div>
 
-<div class="post" data-post-id="35751" data-author="*juggleblood*" data-date="2015-03-14T12:06:41+00:00">
+<div class="post" data-post-id="35751" data-author="*juggleblood*" data-date="2015-03-14T12:06:41+00:00" data-subject="Re: Hunger games on VK">
 
 Yes those examples are correct. However, in the original example we have two separate independent clauses each with its own subject and its own verb. (Subject 1: I Verb 1: am Subject 2: I Verb 2: am)
 
@@ -378,7 +378,7 @@ Therefore, if you were to connect them with a comma, it would be a comma splice.
 
 </div>
 
-<div class="post" data-post-id="35755" data-author="Yasik" data-date="2015-03-15T09:57:40+00:00">
+<div class="post" data-post-id="35755" data-author="Yasik" data-date="2015-03-15T09:57:40+00:00" data-subject="Re: Hunger games on VK">
 
 Let's cut off "sorry sir" part and leave with "I am currently out of those.", or any re-phrased variance.
 

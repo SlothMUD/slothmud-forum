@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="35357" data-author="Thraxas" data-date="2014-06-28T09:42:47+00:00">
+<div class="post" data-post-id="35357" data-author="Thraxas" data-date="2014-06-28T09:42:47+00:00" data-subject="Sloth Up / Down?">
 
 Anyone able to confirm if sloth is up / down atm? 
 
@@ -22,7 +22,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="35358" data-author="*Breeze*" data-date="2014-06-28T10:01:37+00:00">
+<div class="post" data-post-id="35358" data-author="*Breeze*" data-date="2014-06-28T10:01:37+00:00" data-subject="Re: Sloth Up / Down?">
 
 Start time was:    Sun Jun 15 14:38:40 2014 (local)
 
@@ -34,7 +34,7 @@ if anyone else has trouble i can reboot it later if someone emails me.
 
 </div>
 
-<div class="post" data-post-id="35359" data-author="Thraxas" data-date="2014-06-28T11:05:47+00:00">
+<div class="post" data-post-id="35359" data-author="Thraxas" data-date="2014-06-28T11:05:47+00:00" data-subject="Re: Sloth Up / Down?">
 
 Seems I can connect now - not sure if thats something you did (if so thanks) or just a local issue here.
 

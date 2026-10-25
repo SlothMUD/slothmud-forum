@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="36652" data-author="Teron" data-date="2016-02-27T00:07:06+00:00">
+<div class="post" data-post-id="36652" data-author="Teron" data-date="2016-02-27T00:07:06+00:00" data-subject="A gossip from the Shadow Realm">
 
 I have found a temporary scroll in the Shadow Realm that read this:
 
@@ -101,7 +101,7 @@ Cheers.
 
 </div>
 
-<div class="post" data-post-id="36663" data-author="Yasik" data-date="2016-02-28T11:09:38+00:00">
+<div class="post" data-post-id="36663" data-author="Yasik" data-date="2016-02-28T11:09:38+00:00" data-subject="Re: A gossip from the Shadow Realm">
 
 Gates of oblivion *and* gates of hell - at the same place and time, hmmm...
 

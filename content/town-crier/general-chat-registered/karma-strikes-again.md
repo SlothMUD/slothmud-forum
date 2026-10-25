@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="23527" data-author="Yinao" data-date="2008-04-01T06:17:44+00:00">
+<div class="post" data-post-id="23527" data-author="Yinao" data-date="2008-04-01T06:17:44+00:00" data-subject="Karma STRIKES AGAIN!">
 
 Toxis -- '*DaWarriAh* god damn I'm a good tank'
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="30616" data-author="*juggleblood*" data-date="2010-01-10T17:26:46+00:00">
+<div class="post" data-post-id="30616" data-author="*juggleblood*" data-date="2010-01-10T17:26:46+00:00" data-subject="Random things that make me angry.">
 
 When the cashier at dollar general smells like a homeless person.
 
@@ -32,7 +32,7 @@ When someone responds 'fine, thank you'  to 'hello or howdy'.
 
 </div>
 
-<div class="post" data-post-id="30618" data-author="Vixn" data-date="2010-01-10T20:15:26+00:00">
+<div class="post" data-post-id="30618" data-author="Vixn" data-date="2010-01-10T20:15:26+00:00" data-subject="Re: Random things that make me angry.">
 
 When a woman tells you she's on the pill, but isn't.[/quote:v67jcz0f]
 
@@ -46,7 +46,7 @@ Kida.
 
 </div>
 
-<div class="post" data-post-id="30625" data-author="Thraxas" data-date="2010-01-10T23:36:02+00:00">
+<div class="post" data-post-id="30625" data-author="Thraxas" data-date="2010-01-10T23:36:02+00:00" data-subject="Re: Random things that make me angry.">
 
 When someone responds 'fine, thank you'  to 'hello or howdy'.[/quote:3mn6xld1]
 
@@ -60,7 +60,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30643" data-author="Vixn" data-date="2010-01-11T18:57:02+00:00">
+<div class="post" data-post-id="30643" data-author="Vixn" data-date="2010-01-11T18:57:02+00:00" data-subject="">
 
 As I know 'howdy' stays for 'how do you do?' and the right answer is 'how do you do?' w/o any explanation. So it seems you don't really care how does the person do - it's just some sort of stock phrase.
 
@@ -70,7 +70,7 @@ Kida.
 
 </div>
 
-<div class="post" data-post-id="30644" data-author="Thraxas" data-date="2010-01-12T00:18:19+00:00">
+<div class="post" data-post-id="30644" data-author="Thraxas" data-date="2010-01-12T00:18:19+00:00" data-subject="">
 
 As I know 'howdy' stays for 'how do you do?' and the right answer is 'how do you do?' w/o any explanation. So it seems you don't really care how does the person do - it's just some sort of stock phrase.
 
@@ -84,7 +84,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30645" data-author="Thraxas" data-date="2010-01-12T00:19:42+00:00">
+<div class="post" data-post-id="30645" data-author="Thraxas" data-date="2010-01-12T00:19:42+00:00" data-subject="">
 
 Random things that make me angry? Big piles of corpses (unless they're in my robe)
 

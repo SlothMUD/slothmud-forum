@@ -10,13 +10,13 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="38121" data-author="*teker*" data-date="2017-03-17T17:22:18+00:00">
+<div class="post" data-post-id="38121" data-author="*teker*" data-date="2017-03-17T17:22:18+00:00" data-subject="What would be a good new item?">
 
 You know, you're putting together that killer set of equipment but there's one thing missing that doesn't exist in the game.  What is it?
 
 </div>
 
-<div class="post" data-post-id="38123" data-author="Filk" data-date="2017-03-17T18:08:43+00:00">
+<div class="post" data-post-id="38123" data-author="Filk" data-date="2017-03-17T18:08:43+00:00" data-subject="Re: What would be a good new item?">
 
 Permanent shift weapon!
 
@@ -24,7 +24,7 @@ Or some interesting non-combat clasp on a weapon. Like mr, or mana, or healing o
 
 </div>
 
-<div class="post" data-post-id="38124" data-author="Gorka" data-date="2017-03-17T21:13:27+00:00">
+<div class="post" data-post-id="38124" data-author="Gorka" data-date="2017-03-17T21:13:27+00:00" data-subject="Re: What would be a good new item?">
 
 Can you be more specific? Drachma/3x40/Clasp/regular item?
 
@@ -34,7 +34,7 @@ The needs differ greatly and at different stages. How long is a piece of string?
 
 </div>
 
-<div class="post" data-post-id="38126" data-author="*teker*" data-date="2017-03-17T21:38:51+00:00">
+<div class="post" data-post-id="38126" data-author="*teker*" data-date="2017-03-17T21:38:51+00:00" data-subject="Re: What would be a good new item?">
 
 > **Quote:**
 > Can you be more specific? Drachma/3x40/Clasp/regular item?
@@ -48,7 +48,7 @@ If you think there's an item missing for any of those groups, tell me what it is
 
 </div>
 
-<div class="post" data-post-id="38127" data-author="Gorka" data-date="2017-03-17T22:09:14+00:00">
+<div class="post" data-post-id="38127" data-author="Gorka" data-date="2017-03-17T22:09:14+00:00" data-subject="Re: What would be a good new item?">
 
 Weapon damage. There are only 8 items in game... 2 are high end drachma. Only 2 pieces have restricts less than 3x40 and they share the same slot.
 
@@ -58,7 +58,7 @@ Perhaps regular players can suggest regular items better... Most Lifers will fin
 
 </div>
 
-<div class="post" data-post-id="38128" data-author="Teron" data-date="2017-03-18T06:08:13+00:00">
+<div class="post" data-post-id="38128" data-author="Teron" data-date="2017-03-18T06:08:13+00:00" data-subject="Re: What would be a good new item?">
 
 I have uh, a few eq sets and a few chars, so here's what I'd need across them:
 
@@ -126,7 +126,7 @@ There are also a few items more suggested [here](https://docs.google.com/spreads
 
 </div>
 
-<div class="post" data-post-id="38178" data-author="Hermoon" data-date="2017-03-28T18:19:18+00:00">
+<div class="post" data-post-id="38178" data-author="Hermoon" data-date="2017-03-28T18:19:18+00:00" data-subject="Re: What would be a good new item?">
 
 Well, I shall steer away from discussing the best way for people to have their slots filled with powerful, humming items!  :shock: 
 
@@ -134,13 +134,13 @@ What's missing is a decent handbag with compartments for holding different types
 
 </div>
 
-<div class="post" data-post-id="38179" data-author="Gorka" data-date="2017-03-28T18:54:44+00:00">
+<div class="post" data-post-id="38179" data-author="Gorka" data-date="2017-03-28T18:54:44+00:00" data-subject="Re: What would be a good new item?">
 
 ![](https://img1.etsystatic.com/018/0/6283471/il_340x270.542952035_bqa7.jpg)
 
 </div>
 
-<div class="post" data-post-id="38186" data-author="Ker" data-date="2017-03-29T14:00:34+00:00">
+<div class="post" data-post-id="38186" data-author="Ker" data-date="2017-03-29T14:00:34+00:00" data-subject="Re: What would be a good new item?">
 
 Good day,
 
@@ -158,7 +158,7 @@ Yay! Dr
 
 </div>
 
-<div class="post" data-post-id="38189" data-author="Vegetable" data-date="2017-03-29T22:08:10+00:00">
+<div class="post" data-post-id="38189" data-author="Vegetable" data-date="2017-03-29T22:08:10+00:00" data-subject="Re: What would be a good new item?">
 
 I agree, instead of adding new gear, maybe update the old drachma gear which somewhere became "obsolete". Updating these gears will raise the "ceiling" for the normal gear which will open up more options for new items in the future.
 
@@ -166,13 +166,13 @@ There should probably be a dedicated or few admin focusing on eq (general eq and
 
 </div>
 
-<div class="post" data-post-id="38193" data-author="Tuck" data-date="2017-03-30T19:03:53+00:00">
+<div class="post" data-post-id="38193" data-author="Tuck" data-date="2017-03-30T19:03:53+00:00" data-subject="Re: What would be a good new item?">
 
 please add more spellsave eq. thanks
 
 </div>
 
-<div class="post" data-post-id="38194" data-author="war" data-date="2017-03-30T20:46:06+00:00">
+<div class="post" data-post-id="38194" data-author="war" data-date="2017-03-30T20:46:06+00:00" data-subject="Re: What would be a good new item?">
 
 This is just a thought 
 
@@ -190,7 +190,7 @@ If its something that will happen hit me up I have some ideas on mobs and eq for
 
 </div>
 
-<div class="post" data-post-id="38211" data-author="Belrath" data-date="2017-04-10T00:56:30+00:00">
+<div class="post" data-post-id="38211" data-author="Belrath" data-date="2017-04-10T00:56:30+00:00" data-subject="Re: What would be a good new item?">
 
 <used as light>      an old copper lantern (with a flawed glowing gem attached to it)
 
@@ -200,7 +200,7 @@ I rest my case.
 
 </div>
 
-<div class="post" data-post-id="38233" data-author="Marvel" data-date="2017-05-04T12:06:33+00:00">
+<div class="post" data-post-id="38233" data-author="Marvel" data-date="2017-05-04T12:06:33+00:00" data-subject="Re: What would be a good new item?">
 
 I know I haven't been around lately (life changes), but thought I would clarify that drachma equipment is not the ceiling. Quest and forge equipment can exceed drachma equipment. As to the comment about physical versus what, I don't know, druid or mage equipment - there are only so many options you have on the side that uses mana. The variety comes from the spells there. Everyone needs ac somehow, whether it be from equipment, forms, mirrors, or drafting flunkies. I'm not trying to be vague here, but drachma equipment has to follow certain guidelines. They also aren't supposed to be the best of the best also.
 

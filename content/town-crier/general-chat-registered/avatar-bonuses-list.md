@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="32826" data-author="Cizin" data-date="2011-08-20T17:16:54+00:00">
+<div class="post" data-post-id="32826" data-author="Cizin" data-date="2011-08-20T17:16:54+00:00" data-subject="Avatar bonuses list">
 
 ************************** Primary Stats (cumulative) **************************
 
@@ -94,7 +94,7 @@ stalk                    -  3 experience tokens, and 10000000 coins.
 
 </div>
 
-<div class="post" data-post-id="32827" data-author="jezer" data-date="2011-08-20T21:52:02+00:00">
+<div class="post" data-post-id="32827" data-author="jezer" data-date="2011-08-20T21:52:02+00:00" data-subject="Re: Avatar bonuses list">
 
 First of all congratulations Cizin.
 
@@ -144,7 +144,7 @@ Perm Spells are roughly Spell Duration and Mana Cost then Refer to Mana Regen Co
 
 </div>
 
-<div class="post" data-post-id="32828" data-author="jezer" data-date="2011-08-20T22:17:25+00:00">
+<div class="post" data-post-id="32828" data-author="jezer" data-date="2011-08-20T22:17:25+00:00" data-subject="Re: Avatar bonuses list">
 
 To state the obvious dexterity is missing from the core stats part of the shop.
 
@@ -160,7 +160,7 @@ If there aren't changes to this menu, I will produce a list for everyone showing
 
 </div>
 
-<div class="post" data-post-id="32829" data-author="Cizin" data-date="2011-08-20T22:24:31+00:00">
+<div class="post" data-post-id="32829" data-author="Cizin" data-date="2011-08-20T22:24:31+00:00" data-subject="Re: Avatar bonuses list">
 
 Dexterity is not shown because i have already maxed it  (18). All my other nat stats are < 18 and therefore shown on the list.
 
@@ -168,7 +168,7 @@ As for the shop inventory - no comment .)
 
 </div>
 
-<div class="post" data-post-id="32830" data-author="jezer" data-date="2011-08-20T22:38:18+00:00">
+<div class="post" data-post-id="32830" data-author="jezer" data-date="2011-08-20T22:38:18+00:00" data-subject="Re: Avatar bonuses list">
 
 I was thinking why dex was not shown on the menu while taking a drink, and I choked on it when I realised you must have had 18 dex and was coming back to change my post when I saw you had bet me to it!
 
@@ -178,7 +178,7 @@ It will be interesting when you buy stuff to see if it tells you, you have purch
 
 </div>
 
-<div class="post" data-post-id="32832" data-author="*Splork*" data-date="2011-08-21T01:14:27+00:00">
+<div class="post" data-post-id="32832" data-author="*Splork*" data-date="2011-08-21T01:14:27+00:00" data-subject="Re: Avatar bonuses list">
 
 This list is not accurate and we are sorry that we once again disappointed you Jezer. 
 
@@ -190,7 +190,7 @@ Please feel free to provide suggested price changes to stats and old/new options
 
 </div>
 
-<div class="post" data-post-id="32834" data-author="Cizin" data-date="2011-08-21T07:42:17+00:00">
+<div class="post" data-post-id="32834" data-author="Cizin" data-date="2011-08-21T07:42:17+00:00" data-subject="Re: Avatar bonuses list">
 
 Here is my suggestion:
 
@@ -294,7 +294,7 @@ Avatar sight - 10.000.000.000 experience and 10.000.000 coins.
 
 </div>
 
-<div class="post" data-post-id="32835" data-author="jezer" data-date="2011-08-21T10:08:10+00:00">
+<div class="post" data-post-id="32835" data-author="jezer" data-date="2011-08-21T10:08:10+00:00" data-subject="Re: Avatar bonuses list">
 
 I like the general direction Cizin is headed down.
 
@@ -316,7 +316,7 @@ Can I suggest when you come up with the ideas you put them on the forum for one 
 
 </div>
 
-<div class="post" data-post-id="32836" data-author="Atwell" data-date="2011-08-21T21:22:53+00:00">
+<div class="post" data-post-id="32836" data-author="Atwell" data-date="2011-08-21T21:22:53+00:00" data-subject="Re: Avatar bonuses list">
 
 > **jezer wrote:**
 > I like the general direction Cizin is headed down.
@@ -341,7 +341,7 @@ Another thing to note is that several of these permanent spells vary in value ra
 
 </div>
 
-<div class="post" data-post-id="32837" data-author="jezer" data-date="2011-08-21T21:30:42+00:00">
+<div class="post" data-post-id="32837" data-author="jezer" data-date="2011-08-21T21:30:42+00:00" data-subject="Re: Avatar bonuses list">
 
 > **Quote:**
 > I think I agree with yours goals, but I'd suggest a completely different mechanism: don't cap anything, but scale the prices: define for each product a % by which the cost increases after each purchase.  Say you make 1hp cost 1000M, increasing by 0.2% each time.  The second 1hp costs 1002M, the 100th costs 1221M, and the 200th costs 1491M.  The rising costs will eventually drive down the value of incremental purchases, motivating players to consider other purchases.  This gives players more credible options at each juncture: instead of just buying the best-value offer until it caps, you need to actually decide precisely *when* that item *ceases* to be best.  It would take a fair amount of work to define the right percentages for each item; I'm willing to help with that if desired.
@@ -350,7 +350,7 @@ I like this idea. Although I do think some things need to be capped, stats for i
 
 </div>
 
-<div class="post" data-post-id="32838" data-author="Atwell" data-date="2011-08-21T22:17:01+00:00">
+<div class="post" data-post-id="32838" data-author="Atwell" data-date="2011-08-21T22:17:01+00:00" data-subject="Re: Avatar bonuses list">
 
 > **jezer wrote:**
 > I like this idea. Although I do think some things need to be capped, stats for instance.
@@ -359,7 +359,7 @@ To clarify, I'm not proposing that purchases override any other kinds of caps th
 
 </div>
 
-<div class="post" data-post-id="32855" data-author="Cizin" data-date="2011-09-06T00:59:09+00:00">
+<div class="post" data-post-id="32855" data-author="Cizin" data-date="2011-09-06T00:59:09+00:00" data-subject="Re: Avatar bonuses list">
 
 New list:
 
@@ -483,7 +483,7 @@ Natural primary stats -> Str[17], Int[14], Wis[14], Dex[18], Con[17]
 
 </div>
 
-<div class="post" data-post-id="32857" data-author="Tigris" data-date="2011-09-06T04:09:53+00:00">
+<div class="post" data-post-id="32857" data-author="Tigris" data-date="2011-09-06T04:09:53+00:00" data-subject="Re: Avatar bonuses list">
 
 First thanks for the all the hard work by all the immortals, running quests, building areas, and generally just keeping this game going for 20 years. Not that I'll get high enough to use this list but one thing jumps out at a casual glance. Why would anyone buy perm sneak or perm hide when they can buy perm stalk for the same price.
 
@@ -491,7 +491,7 @@ First thanks for the all the hard work by all the immortals, running quests, bui
 
 </div>
 
-<div class="post" data-post-id="32906" data-author="*Splork*" data-date="2011-09-13T23:24:56+00:00">
+<div class="post" data-post-id="32906" data-author="*Splork*" data-date="2011-09-13T23:24:56+00:00" data-subject="Re: Avatar bonuses list">
 
 Ive received several inquiries upon whether or not affects bought from the Avatar shop bypass a player's cap.  Nothing, currently in the shop, will increase or bypass a player's cap of that affect. What it does allow a player to do, is use different equipment because they no longer need the affects which are bought. 
 
@@ -501,7 +501,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32932" data-author="*Splork*" data-date="2011-09-24T13:50:24+00:00">
+<div class="post" data-post-id="32932" data-author="*Splork*" data-date="2011-09-24T13:50:24+00:00" data-subject="Re: Avatar bonuses list">
 
 We have increased the price of Max Dex, as this gives .5 ac to the player. Currently, AC is listed at 30 bil for .1 ac each. And you are able to buy 3 of them for a total of .3. Max Dex has been increased to 50 Bil, which is a rate of 10 bil per point of AC which is still an incredible deal, nearly 66% off original AC price.
 
@@ -511,7 +511,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32933" data-author="Cizin" data-date="2011-09-24T14:52:26+00:00">
+<div class="post" data-post-id="32933" data-author="Cizin" data-date="2011-09-24T14:52:26+00:00" data-subject="Re: Avatar bonuses list">
 
 First, I am a thief not a tank. Reason why i bought max_dex was not to boost my AC but my th skills. I don't need AC nor I EVER run AC mode.
 
@@ -527,7 +527,7 @@ Just my two cents.
 
 </div>
 
-<div class="post" data-post-id="32934" data-author="*Splork*" data-date="2011-09-24T15:04:01+00:00">
+<div class="post" data-post-id="32934" data-author="*Splork*" data-date="2011-09-24T15:04:01+00:00" data-subject="Re: Avatar bonuses list">
 
 Max Dex does very little to increase an avatar's thief skills. So honestly, either one will buy it for AC or they wont buy it at all. 
 

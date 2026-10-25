@@ -10,13 +10,13 @@ locked: false
 post_count: 19
 ---
 
-<div class="post" data-post-id="3284" data-author="Corwin" data-date="2004-12-13T18:07:46+00:00">
+<div class="post" data-post-id="3284" data-author="Corwin" data-date="2004-12-13T18:07:46+00:00" data-subject="noshout...">
 
 im not going to name any names here, but i want everyone to know that today i was no shouted for saying on gossip "god damn". when i went through back channels to confront the immortal that handed down this punishment, i was told that god damn has always been a swear. i then asked about "oh, my god" etc, etc. i dont know what it is with some immortals here, but its almost like they don't want us to play here. for them its as simple a command as drink fountain, but to the player it can be such a pain in the ass. so much of a pain, it makes me consider why i play here at all. if it happened once a year or something it would be nothing, but this is getting out of hand. i can only see two solutions: we can give these lowbie immortals more commands than noshout, so they have something better todo than fuck with mortals. its one thing to tease or taunt a mortal, its a whole other can of worms to hinder their game play cause they got nothing better todo. or we can remove the noshout command from them til they get promoted to i higher position. back in the day immortals did cool things for players, some examples: have a "manual" run quest, god sanc somebody, drop corrupt scrolls around town, march a huge monster into town, hand out cool types of food (sometimes related to the season), etc etc. maybe all these newbie immortals need is some direction, but what the mud needs is some consistency. if i tell someone to fuck off or call something shit (not to be confused with i have to take a shit) yeah a noshout is in order. calling someone names or disrespecting a player base...you get the picture. but this bullshit with the noshouts has got to stop...god damn it!
 
 </div>
 
-<div class="post" data-post-id="3285" data-author="Zeizel" data-date="2004-12-13T18:22:25+00:00">
+<div class="post" data-post-id="3285" data-author="Zeizel" data-date="2004-12-13T18:22:25+00:00" data-subject="">
 
 I was told yesterday (by another mortal, luckily) that apparently acronyms are also considered cursing?  If the idea of banning curses on public channels is to keep from exposing those few players who have never heard them (which seems like the only valid reason to do so, imho), then those players will not know what the acronym stands for.
 
@@ -32,7 +32,7 @@ Obviously, if someone's aggressively telling another player to "go f@ck yourself
 
 </div>
 
-<div class="post" data-post-id="3286" data-author="Yasik" data-date="2004-12-13T18:24:53+00:00">
+<div class="post" data-post-id="3286" data-author="Yasik" data-date="2004-12-13T18:24:53+00:00" data-subject="">
 
 Fully agreed. 
 
@@ -44,13 +44,13 @@ Long live Enea! :]
 
 </div>
 
-<div class="post" data-post-id="3287" data-author="blackmore" data-date="2004-12-13T18:27:09+00:00">
+<div class="post" data-post-id="3287" data-author="blackmore" data-date="2004-12-13T18:27:09+00:00" data-subject="">
 
 Not to pass judgement on whether immorts get noshout happy, but God damn gets bleeped on American radio and TV.  That to me is pretty much an indication that I shouldn't be saying it on gossip.  I'm not trying to start a discussion on "how do those of us in <Name Country Here> know what American TV or radio considers acceptable".  For all I care, the answer to that is trial and error.
 
 </div>
 
-<div class="post" data-post-id="3288" data-author="Zeizel" data-date="2004-12-13T18:47:12+00:00">
+<div class="post" data-post-id="3288" data-author="Zeizel" data-date="2004-12-13T18:47:12+00:00" data-subject="">
 
 Its -right- imm SOLVED the problem the way that i feel shame to be noshouted again after we talked.[/quote:2kvsioww]
 
@@ -58,7 +58,7 @@ I'd be interested to know Enea's explanation of the rule.  It may be that I'm fl
 
 </div>
 
-<div class="post" data-post-id="3290" data-author="Leaf" data-date="2004-12-13T18:54:40+00:00">
+<div class="post" data-post-id="3290" data-author="Leaf" data-date="2004-12-13T18:54:40+00:00" data-subject="">
 
 Actually WTF and STFU have been used on the radio before.  And I've used
 
@@ -72,7 +72,7 @@ happened to my chars.  Then again I did lose lvls back to back hehe.
 
 </div>
 
-<div class="post" data-post-id="3291" data-author="12345" data-date="2004-12-13T19:03:16+00:00">
+<div class="post" data-post-id="3291" data-author="12345" data-date="2004-12-13T19:03:16+00:00" data-subject="">
 
 Hmm...
 
@@ -80,7 +80,7 @@ Seems a warning could work as well as a noshout in some of these cases.  Or have
 
 </div>
 
-<div class="post" data-post-id="3292" data-author="Mosaix" data-date="2004-12-13T19:26:40+00:00">
+<div class="post" data-post-id="3292" data-author="Mosaix" data-date="2004-12-13T19:26:40+00:00" data-subject="">
 
 Hmm.  They do noshout too much.
 
@@ -94,7 +94,7 @@ Try this "tell corwin please dont use god damn on gossip, next time i see this i
 
 </div>
 
-<div class="post" data-post-id="3296" data-author="blackmore" data-date="2004-12-13T20:19:01+00:00">
+<div class="post" data-post-id="3296" data-author="blackmore" data-date="2004-12-13T20:19:01+00:00" data-subject="">
 
 And of all the comments here, I have to say f-you blackmore.  Take your conservative goodie church bullshit and cram it up your ass.   All full up on morals here.  Enjoy being a "Wit" it fits you properly.
 
@@ -108,7 +108,7 @@ I said things they way I said them because I was trying to avoid morons starting
 
 </div>
 
-<div class="post" data-post-id="3297" data-author="Qa" data-date="2004-12-13T20:29:39+00:00">
+<div class="post" data-post-id="3297" data-author="Qa" data-date="2004-12-13T20:29:39+00:00" data-subject="">
 
 You should include a zero in your poll, there, Corwin.  I am trying to remember if I have been noshouted.  I am thinking no, but it may have happened once.
 
@@ -124,7 +124,7 @@ Try to relax, Corwin - I am sure the noshout will wear off soon.  And, really sp
 
 </div>
 
-<div class="post" data-post-id="3298" data-author="Leaf" data-date="2004-12-13T20:56:53+00:00">
+<div class="post" data-post-id="3298" data-author="Leaf" data-date="2004-12-13T20:56:53+00:00" data-subject="">
 
 And, really speaking, why is a noshout such a horrible thing?  You can still tell, grouptell, chann talk and emote, can't you?
 
@@ -138,7 +138,7 @@ etc...  >: )-~
 
 </div>
 
-<div class="post" data-post-id="3299" data-author="Weasel" data-date="2004-12-13T21:09:41+00:00">
+<div class="post" data-post-id="3299" data-author="Weasel" data-date="2004-12-13T21:09:41+00:00" data-subject="">
 
 Damn is really a swear word? HAHAHA! Yeah ok fine. Radio stations and TV don't bleep out the word 'sh*t', yet they bleep out 'god damn'? What station is that hehe (no need to answer, I don't want to know). Anyway, best we go edit the mud for any occurrance of the word 'damn' in that case, and gawd knows there's a LOT of them.
 
@@ -154,7 +154,7 @@ ok I'm done.   :D
 
 </div>
 
-<div class="post" data-post-id="3300" data-author="Zeizel" data-date="2004-12-13T21:15:53+00:00">
+<div class="post" data-post-id="3300" data-author="Zeizel" data-date="2004-12-13T21:15:53+00:00" data-subject="">
 
 It may be that I'm flat-out wrong and there's a perfectly legitimate reason for the ban on cursing.  If so, I'd like to know asap, so I can apologize ;-)[/quote:1czuw2w8]
 
@@ -164,7 +164,7 @@ After seeing part of an in-game discussion, I understand the reason for this rul
 
 </div>
 
-<div class="post" data-post-id="3301" data-author="Leaf" data-date="2004-12-13T22:54:43+00:00">
+<div class="post" data-post-id="3301" data-author="Leaf" data-date="2004-12-13T22:54:43+00:00" data-subject="">
 
 I would also like to shed in some light, on the fact that 2 Russian players
 
@@ -180,7 +180,7 @@ funny if u ask me.
 
 </div>
 
-<div class="post" data-post-id="3302" data-author="Yasik" data-date="2004-12-14T03:39:58+00:00">
+<div class="post" data-post-id="3302" data-author="Yasik" data-date="2004-12-14T03:39:58+00:00" data-subject="">
 
 :)))))
 
@@ -190,7 +190,7 @@ Just been waiting for repops and kinda bored, trying to entertain myself by swea
 
 </div>
 
-<div class="post" data-post-id="3303" data-author="Yasik" data-date="2004-12-14T04:09:40+00:00">
+<div class="post" data-post-id="3303" data-author="Yasik" data-date="2004-12-14T04:09:40+00:00" data-subject="">
 
 Not trying to bitch, i did mistake and punishment is right, i agree. Not deliberately, but this doesnt matter.
 
@@ -202,7 +202,7 @@ There no imms left i didnt asked to rem noshout looks like  :D  :oops:  :(
 
 </div>
 
-<div class="post" data-post-id="3306" data-author="Calim" data-date="2004-12-14T11:28:13+00:00">
+<div class="post" data-post-id="3306" data-author="Calim" data-date="2004-12-14T11:28:13+00:00" data-subject="">
 
 Hey!  Where is the option for 0?  Never been no-shouted. :)
 
@@ -212,7 +212,7 @@ Of course, someone, cough**JAKE**cough forcibly disconnected me once for what he
 
 </div>
 
-<div class="post" data-post-id="3377" data-author="Shadis" data-date="2004-12-16T23:31:53+00:00">
+<div class="post" data-post-id="3377" data-author="Shadis" data-date="2004-12-16T23:31:53+00:00" data-subject="">
 
 i've been no shouted for gossiping God Damn it a few times
 
@@ -228,7 +228,7 @@ even if i do spell it wrong
 
 </div>
 
-<div class="post" data-post-id="3392" data-author="Autolycos" data-date="2004-12-17T16:42:24+00:00">
+<div class="post" data-post-id="3392" data-author="Autolycos" data-date="2004-12-17T16:42:24+00:00" data-subject="">
 
 hehe  Shadis,  i remember in the ole days watching you Ploo and Apollo getting noshouted and jailed just for debating with the creators on why the mud sucked.  :P
 

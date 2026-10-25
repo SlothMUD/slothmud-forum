@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32632" data-author="*Isabo*" data-date="2011-05-22T01:35:24+00:00">
+<div class="post" data-post-id="32632" data-author="*Isabo*" data-date="2011-05-22T01:35:24+00:00" data-subject="Shapeshift">
 
 Greeting mortals.
 

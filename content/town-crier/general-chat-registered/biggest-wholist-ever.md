@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="28717" data-author="Sheng" data-date="2009-04-11T02:43:37+00:00">
+<div class="post" data-post-id="28717" data-author="Sheng" data-date="2009-04-11T02:43:37+00:00" data-subject="Biggest wholist ever.">
 
 Splork asked everyone to log on all their alts prior to the shutdown.  Brad only had time to log in half of them before it crashed the server.  The biggest who list I saw was 110 strong.  I only have a copy of 107... it crashed seconds after this.
 
@@ -242,25 +242,25 @@ Highest total since last bootup: 107.
 
 </div>
 
-<div class="post" data-post-id="28720" data-author="Jag" data-date="2009-04-11T02:49:25+00:00">
+<div class="post" data-post-id="28720" data-author="Jag" data-date="2009-04-11T02:49:25+00:00" data-subject="">
 
 Sniff, I logged in 9 of mine a few minutes later.
 
 </div>
 
-<div class="post" data-post-id="28722" data-author="Yasik2" data-date="2009-04-11T02:50:18+00:00">
+<div class="post" data-post-id="28722" data-author="Yasik2" data-date="2009-04-11T02:50:18+00:00" data-subject="">
 
 I wanted to say that i disagree of using Blaster's account since his name and presence is sacred to true followers... but who cares anyway...
 
 </div>
 
-<div class="post" data-post-id="28723" data-author="Weasel" data-date="2009-04-11T02:50:56+00:00">
+<div class="post" data-post-id="28723" data-author="Weasel" data-date="2009-04-11T02:50:56+00:00" data-subject="">
 
 I was just installing my client seconds ago to login just to kill anything that moves or die trying.. too late *sigh*.
 
 </div>
 
-<div class="post" data-post-id="28724" data-author="jezer" data-date="2009-04-11T02:51:40+00:00">
+<div class="post" data-post-id="28724" data-author="jezer" data-date="2009-04-11T02:51:40+00:00" data-subject="">
 
 Zero got the innkeeper before shutdown!  :twisted:
 

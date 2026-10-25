@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="36930" data-author="*Idjit*" data-date="2016-05-19T04:26:21+00:00">
+<div class="post" data-post-id="36930" data-author="*Idjit*" data-date="2016-05-19T04:26:21+00:00" data-subject="Newbatia Changes">
 
 Our newbies will see a modest amount of changes.
 
@@ -30,7 +30,7 @@ In each town, the town quester now gives a scrolling lecture about what drachma 
 
 </div>
 
-<div class="post" data-post-id="36931" data-author="Teron" data-date="2016-05-19T14:57:36+00:00">
+<div class="post" data-post-id="36931" data-author="Teron" data-date="2016-05-19T14:57:36+00:00" data-subject="Re: Newbatia Changes">
 
 That's a good idea, although in BH town I still get bombarded with these messages roughly every tick. 
 
@@ -38,7 +38,7 @@ Maybe limit them to one message about a certain area per day or to players under
 
 </div>
 
-<div class="post" data-post-id="36932" data-author="*Idjit*" data-date="2016-05-20T02:50:47+00:00">
+<div class="post" data-post-id="36932" data-author="*Idjit*" data-date="2016-05-20T02:50:47+00:00" data-subject="Re: Newbatia Changes">
 
 Thinker procs have a level check but only if the say's or emotes are given in a rigid order.
 
@@ -46,13 +46,13 @@ It won't let me level restrict them AND give a random-order like I want.
 
 </div>
 
-<div class="post" data-post-id="36933" data-author="*Idjit*" data-date="2016-05-20T03:11:54+00:00">
+<div class="post" data-post-id="36933" data-author="*Idjit*" data-date="2016-05-20T03:11:54+00:00" data-subject="Re: Newbatia Changes">
 
 In response to these comments the quester lectures, which -are- in a rigid order, have been set to max-level 20.  I am currently pondering what i'll do for the wandering town mobs in BH.
 
 </div>
 
-<div class="post" data-post-id="36934" data-author="*Idjit*" data-date="2016-05-20T03:37:26+00:00">
+<div class="post" data-post-id="36934" data-author="*Idjit*" data-date="2016-05-20T03:37:26+00:00" data-subject="Re: Newbatia Changes">
 
 I have applied myself to the problem and written an every_arrival() function in MUDL that functions as follows:
 
@@ -76,7 +76,7 @@ Just incrementally remind me which ones and ill add it.
 
 </div>
 
-<div class="post" data-post-id="36935" data-author="Yasik" data-date="2016-05-20T05:35:05+00:00">
+<div class="post" data-post-id="36935" data-author="Yasik" data-date="2016-05-20T05:35:05+00:00" data-subject="Re: Newbatia Changes">
 
 Changes are great.
 
@@ -92,7 +92,7 @@ Also, and I **MUST** outline this especially : spelling, grammar, and punctuatio
 
 </div>
 
-<div class="post" data-post-id="36938" data-author="*Idjit*" data-date="2016-05-21T02:10:20+00:00">
+<div class="post" data-post-id="36938" data-author="*Idjit*" data-date="2016-05-21T02:10:20+00:00" data-subject="Re: Newbatia Changes">
 
 (One of) the town mobs already mentions Burbalangs now, per my recent chat proc updates.
 
@@ -102,7 +102,7 @@ I forget which.
 
 </div>
 
-<div class="post" data-post-id="36940" data-author="Teron" data-date="2016-05-21T06:48:19+00:00">
+<div class="post" data-post-id="36940" data-author="Teron" data-date="2016-05-21T06:48:19+00:00" data-subject="Re: Newbatia Changes">
 
 Thanks for the update.
 
@@ -112,13 +112,13 @@ It's fine, if mobs start talking, when a newb walks into a room, where I'm stand
 
 </div>
 
-<div class="post" data-post-id="36946" data-author="Firebrand420" data-date="2016-06-01T18:01:25+00:00">
+<div class="post" data-post-id="36946" data-author="Firebrand420" data-date="2016-06-01T18:01:25+00:00" data-subject="Re: Newbatia Changes">
 
 So why not have the thinker proc tied to the Is_newbie flag? Folks can turn off the messages by turning off the Is_newbie flag.
 
 </div>
 
-<div class="post" data-post-id="36948" data-author="*Idjit*" data-date="2016-06-04T21:20:04+00:00">
+<div class="post" data-post-id="36948" data-author="*Idjit*" data-date="2016-06-04T21:20:04+00:00" data-subject="Re: Newbatia Changes">
 
 That would require New Hardcoded Code.
 
@@ -128,7 +128,7 @@ The thinker procs by themselves do not.
 
 </div>
 
-<div class="post" data-post-id="36949" data-author="*juggleblood*" data-date="2016-06-04T21:54:56+00:00">
+<div class="post" data-post-id="36949" data-author="*juggleblood*" data-date="2016-06-04T21:54:56+00:00" data-subject="Re: Newbatia Changes">
 
 Cool beans.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30079" data-author="*Splork*" data-date="2009-10-03T00:57:03+00:00">
+<div class="post" data-post-id="30079" data-author="*Splork*" data-date="2009-10-03T00:57:03+00:00" data-subject="Updates(increased xp,succor fix,small lag fix,vaults, necr)">
 
 1) small lag bug fixed due to history db(not noticeable I bet, game is running the best it ever has now)
 

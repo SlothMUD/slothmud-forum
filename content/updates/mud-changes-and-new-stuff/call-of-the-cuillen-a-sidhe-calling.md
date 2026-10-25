@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34278" data-author="*Neptune*" data-date="2013-05-02T19:06:59+00:00">
+<div class="post" data-post-id="34278" data-author="*Neptune*" data-date="2013-05-02T19:06:59+00:00" data-subject="Call of the Cuillen / a Sidhe Calling">
 
 Apparently, as some procs got swapped out, the book, a sidhe calling, got
 

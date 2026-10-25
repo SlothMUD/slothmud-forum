@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32173" data-author="Guinex" data-date="2010-12-18T06:34:15+00:00">
+<div class="post" data-post-id="32173" data-author="Guinex" data-date="2010-12-18T06:34:15+00:00" data-subject="S4 Hex Mobs">
 
 BH
 
@@ -214,7 +214,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="32175" data-author="Tuck" data-date="2010-12-18T07:27:08+00:00">
+<div class="post" data-post-id="32175" data-author="Tuck" data-date="2010-12-18T07:27:08+00:00" data-subject="Re: S4 Hex Mobs">
 
 SS:
 
@@ -222,7 +222,7 @@ Arbo - Witch Doctor
 
 </div>
 
-<div class="post" data-post-id="32185" data-author="jezer" data-date="2010-12-19T19:01:35+00:00">
+<div class="post" data-post-id="32185" data-author="jezer" data-date="2010-12-19T19:01:35+00:00" data-subject="Re: S4 Hex Mobs">
 
 One other tip for rerolling... If you poke Juggleblood with a hot red stick, and demand his stupid pies and an ale to cool it down with, he may just give you a flask of fire-breather, so he can sadistically laugh while watching you explode. When you explode into chunks your eq gets scattered, however you can pick up your "chunks" which I think are dies for rerolling. Firebreather also pops on a few mobs. Not sure if they are hexes, probably dies. I think the chunks are personal... and yeah... easier ways to get rerolls... ;)
 

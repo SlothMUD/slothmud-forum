@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="34698" data-author="DarkArtist" data-date="2013-12-28T15:49:23+00:00">
+<div class="post" data-post-id="34698" data-author="DarkArtist" data-date="2013-12-28T15:49:23+00:00" data-subject="string exts and string affects output">
 
 EDITED OUT: 
 
@@ -18,19 +18,19 @@ DO NOT COPY SPECIAL CHARACTERS INTO YOUR SCRIPTS. THEY CAUSE SAVE/LOAD ISSUES.
 
 </div>
 
-<div class="post" data-post-id="34699" data-author="DarkArtist" data-date="2013-12-28T16:24:33+00:00">
+<div class="post" data-post-id="34699" data-author="DarkArtist" data-date="2013-12-28T16:24:33+00:00" data-subject="Re: string exts and string affects output">
 
 EDITED OUT, DOESN'T WORK.
 
 </div>
 
-<div class="post" data-post-id="34700" data-author="DarkArtist" data-date="2013-12-28T16:41:03+00:00">
+<div class="post" data-post-id="34700" data-author="DarkArtist" data-date="2013-12-28T16:41:03+00:00" data-subject="Re: string exts and string affects output">
 
 EDITED OUT, DOESN'T WORK
 
 </div>
 
-<div class="post" data-post-id="34702" data-author="Akaya" data-date="2013-12-28T18:56:58+00:00">
+<div class="post" data-post-id="34702" data-author="Akaya" data-date="2013-12-28T18:56:58+00:00" data-subject="Re: string exts and string affects output">
 
 This won't work for everyone unfortunately. Because the 'special characters' aren't $ ] and [ on all operating systems.
 
@@ -58,31 +58,31 @@ I'm using this for a nice looking compass I'll post later on by calling this fun
 
 </div>
 
-<div class="post" data-post-id="34704" data-author="DarkArtist" data-date="2013-12-28T19:20:09+00:00">
+<div class="post" data-post-id="34704" data-author="DarkArtist" data-date="2013-12-28T19:20:09+00:00" data-subject="Re: string exts and string affects output">
 
 EDITED OUT.
 
 </div>
 
-<div class="post" data-post-id="34705" data-author="Akaya" data-date="2013-12-28T20:36:18+00:00">
+<div class="post" data-post-id="34705" data-author="Akaya" data-date="2013-12-28T20:36:18+00:00" data-subject="Re: string exts and string affects output">
 
 Altering a script in any way will always be less ideal than one that requires nothing at all.
 
 </div>
 
-<div class="post" data-post-id="34710" data-author="DarkArtist" data-date="2013-12-28T23:56:55+00:00">
+<div class="post" data-post-id="34710" data-author="DarkArtist" data-date="2013-12-28T23:56:55+00:00" data-subject="Re: string exts and string affects output">
 
 EDITED OUT.
 
 </div>
 
-<div class="post" data-post-id="34722" data-author="Akaya" data-date="2013-12-29T04:59:45+00:00">
+<div class="post" data-post-id="34722" data-author="Akaya" data-date="2013-12-29T04:59:45+00:00" data-subject="Re: string exts and string affects output">
 
 Nothing wrong with your script. In fact, you're doing a great job figuring things out! I only point out that there is a more optimal way of parsing the string that doesn't require a copy/paste.
 
 </div>
 
-<div class="post" data-post-id="34807" data-author="DarkArtist" data-date="2014-01-20T14:06:03+00:00">
+<div class="post" data-post-id="34807" data-author="DarkArtist" data-date="2014-01-20T14:06:03+00:00" data-subject="Re: string exts and string affects output">
 
 It turns out there is a very important reason to do it your way...
 
@@ -92,7 +92,7 @@ I just wanted to note that here in case anyone should try to copy and paste them
 
 </div>
 
-<div class="post" data-post-id="34808" data-author="Akaya" data-date="2014-01-20T16:32:36+00:00">
+<div class="post" data-post-id="34808" data-author="Akaya" data-date="2014-01-20T16:32:36+00:00" data-subject="Re: string exts and string affects output">
 
 Very good to know. Thank you!
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="33313" data-author="Maarg" data-date="2012-05-29T13:56:33+00:00">
+<div class="post" data-post-id="33313" data-author="Maarg" data-date="2012-05-29T13:56:33+00:00" data-subject="The attitude of 1 particular player">
 
 This just happened no more than 5mins ago in-game:
 
@@ -46,7 +46,7 @@ Never understood the mentality of such players.
 
 </div>
 
-<div class="post" data-post-id="33314" data-author="*juggleblood*" data-date="2012-05-30T01:12:43+00:00">
+<div class="post" data-post-id="33314" data-author="*juggleblood*" data-date="2012-05-30T01:12:43+00:00" data-subject="Re: The attitude of 1 particular player">
 
 I don't understand the point. If you put it on auction, anybody can buy it.  
 
@@ -56,19 +56,19 @@ Strange.
 
 </div>
 
-<div class="post" data-post-id="33315" data-author="jezer" data-date="2012-05-30T03:24:24+00:00">
+<div class="post" data-post-id="33315" data-author="jezer" data-date="2012-05-30T03:24:24+00:00" data-subject="Re: The attitude of 1 particular player">
 
 Don't they call this "Retailing" in the real world? Buy something cheap on sell it at a profit?
 
 </div>
 
-<div class="post" data-post-id="33316" data-author="Ker" data-date="2012-05-30T06:51:56+00:00">
+<div class="post" data-post-id="33316" data-author="Ker" data-date="2012-05-30T06:51:56+00:00" data-subject="Re: The attitude of 1 particular player">
 
 Awwww, Maarg you're cute. You have best mentality, sure.
 
 </div>
 
-<div class="post" data-post-id="33317" data-author="Tuck" data-date="2012-05-30T19:14:02+00:00">
+<div class="post" data-post-id="33317" data-author="Tuck" data-date="2012-05-30T19:14:02+00:00" data-subject="Re: The attitude of 1 particular player">
 
 Maarg for the pres!
 

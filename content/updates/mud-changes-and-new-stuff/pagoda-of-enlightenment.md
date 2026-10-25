@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="39392" data-author="Driven" data-date="2020-03-13T01:07:19+00:00">
+<div class="post" data-post-id="39392" data-author="Driven" data-date="2020-03-13T01:07:19+00:00" data-subject="Pagoda of Enlightenment">
 
 As you guys may have seen in Driven's title, I have been running the Pagoda of Enlightenment for the last 3 days in an attempt to forge the lotus blossom bracelets for Razyr. As I have gathered the cps, it became very apparent very quickly that this forge has a long pole to it that is beyond obnoxious.  
 

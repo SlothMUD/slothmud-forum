@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="38278" data-author="*Neptune*" data-date="2017-06-08T23:53:40+00:00">
+<div class="post" data-post-id="38278" data-author="*Neptune*" data-date="2017-06-08T23:53:40+00:00" data-subject="Opener Quest">
 
 The Aisholm Explorer's Guild is proud to announce that after several months,
 
@@ -90,7 +90,7 @@ Hope to see you guys there!
 
 </div>
 
-<div class="post" data-post-id="38281" data-author="Gorka" data-date="2017-06-12T06:49:24+00:00">
+<div class="post" data-post-id="38281" data-author="Gorka" data-date="2017-06-12T06:49:24+00:00" data-subject="Re: Opener Quest">
 
 So I just wanted to give a shout out to Neptune!
 
@@ -106,7 +106,7 @@ So thanks for the new content Neptune! Gimme an N! Gimme an Eptune!
 
 </div>
 
-<div class="post" data-post-id="38282" data-author="Teron" data-date="2017-06-12T15:50:58+00:00">
+<div class="post" data-post-id="38282" data-author="Teron" data-date="2017-06-12T15:50:58+00:00" data-subject="Re: Opener Quest">
 
 I'd like to join Gorka in thanking Neptune.
 
@@ -122,7 +122,7 @@ Today the reboot perished at least 7 pops in the area, stats for some of them we
 
 </div>
 
-<div class="post" data-post-id="38283" data-author="*Neptune*" data-date="2017-06-12T17:03:13+00:00">
+<div class="post" data-post-id="38283" data-author="*Neptune*" data-date="2017-06-12T17:03:13+00:00" data-subject="Re: Opener Quest">
 
 Thanks guys.
 
@@ -154,7 +154,7 @@ staff for helping me put this thing together. Without them, we'd still be workin
 
 </div>
 
-<div class="post" data-post-id="38298" data-author="*Neptune*" data-date="2017-06-18T19:27:22+00:00">
+<div class="post" data-post-id="38298" data-author="*Neptune*" data-date="2017-06-18T19:27:22+00:00" data-subject="Re: Opener Quest">
 
 Greetings,
 
@@ -184,7 +184,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="38301" data-author="Teron" data-date="2017-06-23T07:03:23+00:00">
+<div class="post" data-post-id="38301" data-author="Teron" data-date="2017-06-23T07:03:23+00:00" data-subject="Re: Opener Quest">
 
 Oh mighty Neptune, tell us, how did you come up with the names? Our guess is you rolled your face on the keyboard. A strong contender is letting your cats do it. Please let our minds at ease.
 

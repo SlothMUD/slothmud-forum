@@ -10,7 +10,7 @@ locked: false
 post_count: 50
 ---
 
-<div class="post" data-post-id="23692" data-author="Toxis" data-date="2008-04-12T04:44:55+00:00">
+<div class="post" data-post-id="23692" data-author="Toxis" data-date="2008-04-12T04:44:55+00:00" data-subject="Quest!!!!!! :)~">
 
 Quest... Area Opener of new Lyme area... Mount â€˜An Mystica
 
@@ -26,13 +26,13 @@ I am going to try to make it fast and quick, possibly a 3 to 4 hour quest.  So p
 
 </div>
 
-<div class="post" data-post-id="23697" data-author="Yasik2" data-date="2008-04-12T08:09:29+00:00">
+<div class="post" data-post-id="23697" data-author="Yasik2" data-date="2008-04-12T08:09:29+00:00" data-subject="">
 
 dont forget teh tarrasques!
 
 </div>
 
-<div class="post" data-post-id="23698" data-author="Weasel" data-date="2008-04-12T11:11:08+00:00">
+<div class="post" data-post-id="23698" data-author="Weasel" data-date="2008-04-12T11:11:08+00:00" data-subject="Re: Quest!!!!!! :)~">
 
 I am going to try to make it fast and quick, possibly a 3 to 4 hour quest..[/quote:1uynf2td]
 
@@ -42,7 +42,7 @@ Hope I can make it.  :D
 
 </div>
 
-<div class="post" data-post-id="23699" data-author="Tap" data-date="2008-04-12T11:23:04+00:00">
+<div class="post" data-post-id="23699" data-author="Tap" data-date="2008-04-12T11:23:04+00:00" data-subject="">
 
 [quote:2cuw0zmz]I am going to try to make it fast and quick, possibly a 3 to 4 hour quest.[/quote:2cuw0zmz]
 
@@ -50,31 +50,31 @@ Can you make it so fast that quest is tonite on April 12?
 
 </div>
 
-<div class="post" data-post-id="23701" data-author="Weasel" data-date="2008-04-12T12:07:26+00:00">
+<div class="post" data-post-id="23701" data-author="Weasel" data-date="2008-04-12T12:07:26+00:00" data-subject="">
 
 oh 19th? for some reason I read that as 12th.. my bad.
 
 </div>
 
-<div class="post" data-post-id="23702" data-author="Stryx" data-date="2008-04-13T00:11:39+00:00">
+<div class="post" data-post-id="23702" data-author="Stryx" data-date="2008-04-13T00:11:39+00:00" data-subject="">
 
 Awesome, you guys go get your fun. Another quest run in the middle of the night for half of us.  :evil:
 
 </div>
 
-<div class="post" data-post-id="23705" data-author="Gumbi" data-date="2008-04-13T04:36:50+00:00">
+<div class="post" data-post-id="23705" data-author="Gumbi" data-date="2008-04-13T04:36:50+00:00" data-subject="">
 
 Question: Is the reward just the area if 'we are not good enough for drachma' or are there items given along with drachma and the area if we're good enough for drachma?
 
 </div>
 
-<div class="post" data-post-id="23710" data-author="Tap" data-date="2008-04-13T07:56:42+00:00">
+<div class="post" data-post-id="23710" data-author="Tap" data-date="2008-04-13T07:56:42+00:00" data-subject="">
 
 Question: How much wood could a woodchuck chuck if a woodchuck could chuck wood?
 
 </div>
 
-<div class="post" data-post-id="23730" data-author="Stryx" data-date="2008-04-14T17:59:57+00:00">
+<div class="post" data-post-id="23730" data-author="Stryx" data-date="2008-04-14T17:59:57+00:00" data-subject="">
 
 [quote:2alzru01]Question: How much wood could a woodchuck chuck if a woodchuck could chuck wood?[/quote:2alzru01]
 
@@ -86,7 +86,7 @@ Again, 4a.m. for me so... Who cares!
 
 </div>
 
-<div class="post" data-post-id="23732" data-author="Akasha" data-date="2008-04-14T18:38:11+00:00">
+<div class="post" data-post-id="23732" data-author="Akasha" data-date="2008-04-14T18:38:11+00:00" data-subject="">
 
 Question: Is the reward just the area if 'we are not good enough for drachma' or are there items given along with drachma and the area if we're good enough for drachma?[/quote:2jctuzr9]
 
@@ -98,7 +98,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="23733" data-author="Autolycos" data-date="2008-04-14T19:43:50+00:00">
+<div class="post" data-post-id="23733" data-author="Autolycos" data-date="2008-04-14T19:43:50+00:00" data-subject="">
 
 lmfao....  maybe i should try that with my boss.
 
@@ -108,7 +108,7 @@ hahahahaha  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23739" data-author="*juggleblood*" data-date="2008-04-15T00:13:35+00:00">
+<div class="post" data-post-id="23739" data-author="*juggleblood*" data-date="2008-04-15T00:13:35+00:00" data-subject="">
 
 [quote:2nr6dgl2]
 
@@ -128,7 +128,7 @@ Anyway, looking forward to the quest!
 
 </div>
 
-<div class="post" data-post-id="23740" data-author="jezer" data-date="2008-04-15T00:38:09+00:00">
+<div class="post" data-post-id="23740" data-author="jezer" data-date="2008-04-15T00:38:09+00:00" data-subject="">
 
 We look at the eqlist and we see those weekly forges and quest objs that are effectively unattainable. So we are always dying to know if there's a chance of getting something like that.  Can't really fault us too much for that.
 
@@ -144,7 +144,7 @@ Anyway, looking forward to the quest![/quote:2pn3ym0d]
 
 </div>
 
-<div class="post" data-post-id="23741" data-author="Rynquald" data-date="2008-04-15T00:39:11+00:00">
+<div class="post" data-post-id="23741" data-author="Rynquald" data-date="2008-04-15T00:39:11+00:00" data-subject="">
 
 Although it might be nice if running honor constantly didn't become a prerequisite for obtaining decent eq.
 
@@ -162,7 +162,7 @@ Edit: Didn't actually notice that this was Brad's quest thread before replying, 
 
 </div>
 
-<div class="post" data-post-id="23742" data-author="Fable" data-date="2008-04-15T01:52:49+00:00">
+<div class="post" data-post-id="23742" data-author="Fable" data-date="2008-04-15T01:52:49+00:00" data-subject="">
 
 Yea I just found out I will be out that Saturday ... :(
 
@@ -188,7 +188,7 @@ This was about maybe 2yrs ago?  Has this plan been put on the back burner?
 
 </div>
 
-<div class="post" data-post-id="23743" data-author="jezer" data-date="2008-04-15T03:19:20+00:00">
+<div class="post" data-post-id="23743" data-author="jezer" data-date="2008-04-15T03:19:20+00:00" data-subject="">
 
 Yeah, I guess you guys got points... an eq system based on honor points like it is now, may not work to well... but with changes It can! and it should! You don't HAVE to kill Atlas to get honor points... 
 
@@ -206,7 +206,7 @@ This current quest may not suit a lot of people, but don't lash out at Toxis... 
 
 </div>
 
-<div class="post" data-post-id="23747" data-author="Weasel" data-date="2008-04-15T08:31:23+00:00">
+<div class="post" data-post-id="23747" data-author="Weasel" data-date="2008-04-15T08:31:23+00:00" data-subject="">
 
 my2cents: Quests are meant to be fun.. and usually involve a lot of death if you're one of the chars up front.. and sometimes everyone gets nailed, but imho you should join a quest for the experience of questing itself, and if there's a reward at the end, consider it a bonus! 
 
@@ -220,7 +220,7 @@ Whatever, thanks Toxis for the opportunity to explore a new area and die horribl
 
 </div>
 
-<div class="post" data-post-id="23752" data-author="brady" data-date="2008-04-15T12:50:14+00:00">
+<div class="post" data-post-id="23752" data-author="brady" data-date="2008-04-15T12:50:14+00:00" data-subject="">
 
 All this talk about "hypothetical" quest eq is exactly why you're not likely to see any.  But since y'all brought it up...
 
@@ -236,13 +236,13 @@ See point 1.
 
 </div>
 
-<div class="post" data-post-id="23755" data-author="Gumbi" data-date="2008-04-15T13:25:54+00:00">
+<div class="post" data-post-id="23755" data-author="Gumbi" data-date="2008-04-15T13:25:54+00:00" data-subject="">
 
 Akasha to be honest I wasn't asking Tox to cough it up or something. I was just hoping that it can be understood that regardless of what was said above my post and your reply that everyone has expectations even if they're not questing.  They join an eq group and know they're getting a chance of an item to pop for them as their call.  The only difference in a quest and any other group is that the expectations level rises.  We "quest" in expectation of a good new area, but usually as far as being rewarded characters who've had the opportunity to be in the quest always feel they're getting too small an award.  You know if there was more than one piece of quest eq handed out there generally wouldn't be as much "bickering" as I think Juggleblood referred to it as.  The last quest I was in was Baraneth's Cache some point at which the webpage became this format.  I just don't get why there is so much quest eq (Teron's Nekode) for instance and people say it is rarely handed out.  Since the last quest I was in I know of several nice items of real quest_low through quest_high eq that was handed out along with drachma and I haven't been involved in a single one of those quests.  I mostly never hear about them, which is why I ask about Tox's plans on handing out items or if he's going to just kill us and put his area in and gloat a while, or sing crappy music or.. worse.
 
 </div>
 
-<div class="post" data-post-id="23757" data-author="Yasik2" data-date="2008-04-15T15:55:37+00:00">
+<div class="post" data-post-id="23757" data-author="Yasik2" data-date="2008-04-15T15:55:37+00:00" data-subject="">
 
 [b:1vfntnac]l70uke[/color:1vfntnac][/b:1vfntnac]: network connections says it cant find an IP address
 
@@ -256,7 +256,7 @@ Akasha to be honest I wasn't asking Tox to cough it up or something. I was just 
 
 </div>
 
-<div class="post" data-post-id="23831" data-author="Avatar" data-date="2008-04-17T18:38:35+00:00">
+<div class="post" data-post-id="23831" data-author="Avatar" data-date="2008-04-17T18:38:35+00:00" data-subject="Quest Rewards">
 
 We've had this conversation so many times, it's funny to see it being discussed BEFORE the actual quest, rather than all the complaining that usually comes after a quest.
 
@@ -274,7 +274,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="23833" data-author="alias" data-date="2008-04-17T20:24:23+00:00">
+<div class="post" data-post-id="23833" data-author="alias" data-date="2008-04-17T20:24:23+00:00" data-subject="">
 
 Enjoy the quest boys and girls, I'll be studying for finals and my CCNA.
 
@@ -282,19 +282,19 @@ I hope I can make the next quest.
 
 </div>
 
-<div class="post" data-post-id="23849" data-author="angel" data-date="2008-04-18T12:02:58+00:00">
+<div class="post" data-post-id="23849" data-author="angel" data-date="2008-04-18T12:02:58+00:00" data-subject="">
 
 cant wait :) been yrs since my last quest :)
 
 </div>
 
-<div class="post" data-post-id="23852" data-author="Weasel" data-date="2008-04-18T12:14:23+00:00">
+<div class="post" data-post-id="23852" data-author="Weasel" data-date="2008-04-18T12:14:23+00:00" data-subject="">
 
 sh*t I hope I can make it.. wont know for sure until tomorrow
 
 </div>
 
-<div class="post" data-post-id="23854" data-author="Yinao" data-date="2008-04-18T13:56:29+00:00">
+<div class="post" data-post-id="23854" data-author="Yinao" data-date="2008-04-18T13:56:29+00:00" data-subject="">
 
 Unfortunately this one im gunna miss out on, have formal stuff to tend to :(
 
@@ -304,7 +304,7 @@ Good luck to you to Brad, all these quest eq addicts are gunna run you from the 
 
 </div>
 
-<div class="post" data-post-id="23863" data-author="Tap" data-date="2008-04-19T19:07:37+00:00">
+<div class="post" data-post-id="23863" data-author="Tap" data-date="2008-04-19T19:07:37+00:00" data-subject="">
 
 Yinao wrote:
 
@@ -318,7 +318,7 @@ Flame on!
 
 </div>
 
-<div class="post" data-post-id="23864" data-author="Weasel" data-date="2008-04-19T19:51:05+00:00">
+<div class="post" data-post-id="23864" data-author="Weasel" data-date="2008-04-19T19:51:05+00:00" data-subject="">
 
 you're tanking the quest, big fella. 
 
@@ -326,13 +326,13 @@ you're tanking the quest, big fella.
 
 </div>
 
-<div class="post" data-post-id="23865" data-author="Tap" data-date="2008-04-19T22:09:39+00:00">
+<div class="post" data-post-id="23865" data-author="Tap" data-date="2008-04-19T22:09:39+00:00" data-subject="">
 
 Nope not me.. I pretty much gave up tanking and rarely lead like I use to..I got tired of the griping. :roll:
 
 </div>
 
-<div class="post" data-post-id="23866" data-author="Toxis" data-date="2008-04-20T07:29:53+00:00">
+<div class="post" data-post-id="23866" data-author="Toxis" data-date="2008-04-20T07:29:53+00:00" data-subject="">
 
 wholist before quest:
 
@@ -444,7 +444,7 @@ Highest total since last bootup: 47.
 
 </div>
 
-<div class="post" data-post-id="23867" data-author="Vixn" data-date="2008-04-20T07:57:58+00:00">
+<div class="post" data-post-id="23867" data-author="Vixn" data-date="2008-04-20T07:57:58+00:00" data-subject="">
 
 Thanks Brad, was nice quest, lots of fun and no crushes.
 
@@ -456,19 +456,19 @@ Vixn aka Edd, Kida
 
 </div>
 
-<div class="post" data-post-id="23868" data-author="tincts" data-date="2008-04-20T08:10:12+00:00">
+<div class="post" data-post-id="23868" data-author="tincts" data-date="2008-04-20T08:10:12+00:00" data-subject="">
 
 Anyone got a report on what the quest was all about?
 
 </div>
 
-<div class="post" data-post-id="23871" data-author="Weasel" data-date="2008-04-20T14:39:22+00:00">
+<div class="post" data-post-id="23871" data-author="Weasel" data-date="2008-04-20T14:39:22+00:00" data-subject="">
 
 awesome thanks Tox :)
 
 </div>
 
-<div class="post" data-post-id="23872" data-author="van" data-date="2008-04-20T17:33:40+00:00">
+<div class="post" data-post-id="23872" data-author="van" data-date="2008-04-20T17:33:40+00:00" data-subject="This post started as two sentences...">
 
 Judging by the lack of disgruntled posts, I'm guessing the rewards were drachma and/or rank?  Or did everyone get their griping out in advance?
 
@@ -494,7 +494,7 @@ Patrick (Van/Crisi/Schroeder)
 
 </div>
 
-<div class="post" data-post-id="23878" data-author="*juggleblood*" data-date="2008-04-20T23:03:41+00:00">
+<div class="post" data-post-id="23878" data-author="*juggleblood*" data-date="2008-04-20T23:03:41+00:00" data-subject="Re: This post started as two sentences...">
 
 On another note, and perhaps this has been suggested before, has any coder given thought to "temp" quest eq?  You get the item, it lasts three months (arbitrary), and then it poofs and becomes available for the next pot o' gold.  Visceral thrill a la Joe, and you get the consolation of knowing that "hey -- maybe I'll get it next time".  Plus, perhaps some imms might be more excited about conducting quests if they can have the pleasure of giving out fun rewards that might not encourage (as much) resentment***.  Maybe tie lifetime to power of item, or even frequency of use (i.e. quest eq collecting dust fades faster).  I know I'd be thrilled to have a super stabber or some extra +dam eq, even if it only lasted a day or two.[/quote:1ksnqjzr]
 
@@ -504,7 +504,7 @@ this, please
 
 </div>
 
-<div class="post" data-post-id="23879" data-author="Tap" data-date="2008-04-20T23:36:24+00:00">
+<div class="post" data-post-id="23879" data-author="Tap" data-date="2008-04-20T23:36:24+00:00" data-subject="">
 
 On yet another note. what the heck happened? No one has posted details of what new pops are there, if there level restricted/temp etc etc... Didn't get to go as I don't have a lymer so several had to miss out on the last part. Please post.
 
@@ -512,7 +512,7 @@ On yet another note. what the heck happened? No one has posted details of what n
 
 </div>
 
-<div class="post" data-post-id="23880" data-author="jezer" data-date="2008-04-20T23:51:27+00:00">
+<div class="post" data-post-id="23880" data-author="jezer" data-date="2008-04-20T23:51:27+00:00" data-subject="">
 
 In short...
 
@@ -546,7 +546,7 @@ Special mentions.
 
 </div>
 
-<div class="post" data-post-id="23881" data-author="angel" data-date="2008-04-21T05:43:56+00:00">
+<div class="post" data-post-id="23881" data-author="angel" data-date="2008-04-21T05:43:56+00:00" data-subject="">
 
 we received 50 + 15 drachmas fyi
 
@@ -556,7 +556,7 @@ sa
 
 </div>
 
-<div class="post" data-post-id="23883" data-author="jezer" data-date="2008-04-21T06:19:26+00:00">
+<div class="post" data-post-id="23883" data-author="jezer" data-date="2008-04-21T06:19:26+00:00" data-subject="">
 
 You only received 50 drachma?  :shock: We all got 60! :twisted:
 
@@ -566,7 +566,7 @@ Oh btw, Zukt's title is "Angelkiller" if your angel... at least he lived up to h
 
 </div>
 
-<div class="post" data-post-id="23884" data-author="Sheng" data-date="2008-04-21T13:23:38+00:00">
+<div class="post" data-post-id="23884" data-author="Sheng" data-date="2008-04-21T13:23:38+00:00" data-subject="Quest log!">
 
 As promised, here's the quest details.
 
@@ -800,19 +800,19 @@ There was an astonishing lack of complaints before, during, and after the quest.
 
 </div>
 
-<div class="post" data-post-id="23885" data-author="Rynquald" data-date="2008-04-21T14:25:02+00:00">
+<div class="post" data-post-id="23885" data-author="Rynquald" data-date="2008-04-21T14:25:02+00:00" data-subject="">
 
 Excellent quest recap Sheng.
 
 </div>
 
-<div class="post" data-post-id="23889" data-author="brady" data-date="2008-04-21T15:34:44+00:00">
+<div class="post" data-post-id="23889" data-author="brady" data-date="2008-04-21T15:34:44+00:00" data-subject="">
 
 outstanding!
 
 </div>
 
-<div class="post" data-post-id="23892" data-author="angel" data-date="2008-04-21T17:09:51+00:00">
+<div class="post" data-post-id="23892" data-author="angel" data-date="2008-04-21T17:09:51+00:00" data-subject="new area final forge">
 
 Object 'charm demon mage', Item type: CLASP
 
@@ -838,7 +838,7 @@ breasplate forge is 2mil coins,armplates is 2mil coins, and i spose the other 2 
 
 </div>
 
-<div class="post" data-post-id="23893" data-author="angel" data-date="2008-04-21T17:23:23+00:00">
+<div class="post" data-post-id="23893" data-author="angel" data-date="2008-04-21T17:23:23+00:00" data-subject="">
 
 Breasplate cost 2mils
 
@@ -886,7 +886,7 @@ not gonna post the other 2 forges up :)
 
 </div>
 
-<div class="post" data-post-id="23896" data-author="angel" data-date="2008-04-21T18:03:05+00:00">
+<div class="post" data-post-id="23896" data-author="angel" data-date="2008-04-21T18:03:05+00:00" data-subject="some extra eq poped in m&amp;m&#x27;s">
 
 Object 'headband band defender', Item type: ARMOR
 
@@ -912,7 +912,7 @@ wanna buy one look me up :)
 
 </div>
 
-<div class="post" data-post-id="23898" data-author="angel" data-date="2008-04-21T19:38:21+00:00">
+<div class="post" data-post-id="23898" data-author="angel" data-date="2008-04-21T19:38:21+00:00" data-subject="more m&amp;m&#x27;s stuff">
 
 girdle forge 
 
@@ -938,7 +938,7 @@ this item.
 
 </div>
 
-<div class="post" data-post-id="23902" data-author="Evergreen" data-date="2008-04-22T08:07:51+00:00">
+<div class="post" data-post-id="23902" data-author="Evergreen" data-date="2008-04-22T08:07:51+00:00" data-subject="">
 
 gratz tox, you got very nice items and area will be smashed often i believe
 
@@ -948,7 +948,7 @@ btw is this for real -1.2 arms for prime monks? outstanding
 
 </div>
 
-<div class="post" data-post-id="23903" data-author="angel" data-date="2008-04-22T08:52:12+00:00">
+<div class="post" data-post-id="23903" data-author="angel" data-date="2008-04-22T08:52:12+00:00" data-subject="">
 
 there was a mistake in that i think. brad fixed it,its 1.2 head gear
 
@@ -956,7 +956,7 @@ there was a mistake in that i think. brad fixed it,its 1.2 head gear
 
 </div>
 
-<div class="post" data-post-id="23918" data-author="**Jake**" data-date="2008-04-22T20:28:11+00:00">
+<div class="post" data-post-id="23918" data-author="**Jake**" data-date="2008-04-22T20:28:11+00:00" data-subject="">
 
 I don't think Sa has stopped smashing the area since it was opened.  :wink: 
 
@@ -968,7 +968,7 @@ btw is this for real -1.2 arms for prime monks? outstanding[/quote:3dh83zak]
 
 </div>
 
-<div class="post" data-post-id="23919" data-author="angel" data-date="2008-04-22T20:35:31+00:00">
+<div class="post" data-post-id="23919" data-author="angel" data-date="2008-04-22T20:35:31+00:00" data-subject="">
 
 im only doing it to get rid of my inventory junk:)
 
@@ -978,7 +978,7 @@ im gonna not go to that area once i have my forge:)
 
 </div>
 
-<div class="post" data-post-id="24029" data-author="Mosaix" data-date="2008-04-25T04:08:41+00:00">
+<div class="post" data-post-id="24029" data-author="Mosaix" data-date="2008-04-25T04:08:41+00:00" data-subject="">
 
 Thanks for making the new area Brad.  Congratz, I look forward to more of your stuff.  Makes the mud fun to see new and interesting ideas flowing.
 

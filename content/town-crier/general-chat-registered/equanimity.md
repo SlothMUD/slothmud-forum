@@ -10,13 +10,13 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="7563" data-author="Pine" data-date="2005-06-24T15:34:38+00:00">
+<div class="post" data-post-id="7563" data-author="Pine" data-date="2005-06-24T15:34:38+00:00" data-subject="Equanimity">
 
 My protects and rescues are failing 100% of the time when shifted.  I understand that equanimity isn't supposed to be as effective with higher forms, but is it really supposed to fail all the time?  Is there anything I can do to utilize this skill?
 
 </div>
 
-<div class="post" data-post-id="7572" data-author="13" data-date="2005-06-24T21:22:07+00:00">
+<div class="post" data-post-id="7572" data-author="13" data-date="2005-06-24T21:22:07+00:00" data-subject="">
 
 Not with anything bigger than a wurm.  It wouldn't do to have you shifted 
 
@@ -26,7 +26,7 @@ That would make warrior more or less useless.
 
 </div>
 
-<div class="post" data-post-id="7583" data-author="Gnu" data-date="2005-06-25T09:42:20+00:00">
+<div class="post" data-post-id="7583" data-author="Gnu" data-date="2005-06-25T09:42:20+00:00" data-subject="">
 
 Not with anything bigger than a wurm.  It wouldn't do to have you shifted 
 
@@ -38,7 +38,7 @@ more useless? hm... it seems to be impossible :) and let CleriCs rule this world
 
 </div>
 
-<div class="post" data-post-id="7591" data-author="firebrand" data-date="2005-06-25T14:38:22+00:00">
+<div class="post" data-post-id="7591" data-author="firebrand" data-date="2005-06-25T14:38:22+00:00" data-subject="">
 
 Not with anything bigger than a wurm.  It wouldn't do to have you shifted as a 2500hp piasa with -11 tanking and protecting the group would it? That would make warrior more or less useless.[/quote:2p0706mc]
 
@@ -46,7 +46,7 @@ wanna talk about feeling useless?  how about being a 40/40/40/40/31 wa prime wit
 
 </div>
 
-<div class="post" data-post-id="7592" data-author="13" data-date="2005-06-25T14:55:00+00:00">
+<div class="post" data-post-id="7592" data-author="13" data-date="2005-06-25T14:55:00+00:00" data-subject="">
 
 It's just that there are more 'pure' tank class orders now, sucks that it happened like that, but I know a few other big Avatar tanks who are outdated now too.  The thing is most of the 'pure class' tanks aren't very good for anything except tanking.  On the whole I would say WMTC is a better overall
 

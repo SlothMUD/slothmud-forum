@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3069" data-author="guest" data-date="2004-11-28T16:10:09+00:00">
+<div class="post" data-post-id="3069" data-author="guest" data-date="2004-11-28T16:10:09+00:00" data-subject="Couple changes affecting supplication">
 
 Hi all ...
 

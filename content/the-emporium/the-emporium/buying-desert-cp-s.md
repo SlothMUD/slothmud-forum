@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="16570" data-author="*juggleblood*" data-date="2007-01-29T14:05:08+00:00">
+<div class="post" data-post-id="16570" data-author="*juggleblood*" data-date="2007-01-29T14:05:08+00:00" data-subject="Buying Desert CP&#x27;s">
 
 Androsphinx fur - paying 4 mil
 
@@ -22,13 +22,13 @@ Dune Stalker - Grain of Black Sand -3 mil
 
 </div>
 
-<div class="post" data-post-id="16611" data-author="Rodek" data-date="2007-02-01T18:12:00+00:00">
+<div class="post" data-post-id="16611" data-author="Rodek" data-date="2007-02-01T18:12:00+00:00" data-subject="">
 
 Id consider selling you some of it, but no idea who you are online.
 
 </div>
 
-<div class="post" data-post-id="16612" data-author="*juggleblood*" data-date="2007-02-01T20:03:44+00:00">
+<div class="post" data-post-id="16612" data-author="*juggleblood*" data-date="2007-02-01T20:03:44+00:00" data-subject="">
 
 Rub :D
 

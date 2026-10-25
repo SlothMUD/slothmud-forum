@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="30357" data-author="*Krom*" data-date="2009-11-20T03:26:47+00:00">
+<div class="post" data-post-id="30357" data-author="*Krom*" data-date="2009-11-20T03:26:47+00:00" data-subject="Nice group">
 
 Group 'BH exp OPEN to ALL' is led by Zuzu and consists of:
 
@@ -52,13 +52,13 @@ Group 'BH exp OPEN to ALL' is led by Zuzu and consists of:
 
 </div>
 
-<div class="post" data-post-id="30358" data-author="hounds" data-date="2009-11-20T04:46:50+00:00">
+<div class="post" data-post-id="30358" data-author="hounds" data-date="2009-11-20T04:46:50+00:00" data-subject="">
 
 and death count fore the night is 6 i think
 
 </div>
 
-<div class="post" data-post-id="30359" data-author="jezer" data-date="2009-11-20T21:56:34+00:00">
+<div class="post" data-post-id="30359" data-author="jezer" data-date="2009-11-20T21:56:34+00:00" data-subject="">
 
 Expecting grouping to die when a player leaves is about as stupid is thinking terrorism would stop if they ever got Bin Laden. Someone always rises up. No one is ever really not expendable.
 
@@ -66,13 +66,13 @@ And yes it was a good group, thanks Zuzu for leading.
 
 </div>
 
-<div class="post" data-post-id="30360" data-author="Playboy" data-date="2009-11-20T22:38:30+00:00">
+<div class="post" data-post-id="30360" data-author="Playboy" data-date="2009-11-20T22:38:30+00:00" data-subject="">
 
 I think u just compared us to terrorists with Zuzu as our osama bin laden. Interesting analogy..
 
 </div>
 
-<div class="post" data-post-id="30362" data-author="Tap" data-date="2009-11-21T00:43:03+00:00">
+<div class="post" data-post-id="30362" data-author="Tap" data-date="2009-11-21T00:43:03+00:00" data-subject="">
 
 heh..he said analogy
 

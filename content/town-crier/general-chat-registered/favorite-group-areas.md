@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="23350" data-author="firebrand" data-date="2008-03-21T20:24:09+00:00">
+<div class="post" data-post-id="23350" data-author="firebrand" data-date="2008-03-21T20:24:09+00:00" data-subject="favorite group areas">
 
 since there are far too many areas to list in the poll, i will ask for ppl to post theirs here.  the question is: 
 
@@ -26,7 +26,7 @@ what is your favorite group area to follow for eq?
 
 </div>
 
-<div class="post" data-post-id="23353" data-author="Rynquald" data-date="2008-03-21T23:02:51+00:00">
+<div class="post" data-post-id="23353" data-author="Rynquald" data-date="2008-03-21T23:02:51+00:00" data-subject="">
 
 what is your favorite group area to lead for exps? [/quote:1p806fzd]
 
@@ -46,7 +46,7 @@ And again. Above.
 
 </div>
 
-<div class="post" data-post-id="23354" data-author="Yasik2" data-date="2008-03-21T23:16:55+00:00">
+<div class="post" data-post-id="23354" data-author="Yasik2" data-date="2008-03-21T23:16:55+00:00" data-subject="">
 
 1. None, i don't lead.
 
@@ -58,7 +58,7 @@ And again. Above.
 
 </div>
 
-<div class="post" data-post-id="23356" data-author="Krok" data-date="2008-03-22T09:07:01+00:00">
+<div class="post" data-post-id="23356" data-author="Krok" data-date="2008-03-22T09:07:01+00:00" data-subject="">
 
 1. Lyme - what Rynq said, off-Lyme - Dmount, Iceglen
 
@@ -70,7 +70,7 @@ And again. Above.
 
 </div>
 
-<div class="post" data-post-id="23357" data-author="jezer" data-date="2008-03-22T13:02:58+00:00">
+<div class="post" data-post-id="23357" data-author="jezer" data-date="2008-03-22T13:02:58+00:00" data-subject="Re: favorite group areas">
 
 [b:yj766td2]what is your favorite group area to lead for exps?[/b:yj766td2]
 
@@ -90,7 +90,7 @@ Kobolds is always good...
 
 </div>
 
-<div class="post" data-post-id="23377" data-author="Assirian" data-date="2008-03-23T09:06:27+00:00">
+<div class="post" data-post-id="23377" data-author="Assirian" data-date="2008-03-23T09:06:27+00:00" data-subject="">
 
 3. Lyme chop areas
 
@@ -98,7 +98,7 @@ Kobolds is always good...
 
 </div>
 
-<div class="post" data-post-id="23398" data-author="Avatar" data-date="2008-03-24T17:55:39+00:00">
+<div class="post" data-post-id="23398" data-author="Avatar" data-date="2008-03-24T17:55:39+00:00" data-subject="">
 
 3) DWeb (SS)
 
@@ -108,7 +108,7 @@ What's the point of the poll?  Just curious?
 
 </div>
 
-<div class="post" data-post-id="23405" data-author="jezer" data-date="2008-03-24T22:29:23+00:00">
+<div class="post" data-post-id="23405" data-author="jezer" data-date="2008-03-24T22:29:23+00:00" data-subject="">
 
 What's the point of the poll?  Just curious?[/quote:2pagvn2x]
 
@@ -116,7 +116,7 @@ I sensed a deeper motive too... hence my silly answer... is it plans to nerf gro
 
 </div>
 
-<div class="post" data-post-id="23407" data-author="*juggleblood*" data-date="2008-03-25T01:56:01+00:00">
+<div class="post" data-post-id="23407" data-author="*juggleblood*" data-date="2008-03-25T01:56:01+00:00" data-subject="">
 
 3) DWeb (SS)
 
@@ -128,7 +128,7 @@ Please remove 'dispel magic' from the mobs' cast list or reduce their caster lev
 
 </div>
 
-<div class="post" data-post-id="23409" data-author="jezer" data-date="2008-03-25T04:36:11+00:00">
+<div class="post" data-post-id="23409" data-author="jezer" data-date="2008-03-25T04:36:11+00:00" data-subject="">
 
 Sometimes programmers fix things, because they are perceived "wrong" or not in uniform with the other parts or end goals... 
 
@@ -140,7 +140,7 @@ Whoever changed demon web... fixed it, not broke it! :twisted:
 
 </div>
 
-<div class="post" data-post-id="23410" data-author="13" data-date="2008-03-25T12:53:18+00:00">
+<div class="post" data-post-id="23410" data-author="13" data-date="2008-03-25T12:53:18+00:00" data-subject="">
 
 sounds like whoever changed the web is a dipshit.   if you make it too tough
 
@@ -158,7 +158,7 @@ unless you put new stuff in the eq from dweb is junk anyway
 
 </div>
 
-<div class="post" data-post-id="23411" data-author="Leaf" data-date="2008-03-25T14:14:50+00:00">
+<div class="post" data-post-id="23411" data-author="Leaf" data-date="2008-03-25T14:14:50+00:00" data-subject="">
 
 Dispel Magic procs on mobs really suck!!!  When did they make this change?
 
@@ -176,7 +176,7 @@ on exp areas.  Just causes a CF.
 
 </div>
 
-<div class="post" data-post-id="23417" data-author="12345" data-date="2008-03-25T22:41:19+00:00">
+<div class="post" data-post-id="23417" data-author="12345" data-date="2008-03-25T22:41:19+00:00" data-subject="">
 
 sounds like whoever changed the web is a dipshit.   if you make it too tough
 
@@ -192,7 +192,7 @@ Just make sure you have a good 911 on hand while you're there.  You don't want t
 
 </div>
 
-<div class="post" data-post-id="23421" data-author="Rynquald" data-date="2008-03-25T23:25:33+00:00">
+<div class="post" data-post-id="23421" data-author="Rynquald" data-date="2008-03-25T23:25:33+00:00" data-subject="">
 
 I love Moria. Its easily one of the best areas in the game.[/quote:xx7ei70d]
 
@@ -200,13 +200,13 @@ Second! :)
 
 </div>
 
-<div class="post" data-post-id="23424" data-author="jezer" data-date="2008-03-25T23:45:30+00:00">
+<div class="post" data-post-id="23424" data-author="jezer" data-date="2008-03-25T23:45:30+00:00" data-subject="">
 
 Ok, Moria lovers... I need a thick leather belt... lets group! No Excuses!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23425" data-author="strider" data-date="2008-03-26T02:08:07+00:00">
+<div class="post" data-post-id="23425" data-author="strider" data-date="2008-03-26T02:08:07+00:00" data-subject="">
 
 ok jezer, logged on, went and killed wight, popped a leather belt.
 
@@ -214,7 +214,7 @@ now how much ya gonna pay me for it?
 
 </div>
 
-<div class="post" data-post-id="23426" data-author="jezer" data-date="2008-03-26T02:26:21+00:00">
+<div class="post" data-post-id="23426" data-author="jezer" data-date="2008-03-26T02:26:21+00:00" data-subject="">
 
 Hehe, How much you askinâ€™ strides?
 
@@ -234,7 +234,7 @@ PS Your a troublemaker! I like that!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="23436" data-author="Avatar" data-date="2008-03-26T13:47:15+00:00">
+<div class="post" data-post-id="23436" data-author="Avatar" data-date="2008-03-26T13:47:15+00:00" data-subject="belt">
 
 Just wanted to point out that I'll outbid him.
 
@@ -242,13 +242,13 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="23437" data-author="strider" data-date="2008-03-26T15:48:17+00:00">
+<div class="post" data-post-id="23437" data-author="strider" data-date="2008-03-26T15:48:17+00:00" data-subject="">
 
 ok, finally popped one for you too avatar. get a hold of me online.
 
 </div>
 
-<div class="post" data-post-id="23438" data-author="Leaf" data-date="2008-03-26T15:53:26+00:00">
+<div class="post" data-post-id="23438" data-author="Leaf" data-date="2008-03-26T15:53:26+00:00" data-subject="">
 
 Dang, maybe we can post a list of items we want and need and you can
 
@@ -258,7 +258,7 @@ I need a D.Gown, will pay well :)
 
 </div>
 
-<div class="post" data-post-id="23439" data-author="Yasik2" data-date="2008-03-26T15:59:47+00:00">
+<div class="post" data-post-id="23439" data-author="Yasik2" data-date="2008-03-26T15:59:47+00:00" data-subject="">
 
 yoopers cps
 
@@ -270,7 +270,7 @@ will pay well as well heh
 
 </div>
 
-<div class="post" data-post-id="23442" data-author="Toxis" data-date="2008-03-26T18:20:34+00:00">
+<div class="post" data-post-id="23442" data-author="Toxis" data-date="2008-03-26T18:20:34+00:00" data-subject="">
 
 My favorite area to lead was old dweb.  There were many different sized mobs and if you had good players, you could hit a big mob then several smaller sized mobs and then regen, hit a big mob and hit the rest of the smaller sized mobs... it was a lot of fun.  I'd like to get a huge group and go into dweb someday, but it needs a -12 avatar tank and some avatar healers, that's for sure... oh yeah tank stay spellshielded and do not hit mind flayer.
 

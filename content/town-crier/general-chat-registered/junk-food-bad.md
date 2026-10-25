@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="18712" data-author="Atwell" data-date="2007-05-30T01:28:12+00:00">
+<div class="post" data-post-id="18712" data-author="Atwell" data-date="2007-05-30T01:28:12+00:00" data-subject="Junk Food = bad">
 
 gorge
 
@@ -102,13 +102,13 @@ If you ate another bite, you would explode.
 
 </div>
 
-<div class="post" data-post-id="18713" data-author="Autolycos" data-date="2007-05-30T01:32:02+00:00">
+<div class="post" data-post-id="18713" data-author="Autolycos" data-date="2007-05-30T01:32:02+00:00" data-subject="">
 
 holy god   :shock:
 
 </div>
 
-<div class="post" data-post-id="18714" data-author="Weasel" data-date="2007-05-30T01:32:26+00:00">
+<div class="post" data-post-id="18714" data-author="Weasel" data-date="2007-05-30T01:32:26+00:00" data-subject="">
 
 AYE! LOOKIT ME! I'M DEAD SEXY!
 

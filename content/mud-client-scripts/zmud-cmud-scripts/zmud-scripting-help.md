@@ -10,7 +10,7 @@ locked: false
 post_count: 23
 ---
 
-<div class="post" data-post-id="4659" data-author="Methyx" data-date="2005-02-28T07:35:37+00:00">
+<div class="post" data-post-id="4659" data-author="Methyx" data-date="2005-02-28T07:35:37+00:00" data-subject="ZMud Scripting Help">
 
 Hello All,
 
@@ -30,19 +30,19 @@ BTW....what happened to our pictured avatars??
 
 </div>
 
-<div class="post" data-post-id="4660" data-author="Methyx" data-date="2005-02-28T07:37:03+00:00">
+<div class="post" data-post-id="4660" data-author="Methyx" data-date="2005-02-28T07:37:03+00:00" data-subject="">
 
 Nevermind about the avatars...seems they've been fixed  :oops:
 
 </div>
 
-<div class="post" data-post-id="4661" data-author="guest" data-date="2005-02-28T08:50:32+00:00">
+<div class="post" data-post-id="4661" data-author="guest" data-date="2005-02-28T08:50:32+00:00" data-subject="">
 
 No clue about Zmud, but about avatar images ... we disabled them a few days for forum maintenance, and they are back.  So you are not seeing strange things.   :)
 
 </div>
 
-<div class="post" data-post-id="4662" data-author="Zam" data-date="2005-02-28T09:21:41+00:00">
+<div class="post" data-post-id="4662" data-author="Zam" data-date="2005-02-28T09:21:41+00:00" data-subject="">
 
 No clue about Zmud [/quote:1wrx1ikz]
 
@@ -50,13 +50,13 @@ newbie!
 
 </div>
 
-<div class="post" data-post-id="4664" data-author="karl" data-date="2005-02-28T12:10:49+00:00">
+<div class="post" data-post-id="4664" data-author="karl" data-date="2005-02-28T12:10:49+00:00" data-subject="">
 
 Are you just looking for a tank reporter?  If so, what are you wanting it to report?
 
 </div>
 
-<div class="post" data-post-id="4681" data-author="Methyx" data-date="2005-03-01T08:07:36+00:00">
+<div class="post" data-post-id="4681" data-author="Methyx" data-date="2005-03-01T08:07:36+00:00" data-subject="">
 
 Basically, I just want some instruction on how to set up the scripts in ZMud.  Setting up a whiner that reports hit points and buff spell status was what I was hoping to start off with.  And hopefully, the instructions come in terms that the layman can understand.  :twisted: 
 
@@ -68,7 +68,7 @@ In utilizing a script, let's say it's a whiner, do I set up an alias/trigger to 
 
 </div>
 
-<div class="post" data-post-id="4682" data-author="Akasha2" data-date="2005-03-01T08:51:41+00:00">
+<div class="post" data-post-id="4682" data-author="Akasha2" data-date="2005-03-01T08:51:41+00:00" data-subject="very BASIC Zmud instructions">
 
 A class folder is basically a folder you create in your settings menu of zmud to store triggers/aliases/buttons/etc.  You use class folders to serperate and organize various settings, EG: you might create a folder called BASIC to hold things like triggers for #trigger {^You are hungry.} {get food bag;eat food} and other common instances, including thirst, recite recall, grouptell aliases, etc.
 
@@ -144,7 +144,7 @@ Akasha/Xandora
 
 </div>
 
-<div class="post" data-post-id="4683" data-author="Akasha2" data-date="2005-03-01T08:54:33+00:00">
+<div class="post" data-post-id="4683" data-author="Akasha2" data-date="2005-03-01T08:54:33+00:00" data-subject="Re: very BASIC Zmud instructions">
 
 > **Akasha wrote:**
 > Myleader -- '*** target blah'
@@ -169,7 +169,7 @@ should be
 
 </div>
 
-<div class="post" data-post-id="4684" data-author="Akasha2" data-date="2005-03-01T08:56:06+00:00">
+<div class="post" data-post-id="4684" data-author="Akasha2" data-date="2005-03-01T08:56:06+00:00" data-subject="">
 
 bleah no its not.. im helluva tired, ignore these two posts and go to the 3rd one :) its right.
 
@@ -177,13 +177,13 @@ Aka/Xan
 
 </div>
 
-<div class="post" data-post-id="4687" data-author="karl" data-date="2005-03-01T11:45:49+00:00">
+<div class="post" data-post-id="4687" data-author="karl" data-date="2005-03-01T11:45:49+00:00" data-subject="">
 
 Awesome explaination Akasha/Xandora!!
 
 </div>
 
-<div class="post" data-post-id="4689" data-author="Methyx" data-date="2005-03-01T12:47:23+00:00">
+<div class="post" data-post-id="4689" data-author="Methyx" data-date="2005-03-01T12:47:23+00:00" data-subject="">
 
 That was a very detailed response and greatly appreciated.  Thank you very much  :D 
 
@@ -199,7 +199,7 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="4696" data-author="Zenkai" data-date="2005-03-01T14:59:01+00:00">
+<div class="post" data-post-id="4696" data-author="Zenkai" data-date="2005-03-01T14:59:01+00:00" data-subject="">
 
 Basic Whiner:
 
@@ -259,7 +259,7 @@ The above code is just wrong, you are going to save the leader's grouptell prefi
 
 </div>
 
-<div class="post" data-post-id="4698" data-author="Akasha2" data-date="2005-03-01T17:44:27+00:00">
+<div class="post" data-post-id="4698" data-author="Akasha2" data-date="2005-03-01T17:44:27+00:00" data-subject="Reply: Zenkai">
 
 heh, Zenkai, you and I disagree on so many zmud issues.  The spacing on the target code may be off ( it was 5:30am and I was extremely tired), but that is basically the same script ive used for targetting for years, and it has never given me any trouble. 
 
@@ -271,7 +271,7 @@ and it has never failed me ;)
 
 </div>
 
-<div class="post" data-post-id="4699" data-author="Akasha2" data-date="2005-03-01T18:04:35+00:00">
+<div class="post" data-post-id="4699" data-author="Akasha2" data-date="2005-03-01T18:04:35+00:00" data-subject="reply: Methyx">
 
 Whiner's are a dime a dozen.  The whiner I posted in another thread somewhere on here is very specific to the custom prompt that supports it.
 
@@ -507,7 +507,7 @@ Aka/Xan
 
 </div>
 
-<div class="post" data-post-id="4710" data-author="Zenkai" data-date="2005-03-02T01:14:44+00:00">
+<div class="post" data-post-id="4710" data-author="Zenkai" data-date="2005-03-02T01:14:44+00:00" data-subject="">
 
 Sorry Akasha, I shouldn't have said your trigger was wrong :) but it may not work in the new zMUD version.
 
@@ -541,7 +541,7 @@ Happy Scripting :)
 
 </div>
 
-<div class="post" data-post-id="4711" data-author="Akasha2" data-date="2005-03-02T02:31:13+00:00">
+<div class="post" data-post-id="4711" data-author="Akasha2" data-date="2005-03-02T02:31:13+00:00" data-subject="">
 
 actually i use version 7.05, and it doesnt require me to use %1-%99 in any particular order.  I can use (*), then %1, and it doesnt appear to make a difference, maybe 1 of my preference settings is different than yours or something.
 
@@ -549,7 +549,7 @@ actually i use version 7.05, and it doesnt require me to use %1-%99 in any parti
 
 </div>
 
-<div class="post" data-post-id="4720" data-author="13" data-date="2005-03-02T16:33:57+00:00">
+<div class="post" data-post-id="4720" data-author="13" data-date="2005-03-02T16:33:57+00:00" data-subject="I got some new shoes today.">
 
 I really like them.
 
@@ -557,13 +557,13 @@ I really like them.
 
 </div>
 
-<div class="post" data-post-id="4721" data-author="Leaf" data-date="2005-03-02T16:50:16+00:00">
+<div class="post" data-post-id="4721" data-author="Leaf" data-date="2005-03-02T16:50:16+00:00" data-subject="">
 
 Why did u post that in this thrend?  It should have been in that Pic thrend, cause who cares  :P
 
 </div>
 
-<div class="post" data-post-id="4722" data-author="13" data-date="2005-03-02T17:20:30+00:00">
+<div class="post" data-post-id="4722" data-author="13" data-date="2005-03-02T17:20:30+00:00" data-subject="">
 
 Hi, my name is Aaron Young and I am writing you this so that you
 
@@ -577,7 +577,7 @@ Aaron
 
 </div>
 
-<div class="post" data-post-id="4730" data-author="Leaf" data-date="2005-03-02T19:09:45+00:00">
+<div class="post" data-post-id="4730" data-author="Leaf" data-date="2005-03-02T19:09:45+00:00" data-subject="">
 
 Eat a Bowl of Dicks,
 
@@ -587,7 +587,7 @@ Glad u got that out of ur closet. hehe
 
 </div>
 
-<div class="post" data-post-id="4740" data-author="Methyx" data-date="2005-03-03T11:11:50+00:00">
+<div class="post" data-post-id="4740" data-author="Methyx" data-date="2005-03-03T11:11:50+00:00" data-subject="">
 
 My thanks go to both Xandora and Zenkai.  I have a newbie monk meat shield who is making very good use of the help you provided  :D 
 
@@ -599,7 +599,7 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="4910" data-author="Methyx" data-date="2005-03-09T12:39:29+00:00">
+<div class="post" data-post-id="4910" data-author="Methyx" data-date="2005-03-09T12:39:29+00:00" data-subject="Dummy Mistake">
 
 Hey Xandora,
 
@@ -613,7 +613,7 @@ Vagabond Monk
 
 </div>
 
-<div class="post" data-post-id="4912" data-author="Akasha2" data-date="2005-03-09T13:09:05+00:00">
+<div class="post" data-post-id="4912" data-author="Akasha2" data-date="2005-03-09T13:09:05+00:00" data-subject="re:">
 
 It should just pop back open when that particular communication comes through the scripts.  If that doesnt work, check your class folder where your #gag/#cap scripts are and unsure the script wasnt deleted accidently.  
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38590" data-author="*teker*" data-date="2018-01-07T03:05:33+00:00">
+<div class="post" data-post-id="38590" data-author="*teker*" data-date="2018-01-07T03:05:33+00:00" data-subject="Changelog 2018-01-06">
 
 I've put some code in place to make it more difficult to interrupt singing call of the cuillen.  No guarantees but it should require you to "sing stop" before casting another spell.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34233" data-author="*Neptune*" data-date="2013-04-12T15:21:24+00:00">
+<div class="post" data-post-id="34233" data-author="*Neptune*" data-date="2013-04-12T15:21:24+00:00" data-subject="Raven&#x27;s Roost Item Updates">
 
 1. Regarding The Dragon Emblem and the Ruby Spider Brooch:
 

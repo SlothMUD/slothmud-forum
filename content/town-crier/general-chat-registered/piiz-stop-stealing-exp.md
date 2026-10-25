@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="8291" data-author="Rayal" data-date="2005-08-14T00:55:43+00:00">
+<div class="post" data-post-id="8291" data-author="Rayal" data-date="2005-08-14T00:55:43+00:00" data-subject="Piiz stop stealing exp.">
 
 Hi,
 
@@ -598,7 +598,7 @@ NOT that it was hard to see :?
 
 </div>
 
-<div class="post" data-post-id="8293" data-author="wampire" data-date="2005-08-14T01:18:38+00:00">
+<div class="post" data-post-id="8293" data-author="wampire" data-date="2005-08-14T01:18:38+00:00" data-subject="">
 
 Hmm i was trying to help two friends so the exp was not for me....
 
@@ -958,7 +958,7 @@ telYou tell Rayal 'it was a mistake'
 
 </div>
 
-<div class="post" data-post-id="8295" data-author="wampire" data-date="2005-08-14T01:22:32+00:00">
+<div class="post" data-post-id="8295" data-author="wampire" data-date="2005-08-14T01:22:32+00:00" data-subject="">
 
 Hmm some other dialogs,i really did not know what i did... 
 
@@ -1546,7 +1546,7 @@ Wampire--- The magician from Turkey
 
 </div>
 
-<div class="post" data-post-id="8296" data-author="wampire" data-date="2005-08-14T01:28:29+00:00">
+<div class="post" data-post-id="8296" data-author="wampire" data-date="2005-08-14T01:28:29+00:00" data-subject="">
 
 <149hp 217ma 106mv>
 
@@ -1724,13 +1724,13 @@ Sorry For disturbing you...
 
 </div>
 
-<div class="post" data-post-id="8297" data-author="Autolycos" data-date="2005-08-14T01:57:32+00:00">
+<div class="post" data-post-id="8297" data-author="Autolycos" data-date="2005-08-14T01:57:32+00:00" data-subject="">
 
 i'm really not sure wtf point you are trying to make,  but you did succeed in giving me a headache.
 
 </div>
 
-<div class="post" data-post-id="8298" data-author="Rayal" data-date="2005-08-14T02:21:55+00:00">
+<div class="post" data-post-id="8298" data-author="Rayal" data-date="2005-08-14T02:21:55+00:00" data-subject="hi">
 
 Piiz is explaining that he didnt see that i was alone in the room fighting the mob. I understand this even though it does seem shady, i just dont like it, and dont want it happening again.
 
@@ -1738,19 +1738,19 @@ Other than that everything is cool 8)
 
 </div>
 
-<div class="post" data-post-id="8300" data-author="Autolycos" data-date="2005-08-14T19:52:28+00:00">
+<div class="post" data-post-id="8300" data-author="Autolycos" data-date="2005-08-14T19:52:28+00:00" data-subject="">
 
 thank you,  that was much easier to say then posting 2 long scripts of nonsense.
 
 </div>
 
-<div class="post" data-post-id="8305" data-author="Ozzy" data-date="2005-08-15T14:24:58+00:00">
+<div class="post" data-post-id="8305" data-author="Ozzy" data-date="2005-08-15T14:24:58+00:00" data-subject="">
 
 I wont read all that sh**load of logs  :evil:
 
 </div>
 
-<div class="post" data-post-id="8311" data-author="firebrand" data-date="2005-08-15T19:24:46+00:00">
+<div class="post" data-post-id="8311" data-author="firebrand" data-date="2005-08-15T19:24:46+00:00" data-subject="">
 
 valk is a great place for newbies and stuff.  if you want to give morts, take it off vk or don't do it in areas where people are likely to be soloing.  a very simple and useful command is where.  it shows you not only what area you are in, but other players that are in the area as well. (yes, i know that some players hide/sneak/stalk and i know not everyone has detect invis, sense life, infravision, darksight, whatver)  if/when you see someone else in area with you, common courtesy is to ask what they are cycling and if it is okay for you &/or you and group to come through and kill too.  a little communication helps.  also, use tools we have like brief, concise, gag title, etc to help cut down on room spam, making it a little easier to see if someone is already there fighting.  if you have the levs, use spells like web, brambles, etc to hold the mobs in place so they don't flee.  with all that fleeing, it is very hard to know which mob you are chasing and which mob someone else is chasing if the mobs are the same.  it's very easy to make an honest mistake.  
 
@@ -1758,7 +1758,7 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="8314" data-author="hinju" data-date="2005-08-16T11:33:24+00:00">
+<div class="post" data-post-id="8314" data-author="hinju" data-date="2005-08-16T11:33:24+00:00" data-subject="">
 
 I agree with Firebrand, it's always good to be careful of others especially in a popular area like Blasters.  But I also took the time to read those logs and it seems that Piiz made every attempt to rectify an honest mistake.  Including a few apologies and 10000 gold which is about what a servant kill is worth xp and gold combined.  
 

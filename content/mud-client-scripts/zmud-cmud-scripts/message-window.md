@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="5128" data-author="achazia" data-date="2005-03-17T09:44:41+00:00">
+<div class="post" data-post-id="5128" data-author="achazia" data-date="2005-03-17T09:44:41+00:00" data-subject="Message-window?">
 
 Hi!
 
@@ -22,7 +22,7 @@ speaking to a separate window? Anyone knows how to do that?
 
 </div>
 
-<div class="post" data-post-id="5148" data-author="Blastem" data-date="2005-03-17T15:20:02+00:00">
+<div class="post" data-post-id="5148" data-author="Blastem" data-date="2005-03-17T15:20:02+00:00" data-subject="">
 
 #TRIG {tells you} {#cap tells;#beep;#gag} tells
 
@@ -32,7 +32,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="5161" data-author="achazia" data-date="2005-03-18T06:50:36+00:00">
+<div class="post" data-post-id="5161" data-author="achazia" data-date="2005-03-18T06:50:36+00:00" data-subject="...">
 
 Hi!
 
@@ -46,7 +46,7 @@ and "say" also?
 
 </div>
 
-<div class="post" data-post-id="5168" data-author="karl" data-date="2005-03-18T11:44:53+00:00">
+<div class="post" data-post-id="5168" data-author="karl" data-date="2005-03-18T11:44:53+00:00" data-subject="">
 
 Here is the script that I use.  It doesn't capture 'says' but you should be able to do that from this example.
 
@@ -66,7 +66,7 @@ Here is the script that I use.  It doesn't capture 'says' but you should be able
 
 </div>
 
-<div class="post" data-post-id="5884" data-author="slice" data-date="2005-04-30T11:56:04+00:00">
+<div class="post" data-post-id="5884" data-author="slice" data-date="2005-04-30T11:56:04+00:00" data-subject="">
 
 This is what i use for my capture, it's also useful for immortals as well.
 
@@ -112,7 +112,7 @@ I also deliberately don't capture says & grouptells by choice.  But you could ea
 
 </div>
 
-<div class="post" data-post-id="8819" data-author="Ryvral" data-date="2005-09-25T06:07:09+00:00">
+<div class="post" data-post-id="8819" data-author="Ryvral" data-date="2005-09-25T06:07:09+00:00" data-subject="">
 
 when someone sends a long message part of it gets lost as it doesn't auto scroll down..
 
@@ -120,7 +120,7 @@ Anyway to fix this?
 
 </div>
 
-<div class="post" data-post-id="11856" data-author="Rajil" data-date="2006-03-28T18:40:34+00:00">
+<div class="post" data-post-id="11856" data-author="Rajil" data-date="2006-03-28T18:40:34+00:00" data-subject="">
 
 If there's still anyone using zMUD ...
 
@@ -130,7 +130,7 @@ It's either the main window where the room descriptions are or the channels wind
 
 </div>
 
-<div class="post" data-post-id="11859" data-author="Blastem" data-date="2006-03-28T23:37:53+00:00">
+<div class="post" data-post-id="11859" data-author="Blastem" data-date="2006-03-28T23:37:53+00:00" data-subject="">
 
 do you want them to log to the same file or diff files?
 
@@ -144,7 +144,7 @@ Blastem
 
 </div>
 
-<div class="post" data-post-id="11860" data-author="Rajil" data-date="2006-03-29T00:13:25+00:00">
+<div class="post" data-post-id="11860" data-author="Rajil" data-date="2006-03-29T00:13:25+00:00" data-subject="">
 
 Thanks! :D
 

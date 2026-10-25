@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33813" data-author="Magi" data-date="2012-12-05T06:08:39+00:00">
+<div class="post" data-post-id="33813" data-author="Magi" data-date="2012-12-05T06:08:39+00:00" data-subject="Play nice!">
 
 Thanks Splork for livening up the evening tonight. Lots of players were on, and we killed some stuff that doesn't die very often...
 

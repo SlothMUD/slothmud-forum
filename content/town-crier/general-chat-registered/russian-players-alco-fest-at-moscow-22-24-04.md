@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32566" data-author="Tuck" data-date="2011-04-17T18:56:27+00:00">
+<div class="post" data-post-id="32566" data-author="Tuck" data-date="2011-04-17T18:56:27+00:00" data-subject="Russian players alco-fest at Moscow 22-24.04.">
 
 *Benq* Note: inline images changed to links due to possible malware.... (reported by Thraxas) Click at your own risk!
 

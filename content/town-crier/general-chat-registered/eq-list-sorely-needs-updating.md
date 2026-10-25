@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="18377" data-author="firebrand" data-date="2007-05-07T15:19:28+00:00">
+<div class="post" data-post-id="18377" data-author="firebrand" data-date="2007-05-07T15:19:28+00:00" data-subject="eq list sorely needs updating">
 
 since it seems that our esteemed eqmaster has taken a vacation from sloth, is there anyone who is updating our eqlist with the new items and forges and new sbs?  we have a lotta players who want to know where to find these things and what stats are on them and what mobs to hit to forge new stuff (like genie bottle and pendulum and others).   
 
@@ -18,13 +18,13 @@ since it seems that our esteemed eqmaster has taken a vacation from sloth, is th
 
 </div>
 
-<div class="post" data-post-id="18378" data-author="Autolycos" data-date="2007-05-07T15:35:39+00:00">
+<div class="post" data-post-id="18378" data-author="Autolycos" data-date="2007-05-07T15:35:39+00:00" data-subject="">
 
 some of us do submit things to the eq-list..   it is self sufficient..  just some people are too damn lazy to recite an ident and post it.
 
 </div>
 
-<div class="post" data-post-id="18379" data-author="firebrand" data-date="2007-05-07T16:14:33+00:00">
+<div class="post" data-post-id="18379" data-author="firebrand" data-date="2007-05-07T16:14:33+00:00" data-subject="">
 
 it mayhap be submitted to dean or is posted here to the crier but as far as in the eqlist itself and searchable, not -all- items are there yet.
 
@@ -32,19 +32,19 @@ it mayhap be submitted to dean or is posted here to the crier but as far as in t
 
 </div>
 
-<div class="post" data-post-id="18381" data-author="Guinex" data-date="2007-05-07T18:26:40+00:00">
+<div class="post" data-post-id="18381" data-author="Guinex" data-date="2007-05-07T18:26:40+00:00" data-subject="">
 
 genie bottle is not a forge, its an autoquest
 
 </div>
 
-<div class="post" data-post-id="18382" data-author="Guinex" data-date="2007-05-07T18:28:07+00:00">
+<div class="post" data-post-id="18382" data-author="Guinex" data-date="2007-05-07T18:28:07+00:00" data-subject="">
 
 and i thought submittals had to be approved to be posted, i know that you can't view anything by the year 2007 as well
 
 </div>
 
-<div class="post" data-post-id="18387" data-author="firebrand" data-date="2007-05-07T19:45:41+00:00">
+<div class="post" data-post-id="18387" data-author="firebrand" data-date="2007-05-07T19:45:41+00:00" data-subject="">
 
 either way........it still needs updating.  
 
@@ -52,13 +52,13 @@ either way........it still needs updating.
 
 </div>
 
-<div class="post" data-post-id="18997" data-author="blackmore" data-date="2007-06-20T13:26:52+00:00">
+<div class="post" data-post-id="18997" data-author="blackmore" data-date="2007-06-20T13:26:52+00:00" data-subject="">
 
 Yes, it does sorely need updating.  It's something I know I need to do, it just never seems to make the top of my list of things I want to do at night when I'm sitting around after the wife and kids are asleep, and I have time to spend on my own interests.  I will get to it, though it might have to wait until school is back in.  The odds of me having time to work on it are much greater when the kids are in school.
 
 </div>
 
-<div class="post" data-post-id="18998" data-author="alias" data-date="2007-06-20T14:22:58+00:00">
+<div class="post" data-post-id="18998" data-author="alias" data-date="2007-06-20T14:22:58+00:00" data-subject="">
 
 To be honest the eq list and website are what really drew me in to playing here. Its a wonderful resource to have and even if it is a little out-dated its a hell of a lot better than having to id everything you come across as a newb. In later levels id'ing stuff isnt such a burden. Thanx for just having it.
 
@@ -66,7 +66,7 @@ Alias
 
 </div>
 
-<div class="post" data-post-id="18999" data-author="Leaf" data-date="2007-06-20T16:31:47+00:00">
+<div class="post" data-post-id="18999" data-author="Leaf" data-date="2007-06-20T16:31:47+00:00" data-subject="">
 
 I could be wrong ... but can't the Immorts pull their logs of eq and post it?
 

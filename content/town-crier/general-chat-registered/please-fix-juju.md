@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="34100" data-author="Dragoth" data-date="2013-02-28T09:11:13+00:00">
+<div class="post" data-post-id="34100" data-author="Dragoth" data-date="2013-02-28T09:11:13+00:00" data-subject="Please fix Juju">
 
 summon juju is playing up sometimes, been happening for awhile, not sure why..
 
@@ -48,7 +48,7 @@ A vicious Ju-Ju Zombie starts following you.
 
 </div>
 
-<div class="post" data-post-id="34106" data-author="*juggleblood*" data-date="2013-02-28T12:39:15+00:00">
+<div class="post" data-post-id="34106" data-author="*juggleblood*" data-date="2013-02-28T12:39:15+00:00" data-subject="Re: Please fix Juju">
 
 I looked into it.
 
@@ -58,7 +58,7 @@ It's an old / complicated proc. I will have to tear it apart when I have some ti
 
 </div>
 
-<div class="post" data-post-id="34110" data-author="Magi" data-date="2013-02-28T22:00:11+00:00">
+<div class="post" data-post-id="34110" data-author="Magi" data-date="2013-02-28T22:00:11+00:00" data-subject="Re: Please fix Juju">
 
 The Juju should only melt when you are Dark cloaked or Urban Stealth'd.
 
@@ -68,7 +68,7 @@ An easy fix might be to make pets immune to the stealth affect of dark cloak, wh
 
 </div>
 
-<div class="post" data-post-id="34111" data-author="*juggleblood*" data-date="2013-02-28T23:42:02+00:00">
+<div class="post" data-post-id="34111" data-author="*juggleblood*" data-date="2013-02-28T23:42:02+00:00" data-subject="Re: Please fix Juju">
 
 Huh?
 
@@ -78,7 +78,7 @@ Because that would truly baffle me if it were true. The code doesn't care if the
 
 </div>
 
-<div class="post" data-post-id="34113" data-author="Magi" data-date="2013-03-01T14:18:19+00:00">
+<div class="post" data-post-id="34113" data-author="Magi" data-date="2013-03-01T14:18:19+00:00" data-subject="Re: Please fix Juju">
 
 I can only speak from experience playing a necro. I've not looked at the juju zombie code.
 
@@ -86,7 +86,7 @@ I believe dark cloak to be the cause of the problem.  It would be pretty easy to
 
 </div>
 
-<div class="post" data-post-id="34114" data-author="*juggleblood*" data-date="2013-03-02T00:53:12+00:00">
+<div class="post" data-post-id="34114" data-author="*juggleblood*" data-date="2013-03-02T00:53:12+00:00" data-subject="Re: Please fix Juju">
 
 I take your word for it. I'm just surprised.
 
@@ -96,7 +96,7 @@ Now I just tried testing Juju with dark cloak and renting with dark cloak. Neith
 
 </div>
 
-<div class="post" data-post-id="34119" data-author="Magi" data-date="2013-03-04T03:16:36+00:00">
+<div class="post" data-post-id="34119" data-author="Magi" data-date="2013-03-04T03:16:36+00:00" data-subject="Re: Please fix Juju">
 
 Dark cloak stealth effect is a % chance the mob won't see you correctly.  Stand at an innkeeper and type 'offer' twenty times.  5 or 10% of the time (never tested the exact number) he'll give you the 'I can't see you' message.
 
@@ -104,7 +104,7 @@ If dark cloak is the cause of the juju problem, it would be failing the same 5-1
 
 </div>
 
-<div class="post" data-post-id="34120" data-author="*juggleblood*" data-date="2013-03-04T06:09:17+00:00">
+<div class="post" data-post-id="34120" data-author="*juggleblood*" data-date="2013-03-04T06:09:17+00:00" data-subject="Re: Please fix Juju">
 
 Thanks for that. Using the offer command helped me figure it out. Strangely enough, the key to the fix is detect magic. I noticed Shayne the innkeeper never does the can't see you because you are dark cloaked thing. The only diff between him and Shelda was detect magic and voila, that was the issue.
 
@@ -114,7 +114,7 @@ I'm also applying it to the innkeepers (that I remember).
 
 </div>
 
-<div class="post" data-post-id="34122" data-author="Magi" data-date="2013-03-04T14:13:56+00:00">
+<div class="post" data-post-id="34122" data-author="Magi" data-date="2013-03-04T14:13:56+00:00" data-subject="Re: Please fix Juju">
 
 That's amazing! Nice work.
 
@@ -122,13 +122,13 @@ I may start carrying potions of detect magic for my pets so they can assist me p
 
 </div>
 
-<div class="post" data-post-id="34123" data-author="*juggleblood*" data-date="2013-03-04T22:21:20+00:00">
+<div class="post" data-post-id="34123" data-author="*juggleblood*" data-date="2013-03-04T22:21:20+00:00" data-subject="Re: Please fix Juju">
 
 Gimme a list of your most oft used pets and I'll make sure they have it innately.
 
 </div>
 
-<div class="post" data-post-id="34124" data-author="*Splork*" data-date="2013-03-05T00:48:02+00:00">
+<div class="post" data-post-id="34124" data-author="*Splork*" data-date="2013-03-05T00:48:02+00:00" data-subject="Re: Please fix Juju">
 
 All animates and summons will be born with detect magic now.
 

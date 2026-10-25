@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="24367" data-author="*juggleblood*" data-date="2008-05-16T04:40:29+00:00">
+<div class="post" data-post-id="24367" data-author="*juggleblood*" data-date="2008-05-16T04:40:29+00:00" data-subject="chasm">
 
 Lad, Krom, Seda, and myself have tweaked chasm. The idea is for players to be able to do some decent xp there.
 
@@ -22,7 +22,7 @@ Thanks again Lad for a cool zone.
 
 </div>
 
-<div class="post" data-post-id="24368" data-author="lad" data-date="2008-05-16T05:39:28+00:00">
+<div class="post" data-post-id="24368" data-author="lad" data-date="2008-05-16T05:39:28+00:00" data-subject="Thanks to all for help on the Dark Chasm">
 
 Lis originally mapped the dark chasm, thanks again for your efforts Lis. 
 
@@ -32,7 +32,7 @@ Most definitely appreciated.
 
 </div>
 
-<div class="post" data-post-id="24383" data-author="*juggleblood*" data-date="2008-05-18T03:44:47+00:00">
+<div class="post" data-post-id="24383" data-author="*juggleblood*" data-date="2008-05-18T03:44:47+00:00" data-subject="">
 
 last msg was a little early, but chasm is good xp now, and a lot less dangerous
 

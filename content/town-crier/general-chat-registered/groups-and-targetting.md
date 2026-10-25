@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="7442" data-author="seshi" data-date="2005-06-22T10:43:56+00:00">
+<div class="post" data-post-id="7442" data-author="seshi" data-date="2005-06-22T10:43:56+00:00" data-subject="groups and targetting">
 
 Being new to grouping I've been searching the forum and came across this:
 
@@ -32,7 +32,7 @@ Salan
 
 </div>
 
-<div class="post" data-post-id="7443" data-author="Akasha2" data-date="2005-06-22T10:57:00+00:00">
+<div class="post" data-post-id="7443" data-author="Akasha2" data-date="2005-06-22T10:57:00+00:00" data-subject="">
 
 In larger groups a targetter is very helpful so that the leader can just grouptell target XXX and your client assigns XXX to a variable @target.  This way when the leader asks you to blind, curse, web, etc, you can alias your spells to work on the target automatically: EG:
 
@@ -50,7 +50,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="7444" data-author="12345" data-date="2005-06-22T11:13:18+00:00">
+<div class="post" data-post-id="7444" data-author="12345" data-date="2005-06-22T11:13:18+00:00" data-subject="">
 
 A targetting script works one of two ways.  You can either set the target manually, or you accept the target the leader sets.  Emphasis on leader.
 
@@ -92,7 +92,7 @@ Happy hunting.
 
 </div>
 
-<div class="post" data-post-id="7445" data-author="seshi" data-date="2005-06-22T11:34:28+00:00">
+<div class="post" data-post-id="7445" data-author="seshi" data-date="2005-06-22T11:34:28+00:00" data-subject="RE: groups and targetting">
 
 Thanks for the detailed help. I'll be trying this out. 
 
@@ -102,13 +102,13 @@ Salan
 
 </div>
 
-<div class="post" data-post-id="7449" data-author="firebrand" data-date="2005-06-22T12:50:44+00:00">
+<div class="post" data-post-id="7449" data-author="firebrand" data-date="2005-06-22T12:50:44+00:00" data-subject="">
 
 on a side note, if a leader is leading an area like ettins (on ss) where all mobs can be targetted as target:ettin, there are mobs that can sometimes wander in that have same target name.  it is wiser (where possible) to assist $tank instead of attack $target
 
 </div>
 
-<div class="post" data-post-id="7450" data-author="Leaf" data-date="2005-06-22T12:59:21+00:00">
+<div class="post" data-post-id="7450" data-author="Leaf" data-date="2005-06-22T12:59:21+00:00" data-subject="">
 
 Yes also, if you in Firebrand's group.  Make sure u cast "moon".  She likes
 
@@ -116,25 +116,25 @@ that better then aegis :)
 
 </div>
 
-<div class="post" data-post-id="7452" data-author="firebrand" data-date="2005-06-22T13:07:00+00:00">
+<div class="post" data-post-id="7452" data-author="firebrand" data-date="2005-06-22T13:07:00+00:00" data-subject="">
 
 will, i am gonna kick your ever-lying ass dude :)  while that may be funny to you and the rest of us vets up here, but for a true newb who follows me and casts that spell based on this post is just gonna get him growled at by me.  everyone that groups with me knows i *normally* do not like moon aura for reasons of my own.  that is not fair to those newbs, will
 
 </div>
 
-<div class="post" data-post-id="7453" data-author="12345" data-date="2005-06-22T13:13:52+00:00">
+<div class="post" data-post-id="7453" data-author="12345" data-date="2005-06-22T13:13:52+00:00" data-subject="">
 
 I'm curious which newbie (besides Impz) has moon.
 
 </div>
 
-<div class="post" data-post-id="7454" data-author="firebrand" data-date="2005-06-22T13:34:08+00:00">
+<div class="post" data-post-id="7454" data-author="firebrand" data-date="2005-06-22T13:34:08+00:00" data-subject="">
 
 yeah yeah yeah - i forget that moon is an av spell, but still the point remains the same: IGNORE LEAF.
 
 </div>
 
-<div class="post" data-post-id="7455" data-author="Vixn" data-date="2005-06-22T13:43:12+00:00">
+<div class="post" data-post-id="7455" data-author="Vixn" data-date="2005-06-22T13:43:12+00:00" data-subject="">
 
 and targeter of 12345 is good, but won't work with such leader as **tigress**  err.... reb i mean :)
 
@@ -142,7 +142,7 @@ and targeter of 12345 is good, but won't work with such leader as **tigress**  e
 
 </div>
 
-<div class="post" data-post-id="7456" data-author="Leaf" data-date="2005-06-22T13:45:35+00:00">
+<div class="post" data-post-id="7456" data-author="Leaf" data-date="2005-06-22T13:45:35+00:00" data-subject="">
 
 Hehehe :) I have my fun times :)
 
@@ -156,7 +156,7 @@ Love yea Reb *wink*
 
 </div>
 
-<div class="post" data-post-id="7457" data-author="Leaf" data-date="2005-06-22T13:46:55+00:00">
+<div class="post" data-post-id="7457" data-author="Leaf" data-date="2005-06-22T13:46:55+00:00" data-subject="">
 
 Hehehe :) I have my fun times :)
 
@@ -170,7 +170,7 @@ Love yea Reb *wink*
 
 </div>
 
-<div class="post" data-post-id="7461" data-author="Zalasta" data-date="2005-06-22T14:00:28+00:00">
+<div class="post" data-post-id="7461" data-author="Zalasta" data-date="2005-06-22T14:00:28+00:00" data-subject="">
 
 [quote:vmtwwqu3]However, when you get larger and go to more obscure places on the mud, you start seeing strange names like Neeblryxxz, which is a pain to type everytime you want to look at it or target it for a spell.[/quote:vmtwwqu3]
 
@@ -178,13 +178,13 @@ Gee, I wonder who's fault it is that we see 'strange names like Neeblryxxz'...
 
 </div>
 
-<div class="post" data-post-id="7471" data-author="guest" data-date="2005-06-22T15:40:42+00:00">
+<div class="post" data-post-id="7471" data-author="guest" data-date="2005-06-22T15:40:42+00:00" data-subject="">
 
 It's obviously pzyruxal fault ...
 
 </div>
 
-<div class="post" data-post-id="7481" data-author="madmax" data-date="2005-06-22T18:59:35+00:00">
+<div class="post" data-post-id="7481" data-author="madmax" data-date="2005-06-22T18:59:35+00:00" data-subject="">
 
 and targeter of 12345 is good, but won't work with such leader as **tigress**  err.... reb i mean :)
 
@@ -216,25 +216,25 @@ $leader = {Firebrand}
 
 </div>
 
-<div class="post" data-post-id="7496" data-author="firebrand" data-date="2005-06-23T15:02:15+00:00">
+<div class="post" data-post-id="7496" data-author="firebrand" data-date="2005-06-23T15:02:15+00:00" data-subject="">
 
 all my sigs are *tigress* - note the single stars
 
 </div>
 
-<div class="post" data-post-id="7497" data-author="Leaf" data-date="2005-06-23T15:35:01+00:00">
+<div class="post" data-post-id="7497" data-author="Leaf" data-date="2005-06-23T15:35:01+00:00" data-subject="">
 
 Eh, close enough I say
 
 </div>
 
-<div class="post" data-post-id="7532" data-author="firebrand" data-date="2005-06-24T11:45:17+00:00">
+<div class="post" data-post-id="7532" data-author="firebrand" data-date="2005-06-24T11:45:17+00:00" data-subject="">
 
 it makes a diff to those who are wanting exact string, darlin.  some ppl just copy/paste the string and then trigger on that instead of using variables.
 
 </div>
 
-<div class="post" data-post-id="7541" data-author="Avatar" data-date="2005-06-24T12:51:06+00:00">
+<div class="post" data-post-id="7541" data-author="Avatar" data-date="2005-06-24T12:51:06+00:00" data-subject="code">
 
 They can copy / paste the code, which works not only with one leader's tag but also with any tags that people use.
 
@@ -242,7 +242,7 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="7977" data-author="seshi" data-date="2005-07-24T12:32:08+00:00">
+<div class="post" data-post-id="7977" data-author="seshi" data-date="2005-07-24T12:32:08+00:00" data-subject="Targetting for mushclient">
 
 I've been working on targetting for Mushclient and have posted a help guide in the Mud Client Scripts - Other Clients forum
 

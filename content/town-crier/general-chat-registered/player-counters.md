@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="37613" data-author="*teker*" data-date="2016-12-03T17:33:56+00:00">
+<div class="post" data-post-id="37613" data-author="*teker*" data-date="2016-12-03T17:33:56+00:00" data-subject="Player counters">
 
 Belrath requested I add some counter support to the game for people who didn't have it in their clients.  So I've added some.  HELP COUNTERS.  This thread is for suggestions on modifying the feature.  So far ideas we've had are:
 
@@ -24,7 +24,7 @@ What else?  Taron and Gorka suggested some group-based counters to see how the g
 
 </div>
 
-<div class="post" data-post-id="37618" data-author="*juggleblood*" data-date="2016-12-03T18:36:09+00:00">
+<div class="post" data-post-id="37618" data-author="*juggleblood*" data-date="2016-12-03T18:36:09+00:00" data-subject="Re: Player counters">
 
 Instead of counting statistics so that Taron can judge the relative value of his group members, maybe we could have some cute messages that show which group members aren't assisting, like "Zuzu and Sochi sat out this fight."
 
@@ -32,7 +32,7 @@ Because on the one hand I don't want to constantly judge and harass people in gr
 
 </div>
 
-<div class="post" data-post-id="37619" data-author="Teron" data-date="2016-12-03T18:43:52+00:00">
+<div class="post" data-post-id="37619" data-author="Teron" data-date="2016-12-03T18:43:52+00:00" data-subject="Re: Player counters">
 
 JB, "combat time" per group member would tell you exactly that, too.
 
@@ -40,13 +40,13 @@ Though players would have to account for players, who debuff mobs.
 
 </div>
 
-<div class="post" data-post-id="37622" data-author="*juggleblood*" data-date="2016-12-03T18:55:32+00:00">
+<div class="post" data-post-id="37622" data-author="*juggleblood*" data-date="2016-12-03T18:55:32+00:00" data-subject="Re: Player counters">
 
 Yeah, you see the problem already...if players are playing to get an optimal "grouping score"...it will distort their behavior. Instead of debuffing they'd rather assist right away. That's why I suggest just highlighting the players who aren't assisting. And by the way Taron, players get really annoyed when you nitpick them on their performance. You might could actually drive some people away with this feature. Already people don't like how much you observe and criticize. If you had a message that said "Sochi is failing to sing anything right now!" I would quit group and tell you to go fuck yourself.
 
 </div>
 
-<div class="post" data-post-id="37624" data-author="Teron" data-date="2016-12-03T19:17:40+00:00">
+<div class="post" data-post-id="37624" data-author="Teron" data-date="2016-12-03T19:17:40+00:00" data-subject="Re: Player counters">
 
 One thing to nag you about what you already know to do, and another is to tell a warrior, who's not healing or blasting or striking for a few fights, to blast.
 
@@ -56,7 +56,7 @@ If I am in a group of <12 with a bard prime, and I don't see myself affected by 
 
 </div>
 
-<div class="post" data-post-id="37627" data-author="Yasik" data-date="2016-12-03T21:29:59+00:00">
+<div class="post" data-post-id="37627" data-author="Yasik" data-date="2016-12-03T21:29:59+00:00" data-subject="Re: Player counters">
 
 counters
 
@@ -82,7 +82,7 @@ Can borrow commas from Juggleblood, he has plenty.
 
 </div>
 
-<div class="post" data-post-id="37628" data-author="*juggleblood*" data-date="2016-12-03T21:34:17+00:00">
+<div class="post" data-post-id="37628" data-author="*juggleblood*" data-date="2016-12-03T21:34:17+00:00" data-subject="Re: Player counters">
 
 It's normal if the bard is conserving mana for some reason or waiting for his mana to hit 50 or so to start singing. Or it's normal if they just forgot. 
 
@@ -92,7 +92,7 @@ Pretty sure that the failures you see are just normal human error, not a bug. Bu
 
 </div>
 
-<div class="post" data-post-id="37633" data-author="Gorka" data-date="2016-12-04T01:10:51+00:00">
+<div class="post" data-post-id="37633" data-author="Gorka" data-date="2016-12-04T01:10:51+00:00" data-subject="Re: Player counters">
 
 Nice Teker!
 
@@ -100,7 +100,7 @@ Could the damage contribution to last group mob kill be a thing? Just don't repo
 
 </div>
 
-<div class="post" data-post-id="37635" data-author="Josiah" data-date="2016-12-04T05:53:50+00:00">
+<div class="post" data-post-id="37635" data-author="Josiah" data-date="2016-12-04T05:53:50+00:00" data-subject="Re: Player counters">
 
 Love the new counter Teker... Belrath couldn't believe we got 15M/minute monkstyling on Lyme tonight (but we did.)
 
@@ -109,7 +109,7 @@ Love the new counter Teker... Belrath couldn't believe we got 15M/minute monksty
 
 </div>
 
-<div class="post" data-post-id="37639" data-author="Gorka" data-date="2016-12-04T10:29:15+00:00">
+<div class="post" data-post-id="37639" data-author="Gorka" data-date="2016-12-04T10:29:15+00:00" data-subject="Re: Player counters">
 
 Grouped counters:
 
@@ -235,7 +235,7 @@ Also... counters group doesn't work simultaneously with counters solo, is this b
 
 </div>
 
-<div class="post" data-post-id="37655" data-author="*teker*" data-date="2016-12-05T00:11:57+00:00">
+<div class="post" data-post-id="37655" data-author="*teker*" data-date="2016-12-05T00:11:57+00:00" data-subject="Re: Player counters">
 
 Gorka,
 
@@ -247,7 +247,7 @@ Based on your trace, I'm thinking the code has lost state as to whether you are 
 
 </div>
 
-<div class="post" data-post-id="37659" data-author="Teron" data-date="2016-12-05T06:21:39+00:00">
+<div class="post" data-post-id="37659" data-author="Teron" data-date="2016-12-05T06:21:39+00:00" data-subject="Re: Player counters">
 
 JB, not blasting for 1 round is perfectly acceptable. I said 1 minute, that's about 12 rounds or 2-3 verses of the song.
 
@@ -255,7 +255,7 @@ What about 5 rounds? 7? Where's the line?
 
 </div>
 
-<div class="post" data-post-id="37668" data-author="cyprimus" data-date="2016-12-05T18:05:34+00:00">
+<div class="post" data-post-id="37668" data-author="cyprimus" data-date="2016-12-05T18:05:34+00:00" data-subject="Re: Player counters">
 
 Was thinking more along the lines of a fingerinfo sheet that gives info since last login
 
@@ -265,7 +265,7 @@ have seen that done in similair codebased muds.. no idea if its wht ppl are aski
 
 </div>
 
-<div class="post" data-post-id="37681" data-author="Teron" data-date="2016-12-06T09:01:02+00:00">
+<div class="post" data-post-id="37681" data-author="Teron" data-date="2016-12-06T09:01:02+00:00" data-subject="Re: Player counters">
 
 Yesterday I was leading a group of more than 1 person.
 
@@ -279,19 +279,19 @@ P.S. the char was Songster.
 
 </div>
 
-<div class="post" data-post-id="37684" data-author="*teker*" data-date="2016-12-06T17:34:44+00:00">
+<div class="post" data-post-id="37684" data-author="*teker*" data-date="2016-12-06T17:34:44+00:00" data-subject="Re: Player counters">
 
 I've committed some changes that should make things work better.  I've also made the requested UI changes and added honor.  The changes should show up after the next reboot.
 
 </div>
 
-<div class="post" data-post-id="37733" data-author="*teker*" data-date="2016-12-09T16:09:19+00:00">
+<div class="post" data-post-id="37733" data-author="*teker*" data-date="2016-12-09T16:09:19+00:00" data-subject="Re: Player counters">
 
 Some more fixes went in this morning.  Looks like some people were seeing zeros on exp messages or getting commas with numformat turned off (or vice-versa).  Keep posting or logging bugs as you see them.  It helps to know the exact text of the message in question.
 
 </div>
 
-<div class="post" data-post-id="37788" data-author="*teker*" data-date="2016-12-12T17:28:34+00:00">
+<div class="post" data-post-id="37788" data-author="*teker*" data-date="2016-12-12T17:28:34+00:00" data-subject="Re: Player counters">
 
 Another update - if you're seeing zeros for experience value, please check:
 

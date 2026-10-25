@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="34631" data-author="DarkArtist" data-date="2013-12-14T13:23:47+00:00">
+<div class="post" data-post-id="34631" data-author="DarkArtist" data-date="2013-12-14T13:23:47+00:00" data-subject="AutoStab">
 
 Hi Amoeba, I hope this helps.
 
@@ -72,7 +72,7 @@ echo("leader="..matches[2])
 
 </div>
 
-<div class="post" data-post-id="34632" data-author="DarkArtist" data-date="2013-12-14T20:01:05+00:00">
+<div class="post" data-post-id="34632" data-author="DarkArtist" data-date="2013-12-14T20:01:05+00:00" data-subject="Re: AutoStab">
 
 something else you might find useful is to make a function in your scripts for fight() heal() armor() ..wutever
 
@@ -108,7 +108,7 @@ ad infinitum...
 
 </div>
 
-<div class="post" data-post-id="34633" data-author="DarkArtist" data-date="2013-12-14T20:19:47+00:00">
+<div class="post" data-post-id="34633" data-author="DarkArtist" data-date="2013-12-14T20:19:47+00:00" data-subject="Re: AutoStab">
 
 Regarding the above example, if you want the fight flag to operate as such, then you need to follow Akaya's thread and insert the script for getmsdpvars and set it up to trigger on init event. Instructions in that thread. If you run into problems on login after adding that script, remove the two delayed carriage returns, the tempTimer([[...]]) functions. 
 
@@ -132,7 +132,7 @@ Now this is not a perfect system, the opponent seems to clear immediately after 
 
 </div>
 
-<div class="post" data-post-id="34634" data-author="DarkArtist" data-date="2013-12-14T20:31:33+00:00">
+<div class="post" data-post-id="34634" data-author="DarkArtist" data-date="2013-12-14T20:31:33+00:00" data-subject="Re: AutoStab">
 
 btw is there a script with all the update functions for all the MSDPVARS already written by someone available? pls post link if u have one, or just post the whole thing here actually pretty pls.
 

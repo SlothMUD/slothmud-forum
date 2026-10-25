@@ -10,7 +10,7 @@ locked: false
 post_count: 22
 ---
 
-<div class="post" data-post-id="10735" data-author="Avatar" data-date="2006-02-15T21:36:31+00:00">
+<div class="post" data-post-id="10735" data-author="Avatar" data-date="2006-02-15T21:36:31+00:00" data-subject="&quot;mixed reality event&quot;">
 
 Dunno if anyone saw this:
 
@@ -26,13 +26,13 @@ Charles
 
 </div>
 
-<div class="post" data-post-id="10737" data-author="kjartan" data-date="2006-02-15T21:40:30+00:00">
+<div class="post" data-post-id="10737" data-author="kjartan" data-date="2006-02-15T21:40:30+00:00" data-subject="">
 
 I made a mixed reality setup in 1992, using a copy of Sloth with a different map as the virtual part.  Next to the computer terminal running the telnet session to the mud, there was a box of miscellaneous items with numbers taped to them.  Also, scattered around the rl college campus were other items with numbers taped to them.  By typing in the number of an item found around the campus, it appeared in the mud (and you put the physical item in the box.)  When you got an item in the mud, you could transfer it into the real world by taking the thing with the same number out of the box.  It worked pretty well.
 
 </div>
 
-<div class="post" data-post-id="10738" data-author="Alberich" data-date="2006-02-15T21:40:33+00:00">
+<div class="post" data-post-id="10738" data-author="Alberich" data-date="2006-02-15T21:40:33+00:00" data-subject="Re: &quot;mixed reality event&quot;">
 
 More importantly, when will I be able to log into a VR like "Second Life" and stroll around BH, cast spells, and kill me some pthieves?
 
@@ -44,13 +44,13 @@ interesting idea for conferences, but the main point to teleconfrencing (for me 
 
 </div>
 
-<div class="post" data-post-id="10739" data-author="Autolycos" data-date="2006-02-15T21:42:12+00:00">
+<div class="post" data-post-id="10739" data-author="Autolycos" data-date="2006-02-15T21:42:12+00:00" data-subject="">
 
 damnit charles quit hiding... we gotz business to do!
 
 </div>
 
-<div class="post" data-post-id="10740" data-author="Leaf" data-date="2006-02-15T22:39:08+00:00">
+<div class="post" data-post-id="10740" data-author="Leaf" data-date="2006-02-15T22:39:08+00:00" data-subject="">
 
 So if this would work, we could hire a female stripper to do a lap dance and 
 
@@ -60,7 +60,7 @@ contact right???
 
 </div>
 
-<div class="post" data-post-id="10741" data-author="Autolycos" data-date="2006-02-15T22:42:12+00:00">
+<div class="post" data-post-id="10741" data-author="Autolycos" data-date="2006-02-15T22:42:12+00:00" data-subject="">
 
 *NO matter what a stripper tells you...
 
@@ -68,7 +68,7 @@ there is no sex in the champange room.....
 
 </div>
 
-<div class="post" data-post-id="10742" data-author="Leaf" data-date="2006-02-15T22:47:43+00:00">
+<div class="post" data-post-id="10742" data-author="Leaf" data-date="2006-02-15T22:47:43+00:00" data-subject="">
 
 Hum... unfortunately I wouldn't know.
 
@@ -78,25 +78,25 @@ But if it's virtual she would never know ... hehehe ... hehehehe ....  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10743" data-author="tincts" data-date="2006-02-15T23:50:03+00:00">
+<div class="post" data-post-id="10743" data-author="tincts" data-date="2006-02-15T23:50:03+00:00" data-subject="">
 
 I'd like to point out that this is my first posting to a forum.
 
 </div>
 
-<div class="post" data-post-id="10744" data-author="tincts" data-date="2006-02-15T23:52:59+00:00">
+<div class="post" data-post-id="10744" data-author="tincts" data-date="2006-02-15T23:52:59+00:00" data-subject="">
 
 I'd like to point out that this is my first posting to a forum.
 
 </div>
 
-<div class="post" data-post-id="10745" data-author="Autolycos" data-date="2006-02-15T23:58:19+00:00">
+<div class="post" data-post-id="10745" data-author="Autolycos" data-date="2006-02-15T23:58:19+00:00" data-subject="">
 
 then i would like to point out that you stuttered
 
 </div>
 
-<div class="post" data-post-id="10746" data-author="Leaf" data-date="2006-02-16T01:45:37+00:00">
+<div class="post" data-post-id="10746" data-author="Leaf" data-date="2006-02-16T01:45:37+00:00" data-subject="">
 
 HAHAHA!
 
@@ -106,7 +106,7 @@ Welcome to SLOTHMUD III!!!
 
 </div>
 
-<div class="post" data-post-id="10749" data-author="Avatar" data-date="2006-02-16T14:08:26+00:00">
+<div class="post" data-post-id="10749" data-author="Avatar" data-date="2006-02-16T14:08:26+00:00" data-subject="hehehe">
 
 Laff Alberich, we have the same types of meetings here.  We need a button that puts the video on "freeze frame" so your avatar sits there looking attentive but you can kick back and play solitaire.
 
@@ -116,13 +116,13 @@ Better yet, if I kill a mob on sloth and pop a pizza, the delivery guy shows up 
 
 </div>
 
-<div class="post" data-post-id="10751" data-author="Autolycos" data-date="2006-02-16T14:47:56+00:00">
+<div class="post" data-post-id="10751" data-author="Autolycos" data-date="2006-02-16T14:47:56+00:00" data-subject="">
 
 mmmmmmm   pizza
 
 </div>
 
-<div class="post" data-post-id="10753" data-author="12345" data-date="2006-02-16T15:16:04+00:00">
+<div class="post" data-post-id="10753" data-author="12345" data-date="2006-02-16T15:16:04+00:00" data-subject="">
 
 Ok, that would get my vote for best quest ever.
 
@@ -132,19 +132,19 @@ Whoever wins the quest gets their order placed and it shows up at their door.
 
 </div>
 
-<div class="post" data-post-id="10755" data-author="Autolycos" data-date="2006-02-16T16:14:02+00:00">
+<div class="post" data-post-id="10755" data-author="Autolycos" data-date="2006-02-16T16:14:02+00:00" data-subject="">
 
 that would kick ass..   :twisted:
 
 </div>
 
-<div class="post" data-post-id="10759" data-author="Guinex" data-date="2006-02-16T18:38:17+00:00">
+<div class="post" data-post-id="10759" data-author="Guinex" data-date="2006-02-16T18:38:17+00:00" data-subject="">
 
 I will take puss and maggots on mine, hold the cheese please.
 
 </div>
 
-<div class="post" data-post-id="10767" data-author="Autolycos" data-date="2006-02-17T14:07:16+00:00">
+<div class="post" data-post-id="10767" data-author="Autolycos" data-date="2006-02-17T14:07:16+00:00" data-subject="">
 
 as many years i have been around here,  and watching hundreds of people come and go.. 
 
@@ -152,13 +152,13 @@ Guinex is the first person to honestly creep me out :evil:
 
 </div>
 
-<div class="post" data-post-id="10768" data-author="Leaf" data-date="2006-02-17T14:34:52+00:00">
+<div class="post" data-post-id="10768" data-author="Leaf" data-date="2006-02-17T14:34:52+00:00" data-subject="">
 
 What do I do to u???
 
 </div>
 
-<div class="post" data-post-id="10770" data-author="Autolycos" data-date="2006-02-17T17:50:30+00:00">
+<div class="post" data-post-id="10770" data-author="Autolycos" data-date="2006-02-17T17:50:30+00:00" data-subject="">
 
 nothing really....
 
@@ -166,13 +166,13 @@ your not even intresting enough to make me sick.. :twisted:
 
 </div>
 
-<div class="post" data-post-id="10819" data-author="osric" data-date="2006-02-21T20:28:06+00:00">
+<div class="post" data-post-id="10819" data-author="osric" data-date="2006-02-21T20:28:06+00:00" data-subject="">
 
 I see Guinex likes his pizza how he likes his women! :)
 
 </div>
 
-<div class="post" data-post-id="10820" data-author="Autolycos" data-date="2006-02-21T21:00:04+00:00">
+<div class="post" data-post-id="10820" data-author="Autolycos" data-date="2006-02-21T21:00:04+00:00" data-subject="">
 
 yeah here is a scan of a pic of Guinex's girlfriend he had on his christmas cards last year...  i cant remember what her name is.. not that it matters anyway...   i guess she doesnt talk much... but shes a real looker  :shock: 
 
@@ -180,7 +180,7 @@ yeah here is a scan of a pic of Guinex's girlfriend he had on his christmas card
 
 </div>
 
-<div class="post" data-post-id="10831" data-author="Guinex" data-date="2006-02-22T05:10:24+00:00">
+<div class="post" data-post-id="10831" data-author="Guinex" data-date="2006-02-22T05:10:24+00:00" data-subject="">
 
 I TOLD YOU NOT TO SHOW ANYONE THAT PICT JASON!!!  Oh well...... :oops:
 

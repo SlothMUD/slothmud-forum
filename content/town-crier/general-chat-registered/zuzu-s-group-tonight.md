@@ -10,7 +10,7 @@ locked: false
 post_count: 20
 ---
 
-<div class="post" data-post-id="29588" data-author="Spuffy" data-date="2009-06-27T04:06:22+00:00">
+<div class="post" data-post-id="29588" data-author="Spuffy" data-date="2009-06-27T04:06:22+00:00" data-subject="Zuzu&#x27;s group tonight">
 
 I'm starting this topic so that others who grouped tonight can articulate what was not-right with our mudding experience :)
 
@@ -42,7 +42,7 @@ Thank you for your attention.
 
 </div>
 
-<div class="post" data-post-id="29589" data-author="Spuffy" data-date="2009-06-27T04:19:50+00:00">
+<div class="post" data-post-id="29589" data-author="Spuffy" data-date="2009-06-27T04:19:50+00:00" data-subject="">
 
 I would like to add in Destruction's defense that he is
 
@@ -68,7 +68,7 @@ But now that it breaks all the time....
 
 </div>
 
-<div class="post" data-post-id="29591" data-author="Mosaix" data-date="2009-06-27T15:12:11+00:00">
+<div class="post" data-post-id="29591" data-author="Mosaix" data-date="2009-06-27T15:12:11+00:00" data-subject="">
 
 Lack of front line hurts a little.  Just not enough players to put on front line .  
 
@@ -82,7 +82,7 @@ Anyway its all good, struggle a little, and build up our chars again.
 
 </div>
 
-<div class="post" data-post-id="29592" data-author="Thraxas" data-date="2009-06-27T23:06:43+00:00">
+<div class="post" data-post-id="29592" data-author="Thraxas" data-date="2009-06-27T23:06:43+00:00" data-subject="">
 
 I didn't join zuzus group tonight, the last 3 times I've joined a group he's led the xp happens at about 1/3 the rate of other leaders with the same group even with the best tanks and a good front row.
 
@@ -96,7 +96,7 @@ The stupid thing is that despite being a bad leader now he dosen't need that muc
 
 </div>
 
-<div class="post" data-post-id="29594" data-author="Medios" data-date="2009-06-28T06:42:15+00:00">
+<div class="post" data-post-id="29594" data-author="Medios" data-date="2009-06-28T06:42:15+00:00" data-subject="">
 
 I didn't join zuzus group tonight, the last 3 times I've joined a group he's led the xp happens at about 1/3 the rate of other leaders with the same group even with the best tanks and a good front row.
 
@@ -114,7 +114,7 @@ I've heard it all lately.  I don't have anything personal against Zuzu, but I su
 
 </div>
 
-<div class="post" data-post-id="29596" data-author="Toxis" data-date="2009-06-28T08:29:45+00:00">
+<div class="post" data-post-id="29596" data-author="Toxis" data-date="2009-06-28T08:29:45+00:00" data-subject="">
 
 I think you're being a bit harsh on a guy who's made some very valid points.  The majority of the problem isn't the players, it's the way sloth works.
 
@@ -130,7 +130,7 @@ There's so much I could say with things that need changed, but all I want to say
 
 </div>
 
-<div class="post" data-post-id="29599" data-author="Tap" data-date="2009-06-28T15:11:27+00:00">
+<div class="post" data-post-id="29599" data-author="Tap" data-date="2009-06-28T15:11:27+00:00" data-subject="">
 
 <---   Would have made it a better group just by being there
 
@@ -138,7 +138,7 @@ There's so much I could say with things that need changed, but all I want to say
 
 </div>
 
-<div class="post" data-post-id="29600" data-author="*Splork*" data-date="2009-06-28T17:56:56+00:00">
+<div class="post" data-post-id="29600" data-author="*Splork*" data-date="2009-06-28T17:56:56+00:00" data-subject="">
 
 Yeah, we all know Toxis, "if you were running things and knew how to code... bleah bleah bleah the game would be so much better and everyone would have so much more power and and and"... 
 
@@ -160,7 +160,7 @@ We listen to suggestions and take them quite seriously. I think we have been add
 
 </div>
 
-<div class="post" data-post-id="29601" data-author="Toxis" data-date="2009-06-28T18:31:51+00:00">
+<div class="post" data-post-id="29601" data-author="Toxis" data-date="2009-06-28T18:31:51+00:00" data-subject="">
 
 add 20 marg to NC prime, add 15 marg CA prime
 
@@ -190,7 +190,7 @@ wa prime heroic stance- protects entire group for 2-5 ticks, can be done by any 
 
 </div>
 
-<div class="post" data-post-id="29602" data-author="Toxis" data-date="2009-06-28T18:52:20+00:00">
+<div class="post" data-post-id="29602" data-author="Toxis" data-date="2009-06-28T18:52:20+00:00" data-subject="">
 
 Doc -- 'well um if tanks get 20mr then casters should get 20damage'
 
@@ -200,7 +200,7 @@ It's a wonder people play games like this when people are just stupid to each ot
 
 </div>
 
-<div class="post" data-post-id="29603" data-author="Vixn" data-date="2009-06-28T19:27:32+00:00">
+<div class="post" data-post-id="29603" data-author="Vixn" data-date="2009-06-28T19:27:32+00:00" data-subject="">
 
 Disint does 120 damage per round and 20 damage will give you just 60 damage per round if you have 3 attacks and can land all of em (it's hard for casters now). I personally think 20 ma regen is huge bonus (and was huge bonus even in s3).
 
@@ -208,7 +208,7 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="29604" data-author="Vixn" data-date="2009-06-28T19:30:20+00:00">
+<div class="post" data-post-id="29604" data-author="Vixn" data-date="2009-06-28T19:30:20+00:00" data-subject="">
 
 ...
 
@@ -238,7 +238,7 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="29607" data-author="Mosaix" data-date="2009-06-29T00:54:55+00:00">
+<div class="post" data-post-id="29607" data-author="Mosaix" data-date="2009-06-29T00:54:55+00:00" data-subject="">
 
 Just to follow up, I am enjoying sloth right now, and will continue to enjoy sloth in whatever form it provides.  Being harder now, provides me with fun and challenge.  When I am a bloated avatar again down the road I will enjoy it then as well.
 
@@ -254,13 +254,13 @@ Have fun, play hard.
 
 </div>
 
-<div class="post" data-post-id="29608" data-author="Jag" data-date="2009-06-29T01:22:39+00:00">
+<div class="post" data-post-id="29608" data-author="Jag" data-date="2009-06-29T01:22:39+00:00" data-subject="">
 
 Well said!
 
 </div>
 
-<div class="post" data-post-id="29622" data-author="Toxis" data-date="2009-06-29T17:54:19+00:00">
+<div class="post" data-post-id="29622" data-author="Toxis" data-date="2009-06-29T17:54:19+00:00" data-subject="">
 
 Vixn I think you forgot that 20 marg is per minute, and 20 damage is per round (which is not per minute)
 
@@ -268,7 +268,7 @@ Vixn I think you forgot that 20 marg is per minute, and 20 damage is per round (
 
 </div>
 
-<div class="post" data-post-id="29624" data-author="Vixn" data-date="2009-06-29T19:56:21+00:00">
+<div class="post" data-post-id="29624" data-author="Vixn" data-date="2009-06-29T19:56:21+00:00" data-subject="">
 
 Vixn I think you forgot that 20 marg is per minute, and 20 damage is per round (which is not per minute)
 
@@ -284,7 +284,7 @@ Kida
 
 </div>
 
-<div class="post" data-post-id="29692" data-author="Hitman" data-date="2009-07-14T15:56:18+00:00">
+<div class="post" data-post-id="29692" data-author="Hitman" data-date="2009-07-14T15:56:18+00:00" data-subject="Just my two cents...">
 
 You gossip-- 'more players,more areas for 1x40-8x40 ranged players,better rolls 
 
@@ -322,7 +322,7 @@ Don't anyone say "if you like solo'ing play a necro!" IMA KEEEEEEEL YOUUUUUUUU
 
 </div>
 
-<div class="post" data-post-id="29693" data-author="Rynquald" data-date="2009-07-14T21:16:09+00:00">
+<div class="post" data-post-id="29693" data-author="Rynquald" data-date="2009-07-14T21:16:09+00:00" data-subject="">
 
 I'm really getting tired of this game too, cuz my friends have left, and unless few others like Rigwarls group or Eau's group are on, there's nothing decent for me to cycle.. or to look forward to.. [/quote:31nuyxg2]
 
@@ -332,7 +332,7 @@ Obviously I'm not saying that anything can be done about that, it's just an obse
 
 </div>
 
-<div class="post" data-post-id="29694" data-author="Toxis" data-date="2009-07-14T22:55:02+00:00">
+<div class="post" data-post-id="29694" data-author="Toxis" data-date="2009-07-14T22:55:02+00:00" data-subject="">
 
 Group 'Eau's Rough Party' is led by Eau and consists of:
 
@@ -354,7 +354,7 @@ This group was running westwood and drexel, and though the xp wasn't the greates
 
 </div>
 
-<div class="post" data-post-id="29695" data-author="Akasha" data-date="2009-07-15T04:20:24+00:00">
+<div class="post" data-post-id="29695" data-author="Akasha" data-date="2009-07-15T04:20:24+00:00" data-subject="">
 
 Made some minor changes to Drexel to accomidate small groups like this.  Of course some mobs got a bit tougher, but they are in line with a small westwood now.
 

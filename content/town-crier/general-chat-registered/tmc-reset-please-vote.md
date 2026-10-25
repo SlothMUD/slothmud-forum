@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30202" data-author="*Splork*" data-date="2009-11-01T14:08:04+00:00">
+<div class="post" data-post-id="30202" data-author="*Splork*" data-date="2009-11-01T14:08:04+00:00" data-subject="TMC reset, please vote">
 
 TMC has reset their voting period. Please take the time and vote for us, we were in the top 5 the entire last period.
 
@@ -22,7 +22,7 @@ __________
 
 </div>
 
-<div class="post" data-post-id="30557" data-author="*Splork*" data-date="2010-01-01T07:25:08+00:00">
+<div class="post" data-post-id="30557" data-author="*Splork*" data-date="2010-01-01T07:25:08+00:00" data-subject="">
 
 They have reset their stats again, please take the time to vote. Especially for the next few weeks to get us back to the top 10!
 
@@ -32,7 +32,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="30559" data-author="Toxis" data-date="2010-01-01T16:45:17+00:00">
+<div class="post" data-post-id="30559" data-author="Toxis" data-date="2010-01-01T16:45:17+00:00" data-subject="">
 
 Only 6 votes so far and it's noon.  Are they broken, or for real, only 6 people voted for slothmud today?
 

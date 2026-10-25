@@ -10,13 +10,13 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="25247" data-author="Leaf" data-date="2008-07-01T15:36:54+00:00">
+<div class="post" data-post-id="25247" data-author="Leaf" data-date="2008-07-01T15:36:54+00:00" data-subject="OOO MY!!!">
 
 Sa isn't on the Top 20 for exp at all this week!  Hell must of frozen over!
 
 </div>
 
-<div class="post" data-post-id="25253" data-author="jezer" data-date="2008-07-02T00:26:07+00:00">
+<div class="post" data-post-id="25253" data-author="jezer" data-date="2008-07-02T00:26:07+00:00" data-subject="">
 
 I'm more flawed that Golden finally left Valk. 
 
@@ -24,31 +24,31 @@ When I was last on, some of my clannies, said something about Sa not having the 
 
 </div>
 
-<div class="post" data-post-id="25254" data-author="Yinao" data-date="2008-07-02T00:45:31+00:00">
+<div class="post" data-post-id="25254" data-author="Yinao" data-date="2008-07-02T00:45:31+00:00" data-subject="">
 
 Heh, he went home to Malaysia and has terrible link so there for is unable to play... he'll be back in about a month or so he said when he leaves again :)
 
 </div>
 
-<div class="post" data-post-id="25257" data-author="angel" data-date="2008-07-02T13:45:51+00:00">
+<div class="post" data-post-id="25257" data-author="angel" data-date="2008-07-02T13:45:51+00:00" data-subject="">
 
 blah,cant i just be on a months break?i got hols n friend in malaysia,so mud aint that interesting here. Be back when im in boring aussie again.
 
 </div>
 
-<div class="post" data-post-id="25258" data-author="brady" data-date="2008-07-02T18:04:22+00:00">
+<div class="post" data-post-id="25258" data-author="brady" data-date="2008-07-02T18:04:22+00:00" data-subject="">
 
 yeah, that makes sense.
 
 </div>
 
-<div class="post" data-post-id="25261" data-author="*juggleblood*" data-date="2008-07-02T23:45:57+00:00">
+<div class="post" data-post-id="25261" data-author="*juggleblood*" data-date="2008-07-02T23:45:57+00:00" data-subject="">
 
 Aussie women not diggin ya?
 
 </div>
 
-<div class="post" data-post-id="25272" data-author="angel" data-date="2008-07-04T17:25:30+00:00">
+<div class="post" data-post-id="25272" data-author="angel" data-date="2008-07-04T17:25:30+00:00" data-subject="">
 
 hehe, mayb i just prefer the normal malaysian girls somehow :)
 
@@ -56,7 +56,7 @@ still is nice to be away from tha mud for sometime. hows it going in there niway
 
 </div>
 
-<div class="post" data-post-id="25274" data-author="Yasik2" data-date="2008-07-05T10:52:44+00:00">
+<div class="post" data-post-id="25274" data-author="Yasik2" data-date="2008-07-05T10:52:44+00:00" data-subject="">
 
 [img:2rcd09rc][http://yasik.kiev.ua/BlackMetalBeavisButthead.jpg](http://yasik.kiev.ua/BlackMetalBeavisButthead.jpg)[/img:2rcd09rc]
 
@@ -64,7 +64,7 @@ still is nice to be away from tha mud for sometime. hows it going in there niway
 
 </div>
 
-<div class="post" data-post-id="25281" data-author="*juggleblood*" data-date="2008-07-06T20:37:14+00:00">
+<div class="post" data-post-id="25281" data-author="*juggleblood*" data-date="2008-07-06T20:37:14+00:00" data-subject="">
 
 Nods, what Yasik said.
 

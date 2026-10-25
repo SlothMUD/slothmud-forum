@@ -10,7 +10,7 @@ locked: false
 post_count: 30
 ---
 
-<div class="post" data-post-id="31663" data-author="*Splork*" data-date="2010-09-01T16:14:01+00:00">
+<div class="post" data-post-id="31663" data-author="*Splork*" data-date="2010-09-01T16:14:01+00:00" data-subject="druid form restructuring">
 
 It has been strongly suggested to me that we need to restructure druid forms to match those of supps and necro pets. This would mean a stronger prime skill and more unique class and it would also mean remove forms from quite a few players.
 
@@ -22,7 +22,7 @@ Thoughts?
 
 </div>
 
-<div class="post" data-post-id="31664" data-author="Dragoth" data-date="2010-09-01T18:15:17+00:00">
+<div class="post" data-post-id="31664" data-author="Dragoth" data-date="2010-09-01T18:15:17+00:00" data-subject="Re: druid form restructuring">
 
 Druids have the right to their unique existence without seeing every druid quad and more turning into the same forms he can. Given time and proper management of the forms im pretty sure druid class could flourish and have their identity back. 
 
@@ -30,13 +30,13 @@ But after chatting at length online i am starting to agree with Cizin, while som
 
 </div>
 
-<div class="post" data-post-id="31665" data-author="Tuck" data-date="2010-09-01T19:56:36+00:00">
+<div class="post" data-post-id="31665" data-author="Tuck" data-date="2010-09-01T19:56:36+00:00" data-subject="Re: druid form restructuring">
 
 Please add third poll option: I'm not sure.  :D
 
 </div>
 
-<div class="post" data-post-id="31666" data-author="Thraxas" data-date="2010-09-01T20:12:29+00:00">
+<div class="post" data-post-id="31666" data-author="Thraxas" data-date="2010-09-01T20:12:29+00:00" data-subject="Re: druid form restructuring">
 
 Thought they already were ... actually quite shocked they're not.
 
@@ -44,7 +44,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31667" data-author="jezer" data-date="2010-09-01T20:18:27+00:00">
+<div class="post" data-post-id="31667" data-author="jezer" data-date="2010-09-01T20:18:27+00:00" data-subject="Re: druid form restructuring">
 
 I don't know about the restructure, I just don't know. But I agree druids have lost there identity.
 
@@ -88,7 +88,7 @@ I can't see how a non-prime naga at 4x40 for a druid second would even be worth 
 
 </div>
 
-<div class="post" data-post-id="31668" data-author="Rynquald" data-date="2010-09-01T21:40:35+00:00">
+<div class="post" data-post-id="31668" data-author="Rynquald" data-date="2010-09-01T21:40:35+00:00" data-subject="Re: druid form restructuring">
 
 Anything I say about this will be incredibly biased. But since this decision will probably be a make-or-break moment for my desire to continue playing, here goes:
 
@@ -98,7 +98,7 @@ Awaken is much more similar to animate and supp, and it already considers class 
 
 </div>
 
-<div class="post" data-post-id="31669" data-author="Thraxas" data-date="2010-09-01T23:50:02+00:00">
+<div class="post" data-post-id="31669" data-author="Thraxas" data-date="2010-09-01T23:50:02+00:00" data-subject="Re: druid form restructuring">
 
 *(up front I'll say I dont ever shift ... apart from ferret which on S4 is my biggest available form)*
 
@@ -130,7 +130,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="31670" data-author="jezer" data-date="2010-09-02T01:32:59+00:00">
+<div class="post" data-post-id="31670" data-author="jezer" data-date="2010-09-02T01:32:59+00:00" data-subject="Re: druid form restructuring">
 
 Been looking around other websites at druid skills.
 
@@ -168,7 +168,7 @@ I think druid skills should be "unconventional" but useful, for to be a druid is
 
 </div>
 
-<div class="post" data-post-id="31671" data-author="Toxis" data-date="2010-09-02T02:14:48+00:00">
+<div class="post" data-post-id="31671" data-author="Toxis" data-date="2010-09-02T02:14:48+00:00" data-subject="Re: druid form restructuring">
 
 I hardly ever shift into druid forms when playing Toxis.  His combination of powers makes him very strong.  But it is nice to be able to shift for a quick kill or kill something that hits hard.  Druid is an alternative playstyle, some like it and some don't.  I just don't see why not let everyone be able to shift?  The thing that I loved about sloth was the ability to get all the skills and spells from each class.  That started changing with prime skills and spells, which I like, but I'd hate to make it impossible to use the basic options from all classes (like no good undeads to use cuz necro last, or can't even shift into a halfway decent form because druid last).
 
@@ -186,7 +186,7 @@ I hardly ever shift into druid forms when playing Toxis.  His combination of pow
 
 </div>
 
-<div class="post" data-post-id="31672" data-author="*Splork*" data-date="2010-09-02T02:15:38+00:00">
+<div class="post" data-post-id="31672" data-author="*Splork*" data-date="2010-09-02T02:15:38+00:00" data-subject="Re: druid form restructuring">
 
 I like the  idea of limited spell casting while shifted, however we will probably stay away adding pets. Our thoughts is that we have enough of this style of play ingame and adding another class with this ability is overkill for the mud.
 
@@ -194,7 +194,7 @@ Keep the ideas coming
 
 </div>
 
-<div class="post" data-post-id="31673" data-author="jezer" data-date="2010-09-02T02:47:25+00:00">
+<div class="post" data-post-id="31673" data-author="jezer" data-date="2010-09-02T02:47:25+00:00" data-subject="Re: druid form restructuring">
 
 My druid will be able to frontline at -9 in .5 bill xp. Unshifted.  :D  I can get more ac unshifted than shifted at the moment. My monk secondary is better than my druid again because of some new monk eq's. Shifting is a bit of a joke, nerfs were hard. Druids always were amongst the slowest starters and that was when you got better shift forms quicker! So imagine what it's like now. If anything in druid needed a nerf it was phoenix, sea dragon and piasa, and only by hp. Everyone will have 5 attacks at high dam later on. Piasa wasn't over powered, it was probably just too big!
 
@@ -204,7 +204,7 @@ Thanks for asking for our opinions before you wielded the nerf scissors anyways 
 
 </div>
 
-<div class="post" data-post-id="31676" data-author="Dragoth" data-date="2010-09-02T05:54:09+00:00">
+<div class="post" data-post-id="31676" data-author="Dragoth" data-date="2010-09-02T05:54:09+00:00" data-subject="Re: druid form restructuring">
 
 What none of you seem to realize is that shifting is what defines druid class, if you take that away and give it to everybody then there is no need to play a druid prime because as you say there are no other important skills or spells for that class.
 
@@ -222,7 +222,7 @@ Yes, currently the weak and unbalanced forms will not be enough to make druid at
 
 </div>
 
-<div class="post" data-post-id="31678" data-author="Dragoth" data-date="2010-09-02T06:45:40+00:00">
+<div class="post" data-post-id="31678" data-author="Dragoth" data-date="2010-09-02T06:45:40+00:00" data-subject="Re: druid form restructuring">
 
 If i may also suggest another important thing - after every major change to classes abilities defined by its position in your class order, could immortals be kind enough to provide us mortals with the ability to switch positions of the class that is being changed ? But within boundaries of course, so if you were druid 8th, you can only move it 3 classes up to druid 5th and if you were druid quad you can become druid secondary and so on.
 
@@ -230,7 +230,7 @@ Because otherwise it goes something like this ; you choose a class order that is
 
 </div>
 
-<div class="post" data-post-id="31679" data-author="Rynquald" data-date="2010-09-02T07:11:32+00:00">
+<div class="post" data-post-id="31679" data-author="Rynquald" data-date="2010-09-02T07:11:32+00:00" data-subject="Re: druid form restructuring">
 
 You're quite sure that you alone can perceive all ends of changes aren't you? Since we don't "seem to realize" that all your opinions are flawlessly correct, allow me to counter several of your points.
 
@@ -255,7 +255,7 @@ I genuinely have no idea what chars you play (I'm assuming Dragoth isn't your ma
 
 </div>
 
-<div class="post" data-post-id="31680" data-author="jezer" data-date="2010-09-02T07:33:39+00:00">
+<div class="post" data-post-id="31680" data-author="jezer" data-date="2010-09-02T07:33:39+00:00" data-subject="Re: druid form restructuring">
 
 ![](http://www.memecat.com/images/memes/chris_crocker_leave_britney_alone.jpg)
 
@@ -263,7 +263,7 @@ Leave Druids Alone!
 
 </div>
 
-<div class="post" data-post-id="31681" data-author="Dragoth" data-date="2010-09-02T08:09:38+00:00">
+<div class="post" data-post-id="31681" data-author="Dragoth" data-date="2010-09-02T08:09:38+00:00" data-subject="Re: druid form restructuring">
 
 Rynquald, everything is very simple. If you want everyone to have the same abilities as everyone else then my arguments will never get through to you. I on the other hand want every class to be distinct with well defined borders ( i.e druid secondary and druid quad should be a different character with a different play-style same as necro secondary and necro quad is )
 
@@ -285,7 +285,7 @@ I genuinely do not want to see everybody having the same skills and spells which
 
 </div>
 
-<div class="post" data-post-id="31682" data-author="Dragoth" data-date="2010-09-02T08:38:41+00:00">
+<div class="post" data-post-id="31682" data-author="Dragoth" data-date="2010-09-02T08:38:41+00:00" data-subject="Re: druid form restructuring">
 
 As an example is Th/ma/cl/dr/x/x/x any different than a th/dr/ma/cl/x/x/x or th/cl/dr/ma/wa or th/ma/dr/cl/x/x/x?
 
@@ -309,13 +309,13 @@ By combining all these scalings you can create a truly multi-class mud with a hu
 
 </div>
 
-<div class="post" data-post-id="31695" data-author="Dragoth" data-date="2010-09-03T06:50:09+00:00">
+<div class="post" data-post-id="31695" data-author="Dragoth" data-date="2010-09-03T06:50:09+00:00" data-subject="Re: druid form restructuring">
 
 So we all agree with me that that's how everything should be like ?  :mrgreen:
 
 </div>
 
-<div class="post" data-post-id="31698" data-author="Sleeping Forest" data-date="2010-09-04T00:32:01+00:00">
+<div class="post" data-post-id="31698" data-author="Sleeping Forest" data-date="2010-09-04T00:32:01+00:00" data-subject="Re: druid form restructuring">
 
 I have held back on posting on this subject for a couple of days to read others thoughts and concerns on this topic. I currently play Roku [40d 40m 40c 25n 20b 19w 13o 12t] a smallish druid prime. While Druid restructuring is on the table i would like to voice some **opinions/ideas** about the sloth druid class. Druids have always played 2.clerics or 2.mages in groups, identity has always been a problem.
 
@@ -337,7 +337,7 @@ This is my first post in my 8 year career in sloth so plz be gentle. Flame away 
 
 </div>
 
-<div class="post" data-post-id="31699" data-author="Shyla" data-date="2010-09-04T02:07:07+00:00">
+<div class="post" data-post-id="31699" data-author="Shyla" data-date="2010-09-04T02:07:07+00:00" data-subject="Re: druid form restructuring">
 
 if bard primes can sing and cast why not give druid primes shift and cast similiarly? if you are worried about overpowering linit wgat they can cast like healing spellsand enhancement only.  Not sure if this is even feasible but just a suggestion.  
 
@@ -345,7 +345,7 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="31700" data-author="*Splork*" data-date="2010-09-04T02:13:17+00:00">
+<div class="post" data-post-id="31700" data-author="*Splork*" data-date="2010-09-04T02:13:17+00:00" data-subject="Re: druid form restructuring">
 
 Actually, I'm leaning towards allowing Druid primes to cast enhancement spells and also really like the idea of mana cost in form scaling back according to position of druid in classo. I really like that idea!
 
@@ -353,7 +353,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31701" data-author="Rynquald" data-date="2010-09-04T03:40:10+00:00">
+<div class="post" data-post-id="31701" data-author="Rynquald" data-date="2010-09-04T03:40:10+00:00" data-subject="Re: druid form restructuring">
 
 @Dragoth: Didn't check the crier for a couple of days, and to be honest I'm not going to do more than skim that giant wall of text. So no quote-specific replies.
 
@@ -363,7 +363,7 @@ Finally, I'm not interested in continuing this conversation between us. I find y
 
 </div>
 
-<div class="post" data-post-id="31703" data-author="Dragoth" data-date="2010-09-04T06:33:37+00:00">
+<div class="post" data-post-id="31703" data-author="Dragoth" data-date="2010-09-04T06:33:37+00:00" data-subject="Re: druid form restructuring">
 
 I also like both of Sleeping Forests ideas, but at the end of the day whether you make forms themselves scale back or you make mana usage scale back with druid's class position the end result is practically the same for non druid primes, but its a certain advantage for a druid prime surely.  If players prefer to keep all their druid forms which they are not able to use it due to mana burn then scaling mana burn option is the way to go. 
 
@@ -383,7 +383,7 @@ And If i offended anyone with my condescendence  then i am sorry and i did not m
 
 </div>
 
-<div class="post" data-post-id="31710" data-author="Archimedes" data-date="2010-09-05T15:18:55+00:00">
+<div class="post" data-post-id="31710" data-author="Archimedes" data-date="2010-09-05T15:18:55+00:00" data-subject="Re: druid form restructuring">
 
 Sleeping forest pretty much hit it on the head as to what I find frustrating about druid play.
 
@@ -401,13 +401,13 @@ Archimedes
 
 </div>
 
-<div class="post" data-post-id="31713" data-author="jezer" data-date="2010-09-05T20:03:45+00:00">
+<div class="post" data-post-id="31713" data-author="jezer" data-date="2010-09-05T20:03:45+00:00" data-subject="Re: druid form restructuring">
 
 ![](http://www.smh.com.au/ffximage/2006/06/23/icon_iceage_narrowweb__300x476,0.jpg)
 
 </div>
 
-<div class="post" data-post-id="31714" data-author="jezer" data-date="2010-09-06T02:25:26+00:00">
+<div class="post" data-post-id="31714" data-author="jezer" data-date="2010-09-06T02:25:26+00:00" data-subject="Re: druid form restructuring">
 
 If druids in the future are given the limited capability of casting while shifted, can I suggest enhancement AND summoning.
 
@@ -415,7 +415,7 @@ Stone and Sanct are in enhencement, but food and drink and shield of thorns are 
 
 </div>
 
-<div class="post" data-post-id="31715" data-author="jezer" data-date="2010-09-06T03:51:28+00:00">
+<div class="post" data-post-id="31715" data-author="jezer" data-date="2010-09-06T03:51:28+00:00" data-subject="Re: druid form restructuring">
 
 You raise your hands to the sky and slowly shift into a half-human half-snake (Jezer).
 
@@ -433,7 +433,7 @@ Hi Druids! Welcome to 4x40. In order to help you along with the continuation of 
 
 </div>
 
-<div class="post" data-post-id="31740" data-author="jezer" data-date="2010-09-08T20:48:11+00:00">
+<div class="post" data-post-id="31740" data-author="jezer" data-date="2010-09-08T20:48:11+00:00" data-subject="Re: druid form restructuring">
 
 This is really ticking me off at the moment.
 
@@ -445,7 +445,7 @@ Please fix the moves cap for prime druids on owlbear.
 
 </div>
 
-<div class="post" data-post-id="31748" data-author="jezer" data-date="2010-09-12T06:15:55+00:00">
+<div class="post" data-post-id="31748" data-author="jezer" data-date="2010-09-12T06:15:55+00:00" data-subject="Re: druid form restructuring">
 
 > ***Splork* wrote:**
 > Actually, I'm leaning towards allowing Druid primes to cast enhancement spells and also really like the idea of mana cost in form scaling back according to position of druid in classo. I really like that idea!
@@ -458,7 +458,7 @@ Any news?
 
 </div>
 
-<div class="post" data-post-id="31801" data-author="*Splork*" data-date="2010-09-27T05:25:17+00:00">
+<div class="post" data-post-id="31801" data-author="*Splork*" data-date="2010-09-27T05:25:17+00:00" data-subject="Re: druid form restructuring(update)">
 
 Just a status update:
 

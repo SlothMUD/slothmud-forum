@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="32166" data-author="jezer" data-date="2010-12-15T20:42:04+00:00">
+<div class="post" data-post-id="32166" data-author="jezer" data-date="2010-12-15T20:42:04+00:00" data-subject="Beach Staff">
 
 query high about beach-staff
 
@@ -36,13 +36,13 @@ This item could do with a bump too. There is already a +10 mana weapon in game..
 
 </div>
 
-<div class="post" data-post-id="32171" data-author="Thraxas" data-date="2010-12-17T13:46:17+00:00">
+<div class="post" data-post-id="32171" data-author="Thraxas" data-date="2010-12-17T13:46:17+00:00" data-subject="Re: Beach Staff">
 
 small point but should this be a beech staff i.e. wooden rather than a beach staff i.e. sandy?
 
 </div>
 
-<div class="post" data-post-id="32176" data-author="Teron" data-date="2010-12-18T14:39:13+00:00">
+<div class="post" data-post-id="32176" data-author="Teron" data-date="2010-12-18T14:39:13+00:00" data-subject="Re: Beach Staff">
 
 While we are at it, there are -0.7 +max con 290 drachma sleeves.
 

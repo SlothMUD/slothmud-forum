@@ -10,19 +10,19 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="12076" data-author="Rodek" data-date="2006-04-11T20:50:57+00:00">
+<div class="post" data-post-id="12076" data-author="Rodek" data-date="2006-04-11T20:50:57+00:00" data-subject="some items have new restricts">
 
 a mace, a blade, a smashing weapon, and some leg plates is the rumour....
 
 </div>
 
-<div class="post" data-post-id="12079" data-author="blackmore" data-date="2006-04-12T13:49:26+00:00">
+<div class="post" data-post-id="12079" data-author="blackmore" data-date="2006-04-12T13:49:26+00:00" data-subject="">
 
 There've been a number of restriction changes lately.  One of these days I need to go through my vaults and chars and check the restricts on all my eq.  I suspect those listed that Clink changed a few days ago were the Runed Mace of Fire, Crystal Blade of Light, and I haven't looked at other stuff.  I think I have the mace vaulted somewhere, I'll have to look.
 
 </div>
 
-<div class="post" data-post-id="12084" data-author="Medios" data-date="2006-04-13T03:11:09+00:00">
+<div class="post" data-post-id="12084" data-author="Medios" data-date="2006-04-13T03:11:09+00:00" data-subject="">
 
 Object 'raven fire sword forge', Item type: WEAPON
 
@@ -48,7 +48,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="12093" data-author="Alberich" data-date="2006-04-13T22:42:43+00:00">
+<div class="post" data-post-id="12093" data-author="Alberich" data-date="2006-04-13T22:42:43+00:00" data-subject="">
 
 You feel informed:
 

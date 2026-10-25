@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="1913" data-author="El_Furax" data-date="2004-09-13T07:55:39+00:00">
+<div class="post" data-post-id="1913" data-author="El_Furax" data-date="2004-09-13T07:55:39+00:00" data-subject="Masterful weave effects">
 
 Hi guys,
 
@@ -20,19 +20,19 @@ Or is this one of the game's "candies" that I should be glad to discover on my o
 
 </div>
 
-<div class="post" data-post-id="1914" data-author="impz" data-date="2004-09-13T10:16:37+00:00">
+<div class="post" data-post-id="1914" data-author="impz" data-date="2004-09-13T10:16:37+00:00" data-subject="">
 
 Quite blinded - extension of the blind spell from 2 ticks to close to 3 or so (not sure how much it is extended by)
 
 </div>
 
-<div class="post" data-post-id="1915" data-author="blackmore" data-date="2004-09-13T11:26:59+00:00">
+<div class="post" data-post-id="1915" data-author="blackmore" data-date="2004-09-13T11:26:59+00:00" data-subject="">
 
 There's no record of what the masterful effect is on each spell, but many are known if you ask.  As for being blinded, it wouldn't make sense to be made "more blind" than with a non-masterful spell, so I don't think it's anything more than duration.
 
 </div>
 
-<div class="post" data-post-id="1916" data-author="Zenkai" data-date="2004-09-13T12:03:24+00:00">
+<div class="post" data-post-id="1916" data-author="Zenkai" data-date="2004-09-13T12:03:24+00:00" data-subject="masterful effects">
 
 Here are the only 3 masterful effects I know about:
 
@@ -60,7 +60,7 @@ Btw...who pops chromatic on SS? I need one more perception book   :P
 
 </div>
 
-<div class="post" data-post-id="1917" data-author="Ender" data-date="2004-09-13T12:14:43+00:00">
+<div class="post" data-post-id="1917" data-author="Ender" data-date="2004-09-13T12:14:43+00:00" data-subject="">
 
 Masterfuls are kinda funny, some seems kinda silly until you find out what they can actually do.  A couple I've heard about, but haven't done personally:
 
@@ -74,7 +74,7 @@ Relocated to a dead person
 
 </div>
 
-<div class="post" data-post-id="1918" data-author="Ender" data-date="2004-09-13T12:17:05+00:00">
+<div class="post" data-post-id="1918" data-author="Ender" data-date="2004-09-13T12:17:05+00:00" data-subject="">
 
 Can't edit...
 
@@ -84,7 +84,7 @@ Does damage to the mob, not sure if it's a set amount or a spell effect.
 
 </div>
 
-<div class="post" data-post-id="1919" data-author="Hotara" data-date="2004-09-13T13:32:16+00:00">
+<div class="post" data-post-id="1919" data-author="Hotara" data-date="2004-09-13T13:32:16+00:00" data-subject="">
 
 Masterful Aegis : Increase In Duration of Spell
 
@@ -120,7 +120,7 @@ Might Have errors.
 
 </div>
 
-<div class="post" data-post-id="1920" data-author="El_Furax" data-date="2004-09-13T16:11:08+00:00">
+<div class="post" data-post-id="1920" data-author="El_Furax" data-date="2004-09-13T16:11:08+00:00" data-subject="">
 
 Thanks guys !
 
@@ -128,7 +128,7 @@ This masterful thingy certainly adds some spice to the game, even if you can't d
 
 </div>
 
-<div class="post" data-post-id="2004" data-author="Altair" data-date="2004-09-21T12:19:41+00:00">
+<div class="post" data-post-id="2004" data-author="Altair" data-date="2004-09-21T12:19:41+00:00" data-subject="">
 
 Masterful Colour Spray: blinds.
 
@@ -136,7 +136,7 @@ Masterful Recall: not confirmed, but rumor says it breaks demonbind.
 
 </div>
 
-<div class="post" data-post-id="2011" data-author="Shyla" data-date="2004-09-21T14:51:07+00:00">
+<div class="post" data-post-id="2011" data-author="Shyla" data-date="2004-09-21T14:51:07+00:00" data-subject="">
 
 masterful recall recalls you while demon bound it has been confirmed
 

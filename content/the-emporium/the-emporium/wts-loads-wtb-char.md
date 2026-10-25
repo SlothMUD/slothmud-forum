@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="17617" data-author="Gemynd2" data-date="2007-03-31T07:29:22+00:00">
+<div class="post" data-post-id="17617" data-author="Gemynd2" data-date="2007-03-31T07:29:22+00:00" data-subject="WTS loads/WTB char">
 
 First of all, my items. Sorry if they aren't of any worth, I haven't played in awhile and I don't know what's good or not anymore, so I'll just list them all out.
 
@@ -80,25 +80,25 @@ If you guys have any offers, please post here. I won't be in-game a lot. Thanks!
 
 </div>
 
-<div class="post" data-post-id="17618" data-author="Gemynd2" data-date="2007-03-31T07:34:30+00:00">
+<div class="post" data-post-id="17618" data-author="Gemynd2" data-date="2007-03-31T07:34:30+00:00" data-subject="">
 
 Erm forgot to add, decanter of endless water.
 
 </div>
 
-<div class="post" data-post-id="17619" data-author="Gemynd2" data-date="2007-03-31T07:42:45+00:00">
+<div class="post" data-post-id="17619" data-author="Gemynd2" data-date="2007-03-31T07:42:45+00:00" data-subject="">
 
 Argh, one last thing I forgot to add. Please don't post to ask for the price of something, just make an offer and I'll consider it. Will probably take best offer for most items anyway since I have no idea how much they're worth.
 
 </div>
 
-<div class="post" data-post-id="17622" data-author="slobe" data-date="2007-03-31T08:57:16+00:00">
+<div class="post" data-post-id="17622" data-author="slobe" data-date="2007-03-31T08:57:16+00:00" data-subject="">
 
 4mils for one of your jjd  :)
 
 </div>
 
-<div class="post" data-post-id="17629" data-author="Bazilus" data-date="2007-03-31T13:36:40+00:00">
+<div class="post" data-post-id="17629" data-author="Bazilus" data-date="2007-03-31T13:36:40+00:00" data-subject="...">
 
 4mils for second JJD
 
@@ -108,7 +108,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="17633" data-author="Ker" data-date="2007-03-31T14:21:53+00:00">
+<div class="post" data-post-id="17633" data-author="Ker" data-date="2007-03-31T14:21:53+00:00" data-subject="">
 
 Look for me online. I have a few thiefy chars I'd like to get rid for a price.
 
@@ -116,13 +116,13 @@ Chi
 
 </div>
 
-<div class="post" data-post-id="17687" data-author="Ranger" data-date="2007-04-01T17:41:55+00:00">
+<div class="post" data-post-id="17687" data-author="Ranger" data-date="2007-04-01T17:41:55+00:00" data-subject="">
 
 2mil for an ashen
 
 </div>
 
-<div class="post" data-post-id="17688" data-author="Gemynd2" data-date="2007-04-01T17:49:13+00:00">
+<div class="post" data-post-id="17688" data-author="Gemynd2" data-date="2007-04-01T17:49:13+00:00" data-subject="">
 
 Quick update on my list. Here's what's left:
 
@@ -162,13 +162,13 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="17689" data-author="Mosaix" data-date="2007-04-01T18:12:49+00:00">
+<div class="post" data-post-id="17689" data-author="Mosaix" data-date="2007-04-01T18:12:49+00:00" data-subject="">
 
 1 mil on glinting shield
 
 </div>
 
-<div class="post" data-post-id="17691" data-author="Gemynd2" data-date="2007-04-01T19:13:11+00:00">
+<div class="post" data-post-id="17691" data-author="Gemynd2" data-date="2007-04-01T19:13:11+00:00" data-subject="">
 
 2x carved wooden ring
 
@@ -196,7 +196,7 @@ Thanks!
 
 </div>
 
-<div class="post" data-post-id="17699" data-author="Gemynd2" data-date="2007-04-01T22:11:15+00:00">
+<div class="post" data-post-id="17699" data-author="Gemynd2" data-date="2007-04-01T22:11:15+00:00" data-subject="">
 
 An extremely generous offer has caused me to sell this entire character off along with all its items. Sorry for the abrupt notice and sorry to those who bid but didn't get a chance to bid higher.
 
@@ -206,13 +206,13 @@ Cya guys :)
 
 </div>
 
-<div class="post" data-post-id="17703" data-author="Yinao" data-date="2007-04-01T23:17:58+00:00">
+<div class="post" data-post-id="17703" data-author="Yinao" data-date="2007-04-01T23:17:58+00:00" data-subject="">
 
 Dam*, I knew if you gave Brad the chance he would buy another character. :twisted:
 
 </div>
 
-<div class="post" data-post-id="17747" data-author="kenny" data-date="2007-04-03T11:39:18+00:00">
+<div class="post" data-post-id="17747" data-author="kenny" data-date="2007-04-03T11:39:18+00:00" data-subject="">
 
 Erm forgot to add, decanter of endless water.[/quote:ll8hbshn]
 

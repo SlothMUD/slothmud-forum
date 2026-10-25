@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="15813" data-author="*juggleblood*" data-date="2006-12-28T15:07:58+00:00">
+<div class="post" data-post-id="15813" data-author="*juggleblood*" data-date="2006-12-28T15:07:58+00:00" data-subject="Chaos Zones">
 
 I just learned that ET and DoT are chaos zones.
 
@@ -20,7 +20,7 @@ frag one another?
 
 </div>
 
-<div class="post" data-post-id="15814" data-author="13" data-date="2006-12-28T15:16:16+00:00">
+<div class="post" data-post-id="15814" data-author="13" data-date="2006-12-28T15:16:16+00:00" data-subject="I have had enough of Rub&#x27;s shit.">
 
 Copy of email I sent out a minute ago:
 
@@ -104,13 +104,13 @@ higher level character too.
 
 </div>
 
-<div class="post" data-post-id="15815" data-author="Alberich" data-date="2006-12-28T15:24:38+00:00">
+<div class="post" data-post-id="15815" data-author="Alberich" data-date="2006-12-28T15:24:38+00:00" data-subject="">
 
 heh, might wanna check these things BEFORE you start talking shit next time
 
 </div>
 
-<div class="post" data-post-id="15816" data-author="Autolycos" data-date="2006-12-28T15:26:59+00:00">
+<div class="post" data-post-id="15816" data-author="Autolycos" data-date="2006-12-28T15:26:59+00:00" data-subject="">
 
 levels, spells and eq mean little to nothing pvp.
 
@@ -120,7 +120,7 @@ being clever wins hands down.   8)
 
 </div>
 
-<div class="post" data-post-id="15818" data-author="Leaf" data-date="2006-12-28T17:11:54+00:00">
+<div class="post" data-post-id="15818" data-author="Leaf" data-date="2006-12-28T17:11:54+00:00" data-subject="">
 
 U know Aa, u never did say hey Rub did u open all the doors in ET?
 
@@ -128,7 +128,7 @@ Also how do u know Rub knew u were running there?
 
 </div>
 
-<div class="post" data-post-id="15819" data-author="Medios" data-date="2006-12-28T19:11:04+00:00">
+<div class="post" data-post-id="15819" data-author="Medios" data-date="2006-12-28T19:11:04+00:00" data-subject="">
 
 Think the bigger question is why open all the doors.  Was this an attempt to let all the mobs out to kill someone.  
 
@@ -138,13 +138,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15833" data-author="12345" data-date="2006-12-29T06:51:49+00:00">
+<div class="post" data-post-id="15833" data-author="12345" data-date="2006-12-29T06:51:49+00:00" data-subject="">
 
 One day I'm going to figure out what's up with these two.
 
 </div>
 
-<div class="post" data-post-id="15834" data-author="*juggleblood*" data-date="2006-12-29T07:35:58+00:00">
+<div class="post" data-post-id="15834" data-author="*juggleblood*" data-date="2006-12-29T07:35:58+00:00" data-subject="">
 
 What do you think you did to deserve a good cursing out Aaron?
 
@@ -162,7 +162,7 @@ zones?
 
 </div>
 
-<div class="post" data-post-id="15835" data-author="Rajil" data-date="2006-12-29T09:34:08+00:00">
+<div class="post" data-post-id="15835" data-author="Rajil" data-date="2006-12-29T09:34:08+00:00" data-subject="">
 
 [quote:112zbgsz]One day I'm going to figure out what's up with these two.[/quote:112zbgsz]
 
@@ -170,7 +170,7 @@ I dunno, they remind me of an old married couple... they bicker, they make up, t
 
 </div>
 
-<div class="post" data-post-id="15842" data-author="Medios" data-date="2006-12-29T15:19:13+00:00">
+<div class="post" data-post-id="15842" data-author="Medios" data-date="2006-12-29T15:19:13+00:00" data-subject="">
 
 At least the sex is good while ur fighting.
 
@@ -178,13 +178,13 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="15850" data-author="12345" data-date="2006-12-29T22:31:42+00:00">
+<div class="post" data-post-id="15850" data-author="12345" data-date="2006-12-29T22:31:42+00:00" data-subject="">
 
 Well, at least we know where Aaron was getting the gay porn from then.
 
 </div>
 
-<div class="post" data-post-id="15851" data-author="13" data-date="2006-12-29T23:51:02+00:00">
+<div class="post" data-post-id="15851" data-author="13" data-date="2006-12-29T23:51:02+00:00" data-subject="">
 
 [img:2xwfrqvo]http://www.fromoldbooks.org/Duerer//pages/1513-Knight-Death-and-the-Devil/1513-Knight-Death-and-the-Devil-q50-969x1257.jpg[/img:2xwfrqvo]
 

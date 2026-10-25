@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="822" data-author="Blaster" data-date="2004-06-21T23:53:09+00:00">
+<div class="post" data-post-id="822" data-author="Blaster" data-date="2004-06-21T23:53:09+00:00" data-subject="Isatar Program">
 
 ISATAR
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="13924" data-author="*Splork*" data-date="2006-09-07T03:13:37+00:00">
+<div class="post" data-post-id="13924" data-author="*Splork*" data-date="2006-09-07T03:13:37+00:00" data-subject="ingame news-live info">
 
 The live news file is now accessible from the live info bracket of our navbar.
 

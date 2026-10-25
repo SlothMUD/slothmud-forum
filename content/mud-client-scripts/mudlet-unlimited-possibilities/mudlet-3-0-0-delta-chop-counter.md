@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="37458" data-author="Gorka" data-date="2016-10-26T16:17:39+00:00">
+<div class="post" data-post-id="37458" data-author="Gorka" data-date="2016-10-26T16:17:39+00:00" data-subject="Mudlet 3.0.0-delta Chop Counter">
 
 Mudlet Chop Counter Attached.
 

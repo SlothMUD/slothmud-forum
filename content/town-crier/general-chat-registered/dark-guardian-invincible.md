@@ -10,7 +10,7 @@ locked: false
 post_count: 14
 ---
 
-<div class="post" data-post-id="9817" data-author="jezer" data-date="2005-12-16T01:55:28+00:00">
+<div class="post" data-post-id="9817" data-author="jezer" data-date="2005-12-16T01:55:28+00:00" data-subject="Dark Guardian - Invincible?">
 
 Some of you would have heard me ask about the dark guardian several times. But since this forum seems seems to get more of a broader level of sloth players, please offer me some advice.
 
@@ -56,7 +56,7 @@ It would seem some special weapon is required to take him down. Has this weapon 
 
 </div>
 
-<div class="post" data-post-id="9818" data-author="Yasik" data-date="2005-12-16T04:52:37+00:00">
+<div class="post" data-post-id="9818" data-author="Yasik" data-date="2005-12-16T04:52:37+00:00" data-subject="">
 
 Jezer, you're not even 2x40 damnit!
 
@@ -70,13 +70,13 @@ Everything is easy from the right point of view (c).
 
 </div>
 
-<div class="post" data-post-id="9819" data-author="Guinex" data-date="2005-12-16T04:56:59+00:00">
+<div class="post" data-post-id="9819" data-author="Guinex" data-date="2005-12-16T04:56:59+00:00" data-subject="">
 
 A 5x40 can't even get into that portion of the gauntlet, due to level restrictions. Also you have to solo these mobs, so bringing help is not an option....another thing you can't use wands or anything to help blast...
 
 </div>
 
-<div class="post" data-post-id="9820" data-author="Yasik" data-date="2005-12-16T05:02:22+00:00">
+<div class="post" data-post-id="9820" data-author="Yasik" data-date="2005-12-16T05:02:22+00:00" data-subject="">
 
 Oh yeah?!
 
@@ -86,7 +86,7 @@ Ask fella Necro make a nightmare and command it that regen-killah stuff.
 
 </div>
 
-<div class="post" data-post-id="9821" data-author="jezer" data-date="2005-12-16T05:40:46+00:00">
+<div class="post" data-post-id="9821" data-author="jezer" data-date="2005-12-16T05:40:46+00:00" data-subject="">
 
 1) the mob is only in the 1x40 or less guantlet.
 
@@ -102,13 +102,13 @@ I really, really, really think there is supposed to be a special weapon sold by 
 
 </div>
 
-<div class="post" data-post-id="9822" data-author="Weasel" data-date="2005-12-16T05:42:10+00:00">
+<div class="post" data-post-id="9822" data-author="Weasel" data-date="2005-12-16T05:42:10+00:00" data-subject="">
 
 may be that the current spelldam probs are the issue...
 
 </div>
 
-<div class="post" data-post-id="9823" data-author="jezer" data-date="2005-12-16T05:48:36+00:00">
+<div class="post" data-post-id="9823" data-author="jezer" data-date="2005-12-16T05:48:36+00:00" data-subject="">
 
 I don't think damage is the answer... the person who made this 1x40 or less guantlet wouldn't expect a newbie to tackle a dark guardian and kill him in two rounds!
 
@@ -122,7 +122,7 @@ Those who know the gauntlet will know that using the conventional weapons on the
 
 </div>
 
-<div class="post" data-post-id="9824" data-author="Yasik" data-date="2005-12-16T05:53:33+00:00">
+<div class="post" data-post-id="9824" data-author="Yasik" data-date="2005-12-16T05:53:33+00:00" data-subject="">
 
 Try to use Flamestrike (spell) instead of Strike.
 
@@ -138,7 +138,7 @@ Maybe you missed something.
 
 </div>
 
-<div class="post" data-post-id="9825" data-author="jezer" data-date="2005-12-16T06:01:47+00:00">
+<div class="post" data-post-id="9825" data-author="jezer" data-date="2005-12-16T06:01:47+00:00" data-subject="">
 
 With all due respect Yasik, I don't think he is meant to be killed in two rounds, you are meant to use a special coliseum weapon on him.
 
@@ -152,13 +152,13 @@ My grip is not weak, Elite wights and ghouls from cata's die in my grips. What m
 
 </div>
 
-<div class="post" data-post-id="9829" data-author="12345" data-date="2005-12-16T13:02:40+00:00">
+<div class="post" data-post-id="9829" data-author="12345" data-date="2005-12-16T13:02:40+00:00" data-subject="">
 
 If I recall Akasha was the one behind the gauntlet.  MUDLer if ever there was one.  You might try contacting him and asking him to check the place out if you think there's an error.
 
 </div>
 
-<div class="post" data-post-id="9830" data-author="blackmore" data-date="2005-12-16T13:29:24+00:00">
+<div class="post" data-post-id="9830" data-author="blackmore" data-date="2005-12-16T13:29:24+00:00" data-subject="">
 
 You say none of the existing weapons work on him.  However, the sword is used to kill demons.  They will regen to full nearly every round if you do not use the sword.  He might even be able to get in 1 regen before the proc from the sword kicks in, I'm not quite sure how that works.
 
@@ -166,7 +166,7 @@ If the sword doesn't work, then I'd say it would have to be a bug that needs to 
 
 </div>
 
-<div class="post" data-post-id="9833" data-author="jezer" data-date="2005-12-16T15:54:31+00:00">
+<div class="post" data-post-id="9833" data-author="jezer" data-date="2005-12-16T15:54:31+00:00" data-subject="">
 
 Thanks People! I've sent Akasha an email.
 
@@ -174,7 +174,7 @@ I have used the holy sword of the defenders against the dark guardian often, hop
 
 </div>
 
-<div class="post" data-post-id="9836" data-author="Akasha2" data-date="2005-12-16T20:39:49+00:00">
+<div class="post" data-post-id="9836" data-author="Akasha2" data-date="2005-12-16T20:39:49+00:00" data-subject="">
 
 I am on my way to work right now, but I will check on this tonight when I get home.  And no Yasik, even at 5x40, unless you can splork him, he will regen full the next round.
 
@@ -184,7 +184,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="9837" data-author="Blastem" data-date="2005-12-16T20:55:45+00:00">
+<div class="post" data-post-id="9837" data-author="Blastem" data-date="2005-12-16T20:55:45+00:00" data-subject="">
 
 GASP!!!! Akasha is still alive  :shock:
 

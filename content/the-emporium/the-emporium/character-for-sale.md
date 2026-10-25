@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2376" data-author="Grapenut" data-date="2004-10-18T17:30:56+00:00">
+<div class="post" data-post-id="2376" data-author="Grapenut" data-date="2004-10-18T17:30:56+00:00" data-subject="Character for Sale">
 
 Keg is Spongebob Square Pants!  (level: 30)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32389" data-author="*Isabo*" data-date="2011-01-28T03:58:42+00:00">
+<div class="post" data-post-id="32389" data-author="*Isabo*" data-date="2011-01-28T03:58:42+00:00" data-subject="Change in identify spell vs. spellbooks/manuals">
 
 Greeting mortals.
 

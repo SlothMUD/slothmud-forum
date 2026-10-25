@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32941" data-author="*Breeze*" data-date="2011-09-28T22:00:30+00:00">
+<div class="post" data-post-id="32941" data-author="*Breeze*" data-date="2011-09-28T22:00:30+00:00" data-subject="Forger bug fixed..">
 
 Some of the newer forger mobs were keeping their gold after forging something instead of the
 

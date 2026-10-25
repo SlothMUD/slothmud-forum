@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36135" data-author="*Splork*" data-date="2015-11-03T18:10:51+00:00">
+<div class="post" data-post-id="36135" data-author="*Splork*" data-date="2015-11-03T18:10:51+00:00" data-subject="EqList">
 
 We are aware of issues with the eqlist. We recently tried updating it and it borked the eq file.
 

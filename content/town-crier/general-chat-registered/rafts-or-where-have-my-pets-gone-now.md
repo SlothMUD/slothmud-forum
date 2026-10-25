@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30570" data-author="Thraxas" data-date="2010-01-05T16:39:30+00:00">
+<div class="post" data-post-id="30570" data-author="Thraxas" data-date="2010-01-05T16:39:30+00:00" data-subject="rafts - or where have my pets gone now?">
 
 Rafts weight a lot and take up a lot of space in robes, fair enough I carry one, many players do as they are only sold on ss and is.
 
@@ -40,7 +40,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30571" data-author="*juggleblood*" data-date="2010-01-05T21:56:01+00:00">
+<div class="post" data-post-id="30571" data-author="*juggleblood*" data-date="2010-01-05T21:56:01+00:00" data-subject="Re: rafts - or where have my pets gone now?">
 
 1. make rafts smaller / weight less
 

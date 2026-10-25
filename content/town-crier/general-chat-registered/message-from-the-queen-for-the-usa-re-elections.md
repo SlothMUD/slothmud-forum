@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33711" data-author="jezer" data-date="2012-11-06T21:37:16+00:00">
+<div class="post" data-post-id="33711" data-author="jezer" data-date="2012-11-06T21:37:16+00:00" data-subject="Message From the Queen for the USA RE: Elections">
 
 ![](http://cruise-international.com/wp-content/uploads/2010/11/queen-elizabeth-II.jpg)
 
@@ -92,7 +92,7 @@ God Save the Queen!
 
 </div>
 
-<div class="post" data-post-id="33712" data-author="Yasik" data-date="2012-11-07T02:43:12+00:00">
+<div class="post" data-post-id="33712" data-author="Yasik" data-date="2012-11-07T02:43:12+00:00" data-subject="Re: Message From the Queen for the USA RE: Elections">
 
 (image: /[<LINK_TEXT text="http://dl.dropbox.com/u/72105811/Pics/m ... unting.jpg">http://dl.dropbox.com/u/72105811/Pics/monty_python_taunting.jpg</LINK_TEXT>](http://dl.dropbox.com/u/72105811/Pics/monty_python_taunting.jpg))
 

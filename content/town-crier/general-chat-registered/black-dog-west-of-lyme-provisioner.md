@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="14717" data-author="Medios" data-date="2006-10-22T17:43:26+00:00">
+<div class="post" data-post-id="14717" data-author="Medios" data-date="2006-10-22T17:43:26+00:00" data-subject="Black Dog west of lyme provisioner">
 
 Edited for clarity, it irks me that mobs are changed as much as this without any notice, then they loot and then within a few minutes the game crashes.
 
@@ -246,7 +246,7 @@ You can't see anything.
 
 </div>
 
-<div class="post" data-post-id="14725" data-author="Shazuko" data-date="2006-10-23T05:30:28+00:00">
+<div class="post" data-post-id="14725" data-author="Shazuko" data-date="2006-10-23T05:30:28+00:00" data-subject="">
 
 that used to be one of my favorite solo mobs, was a good guage for a warrior to measure their soloing skill...looks like it got really borked...
 
@@ -262,7 +262,7 @@ when you make one friend, make one enemy.
 
 </div>
 
-<div class="post" data-post-id="14736" data-author="*Splork*" data-date="2006-10-23T20:57:58+00:00">
+<div class="post" data-post-id="14736" data-author="*Splork*" data-date="2006-10-23T20:57:58+00:00" data-subject="">
 
 This was obviously a mistake left over from the last quest. I've lowered his hps to small group but I am leaving the rest of him the way he was. 
 

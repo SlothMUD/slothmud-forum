@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="18309" data-author="Yinao" data-date="2007-05-06T04:02:42+00:00">
+<div class="post" data-post-id="18309" data-author="Yinao" data-date="2007-05-06T04:02:42+00:00" data-subject="Nice wholist">
 
 who
 
@@ -168,7 +168,7 @@ Highest total since last bootup: 68.
 
 </div>
 
-<div class="post" data-post-id="18310" data-author="Yinao" data-date="2007-05-06T04:14:37+00:00">
+<div class="post" data-post-id="18310" data-author="Yinao" data-date="2007-05-06T04:14:37+00:00" data-subject="">
 
 Atwell is leading 'The Dangerous Explorers' on Niebelung:
 
@@ -306,7 +306,7 @@ Atwell is leading 'The Dangerous Explorers' on Niebelung:
 
 </div>
 
-<div class="post" data-post-id="18739" data-author="firebrand" data-date="2007-05-31T14:19:12+00:00">
+<div class="post" data-post-id="18739" data-author="firebrand" data-date="2007-05-31T14:19:12+00:00" data-subject="">
 
 *** Press return ***[/quote:2z12m2lm]
 
@@ -316,25 +316,25 @@ got a new command for you, darlin: it's called lines.  type lines 200.  it will 
 
 </div>
 
-<div class="post" data-post-id="18745" data-author="Rynquald" data-date="2007-05-31T21:59:01+00:00">
+<div class="post" data-post-id="18745" data-author="Rynquald" data-date="2007-05-31T21:59:01+00:00" data-subject="">
 
 Not having everything scroll off the top of the screen when you're looking at long lists can be nice though :)
 
 </div>
 
-<div class="post" data-post-id="18748" data-author="Yinao" data-date="2007-05-31T22:59:18+00:00">
+<div class="post" data-post-id="18748" data-author="Yinao" data-date="2007-05-31T22:59:18+00:00" data-subject="">
 
 Reb im pretty sure I know how to use the command considering I set it at what its currently set at. I prefer to see lists where I dont have to scroll half way up the screen to see what im looking for. I could be like yourself and explode "I know how to use this stupid f****** bull**** I been playing this mud for 7 f****** years yadda yadda but whatever :)"
 
 </div>
 
-<div class="post" data-post-id="18749" data-author="Autolycos" data-date="2007-06-01T00:00:36+00:00">
+<div class="post" data-post-id="18749" data-author="Autolycos" data-date="2007-06-01T00:00:36+00:00" data-subject="">
 
 she might have been playing a long time... but she surely doesn't know much..  reb is an uber-noob.
 
 </div>
 
-<div class="post" data-post-id="18750" data-author="Hades" data-date="2007-06-01T01:36:31+00:00">
+<div class="post" data-post-id="18750" data-author="Hades" data-date="2007-06-01T01:36:31+00:00" data-subject="Nuff said">
 
 This from someone who see less action than his pet
 
@@ -342,7 +342,7 @@ This from someone who see less action than his pet
 
 </div>
 
-<div class="post" data-post-id="18751" data-author="Hades" data-date="2007-06-01T02:04:29+00:00">
+<div class="post" data-post-id="18751" data-author="Hades" data-date="2007-06-01T02:04:29+00:00" data-subject="To be fair">
 
 And sumpin sumpin for FB
 

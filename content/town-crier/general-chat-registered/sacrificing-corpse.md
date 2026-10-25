@@ -10,7 +10,7 @@ locked: false
 post_count: 18
 ---
 
-<div class="post" data-post-id="13103" data-author="Choong" data-date="2006-06-23T07:01:22+00:00">
+<div class="post" data-post-id="13103" data-author="Choong" data-date="2006-06-23T07:01:22+00:00" data-subject="Sacrificing corpse">
 
 Was going to post it to newbie group but realize that even some 3x40 are doing it. Anyway here goes.
 
@@ -20,7 +20,7 @@ I know I should keep those corpses in a safe place but I can't carry all of them
 
 </div>
 
-<div class="post" data-post-id="13106" data-author="Roadrunr" data-date="2006-06-23T16:27:37+00:00">
+<div class="post" data-post-id="13106" data-author="Roadrunr" data-date="2006-06-23T16:27:37+00:00" data-subject="">
 
 I like sacing corpses...moreso if it pisses off those dirty little necros and you  :twisted: 
 
@@ -28,13 +28,13 @@ j/k, I can see your point.  I sac my own kills still out of habit though.
 
 </div>
 
-<div class="post" data-post-id="13108" data-author="SirRobin" data-date="2006-06-23T16:50:02+00:00">
+<div class="post" data-post-id="13108" data-author="SirRobin" data-date="2006-06-23T16:50:02+00:00" data-subject="Auto-sac Scripts">
 
 People also need to get rid of their auto-sac scripts and just use an alias. I hate it when I just kill a mob whose corpse I need, and just then someone walks through the room and poof it's gone.
 
 </div>
 
-<div class="post" data-post-id="13566" data-author="Elsie" data-date="2006-07-26T16:56:35+00:00">
+<div class="post" data-post-id="13566" data-author="Elsie" data-date="2006-07-26T16:56:35+00:00" data-subject="">
 
 Today I built up a nice collection of 20 or so embalmed corpses and left them in a nice out of the way place in the warriors guild on BH.
 
@@ -52,7 +52,7 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="13567" data-author="Mosaix" data-date="2006-07-26T17:44:28+00:00">
+<div class="post" data-post-id="13567" data-author="Mosaix" data-date="2006-07-26T17:44:28+00:00" data-subject="">
 
 Seriously you are an idiot Elsie.  Socially.
 
@@ -70,7 +70,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="13569" data-author="Elsie" data-date="2006-07-26T17:58:09+00:00">
+<div class="post" data-post-id="13569" data-author="Elsie" data-date="2006-07-26T17:58:09+00:00" data-subject="">
 
 Actually I thought I was being reasonable ... 
 
@@ -188,13 +188,13 @@ Kim gossips-- 'eto ona tebe tak govorit?'
 
 </div>
 
-<div class="post" data-post-id="13570" data-author="Alberich" data-date="2006-07-26T18:00:37+00:00">
+<div class="post" data-post-id="13570" data-author="Alberich" data-date="2006-07-26T18:00:37+00:00" data-subject="">
 
 leaving corpses in a public room and expecting them to be there is reasonable? Stick 'em in a vault or something.
 
 </div>
 
-<div class="post" data-post-id="13571" data-author="Elsie" data-date="2006-07-26T18:12:54+00:00">
+<div class="post" data-post-id="13571" data-author="Elsie" data-date="2006-07-26T18:12:54+00:00" data-subject="">
 
 leaving corpses in a public room and expecting them to be there is reasonable? Stick 'em in a vault or something.[/quote:1zczg8z5]
 
@@ -206,7 +206,7 @@ Also not all players have the luxury of a vault ...
 
 </div>
 
-<div class="post" data-post-id="13572" data-author="Mosaix" data-date="2006-07-26T19:24:04+00:00">
+<div class="post" data-post-id="13572" data-author="Mosaix" data-date="2006-07-26T19:24:04+00:00" data-subject="">
 
 Your flip-flopping on history there Elsie, thats 2 X dissapointing.
 
@@ -222,7 +222,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="13574" data-author="Autolycos" data-date="2006-07-26T19:41:43+00:00">
+<div class="post" data-post-id="13574" data-author="Autolycos" data-date="2006-07-26T19:41:43+00:00" data-subject="">
 
 Falca gossips-- 'you know, this world is full of necrophiles'
 
@@ -238,7 +238,7 @@ i'm sorry I missed the fun... but the highlights made me laff at least.
 
 </div>
 
-<div class="post" data-post-id="13577" data-author="Medios" data-date="2006-07-26T20:44:34+00:00">
+<div class="post" data-post-id="13577" data-author="Medios" data-date="2006-07-26T20:44:34+00:00" data-subject="">
 
 Elsie stfu isnt as bad as you think.  Some of us pride ourselves on being told this daily *poke Autolycos*.  I think the discussion turned sour after you said its like stealing.  OK lets get this right.  I drop an item on the ground then leave.  Somone comes along and picks it up.  Now they are stealing?  This is truly an ignorant thing to say and thats why they said these words to you.  Nobody hates you or wants you to die, just shut up about the corpses :).
 
@@ -248,7 +248,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="13579" data-author="12345" data-date="2006-07-26T21:05:51+00:00">
+<div class="post" data-post-id="13579" data-author="12345" data-date="2006-07-26T21:05:51+00:00" data-subject="">
 
 No, not everyone has a vault... however, you can count the number of times someone passes over the inn a month on one hand.  Someone finding a corpse there (other than a sparrow) would know almost immediately that they were being collected by someone.
 
@@ -296,7 +296,7 @@ etc.
 
 </div>
 
-<div class="post" data-post-id="13580" data-author="Autolycos" data-date="2006-07-26T21:23:44+00:00">
+<div class="post" data-post-id="13580" data-author="Autolycos" data-date="2006-07-26T21:23:44+00:00" data-subject="">
 
 I respect and value your opinion!
 
@@ -324,13 +324,13 @@ thanks alot,  you made my day   :twisted:
 
 </div>
 
-<div class="post" data-post-id="13582" data-author="Krok" data-date="2006-07-26T21:33:49+00:00">
+<div class="post" data-post-id="13582" data-author="Krok" data-date="2006-07-26T21:33:49+00:00" data-subject="">
 
 Next time drop some eq, please :)
 
 </div>
 
-<div class="post" data-post-id="13590" data-author="Avatar" data-date="2006-07-27T14:14:20+00:00">
+<div class="post" data-post-id="13590" data-author="Avatar" data-date="2006-07-27T14:14:20+00:00" data-subject="Autlolycos-- &#x27;STFU  :(&#x27;">
 
 I initially agreed with Elsie that "stfu" is a pretty rude term, and feels like an insult.  The way it's used around this group though doesn't usually include the harsh edges of the term.  I guess like many situations the word - acronym - is used in a context.  In this situation, I believe they were not trying to insult Elsie, they were just trying to get her to stop talking.
 
@@ -354,7 +354,7 @@ Unless you can understand why Mosaix would at this point ask you to "stfu", you 
 
 </div>
 
-<div class="post" data-post-id="13595" data-author="Elsie" data-date="2006-07-27T16:06:50+00:00">
+<div class="post" data-post-id="13595" data-author="Elsie" data-date="2006-07-27T16:06:50+00:00" data-subject="">
 
 Avatar,
 
@@ -364,13 +364,13 @@ Elsie
 
 </div>
 
-<div class="post" data-post-id="13597" data-author="Vixn" data-date="2006-07-27T16:24:21+00:00">
+<div class="post" data-post-id="13597" data-author="Vixn" data-date="2006-07-27T16:24:21+00:00" data-subject="">
 
 I should really sorry for those who use dirty russian on gossip. They suck even if there are no rules for primary language on gossip.
 
 </div>
 
-<div class="post" data-post-id="13599" data-author="Weasel" data-date="2006-07-27T16:54:24+00:00">
+<div class="post" data-post-id="13599" data-author="Weasel" data-date="2006-07-27T16:54:24+00:00" data-subject="">
 
 nod.. UMRI SUKA!
 

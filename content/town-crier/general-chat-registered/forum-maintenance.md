@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32375" data-author="*Breeze*" data-date="2011-01-25T15:37:22+00:00">
+<div class="post" data-post-id="32375" data-author="*Breeze*" data-date="2011-01-25T15:37:22+00:00" data-subject="Forum Maintenance">
 
 As part of forum maintenance, a lot of inactive user accounts were deactivated.
 
@@ -20,7 +20,7 @@ If you believe your account was deactivated in error, please email me or find me
 
 </div>
 
-<div class="post" data-post-id="32382" data-author="jezer" data-date="2011-01-26T07:15:30+00:00">
+<div class="post" data-post-id="32382" data-author="jezer" data-date="2011-01-26T07:15:30+00:00" data-subject="Re: Forum Maintenance">
 
 Test Troll, nope all ok here!  :twisted:
 

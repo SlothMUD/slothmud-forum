@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="576" data-author="Dragoth" data-date="2004-06-08T09:10:30+00:00">
+<div class="post" data-post-id="576" data-author="Dragoth" data-date="2004-06-08T09:10:30+00:00" data-subject="obsidian pearl (200k min)">
 
 You recite an identify scroll which dissolves.
 

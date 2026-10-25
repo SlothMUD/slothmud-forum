@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="7027" data-author="firebrand" data-date="2005-06-10T05:26:46+00:00">
+<div class="post" data-post-id="7027" data-author="firebrand" data-date="2005-06-10T05:26:46+00:00" data-subject="autocensorship on gos">
 
 gos spell the damn word correctly
 
@@ -24,7 +24,7 @@ this is for weasel to show that i was indeed censored for attempting to swear on
 
 </div>
 
-<div class="post" data-post-id="7030" data-author="Leaf" data-date="2005-06-10T09:47:23+00:00">
+<div class="post" data-post-id="7030" data-author="Leaf" data-date="2005-06-10T09:47:23+00:00" data-subject="">
 
 So the word "Damn" is bad now?
 
@@ -32,13 +32,13 @@ I thought we could use the words damn, bitch, bastard, hum....
 
 </div>
 
-<div class="post" data-post-id="7032" data-author="Weasel" data-date="2005-06-10T10:37:30+00:00">
+<div class="post" data-post-id="7032" data-author="Weasel" data-date="2005-06-10T10:37:30+00:00" data-subject="">
 
 Weird, because I was told the other day it wouldn't happen (autocensor) as people just spell a swear word in a different way (damn becomes d@mn, f-u-c-k becomes fark etc).. although why 'damn' would be censored anyway is beyond me, considering you might be saying something like "lead with a damn and then web"...  maybe it [i:2mncw59x]is[/i:2mncw59x] an area effect for SS alone as a way of trialling it? Then again, in SS if you kill one citizen they shut all the gates to SS and go to defcon 1  - they might just be a bunch of control freaks in that town hehe.
 
 </div>
 
-<div class="post" data-post-id="7033" data-author="Vixn" data-date="2005-06-10T10:42:15+00:00">
+<div class="post" data-post-id="7033" data-author="Vixn" data-date="2005-06-10T10:42:15+00:00" data-subject="">
 
 So the word "Damn" is bad now?
 
@@ -48,13 +48,13 @@ No, you could use 'damn' - it's short name of spell. You could use word 'spell' 
 
 </div>
 
-<div class="post" data-post-id="7034" data-author="bubba" data-date="2005-06-10T12:52:29+00:00">
+<div class="post" data-post-id="7034" data-author="bubba" data-date="2005-06-10T12:52:29+00:00" data-subject="">
 
 Maybe they wrote a special proc just to autocensor Firebrand :-)
 
 </div>
 
-<div class="post" data-post-id="7035" data-author="Leaf" data-date="2005-06-10T13:28:08+00:00">
+<div class="post" data-post-id="7035" data-author="Leaf" data-date="2005-06-10T13:28:08+00:00" data-subject="">
 
 Maybe they wrote a special proc just to autocensor Firebrand :-)[/quote:13zc21ul]
 
@@ -70,13 +70,13 @@ no shout.  So I guess thats ok to use.
 
 </div>
 
-<div class="post" data-post-id="7036" data-author="osric" data-date="2005-06-10T13:40:18+00:00">
+<div class="post" data-post-id="7036" data-author="osric" data-date="2005-06-10T13:40:18+00:00" data-subject="">
 
 censorship is shitty :evil:
 
 </div>
 
-<div class="post" data-post-id="7037" data-author="firebrand" data-date="2005-06-10T13:40:30+00:00">
+<div class="post" data-post-id="7037" data-author="firebrand" data-date="2005-06-10T13:40:30+00:00" data-subject="">
 
 Maybe they wrote a special proc just to autocensor Firebrand :-)[/quote:2bj2e9qk]
 
@@ -84,7 +84,7 @@ rofl that would be funny :)
 
 </div>
 
-<div class="post" data-post-id="7046" data-author="Medios" data-date="2005-06-10T19:38:31+00:00">
+<div class="post" data-post-id="7046" data-author="Medios" data-date="2005-06-10T19:38:31+00:00" data-subject="">
 
 Censorship for damn, thats just ridiculous.  Ask george carlin about the 7 words :)
 
@@ -92,7 +92,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="7056" data-author="**Jake**" data-date="2005-06-10T23:47:31+00:00">
+<div class="post" data-post-id="7056" data-author="**Jake**" data-date="2005-06-10T23:47:31+00:00" data-subject="">
 
 Well, I went to remove it from the list and found someone else up here had already beat me to it.  :)
 
@@ -106,7 +106,7 @@ Mike[/quote:37czsdin]
 
 </div>
 
-<div class="post" data-post-id="7057" data-author="Blaster" data-date="2005-06-11T00:29:39+00:00">
+<div class="post" data-post-id="7057" data-author="Blaster" data-date="2005-06-11T00:29:39+00:00" data-subject="">
 
 Blame me.  I was the one who added it, but only meant to add it, test that censor did work, and remove it.  My intentions were to use damn since it wasn't a majorly bad word and no one would have a problem hearing it over gossip.  
 
@@ -116,7 +116,7 @@ Blaster
 
 </div>
 
-<div class="post" data-post-id="7066" data-author="Hades" data-date="2005-06-11T11:26:45+00:00">
+<div class="post" data-post-id="7066" data-author="Hades" data-date="2005-06-11T11:26:45+00:00" data-subject="Noshouted for bs">
 
 Now thats a bunch of bs!!!
 

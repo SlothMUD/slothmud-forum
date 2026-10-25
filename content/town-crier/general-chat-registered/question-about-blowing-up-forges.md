@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="38677" data-author="Driven" data-date="2018-02-20T22:07:46+00:00">
+<div class="post" data-post-id="38677" data-author="Driven" data-date="2018-02-20T22:07:46+00:00" data-subject="Question about blowing up forges">
 
 It was my understanding that when you blew up a forge it gave you back all but one of your cps... is that not the case?
 
@@ -56,7 +56,7 @@ a decanter of endless water
 
 </div>
 
-<div class="post" data-post-id="38678" data-author="Josiah" data-date="2018-02-20T22:53:34+00:00">
+<div class="post" data-post-id="38678" data-author="Josiah" data-date="2018-02-20T22:53:34+00:00" data-subject="Re: Question about blowing up forges">
 
 Partial explosions only apply to recent forges and those that have been updated to use the new system.
 
@@ -66,7 +66,7 @@ Bad luck.
 
 </div>
 
-<div class="post" data-post-id="38679" data-author="*Breeze*" data-date="2018-02-21T04:39:00+00:00">
+<div class="post" data-post-id="38679" data-author="*Breeze*" data-date="2018-02-21T04:39:00+00:00" data-subject="Re: Question about blowing up forges">
 
 > **Josiah wrote:**
 > Partial explosions only apply to recent forges and those that have been updated to use the new system.
@@ -83,7 +83,7 @@ Correct
 
 </div>
 
-<div class="post" data-post-id="38697" data-author="Sam" data-date="2018-03-10T11:06:25+00:00">
+<div class="post" data-post-id="38697" data-author="Sam" data-date="2018-03-10T11:06:25+00:00" data-subject="Re: Question about blowing up forges">
 
 joined the club
 
@@ -191,13 +191,13 @@ The slave master says 'Well there's no chance of making anything now.
 
 </div>
 
-<div class="post" data-post-id="38698" data-author="Gorka" data-date="2018-03-10T11:10:25+00:00">
+<div class="post" data-post-id="38698" data-author="Gorka" data-date="2018-03-10T11:10:25+00:00" data-subject="Re: Question about blowing up forges">
 
 Ouch, crappy forge too, with those ruin cp's. Time to update old forges?  :wink:
 
 </div>
 
-<div class="post" data-post-id="38699" data-author="*Breeze*" data-date="2018-03-10T11:15:03+00:00">
+<div class="post" data-post-id="38699" data-author="*Breeze*" data-date="2018-03-10T11:15:03+00:00" data-subject="Re: Question about blowing up forges">
 
 the tool exists to update them,
 
@@ -207,7 +207,7 @@ just takes an immortal with time to do it.
 
 </div>
 
-<div class="post" data-post-id="38700" data-author="*Neptune*" data-date="2018-03-11T19:07:09+00:00">
+<div class="post" data-post-id="38700" data-author="*Neptune*" data-date="2018-03-11T19:07:09+00:00" data-subject="Re: Question about blowing up forges">
 
 Fin Ten-Boom has been updated to the current forge proc system.
 
@@ -217,7 +217,7 @@ Hope that helps things.
 
 </div>
 
-<div class="post" data-post-id="38701" data-author="*Neptune*" data-date="2018-03-11T19:22:55+00:00">
+<div class="post" data-post-id="38701" data-author="*Neptune*" data-date="2018-03-11T19:22:55+00:00" data-subject="Re: Question about blowing up forges">
 
 The slavemaster in previous posts within this thread has been updated to the current forge system.
 
@@ -227,7 +227,7 @@ Enjoy.
 
 </div>
 
-<div class="post" data-post-id="38702" data-author="Gorka" data-date="2018-03-12T09:46:50+00:00">
+<div class="post" data-post-id="38702" data-author="Gorka" data-date="2018-03-12T09:46:50+00:00" data-subject="Re: Question about blowing up forges">
 
 Nep for rank + 1!
 
@@ -235,7 +235,7 @@ Players might want to suggest further upgrades BEFORE doing old forges in the fu
 
 </div>
 
-<div class="post" data-post-id="39106" data-author="Driven" data-date="2019-02-28T17:18:32+00:00">
+<div class="post" data-post-id="39106" data-author="Driven" data-date="2019-02-28T17:18:32+00:00" data-subject="Re: Question about blowing up forges">
 
 [958hp/242ma/273mv, +96hr/+65mr, -9.6, -%]
 
@@ -265,7 +265,7 @@ Carry on.
 
 </div>
 
-<div class="post" data-post-id="39109" data-author="*Neptune*" data-date="2019-03-03T05:04:45+00:00">
+<div class="post" data-post-id="39109" data-author="*Neptune*" data-date="2019-03-03T05:04:45+00:00" data-subject="Re: Question about blowing up forges">
 
 Lucifer's forge mentioned above has had his fail rate minimized by more than half. Previously, his fail rate
 

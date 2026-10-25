@@ -10,7 +10,7 @@ locked: false
 post_count: 46
 ---
 
-<div class="post" data-post-id="37038" data-author="Hung" data-date="2016-07-10T09:15:57+00:00">
+<div class="post" data-post-id="37038" data-author="Hung" data-date="2016-07-10T09:15:57+00:00" data-subject="Bare-handed vs weapon fighting balance">
 
 Salutations,
 
@@ -34,7 +34,7 @@ Here are some things that could be done:
 
 </div>
 
-<div class="post" data-post-id="37041" data-author="Gorka" data-date="2016-07-12T09:33:26+00:00">
+<div class="post" data-post-id="37041" data-author="Gorka" data-date="2016-07-12T09:33:26+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Hung's premise is that "Bare handed fighting is better than swords."
 
@@ -56,7 +56,7 @@ I believe the hand dam cap is 33 (but unobtainable) and the warrior weapon dam c
 
 </div>
 
-<div class="post" data-post-id="37042" data-author="Josiah" data-date="2016-07-12T14:19:52+00:00">
+<div class="post" data-post-id="37042" data-author="Josiah" data-date="2016-07-12T14:19:52+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Rofl!
 
@@ -71,7 +71,7 @@ A less game-breaking 'fix', (if one is needed), would be improving broadside or 
 
 </div>
 
-<div class="post" data-post-id="37043" data-author="Josiah" data-date="2016-07-12T14:31:41+00:00">
+<div class="post" data-post-id="37043" data-author="Josiah" data-date="2016-07-12T14:31:41+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 > **Quote:**
 > In my opinion, sword damage just can't compete with hand damage especially at low levels. There are 39 hand dam items in game, and 13 weapon dam items (most hard forges, drachma or high restricted).
@@ -84,7 +84,7 @@ Maybe you're wielding the wrong weapon?  Josiah didn't start fighting unarmed un
 
 </div>
 
-<div class="post" data-post-id="37045" data-author="Gorka" data-date="2016-07-12T14:50:46+00:00">
+<div class="post" data-post-id="37045" data-author="Gorka" data-date="2016-07-12T14:50:46+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 > **Josiah wrote:**
 > > **Quote:**
@@ -110,7 +110,7 @@ Catch me in game if you see me, and give me some tips.
 
 </div>
 
-<div class="post" data-post-id="37046" data-author="Hung" data-date="2016-07-12T15:57:04+00:00">
+<div class="post" data-post-id="37046" data-author="Hung" data-date="2016-07-12T15:57:04+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 **Josiah,**
 
@@ -128,7 +128,7 @@ For me the counterattack itself is enough to use fists on my bard and necro. If 
 
 </div>
 
-<div class="post" data-post-id="37047" data-author="Josiah" data-date="2016-07-12T18:20:07+00:00">
+<div class="post" data-post-id="37047" data-author="Josiah" data-date="2016-07-12T18:20:07+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 > **Quote:**
 > surely it's strange that a valker can use a weapon that's almost as elite as 9x40 weapon from an early onset? Where is the progression?
@@ -141,7 +141,7 @@ You'll find many games allow extra power for experienced players, either by play
 
 </div>
 
-<div class="post" data-post-id="37048" data-author="Wallop" data-date="2016-07-12T19:32:40+00:00">
+<div class="post" data-post-id="37048" data-author="Wallop" data-date="2016-07-12T19:32:40+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 > **Josiah wrote:**
 > Well, the sword I quoted is a twink weapon... it isn't available to real newbies.  It pops on a group mob in a rarely visited area.  To reach its peak potential it must be enchanted by a level 25 mage, and sharpened by a level 25 avatar, at a cost of 3 million gold.
@@ -150,7 +150,7 @@ I've got one of those that I carry around on Vk.  It's enchanted but not sharpen
 
 </div>
 
-<div class="post" data-post-id="37051" data-author="*juggleblood*" data-date="2016-07-13T23:48:29+00:00">
+<div class="post" data-post-id="37051" data-author="*juggleblood*" data-date="2016-07-13T23:48:29+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 @Gorka, I don't think we'll see comprehensive attempts to balance warriors' weapdam against monks' handdam, because warrior class in sloth is geared towards defense where monk is geared toward offense. The two classes complement each other nicely.  I'm glad that the monk class has developed to the point that it has and I dig the symbiosis of the two. 
 
@@ -158,7 +158,7 @@ That being said, I will keep your thoughts in mind the next I build a zone and a
 
 </div>
 
-<div class="post" data-post-id="37059" data-author="Gorka" data-date="2016-07-14T05:59:40+00:00">
+<div class="post" data-post-id="37059" data-author="Gorka" data-date="2016-07-14T05:59:40+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Thanks JB, at lower levels, that was probably all it needed! I understand your premise about warriors being defensive and monks being offensive as well.
 
@@ -170,7 +170,7 @@ A coder could look at broadside? Given it's not going to get used much by avatar
 
 </div>
 
-<div class="post" data-post-id="37064" data-author="Teron" data-date="2016-07-16T13:51:25+00:00">
+<div class="post" data-post-id="37064" data-author="Teron" data-date="2016-07-16T13:51:25+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 I disagree with Yang and agree with Josiah, mostly.
 
@@ -202,7 +202,7 @@ Obviously, with this passive damage, dd warriors need to be using an active skil
 
 </div>
 
-<div class="post" data-post-id="37066" data-author="Hung" data-date="2016-07-16T15:13:09+00:00">
+<div class="post" data-post-id="37066" data-author="Hung" data-date="2016-07-16T15:13:09+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Taron, thanks for your opinion.
 
@@ -212,7 +212,7 @@ However what about non-prime warriors? Especially bards and necros. I think it i
 
 </div>
 
-<div class="post" data-post-id="37067" data-author="Teron" data-date="2016-07-16T19:01:03+00:00">
+<div class="post" data-post-id="37067" data-author="Teron" data-date="2016-07-16T19:01:03+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Why do you think that everyone has to fight with bare hands?
 
@@ -224,7 +224,7 @@ In groups, however, barehanded fighting goes a long way, if you are also healing
 
 </div>
 
-<div class="post" data-post-id="37068" data-author="Hung" data-date="2016-07-16T19:12:43+00:00">
+<div class="post" data-post-id="37068" data-author="Hung" data-date="2016-07-16T19:12:43+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Taron,
 
@@ -240,7 +240,7 @@ And Axes of Dwarvish Lords keep collecting dust...
 
 </div>
 
-<div class="post" data-post-id="37071" data-author="Teron" data-date="2016-07-17T18:56:50+00:00">
+<div class="post" data-post-id="37071" data-author="Teron" data-date="2016-07-17T18:56:50+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Warriors don't use tri40 axe, because the warrior prime sword, used with the 6x40 clasp, is just a few damage points lower, then the Axe. And you can get -0.1ac and 40hps from two of the tri40 items. Guess what warriors choose.
 
@@ -248,7 +248,7 @@ Add a multiplier to the Axe and I'll consider taking it (and yes, it has to deat
 
 </div>
 
-<div class="post" data-post-id="37073" data-author="*juggleblood*" data-date="2016-07-17T22:36:00+00:00">
+<div class="post" data-post-id="37073" data-author="*juggleblood*" data-date="2016-07-17T22:36:00+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Just blathering ideas here...upgrade swords from valor, such as:
 
@@ -262,7 +262,7 @@ Just thoughts. I agree it's a niche that could be flushed out better.
 
 </div>
 
-<div class="post" data-post-id="37074" data-author="*juggleblood*" data-date="2016-07-17T22:41:29+00:00">
+<div class="post" data-post-id="37074" data-author="*juggleblood*" data-date="2016-07-17T22:41:29+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 > **Gorka wrote:**
 > I already know about how you and some other imms feel about the 3 x 40 axe which doesn't deathblow and broadside. Sure it's not a sword... but from my point of view I would just like to know if it is going to get changed or not, as I would seriously consider picking it if it was. I'd just like to know where I stand.
@@ -275,13 +275,13 @@ I vote in favor of fixing axe. I haven't asked the committee tho, will do that. 
 
 </div>
 
-<div class="post" data-post-id="37076" data-author="*juggleblood*" data-date="2016-07-17T23:07:22+00:00">
+<div class="post" data-post-id="37076" data-author="*juggleblood*" data-date="2016-07-17T23:07:22+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 *Axe of Dwarvish Lords will now broadside, riposte, deathblow just like sword.
 
 </div>
 
-<div class="post" data-post-id="37077" data-author="Teron" data-date="2016-07-18T07:24:12+00:00">
+<div class="post" data-post-id="37077" data-author="Teron" data-date="2016-07-18T07:24:12+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Thanks, JB!
 
@@ -313,7 +313,7 @@ If the axe does become as powerful, maybe bards or necros start using it.
 
 </div>
 
-<div class="post" data-post-id="37079" data-author="Gorka" data-date="2016-07-18T07:50:48+00:00">
+<div class="post" data-post-id="37079" data-author="Gorka" data-date="2016-07-18T07:50:48+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Thanks for the change JB!
 
@@ -321,7 +321,7 @@ I'm excited! I will make this my first 3x40 choice, however I do expect to excha
 
 </div>
 
-<div class="post" data-post-id="37080" data-author="Hung" data-date="2016-07-18T15:25:03+00:00">
+<div class="post" data-post-id="37080" data-author="Hung" data-date="2016-07-18T15:25:03+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Thanks JB for fixing the axe!
 
@@ -360,7 +360,7 @@ Therefore I propose to fix it once and for all by introducing new non prime warr
 
 </div>
 
-<div class="post" data-post-id="37098" data-author="*teker*" data-date="2016-07-20T16:51:27+00:00">
+<div class="post" data-post-id="37098" data-author="*teker*" data-date="2016-07-20T16:51:27+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 So based on this post I'm seeing the following suggestions:
 
@@ -382,7 +382,7 @@ A couple other things that no one has mentioned:
 
 </div>
 
-<div class="post" data-post-id="37099" data-author="Gorka" data-date="2016-07-20T19:27:47+00:00">
+<div class="post" data-post-id="37099" data-author="Gorka" data-date="2016-07-20T19:27:47+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Are you an immortal or a player teker, I'm confused... why are you thinking like us?  :lol: 
 
@@ -392,7 +392,7 @@ Careful about asking for ideas around here, we might drown you in our dreams. Do
 
 </div>
 
-<div class="post" data-post-id="37100" data-author="Hung" data-date="2016-07-20T19:42:44+00:00">
+<div class="post" data-post-id="37100" data-author="Hung" data-date="2016-07-20T19:42:44+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Well, frankly I think charisma is quite useless even for my bard. As I use songs that depends on it(cry of avatars and reign of confusion) rarely. And even when I do my ~20 charisma is more than enough. Groups arent big these days so I easily affect all followers with my gods of war. So, no, I wont switch to a bard weapon.
 
@@ -404,7 +404,7 @@ For my bard I find fists ideal solution for all situation. It is good for groups
 
 </div>
 
-<div class="post" data-post-id="37101" data-author="*teker*" data-date="2016-07-21T16:57:06+00:00">
+<div class="post" data-post-id="37101" data-author="*teker*" data-date="2016-07-21T16:57:06+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 So I brought up this list to the other imms and the feedback I got was:
 
@@ -432,7 +432,7 @@ I've looked at the code for kick, broadside, and strike.  The biggest difference
 
 </div>
 
-<div class="post" data-post-id="37102" data-author="Hung" data-date="2016-07-21T18:37:09+00:00">
+<div class="post" data-post-id="37102" data-author="Hung" data-date="2016-07-21T18:37:09+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Thanks for you efforts, Teker.
 
@@ -576,7 +576,7 @@ I dont know a single player who purchased it even among the dedicated swordsmen.
 
 </div>
 
-<div class="post" data-post-id="37103" data-author="Ker" data-date="2016-07-21T21:55:51+00:00">
+<div class="post" data-post-id="37103" data-author="Ker" data-date="2016-07-21T21:55:51+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Good day Lord Teker,
 
@@ -598,13 +598,13 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="37104" data-author="Hung" data-date="2016-07-21T22:00:05+00:00">
+<div class="post" data-post-id="37104" data-author="Hung" data-date="2016-07-21T22:00:05+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Another solution had been offered on our telegram chat. The idea is to introduce mobs that are vulnerable to weapons(like there are already mobs that are vulnerable to light, fire, etc...). If there will be plenty of such mobs and if killing it will be worthwhile, then players of all classes will have to carry weapons with them.
 
 </div>
 
-<div class="post" data-post-id="37108" data-author="Gorka" data-date="2016-07-22T11:55:56+00:00">
+<div class="post" data-post-id="37108" data-author="Gorka" data-date="2016-07-22T11:55:56+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 > ***teker* wrote:**
 > The following list isn't happening:
@@ -653,7 +653,7 @@ Looking forward to seeing whats coming, and think the decisions seem on track so
 
 </div>
 
-<div class="post" data-post-id="37110" data-author="Teron" data-date="2016-07-22T12:54:45+00:00">
+<div class="post" data-post-id="37110" data-author="Teron" data-date="2016-07-22T12:54:45+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Teker, thanks for looking into the fighters.
 
@@ -723,7 +723,7 @@ Thanks again for your assistance.
 
 </div>
 
-<div class="post" data-post-id="37117" data-author="Ker" data-date="2016-07-22T21:41:11+00:00">
+<div class="post" data-post-id="37117" data-author="Ker" data-date="2016-07-22T21:41:11+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Seems the main topic got so way off!
 
@@ -767,7 +767,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="37119" data-author="Teron" data-date="2016-07-23T07:05:03+00:00">
+<div class="post" data-post-id="37119" data-author="Teron" data-date="2016-07-23T07:05:03+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Thanks for the summary about weapon dam, Dr.
 
@@ -777,7 +777,7 @@ Personally, I think that the above and dual wield that grants 1 attack would pre
 
 </div>
 
-<div class="post" data-post-id="37120" data-author="Gorka" data-date="2016-07-23T11:14:28+00:00">
+<div class="post" data-post-id="37120" data-author="Gorka" data-date="2016-07-23T11:14:28+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 I don't really like much the idea of dual wield, but admit without an extra attack from dual wield, it will probably be impossible for me to make up the damage I can do barehanded with flurry. 
 
@@ -785,7 +785,7 @@ I think the reality is that monk damage is so far ahead, I don't think a warrior
 
 </div>
 
-<div class="post" data-post-id="37121" data-author="Ker" data-date="2016-07-23T11:46:22+00:00">
+<div class="post" data-post-id="37121" data-author="Ker" data-date="2016-07-23T11:46:22+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 To conclude,
 
@@ -801,7 +801,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="37122" data-author="Hung" data-date="2016-07-23T11:49:20+00:00">
+<div class="post" data-post-id="37122" data-author="Hung" data-date="2016-07-23T11:49:20+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 As we seem to have another round of sharing opinions I would like to propose yet another idea. Which is about introducing new weapon clasp that heals like peri.
 
@@ -819,7 +819,7 @@ And Lord Moonglum will finally stop walking around with long face and cursing so
 
 </div>
 
-<div class="post" data-post-id="37126" data-author="*teker*" data-date="2016-07-24T23:23:30+00:00">
+<div class="post" data-post-id="37126" data-author="*teker*" data-date="2016-07-24T23:23:30+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 We're currently discussing what to try to do to make things more even.  One of the things for sure would be to include some of the missing bonuses in warrior skills and to make them improve with warrior levels.   I looked in the code and it appears that bonus weapon damage has been coded but not used.  It would be trivial to change the weapon damage cap and that's something we should do as well, but we need to discuss numbers.
 
@@ -831,7 +831,7 @@ How big of a ***** storm would there be if we revised monk damage down if it fal
 
 </div>
 
-<div class="post" data-post-id="37127" data-author="*juggleblood*" data-date="2016-07-25T00:40:16+00:00">
+<div class="post" data-post-id="37127" data-author="*juggleblood*" data-date="2016-07-25T00:40:16+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 I'd say the monk style thing is popular and fun and not overpowered. Nerfing it according to class placement is going to make people angry. 
 
@@ -839,7 +839,7 @@ I'm not convinced we need to balance weapdam as warriors already get crit and ma
 
 </div>
 
-<div class="post" data-post-id="37128" data-author="Hung" data-date="2016-07-25T01:10:06+00:00">
+<div class="post" data-post-id="37128" data-author="Hung" data-date="2016-07-25T01:10:06+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 People play warriors because of parry & riposte which are probably best defense skills. People play warriors because of second wind which is considered by some as best prime skill ever. Finally people play warriors because of hp & hpregen bonus, ac bonus and ability to make ac lower than -11.
 
@@ -849,7 +849,7 @@ About the last question. Isn't there a hand damage cap based on monk in class or
 
 </div>
 
-<div class="post" data-post-id="37129" data-author="Ker" data-date="2016-07-25T02:50:50+00:00">
+<div class="post" data-post-id="37129" data-author="Ker" data-date="2016-07-25T02:50:50+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 Good Morning!
 
@@ -879,7 +879,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="37130" data-author="cyprimus" data-date="2016-07-25T04:32:29+00:00">
+<div class="post" data-post-id="37130" data-author="cyprimus" data-date="2016-07-25T04:32:29+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 May i suggest... adding bonus weapon damage at the same levels you get heal bonus or bonus spell damage from avvie levels for warriors, and maybe bonus hand damage for monks at same levels? Both only for primes. Could also just extend the swordsmanship and/or barehanded still to classo..
 
@@ -895,7 +895,7 @@ overall, its same regardless of class... either level via shifting, level with a
 
 </div>
 
-<div class="post" data-post-id="37131" data-author="Gorka" data-date="2016-07-25T06:03:42+00:00">
+<div class="post" data-post-id="37131" data-author="Gorka" data-date="2016-07-25T06:03:42+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 > ***teker* wrote:**
 > How big of a ***** storm would there be if we revised monk damage down if it falls later in the class order?
@@ -916,7 +916,7 @@ Has anyone ever made a list of the best eq a player can wear for ac and dam for 
 
 </div>
 
-<div class="post" data-post-id="37132" data-author="Gorka" data-date="2016-07-25T07:43:08+00:00">
+<div class="post" data-post-id="37132" data-author="Gorka" data-date="2016-07-25T07:43:08+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 If breeze could provide me with a SQL/XML eqlist, I could have a look at making the dressing room concept using SQL databases. I'm offering... or at least I could create some kind of report for each class, for each stat, about maximum potential at 20/30/40/3x40/6X40/9X40 etc... it at least would identify what builders need to address.
 
@@ -932,7 +932,7 @@ There should probably only be 1 tag for AC... imho, and perhaps the few old item
 
 </div>
 
-<div class="post" data-post-id="37133" data-author="Teron" data-date="2016-07-25T09:05:21+00:00">
+<div class="post" data-post-id="37133" data-author="Teron" data-date="2016-07-25T09:05:21+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 1. Why people play warriors
 
@@ -958,7 +958,7 @@ I believe caps already limit whatever the damage people can do, and some monk hi
 
 </div>
 
-<div class="post" data-post-id="37152" data-author="Gorka" data-date="2016-07-29T06:26:13+00:00">
+<div class="post" data-post-id="37152" data-author="Gorka" data-date="2016-07-29T06:26:13+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 I just leveled to 3x40 and I wondered if any decisions have been made?
 
@@ -976,7 +976,7 @@ Any info would be better than none, so I know if I should hold off important dec
 
 </div>
 
-<div class="post" data-post-id="37155" data-author="*teker*" data-date="2016-07-30T21:49:26+00:00">
+<div class="post" data-post-id="37155" data-author="*teker*" data-date="2016-07-30T21:49:26+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 > **Quote:**
 > Is broadside/flail being reworked?
@@ -985,7 +985,7 @@ I'm hoping to have something in the next reboot for this.  It may take a few tri
 
 </div>
 
-<div class="post" data-post-id="37159" data-author="Teron" data-date="2016-07-31T07:05:49+00:00">
+<div class="post" data-post-id="37159" data-author="Teron" data-date="2016-07-31T07:05:49+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
 > ***teker* wrote:**
 > I'm hoping to have something in the next reboot for this.  It may take a few tries to get the final changes in place.

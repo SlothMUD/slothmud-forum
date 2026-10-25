@@ -10,7 +10,7 @@ locked: false
 post_count: 16
 ---
 
-<div class="post" data-post-id="33274" data-author="*Splork*" data-date="2012-04-17T05:09:44+00:00">
+<div class="post" data-post-id="33274" data-author="*Splork*" data-date="2012-04-17T05:09:44+00:00" data-subject="Blowing forges a thing of the past?( or close to it :)">
 
 Breeze posted his change log but I am announcing the changes a second time:
 
@@ -50,13 +50,13 @@ Breeze edit : @Splork - Thanks for taking it upon yourself to look at suggested 
 
 </div>
 
-<div class="post" data-post-id="33275" data-author="*Breeze*" data-date="2012-04-18T20:01:45+00:00">
+<div class="post" data-post-id="33275" data-author="*Breeze*" data-date="2012-04-18T20:01:45+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 seems like noone wants any forges changed. pity.
 
 </div>
 
-<div class="post" data-post-id="33276" data-author="Stark" data-date="2012-04-19T14:13:49+00:00">
+<div class="post" data-post-id="33276" data-author="Stark" data-date="2012-04-19T14:13:49+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 This change should be applied to whichever forge I'm planning on doing next.  And I'll only tell you which forge that is just before I'm about to forge it.   :lol: 
 
@@ -66,7 +66,7 @@ edit: Thanks to Breeze and Juggleblood for doing this and opening it to discussi
 
 </div>
 
-<div class="post" data-post-id="33277" data-author="Nyx" data-date="2012-04-19T16:11:24+00:00">
+<div class="post" data-post-id="33277" data-author="Nyx" data-date="2012-04-19T16:11:24+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 Thanks for making this change guys :)
 
@@ -76,7 +76,7 @@ But I like stark's idea too.
 
 </div>
 
-<div class="post" data-post-id="33279" data-author="Tigris" data-date="2012-04-22T06:07:27+00:00">
+<div class="post" data-post-id="33279" data-author="Tigris" data-date="2012-04-22T06:07:27+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 I agree with the clasp forges. I actually came here to post that just got here a little late obviously. I just blew the tincture forge/brew the other day. The cps for these are temporary and to be honest pretty plentiful but would there be a chance of only a percentage of the 8 mil cost being lost?
 
@@ -88,7 +88,7 @@ I agree with the clasp forges. I actually came here to post that just got here a
 
 </div>
 
-<div class="post" data-post-id="33280" data-author="Cizin" data-date="2012-04-22T07:48:14+00:00">
+<div class="post" data-post-id="33280" data-author="Cizin" data-date="2012-04-22T07:48:14+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 1. demonskin boots
 
@@ -98,7 +98,7 @@ I agree with the clasp forges. I actually came here to post that just got here a
 
 </div>
 
-<div class="post" data-post-id="33281" data-author="Ezekiel" data-date="2012-04-23T21:12:50+00:00">
+<div class="post" data-post-id="33281" data-author="Ezekiel" data-date="2012-04-23T21:12:50+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 1. Crown of Mithril Bound Crystal Forge
 
@@ -108,7 +108,7 @@ I agree with the clasp forges. I actually came here to post that just got here a
 
 </div>
 
-<div class="post" data-post-id="33282" data-author="Magi" data-date="2012-04-26T19:32:41+00:00">
+<div class="post" data-post-id="33282" data-author="Magi" data-date="2012-04-26T19:32:41+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 Nice compromise! I think the following are all good candidates:
 
@@ -138,13 +138,13 @@ Jet Black Greaves of the Yuan-Ti
 
 </div>
 
-<div class="post" data-post-id="33283" data-author="*Breeze*" data-date="2012-04-26T21:17:01+00:00">
+<div class="post" data-post-id="33283" data-author="*Breeze*" data-date="2012-04-26T21:17:01+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 any one of you actually email splork with their lists (as he requested)? just curious..
 
 </div>
 
-<div class="post" data-post-id="33284" data-author="Bettina" data-date="2012-04-27T03:09:45+00:00">
+<div class="post" data-post-id="33284" data-author="Bettina" data-date="2012-04-27T03:09:45+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 :) I emailed Splork on April 18th with a list.  I like the suggestions people have posted as candidates for the new setting.  Also like Starks idea..
 
@@ -170,13 +170,13 @@ The list I emailed had these suggestions:
 
 </div>
 
-<div class="post" data-post-id="33285" data-author="*juggleblood*" data-date="2012-04-27T21:04:38+00:00">
+<div class="post" data-post-id="33285" data-author="*juggleblood*" data-date="2012-04-27T21:04:38+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 Can you guys repost your suggestions, with the forger mob listed? It's the mob that gets changed and I don't remember who forges anything. Or email me.
 
 </div>
 
-<div class="post" data-post-id="33286" data-author="Bettina" data-date="2012-04-28T04:19:49+00:00">
+<div class="post" data-post-id="33286" data-author="Bettina" data-date="2012-04-28T04:19:49+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 Was looking at eq list and just noticed that some forges say whatever forge mob will forge this for x amount of coins and some say forge mob will attempt to forge this for x amount of coins. 
 
@@ -190,7 +190,7 @@ I am wondering if it is just different wording or if forges that say will forge 
 
 </div>
 
-<div class="post" data-post-id="33287" data-author="*Breeze*" data-date="2012-04-28T07:53:36+00:00">
+<div class="post" data-post-id="33287" data-author="*Breeze*" data-date="2012-04-28T07:53:36+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 afaik you are the only one ever to make that connection.
 
@@ -204,7 +204,7 @@ well done :)
 
 </div>
 
-<div class="post" data-post-id="33288" data-author="Tuck" data-date="2012-04-29T00:55:53+00:00">
+<div class="post" data-post-id="33288" data-author="Tuck" data-date="2012-04-29T00:55:53+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 nice idea, here is my 5 cents:
 
@@ -214,13 +214,13 @@ thanks imms
 
 </div>
 
-<div class="post" data-post-id="33290" data-author="Stark" data-date="2012-04-30T05:14:46+00:00">
+<div class="post" data-post-id="33290" data-author="Stark" data-date="2012-04-30T05:14:46+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 I really would like some sort of criteria for qualifying forges that is then applied across the board.  Just cherry picking out a few forges that people can think of doesn't seem like the right way to go about it.
 
 </div>
 
-<div class="post" data-post-id="33293" data-author="*Breeze*" data-date="2012-05-02T13:19:49+00:00">
+<div class="post" data-post-id="33293" data-author="*Breeze*" data-date="2012-05-02T13:19:49+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
 i designed it to be something that an immortal can choose to add to their forge
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="18769" data-author="Avalon" data-date="2007-06-03T05:14:26+00:00">
+<div class="post" data-post-id="18769" data-author="Avalon" data-date="2007-06-03T05:14:26+00:00" data-subject="Hooked Fauchard (Restricts Changed)">
 
 You recite a scroll of identify which dissolves.
 

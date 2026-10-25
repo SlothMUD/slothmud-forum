@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="29333" data-author="*Splork*" data-date="2009-06-06T16:48:47+00:00">
+<div class="post" data-post-id="29333" data-author="*Splork*" data-date="2009-06-06T16:48:47+00:00" data-subject="Clan updates">
 
 Help clan and help clan commands have been updated.
 
@@ -34,7 +34,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29341" data-author="*Splork*" data-date="2009-06-09T19:13:54+00:00">
+<div class="post" data-post-id="29341" data-author="*Splork*" data-date="2009-06-09T19:13:54+00:00" data-subject="">
 
 Clans will have access to their very own recall spots on Lyme, Thule, Settlestone, and Thordfalan.
 
@@ -46,7 +46,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29351" data-author="*Splork*" data-date="2009-06-10T21:47:01+00:00">
+<div class="post" data-post-id="29351" data-author="*Splork*" data-date="2009-06-10T21:47:01+00:00" data-subject="">
 
 Clan members will be notified when a fellow clannie logs into the game, this change is in with the upcoming clan reboot which will put all the new changes for this subject ingame.
 
@@ -68,7 +68,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29543" data-author="*Splork*" data-date="2009-06-16T22:53:23+00:00">
+<div class="post" data-post-id="29543" data-author="*Splork*" data-date="2009-06-16T22:53:23+00:00" data-subject="Clans are now ingame...">
 
 Clans are now ingame.
 
@@ -78,7 +78,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="29644" data-author="*Splork*" data-date="2009-07-02T04:44:17+00:00">
+<div class="post" data-post-id="29644" data-author="*Splork*" data-date="2009-07-02T04:44:17+00:00" data-subject="">
 
 Clan bank statements are ingame on reboot. Clan statement will give you the results of all transactions made inside of this account.
 

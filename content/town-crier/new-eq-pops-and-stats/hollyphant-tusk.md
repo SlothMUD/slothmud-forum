@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2245" data-author="Filk" data-date="2004-10-11T06:28:53+00:00">
+<div class="post" data-post-id="2245" data-author="Filk" data-date="2004-10-11T06:28:53+00:00" data-subject="Hollyphant tusk">
 
 You recite a scroll of identify which dissolves.
 

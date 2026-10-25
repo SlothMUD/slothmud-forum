@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="25238" data-author="Rodek" data-date="2008-06-29T21:53:01+00:00">
+<div class="post" data-post-id="25238" data-author="Rodek" data-date="2008-06-29T21:53:01+00:00" data-subject="looking for a couple of items">
 
 serrated steel ring
 

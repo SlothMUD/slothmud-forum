@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="39605" data-author="cnl" data-date="2020-11-11T01:47:04+00:00">
+<div class="post" data-post-id="39605" data-author="cnl" data-date="2020-11-11T01:47:04+00:00" data-subject="State of the equipment page?">
 
 Hi
 
@@ -26,7 +26,7 @@ thanks for any info.
 
 </div>
 
-<div class="post" data-post-id="39606" data-author="Gorka" data-date="2020-11-11T06:24:06+00:00">
+<div class="post" data-post-id="39606" data-author="Gorka" data-date="2020-11-11T06:24:06+00:00" data-subject="Re: State of the equipment page?">
 
 > **cnl wrote:**
 > Is the equipment site updated automatically from the mud
@@ -40,7 +40,7 @@ Some old items are malformed and have been excluded accidentally in the past. An
 
 </div>
 
-<div class="post" data-post-id="39607" data-author="cnl" data-date="2020-11-11T06:29:49+00:00">
+<div class="post" data-post-id="39607" data-author="cnl" data-date="2020-11-11T06:29:49+00:00" data-subject="Re: State of the equipment page?">
 
 thanks for confirming that.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 25
 ---
 
-<div class="post" data-post-id="12164" data-author="jezer" data-date="2006-04-20T04:10:52+00:00">
+<div class="post" data-post-id="12164" data-author="jezer" data-date="2006-04-20T04:10:52+00:00" data-subject="Map Making Software">
 
 What programs are people using to make the sloth maps?
 
@@ -20,7 +20,7 @@ Please list the complete program names and URL's to download if you have any.
 
 </div>
 
-<div class="post" data-post-id="12166" data-author="Yasik" data-date="2006-04-20T04:15:40+00:00">
+<div class="post" data-post-id="12166" data-author="Yasik" data-date="2006-04-20T04:15:40+00:00" data-subject="">
 
 Most ppl i know drawing maps using brain, hands and pen&paper.
 
@@ -28,13 +28,13 @@ Zmud's Built-In Mapper can replace one of those above :)
 
 </div>
 
-<div class="post" data-post-id="12167" data-author="Weasel" data-date="2006-04-20T04:26:38+00:00">
+<div class="post" data-post-id="12167" data-author="Weasel" data-date="2006-04-20T04:26:38+00:00" data-subject="">
 
 Photoshop CS :)
 
 </div>
 
-<div class="post" data-post-id="12168" data-author="jezer" data-date="2006-04-20T05:24:12+00:00">
+<div class="post" data-post-id="12168" data-author="jezer" data-date="2006-04-20T05:24:12+00:00" data-subject="">
 
 Photoshop CS? does that have some kind of snap to grid function so all the rooms line up?
 
@@ -50,13 +50,13 @@ A Corum Map...
 
 </div>
 
-<div class="post" data-post-id="12169" data-author="Yasik" data-date="2006-04-20T06:07:36+00:00">
+<div class="post" data-post-id="12169" data-author="Yasik" data-date="2006-04-20T06:07:36+00:00" data-subject="">
 
 You can draw those beauties even with M$ Paint.
 
 </div>
 
-<div class="post" data-post-id="12172" data-author="jezer" data-date="2006-04-20T07:19:44+00:00">
+<div class="post" data-post-id="12172" data-author="jezer" data-date="2006-04-20T07:19:44+00:00" data-subject="">
 
 *Sigh* Stop trivialising my post Yasik...  :roll: 
 
@@ -68,7 +68,7 @@ It seems the russian's have done most of the mapping. I noticed Undead also make
 
 </div>
 
-<div class="post" data-post-id="12174" data-author="K&#x27;eth" data-date="2006-04-20T07:49:44+00:00">
+<div class="post" data-post-id="12174" data-author="K&#x27;eth" data-date="2006-04-20T07:49:44+00:00" data-subject="">
 
 [quote:3ve61qhm]It is unlikey Paint was used to design maps, as until recent it only outputted BMP files. I doubt shiv would have appreciated 5Mb Bitmaps in his mail box.[/quote:3ve61qhm]
 
@@ -78,7 +78,7 @@ I think BMP files can be zipped... or saved from M$ Paint in other better format
 
 </div>
 
-<div class="post" data-post-id="12175" data-author="jezer" data-date="2006-04-20T07:57:33+00:00">
+<div class="post" data-post-id="12175" data-author="jezer" data-date="2006-04-20T07:57:33+00:00" data-subject="">
 
 Troublemaker! :lol:
 
@@ -88,7 +88,7 @@ Now back to my question...
 
 </div>
 
-<div class="post" data-post-id="12182" data-author="Yasik" data-date="2006-04-20T13:10:58+00:00">
+<div class="post" data-post-id="12182" data-author="Yasik" data-date="2006-04-20T13:10:58+00:00" data-subject="">
 
 Crap Jezer
 
@@ -104,13 +104,13 @@ zMapper is nice, tho a little bugged (in zmud 7.21) and slow - cant run as fast 
 
 </div>
 
-<div class="post" data-post-id="12183" data-author="Yasik" data-date="2006-04-20T13:13:07+00:00">
+<div class="post" data-post-id="12183" data-author="Yasik" data-date="2006-04-20T13:13:07+00:00" data-subject="">
 
 Btw, create GMail account and you can email whatever you want  8)
 
 </div>
 
-<div class="post" data-post-id="12186" data-author="jezer" data-date="2006-04-20T13:49:43+00:00">
+<div class="post" data-post-id="12186" data-author="jezer" data-date="2006-04-20T13:49:43+00:00" data-subject="">
 
 You have teh talent to create problems and obstacles from nowhere[/quote:2ov5joh9]
 
@@ -120,7 +120,7 @@ Yasik, do me a favour, next time I post a question... don't answer.
 
 </div>
 
-<div class="post" data-post-id="12188" data-author="Avatar" data-date="2006-04-20T14:03:46+00:00">
+<div class="post" data-post-id="12188" data-author="Avatar" data-date="2006-04-20T14:03:46+00:00" data-subject="maps">
 
 For myself, if I'm making a new map I usually start with Microsoft Visio.  It's convenient because it can all snap to a grid, and has different shapes, etc.  Instead of Visio I used Excel for the Moria map.  I set the size of the rows and columns to the same value so that it gives a grid like graph paper, then you can orient the objects to that grid.
 
@@ -132,13 +132,13 @@ Still, I don't think my maps are the greatest.  The temple of fiends - ss is pro
 
 </div>
 
-<div class="post" data-post-id="12189" data-author="blackmore" data-date="2006-04-20T14:17:24+00:00">
+<div class="post" data-post-id="12189" data-author="blackmore" data-date="2006-04-20T14:17:24+00:00" data-subject="">
 
 I built a good number of the simpler maps.  I'm not good enough to be fancy, but I am capable of being accurate, which was more than could be said about some of the older maps.  I did all mine with PSP.  A few years ago at least, it had a 30 day free trial, and though it's gotten bloated to where I don't understand a lot of it, I've always had an easier time using it than other programs.
 
 </div>
 
-<div class="post" data-post-id="12190" data-author="Weasel" data-date="2006-04-20T14:47:44+00:00">
+<div class="post" data-post-id="12190" data-author="Weasel" data-date="2006-04-20T14:47:44+00:00" data-subject="">
 
 Photoshop CS? [/quote:lpy34dog]
 
@@ -170,7 +170,7 @@ also ran across this knot maker tutorial which would've made some stunning maps,
 
 </div>
 
-<div class="post" data-post-id="12192" data-author="12345" data-date="2006-04-20T15:54:15+00:00">
+<div class="post" data-post-id="12192" data-author="12345" data-date="2006-04-20T15:54:15+00:00" data-subject="">
 
 I think you all took Jezer too seriously.  If he's using terms like snap to grid and such, he already knows an image editting program.  He probably uses Powerpoint or some other program and wants to know if anyone used it.
 
@@ -182,13 +182,13 @@ That's probably the best way...
 
 </div>
 
-<div class="post" data-post-id="12194" data-author="Weasel" data-date="2006-04-20T16:01:01+00:00">
+<div class="post" data-post-id="12194" data-author="Weasel" data-date="2006-04-20T16:01:01+00:00" data-subject="">
 
 hmm.. oatmeal you say?
 
 </div>
 
-<div class="post" data-post-id="12203" data-author="jezer" data-date="2006-04-20T23:38:40+00:00">
+<div class="post" data-post-id="12203" data-author="jezer" data-date="2006-04-20T23:38:40+00:00" data-subject="">
 
 Haha, seems 12345 sensed my frustration. :twisted: 
 
@@ -206,7 +206,7 @@ Obviously you can't use a program like this to map existing sloth areas. But I'l
 
 </div>
 
-<div class="post" data-post-id="12204" data-author="Nascosto" data-date="2006-04-20T23:56:23+00:00">
+<div class="post" data-post-id="12204" data-author="Nascosto" data-date="2006-04-20T23:56:23+00:00" data-subject="">
 
 as to your zmapper question, I tried it several times in its different incarnations and on different pcs and found it to be an extremely buggy piece of crap.
 
@@ -214,7 +214,7 @@ the automapper that comes along with zmud is more stable, but as you can see by 
 
 </div>
 
-<div class="post" data-post-id="12206" data-author="Ditheca" data-date="2006-04-21T00:14:45+00:00">
+<div class="post" data-post-id="12206" data-author="Ditheca" data-date="2006-04-21T00:14:45+00:00" data-subject="">
 
 I do all my maps in powerpoint.  I use a previous map as a template, and can map an area very quickly.
 
@@ -222,13 +222,13 @@ Mm, now if only I could figure out how to make them look good after being resize
 
 </div>
 
-<div class="post" data-post-id="12207" data-author="Mystery" data-date="2006-04-21T00:35:59+00:00">
+<div class="post" data-post-id="12207" data-author="Mystery" data-date="2006-04-21T00:35:59+00:00" data-subject="Use at own risk...">
 
 I'm not advocating the use of pirated software and downloading Corel Paint Shop Pro X from bearshare at [www.bearshare.com](http://www.bearshare.com) is just wrong. However, this program which retails around $300.00 US dollars is totally kickass,,,,or so I hear :twisted:
 
 </div>
 
-<div class="post" data-post-id="12209" data-author="jezer" data-date="2006-04-21T00:51:10+00:00">
+<div class="post" data-post-id="12209" data-author="jezer" data-date="2006-04-21T00:51:10+00:00" data-subject="Map Makers Check This Out!">
 
 Found a pretty decent program for those who don't have access to visio for drawing maps... I found it googling "freeware visio alternatives" heh
 
@@ -244,7 +244,7 @@ I'll be using this for future maping needs for sure!
 
 </div>
 
-<div class="post" data-post-id="12257" data-author="*juggleblood*" data-date="2006-04-21T11:24:48+00:00">
+<div class="post" data-post-id="12257" data-author="*juggleblood*" data-date="2006-04-21T11:24:48+00:00" data-subject="">
 
 Jezer, why don't you put some of your talent, energy, and spare time into making an area?
 
@@ -254,7 +254,7 @@ Just food for thought.
 
 </div>
 
-<div class="post" data-post-id="12259" data-author="12345" data-date="2006-04-21T11:29:40+00:00">
+<div class="post" data-post-id="12259" data-author="12345" data-date="2006-04-21T11:29:40+00:00" data-subject="">
 
 I think he's way ahead of you...
 
@@ -262,7 +262,7 @@ Why I started on this map making thing was because I was wanting to design an ar
 
 </div>
 
-<div class="post" data-post-id="12263" data-author="tincts" data-date="2006-04-21T11:51:04+00:00">
+<div class="post" data-post-id="12263" data-author="tincts" data-date="2006-04-21T11:51:04+00:00" data-subject="">
 
 12345, champion and defender of Jezer  :twisted: 
 
@@ -270,7 +270,7 @@ Lovin ya work, both of ya hehe
 
 </div>
 
-<div class="post" data-post-id="12265" data-author="*juggleblood*" data-date="2006-04-21T12:21:16+00:00">
+<div class="post" data-post-id="12265" data-author="*juggleblood*" data-date="2006-04-21T12:21:16+00:00" data-subject="">
 
 doh...dunno how I missed that
 

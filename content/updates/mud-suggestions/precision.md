@@ -10,7 +10,7 @@ locked: false
 post_count: 11
 ---
 
-<div class="post" data-post-id="11613" data-author="Falsra" data-date="2006-03-21T14:19:11+00:00">
+<div class="post" data-post-id="11613" data-author="Falsra" data-date="2006-03-21T14:19:11+00:00" data-subject="precision">
 
 Most of my friends consider sloth to be very complex.
 
@@ -78,7 +78,7 @@ Thank for attn :)
 
 </div>
 
-<div class="post" data-post-id="11616" data-author="Autolycos" data-date="2006-03-21T14:43:12+00:00">
+<div class="post" data-post-id="11616" data-author="Autolycos" data-date="2006-03-21T14:43:12+00:00" data-subject="">
 
 wow, thats cool..  i never really gave that much thought to a direct battle 1 on 1. but it does make perfect sense..   if i were to fight irl,  i would look and concentrate on my opponents most vulnerable spots.  
 
@@ -86,7 +86,7 @@ nicely don Falsra  :)
 
 </div>
 
-<div class="post" data-post-id="11630" data-author="Harlot" data-date="2006-03-21T17:22:03+00:00">
+<div class="post" data-post-id="11630" data-author="Harlot" data-date="2006-03-21T17:22:03+00:00" data-subject="nice idea but you suggest the following?">
 
 kick <MOB> <target> ? example being
 
@@ -104,7 +104,7 @@ would be interesting additon but the coding would seemingly take forever...maybe
 
 </div>
 
-<div class="post" data-post-id="11632" data-author="Autolycos" data-date="2006-03-21T17:28:43+00:00">
+<div class="post" data-post-id="11632" data-author="Autolycos" data-date="2006-03-21T17:28:43+00:00" data-subject="">
 
 sounds good.. but i prefer
 
@@ -120,7 +120,7 @@ take dat ya hooch!
 
 </div>
 
-<div class="post" data-post-id="11633" data-author="kjartan" data-date="2006-03-21T17:46:36+00:00">
+<div class="post" data-post-id="11633" data-author="kjartan" data-date="2006-03-21T17:46:36+00:00" data-subject="">
 
 In D&D and other tabletop RPGs this mechanic is referred to as "called shots".  Generally you have a reduced chance to hit coupled with improved effects.  It doesn't fit very well with the vague idea of the "hit point" in D&D, and so base D&D doesn't use the mechanic.
 
@@ -132,13 +132,13 @@ Making per-mob effects for the different body parts is probably not going to hap
 
 </div>
 
-<div class="post" data-post-id="11636" data-author="Krok" data-date="2006-03-21T18:06:52+00:00">
+<div class="post" data-post-id="11636" data-author="Krok" data-date="2006-03-21T18:06:52+00:00" data-subject="">
 
 Erm, necros are overpowered, but our cleric supps would suffer from that :((
 
 </div>
 
-<div class="post" data-post-id="11637" data-author="Autolycos" data-date="2006-03-21T18:09:37+00:00">
+<div class="post" data-post-id="11637" data-author="Autolycos" data-date="2006-03-21T18:09:37+00:00" data-subject="">
 
 QUICK!  :shock: 
 
@@ -146,13 +146,13 @@ someone run over to Kj's house and unplug his keyboard! :evil:
 
 </div>
 
-<div class="post" data-post-id="11639" data-author="kjartan" data-date="2006-03-21T18:45:58+00:00">
+<div class="post" data-post-id="11639" data-author="kjartan" data-date="2006-03-21T18:45:58+00:00" data-subject="">
 
 I'm using a laptop!  Muahahahahah!
 
 </div>
 
-<div class="post" data-post-id="11765" data-author="Falsra" data-date="2006-03-24T08:58:40+00:00">
+<div class="post" data-post-id="11765" data-author="Falsra" data-date="2006-03-24T08:58:40+00:00" data-subject="">
 
 > ***kjartan* wrote:**
 > In D&D and other tabletop RPGs this mechanic is referred to as "called shots".  Generally you have a reduced chance to hit coupled with improved effects.
@@ -243,7 +243,7 @@ You brutally massacre a bottle nosed dolphin's tail with your pierce.
 
 </div>
 
-<div class="post" data-post-id="11768" data-author="kjartan" data-date="2006-03-24T17:14:12+00:00">
+<div class="post" data-post-id="11768" data-author="kjartan" data-date="2006-03-24T17:14:12+00:00" data-subject="">
 
 Nah, we don't have to follow D&D's license, and called shots aren't solely a D&D idea anyway.  We sometimes use ideas from D&D because they have a lot of good ideas.
 
@@ -253,7 +253,7 @@ If precision gave you, say, 2x damage improvement for hitting the right spot wit
 
 </div>
 
-<div class="post" data-post-id="11769" data-author="Autolycos" data-date="2006-03-24T17:42:51+00:00">
+<div class="post" data-post-id="11769" data-author="Autolycos" data-date="2006-03-24T17:42:51+00:00" data-subject="">
 
 i don't know Kj,  this does look kinda cool....
 

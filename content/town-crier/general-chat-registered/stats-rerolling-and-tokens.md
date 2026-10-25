@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="28939" data-author="*Splork*" data-date="2009-04-16T17:13:03+00:00">
+<div class="post" data-post-id="28939" data-author="*Splork*" data-date="2009-04-16T17:13:03+00:00" data-subject="Stats, rerolling, and tokens">
 
 Sadly, we have found some flaws regarding the stats being rolled at level 8 and by triangular tokens in general. Due to this, please refrain from hunting tokens, rerolling, or any other effort being spent in this direction.
 
@@ -24,7 +24,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28940" data-author="Thraxas" data-date="2009-04-16T17:40:15+00:00">
+<div class="post" data-post-id="28940" data-author="Thraxas" data-date="2009-04-16T17:40:15+00:00" data-subject="">
 
 small point but "next prime level up" how does that affect lvl 20 primes that don't want to leave vk yet?
 
@@ -34,7 +34,7 @@ Not sure how many have said it yet but thanks for all your hard work.
 
 </div>
 
-<div class="post" data-post-id="28948" data-author="Weasel" data-date="2009-04-17T01:44:29+00:00">
+<div class="post" data-post-id="28948" data-author="Weasel" data-date="2009-04-17T01:44:29+00:00" data-subject="Re: Stats, rerolling, and tokens">
 
 Sadly, we have found some flaws regarding the stats being rolled at level 8 and by triangular tokens in general. Due to this, please refrain from hunting tokens, rerolling, or any other effort being spent in this direction.
 
@@ -52,7 +52,7 @@ BTW, Shaun White Snowboarding is not compatible with Vista 64-bit, even in compa
 
 </div>
 
-<div class="post" data-post-id="28949" data-author="*Splork*" data-date="2009-04-17T02:04:45+00:00">
+<div class="post" data-post-id="28949" data-author="*Splork*" data-date="2009-04-17T02:04:45+00:00" data-subject="">
 
 After further investigation, its been found that there is no need to reset anyone's stats.
 
@@ -64,7 +64,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28950" data-author="kjartan" data-date="2009-04-17T05:02:53+00:00">
+<div class="post" data-post-id="28950" data-author="kjartan" data-date="2009-04-17T05:02:53+00:00" data-subject="">
 
 I think the tokens are fixed incor.  Here is the plan:
 
@@ -84,19 +84,19 @@ Oh, hi mud!  I'm still here.
 
 </div>
 
-<div class="post" data-post-id="28952" data-author="jezer" data-date="2009-04-17T05:26:33+00:00">
+<div class="post" data-post-id="28952" data-author="jezer" data-date="2009-04-17T05:26:33+00:00" data-subject="">
 
 I think there is also a high probability that kj is awesome.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="28953" data-author="Thraxas" data-date="2009-04-17T10:12:32+00:00">
+<div class="post" data-post-id="28953" data-author="Thraxas" data-date="2009-04-17T10:12:32+00:00" data-subject="">
 
 how do single sided die fit in?
 
 </div>
 
-<div class="post" data-post-id="28955" data-author="*Splork*" data-date="2009-04-17T12:15:17+00:00">
+<div class="post" data-post-id="28955" data-author="*Splork*" data-date="2009-04-17T12:15:17+00:00" data-subject="">
 
 In response to Weasel;
 
@@ -112,7 +112,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="28957" data-author="Vixn" data-date="2009-04-17T14:37:27+00:00">
+<div class="post" data-post-id="28957" data-author="Vixn" data-date="2009-04-17T14:37:27+00:00" data-subject="">
 
 I personally think it's the best version of rerolling system we could ever dream about. And thanks much for keeping stats w/o reset.
 
@@ -120,7 +120,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="28961" data-author="Weasel" data-date="2009-04-17T21:51:40+00:00">
+<div class="post" data-post-id="28961" data-author="Weasel" data-date="2009-04-17T21:51:40+00:00" data-subject="">
 
 That system sounds much improved, although maybe oct tokens via drachma shop with increased dice?
 
@@ -134,7 +134,7 @@ That system sounds much improved, although maybe oct tokens via drachma shop wit
 
 </div>
 
-<div class="post" data-post-id="29011" data-author="*Splork*" data-date="2009-04-22T13:52:39+00:00">
+<div class="post" data-post-id="29011" data-author="*Splork*" data-date="2009-04-22T13:52:39+00:00" data-subject="">
 
 Tri tokens and single sided die have had their ranges for which they roll stats upped slightly. We have noticed the stats werent giving out exactly what we wanted and have made the proper adjustments. These adjustments benefit you.
 
@@ -146,7 +146,7 @@ The changes will be in next crash or reboot.
 
 </div>
 
-<div class="post" data-post-id="29012" data-author="Xamak" data-date="2009-04-22T14:11:25+00:00">
+<div class="post" data-post-id="29012" data-author="Xamak" data-date="2009-04-22T14:11:25+00:00" data-subject="">
 
 Thankls Splork.  I'm hoping that I can at least get back to my original stats at level 8 now!
 

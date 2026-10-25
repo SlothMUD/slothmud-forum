@@ -10,7 +10,7 @@ locked: false
 post_count: 35
 ---
 
-<div class="post" data-post-id="16820" data-author="Briar" data-date="2007-02-12T05:10:50+00:00">
+<div class="post" data-post-id="16820" data-author="Briar" data-date="2007-02-12T05:10:50+00:00" data-subject="One request">
 
 jus thave a lil' request
 
@@ -20,13 +20,13 @@ can you please NOT PLAY A CLERIC PRIME.
 
 </div>
 
-<div class="post" data-post-id="16821" data-author="Kong" data-date="2007-02-12T05:14:30+00:00">
+<div class="post" data-post-id="16821" data-author="Kong" data-date="2007-02-12T05:14:30+00:00" data-subject="">
 
 your a tard
 
 </div>
 
-<div class="post" data-post-id="16823" data-author="Briar" data-date="2007-02-12T06:04:26+00:00">
+<div class="post" data-post-id="16823" data-author="Briar" data-date="2007-02-12T06:04:26+00:00" data-subject="">
 
 thank you
 
@@ -34,13 +34,13 @@ next please
 
 </div>
 
-<div class="post" data-post-id="16825" data-author="Hades" data-date="2007-02-12T11:08:37+00:00">
+<div class="post" data-post-id="16825" data-author="Hades" data-date="2007-02-12T11:08:37+00:00" data-subject="Re: One Request">
 
 Request denied
 
 </div>
 
-<div class="post" data-post-id="16826" data-author="Autolycos" data-date="2007-02-12T13:19:10+00:00">
+<div class="post" data-post-id="16826" data-author="Autolycos" data-date="2007-02-12T13:19:10+00:00" data-subject="">
 
 overuled.
 
@@ -48,7 +48,7 @@ overuled.
 
 </div>
 
-<div class="post" data-post-id="16829" data-author="13" data-date="2007-02-12T13:54:56+00:00">
+<div class="post" data-post-id="16829" data-author="13" data-date="2007-02-12T13:54:56+00:00" data-subject="LIST OF BOTTING CLERIC PRIMES">
 
 It's no secret that almost all of them do it.  Cleric primes who have always been cleric primes have a much different mindset on sloth than someone who has been a thief or a mage.
 
@@ -64,13 +64,13 @@ If you wanna see a good healer, watch Brad.   Daeds is right on top of shit too.
 
 </div>
 
-<div class="post" data-post-id="16830" data-author="Jag" data-date="2007-02-12T14:34:13+00:00">
+<div class="post" data-post-id="16830" data-author="Jag" data-date="2007-02-12T14:34:13+00:00" data-subject="">
 
 And I didn't even get a mention?
 
 </div>
 
-<div class="post" data-post-id="16831" data-author="Autolycos" data-date="2007-02-12T14:48:27+00:00">
+<div class="post" data-post-id="16831" data-author="Autolycos" data-date="2007-02-12T14:48:27+00:00" data-subject="Re: LIST OF BOTTING CLERIC PRIMES">
 
 It's no secret that almost all of them do it.  Cleric primes who have always been cleric primes have a much different mindset on sloth than someone who has been a thief or a mage.[/quote:2z05tsb4]
 
@@ -84,7 +84,7 @@ no lie.. the best peeps to have in your healo is  Jayde, Deadalus, Giselle, & Ve
 
 </div>
 
-<div class="post" data-post-id="16832" data-author="brand" data-date="2007-02-12T15:18:29+00:00">
+<div class="post" data-post-id="16832" data-author="brand" data-date="2007-02-12T15:18:29+00:00" data-subject="">
 
 it's more like this most of time...
 
@@ -96,7 +96,7 @@ yeah that about covers it :twisted:
 
 </div>
 
-<div class="post" data-post-id="16833" data-author="Weasel" data-date="2007-02-12T15:20:34+00:00">
+<div class="post" data-post-id="16833" data-author="Weasel" data-date="2007-02-12T15:20:34+00:00" data-subject="">
 
 it's more like this most of time...
 
@@ -110,13 +110,13 @@ lmfao!
 
 </div>
 
-<div class="post" data-post-id="16834" data-author="Mosaix" data-date="2007-02-12T15:24:14+00:00">
+<div class="post" data-post-id="16834" data-author="Mosaix" data-date="2007-02-12T15:24:14+00:00" data-subject="">
 
 Interesting.
 
 </div>
 
-<div class="post" data-post-id="16835" data-author="osric" data-date="2007-02-12T15:50:29+00:00">
+<div class="post" data-post-id="16835" data-author="osric" data-date="2007-02-12T15:50:29+00:00" data-subject="">
 
 Healing? I think I have a hotkey for that somewhere...um maybe... well maybe not? Look either way just pay  um attention and tanks will stay well um alive I think? Oh look at that Venture Brothers! 
 
@@ -124,13 +124,13 @@ Healing? I think I have a hotkey for that somewhere...um maybe... well maybe not
 
 </div>
 
-<div class="post" data-post-id="16836" data-author="13" data-date="2007-02-12T15:57:40+00:00">
+<div class="post" data-post-id="16836" data-author="13" data-date="2007-02-12T15:57:40+00:00" data-subject="">
 
 My bad, Mosaix is a good healer too.  Sorry Broc :p
 
 </div>
 
-<div class="post" data-post-id="16837" data-author="Autolycos" data-date="2007-02-12T16:02:55+00:00">
+<div class="post" data-post-id="16837" data-author="Autolycos" data-date="2007-02-12T16:02:55+00:00" data-subject="">
 
 laff..  Broc should be happy!
 
@@ -142,7 +142,7 @@ cheers!
 
 </div>
 
-<div class="post" data-post-id="16838" data-author="Mosaix" data-date="2007-02-12T17:33:03+00:00">
+<div class="post" data-post-id="16838" data-author="Mosaix" data-date="2007-02-12T17:33:03+00:00" data-subject="">
 
 Interesting sort of meant this.
 
@@ -162,7 +162,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="16839" data-author="Autolycos" data-date="2007-02-12T17:45:23+00:00">
+<div class="post" data-post-id="16839" data-author="Autolycos" data-date="2007-02-12T17:45:23+00:00" data-subject="">
 
 For the record my first char. started him in 1994 on Sloth 2 was Endor and was a[b:vcu35se8] thief/mage[/color:vcu35se8].[/b:vcu35se8]  Immorted him, didnt play for a long time, then started Mosaix Cleric/mage on sloth 3 many years later.Mosaix[/quote:vcu35se8]
 
@@ -172,13 +172,13 @@ btw Broc,  you make almost as many typos as me in grouptells,  that lets me know
 
 </div>
 
-<div class="post" data-post-id="16840" data-author="Mosaix" data-date="2007-02-12T18:09:11+00:00">
+<div class="post" data-post-id="16840" data-author="Mosaix" data-date="2007-02-12T18:09:11+00:00" data-subject="">
 
 Hehe typos yes, i type too fast and keep screwing up the words :)
 
 </div>
 
-<div class="post" data-post-id="16841" data-author="brand" data-date="2007-02-12T19:38:15+00:00">
+<div class="post" data-post-id="16841" data-author="brand" data-date="2007-02-12T19:38:15+00:00" data-subject="">
 
 heh, i didn't even notice who posted this. it's the worthless pthief briar.
 
@@ -188,13 +188,13 @@ hmm,what's Auto always say again... stfu... yeah i think thats it
 
 </div>
 
-<div class="post" data-post-id="16842" data-author="Infested" data-date="2007-02-12T19:48:57+00:00">
+<div class="post" data-post-id="16842" data-author="Infested" data-date="2007-02-12T19:48:57+00:00" data-subject="">
 
 Oh snap, I started as a cleric prime and went to a thief prime, I must be the worst afk stabber ever!
 
 </div>
 
-<div class="post" data-post-id="16844" data-author="banedon" data-date="2007-02-12T20:50:58+00:00">
+<div class="post" data-post-id="16844" data-author="banedon" data-date="2007-02-12T20:50:58+00:00" data-subject="">
 
 Hey dont forget about us folks that have cl 3rd or 4t.  I can't tell you how many times I have gone into rapid fire cure serious mode to try and keep a CF from happening b/c of healo being exhausted or worse, afk.  I think that if someones bottin, give them a few tells to get their attention, then ungroup them, recall them and let them deal with it.  Or even better, I think it was Aa or Jason that suggested sendin them to Demogorgon or something just as nasty in another thread bout bots.
 
@@ -202,7 +202,7 @@ Just my $.02, flame away
 
 </div>
 
-<div class="post" data-post-id="16845" data-author="Autolycos" data-date="2007-02-12T20:59:21+00:00">
+<div class="post" data-post-id="16845" data-author="Autolycos" data-date="2007-02-12T20:59:21+00:00" data-subject="">
 
 I think it was Aa or Jason that suggested sendin them to Demogorgon or something just as nasty in another thread bout bots.[/quote:1uxu269w]
 
@@ -214,19 +214,19 @@ ever since splork transd me to demo one day cause i was being contrary  :x
 
 </div>
 
-<div class="post" data-post-id="16846" data-author="Krok" data-date="2007-02-12T21:23:26+00:00">
+<div class="post" data-post-id="16846" data-author="Krok" data-date="2007-02-12T21:23:26+00:00" data-subject="">
 
 Umm, hi.
 
 </div>
 
-<div class="post" data-post-id="16847" data-author="Vixn" data-date="2007-02-12T22:04:44+00:00">
+<div class="post" data-post-id="16847" data-author="Vixn" data-date="2007-02-12T22:04:44+00:00" data-subject="">
 
 nice bot script :)
 
 </div>
 
-<div class="post" data-post-id="16849" data-author="12345" data-date="2007-02-13T01:40:05+00:00">
+<div class="post" data-post-id="16849" data-author="12345" data-date="2007-02-13T01:40:05+00:00" data-subject="">
 
 Different people have different experience.  Its fairly well known that I like to run mostly safe.  Since my groups tend to have a higher than average number of newer players I've basically made it a habit to make sure everyone is awake before I walk into something dangerous.
 
@@ -240,13 +240,13 @@ One reason I prefer to lead actually.  Its also the reason I give out special in
 
 </div>
 
-<div class="post" data-post-id="16851" data-author="13" data-date="2007-02-13T02:29:25+00:00">
+<div class="post" data-post-id="16851" data-author="13" data-date="2007-02-13T02:29:25+00:00" data-subject="">
 
 Krok's the worst one
 
 </div>
 
-<div class="post" data-post-id="16852" data-author="Mannu" data-date="2007-02-13T08:46:46+00:00">
+<div class="post" data-post-id="16852" data-author="Mannu" data-date="2007-02-13T08:46:46+00:00" data-subject="">
 
 Hey! I'm a good klurik!  I always carry +11 shock to raise!
 
@@ -254,7 +254,7 @@ Also, I like seeing Aa beg for heals  :twisted:
 
 </div>
 
-<div class="post" data-post-id="16854" data-author="*juggleblood*" data-date="2007-02-13T12:15:25+00:00">
+<div class="post" data-post-id="16854" data-author="*juggleblood*" data-date="2007-02-13T12:15:25+00:00" data-subject="">
 
 heh, i didn't even notice who posted this. it's the worthless pthief briar.[/quote:169rwqwq]
 
@@ -262,7 +262,7 @@ Which pthief is/was he exactly? thx
 
 </div>
 
-<div class="post" data-post-id="16855" data-author="Autolycos" data-date="2007-02-13T13:04:33+00:00">
+<div class="post" data-post-id="16855" data-author="Autolycos" data-date="2007-02-13T13:04:33+00:00" data-subject="">
 
 Which pthief is/was he exactly? thx[/quote:tpv7ywuh]
 
@@ -272,7 +272,7 @@ clink is derro/jorgmundr too  :shock:
 
 </div>
 
-<div class="post" data-post-id="16856" data-author="Gimlet" data-date="2007-02-13T13:14:23+00:00">
+<div class="post" data-post-id="16856" data-author="Gimlet" data-date="2007-02-13T13:14:23+00:00" data-subject="">
 
 its clink's pthief
 
@@ -286,7 +286,7 @@ i must have some personality disorder
 
 </div>
 
-<div class="post" data-post-id="16857" data-author="Gimlet" data-date="2007-02-13T13:25:40+00:00">
+<div class="post" data-post-id="16857" data-author="Gimlet" data-date="2007-02-13T13:25:40+00:00" data-subject="">
 
 on another note
 
@@ -302,13 +302,13 @@ I've seen an alarming number of people who do not even set up bot scripts to bla
 
 </div>
 
-<div class="post" data-post-id="16859" data-author="13" data-date="2007-02-13T13:51:20+00:00">
+<div class="post" data-post-id="16859" data-author="13" data-date="2007-02-13T13:51:20+00:00" data-subject="">
 
 I've done it a couple times myself in those brainless BH chopfests.  No-one was counting on me to do anything but sing gods though.
 
 </div>
 
-<div class="post" data-post-id="16860" data-author="banedon" data-date="2007-02-13T16:04:39+00:00">
+<div class="post" data-post-id="16860" data-author="banedon" data-date="2007-02-13T16:04:39+00:00" data-subject="">
 
 I think most, if not all, of us have been guilty of not paying 100% attention at one point or another, due to one reason or another.[/quote:3q8q18y5]
 
@@ -316,19 +316,19 @@ Ain't this the truth.  Last night I got wasted in a group, because I was focused
 
 </div>
 
-<div class="post" data-post-id="16871" data-author="freakna" data-date="2007-02-13T20:29:28+00:00">
+<div class="post" data-post-id="16871" data-author="freakna" data-date="2007-02-13T20:29:28+00:00" data-subject="">
 
 Yep, afk.. Botting, I'm gulty sorta. I'm actualy looking at the screan but... Half the time somthing bad happens is cause I see freaka somehwere and I tryed to figure what? Why? Who? Ect and its gone before I have the chance to even figure out who said anything. So anyone who groups with me. Unless the group is standing still and not talking I have no idea of what's going on. I don't even read the text, its impossible on this little ass screan. And the other half of the time its lag. I can't even count how many times ill be playing and the screan will stop moving. So I just type ass someone and wait.. And ass some.. And wait, then my screan starts too move and I have gone thro.. 3 battles in the time of my screan not moving. Yep.. That's why I ass and blast and I never target things. Every time I try.. Once again 3 battles would go thro before my cast 'weaken' or whatever even works wich usally leads too hitting the wrong mobs.
 
 </div>
 
-<div class="post" data-post-id="16872" data-author="13" data-date="2007-02-13T22:28:52+00:00">
+<div class="post" data-post-id="16872" data-author="13" data-date="2007-02-13T22:28:52+00:00" data-subject="">
 
 if you cant read the text maybe you shouldnt mud?
 
 </div>
 
-<div class="post" data-post-id="16905" data-author="freakna" data-date="2007-02-15T07:01:25+00:00">
+<div class="post" data-post-id="16905" data-author="freakna" data-date="2007-02-15T07:01:25+00:00" data-subject="">
 
 That's only grouping, when I'm solo I have no probs.. Well once in a while ill loos signal completly and the mud don't notice that I lost connection so I just keep fighting. But that's ok, that's why I made freakna. I tryed to make a solo person and I'm very happy with him. Once I hit av ill go back to solo again. Just need a little help on these last levels. ;-)
 

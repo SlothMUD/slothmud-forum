@@ -10,7 +10,7 @@ locked: false
 post_count: 17
 ---
 
-<div class="post" data-post-id="35663" data-author="Yasik" data-date="2015-02-01T09:11:13+00:00">
+<div class="post" data-post-id="35663" data-author="Yasik" data-date="2015-02-01T09:11:13+00:00" data-subject="Gorge not makes it to the full">
 
 This looks like a bug to me.
 
@@ -258,7 +258,7 @@ Your stomach is full.
 
 </div>
 
-<div class="post" data-post-id="35665" data-author="*juggleblood*" data-date="2015-02-02T03:15:44+00:00">
+<div class="post" data-post-id="35665" data-author="*juggleblood*" data-date="2015-02-02T03:15:44+00:00" data-subject="Re: Gorge not makes it to the full">
 
 Ok, I tested this and was able to replicate it.
 
@@ -268,7 +268,7 @@ It's a grey area whether coders will see this as a priority bug. But in any case
 
 </div>
 
-<div class="post" data-post-id="35666" data-author="*Breeze*" data-date="2015-02-02T09:02:02+00:00">
+<div class="post" data-post-id="35666" data-author="*Breeze*" data-date="2015-02-02T09:02:02+00:00" data-subject="Re: Gorge not makes it to the full">
 
 Does it work properly if you puke when you get that message?
 
@@ -278,7 +278,7 @@ iirc it works a bit like a tire. You can fill past Max but you won't like the re
 
 </div>
 
-<div class="post" data-post-id="35667" data-author="Yasik" data-date="2015-02-02T11:20:04+00:00">
+<div class="post" data-post-id="35667" data-author="Yasik" data-date="2015-02-02T11:20:04+00:00" data-subject="Re: Gorge not makes it to the full">
 
 Puking helps, but a) I personally dont like it because it's disgusting, b) it is not normay way how the eating process supposed to be as I see it. Eating/drinking using commands "eat food / drink decanter" works normally.
 
@@ -286,7 +286,7 @@ At this moment it seems I cant reproduce the situation for 2 days already, eithe
 
 </div>
 
-<div class="post" data-post-id="35668" data-author="*juggleblood*" data-date="2015-02-02T18:19:57+00:00">
+<div class="post" data-post-id="35668" data-author="*juggleblood*" data-date="2015-02-02T18:19:57+00:00" data-subject="Re: Gorge not makes it to the full">
 
 No one has done anything, it's just a rare occurrence because there is plenty of food present usually when you gorge, so your food level is usually higher than your water level. This issue would be more likely to occur if you gorge when there is plenty of water, but not much food, thus raising your water level higher than your food. 
 
@@ -294,13 +294,13 @@ I'd say it's as much a feature as a bug. You can't gorge if your still bursting 
 
 </div>
 
-<div class="post" data-post-id="35670" data-author="*Breeze*" data-date="2015-02-02T18:53:09+00:00">
+<div class="post" data-post-id="35670" data-author="*Breeze*" data-date="2015-02-02T18:53:09+00:00" data-subject="Re: Gorge not makes it to the full">
 
 or maybe we add a 'urinate' command.. lol.. just kidding..
 
 </div>
 
-<div class="post" data-post-id="35672" data-author="*Neptune*" data-date="2015-02-03T16:08:51+00:00">
+<div class="post" data-post-id="35672" data-author="*Neptune*" data-date="2015-02-03T16:08:51+00:00" data-subject="Re: Gorge not makes it to the full">
 
 There's a way to fix that problem. You can 'puke' out the contents
 
@@ -320,7 +320,7 @@ stomach quite effectively.
 
 </div>
 
-<div class="post" data-post-id="36277" data-author="Yasik" data-date="2015-12-08T14:52:13+00:00">
+<div class="post" data-post-id="36277" data-author="Yasik" data-date="2015-12-08T14:52:13+00:00" data-subject="Re: Gorge not makes it to the full">
 
 Guys, please, can we have this fixed when you have time? This happens a lot more often than what is considered 'rare occurrence', and is becoming an annoyance.
 
@@ -418,13 +418,13 @@ You are affected by the following spells:
 
 </div>
 
-<div class="post" data-post-id="36278" data-author="cyprimus" data-date="2015-12-09T08:35:40+00:00">
+<div class="post" data-post-id="36278" data-author="cyprimus" data-date="2015-12-09T08:35:40+00:00" data-subject="Re: Gorge not makes it to the full">
 
 You did not eat anything.  Need to have room in inventory to pick up food, and be able to see it etc..
 
 </div>
 
-<div class="post" data-post-id="36281" data-author="Teron" data-date="2015-12-09T10:56:59+00:00">
+<div class="post" data-post-id="36281" data-author="Teron" data-date="2015-12-09T10:56:59+00:00" data-subject="Re: Gorge not makes it to the full">
 
 Yeah, likely you were carrying too much weight.
 
@@ -438,13 +438,13 @@ Thanks.
 
 </div>
 
-<div class="post" data-post-id="36282" data-author="*Breeze*" data-date="2015-12-09T11:20:11+00:00">
+<div class="post" data-post-id="36282" data-author="*Breeze*" data-date="2015-12-09T11:20:11+00:00" data-subject="Re: Gorge not makes it to the full">
 
 would be easier to automatically empty stomach out before feasting but on failed gorge someone would complain
 
 </div>
 
-<div class="post" data-post-id="36284" data-author="Teron" data-date="2015-12-09T15:38:15+00:00">
+<div class="post" data-post-id="36284" data-author="Teron" data-date="2015-12-09T15:38:15+00:00" data-subject="Re: Gorge not makes it to the full">
 
 Sometimes ppl feast just for grace, so it'll force ppl to gorge immediately, also spamming others
 
@@ -454,7 +454,7 @@ It seems being able to gorge, while either hungry or thirsty, would be the right
 
 </div>
 
-<div class="post" data-post-id="36285" data-author="Yasik" data-date="2015-12-09T15:54:12+00:00">
+<div class="post" data-post-id="36285" data-author="Yasik" data-date="2015-12-09T15:54:12+00:00" data-subject="Re: Gorge not makes it to the full">
 
 > **cyprimus wrote:**
 > You did not eat anything.  Need to have room in inventory to pick up food, and be able to see it etc..
@@ -463,25 +463,25 @@ We can grab food from the ground durking gorging process, no?
 
 </div>
 
-<div class="post" data-post-id="36287" data-author="cyprimus" data-date="2015-12-10T09:11:44+00:00">
+<div class="post" data-post-id="36287" data-author="cyprimus" data-date="2015-12-10T09:11:44+00:00" data-subject="Re: Gorge not makes it to the full">
 
 you can grab food from the ground, as well as the group members, but you did not. Usually this is because your laden.
 
 </div>
 
-<div class="post" data-post-id="36288" data-author="Yasik" data-date="2015-12-10T14:31:19+00:00">
+<div class="post" data-post-id="36288" data-author="Yasik" data-date="2015-12-10T14:31:19+00:00" data-subject="Re: Gorge not makes it to the full">
 
 I thought the food goes right into my stomach bypassing inventory...
 
 </div>
 
-<div class="post" data-post-id="36289" data-author="cyprimus" data-date="2015-12-10T20:09:08+00:00">
+<div class="post" data-post-id="36289" data-author="cyprimus" data-date="2015-12-10T20:09:08+00:00" data-subject="Re: Gorge not makes it to the full">
 
 Nope, still gotta be able to pick it up just like if you were doing it manually.  So need to be able to hold it, see it etc..
 
 </div>
 
-<div class="post" data-post-id="36293" data-author="Yasik" data-date="2015-12-11T16:56:56+00:00">
+<div class="post" data-post-id="36293" data-author="Yasik" data-date="2015-12-11T16:56:56+00:00" data-subject="Re: Gorge not makes it to the full">
 
 It seems not being able to pick up things due to overloading of inventory is not the concern. I was able to pick up decent amount of items, and still unable to gorge properly.
 

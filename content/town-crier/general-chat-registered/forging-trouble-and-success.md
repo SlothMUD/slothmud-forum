@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38838" data-author="Josiah" data-date="2018-06-01T22:12:10+00:00">
+<div class="post" data-post-id="38838" data-author="Josiah" data-date="2018-06-01T22:12:10+00:00" data-subject="Forging trouble -- and success">
 
 <1320hp 641ma 459mv>
 

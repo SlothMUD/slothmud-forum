@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="36628" data-author="Ker" data-date="2016-02-22T18:51:39+00:00">
+<div class="post" data-post-id="36628" data-author="Ker" data-date="2016-02-22T18:51:39+00:00" data-subject="Lost Golden Sack full of goodies">
 
 Good day,
 

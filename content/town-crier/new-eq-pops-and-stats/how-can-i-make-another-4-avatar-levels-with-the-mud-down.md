@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="32359" data-author="Shyla" data-date="2011-01-24T03:23:30+00:00">
+<div class="post" data-post-id="32359" data-author="Shyla" data-date="2011-01-24T03:23:30+00:00" data-subject="How can I make another 4 avatar levels with the mud down?">
 
 How can I make another 4 avatar levels if the mud won't come back up??
 
@@ -20,19 +20,19 @@ Shyla
 
 </div>
 
-<div class="post" data-post-id="32361" data-author="joesmoe" data-date="2011-01-24T03:34:53+00:00">
+<div class="post" data-post-id="32361" data-author="joesmoe" data-date="2011-01-24T03:34:53+00:00" data-subject="Re: How can I make another 4 avatar levels with the mud down">
 
 I am going through withdrawal and resorted to drinking and looking at the website...
 
 </div>
 
-<div class="post" data-post-id="32362" data-author="Mug" data-date="2011-01-24T04:24:53+00:00">
+<div class="post" data-post-id="32362" data-author="Mug" data-date="2011-01-24T04:24:53+00:00" data-subject="Re: How can I make another 4 avatar levels with the mud down">
 
 any news? let us know please
 
 </div>
 
-<div class="post" data-post-id="32363" data-author="*Splork*" data-date="2011-01-24T04:27:18+00:00">
+<div class="post" data-post-id="32363" data-author="*Splork*" data-date="2011-01-24T04:27:18+00:00" data-subject="Re: How can I make another 4 avatar levels with the mud down">
 
 Give me a few minutes to figure out whats going on, just walked in from buying this stupid saltwater aquarium.
 
@@ -40,7 +40,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32365" data-author="*Splork*" data-date="2011-01-24T04:31:45+00:00">
+<div class="post" data-post-id="32365" data-author="*Splork*" data-date="2011-01-24T04:31:45+00:00" data-subject="Re: How can I make another 4 avatar levels with the mud down">
 
 Looks like our server rebooted, Im not entirely sure why and was not notified by Jake.
 

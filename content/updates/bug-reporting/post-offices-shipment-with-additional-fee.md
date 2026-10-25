@@ -10,7 +10,7 @@ locked: false
 post_count: 10
 ---
 
-<div class="post" data-post-id="7622" data-author="Taki" data-date="2005-06-27T04:09:39+00:00">
+<div class="post" data-post-id="7622" data-author="Taki" data-date="2005-06-27T04:09:39+00:00" data-subject="post offices - shipment with additional fee">
 
 I made two shipments like this from BH post office:
 
@@ -30,7 +30,7 @@ T.
 
 </div>
 
-<div class="post" data-post-id="7623" data-author="guest" data-date="2005-06-27T08:43:36+00:00">
+<div class="post" data-post-id="7623" data-author="guest" data-date="2005-06-27T08:43:36+00:00" data-subject="">
 
 Hi all ...
 
@@ -44,13 +44,13 @@ So, all i can tell you is that im sorry, and to have patience till we get the wh
 
 </div>
 
-<div class="post" data-post-id="7624" data-author="Mosaix" data-date="2005-06-27T10:39:14+00:00">
+<div class="post" data-post-id="7624" data-author="Mosaix" data-date="2005-06-27T10:39:14+00:00" data-subject="">
 
 I dont know if this helps or not.  When i ship items i use.....ship "item" mosaix.   I have yet to have a problem with anyhing poofing.  It seems that when you involve coins.....ship "item" mosaix 50k is when there is a problem.  Each time, or sometimes when the person is using coin with the shipping transaction the item is gettting messed up.
 
 </div>
 
-<div class="post" data-post-id="7625" data-author="Avatar" data-date="2005-06-27T10:42:11+00:00">
+<div class="post" data-post-id="7625" data-author="Avatar" data-date="2005-06-27T10:42:11+00:00" data-subject="ship">
 
 Would it make sense to disable the ship option temporarily?   Or at the least, insert another message that informs people who try to ship that the shipping lanes have been under attack by pirates and that some ships may be lost due to violence.
 
@@ -58,19 +58,19 @@ Could make a quest of it when you find the bug, send some mortals out to slay so
 
 </div>
 
-<div class="post" data-post-id="7626" data-author="12345" data-date="2005-06-27T11:48:24+00:00">
+<div class="post" data-post-id="7626" data-author="12345" data-date="2005-06-27T11:48:24+00:00" data-subject="">
 
 Since the base elements of ship are working and the items are going back and forth as intended, disabling the optional fee looks like it will prevent the bug from affecting players.
 
 </div>
 
-<div class="post" data-post-id="7634" data-author="nomis" data-date="2005-06-28T01:20:22+00:00">
+<div class="post" data-post-id="7634" data-author="nomis" data-date="2005-06-28T01:20:22+00:00" data-subject="">
 
 I'd shipped a steel camail to someone last two weeks with the cost of 20k, and it was find. The post man gave me the cash when I visited him after I was told by the player that the item had been collected :)
 
 </div>
 
-<div class="post" data-post-id="7639" data-author="guest" data-date="2005-06-28T07:40:19+00:00">
+<div class="post" data-post-id="7639" data-author="guest" data-date="2005-06-28T07:40:19+00:00" data-subject="">
 
 Hi all ...
 
@@ -86,7 +86,7 @@ Its all my opinion anyways.  If the upper powers decide to change it ... well, t
 
 </div>
 
-<div class="post" data-post-id="7642" data-author="13" data-date="2005-06-28T10:36:31+00:00">
+<div class="post" data-post-id="7642" data-author="13" data-date="2005-06-28T10:36:31+00:00" data-subject="">
 
 I assume you're gonna reimburse the few unlucky ones who lose
 
@@ -96,7 +96,7 @@ ship is one of the cooler new features.
 
 </div>
 
-<div class="post" data-post-id="7972" data-author="guest" data-date="2005-07-23T20:26:38+00:00">
+<div class="post" data-post-id="7972" data-author="guest" data-date="2005-07-23T20:26:38+00:00" data-subject="">
 
 Hi all ...
 
@@ -108,7 +108,7 @@ Thanks everyone for your help and your patience on this.
 
 </div>
 
-<div class="post" data-post-id="8772" data-author="brand" data-date="2005-09-22T02:46:55+00:00">
+<div class="post" data-post-id="8772" data-author="brand" data-date="2005-09-22T02:46:55+00:00" data-subject="">
 
 i've been shipping some eq to different players and have right now in shipment a red minidemon brooch that i can reclaim not for the shipping cost but for the receiving cost. heh what to do...
 

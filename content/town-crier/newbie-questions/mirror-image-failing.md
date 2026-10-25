@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31951" data-author="Kelgar" data-date="2010-11-01T12:44:36+00:00">
+<div class="post" data-post-id="31951" data-author="Kelgar" data-date="2010-11-01T12:44:36+00:00" data-subject="Mirror image failing...">
 
 Ok.
 
@@ -22,7 +22,7 @@ Why and when does this happen?  :(
 
 </div>
 
-<div class="post" data-post-id="31952" data-author="*Isabo*" data-date="2010-11-01T14:29:22+00:00">
+<div class="post" data-post-id="31952" data-author="*Isabo*" data-date="2010-11-01T14:29:22+00:00" data-subject="Re: Mirror image failing...">
 
 Greetings, Mage.
 
@@ -34,7 +34,7 @@ Best regards.
 
 </div>
 
-<div class="post" data-post-id="31956" data-author="Kelgar" data-date="2010-11-02T06:25:54+00:00">
+<div class="post" data-post-id="31956" data-author="Kelgar" data-date="2010-11-02T06:25:54+00:00" data-subject="Re: Mirror image failing...">
 
 *Isabo*,
 

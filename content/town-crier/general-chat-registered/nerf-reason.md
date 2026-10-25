@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="29584" data-author="Belion" data-date="2009-06-27T01:32:00+00:00">
+<div class="post" data-post-id="29584" data-author="Belion" data-date="2009-06-27T01:32:00+00:00" data-subject="Nerf reason?">
 
 Ok, here's a question. Some of you might know a mob called omni in lyme's chapel of lost cross. Back in S3 it used to pop nice 50k gold so I went to kill him in S4, but to my disappointment there was only 1k gold. 
 
@@ -20,7 +20,7 @@ Btw, there was no cache, that was confirmed by an immort.
 
 </div>
 
-<div class="post" data-post-id="29586" data-author="*Splork*" data-date="2009-06-27T02:03:45+00:00">
+<div class="post" data-post-id="29586" data-author="*Splork*" data-date="2009-06-27T02:03:45+00:00" data-subject="">
 
 I think you will find alot of the splork type mobs have had their coins reduced on Lyme. We felt these mobs were the biggest contributor in gold bloat in s3.
 

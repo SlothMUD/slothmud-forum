@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34128" data-author="*Splork*" data-date="2013-03-08T17:36:39+00:00">
+<div class="post" data-post-id="34128" data-author="*Splork*" data-date="2013-03-08T17:36:39+00:00" data-subject="Small Fixes ( can_see )">
 
 Fixes mostly involve mobs not seeing players:
 
@@ -26,7 +26,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="34155" data-author="*Splork*" data-date="2013-03-14T17:33:13+00:00">
+<div class="post" data-post-id="34155" data-author="*Splork*" data-date="2013-03-14T17:33:13+00:00" data-subject="Re: Small Fixes ( can_see )">
 
 There was a rather large bug in the previous code committal which affected more than just shopkeepers, questers, and the like.
 

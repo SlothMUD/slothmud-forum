@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="38509" data-author="Gorka" data-date="2017-11-30T18:45:41+00:00">
+<div class="post" data-post-id="38509" data-author="Gorka" data-date="2017-11-30T18:45:41+00:00" data-subject="What&#x27;s up with Retreat?">
 
 I've died 3 times the past 2 days, trying to retreat on the vertical axis after a skill (strike or a backstab). It's almost like the game thinks that the direction I am retreating in does not exist. 
 
@@ -239,25 +239,25 @@ I swear there is something going on, it's normal to fail a retreat... but 10+ at
 
 </div>
 
-<div class="post" data-post-id="38510" data-author="Gorka" data-date="2017-11-30T19:37:05+00:00">
+<div class="post" data-post-id="38510" data-author="Gorka" data-date="2017-11-30T19:37:05+00:00" data-subject="Re: What&#x27;s up with Retreat?">
 
 An update... I can replicate the behavior, also can confirm it only happens retreating up... unless the banshee is involved in the issue somehow.
 
 </div>
 
-<div class="post" data-post-id="38514" data-author="*teker*" data-date="2017-12-01T23:25:44+00:00">
+<div class="post" data-post-id="38514" data-author="*teker*" data-date="2017-12-01T23:25:44+00:00" data-subject="Re: What&#x27;s up with Retreat?">
 
 Retreat hasn't been modified AFAIK so you're seeing something that has been there for a while.  Retreat in the upward direction is deemed more difficult that other directions.  Builders can also set flags on rooms or exits that make retreating more difficult.  Flee works the same way.  I would suggest having fly up and see if it makes a difference.
 
 </div>
 
-<div class="post" data-post-id="38515" data-author="Gorka" data-date="2017-12-02T15:10:10+00:00">
+<div class="post" data-post-id="38515" data-author="Gorka" data-date="2017-12-02T15:10:10+00:00" data-subject="Re: What&#x27;s up with Retreat?">
 
 Thanks Teker, that explains it. I have perm fly in my blast mode, but not in my strike or stab modes.
 
 </div>
 
-<div class="post" data-post-id="38525" data-author="Josiah" data-date="2017-12-05T19:51:23+00:00">
+<div class="post" data-post-id="38525" data-author="Josiah" data-date="2017-12-05T19:51:23+00:00" data-subject="Re: What&#x27;s up with Retreat?">
 
 Definitely fly.  Definitely not a recent change.
 
@@ -269,7 +269,7 @@ If you are in the habit of attempting to flee like a pansy, and failing... consi
 
 </div>
 
-<div class="post" data-post-id="38532" data-author="Teron" data-date="2017-12-12T15:56:28+00:00">
+<div class="post" data-post-id="38532" data-author="Teron" data-date="2017-12-12T15:56:28+00:00" data-subject="Re: What&#x27;s up with Retreat?">
 
 Nice idea about the trigger. I can remember at least a few times I died to several failed flees.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="34521" data-author="*juggleblood*" data-date="2013-10-28T00:02:33+00:00">
+<div class="post" data-post-id="34521" data-author="*juggleblood*" data-date="2013-10-28T00:02:33+00:00" data-subject="Coliseum 1.1 - Much Improved">
 
 I checked out the scores on the coliseum and decided what needed to be done to bring some class parity to the arenas.
 
@@ -28,7 +28,7 @@ P.S. NO SCOREBOARD RESET. No.
 
 </div>
 
-<div class="post" data-post-id="34522" data-author="*juggleblood*" data-date="2013-10-28T00:03:18+00:00">
+<div class="post" data-post-id="34522" data-author="*juggleblood*" data-date="2013-10-28T00:03:18+00:00" data-subject="Re: Coliseum 1.1 - Much Improved">
 
 If you want to post the scoreboard here for bragging rights in the future, go for it. Scores will be rising fast.
 

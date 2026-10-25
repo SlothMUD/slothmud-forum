@@ -10,13 +10,13 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="879" data-author="Eagle" data-date="2004-06-29T18:54:04+00:00">
+<div class="post" data-post-id="879" data-author="Eagle" data-date="2004-06-29T18:54:04+00:00" data-subject="XP tracker">
 
 lookin for an xp tracker if someone wants to share<BR>rye_bread80@msn.com<BR>thanks
 
 </div>
 
-<div class="post" data-post-id="880" data-author="Qa" data-date="2004-06-29T19:10:12+00:00">
+<div class="post" data-post-id="880" data-author="Qa" data-date="2004-06-29T19:10:12+00:00" data-subject="">
 
 This is an old-school xp counter.  If you cap, it countas the extra.  If you get healing bonuses or damage bonuses, it doesn't track those.  Oh, and it works with wintin/jmc.  -Qa
 
@@ -80,7 +80,7 @@ This is an old-school xp counter.  If you cap, it countas the extra.  If you get
 
 </div>
 
-<div class="post" data-post-id="882" data-author="Leizu" data-date="2004-06-30T12:38:06+00:00">
+<div class="post" data-post-id="882" data-author="Leizu" data-date="2004-06-30T12:38:06+00:00" data-subject="">
 
 This one shows info in 2 buttons, first one with xp I need to level, second one with xp/gold I've got since the last check. Adapt for your needs :)
 
@@ -102,13 +102,13 @@ This one shows info in 2 buttons, first one with xp I need to level, second one 
 
 </div>
 
-<div class="post" data-post-id="903" data-author="Elwood" data-date="2004-07-01T17:47:24+00:00">
+<div class="post" data-post-id="903" data-author="Elwood" data-date="2004-07-01T17:47:24+00:00" data-subject="">
 
 what client is that for lei ?
 
 </div>
 
-<div class="post" data-post-id="906" data-author="Leizu" data-date="2004-07-02T02:07:17+00:00">
+<div class="post" data-post-id="906" data-author="Leizu" data-date="2004-07-02T02:07:17+00:00" data-subject="">
 
 this one was written for zmud 4.62 I posted it here because it could be very fast adapted for wintin. So I thought it could be useful.
 
@@ -116,7 +116,7 @@ if you have any questions feel free to ask
 
 </div>
 
-<div class="post" data-post-id="1571" data-author="Qa" data-date="2004-08-24T19:02:28+00:00">
+<div class="post" data-post-id="1571" data-author="Qa" data-date="2004-08-24T19:02:28+00:00" data-subject="">
 
 Please note that the code I posted below does not work with ".NET"  (Whatever the hell that crap is.)
 

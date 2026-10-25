@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="3622" data-author="12345" data-date="2005-01-05T19:26:09+00:00">
+<div class="post" data-post-id="3622" data-author="12345" data-date="2005-01-05T19:26:09+00:00" data-subject="Cleric Stat Ordering">
 
 Druids and Clerics both have Wis for a prime stat.
 
@@ -24,13 +24,13 @@ Was just curious since I was admiring Malfoy...
 
 </div>
 
-<div class="post" data-post-id="3623" data-author="Modello" data-date="2005-01-05T19:46:04+00:00">
+<div class="post" data-post-id="3623" data-author="Modello" data-date="2005-01-05T19:46:04+00:00" data-subject="">
 
 Good point.  I've wondered about this myself.  Interesting things seem to happen with the stat ordering whenever the first and second class share the same prime stat.  Check a necro/mage or mage/necro......  a thief/bard for instance has dex then int as the second stat!
 
 </div>
 
-<div class="post" data-post-id="3624" data-author="blackmore" data-date="2005-01-05T20:25:16+00:00">
+<div class="post" data-post-id="3624" data-author="blackmore" data-date="2005-01-05T20:25:16+00:00" data-subject="">
 
 Normally, stats are ordered based on whatever your prime class is - but then your first stat of your secondary class is bumped up to the second slot, making your stats prime first, second first, prime next, prime next, prime next.
 
@@ -40,13 +40,13 @@ This does make for some interesting combinations.  I always thought it should be
 
 </div>
 
-<div class="post" data-post-id="3625" data-author="12345" data-date="2005-01-05T22:20:08+00:00">
+<div class="post" data-post-id="3625" data-author="12345" data-date="2005-01-05T22:20:08+00:00" data-subject="">
 
 Hmm.  Interesting.  Danke.
 
 </div>
 
-<div class="post" data-post-id="3632" data-author="13" data-date="2005-01-06T13:27:15+00:00">
+<div class="post" data-post-id="3632" data-author="13" data-date="2005-01-06T13:27:15+00:00" data-subject="">
 
 Thieves roll str 3rd, why don't monks??  Make's more sense to me
 

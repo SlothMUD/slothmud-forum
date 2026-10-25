@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="12807" data-author="Axtrel" data-date="2006-05-31T05:08:19+00:00">
+<div class="post" data-post-id="12807" data-author="Axtrel" data-date="2006-05-31T05:08:19+00:00" data-subject="wtt +dex for +con pitch black greaves">
 
 Anyone willing to trade their +con version of pitch black greaves for my +dex version?
 
@@ -38,7 +38,7 @@ item.
 
 </div>
 
-<div class="post" data-post-id="12808" data-author="Qa" data-date="2006-05-31T13:24:36+00:00">
+<div class="post" data-post-id="12808" data-author="Qa" data-date="2006-05-31T13:24:36+00:00" data-subject="">
 
 Good luck.  The +con ones are harder to find, and (as you noticed) preferred.
 
@@ -46,7 +46,7 @@ Qa
 
 </div>
 
-<div class="post" data-post-id="12816" data-author="Axtrel" data-date="2006-05-31T18:45:14+00:00">
+<div class="post" data-post-id="12816" data-author="Axtrel" data-date="2006-05-31T18:45:14+00:00" data-subject="">
 
 Someone must have an unused pair somewhere....
 

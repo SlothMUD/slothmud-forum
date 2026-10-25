@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="31212" data-author="*Splork*" data-date="2010-05-24T16:18:20+00:00">
+<div class="post" data-post-id="31212" data-author="*Splork*" data-date="2010-05-24T16:18:20+00:00" data-subject="Creating your user via forum login">
 
 We have removed the ability to login to the website CMS due to security concerns.
 
@@ -34,13 +34,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31214" data-author="blackmore" data-date="2010-05-24T20:11:34+00:00">
+<div class="post" data-post-id="31214" data-author="blackmore" data-date="2010-05-24T20:11:34+00:00" data-subject="Re: Creating your user via forum login">
 
 Speaking of browsers, there's something weird with the display in Chrome.  It causes all the middle frames to show up below the main page.  I can send a screenshot if you like. I'm sure Chrome compatibility isn't the top priority, but it would be nice.  I'm not sure why it's Chrome only, since the rendering engine is supposed to be based on Safari's, and it displays fine with Safari.
 
 </div>
 
-<div class="post" data-post-id="31220" data-author="*Breeze*" data-date="2010-05-25T07:37:48+00:00">
+<div class="post" data-post-id="31220" data-author="*Breeze*" data-date="2010-05-25T07:37:48+00:00" data-subject="Re: Creating your user via forum login">
 
 > **blackmore wrote:**
 > Speaking of browsers, there's something weird with the display in Chrome.  It causes all the middle frames to show up below the main page.  I can send a screenshot if you like. I'm sure Chrome compatibility isn't the top priority, but it would be nice.  I'm not sure why it's Chrome only, since the rendering engine is supposed to be based on Safari's, and it displays fine with Safari.

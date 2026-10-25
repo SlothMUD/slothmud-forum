@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="15774" data-author="Medios" data-date="2006-12-26T21:30:29+00:00">
+<div class="post" data-post-id="15774" data-author="Medios" data-date="2006-12-26T21:30:29+00:00" data-subject="Why I wont be forging pendulum.">
 
 Beholder is uber fun now :)
 
@@ -420,13 +420,13 @@ You have been KILLED!!
 
 </div>
 
-<div class="post" data-post-id="15775" data-author="kjartan" data-date="2006-12-26T22:16:27+00:00">
+<div class="post" data-post-id="15775" data-author="kjartan" data-date="2006-12-26T22:16:27+00:00" data-subject="">
 
 Maybe I will turn down the damage a bit - I am still playing with his proc.  A Big Group of Avatars was able to easily destroy him, if you have one of those handy.  I will be sure to add some more messages for when you get dispelled.
 
 </div>
 
-<div class="post" data-post-id="15776" data-author="Atwell" data-date="2006-12-26T23:15:06+00:00">
+<div class="post" data-post-id="15776" data-author="Atwell" data-date="2006-12-26T23:15:06+00:00" data-subject="">
 
 The new beholder is not appropriate as an aggressive, hunting mob that sits on the path to an area (underdark) that does not generally require a big group of avatars.  The paralysis, not the damage, it what makes the new proc such a problem.  He can catch you alone, paralyze you instantly, and kill you as you stand there helpless.  The dispel certainly doesn't help, but we could survive it alone.
 
@@ -434,7 +434,7 @@ It used to be you could sanc yourself and run to underdark.  If the beholder cau
 
 </div>
 
-<div class="post" data-post-id="15778" data-author="12345" data-date="2006-12-26T23:37:27+00:00">
+<div class="post" data-post-id="15778" data-author="12345" data-date="2006-12-26T23:37:27+00:00" data-subject="">
 
 Atwell has a pretty good point, Underdark and MAGIC don't really require huge groups of avatars to run.  Only the fire machine, green dragon and some of the more annoying MAGIC mobs require 2-3 avatars to kill.  Also, the paralysis proc looks to be firing 3 times a round regardless of the number of opponents or if the target is paralyzed already.  You run this alone and get caught, you have little more than a front row seat to your own demise.
 
@@ -442,7 +442,7 @@ Out of curiousity, is restiveness any help?
 
 </div>
 
-<div class="post" data-post-id="15779" data-author="kjartan" data-date="2006-12-27T00:54:43+00:00">
+<div class="post" data-post-id="15779" data-author="kjartan" data-date="2006-12-27T00:54:43+00:00" data-subject="">
 
 I've tuned him down a bit.  Now he fairly often (about half the time) won't have a paralysis proc, damage is reduced on all rays, paralysis duration is reduced, and the dispel will eventually happen but not immediately.  Of course, if you're very unlucky, he'll have several paralysis eyes in which case he will likely paralyze you in a round or two - his eyes vary each time he pops.  Also, while he's dispelling you he can't use his rays on you, just like D&D beholders.
 
@@ -450,19 +450,19 @@ I think he doesn't particularly have any additional ability to catch people; his
 
 </div>
 
-<div class="post" data-post-id="15783" data-author="Weasel" data-date="2006-12-27T04:25:31+00:00">
+<div class="post" data-post-id="15783" data-author="Weasel" data-date="2006-12-27T04:25:31+00:00" data-subject="">
 
 :?: "weasel past him" :shock:
 
 </div>
 
-<div class="post" data-post-id="15784" data-author="*juggleblood*" data-date="2006-12-27T07:52:20+00:00">
+<div class="post" data-post-id="15784" data-author="*juggleblood*" data-date="2006-12-27T07:52:20+00:00" data-subject="">
 
 would be nice to make fog work against this proc
 
 </div>
 
-<div class="post" data-post-id="15791" data-author="kjartan" data-date="2006-12-27T16:37:28+00:00">
+<div class="post" data-post-id="15791" data-author="kjartan" data-date="2006-12-27T16:37:28+00:00" data-subject="">
 
 That's a good point in general, but in this case he's in a pretty tight corridor so I don't think fog would help.
 

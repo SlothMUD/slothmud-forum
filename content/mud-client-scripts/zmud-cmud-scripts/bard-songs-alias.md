@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="22638" data-author="bellafea" data-date="2008-02-10T23:21:22+00:00">
+<div class="post" data-post-id="22638" data-author="bellafea" data-date="2008-02-10T23:21:22+00:00" data-subject="Bard Songs Alias">
 
 simple lil alias for all non avatar bard songs... if you need one
 
@@ -64,13 +64,13 @@ simple lil alias for all non avatar bard songs... if you need one
 
 </div>
 
-<div class="post" data-post-id="22650" data-author="Vixn" data-date="2008-02-11T17:03:16+00:00">
+<div class="post" data-post-id="22650" data-author="Vixn" data-date="2008-02-11T17:03:16+00:00" data-subject="">
 
 how about to add check for instrument and make it play instead of song if you're using instrument?
 
 </div>
 
-<div class="post" data-post-id="22654" data-author="bellafea" data-date="2008-02-11T20:19:05+00:00">
+<div class="post" data-post-id="22654" data-author="bellafea" data-date="2008-02-11T20:19:05+00:00" data-subject="">
 
 i never thought about playing, just looked at the help file, i just sing.  you can do whichever you want. I think in a group setting singing would be better because you can assist and would have a better chance of your attacks working, i dont think they work as well if you are playing. but since i do not use play i would not know... the answer to that.
 

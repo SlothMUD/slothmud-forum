@@ -10,7 +10,7 @@ locked: false
 post_count: 5
 ---
 
-<div class="post" data-post-id="31731" data-author="Thraxas" data-date="2010-09-07T10:10:05+00:00">
+<div class="post" data-post-id="31731" data-author="Thraxas" data-date="2010-09-07T10:10:05+00:00" data-subject="Corpus Severance">
 
 Corpus Severance is a fantastic spell:
 
@@ -52,7 +52,7 @@ cast 'corpus severance'
 
 </div>
 
-<div class="post" data-post-id="31735" data-author="Stab" data-date="2010-09-08T00:06:35+00:00">
+<div class="post" data-post-id="31735" data-author="Stab" data-date="2010-09-08T00:06:35+00:00" data-subject="Re: Corpus Severance">
 
 Thanks for posting the benefits of keeping corpus up thraxas. My understanding ,gleaned some time ago, is that I get the 'who' part consistantly by name for anyone added to my friends list, a 'someone' for peeps not added. The 'where' part may be a masterful??  use  friends, friends add etc. help friends. Good spell.
 
@@ -60,7 +60,7 @@ Stab
 
 </div>
 
-<div class="post" data-post-id="31750" data-author="Dragoth" data-date="2010-09-13T06:50:37+00:00">
+<div class="post" data-post-id="31750" data-author="Dragoth" data-date="2010-09-13T06:50:37+00:00" data-subject="Re: Corpus Severance">
 
 I would say that its an average spell at best, it only takes 1 person to have a death trigger on channel leave to top this spell, which unlike this so called "good" spell works 100% of the time. 
 
@@ -68,13 +68,13 @@ My problem with this whole concept of death is even if somebody knows you are de
 
 </div>
 
-<div class="post" data-post-id="31755" data-author="Vixn" data-date="2010-09-14T15:10:32+00:00">
+<div class="post" data-post-id="31755" data-author="Vixn" data-date="2010-09-14T15:10:32+00:00" data-subject="Re: Corpus Severance">
 
 Thraxas had to learn that snow bird is nasty mob. Stop dying in Aisholm Town!
 
 </div>
 
-<div class="post" data-post-id="31756" data-author="Thraxas" data-date="2010-09-14T15:39:31+00:00">
+<div class="post" data-post-id="31756" data-author="Thraxas" data-date="2010-09-14T15:39:31+00:00" data-subject="Re: Corpus Severance">
 
 > **Vixn wrote:**
 > Thraxas had to learn that snow bird is nasty mob. Stop dying in Aisholm Town!

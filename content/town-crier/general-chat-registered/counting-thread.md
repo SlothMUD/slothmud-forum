@@ -10,13 +10,13 @@ locked: false
 post_count: 196
 ---
 
-<div class="post" data-post-id="25612" data-author="reboog" data-date="2008-08-05T23:15:31+00:00">
+<div class="post" data-post-id="25612" data-author="reboog" data-date="2008-08-05T23:15:31+00:00" data-subject="counting thread">
 
 1
 
 </div>
 
-<div class="post" data-post-id="25615" data-author="Weasel" data-date="2008-08-05T23:52:56+00:00">
+<div class="post" data-post-id="25615" data-author="Weasel" data-date="2008-08-05T23:52:56+00:00" data-subject="">
 
 [b:2q69vtfs] 0 [/b:2q69vtfs]   
 
@@ -24,25 +24,25 @@ post_count: 196
 
 </div>
 
-<div class="post" data-post-id="25616" data-author="jezer" data-date="2008-08-05T23:54:13+00:00">
+<div class="post" data-post-id="25616" data-author="jezer" data-date="2008-08-05T23:54:13+00:00" data-subject="">
 
 [img:sgf2mpim]http://www.scalzi.com/whatever/futility0519a.jpg[/img:sgf2mpim]
 
 </div>
 
-<div class="post" data-post-id="25619" data-author="Poggle" data-date="2008-08-06T00:48:24+00:00">
+<div class="post" data-post-id="25619" data-author="Poggle" data-date="2008-08-06T00:48:24+00:00" data-subject="">
 
 2
 
 </div>
 
-<div class="post" data-post-id="25620" data-author="Rynquald" data-date="2008-08-06T01:55:20+00:00">
+<div class="post" data-post-id="25620" data-author="Rynquald" data-date="2008-08-06T01:55:20+00:00" data-subject="">
 
 2.00001
 
 </div>
 
-<div class="post" data-post-id="25621" data-author="reboog" data-date="2008-08-06T02:06:13+00:00">
+<div class="post" data-post-id="25621" data-author="reboog" data-date="2008-08-06T02:06:13+00:00" data-subject="">
 
 2[/quote:usnol4vp]
 
@@ -50,7 +50,7 @@ post_count: 196
 
 </div>
 
-<div class="post" data-post-id="25623" data-author="Poggle" data-date="2008-08-06T02:17:37+00:00">
+<div class="post" data-post-id="25623" data-author="Poggle" data-date="2008-08-06T02:17:37+00:00" data-subject="">
 
 2[/quote:8nrxuds2]
 
@@ -60,13 +60,13 @@ post_count: 196
 
 </div>
 
-<div class="post" data-post-id="25624" data-author="jezer" data-date="2008-08-06T02:19:14+00:00">
+<div class="post" data-post-id="25624" data-author="jezer" data-date="2008-08-06T02:19:14+00:00" data-subject="">
 
 3
 
 </div>
 
-<div class="post" data-post-id="25625" data-author="reboog" data-date="2008-08-06T02:19:22+00:00">
+<div class="post" data-post-id="25625" data-author="reboog" data-date="2008-08-06T02:19:22+00:00" data-subject="">
 
 4[/quote:2v7scoqr]
 
@@ -74,43 +74,43 @@ post_count: 196
 
 </div>
 
-<div class="post" data-post-id="25626" data-author="jezer" data-date="2008-08-06T02:43:53+00:00">
+<div class="post" data-post-id="25626" data-author="jezer" data-date="2008-08-06T02:43:53+00:00" data-subject="">
 
 4
 
 </div>
 
-<div class="post" data-post-id="25627" data-author="Weasel" data-date="2008-08-06T03:02:38+00:00">
+<div class="post" data-post-id="25627" data-author="Weasel" data-date="2008-08-06T03:02:38+00:00" data-subject="">
 
 -1
 
 </div>
 
-<div class="post" data-post-id="25628" data-author="Poggle" data-date="2008-08-06T03:13:44+00:00">
+<div class="post" data-post-id="25628" data-author="Poggle" data-date="2008-08-06T03:13:44+00:00" data-subject="sloth players sure are bad at counting!">
 
 6
 
 </div>
 
-<div class="post" data-post-id="25631" data-author="jezer" data-date="2008-08-06T03:45:06+00:00">
+<div class="post" data-post-id="25631" data-author="jezer" data-date="2008-08-06T03:45:06+00:00" data-subject="">
 
 R
 
 </div>
 
-<div class="post" data-post-id="25632" data-author="Virus" data-date="2008-08-06T03:59:07+00:00">
+<div class="post" data-post-id="25632" data-author="Virus" data-date="2008-08-06T03:59:07+00:00" data-subject="">
 
 V
 
 </div>
 
-<div class="post" data-post-id="25633" data-author="Weasel" data-date="2008-08-06T04:23:50+00:00">
+<div class="post" data-post-id="25633" data-author="Weasel" data-date="2008-08-06T04:23:50+00:00" data-subject="">
 
 ( O)(o )
 
 </div>
 
-<div class="post" data-post-id="25634" data-author="reboog" data-date="2008-08-06T04:33:55+00:00">
+<div class="post" data-post-id="25634" data-author="reboog" data-date="2008-08-06T04:33:55+00:00" data-subject="">
 
 6[/quote:2k06eopb]
 
@@ -118,43 +118,43 @@ V
 
 </div>
 
-<div class="post" data-post-id="25635" data-author="Weasel" data-date="2008-08-06T05:14:10+00:00">
+<div class="post" data-post-id="25635" data-author="Weasel" data-date="2008-08-06T05:14:10+00:00" data-subject="">
 
 [img:2s1dpwg9]http://shogun.shafted.com.au/temp/llama.jpg[/img:2s1dpwg9]
 
 </div>
 
-<div class="post" data-post-id="25636" data-author="jezer" data-date="2008-08-06T05:30:26+00:00">
+<div class="post" data-post-id="25636" data-author="jezer" data-date="2008-08-06T05:30:26+00:00" data-subject="">
 
 [img:1n6w715u]http://loscuatroojos.com/wp-content/uploads/2008/04/bluescreen-bluescreen.jpg[/img:1n6w715u]
 
 </div>
 
-<div class="post" data-post-id="25646" data-author="Poggle" data-date="2008-08-06T14:49:59+00:00">
+<div class="post" data-post-id="25646" data-author="Poggle" data-date="2008-08-06T14:49:59+00:00" data-subject="">
 
 8
 
 </div>
 
-<div class="post" data-post-id="25647" data-author="Weasel" data-date="2008-08-06T15:25:18+00:00">
+<div class="post" data-post-id="25647" data-author="Weasel" data-date="2008-08-06T15:25:18+00:00" data-subject="">
 
 [img:n13t7d8u]http://www.glenr.com/pic/badger.gif[/img:n13t7d8u]
 
 </div>
 
-<div class="post" data-post-id="25650" data-author="reboog" data-date="2008-08-06T19:49:03+00:00">
+<div class="post" data-post-id="25650" data-author="reboog" data-date="2008-08-06T19:49:03+00:00" data-subject="">
 
 9
 
 </div>
 
-<div class="post" data-post-id="25651" data-author="Poggle" data-date="2008-08-06T20:01:56+00:00">
+<div class="post" data-post-id="25651" data-author="Poggle" data-date="2008-08-06T20:01:56+00:00" data-subject="">
 
 10
 
 </div>
 
-<div class="post" data-post-id="25654" data-author="Yasik2" data-date="2008-08-06T20:14:10+00:00">
+<div class="post" data-post-id="25654" data-author="Yasik2" data-date="2008-08-06T20:14:10+00:00" data-subject="">
 
 [u:2q9t2rjr]1[/u:2q9t2rjr]
 
@@ -164,49 +164,49 @@ Eat this!
 
 </div>
 
-<div class="post" data-post-id="25656" data-author="reboog" data-date="2008-08-06T20:18:38+00:00">
+<div class="post" data-post-id="25656" data-author="reboog" data-date="2008-08-06T20:18:38+00:00" data-subject="">
 
 11[/size:1sv1vg0u]
 
 </div>
 
-<div class="post" data-post-id="25660" data-author="Acedia" data-date="2008-08-06T23:07:33+00:00">
+<div class="post" data-post-id="25660" data-author="Acedia" data-date="2008-08-06T23:07:33+00:00" data-subject="">
 
 12
 
 </div>
 
-<div class="post" data-post-id="25662" data-author="Yasik2" data-date="2008-08-06T23:52:23+00:00">
+<div class="post" data-post-id="25662" data-author="Yasik2" data-date="2008-08-06T23:52:23+00:00" data-subject="">
 
 [img:28eek3uy]http://yasik.kiev.ua/sqrt(-1).jpg[/img:28eek3uy]
 
 </div>
 
-<div class="post" data-post-id="25663" data-author="*juggleblood*" data-date="2008-08-07T00:15:19+00:00">
+<div class="post" data-post-id="25663" data-author="*juggleblood*" data-date="2008-08-07T00:15:19+00:00" data-subject="">
 
 12+1=Aaron
 
 </div>
 
-<div class="post" data-post-id="25664" data-author="reboog" data-date="2008-08-07T03:36:29+00:00">
+<div class="post" data-post-id="25664" data-author="reboog" data-date="2008-08-07T03:36:29+00:00" data-subject="">
 
 13
 
 </div>
 
-<div class="post" data-post-id="25668" data-author="Poggle" data-date="2008-08-07T15:25:39+00:00">
+<div class="post" data-post-id="25668" data-author="Poggle" data-date="2008-08-07T15:25:39+00:00" data-subject="">
 
 14
 
 </div>
 
-<div class="post" data-post-id="25679" data-author="reboog" data-date="2008-08-08T03:20:43+00:00">
+<div class="post" data-post-id="25679" data-author="reboog" data-date="2008-08-08T03:20:43+00:00" data-subject="">
 
 15
 
 </div>
 
-<div class="post" data-post-id="25680" data-author="Jag" data-date="2008-08-08T03:48:40+00:00">
+<div class="post" data-post-id="25680" data-author="Jag" data-date="2008-08-08T03:48:40+00:00" data-subject="">
 
 70
 
@@ -214,37 +214,37 @@ Its a weird number.  You can google it if you don't believe it.
 
 </div>
 
-<div class="post" data-post-id="25685" data-author="Poggle" data-date="2008-08-08T20:33:34+00:00">
+<div class="post" data-post-id="25685" data-author="Poggle" data-date="2008-08-08T20:33:34+00:00" data-subject="">
 
 16
 
 </div>
 
-<div class="post" data-post-id="25688" data-author="kalene" data-date="2008-08-09T05:18:44+00:00">
+<div class="post" data-post-id="25688" data-author="kalene" data-date="2008-08-09T05:18:44+00:00" data-subject="">
 
 17
 
 </div>
 
-<div class="post" data-post-id="25689" data-author="reboog" data-date="2008-08-09T05:19:45+00:00">
+<div class="post" data-post-id="25689" data-author="reboog" data-date="2008-08-09T05:19:45+00:00" data-subject="">
 
 18
 
 </div>
 
-<div class="post" data-post-id="25691" data-author="Yasik2" data-date="2008-08-09T05:42:46+00:00">
+<div class="post" data-post-id="25691" data-author="Yasik2" data-date="2008-08-09T05:42:46+00:00" data-subject="">
 
 ln(-1)
 
 </div>
 
-<div class="post" data-post-id="25699" data-author="Poggle" data-date="2008-08-09T17:39:27+00:00">
+<div class="post" data-post-id="25699" data-author="Poggle" data-date="2008-08-09T17:39:27+00:00" data-subject="">
 
 19
 
 </div>
 
-<div class="post" data-post-id="25700" data-author="Yasik2" data-date="2008-08-09T21:56:35+00:00">
+<div class="post" data-post-id="25700" data-author="Yasik2" data-date="2008-08-09T21:56:35+00:00" data-subject="">
 
 Akasha
 
@@ -258,7 +258,7 @@ stop this
 
 </div>
 
-<div class="post" data-post-id="25701" data-author="Rynquald" data-date="2008-08-09T22:09:00+00:00">
+<div class="post" data-post-id="25701" data-author="Rynquald" data-date="2008-08-09T22:09:00+00:00" data-subject="">
 
 That's pretty funny coming from someone that's already posted in this thread several times.
 
@@ -268,7 +268,7 @@ Also, 20
 
 </div>
 
-<div class="post" data-post-id="25702" data-author="Yasik2" data-date="2008-08-09T23:15:48+00:00">
+<div class="post" data-post-id="25702" data-author="Yasik2" data-date="2008-08-09T23:15:48+00:00" data-subject="">
 
 That's pretty funny coming from someone that's already posted in this thread several times.
 
@@ -282,7 +282,7 @@ According to mathematically unacceptable equation of 1) diving by zero or 2) ext
 
 </div>
 
-<div class="post" data-post-id="25703" data-author="alias" data-date="2008-08-10T00:12:43+00:00">
+<div class="post" data-post-id="25703" data-author="alias" data-date="2008-08-10T00:12:43+00:00" data-subject="">
 
 Idiots always talk the loudest.
 
@@ -290,91 +290,91 @@ Idiots always talk the loudest.
 
 </div>
 
-<div class="post" data-post-id="25704" data-author="Poggle" data-date="2008-08-10T05:18:43+00:00">
+<div class="post" data-post-id="25704" data-author="Poggle" data-date="2008-08-10T05:18:43+00:00" data-subject="">
 
 22
 
 </div>
 
-<div class="post" data-post-id="25706" data-author="reboog" data-date="2008-08-10T17:57:09+00:00">
+<div class="post" data-post-id="25706" data-author="reboog" data-date="2008-08-10T17:57:09+00:00" data-subject="">
 
 23
 
 </div>
 
-<div class="post" data-post-id="25707" data-author="Weasel" data-date="2008-08-10T18:17:06+00:00">
+<div class="post" data-post-id="25707" data-author="Weasel" data-date="2008-08-10T18:17:06+00:00" data-subject="">
 
 [img:2huphi3w]http://brightcove.vo.llnwd.net/d3/unsecured/media/1077948594/1077948594_1076715263_4ff18c266cafdd1222c56e2b5234984fe4ea913b.jpg[/img:2huphi3w]
 
 </div>
 
-<div class="post" data-post-id="25708" data-author="Poggle" data-date="2008-08-11T06:23:13+00:00">
+<div class="post" data-post-id="25708" data-author="Poggle" data-date="2008-08-11T06:23:13+00:00" data-subject="">
 
 25
 
 </div>
 
-<div class="post" data-post-id="25709" data-author="Acedia" data-date="2008-08-11T07:10:49+00:00">
+<div class="post" data-post-id="25709" data-author="Acedia" data-date="2008-08-11T07:10:49+00:00" data-subject="">
 
 26
 
 </div>
 
-<div class="post" data-post-id="25710" data-author="reboog" data-date="2008-08-11T07:36:57+00:00">
+<div class="post" data-post-id="25710" data-author="reboog" data-date="2008-08-11T07:36:57+00:00" data-subject="">
 
 27
 
 </div>
 
-<div class="post" data-post-id="25716" data-author="Poggle" data-date="2008-08-11T20:04:48+00:00">
+<div class="post" data-post-id="25716" data-author="Poggle" data-date="2008-08-11T20:04:48+00:00" data-subject="">
 
 28
 
 </div>
 
-<div class="post" data-post-id="25717" data-author="Weasel" data-date="2008-08-11T20:54:14+00:00">
+<div class="post" data-post-id="25717" data-author="Weasel" data-date="2008-08-11T20:54:14+00:00" data-subject="">
 
 What is your IQ?
 
 </div>
 
-<div class="post" data-post-id="25719" data-author="alias" data-date="2008-08-11T22:46:59+00:00">
+<div class="post" data-post-id="25719" data-author="alias" data-date="2008-08-11T22:46:59+00:00" data-subject="">
 
 slightly higher than        29
 
 </div>
 
-<div class="post" data-post-id="25720" data-author="jezer" data-date="2008-08-11T23:25:26+00:00">
+<div class="post" data-post-id="25720" data-author="jezer" data-date="2008-08-11T23:25:26+00:00" data-subject="">
 
 29 will work... for a tank  :twisted:
 
 </div>
 
-<div class="post" data-post-id="25728" data-author="reboog" data-date="2008-08-13T03:46:46+00:00">
+<div class="post" data-post-id="25728" data-author="reboog" data-date="2008-08-13T03:46:46+00:00" data-subject="">
 
 29
 
 </div>
 
-<div class="post" data-post-id="25732" data-author="Poggle" data-date="2008-08-13T17:12:07+00:00">
+<div class="post" data-post-id="25732" data-author="Poggle" data-date="2008-08-13T17:12:07+00:00" data-subject="">
 
 30
 
 </div>
 
-<div class="post" data-post-id="25747" data-author="java" data-date="2008-08-15T04:03:42+00:00">
+<div class="post" data-post-id="25747" data-author="java" data-date="2008-08-15T04:03:42+00:00" data-subject="">
 
 31 already
 
 </div>
 
-<div class="post" data-post-id="25752" data-author="Yasik2" data-date="2008-08-15T06:39:38+00:00">
+<div class="post" data-post-id="25752" data-author="Yasik2" data-date="2008-08-15T06:39:38+00:00" data-subject="">
 
 sqrt(1024)
 
 </div>
 
-<div class="post" data-post-id="25754" data-author="Tap" data-date="2008-08-16T12:43:30+00:00">
+<div class="post" data-post-id="25754" data-author="Tap" data-date="2008-08-16T12:43:30+00:00" data-subject="">
 
 [img:5vomlruc]http://files.funnypictures.tv/lpictures/69gtghh7yhrgthherty778ygg23.jpg[/img:5vomlruc]
 
@@ -382,85 +382,85 @@ sqrt(1024)
 
 </div>
 
-<div class="post" data-post-id="25757" data-author="reboog" data-date="2008-08-16T18:04:55+00:00">
+<div class="post" data-post-id="25757" data-author="reboog" data-date="2008-08-16T18:04:55+00:00" data-subject="">
 
 33
 
 </div>
 
-<div class="post" data-post-id="25798" data-author="Poggle" data-date="2008-08-18T03:11:31+00:00">
+<div class="post" data-post-id="25798" data-author="Poggle" data-date="2008-08-18T03:11:31+00:00" data-subject="">
 
 34
 
 </div>
 
-<div class="post" data-post-id="25799" data-author="kalene" data-date="2008-08-18T03:16:22+00:00">
+<div class="post" data-post-id="25799" data-author="kalene" data-date="2008-08-18T03:16:22+00:00" data-subject="">
 
 35
 
 </div>
 
-<div class="post" data-post-id="25800" data-author="Tap" data-date="2008-08-18T03:41:23+00:00">
+<div class="post" data-post-id="25800" data-author="Tap" data-date="2008-08-18T03:41:23+00:00" data-subject="">
 
 96
 
 </div>
 
-<div class="post" data-post-id="25801" data-author="reboog" data-date="2008-08-18T04:10:09+00:00">
+<div class="post" data-post-id="25801" data-author="reboog" data-date="2008-08-18T04:10:09+00:00" data-subject="">
 
 36
 
 </div>
 
-<div class="post" data-post-id="25802" data-author="Tap" data-date="2008-08-18T05:02:24+00:00">
+<div class="post" data-post-id="25802" data-author="Tap" data-date="2008-08-18T05:02:24+00:00" data-subject="">
 
 11001100110011010101001110010011001
 
 </div>
 
-<div class="post" data-post-id="25810" data-author="kalene" data-date="2008-08-18T14:10:39+00:00">
+<div class="post" data-post-id="25810" data-author="kalene" data-date="2008-08-18T14:10:39+00:00" data-subject="">
 
 37
 
 </div>
 
-<div class="post" data-post-id="25811" data-author="Weasel" data-date="2008-08-18T15:23:37+00:00">
+<div class="post" data-post-id="25811" data-author="Weasel" data-date="2008-08-18T15:23:37+00:00" data-subject="">
 
 number 9
 
 </div>
 
-<div class="post" data-post-id="25826" data-author="reboog" data-date="2008-08-19T08:54:01+00:00">
+<div class="post" data-post-id="25826" data-author="reboog" data-date="2008-08-19T08:54:01+00:00" data-subject="">
 
 38
 
 </div>
 
-<div class="post" data-post-id="25828" data-author="Poggle" data-date="2008-08-19T19:06:28+00:00">
+<div class="post" data-post-id="25828" data-author="Poggle" data-date="2008-08-19T19:06:28+00:00" data-subject="">
 
 39
 
 </div>
 
-<div class="post" data-post-id="25829" data-author="Poggle" data-date="2008-08-19T19:07:51+00:00">
+<div class="post" data-post-id="25829" data-author="Poggle" data-date="2008-08-19T19:07:51+00:00" data-subject="">
 
 
 
 </div>
 
-<div class="post" data-post-id="25833" data-author="Weasel" data-date="2008-08-19T23:37:45+00:00">
+<div class="post" data-post-id="25833" data-author="Weasel" data-date="2008-08-19T23:37:45+00:00" data-subject="">
 
 40[/color:1hu6pegj]
 
 </div>
 
-<div class="post" data-post-id="25837" data-author="jezer" data-date="2008-08-19T23:54:01+00:00">
+<div class="post" data-post-id="25837" data-author="jezer" data-date="2008-08-19T23:54:01+00:00" data-subject="">
 
 Forty One
 
 </div>
 
-<div class="post" data-post-id="25838" data-author="alias" data-date="2008-08-19T23:54:35+00:00">
+<div class="post" data-post-id="25838" data-author="alias" data-date="2008-08-19T23:54:35+00:00" data-subject="">
 
 101000 for those of us who are binary
 
@@ -470,37 +470,37 @@ or
 
 </div>
 
-<div class="post" data-post-id="25840" data-author="Rynquald" data-date="2008-08-20T03:00:24+00:00">
+<div class="post" data-post-id="25840" data-author="Rynquald" data-date="2008-08-20T03:00:24+00:00" data-subject="">
 
 52 from poor, underrated oct.
 
 </div>
 
-<div class="post" data-post-id="25842" data-author="Jag" data-date="2008-08-20T11:53:44+00:00">
+<div class="post" data-post-id="25842" data-author="Jag" data-date="2008-08-20T11:53:44+00:00" data-subject="">
 
 XLII as the romans would say.
 
 </div>
 
-<div class="post" data-post-id="25843" data-author="Weasel" data-date="2008-08-20T12:13:52+00:00">
+<div class="post" data-post-id="25843" data-author="Weasel" data-date="2008-08-20T12:13:52+00:00" data-subject="">
 
 the answer to life, the universe and everything.  42.
 
 </div>
 
-<div class="post" data-post-id="25849" data-author="jezer" data-date="2008-08-20T23:40:01+00:00">
+<div class="post" data-post-id="25849" data-author="jezer" data-date="2008-08-20T23:40:01+00:00" data-subject="">
 
 43, is in fact one of my favorite numbers... basketball days...
 
 </div>
 
-<div class="post" data-post-id="25850" data-author="Tap" data-date="2008-08-21T04:57:15+00:00">
+<div class="post" data-post-id="25850" data-author="Tap" data-date="2008-08-21T04:57:15+00:00" data-subject="">
 
 [img:1qyoqmph]http://farm4.static.flickr.com/3282/2455248596_c63438cacd.jpg[/img:1qyoqmph]
 
 </div>
 
-<div class="post" data-post-id="25851" data-author="Jag" data-date="2008-08-21T12:46:37+00:00">
+<div class="post" data-post-id="25851" data-author="Jag" data-date="2008-08-21T12:46:37+00:00" data-subject="">
 
 [img:10romyw0]http://i214.photobucket.com/albums/cc229/jagsloth/colt45.jpg[/img:10romyw0]
 
@@ -508,25 +508,25 @@ Colt 45
 
 </div>
 
-<div class="post" data-post-id="25868" data-author="Poggle" data-date="2008-08-22T20:05:42+00:00">
+<div class="post" data-post-id="25868" data-author="Poggle" data-date="2008-08-22T20:05:42+00:00" data-subject="it&#x27;s a pretty uninteresting number">
 
 46
 
 </div>
 
-<div class="post" data-post-id="25869" data-author="Yasik2" data-date="2008-08-22T20:40:05+00:00">
+<div class="post" data-post-id="25869" data-author="Yasik2" data-date="2008-08-22T20:40:05+00:00" data-subject="">
 
 [img:2h52xdxm]http://yasik.kiev.ua/47_Beavers.jpg[/img:2h52xdxm]
 
 </div>
 
-<div class="post" data-post-id="25874" data-author="reboog" data-date="2008-08-23T04:30:45+00:00">
+<div class="post" data-post-id="25874" data-author="reboog" data-date="2008-08-23T04:30:45+00:00" data-subject="">
 
 48
 
 </div>
 
-<div class="post" data-post-id="25894" data-author="alias" data-date="2008-08-23T16:54:59+00:00">
+<div class="post" data-post-id="25894" data-author="alias" data-date="2008-08-23T16:54:59+00:00" data-subject="">
 
 * During the Manhattan Project, plutonium was also often referred, simply, to as "49". Number 4 was for the last digit in 94 (atomic number of plutonium) and 9 for the last digit in Pu-239, the weapon-grade fissile isotope used in nuclear bombs.
 
@@ -534,73 +534,73 @@ Courtesy of Wiki
 
 </div>
 
-<div class="post" data-post-id="25895" data-author="Tap" data-date="2008-08-23T18:45:40+00:00">
+<div class="post" data-post-id="25895" data-author="Tap" data-date="2008-08-23T18:45:40+00:00" data-subject="">
 
 [img:2lbs0qj8]http://farm3.static.flickr.com/2295/2234634813_886a90e4d7.jpg[/img:2lbs0qj8]
 
 </div>
 
-<div class="post" data-post-id="25896" data-author="Yasik2" data-date="2008-08-23T21:11:09+00:00">
+<div class="post" data-post-id="25896" data-author="Yasik2" data-date="2008-08-23T21:11:09+00:00" data-subject="">
 
 Area 51[/size:2droi9le][/color:2droi9le] is a remote tract of land in the southwestern portion of southern Nevada in the western United States. Situated at its center, on the southern shore of Groom Lake, a dry lakebed (salt lake), is a large military airfield, one of the most secretive places in the world. The base's primary purpose is to support development and testing of experimental aircraft and weapons systems.
 
 </div>
 
-<div class="post" data-post-id="25897" data-author="Yasik2" data-date="2008-08-23T21:17:23+00:00">
+<div class="post" data-post-id="25897" data-author="Yasik2" data-date="2008-08-23T21:17:23+00:00" data-subject="">
 
 [img:21t63x9o]http://yasik.kiev.ua/B52.jpg[/img:21t63x9o]
 
 </div>
 
-<div class="post" data-post-id="25898" data-author="Tap" data-date="2008-08-24T00:15:10+00:00">
+<div class="post" data-post-id="25898" data-author="Tap" data-date="2008-08-24T00:15:10+00:00" data-subject="">
 
 [img:16zkxzpd]http://farm1.static.flickr.com/91/237413562_53e93e79da.jpg[/img:16zkxzpd]
 
 </div>
 
-<div class="post" data-post-id="25901" data-author="reboog" data-date="2008-08-24T17:23:11+00:00">
+<div class="post" data-post-id="25901" data-author="reboog" data-date="2008-08-24T17:23:11+00:00" data-subject="">
 
 54
 
 </div>
 
-<div class="post" data-post-id="25909" data-author="jezer" data-date="2008-08-25T01:10:32+00:00">
+<div class="post" data-post-id="25909" data-author="jezer" data-date="2008-08-25T01:10:32+00:00" data-subject="">
 
 [img:3usoyist]http://www.thesunblog.com/sports/archives/seau55.jpg[/img:3usoyist]
 
 </div>
 
-<div class="post" data-post-id="25912" data-author="Tap" data-date="2008-08-25T13:44:22+00:00">
+<div class="post" data-post-id="25912" data-author="Tap" data-date="2008-08-25T13:44:22+00:00" data-subject="">
 
 [img:1q5ged9i]http://farm1.static.flickr.com/11/17152632_96e14c1aff.jpg[/img:1q5ged9i]
 
 </div>
 
-<div class="post" data-post-id="25931" data-author="reboog" data-date="2008-08-27T08:19:07+00:00">
+<div class="post" data-post-id="25931" data-author="reboog" data-date="2008-08-27T08:19:07+00:00" data-subject="">
 
 57
 
 </div>
 
-<div class="post" data-post-id="25936" data-author="Tap" data-date="2008-08-28T01:34:50+00:00">
+<div class="post" data-post-id="25936" data-author="Tap" data-date="2008-08-28T01:34:50+00:00" data-subject="">
 
 [img:hes9h6zv]http://farm3.static.flickr.com/2234/2470629731_d093970e7d.jpg[/img:hes9h6zv]
 
 </div>
 
-<div class="post" data-post-id="25937" data-author="Alberich" data-date="2008-08-28T02:05:51+00:00">
+<div class="post" data-post-id="25937" data-author="Alberich" data-date="2008-08-28T02:05:51+00:00" data-subject="">
 
 [img:vpyugvp6]http://www.coinfacts.com/small_cents/lincoln_cents/wheat_ear_cents/1959d_one_cent_wheat_ears_obv.jpg[/img:vpyugvp6]
 
 </div>
 
-<div class="post" data-post-id="25939" data-author="Yasik2" data-date="2008-08-28T05:22:20+00:00">
+<div class="post" data-post-id="25939" data-author="Yasik2" data-date="2008-08-28T05:22:20+00:00" data-subject="">
 
 [img:p3230azz]http://yasik.kiev.ua/Psychedelic60's.jpg[/img:p3230azz]
 
 </div>
 
-<div class="post" data-post-id="25941" data-author="Weasel" data-date="2008-08-28T12:12:27+00:00">
+<div class="post" data-post-id="25941" data-author="Weasel" data-date="2008-08-28T12:12:27+00:00" data-subject="">
 
 Yasik's link seems to be broken, so...
 
@@ -608,13 +608,13 @@ Yasik's link seems to be broken, so...
 
 </div>
 
-<div class="post" data-post-id="25942" data-author="Yinao" data-date="2008-08-28T18:34:15+00:00">
+<div class="post" data-post-id="25942" data-author="Yinao" data-date="2008-08-28T18:34:15+00:00" data-subject="">
 
 [img:3nhwiiqz]http://images.contentreserve.com/ImageType-200/0111-1/%7BAEF0F408-347A-4F41-8CFE-29ED5B64E977%7DImg200.jpg[/img:3nhwiiqz]
 
 </div>
 
-<div class="post" data-post-id="25943" data-author="Tap" data-date="2008-08-28T19:10:50+00:00">
+<div class="post" data-post-id="25943" data-author="Tap" data-date="2008-08-28T19:10:50+00:00" data-subject="">
 
 [img:17m8fcac]http://www.olavsplates.com/foto/nl_wt-62-78.jpg[/img:17m8fcac]
 
@@ -624,13 +624,13 @@ Feel free to skip to #79
 
 </div>
 
-<div class="post" data-post-id="25944" data-author="Alberich" data-date="2008-08-28T19:17:36+00:00">
+<div class="post" data-post-id="25944" data-author="Alberich" data-date="2008-08-28T19:17:36+00:00" data-subject="">
 
 [img:1ki7fqxq]http://navysite.de/cvn/patches/cv63patch_2003-1.jpg[/img:1ki7fqxq]
 
 </div>
 
-<div class="post" data-post-id="25945" data-author="Weasel" data-date="2008-08-28T19:57:06+00:00">
+<div class="post" data-post-id="25945" data-author="Weasel" data-date="2008-08-28T19:57:06+00:00" data-subject="">
 
 can't wait to see what kind of pic will come up for 69... 
 
@@ -638,13 +638,13 @@ can't wait to see what kind of pic will come up for 69...
 
 </div>
 
-<div class="post" data-post-id="25949" data-author="Alberich" data-date="2008-08-28T21:39:38+00:00">
+<div class="post" data-post-id="25949" data-author="Alberich" data-date="2008-08-28T21:39:38+00:00" data-subject="">
 
 [img:1l4kwxxg]http://img.thesun.co.uk/multimedia/archive/00539/SNF2628FX1-380_539418a.jpg[/img:1l4kwxxg]
 
 </div>
 
-<div class="post" data-post-id="25950" data-author="Weasel" data-date="2008-08-28T21:44:36+00:00">
+<div class="post" data-post-id="25950" data-author="Weasel" data-date="2008-08-28T21:44:36+00:00" data-subject="">
 
 get your kicks
 
@@ -654,19 +654,19 @@ on..
 
 </div>
 
-<div class="post" data-post-id="25952" data-author="Alberich" data-date="2008-08-28T21:50:03+00:00">
+<div class="post" data-post-id="25952" data-author="Alberich" data-date="2008-08-28T21:50:03+00:00" data-subject="">
 
 [img:2xm6a1pm]http://www.sportingcollectibles.com/wPhotos/win26960bro1534model67.jpg[/img:2xm6a1pm]
 
 </div>
 
-<div class="post" data-post-id="25956" data-author="brady" data-date="2008-08-28T23:30:31+00:00">
+<div class="post" data-post-id="25956" data-author="brady" data-date="2008-08-28T23:30:31+00:00" data-subject="">
 
 [img:1wx5gagn]http://z.about.com/d/crime/1/0/a/d/gotti_68.jpg[/img:1wx5gagn]
 
 </div>
 
-<div class="post" data-post-id="25958" data-author="jezer" data-date="2008-08-28T23:32:40+00:00">
+<div class="post" data-post-id="25958" data-author="jezer" data-date="2008-08-28T23:32:40+00:00" data-subject="">
 
 69! Muhahaha, you missed it Yasik!  :twisted:
 
@@ -676,7 +676,7 @@ FAIL!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="25964" data-author="Alberich" data-date="2008-08-29T00:23:32+00:00">
+<div class="post" data-post-id="25964" data-author="Alberich" data-date="2008-08-29T00:23:32+00:00" data-subject="">
 
 leave it to some noob to spoil the fun
 
@@ -686,7 +686,7 @@ oh well, here we go anyways
 
 </div>
 
-<div class="post" data-post-id="25965" data-author="jezer" data-date="2008-08-29T00:32:08+00:00">
+<div class="post" data-post-id="25965" data-author="jezer" data-date="2008-08-29T00:32:08+00:00" data-subject="">
 
 [img:2r3q0hlu]http://fukung.net/images/2118/noob.jpg[/img:2r3q0hlu]
 
@@ -696,7 +696,7 @@ Don't point, it's rude!  :shock:
 
 </div>
 
-<div class="post" data-post-id="25969" data-author="*juggleblood*" data-date="2008-08-29T01:58:52+00:00">
+<div class="post" data-post-id="25969" data-author="*juggleblood*" data-date="2008-08-29T01:58:52+00:00" data-subject="">
 
 [img:2gb3djgy]http://www.kungfucultarchive.com/PostersQ/SixtyNinePoster.jpg[/img:2gb3djgy]
 
@@ -704,7 +704,7 @@ Don't point, it's rude!  :shock:
 
 </div>
 
-<div class="post" data-post-id="25970" data-author="jezer" data-date="2008-08-29T02:04:43+00:00">
+<div class="post" data-post-id="25970" data-author="jezer" data-date="2008-08-29T02:04:43+00:00" data-subject="">
 
 [img:ybm5eg4y]http://www.watchthat70sshow.com/That_%2770s_Show_logo.png[/img:ybm5eg4y]
 
@@ -712,7 +712,7 @@ Regarding 68, check out the bottom right digits on the mug shot.
 
 </div>
 
-<div class="post" data-post-id="25978" data-author="Yasik2" data-date="2008-08-29T05:51:26+00:00">
+<div class="post" data-post-id="25978" data-author="Yasik2" data-date="2008-08-29T05:51:26+00:00" data-subject="">
 
 Stfu! You think if 69 is already posted it will stop ME from posting too?
 
@@ -724,25 +724,25 @@ Here, have queers instead!  :twisted:  :D
 
 </div>
 
-<div class="post" data-post-id="25995" data-author="Tap" data-date="2008-08-29T22:02:46+00:00">
+<div class="post" data-post-id="25995" data-author="Tap" data-date="2008-08-29T22:02:46+00:00" data-subject="">
 
 [img:1kpibyv6]http://farm2.static.flickr.com/1120/534475493_b595a55ea0.jpg[/img:1kpibyv6]
 
 </div>
 
-<div class="post" data-post-id="26037" data-author="Poggle" data-date="2008-08-31T09:39:51+00:00">
+<div class="post" data-post-id="26037" data-author="Poggle" data-date="2008-08-31T09:39:51+00:00" data-subject="">
 
 71
 
 </div>
 
-<div class="post" data-post-id="26046" data-author="kalene" data-date="2008-08-31T19:29:58+00:00">
+<div class="post" data-post-id="26046" data-author="kalene" data-date="2008-08-31T19:29:58+00:00" data-subject="">
 
 72
 
 </div>
 
-<div class="post" data-post-id="26068" data-author="*juggleblood*" data-date="2008-09-02T01:08:53+00:00">
+<div class="post" data-post-id="26068" data-author="*juggleblood*" data-date="2008-09-02T01:08:53+00:00" data-subject="">
 
 1973 Oil Crisis
 
@@ -756,49 +756,49 @@ Here, have queers instead!  :twisted:  :D
 
 </div>
 
-<div class="post" data-post-id="26071" data-author="Tap" data-date="2008-09-02T03:20:50+00:00">
+<div class="post" data-post-id="26071" data-author="Tap" data-date="2008-09-02T03:20:50+00:00" data-subject="">
 
 [img:2dtbs1i1]http://farm3.static.flickr.com/2083/2381156014_ae7fb0dc07.jpg[/img:2dtbs1i1]
 
 </div>
 
-<div class="post" data-post-id="26092" data-author="reboog" data-date="2008-09-02T16:13:53+00:00">
+<div class="post" data-post-id="26092" data-author="reboog" data-date="2008-09-02T16:13:53+00:00" data-subject="">
 
 75
 
 </div>
 
-<div class="post" data-post-id="26095" data-author="Weasel" data-date="2008-09-02T17:49:59+00:00">
+<div class="post" data-post-id="26095" data-author="Weasel" data-date="2008-09-02T17:49:59+00:00" data-subject="">
 
 [img:2zs13s6s]http://latimesblogs.latimes.com/thedailymirror/images/2007/07/19/union76_ball.jpg[/img:2zs13s6s]
 
 </div>
 
-<div class="post" data-post-id="26108" data-author="*juggleblood*" data-date="2008-09-02T23:32:58+00:00">
+<div class="post" data-post-id="26108" data-author="*juggleblood*" data-date="2008-09-02T23:32:58+00:00" data-subject="">
 
 [img:200ycs3g]http://www.gasolinealleyantiques.com/kits/images/Miscellaneous/johnson77a.JPG[/img:200ycs3g]
 
 </div>
 
-<div class="post" data-post-id="26112" data-author="Tap" data-date="2008-09-03T01:08:58+00:00">
+<div class="post" data-post-id="26112" data-author="Tap" data-date="2008-09-03T01:08:58+00:00" data-subject="">
 
 [img:27n0jhme]http://farm1.static.flickr.com/189/490854627_4d3352f971.jpg[/img:27n0jhme]
 
 </div>
 
-<div class="post" data-post-id="26113" data-author="jezer" data-date="2008-09-03T01:34:23+00:00">
+<div class="post" data-post-id="26113" data-author="jezer" data-date="2008-09-03T01:34:23+00:00" data-subject="">
 
 [img:7ubyzl4y]http://bp3.blogger.com/_KuaAihD4oVk/R6Pa5JL2wJI/AAAAAAAABaI/C7pRunH3WQw/s400/79+go+cart.jpg[/img:7ubyzl4y]
 
 </div>
 
-<div class="post" data-post-id="26114" data-author="Weasel" data-date="2008-09-03T02:23:06+00:00">
+<div class="post" data-post-id="26114" data-author="Weasel" data-date="2008-09-03T02:23:06+00:00" data-subject="">
 
 [img:1vu01i9j]http://www.britischebotschaft.de/Images/banner_queen_birthday80.jpg[/img:1vu01i9j]
 
 </div>
 
-<div class="post" data-post-id="26115" data-author="jezer" data-date="2008-09-03T02:33:54+00:00">
+<div class="post" data-post-id="26115" data-author="jezer" data-date="2008-09-03T02:33:54+00:00" data-subject="">
 
 [img:33gp1hxg]http://thelibrary.springfield.missouri.org/toys/photos/81.jpg[/img:33gp1hxg]
 
@@ -806,7 +806,7 @@ Can we hurry this along, I have a picture ready for 86.
 
 </div>
 
-<div class="post" data-post-id="26116" data-author="jezer" data-date="2008-09-03T02:45:42+00:00">
+<div class="post" data-post-id="26116" data-author="jezer" data-date="2008-09-03T02:45:42+00:00" data-subject="">
 
 82
 
@@ -822,7 +822,7 @@ Can we hurry this along, I have a picture ready for 86.
 
 </div>
 
-<div class="post" data-post-id="26135" data-author="*juggleblood*" data-date="2008-09-04T04:52:39+00:00">
+<div class="post" data-post-id="26135" data-author="*juggleblood*" data-date="2008-09-04T04:52:39+00:00" data-subject="">
 
 [img:3n5yzzom]http://cellar.org/2004/seniorpole.jpg[/img:3n5yzzom]
 
@@ -830,7 +830,7 @@ Can we hurry this along, I have a picture ready for 86.
 
 </div>
 
-<div class="post" data-post-id="26136" data-author="*juggleblood*" data-date="2008-09-04T04:57:44+00:00">
+<div class="post" data-post-id="26136" data-author="*juggleblood*" data-date="2008-09-04T04:57:44+00:00" data-subject="">
 
 [img:22awos4h]http://afewgoodwords.files.wordpress.com/2007/03/bill-gates-1983.jpg[/img:22awos4h]
 
@@ -838,13 +838,13 @@ Bill Gates in 1983
 
 </div>
 
-<div class="post" data-post-id="26137" data-author="*juggleblood*" data-date="2008-09-04T05:15:17+00:00">
+<div class="post" data-post-id="26137" data-author="*juggleblood*" data-date="2008-09-04T05:15:17+00:00" data-subject="">
 
 [img:2mstbj51]http://bigrosebang.com/bigbrother1984-2004.jpg[/img:2mstbj51]
 
 </div>
 
-<div class="post" data-post-id="26179" data-author="Tap" data-date="2008-09-06T23:35:48+00:00">
+<div class="post" data-post-id="26179" data-author="Tap" data-date="2008-09-06T23:35:48+00:00" data-subject="">
 
 [img:2yunff56]http://www.wisdomportal.com/Numbers/85-Babylonian.jpg[/img:2yunff56]
 
@@ -852,7 +852,7 @@ Babylonian number for 85
 
 </div>
 
-<div class="post" data-post-id="26180" data-author="jezer" data-date="2008-09-07T02:59:20+00:00">
+<div class="post" data-post-id="26180" data-author="jezer" data-date="2008-09-07T02:59:20+00:00" data-subject="">
 
 [img:2xgynesn]http://craighodgkins.files.wordpress.com/2007/08/max86.jpg[/img:2xgynesn]
 
@@ -860,13 +860,13 @@ Babylonian number for 85
 
 </div>
 
-<div class="post" data-post-id="26185" data-author="*juggleblood*" data-date="2008-09-08T03:40:27+00:00">
+<div class="post" data-post-id="26185" data-author="*juggleblood*" data-date="2008-09-08T03:40:27+00:00" data-subject="">
 
 [img:327klcag]http://www.seds.org/MESSIER/Jpg/m87.jpg[/img:327klcag]
 
 </div>
 
-<div class="post" data-post-id="26186" data-author="Weasel" data-date="2008-09-08T04:41:16+00:00">
+<div class="post" data-post-id="26186" data-author="Weasel" data-date="2008-09-08T04:41:16+00:00" data-subject="">
 
 [img:bi4we5z8]http://jreightyeight.com/images/number88.jpg[/img:bi4we5z8]
 
@@ -874,7 +874,7 @@ This is all your fault Reboog.
 
 </div>
 
-<div class="post" data-post-id="26187" data-author="jezer" data-date="2008-09-08T05:05:53+00:00">
+<div class="post" data-post-id="26187" data-author="jezer" data-date="2008-09-08T05:05:53+00:00" data-subject="">
 
 [img:pwfk835u]http://www.princetonhistory.org/89%20rose.JPG[/img:pwfk835u]
 
@@ -882,13 +882,13 @@ Apparently this is 89 Rosedale Rd... But it's now known as App's new GP. Excepti
 
 </div>
 
-<div class="post" data-post-id="26188" data-author="Poggle" data-date="2008-09-08T05:12:03+00:00">
+<div class="post" data-post-id="26188" data-author="Poggle" data-date="2008-09-08T05:12:03+00:00" data-subject="">
 
 90
 
 </div>
 
-<div class="post" data-post-id="26221" data-author="Jag" data-date="2008-09-10T12:42:16+00:00">
+<div class="post" data-post-id="26221" data-author="Jag" data-date="2008-09-10T12:42:16+00:00" data-subject="">
 
 STS-91 Discovery 	  	91th Shuttle Mission
 
@@ -938,31 +938,31 @@ Cargo Bay Payloads: Mir docking adapter, SPACEHAB (SM), AMS-01
 
 </div>
 
-<div class="post" data-post-id="26222" data-author="madmax" data-date="2008-09-10T19:21:36+00:00">
+<div class="post" data-post-id="26222" data-author="madmax" data-date="2008-09-10T19:21:36+00:00" data-subject="">
 
 [img:3epmn44u]http://www.ticalc.org/images/calcs/92-big.gif[/img:3epmn44u]
 
 </div>
 
-<div class="post" data-post-id="26225" data-author="Tap" data-date="2008-09-11T02:04:33+00:00">
+<div class="post" data-post-id="26225" data-author="Tap" data-date="2008-09-11T02:04:33+00:00" data-subject="">
 
 [img:42nw3sj1]http://www.fdnytrucks.com/images/manhattan/logos/e93.jpg[/img:42nw3sj1]
 
 </div>
 
-<div class="post" data-post-id="26247" data-author="*juggleblood*" data-date="2008-09-11T11:45:04+00:00">
+<div class="post" data-post-id="26247" data-author="*juggleblood*" data-date="2008-09-11T11:45:04+00:00" data-subject="">
 
 [img:1y8oq8xi]http://www.thunderbaycountrymarket.com/images/Rock%2094.jpg[/img:1y8oq8xi]
 
 </div>
 
-<div class="post" data-post-id="26255" data-author="Medios" data-date="2008-09-11T22:13:28+00:00">
+<div class="post" data-post-id="26255" data-author="Medios" data-date="2008-09-11T22:13:28+00:00" data-subject="">
 
 [img:2s2442e1]http://www.intelliadmin.com/images/Windows%2095%20Screen%20Shot.jpg[/img:2s2442e1]
 
 </div>
 
-<div class="post" data-post-id="26256" data-author="Autolycos" data-date="2008-09-11T22:49:52+00:00">
+<div class="post" data-post-id="26256" data-author="Autolycos" data-date="2008-09-11T22:49:52+00:00" data-subject="">
 
 [img:341h93v3]http://www.forevercare.org/images/Caskets/P96-899-ID%20Midnight%20Silver_small.jpg[/img:341h93v3]
 
@@ -982,25 +982,25 @@ optional Custom Cap Panel $75 to $175
 
 </div>
 
-<div class="post" data-post-id="26272" data-author="Tap" data-date="2008-09-12T10:43:00+00:00">
+<div class="post" data-post-id="26272" data-author="Tap" data-date="2008-09-12T10:43:00+00:00" data-subject="">
 
 [img:2pjzj7uh]http://www.visitdanville.com/upload/images/Old-97.jpg[/img:2pjzj7uh]
 
 </div>
 
-<div class="post" data-post-id="26273" data-author="Tap" data-date="2008-09-12T10:44:11+00:00">
+<div class="post" data-post-id="26273" data-author="Tap" data-date="2008-09-12T10:44:11+00:00" data-subject="">
 
 [img:1n8y1mi8]http://www.slashgear.com/gallery/data_files_old/1/2/MICROSOFT_WINDOWS_98-FRONT.jpg[/img:1n8y1mi8]
 
 </div>
 
-<div class="post" data-post-id="26275" data-author="Widow" data-date="2008-09-12T12:50:19+00:00">
+<div class="post" data-post-id="26275" data-author="Widow" data-date="2008-09-12T12:50:19+00:00" data-subject="">
 
 [img:34i0sufy]http://www.scvresources.com/highways/us_99/99_old_shield_big.gif[/img:34i0sufy]
 
 </div>
 
-<div class="post" data-post-id="26276" data-author="jezer" data-date="2008-09-12T13:55:19+00:00">
+<div class="post" data-post-id="26276" data-author="jezer" data-date="2008-09-12T13:55:19+00:00" data-subject="">
 
 [img:2pzanl0i]http://cdn.harpercollins.com/harperimages/isbn/large/1/9780061198601.jpg[/img:2pzanl0i]
 
@@ -1008,13 +1008,13 @@ Isn't it strange... I post a controversial picture and you unite together... yet
 
 </div>
 
-<div class="post" data-post-id="26279" data-author="Weasel" data-date="2008-09-12T14:06:23+00:00">
+<div class="post" data-post-id="26279" data-author="Weasel" data-date="2008-09-12T14:06:23+00:00" data-subject="">
 
 [img:1f8a8t2h]http://www.dapple.plus.com/002079.jpg[/img:1f8a8t2h]
 
 </div>
 
-<div class="post" data-post-id="26282" data-author="Widow" data-date="2008-09-12T16:51:11+00:00">
+<div class="post" data-post-id="26282" data-author="Widow" data-date="2008-09-12T16:51:11+00:00" data-subject="">
 
 [img:39iqqu17]http://www.coverbrowser.com/image/jimmy-olsen/102-1.jpg[/img:39iqqu17]
 
@@ -1022,19 +1022,19 @@ it doesn't come through very clearly, but check the top left hand corner.
 
 </div>
 
-<div class="post" data-post-id="26284" data-author="Tap" data-date="2008-09-12T17:27:12+00:00">
+<div class="post" data-post-id="26284" data-author="Tap" data-date="2008-09-12T17:27:12+00:00" data-subject="">
 
 DC?
 
 </div>
 
-<div class="post" data-post-id="26289" data-author="Rynquald" data-date="2008-09-12T22:35:28+00:00">
+<div class="post" data-post-id="26289" data-author="Rynquald" data-date="2008-09-12T22:35:28+00:00" data-subject="">
 
 I think he meant issue 102.
 
 </div>
 
-<div class="post" data-post-id="26290" data-author="Autolycos" data-date="2008-09-12T23:28:09+00:00">
+<div class="post" data-post-id="26290" data-author="Autolycos" data-date="2008-09-12T23:28:09+00:00" data-subject="">
 
 AK-103 Assult Rifle
 
@@ -1042,7 +1042,7 @@ AK-103 Assult Rifle
 
 </div>
 
-<div class="post" data-post-id="26293" data-author="Rynquald" data-date="2008-09-13T00:37:25+00:00">
+<div class="post" data-post-id="26293" data-author="Rynquald" data-date="2008-09-13T00:37:25+00:00" data-subject="">
 
 Lockheed F-104 Starfighter
 
@@ -1050,7 +1050,7 @@ Lockheed F-104 Starfighter
 
 </div>
 
-<div class="post" data-post-id="26304" data-author="Tap" data-date="2008-09-13T16:24:15+00:00">
+<div class="post" data-post-id="26304" data-author="Tap" data-date="2008-09-13T16:24:15+00:00" data-subject="">
 
 [img:1j47kupi]http://www.supermanhomepage.com/images/comic-covers/Post-Crisis-Covers/Superman-2000/mos105.JPG[/img:1j47kupi]
 
@@ -1080,13 +1080,13 @@ The JLA sees this, and rejects their reality as Superman's will manifests. They 
 
 </div>
 
-<div class="post" data-post-id="26305" data-author="Yasik2" data-date="2008-09-13T20:29:01+00:00">
+<div class="post" data-post-id="26305" data-author="Yasik2" data-date="2008-09-13T20:29:01+00:00" data-subject="">
 
 [img:2v5btzca]http://yasik.kiev.ua/Seaborgium_106.gif[/img:2v5btzca]
 
 </div>
 
-<div class="post" data-post-id="26306" data-author="Tap" data-date="2008-09-13T21:01:42+00:00">
+<div class="post" data-post-id="26306" data-author="Tap" data-date="2008-09-13T21:01:42+00:00" data-subject="">
 
 [img:2galv1nk]http://www.omv.org.uk/photos/Lourdes%202004/The%20Party/photos/107-0752_IMG.JPG[/img:2galv1nk]
 
@@ -1094,7 +1094,7 @@ The JLA sees this, and rejects their reality as Superman's will manifests. They 
 
 </div>
 
-<div class="post" data-post-id="26308" data-author="Medios" data-date="2008-09-14T14:12:02+00:00">
+<div class="post" data-post-id="26308" data-author="Medios" data-date="2008-09-14T14:12:02+00:00" data-subject="">
 
 [img:3jizftri]http://www.tvsnob.com/pictures/60566-sharp108.jpg[/img:3jizftri]
 
@@ -1102,7 +1102,7 @@ The JLA sees this, and rejects their reality as Superman's will manifests. They 
 
 </div>
 
-<div class="post" data-post-id="26311" data-author="Yinao" data-date="2008-09-14T15:53:55+00:00">
+<div class="post" data-post-id="26311" data-author="Yinao" data-date="2008-09-14T15:53:55+00:00" data-subject="">
 
 [img:3qiz5x8y]http://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Bell_XF-109.jpg/300px-Bell_XF-109.jpg[/img:3qiz5x8y]
 
@@ -1110,7 +1110,7 @@ XF-109
 
 </div>
 
-<div class="post" data-post-id="26312" data-author="Autolycos" data-date="2008-09-14T16:23:53+00:00">
+<div class="post" data-post-id="26312" data-author="Autolycos" data-date="2008-09-14T16:23:53+00:00" data-subject="">
 
 Peavey Max 110, combo bass amp.
 
@@ -1118,7 +1118,7 @@ Peavey Max 110, combo bass amp.
 
 </div>
 
-<div class="post" data-post-id="26329" data-author="Jag" data-date="2008-09-15T19:10:41+00:00">
+<div class="post" data-post-id="26329" data-author="Jag" data-date="2008-09-15T19:10:41+00:00" data-subject="">
 
 [img:gzfwcw55]http://i214.photobucket.com/albums/cc229/jagsloth/patch.gif[/img:gzfwcw55]
 
@@ -1126,7 +1126,7 @@ Boy Scout Troop
 
 </div>
 
-<div class="post" data-post-id="26331" data-author="Yinao" data-date="2008-09-15T22:42:57+00:00">
+<div class="post" data-post-id="26331" data-author="Yinao" data-date="2008-09-15T22:42:57+00:00" data-subject="">
 
 [img:7sfr55s6]http://www.copystars.com/images_products/gallien_krueger_mb150_112_s17448.jpg[/img:7sfr55s6]
 
@@ -1134,7 +1134,7 @@ Gallien Krueger MB150 112
 
 </div>
 
-<div class="post" data-post-id="26332" data-author="jezer" data-date="2008-09-15T23:37:12+00:00">
+<div class="post" data-post-id="26332" data-author="jezer" data-date="2008-09-15T23:37:12+00:00" data-subject="Post a random amplifier">
 
 [img:1ya9azvb]http://www.tjmusicaz.com/images/amplifiers/D-Amp-113.JPG[/img:1ya9azvb]
 
@@ -1142,7 +1142,7 @@ D-Amp 113
 
 </div>
 
-<div class="post" data-post-id="26338" data-author="firebrand" data-date="2008-09-16T18:17:27+00:00">
+<div class="post" data-post-id="26338" data-author="firebrand" data-date="2008-09-16T18:17:27+00:00" data-subject="">
 
 [http://bttf.wikia.com/wiki/Image:Amplifier.jpg](http://bttf.wikia.com/wiki/Image:Amplifier.jpg)
 
@@ -1150,7 +1150,7 @@ D-Amp 113
 
 </div>
 
-<div class="post" data-post-id="26357" data-author="Autolycos" data-date="2008-09-17T00:14:02+00:00">
+<div class="post" data-post-id="26357" data-author="Autolycos" data-date="2008-09-17T00:14:02+00:00" data-subject="">
 
 lets please return you to your regularly scheduled nonsense!
 
@@ -1158,13 +1158,13 @@ lets please return you to your regularly scheduled nonsense!
 
 </div>
 
-<div class="post" data-post-id="26358" data-author="Medios" data-date="2008-09-17T00:58:50+00:00">
+<div class="post" data-post-id="26358" data-author="Medios" data-date="2008-09-17T00:58:50+00:00" data-subject="">
 
 [img:2m7293vz]http://www.fas.org/man/dod-101/sys/land/m55_115.gif[/img:2m7293vz]
 
 </div>
 
-<div class="post" data-post-id="26359" data-author="Yasik2" data-date="2008-09-17T01:11:00+00:00">
+<div class="post" data-post-id="26359" data-author="Yasik2" data-date="2008-09-17T01:11:00+00:00" data-subject="">
 
 Let me not to the marriage of true minds
 
@@ -1198,7 +1198,7 @@ Sonnet 116, William Shakespeare
 
 </div>
 
-<div class="post" data-post-id="26360" data-author="Weasel" data-date="2008-09-17T03:17:56+00:00">
+<div class="post" data-post-id="26360" data-author="Weasel" data-date="2008-09-17T03:17:56+00:00" data-subject="">
 
 [img:16er37m7]http://www.thinkgeek.com/images/products/front/holy_hand_grenade.jpg[/img:16er37m7]
 
@@ -1208,7 +1208,7 @@ Then did he raise on high the Holy Hand Grenade of Antioch, saying, â€œBless
 
 </div>
 
-<div class="post" data-post-id="26365" data-author="Autolycos" data-date="2008-09-17T12:38:19+00:00">
+<div class="post" data-post-id="26365" data-author="Autolycos" data-date="2008-09-17T12:38:19+00:00" data-subject="">
 
 i think weasel has just made his largest achievement in life. 
 
@@ -1216,19 +1216,19 @@ Monty Python FTW!
 
 </div>
 
-<div class="post" data-post-id="26372" data-author="Weasel" data-date="2008-09-17T20:16:30+00:00">
+<div class="post" data-post-id="26372" data-author="Weasel" data-date="2008-09-17T20:16:30+00:00" data-subject="">
 
 Ni.
 
 </div>
 
-<div class="post" data-post-id="26393" data-author="reboog" data-date="2008-09-19T01:21:42+00:00">
+<div class="post" data-post-id="26393" data-author="reboog" data-date="2008-09-19T01:21:42+00:00" data-subject="">
 
 118
 
 </div>
 
-<div class="post" data-post-id="26396" data-author="Yasik2" data-date="2008-09-19T05:47:22+00:00">
+<div class="post" data-post-id="26396" data-author="Yasik2" data-date="2008-09-19T05:47:22+00:00" data-subject="">
 
 118[/quote:35um91rd]
 
@@ -1240,7 +1240,7 @@ The Penguin anti-ship missile (U.S. designation AGM-119), made by Kongsberg Defe
 
 </div>
 
-<div class="post" data-post-id="26398" data-author="Acedia" data-date="2008-09-19T07:00:48+00:00">
+<div class="post" data-post-id="26398" data-author="Acedia" data-date="2008-09-19T07:00:48+00:00" data-subject="">
 
 118[/quote:2s98sdc9]
 
@@ -1254,7 +1254,7 @@ The Penguin anti-ship missile (U.S. designation AGM-119), made by Kongsberg Defe
 
 </div>
 
-<div class="post" data-post-id="26400" data-author="Autolycos" data-date="2008-09-19T13:46:14+00:00">
+<div class="post" data-post-id="26400" data-author="Autolycos" data-date="2008-09-19T13:46:14+00:00" data-subject="">
 
 Leningrad Museum.
 
@@ -1274,7 +1274,7 @@ Power: AC 220V
 
 </div>
 
-<div class="post" data-post-id="26406" data-author="Yinao" data-date="2008-09-20T05:00:07+00:00">
+<div class="post" data-post-id="26406" data-author="Yinao" data-date="2008-09-20T05:00:07+00:00" data-subject="">
 
 [img:2n8yywdn]http://www.fprado.com/armorsite/Leo2_Pics/Stridsvagn122-02.jpg[/img:2n8yywdn]
 
@@ -1282,25 +1282,25 @@ The Stridsvagn 122.
 
 </div>
 
-<div class="post" data-post-id="26407" data-author="jezer" data-date="2008-09-20T05:35:01+00:00">
+<div class="post" data-post-id="26407" data-author="jezer" data-date="2008-09-20T05:35:01+00:00" data-subject="">
 
 [img:3ng5nwff]http://www.prolearnuniversity.com/Images/123blocks.jpg[/img:3ng5nwff]
 
 </div>
 
-<div class="post" data-post-id="26408" data-author="Weasel" data-date="2008-09-20T05:54:33+00:00">
+<div class="post" data-post-id="26408" data-author="Weasel" data-date="2008-09-20T05:54:33+00:00" data-subject="">
 
 1[/color:s4awghlx]2[/color:s4awghlx]4[/color:s4awghlx]
 
 </div>
 
-<div class="post" data-post-id="26409" data-author="jezer" data-date="2008-09-20T07:30:38+00:00">
+<div class="post" data-post-id="26409" data-author="jezer" data-date="2008-09-20T07:30:38+00:00" data-subject="">
 
 troublemaker
 
 </div>
 
-<div class="post" data-post-id="26410" data-author="Medios" data-date="2008-09-20T14:51:30+00:00">
+<div class="post" data-post-id="26410" data-author="Medios" data-date="2008-09-20T14:51:30+00:00" data-subject="">
 
 YZF 125
 
@@ -1310,25 +1310,25 @@ YZF 125
 
 </div>
 
-<div class="post" data-post-id="26411" data-author="Weasel" data-date="2008-09-20T14:54:19+00:00">
+<div class="post" data-post-id="26411" data-author="Weasel" data-date="2008-09-20T14:54:19+00:00" data-subject="">
 
 [img:1vh611l1]http://www.metaefficient.com/wp-content/uploads/enercon_e126.jpg[/img:1vh611l1]
 
 </div>
 
-<div class="post" data-post-id="26415" data-author="brady" data-date="2008-09-21T02:36:47+00:00">
+<div class="post" data-post-id="26415" data-author="brady" data-date="2008-09-21T02:36:47+00:00" data-subject="">
 
 [img:7lgsoy0z]http://www.saikyopowaa.com/comic/app127.jpg[/img:7lgsoy0z]
 
 </div>
 
-<div class="post" data-post-id="26416" data-author="jezer" data-date="2008-09-21T06:58:28+00:00">
+<div class="post" data-post-id="26416" data-author="jezer" data-date="2008-09-21T06:58:28+00:00" data-subject="">
 
 [img:6n6yv6tc]http://www.commodore.ca/products/128/c128_retail.jpg[/img:6n6yv6tc]
 
 </div>
 
-<div class="post" data-post-id="26417" data-author="madmax" data-date="2008-09-21T16:10:04+00:00">
+<div class="post" data-post-id="26417" data-author="madmax" data-date="2008-09-21T16:10:04+00:00" data-subject="">
 
 [img:9djr3vf0]http://upload.wikimedia.org/wikipedia/commons/3/35/Hindenburg_at_lakehurst.jpg[/img:9djr3vf0]
 
@@ -1336,7 +1336,7 @@ Hindenburg - LZ129
 
 </div>
 
-<div class="post" data-post-id="26418" data-author="Autolycos" data-date="2008-09-21T16:57:59+00:00">
+<div class="post" data-post-id="26418" data-author="Autolycos" data-date="2008-09-21T16:57:59+00:00" data-subject="">
 
 [b:288u58uf]C-130  Hercules[/b:288u58uf]
 
@@ -1344,7 +1344,7 @@ Hindenburg - LZ129
 
 </div>
 
-<div class="post" data-post-id="26419" data-author="Weasel" data-date="2008-09-21T17:05:12+00:00">
+<div class="post" data-post-id="26419" data-author="Weasel" data-date="2008-09-21T17:05:12+00:00" data-subject="">
 
 . . . . . . . . . . . . . . . . . . . [/color:36ay1j49]  [img:36ay1j49]http://www.majhost.com/gallery/DanElHombre/smilies/v2/dontknow.gif[/img:36ay1j49]
 
@@ -1354,25 +1354,25 @@ Hindenburg - LZ129
 
 </div>
 
-<div class="post" data-post-id="26422" data-author="Tap" data-date="2008-09-21T21:32:46+00:00">
+<div class="post" data-post-id="26422" data-author="Tap" data-date="2008-09-21T21:32:46+00:00" data-subject="">
 
 [img:2k25or4p]http://www.celticprogrammesonline.com/PROGRAMME%20COVERS/featured/fanzines/NotTheView/ntv132.jpg[/img:2k25or4p]
 
 </div>
 
-<div class="post" data-post-id="26426" data-author="jezer" data-date="2008-09-22T00:59:36+00:00">
+<div class="post" data-post-id="26426" data-author="jezer" data-date="2008-09-22T00:59:36+00:00" data-subject="">
 
 [img:3csjw9tp]http://www.uninova.pt/cimed2005/IEE%20Dark%20Grey.jpg[/img:3csjw9tp]
 
 </div>
 
-<div class="post" data-post-id="26427" data-author="Weasel" data-date="2008-09-22T01:58:57+00:00">
+<div class="post" data-post-id="26427" data-author="Weasel" data-date="2008-09-22T01:58:57+00:00" data-subject="">
 
 that's either 331 or IEE you tard LOL
 
 </div>
 
-<div class="post" data-post-id="26428" data-author="jezer" data-date="2008-09-22T02:43:37+00:00">
+<div class="post" data-post-id="26428" data-author="jezer" data-date="2008-09-22T02:43:37+00:00" data-subject="">
 
 Yes, it's IEE (133 in upside down calculator language)... I'm pushing the boundaries of what is acceptable in this thread! 
 
@@ -1382,7 +1382,7 @@ You all have a HUGE dilemma now... should we move on to the next number... or re
 
 </div>
 
-<div class="post" data-post-id="26429" data-author="Weasel" data-date="2008-09-22T03:45:33+00:00">
+<div class="post" data-post-id="26429" data-author="Weasel" data-date="2008-09-22T03:45:33+00:00" data-subject="">
 
 compromise.. 
 
@@ -1390,7 +1390,7 @@ compromise..
 
 </div>
 
-<div class="post" data-post-id="26430" data-author="Yasik2" data-date="2008-09-22T12:19:49+00:00">
+<div class="post" data-post-id="26430" data-author="Yasik2" data-date="2008-09-22T12:19:49+00:00" data-subject="">
 
 PC133 memory module
 
@@ -1400,13 +1400,13 @@ what dilemma you talking about?
 
 </div>
 
-<div class="post" data-post-id="26431" data-author="Yasik2" data-date="2008-09-22T12:23:23+00:00">
+<div class="post" data-post-id="26431" data-author="Yasik2" data-date="2008-09-22T12:23:23+00:00" data-subject="">
 
 [img:3bl8nyjx]http://yasik.kiev.ua/134.jpg[/img:3bl8nyjx]
 
 </div>
 
-<div class="post" data-post-id="26432" data-author="madmax" data-date="2008-09-22T12:49:31+00:00">
+<div class="post" data-post-id="26432" data-author="madmax" data-date="2008-09-22T12:49:31+00:00" data-subject="">
 
 [img:ta5dar3y]http://www.boeing.com/defense-space/military/kc135-strat/images/kc-135-RC_KC135_375X300.jpg[/img:ta5dar3y]
 
@@ -1414,7 +1414,7 @@ what dilemma you talking about?
 
 </div>
 
-<div class="post" data-post-id="26582" data-author="Jag" data-date="2008-10-07T17:38:29+00:00">
+<div class="post" data-post-id="26582" data-author="Jag" data-date="2008-10-07T17:38:29+00:00" data-subject="">
 
 [img:2smuamvh]http://i214.photobucket.com/albums/cc229/jagsloth/vaq136.jpg[/img:2smuamvh]
 
@@ -1422,79 +1422,79 @@ Naval Electronic Attack Squadron Patch
 
 </div>
 
-<div class="post" data-post-id="26583" data-author="Weasel" data-date="2008-10-07T18:32:03+00:00">
+<div class="post" data-post-id="26583" data-author="Weasel" data-date="2008-10-07T18:32:03+00:00" data-subject="">
 
 1[/color:2t2wjcm5]3[/color:2t2wjcm5]7[/color:2t2wjcm5]  <-- the number 137
 
 </div>
 
-<div class="post" data-post-id="26756" data-author="Yasik2" data-date="2008-10-18T02:48:56+00:00">
+<div class="post" data-post-id="26756" data-author="Yasik2" data-date="2008-10-18T02:48:56+00:00" data-subject="">
 
 [img:2blkcv70]http://yasik.kiev.ua/4chan/Dead_Thread.jpg[/img:2blkcv70]
 
 </div>
 
-<div class="post" data-post-id="28057" data-author="reboog" data-date="2009-02-11T10:58:13+00:00">
+<div class="post" data-post-id="28057" data-author="reboog" data-date="2009-02-11T10:58:13+00:00" data-subject="">
 
 138
 
 </div>
 
-<div class="post" data-post-id="28058" data-author="Acedia" data-date="2009-02-11T11:09:20+00:00">
+<div class="post" data-post-id="28058" data-author="Acedia" data-date="2009-02-11T11:09:20+00:00" data-subject="">
 
 139 sure is prime
 
 </div>
 
-<div class="post" data-post-id="28059" data-author="reboog" data-date="2009-02-11T11:10:25+00:00">
+<div class="post" data-post-id="28059" data-author="reboog" data-date="2009-02-11T11:10:25+00:00" data-subject="">
 
 140
 
 </div>
 
-<div class="post" data-post-id="28172" data-author="Poggle" data-date="2009-02-18T06:11:52+00:00">
+<div class="post" data-post-id="28172" data-author="Poggle" data-date="2009-02-18T06:11:52+00:00" data-subject="">
 
 141
 
 </div>
 
-<div class="post" data-post-id="28262" data-author="Clink" data-date="2009-02-23T00:52:46+00:00">
+<div class="post" data-post-id="28262" data-author="Clink" data-date="2009-02-23T00:52:46+00:00" data-subject="">
 
 vdB 142[img:7w26d0re]http://www.narrowbandimaging.com/images/vdb142_s2ha03_st10_preview.jpg[/img:7w26d0re]
 
 </div>
 
-<div class="post" data-post-id="28271" data-author="Medios" data-date="2009-02-24T01:10:42+00:00">
+<div class="post" data-post-id="28271" data-author="Medios" data-date="2009-02-24T01:10:42+00:00" data-subject="">
 
 [img:3md4v2n5]http://www.untamedworlds.com/store/images/143_NC409.jpg[/img:3md4v2n5]
 
 </div>
 
-<div class="post" data-post-id="28272" data-author="Weasel" data-date="2009-02-24T02:47:11+00:00">
+<div class="post" data-post-id="28272" data-author="Weasel" data-date="2009-02-24T02:47:11+00:00" data-subject="">
 
 [img:1oumopem]http://ejmas.com/jnc/cptsmith/Fig144.jpg[/img:1oumopem]
 
 </div>
 
-<div class="post" data-post-id="28273" data-author="Weasel" data-date="2009-02-24T02:50:47+00:00">
+<div class="post" data-post-id="28273" data-author="Weasel" data-date="2009-02-24T02:50:47+00:00" data-subject="">
 
 [img:39o56i30]http://world.guns.ru/handguns/taurus_pt145.jpg[/img:39o56i30]
 
 </div>
 
-<div class="post" data-post-id="28300" data-author="Yasik2" data-date="2009-02-26T18:33:08+00:00">
+<div class="post" data-post-id="28300" data-author="Yasik2" data-date="2009-02-26T18:33:08+00:00" data-subject="">
 
 [img:kky3q1cl]http://yasik.kiev.ua/146.jpg[/img:kky3q1cl]
 
 </div>
 
-<div class="post" data-post-id="28302" data-author="Yasik2" data-date="2009-02-26T19:48:46+00:00">
+<div class="post" data-post-id="28302" data-author="Yasik2" data-date="2009-02-26T19:48:46+00:00" data-subject="">
 
 [img:1etcwch7]http://yasik.kiev.ua/147.jpg[/img:1etcwch7]
 
 </div>
 
-<div class="post" data-post-id="28324" data-author="reboog" data-date="2009-02-27T11:06:14+00:00">
+<div class="post" data-post-id="28324" data-author="reboog" data-date="2009-02-27T11:06:14+00:00" data-subject="">
 
 148
 

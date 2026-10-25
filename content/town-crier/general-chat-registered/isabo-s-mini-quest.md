@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="30880" data-author="jezer" data-date="2010-02-12T03:28:44+00:00">
+<div class="post" data-post-id="30880" data-author="jezer" data-date="2010-02-12T03:28:44+00:00" data-subject="Isabo&#x27;s Mini Quest">
 
 Reality cuts off the head of Arges!!!!
 
@@ -68,13 +68,13 @@ Thanks Isabo!
 
 </div>
 
-<div class="post" data-post-id="30884" data-author="Toxis" data-date="2010-02-12T11:50:06+00:00">
+<div class="post" data-post-id="30884" data-author="Toxis" data-date="2010-02-12T11:50:06+00:00" data-subject="">
 
 I'm on for how many hours in the game and I miss this? I hope more will be run various times of the day pls, thank you.  Gratz to those who got the drachma.
 
 </div>
 
-<div class="post" data-post-id="30886" data-author="jezer" data-date="2010-02-12T20:46:37+00:00">
+<div class="post" data-post-id="30886" data-author="jezer" data-date="2010-02-12T20:46:37+00:00" data-subject="">
 
 Unplanned quests are the best kind. It was dynamic to the player base at the time, as we were quite small. It was thought we couldn't kill Zeus, and without specs - the odds were against us. 
 
@@ -92,7 +92,7 @@ Surely our maturity is greater than this now we are older? Would you rather get 
 
 </div>
 
-<div class="post" data-post-id="30888" data-author="resouh" data-date="2010-02-12T21:55:07+00:00">
+<div class="post" data-post-id="30888" data-author="resouh" data-date="2010-02-12T21:55:07+00:00" data-subject="">
 
 *Resouh quickly smashes every soap box in sight with a 6d5 +5 +5 sledgehammer*
 

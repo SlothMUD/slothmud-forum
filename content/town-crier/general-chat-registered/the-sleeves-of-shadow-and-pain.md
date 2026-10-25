@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="39601" data-author="Gorka" data-date="2020-11-08T09:56:43+00:00">
+<div class="post" data-post-id="39601" data-author="Gorka" data-date="2020-11-08T09:56:43+00:00" data-subject="The sleeves of shadow and pain">
 
 The sleeves of shadow and pain realizes its own nakedness and screams!
 
@@ -110,7 +110,7 @@ You attach tendrils of darkness to the sleeves of shadow and pain.
 
 </div>
 
-<div class="post" data-post-id="39602" data-author="Gorka" data-date="2020-11-08T10:00:39+00:00">
+<div class="post" data-post-id="39602" data-author="Gorka" data-date="2020-11-08T10:00:39+00:00" data-subject="Re: The sleeves of shadow and pain">
 
 The dark cleric tells you 'Ahh yes, the sleeves of shadow and pain...Here is a little bit of information
 
@@ -280,13 +280,13 @@ Tendrils of darkness is preventing you from using the item...
 
 </div>
 
-<div class="post" data-post-id="39603" data-author="Driven" data-date="2020-11-08T12:39:07+00:00">
+<div class="post" data-post-id="39603" data-author="Driven" data-date="2020-11-08T12:39:07+00:00" data-subject="Re: The sleeves of shadow and pain">
 
 Something happened and the clasps didn't get approved.  We will fix as soon as a creator gets on.
 
 </div>
 
-<div class="post" data-post-id="39604" data-author="*Neptune*" data-date="2020-11-08T18:13:47+00:00">
+<div class="post" data-post-id="39604" data-author="*Neptune*" data-date="2020-11-08T18:13:47+00:00" data-subject="Re: The sleeves of shadow and pain">
 
 This has been remedied. It should work as designed now.
 
@@ -294,13 +294,13 @@ This has been remedied. It should work as designed now.
 
 </div>
 
-<div class="post" data-post-id="39608" data-author="Insomnia" data-date="2020-11-11T18:15:24+00:00">
+<div class="post" data-post-id="39608" data-author="Insomnia" data-date="2020-11-11T18:15:24+00:00" data-subject="Re: The sleeves of shadow and pain">
 
 Not personal?
 
 </div>
 
-<div class="post" data-post-id="39609" data-author="Gorka" data-date="2020-11-12T06:26:23+00:00">
+<div class="post" data-post-id="39609" data-author="Gorka" data-date="2020-11-12T06:26:23+00:00" data-subject="Re: The sleeves of shadow and pain">
 
 > **Insomnia wrote:**
 > Not personal?
@@ -309,7 +309,7 @@ No they are not personal. It appears to be the intention that they are not, as t
 
 </div>
 
-<div class="post" data-post-id="39616" data-author="*Idjit*" data-date="2020-11-17T23:43:59+00:00">
+<div class="post" data-post-id="39616" data-author="*Idjit*" data-date="2020-11-17T23:43:59+00:00" data-subject="Re: The sleeves of shadow and pain">
 
 What we see, but do not know, from Guinex's capture is that the message "you attach tendrils of darkness...." is an attach that auto-applies, but you have to LOOK at the item, just this very first time, to cause the clasp to auto attach.
 
@@ -325,7 +325,7 @@ Something to think about.
 
 </div>
 
-<div class="post" data-post-id="39617" data-author="Nyx" data-date="2020-11-18T20:57:21+00:00">
+<div class="post" data-post-id="39617" data-author="Nyx" data-date="2020-11-18T20:57:21+00:00" data-subject="Re: The sleeves of shadow and pain">
 
 > **Insomnia wrote:**
 > Not personal?
@@ -339,7 +339,7 @@ I did this too  :lol:
 
 </div>
 
-<div class="post" data-post-id="39618" data-author="Gorka" data-date="2020-11-20T11:08:05+00:00">
+<div class="post" data-post-id="39618" data-author="Gorka" data-date="2020-11-20T11:08:05+00:00" data-subject="Re: The sleeves of shadow and pain">
 
 RE: Clasp Personalization...
 
@@ -367,7 +367,7 @@ Sloth is going to have to drop the secrecy crap surrounding it's source code, an
 
 </div>
 
-<div class="post" data-post-id="39619" data-author="Driven" data-date="2020-11-20T13:07:36+00:00">
+<div class="post" data-post-id="39619" data-author="Driven" data-date="2020-11-20T13:07:36+00:00" data-subject="Re: The sleeves of shadow and pain">
 
 FWIW, your xp on your artifacts are tied to your character name, so if someone else tries to feed your artifact, the artifact will simply tell you that you don't have enough xp to level.  If you happened to have enough xp to do it, you could take over someone else's artifact, but having multiple artifacts would do you absolutely no good... I made sure of that.  I have no issues with making them personal, though... it was a simple oversight.
 
@@ -377,7 +377,7 @@ The only time the clasps show up on the eqlist is when reimbursements are made b
 
 </div>
 
-<div class="post" data-post-id="39638" data-author="Insomnia" data-date="2020-12-12T17:27:01+00:00">
+<div class="post" data-post-id="39638" data-author="Insomnia" data-date="2020-12-12T17:27:01+00:00" data-subject="Re: The sleeves of shadow and pain">
 
 You unleash a bolt of pure shadow on Roedrig, Troll Champion!!
 
@@ -427,13 +427,13 @@ Not sure what to look for in msdp.CHARACTER_AFFECTS, I think only these two stan
 
 </div>
 
-<div class="post" data-post-id="39639" data-author="Gorka" data-date="2020-12-13T14:54:53+00:00">
+<div class="post" data-post-id="39639" data-author="Gorka" data-date="2020-12-13T14:54:53+00:00" data-subject="Re: The sleeves of shadow and pain">
 
 Mind listing all the upgrade items if you have them? Or at minimum the last one...
 
 </div>
 
-<div class="post" data-post-id="39640" data-author="Insomnia" data-date="2020-12-14T13:57:15+00:00">
+<div class="post" data-post-id="39640" data-author="Insomnia" data-date="2020-12-14T13:57:15+00:00" data-subject="Re: The sleeves of shadow and pain">
 
 a bloodstained manual
 

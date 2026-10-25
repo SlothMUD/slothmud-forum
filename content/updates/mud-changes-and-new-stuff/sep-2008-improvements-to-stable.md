@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="26449" data-author="Judge" data-date="2008-09-24T09:14:09+00:00">
+<div class="post" data-post-id="26449" data-author="Judge" data-date="2008-09-24T09:14:09+00:00" data-subject="Sep 2008: Improvements to stable">
 
 I made a few adjustments to the stables:
 

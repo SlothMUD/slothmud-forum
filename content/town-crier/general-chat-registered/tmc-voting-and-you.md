@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="32558" data-author="Harm" data-date="2011-04-07T18:54:45+00:00">
+<div class="post" data-post-id="32558" data-author="Harm" data-date="2011-04-07T18:54:45+00:00" data-subject="TMC, voting, and you.">
 
 Hi guys,
 
@@ -20,19 +20,19 @@ Harm
 
 </div>
 
-<div class="post" data-post-id="32559" data-author="Tuck" data-date="2011-04-07T20:32:43+00:00">
+<div class="post" data-post-id="32559" data-author="Tuck" data-date="2011-04-07T20:32:43+00:00" data-subject="Re: TMC, voting, and you.">
 
 yeah, we are gettin to #3. Hope we will get it before TMC reset.
 
 </div>
 
-<div class="post" data-post-id="32563" data-author="Jaid" data-date="2011-04-14T11:32:08+00:00">
+<div class="post" data-post-id="32563" data-author="Jaid" data-date="2011-04-14T11:32:08+00:00" data-subject="Re: TMC, voting, and you.">
 
 We're only a handful of votes away from #3.  Please make sure you vote today. Sloth's worth it.  :P
 
 </div>
 
-<div class="post" data-post-id="32564" data-author="celerra7" data-date="2011-04-14T16:25:16+00:00">
+<div class="post" data-post-id="32564" data-author="celerra7" data-date="2011-04-14T16:25:16+00:00" data-subject="Re: TMC, voting, and you.">
 
 If you check TMC and follow the links:
 

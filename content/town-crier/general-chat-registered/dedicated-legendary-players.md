@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32680" data-author="Toxis" data-date="2011-06-13T14:39:02+00:00">
+<div class="post" data-post-id="32680" data-author="Toxis" data-date="2011-06-13T14:39:02+00:00" data-subject="Dedicated Legendary Players :)">
 
 [pri sec ter qua qui hex sep oct]  Players
 

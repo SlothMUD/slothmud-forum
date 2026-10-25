@@ -10,7 +10,7 @@ locked: false
 post_count: 32
 ---
 
-<div class="post" data-post-id="32410" data-author="Thraxas" data-date="2011-02-09T09:44:15+00:00">
+<div class="post" data-post-id="32410" data-author="Thraxas" data-date="2011-02-09T09:44:15+00:00" data-subject="Runes - balanced?">
 
 Looking at the runes available while thereare a lot that are of general use to any class, of those that appear aimed  at a specific classe there do seem to be more aimed at Thief/Warrior/Cleric classes than the others with only one aimed at necros, I just wondered if this was deliberate?
 
@@ -148,7 +148,7 @@ Looking at the runes available while thereare a lot that are of general use to a
 
 </div>
 
-<div class="post" data-post-id="32411" data-author="*Splork*" data-date="2011-02-09T13:49:41+00:00">
+<div class="post" data-post-id="32411" data-author="*Splork*" data-date="2011-02-09T13:49:41+00:00" data-subject="Re: Runes - balanced?">
 
 Runes were set up by what special attributes are available. There are simply more available bonus effects for the original classes then there are the ones that were added a decade ago.  
 
@@ -162,7 +162,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32413" data-author="Thraxas" data-date="2011-02-09T17:47:46+00:00">
+<div class="post" data-post-id="32413" data-author="Thraxas" data-date="2011-02-09T17:47:46+00:00" data-subject="Re: Runes - balanced?">
 
 Agreed some of those I categorised can be used by more than one class, but the skewing to a couple of classes does seem to be real.
 
@@ -201,7 +201,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="32414" data-author="Shyla" data-date="2011-02-09T22:51:13+00:00">
+<div class="post" data-post-id="32414" data-author="Shyla" data-date="2011-02-09T22:51:13+00:00" data-subject="Re: Runes - balanced?">
 
 i agree on the unsocketing. i think there should be some reasonable way to unsocet if you find a better rune or better eq. i  have a few i can use now but dont want to risk it til i know what else i can use . can you please give us an unsocet rune option so i can make us of what i have til better eq or rune comes along and that way i can pass them down to newbies to use til they get something better... this way everyone gets benefit of runes and not just the elite.
 
@@ -211,7 +211,7 @@ shyla
 
 </div>
 
-<div class="post" data-post-id="32419" data-author="element" data-date="2011-02-12T06:41:10+00:00">
+<div class="post" data-post-id="32419" data-author="element" data-date="2011-02-12T06:41:10+00:00" data-subject="Re: Runes - balanced?">
 
 I think socketing shouldn't be "reversible", but you should be able to destroy the socketed rune at a fee.  
 
@@ -219,13 +219,13 @@ Also, I think high-end forges or elite eq should have 2 rune sockets (of course 
 
 </div>
 
-<div class="post" data-post-id="32420" data-author="Stab" data-date="2011-02-12T11:53:52+00:00">
+<div class="post" data-post-id="32420" data-author="Stab" data-date="2011-02-12T11:53:52+00:00" data-subject="Re: Runes - balanced?">
 
 Very nice list Thraxas.
 
 </div>
 
-<div class="post" data-post-id="32421" data-author="Xamak" data-date="2011-02-12T20:36:37+00:00">
+<div class="post" data-post-id="32421" data-author="Xamak" data-date="2011-02-12T20:36:37+00:00" data-subject="Re: Runes - balanced?">
 
 For my 2cents I think there should be a process for removing runes.  Otherwise, we end up with the system we have now.  Everyone fights over the elite gems and the less valuable runes get made and dont get socketed.  Of course, unless its 3x40 eq or a personal item you could re-run the eq, and sell the one you had with the rune. Depending on the piece of eq and the rune, that could be what I would do.  To elements point, I dont see two rune sockets happening, and really that doesnt solve the problem at all anyway.  People still would only want to socket 2 top notch runes to their item.  
 
@@ -235,7 +235,7 @@ Xamak/Elwyn
 
 </div>
 
-<div class="post" data-post-id="32422" data-author="Tuck" data-date="2011-02-13T03:31:00+00:00">
+<div class="post" data-post-id="32422" data-author="Tuck" data-date="2011-02-13T03:31:00+00:00" data-subject="Re: Runes - balanced?">
 
 Absolutely agree, let us unsocket gems please.
 
@@ -247,7 +247,7 @@ tukster
 
 </div>
 
-<div class="post" data-post-id="32423" data-author="*Splork*" data-date="2011-02-13T15:56:04+00:00">
+<div class="post" data-post-id="32423" data-author="*Splork*" data-date="2011-02-13T15:56:04+00:00" data-subject="Re: Runes - balanced?">
 
 As of right now, there are no plans to allow the unsocketing of runes from equipment. If we ever change our minds, it will require a hefty gold or drachma price, most likely.
 
@@ -261,7 +261,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32424" data-author="Thraxas" data-date="2011-02-13T18:45:11+00:00">
+<div class="post" data-post-id="32424" data-author="Thraxas" data-date="2011-02-13T18:45:11+00:00" data-subject="Re: Runes - balanced?">
 
 To Splork,
 
@@ -273,7 +273,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="32425" data-author="*Splork*" data-date="2011-02-13T19:07:26+00:00">
+<div class="post" data-post-id="32425" data-author="*Splork*" data-date="2011-02-13T19:07:26+00:00" data-subject="Re: Runes - balanced?">
 
 Rather or not you guys are using runes/gems or vaulting them is entirely up to you. It has no effect on my decision to make them removable and neither does the fact everyone disagrees with my decision on the matter. There is no right or wrong here, regardless of the implication that there is.
 
@@ -291,13 +291,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32426" data-author="jezer" data-date="2011-02-13T23:41:30+00:00">
+<div class="post" data-post-id="32426" data-author="jezer" data-date="2011-02-13T23:41:30+00:00" data-subject="Re: Runes - balanced?">
 
 Is there an outcome on the silvery blue pearl rune yet, is it still hand dam?
 
 </div>
 
-<div class="post" data-post-id="32427" data-author="DSF" data-date="2011-02-14T11:12:00+00:00">
+<div class="post" data-post-id="32427" data-author="DSF" data-date="2011-02-14T11:12:00+00:00" data-subject="Re: Runes - balanced?">
 
 Greetings Splork, 
 
@@ -331,7 +331,7 @@ DSFren
 
 </div>
 
-<div class="post" data-post-id="32429" data-author="Teron" data-date="2011-02-17T03:48:55+00:00">
+<div class="post" data-post-id="32429" data-author="Teron" data-date="2011-02-17T03:48:55+00:00" data-subject="Re: Runes - balanced?">
 
 Splork, you said:
 
@@ -369,7 +369,7 @@ Should we be able to unsocket runes, we'd be able to:
 
 </div>
 
-<div class="post" data-post-id="32430" data-author="*Splork*" data-date="2011-02-17T08:09:45+00:00">
+<div class="post" data-post-id="32430" data-author="*Splork*" data-date="2011-02-17T08:09:45+00:00" data-subject="Re: Runes - balanced?">
 
 When I developed and coded this feature, I fully knew all of this. I am not budging on my stance regarding runes. People can continue to post the same reasons over and over but my decision was and has been made.
 
@@ -381,7 +381,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32431" data-author="Teron" data-date="2011-02-17T14:04:25+00:00">
+<div class="post" data-post-id="32431" data-author="Teron" data-date="2011-02-17T14:04:25+00:00" data-subject="Re: Runes - balanced?">
 
 Earlier, you said:
 
@@ -391,7 +391,7 @@ If you knew this beforehand, then you shouldn't be too sad.
 
 </div>
 
-<div class="post" data-post-id="32432" data-author="*Splork*" data-date="2011-02-17T15:49:23+00:00">
+<div class="post" data-post-id="32432" data-author="*Splork*" data-date="2011-02-17T15:49:23+00:00" data-subject="Re: Runes - balanced?">
 
 Imagine that, players being greedy or paranoid and vaulting items rather than using them. Sorry but this isn't a new concept, its been happening since the inception of vaults into Slothmud. 
 
@@ -409,7 +409,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32433" data-author="Thraxas" data-date="2011-02-17T17:07:03+00:00">
+<div class="post" data-post-id="32433" data-author="Thraxas" data-date="2011-02-17T17:07:03+00:00" data-subject="Re: Runes - balanced?">
 
 > ***Splork* wrote:**
 > At this point, watching how runes have entirely over taken the game, which I did not anticipate, it might be time for me to look into controlling the issue. Forcing them to be used or lost within a certain time period doesn't seem like such a bad idea at this point.
@@ -426,7 +426,7 @@ Thraxas
 
 </div>
 
-<div class="post" data-post-id="32434" data-author="blackmore" data-date="2011-02-17T18:25:58+00:00">
+<div class="post" data-post-id="32434" data-author="blackmore" data-date="2011-02-17T18:25:58+00:00" data-subject="Re: Runes - balanced?">
 
 If runes poof from non-use, everyone will stockpile gems instead of runes.
 
@@ -436,7 +436,7 @@ I'm actually bothered that you effectively can't get rid of the eq once a rune i
 
 </div>
 
-<div class="post" data-post-id="32435" data-author="*Splork*" data-date="2011-02-17T19:19:13+00:00">
+<div class="post" data-post-id="32435" data-author="*Splork*" data-date="2011-02-17T19:19:13+00:00" data-subject="Re: Runes - balanced?">
 
 As I have clearly stated, there is no right or wrong regarding this issue. Its simply opinions by the players and myself,  the person who tries to keep this game balanced and fun. Unreal to add a feature as rich as this one only to see the bitching it has created between players and now myself. 
 
@@ -450,7 +450,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32437" data-author="Teron" data-date="2011-02-18T00:22:14+00:00">
+<div class="post" data-post-id="32437" data-author="Teron" data-date="2011-02-18T00:22:14+00:00" data-subject="Re: Runes - balanced?">
 
 I wasn't trying to be "antagonizing, rude, or chastising", Splork.
 
@@ -460,7 +460,7 @@ If you did take it personally (I see no reason why you shouldn't have), I apolog
 
 </div>
 
-<div class="post" data-post-id="32438" data-author="*Splork*" data-date="2011-02-18T02:32:36+00:00">
+<div class="post" data-post-id="32438" data-author="*Splork*" data-date="2011-02-18T02:32:36+00:00" data-subject="Re: Runes - balanced?">
 
 After speaking with Blackmore online for a few minutes this evening, I think we have come up with a solution that will satisfy all parties involved, at least partly. 
 
@@ -474,7 +474,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="32439" data-author="blackmore" data-date="2011-02-18T16:53:00+00:00">
+<div class="post" data-post-id="32439" data-author="blackmore" data-date="2011-02-18T16:53:00+00:00" data-subject="Re: Runes - balanced?">
 
 > ***Splork* wrote:**
 > and will be busy all weekend ( buying a golf cart ),
@@ -483,13 +483,13 @@ How long can it possibly take to buy a golf cart?  Do you have to travel around 
 
 </div>
 
-<div class="post" data-post-id="32440" data-author="*Splork*" data-date="2011-02-18T19:14:58+00:00">
+<div class="post" data-post-id="32440" data-author="*Splork*" data-date="2011-02-18T19:14:58+00:00" data-subject="Re: Runes - balanced?">
 
 Working all weekend and then buying a cart on Sunday:) Then I have to drive it all day around the yard with the boy till I get bored!
 
 </div>
 
-<div class="post" data-post-id="32457" data-author="Insomniac" data-date="2011-03-09T01:25:10+00:00">
+<div class="post" data-post-id="32457" data-author="Insomniac" data-date="2011-03-09T01:25:10+00:00" data-subject="Re: Runes - balanced?">
 
 Seems like it's been a few weeks since the original discussion but I find myself in the odd position of agreeing with Splork here. I think that people forget just how amazing some of these runes are - take the stat runes, for example! You might spend weeks forging ingame eq to get a +stat without losing any AC. Even so, something like Darksteel Guards (0.8 +con) is still not as good as other shoulder guards available in the game without the stat (0.8 20 hps). In other words, there are no free stats in the game...except with runes.
 
@@ -513,7 +513,7 @@ I wonder what Blackmore suggested too, maybe Splork can let us know when he's do
 
 </div>
 
-<div class="post" data-post-id="32458" data-author="Teron" data-date="2011-03-09T03:31:24+00:00">
+<div class="post" data-post-id="32458" data-author="Teron" data-date="2011-03-09T03:31:24+00:00" data-subject="Re: Runes - balanced?">
 
 Insomniac, do you practically suggest to somehow penalize people with more runes? Is this your solution to the low amount of runes that you have?
 
@@ -529,7 +529,7 @@ P.S. No one makes you buy the runes or gems for money. Especially, if you don't 
 
 </div>
 
-<div class="post" data-post-id="32459" data-author="Insomniac" data-date="2011-03-09T10:19:42+00:00">
+<div class="post" data-post-id="32459" data-author="Insomniac" data-date="2011-03-09T10:19:42+00:00" data-subject="Re: Runes - balanced?">
 
 You assume that my thinking is based on the number of runes I have (which you do not know) and my desire to improve my position (you also imply that this would be at the expense of other people). It's interesting that the assumptions we make about other people's intentions often reflect our own attitudes to the topic of discussion.
 
@@ -574,7 +574,7 @@ Rofl. I used to think Splork didn't understand the playerbase here. Now, I think
 
 </div>
 
-<div class="post" data-post-id="32460" data-author="Teron" data-date="2011-03-09T11:51:42+00:00">
+<div class="post" data-post-id="32460" data-author="Teron" data-date="2011-03-09T11:51:42+00:00" data-subject="Re: Runes - balanced?">
 
 Insomniac, I think the solution with desocketing for a certain fee would allow us to use the better runes sooner on mid eq. This is the sufficient solution to the problem, in my opinion, and I had thought about it/suggested it earlier.
 
@@ -598,7 +598,7 @@ P.P.S. The choice to join groups, based on gem calls, is the same as joining eq 
 
 </div>
 
-<div class="post" data-post-id="32461" data-author="Insomniac" data-date="2011-03-09T12:23:02+00:00">
+<div class="post" data-post-id="32461" data-author="Insomniac" data-date="2011-03-09T12:23:02+00:00" data-subject="Re: Runes - balanced?">
 
 > **Teron wrote:**
 > Insomniac, I think the solution with desocketing for a certain fee would allow us to use the better runes sooner on mid eq. This is the sufficient solution to the problem, in my opinion, and I had thought about it/suggested it earlier.
@@ -637,7 +637,7 @@ Either way, the point is: I doubt gems were put in the game to make grouping mor
 
 </div>
 
-<div class="post" data-post-id="32462" data-author="Teron" data-date="2011-03-09T12:43:50+00:00">
+<div class="post" data-post-id="32462" data-author="Teron" data-date="2011-03-09T12:43:50+00:00" data-subject="Re: Runes - balanced?">
 
 I have edited my post somewhat.
 
@@ -651,7 +651,7 @@ Thus, for example, you can guarantee that the mob is called and killed, but you 
 
 </div>
 
-<div class="post" data-post-id="32463" data-author="Insomniac" data-date="2011-03-09T13:03:56+00:00">
+<div class="post" data-post-id="32463" data-author="Insomniac" data-date="2011-03-09T13:03:56+00:00" data-subject="Re: Runes - balanced?">
 
 > **Teron wrote:**
 > A fee discourages use of runes on midway eq, but not completely, as long as the fee is less, than the cost of the rune itself. There needs a balance to be found here, but without knowing about what exactly Splork is working on, I won't comment on this.
@@ -672,7 +672,7 @@ And I said otherwise?
 
 </div>
 
-<div class="post" data-post-id="32464" data-author="Xamak" data-date="2011-03-09T15:35:57+00:00">
+<div class="post" data-post-id="32464" data-author="Xamak" data-date="2011-03-09T15:35:57+00:00" data-subject="Re: Runes - balanced?">
 
 I don't see the point of twisting players arms to make them trade runes/gems.  It's a free marketplace regarding those items and IMHO should remain so.  It's really no different than any other random pop in that sense.  So what if certain higher level chars have tons of gems/runes vaulted... they also have better equipment overall than I do...more drachma than I do etc... following that logic lets penalize people for not spending their drachma sooner and buying more drachma equipment since its so underutilitzed overall etc.
 

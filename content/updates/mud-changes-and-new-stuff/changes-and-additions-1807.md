@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="11864" data-author="*Splork*" data-date="2006-03-29T01:51:47+00:00">
+<div class="post" data-post-id="11864" data-author="*Splork*" data-date="2006-03-29T01:51:47+00:00" data-subject="Changes and additions">
 
 I've added the ability for autoquesters to turn on SlothMUD's extras, such as fastrepop, fargate, group experience, and no cap.
 

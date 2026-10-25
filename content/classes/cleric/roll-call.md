@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="979" data-author="brand" data-date="2004-07-07T19:30:11+00:00">
+<div class="post" data-post-id="979" data-author="brand" data-date="2004-07-07T19:30:11+00:00" data-subject="ROLL CALL!">
 
 There will not be a block picnic this weekend...
 

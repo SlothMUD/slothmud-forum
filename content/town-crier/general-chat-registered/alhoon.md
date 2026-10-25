@@ -10,7 +10,7 @@ locked: false
 post_count: 42
 ---
 
-<div class="post" data-post-id="22614" data-author="Toxis" data-date="2008-02-09T00:06:35+00:00">
+<div class="post" data-post-id="22614" data-author="Toxis" data-date="2008-02-09T00:06:35+00:00" data-subject="Alhoon">
 
 <1217hp 316ma 223mv>
 
@@ -92,7 +92,7 @@ One thing I hate more than anything are instant death procs.  I will never run A
 
 </div>
 
-<div class="post" data-post-id="22616" data-author="Autolycos" data-date="2008-02-09T00:27:12+00:00">
+<div class="post" data-post-id="22616" data-author="Autolycos" data-date="2008-02-09T00:27:12+00:00" data-subject="">
 
 Oh c'mon Brad... 
 
@@ -104,13 +104,13 @@ and we both know that is frowned upon.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22619" data-author="Yasik" data-date="2008-02-09T00:46:12+00:00">
+<div class="post" data-post-id="22619" data-author="Yasik" data-date="2008-02-09T00:46:12+00:00" data-subject="">
 
 [img:q2ok3wxi]http://yasik.kiev.ua/EdgarAllanPwned.jpg[/img:q2ok3wxi]
 
 </div>
 
-<div class="post" data-post-id="22620" data-author="Rynquald" data-date="2008-02-09T02:15:06+00:00">
+<div class="post" data-post-id="22620" data-author="Rynquald" data-date="2008-02-09T02:15:06+00:00" data-subject="">
 
 In all fairness, the proc did fire once that round without killing you, before the second one finished you off.
 
@@ -120,13 +120,13 @@ Edit:On second thought, as far as I know that proc doesn't do much through mindb
 
 </div>
 
-<div class="post" data-post-id="22621" data-author="*juggleblood*" data-date="2008-02-09T02:15:53+00:00">
+<div class="post" data-post-id="22621" data-author="*juggleblood*" data-date="2008-02-09T02:15:53+00:00" data-subject="">
 
 Sometimes the giant monster is just going to splat someone and theres nothing anyone can do about it. So I'm not gonna complain about death procs. But perhaps the frequency and number of pcs affected at once could be reduced so that the group isn't forced to staff and regroup everytime the mob procs. Spending all that time regrouping starts to drag down troop morale.
 
 </div>
 
-<div class="post" data-post-id="22623" data-author="Akasha" data-date="2008-02-09T03:12:17+00:00">
+<div class="post" data-post-id="22623" data-author="Akasha" data-date="2008-02-09T03:12:17+00:00" data-subject="">
 
 good, im glad some mobs get respect.
 
@@ -134,7 +134,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="22624" data-author="Autolycos" data-date="2008-02-09T05:52:38+00:00">
+<div class="post" data-post-id="22624" data-author="Autolycos" data-date="2008-02-09T05:52:38+00:00" data-subject="">
 
 good, im glad some mobs get respect.[/quote:3kl7f7nx]
 
@@ -144,7 +144,7 @@ that kobold sage is one bad mutha!
 
 </div>
 
-<div class="post" data-post-id="22625" data-author="Weasel" data-date="2008-02-09T06:04:48+00:00">
+<div class="post" data-post-id="22625" data-author="Weasel" data-date="2008-02-09T06:04:48+00:00" data-subject="">
 
 fear the kobold sage.
 
@@ -152,7 +152,7 @@ fear the kobold sage.
 
 </div>
 
-<div class="post" data-post-id="22627" data-author="Yasik" data-date="2008-02-09T07:57:36+00:00">
+<div class="post" data-post-id="22627" data-author="Yasik" data-date="2008-02-09T07:57:36+00:00" data-subject="">
 
 fear the kobold sage.
 
@@ -164,7 +164,7 @@ fear the kobold sage.
 
 </div>
 
-<div class="post" data-post-id="22639" data-author="Toxis" data-date="2008-02-10T23:37:48+00:00">
+<div class="post" data-post-id="22639" data-author="Toxis" data-date="2008-02-10T23:37:48+00:00" data-subject="">
 
 Your pound massacres Pale Night, the Demon Mother to small fragments.
 
@@ -270,7 +270,7 @@ I didn't corpse and I'm not mad or anything, I just don't like those procs and n
 
 </div>
 
-<div class="post" data-post-id="22640" data-author="jezer" data-date="2008-02-10T23:54:25+00:00">
+<div class="post" data-post-id="22640" data-author="jezer" data-date="2008-02-10T23:54:25+00:00" data-subject="">
 
 I'm with Tox, death procs are draconian, pointless and unimaginative. 
 
@@ -284,7 +284,7 @@ I had to laugh though, when I saw the tanks dead, and truth had 748 mana! That i
 
 </div>
 
-<div class="post" data-post-id="22641" data-author="jezer" data-date="2008-02-11T00:13:17+00:00">
+<div class="post" data-post-id="22641" data-author="jezer" data-date="2008-02-11T00:13:17+00:00" data-subject="">
 
 Announcing a New Sloth Super Mob!!!
 
@@ -306,7 +306,7 @@ Mandos gossips -- 'I'm IN!'  :twisted:
 
 </div>
 
-<div class="post" data-post-id="22642" data-author="Akasha" data-date="2008-02-11T08:35:33+00:00">
+<div class="post" data-post-id="22642" data-author="Akasha" data-date="2008-02-11T08:35:33+00:00" data-subject="">
 
 yep, makes me want to come back and work even harder to give you something to do.
 
@@ -316,7 +316,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="22643" data-author="jezer" data-date="2008-02-11T08:44:09+00:00">
+<div class="post" data-post-id="22643" data-author="jezer" data-date="2008-02-11T08:44:09+00:00" data-subject="">
 
 We like ya akasha, and we appreciate your work! even though I don't always agree!  :D At the end of the day the majority of people love epics, and I like the idea! Just questioning the reward. I'm just a small voice squeaking in the dark! Honestly you don't have to worry about what I say... and I don't think most do! haha
 
@@ -324,13 +324,13 @@ I'm about to get flamed to piece's (Some people will step in to defend you, beca
 
 </div>
 
-<div class="post" data-post-id="22647" data-author="*juggleblood*" data-date="2008-02-11T13:43:09+00:00">
+<div class="post" data-post-id="22647" data-author="*juggleblood*" data-date="2008-02-11T13:43:09+00:00" data-subject="">
 
 No one has done as much for the game in a long time as Akasha and I don't think we'd be in #2 if epics hadn't gone in and gotten the old timers re-energized. Not to mention the series of drachma autoquests he put in and his regular quests and the effort he puts into other administrative and coding tasks. So show some respect pls. I wish there were more people putting even half the effort that he puts in.
 
 </div>
 
-<div class="post" data-post-id="22648" data-author="Shyla" data-date="2008-02-11T16:00:51+00:00">
+<div class="post" data-post-id="22648" data-author="Shyla" data-date="2008-02-11T16:00:51+00:00" data-subject="">
 
 You know i might hate alhoon and some of the others and not do them but there are a lot of people here that find it fun no matter what.  And to put down Akasha like you did after all the work he has done is just wrong.  Why do you think immorts like Blaster who used to do a lot isn't seen anymore?  Too many people take their frustration out on the immorts who only try to make things better here.  GET OFF THEIR BACKS!!! you don't like the quests don't do them... YOu don't like the rewards or who gets them...ummm...don't do them... you don't like the epics.....DON'T DO THEM.  but do NOT make another immort leave because you do not like something.  I am sick of tired of losing great immorts b/c someone decides they don't like something.  Hell I whine all the time, but at least not about the immorts.
 
@@ -340,7 +340,7 @@ Shyla the mad librarian
 
 </div>
 
-<div class="post" data-post-id="22649" data-author="Autolycos" data-date="2008-02-11T16:31:02+00:00">
+<div class="post" data-post-id="22649" data-author="Autolycos" data-date="2008-02-11T16:31:02+00:00" data-subject="">
 
 ruh roh.... 
 
@@ -348,7 +348,7 @@ you angerd teh shylaz   :x
 
 </div>
 
-<div class="post" data-post-id="22652" data-author="Tap" data-date="2008-02-11T20:00:14+00:00">
+<div class="post" data-post-id="22652" data-author="Tap" data-date="2008-02-11T20:00:14+00:00" data-subject="">
 
 Allhoon Baboon
 
@@ -356,7 +356,7 @@ Not sure if there is a epic/MOB that does it but a MOB that randomly successfull
 
 </div>
 
-<div class="post" data-post-id="22657" data-author="*juggleblood*" data-date="2008-02-11T21:42:21+00:00">
+<div class="post" data-post-id="22657" data-author="*juggleblood*" data-date="2008-02-11T21:42:21+00:00" data-subject="">
 
 Why do you think immorts like Blaster who used to do a lot isn't seen anymore?  [/quote:1djw7ydx]
 
@@ -364,7 +364,7 @@ Does anybody really miss Blaster Quests tho? I thought his quests involved mass 
 
 </div>
 
-<div class="post" data-post-id="22658" data-author="Akasha" data-date="2008-02-11T22:10:26+00:00">
+<div class="post" data-post-id="22658" data-author="Akasha" data-date="2008-02-11T22:10:26+00:00" data-subject="">
 
 Allhoon Baboon
 
@@ -376,7 +376,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="22660" data-author="jezer" data-date="2008-02-11T23:05:26+00:00">
+<div class="post" data-post-id="22660" data-author="jezer" data-date="2008-02-11T23:05:26+00:00" data-subject="">
 
 :shock: Help my spell shield is already faded!
 
@@ -398,7 +398,7 @@ This is my opinion... game on!  8)
 
 </div>
 
-<div class="post" data-post-id="22661" data-author="jezer" data-date="2008-02-11T23:49:30+00:00">
+<div class="post" data-post-id="22661" data-author="jezer" data-date="2008-02-11T23:49:30+00:00" data-subject="">
 
 One thing that Akasha did that I really appreciated was the coliseum...
 
@@ -420,7 +420,7 @@ I'll hand you all over now to weasel, for a tension relieving lol cat... Don't l
 
 </div>
 
-<div class="post" data-post-id="22663" data-author="Mosaix" data-date="2008-02-12T00:21:38+00:00">
+<div class="post" data-post-id="22663" data-author="Mosaix" data-date="2008-02-12T00:21:38+00:00" data-subject="">
 
 Shyla your overall post is valid, however...
 
@@ -440,7 +440,7 @@ Mosaix
 
 </div>
 
-<div class="post" data-post-id="22685" data-author="Yinao" data-date="2008-02-12T23:27:09+00:00">
+<div class="post" data-post-id="22685" data-author="Yinao" data-date="2008-02-12T23:27:09+00:00" data-subject="">
 
 In fact Blaster doesn't log on to do quests or anything like that anymore the sole purpose for his log ons are to say hello. You notice he doesn't do god lites anymore, nor restrings... You simply ask for a god lite and your beheaded...
 
@@ -450,7 +450,7 @@ ps... not to speak for the poor guy im sure he could answer it himself, just my 
 
 </div>
 
-<div class="post" data-post-id="22687" data-author="Medios" data-date="2008-02-12T23:50:06+00:00">
+<div class="post" data-post-id="22687" data-author="Medios" data-date="2008-02-12T23:50:06+00:00" data-subject="">
 
 Shyla your overall post is valid, however...
 
@@ -474,7 +474,7 @@ Remind me which president started the Korean war, or how about Vietnam.  Must ha
 
 </div>
 
-<div class="post" data-post-id="22691" data-author="Mosaix" data-date="2008-02-13T04:07:05+00:00">
+<div class="post" data-post-id="22691" data-author="Mosaix" data-date="2008-02-13T04:07:05+00:00" data-subject="">
 
 Im a registered Independant voter.  I consider myself a moderate republican, fiscal republican perhaps, if you need to tie me down to an answer.  Arlen Specter of PA, and Susan Collins of ME are senators i like.  Pervert hard right wing senators like Larry Craig of ID (pleaded guilty to propositioning a male police officer in a bathroom), or senator David Vitter of LA (married, evanglistic man, kids, who got caught having his name pop up in escort directories for paying for sex.)  Moral majority right?  How do these guys still have jobs.  So for the pervert senators, the lies, the lack of money in my pocket, excessive spending, budget defict, crappy economy, the twisting of facts by right wing republicans all over this nation, i dislike the right wing of the republican party.  
 
@@ -506,19 +506,19 @@ Thank you neo-con right wing.
 
 </div>
 
-<div class="post" data-post-id="22692" data-author="jezer" data-date="2008-02-13T04:12:43+00:00">
+<div class="post" data-post-id="22692" data-author="jezer" data-date="2008-02-13T04:12:43+00:00" data-subject="">
 
 So getting back to the original topic, is Alhoon a republican or a democrat...?
 
 </div>
 
-<div class="post" data-post-id="22695" data-author="Medios" data-date="2008-02-13T15:09:05+00:00">
+<div class="post" data-post-id="22695" data-author="Medios" data-date="2008-02-13T15:09:05+00:00" data-subject="">
 
 Broc I agree with everything you said.  I just think its unfair to make blanket statements.  Sure there are people on both sides that are screwing up the country.  The reason people are voting for McCain is because they feel he "has a chance".  This is ignorant voting.  I don't know when it became a popularity contest instead of a battle of ideas.  I blame the media and the voters for believing everything they read/hear.  I guess if everyone felt like you we could succeed to Mexico and let them have it.  Fuck it. Give up.
 
 </div>
 
-<div class="post" data-post-id="22701" data-author="Bazilus" data-date="2008-02-13T17:45:06+00:00">
+<div class="post" data-post-id="22701" data-author="Bazilus" data-date="2008-02-13T17:45:06+00:00" data-subject="">
 
 Allhoon Baboon
 
@@ -536,7 +536,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="22702" data-author="Bazilus" data-date="2008-02-13T17:50:02+00:00">
+<div class="post" data-post-id="22702" data-author="Bazilus" data-date="2008-02-13T17:50:02+00:00" data-subject="">
 
 I had to laugh though, when I saw the tanks dead, and truth had 748 mana! That is kinda funny.[/quote:1g9wjaor]
 
@@ -546,7 +546,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="22703" data-author="Bazilus" data-date="2008-02-13T18:02:39+00:00">
+<div class="post" data-post-id="22703" data-author="Bazilus" data-date="2008-02-13T18:02:39+00:00" data-subject="">
 
 Epic mobs were really fun with honor and some drachma.  Now some of them are leaning towards being no fun to kill.  Balance is important.  If anything consider putting the drachma back, and slow down the rate of epics loading.
 
@@ -562,7 +562,7 @@ Bazilus the Crazy Python
 
 </div>
 
-<div class="post" data-post-id="22704" data-author="Akasha" data-date="2008-02-13T18:06:21+00:00">
+<div class="post" data-post-id="22704" data-author="Akasha" data-date="2008-02-13T18:06:21+00:00" data-subject="">
 
 ok, if you're on this thread writing about epic stuff, know i quit reading it a long time ago once the subject once again changed to politics.   I'm a politically attentive person too, and i keep up with whats going on.  But for the love of everything and anything, make a POLITICS only thread and make your statements there.  Too many threads as of late have become lost in poltical discussions with no relation to the actual thread.
 
@@ -574,7 +574,7 @@ Akasha
 
 </div>
 
-<div class="post" data-post-id="22705" data-author="13" data-date="2008-02-13T20:14:54+00:00">
+<div class="post" data-post-id="22705" data-author="13" data-date="2008-02-13T20:14:54+00:00" data-subject="">
 
 i dont understand the politcal rants in a quest thread either
 
@@ -582,19 +582,19 @@ not that the views aren't valid..just wrong forum for expression I guess?
 
 </div>
 
-<div class="post" data-post-id="22706" data-author="Autolycos" data-date="2008-02-13T20:35:56+00:00">
+<div class="post" data-post-id="22706" data-author="Autolycos" data-date="2008-02-13T20:35:56+00:00" data-subject="">
 
 indeed.  unless you wanted to turn one of the Epic mobs into Hillary... then I would love to help destroy that one   :roll:
 
 </div>
 
-<div class="post" data-post-id="22707" data-author="Alberich" data-date="2008-02-13T20:36:46+00:00">
+<div class="post" data-post-id="22707" data-author="Alberich" data-date="2008-02-13T20:36:46+00:00" data-subject="">
 
 isn't there already a harpy in ET?
 
 </div>
 
-<div class="post" data-post-id="22710" data-author="Autolycos" data-date="2008-02-13T21:21:06+00:00">
+<div class="post" data-post-id="22710" data-author="Autolycos" data-date="2008-02-13T21:21:06+00:00" data-subject="">
 
 [b:blo9kt12]RAAAAWWWWRRR!!!![/b:blo9kt12][/color:blo9kt12][/size:blo9kt12]
 
@@ -602,7 +602,7 @@ isn't there already a harpy in ET?
 
 </div>
 
-<div class="post" data-post-id="22711" data-author="jezer" data-date="2008-02-13T22:30:35+00:00">
+<div class="post" data-post-id="22711" data-author="jezer" data-date="2008-02-13T22:30:35+00:00" data-subject="">
 
 [img:1xcuox6w]http://firstent.tripod.com/blog/wet_cat.jpg[/img:1xcuox6w]
 
@@ -610,7 +610,7 @@ Akasha Cat says 'Stay Ons Topic!'[/size:1xcuox6w]
 
 </div>
 
-<div class="post" data-post-id="22712" data-author="Akasha" data-date="2008-02-13T22:37:18+00:00">
+<div class="post" data-post-id="22712" data-author="Akasha" data-date="2008-02-13T22:37:18+00:00" data-subject="">
 
 yEAH! what she said.
 
@@ -618,7 +618,7 @@ cute
 
 </div>
 
-<div class="post" data-post-id="22713" data-author="Medios" data-date="2008-02-13T22:40:02+00:00">
+<div class="post" data-post-id="22713" data-author="Medios" data-date="2008-02-13T22:40:02+00:00" data-subject="">
 
 ok, if you're on this thread writing about epic stuff, know i quit reading it a long time ago once the subject once again changed to politics.   I'm a politically attentive person too, and i keep up with whats going on.  But for the love of everything and anything, make a POLITICS only thread and make your statements there.  Too many threads as of late have become lost in poltical discussions with no relation to the actual thread.
 
@@ -636,7 +636,7 @@ What if I said that we got musicians to blame for homosexuality.  This kind of t
 
 </div>
 
-<div class="post" data-post-id="22715" data-author="Medios" data-date="2008-02-14T00:31:41+00:00">
+<div class="post" data-post-id="22715" data-author="Medios" data-date="2008-02-14T00:31:41+00:00" data-subject="">
 
 Lucifer, the dark angel looks down in terror as his intestines spill out!
 
@@ -688,7 +688,7 @@ So I end up losing 15m xp in the end.  How come the xp I get caps at 5m, yet the
 
 </div>
 
-<div class="post" data-post-id="22720" data-author="*juggleblood*" data-date="2008-02-14T06:00:01+00:00">
+<div class="post" data-post-id="22720" data-author="*juggleblood*" data-date="2008-02-14T06:00:01+00:00" data-subject="">
 
 I will stop responding to stupid sh*t.[/quote:27k3zaxc]
 
@@ -698,7 +698,7 @@ snicker
 
 </div>
 
-<div class="post" data-post-id="22725" data-author="Mosaix" data-date="2008-02-15T05:40:12+00:00">
+<div class="post" data-post-id="22725" data-author="Mosaix" data-date="2008-02-15T05:40:12+00:00" data-subject="">
 
 My first comment was more of a joke.   Though it has some truth.  
 

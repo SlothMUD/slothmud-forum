@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="34587" data-author="*Splork*" data-date="2013-11-29T01:49:09+00:00">
+<div class="post" data-post-id="34587" data-author="*Splork*" data-date="2013-11-29T01:49:09+00:00" data-subject="New Forum Style">
 
 There is a new forum style available. If you are still using the purple dark fantasy style you may go into UCP(user control panel), board preferences, and try out the Guild style.
 

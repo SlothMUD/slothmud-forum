@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33856" data-author="raincrab" data-date="2012-12-21T01:03:33+00:00">
+<div class="post" data-post-id="33856" data-author="raincrab" data-date="2012-12-21T01:03:33+00:00" data-subject="processing MSDP spells in tintin++">
 
 here's an example to add a line to your status bar prompt thingie listing spells you're affected by and their duration.  (this would go somewhere in your msdp event handler)
 

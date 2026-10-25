@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="33265" data-author="Shyla" data-date="2012-04-10T02:34:51+00:00">
+<div class="post" data-post-id="33265" data-author="Shyla" data-date="2012-04-10T02:34:51+00:00" data-subject="looking for help and or item">
 
 I found that i am missing fifteen legion banner to forge i had fifth...snicker
 

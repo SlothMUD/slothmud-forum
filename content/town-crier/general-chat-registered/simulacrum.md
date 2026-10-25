@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="13728" data-author="bibbidi" data-date="2006-08-22T14:29:54+00:00">
+<div class="post" data-post-id="13728" data-author="bibbidi" data-date="2006-08-22T14:29:54+00:00" data-subject="Simulacrum">
 
 I've been trying to work out if this spell has any use whatsoever:
 
@@ -60,19 +60,19 @@ Can anyone help?
 
 </div>
 
-<div class="post" data-post-id="13729" data-author="Guinex" data-date="2006-08-23T03:56:19+00:00">
+<div class="post" data-post-id="13729" data-author="Guinex" data-date="2006-08-23T03:56:19+00:00" data-subject="">
 
 The only use i have found is that it confuses people when you are not logged on and your simu is still wandering around, other than that it is worthless. ;)
 
 </div>
 
-<div class="post" data-post-id="13730" data-author="Krok" data-date="2006-08-23T10:15:11+00:00">
+<div class="post" data-post-id="13730" data-author="Krok" data-date="2006-08-23T10:15:11+00:00" data-subject="">
 
 You can use it on arena, well, if someone doesn't have a good area spell.
 
 </div>
 
-<div class="post" data-post-id="13734" data-author="Avatar" data-date="2006-08-23T17:33:51+00:00">
+<div class="post" data-post-id="13734" data-author="Avatar" data-date="2006-08-23T17:33:51+00:00" data-subject="Simulacra Arena">
 
 For a 75 mana spell, someone will likely wind it dead for 25 mana.
 
@@ -80,13 +80,13 @@ I've never tested ... but I thought it might be useful with Wurragurr ( was he t
 
 </div>
 
-<div class="post" data-post-id="13735" data-author="Krok" data-date="2006-08-23T19:07:48+00:00">
+<div class="post" data-post-id="13735" data-author="Krok" data-date="2006-08-23T19:07:48+00:00" data-subject="">
 
 well, cast a spell for 75 mana and say restore fixes it :)
 
 </div>
 
-<div class="post" data-post-id="13740" data-author="Avatar" data-date="2006-08-24T13:55:18+00:00">
+<div class="post" data-post-id="13740" data-author="Avatar" data-date="2006-08-24T13:55:18+00:00" data-subject="Simulacra Arena">
 
 Good point  :)
 

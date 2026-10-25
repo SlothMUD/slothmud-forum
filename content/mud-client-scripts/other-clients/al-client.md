@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="9332" data-author="mudder" data-date="2005-11-02T09:47:17+00:00">
+<div class="post" data-post-id="9332" data-author="mudder" data-date="2005-11-02T09:47:17+00:00" data-subject="AL Client">
 
 Does anyone else here use AL Client?
 
@@ -20,7 +20,7 @@ I have some decent scripts to share if anyone else does
 
 </div>
 
-<div class="post" data-post-id="9334" data-author="13" data-date="2005-11-02T13:18:59+00:00">
+<div class="post" data-post-id="9334" data-author="13" data-date="2005-11-02T13:18:59+00:00" data-subject="">
 
 Everyone here uses Zmud or wintin pretty much.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="31396" data-author="van" data-date="2010-08-03T06:04:29+00:00">
+<div class="post" data-post-id="31396" data-author="van" data-date="2010-08-03T06:04:29+00:00" data-subject="Gems">
 
 I have a couple of concerns about the gem system, which I hope the Imms can address.  Basically, it comes down to how to deal with random gem pops in group situations.
 
@@ -30,7 +30,7 @@ Edit:  I want to point out a basic fact of life.... Sloth players talk.  Either 
 
 </div>
 
-<div class="post" data-post-id="31400" data-author="*Splork*" data-date="2010-08-03T12:51:03+00:00">
+<div class="post" data-post-id="31400" data-author="*Splork*" data-date="2010-08-03T12:51:03+00:00" data-subject="Re: Gems">
 
 I believe that stating that the gem system in sloth is severely dysfunctional is just ridiculously silly. In my mind, it really stinks of attempting to cover up one's own admission that they may have made a mistake. There has been very little issue with gems until this incident and they have been in this game for nearly a year now. 
 
@@ -50,7 +50,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="31401" data-author="van" data-date="2010-08-03T17:54:15+00:00">
+<div class="post" data-post-id="31401" data-author="van" data-date="2010-08-03T17:54:15+00:00" data-subject="Re: Gems">
 
 To clarify, this has very little to do with the previous post.  I'm not trying to cover up a mistake I made, and I'll emphatically state that I am 100% standing by my decision and think I made the right call in that situation.
 
@@ -88,7 +88,7 @@ P.P.P.S. Vroom!
 
 </div>
 
-<div class="post" data-post-id="31418" data-author="van" data-date="2010-08-05T08:57:53+00:00">
+<div class="post" data-post-id="31418" data-author="van" data-date="2010-08-05T08:57:53+00:00" data-subject="Re: Gems">
 
 To Splork:  saw the severely dysfunctional line in my other post, and wish to be clear that this directly referenced the rumor I'd heard that night regarding level-restricted (i.e. newbie) gems, which was a big issue/question that night (as Angels can tell you).
 

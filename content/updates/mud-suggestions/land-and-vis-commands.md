@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="33450" data-author="cyprimus" data-date="2012-08-19T20:10:06+00:00">
+<div class="post" data-post-id="33450" data-author="cyprimus" data-date="2012-08-19T20:10:06+00:00" data-subject="land and vis commands">
 
 Would be nice if we could just land, ending fly spells, and type visable to end sneak/hide/invis effects.. face it, you should be able to stop sneaking with little effort...
 
@@ -22,7 +22,7 @@ Just a few thoughts.
 
 </div>
 
-<div class="post" data-post-id="33451" data-author="jezer" data-date="2012-08-20T01:59:26+00:00">
+<div class="post" data-post-id="33451" data-author="jezer" data-date="2012-08-20T01:59:26+00:00" data-subject="Re: land and vis commands">
 
 +1
 

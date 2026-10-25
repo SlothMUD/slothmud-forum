@@ -10,7 +10,7 @@ locked: false
 post_count: 24
 ---
 
-<div class="post" data-post-id="40003" data-author="cnl" data-date="2023-01-30T21:47:52+00:00">
+<div class="post" data-post-id="40003" data-author="cnl" data-date="2023-01-30T21:47:52+00:00" data-subject="msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 These are 2 possibly quite unrelated issues
 
@@ -42,7 +42,7 @@ EDIT2: it also seems like the SEND msdp command doesn't work it just returns an 
 
 </div>
 
-<div class="post" data-post-id="40006" data-author="cnl" data-date="2023-02-05T08:23:47+00:00">
+<div class="post" data-post-id="40006" data-author="cnl" data-date="2023-02-05T08:23:47+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 the freezing of msdp affects seems somehow related to items worn.
 
@@ -52,7 +52,7 @@ and then after a while the whole thing unfreezes regardless. I'll try get some m
 
 </div>
 
-<div class="post" data-post-id="40007" data-author="cnl" data-date="2023-02-11T22:13:48+00:00">
+<div class="post" data-post-id="40007" data-author="cnl" data-date="2023-02-11T22:13:48+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 ```
 A cloud of inky darkness envelops Insomnia.
@@ -106,13 +106,13 @@ EDIT: kind of interesting to note on the Wireshark capture that several of the v
 
 </div>
 
-<div class="post" data-post-id="40050" data-author="*teker*" data-date="2023-06-07T00:55:41+00:00">
+<div class="post" data-post-id="40050" data-author="*teker*" data-date="2023-06-07T00:55:41+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 When I added those to the game I thought it would be more efficient to send them only when the data changes rather than on a regular interval like the older variables.  It sounds like you're seeing enough problems that maybe they should be switched back.  I took a quick glance at the code and I can understand why some of this may be happening.  I didn't imagine it would be this extreme.
 
 </div>
 
-<div class="post" data-post-id="40051" data-author="cnl" data-date="2023-06-07T16:14:29+00:00">
+<div class="post" data-post-id="40051" data-author="cnl" data-date="2023-06-07T16:14:29+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 CHARACTER_STATISTICS is the only one I've seen go crazy with over-reporting with the values bouncing about.
 
@@ -128,7 +128,7 @@ the number of certain types of eq like artifacts worn and the number of spells u
 
 </div>
 
-<div class="post" data-post-id="40052" data-author="Gorka" data-date="2023-06-07T18:48:59+00:00">
+<div class="post" data-post-id="40052" data-author="Gorka" data-date="2023-06-07T18:48:59+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 > ***teker* wrote:**
 > When I added those to the game I thought it would be more efficient to send them only when the data changes rather than on a regular interval like the older variables.  It sounds like you're seeing enough problems that maybe they should be switched back.  I took a quick glance at the code and I can understand why some of this may be happening.  I didn't imagine it would be this extreme.
@@ -139,19 +139,19 @@ There is a disease on EU that bugs CHARACTER_AFFECTS from memory. I forget which
 
 </div>
 
-<div class="post" data-post-id="40142" data-author="*teker*" data-date="2025-01-06T22:49:22+00:00">
+<div class="post" data-post-id="40142" data-author="*teker*" data-date="2025-01-06T22:49:22+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 Sorry it's been a while.  I've got some free time now so I'm starting to look at the code again.  Crashes and fixing exploits are likely to be my priorities.  Keep in mind that I've traditionally kept away from game play / balance decisions given that my highest mortal is only 4x40.
 
 </div>
 
-<div class="post" data-post-id="40147" data-author="cnl" data-date="2025-02-07T19:48:53+00:00">
+<div class="post" data-post-id="40147" data-author="cnl" data-date="2025-02-07T19:48:53+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 did you fix the CHARACTER_STATISTICS behavior? I turned it on for the first time in a long time today and noticed it wasn't going crazy - was just in a 2-man group though I guess I'll have to see in a larger group but if so thanks - that's awesome. i like being able to pulls things from it like AC and SAVES to display so that's great if it's workable again.
 
 </div>
 
-<div class="post" data-post-id="40150" data-author="*teker*" data-date="2025-02-12T15:48:58+00:00">
+<div class="post" data-post-id="40150" data-author="*teker*" data-date="2025-02-12T15:48:58+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 I did make a code change but I'm not sure that it's live.  The change is to make CHARACTER_STATISTICS report every 0.5 seconds rather than each time the value changes.
 
@@ -159,7 +159,7 @@ I suspect both of these could be spamming at mob death due to warcry.  The affec
 
 </div>
 
-<div class="post" data-post-id="40153" data-author="cnl" data-date="2025-02-13T01:20:29+00:00">
+<div class="post" data-post-id="40153" data-author="cnl" data-date="2025-02-13T01:20:29+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 huh. something else changed somewhere along the line then???
 
@@ -169,7 +169,7 @@ perhaps don't push out the new behavior yet - I'll monitor if it goes crazy agai
 
 </div>
 
-<div class="post" data-post-id="40157" data-author="Hung" data-date="2025-03-03T02:37:02+00:00">
+<div class="post" data-post-id="40157" data-author="Hung" data-date="2025-03-03T02:37:02+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 Teker,
 
@@ -185,7 +185,7 @@ So I would like to propose two new commands:
 
 </div>
 
-<div class="post" data-post-id="40162" data-author="Insomnia" data-date="2025-03-03T10:50:24+00:00">
+<div class="post" data-post-id="40162" data-author="Insomnia" data-date="2025-03-03T10:50:24+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 I like the idea of creating an artifact or a quest item that lets you "look quests" and seeing the mobs in the area that can give you quests. This feels aligned with "look conquerors", "look sceptre" and "look hunters". I don't think it should be given to everyone for free, but be more like Sceptre of Dominion (which is quite challenging to get).
 
@@ -193,7 +193,7 @@ This doesn't sound like anything game-changing. I assume you'd still have to fig
 
 </div>
 
-<div class="post" data-post-id="40163" data-author="Hung" data-date="2025-03-03T11:27:37+00:00">
+<div class="post" data-post-id="40163" data-author="Hung" data-date="2025-03-03T11:27:37+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 The problem with such item is that quests are available starting from the level 1 at the valk.
 
@@ -203,7 +203,7 @@ Though frankly I'd allow see them without item even after valk. After all the si
 
 </div>
 
-<div class="post" data-post-id="40172" data-author="Insomnia" data-date="2025-03-06T12:10:48+00:00">
+<div class="post" data-post-id="40172" data-author="Insomnia" data-date="2025-03-06T12:10:48+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 > **Quote:**
 > I did make a code change but I'm not sure that it's live. The change is to make CHARACTER_STATISTICS report every 0.5 seconds rather than each time the value changes.
@@ -236,7 +236,7 @@ Slice (gossip): last few days, can check logs if its important
 
 </div>
 
-<div class="post" data-post-id="40173" data-author="*teker*" data-date="2025-03-09T02:59:47+00:00">
+<div class="post" data-post-id="40173" data-author="*teker*" data-date="2025-03-09T02:59:47+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 Regarding the code deployment, the changes I've made are not live and can't be live without a reboot.  Usually I let the game reboot/crash on its own rather than introduce an unscheduled reboot.  I see the game has been up for 33 days, so maybe it's time.  The tick "catchup" code hasn't been touched AFAIK.
 
@@ -246,7 +246,7 @@ Regarding the quest requests, unfortunately it's not that simple.  The multipart
 
 </div>
 
-<div class="post" data-post-id="40174" data-author="Hung" data-date="2025-03-09T04:56:41+00:00">
+<div class="post" data-post-id="40174" data-author="Hung" data-date="2025-03-09T04:56:41+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 sloth-rewrite? 
 
@@ -256,13 +256,13 @@ Is it just an idea or maybe it had been secretly been developed for a while?
 
 </div>
 
-<div class="post" data-post-id="40175" data-author="*teker*" data-date="2025-03-10T00:42:46+00:00">
+<div class="post" data-post-id="40175" data-author="*teker*" data-date="2025-03-10T00:42:46+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 I've been thinking about it.  It's probably a multi-year project.
 
 </div>
 
-<div class="post" data-post-id="40176" data-author="Hung" data-date="2025-03-10T08:00:08+00:00">
+<div class="post" data-post-id="40176" data-author="Hung" data-date="2025-03-10T08:00:08+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 Well, good luck.
 
@@ -270,7 +270,7 @@ The only advice I could give is to not use C++ for such project. Literally any o
 
 </div>
 
-<div class="post" data-post-id="40179" data-author="cnl" data-date="2025-03-16T18:27:25+00:00">
+<div class="post" data-post-id="40179" data-author="cnl" data-date="2025-03-16T18:27:25+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 would it be possible to spread it into 3 separate msdp vars
 
@@ -284,7 +284,7 @@ this would greatly reduce the data sent but allow people visibility into their p
 
 </div>
 
-<div class="post" data-post-id="40180" data-author="cnl" data-date="2025-03-18T06:30:16+00:00">
+<div class="post" data-post-id="40180" data-author="cnl" data-date="2025-03-18T06:30:16+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 just to confirm with the changes that went in Monday reboot both CHARACTER_AFFECTS and CHARACTER_STATISTICS are working for me.
 
@@ -292,7 +292,7 @@ thank you!
 
 </div>
 
-<div class="post" data-post-id="40182" data-author="Hung" data-date="2025-03-24T13:27:49+00:00">
+<div class="post" data-post-id="40182" data-author="Hung" data-date="2025-03-24T13:27:49+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 Just a few more QoL suggestions:
 
@@ -302,7 +302,7 @@ Just a few more QoL suggestions:
 
 </div>
 
-<div class="post" data-post-id="40183" data-author="cnl" data-date="2025-03-24T18:52:07+00:00">
+<div class="post" data-post-id="40183" data-author="cnl" data-date="2025-03-24T18:52:07+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 1) see "sco affects2" or use the msdp variables
 
@@ -310,13 +310,13 @@ Just a few more QoL suggestions:
 
 </div>
 
-<div class="post" data-post-id="40184" data-author="Hung" data-date="2025-03-24T19:04:00+00:00">
+<div class="post" data-post-id="40184" data-author="Hung" data-date="2025-03-24T19:04:00+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 thanks, didnt know those commands.
 
 </div>
 
-<div class="post" data-post-id="40189" data-author="Hung" data-date="2025-04-25T21:08:29+00:00">
+<div class="post" data-post-id="40189" data-author="Hung" data-date="2025-04-25T21:08:29+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
 Is it possible to add a notification when the entrench ends?
 

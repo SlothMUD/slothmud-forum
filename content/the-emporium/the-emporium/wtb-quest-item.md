@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5890" data-author="Mosaix" data-date="2005-05-01T02:15:45+00:00">
+<div class="post" data-post-id="5890" data-author="Mosaix" data-date="2005-05-01T02:15:45+00:00" data-subject="WTB Quest Item">
 
 Dunno who has this.  Its basically newbie quest EQ.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="30878" data-author="*Isabo*" data-date="2010-02-12T01:46:42+00:00">
+<div class="post" data-post-id="30878" data-author="*Isabo*" data-date="2010-02-12T01:46:42+00:00" data-subject="Visual change in identify spell">
 
 Hi all.
 

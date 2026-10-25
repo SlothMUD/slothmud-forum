@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="3776" data-author="*Splork*" data-date="2005-01-14T04:06:18+00:00">
+<div class="post" data-post-id="3776" data-author="*Splork*" data-date="2005-01-14T04:06:18+00:00" data-subject="Druid fixes">
 
 We have fixed several bugs which centered around shifted druids. A few examples;
 

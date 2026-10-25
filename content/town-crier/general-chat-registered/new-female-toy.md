@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="7306" data-author="12345" data-date="2005-06-17T15:33:37+00:00">
+<div class="post" data-post-id="7306" data-author="12345" data-date="2005-06-17T15:33:37+00:00" data-subject="New female toy...">
 
 If you're female and can afford $17,000 American (or if you can lie, cheat or steal it), you can have the time of your life...
 
@@ -18,7 +18,7 @@ If you're female and can afford $17,000 American (or if you can lie, cheat or st
 
 </div>
 
-<div class="post" data-post-id="7319" data-author="Yasik" data-date="2005-06-17T19:58:57+00:00">
+<div class="post" data-post-id="7319" data-author="Yasik" data-date="2005-06-17T19:58:57+00:00" data-subject="">
 
 Naaaa, man!  I've been such a toy for helluvalot women for who-knows-how-long time and now this boy comes in and tells ME that HE invited this thing just recently?! HAHAHA!!! 
 
@@ -26,7 +26,7 @@ Ok, let him enjoy (c)  his own illusion.  :D
 
 </div>
 
-<div class="post" data-post-id="7329" data-author="firebrand" data-date="2005-06-18T14:27:06+00:00">
+<div class="post" data-post-id="7329" data-author="firebrand" data-date="2005-06-18T14:27:06+00:00" data-subject="">
 
 Naaaa, man!  I've been such a toy for helluvalot women for who-knows-how-long time and now this boy comes in and tells ME that HE invited this thing just recently?! HAHAHA!!! 
 
@@ -36,7 +36,7 @@ dude, you have a great fantasy life.  here, eat your pudding like a good little 
 
 </div>
 
-<div class="post" data-post-id="7333" data-author="nevulae" data-date="2005-06-19T09:38:02+00:00">
+<div class="post" data-post-id="7333" data-author="nevulae" data-date="2005-06-19T09:38:02+00:00" data-subject="">
 
 wahahahahaahaa
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="20545" data-author="Medios" data-date="2007-10-01T23:41:21+00:00">
+<div class="post" data-post-id="20545" data-author="Medios" data-date="2007-10-01T23:41:21+00:00" data-subject="Texas House voting">
 
 [http://www.youtube.com/watch?v=eG6X-xtVask](http://www.youtube.com/watch?v=eG6X-xtVask)
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="32400" data-author="Sam" data-date="2011-02-06T12:23:07+00:00">
+<div class="post" data-post-id="32400" data-author="Sam" data-date="2011-02-06T12:23:07+00:00" data-subject="down">
 
 While sloth is down, what do we addict mudders do?
 
@@ -22,7 +22,7 @@ Yeah!
 
 </div>
 
-<div class="post" data-post-id="32401" data-author="Lunitary" data-date="2011-02-06T12:59:17+00:00">
+<div class="post" data-post-id="32401" data-author="Lunitary" data-date="2011-02-06T12:59:17+00:00" data-subject="Re: down">
 
 and when will Sloth be back on-line?
 

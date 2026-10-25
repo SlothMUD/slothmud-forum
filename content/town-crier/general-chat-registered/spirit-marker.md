@@ -10,31 +10,31 @@ locked: false
 post_count: 15
 ---
 
-<div class="post" data-post-id="15881" data-author="tincts" data-date="2007-01-01T05:07:16+00:00">
+<div class="post" data-post-id="15881" data-author="tincts" data-date="2007-01-01T05:07:16+00:00" data-subject="Spirit marker">
 
 This spell is cool, though I havn't found many practical applications for it.  Any chance of being able to vis your marker?
 
 </div>
 
-<div class="post" data-post-id="15903" data-author="kjartan" data-date="2007-01-02T18:23:16+00:00">
+<div class="post" data-post-id="15903" data-author="kjartan" data-date="2007-01-02T18:23:16+00:00" data-subject="">
 
 Well, maybe.  Why do you want to do that?
 
 </div>
 
-<div class="post" data-post-id="15904" data-author="gondor" data-date="2007-01-02T19:01:16+00:00">
+<div class="post" data-post-id="15904" data-author="gondor" data-date="2007-01-02T19:01:16+00:00" data-subject="">
 
 If we could vis the marker perhaps we could use to mark areas we might wish to check in on from time to time.  i.e. a location that spellbooks are generally dropped we could vis the marker and see if a spellbook we might need is there.
 
 </div>
 
-<div class="post" data-post-id="15905" data-author="kjartan" data-date="2007-01-02T19:11:30+00:00">
+<div class="post" data-post-id="15905" data-author="kjartan" data-date="2007-01-02T19:11:30+00:00" data-subject="">
 
 Yeah, that sounds reasonable.  I shall ask a second opinion from some other imms but probably I shall make it so you can vis markers.  If I do, the price is going up to 2 drachma per book.
 
 </div>
 
-<div class="post" data-post-id="15906" data-author="Autolycos" data-date="2007-01-02T19:32:40+00:00">
+<div class="post" data-post-id="15906" data-author="Autolycos" data-date="2007-01-02T19:32:40+00:00" data-subject="">
 
 ok.. i'm probably going out way on a limb here....
 
@@ -46,7 +46,7 @@ or at least 1 per continent?
 
 </div>
 
-<div class="post" data-post-id="15908" data-author="brand" data-date="2007-01-02T20:33:04+00:00">
+<div class="post" data-post-id="15908" data-author="brand" data-date="2007-01-02T20:33:04+00:00" data-subject="">
 
 i can't even see you way out there on that limb!
 
@@ -56,7 +56,7 @@ whats syntax for getting rid of these things?
 
 </div>
 
-<div class="post" data-post-id="15909" data-author="Autolycos" data-date="2007-01-02T20:35:48+00:00">
+<div class="post" data-post-id="15909" data-author="Autolycos" data-date="2007-01-02T20:35:48+00:00" data-subject="">
 
 cast 'dispel magic' brand
 
@@ -64,7 +64,7 @@ errr i mean rune  :evil:
 
 </div>
 
-<div class="post" data-post-id="15910" data-author="kjartan" data-date="2007-01-02T20:44:40+00:00">
+<div class="post" data-post-id="15910" data-author="kjartan" data-date="2007-01-02T20:44:40+00:00" data-subject="">
 
 but what about being able to relocate to your markers? 
 
@@ -74,7 +74,7 @@ That I can answer without a second opinion: no.
 
 </div>
 
-<div class="post" data-post-id="15911" data-author="Autolycos" data-date="2007-01-02T21:50:35+00:00">
+<div class="post" data-post-id="15911" data-author="Autolycos" data-date="2007-01-02T21:50:35+00:00" data-subject="">
 
 sniff sniff.....
 
@@ -82,19 +82,19 @@ ok i'm over it  :twisted:
 
 </div>
 
-<div class="post" data-post-id="15915" data-author="tincts" data-date="2007-01-03T00:45:35+00:00">
+<div class="post" data-post-id="15915" data-author="tincts" data-date="2007-01-03T00:45:35+00:00" data-subject="">
 
 Yeah, reason = what Gondor said.  Monitor an area, not necessarily a mob (ie. different use to spirit watcher.)  Could see uses in quests especially.  Thanks for considering :)
 
 </div>
 
-<div class="post" data-post-id="15917" data-author="tincts" data-date="2007-01-03T03:09:53+00:00">
+<div class="post" data-post-id="15917" data-author="tincts" data-date="2007-01-03T03:09:53+00:00" data-subject="">
 
 Actually, how about being able to vis your spirit watchers?
 
 </div>
 
-<div class="post" data-post-id="15922" data-author="Hades" data-date="2007-01-03T11:58:57+00:00">
+<div class="post" data-post-id="15922" data-author="Hades" data-date="2007-01-03T11:58:57+00:00" data-subject="Ye!!!   Do this">
 
 Being able to vis MOB repop without using a spirit watcher is gonna be cool.
 
@@ -102,7 +102,7 @@ I can't wait to see the many ways this will be ,how you say, resourceful :twiste
 
 </div>
 
-<div class="post" data-post-id="15938" data-author="Trupik" data-date="2007-01-03T17:47:12+00:00">
+<div class="post" data-post-id="15938" data-author="Trupik" data-date="2007-01-03T17:47:12+00:00" data-subject="">
 
 May be u shold make it to locate all the runes with same word in title instead of last created.
 
@@ -118,7 +118,7 @@ oh just found out.... we can locate 2.wtb :)
 
 </div>
 
-<div class="post" data-post-id="15939" data-author="Autolycos" data-date="2007-01-03T18:26:57+00:00">
+<div class="post" data-post-id="15939" data-author="Autolycos" data-date="2007-01-03T18:26:57+00:00" data-subject="">
 
 or i could make a rune thats called
 
@@ -126,7 +126,7 @@ STFU_Trupik  for which it could babble incoherently
 
 </div>
 
-<div class="post" data-post-id="15967" data-author="firebrand" data-date="2007-01-04T14:16:36+00:00">
+<div class="post" data-post-id="15967" data-author="firebrand" data-date="2007-01-04T14:16:36+00:00" data-subject="">
 
 Actually, how about being able to vis your spirit watchers?[/quote:gwictzkw]
 

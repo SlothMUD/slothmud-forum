@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="38783" data-author="Gorka" data-date="2018-05-20T08:41:07+00:00">
+<div class="post" data-post-id="38783" data-author="Gorka" data-date="2018-05-20T08:41:07+00:00" data-subject="Guidelines to appropriate levels of excitement in VMUD&#x27;s.">
 
 A Routers sponsored study into the excitement level of mudders to gaming situations has resulted in published guidelines to appropriate levels of excitement in integer collecting virtual multi user dungeons.
 

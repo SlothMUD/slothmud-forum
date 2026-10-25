@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="857" data-author="blackmore" data-date="2004-06-24T16:08:24+00:00">
+<div class="post" data-post-id="857" data-author="blackmore" data-date="2004-06-24T16:08:24+00:00" data-subject="A few questions">
 
 2 things I've noticed:
 
@@ -20,13 +20,13 @@ Also, when I'm at work, the 'remember me' button when I log on only occasionally
 
 </div>
 
-<div class="post" data-post-id="858" data-author="Weasel" data-date="2004-06-24T16:39:31+00:00">
+<div class="post" data-post-id="858" data-author="Weasel" data-date="2004-06-24T16:39:31+00:00" data-subject="">
 
 Are you on a LAN at work? It may be that the admins remotely clear the cookies and caches of all users periodically (among other things).
 
 </div>
 
-<div class="post" data-post-id="859" data-author="blackmore" data-date="2004-06-24T17:51:26+00:00">
+<div class="post" data-post-id="859" data-author="blackmore" data-date="2004-06-24T17:51:26+00:00" data-subject="">
 
 I'm in an office of 9 people.  The only thing our LAN administrator clears occasionally is the porn from his favorites.
 

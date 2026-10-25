@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="30556" data-author="*Splork*" data-date="2009-12-31T04:44:56+00:00">
+<div class="post" data-post-id="30556" data-author="*Splork*" data-date="2009-12-31T04:44:56+00:00" data-subject="Who List, December 30th, 2009">
 
 *Immortals of SlothMUD*
 
@@ -104,7 +104,7 @@ Highest total since last bootup: 39.
 
 </div>
 
-<div class="post" data-post-id="30600" data-author="DSF" data-date="2010-01-08T13:42:41+00:00">
+<div class="post" data-post-id="30600" data-author="DSF" data-date="2010-01-08T13:42:41+00:00" data-subject="">
 
 Hey! Just a week later and i'm 40 40 33 already! those of u that were above me...level up faster! So we can be stronger together! 
 

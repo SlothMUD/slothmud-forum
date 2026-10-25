@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="8824" data-author="*Splork*" data-date="2005-09-25T20:21:11+00:00">
+<div class="post" data-post-id="8824" data-author="*Splork*" data-date="2005-09-25T20:21:11+00:00" data-subject="MCCP &amp;amp; MXP added to SlothMUD">
 
 We have added MCCP and MXP support.
 

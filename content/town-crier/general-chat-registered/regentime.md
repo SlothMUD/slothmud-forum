@@ -10,7 +10,7 @@ locked: false
 post_count: 49
 ---
 
-<div class="post" data-post-id="9994" data-author="Pine" data-date="2006-01-07T12:12:50+00:00">
+<div class="post" data-post-id="9994" data-author="Pine" data-date="2006-01-07T12:12:50+00:00" data-subject="regentime">
 
 I have been noticing lately that I spend more time regenning than I do actually playing.  A lot of it has to do with having to prep with several spells to get ready for a run, which only lasts a tick or maybe 2 because my mana depletes so fast(when I have to use breathe weapons).  So I have a thought to cut down on prep time.
 
@@ -20,31 +20,31 @@ Other thought, maybe tangle vines' grapple ability could increase in level with 
 
 </div>
 
-<div class="post" data-post-id="9998" data-author="Weasel" data-date="2006-01-07T19:06:45+00:00">
+<div class="post" data-post-id="9998" data-author="Weasel" data-date="2006-01-07T19:06:45+00:00" data-subject="">
 
 I mentioned a similar thing recently re spending too much time regenning- the recent mob saves fix I guess is making runs a lot shorter for me now - I can't hit as much as I used to without needing a regen. Spending so much of the time just sitting at the keyboard regenning is making gameplay relatively boring - not a good thing. Don't really know what can be done - somehow I doubt coders will 'un-fix' the mob saves thing that was recently fixed, and I doubt they will increase regen rates. This of course is in reference to solo runs, not group running. Anyone else noticing the increased frequency of regenning?
 
 </div>
 
-<div class="post" data-post-id="10001" data-author="12345" data-date="2006-01-07T23:54:05+00:00">
+<div class="post" data-post-id="10001" data-author="12345" data-date="2006-01-07T23:54:05+00:00" data-subject="">
 
 Regen isn't one of my favorite things, but that would mostly explain why I have 2 characters that pretty much don't regen.  If you can put together and run a good group, you can sometimes make regen a very rare event. Or if you're Mike, figure out how to avoid it altogether.
 
 </div>
 
-<div class="post" data-post-id="10002" data-author="Medios" data-date="2006-01-08T00:02:12+00:00">
+<div class="post" data-post-id="10002" data-author="Medios" data-date="2006-01-08T00:02:12+00:00" data-subject="">
 
 Explain this regen u speak of?
 
 </div>
 
-<div class="post" data-post-id="10003" data-author="blackmore" data-date="2006-01-08T02:05:12+00:00">
+<div class="post" data-post-id="10003" data-author="blackmore" data-date="2006-01-08T02:05:12+00:00" data-subject="">
 
 It's what the leader calls for when needing another beer.
 
 </div>
 
-<div class="post" data-post-id="10004" data-author="Weasel" data-date="2006-01-08T02:05:25+00:00">
+<div class="post" data-post-id="10004" data-author="Weasel" data-date="2006-01-08T02:05:25+00:00" data-subject="">
 
 Regen isn't one of my favorite things, but that would mostly explain why I have 2 characters that pretty much don't regen.  If you can put together and run a good group, you can sometimes make regen a very rare event. Or if you're Mike, figure out how to avoid it altogether.[/quote:2u9zgxuo]
 
@@ -58,7 +58,7 @@ Whatever, I'm just blabbering. So anyway, how do you have chars that never regen
 
 </div>
 
-<div class="post" data-post-id="10005" data-author="12345" data-date="2006-01-08T02:23:27+00:00">
+<div class="post" data-post-id="10005" data-author="12345" data-date="2006-01-08T02:23:27+00:00" data-subject="">
 
 I have chars that don't blast.  The spells I use usually last about 24 ticks or so and I regen hps like candy.  I have no mana regen and I pretty much don't care.  If I'm on BH I usually pop into T&D for short periods if I get especially beat up.
 
@@ -66,7 +66,7 @@ And if there's no groups, that usually just makes it easier for me to start one 
 
 </div>
 
-<div class="post" data-post-id="10006" data-author="Weasel" data-date="2006-01-08T02:40:23+00:00">
+<div class="post" data-post-id="10006" data-author="Weasel" data-date="2006-01-08T02:40:23+00:00" data-subject="">
 
 so just pound down fat mobs that dont do much damage in rounds? joy. T&D getting notorious for pthieving so I hear.. altho just get changed elsewhere and don't carry any coins I guess. What classo btw? 
 
@@ -74,7 +74,7 @@ so just pound down fat mobs that dont do much damage in rounds? joy. T&D getting
 
 </div>
 
-<div class="post" data-post-id="10007" data-author="12345" data-date="2006-01-08T02:53:39+00:00">
+<div class="post" data-post-id="10007" data-author="12345" data-date="2006-01-08T02:53:39+00:00" data-subject="">
 
 I do quite a bit of damage.
 
@@ -86,7 +86,7 @@ Have to pick mobs carefully without blasting, but I don't seem to have much trou
 
 </div>
 
-<div class="post" data-post-id="10008" data-author="Weasel" data-date="2006-01-08T03:01:10+00:00">
+<div class="post" data-post-id="10008" data-author="Weasel" data-date="2006-01-08T03:01:10+00:00" data-subject="">
 
 CF? Ack I used to hate that place - died so many times there.. mind you, I was a lot smaller back then heh.
 
@@ -96,7 +96,7 @@ Thanks for the info :)
 
 </div>
 
-<div class="post" data-post-id="10009" data-author="Pine" data-date="2006-01-08T05:39:41+00:00">
+<div class="post" data-post-id="10009" data-author="Pine" data-date="2006-01-08T05:39:41+00:00" data-subject="">
 
 Re groups vs. solo, my comments were talking about regenning while solo.  Playing in groups is very nice and regen is not a problem.  I, like Weasel though, can't commit to participate in a group very often.   Solo-ing takes too much time in Sloth in my opinion. 
 
@@ -114,7 +114,7 @@ Anyway, Sloth is a great game, hopefully something can be done to speed things u
 
 </div>
 
-<div class="post" data-post-id="10011" data-author="Guinex" data-date="2006-01-08T08:53:39+00:00">
+<div class="post" data-post-id="10011" data-author="Guinex" data-date="2006-01-08T08:53:39+00:00" data-subject="">
 
 No offense 12345 but you must do some shitty ass exp runs doing that.
 
@@ -122,7 +122,7 @@ No offense 12345 but you must do some shitty ass exp runs doing that.
 
 </div>
 
-<div class="post" data-post-id="10019" data-author="*Splork*" data-date="2006-01-08T16:22:41+00:00">
+<div class="post" data-post-id="10019" data-author="*Splork*" data-date="2006-01-08T16:22:41+00:00" data-subject="">
 
 I mentioned a similar thing recently re spending too much time regenning- the recent mob saves fix I guess is making runs a lot shorter for me now - I can't hit as much as I used to without needing a regen. Spending so much of the time just sitting at the keyboard regenning is making gameplay relatively boring - not a good thing. Don't really know what can be done - somehow I doubt coders will 'un-fix' the mob saves thing that was recently fixed, and I doubt they will increase regen rates. This of course is in reference to solo runs, not group running. Anyone else noticing the increased frequency of regenning?[/quote:m0eap244]
 
@@ -134,25 +134,25 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="10020" data-author="Weasel" data-date="2006-01-08T16:41:13+00:00">
+<div class="post" data-post-id="10020" data-author="Weasel" data-date="2006-01-08T16:41:13+00:00" data-subject="">
 
 Strange.. wonder what it is then. I know Oly wasn't touched, so it's not an area thing. Certainly mobs are harder to kill there than they were a few weeks back before those changes that were reversed...
 
 </div>
 
-<div class="post" data-post-id="10021" data-author="Vixn" data-date="2006-01-08T16:58:21+00:00">
+<div class="post" data-post-id="10021" data-author="Vixn" data-date="2006-01-08T16:58:21+00:00" data-subject="">
 
 You just became a decrepit old xopek so now it's so hard for you. *giggle*
 
 </div>
 
-<div class="post" data-post-id="10022" data-author="Weasel" data-date="2006-01-08T17:49:40+00:00">
+<div class="post" data-post-id="10022" data-author="Weasel" data-date="2006-01-08T17:49:40+00:00" data-subject="">
 
 hehe yeah probably.
 
 </div>
 
-<div class="post" data-post-id="10025" data-author="12345" data-date="2006-01-08T21:17:48+00:00">
+<div class="post" data-post-id="10025" data-author="12345" data-date="2006-01-08T21:17:48+00:00" data-subject="">
 
 No offense 12345 but you must do some shitty ass exp runs doing that.
 
@@ -164,19 +164,19 @@ I do some of my best work in 2-man groups.  With a Cipha or a Rynquald following
 
 </div>
 
-<div class="post" data-post-id="10027" data-author="Krok" data-date="2006-01-09T13:53:18+00:00">
+<div class="post" data-post-id="10027" data-author="Krok" data-date="2006-01-09T13:53:18+00:00" data-subject="">
 
 Maybe if you are impatient to regen or cycle a mob it's time for you to play tetris, huh?)
 
 </div>
 
-<div class="post" data-post-id="10029" data-author="Weasel" data-date="2006-01-09T16:32:46+00:00">
+<div class="post" data-post-id="10029" data-author="Weasel" data-date="2006-01-09T16:32:46+00:00" data-subject="">
 
 Gee that was a helpful comment. Actually, sometimes I DO play tetris while I'm regenning. Go figure.
 
 </div>
 
-<div class="post" data-post-id="10030" data-author="12345" data-date="2006-01-09T17:56:53+00:00">
+<div class="post" data-post-id="10030" data-author="12345" data-date="2006-01-09T17:56:53+00:00" data-subject="">
 
 Actually Weasel, I've been learning some of Lyme lately.  Ran a 2-3 man group there and managed to keep a steady flow of xp coming in.  All grouped weren't unpleased.  Also took a crack at a 3 man chop group that was rather short lived because I had to rent.  Managed to drag down a 30 mil mob before we were forced to regen.
 
@@ -188,7 +188,7 @@ I'm sure Weasel runs at much better than -9 and the +10 damage that I do.  Small
 
 </div>
 
-<div class="post" data-post-id="10031" data-author="Weasel" data-date="2006-01-09T18:43:00+00:00">
+<div class="post" data-post-id="10031" data-author="Weasel" data-date="2006-01-09T18:43:00+00:00" data-subject="">
 
 As I mentioned before, I agree re groups - regen is not really an issue - I was, as were others, referring to soloing only, for reasons already given.
 
@@ -196,7 +196,7 @@ As I mentioned before, I agree re groups - regen is not really an issue - I was,
 
 </div>
 
-<div class="post" data-post-id="10032" data-author="Krok" data-date="2006-01-09T19:20:05+00:00">
+<div class="post" data-post-id="10032" data-author="Krok" data-date="2006-01-09T19:20:05+00:00" data-subject="">
 
 I just don't get the problem. Regen always existed and will exist, soo? 
 
@@ -206,7 +206,7 @@ And yeah, most of us read news, chat or whatever while regening. Not that you ha
 
 </div>
 
-<div class="post" data-post-id="10034" data-author="Autolycos" data-date="2006-01-09T20:59:49+00:00">
+<div class="post" data-post-id="10034" data-author="Autolycos" data-date="2006-01-09T20:59:49+00:00" data-subject="">
 
 a simply wonderful suggestion,  although my regen set still needs work..   
 
@@ -216,7 +216,7 @@ btw i will be taking reservations  :twisted:
 
 </div>
 
-<div class="post" data-post-id="10035" data-author="Guinex" data-date="2006-01-09T21:09:59+00:00">
+<div class="post" data-post-id="10035" data-author="Guinex" data-date="2006-01-09T21:09:59+00:00" data-subject="">
 
 Where are you taking me out to Autuo?
 
@@ -224,7 +224,7 @@ Where are you taking me out to Autuo?
 
 </div>
 
-<div class="post" data-post-id="10036" data-author="Autolycos" data-date="2006-01-09T21:26:10+00:00">
+<div class="post" data-post-id="10036" data-author="Autolycos" data-date="2006-01-09T21:26:10+00:00" data-subject="">
 
 Demo meet Guinex,
 
@@ -234,7 +234,7 @@ toss guinex west
 
 </div>
 
-<div class="post" data-post-id="10037" data-author="dt" data-date="2006-01-09T23:02:35+00:00">
+<div class="post" data-post-id="10037" data-author="dt" data-date="2006-01-09T23:02:35+00:00" data-subject="12345">
 
 Posted by 12345 below,directly quoted:
 
@@ -248,13 +248,13 @@ I blame Splork
 
 </div>
 
-<div class="post" data-post-id="10038" data-author="12345" data-date="2006-01-09T23:54:04+00:00">
+<div class="post" data-post-id="10038" data-author="12345" data-date="2006-01-09T23:54:04+00:00" data-subject="">
 
 It'd be nice without the 5 mil caps.  Quicker xp to chain smaller mobs and avoid regen though.
 
 </div>
 
-<div class="post" data-post-id="10039" data-author="Weasel" data-date="2006-01-10T00:41:36+00:00">
+<div class="post" data-post-id="10039" data-author="Weasel" data-date="2006-01-10T00:41:36+00:00" data-subject="">
 
 I just don't get the problem. Regen always existed and will exist, soo? 
 
@@ -266,25 +266,25 @@ read the whole thread. the original comments were regarding how recently many so
 
 </div>
 
-<div class="post" data-post-id="10040" data-author="Krok" data-date="2006-01-10T02:19:40+00:00">
+<div class="post" data-post-id="10040" data-author="Krok" data-date="2006-01-10T02:19:40+00:00" data-subject="">
 
 shrugs.. you using winds still? maybe fbolts rock more there
 
 </div>
 
-<div class="post" data-post-id="10041" data-author="Weasel" data-date="2006-01-10T03:19:10+00:00">
+<div class="post" data-post-id="10041" data-author="Weasel" data-date="2006-01-10T03:19:10+00:00" data-subject="">
 
 Yeah possibly - haven't popped the books yet.
 
 </div>
 
-<div class="post" data-post-id="10044" data-author="Mace" data-date="2006-01-10T06:16:15+00:00">
+<div class="post" data-post-id="10044" data-author="Mace" data-date="2006-01-10T06:16:15+00:00" data-subject="">
 
 That is probably a fair bit of the difference then. Frostbolt appears to be slighty weaker than the old firewind, and now firewind is weaker than frostbolt.
 
 </div>
 
-<div class="post" data-post-id="10049" data-author="*Splork*" data-date="2006-01-10T11:35:58+00:00">
+<div class="post" data-post-id="10049" data-author="*Splork*" data-date="2006-01-10T11:35:58+00:00" data-subject="">
 
 Frostbolt is quite a bit more powerful than the old firewind. But yes, firewind was lowered slightly to make up the gap between thunder clap and frostbolt.
 
@@ -296,25 +296,25 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="10068" data-author="Weasel" data-date="2006-01-10T20:05:02+00:00">
+<div class="post" data-post-id="10068" data-author="Weasel" data-date="2006-01-10T20:05:02+00:00" data-subject="">
 
 Ok great, that really answers it then :)  I had heard frostbolt was the new spell of choice, but I didn't realize firewind damage had been lowered from what it was. Thanks.  :)
 
 </div>
 
-<div class="post" data-post-id="10074" data-author="Weasel" data-date="2006-01-11T10:19:22+00:00">
+<div class="post" data-post-id="10074" data-author="Weasel" data-date="2006-01-11T10:19:22+00:00" data-subject="">
 
 Splork - has firestorm been nerfed a little as well, or just firewind?
 
 </div>
 
-<div class="post" data-post-id="10076" data-author="12345" data-date="2006-01-11T12:43:29+00:00">
+<div class="post" data-post-id="10076" data-author="12345" data-date="2006-01-11T12:43:29+00:00" data-subject="">
 
 The spells are the same Weasel.  Firestorm just tosses a firewind at everything in the room.
 
 </div>
 
-<div class="post" data-post-id="10077" data-author="Weasel" data-date="2006-01-11T13:05:21+00:00">
+<div class="post" data-post-id="10077" data-author="Weasel" data-date="2006-01-11T13:05:21+00:00" data-subject="">
 
 Yeah I realize firestorm is an area version of firewind *stare* but that didn't neccessarily mean they were effected by the same tweaking.
 
@@ -322,7 +322,7 @@ So in other words 12345, yes, firestorm has also been nerfed then. I wonder if a
 
 </div>
 
-<div class="post" data-post-id="10079" data-author="12345" data-date="2006-01-11T14:30:47+00:00">
+<div class="post" data-post-id="10079" data-author="12345" data-date="2006-01-11T14:30:47+00:00" data-subject="">
 
 Laugh, I wasn't trying to be insulting, I actually meant it's the same spell.  Firestorm doesn't have any code of it's own other that to identify all the targets and cast firewind at them.  Any changes applied to the base spell affects the area spell by definition.
 
@@ -332,19 +332,19 @@ But yes, every mass spell is exactly like casting multiple versions of whatever 
 
 </div>
 
-<div class="post" data-post-id="10080" data-author="Weasel" data-date="2006-01-11T15:55:03+00:00">
+<div class="post" data-post-id="10080" data-author="Weasel" data-date="2006-01-11T15:55:03+00:00" data-subject="">
 
 Kewl - yet another thing I wasn't sure of one way or the other regarding the coding on sloth. Cheers.
 
 </div>
 
-<div class="post" data-post-id="10118" data-author="Weasel" data-date="2006-01-13T14:22:48+00:00">
+<div class="post" data-post-id="10118" data-author="Weasel" data-date="2006-01-13T14:22:48+00:00" data-subject="">
 
 hmm. Well so far frostbolt just seems to use my mana up a little faster (28 mana per cast instead of 25) - running Oly has not improved back to near where what it was on most runs for me I'm sorry to say. My last run got me most of the way through the ground level before I needed to full regen again.. pretty pathetic really ..not that this post will make the slightest bit of difference. I guess grouping is more and more becoming the only way to play sloth anymore if you don't want to become bored to tears hitting smaller mobs and/or spending most of your time regenning, and grouping may well exclude a significant number of players. Sad we don't have much say in it. One man's vision huh..
 
 </div>
 
-<div class="post" data-post-id="10124" data-author="*Splork*" data-date="2006-01-13T22:55:21+00:00">
+<div class="post" data-post-id="10124" data-author="*Splork*" data-date="2006-01-13T22:55:21+00:00" data-subject="">
 
 I will lower the mana cost to 25 mana for frostbolt.
 
@@ -356,13 +356,13 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="10134" data-author="Weasel" data-date="2006-01-14T21:40:27+00:00">
+<div class="post" data-post-id="10134" data-author="Weasel" data-date="2006-01-14T21:40:27+00:00" data-subject="">
 
 Thanks, appreciate it. Still can't quite figure why my runs are so severely effected now though - running at about 50% of what I used to in Oly still.. has parry been nerfed? I can't figure out what else is causing it if Oly hasn't been changed and saves have not been changed..
 
 </div>
 
-<div class="post" data-post-id="10313" data-author="Teron" data-date="2006-01-24T14:17:28+00:00">
+<div class="post" data-post-id="10313" data-author="Teron" data-date="2006-01-24T14:17:28+00:00" data-subject="">
 
 parry has been made level dependant or nerfed (it doesnt work 90% of times like it used to).
 
@@ -382,7 +382,7 @@ Take this solo/group exp split performed lately. Now one has to either suffer ha
 
 </div>
 
-<div class="post" data-post-id="10323" data-author="*Splork*" data-date="2006-01-24T22:29:16+00:00">
+<div class="post" data-post-id="10323" data-author="*Splork*" data-date="2006-01-24T22:29:16+00:00" data-subject="">
 
 Not sure where that information came from Teron but...
 
@@ -396,7 +396,7 @@ On a side note, we are busy working on more skills for the non caster classes. A
 
 </div>
 
-<div class="post" data-post-id="10329" data-author="grantis" data-date="2006-01-25T09:26:02+00:00">
+<div class="post" data-post-id="10329" data-author="grantis" data-date="2006-01-25T09:26:02+00:00" data-subject="New Warrior Skills Ideas">
 
 Feel free to flame these ideas to bits but here goes......
 
@@ -430,7 +430,7 @@ Lasts 3 ticks, with this skill activated everytime the warrior kills an opponent
 
 </div>
 
-<div class="post" data-post-id="10331" data-author="Vixn" data-date="2006-01-25T11:21:57+00:00">
+<div class="post" data-post-id="10331" data-author="Vixn" data-date="2006-01-25T11:21:57+00:00" data-subject="Re: New Warrior Skills Ideas">
 
 Dual Wield
 
@@ -448,13 +448,13 @@ Don't want to be sarcastic, I hope there will be more useful skills for old non-
 
 </div>
 
-<div class="post" data-post-id="10333" data-author="Grue" data-date="2006-01-25T13:04:32+00:00">
+<div class="post" data-post-id="10333" data-author="Grue" data-date="2006-01-25T13:04:32+00:00" data-subject="">
 
 Wrestle sounds more like a monk skill the way monks have been positioned in Sloth. Alsodon;t see how you could do this and have a sword or shield.
 
 </div>
 
-<div class="post" data-post-id="10334" data-author="grantis" data-date="2006-01-25T13:29:05+00:00">
+<div class="post" data-post-id="10334" data-author="grantis" data-date="2006-01-25T13:29:05+00:00" data-subject="">
 
 I can see what you mean about wrestle, however I would assume a monk would be able to damage his opponent when fighting (aka ultimate fighting championship). Whereas a warrior is just trying to use brute force to stop his opponent moving around. Maybe make it so you can't have weapon or shield to use it, making it kinda dangerous to use, but once you have your opponent pinned the rest of the group could beat the living shit out of your opponent.
 
@@ -462,7 +462,7 @@ On the dual wield point, I think that would make it way too high level to sudden
 
 </div>
 
-<div class="post" data-post-id="10337" data-author="12345" data-date="2006-01-25T14:32:25+00:00">
+<div class="post" data-post-id="10337" data-author="12345" data-date="2006-01-25T14:32:25+00:00" data-subject="">
 
 I know the game only loosely follows AD&D, but typically dual wield only gives a single extra attack per round.  Fighting with your off hand is ackward unless you're skilled in fighting Florentine.
 
@@ -478,7 +478,7 @@ Thieves prefer stealth to fighting toe to toe, so on those occasions they must, 
 
 </div>
 
-<div class="post" data-post-id="10338" data-author="Teron" data-date="2006-01-25T15:29:34+00:00">
+<div class="post" data-post-id="10338" data-author="Teron" data-date="2006-01-25T15:29:34+00:00" data-subject="">
 
 well regarding parry I was judging by my own experience.
 

@@ -10,7 +10,7 @@ locked: false
 post_count: 54
 ---
 
-<div class="post" data-post-id="33473" data-author="*Splork*" data-date="2012-08-25T03:29:07+00:00">
+<div class="post" data-post-id="33473" data-author="*Splork*" data-date="2012-08-25T03:29:07+00:00" data-subject="Game down, DDOS attack">
 
 Somebody is pissed off at us and we have no other option than to let the child play his games. Sloth will be back once the offender gives up.
 
@@ -24,7 +24,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33474" data-author="*Splork*" data-date="2012-08-25T04:07:12+00:00">
+<div class="post" data-post-id="33474" data-author="*Splork*" data-date="2012-08-25T04:07:12+00:00" data-subject="Re: Game down, DDOS attack">
 
 Jake worked some magic and we are alive, once again.
 
@@ -34,19 +34,19 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33476" data-author="Tuck" data-date="2012-08-25T06:57:29+00:00">
+<div class="post" data-post-id="33476" data-author="Tuck" data-date="2012-08-25T06:57:29+00:00" data-subject="Re: Game down, DDOS attack">
 
 Thanks Jake.
 
 </div>
 
-<div class="post" data-post-id="33477" data-author="Sleeping Forest" data-date="2012-08-25T10:35:12+00:00">
+<div class="post" data-post-id="33477" data-author="Sleeping Forest" data-date="2012-08-25T10:35:12+00:00" data-subject="Re: Game down, DDOS attack">
 
 looks like were down again... :(
 
 </div>
 
-<div class="post" data-post-id="33478" data-author="jezer" data-date="2012-08-25T10:42:28+00:00">
+<div class="post" data-post-id="33478" data-author="jezer" data-date="2012-08-25T10:42:28+00:00" data-subject="Re: Game down, DDOS attack">
 
 Dear Disgruntled Player,
 
@@ -56,7 +56,7 @@ Jezer
 
 </div>
 
-<div class="post" data-post-id="33479" data-author="Yasik" data-date="2012-08-25T12:59:43+00:00">
+<div class="post" data-post-id="33479" data-author="Yasik" data-date="2012-08-25T12:59:43+00:00" data-subject="Re: Game down, DDOS attack">
 
 huh huhhuh, he said 'bush'  :P
 
@@ -66,13 +66,13 @@ A ddos attack is not something a lone disgrunted player can set up, unless he/sh
 
 </div>
 
-<div class="post" data-post-id="33480" data-author="Burl" data-date="2012-08-25T13:40:12+00:00">
+<div class="post" data-post-id="33480" data-author="Burl" data-date="2012-08-25T13:40:12+00:00" data-subject="Re: Game down, DDOS attack">
 
 The CG residents are pretty much convinced Jezer has gotten himself lost in the NZ bush and are currently mounting a search party of their own!
 
 </div>
 
-<div class="post" data-post-id="33481" data-author="*Splork*" data-date="2012-08-25T14:06:11+00:00">
+<div class="post" data-post-id="33481" data-author="*Splork*" data-date="2012-08-25T14:06:11+00:00" data-subject="Re: Game down, DDOS attack">
 
 Here is a partial list of offending IPS:
 
@@ -128,13 +128,13 @@ Here is a partial list of offending IPS:
 
 </div>
 
-<div class="post" data-post-id="33485" data-author="*juggleblood*" data-date="2012-08-25T15:05:52+00:00">
+<div class="post" data-post-id="33485" data-author="*juggleblood*" data-date="2012-08-25T15:05:52+00:00" data-subject="Re: Game down, DDOS attack">
 
 This is so lame. Can they keep us down indefinitely?
 
 </div>
 
-<div class="post" data-post-id="33488" data-author="*Splork*" data-date="2012-08-25T15:53:33+00:00">
+<div class="post" data-post-id="33488" data-author="*Splork*" data-date="2012-08-25T15:53:33+00:00" data-subject="Re: Game down, DDOS attack">
 
 We are working on a couple of solutions, obviously we can not say much here because its quite targeted towards our specific game and ports.
 
@@ -148,7 +148,7 @@ Keep voting on TMC, my guess is its a player or admin from another game or a dis
 
 </div>
 
-<div class="post" data-post-id="33489" data-author="Ezekiel" data-date="2012-08-25T16:51:07+00:00">
+<div class="post" data-post-id="33489" data-author="Ezekiel" data-date="2012-08-25T16:51:07+00:00" data-subject="Re: Game down, DDOS attack">
 
 We are #1 on tmc by 7 votes. Keep voting people- if this attack has been set upon us by another mud, we can at least reverse their expected effect. (Albeit, I think it is likely a disgruntled char that has too much time on their hands.)
 
@@ -158,13 +158,13 @@ What kind of lame person does this anyway? Grow up.
 
 </div>
 
-<div class="post" data-post-id="33490" data-author="war" data-date="2012-08-25T17:04:30+00:00">
+<div class="post" data-post-id="33490" data-author="war" data-date="2012-08-25T17:04:30+00:00" data-subject="Re: Game down, DDOS attack">
 
 The question I have is/has this happening to other muds also, or are we the only mud under attack by the man with a tiny pp?
 
 </div>
 
-<div class="post" data-post-id="33491" data-author="Yasik" data-date="2012-08-25T17:21:30+00:00">
+<div class="post" data-post-id="33491" data-author="Yasik" data-date="2012-08-25T17:21:30+00:00" data-subject="Re: Game down, DDOS attack">
 
 TMC rank: 1 
 
@@ -172,7 +172,7 @@ Quite an achievement for a mud that's offline. We can't respond to your pings ov
 
 </div>
 
-<div class="post" data-post-id="33492" data-author="Ker" data-date="2012-08-25T17:27:56+00:00">
+<div class="post" data-post-id="33492" data-author="Ker" data-date="2012-08-25T17:27:56+00:00" data-subject="Re: Game down, DDOS attack">
 
 Voted!
 
@@ -184,7 +184,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="33493" data-author="Tuck" data-date="2012-08-25T17:39:48+00:00">
+<div class="post" data-post-id="33493" data-author="Tuck" data-date="2012-08-25T17:39:48+00:00" data-subject="Re: Game down, DDOS attack">
 
 may i see info on ddos attack by email? there is many things to filter them out. Or route IP to my hardware cisco that can block them all.
 
@@ -194,7 +194,7 @@ Thanks Splork and Jake
 
 </div>
 
-<div class="post" data-post-id="33495" data-author="jezer" data-date="2012-08-25T22:41:46+00:00">
+<div class="post" data-post-id="33495" data-author="jezer" data-date="2012-08-25T22:41:46+00:00" data-subject="Re: Game down, DDOS attack">
 
 > **Burl wrote:**
 > The CG residents are pretty much convinced Jezer has gotten himself lost in the NZ bush and are currently mounting a search party of their own!
@@ -203,13 +203,13 @@ I'll be back you mother suffering seahogs!  :twisted:
 
 </div>
 
-<div class="post" data-post-id="33509" data-author="Dragoth" data-date="2012-08-26T11:35:47+00:00">
+<div class="post" data-post-id="33509" data-author="Dragoth" data-date="2012-08-26T11:35:47+00:00" data-subject="Re: Game down, DDOS attack">
 
 And down we go again ?
 
 </div>
 
-<div class="post" data-post-id="33510" data-author="jezer" data-date="2012-08-26T11:55:33+00:00">
+<div class="post" data-post-id="33510" data-author="jezer" data-date="2012-08-26T11:55:33+00:00" data-subject="Re: Game down, DDOS attack">
 
 Love it! Straight from Who is Online from the website...
 
@@ -225,13 +225,13 @@ Highest total since last bootup: 1.
 
 </div>
 
-<div class="post" data-post-id="33511" data-author="Dragoth" data-date="2012-08-26T12:10:52+00:00">
+<div class="post" data-post-id="33511" data-author="Dragoth" data-date="2012-08-26T12:10:52+00:00" data-subject="Re: Game down, DDOS attack">
 
 Ouch, that's uncool.
 
 </div>
 
-<div class="post" data-post-id="33512" data-author="Nyx" data-date="2012-08-26T12:16:41+00:00">
+<div class="post" data-post-id="33512" data-author="Nyx" data-date="2012-08-26T12:16:41+00:00" data-subject="Re: Game down, DDOS attack">
 
 7 minutes since bootup.
 
@@ -239,7 +239,7 @@ And I'm all by myself :shock:
 
 </div>
 
-<div class="post" data-post-id="33513" data-author="Nyx" data-date="2012-08-26T12:19:45+00:00">
+<div class="post" data-post-id="33513" data-author="Nyx" data-date="2012-08-26T12:19:45+00:00" data-subject="Re: Game down, DDOS attack">
 
 The lag is creeping up again and I'm getting that uncomfortable feeling 
 
@@ -249,7 +249,7 @@ Save failed. Please try to save again.
 
 </div>
 
-<div class="post" data-post-id="33514" data-author="Ker" data-date="2012-08-26T12:36:54+00:00">
+<div class="post" data-post-id="33514" data-author="Ker" data-date="2012-08-26T12:36:54+00:00" data-subject="Re: Game down, DDOS attack">
 
 When I saw this :
 
@@ -265,7 +265,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="33518" data-author="Ker" data-date="2012-08-26T17:39:51+00:00">
+<div class="post" data-post-id="33518" data-author="Ker" data-date="2012-08-26T17:39:51+00:00" data-subject="Re: Game down, DDOS attack">
 
 Good day,
 
@@ -277,7 +277,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="33519" data-author="Tuck" data-date="2012-08-26T18:41:39+00:00">
+<div class="post" data-post-id="33519" data-author="Tuck" data-date="2012-08-26T18:41:39+00:00" data-subject="Re: Game down, DDOS attack">
 
 Game running OK on port 6102
 
@@ -323,7 +323,7 @@ God bless Jake and Splork
 
 </div>
 
-<div class="post" data-post-id="33521" data-author="jezer" data-date="2012-08-26T21:26:51+00:00">
+<div class="post" data-post-id="33521" data-author="jezer" data-date="2012-08-26T21:26:51+00:00" data-subject="Re: Game down, DDOS attack">
 
 Is the game down or what? I notice the online who list changes but I can't get in.
 
@@ -331,13 +331,13 @@ Which port are we using now?
 
 </div>
 
-<div class="post" data-post-id="33522" data-author="*Splork*" data-date="2012-08-26T21:35:15+00:00">
+<div class="post" data-post-id="33522" data-author="*Splork*" data-date="2012-08-26T21:35:15+00:00" data-subject="Re: Game down, DDOS attack">
 
 6101
 
 </div>
 
-<div class="post" data-post-id="33523" data-author="Ker" data-date="2012-08-27T13:27:53+00:00">
+<div class="post" data-post-id="33523" data-author="Ker" data-date="2012-08-27T13:27:53+00:00" data-subject="Re: Game down, DDOS attack">
 
 Game Down ? 
 
@@ -349,7 +349,7 @@ WinSock error 10060: Connection timed out
 
 </div>
 
-<div class="post" data-post-id="33524" data-author="Tuck" data-date="2012-08-27T13:29:04+00:00">
+<div class="post" data-post-id="33524" data-author="Tuck" data-date="2012-08-27T13:29:04+00:00" data-subject="Re: Game down, DDOS attack">
 
 port 6101
 
@@ -383,7 +383,7 @@ help!
 
 </div>
 
-<div class="post" data-post-id="33525" data-author="Nyx" data-date="2012-08-27T13:30:32+00:00">
+<div class="post" data-post-id="33525" data-author="Nyx" data-date="2012-08-27T13:30:32+00:00" data-subject="Re: Game down, DDOS attack">
 
 I'm not sure what the issue is but there are problems connecting to the game tonight.
 
@@ -407,19 +407,19 @@ I managed one successful connection (with the Flash client) and everything was w
 
 </div>
 
-<div class="post" data-post-id="33526" data-author="Tuck" data-date="2012-08-27T13:37:23+00:00">
+<div class="post" data-post-id="33526" data-author="Tuck" data-date="2012-08-27T13:37:23+00:00" data-subject="Re: Game down, DDOS attack">
 
 Please post more. We need moar info!
 
 </div>
 
-<div class="post" data-post-id="33527" data-author="kalidor" data-date="2012-08-27T14:42:03+00:00">
+<div class="post" data-post-id="33527" data-author="kalidor" data-date="2012-08-27T14:42:03+00:00" data-subject="Re: Game down, DDOS attack">
 
 is more DDOS :(
 
 </div>
 
-<div class="post" data-post-id="33528" data-author="Poi" data-date="2012-08-27T15:00:36+00:00">
+<div class="post" data-post-id="33528" data-author="Poi" data-date="2012-08-27T15:00:36+00:00" data-subject="Re: Game down, DDOS attack">
 
 Attempting connection to game.slothmud.org...
 
@@ -429,13 +429,13 @@ The connection has been refused.  This service may currently be down or unrespon
 
 </div>
 
-<div class="post" data-post-id="33529" data-author="Dasseem" data-date="2012-08-27T16:10:18+00:00">
+<div class="post" data-post-id="33529" data-author="Dasseem" data-date="2012-08-27T16:10:18+00:00" data-subject="Re: Game down, DDOS attack">
 
 so yea, i havent been able to connect for like 3 hours, the website says ppl are on. anything i can do?
 
 </div>
 
-<div class="post" data-post-id="33530" data-author="Yasik" data-date="2012-08-27T16:19:02+00:00">
+<div class="post" data-post-id="33530" data-author="Yasik" data-date="2012-08-27T16:19:02+00:00" data-subject="Re: Game down, DDOS attack">
 
 wh
 
@@ -473,7 +473,7 @@ Not to g.slothmud.org, not to 209.139.208.65, and so on.
 
 </div>
 
-<div class="post" data-post-id="33531" data-author="kalidor" data-date="2012-08-27T16:36:51+00:00">
+<div class="post" data-post-id="33531" data-author="kalidor" data-date="2012-08-27T16:36:51+00:00" data-subject="Re: Game down, DDOS attack">
 
 tried on this still no luck.
 
@@ -496,7 +496,7 @@ tried on this still no luck.
 
 </div>
 
-<div class="post" data-post-id="33532" data-author="Tuck" data-date="2012-08-27T17:19:43+00:00">
+<div class="post" data-post-id="33532" data-author="Tuck" data-date="2012-08-27T17:19:43+00:00" data-subject="Re: Game down, DDOS attack">
 
 yeah, can't connect too from different sources
 
@@ -504,13 +504,13 @@ what can we do?
 
 </div>
 
-<div class="post" data-post-id="33533" data-author="war" data-date="2012-08-27T17:27:59+00:00">
+<div class="post" data-post-id="33533" data-author="war" data-date="2012-08-27T17:27:59+00:00" data-subject="Re: Game down, DDOS attack">
 
 I was unable to connect also and see a special few on! I bet there are poping all the good eq and maybe even a drachma scatter. How come they dont make a rune for connections :?:
 
 </div>
 
-<div class="post" data-post-id="33534" data-author="*Splork*" data-date="2012-08-27T18:24:33+00:00">
+<div class="post" data-post-id="33534" data-author="*Splork*" data-date="2012-08-27T18:24:33+00:00" data-subject="Re: Game down, DDOS attack">
 
 I just got home, is anybody online playing currently and if so how many people? 
 
@@ -520,7 +520,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33535" data-author="Poi" data-date="2012-08-27T18:32:53+00:00">
+<div class="post" data-post-id="33535" data-author="Poi" data-date="2012-08-27T18:32:53+00:00" data-subject="Re: Game down, DDOS attack">
 
 CAP players = 9
 
@@ -528,7 +528,7 @@ And yeah, those inside claim playable.
 
 </div>
 
-<div class="post" data-post-id="33536" data-author="Ker" data-date="2012-08-27T18:53:23+00:00">
+<div class="post" data-post-id="33536" data-author="Ker" data-date="2012-08-27T18:53:23+00:00" data-subject="Re: Game down, DDOS attack">
 
 Was logged in for a while, like the who list - got kicked out though
 
@@ -536,13 +536,13 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="33537" data-author="*juggleblood*" data-date="2012-08-27T19:16:03+00:00">
+<div class="post" data-post-id="33537" data-author="*juggleblood*" data-date="2012-08-27T19:16:03+00:00" data-subject="Re: Game down, DDOS attack">
 
 It astounds me that someone with such skill and resource would waste their time attacking a free text based rpg. One would think they'd get bored and stop.
 
 </div>
 
-<div class="post" data-post-id="33538" data-author="Yasik" data-date="2012-08-27T19:24:20+00:00">
+<div class="post" data-post-id="33538" data-author="Yasik" data-date="2012-08-27T19:24:20+00:00" data-subject="Re: Game down, DDOS attack">
 
 The whole behavior is like a firewall or IDS/IPS that upholds current established connections, but refuses new ones.
 
@@ -550,31 +550,31 @@ If something is being used, I guess wont hurt to review the filtering settings/r
 
 </div>
 
-<div class="post" data-post-id="33539" data-author="celerra7" data-date="2012-08-27T19:53:21+00:00">
+<div class="post" data-post-id="33539" data-author="celerra7" data-date="2012-08-27T19:53:21+00:00" data-subject="Re: Game down, DDOS attack">
 
 Also down.  Unable to connect all day.
 
 </div>
 
-<div class="post" data-post-id="33540" data-author="*Pixie*" data-date="2012-08-27T20:06:55+00:00">
+<div class="post" data-post-id="33540" data-author="*Pixie*" data-date="2012-08-27T20:06:55+00:00" data-subject="Re: Game down, DDOS attack">
 
 Trying to connect, tried port 01 and 02 an refusing me :(
 
 </div>
 
-<div class="post" data-post-id="33541" data-author="jezer" data-date="2012-08-27T20:26:31+00:00">
+<div class="post" data-post-id="33541" data-author="jezer" data-date="2012-08-27T20:26:31+00:00" data-subject="Re: Game down, DDOS attack">
 
 Anyone said anything against the prophet Muhammad recently?  :P
 
 </div>
 
-<div class="post" data-post-id="33542" data-author="kalidor" data-date="2012-08-27T20:55:00+00:00">
+<div class="post" data-post-id="33542" data-author="kalidor" data-date="2012-08-27T20:55:00+00:00" data-subject="Re: Game down, DDOS attack">
 
 hmmm now that you mention it...but it wasnt in public.
 
 </div>
 
-<div class="post" data-post-id="33552" data-author="*Splork*" data-date="2012-08-28T14:30:44+00:00">
+<div class="post" data-post-id="33552" data-author="*Splork*" data-date="2012-08-28T14:30:44+00:00" data-subject="Re: Game down, DDOS attack">
 
 The game is down for a bit, we are busy on the server trying to make things work and figure this thing out. We change things, they change things.
 
@@ -584,25 +584,25 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33553" data-author="Poi" data-date="2012-08-28T14:38:10+00:00">
+<div class="post" data-post-id="33553" data-author="Poi" data-date="2012-08-28T14:38:10+00:00" data-subject="Re: Game down, DDOS attack">
 
 All the best Splork & team!
 
 </div>
 
-<div class="post" data-post-id="33563" data-author="Yasik" data-date="2012-08-29T08:47:05+00:00">
+<div class="post" data-post-id="33563" data-author="Yasik" data-date="2012-08-29T08:47:05+00:00" data-subject="Re: Game down, DDOS attack">
 
 And we're still #1 on TMC, even being offline, and the amount of votes passed milestone of 1K!  8)
 
 </div>
 
-<div class="post" data-post-id="33564" data-author="*Splork*" data-date="2012-08-29T13:37:26+00:00">
+<div class="post" data-post-id="33564" data-author="*Splork*" data-date="2012-08-29T13:37:26+00:00" data-subject="Re: Game down, DDOS attack">
 
 Please email me, giving character name, for login information.
 
 </div>
 
-<div class="post" data-post-id="33569" data-author="Ker" data-date="2012-09-04T05:58:12+00:00">
+<div class="post" data-post-id="33569" data-author="Ker" data-date="2012-09-04T05:58:12+00:00" data-subject="Re: Game down, DDOS attack">
 
 Is Sloth down? Who list seems to change but I can't get in :/
 
@@ -610,7 +610,7 @@ Dr
 
 </div>
 
-<div class="post" data-post-id="33570" data-author="Greedo" data-date="2012-09-04T13:02:50+00:00">
+<div class="post" data-post-id="33570" data-author="Greedo" data-date="2012-09-04T13:02:50+00:00" data-subject="Re: Game down, DDOS attack">
 
 > **Ker wrote:**
 > Is Sloth down? Who list seems to change but I can't get in :/
@@ -625,7 +625,7 @@ The game is up and working.
 
 </div>
 
-<div class="post" data-post-id="33571" data-author="*Splork*" data-date="2012-09-04T13:21:34+00:00">
+<div class="post" data-post-id="33571" data-author="*Splork*" data-date="2012-09-04T13:21:34+00:00" data-subject="Re: Game down, DDOS attack">
 
 If somebody can not get in, please email me right away. You have probably been added to the banned IPs list.
 
@@ -637,7 +637,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="33622" data-author="*Splork*" data-date="2012-09-27T02:28:58+00:00">
+<div class="post" data-post-id="33622" data-author="*Splork*" data-date="2012-09-27T02:28:58+00:00" data-subject="We are back to original port">
 
 Please try to connect to our original port. You all should know what this is.
 

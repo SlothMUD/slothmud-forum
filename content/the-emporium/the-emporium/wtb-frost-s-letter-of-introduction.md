@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="2059" data-author="Vanyel" data-date="2004-09-27T19:40:35+00:00">
+<div class="post" data-post-id="2059" data-author="Vanyel" data-date="2004-09-27T19:40:35+00:00" data-subject="WTB: Frost&#x27;s letter of Introduction">
 
 As Frost's letter of introduction seems to have been pthieved and she has no drachma to get another one, I would like to purchase this stolen item back from the one who pilfered it.
 

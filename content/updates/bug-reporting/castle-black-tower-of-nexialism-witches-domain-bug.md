@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="39840" data-author="Insomnia" data-date="2021-10-17T19:22:25+00:00">
+<div class="post" data-post-id="39840" data-author="Insomnia" data-date="2021-10-17T19:22:25+00:00" data-subject="Castle Black / Tower of Nexialism / Witches Domain / ?? bug">
 
 Not sure what's going on, but I'm stuck:
 
@@ -118,7 +118,7 @@ I'll go afk for some time, can you please recall me if I'm still there at the ti
 
 </div>
 
-<div class="post" data-post-id="39841" data-author="Insomnia" data-date="2021-10-17T20:54:33+00:00">
+<div class="post" data-post-id="39841" data-author="Insomnia" data-date="2021-10-17T20:54:33+00:00" data-subject="Re: Castle Black (?) bug">
 
 Probably my best option is to void out and come back in an hour at recall.
 
@@ -176,7 +176,7 @@ You get a boiled hare from the Blessed Bag of Persephone.
 
 </div>
 
-<div class="post" data-post-id="39842" data-author="Insomnia" data-date="2021-10-17T21:08:26+00:00">
+<div class="post" data-post-id="39842" data-author="Insomnia" data-date="2021-10-17T21:08:26+00:00" data-subject="Re: Castle Black (?) bug">
 
 Here's how it ended.
 
@@ -290,7 +290,7 @@ I'd love to see it fixed!
 
 </div>
 
-<div class="post" data-post-id="39850" data-author="Insomnia" data-date="2021-10-19T12:08:58+00:00">
+<div class="post" data-post-id="39850" data-author="Insomnia" data-date="2021-10-19T12:08:58+00:00" data-subject="Re: Castle Black (?) bug">
 
 Also could be something related to certain mobs, look what just happened to me in Tower of Nexialism:
 
@@ -380,13 +380,13 @@ Notice how it stopped responding when a neophyte nexialist entered the room, and
 
 </div>
 
-<div class="post" data-post-id="39851" data-author="Insomnia" data-date="2021-10-19T12:41:24+00:00">
+<div class="post" data-post-id="39851" data-author="Insomnia" data-date="2021-10-19T12:41:24+00:00" data-subject="Re: Castle Black (?) bug">
 
 ...Yes, I could reproduce it with a neophyte nexialist (thanks god he wanders).
 
 </div>
 
-<div class="post" data-post-id="39856" data-author="Insomnia" data-date="2021-10-22T21:58:08+00:00">
+<div class="post" data-post-id="39856" data-author="Insomnia" data-date="2021-10-22T21:58:08+00:00" data-subject="Re: Castle Black / Tower of Nexialism / Witches Domain / ?? ">
 
 Updated the title of the post, as the problem is related to more areas/mobs.
 
@@ -581,7 +581,7 @@ This is so annoying. :(
 
 </div>
 
-<div class="post" data-post-id="39857" data-author="Insomnia" data-date="2021-10-22T22:17:31+00:00">
+<div class="post" data-post-id="39857" data-author="Insomnia" data-date="2021-10-22T22:17:31+00:00" data-subject="Re: Castle Black / Tower of Nexialism / Witches Domain / ??">
 
 If anyone reads this... can you please push me out from Olsow's room on Clipper? :(
 
@@ -728,7 +728,7 @@ I know it's probably related to my level 5, but anyways, this sucks so much... *
 
 </div>
 
-<div class="post" data-post-id="39858" data-author="Insomnia" data-date="2021-10-22T22:41:52+00:00">
+<div class="post" data-post-id="39858" data-author="Insomnia" data-date="2021-10-22T22:41:52+00:00" data-subject="Re: Castle Black / Tower of Nexialism / Witches Domain / ??">
 
 Voiding doesn't help. :-( I secretly hoped that after I move to Limbo (and technically stop being on one room with a mob that prevents me from doing anything) the game would accept at least one command from me and I give me a chance to move out of the room or recall. But no, it didn't work.
 

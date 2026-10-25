@@ -10,13 +10,13 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="12837" data-author="jezer" data-date="2006-06-01T23:48:05+00:00">
+<div class="post" data-post-id="12837" data-author="jezer" data-date="2006-06-01T23:48:05+00:00" data-subject="Newest Post First">
 
 My account seems to have defaulted back to showing oldest first on posts... where can I change this permamently?
 
 </div>
 
-<div class="post" data-post-id="12839" data-author="Weasel" data-date="2006-06-02T00:58:33+00:00">
+<div class="post" data-post-id="12839" data-author="Weasel" data-date="2006-06-02T00:58:33+00:00" data-subject="">
 
 Can't. I asked the same thing recently. See this thread:
 

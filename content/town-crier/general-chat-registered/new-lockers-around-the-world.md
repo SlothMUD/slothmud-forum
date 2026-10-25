@@ -10,7 +10,7 @@ locked: false
 post_count: 13
 ---
 
-<div class="post" data-post-id="28360" data-author="Toxis" data-date="2009-03-02T16:01:29+00:00">
+<div class="post" data-post-id="28360" data-author="Toxis" data-date="2009-03-02T16:01:29+00:00" data-subject="New Lockers Around the World">
 
 It appears many merchants have taken the idea of lockers from Valkyre and have gone across the world to share in the technology... and to make a killing.
 
@@ -26,13 +26,13 @@ Tox
 
 </div>
 
-<div class="post" data-post-id="28363" data-author="Weasel" data-date="2009-03-02T19:51:24+00:00">
+<div class="post" data-post-id="28363" data-author="Weasel" data-date="2009-03-02T19:51:24+00:00" data-subject="">
 
 Thanks - regardless of the reason, this is a great idea for players who have graduated from Valk but can't yet afford a full personal vault (leveling can get pretty expensive when you're relatively new).
 
 </div>
 
-<div class="post" data-post-id="28368" data-author="Toxis" data-date="2009-03-02T20:47:36+00:00">
+<div class="post" data-post-id="28368" data-author="Toxis" data-date="2009-03-02T20:47:36+00:00" data-subject="">
 
 It's not exactly like Valk lockers though, I forgot to mention that.
 
@@ -40,7 +40,7 @@ It's not exactly like Valk lockers though, I forgot to mention that.
 
 </div>
 
-<div class="post" data-post-id="28371" data-author="Stryx" data-date="2009-03-03T10:05:40+00:00">
+<div class="post" data-post-id="28371" data-author="Stryx" data-date="2009-03-03T10:05:40+00:00" data-subject="">
 
 The Bar
 
@@ -78,7 +78,7 @@ Location - The Bar
 
 </div>
 
-<div class="post" data-post-id="28373" data-author="Yasik2" data-date="2009-03-03T16:08:03+00:00">
+<div class="post" data-post-id="28373" data-author="Yasik2" data-date="2009-03-03T16:08:03+00:00" data-subject="">
 
 To buy a space within the [b:2num1pnt]vault[/b:2num1pnt] [u:2num1pnt]please[/u:2num1pnt] type "buy locker".
 
@@ -96,7 +96,7 @@ PS#2. I suggest that 'please' is unnecessary. We're not in kindergarden! Be cyni
 
 </div>
 
-<div class="post" data-post-id="28377" data-author="Weasel" data-date="2009-03-03T18:47:25+00:00">
+<div class="post" data-post-id="28377" data-author="Weasel" data-date="2009-03-03T18:47:25+00:00" data-subject="">
 
 From memory, a single vault (or home) is 15mil coins now, so this setup is still pretty good value imho; a 33% discount for not having a personalized room, yet still performing the same basic function.
 
@@ -104,7 +104,7 @@ Tox, are these 'budget-vaults' upgradable later to personal vaults (presumably w
 
 </div>
 
-<div class="post" data-post-id="28378" data-author="Yasik2" data-date="2009-03-03T19:44:52+00:00">
+<div class="post" data-post-id="28378" data-author="Yasik2" data-date="2009-03-03T19:44:52+00:00" data-subject="">
 
 Tox, are these 'budget-vaults' upgradable later to personal vaults (presumably would give 7.5mil towards a personal vault)[/quote:2gbs7l0r]
 
@@ -114,7 +114,7 @@ At least not for sorry 5M - move a room, eq in it, add room_desc, create a key a
 
 </div>
 
-<div class="post" data-post-id="28409" data-author="madmax" data-date="2009-03-06T04:03:42+00:00">
+<div class="post" data-post-id="28409" data-author="madmax" data-date="2009-03-06T04:03:42+00:00" data-subject="">
 
 In Thalassas
 
@@ -152,13 +152,13 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="28410" data-author="Greyhawk" data-date="2009-03-06T04:07:52+00:00">
+<div class="post" data-post-id="28410" data-author="Greyhawk" data-date="2009-03-06T04:07:52+00:00" data-subject="Location of Settlestone Lockers">
 
 SS locker is at citadel at raldor firerock
 
 </div>
 
-<div class="post" data-post-id="28411" data-author="madmax" data-date="2009-03-06T04:11:17+00:00">
+<div class="post" data-post-id="28411" data-author="madmax" data-date="2009-03-06T04:11:17+00:00" data-subject="">
 
 In Settlestone Citadel
 
@@ -196,7 +196,7 @@ Madmax
 
 </div>
 
-<div class="post" data-post-id="28412" data-author="madmax" data-date="2009-03-06T04:30:23+00:00">
+<div class="post" data-post-id="28412" data-author="madmax" data-date="2009-03-06T04:30:23+00:00" data-subject="">
 
 Aisholm Town
 
@@ -224,7 +224,7 @@ To remove an item from your locker type withdraw slot number.
 
 </div>
 
-<div class="post" data-post-id="28414" data-author="*juggleblood*" data-date="2009-03-06T12:59:00+00:00">
+<div class="post" data-post-id="28414" data-author="*juggleblood*" data-date="2009-03-06T12:59:00+00:00" data-subject="">
 
 From memory, a single vault (or home) is 15mil coins now, so this setup is still pretty good value imho; a 33% discount for not having a personalized room, yet still performing the same basic function.
 
@@ -234,7 +234,7 @@ A basic dwelling is 10 mil. Lockers and dwellings are not upgradeable. Smallest 
 
 </div>
 
-<div class="post" data-post-id="28415" data-author="Weasel" data-date="2009-03-06T15:08:19+00:00">
+<div class="post" data-post-id="28415" data-author="Weasel" data-date="2009-03-06T15:08:19+00:00" data-subject="">
 
 ok thanks.
 

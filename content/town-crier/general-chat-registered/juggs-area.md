@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30949" data-author="angel" data-date="2010-03-08T08:53:13+00:00">
+<div class="post" data-post-id="30949" data-author="angel" data-date="2010-03-08T08:53:13+00:00" data-subject="juggs area">
 
 n
 
@@ -106,7 +106,7 @@ You can't see anything but stars!
 
 </div>
 
-<div class="post" data-post-id="30950" data-author="Thraxas" data-date="2010-03-08T09:40:11+00:00">
+<div class="post" data-post-id="30950" data-author="Thraxas" data-date="2010-03-08T09:40:11+00:00" data-subject="">
 
 Ouch ... 
 
@@ -116,7 +116,7 @@ T
 
 </div>
 
-<div class="post" data-post-id="30952" data-author="*juggleblood*" data-date="2010-03-09T06:19:43+00:00">
+<div class="post" data-post-id="30952" data-author="*juggleblood*" data-date="2010-03-09T06:19:43+00:00" data-subject="">
 
 Grats on the kills Godz and co. Keep in mind the rewards are randomized. So don't be too disappointed if they load empty.
 

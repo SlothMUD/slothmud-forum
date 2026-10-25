@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="37927" data-author="*juggleblood*" data-date="2016-12-31T18:30:50+00:00">
+<div class="post" data-post-id="37927" data-author="*juggleblood*" data-date="2016-12-31T18:30:50+00:00" data-subject="New Years Day Games">
 
 Depending on numbers and level of interest, I may run some games on New Year's Day. The format would be something along the lines of groups of 3-4 people competing in a scavenger hunt. The hunt would either be for mobs or objects. If mobs, each team would have their own designated room to deliver the mobiles to. If objects, then each team receives a special container to put items in.
 
@@ -22,19 +22,19 @@ Prizes tbd. Time tbd, leaning toward 11AM Server Time, but will depend on number
 
 </div>
 
-<div class="post" data-post-id="37928" data-author="Josiah" data-date="2016-12-31T21:51:01+00:00">
+<div class="post" data-post-id="37928" data-author="Josiah" data-date="2016-12-31T21:51:01+00:00" data-subject="Re: New Years Day Games">
 
 That sounds fabulous! Sorry I'll miss it.
 
 </div>
 
-<div class="post" data-post-id="37930" data-author="Gorka" data-date="2017-01-01T18:36:31+00:00">
+<div class="post" data-post-id="37930" data-author="Gorka" data-date="2017-01-01T18:36:31+00:00" data-subject="Re: New Years Day Games">
 
 Thanks JB, nice to have a different quest where everyone can contribute more equally.
 
 </div>
 
-<div class="post" data-post-id="37931" data-author="*juggleblood*" data-date="2017-01-01T20:41:28+00:00">
+<div class="post" data-post-id="37931" data-author="*juggleblood*" data-date="2017-01-01T20:41:28+00:00" data-subject="Re: New Years Day Games">
 
 After cajolling the reluctant players into competing with each other, the end result was that team Sledgehammer defeated team Mus twice.  The categories were "pieces of creatures" and "raw plants, herbs, and fungi".
 

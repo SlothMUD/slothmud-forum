@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="771" data-author="Calim" data-date="2004-06-17T15:19:05+00:00">
+<div class="post" data-post-id="771" data-author="Calim" data-date="2004-06-17T15:19:05+00:00" data-subject="Chopping block sale closed:">
 
 Emerald bracelet to Rimsky for 51510
 

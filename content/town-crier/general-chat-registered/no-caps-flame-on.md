@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="24312" data-author="jezer" data-date="2008-05-13T03:01:34+00:00">
+<div class="post" data-post-id="24312" data-author="jezer" data-date="2008-05-13T03:01:34+00:00" data-subject="No Caps! Flame On!">
 
 This post is in direct response, to a few players telling me I haven't stirred up trouble on the board in a while. :twisted: So get involved... get heated and flame on!
 
@@ -54,13 +54,13 @@ Ok, that's enough talking, lets start arguing! :D
 
 </div>
 
-<div class="post" data-post-id="24315" data-author="Weasel" data-date="2008-05-13T03:14:19+00:00">
+<div class="post" data-post-id="24315" data-author="Weasel" data-date="2008-05-13T03:14:19+00:00" data-subject="">
 
 oh. I was thinking along the lines of propeller beanies and other kinds of caps and hats and fancy headwear. I'll just move along to more philisophical matters, such as apostrophes and periods, and maybe exclamation marks if I'm feeling particularly frisky.
 
 </div>
 
-<div class="post" data-post-id="24317" data-author="Roadrunr" data-date="2008-05-13T04:51:02+00:00">
+<div class="post" data-post-id="24317" data-author="Roadrunr" data-date="2008-05-13T04:51:02+00:00" data-subject="">
 
 WOW, YOU'RE QUITE THE WHINER JEZER (oh, wait, thats not the caps you meant)
 
@@ -74,7 +74,7 @@ other than that, I do believe that with your suggested method, the opposite of w
 
 </div>
 
-<div class="post" data-post-id="24319" data-author="Akasha" data-date="2008-05-13T05:11:56+00:00">
+<div class="post" data-post-id="24319" data-author="Akasha" data-date="2008-05-13T05:11:56+00:00" data-subject="">
 
 Let me tell you something about caps... (and as usual I speak strictly for myself, and not on behalf of any other admin/immortal).
 
@@ -94,7 +94,7 @@ Aka
 
 </div>
 
-<div class="post" data-post-id="24320" data-author="jezer" data-date="2008-05-13T05:17:18+00:00">
+<div class="post" data-post-id="24320" data-author="jezer" data-date="2008-05-13T05:17:18+00:00" data-subject="">
 
 [quote:2mpwq4ro](zero might be a good number)[/quote:2mpwq4ro]
 
@@ -108,7 +108,7 @@ The truth is, I post to the board while I'm at work, and I'm not exactly enjoyin
 
 </div>
 
-<div class="post" data-post-id="24322" data-author="*juggleblood*" data-date="2008-05-13T06:04:57+00:00">
+<div class="post" data-post-id="24322" data-author="*juggleblood*" data-date="2008-05-13T06:04:57+00:00" data-subject="">
 
 The imaginary line that cant be crossed so you dont have to wear a dress just because you're a mage.  Aka[/quote:p8obfdo9]
 

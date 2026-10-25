@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="34066" data-author="Dragoth" data-date="2013-02-22T09:05:17+00:00">
+<div class="post" data-post-id="34066" data-author="Dragoth" data-date="2013-02-22T09:05:17+00:00" data-subject="heron on island (Newbies beware!)">
 
 kill heron
 
@@ -126,7 +126,7 @@ Variable spellup removed.
 
 </div>
 
-<div class="post" data-post-id="34068" data-author="*juggleblood*" data-date="2013-02-22T12:27:13+00:00">
+<div class="post" data-post-id="34068" data-author="*juggleblood*" data-date="2013-02-22T12:27:13+00:00" data-subject="Re: heron on island (Newbies beware!)">
 
 "You are viciously massacred by a herons hit. hit" ?!
 
@@ -142,7 +142,7 @@ Here is the heron's attack that I see.
 
 </div>
 
-<div class="post" data-post-id="34076" data-author="Dragoth" data-date="2013-02-23T05:50:00+00:00">
+<div class="post" data-post-id="34076" data-author="Dragoth" data-date="2013-02-23T05:50:00+00:00" data-subject="Re: heron on island (Newbies beware!)">
 
 Yes, it was the heron at island dock. Not sure how this happened if that is indeed his roll.
 
@@ -150,7 +150,7 @@ The extra hit after the viciously massacre line is a part of my trigger.
 
 </div>
 
-<div class="post" data-post-id="34080" data-author="*juggleblood*" data-date="2013-02-23T12:26:08+00:00">
+<div class="post" data-post-id="34080" data-author="*juggleblood*" data-date="2013-02-23T12:26:08+00:00" data-subject="Re: heron on island (Newbies beware!)">
 
 I can't figure it out.  Best I can do is comp u a restore sometime.
 

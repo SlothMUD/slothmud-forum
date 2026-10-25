@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="19116" data-author="Sheng" data-date="2007-06-29T17:32:20+00:00">
+<div class="post" data-post-id="19116" data-author="Sheng" data-date="2007-06-29T17:32:20+00:00" data-subject="EQ from Destiny&#x27;s area">
 
 See thread 'What else is there' for mobs that load the following.
 

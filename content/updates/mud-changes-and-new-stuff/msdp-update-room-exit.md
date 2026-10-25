@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="35455" data-author="*Splork*" data-date="2014-10-17T18:11:41+00:00">
+<div class="post" data-post-id="35455" data-author="*Splork*" data-date="2014-10-17T18:11:41+00:00" data-subject="MSDP Update (room_exit)">
 
 Made a couple of changes this past reboot regarding MSDP. The new room_exit variable looks like the following:
 

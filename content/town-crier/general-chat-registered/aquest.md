@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="30762" data-author="Vixn" data-date="2010-01-30T14:20:17+00:00">
+<div class="post" data-post-id="30762" data-author="Vixn" data-date="2010-01-30T14:20:17+00:00" data-subject="aquest?">
 
 exa branch
 
@@ -30,7 +30,7 @@ Vixn
 
 </div>
 
-<div class="post" data-post-id="30763" data-author="jezer" data-date="2010-01-31T00:06:03+00:00">
+<div class="post" data-post-id="30763" data-author="jezer" data-date="2010-01-31T00:06:03+00:00" data-subject="">
 
 Thanks Vixn, I like a good mystery 8). I googled Nimyd and oddly a page from the Russian slothmud site popped up...
 
@@ -82,7 +82,7 @@ Did you pop or find this branch in Aaost? It's probably a left over quest item, 
 
 </div>
 
-<div class="post" data-post-id="30764" data-author="Vixn" data-date="2010-01-31T06:26:14+00:00">
+<div class="post" data-post-id="30764" data-author="Vixn" data-date="2010-01-31T06:26:14+00:00" data-subject="">
 
 Did you pop or find this branch in Aaost?[/quote:e793lmz1]
 

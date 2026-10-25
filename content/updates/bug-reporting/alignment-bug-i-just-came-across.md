@@ -10,7 +10,7 @@ locked: false
 post_count: 9
 ---
 
-<div class="post" data-post-id="35162" data-author="Dragoth" data-date="2014-05-15T19:52:47+00:00">
+<div class="post" data-post-id="35162" data-author="Dragoth" data-date="2014-05-15T19:52:47+00:00" data-subject="Alignment bug i just came across">
 
 TL:DR: Started as evil aligned, killed mobs with blue aura and somehow became good aligned, huh ?
 
@@ -1244,7 +1244,7 @@ Crumbs[Clan:Legends]> 'and i became good for some reason'
 
 </div>
 
-<div class="post" data-post-id="35163" data-author="DarkArtist" data-date="2014-05-15T21:18:13+00:00">
+<div class="post" data-post-id="35163" data-author="DarkArtist" data-date="2014-05-15T21:18:13+00:00" data-subject="Re: Alignment bug i just came across">
 
 "You blink in confusion."
 
@@ -1252,37 +1252,37 @@ Disease related?
 
 </div>
 
-<div class="post" data-post-id="35165" data-author="Dragoth" data-date="2014-05-16T07:20:14+00:00">
+<div class="post" data-post-id="35165" data-author="Dragoth" data-date="2014-05-16T07:20:14+00:00" data-subject="Re: Alignment bug i just came across">
 
 Since i'm running with Cacodaemon i am constantly diseased, have been playing actively like that for 2 weeks now, this is the first time i see this.
 
 </div>
 
-<div class="post" data-post-id="35168" data-author="Oboe" data-date="2014-05-18T18:48:35+00:00">
+<div class="post" data-post-id="35168" data-author="Oboe" data-date="2014-05-18T18:48:35+00:00" data-subject="Re: Alignment bug i just came across">
 
 That is a disease.  I think it's called "discord".
 
 </div>
 
-<div class="post" data-post-id="35169" data-author="DarkArtist" data-date="2014-05-19T23:08:37+00:00">
+<div class="post" data-post-id="35169" data-author="DarkArtist" data-date="2014-05-19T23:08:37+00:00" data-subject="Re: Alignment bug i just came across">
 
 Precisely.
 
 </div>
 
-<div class="post" data-post-id="35170" data-author="Dragoth" data-date="2014-05-20T08:04:27+00:00">
+<div class="post" data-post-id="35170" data-author="Dragoth" data-date="2014-05-20T08:04:27+00:00" data-subject="Re: Alignment bug i just came across">
 
 I thank you Oboe, for clearing this up, your sloth wisdom is unparalleled.
 
 </div>
 
-<div class="post" data-post-id="35171" data-author="DarkArtist" data-date="2014-05-20T23:43:21+00:00">
+<div class="post" data-post-id="35171" data-author="DarkArtist" data-date="2014-05-20T23:43:21+00:00" data-subject="Re: Alignment bug i just came across">
 
 What about me? No thanks for reading that book of a log you posted and picking out the disease message?
 
 </div>
 
-<div class="post" data-post-id="35172" data-author="Dragoth" data-date="2014-05-21T07:46:00+00:00">
+<div class="post" data-post-id="35172" data-author="Dragoth" data-date="2014-05-21T07:46:00+00:00" data-subject="Re: Alignment bug i just came across">
 
 > **DarkArtist wrote:**
 > What about me? No thanks for reading that book of a log you posted and picking out the disease message?
@@ -1291,7 +1291,7 @@ I am sorry Darkartist, i only thank the people who have enough knowledge and exp
 
 </div>
 
-<div class="post" data-post-id="35173" data-author="DarkArtist" data-date="2014-05-21T11:54:49+00:00">
+<div class="post" data-post-id="35173" data-author="DarkArtist" data-date="2014-05-21T11:54:49+00:00" data-subject="Re: Alignment bug i just came across">
 
 Oh, that makes sense. And here I was thinking you just didn't want me to be right.  :lol:
 

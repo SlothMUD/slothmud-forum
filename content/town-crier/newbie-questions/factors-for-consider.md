@@ -10,7 +10,7 @@ locked: false
 post_count: 12
 ---
 
-<div class="post" data-post-id="7459" data-author="Granty555" data-date="2005-06-22T13:56:34+00:00">
+<div class="post" data-post-id="7459" data-author="Granty555" data-date="2005-06-22T13:56:34+00:00" data-subject="Factors for consider">
 
 Hi all,
 
@@ -24,13 +24,13 @@ So how does he get to be luck and great eq? He was a right spaz, managed a coupl
 
 </div>
 
-<div class="post" data-post-id="7462" data-author="rith" data-date="2005-06-22T14:24:50+00:00">
+<div class="post" data-post-id="7462" data-author="rith" data-date="2005-06-22T14:24:50+00:00" data-subject="">
 
 Shhh, necromancers are overpowered......
 
 </div>
 
-<div class="post" data-post-id="7463" data-author="12345" data-date="2005-06-22T14:31:17+00:00">
+<div class="post" data-post-id="7463" data-author="12345" data-date="2005-06-22T14:31:17+00:00" data-subject="">
 
 I don't know that anyone can tell you exactly how con works.  I do know that it takes several factors into account.  Personally, I think that casting mobs screw it up even more simply because they're so erratic.
 
@@ -46,7 +46,7 @@ If anyone else has a better answer, I'll be glad to hear it.  :)
 
 </div>
 
-<div class="post" data-post-id="7464" data-author="Alberich" data-date="2005-06-22T14:44:29+00:00">
+<div class="post" data-post-id="7464" data-author="Alberich" data-date="2005-06-22T14:44:29+00:00" data-subject="">
 
 consider is worthless after like lvl 5.
 
@@ -54,7 +54,7 @@ as far as I have been able to tell, it depends on mobs class, your class, and re
 
 </div>
 
-<div class="post" data-post-id="7470" data-author="kjartan" data-date="2005-06-22T15:35:09+00:00">
+<div class="post" data-post-id="7470" data-author="kjartan" data-date="2005-06-22T15:35:09+00:00" data-subject="">
 
 The consider code is extremely complicated, and it doesn't work very well.
 
@@ -62,7 +62,7 @@ Sloth mobs are so complex that I think it would be hard to come up with an algor
 
 </div>
 
-<div class="post" data-post-id="7482" data-author="Ditheca" data-date="2005-06-22T20:37:24+00:00">
+<div class="post" data-post-id="7482" data-author="Ditheca" data-date="2005-06-22T20:37:24+00:00" data-subject="consider suggestion">
 
 The easiest thing I can think of without creating huge databases of battles is this:
 
@@ -88,7 +88,7 @@ This would be incredibly easy to code (total hp, damroll, could even ignore play
 
 </div>
 
-<div class="post" data-post-id="7483" data-author="Alberich" data-date="2005-06-22T20:39:33+00:00">
+<div class="post" data-post-id="7483" data-author="Alberich" data-date="2005-06-22T20:39:33+00:00" data-subject="">
 
 I think it's kinda fun not knowing if mob will splork you or you splork it :)  makes exploring new areas worthwhile, although it does lead to some interesting self-cr's
 
@@ -96,7 +96,7 @@ leave con as-is, it's usefull for real low-level types, and beyond that.. well..
 
 </div>
 
-<div class="post" data-post-id="7484" data-author="Ditheca" data-date="2005-06-22T20:49:38+00:00">
+<div class="post" data-post-id="7484" data-author="Ditheca" data-date="2005-06-22T20:49:38+00:00" data-subject="">
 
 I think it'd be nice to know if a mob can hit brutally or not.  I can't count the times I've cast tons of prep spells just to face a mob that attacks 5 times for very hard and gives 20k :)  Of course that happens less and less as I learn the mud.
 
@@ -104,7 +104,7 @@ I posted below because its the solution to a question, not a solution to a probl
 
 </div>
 
-<div class="post" data-post-id="7485" data-author="Avatar" data-date="2005-06-23T00:06:35+00:00">
+<div class="post" data-post-id="7485" data-author="Avatar" data-date="2005-06-23T00:06:35+00:00" data-subject="consider still">
 
 Unfortunately even if the mob side of the equation was all figured out we'd still have the PC side to evaluate.
 
@@ -116,7 +116,7 @@ I'd go with Ditheca's suggestions, if it's too much information you could maybe 
 
 </div>
 
-<div class="post" data-post-id="7487" data-author="Taki" data-date="2005-06-23T05:02:56+00:00">
+<div class="post" data-post-id="7487" data-author="Taki" data-date="2005-06-23T05:02:56+00:00" data-subject="">
 
 just an example (newbie biased):
 
@@ -132,13 +132,13 @@ T.
 
 </div>
 
-<div class="post" data-post-id="7492" data-author="firebrand" data-date="2005-06-23T11:00:56+00:00">
+<div class="post" data-post-id="7492" data-author="firebrand" data-date="2005-06-23T11:00:56+00:00" data-subject="">
 
 hmmm and now we have "perfect match" on mobs that are correctly aligned to help us change our alignment again, but may not necessarily be perfect match combat wise.  i wish we had a command (contemplate, for example) for checking alignment balance and leave consider as is for combat
 
 </div>
 
-<div class="post" data-post-id="7494" data-author="12345" data-date="2005-06-23T11:15:46+00:00">
+<div class="post" data-post-id="7494" data-author="12345" data-date="2005-06-23T11:15:46+00:00" data-subject="">
 
 Me thinks you're confusing alignment and consider.  Alignment wasn't added to consider, consider was added to alignment.
 

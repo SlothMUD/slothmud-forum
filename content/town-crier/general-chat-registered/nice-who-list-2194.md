@@ -10,7 +10,7 @@ locked: false
 post_count: 6
 ---
 
-<div class="post" data-post-id="15374" data-author="*Splork*" data-date="2006-11-29T01:57:28+00:00">
+<div class="post" data-post-id="15374" data-author="*Splork*" data-date="2006-11-29T01:57:28+00:00" data-subject="Nice who list">
 
 *Immortals of SlothMUD III*
 
@@ -152,25 +152,25 @@ Highest total since last bootup: 63.
 
 </div>
 
-<div class="post" data-post-id="15383" data-author="Vixn" data-date="2006-11-29T21:20:27+00:00">
+<div class="post" data-post-id="15383" data-author="Vixn" data-date="2006-11-29T21:20:27+00:00" data-subject="">
 
 Hell yeah, seems noone of those russian cheaters er.. i mean players are online.  :twisted:
 
 </div>
 
-<div class="post" data-post-id="15386" data-author="13" data-date="2006-11-29T22:52:40+00:00">
+<div class="post" data-post-id="15386" data-author="13" data-date="2006-11-29T22:52:40+00:00" data-subject="">
 
 thank god!
 
 </div>
 
-<div class="post" data-post-id="15387" data-author="Krok" data-date="2006-11-30T02:47:47+00:00">
+<div class="post" data-post-id="15387" data-author="Krok" data-date="2006-11-30T02:47:47+00:00" data-subject="">
 
 nods, they decided to have all this fun without us :(
 
 </div>
 
-<div class="post" data-post-id="15392" data-author="Yasik" data-date="2006-11-30T20:02:28+00:00">
+<div class="post" data-post-id="15392" data-author="Yasik" data-date="2006-11-30T20:02:28+00:00" data-subject="">
 
 Hell yeah, seems noone of those russian cheaters er.. i mean players are online.  :twisted:[/quote:2247mpdv]
 
@@ -178,7 +178,7 @@ i smell a stench of nazi
 
 </div>
 
-<div class="post" data-post-id="16440" data-author="*Splork*" data-date="2007-01-21T23:29:26+00:00">
+<div class="post" data-post-id="16440" data-author="*Splork*" data-date="2007-01-21T23:29:26+00:00" data-subject="January 21, 2007">
 
 *Immortals of SlothMUD III*
 

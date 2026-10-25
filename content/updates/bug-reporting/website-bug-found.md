@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="9920" data-author="resouh" data-date="2005-12-25T01:54:28+00:00">
+<div class="post" data-post-id="9920" data-author="resouh" data-date="2005-12-25T01:54:28+00:00" data-subject="Website bug found">
 
 Clicked on the crier for info on Christmas Quest, read the info, then clicked on the "more on quests" link to the right, and got the following errors:
 

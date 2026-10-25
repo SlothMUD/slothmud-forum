@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32018" data-author="*Isabo*" data-date="2010-11-13T18:43:21+00:00">
+<div class="post" data-post-id="32018" data-author="*Isabo*" data-date="2010-11-13T18:43:21+00:00" data-subject="Black heart jewel">
 
 Greetings, mortals.
 

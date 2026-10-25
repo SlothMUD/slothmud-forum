@@ -10,7 +10,7 @@ locked: false
 post_count: 2
 ---
 
-<div class="post" data-post-id="2076" data-author="wampire" data-date="2004-09-29T18:13:46+00:00">
+<div class="post" data-post-id="2076" data-author="wampire" data-date="2004-09-29T18:13:46+00:00" data-subject="Eq sale(Hooded wool Cape)">
 
 selling Hooded wool cape
 
@@ -20,7 +20,7 @@ Min 1mil
 
 </div>
 
-<div class="post" data-post-id="2085" data-author="Zenkai" data-date="2004-09-30T01:27:07+00:00">
+<div class="post" data-post-id="2085" data-author="Zenkai" data-date="2004-09-30T01:27:07+00:00" data-subject="hooded wool cape 1mil">
 
 hooded wool cape 1mil
 

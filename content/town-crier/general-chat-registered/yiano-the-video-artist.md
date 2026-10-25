@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="17098" data-author="banedon" data-date="2007-02-25T02:44:09+00:00">
+<div class="post" data-post-id="17098" data-author="banedon" data-date="2007-02-25T02:44:09+00:00" data-subject="Yiano the video artist?">
 
 Stumbled across this and knew it had to be done by Yinao.  Notice the spelling, dead giveaway.
 

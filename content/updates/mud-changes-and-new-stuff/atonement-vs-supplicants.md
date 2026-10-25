@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="32678" data-author="*Isabo*" data-date="2011-06-12T16:29:26+00:00">
+<div class="post" data-post-id="32678" data-author="*Isabo*" data-date="2011-06-12T16:29:26+00:00" data-subject="Atonement vs. supplicants">
 
 Greeting mortals.
 

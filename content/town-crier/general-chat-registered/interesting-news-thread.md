@@ -10,7 +10,7 @@ locked: false
 post_count: 37
 ---
 
-<div class="post" data-post-id="8343" data-author="13" data-date="2005-08-19T12:39:52+00:00">
+<div class="post" data-post-id="8343" data-author="13" data-date="2005-08-19T12:39:52+00:00" data-subject="Interesting news thread">
 
 Quote:VATICAN CITY -- Lawyers for Pope Benedict XVI have asked President Bush to declare the pontiff immune from liability in a lawsuit that accuses him of conspiring to cover up the molestation of three boys by a seminarian in Texas, court records show.
 
@@ -24,7 +24,7 @@ Quote:VATICAN CITY -- Lawyers for Pope Benedict XVI have asked President Bush to
 
 </div>
 
-<div class="post" data-post-id="8490" data-author="13" data-date="2005-08-30T19:33:50+00:00">
+<div class="post" data-post-id="8490" data-author="13" data-date="2005-08-30T19:33:50+00:00" data-subject="">
 
 Iraq War Surpasses Vietnam in Number of Reporters Killed
 
@@ -32,7 +32,7 @@ More broadcast and print journalists have been killed during the Iraq war than d
 
 </div>
 
-<div class="post" data-post-id="8493" data-author="PvtDeth" data-date="2005-08-30T21:31:43+00:00">
+<div class="post" data-post-id="8493" data-author="PvtDeth" data-date="2005-08-30T21:31:43+00:00" data-subject="">
 
 That's truly fascinating. My take on these statistics (my bias is that of a U.S. citizen and Marine Corps veteran) is that they indicate a complete change from U.S. Vietnam Era policies concerning journalists, i.e. "You'll see what we want you to see, when we want you to see it. Oh, on second thought, just take this wire from our internal Public Affairs Office."
 
@@ -42,7 +42,7 @@ That's truly fascinating. My take on these statistics (my bias is that of a U.S.
 
 </div>
 
-<div class="post" data-post-id="8564" data-author="12345" data-date="2005-09-08T13:35:49+00:00">
+<div class="post" data-post-id="8564" data-author="12345" data-date="2005-09-08T13:35:49+00:00" data-subject="">
 
 Interesting news... stupid news... whatever.
 
@@ -50,7 +50,7 @@ Interesting news... stupid news... whatever.
 
 </div>
 
-<div class="post" data-post-id="8751" data-author="13" data-date="2005-09-20T13:13:12+00:00">
+<div class="post" data-post-id="8751" data-author="13" data-date="2005-09-20T13:13:12+00:00" data-subject="">
 
 Katrina Debit Cards Spent On "Essentials": Strip Clubs, $800 Handbags
 
@@ -154,7 +154,7 @@ Ellis said FEMA issued about 10,500 cards in the pilot program, with a total val
 
 </div>
 
-<div class="post" data-post-id="8807" data-author="13" data-date="2005-09-23T14:28:20+00:00">
+<div class="post" data-post-id="8807" data-author="13" data-date="2005-09-23T14:28:20+00:00" data-subject="Six Things never to do while drunk">
 
 WE KNOW. You've done some stupid things while drunk. You may have slept with somebody you shouldn't have. Maybe you got into a fistfight, or drove, or fired a gun into the side of a house. If you've got a real drinking problem, maybe alcohol has destroyed your family, lost you jobs, even come close to killing you.
 
@@ -174,7 +174,7 @@ Forget it. You're an amateur. You can tear your clothes off in public, pee on na
 
 </div>
 
-<div class="post" data-post-id="9167" data-author="Alberich" data-date="2005-10-25T18:15:10+00:00">
+<div class="post" data-post-id="9167" data-author="Alberich" data-date="2005-10-25T18:15:10+00:00" data-subject="">
 
 [quote:30hwlije]Protecting the Presidential Seal. No Joke.
 
@@ -208,25 +208,25 @@ so, have you paid your taxes this year?  You know, it's very important, so whate
 
 </div>
 
-<div class="post" data-post-id="9169" data-author="13" data-date="2005-10-25T18:38:11+00:00">
+<div class="post" data-post-id="9169" data-author="13" data-date="2005-10-25T18:38:11+00:00" data-subject="">
 
 I love the Onion.
 
 </div>
 
-<div class="post" data-post-id="9172" data-author="Weasel" data-date="2005-10-25T19:18:17+00:00">
+<div class="post" data-post-id="9172" data-author="Weasel" data-date="2005-10-25T19:18:17+00:00" data-subject="">
 
 dailyrotten.com is good too
 
 </div>
 
-<div class="post" data-post-id="9196" data-author="13" data-date="2005-10-26T12:56:57+00:00">
+<div class="post" data-post-id="9196" data-author="13" data-date="2005-10-26T12:56:57+00:00" data-subject="">
 
 steakandcheese.com too
 
 </div>
 
-<div class="post" data-post-id="9202" data-author="Shazuko" data-date="2005-10-26T17:12:36+00:00">
+<div class="post" data-post-id="9202" data-author="Shazuko" data-date="2005-10-26T17:12:36+00:00" data-subject="">
 
 Fark.com
 
@@ -238,7 +238,7 @@ When caught between two evils, I choose the one I've never tried.
 
 </div>
 
-<div class="post" data-post-id="9207" data-author="13" data-date="2005-10-26T21:34:44+00:00">
+<div class="post" data-post-id="9207" data-author="13" data-date="2005-10-26T21:34:44+00:00" data-subject="Real Men of Genius">
 
 Bud Light presents "Real Men of Genius"
 
@@ -270,7 +270,7 @@ have to carry around a new pet bird like the little fairy that you are.
 
 </div>
 
-<div class="post" data-post-id="9218" data-author="13" data-date="2005-10-27T13:16:13+00:00">
+<div class="post" data-post-id="9218" data-author="13" data-date="2005-10-27T13:16:13+00:00" data-subject="">
 
 Ms Miers, who has served as White House counsel for Mr Bush but has no judicial experience, has come in for criticism from both Democrats and Republicans.
 
@@ -312,7 +312,7 @@ Story from BBC NEWS:
 
 </div>
 
-<div class="post" data-post-id="9237" data-author="Weasel" data-date="2005-10-27T18:53:17+00:00">
+<div class="post" data-post-id="9237" data-author="Weasel" data-date="2005-10-27T18:53:17+00:00" data-subject="">
 
 "In a letter confirming her decision to withdraw from the nomination process, Ms Miers wrote that continuing to seek Senate approval would prove to be a burden on the White House.
 
@@ -324,7 +324,7 @@ The senate called her bluff. Game Over.
 
 </div>
 
-<div class="post" data-post-id="9262" data-author="Alberich" data-date="2005-10-28T04:35:43+00:00">
+<div class="post" data-post-id="9262" data-author="Alberich" data-date="2005-10-28T04:35:43+00:00" data-subject="">
 
 Hanging Mistaken for Halloween Decoration
 
@@ -348,7 +348,7 @@ State police spokesman Cpl. Jeff Oldham and neighbors said people noticed the bo
 
 </div>
 
-<div class="post" data-post-id="9358" data-author="Alberich" data-date="2005-11-04T06:18:34+00:00">
+<div class="post" data-post-id="9358" data-author="Alberich" data-date="2005-11-04T06:18:34+00:00" data-subject="">
 
 New Rule:  The more complicated the Starbucks order, the bigger the  asshole. 
 
@@ -370,13 +370,13 @@ spiritual.  You're just high.
 
 </div>
 
-<div class="post" data-post-id="9361" data-author="Weasel" data-date="2005-11-04T12:41:15+00:00">
+<div class="post" data-post-id="9361" data-author="Weasel" data-date="2005-11-04T12:41:15+00:00" data-subject="">
 
 heh.. sounds like something Denis Leary would say :)
 
 </div>
 
-<div class="post" data-post-id="9363" data-author="firebrand" data-date="2005-11-04T13:45:23+00:00">
+<div class="post" data-post-id="9363" data-author="firebrand" data-date="2005-11-04T13:45:23+00:00" data-subject="">
 
 or george carlin...."why do we drive on a parkway and park in a driveway?"
 
@@ -384,7 +384,7 @@ rebs
 
 </div>
 
-<div class="post" data-post-id="9364" data-author="brand" data-date="2005-11-04T20:12:15+00:00">
+<div class="post" data-post-id="9364" data-author="brand" data-date="2005-11-04T20:12:15+00:00" data-subject="">
 
 From Savage Love by Dan Savage
 
@@ -398,7 +398,7 @@ Don't just sit there, heteros. Defend your rights! Don't shop at Target; write '
 
 </div>
 
-<div class="post" data-post-id="9366" data-author="kjartan" data-date="2005-11-04T20:32:32+00:00">
+<div class="post" data-post-id="9366" data-author="kjartan" data-date="2005-11-04T20:32:32+00:00" data-subject="">
 
 My former state of Texas is now trying to pass a constitutional amendment (in Texas, for reasons related to the problems the state had with carpetbaggers from the North passing crappy laws during Reconstruction after the Civil War, you have to pass a constitutional amendment if you want to change almost any law) to ban gay marriage.  I don't think they wrote the text of it very well:
 
@@ -414,7 +414,7 @@ It looks to me like 32. (b) actually bans [i:myjikoe8]any[/i:myjikoe8] marriage,
 
 </div>
 
-<div class="post" data-post-id="9426" data-author="Alberich" data-date="2005-11-09T14:33:05+00:00">
+<div class="post" data-post-id="9426" data-author="Alberich" data-date="2005-11-09T14:33:05+00:00" data-subject="">
 
 Why do trolls troll?  Pretty interesting discussion, actually
 
@@ -424,19 +424,19 @@ Why do trolls troll?  Pretty interesting discussion, actually
 
 </div>
 
-<div class="post" data-post-id="9431" data-author="Weasel" data-date="2005-11-09T19:19:44+00:00">
+<div class="post" data-post-id="9431" data-author="Weasel" data-date="2005-11-09T19:19:44+00:00" data-subject="">
 
 Yup dead right - and that behavior is reinforced because they get the attention they desire, even though it's negative. Psych 11.
 
 </div>
 
-<div class="post" data-post-id="9433" data-author="12345" data-date="2005-11-09T19:49:33+00:00">
+<div class="post" data-post-id="9433" data-author="12345" data-date="2005-11-09T19:49:33+00:00" data-subject="">
 
 I compare it more to rolling a snowball downhill.  It doesn't take much effort, and it's fun to watch. Keyword being fun, of course.
 
 </div>
 
-<div class="post" data-post-id="9621" data-author="Alberich" data-date="2005-11-24T09:30:05+00:00">
+<div class="post" data-post-id="9621" data-author="Alberich" data-date="2005-11-24T09:30:05+00:00" data-subject="">
 
 [http://www.ananova.com/news/story/sm_1611970.html?menu](http://www.ananova.com/news/story/sm_1611970.html?menu)
 
@@ -444,7 +444,7 @@ oh my
 
 </div>
 
-<div class="post" data-post-id="12140" data-author="13" data-date="2006-04-18T18:42:24+00:00">
+<div class="post" data-post-id="12140" data-author="13" data-date="2006-04-18T18:42:24+00:00" data-subject="">
 
 [quote:2bii3rdv]April 18, 2006â€” Remains of an enormous species of carnivorous dinosaur, which was longer than all other previously identified meat-eating dinos, have been found in western Patagonia, according to a news conference held there on Monday.
 
@@ -458,19 +458,19 @@ Paleontologists say Mapusaurus exceeded 41 feet in length and had a shinbone tha
 
 </div>
 
-<div class="post" data-post-id="12142" data-author="Mystery" data-date="2006-04-19T02:56:35+00:00">
+<div class="post" data-post-id="12142" data-author="Mystery" data-date="2006-04-19T02:56:35+00:00" data-subject="Truly disturbing....">
 
 While I could in fact make this stuff up, it is unfortunately true. Tom Cruise plans on eating Katie Holmes placenta.
 
 </div>
 
-<div class="post" data-post-id="12143" data-author="Nascosto" data-date="2006-04-19T03:33:35+00:00">
+<div class="post" data-post-id="12143" data-author="Nascosto" data-date="2006-04-19T03:33:35+00:00" data-subject="">
 
 [http://www.penny-arcade.com/comic/2005/10/17](http://www.penny-arcade.com/comic/2005/10/17)
 
 </div>
 
-<div class="post" data-post-id="12144" data-author="Weasel" data-date="2006-04-19T07:30:52+00:00">
+<div class="post" data-post-id="12144" data-author="Weasel" data-date="2006-04-19T07:30:52+00:00" data-subject="Re: Truly disturbing....">
 
 While I could in fact make this stuff up, it is unfortunately true. Tom Cruise plans on eating Katie Holmes placenta.[/quote:38j1rac8]
 
@@ -480,13 +480,13 @@ ewwww
 
 </div>
 
-<div class="post" data-post-id="12145" data-author="jezer" data-date="2006-04-19T07:35:35+00:00">
+<div class="post" data-post-id="12145" data-author="jezer" data-date="2006-04-19T07:35:35+00:00" data-subject="">
 
 I agree with Weasel, eating her placenta is such a waste, when it could be used as a better brain than he currently has.  :roll:
 
 </div>
 
-<div class="post" data-post-id="12595" data-author="12345" data-date="2006-05-19T12:22:30+00:00">
+<div class="post" data-post-id="12595" data-author="12345" data-date="2006-05-19T12:22:30+00:00" data-subject="">
 
 This is a year old but messed up on so many levels....
 
@@ -536,13 +536,13 @@ Many callers criticised the Government for a â€œhead in the sandâ€ appr
 
 </div>
 
-<div class="post" data-post-id="12597" data-author="Weasel" data-date="2006-05-19T14:21:35+00:00">
+<div class="post" data-post-id="12597" data-author="Weasel" data-date="2006-05-19T14:21:35+00:00" data-subject="">
 
 Wow.. you're right about being messed up on so many levels.. I kind of support the idea in a way, I mean hell, if they think "when more rapists go behind bars, rape rates will go down", then they can be damn sure that rape rates will go down even faster if rapists are aware they risk having their dicks sliced up and then going to jail. On the other hand, I also certainly agree that it will increase the danger to women if they are attacked and the rapist winds up with a 'dick-clamp' attached to his knob.. pretty tough call.. an eye for an eye I guess..
 
 </div>
 
-<div class="post" data-post-id="12598" data-author="12345" data-date="2006-05-19T14:50:44+00:00">
+<div class="post" data-post-id="12598" data-author="12345" data-date="2006-05-19T14:50:44+00:00" data-subject="">
 
 The views expressed are just mind blowing.
 
@@ -558,7 +558,7 @@ Moral? Stay the hell out of South Africa...
 
 </div>
 
-<div class="post" data-post-id="12599" data-author="Weasel" data-date="2006-05-19T17:41:39+00:00">
+<div class="post" data-post-id="12599" data-author="Weasel" data-date="2006-05-19T17:41:39+00:00" data-subject="">
 
 Jesus... estimated 1.69 million women a year were raped in the country (other estimates put the rate even higher), and more than 40 per cent of those raped are children and nationally more than 65 per cent are gang rapes.
 
@@ -568,7 +568,7 @@ Sick. And I wonder how many of those gets AIDS as a result of the rape too.. 'ti
 
 </div>
 
-<div class="post" data-post-id="12600" data-author="Medios" data-date="2006-05-19T21:11:54+00:00">
+<div class="post" data-post-id="12600" data-author="Medios" data-date="2006-05-19T21:11:54+00:00" data-subject="">
 
 The main problem I see with our society is this type of thinking.  People will probably say that its not the rapists fault, his mom called him fat when he was a kid.  Nobody takes responsibility for their actions anymore.  The really sad thing is that if someone raped my family, I would be the one going to jail.
 
@@ -576,7 +576,7 @@ Mike
 
 </div>
 
-<div class="post" data-post-id="12601" data-author="Leaf" data-date="2006-05-19T21:21:35+00:00">
+<div class="post" data-post-id="12601" data-author="Leaf" data-date="2006-05-19T21:21:35+00:00" data-subject="">
 
 I'm all for the "Eye for an Eye and Tooth for a Tooth".
 
@@ -588,7 +588,7 @@ U kill 2-3 ppl with a gun, we should shoot the arms, legs, and then stomach.
 
 </div>
 
-<div class="post" data-post-id="12602" data-author="13" data-date="2006-05-19T21:39:51+00:00">
+<div class="post" data-post-id="12602" data-author="13" data-date="2006-05-19T21:39:51+00:00" data-subject="">
 
 I'll kill a motherf ucker who includes my loved ones in some rapage.  You
 
@@ -596,7 +596,7 @@ can take that shit to the bank.
 
 </div>
 
-<div class="post" data-post-id="12605" data-author="Weasel" data-date="2006-05-20T05:11:56+00:00">
+<div class="post" data-post-id="12605" data-author="Weasel" data-date="2006-05-20T05:11:56+00:00" data-subject="">
 
 ditto
 

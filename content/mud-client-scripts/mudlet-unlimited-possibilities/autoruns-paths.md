@@ -10,7 +10,7 @@ locked: false
 post_count: 4
 ---
 
-<div class="post" data-post-id="36677" data-author="Madigan" data-date="2016-03-01T00:01:51+00:00">
+<div class="post" data-post-id="36677" data-author="Madigan" data-date="2016-03-01T00:01:51+00:00" data-subject="autoruns/paths">
 
 Does anyone have a solution for storing and easliy accessing autoruns/paths w/o memorizing a bunch of aliases? Zmud had a nice pop-out window that would store them all... possibly a db function within mudlet to do this.
 
@@ -18,7 +18,7 @@ ideas?
 
 </div>
 
-<div class="post" data-post-id="36679" data-author="*juggleblood*" data-date="2016-03-01T00:55:05+00:00">
+<div class="post" data-post-id="36679" data-author="*juggleblood*" data-date="2016-03-01T00:55:05+00:00" data-subject="Re: autoruns/paths">
 
 By db function do you mean tables / libraries?
 
@@ -50,7 +50,7 @@ else expandAlias("nnneeessswww") end
 
 </div>
 
-<div class="post" data-post-id="36682" data-author="Madigan" data-date="2016-03-01T08:59:42+00:00">
+<div class="post" data-post-id="36682" data-author="Madigan" data-date="2016-03-01T08:59:42+00:00" data-subject="Re: autoruns/paths">
 
 > ***juggleblood* wrote:**
 > By db function do you mean tables / libraries?
@@ -93,7 +93,7 @@ I love this idea - i need breeze or someone to dumb it down a bit - lost me at t
 
 </div>
 
-<div class="post" data-post-id="36685" data-author="*juggleblood*" data-date="2016-03-01T15:08:38+00:00">
+<div class="post" data-post-id="36685" data-author="*juggleblood*" data-date="2016-03-01T15:08:38+00:00" data-subject="Re: autoruns/paths">
 
 Hrm... Let's make a simple run alias to see where u getting stuck.
 

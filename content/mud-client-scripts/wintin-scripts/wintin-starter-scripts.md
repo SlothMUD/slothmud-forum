@@ -10,7 +10,7 @@ locked: false
 post_count: 8
 ---
 
-<div class="post" data-post-id="11833" data-author="*Splork*" data-date="2006-03-27T16:02:09+00:00">
+<div class="post" data-post-id="11833" data-author="*Splork*" data-date="2006-03-27T16:02:09+00:00" data-subject="Wintin Starter scripts">
 
 Here is a small sampling of a few of my groups for wintin.NET
 
@@ -204,7 +204,7 @@ Splork
 
 </div>
 
-<div class="post" data-post-id="11850" data-author="12345" data-date="2006-03-27T22:28:38+00:00">
+<div class="post" data-post-id="11850" data-author="12345" data-date="2006-03-27T22:28:38+00:00" data-subject="">
 
 This falls in with Splorks $me var.  I'm lazy.  Too lazy in fact to use wintin's autoconnect feature.  I just use the below script and it automatically connects me and sets $me to whoever it is.  Remember that it's best to type the name in as a capitol.
 
@@ -242,7 +242,7 @@ Usage: sloth Name
 
 </div>
 
-<div class="post" data-post-id="11865" data-author="12345" data-date="2006-03-29T04:52:50+00:00">
+<div class="post" data-post-id="11865" data-author="12345" data-date="2006-03-29T04:52:50+00:00" data-subject="">
 
 These are some of the most useful scripts I have.  Basically it tracks the protects around me.  Automatically sets whoever I follow as leader.  Stands up when the leader says all up, rests when the leader says regen (you may want to change to sleep) and accepts targets to the $target var.  'lt' is programmed as 'look target' and you can use it as a template to build pretty much any targeted alias or action.
 
@@ -306,7 +306,7 @@ lt - look at set target.
 
 </div>
 
-<div class="post" data-post-id="11866" data-author="jezer" data-date="2006-03-29T06:18:56+00:00">
+<div class="post" data-post-id="11866" data-author="jezer" data-date="2006-03-29T06:18:56+00:00" data-subject="">
 
 Some great scripts here... I might post some of my more useful ones to this post later... But I'll leave you with this handy one...
 
@@ -346,7 +346,7 @@ Some great scripts here... I might post some of my more useful ones to this post
 
 </div>
 
-<div class="post" data-post-id="12895" data-author="Hobbes" data-date="2006-06-06T16:50:36+00:00">
+<div class="post" data-post-id="12895" data-author="Hobbes" data-date="2006-06-06T16:50:36+00:00" data-subject="">
 
 I copied the scripts posted by Splork, but none of the #actions are working.  Anyone can help?  Specifically I am trying to get these to work:
 
@@ -370,7 +370,7 @@ I copied the scripts posted by Splork, but none of the #actions are working.  An
 
 </div>
 
-<div class="post" data-post-id="12896" data-author="Rynquald" data-date="2006-06-06T20:06:30+00:00">
+<div class="post" data-post-id="12896" data-author="Rynquald" data-date="2006-06-06T20:06:30+00:00" data-subject="">
 
 #alias {vcry} {#var crier $1;#showme <*- $1 -*> is doing the warcries.} {G|Variables}
 
@@ -394,7 +394,7 @@ Can't see anything that would make the tells you bell fail, maybe your volume's 
 
 </div>
 
-<div class="post" data-post-id="12901" data-author="Gimlet" data-date="2006-06-07T03:01:37+00:00">
+<div class="post" data-post-id="12901" data-author="Gimlet" data-date="2006-06-07T03:01:37+00:00" data-subject="">
 
 #action {^$crier yells '%1'} {warcry $1} {G|General} 
 
@@ -402,7 +402,7 @@ Can't see anything that would make the tells you bell fail, maybe your volume's 
 
 </div>
 
-<div class="post" data-post-id="12906" data-author="Shara" data-date="2006-06-07T19:39:56+00:00">
+<div class="post" data-post-id="12906" data-author="Shara" data-date="2006-06-07T19:39:56+00:00" data-subject="">
 
 #action {:)~} {addbradalt} {G|Group}
 

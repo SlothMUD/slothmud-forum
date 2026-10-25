@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="5415" data-author="Dariel" data-date="2005-04-04T02:14:11+00:00">
+<div class="post" data-post-id="5415" data-author="Dariel" data-date="2005-04-04T02:14:11+00:00" data-subject="WTB/WTT: some enchanting magical dust">
 
 I am looking for some enchanting magical dust.
 

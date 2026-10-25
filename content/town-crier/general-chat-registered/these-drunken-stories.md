@@ -10,7 +10,7 @@ locked: false
 post_count: 1
 ---
 
-<div class="post" data-post-id="12656" data-author="13" data-date="2006-05-23T21:32:46+00:00">
+<div class="post" data-post-id="12656" data-author="13" data-date="2006-05-23T21:32:46+00:00" data-subject="These drunken stories">
 
 here's a short one 98% true.
 

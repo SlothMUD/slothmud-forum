@@ -10,7 +10,7 @@ locked: false
 post_count: 3
 ---
 
-<div class="post" data-post-id="19518" data-author="13" data-date="2007-07-29T11:49:46+00:00">
+<div class="post" data-post-id="19518" data-author="13" data-date="2007-07-29T11:49:46+00:00" data-subject="Thus speaketh the Barbarian King">
 
 <942hp 186ma 197mv><62641938xp>
 
@@ -124,13 +124,13 @@ Highest total since last bootup: 47.
 
 </div>
 
-<div class="post" data-post-id="19534" data-author="Leaf" data-date="2007-07-30T14:03:30+00:00">
+<div class="post" data-post-id="19534" data-author="Leaf" data-date="2007-07-30T14:03:30+00:00" data-subject="">
 
 Gratz to 5x40 u addict!!!  "Cocaine is a hell of a drug!" - Rick James
 
 </div>
 
-<div class="post" data-post-id="19551" data-author="Zam" data-date="2007-07-31T04:28:37+00:00">
+<div class="post" data-post-id="19551" data-author="Zam" data-date="2007-07-31T04:28:37+00:00" data-subject="">
 
 fast-leveling newbs )
 
