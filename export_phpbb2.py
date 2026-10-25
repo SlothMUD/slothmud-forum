@@ -580,7 +580,7 @@ def export(out_root, prefix, db, forum_allow, forum_exclude, clean=True):
     try:
         post_cur.execute(
             f"SELECT post_id, topic_id, poster_id, post_username, post_time, "
-            f"post_text, bbcode_uid "
+            f"post_subject, post_text, bbcode_uid "
             f"FROM {prefix}posts "
             f"WHERE forum_id IN ({id_ph}) AND {post_vis} "
             f"ORDER BY topic_id, post_time, post_id", id_args)
@@ -647,7 +647,8 @@ def export(out_root, prefix, db, forum_allow, forum_exclude, clean=True):
                 parts.append(
                     f'<div class="post" data-post-id="{p["post_id"]}" '
                     f'data-author="{html.escape(p_author, quote=True)}" '
-                    f'data-date="{ts(p["post_time"])}">\n\n'
+                    f'data-date="{ts(p["post_time"])}" '
+                    f'data-subject="{html.escape(p["post_subject"] or "", quote=True)}">\n\n'
                     f'{md}\n\n</div>\n'
                 )
 
