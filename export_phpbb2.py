@@ -620,7 +620,9 @@ def export(out_root, prefix, db, forum_allow, forum_exclude, clean=True):
                 continue
 
             # Derived from visible posts only, so hidden-post timing doesn't leak.
-            last = max(p['post_time'] or 0 for p in posts)
+            last_post = max(posts, key=lambda p: (p['post_time'] or 0, p['post_id']))
+            last = last_post['post_time'] or 0
+            last_author = display_name(last_post['poster_id'], last_post['post_username'])
             sticky = bool(t['topic_type'] and t['topic_type'] > 0)
             locked = t['topic_status'] == 1
             author = display_name(t['topic_poster'], t['topic_first_poster_name'])
@@ -632,6 +634,7 @@ def export(out_root, prefix, db, forum_allow, forum_exclude, clean=True):
                 f'author: {yaml_str(author)}',
                 f'date: {ts(t["topic_time"])}',
                 f'last_activity: {ts(last)}',
+                f'last_author: {yaml_str(last_author)}',
                 f'sticky: {"true" if sticky else "false"}',
                 f'locked: {"true" if locked else "false"}',
                 f'post_count: {len(posts)}',

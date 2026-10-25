@@ -1,48 +1,40 @@
 {{ define "main" }}
-<h1>{{ .Site.Title }}</h1>
+
 {{ .Content }}
 
 {{ range where .Site.Sections "Type" "forum" }}
   {{ $parent := . }}
-  <h2><a href="{{ $parent.RelPermalink }}">{{ $parent.Title }}</a></h2>
+  {{/* A category lists its child forums; a top-level forum is shown as a single row. */}}
+  {{ $rows := slice $parent }}
+  {{ if eq $parent.Params.is_category true }}
+    {{ $rows = (where $parent.Sections "Type" "forum").ByWeight }}
+  {{ end }}
 
-  {{ if eq .Params.is_category true }}
-    {{ $children := where $parent.Sections "Type" "forum" }}
-    <table class="forum-index">
+  <div class="forum-table">
+    <table>
+      <colgroup>
+        <col class="col-forum">
+        <col class="col-num">
+        <col class="col-num">
+        <col class="col-last">
+      </colgroup>
       <thead>
-        <tr>
+        <tr class="forum-cat">
+          <th colspan="4"><a href="{{ $parent.RelPermalink }}">{{ $parent.Title }}</a></th>
+        </tr>
+        <tr class="forum-cols">
           <th>Forum</th>
-          <th>Topics</th>
-          <th>Posts</th>
+          <th class="num">Topics</th>
+          <th class="num">Posts</th>
           <th>Last activity</th>
         </tr>
       </thead>
       <tbody>
-        {{ range $children.ByWeight }}
-          <tr>
-            <td>
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              {{ with .Content }}<div class="forum-desc">{{ . | plainify | truncate 120 }}</div>{{ end }}
-            </td>
-            <td>{{ len .Pages }}</td>
-            <td>
-              {{ $posts := 0 }}
-              {{ range .Pages }}{{ $posts = add $posts (default 0 .Params.post_count) }}{{ end }}
-              {{ $posts }}
-            </td>
-            <td>
-              {{ with .Pages.ByParam "last_activity" }}
-                {{ $latest := index (.Reverse) 0 }}
-                <a href="{{ $latest.RelPermalink }}">{{ $latest.Title | truncate 40 }}</a><br>
-                <small>{{ $latest.Params.last_activity }}</small>
-              {{ else }}—{{ end }}
-            </td>
-          </tr>
+        {{ range $rows }}
+          {{ partial "forum-row.html" . }}
         {{ end }}
       </tbody>
     </table>
-  {{ else }}
-    <p>{{ len $parent.Pages }} topics</p>
-  {{ end }}
+  </div>
 {{ end }}
 {{ end }}

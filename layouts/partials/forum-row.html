@@ -1,0 +1,24 @@
+{{- /* One forum row. Context: a forum section page. */ -}}
+{{- $topics := .RegularPagesRecursive -}}
+{{- $posts := 0 -}}
+{{- range $topics }}{{ $posts = add $posts (default 0 .Params.post_count) }}{{ end -}}
+<tr>
+  <td>
+    <a class="forum-name" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ with .Content }}<div class="forum-desc">{{ . | plainify | truncate 120 }}</div>{{ end }}
+  </td>
+  <td class="num">{{ len $topics }}</td>
+  <td class="num">{{ $posts }}</td>
+  <td>
+    {{- with $topics }}
+      {{- $latest := index (.ByParam "last_activity").Reverse 0 -}}
+      <a href="{{ $latest.RelPermalink }}">{{ $latest.Title | truncate 40 }}</a>
+      <div class="forum-meta">
+        {{- with $latest.Params.last_author }}by {{ . }}{{ end -}}
+        {{- with $latest.Params.last_activity }}{{ if $latest.Params.last_author }} · {{ end }}{{ . | time.Format "Jan 2, 2006" }}{{ end -}}
+      </div>
+    {{- else -}}
+      —
+    {{- end }}
+  </td>
+</tr>

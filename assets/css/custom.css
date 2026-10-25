@@ -1,27 +1,81 @@
-/* Make table width consistent and add basic readability styles */
-.forum-index {
-  width: 100%;
-  border-collapse: collapse;
-  margin-bottom: 2rem;
-  font-size: 0.9rem;
+/* Forum index tables (layouts/index.html). Uses Blowfish's colour variables
+   so it follows the active colour scheme and light/dark mode. */
+
+.forum-table {
+  --ft-border:   rgb(var(--color-neutral-300, 212 212 212));
+  --ft-head-bg:  rgb(var(--color-neutral-800, 38 38 38));    /* inverted header row */
+  --ft-head-fg:  rgb(var(--color-neutral-50, 250 250 250));
+  --ft-cols-bg:  rgb(var(--color-neutral-100, 245 245 245));
+  --ft-row-line: rgb(var(--color-neutral-200, 229 229 229));
+  --ft-link:     rgb(var(--color-primary-700, 29 78 216));
+
+  width: 100%;                 /* same width as the content area */
+  margin: 0 0 1.5rem;
+  border: 1px solid var(--ft-border);
+  border-radius: 0.75rem;
+  overflow-x: auto;            /* also clips the corners to the radius */
 }
 
-.forum-index th,
-.forum-index td {
-  padding: 0.6rem 0.75rem;
-  border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+html.dark .forum-table {
+  --ft-border:   rgb(var(--color-neutral-600, 82 82 82));
+  --ft-head-bg:  rgb(var(--color-neutral-200, 229 229 229)); /* inverted for dark mode */
+  --ft-head-fg:  rgb(var(--color-neutral-800, 38 38 38));
+  --ft-cols-bg:  rgb(var(--color-neutral-700, 64 64 64));
+  --ft-row-line: rgb(var(--color-neutral-700, 64 64 64));
+  --ft-link:     rgb(var(--color-primary-400, 96 165 250));
+}
+
+.forum-table table {
+  /* Blowfish sets `table { display: block; overflow: auto }` globally, which
+     makes the table shrink to its content and ignore table-layout. Undo that. */
+  display: table;
+  overflow: visible;
+  width: 100%;
+  min-width: 34rem;            /* scroll sideways on phones instead of crushing */
+  margin: 0;
+  table-layout: fixed;         /* identical column widths in every table */
+  border-collapse: collapse;
+}
+
+.forum-table .col-num  { width: 5.5rem; }
+.forum-table .col-last { width: 16rem; }
+
+.forum-table th,
+.forum-table td {
+  padding: 0.6rem 0.9rem;
   text-align: left;
   vertical-align: top;
+  overflow-wrap: anywhere;
 }
+.forum-table .num { text-align: center; }
 
-.forum-index th {
+/* Category title row: inverted colours */
+.forum-table .forum-cat th {
+  background: var(--ft-head-bg);
+  color: var(--ft-head-fg);
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.forum-table .forum-cat a { color: inherit; text-decoration: none; }
+.forum-table .forum-cat a:hover { text-decoration: underline; }
+
+/* Column labels */
+.forum-table .forum-cols th {
+  background: var(--ft-cols-bg);
+  font-size: 0.8rem;
   font-weight: 600;
-  border-bottom-width: 2px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
 }
 
-/* Slightly smaller description text */
-.forum-desc {
-  font-size: 0.85em;
+.forum-table tbody tr + tr td { border-top: 1px solid var(--ft-row-line); }
+
+.forum-table tbody a { color: var(--ft-link); text-decoration: none; }
+.forum-table tbody a:hover { text-decoration: underline; }
+.forum-table .forum-name { font-weight: 600; }
+
+.forum-table .forum-desc,
+.forum-table .forum-meta {
+  font-size: 0.85rem;
   opacity: 0.75;
-  margin-top: 0.25rem;
 }
