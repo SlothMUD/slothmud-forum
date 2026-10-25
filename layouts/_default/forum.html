@@ -1,25 +1,40 @@
 {{ define "main" }}
+
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 
-{{ $sticky := where .Pages "Params.sticky" true }}
-{{ $normal := where .Pages "Params.sticky" "!=" true }}
-
-{{ if $sticky }}
-<h2>Announcements</h2>
-<ul>
-  {{ range (.Pages.ByParam "last_activity").Reverse }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <small>{{ .Params.post_count }} posts · last {{ .Params.last_activity }}</small></li>
-  {{ end }}
-</ul>
+{{/* Child forums (only if this forum has any), same table as the homepage */}}
+{{ $subs := (where .Sections "Type" "forum").ByWeight }}
+{{ with $subs }}
+  <div class="forum-table">
+    <table>
+      <colgroup>
+        <col class="col-forum">
+        <col class="col-num">
+        <col class="col-num">
+        <col class="col-last">
+      </colgroup>
+      <thead>
+        <tr class="forum-cat"><th colspan="4">Subforums</th></tr>
+        <tr class="forum-cols">
+          <th>Forum</th>
+          <th class="num">Topics</th>
+          <th class="num">Posts</th>
+          <th>Last activity</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range . }}{{ partial "forum-row.html" . }}{{ end }}
+      </tbody>
+    </table>
+  </div>
 {{ end }}
 
-<h2>Topics</h2>
-<ul>
-  {{ range (.Pages.ByParam "last_activity").Reverse }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        <small>{{ .Params.post_count }} posts · last {{ .Params.last_activity }}</small></li>
-  {{ end }}
-</ul>
+{{/* Topics: stickies first, then everything else, both newest activity first */}}
+{{ $sticky := where .RegularPages "Params.sticky" true }}
+{{ $normal := complement $sticky .RegularPages }}
+
+{{ partial "topic-table.html" (dict "title" "Announcements" "pages" ($sticky.ByParam "last_activity").Reverse) }}
+{{ partial "topic-table.html" (dict "title" "Topics" "pages" ($normal.ByParam "last_activity").Reverse) }}
+
 {{ end }}

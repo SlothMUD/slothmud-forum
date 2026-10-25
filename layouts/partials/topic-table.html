@@ -1,0 +1,32 @@
+{{- /* Context: dict with "title" and "pages". Renders nothing if pages is empty. */ -}}
+{{- with .pages }}
+<div class="forum-table">
+  <table>
+    <colgroup>
+      <col class="col-forum">
+      <col class="col-num">
+      <col class="col-last">
+    </colgroup>
+    <thead>
+      <tr class="forum-cat"><th colspan="3">{{ $.title }}</th></tr>
+      <tr class="forum-cols">
+        <th>Topic</th>
+        <th class="num">Posts</th>
+        <th>Last activity</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range . }}
+      <tr>
+        <td><a class="forum-name" href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        <td class="num">{{ default 0 .Params.post_count }}</td>
+        <td>
+          {{- with .Params.last_activity }}{{ . | time.Format "Jan 2, 2006" }}{{ else }}—{{ end }}
+          {{- with .Params.last_author }}<div class="forum-meta">by {{ . }}</div>{{ end }}
+        </td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+{{- end }}
