@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 {{ .Content }}
+{{ partial "archive-notice.html" . }}
 
 {{ range where .Site.Sections "Type" "forum" }}
   {{ $parent := . }}

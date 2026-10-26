@@ -2,6 +2,7 @@
 
 <h1>{{ .Title }}</h1>
 {{ .Content }}
+{{ partial "archive-notice.html" . }}
 
 {{/* Child forums (only if this forum has any), same table as the homepage */}}
 {{ $subs := (where .Sections "Type" "forum").ByWeight }}
