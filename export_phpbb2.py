@@ -159,7 +159,7 @@ def _smiley_html(key):
 # "[a](b)" ...) is backslash-escaped, so it renders exactly as typed. A backslash
 # before ASCII punctuation is always safe, so over-escaping is harmless.
 
-_MD_ESC_RE = re.compile(r'([\\`*_~|<>\[\]&])')
+_MD_ESC_RE = re.compile(r'([\\`*_~|<>&]|\](?=[(\[:]))')
 _LEAD_NUM_RE = re.compile(r'(?m)^([ \t]*)(\d{1,9})([.)])(?=\s)')
 _LEAD_MARK_RE = re.compile(r'(?m)^([ \t]*)([-+#=])')
 
@@ -282,6 +282,21 @@ def _wrap_inline(tag):
 KNOWN_BBCODE = (r'(?:b|i|u|s|url|img|code|quote|color|size|list|attachment|flash|'
                 r'email|font|align|center|left|right|sub|sup|youtube|spoiler|hide|'
                 r'table|tr|td|th|h[1-6]|\*)')
+# phpBB <= 3.1 BBCode tags carry a per-post uid: [b:3r4t5y], [/quote:3r4t5y],
+# [quote:3r4t5y="Name"], [color=red:3r4t5y], [/list:u:3r4t5y], [*:3r4t5y],
+# [/*:m:3r4t5y], [code:1:3r4t5y]. The post row's bbcode_uid normally matches, but
+# merged / split / converted posts can carry a different one, so strip by shape.
+_UID = r'[a-z0-9]{5,10}'
+_BBUID_NAME_RE = re.compile(r'(\[/?' + KNOWN_BBCODE + r')(?::[a-z0-9])?:' + _UID + r'(?=[\]=])', re.I)
+_BBUID_PARAM_RE = re.compile(
+    r'(\[(?:color|size|list|font|align|quote)=[^\]]*?):' + _UID + r'(?=\])', re.I)
+
+
+def _strip_bbcode_uids(text):
+    text = _BBUID_NAME_RE.sub(r'\1', text)
+    return _BBUID_PARAM_RE.sub(r'\1', text)
+
+
 _BBTAG = r'\[/?' + KNOWN_BBCODE + r'(?:[= ][^\]]*)?\]'
 _LEFTOVER_BBCODE_RE = re.compile(_BBTAG, re.I)
 
@@ -361,10 +376,10 @@ def bbcode_to_md(text, post_id=None, uid=''):
     text = (text or '').replace('\r\n', '\n').replace('\r', '\n')
 
     if _XML_ROOT_RE.match(text):
-        text = html.unescape(_xml_to_bbcode(text))
+        text = _strip_bbcode_uids(html.unescape(_xml_to_bbcode(text)))
     else:
         # phpBB <= 3.1: BBCode tags carry a per-post uid, e.g. [b:3r4t5y]
-        text = html.unescape(text)
+        text = _strip_bbcode_uids(html.unescape(text))
         if uid:
             text = text.replace(':' + uid, '')
         for pat, repl in LEGACY_RULES:
@@ -429,6 +444,9 @@ def bbcode_to_md(text, post_id=None, uid=''):
     text = re.sub(r'\x00K(\d+)\x00', lambda m: kept[int(m.group(1))], text)
     text = re.sub(r'\x00CODE(\d+)\x00', lambda m: _fence(codes[int(m.group(1))]), text)
     text = re.sub(r'\n{3,}', '\n\n', text)
+    # Collapse multiple spaces (excluding newlines) into a single space
+    text = re.sub(r'[ \t]{2,}', ' ', text)
+    text = re.sub(r'\n[ \t]*\n[ \t]*\n+', '\n\n', text)
     return text.strip()
 
 
