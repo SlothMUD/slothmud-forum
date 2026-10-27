@@ -227,3 +227,12 @@ html.dark .archive-notice {
   background: rgb(var(--color-primary-900, 30 58 138));
   color: rgb(var(--color-primary-100, 219 234 254));
 }
+
+/* Forum smilies: inline and text-sized, no prose image margins */
+.prose img.smiley {
+  display: inline;
+  margin: 0 0.1em;
+  vertical-align: text-bottom;
+  border-radius: 0;
+  box-shadow: none;
+}

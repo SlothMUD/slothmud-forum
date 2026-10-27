@@ -47,6 +47,7 @@ import shutil
 import sys
 from collections import defaultdict
 from datetime import datetime, timezone
+from urllib.parse import quote
 
 import pymysql
 
@@ -61,6 +62,112 @@ CLEAR_REFUSE_MARKERS = ('.git', 'hugo.toml', 'hugo.yaml', 'hugo.yml', 'hugo.json
 
 class AclError(Exception):
     """Raised when guest permissions can't be determined."""
+
+
+# ---------- Smilies ----------
+
+# Where the smiley image files live in the Hugo site (static/images/smilies/)
+# and the URL they are served from.
+SMILEY_DIR = os.path.join(STATIC_DIR, 'images', 'smilies')
+SMILEY_URL = '/images/smilies'
+
+# phpBB's stock smilies, used only if the board's own smilies table can't be read.
+DEFAULT_SMILIES = {
+    ':D': 'icon_e_biggrin.gif', ':-D': 'icon_e_biggrin.gif', ':grin:': 'icon_e_biggrin.gif',
+    ':)': 'icon_e_smile.gif', ':-)': 'icon_e_smile.gif', ':smile:': 'icon_e_smile.gif',
+    ':(': 'icon_e_sad.gif', ':-(': 'icon_e_sad.gif', ':sad:': 'icon_e_sad.gif',
+    ':o': 'icon_e_surprised.gif', ':-o': 'icon_e_surprised.gif', ':eek:': 'icon_eek.gif',
+    ':shock:': 'icon_eek.gif', ':?': 'icon_e_confused.gif', ':-?': 'icon_e_confused.gif',
+    ':???:': 'icon_e_confused.gif', '8)': 'icon_cool.gif', '8-)': 'icon_cool.gif',
+    ':cool:': 'icon_cool.gif', ':lol:': 'icon_lol.gif', ':x': 'icon_mad.gif',
+    ':-x': 'icon_mad.gif', ':mad:': 'icon_mad.gif', ':P': 'icon_razz.gif',
+    ':-P': 'icon_razz.gif', ':razz:': 'icon_razz.gif', ':oops:': 'icon_redface.gif',
+    ':cry:': 'icon_cry.gif', ':evil:': 'icon_evil.gif', ':twisted:': 'icon_twisted.gif',
+    ':roll:': 'icon_rolleyes.gif', ';)': 'icon_e_wink.gif', ';-)': 'icon_e_wink.gif',
+    ':wink:': 'icon_e_wink.gif', ':!:': 'icon_exclaim.gif', ':?:': 'icon_question.gif',
+    ':idea:': 'icon_idea.gif', ':arrow:': 'icon_arrow.gif', ':|': 'icon_neutral.gif',
+    ':-|': 'icon_neutral.gif', ':mrgreen:': 'icon_mrgreen.gif', ':geek:': 'icon_e_geek.gif',
+    ':ugeek:': 'icon_e_ugeek.gif',
+}
+
+SMILIES = {}          # code -> (file, width, height)
+SMILIES_LOWER = {}    # lower-cased code -> code
+SMILIES_BY_FILE = {}  # file -> first code using it
+_missing_smilies = set()
+
+
+def load_smilies(cur, prefix):
+    """Read code -> image from the board's own smilies table (falls back to the stock set)."""
+    SMILIES.clear()
+    SMILIES_LOWER.clear()
+    SMILIES_BY_FILE.clear()
+    rows = []
+    try:
+        cur.execute(f"SELECT code, smiley_url, smiley_width, smiley_height FROM {prefix}smilies")
+        rows = cur.fetchall()
+    except pymysql.MySQLError as e:
+        print(f'warning: could not read {prefix}smilies ({e}); using the stock phpBB smilies.',
+              file=sys.stderr)
+    if rows:
+        for r in rows:
+            SMILIES[r['code']] = (r['smiley_url'], r['smiley_width'], r['smiley_height'])
+    else:
+        for code, fname in DEFAULT_SMILIES.items():
+            SMILIES[code] = (fname, None, None)
+    for code, (fname, _w, _h) in SMILIES.items():
+        SMILIES_LOWER.setdefault(code.lower(), code)
+        SMILIES_BY_FILE.setdefault(fname, code)
+    print(f'Loaded {len(SMILIES)} smiley codes.', file=sys.stderr)
+
+
+def _dim(v):
+    try:
+        v = int(v)
+        return v if v > 0 else None
+    except (TypeError, ValueError):
+        return None
+
+
+def _smiley_html(key):
+    """HTML for a smiley (looked up by code, or by file name for legacy posts).
+    If the image file isn't in static/images/smilies, the plain code is kept."""
+    code = key
+    entry = SMILIES.get(key)
+    if entry is None and key.lower() in SMILIES_LOWER:
+        code = SMILIES_LOWER[key.lower()]
+        entry = SMILIES[code]
+    if entry is None and key in SMILIES_BY_FILE:
+        code = SMILIES_BY_FILE[key]
+        entry = SMILIES[code]
+    if entry is None:
+        return _escape_md(key)
+    fname = os.path.basename(entry[0] or '')
+    if not fname or not os.path.isfile(os.path.join(SMILEY_DIR, fname)):
+        _missing_smilies.add(fname or code)
+        return _escape_md(code)
+    w, h = _dim(entry[1]), _dim(entry[2])
+    size = f' width="{w}" height="{h}"' if w and h else ''
+    alt = html.escape(code, quote=True)
+    return (f'<img src="{SMILEY_URL}/{quote(fname)}" alt="{alt}" title="{alt}"'
+            f'{size} class="smiley nozoom">')
+
+
+# ---------- Literal-text escaping ----------
+#
+# phpBB shows post text literally; Markdown does not. Anything the author typed
+# that Markdown would treat as syntax ("* item", "_x_", "1. x", "# x", "<tag>",
+# "[a](b)" ...) is backslash-escaped, so it renders exactly as typed. A backslash
+# before ASCII punctuation is always safe, so over-escaping is harmless.
+
+_MD_ESC_RE = re.compile(r'([\\`*_~|<>\[\]&])')
+_LEAD_NUM_RE = re.compile(r'(?m)^([ \t]*)(\d{1,9})([.)])(?=\s)')
+_LEAD_MARK_RE = re.compile(r'(?m)^([ \t]*)([-+#=])')
+
+
+def _escape_md(s):
+    s = _MD_ESC_RE.sub(r'\\\1', s)
+    s = _LEAD_NUM_RE.sub(r'\1\2\\\3', s)
+    return _LEAD_MARK_RE.sub(r'\1\\\2', s)
 
 
 # ---------- URL / BBCode conversion ----------
@@ -92,29 +199,22 @@ def _normalize_url(url):
 def _markdown_image(raw_url):
     url = _normalize_url(raw_url)
     if re.match(r'^(https?:)?//', url, re.I):
-        return f'![]({url})'
+        return f'![]({_safe_dest(url)})'
     if url.startswith('/'):
         rel = url.lstrip('/')
         disk = os.path.join(STATIC_DIR, rel.replace('%20', ' '))
         if os.path.isfile(disk):
-            return f'![]({url})'
+            return f'![]({_safe_dest(url)})'
     # Not a web URL and not a file we have: plain text, never a Markdown link.
     # (Theme link render hooks such as Blowfish's call resources.Get on
     # non-web destinations, which fails the build on paths like C:\\...)
-    return f'(image: {url})'
+    return _escape_md(f'(image: {url})')
 
 
-def _img_repl(m):
-    return _markdown_image(m.group(1))
-
-
-def _url_repl(m):
-    dest = _normalize_url(m.group(1))
-    if re.match(r'^(https?:)?//', dest, re.I):
-        return f'[{m.group(2)}]({dest})'
-    # Only web URLs become Markdown links. Local/relative destinations (old
-    # C:\\... paths, /viewtopic.php?... etc.) are written as plain text.
-    return f'{m.group(2)} ({dest})'
+def _safe_dest(url):
+    """Make a URL safe as a Markdown link/image destination."""
+    return (url.replace(' ', '%20').replace('(', '%28').replace(')', '%29')
+               .replace('<', '%3C').replace('>', '%3E'))
 
 
 def _indent_quote(text):
@@ -132,7 +232,7 @@ _QUOTE_RE = re.compile(
 
 def _quote_repl(m):
     who = (m.group(1) or m.group(2) or '').strip()
-    head = f'**{who} wrote:**' if who else '**Quote:**'
+    head = f'<strong>{_escape_md(who)} wrote:</strong>' if who else '<strong>Quote:</strong>'
     return f'\n\n> {head}\n{_indent_quote(m.group(3))}\n\n'
 
 
@@ -161,42 +261,73 @@ def _fence(code):
     return f'\n\n{f}\n{code}\n{f}\n\n'
 
 
+def _wrap_inline(tag):
+    """[b]/[i] -> <strong>/<em>. Spaces around the content stay outside the tag
+    (so "[i] text [/i]" can't become a stray "* text *"), and the tag is closed and
+    reopened across blank lines so paragraphs stay well-formed."""
+    def repl(m):
+        inner = m.group(1)
+        core = inner.strip()
+        if not core:
+            return inner
+        lead = inner[:len(inner) - len(inner.lstrip())]
+        trail = inner[len(inner.rstrip()):]
+        core = re.sub(r'\n{2,}', f'</{tag}>\n\n<{tag}>', core)
+        return f'{lead}<{tag}>{core}</{tag}>{trail}'
+    return repl
+
+
 # Only strip BBCode tags we know about, so legitimate bracketed text such as
 # "[sic]" or "[1]" survives. Add custom BBCodes here if your board has them.
 KNOWN_BBCODE = (r'(?:b|i|u|s|url|img|code|quote|color|size|list|attachment|flash|'
                 r'email|font|align|center|left|right|sub|sup|youtube|spoiler|hide|'
                 r'table|tr|td|th|h[1-6]|\*)')
-_LEFTOVER_BBCODE_RE = re.compile(r'\[/?' + KNOWN_BBCODE + r'(?:[= ][^\]]*)?\]', re.I)
+_BBTAG = r'\[/?' + KNOWN_BBCODE + r'(?:[= ][^\]]*)?\]'
+_LEFTOVER_BBCODE_RE = re.compile(_BBTAG, re.I)
+
+# Pieces of text that must NOT be escaped: stashed fragments, BBCode tags, bare URLs.
+_NO_ESCAPE_RE = re.compile(
+    r'(\x00(?:K|CODE)\d+\x00|' + _BBTAG + r'|\bhttps?://[^\s<>\[\]]+)', re.I)
+
+
+def _escape_raw(text):
+    parts = _NO_ESCAPE_RE.split(text)  # odd items are the protected pieces
+    return ''.join(p if i % 2 else _escape_md(p) for i, p in enumerate(parts))
+
+
+def _bb_img(m):
+    return f'[img]{m.group(1)}[/img]'
+
 
 # Legacy (phpBB <= 3.1) posts: HTML left in the text by the old parser.
 LEGACY_RULES = [
+    # smilies: <img src="{SMILIES_PATH}/icon_x.gif" alt=":x:" ... />
+    (re.compile(r'<img\s+[^>]*?src\s*=\s*["\']\{SMILIES_PATH\}/([^"\']+)["\'][^>]*>',
+                re.S | re.I),
+        lambda m: '\x00SM' + m.group(1) + '\x00'),
     (re.compile(
         r'<img\s+[^>]*?src\s*=\s*["\']([^"\']+)["\'][^>]*>'
         r'<s>\[img\]</s>\1<e>\[/img\]</e></img>',
         re.S | re.I),
-        _img_repl),
+        _bb_img),
     (re.compile(r'<img\s+[^>]*?src\s*=\s*["\']([^"\']+)["\'][^>]*>', re.S | re.I),
-        _img_repl),
+        _bb_img),
     (re.compile(r'<br\s*/?>', re.I), '\n'),
+    (re.compile(r'<!--.*?-->', re.S), ''),
+    (re.compile(r'<a\s+[^>]*?href\s*=\s*["\']([^"\']+)["\'][^>]*>(.*?)</a>', re.S | re.I),
+        lambda m: f'[url={m.group(1)}]{m.group(2)}[/url]'),
 ]
 
-BBCODE_RULES = [
-    (re.compile(r'\[b\](.*?)\[/b\]', re.S | re.I), r'**\1**'),
-    (re.compile(r'\[i\](.*?)\[/i\]', re.S | re.I), r'*\1*'),
-    (re.compile(r'\[u\](.*?)\[/u\]', re.S | re.I), r'\1'),
-    (re.compile(r'\[url\](.*?)\[/url\]', re.S | re.I), r'\1'),
-    (re.compile(r'\[url=(.*?)\](.*?)\[/url\]', re.S | re.I), _url_repl),
-    (re.compile(r'\[img\](.*?)\[/img\]', re.S | re.I), _img_repl),
-    (re.compile(r'\[color=.*?\](.*?)\[/color\]', re.S | re.I), r'\1'),
-    (re.compile(r'\[size=.*?\](.*?)\[/size\]', re.S | re.I), r'\1'),
-]
-_LIST_RE = re.compile(r'\[list(=[^\]]*)?\](.*?)\[/list\]', re.S | re.I)
 _CODE_RE = re.compile(r'\[code(?:=[^\]]*)?\](.*?)\[/code\]', re.S | re.I)
+_LIST_RE = re.compile(r'\[list(=[^\]]*)?\](.*?)\[/list\]', re.S | re.I)
 
 # ---- phpBB 3.2+ stores posts as s9e XML (<r>...</r> or <t>...</t>) ----
 _XML_ROOT_RE = re.compile(r'^\s*<[rt](?:\s[^<>]*)?>')
 _XML_AUTOLINK_RE = re.compile(r'<URL url="([^"]*)">((?:(?!<s>).)*?)</URL>', re.S)
-_XML_TAG_RE = re.compile(r'</?[A-Za-z][A-Za-z0-9]*(?:\s[^<>]*)?/?>')
+_XML_IMG_RE = re.compile(r'<IMG\b[^>]*?\bsrc="([^"]*)"[^>]*>.*?</IMG>', re.S)
+# element names may contain underscores (LINK_TEXT)
+_XML_TAG_RE = re.compile(r'</?[A-Za-z][A-Za-z0-9_]*(?:\s[^<>]*)?/?>')
+_SMILEY_MARK_RE = re.compile(r'\x00SM(.*?)\x00', re.S)
 
 
 def _xml_to_bbcode(text):
@@ -207,18 +338,23 @@ def _xml_to_bbcode(text):
     entity-escaped, so callers must html.unescape AFTER this runs.
     """
     text = re.sub(r'<br\s*/>', '\n', text)
-    text = re.sub(r'<E>(.*?)</E>', r'\1', text, flags=re.S)       # emoticons -> their text
+    # Images: take the address from the element's own src attribute. Its children
+    # can hold a nested <URL>/<LINK_TEXT> (an auto-linked image URL), which would
+    # otherwise be mistaken for the address.
+    text = _XML_IMG_RE.sub(lambda m: f'[img]{m.group(1)}[/img]', text)
+    # Emoticons: mark them; they become <img> tags later (see _smiley_html).
+    text = re.sub(r'<E>(.*?)</E>', lambda m: '\x00SM' + m.group(1) + '\x00', text, flags=re.S)
     text = _XML_AUTOLINK_RE.sub(r'[url=\1]\2[/url]', text)         # auto-linked URLs
     text = re.sub(r'</?[se]>', '', text)                           # keep BBCode markers
     text = _XML_TAG_RE.sub('', text)                               # drop remaining elements
     return text
 
 
-# Best-effort neutralisation of active HTML that survives conversion.
-# Still keep Hugo's markup.goldmark.renderer.unsafe = false (the default).
+# Belt and braces: every literal "<" is already escaped by _escape_raw, so these
+# should never match; "(?<!\\)" skips the escaped ones.
 _DANGEROUS_TAG_RE = re.compile(
-    r'<(/?\s*(?:script|iframe|object|embed|style|form|link|meta|base|svg|math)\b)', re.I)
-_EVENT_HANDLER_TAG_RE = re.compile(r'<(?=[^>]*\bon\w+\s*=)', re.I)
+    r'(?<!\\)<(/?\s*(?:script|iframe|object|embed|style|form|link|meta|base|svg|math)\b)', re.I)
+_EVENT_HANDLER_TAG_RE = re.compile(r'(?<!\\)<(?=[^>]*\bon\w+\s*=)', re.I)
 
 
 def bbcode_to_md(text, post_id=None, uid=''):
@@ -238,8 +374,15 @@ def bbcode_to_md(text, post_id=None, uid=''):
     # hook for attachment URL rewriting:
     # text = rewrite_attachments(text, post_id)
 
-    # Protect code blocks from every other rule (and from HTML neutralising;
-    # fenced code is rendered as literal text anyway).
+    # Fragments that must reach the output untouched (images, links, smilies).
+    # They are swapped for placeholders now and restored at the very end.
+    kept = []
+
+    def keep(s):
+        kept.append(s)
+        return f'\x00K{len(kept) - 1}\x00'
+
+    # Protect code blocks from every other rule (fenced code is literal text).
     codes = []
 
     def stash(m):
@@ -248,17 +391,42 @@ def bbcode_to_md(text, post_id=None, uid=''):
 
     text = _CODE_RE.sub(stash, text)
 
-    for pat, repl in BBCODE_RULES:
-        text = pat.sub(repl, text)
+    # Smilies, images and links first: their URLs must not be escaped.
+    text = _SMILEY_MARK_RE.sub(lambda m: keep(_smiley_html(m.group(1))), text)
+    text = re.sub(r'\[img\](.*?)\[/img\]',
+                  lambda m: keep(_markdown_image(m.group(1))), text, flags=re.S | re.I)
+    text = re.sub(r'\[url\](.*?)\[/url\]',
+                  lambda m: keep(m.group(1).strip().replace('<', '%3C').replace('>', '%3E')),
+                  text, flags=re.S | re.I)
+
+    def url_repl(m):
+        dest = _normalize_url(m.group(1))
+        label = m.group(2)
+        if re.match(r'^(https?:)?//', dest, re.I):
+            return keep('[') + (label if label.strip() else dest) + keep(f']({_safe_dest(dest)})')
+        # Only web URLs become Markdown links. Local/relative destinations (old
+        # C:\\... paths, /viewtopic.php?... etc.) are written as plain text.
+        return f'{label} ({dest})'
+
+    text = re.sub(r'\[url=(.*?)\](.*?)\[/url\]', url_repl, text, flags=re.S | re.I)
+
+    # Everything left is text the author typed: make Markdown show it literally.
+    text = _escape_raw(text)
+
+    # Formatting BBCode.
+    text = re.sub(r'\[b\](.*?)\[/b\]', _wrap_inline('strong'), text, flags=re.S | re.I)
+    text = re.sub(r'\[i\](.*?)\[/i\]', _wrap_inline('em'), text, flags=re.S | re.I)
+    text = re.sub(r'\[u\](.*?)\[/u\]', r'\1', text, flags=re.S | re.I)
+    text = re.sub(r'\[color=.*?\](.*?)\[/color\]', r'\1', text, flags=re.S | re.I)
+    text = re.sub(r'\[size=.*?\](.*?)\[/size\]', r'\1', text, flags=re.S | re.I)
     text = _convert_quotes(text)
     text = _LIST_RE.sub(_list_repl, text)
     text = _LEFTOVER_BBCODE_RE.sub('', text)
 
     text = _DANGEROUS_TAG_RE.sub(r'&lt;\1', text)
     text = _EVENT_HANDLER_TAG_RE.sub('&lt;', text)
-    # don't let malformed empty-destination images reach the render hook
-    text = re.sub(r'!\[\]\(\s*[/\\]?\s*\)', '', text)
 
+    text = re.sub(r'\x00K(\d+)\x00', lambda m: kept[int(m.group(1))], text)
     text = re.sub(r'\x00CODE(\d+)\x00', lambda m: _fence(codes[int(m.group(1))]), text)
     text = re.sub(r'\n{3,}', '\n\n', text)
     return text.strip()
@@ -465,6 +633,7 @@ def export(out_root, prefix, db, forum_allow, forum_exclude, clean=True):
     cur = db.cursor(pymysql.cursors.DictCursor)
     post_vis, topic_vis = visibility_clauses(cur, prefix)
     forums = load_forums(cur, prefix)
+    load_smilies(cur, prefix)
 
     # ---- guest ACL: required in default mode, advisory with --forums ----
     try:
@@ -580,7 +749,7 @@ def export(out_root, prefix, db, forum_allow, forum_exclude, clean=True):
     try:
         post_cur.execute(
             f"SELECT post_id, topic_id, poster_id, post_username, post_time, "
-            f"post_subject, post_text, bbcode_uid "
+            f"post_text, bbcode_uid "
             f"FROM {prefix}posts "
             f"WHERE forum_id IN ({id_ph}) AND {post_vis} "
             f"ORDER BY topic_id, post_time, post_id", id_args)
@@ -647,8 +816,7 @@ def export(out_root, prefix, db, forum_allow, forum_exclude, clean=True):
                 parts.append(
                     f'<div class="post" data-post-id="{p["post_id"]}" '
                     f'data-author="{html.escape(p_author, quote=True)}" '
-                    f'data-date="{ts(p["post_time"])}" '
-                    f'data-subject="{html.escape(p["post_subject"] or "", quote=True)}">\n\n'
+                    f'data-date="{ts(p["post_time"])}">\n\n'
                     f'{md}\n\n</div>\n'
                 )
 
@@ -667,6 +835,9 @@ def export(out_root, prefix, db, forum_allow, forum_exclude, clean=True):
     finally:
         post_cur.close()
 
+    if _missing_smilies:
+        print(f'warning: smiley image(s) not found in {SMILEY_DIR}, left as text: '
+              f'{sorted(_missing_smilies)}', file=sys.stderr)
     print(f'Exported {len(index_ids)} forum index pages ({len(included)} with content), '
           f'{n_topics} topics, {n_posts} posts.', file=sys.stderr)
 
